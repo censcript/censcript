@@ -3197,7 +3197,7 @@
         <title>Climate Change vs. Snow Cannons</title>
     </programme>
     <programme start="20260226193000 +0000" stop="20260226200000 +0000" channel="DW English HD.starhub">
-        <title>International Debate from Berlin</title>
+        <title>Germany Between the U.S. and China: Who Is the Better Partner?</title>
     </programme>
     <programme start="20260226200000 +0000" stop="20260226203000 +0000" channel="DW English HD.starhub">
         <title>News</title>
@@ -3221,7 +3221,7 @@
         <title>News in Review</title>
     </programme>
     <programme start="20260226223000 +0000" stop="20260226230000 +0000" channel="DW English HD.starhub">
-        <title>International Debate from Berlin</title>
+        <title>Germany Between the U.S. and China: Who Is the Better Partner?</title>
     </programme>
     <programme start="20260226230000 +0000" stop="20260226231500 +0000" channel="DW English HD.starhub">
         <title>News</title>
@@ -6869,7 +6869,7 @@
         <title>UEFA Europa League 2025/26: Stuttgart vs Celtic - KO Play-Offs,2nd Leg (Live)</title>
     </programme>
     <programme start="20260226195500 +0000" stop="20260226220000 +0000" channel="beIN Sports HD.starhub">
-        <title>UEFA Europa League 2025/26: Nottingham Forest vs Fenerbahce - KO Play-Offs,2nd Leg (Live)</title>
+        <title>UEFA Europa League 2025/26: Nottingham Forest vs Fenerbahce - KO Play-Offs,2nd L</title>
     </programme>
     <programme start="20260226220000 +0000" stop="20260226230000 +0000" channel="beIN Sports HD.starhub">
         <title>Rally Sweden</title>

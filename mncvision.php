@@ -3307,7 +3307,126 @@
 <programme start="20260227160000 +0000" stop="20260227163000 +0000" channel="Fight Sports.mncvision">
     <title>FS MMA: Vlismas Vs Wojcik</title>
 </programme>
-Error: Unable to fetch data. HTTP Status Code: 500
+<programme start="20260226173000 +0000" stop="20260226180000 +0000" channel="FOOD TRAVEL.mncvision">
+    <title>Let&#039;s Go</title>
+</programme>
+<programme start="20260226180000 +0000" stop="20260226183000 +0000" channel="FOOD TRAVEL.mncvision">
+    <title>All You Can Eat</title>
+</programme>
+<programme start="20260226183000 +0000" stop="20260226193000 +0000" channel="FOOD TRAVEL.mncvision">
+    <title>Tukang Makan</title>
+</programme>
+<programme start="20260226193000 +0000" stop="20260226203000 +0000" channel="FOOD TRAVEL.mncvision">
+    <title>Dapur Ngebor</title>
+</programme>
+<programme start="20260226203000 +0000" stop="20260226210000 +0000" channel="FOOD TRAVEL.mncvision">
+    <title>Viral Kuliner Review</title>
+</programme>
+<programme start="20260226210000 +0000" stop="20260226213000 +0000" channel="FOOD TRAVEL.mncvision">
+    <title>Viral Kuliner</title>
+</programme>
+<programme start="20260226213000 +0000" stop="20260226220000 +0000" channel="FOOD TRAVEL.mncvision">
+    <title>Let&#039;s Go</title>
+</programme>
+<programme start="20260226220000 +0000" stop="20260226223000 +0000" channel="FOOD TRAVEL.mncvision">
+    <title>Wisata Ziarah</title>
+</programme>
+<programme start="20260226223000 +0000" stop="20260226230000 +0000" channel="FOOD TRAVEL.mncvision">
+    <title>All You Can Eat</title>
+</programme>
+<programme start="20260226230000 +0000" stop="20260226233000 +0000" channel="FOOD TRAVEL.mncvision">
+    <title>Ada Tamu Gokil</title>
+</programme>
+<programme start="20260226233000 +0000" stop="20260227000000 +0000" channel="FOOD TRAVEL.mncvision">
+    <title>Around The World</title>
+</programme>
+<programme start="20260227000000 +0000" stop="20260227003000 +0000" channel="FOOD TRAVEL.mncvision">
+    <title>Selebriti Masak?</title>
+</programme>
+<programme start="20260227003000 +0000" stop="20260227010000 +0000" channel="FOOD TRAVEL.mncvision">
+    <title>Viral Kuliner</title>
+</programme>
+<programme start="20260227010000 +0000" stop="20260227013000 +0000" channel="FOOD TRAVEL.mncvision">
+    <title>Viral Kuliner Review</title>
+</programme>
+<programme start="20260227013000 +0000" stop="20260227020000 +0000" channel="FOOD TRAVEL.mncvision">
+    <title>Kuliner Anak Nusantara</title>
+</programme>
+<programme start="20260227020000 +0000" stop="20260227023000 +0000" channel="FOOD TRAVEL.mncvision">
+    <title>Wisata Ziarah</title>
+</programme>
+<programme start="20260227023000 +0000" stop="20260227030000 +0000" channel="FOOD TRAVEL.mncvision">
+    <title>Travel Addict</title>
+</programme>
+<programme start="20260227030000 +0000" stop="20260227033000 +0000" channel="FOOD TRAVEL.mncvision">
+    <title>Around The World</title>
+</programme>
+<programme start="20260227033000 +0000" stop="20260227040000 +0000" channel="FOOD TRAVEL.mncvision">
+    <title>Let&#039;s Go</title>
+</programme>
+<programme start="20260227040000 +0000" stop="20260227050000 +0000" channel="FOOD TRAVEL.mncvision">
+    <title>Tukang Makan</title>
+</programme>
+<programme start="20260227050000 +0000" stop="20260227060000 +0000" channel="FOOD TRAVEL.mncvision">
+    <title>Dapur Panik</title>
+</programme>
+<programme start="20260227060000 +0000" stop="20260227063000 +0000" channel="FOOD TRAVEL.mncvision">
+    <title>Viral Kuliner</title>
+</programme>
+<programme start="20260227063000 +0000" stop="20260227070000 +0000" channel="FOOD TRAVEL.mncvision">
+    <title>Viral Kuliner Review</title>
+</programme>
+<programme start="20260227070000 +0000" stop="20260227080000 +0000" channel="FOOD TRAVEL.mncvision">
+    <title>Dapur Ngebor</title>
+</programme>
+<programme start="20260227080000 +0000" stop="20260227083000 +0000" channel="FOOD TRAVEL.mncvision">
+    <title>Let&#039;s Go</title>
+</programme>
+<programme start="20260227083000 +0000" stop="20260227090000 +0000" channel="FOOD TRAVEL.mncvision">
+    <title>Kuliner Anak Nusantara</title>
+</programme>
+<programme start="20260227090000 +0000" stop="20260227100000 +0000" channel="FOOD TRAVEL.mncvision">
+    <title>Tukang Makan</title>
+</programme>
+<programme start="20260227100000 +0000" stop="20260227110000 +0000" channel="FOOD TRAVEL.mncvision">
+    <title>Dapur Panik</title>
+</programme>
+<programme start="20260227110000 +0000" stop="20260227113000 +0000" channel="FOOD TRAVEL.mncvision">
+    <title>Viral Kuliner Review</title>
+</programme>
+<programme start="20260227113000 +0000" stop="20260227120000 +0000" channel="FOOD TRAVEL.mncvision">
+    <title>Viral Kuliner</title>
+</programme>
+<programme start="20260227120000 +0000" stop="20260227123000 +0000" channel="FOOD TRAVEL.mncvision">
+    <title>Viral Kuliner</title>
+</programme>
+<programme start="20260227123000 +0000" stop="20260227130000 +0000" channel="FOOD TRAVEL.mncvision">
+    <title>Let&#039;s Go</title>
+</programme>
+<programme start="20260227130000 +0000" stop="20260227133000 +0000" channel="FOOD TRAVEL.mncvision">
+    <title>Around The World</title>
+</programme>
+<programme start="20260227133000 +0000" stop="20260227140000 +0000" channel="FOOD TRAVEL.mncvision">
+    <title>Wisata Ziarah</title>
+</programme>
+<programme start="20260227140000 +0000" stop="20260227143000 +0000" channel="FOOD TRAVEL.mncvision">
+    <title>GPS: Geng Petualangan Seru</title>
+</programme>
+<programme start="20260227143000 +0000" stop="20260227150000 +0000" channel="FOOD TRAVEL.mncvision">
+    <title>All You Can Eat</title>
+</programme>
+<programme start="20260227150000 +0000" stop="20260227153000 +0000" channel="FOOD TRAVEL.mncvision">
+    <title>Selebriti Masak?</title>
+</programme>
+<programme start="20260227153000 +0000" stop="20260227160000 +0000" channel="FOOD TRAVEL.mncvision">
+    <title>Ada Tamu Gokil</title>
+</programme>
+<programme start="20260227160000 +0000" stop="20260227163000 +0000" channel="FOOD TRAVEL.mncvision">
+    <title>Travel Addict</title>
+</programme>
+<programme start="20260227163000 +0000" stop="20260226170000 +0000" channel="FOOD TRAVEL.mncvision">
+    <title>Dapur Panik</title>
+</programme>
 <programme start="20260226173000 +0000" stop="20260226180000 +0000" channel="Food Travel HD.mncvision">
     <title>Let&#039;s Go</title>
 </programme>
@@ -4010,8 +4129,114 @@ Error: Unable to fetch data. HTTP Status Code: 500
 <programme start="20260227164500 +0000" stop="20260226171500 +0000" channel="Global Trekker HD.mncvision">
     <title>Kate Winslet: Leading Lady</title>
 </programme>
-Error: Unable to fetch data. HTTP Status Code: 500
-Error: Unable to fetch data. HTTP Status Code: 500
+<programme start="20260226170000 +0000" stop="20260226190000 +0000" channel="GTV.mncvision">
+    <title>Crime KV</title>
+</programme>
+<programme start="20260226190000 +0000" stop="20260226203000 +0000" channel="GTV.mncvision">
+    <title>Sword Dynasty: Treasure Of...</title>
+</programme>
+<programme start="20260226203000 +0000" stop="20260226220000 +0000" channel="GTV.mncvision">
+    <title>Legend Of Great Ming</title>
+</programme>
+<programme start="20260226220000 +0000" stop="20260226230000 +0000" channel="GTV.mncvision">
+    <title>Kisah Viral</title>
+</programme>
+<programme start="20260226230000 +0000" stop="20260227000000 +0000" channel="GTV.mncvision">
+    <title>SpongeBob SquarePants</title>
+</programme>
+<programme start="20260227000000 +0000" stop="20260227010000 +0000" channel="GTV.mncvision">
+    <title>Obrolan Seputar Selebriti</title>
+</programme>
+<programme start="20260227010000 +0000" stop="20260227013000 +0000" channel="GTV.mncvision">
+    <title>Buletin iNews Pagi</title>
+</programme>
+<programme start="20260227013000 +0000" stop="20260227020000 +0000" channel="GTV.mncvision">
+    <title>CoComelon Dan Sahabat</title>
+</programme>
+<programme start="20260227020000 +0000" stop="20260227023000 +0000" channel="GTV.mncvision">
+    <title>TV Champion</title>
+</programme>
+<programme start="20260227023000 +0000" stop="20260227050000 +0000" channel="GTV.mncvision">
+    <title>SpongeBob SquarePants</title>
+</programme>
+<programme start="20260227050000 +0000" stop="20260227073000 +0000" channel="GTV.mncvision">
+    <title>SpongeBob SquarePants</title>
+</programme>
+<programme start="20260227073000 +0000" stop="20260227093000 +0000" channel="GTV.mncvision">
+    <title>SpongeBob SquarePants</title>
+</programme>
+<programme start="20260227093000 +0000" stop="20260227103500 +0000" channel="GTV.mncvision">
+    <title>SpongeBob SquarePants</title>
+</programme>
+<programme start="20260227103500 +0000" stop="20260227110000 +0000" channel="GTV.mncvision">
+    <title>Ramadan Sama Artis</title>
+</programme>
+<programme start="20260227110000 +0000" stop="20260227123000 +0000" channel="GTV.mncvision">
+    <title>New Family 100</title>
+</programme>
+<programme start="20260227123000 +0000" stop="20260227150000 +0000" channel="GTV.mncvision">
+    <title>Conan The Barbarian</title>
+</programme>
+<programme start="20260227150000 +0000" stop="20260227160000 +0000" channel="GTV.mncvision">
+    <title>Blood &amp; Oath</title>
+</programme>
+<programme start="20260227160000 +0000" stop="20260227163000 +0000" channel="GTV.mncvision">
+    <title>Jelajah Mitos</title>
+</programme>
+<programme start="20260226170000 +0000" stop="20260226190000 +0000" channel="GTV HD.mncvision">
+    <title>Crime KV</title>
+</programme>
+<programme start="20260226190000 +0000" stop="20260226203000 +0000" channel="GTV HD.mncvision">
+    <title>Sword Dynasty: Treasure Of...</title>
+</programme>
+<programme start="20260226203000 +0000" stop="20260226220000 +0000" channel="GTV HD.mncvision">
+    <title>Legend Of Great Ming</title>
+</programme>
+<programme start="20260226220000 +0000" stop="20260226230000 +0000" channel="GTV HD.mncvision">
+    <title>Kisah Viral</title>
+</programme>
+<programme start="20260226230000 +0000" stop="20260227000000 +0000" channel="GTV HD.mncvision">
+    <title>SpongeBob SquarePants</title>
+</programme>
+<programme start="20260227000000 +0000" stop="20260227010000 +0000" channel="GTV HD.mncvision">
+    <title>Obrolan Seputar Selebriti</title>
+</programme>
+<programme start="20260227010000 +0000" stop="20260227013000 +0000" channel="GTV HD.mncvision">
+    <title>Buletin iNews Pagi</title>
+</programme>
+<programme start="20260227013000 +0000" stop="20260227020000 +0000" channel="GTV HD.mncvision">
+    <title>CoComelon Dan Sahabat</title>
+</programme>
+<programme start="20260227020000 +0000" stop="20260227023000 +0000" channel="GTV HD.mncvision">
+    <title>TV Champion</title>
+</programme>
+<programme start="20260227023000 +0000" stop="20260227050000 +0000" channel="GTV HD.mncvision">
+    <title>SpongeBob SquarePants</title>
+</programme>
+<programme start="20260227050000 +0000" stop="20260227073000 +0000" channel="GTV HD.mncvision">
+    <title>SpongeBob SquarePants</title>
+</programme>
+<programme start="20260227073000 +0000" stop="20260227093000 +0000" channel="GTV HD.mncvision">
+    <title>SpongeBob SquarePants</title>
+</programme>
+<programme start="20260227093000 +0000" stop="20260227103500 +0000" channel="GTV HD.mncvision">
+    <title>SpongeBob SquarePants</title>
+</programme>
+<programme start="20260227103500 +0000" stop="20260227110000 +0000" channel="GTV HD.mncvision">
+    <title>Ramadan Sama Artis</title>
+</programme>
+<programme start="20260227110000 +0000" stop="20260227123000 +0000" channel="GTV HD.mncvision">
+    <title>New Family 100</title>
+</programme>
+<programme start="20260227123000 +0000" stop="20260227150000 +0000" channel="GTV HD.mncvision">
+    <title>Conan The Barbarian</title>
+</programme>
+<programme start="20260227150000 +0000" stop="20260227160000 +0000" channel="GTV HD.mncvision">
+    <title>Blood &amp; Oath</title>
+</programme>
+<programme start="20260227160000 +0000" stop="20260227163000 +0000" channel="GTV HD.mncvision">
+    <title>Jelajah Mitos</title>
+</programme>
 <programme start="20260226210000 +0000" stop="20260226213000 +0000" channel="Hanacaraka TV.mncvision">
     <title>Ge Bams</title>
 </programme>
@@ -4090,7 +4315,84 @@ Error: Unable to fetch data. HTTP Status Code: 500
 <programme start="20260227160000 +0000" stop="20260227163000 +0000" channel="Hanacaraka TV.mncvision">
     <title>Wayang Kulit Special</title>
 </programme>
-Error: Unable to fetch data. HTTP Status Code: 500
+<programme start="20260226173500 +0000" stop="20260226183000 +0000" channel="History.mncvision">
+    <title>Alone S10, Ep 11</title>
+</programme>
+<programme start="20260226183000 +0000" stop="20260226192500 +0000" channel="History.mncvision">
+    <title>Secrets Declassified S1, Ep 1</title>
+</programme>
+<programme start="20260226192500 +0000" stop="20260226202000 +0000" channel="History.mncvision">
+    <title>Greatest Mysteries S4, Ep 13</title>
+</programme>
+<programme start="20260226202000 +0000" stop="20260226211500 +0000" channel="History.mncvision">
+    <title>Greatest Mysteries S4, Ep 14</title>
+</programme>
+<programme start="20260226211500 +0000" stop="20260226221000 +0000" channel="History.mncvision">
+    <title>All Things Durian</title>
+</programme>
+<programme start="20260226221000 +0000" stop="20260226230500 +0000" channel="History.mncvision">
+    <title>Secrets Declassified S1, Ep 2</title>
+</programme>
+<programme start="20260226230500 +0000" stop="20260227000000 +0000" channel="History.mncvision">
+    <title>Greatest Mysteries S4, Ep 13</title>
+</programme>
+<programme start="20260227000000 +0000" stop="20260227005500 +0000" channel="History.mncvision">
+    <title>Greatest Mysteries S4, Ep 14</title>
+</programme>
+<programme start="20260227005500 +0000" stop="20260227015500 +0000" channel="History.mncvision">
+    <title>How Disney Built America, Ep 4</title>
+</programme>
+<programme start="20260227015500 +0000" stop="20260227025000 +0000" channel="History.mncvision">
+    <title>All Things Durian</title>
+</programme>
+<programme start="20260227025000 +0000" stop="20260227034500 +0000" channel="History.mncvision">
+    <title>Alone S10, Ep 11</title>
+</programme>
+<programme start="20260227034500 +0000" stop="20260227044000 +0000" channel="History.mncvision">
+    <title>Secrets Declassified S1, Ep 1</title>
+</programme>
+<programme start="20260227044000 +0000" stop="20260227053500 +0000" channel="History.mncvision">
+    <title>Secrets Declassified S1, Ep 2</title>
+</programme>
+<programme start="20260227053500 +0000" stop="20260227063000 +0000" channel="History.mncvision">
+    <title>Greatest Mysteries S4, Ep 13</title>
+</programme>
+<programme start="20260227063000 +0000" stop="20260227072500 +0000" channel="History.mncvision">
+    <title>All Things Durian</title>
+</programme>
+<programme start="20260227072500 +0000" stop="20260227082000 +0000" channel="History.mncvision">
+    <title>Secrets Declassified S1, Ep 1</title>
+</programme>
+<programme start="20260227082000 +0000" stop="20260227092000 +0000" channel="History.mncvision">
+    <title>Greatest Mysteries S4, Ep 14</title>
+</programme>
+<programme start="20260227092000 +0000" stop="20260227101500 +0000" channel="History.mncvision">
+    <title>How Disney Built America, Ep 4</title>
+</programme>
+<programme start="20260227101500 +0000" stop="20260227111000 +0000" channel="History.mncvision">
+    <title>Pawn Stars S23, Ep 57</title>
+</programme>
+<programme start="20260227111000 +0000" stop="20260227120500 +0000" channel="History.mncvision">
+    <title>Skinwalker Ranch S4, Ep 8</title>
+</programme>
+<programme start="20260227120500 +0000" stop="20260227130000 +0000" channel="History.mncvision">
+    <title>Greatest Mysteries S4, Ep 22</title>
+</programme>
+<programme start="20260227130000 +0000" stop="20260227135500 +0000" channel="History.mncvision">
+    <title>Holy Marvels S2, Ep 19</title>
+</programme>
+<programme start="20260227135500 +0000" stop="20260227145000 +0000" channel="History.mncvision">
+    <title>Greatest Mysteries S5, Ep 4</title>
+</programme>
+<programme start="20260227145000 +0000" stop="20260227154500 +0000" channel="History.mncvision">
+    <title>Lost U-Boats Of WW2, Ep 3</title>
+</programme>
+<programme start="20260227154500 +0000" stop="20260227164000 +0000" channel="History.mncvision">
+    <title>Alone S11, Ep 9</title>
+</programme>
+<programme start="20260227164000 +0000" stop="20260226171000 +0000" channel="History.mncvision">
+    <title>Greatest Mysteries S4, Ep 22</title>
+</programme>
 <programme start="20260226170000 +0000" stop="20260226180000 +0000" channel="HITS.mncvision">
     <title>The Waltons S3, Ep 9</title>
 </programme>
@@ -4208,7 +4510,39 @@ Error: Unable to fetch data. HTTP Status Code: 500
 <programme start="20260227160000 +0000" stop="20260227163000 +0000" channel="HITS MOVIES.mncvision">
     <title>Man On Fire</title>
 </programme>
-Error: Unable to fetch data. HTTP Status Code: 500
+<programme start="20260226190000 +0000" stop="20260226204500 +0000" channel="HITS MOVIES HD.mncvision">
+    <title>Epic Movie</title>
+</programme>
+<programme start="20260226204500 +0000" stop="20260226233000 +0000" channel="HITS MOVIES HD.mncvision">
+    <title>Man On Fire</title>
+</programme>
+<programme start="20260226233000 +0000" stop="20260227013000 +0000" channel="HITS MOVIES HD.mncvision">
+    <title>The Wizard Of Oz</title>
+</programme>
+<programme start="20260227013000 +0000" stop="20260227033000 +0000" channel="HITS MOVIES HD.mncvision">
+    <title>Along Came Polly</title>
+</programme>
+<programme start="20260227033000 +0000" stop="20260227061500 +0000" channel="HITS MOVIES HD.mncvision">
+    <title>Man On Fire</title>
+</programme>
+<programme start="20260227061500 +0000" stop="20260227081500 +0000" channel="HITS MOVIES HD.mncvision">
+    <title>The Wizard Of Oz</title>
+</programme>
+<programme start="20260227081500 +0000" stop="20260227100000 +0000" channel="HITS MOVIES HD.mncvision">
+    <title>Epic Movie</title>
+</programme>
+<programme start="20260227100000 +0000" stop="20260227120000 +0000" channel="HITS MOVIES HD.mncvision">
+    <title>Along Came Polly</title>
+</programme>
+<programme start="20260227120000 +0000" stop="20260227140000 +0000" channel="HITS MOVIES HD.mncvision">
+    <title>Postcards From The Edge</title>
+</programme>
+<programme start="20260227140000 +0000" stop="20260227160000 +0000" channel="HITS MOVIES HD.mncvision">
+    <title>Project A</title>
+</programme>
+<programme start="20260227160000 +0000" stop="20260227163000 +0000" channel="HITS MOVIES HD.mncvision">
+    <title>Man On Fire</title>
+</programme>
 <programme start="20260226173000 +0000" stop="20260226183000 +0000" channel="IDX.mncvision">
     <title>Prime Market Highlight</title>
 </programme>
@@ -4383,7 +4717,51 @@ Error: Unable to fetch data. HTTP Status Code: 500
 <programme start="20260227163000 +0000" stop="20260226170000 +0000" channel="IDX HD.mncvision">
     <title>New Top Files</title>
 </programme>
-Error: Unable to fetch data. HTTP Status Code: 500
+<programme start="20260226173500 +0000" stop="20260226190000 +0000" channel="IMC.mncvision">
+    <title>Menggapai Matahari</title>
+</programme>
+<programme start="20260226190000 +0000" stop="20260226201500 +0000" channel="IMC.mncvision">
+    <title>Pulau Hantu 3</title>
+</programme>
+<programme start="20260226201500 +0000" stop="20260226215500 +0000" channel="IMC.mncvision">
+    <title>Menerjang Badai</title>
+</programme>
+<programme start="20260226215500 +0000" stop="20260226234000 +0000" channel="IMC.mncvision">
+    <title>Ken Arok-Ken Dedes</title>
+</programme>
+<programme start="20260226234000 +0000" stop="20260227011500 +0000" channel="IMC.mncvision">
+    <title>Kuntilanak 3</title>
+</programme>
+<programme start="20260227011500 +0000" stop="20260227024000 +0000" channel="IMC.mncvision">
+    <title>Satu Kecupan</title>
+</programme>
+<programme start="20260227024000 +0000" stop="20260227041000 +0000" channel="IMC.mncvision">
+    <title>Aach... Aku Jatuh Cinta</title>
+</programme>
+<programme start="20260227041000 +0000" stop="20260227054500 +0000" channel="IMC.mncvision">
+    <title>Dunia Mereka</title>
+</programme>
+<programme start="20260227054500 +0000" stop="20260227072000 +0000" channel="IMC.mncvision">
+    <title>13</title>
+</programme>
+<programme start="20260227072000 +0000" stop="20260227092000 +0000" channel="IMC.mncvision">
+    <title>Si Manis Jembatan Ancol</title>
+</programme>
+<programme start="20260227092000 +0000" stop="20260227112000 +0000" channel="IMC.mncvision">
+    <title>Hijrah Cinta</title>
+</programme>
+<programme start="20260227112000 +0000" stop="20260227130000 +0000" channel="IMC.mncvision">
+    <title>Kuntilanak</title>
+</programme>
+<programme start="20260227130000 +0000" stop="20260227143500 +0000" channel="IMC.mncvision">
+    <title>Ricky, Nakalnya Anak Muda</title>
+</programme>
+<programme start="20260227143500 +0000" stop="20260227160500 +0000" channel="IMC.mncvision">
+    <title>Nazar</title>
+</programme>
+<programme start="20260227160500 +0000" stop="20260227163500 +0000" channel="IMC.mncvision">
+    <title>Kawin Kontrak</title>
+</programme>
 <programme start="20260226173000 +0000" stop="20260226190000 +0000" channel="Indosiar.mncvision">
     <title>The Master</title>
 </programme>
