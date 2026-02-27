@@ -86,9 +86,13 @@
     <title>Football: Preston North End - Millwall (L)</title>
     <desc>Live: Ya</desc>
 </programme>
-<programme start="20260227210000 +0700" stop="20260227233000 +0700" channel="COSMOTE Sport 2 HD">
-    <title>Football: KRC Genk - GNK Dinamo</title>
+<programme start="20260301000000 +0700" stop="20260301003000 +0700" channel="COSMOTE Sport 1 HD">
+    <title>UEFA Champions League Magazine 2024-25 E22</title>
     <desc>Live: Tidak</desc>
+</programme>
+<programme start="20260301003000 +0700" stop="20260301010000 +0700" channel="COSMOTE Sport 1 HD">
+    <title>PreGame (L)</title>
+    <desc>Live: Ya</desc>
 </programme>
 <programme start="20260227233000 +0700" stop="20260228013000 +0700" channel="COSMOTE Sport 2 HD">
     <title>Football: Crystal Palace - Zrinjski Mostar</title>
@@ -161,6 +165,10 @@
 <programme start="20260228220000 +0700" stop="20260301002000 +0700" channel="COSMOTE Sport 2 HD">
     <title>Football: OFI - AEL Novibet (L)</title>
     <desc>Live: Ya</desc>
+</programme>
+<programme start="20260301002000 +0700" stop="20260301010000 +0700" channel="COSMOTE Sport 2 HD">
+    <title>Sports Classics: My Sporting Moment</title>
+    <desc>Live: Tidak</desc>
 </programme>
 <programme start="20260227230000 +0700" stop="20260228013000 +0700" channel="COSMOTE Sport 3 HD">
     <title>Football: FK Crvena Zvezda - Lille OSC</title>
@@ -238,9 +246,9 @@
     <title>Sports Classics: Worldies E25</title>
     <desc>Live: Tidak</desc>
 </programme>
-<programme start="20260227212500 +0700" stop="20260227232500 +0700" channel="COSMOTE Sport 4 HD">
-    <title>Basketball: Bertram Derthona Tortona - Virtus Bologna</title>
-    <desc>Live: Tidak</desc>
+<programme start="20260301000000 +0700" stop="20260301020000 +0700" channel="COSMOTE Sport 3 HD">
+    <title>Football: Hellas Verona - SSC Napoli (L)</title>
+    <desc>Live: Ya</desc>
 </programme>
 <programme start="20260227232500 +0700" stop="20260228014000 +0700" channel="COSMOTE Sport 4 HD">
     <title>Basketball: Armani Milano - Bertram Derthona Tortona</title>
@@ -300,6 +308,14 @@
 </programme>
 <programme start="20260228224000 +0700" stop="20260301002500 +0700" channel="COSMOTE Sport 4 HD">
     <title>Basketball: Karditsa - AEK</title>
+    <desc>Live: Tidak</desc>
+</programme>
+<programme start="20260301002500 +0700" stop="20260301005500 +0700" channel="COSMOTE Sport 4 HD">
+    <title>NBA Specials</title>
+    <desc>Live: Tidak</desc>
+</programme>
+<programme start="20260301005500 +0700" stop="20260301013000 +0700" channel="COSMOTE Sport 4 HD">
+    <title>NBA on Fire 2025-26 E18</title>
     <desc>Live: Tidak</desc>
 </programme>
 <programme start="20260227225500 +0700" stop="20260228001500 +0700" channel="COSMOTE Sport 5 HD">
@@ -458,6 +474,10 @@
     <title>Tennis: ATP 500 2026 (L)</title>
     <desc>Live: Ya</desc>
 </programme>
+<programme start="20260301003000 +0700" stop="20260301010000 +0700" channel="COSMOTE Sport 6 HD">
+    <title>Sports Classics: 2025 Outdoor Specials</title>
+    <desc>Live: Tidak</desc>
+</programme>
 <programme start="20260227230000 +0700" stop="20260228010000 +0700" channel="COSMOTE Sport 7 HD">
     <title>COSMOTESport7HD</title>
     <desc>Live: Tidak</desc>
@@ -520,10 +540,6 @@
 </programme>
 <programme start="20260228230000 +0700" stop="20260301010000 +0700" channel="COSMOTE Sport 7 HD">
     <title>COSMOTESport7HD</title>
-    <desc>Live: Tidak</desc>
-</programme>
-<programme start="20260227230000 +0700" stop="20260228000000 +0700" channel="COSMOTE Sport 8 HD">
-    <title>COSMOTESport8HD</title>
     <desc>Live: Tidak</desc>
 </programme>
 <programme start="20260228000000 +0700" stop="20260228003000 +0700" channel="COSMOTE Sport 8 HD">
