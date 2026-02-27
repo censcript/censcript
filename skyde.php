@@ -2589,16 +2589,16 @@ Warning: Undefined array key "et" in /usr/home/ManusiaBiasa/domains/manusiabiasa
 <programme start="20260227223000 +0000" stop="20260227233500 +0000" channel="Sky Showcase HD.skyde">
     <title>Charles Manson: Aufstieg eines Monsters</title>
 </programme>
-<programme start="20260226231500 +0000" stop="20260227000000 +0000" channel="Sky Sport Austria 1 HD.skyde">
-    <title>Live Der UEFA Super Donnerstag: Alle Spiele, alle Tore, Knockout Play-offs, Rückspiele</title>
-</programme>
-<programme start="20260227000000 +0000" stop="20260227020000 +0000" channel="Sky Sport Austria 1 HD.skyde">
+<programme start="20260226233000 +0000" stop="20260227013000 +0000" channel="Sky Sport Austria 1 HD.skyde">
     <title>UEFA EL: Roter Stern Belgrad - LOSC Lille, Knockout Play-offs, Rückspiel</title>
 </programme>
-<programme start="20260227020000 +0000" stop="20260227040000 +0000" channel="Sky Sport Austria 1 HD.skyde">
+<programme start="20260227013000 +0000" stop="20260227033000 +0000" channel="Sky Sport Austria 1 HD.skyde">
     <title>UEFA EL: VfB Stuttgart - Celtic Glasgow, Knockout Play-offs, Rückspiel</title>
 </programme>
-<programme start="20260227040000 +0000" stop="20260227061500 +0000" channel="Sky Sport Austria 1 HD.skyde">
+<programme start="20260227033000 +0000" stop="20260227041500 +0000" channel="Sky Sport Austria 1 HD.skyde">
+    <title>Der UEFA Super Donnerstag: Alle Spiele, alle Tore, Knockout Play-offs, Rückspiele</title>
+</programme>
+<programme start="20260227041500 +0000" stop="20260227061500 +0000" channel="Sky Sport Austria 1 HD.skyde">
     <title>UEFA EL: FC Bologna - SK Brann, Knockout Play-offs, Rückspiel</title>
 </programme>
 <programme start="20260227061500 +0000" stop="20260227064500 +0000" channel="Sky Sport Austria 1 HD.skyde">
