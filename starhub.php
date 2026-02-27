@@ -7886,21 +7886,21 @@
         <title>Summer: Dreamy Kitchen Garden &amp; Snake Safety</title>
     </programme>
     <programme start="20260227030000 +0000" stop="20260227032500 +0000" channel="ABC Australia HD.starhub">
-        <title>On Country Kitchen S1</title>
-    </programme>
-    <programme start="20260227032500 +0000" stop="20260227035000 +0000" channel="ABC Australia HD.starhub">
         <title>On Origins</title>
     </programme>
-    <programme start="20260227035000 +0000" stop="20260227041500 +0000" channel="ABC Australia HD.starhub">
+    <programme start="20260227032500 +0000" stop="20260227035000 +0000" channel="ABC Australia HD.starhub">
         <title>The Sauce Of It All</title>
     </programme>
-    <programme start="20260227041500 +0000" stop="20260227045500 +0000" channel="ABC Australia HD.starhub">
+    <programme start="20260227035000 +0000" stop="20260227040000 +0000" channel="ABC Australia HD.starhub">
+        <title>Island of Wisdom - Solomon Islands</title>
+    </programme>
+    <programme start="20260227040000 +0000" stop="20260227044500 +0000" channel="ABC Australia HD.starhub">
         <title>Playing On A Prayer</title>
     </programme>
-    <programme start="20260227045500 +0000" stop="20260227052500 +0000" channel="ABC Australia HD.starhub">
+    <programme start="20260227044500 +0000" stop="20260227052000 +0000" channel="ABC Australia HD.starhub">
         <title>That Pacific Sports Show (2026)</title>
     </programme>
-    <programme start="20260227052500 +0000" stop="20260227055000 +0000" channel="ABC Australia HD.starhub">
+    <programme start="20260227052000 +0000" stop="20260227055000 +0000" channel="ABC Australia HD.starhub">
         <title>Roads Unknown India S1</title>
     </programme>
     <programme start="20260227055000 +0000" stop="20260227060000 +0000" channel="ABC Australia HD.starhub">
@@ -7915,29 +7915,26 @@
     <programme start="20260227080000 +0000" stop="20260227083000 +0000" channel="ABC Australia HD.starhub">
         <title>ABC National News (2026)</title>
     </programme>
-    <programme start="20260227083000 +0000" stop="20260227091000 +0000" channel="ABC Australia HD.starhub">
+    <programme start="20260227083000 +0000" stop="20260227091500 +0000" channel="ABC Australia HD.starhub">
         <title>Playing On A Prayer</title>
     </programme>
-    <programme start="20260227091000 +0000" stop="20260227101000 +0000" channel="ABC Australia HD.starhub">
+    <programme start="20260227091500 +0000" stop="20260227101500 +0000" channel="ABC Australia HD.starhub">
         <title>The Galahs</title>
     </programme>
-    <programme start="20260227101000 +0000" stop="20260227104000 +0000" channel="ABC Australia HD.starhub">
+    <programme start="20260227101500 +0000" stop="20260227104500 +0000" channel="ABC Australia HD.starhub">
         <title>The World (2026)</title>
     </programme>
-    <programme start="20260227104000 +0000" stop="20260227111000 +0000" channel="ABC Australia HD.starhub">
+    <programme start="20260227104500 +0000" stop="20260227111500 +0000" channel="ABC Australia HD.starhub">
         <title>That Pacific Sports Show (2026)</title>
     </programme>
-    <programme start="20260227111000 +0000" stop="20260227120500 +0000" channel="ABC Australia HD.starhub">
+    <programme start="20260227111500 +0000" stop="20260227121000 +0000" channel="ABC Australia HD.starhub">
         <title>Leadership Factor</title>
     </programme>
-    <programme start="20260227120500 +0000" stop="20260227123500 +0000" channel="ABC Australia HD.starhub">
+    <programme start="20260227121000 +0000" stop="20260227124500 +0000" channel="ABC Australia HD.starhub">
         <title>Men&#039;s Health Special</title>
     </programme>
-    <programme start="20260227123500 +0000" stop="20260227124500 +0000" channel="ABC Australia HD.starhub">
-        <title>High Hopes - Nepal</title>
-    </programme>
     <programme start="20260227124500 +0000" stop="20260227131500 +0000" channel="ABC Australia HD.starhub">
-        <title>Australian Story (2026)</title>
+        <title>Out in the Open - Sophie Hyde</title>
     </programme>
     <programme start="20260227131500 +0000" stop="20260227133000 +0000" channel="ABC Australia HD.starhub">
         <title>ABC Late News (2026)</title>

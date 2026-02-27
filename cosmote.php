@@ -98,10 +98,6 @@
     <title>Football: Bayer 04 Leverkusen - Olympiacos</title>
     <desc>Live: Tidak</desc>
 </programme>
-<programme start="20260227120000 +0700" stop="20260227140000 +0700" channel="COSMOTE Sport 2 HD">
-    <title>Football: Olympiacos - Panetolikos</title>
-    <desc>Live: Tidak</desc>
-</programme>
 <programme start="20260227140000 +0700" stop="20260227143000 +0700" channel="COSMOTE Sport 2 HD">
     <title>Serie A Full Impact 2025-26 E26</title>
     <desc>Live: Tidak</desc>
@@ -172,6 +168,14 @@
 </programme>
 <programme start="20260228120000 +0700" stop="20260228141500 +0700" channel="COSMOTE Sport 2 HD">
     <title>Football: OFI - Panathinaikos</title>
+    <desc>Live: Tidak</desc>
+</programme>
+<programme start="20260228141500 +0700" stop="20260228143000 +0700" channel="COSMOTE Sport 2 HD">
+    <title>Sports Highlights</title>
+    <desc>Live: Tidak</desc>
+</programme>
+<programme start="20260228143000 +0700" stop="20260228164000 +0700" channel="COSMOTE Sport 2 HD">
+    <title>Football: Olympiacos - Panetolikos</title>
     <desc>Live: Tidak</desc>
 </programme>
 <programme start="20260227130000 +0700" stop="20260227150000 +0700" channel="COSMOTE Sport 3 HD">
@@ -294,14 +298,6 @@
     <title>Basketball: Valencia Basket Club - Real Madrid</title>
     <desc>Live: Tidak</desc>
 </programme>
-<programme start="20260227121500 +0700" stop="20260227131000 +0700" channel="COSMOTE Sport 5 HD">
-    <title>2025 GT World Challenge Europe</title>
-    <desc>Live: Tidak</desc>
-</programme>
-<programme start="20260227131000 +0700" stop="20260227140000 +0700" channel="COSMOTE Sport 5 HD">
-    <title>Motorsports: Moto3 2026 (L)</title>
-    <desc>Live: Ya</desc>
-</programme>
 <programme start="20260227140000 +0700" stop="20260227145500 +0700" channel="COSMOTE Sport 5 HD">
     <title>Motorsports: Moto2 2026 (L)</title>
     <desc>Live: Ya</desc>
@@ -410,9 +406,9 @@
     <title>Motorsports: Moto2 2026 (L)</title>
     <desc>Live: Ya</desc>
 </programme>
-<programme start="20260227110000 +0700" stop="20260227134000 +0700" channel="COSMOTE Sport 6 HD">
-    <title>Volleyball: Panionios - Panathinaikos</title>
-    <desc>Live: Tidak</desc>
+<programme start="20260228144500 +0700" stop="20260228160000 +0700" channel="COSMOTE Sport 5 HD">
+    <title>Motorsports: MotoGP 2026 (L)</title>
+    <desc>Live: Ya</desc>
 </programme>
 <programme start="20260227134000 +0700" stop="20260227173000 +0700" channel="COSMOTE Sport 6 HD">
     <title>Tennis: ATP 500 2026</title>
