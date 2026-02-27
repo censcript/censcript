@@ -2723,13 +2723,13 @@
         <title>AADUKALAM</title>
     </programme>
     <programme start="20260227073000 +0000" stop="20260227080000 +0000" channel="Sun TV.starhub">
-        <title>Movie-</title>
+        <title>Movie- AMMAN</title>
     </programme>
     <programme start="20260227080000 +0000" stop="20260227083000 +0000" channel="Sun TV.starhub">
         <title>News</title>
     </programme>
     <programme start="20260227083000 +0000" stop="20260227103000 +0000" channel="Sun TV.starhub">
-        <title>Movie contd -</title>
+        <title>Movie contd - AMMAN</title>
     </programme>
     <programme start="20260227103000 +0000" stop="20260227110000 +0000" channel="Sun TV.starhub">
         <title>Chellame Chellame</title>
@@ -7154,7 +7154,7 @@
         <title>Direct Talk</title>
     </programme>
     <programme start="20260227114300 +0000" stop="20260227115500 +0000" channel="NHK WORLD - JAPAN HD.starhub">
-        <title>Impacts: Climates Change the World</title>
+        <title>Why is Hay Fever Getting Worse?</title>
     </programme>
     <programme start="20260227115500 +0000" stop="20260227120000 +0000" channel="NHK WORLD - JAPAN HD.starhub">
         <title>Chatroom Japan</title>
