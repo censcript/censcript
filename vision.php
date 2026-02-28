@@ -365,7 +365,7 @@
 <title>iNews Siang (L)</title>
 </programme>
 <programme start="20260301053000 +0000" stop="20260301070000 +0000" channel="iNews.vision">
-<title>Cahaya Hati Indonesia Ramadan</title>
+<title>Cahaya Hati Indonesia Ramadan (Inews)</title>
 </programme>
 <programme start="20260301070000 +0000" stop="20260301083000 +0000" channel="iNews.vision">
 <title>iSeleb</title>
@@ -706,9 +706,6 @@
 <programme start="20260228003000 +0000" stop="20260228023000 +0000" channel="ANTV.vision">
 <title>Janji Inspektur Virat</title>
 </programme>
-<programme start="20260228023000 +0000" stop="20260228060000 +0000" channel="ANTV.vision">
-<title>Ra One</title>
-</programme>
 <programme start="20260228060000 +0000" stop="20260228080000 +0000" channel="ANTV.vision">
 <title>Jhanak</title>
 </programme>
@@ -885,9 +882,6 @@
 </programme>
 <programme start="20260227233000 +0000" stop="20260228010000 +0000" channel="TVOne.vision">
 <title>Apa Kabar Indonesia Pagi (L)</title>
-</programme>
-<programme start="20260228010000 +0000" stop="20260228020000 +0000" channel="TVOne.vision">
-<title>Inspirasi Pagi</title>
 </programme>
 <programme start="20260228020000 +0000" stop="20260228023000 +0000" channel="TVOne.vision">
 <title>KI Awards 2026</title>
@@ -1497,4 +1491,10 @@
 </programme>
 <programme start="20260228073000 +0000" stop="20260228080000 +0000" channel="DAAI TV.vision">
 <title>Cerita Dan Rasa</title>
+</programme>
+<programme start="20260228080000 +0000" stop="20260228090000 +0000" channel="DAAI TV.vision">
+<title>Kebahagiaan Yang Datang...</title>
+</programme>
+<programme start="20260228090000 +0000" stop="20260228093000 +0000" channel="DAAI TV.vision">
+<title>Cerita Sahabat</title>
 </programme>
