@@ -2942,19 +2942,12 @@
     <desc lang="en">TVS Highlight showcases the most current and important news in a compact, well-rounded format, featuring both local and international updates with thorough and succinct reporting.</desc>
     <category lang="en">News</category>
   </programme>
-  <programme start="20260228070500 +0000" stop="20260228073000 +0000" channel="tvs.unifitv">
+  <programme start="20260228070500 +0000" stop="20260228074500 +0000" channel="tvs.unifitv">
     <title lang="en">Running Man</title>
     <desc lang="en">Running Man, popular South Korean variety show that blends reality television and comedy, airing since 2010. It features a regular cast of celebrity hosts and weekly guest stars participating in.</desc>
     <category lang="en">Culture</category>
     <episode-num system="xmltv_ns">1.35.</episode-num>
     <episode-num system="onscreen">S2E36</episode-num>
-  </programme>
-  <programme start="20260228073000 +0000" stop="20260228074500 +0000" channel="tvs.unifitv">
-    <title lang="en">Orang Kita</title>
-    <desc lang="en">Orang Kita, bersama MINTRED, memaparkan kisah inspirasi usahawan tempatan. Rancangan ini menyerlahkan semangat juang, ketekunan, dan inovasi yang membawa kejayaan, memberi inspirasi kepada usahawan baru dengan keyakinan.</desc>
-    <category lang="en">Culture</category>
-    <episode-num system="xmltv_ns">1.12.</episode-num>
-    <episode-num system="onscreen">S2E13</episode-num>
   </programme>
   <programme start="20260228074500 +0000" stop="20260228080000 +0000" channel="tvs.unifitv">
     <title lang="en">Sarawak Flavours</title>
@@ -3036,10 +3029,15 @@
     <desc lang="en">Detik Dunia membawakan rangkuman berita antarabangsa, mengetengahkan perkembangan global serta kisah-kisah yang membentuk landskap dunia hari ini.</desc>
     <category lang="en">Current Affairs</category>
   </programme>
-  <programme start="20260228123000 +0000" stop="20260228150000 +0000" channel="tvs.unifitv">
+  <programme start="20260228123000 +0000" stop="20260228144500 +0000" channel="tvs.unifitv">
     <title lang="en">Suami, Isteri, Dan.....?</title>
     <desc lang="en">The happiness of the Fatah and Salmah home built on the basis of first love, eventually collapsed when a misunderstanding arises between them after Fatah helped Jamilah get an insurance claim following the death of her husband. Five years later, they met again and were surprised to learn that they were in charge of the same office where Fatah was the leader.</desc>
     <category lang="en">Romance</category>
+  </programme>
+  <programme start="20260228144500 +0000" stop="20260228150000 +0000" channel="tvs.unifitv">
+    <title lang="en">Irama Ramadan Sedunia</title>
+    <desc lang="en">Irama Ramadan Sedunia is a captivating 15-minute program designed to showcase the rich tapestry of musical traditions that illuminate the holy month of Ramadan around the world.</desc>
+    <category lang="en">Religious</category>
   </programme>
   <programme start="20260228150000 +0000" stop="20260228151500 +0000" channel="tvs.unifitv">
     <title lang="en">(L) TVS Nightline</title>
@@ -15151,8 +15149,8 @@
     <episode-num system="onscreen">S1E2105</episode-num>
   </programme>
   <programme start="20260227184800 +0000" stop="20260227190000 +0000" channel="nhkworldjapan.unifitv">
-    <title lang="en">IMPACTS: Climates Change the World</title>
-    <desc lang="en">The entire Earth is affected by climate change, occurring with a greater speed and scale than ever before. This program uses scientific data and the latest findings to raise awareness on its impact.</desc>
+    <title lang="en">Why Is Hay Fever Getting Worse?</title>
+    <desc lang="en">The number of people suffering from hay fever, which seriously impacts daily life, is increasing worldwide. Behind this trend is a change in pollen dispersal patterns influenced by climate change.</desc>
     <category lang="en">News</category>
     <episode-num system="xmltv_ns">0.6127.</episode-num>
     <episode-num system="onscreen">S1E6128</episode-num>
@@ -15228,7 +15226,7 @@
   </programme>
   <programme start="20260227231500 +0000" stop="20260227232000 +0000" channel="nhkworldjapan.unifitv">
     <title lang="en">Chatroom Japan</title>
-    <desc lang="en">Chatroom Japan puts a spotlight on our diverse international community.We report on the issues, speak to those involved, and get a fresh look at what it's like to live in Japan.</desc>
+    <desc lang="en">How can farming in Japan be made more exciting? That question drives a farmer from Indonesia who sees potential to help his community via agriculture.</desc>
     <category lang="en">News</category>
     <episode-num system="xmltv_ns">0.6048.</episode-num>
     <episode-num system="onscreen">S1E6049</episode-num>
@@ -15253,8 +15251,8 @@
     <category lang="en">News</category>
   </programme>
   <programme start="20260228001500 +0000" stop="20260228010500 +0000" channel="nhkworldjapan.unifitv">
-    <title lang="en">Documentary 360</title>
-    <desc lang="en">NHK WORLD-JAPAN's flagship documentary series offers must-see episodes on politics, the economy, social trends, science and the environment in Japan and beyond.</desc>
+    <title lang="en">Being at War</title>
+    <desc lang="en">Fighting to ensure their sacrifice wasn't in vain, Ukrainian Special Ops soldier Vlad documents life and death at the front. Discover the raw face of combat through 40 hours of firsthand footage.</desc>
     <category lang="en">News</category>
     <episode-num system="xmltv_ns">0.3025.</episode-num>
     <episode-num system="onscreen">S1E3026</episode-num>
@@ -15265,8 +15263,8 @@
     <category lang="en">News</category>
   </programme>
   <programme start="20260228011500 +0000" stop="20260228020500 +0000" channel="nhkworldjapan.unifitv">
-    <title lang="en">NHK WORLD TV Special program</title>
-    <desc lang="en">A selection of acclaimed programs from NHK's domestic channels dubbed into English.</desc>
+    <title lang="en">Trouble in Paradise: Okhotsk Confr</title>
+    <desc lang="en">Climate change in the Sea of Okhotsk threatens the rich ecosystem of Shiretoko Peninsula. Decreases in sea ice and spawning fish have upset the natural balance and put once common brown bears at risk.</desc>
     <category lang="en">News</category>
     <episode-num system="xmltv_ns">0.5000.</episode-num>
     <episode-num system="onscreen">S1E5001</episode-num>
@@ -15278,7 +15276,7 @@
   </programme>
   <programme start="20260228021500 +0000" stop="20260228030000 +0000" channel="nhkworldjapan.unifitv">
     <title lang="en">The Professionals</title>
-    <desc lang="en">A documentary series that focuses on first-class professionals from various fields.</desc>
+    <desc lang="en">A local supermarket has won grand prize four years in a row in a major deli dish competition. We follow the deli dish maker who sparked this success. Behind her smile is a past driven to desperation.</desc>
     <category lang="en">News</category>
     <episode-num system="xmltv_ns">0.4002.</episode-num>
     <episode-num system="onscreen">S1E4003</episode-num>
@@ -15310,8 +15308,8 @@
     <episode-num system="onscreen">S1E4045</episode-num>
   </programme>
   <programme start="20260228035500 +0000" stop="20260228040500 +0000" channel="nhkworldjapan.unifitv">
-    <title lang="en">Entertainment</title>
-    <desc lang="en">A selection of acclaimed programs from NHK's domestic channels dubbed into English.</desc>
+    <title lang="en">Mitateru-phose #8</title>
+    <desc lang="en">This program employs "mitateru," a Japanese technique, to inspire children's imagination by encouraging them to view objects differently and develop their unique perspectives and creativity. (#8)</desc>
     <category lang="en">News</category>
     <episode-num system="xmltv_ns">0.4045.</episode-num>
     <episode-num system="onscreen">S1E4046</episode-num>
@@ -15322,8 +15320,8 @@
     <category lang="en">News</category>
   </programme>
   <programme start="20260228041500 +0000" stop="20260228044500 +0000" channel="nhkworldjapan.unifitv">
-    <title lang="en">Time and Tide</title>
-    <desc lang="en">Time and Tide transcends time to detail extraordinary historical events in Japan and the world. Join NHK WORLD-JAPAN on a journey that reveals the truth behind some of the turning points of the past.</desc>
+    <title lang="en">SAMURAI CASTLES: Matsue</title>
+    <desc lang="en">400-year-old Matsue Castle retains its original keep, a National Treasure. Black and imposing, it stands like a battleship. Why did the lord build such an enormous keep on such a small site?</desc>
     <category lang="en">News</category>
     <episode-num system="xmltv_ns">0.3021.</episode-num>
     <episode-num system="onscreen">S1E3022</episode-num>
@@ -15381,8 +15379,8 @@
     <category lang="en">News</category>
   </programme>
   <programme start="20260228061500 +0000" stop="20260228070500 +0000" channel="nhkworldjapan.unifitv">
-    <title lang="en">Documentary 360</title>
-    <desc lang="en">NHK WORLD-JAPAN's flagship documentary series offers must-see episodes on politics, the economy, social trends, science and the environment in Japan and beyond.</desc>
+    <title lang="en">Being at War</title>
+    <desc lang="en">Fighting to ensure their sacrifice wasn't in vain, Ukrainian Special Ops soldier Vlad documents life and death at the front. Discover the raw face of combat through 40 hours of firsthand footage.</desc>
     <category lang="en">News</category>
     <episode-num system="xmltv_ns">0.3025.</episode-num>
     <episode-num system="onscreen">S1E3026</episode-num>
@@ -15393,8 +15391,8 @@
     <category lang="en">News</category>
   </programme>
   <programme start="20260228071500 +0000" stop="20260228080500 +0000" channel="nhkworldjapan.unifitv">
-    <title lang="en">NHK WORLD TV Special program</title>
-    <desc lang="en">A selection of acclaimed programs from NHK's domestic channels dubbed into English.</desc>
+    <title lang="en">Trouble in Paradise: Okhotsk Confr</title>
+    <desc lang="en">Climate change in the Sea of Okhotsk threatens the rich ecosystem of Shiretoko Peninsula. Decreases in sea ice and spawning fish have upset the natural balance and put once common brown bears at risk.</desc>
     <category lang="en">News</category>
     <episode-num system="xmltv_ns">0.5000.</episode-num>
     <episode-num system="onscreen">S1E5001</episode-num>
@@ -15405,8 +15403,8 @@
     <category lang="en">News</category>
   </programme>
   <programme start="20260228081500 +0000" stop="20260228084500 +0000" channel="nhkworldjapan.unifitv">
-    <title lang="en">Time and Tide</title>
-    <desc lang="en">Time and Tide transcends time to detail extraordinary historical events in Japan and the world. Join NHK WORLD-JAPAN on a journey that reveals the truth behind some of the turning points of the past.</desc>
+    <title lang="en">SAMURAI CASTLES: Matsue</title>
+    <desc lang="en">400-year-old Matsue Castle retains its original keep, a National Treasure. Black and imposing, it stands like a battleship. Why did the lord build such an enormous keep on such a small site?</desc>
     <category lang="en">News</category>
     <episode-num system="xmltv_ns">0.3021.</episode-num>
     <episode-num system="onscreen">S1E3022</episode-num>
@@ -15445,8 +15443,8 @@
     <episode-num system="onscreen">S1E4045</episode-num>
   </programme>
   <programme start="20260228095500 +0000" stop="20260228100500 +0000" channel="nhkworldjapan.unifitv">
-    <title lang="en">Entertainment</title>
-    <desc lang="en">A selection of acclaimed programs from NHK's domestic channels dubbed into English.</desc>
+    <title lang="en">Mitateru-phose #8</title>
+    <desc lang="en">This program employs "mitateru," a Japanese technique, to inspire children's imagination by encouraging them to view objects differently and develop their unique perspectives and creativity. (#8)</desc>
     <category lang="en">News</category>
     <episode-num system="xmltv_ns">0.4045.</episode-num>
     <episode-num system="onscreen">S1E4046</episode-num>
@@ -15458,7 +15456,7 @@
   </programme>
   <programme start="20260228101500 +0000" stop="20260228110000 +0000" channel="nhkworldjapan.unifitv">
     <title lang="en">The Professionals</title>
-    <desc lang="en">A documentary series that focuses on first-class professionals from various fields.</desc>
+    <desc lang="en">A local supermarket has won grand prize four years in a row in a major deli dish competition. We follow the deli dish maker who sparked this success. Behind her smile is a past driven to desperation.</desc>
     <category lang="en">News</category>
     <episode-num system="xmltv_ns">0.4002.</episode-num>
     <episode-num system="onscreen">S1E4003</episode-num>
@@ -15509,8 +15507,8 @@
     <category lang="en">News</category>
   </programme>
   <programme start="20260228121500 +0000" stop="20260228130500 +0000" channel="nhkworldjapan.unifitv">
-    <title lang="en">Documentary 360</title>
-    <desc lang="en">NHK WORLD-JAPAN's flagship documentary series offers must-see episodes on politics, the economy, social trends, science and the environment in Japan and beyond.</desc>
+    <title lang="en">Being at War</title>
+    <desc lang="en">Fighting to ensure their sacrifice wasn't in vain, Ukrainian Special Ops soldier Vlad documents life and death at the front. Discover the raw face of combat through 40 hours of firsthand footage.</desc>
     <category lang="en">News</category>
     <episode-num system="xmltv_ns">0.3025.</episode-num>
     <episode-num system="onscreen">S1E3026</episode-num>
@@ -15521,8 +15519,8 @@
     <category lang="en">News</category>
   </programme>
   <programme start="20260228131500 +0000" stop="20260228140500 +0000" channel="nhkworldjapan.unifitv">
-    <title lang="en">NHK WORLD TV Special program</title>
-    <desc lang="en">A selection of acclaimed programs from NHK's domestic channels dubbed into English.</desc>
+    <title lang="en">Trouble in Paradise: Okhotsk Confr</title>
+    <desc lang="en">Climate change in the Sea of Okhotsk threatens the rich ecosystem of Shiretoko Peninsula. Decreases in sea ice and spawning fish have upset the natural balance and put once common brown bears at risk.</desc>
     <category lang="en">News</category>
     <episode-num system="xmltv_ns">0.5000.</episode-num>
     <episode-num system="onscreen">S1E5001</episode-num>
@@ -15554,8 +15552,8 @@
     <episode-num system="onscreen">S1E4045</episode-num>
   </programme>
   <programme start="20260228145500 +0000" stop="20260228150500 +0000" channel="nhkworldjapan.unifitv">
-    <title lang="en">Entertainment</title>
-    <desc lang="en">A selection of acclaimed programs from NHK's domestic channels dubbed into English.</desc>
+    <title lang="en">Mitateru-phose #8</title>
+    <desc lang="en">This program employs "mitateru," a Japanese technique, to inspire children's imagination by encouraging them to view objects differently and develop their unique perspectives and creativity. (#8)</desc>
     <category lang="en">News</category>
     <episode-num system="xmltv_ns">0.4045.</episode-num>
     <episode-num system="onscreen">S1E4046</episode-num>
@@ -15567,7 +15565,7 @@
   </programme>
   <programme start="20260228151500 +0000" stop="20260228160000 +0000" channel="nhkworldjapan.unifitv">
     <title lang="en">The Professionals</title>
-    <desc lang="en">A documentary series that focuses on first-class professionals from various fields.</desc>
+    <desc lang="en">A local supermarket has won grand prize four years in a row in a major deli dish competition. We follow the deli dish maker who sparked this success. Behind her smile is a past driven to desperation.</desc>
     <category lang="en">News</category>
     <episode-num system="xmltv_ns">0.4002.</episode-num>
     <episode-num system="onscreen">S1E4003</episode-num>

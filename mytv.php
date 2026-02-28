@@ -5,7 +5,7 @@
         <title> Ánh sáng tri thức : Vì một Việt Nam khỏe mạnh </title>
     </programme>
     <programme start="20260228013000 +0000" stop="20260228014500 +0000" channel="VTV1 HD.mytv">
-        <title> Văn học nghệ thuật : Dáng lính qua vân chữ </title>
+        <title> Văn học nghệ thuật : Đảng và mùa xuân đất nước </title>
     </programme>
     <programme start="20260228014500 +0000" stop="20260228021000 +0000" channel="VTV1 HD.mytv">
         <title> Phim tài liệu : Yêu cánh chim trời </title>

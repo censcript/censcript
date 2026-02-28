@@ -6736,10 +6736,10 @@
     <programme start="20260228150000 +0000" stop="20260228163300 +0000" channel="TV5MONDE HD.starhub">
         <title>Bellefond - Le Prix De La Vie</title>
     </programme>
-    <programme start="20260227150000 +0000" stop="20260227170000 +0000" channel="Hub Sports 1  HD.starhub">
+    <programme start="20260227150000 +0000" stop="20260227171000 +0000" channel="Hub Sports 1  HD.starhub">
         <title>Dubai Duty Free Tennis C&#039;ships (500) SF 2</title>
     </programme>
-    <programme start="20260227170000 +0000" stop="20260227203000 +0000" channel="Hub Sports 1  HD.starhub">
+    <programme start="20260227171000 +0000" stop="20260227203000 +0000" channel="Hub Sports 1  HD.starhub">
         <title>1st Rd M2: Ecuador vs Australia</title>
     </programme>
     <programme start="20260227203000 +0000" stop="20260227220000 +0000" channel="Hub Sports 1  HD.starhub">
@@ -8029,19 +8029,22 @@
     <programme start="20260227133000 +0000" stop="20260227170000 +0000" channel="Asianet Movies.starhub">
         <title>Vettam</title>
     </programme>
-    <programme start="20260227170000 +0000" stop="20260227193000 +0000" channel="Asianet Movies.starhub">
+    <programme start="20260227171000 +0000" stop="20260227202000 +0000" channel="Asianet Movies.starhub">
         <title>Bangalore Days</title>
     </programme>
-    <programme start="20260227193000 +0000" stop="20260227213000 +0000" channel="Asianet Movies.starhub">
+    <programme start="20260227202000 +0000" stop="20260227230500 +0000" channel="Asianet Movies.starhub">
         <title>Alexander the Great</title>
     </programme>
-    <programme start="20260227213000 +0000" stop="20260228013000 +0000" channel="Asianet Movies.starhub">
+    <programme start="20260227230500 +0000" stop="20260227233000 +0000" channel="Asianet Movies.starhub">
+        <title>Chirikkum Thalika</title>
+    </programme>
+    <programme start="20260227233000 +0000" stop="20260228013000 +0000" channel="Asianet Movies.starhub">
         <title>Jawan of Vellimala</title>
     </programme>
-    <programme start="20260228013000 +0000" stop="20260228043000 +0000" channel="Asianet Movies.starhub">
+    <programme start="20260228013000 +0000" stop="20260228044000 +0000" channel="Asianet Movies.starhub">
         <title>Paappi Appachaa</title>
     </programme>
-    <programme start="20260228043000 +0000" stop="20260228073000 +0000" channel="Asianet Movies.starhub">
+    <programme start="20260228044000 +0000" stop="20260228073000 +0000" channel="Asianet Movies.starhub">
         <title>Teddy</title>
     </programme>
     <programme start="20260228073000 +0000" stop="20260228103000 +0000" channel="Asianet Movies.starhub">
