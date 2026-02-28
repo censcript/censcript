@@ -2639,7 +2639,7 @@ Warning: Undefined array key "et" in /usr/home/ManusiaBiasa/domains/manusiabiasa
 <programme start="20260228203000 +0000" stop="20260228210000 +0000" channel="Sky Sport Austria 2 HD.skyde">
     <title>Es folgt Eishockey: NHL</title>
 </programme>
-<programme start="20260228210000 +0000" stop="20260301090000 +0000" channel="Sky Sport Austria 2 HD.skyde">
+<programme start="20260228210000 +0000" stop="20260301000000 +0000" channel="Sky Sport Austria 2 HD.skyde">
     <title>Live NHL: Edmonton Oilers @ San Jose Sharks</title>
 </programme>
 <programme start="20260227233000 +0000" stop="20260228013000 +0000" channel="Sky Sport Bundesliga HD.skyde">
@@ -2774,7 +2774,7 @@ Warning: Undefined array key "et" in /usr/home/ManusiaBiasa/domains/manusiabiasa
 <programme start="20260228190000 +0000" stop="20260228220000 +0000" channel="Sky Sport Bundesliga 2 HD.skyde">
     <title>Live 2. BL: SpVgg Greuther Fürth - FC Schalke 04, tipico Topspiel der Woche, 24. Spieltag</title>
 </programme>
-<programme start="20260228220000 +0000" stop="20260228230000 +0000" channel="Sky Sport Bundesliga 2 HD.skyde">
+<programme start="20260228220000 +0000" stop="20260228233000 +0000" channel="Sky Sport Bundesliga 2 HD.skyde">
     <title>2. BL Alle Spiele, alle Tore: Die Vodafone Highlight-Show, 24. Spieltag, Samstag komplett</title>
 </programme>
 <programme start="20260228111000 +0000" stop="20260228113000 +0000" channel="Sky Sport Bundesliga 3 HD.skyde">
@@ -2801,7 +2801,7 @@ Warning: Undefined array key "et" in /usr/home/ManusiaBiasa/domains/manusiabiasa
 <programme start="20260228140000 +0000" stop="20260228141500 +0000" channel="Sky Sport Bundesliga 4 HD.skyde">
     <title>Live BL: TSG - STP: tipico Countdown, 24. Spieltag</title>
 </programme>
-<programme start="20260228141500 +0000" stop="20260228164500 +0000" channel="Sky Sport Bundesliga 4 HD.skyde">
+<programme start="20260228141500 +0000" stop="20260228171500 +0000" channel="Sky Sport Bundesliga 4 HD.skyde">
     <title>Live BL: TSG Hoffenheim - FC St. Pauli, 24. Spieltag</title>
 </programme>
 <programme start="20260228111000 +0000" stop="20260228113000 +0000" channel="Sky Sport Bundesliga 5 HD.skyde">
@@ -3134,10 +3134,10 @@ Warning: Undefined array key "et" in /usr/home/ManusiaBiasa/domains/manusiabiasa
 <programme start="20260228215500 +0000" stop="20260301000000 +0000" channel="Sky Sport Premier League HD.skyde">
     <title>PL: FC Liverpool - West Ham United, 28. Spieltag</title>
 </programme>
-<programme start="20260228011000 +0000" stop="20260228030000 +0000" channel="Sky Sport Tennis HD.skyde">
+<programme start="20260228011000 +0000" stop="20260228034500 +0000" channel="Sky Sport Tennis HD.skyde">
     <title>Live ATP 500: HF1, Abierto Mexicano Telcel presented by HSBC in Acapulco (MEX), Halbfinale 1</title>
 </programme>
-<programme start="20260228030000 +0000" stop="20260228050000 +0000" channel="Sky Sport Tennis HD.skyde">
+<programme start="20260228034500 +0000" stop="20260228050000 +0000" channel="Sky Sport Tennis HD.skyde">
     <title>Live ATP 500: HF2, Abierto Mexicano Telcel presented by HSBC in Acapulco (MEX), Halbfinale 2</title>
 </programme>
 <programme start="20260228050000 +0000" stop="20260228060000 +0000" channel="Sky Sport Tennis HD.skyde">
@@ -3170,31 +3170,25 @@ Warning: Undefined array key "et" in /usr/home/ManusiaBiasa/domains/manusiabiasa
 <programme start="20260228213000 +0000" stop="20260301000000 +0000" channel="Sky Sport Tennis HD.skyde">
     <title>ATP 500: Finale, Dubai Duty Free Tennis Championships in Dubai (VAE), Finale</title>
 </programme>
-<programme start="20260228010000 +0000" stop="20260228030000 +0000" channel="Sky Sport Top Event HD.skyde">
+<programme start="20260228011000 +0000" stop="20260228034500 +0000" channel="Sky Sport Top Event HD.skyde">
     <title>Live ATP 500: HF1, Abierto Mexicano Telcel presented by HSBC in Acapulco (MEX), Halbfinale 1</title>
-</programme>
-<programme start="20260228030000 +0000" stop="20260228034500 +0000" channel="Sky Sport Top Event HD.skyde">
-    <title>Live MotoGP: 2. Freies Training - GP Thailand</title>
 </programme>
 <programme start="20260228034500 +0000" stop="20260228050000 +0000" channel="Sky Sport Top Event HD.skyde">
     <title>Live MotoGP: Qualifying - GP Thailand</title>
 </programme>
-<programme start="20260228050000 +0000" stop="20260228053000 +0000" channel="Sky Sport Top Event HD.skyde">
+<programme start="20260228050000 +0000" stop="20260228054000 +0000" channel="Sky Sport Top Event HD.skyde">
     <title>Fußball: scooore Argentinien! Alle Tore</title>
 </programme>
-<programme start="20260228053000 +0000" stop="20260228054500 +0000" channel="Sky Sport Top Event HD.skyde">
-    <title>NHL: Highlights DET@OTT</title>
-</programme>
-<programme start="20260228054500 +0000" stop="20260228064000 +0000" channel="Sky Sport Top Event HD.skyde">
+<programme start="20260228054000 +0000" stop="20260228064000 +0000" channel="Sky Sport Top Event HD.skyde">
     <title>Live Moto3: Qualifying - GP Thailand</title>
 </programme>
 <programme start="20260228064000 +0000" stop="20260228073000 +0000" channel="Sky Sport Top Event HD.skyde">
     <title>Live Moto2: Qualifying - GP Thailand</title>
 </programme>
-<programme start="20260228073000 +0000" stop="20260228090000 +0000" channel="Sky Sport Top Event HD.skyde">
+<programme start="20260228073000 +0000" stop="20260228090500 +0000" channel="Sky Sport Top Event HD.skyde">
     <title>Live MotoGP: Sprint - GP Thailand</title>
 </programme>
-<programme start="20260228090000 +0000" stop="20260228094500 +0000" channel="Sky Sport Top Event HD.skyde">
+<programme start="20260228090500 +0000" stop="20260228094500 +0000" channel="Sky Sport Top Event HD.skyde">
     <title>2. BL Alle Spiele, alle Tore: Die Vodafone Highlight-Show, 24. Spieltag, Freitag</title>
 </programme>
 <programme start="20260228094500 +0000" stop="20260228100000 +0000" channel="Sky Sport Top Event HD.skyde">
