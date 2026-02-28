@@ -2750,7 +2750,7 @@ Warning: Undefined array key "et" in /usr/home/ManusiaBiasa/domains/manusiabiasa
 <programme start="20260228141500 +0000" stop="20260228164500 +0000" channel="Sky Sport Bundesliga 1 HD.skyde">
     <title>Live BL: Bayer Leverkusen - 1. FSV Mainz 05, 24. Spieltag</title>
 </programme>
-<programme start="20260228164500 +0000" stop="20260228203000 +0000" channel="Sky Sport Bundesliga 1 HD.skyde">
+<programme start="20260228164500 +0000" stop="20260228210000 +0000" channel="Sky Sport Bundesliga 1 HD.skyde">
     <title>Live BL: Borussia Dortmund - FC Bayern München, tipico Topspiel der Woche, 24. Spieltag</title>
 </programme>
 <programme start="20260228111000 +0000" stop="20260228113000 +0000" channel="Sky Sport Bundesliga 2 HD.skyde">
@@ -2774,7 +2774,7 @@ Warning: Undefined array key "et" in /usr/home/ManusiaBiasa/domains/manusiabiasa
 <programme start="20260228190000 +0000" stop="20260228220000 +0000" channel="Sky Sport Bundesliga 2 HD.skyde">
     <title>Live 2. BL: SpVgg Greuther Fürth - FC Schalke 04, tipico Topspiel der Woche, 24. Spieltag</title>
 </programme>
-<programme start="20260228220000 +0000" stop="20260228233000 +0000" channel="Sky Sport Bundesliga 2 HD.skyde">
+<programme start="20260228220000 +0000" stop="20260228230000 +0000" channel="Sky Sport Bundesliga 2 HD.skyde">
     <title>2. BL Alle Spiele, alle Tore: Die Vodafone Highlight-Show, 24. Spieltag, Samstag komplett</title>
 </programme>
 <programme start="20260228111000 +0000" stop="20260228113000 +0000" channel="Sky Sport Bundesliga 3 HD.skyde">
@@ -2789,7 +2789,7 @@ Warning: Undefined array key "et" in /usr/home/ManusiaBiasa/domains/manusiabiasa
 <programme start="20260228141500 +0000" stop="20260228164500 +0000" channel="Sky Sport Bundesliga 3 HD.skyde">
     <title>Live BL: Werder Bremen - 1. FC Heidenheim, 24. Spieltag</title>
 </programme>
-<programme start="20260228164500 +0000" stop="20260228210000 +0000" channel="Sky Sport Bundesliga 3 HD.skyde">
+<programme start="20260228164500 +0000" stop="20260228203000 +0000" channel="Sky Sport Bundesliga 3 HD.skyde">
     <title>Live BL: Tactical Feed: BVB - FCB, 24. Spieltag</title>
 </programme>
 <programme start="20260228111000 +0000" stop="20260228113000 +0000" channel="Sky Sport Bundesliga 4 HD.skyde">
@@ -2801,7 +2801,7 @@ Warning: Undefined array key "et" in /usr/home/ManusiaBiasa/domains/manusiabiasa
 <programme start="20260228140000 +0000" stop="20260228141500 +0000" channel="Sky Sport Bundesliga 4 HD.skyde">
     <title>Live BL: TSG - STP: tipico Countdown, 24. Spieltag</title>
 </programme>
-<programme start="20260228141500 +0000" stop="20260228164500 +0000" channel="Sky Sport Bundesliga 4 HD.skyde">
+<programme start="20260228141500 +0000" stop="20260228171500 +0000" channel="Sky Sport Bundesliga 4 HD.skyde">
     <title>Live BL: TSG Hoffenheim - FC St. Pauli, 24. Spieltag</title>
 </programme>
 <programme start="20260228111000 +0000" stop="20260228113000 +0000" channel="Sky Sport Bundesliga 5 HD.skyde">
@@ -2819,7 +2819,7 @@ Warning: Undefined array key "et" in /usr/home/ManusiaBiasa/domains/manusiabiasa
 <programme start="20260228113000 +0000" stop="20260228140000 +0000" channel="Sky Sport Bundesliga 6 HD.skyde">
     <title>Live 2. BL: Multiview 24. Spieltag, Samstag</title>
 </programme>
-<programme start="20260228140000 +0000" stop="20260228164500 +0000" channel="Sky Sport Bundesliga 6 HD.skyde">
+<programme start="20260228140000 +0000" stop="20260228171500 +0000" channel="Sky Sport Bundesliga 6 HD.skyde">
     <title>Live BL: Multiview 24. Spieltag</title>
 </programme>
 <programme start="20260228111000 +0000" stop="20260228113000 +0000" channel="Sky Sport Bundesliga 7 HD.skyde">
@@ -2933,10 +2933,13 @@ Warning: Undefined array key "et" in /usr/home/ManusiaBiasa/domains/manusiabiasa
 <programme start="20260228034500 +0000" stop="20260228050000 +0000" channel="Sky Sport Mix HD.skyde">
     <title>Live MotoGP: Qualifying - GP Thailand</title>
 </programme>
-<programme start="20260228050000 +0000" stop="20260228054000 +0000" channel="Sky Sport Mix HD.skyde">
+<programme start="20260228050000 +0000" stop="20260228053000 +0000" channel="Sky Sport Mix HD.skyde">
     <title>Fußball: scooore Argentinien! Alle Tore</title>
 </programme>
-<programme start="20260228054000 +0000" stop="20260228064000 +0000" channel="Sky Sport Mix HD.skyde">
+<programme start="20260228053000 +0000" stop="20260228054500 +0000" channel="Sky Sport Mix HD.skyde">
+    <title>NHL: Highlights DET@OTT</title>
+</programme>
+<programme start="20260228054500 +0000" stop="20260228064000 +0000" channel="Sky Sport Mix HD.skyde">
     <title>Live Moto3: Qualifying - GP Thailand</title>
 </programme>
 <programme start="20260228064000 +0000" stop="20260228073000 +0000" channel="Sky Sport Mix HD.skyde">
@@ -3128,10 +3131,10 @@ Warning: Undefined array key "et" in /usr/home/ManusiaBiasa/domains/manusiabiasa
 <programme start="20260228215500 +0000" stop="20260301000000 +0000" channel="Sky Sport Premier League HD.skyde">
     <title>PL: FC Liverpool - West Ham United, 28. Spieltag</title>
 </programme>
-<programme start="20260228011000 +0000" stop="20260228031000 +0000" channel="Sky Sport Tennis HD.skyde">
+<programme start="20260228010000 +0000" stop="20260228030000 +0000" channel="Sky Sport Tennis HD.skyde">
     <title>Live ATP 500: HF1, Abierto Mexicano Telcel presented by HSBC in Acapulco (MEX), Halbfinale 1</title>
 </programme>
-<programme start="20260228031000 +0000" stop="20260228050000 +0000" channel="Sky Sport Tennis HD.skyde">
+<programme start="20260228030000 +0000" stop="20260228050000 +0000" channel="Sky Sport Tennis HD.skyde">
     <title>Live ATP 500: HF2, Abierto Mexicano Telcel presented by HSBC in Acapulco (MEX), Halbfinale 2</title>
 </programme>
 <programme start="20260228050000 +0000" stop="20260228060000 +0000" channel="Sky Sport Tennis HD.skyde">
@@ -3224,7 +3227,7 @@ Warning: Undefined array key "et" in /usr/home/ManusiaBiasa/domains/manusiabiasa
 <programme start="20260228143000 +0000" stop="20260228145000 +0000" channel="Sky Sport 8 HD.skyde">
     <title>Es folgt: Live Premier League</title>
 </programme>
-<programme start="20260228145000 +0000" stop="20260228173000 +0000" channel="Sky Sport 8 HD.skyde">
+<programme start="20260228145000 +0000" stop="20260228170000 +0000" channel="Sky Sport 8 HD.skyde">
     <title>Live PL: FC Liverpool - West Ham United, 28. Spieltag</title>
 </programme>
 <programme start="20260227232000 +0000" stop="20260228000500 +0000" channel="SYFY HD.skyde">
@@ -3479,10 +3482,10 @@ Warning: Undefined array key "et" in /usr/home/ManusiaBiasa/domains/manusiabiasa
 <programme start="20260228053000 +0000" stop="20260228055500 +0000" channel="Warner TV Comedy HD.skyde">
     <title>Die Nanny</title>
 </programme>
-<programme start="20260228055500 +0000" stop="20260228062000 +0000" channel="Warner TV Comedy HD.skyde">
+<programme start="20260228055500 +0000" stop="20260228062500 +0000" channel="Warner TV Comedy HD.skyde">
     <title>Die Nanny</title>
 </programme>
-<programme start="20260228062000 +0000" stop="20260228065000 +0000" channel="Warner TV Comedy HD.skyde">
+<programme start="20260228062500 +0000" stop="20260228065000 +0000" channel="Warner TV Comedy HD.skyde">
     <title>Die Nanny</title>
 </programme>
 <programme start="20260228065000 +0000" stop="20260228071500 +0000" channel="Warner TV Comedy HD.skyde">
@@ -3563,10 +3566,10 @@ Warning: Undefined array key "et" in /usr/home/ManusiaBiasa/domains/manusiabiasa
 <programme start="20260228170500 +0000" stop="20260228173000 +0000" channel="Warner TV Comedy HD.skyde">
     <title>King of Queens</title>
 </programme>
-<programme start="20260228173000 +0000" stop="20260228175500 +0000" channel="Warner TV Comedy HD.skyde">
+<programme start="20260228173000 +0000" stop="20260228180000 +0000" channel="Warner TV Comedy HD.skyde">
     <title>King of Queens</title>
 </programme>
-<programme start="20260228175500 +0000" stop="20260228182500 +0000" channel="Warner TV Comedy HD.skyde">
+<programme start="20260228180000 +0000" stop="20260228182500 +0000" channel="Warner TV Comedy HD.skyde">
     <title>King of Queens</title>
 </programme>
 <programme start="20260228182500 +0000" stop="20260228185000 +0000" channel="Warner TV Comedy HD.skyde">
@@ -3713,10 +3716,10 @@ Warning: Undefined array key "et" in /usr/home/ManusiaBiasa/domains/manusiabiasa
 <programme start="20260228105000 +0000" stop="20260228113500 +0000" channel="Warner TV Serie HD.skyde">
     <title>Fringe</title>
 </programme>
-<programme start="20260228113500 +0000" stop="20260228122000 +0000" channel="Warner TV Serie HD.skyde">
+<programme start="20260228113500 +0000" stop="20260228122500 +0000" channel="Warner TV Serie HD.skyde">
     <title>NCIS: Los Angeles</title>
 </programme>
-<programme start="20260228122000 +0000" stop="20260228131000 +0000" channel="Warner TV Serie HD.skyde">
+<programme start="20260228122500 +0000" stop="20260228131000 +0000" channel="Warner TV Serie HD.skyde">
     <title>NCIS: Los Angeles</title>
 </programme>
 <programme start="20260228131000 +0000" stop="20260228135500 +0000" channel="Warner TV Serie HD.skyde">
