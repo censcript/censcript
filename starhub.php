@@ -6757,22 +6757,13 @@
     <programme start="20260228003000 +0000" stop="20260228010000 +0000" channel="Hub Sports 1  HD.starhub">
         <title>Episode 38</title>
     </programme>
-    <programme start="20260228010000 +0000" stop="20260228030000 +0000" channel="Hub Sports 1  HD.starhub">
+    <programme start="20260228010000 +0000" stop="20260228035000 +0000" channel="Hub Sports 1  HD.starhub">
         <title>Abierto Mexicano Telcel p/b HSBC (500) SF 1</title>
     </programme>
-    <programme start="20260228030000 +0000" stop="20260228050000 +0000" channel="Hub Sports 1  HD.starhub">
+    <programme start="20260228035000 +0000" stop="20260228070500 +0000" channel="Hub Sports 1  HD.starhub">
         <title>Abierto Mexicano Telcel p/b HSBC (500) SF 2</title>
     </programme>
-    <programme start="20260228050000 +0000" stop="20260228060000 +0000" channel="Hub Sports 1  HD.starhub">
-        <title>Dallas Open</title>
-    </programme>
-    <programme start="20260228060000 +0000" stop="20260228063000 +0000" channel="Hub Sports 1  HD.starhub">
-        <title>UCI Pro Series - Muscat Classic Final H/Ls</title>
-    </programme>
-    <programme start="20260228063000 +0000" stop="20260228070000 +0000" channel="Hub Sports 1  HD.starhub">
-        <title>Season 3 Episode 10</title>
-    </programme>
-    <programme start="20260228070000 +0000" stop="20260228083000 +0000" channel="Hub Sports 1  HD.starhub">
+    <programme start="20260228070500 +0000" stop="20260228083000 +0000" channel="Hub Sports 1  HD.starhub">
         <title>BCI Seguros Chile Open (250) QF 1</title>
     </programme>
     <programme start="20260228083000 +0000" stop="20260228100000 +0000" channel="Hub Sports 1  HD.starhub">
