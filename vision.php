@@ -634,6 +634,12 @@
 <programme start="20260228154500 +0000" stop="20260228163000 +0000" channel="Trans 7.vision">
 <title>The Police</title>
 </programme>
+<programme start="20260228163000 +0000" stop="20260228174500 +0000" channel="Trans 7.vision">
+<title>IQ Jongkok</title>
+</programme>
+<programme start="20260228174500 +0000" stop="20260228183000 +0000" channel="Trans 7.vision">
+<title>MotoGP Sprint Race: Thailand</title>
+</programme>
 <programme start="20260228183000 +0000" stop="20260228190000 +0000" channel="Trans 7.vision">
 <title>Best Fishing</title>
 </programme>
@@ -711,6 +717,15 @@
 </programme>
 <programme start="20260228111000 +0000" stop="20260228113000 +0000" channel="ANTV.vision">
 <title>Sepiring Berduet</title>
+</programme>
+<programme start="20260228133000 +0000" stop="20260228153000 +0000" channel="ANTV.vision">
+<title>Darah Perjaka</title>
+</programme>
+<programme start="20260228153000 +0000" stop="20260228173000 +0000" channel="ANTV.vision">
+<title>Mana Bisa Tahan</title>
+</programme>
+<programme start="20260228173000 +0000" stop="20260228190000 +0000" channel="ANTV.vision">
+<title>Eliminators</title>
 </programme>
 <programme start="20260228190000 +0000" stop="20260228193000 +0000" channel="ANTV.vision">
 <title>Sinema Spesial</title>
@@ -1482,19 +1497,4 @@
 </programme>
 <programme start="20260228073000 +0000" stop="20260228080000 +0000" channel="BTV.vision">
 <title>Persona</title>
-</programme>
-<programme start="20260228080000 +0000" stop="20260228083000 +0000" channel="BTV.vision">
-<title>Dunia RANS</title>
-</programme>
-<programme start="20260228083000 +0000" stop="20260228090000 +0000" channel="BTV.vision">
-<title>Berita Kriminal</title>
-</programme>
-<programme start="20260228090000 +0000" stop="20260228100500 +0000" channel="BTV.vision">
-<title>Berita Satu Sore</title>
-</programme>
-<programme start="20260228100500 +0000" stop="20260228110300 +0000" channel="BTV.vision">
-<title>Jalan Dakwah Ramadan</title>
-</programme>
-<programme start="20260228110300 +0000" stop="20260228111000 +0000" channel="BTV.vision">
-<title>Kultum</title>
 </programme>
