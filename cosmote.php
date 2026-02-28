@@ -58,10 +58,6 @@
     <title>Sportshow</title>
     <desc>Live: Tidak</desc>
 </programme>
-<programme start="20260301034000 +0700" stop="20260301060000 +0700" channel="COSMOTE Sport 2 HD">
-    <title>Football: OFI - AEL Novibet</title>
-    <desc>Live: Tidak</desc>
-</programme>
 <programme start="20260301060000 +0700" stop="20260301080000 +0700" channel="COSMOTE Sport 2 HD">
     <title>Football: Parma - Cagliari</title>
     <desc>Live: Tidak</desc>
@@ -266,8 +262,8 @@
     <title>Basketball: Chicago Bulls - Milwaukee Bucks (L)</title>
     <desc>Live: Ya</desc>
 </programme>
-<programme start="20260301045500 +0700" stop="20260301055500 +0700" channel="COSMOTE Sport 5 HD">
-    <title>Motorsports: MotoGP 2026</title>
+<programme start="20260302063000 +0700" stop="20260302081500 +0700" channel="COSMOTE Sport 4 HD">
+    <title>Basketball: Karditsa - AEK</title>
     <desc>Live: Tidak</desc>
 </programme>
 <programme start="20260301055500 +0700" stop="20260301065500 +0700" channel="COSMOTE Sport 5 HD">
@@ -351,6 +347,10 @@
     <desc>Live: Tidak</desc>
 </programme>
 <programme start="20260302050000 +0700" stop="20260302063000 +0700" channel="COSMOTE Sport 5 HD">
+    <title>DTM 2025</title>
+    <desc>Live: Tidak</desc>
+</programme>
+<programme start="20260302063000 +0700" stop="20260302082000 +0700" channel="COSMOTE Sport 5 HD">
     <title>DTM 2025</title>
     <desc>Live: Tidak</desc>
 </programme>
@@ -471,6 +471,10 @@
     <desc>Live: Ya</desc>
 </programme>
 <programme start="20260302053000 +0700" stop="20260302060000 +0700" channel="COSMOTE Sport 7 HD">
+    <title>COSMOTESport7HD</title>
+    <desc>Live: Tidak</desc>
+</programme>
+<programme start="20260302060000 +0700" stop="20260302070000 +0700" channel="COSMOTE Sport 7 HD">
     <title>COSMOTESport7HD</title>
     <desc>Live: Tidak</desc>
 </programme>
