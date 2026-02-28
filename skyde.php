@@ -2639,7 +2639,7 @@ Warning: Undefined array key "et" in /usr/home/ManusiaBiasa/domains/manusiabiasa
 <programme start="20260228203000 +0000" stop="20260228210000 +0000" channel="Sky Sport Austria 2 HD.skyde">
     <title>Es folgt Eishockey: NHL</title>
 </programme>
-<programme start="20260228210000 +0000" stop="20260301000000 +0000" channel="Sky Sport Austria 2 HD.skyde">
+<programme start="20260228210000 +0000" stop="20260301090000 +0000" channel="Sky Sport Austria 2 HD.skyde">
     <title>Live NHL: Edmonton Oilers @ San Jose Sharks</title>
 </programme>
 <programme start="20260227233000 +0000" stop="20260228013000 +0000" channel="Sky Sport Bundesliga HD.skyde">
@@ -2750,7 +2750,7 @@ Warning: Undefined array key "et" in /usr/home/ManusiaBiasa/domains/manusiabiasa
 <programme start="20260228141500 +0000" stop="20260228164500 +0000" channel="Sky Sport Bundesliga 1 HD.skyde">
     <title>Live BL: Bayer Leverkusen - 1. FSV Mainz 05, 24. Spieltag</title>
 </programme>
-<programme start="20260228164500 +0000" stop="20260228210000 +0000" channel="Sky Sport Bundesliga 1 HD.skyde">
+<programme start="20260228164500 +0000" stop="20260228203000 +0000" channel="Sky Sport Bundesliga 1 HD.skyde">
     <title>Live BL: Borussia Dortmund - FC Bayern München, tipico Topspiel der Woche, 24. Spieltag</title>
 </programme>
 <programme start="20260228111000 +0000" stop="20260228113000 +0000" channel="Sky Sport Bundesliga 2 HD.skyde">
@@ -2789,7 +2789,7 @@ Warning: Undefined array key "et" in /usr/home/ManusiaBiasa/domains/manusiabiasa
 <programme start="20260228141500 +0000" stop="20260228164500 +0000" channel="Sky Sport Bundesliga 3 HD.skyde">
     <title>Live BL: Werder Bremen - 1. FC Heidenheim, 24. Spieltag</title>
 </programme>
-<programme start="20260228164500 +0000" stop="20260228203000 +0000" channel="Sky Sport Bundesliga 3 HD.skyde">
+<programme start="20260228164500 +0000" stop="20260228210000 +0000" channel="Sky Sport Bundesliga 3 HD.skyde">
     <title>Live BL: Tactical Feed: BVB - FCB, 24. Spieltag</title>
 </programme>
 <programme start="20260228111000 +0000" stop="20260228113000 +0000" channel="Sky Sport Bundesliga 4 HD.skyde">
@@ -2801,7 +2801,7 @@ Warning: Undefined array key "et" in /usr/home/ManusiaBiasa/domains/manusiabiasa
 <programme start="20260228140000 +0000" stop="20260228141500 +0000" channel="Sky Sport Bundesliga 4 HD.skyde">
     <title>Live BL: TSG - STP: tipico Countdown, 24. Spieltag</title>
 </programme>
-<programme start="20260228141500 +0000" stop="20260228171500 +0000" channel="Sky Sport Bundesliga 4 HD.skyde">
+<programme start="20260228141500 +0000" stop="20260228164500 +0000" channel="Sky Sport Bundesliga 4 HD.skyde">
     <title>Live BL: TSG Hoffenheim - FC St. Pauli, 24. Spieltag</title>
 </programme>
 <programme start="20260228111000 +0000" stop="20260228113000 +0000" channel="Sky Sport Bundesliga 5 HD.skyde">
@@ -2819,7 +2819,7 @@ Warning: Undefined array key "et" in /usr/home/ManusiaBiasa/domains/manusiabiasa
 <programme start="20260228113000 +0000" stop="20260228140000 +0000" channel="Sky Sport Bundesliga 6 HD.skyde">
     <title>Live 2. BL: Multiview 24. Spieltag, Samstag</title>
 </programme>
-<programme start="20260228140000 +0000" stop="20260228164500 +0000" channel="Sky Sport Bundesliga 6 HD.skyde">
+<programme start="20260228140000 +0000" stop="20260228171500 +0000" channel="Sky Sport Bundesliga 6 HD.skyde">
     <title>Live BL: Multiview 24. Spieltag</title>
 </programme>
 <programme start="20260228111000 +0000" stop="20260228113000 +0000" channel="Sky Sport Bundesliga 7 HD.skyde">
@@ -3093,10 +3093,10 @@ Warning: Undefined array key "et" in /usr/home/ManusiaBiasa/domains/manusiabiasa
     <title>PL: Icons: Paolo Di Canio</title>
 </programme>
 <programme start="20260228053000 +0000" stop="20260228054500 +0000" channel="Sky Sport Premier League HD.skyde">
-    <title>PL: Under the Skin (Newcastle v Sunderland)</title>
+    <title>PL: Under the Skin (FC Everton)</title>
 </programme>
 <programme start="20260228053000 +0000" stop="20260228054500 +0000" channel="Sky Sport Premier League HD.skyde">
-    <title>PL: Under the Skin (FC Everton)</title>
+    <title>PL: Under the Skin (Newcastle v Sunderland)</title>
 </programme>
 <programme start="20260228054500 +0000" stop="20260228064500 +0000" channel="Sky Sport Premier League HD.skyde">
     <title>PL: PL Moments: Leicester City 2015/16</title>
@@ -3134,10 +3134,10 @@ Warning: Undefined array key "et" in /usr/home/ManusiaBiasa/domains/manusiabiasa
 <programme start="20260228215500 +0000" stop="20260301000000 +0000" channel="Sky Sport Premier League HD.skyde">
     <title>PL: FC Liverpool - West Ham United, 28. Spieltag</title>
 </programme>
-<programme start="20260228011000 +0000" stop="20260228034500 +0000" channel="Sky Sport Tennis HD.skyde">
+<programme start="20260228010000 +0000" stop="20260228030000 +0000" channel="Sky Sport Tennis HD.skyde">
     <title>Live ATP 500: HF1, Abierto Mexicano Telcel presented by HSBC in Acapulco (MEX), Halbfinale 1</title>
 </programme>
-<programme start="20260228034500 +0000" stop="20260228050000 +0000" channel="Sky Sport Tennis HD.skyde">
+<programme start="20260228030000 +0000" stop="20260228050000 +0000" channel="Sky Sport Tennis HD.skyde">
     <title>Live ATP 500: HF2, Abierto Mexicano Telcel presented by HSBC in Acapulco (MEX), Halbfinale 2</title>
 </programme>
 <programme start="20260228050000 +0000" stop="20260228060000 +0000" channel="Sky Sport Tennis HD.skyde">
@@ -3185,10 +3185,10 @@ Warning: Undefined array key "et" in /usr/home/ManusiaBiasa/domains/manusiabiasa
 <programme start="20260228064000 +0000" stop="20260228073000 +0000" channel="Sky Sport Top Event HD.skyde">
     <title>Live Moto2: Qualifying - GP Thailand</title>
 </programme>
-<programme start="20260228073000 +0000" stop="20260228090500 +0000" channel="Sky Sport Top Event HD.skyde">
+<programme start="20260228073000 +0000" stop="20260228090000 +0000" channel="Sky Sport Top Event HD.skyde">
     <title>Live MotoGP: Sprint - GP Thailand</title>
 </programme>
-<programme start="20260228090500 +0000" stop="20260228094500 +0000" channel="Sky Sport Top Event HD.skyde">
+<programme start="20260228090000 +0000" stop="20260228094500 +0000" channel="Sky Sport Top Event HD.skyde">
     <title>2. BL Alle Spiele, alle Tore: Die Vodafone Highlight-Show, 24. Spieltag, Freitag</title>
 </programme>
 <programme start="20260228094500 +0000" stop="20260228100000 +0000" channel="Sky Sport Top Event HD.skyde">
@@ -3671,84 +3671,93 @@ Warning: Undefined array key "et" in /usr/home/ManusiaBiasa/domains/manusiabiasa
 <programme start="20260228224500 +0000" stop="20260301001000 +0000" channel="Warner TV Film HD.skyde">
     <title>Mercy</title>
 </programme>
-<programme start="20260227231000 +0000" stop="20260227235500 +0000" channel="Warner TV Serie HD.skyde">
-    <title>Blindspot</title>
+<programme start="20260223230500 +0000" stop="20260224003500 +0000" channel="Warner TV Serie HD.skyde">
+    <title>Zorn der Titanen</title>
 </programme>
-<programme start="20260227235500 +0000" stop="20260228021500 +0000" channel="Warner TV Serie HD.skyde">
-    <title>Transformers 3 - Die dunkle Seite des Mondes</title>
+<programme start="20260224003500 +0000" stop="20260224011500 +0000" channel="Warner TV Serie HD.skyde">
+    <title>NCIS: Los Angeles</title>
 </programme>
-<programme start="20260228021500 +0000" stop="20260228030000 +0000" channel="Warner TV Serie HD.skyde">
+<programme start="20260224011500 +0000" stop="20260224020000 +0000" channel="Warner TV Serie HD.skyde">
+    <title>NCIS: Los Angeles</title>
+</programme>
+<programme start="20260224020000 +0000" stop="20260224024000 +0000" channel="Warner TV Serie HD.skyde">
+    <title>NCIS: Los Angeles</title>
+</programme>
+<programme start="20260224024000 +0000" stop="20260224032000 +0000" channel="Warner TV Serie HD.skyde">
     <title>Fringe</title>
 </programme>
-<programme start="20260228030000 +0000" stop="20260228034500 +0000" channel="Warner TV Serie HD.skyde">
+<programme start="20260224032000 +0000" stop="20260224040500 +0000" channel="Warner TV Serie HD.skyde">
     <title>Fringe</title>
 </programme>
-<programme start="20260228034500 +0000" stop="20260228042500 +0000" channel="Warner TV Serie HD.skyde">
+<programme start="20260224040500 +0000" stop="20260224045000 +0000" channel="Warner TV Serie HD.skyde">
     <title>Fringe</title>
 </programme>
-<programme start="20260228042500 +0000" stop="20260228051000 +0000" channel="Warner TV Serie HD.skyde">
+<programme start="20260224045000 +0000" stop="20260224053500 +0000" channel="Warner TV Serie HD.skyde">
+    <title>Daktari</title>
+</programme>
+<programme start="20260224053500 +0000" stop="20260224063500 +0000" channel="Warner TV Serie HD.skyde">
+    <title>Daktari</title>
+</programme>
+<programme start="20260224063500 +0000" stop="20260224072500 +0000" channel="Warner TV Serie HD.skyde">
+    <title>Daktari</title>
+</programme>
+<programme start="20260224072500 +0000" stop="20260224082000 +0000" channel="Warner TV Serie HD.skyde">
+    <title>Daktari</title>
+</programme>
+<programme start="20260224082000 +0000" stop="20260224091000 +0000" channel="Warner TV Serie HD.skyde">
     <title>Mord ist ihr Hobby</title>
 </programme>
-<programme start="20260228051000 +0000" stop="20260228060500 +0000" channel="Warner TV Serie HD.skyde">
+<programme start="20260224091000 +0000" stop="20260224095500 +0000" channel="Warner TV Serie HD.skyde">
     <title>Mord ist ihr Hobby</title>
 </programme>
-<programme start="20260228060500 +0000" stop="20260228065500 +0000" channel="Warner TV Serie HD.skyde">
+<programme start="20260224095500 +0000" stop="20260224104500 +0000" channel="Warner TV Serie HD.skyde">
     <title>Mord ist ihr Hobby</title>
 </programme>
-<programme start="20260228065500 +0000" stop="20260228074000 +0000" channel="Warner TV Serie HD.skyde">
+<programme start="20260224104500 +0000" stop="20260224113500 +0000" channel="Warner TV Serie HD.skyde">
     <title>Mord ist ihr Hobby</title>
 </programme>
-<programme start="20260228074000 +0000" stop="20260228083000 +0000" channel="Warner TV Serie HD.skyde">
-    <title>Fringe</title>
+<programme start="20260224113500 +0000" stop="20260224122000 +0000" channel="Warner TV Serie HD.skyde">
+    <title>Rizzoli and Isles</title>
 </programme>
-<programme start="20260228083000 +0000" stop="20260228091500 +0000" channel="Warner TV Serie HD.skyde">
-    <title>Fringe</title>
+<programme start="20260224122000 +0000" stop="20260224131000 +0000" channel="Warner TV Serie HD.skyde">
+    <title>Rizzoli and Isles</title>
 </programme>
-<programme start="20260228091500 +0000" stop="20260228100500 +0000" channel="Warner TV Serie HD.skyde">
-    <title>Fringe</title>
-</programme>
-<programme start="20260228100500 +0000" stop="20260228105000 +0000" channel="Warner TV Serie HD.skyde">
-    <title>Fringe</title>
-</programme>
-<programme start="20260228105000 +0000" stop="20260228113500 +0000" channel="Warner TV Serie HD.skyde">
-    <title>Fringe</title>
-</programme>
-<programme start="20260228113500 +0000" stop="20260228122500 +0000" channel="Warner TV Serie HD.skyde">
-    <title>NCIS: Los Angeles</title>
-</programme>
-<programme start="20260228122500 +0000" stop="20260228131000 +0000" channel="Warner TV Serie HD.skyde">
-    <title>NCIS: Los Angeles</title>
-</programme>
-<programme start="20260228131000 +0000" stop="20260228135500 +0000" channel="Warner TV Serie HD.skyde">
-    <title>NCIS: Los Angeles</title>
-</programme>
-<programme start="20260228135500 +0000" stop="20260228144000 +0000" channel="Warner TV Serie HD.skyde">
-    <title>NCIS: Los Angeles</title>
-</programme>
-<programme start="20260228144000 +0000" stop="20260228152500 +0000" channel="Warner TV Serie HD.skyde">
-    <title>NCIS: Los Angeles</title>
-</programme>
-<programme start="20260228152500 +0000" stop="20260228161000 +0000" channel="Warner TV Serie HD.skyde">
+<programme start="20260224131000 +0000" stop="20260224135500 +0000" channel="Warner TV Serie HD.skyde">
     <title>NCIS</title>
 </programme>
-<programme start="20260228161000 +0000" stop="20260228170000 +0000" channel="Warner TV Serie HD.skyde">
+<programme start="20260224135500 +0000" stop="20260224144000 +0000" channel="Warner TV Serie HD.skyde">
     <title>NCIS</title>
 </programme>
-<programme start="20260228170000 +0000" stop="20260228174000 +0000" channel="Warner TV Serie HD.skyde">
+<programme start="20260224144000 +0000" stop="20260224152500 +0000" channel="Warner TV Serie HD.skyde">
     <title>NCIS</title>
 </programme>
-<programme start="20260228174000 +0000" stop="20260228183000 +0000" channel="Warner TV Serie HD.skyde">
+<programme start="20260224152500 +0000" stop="20260224161000 +0000" channel="Warner TV Serie HD.skyde">
     <title>NCIS</title>
 </programme>
-<programme start="20260228183000 +0000" stop="20260228191500 +0000" channel="Warner TV Serie HD.skyde">
+<programme start="20260224161000 +0000" stop="20260224165500 +0000" channel="Warner TV Serie HD.skyde">
     <title>NCIS</title>
 </programme>
-<programme start="20260228191500 +0000" stop="20260228215000 +0000" channel="Warner TV Serie HD.skyde">
-    <title>Transformers - Ara Des Untergangs</title>
+<programme start="20260224165500 +0000" stop="20260224174000 +0000" channel="Warner TV Serie HD.skyde">
+    <title>NCIS</title>
 </programme>
-<programme start="20260228215000 +0000" stop="20260228224000 +0000" channel="Warner TV Serie HD.skyde">
-    <title>Rescue: HI-Surf</title>
+<programme start="20260224174000 +0000" stop="20260224183000 +0000" channel="Warner TV Serie HD.skyde">
+    <title>Rizzoli and Isles</title>
 </programme>
-<programme start="20260228224000 +0000" stop="20260228232500 +0000" channel="Warner TV Serie HD.skyde">
-    <title>Rescue: HI-Surf</title>
+<programme start="20260224183000 +0000" stop="20260224191500 +0000" channel="Warner TV Serie HD.skyde">
+    <title>Rizzoli and Isles</title>
+</programme>
+<programme start="20260224191500 +0000" stop="20260224200000 +0000" channel="Warner TV Serie HD.skyde">
+    <title>Hudson &amp; Rex</title>
+</programme>
+<programme start="20260224200000 +0000" stop="20260224205000 +0000" channel="Warner TV Serie HD.skyde">
+    <title>Hudson &amp; Rex</title>
+</programme>
+<programme start="20260224205000 +0000" stop="20260224213500 +0000" channel="Warner TV Serie HD.skyde">
+    <title>Hudson &amp; Rex</title>
+</programme>
+<programme start="20260224213500 +0000" stop="20260224222000 +0000" channel="Warner TV Serie HD.skyde">
+    <title>NCIS: Los Angeles</title>
+</programme>
+<programme start="20260224222000 +0000" stop="20260224230500 +0000" channel="Warner TV Serie HD.skyde">
+    <title>NCIS: Los Angeles</title>
 </programme>

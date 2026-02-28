@@ -1,7 +1,3 @@
-<programme start="20260228220000 +0700" stop="20260301000000 +0700" channel="COSMOTE Sport 1 HD">
-    <title>Football: Preston North End - Millwall (L)</title>
-    <desc>Live: Ya</desc>
-</programme>
 <programme start="20260301000000 +0700" stop="20260301003000 +0700" channel="COSMOTE Sport 1 HD">
     <title>UEFA Champions League Magazine 2024-25 E22</title>
     <desc>Live: Tidak</desc>
@@ -134,13 +130,9 @@
     <title>Football: Volos NPS - AEK (L)</title>
     <desc>Live: Ya</desc>
 </programme>
-<programme start="20260228230000 +0700" stop="20260228233000 +0700" channel="COSMOTE Sport 3 HD">
-    <title>Sports Classics: Ultimate Rush S6 E3</title>
-    <desc>Live: Tidak</desc>
-</programme>
-<programme start="20260228233000 +0700" stop="20260301000000 +0700" channel="COSMOTE Sport 3 HD">
-    <title>Sports Classics: Worldies E25</title>
-    <desc>Live: Tidak</desc>
+<programme start="20260302004000 +0700" stop="20260302013000 +0700" channel="COSMOTE Sport 2 HD">
+    <title>PostGame (L)</title>
+    <desc>Live: Ya</desc>
 </programme>
 <programme start="20260301000000 +0700" stop="20260301020000 +0700" channel="COSMOTE Sport 3 HD">
     <title>Football: Hellas Verona - SSC Napoli (L)</title>
@@ -213,6 +205,10 @@
 <programme start="20260301233000 +0700" stop="20260302000000 +0700" channel="COSMOTE Sport 3 HD">
     <title>Sports Classics: Worldies E16</title>
     <desc>Live: Tidak</desc>
+</programme>
+<programme start="20260302000000 +0700" stop="20260302020000 +0700" channel="COSMOTE Sport 3 HD">
+    <title>Football: Torino - SS Lazio (L)</title>
+    <desc>Live: Ya</desc>
 </programme>
 <programme start="20260228225000 +0700" stop="20260301003500 +0700" channel="COSMOTE Sport 4 HD">
     <title>Basketball: Karditsa - AEK</title>
@@ -440,6 +436,14 @@
 </programme>
 <programme start="20260301224500 +0700" stop="20260302001500 +0700" channel="COSMOTE Sport 6 HD">
     <title>Volleyball: Allianz Powervolley Milano - Olympiacos</title>
+    <desc>Live: Tidak</desc>
+</programme>
+<programme start="20260302001500 +0700" stop="20260302004500 +0700" channel="COSMOTE Sport 6 HD">
+    <title>Sports Classics: 2025 Outdoor Specials</title>
+    <desc>Live: Tidak</desc>
+</programme>
+<programme start="20260302004500 +0700" stop="20260302011500 +0700" channel="COSMOTE Sport 6 HD">
+    <title>Watersports: Inside Sailing 2026 E2</title>
     <desc>Live: Tidak</desc>
 </programme>
 <programme start="20260228230000 +0700" stop="20260301010000 +0700" channel="COSMOTE Sport 7 HD">
