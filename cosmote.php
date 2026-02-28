@@ -1,7 +1,3 @@
-<programme start="20260301010000 +0700" stop="20260301031000 +0700" channel="COSMOTE Sport 1 HD">
-    <title>Football: Kifisia - Levadiakos (L)</title>
-    <desc>Live: Ya</desc>
-</programme>
 <programme start="20260301031000 +0700" stop="20260301040500 +0700" channel="COSMOTE Sport 1 HD">
     <title>Highlights: UEL &amp; UECL 2025-26</title>
     <desc>Live: Tidak</desc>
@@ -65,10 +61,6 @@
 <programme start="20260302031500 +0700" stop="20260302053000 +0700" channel="COSMOTE Sport 1 HD">
     <title>Sportshow (L)</title>
     <desc>Live: Ya</desc>
-</programme>
-<programme start="20260301030000 +0700" stop="20260301034000 +0700" channel="COSMOTE Sport 2 HD">
-    <title>Sports Classics: Sporting Countdowns</title>
-    <desc>Live: Tidak</desc>
 </programme>
 <programme start="20260301034000 +0700" stop="20260301060000 +0700" channel="COSMOTE Sport 2 HD">
     <title>Football: OFI - AEL Novibet</title>
@@ -214,6 +206,10 @@
     <title>Football: AS Roma - Juventus Football Club (L)</title>
     <desc>Live: Ya</desc>
 </programme>
+<programme start="20260302044500 +0700" stop="20260302070000 +0700" channel="COSMOTE Sport 3 HD">
+    <title>Football: Panathinaikos - Aris</title>
+    <desc>Live: Tidak</desc>
+</programme>
 <programme start="20260301020000 +0700" stop="20260301043000 +0700" channel="COSMOTE Sport 4 HD">
     <title>Basketball: Milwaukee Bucks - New York Knicks</title>
     <desc>Live: Tidak</desc>
@@ -281,10 +277,6 @@
 <programme start="20260302033000 +0700" stop="20260302063000 +0700" channel="COSMOTE Sport 4 HD">
     <title>Basketball: Chicago Bulls - Milwaukee Bucks (L)</title>
     <desc>Live: Ya</desc>
-</programme>
-<programme start="20260301023000 +0700" stop="20260301032000 +0700" channel="COSMOTE Sport 5 HD">
-    <title>Motorsports: Moto3 2026</title>
-    <desc>Live: Tidak</desc>
 </programme>
 <programme start="20260301032000 +0700" stop="20260301041000 +0700" channel="COSMOTE Sport 5 HD">
     <title>Motorsports: Moto2 2026</title>
@@ -373,6 +365,10 @@
 <programme start="20260302010000 +0700" stop="20260302040000 +0700" channel="COSMOTE Sport 5 HD">
     <title>Basketball: New York Knicks - San Antonio Spurs (L)</title>
     <desc>Live: Ya</desc>
+</programme>
+<programme start="20260302040000 +0700" stop="20260302050000 +0700" channel="COSMOTE Sport 5 HD">
+    <title>WRC</title>
+    <desc>Live: Tidak</desc>
 </programme>
 <programme start="20260301013000 +0700" stop="20260301041500 +0700" channel="COSMOTE Sport 6 HD">
     <title>Volleyball: Panionios - Panathinaikos</title>
@@ -545,10 +541,6 @@
 <programme start="20260302030000 +0700" stop="20260302050000 +0700" channel="COSMOTE Sport 8 HD">
     <title>COSMOTESport8HD</title>
     <desc>Live: Tidak</desc>
-</programme>
-<programme start="20260301020000 +0700" stop="20260301040000 +0700" channel="COSMOTE Sport 9 HD">
-    <title>Football: Al Fayha - Al Nassr (L)</title>
-    <desc>Live: Ya</desc>
 </programme>
 <programme start="20260301040000 +0700" stop="20260301043000 +0700" channel="COSMOTE Sport 9 HD">
     <title>COSMOTESport9HD</title>

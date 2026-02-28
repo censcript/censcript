@@ -1240,10 +1240,16 @@
   <programme start="20260302222000 +0000" stop="20260303004500 +0000" channel="JOJ Šport.webtv.sk">
     <title lang="id">Hokej - Tipos SHL</title>
   </programme>
-  <programme start="20260301230000 +0000" stop="20260302002000 +0000" channel="JOJ Šport 2.webtv.sk">
+  <programme start="20260301213000 +0000" stop="20260301232500 +0000" channel="JOJ Šport 2.webtv.sk">
+    <title lang="id">Basketbal - Tipos extraliga</title>
+  </programme>
+  <programme start="20260301232500 +0000" stop="20260302004500 +0000" channel="JOJ Šport 2.webtv.sk">
     <title lang="id">Tenis - turnaj</title>
   </programme>
-  <programme start="20260302002000 +0000" stop="20260302041000 +0000" channel="JOJ Šport 2.webtv.sk">
+  <programme start="20260302004500 +0000" stop="20260302022500 +0000" channel="JOJ Šport 2.webtv.sk">
+    <title lang="id">Hádzaná - EHF Euro 2026</title>
+  </programme>
+  <programme start="20260302022500 +0000" stop="20260302041000 +0000" channel="JOJ Šport 2.webtv.sk">
     <title lang="id">Hádzaná - EHF Euro 2026</title>
   </programme>
   <programme start="20260302041000 +0000" stop="20260302065000 +0000" channel="JOJ Šport 2.webtv.sk">
@@ -1255,20 +1261,20 @@
   <programme start="20260302101000 +0000" stop="20260302122000 +0000" channel="JOJ Šport 2.webtv.sk">
     <title lang="id">Volejbal - Niké Extraliga ženy</title>
   </programme>
-  <programme start="20260302122000 +0000" stop="20260302143500 +0000" channel="JOJ Šport 2.webtv.sk">
-    <title lang="id">Futbal - Európska liga</title>
+  <programme start="20260302122000 +0000" stop="20260302143000 +0000" channel="JOJ Šport 2.webtv.sk">
+    <title lang="id">Basketbal - Tipos extraliga</title>
   </programme>
-  <programme start="20260302143500 +0000" stop="20260302165000 +0000" channel="JOJ Šport 2.webtv.sk">
+  <programme start="20260302143000 +0000" stop="20260302165000 +0000" channel="JOJ Šport 2.webtv.sk">
     <title lang="id">Hokej - Tipos SHL</title>
   </programme>
   <programme start="20260302165000 +0000" stop="20260302195000 +0000" channel="JOJ Šport 2.webtv.sk">
     <title lang="id">Hokej - Tipos SHL</title>
   </programme>
-  <programme start="20260302195000 +0000" stop="20260302213000 +0000" channel="JOJ Šport 2.webtv.sk">
-    <title lang="id">FIS Svetový pohár Super G ženy</title>
-  </programme>
-  <programme start="20260302213000 +0000" stop="20260302234000 +0000" channel="JOJ Šport 2.webtv.sk">
+  <programme start="20260302195000 +0000" stop="20260302220000 +0000" channel="JOJ Šport 2.webtv.sk">
     <title lang="id">FIS Svetový pohár zjazd muži</title>
+  </programme>
+  <programme start="20260302220000 +0000" stop="20260302234000 +0000" channel="JOJ Šport 2.webtv.sk">
+    <title lang="id">FIS Svetový pohár Super G ženy</title>
   </programme>
   <programme start="20260301225000 +0000" stop="20260302005500 +0000" channel="WAU.webtv.sk">
     <title lang="id">Vraždy v Brokenwoode VIII (6/6)</title>
@@ -4931,7 +4937,7 @@
     <title lang="id">Vytuningované jazdy Fínsko</title>
   </programme>
   <programme start="20260302100000 +0000" stop="20260302103000 +0000" channel="Arena Sport 2.webtv.sk">
-    <title lang="id">TOUCHIT - Ondrej Macko</title>
+    <title lang="id">CARSHOW</title>
   </programme>
   <programme start="20260302103000 +0000" stop="20260302110000 +0000" channel="Arena Sport 2.webtv.sk">
     <title lang="id">Autožurnál</title>
@@ -4940,7 +4946,7 @@
     <title lang="id">Motoring</title>
   </programme>
   <programme start="20260302113000 +0000" stop="20260302120000 +0000" channel="Arena Sport 2.webtv.sk">
-    <title lang="id">CARSHOW</title>
+    <title lang="id">DRIVE IT - Ondrej Macko</title>
   </programme>
   <programme start="20260302120000 +0000" stop="20260302123000 +0000" channel="Arena Sport 2.webtv.sk">
     <title lang="id">Výběrová auta</title>
@@ -4961,7 +4967,7 @@
     <title lang="id">Vytuningované jazdy Fínsko</title>
   </programme>
   <programme start="20260302151500 +0000" stop="20260302160000 +0000" channel="Arena Sport 2.webtv.sk">
-    <title lang="id">TOUCHIT - Ondrej Macko</title>
+    <title lang="id">DRIVE IT - Ondrej Macko</title>
   </programme>
   <programme start="20260302160000 +0000" stop="20260302164500 +0000" channel="Arena Sport 2.webtv.sk">
     <title lang="id">Naša Garáž</title>
