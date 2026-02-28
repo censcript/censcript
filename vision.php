@@ -718,9 +718,6 @@
 <programme start="20260228111000 +0000" stop="20260228113000 +0000" channel="ANTV.vision">
 <title>Sepiring Berduet</title>
 </programme>
-<programme start="20260228113000 +0000" stop="20260228133000 +0000" channel="ANTV.vision">
-<title>Jaka Sembung</title>
-</programme>
 <programme start="20260228133000 +0000" stop="20260228153000 +0000" channel="ANTV.vision">
 <title>Darah Perjaka</title>
 </programme>
@@ -930,9 +927,6 @@
 </programme>
 <programme start="20260228134500 +0000" stop="20260228140000 +0000" channel="TVOne.vision">
 <title>Tafakur: Bunda Munifah</title>
-</programme>
-<programme start="20260228140000 +0000" stop="20260228150000 +0000" channel="TVOne.vision">
-<title>Renungan Jiwa</title>
 </programme>
 <programme start="20260228150000 +0000" stop="20260228160000 +0000" channel="TVOne.vision">
 <title>Kabar Hari Ini (L)</title>
@@ -1497,4 +1491,10 @@
 </programme>
 <programme start="20260228060000 +0000" stop="20260228070000 +0000" channel="BTV.vision">
 <title>Berita Viral</title>
+</programme>
+<programme start="20260228070000 +0000" stop="20260228073000 +0000" channel="BTV.vision">
+<title>Jendela Nusantara: Jawa Barat</title>
+</programme>
+<programme start="20260228073000 +0000" stop="20260228080000 +0000" channel="BTV.vision">
+<title>Persona</title>
 </programme>

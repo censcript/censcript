@@ -9634,42 +9634,7 @@
 <programme start="20260301163000 +0000" stop="20260228170000 +0000" channel="tvOne.mncvision">
     <title>tvOne</title>
 </programme>
-<programme start="20260228170000 +0000" stop="20260228190000 +0000" channel="TVRI.mncvision">
-    <title>TVRI</title>
-</programme>
-<programme start="20260228190000 +0000" stop="20260228210000 +0000" channel="TVRI.mncvision">
-    <title>TVRI</title>
-</programme>
-<programme start="20260228210000 +0000" stop="20260228230000 +0000" channel="TVRI.mncvision">
-    <title>TVRI</title>
-</programme>
-<programme start="20260228230000 +0000" stop="20260301010000 +0000" channel="TVRI.mncvision">
-    <title>TVRI</title>
-</programme>
-<programme start="20260301010000 +0000" stop="20260301030000 +0000" channel="TVRI.mncvision">
-    <title>TVRI</title>
-</programme>
-<programme start="20260301030000 +0000" stop="20260301050000 +0000" channel="TVRI.mncvision">
-    <title>TVRI</title>
-</programme>
-<programme start="20260301050000 +0000" stop="20260301070000 +0000" channel="TVRI.mncvision">
-    <title>TVRI</title>
-</programme>
-<programme start="20260301070000 +0000" stop="20260301090000 +0000" channel="TVRI.mncvision">
-    <title>TVRI</title>
-</programme>
-<programme start="20260301090000 +0000" stop="20260301110000 +0000" channel="TVRI.mncvision">
-    <title>TVRI</title>
-</programme>
-<programme start="20260301110000 +0000" stop="20260301130000 +0000" channel="TVRI.mncvision">
-    <title>TVRI</title>
-</programme>
-<programme start="20260301130000 +0000" stop="20260301150000 +0000" channel="TVRI.mncvision">
-    <title>TVRI</title>
-</programme>
-<programme start="20260301150000 +0000" stop="20260301153000 +0000" channel="TVRI.mncvision">
-    <title>TVRI</title>
-</programme>
+Error: Unable to fetch data. HTTP Status Code: 500
 <programme start="20260228175400 +0000" stop="20260228192600 +0000" channel="UNIQUES.mncvision">
     <title>Gold</title>
 </programme>
