@@ -3110,32 +3110,29 @@ Warning: Undefined array key "et" in /usr/home/ManusiaBiasa/domains/manusiabiasa
 <programme start="20260301223000 +0000" stop="20260301230000 +0000" channel="Sky Sport Premier League HD.skyde">
     <title>PL: 90in30: LEE - MCI, 28. Spieltag</title>
 </programme>
-<programme start="20260301000000 +0000" stop="20260301020000 +0000" channel="Sky Sport Tennis HD.skyde">
+<programme start="20260301000000 +0000" stop="20260301025500 +0000" channel="Sky Sport Tennis HD.skyde">
     <title>Live WTA 500: M. Frech (POL) - S.Zhang (CHN) Merida Open in Merida (MEX), Halbfinale 1</title>
 </programme>
-<programme start="20260301020000 +0000" stop="20260301030000 +0000" channel="Sky Sport Tennis HD.skyde">
-    <title>Live WTA 500: HF2, J. Paolini (ITA) - C. Bucsa (ESP) Merida Open in Merida (MEX), Halbfinale 2</title>
-</programme>
-<programme start="20260301030000 +0000" stop="20260301053000 +0000" channel="Sky Sport Tennis HD.skyde">
+<programme start="20260301025500 +0000" stop="20260301054000 +0000" channel="Sky Sport Tennis HD.skyde">
     <title>Live ATP 500: F. Cobolli (ITA) - F. Tiafoe (USA) Abierto Mexicano Telcel presented by HSBC in Acapulco (MEX), Finale</title>
 </programme>
-<programme start="20260301053000 +0000" stop="20260301073000 +0000" channel="Sky Sport Tennis HD.skyde">
+<programme start="20260301054000 +0000" stop="20260301074000 +0000" channel="Sky Sport Tennis HD.skyde">
     <title>WTA 500: HF2, J. Paolini (ITA) - C. Bucsa (ESP) Merida Open in Merida (MEX), Halbfinale 2</title>
 </programme>
-<programme start="20260301073000 +0000" stop="20260301100000 +0000" channel="Sky Sport Tennis HD.skyde">
-    <title>ATP 500: Finale, D. Medvedev - T. Griekspoor (NED) Dubai Duty Free Tennis Championships in Dubai (VAE), Finale</title>
+<programme start="20260301074000 +0000" stop="20260301101000 +0000" channel="Sky Sport Tennis HD.skyde">
+    <title>ATP 500: F. Cobolli (ITA) - F. Tiafoe (USA) Abierto Mexicano Telcel presented by HSBC in Acapulco (MEX), Finale</title>
 </programme>
-<programme start="20260301100000 +0000" stop="20260301120000 +0000" channel="Sky Sport Tennis HD.skyde">
+<programme start="20260301101000 +0000" stop="20260301121000 +0000" channel="Sky Sport Tennis HD.skyde">
     <title>WTA 500: M. Frech (POL) - S.Zhang (CHN) Merida Open in Merida (MEX), Halbfinale 1</title>
 </programme>
-<programme start="20260301120000 +0000" stop="20260301140000 +0000" channel="Sky Sport Tennis HD.skyde">
+<programme start="20260301121000 +0000" stop="20260301140000 +0000" channel="Sky Sport Tennis HD.skyde">
     <title>WTA 500: HF2, J. Paolini (ITA) - C. Bucsa (ESP) Merida Open in Merida (MEX), Halbfinale 2</title>
 </programme>
 <programme start="20260301140000 +0000" stop="20260301163000 +0000" channel="Sky Sport Tennis HD.skyde">
     <title>ATP 500: F. Cobolli (ITA) - F. Tiafoe (USA) Abierto Mexicano Telcel presented by HSBC in Acapulco (MEX), Finale</title>
 </programme>
 <programme start="20260301163000 +0000" stop="20260301190000 +0000" channel="Sky Sport Tennis HD.skyde">
-    <title>ATP 500: Finale, D. Medvedev - T. Griekspoor (NED) Dubai Duty Free Tennis Championships in Dubai (VAE), Finale</title>
+    <title>ATP 500: F. Cobolli (ITA) - F. Tiafoe (USA) Abierto Mexicano Telcel presented by HSBC in Acapulco (MEX), Finale</title>
 </programme>
 <programme start="20260301190000 +0000" stop="20260301210000 +0000" channel="Sky Sport Tennis HD.skyde">
     <title>WTA 500: M. Frech (POL) - S.Zhang (CHN) Merida Open in Merida (MEX), Halbfinale 1</title>
@@ -3227,10 +3224,10 @@ Warning: Undefined array key "et" in /usr/home/ManusiaBiasa/domains/manusiabiasa
 <programme start="20260228234000 +0000" stop="20260301000000 +0000" channel="Sky Sport 2 HD.skyde">
     <title>Es folgt: Live Tennis WTA Tour</title>
 </programme>
-<programme start="20260301000000 +0000" stop="20260301020000 +0000" channel="Sky Sport 2 HD.skyde">
+<programme start="20260301000000 +0000" stop="20260301025500 +0000" channel="Sky Sport 2 HD.skyde">
     <title>Live WTA 500: M. Frech (POL) - S.Zhang (CHN) Merida Open in Merida (MEX), Halbfinale 1</title>
 </programme>
-<programme start="20260301020000 +0000" stop="20260301090000 +0000" channel="Sky Sport 2 HD.skyde">
+<programme start="20260301025500 +0000" stop="20260301050000 +0000" channel="Sky Sport 2 HD.skyde">
     <title>Live WTA 500: HF2, J. Paolini (ITA) - C. Bucsa (ESP) Merida Open in Merida (MEX), Halbfinale 2</title>
 </programme>
 <programme start="20260301133000 +0000" stop="20260301135000 +0000" channel="Sky Sport 6 HD.skyde">
