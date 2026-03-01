@@ -2642,7 +2642,7 @@ Warning: Undefined array key "et" in /usr/home/ManusiaBiasa/domains/manusiabiasa
 <programme start="20260301153000 +0000" stop="20260301155000 +0000" channel="Sky Sport Austria 5 HD.skyde">
     <title>Es folgt Fußball: Österreich, Admiral Bundesliga</title>
 </programme>
-<programme start="20260301155000 +0000" stop="20260301180000 +0000" channel="Sky Sport Austria 5 HD.skyde">
+<programme start="20260301155000 +0000" stop="20260301183000 +0000" channel="Sky Sport Austria 5 HD.skyde">
     <title>Live Admiral BL: SCR Altach - SK Rapid, 21. Runde</title>
 </programme>
 <programme start="20260301153000 +0000" stop="20260301155000 +0000" channel="Sky Sport Austria 6 HD.skyde">
