@@ -2807,7 +2807,7 @@ Warning: Undefined array key "et" in /usr/home/ManusiaBiasa/domains/manusiabiasa
 <programme start="20260301114000 +0000" stop="20260301120000 +0000" channel="Sky Sport Bundesliga 4 HD.skyde">
     <title>Es folgt: Live 2. Bundesliga</title>
 </programme>
-<programme start="20260301120000 +0000" stop="20260301143000 +0000" channel="Sky Sport Bundesliga 4 HD.skyde">
+<programme start="20260301120000 +0000" stop="20260301150000 +0000" channel="Sky Sport Bundesliga 4 HD.skyde">
     <title>Live 2. BL: 1. FC Magdeburg - Karlsruher SC, 24. Spieltag</title>
 </programme>
 <programme start="20260301114000 +0000" stop="20260301120000 +0000" channel="Sky Sport Bundesliga 5 HD.skyde">
@@ -2816,13 +2816,13 @@ Warning: Undefined array key "et" in /usr/home/ManusiaBiasa/domains/manusiabiasa
 <programme start="20260301120000 +0000" stop="20260301143000 +0000" channel="Sky Sport Bundesliga 5 HD.skyde">
     <title>Live 2. BL: Multiview 24. Spieltag, Sonntag</title>
 </programme>
-<programme start="20260228230000 +0000" stop="20260301000000 +0000" channel="Sky Sport F1 HD.skyde">
+<programme start="20260228231500 +0000" stop="20260301001500 +0000" channel="Sky Sport F1 HD.skyde">
     <title>F1: The F1 Show: Lights out 2026</title>
 </programme>
-<programme start="20260301000000 +0000" stop="20260301010000 +0000" channel="Sky Sport F1 HD.skyde">
+<programme start="20260301001500 +0000" stop="20260301011500 +0000" channel="Sky Sport F1 HD.skyde">
     <title>WRC: Highlights: Rally Sweden</title>
 </programme>
-<programme start="20260301010000 +0000" stop="20260301050000 +0000" channel="Sky Sport F1 HD.skyde">
+<programme start="20260301011500 +0000" stop="20260301050000 +0000" channel="Sky Sport F1 HD.skyde">
     <title>F1: 2. Testfahrten in Bahrain - 1. Tag (Nachmittag)</title>
 </programme>
 <programme start="20260301050000 +0000" stop="20260301063000 +0000" channel="Sky Sport F1 HD.skyde">
@@ -3227,10 +3227,10 @@ Warning: Undefined array key "et" in /usr/home/ManusiaBiasa/domains/manusiabiasa
 <programme start="20260228234000 +0000" stop="20260301000000 +0000" channel="Sky Sport 2 HD.skyde">
     <title>Es folgt: Live Tennis WTA Tour</title>
 </programme>
-<programme start="20260301000000 +0000" stop="20260301030000 +0000" channel="Sky Sport 2 HD.skyde">
+<programme start="20260301000000 +0000" stop="20260301025500 +0000" channel="Sky Sport 2 HD.skyde">
     <title>Live WTA 500: M. Frech (POL) - S.Zhang (CHN) Merida Open in Merida (MEX), Halbfinale 1</title>
 </programme>
-<programme start="20260301030000 +0000" stop="20260301090000 +0000" channel="Sky Sport 2 HD.skyde">
+<programme start="20260301025500 +0000" stop="20260301090000 +0000" channel="Sky Sport 2 HD.skyde">
     <title>Live WTA 500: HF2, J. Paolini (ITA) - C. Bucsa (ESP) Merida Open in Merida (MEX), Halbfinale 2</title>
 </programme>
 <programme start="20260301133000 +0000" stop="20260301135000 +0000" channel="Sky Sport 6 HD.skyde">

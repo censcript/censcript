@@ -17024,7 +17024,7 @@
     <title lang="id">DW. Будущее сегодня</title>
   </programme>
   <programme start="20260303020000 +0000" stop="20260303040000 +0000" channel="Current Time.webtv.sk">
-    <title lang="id">Pеальное кино</title>
+    <title lang="id">Pеальное кино: Азбука тюрьмы: Сахарово</title>
   </programme>
   <programme start="20260303040000 +0000" stop="20260303043000 +0000" channel="Current Time.webtv.sk">
     <title lang="id">Опасное соседство: Висагинас</title>
@@ -17039,7 +17039,7 @@
     <title lang="id">Настоящий сериал</title>
   </programme>
   <programme start="20260303070000 +0000" stop="20260303090000 +0000" channel="Current Time.webtv.sk">
-    <title lang="id">Pеальное кино</title>
+    <title lang="id">Pеальное кино: Азбука тюрьмы: Сахарово</title>
   </programme>
   <programme start="20260303090000 +0000" stop="20260303093000 +0000" channel="Current Time.webtv.sk">
     <title lang="id">Утро</title>
@@ -17069,7 +17069,7 @@
     <title lang="id">#ВУкраине</title>
   </programme>
   <programme start="20260303140000 +0000" stop="20260303160000 +0000" channel="Current Time.webtv.sk">
-    <title lang="id">Pеальное кино</title>
+    <title lang="id">Pеальное кино: Азбука тюрьмы: Сахарово</title>
   </programme>
   <programme start="20260303160000 +0000" stop="20260303163000 +0000" channel="Current Time.webtv.sk">
     <title lang="id">Главное</title>
@@ -19042,28 +19042,25 @@
   <programme start="20260303225100 +0000" stop="20260303230000 +0000" channel="France 24.webtv.sk">
     <title lang="id">FOCUS</title>
   </programme>
-  <programme start="20260302203000 +0000" stop="20260302231000 +0000" channel="Rai Uno.webtv.sk">
+  <programme start="20260302203000 +0000" stop="20260302231500 +0000" channel="Rai Uno.webtv.sk">
     <title lang="id">Ulisse: il piacere della scoperta</title>
   </programme>
-  <programme start="20260302231000 +0000" stop="20260302231500 +0000" channel="Rai Uno.webtv.sk">
+  <programme start="20260302231500 +0000" stop="20260302232000 +0000" channel="Rai Uno.webtv.sk">
     <title lang="id">Tg1</title>
   </programme>
-  <programme start="20260302231500 +0000" stop="20260303005000 +0000" channel="Rai Uno.webtv.sk">
-    <title lang="id">XXI Secolo</title>
+  <programme start="20260302232000 +0000" stop="20260303012500 +0000" channel="Rai Uno.webtv.sk">
+    <title lang="id">Green book</title>
   </programme>
-  <programme start="20260303005000 +0000" stop="20260303005500 +0000" channel="Rai Uno.webtv.sk">
+  <programme start="20260303012500 +0000" stop="20260303013000 +0000" channel="Rai Uno.webtv.sk">
     <title lang="id">Che tempo fa</title>
   </programme>
-  <programme start="20260303005500 +0000" stop="20260303021000 +0000" channel="Rai Uno.webtv.sk">
+  <programme start="20260303013000 +0000" stop="20260303024500 +0000" channel="Rai Uno.webtv.sk">
     <title lang="id">L&apos;Eredita</title>
   </programme>
-  <programme start="20260303021000 +0000" stop="20260303030000 +0000" channel="Rai Uno.webtv.sk">
-    <title lang="id">Un passo dal cielo I (9)</title>
+  <programme start="20260303024500 +0000" stop="20260303033000 +0000" channel="Rai Uno.webtv.sk">
+    <title lang="id">Il commissario Rex V (5)</title>
   </programme>
-  <programme start="20260303030000 +0000" stop="20260303035500 +0000" channel="Rai Uno.webtv.sk">
-    <title lang="id">Un passo dal cielo I (10)</title>
-  </programme>
-  <programme start="20260303035500 +0000" stop="20260303050000 +0000" channel="Rai Uno.webtv.sk">
+  <programme start="20260303033000 +0000" stop="20260303050000 +0000" channel="Rai Uno.webtv.sk">
     <title lang="id">RaiNews</title>
   </programme>
   <programme start="20260303050000 +0000" stop="20260303052800 +0000" channel="Rai Uno.webtv.sk">
