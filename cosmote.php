@@ -130,8 +130,8 @@
     <title>Football: Panathinaikos - Aris</title>
     <desc>Live: Tidak</desc>
 </programme>
-<programme start="20260301120000 +0700" stop="20260301140000 +0700" channel="COSMOTE Sport 3 HD">
-    <title>Football: Nacional - SC Braga</title>
+<programme start="20260302141000 +0700" stop="20260302161000 +0700" channel="COSMOTE Sport 2 HD">
+    <title>Football: Cremonese - AC Milan</title>
     <desc>Live: Tidak</desc>
 </programme>
 <programme start="20260301140000 +0700" stop="20260301143000 +0700" channel="COSMOTE Sport 3 HD">
@@ -266,6 +266,14 @@
     <title>NBA Specials</title>
     <desc>Live: Tidak</desc>
 </programme>
+<programme start="20260302140500 +0700" stop="20260302145000 +0700" channel="COSMOTE Sport 4 HD">
+    <title>NBA Specials</title>
+    <desc>Live: Tidak</desc>
+</programme>
+<programme start="20260302145000 +0700" stop="20260302170500 +0700" channel="COSMOTE Sport 4 HD">
+    <title>Basketball: Varese - Brescia</title>
+    <desc>Live: Tidak</desc>
+</programme>
 <programme start="20260301130000 +0700" stop="20260301143000 +0700" channel="COSMOTE Sport 5 HD">
     <title>Motorsports: Moto2 2026 (L)</title>
     <desc>Live: Ya</desc>
@@ -338,8 +346,8 @@
     <title>WRC</title>
     <desc>Live: Tidak</desc>
 </programme>
-<programme start="20260301123000 +0700" stop="20260301135500 +0700" channel="COSMOTE Sport 6 HD">
-    <title>Topspin</title>
+<programme start="20260302143500 +0700" stop="20260302150500 +0700" channel="COSMOTE Sport 5 HD">
+    <title>ERC 2025</title>
     <desc>Live: Tidak</desc>
 </programme>
 <programme start="20260301135500 +0700" stop="20260301173000 +0700" channel="COSMOTE Sport 6 HD">
@@ -404,6 +412,14 @@
 </programme>
 <programme start="20260302133000 +0700" stop="20260302140000 +0700" channel="COSMOTE Sport 6 HD">
     <title>Sports Classics: 2025 Outdoor Specials</title>
+    <desc>Live: Tidak</desc>
+</programme>
+<programme start="20260302140000 +0700" stop="20260302145000 +0700" channel="COSMOTE Sport 6 HD">
+    <title>Sports Classics: 2025 Outdoor Specials</title>
+    <desc>Live: Tidak</desc>
+</programme>
+<programme start="20260302145000 +0700" stop="20260302163000 +0700" channel="COSMOTE Sport 6 HD">
+    <title>Handball: SG Flensburg-Handewitt - HSG Wetzlar</title>
     <desc>Live: Tidak</desc>
 </programme>
 <programme start="20260301130000 +0700" stop="20260301150000 +0700" channel="COSMOTE Sport 7 HD">
