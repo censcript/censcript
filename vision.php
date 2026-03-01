@@ -616,9 +616,6 @@
 <programme start="20260301070000 +0000" stop="20260301080000 +0000" channel="Trans 7.vision">
 <title>Makan Receh Kultum</title>
 </programme>
-<programme start="20260301080000 +0000" stop="20260301090000 +0000" channel="Trans 7.vision">
-<title>MotoGP 2026: Thailand (L)</title>
-</programme>
 <programme start="20260301090000 +0000" stop="20260301111500 +0000" channel="Trans 7.vision">
 <title>Pas Buka 6.0</title>
 </programme>
@@ -723,12 +720,6 @@
 </programme>
 <programme start="20260301111000 +0000" stop="20260301113000 +0000" channel="ANTV.vision">
 <title>Sepiring Berduet</title>
-</programme>
-<programme start="20260301113000 +0000" stop="20260301133000 +0000" channel="ANTV.vision">
-<title>Komando Samber Nyawa</title>
-</programme>
-<programme start="20260301133000 +0000" stop="20260301153000 +0000" channel="ANTV.vision">
-<title>Kelabang Seribu</title>
 </programme>
 <programme start="20260301153000 +0000" stop="20260301173000 +0000" channel="ANTV.vision">
 <title>Malu Malu Mau</title>
@@ -1497,4 +1488,13 @@
 </programme>
 <programme start="20260301083000 +0000" stop="20260301090000 +0000" channel="BTV.vision">
 <title>Berita Kriminal</title>
+</programme>
+<programme start="20260301090000 +0000" stop="20260301100500 +0000" channel="BTV.vision">
+<title>Berita Satu Sore</title>
+</programme>
+<programme start="20260301100500 +0000" stop="20260301105200 +0000" channel="BTV.vision">
+<title>Jalan Dakwah Ramadan</title>
+</programme>
+<programme start="20260301105200 +0000" stop="20260301105900 +0000" channel="BTV.vision">
+<title>Kultum</title>
 </programme>
