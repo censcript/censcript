@@ -8494,51 +8494,7 @@
 <programme start="20260301153000 +0000" stop="20260301160000 +0000" channel="Sportstars.mncvision">
     <title>V-League 2025-2026: Men</title>
 </programme>
-<programme start="20260228170000 +0000" stop="20260228190000 +0000" channel="Sportstars 2.mncvision">
-    <title>V-League</title>
-</programme>
-<programme start="20260228190000 +0000" stop="20260228210000 +0000" channel="Sportstars 2.mncvision">
-    <title>SEA Games Thailand 2025</title>
-</programme>
-<programme start="20260228210000 +0000" stop="20260228233000 +0000" channel="Sportstars 2.mncvision">
-    <title>Best Of Badminton</title>
-</programme>
-<programme start="20260228233000 +0000" stop="20260301000000 +0000" channel="Sportstars 2.mncvision">
-    <title>Golden Fit</title>
-</programme>
-<programme start="20260301000000 +0000" stop="20260301003000 +0000" channel="Sportstars 2.mncvision">
-    <title>iNews Sport</title>
-</programme>
-<programme start="20260301003000 +0000" stop="20260301023000 +0000" channel="Sportstars 2.mncvision">
-    <title>AFC U23 Asian Cup Saudi Arabia</title>
-</programme>
-<programme start="20260301023000 +0000" stop="20260301030000 +0000" channel="Sportstars 2.mncvision">
-    <title>Sport Today</title>
-</programme>
-<programme start="20260301030000 +0000" stop="20260301050000 +0000" channel="Sportstars 2.mncvision">
-    <title>SEA Games Thailand 2025</title>
-</programme>
-<programme start="20260301050000 +0000" stop="20260301070000 +0000" channel="Sportstars 2.mncvision">
-    <title>V-League</title>
-</programme>
-<programme start="20260301070000 +0000" stop="20260301083000 +0000" channel="Sportstars 2.mncvision">
-    <title>IBA Mens World Champhionship</title>
-</programme>
-<programme start="20260301083000 +0000" stop="20260301103000 +0000" channel="Sportstars 2.mncvision">
-    <title>AFC U23 Asian Cup Saudi Arabia</title>
-</programme>
-<programme start="20260301103000 +0000" stop="20260301130000 +0000" channel="Sportstars 2.mncvision">
-    <title>Best Of Badminton</title>
-</programme>
-<programme start="20260301130000 +0000" stop="20260301150000 +0000" channel="Sportstars 2.mncvision">
-    <title>Proliga</title>
-</programme>
-<programme start="20260301150000 +0000" stop="20260301153000 +0000" channel="Sportstars 2.mncvision">
-    <title>World Classic Soccer</title>
-</programme>
-<programme start="20260301153000 +0000" stop="20260301160000 +0000" channel="Sportstars 2.mncvision">
-    <title>IBA Mens World Champhionship</title>
-</programme>
+Error: Unable to fetch data. HTTP Status Code: 500
 <programme start="20260228170000 +0000" stop="20260228190000 +0000" channel="Sportstars 2 HD.mncvision">
     <title>V-League</title>
 </programme>

@@ -3227,11 +3227,11 @@ Warning: Undefined array key "et" in /usr/home/ManusiaBiasa/domains/manusiabiasa
 <programme start="20260228234000 +0000" stop="20260301000000 +0000" channel="Sky Sport 2 HD.skyde">
     <title>Es folgt: Live Tennis WTA Tour</title>
 </programme>
-<programme start="20260301000000 +0000" stop="20260301020000 +0000" channel="Sky Sport 2 HD.skyde">
-    <title>Live WTA 500: HF1, Merida Open in Merida (MEX), Halbfinale 1</title>
+<programme start="20260301000000 +0000" stop="20260301030000 +0000" channel="Sky Sport 2 HD.skyde">
+    <title>Live WTA 500: M. Frech (POL) - S.Zhang (CHN) Merida Open in Merida (MEX), Halbfinale 1</title>
 </programme>
-<programme start="20260301020000 +0000" stop="20260301090000 +0000" channel="Sky Sport 2 HD.skyde">
-    <title>Live WTA 500: HF2, Merida Open in Merida (MEX), Halbfinale 2</title>
+<programme start="20260301030000 +0000" stop="20260301090000 +0000" channel="Sky Sport 2 HD.skyde">
+    <title>Live WTA 500: HF2, J. Paolini (ITA) - C. Bucsa (ESP) Merida Open in Merida (MEX), Halbfinale 2</title>
 </programme>
 <programme start="20260301133000 +0000" stop="20260301135000 +0000" channel="Sky Sport 6 HD.skyde">
     <title>Es folgt: Live Premier League</title>
