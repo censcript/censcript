@@ -126,6 +126,10 @@
     <title>Football: AS Roma - Juventus Football Club</title>
     <desc>Live: Tidak</desc>
 </programme>
+<programme start="20260302181000 +0700" stop="20260302202000 +0700" channel="COSMOTE Sport 2 HD">
+    <title>Football: Kifisia - Levadiakos</title>
+    <desc>Live: Tidak</desc>
+</programme>
 <programme start="20260301163000 +0700" stop="20260301183000 +0700" channel="COSMOTE Sport 3 HD">
     <title>Football: Al Fayha - Al Nassr</title>
     <desc>Live: Tidak</desc>
@@ -188,14 +192,6 @@
 </programme>
 <programme start="20260302170000 +0700" stop="20260302190000 +0700" channel="COSMOTE Sport 3 HD">
     <title>Football: Bristol City - Watford</title>
-    <desc>Live: Tidak</desc>
-</programme>
-<programme start="20260301145000 +0700" stop="20260301171000 +0700" channel="COSMOTE Sport 4 HD">
-    <title>Basketball: Real Madrid - Baskonia</title>
-    <desc>Live: Tidak</desc>
-</programme>
-<programme start="20260301171000 +0700" stop="20260301174500 +0700" channel="COSMOTE Sport 4 HD">
-    <title>NBA on Fire 2025-26 E18</title>
     <desc>Live: Tidak</desc>
 </programme>
 <programme start="20260301174500 +0700" stop="20260301201000 +0700" channel="COSMOTE Sport 4 HD">
@@ -266,10 +262,6 @@
     <title>Basketball: New York Knicks - San Antonio Spurs</title>
     <desc>Live: Tidak</desc>
 </programme>
-<programme start="20260301165500 +0700" stop="20260301175500 +0700" channel="COSMOTE Sport 5 HD">
-    <title>WRC 2026</title>
-    <desc>Live: Tidak</desc>
-</programme>
 <programme start="20260301175500 +0700" stop="20260301185500 +0700" channel="COSMOTE Sport 5 HD">
     <title>WRC 2026</title>
     <desc>Live: Tidak</desc>
@@ -338,8 +330,12 @@
     <title>Motorsports: Extreme E 2025</title>
     <desc>Live: Tidak</desc>
 </programme>
-<programme start="20260301135500 +0700" stop="20260301173000 +0700" channel="COSMOTE Sport 6 HD">
-    <title>Gymnastics: FIG Apparatus World Cup 2026</title>
+<programme start="20260302182000 +0700" stop="20260302185000 +0700" channel="COSMOTE Sport 5 HD">
+    <title>Extreme E - Highlights 2025</title>
+    <desc>Live: Tidak</desc>
+</programme>
+<programme start="20260302185000 +0700" stop="20260302192000 +0700" channel="COSMOTE Sport 5 HD">
+    <title>FIA Championship Middle East 2026</title>
     <desc>Live: Tidak</desc>
 </programme>
 <programme start="20260301173000 +0700" stop="20260301200000 +0700" channel="COSMOTE Sport 6 HD">
@@ -371,7 +367,7 @@
     <desc>Live: Tidak</desc>
 </programme>
 <programme start="20260302053000 +0700" stop="20260302080000 +0700" channel="COSMOTE Sport 6 HD">
-    <title>Tennis: ATP 250 2026 (L)</title>
+    <title>Tennis: Yannick Hanfmann - Luciano Darderi (L)</title>
     <desc>Live: Ya</desc>
 </programme>
 <programme start="20260302080000 +0700" stop="20260302093500 +0700" channel="COSMOTE Sport 6 HD">
@@ -411,7 +407,7 @@
     <desc>Live: Tidak</desc>
 </programme>
 <programme start="20260302163000 +0700" stop="20260302190000 +0700" channel="COSMOTE Sport 6 HD">
-    <title>Tennis: ATP 250 2026</title>
+    <title>Tennis: Yannick Hanfmann - Luciano Darderi</title>
     <desc>Live: Tidak</desc>
 </programme>
 <programme start="20260301170000 +0700" stop="20260301190000 +0700" channel="COSMOTE Sport 7 HD">
