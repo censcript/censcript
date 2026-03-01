@@ -6550,14 +6550,8 @@
     <programme start="20260301024500 +0000" stop="20260301030000 +0000" channel="Hub Sports 1  HD.starhub">
         <title>Show 146</title>
     </programme>
-    <programme start="20260301030000 +0000" stop="20260301050000 +0000" channel="Hub Sports 1  HD.starhub">
+    <programme start="20260301030000 +0000" stop="20260301060000 +0000" channel="Hub Sports 1  HD.starhub">
         <title>Abierto Mexicano Telcel p/b HSBC (500) Final</title>
-    </programme>
-    <programme start="20260301050000 +0000" stop="20260301053000 +0000" channel="Hub Sports 1  HD.starhub">
-        <title>Season 3 Episode 11</title>
-    </programme>
-    <programme start="20260301053000 +0000" stop="20260301060000 +0000" channel="Hub Sports 1  HD.starhub">
-        <title>Dubai Tennis C&#039;ships</title>
     </programme>
     <programme start="20260301060000 +0000" stop="20260301080000 +0000" channel="Hub Sports 1  HD.starhub">
         <title>Dubai Duty Free Tennis C&#039;ships (500) Final</title>

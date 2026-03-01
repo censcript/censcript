@@ -616,6 +616,9 @@
 <programme start="20260301070000 +0000" stop="20260301080000 +0000" channel="Trans 7.vision">
 <title>Makan Receh Kultum</title>
 </programme>
+<programme start="20260301080000 +0000" stop="20260301090000 +0000" channel="Trans 7.vision">
+<title>MotoGP 2026: Thailand (L)</title>
+</programme>
 <programme start="20260301090000 +0000" stop="20260301111500 +0000" channel="Trans 7.vision">
 <title>Pas Buka 6.0</title>
 </programme>
@@ -1494,7 +1497,4 @@
 </programme>
 <programme start="20260301083000 +0000" stop="20260301090000 +0000" channel="BTV.vision">
 <title>Berita Kriminal</title>
-</programme>
-<programme start="20260301090000 +0000" stop="20260301100500 +0000" channel="BTV.vision">
-<title>Berita Satu Sore</title>
 </programme>

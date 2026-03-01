@@ -1538,6 +1538,54 @@ Warning: Undefined array key "et" in /usr/home/ManusiaBiasa/domains/manusiabiasa
 <programme start="20260301223500 +0000" stop="20260301230000 +0000" channel="Nick Jr..skyde">
     <title>BARBAPAPA und Familie</title>
 </programme>
+<programme start="20260228235500 +0000" stop="20260301012500 +0000" channel="Romance TV HD.skyde">
+    <title>Katie Fforde: Geschenkte Jahre</title>
+</programme>
+<programme start="20260301012500 +0000" stop="20260301025500 +0000" channel="Romance TV HD.skyde">
+    <title>Rosamunde Pilcher: Pralinen zum Frühstück</title>
+</programme>
+<programme start="20260301025500 +0000" stop="20260301042500 +0000" channel="Romance TV HD.skyde">
+    <title>Die Müttermafia-Patin</title>
+</programme>
+<programme start="20260301042500 +0000" stop="20260301055500 +0000" channel="Romance TV HD.skyde">
+    <title>Eltern und andere Wahrheiten</title>
+</programme>
+<programme start="20260301055500 +0000" stop="20260301072500 +0000" channel="Romance TV HD.skyde">
+    <title>Entscheidung auf Mauritius</title>
+</programme>
+<programme start="20260301072500 +0000" stop="20260301085500 +0000" channel="Romance TV HD.skyde">
+    <title>Lena Lorenz: Ein Fall von Liebe</title>
+</programme>
+<programme start="20260301085500 +0000" stop="20260301103000 +0000" channel="Romance TV HD.skyde">
+    <title>Lena Lorenz: Lebenstraum</title>
+</programme>
+<programme start="20260301103000 +0000" stop="20260301120500 +0000" channel="Romance TV HD.skyde">
+    <title>Lena Lorenz: Gegen alle Zweifel</title>
+</programme>
+<programme start="20260301120500 +0000" stop="20260301125500 +0000" channel="Romance TV HD.skyde">
+    <title>Lena Lorenz</title>
+</programme>
+<programme start="20260301125500 +0000" stop="20260301143000 +0000" channel="Romance TV HD.skyde">
+    <title>Katie Fforde: Geschenkte Jahre</title>
+</programme>
+<programme start="20260301143000 +0000" stop="20260301160500 +0000" channel="Romance TV HD.skyde">
+    <title>Rosamunde Pilcher: Pralinen zum Frühstück</title>
+</programme>
+<programme start="20260301160500 +0000" stop="20260301174000 +0000" channel="Romance TV HD.skyde">
+    <title>Barbara Wood - Sturmjahre</title>
+</programme>
+<programme start="20260301174000 +0000" stop="20260301191500 +0000" channel="Romance TV HD.skyde">
+    <title>Inga Lindström: Hanna und das gute Leben</title>
+</programme>
+<programme start="20260301191500 +0000" stop="20260301204500 +0000" channel="Romance TV HD.skyde">
+    <title>Inga Lindström: Verliebt in meinen Chef</title>
+</programme>
+<programme start="20260301204500 +0000" stop="20260301222000 +0000" channel="Romance TV HD.skyde">
+    <title>Rosamunde Pilcher: Die Liebe ihres Lebens</title>
+</programme>
+<programme start="20260301222000 +0000" stop="20260302000000 +0000" channel="Romance TV HD.skyde">
+    <title>Eine Million Küsse - Wie angel&#039; ich mir einen Millionär?</title>
+</programme>
 <programme start="20260228230000 +0000" stop="20260301000000 +0000" channel="Sky Atlantic HD.skyde">
     <title>ES: Welcome to Derry</title>
 </programme>
@@ -2588,8 +2636,14 @@ Warning: Undefined array key "et" in /usr/home/ManusiaBiasa/domains/manusiabiasa
 <programme start="20260301153000 +0000" stop="20260301155000 +0000" channel="Sky Sport Austria 4 HD.skyde">
     <title>Es folgt Fußball: Österreich, Admiral Bundesliga</title>
 </programme>
-<programme start="20260301155000 +0000" stop="20260301183000 +0000" channel="Sky Sport Austria 4 HD.skyde">
+<programme start="20260301155000 +0000" stop="20260301180000 +0000" channel="Sky Sport Austria 4 HD.skyde">
     <title>Live Admiral BL: FC Red Bull Salzburg - TSV Egger Glas Hartberg, 21. Runde</title>
+</programme>
+<programme start="20260301153000 +0000" stop="20260301155000 +0000" channel="Sky Sport Austria 5 HD.skyde">
+    <title>Es folgt Fußball: Österreich, Admiral Bundesliga</title>
+</programme>
+<programme start="20260301155000 +0000" stop="20260301180000 +0000" channel="Sky Sport Austria 5 HD.skyde">
+    <title>Live Admiral BL: SCR Altach - SK Rapid, 21. Runde</title>
 </programme>
 <programme start="20260301153000 +0000" stop="20260301155000 +0000" channel="Sky Sport Austria 6 HD.skyde">
     <title>Es folgt Fußball: Österreich, Admiral Bundesliga</title>
@@ -2723,7 +2777,7 @@ Warning: Undefined array key "et" in /usr/home/ManusiaBiasa/domains/manusiabiasa
 <programme start="20260301170000 +0000" stop="20260301183000 +0000" channel="Sky Sport Bundesliga 1 HD.skyde">
     <title>Live BL: Sky90 - Die Fußballdebatte</title>
 </programme>
-<programme start="20260301183000 +0000" stop="20260301194500 +0000" channel="Sky Sport Bundesliga 1 HD.skyde">
+<programme start="20260301183000 +0000" stop="20260301191500 +0000" channel="Sky Sport Bundesliga 1 HD.skyde">
     <title>Live BL: Highlights XXL: SGE - SCF, 24. Spieltag</title>
 </programme>
 <programme start="20260301114000 +0000" stop="20260301120000 +0000" channel="Sky Sport Bundesliga 2 HD.skyde">
@@ -2747,19 +2801,19 @@ Warning: Undefined array key "et" in /usr/home/ManusiaBiasa/domains/manusiabiasa
 <programme start="20260301114000 +0000" stop="20260301120000 +0000" channel="Sky Sport Bundesliga 3 HD.skyde">
     <title>Es folgt: Live 2. Bundesliga</title>
 </programme>
-<programme start="20260301120000 +0000" stop="20260301150000 +0000" channel="Sky Sport Bundesliga 3 HD.skyde">
+<programme start="20260301120000 +0000" stop="20260301143000 +0000" channel="Sky Sport Bundesliga 3 HD.skyde">
     <title>Live 2. BL: Hertha BSC - 1. FC Nürnberg, 24. Spieltag</title>
 </programme>
 <programme start="20260301114000 +0000" stop="20260301120000 +0000" channel="Sky Sport Bundesliga 4 HD.skyde">
     <title>Es folgt: Live 2. Bundesliga</title>
 </programme>
-<programme start="20260301120000 +0000" stop="20260301150000 +0000" channel="Sky Sport Bundesliga 4 HD.skyde">
+<programme start="20260301120000 +0000" stop="20260301143000 +0000" channel="Sky Sport Bundesliga 4 HD.skyde">
     <title>Live 2. BL: 1. FC Magdeburg - Karlsruher SC, 24. Spieltag</title>
 </programme>
 <programme start="20260301114000 +0000" stop="20260301120000 +0000" channel="Sky Sport Bundesliga 5 HD.skyde">
     <title>Es folgt: Live 2. Bundesliga</title>
 </programme>
-<programme start="20260301120000 +0000" stop="20260301150000 +0000" channel="Sky Sport Bundesliga 5 HD.skyde">
+<programme start="20260301120000 +0000" stop="20260301143000 +0000" channel="Sky Sport Bundesliga 5 HD.skyde">
     <title>Live 2. BL: Multiview 24. Spieltag, Sonntag</title>
 </programme>
 <programme start="20260228231500 +0000" stop="20260301001500 +0000" channel="Sky Sport F1 HD.skyde">
@@ -3056,32 +3110,38 @@ Warning: Undefined array key "et" in /usr/home/ManusiaBiasa/domains/manusiabiasa
 <programme start="20260301223000 +0000" stop="20260301230000 +0000" channel="Sky Sport Premier League HD.skyde">
     <title>PL: 90in30: LEE - MCI, 28. Spieltag</title>
 </programme>
-<programme start="20260301000000 +0000" stop="20260301025500 +0000" channel="Sky Sport Tennis HD.skyde">
-    <title>Live WTA 500: M. Frech (POL) - S.Zhang (CHN) Merida Open in Merida (MEX), Halbfinale 1</title>
+<programme start="20260228230000 +0000" stop="20260301000000 +0000" channel="Sky Sport Tennis HD.skyde">
+    <title>ATP 500: Finale, D. Medvedev - T. Griekspoor (NED) Dubai Duty Free Tennis Championships in Dubai (VAE), Finale</title>
 </programme>
-<programme start="20260301025500 +0000" stop="20260301053000 +0000" channel="Sky Sport Tennis HD.skyde">
-    <title>Live ATP 500: F. Cobolli (ITA) - F. Tiafoe (USA) Abierto Mexicano Telcel presented by HSBC in Acapulco (MEX), Finale</title>
+<programme start="20260301000000 +0000" stop="20260301020000 +0000" channel="Sky Sport Tennis HD.skyde">
+    <title>Live WTA 500: HF1, M. Frech (POL) - S.Zhang (CHN) Merida Open in Merida (MEX), Halbfinale 1</title>
+</programme>
+<programme start="20260301020000 +0000" stop="20260301030000 +0000" channel="Sky Sport Tennis HD.skyde">
+    <title>Live WTA 500: HF2, J. Paolini (ITA) - C. Bucsa (ESP) Merida Open in Merida (MEX), Halbfinale 2</title>
+</programme>
+<programme start="20260301030000 +0000" stop="20260301053000 +0000" channel="Sky Sport Tennis HD.skyde">
+    <title>Live ATP 500: Finale, F. Cobolli (ITA) - F. Tiafoe (USA) Abierto Mexicano Telcel presented by HSBC in Acapulco (MEX), Finale</title>
 </programme>
 <programme start="20260301053000 +0000" stop="20260301073000 +0000" channel="Sky Sport Tennis HD.skyde">
     <title>WTA 500: HF2, J. Paolini (ITA) - C. Bucsa (ESP) Merida Open in Merida (MEX), Halbfinale 2</title>
 </programme>
 <programme start="20260301073000 +0000" stop="20260301100000 +0000" channel="Sky Sport Tennis HD.skyde">
-    <title>ATP 500: F. Cobolli (ITA) - F. Tiafoe (USA) Abierto Mexicano Telcel presented by HSBC in Acapulco (MEX), Finale</title>
+    <title>ATP 500: Finale, D. Medvedev - T. Griekspoor (NED) Dubai Duty Free Tennis Championships in Dubai (VAE), Finale</title>
 </programme>
 <programme start="20260301100000 +0000" stop="20260301120000 +0000" channel="Sky Sport Tennis HD.skyde">
-    <title>WTA 500: M. Frech (POL) - S.Zhang (CHN) Merida Open in Merida (MEX), Halbfinale 1</title>
+    <title>WTA 500: HF1, M. Frech (POL) - S.Zhang (CHN) Merida Open in Merida (MEX), Halbfinale 1</title>
 </programme>
 <programme start="20260301120000 +0000" stop="20260301140000 +0000" channel="Sky Sport Tennis HD.skyde">
     <title>WTA 500: HF2, J. Paolini (ITA) - C. Bucsa (ESP) Merida Open in Merida (MEX), Halbfinale 2</title>
 </programme>
 <programme start="20260301140000 +0000" stop="20260301163000 +0000" channel="Sky Sport Tennis HD.skyde">
-    <title>ATP 500: F. Cobolli (ITA) - F. Tiafoe (USA) Abierto Mexicano Telcel presented by HSBC in Acapulco (MEX), Finale</title>
+    <title>ATP 500: Finale, F. Cobolli (ITA) - F. Tiafoe (USA) Abierto Mexicano Telcel presented by HSBC in Acapulco (MEX), Finale</title>
 </programme>
 <programme start="20260301163000 +0000" stop="20260301190000 +0000" channel="Sky Sport Tennis HD.skyde">
-    <title>ATP 500: F. Cobolli (ITA) - F. Tiafoe (USA) Abierto Mexicano Telcel presented by HSBC in Acapulco (MEX), Finale</title>
+    <title>ATP 500: Finale, D. Medvedev - T. Griekspoor (NED) Dubai Duty Free Tennis Championships in Dubai (VAE), Finale</title>
 </programme>
 <programme start="20260301190000 +0000" stop="20260301210000 +0000" channel="Sky Sport Tennis HD.skyde">
-    <title>WTA 500: M. Frech (POL) - S.Zhang (CHN) Merida Open in Merida (MEX), Halbfinale 1</title>
+    <title>WTA 500: HF1, M. Frech (POL) - S.Zhang (CHN) Merida Open in Merida (MEX), Halbfinale 1</title>
 </programme>
 <programme start="20260301210000 +0000" stop="20260301230000 +0000" channel="Sky Sport Tennis HD.skyde">
     <title>WTA 500: HF2, J. Paolini (ITA) - C. Bucsa (ESP) Merida Open in Merida (MEX), Halbfinale 2</title>
@@ -3164,7 +3224,7 @@ Warning: Undefined array key "et" in /usr/home/ManusiaBiasa/domains/manusiabiasa
 <programme start="20260301221000 +0000" stop="20260301223000 +0000" channel="Sky Sport 1 HD.skyde">
     <title>Es folgt: Live ATP World Tour</title>
 </programme>
-<programme start="20260301223000 +0000" stop="20260302090000 +0000" channel="Sky Sport 1 HD.skyde">
+<programme start="20260301223000 +0000" stop="20260302010000 +0000" channel="Sky Sport 1 HD.skyde">
     <title>Live ATP 250: Finale, BCI Seguros Chile Open in Santiago (CHI), Finale</title>
 </programme>
 <programme start="20260228234000 +0000" stop="20260301000000 +0000" channel="Sky Sport 2 HD.skyde">
@@ -3179,7 +3239,7 @@ Warning: Undefined array key "et" in /usr/home/ManusiaBiasa/domains/manusiabiasa
 <programme start="20260301133000 +0000" stop="20260301135000 +0000" channel="Sky Sport 6 HD.skyde">
     <title>Es folgt: Live Premier League</title>
 </programme>
-<programme start="20260301135000 +0000" stop="20260301163000 +0000" channel="Sky Sport 6 HD.skyde">
+<programme start="20260301135000 +0000" stop="20260301160000 +0000" channel="Sky Sport 6 HD.skyde">
     <title>Live PL: Brighton &amp; Hove Albion - Nottingham Forest, 28. Spieltag</title>
 </programme>
 <programme start="20260228232500 +0000" stop="20260301001000 +0000" channel="SYFY HD.skyde">
