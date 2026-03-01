@@ -1,7 +1,3 @@
-<programme start="20260302031500 +0700" stop="20260302053000 +0700" channel="COSMOTE Sport 1 HD">
-    <title>Sportshow (L)</title>
-    <desc>Live: Ya</desc>
-</programme>
 <programme start="20260302053000 +0700" stop="20260302080000 +0700" channel="COSMOTE Sport 1 HD">
     <title>Sportshow</title>
     <desc>Live: Tidak</desc>
@@ -52,10 +48,6 @@
 </programme>
 <programme start="20260303052000 +0700" stop="20260303073000 +0700" channel="COSMOTE Sport 1 HD">
     <title>Football: Celta - PAOK</title>
-    <desc>Live: Tidak</desc>
-</programme>
-<programme start="20260302030000 +0700" stop="20260302051000 +0700" channel="COSMOTE Sport 2 HD">
-    <title>Football: Volos NPS - AEK</title>
     <desc>Live: Tidak</desc>
 </programme>
 <programme start="20260302051000 +0700" stop="20260302071000 +0700" channel="COSMOTE Sport 2 HD">
@@ -114,6 +106,10 @@
     <title>Football: Pisa - Bologna</title>
     <desc>Live: Tidak</desc>
 </programme>
+<programme start="20260303064000 +0700" stop="20260303071000 +0700" channel="COSMOTE Sport 2 HD">
+    <title>Sports Classics: Ultimate Rush S1 E13</title>
+    <desc>Live: Tidak</desc>
+</programme>
 <programme start="20260302044500 +0700" stop="20260302070000 +0700" channel="COSMOTE Sport 3 HD">
     <title>Football: Panathinaikos - Aris</title>
     <desc>Live: Tidak</desc>
@@ -168,6 +164,10 @@
 </programme>
 <programme start="20260303053000 +0700" stop="20260303060000 +0700" channel="COSMOTE Sport 3 HD">
     <title>Emirates FA Cup 2025-26 - Highlights</title>
+    <desc>Live: Tidak</desc>
+</programme>
+<programme start="20260303060000 +0700" stop="20260303080000 +0700" channel="COSMOTE Sport 3 HD">
+    <title>Football: Nacional - SC Braga</title>
     <desc>Live: Tidak</desc>
 </programme>
 <programme start="20260302033000 +0700" stop="20260302063000 +0700" channel="COSMOTE Sport 4 HD">
@@ -318,8 +318,8 @@
     <title>Highlights: 2025 Extreme H</title>
     <desc>Live: Tidak</desc>
 </programme>
-<programme start="20260302020500 +0700" stop="20260302053000 +0700" channel="COSMOTE Sport 6 HD">
-    <title>Gymnastics: FIG Apparatus World Cup 2026</title>
+<programme start="20260303060000 +0700" stop="20260303070500 +0700" channel="COSMOTE Sport 5 HD">
+    <title>ERC 2025</title>
     <desc>Live: Tidak</desc>
 </programme>
 <programme start="20260302053000 +0700" stop="20260302080000 +0700" channel="COSMOTE Sport 6 HD">
@@ -406,12 +406,8 @@
     <title>Premier Padel Tour 2026 - Highlights</title>
     <desc>Live: Tidak</desc>
 </programme>
-<programme start="20260302033000 +0700" stop="20260302053000 +0700" channel="COSMOTE Sport 7 HD">
-    <title>Football: Rio Ave - Famalicao (L)</title>
-    <desc>Live: Ya</desc>
-</programme>
-<programme start="20260302053000 +0700" stop="20260302060000 +0700" channel="COSMOTE Sport 7 HD">
-    <title>COSMOTESport7HD</title>
+<programme start="20260303060000 +0700" stop="20260303081500 +0700" channel="COSMOTE Sport 6 HD">
+    <title>Premier Padel Tour 2026</title>
     <desc>Live: Tidak</desc>
 </programme>
 <programme start="20260302060000 +0700" stop="20260302070000 +0700" channel="COSMOTE Sport 7 HD">
