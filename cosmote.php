@@ -2,19 +2,15 @@
     <title>Football: Viktoria Plzen - Panathinaikos</title>
     <desc>Live: Tidak</desc>
 </programme>
-<programme start="20260302194500 +0700" stop="20260302220500 +0700" channel="COSMOTE Sport 1 HD">
+<programme start="20260302194500 +0700" stop="20260302223000 +0700" channel="COSMOTE Sport 1 HD">
     <title>Sportshow</title>
     <desc>Live: Tidak</desc>
 </programme>
-<programme start="20260302220500 +0700" stop="20260302223500 +0700" channel="COSMOTE Sport 1 HD">
-    <title>UEFA Champions League Highlights 2025-26</title>
-    <desc>Live: Tidak</desc>
-</programme>
-<programme start="20260302223500 +0700" stop="20260303011500 +0700" channel="COSMOTE Sport 1 HD">
+<programme start="20260302223000 +0700" stop="20260303011000 +0700" channel="COSMOTE Sport 1 HD">
     <title>Football: ACF Fiorentina - Jagiellonia</title>
     <desc>Live: Tidak</desc>
 </programme>
-<programme start="20260303011500 +0700" stop="20260303031500 +0700" channel="COSMOTE Sport 1 HD">
+<programme start="20260303011000 +0700" stop="20260303031500 +0700" channel="COSMOTE Sport 1 HD">
     <title>Football: Bayer 04 Leverkusen - Olympiacos</title>
     <desc>Live: Tidak</desc>
 </programme>
@@ -262,11 +258,11 @@
     <title>Motorsports: Moto3 2026</title>
     <desc>Live: Tidak</desc>
 </programme>
-<programme start="20260302225000 +0700" stop="20260303001000 +0700" channel="COSMOTE Sport 5 HD">
+<programme start="20260302225000 +0700" stop="20260303002000 +0700" channel="COSMOTE Sport 5 HD">
     <title>Motorsports: Moto2 2026</title>
     <desc>Live: Tidak</desc>
 </programme>
-<programme start="20260303001000 +0700" stop="20260303020000 +0700" channel="COSMOTE Sport 5 HD">
+<programme start="20260303002000 +0700" stop="20260303020000 +0700" channel="COSMOTE Sport 5 HD">
     <title>Motorsports: MotoGP 2026</title>
     <desc>Live: Tidak</desc>
 </programme>
