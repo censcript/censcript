@@ -2833,14 +2833,8 @@ Warning: Undefined array key "et" in /usr/home/ManusiaBiasa/domains/manusiabiasa
 <programme start="20260302050000 +0000" stop="20260302060000 +0000" channel="Sky Sport Mix HD.skyde">
     <title>MotoGP: Rennen - GP Thailand</title>
 </programme>
-<programme start="20260302060000 +0000" stop="20260302080000 +0000" channel="Sky Sport Mix HD.skyde">
+<programme start="20260302060000 +0000" stop="20260302074500 +0000" channel="Sky Sport Mix HD.skyde">
     <title>NHL: Winnipeg Jets @ San Jose Sharks</title>
-</programme>
-<programme start="20260302080000 +0000" stop="20260302090000 +0000" channel="Sky Sport Mix HD.skyde">
-    <title>NBA: Showtime</title>
-</programme>
-<programme start="20260302090000 +0000" stop="20260302113000 +0000" channel="Sky Sport Mix HD.skyde">
-    <title>NBA: Philadelphia 76ers @ Boston Celtics</title>
 </programme>
 <programme start="20260302113000 +0000" stop="20260302120000 +0000" channel="Sky Sport Mix HD.skyde">
     <title>NBA: Action</title>
