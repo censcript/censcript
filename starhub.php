@@ -8167,20 +8167,20 @@
     <programme start="20260303153000 +0000" stop="20260303173000 +0000" channel="SPOTV2.starhub">
         <title>25/26 A-League Men Round 19 Auckland FC vs Melbourne City FC</title>
     </programme>
-    <programme start="20260302160000 +0000" stop="20260302160900 +0000" channel="Dragon TV.starhub">
+    <programme start="20260302160000 +0000" stop="20260302163500 +0000" channel="Dragon TV.starhub">
         <title>Overtime No More</title>
     </programme>
-    <programme start="20260302160900 +0000" stop="20260302170000 +0000" channel="Dragon TV.starhub">
+    <programme start="20260302163500 +0000" stop="20260302170000 +0000" channel="Dragon TV.starhub">
         <title>Searching for flavor</title>
     </programme>
     <programme start="20260302170000 +0000" stop="20260302220000 +0000" channel="Dragon TV.starhub">
         <title>Dragon TV Primetime News</title>
     </programme>
     <programme start="20260302220000 +0000" stop="20260302223500 +0000" channel="Dragon TV.starhub">
-        <title>Next Station</title>
+        <title>New Entertainment</title>
     </programme>
     <programme start="20260302223500 +0000" stop="20260302230000 +0000" channel="Dragon TV.starhub">
-        <title>Searching for flavor</title>
+        <title>CARE ON THE WAY</title>
     </programme>
     <programme start="20260302230000 +0000" stop="20260303010000 +0000" channel="Dragon TV.starhub">
         <title>Dragon TV Morning News</title>
