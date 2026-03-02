@@ -727,9 +727,6 @@
 <programme start="20260302111000 +0000" stop="20260302113000 +0000" channel="ANTV.vision">
 <title>Sepiring Berduet</title>
 </programme>
-<programme start="20260302113000 +0000" stop="20260302133000 +0000" channel="ANTV.vision">
-<title>Primitif</title>
-</programme>
 <programme start="20260302133000 +0000" stop="20260302153000 +0000" channel="ANTV.vision">
 <title>Menggapai Matahari</title>
 </programme>
@@ -915,9 +912,6 @@
 </programme>
 <programme start="20260302110000 +0000" stop="20260302130000 +0000" channel="TVOne.vision">
 <title>Apa Kabar Indonesia Malam (L)</title>
-</programme>
-<programme start="20260302130000 +0000" stop="20260302140000 +0000" channel="TVOne.vision">
-<title>Fakta</title>
 </programme>
 <programme start="20260302140000 +0000" stop="20260302150000 +0000" channel="TVOne.vision">
 <title>Kabar Utama (L)</title>
@@ -1497,4 +1491,10 @@
 </programme>
 <programme start="20260302110200 +0000" stop="20260302110900 +0000" channel="BTV.vision">
 <title>Kultum</title>
+</programme>
+<programme start="20260302110900 +0000" stop="20260302111400 +0000" channel="BTV.vision">
+<title>Filler Menantikan Azan Magrib</title>
+</programme>
+<programme start="20260302111400 +0000" stop="20260302111800 +0000" channel="BTV.vision">
+<title>Azan Magrib</title>
 </programme>
