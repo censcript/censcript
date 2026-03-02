@@ -110,6 +110,10 @@
     <title>Football: Pisa - Bologna</title>
     <desc>Live: Tidak</desc>
 </programme>
+<programme start="20260303181000 +0700" stop="20260303202000 +0700" channel="COSMOTE Sport 2 HD">
+    <title>Football: OFI - AEL Novibet</title>
+    <desc>Live: Tidak</desc>
+</programme>
 <programme start="20260302170000 +0700" stop="20260302190000 +0700" channel="COSMOTE Sport 3 HD">
     <title>Football: Bristol City - Watford</title>
     <desc>Live: Tidak</desc>
@@ -172,10 +176,6 @@
 </programme>
 <programme start="20260303170000 +0700" stop="20260303190000 +0700" channel="COSMOTE Sport 3 HD">
     <title>Football: Birmingham City - Middlesbrough</title>
-    <desc>Live: Tidak</desc>
-</programme>
-<programme start="20260302145000 +0700" stop="20260302170500 +0700" channel="COSMOTE Sport 4 HD">
-    <title>Basketball: Varese - Brescia</title>
     <desc>Live: Tidak</desc>
 </programme>
 <programme start="20260302170500 +0700" stop="20260302193000 +0700" channel="COSMOTE Sport 4 HD">
@@ -400,6 +400,14 @@
 </programme>
 <programme start="20260303173000 +0700" stop="20260303180000 +0700" channel="COSMOTE Sport 6 HD">
     <title>Sports Classics: 2025 Outdoor Specials</title>
+    <desc>Live: Tidak</desc>
+</programme>
+<programme start="20260303180000 +0700" stop="20260303183000 +0700" channel="COSMOTE Sport 6 HD">
+    <title>Sports Classics: 2025 Outdoor Specials</title>
+    <desc>Live: Tidak</desc>
+</programme>
+<programme start="20260303183000 +0700" stop="20260303200000 +0700" channel="COSMOTE Sport 6 HD">
+    <title>Topspin</title>
     <desc>Live: Tidak</desc>
 </programme>
 <programme start="20260302170000 +0700" stop="20260302190000 +0700" channel="COSMOTE Sport 7 HD">

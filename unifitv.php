@@ -2910,8 +2910,6 @@
     <title lang="en">Jadual Waktu Berbuka &amp; Imsak</title>
     <desc lang="en">Jadual Waktu Berbuka &amp; Imsak menyediakan maklumat tepat mengenai waktu berbuka puasa dan imsak sepanjang bulan Ramadan bagi pelbagai zon di Malaysia.</desc>
     <category lang="en">News</category>
-    <episode-num system="xmltv_ns">0.0.</episode-num>
-    <episode-num system="onscreen">S1E1</episode-num>
   </programme>
   <programme start="20260302102000 +0000" stop="20260302110000 +0000" channel="tvs.unifitv">
     <title lang="en">Debat Ramadan</title>
@@ -2969,8 +2967,6 @@
     <title lang="en">Jadual Waktu Berbuka &amp; Imsak</title>
     <desc lang="en">Jadual Waktu Berbuka &amp; Imsak menyediakan maklumat tepat mengenai waktu berbuka puasa dan imsak sepanjang bulan Ramadan bagi pelbagai zon di Malaysia.</desc>
     <category lang="en">News</category>
-    <episode-num system="xmltv_ns">0.0.</episode-num>
-    <episode-num system="onscreen">S1E1</episode-num>
   </programme>
   <programme start="20260302153000 +0000" stop="20260302160000 +0000" channel="tvs.unifitv">
     <title lang="en">Sumandak Takes Borneo</title>

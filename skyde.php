@@ -2806,9 +2806,6 @@ Warning: Undefined array key "et" in /usr/home/ManusiaBiasa/domains/manusiabiasa
 <programme start="20260302060000 +0000" stop="20260302090000 +0000" channel="Sky Sport Golf HD.skyde">
     <title>Asian Tour: New Zealand Open, 4. Tag in Arrowtown (Neuseeland)</title>
 </programme>
-<programme start="20260302090000 +0000" stop="20260302110000 +0000" channel="Sky Sport Golf HD.skyde">
-    <title>TGL: Jupiter Links Golf Club - Boston Common Golf, 13. Spieltag</title>
-</programme>
 <programme start="20260302110000 +0000" stop="20260302160000 +0000" channel="Sky Sport Golf HD.skyde">
     <title>LPGA: HSBC Women&#039;s World Championship, 4. Tag auf Sentosa (Singapur)</title>
 </programme>
@@ -2836,8 +2833,14 @@ Warning: Undefined array key "et" in /usr/home/ManusiaBiasa/domains/manusiabiasa
 <programme start="20260302050000 +0000" stop="20260302060000 +0000" channel="Sky Sport Mix HD.skyde">
     <title>MotoGP: Rennen - GP Thailand</title>
 </programme>
-<programme start="20260302060000 +0000" stop="20260302074500 +0000" channel="Sky Sport Mix HD.skyde">
+<programme start="20260302060000 +0000" stop="20260302080000 +0000" channel="Sky Sport Mix HD.skyde">
     <title>NHL: Winnipeg Jets @ San Jose Sharks</title>
+</programme>
+<programme start="20260302080000 +0000" stop="20260302090000 +0000" channel="Sky Sport Mix HD.skyde">
+    <title>NBA: Showtime</title>
+</programme>
+<programme start="20260302090000 +0000" stop="20260302113000 +0000" channel="Sky Sport Mix HD.skyde">
+    <title>NBA: Philadelphia 76ers @ Boston Celtics</title>
 </programme>
 <programme start="20260302113000 +0000" stop="20260302120000 +0000" channel="Sky Sport Mix HD.skyde">
     <title>NBA: Action</title>
@@ -3043,6 +3046,9 @@ Warning: Undefined array key "et" in /usr/home/ManusiaBiasa/domains/manusiabiasa
 <programme start="20260302223000 +0000" stop="20260302230000 +0000" channel="Sky Sport Premier League HD.skyde">
     <title>EFL: Highlights, 35. Spieltag</title>
 </programme>
+<programme start="20260301230000 +0000" stop="20260302013000 +0000" channel="Sky Sport Tennis HD.skyde">
+    <title>Live ATP 250: Finale, Y. Hanfmann (GER) - L. Darderi (ITA), BCI Seguros Chile Open in Santiago (CHI), Finale</title>
+</programme>
 <programme start="20260302013000 +0000" stop="20260302020000 +0000" channel="Sky Sport Tennis HD.skyde">
     <title>ATP: This Week</title>
 </programme>
@@ -3051,6 +3057,9 @@ Warning: Undefined array key "et" in /usr/home/ManusiaBiasa/domains/manusiabiasa
 </programme>
 <programme start="20260302043000 +0000" stop="20260302070000 +0000" channel="Sky Sport Tennis HD.skyde">
     <title>ATP 500: F. Cobolli (ITA) - F. Tiafoe (USA) Abierto Mexicano Telcel presented by HSBC in Acapulco (MEX), Finale</title>
+</programme>
+<programme start="20260302070000 +0000" stop="20260302093000 +0000" channel="Sky Sport Tennis HD.skyde">
+    <title>ATP 250: Finale, Y. Hanfmann (GER) - L. Darderi (ITA), BCI Seguros Chile Open in Santiago (CHI), Finale</title>
 </programme>
 <programme start="20260302093000 +0000" stop="20260302120000 +0000" channel="Sky Sport Tennis HD.skyde">
     <title>WTA 500: Finale, C. Bucsa (ESP) - M. Frech (POL), Merida Open in Merida (MEX), Finale</title>
@@ -3076,10 +3085,10 @@ Warning: Undefined array key "et" in /usr/home/ManusiaBiasa/domains/manusiabiasa
 <programme start="20260302220000 +0000" stop="20260303003000 +0000" channel="Sky Sport Tennis HD.skyde">
     <title>ATP 500: T. Etcheverry (ARG) - A. Tabilo (CHI), Rio Open in Rio de Janeiro (BRA), Finale</title>
 </programme>
-<programme start="20260302000000 +0000" stop="20260302013000 +0000" channel="Sky Sport Top Event HD.skyde">
-    <title>Live WTA 500: Finale, J. Paolini (ITA) - C. Bucsa (ESP), Merida Open in Merida (MEX), Finale</title>
+<programme start="20260302000000 +0000" stop="20260302010000 +0000" channel="Sky Sport Top Event HD.skyde">
+    <title>Live ATP 250: Finale, Y. Hanfmann (GER) - L. Darderi (ITA), BCI Seguros Chile Open in Santiago (CHI), Finale</title>
 </programme>
-<programme start="20260302013000 +0000" stop="20260302040000 +0000" channel="Sky Sport Top Event HD.skyde">
+<programme start="20260302010000 +0000" stop="20260302040000 +0000" channel="Sky Sport Top Event HD.skyde">
     <title>Live NBA: Philadelphia 76ers @ Boston Celtics</title>
 </programme>
 <programme start="20260302040000 +0000" stop="20260302043000 +0000" channel="Sky Sport Top Event HD.skyde">
@@ -3110,7 +3119,7 @@ Warning: Undefined array key "et" in /usr/home/ManusiaBiasa/domains/manusiabiasa
     <title>MotoGP: Rennen - GP Thailand</title>
 </programme>
 <programme start="20260302110000 +0000" stop="20260302133000 +0000" channel="Sky Sport Top Event HD.skyde">
-    <title>WTA 500: Finale, J. Paolini (ITA) - C. Bucsa (ESP), Merida Open in Merida (MEX), Finale</title>
+    <title>WTA 500: Finale, C. Bucsa (ESP) - M. Frech (POL), Merida Open in Merida (MEX), Finale</title>
 </programme>
 <programme start="20260302133000 +0000" stop="20260302160000 +0000" channel="Sky Sport Top Event HD.skyde">
     <title>NBA: Philadelphia 76ers @ Boston Celtics</title>
