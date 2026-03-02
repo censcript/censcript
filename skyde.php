@@ -3050,13 +3050,13 @@ Warning: Undefined array key "et" in /usr/home/ManusiaBiasa/domains/manusiabiasa
     <title>EFL: Highlights, 35. Spieltag</title>
 </programme>
 <programme start="20260301230000 +0000" stop="20260302013000 +0000" channel="Sky Sport Tennis HD.skyde">
-    <title>Live WTA 500: Finale, Merida Open in Merida (MEX), Finale</title>
+    <title>Live WTA 500: Finale, J. Paolini (ITA) - C. Bucsa (ESP), Merida Open in Merida (MEX), Finale</title>
 </programme>
 <programme start="20260302013000 +0000" stop="20260302020000 +0000" channel="Sky Sport Tennis HD.skyde">
     <title>ATP: This Week</title>
 </programme>
 <programme start="20260302020000 +0000" stop="20260302043000 +0000" channel="Sky Sport Tennis HD.skyde">
-    <title>ATP 250: Finale, BCI Seguros Chile Open in Santiago (CHI), Finale</title>
+    <title>ATP 250: Finale, Y. Hanfmann (GER) - L. Darderi (ITA), BCI Seguros Chile Open in Santiago (CHI), Finale</title>
 </programme>
 <programme start="20260302043000 +0000" stop="20260302070000 +0000" channel="Sky Sport Tennis HD.skyde">
     <title>ATP 500: F. Cobolli (ITA) - F. Tiafoe (USA) Abierto Mexicano Telcel presented by HSBC in Acapulco (MEX), Finale</title>
@@ -3065,19 +3065,19 @@ Warning: Undefined array key "et" in /usr/home/ManusiaBiasa/domains/manusiabiasa
     <title>ATP 500: Finale, D. Medvedev - T. Griekspoor (NED) Dubai Duty Free Tennis Championships in Dubai (VAE), Finale</title>
 </programme>
 <programme start="20260302093000 +0000" stop="20260302120000 +0000" channel="Sky Sport Tennis HD.skyde">
-    <title>WTA 500: Finale, Merida Open in Merida (MEX), Finale</title>
+    <title>WTA 500: Finale, J. Paolini (ITA) - C. Bucsa (ESP), Merida Open in Merida (MEX), Finale</title>
 </programme>
 <programme start="20260302120000 +0000" stop="20260302123000 +0000" channel="Sky Sport Tennis HD.skyde">
     <title>WTA: All Access Magazine Show</title>
 </programme>
 <programme start="20260302123000 +0000" stop="20260302150000 +0000" channel="Sky Sport Tennis HD.skyde">
-    <title>ATP 250: Finale, BCI Seguros Chile Open in Santiago (CHI), Finale</title>
+    <title>ATP 250: Finale, Y. Hanfmann (GER) - L. Darderi (ITA), BCI Seguros Chile Open in Santiago (CHI), Finale</title>
 </programme>
 <programme start="20260302150000 +0000" stop="20260302173000 +0000" channel="Sky Sport Tennis HD.skyde">
     <title>ATP 500: F. Cobolli (ITA) - F. Tiafoe (USA) Abierto Mexicano Telcel presented by HSBC in Acapulco (MEX), Finale</title>
 </programme>
 <programme start="20260302173000 +0000" stop="20260302200000 +0000" channel="Sky Sport Tennis HD.skyde">
-    <title>WTA 500: Finale, Merida Open in Merida (MEX), Finale</title>
+    <title>WTA 500: Finale, J. Paolini (ITA) - C. Bucsa (ESP), Merida Open in Merida (MEX), Finale</title>
 </programme>
 <programme start="20260302200000 +0000" stop="20260302210000 +0000" channel="Sky Sport Tennis HD.skyde">
     <title>ATP 500: Review Dubai</title>
@@ -3357,6 +3357,195 @@ Warning: Undefined array key "et" in /usr/home/ManusiaBiasa/domains/manusiabiasa
 </programme>
 <programme start="20260302221500 +0000" stop="20260302230000 +0000" channel="Universal TV HD.skyde">
     <title>Bones - Die Knochenjägerin</title>
+</programme>
+<programme start="20260301231500 +0000" stop="20260301234000 +0000" channel="Warner TV Comedy HD.skyde">
+    <title>Two and a Half Men</title>
+</programme>
+<programme start="20260301234000 +0000" stop="20260302000000 +0000" channel="Warner TV Comedy HD.skyde">
+    <title>Two and a Half Men</title>
+</programme>
+<programme start="20260302000000 +0000" stop="20260302002000 +0000" channel="Warner TV Comedy HD.skyde">
+    <title>Two and a Half Men</title>
+</programme>
+<programme start="20260302002000 +0000" stop="20260302004500 +0000" channel="Warner TV Comedy HD.skyde">
+    <title>Young Sheldon</title>
+</programme>
+<programme start="20260302004500 +0000" stop="20260302010000 +0000" channel="Warner TV Comedy HD.skyde">
+    <title>Young Sheldon</title>
+</programme>
+<programme start="20260302010000 +0000" stop="20260302012000 +0000" channel="Warner TV Comedy HD.skyde">
+    <title>St. Denis Medical</title>
+</programme>
+<programme start="20260302012000 +0000" stop="20260302014000 +0000" channel="Warner TV Comedy HD.skyde">
+    <title>St. Denis Medical</title>
+</programme>
+<programme start="20260302014000 +0000" stop="20260302020500 +0000" channel="Warner TV Comedy HD.skyde">
+    <title>St. Denis Medical</title>
+</programme>
+<programme start="20260302020500 +0000" stop="20260302022500 +0000" channel="Warner TV Comedy HD.skyde">
+    <title>American Dad</title>
+</programme>
+<programme start="20260302022500 +0000" stop="20260302024500 +0000" channel="Warner TV Comedy HD.skyde">
+    <title>American Dad</title>
+</programme>
+<programme start="20260302024500 +0000" stop="20260302030500 +0000" channel="Warner TV Comedy HD.skyde">
+    <title>American Dad</title>
+</programme>
+<programme start="20260302030500 +0000" stop="20260302033000 +0000" channel="Warner TV Comedy HD.skyde">
+    <title>American Dad</title>
+</programme>
+<programme start="20260302033000 +0000" stop="20260302034000 +0000" channel="Warner TV Comedy HD.skyde">
+    <title>Robot Chicken</title>
+</programme>
+<programme start="20260302034000 +0000" stop="20260302040000 +0000" channel="Warner TV Comedy HD.skyde">
+    <title>2 Broke Girls</title>
+</programme>
+<programme start="20260302040000 +0000" stop="20260302042000 +0000" channel="Warner TV Comedy HD.skyde">
+    <title>2 Broke Girls</title>
+</programme>
+<programme start="20260302042000 +0000" stop="20260302044500 +0000" channel="Warner TV Comedy HD.skyde">
+    <title>2 Broke Girls</title>
+</programme>
+<programme start="20260302044500 +0000" stop="20260302050500 +0000" channel="Warner TV Comedy HD.skyde">
+    <title>2 Broke Girls</title>
+</programme>
+<programme start="20260302050500 +0000" stop="20260302053000 +0000" channel="Warner TV Comedy HD.skyde">
+    <title>Friends</title>
+</programme>
+<programme start="20260302053000 +0000" stop="20260302055500 +0000" channel="Warner TV Comedy HD.skyde">
+    <title>Friends</title>
+</programme>
+<programme start="20260302055500 +0000" stop="20260302062000 +0000" channel="Warner TV Comedy HD.skyde">
+    <title>Friends</title>
+</programme>
+<programme start="20260302062000 +0000" stop="20260302064500 +0000" channel="Warner TV Comedy HD.skyde">
+    <title>Friends</title>
+</programme>
+<programme start="20260302064500 +0000" stop="20260302071000 +0000" channel="Warner TV Comedy HD.skyde">
+    <title>Friends</title>
+</programme>
+<programme start="20260302071000 +0000" stop="20260302073500 +0000" channel="Warner TV Comedy HD.skyde">
+    <title>Friends</title>
+</programme>
+<programme start="20260302073500 +0000" stop="20260302080500 +0000" channel="Warner TV Comedy HD.skyde">
+    <title>Die Nanny</title>
+</programme>
+<programme start="20260302080500 +0000" stop="20260302083000 +0000" channel="Warner TV Comedy HD.skyde">
+    <title>Die Nanny</title>
+</programme>
+<programme start="20260302083000 +0000" stop="20260302085500 +0000" channel="Warner TV Comedy HD.skyde">
+    <title>Die Nanny</title>
+</programme>
+<programme start="20260302085500 +0000" stop="20260302092000 +0000" channel="Warner TV Comedy HD.skyde">
+    <title>The Middle</title>
+</programme>
+<programme start="20260302092000 +0000" stop="20260302094500 +0000" channel="Warner TV Comedy HD.skyde">
+    <title>The Middle</title>
+</programme>
+<programme start="20260302094500 +0000" stop="20260302101000 +0000" channel="Warner TV Comedy HD.skyde">
+    <title>The Middle</title>
+</programme>
+<programme start="20260302101000 +0000" stop="20260302103500 +0000" channel="Warner TV Comedy HD.skyde">
+    <title>The Middle</title>
+</programme>
+<programme start="20260302103500 +0000" stop="20260302110000 +0000" channel="Warner TV Comedy HD.skyde">
+    <title>The Middle</title>
+</programme>
+<programme start="20260302110000 +0000" stop="20260302112500 +0000" channel="Warner TV Comedy HD.skyde">
+    <title>The Middle</title>
+</programme>
+<programme start="20260302112500 +0000" stop="20260302115000 +0000" channel="Warner TV Comedy HD.skyde">
+    <title>The Middle</title>
+</programme>
+<programme start="20260302115000 +0000" stop="20260302121500 +0000" channel="Warner TV Comedy HD.skyde">
+    <title>The Middle</title>
+</programme>
+<programme start="20260302121500 +0000" stop="20260302124000 +0000" channel="Warner TV Comedy HD.skyde">
+    <title>King of Queens</title>
+</programme>
+<programme start="20260302124000 +0000" stop="20260302130500 +0000" channel="Warner TV Comedy HD.skyde">
+    <title>King of Queens</title>
+</programme>
+<programme start="20260302130500 +0000" stop="20260302133000 +0000" channel="Warner TV Comedy HD.skyde">
+    <title>King of Queens</title>
+</programme>
+<programme start="20260302133000 +0000" stop="20260302135500 +0000" channel="Warner TV Comedy HD.skyde">
+    <title>King of Queens</title>
+</programme>
+<programme start="20260302135500 +0000" stop="20260302142000 +0000" channel="Warner TV Comedy HD.skyde">
+    <title>King of Queens</title>
+</programme>
+<programme start="20260302142000 +0000" stop="20260302144500 +0000" channel="Warner TV Comedy HD.skyde">
+    <title>King of Queens</title>
+</programme>
+<programme start="20260302144500 +0000" stop="20260302151000 +0000" channel="Warner TV Comedy HD.skyde">
+    <title>King of Queens</title>
+</programme>
+<programme start="20260302151000 +0000" stop="20260302153500 +0000" channel="Warner TV Comedy HD.skyde">
+    <title>King of Queens</title>
+</programme>
+<programme start="20260302153500 +0000" stop="20260302160000 +0000" channel="Warner TV Comedy HD.skyde">
+    <title>Two and a Half Men</title>
+</programme>
+<programme start="20260302160000 +0000" stop="20260302162500 +0000" channel="Warner TV Comedy HD.skyde">
+    <title>Two and a Half Men</title>
+</programme>
+<programme start="20260302162500 +0000" stop="20260302165000 +0000" channel="Warner TV Comedy HD.skyde">
+    <title>Two and a Half Men</title>
+</programme>
+<programme start="20260302165000 +0000" stop="20260302171500 +0000" channel="Warner TV Comedy HD.skyde">
+    <title>2 Broke Girls</title>
+</programme>
+<programme start="20260302171500 +0000" stop="20260302174000 +0000" channel="Warner TV Comedy HD.skyde">
+    <title>2 Broke Girls</title>
+</programme>
+<programme start="20260302174000 +0000" stop="20260302180500 +0000" channel="Warner TV Comedy HD.skyde">
+    <title>The Big Bang Theory</title>
+</programme>
+<programme start="20260302180500 +0000" stop="20260302182500 +0000" channel="Warner TV Comedy HD.skyde">
+    <title>The Big Bang Theory</title>
+</programme>
+<programme start="20260302182500 +0000" stop="20260302185000 +0000" channel="Warner TV Comedy HD.skyde">
+    <title>The Big Bang Theory</title>
+</programme>
+<programme start="20260302185000 +0000" stop="20260302191500 +0000" channel="Warner TV Comedy HD.skyde">
+    <title>The Big Bang Theory</title>
+</programme>
+<programme start="20260302191500 +0000" stop="20260302194000 +0000" channel="Warner TV Comedy HD.skyde">
+    <title>Miracle Workers</title>
+</programme>
+<programme start="20260302194000 +0000" stop="20260302200500 +0000" channel="Warner TV Comedy HD.skyde">
+    <title>Miracle Workers</title>
+</programme>
+<programme start="20260302200500 +0000" stop="20260302203000 +0000" channel="Warner TV Comedy HD.skyde">
+    <title>Two and a Half Men</title>
+</programme>
+<programme start="20260302203000 +0000" stop="20260302205500 +0000" channel="Warner TV Comedy HD.skyde">
+    <title>Two and a Half Men</title>
+</programme>
+<programme start="20260302205500 +0000" stop="20260302212000 +0000" channel="Warner TV Comedy HD.skyde">
+    <title>Two and a Half Men</title>
+</programme>
+<programme start="20260302212000 +0000" stop="20260302213000 +0000" channel="Warner TV Comedy HD.skyde">
+    <title>Robot Chicken</title>
+</programme>
+<programme start="20260302213000 +0000" stop="20260302214500 +0000" channel="Warner TV Comedy HD.skyde">
+    <title>Robot Chicken</title>
+</programme>
+<programme start="20260302214500 +0000" stop="20260302215500 +0000" channel="Warner TV Comedy HD.skyde">
+    <title>Robot Chicken</title>
+</programme>
+<programme start="20260302215500 +0000" stop="20260302221000 +0000" channel="Warner TV Comedy HD.skyde">
+    <title>Robot Chicken</title>
+</programme>
+<programme start="20260302221000 +0000" stop="20260302223000 +0000" channel="Warner TV Comedy HD.skyde">
+    <title>American Dad</title>
+</programme>
+<programme start="20260302223000 +0000" stop="20260302225500 +0000" channel="Warner TV Comedy HD.skyde">
+    <title>American Dad</title>
+</programme>
+<programme start="20260302225500 +0000" stop="20260302231500 +0000" channel="Warner TV Comedy HD.skyde">
+    <title>2 Broke Girls</title>
 </programme>
 <programme start="20260301230500 +0000" stop="20260302005000 +0000" channel="Warner TV Film.skyde">
     <title>The Watch - Nachbarn der 3. Art</title>

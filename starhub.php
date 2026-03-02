@@ -2332,13 +2332,10 @@
     <programme start="20260301223000 +0000" stop="20260301230000 +0000" channel="Hub Sports 2 HD.starhub">
         <title>#1336</title>
     </programme>
-    <programme start="20260301230000 +0000" stop="20260302010000 +0000" channel="Hub Sports 2 HD.starhub">
+    <programme start="20260301230000 +0000" stop="20260302024900 +0000" channel="Hub Sports 2 HD.starhub">
         <title>Merida Open (500) Final</title>
     </programme>
-    <programme start="20260302010000 +0000" stop="20260302020000 +0000" channel="Hub Sports 2 HD.starhub">
-        <title>Episode 8</title>
-    </programme>
-    <programme start="20260302020000 +0000" stop="20260302040000 +0000" channel="Hub Sports 2 HD.starhub">
+    <programme start="20260302024900 +0000" stop="20260302040000 +0000" channel="Hub Sports 2 HD.starhub">
         <title>Tanjong Pagar United FC vs Balestier Khalsa FC</title>
     </programme>
     <programme start="20260302040000 +0000" stop="20260302070000 +0000" channel="Hub Sports 2 HD.starhub">
@@ -5137,11 +5134,8 @@
     <programme start="20260301230500 +0000" stop="20260302010000 +0000" channel="SPOTV.starhub">
         <title>25/26 ROSHN Saudi League MW 24 Al Riyadh vs Al Ahli</title>
     </programme>
-    <programme start="20260302010000 +0000" stop="20260302020000 +0000" channel="SPOTV.starhub">
-        <title>Highlights 1</title>
-    </programme>
-    <programme start="20260302020000 +0000" stop="20260302030000 +0000" channel="SPOTV.starhub">
-        <title>Highlights 2</title>
+    <programme start="20260302010000 +0000" stop="20260302030000 +0000" channel="SPOTV.starhub">
+        <title>25/26 ROSHN Saudi League MW 24 Al Shabab vs Al Hilal</title>
     </programme>
     <programme start="20260302030000 +0000" stop="20260302041000 +0000" channel="SPOTV.starhub">
         <title>Free Practice 1</title>

@@ -15190,33 +15190,33 @@
     <display-name>Unifi Sports 1</display-name>
   </channel>
   <programme start="20260301140000 +0000" stop="20260301195500 +0000" channel="unifisports1.unifitv">
-    <title lang="en">UFC Fight Night: Moreno vs. Kavanagh - Prelims</title>
+    <title lang="en">UFC Fight Night: Moreno vs. Kavanagh</title>
     <desc lang="en">The first Mexican champion in UFC history headlines the promotion's return to Arena CDMX on Saturday, March 1 as Brandon “The Assassin Baby” Moreno steps in against Lone'er Kavanagh in a five-round flyweight contest. A two-time champion and perennial contender, Moreno earned a victory over Australian Steve Erceg in Mexico City in 2025, marking his first victory on home soil inside the Octagon.</desc>
     <category lang="en">Sports</category>
   </programme>
-  <programme start="20260301195500 +0000" stop="20260301200000 +0000" channel="unifisports1.unifitv">
+  <programme start="20260301195500 +0000" stop="20260301205500 +0000" channel="unifisports1.unifitv">
     <title lang="en">LIGUE 1 TOP 10 SAVES - LIGUE 1 TOP 10 SAVES</title>
     <desc lang="en">Shot stoppers at their fingertip-saving best. 10 of the best split-second reactions to certain goals from the 22/23 Ligue 1 season.</desc>
     <category lang="en">Sports</category>
   </programme>
-  <programme start="20260301200000 +0000" stop="20260302020000 +0000" channel="unifisports1.unifitv">
-    <title lang="en">UFC Fight Night: Strickland vs. Hernandez - Prelims</title>
-    <desc lang="en">UFC returns to Toyota Center in Houston, Texas on Saturday, February 22, with a crucial middleweight matchup as former champion Sean Strickland takes on surging contender Anthony “Fluffy” Hernandez. The third-ranked American lightning rod competes for the first time since UFC 312 last February when he came up short in his bid to reclaim the title from Dricus Du Plessis.</desc>
-    <category lang="en">Sports</category>
-  </programme>
-  <programme start="20260302020000 +0000" stop="20260302023000 +0000" channel="unifisports1.unifitv">
+  <programme start="20260301205500 +0000" stop="20260301210000 +0000" channel="unifisports1.unifitv">
     <title lang="en">LIGUE 1 TOP 10 SAVES - LIGUE 1 TOP 10 SAVES</title>
     <desc lang="en">Shot stoppers at their fingertip-saving best. 10 of the best split-second reactions to certain goals from the 22/23 Ligue 1 season.</desc>
     <category lang="en">Sports</category>
   </programme>
-  <programme start="20260302023000 +0000" stop="20260302040000 +0000" channel="unifisports1.unifitv">
+  <programme start="20260301210000 +0000" stop="20260302025500 +0000" channel="unifisports1.unifitv">
+    <title lang="en">UFC Fight Night: Bautista vs. Oliveira - Prelims</title>
+    <desc lang="en">The first UFC Fight Night event of the year features a combustible pairing in the bantamweight division atop the marquee as Mario Bautista faces off with Vinicius “LokDog” Oliveira. Posted at No. 9 in the bantamweight division, Bautista remains one of the most underrated talents in the 135-pound weight class, boasting victories over Jose Aldo, Ricky Simon, and Patchy Mix.</desc>
+    <category lang="en">Sports</category>
+  </programme>
+  <programme start="20260302025500 +0000" stop="20260302030000 +0000" channel="unifisports1.unifitv">
+    <title lang="en">LIGUE 1 TOP 10 SAVES - LIGUE 1 TOP 10 SAVES</title>
+    <desc lang="en">Shot stoppers at their fingertip-saving best. 10 of the best split-second reactions to certain goals from the 22/23 Ligue 1 season.</desc>
+    <category lang="en">Sports</category>
+  </programme>
+  <programme start="20260302030000 +0000" stop="20260302043000 +0000" channel="unifisports1.unifitv">
     <title lang="en">ASTAF Sepaktakraw AsianCup Kuala Lumpur 2025 - Final (Malaysia vs Thailand) - Regu</title>
     <desc lang="en">The ASTAF Sepaktakraw Asian Cup 2025 is set to take place from May 10 to May 18, 2025, at the prestigious Titiwangsa Indoor Stadium in Kuala Lumpur, Malaysia. This exciting tournament will showcase the best Sepaktakraw talent from across Asia, bringing together top teams and athletes to compete in a vibrant and dynamic environment.</desc>
-    <category lang="en">Sports</category>
-  </programme>
-  <programme start="20260302040000 +0000" stop="20260302043000 +0000" channel="unifisports1.unifitv">
-    <title lang="en">UFC Fight Flashback - UFC Fight Flashback 1003: Moreno vs Figueiredo 3</title>
-    <desc lang="en">UFC 270 featured the third meeting between flyweight rivals Deiveson Figueiredo and Mexican champion Brandon Moreno. Relive their incredible battle like you've never seen it with enhanced replays and angles, new footage, and exclusive audio.</desc>
     <category lang="en">Sports</category>
   </programme>
   <programme start="20260302043000 +0000" stop="20260302055500 +0000" channel="unifisports1.unifitv">
@@ -15358,7 +15358,7 @@
   <programme start="20260301113000 +0000" stop="20260301160000 +0000" channel="spotv2.unifitv">
     <title lang="en">World Pickleball League S2, Mumbai - Day 9 Bengaluru vs Rajashtan|Chennai vs Hyderabad</title>
     <desc lang="en">World Pickleball League Season 2 heads to Mumbai, as top international players compete in fast-paced team action, showcasing skill, intensity, and excitement in one of the sport's fast-growing leagues</desc>
-    <category lang="en">Sports</category>
+    <category lang="en">Pickleball</category>
   </programme>
   <programme start="20260301160000 +0000" stop="20260301180000 +0000" channel="spotv2.unifitv">
     <title lang="en">25/26 A-League Men Round 19 - Auckland FC vs Melbourne City FC</title>
@@ -15373,7 +15373,7 @@
   <programme start="20260301190000 +0000" stop="20260301193000 +0000" channel="spotv2.unifitv">
     <title lang="en">WPBL S2, Mumbai Highlights - Day 1 Tie 1 Bengaluru vs Pune</title>
     <desc lang="en">World Pickleball League Season 2 heads to Mumbai, as top international players compete in fast-paced team action, showcasing skill, intensity, and excitement in one of the sport's fast-growing leagues</desc>
-    <category lang="en">Sports</category>
+    <category lang="en">Pickleball</category>
   </programme>
   <programme start="20260301193000 +0000" stop="20260301200000 +0000" channel="spotv2.unifitv">
     <title lang="en">2025/26 ALM Mini Match Rd 18 - Adelaide United vs Perth Glory</title>
@@ -15383,12 +15383,12 @@
   <programme start="20260301200000 +0000" stop="20260302000000 +0000" channel="spotv2.unifitv">
     <title lang="en">World Pickleball League S2, Mumbai - Day 8 Mumbai vs Rajashtan|Delhi vs Pune</title>
     <desc lang="en">World Pickleball League Season 2 heads to Mumbai, as top international players compete in fast-paced team action, showcasing skill, intensity, and excitement in one of the sport's fast-growing leagues</desc>
-    <category lang="en">Sports</category>
+    <category lang="en">Pickleball</category>
   </programme>
   <programme start="20260302000000 +0000" stop="20260302003000 +0000" channel="spotv2.unifitv">
     <title lang="en">WPBL S2, Mumbai Highlights - Day 1 Tie 2 Delhi vs Chennai</title>
     <desc lang="en">World Pickleball League Season 2 heads to Mumbai, as top international players compete in fast-paced team action, showcasing skill, intensity, and excitement in one of the sport's fast-growing leagues</desc>
-    <category lang="en">Sports</category>
+    <category lang="en">Pickleball</category>
   </programme>
   <programme start="20260302003000 +0000" stop="20260302023000 +0000" channel="spotv2.unifitv">
     <title lang="en">25/26 A-League Men Round 19 - Brisbane Roar FC vs Perth Glory</title>
@@ -15406,14 +15406,14 @@
     <category lang="en">Baseball</category>
   </programme>
   <programme start="20260302043000 +0000" stop="20260302083000 +0000" channel="spotv2.unifitv">
-    <title lang="en">World Pickleball League S2, Mumbai - Day 10 Hyderabad vs Bengaluru|Pune vs Mumbai</title>
-    <desc lang="en">World Pickleball League Season 2 heads to Mumbai, as top international players compete in fast-paced team action, showcasing skill, intensity, and excitement in one of the sport's fast-growing leagues</desc>
-    <category lang="en">Sports</category>
+    <title lang="en">2026 MotoGP Rd 1 PT GP of Thailand - Free Practice 2/Qualifying</title>
+    <desc lang="en">The 2026 MotoGP sees 22 of the world's best riders battle on 1000cc prototype machines, delivering over 250hp and reaching speeds of 360kph across 22 thrilling Grands Prix in 18 countries.</desc>
+    <category lang="en">Motorsports</category>
   </programme>
   <programme start="20260302083000 +0000" stop="20260302090000 +0000" channel="spotv2.unifitv">
-    <title lang="en">2026 World Baseball Classic Preview - Pool A</title>
-    <desc lang="en">The world's best national teams compete for international glory, delivering powerful hitting, elite pitching, and thrilling baseball action on the global stage.</desc>
-    <category lang="en">Baseball</category>
+    <title lang="en">2025/26 ALM Mini Match Rd 18 - Sydney FC vs Brisbane Roar FC</title>
+    <desc lang="en">Top flight men's soccer returns in the ISUZU UTE A-League Men. Catch every moment on SPOTV NOW as 12 teams compete in the regular season with top 4 advancing to a single-game knockout.</desc>
+    <category lang="en">Football</category>
   </programme>
   <programme start="20260302090000 +0000" stop="20260302133000 +0000" channel="spotv2.unifitv">
     <title lang="en">2026 MotoGP Rd 1 PT GP of Thailand - Race</title>
@@ -15426,9 +15426,9 @@
     <category lang="en">Football</category>
   </programme>
   <programme start="20260302140000 +0000" stop="20260302180000 +0000" channel="spotv2.unifitv">
-    <title lang="en">World Pickleball League S2, Mumbai - Day 11 Pune vs Chennai|Delhi vs Rajashtan</title>
-    <desc lang="en">World Pickleball League Season 2 heads to Mumbai, as top international players compete in fast-paced team action, showcasing skill, intensity, and excitement in one of the sport's fast-growing leagues</desc>
-    <category lang="en">Sports</category>
+    <title lang="en">2026 MotoGP Rd 1 PT GP of Thailand - Practice</title>
+    <desc lang="en">The 2026 MotoGP sees 22 of the world's best riders battle on 1000cc prototype machines, delivering over 250hp and reaching speeds of 360kph across 22 thrilling Grands Prix in 18 countries.</desc>
+    <category lang="en">Motorsports</category>
   </programme>
   <channel id="beinsports.unifitv">
     <display-name>beIN SPORTS 1</display-name>
