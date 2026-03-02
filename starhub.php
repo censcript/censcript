@@ -188,7 +188,7 @@
         <title>Dabangg 3</title>
     </programme>
     <programme start="20260301200000 +0000" stop="20260301203000 +0000" channel="Zee TV.starhub">
-        <title>Ganga Mai Ki Betiyaan</title>
+        <title>Ganga Mai Ki Betiyan</title>
     </programme>
     <programme start="20260301203000 +0000" stop="20260301210000 +0000" channel="Zee TV.starhub">
         <title>Lakshmi Nivas</title>
@@ -197,7 +197,7 @@
         <title>Saru</title>
     </programme>
     <programme start="20260301213000 +0000" stop="20260301220000 +0000" channel="Zee TV.starhub">
-        <title>Tum Se Tum Tak</title>
+        <title>Tumm Se Tumm Tak</title>
     </programme>
     <programme start="20260301220000 +0000" stop="20260301230000 +0000" channel="Zee TV.starhub">
         <title>Gurbani</title>
@@ -218,16 +218,16 @@
         <title>Lakshmi Nivas</title>
     </programme>
     <programme start="20260302013000 +0000" stop="20260302020000 +0000" channel="Zee TV.starhub">
-        <title>Tum Se Tum Tak</title>
+        <title>Tumm Se Tumm Tak</title>
     </programme>
     <programme start="20260302020000 +0000" stop="20260302023000 +0000" channel="Zee TV.starhub">
-        <title>Ganga Mai Ki Betiyaan</title>
+        <title>Ganga Mai Ki Betiyan</title>
     </programme>
     <programme start="20260302023000 +0000" stop="20260302030000 +0000" channel="Zee TV.starhub">
         <title>Jagadhatri</title>
     </programme>
     <programme start="20260302030000 +0000" stop="20260302033000 +0000" channel="Zee TV.starhub">
-        <title>Tum Se Tum Tak</title>
+        <title>Tumm Se Tumm Tak</title>
     </programme>
     <programme start="20260302033000 +0000" stop="20260302040000 +0000" channel="Zee TV.starhub">
         <title>Lakshmi Nivas</title>
@@ -242,7 +242,7 @@
         <title>Saru</title>
     </programme>
     <programme start="20260302080000 +0000" stop="20260302083000 +0000" channel="Zee TV.starhub">
-        <title>Ganga Mai Ki Betiyaan</title>
+        <title>Ganga Mai Ki Betiyan</title>
     </programme>
     <programme start="20260302083000 +0000" stop="20260302090000 +0000" channel="Zee TV.starhub">
         <title>Jagadhatri</title>
@@ -266,16 +266,16 @@
         <title>Saru</title>
     </programme>
     <programme start="20260302120000 +0000" stop="20260302123000 +0000" channel="Zee TV.starhub">
-        <title>Ganga Mai Ki Betiyaan</title>
+        <title>Ganga Mai Ki Betiyan</title>
     </programme>
     <programme start="20260302123000 +0000" stop="20260302130000 +0000" channel="Zee TV.starhub">
-        <title>Tum Se Tum Tak</title>
+        <title>Tumm Se Tumm Tak</title>
     </programme>
     <programme start="20260302130000 +0000" stop="20260302133000 +0000" channel="Zee TV.starhub">
         <title>Lakshmi Nivas</title>
     </programme>
     <programme start="20260302133000 +0000" stop="20260302140000 +0000" channel="Zee TV.starhub">
-        <title>Ganga Mai Ki Betiyaan</title>
+        <title>Ganga Mai Ki Betiyan</title>
     </programme>
     <programme start="20260302140000 +0000" stop="20260302143000 +0000" channel="Zee TV.starhub">
         <title>Jagadhatri</title>
@@ -284,10 +284,10 @@
         <title>Vasudha</title>
     </programme>
     <programme start="20260302150000 +0000" stop="20260302153000 +0000" channel="Zee TV.starhub">
-        <title>Tum Se Tum Tak</title>
+        <title>Tumm Se Tumm Tak</title>
     </programme>
     <programme start="20260302153000 +0000" stop="20260302160000 +0000" channel="Zee TV.starhub">
-        <title>Ganga Mai Ki Betiyaan</title>
+        <title>Ganga Mai Ki Betiyan</title>
     </programme>
     <programme start="20260301154000 +0000" stop="20260301160500 +0000" channel="HGTV.starhub">
         <title>Darren And Ryan</title>
@@ -752,7 +752,7 @@
         <title>The Big Weekend Show</title>
     </programme>
     <programme start="20260302010000 +0000" stop="20260302020000 +0000" channel="Fox News Channel.starhub">
-        <title>Life, Liberty &amp; Levin</title>
+        <title>The Will Cain Show</title>
     </programme>
     <programme start="20260302020000 +0000" stop="20260302030000 +0000" channel="Fox News Channel.starhub">
         <title>Sunday Night in America</title>
@@ -761,22 +761,22 @@
         <title>One Nation</title>
     </programme>
     <programme start="20260302040000 +0000" stop="20260302050000 +0000" channel="Fox News Channel.starhub">
-        <title>Life, Liberty &amp; Levin</title>
+        <title>FOX News @ Night</title>
     </programme>
     <programme start="20260302050000 +0000" stop="20260302060000 +0000" channel="Fox News Channel.starhub">
-        <title>Sunday Night in America</title>
+        <title>FOX News @ Night</title>
     </programme>
     <programme start="20260302060000 +0000" stop="20260302070000 +0000" channel="Fox News Channel.starhub">
-        <title>One Nation</title>
+        <title>FOX News Live</title>
     </programme>
     <programme start="20260302070000 +0000" stop="20260302080000 +0000" channel="Fox News Channel.starhub">
-        <title>FOX News Sunday</title>
+        <title>FOX News Live</title>
     </programme>
     <programme start="20260302080000 +0000" stop="20260302090000 +0000" channel="Fox News Channel.starhub">
-        <title>Life, Liberty &amp; Levin</title>
+        <title>FOX News Live</title>
     </programme>
     <programme start="20260302090000 +0000" stop="20260302100000 +0000" channel="Fox News Channel.starhub">
-        <title>Sunday Night in America</title>
+        <title>FOX News Live</title>
     </programme>
     <programme start="20260302100000 +0000" stop="20260302110000 +0000" channel="Fox News Channel.starhub">
         <title>FOX &amp; Friends First</title>
@@ -2317,7 +2317,10 @@
     <programme start="20260302140000 +0000" stop="20260302160000 +0000" channel="Cinema One Global.starhub">
         <title>A Mother&#039;s Story</title>
     </programme>
-    <programme start="20260301160000 +0000" stop="20260301180000 +0000" channel="Hub Sports 2 HD.starhub">
+    <programme start="20260301110000 +0000" stop="20260301163700 +0000" channel="Hub Sports 2 HD.starhub">
+        <title>YONEX German Open (S300) Finals</title>
+    </programme>
+    <programme start="20260301163700 +0000" stop="20260301180000 +0000" channel="Hub Sports 2 HD.starhub">
         <title>Geylang International FC vs Young Lions</title>
     </programme>
     <programme start="20260301180000 +0000" stop="20260301190000 +0000" channel="Hub Sports 2 HD.starhub">
@@ -7906,7 +7909,10 @@
     <programme start="20260301223000 +0000" stop="20260302013000 +0000" channel="Asianet Movies.starhub">
         <title>Kudumbasree Travels</title>
     </programme>
-    <programme start="20260302013000 +0000" stop="20260302043000 +0000" channel="Asianet Movies.starhub">
+    <programme start="20260302013000 +0000" stop="20260302015000 +0000" channel="Asianet Movies.starhub">
+        <title>Chirikkum Thalika</title>
+    </programme>
+    <programme start="20260302015000 +0000" stop="20260302043000 +0000" channel="Asianet Movies.starhub">
         <title>Female Unnikrishnan</title>
     </programme>
     <programme start="20260302043000 +0000" stop="20260302073000 +0000" channel="Asianet Movies.starhub">
@@ -8024,7 +8030,7 @@
         <title>Race 1</title>
     </programme>
     <programme start="20260301190000 +0000" stop="20260301193000 +0000" channel="SPOTV2.starhub">
-        <title>WPBL S2, Mumbai Highlights Day 1 Tie 1 Bengaluru vs Pune</title>
+        <title>2025/26 ALM Mini Match Rd 18 Sydney FC vs Brisbane Roar FC</title>
     </programme>
     <programme start="20260301193000 +0000" stop="20260301200000 +0000" channel="SPOTV2.starhub">
         <title>2025/26 ALM Mini Match Rd 18 Adelaide United vs Perth Glory</title>
@@ -8033,7 +8039,7 @@
         <title>World Pickleball League S2, Mumbai Day 8 Mumbai vs Rajashtan|Delhi vs Pune</title>
     </programme>
     <programme start="20260302000000 +0000" stop="20260302003000 +0000" channel="SPOTV2.starhub">
-        <title>WPBL S2, Mumbai Highlights Day 1 Tie 2 Delhi vs Chennai</title>
+        <title>2025/26 ALM Mini Match Rd 18 Wellington Phoenix vs Auckland FC</title>
     </programme>
     <programme start="20260302003000 +0000" stop="20260302023000 +0000" channel="SPOTV2.starhub">
         <title>25/26 A-League Men Round 19 Brisbane Roar FC vs Perth Glory</title>
@@ -8045,10 +8051,10 @@
         <title>Pool C</title>
     </programme>
     <programme start="20260302043000 +0000" stop="20260302083000 +0000" channel="SPOTV2.starhub">
-        <title>World Pickleball League S2, Mumbai Day 10 Hyderabad vs Bengaluru|Pune vs Mumbai</title>
+        <title>Free Practice 2/Qualifying</title>
     </programme>
     <programme start="20260302083000 +0000" stop="20260302090000 +0000" channel="SPOTV2.starhub">
-        <title>Pool A</title>
+        <title>2025/26 ALM Mini Match Rd 18 Sydney FC vs Brisbane Roar FC</title>
     </programme>
     <programme start="20260302090000 +0000" stop="20260302133000 +0000" channel="SPOTV2.starhub">
         <title>Race</title>
@@ -8057,7 +8063,7 @@
         <title>2025/26 ALM Mini Match Rd 18 Melbourne City FC vs Melbourne Victory</title>
     </programme>
     <programme start="20260302140000 +0000" stop="20260302180000 +0000" channel="SPOTV2.starhub">
-        <title>World Pickleball League S2, Mumbai Day 11 Pune vs Chennai|Delhi vs Rajashtan</title>
+        <title>Practice</title>
     </programme>
     <programme start="20260301160000 +0000" stop="20260301160500 +0000" channel="Dragon TV.starhub">
         <title>China before China</title>
