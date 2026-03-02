@@ -114,6 +114,10 @@
     <title>Football: Como - Lecce</title>
     <desc>Live: Tidak</desc>
 </programme>
+<programme start="20260303222000 +0700" stop="20260304003000 +0700" channel="COSMOTE Sport 2 HD">
+    <title>Football: Panathinaikos - Aris</title>
+    <desc>Live: Tidak</desc>
+</programme>
 <programme start="20260302210000 +0700" stop="20260302230000 +0700" channel="COSMOTE Sport 3 HD">
     <title>Football: Rangers FC - Celtic FC</title>
     <desc>Live: Tidak</desc>
@@ -178,10 +182,6 @@
     <title>Football: Al Shabab - Al Hilal</title>
     <desc>Live: Tidak</desc>
 </programme>
-<programme start="20260302193000 +0700" stop="20260302220000 +0700" channel="COSMOTE Sport 4 HD">
-    <title>Basketball: Chicago Bulls - Milwaukee Bucks</title>
-    <desc>Live: Tidak</desc>
-</programme>
 <programme start="20260302220000 +0700" stop="20260303000500 +0700" channel="COSMOTE Sport 4 HD">
     <title>Basketball: Turk Telekom - Fenerbahce</title>
     <desc>Live: Tidak</desc>
@@ -234,8 +234,12 @@
     <title>NBA Specials</title>
     <desc>Live: Tidak</desc>
 </programme>
-<programme start="20260302204000 +0700" stop="20260302213000 +0700" channel="COSMOTE Sport 5 HD">
-    <title>2025 GT World Challenge Europe</title>
+<programme start="20260303222500 +0700" stop="20260303225500 +0700" channel="COSMOTE Sport 4 HD">
+    <title>NBA Specials</title>
+    <desc>Live: Tidak</desc>
+</programme>
+<programme start="20260303225500 +0700" stop="20260303232500 +0700" channel="COSMOTE Sport 4 HD">
+    <title>NBA Specials</title>
     <desc>Live: Tidak</desc>
 </programme>
 <programme start="20260302213000 +0700" stop="20260302225000 +0700" channel="COSMOTE Sport 5 HD">
@@ -322,8 +326,12 @@
     <title>ERC 2025</title>
     <desc>Live: Tidak</desc>
 </programme>
-<programme start="20260302204000 +0700" stop="20260302213000 +0700" channel="COSMOTE Sport 6 HD">
-    <title>Sports Classics: 2025 Outdoor Specials</title>
+<programme start="20260303220500 +0700" stop="20260303225000 +0700" channel="COSMOTE Sport 5 HD">
+    <title>ERC 2025</title>
+    <desc>Live: Tidak</desc>
+</programme>
+<programme start="20260303225000 +0700" stop="20260303235500 +0700" channel="COSMOTE Sport 5 HD">
+    <title>ERC 2025</title>
     <desc>Live: Tidak</desc>
 </programme>
 <programme start="20260302213000 +0700" stop="20260303000000 +0700" channel="COSMOTE Sport 6 HD">
@@ -407,6 +415,10 @@
     <desc>Live: Tidak</desc>
 </programme>
 <programme start="20260303211000 +0700" stop="20260303223000 +0700" channel="COSMOTE Sport 6 HD">
+    <title>Premier Padel Tour 2026</title>
+    <desc>Live: Tidak</desc>
+</programme>
+<programme start="20260303223000 +0700" stop="20260304010000 +0700" channel="COSMOTE Sport 6 HD">
     <title>Premier Padel Tour 2026</title>
     <desc>Live: Tidak</desc>
 </programme>

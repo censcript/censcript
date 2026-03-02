@@ -2806,6 +2806,9 @@ Warning: Undefined array key "et" in /usr/home/ManusiaBiasa/domains/manusiabiasa
 <programme start="20260302060000 +0000" stop="20260302090000 +0000" channel="Sky Sport Golf HD.skyde">
     <title>Asian Tour: New Zealand Open, 4. Tag in Arrowtown (Neuseeland)</title>
 </programme>
+<programme start="20260302090000 +0000" stop="20260302110000 +0000" channel="Sky Sport Golf HD.skyde">
+    <title>TGL: Jupiter Links Golf Club - Boston Common Golf, 13. Spieltag</title>
+</programme>
 <programme start="20260302110000 +0000" stop="20260302160000 +0000" channel="Sky Sport Golf HD.skyde">
     <title>LPGA: HSBC Women&#039;s World Championship, 4. Tag auf Sentosa (Singapur)</title>
 </programme>
@@ -2833,14 +2836,14 @@ Warning: Undefined array key "et" in /usr/home/ManusiaBiasa/domains/manusiabiasa
 <programme start="20260302050000 +0000" stop="20260302060000 +0000" channel="Sky Sport Mix HD.skyde">
     <title>MotoGP: Rennen - GP Thailand</title>
 </programme>
-<programme start="20260302060000 +0000" stop="20260302080000 +0000" channel="Sky Sport Mix HD.skyde">
+<programme start="20260302060000 +0000" stop="20260302074500 +0000" channel="Sky Sport Mix HD.skyde">
     <title>NHL: Winnipeg Jets @ San Jose Sharks</title>
 </programme>
-<programme start="20260302080000 +0000" stop="20260302090000 +0000" channel="Sky Sport Mix HD.skyde">
-    <title>NBA: Showtime</title>
+<programme start="20260302074500 +0000" stop="20260302094500 +0000" channel="Sky Sport Mix HD.skyde">
+    <title>NHL: Vegas Golden Knights @ Pittsburgh Penguins</title>
 </programme>
-<programme start="20260302090000 +0000" stop="20260302113000 +0000" channel="Sky Sport Mix HD.skyde">
-    <title>NBA: Philadelphia 76ers @ Boston Celtics</title>
+<programme start="20260302094500 +0000" stop="20260302113000 +0000" channel="Sky Sport Mix HD.skyde">
+    <title>NHL: Winnipeg Jets @ San Jose Sharks</title>
 </programme>
 <programme start="20260302113000 +0000" stop="20260302120000 +0000" channel="Sky Sport Mix HD.skyde">
     <title>NBA: Action</title>
@@ -3018,9 +3021,6 @@ Warning: Undefined array key "et" in /usr/home/ManusiaBiasa/domains/manusiabiasa
 </programme>
 <programme start="20260302173500 +0000" stop="20260302180500 +0000" channel="Sky Sport Premier League HD.skyde">
     <title>PL: All Goals: Die Highlight-Show, 28. Spieltag</title>
-</programme>
-<programme start="20260302180500 +0000" stop="20260302182000 +0000" channel="Sky Sport Premier League HD.skyde">
-    <title>PL: Under the Skin (FC Everton)</title>
 </programme>
 <programme start="20260302182000 +0000" stop="20260302185000 +0000" channel="Sky Sport Premier League HD.skyde">
     <title>PL: 90in30: ARS - CHE, 28. Spieltag</title>
