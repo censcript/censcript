@@ -1561,6 +1561,57 @@ Warning: Undefined array key "et" in /usr/home/ManusiaBiasa/domains/manusiabiasa
 <programme start="20260302225500 +0000" stop="20260302232000 +0000" channel="Nick Jr..skyde">
     <title>BARBAPAPA und Familie</title>
 </programme>
+<programme start="20260302000000 +0000" stop="20260302013000 +0000" channel="Romance TV HD.skyde">
+    <title>Die Eifelpraxis</title>
+</programme>
+<programme start="20260302013000 +0000" stop="20260302030000 +0000" channel="Romance TV HD.skyde">
+    <title>Rosamunde Pilcher: Anwälte küsst man nicht</title>
+</programme>
+<programme start="20260302030000 +0000" stop="20260302034500 +0000" channel="Romance TV HD.skyde">
+    <title>Lena Lorenz</title>
+</programme>
+<programme start="20260302034500 +0000" stop="20260302050500 +0000" channel="Romance TV HD.skyde">
+    <title>Jonas Kaufmann - Ein Weltstar ganz privat</title>
+</programme>
+<programme start="20260302050500 +0000" stop="20260302063500 +0000" channel="Romance TV HD.skyde">
+    <title>Endlich Witwer - Forever Young</title>
+</programme>
+<programme start="20260302063500 +0000" stop="20260302081000 +0000" channel="Romance TV HD.skyde">
+    <title>Inga Lindström: Tanz mit mir</title>
+</programme>
+<programme start="20260302081000 +0000" stop="20260302094500 +0000" channel="Romance TV HD.skyde">
+    <title>Bella Vita</title>
+</programme>
+<programme start="20260302094500 +0000" stop="20260302103500 +0000" channel="Romance TV HD.skyde">
+    <title>Lena Lorenz</title>
+</programme>
+<programme start="20260302103500 +0000" stop="20260302121000 +0000" channel="Romance TV HD.skyde">
+    <title>Marie fängt Feuer - Unbequeme Wahrheiten</title>
+</programme>
+<programme start="20260302121000 +0000" stop="20260302134000 +0000" channel="Romance TV HD.skyde">
+    <title>Die Eifelpraxis</title>
+</programme>
+<programme start="20260302134000 +0000" stop="20260302151500 +0000" channel="Romance TV HD.skyde">
+    <title>Rosamunde Pilcher: Anwälte küsst man nicht</title>
+</programme>
+<programme start="20260302151500 +0000" stop="20260302165000 +0000" channel="Romance TV HD.skyde">
+    <title>Ein Sommer auf Kreta</title>
+</programme>
+<programme start="20260302165000 +0000" stop="20260302182500 +0000" channel="Romance TV HD.skyde">
+    <title>Mein Sohn, der Klugscheißer</title>
+</programme>
+<programme start="20260302182500 +0000" stop="20260302191500 +0000" channel="Romance TV HD.skyde">
+    <title>Lena Lorenz</title>
+</programme>
+<programme start="20260302191500 +0000" stop="20260302204500 +0000" channel="Romance TV HD.skyde">
+    <title>Frühling - Alte Liebe, neue Liebe</title>
+</programme>
+<programme start="20260302204500 +0000" stop="20260302222000 +0000" channel="Romance TV HD.skyde">
+    <title>Frühling - Alte Gespenster</title>
+</programme>
+<programme start="20260302222000 +0000" stop="20260302231000 +0000" channel="Romance TV HD.skyde">
+    <title>Lena Lorenz</title>
+</programme>
 <programme start="20260301230500 +0000" stop="20260302000500 +0000" channel="Sky Atlantic HD.skyde">
     <title>Dune: Prophecy</title>
 </programme>
@@ -2755,9 +2806,6 @@ Warning: Undefined array key "et" in /usr/home/ManusiaBiasa/domains/manusiabiasa
 <programme start="20260302060000 +0000" stop="20260302090000 +0000" channel="Sky Sport Golf HD.skyde">
     <title>Asian Tour: New Zealand Open, 4. Tag in Arrowtown (Neuseeland)</title>
 </programme>
-<programme start="20260302090000 +0000" stop="20260302110000 +0000" channel="Sky Sport Golf HD.skyde">
-    <title>TGL: Jupiter Links Golf Club - Boston Common Golf, 13. Spieltag</title>
-</programme>
 <programme start="20260302110000 +0000" stop="20260302160000 +0000" channel="Sky Sport Golf HD.skyde">
     <title>LPGA: HSBC Women&#039;s World Championship, 4. Tag auf Sentosa (Singapur)</title>
 </programme>
@@ -3037,10 +3085,10 @@ Warning: Undefined array key "et" in /usr/home/ManusiaBiasa/domains/manusiabiasa
 <programme start="20260302220000 +0000" stop="20260303003000 +0000" channel="Sky Sport Tennis HD.skyde">
     <title>ATP 500: T. Etcheverry (ARG) - A. Tabilo (CHI), Rio Open in Rio de Janeiro (BRA), Finale</title>
 </programme>
-<programme start="20260302000000 +0000" stop="20260302013000 +0000" channel="Sky Sport Top Event HD.skyde">
-    <title>Live WTA 500: Finale, J. Paolini (ITA) - C. Bucsa (ESP), Merida Open in Merida (MEX), Finale</title>
+<programme start="20260302000000 +0000" stop="20260302010000 +0000" channel="Sky Sport Top Event HD.skyde">
+    <title>Live ATP 250: Finale, Y. Hanfmann (GER) - L. Darderi (ITA), BCI Seguros Chile Open in Santiago (CHI), Finale</title>
 </programme>
-<programme start="20260302013000 +0000" stop="20260302040000 +0000" channel="Sky Sport Top Event HD.skyde">
+<programme start="20260302010000 +0000" stop="20260302040000 +0000" channel="Sky Sport Top Event HD.skyde">
     <title>Live NBA: Philadelphia 76ers @ Boston Celtics</title>
 </programme>
 <programme start="20260302040000 +0000" stop="20260302043000 +0000" channel="Sky Sport Top Event HD.skyde">
@@ -3071,7 +3119,7 @@ Warning: Undefined array key "et" in /usr/home/ManusiaBiasa/domains/manusiabiasa
     <title>MotoGP: Rennen - GP Thailand</title>
 </programme>
 <programme start="20260302110000 +0000" stop="20260302133000 +0000" channel="Sky Sport Top Event HD.skyde">
-    <title>WTA 500: Finale, J. Paolini (ITA) - C. Bucsa (ESP), Merida Open in Merida (MEX), Finale</title>
+    <title>WTA 500: Finale, C. Bucsa (ESP) - M. Frech (POL), Merida Open in Merida (MEX), Finale</title>
 </programme>
 <programme start="20260302133000 +0000" stop="20260302160000 +0000" channel="Sky Sport Top Event HD.skyde">
     <title>NBA: Philadelphia 76ers @ Boston Celtics</title>
