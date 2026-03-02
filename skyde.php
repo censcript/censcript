@@ -1561,57 +1561,6 @@ Warning: Undefined array key "et" in /usr/home/ManusiaBiasa/domains/manusiabiasa
 <programme start="20260302225500 +0000" stop="20260302232000 +0000" channel="Nick Jr..skyde">
     <title>BARBAPAPA und Familie</title>
 </programme>
-<programme start="20260302000000 +0000" stop="20260302013000 +0000" channel="Romance TV HD.skyde">
-    <title>Die Eifelpraxis</title>
-</programme>
-<programme start="20260302013000 +0000" stop="20260302030000 +0000" channel="Romance TV HD.skyde">
-    <title>Rosamunde Pilcher: Anwälte küsst man nicht</title>
-</programme>
-<programme start="20260302030000 +0000" stop="20260302034500 +0000" channel="Romance TV HD.skyde">
-    <title>Lena Lorenz</title>
-</programme>
-<programme start="20260302034500 +0000" stop="20260302050500 +0000" channel="Romance TV HD.skyde">
-    <title>Jonas Kaufmann - Ein Weltstar ganz privat</title>
-</programme>
-<programme start="20260302050500 +0000" stop="20260302063500 +0000" channel="Romance TV HD.skyde">
-    <title>Endlich Witwer - Forever Young</title>
-</programme>
-<programme start="20260302063500 +0000" stop="20260302081000 +0000" channel="Romance TV HD.skyde">
-    <title>Inga Lindström: Tanz mit mir</title>
-</programme>
-<programme start="20260302081000 +0000" stop="20260302094500 +0000" channel="Romance TV HD.skyde">
-    <title>Bella Vita</title>
-</programme>
-<programme start="20260302094500 +0000" stop="20260302103500 +0000" channel="Romance TV HD.skyde">
-    <title>Lena Lorenz</title>
-</programme>
-<programme start="20260302103500 +0000" stop="20260302121000 +0000" channel="Romance TV HD.skyde">
-    <title>Marie fängt Feuer - Unbequeme Wahrheiten</title>
-</programme>
-<programme start="20260302121000 +0000" stop="20260302134000 +0000" channel="Romance TV HD.skyde">
-    <title>Die Eifelpraxis</title>
-</programme>
-<programme start="20260302134000 +0000" stop="20260302151500 +0000" channel="Romance TV HD.skyde">
-    <title>Rosamunde Pilcher: Anwälte küsst man nicht</title>
-</programme>
-<programme start="20260302151500 +0000" stop="20260302165000 +0000" channel="Romance TV HD.skyde">
-    <title>Ein Sommer auf Kreta</title>
-</programme>
-<programme start="20260302165000 +0000" stop="20260302182500 +0000" channel="Romance TV HD.skyde">
-    <title>Mein Sohn, der Klugscheißer</title>
-</programme>
-<programme start="20260302182500 +0000" stop="20260302191500 +0000" channel="Romance TV HD.skyde">
-    <title>Lena Lorenz</title>
-</programme>
-<programme start="20260302191500 +0000" stop="20260302204500 +0000" channel="Romance TV HD.skyde">
-    <title>Frühling - Alte Liebe, neue Liebe</title>
-</programme>
-<programme start="20260302204500 +0000" stop="20260302222000 +0000" channel="Romance TV HD.skyde">
-    <title>Frühling - Alte Gespenster</title>
-</programme>
-<programme start="20260302222000 +0000" stop="20260302231000 +0000" channel="Romance TV HD.skyde">
-    <title>Lena Lorenz</title>
-</programme>
 <programme start="20260301230500 +0000" stop="20260302000500 +0000" channel="Sky Atlantic HD.skyde">
     <title>Dune: Prophecy</title>
 </programme>
@@ -3050,7 +2999,7 @@ Warning: Undefined array key "et" in /usr/home/ManusiaBiasa/domains/manusiabiasa
     <title>EFL: Highlights, 35. Spieltag</title>
 </programme>
 <programme start="20260301230000 +0000" stop="20260302013000 +0000" channel="Sky Sport Tennis HD.skyde">
-    <title>Live WTA 500: Finale, J. Paolini (ITA) - C. Bucsa (ESP), Merida Open in Merida (MEX), Finale</title>
+    <title>Live ATP 250: Finale, Y. Hanfmann (GER) - L. Darderi (ITA), BCI Seguros Chile Open in Santiago (CHI), Finale</title>
 </programme>
 <programme start="20260302013000 +0000" stop="20260302020000 +0000" channel="Sky Sport Tennis HD.skyde">
     <title>ATP: This Week</title>
@@ -3062,10 +3011,10 @@ Warning: Undefined array key "et" in /usr/home/ManusiaBiasa/domains/manusiabiasa
     <title>ATP 500: F. Cobolli (ITA) - F. Tiafoe (USA) Abierto Mexicano Telcel presented by HSBC in Acapulco (MEX), Finale</title>
 </programme>
 <programme start="20260302070000 +0000" stop="20260302093000 +0000" channel="Sky Sport Tennis HD.skyde">
-    <title>ATP 500: Finale, D. Medvedev - T. Griekspoor (NED) Dubai Duty Free Tennis Championships in Dubai (VAE), Finale</title>
+    <title>ATP 250: Finale, Y. Hanfmann (GER) - L. Darderi (ITA), BCI Seguros Chile Open in Santiago (CHI), Finale</title>
 </programme>
 <programme start="20260302093000 +0000" stop="20260302120000 +0000" channel="Sky Sport Tennis HD.skyde">
-    <title>WTA 500: Finale, J. Paolini (ITA) - C. Bucsa (ESP), Merida Open in Merida (MEX), Finale</title>
+    <title>WTA 500: Finale, C. Bucsa (ESP) - M. Frech (POL), Merida Open in Merida (MEX), Finale</title>
 </programme>
 <programme start="20260302120000 +0000" stop="20260302123000 +0000" channel="Sky Sport Tennis HD.skyde">
     <title>WTA: All Access Magazine Show</title>
@@ -3077,7 +3026,7 @@ Warning: Undefined array key "et" in /usr/home/ManusiaBiasa/domains/manusiabiasa
     <title>ATP 500: F. Cobolli (ITA) - F. Tiafoe (USA) Abierto Mexicano Telcel presented by HSBC in Acapulco (MEX), Finale</title>
 </programme>
 <programme start="20260302173000 +0000" stop="20260302200000 +0000" channel="Sky Sport Tennis HD.skyde">
-    <title>WTA 500: Finale, J. Paolini (ITA) - C. Bucsa (ESP), Merida Open in Merida (MEX), Finale</title>
+    <title>WTA 500: Finale, C. Bucsa (ESP) - M. Frech (POL), Merida Open in Merida (MEX), Finale</title>
 </programme>
 <programme start="20260302200000 +0000" stop="20260302210000 +0000" channel="Sky Sport Tennis HD.skyde">
     <title>ATP 500: Review Dubai</title>
