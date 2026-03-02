@@ -2833,14 +2833,8 @@ Warning: Undefined array key "et" in /usr/home/ManusiaBiasa/domains/manusiabiasa
 <programme start="20260302050000 +0000" stop="20260302060000 +0000" channel="Sky Sport Mix HD.skyde">
     <title>MotoGP: Rennen - GP Thailand</title>
 </programme>
-<programme start="20260302060000 +0000" stop="20260302080000 +0000" channel="Sky Sport Mix HD.skyde">
+<programme start="20260302060000 +0000" stop="20260302074500 +0000" channel="Sky Sport Mix HD.skyde">
     <title>NHL: Winnipeg Jets @ San Jose Sharks</title>
-</programme>
-<programme start="20260302080000 +0000" stop="20260302090000 +0000" channel="Sky Sport Mix HD.skyde">
-    <title>NBA: Showtime</title>
-</programme>
-<programme start="20260302090000 +0000" stop="20260302113000 +0000" channel="Sky Sport Mix HD.skyde">
-    <title>NBA: Philadelphia 76ers @ Boston Celtics</title>
 </programme>
 <programme start="20260302113000 +0000" stop="20260302120000 +0000" channel="Sky Sport Mix HD.skyde">
     <title>NBA: Action</title>
@@ -3412,19 +3406,19 @@ Warning: Undefined array key "et" in /usr/home/ManusiaBiasa/domains/manusiabiasa
 <programme start="20260302053000 +0000" stop="20260302055500 +0000" channel="Warner TV Comedy HD.skyde">
     <title>Friends</title>
 </programme>
-<programme start="20260302055500 +0000" stop="20260302062000 +0000" channel="Warner TV Comedy HD.skyde">
+<programme start="20260302055500 +0000" stop="20260302062500 +0000" channel="Warner TV Comedy HD.skyde">
     <title>Friends</title>
 </programme>
-<programme start="20260302062000 +0000" stop="20260302064500 +0000" channel="Warner TV Comedy HD.skyde">
+<programme start="20260302062500 +0000" stop="20260302065000 +0000" channel="Warner TV Comedy HD.skyde">
     <title>Friends</title>
 </programme>
-<programme start="20260302064500 +0000" stop="20260302071000 +0000" channel="Warner TV Comedy HD.skyde">
+<programme start="20260302065000 +0000" stop="20260302071500 +0000" channel="Warner TV Comedy HD.skyde">
     <title>Friends</title>
 </programme>
-<programme start="20260302071000 +0000" stop="20260302073500 +0000" channel="Warner TV Comedy HD.skyde">
+<programme start="20260302071500 +0000" stop="20260302074000 +0000" channel="Warner TV Comedy HD.skyde">
     <title>Friends</title>
 </programme>
-<programme start="20260302073500 +0000" stop="20260302080500 +0000" channel="Warner TV Comedy HD.skyde">
+<programme start="20260302074000 +0000" stop="20260302080500 +0000" channel="Warner TV Comedy HD.skyde">
     <title>Die Nanny</title>
 </programme>
 <programme start="20260302080500 +0000" stop="20260302083000 +0000" channel="Warner TV Comedy HD.skyde">
@@ -3535,13 +3529,13 @@ Warning: Undefined array key "et" in /usr/home/ManusiaBiasa/domains/manusiabiasa
 <programme start="20260302215500 +0000" stop="20260302221000 +0000" channel="Warner TV Comedy HD.skyde">
     <title>Robot Chicken</title>
 </programme>
-<programme start="20260302221000 +0000" stop="20260302223000 +0000" channel="Warner TV Comedy HD.skyde">
+<programme start="20260302221000 +0000" stop="20260302223500 +0000" channel="Warner TV Comedy HD.skyde">
     <title>American Dad</title>
 </programme>
-<programme start="20260302223000 +0000" stop="20260302225500 +0000" channel="Warner TV Comedy HD.skyde">
+<programme start="20260302223500 +0000" stop="20260302225500 +0000" channel="Warner TV Comedy HD.skyde">
     <title>American Dad</title>
 </programme>
-<programme start="20260302225500 +0000" stop="20260302231500 +0000" channel="Warner TV Comedy HD.skyde">
+<programme start="20260302225500 +0000" stop="20260302232000 +0000" channel="Warner TV Comedy HD.skyde">
     <title>2 Broke Girls</title>
 </programme>
 <programme start="20260301230500 +0000" stop="20260302005000 +0000" channel="Warner TV Film.skyde">

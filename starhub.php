@@ -8185,46 +8185,58 @@
     <programme start="20260302230000 +0000" stop="20260303010000 +0000" channel="Dragon TV.starhub">
         <title>Dragon TV Morning News</title>
     </programme>
-    <programme start="20260303010000 +0000" stop="20260303015900 +0000" channel="Dragon TV.starhub">
+    <programme start="20260303010000 +0000" stop="20260303014900 +0000" channel="Dragon TV.starhub">
         <title>A Green Trip</title>
     </programme>
-    <programme start="20260303015900 +0000" stop="20260303040000 +0000" channel="Dragon TV.starhub">
+    <programme start="20260303014900 +0000" stop="20260303033400 +0000" channel="Dragon TV.starhub">
         <title>THE CITY OF MUSICALS</title>
     </programme>
-    <programme start="20260303040000 +0000" stop="20260303042700 +0000" channel="Dragon TV.starhub">
+    <programme start="20260303033400 +0000" stop="20260303040000 +0000" channel="Dragon TV.starhub">
+        <title>New Entertainment</title>
+    </programme>
+    <programme start="20260303040000 +0000" stop="20260303044200 +0000" channel="Dragon TV.starhub">
         <title>MIDDAY NEWS</title>
     </programme>
-    <programme start="20260303042700 +0000" stop="20260303061200 +0000" channel="Dragon TV.starhub">
+    <programme start="20260303044200 +0000" stop="20260303062700 +0000" channel="Dragon TV.starhub">
         <title>Future China</title>
     </programme>
-    <programme start="20260303061200 +0000" stop="20260303063700 +0000" channel="Dragon TV.starhub">
-        <title>Next Station</title>
+    <programme start="20260303062700 +0000" stop="20260303065200 +0000" channel="Dragon TV.starhub">
+        <title>I LOVE SHANGHAI</title>
     </programme>
-    <programme start="20260303063700 +0000" stop="20260303073600 +0000" channel="Dragon TV.starhub">
-        <title>A Green Trip</title>
+    <programme start="20260303065200 +0000" stop="20260303071700 +0000" channel="Dragon TV.starhub">
+        <title>Searching for flavor</title>
     </programme>
-    <programme start="20260303073600 +0000" stop="20260303093400 +0000" channel="Dragon TV.starhub">
+    <programme start="20260303071700 +0000" stop="20260303090900 +0000" channel="Dragon TV.starhub">
         <title>THE CITY OF MUSICALS</title>
     </programme>
-    <programme start="20260303093400 +0000" stop="20260303100000 +0000" channel="Dragon TV.starhub">
-        <title>Searching for flavor</title>
+    <programme start="20260303090900 +0000" stop="20260303093400 +0000" channel="Dragon TV.starhub">
+        <title>New Entertainment</title>
     </programme>
-    <programme start="20260303100000 +0000" stop="20260303111000 +0000" channel="Dragon TV.starhub">
+    <programme start="20260303093400 +0000" stop="20260303100000 +0000" channel="Dragon TV.starhub">
+        <title>CARE ON THE WAY</title>
+    </programme>
+    <programme start="20260303100000 +0000" stop="20260303111300 +0000" channel="Dragon TV.starhub">
         <title>Dragon TV Primetime News</title>
     </programme>
-    <programme start="20260303111000 +0000" stop="20260303120000 +0000" channel="Dragon TV.starhub">
-        <title>Next Station</title>
-    </programme>
-    <programme start="20260303120000 +0000" stop="20260303125900 +0000" channel="Dragon TV.starhub">
-        <title>A Green Trip</title>
-    </programme>
-    <programme start="20260303125900 +0000" stop="20260303144400 +0000" channel="Dragon TV.starhub">
-        <title>Future China</title>
-    </programme>
-    <programme start="20260303144400 +0000" stop="20260303150900 +0000" channel="Dragon TV.starhub">
+    <programme start="20260303111300 +0000" stop="20260303114700 +0000" channel="Dragon TV.starhub">
         <title>Searching for flavor</title>
     </programme>
-    <programme start="20260303150900 +0000" stop="20260303160000 +0000" channel="Dragon TV.starhub">
+    <programme start="20260303114700 +0000" stop="20260303123600 +0000" channel="Dragon TV.starhub">
+        <title>A Green Trip</title>
+    </programme>
+    <programme start="20260303123600 +0000" stop="20260303133000 +0000" channel="Dragon TV.starhub">
+        <title>Future China</title>
+    </programme>
+    <programme start="20260303133000 +0000" stop="20260303141500 +0000" channel="Dragon TV.starhub">
+        <title>2026 Dragon TV Lantern Festival Gala</title>
+    </programme>
+    <programme start="20260303141500 +0000" stop="20260303144000 +0000" channel="Dragon TV.starhub">
+        <title>New Entertainment</title>
+    </programme>
+    <programme start="20260303144000 +0000" stop="20260303150500 +0000" channel="Dragon TV.starhub">
+        <title>CARE ON THE WAY</title>
+    </programme>
+    <programme start="20260303150500 +0000" stop="20260303160000 +0000" channel="Dragon TV.starhub">
         <title>THE CITY OF MUSICALS</title>
     </programme>
     <programme start="20260302160000 +0000" stop="20260302163000 +0000" channel="Travelxp HD.starhub">

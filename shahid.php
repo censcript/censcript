@@ -1315,9 +1315,6 @@
     <programme start="20260303000000 +0000" stop="20260304235959 +0000" channel="946945.shahid">
         <title>TV guide is not available</title>
     </programme>
-    <programme start="20260303000000 +0000" stop="20260304235959 +0000" channel="1007223.shahid">
-        <title>TV guide is not available</title>
-    </programme>
     <programme start="20260303000000 +0000" stop="20260303000637 +0000" channel="49923086870104.shahid">
         <title>Sikkat Safar Season 2 Episode 30</title>
     </programme>
@@ -1601,6 +1598,9 @@
         <title>Sikkat Safar Season 3 Episode 15</title>
     </programme>
     <programme start="20260304120000 +0000" stop="20260304235959 +0000" channel="49923086870104.shahid">
+        <title>TV guide is not available</title>
+    </programme>
+    <programme start="20260303000000 +0000" stop="20260304235959 +0000" channel="1007223.shahid">
         <title>TV guide is not available</title>
     </programme>
     <programme start="20260303000000 +0000" stop="20260303002020 +0000" channel="963543.shahid">
@@ -3754,6 +3754,9 @@
     <programme start="20260304224500 +0000" stop="20260304235959 +0000" channel="995495.shahid">
         <title>Waynak? Season 13 Episode 15</title>
     </programme>
+    <programme start="20260303000000 +0000" stop="20260304235959 +0000" channel="862837.shahid">
+        <title>TV guide is not available</title>
+    </programme>
     <programme start="20260303000000 +0000" stop="20260303001500 +0000" channel="387294.shahid">
         <title>Hamdiyya</title>
     </programme>
@@ -4083,9 +4086,6 @@
     </programme>
     <programme start="20260304233000 +0000" stop="20260304235959 +0000" channel="387294.shahid">
         <title>Hamdiyya</title>
-    </programme>
-    <programme start="20260303000000 +0000" stop="20260304235959 +0000" channel="862837.shahid">
-        <title>TV guide is not available</title>
     </programme>
     <programme start="20260303000000 +0000" stop="20260304235959 +0000" channel="946948.shahid">
         <title>TV guide is not available</title>
