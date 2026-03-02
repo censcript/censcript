@@ -589,6 +589,12 @@
     <programme start="20260302160000 +0000" stop="20260303160000 +0000" channel="spl01.mewatch">
         <title>No Programme available now. Next Broadcast on 6th March, Friday 8.20pm. Singapore Premier League 2025/2026</title>
     </programme>
+    <programme start="20260301160000 +0000" stop="20260302160000 +0000" channel="spl02.mewatch">
+        <title>No Programme available now. Next Broadcast on 15th March, Sunday 8.20pm. Singapore Premier League 2025/2026</title>
+    </programme>
+    <programme start="20260302160000 +0000" stop="20260303160000 +0000" channel="spl02.mewatch">
+        <title>No Programme available now. Next Broadcast on 15th March, Sunday 8.20pm. Singapore Premier League 2025/2026</title>
+    </programme>
     <programme start="20260301160000 +0000" stop="20260301190000 +0000" channel="now-80s.mewatch">
         <title>Only the Biggest 80s Anthems! - EP1</title>
     </programme>
