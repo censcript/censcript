@@ -3088,10 +3088,10 @@ Warning: Undefined array key "et" in /usr/home/ManusiaBiasa/domains/manusiabiasa
 <programme start="20260302220000 +0000" stop="20260303003000 +0000" channel="Sky Sport Tennis HD.skyde">
     <title>ATP 500: T. Etcheverry (ARG) - A. Tabilo (CHI), Rio Open in Rio de Janeiro (BRA), Finale</title>
 </programme>
-<programme start="20260302000000 +0000" stop="20260302013000 +0000" channel="Sky Sport Top Event HD.skyde">
-    <title>Live WTA 500: Finale, J. Paolini (ITA) - C. Bucsa (ESP), Merida Open in Merida (MEX), Finale</title>
+<programme start="20260302000000 +0000" stop="20260302010000 +0000" channel="Sky Sport Top Event HD.skyde">
+    <title>Live ATP 250: Finale, Y. Hanfmann (GER) - L. Darderi (ITA), BCI Seguros Chile Open in Santiago (CHI), Finale</title>
 </programme>
-<programme start="20260302013000 +0000" stop="20260302040000 +0000" channel="Sky Sport Top Event HD.skyde">
+<programme start="20260302010000 +0000" stop="20260302040000 +0000" channel="Sky Sport Top Event HD.skyde">
     <title>Live NBA: Philadelphia 76ers @ Boston Celtics</title>
 </programme>
 <programme start="20260302040000 +0000" stop="20260302043000 +0000" channel="Sky Sport Top Event HD.skyde">
@@ -3122,7 +3122,7 @@ Warning: Undefined array key "et" in /usr/home/ManusiaBiasa/domains/manusiabiasa
     <title>MotoGP: Rennen - GP Thailand</title>
 </programme>
 <programme start="20260302110000 +0000" stop="20260302133000 +0000" channel="Sky Sport Top Event HD.skyde">
-    <title>WTA 500: Finale, J. Paolini (ITA) - C. Bucsa (ESP), Merida Open in Merida (MEX), Finale</title>
+    <title>WTA 500: Finale, C. Bucsa (ESP) - M. Frech (POL), Merida Open in Merida (MEX), Finale</title>
 </programme>
 <programme start="20260302133000 +0000" stop="20260302160000 +0000" channel="Sky Sport Top Event HD.skyde">
     <title>NBA: Philadelphia 76ers @ Boston Celtics</title>

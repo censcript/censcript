@@ -2998,6 +2998,66 @@
 <programme start="20260302083000 +0000" stop="20260302090000 +0000" channel="DW English.mncvision">
     <title>Best Of DW Podcasts</title>
 </programme>
+<programme start="20260301180000 +0000" stop="20260301190000 +0000" channel="Entertainment.mncvision">
+    <title>OK Show</title>
+</programme>
+<programme start="20260301190000 +0000" stop="20260301200000 +0000" channel="Entertainment.mncvision">
+    <title>New Family 100</title>
+</programme>
+<programme start="20260301200000 +0000" stop="20260301210000 +0000" channel="Entertainment.mncvision">
+    <title>Super Deal</title>
+</programme>
+<programme start="20260301210000 +0000" stop="20260301223000 +0000" channel="Entertainment.mncvision">
+    <title>Super Deal Indonesia Ramadan</title>
+</programme>
+<programme start="20260301223000 +0000" stop="20260301233000 +0000" channel="Entertainment.mncvision">
+    <title>Call Me Mel</title>
+</programme>
+<programme start="20260301233000 +0000" stop="20260302003000 +0000" channel="Entertainment.mncvision">
+    <title>Penyejuk Hati</title>
+</programme>
+<programme start="20260302003000 +0000" stop="20260302013000 +0000" channel="Entertainment.mncvision">
+    <title>Super Deal</title>
+</programme>
+<programme start="20260302013000 +0000" stop="20260302033000 +0000" channel="Entertainment.mncvision">
+    <title>New Family 100</title>
+</programme>
+<programme start="20260302033000 +0000" stop="20260302050000 +0000" channel="Entertainment.mncvision">
+    <title>Super Deal Indonesia Ramadan</title>
+</programme>
+<programme start="20260302050000 +0000" stop="20260302070000 +0000" channel="Entertainment.mncvision">
+    <title>Take Me Out Indonesia</title>
+</programme>
+<programme start="20260302070000 +0000" stop="20260302080000 +0000" channel="Entertainment.mncvision">
+    <title>Ngebor Rezeki</title>
+</programme>
+<programme start="20260302080000 +0000" stop="20260302090000 +0000" channel="Entertainment.mncvision">
+    <title>Hoki Koki</title>
+</programme>
+<programme start="20260302090000 +0000" stop="20260302100000 +0000" channel="Entertainment.mncvision">
+    <title>Call Me Mel</title>
+</programme>
+<programme start="20260302100000 +0000" stop="20260302110000 +0000" channel="Entertainment.mncvision">
+    <title>Jangan Baper</title>
+</programme>
+<programme start="20260302110000 +0000" stop="20260302120000 +0000" channel="Entertainment.mncvision">
+    <title>Super Deal</title>
+</programme>
+<programme start="20260302120000 +0000" stop="20260302130000 +0000" channel="Entertainment.mncvision">
+    <title>New Family 100</title>
+</programme>
+<programme start="20260302130000 +0000" stop="20260302140000 +0000" channel="Entertainment.mncvision">
+    <title>Tamu Dadakan</title>
+</programme>
+<programme start="20260302140000 +0000" stop="20260302143000 +0000" channel="Entertainment.mncvision">
+    <title>OB (Office Boy)</title>
+</programme>
+<programme start="20260302143000 +0000" stop="20260302160000 +0000" channel="Entertainment.mncvision">
+    <title>Super Deal Indonesia Ramadan</title>
+</programme>
+<programme start="20260302160000 +0000" stop="20260302163000 +0000" channel="Entertainment.mncvision">
+    <title>Take Me Out Indonesia</title>
+</programme>
 <programme start="20260301170000 +0000" stop="20260301170500 +0000" channel="EURONEWS.mncvision">
     <title>5 Minutes</title>
 </programme>
@@ -6667,11 +6727,11 @@
 <programme start="20260302100000 +0000" stop="20260302103000 +0000" channel="NHK World Premium.mncvision">
     <title>NHK News</title>
 </programme>
-<programme start="20260302103000 +0000" stop="20260302105700 +0000" channel="NHK World Premium.mncvision">
-    <title>Today&#039;s Close-Up</title>
+<programme start="20260302103000 +0000" stop="20260302105500 +0000" channel="NHK World Premium.mncvision">
+    <title>Kyoto&#039;s Finest Goods Travelogue</title>
 </programme>
-<programme start="20260302105700 +0000" stop="20260302112700 +0000" channel="NHK World Premium.mncvision">
-    <title>Tsurube&#039;s Salute To Families</title>
+<programme start="20260302105500 +0000" stop="20260302112500 +0000" channel="NHK World Premium.mncvision">
+    <title>Mini Program</title>
 </programme>
 <programme start="20260301172000 +0000" stop="20260301173000 +0000" channel="Nick Jr. HD.mncvision">
     <title>Barbapapa: Big Happy Family!</title>
@@ -8173,11 +8233,11 @@
 <programme start="20260302133000 +0000" stop="20260302153000 +0000" channel="Soccer Channel.mncvision">
     <title>AFC Asian Cup 2026: KSA Vs VIE</title>
 </programme>
-<programme start="20260302153000 +0000" stop="20260302155500 +0000" channel="Soccer Channel.mncvision">
+<programme start="20260302153000 +0000" stop="20260302160000 +0000" channel="Soccer Channel.mncvision">
     <title>Top Goals</title>
 </programme>
-<programme start="20260302155500 +0000" stop="20260302162500 +0000" channel="Soccer Channel.mncvision">
-    <title>ACL Elite: SHA Vs TRC (L)</title>
+<programme start="20260302160000 +0000" stop="20260302163000 +0000" channel="Soccer Channel.mncvision">
+    <title>Sportacular Match: IDN Vs IRQ</title>
 </programme>
 <programme start="20260301183000 +0000" stop="20260301203000 +0000" channel="Soccer Channel HD.mncvision">
     <title>Bundesliga: HSV Vs RBL (L)</title>
@@ -8224,11 +8284,11 @@
 <programme start="20260302133000 +0000" stop="20260302153000 +0000" channel="Soccer Channel HD.mncvision">
     <title>AFC Asian Cup 2026: KSA Vs VIE</title>
 </programme>
-<programme start="20260302153000 +0000" stop="20260302155500 +0000" channel="Soccer Channel HD.mncvision">
+<programme start="20260302153000 +0000" stop="20260302160000 +0000" channel="Soccer Channel HD.mncvision">
     <title>Top Goals</title>
 </programme>
-<programme start="20260302155500 +0000" stop="20260302162500 +0000" channel="Soccer Channel HD.mncvision">
-    <title>ACL Elite: SHA Vs TRC (L)</title>
+<programme start="20260302160000 +0000" stop="20260302163000 +0000" channel="Soccer Channel HD.mncvision">
+    <title>Sportacular Match: IDN Vs IRQ</title>
 </programme>
 <programme start="20260301173000 +0000" stop="20260301200000 +0000" channel="Sportstars.mncvision">
     <title>Best Of Badminton</title>
