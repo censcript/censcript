@@ -3412,19 +3412,19 @@ Warning: Undefined array key "et" in /usr/home/ManusiaBiasa/domains/manusiabiasa
 <programme start="20260302053000 +0000" stop="20260302055500 +0000" channel="Warner TV Comedy HD.skyde">
     <title>Friends</title>
 </programme>
-<programme start="20260302055500 +0000" stop="20260302062500 +0000" channel="Warner TV Comedy HD.skyde">
+<programme start="20260302055500 +0000" stop="20260302062000 +0000" channel="Warner TV Comedy HD.skyde">
     <title>Friends</title>
 </programme>
-<programme start="20260302062500 +0000" stop="20260302065000 +0000" channel="Warner TV Comedy HD.skyde">
+<programme start="20260302062000 +0000" stop="20260302064500 +0000" channel="Warner TV Comedy HD.skyde">
     <title>Friends</title>
 </programme>
-<programme start="20260302065000 +0000" stop="20260302071500 +0000" channel="Warner TV Comedy HD.skyde">
+<programme start="20260302064500 +0000" stop="20260302071000 +0000" channel="Warner TV Comedy HD.skyde">
     <title>Friends</title>
 </programme>
-<programme start="20260302071500 +0000" stop="20260302074000 +0000" channel="Warner TV Comedy HD.skyde">
+<programme start="20260302071000 +0000" stop="20260302073500 +0000" channel="Warner TV Comedy HD.skyde">
     <title>Friends</title>
 </programme>
-<programme start="20260302074000 +0000" stop="20260302080500 +0000" channel="Warner TV Comedy HD.skyde">
+<programme start="20260302073500 +0000" stop="20260302080500 +0000" channel="Warner TV Comedy HD.skyde">
     <title>Die Nanny</title>
 </programme>
 <programme start="20260302080500 +0000" stop="20260302083000 +0000" channel="Warner TV Comedy HD.skyde">
@@ -3535,13 +3535,13 @@ Warning: Undefined array key "et" in /usr/home/ManusiaBiasa/domains/manusiabiasa
 <programme start="20260302215500 +0000" stop="20260302221000 +0000" channel="Warner TV Comedy HD.skyde">
     <title>Robot Chicken</title>
 </programme>
-<programme start="20260302221000 +0000" stop="20260302223500 +0000" channel="Warner TV Comedy HD.skyde">
+<programme start="20260302221000 +0000" stop="20260302223000 +0000" channel="Warner TV Comedy HD.skyde">
     <title>American Dad</title>
 </programme>
-<programme start="20260302223500 +0000" stop="20260302225500 +0000" channel="Warner TV Comedy HD.skyde">
+<programme start="20260302223000 +0000" stop="20260302225500 +0000" channel="Warner TV Comedy HD.skyde">
     <title>American Dad</title>
 </programme>
-<programme start="20260302225500 +0000" stop="20260302232000 +0000" channel="Warner TV Comedy HD.skyde">
+<programme start="20260302225500 +0000" stop="20260302231500 +0000" channel="Warner TV Comedy HD.skyde">
     <title>2 Broke Girls</title>
 </programme>
 <programme start="20260301230500 +0000" stop="20260302005000 +0000" channel="Warner TV Film.skyde">
@@ -3655,10 +3655,10 @@ Warning: Undefined array key "et" in /usr/home/ManusiaBiasa/domains/manusiabiasa
 <programme start="20260302040000 +0000" stop="20260302045000 +0000" channel="Warner TV Serie HD.skyde">
     <title>Daktari</title>
 </programme>
-<programme start="20260302045000 +0000" stop="20260302053500 +0000" channel="Warner TV Serie HD.skyde">
+<programme start="20260302045000 +0000" stop="20260302054500 +0000" channel="Warner TV Serie HD.skyde">
     <title>Daktari</title>
 </programme>
-<programme start="20260302053500 +0000" stop="20260302063500 +0000" channel="Warner TV Serie HD.skyde">
+<programme start="20260302054500 +0000" stop="20260302063500 +0000" channel="Warner TV Serie HD.skyde">
     <title>Daktari</title>
 </programme>
 <programme start="20260302063500 +0000" stop="20260302073000 +0000" channel="Warner TV Serie HD.skyde">
@@ -3670,13 +3670,13 @@ Warning: Undefined array key "et" in /usr/home/ManusiaBiasa/domains/manusiabiasa
 <programme start="20260302082500 +0000" stop="20260302091500 +0000" channel="Warner TV Serie HD.skyde">
     <title>Mord ist ihr Hobby</title>
 </programme>
-<programme start="20260302091500 +0000" stop="20260302100500 +0000" channel="Warner TV Serie HD.skyde">
+<programme start="20260302091500 +0000" stop="20260302100000 +0000" channel="Warner TV Serie HD.skyde">
     <title>Mord ist ihr Hobby</title>
 </programme>
-<programme start="20260302100500 +0000" stop="20260302105500 +0000" channel="Warner TV Serie HD.skyde">
+<programme start="20260302100000 +0000" stop="20260302105000 +0000" channel="Warner TV Serie HD.skyde">
     <title>Mord ist ihr Hobby</title>
 </programme>
-<programme start="20260302105500 +0000" stop="20260302114000 +0000" channel="Warner TV Serie HD.skyde">
+<programme start="20260302105000 +0000" stop="20260302114000 +0000" channel="Warner TV Serie HD.skyde">
     <title>Mord ist ihr Hobby</title>
 </programme>
 <programme start="20260302114000 +0000" stop="20260302122500 +0000" channel="Warner TV Serie HD.skyde">
@@ -3700,19 +3700,19 @@ Warning: Undefined array key "et" in /usr/home/ManusiaBiasa/domains/manusiabiasa
 <programme start="20260302161000 +0000" stop="20260302165500 +0000" channel="Warner TV Serie HD.skyde">
     <title>NCIS</title>
 </programme>
-<programme start="20260302165500 +0000" stop="20260302174000 +0000" channel="Warner TV Serie HD.skyde">
+<programme start="20260302165500 +0000" stop="20260302174500 +0000" channel="Warner TV Serie HD.skyde">
     <title>NCIS</title>
 </programme>
-<programme start="20260302174000 +0000" stop="20260302183000 +0000" channel="Warner TV Serie HD.skyde">
+<programme start="20260302174500 +0000" stop="20260302183000 +0000" channel="Warner TV Serie HD.skyde">
     <title>Rizzoli and Isles</title>
 </programme>
 <programme start="20260302183000 +0000" stop="20260302191500 +0000" channel="Warner TV Serie HD.skyde">
     <title>Rizzoli and Isles</title>
 </programme>
-<programme start="20260302191500 +0000" stop="20260302211500 +0000" channel="Warner TV Serie HD.skyde">
+<programme start="20260302191500 +0000" stop="20260302211000 +0000" channel="Warner TV Serie HD.skyde">
     <title>King Arthur</title>
 </programme>
-<programme start="20260302211500 +0000" stop="20260302220000 +0000" channel="Warner TV Serie HD.skyde">
+<programme start="20260302211000 +0000" stop="20260302220000 +0000" channel="Warner TV Serie HD.skyde">
     <title>NCIS</title>
 </programme>
 <programme start="20260302220000 +0000" stop="20260302224500 +0000" channel="Warner TV Serie HD.skyde">
