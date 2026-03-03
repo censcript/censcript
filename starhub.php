@@ -2071,11 +2071,11 @@
     <programme start="20260302200000 +0000" stop="20260302210000 +0000" channel="CNN HD.starhub">
         <title>What We Know with Max Foster</title>
     </programme>
-    <programme start="20260302210000 +0000" stop="20260302223000 +0000" channel="CNN HD.starhub">
+    <programme start="20260302210000 +0000" stop="20260302220000 +0000" channel="CNN HD.starhub">
         <title>Quest Means Business (60m)</title>
     </programme>
-    <programme start="20260302223000 +0000" stop="20260302230000 +0000" channel="CNN HD.starhub">
-        <title>World Sport (30m)</title>
+    <programme start="20260302220000 +0000" stop="20260302230000 +0000" channel="CNN HD.starhub">
+        <title>The Lead with Jake Tapper</title>
     </programme>
     <programme start="20260302230000 +0000" stop="20260303000000 +0000" channel="CNN HD.starhub">
         <title>The Lead with Jake Tapper</title>
@@ -3869,7 +3869,7 @@
         <title>News &amp; Weather</title>
     </programme>
     <programme start="20260303010500 +0000" stop="20260303015000 +0000" channel="NHK World Premium HD.starhub">
-        <title>Tsurube&#039;s Salute to Families &quot;Tozuka Junki in Minamisoma City, Fukushima Prefect</title>
+        <title>Tsurube&#039;s Salute to Families &quot;Tozuka Junki in Minamisoma City, Fukushima Prefecture&quot; (R)</title>
     </programme>
     <programme start="20260303015000 +0000" stop="20260303021800 +0000" channel="NHK World Premium HD.starhub">
         <title>Journeys in Japan (B) (R)</title>
@@ -3977,7 +3977,7 @@
         <title>Drama 10 &quot;Themis&#039;s Uncertain Court&quot; Ep. 7</title>
     </programme>
     <programme start="20260303134500 +0000" stop="20260303140000 +0000" channel="NHK World Premium HD.starhub">
-        <title>Night Drama Serial &quot;The Incidents are Happening All Around It.&quot; Series 2 Encore</title>
+        <title>Night Drama Serial &quot;The Incidents are Happening All Around It.&quot; Series 2 Encore Ep. 2</title>
     </programme>
     <programme start="20260303140000 +0000" stop="20260303143000 +0000" channel="NHK World Premium HD.starhub">
         <title>Budo Mind: KAMIWAZA (Final)</title>
