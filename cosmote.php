@@ -58,10 +58,6 @@
     <title>Football: Samsunspor - Shkendija</title>
     <desc>Live: Tidak</desc>
 </programme>
-<programme start="20260303100000 +0700" stop="20260303120000 +0700" channel="COSMOTE Sport 2 HD">
-    <title>Football: AS Roma - Juventus Football Club</title>
-    <desc>Live: Tidak</desc>
-</programme>
 <programme start="20260303120000 +0700" stop="20260303141000 +0700" channel="COSMOTE Sport 2 HD">
     <title>Football: Kifisia - Levadiakos</title>
     <desc>Live: Tidak</desc>
@@ -120,6 +116,10 @@
 </programme>
 <programme start="20260304100000 +0700" stop="20260304120000 +0700" channel="COSMOTE Sport 2 HD">
     <title>Football: Sassuolo - Atalanta</title>
+    <desc>Live: Tidak</desc>
+</programme>
+<programme start="20260304120000 +0700" stop="20260304141500 +0700" channel="COSMOTE Sport 2 HD">
+    <title>Football: OFI - AEL Novibet</title>
     <desc>Live: Tidak</desc>
 </programme>
 <programme start="20260303110000 +0700" stop="20260303130000 +0700" channel="COSMOTE Sport 3 HD">
@@ -234,6 +234,10 @@
     <title>Pick n&#039; Roll</title>
     <desc>Live: Tidak</desc>
 </programme>
+<programme start="20260304124500 +0700" stop="20260304131000 +0700" channel="COSMOTE Sport 4 HD">
+    <title>ACB Liga Endesa 2025-26 - Fifth Quarter E20</title>
+    <desc>Live: Tidak</desc>
+</programme>
 <programme start="20260303110000 +0700" stop="20260303120500 +0700" channel="COSMOTE Sport 5 HD">
     <title>Motorsports: Extreme E 2025</title>
     <desc>Live: Tidak</desc>
@@ -335,6 +339,10 @@
     <desc>Live: Tidak</desc>
 </programme>
 <programme start="20260304110000 +0700" stop="20260304120500 +0700" channel="COSMOTE Sport 5 HD">
+    <title>2025 Extreme H</title>
+    <desc>Live: Tidak</desc>
+</programme>
+<programme start="20260304120500 +0700" stop="20260304131000 +0700" channel="COSMOTE Sport 5 HD">
     <title>2025 Extreme H</title>
     <desc>Live: Tidak</desc>
 </programme>

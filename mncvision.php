@@ -1066,16 +1066,16 @@
 <programme start="20260302195500 +0000" stop="20260302220000 +0000" channel="beIN Sports 1.mncvision">
     <title>LaLiga 2025/26: RMA Vs GET (L)</title>
 </programme>
-<programme start="20260302220000 +0000" stop="20260303000000 +0000" channel="beIN Sports 1.mncvision">
+<programme start="20260302220000 +0000" stop="20260302235000 +0000" channel="beIN Sports 1.mncvision">
     <title>LaLiga 2025/26: OVI Vs ATM</title>
 </programme>
-<programme start="20260303000000 +0000" stop="20260303020000 +0000" channel="beIN Sports 1.mncvision">
+<programme start="20260302235000 +0000" stop="20260303015000 +0000" channel="beIN Sports 1.mncvision">
     <title>LFCTV 2025/26: LIV Vs WHU</title>
 </programme>
-<programme start="20260303020000 +0000" stop="20260303023000 +0000" channel="beIN Sports 1.mncvision">
+<programme start="20260303015000 +0000" stop="20260303022500 +0000" channel="beIN Sports 1.mncvision">
     <title>LFC Trending 2025/26, Ep 30</title>
 </programme>
-<programme start="20260303023000 +0000" stop="20260303030000 +0000" channel="beIN Sports 1.mncvision">
+<programme start="20260303022500 +0000" stop="20260303030000 +0000" channel="beIN Sports 1.mncvision">
     <title>LFCTV Specials 2025/26</title>
 </programme>
 <programme start="20260303030000 +0000" stop="20260303050000 +0000" channel="beIN Sports 1.mncvision">
@@ -1117,16 +1117,16 @@
 <programme start="20260302195500 +0000" stop="20260302220000 +0000" channel="beIN Sports 1 HD.mncvision">
     <title>LaLiga 2025/26: RMA Vs GET (L)</title>
 </programme>
-<programme start="20260302220000 +0000" stop="20260303000000 +0000" channel="beIN Sports 1 HD.mncvision">
+<programme start="20260302220000 +0000" stop="20260302235000 +0000" channel="beIN Sports 1 HD.mncvision">
     <title>LaLiga 2025/26: OVI Vs ATM</title>
 </programme>
-<programme start="20260303000000 +0000" stop="20260303020000 +0000" channel="beIN Sports 1 HD.mncvision">
+<programme start="20260302235000 +0000" stop="20260303015000 +0000" channel="beIN Sports 1 HD.mncvision">
     <title>LFCTV 2025/26: LIV Vs WHU</title>
 </programme>
-<programme start="20260303020000 +0000" stop="20260303023000 +0000" channel="beIN Sports 1 HD.mncvision">
+<programme start="20260303015000 +0000" stop="20260303022500 +0000" channel="beIN Sports 1 HD.mncvision">
     <title>LFC Trending 2025/26, Ep 30</title>
 </programme>
-<programme start="20260303023000 +0000" stop="20260303030000 +0000" channel="beIN Sports 1 HD.mncvision">
+<programme start="20260303022500 +0000" stop="20260303030000 +0000" channel="beIN Sports 1 HD.mncvision">
     <title>LFCTV Specials 2025/26</title>
 </programme>
 <programme start="20260303030000 +0000" stop="20260303050000 +0000" channel="beIN Sports 1 HD.mncvision">
@@ -8657,7 +8657,7 @@
     <title>2026 LIV Golf League, Adelaide</title>
 </programme>
 <programme start="20260303083000 +0000" stop="20260303090000 +0000" channel="SPOTV 2.mncvision">
-    <title>World Baseball Classic Pool</title>
+    <title>World Baseball Classic</title>
 </programme>
 <programme start="20260303090000 +0000" stop="20260303130000 +0000" channel="SPOTV 2.mncvision">
     <title>World Pickleball League Mumbai</title>
@@ -8693,7 +8693,7 @@
     <title>2026 LIV Golf League, Adelaide</title>
 </programme>
 <programme start="20260303083000 +0000" stop="20260303090000 +0000" channel="SPOTV 2 HD.mncvision">
-    <title>World Baseball Classic Pool</title>
+    <title>World Baseball Classic</title>
 </programme>
 <programme start="20260303090000 +0000" stop="20260303130000 +0000" channel="SPOTV 2 HD.mncvision">
     <title>World Pickleball League Mumbai</title>

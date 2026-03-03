@@ -524,7 +524,7 @@
         <title>Asia Tonight</title>
     </programme>
     <programme start="20260302210000 +0000" stop="20260302220000 +0000" channel="CNA.mewatch">
-        <title>Pause With Purpose - EP 3</title>
+        <title>Money Mind - EP 40</title>
     </programme>
     <programme start="20260302220000 +0000" stop="20260302230000 +0000" channel="CNA.mewatch">
         <title>Singapore Tonight</title>
