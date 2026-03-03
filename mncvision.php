@@ -158,7 +158,7 @@
     <title>News (L)</title>
 </programme>
 <programme start="20260303043000 +0000" stop="20260303050000 +0000" channel="Al Jazeera English.mncvision">
-    <title>The Stream</title>
+    <title>The Stream: End Of The World</title>
 </programme>
 <programme start="20260303050000 +0000" stop="20260303053000 +0000" channel="Al Jazeera English.mncvision">
     <title>News (L)</title>
@@ -176,7 +176,7 @@
     <title>News (L)</title>
 </programme>
 <programme start="20260303073000 +0000" stop="20260303080000 +0000" channel="Al Jazeera English.mncvision">
-    <title>The Bottom Line</title>
+    <title>Venezuela: In The Shadow Of US</title>
 </programme>
 <programme start="20260303080000 +0000" stop="20260303083000 +0000" channel="Al Jazeera English.mncvision">
     <title>News (L)</title>
@@ -209,7 +209,7 @@
     <title>News (L)</title>
 </programme>
 <programme start="20260303143000 +0000" stop="20260303150000 +0000" channel="Al Jazeera English.mncvision">
-    <title>The Stream</title>
+    <title>The Stream: End Of The World</title>
 </programme>
 <programme start="20260303150000 +0000" stop="20260303160000 +0000" channel="Al Jazeera English.mncvision">
     <title>NewsHour</title>
@@ -1057,8 +1057,108 @@
 <programme start="20260303153000 +0000" stop="20260303160000 +0000" channel="BBC World News.mncvision">
     <title>Verified Live</title>
 </programme>
-Error: Unable to fetch data. HTTP Status Code: 500
-Error: Unable to fetch data. HTTP Status Code: 500
+<programme start="20260302175000 +0000" stop="20260302185000 +0000" channel="beIN Sports 1.mncvision">
+    <title>Porsche Sprint Challenge 2026</title>
+</programme>
+<programme start="20260302185000 +0000" stop="20260302195500 +0000" channel="beIN Sports 1.mncvision">
+    <title>Porsche Sprint Challenge 2026</title>
+</programme>
+<programme start="20260302195500 +0000" stop="20260302220000 +0000" channel="beIN Sports 1.mncvision">
+    <title>LaLiga 2025/26: RMA Vs GET (L)</title>
+</programme>
+<programme start="20260302220000 +0000" stop="20260303000000 +0000" channel="beIN Sports 1.mncvision">
+    <title>LaLiga 2025/26: OVI Vs ATM</title>
+</programme>
+<programme start="20260303000000 +0000" stop="20260303020000 +0000" channel="beIN Sports 1.mncvision">
+    <title>LFCTV 2025/26: LIV Vs WHU</title>
+</programme>
+<programme start="20260303020000 +0000" stop="20260303023000 +0000" channel="beIN Sports 1.mncvision">
+    <title>LFC Trending 2025/26, Ep 30</title>
+</programme>
+<programme start="20260303023000 +0000" stop="20260303030000 +0000" channel="beIN Sports 1.mncvision">
+    <title>LFCTV Specials 2025/26</title>
+</programme>
+<programme start="20260303030000 +0000" stop="20260303050000 +0000" channel="beIN Sports 1.mncvision">
+    <title>LaLiga 2025/26: ELC Vs ESP</title>
+</programme>
+<programme start="20260303050000 +0000" stop="20260303065000 +0000" channel="beIN Sports 1.mncvision">
+    <title>LaLiga 2 2025/26: CAS Vs RAC</title>
+</programme>
+<programme start="20260303065000 +0000" stop="20260303084000 +0000" channel="beIN Sports 1.mncvision">
+    <title>LaLiga 2025/26: MLL Vs RSO</title>
+</programme>
+<programme start="20260303084000 +0000" stop="20260303103000 +0000" channel="beIN Sports 1.mncvision">
+    <title>Super Lig 2025/26: KOC Vs BJK</title>
+</programme>
+<programme start="20260303103000 +0000" stop="20260303110000 +0000" channel="beIN Sports 1.mncvision">
+    <title>Mini Match LaLiga: OVI Vs ATM</title>
+</programme>
+<programme start="20260303110000 +0000" stop="20260303130000 +0000" channel="beIN Sports 1.mncvision">
+    <title>LaLiga 2025/26: RMA Vs GET</title>
+</programme>
+<programme start="20260303130000 +0000" stop="20260303150000 +0000" channel="beIN Sports 1.mncvision">
+    <title>LaLiga 2025/26: BAR Vs VIL</title>
+</programme>
+<programme start="20260303150000 +0000" stop="20260303153000 +0000" channel="beIN Sports 1.mncvision">
+    <title>Gearing Up 2026: March</title>
+</programme>
+<programme start="20260303153000 +0000" stop="20260303160000 +0000" channel="beIN Sports 1.mncvision">
+    <title>Mini Match LaLiga: BET Vs SEV</title>
+</programme>
+<programme start="20260303160000 +0000" stop="20260303163000 +0000" channel="beIN Sports 1.mncvision">
+    <title>LaLiga Archive: ZAR Vs RMA</title>
+</programme>
+<programme start="20260302175000 +0000" stop="20260302185000 +0000" channel="beIN Sports 1 HD.mncvision">
+    <title>Porsche Sprint Challenge 2026</title>
+</programme>
+<programme start="20260302185000 +0000" stop="20260302195500 +0000" channel="beIN Sports 1 HD.mncvision">
+    <title>Porsche Sprint Challenge 2026</title>
+</programme>
+<programme start="20260302195500 +0000" stop="20260302220000 +0000" channel="beIN Sports 1 HD.mncvision">
+    <title>LaLiga 2025/26: RMA Vs GET (L)</title>
+</programme>
+<programme start="20260302220000 +0000" stop="20260303000000 +0000" channel="beIN Sports 1 HD.mncvision">
+    <title>LaLiga 2025/26: OVI Vs ATM</title>
+</programme>
+<programme start="20260303000000 +0000" stop="20260303020000 +0000" channel="beIN Sports 1 HD.mncvision">
+    <title>LFCTV 2025/26: LIV Vs WHU</title>
+</programme>
+<programme start="20260303020000 +0000" stop="20260303023000 +0000" channel="beIN Sports 1 HD.mncvision">
+    <title>LFC Trending 2025/26, Ep 30</title>
+</programme>
+<programme start="20260303023000 +0000" stop="20260303030000 +0000" channel="beIN Sports 1 HD.mncvision">
+    <title>LFCTV Specials 2025/26</title>
+</programme>
+<programme start="20260303030000 +0000" stop="20260303050000 +0000" channel="beIN Sports 1 HD.mncvision">
+    <title>LaLiga 2025/26: ELC Vs ESP</title>
+</programme>
+<programme start="20260303050000 +0000" stop="20260303065000 +0000" channel="beIN Sports 1 HD.mncvision">
+    <title>LaLiga 2 2025/26: CAS Vs RAC</title>
+</programme>
+<programme start="20260303065000 +0000" stop="20260303084000 +0000" channel="beIN Sports 1 HD.mncvision">
+    <title>LaLiga 2025/26: MLL Vs RSO</title>
+</programme>
+<programme start="20260303084000 +0000" stop="20260303103000 +0000" channel="beIN Sports 1 HD.mncvision">
+    <title>Super Lig 2025/26: KOC Vs BJK</title>
+</programme>
+<programme start="20260303103000 +0000" stop="20260303110000 +0000" channel="beIN Sports 1 HD.mncvision">
+    <title>Mini Match LaLiga: OVI Vs ATM</title>
+</programme>
+<programme start="20260303110000 +0000" stop="20260303130000 +0000" channel="beIN Sports 1 HD.mncvision">
+    <title>LaLiga 2025/26: RMA Vs GET</title>
+</programme>
+<programme start="20260303130000 +0000" stop="20260303150000 +0000" channel="beIN Sports 1 HD.mncvision">
+    <title>LaLiga 2025/26: BAR Vs VIL</title>
+</programme>
+<programme start="20260303150000 +0000" stop="20260303153000 +0000" channel="beIN Sports 1 HD.mncvision">
+    <title>Gearing Up 2026: March</title>
+</programme>
+<programme start="20260303153000 +0000" stop="20260303160000 +0000" channel="beIN Sports 1 HD.mncvision">
+    <title>Mini Match LaLiga: BET Vs SEV</title>
+</programme>
+<programme start="20260303160000 +0000" stop="20260303163000 +0000" channel="beIN Sports 1 HD.mncvision">
+    <title>LaLiga Archive: ZAR Vs RMA</title>
+</programme>
 <programme start="20260302171500 +0000" stop="20260302174000 +0000" channel="beIN Sports 2.mncvision">
     <title>HSBC SVNS Series 2026</title>
 </programme>
@@ -3219,7 +3319,126 @@ Error: Unable to fetch data. HTTP Status Code: 500
 <programme start="20260303160000 +0000" stop="20260303163000 +0000" channel="Fight Sports.mncvision">
     <title>FS MMA: Fiorot Vs Guegjes</title>
 </programme>
-Error: Unable to fetch data. HTTP Status Code: 500
+<programme start="20260302173000 +0000" stop="20260302180000 +0000" channel="FOOD TRAVEL.mncvision">
+    <title>Let&#039;s Go</title>
+</programme>
+<programme start="20260302180000 +0000" stop="20260302183000 +0000" channel="FOOD TRAVEL.mncvision">
+    <title>All You Can Eat</title>
+</programme>
+<programme start="20260302183000 +0000" stop="20260302193000 +0000" channel="FOOD TRAVEL.mncvision">
+    <title>Tukang Makan</title>
+</programme>
+<programme start="20260302193000 +0000" stop="20260302203000 +0000" channel="FOOD TRAVEL.mncvision">
+    <title>Dapur Ngebor</title>
+</programme>
+<programme start="20260302203000 +0000" stop="20260302210000 +0000" channel="FOOD TRAVEL.mncvision">
+    <title>Viral Kuliner</title>
+</programme>
+<programme start="20260302210000 +0000" stop="20260302213000 +0000" channel="FOOD TRAVEL.mncvision">
+    <title>Viral Kuliner</title>
+</programme>
+<programme start="20260302213000 +0000" stop="20260302220000 +0000" channel="FOOD TRAVEL.mncvision">
+    <title>Let&#039;s Go</title>
+</programme>
+<programme start="20260302220000 +0000" stop="20260302223000 +0000" channel="FOOD TRAVEL.mncvision">
+    <title>Wisata Ziarah</title>
+</programme>
+<programme start="20260302223000 +0000" stop="20260302230000 +0000" channel="FOOD TRAVEL.mncvision">
+    <title>All You Can Eat</title>
+</programme>
+<programme start="20260302230000 +0000" stop="20260302233000 +0000" channel="FOOD TRAVEL.mncvision">
+    <title>Ada Tamu Gokil</title>
+</programme>
+<programme start="20260302233000 +0000" stop="20260303000000 +0000" channel="FOOD TRAVEL.mncvision">
+    <title>Around The World</title>
+</programme>
+<programme start="20260303000000 +0000" stop="20260303003000 +0000" channel="FOOD TRAVEL.mncvision">
+    <title>Selebriti Masak?</title>
+</programme>
+<programme start="20260303003000 +0000" stop="20260303010000 +0000" channel="FOOD TRAVEL.mncvision">
+    <title>Viral Kuliner</title>
+</programme>
+<programme start="20260303010000 +0000" stop="20260303013000 +0000" channel="FOOD TRAVEL.mncvision">
+    <title>Viral Kuliner</title>
+</programme>
+<programme start="20260303013000 +0000" stop="20260303020000 +0000" channel="FOOD TRAVEL.mncvision">
+    <title>Kuliner Anak Nusantara</title>
+</programme>
+<programme start="20260303020000 +0000" stop="20260303023000 +0000" channel="FOOD TRAVEL.mncvision">
+    <title>Wisata Ziarah</title>
+</programme>
+<programme start="20260303023000 +0000" stop="20260303030000 +0000" channel="FOOD TRAVEL.mncvision">
+    <title>Travel Addict</title>
+</programme>
+<programme start="20260303030000 +0000" stop="20260303033000 +0000" channel="FOOD TRAVEL.mncvision">
+    <title>Around The World</title>
+</programme>
+<programme start="20260303033000 +0000" stop="20260303040000 +0000" channel="FOOD TRAVEL.mncvision">
+    <title>Let&#039;s Go</title>
+</programme>
+<programme start="20260303040000 +0000" stop="20260303050000 +0000" channel="FOOD TRAVEL.mncvision">
+    <title>Tukang Makan</title>
+</programme>
+<programme start="20260303050000 +0000" stop="20260303060000 +0000" channel="FOOD TRAVEL.mncvision">
+    <title>Dapur Panik</title>
+</programme>
+<programme start="20260303060000 +0000" stop="20260303063000 +0000" channel="FOOD TRAVEL.mncvision">
+    <title>Viral Kuliner</title>
+</programme>
+<programme start="20260303063000 +0000" stop="20260303070000 +0000" channel="FOOD TRAVEL.mncvision">
+    <title>Viral Kuliner</title>
+</programme>
+<programme start="20260303070000 +0000" stop="20260303080000 +0000" channel="FOOD TRAVEL.mncvision">
+    <title>Dapur Ngebor</title>
+</programme>
+<programme start="20260303080000 +0000" stop="20260303083000 +0000" channel="FOOD TRAVEL.mncvision">
+    <title>Let&#039;s Go</title>
+</programme>
+<programme start="20260303083000 +0000" stop="20260303090000 +0000" channel="FOOD TRAVEL.mncvision">
+    <title>Kuliner Anak Nusantara</title>
+</programme>
+<programme start="20260303090000 +0000" stop="20260303100000 +0000" channel="FOOD TRAVEL.mncvision">
+    <title>Tukang Makan</title>
+</programme>
+<programme start="20260303100000 +0000" stop="20260303110000 +0000" channel="FOOD TRAVEL.mncvision">
+    <title>Dapur Panik</title>
+</programme>
+<programme start="20260303110000 +0000" stop="20260303113000 +0000" channel="FOOD TRAVEL.mncvision">
+    <title>Viral Kuliner</title>
+</programme>
+<programme start="20260303113000 +0000" stop="20260303120000 +0000" channel="FOOD TRAVEL.mncvision">
+    <title>Viral Kuliner</title>
+</programme>
+<programme start="20260303120000 +0000" stop="20260303123000 +0000" channel="FOOD TRAVEL.mncvision">
+    <title>Viral Kuliner</title>
+</programme>
+<programme start="20260303123000 +0000" stop="20260303130000 +0000" channel="FOOD TRAVEL.mncvision">
+    <title>Let&#039;s Go</title>
+</programme>
+<programme start="20260303130000 +0000" stop="20260303133000 +0000" channel="FOOD TRAVEL.mncvision">
+    <title>Around The World</title>
+</programme>
+<programme start="20260303133000 +0000" stop="20260303140000 +0000" channel="FOOD TRAVEL.mncvision">
+    <title>Wisata Ziarah</title>
+</programme>
+<programme start="20260303140000 +0000" stop="20260303143000 +0000" channel="FOOD TRAVEL.mncvision">
+    <title>GPS: Geng Petualangan Seru</title>
+</programme>
+<programme start="20260303143000 +0000" stop="20260303150000 +0000" channel="FOOD TRAVEL.mncvision">
+    <title>All You Can Eat</title>
+</programme>
+<programme start="20260303150000 +0000" stop="20260303153000 +0000" channel="FOOD TRAVEL.mncvision">
+    <title>Selebriti Masak?</title>
+</programme>
+<programme start="20260303153000 +0000" stop="20260303160000 +0000" channel="FOOD TRAVEL.mncvision">
+    <title>Ada Tamu Gokil</title>
+</programme>
+<programme start="20260303160000 +0000" stop="20260303163000 +0000" channel="FOOD TRAVEL.mncvision">
+    <title>Travel Addict</title>
+</programme>
+<programme start="20260303163000 +0000" stop="20260302170000 +0000" channel="FOOD TRAVEL.mncvision">
+    <title>Dapur Panik</title>
+</programme>
 <programme start="20260302173000 +0000" stop="20260302180000 +0000" channel="Food Travel HD.mncvision">
     <title>Let&#039;s Go</title>
 </programme>
@@ -4619,7 +4838,10 @@ Error: Unable to fetch data. HTTP Status Code: 500
     <title>iNews Malam (L)</title>
 </programme>
 <programme start="20260303160000 +0000" stop="20260303163000 +0000" channel="iNews.mncvision">
-    <title>ACL Elite: WAH Vs ITH (L)</title>
+    <title>iNews Sport (L)</title>
+</programme>
+<programme start="20260303163000 +0000" stop="20260302170000 +0000" channel="iNews.mncvision">
+    <title>New Top Files</title>
 </programme>
 <programme start="20260302170000 +0000" stop="20260302173000 +0000" channel="iNews HD.mncvision">
     <title>E-Max</title>
@@ -4697,7 +4919,10 @@ Error: Unable to fetch data. HTTP Status Code: 500
     <title>iNews Malam (L)</title>
 </programme>
 <programme start="20260303160000 +0000" stop="20260303163000 +0000" channel="iNews HD.mncvision">
-    <title>ACL Elite: WAH Vs ITH (L)</title>
+    <title>iNews Sport (L)</title>
+</programme>
+<programme start="20260303163000 +0000" stop="20260302170000 +0000" channel="iNews HD.mncvision">
+    <title>New Top Files</title>
 </programme>
 <programme start="20260302170000 +0000" stop="20260302173000 +0000" channel="JAKTV.mncvision">
     <title>Creative Talk</title>
@@ -5509,7 +5734,72 @@ Error: Unable to fetch data. HTTP Status Code: 500
 <programme start="20260303163500 +0000" stop="20260302170500 +0000" channel="Love Nature HD.mncvision">
     <title>Island Of The Monsoon S1, Ep 5</title>
 </programme>
-Error: Unable to fetch data. HTTP Status Code: 500
+<programme start="20260302171000 +0000" stop="20260302183500 +0000" channel="MDTV.mncvision">
+    <title>Makan Enak</title>
+</programme>
+<programme start="20260302183500 +0000" stop="20260302194000 +0000" channel="MDTV.mncvision">
+    <title>Masak Gesss!!!</title>
+</programme>
+<programme start="20260302194000 +0000" stop="20260302203500 +0000" channel="MDTV.mncvision">
+    <title>Keluarga Yang Tak Dirindukan</title>
+</programme>
+<programme start="20260302203500 +0000" stop="20260302212500 +0000" channel="MDTV.mncvision">
+    <title>Dunia Tanpa Tuhan</title>
+</programme>
+<programme start="20260302212500 +0000" stop="20260302224500 +0000" channel="MDTV.mncvision">
+    <title>Muslim Travelers</title>
+</programme>
+<programme start="20260302224500 +0000" stop="20260302233500 +0000" channel="MDTV.mncvision">
+    <title>Jejak Peristiwa</title>
+</programme>
+<programme start="20260302233500 +0000" stop="20260303010500 +0000" channel="MDTV.mncvision">
+    <title>AADD: Ada Apa Dengan Dunia</title>
+</programme>
+<programme start="20260303010500 +0000" stop="20260303015500 +0000" channel="MDTV.mncvision">
+    <title>Fakta +62</title>
+</programme>
+<programme start="20260303015500 +0000" stop="20260303025000 +0000" channel="MDTV.mncvision">
+    <title>SensasiHot</title>
+</programme>
+<programme start="20260303025000 +0000" stop="20260303034500 +0000" channel="MDTV.mncvision">
+    <title>Maria Cinta Yang Hilang</title>
+</programme>
+<programme start="20260303034500 +0000" stop="20260303051000 +0000" channel="MDTV.mncvision">
+    <title>Cerita Nyata</title>
+</programme>
+<programme start="20260303051000 +0000" stop="20260303064500 +0000" channel="MDTV.mncvision">
+    <title>Cinta Fitri S6</title>
+</programme>
+<programme start="20260303064500 +0000" stop="20260303082000 +0000" channel="MDTV.mncvision">
+    <title>Makan Enak Spesial Ramadan</title>
+</programme>
+<programme start="20260303082000 +0000" stop="20260303092000 +0000" channel="MDTV.mncvision">
+    <title>Masak Gesss!!! Ramadan</title>
+</programme>
+<programme start="20260303092000 +0000" stop="20260303102000 +0000" channel="MDTV.mncvision">
+    <title>Amigos X Siempre</title>
+</programme>
+<programme start="20260303102000 +0000" stop="20260303110500 +0000" channel="MDTV.mncvision">
+    <title>Esmeralda</title>
+</programme>
+<programme start="20260303110500 +0000" stop="20260303120000 +0000" channel="MDTV.mncvision">
+    <title>Adit Sopo Jarwo</title>
+</programme>
+<programme start="20260303120000 +0000" stop="20260303130000 +0000" channel="MDTV.mncvision">
+    <title>Keluarga Yang Tak Dirindukan</title>
+</programme>
+<programme start="20260303130000 +0000" stop="20260303140000 +0000" channel="MDTV.mncvision">
+    <title>Dunia Tanpa Tuhan</title>
+</programme>
+<programme start="20260303140000 +0000" stop="20260303144500 +0000" channel="MDTV.mncvision">
+    <title>The Return Of Condor Heroes</title>
+</programme>
+<programme start="20260303144500 +0000" stop="20260303162000 +0000" channel="MDTV.mncvision">
+    <title>Jatanras</title>
+</programme>
+<programme start="20260303162000 +0000" stop="20260303165000 +0000" channel="MDTV.mncvision">
+    <title>86</title>
+</programme>
 <programme start="20260302170000 +0000" stop="20260302170500 +0000" channel="Metro TV.mncvision">
     <title>Metro TV</title>
 </programme>
@@ -5564,11 +5854,17 @@ Error: Unable to fetch data. HTTP Status Code: 500
 <programme start="20260302220500 +0000" stop="20260302223000 +0000" channel="Metro TV.mncvision">
     <title>Metro TV</title>
 </programme>
-<programme start="20260302223000 +0000" stop="20260302230000 +0000" channel="Metro TV.mncvision">
+<programme start="20260302223000 +0000" stop="20260302225000 +0000" channel="Metro TV.mncvision">
     <title>Metro TV</title>
 </programme>
-<programme start="20260302230000 +0000" stop="20260302233000 +0000" channel="Metro TV.mncvision">
+<programme start="20260302225000 +0000" stop="20260302230000 +0000" channel="Metro TV.mncvision">
+    <title>Metro Pagi Primetime</title>
+</programme>
+<programme start="20260302230000 +0000" stop="20260302232000 +0000" channel="Metro TV.mncvision">
     <title>Metro TV</title>
+</programme>
+<programme start="20260302232000 +0000" stop="20260302233000 +0000" channel="Metro TV.mncvision">
+    <title>Metro Pagi Primetime</title>
 </programme>
 <programme start="20260302233000 +0000" stop="20260303000000 +0000" channel="Metro TV.mncvision">
     <title>Metro TV</title>
@@ -5588,8 +5884,11 @@ Error: Unable to fetch data. HTTP Status Code: 500
 <programme start="20260303010500 +0000" stop="20260303013000 +0000" channel="Metro TV.mncvision">
     <title>Metro TV</title>
 </programme>
-<programme start="20260303013000 +0000" stop="20260303015500 +0000" channel="Metro TV.mncvision">
+<programme start="20260303013000 +0000" stop="20260303015000 +0000" channel="Metro TV.mncvision">
     <title>Metro TV</title>
+</programme>
+<programme start="20260303015000 +0000" stop="20260303015500 +0000" channel="Metro TV.mncvision">
+    <title>Selamat Pagi Indonesia</title>
 </programme>
 <programme start="20260303015500 +0000" stop="20260303020000 +0000" channel="Metro TV.mncvision">
     <title>Metro TV</title>
@@ -5597,8 +5896,11 @@ Error: Unable to fetch data. HTTP Status Code: 500
 <programme start="20260303020000 +0000" stop="20260303020500 +0000" channel="Metro TV.mncvision">
     <title>Metro TV</title>
 </programme>
-<programme start="20260303020500 +0000" stop="20260303023000 +0000" channel="Metro TV.mncvision">
+<programme start="20260303020500 +0000" stop="20260303022000 +0000" channel="Metro TV.mncvision">
     <title>Metro TV</title>
+</programme>
+<programme start="20260303022000 +0000" stop="20260303023000 +0000" channel="Metro TV.mncvision">
+    <title>Selamat Pagi Indonesia</title>
 </programme>
 <programme start="20260303023000 +0000" stop="20260303030000 +0000" channel="Metro TV.mncvision">
     <title>Metro TV</title>
@@ -5624,11 +5926,17 @@ Error: Unable to fetch data. HTTP Status Code: 500
 <programme start="20260303050000 +0000" stop="20260303053000 +0000" channel="Metro TV.mncvision">
     <title>Metro TV</title>
 </programme>
-<programme start="20260303053000 +0000" stop="20260303060000 +0000" channel="Metro TV.mncvision">
+<programme start="20260303053000 +0000" stop="20260303055000 +0000" channel="Metro TV.mncvision">
     <title>Metro TV</title>
 </programme>
-<programme start="20260303060000 +0000" stop="20260303063000 +0000" channel="Metro TV.mncvision">
+<programme start="20260303055000 +0000" stop="20260303060000 +0000" channel="Metro TV.mncvision">
+    <title>Metro Siang</title>
+</programme>
+<programme start="20260303060000 +0000" stop="20260303062000 +0000" channel="Metro TV.mncvision">
     <title>Metro TV</title>
+</programme>
+<programme start="20260303062000 +0000" stop="20260303063000 +0000" channel="Metro TV.mncvision">
+    <title>Metro Siang</title>
 </programme>
 <programme start="20260303063000 +0000" stop="20260303070000 +0000" channel="Metro TV.mncvision">
     <title>Metro TV</title>
@@ -5640,24 +5948,6 @@ Error: Unable to fetch data. HTTP Status Code: 500
     <title>Metro TV</title>
 </programme>
 <programme start="20260303073000 +0000" stop="20260303080000 +0000" channel="Metro TV.mncvision">
-    <title>Metro TV</title>
-</programme>
-<programme start="20260303080000 +0000" stop="20260303080500 +0000" channel="Metro TV.mncvision">
-    <title>Metro TV</title>
-</programme>
-<programme start="20260303080500 +0000" stop="20260303081000 +0000" channel="Metro TV.mncvision">
-    <title>Metro TV</title>
-</programme>
-<programme start="20260303081000 +0000" stop="20260303082000 +0000" channel="Metro TV.mncvision">
-    <title>Metro TV</title>
-</programme>
-<programme start="20260303082000 +0000" stop="20260303083000 +0000" channel="Metro TV.mncvision">
-    <title>Metro TV</title>
-</programme>
-<programme start="20260303083000 +0000" stop="20260303085000 +0000" channel="Metro TV.mncvision">
-    <title>Metro TV</title>
-</programme>
-<programme start="20260303085000 +0000" stop="20260303092000 +0000" channel="Metro TV.mncvision">
     <title>Metro TV</title>
 </programme>
 <programme start="20260302170000 +0000" stop="20260302180000 +0000" channel="MNCTV.mncvision">
@@ -5930,7 +6220,6 @@ Error: Unable to fetch data. HTTP Status Code: 500
 <programme start="20260303164400 +0000" stop="20260302171400 +0000" channel="Moonbug.mncvision">
     <title>Cody Time</title>
 </programme>
-Error: Unable to fetch data. HTTP Status Code: 500
 <programme start="20260302173000 +0000" stop="20260302183000 +0000" channel="Music TV.mncvision">
     <title>Bucin (Bursa Music Indonesia)</title>
 </programme>
@@ -7825,7 +8114,7 @@ Error: Unable to fetch data. HTTP Status Code: 500
     <title>Top Goals</title>
 </programme>
 <programme start="20260303015500 +0000" stop="20260303040000 +0000" channel="Soccer Channel.mncvision">
-    <title>AFC Women&#039;s Asian Cup &#039;26 (L)</title>
+    <title>AFC WAC 2026: PRK Vs UZB (L)</title>
 </programme>
 <programme start="20260303040000 +0000" stop="20260303043000 +0000" channel="Soccer Channel.mncvision">
     <title>The Ultimate Goals</title>
@@ -7888,7 +8177,7 @@ Error: Unable to fetch data. HTTP Status Code: 500
     <title>Top Goals</title>
 </programme>
 <programme start="20260303015500 +0000" stop="20260303040000 +0000" channel="Soccer Channel HD.mncvision">
-    <title>AFC Women&#039;s Asian Cup &#039;26 (L)</title>
+    <title>AFC WAC 2026: PRK Vs UZB (L)</title>
 </programme>
 <programme start="20260303040000 +0000" stop="20260303043000 +0000" channel="Soccer Channel HD.mncvision">
     <title>The Ultimate Goals</title>

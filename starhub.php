@@ -2078,7 +2078,7 @@
         <title>World Sport (30m)</title>
     </programme>
     <programme start="20260302230000 +0000" stop="20260303000000 +0000" channel="CNN HD.starhub">
-        <title>The Brief with Jim Sciutto</title>
+        <title>The Lead with Jake Tapper</title>
     </programme>
     <programme start="20260303000000 +0000" stop="20260303010000 +0000" channel="CNN HD.starhub">
         <title>Erin Burnett OutFront</title>
@@ -2095,41 +2095,32 @@
     <programme start="20260303040000 +0000" stop="20260303050000 +0000" channel="CNN HD.starhub">
         <title>Laura Coates Live</title>
     </programme>
-    <programme start="20260303050000 +0000" stop="20260303064500 +0000" channel="CNN HD.starhub">
+    <programme start="20260303050000 +0000" stop="20260303060000 +0000" channel="CNN HD.starhub">
         <title>The Story Is With Elex Michaelson</title>
     </programme>
-    <programme start="20260303064500 +0000" stop="20260303070000 +0000" channel="CNN HD.starhub">
-        <title>World Sport (15m)</title>
+    <programme start="20260303060000 +0000" stop="20260303080000 +0000" channel="CNN HD.starhub">
+        <title>The Story Is With Elex Michaelson</title>
     </programme>
-    <programme start="20260303070000 +0000" stop="20260303080000 +0000" channel="CNN HD.starhub">
+    <programme start="20260303080000 +0000" stop="20260303090000 +0000" channel="CNN HD.starhub">
         <title>CNN Newsroom (CNNI) (60m)</title>
     </programme>
-    <programme start="20260303080000 +0000" stop="20260303084500 +0000" channel="CNN HD.starhub">
-        <title>CNN Newsroom (CNNI) (45m)</title>
-    </programme>
-    <programme start="20260303084500 +0000" stop="20260303090000 +0000" channel="CNN HD.starhub">
-        <title>World Sport (15m)</title>
-    </programme>
     <programme start="20260303090000 +0000" stop="20260303100000 +0000" channel="CNN HD.starhub">
-        <title>Amanpour</title>
+        <title>CNN Newsroom Live</title>
     </programme>
     <programme start="20260303100000 +0000" stop="20260303110000 +0000" channel="CNN HD.starhub">
-        <title>Early Start with Rahel Solomon</title>
+        <title>CNN Newsroom Live</title>
     </programme>
     <programme start="20260303110000 +0000" stop="20260303120000 +0000" channel="CNN HD.starhub">
         <title>CNN This Morning</title>
     </programme>
-    <programme start="20260303120000 +0000" stop="20260303133000 +0000" channel="CNN HD.starhub">
+    <programme start="20260303120000 +0000" stop="20260303130000 +0000" channel="CNN HD.starhub">
         <title>CNN News Central</title>
     </programme>
-    <programme start="20260303133000 +0000" stop="20260303140000 +0000" channel="CNN HD.starhub">
-        <title>World Sport (30m)</title>
+    <programme start="20260303130000 +0000" stop="20260303140000 +0000" channel="CNN HD.starhub">
+        <title>CNN News Central</title>
     </programme>
-    <programme start="20260303140000 +0000" stop="20260303144500 +0000" channel="CNN HD.starhub">
-        <title>Connect the World (45m)</title>
-    </programme>
-    <programme start="20260303144500 +0000" stop="20260303150000 +0000" channel="CNN HD.starhub">
-        <title>World Sport (15m)</title>
+    <programme start="20260303140000 +0000" stop="20260303150000 +0000" channel="CNN HD.starhub">
+        <title>Connect the World (60m)</title>
     </programme>
     <programme start="20260303150000 +0000" stop="20260303160000 +0000" channel="CNN HD.starhub">
         <title>Connect the World (60m)</title>
