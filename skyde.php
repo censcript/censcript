@@ -927,11 +927,8 @@ Warning: Undefined array key "et" in /usr/home/ManusiaBiasa/domains/manusiabiasa
 <programme start="20260303083000 +0000" stop="20260303103000 +0000" channel="DAZN 1 HD.skyde">
     <title>LaLiga 25/26: FC Barcelona - FC Villarreal</title>
 </programme>
-<programme start="20260303103000 +0000" stop="20260303123000 +0000" channel="DAZN 1 HD.skyde">
+<programme start="20260303103000 +0000" stop="20260303124500 +0000" channel="DAZN 1 HD.skyde">
     <title>Bundesliga 25/26: Hamburger SV - RB Leipzig</title>
-</programme>
-<programme start="20260303123000 +0000" stop="20260303124500 +0000" channel="DAZN 1 HD.skyde">
-    <title>Best of DAZN: Highlights</title>
 </programme>
 <programme start="20260303124500 +0000" stop="20260303140000 +0000" channel="DAZN 1 HD.skyde">
     <title>ALL IN - Die Bundesliga Highlight Show: 24. Spieltag</title>
@@ -2850,26 +2847,20 @@ Warning: Undefined array key "et" in /usr/home/ManusiaBiasa/domains/manusiabiasa
 <programme start="20260303175000 +0000" stop="20260303180000 +0000" channel="Sky Sport F1 HD.skyde">
     <title>F1: Max Verstappen: The DNA of a Champion</title>
 </programme>
-<programme start="20260303180000 +0000" stop="20260303181500 +0000" channel="Sky Sport F1 HD.skyde">
+<programme start="20260303180000 +0000" stop="20260303183000 +0000" channel="Sky Sport F1 HD.skyde">
     <title>F1: Warm Up Spezial - Der F1-Saisonstart</title>
 </programme>
-<programme start="20260303181500 +0000" stop="20260303191500 +0000" channel="Sky Sport F1 HD.skyde">
+<programme start="20260303183000 +0000" stop="20260303193000 +0000" channel="Sky Sport F1 HD.skyde">
     <title>IndyCar: Highlights: Firestone Grand Prix of St. Petersburg</title>
-</programme>
-<programme start="20260303191500 +0000" stop="20260303193000 +0000" channel="Sky Sport F1 HD.skyde">
-    <title>F1: Warm Up Spezial - Der F1-Saisonstart</title>
 </programme>
 <programme start="20260303193000 +0000" stop="20260303210000 +0000" channel="Sky Sport F1 HD.skyde">
     <title>WRC: Rally Sweden - SS18 Umea 2 (Wolf Power Stage)</title>
 </programme>
-<programme start="20260303210000 +0000" stop="20260303211500 +0000" channel="Sky Sport F1 HD.skyde">
+<programme start="20260303210000 +0000" stop="20260303213000 +0000" channel="Sky Sport F1 HD.skyde">
     <title>F1: Warm Up Spezial - Der F1-Saisonstart</title>
 </programme>
-<programme start="20260303211500 +0000" stop="20260303221500 +0000" channel="Sky Sport F1 HD.skyde">
+<programme start="20260303213000 +0000" stop="20260303223000 +0000" channel="Sky Sport F1 HD.skyde">
     <title>IndyCar: Highlights: Firestone Grand Prix of St. Petersburg</title>
-</programme>
-<programme start="20260303221500 +0000" stop="20260303223000 +0000" channel="Sky Sport F1 HD.skyde">
-    <title>F1: Warm Up Spezial - Der F1-Saisonstart</title>
 </programme>
 <programme start="20260303223000 +0000" stop="20260303230000 +0000" channel="Sky Sport F1 HD.skyde">
     <title>F1: Iconic Onboards: Oscar Piastri</title>
@@ -3033,7 +3024,10 @@ Warning: Undefined array key "et" in /usr/home/ManusiaBiasa/domains/manusiabiasa
 <programme start="20260303163000 +0000" stop="20260303170000 +0000" channel="Sky Sport News HD.skyde">
     <title>Live Sky Sport News: Der Nachmittag</title>
 </programme>
-<programme start="20260303170000 +0000" stop="20260303180000 +0000" channel="Sky Sport News HD.skyde">
+<programme start="20260303170000 +0000" stop="20260303173000 +0000" channel="Sky Sport News HD.skyde">
+    <title>Live Sky Sport News: Primetime Spezial - 100 Tage bis zur FIFA WM 2026</title>
+</programme>
+<programme start="20260303173000 +0000" stop="20260303180000 +0000" channel="Sky Sport News HD.skyde">
     <title>Live Sky Sport News: Primetime</title>
 </programme>
 <programme start="20260303180000 +0000" stop="20260303181500 +0000" channel="Sky Sport News HD.skyde">
@@ -3321,11 +3315,8 @@ Warning: Undefined array key "et" in /usr/home/ManusiaBiasa/domains/manusiabiasa
 <programme start="20260303190000 +0000" stop="20260303192000 +0000" channel="Sky Sport 1 HD.skyde">
     <title>Es folgt: LIVE PL</title>
 </programme>
-<programme start="20260303192000 +0000" stop="20260303220000 +0000" channel="Sky Sport 1 HD.skyde">
+<programme start="20260303192000 +0000" stop="20260303213000 +0000" channel="Sky Sport 1 HD.skyde">
     <title>Live PL: Leeds United - AFC Sunderland, 25. Spieltag</title>
-</programme>
-<programme start="20260303220000 +0000" stop="20260304000000 +0000" channel="Sky Sport 1 HD.skyde">
-    <title>Es folgt: ab 01:00: LIVE Basketball NBA</title>
 </programme>
 <programme start="20260303190000 +0000" stop="20260303192000 +0000" channel="Sky Sport 2 HD.skyde">
     <title>Es folgt: LIVE PL</title>
@@ -3735,10 +3726,10 @@ Warning: Undefined array key "et" in /usr/home/ManusiaBiasa/domains/manusiabiasa
 <programme start="20260303133000 +0000" stop="20260303153500 +0000" channel="Warner TV Film.skyde">
     <title>Kevin - Allein in New York</title>
 </programme>
-<programme start="20260303153500 +0000" stop="20260303170000 +0000" channel="Warner TV Film.skyde">
+<programme start="20260303153500 +0000" stop="20260303170500 +0000" channel="Warner TV Film.skyde">
     <title>16 Uhr 50 ab Paddington</title>
 </programme>
-<programme start="20260303170000 +0000" stop="20260303191500 +0000" channel="Warner TV Film.skyde">
+<programme start="20260303170500 +0000" stop="20260303191500 +0000" channel="Warner TV Film.skyde">
     <title>Der Sturm</title>
 </programme>
 <programme start="20260303191500 +0000" stop="20260303205500 +0000" channel="Warner TV Film.skyde">

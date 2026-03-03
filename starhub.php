@@ -898,11 +898,8 @@
     <programme start="20260303113000 +0000" stop="20260303120000 +0000" channel="Phoenix Chinese Channel HD.starhub">
         <title>Chief Editor&#039;S Time (3/3/26)</title>
     </programme>
-    <programme start="20260303120000 +0000" stop="20260303123000 +0000" channel="Phoenix Chinese Channel HD.starhub">
-        <title>Phoenix Panorama</title>
-    </programme>
-    <programme start="20260303123000 +0000" stop="20260303130000 +0000" channel="Phoenix Chinese Channel HD.starhub">
-        <title>Lawrence Viewpoint</title>
+    <programme start="20260303120000 +0000" stop="20260303130000 +0000" channel="Phoenix Chinese Channel HD.starhub">
+        <title>[Include: US and Israel Attack on Iran]</title>
     </programme>
     <programme start="20260303130000 +0000" stop="20260303140000 +0000" channel="Phoenix Chinese Channel HD.starhub">
         <title>Phoenix Evening Express (3/3/26)</title>
@@ -913,11 +910,8 @@
     <programme start="20260303143000 +0000" stop="20260303150000 +0000" channel="Phoenix Chinese Channel HD.starhub">
         <title>From Phoenix To The World (3/3/26)</title>
     </programme>
-    <programme start="20260303150000 +0000" stop="20260303153000 +0000" channel="Phoenix Chinese Channel HD.starhub">
-        <title>Asian Financial Insight</title>
-    </programme>
-    <programme start="20260303153000 +0000" stop="20260303160000 +0000" channel="Phoenix Chinese Channel HD.starhub">
-        <title>News Talk (3/3/26)</title>
+    <programme start="20260303150000 +0000" stop="20260303160000 +0000" channel="Phoenix Chinese Channel HD.starhub">
+        <title>[Include: US and Israel Attack on Iran]</title>
     </programme>
     <programme start="20260302160000 +0000" stop="20260302170000 +0000" channel="CGTN.starhub">
         <title>Global Business</title>
