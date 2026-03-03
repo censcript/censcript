@@ -6677,7 +6677,7 @@
         <title>Qatar ExxonMobil Open</title>
     </programme>
     <programme start="20260303083000 +0000" stop="20260303093000 +0000" channel="Hub Sports 1  HD.starhub">
-        <title>Abierto Mexicano Telcel presentado por HSBC</title>
+        <title>Abierto Mexicano Telcel p/b HSBC</title>
     </programme>
     <programme start="20260303093000 +0000" stop="20260303094500 +0000" channel="Hub Sports 1  HD.starhub">
         <title>Show 146</title>

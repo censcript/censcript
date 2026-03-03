@@ -3030,7 +3030,10 @@ Warning: Undefined array key "et" in /usr/home/ManusiaBiasa/domains/manusiabiasa
 <programme start="20260303163000 +0000" stop="20260303170000 +0000" channel="Sky Sport News HD.skyde">
     <title>Live Sky Sport News: Der Nachmittag</title>
 </programme>
-<programme start="20260303170000 +0000" stop="20260303180000 +0000" channel="Sky Sport News HD.skyde">
+<programme start="20260303170000 +0000" stop="20260303173000 +0000" channel="Sky Sport News HD.skyde">
+    <title>Live Sky Sport News: Primetime Spezial - 100 Tage bis zur FIFA WM 2026</title>
+</programme>
+<programme start="20260303173000 +0000" stop="20260303180000 +0000" channel="Sky Sport News HD.skyde">
     <title>Live Sky Sport News: Primetime</title>
 </programme>
 <programme start="20260303180000 +0000" stop="20260303181500 +0000" channel="Sky Sport News HD.skyde">
@@ -3318,8 +3321,11 @@ Warning: Undefined array key "et" in /usr/home/ManusiaBiasa/domains/manusiabiasa
 <programme start="20260303190000 +0000" stop="20260303192000 +0000" channel="Sky Sport 1 HD.skyde">
     <title>Es folgt: LIVE PL</title>
 </programme>
-<programme start="20260303192000 +0000" stop="20260303213000 +0000" channel="Sky Sport 1 HD.skyde">
+<programme start="20260303192000 +0000" stop="20260303220000 +0000" channel="Sky Sport 1 HD.skyde">
     <title>Live PL: Leeds United - AFC Sunderland, 25. Spieltag</title>
+</programme>
+<programme start="20260303220000 +0000" stop="20260304000000 +0000" channel="Sky Sport 1 HD.skyde">
+    <title>Es folgt: ab 01:00: LIVE Basketball NBA</title>
 </programme>
 <programme start="20260303190000 +0000" stop="20260303192000 +0000" channel="Sky Sport 2 HD.skyde">
     <title>Es folgt: LIVE PL</title>
