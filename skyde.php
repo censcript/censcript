@@ -927,8 +927,11 @@ Warning: Undefined array key "et" in /usr/home/ManusiaBiasa/domains/manusiabiasa
 <programme start="20260303083000 +0000" stop="20260303103000 +0000" channel="DAZN 1 HD.skyde">
     <title>LaLiga 25/26: FC Barcelona - FC Villarreal</title>
 </programme>
-<programme start="20260303103000 +0000" stop="20260303124500 +0000" channel="DAZN 1 HD.skyde">
+<programme start="20260303103000 +0000" stop="20260303123000 +0000" channel="DAZN 1 HD.skyde">
     <title>Bundesliga 25/26: Hamburger SV - RB Leipzig</title>
+</programme>
+<programme start="20260303123000 +0000" stop="20260303124500 +0000" channel="DAZN 1 HD.skyde">
+    <title>Best of DAZN: Highlights</title>
 </programme>
 <programme start="20260303124500 +0000" stop="20260303140000 +0000" channel="DAZN 1 HD.skyde">
     <title>ALL IN - Die Bundesliga Highlight Show: 24. Spieltag</title>
@@ -3030,10 +3033,7 @@ Warning: Undefined array key "et" in /usr/home/ManusiaBiasa/domains/manusiabiasa
 <programme start="20260303163000 +0000" stop="20260303170000 +0000" channel="Sky Sport News HD.skyde">
     <title>Live Sky Sport News: Der Nachmittag</title>
 </programme>
-<programme start="20260303170000 +0000" stop="20260303173000 +0000" channel="Sky Sport News HD.skyde">
-    <title>Live Sky Sport News: Primetime Spezial - 100 Tage bis zur FIFA WM 2026</title>
-</programme>
-<programme start="20260303173000 +0000" stop="20260303180000 +0000" channel="Sky Sport News HD.skyde">
+<programme start="20260303170000 +0000" stop="20260303180000 +0000" channel="Sky Sport News HD.skyde">
     <title>Live Sky Sport News: Primetime</title>
 </programme>
 <programme start="20260303180000 +0000" stop="20260303181500 +0000" channel="Sky Sport News HD.skyde">
@@ -3169,7 +3169,7 @@ Warning: Undefined array key "et" in /usr/home/ManusiaBiasa/domains/manusiabiasa
     <title>PL: AFC Bournemouth - FC Brentford, 29. Spieltag</title>
 </programme>
 <programme start="20260303003000 +0000" stop="20260303030000 +0000" channel="Sky Sport Tennis HD.skyde">
-    <title>WTA 500: Finale, C. Bucsa (ESP) - M. Frech (POL), Merida Open in Merida (MEX), Finale</title>
+    <title>WTA 500: C. Bucsa (ESP) - M. Frech (POL), Merida Open in Merida (MEX), Finale</title>
 </programme>
 <programme start="20260303030000 +0000" stop="20260303053000 +0000" channel="Sky Sport Tennis HD.skyde">
     <title>ATP 500: F. Cobolli (ITA) - F. Tiafoe (USA) Abierto Mexicano Telcel presented by HSBC in Acapulco (MEX), Finale</title>
@@ -3190,7 +3190,7 @@ Warning: Undefined array key "et" in /usr/home/ManusiaBiasa/domains/manusiabiasa
     <title>ATP 500: A. Rublev - T. Griekspoor (NED), Dubai Duty Free Tennis Championships in Dubai (VAE), Halbfinale 2</title>
 </programme>
 <programme start="20260303130000 +0000" stop="20260303153000 +0000" channel="Sky Sport Tennis HD.skyde">
-    <title>ATP 500: Finale, D. Medvedev - T. Griekspoor (NED) Dubai Duty Free Tennis Championships in Dubai (VAE), Finale</title>
+    <title>ATP 250: Y. Hanfmann (GER) - L. Darderi (ITA), BCI Seguros Chile Open in Santiago (CHI), Finale</title>
 </programme>
 <programme start="20260303153000 +0000" stop="20260303163000 +0000" channel="Sky Sport Tennis HD.skyde">
     <title>ATP 500: Review Dubai</title>
@@ -3202,7 +3202,7 @@ Warning: Undefined array key "et" in /usr/home/ManusiaBiasa/domains/manusiabiasa
     <title>WTA 500: HF2, J. Paolini (ITA) - C. Bucsa (ESP) Merida Open in Merida (MEX), Halbfinale 2</title>
 </programme>
 <programme start="20260303203000 +0000" stop="20260303230000 +0000" channel="Sky Sport Tennis HD.skyde">
-    <title>WTA 500: Finale, C. Bucsa (ESP) - M. Frech (POL), Merida Open in Merida (MEX), Finale</title>
+    <title>WTA 500: C. Bucsa (ESP) - M. Frech (POL), Merida Open in Merida (MEX), Finale</title>
 </programme>
 <programme start="20260302230000 +0000" stop="20260302233000 +0000" channel="Sky Sport Top Event HD.skyde">
     <title>EFL: Highlights, 35. Spieltag</title>
@@ -3735,10 +3735,10 @@ Warning: Undefined array key "et" in /usr/home/ManusiaBiasa/domains/manusiabiasa
 <programme start="20260303133000 +0000" stop="20260303153500 +0000" channel="Warner TV Film.skyde">
     <title>Kevin - Allein in New York</title>
 </programme>
-<programme start="20260303153500 +0000" stop="20260303170500 +0000" channel="Warner TV Film.skyde">
+<programme start="20260303153500 +0000" stop="20260303170000 +0000" channel="Warner TV Film.skyde">
     <title>16 Uhr 50 ab Paddington</title>
 </programme>
-<programme start="20260303170500 +0000" stop="20260303191500 +0000" channel="Warner TV Film.skyde">
+<programme start="20260303170000 +0000" stop="20260303191500 +0000" channel="Warner TV Film.skyde">
     <title>Der Sturm</title>
 </programme>
 <programme start="20260303191500 +0000" stop="20260303205500 +0000" channel="Warner TV Film.skyde">
