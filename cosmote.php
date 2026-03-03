@@ -1,7 +1,3 @@
-<programme start="20260303130000 +0700" stop="20260303154500 +0700" channel="COSMOTE Sport 1 HD">
-    <title>Football: ACF Fiorentina - Jagiellonia</title>
-    <desc>Live: Tidak</desc>
-</programme>
 <programme start="20260303154500 +0700" stop="20260303174500 +0700" channel="COSMOTE Sport 1 HD">
     <title>Football: Ferencvarosi TC - PFC Ludogorets 1945</title>
     <desc>Live: Tidak</desc>
@@ -126,6 +122,10 @@
     <title>Football: Pisa - Bologna</title>
     <desc>Live: Tidak</desc>
 </programme>
+<programme start="20260304161500 +0700" stop="20260304181500 +0700" channel="COSMOTE Sport 2 HD">
+    <title>Football: Sassuolo - Atalanta</title>
+    <desc>Live: Tidak</desc>
+</programme>
 <programme start="20260303150000 +0700" stop="20260303170000 +0700" channel="COSMOTE Sport 3 HD">
     <title>Football: Liverpool FC - Brighton &amp; Hove Albion</title>
     <desc>Live: Tidak</desc>
@@ -242,10 +242,6 @@
     <title>Basketball: Anadolu Efes - Trabzonspor</title>
     <desc>Live: Tidak</desc>
 </programme>
-<programme start="20260303141500 +0700" stop="20260303152500 +0700" channel="COSMOTE Sport 5 HD">
-    <title>2026 Grand Prix Show</title>
-    <desc>Live: Tidak</desc>
-</programme>
 <programme start="20260303152500 +0700" stop="20260303163000 +0700" channel="COSMOTE Sport 5 HD">
     <title>2025 Extreme H</title>
     <desc>Live: Tidak</desc>
@@ -347,6 +343,10 @@
     <desc>Live: Tidak</desc>
 </programme>
 <programme start="20260304151000 +0700" stop="20260304163500 +0700" channel="COSMOTE Sport 5 HD">
+    <title>DTM 2025</title>
+    <desc>Live: Tidak</desc>
+</programme>
+<programme start="20260304163500 +0700" stop="20260304182000 +0700" channel="COSMOTE Sport 5 HD">
     <title>DTM 2025</title>
     <desc>Live: Tidak</desc>
 </programme>
