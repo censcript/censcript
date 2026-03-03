@@ -1235,7 +1235,7 @@
     <title lang="id">Portugalský pohár</title>
   </programme>
   <programme start="20260304221500 +0000" stop="20260305003000 +0000" channel="JOJ Šport 2.webtv.sk">
-    <title lang="id">FIS Svetový pohár Super G muži</title>
+    <title lang="id">Volejbal - Niké Extraliga muži</title>
   </programme>
   <programme start="20260305003000 +0000" stop="20260305020000 +0000" channel="JOJ Šport 2.webtv.sk">
     <title lang="id">Tenis - turnaj</title>
@@ -1261,10 +1261,10 @@
   <programme start="20260305092500 +0000" stop="20260305114000 +0000" channel="JOJ Šport 2.webtv.sk">
     <title lang="id">FIS Beh na lyžiach</title>
   </programme>
-  <programme start="20260305114000 +0000" stop="20260305131000 +0000" channel="JOJ Šport 2.webtv.sk">
+  <programme start="20260305114000 +0000" stop="20260305130000 +0000" channel="JOJ Šport 2.webtv.sk">
     <title lang="id">FIS Svetový pohár zjazd muži</title>
   </programme>
-  <programme start="20260305131000 +0000" stop="20260305131500 +0000" channel="JOJ Šport 2.webtv.sk">
+  <programme start="20260305130000 +0000" stop="20260305131500 +0000" channel="JOJ Šport 2.webtv.sk">
     <title lang="id">FIFA MS 2026 na JOJSPORT</title>
   </programme>
   <programme start="20260305131500 +0000" stop="20260305155000 +0000" channel="JOJ Šport 2.webtv.sk">
