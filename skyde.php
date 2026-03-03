@@ -1215,31 +1215,34 @@ Warning: Undefined array key "et" in /usr/home/ManusiaBiasa/domains/manusiabiasa
 <programme start="20260303010000 +0000" stop="20260303013000 +0000" channel="Motorvision+.skyde">
     <title>Infomercial</title>
 </programme>
-<programme start="20260303013000 +0000" stop="20260303021500 +0000" channel="Motorvision+.skyde">
+<programme start="20260303013000 +0000" stop="20260303020000 +0000" channel="Motorvision+.skyde">
     <title>Infomercial</title>
 </programme>
-<programme start="20260303021500 +0000" stop="20260303024500 +0000" channel="Motorvision+.skyde">
+<programme start="20260303020000 +0000" stop="20260303022500 +0000" channel="Motorvision+.skyde">
     <title>Super Cars</title>
 </programme>
-<programme start="20260303024500 +0000" stop="20260303031000 +0000" channel="Motorvision+.skyde">
+<programme start="20260303022500 +0000" stop="20260303025500 +0000" channel="Motorvision+.skyde">
     <title>Dream Cars</title>
 </programme>
-<programme start="20260303031000 +0000" stop="20260303034000 +0000" channel="Motorvision+.skyde">
+<programme start="20260303025500 +0000" stop="20260303032000 +0000" channel="Motorvision+.skyde">
     <title>Top Speed Classic</title>
 </programme>
-<programme start="20260303034000 +0000" stop="20260303040500 +0000" channel="Motorvision+.skyde">
+<programme start="20260303032000 +0000" stop="20260303034500 +0000" channel="Motorvision+.skyde">
     <title>Gearing Up 2023</title>
 </programme>
-<programme start="20260303040500 +0000" stop="20260303043000 +0000" channel="Motorvision+.skyde">
+<programme start="20260303034500 +0000" stop="20260303040500 +0000" channel="Motorvision+.skyde">
+    <title>Tuning - Tiefer geht`s nicht!</title>
+</programme>
+<programme start="20260303040500 +0000" stop="20260303043500 +0000" channel="Motorvision+.skyde">
     <title>FIM Superenduro World Championship 2024</title>
 </programme>
-<programme start="20260303043000 +0000" stop="20260303050000 +0000" channel="Motorvision+.skyde">
+<programme start="20260303043500 +0000" stop="20260303050000 +0000" channel="Motorvision+.skyde">
     <title>FastZone 2024</title>
 </programme>
-<programme start="20260303050000 +0000" stop="20260303054500 +0000" channel="Motorvision+.skyde">
+<programme start="20260303050000 +0000" stop="20260303054000 +0000" channel="Motorvision+.skyde">
     <title>Report</title>
 </programme>
-<programme start="20260303054500 +0000" stop="20260303060500 +0000" channel="Motorvision+.skyde">
+<programme start="20260303054000 +0000" stop="20260303060500 +0000" channel="Motorvision+.skyde">
     <title>Dumbest Stuff on Wheels</title>
 </programme>
 <programme start="20260303060500 +0000" stop="20260303063500 +0000" channel="Motorvision+.skyde">
@@ -1248,37 +1251,37 @@ Warning: Undefined array key "et" in /usr/home/ManusiaBiasa/domains/manusiabiasa
 <programme start="20260303063500 +0000" stop="20260303070000 +0000" channel="Motorvision+.skyde">
     <title>Bike World 2024</title>
 </programme>
-<programme start="20260303070000 +0000" stop="20260303075000 +0000" channel="Motorvision+.skyde">
+<programme start="20260303070000 +0000" stop="20260303074500 +0000" channel="Motorvision+.skyde">
     <title>King of the Roads 2024</title>
 </programme>
-<programme start="20260303075000 +0000" stop="20260303081500 +0000" channel="Motorvision+.skyde">
+<programme start="20260303074500 +0000" stop="20260303081000 +0000" channel="Motorvision+.skyde">
     <title>Biker Lifestyle</title>
 </programme>
-<programme start="20260303081500 +0000" stop="20260303084000 +0000" channel="Motorvision+.skyde">
+<programme start="20260303081000 +0000" stop="20260303083500 +0000" channel="Motorvision+.skyde">
     <title>Classic</title>
 </programme>
-<programme start="20260303084000 +0000" stop="20260303091000 +0000" channel="Motorvision+.skyde">
+<programme start="20260303083500 +0000" stop="20260303091000 +0000" channel="Motorvision+.skyde">
     <title>Classic Ride</title>
 </programme>
-<programme start="20260303091000 +0000" stop="20260303093500 +0000" channel="Motorvision+.skyde">
+<programme start="20260303091000 +0000" stop="20260303093000 +0000" channel="Motorvision+.skyde">
     <title>Crash</title>
 </programme>
-<programme start="20260303093500 +0000" stop="20260303100000 +0000" channel="Motorvision+.skyde">
+<programme start="20260303093000 +0000" stop="20260303100000 +0000" channel="Motorvision+.skyde">
     <title>Made in....</title>
 </programme>
-<programme start="20260303100000 +0000" stop="20260303102500 +0000" channel="Motorvision+.skyde">
+<programme start="20260303100000 +0000" stop="20260303103000 +0000" channel="Motorvision+.skyde">
     <title>Top Speed Classic</title>
 </programme>
-<programme start="20260303102500 +0000" stop="20260303105500 +0000" channel="Motorvision+.skyde">
+<programme start="20260303103000 +0000" stop="20260303105500 +0000" channel="Motorvision+.skyde">
     <title>Car History</title>
 </programme>
 <programme start="20260303105500 +0000" stop="20260303112500 +0000" channel="Motorvision+.skyde">
     <title>FastZone 2024</title>
 </programme>
-<programme start="20260303112500 +0000" stop="20260303115500 +0000" channel="Motorvision+.skyde">
+<programme start="20260303112500 +0000" stop="20260303120000 +0000" channel="Motorvision+.skyde">
     <title>FIM World Motocross Championship 2024</title>
 </programme>
-<programme start="20260303115500 +0000" stop="20260303122000 +0000" channel="Motorvision+.skyde">
+<programme start="20260303120000 +0000" stop="20260303122000 +0000" channel="Motorvision+.skyde">
     <title>Perfect Ride</title>
 </programme>
 <programme start="20260303122000 +0000" stop="20260303125000 +0000" channel="Motorvision+.skyde">
@@ -1287,55 +1290,55 @@ Warning: Undefined array key "et" in /usr/home/ManusiaBiasa/domains/manusiabiasa
 <programme start="20260303125000 +0000" stop="20260303132000 +0000" channel="Motorvision+.skyde">
     <title>Dream Cars</title>
 </programme>
-<programme start="20260303132000 +0000" stop="20260303134500 +0000" channel="Motorvision+.skyde">
+<programme start="20260303132000 +0000" stop="20260303135000 +0000" channel="Motorvision+.skyde">
     <title>Gearing Up 2024</title>
 </programme>
-<programme start="20260303134500 +0000" stop="20260303141500 +0000" channel="Motorvision+.skyde">
+<programme start="20260303135000 +0000" stop="20260303142000 +0000" channel="Motorvision+.skyde">
     <title>Grüne Welle</title>
 </programme>
-<programme start="20260303141500 +0000" stop="20260303144000 +0000" channel="Motorvision+.skyde">
+<programme start="20260303142000 +0000" stop="20260303144500 +0000" channel="Motorvision+.skyde">
     <title>FIM World Motocross Championship 2024</title>
 </programme>
-<programme start="20260303144000 +0000" stop="20260303153000 +0000" channel="Motorvision+.skyde">
+<programme start="20260303144500 +0000" stop="20260303153000 +0000" channel="Motorvision+.skyde">
     <title>Australian Drag Racing Championship 2024</title>
 </programme>
-<programme start="20260303153000 +0000" stop="20260303155500 +0000" channel="Motorvision+.skyde">
+<programme start="20260303153000 +0000" stop="20260303160000 +0000" channel="Motorvision+.skyde">
     <title>FIM Enduro World Championship 2024</title>
 </programme>
-<programme start="20260303155500 +0000" stop="20260303164500 +0000" channel="Motorvision+.skyde">
+<programme start="20260303160000 +0000" stop="20260303165000 +0000" channel="Motorvision+.skyde">
     <title>Isle of Man Tourist Trophy 2025</title>
 </programme>
-<programme start="20260303164500 +0000" stop="20260303174000 +0000" channel="Motorvision+.skyde">
+<programme start="20260303165000 +0000" stop="20260303174500 +0000" channel="Motorvision+.skyde">
     <title>FIM X-Trial World Championship 2025</title>
 </programme>
-<programme start="20260303174000 +0000" stop="20260303183000 +0000" channel="Motorvision+.skyde">
+<programme start="20260303174500 +0000" stop="20260303183500 +0000" channel="Motorvision+.skyde">
     <title>FIM Sidecarcross World Championship 2024</title>
 </programme>
-<programme start="20260303183000 +0000" stop="20260303190000 +0000" channel="Motorvision+.skyde">
+<programme start="20260303183500 +0000" stop="20260303190000 +0000" channel="Motorvision+.skyde">
     <title>FIM Superenduro World Championship 2024</title>
 </programme>
-<programme start="20260303190000 +0000" stop="20260303194500 +0000" channel="Motorvision+.skyde">
+<programme start="20260303190000 +0000" stop="20260303195000 +0000" channel="Motorvision+.skyde">
     <title>King of the Roads 2024</title>
 </programme>
-<programme start="20260303194500 +0000" stop="20260303202000 +0000" channel="Motorvision+.skyde">
-    <title>Gearing Up 2025</title>
-</programme>
-<programme start="20260303202000 +0000" stop="20260303204500 +0000" channel="Motorvision+.skyde">
-    <title>4x4 - Das Allrad Magazin</title>
-</programme>
-<programme start="20260303204500 +0000" stop="20260303211500 +0000" channel="Motorvision+.skyde">
-    <title>Alpen Marathon</title>
-</programme>
-<programme start="20260303211500 +0000" stop="20260303214000 +0000" channel="Motorvision+.skyde">
-    <title>Bike World 2024</title>
-</programme>
-<programme start="20260303214000 +0000" stop="20260303221000 +0000" channel="Motorvision+.skyde">
-    <title>Perfect Ride</title>
-</programme>
-<programme start="20260303221000 +0000" stop="20260303224000 +0000" channel="Motorvision+.skyde">
+<programme start="20260303195000 +0000" stop="20260303201500 +0000" channel="Motorvision+.skyde">
     <title>Super Cars</title>
 </programme>
-<programme start="20260303224000 +0000" stop="20260303232500 +0000" channel="Motorvision+.skyde">
+<programme start="20260303201500 +0000" stop="20260303204000 +0000" channel="Motorvision+.skyde">
+    <title>MotorStories</title>
+</programme>
+<programme start="20260303204000 +0000" stop="20260303211500 +0000" channel="Motorvision+.skyde">
+    <title>Alpen Marathon</title>
+</programme>
+<programme start="20260303211500 +0000" stop="20260303214500 +0000" channel="Motorvision+.skyde">
+    <title>Motorcycles</title>
+</programme>
+<programme start="20260303214500 +0000" stop="20260303221500 +0000" channel="Motorvision+.skyde">
+    <title>Perfect Ride</title>
+</programme>
+<programme start="20260303221500 +0000" stop="20260303224000 +0000" channel="Motorvision+.skyde">
+    <title>Super Cars</title>
+</programme>
+<programme start="20260303224000 +0000" stop="20260303233000 +0000" channel="Motorvision+.skyde">
     <title>Road Wars Staffel 7</title>
 </programme>
 <programme start="20260302232000 +0000" stop="20260302234000 +0000" channel="Nick Jr..skyde">
@@ -2937,23 +2940,20 @@ Warning: Undefined array key "et" in /usr/home/ManusiaBiasa/domains/manusiabiasa
 <programme start="20260303020000 +0000" stop="20260303030000 +0000" channel="Sky Sport Mix HD.skyde">
     <title>MotoGP: Rennen - GP Thailand</title>
 </programme>
-<programme start="20260303030000 +0000" stop="20260303053000 +0000" channel="Sky Sport Mix HD.skyde">
+<programme start="20260303030000 +0000" stop="20260303054000 +0000" channel="Sky Sport Mix HD.skyde">
     <title>Live NBA: LA Clippers @ Golden State Warriors</title>
 </programme>
-<programme start="20260303053000 +0000" stop="20260303060000 +0000" channel="Sky Sport Mix HD.skyde">
+<programme start="20260303054000 +0000" stop="20260303060000 +0000" channel="Sky Sport Mix HD.skyde">
     <title>Live NBA: Showtime - Post Show</title>
 </programme>
 <programme start="20260303060000 +0000" stop="20260303080000 +0000" channel="Sky Sport Mix HD.skyde">
     <title>NHL: Detroit Red Wings @ Nashville Predators</title>
 </programme>
-<programme start="20260303080000 +0000" stop="20260303103000 +0000" channel="Sky Sport Mix HD.skyde">
+<programme start="20260303080000 +0000" stop="20260303105500 +0000" channel="Sky Sport Mix HD.skyde">
     <title>NBA: LA Clippers @ Golden State Warriors</title>
 </programme>
-<programme start="20260303103000 +0000" stop="20260303110000 +0000" channel="Sky Sport Mix HD.skyde">
+<programme start="20260303105500 +0000" stop="20260303130000 +0000" channel="Sky Sport Mix HD.skyde">
     <title>NBA: Showtime - Post Show</title>
-</programme>
-<programme start="20260303110000 +0000" stop="20260303130000 +0000" channel="Sky Sport Mix HD.skyde">
-    <title>NHL: Detroit Red Wings @ Nashville Predators</title>
 </programme>
 <programme start="20260303130000 +0000" stop="20260303133000 +0000" channel="Sky Sport Mix HD.skyde">
     <title>NHL: On the Fly</title>

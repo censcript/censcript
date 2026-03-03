@@ -274,20 +274,20 @@
     <title>Sports Classics: Gearing Up 2026 E2</title>
     <desc>Live: Tidak</desc>
 </programme>
-<programme start="20260304055000 +0700" stop="20260304065000 +0700" channel="COSMOTE Sport 5 HD">
+<programme start="20260304055000 +0700" stop="20260304070000 +0700" channel="COSMOTE Sport 5 HD">
     <title>2026 Grand Prix Show</title>
     <desc>Live: Tidak</desc>
 </programme>
-<programme start="20260304065000 +0700" stop="20260304073000 +0700" channel="COSMOTE Sport 5 HD">
+<programme start="20260304070000 +0700" stop="20260304074000 +0700" channel="COSMOTE Sport 5 HD">
     <title>Moto-E World Championship 2025</title>
     <desc>Live: Tidak</desc>
 </programme>
-<programme start="20260304073000 +0700" stop="20260304081500 +0700" channel="COSMOTE Sport 5 HD">
+<programme start="20260304074000 +0700" stop="20260304082500 +0700" channel="COSMOTE Sport 5 HD">
     <title>Moto-E World Championship 2025</title>
     <desc>Live: Tidak</desc>
 </programme>
-<programme start="20260304081500 +0700" stop="20260304084500 +0700" channel="COSMOTE Sport 5 HD">
-    <title>ERC 2025</title>
+<programme start="20260304082500 +0700" stop="20260304084500 +0700" channel="COSMOTE Sport 5 HD">
+    <title>Sports Classics: Worldies E4</title>
     <desc>Live: Tidak</desc>
 </programme>
 <programme start="20260304084500 +0700" stop="20260304091500 +0700" channel="COSMOTE Sport 5 HD">
