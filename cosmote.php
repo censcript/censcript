@@ -1,7 +1,3 @@
-<programme start="20260303194500 +0700" stop="20260303214500 +0700" channel="COSMOTE Sport 1 HD">
-    <title>Football: Paris Saint Germain - AS Monaco FC</title>
-    <desc>Live: Tidak</desc>
-</programme>
 <programme start="20260303214500 +0700" stop="20260303234500 +0700" channel="COSMOTE Sport 1 HD">
     <title>Football: Samsunspor - Shkendija</title>
     <desc>Live: Tidak</desc>
@@ -134,6 +130,10 @@
     <title>Sports Classics: Ultimate Rush S6 E6</title>
     <desc>Live: Tidak</desc>
 </programme>
+<programme start="20260304220000 +0700" stop="20260304230000 +0700" channel="COSMOTE Sport 2 HD">
+    <title>PreGame (L)</title>
+    <desc>Live: Ya</desc>
+</programme>
 <programme start="20260303210000 +0700" stop="20260303230000 +0700" channel="COSMOTE Sport 3 HD">
     <title>Football: Al Shabab - Al Hilal</title>
     <desc>Live: Tidak</desc>
@@ -184,10 +184,6 @@
 </programme>
 <programme start="20260304210000 +0700" stop="20260304230000 +0700" channel="COSMOTE Sport 3 HD">
     <title>Football: Al Fayha - Al Nassr</title>
-    <desc>Live: Tidak</desc>
-</programme>
-<programme start="20260303194000 +0700" stop="20260303215500 +0700" channel="COSMOTE Sport 4 HD">
-    <title>Basketball: Varese - Brescia</title>
     <desc>Live: Tidak</desc>
 </programme>
 <programme start="20260303215500 +0700" stop="20260303222500 +0700" channel="COSMOTE Sport 4 HD">
@@ -362,8 +358,8 @@
     <title>WRC 2026</title>
     <desc>Live: Tidak</desc>
 </programme>
-<programme start="20260303205000 +0700" stop="20260303211000 +0700" channel="COSMOTE Sport 6 HD">
-    <title>Sports Classics: Worldies E19</title>
+<programme start="20260304224500 +0700" stop="20260304234500 +0700" channel="COSMOTE Sport 5 HD">
+    <title>WRC</title>
     <desc>Live: Tidak</desc>
 </programme>
 <programme start="20260303211000 +0700" stop="20260303223000 +0700" channel="COSMOTE Sport 6 HD">
