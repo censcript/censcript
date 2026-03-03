@@ -2168,31 +2168,31 @@
         <title>Super Lig 2025/26: Antalyaspor vs Fenerbahce</title>
     </programme>
     <programme start="20260302165000 +0000" stop="20260302171500 +0000" channel="beIN Sports 2 HD.starhub">
-        <title>HSBC SVNS Series 2026: Japan vs Canada - Perth Day 2, Women</title>
+        <title>Japan vs Canada - Perth Day 2, Women</title>
     </programme>
     <programme start="20260302171500 +0000" stop="20260302174000 +0000" channel="beIN Sports 2 HD.starhub">
-        <title>HSBC SVNS Series 2026: Spain vs Argentina - Perth Day 2, Men</title>
+        <title>Spain vs Argentina - Perth Day 2, Men</title>
     </programme>
     <programme start="20260302174000 +0000" stop="20260302180500 +0000" channel="beIN Sports 2 HD.starhub">
-        <title>HSBC SVNS Series 2026: France vs USA - Perth Day 2, Women</title>
+        <title>France vs USA - Perth Day 2, Women</title>
     </programme>
     <programme start="20260302180500 +0000" stop="20260302183000 +0000" channel="beIN Sports 2 HD.starhub">
-        <title>HSBC SVNS Series 2026: New Zealand vs Australia - Perth Day 2, Men</title>
+        <title>New Zealand vs Australia - Perth Day 2, Men</title>
     </programme>
     <programme start="20260302183000 +0000" stop="20260302185500 +0000" channel="beIN Sports 2 HD.starhub">
-        <title>HSBC SVNS Series 2026: New Zealand vs Australia - Perth Day 2, Women</title>
+        <title>New Zealand vs Australia - Perth Day 2, Women</title>
     </programme>
     <programme start="20260302185500 +0000" stop="20260302192200 +0000" channel="beIN Sports 2 HD.starhub">
-        <title>HSBC SVNS Series 2026: Fiji vs South Africa - Perth Day 2, Men</title>
+        <title>Fiji vs South Africa - Perth Day 2, Men</title>
     </programme>
     <programme start="20260302192200 +0000" stop="20260302213000 +0000" channel="beIN Sports 2 HD.starhub">
-        <title>LaLiga 2 2025/26: Cordoba vs Andorra (Live)</title>
+        <title>Cordoba vs Andorra</title>
     </programme>
     <programme start="20260302213000 +0000" stop="20260302220000 +0000" channel="beIN Sports 2 HD.starhub">
         <title>Santos Tour Down Under - Stage 2</title>
     </programme>
     <programme start="20260302220000 +0000" stop="20260303010000 +0000" channel="beIN Sports 2 HD.starhub">
-        <title>UCI World Tour 2026: Santos Tour Down Under - Stage 2</title>
+        <title>Santos Tour Down Under - Stage 2</title>
     </programme>
     <programme start="20260303010000 +0000" stop="20260303011000 +0000" channel="beIN Sports 2 HD.starhub">
         <title>Riyadh P1 Women</title>
@@ -2204,25 +2204,25 @@
         <title>Santos Tour Down Under Post Event</title>
     </programme>
     <programme start="20260303031000 +0000" stop="20260303050000 +0000" channel="beIN Sports 2 HD.starhub">
-        <title>Super Lig 2025/26: Kocaelispor vs Besiktas</title>
+        <title>Kocaelispor vs Besiktas</title>
     </programme>
     <programme start="20260303050000 +0000" stop="20260303080000 +0000" channel="beIN Sports 2 HD.starhub">
-        <title>UCI World Tour 2026: Santos Tour Down Under - Stage 1</title>
+        <title>Santos Tour Down Under - Stage 1</title>
     </programme>
     <programme start="20260303080000 +0000" stop="20260303090000 +0000" channel="beIN Sports 2 HD.starhub">
         <title>Matchday 16</title>
     </programme>
     <programme start="20260303090000 +0000" stop="20260303110000 +0000" channel="beIN Sports 2 HD.starhub">
-        <title>Best Of AO 2026: Men&#039;s Singles Rd 4 Alcaraz v Paul</title>
+        <title>Men&#039;s Singles Rd 4 Alcaraz v Paul</title>
     </programme>
     <programme start="20260303110000 +0000" stop="20260303130000 +0000" channel="beIN Sports 2 HD.starhub">
-        <title>Best Of AO 2026: Men&#039;s Singles Rd 4 Medvedev v Tien</title>
+        <title>Men&#039;s Singles Rd 4 Medvedev v Tien</title>
     </programme>
     <programme start="20260303130000 +0000" stop="20260303150000 +0000" channel="beIN Sports 2 HD.starhub">
-        <title>Best Of AO 2026: Women&#039;s Singles Rd 4 Gauff v Muchova</title>
+        <title>Women&#039;s Singles Rd 4 Gauff v Muchova</title>
     </programme>
     <programme start="20260303150000 +0000" stop="20260303163000 +0000" channel="beIN Sports 2 HD.starhub">
-        <title>Premier Padel 2026: Gijon P2 Day 1 Match 1 (Live)</title>
+        <title>Gijon P2 Day 1 Match 1</title>
     </programme>
     <programme start="20260302160000 +0000" stop="20260302170000 +0000" channel="TVB Xing He.starhub">
         <title>Happy Ever After</title>
@@ -3799,11 +3799,11 @@
     <programme start="20260303151500 +0000" stop="20260303160000 +0000" channel="Cartoon Network.starhub">
         <title>In Dreams/Growing Pains/Mr. Universe</title>
     </programme>
-    <programme start="20260302154500 +0000" stop="20260302161500 +0000" channel="NHK World Premium HD.starhub">
+    <programme start="20260302160000 +0000" stop="20260302163000 +0000" channel="NHK World Premium HD.starhub">
         <title>Child-Rearing Hints &amp; Tips</title>
     </programme>
-    <programme start="20260302161500 +0000" stop="20260302164000 +0000" channel="NHK World Premium HD.starhub">
-        <title>Gretel&#039;s Magical Oven</title>
+    <programme start="20260302163000 +0000" stop="20260302164000 +0000" channel="NHK World Premium HD.starhub">
+        <title>Natural Grandeur of the East Mini</title>
     </programme>
     <programme start="20260302164000 +0000" stop="20260302171000 +0000" channel="NHK World Premium HD.starhub">
         <title>Japanese Narrative Art</title>
@@ -3829,14 +3829,17 @@
     <programme start="20260302183000 +0000" stop="20260302184500 +0000" channel="NHK World Premium HD.starhub">
         <title>Drama Serial &quot;The Ghost Writer&#039;s Wife&quot; Ep. 106 (R)</title>
     </programme>
-    <programme start="20260302184500 +0000" stop="20260302191200 +0000" channel="NHK World Premium HD.starhub">
-        <title>Today&#039;s Close-up (R)</title>
+    <programme start="20260302184500 +0000" stop="20260302191000 +0000" channel="NHK World Premium HD.starhub">
+        <title>Gretel&#039;s Magical Oven</title>
+    </programme>
+    <programme start="20260302191000 +0000" stop="20260302191200 +0000" channel="NHK World Premium HD.starhub">
+        <title>Mini Program</title>
     </programme>
     <programme start="20260302191200 +0000" stop="20260302191500 +0000" channel="NHK World Premium HD.starhub">
         <title>World Weather</title>
     </programme>
     <programme start="20260302191500 +0000" stop="20260302200000 +0000" channel="NHK World Premium HD.starhub">
-        <title>Tsurube&#039;s Salute to Families &quot;Tozuka Junki in Minamisoma City, Fukushima Prefecture&quot; (R)</title>
+        <title>Tsurube&#039;s Salute to Families &quot;Tozuka Junki in Minamisoma City, Fukushima Prefect</title>
     </programme>
     <programme start="20260302200000 +0000" stop="20260302201000 +0000" channel="NHK World Premium HD.starhub">
         <title>TV Exercise</title>
@@ -3875,12 +3878,12 @@
         <title>News &amp; Weather</title>
     </programme>
     <programme start="20260303010500 +0000" stop="20260303015000 +0000" channel="NHK World Premium HD.starhub">
-        <title>Tsurube&#039;s Salute to Families &quot;Tozuka Junki in Minamisoma City, Fukushima Prefecture&quot; (R)</title>
+        <title>Tsurube&#039;s Salute to Families &quot;Tozuka Junki in Minamisoma City, Fukushima Prefect</title>
     </programme>
-    <programme start="20260303015000 +0000" stop="20260303021700 +0000" channel="NHK World Premium HD.starhub">
-        <title>Today&#039;s Close-up (R)</title>
+    <programme start="20260303015000 +0000" stop="20260303021800 +0000" channel="NHK World Premium HD.starhub">
+        <title>Journeys in Japan (B) (R)</title>
     </programme>
-    <programme start="20260303021700 +0000" stop="20260303022000 +0000" channel="NHK World Premium HD.starhub">
+    <programme start="20260303021800 +0000" stop="20260303022000 +0000" channel="NHK World Premium HD.starhub">
         <title>Mini Program</title>
     </programme>
     <programme start="20260303022000 +0000" stop="20260303025000 +0000" channel="NHK World Premium HD.starhub">
@@ -3983,7 +3986,7 @@
         <title>Drama 10 &quot;Themis&#039;s Uncertain Court&quot; Ep. 7</title>
     </programme>
     <programme start="20260303134500 +0000" stop="20260303140000 +0000" channel="NHK World Premium HD.starhub">
-        <title>Night Drama Serial &quot;The Incidents are Happening All Around It.&quot; Series 2 Encore Ep. 2</title>
+        <title>Night Drama Serial &quot;The Incidents are Happening All Around It.&quot; Series 2 Encore</title>
     </programme>
     <programme start="20260303140000 +0000" stop="20260303143000 +0000" channel="NHK World Premium HD.starhub">
         <title>Budo Mind: KAMIWAZA (Final)</title>
@@ -6877,16 +6880,16 @@
     <programme start="20260302195500 +0000" stop="20260302220000 +0000" channel="beIN Sports HD.starhub">
         <title>LaLiga 2025/26: Real Madrid vs Getafe (Live)</title>
     </programme>
-    <programme start="20260302220000 +0000" stop="20260303000000 +0000" channel="beIN Sports HD.starhub">
+    <programme start="20260302220000 +0000" stop="20260302235000 +0000" channel="beIN Sports HD.starhub">
         <title>LaLiga 2025/26: Real Oviedo vs Atletico Madrid</title>
     </programme>
-    <programme start="20260303000000 +0000" stop="20260303020000 +0000" channel="beIN Sports HD.starhub">
+    <programme start="20260302235000 +0000" stop="20260303015000 +0000" channel="beIN Sports HD.starhub">
         <title>LFCTV 2025/26: Liverpool vs West Ham</title>
     </programme>
-    <programme start="20260303020000 +0000" stop="20260303023000 +0000" channel="beIN Sports HD.starhub">
+    <programme start="20260303015000 +0000" stop="20260303022500 +0000" channel="beIN Sports HD.starhub">
         <title>LFC Trending 2025/26</title>
     </programme>
-    <programme start="20260303023000 +0000" stop="20260303030000 +0000" channel="beIN Sports HD.starhub">
+    <programme start="20260303022500 +0000" stop="20260303030000 +0000" channel="beIN Sports HD.starhub">
         <title>Review Show: Nottingham Forest</title>
     </programme>
     <programme start="20260303030000 +0000" stop="20260303050000 +0000" channel="beIN Sports HD.starhub">
@@ -7379,37 +7382,37 @@
         <title>Tuu Juliet Jatt Di</title>
     </programme>
     <programme start="20260302160000 +0000" stop="20260302163000 +0000" channel="BBC World News HD.starhub">
-        <title>Verified Live</title>
+        <title>BBC News</title>
     </programme>
     <programme start="20260302163000 +0000" stop="20260302164500 +0000" channel="BBC World News HD.starhub">
         <title>Business Today</title>
     </programme>
     <programme start="20260302164500 +0000" stop="20260302170000 +0000" channel="BBC World News HD.starhub">
-        <title>Verified Live</title>
+        <title>BBC News</title>
     </programme>
     <programme start="20260302170000 +0000" stop="20260302173000 +0000" channel="BBC World News HD.starhub">
-        <title>Verified Live</title>
+        <title>BBC News</title>
     </programme>
     <programme start="20260302173000 +0000" stop="20260302180000 +0000" channel="BBC World News HD.starhub">
-        <title>Focus on Africa</title>
+        <title>BBC News</title>
     </programme>
     <programme start="20260302180000 +0000" stop="20260302183000 +0000" channel="BBC World News HD.starhub">
-        <title>The World Today with Maryam Moshiri</title>
+        <title>BBC News at Six</title>
     </programme>
     <programme start="20260302183000 +0000" stop="20260302190000 +0000" channel="BBC World News HD.starhub">
-        <title>The World Today with Maryam Moshiri</title>
+        <title>BBC News</title>
     </programme>
     <programme start="20260302190000 +0000" stop="20260302193000 +0000" channel="BBC World News HD.starhub">
-        <title>The World Today with Maryam Moshiri</title>
+        <title>BBC News</title>
     </programme>
     <programme start="20260302193000 +0000" stop="20260302200000 +0000" channel="BBC World News HD.starhub">
-        <title>The World Today with Maryam Moshiri</title>
+        <title>BBC News</title>
     </programme>
     <programme start="20260302200000 +0000" stop="20260302203000 +0000" channel="BBC World News HD.starhub">
-        <title>The Context</title>
+        <title>BBC News</title>
     </programme>
     <programme start="20260302203000 +0000" stop="20260302210000 +0000" channel="BBC World News HD.starhub">
-        <title>The Context</title>
+        <title>BBC News</title>
     </programme>
     <programme start="20260302210000 +0000" stop="20260302213000 +0000" channel="BBC World News HD.starhub">
         <title>The Context USA</title>
