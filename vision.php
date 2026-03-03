@@ -703,6 +703,9 @@
 <programme start="20260303003000 +0000" stop="20260303023000 +0000" channel="ANTV.vision">
 <title>Janji Inspektur Virat</title>
 </programme>
+<programme start="20260303023000 +0000" stop="20260303060000 +0000" channel="ANTV.vision">
+<title>Duplicate</title>
+</programme>
 <programme start="20260303060000 +0000" stop="20260303080000 +0000" channel="ANTV.vision">
 <title>Jhanak</title>
 </programme>
@@ -1494,7 +1497,4 @@
 </programme>
 <programme start="20260303111800 +0000" stop="20260303112300 +0000" channel="BTV.vision">
 <title>Filler Selamat Berbuka Puasa</title>
-</programme>
-<programme start="20260303112300 +0000" stop="20260303130000 +0000" channel="BTV.vision">
-<title>Berita Satu Utama</title>
 </programme>
