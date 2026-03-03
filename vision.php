@@ -718,9 +718,6 @@
 <programme start="20260303111000 +0000" stop="20260303113000 +0000" channel="ANTV.vision">
 <title>Sepiring Berduet</title>
 </programme>
-<programme start="20260303113000 +0000" stop="20260303133000 +0000" channel="ANTV.vision">
-<title>Saur Sepuh 4</title>
-</programme>
 <programme start="20260303133000 +0000" stop="20260303153000 +0000" channel="ANTV.vision">
 <title>Menggapai Matahari 2</title>
 </programme>
@@ -900,9 +897,6 @@
 </programme>
 <programme start="20260303110000 +0000" stop="20260303130000 +0000" channel="TVOne.vision">
 <title>Apa Kabar Indonesia Malam (L)</title>
-</programme>
-<programme start="20260303130000 +0000" stop="20260303143000 +0000" channel="TVOne.vision">
-<title>Catatan Demokrasi (L)</title>
 </programme>
 <programme start="20260303143000 +0000" stop="20260303153000 +0000" channel="TVOne.vision">
 <title>Kabar Utama (L)</title>
@@ -1497,4 +1491,10 @@
 </programme>
 <programme start="20260303080000 +0000" stop="20260303083000 +0000" channel="BTV.vision">
 <title>Berita Merah Putih</title>
+</programme>
+<programme start="20260303083000 +0000" stop="20260303090000 +0000" channel="BTV.vision">
+<title>Berita Kriminal</title>
+</programme>
+<programme start="20260303090000 +0000" stop="20260303100000 +0000" channel="BTV.vision">
+<title>Berita Satu Sore</title>
 </programme>

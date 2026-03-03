@@ -3824,7 +3824,7 @@
         <title>World Weather</title>
     </programme>
     <programme start="20260302191500 +0000" stop="20260302200000 +0000" channel="NHK World Premium HD.starhub">
-        <title>Tsurube&#039;s Salute to Families &quot;Tozuka Junki in Minamisoma City, Fukushima Prefect</title>
+        <title>Tsurube&#039;s Salute to Families &quot;Tozuka Junki in Minamisoma City, Fukushima Prefecture&quot; (R)</title>
     </programme>
     <programme start="20260302200000 +0000" stop="20260302201000 +0000" channel="NHK World Premium HD.starhub">
         <title>TV Exercise</title>
