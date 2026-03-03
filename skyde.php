@@ -3219,10 +3219,10 @@ Warning: Undefined array key "et" in /usr/home/ManusiaBiasa/domains/manusiabiasa
 <programme start="20260303023000 +0000" stop="20260303030000 +0000" channel="Sky Sport Top Event HD.skyde">
     <title>NBA: Action</title>
 </programme>
-<programme start="20260303030000 +0000" stop="20260303054000 +0000" channel="Sky Sport Top Event HD.skyde">
+<programme start="20260303030000 +0000" stop="20260303053000 +0000" channel="Sky Sport Top Event HD.skyde">
     <title>Live NBA: LA Clippers @ Golden State Warriors</title>
 </programme>
-<programme start="20260303054000 +0000" stop="20260303060000 +0000" channel="Sky Sport Top Event HD.skyde">
+<programme start="20260303053000 +0000" stop="20260303060000 +0000" channel="Sky Sport Top Event HD.skyde">
     <title>Live NBA: Showtime - Post Show</title>
 </programme>
 <programme start="20260303060000 +0000" stop="20260303070000 +0000" channel="Sky Sport Top Event HD.skyde">
@@ -3321,8 +3321,11 @@ Warning: Undefined array key "et" in /usr/home/ManusiaBiasa/domains/manusiabiasa
 <programme start="20260303190000 +0000" stop="20260303192000 +0000" channel="Sky Sport 1 HD.skyde">
     <title>Es folgt: LIVE PL</title>
 </programme>
-<programme start="20260303192000 +0000" stop="20260303213000 +0000" channel="Sky Sport 1 HD.skyde">
+<programme start="20260303192000 +0000" stop="20260303220000 +0000" channel="Sky Sport 1 HD.skyde">
     <title>Live PL: Leeds United - AFC Sunderland, 25. Spieltag</title>
+</programme>
+<programme start="20260303220000 +0000" stop="20260304000000 +0000" channel="Sky Sport 1 HD.skyde">
+    <title>Es folgt: ab 01:00: LIVE Basketball NBA</title>
 </programme>
 <programme start="20260303190000 +0000" stop="20260303192000 +0000" channel="Sky Sport 2 HD.skyde">
     <title>Es folgt: LIVE PL</title>
