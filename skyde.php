@@ -279,10 +279,10 @@ Warning: Undefined array key "et" in /usr/home/ManusiaBiasa/domains/manusiabiasa
 <programme start="20260303092000 +0000" stop="20260303093000 +0000" channel="Cartoon Network.skyde">
     <title>Die wunderbar schräge Welt von Gumball</title>
 </programme>
-<programme start="20260303093000 +0000" stop="20260303094000 +0000" channel="Cartoon Network.skyde">
+<programme start="20260303093000 +0000" stop="20260303094500 +0000" channel="Cartoon Network.skyde">
     <title>Die wunderbar schräge Welt von Gumball</title>
 </programme>
-<programme start="20260303094000 +0000" stop="20260303095500 +0000" channel="Cartoon Network.skyde">
+<programme start="20260303094500 +0000" stop="20260303095500 +0000" channel="Cartoon Network.skyde">
     <title>Die fantastische Welt von Gumball</title>
 </programme>
 <programme start="20260303095500 +0000" stop="20260303100500 +0000" channel="Cartoon Network.skyde">
@@ -3210,10 +3210,10 @@ Warning: Undefined array key "et" in /usr/home/ManusiaBiasa/domains/manusiabiasa
 <programme start="20260303023000 +0000" stop="20260303030000 +0000" channel="Sky Sport Top Event HD.skyde">
     <title>NBA: Action</title>
 </programme>
-<programme start="20260303030000 +0000" stop="20260303054000 +0000" channel="Sky Sport Top Event HD.skyde">
+<programme start="20260303030000 +0000" stop="20260303053000 +0000" channel="Sky Sport Top Event HD.skyde">
     <title>Live NBA: LA Clippers @ Golden State Warriors</title>
 </programme>
-<programme start="20260303054000 +0000" stop="20260303060000 +0000" channel="Sky Sport Top Event HD.skyde">
+<programme start="20260303053000 +0000" stop="20260303060000 +0000" channel="Sky Sport Top Event HD.skyde">
     <title>Live NBA: Showtime - Post Show</title>
 </programme>
 <programme start="20260303060000 +0000" stop="20260303070000 +0000" channel="Sky Sport Top Event HD.skyde">
