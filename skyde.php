@@ -1962,6 +1962,96 @@ Warning: Undefined array key "et" in /usr/home/ManusiaBiasa/domains/manusiabiasa
 <programme start="20260304224500 +0000" stop="20260305002500 +0000" channel="Sky Cinema Premiere HD.skyde">
     <title>The Critic</title>
 </programme>
+<programme start="20260303233000 +0000" stop="20260304000500 +0000" channel="Sky Crime HD.skyde">
+    <title>Zeit Verbrechen - Spurensuche</title>
+</programme>
+<programme start="20260304000500 +0000" stop="20260304004000 +0000" channel="Sky Crime HD.skyde">
+    <title>Zeit Verbrechen - Spurensuche</title>
+</programme>
+<programme start="20260304004000 +0000" stop="20260304012500 +0000" channel="Sky Crime HD.skyde">
+    <title>Prosecuting Evil with Kelly Siegler</title>
+</programme>
+<programme start="20260304012500 +0000" stop="20260304020500 +0000" channel="Sky Crime HD.skyde">
+    <title>Prosecuting Evil with Kelly Siegler</title>
+</programme>
+<programme start="20260304020500 +0000" stop="20260304030000 +0000" channel="Sky Crime HD.skyde">
+    <title>Auf der Spur des Verbrechens - Forensiker im Einsatz</title>
+</programme>
+<programme start="20260304030000 +0000" stop="20260304041000 +0000" channel="Sky Crime HD.skyde">
+    <title>Auf der Spur des Verbrechens - Forensiker im Einsatz</title>
+</programme>
+<programme start="20260304041000 +0000" stop="20260304045500 +0000" channel="Sky Crime HD.skyde">
+    <title>Forensik - Der Schlüssel zur Wahrheit</title>
+</programme>
+<programme start="20260304045500 +0000" stop="20260304054000 +0000" channel="Sky Crime HD.skyde">
+    <title>Hours to Kill - Zeitachse des Todes</title>
+</programme>
+<programme start="20260304054000 +0000" stop="20260304063000 +0000" channel="Sky Crime HD.skyde">
+    <title>Killer on the Line - Notruf Mord</title>
+</programme>
+<programme start="20260304063000 +0000" stop="20260304071500 +0000" channel="Sky Crime HD.skyde">
+    <title>The First 48</title>
+</programme>
+<programme start="20260304071500 +0000" stop="20260304080000 +0000" channel="Sky Crime HD.skyde">
+    <title>The First 48</title>
+</programme>
+<programme start="20260304080000 +0000" stop="20260304085000 +0000" channel="Sky Crime HD.skyde">
+    <title>Tödliche Begegnungen</title>
+</programme>
+<programme start="20260304085000 +0000" stop="20260304094000 +0000" channel="Sky Crime HD.skyde">
+    <title>Tödliche Begegnungen</title>
+</programme>
+<programme start="20260304094000 +0000" stop="20260304103000 +0000" channel="Sky Crime HD.skyde">
+    <title>Teuflische Nachbarn</title>
+</programme>
+<programme start="20260304103000 +0000" stop="20260304112000 +0000" channel="Sky Crime HD.skyde">
+    <title>Teuflische Nachbarn</title>
+</programme>
+<programme start="20260304112000 +0000" stop="20260304120500 +0000" channel="Sky Crime HD.skyde">
+    <title>Hours to Kill - Zeitachse des Todes</title>
+</programme>
+<programme start="20260304120500 +0000" stop="20260304125500 +0000" channel="Sky Crime HD.skyde">
+    <title>Hours to Kill - Zeitachse des Todes</title>
+</programme>
+<programme start="20260304125500 +0000" stop="20260304134000 +0000" channel="Sky Crime HD.skyde">
+    <title>The First 48</title>
+</programme>
+<programme start="20260304134000 +0000" stop="20260304142500 +0000" channel="Sky Crime HD.skyde">
+    <title>The First 48</title>
+</programme>
+<programme start="20260304142500 +0000" stop="20260304151000 +0000" channel="Sky Crime HD.skyde">
+    <title>Prosecuting Evil with Kelly Siegler</title>
+</programme>
+<programme start="20260304151000 +0000" stop="20260304160000 +0000" channel="Sky Crime HD.skyde">
+    <title>Prosecuting Evil with Kelly Siegler</title>
+</programme>
+<programme start="20260304160000 +0000" stop="20260304165000 +0000" channel="Sky Crime HD.skyde">
+    <title>Teuflische Nachbarn</title>
+</programme>
+<programme start="20260304165000 +0000" stop="20260304174000 +0000" channel="Sky Crime HD.skyde">
+    <title>Teuflische Nachbarn</title>
+</programme>
+<programme start="20260304174000 +0000" stop="20260304182500 +0000" channel="Sky Crime HD.skyde">
+    <title>The First 48</title>
+</programme>
+<programme start="20260304182500 +0000" stop="20260304191500 +0000" channel="Sky Crime HD.skyde">
+    <title>The First 48</title>
+</programme>
+<programme start="20260304191500 +0000" stop="20260304200000 +0000" channel="Sky Crime HD.skyde">
+    <title>Snapped: Behind Bars</title>
+</programme>
+<programme start="20260304200000 +0000" stop="20260304212500 +0000" channel="Sky Crime HD.skyde">
+    <title>Snapped: Behind Bars</title>
+</programme>
+<programme start="20260304212500 +0000" stop="20260304221000 +0000" channel="Sky Crime HD.skyde">
+    <title>Prosecuting Evil with Kelly Siegler</title>
+</programme>
+<programme start="20260304221000 +0000" stop="20260304225500 +0000" channel="Sky Crime HD.skyde">
+    <title>Prosecuting Evil with Kelly Siegler</title>
+</programme>
+<programme start="20260304225500 +0000" stop="20260304234500 +0000" channel="Sky Crime HD.skyde">
+    <title>Whistleblower - Der Preis der Wahrheit</title>
+</programme>
 <programme start="20260303232000 +0000" stop="20260304000500 +0000" channel="Sky Documentaries HD.skyde">
     <title>Feuer &amp; Flamme</title>
 </programme>
@@ -3100,10 +3190,10 @@ Warning: Undefined array key "et" in /usr/home/ManusiaBiasa/domains/manusiabiasa
     <title>Info: UHD</title>
 </programme>
 <programme start="20260304040000 +0000" stop="20260304060000 +0000" channel="Sky Sport UHD.skyde">
-    <title>F1: Rennen - GP Abu Dhabi 2025</title>
+    <title>F1: Rennen - GP Las Vegas</title>
 </programme>
 <programme start="20260304040000 +0000" stop="20260304060000 +0000" channel="Sky Sport UHD.skyde">
-    <title>F1: Rennen - GP Las Vegas</title>
+    <title>F1: Rennen - GP Abu Dhabi 2025</title>
 </programme>
 <programme start="20260304053000 +0000" stop="20260304060000 +0000" channel="Sky Sport UHD.skyde">
     <title>Golf: Greatest Holes (3)</title>
@@ -3117,7 +3207,7 @@ Warning: Undefined array key "et" in /usr/home/ManusiaBiasa/domains/manusiabiasa
 <programme start="20260304000000 +0000" stop="20260304010000 +0000" channel="Sky Sport 1 HD.skyde">
     <title>Live NBA: Showtime</title>
 </programme>
-<programme start="20260304010000 +0000" stop="20260304040000 +0000" channel="Sky Sport 1 HD.skyde">
+<programme start="20260304010000 +0000" stop="20260304090000 +0000" channel="Sky Sport 1 HD.skyde">
     <title>Live NBA: San Antonio Spurs @ Philadelphia 76ers</title>
 </programme>
 <programme start="20260304184000 +0000" stop="20260304190000 +0000" channel="Sky Sport 1 HD.skyde">
@@ -3129,7 +3219,7 @@ Warning: Undefined array key "et" in /usr/home/ManusiaBiasa/domains/manusiabiasa
 <programme start="20260304190000 +0000" stop="20260304192000 +0000" channel="Sky Sport 2 HD.skyde">
     <title>Es folgt: LIVE PL</title>
 </programme>
-<programme start="20260304192000 +0000" stop="20260304213000 +0000" channel="Sky Sport 2 HD.skyde">
+<programme start="20260304192000 +0000" stop="20260304220000 +0000" channel="Sky Sport 2 HD.skyde">
     <title>Live PL: Brighton &amp; Hove Albion - FC Arsenal, 29. Spieltag</title>
 </programme>
 <programme start="20260304190000 +0000" stop="20260304192000 +0000" channel="Sky Sport 3 HD.skyde">
@@ -3141,13 +3231,13 @@ Warning: Undefined array key "et" in /usr/home/ManusiaBiasa/domains/manusiabiasa
 <programme start="20260304190000 +0000" stop="20260304192000 +0000" channel="Sky Sport 4 HD.skyde">
     <title>Es folgt: LIVE PL</title>
 </programme>
-<programme start="20260304192000 +0000" stop="20260304213000 +0000" channel="Sky Sport 4 HD.skyde">
+<programme start="20260304192000 +0000" stop="20260304220000 +0000" channel="Sky Sport 4 HD.skyde">
     <title>Live PL: Aston Villa - FC Chelsea, 29. Spieltag</title>
 </programme>
 <programme start="20260304190000 +0000" stop="20260304192000 +0000" channel="Sky Sport 5 HD.skyde">
     <title>Es folgt: LIVE PL</title>
 </programme>
-<programme start="20260304192000 +0000" stop="20260304213000 +0000" channel="Sky Sport 5 HD.skyde">
+<programme start="20260304192000 +0000" stop="20260304220000 +0000" channel="Sky Sport 5 HD.skyde">
     <title>Live PL: FC Fulham - West Ham United, 29. Spieltag</title>
 </programme>
 <programme start="20260303232000 +0000" stop="20260304000500 +0000" channel="SYFY HD.skyde">
