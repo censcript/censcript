@@ -2965,7 +2965,7 @@ Warning: Undefined array key "et" in /usr/home/ManusiaBiasa/domains/manusiabiasa
     <title>Live PL: Newcastle United - Manchester United, Match of the Week, 29. Spieltag</title>
 </programme>
 <programme start="20260304221500 +0000" stop="20260304230000 +0000" channel="Sky Sport Mix HD.skyde">
-    <title>Live PL: Match of the Week: Die Analyse, NEW - MUN, 29. Spieltag</title>
+    <title>Live PL: Match of the Week: Die Analyse, NEW - MUN, 19. Spieltag</title>
 </programme>
 <programme start="20260303230000 +0000" stop="20260304000000 +0000" channel="Sky Sport News HD.skyde">
     <title>Sky Sport News: Nightline</title>
@@ -3207,7 +3207,7 @@ Warning: Undefined array key "et" in /usr/home/ManusiaBiasa/domains/manusiabiasa
 <programme start="20260304000000 +0000" stop="20260304010000 +0000" channel="Sky Sport 1 HD.skyde">
     <title>Live NBA: Showtime</title>
 </programme>
-<programme start="20260304010000 +0000" stop="20260304090000 +0000" channel="Sky Sport 1 HD.skyde">
+<programme start="20260304010000 +0000" stop="20260304040000 +0000" channel="Sky Sport 1 HD.skyde">
     <title>Live NBA: San Antonio Spurs @ Philadelphia 76ers</title>
 </programme>
 <programme start="20260304184000 +0000" stop="20260304190000 +0000" channel="Sky Sport 1 HD.skyde">
