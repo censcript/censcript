@@ -727,6 +727,9 @@
 <programme start="20260304111000 +0000" stop="20260304113000 +0000" channel="ANTV.vision">
 <title>Sepiring Berduet</title>
 </programme>
+<programme start="20260304113000 +0000" stop="20260304133000 +0000" channel="ANTV.vision">
+<title>Preman</title>
+</programme>
 <programme start="20260304133000 +0000" stop="20260304153000 +0000" channel="ANTV.vision">
 <title>Cinta Kembar</title>
 </programme>
@@ -906,6 +909,9 @@
 </programme>
 <programme start="20260304110000 +0000" stop="20260304130000 +0000" channel="TVOne.vision">
 <title>Apa Kabar Indonesia Malam (L)</title>
+</programme>
+<programme start="20260304130000 +0000" stop="20260304140000 +0000" channel="TVOne.vision">
+<title>Indonesia Bisnis Forum (L)</title>
 </programme>
 <programme start="20260304140000 +0000" stop="20260304150000 +0000" channel="TVOne.vision">
 <title>Kabar Utama (L)</title>
@@ -1491,10 +1497,4 @@
 </programme>
 <programme start="20260304113000 +0000" stop="20260304120000 +0000" channel="DAAI TV.vision">
 <title>Cerita Dan Rasa</title>
-</programme>
-<programme start="20260304120000 +0000" stop="20260304123000 +0000" channel="DAAI TV.vision">
-<title>Potret</title>
-</programme>
-<programme start="20260304123000 +0000" stop="20260304130000 +0000" channel="DAAI TV.vision">
-<title>Pelindung Alam</title>
 </programme>

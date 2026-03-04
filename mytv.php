@@ -82,10 +82,10 @@
     <programme start="20260304130000 +0000" stop="20260304134500 +0000" channel="VTV1 HD.mytv">
         <title> Nhịp sống tuổi bạc </title>
     </programme>
-    <programme start="20260304134500 +0000" stop="20260304140000 +0000" channel="VTV1 HD.mytv">
-        <title> VTV Sống khỏe : Công nghệ giúp người khuyết tật </title>
+    <programme start="20260304134500 +0000" stop="20260304140200 +0000" channel="VTV1 HD.mytv">
+        <title> VTV Sống khỏe : Công nghệ giúp người khuyết tật hòa nhập cộng đồng </title>
     </programme>
-    <programme start="20260304140000 +0000" stop="20260304144100 +0000" channel="VTV1 HD.mytv">
+    <programme start="20260304140200 +0000" stop="20260304144100 +0000" channel="VTV1 HD.mytv">
         <title> Từ những miền quê : Bình yên Bảo Lộc </title>
     </programme>
     <programme start="20260304144100 +0000" stop="20260304145700 +0000" channel="VTV1 HD.mytv">
@@ -103,19 +103,19 @@
     <programme start="20260304163000 +0000" stop="20260304170000 +0000" channel="VTV1 HD.mytv">
         <title> Thời sự </title>
     </programme>
-    <programme start="20260304170000 +0000" stop="20260304171500 +0000" channel="VTV1 HD.mytv">
+    <programme start="20260304170000 +0000" stop="20260304171300 +0000" channel="VTV1 HD.mytv">
         <title> Câu chuyện quốc tế </title>
     </programme>
-    <programme start="20260304171500 +0000" stop="20260304173000 +0000" channel="VTV1 HD.mytv">
+    <programme start="20260304171300 +0000" stop="20260304173000 +0000" channel="VTV1 HD.mytv">
         <title> Dân tộc và phát triển : Du lịch Quảng Ngãi bứt phá sau sáp nhập </title>
     </programme>
     <programme start="20260304173000 +0000" stop="20260304180000 +0000" channel="VTV1 HD.mytv">
         <title> Việt Nam đa sắc </title>
     </programme>
-    <programme start="20260304180000 +0000" stop="20260304181000 +0000" channel="VTV1 HD.mytv">
-        <title> Phụ nữ và cuộc sống : Nêu cao tinh thần trách nhiệm </title>
+    <programme start="20260304180000 +0000" stop="20260304180900 +0000" channel="VTV1 HD.mytv">
+        <title> Phụ nữ và cuộc sống : Phát huy tinh thần trách nhiệm </title>
     </programme>
-    <programme start="20260304181000 +0000" stop="20260304182000 +0000" channel="VTV1 HD.mytv">
+    <programme start="20260304180900 +0000" stop="20260304182000 +0000" channel="VTV1 HD.mytv">
         <title> Hành trình vẻ đẹp : Những món ăn quê nhà </title>
     </programme>
     <programme start="20260304182000 +0000" stop="20260304183000 +0000" channel="VTV1 HD.mytv">
@@ -133,28 +133,25 @@
     <programme start="20260304204000 +0000" stop="20260304205500 +0000" channel="VTV1 HD.mytv">
         <title> Điểm tin </title>
     </programme>
-    <programme start="20260304205500 +0000" stop="20260304210000 +0000" channel="VTV1 HD.mytv">
-        <title> S - Việt Nam : Mâm cỗ lá của người Mường </title>
+    <programme start="20260304205500 +0000" stop="20260304210100 +0000" channel="VTV1 HD.mytv">
+        <title> S - Việt Nam : Hành trình mỹ vị ở Phú Quốc </title>
     </programme>
-    <programme start="20260304210000 +0000" stop="20260304210500 +0000" channel="VTV1 HD.mytv">
+    <programme start="20260304210100 +0000" stop="20260304210600 +0000" channel="VTV1 HD.mytv">
         <title> Việt Nam vui khỏe </title>
     </programme>
-    <programme start="20260304210500 +0000" stop="20260304211000 +0000" channel="VTV1 HD.mytv">
+    <programme start="20260304210600 +0000" stop="20260304211100 +0000" channel="VTV1 HD.mytv">
         <title> Kỷ nguyên vươn mình : Vươn lên làm chủ công nghệ chiến lược </title>
     </programme>
-    <programme start="20260304211000 +0000" stop="20260304214000 +0000" channel="VTV1 HD.mytv">
+    <programme start="20260304211100 +0000" stop="20260304214300 +0000" channel="VTV1 HD.mytv">
         <title> Phóng sự : Chọn người xứng đáng, gửi trọn niềm tin </title>
     </programme>
-    <programme start="20260304214000 +0000" stop="20260304215000 +0000" channel="VTV1 HD.mytv">
-        <title> Hà Nội chuyển động </title>
-    </programme>
-    <programme start="20260304215000 +0000" stop="20260304215500 +0000" channel="VTV1 HD.mytv">
+    <programme start="20260304214300 +0000" stop="20260304215600 +0000" channel="VTV1 HD.mytv">
         <title> Thương hiệu quốc gia Việt Nam : Cải cách để đồng hành cùng doanh nghiệp </title>
     </programme>
-    <programme start="20260304215500 +0000" stop="20260304220000 +0000" channel="VTV1 HD.mytv">
+    <programme start="20260304215600 +0000" stop="20260304220200 +0000" channel="VTV1 HD.mytv">
         <title> Phim truyện : Không giới hạn - Tập 18 </title>
     </programme>
-    <programme start="20260304220000 +0000" stop="20260304223000 +0000" channel="VTV1 HD.mytv">
+    <programme start="20260304220200 +0000" stop="20260304223000 +0000" channel="VTV1 HD.mytv">
         <title> Tài chính - Kinh doanh </title>
     </programme>
     <programme start="20260304223000 +0000" stop="20260304225500 +0000" channel="VTV1 HD.mytv">
