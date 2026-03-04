@@ -15765,7 +15765,7 @@
     <desc lang="en">Witness the best moments of ONE Championship fights</desc>
     <category lang="en">Sports</category>
   </programme>
-  <programme start="20260304160000 +0000" stop="20260304180000 +0000" channel="beinsports3.unifitv">
+  <programme start="20260304160000 +0000" stop="20260304174500 +0000" channel="beinsports3.unifitv">
     <title lang="en">UEFA Champions League - Leverkusen vs Olympiacos - KO Play-Offs,2nd Leg</title>
     <desc lang="en">The most prestigious tournament in the world contested by top-division elite European clubs</desc>
     <category lang="en">Sports</category>

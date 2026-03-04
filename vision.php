@@ -1205,7 +1205,7 @@
 <title>Primetime News</title>
 </programme>
 <programme start="20260304110000 +0000" stop="20260304113000 +0000" channel="Metro TV.vision">
-<title>Kitchen Beb</title>
+<title>Cahaya Hati</title>
 </programme>
 <programme start="20260304113000 +0000" stop="20260304115000 +0000" channel="Metro TV.vision">
 <title>Primetime News</title>
@@ -1451,7 +1451,7 @@
 <title>Primetime News</title>
 </programme>
 <programme start="20260305110000 +0000" stop="20260305113000 +0000" channel="Metro TV.vision">
-<title>Kitchen Beb</title>
+<title>Cahaya Hati</title>
 </programme>
 <programme start="20260305113000 +0000" stop="20260305115000 +0000" channel="Metro TV.vision">
 <title>Primetime News</title>
