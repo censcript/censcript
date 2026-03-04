@@ -2682,11 +2682,8 @@ Warning: Undefined array key "et" in /usr/home/ManusiaBiasa/domains/manusiabiasa
 <programme start="20260304220000 +0000" stop="20260304231500 +0000" channel="Sky Sport Austria 1 HD.skyde">
     <title>Talk &amp; Tore: Fußball-Talk</title>
 </programme>
-<programme start="20260303230000 +0000" stop="20260303233000 +0000" channel="Sky Sport Bundesliga HD.skyde">
-    <title>3. Liga: Alle Spiele, alle Tore, 27. Spieltag, Dienstag</title>
-</programme>
-<programme start="20260303233000 +0000" stop="20260304000000 +0000" channel="Sky Sport Bundesliga HD.skyde">
-    <title>BL: 90in30: BVB - FCB, 24. Spieltag</title>
+<programme start="20260303230000 +0000" stop="20260304000000 +0000" channel="Sky Sport Bundesliga HD.skyde">
+    <title>BL Kompakt: 24. Spieltag</title>
 </programme>
 <programme start="20260304000000 +0000" stop="20260304020000 +0000" channel="Sky Sport Bundesliga HD.skyde">
     <title>2. BL: Freitags-Konferenz, 24. Spieltag</title>
@@ -2908,7 +2905,7 @@ Warning: Undefined array key "et" in /usr/home/ManusiaBiasa/domains/manusiabiasa
     <title>Asian Tour: Highlights New Zealand Open</title>
 </programme>
 <programme start="20260303230000 +0000" stop="20260303233000 +0000" channel="Sky Sport Mix HD.skyde">
-    <title>3. Liga: Alle Spiele, alle Tore, 27. Spieltag, Dienstag</title>
+    <title>Fußball: scooore Niederlande! Alle Tore</title>
 </programme>
 <programme start="20260303233000 +0000" stop="20260304000000 +0000" channel="Sky Sport Mix HD.skyde">
     <title>NHL: On the Fly</title>
@@ -3190,10 +3187,10 @@ Warning: Undefined array key "et" in /usr/home/ManusiaBiasa/domains/manusiabiasa
     <title>Info: UHD</title>
 </programme>
 <programme start="20260304040000 +0000" stop="20260304060000 +0000" channel="Sky Sport UHD.skyde">
-    <title>F1: Rennen - GP Las Vegas</title>
+    <title>F1: Rennen - GP Abu Dhabi 2025</title>
 </programme>
 <programme start="20260304040000 +0000" stop="20260304060000 +0000" channel="Sky Sport UHD.skyde">
-    <title>F1: Rennen - GP Abu Dhabi 2025</title>
+    <title>F1: Rennen - GP Las Vegas</title>
 </programme>
 <programme start="20260304053000 +0000" stop="20260304060000 +0000" channel="Sky Sport UHD.skyde">
     <title>Golf: Greatest Holes (3)</title>
