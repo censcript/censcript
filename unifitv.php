@@ -12866,7 +12866,7 @@
   </programme>
   <programme start="20260303163300 +0000" stop="20260303170300 +0000" channel="aljazeera.unifitv">
     <title lang="en">Counting the Cost</title>
-    <desc lang="en">Counting the Cost provides background to the economics stories that shape our world and impact the lives of ordinary people.</desc>
+    <desc lang="en">Is Trump's economic policy faltering or is American protectionism under strain?</desc>
     <category lang="en">News</category>
     <episode-num system="xmltv_ns">0.8.</episode-num>
     <episode-num system="onscreen">S1E9</episode-num>
@@ -12900,10 +12900,10 @@
   </programme>
   <programme start="20260303200300 +0000" stop="20260303210300 +0000" channel="aljazeera.unifitv">
     <title lang="en">Al Jazeera World</title>
-    <desc lang="en">A series of one-hour documentaries showcasing films from across the Al Jazeera Network.</desc>
+    <desc lang="en">The life and work of Ali Shariati, an influential Iranian revolutionary scholar whose radical ideas helped to inspire the 1979 Iranian Islamic Revolution.</desc>
     <category lang="en">News</category>
-    <episode-num system="xmltv_ns">0.400.</episode-num>
-    <episode-num system="onscreen">S1E401</episode-num>
+    <episode-num system="xmltv_ns">0.371.</episode-num>
+    <episode-num system="onscreen">S1E372</episode-num>
   </programme>
   <programme start="20260303210300 +0000" stop="20260303220300 +0000" channel="aljazeera.unifitv">
     <title lang="en">Newshour</title>
@@ -12949,7 +12949,7 @@
   </programme>
   <programme start="20260304023300 +0000" stop="20260304030300 +0000" channel="aljazeera.unifitv">
     <title lang="en">Talk to Al Jazeera</title>
-    <desc lang="en">One-on-one conversations with global leaders, icons, influencers and alternative voices shaping our times.</desc>
+    <desc lang="en">AI can clone your voice. But who controls it? ElevenLabs CEO on power, trust and the future of voice technology.</desc>
     <category lang="en">News</category>
     <episode-num system="xmltv_ns">0.456.</episode-num>
     <episode-num system="onscreen">S1E457</episode-num>
@@ -12993,7 +12993,7 @@
   </programme>
   <programme start="20260304063300 +0000" stop="20260304070300 +0000" channel="aljazeera.unifitv">
     <title lang="en">Counting the Cost</title>
-    <desc lang="en">Counting the Cost provides background to the economics stories that shape our world and impact the lives of ordinary people.</desc>
+    <desc lang="en">Is Trump's economic policy faltering or is American protectionism under strain?</desc>
     <category lang="en">News</category>
     <episode-num system="xmltv_ns">0.8.</episode-num>
     <episode-num system="onscreen">S1E9</episode-num>
@@ -13017,7 +13017,7 @@
   </programme>
   <programme start="20260304083300 +0000" stop="20260304090300 +0000" channel="aljazeera.unifitv">
     <title lang="en">The Stream</title>
-    <desc lang="en">The Stream is where Al Jazeera's audience becomes a global community.</desc>
+    <desc lang="en">Today on The Stream: We explore the fine line between fear and foresight and why, even in disaster, not everyone gets equal protection.</desc>
     <category lang="en">News</category>
     <episode-num system="xmltv_ns">0.13.</episode-num>
     <episode-num system="onscreen">S1E14</episode-num>
@@ -13051,10 +13051,10 @@
   </programme>
   <programme start="20260304120300 +0000" stop="20260304130300 +0000" channel="aljazeera.unifitv">
     <title lang="en">Al Jazeera World</title>
-    <desc lang="en">A series of one-hour documentaries showcasing films from across the Al Jazeera Network.</desc>
+    <desc lang="en">The life and work of Ali Shariati, an influential Iranian revolutionary scholar whose radical ideas helped to inspire the 1979 Iranian Islamic Revolution.</desc>
     <category lang="en">News</category>
-    <episode-num system="xmltv_ns">0.400.</episode-num>
-    <episode-num system="onscreen">S1E401</episode-num>
+    <episode-num system="xmltv_ns">0.371.</episode-num>
+    <episode-num system="onscreen">S1E372</episode-num>
   </programme>
   <programme start="20260304130300 +0000" stop="20260304140300 +0000" channel="aljazeera.unifitv">
     <title lang="en">Newshour</title>
@@ -13068,12 +13068,12 @@
   </programme>
   <programme start="20260304143300 +0000" stop="20260304150300 +0000" channel="aljazeera.unifitv">
     <title lang="en">The Listening Post</title>
-    <desc lang="en">What is being reported by world media and how? Richard Gizbert guides you through the global news maze.</desc>
+    <desc lang="en">What is the point of AI alarmism if the people warning the world aren't changing course? Plus, the effort to whitewash Israel in Africa.</desc>
     <category lang="en">News</category>
-    <episode-num system="xmltv_ns">0.8.</episode-num>
-    <episode-num system="onscreen">S1E9</episode-num>
+    <episode-num system="xmltv_ns">0.7.</episode-num>
+    <episode-num system="onscreen">S1E8</episode-num>
   </programme>
-  <programme start="20260304150300 +0000" stop="20260304153300 +0000" channel="aljazeera.unifitv">
+  <programme start="20260304150300 +0000" stop="20260304160300 +0000" channel="aljazeera.unifitv">
     <title lang="en">Newshour</title>
     <desc lang="en">Up-to-date news and analysis from around the world.</desc>
     <category lang="en">News</category>
@@ -15374,7 +15374,7 @@
     <category lang="en">Football</category>
   </programme>
   <programme start="20260303183000 +0000" stop="20260303200000 +0000" channel="spotv.unifitv">
-    <title lang="en">Horse Racing - Pegasus World Cup 2026</title>
+    <title lang="en">Pegasus World Cup 2026</title>
     <desc lang="en">The Pegasus World Cup features elite thoroughbred racing as top horses and jockeys compete in one of the sport's premier international events.</desc>
     <category lang="en">Extreme Sports</category>
   </programme>
