@@ -242,14 +242,6 @@
     <title>Basketball: Milwaukee Bucks - Atlanta Hawks</title>
     <desc>Live: Tidak</desc>
 </programme>
-<programme start="20260305043500 +0700" stop="20260305051000 +0700" channel="COSMOTE Sport 5 HD">
-    <title>Sports Classics: Gearing Up 2026 E2</title>
-    <desc>Live: Tidak</desc>
-</programme>
-<programme start="20260305051000 +0700" stop="20260305055500 +0700" channel="COSMOTE Sport 5 HD">
-    <title>ERC 2025</title>
-    <desc>Live: Tidak</desc>
-</programme>
 <programme start="20260305055500 +0700" stop="20260305070000 +0700" channel="COSMOTE Sport 5 HD">
     <title>ERC 2025</title>
     <desc>Live: Tidak</desc>
@@ -338,9 +330,13 @@
     <title>Extreme E - Highlights 2025</title>
     <desc>Live: Tidak</desc>
 </programme>
-<programme start="20260305020000 +0700" stop="20260305060000 +0700" channel="COSMOTE Sport 6 HD">
-    <title>Tennis: ATP Masters 1000 2026 (L)</title>
-    <desc>Live: Ya</desc>
+<programme start="20260306060000 +0700" stop="20260306063000 +0700" channel="COSMOTE Sport 5 HD">
+    <title>FIA Championship Middle East 2026</title>
+    <desc>Live: Tidak</desc>
+</programme>
+<programme start="20260306063000 +0700" stop="20260306073500 +0700" channel="COSMOTE Sport 5 HD">
+    <title>Motorsports: Extreme E 2025</title>
+    <desc>Live: Tidak</desc>
 </programme>
 <programme start="20260305060000 +0700" stop="20260305100000 +0700" channel="COSMOTE Sport 6 HD">
     <title>Tennis: ATP Masters 1000 2026 (L)</title>
@@ -375,6 +371,10 @@
     <desc>Live: Tidak</desc>
 </programme>
 <programme start="20260306020000 +0700" stop="20260306060000 +0700" channel="COSMOTE Sport 6 HD">
+    <title>Tennis: ATP Masters 1000 2026 (L)</title>
+    <desc>Live: Ya</desc>
+</programme>
+<programme start="20260306060000 +0700" stop="20260306100000 +0700" channel="COSMOTE Sport 6 HD">
     <title>Tennis: ATP Masters 1000 2026 (L)</title>
     <desc>Live: Ya</desc>
 </programme>

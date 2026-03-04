@@ -3982,14 +3982,23 @@
   <programme start="20260306003000 +0000" stop="20260306010000 +0000" channel="CNN Prima News.webtv.sk">
     <title lang="id">Prima ČESKO</title>
   </programme>
-  <programme start="20260306010000 +0000" stop="20260306013000 +0000" channel="CNN Prima News.webtv.sk">
+  <programme start="20260306010000 +0000" stop="20260306011100 +0000" channel="CNN Prima News.webtv.sk">
     <title lang="id">Hlasy zločinu</title>
+  </programme>
+  <programme start="20260306011100 +0000" stop="20260306013000 +0000" channel="CNN Prima News.webtv.sk">
+    <title lang="id">(ST)</title>
   </programme>
   <programme start="20260306013000 +0000" stop="20260306022000 +0000" channel="CNN Prima News.webtv.sk">
     <title lang="id">Co na to vaše zdraví</title>
   </programme>
-  <programme start="20260306022000 +0000" stop="20260306031500 +0000" channel="CNN Prima News.webtv.sk">
+  <programme start="20260306022000 +0000" stop="20260306024000 +0000" channel="CNN Prima News.webtv.sk">
     <title lang="id">HLAVNÍ ZPRÁVY</title>
+  </programme>
+  <programme start="20260306024000 +0000" stop="20260306025000 +0000" channel="CNN Prima News.webtv.sk">
+    <title lang="id">(ST)</title>
+  </programme>
+  <programme start="20260306025000 +0000" stop="20260306031500 +0000" channel="CNN Prima News.webtv.sk">
+    <title lang="id">(ST)</title>
   </programme>
   <programme start="20260306031500 +0000" stop="20260306034500 +0000" channel="CNN Prima News.webtv.sk">
     <title lang="id">360°</title>
