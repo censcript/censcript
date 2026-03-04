@@ -1,11 +1,3 @@
-<programme start="20260305010000 +0700" stop="20260305030500 +0700" channel="COSMOTE Sport 1 HD">
-    <title>Football: Kifisia - PAOK (L)</title>
-    <desc>Live: Ya</desc>
-</programme>
-<programme start="20260305030500 +0700" stop="20260305040000 +0700" channel="COSMOTE Sport 1 HD">
-    <title>PostGame (L)</title>
-    <desc>Live: Ya</desc>
-</programme>
 <programme start="20260305040000 +0700" stop="20260305061500 +0700" channel="COSMOTE Sport 1 HD">
     <title>Football: Kifisia - PAOK</title>
     <desc>Live: Tidak</desc>
@@ -126,6 +118,18 @@
     <title>Football: Al-Kholood - Al-Qadsiah (L)</title>
     <desc>Live: Ya</desc>
 </programme>
+<programme start="20260306040000 +0700" stop="20260306043000 +0700" channel="COSMOTE Sport 2 HD">
+    <title>Serie A Full Impact 2024-25 E27</title>
+    <desc>Live: Tidak</desc>
+</programme>
+<programme start="20260306043000 +0700" stop="20260306045000 +0700" channel="COSMOTE Sport 2 HD">
+    <title>Sports Classics: Worldies E2</title>
+    <desc>Live: Tidak</desc>
+</programme>
+<programme start="20260306045000 +0700" stop="20260306070000 +0700" channel="COSMOTE Sport 2 HD">
+    <title>Football: Panathinaikos - OFI</title>
+    <desc>Live: Tidak</desc>
+</programme>
 <programme start="20260305030000 +0700" stop="20260305050000 +0700" channel="COSMOTE Sport 3 HD">
     <title>Football: Aberdeen - Celtic FC (L)</title>
     <desc>Live: Ya</desc>
@@ -238,10 +242,6 @@
     <title>Basketball: New York Knicks - Oklahoma City Thunder</title>
     <desc>Live: Tidak</desc>
 </programme>
-<programme start="20260305022000 +0700" stop="20260305032000 +0700" channel="COSMOTE Sport 5 HD">
-    <title>MotoGP 2025 - Highlights</title>
-    <desc>Live: Tidak</desc>
-</programme>
 <programme start="20260305032000 +0700" stop="20260305043500 +0700" channel="COSMOTE Sport 5 HD">
     <title>2026 Grand Prix Show</title>
     <desc>Live: Tidak</desc>
@@ -332,6 +332,10 @@
 </programme>
 <programme start="20260306033000 +0700" stop="20260306043000 +0700" channel="COSMOTE Sport 5 HD">
     <title>MotoGP 2025 - Highlights</title>
+    <desc>Live: Tidak</desc>
+</programme>
+<programme start="20260306043000 +0700" stop="20260306053000 +0700" channel="COSMOTE Sport 5 HD">
+    <title>Highlights: 2025 Extreme H</title>
     <desc>Live: Tidak</desc>
 </programme>
 <programme start="20260305020000 +0700" stop="20260305060000 +0700" channel="COSMOTE Sport 6 HD">
@@ -493,6 +497,10 @@
 <programme start="20260306020000 +0700" stop="20260306043000 +0700" channel="COSMOTE Sport 8 HD">
     <title>Volleyball: Las Palmas - Montpellier (L)</title>
     <desc>Live: Ya</desc>
+</programme>
+<programme start="20260306043000 +0700" stop="20260306050000 +0700" channel="COSMOTE Sport 8 HD">
+    <title>COSMOTESport8HD</title>
+    <desc>Live: Tidak</desc>
 </programme>
 <programme start="20260305030000 +0700" stop="20260305050000 +0700" channel="COSMOTE Sport 9 HD">
     <title>COSMOTESport9HD</title>
