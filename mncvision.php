@@ -6353,7 +6353,7 @@
     <title>Cahaya Muda...: Eliminasi</title>
 </programme>
 <programme start="20260304013000 +0000" stop="20260304020000 +0000" channel="Muslim TV.mncvision">
-    <title>Cahaya Hati The Series</title>
+    <title>World Of Moslem</title>
 </programme>
 <programme start="20260304020000 +0000" stop="20260304031500 +0000" channel="Muslim TV.mncvision">
     <title>Amanah Wali S8</title>
@@ -6362,16 +6362,19 @@
     <title>Lentera Hati</title>
 </programme>
 <programme start="20260304041500 +0000" stop="20260304051500 +0000" channel="Muslim TV.mncvision">
-    <title>Cahaya Muda...: Eliminasi</title>
+    <title>Siraman Qolbu, Ust. Dhanu</title>
 </programme>
 <programme start="20260304051500 +0000" stop="20260304053000 +0000" channel="Muslim TV.mncvision">
     <title>Cahaya Hati The Series</title>
 </programme>
 <programme start="20260304053000 +0000" stop="20260304070000 +0000" channel="Muslim TV.mncvision">
-    <title>FTV Special</title>
+    <title>Ustazah Dari Amerika</title>
 </programme>
-<programme start="20260304070000 +0000" stop="20260304083000 +0000" channel="Muslim TV.mncvision">
-    <title>Cahaya Hati Indonesia</title>
+<programme start="20260304070000 +0000" stop="20260304073000 +0000" channel="Muslim TV.mncvision">
+    <title>World Of Moslem</title>
+</programme>
+<programme start="20260304073000 +0000" stop="20260304083000 +0000" channel="Muslim TV.mncvision">
+    <title>Penyejuk Hati</title>
 </programme>
 <programme start="20260304083000 +0000" stop="20260304093000 +0000" channel="Muslim TV.mncvision">
     <title>Aisyah Putri: Jilbab In Love</title>
@@ -6385,17 +6388,17 @@
 <programme start="20260304104500 +0000" stop="20260304113000 +0000" channel="Muslim TV.mncvision">
     <title>Sang Pelayan Tamu Allah SWT</title>
 </programme>
-<programme start="20260304113000 +0000" stop="20260304123000 +0000" channel="Muslim TV.mncvision">
-    <title>Amanah Wali S8</title>
-</programme>
-<programme start="20260304123000 +0000" stop="20260304133000 +0000" channel="Muslim TV.mncvision">
+<programme start="20260304113000 +0000" stop="20260304133000 +0000" channel="Muslim TV.mncvision">
     <title>Amanah Wali S8</title>
 </programme>
 <programme start="20260304133000 +0000" stop="20260304150000 +0000" channel="Muslim TV.mncvision">
     <title>Hafiz Indonesia 2026</title>
 </programme>
-<programme start="20260304150000 +0000" stop="20260304153000 +0000" channel="Muslim TV.mncvision">
-    <title>Cahaya Muda...: Eliminasi</title>
+<programme start="20260304150000 +0000" stop="20260304160000 +0000" channel="Muslim TV.mncvision">
+    <title>Catatan Hati Seorang Istri</title>
+</programme>
+<programme start="20260304160000 +0000" stop="20260304163000 +0000" channel="Muslim TV.mncvision">
+    <title>Lentera Hati</title>
 </programme>
 <programme start="20260303170000 +0000" stop="20260303173000 +0000" channel="NHK World.mncvision">
     <title>NHK Newsline</title>

@@ -4426,47 +4426,33 @@
     <episode-num system="xmltv_ns">0.20260303.</episode-num>
     <episode-num system="onscreen">S1E20260304</episode-num>
   </programme>
-  <programme start="20260304055600 +0000" stop="20260304055900 +0000" channel="phoenixhongkong.unifitv">
-    <title lang="en">PHOENIX WEATHER FORECAST</title>
+  <programme start="20260304055600 +0000" stop="20260304060000 +0000" channel="phoenixhongkong.unifitv">
+    <title lang="en">THE START OVER OF LEGISLATIVE COUNCIL MEMBERS 2026 [CANTONESE]</title>
     <desc lang="en">Phoenix's engaging young presenter tracks weather movements and forecasts upcoming conditions in her upbeat, lively presentation coupled with music, folklore and traditional wisdom pertaining to different weather conditions in various times of the year, making Weather Forecast a true delight regardless of rain or shine.</desc>
     <category lang="en">Environment</category>
     <episode-num system="xmltv_ns">0.20260303.</episode-num>
     <episode-num system="onscreen">S1E20260304</episode-num>
   </programme>
-  <programme start="20260304055900 +0000" stop="20260304060300 +0000" channel="phoenixhongkong.unifitv">
-    <title lang="en">THE START OVER OF LEGISLATIVE COUNCIL MEMBERS 2026</title>
-    <desc lang="en">THE START OVER OF LEGISLATIVE COUNCIL MEMBERS 2026</desc>
+  <programme start="20260304060000 +0000" stop="20260304063000 +0000" channel="phoenixhongkong.unifitv">
+    <title lang="en">CHIEF EDITOR'S TIME [MANDARIN]</title>
+    <desc lang="en">CHIEF EDITOR'S TIME [MANDARIN]</desc>
     <category lang="en">Current Affairs</category>
     <episode-num system="xmltv_ns">0.20260303.</episode-num>
     <episode-num system="onscreen">S1E20260304</episode-num>
   </programme>
-  <programme start="20260304060300 +0000" stop="20260304063300 +0000" channel="phoenixhongkong.unifitv">
-    <title lang="en">CHIEF EDITOR'S TIME</title>
+  <programme start="20260304063000 +0000" stop="20260304070000 +0000" channel="phoenixhongkong.unifitv">
+    <title lang="en">MAINLAND Q&amp;A (IV) [MANDARIN]</title>
     <desc lang="en">Daily key issues around the world are discussed on Chief Editor's Time. In-depth analyses and discussion gives viewers a better understanding of the issue.</desc>
     <category lang="en">Factual</category>
     <episode-num system="xmltv_ns">0.20260303.</episode-num>
     <episode-num system="onscreen">S1E20260304</episode-num>
   </programme>
-  <programme start="20260304063300 +0000" stop="20260304070300 +0000" channel="phoenixhongkong.unifitv">
-    <title lang="en">MAINLAND Q&amp;A</title>
+  <programme start="20260304070000 +0000" stop="20260304080300 +0000" channel="phoenixhongkong.unifitv">
+    <title lang="en">THE NPC &amp; CPPCC REPORT 2026 [CANTONESE]</title>
     <desc lang="en">Through Sally's perspective, the audience can grasp the latest changes and developments in Greater China at the first time, and set their eyes on the era of China's transformation.</desc>
     <category lang="en">News </category>
     <episode-num system="xmltv_ns">3.20260303.</episode-num>
     <episode-num system="onscreen">S4E20260304</episode-num>
-  </programme>
-  <programme start="20260304070300 +0000" stop="20260304073300 +0000" channel="phoenixhongkong.unifitv">
-    <title lang="en">HONG KONG HOT KITCHEN</title>
-    <desc lang="en">Senior commentator Cheng Jiannan invited famous political and economic figures to gather at "Hong Kong Hot Kitchen" to use current affairs as ingredients, to illustrate other things, to see the big picture from the small details, to use creativity as cooking skills, to turn depth into the right degree of heat, to butcher the cow like a butcher, and to analyze and decode.</desc>
-    <category lang="en">Food </category>
-    <episode-num system="xmltv_ns">0.20260303.</episode-num>
-    <episode-num system="onscreen">S1E20260304</episode-num>
-  </programme>
-  <programme start="20260304073300 +0000" stop="20260304080300 +0000" channel="phoenixhongkong.unifitv">
-    <title lang="en">NEWS DECODER</title>
-    <desc lang="en">The program focuses on Hong Kong's role in the country's continued reform and opening up, locks in hot topics that have attracted much attention, and analyzes current affairs in depth from multiple perspectives.</desc>
-    <category lang="en">Talk Show</category>
-    <episode-num system="xmltv_ns">0.20260303.</episode-num>
-    <episode-num system="onscreen">S1E20260304</episode-num>
   </programme>
   <programme start="20260304080300 +0000" stop="20260304083300 +0000" channel="phoenixhongkong.unifitv">
     <title lang="en">PHOENIX PANORAMA</title>
@@ -4476,23 +4462,16 @@
     <episode-num system="onscreen">S1E20260304</episode-num>
   </programme>
   <programme start="20260304083300 +0000" stop="20260304090300 +0000" channel="phoenixhongkong.unifitv">
-    <title lang="en">HONG KONG PERSPECTIVES</title>
+    <title lang="en">CHINA RESOURCES ZOOM IN [MANDARIN]</title>
     <desc lang="en">Hong Kong Perspectives offers interviews with major SAR government officials, Leg Co president, as well as experts from think tanks, the programmes explain the essence of the Basic Law and explores how it has been implemented citing examples from the past.</desc>
     <category lang="en">Current Affairs</category>
     <episode-num system="xmltv_ns">0.20260303.</episode-num>
     <episode-num system="onscreen">S1E20260304</episode-num>
   </programme>
-  <programme start="20260304090300 +0000" stop="20260304093300 +0000" channel="phoenixhongkong.unifitv">
-    <title lang="en">CHINA RESOURCES ZOOM IN</title>
+  <programme start="20260304090300 +0000" stop="20260304100300 +0000" channel="phoenixhongkong.unifitv">
+    <title lang="en">PHOENIX HONG KONG CHANNEL SPECIAL [CANTONESE]</title>
     <desc lang="en">Pay attention to current political topics, major social events and news hot spots. Dig out more facts and backgrounds. Analyze the early consequences of news events, the fate of characters, and present authoritative views.</desc>
     <category lang="en">Factual</category>
-    <episode-num system="xmltv_ns">0.20260303.</episode-num>
-    <episode-num system="onscreen">S1E20260304</episode-num>
-  </programme>
-  <programme start="20260304093300 +0000" stop="20260304100300 +0000" channel="phoenixhongkong.unifitv">
-    <title lang="en">CULTURAL CANVAS</title>
-    <desc lang="en">This refreshing cultural program shares with you the wisdom of life, extracting the truth from social events and casting new lights on the high minds of ancient sages.</desc>
-    <category lang="en">Culture</category>
     <episode-num system="xmltv_ns">0.20260303.</episode-num>
     <episode-num system="onscreen">S1E20260304</episode-num>
   </programme>

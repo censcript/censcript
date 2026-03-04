@@ -604,32 +604,50 @@
     <programme start="20260304160000 +0000" stop="20260305160000 +0000" channel="spl02.mewatch">
         <title>No Programme available now. Next Broadcast on 15th March, Sunday 8.20pm. Singapore Premier League 2025/2026</title>
     </programme>
-    <programme start="20260303160000 +0000" stop="20260303210000 +0000" channel="now-80s.mewatch">
-        <title>Every Song A Number 1! - EP1</title>
+    <programme start="20260303170000 +0000" stop="20260303190000 +0000" channel="now-80s.mewatch">
+        <title>Addicted to 80s Love Songs</title>
     </programme>
-    <programme start="20260303210000 +0000" stop="20260303220000 +0000" channel="now-80s.mewatch">
-        <title>80s - To The Max! - EP1</title>
+    <programme start="20260303190000 +0000" stop="20260303200000 +0000" channel="now-80s.mewatch">
+        <title>80s Pop Pin Ups</title>
+    </programme>
+    <programme start="20260303200000 +0000" stop="20260303220000 +0000" channel="now-80s.mewatch">
+        <title>Groovy Kind of Love: 80s Ballads</title>
     </programme>
     <programme start="20260303220000 +0000" stop="20260304000000 +0000" channel="now-80s.mewatch">
-        <title>Wake Me Up Before You Go Go! - EP1</title>
+        <title>The Very Best 80s Pop Hits</title>
     </programme>
-    <programme start="20260304000000 +0000" stop="20260304040000 +0000" channel="now-80s.mewatch">
-        <title>Only the Biggest 80s Anthems! - EP1</title>
+    <programme start="20260304000000 +0000" stop="20260304020000 +0000" channel="now-80s.mewatch">
+        <title>Groovy Kind of Love: 80s Ballads</title>
     </programme>
-    <programme start="20260304040000 +0000" stop="20260304050000 +0000" channel="now-80s.mewatch">
-        <title>The 80s (What A Feeling!) - EP1</title>
+    <programme start="20260304020000 +0000" stop="20260304030000 +0000" channel="now-80s.mewatch">
+        <title>Girls of the 80s!</title>
     </programme>
-    <programme start="20260304050000 +0000" stop="20260304100000 +0000" channel="now-80s.mewatch">
-        <title>Only the Biggest 80s Anthems! - EP1</title>
+    <programme start="20260304030000 +0000" stop="20260304050000 +0000" channel="now-80s.mewatch">
+        <title>Supermassive 80s Rock Hits</title>
     </programme>
-    <programme start="20260304100000 +0000" stop="20260304110000 +0000" channel="now-80s.mewatch">
-        <title>Bring Out The 80s! - EP1</title>
+    <programme start="20260304050000 +0000" stop="20260304060000 +0000" channel="now-80s.mewatch">
+        <title>80s Workout Anthems</title>
     </programme>
-    <programme start="20260304110000 +0000" stop="20260304160000 +0000" channel="now-80s.mewatch">
-        <title>80s Hit After 80s Hit! - EP1</title>
+    <programme start="20260304060000 +0000" stop="20260304080000 +0000" channel="now-80s.mewatch">
+        <title>Addicted to 80s Love Songs</title>
     </programme>
-    <programme start="20260304160000 +0000" stop="20260304210000 +0000" channel="now-80s.mewatch">
-        <title>80s Rock Anthems Night! - EP1</title>
+    <programme start="20260304080000 +0000" stop="20260304100000 +0000" channel="now-80s.mewatch">
+        <title>Hottest Hits of the 80s</title>
+    </programme>
+    <programme start="20260304100000 +0000" stop="20260304120000 +0000" channel="now-80s.mewatch">
+        <title>Cheesy 80s Tunes</title>
+    </programme>
+    <programme start="20260304120000 +0000" stop="20260304130000 +0000" channel="now-80s.mewatch">
+        <title>Hits from the 80s Flicks</title>
+    </programme>
+    <programme start="20260304130000 +0000" stop="20260304140000 +0000" channel="now-80s.mewatch">
+        <title>80s Pop Pin Ups</title>
+    </programme>
+    <programme start="20260304140000 +0000" stop="20260304160000 +0000" channel="now-80s.mewatch">
+        <title>Get into the 80s Groove</title>
+    </programme>
+    <programme start="20260304160000 +0000" stop="20260304180000 +0000" channel="now-80s.mewatch">
+        <title>80s Girls just wanna have fun!</title>
     </programme>
     <programme start="20260303100000 +0000" stop="20260303200000 +0000" channel="now-70s.mewatch">
         <title>Sensational 70s! - EP1</title>
@@ -789,4 +807,10 @@
     </programme>
     <programme start="20260304160000 +0000" stop="20260305160000 +0000" channel="Live 2.mewatch">
         <title>No programmes streaming LIVE at this moment</title>
+    </programme>
+    <programme start="20260303160000 +0000" stop="20260304160000 +0000" channel="Live 5.mewatch">
+        <title>No Programme available now. Next Broadcast on 5th March, Thursday 8.05pm. AFC Champions League Two 2025/26</title>
+    </programme>
+    <programme start="20260304160000 +0000" stop="20260305120500 +0000" channel="Live 5.mewatch">
+        <title>No Programme available now. Next Broadcast on 5th March, Thursday 8.05pm. AFC Champions League Two 2025/26</title>
     </programme>
