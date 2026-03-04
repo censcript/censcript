@@ -1234,11 +1234,9 @@
     <episode-num system="onscreen">S1E46</episode-num>
   </programme>
   <programme start="20260304090000 +0000" stop="20260304100000 +0000" channel="tv3.unifitv">
-    <title lang="en">ANIMALS LIKE US</title>
-    <desc lang="en">Episod ini memaparkan kehidupan haiwan liar dengan penerangan diberikan oleh beberapa orang pakar hidupan liar. Dipaparkan kehidupan meerkat dan lebah di Madagascar, penguin di Antarctica dan zirafah di Serengeti Tanzania.</desc>
+    <title lang="en">WOW SHOP</title>
+    <desc lang="en">WOW SHOP</desc>
     <category lang="en">Entertainment</category>
-    <episode-num system="xmltv_ns">0.4.</episode-num>
-    <episode-num system="onscreen">S1E5</episode-num>
   </programme>
   <programme start="20260304100000 +0000" stop="20260304105800 +0000" channel="tv3.unifitv">
     <title lang="en">AKU BUKAN USTAZAH</title>
@@ -5960,7 +5958,7 @@
     <category lang="en">Action</category>
   </programme>
   <programme start="20260304014000 +0000" stop="20260304031500 +0000" channel="hbohits.unifitv">
-    <title lang="en">5-Sep</title>
+    <title lang="en">SEPTEMBER 5</title>
     <desc lang="en">An HBO Original film that looks at Muhammad Ali's historic Supreme Court battle from behind closed doors.</desc>
     <category lang="en">Drama</category>
   </programme>

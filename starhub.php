@@ -1483,98 +1483,74 @@
     <programme start="20260304153500 +0000" stop="20260304160500 +0000" channel="Lifetime HD.starhub">
         <title>Camilla and David</title>
     </programme>
-    <programme start="20260303160000 +0000" stop="20260303173000 +0000" channel="COLORS Tamil HD.starhub">
-        <title>Sema Thimiru</title>
+    <programme start="20260303160000 +0000" stop="20260303163000 +0000" channel="COLORS Tamil HD.starhub">
+        <title>Suttum Vizhi Sudare</title>
     </programme>
-    <programme start="20260303173000 +0000" stop="20260303180000 +0000" channel="COLORS Tamil HD.starhub">
-        <title>Muthazhagu</title>
-    </programme>
-    <programme start="20260303180000 +0000" stop="20260303203000 +0000" channel="COLORS Tamil HD.starhub">
-        <title>En Rasavin Manasile</title>
-    </programme>
-    <programme start="20260303203000 +0000" stop="20260303210000 +0000" channel="COLORS Tamil HD.starhub">
-        <title>Myna</title>
-    </programme>
-    <programme start="20260303210000 +0000" stop="20260303213000 +0000" channel="COLORS Tamil HD.starhub">
-        <title>Myna</title>
-    </programme>
-    <programme start="20260303213000 +0000" stop="20260303220000 +0000" channel="COLORS Tamil HD.starhub">
-        <title>Adhey Kangal</title>
-    </programme>
-    <programme start="20260303220000 +0000" stop="20260303223000 +0000" channel="COLORS Tamil HD.starhub">
-        <title>Muthazhagu</title>
-    </programme>
-    <programme start="20260303223000 +0000" stop="20260303230000 +0000" channel="COLORS Tamil HD.starhub">
+    <programme start="20260303163000 +0000" stop="20260303170000 +0000" channel="COLORS Tamil HD.starhub">
         <title>Shiva Shakthi Thiruvilayadal</title>
     </programme>
-    <programme start="20260303230000 +0000" stop="20260303233000 +0000" channel="COLORS Tamil HD.starhub">
+    <programme start="20260303170000 +0000" stop="20260303173000 +0000" channel="COLORS Tamil HD.starhub">
         <title>Shiva Shakthi Thiruvilayadal</title>
+    </programme>
+    <programme start="20260303173000 +0000" stop="20260303203000 +0000" channel="COLORS Tamil HD.starhub">
+        <title>Radha Krishna</title>
+    </programme>
+    <programme start="20260303203000 +0000" stop="20260303233000 +0000" channel="COLORS Tamil HD.starhub">
+        <title>Madira Veeran</title>
     </programme>
     <programme start="20260303233000 +0000" stop="20260304000000 +0000" channel="COLORS Tamil HD.starhub">
-        <title>Kadhala Kadhala</title>
+        <title>Skandha Sashti Kavasam</title>
     </programme>
     <programme start="20260304000000 +0000" stop="20260304003000 +0000" channel="COLORS Tamil HD.starhub">
-        <title>Kadhala Kadhala</title>
+        <title>Shri Venkateswara Suprabhatam</title>
     </programme>
     <programme start="20260304003000 +0000" stop="20260304010000 +0000" channel="COLORS Tamil HD.starhub">
-        <title>Myna</title>
+        <title>Skandha Sashti Kavasam</title>
     </programme>
     <programme start="20260304010000 +0000" stop="20260304013000 +0000" channel="COLORS Tamil HD.starhub">
-        <title>Myna</title>
+        <title>Shiva Shakthi Thiruvilayadal</title>
     </programme>
     <programme start="20260304013000 +0000" stop="20260304020000 +0000" channel="COLORS Tamil HD.starhub">
-        <title>Muthazhagu</title>
-    </programme>
-    <programme start="20260304020000 +0000" stop="20260304050000 +0000" channel="COLORS Tamil HD.starhub">
-        <title>Sema Thimiru</title>
-    </programme>
-    <programme start="20260304050000 +0000" stop="20260304053000 +0000" channel="COLORS Tamil HD.starhub">
         <title>Shiva Shakthi Thiruvilayadal</title>
     </programme>
-    <programme start="20260304053000 +0000" stop="20260304060000 +0000" channel="COLORS Tamil HD.starhub">
-        <title>Shiva Shakthi Thiruvilayadal</title>
+    <programme start="20260304020000 +0000" stop="20260304023000 +0000" channel="COLORS Tamil HD.starhub">
+        <title>Adhe Kangal</title>
     </programme>
-    <programme start="20260304060000 +0000" stop="20260304083000 +0000" channel="COLORS Tamil HD.starhub">
-        <title>Deja Vu</title>
+    <programme start="20260304023000 +0000" stop="20260304030000 +0000" channel="COLORS Tamil HD.starhub">
+        <title>Adhe Kangal</title>
     </programme>
-    <programme start="20260304083000 +0000" stop="20260304090000 +0000" channel="COLORS Tamil HD.starhub">
-        <title>Kadhala Kadhala</title>
+    <programme start="20260304030000 +0000" stop="20260304033000 +0000" channel="COLORS Tamil HD.starhub">
+        <title>Adhe Kangal</title>
     </programme>
-    <programme start="20260304090000 +0000" stop="20260304093000 +0000" channel="COLORS Tamil HD.starhub">
-        <title>Myna</title>
+    <programme start="20260304033000 +0000" stop="20260304060000 +0000" channel="COLORS Tamil HD.starhub">
+        <title>Anbulla Ghilli</title>
     </programme>
-    <programme start="20260304093000 +0000" stop="20260304100000 +0000" channel="COLORS Tamil HD.starhub">
-        <title>Myna</title>
+    <programme start="20260304060000 +0000" stop="20260304093000 +0000" channel="COLORS Tamil HD.starhub">
+        <title>Maara</title>
     </programme>
-    <programme start="20260304100000 +0000" stop="20260304103000 +0000" channel="COLORS Tamil HD.starhub">
-        <title>Muthazhagu</title>
-    </programme>
-    <programme start="20260304103000 +0000" stop="20260304110000 +0000" channel="COLORS Tamil HD.starhub">
-        <title>Shiva Shakthi Thiruvilayadal</title>
-    </programme>
-    <programme start="20260304110000 +0000" stop="20260304113000 +0000" channel="COLORS Tamil HD.starhub">
-        <title>Shiva Shakthi Thiruvilayadal</title>
-    </programme>
-    <programme start="20260304113000 +0000" stop="20260304120000 +0000" channel="COLORS Tamil HD.starhub">
-        <title>Kadhala Kadhala</title>
-    </programme>
-    <programme start="20260304120000 +0000" stop="20260304123000 +0000" channel="COLORS Tamil HD.starhub">
-        <title>Kadhala Kadhala</title>
+    <programme start="20260304093000 +0000" stop="20260304123000 +0000" channel="COLORS Tamil HD.starhub">
+        <title>Naalu Policeum Nalla Irundha Oorum</title>
     </programme>
     <programme start="20260304123000 +0000" stop="20260304130000 +0000" channel="COLORS Tamil HD.starhub">
-        <title>Myna</title>
+        <title>Adhe Kangal</title>
     </programme>
     <programme start="20260304130000 +0000" stop="20260304133000 +0000" channel="COLORS Tamil HD.starhub">
-        <title>Myna</title>
+        <title>Adhe Kangal</title>
     </programme>
     <programme start="20260304133000 +0000" stop="20260304140000 +0000" channel="COLORS Tamil HD.starhub">
-        <title>Muthazhagu</title>
+        <title>Adhe Kangal</title>
     </programme>
     <programme start="20260304140000 +0000" stop="20260304143000 +0000" channel="COLORS Tamil HD.starhub">
-        <title>Adhey Kangal</title>
+        <title>Shiva Shakthi Thiruvilayadal</title>
     </programme>
-    <programme start="20260304143000 +0000" stop="20260304160000 +0000" channel="COLORS Tamil HD.starhub">
-        <title>Athidhi</title>
+    <programme start="20260304143000 +0000" stop="20260304150000 +0000" channel="COLORS Tamil HD.starhub">
+        <title>Shiva Shakthi Thiruvilayadal</title>
+    </programme>
+    <programme start="20260304150000 +0000" stop="20260304153000 +0000" channel="COLORS Tamil HD.starhub">
+        <title>Kanmani Anbudan</title>
+    </programme>
+    <programme start="20260304153000 +0000" stop="20260304160000 +0000" channel="COLORS Tamil HD.starhub">
+        <title>Thendrale Mella Pesu</title>
     </programme>
     <programme start="20260303160000 +0000" stop="20260303180000 +0000" channel="TVBS Asia.starhub">
         <title>Shao Kang&#039;s War Room</title>
@@ -2141,7 +2117,7 @@
         <title>Movie - Meendum Amman</title>
     </programme>
     <programme start="20260303170000 +0000" stop="20260303200000 +0000" channel="KTV HD.starhub">
-        <title>Movie - Raja Nadai</title>
+        <title>Movie</title>
     </programme>
     <programme start="20260303200000 +0000" stop="20260303223000 +0000" channel="KTV HD.starhub">
         <title>Movie - Kumari Pennin Ullathile</title>
@@ -2171,10 +2147,10 @@
         <title>Gijon P2 Day 1 Match 1</title>
     </programme>
     <programme start="20260303163000 +0000" stop="20260303180000 +0000" channel="beIN Sports 2 HD.starhub">
-        <title>Gijon P2 Day 1 Match 2</title>
+        <title>Premier Padel 2026: Gijon P2 Day 1 Match 2 (Live)</title>
     </programme>
     <programme start="20260303180000 +0000" stop="20260303193000 +0000" channel="beIN Sports 2 HD.starhub">
-        <title>Gijon P2 Day 1 Match 3</title>
+        <title>Premier Padel 2026: Gijon P2 Day 1 Match 3 (Live)</title>
     </programme>
     <programme start="20260303193000 +0000" stop="20260303200000 +0000" channel="beIN Sports 2 HD.starhub">
         <title>Episode Number 25</title>
@@ -2183,43 +2159,43 @@
         <title>Episode Number 26</title>
     </programme>
     <programme start="20260303203000 +0000" stop="20260303223000 +0000" channel="beIN Sports 2 HD.starhub">
-        <title>Le Havre vs PSG</title>
+        <title>PSG TV 2025/26: Le Havre vs PSG</title>
     </programme>
     <programme start="20260303223000 +0000" stop="20260304013000 +0000" channel="beIN Sports 2 HD.starhub">
-        <title>Santos Tour Down Under - Stage 4</title>
+        <title>UCI World Tour 2026: Santos Tour Down Under - Stage 4</title>
     </programme>
     <programme start="20260304013000 +0000" stop="20260304014000 +0000" channel="beIN Sports 2 HD.starhub">
         <title>Riyadh P1 Men</title>
     </programme>
     <programme start="20260304014000 +0000" stop="20260304021000 +0000" channel="beIN Sports 2 HD.starhub">
-        <title>Kenya vs USA - Kenya Day 2, Men</title>
+        <title>HSBC SVNS2 2026: Kenya vs USA - Kenya Day 2, Men</title>
     </programme>
     <programme start="20260304021000 +0000" stop="20260304031000 +0000" channel="beIN Sports 2 HD.starhub">
         <title>Abu Dhabi</title>
     </programme>
     <programme start="20260304031000 +0000" stop="20260304050000 +0000" channel="beIN Sports 2 HD.starhub">
-        <title>Trabzonspor vs Karagumruk</title>
+        <title>Super Lig 2025/26: Trabzonspor vs Karagumruk</title>
     </programme>
     <programme start="20260304050000 +0000" stop="20260304080000 +0000" channel="beIN Sports 2 HD.starhub">
-        <title>Santos Tour Down Under - Stage 2</title>
+        <title>UCI World Tour 2026: Santos Tour Down Under - Stage 2</title>
     </programme>
     <programme start="20260304080000 +0000" stop="20260304090000 +0000" channel="beIN Sports 2 HD.starhub">
         <title>Singapore</title>
     </programme>
     <programme start="20260304090000 +0000" stop="20260304103000 +0000" channel="beIN Sports 2 HD.starhub">
-        <title>Gijon P2 Day 2 Match 1</title>
+        <title>Premier Padel 2026: Gijon P2 Day 2 Match 1 (Live)</title>
     </programme>
     <programme start="20260304103000 +0000" stop="20260304120000 +0000" channel="beIN Sports 2 HD.starhub">
-        <title>Gijon P2 Day 2 Match 2</title>
+        <title>Premier Padel 2026: Gijon P2 Day 2 Match 2 (Live)</title>
     </programme>
     <programme start="20260304120000 +0000" stop="20260304133000 +0000" channel="beIN Sports 2 HD.starhub">
-        <title>Gijon P2 Day 2 Match 3</title>
+        <title>Premier Padel 2026: Gijon P2 Day 2 Match 3 (Live)</title>
     </programme>
     <programme start="20260304133000 +0000" stop="20260304150000 +0000" channel="beIN Sports 2 HD.starhub">
-        <title>Men&#039;s Singles Rd 4 De Minaur v Bublik</title>
+        <title>Best Of AO 2026: Men&#039;s Singles Rd 4 De Minaur v Bublik</title>
     </programme>
     <programme start="20260304150000 +0000" stop="20260304163000 +0000" channel="beIN Sports 2 HD.starhub">
-        <title>Gijon P2 Day 2 Match 4</title>
+        <title>Premier Padel 2026: Gijon P2 Day 2 Match 4 (Live)</title>
     </programme>
     <programme start="20260303160000 +0000" stop="20260303170000 +0000" channel="TVB Xing He.starhub">
         <title>Happy Ever After</title>
@@ -2497,10 +2473,10 @@
     <programme start="20260303160000 +0000" stop="20260303200500 +0000" channel="Hub Premier 2 HD.starhub">
         <title>End of Transmission</title>
     </programme>
-    <programme start="20260303200500 +0000" stop="20260303221500 +0000" channel="Hub Premier 2 HD.starhub">
+    <programme start="20260303200500 +0000" stop="20260303222000 +0000" channel="Hub Premier 2 HD.starhub">
         <title>Premier League 2025/26</title>
     </programme>
-    <programme start="20260303221500 +0000" stop="20260304040000 +0000" channel="Hub Premier 2 HD.starhub">
+    <programme start="20260303222000 +0000" stop="20260304040000 +0000" channel="Hub Premier 2 HD.starhub">
         <title>End of Transmission</title>
     </programme>
     <programme start="20260304040000 +0000" stop="20260304060000 +0000" channel="Hub Premier 2 HD.starhub">
@@ -3185,34 +3161,34 @@
         <title>News</title>
     </programme>
     <programme start="20260303163000 +0000" stop="20260303170000 +0000" channel="DW English HD.starhub">
-        <title>What connects us all</title>
+        <title>How a pet drug could fight the whipworm crisis in people</title>
     </programme>
     <programme start="20260303170000 +0000" stop="20260303171500 +0000" channel="DW English HD.starhub">
         <title>News</title>
     </programme>
     <programme start="20260303171500 +0000" stop="20260303173000 +0000" channel="DW English HD.starhub">
-        <title>Best of DW-online Content</title>
+        <title>How Romina (25) is fighting for Freedom in Iran from Europe</title>
     </programme>
     <programme start="20260303173000 +0000" stop="20260303180000 +0000" channel="DW English HD.starhub">
-        <title>The Global Auto and Mobility Show</title>
+        <title>DUI: How alcohol impairs your ability to operate a vehicle</title>
     </programme>
     <programme start="20260303180000 +0000" stop="20260303183000 +0000" channel="DW English HD.starhub">
         <title>News</title>
     </programme>
     <programme start="20260303183000 +0000" stop="20260303190000 +0000" channel="DW English HD.starhub">
-        <title>The Environment Magazine</title>
+        <title>Clean energy brings hope to Ghana’s drought-plagued north</title>
     </programme>
     <programme start="20260303190000 +0000" stop="20260303190200 +0000" channel="DW English HD.starhub">
         <title>News</title>
     </programme>
     <programme start="20260303190200 +0000" stop="20260303191500 +0000" channel="DW English HD.starhub">
-        <title>News</title>
+        <title>Understand the world, one story at a time</title>
     </programme>
     <programme start="20260303191500 +0000" stop="20260303193000 +0000" channel="DW English HD.starhub">
-        <title>Best of DW-online Content</title>
+        <title>How Romina (25) is fighting for Freedom in Iran from Europe</title>
     </programme>
     <programme start="20260303193000 +0000" stop="20260303200000 +0000" channel="DW English HD.starhub">
-        <title>The Science Magazine</title>
+        <title>How stress makes your mind go blank - the science behind it</title>
     </programme>
     <programme start="20260303200000 +0000" stop="20260303203000 +0000" channel="DW English HD.starhub">
         <title>News</title>
@@ -3224,13 +3200,13 @@
         <title>News</title>
     </programme>
     <programme start="20260303210200 +0000" stop="20260303211500 +0000" channel="DW English HD.starhub">
-        <title>News</title>
+        <title>Understand the world, one story at a time</title>
     </programme>
     <programme start="20260303211500 +0000" stop="20260303214500 +0000" channel="DW English HD.starhub">
-        <title>The Current Affairs Documentary</title>
+        <title>Haiti - The Criminal Coalition</title>
     </programme>
     <programme start="20260303214500 +0000" stop="20260303220000 +0000" channel="DW English HD.starhub">
-        <title>Living in the Digital Age</title>
+        <title>Who owns your digital life?</title>
     </programme>
     <programme start="20260303220000 +0000" stop="20260303220200 +0000" channel="DW English HD.starhub">
         <title>News</title>
@@ -3239,19 +3215,19 @@
         <title>News in Review</title>
     </programme>
     <programme start="20260303223000 +0000" stop="20260303230000 +0000" channel="DW English HD.starhub">
-        <title>The Magazine for Africa&#039;s Youth</title>
+        <title>Corruption and civil engagement</title>
     </programme>
     <programme start="20260303230000 +0000" stop="20260303230200 +0000" channel="DW English HD.starhub">
         <title>News</title>
     </programme>
     <programme start="20260303230200 +0000" stop="20260303231500 +0000" channel="DW English HD.starhub">
-        <title>News</title>
+        <title>Understand the world, one story at a time</title>
     </programme>
     <programme start="20260303231500 +0000" stop="20260303233000 +0000" channel="DW English HD.starhub">
-        <title>Best of DW-online Content</title>
+        <title>How Romina (25) is fighting for Freedom in Iran from Europe</title>
     </programme>
     <programme start="20260303233000 +0000" stop="20260304000000 +0000" channel="DW English HD.starhub">
-        <title>What connects us all</title>
+        <title>How a pet drug could fight the whipworm crisis in people</title>
     </programme>
     <programme start="20260304000000 +0000" stop="20260304000200 +0000" channel="DW English HD.starhub">
         <title>News</title>
@@ -3260,13 +3236,13 @@
         <title>News in Review</title>
     </programme>
     <programme start="20260304003000 +0000" stop="20260304010000 +0000" channel="DW English HD.starhub">
-        <title>Your Business Magazine</title>
+        <title>Pakistan bets on fighter jet exports to boost its economy</title>
     </programme>
     <programme start="20260304010000 +0000" stop="20260304010200 +0000" channel="DW English HD.starhub">
         <title>News</title>
     </programme>
     <programme start="20260304010200 +0000" stop="20260304011500 +0000" channel="DW English HD.starhub">
-        <title>News</title>
+        <title>Understand the world, one story at a time</title>
     </programme>
     <programme start="20260304011500 +0000" stop="20260304020000 +0000" channel="DW English HD.starhub">
         <title>Blood, Sweat, and Sugar - Part 1</title>
@@ -3278,25 +3254,25 @@
         <title>News in Review</title>
     </programme>
     <programme start="20260304023000 +0000" stop="20260304030000 +0000" channel="DW English HD.starhub">
-        <title>What connects us all</title>
+        <title>How a pet drug could fight the whipworm crisis in people</title>
     </programme>
     <programme start="20260304030000 +0000" stop="20260304030200 +0000" channel="DW English HD.starhub">
         <title>News</title>
     </programme>
     <programme start="20260304030200 +0000" stop="20260304031500 +0000" channel="DW English HD.starhub">
-        <title>News</title>
+        <title>Understand the world, one story at a time</title>
     </programme>
     <programme start="20260304031500 +0000" stop="20260304033000 +0000" channel="DW English HD.starhub">
-        <title>Best of DW-online Content</title>
+        <title>How Romina (25) is fighting for Freedom in Iran from Europe</title>
     </programme>
     <programme start="20260304033000 +0000" stop="20260304040000 +0000" channel="DW English HD.starhub">
-        <title>The Environment Magazine</title>
+        <title>Clean energy brings hope to Ghana’s drought-plagued north</title>
     </programme>
     <programme start="20260304040000 +0000" stop="20260304040200 +0000" channel="DW English HD.starhub">
         <title>News</title>
     </programme>
     <programme start="20260304040200 +0000" stop="20260304041500 +0000" channel="DW English HD.starhub">
-        <title>News</title>
+        <title>Understand the world, one story at a time</title>
     </programme>
     <programme start="20260304041500 +0000" stop="20260304050000 +0000" channel="DW English HD.starhub">
         <title>Blood, Sweat, and Sugar - Part 1</title>
@@ -3308,16 +3284,16 @@
         <title>News in Review</title>
     </programme>
     <programme start="20260304053000 +0000" stop="20260304060000 +0000" channel="DW English HD.starhub">
-        <title>Your Business Magazine</title>
+        <title>Pakistan bets on fighter jet exports to boost its economy</title>
     </programme>
     <programme start="20260304060000 +0000" stop="20260304060200 +0000" channel="DW English HD.starhub">
         <title>News</title>
     </programme>
     <programme start="20260304060200 +0000" stop="20260304061500 +0000" channel="DW English HD.starhub">
-        <title>News</title>
+        <title>Understand the world, one story at a time</title>
     </programme>
     <programme start="20260304061500 +0000" stop="20260304063000 +0000" channel="DW English HD.starhub">
-        <title>Best of DW-online Content</title>
+        <title>How Romina (25) is fighting for Freedom in Iran from Europe</title>
     </programme>
     <programme start="20260304063000 +0000" stop="20260304070000 +0000" channel="DW English HD.starhub">
         <title>Difficulty breathing, a painful cough? Lungs&#039; warning signs</title>
@@ -3326,22 +3302,22 @@
         <title>News</title>
     </programme>
     <programme start="20260304070200 +0000" stop="20260304071500 +0000" channel="DW English HD.starhub">
-        <title>News</title>
+        <title>Understand the world, one story at a time</title>
     </programme>
     <programme start="20260304071500 +0000" stop="20260304074500 +0000" channel="DW English HD.starhub">
-        <title>The Current Affairs Documentary</title>
+        <title>Haiti - The Criminal Coalition</title>
     </programme>
     <programme start="20260304074500 +0000" stop="20260304080000 +0000" channel="DW English HD.starhub">
-        <title>Living in the Digital Age</title>
+        <title>Who owns your digital life?</title>
     </programme>
     <programme start="20260304080000 +0000" stop="20260304080200 +0000" channel="DW English HD.starhub">
         <title>News</title>
     </programme>
     <programme start="20260304080200 +0000" stop="20260304083000 +0000" channel="DW English HD.starhub">
-        <title>The Magazine for Africa&#039;s Youth</title>
+        <title>Corruption and civil engagement</title>
     </programme>
     <programme start="20260304083000 +0000" stop="20260304090000 +0000" channel="DW English HD.starhub">
-        <title>The Environment Magazine</title>
+        <title>Landscaping a greener world - making life better for all</title>
     </programme>
     <programme start="20260304090000 +0000" stop="20260304090200 +0000" channel="DW English HD.starhub">
         <title>News</title>
@@ -3356,22 +3332,22 @@
         <title>News</title>
     </programme>
     <programme start="20260304100200 +0000" stop="20260304101500 +0000" channel="DW English HD.starhub">
-        <title>News</title>
+        <title>Understand the world, one story at a time</title>
     </programme>
     <programme start="20260304101500 +0000" stop="20260304104500 +0000" channel="DW English HD.starhub">
-        <title>The Current Affairs Documentary</title>
+        <title>Haiti - The Criminal Coalition</title>
     </programme>
     <programme start="20260304104500 +0000" stop="20260304110000 +0000" channel="DW English HD.starhub">
-        <title>Living in the Digital Age</title>
+        <title>Who owns your digital life?</title>
     </programme>
     <programme start="20260304110000 +0000" stop="20260304110200 +0000" channel="DW English HD.starhub">
         <title>News</title>
     </programme>
     <programme start="20260304110200 +0000" stop="20260304113000 +0000" channel="DW English HD.starhub">
-        <title>From Surplus Calf to Alpine Savior</title>
+        <title>Corruption and civil engagement</title>
     </programme>
     <programme start="20260304113000 +0000" stop="20260304120000 +0000" channel="DW English HD.starhub">
-        <title>Your Business Magazine</title>
+        <title>Pakistan bets on fighter jet exports to boost its economy</title>
     </programme>
     <programme start="20260304120000 +0000" stop="20260304120200 +0000" channel="DW English HD.starhub">
         <title>News</title>
@@ -3389,10 +3365,10 @@
         <title>News</title>
     </programme>
     <programme start="20260304131500 +0000" stop="20260304133000 +0000" channel="DW English HD.starhub">
-        <title>Best of DW-online Content</title>
+        <title>How climate change is redrawing the global wine map</title>
     </programme>
     <programme start="20260304133000 +0000" stop="20260304140000 +0000" channel="DW English HD.starhub">
-        <title>The Environment Magazine</title>
+        <title>Clean energy brings hope to Ghana’s drought-plagued north</title>
     </programme>
     <programme start="20260304140000 +0000" stop="20260304140200 +0000" channel="DW English HD.starhub">
         <title>News</title>
@@ -3407,7 +3383,7 @@
         <title>News</title>
     </programme>
     <programme start="20260304153000 +0000" stop="20260304160000 +0000" channel="DW English HD.starhub">
-        <title>The Environment Magazine</title>
+        <title>Landscaping a greener world - making life better for all</title>
     </programme>
     <programme start="20260303160000 +0000" stop="20260303220000 +0000" channel="Preview Channel.starhub">
         <title>Preview Channel</title>
@@ -7226,7 +7202,7 @@
         <title>Mangal Lakshmi</title>
     </programme>
     <programme start="20260303170000 +0000" stop="20260303173000 +0000" channel="COLORS.starhub">
-        <title>DR. Aarambhi</title>
+        <title>Dr. Aarambhi</title>
     </programme>
     <programme start="20260303173000 +0000" stop="20260303180000 +0000" channel="COLORS.starhub">
         <title>Noyontara</title>
@@ -7283,7 +7259,7 @@
         <title>Mannat Harr Khushi Paane Ki</title>
     </programme>
     <programme start="20260304040000 +0000" stop="20260304043000 +0000" channel="COLORS.starhub">
-        <title>DR. Aarambhi</title>
+        <title>Dr. Aarambhi</title>
     </programme>
     <programme start="20260304043000 +0000" stop="20260304050000 +0000" channel="COLORS.starhub">
         <title>Noyontara</title>
@@ -7295,7 +7271,7 @@
         <title>Mannat Harr Khushi Paane Ki</title>
     </programme>
     <programme start="20260304060000 +0000" stop="20260304063000 +0000" channel="COLORS.starhub">
-        <title>DR. Aarambhi</title>
+        <title>Dr. Aarambhi</title>
     </programme>
     <programme start="20260304063000 +0000" stop="20260304073000 +0000" channel="COLORS.starhub">
         <title>Mangal Lakshmi</title>
@@ -7313,7 +7289,7 @@
         <title>Mannat Harr Khushi Paane Ki</title>
     </programme>
     <programme start="20260304100000 +0000" stop="20260304103000 +0000" channel="COLORS.starhub">
-        <title>DR. Aarambhi</title>
+        <title>Dr. Aarambhi</title>
     </programme>
     <programme start="20260304103000 +0000" stop="20260304110000 +0000" channel="COLORS.starhub">
         <title>Noyontara</title>
@@ -7325,7 +7301,7 @@
         <title>Mannat Harr Khushi Paane Ki</title>
     </programme>
     <programme start="20260304120000 +0000" stop="20260304123000 +0000" channel="COLORS.starhub">
-        <title>DR. Aarambhi</title>
+        <title>Dr. Aarambhi</title>
     </programme>
     <programme start="20260304123000 +0000" stop="20260304133000 +0000" channel="COLORS.starhub">
         <title>Mangal Lakshmi</title>

@@ -7616,7 +7616,7 @@
     <title>Entong</title>
 </programme>
 <programme start="20260304021500 +0000" stop="20260304033000 +0000" channel="RCTI.mncvision">
-    <title>Bidadari Turun Di Mushola</title>
+    <title>Sule Kangen Mantan</title>
 </programme>
 <programme start="20260304033000 +0000" stop="20260304043000 +0000" channel="RCTI.mncvision">
     <title>Silet</title>
@@ -7667,7 +7667,7 @@
     <title>Entong</title>
 </programme>
 <programme start="20260304021500 +0000" stop="20260304033000 +0000" channel="RCTI HD.mncvision">
-    <title>Bidadari Turun Di Mushola</title>
+    <title>Sule Kangen Mantan</title>
 </programme>
 <programme start="20260304033000 +0000" stop="20260304043000 +0000" channel="RCTI HD.mncvision">
     <title>Silet</title>
