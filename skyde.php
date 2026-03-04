@@ -234,10 +234,10 @@ Warning: Undefined array key "et" in /usr/home/ManusiaBiasa/domains/manusiabiasa
 <programme start="20260304063000 +0000" stop="20260304064000 +0000" channel="Cartoon Network.skyde">
     <title>Die fantastische Welt von Gumball</title>
 </programme>
-<programme start="20260304064000 +0000" stop="20260304065000 +0000" channel="Cartoon Network.skyde">
+<programme start="20260304064000 +0000" stop="20260304065500 +0000" channel="Cartoon Network.skyde">
     <title>Die fantastische Welt von Gumball</title>
 </programme>
-<programme start="20260304065000 +0000" stop="20260304070500 +0000" channel="Cartoon Network.skyde">
+<programme start="20260304065500 +0000" stop="20260304070500 +0000" channel="Cartoon Network.skyde">
     <title>Die wunderbar schräge Welt von Gumball</title>
 </programme>
 <programme start="20260304070500 +0000" stop="20260304071500 +0000" channel="Cartoon Network.skyde">
@@ -2682,8 +2682,11 @@ Warning: Undefined array key "et" in /usr/home/ManusiaBiasa/domains/manusiabiasa
 <programme start="20260304220000 +0000" stop="20260304231500 +0000" channel="Sky Sport Austria 1 HD.skyde">
     <title>Talk &amp; Tore: Fußball-Talk</title>
 </programme>
-<programme start="20260303230000 +0000" stop="20260304000000 +0000" channel="Sky Sport Bundesliga HD.skyde">
-    <title>BL Kompakt: 24. Spieltag</title>
+<programme start="20260303230000 +0000" stop="20260303233000 +0000" channel="Sky Sport Bundesliga HD.skyde">
+    <title>3. Liga: Alle Spiele, alle Tore, 27. Spieltag, Dienstag</title>
+</programme>
+<programme start="20260303233000 +0000" stop="20260304000000 +0000" channel="Sky Sport Bundesliga HD.skyde">
+    <title>BL: 90in30: BVB - FCB, 24. Spieltag</title>
 </programme>
 <programme start="20260304000000 +0000" stop="20260304020000 +0000" channel="Sky Sport Bundesliga HD.skyde">
     <title>2. BL: Freitags-Konferenz, 24. Spieltag</title>
@@ -2905,7 +2908,7 @@ Warning: Undefined array key "et" in /usr/home/ManusiaBiasa/domains/manusiabiasa
     <title>Asian Tour: Highlights New Zealand Open</title>
 </programme>
 <programme start="20260303230000 +0000" stop="20260303233000 +0000" channel="Sky Sport Mix HD.skyde">
-    <title>Fußball: scooore Niederlande! Alle Tore</title>
+    <title>3. Liga: Alle Spiele, alle Tore, 27. Spieltag, Dienstag</title>
 </programme>
 <programme start="20260303233000 +0000" stop="20260304000000 +0000" channel="Sky Sport Mix HD.skyde">
     <title>NHL: On the Fly</title>
@@ -3187,10 +3190,10 @@ Warning: Undefined array key "et" in /usr/home/ManusiaBiasa/domains/manusiabiasa
     <title>Info: UHD</title>
 </programme>
 <programme start="20260304040000 +0000" stop="20260304060000 +0000" channel="Sky Sport UHD.skyde">
-    <title>F1: Rennen - GP Abu Dhabi 2025</title>
+    <title>F1: Rennen - GP Las Vegas</title>
 </programme>
 <programme start="20260304040000 +0000" stop="20260304060000 +0000" channel="Sky Sport UHD.skyde">
-    <title>F1: Rennen - GP Las Vegas</title>
+    <title>F1: Rennen - GP Abu Dhabi 2025</title>
 </programme>
 <programme start="20260304053000 +0000" stop="20260304060000 +0000" channel="Sky Sport UHD.skyde">
     <title>Golf: Greatest Holes (3)</title>
@@ -3210,13 +3213,13 @@ Warning: Undefined array key "et" in /usr/home/ManusiaBiasa/domains/manusiabiasa
 <programme start="20260304184000 +0000" stop="20260304190000 +0000" channel="Sky Sport 1 HD.skyde">
     <title>Es folgt: LIVE Tennis WTA Tour</title>
 </programme>
-<programme start="20260304190000 +0000" stop="20260305090000 +0000" channel="Sky Sport 1 HD.skyde">
+<programme start="20260304190000 +0000" stop="20260305060000 +0000" channel="Sky Sport 1 HD.skyde">
     <title>Live WTA 1000: BNP Paribas Open in Indian Wells, Kalifornien (USA), 1. Tag</title>
 </programme>
 <programme start="20260304190000 +0000" stop="20260304192000 +0000" channel="Sky Sport 2 HD.skyde">
     <title>Es folgt: LIVE PL</title>
 </programme>
-<programme start="20260304192000 +0000" stop="20260304213000 +0000" channel="Sky Sport 2 HD.skyde">
+<programme start="20260304192000 +0000" stop="20260304220000 +0000" channel="Sky Sport 2 HD.skyde">
     <title>Live PL: Brighton &amp; Hove Albion - FC Arsenal, 29. Spieltag</title>
 </programme>
 <programme start="20260304190000 +0000" stop="20260304192000 +0000" channel="Sky Sport 3 HD.skyde">
@@ -3228,13 +3231,13 @@ Warning: Undefined array key "et" in /usr/home/ManusiaBiasa/domains/manusiabiasa
 <programme start="20260304190000 +0000" stop="20260304192000 +0000" channel="Sky Sport 4 HD.skyde">
     <title>Es folgt: LIVE PL</title>
 </programme>
-<programme start="20260304192000 +0000" stop="20260304220000 +0000" channel="Sky Sport 4 HD.skyde">
+<programme start="20260304192000 +0000" stop="20260304213000 +0000" channel="Sky Sport 4 HD.skyde">
     <title>Live PL: Aston Villa - FC Chelsea, 29. Spieltag</title>
 </programme>
 <programme start="20260304190000 +0000" stop="20260304192000 +0000" channel="Sky Sport 5 HD.skyde">
     <title>Es folgt: LIVE PL</title>
 </programme>
-<programme start="20260304192000 +0000" stop="20260304213000 +0000" channel="Sky Sport 5 HD.skyde">
+<programme start="20260304192000 +0000" stop="20260304220000 +0000" channel="Sky Sport 5 HD.skyde">
     <title>Live PL: FC Fulham - West Ham United, 29. Spieltag</title>
 </programme>
 <programme start="20260303232000 +0000" stop="20260304000500 +0000" channel="SYFY HD.skyde">
