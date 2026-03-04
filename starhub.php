@@ -3238,10 +3238,10 @@
     <programme start="20260304003000 +0000" stop="20260304010000 +0000" channel="DW English HD.starhub">
         <title>Pakistan bets on fighter jet exports to boost its economy</title>
     </programme>
-    <programme start="20260304010000 +0000" stop="20260304010200 +0000" channel="DW English HD.starhub">
+    <programme start="20260304010000 +0000" stop="20260304010300 +0000" channel="DW English HD.starhub">
         <title>News</title>
     </programme>
-    <programme start="20260304010200 +0000" stop="20260304011500 +0000" channel="DW English HD.starhub">
+    <programme start="20260304010300 +0000" stop="20260304011500 +0000" channel="DW English HD.starhub">
         <title>Understand the world, one story at a time</title>
     </programme>
     <programme start="20260304011500 +0000" stop="20260304020000 +0000" channel="DW English HD.starhub">
@@ -3323,10 +3323,10 @@
         <title>News</title>
     </programme>
     <programme start="20260304090200 +0000" stop="20260304091500 +0000" channel="DW English HD.starhub">
-        <title>News</title>
+        <title>Understand the world, one story at a time</title>
     </programme>
     <programme start="20260304091500 +0000" stop="20260304100000 +0000" channel="DW English HD.starhub">
-        <title>Messengers</title>
+        <title>An Endless War - Israel - Iran - USA, Chapter 1 - Origins of a Conflict</title>
     </programme>
     <programme start="20260304100000 +0000" stop="20260304100200 +0000" channel="DW English HD.starhub">
         <title>News</title>
@@ -3340,11 +3340,8 @@
     <programme start="20260304104500 +0000" stop="20260304110000 +0000" channel="DW English HD.starhub">
         <title>Who owns your digital life?</title>
     </programme>
-    <programme start="20260304110000 +0000" stop="20260304110200 +0000" channel="DW English HD.starhub">
+    <programme start="20260304110000 +0000" stop="20260304113000 +0000" channel="DW English HD.starhub">
         <title>News</title>
-    </programme>
-    <programme start="20260304110200 +0000" stop="20260304113000 +0000" channel="DW English HD.starhub">
-        <title>Corruption and civil engagement</title>
     </programme>
     <programme start="20260304113000 +0000" stop="20260304120000 +0000" channel="DW English HD.starhub">
         <title>Pakistan bets on fighter jet exports to boost its economy</title>
