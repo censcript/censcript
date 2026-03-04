@@ -62,10 +62,6 @@
     <title>Football: NK Celje - FC Drita</title>
     <desc>Live: Tidak</desc>
 </programme>
-<programme start="20260304100000 +0700" stop="20260304120000 +0700" channel="COSMOTE Sport 2 HD">
-    <title>Football: Sassuolo - Atalanta</title>
-    <desc>Live: Tidak</desc>
-</programme>
 <programme start="20260304120000 +0700" stop="20260304141500 +0700" channel="COSMOTE Sport 2 HD">
     <title>Football: OFI - AEL Novibet</title>
     <desc>Live: Tidak</desc>
@@ -132,6 +128,10 @@
 </programme>
 <programme start="20260305100000 +0700" stop="20260305120000 +0700" channel="COSMOTE Sport 2 HD">
     <title>Football: AS Roma - Juventus Football Club</title>
+    <desc>Live: Tidak</desc>
+</programme>
+<programme start="20260305120000 +0700" stop="20260305141000 +0700" channel="COSMOTE Sport 2 HD">
+    <title>Football: Volos NPS - AEK</title>
     <desc>Live: Tidak</desc>
 </programme>
 <programme start="20260304110000 +0700" stop="20260304130000 +0700" channel="COSMOTE Sport 3 HD">
@@ -242,6 +242,10 @@
     <title>Basketball: Milwaukee Bucks - Atlanta Hawks (L)</title>
     <desc>Live: Ya</desc>
 </programme>
+<programme start="20260305123000 +0700" stop="20260305143500 +0700" channel="COSMOTE Sport 4 HD">
+    <title>Basketball: Turk Telekom - Fenerbahce</title>
+    <desc>Live: Tidak</desc>
+</programme>
 <programme start="20260304110000 +0700" stop="20260304120500 +0700" channel="COSMOTE Sport 5 HD">
     <title>2025 Extreme H</title>
     <desc>Live: Tidak</desc>
@@ -334,8 +338,8 @@
     <title>DTM 2025</title>
     <desc>Live: Tidak</desc>
 </programme>
-<programme start="20260304110000 +0700" stop="20260304113000 +0700" channel="COSMOTE Sport 6 HD">
-    <title>Premier Padel Tour 2026 - Highlights</title>
+<programme start="20260305122500 +0700" stop="20260305140500 +0700" channel="COSMOTE Sport 5 HD">
+    <title>DTM 2025</title>
     <desc>Live: Tidak</desc>
 </programme>
 <programme start="20260304113000 +0700" stop="20260304131500 +0700" channel="COSMOTE Sport 6 HD">
