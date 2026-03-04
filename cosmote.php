@@ -1,7 +1,3 @@
-<programme start="20260304130000 +0700" stop="20260304153000 +0700" channel="COSMOTE Sport 1 HD">
-    <title>Football: FK Crvena Zvezda - Lille OSC</title>
-    <desc>Live: Tidak</desc>
-</programme>
 <programme start="20260304153000 +0700" stop="20260304173000 +0700" channel="COSMOTE Sport 1 HD">
     <title>Football: Celta - PAOK</title>
     <desc>Live: Tidak</desc>
@@ -138,6 +134,14 @@
     <title>Football: Udinese - ACF Fiorentina</title>
     <desc>Live: Tidak</desc>
 </programme>
+<programme start="20260305160500 +0700" stop="20260305163500 +0700" channel="COSMOTE Sport 2 HD">
+    <title>Serie A Full Impact 2024-25 E27</title>
+    <desc>Live: Tidak</desc>
+</programme>
+<programme start="20260305163500 +0700" stop="20260305183500 +0700" channel="COSMOTE Sport 2 HD">
+    <title>Football: Parma - Cagliari</title>
+    <desc>Live: Tidak</desc>
+</programme>
 <programme start="20260304150000 +0700" stop="20260304170000 +0700" channel="COSMOTE Sport 3 HD">
     <title>Football: Aston Villa - Newcastle United</title>
     <desc>Live: Tidak</desc>
@@ -188,10 +192,6 @@
 </programme>
 <programme start="20260305150000 +0700" stop="20260305174000 +0700" channel="COSMOTE Sport 3 HD">
     <title>Football: Southampton - Leicester City FC</title>
-    <desc>Live: Tidak</desc>
-</programme>
-<programme start="20260304131000 +0700" stop="20260304151500 +0700" channel="COSMOTE Sport 4 HD">
-    <title>Basketball: Unicaja - Real Madrid</title>
     <desc>Live: Tidak</desc>
 </programme>
 <programme start="20260304151500 +0700" stop="20260304171500 +0700" channel="COSMOTE Sport 4 HD">
@@ -248,10 +248,6 @@
 </programme>
 <programme start="20260305150000 +0700" stop="20260305170000 +0700" channel="COSMOTE Sport 4 HD">
     <title>Basketball: Vanoli Cremona - Armani Milano</title>
-    <desc>Live: Tidak</desc>
-</programme>
-<programme start="20260304131000 +0700" stop="20260304151000 +0700" channel="COSMOTE Sport 5 HD">
-    <title>2025 Extreme H</title>
     <desc>Live: Tidak</desc>
 </programme>
 <programme start="20260304151000 +0700" stop="20260304163500 +0700" channel="COSMOTE Sport 5 HD">
@@ -350,8 +346,12 @@
     <title>ERC 2025</title>
     <desc>Live: Tidak</desc>
 </programme>
-<programme start="20260304143500 +0700" stop="20260304153500 +0700" channel="COSMOTE Sport 6 HD">
-    <title>ATP 500 2026 - Highlights</title>
+<programme start="20260305161000 +0700" stop="20260305165500 +0700" channel="COSMOTE Sport 5 HD">
+    <title>ERC 2025</title>
+    <desc>Live: Tidak</desc>
+</programme>
+<programme start="20260305165500 +0700" stop="20260305180000 +0700" channel="COSMOTE Sport 5 HD">
+    <title>ERC 2025</title>
     <desc>Live: Tidak</desc>
 </programme>
 <programme start="20260304153500 +0700" stop="20260304175000 +0700" channel="COSMOTE Sport 6 HD">
