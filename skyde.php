@@ -3033,7 +3033,7 @@ Warning: Undefined array key "et" in /usr/home/ManusiaBiasa/domains/manusiabiasa
     <title>PL: Brighton &amp; Hove Albion - FC Arsenal, 29. Spieltag</title>
 </programme>
 <programme start="20260305103000 +0000" stop="20260305123000 +0000" channel="Sky Sport Premier League HD.skyde">
-    <title>PL: Newcastle United - Manchester United, Match of the Week, 29. Spieltag</title>
+    <title>PL: Mittwochs-Konferenz, 29. Spieltag</title>
 </programme>
 <programme start="20260305123000 +0000" stop="20260305130000 +0000" channel="Sky Sport Premier League HD.skyde">
     <title>PL: PL Rewind: Michael Owen</title>
@@ -3078,34 +3078,34 @@ Warning: Undefined array key "et" in /usr/home/ManusiaBiasa/domains/manusiabiasa
     <title>ATP 500: Review Dubai</title>
 </programme>
 <programme start="20260305070000 +0000" stop="20260305090000 +0000" channel="Sky Sport Tennis HD.skyde">
-    <title>WTA 1000: Topspiel, BNP Paribas Open in Indian Wells, Kalifornien (USA), 1. Tag</title>
+    <title>WTA 1000: T. Maria (GER) - S. Cirstea (ROM), BNP Paribas Open in Indian Wells, Kalifornien (USA), 1. Tag</title>
 </programme>
 <programme start="20260305090000 +0000" stop="20260305110000 +0000" channel="Sky Sport Tennis HD.skyde">
-    <title>ATP 1000: Topspiel, BNP Paribas Open in Indian Wells, Kalifornien (USA), 1. Tag</title>
+    <title>ATP 1000: J.-L. Struff (GER) - Z. Bergs (BEL), BNP Paribas Open in Indian Wells, Kalifornien (USA), 1. Tag</title>
 </programme>
 <programme start="20260305110000 +0000" stop="20260305120000 +0000" channel="Sky Sport Tennis HD.skyde">
     <title>ATP 500: Review Acapulco</title>
 </programme>
 <programme start="20260305120000 +0000" stop="20260305143000 +0000" channel="Sky Sport Tennis HD.skyde">
-    <title>WTA 500: C. Bucsa (ESP) - M. Frech (POL), Merida Open in Merida (MEX), Finale</title>
+    <title>ATP 250: Y. Hanfmann (GER) - L. Darderi (ITA), BCI Seguros Chile Open in Santiago (CHI), Finale</title>
 </programme>
 <programme start="20260305143000 +0000" stop="20260305150000 +0000" channel="Sky Sport Tennis HD.skyde">
     <title>ATP: This Week</title>
 </programme>
 <programme start="20260305150000 +0000" stop="20260305170000 +0000" channel="Sky Sport Tennis HD.skyde">
-    <title>WTA 1000: Topspiel, BNP Paribas Open in Indian Wells, Kalifornien (USA), 1. Tag</title>
+    <title>WTA 1000: T. Maria (GER) - S. Cirstea (ROM), BNP Paribas Open in Indian Wells, Kalifornien (USA), 1. Tag</title>
 </programme>
 <programme start="20260305170000 +0000" stop="20260305190000 +0000" channel="Sky Sport Tennis HD.skyde">
-    <title>ATP 1000: Topspiel, BNP Paribas Open in Indian Wells, Kalifornien (USA), 1. Tag</title>
+    <title>ATP 1000: J.-L. Struff (GER) - Z. Bergs (BEL), BNP Paribas Open in Indian Wells, Kalifornien (USA), 1. Tag</title>
 </programme>
 <programme start="20260305190000 +0000" stop="20260306060000 +0000" channel="Sky Sport Tennis HD.skyde">
     <title>Live ATP &amp; WTA: Konferenz BNP Paribas Open in Indian Wells, Kalifornien (USA), 2. Tag</title>
 </programme>
-<programme start="20260305070000 +0000" stop="20260305100000 +0000" channel="Sky Sport Top Event HD.skyde">
+<programme start="20260305060000 +0000" stop="20260305100000 +0000" channel="Sky Sport Top Event HD.skyde">
     <title>Live LIV Golf: Hongkong, 1. Tag in China</title>
 </programme>
 <programme start="20260305100000 +0000" stop="20260305120000 +0000" channel="Sky Sport Top Event HD.skyde">
-    <title>PL: Newcastle United - Manchester United, Match of the Week, 29. Spieltag</title>
+    <title>PL: Mittwochs-Konferenz, 29. Spieltag</title>
 </programme>
 <programme start="20260305120000 +0000" stop="20260305140000 +0000" channel="Sky Sport Top Event HD.skyde">
     <title>TGL: The Bay Golf Club - Jupiter Links Golf Club, 15. Spieltag</title>
@@ -3191,7 +3191,7 @@ Warning: Undefined array key "et" in /usr/home/ManusiaBiasa/domains/manusiabiasa
 <programme start="20260305184000 +0000" stop="20260305190000 +0000" channel="Sky Sport 1 HD.skyde">
     <title>Es folgt: LIVE Tennis WTA Tour</title>
 </programme>
-<programme start="20260305190000 +0000" stop="20260306060000 +0000" channel="Sky Sport 1 HD.skyde">
+<programme start="20260305190000 +0000" stop="20260306090000 +0000" channel="Sky Sport 1 HD.skyde">
     <title>Live WTA 1000: BNP Paribas Open in Indian Wells, Kalifornien (USA), 2. Tag</title>
 </programme>
 <programme start="20260304232000 +0000" stop="20260305000500 +0000" channel="SYFY HD.skyde">
