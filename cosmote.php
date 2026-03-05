@@ -50,8 +50,8 @@
     <title>Highlights: UEL &amp; UECL 2025-26</title>
     <desc>Live: Tidak</desc>
 </programme>
-<programme start="20260305190500 +0700" stop="20260305211500 +0700" channel="COSMOTE Sport 2 HD">
-    <title>Football: Panathinaikos - OFI</title>
+<programme start="20260306220000 +0700" stop="20260307010000 +0700" channel="COSMOTE Sport 1 HD">
+    <title>Football: Viktoria Plzen - Panathinaikos</title>
     <desc>Live: Tidak</desc>
 </programme>
 <programme start="20260305211500 +0700" stop="20260305231500 +0700" channel="COSMOTE Sport 2 HD">
@@ -122,6 +122,10 @@
     <title>Football: Sassuolo - Atalanta</title>
     <desc>Live: Tidak</desc>
 </programme>
+<programme start="20260306225000 +0700" stop="20260306232000 +0700" channel="COSMOTE Sport 2 HD">
+    <title>Serie A Full Impact 2024-25 E27</title>
+    <desc>Live: Tidak</desc>
+</programme>
 <programme start="20260305210000 +0700" stop="20260305230000 +0700" channel="COSMOTE Sport 3 HD">
     <title>Football: Aberdeen - Celtic FC</title>
     <desc>Live: Tidak</desc>
@@ -172,10 +176,6 @@
 </programme>
 <programme start="20260306210000 +0700" stop="20260306230000 +0700" channel="COSMOTE Sport 3 HD">
     <title>Football: Al-Kholood - Al-Qadsiah</title>
-    <desc>Live: Tidak</desc>
-</programme>
-<programme start="20260305193000 +0700" stop="20260305220000 +0700" channel="COSMOTE Sport 4 HD">
-    <title>Basketball: Milwaukee Bucks - Atlanta Hawks</title>
     <desc>Live: Tidak</desc>
 </programme>
 <programme start="20260305220000 +0700" stop="20260306000500 +0700" channel="COSMOTE Sport 4 HD">
@@ -234,8 +234,8 @@
     <title>ACB Liga Endesa 2025-26 - Fifth Quarter E20</title>
     <desc>Live: Tidak</desc>
 </programme>
-<programme start="20260305195000 +0700" stop="20260305212000 +0700" channel="COSMOTE Sport 5 HD">
-    <title>Motorsports: Moto2 2026</title>
+<programme start="20260306221500 +0700" stop="20260307001000 +0700" channel="COSMOTE Sport 4 HD">
+    <title>Basketball: Vanoli Cremona - Armani Milano</title>
     <desc>Live: Tidak</desc>
 </programme>
 <programme start="20260305212000 +0700" stop="20260305225500 +0700" channel="COSMOTE Sport 5 HD">
@@ -342,6 +342,10 @@
     <title>WRC: More Than Machine S2 E2</title>
     <desc>Live: Tidak</desc>
 </programme>
+<programme start="20260306222500 +0700" stop="20260306231000 +0700" channel="COSMOTE Sport 5 HD">
+    <title>WRC: More Than Machine S2 E3</title>
+    <desc>Live: Tidak</desc>
+</programme>
 <programme start="20260305183000 +0700" stop="20260305223000 +0700" channel="COSMOTE Sport 6 HD">
     <title>Tennis: ATP Masters 1000 2026</title>
     <desc>Live: Tidak</desc>
@@ -380,6 +384,14 @@
 </programme>
 <programme start="20260306180000 +0700" stop="20260306220000 +0700" channel="COSMOTE Sport 6 HD">
     <title>Tennis: ATP Masters 1000 2026</title>
+    <desc>Live: Tidak</desc>
+</programme>
+<programme start="20260306220000 +0700" stop="20260306225000 +0700" channel="COSMOTE Sport 6 HD">
+    <title>Sports Classics: 2025 Outdoor Specials</title>
+    <desc>Live: Tidak</desc>
+</programme>
+<programme start="20260306225000 +0700" stop="20260307003000 +0700" channel="COSMOTE Sport 6 HD">
+    <title>Handball: VfL Gummersbach - Lemgo Lippe</title>
     <desc>Live: Tidak</desc>
 </programme>
 <programme start="20260305210000 +0700" stop="20260305230000 +0700" channel="COSMOTE Sport 7 HD">

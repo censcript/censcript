@@ -3033,7 +3033,7 @@ Warning: Undefined array key "et" in /usr/home/ManusiaBiasa/domains/manusiabiasa
     <title>PL: Brighton &amp; Hove Albion - FC Arsenal, 29. Spieltag</title>
 </programme>
 <programme start="20260305103000 +0000" stop="20260305123000 +0000" channel="Sky Sport Premier League HD.skyde">
-    <title>PL: Newcastle United - Manchester United, Match of the Week, 29. Spieltag</title>
+    <title>PL: Mittwochs-Konferenz, 29. Spieltag</title>
 </programme>
 <programme start="20260305123000 +0000" stop="20260305130000 +0000" channel="Sky Sport Premier League HD.skyde">
     <title>PL: PL Rewind: Michael Owen</title>
