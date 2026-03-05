@@ -119,7 +119,7 @@
 <title>Upin &amp; Ipin</title>
 </programme>
 <programme start="20260305131500 +0000" stop="20260305151500 +0000" channel="MNCTV.vision">
-<title>Anugerah Cahaya Ramadan (MNCTV)</title>
+<title>Anugerah Cahaya Ramadan</title>
 </programme>
 <programme start="20260305151500 +0000" stop="20260305180000 +0000" channel="MNCTV.vision">
 <title>DMD Panggung Rezeki (MNCTV)</title>
@@ -718,6 +718,9 @@
 <programme start="20260305003000 +0000" stop="20260305023000 +0000" channel="ANTV.vision">
 <title>Janji Inspektur Virat</title>
 </programme>
+<programme start="20260305023000 +0000" stop="20260305060000 +0000" channel="ANTV.vision">
+<title>Milenge Milenge</title>
+</programme>
 <programme start="20260305060000 +0000" stop="20260305080000 +0000" channel="ANTV.vision">
 <title>Jhanak</title>
 </programme>
@@ -1301,7 +1304,7 @@
 <title>Primetime News</title>
 </programme>
 <programme start="20260306110000 +0000" stop="20260306113000 +0000" channel="Metro TV.vision">
-<title>Kitchen Beb</title>
+<title>Cahaya Hati</title>
 </programme>
 <programme start="20260306113000 +0000" stop="20260306115000 +0000" channel="Metro TV.vision">
 <title>Primetime News</title>
@@ -1493,8 +1496,5 @@
 <title>Berita Satu Utama</title>
 </programme>
 <programme start="20260304230000 +0000" stop="20260305010000 +0000" channel="TVRI.vision">
-<title>TVRI</title>
-</programme>
-<programme start="20260305010000 +0000" stop="20260305030000 +0000" channel="TVRI.vision">
 <title>TVRI</title>
 </programme>
