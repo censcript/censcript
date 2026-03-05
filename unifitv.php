@@ -4394,45 +4394,22 @@ kawasan pergunungan tertinggi dunia, dari Banjaran Himalaya hingga Tian Shan. Ia
     <episode-num system="xmltv_ns">0.20260304.</episode-num>
     <episode-num system="onscreen">S1E20260305</episode-num>
   </programme>
-  <programme start="20260305000300 +0000" stop="20260305010000 +0000" channel="phoenixhongkong.unifitv">
+  <programme start="20260305000300 +0000" stop="20260305004300 +0000" channel="phoenixhongkong.unifitv">
     <title lang="en">PHOENIX MORNING EXPRESS</title>
     <desc lang="en">The bright and early morning news program has all the ingredients to get the audience off to a great start.</desc>
     <category lang="en">News</category>
     <episode-num system="xmltv_ns">0.20260304.</episode-num>
     <episode-num system="onscreen">S1E20260305</episode-num>
   </programme>
-  <programme start="20260305010000 +0000" stop="20260305010300 +0000" channel="phoenixhongkong.unifitv">
+  <programme start="20260305004300 +0000" stop="20260305004800 +0000" channel="phoenixhongkong.unifitv">
     <title lang="en">PHOENIX WEATHER FORECAST</title>
     <desc lang="en">Phoenix's engaging young presenter tracks weather movements and forecasts upcoming conditions in her upbeat, lively presentation coupled with music, folklore and traditional wisdom pertaining to different weather conditions in various times of the year, making Weather Forecast a true delight regardless of rain or shine.</desc>
     <category lang="en">Environment</category>
-    <episode-num system="xmltv_ns">0.20260304.</episode-num>
-    <episode-num system="onscreen">S1E20260305</episode-num>
   </programme>
-  <programme start="20260305010300 +0000" stop="20260305013300 +0000" channel="phoenixhongkong.unifitv">
-    <title lang="en">CHIEF EDITOR'S TIME</title>
-    <desc lang="en">Daily key issues around the world are discussed on Chief Editor's Time. In-depth analyses and discussion gives viewers a better understanding of the issue.</desc>
-    <category lang="en">Factual</category>
-    <episode-num system="xmltv_ns">0.20260304.</episode-num>
-    <episode-num system="onscreen">S1E20260305</episode-num>
-  </programme>
-  <programme start="20260305013300 +0000" stop="20260305020300 +0000" channel="phoenixhongkong.unifitv">
-    <title lang="en">LAWRENCE VIEWPOINT</title>
-    <desc lang="en">The program gives a glimpse of the week's significant news, in-depth analysis of the key events and a credible and lucid comments on critical issues.</desc>
-    <category lang="en">News</category>
-    <episode-num system="xmltv_ns">3.20260304.</episode-num>
-    <episode-num system="onscreen">S4E20260305</episode-num>
-  </programme>
-  <programme start="20260305020300 +0000" stop="20260305023300 +0000" channel="phoenixhongkong.unifitv">
-    <title lang="en">GBA DISCOVERY</title>
-    <desc lang="en">Phoenix reporters visited the Greater Bay Area in person and discovered the latest and most interesting events, people, and achievements in the Greater Bay Area.</desc>
-    <category lang="en">Current Affairs</category>
-    <episode-num system="xmltv_ns">0.20260304.</episode-num>
-    <episode-num system="onscreen">S1E20260305</episode-num>
-  </programme>
-  <programme start="20260305023300 +0000" stop="20260305030300 +0000" channel="phoenixhongkong.unifitv">
-    <title lang="en">PHOENIX PANORAMA</title>
-    <desc lang="en">To entertain, educate and inform audiences, Panoramic Eyeshot of Phoenix, a series of captivating and controversial documentaries, includes segments on current affairs, historical anniversaries and exclusive insider views on present developments.</desc>
-    <category lang="en">Documentary</category>
+  <programme start="20260305004800 +0000" stop="20260305030300 +0000" channel="phoenixhongkong.unifitv">
+    <title lang="en">THE NPC &amp; CPPCC REPORT 2026 [CANTONESE]</title>
+    <desc lang="en">Phoenix's engaging young presenter tracks weather movements and forecasts upcoming conditions in her upbeat, lively presentation coupled with music, folklore and traditional wisdom pertaining to different weather conditions in various times of the year, making Weather Forecast a true delight regardless of rain or shine.</desc>
+    <category lang="en">Environment</category>
     <episode-num system="xmltv_ns">0.20260304.</episode-num>
     <episode-num system="onscreen">S1E20260305</episode-num>
   </programme>
@@ -14457,7 +14434,7 @@ kawasan pergunungan tertinggi dunia, dari Banjaran Himalaya hingga Tian Shan. Ia
   </channel>
   <programme start="20260304153300 +0000" stop="20260304160300 +0000" channel="dw.unifitv">
     <title lang="en">Eco India</title>
-    <desc lang="en">Eco India</desc>
+    <desc lang="en">A fashion designer learns to create landscapes that flourish by working with nature. Plus: Protecting wetlands and how a German village got cheap clean energy.</desc>
     <category lang="en">Magazine</category>
     <episode-num system="xmltv_ns">0.0.</episode-num>
     <episode-num system="onscreen">S1E1</episode-num>
@@ -14471,7 +14448,7 @@ kawasan pergunungan tertinggi dunia, dari Banjaran Himalaya hingga Tian Shan. Ia
   </programme>
   <programme start="20260304163300 +0000" stop="20260304170300 +0000" channel="dw.unifitv">
     <title lang="en">Made in Germany</title>
-    <desc lang="en">Made in Germany</desc>
+    <desc lang="en">Once dismissed, Pakistan's fighter jet is now attracting billion dollar interest. But can jet exports really help to ease the country's debt burden?</desc>
     <category lang="en">Magazine</category>
     <episode-num system="xmltv_ns">0.0.</episode-num>
     <episode-num system="onscreen">S1E1</episode-num>
@@ -14484,15 +14461,15 @@ kawasan pergunungan tertinggi dunia, dari Banjaran Himalaya hingga Tian Shan. Ia
     <episode-num system="onscreen">S1E1</episode-num>
   </programme>
   <programme start="20260304171800 +0000" stop="20260304173300 +0000" channel="dw.unifitv">
-    <title lang="en">Best of DW-online Content</title>
-    <desc lang="en">Best of DW-online Content</desc>
+    <title lang="en">Transforming Business</title>
+    <desc lang="en">Wine depends on stable climates, and climate change is breaking that balance. From drought-stricken vineyards in Chile to new wine regions emerging in Germany, this episode of Transforming Business shows how climate change is reshaping where wine can be made, how it is produced, and who can still compete.</desc>
     <category lang="en">Documentary</category>
     <episode-num system="xmltv_ns">0.0.</episode-num>
     <episode-num system="onscreen">S1E1</episode-num>
   </programme>
   <programme start="20260304173300 +0000" stop="20260304180300 +0000" channel="dw.unifitv">
     <title lang="en">Close up</title>
-    <desc lang="en">The weekly half-hour program delivers in-depth reporting on topical political issues and newsworthy events. Revealing the story behind the stories, "Close up" is informative, gripping and visually powerful.</desc>
+    <desc lang="en">Armed gangs control much of Haiti, including the vast majority of the capital Port-au-Prince. According to UN reports, the associated violence left almost 6,000 people dead in 2025 alone and over 1.4 million displaced.</desc>
     <category lang="en">Documentary</category>
     <episode-num system="xmltv_ns">0.0.</episode-num>
     <episode-num system="onscreen">S1E1</episode-num>
@@ -14505,9 +14482,9 @@ kawasan pergunungan tertinggi dunia, dari Banjaran Himalaya hingga Tian Shan. Ia
     <episode-num system="onscreen">S1E1</episode-num>
   </programme>
   <programme start="20260304183300 +0000" stop="20260304190300 +0000" channel="dw.unifitv">
-    <title lang="en">DocFilm</title>
-    <desc lang="en">For a cow to produce milk, she must give birth to a calf. Female calves later become dairy cows themselves, while male calves are surplus to the dairy industry's requirements. They're packed into trucks and suffer in transit on their way to fattening facilities.</desc>
-    <category lang="en">Documentary</category>
+    <title lang="en">Global Us</title>
+    <desc lang="en">A deworming drug for animals is being tested in humans, with results that bring hope to millions. Why climate change is robbing Indian farmers of marriage prospects, and how volunteers in Libya are saving sea turtles.</desc>
+    <category lang="en">Magazine</category>
     <episode-num system="xmltv_ns">0.0.</episode-num>
     <episode-num system="onscreen">S1E1</episode-num>
   </programme>
@@ -14526,15 +14503,15 @@ kawasan pergunungan tertinggi dunia, dari Banjaran Himalaya hingga Tian Shan. Ia
     <episode-num system="onscreen">S1E1</episode-num>
   </programme>
   <programme start="20260304191800 +0000" stop="20260304193300 +0000" channel="dw.unifitv">
-    <title lang="en">Best of DW-online Content</title>
-    <desc lang="en">Best of DW-online Content</desc>
+    <title lang="en">Transforming Business</title>
+    <desc lang="en">Wine depends on stable climates, and climate change is breaking that balance. From drought-stricken vineyards in Chile to new wine regions emerging in Germany, this episode of Transforming Business shows how climate change is reshaping where wine can be made, how it is produced, and who can still compete.</desc>
     <category lang="en">Documentary</category>
     <episode-num system="xmltv_ns">0.0.</episode-num>
     <episode-num system="onscreen">S1E1</episode-num>
   </programme>
   <programme start="20260304193300 +0000" stop="20260304200300 +0000" channel="dw.unifitv">
     <title lang="en">The 77 Percent</title>
-    <desc lang="en">The 77 Percent</desc>
+    <desc lang="en">From a bribe demanded on the streets of Kinshasa to families in Kenya paying the price for broken systems, young Africans are questioning who truly benefits — and who pays. On The 77 Percent, we explore grassroots initiatives empowering communities to navigate corruption and reclaim control.</desc>
     <category lang="en">Magazine</category>
     <episode-num system="xmltv_ns">0.0.</episode-num>
     <episode-num system="onscreen">S1E1</episode-num>
@@ -14590,7 +14567,7 @@ kawasan pergunungan tertinggi dunia, dari Banjaran Himalaya hingga Tian Shan. Ia
   </programme>
   <programme start="20260304223300 +0000" stop="20260304230300 +0000" channel="dw.unifitv">
     <title lang="en">Made in Germany</title>
-    <desc lang="en">Made in Germany</desc>
+    <desc lang="en">Once dismissed, Pakistan's fighter jet is now attracting billion dollar interest. But can jet exports really help to ease the country's debt burden?</desc>
     <category lang="en">Magazine</category>
     <episode-num system="xmltv_ns">0.0.</episode-num>
     <episode-num system="onscreen">S1E1</episode-num>
@@ -14610,15 +14587,15 @@ kawasan pergunungan tertinggi dunia, dari Banjaran Himalaya hingga Tian Shan. Ia
     <episode-num system="onscreen">S1E1</episode-num>
   </programme>
   <programme start="20260304231800 +0000" stop="20260304233300 +0000" channel="dw.unifitv">
-    <title lang="en">Best of DW-online Content</title>
-    <desc lang="en">Best of DW-online Content</desc>
+    <title lang="en">Transforming Business</title>
+    <desc lang="en">Wine depends on stable climates, and climate change is breaking that balance. From drought-stricken vineyards in Chile to new wine regions emerging in Germany, this episode of Transforming Business shows how climate change is reshaping where wine can be made, how it is produced, and who can still compete.</desc>
     <category lang="en">Documentary</category>
     <episode-num system="xmltv_ns">0.0.</episode-num>
     <episode-num system="onscreen">S1E1</episode-num>
   </programme>
   <programme start="20260304233300 +0000" stop="20260305000300 +0000" channel="dw.unifitv">
     <title lang="en">Focus on Europe</title>
-    <desc lang="en">Focus on Europe</desc>
+    <desc lang="en">The people targeted by sexualised deepfakes have often been left defenseless. Britain's parliament has now tightened its laws. +++ Equality is a normal part of life in Norwegian barracks, yet there have been repeated complaints of sexual harassment.</desc>
     <category lang="en">Magazine</category>
     <episode-num system="xmltv_ns">0.825.</episode-num>
     <episode-num system="onscreen">S1E826</episode-num>
@@ -14639,7 +14616,7 @@ kawasan pergunungan tertinggi dunia, dari Banjaran Himalaya hingga Tian Shan. Ia
   </programme>
   <programme start="20260305003300 +0000" stop="20260305010300 +0000" channel="dw.unifitv">
     <title lang="en">Arts Unveiled</title>
-    <desc lang="en">Arts Unveiled</desc>
+    <desc lang="en">Almost 100 and still innovative: "Metropolis" continues to shape visual language and themes today. Also: a look back at influential women of the Berlinale. Plus: tracing Berlin's colonial history for Black History Month.</desc>
     <category lang="en">Magazine</category>
     <episode-num system="xmltv_ns">0.0.</episode-num>
     <episode-num system="onscreen">S1E1</episode-num>
@@ -14681,7 +14658,7 @@ kawasan pergunungan tertinggi dunia, dari Banjaran Himalaya hingga Tian Shan. Ia
   </programme>
   <programme start="20260305023300 +0000" stop="20260305030300 +0000" channel="dw.unifitv">
     <title lang="en">Made in Germany</title>
-    <desc lang="en">Made in Germany</desc>
+    <desc lang="en">Once dismissed, Pakistan's fighter jet is now attracting billion dollar interest. But can jet exports really help to ease the country's debt burden?</desc>
     <category lang="en">Magazine</category>
     <episode-num system="xmltv_ns">0.0.</episode-num>
     <episode-num system="onscreen">S1E1</episode-num>
@@ -14701,15 +14678,15 @@ kawasan pergunungan tertinggi dunia, dari Banjaran Himalaya hingga Tian Shan. Ia
     <episode-num system="onscreen">S1E1</episode-num>
   </programme>
   <programme start="20260305031800 +0000" stop="20260305033300 +0000" channel="dw.unifitv">
-    <title lang="en">Best of DW-online Content</title>
-    <desc lang="en">Best of DW-online Content</desc>
+    <title lang="en">Transforming Business</title>
+    <desc lang="en">Wine depends on stable climates, and climate change is breaking that balance. From drought-stricken vineyards in Chile to new wine regions emerging in Germany, this episode of Transforming Business shows how climate change is reshaping where wine can be made, how it is produced, and who can still compete.</desc>
     <category lang="en">Documentary</category>
     <episode-num system="xmltv_ns">0.0.</episode-num>
     <episode-num system="onscreen">S1E1</episode-num>
   </programme>
   <programme start="20260305033300 +0000" stop="20260305040300 +0000" channel="dw.unifitv">
     <title lang="en">Eco India</title>
-    <desc lang="en">Eco India</desc>
+    <desc lang="en">A fashion designer learns to create landscapes that flourish by working with nature. Plus: Protecting wetlands and how a German village got cheap clean energy.</desc>
     <category lang="en">Magazine</category>
     <episode-num system="xmltv_ns">0.0.</episode-num>
     <episode-num system="onscreen">S1E1</episode-num>
@@ -14751,7 +14728,7 @@ kawasan pergunungan tertinggi dunia, dari Banjaran Himalaya hingga Tian Shan. Ia
   </programme>
   <programme start="20260305053300 +0000" stop="20260305060300 +0000" channel="dw.unifitv">
     <title lang="en">Focus on Europe</title>
-    <desc lang="en">Focus on Europe</desc>
+    <desc lang="en">The people targeted by sexualised deepfakes have often been left defenseless. Britain's parliament has now tightened its laws. +++ Equality is a normal part of life in Norwegian barracks, yet there have been repeated complaints of sexual harassment.</desc>
     <category lang="en">Magazine</category>
     <episode-num system="xmltv_ns">0.0.</episode-num>
     <episode-num system="onscreen">S1E1</episode-num>
@@ -14771,15 +14748,15 @@ kawasan pergunungan tertinggi dunia, dari Banjaran Himalaya hingga Tian Shan. Ia
     <episode-num system="onscreen">S1E1</episode-num>
   </programme>
   <programme start="20260305061800 +0000" stop="20260305063300 +0000" channel="dw.unifitv">
-    <title lang="en">Best of DW-online Content</title>
-    <desc lang="en">Best of DW-online Content</desc>
+    <title lang="en">Transforming Business</title>
+    <desc lang="en">Wine depends on stable climates, and climate change is breaking that balance. From drought-stricken vineyards in Chile to new wine regions emerging in Germany, this episode of Transforming Business shows how climate change is reshaping where wine can be made, how it is produced, and who can still compete.</desc>
     <category lang="en">Documentary</category>
     <episode-num system="xmltv_ns">0.0.</episode-num>
     <episode-num system="onscreen">S1E1</episode-num>
   </programme>
   <programme start="20260305063300 +0000" stop="20260305070300 +0000" channel="dw.unifitv">
-    <title lang="en">DocFilm</title>
-    <desc lang="en">For a cow to produce milk, she must give birth to a calf. Female calves later become dairy cows themselves, while male calves are surplus to the dairy industry's requirements. They're packed into trucks and suffer in transit on their way to fattening facilities.</desc>
+    <title lang="en">Under the Baobab</title>
+    <desc lang="en">West Africa is at a crossroads. Coups in Mali, Burkina Faso, and Niger have fueled insecurity and drug trafficking across the ECOWAS region. Sierra Leone has emerged as a loud diplomatic voice, pushing for stability and engaging leaders across the Sahel. But as Freetown steps up abroad, tough questions linger at home.</desc>
     <category lang="en">Documentary</category>
     <episode-num system="xmltv_ns">0.0.</episode-num>
     <episode-num system="onscreen">S1E1</episode-num>
@@ -14814,14 +14791,14 @@ kawasan pergunungan tertinggi dunia, dari Banjaran Himalaya hingga Tian Shan. Ia
   </programme>
   <programme start="20260305080500 +0000" stop="20260305083300 +0000" channel="dw.unifitv">
     <title lang="en">Made in Germany</title>
-    <desc lang="en">Made in Germany</desc>
+    <desc lang="en">Once dismissed, Pakistan's fighter jet is now attracting billion dollar interest. But can jet exports really help to ease the country's debt burden?</desc>
     <category lang="en">Magazine</category>
     <episode-num system="xmltv_ns">0.0.</episode-num>
     <episode-num system="onscreen">S1E1</episode-num>
   </programme>
   <programme start="20260305083300 +0000" stop="20260305090300 +0000" channel="dw.unifitv">
     <title lang="en">Focus on Europe</title>
-    <desc lang="en">Focus on Europe</desc>
+    <desc lang="en">The people targeted by sexualised deepfakes have often been left defenseless. Britain's parliament has now tightened its laws. +++ Equality is a normal part of life in Norwegian barracks, yet there have been repeated complaints of sexual harassment.</desc>
     <category lang="en">Magazine</category>
     <episode-num system="xmltv_ns">0.0.</episode-num>
     <episode-num system="onscreen">S1E1</episode-num>
@@ -14884,14 +14861,14 @@ kawasan pergunungan tertinggi dunia, dari Banjaran Himalaya hingga Tian Shan. Ia
   </programme>
   <programme start="20260305111800 +0000" stop="20260305113300 +0000" channel="dw.unifitv">
     <title lang="en">Sports Life</title>
-    <desc lang="en">Sports Life</desc>
+    <desc lang="en">_x000D_ In Sisimiut, young musher Nukaaraq Olsen keeps Greenland's dogsledding tradition alive. Raised around sled dogs, he trains, hunts and prepares for the national race with his 23 dogs. For him and his father, dogsledding is culture, identity and a way to live in touch with nature._x000D_</desc>
     <category lang="en">Sports</category>
     <episode-num system="xmltv_ns">0.0.</episode-num>
     <episode-num system="onscreen">S1E1</episode-num>
   </programme>
   <programme start="20260305113300 +0000" stop="20260305120300 +0000" channel="dw.unifitv">
     <title lang="en">Focus on Europe</title>
-    <desc lang="en">Focus on Europe</desc>
+    <desc lang="en">The people targeted by sexualised deepfakes have often been left defenseless. Britain's parliament has now tightened its laws. +++ Equality is a normal part of life in Norwegian barracks, yet there have been repeated complaints of sexual harassment.</desc>
     <category lang="en">Magazine</category>
     <episode-num system="xmltv_ns">0.0.</episode-num>
     <episode-num system="onscreen">S1E1</episode-num>
@@ -14932,15 +14909,15 @@ kawasan pergunungan tertinggi dunia, dari Banjaran Himalaya hingga Tian Shan. Ia
     <episode-num system="onscreen">S1E1</episode-num>
   </programme>
   <programme start="20260305131800 +0000" stop="20260305133300 +0000" channel="dw.unifitv">
-    <title lang="en">Best of DW-online Content</title>
-    <desc lang="en">Best of DW-online Content</desc>
+    <title lang="en">Arts Unveiled</title>
+    <desc lang="en">What lies beneath Berlin? Far below the streets of Germany's capital, archaeologists are uncovering secrets that have been buried for over 800 years. From medieval wells to forgotten streets, from ancient bones to gold rings, this is the real story of how Berlin began, and how its hidden past is being brought back to life.</desc>
     <category lang="en">Documentary</category>
     <episode-num system="xmltv_ns">0.0.</episode-num>
     <episode-num system="onscreen">S1E1</episode-num>
   </programme>
   <programme start="20260305133300 +0000" stop="20260305140300 +0000" channel="dw.unifitv">
     <title lang="en">REV</title>
-    <desc lang="en">REV</desc>
+    <desc lang="en">What happens when you drink and drive? Our reporter gets behind the wheel of a driving simulator to find out. Plus: Carl Benz, his wife Bertha and the Patent Motor Car, and how cycling helps a Sudanese refugee in Cairo.</desc>
     <category lang="en">Magazine</category>
     <episode-num system="xmltv_ns">0.0.</episode-num>
     <episode-num system="onscreen">S1E1</episode-num>
@@ -15506,12 +15483,12 @@ kawasan pergunungan tertinggi dunia, dari Banjaran Himalaya hingga Tian Shan. Ia
     <desc lang="en">World Pickleball League Season 2 heads to Mumbai, as top international players compete in fast-paced team action, showcasing skill, intensity, and excitement in one of the sport's fast-growing leagues</desc>
     <category lang="en">Sports</category>
   </programme>
-  <programme start="20260305023000 +0000" stop="20260305030000 +0000" channel="spotv2.unifitv">
+  <programme start="20260305023000 +0000" stop="20260305031000 +0000" channel="spotv2.unifitv">
     <title lang="en">2026 World Baseball Classic Preview - Pool C</title>
     <desc lang="en">The world's best national teams compete for international glory, delivering powerful hitting, elite pitching, and thrilling baseball action on the global stage.</desc>
     <category lang="en">Baseball</category>
   </programme>
-  <programme start="20260305030000 +0000" stop="20260305060000 +0000" channel="spotv2.unifitv">
+  <programme start="20260305031000 +0000" stop="20260305060000 +0000" channel="spotv2.unifitv">
     <title lang="en">(L) 2026 World Baseball Classic: Pool C - Chinese Taipei vs Australia</title>
     <desc lang="en">The world's best national teams compete for international glory, delivering powerful hitting, elite pitching, and thrilling baseball action on the global stage.</desc>
     <category lang="en">Baseball</category>
@@ -15526,12 +15503,12 @@ kawasan pergunungan tertinggi dunia, dari Banjaran Himalaya hingga Tian Shan. Ia
     <desc lang="en">World Pickleball League Season 2 heads to Mumbai, as top international players compete in fast-paced team action, showcasing skill, intensity, and excitement in one of the sport's fast-growing leagues</desc>
     <category lang="en">Sports</category>
   </programme>
-  <programme start="20260305090000 +0000" stop="20260305100000 +0000" channel="spotv2.unifitv">
+  <programme start="20260305090000 +0000" stop="20260305101000 +0000" channel="spotv2.unifitv">
     <title lang="en">2026 MotoGP Rd 1 PT GP of Thailand - Highlights</title>
     <desc lang="en">The 2026 MotoGP sees 22 of the world's best riders battle on 1000cc prototype machines, delivering over 250hp and reaching speeds of 360kph across 22 thrilling Grands Prix in 18 countries.</desc>
     <category lang="en">Motorsports</category>
   </programme>
-  <programme start="20260305100000 +0000" stop="20260305130000 +0000" channel="spotv2.unifitv">
+  <programme start="20260305101000 +0000" stop="20260305130000 +0000" channel="spotv2.unifitv">
     <title lang="en">(L) 2026 World Baseball Classic: Pool C - Czechia vs Korea</title>
     <desc lang="en">The world's best national teams compete for international glory, delivering powerful hitting, elite pitching, and thrilling baseball action on the global stage.</desc>
     <category lang="en">Baseball</category>
