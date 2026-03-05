@@ -54,6 +54,14 @@
     <title>Game R1 S6 E28</title>
     <desc>Live: Tidak</desc>
 </programme>
+<programme start="20260307040000 +0700" stop="20260307043000 +0700" channel="COSMOTE Sport 1 HD">
+    <title>UEFA Champions League Magazine 2024-25 E23</title>
+    <desc>Live: Tidak</desc>
+</programme>
+<programme start="20260307043000 +0700" stop="20260307052500 +0700" channel="COSMOTE Sport 1 HD">
+    <title>Highlights: UEL &amp; UECL 2025-26</title>
+    <desc>Live: Tidak</desc>
+</programme>
 <programme start="20260306020000 +0700" stop="20260306041500 +0700" channel="COSMOTE Sport 2 HD">
     <title>Football: Volos NPS - AEK</title>
     <desc>Live: Tidak</desc>
@@ -125,6 +133,10 @@
 <programme start="20260307024500 +0700" stop="20260307044500 +0700" channel="COSMOTE Sport 2 HD">
     <title>Football: SSC Napoli - Torino (L)</title>
     <desc>Live: Ya</desc>
+</programme>
+<programme start="20260307044500 +0700" stop="20260307065500 +0700" channel="COSMOTE Sport 2 HD">
+    <title>Football: Kifisia - PAOK</title>
+    <desc>Live: Tidak</desc>
 </programme>
 <programme start="20260306030000 +0700" stop="20260306050000 +0700" channel="COSMOTE Sport 3 HD">
     <title>Football: Sporting CP - Estoril</title>
@@ -254,8 +266,8 @@
     <title>Basketball: Turk Telekom - Fenerbahce</title>
     <desc>Live: Tidak</desc>
 </programme>
-<programme start="20260306030000 +0700" stop="20260306033000 +0700" channel="COSMOTE Sport 5 HD">
-    <title>Sports Classics: Gearing Up 2026 E2</title>
+<programme start="20260307043500 +0700" stop="20260307050000 +0700" channel="COSMOTE Sport 4 HD">
+    <title>ACB Liga Endesa 2025-26 - Fifth Quarter E20</title>
     <desc>Live: Tidak</desc>
 </programme>
 <programme start="20260306033000 +0700" stop="20260306043000 +0700" channel="COSMOTE Sport 5 HD">
@@ -368,6 +380,14 @@
 </programme>
 <programme start="20260307033500 +0700" stop="20260307040500 +0700" channel="COSMOTE Sport 5 HD">
     <title>FIA Championship Middle East 2026</title>
+    <desc>Live: Tidak</desc>
+</programme>
+<programme start="20260307040500 +0700" stop="20260307045000 +0700" channel="COSMOTE Sport 5 HD">
+    <title>WRC: More Than Machine S2 E4</title>
+    <desc>Live: Tidak</desc>
+</programme>
+<programme start="20260307045000 +0700" stop="20260307054000 +0700" channel="COSMOTE Sport 5 HD">
+    <title>WRC: More Than Machine S2 E5</title>
     <desc>Live: Tidak</desc>
 </programme>
 <programme start="20260306020000 +0700" stop="20260306060000 +0700" channel="COSMOTE Sport 6 HD">
@@ -537,6 +557,14 @@
 <programme start="20260307020000 +0700" stop="20260307040000 +0700" channel="COSMOTE Sport 8 HD">
     <title>Football: Al Ahli - Al Ittihad (L)</title>
     <desc>Live: Ya</desc>
+</programme>
+<programme start="20260307040000 +0700" stop="20260307043000 +0700" channel="COSMOTE Sport 8 HD">
+    <title>COSMOTESport8HD</title>
+    <desc>Live: Tidak</desc>
+</programme>
+<programme start="20260307043000 +0700" stop="20260307050000 +0700" channel="COSMOTE Sport 8 HD">
+    <title>COSMOTESport8HD</title>
+    <desc>Live: Tidak</desc>
 </programme>
 <programme start="20260306030000 +0700" stop="20260306050000 +0700" channel="COSMOTE Sport 9 HD">
     <title>COSMOTESport9HD</title>

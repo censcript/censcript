@@ -3074,13 +3074,13 @@ Warning: Undefined array key "et" in /usr/home/ManusiaBiasa/domains/manusiabiasa
 <programme start="20260305223500 +0000" stop="20260305230500 +0000" channel="Sky Sport Premier League HD.skyde">
     <title>PL: PL Stories (Micky van de Ven)</title>
 </programme>
-<programme start="20260305070000 +0000" stop="20260305090000 +0000" channel="Sky Sport Tennis HD.skyde">
+<programme start="20260305071500 +0000" stop="20260305091000 +0000" channel="Sky Sport Tennis HD.skyde">
     <title>WTA 1000: T. Maria (GER) - S. Cirstea (ROM), BNP Paribas Open in Indian Wells, Kalifornien (USA), 1. Tag</title>
 </programme>
-<programme start="20260305090000 +0000" stop="20260305110000 +0000" channel="Sky Sport Tennis HD.skyde">
+<programme start="20260305091000 +0000" stop="20260305110500 +0000" channel="Sky Sport Tennis HD.skyde">
     <title>ATP 1000: S. Tsitsipas (GRE) - D. Shapovalov (CAN), BNP Paribas Open in Indian Wells, Kalifornien (USA), 1. Tag</title>
 </programme>
-<programme start="20260305110000 +0000" stop="20260305120000 +0000" channel="Sky Sport Tennis HD.skyde">
+<programme start="20260305110500 +0000" stop="20260305120000 +0000" channel="Sky Sport Tennis HD.skyde">
     <title>ATP 500: Review Acapulco</title>
 </programme>
 <programme start="20260305120000 +0000" stop="20260305143000 +0000" channel="Sky Sport Tennis HD.skyde">
@@ -3098,22 +3098,22 @@ Warning: Undefined array key "et" in /usr/home/ManusiaBiasa/domains/manusiabiasa
 <programme start="20260305190000 +0000" stop="20260306060000 +0000" channel="Sky Sport Tennis HD.skyde">
     <title>Live ATP &amp; WTA: Konferenz BNP Paribas Open in Indian Wells, Kalifornien (USA), 2. Tag</title>
 </programme>
-<programme start="20260305060000 +0000" stop="20260305100000 +0000" channel="Sky Sport Top Event HD.skyde">
+<programme start="20260305071500 +0000" stop="20260305101500 +0000" channel="Sky Sport Top Event HD.skyde">
     <title>Live LIV Golf: Hongkong, 1. Tag in China</title>
 </programme>
-<programme start="20260305100000 +0000" stop="20260305120000 +0000" channel="Sky Sport Top Event HD.skyde">
+<programme start="20260305101500 +0000" stop="20260305121500 +0000" channel="Sky Sport Top Event HD.skyde">
     <title>PL: Newcastle United - Manchester United, Match of the Week, 29. Spieltag</title>
 </programme>
-<programme start="20260305120000 +0000" stop="20260305140000 +0000" channel="Sky Sport Top Event HD.skyde">
+<programme start="20260305121500 +0000" stop="20260305141500 +0000" channel="Sky Sport Top Event HD.skyde">
     <title>TGL: The Bay Golf Club - Jupiter Links Golf Club, 15. Spieltag</title>
 </programme>
-<programme start="20260305140000 +0000" stop="20260305143000 +0000" channel="Sky Sport Top Event HD.skyde">
+<programme start="20260305141500 +0000" stop="20260305144000 +0000" channel="Sky Sport Top Event HD.skyde">
     <title>NHL: On the Fly</title>
 </programme>
-<programme start="20260305143000 +0000" stop="20260305150000 +0000" channel="Sky Sport Top Event HD.skyde">
+<programme start="20260305144000 +0000" stop="20260305150500 +0000" channel="Sky Sport Top Event HD.skyde">
     <title>NBA: Action</title>
 </programme>
-<programme start="20260305150000 +0000" stop="20260305160000 +0000" channel="Sky Sport Top Event HD.skyde">
+<programme start="20260305150500 +0000" stop="20260305160000 +0000" channel="Sky Sport Top Event HD.skyde">
     <title>3. Liga: Alle Spiele, alle Tore, 27. Spieltag komplett</title>
 </programme>
 <programme start="20260305160000 +0000" stop="20260305170000 +0000" channel="Sky Sport Top Event HD.skyde">
