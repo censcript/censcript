@@ -1910,7 +1910,7 @@
         <title>March</title>
     </programme>
     <programme start="20260304220000 +0000" stop="20260304235000 +0000" channel="beIN Sports 3.starhub">
-        <title>UEFA Europa League 2025/26: Nottingham Forest vs Fenerbahce - KO Play-Offs,2nd Leg</title>
+        <title>UEFA Europa League 2025/26: Nottingham Forest vs Fenerbahce - KO Play-Offs,2nd L</title>
     </programme>
     <programme start="20260304235000 +0000" stop="20260305014000 +0000" channel="beIN Sports 3.starhub">
         <title>Bundesliga 2025/26: Hamburg vs Leipzig</title>

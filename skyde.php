@@ -521,10 +521,10 @@ Warning: Undefined array key "et" in /usr/home/ManusiaBiasa/domains/manusiabiasa
 <programme start="20260305002500 +0000" stop="20260305003000 +0000" channel="Cartoonito.skyde">
     <title>Die Tom und Jerry Show</title>
 </programme>
-<programme start="20260305003000 +0000" stop="20260305004500 +0000" channel="Cartoonito.skyde">
+<programme start="20260305003000 +0000" stop="20260305005000 +0000" channel="Cartoonito.skyde">
     <title>Die Tom und Jerry Show</title>
 </programme>
-<programme start="20260305004500 +0000" stop="20260305010000 +0000" channel="Cartoonito.skyde">
+<programme start="20260305005000 +0000" stop="20260305010000 +0000" channel="Cartoonito.skyde">
     <title>Geschichten von Kröterich &amp; Co.</title>
 </programme>
 <programme start="20260305010000 +0000" stop="20260305011500 +0000" channel="Cartoonito.skyde">
@@ -539,10 +539,10 @@ Warning: Undefined array key "et" in /usr/home/ManusiaBiasa/domains/manusiabiasa
 <programme start="20260305013500 +0000" stop="20260305015000 +0000" channel="Cartoonito.skyde">
     <title>Geschichten von Kröterich &amp; Co.</title>
 </programme>
-<programme start="20260305015000 +0000" stop="20260305020000 +0000" channel="Cartoonito.skyde">
+<programme start="20260305015000 +0000" stop="20260305020500 +0000" channel="Cartoonito.skyde">
     <title>Mr. Bean - Die Cartoon-Serie</title>
 </programme>
-<programme start="20260305020000 +0000" stop="20260305022000 +0000" channel="Cartoonito.skyde">
+<programme start="20260305020500 +0000" stop="20260305022000 +0000" channel="Cartoonito.skyde">
     <title>Mr. Bean - Die Cartoon-Serie</title>
 </programme>
 <programme start="20260305022000 +0000" stop="20260305023000 +0000" channel="Cartoonito.skyde">
@@ -551,13 +551,13 @@ Warning: Undefined array key "et" in /usr/home/ManusiaBiasa/domains/manusiabiasa
 <programme start="20260305023000 +0000" stop="20260305024500 +0000" channel="Cartoonito.skyde">
     <title>Mr. Bean - Die Cartoon-Serie</title>
 </programme>
-<programme start="20260305024500 +0000" stop="20260305025500 +0000" channel="Cartoonito.skyde">
+<programme start="20260305024500 +0000" stop="20260305030000 +0000" channel="Cartoonito.skyde">
     <title>Ella im Weltall</title>
 </programme>
-<programme start="20260305025500 +0000" stop="20260305030500 +0000" channel="Cartoonito.skyde">
+<programme start="20260305030000 +0000" stop="20260305031000 +0000" channel="Cartoonito.skyde">
     <title>Ella im Weltall</title>
 </programme>
-<programme start="20260305030500 +0000" stop="20260305032500 +0000" channel="Cartoonito.skyde">
+<programme start="20260305031000 +0000" stop="20260305032500 +0000" channel="Cartoonito.skyde">
     <title>Ella im Weltall</title>
 </programme>
 <programme start="20260305032500 +0000" stop="20260305033500 +0000" channel="Cartoonito.skyde">
@@ -602,10 +602,10 @@ Warning: Undefined array key "et" in /usr/home/ManusiaBiasa/domains/manusiabiasa
 <programme start="20260305054000 +0000" stop="20260305055500 +0000" channel="Cartoonito.skyde">
     <title>SuperThings: Rivalen von Kaboom - Kazoom-Power</title>
 </programme>
-<programme start="20260305055500 +0000" stop="20260305060500 +0000" channel="Cartoonito.skyde">
+<programme start="20260305055500 +0000" stop="20260305060000 +0000" channel="Cartoonito.skyde">
     <title>Grizzy und die Lemminge</title>
 </programme>
-<programme start="20260305060500 +0000" stop="20260305061000 +0000" channel="Cartoonito.skyde">
+<programme start="20260305060000 +0000" stop="20260305061000 +0000" channel="Cartoonito.skyde">
     <title>Grizzy und die Lemminge</title>
 </programme>
 <programme start="20260305061000 +0000" stop="20260305062500 +0000" channel="Cartoonito.skyde">
@@ -689,10 +689,10 @@ Warning: Undefined array key "et" in /usr/home/ManusiaBiasa/domains/manusiabiasa
 <programme start="20260305112500 +0000" stop="20260305114000 +0000" channel="Cartoonito.skyde">
     <title>Mr. Bean - Die Cartoon-Serie</title>
 </programme>
-<programme start="20260305114000 +0000" stop="20260305115000 +0000" channel="Cartoonito.skyde">
+<programme start="20260305114000 +0000" stop="20260305115500 +0000" channel="Cartoonito.skyde">
     <title>Mr. Bean - Die Cartoon-Serie</title>
 </programme>
-<programme start="20260305115000 +0000" stop="20260305121000 +0000" channel="Cartoonito.skyde">
+<programme start="20260305115500 +0000" stop="20260305121000 +0000" channel="Cartoonito.skyde">
     <title>Mr. Bean - Die Cartoon-Serie</title>
 </programme>
 <programme start="20260305121000 +0000" stop="20260305122000 +0000" channel="Cartoonito.skyde">
@@ -737,10 +737,10 @@ Warning: Undefined array key "et" in /usr/home/ManusiaBiasa/domains/manusiabiasa
 <programme start="20260305143500 +0000" stop="20260305145500 +0000" channel="Cartoonito.skyde">
     <title>Ben 10</title>
 </programme>
-<programme start="20260305145500 +0000" stop="20260305152500 +0000" channel="Cartoonito.skyde">
+<programme start="20260305145500 +0000" stop="20260305152000 +0000" channel="Cartoonito.skyde">
     <title>Bleib cool, Scooby-Doo!</title>
 </programme>
-<programme start="20260305152500 +0000" stop="20260305154500 +0000" channel="Cartoonito.skyde">
+<programme start="20260305152000 +0000" stop="20260305154500 +0000" channel="Cartoonito.skyde">
     <title>Bleib cool, Scooby-Doo!</title>
 </programme>
 <programme start="20260305154500 +0000" stop="20260305155500 +0000" channel="Cartoonito.skyde">
@@ -767,10 +767,10 @@ Warning: Undefined array key "et" in /usr/home/ManusiaBiasa/domains/manusiabiasa
 <programme start="20260305172000 +0000" stop="20260305175000 +0000" channel="Cartoonito.skyde">
     <title>Bleib cool, Scooby-Doo!</title>
 </programme>
-<programme start="20260305175000 +0000" stop="20260305182000 +0000" channel="Cartoonito.skyde">
+<programme start="20260305175000 +0000" stop="20260305181500 +0000" channel="Cartoonito.skyde">
     <title>Bleib cool, Scooby-Doo!</title>
 </programme>
-<programme start="20260305182000 +0000" stop="20260305185000 +0000" channel="Cartoonito.skyde">
+<programme start="20260305181500 +0000" stop="20260305185000 +0000" channel="Cartoonito.skyde">
     <title>Bleib cool, Scooby-Doo!</title>
 </programme>
 <programme start="20260305185000 +0000" stop="20260305190000 +0000" channel="Cartoonito.skyde">
@@ -3078,25 +3078,25 @@ Warning: Undefined array key "et" in /usr/home/ManusiaBiasa/domains/manusiabiasa
     <title>ATP 500: Review Dubai</title>
 </programme>
 <programme start="20260305070000 +0000" stop="20260305090000 +0000" channel="Sky Sport Tennis HD.skyde">
-    <title>WTA 1000: Topspiel, BNP Paribas Open in Indian Wells, Kalifornien (USA), 1. Tag</title>
+    <title>WTA 1000: T. Maria (GER) - S. Cirstea (ROM), BNP Paribas Open in Indian Wells, Kalifornien (USA), 1. Tag</title>
 </programme>
 <programme start="20260305090000 +0000" stop="20260305110000 +0000" channel="Sky Sport Tennis HD.skyde">
-    <title>ATP 1000: Topspiel, BNP Paribas Open in Indian Wells, Kalifornien (USA), 1. Tag</title>
+    <title>ATP 1000: J.-L. Struff (GER) - Z. Bergs (BEL), BNP Paribas Open in Indian Wells, Kalifornien (USA), 1. Tag</title>
 </programme>
 <programme start="20260305110000 +0000" stop="20260305120000 +0000" channel="Sky Sport Tennis HD.skyde">
     <title>ATP 500: Review Acapulco</title>
 </programme>
 <programme start="20260305120000 +0000" stop="20260305143000 +0000" channel="Sky Sport Tennis HD.skyde">
-    <title>WTA 500: C. Bucsa (ESP) - M. Frech (POL), Merida Open in Merida (MEX), Finale</title>
+    <title>ATP 250: Y. Hanfmann (GER) - L. Darderi (ITA), BCI Seguros Chile Open in Santiago (CHI), Finale</title>
 </programme>
 <programme start="20260305143000 +0000" stop="20260305150000 +0000" channel="Sky Sport Tennis HD.skyde">
     <title>ATP: This Week</title>
 </programme>
 <programme start="20260305150000 +0000" stop="20260305170000 +0000" channel="Sky Sport Tennis HD.skyde">
-    <title>WTA 1000: Topspiel, BNP Paribas Open in Indian Wells, Kalifornien (USA), 1. Tag</title>
+    <title>WTA 1000: T. Maria (GER) - S. Cirstea (ROM), BNP Paribas Open in Indian Wells, Kalifornien (USA), 1. Tag</title>
 </programme>
 <programme start="20260305170000 +0000" stop="20260305190000 +0000" channel="Sky Sport Tennis HD.skyde">
-    <title>ATP 1000: Topspiel, BNP Paribas Open in Indian Wells, Kalifornien (USA), 1. Tag</title>
+    <title>ATP 1000: J.-L. Struff (GER) - Z. Bergs (BEL), BNP Paribas Open in Indian Wells, Kalifornien (USA), 1. Tag</title>
 </programme>
 <programme start="20260305190000 +0000" stop="20260306060000 +0000" channel="Sky Sport Tennis HD.skyde">
     <title>Live ATP &amp; WTA: Konferenz BNP Paribas Open in Indian Wells, Kalifornien (USA), 2. Tag</title>
