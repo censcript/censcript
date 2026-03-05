@@ -3379,11 +3379,8 @@
   <programme start="20260307165500 +0000" stop="20260307170000 +0000" channel="ČT24.webtv.sk">
     <title lang="id">Předpověď počasí</title>
   </programme>
-  <programme start="20260307170000 +0000" stop="20260307172800 +0000" channel="ČT24.webtv.sk">
-    <title lang="id">Zprávy</title>
-  </programme>
-  <programme start="20260307172800 +0000" stop="20260307175500 +0000" channel="ČT24.webtv.sk">
-    <title lang="id">Interview ČT24</title>
+  <programme start="20260307170000 +0000" stop="20260307175500 +0000" channel="ČT24.webtv.sk">
+    <title lang="id">Interview Speciál</title>
   </programme>
   <programme start="20260307175500 +0000" stop="20260307180000 +0000" channel="ČT24.webtv.sk">
     <title lang="id">Události za okamžik a počasí</title>
@@ -3419,7 +3416,7 @@
     <title lang="id">Zprávy ve 23</title>
   </programme>
   <programme start="20260307223200 +0000" stop="20260307230000 +0000" channel="ČT24.webtv.sk">
-    <title lang="id">Interview ČT24</title>
+    <title lang="id">Z metropole</title>
   </programme>
   <programme start="20260306224500 +0000" stop="20260307001000 +0000" channel="ČT :D - ČT art.webtv.sk">
     <title lang="id">Festival Express</title>
