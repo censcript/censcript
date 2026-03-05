@@ -3033,7 +3033,7 @@ Warning: Undefined array key "et" in /usr/home/ManusiaBiasa/domains/manusiabiasa
     <title>PL: Brighton &amp; Hove Albion - FC Arsenal, 29. Spieltag</title>
 </programme>
 <programme start="20260305103000 +0000" stop="20260305123000 +0000" channel="Sky Sport Premier League HD.skyde">
-    <title>PL: Mittwochs-Konferenz, 29. Spieltag</title>
+    <title>PL: Newcastle United - Manchester United, Match of the Week, 29. Spieltag</title>
 </programme>
 <programme start="20260305123000 +0000" stop="20260305130000 +0000" channel="Sky Sport Premier League HD.skyde">
     <title>PL: PL Rewind: Michael Owen</title>
@@ -3074,14 +3074,11 @@ Warning: Undefined array key "et" in /usr/home/ManusiaBiasa/domains/manusiabiasa
 <programme start="20260305223500 +0000" stop="20260305230500 +0000" channel="Sky Sport Premier League HD.skyde">
     <title>PL: PL Stories (Micky van de Ven)</title>
 </programme>
-<programme start="20260305060000 +0000" stop="20260305070000 +0000" channel="Sky Sport Tennis HD.skyde">
-    <title>ATP 500: Review Dubai</title>
-</programme>
 <programme start="20260305070000 +0000" stop="20260305090000 +0000" channel="Sky Sport Tennis HD.skyde">
     <title>WTA 1000: T. Maria (GER) - S. Cirstea (ROM), BNP Paribas Open in Indian Wells, Kalifornien (USA), 1. Tag</title>
 </programme>
 <programme start="20260305090000 +0000" stop="20260305110000 +0000" channel="Sky Sport Tennis HD.skyde">
-    <title>ATP 1000: J.-L. Struff (GER) - Z. Bergs (BEL), BNP Paribas Open in Indian Wells, Kalifornien (USA), 1. Tag</title>
+    <title>ATP 1000: S. Tsitsipas (GRE) - D. Shapovalov (CAN), BNP Paribas Open in Indian Wells, Kalifornien (USA), 1. Tag</title>
 </programme>
 <programme start="20260305110000 +0000" stop="20260305120000 +0000" channel="Sky Sport Tennis HD.skyde">
     <title>ATP 500: Review Acapulco</title>
@@ -3096,7 +3093,7 @@ Warning: Undefined array key "et" in /usr/home/ManusiaBiasa/domains/manusiabiasa
     <title>WTA 1000: T. Maria (GER) - S. Cirstea (ROM), BNP Paribas Open in Indian Wells, Kalifornien (USA), 1. Tag</title>
 </programme>
 <programme start="20260305170000 +0000" stop="20260305190000 +0000" channel="Sky Sport Tennis HD.skyde">
-    <title>ATP 1000: J.-L. Struff (GER) - Z. Bergs (BEL), BNP Paribas Open in Indian Wells, Kalifornien (USA), 1. Tag</title>
+    <title>ATP 1000: S. Tsitsipas (GRE) - D. Shapovalov (CAN), BNP Paribas Open in Indian Wells, Kalifornien (USA), 1. Tag</title>
 </programme>
 <programme start="20260305190000 +0000" stop="20260306060000 +0000" channel="Sky Sport Tennis HD.skyde">
     <title>Live ATP &amp; WTA: Konferenz BNP Paribas Open in Indian Wells, Kalifornien (USA), 2. Tag</title>
