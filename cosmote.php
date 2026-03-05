@@ -50,10 +50,6 @@
     <title>Football: Crystal Palace - Zrinjski Mostar</title>
     <desc>Live: Tidak</desc>
 </programme>
-<programme start="20260305100000 +0700" stop="20260305120000 +0700" channel="COSMOTE Sport 2 HD">
-    <title>Football: AS Roma - Juventus Football Club</title>
-    <desc>Live: Tidak</desc>
-</programme>
 <programme start="20260305120000 +0700" stop="20260305141000 +0700" channel="COSMOTE Sport 2 HD">
     <title>Football: Volos NPS - AEK</title>
     <desc>Live: Tidak</desc>
@@ -120,6 +116,10 @@
 </programme>
 <programme start="20260306100000 +0700" stop="20260306120000 +0700" channel="COSMOTE Sport 2 HD">
     <title>Football: Torino - SS Lazio</title>
+    <desc>Live: Tidak</desc>
+</programme>
+<programme start="20260306120000 +0700" stop="20260306141000 +0700" channel="COSMOTE Sport 2 HD">
+    <title>Football: Panathinaikos - OFI</title>
     <desc>Live: Tidak</desc>
 </programme>
 <programme start="20260305110000 +0700" stop="20260305130000 +0700" channel="COSMOTE Sport 3 HD">
@@ -242,6 +242,10 @@
     <title>Basketball: Andorra - Valencia Basket Club</title>
     <desc>Live: Tidak</desc>
 </programme>
+<programme start="20260306125500 +0700" stop="20260306150500 +0700" channel="COSMOTE Sport 4 HD">
+    <title>Basketball: Varese - Brescia</title>
+    <desc>Live: Tidak</desc>
+</programme>
 <programme start="20260305110000 +0700" stop="20260305122500 +0700" channel="COSMOTE Sport 5 HD">
     <title>DTM 2025</title>
     <desc>Live: Tidak</desc>
@@ -339,6 +343,10 @@
     <desc>Live: Tidak</desc>
 </programme>
 <programme start="20260306114500 +0700" stop="20260306123000 +0700" channel="COSMOTE Sport 5 HD">
+    <title>ERC 2025</title>
+    <desc>Live: Tidak</desc>
+</programme>
+<programme start="20260306123000 +0700" stop="20260306133500 +0700" channel="COSMOTE Sport 5 HD">
     <title>ERC 2025</title>
     <desc>Live: Tidak</desc>
 </programme>

@@ -3033,7 +3033,7 @@ Warning: Undefined array key "et" in /usr/home/ManusiaBiasa/domains/manusiabiasa
     <title>PL: Brighton &amp; Hove Albion - FC Arsenal, 29. Spieltag</title>
 </programme>
 <programme start="20260305103000 +0000" stop="20260305123000 +0000" channel="Sky Sport Premier League HD.skyde">
-    <title>PL: Mittwochs-Konferenz, 29. Spieltag</title>
+    <title>PL: Newcastle United - Manchester United, Match of the Week, 29. Spieltag</title>
 </programme>
 <programme start="20260305123000 +0000" stop="20260305130000 +0000" channel="Sky Sport Premier League HD.skyde">
     <title>PL: PL Rewind: Michael Owen</title>
@@ -3105,7 +3105,7 @@ Warning: Undefined array key "et" in /usr/home/ManusiaBiasa/domains/manusiabiasa
     <title>Live LIV Golf: Hongkong, 1. Tag in China</title>
 </programme>
 <programme start="20260305100000 +0000" stop="20260305120000 +0000" channel="Sky Sport Top Event HD.skyde">
-    <title>PL: Newcastle United - Manchester United, Match of the Week, 29. Spieltag</title>
+    <title>PL: Mittwochs-Konferenz, 29. Spieltag</title>
 </programme>
 <programme start="20260305120000 +0000" stop="20260305140000 +0000" channel="Sky Sport Top Event HD.skyde">
     <title>TGL: The Bay Golf Club - Jupiter Links Golf Club, 15. Spieltag</title>
@@ -3191,7 +3191,7 @@ Warning: Undefined array key "et" in /usr/home/ManusiaBiasa/domains/manusiabiasa
 <programme start="20260305184000 +0000" stop="20260305190000 +0000" channel="Sky Sport 1 HD.skyde">
     <title>Es folgt: LIVE Tennis WTA Tour</title>
 </programme>
-<programme start="20260305190000 +0000" stop="20260306060000 +0000" channel="Sky Sport 1 HD.skyde">
+<programme start="20260305190000 +0000" stop="20260306090000 +0000" channel="Sky Sport 1 HD.skyde">
     <title>Live WTA 1000: BNP Paribas Open in Indian Wells, Kalifornien (USA), 2. Tag</title>
 </programme>
 <programme start="20260304232000 +0000" stop="20260305000500 +0000" channel="SYFY HD.skyde">

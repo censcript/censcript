@@ -119,7 +119,7 @@
 <title>Upin &amp; Ipin</title>
 </programme>
 <programme start="20260305131500 +0000" stop="20260305151500 +0000" channel="MNCTV.vision">
-<title>Anugerah Cahaya Ramadan (MNCTV)</title>
+<title>Anugerah Cahaya Ramadan</title>
 </programme>
 <programme start="20260305151500 +0000" stop="20260305180000 +0000" channel="MNCTV.vision">
 <title>DMD Panggung Rezeki (MNCTV)</title>

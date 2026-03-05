@@ -1054,6 +1054,9 @@
     <programme start="20260306234400 +0000" stop="20260306235959 +0000" channel="414449.shahid">
         <title>Ahla Ma Tash Season 2 Episode 35</title>
     </programme>
+    <programme start="20260305000000 +0000" stop="20260306235959 +0000" channel="986014.shahid">
+        <title>TV guide is not available</title>
+    </programme>
     <programme start="20260305000000 +0000" stop="20260305000559 +0000" channel="49923172117967.shahid">
         <title>Azaal Aleak</title>
     </programme>
@@ -2568,9 +2571,6 @@
     </programme>
     <programme start="20260306235235 +0000" stop="20260306235959 +0000" channel="49923172117967.shahid">
         <title>Ain El Shams</title>
-    </programme>
-    <programme start="20260305000000 +0000" stop="20260306235959 +0000" channel="986014.shahid">
-        <title>TV guide is not available</title>
     </programme>
     <programme start="20260305000000 +0000" stop="20260306235959 +0000" channel="49922763891977.shahid">
         <title>TV guide is not available</title>
@@ -4483,9 +4483,6 @@
     <programme start="20260306234455 +0000" stop="20260306235959 +0000" channel="49923086870104.shahid">
         <title>Sikkat Safar Season 1 Episode 27</title>
     </programme>
-    <programme start="20260305000000 +0000" stop="20260306235959 +0000" channel="49922763510387.shahid">
-        <title>TV guide is not available</title>
-    </programme>
     <programme start="20260305000000 +0000" stop="20260305010000 +0000" channel="387286.shahid">
         <title>Al Arabiya News</title>
     </programme>
@@ -4755,6 +4752,9 @@
     </programme>
     <programme start="20260307000000 +0000" stop="20260306235959 +0000" channel="387286.shahid">
         <title>Al Arabiya News</title>
+    </programme>
+    <programme start="20260305000000 +0000" stop="20260306235959 +0000" channel="49922763510387.shahid">
+        <title>TV guide is not available</title>
     </programme>
     <programme start="20260305000000 +0000" stop="20260305010000 +0000" channel="387251.shahid">
         <title>Ghalat Banat Season 1 Episode 15</title>
