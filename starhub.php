@@ -3280,14 +3280,8 @@
     <programme start="20260305083000 +0000" stop="20260305090000 +0000" channel="DW English HD.starhub">
         <title>Spotlight on People</title>
     </programme>
-    <programme start="20260305090000 +0000" stop="20260305090200 +0000" channel="DW English HD.starhub">
+    <programme start="20260305090000 +0000" stop="20260305100000 +0000" channel="DW English HD.starhub">
         <title>News</title>
-    </programme>
-    <programme start="20260305090200 +0000" stop="20260305091500 +0000" channel="DW English HD.starhub">
-        <title>News</title>
-    </programme>
-    <programme start="20260305091500 +0000" stop="20260305100000 +0000" channel="DW English HD.starhub">
-        <title>Blood, Sweat, and Sugar - Part 1</title>
     </programme>
     <programme start="20260305100000 +0000" stop="20260305100200 +0000" channel="DW English HD.starhub">
         <title>News</title>
@@ -3818,7 +3812,7 @@
         <title>News &amp; Weather</title>
     </programme>
     <programme start="20260305010500 +0000" stop="20260305015000 +0000" channel="NHK World Premium HD.starhub">
-        <title>Eat Up! The Ultimate Homemade Cooking Battle &quot;Seiro-Mushi: Steamed Food in a Bamboo Steamer&quot; (R)</title>
+        <title>Eat Up! The Ultimate Homemade Cooking Battle &quot;Seiro-Mushi: Steamed Food in a Bam</title>
     </programme>
     <programme start="20260305015000 +0000" stop="20260305021700 +0000" channel="NHK World Premium HD.starhub">
         <title>Today&#039;s Close-up (R)</title>
@@ -3923,7 +3917,7 @@
         <title>The Top Interview &quot;Suzuki Toshihiro, SUZUKI MOTOR CORPORATION&quot; (R)</title>
     </programme>
     <programme start="20260305134500 +0000" stop="20260305140000 +0000" channel="NHK World Premium HD.starhub">
-        <title>Night Drama Serial &quot;The Incidents are Happening All Around It.&quot; Series 2 Encore Ep. 4</title>
+        <title>Night Drama Serial &quot;The Incidents are Happening All Around It.&quot; Series 2 Encore</title>
     </programme>
     <programme start="20260305140000 +0000" stop="20260305143000 +0000" channel="NHK World Premium HD.starhub">
         <title>Hata&#039;s Home Kitchen &quot;The Taste of New Year&quot;</title>

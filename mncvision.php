@@ -2839,6 +2839,156 @@
 <programme start="20260305121000 +0000" stop="20260305124000 +0000" channel="Dreamworks HD.mncvision">
     <title>Spirit Riding Free: Academy</title>
 </programme>
+<programme start="20260304170000 +0000" stop="20260304171500 +0000" channel="DW English.mncvision">
+    <title>DW News</title>
+</programme>
+<programme start="20260304171500 +0000" stop="20260304173000 +0000" channel="DW English.mncvision">
+    <title>Transforming Business</title>
+</programme>
+<programme start="20260304173000 +0000" stop="20260304180000 +0000" channel="DW English.mncvision">
+    <title>Close Up: Haiti</title>
+</programme>
+<programme start="20260304180000 +0000" stop="20260304183000 +0000" channel="DW English.mncvision">
+    <title>DW News</title>
+</programme>
+<programme start="20260304183000 +0000" stop="20260304190000 +0000" channel="DW English.mncvision">
+    <title>Global Us: Pet Drug</title>
+</programme>
+<programme start="20260304190000 +0000" stop="20260304190200 +0000" channel="DW English.mncvision">
+    <title>DW News</title>
+</programme>
+<programme start="20260304190200 +0000" stop="20260304191500 +0000" channel="DW English.mncvision">
+    <title>DW News Focus</title>
+</programme>
+<programme start="20260304191500 +0000" stop="20260304193000 +0000" channel="DW English.mncvision">
+    <title>Transforming Business</title>
+</programme>
+<programme start="20260304193000 +0000" stop="20260304200000 +0000" channel="DW English.mncvision">
+    <title>The 77 Percent</title>
+</programme>
+<programme start="20260304200000 +0000" stop="20260304203000 +0000" channel="DW English.mncvision">
+    <title>DW News</title>
+</programme>
+<programme start="20260304203000 +0000" stop="20260304210000 +0000" channel="DW English.mncvision">
+    <title>The Day: News In Review</title>
+</programme>
+<programme start="20260304210000 +0000" stop="20260304210200 +0000" channel="DW English.mncvision">
+    <title>DW News</title>
+</programme>
+<programme start="20260304210200 +0000" stop="20260304211500 +0000" channel="DW English.mncvision">
+    <title>DW News Focus</title>
+</programme>
+<programme start="20260304211500 +0000" stop="20260304220000 +0000" channel="DW English.mncvision">
+    <title>DocFilm</title>
+</programme>
+<programme start="20260304220000 +0000" stop="20260304220200 +0000" channel="DW English.mncvision">
+    <title>DW News</title>
+</programme>
+<programme start="20260304220200 +0000" stop="20260304223000 +0000" channel="DW English.mncvision">
+    <title>The Day: News In Review</title>
+</programme>
+<programme start="20260304223000 +0000" stop="20260304230000 +0000" channel="DW English.mncvision">
+    <title>Made In Germany</title>
+</programme>
+<programme start="20260304230000 +0000" stop="20260304230200 +0000" channel="DW English.mncvision">
+    <title>DW News</title>
+</programme>
+<programme start="20260304230200 +0000" stop="20260304231500 +0000" channel="DW English.mncvision">
+    <title>DW News Focus</title>
+</programme>
+<programme start="20260304231500 +0000" stop="20260304233000 +0000" channel="DW English.mncvision">
+    <title>Transforming Business</title>
+</programme>
+<programme start="20260304233000 +0000" stop="20260305000000 +0000" channel="DW English.mncvision">
+    <title>Focus On Europe: People</title>
+</programme>
+<programme start="20260305000000 +0000" stop="20260305000200 +0000" channel="DW English.mncvision">
+    <title>DW News</title>
+</programme>
+<programme start="20260305000200 +0000" stop="20260305003000 +0000" channel="DW English.mncvision">
+    <title>The Day: News In Review</title>
+</programme>
+<programme start="20260305003000 +0000" stop="20260305010000 +0000" channel="DW English.mncvision">
+    <title>Arts Unveiled: Visionary</title>
+</programme>
+<programme start="20260305010000 +0000" stop="20260305010200 +0000" channel="DW English.mncvision">
+    <title>DW News</title>
+</programme>
+<programme start="20260305010200 +0000" stop="20260305011500 +0000" channel="DW English.mncvision">
+    <title>DW News Focus</title>
+</programme>
+<programme start="20260305011500 +0000" stop="20260305020000 +0000" channel="DW English.mncvision">
+    <title>DocFilm</title>
+</programme>
+<programme start="20260305020000 +0000" stop="20260305020200 +0000" channel="DW English.mncvision">
+    <title>DW News</title>
+</programme>
+<programme start="20260305020200 +0000" stop="20260305023000 +0000" channel="DW English.mncvision">
+    <title>The Day: News In Review</title>
+</programme>
+<programme start="20260305023000 +0000" stop="20260305030000 +0000" channel="DW English.mncvision">
+    <title>Made In Germany</title>
+</programme>
+<programme start="20260305030000 +0000" stop="20260305030200 +0000" channel="DW English.mncvision">
+    <title>DW News</title>
+</programme>
+<programme start="20260305030200 +0000" stop="20260305031500 +0000" channel="DW English.mncvision">
+    <title>DW News Focus</title>
+</programme>
+<programme start="20260305031500 +0000" stop="20260305033000 +0000" channel="DW English.mncvision">
+    <title>Transforming Business</title>
+</programme>
+<programme start="20260305033000 +0000" stop="20260305040000 +0000" channel="DW English.mncvision">
+    <title>Eco India: A Greener World</title>
+</programme>
+<programme start="20260305040000 +0000" stop="20260305040200 +0000" channel="DW English.mncvision">
+    <title>DW News</title>
+</programme>
+<programme start="20260305040200 +0000" stop="20260305041500 +0000" channel="DW English.mncvision">
+    <title>DW News Focus</title>
+</programme>
+<programme start="20260305041500 +0000" stop="20260305050000 +0000" channel="DW English.mncvision">
+    <title>DocFilm</title>
+</programme>
+<programme start="20260305050000 +0000" stop="20260305050200 +0000" channel="DW English.mncvision">
+    <title>DW News</title>
+</programme>
+<programme start="20260305050200 +0000" stop="20260305053000 +0000" channel="DW English.mncvision">
+    <title>The Day: News In Review</title>
+</programme>
+<programme start="20260305053000 +0000" stop="20260305060000 +0000" channel="DW English.mncvision">
+    <title>Focus On Europe: People</title>
+</programme>
+<programme start="20260305060000 +0000" stop="20260305060200 +0000" channel="DW English.mncvision">
+    <title>DW News</title>
+</programme>
+<programme start="20260305060200 +0000" stop="20260305061500 +0000" channel="DW English.mncvision">
+    <title>DW News Focus</title>
+</programme>
+<programme start="20260305061500 +0000" stop="20260305063000 +0000" channel="DW English.mncvision">
+    <title>Transforming Business</title>
+</programme>
+<programme start="20260305063000 +0000" stop="20260305070000 +0000" channel="DW English.mncvision">
+    <title>Under The Baobab</title>
+</programme>
+<programme start="20260305070000 +0000" stop="20260305070200 +0000" channel="DW English.mncvision">
+    <title>DW News</title>
+</programme>
+<programme start="20260305070200 +0000" stop="20260305071500 +0000" channel="DW English.mncvision">
+    <title>DW News Focus</title>
+</programme>
+<programme start="20260305071500 +0000" stop="20260305080000 +0000" channel="DW English.mncvision">
+    <title>DocFilm</title>
+</programme>
+<programme start="20260305080000 +0000" stop="20260305080200 +0000" channel="DW English.mncvision">
+    <title>DW News</title>
+</programme>
+<programme start="20260305080200 +0000" stop="20260305083000 +0000" channel="DW English.mncvision">
+    <title>Made In Germany</title>
+</programme>
+<programme start="20260305083000 +0000" stop="20260305090000 +0000" channel="DW English.mncvision">
+    <title>Focus On Europe: People</title>
+</programme>
 <programme start="20260304180000 +0000" stop="20260304193000 +0000" channel="Entertainment.mncvision">
     <title>New Family 100</title>
 </programme>
