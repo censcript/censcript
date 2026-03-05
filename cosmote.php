@@ -122,6 +122,10 @@
     <title>Football: AS Roma - Juventus Football Club</title>
     <desc>Live: Tidak</desc>
 </programme>
+<programme start="20260306161000 +0700" stop="20260306181000 +0700" channel="COSMOTE Sport 2 HD">
+    <title>Football: Udinese - ACF Fiorentina</title>
+    <desc>Live: Tidak</desc>
+</programme>
 <programme start="20260305150000 +0700" stop="20260305174000 +0700" channel="COSMOTE Sport 3 HD">
     <title>Football: Southampton - Leicester City FC</title>
     <desc>Live: Tidak</desc>
@@ -238,10 +242,6 @@
     <title>Basketball: Unicaja - Real Madrid</title>
     <desc>Live: Tidak</desc>
 </programme>
-<programme start="20260305145500 +0700" stop="20260305152500 +0700" channel="COSMOTE Sport 5 HD">
-    <title>Sports Classics: Gearing Up 2026 E2</title>
-    <desc>Live: Tidak</desc>
-</programme>
 <programme start="20260305152500 +0700" stop="20260305161000 +0700" channel="COSMOTE Sport 5 HD">
     <title>ERC 2025</title>
     <desc>Live: Tidak</desc>
@@ -343,6 +343,10 @@
     <desc>Live: Tidak</desc>
 </programme>
 <programme start="20260306155500 +0700" stop="20260306165500 +0700" channel="COSMOTE Sport 5 HD">
+    <title>WRC 2026</title>
+    <desc>Live: Tidak</desc>
+</programme>
+<programme start="20260306165500 +0700" stop="20260306183000 +0700" channel="COSMOTE Sport 5 HD">
     <title>WRC 2026</title>
     <desc>Live: Tidak</desc>
 </programme>
@@ -449,6 +453,10 @@
 <programme start="20260306153000 +0700" stop="20260306160000 +0700" channel="COSMOTE Sport 7 HD">
     <title>COSMOTESport7HD</title>
     <desc>Live: Tidak</desc>
+</programme>
+<programme start="20260306160000 +0700" stop="20260306180000 +0700" channel="COSMOTE Sport 7 HD">
+    <title>Premier Padel Tour 2026 (L)</title>
+    <desc>Live: Ya</desc>
 </programme>
 <programme start="20260305150000 +0700" stop="20260305170000 +0700" channel="COSMOTE Sport 8 HD">
     <title>COSMOTESport8HD</title>
