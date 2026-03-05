@@ -727,7 +727,84 @@
 <programme start="20260305163000 +0000" stop="20260304170000 +0000" channel="AXN HD.mncvision">
     <title>Elsbeth S3, Ep 1</title>
 </programme>
-Error: Unable to fetch data. HTTP Status Code: 500
+<programme start="20260304172500 +0000" stop="20260304182000 +0000" channel="BBC Earth.mncvision">
+    <title>Engineering Repurposed, Ep 9</title>
+</programme>
+<programme start="20260304182000 +0000" stop="20260304191000 +0000" channel="BBC Earth.mncvision">
+    <title>Extreme Fisherman S1, Ep 8</title>
+</programme>
+<programme start="20260304191000 +0000" stop="20260304201000 +0000" channel="BBC Earth.mncvision">
+    <title>The Mating Game S1, Ep 2</title>
+</programme>
+<programme start="20260304201000 +0000" stop="20260304211000 +0000" channel="BBC Earth.mncvision">
+    <title>Road Tripping S1, Ep 2</title>
+</programme>
+<programme start="20260304211000 +0000" stop="20260304220000 +0000" channel="BBC Earth.mncvision">
+    <title>Portillo&#039;s Andalucia S1, Ep 2</title>
+</programme>
+<programme start="20260304220000 +0000" stop="20260304225500 +0000" channel="BBC Earth.mncvision">
+    <title>Engineering Repurposed, Ep 9</title>
+</programme>
+<programme start="20260304225500 +0000" stop="20260304235000 +0000" channel="BBC Earth.mncvision">
+    <title>The Mating Game S1, Ep 2</title>
+</programme>
+<programme start="20260304235000 +0000" stop="20260305004000 +0000" channel="BBC Earth.mncvision">
+    <title>Extreme Fisherman S1, Ep 8</title>
+</programme>
+<programme start="20260305004000 +0000" stop="20260305013500 +0000" channel="BBC Earth.mncvision">
+    <title>Where Wild Men Are S10, Ep 3</title>
+</programme>
+<programme start="20260305013500 +0000" stop="20260305024500 +0000" channel="BBC Earth.mncvision">
+    <title>Big Little Journeys S1, Ep 2</title>
+</programme>
+<programme start="20260305024500 +0000" stop="20260305033500 +0000" channel="BBC Earth.mncvision">
+    <title>Engineering Repurposed, Ep 9</title>
+</programme>
+<programme start="20260305033500 +0000" stop="20260305042500 +0000" channel="BBC Earth.mncvision">
+    <title>Portillo&#039;s Andalucia S1, Ep 2</title>
+</programme>
+<programme start="20260305042500 +0000" stop="20260305052500 +0000" channel="BBC Earth.mncvision">
+    <title>Seven Worlds, One Planet, Ep 2</title>
+</programme>
+<programme start="20260305052500 +0000" stop="20260305063000 +0000" channel="BBC Earth.mncvision">
+    <title>Big Little Journeys S1, Ep 2</title>
+</programme>
+<programme start="20260305063000 +0000" stop="20260305072500 +0000" channel="BBC Earth.mncvision">
+    <title>Engineering Repurposed, Ep 9</title>
+</programme>
+<programme start="20260305072500 +0000" stop="20260305082000 +0000" channel="BBC Earth.mncvision">
+    <title>Where Wild Men Are S10, Ep 3</title>
+</programme>
+<programme start="20260305082000 +0000" stop="20260305091000 +0000" channel="BBC Earth.mncvision">
+    <title>Extreme Fisherman S1, Ep 8</title>
+</programme>
+<programme start="20260305091000 +0000" stop="20260305101500 +0000" channel="BBC Earth.mncvision">
+    <title>Big Little Journeys S1, Ep 2</title>
+</programme>
+<programme start="20260305101500 +0000" stop="20260305110500 +0000" channel="BBC Earth.mncvision">
+    <title>Portillo&#039;s Andalucia S1, Ep 2</title>
+</programme>
+<programme start="20260305110500 +0000" stop="20260305120000 +0000" channel="BBC Earth.mncvision">
+    <title>Grand Slam Fishing S1, Ep 1</title>
+</programme>
+<programme start="20260305120000 +0000" stop="20260305130000 +0000" channel="BBC Earth.mncvision">
+    <title>Great Indian Railway..., Ep 2</title>
+</programme>
+<programme start="20260305130000 +0000" stop="20260305135000 +0000" channel="BBC Earth.mncvision">
+    <title>Most Amazing Walks S1, Ep 7</title>
+</programme>
+<programme start="20260305135000 +0000" stop="20260305144500 +0000" channel="BBC Earth.mncvision">
+    <title>Australia&#039;s Sleep... S1, Ep 2</title>
+</programme>
+<programme start="20260305144500 +0000" stop="20260305153500 +0000" channel="BBC Earth.mncvision">
+    <title>Grand Slam Fishing S1, Ep 1</title>
+</programme>
+<programme start="20260305153500 +0000" stop="20260305163500 +0000" channel="BBC Earth.mncvision">
+    <title>Great Indian Railway..., Ep 2</title>
+</programme>
+<programme start="20260305163500 +0000" stop="20260304170500 +0000" channel="BBC Earth.mncvision">
+    <title>Most Amazing Walks S1, Ep 7</title>
+</programme>
 <programme start="20260304172500 +0000" stop="20260304182000 +0000" channel="BBC Earth HD.mncvision">
     <title>Engineering Repurposed, Ep 9</title>
 </programme>
@@ -2972,10 +3049,480 @@ Error: Unable to fetch data. HTTP Status Code: 500
 <programme start="20260305160000 +0000" stop="20260305163000 +0000" channel="Entertainment.mncvision">
     <title>Take Me Out Indonesia</title>
 </programme>
-Error: Unable to fetch data. HTTP Status Code: 500
-Error: Unable to fetch data. HTTP Status Code: 500
-Error: Unable to fetch data. HTTP Status Code: 500
-Error: Unable to fetch data. HTTP Status Code: 500
+<programme start="20260304170000 +0000" stop="20260304171500 +0000" channel="EURONEWS.mncvision">
+    <title>The European Debrief</title>
+</programme>
+<programme start="20260304171500 +0000" stop="20260304173000 +0000" channel="EURONEWS.mncvision">
+    <title>The European Debrief</title>
+</programme>
+<programme start="20260304173000 +0000" stop="20260304180000 +0000" channel="EURONEWS.mncvision">
+    <title>The European Debrief</title>
+</programme>
+<programme start="20260304180000 +0000" stop="20260304181500 +0000" channel="EURONEWS.mncvision">
+    <title>The European Debrief</title>
+</programme>
+<programme start="20260304181500 +0000" stop="20260304183000 +0000" channel="EURONEWS.mncvision">
+    <title>The European Debrief</title>
+</programme>
+<programme start="20260304183000 +0000" stop="20260304190000 +0000" channel="EURONEWS.mncvision">
+    <title>The European Debrief</title>
+</programme>
+<programme start="20260304190000 +0000" stop="20260304191400 +0000" channel="EURONEWS.mncvision">
+    <title>The European Debrief</title>
+</programme>
+<programme start="20260304191400 +0000" stop="20260304193000 +0000" channel="EURONEWS.mncvision">
+    <title>The European Debrief</title>
+</programme>
+<programme start="20260304193000 +0000" stop="20260304195200 +0000" channel="EURONEWS.mncvision">
+    <title>News</title>
+</programme>
+<programme start="20260304195200 +0000" stop="20260304200000 +0000" channel="EURONEWS.mncvision">
+    <title>News</title>
+</programme>
+<programme start="20260304200000 +0000" stop="20260304201500 +0000" channel="EURONEWS.mncvision">
+    <title>The European Debrief</title>
+</programme>
+<programme start="20260304201500 +0000" stop="20260304203000 +0000" channel="EURONEWS.mncvision">
+    <title>The European Debrief</title>
+</programme>
+<programme start="20260304203000 +0000" stop="20260304210000 +0000" channel="EURONEWS.mncvision">
+    <title>The European Debrief</title>
+</programme>
+<programme start="20260304210000 +0000" stop="20260304211500 +0000" channel="EURONEWS.mncvision">
+    <title>The European Debrief</title>
+</programme>
+<programme start="20260304211500 +0000" stop="20260304213000 +0000" channel="EURONEWS.mncvision">
+    <title>The European Debrief</title>
+</programme>
+<programme start="20260304213000 +0000" stop="20260304220000 +0000" channel="EURONEWS.mncvision">
+    <title>The European Debrief</title>
+</programme>
+<programme start="20260304220000 +0000" stop="20260304221500 +0000" channel="EURONEWS.mncvision">
+    <title>The European Debrief</title>
+</programme>
+<programme start="20260304221500 +0000" stop="20260304222900 +0000" channel="EURONEWS.mncvision">
+    <title>The European Debrief</title>
+</programme>
+<programme start="20260304222900 +0000" stop="20260304225200 +0000" channel="EURONEWS.mncvision">
+    <title>News</title>
+</programme>
+<programme start="20260304225200 +0000" stop="20260304230000 +0000" channel="EURONEWS.mncvision">
+    <title>News</title>
+</programme>
+<programme start="20260304230000 +0000" stop="20260304231500 +0000" channel="EURONEWS.mncvision">
+    <title>The European Debrief</title>
+</programme>
+<programme start="20260304231500 +0000" stop="20260304233000 +0000" channel="EURONEWS.mncvision">
+    <title>The European Debrief</title>
+</programme>
+<programme start="20260304233000 +0000" stop="20260304234600 +0000" channel="EURONEWS.mncvision">
+    <title>The European Debrief</title>
+</programme>
+<programme start="20260304234600 +0000" stop="20260305000000 +0000" channel="EURONEWS.mncvision">
+    <title>News</title>
+</programme>
+<programme start="20260305000000 +0000" stop="20260305001500 +0000" channel="EURONEWS.mncvision">
+    <title>The European Debrief</title>
+</programme>
+<programme start="20260305001500 +0000" stop="20260305003100 +0000" channel="EURONEWS.mncvision">
+    <title>The European Debrief</title>
+</programme>
+<programme start="20260305003100 +0000" stop="20260305010000 +0000" channel="EURONEWS.mncvision">
+    <title>News</title>
+</programme>
+<programme start="20260305010000 +0000" stop="20260305011500 +0000" channel="EURONEWS.mncvision">
+    <title>The European Debrief</title>
+</programme>
+<programme start="20260305011500 +0000" stop="20260305013000 +0000" channel="EURONEWS.mncvision">
+    <title>The European Debrief</title>
+</programme>
+<programme start="20260305013000 +0000" stop="20260305020000 +0000" channel="EURONEWS.mncvision">
+    <title>The European Debrief</title>
+</programme>
+<programme start="20260305020000 +0000" stop="20260305021400 +0000" channel="EURONEWS.mncvision">
+    <title>The European Debrief</title>
+</programme>
+<programme start="20260305021400 +0000" stop="20260305023000 +0000" channel="EURONEWS.mncvision">
+    <title>The European Debrief</title>
+</programme>
+<programme start="20260305023000 +0000" stop="20260305030000 +0000" channel="EURONEWS.mncvision">
+    <title>The European Debrief</title>
+</programme>
+<programme start="20260305030000 +0000" stop="20260305031500 +0000" channel="EURONEWS.mncvision">
+    <title>The European Debrief</title>
+</programme>
+<programme start="20260305031500 +0000" stop="20260305033000 +0000" channel="EURONEWS.mncvision">
+    <title>The European Debrief</title>
+</programme>
+<programme start="20260305033000 +0000" stop="20260305040000 +0000" channel="EURONEWS.mncvision">
+    <title>The European Debrief</title>
+</programme>
+<programme start="20260305040000 +0000" stop="20260305041500 +0000" channel="EURONEWS.mncvision">
+    <title>The European Debrief</title>
+</programme>
+<programme start="20260305041500 +0000" stop="20260305043000 +0000" channel="EURONEWS.mncvision">
+    <title>The European Debrief</title>
+</programme>
+<programme start="20260305043000 +0000" stop="20260305050000 +0000" channel="EURONEWS.mncvision">
+    <title>The European Debrief</title>
+</programme>
+<programme start="20260305050000 +0000" stop="20260305051500 +0000" channel="EURONEWS.mncvision">
+    <title>Wake Up Europe</title>
+</programme>
+<programme start="20260305051500 +0000" stop="20260305053000 +0000" channel="EURONEWS.mncvision">
+    <title>Wake Up Europe</title>
+</programme>
+<programme start="20260305053000 +0000" stop="20260305060000 +0000" channel="EURONEWS.mncvision">
+    <title>Wake Up Europe</title>
+</programme>
+<programme start="20260305060000 +0000" stop="20260305061500 +0000" channel="EURONEWS.mncvision">
+    <title>Wake Up Europe</title>
+</programme>
+<programme start="20260305061500 +0000" stop="20260305063000 +0000" channel="EURONEWS.mncvision">
+    <title>Wake Up Europe</title>
+</programme>
+<programme start="20260305063000 +0000" stop="20260305070000 +0000" channel="EURONEWS.mncvision">
+    <title>Wake Up Europe</title>
+</programme>
+<programme start="20260305070000 +0000" stop="20260305071600 +0000" channel="EURONEWS.mncvision">
+    <title>News</title>
+</programme>
+<programme start="20260305071600 +0000" stop="20260305073000 +0000" channel="EURONEWS.mncvision">
+    <title>News</title>
+</programme>
+<programme start="20260305073000 +0000" stop="20260305080000 +0000" channel="EURONEWS.mncvision">
+    <title>Wake Up Europe</title>
+</programme>
+<programme start="20260305080000 +0000" stop="20260305081600 +0000" channel="EURONEWS.mncvision">
+    <title>News</title>
+</programme>
+<programme start="20260305081600 +0000" stop="20260305084600 +0000" channel="EURONEWS.mncvision">
+    <title>News</title>
+</programme>
+<programme start="20260304170000 +0000" stop="20260304193000 +0000" channel="Fight Sports.mncvision">
+    <title>Mega Fights S1, Ep 8</title>
+</programme>
+<programme start="20260304193000 +0000" stop="20260304200000 +0000" channel="Fight Sports.mncvision">
+    <title>BWF Martial Arts S11, Ep 2</title>
+</programme>
+<programme start="20260304200000 +0000" stop="20260304203000 +0000" channel="Fight Sports.mncvision">
+    <title>Knockouts!: Gatti Vs Baldomir</title>
+</programme>
+<programme start="20260304203000 +0000" stop="20260304210000 +0000" channel="Fight Sports.mncvision">
+    <title>FS Grand Sumo S21, Ep 4</title>
+</programme>
+<programme start="20260304210000 +0000" stop="20260304213000 +0000" channel="Fight Sports.mncvision">
+    <title>Wide World Of Fights S3, Ep 8</title>
+</programme>
+<programme start="20260304213000 +0000" stop="20260304220000 +0000" channel="Fight Sports.mncvision">
+    <title>Prison Fighters S1, Ep 1</title>
+</programme>
+<programme start="20260304220000 +0000" stop="20260304230000 +0000" channel="Fight Sports.mncvision">
+    <title>FS MMA: LaRosa Vs Buckner</title>
+</programme>
+<programme start="20260304230000 +0000" stop="20260305013000 +0000" channel="Fight Sports.mncvision">
+    <title>Mega Fights S1, Ep 8</title>
+</programme>
+<programme start="20260305013000 +0000" stop="20260305020000 +0000" channel="Fight Sports.mncvision">
+    <title>BWF Martial Arts S11, Ep 2</title>
+</programme>
+<programme start="20260305020000 +0000" stop="20260305023000 +0000" channel="Fight Sports.mncvision">
+    <title>Knockouts!: Gatti Vs Baldomir</title>
+</programme>
+<programme start="20260305023000 +0000" stop="20260305030000 +0000" channel="Fight Sports.mncvision">
+    <title>FS Grand Sumo S21, Ep 4</title>
+</programme>
+<programme start="20260305030000 +0000" stop="20260305033000 +0000" channel="Fight Sports.mncvision">
+    <title>Wide World Of Fights S3, Ep 8</title>
+</programme>
+<programme start="20260305033000 +0000" stop="20260305040000 +0000" channel="Fight Sports.mncvision">
+    <title>Prison Fighters S1, Ep 1</title>
+</programme>
+<programme start="20260305040000 +0000" stop="20260305050000 +0000" channel="Fight Sports.mncvision">
+    <title>FS MMA: LaRosa Vs Buckner</title>
+</programme>
+<programme start="20260305050000 +0000" stop="20260305073000 +0000" channel="Fight Sports.mncvision">
+    <title>Mega Fights S1, Ep 8</title>
+</programme>
+<programme start="20260305073000 +0000" stop="20260305080000 +0000" channel="Fight Sports.mncvision">
+    <title>BWF Martial Arts S11, Ep 2</title>
+</programme>
+<programme start="20260305080000 +0000" stop="20260305083000 +0000" channel="Fight Sports.mncvision">
+    <title>Knockouts!: Gatti Vs Baldomir</title>
+</programme>
+<programme start="20260305083000 +0000" stop="20260305090000 +0000" channel="Fight Sports.mncvision">
+    <title>FS Grand Sumo S21, Ep 4</title>
+</programme>
+<programme start="20260305090000 +0000" stop="20260305093000 +0000" channel="Fight Sports.mncvision">
+    <title>Wide World Of Fights S3, Ep 8</title>
+</programme>
+<programme start="20260305093000 +0000" stop="20260305100000 +0000" channel="Fight Sports.mncvision">
+    <title>Prison Fighters S1, Ep 1</title>
+</programme>
+<programme start="20260305100000 +0000" stop="20260305110000 +0000" channel="Fight Sports.mncvision">
+    <title>FS MMA: LaRosa Vs Buckner</title>
+</programme>
+<programme start="20260305110000 +0000" stop="20260305130000 +0000" channel="Fight Sports.mncvision">
+    <title>Mega Fights S1, Ep 6</title>
+</programme>
+<programme start="20260305130000 +0000" stop="20260305140000 +0000" channel="Fight Sports.mncvision">
+    <title>American Ninja... S7, Ep 5</title>
+</programme>
+<programme start="20260305140000 +0000" stop="20260305143000 +0000" channel="Fight Sports.mncvision">
+    <title>Knockouts!: Khan Vs Garcia</title>
+</programme>
+<programme start="20260305143000 +0000" stop="20260305150000 +0000" channel="Fight Sports.mncvision">
+    <title>FS Grand Sumo S21, Ep 5</title>
+</programme>
+<programme start="20260305150000 +0000" stop="20260305153000 +0000" channel="Fight Sports.mncvision">
+    <title>Karate 1 Premiere League</title>
+</programme>
+<programme start="20260305153000 +0000" stop="20260305160000 +0000" channel="Fight Sports.mncvision">
+    <title>Prison Fighters S1, Ep 2</title>
+</programme>
+<programme start="20260305160000 +0000" stop="20260305163000 +0000" channel="Fight Sports.mncvision">
+    <title>FS MMA: McLellan Vs Lesar</title>
+</programme>
+<programme start="20260304173000 +0000" stop="20260304180000 +0000" channel="FOOD TRAVEL.mncvision">
+    <title>Let&#039;s Go</title>
+</programme>
+<programme start="20260304180000 +0000" stop="20260304183000 +0000" channel="FOOD TRAVEL.mncvision">
+    <title>All You Can Eat</title>
+</programme>
+<programme start="20260304183000 +0000" stop="20260304193000 +0000" channel="FOOD TRAVEL.mncvision">
+    <title>Tukang Makan</title>
+</programme>
+<programme start="20260304193000 +0000" stop="20260304203000 +0000" channel="FOOD TRAVEL.mncvision">
+    <title>Dapur Ngebor</title>
+</programme>
+<programme start="20260304203000 +0000" stop="20260304210000 +0000" channel="FOOD TRAVEL.mncvision">
+    <title>Viral Kuliner</title>
+</programme>
+<programme start="20260304210000 +0000" stop="20260304213000 +0000" channel="FOOD TRAVEL.mncvision">
+    <title>Viral Kuliner</title>
+</programme>
+<programme start="20260304213000 +0000" stop="20260304220000 +0000" channel="FOOD TRAVEL.mncvision">
+    <title>Let&#039;s Go</title>
+</programme>
+<programme start="20260304220000 +0000" stop="20260304223000 +0000" channel="FOOD TRAVEL.mncvision">
+    <title>Wisata Ziarah</title>
+</programme>
+<programme start="20260304223000 +0000" stop="20260304230000 +0000" channel="FOOD TRAVEL.mncvision">
+    <title>All You Can Eat</title>
+</programme>
+<programme start="20260304230000 +0000" stop="20260304233000 +0000" channel="FOOD TRAVEL.mncvision">
+    <title>Ada Tamu Gokil</title>
+</programme>
+<programme start="20260304233000 +0000" stop="20260305000000 +0000" channel="FOOD TRAVEL.mncvision">
+    <title>Around The World</title>
+</programme>
+<programme start="20260305000000 +0000" stop="20260305003000 +0000" channel="FOOD TRAVEL.mncvision">
+    <title>Selebriti Masak?</title>
+</programme>
+<programme start="20260305003000 +0000" stop="20260305010000 +0000" channel="FOOD TRAVEL.mncvision">
+    <title>Viral Kuliner</title>
+</programme>
+<programme start="20260305010000 +0000" stop="20260305013000 +0000" channel="FOOD TRAVEL.mncvision">
+    <title>Viral Kuliner Review</title>
+</programme>
+<programme start="20260305013000 +0000" stop="20260305020000 +0000" channel="FOOD TRAVEL.mncvision">
+    <title>Kuliner Anak Nusantara</title>
+</programme>
+<programme start="20260305020000 +0000" stop="20260305023000 +0000" channel="FOOD TRAVEL.mncvision">
+    <title>Wisata Ziarah</title>
+</programme>
+<programme start="20260305023000 +0000" stop="20260305030000 +0000" channel="FOOD TRAVEL.mncvision">
+    <title>Travel Addict</title>
+</programme>
+<programme start="20260305030000 +0000" stop="20260305033000 +0000" channel="FOOD TRAVEL.mncvision">
+    <title>Around The World</title>
+</programme>
+<programme start="20260305033000 +0000" stop="20260305040000 +0000" channel="FOOD TRAVEL.mncvision">
+    <title>Let&#039;s Go</title>
+</programme>
+<programme start="20260305040000 +0000" stop="20260305050000 +0000" channel="FOOD TRAVEL.mncvision">
+    <title>Tukang Makan</title>
+</programme>
+<programme start="20260305050000 +0000" stop="20260305060000 +0000" channel="FOOD TRAVEL.mncvision">
+    <title>Dapur Panik</title>
+</programme>
+<programme start="20260305060000 +0000" stop="20260305063000 +0000" channel="FOOD TRAVEL.mncvision">
+    <title>Viral Kuliner</title>
+</programme>
+<programme start="20260305063000 +0000" stop="20260305070000 +0000" channel="FOOD TRAVEL.mncvision">
+    <title>Viral Kuliner Review</title>
+</programme>
+<programme start="20260305070000 +0000" stop="20260305080000 +0000" channel="FOOD TRAVEL.mncvision">
+    <title>Dapur Ngebor</title>
+</programme>
+<programme start="20260305080000 +0000" stop="20260305083000 +0000" channel="FOOD TRAVEL.mncvision">
+    <title>Let&#039;s Go</title>
+</programme>
+<programme start="20260305083000 +0000" stop="20260305090000 +0000" channel="FOOD TRAVEL.mncvision">
+    <title>Kuliner Anak Nusantara</title>
+</programme>
+<programme start="20260305090000 +0000" stop="20260305100000 +0000" channel="FOOD TRAVEL.mncvision">
+    <title>Tukang Makan</title>
+</programme>
+<programme start="20260305100000 +0000" stop="20260305110000 +0000" channel="FOOD TRAVEL.mncvision">
+    <title>Dapur Panik</title>
+</programme>
+<programme start="20260305110000 +0000" stop="20260305113000 +0000" channel="FOOD TRAVEL.mncvision">
+    <title>Viral Kuliner Review</title>
+</programme>
+<programme start="20260305113000 +0000" stop="20260305120000 +0000" channel="FOOD TRAVEL.mncvision">
+    <title>Viral Kuliner</title>
+</programme>
+<programme start="20260305120000 +0000" stop="20260305123000 +0000" channel="FOOD TRAVEL.mncvision">
+    <title>Viral Kuliner</title>
+</programme>
+<programme start="20260305123000 +0000" stop="20260305130000 +0000" channel="FOOD TRAVEL.mncvision">
+    <title>Let&#039;s Go</title>
+</programme>
+<programme start="20260305130000 +0000" stop="20260305133000 +0000" channel="FOOD TRAVEL.mncvision">
+    <title>Around The World</title>
+</programme>
+<programme start="20260305133000 +0000" stop="20260305140000 +0000" channel="FOOD TRAVEL.mncvision">
+    <title>Wisata Ziarah</title>
+</programme>
+<programme start="20260305140000 +0000" stop="20260305143000 +0000" channel="FOOD TRAVEL.mncvision">
+    <title>GPS: Geng Petualangan Seru</title>
+</programme>
+<programme start="20260305143000 +0000" stop="20260305150000 +0000" channel="FOOD TRAVEL.mncvision">
+    <title>All You Can Eat</title>
+</programme>
+<programme start="20260305150000 +0000" stop="20260305153000 +0000" channel="FOOD TRAVEL.mncvision">
+    <title>Selebriti Masak?</title>
+</programme>
+<programme start="20260305153000 +0000" stop="20260305160000 +0000" channel="FOOD TRAVEL.mncvision">
+    <title>Ada Tamu Gokil</title>
+</programme>
+<programme start="20260305160000 +0000" stop="20260305163000 +0000" channel="FOOD TRAVEL.mncvision">
+    <title>Travel Addict</title>
+</programme>
+<programme start="20260305163000 +0000" stop="20260304170000 +0000" channel="FOOD TRAVEL.mncvision">
+    <title>Dapur Panik</title>
+</programme>
+<programme start="20260304173000 +0000" stop="20260304180000 +0000" channel="Food Travel HD.mncvision">
+    <title>Let&#039;s Go</title>
+</programme>
+<programme start="20260304180000 +0000" stop="20260304183000 +0000" channel="Food Travel HD.mncvision">
+    <title>All You Can Eat</title>
+</programme>
+<programme start="20260304183000 +0000" stop="20260304193000 +0000" channel="Food Travel HD.mncvision">
+    <title>Tukang Makan</title>
+</programme>
+<programme start="20260304193000 +0000" stop="20260304203000 +0000" channel="Food Travel HD.mncvision">
+    <title>Dapur Ngebor</title>
+</programme>
+<programme start="20260304203000 +0000" stop="20260304210000 +0000" channel="Food Travel HD.mncvision">
+    <title>Viral Kuliner</title>
+</programme>
+<programme start="20260304210000 +0000" stop="20260304213000 +0000" channel="Food Travel HD.mncvision">
+    <title>Viral Kuliner</title>
+</programme>
+<programme start="20260304213000 +0000" stop="20260304220000 +0000" channel="Food Travel HD.mncvision">
+    <title>Let&#039;s Go</title>
+</programme>
+<programme start="20260304220000 +0000" stop="20260304223000 +0000" channel="Food Travel HD.mncvision">
+    <title>Wisata Ziarah</title>
+</programme>
+<programme start="20260304223000 +0000" stop="20260304230000 +0000" channel="Food Travel HD.mncvision">
+    <title>All You Can Eat</title>
+</programme>
+<programme start="20260304230000 +0000" stop="20260304233000 +0000" channel="Food Travel HD.mncvision">
+    <title>Ada Tamu Gokil</title>
+</programme>
+<programme start="20260304233000 +0000" stop="20260305000000 +0000" channel="Food Travel HD.mncvision">
+    <title>Around The World</title>
+</programme>
+<programme start="20260305000000 +0000" stop="20260305003000 +0000" channel="Food Travel HD.mncvision">
+    <title>Selebriti Masak?</title>
+</programme>
+<programme start="20260305003000 +0000" stop="20260305010000 +0000" channel="Food Travel HD.mncvision">
+    <title>Viral Kuliner</title>
+</programme>
+<programme start="20260305010000 +0000" stop="20260305013000 +0000" channel="Food Travel HD.mncvision">
+    <title>Viral Kuliner Review</title>
+</programme>
+<programme start="20260305013000 +0000" stop="20260305020000 +0000" channel="Food Travel HD.mncvision">
+    <title>Kuliner Anak Nusantara</title>
+</programme>
+<programme start="20260305020000 +0000" stop="20260305023000 +0000" channel="Food Travel HD.mncvision">
+    <title>Wisata Ziarah</title>
+</programme>
+<programme start="20260305023000 +0000" stop="20260305030000 +0000" channel="Food Travel HD.mncvision">
+    <title>Travel Addict</title>
+</programme>
+<programme start="20260305030000 +0000" stop="20260305033000 +0000" channel="Food Travel HD.mncvision">
+    <title>Around The World</title>
+</programme>
+<programme start="20260305033000 +0000" stop="20260305040000 +0000" channel="Food Travel HD.mncvision">
+    <title>Let&#039;s Go</title>
+</programme>
+<programme start="20260305040000 +0000" stop="20260305050000 +0000" channel="Food Travel HD.mncvision">
+    <title>Tukang Makan</title>
+</programme>
+<programme start="20260305050000 +0000" stop="20260305060000 +0000" channel="Food Travel HD.mncvision">
+    <title>Dapur Panik</title>
+</programme>
+<programme start="20260305060000 +0000" stop="20260305063000 +0000" channel="Food Travel HD.mncvision">
+    <title>Viral Kuliner</title>
+</programme>
+<programme start="20260305063000 +0000" stop="20260305070000 +0000" channel="Food Travel HD.mncvision">
+    <title>Viral Kuliner Review</title>
+</programme>
+<programme start="20260305070000 +0000" stop="20260305080000 +0000" channel="Food Travel HD.mncvision">
+    <title>Dapur Ngebor</title>
+</programme>
+<programme start="20260305080000 +0000" stop="20260305083000 +0000" channel="Food Travel HD.mncvision">
+    <title>Let&#039;s Go</title>
+</programme>
+<programme start="20260305083000 +0000" stop="20260305090000 +0000" channel="Food Travel HD.mncvision">
+    <title>Kuliner Anak Nusantara</title>
+</programme>
+<programme start="20260305090000 +0000" stop="20260305100000 +0000" channel="Food Travel HD.mncvision">
+    <title>Tukang Makan</title>
+</programme>
+<programme start="20260305100000 +0000" stop="20260305110000 +0000" channel="Food Travel HD.mncvision">
+    <title>Dapur Panik</title>
+</programme>
+<programme start="20260305110000 +0000" stop="20260305113000 +0000" channel="Food Travel HD.mncvision">
+    <title>Viral Kuliner Review</title>
+</programme>
+<programme start="20260305113000 +0000" stop="20260305120000 +0000" channel="Food Travel HD.mncvision">
+    <title>Viral Kuliner</title>
+</programme>
+<programme start="20260305120000 +0000" stop="20260305123000 +0000" channel="Food Travel HD.mncvision">
+    <title>Viral Kuliner</title>
+</programme>
+<programme start="20260305123000 +0000" stop="20260305130000 +0000" channel="Food Travel HD.mncvision">
+    <title>Let&#039;s Go</title>
+</programme>
+<programme start="20260305130000 +0000" stop="20260305133000 +0000" channel="Food Travel HD.mncvision">
+    <title>Around The World</title>
+</programme>
+<programme start="20260305133000 +0000" stop="20260305140000 +0000" channel="Food Travel HD.mncvision">
+    <title>Wisata Ziarah</title>
+</programme>
+<programme start="20260305140000 +0000" stop="20260305143000 +0000" channel="Food Travel HD.mncvision">
+    <title>GPS: Geng Petualangan Seru</title>
+</programme>
+<programme start="20260305143000 +0000" stop="20260305150000 +0000" channel="Food Travel HD.mncvision">
+    <title>All You Can Eat</title>
+</programme>
+<programme start="20260305150000 +0000" stop="20260305153000 +0000" channel="Food Travel HD.mncvision">
+    <title>Selebriti Masak?</title>
+</programme>
+<programme start="20260305153000 +0000" stop="20260305160000 +0000" channel="Food Travel HD.mncvision">
+    <title>Ada Tamu Gokil</title>
+</programme>
+<programme start="20260305160000 +0000" stop="20260305163000 +0000" channel="Food Travel HD.mncvision">
+    <title>Travel Addict</title>
+</programme>
+<programme start="20260305163000 +0000" stop="20260304170000 +0000" channel="Food Travel HD.mncvision">
+    <title>Dapur Panik</title>
+</programme>
 <programme start="20260304170000 +0000" stop="20260304180000 +0000" channel="FOX News.mncvision">
     <title>Outnumbered</title>
 </programme>
@@ -4179,7 +4726,48 @@ Error: Unable to fetch data. HTTP Status Code: 500
 <programme start="20260305153000 +0000" stop="20260305160000 +0000" channel="Indosiar.mncvision">
     <title>BRI Super League 2025/26</title>
 </programme>
-Error: Unable to fetch data. HTTP Status Code: 500
+<programme start="20260304190000 +0000" stop="20260304220000 +0000" channel="Indosiar HD.mncvision">
+    <title>AKSI 2026</title>
+</programme>
+<programme start="20260304220000 +0000" stop="20260305000000 +0000" channel="Indosiar HD.mncvision">
+    <title>Merangkai Kisah Indah</title>
+</programme>
+<programme start="20260305000000 +0000" stop="20260305010000 +0000" channel="Indosiar HD.mncvision">
+    <title>Fokus Pagi</title>
+</programme>
+<programme start="20260305010000 +0000" stop="20260305030000 +0000" channel="Indosiar HD.mncvision">
+    <title>Misteri Foto Yang Hilang</title>
+</programme>
+<programme start="20260305030000 +0000" stop="20260305040000 +0000" channel="Indosiar HD.mncvision">
+    <title>Hot Kiss</title>
+</programme>
+<programme start="20260305040000 +0000" stop="20260305043000 +0000" channel="Indosiar HD.mncvision">
+    <title>Patroli Siang</title>
+</programme>
+<programme start="20260305043000 +0000" stop="20260305050000 +0000" channel="Indosiar HD.mncvision">
+    <title>Fokus Siang</title>
+</programme>
+<programme start="20260305050000 +0000" stop="20260305070000 +0000" channel="Indosiar HD.mncvision">
+    <title>Petaka Wanita Yang...</title>
+</programme>
+<programme start="20260305070000 +0000" stop="20260305083000 +0000" channel="Indosiar HD.mncvision">
+    <title>Istriku Gagal Move On</title>
+</programme>
+<programme start="20260305083000 +0000" stop="20260305103000 +0000" channel="Indosiar HD.mncvision">
+    <title>Aku Salah Percaya Orang</title>
+</programme>
+<programme start="20260305103000 +0000" stop="20260305110000 +0000" channel="Indosiar HD.mncvision">
+    <title>Shihab &amp; Shihab 2026</title>
+</programme>
+<programme start="20260305110000 +0000" stop="20260305130000 +0000" channel="Indosiar HD.mncvision">
+    <title>Merangkai Kisah Indah</title>
+</programme>
+<programme start="20260305130000 +0000" stop="20260305153000 +0000" channel="Indosiar HD.mncvision">
+    <title>BRI Super League 2025/26</title>
+</programme>
+<programme start="20260305153000 +0000" stop="20260305160000 +0000" channel="Indosiar HD.mncvision">
+    <title>BRI Super League 2025/26</title>
+</programme>
 <programme start="20260304170000 +0000" stop="20260304183000 +0000" channel="iNews.mncvision">
     <title>AFC Asian Qual.: IDN Vs BHR</title>
 </programme>

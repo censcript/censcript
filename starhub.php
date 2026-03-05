@@ -1910,7 +1910,7 @@
         <title>March</title>
     </programme>
     <programme start="20260304220000 +0000" stop="20260304235000 +0000" channel="beIN Sports 3.starhub">
-        <title>UEFA Europa League 2025/26: Nottingham Forest vs Fenerbahce - KO Play-Offs,2nd L</title>
+        <title>UEFA Europa League 2025/26: Nottingham Forest vs Fenerbahce - KO Play-Offs,2nd Leg</title>
     </programme>
     <programme start="20260304235000 +0000" stop="20260305014000 +0000" channel="beIN Sports 3.starhub">
         <title>Bundesliga 2025/26: Hamburg vs Leipzig</title>
@@ -3776,7 +3776,7 @@
         <title>World Weather</title>
     </programme>
     <programme start="20260304191500 +0000" stop="20260304200000 +0000" channel="NHK World Premium HD.starhub">
-        <title>Eat Up! The Ultimate Homemade Cooking Battle &quot;Seiro-Mushi: Steamed Food in a Bamboo Steamer&quot; (R)</title>
+        <title>Eat Up! The Ultimate Homemade Cooking Battle &quot;Seiro-Mushi: Steamed Food in a Bam</title>
     </programme>
     <programme start="20260304200000 +0000" stop="20260304201000 +0000" channel="NHK World Premium HD.starhub">
         <title>TV Exercise</title>
@@ -3785,7 +3785,7 @@
         <title>Health for Today</title>
     </programme>
     <programme start="20260304202500 +0000" stop="20260304205600 +0000" channel="NHK World Premium HD.starhub">
-        <title>Karl and Tina: Embracing Village Life in Japan &quot;Autumn 2024&quot; (R)</title>
+        <title>Budo Mind: KAMIWAZA (Final) (R)</title>
     </programme>
     <programme start="20260304205600 +0000" stop="20260304210000 +0000" channel="NHK World Premium HD.starhub">
         <title>World Weather</title>
