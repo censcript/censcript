@@ -1495,11 +1495,29 @@
     <programme start="20260305153000 +0000" stop="20260305173000 +0000" channel="COLORS Tamil HD.starhub">
         <title>Rising Shaolin</title>
     </programme>
-    <programme start="20260305173000 +0000" stop="20260305200000 +0000" channel="COLORS Tamil HD.starhub">
-        <title>Yutha Satham</title>
+    <programme start="20260305173000 +0000" stop="20260305180000 +0000" channel="COLORS Tamil HD.starhub">
+        <title>Muthazhagu</title>
     </programme>
-    <programme start="20260305200000 +0000" stop="20260305233000 +0000" channel="COLORS Tamil HD.starhub">
-        <title>Aranmanai Kili</title>
+    <programme start="20260305180000 +0000" stop="20260305203000 +0000" channel="COLORS Tamil HD.starhub">
+        <title>Nayae Peyae</title>
+    </programme>
+    <programme start="20260305203000 +0000" stop="20260305210000 +0000" channel="COLORS Tamil HD.starhub">
+        <title>Mynaa</title>
+    </programme>
+    <programme start="20260305210000 +0000" stop="20260305213000 +0000" channel="COLORS Tamil HD.starhub">
+        <title>Mynaa</title>
+    </programme>
+    <programme start="20260305213000 +0000" stop="20260305220000 +0000" channel="COLORS Tamil HD.starhub">
+        <title>Adhe Kangal</title>
+    </programme>
+    <programme start="20260305220000 +0000" stop="20260305223000 +0000" channel="COLORS Tamil HD.starhub">
+        <title>Muthazhagu</title>
+    </programme>
+    <programme start="20260305223000 +0000" stop="20260305230000 +0000" channel="COLORS Tamil HD.starhub">
+        <title>Shiva Shakthi Thiruvilayadal</title>
+    </programme>
+    <programme start="20260305230000 +0000" stop="20260305233000 +0000" channel="COLORS Tamil HD.starhub">
+        <title>Shiva Shakthi Thiruvilayadal</title>
     </programme>
     <programme start="20260305233000 +0000" stop="20260306000000 +0000" channel="COLORS Tamil HD.starhub">
         <title>Kadhala Kadhala</title>
@@ -3170,7 +3188,7 @@
         <title>News</title>
     </programme>
     <programme start="20260305183000 +0000" stop="20260305190000 +0000" channel="DW English HD.starhub">
-        <title>How a pet drug could fight the whipworm crisis in people</title>
+        <title>Understand the world, one story at a time</title>
     </programme>
     <programme start="20260305190000 +0000" stop="20260305190200 +0000" channel="DW English HD.starhub">
         <title>News</title>
@@ -3197,7 +3215,7 @@
         <title>News</title>
     </programme>
     <programme start="20260305211500 +0000" stop="20260305220000 +0000" channel="DW English HD.starhub">
-        <title>Blood, Sweat, and Sugar - Part 1</title>
+        <title>Iran - Faces of Anger</title>
     </programme>
     <programme start="20260305220000 +0000" stop="20260305220200 +0000" channel="DW English HD.starhub">
         <title>News</title>
@@ -7043,7 +7061,7 @@
         <title>Direct Talk</title>
     </programme>
     <programme start="20260305184300 +0000" stop="20260305185500 +0000" channel="NHK WORLD - JAPAN HD.starhub">
-        <title>Trails to Oishii Tokyo mini</title>
+        <title>Trails to Oishii Tokyo 10min.</title>
     </programme>
     <programme start="20260305185500 +0000" stop="20260305190000 +0000" channel="NHK WORLD - JAPAN HD.starhub">
         <title>Ukiyo-e Edo-Life</title>
