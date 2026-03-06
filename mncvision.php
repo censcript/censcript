@@ -4147,20 +4147,20 @@
 <programme start="20260306050000 +0000" stop="20260306073000 +0000" channel="GTV.mncvision">
     <title>SpongeBob SquarePants</title>
 </programme>
-<programme start="20260306073000 +0000" stop="20260306090000 +0000" channel="GTV.mncvision">
+<programme start="20260306073000 +0000" stop="20260306093000 +0000" channel="GTV.mncvision">
     <title>SpongeBob SquarePants</title>
 </programme>
-<programme start="20260306090000 +0000" stop="20260306093000 +0000" channel="GTV.mncvision">
+<programme start="20260306093000 +0000" stop="20260306100000 +0000" channel="GTV.mncvision">
+    <title>SpongeBob SquarePants</title>
+</programme>
+<programme start="20260306100000 +0000" stop="20260306110000 +0000" channel="GTV.mncvision">
     <title>Ramadan Sama Artis</title>
-</programme>
-<programme start="20260306093000 +0000" stop="20260306110000 +0000" channel="GTV.mncvision">
-    <title>SpongeBob SquarePants</title>
 </programme>
 <programme start="20260306110000 +0000" stop="20260306123000 +0000" channel="GTV.mncvision">
     <title>New Family 100</title>
 </programme>
 <programme start="20260306123000 +0000" stop="20260306143000 +0000" channel="GTV.mncvision">
-    <title>Mercenery For Justice</title>
+    <title>Special Force Return I</title>
 </programme>
 <programme start="20260306143000 +0000" stop="20260306153000 +0000" channel="GTV.mncvision">
     <title>Battle In The Land Of Ice</title>
@@ -4201,20 +4201,20 @@
 <programme start="20260306050000 +0000" stop="20260306073000 +0000" channel="GTV HD.mncvision">
     <title>SpongeBob SquarePants</title>
 </programme>
-<programme start="20260306073000 +0000" stop="20260306090000 +0000" channel="GTV HD.mncvision">
+<programme start="20260306073000 +0000" stop="20260306093000 +0000" channel="GTV HD.mncvision">
     <title>SpongeBob SquarePants</title>
 </programme>
-<programme start="20260306090000 +0000" stop="20260306093000 +0000" channel="GTV HD.mncvision">
+<programme start="20260306093000 +0000" stop="20260306100000 +0000" channel="GTV HD.mncvision">
+    <title>SpongeBob SquarePants</title>
+</programme>
+<programme start="20260306100000 +0000" stop="20260306110000 +0000" channel="GTV HD.mncvision">
     <title>Ramadan Sama Artis</title>
-</programme>
-<programme start="20260306093000 +0000" stop="20260306110000 +0000" channel="GTV HD.mncvision">
-    <title>SpongeBob SquarePants</title>
 </programme>
 <programme start="20260306110000 +0000" stop="20260306123000 +0000" channel="GTV HD.mncvision">
     <title>New Family 100</title>
 </programme>
 <programme start="20260306123000 +0000" stop="20260306143000 +0000" channel="GTV HD.mncvision">
-    <title>Mercenery For Justice</title>
+    <title>Special Force Return I</title>
 </programme>
 <programme start="20260306143000 +0000" stop="20260306153000 +0000" channel="GTV HD.mncvision">
     <title>Battle In The Land Of Ice</title>

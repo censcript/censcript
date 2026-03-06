@@ -2727,7 +2727,7 @@ Warning: Undefined array key "et" in /usr/home/ManusiaBiasa/domains/manusiabiasa
 <programme start="20260306183000 +0000" stop="20260306191500 +0000" channel="Sky Sport Bundesliga 1 HD.skyde">
     <title>Live BL: FCB - BMG: tipico Countdown, Flutlicht-Freitag, 25. Spieltag</title>
 </programme>
-<programme start="20260306191500 +0000" stop="20260306224500 +0000" channel="Sky Sport Bundesliga 1 HD.skyde">
+<programme start="20260306191500 +0000" stop="20260306221500 +0000" channel="Sky Sport Bundesliga 1 HD.skyde">
     <title>Live BL: FC Bayern München - Borussia M&#039;gladbach, Flutlicht-Freitag, 25. Spieltag</title>
 </programme>
 <programme start="20260306164000 +0000" stop="20260306170000 +0000" channel="Sky Sport Bundesliga 2 HD.skyde">
@@ -2736,7 +2736,7 @@ Warning: Undefined array key "et" in /usr/home/ManusiaBiasa/domains/manusiabiasa
 <programme start="20260306170000 +0000" stop="20260306193000 +0000" channel="Sky Sport Bundesliga 2 HD.skyde">
     <title>Live 2. BL: Freitags-Konferenz, 25. Spieltag</title>
 </programme>
-<programme start="20260306193000 +0000" stop="20260306204500 +0000" channel="Sky Sport Bundesliga 2 HD.skyde">
+<programme start="20260306193000 +0000" stop="20260306201500 +0000" channel="Sky Sport Bundesliga 2 HD.skyde">
     <title>Live 2. BL Alle Spiele, alle Tore: Die Vodafone Highlight-Show, 25. Spieltag, Freitag</title>
 </programme>
 <programme start="20260306164000 +0000" stop="20260306170000 +0000" channel="Sky Sport Bundesliga 3 HD.skyde">
@@ -2745,7 +2745,7 @@ Warning: Undefined array key "et" in /usr/home/ManusiaBiasa/domains/manusiabiasa
 <programme start="20260306170000 +0000" stop="20260306193000 +0000" channel="Sky Sport Bundesliga 3 HD.skyde">
     <title>Live 2. BL: FC Schalke 04 - Arminia Bielefeld, 25. Spieltag</title>
 </programme>
-<programme start="20260306193000 +0000" stop="20260306213000 +0000" channel="Sky Sport Bundesliga 3 HD.skyde">
+<programme start="20260306193000 +0000" stop="20260306220000 +0000" channel="Sky Sport Bundesliga 3 HD.skyde">
     <title>Live BL: Sky Sport Fantasy: FCB - BMG, 25. Spieltag</title>
 </programme>
 <programme start="20260306164000 +0000" stop="20260306170000 +0000" channel="Sky Sport Bundesliga 4 HD.skyde">
@@ -2775,17 +2775,11 @@ Warning: Undefined array key "et" in /usr/home/ManusiaBiasa/domains/manusiabiasa
 <programme start="20260306011500 +0000" stop="20260306030000 +0000" channel="Sky Sport F1 HD.skyde">
     <title>Live F1: 1. Freies Training - GP Australien</title>
 </programme>
-<programme start="20260306030000 +0000" stop="20260306034000 +0000" channel="Sky Sport F1 HD.skyde">
+<programme start="20260306030000 +0000" stop="20260306035500 +0000" channel="Sky Sport F1 HD.skyde">
     <title>Live F3: Qualifying - GP Australien</title>
 </programme>
-<programme start="20260306034000 +0000" stop="20260306035500 +0000" channel="Sky Sport F1 HD.skyde">
-    <title>F1: 2025: Rookie Review</title>
-</programme>
-<programme start="20260306035500 +0000" stop="20260306043500 +0000" channel="Sky Sport F1 HD.skyde">
+<programme start="20260306035500 +0000" stop="20260306044500 +0000" channel="Sky Sport F1 HD.skyde">
     <title>Live F2: Qualifying - GP Australien</title>
-</programme>
-<programme start="20260306043500 +0000" stop="20260306044500 +0000" channel="Sky Sport F1 HD.skyde">
-    <title>F1: Greatest Races: A. Prost / Australien 1986</title>
 </programme>
 <programme start="20260306044500 +0000" stop="20260306063000 +0000" channel="Sky Sport F1 HD.skyde">
     <title>Live F1: 2. Freies Training - GP Australien</title>
@@ -3267,16 +3261,10 @@ Warning: Undefined array key "et" in /usr/home/ManusiaBiasa/domains/manusiabiasa
 <programme start="20260306224500 +0000" stop="20260307001500 +0000" channel="Sky Sport UHD.skyde">
     <title>F1: 2. Freies Training - GP Australien</title>
 </programme>
-<programme start="20260305184000 +0000" stop="20260305190000 +0000" channel="Sky Sport 1 HD.skyde">
-    <title>Es folgt: LIVE Tennis WTA Tour</title>
-</programme>
-<programme start="20260305190000 +0000" stop="20260306090000 +0000" channel="Sky Sport 1 HD.skyde">
-    <title>Live WTA 1000: BNP Paribas Open in Indian Wells, Kalifornien (USA), 2. Tag</title>
-</programme>
 <programme start="20260306184000 +0000" stop="20260306190000 +0000" channel="Sky Sport 6 HD.skyde">
     <title>Es folgt: LIVE Tennis WTA Tour</title>
 </programme>
-<programme start="20260306190000 +0000" stop="20260307060000 +0000" channel="Sky Sport 6 HD.skyde">
+<programme start="20260306190000 +0000" stop="20260307090000 +0000" channel="Sky Sport 6 HD.skyde">
     <title>Live WTA 1000: BNP Paribas Open in Indian Wells, Kalifornien (USA), 3. Tag</title>
 </programme>
 <programme start="20260305232000 +0000" stop="20260306000500 +0000" channel="SYFY HD.skyde">
