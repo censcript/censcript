@@ -970,19 +970,19 @@ Warning: Undefined array key "et" in /usr/home/ManusiaBiasa/domains/manusiabiasa
     <title>UK Open: Tag 1 - Session 1</title>
 </programme>
 <programme start="20260306170000 +0000" stop="20260306173000 +0000" channel="DAZN 2 HD.skyde">
+    <title>FC Bayern World Squad: Class of &#039;25 - Folge 1</title>
+</programme>
+<programme start="20260306173000 +0000" stop="20260306181000 +0000" channel="DAZN 2 HD.skyde">
+    <title>FC Bayern World Squad: Class of &#039;25 - Folge 2</title>
+</programme>
+<programme start="20260306181000 +0000" stop="20260306183500 +0000" channel="DAZN 2 HD.skyde">
     <title>Best of DAZN: Highlights</title>
 </programme>
-<programme start="20260306173000 +0000" stop="20260306180000 +0000" channel="DAZN 2 HD.skyde">
+<programme start="20260306183500 +0000" stop="20260306190500 +0000" channel="DAZN 2 HD.skyde">
     <title>Doppelpack Europa - Highlights der Serie A und Ligue 1 25/26: 22./19. Spieltag</title>
 </programme>
-<programme start="20260306180000 +0000" stop="20260306182000 +0000" channel="DAZN 2 HD.skyde">
-    <title>Best of DAZN: Highlights</title>
-</programme>
-<programme start="20260306182000 +0000" stop="20260306192000 +0000" channel="DAZN 2 HD.skyde">
+<programme start="20260306190500 +0000" stop="20260306195000 +0000" channel="DAZN 2 HD.skyde">
     <title>3. Liga Highlightshow 25/26: 26. Spieltag</title>
-</programme>
-<programme start="20260306192000 +0000" stop="20260306195000 +0000" channel="DAZN 2 HD.skyde">
-    <title>Best of DAZN: Highlights</title>
 </programme>
 <programme start="20260306195000 +0000" stop="20260306221000 +0000" channel="DAZN 2 HD.skyde">
     <title>FA Cup 25/26: Wolverhampton Wanderers - FC Liverpool</title>
@@ -1401,16 +1401,16 @@ Warning: Undefined array key "et" in /usr/home/ManusiaBiasa/domains/manusiabiasa
 <programme start="20260306082000 +0000" stop="20260306082500 +0000" channel="Nick Jr..skyde">
     <title>Peppa Wutz</title>
 </programme>
-<programme start="20260306082500 +0000" stop="20260306083200 +0000" channel="Nick Jr..skyde">
+<programme start="20260306082500 +0000" stop="20260306083000 +0000" channel="Nick Jr..skyde">
     <title>Peppa Wutz</title>
 </programme>
-<programme start="20260306083200 +0000" stop="20260306083600 +0000" channel="Nick Jr..skyde">
+<programme start="20260306083000 +0000" stop="20260306083500 +0000" channel="Nick Jr..skyde">
     <title>Peppa Wutz</title>
 </programme>
-<programme start="20260306083600 +0000" stop="20260306084100 +0000" channel="Nick Jr..skyde">
+<programme start="20260306083500 +0000" stop="20260306084000 +0000" channel="Nick Jr..skyde">
     <title>Peppa Wutz</title>
 </programme>
-<programme start="20260306084100 +0000" stop="20260306084500 +0000" channel="Nick Jr..skyde">
+<programme start="20260306084000 +0000" stop="20260306084500 +0000" channel="Nick Jr..skyde">
     <title>Peppa Wutz</title>
 </programme>
 <programme start="20260306084500 +0000" stop="20260306085000 +0000" channel="Nick Jr..skyde">
@@ -1434,10 +1434,10 @@ Warning: Undefined array key "et" in /usr/home/ManusiaBiasa/domains/manusiabiasa
 <programme start="20260306095500 +0000" stop="20260306100000 +0000" channel="Nick Jr..skyde">
     <title>Sharkdog</title>
 </programme>
-<programme start="20260306100000 +0000" stop="20260306102500 +0000" channel="Nick Jr..skyde">
+<programme start="20260306100000 +0000" stop="20260306102000 +0000" channel="Nick Jr..skyde">
     <title>Blaze und die Monster-Maschinen</title>
 </programme>
-<programme start="20260306102500 +0000" stop="20260306104500 +0000" channel="Nick Jr..skyde">
+<programme start="20260306102000 +0000" stop="20260306104500 +0000" channel="Nick Jr..skyde">
     <title>Blaze und die Monster-Maschinen</title>
 </programme>
 <programme start="20260306104500 +0000" stop="20260306111000 +0000" channel="Nick Jr..skyde">
@@ -1455,10 +1455,10 @@ Warning: Undefined array key "et" in /usr/home/ManusiaBiasa/domains/manusiabiasa
 <programme start="20260306121500 +0000" stop="20260306124000 +0000" channel="Nick Jr..skyde">
     <title>BARBAPAPA und Familie</title>
 </programme>
-<programme start="20260306124000 +0000" stop="20260306130000 +0000" channel="Nick Jr..skyde">
+<programme start="20260306124000 +0000" stop="20260306130500 +0000" channel="Nick Jr..skyde">
     <title>BARBAPAPA und Familie</title>
 </programme>
-<programme start="20260306130000 +0000" stop="20260306132500 +0000" channel="Nick Jr..skyde">
+<programme start="20260306130500 +0000" stop="20260306132500 +0000" channel="Nick Jr..skyde">
     <title>Tim Rex im All</title>
 </programme>
 <programme start="20260306132500 +0000" stop="20260306135000 +0000" channel="Nick Jr..skyde">
@@ -1497,10 +1497,10 @@ Warning: Undefined array key "et" in /usr/home/ManusiaBiasa/domains/manusiabiasa
 <programme start="20260306154500 +0000" stop="20260306160000 +0000" channel="Nick Jr..skyde">
     <title>Paw Patrol: Helfer auf vier Pfoten</title>
 </programme>
-<programme start="20260306160000 +0000" stop="20260306162500 +0000" channel="Nick Jr..skyde">
+<programme start="20260306160000 +0000" stop="20260306162000 +0000" channel="Nick Jr..skyde">
     <title>Rubble &amp; Crew</title>
 </programme>
-<programme start="20260306162500 +0000" stop="20260306163500 +0000" channel="Nick Jr..skyde">
+<programme start="20260306162000 +0000" stop="20260306163500 +0000" channel="Nick Jr..skyde">
     <title>Rubble &amp; Crew</title>
 </programme>
 <programme start="20260306163500 +0000" stop="20260306165500 +0000" channel="Nick Jr..skyde">
@@ -1512,10 +1512,10 @@ Warning: Undefined array key "et" in /usr/home/ManusiaBiasa/domains/manusiabiasa
 <programme start="20260306172000 +0000" stop="20260306173000 +0000" channel="Nick Jr..skyde">
     <title>BARBAPAPA und Familie</title>
 </programme>
-<programme start="20260306173000 +0000" stop="20260306174000 +0000" channel="Nick Jr..skyde">
+<programme start="20260306173000 +0000" stop="20260306173500 +0000" channel="Nick Jr..skyde">
     <title>Tim Rex im All</title>
 </programme>
-<programme start="20260306174000 +0000" stop="20260306174500 +0000" channel="Nick Jr..skyde">
+<programme start="20260306173500 +0000" stop="20260306174500 +0000" channel="Nick Jr..skyde">
     <title>Tim Rex im All</title>
 </programme>
 <programme start="20260306174500 +0000" stop="20260306175000 +0000" channel="Nick Jr..skyde">
@@ -1545,10 +1545,10 @@ Warning: Undefined array key "et" in /usr/home/ManusiaBiasa/domains/manusiabiasa
 <programme start="20260306183000 +0000" stop="20260306185000 +0000" channel="Nick Jr..skyde">
     <title>BARBAPAPA und Familie</title>
 </programme>
-<programme start="20260306185000 +0000" stop="20260306190000 +0000" channel="Nick Jr..skyde">
+<programme start="20260306185000 +0000" stop="20260306190500 +0000" channel="Nick Jr..skyde">
     <title>BARBAPAPA und Familie</title>
 </programme>
-<programme start="20260306190000 +0000" stop="20260306192500 +0000" channel="Nick Jr..skyde">
+<programme start="20260306190500 +0000" stop="20260306192500 +0000" channel="Nick Jr..skyde">
     <title>Blaze und die Monster-Maschinen</title>
 </programme>
 <programme start="20260306192500 +0000" stop="20260306194500 +0000" channel="Nick Jr..skyde">
@@ -1566,10 +1566,10 @@ Warning: Undefined array key "et" in /usr/home/ManusiaBiasa/domains/manusiabiasa
 <programme start="20260306204500 +0000" stop="20260306210500 +0000" channel="Nick Jr..skyde">
     <title>DORA</title>
 </programme>
-<programme start="20260306210500 +0000" stop="20260306212500 +0000" channel="Nick Jr..skyde">
+<programme start="20260306210500 +0000" stop="20260306213000 +0000" channel="Nick Jr..skyde">
     <title>DORA</title>
 </programme>
-<programme start="20260306212500 +0000" stop="20260306215000 +0000" channel="Nick Jr..skyde">
+<programme start="20260306213000 +0000" stop="20260306215000 +0000" channel="Nick Jr..skyde">
     <title>BARBAPAPA und Familie</title>
 </programme>
 <programme start="20260306215000 +0000" stop="20260306221000 +0000" channel="Nick Jr..skyde">
@@ -1578,10 +1578,7 @@ Warning: Undefined array key "et" in /usr/home/ManusiaBiasa/domains/manusiabiasa
 <programme start="20260306221000 +0000" stop="20260306223500 +0000" channel="Nick Jr..skyde">
     <title>BARBAPAPA und Familie</title>
 </programme>
-<programme start="20260306223500 +0000" stop="20260306225500 +0000" channel="Nick Jr..skyde">
-    <title>BARBAPAPA und Familie</title>
-</programme>
-<programme start="20260306225500 +0000" stop="20260306232000 +0000" channel="Nick Jr..skyde">
+<programme start="20260306223500 +0000" stop="20260306230000 +0000" channel="Nick Jr..skyde">
     <title>BARBAPAPA und Familie</title>
 </programme>
 <programme start="20260305231000 +0000" stop="20260306004000 +0000" channel="Romance TV HD.skyde">
@@ -2736,15 +2733,6 @@ Warning: Undefined array key "et" in /usr/home/ManusiaBiasa/domains/manusiabiasa
 <programme start="20260306191500 +0000" stop="20260306224500 +0000" channel="Sky Sport Bundesliga 1 HD.skyde">
     <title>Live BL: FC Bayern München - Borussia M&#039;gladbach, Flutlicht-Freitag, 25. Spieltag</title>
 </programme>
-<programme start="20260306164000 +0000" stop="20260306170000 +0000" channel="Sky Sport Bundesliga 2 HD.skyde">
-    <title>Es folgt: LIVE 2. Liga</title>
-</programme>
-<programme start="20260306170000 +0000" stop="20260306193000 +0000" channel="Sky Sport Bundesliga 2 HD.skyde">
-    <title>Live 2. BL: Freitags-Konferenz, 25. Spieltag</title>
-</programme>
-<programme start="20260306193000 +0000" stop="20260306204500 +0000" channel="Sky Sport Bundesliga 2 HD.skyde">
-    <title>Live 2. BL Alle Spiele, alle Tore: Die Vodafone Highlight-Show, 25. Spieltag, Freitag</title>
-</programme>
 <programme start="20260306164000 +0000" stop="20260306170000 +0000" channel="Sky Sport Bundesliga 3 HD.skyde">
     <title>Es folgt: LIVE 2. Liga</title>
 </programme>
@@ -2757,7 +2745,7 @@ Warning: Undefined array key "et" in /usr/home/ManusiaBiasa/domains/manusiabiasa
 <programme start="20260306164000 +0000" stop="20260306170000 +0000" channel="Sky Sport Bundesliga 4 HD.skyde">
     <title>Es folgt: LIVE 2. Liga</title>
 </programme>
-<programme start="20260306170000 +0000" stop="20260306193000 +0000" channel="Sky Sport Bundesliga 4 HD.skyde">
+<programme start="20260306170000 +0000" stop="20260306200000 +0000" channel="Sky Sport Bundesliga 4 HD.skyde">
     <title>Live 2. BL: SV Elversberg - 1. FC Magdeburg, 25. Spieltag</title>
 </programme>
 <programme start="20260306164000 +0000" stop="20260306170000 +0000" channel="Sky Sport Bundesliga 5 HD.skyde">

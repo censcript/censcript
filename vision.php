@@ -862,9 +862,6 @@
 <programme start="20260305233000 +0000" stop="20260306013000 +0000" channel="TVOne.vision">
 <title>Apa Kabar Indonesia Pagi (L)</title>
 </programme>
-<programme start="20260306013000 +0000" stop="20260306020000 +0000" channel="TVOne.vision">
-<title>Hidup Sehat</title>
-</programme>
 <programme start="20260306020000 +0000" stop="20260306023000 +0000" channel="TVOne.vision">
 <title>Inspirasi Pagi (L)</title>
 </programme>
@@ -1497,4 +1494,7 @@
 </programme>
 <programme start="20260306070000 +0000" stop="20260306073000 +0000" channel="BTV.vision">
 <title>Jendela Nusantara: Jawa Barat</title>
+</programme>
+<programme start="20260306073000 +0000" stop="20260306080000 +0000" channel="BTV.vision">
+<title>Dikit-Dikit Damkar</title>
 </programme>

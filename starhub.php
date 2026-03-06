@@ -5192,7 +5192,7 @@
         <title>2025/26 ALM Mini Match Rd 19 Central Coast Mariners FC vs Newcastle Jets FC</title>
     </programme>
     <programme start="20260306100000 +0000" stop="20260306120000 +0000" channel="SPOTV.starhub">
-        <title>25/26 ROSHN Saudi League MW 25 Al Kholood vs Al Qadsiah</title>
+        <title>25/26 ROSHN Saudi League MW 24 Al Shabab vs Al Hilal</title>
     </programme>
     <programme start="20260306120000 +0000" stop="20260306140000 +0000" channel="SPOTV.starhub">
         <title>25/26 Scottish Premiership Round 25 Aberdeen vs Celtic</title>

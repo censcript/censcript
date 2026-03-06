@@ -4491,73 +4491,45 @@
     <episode-num system="xmltv_ns">0.20260305.</episode-num>
     <episode-num system="onscreen">S1E20260306</episode-num>
   </programme>
-  <programme start="20260306055600 +0000" stop="20260306055900 +0000" channel="phoenixhongkong.unifitv">
-    <title lang="en">PHOENIX WEATHER FORECAST</title>
+  <programme start="20260306055600 +0000" stop="20260306060000 +0000" channel="phoenixhongkong.unifitv">
+    <title lang="en">THE START OVER OF LEGISLATIVE COUNCIL MEMBERS 2026 [CANTONESE]</title>
     <desc lang="en">Phoenix's engaging young presenter tracks weather movements and forecasts upcoming conditions in her upbeat, lively presentation coupled with music, folklore and traditional wisdom pertaining to different weather conditions in various times of the year, making Weather Forecast a true delight regardless of rain or shine.</desc>
     <category lang="en">Environment</category>
     <episode-num system="xmltv_ns">0.20260305.</episode-num>
     <episode-num system="onscreen">S1E20260306</episode-num>
   </programme>
-  <programme start="20260306055900 +0000" stop="20260306060300 +0000" channel="phoenixhongkong.unifitv">
-    <title lang="en">THE START OVER OF LEGISLATIVE COUNCIL MEMBERS 2026</title>
-    <desc lang="en">THE START OVER OF LEGISLATIVE COUNCIL MEMBERS 2026</desc>
+  <programme start="20260306060000 +0000" stop="20260306063000 +0000" channel="phoenixhongkong.unifitv">
+    <title lang="en">CHIEF EDITOR'S TIME</title>
+    <desc lang="en">CHIEF EDITOR'S TIME</desc>
     <category lang="en">Current Affairs</category>
     <episode-num system="xmltv_ns">0.20260305.</episode-num>
     <episode-num system="onscreen">S1E20260306</episode-num>
   </programme>
-  <programme start="20260306060300 +0000" stop="20260306063300 +0000" channel="phoenixhongkong.unifitv">
-    <title lang="en">CHIEF EDITOR'S TIME</title>
+  <programme start="20260306063000 +0000" stop="20260306070000 +0000" channel="phoenixhongkong.unifitv">
+    <title lang="en">DREAMSCAPES, ARCHITECTURAL WONDERS (II) [MANDARIN]</title>
     <desc lang="en">Daily key issues around the world are discussed on Chief Editor's Time. In-depth analyses and discussion gives viewers a better understanding of the issue.</desc>
     <category lang="en">Factual</category>
     <episode-num system="xmltv_ns">0.20260305.</episode-num>
     <episode-num system="onscreen">S1E20260306</episode-num>
   </programme>
-  <programme start="20260306063300 +0000" stop="20260306070300 +0000" channel="phoenixhongkong.unifitv">
-    <title lang="en">DREAMSCAPES, ARCHITECTURAL WONDERS</title>
+  <programme start="20260306070000 +0000" stop="20260306090300 +0000" channel="phoenixhongkong.unifitv">
+    <title lang="en">THE NPC &amp; CPPCC REPORT 2026 [CANTONESE]</title>
     <desc lang="en">From simple residential cottage, impressive royal mansion to magnificent skyscraper, behind those bricks and steel structure, it is the historical and cultural designs that make them immortal. This program shows the great architectures and how they inspire us in various ways.</desc>
     <category lang="en">Travel </category>
     <episode-num system="xmltv_ns">1.20260305.</episode-num>
     <episode-num system="onscreen">S2E20260306</episode-num>
   </programme>
-  <programme start="20260306070300 +0000" stop="20260306073300 +0000" channel="phoenixhongkong.unifitv">
-    <title lang="en">UPDATED MILITARY STATUS</title>
+  <programme start="20260306090300 +0000" stop="20260306093300 +0000" channel="phoenixhongkong.unifitv">
+    <title lang="en">CHINA RESOURCES ZOOM IN [MANDARIN]</title>
     <desc lang="en">The program will give an in-depth analysis of famous battles and the strategic planning worldwide, with introduction of military armaments and various conditions that determine a success.</desc>
     <category lang="en">military</category>
     <episode-num system="xmltv_ns">1.20260305.</episode-num>
     <episode-num system="onscreen">S2E20260306</episode-num>
   </programme>
-  <programme start="20260306073300 +0000" stop="20260306080300 +0000" channel="phoenixhongkong.unifitv">
-    <title lang="en">NEWS DECODER</title>
+  <programme start="20260306093300 +0000" stop="20260306100300 +0000" channel="phoenixhongkong.unifitv">
+    <title lang="en">HONG KONG PERSPECTIVES [CANTONESE]</title>
     <desc lang="en">The program focuses on Hong Kong's role in the country's continued reform and opening up, locks in hot topics that have attracted much attention, and analyzes current affairs in depth from multiple perspectives.</desc>
     <category lang="en">Talk Show</category>
-    <episode-num system="xmltv_ns">0.20260305.</episode-num>
-    <episode-num system="onscreen">S1E20260306</episode-num>
-  </programme>
-  <programme start="20260306080300 +0000" stop="20260306083300 +0000" channel="phoenixhongkong.unifitv">
-    <title lang="en">PHOENIX PANORAMA</title>
-    <desc lang="en">To entertain, educate and inform audiences, Panoramic Eyeshot of Phoenix, a series of captivating and controversial documentaries, includes segments on current affairs, historical anniversaries and exclusive insider views on present developments.</desc>
-    <category lang="en">Documentary</category>
-    <episode-num system="xmltv_ns">0.20260305.</episode-num>
-    <episode-num system="onscreen">S1E20260306</episode-num>
-  </programme>
-  <programme start="20260306083300 +0000" stop="20260306090300 +0000" channel="phoenixhongkong.unifitv">
-    <title lang="en">X +</title>
-    <desc lang="en">Phoenix TV presents a new technology program "X+" to viewers, deconstructing the latest scientific trends, innovative technologies and technological applications, inspiring viewers' creativity and imagination, and exploring how technology changes our lives and future.</desc>
-    <category lang="en">Science </category>
-    <episode-num system="xmltv_ns">1.20260305.</episode-num>
-    <episode-num system="onscreen">S2E20260306</episode-num>
-  </programme>
-  <programme start="20260306090300 +0000" stop="20260306093300 +0000" channel="phoenixhongkong.unifitv">
-    <title lang="en">CHINA RESOURCES ZOOM IN</title>
-    <desc lang="en">Pay attention to current political topics, major social events and news hot spots. Dig out more facts and backgrounds. Analyze the early consequences of news events, the fate of characters, and present authoritative views.</desc>
-    <category lang="en">Factual</category>
-    <episode-num system="xmltv_ns">0.20260305.</episode-num>
-    <episode-num system="onscreen">S1E20260306</episode-num>
-  </programme>
-  <programme start="20260306093300 +0000" stop="20260306100300 +0000" channel="phoenixhongkong.unifitv">
-    <title lang="en">HONG KONG PERSPECTIVES</title>
-    <desc lang="en">Hong Kong Perspectives offers interviews with major SAR government officials, Leg Co president, as well as experts from think tanks, the programmes explain the essence of the Basic Law and explores how it has been implemented citing examples from the past.</desc>
-    <category lang="en">Current Affairs</category>
     <episode-num system="xmltv_ns">0.20260305.</episode-num>
     <episode-num system="onscreen">S1E20260306</episode-num>
   </programme>
@@ -5586,7 +5558,7 @@
   </programme>
   <programme start="20260305153000 +0000" stop="20260305160000 +0000" channel="unknown.unifitv">
     <title lang="en">Thirumangalyam</title>
-    <desc lang="en">The story of Lakshmi, an innocent orphan raised by her grandmother. Unexpectedly married into a wealthy family, she discovers her husband Nanthan loves his cousin Dhivya. Choosing not to stand in his way, Lakshmi walks away, torn between her dreams and harsh reality. A heartfelt love triangle woven with deep family drama.</desc>
+    <desc lang="en">The story of Lakshmi, an innocent orphan raised by her grandmother. Unexpectedly married into a wealthy family, she discovers her husband Nanthan loves his cousin Dhivya. Choosing not to stand in his</desc>
     <category lang="en">Drama</category>
     <episode-num system="xmltv_ns">0.75.</episode-num>
     <episode-num system="onscreen">S1E76</episode-num>
@@ -5613,7 +5585,7 @@
     <episode-num system="onscreen">S1E157</episode-num>
   </programme>
   <programme start="20260305173000 +0000" stop="20260305180000 +0000" channel="unknown.unifitv">
-    <title lang="en">Parijadam</title>
+    <title lang="en">Parijatham</title>
     <desc lang="en">After losing her parents and hearing in a tragic accident, Isai is forced to marry Vishal when her aunt Rukmini manipulates her horoscope to meet Subadra's strict astrological beliefs.</desc>
     <category lang="en">Romance</category>
     <episode-num system="xmltv_ns">0.147.</episode-num>
@@ -5806,7 +5778,7 @@
   </programme>
   <programme start="20260306120000 +0000" stop="20260306123000 +0000" channel="unknown.unifitv">
     <title lang="en">Thirumangalyam</title>
-    <desc lang="en">The story of Lakshmi, an innocent orphan raised by her grandmother. Unexpectedly married into a wealthy family, she discovers her husband Nanthan loves his cousin Dhivya. Choosing not to stand in his way, Lakshmi walks away, torn between her dreams and harsh reality. A heartfelt love triangle woven with deep family drama.</desc>
+    <desc lang="en">The story of Lakshmi, an innocent orphan raised by her grandmother. Unexpectedly married into a wealthy family, she discovers her husband Nanthan loves his cousin Dhivya. Choosing not to stand in his</desc>
     <category lang="en">Drama</category>
     <episode-num system="xmltv_ns">0.91.</episode-num>
     <episode-num system="onscreen">S1E92</episode-num>
@@ -5855,7 +5827,7 @@
   </programme>
   <programme start="20260306153000 +0000" stop="20260306160000 +0000" channel="unknown.unifitv">
     <title lang="en">Thirumangalyam</title>
-    <desc lang="en">The story of Lakshmi, an innocent orphan raised by her grandmother. Unexpectedly married into a wealthy family, she discovers her husband Nanthan loves his cousin Dhivya. Choosing not to stand in his way, Lakshmi walks away, torn between her dreams and harsh reality. A heartfelt love triangle woven with deep family drama.</desc>
+    <desc lang="en">The story of Lakshmi, an innocent orphan raised by her grandmother. Unexpectedly married into a wealthy family, she discovers her husband Nanthan loves his cousin Dhivya. Choosing not to stand in his</desc>
     <category lang="en">Drama</category>
     <episode-num system="xmltv_ns">0.76.</episode-num>
     <episode-num system="onscreen">S1E77</episode-num>
