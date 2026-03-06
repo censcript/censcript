@@ -709,6 +709,18 @@
 <programme start="20260306090000 +0000" stop="20260306110000 +0000" channel="ANTV.vision">
 <title>Vasudha</title>
 </programme>
+<programme start="20260306110000 +0000" stop="20260306130000 +0000" channel="ANTV.vision">
+<title>Tarzan Penunggu Harta Karun</title>
+</programme>
+<programme start="20260306130000 +0000" stop="20260306150000 +0000" channel="ANTV.vision">
+<title>Melodi Cinta Rhoma Irama</title>
+</programme>
+<programme start="20260306150000 +0000" stop="20260306170000 +0000" channel="ANTV.vision">
+<title>Mana Tahan</title>
+</programme>
+<programme start="20260306170000 +0000" stop="20260306183000 +0000" channel="ANTV.vision">
+<title>Kids &amp; Soldiers</title>
+</programme>
 <programme start="20260306183000 +0000" stop="20260306193000 +0000" channel="ANTV.vision">
 <title>Sinema Spesial</title>
 </programme>
@@ -888,6 +900,9 @@
 </programme>
 <programme start="20260306110000 +0000" stop="20260306130000 +0000" channel="TVOne.vision">
 <title>Apa Kabar Indonesia Malam (L)</title>
+</programme>
+<programme start="20260306130000 +0000" stop="20260306140000 +0000" channel="TVOne.vision">
+<title>One On One (L)</title>
 </programme>
 <programme start="20260306140000 +0000" stop="20260306150000 +0000" channel="TVOne.vision">
 <title>Kabar Utama (L)</title>
@@ -1482,19 +1497,4 @@
 </programme>
 <programme start="20260306060000 +0000" stop="20260306070000 +0000" channel="BTV.vision">
 <title>Berita Viral</title>
-</programme>
-<programme start="20260306070000 +0000" stop="20260306073000 +0000" channel="BTV.vision">
-<title>Jendela Nusantara: Jawa Barat</title>
-</programme>
-<programme start="20260306073000 +0000" stop="20260306080000 +0000" channel="BTV.vision">
-<title>Dikit-Dikit Damkar</title>
-</programme>
-<programme start="20260306080000 +0000" stop="20260306083000 +0000" channel="BTV.vision">
-<title>Berita Merah Putih</title>
-</programme>
-<programme start="20260306083000 +0000" stop="20260306090000 +0000" channel="BTV.vision">
-<title>Berita Kriminal</title>
-</programme>
-<programme start="20260306090000 +0000" stop="20260306100400 +0000" channel="BTV.vision">
-<title>Berita Satu Sore (L)</title>
 </programme>
