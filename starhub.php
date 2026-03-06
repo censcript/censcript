@@ -3236,7 +3236,7 @@
         <title>News</title>
     </programme>
     <programme start="20260306011500 +0000" stop="20260306020000 +0000" channel="DW English HD.starhub">
-        <title>India - Economic Miracle or Mirage?</title>
+        <title>An Endless War: Iran, Israel, the USA - Chapter 2 - Dialogue, or War?</title>
     </programme>
     <programme start="20260306020000 +0000" stop="20260306020200 +0000" channel="DW English HD.starhub">
         <title>News</title>
@@ -3245,7 +3245,7 @@
         <title>News in Review</title>
     </programme>
     <programme start="20260306023000 +0000" stop="20260306030000 +0000" channel="DW English HD.starhub">
-        <title>Spotlight on People</title>
+        <title>Understand the world, one story at a time</title>
     </programme>
     <programme start="20260306030000 +0000" stop="20260306030200 +0000" channel="DW English HD.starhub">
         <title>News</title>
@@ -3266,7 +3266,7 @@
         <title>News</title>
     </programme>
     <programme start="20260306041500 +0000" stop="20260306050000 +0000" channel="DW English HD.starhub">
-        <title>India - Economic Miracle or Mirage?</title>
+        <title>Iran - Faces of Anger</title>
     </programme>
     <programme start="20260306050000 +0000" stop="20260306050200 +0000" channel="DW English HD.starhub">
         <title>News</title>
@@ -3287,7 +3287,7 @@
         <title>Indiana Jones in Berlin? Inside the capital’s biggest archaeological dig</title>
     </programme>
     <programme start="20260306063000 +0000" stop="20260306070000 +0000" channel="DW English HD.starhub">
-        <title>DUI: How alcohol impairs your ability to operate a vehicle</title>
+        <title>Understand the world, one story at a time</title>
     </programme>
     <programme start="20260306070000 +0000" stop="20260306070200 +0000" channel="DW English HD.starhub">
         <title>News</title>
@@ -3296,7 +3296,7 @@
         <title>News</title>
     </programme>
     <programme start="20260306071500 +0000" stop="20260306080000 +0000" channel="DW English HD.starhub">
-        <title>Blood, Sweat, and Sugar - Part 1</title>
+        <title>An Endless War: Iran, Israel, the USA - Chapter 2 - Dialogue, or War?</title>
     </programme>
     <programme start="20260306080000 +0000" stop="20260306080200 +0000" channel="DW English HD.starhub">
         <title>News</title>
@@ -3314,7 +3314,7 @@
         <title>News</title>
     </programme>
     <programme start="20260306091500 +0000" stop="20260306100000 +0000" channel="DW English HD.starhub">
-        <title>Dock Workers and Drug Cartels - A Dangerous Collaboration</title>
+        <title>Iran - Faces of Anger</title>
     </programme>
     <programme start="20260306100000 +0000" stop="20260306100200 +0000" channel="DW English HD.starhub">
         <title>News</title>
@@ -3325,14 +3325,8 @@
     <programme start="20260306101500 +0000" stop="20260306110000 +0000" channel="DW English HD.starhub">
         <title>An Endless War - Israel - Iran - USA, Chapter 1 - Origins of a Conflict</title>
     </programme>
-    <programme start="20260306110000 +0000" stop="20260306110200 +0000" channel="DW English HD.starhub">
+    <programme start="20260306110000 +0000" stop="20260306120000 +0000" channel="DW English HD.starhub">
         <title>News</title>
-    </programme>
-    <programme start="20260306110200 +0000" stop="20260306113000 +0000" channel="DW English HD.starhub">
-        <title>Visionary: films, women, decolonial tours</title>
-    </programme>
-    <programme start="20260306113000 +0000" stop="20260306120000 +0000" channel="DW English HD.starhub">
-        <title>Iran War: Trump’s Unpredictable Gamble?</title>
     </programme>
     <programme start="20260306120000 +0000" stop="20260306120200 +0000" channel="DW English HD.starhub">
         <title>News</title>
@@ -3341,7 +3335,7 @@
         <title>News</title>
     </programme>
     <programme start="20260306121500 +0000" stop="20260306130000 +0000" channel="DW English HD.starhub">
-        <title>Blood, Sweat, and Sugar - Part 1</title>
+        <title>Iran - Faces of Anger</title>
     </programme>
     <programme start="20260306130000 +0000" stop="20260306130200 +0000" channel="DW English HD.starhub">
         <title>News</title>
