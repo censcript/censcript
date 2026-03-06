@@ -700,23 +700,23 @@
 <programme start="20260306080000 +0000" stop="20260306090000 +0000" channel="ANTV.vision">
 <title>Teri Meri Doriyaann</title>
 </programme>
-<programme start="20260306090000 +0000" stop="20260306110000 +0000" channel="ANTV.vision">
+<programme start="20260306090000 +0000" stop="20260306111000 +0000" channel="ANTV.vision">
 <title>Vasudha</title>
 </programme>
-<programme start="20260306110000 +0000" stop="20260306130000 +0000" channel="ANTV.vision">
+<programme start="20260306111000 +0000" stop="20260306113000 +0000" channel="ANTV.vision">
+<title>Sepiring Berduet</title>
+</programme>
+<programme start="20260306113000 +0000" stop="20260306133000 +0000" channel="ANTV.vision">
 <title>Tarzan Penunggu Harta Karun</title>
 </programme>
-<programme start="20260306130000 +0000" stop="20260306150000 +0000" channel="ANTV.vision">
+<programme start="20260306133000 +0000" stop="20260306153000 +0000" channel="ANTV.vision">
 <title>Melodi Cinta Rhoma Irama</title>
 </programme>
-<programme start="20260306150000 +0000" stop="20260306170000 +0000" channel="ANTV.vision">
+<programme start="20260306153000 +0000" stop="20260306173000 +0000" channel="ANTV.vision">
 <title>Mana Tahan</title>
 </programme>
-<programme start="20260306170000 +0000" stop="20260306183000 +0000" channel="ANTV.vision">
-<title>Kids &amp; Soldiers</title>
-</programme>
-<programme start="20260306183000 +0000" stop="20260306193000 +0000" channel="ANTV.vision">
-<title>Sinema Spesial</title>
+<programme start="20260306173000 +0000" stop="20260306193000 +0000" channel="ANTV.vision">
+<title>Best Of The Best 2</title>
 </programme>
 <programme start="20260306193000 +0000" stop="20260306213000 +0000" channel="ANTV.vision">
 <title>Depan Bisa Belakang Bisa</title>
@@ -861,6 +861,9 @@
 </programme>
 <programme start="20260305233000 +0000" stop="20260306013000 +0000" channel="TVOne.vision">
 <title>Apa Kabar Indonesia Pagi (L)</title>
+</programme>
+<programme start="20260306013000 +0000" stop="20260306020000 +0000" channel="TVOne.vision">
+<title>Hidup Sehat</title>
 </programme>
 <programme start="20260306020000 +0000" stop="20260306023000 +0000" channel="TVOne.vision">
 <title>Inspirasi Pagi (L)</title>
@@ -1494,7 +1497,4 @@
 </programme>
 <programme start="20260306070000 +0000" stop="20260306073000 +0000" channel="BTV.vision">
 <title>Jendela Nusantara: Jawa Barat</title>
-</programme>
-<programme start="20260306073000 +0000" stop="20260306080000 +0000" channel="BTV.vision">
-<title>Dikit-Dikit Damkar</title>
 </programme>
