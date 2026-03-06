@@ -1502,64 +1502,64 @@
         <title>Aranmanai Kili</title>
     </programme>
     <programme start="20260305233000 +0000" stop="20260306000000 +0000" channel="COLORS Tamil HD.starhub">
-        <title>Skandha Sashti Kavasam</title>
+        <title>Kadhala Kadhala</title>
     </programme>
-    <programme start="20260306000000 +0000" stop="20260306003000 +0000" channel="COLORS Tamil HD.starhub">
-        <title>Shri Venkateswara Suprabhatam</title>
-    </programme>
-    <programme start="20260306003000 +0000" stop="20260306010000 +0000" channel="COLORS Tamil HD.starhub">
-        <title>Skandha Sashti Kavasam</title>
+    <programme start="20260306000000 +0000" stop="20260306010000 +0000" channel="COLORS Tamil HD.starhub">
+        <title>Kadhala Kadhala</title>
     </programme>
     <programme start="20260306010000 +0000" stop="20260306013000 +0000" channel="COLORS Tamil HD.starhub">
-        <title>Shiva Shakthi Thiruvilayadal</title>
+        <title>Mynaa</title>
     </programme>
     <programme start="20260306013000 +0000" stop="20260306020000 +0000" channel="COLORS Tamil HD.starhub">
+        <title>Muthazhagu</title>
+    </programme>
+    <programme start="20260306020000 +0000" stop="20260306050000 +0000" channel="COLORS Tamil HD.starhub">
+        <title>Utharavu Maharaja</title>
+    </programme>
+    <programme start="20260306050000 +0000" stop="20260306053000 +0000" channel="COLORS Tamil HD.starhub">
         <title>Shiva Shakthi Thiruvilayadal</title>
     </programme>
-    <programme start="20260306020000 +0000" stop="20260306023000 +0000" channel="COLORS Tamil HD.starhub">
+    <programme start="20260306053000 +0000" stop="20260306060000 +0000" channel="COLORS Tamil HD.starhub">
         <title>Shiva Shakthi Thiruvilayadal</title>
     </programme>
-    <programme start="20260306023000 +0000" stop="20260306030000 +0000" channel="COLORS Tamil HD.starhub">
-        <title>Sri Vignesh Ad Agencey</title>
+    <programme start="20260306060000 +0000" stop="20260306083000 +0000" channel="COLORS Tamil HD.starhub">
+        <title>Ayangaran</title>
     </programme>
-    <programme start="20260306030000 +0000" stop="20260306033000 +0000" channel="COLORS Tamil HD.starhub">
-        <title>Sri Vignesh Ad Agencey</title>
+    <programme start="20260306083000 +0000" stop="20260306090000 +0000" channel="COLORS Tamil HD.starhub">
+        <title>Kadhala Kadhala</title>
     </programme>
-    <programme start="20260306033000 +0000" stop="20260306040000 +0000" channel="COLORS Tamil HD.starhub">
-        <title>Sri Vignesh Ad Agencey</title>
+    <programme start="20260306090000 +0000" stop="20260306093000 +0000" channel="COLORS Tamil HD.starhub">
+        <title>Mynaa</title>
     </programme>
-    <programme start="20260306040000 +0000" stop="20260306043000 +0000" channel="COLORS Tamil HD.starhub">
-        <title>Sri Vignesh Ad Agencey</title>
+    <programme start="20260306093000 +0000" stop="20260306100000 +0000" channel="COLORS Tamil HD.starhub">
+        <title>Mynaa</title>
     </programme>
-    <programme start="20260306043000 +0000" stop="20260306073000 +0000" channel="COLORS Tamil HD.starhub">
-        <title>Buffoon</title>
+    <programme start="20260306100000 +0000" stop="20260306103000 +0000" channel="COLORS Tamil HD.starhub">
+        <title>Muthazhagu</title>
     </programme>
-    <programme start="20260306073000 +0000" stop="20260306100000 +0000" channel="COLORS Tamil HD.starhub">
-        <title>Namma Oorukku Enna Than Achu</title>
+    <programme start="20260306103000 +0000" stop="20260306110000 +0000" channel="COLORS Tamil HD.starhub">
+        <title>Shiva Shakthi Thiruvilayadal</title>
     </programme>
-    <programme start="20260306100000 +0000" stop="20260306123000 +0000" channel="COLORS Tamil HD.starhub">
-        <title>Pisasu</title>
+    <programme start="20260306110000 +0000" stop="20260306113000 +0000" channel="COLORS Tamil HD.starhub">
+        <title>Shiva Shakthi Thiruvilayadal</title>
+    </programme>
+    <programme start="20260306113000 +0000" stop="20260306123000 +0000" channel="COLORS Tamil HD.starhub">
+        <title>Kadhala Kadhala</title>
     </programme>
     <programme start="20260306123000 +0000" stop="20260306130000 +0000" channel="COLORS Tamil HD.starhub">
-        <title>Adhe Kangal</title>
+        <title>Mynaa</title>
     </programme>
     <programme start="20260306130000 +0000" stop="20260306133000 +0000" channel="COLORS Tamil HD.starhub">
-        <title>Adhe Kangal</title>
+        <title>Mynaa</title>
     </programme>
     <programme start="20260306133000 +0000" stop="20260306140000 +0000" channel="COLORS Tamil HD.starhub">
-        <title>Adhe Kangal</title>
+        <title>Muthazhagu</title>
     </programme>
     <programme start="20260306140000 +0000" stop="20260306143000 +0000" channel="COLORS Tamil HD.starhub">
-        <title>Shiva Shakthi Thiruvilayadal</title>
+        <title>Adhe Kangal</title>
     </programme>
-    <programme start="20260306143000 +0000" stop="20260306150000 +0000" channel="COLORS Tamil HD.starhub">
-        <title>Shiva Shakthi Thiruvilayadal</title>
-    </programme>
-    <programme start="20260306150000 +0000" stop="20260306153000 +0000" channel="COLORS Tamil HD.starhub">
-        <title>Kanmani Anbudan</title>
-    </programme>
-    <programme start="20260306153000 +0000" stop="20260306160000 +0000" channel="COLORS Tamil HD.starhub">
-        <title>Thendrale Mella Pesu</title>
+    <programme start="20260306143000 +0000" stop="20260306173000 +0000" channel="COLORS Tamil HD.starhub">
+        <title>Nalanum Nandhiniyum</title>
     </programme>
     <programme start="20260305160000 +0000" stop="20260305180000 +0000" channel="TVBS Asia.starhub">
         <title>Shao Kang&#039;s War Room</title>
