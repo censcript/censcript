@@ -2541,13 +2541,13 @@ Warning: Undefined array key "et" in /usr/home/ManusiaBiasa/domains/manusiabiasa
 <programme start="20260305230500 +0000" stop="20260305235000 +0000" channel="Sky Sport Austria 1 HD.skyde">
     <title>Fußball: Herzog gegen Herzig - Die Next Generation Show (Grazer SC Straßenbahn)</title>
 </programme>
-<programme start="20260305235000 +0000" stop="20260306015000 +0000" channel="Sky Sport Austria 1 HD.skyde">
+<programme start="20260305234500 +0000" stop="20260306014500 +0000" channel="Sky Sport Austria 1 HD.skyde">
     <title>Admiral BL: Grazer AK 1902 -  SV Oberbank Ried, 21. Runde</title>
 </programme>
-<programme start="20260306015000 +0000" stop="20260306020500 +0000" channel="Sky Sport Austria 1 HD.skyde">
+<programme start="20260306014500 +0000" stop="20260306020000 +0000" channel="Sky Sport Austria 1 HD.skyde">
     <title>Golf: Sky Golf Cups Österreich</title>
 </programme>
-<programme start="20260306020500 +0000" stop="20260306040000 +0000" channel="Sky Sport Austria 1 HD.skyde">
+<programme start="20260306020000 +0000" stop="20260306040000 +0000" channel="Sky Sport Austria 1 HD.skyde">
     <title>UEFA CL: Bayer Leverkusen - Olympiakos Piräus, Knockout Play-offs, Rückspiele</title>
 </programme>
 <programme start="20260306040000 +0000" stop="20260306060000 +0000" channel="Sky Sport Austria 1 HD.skyde">
@@ -2775,17 +2775,11 @@ Warning: Undefined array key "et" in /usr/home/ManusiaBiasa/domains/manusiabiasa
 <programme start="20260306011500 +0000" stop="20260306030000 +0000" channel="Sky Sport F1 HD.skyde">
     <title>Live F1: 1. Freies Training - GP Australien</title>
 </programme>
-<programme start="20260306030000 +0000" stop="20260306034000 +0000" channel="Sky Sport F1 HD.skyde">
+<programme start="20260306030000 +0000" stop="20260306035500 +0000" channel="Sky Sport F1 HD.skyde">
     <title>Live F3: Qualifying - GP Australien</title>
 </programme>
-<programme start="20260306034000 +0000" stop="20260306035500 +0000" channel="Sky Sport F1 HD.skyde">
-    <title>F1: 2025: Rookie Review</title>
-</programme>
-<programme start="20260306035500 +0000" stop="20260306043500 +0000" channel="Sky Sport F1 HD.skyde">
+<programme start="20260306035500 +0000" stop="20260306044500 +0000" channel="Sky Sport F1 HD.skyde">
     <title>Live F2: Qualifying - GP Australien</title>
-</programme>
-<programme start="20260306043500 +0000" stop="20260306044500 +0000" channel="Sky Sport F1 HD.skyde">
-    <title>F1: Greatest Races: A. Prost / Australien 1986</title>
 </programme>
 <programme start="20260306044500 +0000" stop="20260306063000 +0000" channel="Sky Sport F1 HD.skyde">
     <title>Live F1: 2. Freies Training - GP Australien</title>
@@ -3260,6 +3254,12 @@ Warning: Undefined array key "et" in /usr/home/ManusiaBiasa/domains/manusiabiasa
 </programme>
 <programme start="20260306190000 +0000" stop="20260307090000 +0000" channel="Sky Sport 6 HD.skyde">
     <title>Live WTA 1000: BNP Paribas Open in Indian Wells, Kalifornien (USA), 3. Tag</title>
+</programme>
+<programme start="20260307184000 +0000" stop="20260307190000 +0000" channel="Sky Sport 8 HD.skyde">
+    <title>Es folgt: LIVE Tennis WTA Tour</title>
+</programme>
+<programme start="20260307190000 +0000" stop="20260308060000 +0000" channel="Sky Sport 8 HD.skyde">
+    <title>Live WTA 1000: BNP Paribas Open in Indian Wells, Kalifornien (USA), 4. Tag</title>
 </programme>
 <programme start="20260305232000 +0000" stop="20260306000500 +0000" channel="SYFY HD.skyde">
     <title>Raumschiff Enterprise - Das nächste Jahrhundert</title>
