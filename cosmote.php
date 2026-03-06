@@ -78,10 +78,6 @@
     <title>Football: AEK - AEL Novibet (L)</title>
     <desc>Live: Ya</desc>
 </programme>
-<programme start="20260306225000 +0700" stop="20260306232000 +0700" channel="COSMOTE Sport 2 HD">
-    <title>Serie A Full Impact 2024-25 E27</title>
-    <desc>Live: Tidak</desc>
-</programme>
 <programme start="20260306232000 +0700" stop="20260307013000 +0700" channel="COSMOTE Sport 2 HD">
     <title>Football: Volos NPS - AEK</title>
     <desc>Live: Tidak</desc>
@@ -150,13 +146,9 @@
     <title>Sports Classics: My Sporting Moment</title>
     <desc>Live: Tidak</desc>
 </programme>
-<programme start="20260306230000 +0700" stop="20260306233000 +0700" channel="COSMOTE Sport 3 HD">
-    <title>Emirates FA Cup 2025-26 - Highlights</title>
-    <desc>Live: Tidak</desc>
-</programme>
-<programme start="20260306233000 +0700" stop="20260306235500 +0700" channel="COSMOTE Sport 3 HD">
-    <title>William Hill Scottish Premiership - Highlights</title>
-    <desc>Live: Tidak</desc>
+<programme start="20260308000000 +0700" stop="20260308020000 +0700" channel="COSMOTE Sport 2 HD">
+    <title>Football: Atalanta - Udinese (L)</title>
+    <desc>Live: Ya</desc>
 </programme>
 <programme start="20260306235500 +0700" stop="20260307020000 +0700" channel="COSMOTE Sport 3 HD">
     <title>Football: Aberdeen - Celtic FC</title>
@@ -234,6 +226,14 @@
     <title>Football: Al Ahli - Al Ittihad</title>
     <desc>Live: Tidak</desc>
 </programme>
+<programme start="20260308001500 +0700" stop="20260308004500 +0700" channel="COSMOTE Sport 3 HD">
+    <title>William Hill Scottish Premiership - Highlights</title>
+    <desc>Live: Tidak</desc>
+</programme>
+<programme start="20260308004500 +0700" stop="20260308024500 +0700" channel="COSMOTE Sport 3 HD">
+    <title>Football: Wrexham  - Chelsea FC (L)</title>
+    <desc>Live: Ya</desc>
+</programme>
 <programme start="20260306221500 +0700" stop="20260307001000 +0700" channel="COSMOTE Sport 4 HD">
     <title>Basketball: Vanoli Cremona - Armani Milano</title>
     <desc>Live: Tidak</desc>
@@ -300,10 +300,6 @@
 </programme>
 <programme start="20260307223500 +0700" stop="20260308010000 +0700" channel="COSMOTE Sport 4 HD">
     <title>Basketball: Varese - Brescia</title>
-    <desc>Live: Tidak</desc>
-</programme>
-<programme start="20260306222500 +0700" stop="20260306231000 +0700" channel="COSMOTE Sport 5 HD">
-    <title>WRC: More Than Machine S2 E3</title>
     <desc>Live: Tidak</desc>
 </programme>
 <programme start="20260306231000 +0700" stop="20260307002000 +0700" channel="COSMOTE Sport 5 HD">

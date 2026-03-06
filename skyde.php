@@ -2538,7 +2538,7 @@ Warning: Undefined array key "et" in /usr/home/ManusiaBiasa/domains/manusiabiasa
 <programme start="20260306223000 +0000" stop="20260306232000 +0000" channel="Sky Showcase HD.skyde">
     <title>Auf der Jagd nach meinem Stalker</title>
 </programme>
-<programme start="20260305230000 +0000" stop="20260305234500 +0000" channel="Sky Sport Austria 1 HD.skyde">
+<programme start="20260305230500 +0000" stop="20260305235000 +0000" channel="Sky Sport Austria 1 HD.skyde">
     <title>Fußball: Herzog gegen Herzig - Die Next Generation Show (Grazer SC Straßenbahn)</title>
 </programme>
 <programme start="20260305234500 +0000" stop="20260306014500 +0000" channel="Sky Sport Austria 1 HD.skyde">
@@ -2602,7 +2602,7 @@ Warning: Undefined array key "et" in /usr/home/ManusiaBiasa/domains/manusiabiasa
     <title>Admiral BL: ASAT Kompakt, 21. Runde</title>
 </programme>
 <programme start="20260306170000 +0000" stop="20260306184500 +0000" channel="Sky Sport Austria 1 HD.skyde">
-    <title>Fußball: Klassiker der Woche</title>
+    <title>Fußball: Klassiker der Woche: RBS - SCR (2014/15)</title>
 </programme>
 <programme start="20260306184500 +0000" stop="20260306191500 +0000" channel="Sky Sport Austria 1 HD.skyde">
     <title>Admiral BL: 90in30: XXX - YYY, 21. Runde</title>
@@ -2614,7 +2614,7 @@ Warning: Undefined array key "et" in /usr/home/ManusiaBiasa/domains/manusiabiasa
     <title>Admiral BL: ASAT Kompakt, 21. Runde</title>
 </programme>
 <programme start="20260306201500 +0000" stop="20260306220000 +0000" channel="Sky Sport Austria 1 HD.skyde">
-    <title>Fußball: Klassiker der Woche</title>
+    <title>Fußball: Klassiker der Woche: RBS - SCR (2014/15)</title>
 </programme>
 <programme start="20260306220000 +0000" stop="20260306223000 +0000" channel="Sky Sport Austria 1 HD.skyde">
     <title>UEFA CL: Magazin</title>
@@ -2745,7 +2745,7 @@ Warning: Undefined array key "et" in /usr/home/ManusiaBiasa/domains/manusiabiasa
 <programme start="20260306170000 +0000" stop="20260306193000 +0000" channel="Sky Sport Bundesliga 3 HD.skyde">
     <title>Live 2. BL: FC Schalke 04 - Arminia Bielefeld, 25. Spieltag</title>
 </programme>
-<programme start="20260306193000 +0000" stop="20260306213000 +0000" channel="Sky Sport Bundesliga 3 HD.skyde">
+<programme start="20260306193000 +0000" stop="20260306220000 +0000" channel="Sky Sport Bundesliga 3 HD.skyde">
     <title>Live BL: Sky Sport Fantasy: FCB - BMG, 25. Spieltag</title>
 </programme>
 <programme start="20260306164000 +0000" stop="20260306170000 +0000" channel="Sky Sport Bundesliga 4 HD.skyde">
@@ -2775,17 +2775,11 @@ Warning: Undefined array key "et" in /usr/home/ManusiaBiasa/domains/manusiabiasa
 <programme start="20260306011500 +0000" stop="20260306030000 +0000" channel="Sky Sport F1 HD.skyde">
     <title>Live F1: 1. Freies Training - GP Australien</title>
 </programme>
-<programme start="20260306030000 +0000" stop="20260306034000 +0000" channel="Sky Sport F1 HD.skyde">
+<programme start="20260306030000 +0000" stop="20260306035500 +0000" channel="Sky Sport F1 HD.skyde">
     <title>Live F3: Qualifying - GP Australien</title>
 </programme>
-<programme start="20260306034000 +0000" stop="20260306035500 +0000" channel="Sky Sport F1 HD.skyde">
-    <title>F1: 2025: Rookie Review</title>
-</programme>
-<programme start="20260306035500 +0000" stop="20260306043500 +0000" channel="Sky Sport F1 HD.skyde">
+<programme start="20260306035500 +0000" stop="20260306044500 +0000" channel="Sky Sport F1 HD.skyde">
     <title>Live F2: Qualifying - GP Australien</title>
-</programme>
-<programme start="20260306043500 +0000" stop="20260306044500 +0000" channel="Sky Sport F1 HD.skyde">
-    <title>F1: Greatest Races: A. Prost / Australien 1986</title>
 </programme>
 <programme start="20260306044500 +0000" stop="20260306063000 +0000" channel="Sky Sport F1 HD.skyde">
     <title>Live F1: 2. Freies Training - GP Australien</title>
@@ -3132,25 +3126,28 @@ Warning: Undefined array key "et" in /usr/home/ManusiaBiasa/domains/manusiabiasa
 <programme start="20260306224500 +0000" stop="20260306230000 +0000" channel="Sky Sport Premier League HD.skyde">
     <title>PL: Under the Skin (Ipswich Town)</title>
 </programme>
+<programme start="20260306060000 +0000" stop="20260306070000 +0000" channel="Sky Sport Tennis HD.skyde">
+    <title>ATP 500: Review Acapulco</title>
+</programme>
 <programme start="20260306070000 +0000" stop="20260306090000 +0000" channel="Sky Sport Tennis HD.skyde">
     <title>WTA 1000: L. Siegemund (GER) - P. Marcinko (CRO), BNP Paribas Open in Indian Wells, Kalifornien (USA), 2. Tag</title>
 </programme>
-<programme start="20260306100000 +0000" stop="20260306113000 +0000" channel="Sky Sport Tennis HD.skyde">
+<programme start="20260306090000 +0000" stop="20260306110000 +0000" channel="Sky Sport Tennis HD.skyde">
     <title>ATP 1000: S. Korda (USA) - F. Comesana (ARG), BNP Paribas Open in Indian Wells, Kalifornien (USA), 2. Tag</title>
 </programme>
-<programme start="20260306113000 +0000" stop="20260306120000 +0000" channel="Sky Sport Tennis HD.skyde">
+<programme start="20260306110000 +0000" stop="20260306113000 +0000" channel="Sky Sport Tennis HD.skyde">
     <title>ATP: This Week</title>
 </programme>
-<programme start="20260306120000 +0000" stop="20260306143000 +0000" channel="Sky Sport Tennis HD.skyde">
+<programme start="20260306113000 +0000" stop="20260306140000 +0000" channel="Sky Sport Tennis HD.skyde">
     <title>ATP 500: F. Cobolli (ITA) - F. Tiafoe (USA) Abierto Mexicano Telcel presented by HSBC in Acapulco (MEX), Finale</title>
 </programme>
-<programme start="20260306143000 +0000" stop="20260306153000 +0000" channel="Sky Sport Tennis HD.skyde">
+<programme start="20260306140000 +0000" stop="20260306150000 +0000" channel="Sky Sport Tennis HD.skyde">
     <title>ATP 500: Review Dubai</title>
 </programme>
-<programme start="20260306153000 +0000" stop="20260306173000 +0000" channel="Sky Sport Tennis HD.skyde">
+<programme start="20260306150000 +0000" stop="20260306170000 +0000" channel="Sky Sport Tennis HD.skyde">
     <title>WTA 1000: L. Siegemund (GER) - P. Marcinko (CRO), BNP Paribas Open in Indian Wells, Kalifornien (USA), 2. Tag</title>
 </programme>
-<programme start="20260306173000 +0000" stop="20260306190000 +0000" channel="Sky Sport Tennis HD.skyde">
+<programme start="20260306170000 +0000" stop="20260306190000 +0000" channel="Sky Sport Tennis HD.skyde">
     <title>ATP 1000: S. Korda (USA) - F. Comesana (ARG), BNP Paribas Open in Indian Wells, Kalifornien (USA), 2. Tag</title>
 </programme>
 <programme start="20260306190000 +0000" stop="20260307060000 +0000" channel="Sky Sport Tennis HD.skyde">
@@ -3255,8 +3252,14 @@ Warning: Undefined array key "et" in /usr/home/ManusiaBiasa/domains/manusiabiasa
 <programme start="20260306184000 +0000" stop="20260306190000 +0000" channel="Sky Sport 6 HD.skyde">
     <title>Es folgt: LIVE Tennis WTA Tour</title>
 </programme>
-<programme start="20260306190000 +0000" stop="20260307060000 +0000" channel="Sky Sport 6 HD.skyde">
+<programme start="20260306190000 +0000" stop="20260307090000 +0000" channel="Sky Sport 6 HD.skyde">
     <title>Live WTA 1000: BNP Paribas Open in Indian Wells, Kalifornien (USA), 3. Tag</title>
+</programme>
+<programme start="20260307184000 +0000" stop="20260307190000 +0000" channel="Sky Sport 8 HD.skyde">
+    <title>Es folgt: LIVE Tennis WTA Tour</title>
+</programme>
+<programme start="20260307190000 +0000" stop="20260308060000 +0000" channel="Sky Sport 8 HD.skyde">
+    <title>Live WTA 1000: BNP Paribas Open in Indian Wells, Kalifornien (USA), 4. Tag</title>
 </programme>
 <programme start="20260305232000 +0000" stop="20260306000500 +0000" channel="SYFY HD.skyde">
     <title>Raumschiff Enterprise - Das nächste Jahrhundert</title>

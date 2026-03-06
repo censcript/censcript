@@ -301,59 +301,62 @@
 <programme start="20260306163000 +0000" stop="20260306170000 +0000" channel="iNews.vision">
 <title>iNews</title>
 </programme>
-<programme start="20260306170000 +0000" stop="20260306183000 +0000" channel="iNews.vision">
-<title>iNews</title>
+<programme start="20260306170000 +0000" stop="20260306173000 +0000" channel="iNews.vision">
+<title>E-Max</title>
+</programme>
+<programme start="20260306173000 +0000" stop="20260306183000 +0000" channel="iNews.vision">
+<title>Realita</title>
 </programme>
 <programme start="20260306183000 +0000" stop="20260306193000 +0000" channel="iNews.vision">
-<title>iNews</title>
+<title>iNews Sore</title>
 </programme>
 <programme start="20260306193000 +0000" stop="20260306213000 +0000" channel="iNews.vision">
 <title>iNews</title>
 </programme>
 <programme start="20260306213000 +0000" stop="20260306214000 +0000" channel="iNews.vision">
-<title>iNews</title>
+<title>Imsak</title>
 </programme>
 <programme start="20260306214000 +0000" stop="20260306230000 +0000" channel="iNews.vision">
-<title>iNews</title>
+<title>Inews Pagi (Live)</title>
 </programme>
 <programme start="20260306230000 +0000" stop="20260306230200 +0000" channel="iNews.vision">
-<title>iNews</title>
+<title>Indonesia Raya</title>
 </programme>
 <programme start="20260306230200 +0000" stop="20260306233000 +0000" channel="iNews.vision">
-<title>iNews</title>
+<title>iNews Sport</title>
 </programme>
 <programme start="20260306233000 +0000" stop="20260307010000 +0000" channel="iNews.vision">
-<title>iNews</title>
+<title>Special Report</title>
 </programme>
 <programme start="20260307010000 +0000" stop="20260307023000 +0000" channel="iNews.vision">
-<title>iNews</title>
+<title>Realita</title>
 </programme>
 <programme start="20260307023000 +0000" stop="20260307033000 +0000" channel="iNews.vision">
-<title>iNews</title>
+<title>iNews Files</title>
 </programme>
 <programme start="20260307033000 +0000" stop="20260307053000 +0000" channel="iNews.vision">
-<title>iNews</title>
+<title>iNews Siang (L)</title>
 </programme>
 <programme start="20260307053000 +0000" stop="20260307070000 +0000" channel="iNews.vision">
-<title>iNews</title>
+<title>Cahaya Hati Indonesia Ramadan (Inews)</title>
 </programme>
 <programme start="20260307070000 +0000" stop="20260307083000 +0000" channel="iNews.vision">
-<title>iNews</title>
+<title>iSeleb</title>
 </programme>
 <programme start="20260307083000 +0000" stop="20260307100000 +0000" channel="iNews.vision">
-<title>iNews</title>
+<title>Realita (L)</title>
 </programme>
 <programme start="20260307100000 +0000" stop="20260307110000 +0000" channel="iNews.vision">
-<title>iNews</title>
+<title>Inews Sore (Live)</title>
 </programme>
 <programme start="20260307110000 +0000" stop="20260307110500 +0000" channel="iNews.vision">
-<title>iNews</title>
+<title>Cahaya Hati The Series</title>
 </programme>
 <programme start="20260307110500 +0000" stop="20260307112000 +0000" channel="iNews.vision">
-<title>iNews</title>
+<title>Kultum Cahaya Hati Berbuka</title>
 </programme>
 <programme start="20260307112000 +0000" stop="20260307120000 +0000" channel="iNews.vision">
-<title>iNews</title>
+<title>iNews Sore</title>
 </programme>
 <programme start="20260306000000 +0000" stop="20260306003000 +0000" channel="SindoNews.vision">
 <title>iNews Today</title>
@@ -691,32 +694,29 @@
 <programme start="20260306003000 +0000" stop="20260306023000 +0000" channel="ANTV.vision">
 <title>Janji Inspektur Virat</title>
 </programme>
-<programme start="20260306023000 +0000" stop="20260306060000 +0000" channel="ANTV.vision">
-<title>Kaho Naa Pyaar Hai</title>
-</programme>
 <programme start="20260306060000 +0000" stop="20260306080000 +0000" channel="ANTV.vision">
 <title>Jhanak</title>
 </programme>
 <programme start="20260306080000 +0000" stop="20260306090000 +0000" channel="ANTV.vision">
 <title>Teri Meri Doriyaann</title>
 </programme>
-<programme start="20260306090000 +0000" stop="20260306111000 +0000" channel="ANTV.vision">
+<programme start="20260306090000 +0000" stop="20260306110000 +0000" channel="ANTV.vision">
 <title>Vasudha</title>
 </programme>
-<programme start="20260306111000 +0000" stop="20260306113000 +0000" channel="ANTV.vision">
-<title>Sepiring Berduet</title>
-</programme>
-<programme start="20260306113000 +0000" stop="20260306133000 +0000" channel="ANTV.vision">
+<programme start="20260306110000 +0000" stop="20260306130000 +0000" channel="ANTV.vision">
 <title>Tarzan Penunggu Harta Karun</title>
 </programme>
-<programme start="20260306133000 +0000" stop="20260306153000 +0000" channel="ANTV.vision">
+<programme start="20260306130000 +0000" stop="20260306150000 +0000" channel="ANTV.vision">
 <title>Melodi Cinta Rhoma Irama</title>
 </programme>
-<programme start="20260306153000 +0000" stop="20260306173000 +0000" channel="ANTV.vision">
+<programme start="20260306150000 +0000" stop="20260306170000 +0000" channel="ANTV.vision">
 <title>Mana Tahan</title>
 </programme>
-<programme start="20260306173000 +0000" stop="20260306193000 +0000" channel="ANTV.vision">
-<title>Best Of The Best 2</title>
+<programme start="20260306170000 +0000" stop="20260306183000 +0000" channel="ANTV.vision">
+<title>Kids &amp; Soldiers</title>
+</programme>
+<programme start="20260306183000 +0000" stop="20260306193000 +0000" channel="ANTV.vision">
+<title>Sinema Spesial</title>
 </programme>
 <programme start="20260306193000 +0000" stop="20260306213000 +0000" channel="ANTV.vision">
 <title>Depan Bisa Belakang Bisa</title>
