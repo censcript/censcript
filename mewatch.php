@@ -670,11 +670,50 @@
     <programme start="20260306160000 +0000" stop="20260306180000 +0000" channel="now-80s.mewatch">
         <title>Cheesy 80s Tunes</title>
     </programme>
-    <programme start="20260305160000 +0000" stop="20260306160000 +0000" channel="now-70s.mewatch">
-        <title>Schedule To Be Announced</title>
+    <programme start="20260305160000 +0000" stop="20260305170000 +0000" channel="now-70s.mewatch">
+        <title>Suzi Quatro&#039;s Wild Ones! - EP1</title>
     </programme>
-    <programme start="20260306160000 +0000" stop="20260307160000 +0000" channel="now-70s.mewatch">
-        <title>Schedule To Be Announced</title>
+    <programme start="20260305170000 +0000" stop="20260305191000 +0000" channel="now-70s.mewatch">
+        <title>30 Great Guitar Riffs of the 70s! - EP1</title>
+    </programme>
+    <programme start="20260305191000 +0000" stop="20260305200000 +0000" channel="now-70s.mewatch">
+        <title>Power Pop Day! - EP1</title>
+    </programme>
+    <programme start="20260305200000 +0000" stop="20260305220000 +0000" channel="now-70s.mewatch">
+        <title>Rosko&#039;s Glam Rock! 1971-1974 - EP1</title>
+    </programme>
+    <programme start="20260305220000 +0000" stop="20260306010000 +0000" channel="now-70s.mewatch">
+        <title>Good Times &amp; Dancefloor Delirium! - EP1</title>
+    </programme>
+    <programme start="20260306010000 +0000" stop="20260306030500 +0000" channel="now-70s.mewatch">
+        <title>Kiki Dee&#039;s Duos &amp; Duets! 1970-1979 - EP1</title>
+    </programme>
+    <programme start="20260306030500 +0000" stop="20260306040000 +0000" channel="now-70s.mewatch">
+        <title>Spring Has Sprung! - EP1</title>
+    </programme>
+    <programme start="20260306040000 +0000" stop="20260306042500 +0000" channel="now-70s.mewatch">
+        <title>The Hit Songs of Grease! - EP1</title>
+    </programme>
+    <programme start="20260306042500 +0000" stop="20260306050000 +0000" channel="now-70s.mewatch">
+        <title>Spring Has Sprung! - EP1</title>
+    </programme>
+    <programme start="20260306050000 +0000" stop="20260306080000 +0000" channel="now-70s.mewatch">
+        <title>Spring Has Sprung! Top 40 - EP1</title>
+    </programme>
+    <programme start="20260306080000 +0000" stop="20260306090000 +0000" channel="now-70s.mewatch">
+        <title>The 1972 POWER Hour with Bam! - EP1</title>
+    </programme>
+    <programme start="20260306090000 +0000" stop="20260306100000 +0000" channel="now-70s.mewatch">
+        <title>The 1976 POWER Hour with Bam! - EP1</title>
+    </programme>
+    <programme start="20260306100000 +0000" stop="20260306154000 +0000" channel="now-70s.mewatch">
+        <title>They Packed a Punch! 1970-1979 - EP1</title>
+    </programme>
+    <programme start="20260306154000 +0000" stop="20260306160000 +0000" channel="now-70s.mewatch">
+        <title>70s Rock Anthems Night! - EP1</title>
+    </programme>
+    <programme start="20260306160000 +0000" stop="20260306190000 +0000" channel="now-70s.mewatch">
+        <title>Spring Has Sprung! Top 40 - EP1</title>
     </programme>
     <programme start="20260305150500 +0000" stop="20260305170000 +0000" channel="cinemaworld.mewatch">
         <title>Cortina Express</title>

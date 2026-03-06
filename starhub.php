@@ -2096,10 +2096,10 @@
         <title>CNN Newsroom (CNNI) (60m)</title>
     </programme>
     <programme start="20260306090000 +0000" stop="20260306100000 +0000" channel="CNN HD.starhub">
-        <title>Episode 271</title>
+        <title>CNN Newsroom Live</title>
     </programme>
     <programme start="20260306100000 +0000" stop="20260306110000 +0000" channel="CNN HD.starhub">
-        <title>Early Start with Rahel Solomon</title>
+        <title>CNN Newsroom Live</title>
     </programme>
     <programme start="20260306110000 +0000" stop="20260306120000 +0000" channel="CNN HD.starhub">
         <title>CNN This Morning</title>
@@ -5168,7 +5168,7 @@
         <title>Day 1 Session 1</title>
     </programme>
     <programme start="20260305184500 +0000" stop="20260305210000 +0000" channel="SPOTV.starhub">
-        <title>25/26 ROSHN Saudi League MW 25 Al Kholood vs Al Qadsiah (Live)</title>
+        <title>25/26 ROSHN Saudi League MW 24 Al Fayha vs Al Nassr</title>
     </programme>
     <programme start="20260305210000 +0000" stop="20260305230000 +0000" channel="SPOTV.starhub">
         <title>25/26 A-League Men Round 20 Macarthur FC vs Central Coast Mariners FC</title>
@@ -6355,8 +6355,8 @@
     <programme start="20260306140000 +0000" stop="20260306154500 +0000" channel="HBO Signature HD.starhub">
         <title>Civil War</title>
     </programme>
-    <programme start="20260306154500 +0000" stop="20260306164500 +0000" channel="HBO Signature HD.starhub">
-        <title>Episode 8</title>
+    <programme start="20260306154500 +0000" stop="20260306165000 +0000" channel="HBO Signature HD.starhub">
+        <title>Both, And</title>
     </programme>
     <programme start="20260305160000 +0000" stop="20260305163000 +0000" channel="CNBC HD.starhub">
         <title>Money Movers</title>

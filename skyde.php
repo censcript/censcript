@@ -970,19 +970,19 @@ Warning: Undefined array key "et" in /usr/home/ManusiaBiasa/domains/manusiabiasa
     <title>UK Open: Tag 1 - Session 1</title>
 </programme>
 <programme start="20260306170000 +0000" stop="20260306173000 +0000" channel="DAZN 2 HD.skyde">
-    <title>FC Bayern World Squad: Class of &#039;25 - Folge 1</title>
-</programme>
-<programme start="20260306173000 +0000" stop="20260306181000 +0000" channel="DAZN 2 HD.skyde">
-    <title>FC Bayern World Squad: Class of &#039;25 - Folge 2</title>
-</programme>
-<programme start="20260306181000 +0000" stop="20260306183500 +0000" channel="DAZN 2 HD.skyde">
     <title>Best of DAZN: Highlights</title>
 </programme>
-<programme start="20260306183500 +0000" stop="20260306190500 +0000" channel="DAZN 2 HD.skyde">
+<programme start="20260306173000 +0000" stop="20260306180000 +0000" channel="DAZN 2 HD.skyde">
     <title>Doppelpack Europa - Highlights der Serie A und Ligue 1 25/26: 22./19. Spieltag</title>
 </programme>
-<programme start="20260306190500 +0000" stop="20260306195000 +0000" channel="DAZN 2 HD.skyde">
+<programme start="20260306180000 +0000" stop="20260306182000 +0000" channel="DAZN 2 HD.skyde">
+    <title>Best of DAZN: Highlights</title>
+</programme>
+<programme start="20260306182000 +0000" stop="20260306192000 +0000" channel="DAZN 2 HD.skyde">
     <title>3. Liga Highlightshow 25/26: 26. Spieltag</title>
+</programme>
+<programme start="20260306192000 +0000" stop="20260306195000 +0000" channel="DAZN 2 HD.skyde">
+    <title>Best of DAZN: Highlights</title>
 </programme>
 <programme start="20260306195000 +0000" stop="20260306221000 +0000" channel="DAZN 2 HD.skyde">
     <title>FA Cup 25/26: Wolverhampton Wanderers - FC Liverpool</title>
@@ -2541,16 +2541,16 @@ Warning: Undefined array key "et" in /usr/home/ManusiaBiasa/domains/manusiabiasa
 <programme start="20260306223000 +0000" stop="20260306232000 +0000" channel="Sky Showcase HD.skyde">
     <title>Auf der Jagd nach meinem Stalker</title>
 </programme>
-<programme start="20260305230000 +0000" stop="20260305234500 +0000" channel="Sky Sport Austria 1 HD.skyde">
+<programme start="20260305230500 +0000" stop="20260305235000 +0000" channel="Sky Sport Austria 1 HD.skyde">
     <title>Fußball: Herzog gegen Herzig - Die Next Generation Show (Grazer SC Straßenbahn)</title>
 </programme>
-<programme start="20260305234500 +0000" stop="20260306014500 +0000" channel="Sky Sport Austria 1 HD.skyde">
+<programme start="20260305235000 +0000" stop="20260306015000 +0000" channel="Sky Sport Austria 1 HD.skyde">
     <title>Admiral BL: Grazer AK 1902 -  SV Oberbank Ried, 21. Runde</title>
 </programme>
-<programme start="20260306014500 +0000" stop="20260306020000 +0000" channel="Sky Sport Austria 1 HD.skyde">
+<programme start="20260306015000 +0000" stop="20260306020500 +0000" channel="Sky Sport Austria 1 HD.skyde">
     <title>Golf: Sky Golf Cups Österreich</title>
 </programme>
-<programme start="20260306020000 +0000" stop="20260306040000 +0000" channel="Sky Sport Austria 1 HD.skyde">
+<programme start="20260306020500 +0000" stop="20260306040000 +0000" channel="Sky Sport Austria 1 HD.skyde">
     <title>UEFA CL: Bayer Leverkusen - Olympiakos Piräus, Knockout Play-offs, Rückspiele</title>
 </programme>
 <programme start="20260306040000 +0000" stop="20260306060000 +0000" channel="Sky Sport Austria 1 HD.skyde">
@@ -2605,7 +2605,7 @@ Warning: Undefined array key "et" in /usr/home/ManusiaBiasa/domains/manusiabiasa
     <title>Admiral BL: ASAT Kompakt, 21. Runde</title>
 </programme>
 <programme start="20260306170000 +0000" stop="20260306184500 +0000" channel="Sky Sport Austria 1 HD.skyde">
-    <title>Fußball: Klassiker der Woche</title>
+    <title>Fußball: Klassiker der Woche: RBS - SCR (2014/15)</title>
 </programme>
 <programme start="20260306184500 +0000" stop="20260306191500 +0000" channel="Sky Sport Austria 1 HD.skyde">
     <title>Admiral BL: 90in30: XXX - YYY, 21. Runde</title>
@@ -2617,7 +2617,7 @@ Warning: Undefined array key "et" in /usr/home/ManusiaBiasa/domains/manusiabiasa
     <title>Admiral BL: ASAT Kompakt, 21. Runde</title>
 </programme>
 <programme start="20260306201500 +0000" stop="20260306220000 +0000" channel="Sky Sport Austria 1 HD.skyde">
-    <title>Fußball: Klassiker der Woche</title>
+    <title>Fußball: Klassiker der Woche: RBS - SCR (2014/15)</title>
 </programme>
 <programme start="20260306220000 +0000" stop="20260306223000 +0000" channel="Sky Sport Austria 1 HD.skyde">
     <title>UEFA CL: Magazin</title>
@@ -2733,6 +2733,15 @@ Warning: Undefined array key "et" in /usr/home/ManusiaBiasa/domains/manusiabiasa
 <programme start="20260306191500 +0000" stop="20260306224500 +0000" channel="Sky Sport Bundesliga 1 HD.skyde">
     <title>Live BL: FC Bayern München - Borussia M&#039;gladbach, Flutlicht-Freitag, 25. Spieltag</title>
 </programme>
+<programme start="20260306164000 +0000" stop="20260306170000 +0000" channel="Sky Sport Bundesliga 2 HD.skyde">
+    <title>Es folgt: LIVE 2. Liga</title>
+</programme>
+<programme start="20260306170000 +0000" stop="20260306193000 +0000" channel="Sky Sport Bundesliga 2 HD.skyde">
+    <title>Live 2. BL: Freitags-Konferenz, 25. Spieltag</title>
+</programme>
+<programme start="20260306193000 +0000" stop="20260306201500 +0000" channel="Sky Sport Bundesliga 2 HD.skyde">
+    <title>Live 2. BL Alle Spiele, alle Tore: Die Vodafone Highlight-Show, 25. Spieltag, Freitag</title>
+</programme>
 <programme start="20260306164000 +0000" stop="20260306170000 +0000" channel="Sky Sport Bundesliga 3 HD.skyde">
     <title>Es folgt: LIVE 2. Liga</title>
 </programme>
@@ -2751,7 +2760,7 @@ Warning: Undefined array key "et" in /usr/home/ManusiaBiasa/domains/manusiabiasa
 <programme start="20260306164000 +0000" stop="20260306170000 +0000" channel="Sky Sport Bundesliga 5 HD.skyde">
     <title>Es folgt: LIVE 2. Liga</title>
 </programme>
-<programme start="20260306170000 +0000" stop="20260306193000 +0000" channel="Sky Sport Bundesliga 5 HD.skyde">
+<programme start="20260306170000 +0000" stop="20260306200000 +0000" channel="Sky Sport Bundesliga 5 HD.skyde">
     <title>Live 2. BL: Multiview 25. Spieltag, Freitag</title>
 </programme>
 <programme start="20260305230000 +0000" stop="20260305235500 +0000" channel="Sky Sport F1 HD.skyde">
@@ -3264,7 +3273,7 @@ Warning: Undefined array key "et" in /usr/home/ManusiaBiasa/domains/manusiabiasa
 <programme start="20260306184000 +0000" stop="20260306190000 +0000" channel="Sky Sport 6 HD.skyde">
     <title>Es folgt: LIVE Tennis WTA Tour</title>
 </programme>
-<programme start="20260306190000 +0000" stop="20260307090000 +0000" channel="Sky Sport 6 HD.skyde">
+<programme start="20260306190000 +0000" stop="20260307060000 +0000" channel="Sky Sport 6 HD.skyde">
     <title>Live WTA 1000: BNP Paribas Open in Indian Wells, Kalifornien (USA), 3. Tag</title>
 </programme>
 <programme start="20260305232000 +0000" stop="20260306000500 +0000" channel="SYFY HD.skyde">
