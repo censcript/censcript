@@ -909,48 +909,6 @@ Warning: Undefined array key "et" in /usr/home/ManusiaBiasa/domains/manusiabiasa
 <programme start="20260306222500 +0000" stop="20260306231500 +0000" channel="Crime + Investigation.skyde">
     <title>Cold Case Files - Dead West</title>
 </programme>
-<programme start="20260305230000 +0000" stop="20260306070000 +0000" channel="DAZN 1 HD.skyde">
-    <title>Sendepause</title>
-</programme>
-<programme start="20260306070000 +0000" stop="20260306071500 +0000" channel="DAZN 1 HD.skyde">
-    <title>Best of DAZN: Highlights</title>
-</programme>
-<programme start="20260306071500 +0000" stop="20260306083000 +0000" channel="DAZN 1 HD.skyde">
-    <title>ALL IN - Die Bundesliga Highlight Show: 24. Spieltag</title>
-</programme>
-<programme start="20260306083000 +0000" stop="20260306102500 +0000" channel="DAZN 1 HD.skyde">
-    <title>Bundesliga 25/26: Bayer 04 Leverkusen - 1. FSV Mainz 05</title>
-</programme>
-<programme start="20260306102500 +0000" stop="20260306122000 +0000" channel="DAZN 1 HD.skyde">
-    <title>Bundesliga 25/26: Hamburger SV - RB Leipzig</title>
-</programme>
-<programme start="20260306122000 +0000" stop="20260306124000 +0000" channel="DAZN 1 HD.skyde">
-    <title>Best of DAZN: Highlights</title>
-</programme>
-<programme start="20260306124000 +0000" stop="20260306131000 +0000" channel="DAZN 1 HD.skyde">
-    <title>Doppelpack Europa - Highlights der Serie A und Ligue 1 25/26: 22./19. Spieltag</title>
-</programme>
-<programme start="20260306131000 +0000" stop="20260306140000 +0000" channel="DAZN 1 HD.skyde">
-    <title>3. Liga Highlightshow 25/26: 26. Spieltag</title>
-</programme>
-<programme start="20260306140000 +0000" stop="20260306155500 +0000" channel="DAZN 1 HD.skyde">
-    <title>LaLiga 25/26: FC Barcelona - FC Villarreal</title>
-</programme>
-<programme start="20260306155500 +0000" stop="20260306175000 +0000" channel="DAZN 1 HD.skyde">
-    <title>Bundesliga 25/26: Borussia Dortmund - FC Bayern München</title>
-</programme>
-<programme start="20260306175000 +0000" stop="20260306181500 +0000" channel="DAZN 1 HD.skyde">
-    <title>Best of DAZN: Highlights</title>
-</programme>
-<programme start="20260306181500 +0000" stop="20260306193000 +0000" channel="DAZN 1 HD.skyde">
-    <title>ALL IN - Die Bundesliga Highlight Show: 24. Spieltag</title>
-</programme>
-<programme start="20260306193000 +0000" stop="20260306214000 +0000" channel="DAZN 1 HD.skyde">
-    <title>Ligue 1 25/26: PSG - AS Monaco</title>
-</programme>
-<programme start="20260306214000 +0000" stop="20260306233500 +0000" channel="DAZN 1 HD.skyde">
-    <title>Bundesliga 25/26: FC Bayern München - Borussia M&#039;gladbach</title>
-</programme>
 <programme start="20260305230000 +0000" stop="20260306070000 +0000" channel="DAZN 2 HD.skyde">
     <title>Sendepause</title>
 </programme>
@@ -2739,7 +2697,7 @@ Warning: Undefined array key "et" in /usr/home/ManusiaBiasa/domains/manusiabiasa
 <programme start="20260306170000 +0000" stop="20260306193000 +0000" channel="Sky Sport Bundesliga 2 HD.skyde">
     <title>Live 2. BL: Freitags-Konferenz, 25. Spieltag</title>
 </programme>
-<programme start="20260306193000 +0000" stop="20260306201500 +0000" channel="Sky Sport Bundesliga 2 HD.skyde">
+<programme start="20260306193000 +0000" stop="20260306204500 +0000" channel="Sky Sport Bundesliga 2 HD.skyde">
     <title>Live 2. BL Alle Spiele, alle Tore: Die Vodafone Highlight-Show, 25. Spieltag, Freitag</title>
 </programme>
 <programme start="20260306164000 +0000" stop="20260306170000 +0000" channel="Sky Sport Bundesliga 3 HD.skyde">
@@ -2748,7 +2706,7 @@ Warning: Undefined array key "et" in /usr/home/ManusiaBiasa/domains/manusiabiasa
 <programme start="20260306170000 +0000" stop="20260306193000 +0000" channel="Sky Sport Bundesliga 3 HD.skyde">
     <title>Live 2. BL: FC Schalke 04 - Arminia Bielefeld, 25. Spieltag</title>
 </programme>
-<programme start="20260306193000 +0000" stop="20260306213000 +0000" channel="Sky Sport Bundesliga 3 HD.skyde">
+<programme start="20260306193000 +0000" stop="20260306220000 +0000" channel="Sky Sport Bundesliga 3 HD.skyde">
     <title>Live BL: Sky Sport Fantasy: FCB - BMG, 25. Spieltag</title>
 </programme>
 <programme start="20260306164000 +0000" stop="20260306170000 +0000" channel="Sky Sport Bundesliga 4 HD.skyde">
@@ -3139,10 +3097,10 @@ Warning: Undefined array key "et" in /usr/home/ManusiaBiasa/domains/manusiabiasa
     <title>ATP 500: Review Acapulco</title>
 </programme>
 <programme start="20260306070000 +0000" stop="20260306090000 +0000" channel="Sky Sport Tennis HD.skyde">
-    <title>WTA 1000: S. Korda (USA) - F. Comesana (ARG), BNP Paribas Open in Indian Wells, Kalifornien (USA), 2. Tag</title>
+    <title>WTA 1000: L. Siegemund (GER) - P. Marcinko (CRO), BNP Paribas Open in Indian Wells, Kalifornien (USA), 2. Tag</title>
 </programme>
 <programme start="20260306090000 +0000" stop="20260306110000 +0000" channel="Sky Sport Tennis HD.skyde">
-    <title>ATP 1000: L. Siegemund (GER) - P. Marcinko (CRO), BNP Paribas Open in Indian Wells, Kalifornien (USA), 2. Tag</title>
+    <title>ATP 1000: S. Korda (USA) - F. Comesana (ARG), BNP Paribas Open in Indian Wells, Kalifornien (USA), 2. Tag</title>
 </programme>
 <programme start="20260306110000 +0000" stop="20260306113000 +0000" channel="Sky Sport Tennis HD.skyde">
     <title>ATP: This Week</title>
@@ -3154,10 +3112,10 @@ Warning: Undefined array key "et" in /usr/home/ManusiaBiasa/domains/manusiabiasa
     <title>ATP 500: Review Dubai</title>
 </programme>
 <programme start="20260306150000 +0000" stop="20260306170000 +0000" channel="Sky Sport Tennis HD.skyde">
-    <title>WTA 1000: S. Korda (USA) - F. Comesana (ARG), BNP Paribas Open in Indian Wells, Kalifornien (USA), 2. Tag</title>
+    <title>WTA 1000: L. Siegemund (GER) - P. Marcinko (CRO), BNP Paribas Open in Indian Wells, Kalifornien (USA), 2. Tag</title>
 </programme>
 <programme start="20260306170000 +0000" stop="20260306190000 +0000" channel="Sky Sport Tennis HD.skyde">
-    <title>ATP 1000: L. Siegemund (GER) - P. Marcinko (CRO), BNP Paribas Open in Indian Wells, Kalifornien (USA), 2. Tag</title>
+    <title>ATP 1000: S. Korda (USA) - F. Comesana (ARG), BNP Paribas Open in Indian Wells, Kalifornien (USA), 2. Tag</title>
 </programme>
 <programme start="20260306190000 +0000" stop="20260307060000 +0000" channel="Sky Sport Tennis HD.skyde">
     <title>Live ATP &amp; WTA: Konferenz BNP Paribas Open in Indian Wells, Kalifornien (USA), 3. Tag</title>
@@ -3171,11 +3129,8 @@ Warning: Undefined array key "et" in /usr/home/ManusiaBiasa/domains/manusiabiasa
 <programme start="20260306011500 +0000" stop="20260306030000 +0000" channel="Sky Sport Top Event HD.skyde">
     <title>Live F1: 1. Freies Training - GP Australien</title>
 </programme>
-<programme start="20260306030000 +0000" stop="20260306034000 +0000" channel="Sky Sport Top Event HD.skyde">
+<programme start="20260306030000 +0000" stop="20260306035500 +0000" channel="Sky Sport Top Event HD.skyde">
     <title>Live F3: Qualifying - GP Australien</title>
-</programme>
-<programme start="20260306034000 +0000" stop="20260306035500 +0000" channel="Sky Sport Top Event HD.skyde">
-    <title>F1: 2025: Rookie Review</title>
 </programme>
 <programme start="20260306035500 +0000" stop="20260306043500 +0000" channel="Sky Sport Top Event HD.skyde">
     <title>Live F2: Qualifying - GP Australien</title>
@@ -3273,7 +3228,7 @@ Warning: Undefined array key "et" in /usr/home/ManusiaBiasa/domains/manusiabiasa
 <programme start="20260306184000 +0000" stop="20260306190000 +0000" channel="Sky Sport 6 HD.skyde">
     <title>Es folgt: LIVE Tennis WTA Tour</title>
 </programme>
-<programme start="20260306190000 +0000" stop="20260307060000 +0000" channel="Sky Sport 6 HD.skyde">
+<programme start="20260306190000 +0000" stop="20260307090000 +0000" channel="Sky Sport 6 HD.skyde">
     <title>Live WTA 1000: BNP Paribas Open in Indian Wells, Kalifornien (USA), 3. Tag</title>
 </programme>
 <programme start="20260305232000 +0000" stop="20260306000500 +0000" channel="SYFY HD.skyde">

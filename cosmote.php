@@ -66,10 +66,6 @@
     <title>Football: AZ Alkmaar - Noah</title>
     <desc>Live: Tidak</desc>
 </programme>
-<programme start="20260306100000 +0700" stop="20260306120000 +0700" channel="COSMOTE Sport 2 HD">
-    <title>Football: Torino - SS Lazio</title>
-    <desc>Live: Tidak</desc>
-</programme>
 <programme start="20260306120000 +0700" stop="20260306141000 +0700" channel="COSMOTE Sport 2 HD">
     <title>Football: Panathinaikos - OFI</title>
     <desc>Live: Tidak</desc>
@@ -132,6 +128,10 @@
 </programme>
 <programme start="20260307095000 +0700" stop="20260307120000 +0700" channel="COSMOTE Sport 2 HD">
     <title>Football: Panathinaikos - OFI</title>
+    <desc>Live: Tidak</desc>
+</programme>
+<programme start="20260307120000 +0700" stop="20260307141000 +0700" channel="COSMOTE Sport 2 HD">
+    <title>Football: Kifisia - PAOK</title>
     <desc>Live: Tidak</desc>
 </programme>
 <programme start="20260306110000 +0700" stop="20260306130000 +0700" channel="COSMOTE Sport 3 HD">
@@ -210,6 +210,10 @@
     <title>Football: Al Ahli - Al Ittihad</title>
     <desc>Live: Tidak</desc>
 </programme>
+<programme start="20260307125500 +0700" stop="20260307145000 +0700" channel="COSMOTE Sport 3 HD">
+    <title>Football: Preston North End - Oxford United F.C.</title>
+    <desc>Live: Tidak</desc>
+</programme>
 <programme start="20260306110000 +0700" stop="20260306125500 +0700" channel="COSMOTE Sport 4 HD">
     <title>Basketball: Andorra - Valencia Basket Club</title>
     <desc>Live: Tidak</desc>
@@ -274,8 +278,8 @@
     <title>Basketball: Vanoli Cremona - Armani Milano</title>
     <desc>Live: Tidak</desc>
 </programme>
-<programme start="20260306110000 +0700" stop="20260306114500 +0700" channel="COSMOTE Sport 5 HD">
-    <title>ERC 2025</title>
+<programme start="20260307125500 +0700" stop="20260307144000 +0700" channel="COSMOTE Sport 4 HD">
+    <title>Pick n&#039; Roll</title>
     <desc>Live: Tidak</desc>
 </programme>
 <programme start="20260306114500 +0700" stop="20260306123000 +0700" channel="COSMOTE Sport 5 HD">
@@ -389,6 +393,10 @@
 <programme start="20260307093000 +0700" stop="20260307123000 +0700" channel="COSMOTE Sport 5 HD">
     <title>Basketball: San Antonio Spurs - Los Angeles Clippers (L)</title>
     <desc>Live: Ya</desc>
+</programme>
+<programme start="20260307123000 +0700" stop="20260307132000 +0700" channel="COSMOTE Sport 5 HD">
+    <title>DTM</title>
+    <desc>Live: Tidak</desc>
 </programme>
 <programme start="20260306100000 +0700" stop="20260306130000 +0700" channel="COSMOTE Sport 6 HD">
     <title>Tennis: ATP Masters 1000 2026 (L)</title>

@@ -14989,7 +14989,7 @@
   </programme>
   <programme start="20260305163500 +0000" stop="20260305170500 +0000" channel="nhkworldjapan.unifitv">
     <title lang="en">Outside In: Lost in Academia</title>
-    <desc lang="en">Japanese culture is in the global spotlight like never before. Dive into the work of international scholars exploring Japan in bold, original ways, uncovering unique perspectives and deep insights.</desc>
+    <desc lang="en">Canadian cultural anthropologist Edmund Hoff explores Japan's shotengai. While shopping malls are on the rise worldwide, he uncovers how traditional shopping streets are able to thrive in Japan.</desc>
     <category lang="en">News</category>
     <episode-num system="xmltv_ns">0.4046.</episode-num>
     <episode-num system="onscreen">S1E4047</episode-num>
@@ -15001,7 +15001,7 @@
   </programme>
   <programme start="20260305173500 +0000" stop="20260305180500 +0000" channel="nhkworldjapan.unifitv">
     <title lang="en">Today's Close-Up</title>
-    <desc lang="en">Dig deeper into current affairs. Cutting-edge information and critical analysis on important issues confronting Japanese lives.</desc>
+    <desc lang="en">As the defendant claims his upbringing was impacted by his mother's donations to the former Unification Church, we hear how other children of followers with similar experiences feel about the trial.</desc>
     <category lang="en">News</category>
     <episode-num system="xmltv_ns">0.4047.</episode-num>
     <episode-num system="onscreen">S1E4048</episode-num>
@@ -15019,8 +15019,8 @@
     <episode-num system="onscreen">S1E2105</episode-num>
   </programme>
   <programme start="20260305184800 +0000" stop="20260305190000 +0000" channel="nhkworldjapan.unifitv">
-    <title lang="en">Trails to Oishii Tokyo mini</title>
-    <desc lang="en">NHK WORLD-JAPAN presents a variety of short programs focusing on Japan and Asia.</desc>
+    <title lang="en">Trails to Oishii Tokyo 10min.</title>
+    <desc lang="en">Unique Japanese egg dishes like raw egg over rice are a hit with inbound tourists. Visit farms that produce eggs safe to eat raw, and savor a variety of dishes at a long-established Kyoto restaurant.</desc>
     <category lang="en">News</category>
     <episode-num system="xmltv_ns">0.6118.</episode-num>
     <episode-num system="onscreen">S1E6119</episode-num>
@@ -15060,7 +15060,7 @@
   </programme>
   <programme start="20260305203500 +0000" stop="20260305210500 +0000" channel="nhkworldjapan.unifitv">
     <title lang="en">Japan Railway Journal</title>
-    <desc lang="en">Go behind the scenes of Japan's amazing railways! Interesting facts, new technologies, expert tips plus where to go, how to get there and more!</desc>
+    <desc lang="en">In regions that experience heavy snowfall, railways use snowplows in combination with other systems to keep the trains running. See how the railways maintain service in Japan's snow country.</desc>
     <category lang="en">News</category>
     <episode-num system="xmltv_ns">0.2048.</episode-num>
     <episode-num system="onscreen">S1E2049</episode-num>
@@ -15084,7 +15084,7 @@
   </programme>
   <programme start="20260305223500 +0000" stop="20260305230500 +0000" channel="nhkworldjapan.unifitv">
     <title lang="en">Today's Close-Up</title>
-    <desc lang="en">Dig deeper into current affairs. Cutting-edge information and critical analysis on important issues confronting Japanese lives.</desc>
+    <desc lang="en">As the defendant claims his upbringing was impacted by his mother's donations to the former Unification Church, we hear how other children of followers with similar experiences feel about the trial.</desc>
     <category lang="en">News</category>
     <episode-num system="xmltv_ns">0.4047.</episode-num>
     <episode-num system="onscreen">S1E4048</episode-num>
@@ -15096,7 +15096,7 @@
   </programme>
   <programme start="20260305233500 +0000" stop="20260306000500 +0000" channel="nhkworldjapan.unifitv">
     <title lang="en">Outside In: Lost in Academia</title>
-    <desc lang="en">Japanese culture is in the global spotlight like never before. Dive into the work of international scholars exploring Japan in bold, original ways, uncovering unique perspectives and deep insights.</desc>
+    <desc lang="en">Canadian cultural anthropologist Edmund Hoff explores Japan's shotengai. While shopping malls are on the rise worldwide, he uncovers how traditional shopping streets are able to thrive in Japan.</desc>
     <category lang="en">News</category>
     <episode-num system="xmltv_ns">0.4046.</episode-num>
     <episode-num system="onscreen">S1E4047</episode-num>
@@ -15108,7 +15108,7 @@
   </programme>
   <programme start="20260306003500 +0000" stop="20260306010500 +0000" channel="nhkworldjapan.unifitv">
     <title lang="en">Asia Insight</title>
-    <desc lang="en">An in-depth look at the realities of Asia today -- a dynamic region which faces political, economic, cultural, and technological change.</desc>
+    <desc lang="en">A New Stage for Taiwanese Puppetry: In Taiwan, traditional puppet theater is enjoying a resurgence, capturing the hearts of young fans, and finding new audiences through video and social media.</desc>
     <category lang="en">News</category>
     <episode-num system="xmltv_ns">0.2021.</episode-num>
     <episode-num system="onscreen">S1E2022</episode-num>
@@ -15144,7 +15144,7 @@
   </programme>
   <programme start="20260306033500 +0000" stop="20260306040500 +0000" channel="nhkworldjapan.unifitv">
     <title lang="en">Japan Railway Journal</title>
-    <desc lang="en">Go behind the scenes of Japan's amazing railways! Interesting facts, new technologies, expert tips plus where to go, how to get there and more!</desc>
+    <desc lang="en">In regions that experience heavy snowfall, railways use snowplows in combination with other systems to keep the trains running. See how the railways maintain service in Japan's snow country.</desc>
     <category lang="en">News</category>
     <episode-num system="xmltv_ns">0.2048.</episode-num>
     <episode-num system="onscreen">S1E2049</episode-num>
@@ -15155,8 +15155,8 @@
     <category lang="en">News</category>
   </programme>
   <programme start="20260306043500 +0000" stop="20260306050500 +0000" channel="nhkworldjapan.unifitv">
-    <title lang="en">GRAND SUMO Preview</title>
-    <desc lang="en">NHK WORLD-JAPAN will air its Grand Sumo Preview for the tourney starting ( ). Our reporter visits the city to meet wrestlers and find out their secret of winning.</desc>
+    <title lang="en">GRAND SUMO Preview/Review</title>
+    <desc lang="en">NHK WORLD-JAPAN will air its Grand Sumo preview for the tourney starting March 8.Our reporter visits the city to meet wrestlers and find out their secret of winning.</desc>
     <category lang="en">News</category>
     <episode-num system="xmltv_ns">0.2066.</episode-num>
     <episode-num system="onscreen">S1E2067</episode-num>
@@ -15168,7 +15168,7 @@
   </programme>
   <programme start="20260306053500 +0000" stop="20260306060500 +0000" channel="nhkworldjapan.unifitv">
     <title lang="en">Asia Insight</title>
-    <desc lang="en">An in-depth look at the realities of Asia today -- a dynamic region which faces political, economic, cultural, and technological change.</desc>
+    <desc lang="en">A New Stage for Taiwanese Puppetry: In Taiwan, traditional puppet theater is enjoying a resurgence, capturing the hearts of young fans, and finding new audiences through video and social media.</desc>
     <category lang="en">News</category>
     <episode-num system="xmltv_ns">0.2021.</episode-num>
     <episode-num system="onscreen">S1E2022</episode-num>
@@ -15203,8 +15203,8 @@
     <category lang="en">News</category>
   </programme>
   <programme start="20260306083500 +0000" stop="20260306090500 +0000" channel="nhkworldjapan.unifitv">
-    <title lang="en">GRAND SUMO Preview</title>
-    <desc lang="en">NHK WORLD-JAPAN will air its Grand Sumo Preview for the tourney starting ( ). Our reporter visits the city to meet wrestlers and find out their secret of winning.</desc>
+    <title lang="en">GRAND SUMO Preview/Review</title>
+    <desc lang="en">NHK WORLD-JAPAN will air its Grand Sumo preview for the tourney starting March 8.Our reporter visits the city to meet wrestlers and find out their secret of winning.</desc>
     <category lang="en">News</category>
     <episode-num system="xmltv_ns">0.2066.</episode-num>
     <episode-num system="onscreen">S1E2067</episode-num>
@@ -15216,7 +15216,7 @@
   </programme>
   <programme start="20260306093500 +0000" stop="20260306100500 +0000" channel="nhkworldjapan.unifitv">
     <title lang="en">Japan Railway Journal</title>
-    <desc lang="en">Go behind the scenes of Japan's amazing railways! Interesting facts, new technologies, expert tips plus where to go, how to get there and more!</desc>
+    <desc lang="en">In regions that experience heavy snowfall, railways use snowplows in combination with other systems to keep the trains running. See how the railways maintain service in Japan's snow country.</desc>
     <category lang="en">News</category>
     <episode-num system="xmltv_ns">0.2048.</episode-num>
     <episode-num system="onscreen">S1E2049</episode-num>
@@ -15228,7 +15228,7 @@
   </programme>
   <programme start="20260306103500 +0000" stop="20260306110500 +0000" channel="nhkworldjapan.unifitv">
     <title lang="en">Asia Insight</title>
-    <desc lang="en">An in-depth look at the realities of Asia today -- a dynamic region which faces political, economic, cultural, and technological change.</desc>
+    <desc lang="en">A New Stage for Taiwanese Puppetry: In Taiwan, traditional puppet theater is enjoying a resurgence, capturing the hearts of young fans, and finding new audiences through video and social media.</desc>
     <category lang="en">News</category>
     <episode-num system="xmltv_ns">0.2021.</episode-num>
     <episode-num system="onscreen">S1E2022</episode-num>
@@ -15302,7 +15302,7 @@
   </programme>
   <programme start="20260306153500 +0000" stop="20260306160500 +0000" channel="nhkworldjapan.unifitv">
     <title lang="en">Asia Insight</title>
-    <desc lang="en">An in-depth look at the realities of Asia today -- a dynamic region which faces political, economic, cultural, and technological change.</desc>
+    <desc lang="en">A New Stage for Taiwanese Puppetry: In Taiwan, traditional puppet theater is enjoying a resurgence, capturing the hearts of young fans, and finding new audiences through video and social media.</desc>
     <category lang="en">News</category>
     <episode-num system="xmltv_ns">0.2021.</episode-num>
     <episode-num system="onscreen">S1E2022</episode-num>
