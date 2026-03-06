@@ -921,11 +921,8 @@ Warning: Undefined array key "et" in /usr/home/ManusiaBiasa/domains/manusiabiasa
 <programme start="20260306083000 +0000" stop="20260306102500 +0000" channel="DAZN 1 HD.skyde">
     <title>Bundesliga 25/26: Bayer 04 Leverkusen - 1. FSV Mainz 05</title>
 </programme>
-<programme start="20260306102500 +0000" stop="20260306122000 +0000" channel="DAZN 1 HD.skyde">
+<programme start="20260306102500 +0000" stop="20260306124000 +0000" channel="DAZN 1 HD.skyde">
     <title>Bundesliga 25/26: Hamburger SV - RB Leipzig</title>
-</programme>
-<programme start="20260306122000 +0000" stop="20260306124000 +0000" channel="DAZN 1 HD.skyde">
-    <title>Best of DAZN: Highlights</title>
 </programme>
 <programme start="20260306124000 +0000" stop="20260306131000 +0000" channel="DAZN 1 HD.skyde">
     <title>Doppelpack Europa - Highlights der Serie A und Ligue 1 25/26: 22./19. Spieltag</title>
@@ -936,19 +933,19 @@ Warning: Undefined array key "et" in /usr/home/ManusiaBiasa/domains/manusiabiasa
 <programme start="20260306140000 +0000" stop="20260306155500 +0000" channel="DAZN 1 HD.skyde">
     <title>LaLiga 25/26: FC Barcelona - FC Villarreal</title>
 </programme>
-<programme start="20260306155500 +0000" stop="20260306175000 +0000" channel="DAZN 1 HD.skyde">
+<programme start="20260306155500 +0000" stop="20260306181500 +0000" channel="DAZN 1 HD.skyde">
     <title>Bundesliga 25/26: Borussia Dortmund - FC Bayern München</title>
-</programme>
-<programme start="20260306175000 +0000" stop="20260306181500 +0000" channel="DAZN 1 HD.skyde">
-    <title>Best of DAZN: Highlights</title>
 </programme>
 <programme start="20260306181500 +0000" stop="20260306193000 +0000" channel="DAZN 1 HD.skyde">
     <title>ALL IN - Die Bundesliga Highlight Show: 24. Spieltag</title>
 </programme>
-<programme start="20260306193000 +0000" stop="20260306214000 +0000" channel="DAZN 1 HD.skyde">
-    <title>Ligue 1 25/26: PSG - AS Monaco</title>
+<programme start="20260306193000 +0000" stop="20260306195500 +0000" channel="DAZN 1 HD.skyde">
+    <title>Best of DAZN: Highlights</title>
 </programme>
-<programme start="20260306214000 +0000" stop="20260306233500 +0000" channel="DAZN 1 HD.skyde">
+<programme start="20260306195500 +0000" stop="20260306220500 +0000" channel="DAZN 1 HD.skyde">
+    <title>LaLiga 25/26: Celta Vigo - Real Madrid</title>
+</programme>
+<programme start="20260306220500 +0000" stop="20260307000000 +0000" channel="DAZN 1 HD.skyde">
     <title>Bundesliga 25/26: FC Bayern München - Borussia M&#039;gladbach</title>
 </programme>
 <programme start="20260305230000 +0000" stop="20260306070000 +0000" channel="DAZN 2 HD.skyde">
@@ -970,19 +967,19 @@ Warning: Undefined array key "et" in /usr/home/ManusiaBiasa/domains/manusiabiasa
     <title>UK Open: Tag 1 - Session 1</title>
 </programme>
 <programme start="20260306170000 +0000" stop="20260306173000 +0000" channel="DAZN 2 HD.skyde">
-    <title>FC Bayern World Squad: Class of &#039;25 - Folge 1</title>
-</programme>
-<programme start="20260306173000 +0000" stop="20260306181000 +0000" channel="DAZN 2 HD.skyde">
-    <title>FC Bayern World Squad: Class of &#039;25 - Folge 2</title>
-</programme>
-<programme start="20260306181000 +0000" stop="20260306183500 +0000" channel="DAZN 2 HD.skyde">
     <title>Best of DAZN: Highlights</title>
 </programme>
-<programme start="20260306183500 +0000" stop="20260306190500 +0000" channel="DAZN 2 HD.skyde">
+<programme start="20260306173000 +0000" stop="20260306180000 +0000" channel="DAZN 2 HD.skyde">
     <title>Doppelpack Europa - Highlights der Serie A und Ligue 1 25/26: 22./19. Spieltag</title>
 </programme>
-<programme start="20260306190500 +0000" stop="20260306195000 +0000" channel="DAZN 2 HD.skyde">
+<programme start="20260306180000 +0000" stop="20260306182000 +0000" channel="DAZN 2 HD.skyde">
+    <title>Best of DAZN: Highlights</title>
+</programme>
+<programme start="20260306182000 +0000" stop="20260306192000 +0000" channel="DAZN 2 HD.skyde">
     <title>3. Liga Highlightshow 25/26: 26. Spieltag</title>
+</programme>
+<programme start="20260306192000 +0000" stop="20260306195000 +0000" channel="DAZN 2 HD.skyde">
+    <title>Best of DAZN: Highlights</title>
 </programme>
 <programme start="20260306195000 +0000" stop="20260306221000 +0000" channel="DAZN 2 HD.skyde">
     <title>FA Cup 25/26: Wolverhampton Wanderers - FC Liverpool</title>
@@ -1401,16 +1398,16 @@ Warning: Undefined array key "et" in /usr/home/ManusiaBiasa/domains/manusiabiasa
 <programme start="20260306082000 +0000" stop="20260306082500 +0000" channel="Nick Jr..skyde">
     <title>Peppa Wutz</title>
 </programme>
-<programme start="20260306082500 +0000" stop="20260306083200 +0000" channel="Nick Jr..skyde">
+<programme start="20260306082500 +0000" stop="20260306083000 +0000" channel="Nick Jr..skyde">
     <title>Peppa Wutz</title>
 </programme>
-<programme start="20260306083200 +0000" stop="20260306083600 +0000" channel="Nick Jr..skyde">
+<programme start="20260306083000 +0000" stop="20260306083500 +0000" channel="Nick Jr..skyde">
     <title>Peppa Wutz</title>
 </programme>
-<programme start="20260306083600 +0000" stop="20260306084100 +0000" channel="Nick Jr..skyde">
+<programme start="20260306083500 +0000" stop="20260306084000 +0000" channel="Nick Jr..skyde">
     <title>Peppa Wutz</title>
 </programme>
-<programme start="20260306084100 +0000" stop="20260306084500 +0000" channel="Nick Jr..skyde">
+<programme start="20260306084000 +0000" stop="20260306084500 +0000" channel="Nick Jr..skyde">
     <title>Peppa Wutz</title>
 </programme>
 <programme start="20260306084500 +0000" stop="20260306085000 +0000" channel="Nick Jr..skyde">
@@ -1434,10 +1431,10 @@ Warning: Undefined array key "et" in /usr/home/ManusiaBiasa/domains/manusiabiasa
 <programme start="20260306095500 +0000" stop="20260306100000 +0000" channel="Nick Jr..skyde">
     <title>Sharkdog</title>
 </programme>
-<programme start="20260306100000 +0000" stop="20260306102500 +0000" channel="Nick Jr..skyde">
+<programme start="20260306100000 +0000" stop="20260306102000 +0000" channel="Nick Jr..skyde">
     <title>Blaze und die Monster-Maschinen</title>
 </programme>
-<programme start="20260306102500 +0000" stop="20260306104500 +0000" channel="Nick Jr..skyde">
+<programme start="20260306102000 +0000" stop="20260306104500 +0000" channel="Nick Jr..skyde">
     <title>Blaze und die Monster-Maschinen</title>
 </programme>
 <programme start="20260306104500 +0000" stop="20260306111000 +0000" channel="Nick Jr..skyde">
@@ -1455,10 +1452,10 @@ Warning: Undefined array key "et" in /usr/home/ManusiaBiasa/domains/manusiabiasa
 <programme start="20260306121500 +0000" stop="20260306124000 +0000" channel="Nick Jr..skyde">
     <title>BARBAPAPA und Familie</title>
 </programme>
-<programme start="20260306124000 +0000" stop="20260306130000 +0000" channel="Nick Jr..skyde">
+<programme start="20260306124000 +0000" stop="20260306130500 +0000" channel="Nick Jr..skyde">
     <title>BARBAPAPA und Familie</title>
 </programme>
-<programme start="20260306130000 +0000" stop="20260306132500 +0000" channel="Nick Jr..skyde">
+<programme start="20260306130500 +0000" stop="20260306132500 +0000" channel="Nick Jr..skyde">
     <title>Tim Rex im All</title>
 </programme>
 <programme start="20260306132500 +0000" stop="20260306135000 +0000" channel="Nick Jr..skyde">
@@ -1497,10 +1494,10 @@ Warning: Undefined array key "et" in /usr/home/ManusiaBiasa/domains/manusiabiasa
 <programme start="20260306154500 +0000" stop="20260306160000 +0000" channel="Nick Jr..skyde">
     <title>Paw Patrol: Helfer auf vier Pfoten</title>
 </programme>
-<programme start="20260306160000 +0000" stop="20260306162500 +0000" channel="Nick Jr..skyde">
+<programme start="20260306160000 +0000" stop="20260306162000 +0000" channel="Nick Jr..skyde">
     <title>Rubble &amp; Crew</title>
 </programme>
-<programme start="20260306162500 +0000" stop="20260306163500 +0000" channel="Nick Jr..skyde">
+<programme start="20260306162000 +0000" stop="20260306163500 +0000" channel="Nick Jr..skyde">
     <title>Rubble &amp; Crew</title>
 </programme>
 <programme start="20260306163500 +0000" stop="20260306165500 +0000" channel="Nick Jr..skyde">
@@ -1512,10 +1509,10 @@ Warning: Undefined array key "et" in /usr/home/ManusiaBiasa/domains/manusiabiasa
 <programme start="20260306172000 +0000" stop="20260306173000 +0000" channel="Nick Jr..skyde">
     <title>BARBAPAPA und Familie</title>
 </programme>
-<programme start="20260306173000 +0000" stop="20260306174000 +0000" channel="Nick Jr..skyde">
+<programme start="20260306173000 +0000" stop="20260306173500 +0000" channel="Nick Jr..skyde">
     <title>Tim Rex im All</title>
 </programme>
-<programme start="20260306174000 +0000" stop="20260306174500 +0000" channel="Nick Jr..skyde">
+<programme start="20260306173500 +0000" stop="20260306174500 +0000" channel="Nick Jr..skyde">
     <title>Tim Rex im All</title>
 </programme>
 <programme start="20260306174500 +0000" stop="20260306175000 +0000" channel="Nick Jr..skyde">
@@ -1545,10 +1542,10 @@ Warning: Undefined array key "et" in /usr/home/ManusiaBiasa/domains/manusiabiasa
 <programme start="20260306183000 +0000" stop="20260306185000 +0000" channel="Nick Jr..skyde">
     <title>BARBAPAPA und Familie</title>
 </programme>
-<programme start="20260306185000 +0000" stop="20260306190000 +0000" channel="Nick Jr..skyde">
+<programme start="20260306185000 +0000" stop="20260306190500 +0000" channel="Nick Jr..skyde">
     <title>BARBAPAPA und Familie</title>
 </programme>
-<programme start="20260306190000 +0000" stop="20260306192500 +0000" channel="Nick Jr..skyde">
+<programme start="20260306190500 +0000" stop="20260306192500 +0000" channel="Nick Jr..skyde">
     <title>Blaze und die Monster-Maschinen</title>
 </programme>
 <programme start="20260306192500 +0000" stop="20260306194500 +0000" channel="Nick Jr..skyde">
@@ -1566,10 +1563,10 @@ Warning: Undefined array key "et" in /usr/home/ManusiaBiasa/domains/manusiabiasa
 <programme start="20260306204500 +0000" stop="20260306210500 +0000" channel="Nick Jr..skyde">
     <title>DORA</title>
 </programme>
-<programme start="20260306210500 +0000" stop="20260306212500 +0000" channel="Nick Jr..skyde">
+<programme start="20260306210500 +0000" stop="20260306213000 +0000" channel="Nick Jr..skyde">
     <title>DORA</title>
 </programme>
-<programme start="20260306212500 +0000" stop="20260306215000 +0000" channel="Nick Jr..skyde">
+<programme start="20260306213000 +0000" stop="20260306215000 +0000" channel="Nick Jr..skyde">
     <title>BARBAPAPA und Familie</title>
 </programme>
 <programme start="20260306215000 +0000" stop="20260306221000 +0000" channel="Nick Jr..skyde">
@@ -1578,10 +1575,7 @@ Warning: Undefined array key "et" in /usr/home/ManusiaBiasa/domains/manusiabiasa
 <programme start="20260306221000 +0000" stop="20260306223500 +0000" channel="Nick Jr..skyde">
     <title>BARBAPAPA und Familie</title>
 </programme>
-<programme start="20260306223500 +0000" stop="20260306225500 +0000" channel="Nick Jr..skyde">
-    <title>BARBAPAPA und Familie</title>
-</programme>
-<programme start="20260306225500 +0000" stop="20260306232000 +0000" channel="Nick Jr..skyde">
+<programme start="20260306223500 +0000" stop="20260306230000 +0000" channel="Nick Jr..skyde">
     <title>BARBAPAPA und Familie</title>
 </programme>
 <programme start="20260305231000 +0000" stop="20260306004000 +0000" channel="Romance TV HD.skyde">
@@ -2757,13 +2751,13 @@ Warning: Undefined array key "et" in /usr/home/ManusiaBiasa/domains/manusiabiasa
 <programme start="20260306164000 +0000" stop="20260306170000 +0000" channel="Sky Sport Bundesliga 4 HD.skyde">
     <title>Es folgt: LIVE 2. Liga</title>
 </programme>
-<programme start="20260306170000 +0000" stop="20260306193000 +0000" channel="Sky Sport Bundesliga 4 HD.skyde">
+<programme start="20260306170000 +0000" stop="20260306200000 +0000" channel="Sky Sport Bundesliga 4 HD.skyde">
     <title>Live 2. BL: SV Elversberg - 1. FC Magdeburg, 25. Spieltag</title>
 </programme>
 <programme start="20260306164000 +0000" stop="20260306170000 +0000" channel="Sky Sport Bundesliga 5 HD.skyde">
     <title>Es folgt: LIVE 2. Liga</title>
 </programme>
-<programme start="20260306170000 +0000" stop="20260306200000 +0000" channel="Sky Sport Bundesliga 5 HD.skyde">
+<programme start="20260306170000 +0000" stop="20260306193000 +0000" channel="Sky Sport Bundesliga 5 HD.skyde">
     <title>Live 2. BL: Multiview 25. Spieltag, Freitag</title>
 </programme>
 <programme start="20260305230000 +0000" stop="20260305235500 +0000" channel="Sky Sport F1 HD.skyde">
@@ -2781,11 +2775,17 @@ Warning: Undefined array key "et" in /usr/home/ManusiaBiasa/domains/manusiabiasa
 <programme start="20260306011500 +0000" stop="20260306030000 +0000" channel="Sky Sport F1 HD.skyde">
     <title>Live F1: 1. Freies Training - GP Australien</title>
 </programme>
-<programme start="20260306030000 +0000" stop="20260306035500 +0000" channel="Sky Sport F1 HD.skyde">
+<programme start="20260306030000 +0000" stop="20260306034000 +0000" channel="Sky Sport F1 HD.skyde">
     <title>Live F3: Qualifying - GP Australien</title>
 </programme>
-<programme start="20260306035500 +0000" stop="20260306044500 +0000" channel="Sky Sport F1 HD.skyde">
+<programme start="20260306034000 +0000" stop="20260306035500 +0000" channel="Sky Sport F1 HD.skyde">
+    <title>F1: 2025: Rookie Review</title>
+</programme>
+<programme start="20260306035500 +0000" stop="20260306043500 +0000" channel="Sky Sport F1 HD.skyde">
     <title>Live F2: Qualifying - GP Australien</title>
+</programme>
+<programme start="20260306043500 +0000" stop="20260306044500 +0000" channel="Sky Sport F1 HD.skyde">
+    <title>F1: Greatest Races: A. Prost / Australien 1986</title>
 </programme>
 <programme start="20260306044500 +0000" stop="20260306063000 +0000" channel="Sky Sport F1 HD.skyde">
     <title>Live F1: 2. Freies Training - GP Australien</title>
@@ -3136,10 +3136,10 @@ Warning: Undefined array key "et" in /usr/home/ManusiaBiasa/domains/manusiabiasa
     <title>ATP 500: Review Acapulco</title>
 </programme>
 <programme start="20260306070000 +0000" stop="20260306090000 +0000" channel="Sky Sport Tennis HD.skyde">
-    <title>WTA 1000: S. Korda (USA) - F. Comesana (ARG), BNP Paribas Open in Indian Wells, Kalifornien (USA), 2. Tag</title>
+    <title>WTA 1000: L. Siegemund (GER) - P. Marcinko (CRO), BNP Paribas Open in Indian Wells, Kalifornien (USA), 2. Tag</title>
 </programme>
 <programme start="20260306090000 +0000" stop="20260306110000 +0000" channel="Sky Sport Tennis HD.skyde">
-    <title>ATP 1000: L. Siegemund (GER) - P. Marcinko (CRO), BNP Paribas Open in Indian Wells, Kalifornien (USA), 2. Tag</title>
+    <title>ATP 1000: S. Korda (USA) - F. Comesana (ARG), BNP Paribas Open in Indian Wells, Kalifornien (USA), 2. Tag</title>
 </programme>
 <programme start="20260306110000 +0000" stop="20260306113000 +0000" channel="Sky Sport Tennis HD.skyde">
     <title>ATP: This Week</title>
@@ -3151,10 +3151,10 @@ Warning: Undefined array key "et" in /usr/home/ManusiaBiasa/domains/manusiabiasa
     <title>ATP 500: Review Dubai</title>
 </programme>
 <programme start="20260306150000 +0000" stop="20260306170000 +0000" channel="Sky Sport Tennis HD.skyde">
-    <title>WTA 1000: S. Korda (USA) - F. Comesana (ARG), BNP Paribas Open in Indian Wells, Kalifornien (USA), 2. Tag</title>
+    <title>WTA 1000: L. Siegemund (GER) - P. Marcinko (CRO), BNP Paribas Open in Indian Wells, Kalifornien (USA), 2. Tag</title>
 </programme>
 <programme start="20260306170000 +0000" stop="20260306190000 +0000" channel="Sky Sport Tennis HD.skyde">
-    <title>ATP 1000: L. Siegemund (GER) - P. Marcinko (CRO), BNP Paribas Open in Indian Wells, Kalifornien (USA), 2. Tag</title>
+    <title>ATP 1000: S. Korda (USA) - F. Comesana (ARG), BNP Paribas Open in Indian Wells, Kalifornien (USA), 2. Tag</title>
 </programme>
 <programme start="20260306190000 +0000" stop="20260307060000 +0000" channel="Sky Sport Tennis HD.skyde">
     <title>Live ATP &amp; WTA: Konferenz BNP Paribas Open in Indian Wells, Kalifornien (USA), 3. Tag</title>
@@ -3168,11 +3168,17 @@ Warning: Undefined array key "et" in /usr/home/ManusiaBiasa/domains/manusiabiasa
 <programme start="20260306011500 +0000" stop="20260306030000 +0000" channel="Sky Sport Top Event HD.skyde">
     <title>Live F1: 1. Freies Training - GP Australien</title>
 </programme>
-<programme start="20260306030000 +0000" stop="20260306035500 +0000" channel="Sky Sport Top Event HD.skyde">
+<programme start="20260306030000 +0000" stop="20260306034000 +0000" channel="Sky Sport Top Event HD.skyde">
     <title>Live F3: Qualifying - GP Australien</title>
 </programme>
-<programme start="20260306035500 +0000" stop="20260306044500 +0000" channel="Sky Sport Top Event HD.skyde">
+<programme start="20260306034000 +0000" stop="20260306035500 +0000" channel="Sky Sport Top Event HD.skyde">
+    <title>F1: 2025: Rookie Review</title>
+</programme>
+<programme start="20260306035500 +0000" stop="20260306043500 +0000" channel="Sky Sport Top Event HD.skyde">
     <title>Live F2: Qualifying - GP Australien</title>
+</programme>
+<programme start="20260306043500 +0000" stop="20260306044500 +0000" channel="Sky Sport Top Event HD.skyde">
+    <title>F1: Greatest Races: A. Prost / Australien 1986</title>
 </programme>
 <programme start="20260306044500 +0000" stop="20260306063000 +0000" channel="Sky Sport Top Event HD.skyde">
     <title>Live F1: 2. Freies Training - GP Australien</title>
@@ -3260,6 +3266,12 @@ Warning: Undefined array key "et" in /usr/home/ManusiaBiasa/domains/manusiabiasa
 </programme>
 <programme start="20260306224500 +0000" stop="20260307001500 +0000" channel="Sky Sport UHD.skyde">
     <title>F1: 2. Freies Training - GP Australien</title>
+</programme>
+<programme start="20260305184000 +0000" stop="20260305190000 +0000" channel="Sky Sport 1 HD.skyde">
+    <title>Es folgt: LIVE Tennis WTA Tour</title>
+</programme>
+<programme start="20260305190000 +0000" stop="20260306090000 +0000" channel="Sky Sport 1 HD.skyde">
+    <title>Live WTA 1000: BNP Paribas Open in Indian Wells, Kalifornien (USA), 2. Tag</title>
 </programme>
 <programme start="20260306184000 +0000" stop="20260306190000 +0000" channel="Sky Sport 6 HD.skyde">
     <title>Es folgt: LIVE Tennis WTA Tour</title>

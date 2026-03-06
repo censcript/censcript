@@ -5488,7 +5488,108 @@
 <programme start="20260306163000 +0000" stop="20260305170000 +0000" channel="Kompas TV.mncvision">
     <title>Kilas Kompas</title>
 </programme>
-Error: Unable to fetch data. HTTP Status Code: 500
+<programme start="20260305173000 +0000" stop="20260305183000 +0000" channel="LIFE.mncvision">
+    <title>AnugerahNya</title>
+</programme>
+<programme start="20260305183000 +0000" stop="20260305193000 +0000" channel="LIFE.mncvision">
+    <title>Rumah CGN Keluarga</title>
+</programme>
+<programme start="20260305193000 +0000" stop="20260305203000 +0000" channel="LIFE.mncvision">
+    <title>Bukan Untuk Orang Sempurna</title>
+</programme>
+<programme start="20260305203000 +0000" stop="20260305210000 +0000" channel="LIFE.mncvision">
+    <title>Solusi</title>
+</programme>
+<programme start="20260305210000 +0000" stop="20260305213000 +0000" channel="LIFE.mncvision">
+    <title>Light Talk</title>
+</programme>
+<programme start="20260305213000 +0000" stop="20260305220000 +0000" channel="LIFE.mncvision">
+    <title>The Art Of Church</title>
+</programme>
+<programme start="20260305220000 +0000" stop="20260305223000 +0000" channel="LIFE.mncvision">
+    <title>Love Revolution</title>
+</programme>
+<programme start="20260305223000 +0000" stop="20260305230000 +0000" channel="LIFE.mncvision">
+    <title>Praise And Worship</title>
+</programme>
+<programme start="20260305230000 +0000" stop="20260306000000 +0000" channel="LIFE.mncvision">
+    <title>Rumah CGN Keluarga</title>
+</programme>
+<programme start="20260306000000 +0000" stop="20260306010000 +0000" channel="LIFE.mncvision">
+    <title>Bukan Untuk Orang Sempurna</title>
+</programme>
+<programme start="20260306010000 +0000" stop="20260306020000 +0000" channel="LIFE.mncvision">
+    <title>Glow Series</title>
+</programme>
+<programme start="20260306020000 +0000" stop="20260306030000 +0000" channel="LIFE.mncvision">
+    <title>AnugerahNya</title>
+</programme>
+<programme start="20260306030000 +0000" stop="20260306033000 +0000" channel="LIFE.mncvision">
+    <title>Smoketown</title>
+</programme>
+<programme start="20260306033000 +0000" stop="20260306040000 +0000" channel="LIFE.mncvision">
+    <title>Mujizat Itu Nyata</title>
+</programme>
+<programme start="20260306040000 +0000" stop="20260306050000 +0000" channel="LIFE.mncvision">
+    <title>GBI VIFA</title>
+</programme>
+<programme start="20260306050000 +0000" stop="20260306053000 +0000" channel="LIFE.mncvision">
+    <title>Light Talk</title>
+</programme>
+<programme start="20260306053000 +0000" stop="20260306060000 +0000" channel="LIFE.mncvision">
+    <title>The Art Of Church</title>
+</programme>
+<programme start="20260306060000 +0000" stop="20260306063000 +0000" channel="LIFE.mncvision">
+    <title>Love Revolution</title>
+</programme>
+<programme start="20260306063000 +0000" stop="20260306070000 +0000" channel="LIFE.mncvision">
+    <title>Praise And Worship</title>
+</programme>
+<programme start="20260306070000 +0000" stop="20260306073000 +0000" channel="LIFE.mncvision">
+    <title>Today&#039;s Breakthrough</title>
+</programme>
+<programme start="20260306073000 +0000" stop="20260306080000 +0000" channel="LIFE.mncvision">
+    <title>Mujizat Itu Nyata</title>
+</programme>
+<programme start="20260306080000 +0000" stop="20260306090000 +0000" channel="LIFE.mncvision">
+    <title>Glow Series</title>
+</programme>
+<programme start="20260306090000 +0000" stop="20260306093000 +0000" channel="LIFE.mncvision">
+    <title>Superbook Kids Club</title>
+</programme>
+<programme start="20260306093000 +0000" stop="20260306103000 +0000" channel="LIFE.mncvision">
+    <title>Rumah CGN Keluarga</title>
+</programme>
+<programme start="20260306103000 +0000" stop="20260306113000 +0000" channel="LIFE.mncvision">
+    <title>Bukan Untuk Orang Sempurna</title>
+</programme>
+<programme start="20260306113000 +0000" stop="20260306123000 +0000" channel="LIFE.mncvision">
+    <title>AnugerahNya</title>
+</programme>
+<programme start="20260306123000 +0000" stop="20260306130000 +0000" channel="LIFE.mncvision">
+    <title>Light Talk</title>
+</programme>
+<programme start="20260306130000 +0000" stop="20260306133000 +0000" channel="LIFE.mncvision">
+    <title>The Art Of Church</title>
+</programme>
+<programme start="20260306133000 +0000" stop="20260306140000 +0000" channel="LIFE.mncvision">
+    <title>Love Revolution</title>
+</programme>
+<programme start="20260306140000 +0000" stop="20260306150000 +0000" channel="LIFE.mncvision">
+    <title>GBI VIFA</title>
+</programme>
+<programme start="20260306150000 +0000" stop="20260306153000 +0000" channel="LIFE.mncvision">
+    <title>Praise And Worship</title>
+</programme>
+<programme start="20260306153000 +0000" stop="20260306160000 +0000" channel="LIFE.mncvision">
+    <title>Smoketown</title>
+</programme>
+<programme start="20260306160000 +0000" stop="20260306163000 +0000" channel="LIFE.mncvision">
+    <title>Solusi</title>
+</programme>
+<programme start="20260306163000 +0000" stop="20260305170000 +0000" channel="LIFE.mncvision">
+    <title>Glow Series</title>
+</programme>
 <programme start="20260305170500 +0000" stop="20260305180500 +0000" channel="Lifetime.mncvision">
     <title>Earth Sweepers, Ep 3</title>
 </programme>
@@ -5567,8 +5668,168 @@ Error: Unable to fetch data. HTTP Status Code: 500
 <programme start="20260306163500 +0000" stop="20260305170500 +0000" channel="Lifetime.mncvision">
     <title>Meals In Minutes S1, Ep 9</title>
 </programme>
-Error: Unable to fetch data. HTTP Status Code: 500
-Error: Unable to fetch data. HTTP Status Code: 500
+<programme start="20260305172500 +0000" stop="20260305182000 +0000" channel="Love Nature.mncvision">
+    <title>Wild Tales From Farm S1, Ep 3</title>
+</programme>
+<programme start="20260305182000 +0000" stop="20260305191500 +0000" channel="Love Nature.mncvision">
+    <title>Wild Tales From Farm S1, Ep 4</title>
+</programme>
+<programme start="20260305191500 +0000" stop="20260305201000 +0000" channel="Love Nature.mncvision">
+    <title>Ireland&#039;s Wild Islands S1, Ep 2</title>
+</programme>
+<programme start="20260305201000 +0000" stop="20260305210500 +0000" channel="Love Nature.mncvision">
+    <title>My Best Friend&#039;s An... S1, Ep 5</title>
+</programme>
+<programme start="20260305210500 +0000" stop="20260305220000 +0000" channel="Love Nature.mncvision">
+    <title>My Best Friend&#039;s An... S1, Ep 6</title>
+</programme>
+<programme start="20260305220000 +0000" stop="20260305222500 +0000" channel="Love Nature.mncvision">
+    <title>Mysteries Of Evolution S1, Ep 3</title>
+</programme>
+<programme start="20260305222500 +0000" stop="20260305232000 +0000" channel="Love Nature.mncvision">
+    <title>My Best Friend&#039;s An... S1, Ep 5</title>
+</programme>
+<programme start="20260305232000 +0000" stop="20260306001500 +0000" channel="Love Nature.mncvision">
+    <title>My Best Friend&#039;s An... S1, Ep 6</title>
+</programme>
+<programme start="20260306001500 +0000" stop="20260306011000 +0000" channel="Love Nature.mncvision">
+    <title>Planet Shark S1, Ep 3</title>
+</programme>
+<programme start="20260306011000 +0000" stop="20260306020500 +0000" channel="Love Nature.mncvision">
+    <title>Tusker: Brotherhood Of...</title>
+</programme>
+<programme start="20260306020500 +0000" stop="20260306030000 +0000" channel="Love Nature.mncvision">
+    <title>The Great Elephant Tale</title>
+</programme>
+<programme start="20260306030000 +0000" stop="20260306035000 +0000" channel="Love Nature.mncvision">
+    <title>Orangutan Jungle... S1, Ep 10</title>
+</programme>
+<programme start="20260306035000 +0000" stop="20260306044000 +0000" channel="Love Nature.mncvision">
+    <title>Land Of Primates S1, Ep 2</title>
+</programme>
+<programme start="20260306044000 +0000" stop="20260306053500 +0000" channel="Love Nature.mncvision">
+    <title>My Best Friend&#039;s An... S1, Ep 5</title>
+</programme>
+<programme start="20260306053500 +0000" stop="20260306063000 +0000" channel="Love Nature.mncvision">
+    <title>My Best Friend&#039;s An... S1, Ep 6</title>
+</programme>
+<programme start="20260306063000 +0000" stop="20260306072500 +0000" channel="Love Nature.mncvision">
+    <title>Ireland&#039;s Wild Islands S1, Ep 3</title>
+</programme>
+<programme start="20260306072500 +0000" stop="20260306082000 +0000" channel="Love Nature.mncvision">
+    <title>Tusker: Brotherhood Of...</title>
+</programme>
+<programme start="20260306082000 +0000" stop="20260306091500 +0000" channel="Love Nature.mncvision">
+    <title>The Great Elephant Tale</title>
+</programme>
+<programme start="20260306091500 +0000" stop="20260306101000 +0000" channel="Love Nature.mncvision">
+    <title>Orangutan Jungle... S1, Ep 10</title>
+</programme>
+<programme start="20260306101000 +0000" stop="20260306110500 +0000" channel="Love Nature.mncvision">
+    <title>Land Of Primates S1, Ep 2</title>
+</programme>
+<programme start="20260306110500 +0000" stop="20260306120000 +0000" channel="Love Nature.mncvision">
+    <title>My Best Friend&#039;s An... S1, Ep 5</title>
+</programme>
+<programme start="20260306120000 +0000" stop="20260306125500 +0000" channel="Love Nature.mncvision">
+    <title>13 Hours To Survive S1, Ep 2</title>
+</programme>
+<programme start="20260306125500 +0000" stop="20260306135000 +0000" channel="Love Nature.mncvision">
+    <title>Planet Shark S1, Ep 3</title>
+</programme>
+<programme start="20260306135000 +0000" stop="20260306144500 +0000" channel="Love Nature.mncvision">
+    <title>Tusker: Brotherhood Of...</title>
+</programme>
+<programme start="20260306144500 +0000" stop="20260306154000 +0000" channel="Love Nature.mncvision">
+    <title>The Great Elephant Tale</title>
+</programme>
+<programme start="20260306154000 +0000" stop="20260306163500 +0000" channel="Love Nature.mncvision">
+    <title>Orangutan Jungle... S1, Ep 10</title>
+</programme>
+<programme start="20260306163500 +0000" stop="20260305170500 +0000" channel="Love Nature.mncvision">
+    <title>Land Of Primates S1, Ep 2</title>
+</programme>
+<programme start="20260305172500 +0000" stop="20260305182000 +0000" channel="Love Nature HD.mncvision">
+    <title>Wild Tales From Farm S1, Ep 3</title>
+</programme>
+<programme start="20260305182000 +0000" stop="20260305191500 +0000" channel="Love Nature HD.mncvision">
+    <title>Wild Tales From Farm S1, Ep 4</title>
+</programme>
+<programme start="20260305191500 +0000" stop="20260305201000 +0000" channel="Love Nature HD.mncvision">
+    <title>Ireland&#039;s Wild Islands S1, Ep 2</title>
+</programme>
+<programme start="20260305201000 +0000" stop="20260305210500 +0000" channel="Love Nature HD.mncvision">
+    <title>My Best Friend&#039;s An... S1, Ep 5</title>
+</programme>
+<programme start="20260305210500 +0000" stop="20260305220000 +0000" channel="Love Nature HD.mncvision">
+    <title>My Best Friend&#039;s An... S1, Ep 6</title>
+</programme>
+<programme start="20260305220000 +0000" stop="20260305222500 +0000" channel="Love Nature HD.mncvision">
+    <title>Mysteries Of Evolution S1, Ep 3</title>
+</programme>
+<programme start="20260305222500 +0000" stop="20260305232000 +0000" channel="Love Nature HD.mncvision">
+    <title>My Best Friend&#039;s An... S1, Ep 5</title>
+</programme>
+<programme start="20260305232000 +0000" stop="20260306001500 +0000" channel="Love Nature HD.mncvision">
+    <title>My Best Friend&#039;s An... S1, Ep 6</title>
+</programme>
+<programme start="20260306001500 +0000" stop="20260306011000 +0000" channel="Love Nature HD.mncvision">
+    <title>Planet Shark S1, Ep 3</title>
+</programme>
+<programme start="20260306011000 +0000" stop="20260306020500 +0000" channel="Love Nature HD.mncvision">
+    <title>Tusker: Brotherhood Of...</title>
+</programme>
+<programme start="20260306020500 +0000" stop="20260306030000 +0000" channel="Love Nature HD.mncvision">
+    <title>The Great Elephant Tale</title>
+</programme>
+<programme start="20260306030000 +0000" stop="20260306035000 +0000" channel="Love Nature HD.mncvision">
+    <title>Orangutan Jungle... S1, Ep 10</title>
+</programme>
+<programme start="20260306035000 +0000" stop="20260306044000 +0000" channel="Love Nature HD.mncvision">
+    <title>Land Of Primates S1, Ep 2</title>
+</programme>
+<programme start="20260306044000 +0000" stop="20260306053500 +0000" channel="Love Nature HD.mncvision">
+    <title>My Best Friend&#039;s An... S1, Ep 5</title>
+</programme>
+<programme start="20260306053500 +0000" stop="20260306063000 +0000" channel="Love Nature HD.mncvision">
+    <title>My Best Friend&#039;s An... S1, Ep 6</title>
+</programme>
+<programme start="20260306063000 +0000" stop="20260306072500 +0000" channel="Love Nature HD.mncvision">
+    <title>Ireland&#039;s Wild Islands S1, Ep 3</title>
+</programme>
+<programme start="20260306072500 +0000" stop="20260306082000 +0000" channel="Love Nature HD.mncvision">
+    <title>Tusker: Brotherhood Of...</title>
+</programme>
+<programme start="20260306082000 +0000" stop="20260306091500 +0000" channel="Love Nature HD.mncvision">
+    <title>The Great Elephant Tale</title>
+</programme>
+<programme start="20260306091500 +0000" stop="20260306101000 +0000" channel="Love Nature HD.mncvision">
+    <title>Orangutan Jungle... S1, Ep 10</title>
+</programme>
+<programme start="20260306101000 +0000" stop="20260306110500 +0000" channel="Love Nature HD.mncvision">
+    <title>Land Of Primates S1, Ep 2</title>
+</programme>
+<programme start="20260306110500 +0000" stop="20260306120000 +0000" channel="Love Nature HD.mncvision">
+    <title>My Best Friend&#039;s An... S1, Ep 5</title>
+</programme>
+<programme start="20260306120000 +0000" stop="20260306125500 +0000" channel="Love Nature HD.mncvision">
+    <title>13 Hours To Survive S1, Ep 2</title>
+</programme>
+<programme start="20260306125500 +0000" stop="20260306135000 +0000" channel="Love Nature HD.mncvision">
+    <title>Planet Shark S1, Ep 3</title>
+</programme>
+<programme start="20260306135000 +0000" stop="20260306144500 +0000" channel="Love Nature HD.mncvision">
+    <title>Tusker: Brotherhood Of...</title>
+</programme>
+<programme start="20260306144500 +0000" stop="20260306154000 +0000" channel="Love Nature HD.mncvision">
+    <title>The Great Elephant Tale</title>
+</programme>
+<programme start="20260306154000 +0000" stop="20260306163500 +0000" channel="Love Nature HD.mncvision">
+    <title>Orangutan Jungle... S1, Ep 10</title>
+</programme>
+<programme start="20260306163500 +0000" stop="20260305170500 +0000" channel="Love Nature HD.mncvision">
+    <title>Land Of Primates S1, Ep 2</title>
+</programme>
 <programme start="20260305171000 +0000" stop="20260305183500 +0000" channel="MDTV.mncvision">
     <title>Makan Enak</title>
 </programme>
@@ -7483,8 +7744,93 @@ Error: Unable to fetch data. HTTP Status Code: 500
 <programme start="20260306150000 +0000" stop="20260306153000 +0000" channel="RCTI.mncvision">
     <title>Mertua Vs Mertua</title>
 </programme>
-Error: Unable to fetch data. HTTP Status Code: 500
-Error: Unable to fetch data. HTTP Status Code: 500
+<programme start="20260305173000 +0000" stop="20260305204500 +0000" channel="RCTI HD.mncvision">
+    <title>Preman Pensiun S9</title>
+</programme>
+<programme start="20260305204500 +0000" stop="20260305223000 +0000" channel="RCTI HD.mncvision">
+    <title>Banyak Jalan Menuju Surga</title>
+</programme>
+<programme start="20260305223000 +0000" stop="20260305233000 +0000" channel="RCTI HD.mncvision">
+    <title>Penyejuk Hati Pagi</title>
+</programme>
+<programme start="20260305233000 +0000" stop="20260306000000 +0000" channel="RCTI HD.mncvision">
+    <title>Go Spot</title>
+</programme>
+<programme start="20260306000000 +0000" stop="20260306010000 +0000" channel="RCTI HD.mncvision">
+    <title>Upin Ipin</title>
+</programme>
+<programme start="20260306010000 +0000" stop="20260306021500 +0000" channel="RCTI HD.mncvision">
+    <title>Entong</title>
+</programme>
+<programme start="20260306021500 +0000" stop="20260306033000 +0000" channel="RCTI HD.mncvision">
+    <title>Sule Pulang Haji Dapat Jodoh</title>
+</programme>
+<programme start="20260306033000 +0000" stop="20260306043000 +0000" channel="RCTI HD.mncvision">
+    <title>Silet</title>
+</programme>
+<programme start="20260306043000 +0000" stop="20260306050000 +0000" channel="RCTI HD.mncvision">
+    <title>Seputar iNews Siang</title>
+</programme>
+<programme start="20260306050000 +0000" stop="20260306063000 +0000" channel="RCTI HD.mncvision">
+    <title>Preman Pensiun</title>
+</programme>
+<programme start="20260306063000 +0000" stop="20260306083000 +0000" channel="RCTI HD.mncvision">
+    <title>Hafiz Indonesia 2026</title>
+</programme>
+<programme start="20260306083000 +0000" stop="20260306100000 +0000" channel="RCTI HD.mncvision">
+    <title>Penyejuk Hati Sore</title>
+</programme>
+<programme start="20260306100000 +0000" stop="20260306111500 +0000" channel="RCTI HD.mncvision">
+    <title>Amanah Wali S8</title>
+</programme>
+<programme start="20260306111500 +0000" stop="20260306113000 +0000" channel="RCTI HD.mncvision">
+    <title>Jelang Berbuka Puasa</title>
+</programme>
+<programme start="20260306113000 +0000" stop="20260306130000 +0000" channel="RCTI HD.mncvision">
+    <title>99 Nama Cinta</title>
+</programme>
+<programme start="20260306130000 +0000" stop="20260306150000 +0000" channel="RCTI HD.mncvision">
+    <title>Mencintai Ipar Sendiri</title>
+</programme>
+<programme start="20260306150000 +0000" stop="20260306153000 +0000" channel="RCTI HD.mncvision">
+    <title>Mertua Vs Mertua</title>
+</programme>
+<programme start="20260305175500 +0000" stop="20260305200000 +0000" channel="Rock Action.mncvision">
+    <title>Twelve Monkeys</title>
+</programme>
+<programme start="20260305200000 +0000" stop="20260305214000 +0000" channel="Rock Action.mncvision">
+    <title>Universal Soldier</title>
+</programme>
+<programme start="20260305214000 +0000" stop="20260305234500 +0000" channel="Rock Action.mncvision">
+    <title>Gods Of Egypt</title>
+</programme>
+<programme start="20260305234500 +0000" stop="20260306020000 +0000" channel="Rock Action.mncvision">
+    <title>Robin Hood</title>
+</programme>
+<programme start="20260306020000 +0000" stop="20260306034500 +0000" channel="Rock Action.mncvision">
+    <title>Sudden Death</title>
+</programme>
+<programme start="20260306034500 +0000" stop="20260306053000 +0000" channel="Rock Action.mncvision">
+    <title>Fist Of Legend</title>
+</programme>
+<programme start="20260306053000 +0000" stop="20260306073000 +0000" channel="Rock Action.mncvision">
+    <title>Miami Vice</title>
+</programme>
+<programme start="20260306073000 +0000" stop="20260306094500 +0000" channel="Rock Action.mncvision">
+    <title>Robin Hood</title>
+</programme>
+<programme start="20260306094500 +0000" stop="20260306112000 +0000" channel="Rock Action.mncvision">
+    <title>Fist From Shaolin</title>
+</programme>
+<programme start="20260306112000 +0000" stop="20260306125500 +0000" channel="Rock Action.mncvision">
+    <title>The Legend 2</title>
+</programme>
+<programme start="20260306125500 +0000" stop="20260306150000 +0000" channel="Rock Action.mncvision">
+    <title>Battleship</title>
+</programme>
+<programme start="20260306150000 +0000" stop="20260306153000 +0000" channel="Rock Action.mncvision">
+    <title>Twelve Monkeys</title>
+</programme>
 <programme start="20260305172500 +0000" stop="20260305181000 +0000" channel="Rock Entertainment.mncvision">
     <title>Next Level Chef S3, Ep 2</title>
 </programme>
@@ -9273,8 +9619,117 @@ Error: Unable to fetch data. HTTP Status Code: 500
 <programme start="20260306161600 +0000" stop="20260306164600 +0000" channel="UNIQUES.mncvision">
     <title>Silver</title>
 </programme>
-Error: Unable to fetch data. HTTP Status Code: 500
-Error: Unable to fetch data. HTTP Status Code: 500
+<programme start="20260305182000 +0000" stop="20260305201400 +0000" channel="UNIQUES HD.mncvision">
+    <title>Blood For Dust</title>
+</programme>
+<programme start="20260305201400 +0000" stop="20260305221000 +0000" channel="UNIQUES HD.mncvision">
+    <title>Platinum</title>
+</programme>
+<programme start="20260305221000 +0000" stop="20260305234200 +0000" channel="UNIQUES HD.mncvision">
+    <title>End Of Sentence</title>
+</programme>
+<programme start="20260305234200 +0000" stop="20260306011900 +0000" channel="UNIQUES HD.mncvision">
+    <title>Beyond The Law</title>
+</programme>
+<programme start="20260306011900 +0000" stop="20260306025500 +0000" channel="UNIQUES HD.mncvision">
+    <title>Gold</title>
+</programme>
+<programme start="20260306025500 +0000" stop="20260306042500 +0000" channel="UNIQUES HD.mncvision">
+    <title>Ghosts Of Christmas Past</title>
+</programme>
+<programme start="20260306042500 +0000" stop="20260306055900 +0000" channel="UNIQUES HD.mncvision">
+    <title>Silver</title>
+</programme>
+<programme start="20260306055900 +0000" stop="20260306080400 +0000" channel="UNIQUES HD.mncvision">
+    <title>Chef</title>
+</programme>
+<programme start="20260306080400 +0000" stop="20260306095700 +0000" channel="UNIQUES HD.mncvision">
+    <title>Platinum</title>
+</programme>
+<programme start="20260306095700 +0000" stop="20260306111700 +0000" channel="UNIQUES HD.mncvision">
+    <title>Deadly Daycare</title>
+</programme>
+<programme start="20260306111700 +0000" stop="20260306125300 +0000" channel="UNIQUES HD.mncvision">
+    <title>Gangster Land</title>
+</programme>
+<programme start="20260306125300 +0000" stop="20260306144900 +0000" channel="UNIQUES HD.mncvision">
+    <title>Gold</title>
+</programme>
+<programme start="20260306144900 +0000" stop="20260306161600 +0000" channel="UNIQUES HD.mncvision">
+    <title>Road Less Traveled</title>
+</programme>
+<programme start="20260306161600 +0000" stop="20260306164600 +0000" channel="UNIQUES HD.mncvision">
+    <title>Silver</title>
+</programme>
+<programme start="20260305173000 +0000" stop="20260305180000 +0000" channel="Vision Prime.mncvision">
+    <title>Ngidam OMG!</title>
+</programme>
+<programme start="20260305180000 +0000" stop="20260305190000 +0000" channel="Vision Prime.mncvision">
+    <title>Pashmina Aisha</title>
+</programme>
+<programme start="20260305190000 +0000" stop="20260305200000 +0000" channel="Vision Prime.mncvision">
+    <title>Banyak Jalan Menuju Surga</title>
+</programme>
+<programme start="20260305200000 +0000" stop="20260305210000 +0000" channel="Vision Prime.mncvision">
+    <title>Mencintai Ipar Sendiri</title>
+</programme>
+<programme start="20260305210000 +0000" stop="20260305220000 +0000" channel="Vision Prime.mncvision">
+    <title>99 Nama Cinta</title>
+</programme>
+<programme start="20260305220000 +0000" stop="20260305230000 +0000" channel="Vision Prime.mncvision">
+    <title>Cinta Yasmin</title>
+</programme>
+<programme start="20260305230000 +0000" stop="20260306000000 +0000" channel="Vision Prime.mncvision">
+    <title>Morning Update</title>
+</programme>
+<programme start="20260306000000 +0000" stop="20260306003000 +0000" channel="Vision Prime.mncvision">
+    <title>+62 Fo.Mo</title>
+</programme>
+<programme start="20260306003000 +0000" stop="20260306010000 +0000" channel="Vision Prime.mncvision">
+    <title>Sekuriti</title>
+</programme>
+<programme start="20260306010000 +0000" stop="20260306020000 +0000" channel="Vision Prime.mncvision">
+    <title>Gamezone Indonesia</title>
+</programme>
+<programme start="20260306020000 +0000" stop="20260306040000 +0000" channel="Vision Prime.mncvision">
+    <title>Ikatan Cinta</title>
+</programme>
+<programme start="20260306040000 +0000" stop="20260306050000 +0000" channel="Vision Prime.mncvision">
+    <title>Banyak Jalan Menuju Surga</title>
+</programme>
+<programme start="20260306050000 +0000" stop="20260306060000 +0000" channel="Vision Prime.mncvision">
+    <title>The Price Is Right Indonesia</title>
+</programme>
+<programme start="20260306060000 +0000" stop="20260306070000 +0000" channel="Vision Prime.mncvision">
+    <title>Ada Apa Dengan Cinta The Series</title>
+</programme>
+<programme start="20260306070000 +0000" stop="20260306080000 +0000" channel="Vision Prime.mncvision">
+    <title>99 Nama Cinta</title>
+</programme>
+<programme start="20260306080000 +0000" stop="20260306090000 +0000" channel="Vision Prime.mncvision">
+    <title>Pashmina Aisha</title>
+</programme>
+<programme start="20260306090000 +0000" stop="20260306100000 +0000" channel="Vision Prime.mncvision">
+    <title>Banyak Jalan Menuju Surga</title>
+</programme>
+<programme start="20260306100000 +0000" stop="20260306110000 +0000" channel="Vision Prime.mncvision">
+    <title>Cinta Yasmin</title>
+</programme>
+<programme start="20260306110000 +0000" stop="20260306130000 +0000" channel="Vision Prime.mncvision">
+    <title>Mencintai Ipar Sendiri</title>
+</programme>
+<programme start="20260306130000 +0000" stop="20260306140000 +0000" channel="Vision Prime.mncvision">
+    <title>99 Nama Cinta</title>
+</programme>
+<programme start="20260306140000 +0000" stop="20260306143000 +0000" channel="Vision Prime.mncvision">
+    <title>Arab Maklum 2</title>
+</programme>
+<programme start="20260306143000 +0000" stop="20260306150000 +0000" channel="Vision Prime.mncvision">
+    <title>Aisa Waisa Pyaar</title>
+</programme>
+<programme start="20260306150000 +0000" stop="20260306153000 +0000" channel="Vision Prime.mncvision">
+    <title>Shubh Mangal Saavdhan</title>
+</programme>
 <programme start="20260305173000 +0000" stop="20260305180000 +0000" channel="Vision Prime HD.mncvision">
     <title>Ngidam OMG!</title>
 </programme>
