@@ -1186,51 +1186,7 @@
 <programme start="20260307165500 +0000" stop="20260306172500 +0000" channel="beIN Sports 2.mncvision">
     <title>Super Lig 25/26: BJK Vs GAL (L)</title>
 </programme>
-<programme start="20260306170000 +0000" stop="20260306180000 +0000" channel="beIN Sports 2 HD.mncvision">
-    <title>Premier Padel 2026: Gijon (L)</title>
-</programme>
-<programme start="20260306180000 +0000" stop="20260306192200 +0000" channel="beIN Sports 2 HD.mncvision">
-    <title>Premier Padel 2026: Gijon (L)</title>
-</programme>
-<programme start="20260306192200 +0000" stop="20260306213000 +0000" channel="beIN Sports 2 HD.mncvision">
-    <title>LaLiga 2 &#039;25/26: CAD Vs ZAR (L)</title>
-</programme>
-<programme start="20260306213000 +0000" stop="20260306233000 +0000" channel="beIN Sports 2 HD.mncvision">
-    <title>AFCON 2025: COD Vs BEN</title>
-</programme>
-<programme start="20260306233000 +0000" stop="20260307003000 +0000" channel="beIN Sports 2 HD.mncvision">
-    <title>United Cup 2026: Review</title>
-</programme>
-<programme start="20260307003000 +0000" stop="20260307013000 +0000" channel="beIN Sports 2 HD.mncvision">
-    <title>Australian Open Highlights 2026</title>
-</programme>
-<programme start="20260307013000 +0000" stop="20260307030000 +0000" channel="beIN Sports 2 HD.mncvision">
-    <title>Premier Padel 2026: Gijon</title>
-</programme>
-<programme start="20260307030000 +0000" stop="20260307040000 +0000" channel="beIN Sports 2 HD.mncvision">
-    <title>HSBC SVNS Series HL 2026</title>
-</programme>
-<programme start="20260307040000 +0000" stop="20260307070000 +0000" channel="beIN Sports 2 HD.mncvision">
-    <title>UCI World Tour 2026</title>
-</programme>
-<programme start="20260307070000 +0000" stop="20260307090000 +0000" channel="beIN Sports 2 HD.mncvision">
-    <title>Best Of AO 2026: Men&#039;s Singles</title>
-</programme>
-<programme start="20260307090000 +0000" stop="20260307110000 +0000" channel="beIN Sports 2 HD.mncvision">
-    <title>Best Of AO 2026: Men&#039;s Singles</title>
-</programme>
-<programme start="20260307110000 +0000" stop="20260307125500 +0000" channel="beIN Sports 2 HD.mncvision">
-    <title>LaLiga 2025/26: CEL Vs RMA</title>
-</programme>
-<programme start="20260307125500 +0000" stop="20260307150000 +0000" channel="beIN Sports 2 HD.mncvision">
-    <title>Super Lig 25/26: IBA Vs GOZ (L)</title>
-</programme>
-<programme start="20260307150000 +0000" stop="20260307165500 +0000" channel="beIN Sports 2 HD.mncvision">
-    <title>Best Of AO 2026: Men&#039;s Singles</title>
-</programme>
-<programme start="20260307165500 +0000" stop="20260306172500 +0000" channel="beIN Sports 2 HD.mncvision">
-    <title>Super Lig 25/26: BJK Vs GAL (L)</title>
-</programme>
+Error: Unable to fetch data. HTTP Status Code: 500
 <programme start="20260306173000 +0000" stop="20260306190000 +0000" channel="beIN Sports 3.mncvision">
     <title>SailGP 2026: Sydney Day 2</title>
 </programme>
@@ -4591,36 +4547,7 @@
 <programme start="20260307160000 +0000" stop="20260307163000 +0000" channel="HITS MOVIES.mncvision">
     <title>Junior</title>
 </programme>
-<programme start="20260306191500 +0000" stop="20260306220000 +0000" channel="HITS MOVIES HD.mncvision">
-    <title>L.A. Confidential</title>
-</programme>
-<programme start="20260306220000 +0000" stop="20260307003000 +0000" channel="HITS MOVIES HD.mncvision">
-    <title>Notting Hill</title>
-</programme>
-<programme start="20260307003000 +0000" stop="20260307030000 +0000" channel="HITS MOVIES HD.mncvision">
-    <title>Inside Man</title>
-</programme>
-<programme start="20260307030000 +0000" stop="20260307050000 +0000" channel="HITS MOVIES HD.mncvision">
-    <title>Armour Of God</title>
-</programme>
-<programme start="20260307050000 +0000" stop="20260307071500 +0000" channel="HITS MOVIES HD.mncvision">
-    <title>Junior</title>
-</programme>
-<programme start="20260307071500 +0000" stop="20260307091500 +0000" channel="HITS MOVIES HD.mncvision">
-    <title>Pillow Talk</title>
-</programme>
-<programme start="20260307091500 +0000" stop="20260307120000 +0000" channel="HITS MOVIES HD.mncvision">
-    <title>L.A. Confidential</title>
-</programme>
-<programme start="20260307120000 +0000" stop="20260307140000 +0000" channel="HITS MOVIES HD.mncvision">
-    <title>Liar Liar</title>
-</programme>
-<programme start="20260307140000 +0000" stop="20260307160000 +0000" channel="HITS MOVIES HD.mncvision">
-    <title>Postcards From The Edge</title>
-</programme>
-<programme start="20260307160000 +0000" stop="20260307163000 +0000" channel="HITS MOVIES HD.mncvision">
-    <title>Junior</title>
-</programme>
+Error: Unable to fetch data. HTTP Status Code: 500
 <programme start="20260306173000 +0000" stop="20260306183000 +0000" channel="IDX.mncvision">
     <title>Prime Market Highlight</title>
 </programme>
