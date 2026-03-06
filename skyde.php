@@ -2673,8 +2673,11 @@ Warning: Undefined array key "et" in /usr/home/ManusiaBiasa/domains/manusiabiasa
 <programme start="20260306154500 +0000" stop="20260306160000 +0000" channel="Sky Sport Bundesliga HD.skyde">
     <title>BL: Im Herzen von Europa - Das Eintracht Magazin</title>
 </programme>
-<programme start="20260306160000 +0000" stop="20260306163000 +0000" channel="Sky Sport Bundesliga HD.skyde">
-    <title>BL: Faith over Fear - Das Comeback von Benjamin Henrichs</title>
+<programme start="20260306160000 +0000" stop="20260306161500 +0000" channel="Sky Sport Bundesliga HD.skyde">
+    <title>BL: Torparade 24. Spieltag</title>
+</programme>
+<programme start="20260306161500 +0000" stop="20260306163000 +0000" channel="Sky Sport Bundesliga HD.skyde">
+    <title>2. BL: Dein Spieltags-Sprint (24)</title>
 </programme>
 <programme start="20260306163000 +0000" stop="20260306170000 +0000" channel="Sky Sport Bundesliga HD.skyde">
     <title>2. BL: Dein Zweitligatalk - HvK &amp; Tusche</title>
@@ -2772,11 +2775,17 @@ Warning: Undefined array key "et" in /usr/home/ManusiaBiasa/domains/manusiabiasa
 <programme start="20260306011500 +0000" stop="20260306030000 +0000" channel="Sky Sport F1 HD.skyde">
     <title>Live F1: 1. Freies Training - GP Australien</title>
 </programme>
-<programme start="20260306030000 +0000" stop="20260306035500 +0000" channel="Sky Sport F1 HD.skyde">
+<programme start="20260306030000 +0000" stop="20260306034000 +0000" channel="Sky Sport F1 HD.skyde">
     <title>Live F3: Qualifying - GP Australien</title>
 </programme>
-<programme start="20260306035500 +0000" stop="20260306044500 +0000" channel="Sky Sport F1 HD.skyde">
+<programme start="20260306034000 +0000" stop="20260306035500 +0000" channel="Sky Sport F1 HD.skyde">
+    <title>F1: 2025: Rookie Review</title>
+</programme>
+<programme start="20260306035500 +0000" stop="20260306043500 +0000" channel="Sky Sport F1 HD.skyde">
     <title>Live F2: Qualifying - GP Australien</title>
+</programme>
+<programme start="20260306043500 +0000" stop="20260306044500 +0000" channel="Sky Sport F1 HD.skyde">
+    <title>F1: Greatest Races: A. Prost / Australien 1986</title>
 </programme>
 <programme start="20260306044500 +0000" stop="20260306063000 +0000" channel="Sky Sport F1 HD.skyde">
     <title>Live F1: 2. Freies Training - GP Australien</title>
@@ -2812,7 +2821,7 @@ Warning: Undefined array key "et" in /usr/home/ManusiaBiasa/domains/manusiabiasa
     <title>F1: 2. Freies Training - GP Australien</title>
 </programme>
 <programme start="20260306174500 +0000" stop="20260306180000 +0000" channel="Sky Sport F1 HD.skyde">
-    <title>Chasing the Dream: Ready for the longest haul!</title>
+    <title>Chasing the Dream: 1. Episode 2026</title>
 </programme>
 <programme start="20260306180000 +0000" stop="20260306190000 +0000" channel="Sky Sport F1 HD.skyde">
     <title>IndyCar: 1. Training in Phoenix (Arizona)</title>
@@ -3126,9 +3135,6 @@ Warning: Undefined array key "et" in /usr/home/ManusiaBiasa/domains/manusiabiasa
 <programme start="20260306070000 +0000" stop="20260306090000 +0000" channel="Sky Sport Tennis HD.skyde">
     <title>WTA 1000: L. Siegemund (GER) - P. Marcinko (CRO), BNP Paribas Open in Indian Wells, Kalifornien (USA), 2. Tag</title>
 </programme>
-<programme start="20260306090000 +0000" stop="20260306100000 +0000" channel="Sky Sport Tennis HD.skyde">
-    <title>ATP 500: Review Dubai</title>
-</programme>
 <programme start="20260306100000 +0000" stop="20260306113000 +0000" channel="Sky Sport Tennis HD.skyde">
     <title>ATP 1000: S. Korda (USA) - F. Comesana (ARG), BNP Paribas Open in Indian Wells, Kalifornien (USA), 2. Tag</title>
 </programme>
@@ -3219,17 +3225,11 @@ Warning: Undefined array key "et" in /usr/home/ManusiaBiasa/domains/manusiabiasa
 <programme start="20260306011500 +0000" stop="20260306030000 +0000" channel="Sky Sport UHD.skyde">
     <title>Live F1: 1. Freies Training - GP Australien</title>
 </programme>
-<programme start="20260306030000 +0000" stop="20260306034000 +0000" channel="Sky Sport UHD.skyde">
+<programme start="20260306030000 +0000" stop="20260306035500 +0000" channel="Sky Sport UHD.skyde">
     <title>Live F3: Qualifying - GP Australien</title>
 </programme>
-<programme start="20260306034000 +0000" stop="20260306035500 +0000" channel="Sky Sport UHD.skyde">
-    <title>F1: 2025: Rookie Review</title>
-</programme>
-<programme start="20260306035500 +0000" stop="20260306043500 +0000" channel="Sky Sport UHD.skyde">
+<programme start="20260306035500 +0000" stop="20260306044500 +0000" channel="Sky Sport UHD.skyde">
     <title>Live F2: Qualifying - GP Australien</title>
-</programme>
-<programme start="20260306043500 +0000" stop="20260306044500 +0000" channel="Sky Sport UHD.skyde">
-    <title>F1: Greatest Races: A. Prost / Australien 1986</title>
 </programme>
 <programme start="20260306044500 +0000" stop="20260306063000 +0000" channel="Sky Sport UHD.skyde">
     <title>Live F1: 2. Freies Training - GP Australien</title>
