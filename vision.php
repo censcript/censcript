@@ -862,6 +862,9 @@
 <programme start="20260307063000 +0000" stop="20260307070000 +0000" channel="TVOne.vision">
 <title>Berita Utama Kriminal</title>
 </programme>
+<programme start="20260307070000 +0000" stop="20260307073000 +0000" channel="TVOne.vision">
+<title>Selalu Ada Hikmah</title>
+</programme>
 <programme start="20260307073000 +0000" stop="20260307090000 +0000" channel="TVOne.vision">
 <title>Damai Indonesiaku Ramadan (L)</title>
 </programme>
@@ -1494,7 +1497,4 @@
 </programme>
 <programme start="20260307111600 +0000" stop="20260307112100 +0000" channel="BTV.vision">
 <title>Filler Selamat Berbuka Puasa</title>
-</programme>
-<programme start="20260307112100 +0000" stop="20260307120000 +0000" channel="BTV.vision">
-<title>Inspirasi Ramadan</title>
 </programme>
