@@ -691,6 +691,12 @@
 <programme start="20260307090000 +0000" stop="20260307100000 +0000" channel="ANTV.vision">
 <title>Vasudha</title>
 </programme>
+<programme start="20260307100000 +0000" stop="20260307113000 +0000" channel="ANTV.vision">
+<title>Perayaan 33 Setia Melegenda</title>
+</programme>
+<programme start="20260307133000 +0000" stop="20260307160000 +0000" channel="ANTV.vision">
+<title>Perayaan 33 Setia Melegenda</title>
+</programme>
 <programme start="20260307160000 +0000" stop="20260307180000 +0000" channel="ANTV.vision">
 <title>Sama Juga Bohong</title>
 </programme>
@@ -1491,10 +1497,4 @@
 </programme>
 <programme start="20260307120000 +0000" stop="20260307130000 +0000" channel="BTV.vision">
 <title>Ketulusan Hati</title>
-</programme>
-<programme start="20260307130000 +0000" stop="20260307140000 +0000" channel="BTV.vision">
-<title>Spot On</title>
-</programme>
-<programme start="20260307140000 +0000" stop="20260307150000 +0000" channel="BTV.vision">
-<title>Berita Viral</title>
 </programme>

@@ -2677,10 +2677,10 @@ Warning: Undefined array key "et" in /usr/home/ManusiaBiasa/domains/manusiabiasa
 <programme start="20260307111000 +0000" stop="20260307113000 +0000" channel="Sky Sport Bundesliga 4 HD.skyde">
     <title>Es folgt: LIVE 2. Liga</title>
 </programme>
-<programme start="20260307113000 +0000" stop="20260307140000 +0000" channel="Sky Sport Bundesliga 4 HD.skyde">
+<programme start="20260307113000 +0000" stop="20260307140500 +0000" channel="Sky Sport Bundesliga 4 HD.skyde">
     <title>Live 2. BL: SC Paderborn 07 - Eintracht Braunschweig, 25. Spieltag</title>
 </programme>
-<programme start="20260307140000 +0000" stop="20260307141500 +0000" channel="Sky Sport Bundesliga 4 HD.skyde">
+<programme start="20260307140500 +0000" stop="20260307141500 +0000" channel="Sky Sport Bundesliga 4 HD.skyde">
     <title>Live BL: M05 - VFB: tipico Countdown, 25. Spieltag</title>
 </programme>
 <programme start="20260307141500 +0000" stop="20260307171500 +0000" channel="Sky Sport Bundesliga 4 HD.skyde">
@@ -2716,26 +2716,20 @@ Warning: Undefined array key "et" in /usr/home/ManusiaBiasa/domains/manusiabiasa
 <programme start="20260307140000 +0000" stop="20260307151500 +0000" channel="Sky Sport Bundesliga 7 HD.skyde">
     <title>Live 2. BL Alle Spiele, alle Tore: Die Vodafone Highlight-Show, 25. Spieltag, Samstag</title>
 </programme>
-<programme start="20260306230000 +0000" stop="20260306233000 +0000" channel="Sky Sport F1 HD.skyde">
+<programme start="20260306230500 +0000" stop="20260306233000 +0000" channel="Sky Sport F1 HD.skyde">
     <title>F1: Warm Up Spezial - Der F1-Saisonstart</title>
 </programme>
-<programme start="20260306233000 +0000" stop="20260307001500 +0000" channel="Sky Sport F1 HD.skyde">
+<programme start="20260306233000 +0000" stop="20260307001000 +0000" channel="Sky Sport F1 HD.skyde">
     <title>F1: Iconic Onboards: Lando Norris</title>
 </programme>
-<programme start="20260307001500 +0000" stop="20260307011500 +0000" channel="Sky Sport F1 HD.skyde">
+<programme start="20260307001000 +0000" stop="20260307011500 +0000" channel="Sky Sport F1 HD.skyde">
     <title>Live F3: 1. Rennen - GP Australien</title>
 </programme>
-<programme start="20260307011500 +0000" stop="20260307030000 +0000" channel="Sky Sport F1 HD.skyde">
+<programme start="20260307011500 +0000" stop="20260307032500 +0000" channel="Sky Sport F1 HD.skyde">
     <title>Live F1: 3. Freies Training - GP Australien</title>
 </programme>
-<programme start="20260307030000 +0000" stop="20260307031000 +0000" channel="Sky Sport F1 HD.skyde">
-    <title>F1: Greatest Races: A. Prost / Australien 1986</title>
-</programme>
-<programme start="20260307031000 +0000" stop="20260307041000 +0000" channel="Sky Sport F1 HD.skyde">
+<programme start="20260307032500 +0000" stop="20260307043000 +0000" channel="Sky Sport F1 HD.skyde">
     <title>Live F2: 1. Rennen - GP Australien</title>
-</programme>
-<programme start="20260307041000 +0000" stop="20260307043000 +0000" channel="Sky Sport F1 HD.skyde">
-    <title>F1: Wildest Qualifying Moments of 2025</title>
 </programme>
 <programme start="20260307043000 +0000" stop="20260307063000 +0000" channel="Sky Sport F1 HD.skyde">
     <title>Live F1: Qualifying - GP Australien</title>
@@ -3163,13 +3157,13 @@ Warning: Undefined array key "et" in /usr/home/ManusiaBiasa/domains/manusiabiasa
 <programme start="20260307032500 +0000" stop="20260307043000 +0000" channel="Sky Sport UHD.skyde">
     <title>Live F2: 1. Rennen - GP Australien</title>
 </programme>
-<programme start="20260307043000 +0000" stop="20260307070000 +0000" channel="Sky Sport UHD.skyde">
+<programme start="20260307043000 +0000" stop="20260307063000 +0000" channel="Sky Sport UHD.skyde">
     <title>Live F1: Qualifying - GP Australien</title>
 </programme>
-<programme start="20260307070000 +0000" stop="20260307073000 +0000" channel="Sky Sport UHD.skyde">
+<programme start="20260307063000 +0000" stop="20260307070000 +0000" channel="Sky Sport UHD.skyde">
     <title>Live F1: Pressekonferenz Qualifying - GP Australien</title>
 </programme>
-<programme start="20260307073000 +0000" stop="20260307083000 +0000" channel="Sky Sport UHD.skyde">
+<programme start="20260307070000 +0000" stop="20260307083000 +0000" channel="Sky Sport UHD.skyde">
     <title>F1: Qualifying - GP Australien</title>
 </programme>
 <programme start="20260307083000 +0000" stop="20260307084500 +0000" channel="Sky Sport UHD.skyde">
