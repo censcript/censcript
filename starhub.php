@@ -2065,8 +2065,8 @@
     <programme start="20260306170000 +0000" stop="20260306200000 +0000" channel="KTV HD.starhub">
         <title>Movie - Mr. Romeo</title>
     </programme>
-    <programme start="20260306200000 +0000" stop="20260306220000 +0000" channel="KTV HD.starhub">
-        <title>Information Not Available</title>
+    <programme start="20260306200000 +0000" stop="20260306223000 +0000" channel="KTV HD.starhub">
+        <title>Movie - Mookkanan Kayiru</title>
     </programme>
     <programme start="20260306223000 +0000" stop="20260307010000 +0000" channel="KTV HD.starhub">
         <title>Movie - Vaalibha Vilayattu</title>
