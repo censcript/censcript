@@ -991,65 +991,71 @@ Warning: Undefined array key "et" in /usr/home/ManusiaBiasa/domains/manusiabiasa
 <programme start="20260307223000 +0000" stop="20260307230000 +0000" channel="DAZN 2 HD.skyde">
     <title>Best of DAZN: Highlights</title>
 </programme>
-<programme start="20260302234000 +0000" stop="20260303003000 +0000" channel="Heimatkanal.skyde">
+<programme start="20260306230500 +0000" stop="20260306235000 +0000" channel="Heimatkanal.skyde">
     <title>Der Landarzt</title>
 </programme>
-<programme start="20260303003000 +0000" stop="20260303020000 +0000" channel="Heimatkanal.skyde">
-    <title>Peter Steiners Theaterstadl</title>
+<programme start="20260306235000 +0000" stop="20260307013500 +0000" channel="Heimatkanal.skyde">
+    <title>Himmel ohne Sterne</title>
 </programme>
-<programme start="20260303020000 +0000" stop="20260303025000 +0000" channel="Heimatkanal.skyde">
-    <title>Heimatkanal Spezial - Ursprungbuam: Ein Casanova kann nicht aufgeig&#039;n</title>
-</programme>
-<programme start="20260303025000 +0000" stop="20260303044000 +0000" channel="Heimatkanal.skyde">
-    <title>Sebastian Kneipp - Ein großes Leben</title>
-</programme>
-<programme start="20260303044000 +0000" stop="20260303061500 +0000" channel="Heimatkanal.skyde">
-    <title>Der Ochsenkrieg</title>
-</programme>
-<programme start="20260303061500 +0000" stop="20260303075000 +0000" channel="Heimatkanal.skyde">
-    <title>Nachbarn sind zum Ärgern da</title>
-</programme>
-<programme start="20260303075000 +0000" stop="20260303092000 +0000" channel="Heimatkanal.skyde">
-    <title>Grün ist die Heide</title>
-</programme>
-<programme start="20260303092000 +0000" stop="20260303101000 +0000" channel="Heimatkanal.skyde">
-    <title>Da kommt Kalle</title>
-</programme>
-<programme start="20260303101000 +0000" stop="20260303110000 +0000" channel="Heimatkanal.skyde">
-    <title>Der Landarzt</title>
-</programme>
-<programme start="20260303110000 +0000" stop="20260303120000 +0000" channel="Heimatkanal.skyde">
-    <title>Musikparade</title>
-</programme>
-<programme start="20260303120000 +0000" stop="20260303124500 +0000" channel="Heimatkanal.skyde">
-    <title>Alles Liebe V.I.P.: Uschi Glas</title>
-</programme>
-<programme start="20260303124500 +0000" stop="20260303133000 +0000" channel="Heimatkanal.skyde">
+<programme start="20260307013500 +0000" stop="20260307022000 +0000" channel="Heimatkanal.skyde">
     <title>Der Bergdoktor</title>
 </programme>
-<programme start="20260303133000 +0000" stop="20260303141500 +0000" channel="Heimatkanal.skyde">
+<programme start="20260307022000 +0000" stop="20260307030500 +0000" channel="Heimatkanal.skyde">
     <title>Die Bergretter</title>
 </programme>
-<programme start="20260303141500 +0000" stop="20260303155500 +0000" channel="Heimatkanal.skyde">
-    <title>Freddy unter fremden Sternen</title>
+<programme start="20260307030500 +0000" stop="20260307035000 +0000" channel="Heimatkanal.skyde">
+    <title>Heimatkanal Spezial - Auner Alpenspektakel: Sehnsucht nach Tirol</title>
 </programme>
-<programme start="20260303155500 +0000" stop="20260303173500 +0000" channel="Heimatkanal.skyde">
-    <title>Käpt&#039;n Bay-Bay</title>
-</programme>
-<programme start="20260303173500 +0000" stop="20260303182500 +0000" channel="Heimatkanal.skyde">
-    <title>Der Landarzt</title>
-</programme>
-<programme start="20260303182500 +0000" stop="20260303191500 +0000" channel="Heimatkanal.skyde">
-    <title>Da kommt Kalle</title>
-</programme>
-<programme start="20260303191500 +0000" stop="20260303204000 +0000" channel="Heimatkanal.skyde">
-    <title>Peter Steiners Theaterstadl</title>
-</programme>
-<programme start="20260303204000 +0000" stop="20260303221000 +0000" channel="Heimatkanal.skyde">
+<programme start="20260307035000 +0000" stop="20260307052500 +0000" channel="Heimatkanal.skyde">
     <title>Die Unverbesserlichen - Nichts dazugelernt</title>
 </programme>
-<programme start="20260303221000 +0000" stop="20260303230000 +0000" channel="Heimatkanal.skyde">
-    <title>Da kommt Kalle</title>
+<programme start="20260307052500 +0000" stop="20260307061000 +0000" channel="Heimatkanal.skyde">
+    <title>Der Bergdoktor</title>
+</programme>
+<programme start="20260307061000 +0000" stop="20260307065500 +0000" channel="Heimatkanal.skyde">
+    <title>Die Bergretter</title>
+</programme>
+<programme start="20260307065500 +0000" stop="20260307074000 +0000" channel="Heimatkanal.skyde">
+    <title>Der Landarzt</title>
+</programme>
+<programme start="20260307074000 +0000" stop="20260307083000 +0000" channel="Heimatkanal.skyde">
+    <title>Der Landarzt</title>
+</programme>
+<programme start="20260307083000 +0000" stop="20260307092000 +0000" channel="Heimatkanal.skyde">
+    <title>Der Landarzt</title>
+</programme>
+<programme start="20260307092000 +0000" stop="20260307101000 +0000" channel="Heimatkanal.skyde">
+    <title>Der Landarzt</title>
+</programme>
+<programme start="20260307101000 +0000" stop="20260307110000 +0000" channel="Heimatkanal.skyde">
+    <title>Der Landarzt</title>
+</programme>
+<programme start="20260307110000 +0000" stop="20260307112500 +0000" channel="Heimatkanal.skyde">
+    <title>Musikparade</title>
+</programme>
+<programme start="20260307112500 +0000" stop="20260307124500 +0000" channel="Heimatkanal.skyde">
+    <title>Aschenputtel</title>
+</programme>
+<programme start="20260307124500 +0000" stop="20260307142000 +0000" channel="Heimatkanal.skyde">
+    <title>Peter Steiners Theaterstadl</title>
+</programme>
+<programme start="20260307142000 +0000" stop="20260307160500 +0000" channel="Heimatkanal.skyde">
+    <title>Wir Wunderkinder</title>
+</programme>
+<programme start="20260307160500 +0000" stop="20260307174000 +0000" channel="Heimatkanal.skyde">
+    <title>Die Unverbesserlichen - Nichts dazugelernt</title>
+</programme>
+<programme start="20260307174000 +0000" stop="20260307191500 +0000" channel="Heimatkanal.skyde">
+    <title>Ich heirate eine Familie: 1 + 1 = 5</title>
+</programme>
+<programme start="20260307191500 +0000" stop="20260307204500 +0000" channel="Heimatkanal.skyde">
+    <title>Drei Mann in einem Boot</title>
+</programme>
+<programme start="20260307204500 +0000" stop="20260307222000 +0000" channel="Heimatkanal.skyde">
+    <title>Immer die Radfahrer</title>
+</programme>
+<programme start="20260307222000 +0000" stop="20260308000000 +0000" channel="Heimatkanal.skyde">
+    <title>Ach Egon!</title>
 </programme>
 <programme start="20260306231000 +0000" stop="20260307000000 +0000" channel="HISTORY Channel HD.skyde">
     <title>Terra X: Schlaue Schwärme</title>
@@ -2626,7 +2632,7 @@ Warning: Undefined array key "et" in /usr/home/ManusiaBiasa/domains/manusiabiasa
 <programme start="20260307141500 +0000" stop="20260307164500 +0000" channel="Sky Sport Bundesliga 1 HD.skyde">
     <title>Live BL: VfL Wolfsburg - Hamburger SV, 25. Spieltag</title>
 </programme>
-<programme start="20260307164500 +0000" stop="20260307204500 +0000" channel="Sky Sport Bundesliga 1 HD.skyde">
+<programme start="20260307164500 +0000" stop="20260307201500 +0000" channel="Sky Sport Bundesliga 1 HD.skyde">
     <title>Live BL: 1. FC Köln - Borussia Dortmund, tipico Topspiel der Woche, 25. Spieltag</title>
 </programme>
 <programme start="20260307111000 +0000" stop="20260307113000 +0000" channel="Sky Sport Bundesliga 2 HD.skyde">
@@ -2689,7 +2695,7 @@ Warning: Undefined array key "et" in /usr/home/ManusiaBiasa/domains/manusiabiasa
 <programme start="20260307140000 +0000" stop="20260307141500 +0000" channel="Sky Sport Bundesliga 5 HD.skyde">
     <title>Live BL: FCH - TSG: tipico Countdown, 25. Spieltag</title>
 </programme>
-<programme start="20260307141500 +0000" stop="20260307171500 +0000" channel="Sky Sport Bundesliga 5 HD.skyde">
+<programme start="20260307141500 +0000" stop="20260307164500 +0000" channel="Sky Sport Bundesliga 5 HD.skyde">
     <title>Live BL: 1. FC Heidenheim - TSG Hoffenheim, 25. Spieltag</title>
 </programme>
 <programme start="20260307111000 +0000" stop="20260307113000 +0000" channel="Sky Sport Bundesliga 6 HD.skyde">
@@ -2725,13 +2731,13 @@ Warning: Undefined array key "et" in /usr/home/ManusiaBiasa/domains/manusiabiasa
 <programme start="20260307032500 +0000" stop="20260307043000 +0000" channel="Sky Sport F1 HD.skyde">
     <title>Live F2: 1. Rennen - GP Australien</title>
 </programme>
-<programme start="20260307043000 +0000" stop="20260307070000 +0000" channel="Sky Sport F1 HD.skyde">
+<programme start="20260307043000 +0000" stop="20260307063000 +0000" channel="Sky Sport F1 HD.skyde">
     <title>Live F1: Qualifying - GP Australien</title>
 </programme>
-<programme start="20260307070000 +0000" stop="20260307073000 +0000" channel="Sky Sport F1 HD.skyde">
+<programme start="20260307063000 +0000" stop="20260307070000 +0000" channel="Sky Sport F1 HD.skyde">
     <title>Live F1: Pressekonferenz Qualifying - GP Australien</title>
 </programme>
-<programme start="20260307073000 +0000" stop="20260307080000 +0000" channel="Sky Sport F1 HD.skyde">
+<programme start="20260307070000 +0000" stop="20260307080000 +0000" channel="Sky Sport F1 HD.skyde">
     <title>F2: 1. Rennen - GP Australien</title>
 </programme>
 <programme start="20260307080000 +0000" stop="20260307093000 +0000" channel="Sky Sport F1 HD.skyde">
@@ -3112,10 +3118,10 @@ Warning: Undefined array key "et" in /usr/home/ManusiaBiasa/domains/manusiabiasa
 <programme start="20260307032500 +0000" stop="20260307043000 +0000" channel="Sky Sport Top Event HD.skyde">
     <title>Live F2: 1. Rennen - GP Australien</title>
 </programme>
-<programme start="20260307043000 +0000" stop="20260307070000 +0000" channel="Sky Sport Top Event HD.skyde">
+<programme start="20260307043000 +0000" stop="20260307063000 +0000" channel="Sky Sport Top Event HD.skyde">
     <title>Live F1: Qualifying - GP Australien</title>
 </programme>
-<programme start="20260307070000 +0000" stop="20260307100000 +0000" channel="Sky Sport Top Event HD.skyde">
+<programme start="20260307063000 +0000" stop="20260307100000 +0000" channel="Sky Sport Top Event HD.skyde">
     <title>Live LIV Golf: Hongkong, 3. Tag in China</title>
 </programme>
 <programme start="20260307100000 +0000" stop="20260307113000 +0000" channel="Sky Sport Top Event HD.skyde">
@@ -3145,17 +3151,11 @@ Warning: Undefined array key "et" in /usr/home/ManusiaBiasa/domains/manusiabiasa
 <programme start="20260307001000 +0000" stop="20260307011500 +0000" channel="Sky Sport UHD.skyde">
     <title>Live F3: 1. Rennen - GP Australien</title>
 </programme>
-<programme start="20260307011500 +0000" stop="20260307030000 +0000" channel="Sky Sport UHD.skyde">
+<programme start="20260307011500 +0000" stop="20260307032500 +0000" channel="Sky Sport UHD.skyde">
     <title>Live F1: 3. Freies Training - GP Australien</title>
 </programme>
-<programme start="20260307030000 +0000" stop="20260307031000 +0000" channel="Sky Sport UHD.skyde">
-    <title>F1: Greatest Races: A. Prost / Australien 1986</title>
-</programme>
-<programme start="20260307031000 +0000" stop="20260307041000 +0000" channel="Sky Sport UHD.skyde">
+<programme start="20260307032500 +0000" stop="20260307043000 +0000" channel="Sky Sport UHD.skyde">
     <title>Live F2: 1. Rennen - GP Australien</title>
-</programme>
-<programme start="20260307041000 +0000" stop="20260307043000 +0000" channel="Sky Sport UHD.skyde">
-    <title>F1: Wildest Qualifying Moments of 2025</title>
 </programme>
 <programme start="20260307043000 +0000" stop="20260307063000 +0000" channel="Sky Sport UHD.skyde">
     <title>Live F1: Qualifying - GP Australien</title>
@@ -3181,13 +3181,13 @@ Warning: Undefined array key "et" in /usr/home/ManusiaBiasa/domains/manusiabiasa
 <programme start="20260307194000 +0000" stop="20260307200000 +0000" channel="Sky Sport 4 HD.skyde">
     <title>Es folgt: LIVE Indy Car</title>
 </programme>
-<programme start="20260307200000 +0000" stop="20260308000000 +0000" channel="Sky Sport 4 HD.skyde">
+<programme start="20260307200000 +0000" stop="20260307223000 +0000" channel="Sky Sport 4 HD.skyde">
     <title>Live IndyCar: Good Ranchers 250</title>
 </programme>
 <programme start="20260307184000 +0000" stop="20260307190000 +0000" channel="Sky Sport 8 HD.skyde">
     <title>Es folgt: LIVE Tennis WTA Tour</title>
 </programme>
-<programme start="20260307190000 +0000" stop="20260308090000 +0000" channel="Sky Sport 8 HD.skyde">
+<programme start="20260307190000 +0000" stop="20260308060000 +0000" channel="Sky Sport 8 HD.skyde">
     <title>Live WTA 1000: BNP Paribas Open in Indian Wells, Kalifornien (USA), 4. Tag</title>
 </programme>
 <programme start="20260306232000 +0000" stop="20260307000500 +0000" channel="SYFY HD.skyde">
