@@ -1312,10 +1312,10 @@ Warning: Undefined array key "et" in /usr/home/ManusiaBiasa/domains/manusiabiasa
 <programme start="20260307060500 +0000" stop="20260307063000 +0000" channel="Nick Jr..skyde">
     <title>Rubble &amp; Crew</title>
 </programme>
-<programme start="20260307063000 +0000" stop="20260307065000 +0000" channel="Nick Jr..skyde">
+<programme start="20260307063000 +0000" stop="20260307065500 +0000" channel="Nick Jr..skyde">
     <title>Paw Patrol: Helfer auf vier Pfoten</title>
 </programme>
-<programme start="20260307065000 +0000" stop="20260307071500 +0000" channel="Nick Jr..skyde">
+<programme start="20260307065500 +0000" stop="20260307071500 +0000" channel="Nick Jr..skyde">
     <title>Paw Patrol: Helfer auf vier Pfoten</title>
 </programme>
 <programme start="20260307071500 +0000" stop="20260307073500 +0000" channel="Nick Jr..skyde">
@@ -1384,16 +1384,16 @@ Warning: Undefined array key "et" in /usr/home/ManusiaBiasa/domains/manusiabiasa
 <programme start="20260307104500 +0000" stop="20260307111000 +0000" channel="Nick Jr..skyde">
     <title>Rubble &amp; Crew</title>
 </programme>
-<programme start="20260307111000 +0000" stop="20260307113000 +0000" channel="Nick Jr..skyde">
+<programme start="20260307111000 +0000" stop="20260307113500 +0000" channel="Nick Jr..skyde">
     <title>Rubble &amp; Crew</title>
 </programme>
-<programme start="20260307113000 +0000" stop="20260307115500 +0000" channel="Nick Jr..skyde">
+<programme start="20260307113500 +0000" stop="20260307115500 +0000" channel="Nick Jr..skyde">
     <title>Paw Patrol: Helfer auf vier Pfoten</title>
 </programme>
-<programme start="20260307115500 +0000" stop="20260307121500 +0000" channel="Nick Jr..skyde">
+<programme start="20260307115500 +0000" stop="20260307122000 +0000" channel="Nick Jr..skyde">
     <title>Paw Patrol: Helfer auf vier Pfoten</title>
 </programme>
-<programme start="20260307121500 +0000" stop="20260307124000 +0000" channel="Nick Jr..skyde">
+<programme start="20260307122000 +0000" stop="20260307124000 +0000" channel="Nick Jr..skyde">
     <title>BARBAPAPA und Familie</title>
 </programme>
 <programme start="20260307124000 +0000" stop="20260307130000 +0000" channel="Nick Jr..skyde">
@@ -1438,10 +1438,10 @@ Warning: Undefined array key "et" in /usr/home/ManusiaBiasa/domains/manusiabiasa
 <programme start="20260307154500 +0000" stop="20260307160000 +0000" channel="Nick Jr..skyde">
     <title>Paw Patrol: Helfer auf vier Pfoten</title>
 </programme>
-<programme start="20260307160000 +0000" stop="20260307162500 +0000" channel="Nick Jr..skyde">
+<programme start="20260307160000 +0000" stop="20260307162000 +0000" channel="Nick Jr..skyde">
     <title>Rubble &amp; Crew</title>
 </programme>
-<programme start="20260307162500 +0000" stop="20260307163500 +0000" channel="Nick Jr..skyde">
+<programme start="20260307162000 +0000" stop="20260307163500 +0000" channel="Nick Jr..skyde">
     <title>Rubble &amp; Crew</title>
 </programme>
 <programme start="20260307163500 +0000" stop="20260307165500 +0000" channel="Nick Jr..skyde">
@@ -1453,10 +1453,10 @@ Warning: Undefined array key "et" in /usr/home/ManusiaBiasa/domains/manusiabiasa
 <programme start="20260307172000 +0000" stop="20260307173000 +0000" channel="Nick Jr..skyde">
     <title>BARBAPAPA und Familie</title>
 </programme>
-<programme start="20260307173000 +0000" stop="20260307174000 +0000" channel="Nick Jr..skyde">
+<programme start="20260307173000 +0000" stop="20260307173500 +0000" channel="Nick Jr..skyde">
     <title>Tim Rex im All</title>
 </programme>
-<programme start="20260307174000 +0000" stop="20260307174500 +0000" channel="Nick Jr..skyde">
+<programme start="20260307173500 +0000" stop="20260307174500 +0000" channel="Nick Jr..skyde">
     <title>Tim Rex im All</title>
 </programme>
 <programme start="20260307174500 +0000" stop="20260307175000 +0000" channel="Nick Jr..skyde">
@@ -1507,10 +1507,10 @@ Warning: Undefined array key "et" in /usr/home/ManusiaBiasa/domains/manusiabiasa
 <programme start="20260307204500 +0000" stop="20260307210500 +0000" channel="Nick Jr..skyde">
     <title>DORA</title>
 </programme>
-<programme start="20260307210500 +0000" stop="20260307212500 +0000" channel="Nick Jr..skyde">
+<programme start="20260307210500 +0000" stop="20260307213000 +0000" channel="Nick Jr..skyde">
     <title>DORA</title>
 </programme>
-<programme start="20260307212500 +0000" stop="20260307215000 +0000" channel="Nick Jr..skyde">
+<programme start="20260307213000 +0000" stop="20260307215000 +0000" channel="Nick Jr..skyde">
     <title>BARBAPAPA und Familie</title>
 </programme>
 <programme start="20260307215000 +0000" stop="20260307221000 +0000" channel="Nick Jr..skyde">
@@ -1519,10 +1519,7 @@ Warning: Undefined array key "et" in /usr/home/ManusiaBiasa/domains/manusiabiasa
 <programme start="20260307221000 +0000" stop="20260307223500 +0000" channel="Nick Jr..skyde">
     <title>BARBAPAPA und Familie</title>
 </programme>
-<programme start="20260307223500 +0000" stop="20260307225500 +0000" channel="Nick Jr..skyde">
-    <title>BARBAPAPA und Familie</title>
-</programme>
-<programme start="20260307225500 +0000" stop="20260307232000 +0000" channel="Nick Jr..skyde">
+<programme start="20260307223500 +0000" stop="20260307230000 +0000" channel="Nick Jr..skyde">
     <title>BARBAPAPA und Familie</title>
 </programme>
 <programme start="20260306230500 +0000" stop="20260307003500 +0000" channel="Romance TV HD.skyde">
@@ -2635,7 +2632,7 @@ Warning: Undefined array key "et" in /usr/home/ManusiaBiasa/domains/manusiabiasa
 <programme start="20260307141500 +0000" stop="20260307164500 +0000" channel="Sky Sport Bundesliga 1 HD.skyde">
     <title>Live BL: VfL Wolfsburg - Hamburger SV, 25. Spieltag</title>
 </programme>
-<programme start="20260307164500 +0000" stop="20260307204500 +0000" channel="Sky Sport Bundesliga 1 HD.skyde">
+<programme start="20260307164500 +0000" stop="20260307201500 +0000" channel="Sky Sport Bundesliga 1 HD.skyde">
     <title>Live BL: 1. FC Köln - Borussia Dortmund, tipico Topspiel der Woche, 25. Spieltag</title>
 </programme>
 <programme start="20260307111000 +0000" stop="20260307113000 +0000" channel="Sky Sport Bundesliga 2 HD.skyde">
@@ -2686,7 +2683,7 @@ Warning: Undefined array key "et" in /usr/home/ManusiaBiasa/domains/manusiabiasa
 <programme start="20260307140000 +0000" stop="20260307141500 +0000" channel="Sky Sport Bundesliga 4 HD.skyde">
     <title>Live BL: M05 - VFB: tipico Countdown, 25. Spieltag</title>
 </programme>
-<programme start="20260307141500 +0000" stop="20260307171500 +0000" channel="Sky Sport Bundesliga 4 HD.skyde">
+<programme start="20260307141500 +0000" stop="20260307164500 +0000" channel="Sky Sport Bundesliga 4 HD.skyde">
     <title>Live BL: 1. FSV Mainz 05 - VfB Stuttgart, 25. Spieltag</title>
 </programme>
 <programme start="20260307111000 +0000" stop="20260307113000 +0000" channel="Sky Sport Bundesliga 5 HD.skyde">
@@ -2698,7 +2695,7 @@ Warning: Undefined array key "et" in /usr/home/ManusiaBiasa/domains/manusiabiasa
 <programme start="20260307140000 +0000" stop="20260307141500 +0000" channel="Sky Sport Bundesliga 5 HD.skyde">
     <title>Live BL: FCH - TSG: tipico Countdown, 25. Spieltag</title>
 </programme>
-<programme start="20260307141500 +0000" stop="20260307171500 +0000" channel="Sky Sport Bundesliga 5 HD.skyde">
+<programme start="20260307141500 +0000" stop="20260307164500 +0000" channel="Sky Sport Bundesliga 5 HD.skyde">
     <title>Live BL: 1. FC Heidenheim - TSG Hoffenheim, 25. Spieltag</title>
 </programme>
 <programme start="20260307111000 +0000" stop="20260307113000 +0000" channel="Sky Sport Bundesliga 6 HD.skyde">
@@ -2707,7 +2704,7 @@ Warning: Undefined array key "et" in /usr/home/ManusiaBiasa/domains/manusiabiasa
 <programme start="20260307113000 +0000" stop="20260307140000 +0000" channel="Sky Sport Bundesliga 6 HD.skyde">
     <title>Live 2. BL: Multiview 25. Spieltag, Samstag</title>
 </programme>
-<programme start="20260307140000 +0000" stop="20260307171500 +0000" channel="Sky Sport Bundesliga 6 HD.skyde">
+<programme start="20260307140000 +0000" stop="20260307164500 +0000" channel="Sky Sport Bundesliga 6 HD.skyde">
     <title>Live BL: Multiview 25. Spieltag</title>
 </programme>
 <programme start="20260307111000 +0000" stop="20260307113000 +0000" channel="Sky Sport Bundesliga 7 HD.skyde">
@@ -2716,16 +2713,16 @@ Warning: Undefined array key "et" in /usr/home/ManusiaBiasa/domains/manusiabiasa
 <programme start="20260307113000 +0000" stop="20260307140000 +0000" channel="Sky Sport Bundesliga 7 HD.skyde">
     <title>Live 2. BL: Samstags-Konferenz, 25. Spieltag</title>
 </programme>
-<programme start="20260307140000 +0000" stop="20260307151500 +0000" channel="Sky Sport Bundesliga 7 HD.skyde">
+<programme start="20260307140000 +0000" stop="20260307144500 +0000" channel="Sky Sport Bundesliga 7 HD.skyde">
     <title>Live 2. BL Alle Spiele, alle Tore: Die Vodafone Highlight-Show, 25. Spieltag, Samstag</title>
 </programme>
-<programme start="20260306230500 +0000" stop="20260306233000 +0000" channel="Sky Sport F1 HD.skyde">
+<programme start="20260306230000 +0000" stop="20260306233000 +0000" channel="Sky Sport F1 HD.skyde">
     <title>F1: Warm Up Spezial - Der F1-Saisonstart</title>
 </programme>
-<programme start="20260306233000 +0000" stop="20260307001000 +0000" channel="Sky Sport F1 HD.skyde">
+<programme start="20260306233000 +0000" stop="20260307001500 +0000" channel="Sky Sport F1 HD.skyde">
     <title>F1: Iconic Onboards: Lando Norris</title>
 </programme>
-<programme start="20260307001000 +0000" stop="20260307011500 +0000" channel="Sky Sport F1 HD.skyde">
+<programme start="20260307001500 +0000" stop="20260307011500 +0000" channel="Sky Sport F1 HD.skyde">
     <title>Live F3: 1. Rennen - GP Australien</title>
 </programme>
 <programme start="20260307011500 +0000" stop="20260307030000 +0000" channel="Sky Sport F1 HD.skyde">
@@ -3101,19 +3098,19 @@ Warning: Undefined array key "et" in /usr/home/ManusiaBiasa/domains/manusiabiasa
     <title>WTA 500: C. Bucsa (ESP) - M. Frech (POL), Merida Open in Merida (MEX), Finale</title>
 </programme>
 <programme start="20260307083000 +0000" stop="20260307103000 +0000" channel="Sky Sport Tennis HD.skyde">
-    <title>WTA 1000: A. Sabalenka - H. Sakatsume (JPN), BNP Paribas Open in Indian Wells, Kalifornien (USA), 3. Tag</title>
+    <title>WTA 1000: Topspiel, BNP Paribas Open in Indian Wells, Kalifornien (USA), 3. Tag</title>
 </programme>
 <programme start="20260307103000 +0000" stop="20260307123000 +0000" channel="Sky Sport Tennis HD.skyde">
-    <title>ATP 1000: A. Zverev (GER) - M. Berrettini (ITA), BNP Paribas Open in Indian Wells, Kalifornien (USA), 3. Tag</title>
+    <title>ATP 1000: Topspiel, BNP Paribas Open in Indian Wells, Kalifornien (USA), 3. Tag</title>
 </programme>
 <programme start="20260307123000 +0000" stop="20260307150000 +0000" channel="Sky Sport Tennis HD.skyde">
     <title>WTA 500: C. Bucsa (ESP) - M. Frech (POL), Merida Open in Merida (MEX), Finale</title>
 </programme>
 <programme start="20260307150000 +0000" stop="20260307170000 +0000" channel="Sky Sport Tennis HD.skyde">
-    <title>WTA 1000: A. Sabalenka - H. Sakatsume (JPN), BNP Paribas Open in Indian Wells, Kalifornien (USA), 3. Tag</title>
+    <title>WTA 1000: Topspiel, BNP Paribas Open in Indian Wells, Kalifornien (USA), 3. Tag</title>
 </programme>
 <programme start="20260307170000 +0000" stop="20260307190000 +0000" channel="Sky Sport Tennis HD.skyde">
-    <title>ATP 1000: A. Zverev (GER) - M. Berrettini (ITA), BNP Paribas Open in Indian Wells, Kalifornien (USA), 3. Tag</title>
+    <title>ATP 1000: Topspiel, BNP Paribas Open in Indian Wells, Kalifornien (USA), 3. Tag</title>
 </programme>
 <programme start="20260307190000 +0000" stop="20260308060000 +0000" channel="Sky Sport Tennis HD.skyde">
     <title>Live ATP &amp; WTA: Konferenz BNP Paribas Open in Indian Wells, Kalifornien (USA), 4. Tag</title>
@@ -3202,7 +3199,7 @@ Warning: Undefined array key "et" in /usr/home/ManusiaBiasa/domains/manusiabiasa
 <programme start="20260307194000 +0000" stop="20260307200000 +0000" channel="Sky Sport 4 HD.skyde">
     <title>Es folgt: LIVE Indy Car</title>
 </programme>
-<programme start="20260307200000 +0000" stop="20260308000000 +0000" channel="Sky Sport 4 HD.skyde">
+<programme start="20260307200000 +0000" stop="20260307223000 +0000" channel="Sky Sport 4 HD.skyde">
     <title>Live IndyCar: Good Ranchers 250</title>
 </programme>
 <programme start="20260307184000 +0000" stop="20260307190000 +0000" channel="Sky Sport 8 HD.skyde">
@@ -3739,12 +3736,12 @@ Warning: Undefined array key "et" in /usr/home/ManusiaBiasa/domains/manusiabiasa
 <programme start="20260307191500 +0000" stop="20260307210000 +0000" channel="Warner TV Serie HD.skyde">
     <title>Edge of Tomorrow - Live. Die. Repeat</title>
 </programme>
-<programme start="20260307210000 +0000" stop="20260307214500 +0000" channel="Warner TV Serie HD.skyde">
+<programme start="20260307210000 +0000" stop="20260307215000 +0000" channel="Warner TV Serie HD.skyde">
     <title>SEAL Team</title>
 </programme>
-<programme start="20260307214500 +0000" stop="20260307223500 +0000" channel="Warner TV Serie HD.skyde">
+<programme start="20260307215000 +0000" stop="20260307224000 +0000" channel="Warner TV Serie HD.skyde">
     <title>SEAL Team</title>
 </programme>
-<programme start="20260307223500 +0000" stop="20260308002500 +0000" channel="Warner TV Serie HD.skyde">
+<programme start="20260307224000 +0000" stop="20260308002500 +0000" channel="Warner TV Serie HD.skyde">
     <title>Edge of Tomorrow - Live. Die. Repeat</title>
 </programme>

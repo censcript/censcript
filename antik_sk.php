@@ -14995,11 +14995,11 @@
   <programme start="20260309220000 +0000" stop="20260310041000 +0000" channel="Life TV.webtv.sk">
     <title lang="id">Program z Domu modlitieb a chvál v Kansas City</title>
   </programme>
-  <programme start="20260308224500 +0000" stop="20260309001300 +0000" channel="TV Zemplín.webtv.sk">
+  <programme start="20260308223600 +0000" stop="20260309000400 +0000" channel="TV Zemplín.webtv.sk">
     <title lang="id">Záznam z rokovania zastupiteľstva KSK - 15.12.2025</title>
   </programme>
-  <programme start="20260309001300 +0000" stop="20260309032200 +0000" channel="TV Zemplín.webtv.sk">
-    <title lang="id">Záznam z rokovania zastupiteľstva PSK - 8.12.2025</title>
+  <programme start="20260309000400 +0000" stop="20260309031900 +0000" channel="TV Zemplín.webtv.sk">
+    <title lang="id">Záznam z rokovania zastupiteľstva PSK - 9.2.2026</title>
   </programme>
   <programme start="20260309040000 +0000" stop="20260309041000 +0000" channel="TV Zemplín.webtv.sk">
     <title lang="id">Otcovia púšte</title>
@@ -16669,10 +16669,10 @@
   <programme start="20260309105500 +0000" stop="20260309120000 +0000" channel="TVP Info.webtv.sk">
     <title lang="id">Za piec dwunasta</title>
   </programme>
-  <programme start="20260309120000 +0000" stop="20260309122200 +0000" channel="TVP Info.webtv.sk">
+  <programme start="20260309120000 +0000" stop="20260309122100 +0000" channel="TVP Info.webtv.sk">
     <title lang="id">Serwis Info Dzien</title>
   </programme>
-  <programme start="20260309122200 +0000" stop="20260309123000 +0000" channel="TVP Info.webtv.sk">
+  <programme start="20260309122100 +0000" stop="20260309123000 +0000" channel="TVP Info.webtv.sk">
     <title lang="id">Pogoda Info</title>
   </programme>
   <programme start="20260309123000 +0000" stop="20260309130000 +0000" channel="TVP Info.webtv.sk">
@@ -16889,16 +16889,16 @@
     <title lang="id">Європейці з Лесею Вакулюк</title>
   </programme>
   <programme start="20260308230000 +0000" stop="20260308233000 +0000" channel="Current Time.webtv.sk">
-    <title lang="id">Признаки жизни</title>
+    <title lang="id">Признаки жизни: Королева электробригады</title>
   </programme>
   <programme start="20260308233000 +0000" stop="20260309000000 +0000" channel="Current Time.webtv.sk">
-    <title lang="id">Спецпроект.Док</title>
+    <title lang="id">С нуля: Гейл Дороти</title>
   </programme>
   <programme start="20260309000000 +0000" stop="20260309010000 +0000" channel="Current Time.webtv.sk">
     <title lang="id">Археология</title>
   </programme>
   <programme start="20260309010000 +0000" stop="20260309013000 +0000" channel="Current Time.webtv.sk">
-    <title lang="id">Ждем в гости</title>
+    <title lang="id">Ждем в гости: Сделано в Батуми</title>
   </programme>
   <programme start="20260309013000 +0000" stop="20260309020000 +0000" channel="Current Time.webtv.sk">
     <title lang="id">DW. Искусство в деталях</title>
@@ -16907,13 +16907,13 @@
     <title lang="id">Pеальное кино: Хозяин оленей</title>
   </programme>
   <programme start="20260309040000 +0000" stop="20260309043000 +0000" channel="Current Time.webtv.sk">
-    <title lang="id">Признаки жизни</title>
+    <title lang="id">Признаки жизни: Королева электробригады</title>
   </programme>
   <programme start="20260309043000 +0000" stop="20260309050000 +0000" channel="Current Time.webtv.sk">
-    <title lang="id">Спецпроект.Док</title>
+    <title lang="id">С нуля: Гейл Дороти</title>
   </programme>
   <programme start="20260309050000 +0000" stop="20260309053000 +0000" channel="Current Time.webtv.sk">
-    <title lang="id">Америка. Большое путешествие</title>
+    <title lang="id">Америка. Большое путешествие: Филадельфия</title>
   </programme>
   <programme start="20260309053000 +0000" stop="20260309060000 +0000" channel="Current Time.webtv.sk">
     <title lang="id">Нью-Йорк, New York</title>
@@ -16928,7 +16928,7 @@
     <title lang="id">Утро</title>
   </programme>
   <programme start="20260309093000 +0000" stop="20260309100000 +0000" channel="Current Time.webtv.sk">
-    <title lang="id">Признаки жизни</title>
+    <title lang="id">Признаки жизни: Королева электробригады</title>
   </programme>
   <programme start="20260309100000 +0000" stop="20260309103000 +0000" channel="Current Time.webtv.sk">
     <title lang="id">Ждем в гости: Сделано в Батуми</title>
@@ -16946,7 +16946,7 @@
     <title lang="id">Азия</title>
   </programme>
   <programme start="20260309133000 +0000" stop="20260309140000 +0000" channel="Current Time.webtv.sk">
-    <title lang="id">Спецпроект.Док</title>
+    <title lang="id">С нуля: Гейл Дороти</title>
   </programme>
   <programme start="20260309140000 +0000" stop="20260309160000 +0000" channel="Current Time.webtv.sk">
     <title lang="id">Pеальное кино: Хозяин оленей</title>
@@ -17417,7 +17417,7 @@
     <title lang="id">NHK NEWSLINE</title>
   </programme>
   <programme start="20260309021000 +0000" stop="20260309025900 +0000" channel="NHK World Japan.webtv.sk">
-    <title lang="id">NHK Documentary</title>
+    <title lang="id">The Wind Phone</title>
   </programme>
   <programme start="20260309025900 +0000" stop="20260309030000 +0000" channel="NHK World Japan.webtv.sk">
     <title lang="id">INFO</title>
@@ -19754,7 +19754,7 @@
     <title lang="id">Námořní hlídka (47)</title>
   </programme>
   <programme start="20260309155500 +0000" stop="20260309162500 +0000" channel="Relax.webtv.sk">
-    <title lang="id">Paní domu (10)</title>
+    <title lang="id">Paní domu</title>
   </programme>
   <programme start="20260309162500 +0000" stop="20260309165500 +0000" channel="Relax.webtv.sk">
     <title lang="id">Užasné zahrady (1)</title>

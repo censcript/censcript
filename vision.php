@@ -859,14 +859,8 @@
 <programme start="20260306233000 +0000" stop="20260307010000 +0000" channel="TVOne.vision">
 <title>Apa Kabar Indonesia Pagi (L)</title>
 </programme>
-<programme start="20260307020000 +0000" stop="20260307023000 +0000" channel="TVOne.vision">
-<title>Pesona Nusantara</title>
-</programme>
 <programme start="20260307023000 +0000" stop="20260307030000 +0000" channel="TVOne.vision">
 <title>Xpose</title>
-</programme>
-<programme start="20260307030000 +0000" stop="20260307033000 +0000" channel="TVOne.vision">
-<title>Bukan Jalan-Jalan Biasa</title>
 </programme>
 <programme start="20260307033000 +0000" stop="20260307040000 +0000" channel="TVOne.vision">
 <title>Jajago</title>
@@ -1497,4 +1491,10 @@
 </programme>
 <programme start="20260307083000 +0000" stop="20260307090000 +0000" channel="BTV.vision">
 <title>Berita Kriminal</title>
+</programme>
+<programme start="20260307090000 +0000" stop="20260307100400 +0000" channel="BTV.vision">
+<title>Berita Satu Sore (L)</title>
+</programme>
+<programme start="20260307100400 +0000" stop="20260307110000 +0000" channel="BTV.vision">
+<title>Jalan Dakwah Ramadan</title>
 </programme>

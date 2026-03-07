@@ -4150,11 +4150,11 @@
     <programme start="20260307090000 +0000" stop="20260307100000 +0000" channel="Hub Sports 3 HD.starhub">
         <title>105th New Zealand Open presented by Millbrook Resort</title>
     </programme>
-    <programme start="20260307100000 +0000" stop="20260307143000 +0000" channel="Hub Sports 3 HD.starhub">
-        <title>Joburg Open Day 3</title>
-    </programme>
-    <programme start="20260307143000 +0000" stop="20260307153000 +0000" channel="Hub Sports 3 HD.starhub">
+    <programme start="20260307100000 +0000" stop="20260307110000 +0000" channel="Hub Sports 3 HD.starhub">
         <title>Cognizant Classic in The Palm Beaches</title>
+    </programme>
+    <programme start="20260307110000 +0000" stop="20260307153000 +0000" channel="Hub Sports 3 HD.starhub">
+        <title>Joburg Open Day 3</title>
     </programme>
     <programme start="20260307153000 +0000" stop="20260307160000 +0000" channel="Hub Sports 3 HD.starhub">
         <title>Investec South African Open Championship</title>
