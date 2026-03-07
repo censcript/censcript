@@ -2656,7 +2656,7 @@ Warning: Undefined array key "et" in /usr/home/ManusiaBiasa/domains/manusiabiasa
 <programme start="20260307190000 +0000" stop="20260307220000 +0000" channel="Sky Sport Bundesliga 2 HD.skyde">
     <title>Live 2. BL: VfL Bochum - 1. FC Kaiserslautern, tipico Topspiel der Woche, 25. Spieltag</title>
 </programme>
-<programme start="20260307220000 +0000" stop="20260307230000 +0000" channel="Sky Sport Bundesliga 2 HD.skyde">
+<programme start="20260307220000 +0000" stop="20260307233000 +0000" channel="Sky Sport Bundesliga 2 HD.skyde">
     <title>2. BL Alle Spiele, alle Tore: Die Vodafone Highlight-Show, 25. Spieltag, Samstag komplett</title>
 </programme>
 <programme start="20260307111000 +0000" stop="20260307113000 +0000" channel="Sky Sport Bundesliga 3 HD.skyde">
@@ -2671,7 +2671,7 @@ Warning: Undefined array key "et" in /usr/home/ManusiaBiasa/domains/manusiabiasa
 <programme start="20260307141500 +0000" stop="20260307164500 +0000" channel="Sky Sport Bundesliga 3 HD.skyde">
     <title>Live BL: RB Leipzig - FC Augsburg, 25. Spieltag</title>
 </programme>
-<programme start="20260307164500 +0000" stop="20260307201500 +0000" channel="Sky Sport Bundesliga 3 HD.skyde">
+<programme start="20260307164500 +0000" stop="20260307204500 +0000" channel="Sky Sport Bundesliga 3 HD.skyde">
     <title>Live BL: Tactical Feed: KOE - BVB, 25. Spieltag</title>
 </programme>
 <programme start="20260307111000 +0000" stop="20260307113000 +0000" channel="Sky Sport Bundesliga 4 HD.skyde">
@@ -2704,7 +2704,7 @@ Warning: Undefined array key "et" in /usr/home/ManusiaBiasa/domains/manusiabiasa
 <programme start="20260307113000 +0000" stop="20260307140000 +0000" channel="Sky Sport Bundesliga 6 HD.skyde">
     <title>Live 2. BL: Multiview 25. Spieltag, Samstag</title>
 </programme>
-<programme start="20260307140000 +0000" stop="20260307164500 +0000" channel="Sky Sport Bundesliga 6 HD.skyde">
+<programme start="20260307140000 +0000" stop="20260307171500 +0000" channel="Sky Sport Bundesliga 6 HD.skyde">
     <title>Live BL: Multiview 25. Spieltag</title>
 </programme>
 <programme start="20260307111000 +0000" stop="20260307113000 +0000" channel="Sky Sport Bundesliga 7 HD.skyde">
@@ -2713,7 +2713,7 @@ Warning: Undefined array key "et" in /usr/home/ManusiaBiasa/domains/manusiabiasa
 <programme start="20260307113000 +0000" stop="20260307140000 +0000" channel="Sky Sport Bundesliga 7 HD.skyde">
     <title>Live 2. BL: Samstags-Konferenz, 25. Spieltag</title>
 </programme>
-<programme start="20260307140000 +0000" stop="20260307144500 +0000" channel="Sky Sport Bundesliga 7 HD.skyde">
+<programme start="20260307140000 +0000" stop="20260307151500 +0000" channel="Sky Sport Bundesliga 7 HD.skyde">
     <title>Live 2. BL Alle Spiele, alle Tore: Die Vodafone Highlight-Show, 25. Spieltag, Samstag</title>
 </programme>
 <programme start="20260306230500 +0000" stop="20260306233000 +0000" channel="Sky Sport F1 HD.skyde">
@@ -3112,16 +3112,13 @@ Warning: Undefined array key "et" in /usr/home/ManusiaBiasa/domains/manusiabiasa
 <programme start="20260307190000 +0000" stop="20260308060000 +0000" channel="Sky Sport Tennis HD.skyde">
     <title>Live ATP &amp; WTA: Konferenz BNP Paribas Open in Indian Wells, Kalifornien (USA), 4. Tag</title>
 </programme>
-<programme start="20260307001500 +0000" stop="20260307011500 +0000" channel="Sky Sport Top Event HD.skyde">
+<programme start="20260307001000 +0000" stop="20260307011500 +0000" channel="Sky Sport Top Event HD.skyde">
     <title>Live F3: 1. Rennen - GP Australien</title>
 </programme>
-<programme start="20260307011500 +0000" stop="20260307030000 +0000" channel="Sky Sport Top Event HD.skyde">
+<programme start="20260307011500 +0000" stop="20260307032500 +0000" channel="Sky Sport Top Event HD.skyde">
     <title>Live F1: 3. Freies Training - GP Australien</title>
 </programme>
-<programme start="20260307030000 +0000" stop="20260307031000 +0000" channel="Sky Sport Top Event HD.skyde">
-    <title>F1: Greatest Races: A. Prost / Australien 1986</title>
-</programme>
-<programme start="20260307031000 +0000" stop="20260307041000 +0000" channel="Sky Sport Top Event HD.skyde">
+<programme start="20260307032500 +0000" stop="20260307041000 +0000" channel="Sky Sport Top Event HD.skyde">
     <title>Live F2: 1. Rennen - GP Australien</title>
 </programme>
 <programme start="20260307041000 +0000" stop="20260307043000 +0000" channel="Sky Sport Top Event HD.skyde">
@@ -3163,11 +3160,8 @@ Warning: Undefined array key "et" in /usr/home/ManusiaBiasa/domains/manusiabiasa
 <programme start="20260307011500 +0000" stop="20260307032500 +0000" channel="Sky Sport UHD.skyde">
     <title>Live F1: 3. Freies Training - GP Australien</title>
 </programme>
-<programme start="20260307032500 +0000" stop="20260307041000 +0000" channel="Sky Sport UHD.skyde">
+<programme start="20260307032500 +0000" stop="20260307043000 +0000" channel="Sky Sport UHD.skyde">
     <title>Live F2: 1. Rennen - GP Australien</title>
-</programme>
-<programme start="20260307041000 +0000" stop="20260307043000 +0000" channel="Sky Sport UHD.skyde">
-    <title>F1: Wildest Qualifying Moments of 2025</title>
 </programme>
 <programme start="20260307043000 +0000" stop="20260307063000 +0000" channel="Sky Sport UHD.skyde">
     <title>Live F1: Qualifying - GP Australien</title>
