@@ -2068,14 +2068,26 @@
     <programme start="20260306200000 +0000" stop="20260306220000 +0000" channel="KTV HD.starhub">
         <title>Information Not Available</title>
     </programme>
-    <programme start="20260306220000 +0000" stop="20260307040000 +0000" channel="KTV HD.starhub">
-        <title>Information Not Available</title>
+    <programme start="20260306223000 +0000" stop="20260307010000 +0000" channel="KTV HD.starhub">
+        <title>Movie - Vaalibha Vilayattu</title>
     </programme>
-    <programme start="20260307040000 +0000" stop="20260307100000 +0000" channel="KTV HD.starhub">
-        <title>Information Not Available</title>
+    <programme start="20260307010000 +0000" stop="20260307013000 +0000" channel="KTV HD.starhub">
+        <title>Fillers</title>
     </programme>
-    <programme start="20260307100000 +0000" stop="20260307160000 +0000" channel="KTV HD.starhub">
-        <title>Information Not Available</title>
+    <programme start="20260307013000 +0000" stop="20260307043000 +0000" channel="KTV HD.starhub">
+        <title>Movie - Idhu Enna Maayam</title>
+    </programme>
+    <programme start="20260307043000 +0000" stop="20260307073000 +0000" channel="KTV HD.starhub">
+        <title>Movie - Aanai</title>
+    </programme>
+    <programme start="20260307073000 +0000" stop="20260307103000 +0000" channel="KTV HD.starhub">
+        <title>Movie - Nallavanukku Nallavan</title>
+    </programme>
+    <programme start="20260307103000 +0000" stop="20260307133000 +0000" channel="KTV HD.starhub">
+        <title>Movie - Thoranai</title>
+    </programme>
+    <programme start="20260307133000 +0000" stop="20260307170000 +0000" channel="KTV HD.starhub">
+        <title>Movie - Veeram</title>
     </programme>
     <programme start="20260306160000 +0000" stop="20260306170000 +0000" channel="beIN Sports 2 HD.starhub">
         <title>Premier Padel 2026: Gijon P2 Day 4 QF Match 5 (Live)</title>
