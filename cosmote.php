@@ -1,7 +1,3 @@
-<programme start="20260307082000 +0700" stop="20260307110500 +0700" channel="COSMOTE Sport 1 HD">
-    <title>Football: ACF Fiorentina - Jagiellonia</title>
-    <desc>Live: Tidak</desc>
-</programme>
 <programme start="20260307110500 +0700" stop="20260307130000 +0700" channel="COSMOTE Sport 1 HD">
     <title>Football: AZ Alkmaar - Noah</title>
     <desc>Live: Tidak</desc>
@@ -74,10 +70,6 @@
     <title>Football: Lech Poznan - KuPS Kuopio</title>
     <desc>Live: Tidak</desc>
 </programme>
-<programme start="20260307095000 +0700" stop="20260307120000 +0700" channel="COSMOTE Sport 2 HD">
-    <title>Football: Panathinaikos - OFI</title>
-    <desc>Live: Tidak</desc>
-</programme>
 <programme start="20260307120000 +0700" stop="20260307141000 +0700" channel="COSMOTE Sport 2 HD">
     <title>Football: Kifisia - PAOK</title>
     <desc>Live: Tidak</desc>
@@ -140,6 +132,10 @@
 </programme>
 <programme start="20260308100000 +0700" stop="20260308120000 +0700" channel="COSMOTE Sport 2 HD">
     <title>Football: Atalanta - Udinese</title>
+    <desc>Live: Tidak</desc>
+</programme>
+<programme start="20260308120000 +0700" stop="20260308140000 +0700" channel="COSMOTE Sport 2 HD">
+    <title>Football: Cagliari - Como</title>
     <desc>Live: Tidak</desc>
 </programme>
 <programme start="20260307110000 +0700" stop="20260307125500 +0700" channel="COSMOTE Sport 3 HD">
@@ -388,6 +384,14 @@
 </programme>
 <programme start="20260308110000 +0700" stop="20260308121000 +0700" channel="COSMOTE Sport 5 HD">
     <title>2026 Grand Prix Show</title>
+    <desc>Live: Tidak</desc>
+</programme>
+<programme start="20260308121000 +0700" stop="20260308125000 +0700" channel="COSMOTE Sport 5 HD">
+    <title>WRC: More Than Machine S2 E1</title>
+    <desc>Live: Tidak</desc>
+</programme>
+<programme start="20260308125000 +0700" stop="20260308133500 +0700" channel="COSMOTE Sport 5 HD">
+    <title>WRC: More Than Machine S2 E2</title>
     <desc>Live: Tidak</desc>
 </programme>
 <programme start="20260307100000 +0700" stop="20260307130000 +0700" channel="COSMOTE Sport 6 HD">

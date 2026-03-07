@@ -574,9 +574,6 @@
 <programme start="20260307033000 +0000" stop="20260307041500 +0000" channel="Trans 7.vision">
 <title>Bikin Seneng</title>
 </programme>
-<programme start="20260307041500 +0000" stop="20260307050000 +0000" channel="Trans 7.vision">
-<title>Cuan Bos</title>
-</programme>
 <programme start="20260307050000 +0000" stop="20260307054500 +0000" channel="Trans 7.vision">
 <title>Gen Bintang</title>
 </programme>
@@ -1497,4 +1494,7 @@
 </programme>
 <programme start="20260307100400 +0000" stop="20260307110000 +0000" channel="BTV.vision">
 <title>Jalan Dakwah Ramadan</title>
+</programme>
+<programme start="20260307110000 +0000" stop="20260307110700 +0000" channel="BTV.vision">
+<title>Kultum</title>
 </programme>
