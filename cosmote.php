@@ -70,13 +70,9 @@
     <title>Football: Volos NPS - OFI (L)</title>
     <desc>Live: Ya</desc>
 </programme>
-<programme start="20260307230000 +0700" stop="20260307233000 +0700" channel="COSMOTE Sport 2 HD">
-    <title>Sports Classics: My Sporting Moment</title>
-    <desc>Live: Tidak</desc>
-</programme>
-<programme start="20260307233000 +0700" stop="20260308000000 +0700" channel="COSMOTE Sport 2 HD">
-    <title>Sports Classics: My Sporting Moment</title>
-    <desc>Live: Tidak</desc>
+<programme start="20260309001000 +0700" stop="20260309020000 +0700" channel="COSMOTE Sport 1 HD">
+    <title>Sportshow (L)</title>
+    <desc>Live: Ya</desc>
 </programme>
 <programme start="20260308000000 +0700" stop="20260308020000 +0700" channel="COSMOTE Sport 2 HD">
     <title>Football: Atalanta - Udinese (L)</title>
@@ -145,6 +141,10 @@
 <programme start="20260308233000 +0700" stop="20260309000000 +0700" channel="COSMOTE Sport 2 HD">
     <title>Sports Classics: My Sporting Moment</title>
     <desc>Live: Tidak</desc>
+</programme>
+<programme start="20260309000000 +0700" stop="20260309020000 +0700" channel="COSMOTE Sport 2 HD">
+    <title>Football: Genoa - AS Roma (L)</title>
+    <desc>Live: Ya</desc>
 </programme>
 <programme start="20260307221500 +0700" stop="20260308001500 +0700" channel="COSMOTE Sport 3 HD">
     <title>Football: Al Ahli - Al Ittihad</title>
@@ -298,12 +298,12 @@
     <title>Basketball: Oklahoma City Thunder - Golden State Warriors</title>
     <desc>Live: Tidak</desc>
 </programme>
-<programme start="20260307224500 +0700" stop="20260307231500 +0700" channel="COSMOTE Sport 5 HD">
-    <title>Extreme E - Highlights 2025</title>
+<programme start="20260309001000 +0700" stop="20260309003000 +0700" channel="COSMOTE Sport 4 HD">
+    <title>ACB Liga Endesa 2025-26 - Fifth Quarter E20</title>
     <desc>Live: Tidak</desc>
 </programme>
-<programme start="20260307231500 +0700" stop="20260307234500 +0700" channel="COSMOTE Sport 5 HD">
-    <title>WRC Magazine 2025</title>
+<programme start="20260309003000 +0700" stop="20260309023000 +0700" channel="COSMOTE Sport 4 HD">
+    <title>Basketball: Napoli - Virtus Bologna</title>
     <desc>Live: Tidak</desc>
 </programme>
 <programme start="20260307234500 +0700" stop="20260308010500 +0700" channel="COSMOTE Sport 5 HD">
@@ -409,6 +409,10 @@
 <programme start="20260308231000 +0700" stop="20260309000000 +0700" channel="COSMOTE Sport 5 HD">
     <title>WRC: More Than Machine S2 E5</title>
     <desc>Live: Tidak</desc>
+</programme>
+<programme start="20260309000000 +0700" stop="20260309030000 +0700" channel="COSMOTE Sport 5 HD">
+    <title>Basketball: Cleveland Cavaliers - Boston Celtics (L)</title>
+    <desc>Live: Ya</desc>
 </programme>
 <programme start="20260307220000 +0700" stop="20260308020000 +0700" channel="COSMOTE Sport 6 HD">
     <title>Tennis: ATP Masters 1000 2026</title>
@@ -598,6 +602,10 @@
     <title>COSMOTESport8HD</title>
     <desc>Live: Tidak</desc>
 </programme>
+<programme start="20260309003000 +0700" stop="20260309010000 +0700" channel="COSMOTE Sport 8 HD">
+    <title>COSMOTESport8HD</title>
+    <desc>Live: Tidak</desc>
+</programme>
 <programme start="20260307230000 +0700" stop="20260308010000 +0700" channel="COSMOTE Sport 9 HD">
     <title>COSMOTESport9HD</title>
     <desc>Live: Tidak</desc>
@@ -677,5 +685,13 @@
 <programme start="20260308220000 +0700" stop="20260309000000 +0700" channel="COSMOTE Sport 9 HD">
     <title>Football: APOEL - Anorthosis Famagusta (L)</title>
     <desc>Live: Ya</desc>
+</programme>
+<programme start="20260309000000 +0700" stop="20260309003000 +0700" channel="COSMOTE Sport 9 HD">
+    <title>COSMOTESport9HD</title>
+    <desc>Live: Tidak</desc>
+</programme>
+<programme start="20260309003000 +0700" stop="20260309010000 +0700" channel="COSMOTE Sport 9 HD">
+    <title>COSMOTESport9HD</title>
+    <desc>Live: Tidak</desc>
 </programme>
 No EPG found for COSMOTE Sport 10 HD
