@@ -1,7 +1,3 @@
-<programme start="20260307210000 +0700" stop="20260307220000 +0700" channel="COSMOTE Sport 1 HD">
-    <title>UEL &amp; UECL Magazine 2024-25 E14</title>
-    <desc>Live: Tidak</desc>
-</programme>
 <programme start="20260307220000 +0700" stop="20260307230000 +0700" channel="COSMOTE Sport 1 HD">
     <title>PreGame (L)</title>
     <desc>Live: Ya</desc>
@@ -72,6 +68,10 @@
 </programme>
 <programme start="20260308213000 +0700" stop="20260308220000 +0700" channel="COSMOTE Sport 1 HD">
     <title>PreGame (L)</title>
+    <desc>Live: Ya</desc>
+</programme>
+<programme start="20260308220000 +0700" stop="20260309001000 +0700" channel="COSMOTE Sport 1 HD">
+    <title>Football: Volos NPS - OFI (L)</title>
     <desc>Live: Ya</desc>
 </programme>
 <programme start="20260307210000 +0700" stop="20260307230000 +0700" channel="COSMOTE Sport 2 HD">
@@ -145,14 +145,6 @@
 <programme start="20260308210000 +0700" stop="20260308230000 +0700" channel="COSMOTE Sport 2 HD">
     <title>Football: ACF Fiorentina - Parma (L)</title>
     <desc>Live: Ya</desc>
-</programme>
-<programme start="20260307191500 +0700" stop="20260307211500 +0700" channel="COSMOTE Sport 3 HD">
-    <title>Football: Mansfield Town F.C. - Arsenal (L)</title>
-    <desc>Live: Ya</desc>
-</programme>
-<programme start="20260307211500 +0700" stop="20260307214500 +0700" channel="COSMOTE Sport 3 HD">
-    <title>Sports Classics: Ultimate Rush S3 E18</title>
-    <desc>Live: Tidak</desc>
 </programme>
 <programme start="20260307214500 +0700" stop="20260307221500 +0700" channel="COSMOTE Sport 3 HD">
     <title>Sports Classics: Ultimate Rush S3 E19</title>
@@ -242,8 +234,12 @@
     <title>Sports Classics: Ultimate Rush S4 E4</title>
     <desc>Live: Tidak</desc>
 </programme>
-<programme start="20260307193000 +0700" stop="20260307220000 +0700" channel="COSMOTE Sport 4 HD">
-    <title>Basketball: San Antonio Spurs - Los Angeles Clippers</title>
+<programme start="20260308220000 +0700" stop="20260308225500 +0700" channel="COSMOTE Sport 3 HD">
+    <title>UEL &amp; UECL Magazine 2024-25 E14</title>
+    <desc>Live: Tidak</desc>
+</programme>
+<programme start="20260308225500 +0700" stop="20260308233000 +0700" channel="COSMOTE Sport 3 HD">
+    <title>Sports Classics: Ultimate Rush S3 E9</title>
     <desc>Live: Tidak</desc>
 </programme>
 <programme start="20260307220000 +0700" stop="20260307223500 +0700" channel="COSMOTE Sport 4 HD">
@@ -304,10 +300,6 @@
 </programme>
 <programme start="20260308214000 +0700" stop="20260309001000 +0700" channel="COSMOTE Sport 4 HD">
     <title>Basketball: Oklahoma City Thunder - Golden State Warriors</title>
-    <desc>Live: Tidak</desc>
-</programme>
-<programme start="20260307210000 +0700" stop="20260307215000 +0700" channel="COSMOTE Sport 5 HD">
-    <title>WRC: More Than Machine S2 E6</title>
     <desc>Live: Tidak</desc>
 </programme>
 <programme start="20260307215000 +0700" stop="20260307224500 +0700" channel="COSMOTE Sport 5 HD">
@@ -414,12 +406,12 @@
     <title>ERC 2025</title>
     <desc>Live: Tidak</desc>
 </programme>
-<programme start="20260307190000 +0700" stop="20260307213000 +0700" channel="COSMOTE Sport 6 HD">
-    <title>Tennis: ATP Challenger 50 2026 (L)</title>
-    <desc>Live: Ya</desc>
+<programme start="20260308220500 +0700" stop="20260308222500 +0700" channel="COSMOTE Sport 5 HD">
+    <title>Sports Classics: Worldies E6</title>
+    <desc>Live: Tidak</desc>
 </programme>
-<programme start="20260307213000 +0700" stop="20260307220000 +0700" channel="COSMOTE Sport 6 HD">
-    <title>Watersports: Inside Sailing 2026 E2</title>
+<programme start="20260308222500 +0700" stop="20260308231000 +0700" channel="COSMOTE Sport 5 HD">
+    <title>WRC: More Than Machine S2 E3</title>
     <desc>Live: Tidak</desc>
 </programme>
 <programme start="20260307220000 +0700" stop="20260308020000 +0700" channel="COSMOTE Sport 6 HD">
@@ -693,5 +685,9 @@
 <programme start="20260308213000 +0700" stop="20260308220000 +0700" channel="COSMOTE Sport 9 HD">
     <title>COSMOTESport9HD</title>
     <desc>Live: Tidak</desc>
+</programme>
+<programme start="20260308220000 +0700" stop="20260309000000 +0700" channel="COSMOTE Sport 9 HD">
+    <title>Football: APOEL - Anorthosis Famagusta (L)</title>
+    <desc>Live: Ya</desc>
 </programme>
 No EPG found for COSMOTE Sport 10 HD
