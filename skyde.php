@@ -2677,10 +2677,10 @@ Warning: Undefined array key "et" in /usr/home/ManusiaBiasa/domains/manusiabiasa
 <programme start="20260307111000 +0000" stop="20260307113000 +0000" channel="Sky Sport Bundesliga 4 HD.skyde">
     <title>Es folgt: LIVE 2. Liga</title>
 </programme>
-<programme start="20260307113000 +0000" stop="20260307140500 +0000" channel="Sky Sport Bundesliga 4 HD.skyde">
+<programme start="20260307113000 +0000" stop="20260307140000 +0000" channel="Sky Sport Bundesliga 4 HD.skyde">
     <title>Live 2. BL: SC Paderborn 07 - Eintracht Braunschweig, 25. Spieltag</title>
 </programme>
-<programme start="20260307140500 +0000" stop="20260307141500 +0000" channel="Sky Sport Bundesliga 4 HD.skyde">
+<programme start="20260307140000 +0000" stop="20260307141500 +0000" channel="Sky Sport Bundesliga 4 HD.skyde">
     <title>Live BL: M05 - VFB: tipico Countdown, 25. Spieltag</title>
 </programme>
 <programme start="20260307141500 +0000" stop="20260307171500 +0000" channel="Sky Sport Bundesliga 4 HD.skyde">
@@ -2731,19 +2731,19 @@ Warning: Undefined array key "et" in /usr/home/ManusiaBiasa/domains/manusiabiasa
 <programme start="20260307032500 +0000" stop="20260307043000 +0000" channel="Sky Sport F1 HD.skyde">
     <title>Live F2: 1. Rennen - GP Australien</title>
 </programme>
-<programme start="20260307043000 +0000" stop="20260307063000 +0000" channel="Sky Sport F1 HD.skyde">
+<programme start="20260307043000 +0000" stop="20260307070000 +0000" channel="Sky Sport F1 HD.skyde">
     <title>Live F1: Qualifying - GP Australien</title>
 </programme>
-<programme start="20260307063000 +0000" stop="20260307070000 +0000" channel="Sky Sport F1 HD.skyde">
+<programme start="20260307070000 +0000" stop="20260307073000 +0000" channel="Sky Sport F1 HD.skyde">
     <title>Live F1: Pressekonferenz Qualifying - GP Australien</title>
 </programme>
-<programme start="20260307070000 +0000" stop="20260307080000 +0000" channel="Sky Sport F1 HD.skyde">
+<programme start="20260307073000 +0000" stop="20260307081500 +0000" channel="Sky Sport F1 HD.skyde">
     <title>F2: 1. Rennen - GP Australien</title>
 </programme>
-<programme start="20260307080000 +0000" stop="20260307093000 +0000" channel="Sky Sport F1 HD.skyde">
+<programme start="20260307081500 +0000" stop="20260307094500 +0000" channel="Sky Sport F1 HD.skyde">
     <title>F1: Qualifying - GP Australien</title>
 </programme>
-<programme start="20260307093000 +0000" stop="20260307110000 +0000" channel="Sky Sport F1 HD.skyde">
+<programme start="20260307094500 +0000" stop="20260307110000 +0000" channel="Sky Sport F1 HD.skyde">
     <title>IndyCar: Qualifying in Phoenix (Arizona)</title>
 </programme>
 <programme start="20260307110000 +0000" stop="20260307111500 +0000" channel="Sky Sport F1 HD.skyde">
@@ -3157,13 +3157,13 @@ Warning: Undefined array key "et" in /usr/home/ManusiaBiasa/domains/manusiabiasa
 <programme start="20260307032500 +0000" stop="20260307043000 +0000" channel="Sky Sport UHD.skyde">
     <title>Live F2: 1. Rennen - GP Australien</title>
 </programme>
-<programme start="20260307043000 +0000" stop="20260307063000 +0000" channel="Sky Sport UHD.skyde">
+<programme start="20260307043000 +0000" stop="20260307070000 +0000" channel="Sky Sport UHD.skyde">
     <title>Live F1: Qualifying - GP Australien</title>
 </programme>
-<programme start="20260307063000 +0000" stop="20260307070000 +0000" channel="Sky Sport UHD.skyde">
+<programme start="20260307070000 +0000" stop="20260307073000 +0000" channel="Sky Sport UHD.skyde">
     <title>Live F1: Pressekonferenz Qualifying - GP Australien</title>
 </programme>
-<programme start="20260307070000 +0000" stop="20260307083000 +0000" channel="Sky Sport UHD.skyde">
+<programme start="20260307073000 +0000" stop="20260307083000 +0000" channel="Sky Sport UHD.skyde">
     <title>F1: Qualifying - GP Australien</title>
 </programme>
 <programme start="20260307083000 +0000" stop="20260307084500 +0000" channel="Sky Sport UHD.skyde">
