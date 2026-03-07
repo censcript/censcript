@@ -565,6 +565,9 @@
 <programme start="20260307000000 +0000" stop="20260307004500 +0000" channel="Trans 7.vision">
 <title>Spotlite</title>
 </programme>
+<programme start="20260307004500 +0000" stop="20260307013000 +0000" channel="Trans 7.vision">
+<title>Selebrita On The Weekend</title>
+</programme>
 <programme start="20260307013000 +0000" stop="20260307023000 +0000" channel="Trans 7.vision">
 <title>Obrolan Tiap Waktu</title>
 </programme>
@@ -573,6 +576,12 @@
 </programme>
 <programme start="20260307033000 +0000" stop="20260307041500 +0000" channel="Trans 7.vision">
 <title>Bikin Seneng</title>
+</programme>
+<programme start="20260307041500 +0000" stop="20260307050000 +0000" channel="Trans 7.vision">
+<title>Cuan Bos</title>
+</programme>
+<programme start="20260307050000 +0000" stop="20260307054500 +0000" channel="Trans 7.vision">
+<title>Gen Bintang</title>
 </programme>
 <programme start="20260307054500 +0000" stop="20260307063000 +0000" channel="Trans 7.vision">
 <title>Jejak Petualang Explorer</title>
@@ -682,6 +691,9 @@
 <programme start="20260307003000 +0000" stop="20260307023000 +0000" channel="ANTV.vision">
 <title>Janji Inspektur Virat</title>
 </programme>
+<programme start="20260307023000 +0000" stop="20260307060000 +0000" channel="ANTV.vision">
+<title>Dil Hai Tumhara</title>
+</programme>
 <programme start="20260307060000 +0000" stop="20260307080000 +0000" channel="ANTV.vision">
 <title>Jhanak</title>
 </programme>
@@ -693,6 +705,9 @@
 </programme>
 <programme start="20260307100000 +0000" stop="20260307113000 +0000" channel="ANTV.vision">
 <title>Perayaan 33 Setia Melegenda</title>
+</programme>
+<programme start="20260307113000 +0000" stop="20260307133000 +0000" channel="ANTV.vision">
+<title>Raja Dangdut</title>
 </programme>
 <programme start="20260307133000 +0000" stop="20260307160000 +0000" channel="ANTV.vision">
 <title>Perayaan 33 Setia Melegenda</title>
@@ -847,8 +862,17 @@
 <programme start="20260306233000 +0000" stop="20260307010000 +0000" channel="TVOne.vision">
 <title>Apa Kabar Indonesia Pagi (L)</title>
 </programme>
+<programme start="20260307010000 +0000" stop="20260307020000 +0000" channel="TVOne.vision">
+<title>Inspirasi Pagi</title>
+</programme>
+<programme start="20260307020000 +0000" stop="20260307023000 +0000" channel="TVOne.vision">
+<title>Pesona Nusantara</title>
+</programme>
 <programme start="20260307023000 +0000" stop="20260307030000 +0000" channel="TVOne.vision">
 <title>Xpose</title>
+</programme>
+<programme start="20260307030000 +0000" stop="20260307033000 +0000" channel="TVOne.vision">
+<title>Bukan Jalan-Jalan Biasa</title>
 </programme>
 <programme start="20260307033000 +0000" stop="20260307040000 +0000" channel="TVOne.vision">
 <title>Jajago</title>
@@ -856,8 +880,14 @@
 <programme start="20260307040000 +0000" stop="20260307053000 +0000" channel="TVOne.vision">
 <title>Kabar Siang (L)</title>
 </programme>
+<programme start="20260307053000 +0000" stop="20260307063000 +0000" channel="TVOne.vision">
+<title>Apa Kabar Indonesia Akhir...</title>
+</programme>
 <programme start="20260307063000 +0000" stop="20260307070000 +0000" channel="TVOne.vision">
 <title>Berita Utama Kriminal</title>
+</programme>
+<programme start="20260307070000 +0000" stop="20260307073000 +0000" channel="TVOne.vision">
+<title>Selalu Ada Hikmah</title>
 </programme>
 <programme start="20260307073000 +0000" stop="20260307090000 +0000" channel="TVOne.vision">
 <title>Damai Indonesiaku Ramadan (L)</title>
@@ -1467,34 +1497,4 @@
 </programme>
 <programme start="20260307073000 +0000" stop="20260307080000 +0000" channel="BTV.vision">
 <title>Persona</title>
-</programme>
-<programme start="20260307080000 +0000" stop="20260307083000 +0000" channel="BTV.vision">
-<title>Dunia RANS</title>
-</programme>
-<programme start="20260307083000 +0000" stop="20260307090000 +0000" channel="BTV.vision">
-<title>Berita Kriminal</title>
-</programme>
-<programme start="20260307090000 +0000" stop="20260307100400 +0000" channel="BTV.vision">
-<title>Berita Satu Sore (L)</title>
-</programme>
-<programme start="20260307100400 +0000" stop="20260307110000 +0000" channel="BTV.vision">
-<title>Jalan Dakwah Ramadan</title>
-</programme>
-<programme start="20260307110000 +0000" stop="20260307110700 +0000" channel="BTV.vision">
-<title>Kultum</title>
-</programme>
-<programme start="20260307110700 +0000" stop="20260307111200 +0000" channel="BTV.vision">
-<title>Filler Menantikan Azan Magrib</title>
-</programme>
-<programme start="20260307111200 +0000" stop="20260307111600 +0000" channel="BTV.vision">
-<title>Azan Magrib</title>
-</programme>
-<programme start="20260307111600 +0000" stop="20260307112100 +0000" channel="BTV.vision">
-<title>Filler Selamat Berbuka Puasa</title>
-</programme>
-<programme start="20260307112100 +0000" stop="20260307120000 +0000" channel="BTV.vision">
-<title>Inspirasi Ramadan</title>
-</programme>
-<programme start="20260307120000 +0000" stop="20260307130000 +0000" channel="BTV.vision">
-<title>Ketulusan Hati</title>
 </programme>

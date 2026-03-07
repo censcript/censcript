@@ -2677,10 +2677,10 @@ Warning: Undefined array key "et" in /usr/home/ManusiaBiasa/domains/manusiabiasa
 <programme start="20260307111000 +0000" stop="20260307113000 +0000" channel="Sky Sport Bundesliga 4 HD.skyde">
     <title>Es folgt: LIVE 2. Liga</title>
 </programme>
-<programme start="20260307113000 +0000" stop="20260307140000 +0000" channel="Sky Sport Bundesliga 4 HD.skyde">
+<programme start="20260307113000 +0000" stop="20260307140500 +0000" channel="Sky Sport Bundesliga 4 HD.skyde">
     <title>Live 2. BL: SC Paderborn 07 - Eintracht Braunschweig, 25. Spieltag</title>
 </programme>
-<programme start="20260307140000 +0000" stop="20260307141500 +0000" channel="Sky Sport Bundesliga 4 HD.skyde">
+<programme start="20260307140500 +0000" stop="20260307141500 +0000" channel="Sky Sport Bundesliga 4 HD.skyde">
     <title>Live BL: M05 - VFB: tipico Countdown, 25. Spieltag</title>
 </programme>
 <programme start="20260307141500 +0000" stop="20260307171500 +0000" channel="Sky Sport Bundesliga 4 HD.skyde">
@@ -2728,22 +2728,25 @@ Warning: Undefined array key "et" in /usr/home/ManusiaBiasa/domains/manusiabiasa
 <programme start="20260307011500 +0000" stop="20260307032500 +0000" channel="Sky Sport F1 HD.skyde">
     <title>Live F1: 3. Freies Training - GP Australien</title>
 </programme>
-<programme start="20260307032500 +0000" stop="20260307043000 +0000" channel="Sky Sport F1 HD.skyde">
+<programme start="20260307032500 +0000" stop="20260307041000 +0000" channel="Sky Sport F1 HD.skyde">
     <title>Live F2: 1. Rennen - GP Australien</title>
 </programme>
-<programme start="20260307043000 +0000" stop="20260307070000 +0000" channel="Sky Sport F1 HD.skyde">
+<programme start="20260307041000 +0000" stop="20260307043000 +0000" channel="Sky Sport F1 HD.skyde">
+    <title>F1: Wildest Qualifying Moments of 2025</title>
+</programme>
+<programme start="20260307043000 +0000" stop="20260307063000 +0000" channel="Sky Sport F1 HD.skyde">
     <title>Live F1: Qualifying - GP Australien</title>
 </programme>
-<programme start="20260307070000 +0000" stop="20260307073000 +0000" channel="Sky Sport F1 HD.skyde">
+<programme start="20260307063000 +0000" stop="20260307070000 +0000" channel="Sky Sport F1 HD.skyde">
     <title>Live F1: Pressekonferenz Qualifying - GP Australien</title>
 </programme>
-<programme start="20260307073000 +0000" stop="20260307081500 +0000" channel="Sky Sport F1 HD.skyde">
+<programme start="20260307070000 +0000" stop="20260307080000 +0000" channel="Sky Sport F1 HD.skyde">
     <title>F2: 1. Rennen - GP Australien</title>
 </programme>
-<programme start="20260307081500 +0000" stop="20260307094500 +0000" channel="Sky Sport F1 HD.skyde">
+<programme start="20260307080000 +0000" stop="20260307093000 +0000" channel="Sky Sport F1 HD.skyde">
     <title>F1: Qualifying - GP Australien</title>
 </programme>
-<programme start="20260307094500 +0000" stop="20260307110000 +0000" channel="Sky Sport F1 HD.skyde">
+<programme start="20260307093000 +0000" stop="20260307110000 +0000" channel="Sky Sport F1 HD.skyde">
     <title>IndyCar: Qualifying in Phoenix (Arizona)</title>
 </programme>
 <programme start="20260307110000 +0000" stop="20260307111500 +0000" channel="Sky Sport F1 HD.skyde">
@@ -3088,22 +3091,25 @@ Warning: Undefined array key "et" in /usr/home/ManusiaBiasa/domains/manusiabiasa
 <programme start="20260307223000 +0000" stop="20260307233000 +0000" channel="Sky Sport Premier League HD.skyde">
     <title>PL: Best Volleys</title>
 </programme>
-<programme start="20260307060000 +0000" stop="20260307083000 +0000" channel="Sky Sport Tennis HD.skyde">
+<programme start="20260307063000 +0000" stop="20260307090000 +0000" channel="Sky Sport Tennis HD.skyde">
     <title>WTA 500: C. Bucsa (ESP) - M. Frech (POL), Merida Open in Merida (MEX), Finale</title>
 </programme>
-<programme start="20260307083000 +0000" stop="20260307103000 +0000" channel="Sky Sport Tennis HD.skyde">
+<programme start="20260307090000 +0000" stop="20260307103000 +0000" channel="Sky Sport Tennis HD.skyde">
     <title>WTA 1000: A. Sabalenka - H. Sakatsume (JPN), BNP Paribas Open in Indian Wells, Kalifornien (USA), 3. Tag</title>
 </programme>
-<programme start="20260307103000 +0000" stop="20260307123000 +0000" channel="Sky Sport Tennis HD.skyde">
+<programme start="20260307103000 +0000" stop="20260307121000 +0000" channel="Sky Sport Tennis HD.skyde">
     <title>ATP 1000: A. Zverev (GER) - M. Berrettini (ITA), BNP Paribas Open in Indian Wells, Kalifornien (USA), 3. Tag</title>
 </programme>
-<programme start="20260307123000 +0000" stop="20260307150000 +0000" channel="Sky Sport Tennis HD.skyde">
-    <title>WTA 500: C. Bucsa (ESP) - M. Frech (POL), Merida Open in Merida (MEX), Finale</title>
-</programme>
-<programme start="20260307150000 +0000" stop="20260307170000 +0000" channel="Sky Sport Tennis HD.skyde">
+<programme start="20260307121000 +0000" stop="20260307132000 +0000" channel="Sky Sport Tennis HD.skyde">
     <title>WTA 1000: A. Sabalenka - H. Sakatsume (JPN), BNP Paribas Open in Indian Wells, Kalifornien (USA), 3. Tag</title>
 </programme>
-<programme start="20260307170000 +0000" stop="20260307190000 +0000" channel="Sky Sport Tennis HD.skyde">
+<programme start="20260307132000 +0000" stop="20260307155000 +0000" channel="Sky Sport Tennis HD.skyde">
+    <title>WTA 500: C. Bucsa (ESP) - M. Frech (POL), Merida Open in Merida (MEX), Finale</title>
+</programme>
+<programme start="20260307155000 +0000" stop="20260307172000 +0000" channel="Sky Sport Tennis HD.skyde">
+    <title>WTA 1000: A. Sabalenka - H. Sakatsume (JPN), BNP Paribas Open in Indian Wells, Kalifornien (USA), 3. Tag</title>
+</programme>
+<programme start="20260307172000 +0000" stop="20260307190000 +0000" channel="Sky Sport Tennis HD.skyde">
     <title>ATP 1000: A. Zverev (GER) - M. Berrettini (ITA), BNP Paribas Open in Indian Wells, Kalifornien (USA), 3. Tag</title>
 </programme>
 <programme start="20260307190000 +0000" stop="20260308060000 +0000" channel="Sky Sport Tennis HD.skyde">
@@ -3118,10 +3124,10 @@ Warning: Undefined array key "et" in /usr/home/ManusiaBiasa/domains/manusiabiasa
 <programme start="20260307032500 +0000" stop="20260307043000 +0000" channel="Sky Sport Top Event HD.skyde">
     <title>Live F2: 1. Rennen - GP Australien</title>
 </programme>
-<programme start="20260307043000 +0000" stop="20260307063000 +0000" channel="Sky Sport Top Event HD.skyde">
+<programme start="20260307043000 +0000" stop="20260307070000 +0000" channel="Sky Sport Top Event HD.skyde">
     <title>Live F1: Qualifying - GP Australien</title>
 </programme>
-<programme start="20260307063000 +0000" stop="20260307100000 +0000" channel="Sky Sport Top Event HD.skyde">
+<programme start="20260307070000 +0000" stop="20260307100000 +0000" channel="Sky Sport Top Event HD.skyde">
     <title>Live LIV Golf: Hongkong, 3. Tag in China</title>
 </programme>
 <programme start="20260307100000 +0000" stop="20260307113000 +0000" channel="Sky Sport Top Event HD.skyde">
