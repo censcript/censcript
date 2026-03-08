@@ -2587,7 +2587,7 @@ Warning: Undefined array key "et" in /usr/home/ManusiaBiasa/domains/manusiabiasa
 <programme start="20260308153000 +0000" stop="20260308155000 +0000" channel="Sky Sport Austria 6 HD.skyde">
     <title>Es folgt: LIVE Admiral BL</title>
 </programme>
-<programme start="20260308155000 +0000" stop="20260308180000 +0000" channel="Sky Sport Austria 6 HD.skyde">
+<programme start="20260308155000 +0000" stop="20260308183000 +0000" channel="Sky Sport Austria 6 HD.skyde">
     <title>Live Admiral BL: WSG Tirol - Grazer AK 1902, 22. Runde</title>
 </programme>
 <programme start="20260308153000 +0000" stop="20260308155000 +0000" channel="Sky Sport Austria 7 HD.skyde">
@@ -2728,12 +2728,6 @@ Warning: Undefined array key "et" in /usr/home/ManusiaBiasa/domains/manusiabiasa
 <programme start="20260308120000 +0000" stop="20260308150000 +0000" channel="Sky Sport Bundesliga 4 HD.skyde">
     <title>Live 2. BL: Preußen Münster - Hertha BSC, 25. Spieltag</title>
 </programme>
-<programme start="20260308114000 +0000" stop="20260308120000 +0000" channel="Sky Sport Bundesliga 5 HD.skyde">
-    <title>Es folgt: LIVE 2. Liga</title>
-</programme>
-<programme start="20260308120000 +0000" stop="20260308150000 +0000" channel="Sky Sport Bundesliga 5 HD.skyde">
-    <title>Live 2. BL: Multiview 25. Spieltag, Sonntag</title>
-</programme>
 <programme start="20260307231500 +0000" stop="20260307232500 +0000" channel="Sky Sport F1 HD.skyde">
     <title>F1: Greatest Races: J. Herbert / Nürburgring 1999</title>
 </programme>
@@ -2815,10 +2809,10 @@ Warning: Undefined array key "et" in /usr/home/ManusiaBiasa/domains/manusiabiasa
 <programme start="20260308030000 +0000" stop="20260308033000 +0000" channel="Sky Sport Golf HD.skyde">
     <title>Golf: Tee Time Stories (1)</title>
 </programme>
-<programme start="20260308033000 +0000" stop="20260308083500 +0000" channel="Sky Sport Golf HD.skyde">
+<programme start="20260308033000 +0000" stop="20260308083000 +0000" channel="Sky Sport Golf HD.skyde">
     <title>Live LIV Golf: Hongkong, 4. Tag in China</title>
 </programme>
-<programme start="20260308083500 +0000" stop="20260308090000 +0000" channel="Sky Sport Golf HD.skyde">
+<programme start="20260308083000 +0000" stop="20260308090000 +0000" channel="Sky Sport Golf HD.skyde">
     <title>Golf: Tee Time Stories (3)</title>
 </programme>
 <programme start="20260308090000 +0000" stop="20260308110000 +0000" channel="Sky Sport Golf HD.skyde">
@@ -3205,10 +3199,10 @@ Warning: Undefined array key "et" in /usr/home/ManusiaBiasa/domains/manusiabiasa
 <programme start="20260308223000 +0000" stop="20260308233000 +0000" channel="Sky Sport UHD.skyde">
     <title>F2: 2. Rennen - GP Australien</title>
 </programme>
-<programme start="20260307230000 +0000" stop="20260308014500 +0000" channel="Sky Sport 1 HD.skyde">
+<programme start="20260307230000 +0000" stop="20260308013000 +0000" channel="Sky Sport 1 HD.skyde">
     <title>Live NBA: Brooklyn Nets @ Detroit Pistons</title>
 </programme>
-<programme start="20260308014500 +0000" stop="20260308051500 +0000" channel="Sky Sport 1 HD.skyde">
+<programme start="20260308013000 +0000" stop="20260308090000 +0000" channel="Sky Sport 1 HD.skyde">
     <title>Live NBA: Golden State Warriors @ Oklahoma City Thunder</title>
 </programme>
 <programme start="20260308224000 +0000" stop="20260308230000 +0000" channel="Sky Sport 1 HD.skyde">
