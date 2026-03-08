@@ -58,6 +58,10 @@
     <title>Football: Real Madrid CF - SL Benfica</title>
     <desc>Live: Tidak</desc>
 </programme>
+<programme start="20260310063500 +0700" stop="20260310070500 +0700" channel="COSMOTE Sport 1 HD">
+    <title>UEFA Champions League Magazine 2024-25 E23</title>
+    <desc>Live: Tidak</desc>
+</programme>
 <programme start="20260309044500 +0700" stop="20260309070000 +0700" channel="COSMOTE Sport 2 HD">
     <title>Football: Volos NPS - OFI</title>
     <desc>Live: Tidak</desc>
@@ -112,6 +116,10 @@
 </programme>
 <programme start="20260310044500 +0700" stop="20260310065500 +0700" channel="COSMOTE Sport 2 HD">
     <title>Football: Panetolikos - Kifisia</title>
+    <desc>Live: Tidak</desc>
+</programme>
+<programme start="20260310065500 +0700" stop="20260310072500 +0700" channel="COSMOTE Sport 2 HD">
+    <title>Sports Classics: My Sporting Moment</title>
     <desc>Live: Tidak</desc>
 </programme>
 <programme start="20260309044500 +0700" stop="20260309070000 +0700" channel="COSMOTE Sport 3 HD">
@@ -190,9 +198,9 @@
     <title>UEL &amp; UECL Magazine 2024-25 E14</title>
     <desc>Live: Tidak</desc>
 </programme>
-<programme start="20260309023000 +0700" stop="20260309053000 +0700" channel="COSMOTE Sport 4 HD">
-    <title>Basketball: Los Angeles Lakers - New York Knicks (L)</title>
-    <desc>Live: Ya</desc>
+<programme start="20260310063000 +0700" stop="20260310083000 +0700" channel="COSMOTE Sport 3 HD">
+    <title>Football: Famalicao - Arouca</title>
+    <desc>Live: Tidak</desc>
 </programme>
 <programme start="20260309053000 +0700" stop="20260309060500 +0700" channel="COSMOTE Sport 4 HD">
     <title>NBA on Fire 2025-26 E19</title>
@@ -250,9 +258,9 @@
     <title>NBA Specials: Basketball Stories</title>
     <desc>Live: Tidak</desc>
 </programme>
-<programme start="20260309041000 +0700" stop="20260309051000 +0700" channel="COSMOTE Sport 5 HD">
-    <title>WRC 2026</title>
-    <desc>Live: Tidak</desc>
+<programme start="20260310063000 +0700" stop="20260310093000 +0700" channel="COSMOTE Sport 4 HD">
+    <title>Basketball: Oklahoma City Thunder - Denver Nuggets (L)</title>
+    <desc>Live: Ya</desc>
 </programme>
 <programme start="20260309051000 +0700" stop="20260309064500 +0700" channel="COSMOTE Sport 5 HD">
     <title>WRC 2026</title>
@@ -464,14 +472,6 @@
 </programme>
 <programme start="20260310050000 +0700" stop="20260310070000 +0700" channel="COSMOTE Sport 7 HD">
     <title>COSMOTESport7HD</title>
-    <desc>Live: Tidak</desc>
-</programme>
-<programme start="20260309033000 +0700" stop="20260309053000 +0700" channel="COSMOTE Sport 8 HD">
-    <title>Football: Santa Clara - Vitoria Guimaraes (L)</title>
-    <desc>Live: Ya</desc>
-</programme>
-<programme start="20260309053000 +0700" stop="20260309060000 +0700" channel="COSMOTE Sport 8 HD">
-    <title>COSMOTESport8HD</title>
     <desc>Live: Tidak</desc>
 </programme>
 <programme start="20260309060000 +0700" stop="20260309070000 +0700" channel="COSMOTE Sport 8 HD">
