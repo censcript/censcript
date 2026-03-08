@@ -700,9 +700,6 @@
 <programme start="20260308003000 +0000" stop="20260308023000 +0000" channel="ANTV.vision">
 <title>Janji Inspektur Virat</title>
 </programme>
-<programme start="20260308023000 +0000" stop="20260308060000 +0000" channel="ANTV.vision">
-<title>Pathaan</title>
-</programme>
 <programme start="20260308060000 +0000" stop="20260308080000 +0000" channel="ANTV.vision">
 <title>Jhanak</title>
 </programme>
@@ -711,9 +708,6 @@
 </programme>
 <programme start="20260308090000 +0000" stop="20260308110000 +0000" channel="ANTV.vision">
 <title>Vasudha</title>
-</programme>
-<programme start="20260308110000 +0000" stop="20260308130000 +0000" channel="ANTV.vision">
-<title>Golok Setan</title>
 </programme>
 <programme start="20260308130000 +0000" stop="20260308143000 +0000" channel="ANTV.vision">
 <title>Srigala</title>
@@ -1497,4 +1491,10 @@
 </programme>
 <programme start="20260308090000 +0000" stop="20260308100400 +0000" channel="BTV.vision">
 <title>Berita Satu Sore (L)</title>
+</programme>
+<programme start="20260308100400 +0000" stop="20260308105900 +0000" channel="BTV.vision">
+<title>Jalan Dakwah Ramadan</title>
+</programme>
+<programme start="20260308105900 +0000" stop="20260308110600 +0000" channel="BTV.vision">
+<title>Kultum</title>
 </programme>

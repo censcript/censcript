@@ -6517,10 +6517,10 @@
     <programme start="20260308010000 +0000" stop="20260308020000 +0000" channel="Hub Sports 1  HD.starhub">
         <title>Dubai Duty Free Tennis C&#039;ships</title>
     </programme>
-    <programme start="20260308020000 +0000" stop="20260308040000 +0000" channel="Hub Sports 1  HD.starhub">
+    <programme start="20260308020000 +0000" stop="20260308043400 +0000" channel="Hub Sports 1  HD.starhub">
         <title>BNP Paribas Open (1000) Day 4 R2 S3</title>
     </programme>
-    <programme start="20260308040000 +0000" stop="20260308060000 +0000" channel="Hub Sports 1  HD.starhub">
+    <programme start="20260308043400 +0000" stop="20260308060000 +0000" channel="Hub Sports 1  HD.starhub">
         <title>BNP Paribas Open (1000) Day 4 R2 S4</title>
     </programme>
     <programme start="20260308060000 +0000" stop="20260308063000 +0000" channel="Hub Sports 1  HD.starhub">
