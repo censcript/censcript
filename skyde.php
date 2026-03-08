@@ -3223,7 +3223,7 @@ Warning: Undefined array key "et" in /usr/home/ManusiaBiasa/domains/manusiabiasa
 <programme start="20260308174000 +0000" stop="20260308180000 +0000" channel="Sky Sport 4 HD.skyde">
     <title>Es folgt: LIVE Tennis WTA Tour</title>
 </programme>
-<programme start="20260308180000 +0000" stop="20260309050000 +0000" channel="Sky Sport 4 HD.skyde">
+<programme start="20260308180000 +0000" stop="20260309090000 +0000" channel="Sky Sport 4 HD.skyde">
     <title>Live WTA 1000: BNP Paribas Open in Indian Wells, Kalifornien (USA), 5. Tag</title>
 </programme>
 <programme start="20260307234000 +0000" stop="20260308002500 +0000" channel="SYFY HD.skyde">
