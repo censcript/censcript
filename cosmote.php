@@ -62,10 +62,6 @@
     <title>Football: KRC Genk - GNK Dinamo</title>
     <desc>Live: Tidak</desc>
 </programme>
-<programme start="20260308100000 +0700" stop="20260308120000 +0700" channel="COSMOTE Sport 2 HD">
-    <title>Football: Atalanta - Udinese</title>
-    <desc>Live: Tidak</desc>
-</programme>
 <programme start="20260308120000 +0700" stop="20260308140000 +0700" channel="COSMOTE Sport 2 HD">
     <title>Football: Cagliari - Como</title>
     <desc>Live: Tidak</desc>
@@ -134,8 +130,8 @@
     <title>Football: ACF Fiorentina - Parma</title>
     <desc>Live: Tidak</desc>
 </programme>
-<programme start="20260308110000 +0700" stop="20260308113000 +0700" channel="COSMOTE Sport 3 HD">
-    <title>Sports Classics: Ultimate Rush S3 E9</title>
+<programme start="20260309120000 +0700" stop="20260309141000 +0700" channel="COSMOTE Sport 2 HD">
+    <title>Football: AEK - AEL Novibet</title>
     <desc>Live: Tidak</desc>
 </programme>
 <programme start="20260308113000 +0700" stop="20260308133000 +0700" channel="COSMOTE Sport 3 HD">
@@ -217,10 +213,6 @@
 <programme start="20260309110000 +0700" stop="20260309130000 +0700" channel="COSMOTE Sport 3 HD">
     <title>Football: Al Ahli - Al Ittihad</title>
     <desc>Live: Tidak</desc>
-</programme>
-<programme start="20260308083000 +0700" stop="20260308113000 +0700" channel="COSMOTE Sport 4 HD">
-    <title>Basketball: Oklahoma City Thunder - Golden State Warriors (L)</title>
-    <desc>Live: Ya</desc>
 </programme>
 <programme start="20260308113000 +0700" stop="20260308132500 +0700" channel="COSMOTE Sport 4 HD">
     <title>Basketball: Galatasaray - Turk Telekom</title>
@@ -394,6 +386,10 @@
     <title>2025 Extreme H</title>
     <desc>Live: Tidak</desc>
 </programme>
+<programme start="20260309120500 +0700" stop="20260309131000 +0700" channel="COSMOTE Sport 5 HD">
+    <title>2025 Extreme H</title>
+    <desc>Live: Tidak</desc>
+</programme>
 <programme start="20260308100000 +0700" stop="20260308130000 +0700" channel="COSMOTE Sport 6 HD">
     <title>Tennis: ATP Masters 1000 2026 (L)</title>
     <desc>Live: Ya</desc>
@@ -433,6 +429,10 @@
 <programme start="20260309090000 +0700" stop="20260309123000 +0700" channel="COSMOTE Sport 6 HD">
     <title>Tennis: ATP Masters 1000 2026 (L)</title>
     <desc>Live: Ya</desc>
+</programme>
+<programme start="20260309123000 +0700" stop="20260309150000 +0700" channel="COSMOTE Sport 6 HD">
+    <title>Tennis: ATP Masters 1000 2026</title>
+    <desc>Live: Tidak</desc>
 </programme>
 <programme start="20260308090000 +0700" stop="20260308130000 +0700" channel="COSMOTE Sport 7 HD">
     <title>Fight Sports: UFC Fight Night 2026 (L)</title>

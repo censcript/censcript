@@ -1936,107 +1936,95 @@ Warning: Undefined array key "et" in /usr/home/ManusiaBiasa/domains/manusiabiasa
 <programme start="20260308221500 +0000" stop="20260308232500 +0000" channel="Sky Crime HD.skyde">
     <title>Murdered and Missing in Montana</title>
 </programme>
-<programme start="20260307231500 +0000" stop="20260307235000 +0000" channel="Sky Documentaries HD.skyde">
+<programme start="20260301232000 +0000" stop="20260302000500 +0000" channel="Sky Documentaries HD.skyde">
+    <title>Sex und Macht: Die dunklen Begierden von Tyrannen</title>
+</programme>
+<programme start="20260302000500 +0000" stop="20260302015500 +0000" channel="Sky Documentaries HD.skyde">
+    <title>Elon Musk Uncovered: Das Tesla-Experiment</title>
+</programme>
+<programme start="20260302015500 +0000" stop="20260302024000 +0000" channel="Sky Documentaries HD.skyde">
+    <title>Sex und Macht: Die dunklen Begierden von Tyrannen</title>
+</programme>
+<programme start="20260302024000 +0000" stop="20260302033000 +0000" channel="Sky Documentaries HD.skyde">
+    <title>Sex und Macht: Die dunklen Begierden von Tyrannen</title>
+</programme>
+<programme start="20260302033000 +0000" stop="20260302044000 +0000" channel="Sky Documentaries HD.skyde">
+    <title>Sex und Macht: Die dunklen Begierden von Tyrannen</title>
+</programme>
+<programme start="20260302044000 +0000" stop="20260302050500 +0000" channel="Sky Documentaries HD.skyde">
+    <title>Unsealed: Alien Files</title>
+</programme>
+<programme start="20260302050500 +0000" stop="20260302053500 +0000" channel="Sky Documentaries HD.skyde">
     <title>Meine Geschichte</title>
 </programme>
-<programme start="20260307235000 +0000" stop="20260308001500 +0000" channel="Sky Documentaries HD.skyde">
+<programme start="20260302053500 +0000" stop="20260302060500 +0000" channel="Sky Documentaries HD.skyde">
     <title>Meine Geschichte</title>
 </programme>
-<programme start="20260308001500 +0000" stop="20260308004500 +0000" channel="Sky Documentaries HD.skyde">
+<programme start="20260302060500 +0000" stop="20260302064000 +0000" channel="Sky Documentaries HD.skyde">
     <title>Meine Geschichte</title>
 </programme>
-<programme start="20260308004500 +0000" stop="20260308011000 +0000" channel="Sky Documentaries HD.skyde">
+<programme start="20260302064000 +0000" stop="20260302071000 +0000" channel="Sky Documentaries HD.skyde">
     <title>Meine Geschichte</title>
 </programme>
-<programme start="20260308011000 +0000" stop="20260308014000 +0000" channel="Sky Documentaries HD.skyde">
+<programme start="20260302071000 +0000" stop="20260302074000 +0000" channel="Sky Documentaries HD.skyde">
     <title>Meine Geschichte</title>
 </programme>
-<programme start="20260308014000 +0000" stop="20260308020500 +0000" channel="Sky Documentaries HD.skyde">
+<programme start="20260302074000 +0000" stop="20260302081500 +0000" channel="Sky Documentaries HD.skyde">
     <title>Meine Geschichte</title>
 </programme>
-<programme start="20260308020500 +0000" stop="20260308023500 +0000" channel="Sky Documentaries HD.skyde">
-    <title>Meine Geschichte</title>
+<programme start="20260302081500 +0000" stop="20260302090500 +0000" channel="Sky Documentaries HD.skyde">
+    <title>Dangerous Flights</title>
 </programme>
-<programme start="20260308023500 +0000" stop="20260308030000 +0000" channel="Sky Documentaries HD.skyde">
-    <title>Meine Geschichte</title>
+<programme start="20260302090500 +0000" stop="20260302095500 +0000" channel="Sky Documentaries HD.skyde">
+    <title>Dangerous Flights</title>
 </programme>
-<programme start="20260308030000 +0000" stop="20260308033000 +0000" channel="Sky Documentaries HD.skyde">
-    <title>Meine Geschichte</title>
+<programme start="20260302095500 +0000" stop="20260302104500 +0000" channel="Sky Documentaries HD.skyde">
+    <title>Dangerous Flights</title>
 </programme>
-<programme start="20260308033000 +0000" stop="20260308041500 +0000" channel="Sky Documentaries HD.skyde">
-    <title>Meine Geschichte</title>
+<programme start="20260302104500 +0000" stop="20260302113500 +0000" channel="Sky Documentaries HD.skyde">
+    <title>Sex und Macht: Die dunklen Begierden von Tyrannen</title>
 </programme>
-<programme start="20260308041500 +0000" stop="20260308044000 +0000" channel="Sky Documentaries HD.skyde">
-    <title>Meine Geschichte</title>
+<programme start="20260302113500 +0000" stop="20260302123000 +0000" channel="Sky Documentaries HD.skyde">
+    <title>Sex und Macht: Die dunklen Begierden von Tyrannen</title>
 </programme>
-<programme start="20260308044000 +0000" stop="20260308051500 +0000" channel="Sky Documentaries HD.skyde">
-    <title>Meine Geschichte</title>
+<programme start="20260302123000 +0000" stop="20260302132000 +0000" channel="Sky Documentaries HD.skyde">
+    <title>Sex und Macht: Die dunklen Begierden von Tyrannen</title>
 </programme>
-<programme start="20260308051500 +0000" stop="20260308060000 +0000" channel="Sky Documentaries HD.skyde">
+<programme start="20260302132000 +0000" stop="20260302141000 +0000" channel="Sky Documentaries HD.skyde">
+    <title>Feuer &amp; Flamme</title>
+</programme>
+<programme start="20260302141000 +0000" stop="20260302150000 +0000" channel="Sky Documentaries HD.skyde">
+    <title>Feuer &amp; Flamme</title>
+</programme>
+<programme start="20260302150000 +0000" stop="20260302155000 +0000" channel="Sky Documentaries HD.skyde">
+    <title>Feuer &amp; Flamme</title>
+</programme>
+<programme start="20260302155000 +0000" stop="20260302164000 +0000" channel="Sky Documentaries HD.skyde">
+    <title>Feuer &amp; Flamme</title>
+</programme>
+<programme start="20260302164000 +0000" stop="20260302173000 +0000" channel="Sky Documentaries HD.skyde">
+    <title>Terra X: Ein Prinz unter Indianern</title>
+</programme>
+<programme start="20260302173000 +0000" stop="20260302182000 +0000" channel="Sky Documentaries HD.skyde">
+    <title>Terra X: Die Sonnenstadt der Pharaonen</title>
+</programme>
+<programme start="20260302182000 +0000" stop="20260302191000 +0000" channel="Sky Documentaries HD.skyde">
     <title>Terra X: Magellans Reise um die Erde</title>
 </programme>
-<programme start="20260308060000 +0000" stop="20260308065000 +0000" channel="Sky Documentaries HD.skyde">
+<programme start="20260302191000 +0000" stop="20260302200000 +0000" channel="Sky Documentaries HD.skyde">
     <title>Terra X: Monster und Mythen</title>
 </programme>
-<programme start="20260308065000 +0000" stop="20260308074000 +0000" channel="Sky Documentaries HD.skyde">
-    <title>Terra X: Tatort Steinzeit - Deutschland vor 7000 Jahren</title>
+<programme start="20260302200000 +0000" stop="20260302204500 +0000" channel="Sky Documentaries HD.skyde">
+    <title>The First 48</title>
 </programme>
-<programme start="20260308074000 +0000" stop="20260308082500 +0000" channel="Sky Documentaries HD.skyde">
-    <title>Terra X: Planet der Vulkane</title>
+<programme start="20260302204500 +0000" stop="20260302213000 +0000" channel="Sky Documentaries HD.skyde">
+    <title>The First 48</title>
 </programme>
-<programme start="20260308082500 +0000" stop="20260308091500 +0000" channel="Sky Documentaries HD.skyde">
-    <title>Terra X: Mächtige Männer - Ohnmächtige Frauen?</title>
+<programme start="20260302213000 +0000" stop="20260302222000 +0000" channel="Sky Documentaries HD.skyde">
+    <title>The First 48</title>
 </programme>
-<programme start="20260308091500 +0000" stop="20260308100500 +0000" channel="Sky Documentaries HD.skyde">
-    <title>Terra X: Albrecht Dürer - Superstar</title>
-</programme>
-<programme start="20260308100500 +0000" stop="20260308105500 +0000" channel="Sky Documentaries HD.skyde">
-    <title>Terra X: Magie der Märchen - Frau Holle und ihre versunkene Welt</title>
-</programme>
-<programme start="20260308105500 +0000" stop="20260308114000 +0000" channel="Sky Documentaries HD.skyde">
-    <title>Terra X: Magie der Märchen - Hänsel und Gretel auf der Spur</title>
-</programme>
-<programme start="20260308114000 +0000" stop="20260308123000 +0000" channel="Sky Documentaries HD.skyde">
-    <title>Terra X: Mythos Tahiti</title>
-</programme>
-<programme start="20260308123000 +0000" stop="20260308132000 +0000" channel="Sky Documentaries HD.skyde">
-    <title>Terra X: Rom am Rhein</title>
-</programme>
-<programme start="20260308132000 +0000" stop="20260308141000 +0000" channel="Sky Documentaries HD.skyde">
-    <title>Versunkene Kriegsschiffe: Geheimnisse aus der Tiefe</title>
-</programme>
-<programme start="20260308141000 +0000" stop="20260308145500 +0000" channel="Sky Documentaries HD.skyde">
-    <title>Versunkene Kriegsschiffe: Geheimnisse aus der Tiefe</title>
-</programme>
-<programme start="20260308145500 +0000" stop="20260308154500 +0000" channel="Sky Documentaries HD.skyde">
-    <title>Versunkene Kriegsschiffe: Geheimnisse aus der Tiefe</title>
-</programme>
-<programme start="20260308154500 +0000" stop="20260308164000 +0000" channel="Sky Documentaries HD.skyde">
-    <title>Versunkene Kriegsschiffe: Geheimnisse aus der Tiefe</title>
-</programme>
-<programme start="20260308164000 +0000" stop="20260308173000 +0000" channel="Sky Documentaries HD.skyde">
-    <title>In Seenot</title>
-</programme>
-<programme start="20260308173000 +0000" stop="20260308182000 +0000" channel="Sky Documentaries HD.skyde">
-    <title>In Seenot</title>
-</programme>
-<programme start="20260308182000 +0000" stop="20260308191000 +0000" channel="Sky Documentaries HD.skyde">
-    <title>In Seenot</title>
-</programme>
-<programme start="20260308191000 +0000" stop="20260308200000 +0000" channel="Sky Documentaries HD.skyde">
-    <title>In Seenot</title>
-</programme>
-<programme start="20260308200000 +0000" stop="20260308205000 +0000" channel="Sky Documentaries HD.skyde">
-    <title>Sex und Macht: Die dunklen Begierden von Tyrannen</title>
-</programme>
-<programme start="20260308205000 +0000" stop="20260308214000 +0000" channel="Sky Documentaries HD.skyde">
-    <title>Sex und Macht: Die dunklen Begierden von Tyrannen</title>
-</programme>
-<programme start="20260308214000 +0000" stop="20260308223500 +0000" channel="Sky Documentaries HD.skyde">
-    <title>Sex und Macht: Die dunklen Begierden von Tyrannen</title>
-</programme>
-<programme start="20260308223500 +0000" stop="20260308232500 +0000" channel="Sky Documentaries HD.skyde">
-    <title>Sex und Macht: Die dunklen Begierden von Tyrannen</title>
+<programme start="20260302222000 +0000" stop="20260302231000 +0000" channel="Sky Documentaries HD.skyde">
+    <title>The First 48</title>
 </programme>
 <programme start="20260307232500 +0000" stop="20260308002500 +0000" channel="Sky Krimi HD.skyde">
     <title>Die Chefin</title>
@@ -2569,7 +2557,7 @@ Warning: Undefined array key "et" in /usr/home/ManusiaBiasa/domains/manusiabiasa
 <programme start="20260308153000 +0000" stop="20260308155000 +0000" channel="Sky Sport Austria 3 HD.skyde">
     <title>Es folgt: LIVE Admiral BL</title>
 </programme>
-<programme start="20260308155000 +0000" stop="20260308183000 +0000" channel="Sky Sport Austria 3 HD.skyde">
+<programme start="20260308155000 +0000" stop="20260308180000 +0000" channel="Sky Sport Austria 3 HD.skyde">
     <title>Live Admiral BL: SK Puntigamer Sturm Graz - SCR Altach, 22. Runde</title>
 </programme>
 <programme start="20260308153000 +0000" stop="20260308155000 +0000" channel="Sky Sport Austria 4 HD.skyde">
@@ -2620,10 +2608,10 @@ Warning: Undefined array key "et" in /usr/home/ManusiaBiasa/domains/manusiabiasa
 <programme start="20260308064500 +0000" stop="20260308070000 +0000" channel="Sky Sport Bundesliga HD.skyde">
     <title>BL: Im Herzen von Europa - Das Eintracht Magazin</title>
 </programme>
-<programme start="20260308070000 +0000" stop="20260308090000 +0000" channel="Sky Sport Bundesliga HD.skyde">
+<programme start="20260308070000 +0000" stop="20260308085500 +0000" channel="Sky Sport Bundesliga HD.skyde">
     <title>BL: 1. FC Köln - Borussia Dortmund, tipico Topspiel der Woche, 25. Spieltag</title>
 </programme>
-<programme start="20260308090000 +0000" stop="20260308095500 +0000" channel="Sky Sport Bundesliga HD.skyde">
+<programme start="20260308085500 +0000" stop="20260308095500 +0000" channel="Sky Sport Bundesliga HD.skyde">
     <title>BL: Alle Spiele, alle Stimmen, 25. Spieltag</title>
 </programme>
 <programme start="20260308095500 +0000" stop="20260308120000 +0000" channel="Sky Sport Bundesliga HD.skyde">
@@ -2731,7 +2719,7 @@ Warning: Undefined array key "et" in /usr/home/ManusiaBiasa/domains/manusiabiasa
 <programme start="20260308114000 +0000" stop="20260308120000 +0000" channel="Sky Sport Bundesliga 5 HD.skyde">
     <title>Es folgt: LIVE 2. Liga</title>
 </programme>
-<programme start="20260308120000 +0000" stop="20260308143000 +0000" channel="Sky Sport Bundesliga 5 HD.skyde">
+<programme start="20260308120000 +0000" stop="20260308150000 +0000" channel="Sky Sport Bundesliga 5 HD.skyde">
     <title>Live 2. BL: Multiview 25. Spieltag, Sonntag</title>
 </programme>
 <programme start="20260307231500 +0000" stop="20260307232500 +0000" channel="Sky Sport F1 HD.skyde">
@@ -3205,10 +3193,10 @@ Warning: Undefined array key "et" in /usr/home/ManusiaBiasa/domains/manusiabiasa
 <programme start="20260308223000 +0000" stop="20260308233000 +0000" channel="Sky Sport UHD.skyde">
     <title>F2: 2. Rennen - GP Australien</title>
 </programme>
-<programme start="20260307230000 +0000" stop="20260308013000 +0000" channel="Sky Sport 1 HD.skyde">
+<programme start="20260307230000 +0000" stop="20260308014500 +0000" channel="Sky Sport 1 HD.skyde">
     <title>Live NBA: Brooklyn Nets @ Detroit Pistons</title>
 </programme>
-<programme start="20260308013000 +0000" stop="20260308090000 +0000" channel="Sky Sport 1 HD.skyde">
+<programme start="20260308014500 +0000" stop="20260308090000 +0000" channel="Sky Sport 1 HD.skyde">
     <title>Live NBA: Golden State Warriors @ Oklahoma City Thunder</title>
 </programme>
 <programme start="20260308224000 +0000" stop="20260308230000 +0000" channel="Sky Sport 1 HD.skyde">
@@ -3223,7 +3211,7 @@ Warning: Undefined array key "et" in /usr/home/ManusiaBiasa/domains/manusiabiasa
 <programme start="20260308174000 +0000" stop="20260308180000 +0000" channel="Sky Sport 4 HD.skyde">
     <title>Es folgt: LIVE Tennis WTA Tour</title>
 </programme>
-<programme start="20260308180000 +0000" stop="20260309050000 +0000" channel="Sky Sport 4 HD.skyde">
+<programme start="20260308180000 +0000" stop="20260309090000 +0000" channel="Sky Sport 4 HD.skyde">
     <title>Live WTA 1000: BNP Paribas Open in Indian Wells, Kalifornien (USA), 5. Tag</title>
 </programme>
 <programme start="20260307234000 +0000" stop="20260308002500 +0000" channel="SYFY HD.skyde">
