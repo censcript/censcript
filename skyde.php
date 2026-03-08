@@ -2569,7 +2569,7 @@ Warning: Undefined array key "et" in /usr/home/ManusiaBiasa/domains/manusiabiasa
 <programme start="20260308153000 +0000" stop="20260308155000 +0000" channel="Sky Sport Austria 3 HD.skyde">
     <title>Es folgt: LIVE Admiral BL</title>
 </programme>
-<programme start="20260308155000 +0000" stop="20260308183000 +0000" channel="Sky Sport Austria 3 HD.skyde">
+<programme start="20260308155000 +0000" stop="20260308180000 +0000" channel="Sky Sport Austria 3 HD.skyde">
     <title>Live Admiral BL: SK Puntigamer Sturm Graz - SCR Altach, 22. Runde</title>
 </programme>
 <programme start="20260308153000 +0000" stop="20260308155000 +0000" channel="Sky Sport Austria 4 HD.skyde">
@@ -2587,7 +2587,7 @@ Warning: Undefined array key "et" in /usr/home/ManusiaBiasa/domains/manusiabiasa
 <programme start="20260308153000 +0000" stop="20260308155000 +0000" channel="Sky Sport Austria 6 HD.skyde">
     <title>Es folgt: LIVE Admiral BL</title>
 </programme>
-<programme start="20260308155000 +0000" stop="20260308183000 +0000" channel="Sky Sport Austria 6 HD.skyde">
+<programme start="20260308155000 +0000" stop="20260308180000 +0000" channel="Sky Sport Austria 6 HD.skyde">
     <title>Live Admiral BL: WSG Tirol - Grazer AK 1902, 22. Runde</title>
 </programme>
 <programme start="20260308153000 +0000" stop="20260308155000 +0000" channel="Sky Sport Austria 7 HD.skyde">
@@ -2629,10 +2629,10 @@ Warning: Undefined array key "et" in /usr/home/ManusiaBiasa/domains/manusiabiasa
 <programme start="20260308095500 +0000" stop="20260308120000 +0000" channel="Sky Sport Bundesliga HD.skyde">
     <title>Live DFB-Nachwuchsliga: RB Leipzig U19 - FC Bayern München U19, Hauptrunde, 5. Spieltag</title>
 </programme>
-<programme start="20260308120000 +0000" stop="20260308143500 +0000" channel="Sky Sport Bundesliga HD.skyde">
+<programme start="20260308120000 +0000" stop="20260308143000 +0000" channel="Sky Sport Bundesliga HD.skyde">
     <title>Live 2. BL: Sonntags-Konferenz, 25. Spieltag</title>
 </programme>
-<programme start="20260308143500 +0000" stop="20260308153000 +0000" channel="Sky Sport Bundesliga HD.skyde">
+<programme start="20260308143000 +0000" stop="20260308153000 +0000" channel="Sky Sport Bundesliga HD.skyde">
     <title>Live 2. BL Alle Spiele, alle Tore: Die Vodafone Highlight-Show, 25. Spieltag, Sonntag</title>
 </programme>
 <programme start="20260308153000 +0000" stop="20260308163000 +0000" channel="Sky Sport Bundesliga HD.skyde">
@@ -2683,10 +2683,10 @@ Warning: Undefined array key "et" in /usr/home/ManusiaBiasa/domains/manusiabiasa
 <programme start="20260308114000 +0000" stop="20260308120000 +0000" channel="Sky Sport Bundesliga 1 HD.skyde">
     <title>Es folgt: LIVE 2. Liga</title>
 </programme>
-<programme start="20260308120000 +0000" stop="20260308143500 +0000" channel="Sky Sport Bundesliga 1 HD.skyde">
+<programme start="20260308120000 +0000" stop="20260308143000 +0000" channel="Sky Sport Bundesliga 1 HD.skyde">
     <title>Live 2. BL: Sonntags-Konferenz, 25. Spieltag</title>
 </programme>
-<programme start="20260308143500 +0000" stop="20260308153000 +0000" channel="Sky Sport Bundesliga 1 HD.skyde">
+<programme start="20260308143000 +0000" stop="20260308153000 +0000" channel="Sky Sport Bundesliga 1 HD.skyde">
     <title>Live 2. BL Alle Spiele, alle Tore: Die Vodafone Highlight-Show, 25. Spieltag, Sonntag</title>
 </programme>
 <programme start="20260308153000 +0000" stop="20260308163000 +0000" channel="Sky Sport Bundesliga 1 HD.skyde">
@@ -2779,11 +2779,14 @@ Warning: Undefined array key "et" in /usr/home/ManusiaBiasa/domains/manusiabiasa
 <programme start="20260308103000 +0000" stop="20260308123000 +0000" channel="Sky Sport F1 HD.skyde">
     <title>F1: Rennen - GP Australien</title>
 </programme>
-<programme start="20260308123000 +0000" stop="20260308143000 +0000" channel="Sky Sport F1 HD.skyde">
+<programme start="20260308123000 +0000" stop="20260308135500 +0000" channel="Sky Sport F1 HD.skyde">
+    <title>F1: Vorberichte - GP Australien</title>
+</programme>
+<programme start="20260308135500 +0000" stop="20260308154500 +0000" channel="Sky Sport F1 HD.skyde">
     <title>F1: Rennen - GP Australien</title>
 </programme>
-<programme start="20260308143000 +0000" stop="20260308163000 +0000" channel="Sky Sport F1 HD.skyde">
-    <title>F1: Rennen - GP Australien</title>
+<programme start="20260308154500 +0000" stop="20260308163000 +0000" channel="Sky Sport F1 HD.skyde">
+    <title>F1: Analysen &amp; Interviews - GP Australien</title>
 </programme>
 <programme start="20260308163000 +0000" stop="20260308170000 +0000" channel="Sky Sport F1 HD.skyde">
     <title>F1: Pressekonferenz Rennen - GP Australien</title>
@@ -2812,10 +2815,10 @@ Warning: Undefined array key "et" in /usr/home/ManusiaBiasa/domains/manusiabiasa
 <programme start="20260308030000 +0000" stop="20260308033000 +0000" channel="Sky Sport Golf HD.skyde">
     <title>Golf: Tee Time Stories (1)</title>
 </programme>
-<programme start="20260308033000 +0000" stop="20260308083000 +0000" channel="Sky Sport Golf HD.skyde">
+<programme start="20260308033000 +0000" stop="20260308083500 +0000" channel="Sky Sport Golf HD.skyde">
     <title>Live LIV Golf: Hongkong, 4. Tag in China</title>
 </programme>
-<programme start="20260308083000 +0000" stop="20260308090000 +0000" channel="Sky Sport Golf HD.skyde">
+<programme start="20260308083500 +0000" stop="20260308090000 +0000" channel="Sky Sport Golf HD.skyde">
     <title>Golf: Tee Time Stories (3)</title>
 </programme>
 <programme start="20260308090000 +0000" stop="20260308110000 +0000" channel="Sky Sport Golf HD.skyde">
@@ -3088,10 +3091,10 @@ Warning: Undefined array key "et" in /usr/home/ManusiaBiasa/domains/manusiabiasa
 <programme start="20260308030000 +0000" stop="20260308035500 +0000" channel="Sky Sport Top Event HD.skyde">
     <title>Live F1: Vorberichte - GP Australien</title>
 </programme>
-<programme start="20260308035500 +0000" stop="20260308054500 +0000" channel="Sky Sport Top Event HD.skyde">
+<programme start="20260308035500 +0000" stop="20260308055000 +0000" channel="Sky Sport Top Event HD.skyde">
     <title>Live F1: Rennen - GP Australien</title>
 </programme>
-<programme start="20260308054500 +0000" stop="20260308063000 +0000" channel="Sky Sport Top Event HD.skyde">
+<programme start="20260308055000 +0000" stop="20260308063000 +0000" channel="Sky Sport Top Event HD.skyde">
     <title>Live F1: Analysen &amp; Interviews - GP Australien</title>
 </programme>
 <programme start="20260308063000 +0000" stop="20260308083000 +0000" channel="Sky Sport Top Event HD.skyde">
