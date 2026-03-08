@@ -4303,8 +4303,96 @@
 <programme start="20260308164000 +0000" stop="20260307171000 +0000" channel="Global Trekker HD.mncvision">
     <title>Destination Myanmar</title>
 </programme>
-Error: Unable to fetch data. HTTP Status Code: 500
-Error: Unable to fetch data. HTTP Status Code: 500
+<programme start="20260307170000 +0000" stop="20260307190000 +0000" channel="GTV.mncvision">
+    <title>Crime KV</title>
+</programme>
+<programme start="20260307190000 +0000" stop="20260307203000 +0000" channel="GTV.mncvision">
+    <title>Detection Of Di Renjie</title>
+</programme>
+<programme start="20260307203000 +0000" stop="20260307220000 +0000" channel="GTV.mncvision">
+    <title>Wu Shen Zao Zilong</title>
+</programme>
+<programme start="20260307220000 +0000" stop="20260307230000 +0000" channel="GTV.mncvision">
+    <title>Kisah Viral</title>
+</programme>
+<programme start="20260307230000 +0000" stop="20260308030000 +0000" channel="GTV.mncvision">
+    <title>SpongeBob SquarePants</title>
+</programme>
+<programme start="20260308030000 +0000" stop="20260308053000 +0000" channel="GTV.mncvision">
+    <title>SpongeBob SquarePants</title>
+</programme>
+<programme start="20260308053000 +0000" stop="20260308063000 +0000" channel="GTV.mncvision">
+    <title>Katak: The Brave Beluga</title>
+</programme>
+<programme start="20260308063000 +0000" stop="20260308073000 +0000" channel="GTV.mncvision">
+    <title>Zak Storm</title>
+</programme>
+<programme start="20260308073000 +0000" stop="20260308093000 +0000" channel="GTV.mncvision">
+    <title>SpongeBob SquarePants</title>
+</programme>
+<programme start="20260308093000 +0000" stop="20260308100000 +0000" channel="GTV.mncvision">
+    <title>SpongeBob SquarePants</title>
+</programme>
+<programme start="20260308100000 +0000" stop="20260308110000 +0000" channel="GTV.mncvision">
+    <title>Ramadan Sama Artis</title>
+</programme>
+<programme start="20260308110000 +0000" stop="20260308123000 +0000" channel="GTV.mncvision">
+    <title>New Family 100</title>
+</programme>
+<programme start="20260308123000 +0000" stop="20260308143000 +0000" channel="GTV.mncvision">
+    <title>Eagle Eye</title>
+</programme>
+<programme start="20260308143000 +0000" stop="20260308153000 +0000" channel="GTV.mncvision">
+    <title>Untold Story</title>
+</programme>
+<programme start="20260308153000 +0000" stop="20260308160000 +0000" channel="GTV.mncvision">
+    <title>Jelajah Mitos</title>
+</programme>
+<programme start="20260307170000 +0000" stop="20260307190000 +0000" channel="GTV HD.mncvision">
+    <title>Crime KV</title>
+</programme>
+<programme start="20260307190000 +0000" stop="20260307203000 +0000" channel="GTV HD.mncvision">
+    <title>Detection Of Di Renjie</title>
+</programme>
+<programme start="20260307203000 +0000" stop="20260307220000 +0000" channel="GTV HD.mncvision">
+    <title>Wu Shen Zao Zilong</title>
+</programme>
+<programme start="20260307220000 +0000" stop="20260307230000 +0000" channel="GTV HD.mncvision">
+    <title>Kisah Viral</title>
+</programme>
+<programme start="20260307230000 +0000" stop="20260308030000 +0000" channel="GTV HD.mncvision">
+    <title>SpongeBob SquarePants</title>
+</programme>
+<programme start="20260308030000 +0000" stop="20260308053000 +0000" channel="GTV HD.mncvision">
+    <title>SpongeBob SquarePants</title>
+</programme>
+<programme start="20260308053000 +0000" stop="20260308063000 +0000" channel="GTV HD.mncvision">
+    <title>Katak: The Brave Beluga</title>
+</programme>
+<programme start="20260308063000 +0000" stop="20260308073000 +0000" channel="GTV HD.mncvision">
+    <title>Zak Storm</title>
+</programme>
+<programme start="20260308073000 +0000" stop="20260308093000 +0000" channel="GTV HD.mncvision">
+    <title>SpongeBob SquarePants</title>
+</programme>
+<programme start="20260308093000 +0000" stop="20260308100000 +0000" channel="GTV HD.mncvision">
+    <title>SpongeBob SquarePants</title>
+</programme>
+<programme start="20260308100000 +0000" stop="20260308110000 +0000" channel="GTV HD.mncvision">
+    <title>Ramadan Sama Artis</title>
+</programme>
+<programme start="20260308110000 +0000" stop="20260308123000 +0000" channel="GTV HD.mncvision">
+    <title>New Family 100</title>
+</programme>
+<programme start="20260308123000 +0000" stop="20260308143000 +0000" channel="GTV HD.mncvision">
+    <title>Eagle Eye</title>
+</programme>
+<programme start="20260308143000 +0000" stop="20260308153000 +0000" channel="GTV HD.mncvision">
+    <title>Untold Story</title>
+</programme>
+<programme start="20260308153000 +0000" stop="20260308160000 +0000" channel="GTV HD.mncvision">
+    <title>Jelajah Mitos</title>
+</programme>
 <programme start="20260307210000 +0000" stop="20260307213000 +0000" channel="Hanacaraka TV.mncvision">
     <title>Ge Bams</title>
 </programme>
@@ -6345,7 +6433,6 @@ Error: Unable to fetch data. HTTP Status Code: 500
 <programme start="20260308165800 +0000" stop="20260307172800 +0000" channel="Moonbug.mncvision">
     <title>CoComelon</title>
 </programme>
-Error: Unable to fetch data. HTTP Status Code: 500
 <programme start="20260307173000 +0000" stop="20260307183000 +0000" channel="Music TV.mncvision">
     <title>Localicious</title>
 </programme>
