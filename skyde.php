@@ -2557,13 +2557,13 @@ Warning: Undefined array key "et" in /usr/home/ManusiaBiasa/domains/manusiabiasa
 <programme start="20260308153000 +0000" stop="20260308155000 +0000" channel="Sky Sport Austria 2 HD.skyde">
     <title>Es folgt: LIVE Admiral BL</title>
 </programme>
-<programme start="20260308155000 +0000" stop="20260308183000 +0000" channel="Sky Sport Austria 2 HD.skyde">
+<programme start="20260308155000 +0000" stop="20260308180000 +0000" channel="Sky Sport Austria 2 HD.skyde">
     <title>Live Admiral BL: SK Rapid - FC Red Bull Salzburg, 22. Runde</title>
 </programme>
 <programme start="20260308201000 +0000" stop="20260308203000 +0000" channel="Sky Sport Austria 2 HD.skyde">
     <title>Es folgt: LIVE NHL</title>
 </programme>
-<programme start="20260308203000 +0000" stop="20260309090000 +0000" channel="Sky Sport Austria 2 HD.skyde">
+<programme start="20260308203000 +0000" stop="20260308233000 +0000" channel="Sky Sport Austria 2 HD.skyde">
     <title>Live NHL: Boston Bruins @ Pittsburgh Penguins</title>
 </programme>
 <programme start="20260308153000 +0000" stop="20260308155000 +0000" channel="Sky Sport Austria 3 HD.skyde">
@@ -2581,7 +2581,7 @@ Warning: Undefined array key "et" in /usr/home/ManusiaBiasa/domains/manusiabiasa
 <programme start="20260308153000 +0000" stop="20260308155000 +0000" channel="Sky Sport Austria 5 HD.skyde">
     <title>Es folgt: LIVE Admiral BL</title>
 </programme>
-<programme start="20260308155000 +0000" stop="20260308180000 +0000" channel="Sky Sport Austria 5 HD.skyde">
+<programme start="20260308155000 +0000" stop="20260308183000 +0000" channel="Sky Sport Austria 5 HD.skyde">
     <title>Live Admiral BL: TSV Egger Glas Hartberg - FC Blau-Weiß Linz, 22. Runde</title>
 </programme>
 <programme start="20260308153000 +0000" stop="20260308155000 +0000" channel="Sky Sport Austria 6 HD.skyde">
@@ -2698,7 +2698,7 @@ Warning: Undefined array key "et" in /usr/home/ManusiaBiasa/domains/manusiabiasa
 <programme start="20260308170000 +0000" stop="20260308183000 +0000" channel="Sky Sport Bundesliga 1 HD.skyde">
     <title>Live BL: Sky90 - Die Fußballdebatte</title>
 </programme>
-<programme start="20260308183000 +0000" stop="20260308191500 +0000" channel="Sky Sport Bundesliga 1 HD.skyde">
+<programme start="20260308183000 +0000" stop="20260308194500 +0000" channel="Sky Sport Bundesliga 1 HD.skyde">
     <title>Live BL: Highlights XXL: FCU - SVW, 25. Spieltag</title>
 </programme>
 <programme start="20260308114000 +0000" stop="20260308120000 +0000" channel="Sky Sport Bundesliga 2 HD.skyde">
@@ -2713,7 +2713,7 @@ Warning: Undefined array key "et" in /usr/home/ManusiaBiasa/domains/manusiabiasa
 <programme start="20260308163000 +0000" stop="20260308183000 +0000" channel="Sky Sport Bundesliga 2 HD.skyde">
     <title>BL: FC St. Pauli - Eintracht Frankfurt, 25. Spieltag</title>
 </programme>
-<programme start="20260308183000 +0000" stop="20260308203000 +0000" channel="Sky Sport Bundesliga 2 HD.skyde">
+<programme start="20260308183000 +0000" stop="20260308210000 +0000" channel="Sky Sport Bundesliga 2 HD.skyde">
     <title>BL: 1. FC Union Berlin - Werder Bremen, 25. Spieltag</title>
 </programme>
 <programme start="20260308114000 +0000" stop="20260308120000 +0000" channel="Sky Sport Bundesliga 3 HD.skyde">
@@ -2727,6 +2727,12 @@ Warning: Undefined array key "et" in /usr/home/ManusiaBiasa/domains/manusiabiasa
 </programme>
 <programme start="20260308120000 +0000" stop="20260308143000 +0000" channel="Sky Sport Bundesliga 4 HD.skyde">
     <title>Live 2. BL: Preußen Münster - Hertha BSC, 25. Spieltag</title>
+</programme>
+<programme start="20260308114000 +0000" stop="20260308120000 +0000" channel="Sky Sport Bundesliga 5 HD.skyde">
+    <title>Es folgt: LIVE 2. Liga</title>
+</programme>
+<programme start="20260308120000 +0000" stop="20260308143000 +0000" channel="Sky Sport Bundesliga 5 HD.skyde">
+    <title>Live 2. BL: Multiview 25. Spieltag, Sonntag</title>
 </programme>
 <programme start="20260307231500 +0000" stop="20260307232500 +0000" channel="Sky Sport F1 HD.skyde">
     <title>F1: Greatest Races: J. Herbert / Nürburgring 1999</title>
@@ -2746,10 +2752,10 @@ Warning: Undefined array key "et" in /usr/home/ManusiaBiasa/domains/manusiabiasa
 <programme start="20260308023000 +0000" stop="20260308035500 +0000" channel="Sky Sport F1 HD.skyde">
     <title>Live F1: Vorberichte - GP Australien</title>
 </programme>
-<programme start="20260308035500 +0000" stop="20260308055000 +0000" channel="Sky Sport F1 HD.skyde">
+<programme start="20260308035500 +0000" stop="20260308054500 +0000" channel="Sky Sport F1 HD.skyde">
     <title>Live F1: Rennen - GP Australien</title>
 </programme>
-<programme start="20260308055000 +0000" stop="20260308063000 +0000" channel="Sky Sport F1 HD.skyde">
+<programme start="20260308054500 +0000" stop="20260308063000 +0000" channel="Sky Sport F1 HD.skyde">
     <title>Live F1: Analysen &amp; Interviews - GP Australien</title>
 </programme>
 <programme start="20260308063000 +0000" stop="20260308070000 +0000" channel="Sky Sport F1 HD.skyde">
@@ -3211,7 +3217,7 @@ Warning: Undefined array key "et" in /usr/home/ManusiaBiasa/domains/manusiabiasa
 <programme start="20260308162500 +0000" stop="20260308164500 +0000" channel="Sky Sport 3 HD.skyde">
     <title>Es folgt: LIVE NBA</title>
 </programme>
-<programme start="20260308164500 +0000" stop="20260308200000 +0000" channel="Sky Sport 3 HD.skyde">
+<programme start="20260308164500 +0000" stop="20260308220000 +0000" channel="Sky Sport 3 HD.skyde">
     <title>Live NBA: Boston Celtics @ Cleveland Cavaliers</title>
 </programme>
 <programme start="20260308174000 +0000" stop="20260308180000 +0000" channel="Sky Sport 4 HD.skyde">
