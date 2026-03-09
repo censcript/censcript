@@ -14924,8 +14924,8 @@
     <category lang="en">News</category>
   </programme>
   <programme start="20260308171500 +0000" stop="20260308173000 +0000" channel="nhkworldjapan.unifitv">
-    <title lang="en">NHK WORLD-JAPAN Special program</title>
-    <desc lang="en">NHK WORLD-JAPAN presents a wide range of programs from news, current affairs, documentaries, etc. focusing on Japan and Asia.</desc>
+    <title lang="en">Hit the Road:MIYAGI</title>
+    <desc lang="en">Departing from Sendai Station in Miyagi, we drive along the Pacific coast to Sanriku. Struck by a devastating tsunami, the region has risen with resilience, 15 years on.</desc>
     <category lang="en">News</category>
     <episode-num system="xmltv_ns">0.3024.</episode-num>
     <episode-num system="onscreen">S1E3025</episode-num>
@@ -14995,8 +14995,8 @@
     <episode-num system="onscreen">S1E4034</episode-num>
   </programme>
   <programme start="20260308205500 +0000" stop="20260308210500 +0000" channel="nhkworldjapan.unifitv">
-    <title lang="en">Entertaiment</title>
-    <desc lang="en">A selection of acclaimed programs from NHK's domestic channels dubbed into English.</desc>
+    <title lang="en">I Love 'Mee'</title>
+    <desc lang="en">After mastering writing autographs, Mee heads to the park, only to find a huge white statue! Feeling a strong urge to sign it and seeing no one else around, Mee gives in to temptation...</desc>
     <category lang="en">News</category>
     <episode-num system="xmltv_ns">0.5202.</episode-num>
     <episode-num system="onscreen">S1E5203</episode-num>
@@ -15040,8 +15040,8 @@
     <category lang="en">News</category>
   </programme>
   <programme start="20260308221500 +0000" stop="20260308223000 +0000" channel="nhkworldjapan.unifitv">
-    <title lang="en">NHK WORLD-JAPAN Special program</title>
-    <desc lang="en">NHK WORLD-JAPAN presents a wide range of programs from news, current affairs, documentaries, etc. focusing on Japan and Asia.</desc>
+    <title lang="en">Hit the Road:MIYAGI</title>
+    <desc lang="en">Departing from Sendai Station in Miyagi, we drive along the Pacific coast to Sanriku. Struck by a devastating tsunami, the region has risen with resilience, 15 years on.</desc>
     <category lang="en">News</category>
     <episode-num system="xmltv_ns">0.3024.</episode-num>
     <episode-num system="onscreen">S1E3025</episode-num>

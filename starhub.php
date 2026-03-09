@@ -1489,10 +1489,7 @@
     <programme start="20260309010000 +0000" stop="20260309040000 +0000" channel="COLORS Tamil HD.starhub">
         <title>Ruler</title>
     </programme>
-    <programme start="20260309040000 +0000" stop="20260309043000 +0000" channel="COLORS Tamil HD.starhub">
-        <title>Kadhala Kadhala</title>
-    </programme>
-    <programme start="20260309043000 +0000" stop="20260309050000 +0000" channel="COLORS Tamil HD.starhub">
+    <programme start="20260309040000 +0000" stop="20260309050000 +0000" channel="COLORS Tamil HD.starhub">
         <title>Kadhala Kadhala</title>
     </programme>
     <programme start="20260309050000 +0000" stop="20260309053000 +0000" channel="COLORS Tamil HD.starhub">
@@ -1537,7 +1534,7 @@
     <programme start="20260309140000 +0000" stop="20260309143000 +0000" channel="COLORS Tamil HD.starhub">
         <title>Adhe Kangal</title>
     </programme>
-    <programme start="20260309143000 +0000" stop="20260309173000 +0000" channel="COLORS Tamil HD.starhub">
+    <programme start="20260309143000 +0000" stop="20260309160000 +0000" channel="COLORS Tamil HD.starhub">
         <title>Selfie</title>
     </programme>
     <programme start="20260308160000 +0000" stop="20260308170000 +0000" channel="TVBS Asia.starhub">
@@ -5881,7 +5878,7 @@
     <programme start="20260309143000 +0000" stop="20260309151500 +0000" channel="ROCK Entertainment.starhub">
         <title>The Real Housewives of Beverly Hills S15</title>
     </programme>
-    <programme start="20260309151500 +0000" stop="20260309164500 +0000" channel="ROCK Entertainment.starhub">
+    <programme start="20260309151500 +0000" stop="20260309160000 +0000" channel="ROCK Entertainment.starhub">
         <title>The Tonight Show Starring Jimmy Fallon S13</title>
     </programme>
     <programme start="20260308155500 +0000" stop="20260308170000 +0000" channel="BBC Earth HD.starhub">
@@ -7388,7 +7385,7 @@
         <title>BBC News</title>
     </programme>
     <programme start="20260309003000 +0000" stop="20260309010000 +0000" channel="BBC World News HD.starhub">
-        <title>The Media Show</title>
+        <title>Iran And The Bigger Story</title>
     </programme>
     <programme start="20260309010000 +0000" stop="20260309013000 +0000" channel="BBC World News HD.starhub">
         <title>BBC News</title>

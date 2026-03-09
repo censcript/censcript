@@ -2968,120 +2968,6 @@
 <programme start="20260309223000 +0000" stop="20260309230000 +0000" channel="Sky Sport News HD.skyde">
     <title>Live Sky Sport News: Late Night News</title>
 </programme>
-<programme start="20260309004500 +0000" stop="20260309010000 +0000" channel="Sky Sport Premier League HD.skyde">
-    <title>PL: Last Gasp - S. Aguero wins Manchester City&#039;s first Title</title>
-</programme>
-<programme start="20260309010000 +0000" stop="20260309030000 +0000" channel="Sky Sport Premier League HD.skyde">
-    <title>PL: Wolverhampton Wanderers - FC Liverpool, 29. Spieltag</title>
-</programme>
-<programme start="20260309030000 +0000" stop="20260309040000 +0000" channel="Sky Sport Premier League HD.skyde">
-    <title>PL: GOATS (Strikers)</title>
-</programme>
-<programme start="20260309040000 +0000" stop="20260309050000 +0000" channel="Sky Sport Premier League HD.skyde">
-    <title>PL: GOATS (Flair Players)</title>
-</programme>
-<programme start="20260309050000 +0000" stop="20260309060000 +0000" channel="Sky Sport Premier League HD.skyde">
-    <title>PL: GOATS (Alan Shearer&#039;s Top 10 Strikers)</title>
-</programme>
-<programme start="20260309060000 +0000" stop="20260309063000 +0000" channel="Sky Sport Premier League HD.skyde">
-    <title>PL: 90in30: EVE - BUR, 29. Spieltag</title>
-</programme>
-<programme start="20260309063000 +0000" stop="20260309070000 +0000" channel="Sky Sport Premier League HD.skyde">
-    <title>PL: Netbusters, 29. Spieltag</title>
-</programme>
-<programme start="20260309070000 +0000" stop="20260309090000 +0000" channel="Sky Sport Premier League HD.skyde">
-    <title>EFL: Queens Park Rangers - FC Middlesbrough, 36. Spieltag</title>
-</programme>
-<programme start="20260309090000 +0000" stop="20260309093000 +0000" channel="Sky Sport Premier League HD.skyde">
-    <title>PL: International Women&#039;s Day - Beyond the Whistle</title>
-</programme>
-<programme start="20260309093000 +0000" stop="20260309100000 +0000" channel="Sky Sport Premier League HD.skyde">
-    <title>PL: 90in30: BRI - ARS, 29. Spieltag</title>
-</programme>
-<programme start="20260309100000 +0000" stop="20260309110000 +0000" channel="Sky Sport Premier League HD.skyde">
-    <title>PL: Review, 29. Spieltag</title>
-</programme>
-<programme start="20260309110000 +0000" stop="20260309113000 +0000" channel="Sky Sport Premier League HD.skyde">
-    <title>PL: Icons: Eric Cantona</title>
-</programme>
-<programme start="20260309113000 +0000" stop="20260309120000 +0000" channel="Sky Sport Premier League HD.skyde">
-    <title>PL: 90in30: FUL - WHU, 29. Spieltag</title>
-</programme>
-<programme start="20260309120000 +0000" stop="20260309121500 +0000" channel="Sky Sport Premier League HD.skyde">
-    <title>PL: Under the Skin (Newcastle v Sunderland)</title>
-</programme>
-<programme start="20260309121500 +0000" stop="20260309124500 +0000" channel="Sky Sport Premier League HD.skyde">
-    <title>PL: 90in30: BOU - BRE, 29. Spieltag</title>
-</programme>
-<programme start="20260309124500 +0000" stop="20260309131500 +0000" channel="Sky Sport Premier League HD.skyde">
-    <title>PL: Under the Skin (Nottingham Forest)</title>
-</programme>
-<programme start="20260309131500 +0000" stop="20260309133000 +0000" channel="Sky Sport Premier League HD.skyde">
-    <title>PL: Under the Skin (North London Derby)</title>
-</programme>
-<programme start="20260309133000 +0000" stop="20260309140000 +0000" channel="Sky Sport Premier League HD.skyde">
-    <title>PL: 90in30: TOT - CRY, 29. Spieltag</title>
-</programme>
-<programme start="20260309140000 +0000" stop="20260309141500 +0000" channel="Sky Sport Premier League HD.skyde">
-    <title>PL: Fergie - Rise of a Dynasty</title>
-</programme>
-<programme start="20260309141500 +0000" stop="20260309144500 +0000" channel="Sky Sport Premier League HD.skyde">
-    <title>PL: Netbusters, 29. Spieltag</title>
-</programme>
-<programme start="20260309144500 +0000" stop="20260309151500 +0000" channel="Sky Sport Premier League HD.skyde">
-    <title>PL: International Women&#039;s Day - Beyond the Whistle</title>
-</programme>
-<programme start="20260309151500 +0000" stop="20260309153000 +0000" channel="Sky Sport Premier League HD.skyde">
-    <title>PL: Under the Skin (FC Everton)</title>
-</programme>
-<programme start="20260309153000 +0000" stop="20260309173000 +0000" channel="Sky Sport Premier League HD.skyde">
-    <title>EFL: Queens Park Rangers - FC Middlesbrough, 36. Spieltag</title>
-</programme>
-<programme start="20260309173000 +0000" stop="20260309180000 +0000" channel="Sky Sport Premier League HD.skyde">
-    <title>PL: PL Stories (Sports Science)</title>
-</programme>
-<programme start="20260309180000 +0000" stop="20260309183000 +0000" channel="Sky Sport Premier League HD.skyde">
-    <title>PL: International Women&#039;s Day - Beyond the Whistle</title>
-</programme>
-<programme start="20260309183000 +0000" stop="20260309190000 +0000" channel="Sky Sport Premier League HD.skyde">
-    <title>PL: 90in30: AVL - CHE, 29. Spieltag</title>
-</programme>
-<programme start="20260309190000 +0000" stop="20260309191500 +0000" channel="Sky Sport Premier League HD.skyde">
-    <title>EFL: Highlights XXL: FC Watford - AFC Wrexham, 36. Spieltag</title>
-</programme>
-<programme start="20260309191500 +0000" stop="20260309193000 +0000" channel="Sky Sport Premier League HD.skyde">
-    <title>EFL: Highlights XXL: Bristol City - Coventry City, 36. Spieltag</title>
-</programme>
-<programme start="20260309193000 +0000" stop="20260309194500 +0000" channel="Sky Sport Premier League HD.skyde">
-    <title>EFL: Highlights XXL: Swansea City - Stoke City, 36. Spieltag</title>
-</programme>
-<programme start="20260309194500 +0000" stop="20260309200000 +0000" channel="Sky Sport Premier League HD.skyde">
-    <title>EFL: Highlights XXL: Sheffield United - West Bromwich Albion, 36. Spieltag</title>
-</programme>
-<programme start="20260309200000 +0000" stop="20260309203000 +0000" channel="Sky Sport Premier League HD.skyde">
-    <title>EFL: Highlights, 36. Spieltag</title>
-</programme>
-<programme start="20260309203000 +0000" stop="20260309210000 +0000" channel="Sky Sport Premier League HD.skyde">
-    <title>EFL: Highlights, 36. Spieltag</title>
-</programme>
-<programme start="20260309210000 +0000" stop="20260309213000 +0000" channel="Sky Sport Premier League HD.skyde">
-    <title>PL: 90in30: WOL - LIV, 29. Spieltag</title>
-</programme>
-<programme start="20260309213000 +0000" stop="20260309214500 +0000" channel="Sky Sport Premier League HD.skyde">
-    <title>EFL: Highlights XXL: FC Watford - AFC Wrexham, 36. Spieltag</title>
-</programme>
-<programme start="20260309214500 +0000" stop="20260309220000 +0000" channel="Sky Sport Premier League HD.skyde">
-    <title>EFL: Highlights XXL: Bristol City - Coventry City, 36. Spieltag</title>
-</programme>
-<programme start="20260309220000 +0000" stop="20260309221500 +0000" channel="Sky Sport Premier League HD.skyde">
-    <title>EFL: Highlights XXL: Swansea City - Stoke City, 36. Spieltag</title>
-</programme>
-<programme start="20260309221500 +0000" stop="20260309223000 +0000" channel="Sky Sport Premier League HD.skyde">
-    <title>EFL: Highlights XXL: Sheffield United - West Bromwich Albion, 36. Spieltag</title>
-</programme>
-<programme start="20260309223000 +0000" stop="20260310003000 +0000" channel="Sky Sport Premier League HD.skyde">
-    <title>PL: Brighton &amp; Hove Albion - FC Arsenal, 29. Spieltag</title>
-</programme>
 <programme start="20260309050000 +0000" stop="20260309053000 +0000" channel="Sky Sport Tennis HD.skyde">
     <title>ATP: This Week</title>
 </programme>
@@ -3199,7 +3085,7 @@
 <programme start="20260309174000 +0000" stop="20260309180000 +0000" channel="Sky Sport 2 HD.skyde">
     <title>Es folgt: LIVE Tennis WTA Tour</title>
 </programme>
-<programme start="20260309180000 +0000" stop="20260310090000 +0000" channel="Sky Sport 2 HD.skyde">
+<programme start="20260309180000 +0000" stop="20260310050000 +0000" channel="Sky Sport 2 HD.skyde">
     <title>Live WTA 1000: BNP Paribas Open in Indian Wells, Kalifornien (USA), 6. Tag</title>
 </programme>
 <programme start="20260308234000 +0000" stop="20260309002500 +0000" channel="SYFY HD.skyde">
