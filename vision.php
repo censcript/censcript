@@ -562,13 +562,13 @@
 <programme start="20260309163000 +0000" stop="20260309190000 +0000" channel="Trans TV.vision">
 <title>Bioskop Trans TV</title>
 </programme>
-<programme start="20260309190000 +0000" stop="20260309220000 +0000" channel="Trans TV.vision">
+<programme start="20260309190000 +0000" stop="20260309214500 +0000" channel="Trans TV.vision">
 <title>Blockbuster Sahur Movie</title>
 </programme>
-<programme start="20260309220000 +0000" stop="20260309230000 +0000" channel="Trans TV.vision">
-<title>Dunia Punya Cerita</title>
+<programme start="20260309214500 +0000" stop="20260309224500 +0000" channel="Trans TV.vision">
+<title>Fast &amp; Furious: Spy Racers</title>
 </programme>
-<programme start="20260309230000 +0000" stop="20260310000000 +0000" channel="Trans TV.vision">
+<programme start="20260309224500 +0000" stop="20260310000000 +0000" channel="Trans TV.vision">
 <title>Islam Itu Indah</title>
 </programme>
 <programme start="20260310000000 +0000" stop="20260310010000 +0000" channel="Trans TV.vision">
@@ -735,6 +735,15 @@
 </programme>
 <programme start="20260309090000 +0000" stop="20260309110000 +0000" channel="ANTV.vision">
 <title>Vasudha</title>
+</programme>
+<programme start="20260309110000 +0000" stop="20260309130000 +0000" channel="ANTV.vision">
+<title>Jaka Tuak</title>
+</programme>
+<programme start="20260309130000 +0000" stop="20260309150000 +0000" channel="ANTV.vision">
+<title>Jampang 2</title>
+</programme>
+<programme start="20260309150000 +0000" stop="20260309170000 +0000" channel="ANTV.vision">
+<title>Jodoh Boleh Diatur</title>
 </programme>
 <programme start="20260309170000 +0000" stop="20260309183000 +0000" channel="ANTV.vision">
 <title>Naughty Bomb</title>
@@ -1488,13 +1497,4 @@
 </programme>
 <programme start="20260309083000 +0000" stop="20260309090000 +0000" channel="BTV.vision">
 <title>Berita Kriminal</title>
-</programme>
-<programme start="20260309090000 +0000" stop="20260309100000 +0000" channel="BTV.vision">
-<title>Berita Satu Sore (L)</title>
-</programme>
-<programme start="20260309100000 +0000" stop="20260309105900 +0000" channel="BTV.vision">
-<title>Jalan Dakwah Ramadan</title>
-</programme>
-<programme start="20260309105900 +0000" stop="20260309110600 +0000" channel="BTV.vision">
-<title>Kultum</title>
 </programme>

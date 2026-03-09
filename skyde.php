@@ -586,10 +586,10 @@
 <programme start="20260309054000 +0000" stop="20260309055500 +0000" channel="Cartoonito.skyde">
     <title>SuperThings: Rivalen von Kaboom - Kazoom-Power</title>
 </programme>
-<programme start="20260309055500 +0000" stop="20260309060000 +0000" channel="Cartoonito.skyde">
+<programme start="20260309055500 +0000" stop="20260309060500 +0000" channel="Cartoonito.skyde">
     <title>Grizzy und die Lemminge</title>
 </programme>
-<programme start="20260309060000 +0000" stop="20260309061000 +0000" channel="Cartoonito.skyde">
+<programme start="20260309060500 +0000" stop="20260309061000 +0000" channel="Cartoonito.skyde">
     <title>Grizzy und die Lemminge</title>
 </programme>
 <programme start="20260309061000 +0000" stop="20260309062500 +0000" channel="Cartoonito.skyde">
@@ -652,10 +652,10 @@
 <programme start="20260309102500 +0000" stop="20260309104000 +0000" channel="Cartoonito.skyde">
     <title>Die Tom und Jerry Show</title>
 </programme>
-<programme start="20260309104000 +0000" stop="20260309105000 +0000" channel="Cartoonito.skyde">
+<programme start="20260309104000 +0000" stop="20260309104500 +0000" channel="Cartoonito.skyde">
     <title>Die Tom und Jerry Show</title>
 </programme>
-<programme start="20260309105000 +0000" stop="20260309110000 +0000" channel="Cartoonito.skyde">
+<programme start="20260309104500 +0000" stop="20260309110000 +0000" channel="Cartoonito.skyde">
     <title>Die Tom und Jerry Show</title>
 </programme>
 <programme start="20260309110000 +0000" stop="20260309111500 +0000" channel="Cartoonito.skyde">
@@ -757,16 +757,16 @@
 <programme start="20260309191000 +0000" stop="20260309192500 +0000" channel="Cartoonito.skyde">
     <title>Mr. Bean - Die Cartoon-Serie</title>
 </programme>
-<programme start="20260309192500 +0000" stop="20260309193500 +0000" channel="Cartoonito.skyde">
+<programme start="20260309192500 +0000" stop="20260309194000 +0000" channel="Cartoonito.skyde">
     <title>Mr. Bean - Die Cartoon-Serie</title>
 </programme>
-<programme start="20260309193500 +0000" stop="20260309195500 +0000" channel="Cartoonito.skyde">
+<programme start="20260309194000 +0000" stop="20260309195500 +0000" channel="Cartoonito.skyde">
     <title>Mr. Bean - Die Cartoon-Serie</title>
 </programme>
-<programme start="20260309195500 +0000" stop="20260309200000 +0000" channel="Cartoonito.skyde">
+<programme start="20260309195500 +0000" stop="20260309200500 +0000" channel="Cartoonito.skyde">
     <title>Grizzy und die Lemminge</title>
 </programme>
-<programme start="20260309200000 +0000" stop="20260309201000 +0000" channel="Cartoonito.skyde">
+<programme start="20260309200500 +0000" stop="20260309201000 +0000" channel="Cartoonito.skyde">
     <title>Grizzy und die Lemminge</title>
 </programme>
 <programme start="20260309201000 +0000" stop="20260309202500 +0000" channel="Cartoonito.skyde">
@@ -784,10 +784,10 @@
 <programme start="20260309204500 +0000" stop="20260309205500 +0000" channel="Cartoonito.skyde">
     <title>Grizzy und die Lemminge</title>
 </programme>
-<programme start="20260309205500 +0000" stop="20260309210500 +0000" channel="Cartoonito.skyde">
+<programme start="20260309205500 +0000" stop="20260309211000 +0000" channel="Cartoonito.skyde">
     <title>Batwheels</title>
 </programme>
-<programme start="20260309210500 +0000" stop="20260309212500 +0000" channel="Cartoonito.skyde">
+<programme start="20260309211000 +0000" stop="20260309212500 +0000" channel="Cartoonito.skyde">
     <title>Batwheels</title>
 </programme>
 <programme start="20260309212500 +0000" stop="20260309213500 +0000" channel="Cartoonito.skyde">
@@ -814,7 +814,7 @@
 <programme start="20260309225000 +0000" stop="20260309225500 +0000" channel="Cartoonito.skyde">
     <title>Die Tom und Jerry Show</title>
 </programme>
-<programme start="20260309225500 +0000" stop="20260309230000 +0000" channel="Cartoonito.skyde">
+<programme start="20260309225500 +0000" stop="20260309230500 +0000" channel="Cartoonito.skyde">
     <title>Die Tom und Jerry Show</title>
 </programme>
 <programme start="20260308231000 +0000" stop="20260308235500 +0000" channel="Crime + Investigation.skyde">
@@ -2594,7 +2594,7 @@
     <title>Admiral BL: SK Rapid - FC Red Bull Salzburg, 22. Runde</title>
 </programme>
 <programme start="20260309130000 +0000" stop="20260309133000 +0000" channel="Sky Sport Austria 1 HD.skyde">
-    <title>RIESENrad: Sportgrößen im Waggon 28 (Gast: Benjamin Karl)</title>
+    <title>RIESENrad: Sportgrößen im Waggon 28</title>
 </programme>
 <programme start="20260309133000 +0000" stop="20260309140000 +0000" channel="Sky Sport Austria 1 HD.skyde">
     <title>Admiral BL: ASAT Kompakt, 22. Runde</title>
@@ -2606,7 +2606,7 @@
     <title>Admiral BL: LASK - RZ Pellets WAC, 22. Runde</title>
 </programme>
 <programme start="20260309163000 +0000" stop="20260309170000 +0000" channel="Sky Sport Austria 1 HD.skyde">
-    <title>RIESENrad: Sportgrößen im Waggon 28 (Gast: Benjamin Karl)</title>
+    <title>RIESENrad: Sportgrößen im Waggon 28</title>
 </programme>
 <programme start="20260309170000 +0000" stop="20260309173000 +0000" channel="Sky Sport Austria 1 HD.skyde">
     <title>Admiral BL: 90in30: SCR - RBS, 22. Runde</title>
@@ -2635,95 +2635,89 @@
 <programme start="20260309223000 +0000" stop="20260310003000 +0000" channel="Sky Sport Austria 1 HD.skyde">
     <title>Admiral BL: SV Oberbank Ried - FK Austria Wien, 22. Runde</title>
 </programme>
-<programme start="20260308230000 +0000" stop="20260309000000 +0000" channel="Sky Sport Bundesliga HD.skyde">
-    <title>BL Kompakt: 25. Spieltag</title>
+<programme start="20260307234500 +0000" stop="20260308004500 +0000" channel="Sky Sport Bundesliga HD.skyde">
+    <title>2. BL Alle Spiele, alle Tore: Die Vodafone Highlight-Show, 25. Spieltag, Samstag komplett</title>
 </programme>
-<programme start="20260309000000 +0000" stop="20260309010000 +0000" channel="Sky Sport Bundesliga HD.skyde">
-    <title>2. BL Kompakt: 25. Spieltag</title>
+<programme start="20260308004500 +0000" stop="20260308024500 +0000" channel="Sky Sport Bundesliga HD.skyde">
+    <title>BL: 1. FC Köln - Borussia Dortmund, tipico Topspiel der Woche, 25. Spieltag</title>
 </programme>
-<programme start="20260309010000 +0000" stop="20260309011500 +0000" channel="Sky Sport Bundesliga HD.skyde">
-    <title>BL: Dein Spieltags-Sprint (25)</title>
+<programme start="20260308024500 +0000" stop="20260308044500 +0000" channel="Sky Sport Bundesliga HD.skyde">
+    <title>2. BL: VfL Bochum - 1. FC Kaiserslautern, tipico Topspiel der Woche, 25. Spieltag</title>
 </programme>
-<programme start="20260309011500 +0000" stop="20260309013000 +0000" channel="Sky Sport Bundesliga HD.skyde">
+<programme start="20260308044500 +0000" stop="20260308050000 +0000" channel="Sky Sport Bundesliga HD.skyde">
+    <title>BL: Highlights XXL: WOB - HSV, 25. Spieltag</title>
+</programme>
+<programme start="20260308050000 +0000" stop="20260308060000 +0000" channel="Sky Sport Bundesliga HD.skyde">
+    <title>2. BL Alle Spiele, alle Tore: Die Vodafone Highlight-Show, 25. Spieltag, Samstag komplett</title>
+</programme>
+<programme start="20260308060000 +0000" stop="20260308063000 +0000" channel="Sky Sport Bundesliga HD.skyde">
+    <title>Meine Geschichte: Das Leben von Michael Ballack (Teil 1)</title>
+</programme>
+<programme start="20260308063000 +0000" stop="20260308064500 +0000" channel="Sky Sport Bundesliga HD.skyde">
+    <title>BL: Highlights XXL: WOB - HSV, 25. Spieltag</title>
+</programme>
+<programme start="20260308064500 +0000" stop="20260308070000 +0000" channel="Sky Sport Bundesliga HD.skyde">
+    <title>BL: Im Herzen von Europa - Das Eintracht Magazin</title>
+</programme>
+<programme start="20260308070000 +0000" stop="20260308085500 +0000" channel="Sky Sport Bundesliga HD.skyde">
+    <title>BL: 1. FC Köln - Borussia Dortmund, tipico Topspiel der Woche, 25. Spieltag</title>
+</programme>
+<programme start="20260308085500 +0000" stop="20260308095500 +0000" channel="Sky Sport Bundesliga HD.skyde">
+    <title>BL: Alle Spiele, alle Stimmen, 25. Spieltag</title>
+</programme>
+<programme start="20260308095500 +0000" stop="20260308120000 +0000" channel="Sky Sport Bundesliga HD.skyde">
+    <title>Live DFB-Nachwuchsliga: RB Leipzig U19 - FC Bayern München U19, Hauptrunde, 5. Spieltag</title>
+</programme>
+<programme start="20260308120000 +0000" stop="20260308143500 +0000" channel="Sky Sport Bundesliga HD.skyde">
+    <title>Live 2. BL: Sonntags-Konferenz, 25. Spieltag</title>
+</programme>
+<programme start="20260308143500 +0000" stop="20260308153000 +0000" channel="Sky Sport Bundesliga HD.skyde">
+    <title>Live 2. BL Alle Spiele, alle Tore: Die Vodafone Highlight-Show, 25. Spieltag, Sonntag</title>
+</programme>
+<programme start="20260308153000 +0000" stop="20260308163000 +0000" channel="Sky Sport Bundesliga HD.skyde">
+    <title>Live BL: Skylights: Die #SkySportShow</title>
+</programme>
+<programme start="20260308163000 +0000" stop="20260308170000 +0000" channel="Sky Sport Bundesliga HD.skyde">
+    <title>Live BL: Highlights XXL: STP - SGE, 25. Spieltag</title>
+</programme>
+<programme start="20260308170000 +0000" stop="20260308183000 +0000" channel="Sky Sport Bundesliga HD.skyde">
+    <title>Live BL: Sky90 - Die Fußballdebatte</title>
+</programme>
+<programme start="20260308183000 +0000" stop="20260308191500 +0000" channel="Sky Sport Bundesliga HD.skyde">
+    <title>Live BL: Highlights XXL: FCU - SVW, 25. Spieltag</title>
+</programme>
+<programme start="20260308191500 +0000" stop="20260308193000 +0000" channel="Sky Sport Bundesliga HD.skyde">
     <title>2. BL: Dein Spieltags-Sprint (25)</title>
 </programme>
-<programme start="20260309013000 +0000" stop="20260309033000 +0000" channel="Sky Sport Bundesliga HD.skyde">
-    <title>2. BL: Karlsruher SC - Dynamo Dresden, 25. Spieltag</title>
-</programme>
-<programme start="20260309033000 +0000" stop="20260309034500 +0000" channel="Sky Sport Bundesliga HD.skyde">
-    <title>2. BL: Dein Spieltags-Sprint (25)</title>
-</programme>
-<programme start="20260309034500 +0000" stop="20260309040000 +0000" channel="Sky Sport Bundesliga HD.skyde">
-    <title>BL: Dein Spieltags-Sprint (25)</title>
-</programme>
-<programme start="20260309040000 +0000" stop="20260309050000 +0000" channel="Sky Sport Bundesliga HD.skyde">
-    <title>2. BL Kompakt: 25. Spieltag</title>
-</programme>
-<programme start="20260309050000 +0000" stop="20260309051500 +0000" channel="Sky Sport Bundesliga HD.skyde">
-    <title>BL: Dein Spieltags-Sprint (25)</title>
-</programme>
-<programme start="20260309051500 +0000" stop="20260309053000 +0000" channel="Sky Sport Bundesliga HD.skyde">
-    <title>2. BL: Dein Spieltags-Sprint (25)</title>
-</programme>
-<programme start="20260309053000 +0000" stop="20260309054500 +0000" channel="Sky Sport Bundesliga HD.skyde">
+<programme start="20260308193000 +0000" stop="20260308194500 +0000" channel="Sky Sport Bundesliga HD.skyde">
     <title>BL: Highlights XXL: STP - SGE, 25. Spieltag</title>
 </programme>
-<programme start="20260309054500 +0000" stop="20260309060000 +0000" channel="Sky Sport Bundesliga HD.skyde">
+<programme start="20260308194500 +0000" stop="20260308200000 +0000" channel="Sky Sport Bundesliga HD.skyde">
     <title>BL: Highlights XXL: FCU - SVW, 25. Spieltag</title>
 </programme>
-<programme start="20260309060000 +0000" stop="20260309080000 +0000" channel="Sky Sport Bundesliga HD.skyde">
-    <title>BL: FC St. Pauli - Eintracht Frankfurt, 25. Spieltag</title>
+<programme start="20260308200000 +0000" stop="20260308203000 +0000" channel="Sky Sport Bundesliga HD.skyde">
+    <title>Meine Geschichte: Das Leben von Michael Ballack (Teil 1)</title>
 </programme>
-<programme start="20260309080000 +0000" stop="20260309090000 +0000" channel="Sky Sport Bundesliga HD.skyde">
-    <title>2. BL: Alle Spiele, alle Stimmen, 25. Spieltag</title>
-</programme>
-<programme start="20260309090000 +0000" stop="20260309091500 +0000" channel="Sky Sport Bundesliga HD.skyde">
+<programme start="20260308203000 +0000" stop="20260308204500 +0000" channel="Sky Sport Bundesliga HD.skyde">
     <title>BL: Highlights XXL: STP - SGE, 25. Spieltag</title>
 </programme>
-<programme start="20260309091500 +0000" stop="20260309093000 +0000" channel="Sky Sport Bundesliga HD.skyde">
+<programme start="20260308204500 +0000" stop="20260308210000 +0000" channel="Sky Sport Bundesliga HD.skyde">
     <title>BL: Highlights XXL: FCU - SVW, 25. Spieltag</title>
 </programme>
-<programme start="20260309093000 +0000" stop="20260309110000 +0000" channel="Sky Sport Bundesliga HD.skyde">
-    <title>BL: Sky90 - Die Fußballdebatte</title>
+<programme start="20260308210000 +0000" stop="20260308211500 +0000" channel="Sky Sport Bundesliga HD.skyde">
+    <title>2. BL: Dein Spieltags-Sprint (25)</title>
 </programme>
-<programme start="20260309110000 +0000" stop="20260309130000 +0000" channel="Sky Sport Bundesliga HD.skyde">
-    <title>BL: 1. FC Union Berlin - Werder Bremen, 25. Spieltag</title>
+<programme start="20260308211500 +0000" stop="20260308213000 +0000" channel="Sky Sport Bundesliga HD.skyde">
+    <title>BL: Dein Spieltags-Sprint (25)</title>
 </programme>
-<programme start="20260309130000 +0000" stop="20260309140000 +0000" channel="Sky Sport Bundesliga HD.skyde">
-    <title>BL Kompakt: 25. Spieltag</title>
+<programme start="20260308213000 +0000" stop="20260308214500 +0000" channel="Sky Sport Bundesliga HD.skyde">
+    <title>BL: Highlights XXL: STP - SGE, 25. Spieltag</title>
 </programme>
-<programme start="20260309140000 +0000" stop="20260309160000 +0000" channel="Sky Sport Bundesliga HD.skyde">
-    <title>2. BL: SC Paderborn 07 - Eintracht Braunschweig, 25. Spieltag</title>
+<programme start="20260308214500 +0000" stop="20260308220000 +0000" channel="Sky Sport Bundesliga HD.skyde">
+    <title>BL: Highlights XXL: FCU - SVW, 25. Spieltag</title>
 </programme>
-<programme start="20260309160000 +0000" stop="20260309163000 +0000" channel="Sky Sport Bundesliga HD.skyde">
-    <title>2. BL: 90in30: BOC - FCK, 25. Spieltag</title>
-</programme>
-<programme start="20260309163000 +0000" stop="20260309170000 +0000" channel="Sky Sport Bundesliga HD.skyde">
-    <title>BL: 90in30: KOE - BVB, 25. Spieltag</title>
-</programme>
-<programme start="20260309170000 +0000" stop="20260309173000 +0000" channel="Sky Sport Bundesliga HD.skyde">
-    <title>BL: Gelbe Wand, grüner Strom</title>
-</programme>
-<programme start="20260309173000 +0000" stop="20260309183000 +0000" channel="Sky Sport Bundesliga HD.skyde">
-    <title>BL Kompakt: 25. Spieltag</title>
-</programme>
-<programme start="20260309183000 +0000" stop="20260309184500 +0000" channel="Sky Sport Bundesliga HD.skyde">
-    <title>2. BL: Torparade 25. Spieltag</title>
-</programme>
-<programme start="20260309184500 +0000" stop="20260309190000 +0000" channel="Sky Sport Bundesliga HD.skyde">
-    <title>BL: Torparade 25. Spieltag</title>
-</programme>
-<programme start="20260309190000 +0000" stop="20260309200000 +0000" channel="Sky Sport Bundesliga HD.skyde">
-    <title>Transfer Update: Die Show XXL</title>
-</programme>
-<programme start="20260309200000 +0000" stop="20260309210000 +0000" channel="Sky Sport Bundesliga HD.skyde">
-    <title>BL: Glanzparade - Die Show mit Buschmann, Fuss und Wagner</title>
-</programme>
-<programme start="20260309210000 +0000" stop="20260309220000 +0000" channel="Sky Sport Bundesliga HD.skyde">
-    <title>BL Kompakt: 25. Spieltag</title>
-</programme>
-<programme start="20260309220000 +0000" stop="20260309230000 +0000" channel="Sky Sport Bundesliga HD.skyde">
-    <title>BL: Glanzparade - Die Show mit Buschmann, Fuss und Wagner</title>
+<programme start="20260308220000 +0000" stop="20260308230000 +0000" channel="Sky Sport Bundesliga HD.skyde">
+    <title>3. Liga: Alle Spiele, alle Tore, 28. Spieltag komplett</title>
 </programme>
 <programme start="20260309083000 +0000" stop="20260309103000 +0000" channel="Sky Sport Bundesliga UHD.skyde">
     <title>BL: FC Bayern München  - Borussia M&#039;gladbach, Flutlicht-Freitag, 25. Spieltag</title>
@@ -2845,10 +2839,10 @@
 <programme start="20260308233000 +0000" stop="20260309000000 +0000" channel="Sky Sport Mix HD.skyde">
     <title>Live NBA: Showtime</title>
 </programme>
-<programme start="20260309000000 +0000" stop="20260309024500 +0000" channel="Sky Sport Mix HD.skyde">
+<programme start="20260309000000 +0000" stop="20260309030000 +0000" channel="Sky Sport Mix HD.skyde">
     <title>Live NBA: Houston Rockets @ San Antonio Spurs</title>
 </programme>
-<programme start="20260309024500 +0000" stop="20260309050000 +0000" channel="Sky Sport Mix HD.skyde">
+<programme start="20260309030000 +0000" stop="20260309050000 +0000" channel="Sky Sport Mix HD.skyde">
     <title>Live NBA: Charlotte Hornets @ Phoenix Suns</title>
 </programme>
 <programme start="20260309050000 +0000" stop="20260309060000 +0000" channel="Sky Sport Mix HD.skyde">
@@ -3038,7 +3032,7 @@
     <title>PL: 90in30: AVL - CHE, 29. Spieltag</title>
 </programme>
 <programme start="20260309190000 +0000" stop="20260309191500 +0000" channel="Sky Sport Premier League HD.skyde">
-    <title>EFL: Highlights XXL: Hull City - FC Millwall, 36. Spieltag</title>
+    <title>EFL: Highlights XXL: FC Watford - AFC Wrexham, 36. Spieltag</title>
 </programme>
 <programme start="20260309191500 +0000" stop="20260309193000 +0000" channel="Sky Sport Premier League HD.skyde">
     <title>EFL: Highlights XXL: Bristol City - Coventry City, 36. Spieltag</title>
@@ -3059,7 +3053,7 @@
     <title>PL: 90in30: WOL - LIV, 29. Spieltag</title>
 </programme>
 <programme start="20260309213000 +0000" stop="20260309214500 +0000" channel="Sky Sport Premier League HD.skyde">
-    <title>EFL: Highlights XXL: Hull City - FC Millwall, 36. Spieltag</title>
+    <title>EFL: Highlights XXL: FC Watford - AFC Wrexham, 36. Spieltag</title>
 </programme>
 <programme start="20260309214500 +0000" stop="20260309220000 +0000" channel="Sky Sport Premier League HD.skyde">
     <title>EFL: Highlights XXL: Bristol City - Coventry City, 36. Spieltag</title>
@@ -3073,43 +3067,37 @@
 <programme start="20260309223000 +0000" stop="20260310003000 +0000" channel="Sky Sport Premier League HD.skyde">
     <title>PL: Brighton &amp; Hove Albion - FC Arsenal, 29. Spieltag</title>
 </programme>
-<programme start="20260309043000 +0000" stop="20260309051000 +0000" channel="Sky Sport Tennis HD.skyde">
-    <title>ATP 500: Review Dubai</title>
-</programme>
-<programme start="20260309051000 +0000" stop="20260309054000 +0000" channel="Sky Sport Tennis HD.skyde">
+<programme start="20260309050000 +0000" stop="20260309053000 +0000" channel="Sky Sport Tennis HD.skyde">
     <title>ATP: This Week</title>
 </programme>
-<programme start="20260309054000 +0000" stop="20260309081000 +0000" channel="Sky Sport Tennis HD.skyde">
+<programme start="20260309053000 +0000" stop="20260309080000 +0000" channel="Sky Sport Tennis HD.skyde">
     <title>ATP 500: F. Cobolli (ITA) - F. Tiafoe (USA) Abierto Mexicano Telcel presented by HSBC in Acapulco (MEX), Finale</title>
 </programme>
-<programme start="20260309081000 +0000" stop="20260309092500 +0000" channel="Sky Sport Tennis HD.skyde">
+<programme start="20260309080000 +0000" stop="20260309100000 +0000" channel="Sky Sport Tennis HD.skyde">
     <title>WTA 1000: C. Gauff (USA) - A. Eala (PHL), BNP Paribas Open in Indian Wells, Kalifornien (USA), 5. Tag</title>
 </programme>
-<programme start="20260309092500 +0000" stop="20260309115500 +0000" channel="Sky Sport Tennis HD.skyde">
+<programme start="20260309100000 +0000" stop="20260309120000 +0000" channel="Sky Sport Tennis HD.skyde">
     <title>ATP 1000: A. Zverev (GER) - B. Nakashima (USA), BNP Paribas Open in Indian Wells, Kalifornien (USA), 5. Tag</title>
 </programme>
-<programme start="20260309115500 +0000" stop="20260309125500 +0000" channel="Sky Sport Tennis HD.skyde">
+<programme start="20260309120000 +0000" stop="20260309130000 +0000" channel="Sky Sport Tennis HD.skyde">
     <title>ATP 500: Review Dubai</title>
 </programme>
-<programme start="20260309125500 +0000" stop="20260309135500 +0000" channel="Sky Sport Tennis HD.skyde">
+<programme start="20260309130000 +0000" stop="20260309140000 +0000" channel="Sky Sport Tennis HD.skyde">
     <title>ATP 500: Review Acapulco</title>
 </programme>
-<programme start="20260309135500 +0000" stop="20260309153000 +0000" channel="Sky Sport Tennis HD.skyde">
+<programme start="20260309140000 +0000" stop="20260309160000 +0000" channel="Sky Sport Tennis HD.skyde">
     <title>WTA 1000: C. Gauff (USA) - A. Eala (PHL), BNP Paribas Open in Indian Wells, Kalifornien (USA), 5. Tag</title>
 </programme>
-<programme start="20260309153000 +0000" stop="20260309173000 +0000" channel="Sky Sport Tennis HD.skyde">
+<programme start="20260309160000 +0000" stop="20260309180000 +0000" channel="Sky Sport Tennis HD.skyde">
     <title>ATP 1000: A. Zverev (GER) - B. Nakashima (USA), BNP Paribas Open in Indian Wells, Kalifornien (USA), 5. Tag</title>
-</programme>
-<programme start="20260309173000 +0000" stop="20260309180000 +0000" channel="Sky Sport Tennis HD.skyde">
-    <title>ATP: This Week</title>
 </programme>
 <programme start="20260309180000 +0000" stop="20260310050000 +0000" channel="Sky Sport Tennis HD.skyde">
     <title>Live ATP &amp; WTA: Konferenz BNP Paribas Open in Indian Wells, Kalifornien (USA), 6. Tag</title>
 </programme>
-<programme start="20260309000000 +0000" stop="20260309024500 +0000" channel="Sky Sport Top Event HD.skyde">
+<programme start="20260309000000 +0000" stop="20260309030000 +0000" channel="Sky Sport Top Event HD.skyde">
     <title>Live NBA: Houston Rockets @ San Antonio Spurs</title>
 </programme>
-<programme start="20260309024500 +0000" stop="20260309050000 +0000" channel="Sky Sport Top Event HD.skyde">
+<programme start="20260309030000 +0000" stop="20260309050000 +0000" channel="Sky Sport Top Event HD.skyde">
     <title>Live ATP &amp; WTA: Konferenz BNP Paribas Open in Indian Wells, Kalifornien (USA), 5. Tag</title>
 </programme>
 <programme start="20260309050000 +0000" stop="20260309060000 +0000" channel="Sky Sport Top Event HD.skyde">
@@ -3187,7 +3175,7 @@
 <programme start="20260309223000 +0000" stop="20260309233000 +0000" channel="Sky Sport 1 HD.skyde">
     <title>Live NBA: Showtime</title>
 </programme>
-<programme start="20260309003000 +0000" stop="20260309020000 +0000" channel="Sky Sport 2 HD.skyde">
+<programme start="20260309014000 +0000" stop="20260309020000 +0000" channel="Sky Sport 2 HD.skyde">
     <title>Es folgt: LIVE NBA</title>
 </programme>
 <programme start="20260309020000 +0000" stop="20260309090000 +0000" channel="Sky Sport 2 HD.skyde">
@@ -3634,13 +3622,13 @@
 <programme start="20260309075000 +0000" stop="20260309093500 +0000" channel="Warner TV Film HD.skyde">
     <title>Little Miss Sunshine</title>
 </programme>
-<programme start="20260309093500 +0000" stop="20260309114500 +0000" channel="Warner TV Film HD.skyde">
+<programme start="20260309093500 +0000" stop="20260309114000 +0000" channel="Warner TV Film HD.skyde">
     <title>The Best Exotic Marigold Hotel</title>
 </programme>
-<programme start="20260309114500 +0000" stop="20260309135000 +0000" channel="Warner TV Film HD.skyde">
+<programme start="20260309114000 +0000" stop="20260309134500 +0000" channel="Warner TV Film HD.skyde">
     <title>The Best Exotic Marigold Hotel 2</title>
 </programme>
-<programme start="20260309135000 +0000" stop="20260309153000 +0000" channel="Warner TV Film HD.skyde">
+<programme start="20260309134500 +0000" stop="20260309153000 +0000" channel="Warner TV Film HD.skyde">
     <title>Ruf der Wildnis</title>
 </programme>
 <programme start="20260309153000 +0000" stop="20260309170500 +0000" channel="Warner TV Film HD.skyde">
@@ -3649,13 +3637,13 @@
 <programme start="20260309170500 +0000" stop="20260309191500 +0000" channel="Warner TV Film HD.skyde">
     <title>Hidden Figures - Unerkannte Heldinnen</title>
 </programme>
-<programme start="20260309191500 +0000" stop="20260309210000 +0000" channel="Warner TV Film HD.skyde">
+<programme start="20260309191500 +0000" stop="20260309210500 +0000" channel="Warner TV Film HD.skyde">
     <title>Kampf der Titanen</title>
 </programme>
-<programme start="20260309210000 +0000" stop="20260309224500 +0000" channel="Warner TV Film HD.skyde">
+<programme start="20260309210500 +0000" stop="20260309224500 +0000" channel="Warner TV Film HD.skyde">
     <title>Zorn der Titanen</title>
 </programme>
-<programme start="20260309224500 +0000" stop="20260310004500 +0000" channel="Warner TV Film HD.skyde">
+<programme start="20260309224500 +0000" stop="20260310004000 +0000" channel="Warner TV Film HD.skyde">
     <title>Ausnahmezustand</title>
 </programme>
 <programme start="20260308230000 +0000" stop="20260308234000 +0000" channel="Warner TV Serie HD.skyde">
