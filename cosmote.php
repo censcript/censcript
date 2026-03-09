@@ -254,12 +254,8 @@
     <title>Pick n&#039; Roll (L)</title>
     <desc>Live: Ya</desc>
 </programme>
-<programme start="20260310020000 +0700" stop="20260310031500 +0700" channel="COSMOTE Sport 5 HD">
-    <title>2026 Grand Prix Show (L)</title>
-    <desc>Live: Ya</desc>
-</programme>
-<programme start="20260310031500 +0700" stop="20260310034500 +0700" channel="COSMOTE Sport 5 HD">
-    <title>WRC Magazine 2025</title>
+<programme start="20260311041500 +0700" stop="20260311051500 +0700" channel="COSMOTE Sport 4 HD">
+    <title>NBA Specials: Basketball Stories</title>
     <desc>Live: Tidak</desc>
 </programme>
 <programme start="20260310034500 +0700" stop="20260310040500 +0700" channel="COSMOTE Sport 5 HD">
@@ -410,10 +406,6 @@
     <title>Tennis: ATP Masters 1000 2026 (L)</title>
     <desc>Live: Ya</desc>
 </programme>
-<programme start="20260310020000 +0700" stop="20260310040000 +0700" channel="COSMOTE Sport 7 HD">
-    <title>Basketball: Armani Milano - Cantu (L)</title>
-    <desc>Live: Ya</desc>
-</programme>
 <programme start="20260310040000 +0700" stop="20260310043000 +0700" channel="COSMOTE Sport 7 HD">
     <title>COSMOTESport7HD</title>
     <desc>Live: Tidak</desc>
@@ -474,8 +466,8 @@
     <title>Basketball: Badalona - Wurzburg (L)</title>
     <desc>Live: Ya</desc>
 </programme>
-<programme start="20260310024500 +0700" stop="20260310031500 +0700" channel="COSMOTE Sport 8 HD">
-    <title>COSMOTESport8HD</title>
+<programme start="20260311044000 +0700" stop="20260311050000 +0700" channel="COSMOTE Sport 7 HD">
+    <title>COSMOTESport7HD</title>
     <desc>Live: Tidak</desc>
 </programme>
 <programme start="20260310031500 +0700" stop="20260310051500 +0700" channel="COSMOTE Sport 8 HD">
@@ -597,5 +589,9 @@
 <programme start="20260311020000 +0700" stop="20260311043000 +0700" channel="COSMOTE Sport 9 HD">
     <title>Volleyball: Montpellier - Las Palmas (L)</title>
     <desc>Live: Ya</desc>
+</programme>
+<programme start="20260311043000 +0700" stop="20260311050000 +0700" channel="COSMOTE Sport 9 HD">
+    <title>COSMOTESport9HD</title>
+    <desc>Live: Tidak</desc>
 </programme>
 No EPG found for COSMOTE Sport 10 HD

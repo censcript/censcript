@@ -586,10 +586,10 @@
 <programme start="20260309054000 +0000" stop="20260309055500 +0000" channel="Cartoonito.skyde">
     <title>SuperThings: Rivalen von Kaboom - Kazoom-Power</title>
 </programme>
-<programme start="20260309055500 +0000" stop="20260309060500 +0000" channel="Cartoonito.skyde">
+<programme start="20260309055500 +0000" stop="20260309060000 +0000" channel="Cartoonito.skyde">
     <title>Grizzy und die Lemminge</title>
 </programme>
-<programme start="20260309060500 +0000" stop="20260309061000 +0000" channel="Cartoonito.skyde">
+<programme start="20260309060000 +0000" stop="20260309061000 +0000" channel="Cartoonito.skyde">
     <title>Grizzy und die Lemminge</title>
 </programme>
 <programme start="20260309061000 +0000" stop="20260309062500 +0000" channel="Cartoonito.skyde">
@@ -652,10 +652,10 @@
 <programme start="20260309102500 +0000" stop="20260309104000 +0000" channel="Cartoonito.skyde">
     <title>Die Tom und Jerry Show</title>
 </programme>
-<programme start="20260309104000 +0000" stop="20260309104500 +0000" channel="Cartoonito.skyde">
+<programme start="20260309104000 +0000" stop="20260309105000 +0000" channel="Cartoonito.skyde">
     <title>Die Tom und Jerry Show</title>
 </programme>
-<programme start="20260309104500 +0000" stop="20260309110000 +0000" channel="Cartoonito.skyde">
+<programme start="20260309105000 +0000" stop="20260309110000 +0000" channel="Cartoonito.skyde">
     <title>Die Tom und Jerry Show</title>
 </programme>
 <programme start="20260309110000 +0000" stop="20260309111500 +0000" channel="Cartoonito.skyde">
@@ -757,16 +757,16 @@
 <programme start="20260309191000 +0000" stop="20260309192500 +0000" channel="Cartoonito.skyde">
     <title>Mr. Bean - Die Cartoon-Serie</title>
 </programme>
-<programme start="20260309192500 +0000" stop="20260309194000 +0000" channel="Cartoonito.skyde">
+<programme start="20260309192500 +0000" stop="20260309193500 +0000" channel="Cartoonito.skyde">
     <title>Mr. Bean - Die Cartoon-Serie</title>
 </programme>
-<programme start="20260309194000 +0000" stop="20260309195500 +0000" channel="Cartoonito.skyde">
+<programme start="20260309193500 +0000" stop="20260309195500 +0000" channel="Cartoonito.skyde">
     <title>Mr. Bean - Die Cartoon-Serie</title>
 </programme>
-<programme start="20260309195500 +0000" stop="20260309200500 +0000" channel="Cartoonito.skyde">
+<programme start="20260309195500 +0000" stop="20260309200000 +0000" channel="Cartoonito.skyde">
     <title>Grizzy und die Lemminge</title>
 </programme>
-<programme start="20260309200500 +0000" stop="20260309201000 +0000" channel="Cartoonito.skyde">
+<programme start="20260309200000 +0000" stop="20260309201000 +0000" channel="Cartoonito.skyde">
     <title>Grizzy und die Lemminge</title>
 </programme>
 <programme start="20260309201000 +0000" stop="20260309202500 +0000" channel="Cartoonito.skyde">
@@ -784,10 +784,10 @@
 <programme start="20260309204500 +0000" stop="20260309205500 +0000" channel="Cartoonito.skyde">
     <title>Grizzy und die Lemminge</title>
 </programme>
-<programme start="20260309205500 +0000" stop="20260309211000 +0000" channel="Cartoonito.skyde">
+<programme start="20260309205500 +0000" stop="20260309210500 +0000" channel="Cartoonito.skyde">
     <title>Batwheels</title>
 </programme>
-<programme start="20260309211000 +0000" stop="20260309212500 +0000" channel="Cartoonito.skyde">
+<programme start="20260309210500 +0000" stop="20260309212500 +0000" channel="Cartoonito.skyde">
     <title>Batwheels</title>
 </programme>
 <programme start="20260309212500 +0000" stop="20260309213500 +0000" channel="Cartoonito.skyde">
@@ -814,7 +814,7 @@
 <programme start="20260309225000 +0000" stop="20260309225500 +0000" channel="Cartoonito.skyde">
     <title>Die Tom und Jerry Show</title>
 </programme>
-<programme start="20260309225500 +0000" stop="20260309230500 +0000" channel="Cartoonito.skyde">
+<programme start="20260309225500 +0000" stop="20260309230000 +0000" channel="Cartoonito.skyde">
     <title>Die Tom und Jerry Show</title>
 </programme>
 <programme start="20260308231000 +0000" stop="20260308235500 +0000" channel="Crime + Investigation.skyde">
@@ -910,28 +910,22 @@
 <programme start="20260309075500 +0000" stop="20260309082500 +0000" channel="DAZN 1 HD.skyde">
     <title>Best of DAZN: Highlights</title>
 </programme>
-<programme start="20260309082500 +0000" stop="20260309102000 +0000" channel="DAZN 1 HD.skyde">
+<programme start="20260309082500 +0000" stop="20260309103500 +0000" channel="DAZN 1 HD.skyde">
     <title>Bundesliga 25/26: 1. FC Köln - Borussia Dortmund</title>
-</programme>
-<programme start="20260309102000 +0000" stop="20260309103500 +0000" channel="DAZN 1 HD.skyde">
-    <title>Best of DAZN: Highlights</title>
 </programme>
 <programme start="20260309103500 +0000" stop="20260309123000 +0000" channel="DAZN 1 HD.skyde">
     <title>Bundesliga 25/26: 1. FSV Mainz 05 - VFB Stuttgart</title>
 </programme>
-<programme start="20260309123000 +0000" stop="20260309130000 +0000" channel="DAZN 1 HD.skyde">
+<programme start="20260309123000 +0000" stop="20260309132000 +0000" channel="DAZN 1 HD.skyde">
     <title>Best of DAZN: Highlights</title>
 </programme>
-<programme start="20260309130000 +0000" stop="20260309141500 +0000" channel="DAZN 1 HD.skyde">
+<programme start="20260309132000 +0000" stop="20260309142500 +0000" channel="DAZN 1 HD.skyde">
     <title>ALL IN - Die Bundesliga Highlight Show: 25. Spieltag</title>
 </programme>
-<programme start="20260309141500 +0000" stop="20260309160500 +0000" channel="DAZN 1 HD.skyde">
+<programme start="20260309142500 +0000" stop="20260309162000 +0000" channel="DAZN 1 HD.skyde">
     <title>FA Cup 25/26: Newcastle United - Manchester City</title>
 </programme>
-<programme start="20260309160500 +0000" stop="20260309163000 +0000" channel="DAZN 1 HD.skyde">
-    <title>Best of DAZN: Highlights</title>
-</programme>
-<programme start="20260309163000 +0000" stop="20260309182500 +0000" channel="DAZN 1 HD.skyde">
+<programme start="20260309162000 +0000" stop="20260309182500 +0000" channel="DAZN 1 HD.skyde">
     <title>Bundesliga 25/26: FC Bayern München - Borussia M&#039;gladbach</title>
 </programme>
 <programme start="20260309182500 +0000" stop="20260309194000 +0000" channel="DAZN 1 HD.skyde">
@@ -940,14 +934,11 @@
 <programme start="20260309194000 +0000" stop="20260309214500 +0000" channel="DAZN 1 HD.skyde">
     <title>Serie A 25/26: Lazio Rom - Sassuolo Calcio</title>
 </programme>
-<programme start="20260309214500 +0000" stop="20260309220000 +0000" channel="DAZN 1 HD.skyde">
+<programme start="20260309214500 +0000" stop="20260309223000 +0000" channel="DAZN 1 HD.skyde">
     <title>Best of DAZN: Highlights</title>
-</programme>
-<programme start="20260309220000 +0000" stop="20260309223000 +0000" channel="DAZN 1 HD.skyde">
-    <title>FC Bayern World Squad: Class of &#039;25 - Folge 1</title>
 </programme>
 <programme start="20260309223000 +0000" stop="20260309230000 +0000" channel="DAZN 1 HD.skyde">
-    <title>Best of DAZN: Highlights</title>
+    <title>FC Bayern World Squad: Class of &#039;25 - Folge 1</title>
 </programme>
 <programme start="20260308230500 +0000" stop="20260309070000 +0000" channel="DAZN 2 HD.skyde">
     <title>Sendepause</title>
@@ -3082,29 +3073,35 @@
 <programme start="20260309223000 +0000" stop="20260310003000 +0000" channel="Sky Sport Premier League HD.skyde">
     <title>PL: Brighton &amp; Hove Albion - FC Arsenal, 29. Spieltag</title>
 </programme>
-<programme start="20260309050000 +0000" stop="20260309053000 +0000" channel="Sky Sport Tennis HD.skyde">
-    <title>ATP: This Week</title>
-</programme>
-<programme start="20260309053000 +0000" stop="20260309080000 +0000" channel="Sky Sport Tennis HD.skyde">
-    <title>ATP 500: F. Cobolli (ITA) - F. Tiafoe (USA) Abierto Mexicano Telcel presented by HSBC in Acapulco (MEX), Finale</title>
-</programme>
-<programme start="20260309080000 +0000" stop="20260309100000 +0000" channel="Sky Sport Tennis HD.skyde">
-    <title>WTA 1000: C. Gauff (USA) - A. Eala (PHL), BNP Paribas Open in Indian Wells, Kalifornien (USA), 5. Tag</title>
-</programme>
-<programme start="20260309100000 +0000" stop="20260309120000 +0000" channel="Sky Sport Tennis HD.skyde">
-    <title>ATP 1000: A. Zverev (GER) - B. Nakashima (USA), BNP Paribas Open in Indian Wells, Kalifornien (USA), 5. Tag</title>
-</programme>
-<programme start="20260309120000 +0000" stop="20260309130000 +0000" channel="Sky Sport Tennis HD.skyde">
+<programme start="20260309043000 +0000" stop="20260309051000 +0000" channel="Sky Sport Tennis HD.skyde">
     <title>ATP 500: Review Dubai</title>
 </programme>
-<programme start="20260309130000 +0000" stop="20260309140000 +0000" channel="Sky Sport Tennis HD.skyde">
-    <title>ATP 500: Review Acapulco</title>
+<programme start="20260309051000 +0000" stop="20260309054000 +0000" channel="Sky Sport Tennis HD.skyde">
+    <title>ATP: This Week</title>
 </programme>
-<programme start="20260309140000 +0000" stop="20260309160000 +0000" channel="Sky Sport Tennis HD.skyde">
+<programme start="20260309054000 +0000" stop="20260309081000 +0000" channel="Sky Sport Tennis HD.skyde">
+    <title>ATP 500: F. Cobolli (ITA) - F. Tiafoe (USA) Abierto Mexicano Telcel presented by HSBC in Acapulco (MEX), Finale</title>
+</programme>
+<programme start="20260309081000 +0000" stop="20260309092500 +0000" channel="Sky Sport Tennis HD.skyde">
     <title>WTA 1000: C. Gauff (USA) - A. Eala (PHL), BNP Paribas Open in Indian Wells, Kalifornien (USA), 5. Tag</title>
 </programme>
-<programme start="20260309160000 +0000" stop="20260309180000 +0000" channel="Sky Sport Tennis HD.skyde">
+<programme start="20260309092500 +0000" stop="20260309115500 +0000" channel="Sky Sport Tennis HD.skyde">
     <title>ATP 1000: A. Zverev (GER) - B. Nakashima (USA), BNP Paribas Open in Indian Wells, Kalifornien (USA), 5. Tag</title>
+</programme>
+<programme start="20260309115500 +0000" stop="20260309125500 +0000" channel="Sky Sport Tennis HD.skyde">
+    <title>ATP 500: Review Dubai</title>
+</programme>
+<programme start="20260309125500 +0000" stop="20260309135500 +0000" channel="Sky Sport Tennis HD.skyde">
+    <title>ATP 500: Review Acapulco</title>
+</programme>
+<programme start="20260309135500 +0000" stop="20260309153000 +0000" channel="Sky Sport Tennis HD.skyde">
+    <title>WTA 1000: C. Gauff (USA) - A. Eala (PHL), BNP Paribas Open in Indian Wells, Kalifornien (USA), 5. Tag</title>
+</programme>
+<programme start="20260309153000 +0000" stop="20260309173000 +0000" channel="Sky Sport Tennis HD.skyde">
+    <title>ATP 1000: A. Zverev (GER) - B. Nakashima (USA), BNP Paribas Open in Indian Wells, Kalifornien (USA), 5. Tag</title>
+</programme>
+<programme start="20260309173000 +0000" stop="20260309180000 +0000" channel="Sky Sport Tennis HD.skyde">
+    <title>ATP: This Week</title>
 </programme>
 <programme start="20260309180000 +0000" stop="20260310050000 +0000" channel="Sky Sport Tennis HD.skyde">
     <title>Live ATP &amp; WTA: Konferenz BNP Paribas Open in Indian Wells, Kalifornien (USA), 6. Tag</title>
@@ -3112,11 +3109,8 @@
 <programme start="20260309000000 +0000" stop="20260309024500 +0000" channel="Sky Sport Top Event HD.skyde">
     <title>Live NBA: Houston Rockets @ San Antonio Spurs</title>
 </programme>
-<programme start="20260309024500 +0000" stop="20260309043000 +0000" channel="Sky Sport Top Event HD.skyde">
+<programme start="20260309024500 +0000" stop="20260309050000 +0000" channel="Sky Sport Top Event HD.skyde">
     <title>Live ATP &amp; WTA: Konferenz BNP Paribas Open in Indian Wells, Kalifornien (USA), 5. Tag</title>
-</programme>
-<programme start="20260309043000 +0000" stop="20260309050000 +0000" channel="Sky Sport Top Event HD.skyde">
-    <title>NHL: On the Fly</title>
 </programme>
 <programme start="20260309050000 +0000" stop="20260309060000 +0000" channel="Sky Sport Top Event HD.skyde">
     <title>3. Liga: Alle Spiele, alle Tore, 28. Spieltag komplett</title>
@@ -3439,10 +3433,10 @@
 <programme start="20260309041500 +0000" stop="20260309044000 +0000" channel="Warner TV Comedy HD.skyde">
     <title>Two and a Half Men</title>
 </programme>
-<programme start="20260309044000 +0000" stop="20260309050500 +0000" channel="Warner TV Comedy HD.skyde">
+<programme start="20260309044000 +0000" stop="20260309050000 +0000" channel="Warner TV Comedy HD.skyde">
     <title>Two and a Half Men</title>
 </programme>
-<programme start="20260309050500 +0000" stop="20260309053000 +0000" channel="Warner TV Comedy HD.skyde">
+<programme start="20260309050000 +0000" stop="20260309053000 +0000" channel="Warner TV Comedy HD.skyde">
     <title>Friends</title>
 </programme>
 <programme start="20260309053000 +0000" stop="20260309055500 +0000" channel="Warner TV Comedy HD.skyde">
@@ -3487,19 +3481,19 @@
 <programme start="20260309105500 +0000" stop="20260309112000 +0000" channel="Warner TV Comedy HD.skyde">
     <title>The Middle</title>
 </programme>
-<programme start="20260309112000 +0000" stop="20260309114500 +0000" channel="Warner TV Comedy HD.skyde">
+<programme start="20260309112000 +0000" stop="20260309115000 +0000" channel="Warner TV Comedy HD.skyde">
     <title>The Middle</title>
 </programme>
-<programme start="20260309114500 +0000" stop="20260309121000 +0000" channel="Warner TV Comedy HD.skyde">
+<programme start="20260309115000 +0000" stop="20260309121500 +0000" channel="Warner TV Comedy HD.skyde">
     <title>The Middle</title>
 </programme>
-<programme start="20260309121000 +0000" stop="20260309123500 +0000" channel="Warner TV Comedy HD.skyde">
+<programme start="20260309121500 +0000" stop="20260309124000 +0000" channel="Warner TV Comedy HD.skyde">
     <title>King of Queens</title>
 </programme>
-<programme start="20260309123500 +0000" stop="20260309130000 +0000" channel="Warner TV Comedy HD.skyde">
+<programme start="20260309124000 +0000" stop="20260309130500 +0000" channel="Warner TV Comedy HD.skyde">
     <title>King of Queens</title>
 </programme>
-<programme start="20260309130000 +0000" stop="20260309133000 +0000" channel="Warner TV Comedy HD.skyde">
+<programme start="20260309130500 +0000" stop="20260309133000 +0000" channel="Warner TV Comedy HD.skyde">
     <title>King of Queens</title>
 </programme>
 <programme start="20260309133000 +0000" stop="20260309135500 +0000" channel="Warner TV Comedy HD.skyde">
@@ -3523,16 +3517,16 @@
 <programme start="20260309160000 +0000" stop="20260309162500 +0000" channel="Warner TV Comedy HD.skyde">
     <title>Two and a Half Men</title>
 </programme>
-<programme start="20260309162500 +0000" stop="20260309165000 +0000" channel="Warner TV Comedy HD.skyde">
+<programme start="20260309162500 +0000" stop="20260309164500 +0000" channel="Warner TV Comedy HD.skyde">
     <title>Two and a Half Men</title>
 </programme>
-<programme start="20260309165000 +0000" stop="20260309171500 +0000" channel="Warner TV Comedy HD.skyde">
+<programme start="20260309164500 +0000" stop="20260309171000 +0000" channel="Warner TV Comedy HD.skyde">
     <title>2 Broke Girls</title>
 </programme>
-<programme start="20260309171500 +0000" stop="20260309174000 +0000" channel="Warner TV Comedy HD.skyde">
+<programme start="20260309171000 +0000" stop="20260309173500 +0000" channel="Warner TV Comedy HD.skyde">
     <title>2 Broke Girls</title>
 </programme>
-<programme start="20260309174000 +0000" stop="20260309180000 +0000" channel="Warner TV Comedy HD.skyde">
+<programme start="20260309173500 +0000" stop="20260309180000 +0000" channel="Warner TV Comedy HD.skyde">
     <title>The Big Bang Theory</title>
 </programme>
 <programme start="20260309180000 +0000" stop="20260309182500 +0000" channel="Warner TV Comedy HD.skyde">
@@ -3565,10 +3559,10 @@
 <programme start="20260309212500 +0000" stop="20260309214000 +0000" channel="Warner TV Comedy HD.skyde">
     <title>Robot Chicken</title>
 </programme>
-<programme start="20260309214000 +0000" stop="20260309215500 +0000" channel="Warner TV Comedy HD.skyde">
+<programme start="20260309214000 +0000" stop="20260309215000 +0000" channel="Warner TV Comedy HD.skyde">
     <title>Robot Chicken</title>
 </programme>
-<programme start="20260309215500 +0000" stop="20260309220500 +0000" channel="Warner TV Comedy HD.skyde">
+<programme start="20260309215000 +0000" stop="20260309220500 +0000" channel="Warner TV Comedy HD.skyde">
     <title>Robot Chicken</title>
 </programme>
 <programme start="20260309220500 +0000" stop="20260309223000 +0000" channel="Warner TV Comedy HD.skyde">
@@ -3598,13 +3592,13 @@
 <programme start="20260309075000 +0000" stop="20260309093500 +0000" channel="Warner TV Film.skyde">
     <title>Little Miss Sunshine</title>
 </programme>
-<programme start="20260309093500 +0000" stop="20260309114000 +0000" channel="Warner TV Film.skyde">
+<programme start="20260309093500 +0000" stop="20260309114500 +0000" channel="Warner TV Film.skyde">
     <title>The Best Exotic Marigold Hotel</title>
 </programme>
-<programme start="20260309114000 +0000" stop="20260309134500 +0000" channel="Warner TV Film.skyde">
+<programme start="20260309114500 +0000" stop="20260309135000 +0000" channel="Warner TV Film.skyde">
     <title>The Best Exotic Marigold Hotel 2</title>
 </programme>
-<programme start="20260309134500 +0000" stop="20260309153000 +0000" channel="Warner TV Film.skyde">
+<programme start="20260309135000 +0000" stop="20260309153000 +0000" channel="Warner TV Film.skyde">
     <title>Ruf der Wildnis</title>
 </programme>
 <programme start="20260309153000 +0000" stop="20260309170500 +0000" channel="Warner TV Film.skyde">
@@ -3613,13 +3607,13 @@
 <programme start="20260309170500 +0000" stop="20260309191500 +0000" channel="Warner TV Film.skyde">
     <title>Hidden Figures - Unerkannte Heldinnen</title>
 </programme>
-<programme start="20260309191500 +0000" stop="20260309210500 +0000" channel="Warner TV Film.skyde">
+<programme start="20260309191500 +0000" stop="20260309210000 +0000" channel="Warner TV Film.skyde">
     <title>Kampf der Titanen</title>
 </programme>
-<programme start="20260309210500 +0000" stop="20260309224500 +0000" channel="Warner TV Film.skyde">
+<programme start="20260309210000 +0000" stop="20260309224500 +0000" channel="Warner TV Film.skyde">
     <title>Zorn der Titanen</title>
 </programme>
-<programme start="20260309224500 +0000" stop="20260310004000 +0000" channel="Warner TV Film.skyde">
+<programme start="20260309224500 +0000" stop="20260310004500 +0000" channel="Warner TV Film.skyde">
     <title>Ausnahmezustand</title>
 </programme>
 <programme start="20260308231500 +0000" stop="20260309011000 +0000" channel="Warner TV Film HD.skyde">
@@ -3691,10 +3685,10 @@
 <programme start="20260309035500 +0000" stop="20260309044500 +0000" channel="Warner TV Serie HD.skyde">
     <title>Daktari</title>
 </programme>
-<programme start="20260309044500 +0000" stop="20260309054000 +0000" channel="Warner TV Serie HD.skyde">
+<programme start="20260309044500 +0000" stop="20260309053500 +0000" channel="Warner TV Serie HD.skyde">
     <title>Daktari</title>
 </programme>
-<programme start="20260309054000 +0000" stop="20260309063500 +0000" channel="Warner TV Serie HD.skyde">
+<programme start="20260309053500 +0000" stop="20260309063500 +0000" channel="Warner TV Serie HD.skyde">
     <title>Daktari</title>
 </programme>
 <programme start="20260309063500 +0000" stop="20260309073000 +0000" channel="Warner TV Serie HD.skyde">
@@ -3736,10 +3730,10 @@
 <programme start="20260309161500 +0000" stop="20260309165500 +0000" channel="Warner TV Serie HD.skyde">
     <title>NCIS</title>
 </programme>
-<programme start="20260309165500 +0000" stop="20260309174500 +0000" channel="Warner TV Serie HD.skyde">
+<programme start="20260309165500 +0000" stop="20260309174000 +0000" channel="Warner TV Serie HD.skyde">
     <title>NCIS</title>
 </programme>
-<programme start="20260309174500 +0000" stop="20260309183000 +0000" channel="Warner TV Serie HD.skyde">
+<programme start="20260309174000 +0000" stop="20260309183000 +0000" channel="Warner TV Serie HD.skyde">
     <title>Rizzoli and Isles</title>
 </programme>
 <programme start="20260309183000 +0000" stop="20260309191500 +0000" channel="Warner TV Serie HD.skyde">
