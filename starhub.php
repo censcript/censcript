@@ -2054,13 +2054,13 @@
         <title>CNN Newsroom Sunday</title>
     </programme>
     <programme start="20260308230000 +0000" stop="20260309000000 +0000" channel="CNN HD.starhub">
-        <title>CNN Newsroom Sunday</title>
+        <title>Anderson Cooper 360</title>
     </programme>
     <programme start="20260309000000 +0000" stop="20260309010000 +0000" channel="CNN HD.starhub">
-        <title>CNN Newsroom Sunday</title>
+        <title>Anderson Cooper 360</title>
     </programme>
     <programme start="20260309010000 +0000" stop="20260309020000 +0000" channel="CNN HD.starhub">
-        <title>CNN Newsroom Sunday</title>
+        <title>Anderson Cooper 360</title>
     </programme>
     <programme start="20260309020000 +0000" stop="20260309040000 +0000" channel="CNN HD.starhub">
         <title>War with Iran: The Attack and the Fallout</title>
@@ -6556,7 +6556,10 @@
     <programme start="20260309150700 +0000" stop="20260309163400 +0000" channel="TV5MONDE HD.starhub">
         <title>Habib, La Grande Aventure</title>
     </programme>
-    <programme start="20260308160000 +0000" stop="20260308180000 +0000" channel="Hub Sports 1  HD.starhub">
+    <programme start="20260308110000 +0000" stop="20260308174300 +0000" channel="Hub Sports 1  HD.starhub">
+        <title>All England Open Badminton C&#039;ships (S1000) Finals</title>
+    </programme>
+    <programme start="20260308174300 +0000" stop="20260308180000 +0000" channel="Hub Sports 1  HD.starhub">
         <title>Ostrava Open (250) Final</title>
     </programme>
     <programme start="20260308180000 +0000" stop="20260308200000 +0000" channel="Hub Sports 1  HD.starhub">
@@ -7354,8 +7357,11 @@
     <programme start="20260308180000 +0000" stop="20260308183000 +0000" channel="BBC World News HD.starhub">
         <title>BBC News</title>
     </programme>
-    <programme start="20260308183000 +0000" stop="20260308190000 +0000" channel="BBC World News HD.starhub">
-        <title>Samantha Power on the New Global Order</title>
+    <programme start="20260308183000 +0000" stop="20260308184500 +0000" channel="BBC World News HD.starhub">
+        <title>The Iran War Today</title>
+    </programme>
+    <programme start="20260308184500 +0000" stop="20260308190000 +0000" channel="BBC World News HD.starhub">
+        <title>BBC News</title>
     </programme>
     <programme start="20260308190000 +0000" stop="20260308193000 +0000" channel="BBC World News HD.starhub">
         <title>BBC News</title>
@@ -8032,10 +8038,10 @@
     <programme start="20260309020000 +0000" stop="20260309040000 +0000" channel="SPOTV2.starhub">
         <title>25/26 A-League Men Round 20 Sydney FC vs Melbourne Victory</title>
     </programme>
-    <programme start="20260309040000 +0000" stop="20260309090000 +0000" channel="SPOTV2.starhub">
+    <programme start="20260309040000 +0000" stop="20260309093500 +0000" channel="SPOTV2.starhub">
         <title>Day 2</title>
     </programme>
-    <programme start="20260309090000 +0000" stop="20260309100800 +0000" channel="SPOTV2.starhub">
+    <programme start="20260309093500 +0000" stop="20260309100800 +0000" channel="SPOTV2.starhub">
         <title>Highlights 1</title>
     </programme>
     <programme start="20260309100800 +0000" stop="20260309130000 +0000" channel="SPOTV2.starhub">

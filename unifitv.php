@@ -7675,14 +7675,14 @@
     <episode-num system="xmltv_ns">0.2.</episode-num>
     <episode-num system="onscreen">S1E3</episode-num>
   </programme>
-  <programme start="20260308203000 +0000" stop="20260308212000 +0000" channel="rockentertainment.unifitv">
+  <programme start="20260308203000 +0000" stop="20260308211500 +0000" channel="rockentertainment.unifitv">
     <title lang="en">The Librarians: The Next Chapter</title>
     <desc lang="en">The Librarians head to Paris after a string of robberies leaves mysteriously lovestruck victims in their wake. When they learn that a magical love artefact is behind the thefts, they enlist help from Vikram's old friend -- Cupid himself.</desc>
     <category lang="en">Drama</category>
     <episode-num system="xmltv_ns">0.3.</episode-num>
     <episode-num system="onscreen">S1E4</episode-num>
   </programme>
-  <programme start="20260308212000 +0000" stop="20260308220500 +0000" channel="rockentertainment.unifitv">
+  <programme start="20260308211500 +0000" stop="20260308220500 +0000" channel="rockentertainment.unifitv">
     <title lang="en">The Librarians: The Next Chapter</title>
     <desc lang="en">The team goes to a college campus with a world-class observatory to discover who is using the Crystal of Dr. John Dee to steal people's memories, in order to own the future.</desc>
     <category lang="en">Drama</category>
@@ -7703,14 +7703,14 @@
     <episode-num system="xmltv_ns">12.72.</episode-num>
     <episode-num system="onscreen">S13E73</episode-num>
   </programme>
-  <programme start="20260308233500 +0000" stop="20260309000000 +0000" channel="rockentertainment.unifitv">
+  <programme start="20260308233500 +0000" stop="20260309000100 +0000" channel="rockentertainment.unifitv">
     <title lang="en">Cobra Kai</title>
     <desc lang="en">34 years after losing the All Valley Karate Championship, Johnny Lawrence decides to reopen the Cobra Kai Dojo while his school adversary, Daniel LaRusso, runs a successful auto business.</desc>
     <category lang="en">Drama</category>
     <episode-num system="xmltv_ns">0.0.</episode-num>
     <episode-num system="onscreen">S1E1</episode-num>
   </programme>
-  <programme start="20260309000000 +0000" stop="20260309004500 +0000" channel="rockentertainment.unifitv">
+  <programme start="20260309000100 +0000" stop="20260309004500 +0000" channel="rockentertainment.unifitv">
     <title lang="en">Law &amp; Order: Special Victims Unit</title>
     <desc lang="en">In the criminal justice system, sexually based crimes are considered especially heinous. In New York City, the dedicated detectives who investigate these vicious felonies are members of the Special Victims Unit.</desc>
     <category lang="en">Drama</category>
@@ -15602,12 +15602,12 @@
     <desc lang="en">Top flight men's soccer returns in the ISUZU UTE A-League Men. Catch every moment on SPOTV NOW as 12 teams compete in the regular season with top 4 advancing to a single-game knockout.</desc>
     <category lang="en">Football</category>
   </programme>
-  <programme start="20260309040000 +0000" stop="20260309090000 +0000" channel="spotv2.unifitv">
+  <programme start="20260309040000 +0000" stop="20260309093500 +0000" channel="spotv2.unifitv">
     <title lang="en">2026 LET: Australian Women's Classic - Day 2</title>
     <desc lang="en">Top female golfers compete across premier international venues, delivering world-class performances, thrilling finishes, and season-long championship drama.</desc>
     <category lang="en">Golf</category>
   </programme>
-  <programme start="20260309090000 +0000" stop="20260309100800 +0000" channel="spotv2.unifitv">
+  <programme start="20260309093500 +0000" stop="20260309100800 +0000" channel="spotv2.unifitv">
     <title lang="en">2026 Supercars: Dunlop Sydney 500 - Highlights 1</title>
     <desc lang="en">Supercars delivers exhilarating and accessible motorsports-led entertainment to engaged and passionate fans.</desc>
     <category lang="en">Motorsports</category>
