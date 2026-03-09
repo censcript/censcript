@@ -2036,7 +2036,7 @@
         <title>State of the Union with Jake Tapper and Dana Bash</title>
     </programme>
     <programme start="20260308170000 +0000" stop="20260308180000 +0000" channel="CNN HD.starhub">
-        <title>Fareed Zakaria GPS</title>
+        <title>CNN Newsroom Sunday</title>
     </programme>
     <programme start="20260308180000 +0000" stop="20260308190000 +0000" channel="CNN HD.starhub">
         <title>CNN Newsroom Sunday</title>

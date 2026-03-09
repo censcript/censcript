@@ -1057,93 +1057,6 @@
 <programme start="20260309225500 +0000" stop="20260309234000 +0000" channel="Heimatkanal.skyde">
     <title>Da kommt Kalle</title>
 </programme>
-<programme start="20260308234000 +0000" stop="20260309003500 +0000" channel="HISTORY Channel HD.skyde">
-    <title>War Gamers - Heldinnen der Royal Navy</title>
-</programme>
-<programme start="20260309003500 +0000" stop="20260309013000 +0000" channel="HISTORY Channel HD.skyde">
-    <title>War Gamers - Heldinnen der Royal Navy</title>
-</programme>
-<programme start="20260309013000 +0000" stop="20260309022000 +0000" channel="HISTORY Channel HD.skyde">
-    <title>War Gamers - Heldinnen der Royal Navy</title>
-</programme>
-<programme start="20260309022000 +0000" stop="20260309034000 +0000" channel="HISTORY Channel HD.skyde">
-    <title>When We Speak - Die Stimme der Whistleblowerinnen</title>
-</programme>
-<programme start="20260309034000 +0000" stop="20260309043500 +0000" channel="HISTORY Channel HD.skyde">
-    <title>Jackie Kennedy - Ikone im Weißen Haus</title>
-</programme>
-<programme start="20260309043500 +0000" stop="20260309053000 +0000" channel="HISTORY Channel HD.skyde">
-    <title>Lady Sapiens - Auf den Spuren eines Steinzeit-Mythos</title>
-</programme>
-<programme start="20260309053000 +0000" stop="20260309061500 +0000" channel="HISTORY Channel HD.skyde">
-    <title>Ancient Aliens - Unerklärliche Phänomene</title>
-</programme>
-<programme start="20260309061500 +0000" stop="20260309070000 +0000" channel="HISTORY Channel HD.skyde">
-    <title>Ancient Aliens - Unerklärliche Phänomene</title>
-</programme>
-<programme start="20260309070000 +0000" stop="20260309074500 +0000" channel="HISTORY Channel HD.skyde">
-    <title>Ancient Aliens - Unerklärliche Phänomene</title>
-</programme>
-<programme start="20260309074500 +0000" stop="20260309083000 +0000" channel="HISTORY Channel HD.skyde">
-    <title>Ancient Aliens - Unerklärliche Phänomene</title>
-</programme>
-<programme start="20260309083000 +0000" stop="20260309092000 +0000" channel="HISTORY Channel HD.skyde">
-    <title>The Proof is Out There - Auf den Spuren des Unerklärlichen</title>
-</programme>
-<programme start="20260309092000 +0000" stop="20260309100500 +0000" channel="HISTORY Channel HD.skyde">
-    <title>The Proof is Out There - Auf den Spuren des Unerklärlichen</title>
-</programme>
-<programme start="20260309100500 +0000" stop="20260309105000 +0000" channel="HISTORY Channel HD.skyde">
-    <title>The UnXplained mit William Shatner</title>
-</programme>
-<programme start="20260309105000 +0000" stop="20260309114000 +0000" channel="HISTORY Channel HD.skyde">
-    <title>The UnXplained mit William Shatner</title>
-</programme>
-<programme start="20260309114000 +0000" stop="20260309122500 +0000" channel="HISTORY Channel HD.skyde">
-    <title>History&#039;s Greatest Mysteries</title>
-</programme>
-<programme start="20260309122500 +0000" stop="20260309130500 +0000" channel="HISTORY Channel HD.skyde">
-    <title>History&#039;s Greatest Mysteries</title>
-</programme>
-<programme start="20260309130500 +0000" stop="20260309135500 +0000" channel="HISTORY Channel HD.skyde">
-    <title>The Proof is Out There - Auf den Spuren des Unerklärlichen</title>
-</programme>
-<programme start="20260309135500 +0000" stop="20260309144000 +0000" channel="HISTORY Channel HD.skyde">
-    <title>The Proof is Out There - Auf den Spuren des Unerklärlichen</title>
-</programme>
-<programme start="20260309144000 +0000" stop="20260309152500 +0000" channel="HISTORY Channel HD.skyde">
-    <title>The UnXplained mit William Shatner</title>
-</programme>
-<programme start="20260309152500 +0000" stop="20260309161000 +0000" channel="HISTORY Channel HD.skyde">
-    <title>The UnXplained mit William Shatner</title>
-</programme>
-<programme start="20260309161000 +0000" stop="20260309165500 +0000" channel="HISTORY Channel HD.skyde">
-    <title>Ancient Aliens - Unerklärliche Phänomene</title>
-</programme>
-<programme start="20260309165500 +0000" stop="20260309174000 +0000" channel="HISTORY Channel HD.skyde">
-    <title>Ancient Aliens - Unerklärliche Phänomene</title>
-</programme>
-<programme start="20260309174000 +0000" stop="20260309183000 +0000" channel="HISTORY Channel HD.skyde">
-    <title>Ancient Aliens - Unerklärliche Phänomene</title>
-</programme>
-<programme start="20260309183000 +0000" stop="20260309191500 +0000" channel="HISTORY Channel HD.skyde">
-    <title>Ancient Aliens - Unerklärliche Phänomene</title>
-</programme>
-<programme start="20260309191500 +0000" stop="20260309200000 +0000" channel="HISTORY Channel HD.skyde">
-    <title>Die Disney-Story - Wie eine Maus Geschichte schrieb</title>
-</programme>
-<programme start="20260309200000 +0000" stop="20260309205000 +0000" channel="HISTORY Channel HD.skyde">
-    <title>Innovationen, die die Welt veränderten</title>
-</programme>
-<programme start="20260309205000 +0000" stop="20260309214000 +0000" channel="HISTORY Channel HD.skyde">
-    <title>Forged in Fire - Wettkampf der Schmiede</title>
-</programme>
-<programme start="20260309214000 +0000" stop="20260309223000 +0000" channel="HISTORY Channel HD.skyde">
-    <title>Forged in Fire - Wettkampf der Schmiede</title>
-</programme>
-<programme start="20260309223000 +0000" stop="20260309232500 +0000" channel="HISTORY Channel HD.skyde">
-    <title>Terra X: Unser grüner Planet</title>
-</programme>
 <programme start="20260308230000 +0000" stop="20260309000000 +0000" channel="Jukebox.skyde">
     <title>LOGOUT</title>
 </programme>
@@ -2854,10 +2767,10 @@
 <programme start="20260308233000 +0000" stop="20260309000000 +0000" channel="Sky Sport Mix HD.skyde">
     <title>Live NBA: Showtime</title>
 </programme>
-<programme start="20260309000000 +0000" stop="20260309024500 +0000" channel="Sky Sport Mix HD.skyde">
+<programme start="20260309000000 +0000" stop="20260309030000 +0000" channel="Sky Sport Mix HD.skyde">
     <title>Live NBA: Houston Rockets @ San Antonio Spurs</title>
 </programme>
-<programme start="20260309024500 +0000" stop="20260309050000 +0000" channel="Sky Sport Mix HD.skyde">
+<programme start="20260309030000 +0000" stop="20260309050000 +0000" channel="Sky Sport Mix HD.skyde">
     <title>Live NBA: Charlotte Hornets @ Phoenix Suns</title>
 </programme>
 <programme start="20260309050000 +0000" stop="20260309060000 +0000" channel="Sky Sport Mix HD.skyde">
@@ -2968,120 +2881,6 @@
 <programme start="20260309223000 +0000" stop="20260309230000 +0000" channel="Sky Sport News HD.skyde">
     <title>Live Sky Sport News: Late Night News</title>
 </programme>
-<programme start="20260309004500 +0000" stop="20260309010000 +0000" channel="Sky Sport Premier League HD.skyde">
-    <title>PL: Last Gasp - S. Aguero wins Manchester City&#039;s first Title</title>
-</programme>
-<programme start="20260309010000 +0000" stop="20260309030000 +0000" channel="Sky Sport Premier League HD.skyde">
-    <title>PL: Wolverhampton Wanderers - FC Liverpool, 29. Spieltag</title>
-</programme>
-<programme start="20260309030000 +0000" stop="20260309040000 +0000" channel="Sky Sport Premier League HD.skyde">
-    <title>PL: GOATS (Strikers)</title>
-</programme>
-<programme start="20260309040000 +0000" stop="20260309050000 +0000" channel="Sky Sport Premier League HD.skyde">
-    <title>PL: GOATS (Flair Players)</title>
-</programme>
-<programme start="20260309050000 +0000" stop="20260309060000 +0000" channel="Sky Sport Premier League HD.skyde">
-    <title>PL: GOATS (Alan Shearer&#039;s Top 10 Strikers)</title>
-</programme>
-<programme start="20260309060000 +0000" stop="20260309063000 +0000" channel="Sky Sport Premier League HD.skyde">
-    <title>PL: 90in30: EVE - BUR, 29. Spieltag</title>
-</programme>
-<programme start="20260309063000 +0000" stop="20260309070000 +0000" channel="Sky Sport Premier League HD.skyde">
-    <title>PL: Netbusters, 29. Spieltag</title>
-</programme>
-<programme start="20260309070000 +0000" stop="20260309090000 +0000" channel="Sky Sport Premier League HD.skyde">
-    <title>EFL: Queens Park Rangers - FC Middlesbrough, 36. Spieltag</title>
-</programme>
-<programme start="20260309090000 +0000" stop="20260309093000 +0000" channel="Sky Sport Premier League HD.skyde">
-    <title>PL: International Women&#039;s Day - Beyond the Whistle</title>
-</programme>
-<programme start="20260309093000 +0000" stop="20260309100000 +0000" channel="Sky Sport Premier League HD.skyde">
-    <title>PL: 90in30: BRI - ARS, 29. Spieltag</title>
-</programme>
-<programme start="20260309100000 +0000" stop="20260309110000 +0000" channel="Sky Sport Premier League HD.skyde">
-    <title>PL: Review, 29. Spieltag</title>
-</programme>
-<programme start="20260309110000 +0000" stop="20260309113000 +0000" channel="Sky Sport Premier League HD.skyde">
-    <title>PL: Icons: Eric Cantona</title>
-</programme>
-<programme start="20260309113000 +0000" stop="20260309120000 +0000" channel="Sky Sport Premier League HD.skyde">
-    <title>PL: 90in30: FUL - WHU, 29. Spieltag</title>
-</programme>
-<programme start="20260309120000 +0000" stop="20260309121500 +0000" channel="Sky Sport Premier League HD.skyde">
-    <title>PL: Under the Skin (Newcastle v Sunderland)</title>
-</programme>
-<programme start="20260309121500 +0000" stop="20260309124500 +0000" channel="Sky Sport Premier League HD.skyde">
-    <title>PL: 90in30: BOU - BRE, 29. Spieltag</title>
-</programme>
-<programme start="20260309124500 +0000" stop="20260309131500 +0000" channel="Sky Sport Premier League HD.skyde">
-    <title>PL: Under the Skin (Nottingham Forest)</title>
-</programme>
-<programme start="20260309131500 +0000" stop="20260309133000 +0000" channel="Sky Sport Premier League HD.skyde">
-    <title>PL: Under the Skin (North London Derby)</title>
-</programme>
-<programme start="20260309133000 +0000" stop="20260309140000 +0000" channel="Sky Sport Premier League HD.skyde">
-    <title>PL: 90in30: TOT - CRY, 29. Spieltag</title>
-</programme>
-<programme start="20260309140000 +0000" stop="20260309141500 +0000" channel="Sky Sport Premier League HD.skyde">
-    <title>PL: Fergie - Rise of a Dynasty</title>
-</programme>
-<programme start="20260309141500 +0000" stop="20260309144500 +0000" channel="Sky Sport Premier League HD.skyde">
-    <title>PL: Netbusters, 29. Spieltag</title>
-</programme>
-<programme start="20260309144500 +0000" stop="20260309151500 +0000" channel="Sky Sport Premier League HD.skyde">
-    <title>PL: International Women&#039;s Day - Beyond the Whistle</title>
-</programme>
-<programme start="20260309151500 +0000" stop="20260309153000 +0000" channel="Sky Sport Premier League HD.skyde">
-    <title>PL: Under the Skin (FC Everton)</title>
-</programme>
-<programme start="20260309153000 +0000" stop="20260309173000 +0000" channel="Sky Sport Premier League HD.skyde">
-    <title>EFL: Queens Park Rangers - FC Middlesbrough, 36. Spieltag</title>
-</programme>
-<programme start="20260309173000 +0000" stop="20260309180000 +0000" channel="Sky Sport Premier League HD.skyde">
-    <title>PL: PL Stories (Sports Science)</title>
-</programme>
-<programme start="20260309180000 +0000" stop="20260309183000 +0000" channel="Sky Sport Premier League HD.skyde">
-    <title>PL: International Women&#039;s Day - Beyond the Whistle</title>
-</programme>
-<programme start="20260309183000 +0000" stop="20260309190000 +0000" channel="Sky Sport Premier League HD.skyde">
-    <title>PL: 90in30: AVL - CHE, 29. Spieltag</title>
-</programme>
-<programme start="20260309190000 +0000" stop="20260309191500 +0000" channel="Sky Sport Premier League HD.skyde">
-    <title>EFL: Highlights XXL: FC Watford - AFC Wrexham, 36. Spieltag</title>
-</programme>
-<programme start="20260309191500 +0000" stop="20260309193000 +0000" channel="Sky Sport Premier League HD.skyde">
-    <title>EFL: Highlights XXL: Bristol City - Coventry City, 36. Spieltag</title>
-</programme>
-<programme start="20260309193000 +0000" stop="20260309194500 +0000" channel="Sky Sport Premier League HD.skyde">
-    <title>EFL: Highlights XXL: Swansea City - Stoke City, 36. Spieltag</title>
-</programme>
-<programme start="20260309194500 +0000" stop="20260309200000 +0000" channel="Sky Sport Premier League HD.skyde">
-    <title>EFL: Highlights XXL: Sheffield United - West Bromwich Albion, 36. Spieltag</title>
-</programme>
-<programme start="20260309200000 +0000" stop="20260309203000 +0000" channel="Sky Sport Premier League HD.skyde">
-    <title>EFL: Highlights, 36. Spieltag</title>
-</programme>
-<programme start="20260309203000 +0000" stop="20260309210000 +0000" channel="Sky Sport Premier League HD.skyde">
-    <title>EFL: Highlights, 36. Spieltag</title>
-</programme>
-<programme start="20260309210000 +0000" stop="20260309213000 +0000" channel="Sky Sport Premier League HD.skyde">
-    <title>PL: 90in30: WOL - LIV, 29. Spieltag</title>
-</programme>
-<programme start="20260309213000 +0000" stop="20260309214500 +0000" channel="Sky Sport Premier League HD.skyde">
-    <title>EFL: Highlights XXL: FC Watford - AFC Wrexham, 36. Spieltag</title>
-</programme>
-<programme start="20260309214500 +0000" stop="20260309220000 +0000" channel="Sky Sport Premier League HD.skyde">
-    <title>EFL: Highlights XXL: Bristol City - Coventry City, 36. Spieltag</title>
-</programme>
-<programme start="20260309220000 +0000" stop="20260309221500 +0000" channel="Sky Sport Premier League HD.skyde">
-    <title>EFL: Highlights XXL: Swansea City - Stoke City, 36. Spieltag</title>
-</programme>
-<programme start="20260309221500 +0000" stop="20260309223000 +0000" channel="Sky Sport Premier League HD.skyde">
-    <title>EFL: Highlights XXL: Sheffield United - West Bromwich Albion, 36. Spieltag</title>
-</programme>
-<programme start="20260309223000 +0000" stop="20260310003000 +0000" channel="Sky Sport Premier League HD.skyde">
-    <title>PL: Brighton &amp; Hove Albion - FC Arsenal, 29. Spieltag</title>
-</programme>
 <programme start="20260309050000 +0000" stop="20260309053000 +0000" channel="Sky Sport Tennis HD.skyde">
     <title>ATP: This Week</title>
 </programme>
@@ -3109,10 +2908,10 @@
 <programme start="20260309180000 +0000" stop="20260310050000 +0000" channel="Sky Sport Tennis HD.skyde">
     <title>Live ATP &amp; WTA: Konferenz BNP Paribas Open in Indian Wells, Kalifornien (USA), 6. Tag</title>
 </programme>
-<programme start="20260309000000 +0000" stop="20260309030000 +0000" channel="Sky Sport Top Event HD.skyde">
+<programme start="20260309000000 +0000" stop="20260309024500 +0000" channel="Sky Sport Top Event HD.skyde">
     <title>Live NBA: Houston Rockets @ San Antonio Spurs</title>
 </programme>
-<programme start="20260309030000 +0000" stop="20260309050000 +0000" channel="Sky Sport Top Event HD.skyde">
+<programme start="20260309024500 +0000" stop="20260309050000 +0000" channel="Sky Sport Top Event HD.skyde">
     <title>Live ATP &amp; WTA: Konferenz BNP Paribas Open in Indian Wells, Kalifornien (USA), 5. Tag</title>
 </programme>
 <programme start="20260309050000 +0000" stop="20260309060000 +0000" channel="Sky Sport Top Event HD.skyde">
@@ -3190,7 +2989,7 @@
 <programme start="20260309223000 +0000" stop="20260309233000 +0000" channel="Sky Sport 1 HD.skyde">
     <title>Live NBA: Showtime</title>
 </programme>
-<programme start="20260309003000 +0000" stop="20260309020000 +0000" channel="Sky Sport 2 HD.skyde">
+<programme start="20260309014000 +0000" stop="20260309020000 +0000" channel="Sky Sport 2 HD.skyde">
     <title>Es folgt: LIVE NBA</title>
 </programme>
 <programme start="20260309020000 +0000" stop="20260309090000 +0000" channel="Sky Sport 2 HD.skyde">
@@ -3199,7 +2998,7 @@
 <programme start="20260309174000 +0000" stop="20260309180000 +0000" channel="Sky Sport 2 HD.skyde">
     <title>Es folgt: LIVE Tennis WTA Tour</title>
 </programme>
-<programme start="20260309180000 +0000" stop="20260310090000 +0000" channel="Sky Sport 2 HD.skyde">
+<programme start="20260309180000 +0000" stop="20260310050000 +0000" channel="Sky Sport 2 HD.skyde">
     <title>Live WTA 1000: BNP Paribas Open in Indian Wells, Kalifornien (USA), 6. Tag</title>
 </programme>
 <programme start="20260308234000 +0000" stop="20260309002500 +0000" channel="SYFY HD.skyde">
