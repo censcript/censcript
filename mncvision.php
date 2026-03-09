@@ -9229,13 +9229,13 @@
 <programme start="20260309163000 +0000" stop="20260308170000 +0000" channel="Trans 7.mncvision">
     <title>Newstainment</title>
 </programme>
-<programme start="20260308190000 +0000" stop="20260308214500 +0000" channel="Trans TV.mncvision">
+<programme start="20260308190000 +0000" stop="20260308220000 +0000" channel="Trans TV.mncvision">
     <title>Blockbuster Sahur Movie</title>
 </programme>
-<programme start="20260308214500 +0000" stop="20260308224500 +0000" channel="Trans TV.mncvision">
-    <title>Fast &amp; Furious: Spy Racers</title>
+<programme start="20260308220000 +0000" stop="20260308230000 +0000" channel="Trans TV.mncvision">
+    <title>Dunia Punya Cerita</title>
 </programme>
-<programme start="20260308224500 +0000" stop="20260309000000 +0000" channel="Trans TV.mncvision">
+<programme start="20260308230000 +0000" stop="20260309000000 +0000" channel="Trans TV.mncvision">
     <title>Islam Itu Indah</title>
 </programme>
 <programme start="20260309000000 +0000" stop="20260309010000 +0000" channel="Trans TV.mncvision">
