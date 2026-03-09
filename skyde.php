@@ -2851,6 +2851,66 @@
 <programme start="20260309223000 +0000" stop="20260309230000 +0000" channel="Sky Sport Golf HD.skyde">
     <title>Golf: Greatest Holes (4)</title>
 </programme>
+<programme start="20260308233000 +0000" stop="20260309000000 +0000" channel="Sky Sport Mix HD.skyde">
+    <title>Live NBA: Showtime</title>
+</programme>
+<programme start="20260309000000 +0000" stop="20260309024500 +0000" channel="Sky Sport Mix HD.skyde">
+    <title>Live NBA: Houston Rockets @ San Antonio Spurs</title>
+</programme>
+<programme start="20260309024500 +0000" stop="20260309050000 +0000" channel="Sky Sport Mix HD.skyde">
+    <title>Live NBA: Charlotte Hornets @ Phoenix Suns</title>
+</programme>
+<programme start="20260309050000 +0000" stop="20260309060000 +0000" channel="Sky Sport Mix HD.skyde">
+    <title>3. Liga: Alle Spiele, alle Tore, 28. Spieltag komplett</title>
+</programme>
+<programme start="20260309060000 +0000" stop="20260309080000 +0000" channel="Sky Sport Mix HD.skyde">
+    <title>NHL: Minnesota Wild @ Colorado Avalanche</title>
+</programme>
+<programme start="20260309080000 +0000" stop="20260309081500 +0000" channel="Sky Sport Mix HD.skyde">
+    <title>DFB-Pokal: Kompakt, Viertelfinale</title>
+</programme>
+<programme start="20260309081500 +0000" stop="20260309091500 +0000" channel="Sky Sport Mix HD.skyde">
+    <title>MotoGP: Rennen - GP Thailand</title>
+</programme>
+<programme start="20260309091500 +0000" stop="20260309093000 +0000" channel="Sky Sport Mix HD.skyde">
+    <title>NHL: Highlights BOS@PIT</title>
+</programme>
+<programme start="20260309093000 +0000" stop="20260309094500 +0000" channel="Sky Sport Mix HD.skyde">
+    <title>NHL: Highlights DET@NJD</title>
+</programme>
+<programme start="20260309094500 +0000" stop="20260309100000 +0000" channel="Sky Sport Mix HD.skyde">
+    <title>NHL: Highlights EDM@VGK</title>
+</programme>
+<programme start="20260309100000 +0000" stop="20260309110000 +0000" channel="Sky Sport Mix HD.skyde">
+    <title>3. Liga: Alle Spiele, alle Tore, 28. Spieltag komplett</title>
+</programme>
+<programme start="20260309110000 +0000" stop="20260309133000 +0000" channel="Sky Sport Mix HD.skyde">
+    <title>NBA: Boston Celtics @ Cleveland Cavaliers</title>
+</programme>
+<programme start="20260309133000 +0000" stop="20260309140000 +0000" channel="Sky Sport Mix HD.skyde">
+    <title>NHL: On the Fly</title>
+</programme>
+<programme start="20260309140000 +0000" stop="20260309150000 +0000" channel="Sky Sport Mix HD.skyde">
+    <title>NBA: Showtime</title>
+</programme>
+<programme start="20260309150000 +0000" stop="20260309173000 +0000" channel="Sky Sport Mix HD.skyde">
+    <title>NBA: Houston Rockets @ San Antonio Spurs</title>
+</programme>
+<programme start="20260309173000 +0000" stop="20260309200000 +0000" channel="Sky Sport Mix HD.skyde">
+    <title>NBA: Charlotte Hornets @ Phoenix Suns</title>
+</programme>
+<programme start="20260309200000 +0000" stop="20260309203000 +0000" channel="Sky Sport Mix HD.skyde">
+    <title>NHL: On the Fly</title>
+</programme>
+<programme start="20260309203000 +0000" stop="20260309213000 +0000" channel="Sky Sport Mix HD.skyde">
+    <title>3. Liga: Alle Spiele, alle Tore, 28. Spieltag komplett</title>
+</programme>
+<programme start="20260309213000 +0000" stop="20260309223000 +0000" channel="Sky Sport Mix HD.skyde">
+    <title>MotoGP: Rennen - GP Thailand</title>
+</programme>
+<programme start="20260309223000 +0000" stop="20260310003000 +0000" channel="Sky Sport Mix HD.skyde">
+    <title>NHL: Boston Bruins @ Pittsburgh Penguins</title>
+</programme>
 <programme start="20260308230000 +0000" stop="20260309003000 +0000" channel="Sky Sport News HD.skyde">
     <title>BL: Sky90 - Die Fußballdebatte</title>
 </programme>
@@ -3118,7 +3178,19 @@
 <programme start="20260309080000 +0000" stop="20260309081500 +0000" channel="Sky Sport UHD.skyde">
     <title>Info: UHD</title>
 </programme>
-<programme start="20260309014000 +0000" stop="20260309020000 +0000" channel="Sky Sport 2 HD.skyde">
+<programme start="20260308230000 +0000" stop="20260309000000 +0000" channel="Sky Sport 1 HD.skyde">
+    <title>Live NBA: Showtime</title>
+</programme>
+<programme start="20260309000000 +0000" stop="20260309090000 +0000" channel="Sky Sport 1 HD.skyde">
+    <title>Live NBA: Houston Rockets @ San Antonio Spurs</title>
+</programme>
+<programme start="20260309221000 +0000" stop="20260309223000 +0000" channel="Sky Sport 1 HD.skyde">
+    <title>Es folgt: LIVE NBA</title>
+</programme>
+<programme start="20260309223000 +0000" stop="20260309233000 +0000" channel="Sky Sport 1 HD.skyde">
+    <title>Live NBA: Showtime</title>
+</programme>
+<programme start="20260309003000 +0000" stop="20260309020000 +0000" channel="Sky Sport 2 HD.skyde">
     <title>Es folgt: LIVE NBA</title>
 </programme>
 <programme start="20260309020000 +0000" stop="20260309090000 +0000" channel="Sky Sport 2 HD.skyde">
