@@ -2854,10 +2854,10 @@
 <programme start="20260308233000 +0000" stop="20260309000000 +0000" channel="Sky Sport Mix HD.skyde">
     <title>Live NBA: Showtime</title>
 </programme>
-<programme start="20260309000000 +0000" stop="20260309030000 +0000" channel="Sky Sport Mix HD.skyde">
+<programme start="20260309000000 +0000" stop="20260309024500 +0000" channel="Sky Sport Mix HD.skyde">
     <title>Live NBA: Houston Rockets @ San Antonio Spurs</title>
 </programme>
-<programme start="20260309030000 +0000" stop="20260309050000 +0000" channel="Sky Sport Mix HD.skyde">
+<programme start="20260309024500 +0000" stop="20260309050000 +0000" channel="Sky Sport Mix HD.skyde">
     <title>Live NBA: Charlotte Hornets @ Phoenix Suns</title>
 </programme>
 <programme start="20260309050000 +0000" stop="20260309060000 +0000" channel="Sky Sport Mix HD.skyde">
@@ -3109,11 +3109,14 @@
 <programme start="20260309180000 +0000" stop="20260310050000 +0000" channel="Sky Sport Tennis HD.skyde">
     <title>Live ATP &amp; WTA: Konferenz BNP Paribas Open in Indian Wells, Kalifornien (USA), 6. Tag</title>
 </programme>
-<programme start="20260309000000 +0000" stop="20260309030000 +0000" channel="Sky Sport Top Event HD.skyde">
+<programme start="20260309000000 +0000" stop="20260309024500 +0000" channel="Sky Sport Top Event HD.skyde">
     <title>Live NBA: Houston Rockets @ San Antonio Spurs</title>
 </programme>
-<programme start="20260309030000 +0000" stop="20260309050000 +0000" channel="Sky Sport Top Event HD.skyde">
+<programme start="20260309024500 +0000" stop="20260309043000 +0000" channel="Sky Sport Top Event HD.skyde">
     <title>Live ATP &amp; WTA: Konferenz BNP Paribas Open in Indian Wells, Kalifornien (USA), 5. Tag</title>
+</programme>
+<programme start="20260309043000 +0000" stop="20260309050000 +0000" channel="Sky Sport Top Event HD.skyde">
+    <title>NHL: On the Fly</title>
 </programme>
 <programme start="20260309050000 +0000" stop="20260309060000 +0000" channel="Sky Sport Top Event HD.skyde">
     <title>3. Liga: Alle Spiele, alle Tore, 28. Spieltag komplett</title>
@@ -3199,7 +3202,7 @@
 <programme start="20260309174000 +0000" stop="20260309180000 +0000" channel="Sky Sport 2 HD.skyde">
     <title>Es folgt: LIVE Tennis WTA Tour</title>
 </programme>
-<programme start="20260309180000 +0000" stop="20260310050000 +0000" channel="Sky Sport 2 HD.skyde">
+<programme start="20260309180000 +0000" stop="20260310090000 +0000" channel="Sky Sport 2 HD.skyde">
     <title>Live WTA 1000: BNP Paribas Open in Indian Wells, Kalifornien (USA), 6. Tag</title>
 </programme>
 <programme start="20260308234000 +0000" stop="20260309002500 +0000" channel="SYFY HD.skyde">

@@ -1,7 +1,3 @@
-<programme start="20260309110000 +0700" stop="20260309133000 +0700" channel="COSMOTE Sport 1 HD">
-    <title>Football: KRC Genk - GNK Dinamo</title>
-    <desc>Live: Tidak</desc>
-</programme>
 <programme start="20260309133000 +0700" stop="20260309154500 +0700" channel="COSMOTE Sport 1 HD">
     <title>Sportshow</title>
     <desc>Live: Tidak</desc>
@@ -120,6 +116,10 @@
 </programme>
 <programme start="20260310120000 +0700" stop="20260310141500 +0700" channel="COSMOTE Sport 2 HD">
     <title>Football: Volos NPS - OFI</title>
+    <desc>Live: Tidak</desc>
+</programme>
+<programme start="20260310141500 +0700" stop="20260310161500 +0700" channel="COSMOTE Sport 2 HD">
+    <title>Football: SS Lazio - Sassuolo</title>
     <desc>Live: Tidak</desc>
 </programme>
 <programme start="20260309130000 +0700" stop="20260309150000 +0700" channel="COSMOTE Sport 3 HD">
@@ -254,10 +254,6 @@
     <title>Basketball: Manisa Basket - Anadolu Efes</title>
     <desc>Live: Tidak</desc>
 </programme>
-<programme start="20260309120500 +0700" stop="20260309131000 +0700" channel="COSMOTE Sport 5 HD">
-    <title>2025 Extreme H</title>
-    <desc>Live: Tidak</desc>
-</programme>
 <programme start="20260309131000 +0700" stop="20260309151000 +0700" channel="COSMOTE Sport 5 HD">
     <title>2025 Extreme H</title>
     <desc>Live: Tidak</desc>
@@ -356,6 +352,10 @@
 </programme>
 <programme start="20260310134500 +0700" stop="20260310144500 +0700" channel="COSMOTE Sport 5 HD">
     <title>WRC</title>
+    <desc>Live: Tidak</desc>
+</programme>
+<programme start="20260310144500 +0700" stop="20260310152500 +0700" channel="COSMOTE Sport 5 HD">
+    <title>WRC: More Than Machine S2 E1</title>
     <desc>Live: Tidak</desc>
 </programme>
 <programme start="20260309123000 +0700" stop="20260309150000 +0700" channel="COSMOTE Sport 6 HD">
