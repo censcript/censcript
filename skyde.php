@@ -3109,53 +3109,83 @@
 <programme start="20260309180000 +0000" stop="20260310050000 +0000" channel="Sky Sport Tennis HD.skyde">
     <title>Live ATP &amp; WTA: Konferenz BNP Paribas Open in Indian Wells, Kalifornien (USA), 6. Tag</title>
 </programme>
-<programme start="20260309000000 +0000" stop="20260309030000 +0000" channel="Sky Sport Top Event HD.skyde">
-    <title>Live NBA: Houston Rockets @ San Antonio Spurs</title>
+<programme start="20260302230000 +0000" stop="20260302233000 +0000" channel="Sky Sport Top Event HD.skyde">
+    <title>EFL: Highlights, 35. Spieltag</title>
 </programme>
-<programme start="20260309030000 +0000" stop="20260309050000 +0000" channel="Sky Sport Top Event HD.skyde">
-    <title>Live ATP &amp; WTA: Konferenz BNP Paribas Open in Indian Wells, Kalifornien (USA), 5. Tag</title>
+<programme start="20260302233000 +0000" stop="20260303000000 +0000" channel="Sky Sport Top Event HD.skyde">
+    <title>EFL: Highlights, 35. Spieltag</title>
 </programme>
-<programme start="20260309050000 +0000" stop="20260309060000 +0000" channel="Sky Sport Top Event HD.skyde">
-    <title>3. Liga: Alle Spiele, alle Tore, 28. Spieltag komplett</title>
+<programme start="20260303000000 +0000" stop="20260303020000 +0000" channel="Sky Sport Top Event HD.skyde">
+    <title>NHL: Detroit Red Wings @ Nashville Predators</title>
 </programme>
-<programme start="20260309060000 +0000" stop="20260309061500 +0000" channel="Sky Sport Top Event HD.skyde">
-    <title>2. BL: Dein Spieltags-Sprint (25)</title>
+<programme start="20260303020000 +0000" stop="20260303023000 +0000" channel="Sky Sport Top Event HD.skyde">
+    <title>BL: 90in30: BVB - FCB, 24. Spieltag</title>
 </programme>
-<programme start="20260309061500 +0000" stop="20260309063000 +0000" channel="Sky Sport Top Event HD.skyde">
-    <title>BL: Dein Spieltags-Sprint (25)</title>
+<programme start="20260303023000 +0000" stop="20260303030000 +0000" channel="Sky Sport Top Event HD.skyde">
+    <title>NBA: Action</title>
 </programme>
-<programme start="20260309063000 +0000" stop="20260309080000 +0000" channel="Sky Sport Top Event HD.skyde">
-    <title>BL: Sky90 - Die Fußballdebatte</title>
+<programme start="20260303030000 +0000" stop="20260303054000 +0000" channel="Sky Sport Top Event HD.skyde">
+    <title>Live NBA: LA Clippers @ Golden State Warriors</title>
 </programme>
-<programme start="20260309080000 +0000" stop="20260309100000 +0000" channel="Sky Sport Top Event HD.skyde">
-    <title>F1: Rennen - GP Australien</title>
+<programme start="20260303054000 +0000" stop="20260303060000 +0000" channel="Sky Sport Top Event HD.skyde">
+    <title>Live NBA: Showtime - Post Show</title>
 </programme>
-<programme start="20260309100000 +0000" stop="20260309120000 +0000" channel="Sky Sport Top Event HD.skyde">
-    <title>NHL: Minnesota Wild @ Colorado Avalanche</title>
+<programme start="20260303060000 +0000" stop="20260303070000 +0000" channel="Sky Sport Top Event HD.skyde">
+    <title>PL: Review, 28. Spieltag</title>
 </programme>
-<programme start="20260309120000 +0000" stop="20260309143000 +0000" channel="Sky Sport Top Event HD.skyde">
-    <title>NBA: Boston Celtics @ Cleveland Cavaliers</title>
+<programme start="20260303070000 +0000" stop="20260303073000 +0000" channel="Sky Sport Top Event HD.skyde">
+    <title>2. BL: 90in30: SGF - S04, 24. Spieltag</title>
 </programme>
-<programme start="20260309143000 +0000" stop="20260309153000 +0000" channel="Sky Sport Top Event HD.skyde">
-    <title>F3: 2. Rennen - GP Australien</title>
+<programme start="20260303073000 +0000" stop="20260303080000 +0000" channel="Sky Sport Top Event HD.skyde">
+    <title>BL: 90in30: BVB - FCB, 24. Spieltag</title>
 </programme>
-<programme start="20260309153000 +0000" stop="20260309163000 +0000" channel="Sky Sport Top Event HD.skyde">
-    <title>F2: 2. Rennen - GP Australien</title>
+<programme start="20260303080000 +0000" stop="20260303090000 +0000" channel="Sky Sport Top Event HD.skyde">
+    <title>Fußball: Nachspielzeit - Das Beste vom Fußball-Wochenende</title>
 </programme>
-<programme start="20260309163000 +0000" stop="20260309170000 +0000" channel="Sky Sport Top Event HD.skyde">
-    <title>F1: Rennen Kompakt - GP Australien</title>
+<programme start="20260303090000 +0000" stop="20260303091500 +0000" channel="Sky Sport Top Event HD.skyde">
+    <title>EFL: Highlights XXL: Derby County - Blackburn Rovers, 35. Spieltag</title>
 </programme>
-<programme start="20260309170000 +0000" stop="20260309173000 +0000" channel="Sky Sport Top Event HD.skyde">
-    <title>2. BL: 90in30: BOC - FCK, 25. Spieltag</title>
+<programme start="20260303091500 +0000" stop="20260303093000 +0000" channel="Sky Sport Top Event HD.skyde">
+    <title>EFL: Highlights XXL: Charlton Athletic - AFC Wrexham, 35. Spieltag</title>
 </programme>
-<programme start="20260309173000 +0000" stop="20260309180000 +0000" channel="Sky Sport Top Event HD.skyde">
-    <title>BL: 90in30: KOE - BVB, 25. Spieltag</title>
+<programme start="20260303093000 +0000" stop="20260303094500 +0000" channel="Sky Sport Top Event HD.skyde">
+    <title>EFL: Highlights XXL: Oxford United - West Bromwich Albion, 35. Spieltag</title>
 </programme>
-<programme start="20260309180000 +0000" stop="20260309223000 +0000" channel="Sky Sport Top Event HD.skyde">
-    <title>Live ATP &amp; WTA: Konferenz BNP Paribas Open in Indian Wells, Kalifornien (USA), 6. Tag</title>
+<programme start="20260303094500 +0000" stop="20260303100000 +0000" channel="Sky Sport Top Event HD.skyde">
+    <title>EFL: Highlights XXL: Coventy City - Stoke City, 35. Spieltag</title>
 </programme>
-<programme start="20260309223000 +0000" stop="20260309233000 +0000" channel="Sky Sport Top Event HD.skyde">
-    <title>Live NBA: Showtime</title>
+<programme start="20260303100000 +0000" stop="20260303123000 +0000" channel="Sky Sport Top Event HD.skyde">
+    <title>NBA: LA Clippers @ Golden State Warriors</title>
+</programme>
+<programme start="20260303123000 +0000" stop="20260303130000 +0000" channel="Sky Sport Top Event HD.skyde">
+    <title>PL: 90in30: LIV - WHU, 28. Spieltag</title>
+</programme>
+<programme start="20260303130000 +0000" stop="20260303150000 +0000" channel="Sky Sport Top Event HD.skyde">
+    <title>EFL: Birmingham City - FC Middlesbrough, 35. Spieltag</title>
+</programme>
+<programme start="20260303150000 +0000" stop="20260303170000 +0000" channel="Sky Sport Top Event HD.skyde">
+    <title>NHL: Detroit Red Wings @ Nashville Predators</title>
+</programme>
+<programme start="20260303170000 +0000" stop="20260303173000 +0000" channel="Sky Sport Top Event HD.skyde">
+    <title>NHL: On the Fly</title>
+</programme>
+<programme start="20260303173000 +0000" stop="20260303183000 +0000" channel="Sky Sport Top Event HD.skyde">
+    <title>ATP 500: Review Dubai</title>
+</programme>
+<programme start="20260303183000 +0000" stop="20260303193000 +0000" channel="Sky Sport Top Event HD.skyde">
+    <title>ATP 500: Review Acapulco</title>
+</programme>
+<programme start="20260303193000 +0000" stop="20260303200500 +0000" channel="Sky Sport Top Event HD.skyde">
+    <title>Fußball: scooore Niederlande! Alle Tore</title>
+</programme>
+<programme start="20260303200500 +0000" stop="20260303221500 +0000" channel="Sky Sport Top Event HD.skyde">
+    <title>Live PL: Wolverhampton Wanderers - FC Liverpool, 29. Spieltag</title>
+</programme>
+<programme start="20260303221500 +0000" stop="20260303224500 +0000" channel="Sky Sport Top Event HD.skyde">
+    <title>PL: Netbusters, 28. Spieltag</title>
+</programme>
+<programme start="20260303224500 +0000" stop="20260303230000 +0000" channel="Sky Sport Top Event HD.skyde">
+    <title>NHL: Highlights DET@NSH</title>
 </programme>
 <programme start="20260308233000 +0000" stop="20260309000000 +0000" channel="Sky Sport UHD.skyde">
     <title>Golf: Greatest Holes (1)</title>
@@ -3181,7 +3211,7 @@
 <programme start="20260308230000 +0000" stop="20260309000000 +0000" channel="Sky Sport 1 HD.skyde">
     <title>Live NBA: Showtime</title>
 </programme>
-<programme start="20260309000000 +0000" stop="20260309030000 +0000" channel="Sky Sport 1 HD.skyde">
+<programme start="20260309000000 +0000" stop="20260309090000 +0000" channel="Sky Sport 1 HD.skyde">
     <title>Live NBA: Houston Rockets @ San Antonio Spurs</title>
 </programme>
 <programme start="20260309221000 +0000" stop="20260309223000 +0000" channel="Sky Sport 1 HD.skyde">
@@ -3199,7 +3229,7 @@
 <programme start="20260309174000 +0000" stop="20260309180000 +0000" channel="Sky Sport 2 HD.skyde">
     <title>Es folgt: LIVE Tennis WTA Tour</title>
 </programme>
-<programme start="20260309180000 +0000" stop="20260310050000 +0000" channel="Sky Sport 2 HD.skyde">
+<programme start="20260309180000 +0000" stop="20260310090000 +0000" channel="Sky Sport 2 HD.skyde">
     <title>Live WTA 1000: BNP Paribas Open in Indian Wells, Kalifornien (USA), 6. Tag</title>
 </programme>
 <programme start="20260308234000 +0000" stop="20260309002500 +0000" channel="SYFY HD.skyde">
@@ -3577,41 +3607,47 @@
 <programme start="20260309225000 +0000" stop="20260309231500 +0000" channel="Warner TV Comedy HD.skyde">
     <title>2 Broke Girls</title>
 </programme>
-<programme start="20260302231000 +0000" stop="20260303010000 +0000" channel="Warner TV Film.skyde">
-    <title>Entgleist</title>
+<programme start="20260308231500 +0000" stop="20260309011000 +0000" channel="Warner TV Film.skyde">
+    <title>Ring</title>
 </programme>
-<programme start="20260303010000 +0000" stop="20260303012000 +0000" channel="Warner TV Film.skyde">
-    <title>New York on Set - Teil 1</title>
+<programme start="20260309011000 +0000" stop="20260309031000 +0000" channel="Warner TV Film.skyde">
+    <title>Hidden Figures - Unerkannte Heldinnen</title>
 </programme>
-<programme start="20260303012000 +0000" stop="20260303050000 +0000" channel="Warner TV Film.skyde">
-    <title>Vom Winde verweht</title>
+<programme start="20260309031000 +0000" stop="20260309050000 +0000" channel="Warner TV Film.skyde">
+    <title>Der Teufel trägt Prada</title>
 </programme>
-<programme start="20260303050000 +0000" stop="20260303081500 +0000" channel="Warner TV Film.skyde">
-    <title>Giganten</title>
+<programme start="20260309050000 +0000" stop="20260309065500 +0000" channel="Warner TV Film.skyde">
+    <title>Frühstück bei Tiffany</title>
 </programme>
-<programme start="20260303081500 +0000" stop="20260303100000 +0000" channel="Warner TV Film.skyde">
-    <title>Ehekrieg</title>
+<programme start="20260309065500 +0000" stop="20260309075000 +0000" channel="Warner TV Film.skyde">
+    <title>Lutz van der Horst - Der Filmtalker</title>
 </programme>
-<programme start="20260303100000 +0000" stop="20260303114500 +0000" channel="Warner TV Film.skyde">
-    <title>Eddie the Eagle - Alles ist möglich</title>
+<programme start="20260309075000 +0000" stop="20260309093500 +0000" channel="Warner TV Film.skyde">
+    <title>Little Miss Sunshine</title>
 </programme>
-<programme start="20260303114500 +0000" stop="20260303133000 +0000" channel="Warner TV Film.skyde">
-    <title>Kevin - Allein zu Haus</title>
+<programme start="20260309093500 +0000" stop="20260309114500 +0000" channel="Warner TV Film.skyde">
+    <title>The Best Exotic Marigold Hotel</title>
 </programme>
-<programme start="20260303133000 +0000" stop="20260303153500 +0000" channel="Warner TV Film.skyde">
-    <title>Kevin - Allein in New York</title>
+<programme start="20260309114500 +0000" stop="20260309135000 +0000" channel="Warner TV Film.skyde">
+    <title>The Best Exotic Marigold Hotel 2</title>
 </programme>
-<programme start="20260303153500 +0000" stop="20260303170500 +0000" channel="Warner TV Film.skyde">
-    <title>16 Uhr 50 ab Paddington</title>
-</programme>
-<programme start="20260303170500 +0000" stop="20260303191500 +0000" channel="Warner TV Film.skyde">
-    <title>Der Sturm</title>
-</programme>
-<programme start="20260303191500 +0000" stop="20260303205500 +0000" channel="Warner TV Film.skyde">
+<programme start="20260309135000 +0000" stop="20260309153000 +0000" channel="Warner TV Film.skyde">
     <title>Ruf der Wildnis</title>
 </programme>
-<programme start="20260303205500 +0000" stop="20260303230000 +0000" channel="Warner TV Film.skyde">
-    <title>Collateral</title>
+<programme start="20260309153000 +0000" stop="20260309170500 +0000" channel="Warner TV Film.skyde">
+    <title>Die Letzten vom Red River</title>
+</programme>
+<programme start="20260309170500 +0000" stop="20260309191500 +0000" channel="Warner TV Film.skyde">
+    <title>Hidden Figures - Unerkannte Heldinnen</title>
+</programme>
+<programme start="20260309191500 +0000" stop="20260309210000 +0000" channel="Warner TV Film.skyde">
+    <title>Kampf der Titanen</title>
+</programme>
+<programme start="20260309210000 +0000" stop="20260309224500 +0000" channel="Warner TV Film.skyde">
+    <title>Zorn der Titanen</title>
+</programme>
+<programme start="20260309224500 +0000" stop="20260310004500 +0000" channel="Warner TV Film.skyde">
+    <title>Ausnahmezustand</title>
 </programme>
 <programme start="20260308231500 +0000" stop="20260309011000 +0000" channel="Warner TV Film HD.skyde">
     <title>Ring</title>
