@@ -54,6 +54,14 @@
     <title>Football: Paris Saint Germain - AS Monaco FC</title>
     <desc>Live: Tidak</desc>
 </programme>
+<programme start="20260311000000 +0700" stop="20260311004500 +0700" channel="COSMOTE Sport 1 HD">
+    <title>UEFA Champions League Show 2025-26 (L)</title>
+    <desc>Live: Ya</desc>
+</programme>
+<programme start="20260311004500 +0700" stop="20260311010000 +0700" channel="COSMOTE Sport 1 HD">
+    <title>Sports Classics: Worldies E21</title>
+    <desc>Live: Tidak</desc>
+</programme>
 <programme start="20260309222000 +0700" stop="20260310002500 +0700" channel="COSMOTE Sport 2 HD">
     <title>Football: AC Milan - FC Internazionale Milano</title>
     <desc>Live: Tidak</desc>
@@ -109,6 +117,10 @@
 <programme start="20260310223000 +0700" stop="20260311004500 +0700" channel="COSMOTE Sport 2 HD">
     <title>Football: SSC Napoli - Torino</title>
     <desc>Live: Tidak</desc>
+</programme>
+<programme start="20260311004500 +0700" stop="20260311030000 +0700" channel="COSMOTE Sport 2 HD">
+    <title>Football: Galatasaray AS - Liverpool FC (L)</title>
+    <desc>Live: Ya</desc>
 </programme>
 <programme start="20260309223000 +0700" stop="20260310002500 +0700" channel="COSMOTE Sport 3 HD">
     <title>Football: SL Benfica - FC Porto</title>
@@ -182,6 +194,14 @@
     <title>Emirates FA Cup 2025-26 - Highlights</title>
     <desc>Live: Tidak</desc>
 </programme>
+<programme start="20260311002000 +0700" stop="20260311004500 +0700" channel="COSMOTE Sport 3 HD">
+    <title>William Hill Scottish Premiership - Highlights</title>
+    <desc>Live: Tidak</desc>
+</programme>
+<programme start="20260311004500 +0700" stop="20260311030000 +0700" channel="COSMOTE Sport 3 HD">
+    <title>World Athletics Indoor Tour Gold 2026</title>
+    <desc>Live: Tidak</desc>
+</programme>
 <programme start="20260309220500 +0700" stop="20260310000500 +0700" channel="COSMOTE Sport 4 HD">
     <title>Basketball: Gran Canaria - Real Madrid</title>
     <desc>Live: Tidak</desc>
@@ -236,10 +256,6 @@
 </programme>
 <programme start="20260310233000 +0700" stop="20260311015500 +0700" channel="COSMOTE Sport 4 HD">
     <title>Basketball: Oklahoma City Thunder - Denver Nuggets</title>
-    <desc>Live: Tidak</desc>
-</programme>
-<programme start="20260309225000 +0700" stop="20260309233500 +0700" channel="COSMOTE Sport 5 HD">
-    <title>WRC: More Than Machine S2 E4</title>
     <desc>Live: Tidak</desc>
 </programme>
 <programme start="20260309233500 +0700" stop="20260310002500 +0700" channel="COSMOTE Sport 5 HD">
@@ -350,8 +366,8 @@
     <title>WRC 2026</title>
     <desc>Live: Tidak</desc>
 </programme>
-<programme start="20260309200000 +0700" stop="20260310000000 +0700" channel="COSMOTE Sport 6 HD">
-    <title>Tennis: ATP Masters 1000 2026</title>
+<programme start="20260311005500 +0700" stop="20260311015500 +0700" channel="COSMOTE Sport 5 HD">
+    <title>WRC</title>
     <desc>Live: Tidak</desc>
 </programme>
 <programme start="20260310000000 +0700" stop="20260310010000 +0700" channel="COSMOTE Sport 6 HD">
@@ -362,8 +378,12 @@
     <title>Tennis: ATP Masters 1000 2026 (L)</title>
     <desc>Live: Ya</desc>
 </programme>
-<programme start="20260310050000 +0700" stop="20260310090000 +0700" channel="COSMOTE Sport 6 HD">
+<programme start="20260310050000 +0700" stop="20260310070000 +0700" channel="COSMOTE Sport 6 HD">
     <title>Tennis: ATP Masters 1000 2026 (L)</title>
+    <desc>Live: Ya</desc>
+</programme>
+<programme start="20260310070000 +0700" stop="20260310090000 +0700" channel="COSMOTE Sport 6 HD">
+    <title>Tennis: Novak Djokovic/Stefanos Tsitsipas - Marcelo Arevalo/Mate Pavic (L)</title>
     <desc>Live: Ya</desc>
 </programme>
 <programme start="20260310090000 +0700" stop="20260310123000 +0700" channel="COSMOTE Sport 6 HD">
@@ -390,8 +410,12 @@
     <title>Topspin</title>
     <desc>Live: Tidak</desc>
 </programme>
-<programme start="20260310210000 +0700" stop="20260311010000 +0700" channel="COSMOTE Sport 6 HD">
+<programme start="20260310210000 +0700" stop="20260310230000 +0700" channel="COSMOTE Sport 6 HD">
     <title>Tennis: ATP Masters 1000 2026</title>
+    <desc>Live: Tidak</desc>
+</programme>
+<programme start="20260310230000 +0700" stop="20260311010000 +0700" channel="COSMOTE Sport 6 HD">
+    <title>Tennis: Novak Djokovic/Stefanos Tsitsipas - Marcelo Arevalo/Mate Pavic</title>
     <desc>Live: Tidak</desc>
 </programme>
 <programme start="20260309230000 +0700" stop="20260310010000 +0700" channel="COSMOTE Sport 7 HD">
@@ -456,14 +480,6 @@
 </programme>
 <programme start="20260310230000 +0700" stop="20260311010000 +0700" channel="COSMOTE Sport 7 HD">
     <title>COSMOTESport7HD</title>
-    <desc>Live: Tidak</desc>
-</programme>
-<programme start="20260309230000 +0700" stop="20260309233000 +0700" channel="COSMOTE Sport 8 HD">
-    <title>COSMOTESport8HD</title>
-    <desc>Live: Tidak</desc>
-</programme>
-<programme start="20260309233000 +0700" stop="20260310000000 +0700" channel="COSMOTE Sport 8 HD">
-    <title>COSMOTESport8HD</title>
     <desc>Live: Tidak</desc>
 </programme>
 <programme start="20260310000000 +0700" stop="20260310020000 +0700" channel="COSMOTE Sport 8 HD">
