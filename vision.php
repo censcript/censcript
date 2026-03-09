@@ -262,10 +262,7 @@
 <programme start="20260310110000 +0000" stop="20260310123000 +0000" channel="GTV.vision">
 <title>New Family 100 (GTV)</title>
 </programme>
-<programme start="20260309000000 +0000" stop="20260309003000 +0000" channel="iNews.vision">
-<title>Special Report</title>
-</programme>
-<programme start="20260309003000 +0000" stop="20260309010000 +0000" channel="iNews.vision">
+<programme start="20260309000000 +0000" stop="20260309010000 +0000" channel="iNews.vision">
 <title>Morning Update</title>
 </programme>
 <programme start="20260309010000 +0000" stop="20260309021500 +0000" channel="iNews.vision">
@@ -356,12 +353,9 @@
 <title>iNews Sport Pagi (L)</title>
 </programme>
 <programme start="20260309233000 +0000" stop="20260310000000 +0000" channel="iNews.vision">
-<title>iBreak: The One Entrepreneur</title>
-</programme>
-<programme start="20260310000000 +0000" stop="20260310003000 +0000" channel="iNews.vision">
 <title>Special Report</title>
 </programme>
-<programme start="20260310003000 +0000" stop="20260310010000 +0000" channel="iNews.vision">
+<programme start="20260310000000 +0000" stop="20260310010000 +0000" channel="iNews.vision">
 <title>Morning Update</title>
 </programme>
 <programme start="20260310010000 +0000" stop="20260310021500 +0000" channel="iNews.vision">
@@ -727,65 +721,59 @@
 <programme start="20260310114500 +0000" stop="20260310121500 +0000" channel="Trans 7.vision">
 <title>Trans 7</title>
 </programme>
-<programme start="20260308233000 +0000" stop="20260309003000 +0000" channel="ANTV.vision">
-<title>Baalveer Returns</title>
+<programme start="20260308230000 +0000" stop="20260309010000 +0000" channel="ANTV.vision">
+<title>ANTV</title>
 </programme>
-<programme start="20260309003000 +0000" stop="20260309023000 +0000" channel="ANTV.vision">
-<title>Janji Inspektur Virat</title>
+<programme start="20260309010000 +0000" stop="20260309023000 +0000" channel="ANTV.vision">
+<title>ANTV</title>
 </programme>
 <programme start="20260309023000 +0000" stop="20260309060000 +0000" channel="ANTV.vision">
-<title>Pardes</title>
+<title>ANTV</title>
 </programme>
-<programme start="20260309060000 +0000" stop="20260309080000 +0000" channel="ANTV.vision">
-<title>Jhanak</title>
+<programme start="20260309060000 +0000" stop="20260309091500 +0000" channel="ANTV.vision">
+<title>ANTV</title>
 </programme>
-<programme start="20260309080000 +0000" stop="20260309090000 +0000" channel="ANTV.vision">
-<title>Teri Medi Doriyaann</title>
+<programme start="20260309091500 +0000" stop="20260309114500 +0000" channel="ANTV.vision">
+<title>ANTV</title>
 </programme>
-<programme start="20260309090000 +0000" stop="20260309110000 +0000" channel="ANTV.vision">
-<title>Vasudha</title>
+<programme start="20260309114500 +0000" stop="20260309133000 +0000" channel="ANTV.vision">
+<title>ANTV</title>
 </programme>
-<programme start="20260309110000 +0000" stop="20260309130000 +0000" channel="ANTV.vision">
-<title>Jaka Tuak</title>
+<programme start="20260309133000 +0000" stop="20260309153000 +0000" channel="ANTV.vision">
+<title>ANTV</title>
 </programme>
-<programme start="20260309130000 +0000" stop="20260309150000 +0000" channel="ANTV.vision">
-<title>Jampang 2</title>
+<programme start="20260309153000 +0000" stop="20260309171500 +0000" channel="ANTV.vision">
+<title>ANTV</title>
 </programme>
-<programme start="20260309150000 +0000" stop="20260309170000 +0000" channel="ANTV.vision">
-<title>Jodoh Boleh Diatur</title>
+<programme start="20260309171500 +0000" stop="20260309183000 +0000" channel="ANTV.vision">
+<title>ANTV</title>
 </programme>
-<programme start="20260309170000 +0000" stop="20260309183000 +0000" channel="ANTV.vision">
-<title>Naughty Bomb</title>
+<programme start="20260309183000 +0000" stop="20260309200000 +0000" channel="ANTV.vision">
+<title>ANTV</title>
 </programme>
-<programme start="20260309183000 +0000" stop="20260309191500 +0000" channel="ANTV.vision">
-<title>Sinema Spesial</title>
+<programme start="20260309200000 +0000" stop="20260309223000 +0000" channel="ANTV.vision">
+<title>ANTV</title>
 </programme>
-<programme start="20260309191500 +0000" stop="20260309214500 +0000" channel="ANTV.vision">
-<title>Serie A Liga Italia</title>
+<programme start="20260309223000 +0000" stop="20260309230000 +0000" channel="ANTV.vision">
+<title>ANTV</title>
 </programme>
-<programme start="20260309214500 +0000" stop="20260309233000 +0000" channel="ANTV.vision">
-<title>Tawa Kalcer</title>
+<programme start="20260309230000 +0000" stop="20260310010000 +0000" channel="ANTV.vision">
+<title>ANTV</title>
 </programme>
-<programme start="20260309233000 +0000" stop="20260310003000 +0000" channel="ANTV.vision">
-<title>Baalveer Returns</title>
-</programme>
-<programme start="20260310003000 +0000" stop="20260310023000 +0000" channel="ANTV.vision">
-<title>Janji Inspektur Virat</title>
+<programme start="20260310010000 +0000" stop="20260310023000 +0000" channel="ANTV.vision">
+<title>ANTV</title>
 </programme>
 <programme start="20260310023000 +0000" stop="20260310060000 +0000" channel="ANTV.vision">
-<title>Har Dil Jo Pyar Karega</title>
+<title>ANTV</title>
 </programme>
-<programme start="20260310060000 +0000" stop="20260310080000 +0000" channel="ANTV.vision">
-<title>Jhanak</title>
+<programme start="20260310060000 +0000" stop="20260310091500 +0000" channel="ANTV.vision">
+<title>ANTV</title>
 </programme>
-<programme start="20260310080000 +0000" stop="20260310090000 +0000" channel="ANTV.vision">
-<title>Teri Meri Doriyaann</title>
+<programme start="20260310091500 +0000" stop="20260310114500 +0000" channel="ANTV.vision">
+<title>ANTV</title>
 </programme>
-<programme start="20260310090000 +0000" stop="20260310110000 +0000" channel="ANTV.vision">
-<title>Vasudha</title>
-</programme>
-<programme start="20260310110000 +0000" stop="20260310130000 +0000" channel="ANTV.vision">
-<title>Pendekar Jagad Kelana</title>
+<programme start="20260310114500 +0000" stop="20260310133000 +0000" channel="ANTV.vision">
+<title>ANTV</title>
 </programme>
 <programme start="20260308230000 +0000" stop="20260309010000 +0000" channel="RTV.vision">
 <title>Bread Barbershop</title>
@@ -1497,4 +1485,16 @@
 </programme>
 <programme start="20260309011500 +0000" stop="20260309014500 +0000" channel="BTV.vision">
 <title>BTV</title>
+</programme>
+<programme start="20260309014500 +0000" stop="20260309020000 +0000" channel="BTV.vision">
+<title>Masak Ala Devina Hermawan</title>
+</programme>
+<programme start="20260309020000 +0000" stop="20260309020500 +0000" channel="BTV.vision">
+<title>Berita Satu Terkini</title>
+</programme>
+<programme start="20260309020500 +0000" stop="20260309023000 +0000" channel="BTV.vision">
+<title>Masak Ala Devina Hermawan</title>
+</programme>
+<programme start="20260309023000 +0000" stop="20260309033000 +0000" channel="BTV.vision">
+<title>Investor Market Today</title>
 </programme>

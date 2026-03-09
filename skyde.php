@@ -2603,7 +2603,7 @@
     <title>Admiral BL: SK Rapid - FC Red Bull Salzburg, 22. Runde</title>
 </programme>
 <programme start="20260309130000 +0000" stop="20260309133000 +0000" channel="Sky Sport Austria 1 HD.skyde">
-    <title>RIESENrad: Sportgrößen im Waggon 28</title>
+    <title>RIESENrad: Sportgrößen im Waggon 28 (Gast: Benjamin Karl)</title>
 </programme>
 <programme start="20260309133000 +0000" stop="20260309140000 +0000" channel="Sky Sport Austria 1 HD.skyde">
     <title>Admiral BL: ASAT Kompakt, 22. Runde</title>
@@ -2615,7 +2615,7 @@
     <title>Admiral BL: LASK - RZ Pellets WAC, 22. Runde</title>
 </programme>
 <programme start="20260309163000 +0000" stop="20260309170000 +0000" channel="Sky Sport Austria 1 HD.skyde">
-    <title>RIESENrad: Sportgrößen im Waggon 28</title>
+    <title>RIESENrad: Sportgrößen im Waggon 28 (Gast: Benjamin Karl)</title>
 </programme>
 <programme start="20260309170000 +0000" stop="20260309173000 +0000" channel="Sky Sport Austria 1 HD.skyde">
     <title>Admiral BL: 90in30: SCR - RBS, 22. Runde</title>
@@ -2851,6 +2851,66 @@
 <programme start="20260309223000 +0000" stop="20260309230000 +0000" channel="Sky Sport Golf HD.skyde">
     <title>Golf: Greatest Holes (4)</title>
 </programme>
+<programme start="20260308233000 +0000" stop="20260309000000 +0000" channel="Sky Sport Mix HD.skyde">
+    <title>Live NBA: Showtime</title>
+</programme>
+<programme start="20260309000000 +0000" stop="20260309024500 +0000" channel="Sky Sport Mix HD.skyde">
+    <title>Live NBA: Houston Rockets @ San Antonio Spurs</title>
+</programme>
+<programme start="20260309024500 +0000" stop="20260309050000 +0000" channel="Sky Sport Mix HD.skyde">
+    <title>Live NBA: Charlotte Hornets @ Phoenix Suns</title>
+</programme>
+<programme start="20260309050000 +0000" stop="20260309060000 +0000" channel="Sky Sport Mix HD.skyde">
+    <title>3. Liga: Alle Spiele, alle Tore, 28. Spieltag komplett</title>
+</programme>
+<programme start="20260309060000 +0000" stop="20260309080000 +0000" channel="Sky Sport Mix HD.skyde">
+    <title>NHL: Minnesota Wild @ Colorado Avalanche</title>
+</programme>
+<programme start="20260309080000 +0000" stop="20260309081500 +0000" channel="Sky Sport Mix HD.skyde">
+    <title>DFB-Pokal: Kompakt, Viertelfinale</title>
+</programme>
+<programme start="20260309081500 +0000" stop="20260309091500 +0000" channel="Sky Sport Mix HD.skyde">
+    <title>MotoGP: Rennen - GP Thailand</title>
+</programme>
+<programme start="20260309091500 +0000" stop="20260309093000 +0000" channel="Sky Sport Mix HD.skyde">
+    <title>NHL: Highlights BOS@PIT</title>
+</programme>
+<programme start="20260309093000 +0000" stop="20260309094500 +0000" channel="Sky Sport Mix HD.skyde">
+    <title>NHL: Highlights DET@NJD</title>
+</programme>
+<programme start="20260309094500 +0000" stop="20260309100000 +0000" channel="Sky Sport Mix HD.skyde">
+    <title>NHL: Highlights EDM@VGK</title>
+</programme>
+<programme start="20260309100000 +0000" stop="20260309110000 +0000" channel="Sky Sport Mix HD.skyde">
+    <title>3. Liga: Alle Spiele, alle Tore, 28. Spieltag komplett</title>
+</programme>
+<programme start="20260309110000 +0000" stop="20260309133000 +0000" channel="Sky Sport Mix HD.skyde">
+    <title>NBA: Boston Celtics @ Cleveland Cavaliers</title>
+</programme>
+<programme start="20260309133000 +0000" stop="20260309140000 +0000" channel="Sky Sport Mix HD.skyde">
+    <title>NHL: On the Fly</title>
+</programme>
+<programme start="20260309140000 +0000" stop="20260309150000 +0000" channel="Sky Sport Mix HD.skyde">
+    <title>NBA: Showtime</title>
+</programme>
+<programme start="20260309150000 +0000" stop="20260309173000 +0000" channel="Sky Sport Mix HD.skyde">
+    <title>NBA: Houston Rockets @ San Antonio Spurs</title>
+</programme>
+<programme start="20260309173000 +0000" stop="20260309200000 +0000" channel="Sky Sport Mix HD.skyde">
+    <title>NBA: Charlotte Hornets @ Phoenix Suns</title>
+</programme>
+<programme start="20260309200000 +0000" stop="20260309203000 +0000" channel="Sky Sport Mix HD.skyde">
+    <title>NHL: On the Fly</title>
+</programme>
+<programme start="20260309203000 +0000" stop="20260309213000 +0000" channel="Sky Sport Mix HD.skyde">
+    <title>3. Liga: Alle Spiele, alle Tore, 28. Spieltag komplett</title>
+</programme>
+<programme start="20260309213000 +0000" stop="20260309223000 +0000" channel="Sky Sport Mix HD.skyde">
+    <title>MotoGP: Rennen - GP Thailand</title>
+</programme>
+<programme start="20260309223000 +0000" stop="20260310003000 +0000" channel="Sky Sport Mix HD.skyde">
+    <title>NHL: Boston Bruins @ Pittsburgh Penguins</title>
+</programme>
 <programme start="20260308230000 +0000" stop="20260309003000 +0000" channel="Sky Sport News HD.skyde">
     <title>BL: Sky90 - Die Fußballdebatte</title>
 </programme>
@@ -2987,7 +3047,7 @@
     <title>PL: 90in30: AVL - CHE, 29. Spieltag</title>
 </programme>
 <programme start="20260309190000 +0000" stop="20260309191500 +0000" channel="Sky Sport Premier League HD.skyde">
-    <title>EFL: Highlights XXL: FC Watford - AFC Wrexham, 36. Spieltag</title>
+    <title>EFL: Highlights XXL: Hull City - FC Millwall, 36. Spieltag</title>
 </programme>
 <programme start="20260309191500 +0000" stop="20260309193000 +0000" channel="Sky Sport Premier League HD.skyde">
     <title>EFL: Highlights XXL: Bristol City - Coventry City, 36. Spieltag</title>
@@ -3008,7 +3068,7 @@
     <title>PL: 90in30: WOL - LIV, 29. Spieltag</title>
 </programme>
 <programme start="20260309213000 +0000" stop="20260309214500 +0000" channel="Sky Sport Premier League HD.skyde">
-    <title>EFL: Highlights XXL: FC Watford - AFC Wrexham, 36. Spieltag</title>
+    <title>EFL: Highlights XXL: Hull City - FC Millwall, 36. Spieltag</title>
 </programme>
 <programme start="20260309214500 +0000" stop="20260309220000 +0000" channel="Sky Sport Premier League HD.skyde">
     <title>EFL: Highlights XXL: Bristol City - Coventry City, 36. Spieltag</title>
@@ -3049,11 +3109,14 @@
 <programme start="20260309180000 +0000" stop="20260310050000 +0000" channel="Sky Sport Tennis HD.skyde">
     <title>Live ATP &amp; WTA: Konferenz BNP Paribas Open in Indian Wells, Kalifornien (USA), 6. Tag</title>
 </programme>
-<programme start="20260309000000 +0000" stop="20260309030000 +0000" channel="Sky Sport Top Event HD.skyde">
+<programme start="20260309000000 +0000" stop="20260309024500 +0000" channel="Sky Sport Top Event HD.skyde">
     <title>Live NBA: Houston Rockets @ San Antonio Spurs</title>
 </programme>
-<programme start="20260309030000 +0000" stop="20260309050000 +0000" channel="Sky Sport Top Event HD.skyde">
+<programme start="20260309024500 +0000" stop="20260309043000 +0000" channel="Sky Sport Top Event HD.skyde">
     <title>Live ATP &amp; WTA: Konferenz BNP Paribas Open in Indian Wells, Kalifornien (USA), 5. Tag</title>
+</programme>
+<programme start="20260309043000 +0000" stop="20260309050000 +0000" channel="Sky Sport Top Event HD.skyde">
+    <title>NHL: On the Fly</title>
 </programme>
 <programme start="20260309050000 +0000" stop="20260309060000 +0000" channel="Sky Sport Top Event HD.skyde">
     <title>3. Liga: Alle Spiele, alle Tore, 28. Spieltag komplett</title>
@@ -3118,7 +3181,19 @@
 <programme start="20260309080000 +0000" stop="20260309081500 +0000" channel="Sky Sport UHD.skyde">
     <title>Info: UHD</title>
 </programme>
-<programme start="20260309014000 +0000" stop="20260309020000 +0000" channel="Sky Sport 2 HD.skyde">
+<programme start="20260308230000 +0000" stop="20260309000000 +0000" channel="Sky Sport 1 HD.skyde">
+    <title>Live NBA: Showtime</title>
+</programme>
+<programme start="20260309000000 +0000" stop="20260309090000 +0000" channel="Sky Sport 1 HD.skyde">
+    <title>Live NBA: Houston Rockets @ San Antonio Spurs</title>
+</programme>
+<programme start="20260309221000 +0000" stop="20260309223000 +0000" channel="Sky Sport 1 HD.skyde">
+    <title>Es folgt: LIVE NBA</title>
+</programme>
+<programme start="20260309223000 +0000" stop="20260309233000 +0000" channel="Sky Sport 1 HD.skyde">
+    <title>Live NBA: Showtime</title>
+</programme>
+<programme start="20260309003000 +0000" stop="20260309020000 +0000" channel="Sky Sport 2 HD.skyde">
     <title>Es folgt: LIVE NBA</title>
 </programme>
 <programme start="20260309020000 +0000" stop="20260309090000 +0000" channel="Sky Sport 2 HD.skyde">
@@ -3523,13 +3598,13 @@
 <programme start="20260309075000 +0000" stop="20260309093500 +0000" channel="Warner TV Film.skyde">
     <title>Little Miss Sunshine</title>
 </programme>
-<programme start="20260309093500 +0000" stop="20260309114500 +0000" channel="Warner TV Film.skyde">
+<programme start="20260309093500 +0000" stop="20260309114000 +0000" channel="Warner TV Film.skyde">
     <title>The Best Exotic Marigold Hotel</title>
 </programme>
-<programme start="20260309114500 +0000" stop="20260309135000 +0000" channel="Warner TV Film.skyde">
+<programme start="20260309114000 +0000" stop="20260309134500 +0000" channel="Warner TV Film.skyde">
     <title>The Best Exotic Marigold Hotel 2</title>
 </programme>
-<programme start="20260309135000 +0000" stop="20260309153000 +0000" channel="Warner TV Film.skyde">
+<programme start="20260309134500 +0000" stop="20260309153000 +0000" channel="Warner TV Film.skyde">
     <title>Ruf der Wildnis</title>
 </programme>
 <programme start="20260309153000 +0000" stop="20260309170500 +0000" channel="Warner TV Film.skyde">
@@ -3538,13 +3613,13 @@
 <programme start="20260309170500 +0000" stop="20260309191500 +0000" channel="Warner TV Film.skyde">
     <title>Hidden Figures - Unerkannte Heldinnen</title>
 </programme>
-<programme start="20260309191500 +0000" stop="20260309210000 +0000" channel="Warner TV Film.skyde">
+<programme start="20260309191500 +0000" stop="20260309210500 +0000" channel="Warner TV Film.skyde">
     <title>Kampf der Titanen</title>
 </programme>
-<programme start="20260309210000 +0000" stop="20260309224500 +0000" channel="Warner TV Film.skyde">
+<programme start="20260309210500 +0000" stop="20260309224500 +0000" channel="Warner TV Film.skyde">
     <title>Zorn der Titanen</title>
 </programme>
-<programme start="20260309224500 +0000" stop="20260310004500 +0000" channel="Warner TV Film.skyde">
+<programme start="20260309224500 +0000" stop="20260310004000 +0000" channel="Warner TV Film.skyde">
     <title>Ausnahmezustand</title>
 </programme>
 <programme start="20260308231500 +0000" stop="20260309011000 +0000" channel="Warner TV Film HD.skyde">
