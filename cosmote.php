@@ -70,6 +70,10 @@
     <title>UEFA Champions League 2025-26 Minute By Minute (L)</title>
     <desc>Live: Ya</desc>
 </programme>
+<programme start="20260312050500 +0700" stop="20260312070000 +0700" channel="COSMOTE Sport 1 HD">
+    <title>UEFA Champions League Show 2025-26 (L)</title>
+    <desc>Live: Ya</desc>
+</programme>
 <programme start="20260311030000 +0700" stop="20260311050500 +0700" channel="COSMOTE Sport 2 HD">
     <title>Football: Newcastle United - FC Barcelona (L)</title>
     <desc>Live: Ya</desc>
@@ -129,6 +133,14 @@
 <programme start="20260312030000 +0700" stop="20260312050500 +0700" channel="COSMOTE Sport 2 HD">
     <title>Football: Real Madrid CF - Manchester City FC (L)</title>
     <desc>Live: Ya</desc>
+</programme>
+<programme start="20260312050500 +0700" stop="20260312053500 +0700" channel="COSMOTE Sport 2 HD">
+    <title>Serie A Full Impact 2025-26 E28</title>
+    <desc>Live: Tidak</desc>
+</programme>
+<programme start="20260312053500 +0700" stop="20260312073500 +0700" channel="COSMOTE Sport 2 HD">
+    <title>Football: Real Madrid CF - Manchester City FC</title>
+    <desc>Live: Tidak</desc>
 </programme>
 <programme start="20260311030000 +0700" stop="20260311050500 +0700" channel="COSMOTE Sport 3 HD">
     <title>Football: Atalanta - FC Bayern Munchen (L)</title>
@@ -198,9 +210,9 @@
     <title>Football: Paris Saint Germain - Chelsea FC (L)</title>
     <desc>Live: Ya</desc>
 </programme>
-<programme start="20260311023000 +0700" stop="20260311041500 +0700" channel="COSMOTE Sport 4 HD">
-    <title>Pick n&#039; Roll (L)</title>
-    <desc>Live: Ya</desc>
+<programme start="20260312050500 +0700" stop="20260312070500 +0700" channel="COSMOTE Sport 3 HD">
+    <title>Football: Bayer 04 Leverkusen - Arsenal</title>
+    <desc>Live: Tidak</desc>
 </programme>
 <programme start="20260311041500 +0700" stop="20260311051500 +0700" channel="COSMOTE Sport 4 HD">
     <title>NBA Specials: Basketball Stories</title>
@@ -256,6 +268,10 @@
 </programme>
 <programme start="20260312044500 +0700" stop="20260312051000 +0700" channel="COSMOTE Sport 4 HD">
     <title>ACB Liga Endesa 2025-26 - Fifth Quarter E21</title>
+    <desc>Live: Tidak</desc>
+</programme>
+<programme start="20260312051000 +0700" stop="20260312060500 +0700" channel="COSMOTE Sport 4 HD">
+    <title>NBA Specials: Basketball Stories</title>
     <desc>Live: Tidak</desc>
 </programme>
 <programme start="20260311030000 +0700" stop="20260311050500 +0700" channel="COSMOTE Sport 5 HD">
@@ -338,9 +354,9 @@
     <title>Football: FK Bodo/Glimt - Sporting CP (L)</title>
     <desc>Live: Ya</desc>
 </programme>
-<programme start="20260311010000 +0700" stop="20260311050000 +0700" channel="COSMOTE Sport 6 HD">
-    <title>Tennis: ATP Masters 1000 2026 (L)</title>
-    <desc>Live: Ya</desc>
+<programme start="20260312050500 +0700" stop="20260312063500 +0700" channel="COSMOTE Sport 5 HD">
+    <title>WRC 2026</title>
+    <desc>Live: Tidak</desc>
 </programme>
 <programme start="20260311050000 +0700" stop="20260311070000 +0700" channel="COSMOTE Sport 6 HD">
     <title>Tennis: Arthur Rinderknech/Valentin Vacherot - Novak Djokovic/Stefanos Tsitsipas (L)</title>
@@ -385,14 +401,6 @@
 <programme start="20260312010000 +0700" stop="20260312060000 +0700" channel="COSMOTE Sport 6 HD">
     <title>Tennis: ATP Masters 1000 2026 (L)</title>
     <desc>Live: Ya</desc>
-</programme>
-<programme start="20260311023000 +0700" stop="20260311044000 +0700" channel="COSMOTE Sport 7 HD">
-    <title>Basketball: Badalona - Wurzburg (L)</title>
-    <desc>Live: Ya</desc>
-</programme>
-<programme start="20260311044000 +0700" stop="20260311050000 +0700" channel="COSMOTE Sport 7 HD">
-    <title>COSMOTESport7HD</title>
-    <desc>Live: Tidak</desc>
 </programme>
 <programme start="20260311050000 +0700" stop="20260311070000 +0700" channel="COSMOTE Sport 7 HD">
     <title>COSMOTESport7HD</title>
@@ -450,9 +458,9 @@
     <title>COSMOTESport7HD</title>
     <desc>Live: Tidak</desc>
 </programme>
-<programme start="20260311030000 +0700" stop="20260311050000 +0700" channel="COSMOTE Sport 8 HD">
-    <title>Football: Stoke City - Ipswich Town (L)</title>
-    <desc>Live: Ya</desc>
+<programme start="20260312050000 +0700" stop="20260312070000 +0700" channel="COSMOTE Sport 7 HD">
+    <title>COSMOTESport7HD</title>
+    <desc>Live: Tidak</desc>
 </programme>
 <programme start="20260311050000 +0700" stop="20260311053000 +0700" channel="COSMOTE Sport 8 HD">
     <title>COSMOTESport8HD</title>
@@ -522,12 +530,12 @@
     <title>Football: Coventry City - Preston North End (L)</title>
     <desc>Live: Ya</desc>
 </programme>
-<programme start="20260311020000 +0700" stop="20260311043000 +0700" channel="COSMOTE Sport 9 HD">
-    <title>Volleyball: Montpellier - Las Palmas (L)</title>
-    <desc>Live: Ya</desc>
+<programme start="20260312050000 +0700" stop="20260312053000 +0700" channel="COSMOTE Sport 8 HD">
+    <title>COSMOTESport8HD</title>
+    <desc>Live: Tidak</desc>
 </programme>
-<programme start="20260311043000 +0700" stop="20260311050000 +0700" channel="COSMOTE Sport 9 HD">
-    <title>COSMOTESport9HD</title>
+<programme start="20260312053000 +0700" stop="20260312060000 +0700" channel="COSMOTE Sport 8 HD">
+    <title>COSMOTESport8HD</title>
     <desc>Live: Tidak</desc>
 </programme>
 <programme start="20260311050000 +0700" stop="20260311070000 +0700" channel="COSMOTE Sport 9 HD">
@@ -587,6 +595,10 @@
     <desc>Live: Tidak</desc>
 </programme>
 <programme start="20260312043000 +0700" stop="20260312050000 +0700" channel="COSMOTE Sport 9 HD">
+    <title>COSMOTESport9HD</title>
+    <desc>Live: Tidak</desc>
+</programme>
+<programme start="20260312050000 +0700" stop="20260312070000 +0700" channel="COSMOTE Sport 9 HD">
     <title>COSMOTESport9HD</title>
     <desc>Live: Tidak</desc>
 </programme>
