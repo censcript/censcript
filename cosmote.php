@@ -1,7 +1,3 @@
-<programme start="20260310220000 +0700" stop="20260311000000 +0700" channel="COSMOTE Sport 1 HD">
-    <title>Football: Paris Saint Germain - AS Monaco FC</title>
-    <desc>Live: Tidak</desc>
-</programme>
 <programme start="20260311000000 +0700" stop="20260311004500 +0700" channel="COSMOTE Sport 1 HD">
     <title>UEFA Champions League Show 2025-26 (L)</title>
     <desc>Live: Ya</desc>
@@ -70,6 +66,14 @@
     <title>UEFA Champions League Highlights 2025-26</title>
     <desc>Live: Tidak</desc>
 </programme>
+<programme start="20260312000000 +0700" stop="20260312004500 +0700" channel="COSMOTE Sport 1 HD">
+    <title>UEFA Champions League Show 2025-26 (L)</title>
+    <desc>Live: Ya</desc>
+</programme>
+<programme start="20260312004500 +0700" stop="20260312010000 +0700" channel="COSMOTE Sport 1 HD">
+    <title>Sports Classics: Worldies E25</title>
+    <desc>Live: Tidak</desc>
+</programme>
 <programme start="20260310223000 +0700" stop="20260311004500 +0700" channel="COSMOTE Sport 2 HD">
     <title>Football: SSC Napoli - Torino</title>
     <desc>Live: Tidak</desc>
@@ -126,9 +130,13 @@
     <title>Football: Genoa - AS Roma</title>
     <desc>Live: Tidak</desc>
 </programme>
-<programme start="20260310215000 +0700" stop="20260310235000 +0700" channel="COSMOTE Sport 3 HD">
-    <title>Football: Al Nassr - Neom</title>
+<programme start="20260312001500 +0700" stop="20260312004500 +0700" channel="COSMOTE Sport 2 HD">
+    <title>Sports Classics: Worldies E9</title>
     <desc>Live: Tidak</desc>
+</programme>
+<programme start="20260312004500 +0700" stop="20260312030000 +0700" channel="COSMOTE Sport 2 HD">
+    <title>Football: Bayer 04 Leverkusen - Arsenal (L)</title>
+    <desc>Live: Ya</desc>
 </programme>
 <programme start="20260310235000 +0700" stop="20260311002000 +0700" channel="COSMOTE Sport 3 HD">
     <title>Emirates FA Cup 2025-26 - Highlights</title>
@@ -202,8 +210,8 @@
     <title>Football: APOEL - Anorthosis Famagusta</title>
     <desc>Live: Tidak</desc>
 </programme>
-<programme start="20260310213000 +0700" stop="20260310233000 +0700" channel="COSMOTE Sport 4 HD">
-    <title>Basketball: Manisa Basket - Anadolu Efes</title>
+<programme start="20260312004500 +0700" stop="20260312030000 +0700" channel="COSMOTE Sport 3 HD">
+    <title>World Athletics Indoor Tour Gold 2026</title>
     <desc>Live: Tidak</desc>
 </programme>
 <programme start="20260310233000 +0700" stop="20260311015500 +0700" channel="COSMOTE Sport 4 HD">
@@ -258,9 +266,9 @@
     <title>Basketball: Milwaukee Bucks - Phoenix Suns</title>
     <desc>Live: Tidak</desc>
 </programme>
-<programme start="20260310225500 +0700" stop="20260310232500 +0700" channel="COSMOTE Sport 5 HD">
-    <title>WRC Magazine 2025</title>
-    <desc>Live: Tidak</desc>
+<programme start="20260312000000 +0700" stop="20260312021000 +0700" channel="COSMOTE Sport 4 HD">
+    <title>Basketball: AEK - Tofas (L)</title>
+    <desc>Live: Ya</desc>
 </programme>
 <programme start="20260310232500 +0700" stop="20260311005500 +0700" channel="COSMOTE Sport 5 HD">
     <title>WRC 2026</title>
@@ -342,8 +350,8 @@
     <title>Motorsports: Moto2 2026</title>
     <desc>Live: Tidak</desc>
 </programme>
-<programme start="20260310213500 +0700" stop="20260310235500 +0700" channel="COSMOTE Sport 6 HD">
-    <title>Tennis: ATP Masters 1000 2026</title>
+<programme start="20260312004000 +0700" stop="20260312021500 +0700" channel="COSMOTE Sport 5 HD">
+    <title>Motorsports: MotoGP 2026</title>
     <desc>Live: Tidak</desc>
 </programme>
 <programme start="20260310235500 +0700" stop="20260311010000 +0700" channel="COSMOTE Sport 6 HD">

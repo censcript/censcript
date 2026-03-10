@@ -5230,6 +5230,54 @@
   <programme start="20260312221500 +0000" stop="20260312230000 +0000" channel="Eurosport 1.webtv.sk">
     <title lang="id">Cyklistika: Paříž – Nice</title>
   </programme>
+  <programme start="20260311230000 +0000" stop="20260312000000 +0000" channel="Eurosport 2.webtv.sk">
+    <title lang="id">Snowboarding: SP v Erzuru</title>
+  </programme>
+  <programme start="20260312000000 +0000" stop="20260312010000 +0000" channel="Eurosport 2.webtv.sk">
+    <title lang="id">Cyklistika: Tirreno – Adriatico</title>
+  </programme>
+  <programme start="20260312010000 +0000" stop="20260312020000 +0000" channel="Eurosport 2.webtv.sk">
+    <title lang="id">Cyklistika: Paříž – Nice</title>
+  </programme>
+  <programme start="20260312020000 +0000" stop="20260312030000 +0000" channel="Eurosport 2.webtv.sk">
+    <title lang="id">Alpské lyžování: SP ve Val di Fassa</title>
+  </programme>
+  <programme start="20260312030000 +0000" stop="20260312050000 +0000" channel="Eurosport 2.webtv.sk">
+    <title lang="id">Snooker: Players Championship</title>
+  </programme>
+  <programme start="20260312050000 +0000" stop="20260312060000 +0000" channel="Eurosport 2.webtv.sk">
+    <title lang="id">Cyklistika: Tirreno – Adriatico</title>
+  </programme>
+  <programme start="20260312060000 +0000" stop="20260312070000 +0000" channel="Eurosport 2.webtv.sk">
+    <title lang="id">Cyklistika: Paříž – Nice</title>
+  </programme>
+  <programme start="20260312070000 +0000" stop="20260312080000 +0000" channel="Eurosport 2.webtv.sk">
+    <title lang="id">Běžecké lyžování: SP v Lahti</title>
+  </programme>
+  <programme start="20260312080000 +0000" stop="20260312090000 +0000" channel="Eurosport 2.webtv.sk">
+    <title lang="id">Biatlon: SP v Kontiolahti</title>
+  </programme>
+  <programme start="20260312090000 +0000" stop="20260312100000 +0000" channel="Eurosport 2.webtv.sk">
+    <title lang="id">Biatlon: SP v Kontiolahti</title>
+  </programme>
+  <programme start="20260312100000 +0000" stop="20260312110000 +0000" channel="Eurosport 2.webtv.sk">
+    <title lang="id">Cyklistika: Paříž – Nice</title>
+  </programme>
+  <programme start="20260312110000 +0000" stop="20260312120000 +0000" channel="Eurosport 2.webtv.sk">
+    <title lang="id">Cyklistika: Tirreno – Adriatico</title>
+  </programme>
+  <programme start="20260312120000 +0000" stop="20260312144500 +0000" channel="Eurosport 2.webtv.sk">
+    <title lang="id">Cyklistika: Tirreno – Adriatico</title>
+  </programme>
+  <programme start="20260312144500 +0000" stop="20260312161500 +0000" channel="Eurosport 2.webtv.sk">
+    <title lang="id">Cyklistika: Paříž – Nice</title>
+  </programme>
+  <programme start="20260312161500 +0000" stop="20260312170000 +0000" channel="Eurosport 2.webtv.sk">
+    <title lang="id">Cyklistika: Tirreno – Adriatico</title>
+  </programme>
+  <programme start="20260312170000 +0000" stop="20260312230000 +0000" channel="Eurosport 2.webtv.sk">
+    <title lang="id">Golf: PGA Tour</title>
+  </programme>
   <programme start="20260311223000 +0000" stop="20260312010000 +0000" channel="Sport 1.webtv.sk">
     <title lang="id">Lední hokej</title>
   </programme>
@@ -5604,108 +5652,6 @@
   </programme>
   <programme start="20260312225500 +0000" stop="20260313003800 +0000" channel="National Geographic Channel.webtv.sk">
     <title lang="id">Rezervace Sugarcane</title>
-  </programme>
-  <programme start="20260311222200 +0000" stop="20260312000300 +0000" channel="National Geographic Wild.webtv.sk">
-    <title lang="id">Neviditelní obři</title>
-  </programme>
-  <programme start="20260312000300 +0000" stop="20260312004900 +0000" channel="National Geographic Wild.webtv.sk">
-    <title lang="id">Život slonů</title>
-  </programme>
-  <programme start="20260312004900 +0000" stop="20260312013600 +0000" channel="National Geographic Wild.webtv.sk">
-    <title lang="id">Extrémní útoky zvířat I (2)</title>
-  </programme>
-  <programme start="20260312013600 +0000" stop="20260312022200 +0000" channel="National Geographic Wild.webtv.sk">
-    <title lang="id">Tajný život predátorů I (1)</title>
-  </programme>
-  <programme start="20260312022200 +0000" stop="20260312030800 +0000" channel="National Geographic Wild.webtv.sk">
-    <title lang="id">Tajný život predátorů I (2)</title>
-  </programme>
-  <programme start="20260312030800 +0000" stop="20260312035000 +0000" channel="National Geographic Wild.webtv.sk">
-    <title lang="id">Tajemství slonů I (4)</title>
-  </programme>
-  <programme start="20260312035000 +0000" stop="20260312043600 +0000" channel="National Geographic Wild.webtv.sk">
-    <title lang="id">Království vlka arktického I (3)</title>
-  </programme>
-  <programme start="20260312043600 +0000" stop="20260312050000 +0000" channel="National Geographic Wild.webtv.sk">
-    <title lang="id">Zrozeni přežít I (5)</title>
-  </programme>
-  <programme start="20260312050000 +0000" stop="20260312054500 +0000" channel="National Geographic Wild.webtv.sk">
-    <title lang="id">Závod se zimou</title>
-  </programme>
-  <programme start="20260312054500 +0000" stop="20260312060800 +0000" channel="National Geographic Wild.webtv.sk">
-    <title lang="id">Jedinečná zvířata - výběr I (1)</title>
-  </programme>
-  <programme start="20260312060800 +0000" stop="20260312063000 +0000" channel="National Geographic Wild.webtv.sk">
-    <title lang="id">Jedinečná zvířata - výběr I (2)</title>
-  </programme>
-  <programme start="20260312063000 +0000" stop="20260312071600 +0000" channel="National Geographic Wild.webtv.sk">
-    <title lang="id">Krokodýlí války: Grumeti vs. Mara</title>
-  </programme>
-  <programme start="20260312071600 +0000" stop="20260312080100 +0000" channel="National Geographic Wild.webtv.sk">
-    <title lang="id">Hledá se žralok</title>
-  </programme>
-  <programme start="20260312080100 +0000" stop="20260312084700 +0000" channel="National Geographic Wild.webtv.sk">
-    <title lang="id">Předurčeni zabíjet IV (4)</title>
-  </programme>
-  <programme start="20260312084700 +0000" stop="20260312093200 +0000" channel="National Geographic Wild.webtv.sk">
-    <title lang="id">Krokodýlí války: Grumeti vs. Mara</title>
-  </programme>
-  <programme start="20260312093200 +0000" stop="20260312101700 +0000" channel="National Geographic Wild.webtv.sk">
-    <title lang="id">Hledá se žralok</title>
-  </programme>
-  <programme start="20260312101700 +0000" stop="20260312110200 +0000" channel="National Geographic Wild.webtv.sk">
-    <title lang="id">Tajný život kosatek I (1)</title>
-  </programme>
-  <programme start="20260312110200 +0000" stop="20260312114700 +0000" channel="National Geographic Wild.webtv.sk">
-    <title lang="id">Tajný život kosatek I (2)</title>
-  </programme>
-  <programme start="20260312114700 +0000" stop="20260312123300 +0000" channel="National Geographic Wild.webtv.sk">
-    <title lang="id">Předurčeni zabíjet IV (4)</title>
-  </programme>
-  <programme start="20260312123300 +0000" stop="20260312131800 +0000" channel="National Geographic Wild.webtv.sk">
-    <title lang="id">Jaguár vs. krokodýl</title>
-  </programme>
-  <programme start="20260312131800 +0000" stop="20260312140300 +0000" channel="National Geographic Wild.webtv.sk">
-    <title lang="id">Predátor vs. kořist I (3)</title>
-  </programme>
-  <programme start="20260312140300 +0000" stop="20260312144800 +0000" channel="National Geographic Wild.webtv.sk">
-    <title lang="id">Krokodýl – Král australské divočiny</title>
-  </programme>
-  <programme start="20260312144800 +0000" stop="20260312153300 +0000" channel="National Geographic Wild.webtv.sk">
-    <title lang="id">Krokodýlí války: Grumeti vs. Mara</title>
-  </programme>
-  <programme start="20260312153300 +0000" stop="20260312161600 +0000" channel="National Geographic Wild.webtv.sk">
-    <title lang="id">Skvělý dr. Pol XXIII (8)</title>
-  </programme>
-  <programme start="20260312161600 +0000" stop="20260312170000 +0000" channel="National Geographic Wild.webtv.sk">
-    <title lang="id">Skvělý dr. Pol XXIII (9)</title>
-  </programme>
-  <programme start="20260312170000 +0000" stop="20260312174500 +0000" channel="National Geographic Wild.webtv.sk">
-    <title lang="id">Tajemná krása Afriky I (3)</title>
-  </programme>
-  <programme start="20260312174500 +0000" stop="20260312183000 +0000" channel="National Geographic Wild.webtv.sk">
-    <title lang="id">Tajemná krása Afriky I (2)</title>
-  </programme>
-  <programme start="20260312183000 +0000" stop="20260312191500 +0000" channel="National Geographic Wild.webtv.sk">
-    <title lang="id">Krokodýlí války: Grumeti vs. Mara</title>
-  </programme>
-  <programme start="20260312191500 +0000" stop="20260312200000 +0000" channel="National Geographic Wild.webtv.sk">
-    <title lang="id">Tajemná krása Afriky I (3)</title>
-  </programme>
-  <programme start="20260312200000 +0000" stop="20260312204300 +0000" channel="National Geographic Wild.webtv.sk">
-    <title lang="id">Skvělý dr. Pol XXIII (8)</title>
-  </programme>
-  <programme start="20260312204300 +0000" stop="20260312212600 +0000" channel="National Geographic Wild.webtv.sk">
-    <title lang="id">Skvělý dr. Pol XXIII (9)</title>
-  </programme>
-  <programme start="20260312212600 +0000" stop="20260312221100 +0000" channel="National Geographic Wild.webtv.sk">
-    <title lang="id">Jaguár vs. krokodýl</title>
-  </programme>
-  <programme start="20260312221100 +0000" stop="20260312225600 +0000" channel="National Geographic Wild.webtv.sk">
-    <title lang="id">Tajemná krása Afriky I (3)</title>
-  </programme>
-  <programme start="20260312225600 +0000" stop="20260312234200 +0000" channel="National Geographic Wild.webtv.sk">
-    <title lang="id">Předurčeni zabíjet IV (4)</title>
   </programme>
   <programme start="20260311230000 +0000" stop="20260311233000 +0000" channel="Discovery.webtv.sk">
     <title lang="id">Recyklační tým VI (1)</title>
@@ -9795,6 +9741,78 @@
   </programme>
   <programme start="20260312225500 +0000" stop="20260312235000 +0000" channel="DocuBox.webtv.sk">
     <title lang="id">Creative Killers (2)</title>
+  </programme>
+  <programme start="20260311230000 +0000" stop="20260312000000 +0000" channel="360 TuneBox.webtv.sk">
+    <title lang="id">Electric Jam</title>
+  </programme>
+  <programme start="20260312000000 +0000" stop="20260312010000 +0000" channel="360 TuneBox.webtv.sk">
+    <title lang="id">Street Buzz</title>
+  </programme>
+  <programme start="20260312010000 +0000" stop="20260312020000 +0000" channel="360 TuneBox.webtv.sk">
+    <title lang="id">Ultra Mix</title>
+  </programme>
+  <programme start="20260312020000 +0000" stop="20260312030000 +0000" channel="360 TuneBox.webtv.sk">
+    <title lang="id">DJ Mixes premiere</title>
+  </programme>
+  <programme start="20260312030000 +0000" stop="20260312040000 +0000" channel="360 TuneBox.webtv.sk">
+    <title lang="id">Nite Sides</title>
+  </programme>
+  <programme start="20260312040000 +0000" stop="20260312050000 +0000" channel="360 TuneBox.webtv.sk">
+    <title lang="id">Nite Sides</title>
+  </programme>
+  <programme start="20260312050000 +0000" stop="20260312060000 +0000" channel="360 TuneBox.webtv.sk">
+    <title lang="id">Nite Sides</title>
+  </programme>
+  <programme start="20260312060000 +0000" stop="20260312070000 +0000" channel="360 TuneBox.webtv.sk">
+    <title lang="id">DJ Mixes premiere</title>
+  </programme>
+  <programme start="20260312070000 +0000" stop="20260312080000 +0000" channel="360 TuneBox.webtv.sk">
+    <title lang="id">Morning Spin</title>
+  </programme>
+  <programme start="20260312080000 +0000" stop="20260312090000 +0000" channel="360 TuneBox.webtv.sk">
+    <title lang="id">Morning Spin</title>
+  </programme>
+  <programme start="20260312090000 +0000" stop="20260312100000 +0000" channel="360 TuneBox.webtv.sk">
+    <title lang="id">Morning Spin</title>
+  </programme>
+  <programme start="20260312100000 +0000" stop="20260312110000 +0000" channel="360 TuneBox.webtv.sk">
+    <title lang="id">DJ Mixes premiere</title>
+  </programme>
+  <programme start="20260312110000 +0000" stop="20260312120000 +0000" channel="360 TuneBox.webtv.sk">
+    <title lang="id">Artist Breakout</title>
+  </programme>
+  <programme start="20260312120000 +0000" stop="20260312130000 +0000" channel="360 TuneBox.webtv.sk">
+    <title lang="id">Fresh Out The Box</title>
+  </programme>
+  <programme start="20260312130000 +0000" stop="20260312140000 +0000" channel="360 TuneBox.webtv.sk">
+    <title lang="id">Ultra Mix</title>
+  </programme>
+  <programme start="20260312140000 +0000" stop="20260312150000 +0000" channel="360 TuneBox.webtv.sk">
+    <title lang="id">DJ Mixes premiere</title>
+  </programme>
+  <programme start="20260312150000 +0000" stop="20260312160000 +0000" channel="360 TuneBox.webtv.sk">
+    <title lang="id">Electric Jam</title>
+  </programme>
+  <programme start="20260312160000 +0000" stop="20260312170000 +0000" channel="360 TuneBox.webtv.sk">
+    <title lang="id">Street Buzz</title>
+  </programme>
+  <programme start="20260312170000 +0000" stop="20260312180000 +0000" channel="360 TuneBox.webtv.sk">
+    <title lang="id">Ultra Mix</title>
+  </programme>
+  <programme start="20260312180000 +0000" stop="20260312190000 +0000" channel="360 TuneBox.webtv.sk">
+    <title lang="id">DJ Mixes premiere</title>
+  </programme>
+  <programme start="20260312190000 +0000" stop="20260312200000 +0000" channel="360 TuneBox.webtv.sk">
+    <title lang="id">Artist Breakout</title>
+  </programme>
+  <programme start="20260312200000 +0000" stop="20260312210000 +0000" channel="360 TuneBox.webtv.sk">
+    <title lang="id">Ultra Mix</title>
+  </programme>
+  <programme start="20260312210000 +0000" stop="20260312220000 +0000" channel="360 TuneBox.webtv.sk">
+    <title lang="id">Fresh Out The Box</title>
+  </programme>
+  <programme start="20260312220000 +0000" stop="20260312230000 +0000" channel="360 TuneBox.webtv.sk">
+    <title lang="id">DJ Mixes premiere</title>
   </programme>
   <programme start="20260311224000 +0000" stop="20260311230500 +0000" channel="Disney Channel.webtv.sk">
     <title lang="id">Jessie (64)</title>
