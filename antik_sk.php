@@ -1,140 +1,101 @@
-  <programme start="20260311230000 +0000" stop="20260311230100 +0000" channel="Dvojka.webtv.sk">
-    <title lang="id">Hymna SR</title>
+  <programme start="20260311224300 +0000" stop="20260312001500 +0000" channel="Jednotka.webtv.sk">
+    <title lang="id">Doktorka Alexandra III (2)</title>
   </programme>
-  <programme start="20260311230100 +0000" stop="20260311235000 +0000" channel="Dvojka.webtv.sk">
+  <programme start="20260312001500 +0000" stop="20260312010500 +0000" channel="Jednotka.webtv.sk">
     <title lang="id">Správy</title>
   </programme>
-  <programme start="20260311235000 +0000" stop="20260311235600 +0000" channel="Dvojka.webtv.sk">
-    <title lang="id">Hírek</title>
+  <programme start="20260312010500 +0000" stop="20260312012000 +0000" channel="Jednotka.webtv.sk">
+    <title lang="id">Góly - body - sekundy</title>
   </programme>
-  <programme start="20260312045500 +0000" stop="20260312050000 +0000" channel="Dvojka.webtv.sk">
-    <title lang="id">Malí hrdinovia</title>
+  <programme start="20260312012000 +0000" stop="20260312013000 +0000" channel="Jednotka.webtv.sk">
+    <title lang="id">Počasie</title>
   </programme>
-  <programme start="20260312050000 +0000" stop="20260312050500 +0000" channel="Dvojka.webtv.sk">
-    <title lang="id">Malí hrdinovia</title>
+  <programme start="20260312013000 +0000" stop="20260312023500 +0000" channel="Jednotka.webtv.sk">
+    <title lang="id">Siska I (1)</title>
   </programme>
-  <programme start="20260312050500 +0000" stop="20260312051000 +0000" channel="Dvojka.webtv.sk">
-    <title lang="id">Malí hrdinovia</title>
+  <programme start="20260312023500 +0000" stop="20260312032500 +0000" channel="Jednotka.webtv.sk">
+    <title lang="id">Správy</title>
   </programme>
-  <programme start="20260312051000 +0000" stop="20260312052000 +0000" channel="Dvojka.webtv.sk">
-    <title lang="id">Zázračný miniateliér</title>
+  <programme start="20260312032500 +0000" stop="20260312034500 +0000" channel="Jednotka.webtv.sk">
+    <title lang="id">Góly - body - sekundy</title>
   </programme>
-  <programme start="20260312052000 +0000" stop="20260312052500 +0000" channel="Dvojka.webtv.sk">
-    <title lang="id">Slimák Maťo a škriatok Klinček</title>
+  <programme start="20260312034500 +0000" stop="20260312043000 +0000" channel="Jednotka.webtv.sk">
+    <title lang="id">Postav dom, zasaď strom</title>
   </programme>
-  <programme start="20260312052500 +0000" stop="20260312053500 +0000" channel="Dvojka.webtv.sk">
-    <title lang="id">Slimák Maťo a škriatok Klinček</title>
+  <programme start="20260312043000 +0000" stop="20260312060000 +0000" channel="Jednotka.webtv.sk">
+    <title lang="id">Dámsky klub</title>
   </programme>
-  <programme start="20260312053500 +0000" stop="20260312055000 +0000" channel="Dvojka.webtv.sk">
-    <title lang="id">Billy - škrečok, ktorý zostal kovbojom</title>
+  <programme start="20260312060000 +0000" stop="20260312073000 +0000" channel="Jednotka.webtv.sk">
+    <title lang="id">Ranné správy</title>
   </programme>
-  <programme start="20260312055000 +0000" stop="20260312055500 +0000" channel="Dvojka.webtv.sk">
-    <title lang="id">Bluey III</title>
+  <programme start="20260312073000 +0000" stop="20260312075000 +0000" channel="Jednotka.webtv.sk">
+    <title lang="id">Destinácie</title>
   </programme>
-  <programme start="20260312055500 +0000" stop="20260312060000 +0000" channel="Dvojka.webtv.sk">
-    <title lang="id">Veselá farma</title>
+  <programme start="20260312075000 +0000" stop="20260312085500 +0000" channel="Jednotka.webtv.sk">
+    <title lang="id">Detektívi zo severu I (16)</title>
   </programme>
-  <programme start="20260312060000 +0000" stop="20260312063000 +0000" channel="Dvojka.webtv.sk">
-    <title lang="id">Deti z Bullerbynu</title>
+  <programme start="20260312085500 +0000" stop="20260312095500 +0000" channel="Jednotka.webtv.sk">
+    <title lang="id">Siska I (2)</title>
   </programme>
-  <programme start="20260312063000 +0000" stop="20260312070000 +0000" channel="Dvojka.webtv.sk">
-    <title lang="id">Živá panoráma</title>
+  <programme start="20260312095500 +0000" stop="20260312102500 +0000" channel="Jednotka.webtv.sk">
+    <title lang="id">Duel</title>
   </programme>
-  <programme start="20260312070000 +0000" stop="20260312070500 +0000" channel="Dvojka.webtv.sk">
-    <title lang="id">Hírek</title>
+  <programme start="20260312102500 +0000" stop="20260312110000 +0000" channel="Jednotka.webtv.sk">
+    <title lang="id">Všade dobre, doma naj</title>
   </programme>
-  <programme start="20260312070500 +0000" stop="20260312073000 +0000" channel="Dvojka.webtv.sk">
-    <title lang="id">Dobrý deň, Patria (rómsky)</title>
+  <programme start="20260312110000 +0000" stop="20260312112500 +0000" channel="Jednotka.webtv.sk">
+    <title lang="id">Správy</title>
   </programme>
-  <programme start="20260312073000 +0000" stop="20260312080000 +0000" channel="Dvojka.webtv.sk">
-    <title lang="id">Vnímanie</title>
+  <programme start="20260312112500 +0000" stop="20260312130500 +0000" channel="Jednotka.webtv.sk">
+    <title lang="id">Dámsky klub</title>
   </programme>
-  <programme start="20260312080000 +0000" stop="20260312085500 +0000" channel="Dvojka.webtv.sk">
-    <title lang="id">Regina</title>
+  <programme start="20260312130500 +0000" stop="20260312134500 +0000" channel="Jednotka.webtv.sk">
+    <title lang="id">Tajomstvo mojej kuchyne</title>
   </programme>
-  <programme start="20260312085500 +0000" stop="20260312103000 +0000" channel="Dvojka.webtv.sk">
-    <title lang="id">Četnícke humoresky</title>
+  <programme start="20260312134500 +0000" stop="20260312141000 +0000" channel="Jednotka.webtv.sk">
+    <title lang="id">Zdravá maškrta</title>
   </programme>
-  <programme start="20260312103000 +0000" stop="20260312103500 +0000" channel="Dvojka.webtv.sk">
-    <title lang="id">Obedníček</title>
+  <programme start="20260312141000 +0000" stop="20260312150000 +0000" channel="Jednotka.webtv.sk">
+    <title lang="id">Pobrežná hliadka: Bodamské jazero II (5)</title>
   </programme>
-  <programme start="20260312103500 +0000" stop="20260312104000 +0000" channel="Dvojka.webtv.sk">
-    <title lang="id">Dimitri</title>
+  <programme start="20260312150000 +0000" stop="20260312152500 +0000" channel="Jednotka.webtv.sk">
+    <title lang="id">Správy</title>
   </programme>
-  <programme start="20260312104000 +0000" stop="20260312105000 +0000" channel="Dvojka.webtv.sk">
-    <title lang="id">Pa a Pi</title>
+  <programme start="20260312152500 +0000" stop="20260312155500 +0000" channel="Jednotka.webtv.sk">
+    <title lang="id">Bez batožiny</title>
   </programme>
-  <programme start="20260312105000 +0000" stop="20260312105500 +0000" channel="Dvojka.webtv.sk">
-    <title lang="id">Trpaslíci</title>
+  <programme start="20260312155500 +0000" stop="20260312164500 +0000" channel="Jednotka.webtv.sk">
+    <title lang="id">Detektívi zo severu II</title>
   </programme>
-  <programme start="20260312105500 +0000" stop="20260312113000 +0000" channel="Dvojka.webtv.sk">
-    <title lang="id">Živá panoráma</title>
+  <programme start="20260312164500 +0000" stop="20260312165000 +0000" channel="Jednotka.webtv.sk">
+    <title lang="id">Krátke správy</title>
   </programme>
-  <programme start="20260312113000 +0000" stop="20260312123000 +0000" channel="Dvojka.webtv.sk">
-    <title lang="id">Žakýlska Veronka</title>
+  <programme start="20260312165000 +0000" stop="20260312172500 +0000" channel="Jednotka.webtv.sk">
+    <title lang="id">Duel</title>
   </programme>
-  <programme start="20260312123000 +0000" stop="20260312131000 +0000" channel="Dvojka.webtv.sk">
-    <title lang="id">Rozprávky 15 sestier I (6)</title>
+  <programme start="20260312172500 +0000" stop="20260312180000 +0000" channel="Jednotka.webtv.sk">
+    <title lang="id">Všade dobre, doma naj</title>
   </programme>
-  <programme start="20260312131000 +0000" stop="20260312141000 +0000" channel="Dvojka.webtv.sk">
-    <title lang="id">Investigátori</title>
+  <programme start="20260312180000 +0000" stop="20260312185500 +0000" channel="Jednotka.webtv.sk">
+    <title lang="id">Správy</title>
   </programme>
-  <programme start="20260312141000 +0000" stop="20260312150000 +0000" channel="Dvojka.webtv.sk">
-    <title lang="id">Farby prírody</title>
+  <programme start="20260312185500 +0000" stop="20260312191500 +0000" channel="Jednotka.webtv.sk">
+    <title lang="id">Góly - body - sekundy</title>
   </programme>
-  <programme start="20260312150000 +0000" stop="20260312153000 +0000" channel="Dvojka.webtv.sk">
-    <title lang="id">Trhoviská sveta</title>
+  <programme start="20260312191500 +0000" stop="20260312193000 +0000" channel="Jednotka.webtv.sk">
+    <title lang="id">Počasie</title>
   </programme>
-  <programme start="20260312153000 +0000" stop="20260312163000 +0000" channel="Dvojka.webtv.sk">
-    <title lang="id">Regina</title>
+  <programme start="20260312193000 +0000" stop="20260312210500 +0000" channel="Jednotka.webtv.sk">
+    <title lang="id">Rosamunde Pilcherová: Láska a iné poklady I (166)</title>
   </programme>
-  <programme start="20260312163000 +0000" stop="20260312173000 +0000" channel="Dvojka.webtv.sk">
-    <title lang="id">Noc v archíve</title>
+  <programme start="20260312210500 +0000" stop="20260312225000 +0000" channel="Jednotka.webtv.sk">
+    <title lang="id">Komisár Montalbano IV (1)</title>
   </programme>
-  <programme start="20260312173000 +0000" stop="20260312174000 +0000" channel="Dvojka.webtv.sk">
-    <title lang="id">Večerníček</title>
+  <programme start="20260312225000 +0000" stop="20260312225300 +0000" channel="Jednotka.webtv.sk">
+    <title lang="id">Hymna SR</title>
   </programme>
-  <programme start="20260312174000 +0000" stop="20260312174500 +0000" channel="Dvojka.webtv.sk">
-    <title lang="id">Dimitri</title>
-  </programme>
-  <programme start="20260312174500 +0000" stop="20260312175000 +0000" channel="Dvojka.webtv.sk">
-    <title lang="id">Bluey III</title>
-  </programme>
-  <programme start="20260312175000 +0000" stop="20260312180000 +0000" channel="Dvojka.webtv.sk">
-    <title lang="id">Billy - škrečok, ktorý zostal kovbojom</title>
-  </programme>
-  <programme start="20260312180000 +0000" stop="20260312181000 +0000" channel="Dvojka.webtv.sk">
-    <title lang="id">Fidlibumove pokusy</title>
-  </programme>
-  <programme start="20260312181000 +0000" stop="20260312181500 +0000" channel="Dvojka.webtv.sk">
-    <title lang="id">Veselá farma</title>
-  </programme>
-  <programme start="20260312181500 +0000" stop="20260312184000 +0000" channel="Dvojka.webtv.sk">
-    <title lang="id">Deti z Bullerbynu</title>
-  </programme>
-  <programme start="20260312184000 +0000" stop="20260312190000 +0000" channel="Dvojka.webtv.sk">
-    <title lang="id">Súrodenecké trampoty</title>
-  </programme>
-  <programme start="20260312190000 +0000" stop="20260312190700 +0000" channel="Dvojka.webtv.sk">
-    <title lang="id">Správy v slovenskom posunkovom jazyku</title>
-  </programme>
-  <programme start="20260312190700 +0000" stop="20260312191000 +0000" channel="Dvojka.webtv.sk">
-    <title lang="id">Informácie pre tipujúcich - KENO 10, Keno Joker, Všetko alebo nič</title>
-  </programme>
-  <programme start="20260312191000 +0000" stop="20260312193500 +0000" channel="Dvojka.webtv.sk">
-    <title lang="id">Moja diagnóza</title>
-  </programme>
-  <programme start="20260312193500 +0000" stop="20260312212000 +0000" channel="Dvojka.webtv.sk">
-    <title lang="id">Dedičstvo</title>
-  </programme>
-  <programme start="20260312212000 +0000" stop="20260312221500 +0000" channel="Dvojka.webtv.sk">
-    <title lang="id">SK dejiny</title>
-  </programme>
-  <programme start="20260312221500 +0000" stop="20260312224000 +0000" channel="Dvojka.webtv.sk">
-    <title lang="id">Najväčšie kriminálne prípady Slovenska</title>
-  </programme>
-  <programme start="20260312224000 +0000" stop="20260312231000 +0000" channel="Dvojka.webtv.sk">
-    <title lang="id">Najväčšie kriminálne prípady Slovenska</title>
+  <programme start="20260312225300 +0000" stop="20260313002000 +0000" channel="Jednotka.webtv.sk">
+    <title lang="id">Julie Lescautová II</title>
   </programme>
   <programme start="20260311224700 +0000" stop="20260311232500 +0000" channel=":24.webtv.sk">
     <title lang="id">Komentáre dňa</title>
@@ -628,84 +589,6 @@
   <programme start="20260312220000 +0000" stop="20260312232000 +0000" channel="Markíza +1.webtv.sk">
     <title lang="id">Policie Modrava II (8)</title>
   </programme>
-  <programme start="20260311230000 +0000" stop="20260312003000 +0000" channel="JOJ +1.webtv.sk">
-    <title lang="id">Tiene v hmle I (10)</title>
-  </programme>
-  <programme start="20260312003000 +0000" stop="20260312013000 +0000" channel="JOJ +1.webtv.sk">
-    <title lang="id">Will Trent (13/13)</title>
-  </programme>
-  <programme start="20260312013000 +0000" stop="20260312020000 +0000" channel="JOJ +1.webtv.sk">
-    <title lang="id">Krimi</title>
-  </programme>
-  <programme start="20260312020000 +0000" stop="20260312025500 +0000" channel="JOJ +1.webtv.sk">
-    <title lang="id">Noviny TV JOJ</title>
-  </programme>
-  <programme start="20260312025500 +0000" stop="20260312034500 +0000" channel="JOJ +1.webtv.sk">
-    <title lang="id">Bez servítky</title>
-  </programme>
-  <programme start="20260312034500 +0000" stop="20260312045500 +0000" channel="JOJ +1.webtv.sk">
-    <title lang="id">Osud (13)</title>
-  </programme>
-  <programme start="20260312045500 +0000" stop="20260312054500 +0000" channel="JOJ +1.webtv.sk">
-    <title lang="id">Noviny TV JOJ</title>
-  </programme>
-  <programme start="20260312054500 +0000" stop="20260312061500 +0000" channel="JOJ +1.webtv.sk">
-    <title lang="id">Krimi</title>
-  </programme>
-  <programme start="20260312061500 +0000" stop="20260312083500 +0000" channel="JOJ +1.webtv.sk">
-    <title lang="id">Ranné noviny</title>
-  </programme>
-  <programme start="20260312083500 +0000" stop="20260312095000 +0000" channel="JOJ +1.webtv.sk">
-    <title lang="id">Nové bývanie - dizajn</title>
-  </programme>
-  <programme start="20260312095000 +0000" stop="20260312120000 +0000" channel="JOJ +1.webtv.sk">
-    <title lang="id">Súdna sieň</title>
-  </programme>
-  <programme start="20260312120000 +0000" stop="20260312125000 +0000" channel="JOJ +1.webtv.sk">
-    <title lang="id">Noviny o 12:00</title>
-  </programme>
-  <programme start="20260312125000 +0000" stop="20260312131500 +0000" channel="JOJ +1.webtv.sk">
-    <title lang="id">Top star</title>
-  </programme>
-  <programme start="20260312131500 +0000" stop="20260312142000 +0000" channel="JOJ +1.webtv.sk">
-    <title lang="id">Hranica (47)</title>
-  </programme>
-  <programme start="20260312142000 +0000" stop="20260312150000 +0000" channel="JOJ +1.webtv.sk">
-    <title lang="id">Naši II (26)</title>
-  </programme>
-  <programme start="20260312150000 +0000" stop="20260312160000 +0000" channel="JOJ +1.webtv.sk">
-    <title lang="id">Bez servítky</title>
-  </programme>
-  <programme start="20260312160000 +0000" stop="20260312171000 +0000" channel="JOJ +1.webtv.sk">
-    <title lang="id">Inkognito</title>
-  </programme>
-  <programme start="20260312171000 +0000" stop="20260312175000 +0000" channel="JOJ +1.webtv.sk">
-    <title lang="id">Riskuj</title>
-  </programme>
-  <programme start="20260312175000 +0000" stop="20260312190000 +0000" channel="JOJ +1.webtv.sk">
-    <title lang="id">Bez servítky</title>
-  </programme>
-  <programme start="20260312190000 +0000" stop="20260312193000 +0000" channel="JOJ +1.webtv.sk">
-    <title lang="id">Krimi</title>
-  </programme>
-  <programme start="20260312193000 +0000" stop="20260312201500 +0000" channel="JOJ +1.webtv.sk">
-    <title lang="id">Noviny TV JOJ</title>
-  </programme>
-  <programme start="20260312201500 +0000" stop="20260312202000 +0000" channel="JOJ +1.webtv.sk">
-    <title lang="id">Informácie pre tipujúcich</title>
-  </programme>
-  <programme start="20260312202000 +0000" stop="20260312203000 +0000" channel="JOJ +1.webtv.sk">
-    <title lang="id">Šport</title>
-  </programme>
-  <programme start="20260312203000 +0000" stop="20260312204000 +0000" channel="JOJ +1.webtv.sk">
-    <title lang="id">Najlepšie počasie</title>
-  </programme>
-  <programme start="20260312204000 +0000" stop="20260312215000 +0000" channel="JOJ +1.webtv.sk">
-    <title lang="id">Dobre vedieť</title>
-  </programme>
-  <programme start="20260312215000 +0000" stop="20260312232000 +0000" channel="JOJ +1.webtv.sk">
-    <title lang="id">Mama, ožeň ma</title>
-  </programme>
   <programme start="20260311223500 +0000" stop="20260311233000 +0000" channel="Markíza Klasik.webtv.sk">
     <title lang="id">Komisár Rex VII (3)</title>
   </programme>
@@ -780,6 +663,111 @@
   </programme>
   <programme start="20260312224000 +0000" stop="20260312233000 +0000" channel="Markíza Klasik.webtv.sk">
     <title lang="id">Komisár Rex VII (5)</title>
+  </programme>
+  <programme start="20260311220000 +0000" stop="20260312001000 +0000" channel="DajTo.webtv.sk">
+    <title lang="id">Training Day</title>
+  </programme>
+  <programme start="20260312001000 +0000" stop="20260312003000 +0000" channel="DajTo.webtv.sk">
+    <title lang="id">Dajto v pokri z Card Casina (60)</title>
+  </programme>
+  <programme start="20260312003000 +0000" stop="20260312004000 +0000" channel="DajTo.webtv.sk">
+    <title lang="id">Športové noviny</title>
+  </programme>
+  <programme start="20260312004000 +0000" stop="20260312012000 +0000" channel="DajTo.webtv.sk">
+    <title lang="id">Susedia (2)</title>
+  </programme>
+  <programme start="20260312012000 +0000" stop="20260312022500 +0000" channel="DajTo.webtv.sk">
+    <title lang="id">Horná Dolná XIV (3)</title>
+  </programme>
+  <programme start="20260312022500 +0000" stop="20260312034500 +0000" channel="DajTo.webtv.sk">
+    <title lang="id">Smiechoty (13)</title>
+  </programme>
+  <programme start="20260312034500 +0000" stop="20260312042500 +0000" channel="DajTo.webtv.sk">
+    <title lang="id">Oggy a šváby</title>
+  </programme>
+  <programme start="20260312042500 +0000" stop="20260312043000 +0000" channel="DajTo.webtv.sk">
+    <title lang="id">Bernieho dobrodružstvá</title>
+  </programme>
+  <programme start="20260312043000 +0000" stop="20260312050000 +0000" channel="DajTo.webtv.sk">
+    <title lang="id">Zig a Sharko</title>
+  </programme>
+  <programme start="20260312050000 +0000" stop="20260312054500 +0000" channel="DajTo.webtv.sk">
+    <title lang="id">Je to možné?! (7)</title>
+  </programme>
+  <programme start="20260312054500 +0000" stop="20260312061500 +0000" channel="DajTo.webtv.sk">
+    <title lang="id">Susedia I (1)</title>
+  </programme>
+  <programme start="20260312061500 +0000" stop="20260312065500 +0000" channel="DajTo.webtv.sk">
+    <title lang="id">Susedia (2)</title>
+  </programme>
+  <programme start="20260312065500 +0000" stop="20260312080500 +0000" channel="DajTo.webtv.sk">
+    <title lang="id">Kredenc (11)</title>
+  </programme>
+  <programme start="20260312080500 +0000" stop="20260312085000 +0000" channel="DajTo.webtv.sk">
+    <title lang="id">Partička (19)</title>
+  </programme>
+  <programme start="20260312085000 +0000" stop="20260312100500 +0000" channel="DajTo.webtv.sk">
+    <title lang="id">Horná Dolná XIV (4)</title>
+  </programme>
+  <programme start="20260312100500 +0000" stop="20260312104000 +0000" channel="DajTo.webtv.sk">
+    <title lang="id">Dva a pol chlapa VIII (11)</title>
+  </programme>
+  <programme start="20260312104000 +0000" stop="20260312105500 +0000" channel="DajTo.webtv.sk">
+    <title lang="id">Dva a pol chlapa VIII (12)</title>
+  </programme>
+  <programme start="20260312105500 +0000" stop="20260312111500 +0000" channel="DajTo.webtv.sk">
+    <title lang="id">Dva a pol chlapa VIII (13)</title>
+  </programme>
+  <programme start="20260312111500 +0000" stop="20260312114500 +0000" channel="DajTo.webtv.sk">
+    <title lang="id">Dva a pol chlapa VIII (14)</title>
+  </programme>
+  <programme start="20260312114500 +0000" stop="20260312121000 +0000" channel="DajTo.webtv.sk">
+    <title lang="id">Teória veľkého tresku XI (6)</title>
+  </programme>
+  <programme start="20260312121000 +0000" stop="20260312125500 +0000" channel="DajTo.webtv.sk">
+    <title lang="id">Teória veľkého tresku XI (7)</title>
+  </programme>
+  <programme start="20260312125500 +0000" stop="20260312132000 +0000" channel="DajTo.webtv.sk">
+    <title lang="id">Teória veľkého tresku XI (8)</title>
+  </programme>
+  <programme start="20260312132000 +0000" stop="20260312134500 +0000" channel="DajTo.webtv.sk">
+    <title lang="id">Teória veľkého tresku XI (9)</title>
+  </programme>
+  <programme start="20260312134500 +0000" stop="20260312140500 +0000" channel="DajTo.webtv.sk">
+    <title lang="id">Teória veľkého tresku XI (10)</title>
+  </programme>
+  <programme start="20260312140500 +0000" stop="20260312143500 +0000" channel="DajTo.webtv.sk">
+    <title lang="id">Teória veľkého tresku XI (11)</title>
+  </programme>
+  <programme start="20260312143500 +0000" stop="20260312150500 +0000" channel="DajTo.webtv.sk">
+    <title lang="id">Priatelia VIII (12)</title>
+  </programme>
+  <programme start="20260312150500 +0000" stop="20260312153500 +0000" channel="DajTo.webtv.sk">
+    <title lang="id">Priatelia VIII (13)</title>
+  </programme>
+  <programme start="20260312153500 +0000" stop="20260312160000 +0000" channel="DajTo.webtv.sk">
+    <title lang="id">Dva a pol chlapa VIII (15)</title>
+  </programme>
+  <programme start="20260312160000 +0000" stop="20260312163000 +0000" channel="DajTo.webtv.sk">
+    <title lang="id">Dva a pol chlapa VIII (16)</title>
+  </programme>
+  <programme start="20260312163000 +0000" stop="20260312165500 +0000" channel="DajTo.webtv.sk">
+    <title lang="id">Mladý Sheldon VII (13)</title>
+  </programme>
+  <programme start="20260312165500 +0000" stop="20260312172500 +0000" channel="DajTo.webtv.sk">
+    <title lang="id">Mladý Sheldon VII (14)</title>
+  </programme>
+  <programme start="20260312172500 +0000" stop="20260312183500 +0000" channel="DajTo.webtv.sk">
+    <title lang="id">Horná Dolná XIV (5)</title>
+  </programme>
+  <programme start="20260312183500 +0000" stop="20260312193000 +0000" channel="DajTo.webtv.sk">
+    <title lang="id">Susedia (3)</title>
+  </programme>
+  <programme start="20260312193000 +0000" stop="20260312222500 +0000" channel="DajTo.webtv.sk">
+    <title lang="id">Batman začína</title>
+  </programme>
+  <programme start="20260312222500 +0000" stop="20260312235500 +0000" channel="DajTo.webtv.sk">
+    <title lang="id">Nezvratný osud 3</title>
   </programme>
   <programme start="20260311225500 +0000" stop="20260311235500 +0000" channel="Doma.webtv.sk">
     <title lang="id">Zachránené životy (96)</title>
@@ -5161,189 +5149,6 @@
   <programme start="20260312220000 +0000" stop="20260312233000 +0000" channel="Sport 2.webtv.sk">
     <title lang="id">Fotbal</title>
   </programme>
-  <programme start="20260311224500 +0000" stop="20260311231000 +0000" channel="Auto Motor und Sport.webtv.sk">
-    <title lang="id">Fast Lap</title>
-  </programme>
-  <programme start="20260311231000 +0000" stop="20260311231500 +0000" channel="Auto Motor und Sport.webtv.sk">
-    <title lang="id">NEWS</title>
-  </programme>
-  <programme start="20260311231500 +0000" stop="20260311234500 +0000" channel="Auto Motor und Sport.webtv.sk">
-    <title lang="id">Fast Lap</title>
-  </programme>
-  <programme start="20260311234500 +0000" stop="20260312001500 +0000" channel="Auto Motor und Sport.webtv.sk">
-    <title lang="id">Menzel potkává...</title>
-  </programme>
-  <programme start="20260312001500 +0000" stop="20260312003000 +0000" channel="Auto Motor und Sport.webtv.sk">
-    <title lang="id">Menzel za volantem</title>
-  </programme>
-  <programme start="20260312003000 +0000" stop="20260312010000 +0000" channel="Auto Motor und Sport.webtv.sk">
-    <title lang="id">Moove - mobilita budoucnosti</title>
-  </programme>
-  <programme start="20260312010000 +0000" stop="20260312012500 +0000" channel="Auto Motor und Sport.webtv.sk">
-    <title lang="id">Elektromobilový supertest</title>
-  </programme>
-  <programme start="20260312012500 +0000" stop="20260312021500 +0000" channel="Auto Motor und Sport.webtv.sk">
-    <title lang="id">Bloch vysvětluje</title>
-  </programme>
-  <programme start="20260312021500 +0000" stop="20260312024000 +0000" channel="Auto Motor und Sport.webtv.sk">
-    <title lang="id">Automobilová aréna</title>
-  </programme>
-  <programme start="20260312024000 +0000" stop="20260312024500 +0000" channel="Auto Motor und Sport.webtv.sk">
-    <title lang="id">NEWS</title>
-  </programme>
-  <programme start="20260312024500 +0000" stop="20260312030000 +0000" channel="Auto Motor und Sport.webtv.sk">
-    <title lang="id">Přednost v jízdě</title>
-  </programme>
-  <programme start="20260312030000 +0000" stop="20260312031500 +0000" channel="Auto Motor und Sport.webtv.sk">
-    <title lang="id">Přednost v jízdě</title>
-  </programme>
-  <programme start="20260312031500 +0000" stop="20260312032500 +0000" channel="Auto Motor und Sport.webtv.sk">
-    <title lang="id">Sedmičky</title>
-  </programme>
-  <programme start="20260312032500 +0000" stop="20260312033000 +0000" channel="Auto Motor und Sport.webtv.sk">
-    <title lang="id">Srovnávací testy</title>
-  </programme>
-  <programme start="20260312033000 +0000" stop="20260312040000 +0000" channel="Auto Motor und Sport.webtv.sk">
-    <title lang="id">Reportáž</title>
-  </programme>
-  <programme start="20260312040000 +0000" stop="20260312043000 +0000" channel="Auto Motor und Sport.webtv.sk">
-    <title lang="id">Bloch vysvětluje</title>
-  </programme>
-  <programme start="20260312043000 +0000" stop="20260312051500 +0000" channel="Auto Motor und Sport.webtv.sk">
-    <title lang="id">Bloch vysvětluje</title>
-  </programme>
-  <programme start="20260312051500 +0000" stop="20260312054500 +0000" channel="Auto Motor und Sport.webtv.sk">
-    <title lang="id">Fast Lap</title>
-  </programme>
-  <programme start="20260312054500 +0000" stop="20260312061000 +0000" channel="Auto Motor und Sport.webtv.sk">
-    <title lang="id">Fast Lap</title>
-  </programme>
-  <programme start="20260312061000 +0000" stop="20260312061500 +0000" channel="Auto Motor und Sport.webtv.sk">
-    <title lang="id">NEWS</title>
-  </programme>
-  <programme start="20260312061500 +0000" stop="20260312064500 +0000" channel="Auto Motor und Sport.webtv.sk">
-    <title lang="id">Menzel potkává...</title>
-  </programme>
-  <programme start="20260312064500 +0000" stop="20260312070000 +0000" channel="Auto Motor und Sport.webtv.sk">
-    <title lang="id">Menzel za volantem</title>
-  </programme>
-  <programme start="20260312070000 +0000" stop="20260312073000 +0000" channel="Auto Motor und Sport.webtv.sk">
-    <title lang="id">Moove - mobilita budoucnosti</title>
-  </programme>
-  <programme start="20260312073000 +0000" stop="20260312075500 +0000" channel="Auto Motor und Sport.webtv.sk">
-    <title lang="id">Elektromobilový supertest</title>
-  </programme>
-  <programme start="20260312075500 +0000" stop="20260312084500 +0000" channel="Auto Motor und Sport.webtv.sk">
-    <title lang="id">Bloch vysvětluje</title>
-  </programme>
-  <programme start="20260312084500 +0000" stop="20260312091500 +0000" channel="Auto Motor und Sport.webtv.sk">
-    <title lang="id">Automobilová aréna</title>
-  </programme>
-  <programme start="20260312091500 +0000" stop="20260312093000 +0000" channel="Auto Motor und Sport.webtv.sk">
-    <title lang="id">Přednost v jízdě</title>
-  </programme>
-  <programme start="20260312093000 +0000" stop="20260312094500 +0000" channel="Auto Motor und Sport.webtv.sk">
-    <title lang="id">Přednost v jízdě</title>
-  </programme>
-  <programme start="20260312094500 +0000" stop="20260312095500 +0000" channel="Auto Motor und Sport.webtv.sk">
-    <title lang="id">Sedmičky</title>
-  </programme>
-  <programme start="20260312095500 +0000" stop="20260312100000 +0000" channel="Auto Motor und Sport.webtv.sk">
-    <title lang="id">Srovnávací testy</title>
-  </programme>
-  <programme start="20260312100000 +0000" stop="20260312103000 +0000" channel="Auto Motor und Sport.webtv.sk">
-    <title lang="id">Reportáž</title>
-  </programme>
-  <programme start="20260312103000 +0000" stop="20260312110000 +0000" channel="Auto Motor und Sport.webtv.sk">
-    <title lang="id">Garážové zlato</title>
-  </programme>
-  <programme start="20260312110000 +0000" stop="20260312113000 +0000" channel="Auto Motor und Sport.webtv.sk">
-    <title lang="id">Garážové zlato</title>
-  </programme>
-  <programme start="20260312113000 +0000" stop="20260312114500 +0000" channel="Auto Motor und Sport.webtv.sk">
-    <title lang="id">Vraťme se zpět</title>
-  </programme>
-  <programme start="20260312114500 +0000" stop="20260312115500 +0000" channel="Auto Motor und Sport.webtv.sk">
-    <title lang="id">Petrolheads</title>
-  </programme>
-  <programme start="20260312115500 +0000" stop="20260312121500 +0000" channel="Auto Motor und Sport.webtv.sk">
-    <title lang="id">Testovací jezdci CLASSIC</title>
-  </programme>
-  <programme start="20260312121500 +0000" stop="20260312124500 +0000" channel="Auto Motor und Sport.webtv.sk">
-    <title lang="id">Fast Lap</title>
-  </programme>
-  <programme start="20260312124500 +0000" stop="20260312130500 +0000" channel="Auto Motor und Sport.webtv.sk">
-    <title lang="id">Na gauči s Menzelem</title>
-  </programme>
-  <programme start="20260312130500 +0000" stop="20260312131000 +0000" channel="Auto Motor und Sport.webtv.sk">
-    <title lang="id">Srovnávací testy</title>
-  </programme>
-  <programme start="20260312131000 +0000" stop="20260312140000 +0000" channel="Auto Motor und Sport.webtv.sk">
-    <title lang="id">Kragenings v kokpitu</title>
-  </programme>
-  <programme start="20260312140000 +0000" stop="20260312143000 +0000" channel="Auto Motor und Sport.webtv.sk">
-    <title lang="id">Bloch vysvětluje</title>
-  </programme>
-  <programme start="20260312143000 +0000" stop="20260312151500 +0000" channel="Auto Motor und Sport.webtv.sk">
-    <title lang="id">Bloch vysvětluje</title>
-  </programme>
-  <programme start="20260312151500 +0000" stop="20260312154500 +0000" channel="Auto Motor und Sport.webtv.sk">
-    <title lang="id">Garáž 21</title>
-  </programme>
-  <programme start="20260312154500 +0000" stop="20260312163000 +0000" channel="Auto Motor und Sport.webtv.sk">
-    <title lang="id">Top 10 Ranking Show</title>
-  </programme>
-  <programme start="20260312163000 +0000" stop="20260312164500 +0000" channel="Auto Motor und Sport.webtv.sk">
-    <title lang="id">Přednost v jízdě</title>
-  </programme>
-  <programme start="20260312164500 +0000" stop="20260312170000 +0000" channel="Auto Motor und Sport.webtv.sk">
-    <title lang="id">Plechové skvosty od Jil</title>
-  </programme>
-  <programme start="20260312170000 +0000" stop="20260312173000 +0000" channel="Auto Motor und Sport.webtv.sk">
-    <title lang="id">1886 - Vysvětlivky ze světa automobilů (4)</title>
-  </programme>
-  <programme start="20260312173000 +0000" stop="20260312180000 +0000" channel="Auto Motor und Sport.webtv.sk">
-    <title lang="id">Fast Lap</title>
-  </programme>
-  <programme start="20260312180000 +0000" stop="20260312183000 +0000" channel="Auto Motor und Sport.webtv.sk">
-    <title lang="id">Fast Lap</title>
-  </programme>
-  <programme start="20260312183000 +0000" stop="20260312190000 +0000" channel="Auto Motor und Sport.webtv.sk">
-    <title lang="id">Menzel potkává...</title>
-  </programme>
-  <programme start="20260312190000 +0000" stop="20260312191500 +0000" channel="Auto Motor und Sport.webtv.sk">
-    <title lang="id">Menzel za volantem</title>
-  </programme>
-  <programme start="20260312191500 +0000" stop="20260312194000 +0000" channel="Auto Motor und Sport.webtv.sk">
-    <title lang="id">Moove - mobilita budoucnosti</title>
-  </programme>
-  <programme start="20260312194000 +0000" stop="20260312203000 +0000" channel="Auto Motor und Sport.webtv.sk">
-    <title lang="id">Elektromobilový supertest</title>
-  </programme>
-  <programme start="20260312203000 +0000" stop="20260312210000 +0000" channel="Auto Motor und Sport.webtv.sk">
-    <title lang="id">Bloch vysvětluje</title>
-  </programme>
-  <programme start="20260312210000 +0000" stop="20260312213000 +0000" channel="Auto Motor und Sport.webtv.sk">
-    <title lang="id">Automobilová aréna</title>
-  </programme>
-  <programme start="20260312213000 +0000" stop="20260312214500 +0000" channel="Auto Motor und Sport.webtv.sk">
-    <title lang="id">Přednost v jízdě</title>
-  </programme>
-  <programme start="20260312214500 +0000" stop="20260312220000 +0000" channel="Auto Motor und Sport.webtv.sk">
-    <title lang="id">Přednost v jízdě</title>
-  </programme>
-  <programme start="20260312220000 +0000" stop="20260312221000 +0000" channel="Auto Motor und Sport.webtv.sk">
-    <title lang="id">Sedmičky</title>
-  </programme>
-  <programme start="20260312221000 +0000" stop="20260312221500 +0000" channel="Auto Motor und Sport.webtv.sk">
-    <title lang="id">Srovnávací testy</title>
-  </programme>
-  <programme start="20260312221500 +0000" stop="20260312224500 +0000" channel="Auto Motor und Sport.webtv.sk">
-    <title lang="id">Reportáž</title>
-  </programme>
-  <programme start="20260312224500 +0000" stop="20260312231500 +0000" channel="Auto Motor und Sport.webtv.sk">
-    <title lang="id">Garážové zlato</title>
-  </programme>
   <programme start="20260311230000 +0000" stop="20260312010000 +0000" channel="Golf Channel.webtv.sk">
     <title lang="id">The Bay vs Jupiter</title>
   </programme>
@@ -6348,108 +6153,6 @@
   </programme>
   <programme start="20260312221500 +0000" stop="20260312230000 +0000" channel="History 2.webtv.sk">
     <title lang="id">The Universe</title>
-  </programme>
-  <programme start="20260311223000 +0000" stop="20260311231500 +0000" channel="Crime & Investigation.webtv.sk">
-    <title lang="id">Lovec vražd</title>
-  </programme>
-  <programme start="20260311231500 +0000" stop="20260312000000 +0000" channel="Crime & Investigation.webtv.sk">
-    <title lang="id">Lovec vražd</title>
-  </programme>
-  <programme start="20260312000000 +0000" stop="20260312004500 +0000" channel="Crime & Investigation.webtv.sk">
-    <title lang="id">Prvních 48 hodin</title>
-  </programme>
-  <programme start="20260312004500 +0000" stop="20260312013000 +0000" channel="Crime & Investigation.webtv.sk">
-    <title lang="id">Vražda: Poslední hodiny</title>
-  </programme>
-  <programme start="20260312013000 +0000" stop="20260312015500 +0000" channel="Crime & Investigation.webtv.sk">
-    <title lang="id">Můj vrah z internetu</title>
-  </programme>
-  <programme start="20260312015500 +0000" stop="20260312022500 +0000" channel="Crime & Investigation.webtv.sk">
-    <title lang="id">Můj vrah z internetu</title>
-  </programme>
-  <programme start="20260312022500 +0000" stop="20260312031000 +0000" channel="Crime & Investigation.webtv.sk">
-    <title lang="id">Manželství s vraždou</title>
-  </programme>
-  <programme start="20260312031000 +0000" stop="20260312040500 +0000" channel="Crime & Investigation.webtv.sk">
-    <title lang="id">Svědek vraždy: Digitální důkazy</title>
-  </programme>
-  <programme start="20260312040500 +0000" stop="20260312050000 +0000" channel="Crime & Investigation.webtv.sk">
-    <title lang="id">Někdo něco skrývá</title>
-  </programme>
-  <programme start="20260312050000 +0000" stop="20260312055000 +0000" channel="Crime & Investigation.webtv.sk">
-    <title lang="id">Prvních 48 hodin</title>
-  </programme>
-  <programme start="20260312055000 +0000" stop="20260312064000 +0000" channel="Crime & Investigation.webtv.sk">
-    <title lang="id">Prvních 48 hodin</title>
-  </programme>
-  <programme start="20260312064000 +0000" stop="20260312073000 +0000" channel="Crime & Investigation.webtv.sk">
-    <title lang="id">Vraždy: Hodiny na zabití</title>
-  </programme>
-  <programme start="20260312073000 +0000" stop="20260312081500 +0000" channel="Crime & Investigation.webtv.sk">
-    <title lang="id">Města vražd s Anitou Rani</title>
-  </programme>
-  <programme start="20260312081500 +0000" stop="20260312090000 +0000" channel="Crime & Investigation.webtv.sk">
-    <title lang="id">Britští vrazi s Dermotem Murnaghanem</title>
-  </programme>
-  <programme start="20260312090000 +0000" stop="20260312094500 +0000" channel="Crime & Investigation.webtv.sk">
-    <title lang="id">Zločiny, které otřásly Británií</title>
-  </programme>
-  <programme start="20260312094500 +0000" stop="20260312103000 +0000" channel="Crime & Investigation.webtv.sk">
-    <title lang="id">Hodina na vraždu</title>
-  </programme>
-  <programme start="20260312103000 +0000" stop="20260312111500 +0000" channel="Crime & Investigation.webtv.sk">
-    <title lang="id">Nedokonalá vražda</title>
-  </programme>
-  <programme start="20260312111500 +0000" stop="20260312120000 +0000" channel="Crime & Investigation.webtv.sk">
-    <title lang="id">Vraždy lékařů</title>
-  </programme>
-  <programme start="20260312120000 +0000" stop="20260312125000 +0000" channel="Crime & Investigation.webtv.sk">
-    <title lang="id">Někdo něco skrývá</title>
-  </programme>
-  <programme start="20260312125000 +0000" stop="20260312133000 +0000" channel="Crime & Investigation.webtv.sk">
-    <title lang="id">Zelenoocí zabijáci</title>
-  </programme>
-  <programme start="20260312133000 +0000" stop="20260312141500 +0000" channel="Crime & Investigation.webtv.sk">
-    <title lang="id">Vraždy za bílého dne</title>
-  </programme>
-  <programme start="20260312141500 +0000" stop="20260312150000 +0000" channel="Crime & Investigation.webtv.sk">
-    <title lang="id">Manželství s vraždou</title>
-  </programme>
-  <programme start="20260312150000 +0000" stop="20260312154500 +0000" channel="Crime & Investigation.webtv.sk">
-    <title lang="id">Podívej, co jsi mě přinutil dělat</title>
-  </programme>
-  <programme start="20260312154500 +0000" stop="20260312161000 +0000" channel="Crime & Investigation.webtv.sk">
-    <title lang="id">Můj vrah z internetu</title>
-  </programme>
-  <programme start="20260312161000 +0000" stop="20260312163000 +0000" channel="Crime & Investigation.webtv.sk">
-    <title lang="id">Můj vrah z internetu</title>
-  </programme>
-  <programme start="20260312163000 +0000" stop="20260312171500 +0000" channel="Crime & Investigation.webtv.sk">
-    <title lang="id">Svědek vraždy: Digitální důkazy</title>
-  </programme>
-  <programme start="20260312171500 +0000" stop="20260312180000 +0000" channel="Crime & Investigation.webtv.sk">
-    <title lang="id">Vraždy lékařů</title>
-  </programme>
-  <programme start="20260312180000 +0000" stop="20260312184500 +0000" channel="Crime & Investigation.webtv.sk">
-    <title lang="id">Hodina na vraždu</title>
-  </programme>
-  <programme start="20260312184500 +0000" stop="20260312193000 +0000" channel="Crime & Investigation.webtv.sk">
-    <title lang="id">Lovec vražd</title>
-  </programme>
-  <programme start="20260312193000 +0000" stop="20260312201500 +0000" channel="Crime & Investigation.webtv.sk">
-    <title lang="id">Lovec vražd</title>
-  </programme>
-  <programme start="20260312201500 +0000" stop="20260312210000 +0000" channel="Crime & Investigation.webtv.sk">
-    <title lang="id">Někdo něco skrývá</title>
-  </programme>
-  <programme start="20260312210000 +0000" stop="20260312214500 +0000" channel="Crime & Investigation.webtv.sk">
-    <title lang="id">Vražda u soudu</title>
-  </programme>
-  <programme start="20260312214500 +0000" stop="20260312223000 +0000" channel="Crime & Investigation.webtv.sk">
-    <title lang="id">Manželství s vraždou</title>
-  </programme>
-  <programme start="20260312223000 +0000" stop="20260312231500 +0000" channel="Crime & Investigation.webtv.sk">
-    <title lang="id">Lovec vražd</title>
   </programme>
   <programme start="20260311224000 +0000" stop="20260311233500 +0000" channel="Love Nature.webtv.sk">
     <title lang="id">Afričtí lovci (3)</title>
@@ -8032,6 +7735,108 @@
   <programme start="20260312224500 +0000" stop="20260312231500 +0000" channel="TV Paprika.webtv.sk">
     <title lang="id">Italské chutě podle Davida Rocca I (6)</title>
   </programme>
+  <programme start="20260311224500 +0000" stop="20260311231000 +0000" channel="Spektrum.webtv.sk">
+    <title lang="id">FBI - Agenti řeší případy V (5)</title>
+  </programme>
+  <programme start="20260311231000 +0000" stop="20260311235500 +0000" channel="Spektrum.webtv.sk">
+    <title lang="id">Matky za mřížemi II (3)</title>
+  </programme>
+  <programme start="20260311235500 +0000" stop="20260312004500 +0000" channel="Spektrum.webtv.sk">
+    <title lang="id">Nechce se věřit I (3)</title>
+  </programme>
+  <programme start="20260312004500 +0000" stop="20260312013000 +0000" channel="Spektrum.webtv.sk">
+    <title lang="id">Top Guns: Královské vzdušné síly zevnitř II (3)</title>
+  </programme>
+  <programme start="20260312013000 +0000" stop="20260312021500 +0000" channel="Spektrum.webtv.sk">
+    <title lang="id">Spycraft I (8)</title>
+  </programme>
+  <programme start="20260312021500 +0000" stop="20260312030000 +0000" channel="Spektrum.webtv.sk">
+    <title lang="id">Černobylská katastrofa I (3)</title>
+  </programme>
+  <programme start="20260312030000 +0000" stop="20260312032500 +0000" channel="Spektrum.webtv.sk">
+    <title lang="id">Hradológovia - Tajomstvá hradov Slovenska I (3)</title>
+  </programme>
+  <programme start="20260312032500 +0000" stop="20260312041000 +0000" channel="Spektrum.webtv.sk">
+    <title lang="id">Ben Fogl a lidé žijící v divočině X (3)</title>
+  </programme>
+  <programme start="20260312041000 +0000" stop="20260312050000 +0000" channel="Spektrum.webtv.sk">
+    <title lang="id">Z Ruska do Íránu - přes divoké hranice I (2)</title>
+  </programme>
+  <programme start="20260312050000 +0000" stop="20260312055000 +0000" channel="Spektrum.webtv.sk">
+    <title lang="id">Inženýrské zázraky z výšky I (8)</title>
+  </programme>
+  <programme start="20260312055000 +0000" stop="20260312064000 +0000" channel="Spektrum.webtv.sk">
+    <title lang="id">Moře záhadných katastrof III (1)</title>
+  </programme>
+  <programme start="20260312064000 +0000" stop="20260312073000 +0000" channel="Spektrum.webtv.sk">
+    <title lang="id">Zvláštní a záhadné II (8)</title>
+  </programme>
+  <programme start="20260312073000 +0000" stop="20260312082500 +0000" channel="Spektrum.webtv.sk">
+    <title lang="id">Z Ruska do Íránu - přes divoké hranice I (2)</title>
+  </programme>
+  <programme start="20260312082500 +0000" stop="20260312091500 +0000" channel="Spektrum.webtv.sk">
+    <title lang="id">Život v sevření mrazu XII (18)</title>
+  </programme>
+  <programme start="20260312091500 +0000" stop="20260312100500 +0000" channel="Spektrum.webtv.sk">
+    <title lang="id">Zachraň, co můžeš - harampádí za všechny prachy I (1)</title>
+  </programme>
+  <programme start="20260312100500 +0000" stop="20260312101000 +0000" channel="Spektrum.webtv.sk">
+    <title lang="id">Pohledy do historie II (20)</title>
+  </programme>
+  <programme start="20260312101000 +0000" stop="20260312103500 +0000" channel="Spektrum.webtv.sk">
+    <title lang="id">Mistři ve foukání skla II (7)</title>
+  </programme>
+  <programme start="20260312103500 +0000" stop="20260312110500 +0000" channel="Spektrum.webtv.sk">
+    <title lang="id">Mistři ve foukání skla II (8)</title>
+  </programme>
+  <programme start="20260312110500 +0000" stop="20260312120000 +0000" channel="Spektrum.webtv.sk">
+    <title lang="id">Moře záhadných katastrof III (1)</title>
+  </programme>
+  <programme start="20260312120000 +0000" stop="20260312123000 +0000" channel="Spektrum.webtv.sk">
+    <title lang="id">Není cesty zpátky I (17)</title>
+  </programme>
+  <programme start="20260312123000 +0000" stop="20260312130000 +0000" channel="Spektrum.webtv.sk">
+    <title lang="id">Není cesty zpátky I (18)</title>
+  </programme>
+  <programme start="20260312130000 +0000" stop="20260312135000 +0000" channel="Spektrum.webtv.sk">
+    <title lang="id">Ben Fogl a lidé žijící v divočině X (10)</title>
+  </programme>
+  <programme start="20260312135000 +0000" stop="20260312144000 +0000" channel="Spektrum.webtv.sk">
+    <title lang="id">Život v sevření mrazu XII (18)</title>
+  </programme>
+  <programme start="20260312144000 +0000" stop="20260312153000 +0000" channel="Spektrum.webtv.sk">
+    <title lang="id">Zachraň, co můžeš - harampádí za všechny prachy I (1)</title>
+  </programme>
+  <programme start="20260312153000 +0000" stop="20260312162500 +0000" channel="Spektrum.webtv.sk">
+    <title lang="id">Z Ruska do Íránu - přes divoké hranice I (3)</title>
+  </programme>
+  <programme start="20260312162500 +0000" stop="20260312172000 +0000" channel="Spektrum.webtv.sk">
+    <title lang="id">Moře záhadných katastrof III (2)</title>
+  </programme>
+  <programme start="20260312172000 +0000" stop="20260312181000 +0000" channel="Spektrum.webtv.sk">
+    <title lang="id">Ben Fogl a lidé žijící v divočině X (11)</title>
+  </programme>
+  <programme start="20260312181000 +0000" stop="20260312184000 +0000" channel="Spektrum.webtv.sk">
+    <title lang="id">Ochrana hranic - Řím I (1)</title>
+  </programme>
+  <programme start="20260312184000 +0000" stop="20260312191500 +0000" channel="Spektrum.webtv.sk">
+    <title lang="id">Ochrana hranic - Řím I (2)</title>
+  </programme>
+  <programme start="20260312191500 +0000" stop="20260312200500 +0000" channel="Spektrum.webtv.sk">
+    <title lang="id">Život v sevření mrazu I (7)</title>
+  </programme>
+  <programme start="20260312200500 +0000" stop="20260312210000 +0000" channel="Spektrum.webtv.sk">
+    <title lang="id">Inženýrské zázraky z výšky I (1)</title>
+  </programme>
+  <programme start="20260312210000 +0000" stop="20260312215500 +0000" channel="Spektrum.webtv.sk">
+    <title lang="id">Atentát v Lockerbie I (1)</title>
+  </programme>
+  <programme start="20260312215500 +0000" stop="20260312224500 +0000" channel="Spektrum.webtv.sk">
+    <title lang="id">Rozluštěné šifry I (1)</title>
+  </programme>
+  <programme start="20260312224500 +0000" stop="20260312231000 +0000" channel="Spektrum.webtv.sk">
+    <title lang="id">FBI - Agenti řeší případy V (6)</title>
+  </programme>
   <programme start="20260311230000 +0000" stop="20260311234500 +0000" channel="Spektrum Home.webtv.sk">
     <title lang="id">Doktor Martin VII (3)</title>
   </programme>
@@ -8415,51 +8220,6 @@
   </programme>
   <programme start="20260312222500 +0000" stop="20260312232500 +0000" channel="HBO 3.webtv.sk">
     <title lang="id">M.R.D. Saint Louis (2)</title>
-  </programme>
-  <programme start="20260311222000 +0000" stop="20260312000500 +0000" channel="Cinemax.webtv.sk">
-    <title lang="id">Nikdo mě nemá rád</title>
-  </programme>
-  <programme start="20260312000500 +0000" stop="20260312014500 +0000" channel="Cinemax.webtv.sk">
-    <title lang="id">Miss Violence</title>
-  </programme>
-  <programme start="20260312014500 +0000" stop="20260312032500 +0000" channel="Cinemax.webtv.sk">
-    <title lang="id">Vera a svět vášní</title>
-  </programme>
-  <programme start="20260312032500 +0000" stop="20260312050000 +0000" channel="Cinemax.webtv.sk">
-    <title lang="id">Poslední čas na lásku</title>
-  </programme>
-  <programme start="20260312050000 +0000" stop="20260312062500 +0000" channel="Cinemax.webtv.sk">
-    <title lang="id">Červený kufr</title>
-  </programme>
-  <programme start="20260312062500 +0000" stop="20260312081000 +0000" channel="Cinemax.webtv.sk">
-    <title lang="id">Citrónovník</title>
-  </programme>
-  <programme start="20260312081000 +0000" stop="20260312100500 +0000" channel="Cinemax.webtv.sk">
-    <title lang="id">Posraný jaro je ve vzduchu</title>
-  </programme>
-  <programme start="20260312100500 +0000" stop="20260312115000 +0000" channel="Cinemax.webtv.sk">
-    <title lang="id">Krotitelé duchů</title>
-  </programme>
-  <programme start="20260312115000 +0000" stop="20260312133000 +0000" channel="Cinemax.webtv.sk">
-    <title lang="id">Dejte mi šanci</title>
-  </programme>
-  <programme start="20260312133000 +0000" stop="20260312152000 +0000" channel="Cinemax.webtv.sk">
-    <title lang="id">Splátka</title>
-  </programme>
-  <programme start="20260312152000 +0000" stop="20260312170500 +0000" channel="Cinemax.webtv.sk">
-    <title lang="id">Citrónovník</title>
-  </programme>
-  <programme start="20260312170500 +0000" stop="20260312190000 +0000" channel="Cinemax.webtv.sk">
-    <title lang="id">Devět královen</title>
-  </programme>
-  <programme start="20260312190000 +0000" stop="20260312194500 +0000" channel="Cinemax.webtv.sk">
-    <title lang="id">Protiúder VII (5)</title>
-  </programme>
-  <programme start="20260312194500 +0000" stop="20260312203500 +0000" channel="Cinemax.webtv.sk">
-    <title lang="id">Protiúder VII (6)</title>
-  </programme>
-  <programme start="20260312203500 +0000" stop="20260312233000 +0000" channel="Cinemax.webtv.sk">
-    <title lang="id">Umírání</title>
   </programme>
   <programme start="20260311212500 +0000" stop="20260312000000 +0000" channel="Cinemax 2.webtv.sk">
     <title lang="id">Klan Gucci</title>
@@ -9043,54 +8803,6 @@
   <programme start="20260312212500 +0000" stop="20260312230000 +0000" channel="FilmBox Family.webtv.sk">
     <title lang="id">Premiéra</title>
   </programme>
-  <programme start="20260311223500 +0000" stop="20260312002000 +0000" channel="FilmBox Stars.webtv.sk">
-    <title lang="id">Vražda na Blackwater Lane</title>
-  </programme>
-  <programme start="20260312002000 +0000" stop="20260312020000 +0000" channel="FilmBox Stars.webtv.sk">
-    <title lang="id">Druhá šance</title>
-  </programme>
-  <programme start="20260312020000 +0000" stop="20260312033000 +0000" channel="FilmBox Stars.webtv.sk">
-    <title lang="id">Pro dítě zemřu</title>
-  </programme>
-  <programme start="20260312033000 +0000" stop="20260312044000 +0000" channel="FilmBox Stars.webtv.sk">
-    <title lang="id">Šťastná</title>
-  </programme>
-  <programme start="20260312044000 +0000" stop="20260312050500 +0000" channel="FilmBox Stars.webtv.sk">
-    <title lang="id">Noční tabule</title>
-  </programme>
-  <programme start="20260312050500 +0000" stop="20260312070500 +0000" channel="FilmBox Stars.webtv.sk">
-    <title lang="id">Vraždy v Oxfordu II (4)</title>
-  </programme>
-  <programme start="20260312070500 +0000" stop="20260312085500 +0000" channel="FilmBox Stars.webtv.sk">
-    <title lang="id">Agatha Christie: Vraždy podle abecedy III (9)</title>
-  </programme>
-  <programme start="20260312085500 +0000" stop="20260312100500 +0000" channel="FilmBox Stars.webtv.sk">
-    <title lang="id">Vražedné záhady slečny Fisherové II (1)</title>
-  </programme>
-  <programme start="20260312100500 +0000" stop="20260312120500 +0000" channel="FilmBox Stars.webtv.sk">
-    <title lang="id">Vraždy v Oxfordu III (1)</title>
-  </programme>
-  <programme start="20260312120500 +0000" stop="20260312140000 +0000" channel="FilmBox Stars.webtv.sk">
-    <title lang="id">Agatha Christie: Vraždy podle abecedy III (10)</title>
-  </programme>
-  <programme start="20260312140000 +0000" stop="20260312150500 +0000" channel="FilmBox Stars.webtv.sk">
-    <title lang="id">Vražedné záhady slečny Fisherové II (2)</title>
-  </programme>
-  <programme start="20260312150500 +0000" stop="20260312170500 +0000" channel="FilmBox Stars.webtv.sk">
-    <title lang="id">Hercule Poirot XI (1)</title>
-  </programme>
-  <programme start="20260312170500 +0000" stop="20260312190000 +0000" channel="FilmBox Stars.webtv.sk">
-    <title lang="id">Zločiny z vřesovišť III (1)</title>
-  </programme>
-  <programme start="20260312190000 +0000" stop="20260312205000 +0000" channel="FilmBox Stars.webtv.sk">
-    <title lang="id">Vražedný ostrov</title>
-  </programme>
-  <programme start="20260312205000 +0000" stop="20260312224500 +0000" channel="FilmBox Stars.webtv.sk">
-    <title lang="id">Vlastnici</title>
-  </programme>
-  <programme start="20260312224500 +0000" stop="20260313003500 +0000" channel="FilmBox Stars.webtv.sk">
-    <title lang="id">Havran</title>
-  </programme>
   <programme start="20260311210500 +0000" stop="20260311232500 +0000" channel="FightBox.webtv.sk">
     <title lang="id">King Of Kings Grand Prix 26.11.2022 XIII (98)</title>
   </programme>
@@ -9414,6 +9126,129 @@
   </programme>
   <programme start="20260312223000 +0000" stop="20260312230000 +0000" channel="Fast and Funbox.webtv.sk">
     <title lang="id">Outdoor Sports Show 2019: Outdoor Sports Show 2019 #3 I (3)</title>
+  </programme>
+  <programme start="20260311223500 +0000" stop="20260311233000 +0000" channel="DocuBox.webtv.sk">
+    <title lang="id">Paris Berlin: Shapes and Shades of History (2)</title>
+  </programme>
+  <programme start="20260311233000 +0000" stop="20260312002500 +0000" channel="DocuBox.webtv.sk">
+    <title lang="id">Hidden Traces (4)</title>
+  </programme>
+  <programme start="20260312002500 +0000" stop="20260312012000 +0000" channel="DocuBox.webtv.sk">
+    <title lang="id">The Day When (2)</title>
+  </programme>
+  <programme start="20260312012000 +0000" stop="20260312022000 +0000" channel="DocuBox.webtv.sk">
+    <title lang="id">WWII Documentary Films (7)</title>
+  </programme>
+  <programme start="20260312022000 +0000" stop="20260312032000 +0000" channel="DocuBox.webtv.sk">
+    <title lang="id">WWII Documentary Films (8)</title>
+  </programme>
+  <programme start="20260312032000 +0000" stop="20260312035000 +0000" channel="DocuBox.webtv.sk">
+    <title lang="id">What in the World (4)</title>
+  </programme>
+  <programme start="20260312035000 +0000" stop="20260312042000 +0000" channel="DocuBox.webtv.sk">
+    <title lang="id">What in the World (5)</title>
+  </programme>
+  <programme start="20260312042000 +0000" stop="20260312045000 +0000" channel="DocuBox.webtv.sk">
+    <title lang="id">What in the World (6)</title>
+  </programme>
+  <programme start="20260312045000 +0000" stop="20260312060000 +0000" channel="DocuBox.webtv.sk">
+    <title lang="id">The Past Hunters (3)</title>
+  </programme>
+  <programme start="20260312060000 +0000" stop="20260312062500 +0000" channel="DocuBox.webtv.sk">
+    <title lang="id">Travel Thru History (11)</title>
+  </programme>
+  <programme start="20260312062500 +0000" stop="20260312065000 +0000" channel="DocuBox.webtv.sk">
+    <title lang="id">Travel Thru History (12)</title>
+  </programme>
+  <programme start="20260312065000 +0000" stop="20260312072000 +0000" channel="DocuBox.webtv.sk">
+    <title lang="id">Nature&apos;s Force (3)</title>
+  </programme>
+  <programme start="20260312072000 +0000" stop="20260312075000 +0000" channel="DocuBox.webtv.sk">
+    <title lang="id">Nature&apos;s Force (4)</title>
+  </programme>
+  <programme start="20260312075000 +0000" stop="20260312081500 +0000" channel="DocuBox.webtv.sk">
+    <title lang="id">Big Coast XII (5)</title>
+  </programme>
+  <programme start="20260312081500 +0000" stop="20260312084000 +0000" channel="DocuBox.webtv.sk">
+    <title lang="id">Wild Australia with Ray Mears (3)</title>
+  </programme>
+  <programme start="20260312084000 +0000" stop="20260312090500 +0000" channel="DocuBox.webtv.sk">
+    <title lang="id">Sarah Shark (3)</title>
+  </programme>
+  <programme start="20260312090500 +0000" stop="20260312093000 +0000" channel="DocuBox.webtv.sk">
+    <title lang="id">Outta Town Adventures I (4)</title>
+  </programme>
+  <programme start="20260312093000 +0000" stop="20260312100000 +0000" channel="DocuBox.webtv.sk">
+    <title lang="id">Outta Town Adventures I (5)</title>
+  </programme>
+  <programme start="20260312100000 +0000" stop="20260312103000 +0000" channel="DocuBox.webtv.sk">
+    <title lang="id">Music Voyager (17)</title>
+  </programme>
+  <programme start="20260312103000 +0000" stop="20260312110000 +0000" channel="DocuBox.webtv.sk">
+    <title lang="id">Music Voyager (18)</title>
+  </programme>
+  <programme start="20260312110000 +0000" stop="20260312113000 +0000" channel="DocuBox.webtv.sk">
+    <title lang="id">Show Me Where You Live I (17)</title>
+  </programme>
+  <programme start="20260312113000 +0000" stop="20260312120000 +0000" channel="DocuBox.webtv.sk">
+    <title lang="id">Show Me Where You Live I (18)</title>
+  </programme>
+  <programme start="20260312120000 +0000" stop="20260312123000 +0000" channel="DocuBox.webtv.sk">
+    <title lang="id">Journeys in India I (9)</title>
+  </programme>
+  <programme start="20260312123000 +0000" stop="20260312130000 +0000" channel="DocuBox.webtv.sk">
+    <title lang="id">Journeys in India II (9)</title>
+  </programme>
+  <programme start="20260312130000 +0000" stop="20260312133000 +0000" channel="DocuBox.webtv.sk">
+    <title lang="id">Journeys in Africa I (9)</title>
+  </programme>
+  <programme start="20260312133000 +0000" stop="20260312140000 +0000" channel="DocuBox.webtv.sk">
+    <title lang="id">Journeys in Africa II (9)</title>
+  </programme>
+  <programme start="20260312140000 +0000" stop="20260312145500 +0000" channel="DocuBox.webtv.sk">
+    <title lang="id">Nomads (37)</title>
+  </programme>
+  <programme start="20260312145500 +0000" stop="20260312155000 +0000" channel="DocuBox.webtv.sk">
+    <title lang="id">Nomads (38)</title>
+  </programme>
+  <programme start="20260312155000 +0000" stop="20260312163500 +0000" channel="DocuBox.webtv.sk">
+    <title lang="id">Dream Journey (4)</title>
+  </programme>
+  <programme start="20260312163500 +0000" stop="20260312173000 +0000" channel="DocuBox.webtv.sk">
+    <title lang="id">Of Boats and Men (9)</title>
+  </programme>
+  <programme start="20260312173000 +0000" stop="20260312181500 +0000" channel="DocuBox.webtv.sk">
+    <title lang="id">The Blue Realm (3)</title>
+  </programme>
+  <programme start="20260312181500 +0000" stop="20260312184000 +0000" channel="DocuBox.webtv.sk">
+    <title lang="id">Blue World V (3)</title>
+  </programme>
+  <programme start="20260312184000 +0000" stop="20260312190500 +0000" channel="DocuBox.webtv.sk">
+    <title lang="id">Blue World V (4)</title>
+  </programme>
+  <programme start="20260312190500 +0000" stop="20260312193000 +0000" channel="DocuBox.webtv.sk">
+    <title lang="id">The Blue Realm (4)</title>
+  </programme>
+  <programme start="20260312193000 +0000" stop="20260312200000 +0000" channel="DocuBox.webtv.sk">
+    <title lang="id">The Blue Realm (5)</title>
+  </programme>
+  <programme start="20260312200000 +0000" stop="20260312203000 +0000" channel="DocuBox.webtv.sk">
+    <title lang="id">Wild Ones (3)</title>
+  </programme>
+  <programme start="20260312203000 +0000" stop="20260312210000 +0000" channel="DocuBox.webtv.sk">
+    <title lang="id">Wild Ones (4)</title>
+  </programme>
+  <programme start="20260312210000 +0000" stop="20260312213000 +0000" channel="DocuBox.webtv.sk">
+    <title lang="id">Race of Life (3)</title>
+  </programme>
+  <programme start="20260312213000 +0000" stop="20260312220000 +0000" channel="DocuBox.webtv.sk">
+    <title lang="id">Race of Life (4)</title>
+  </programme>
+  <programme start="20260312220000 +0000" stop="20260312225500 +0000" channel="DocuBox.webtv.sk">
+    <title lang="id">Africa&apos;s Deadliest (2)</title>
+  </programme>
+  <programme start="20260312225500 +0000" stop="20260312235000 +0000" channel="DocuBox.webtv.sk">
+    <title lang="id">Creative Killers (2)</title>
   </programme>
   <programme start="20260311230000 +0000" stop="20260312000000 +0000" channel="360 TuneBox.webtv.sk">
     <title lang="id">Electric Jam</title>
@@ -11092,273 +10927,6 @@
   <programme start="20260312225800 +0000" stop="20260312231300 +0000" channel="JimJam.webtv.sk">
     <title lang="id">Moje kamarádka Conni II (12)</title>
   </programme>
-  <programme start="20260311230000 +0000" stop="20260311231000 +0000" channel="Minimax.webtv.sk">
-    <title lang="id">To je Joey I (19)</title>
-  </programme>
-  <programme start="20260311231000 +0000" stop="20260311232000 +0000" channel="Minimax.webtv.sk">
-    <title lang="id">To je Joey I (20)</title>
-  </programme>
-  <programme start="20260311232000 +0000" stop="20260311233000 +0000" channel="Minimax.webtv.sk">
-    <title lang="id">To je Joey I (21)</title>
-  </programme>
-  <programme start="20260311233000 +0000" stop="20260311234500 +0000" channel="Minimax.webtv.sk">
-    <title lang="id">To je Joey I (22)</title>
-  </programme>
-  <programme start="20260311234500 +0000" stop="20260311235500 +0000" channel="Minimax.webtv.sk">
-    <title lang="id">Malí zvířecí detektivové I (26)</title>
-  </programme>
-  <programme start="20260311235500 +0000" stop="20260312000500 +0000" channel="Minimax.webtv.sk">
-    <title lang="id">Malí zvířecí detektivové I (27)</title>
-  </programme>
-  <programme start="20260312000500 +0000" stop="20260312001500 +0000" channel="Minimax.webtv.sk">
-    <title lang="id">Malí zvířecí detektivové I (28)</title>
-  </programme>
-  <programme start="20260312001500 +0000" stop="20260312003000 +0000" channel="Minimax.webtv.sk">
-    <title lang="id">Malí zvířecí detektivové I (29)</title>
-  </programme>
-  <programme start="20260312003000 +0000" stop="20260312004000 +0000" channel="Minimax.webtv.sk">
-    <title lang="id">Příhody bílého delfína III (31)</title>
-  </programme>
-  <programme start="20260312004000 +0000" stop="20260312005500 +0000" channel="Minimax.webtv.sk">
-    <title lang="id">Příhody bílého delfína III (32)</title>
-  </programme>
-  <programme start="20260312005500 +0000" stop="20260312012000 +0000" channel="Minimax.webtv.sk">
-    <title lang="id">Lexi a Lotka - věrná dvojčata detektivky I (14)</title>
-  </programme>
-  <programme start="20260312012000 +0000" stop="20260312014500 +0000" channel="Minimax.webtv.sk">
-    <title lang="id">Geronimo Stilton III (16)</title>
-  </programme>
-  <programme start="20260312014500 +0000" stop="20260312020500 +0000" channel="Minimax.webtv.sk">
-    <title lang="id">Geronimo Stilton III (15)</title>
-  </programme>
-  <programme start="20260312020500 +0000" stop="20260312022500 +0000" channel="Minimax.webtv.sk">
-    <title lang="id">Ulička záhad I (15)</title>
-  </programme>
-  <programme start="20260312022500 +0000" stop="20260312023000 +0000" channel="Minimax.webtv.sk">
-    <title lang="id">Byla jednou jedna… Věc I (37)</title>
-  </programme>
-  <programme start="20260312023000 +0000" stop="20260312024000 +0000" channel="Minimax.webtv.sk">
-    <title lang="id">Byla jednou jedna… Věc I (38)</title>
-  </programme>
-  <programme start="20260312024000 +0000" stop="20260312025000 +0000" channel="Minimax.webtv.sk">
-    <title lang="id">To je Joey I (16)</title>
-  </programme>
-  <programme start="20260312025000 +0000" stop="20260312030000 +0000" channel="Minimax.webtv.sk">
-    <title lang="id">To je Joey I (17)</title>
-  </programme>
-  <programme start="20260312030000 +0000" stop="20260312031000 +0000" channel="Minimax.webtv.sk">
-    <title lang="id">Sestry II (18)</title>
-  </programme>
-  <programme start="20260312031000 +0000" stop="20260312032000 +0000" channel="Minimax.webtv.sk">
-    <title lang="id">Sestry II (19)</title>
-  </programme>
-  <programme start="20260312032000 +0000" stop="20260312033000 +0000" channel="Minimax.webtv.sk">
-    <title lang="id">Příhody bílého delfína II (19)</title>
-  </programme>
-  <programme start="20260312033000 +0000" stop="20260312034500 +0000" channel="Minimax.webtv.sk">
-    <title lang="id">Příhody bílého delfína II (20)</title>
-  </programme>
-  <programme start="20260312034500 +0000" stop="20260312035500 +0000" channel="Minimax.webtv.sk">
-    <title lang="id">Malí zvířecí detektivové I (16)</title>
-  </programme>
-  <programme start="20260312035500 +0000" stop="20260312041000 +0000" channel="Minimax.webtv.sk">
-    <title lang="id">Malí zvířecí detektivové I (17)</title>
-  </programme>
-  <programme start="20260312041000 +0000" stop="20260312043500 +0000" channel="Minimax.webtv.sk">
-    <title lang="id">Lexi a Lotka - věrná dvojčata detektivky I (2)</title>
-  </programme>
-  <programme start="20260312043500 +0000" stop="20260312044500 +0000" channel="Minimax.webtv.sk">
-    <title lang="id">Idefix a smečka Nepoddajných I (35)</title>
-  </programme>
-  <programme start="20260312044500 +0000" stop="20260312050000 +0000" channel="Minimax.webtv.sk">
-    <title lang="id">Idefix a smečka Nepoddajných I (36)</title>
-  </programme>
-  <programme start="20260312050000 +0000" stop="20260312050500 +0000" channel="Minimax.webtv.sk">
-    <title lang="id">Psík jménem Pat I (49)</title>
-  </programme>
-  <programme start="20260312050500 +0000" stop="20260312051000 +0000" channel="Minimax.webtv.sk">
-    <title lang="id">Psík jménem Pat I (50)</title>
-  </programme>
-  <programme start="20260312051000 +0000" stop="20260312052500 +0000" channel="Minimax.webtv.sk">
-    <title lang="id">Psík jménem Pat I (51)</title>
-  </programme>
-  <programme start="20260312052500 +0000" stop="20260312053000 +0000" channel="Minimax.webtv.sk">
-    <title lang="id">Psík jménem Pat I (52)</title>
-  </programme>
-  <programme start="20260312053000 +0000" stop="20260312053500 +0000" channel="Minimax.webtv.sk">
-    <title lang="id">Psík jménem Pat I (53)</title>
-  </programme>
-  <programme start="20260312053500 +0000" stop="20260312055000 +0000" channel="Minimax.webtv.sk">
-    <title lang="id">Psík jménem Pat I (54)</title>
-  </programme>
-  <programme start="20260312055000 +0000" stop="20260312055500 +0000" channel="Minimax.webtv.sk">
-    <title lang="id">Byla jednou jedna… Věc I (4)</title>
-  </programme>
-  <programme start="20260312055500 +0000" stop="20260312060000 +0000" channel="Minimax.webtv.sk">
-    <title lang="id">Byla jednou jedna… Věc I (5)</title>
-  </programme>
-  <programme start="20260312060000 +0000" stop="20260312061500 +0000" channel="Minimax.webtv.sk">
-    <title lang="id">Byla jednou jedna… Věc I (6)</title>
-  </programme>
-  <programme start="20260312061500 +0000" stop="20260312062000 +0000" channel="Minimax.webtv.sk">
-    <title lang="id">Byla jednou jedna… Věc I (7)</title>
-  </programme>
-  <programme start="20260312062000 +0000" stop="20260312062500 +0000" channel="Minimax.webtv.sk">
-    <title lang="id">Byla jednou jedna… Věc I (8)</title>
-  </programme>
-  <programme start="20260312062500 +0000" stop="20260312064000 +0000" channel="Minimax.webtv.sk">
-    <title lang="id">Byla jednou jedna… Věc I (9)</title>
-  </programme>
-  <programme start="20260312064000 +0000" stop="20260312065000 +0000" channel="Minimax.webtv.sk">
-    <title lang="id">Idefix a smečka Nepoddajných I (3)</title>
-  </programme>
-  <programme start="20260312065000 +0000" stop="20260312070000 +0000" channel="Minimax.webtv.sk">
-    <title lang="id">Idefix a smečka Nepoddajných I (4)</title>
-  </programme>
-  <programme start="20260312070000 +0000" stop="20260312072000 +0000" channel="Minimax.webtv.sk">
-    <title lang="id">Idefix a smečka Nepoddajných I (48)</title>
-  </programme>
-  <programme start="20260312072000 +0000" stop="20260312074500 +0000" channel="Minimax.webtv.sk">
-    <title lang="id">Ulička záhad I (21)</title>
-  </programme>
-  <programme start="20260312074500 +0000" stop="20260312080500 +0000" channel="Minimax.webtv.sk">
-    <title lang="id">Barbie - Na to jsou potřeba dva I (4)</title>
-  </programme>
-  <programme start="20260312080500 +0000" stop="20260312083000 +0000" channel="Minimax.webtv.sk">
-    <title lang="id">Barbie - Na to jsou potřeba dva I (5)</title>
-  </programme>
-  <programme start="20260312083000 +0000" stop="20260312092000 +0000" channel="Minimax.webtv.sk">
-    <title lang="id">Duchařská hlídka</title>
-  </programme>
-  <programme start="20260312092000 +0000" stop="20260312093000 +0000" channel="Minimax.webtv.sk">
-    <title lang="id">Příhody bílého delfína III (1)</title>
-  </programme>
-  <programme start="20260312093000 +0000" stop="20260312094000 +0000" channel="Minimax.webtv.sk">
-    <title lang="id">Příhody bílého delfína III (2)</title>
-  </programme>
-  <programme start="20260312094000 +0000" stop="20260312095000 +0000" channel="Minimax.webtv.sk">
-    <title lang="id">Příhody bílého delfína III (3)</title>
-  </programme>
-  <programme start="20260312095000 +0000" stop="20260312100000 +0000" channel="Minimax.webtv.sk">
-    <title lang="id">Příhody bílého delfína III (4)</title>
-  </programme>
-  <programme start="20260312100000 +0000" stop="20260312101000 +0000" channel="Minimax.webtv.sk">
-    <title lang="id">Příhody bílého delfína III (5)</title>
-  </programme>
-  <programme start="20260312101000 +0000" stop="20260312102500 +0000" channel="Minimax.webtv.sk">
-    <title lang="id">Příhody bílého delfína III (6)</title>
-  </programme>
-  <programme start="20260312102500 +0000" stop="20260312103500 +0000" channel="Minimax.webtv.sk">
-    <title lang="id">Příhody bílého delfína III (7)</title>
-  </programme>
-  <programme start="20260312103500 +0000" stop="20260312104500 +0000" channel="Minimax.webtv.sk">
-    <title lang="id">Příhody bílého delfína III (8)</title>
-  </programme>
-  <programme start="20260312104500 +0000" stop="20260312111000 +0000" channel="Minimax.webtv.sk">
-    <title lang="id">Příhody bílého delfína III (9)</title>
-  </programme>
-  <programme start="20260312111000 +0000" stop="20260312113000 +0000" channel="Minimax.webtv.sk">
-    <title lang="id">Zvědavý George II (7)</title>
-  </programme>
-  <programme start="20260312113000 +0000" stop="20260312120000 +0000" channel="Minimax.webtv.sk">
-    <title lang="id">Zvědavý George II (8)</title>
-  </programme>
-  <programme start="20260312120000 +0000" stop="20260312121000 +0000" channel="Minimax.webtv.sk">
-    <title lang="id">ALVINNN!!! A Chipmunkové II (26)</title>
-  </programme>
-  <programme start="20260312121000 +0000" stop="20260312122000 +0000" channel="Minimax.webtv.sk">
-    <title lang="id">ALVINNN!!! A Chipmunkové II (27)</title>
-  </programme>
-  <programme start="20260312122000 +0000" stop="20260312124000 +0000" channel="Minimax.webtv.sk">
-    <title lang="id">ALVINNN!!! A Chipmunkové II (28)</title>
-  </programme>
-  <programme start="20260312124000 +0000" stop="20260312130500 +0000" channel="Minimax.webtv.sk">
-    <title lang="id">Inspektor Šikula I (19)</title>
-  </programme>
-  <programme start="20260312130500 +0000" stop="20260312131000 +0000" channel="Minimax.webtv.sk">
-    <title lang="id">Psík jménem Pat I (58)</title>
-  </programme>
-  <programme start="20260312131000 +0000" stop="20260312131500 +0000" channel="Minimax.webtv.sk">
-    <title lang="id">Psík jménem Pat I (59)</title>
-  </programme>
-  <programme start="20260312131500 +0000" stop="20260312133000 +0000" channel="Minimax.webtv.sk">
-    <title lang="id">Psík jménem Pat I (60)</title>
-  </programme>
-  <programme start="20260312133000 +0000" stop="20260312135000 +0000" channel="Minimax.webtv.sk">
-    <title lang="id">Mimi šéf: zpátky ve hře I (11)</title>
-  </programme>
-  <programme start="20260312135000 +0000" stop="20260312142000 +0000" channel="Minimax.webtv.sk">
-    <title lang="id">Mimi šéf: zpátky ve hře I (12)</title>
-  </programme>
-  <programme start="20260312142000 +0000" stop="20260312143000 +0000" channel="Minimax.webtv.sk">
-    <title lang="id">ALVINNN!!! A Chipmunkové II (17)</title>
-  </programme>
-  <programme start="20260312143000 +0000" stop="20260312144000 +0000" channel="Minimax.webtv.sk">
-    <title lang="id">ALVINNN!!! A Chipmunkové II (18)</title>
-  </programme>
-  <programme start="20260312144000 +0000" stop="20260312145500 +0000" channel="Minimax.webtv.sk">
-    <title lang="id">ALVINNN!!! A Chipmunkové II (19)</title>
-  </programme>
-  <programme start="20260312145500 +0000" stop="20260312152000 +0000" channel="Minimax.webtv.sk">
-    <title lang="id">Poznáváme přírodu II (18)</title>
-  </programme>
-  <programme start="20260312152000 +0000" stop="20260312153000 +0000" channel="Minimax.webtv.sk">
-    <title lang="id">Příhody bílého delfína III (34)</title>
-  </programme>
-  <programme start="20260312153000 +0000" stop="20260312154000 +0000" channel="Minimax.webtv.sk">
-    <title lang="id">Příhody bílého delfína III (35)</title>
-  </programme>
-  <programme start="20260312154000 +0000" stop="20260312160000 +0000" channel="Minimax.webtv.sk">
-    <title lang="id">Příhody bílého delfína III (36)</title>
-  </programme>
-  <programme start="20260312160000 +0000" stop="20260312171500 +0000" channel="Minimax.webtv.sk">
-    <title lang="id">Barbie™ Ve Světě Her</title>
-  </programme>
-  <programme start="20260312171500 +0000" stop="20260312172000 +0000" channel="Minimax.webtv.sk">
-    <title lang="id">Byla jednou jedna… Věc I (46)</title>
-  </programme>
-  <programme start="20260312172000 +0000" stop="20260312173000 +0000" channel="Minimax.webtv.sk">
-    <title lang="id">Byla jednou jedna… Věc I (47)</title>
-  </programme>
-  <programme start="20260312173000 +0000" stop="20260312174000 +0000" channel="Minimax.webtv.sk">
-    <title lang="id">ALVINNN!!! A Chipmunkové III (5)</title>
-  </programme>
-  <programme start="20260312174000 +0000" stop="20260312175500 +0000" channel="Minimax.webtv.sk">
-    <title lang="id">ALVINNN!!! A Chipmunkové III (6)</title>
-  </programme>
-  <programme start="20260312175500 +0000" stop="20260312180500 +0000" channel="Minimax.webtv.sk">
-    <title lang="id">Idefix a smečka Nepoddajných I (26)</title>
-  </programme>
-  <programme start="20260312180500 +0000" stop="20260312183000 +0000" channel="Minimax.webtv.sk">
-    <title lang="id">Molly z Denali II (7)</title>
-  </programme>
-  <programme start="20260312183000 +0000" stop="20260312190000 +0000" channel="Minimax.webtv.sk">
-    <title lang="id">Molly z Denali II (8)</title>
-  </programme>
-  <programme start="20260312190000 +0000" stop="20260312203000 +0000" channel="Minimax.webtv.sk">
-    <title lang="id">Šarlotina pavučinka: Wilburovo velké dobrodružství</title>
-  </programme>
-  <programme start="20260312203000 +0000" stop="20260312205000 +0000" channel="Minimax.webtv.sk">
-    <title lang="id">Geronimo Stilton II (8)</title>
-  </programme>
-  <programme start="20260312205000 +0000" stop="20260312211000 +0000" channel="Minimax.webtv.sk">
-    <title lang="id">Geronimo Stilton II (9)</title>
-  </programme>
-  <programme start="20260312211000 +0000" stop="20260312214500 +0000" channel="Minimax.webtv.sk">
-    <title lang="id">Geronimo Stilton II (10)</title>
-  </programme>
-  <programme start="20260312214500 +0000" stop="20260312215500 +0000" channel="Minimax.webtv.sk">
-    <title lang="id">Idefix a smečka Nepoddajných I (9)</title>
-  </programme>
-  <programme start="20260312215500 +0000" stop="20260312221500 +0000" channel="Minimax.webtv.sk">
-    <title lang="id">Idefix a smečka Nepoddajných I (10)</title>
-  </programme>
-  <programme start="20260312221500 +0000" stop="20260312223500 +0000" channel="Minimax.webtv.sk">
-    <title lang="id">Inspektor Šikula I (17)</title>
-  </programme>
-  <programme start="20260312223500 +0000" stop="20260312230000 +0000" channel="Minimax.webtv.sk">
-    <title lang="id">Inspektor Šikula I (18)</title>
-  </programme>
   <programme start="20260311225900 +0000" stop="20260311230200 +0000" channel="Duck TV.webtv.sk">
     <title lang="id">Čarovné miesta</title>
   </programme>
@@ -12975,6 +12543,1626 @@
   </programme>
   <programme start="20260312225900 +0000" stop="20260312230100 +0000" channel="Duck TV.webtv.sk">
     <title lang="id">V múzeu</title>
+  </programme>
+  <programme start="20260311230000 +0000" stop="20260311230200 +0000" channel="Duck TV Plus.webtv.sk">
+    <title lang="id">DuckSchool - škola hrou</title>
+  </programme>
+  <programme start="20260311230200 +0000" stop="20260311230600 +0000" channel="Duck TV Plus.webtv.sk">
+    <title lang="id">Dotty a Kitty</title>
+  </programme>
+  <programme start="20260311230600 +0000" stop="20260311230900 +0000" channel="Duck TV Plus.webtv.sk">
+    <title lang="id">Náučný kútik</title>
+  </programme>
+  <programme start="20260311230900 +0000" stop="20260311231300 +0000" channel="Duck TV Plus.webtv.sk">
+    <title lang="id">Mimo and Bobo PLUS</title>
+  </programme>
+  <programme start="20260311231300 +0000" stop="20260311231500 +0000" channel="Duck TV Plus.webtv.sk">
+    <title lang="id">Zvuky okolo nás</title>
+  </programme>
+  <programme start="20260311231500 +0000" stop="20260311231700 +0000" channel="Duck TV Plus.webtv.sk">
+    <title lang="id">Teraz sa hráme</title>
+  </programme>
+  <programme start="20260311231700 +0000" stop="20260311232000 +0000" channel="Duck TV Plus.webtv.sk">
+    <title lang="id">Reštaurácia</title>
+  </programme>
+  <programme start="20260311232000 +0000" stop="20260311232300 +0000" channel="Duck TV Plus.webtv.sk">
+    <title lang="id">Cubie</title>
+  </programme>
+  <programme start="20260311232300 +0000" stop="20260311232500 +0000" channel="Duck TV Plus.webtv.sk">
+    <title lang="id">Množiny</title>
+  </programme>
+  <programme start="20260311232500 +0000" stop="20260311232800 +0000" channel="Duck TV Plus.webtv.sk">
+    <title lang="id">V múzeu</title>
+  </programme>
+  <programme start="20260311232800 +0000" stop="20260311233000 +0000" channel="Duck TV Plus.webtv.sk">
+    <title lang="id">Tempo Giusto</title>
+  </programme>
+  <programme start="20260311233000 +0000" stop="20260311233300 +0000" channel="Duck TV Plus.webtv.sk">
+    <title lang="id">Aj ja chcem vidieť!</title>
+  </programme>
+  <programme start="20260311233300 +0000" stop="20260311233600 +0000" channel="Duck TV Plus.webtv.sk">
+    <title lang="id">Reštaurácia</title>
+  </programme>
+  <programme start="20260311233600 +0000" stop="20260311233900 +0000" channel="Duck TV Plus.webtv.sk">
+    <title lang="id">Prepojený svet</title>
+  </programme>
+  <programme start="20260311233900 +0000" stop="20260311234100 +0000" channel="Duck TV Plus.webtv.sk">
+    <title lang="id">Ducky a Priatelia</title>
+  </programme>
+  <programme start="20260311234100 +0000" stop="20260311234400 +0000" channel="Duck TV Plus.webtv.sk">
+    <title lang="id">Zack and Ziggy</title>
+  </programme>
+  <programme start="20260311234400 +0000" stop="20260311234600 +0000" channel="Duck TV Plus.webtv.sk">
+    <title lang="id">Teraz sa hráme</title>
+  </programme>
+  <programme start="20260311234600 +0000" stop="20260311235000 +0000" channel="Duck TV Plus.webtv.sk">
+    <title lang="id">Risto Gusto</title>
+  </programme>
+  <programme start="20260311235000 +0000" stop="20260311235200 +0000" channel="Duck TV Plus.webtv.sk">
+    <title lang="id">Ako cestujeme</title>
+  </programme>
+  <programme start="20260311235200 +0000" stop="20260311235400 +0000" channel="Duck TV Plus.webtv.sk">
+    <title lang="id">Ducky a Fluffy</title>
+  </programme>
+  <programme start="20260311235400 +0000" stop="20260311235600 +0000" channel="Duck TV Plus.webtv.sk">
+    <title lang="id">Klára a jej farebný svet</title>
+  </programme>
+  <programme start="20260311235600 +0000" stop="20260311235800 +0000" channel="Duck TV Plus.webtv.sk">
+    <title lang="id">Ducky a Priatelia</title>
+  </programme>
+  <programme start="20260311235800 +0000" stop="20260312000100 +0000" channel="Duck TV Plus.webtv.sk">
+    <title lang="id">Slnečna dedinka - Športové dni</title>
+  </programme>
+  <programme start="20260312000100 +0000" stop="20260312000500 +0000" channel="Duck TV Plus.webtv.sk">
+    <title lang="id">Malí, ale šikovní</title>
+  </programme>
+  <programme start="20260312000500 +0000" stop="20260312000700 +0000" channel="Duck TV Plus.webtv.sk">
+    <title lang="id">Malí, ale šikovní</title>
+  </programme>
+  <programme start="20260312000700 +0000" stop="20260312001200 +0000" channel="Duck TV Plus.webtv.sk">
+    <title lang="id">Reštaurácia</title>
+  </programme>
+  <programme start="20260312001200 +0000" stop="20260312001400 +0000" channel="Duck TV Plus.webtv.sk">
+    <title lang="id">Ako cestujeme</title>
+  </programme>
+  <programme start="20260312001400 +0000" stop="20260312001700 +0000" channel="Duck TV Plus.webtv.sk">
+    <title lang="id">Risto Gusto</title>
+  </programme>
+  <programme start="20260312001700 +0000" stop="20260312002100 +0000" channel="Duck TV Plus.webtv.sk">
+    <title lang="id">Reštaurácia</title>
+  </programme>
+  <programme start="20260312002100 +0000" stop="20260312002400 +0000" channel="Duck TV Plus.webtv.sk">
+    <title lang="id">Risto Gusto</title>
+  </programme>
+  <programme start="20260312002400 +0000" stop="20260312002500 +0000" channel="Duck TV Plus.webtv.sk">
+    <title lang="id">Teraz sa hráme</title>
+  </programme>
+  <programme start="20260312002500 +0000" stop="20260312002700 +0000" channel="Duck TV Plus.webtv.sk">
+    <title lang="id">Ducky a Fluffy</title>
+  </programme>
+  <programme start="20260312002700 +0000" stop="20260312003000 +0000" channel="Duck TV Plus.webtv.sk">
+    <title lang="id">Slnečna dedinka - Športové dni</title>
+  </programme>
+  <programme start="20260312003000 +0000" stop="20260312003500 +0000" channel="Duck TV Plus.webtv.sk">
+    <title lang="id">Ako cestujeme</title>
+  </programme>
+  <programme start="20260312003500 +0000" stop="20260312003900 +0000" channel="Duck TV Plus.webtv.sk">
+    <title lang="id">Mimo and Bobo PLUS</title>
+  </programme>
+  <programme start="20260312003900 +0000" stop="20260312004300 +0000" channel="Duck TV Plus.webtv.sk">
+    <title lang="id">Vesmírne dobrodružstvá</title>
+  </programme>
+  <programme start="20260312004300 +0000" stop="20260312004500 +0000" channel="Duck TV Plus.webtv.sk">
+    <title lang="id">Ducky a Priatelia</title>
+  </programme>
+  <programme start="20260312004500 +0000" stop="20260312004700 +0000" channel="Duck TV Plus.webtv.sk">
+    <title lang="id">Ducky a Fluffy</title>
+  </programme>
+  <programme start="20260312004700 +0000" stop="20260312005100 +0000" channel="Duck TV Plus.webtv.sk">
+    <title lang="id">Veselá lúka</title>
+  </programme>
+  <programme start="20260312005100 +0000" stop="20260312005300 +0000" channel="Duck TV Plus.webtv.sk">
+    <title lang="id">Ako cestujeme</title>
+  </programme>
+  <programme start="20260312005300 +0000" stop="20260312005600 +0000" channel="Duck TV Plus.webtv.sk">
+    <title lang="id">Slnečná dedinka</title>
+  </programme>
+  <programme start="20260312005600 +0000" stop="20260312010000 +0000" channel="Duck TV Plus.webtv.sk">
+    <title lang="id">Mimo and Bobo PLUS</title>
+  </programme>
+  <programme start="20260312010000 +0000" stop="20260312010300 +0000" channel="Duck TV Plus.webtv.sk">
+    <title lang="id">Toby McFly</title>
+  </programme>
+  <programme start="20260312010300 +0000" stop="20260312010700 +0000" channel="Duck TV Plus.webtv.sk">
+    <title lang="id">Ako cestujeme</title>
+  </programme>
+  <programme start="20260312010700 +0000" stop="20260312010900 +0000" channel="Duck TV Plus.webtv.sk">
+    <title lang="id">Lola a čísla</title>
+  </programme>
+  <programme start="20260312010900 +0000" stop="20260312011000 +0000" channel="Duck TV Plus.webtv.sk">
+    <title lang="id">Pixie 2</title>
+  </programme>
+  <programme start="20260312011000 +0000" stop="20260312011200 +0000" channel="Duck TV Plus.webtv.sk">
+    <title lang="id">Náučný kútik</title>
+  </programme>
+  <programme start="20260312011200 +0000" stop="20260312011500 +0000" channel="Duck TV Plus.webtv.sk">
+    <title lang="id">Slnečná dedinka</title>
+  </programme>
+  <programme start="20260312011500 +0000" stop="20260312011800 +0000" channel="Duck TV Plus.webtv.sk">
+    <title lang="id">ABC – duckBC</title>
+  </programme>
+  <programme start="20260312011800 +0000" stop="20260312012000 +0000" channel="Duck TV Plus.webtv.sk">
+    <title lang="id">Mini melódie</title>
+  </programme>
+  <programme start="20260312012000 +0000" stop="20260312012200 +0000" channel="Duck TV Plus.webtv.sk">
+    <title lang="id">DuckSchool - škola hrou</title>
+  </programme>
+  <programme start="20260312012200 +0000" stop="20260312012400 +0000" channel="Duck TV Plus.webtv.sk">
+    <title lang="id">Čarovné miesta</title>
+  </programme>
+  <programme start="20260312012400 +0000" stop="20260312012900 +0000" channel="Duck TV Plus.webtv.sk">
+    <title lang="id">Albert</title>
+  </programme>
+  <programme start="20260312012900 +0000" stop="20260312013100 +0000" channel="Duck TV Plus.webtv.sk">
+    <title lang="id">Henryho príbehy</title>
+  </programme>
+  <programme start="20260312013100 +0000" stop="20260312013300 +0000" channel="Duck TV Plus.webtv.sk">
+    <title lang="id">Ducky a Priatelia</title>
+  </programme>
+  <programme start="20260312013300 +0000" stop="20260312013600 +0000" channel="Duck TV Plus.webtv.sk">
+    <title lang="id">Margo and Felix</title>
+  </programme>
+  <programme start="20260312013600 +0000" stop="20260312013900 +0000" channel="Duck TV Plus.webtv.sk">
+    <title lang="id">Slnečná dedinka</title>
+  </programme>
+  <programme start="20260312013900 +0000" stop="20260312014100 +0000" channel="Duck TV Plus.webtv.sk">
+    <title lang="id">Dobrodružstvá malej Ducky</title>
+  </programme>
+  <programme start="20260312014100 +0000" stop="20260312014300 +0000" channel="Duck TV Plus.webtv.sk">
+    <title lang="id">Domáci miláčikovia</title>
+  </programme>
+  <programme start="20260312014300 +0000" stop="20260312014600 +0000" channel="Duck TV Plus.webtv.sk">
+    <title lang="id">Margo and Felix</title>
+  </programme>
+  <programme start="20260312014600 +0000" stop="20260312014800 +0000" channel="Duck TV Plus.webtv.sk">
+    <title lang="id">Domáci miláčikovia</title>
+  </programme>
+  <programme start="20260312014800 +0000" stop="20260312015100 +0000" channel="Duck TV Plus.webtv.sk">
+    <title lang="id">Dotty a Kitty</title>
+  </programme>
+  <programme start="20260312015100 +0000" stop="20260312015500 +0000" channel="Duck TV Plus.webtv.sk">
+    <title lang="id">DuckSchool - škola hrou</title>
+  </programme>
+  <programme start="20260312015500 +0000" stop="20260312015800 +0000" channel="Duck TV Plus.webtv.sk">
+    <title lang="id">Veselé kráľovstvo</title>
+  </programme>
+  <programme start="20260312015800 +0000" stop="20260312020000 +0000" channel="Duck TV Plus.webtv.sk">
+    <title lang="id">Zvuky okolo nás</title>
+  </programme>
+  <programme start="20260312020000 +0000" stop="20260312020300 +0000" channel="Duck TV Plus.webtv.sk">
+    <title lang="id">Zack and Ziggy</title>
+  </programme>
+  <programme start="20260312020300 +0000" stop="20260312020600 +0000" channel="Duck TV Plus.webtv.sk">
+    <title lang="id">Množiny</title>
+  </programme>
+  <programme start="20260312020600 +0000" stop="20260312020800 +0000" channel="Duck TV Plus.webtv.sk">
+    <title lang="id">Mini melódie</title>
+  </programme>
+  <programme start="20260312020800 +0000" stop="20260312021000 +0000" channel="Duck TV Plus.webtv.sk">
+    <title lang="id">Lola a čísla</title>
+  </programme>
+  <programme start="20260312021000 +0000" stop="20260312021300 +0000" channel="Duck TV Plus.webtv.sk">
+    <title lang="id">Bebé Didy</title>
+  </programme>
+  <programme start="20260312021300 +0000" stop="20260312021600 +0000" channel="Duck TV Plus.webtv.sk">
+    <title lang="id">DuckSchool - škola hrou</title>
+  </programme>
+  <programme start="20260312021600 +0000" stop="20260312021800 +0000" channel="Duck TV Plus.webtv.sk">
+    <title lang="id">Šport, šport, šport</title>
+  </programme>
+  <programme start="20260312021800 +0000" stop="20260312022000 +0000" channel="Duck TV Plus.webtv.sk">
+    <title lang="id">Tempo Giusto</title>
+  </programme>
+  <programme start="20260312022000 +0000" stop="20260312022300 +0000" channel="Duck TV Plus.webtv.sk">
+    <title lang="id">Albert</title>
+  </programme>
+  <programme start="20260312022300 +0000" stop="20260312022600 +0000" channel="Duck TV Plus.webtv.sk">
+    <title lang="id">Zvuky okolo nás</title>
+  </programme>
+  <programme start="20260312022600 +0000" stop="20260312022800 +0000" channel="Duck TV Plus.webtv.sk">
+    <title lang="id">Čarovné miesta</title>
+  </programme>
+  <programme start="20260312022800 +0000" stop="20260312023000 +0000" channel="Duck TV Plus.webtv.sk">
+    <title lang="id">Teraz sa hráme</title>
+  </programme>
+  <programme start="20260312023000 +0000" stop="20260312023300 +0000" channel="Duck TV Plus.webtv.sk">
+    <title lang="id">DuckSchool - škola hrou</title>
+  </programme>
+  <programme start="20260312023300 +0000" stop="20260312023600 +0000" channel="Duck TV Plus.webtv.sk">
+    <title lang="id">Ako cestujeme</title>
+  </programme>
+  <programme start="20260312023600 +0000" stop="20260312023900 +0000" channel="Duck TV Plus.webtv.sk">
+    <title lang="id">Margo and Felix</title>
+  </programme>
+  <programme start="20260312023900 +0000" stop="20260312024100 +0000" channel="Duck TV Plus.webtv.sk">
+    <title lang="id">Henryho príbehy</title>
+  </programme>
+  <programme start="20260312024100 +0000" stop="20260312024300 +0000" channel="Duck TV Plus.webtv.sk">
+    <title lang="id">Šport, šport, šport</title>
+  </programme>
+  <programme start="20260312024300 +0000" stop="20260312024600 +0000" channel="Duck TV Plus.webtv.sk">
+    <title lang="id">Čarovné miesta</title>
+  </programme>
+  <programme start="20260312024600 +0000" stop="20260312024900 +0000" channel="Duck TV Plus.webtv.sk">
+    <title lang="id">Aj ja chcem vidieť!</title>
+  </programme>
+  <programme start="20260312024900 +0000" stop="20260312025200 +0000" channel="Duck TV Plus.webtv.sk">
+    <title lang="id">Šport, šport, šport</title>
+  </programme>
+  <programme start="20260312025200 +0000" stop="20260312025500 +0000" channel="Duck TV Plus.webtv.sk">
+    <title lang="id">Rozcvičme sa!</title>
+  </programme>
+  <programme start="20260312025500 +0000" stop="20260312025800 +0000" channel="Duck TV Plus.webtv.sk">
+    <title lang="id">Zack and Ziggy</title>
+  </programme>
+  <programme start="20260312025800 +0000" stop="20260312030100 +0000" channel="Duck TV Plus.webtv.sk">
+    <title lang="id">Margo and Felix</title>
+  </programme>
+  <programme start="20260312030100 +0000" stop="20260312030400 +0000" channel="Duck TV Plus.webtv.sk">
+    <title lang="id">Zack and Ziggy</title>
+  </programme>
+  <programme start="20260312030400 +0000" stop="20260312030600 +0000" channel="Duck TV Plus.webtv.sk">
+    <title lang="id">Tempo Giusto</title>
+  </programme>
+  <programme start="20260312030600 +0000" stop="20260312030800 +0000" channel="Duck TV Plus.webtv.sk">
+    <title lang="id">Ducky a Priatelia</title>
+  </programme>
+  <programme start="20260312030800 +0000" stop="20260312031200 +0000" channel="Duck TV Plus.webtv.sk">
+    <title lang="id">Risto Gusto</title>
+  </programme>
+  <programme start="20260312031200 +0000" stop="20260312031400 +0000" channel="Duck TV Plus.webtv.sk">
+    <title lang="id">Teraz sa hráme</title>
+  </programme>
+  <programme start="20260312031400 +0000" stop="20260312031700 +0000" channel="Duck TV Plus.webtv.sk">
+    <title lang="id">Reštaurácia</title>
+  </programme>
+  <programme start="20260312031700 +0000" stop="20260312032000 +0000" channel="Duck TV Plus.webtv.sk">
+    <title lang="id">Ako cestujeme</title>
+  </programme>
+  <programme start="20260312032000 +0000" stop="20260312032400 +0000" channel="Duck TV Plus.webtv.sk">
+    <title lang="id">Bábiky - záchranársky tím</title>
+  </programme>
+  <programme start="20260312032400 +0000" stop="20260312032600 +0000" channel="Duck TV Plus.webtv.sk">
+    <title lang="id">Dobrodružstvá malej Ducky</title>
+  </programme>
+  <programme start="20260312032600 +0000" stop="20260312032900 +0000" channel="Duck TV Plus.webtv.sk">
+    <title lang="id">DuckSchool - škola hrou</title>
+  </programme>
+  <programme start="20260312032900 +0000" stop="20260312033200 +0000" channel="Duck TV Plus.webtv.sk">
+    <title lang="id">Teraz sa hráme</title>
+  </programme>
+  <programme start="20260312033200 +0000" stop="20260312033500 +0000" channel="Duck TV Plus.webtv.sk">
+    <title lang="id">Toby McFly</title>
+  </programme>
+  <programme start="20260312033500 +0000" stop="20260312033700 +0000" channel="Duck TV Plus.webtv.sk">
+    <title lang="id">Henryho príbehy</title>
+  </programme>
+  <programme start="20260312033700 +0000" stop="20260312034000 +0000" channel="Duck TV Plus.webtv.sk">
+    <title lang="id">Malí, ale šikovní</title>
+  </programme>
+  <programme start="20260312034000 +0000" stop="20260312034300 +0000" channel="Duck TV Plus.webtv.sk">
+    <title lang="id">Dotty a Kitty</title>
+  </programme>
+  <programme start="20260312034300 +0000" stop="20260312034600 +0000" channel="Duck TV Plus.webtv.sk">
+    <title lang="id">Ako cestujeme</title>
+  </programme>
+  <programme start="20260312034600 +0000" stop="20260312034900 +0000" channel="Duck TV Plus.webtv.sk">
+    <title lang="id">Lola a čísla</title>
+  </programme>
+  <programme start="20260312034900 +0000" stop="20260312035200 +0000" channel="Duck TV Plus.webtv.sk">
+    <title lang="id">Malí, ale šikovní</title>
+  </programme>
+  <programme start="20260312035200 +0000" stop="20260312035400 +0000" channel="Duck TV Plus.webtv.sk">
+    <title lang="id">Ako cestujeme</title>
+  </programme>
+  <programme start="20260312035400 +0000" stop="20260312035800 +0000" channel="Duck TV Plus.webtv.sk">
+    <title lang="id">Dotty a Kitty</title>
+  </programme>
+  <programme start="20260312035800 +0000" stop="20260312040000 +0000" channel="Duck TV Plus.webtv.sk">
+    <title lang="id">Ako cestujeme</title>
+  </programme>
+  <programme start="20260312040000 +0000" stop="20260312040300 +0000" channel="Duck TV Plus.webtv.sk">
+    <title lang="id">Veselá lúka</title>
+  </programme>
+  <programme start="20260312040300 +0000" stop="20260312040600 +0000" channel="Duck TV Plus.webtv.sk">
+    <title lang="id">Margo and Felix</title>
+  </programme>
+  <programme start="20260312040600 +0000" stop="20260312040800 +0000" channel="Duck TV Plus.webtv.sk">
+    <title lang="id">Lola a čísla</title>
+  </programme>
+  <programme start="20260312040800 +0000" stop="20260312041000 +0000" channel="Duck TV Plus.webtv.sk">
+    <title lang="id">Malí, ale šikovní</title>
+  </programme>
+  <programme start="20260312041000 +0000" stop="20260312041400 +0000" channel="Duck TV Plus.webtv.sk">
+    <title lang="id">Veselé kráľovstvo</title>
+  </programme>
+  <programme start="20260312041400 +0000" stop="20260312041600 +0000" channel="Duck TV Plus.webtv.sk">
+    <title lang="id">Lola a čísla</title>
+  </programme>
+  <programme start="20260312041600 +0000" stop="20260312041800 +0000" channel="Duck TV Plus.webtv.sk">
+    <title lang="id">Mini melódie</title>
+  </programme>
+  <programme start="20260312041800 +0000" stop="20260312042100 +0000" channel="Duck TV Plus.webtv.sk">
+    <title lang="id">Aj ja chcem vidieť!</title>
+  </programme>
+  <programme start="20260312042100 +0000" stop="20260312042400 +0000" channel="Duck TV Plus.webtv.sk">
+    <title lang="id">Náučný kútik</title>
+  </programme>
+  <programme start="20260312042400 +0000" stop="20260312042700 +0000" channel="Duck TV Plus.webtv.sk">
+    <title lang="id">V múzeu</title>
+  </programme>
+  <programme start="20260312042700 +0000" stop="20260312043000 +0000" channel="Duck TV Plus.webtv.sk">
+    <title lang="id">Zack and Ziggy</title>
+  </programme>
+  <programme start="20260312043000 +0000" stop="20260312043200 +0000" channel="Duck TV Plus.webtv.sk">
+    <title lang="id">Množiny</title>
+  </programme>
+  <programme start="20260312043200 +0000" stop="20260312043400 +0000" channel="Duck TV Plus.webtv.sk">
+    <title lang="id">Čarovné miesta</title>
+  </programme>
+  <programme start="20260312043400 +0000" stop="20260312043700 +0000" channel="Duck TV Plus.webtv.sk">
+    <title lang="id">Veselá lúka</title>
+  </programme>
+  <programme start="20260312043700 +0000" stop="20260312043900 +0000" channel="Duck TV Plus.webtv.sk">
+    <title lang="id">Henryho príbehy</title>
+  </programme>
+  <programme start="20260312043900 +0000" stop="20260312044200 +0000" channel="Duck TV Plus.webtv.sk">
+    <title lang="id">Množiny</title>
+  </programme>
+  <programme start="20260312044200 +0000" stop="20260312044400 +0000" channel="Duck TV Plus.webtv.sk">
+    <title lang="id">Domáci miláčikovia</title>
+  </programme>
+  <programme start="20260312044400 +0000" stop="20260312044600 +0000" channel="Duck TV Plus.webtv.sk">
+    <title lang="id">Lola a čísla</title>
+  </programme>
+  <programme start="20260312044600 +0000" stop="20260312044800 +0000" channel="Duck TV Plus.webtv.sk">
+    <title lang="id">Mini melódie</title>
+  </programme>
+  <programme start="20260312044800 +0000" stop="20260312045000 +0000" channel="Duck TV Plus.webtv.sk">
+    <title lang="id">Klára a jej farebný svet</title>
+  </programme>
+  <programme start="20260312045000 +0000" stop="20260312045200 +0000" channel="Duck TV Plus.webtv.sk">
+    <title lang="id">Mini melódie</title>
+  </programme>
+  <programme start="20260312045200 +0000" stop="20260312045600 +0000" channel="Duck TV Plus.webtv.sk">
+    <title lang="id">DuckSchool - škola hrou</title>
+  </programme>
+  <programme start="20260312045600 +0000" stop="20260312045800 +0000" channel="Duck TV Plus.webtv.sk">
+    <title lang="id">Tempo Giusto</title>
+  </programme>
+  <programme start="20260312045800 +0000" stop="20260312050200 +0000" channel="Duck TV Plus.webtv.sk">
+    <title lang="id">Albert</title>
+  </programme>
+  <programme start="20260312050200 +0000" stop="20260312050600 +0000" channel="Duck TV Plus.webtv.sk">
+    <title lang="id">Paffy a Tabby</title>
+  </programme>
+  <programme start="20260312050600 +0000" stop="20260312050900 +0000" channel="Duck TV Plus.webtv.sk">
+    <title lang="id">Dotty a Kitty</title>
+  </programme>
+  <programme start="20260312050900 +0000" stop="20260312051200 +0000" channel="Duck TV Plus.webtv.sk">
+    <title lang="id">Lola a čísla</title>
+  </programme>
+  <programme start="20260312051200 +0000" stop="20260312051600 +0000" channel="Duck TV Plus.webtv.sk">
+    <title lang="id">ABC – duckBC</title>
+  </programme>
+  <programme start="20260312051600 +0000" stop="20260312051900 +0000" channel="Duck TV Plus.webtv.sk">
+    <title lang="id">Slnečna dedinka - Športové dni</title>
+  </programme>
+  <programme start="20260312051900 +0000" stop="20260312052100 +0000" channel="Duck TV Plus.webtv.sk">
+    <title lang="id">Leonovo Umenie</title>
+  </programme>
+  <programme start="20260312052100 +0000" stop="20260312052300 +0000" channel="Duck TV Plus.webtv.sk">
+    <title lang="id">Čarovné miesta</title>
+  </programme>
+  <programme start="20260312052300 +0000" stop="20260312052700 +0000" channel="Duck TV Plus.webtv.sk">
+    <title lang="id">Dotty a Kitty</title>
+  </programme>
+  <programme start="20260312052700 +0000" stop="20260312052900 +0000" channel="Duck TV Plus.webtv.sk">
+    <title lang="id">Leonovo Umenie</title>
+  </programme>
+  <programme start="20260312052900 +0000" stop="20260312053400 +0000" channel="Duck TV Plus.webtv.sk">
+    <title lang="id">Mimo and Bobo PLUS</title>
+  </programme>
+  <programme start="20260312053400 +0000" stop="20260312053700 +0000" channel="Duck TV Plus.webtv.sk">
+    <title lang="id">Veselá lúka</title>
+  </programme>
+  <programme start="20260312053700 +0000" stop="20260312054100 +0000" channel="Duck TV Plus.webtv.sk">
+    <title lang="id">Bábiky - záchranársky tím</title>
+  </programme>
+  <programme start="20260312054100 +0000" stop="20260312054400 +0000" channel="Duck TV Plus.webtv.sk">
+    <title lang="id">Risto Gusto</title>
+  </programme>
+  <programme start="20260312054400 +0000" stop="20260312054600 +0000" channel="Duck TV Plus.webtv.sk">
+    <title lang="id">Dobrodružstvá malej Ducky</title>
+  </programme>
+  <programme start="20260312054600 +0000" stop="20260312054900 +0000" channel="Duck TV Plus.webtv.sk">
+    <title lang="id">Svet Hračiek</title>
+  </programme>
+  <programme start="20260312054900 +0000" stop="20260312055200 +0000" channel="Duck TV Plus.webtv.sk">
+    <title lang="id">Svet Hračiek</title>
+  </programme>
+  <programme start="20260312055200 +0000" stop="20260312055500 +0000" channel="Duck TV Plus.webtv.sk">
+    <title lang="id">Bebé Didy</title>
+  </programme>
+  <programme start="20260312055500 +0000" stop="20260312055800 +0000" channel="Duck TV Plus.webtv.sk">
+    <title lang="id">Čarovné miesta</title>
+  </programme>
+  <programme start="20260312055800 +0000" stop="20260312060300 +0000" channel="Duck TV Plus.webtv.sk">
+    <title lang="id">Šport, šport, šport</title>
+  </programme>
+  <programme start="20260312060300 +0000" stop="20260312060600 +0000" channel="Duck TV Plus.webtv.sk">
+    <title lang="id">Slnečna dedinka - Športové dni</title>
+  </programme>
+  <programme start="20260312060600 +0000" stop="20260312060900 +0000" channel="Duck TV Plus.webtv.sk">
+    <title lang="id">Prepojený svet</title>
+  </programme>
+  <programme start="20260312060900 +0000" stop="20260312061300 +0000" channel="Duck TV Plus.webtv.sk">
+    <title lang="id">Reštaurácia</title>
+  </programme>
+  <programme start="20260312061300 +0000" stop="20260312061500 +0000" channel="Duck TV Plus.webtv.sk">
+    <title lang="id">Leonovo Umenie</title>
+  </programme>
+  <programme start="20260312061500 +0000" stop="20260312061800 +0000" channel="Duck TV Plus.webtv.sk">
+    <title lang="id">Ako cestujeme</title>
+  </programme>
+  <programme start="20260312061800 +0000" stop="20260312062000 +0000" channel="Duck TV Plus.webtv.sk">
+    <title lang="id">Lola a čísla</title>
+  </programme>
+  <programme start="20260312062000 +0000" stop="20260312062300 +0000" channel="Duck TV Plus.webtv.sk">
+    <title lang="id">Šport, šport, šport</title>
+  </programme>
+  <programme start="20260312062300 +0000" stop="20260312062600 +0000" channel="Duck TV Plus.webtv.sk">
+    <title lang="id">Čarovné miesta</title>
+  </programme>
+  <programme start="20260312062600 +0000" stop="20260312062800 +0000" channel="Duck TV Plus.webtv.sk">
+    <title lang="id">Vstávať a cvičiť!</title>
+  </programme>
+  <programme start="20260312062800 +0000" stop="20260312063000 +0000" channel="Duck TV Plus.webtv.sk">
+    <title lang="id">Ducky a Priatelia</title>
+  </programme>
+  <programme start="20260312063000 +0000" stop="20260312063300 +0000" channel="Duck TV Plus.webtv.sk">
+    <title lang="id">Čarovné miesta</title>
+  </programme>
+  <programme start="20260312063300 +0000" stop="20260312063600 +0000" channel="Duck TV Plus.webtv.sk">
+    <title lang="id">Rozcvičme sa!</title>
+  </programme>
+  <programme start="20260312063600 +0000" stop="20260312063800 +0000" channel="Duck TV Plus.webtv.sk">
+    <title lang="id">Lola a čísla</title>
+  </programme>
+  <programme start="20260312063800 +0000" stop="20260312064100 +0000" channel="Duck TV Plus.webtv.sk">
+    <title lang="id">Bebé Didy</title>
+  </programme>
+  <programme start="20260312064100 +0000" stop="20260312064300 +0000" channel="Duck TV Plus.webtv.sk">
+    <title lang="id">Vstávať a cvičiť!</title>
+  </programme>
+  <programme start="20260312064300 +0000" stop="20260312064700 +0000" channel="Duck TV Plus.webtv.sk">
+    <title lang="id">Mimo and Bobo PLUS</title>
+  </programme>
+  <programme start="20260312064700 +0000" stop="20260312064900 +0000" channel="Duck TV Plus.webtv.sk">
+    <title lang="id">Vstávať a cvičiť!</title>
+  </programme>
+  <programme start="20260312064900 +0000" stop="20260312065200 +0000" channel="Duck TV Plus.webtv.sk">
+    <title lang="id">Rozcvičme sa!</title>
+  </programme>
+  <programme start="20260312065200 +0000" stop="20260312065400 +0000" channel="Duck TV Plus.webtv.sk">
+    <title lang="id">Vstávať a cvičiť!</title>
+  </programme>
+  <programme start="20260312065400 +0000" stop="20260312065600 +0000" channel="Duck TV Plus.webtv.sk">
+    <title lang="id">Teraz sa hráme</title>
+  </programme>
+  <programme start="20260312065600 +0000" stop="20260312065900 +0000" channel="Duck TV Plus.webtv.sk">
+    <title lang="id">Aj ja chcem vidieť!</title>
+  </programme>
+  <programme start="20260312065900 +0000" stop="20260312070100 +0000" channel="Duck TV Plus.webtv.sk">
+    <title lang="id">Lola a čísla</title>
+  </programme>
+  <programme start="20260312070100 +0000" stop="20260312070400 +0000" channel="Duck TV Plus.webtv.sk">
+    <title lang="id">Rozcvičme sa!</title>
+  </programme>
+  <programme start="20260312070400 +0000" stop="20260312070600 +0000" channel="Duck TV Plus.webtv.sk">
+    <title lang="id">Vstávať a cvičiť!</title>
+  </programme>
+  <programme start="20260312070600 +0000" stop="20260312070800 +0000" channel="Duck TV Plus.webtv.sk">
+    <title lang="id">Rozcvičme sa!</title>
+  </programme>
+  <programme start="20260312070800 +0000" stop="20260312071100 +0000" channel="Duck TV Plus.webtv.sk">
+    <title lang="id">Šport, šport, šport</title>
+  </programme>
+  <programme start="20260312071100 +0000" stop="20260312071300 +0000" channel="Duck TV Plus.webtv.sk">
+    <title lang="id">Vstávať a cvičiť!</title>
+  </programme>
+  <programme start="20260312071300 +0000" stop="20260312071700 +0000" channel="Duck TV Plus.webtv.sk">
+    <title lang="id">Čarovné miesta</title>
+  </programme>
+  <programme start="20260312071700 +0000" stop="20260312072100 +0000" channel="Duck TV Plus.webtv.sk">
+    <title lang="id">Mimo and Bobo PLUS</title>
+  </programme>
+  <programme start="20260312072100 +0000" stop="20260312072300 +0000" channel="Duck TV Plus.webtv.sk">
+    <title lang="id">Lola a čísla</title>
+  </programme>
+  <programme start="20260312072300 +0000" stop="20260312072600 +0000" channel="Duck TV Plus.webtv.sk">
+    <title lang="id">Množiny</title>
+  </programme>
+  <programme start="20260312072600 +0000" stop="20260312072800 +0000" channel="Duck TV Plus.webtv.sk">
+    <title lang="id">Tempo Giusto</title>
+  </programme>
+  <programme start="20260312072800 +0000" stop="20260312073000 +0000" channel="Duck TV Plus.webtv.sk">
+    <title lang="id">Ducky a Priatelia</title>
+  </programme>
+  <programme start="20260312073000 +0000" stop="20260312073200 +0000" channel="Duck TV Plus.webtv.sk">
+    <title lang="id">Náučný kútik</title>
+  </programme>
+  <programme start="20260312073200 +0000" stop="20260312073500 +0000" channel="Duck TV Plus.webtv.sk">
+    <title lang="id">Aj ja chcem vidieť!</title>
+  </programme>
+  <programme start="20260312073500 +0000" stop="20260312073900 +0000" channel="Duck TV Plus.webtv.sk">
+    <title lang="id">Dotty a Kitty</title>
+  </programme>
+  <programme start="20260312073900 +0000" stop="20260312074000 +0000" channel="Duck TV Plus.webtv.sk">
+    <title lang="id">Sladký domov</title>
+  </programme>
+  <programme start="20260312074000 +0000" stop="20260312074200 +0000" channel="Duck TV Plus.webtv.sk">
+    <title lang="id">Zvuky okolo nás</title>
+  </programme>
+  <programme start="20260312074200 +0000" stop="20260312074300 +0000" channel="Duck TV Plus.webtv.sk">
+    <title lang="id">Sladký domov</title>
+  </programme>
+  <programme start="20260312074300 +0000" stop="20260312074800 +0000" channel="Duck TV Plus.webtv.sk">
+    <title lang="id">Náučný kútik</title>
+  </programme>
+  <programme start="20260312074800 +0000" stop="20260312075200 +0000" channel="Duck TV Plus.webtv.sk">
+    <title lang="id">Albert</title>
+  </programme>
+  <programme start="20260312075200 +0000" stop="20260312075400 +0000" channel="Duck TV Plus.webtv.sk">
+    <title lang="id">V múzeu</title>
+  </programme>
+  <programme start="20260312075400 +0000" stop="20260312075500 +0000" channel="Duck TV Plus.webtv.sk">
+    <title lang="id">Pixie 2</title>
+  </programme>
+  <programme start="20260312075500 +0000" stop="20260312075700 +0000" channel="Duck TV Plus.webtv.sk">
+    <title lang="id">DuckSchool - škola hrou</title>
+  </programme>
+  <programme start="20260312075700 +0000" stop="20260312075900 +0000" channel="Duck TV Plus.webtv.sk">
+    <title lang="id">Dobrodružstvá malej Ducky</title>
+  </programme>
+  <programme start="20260312075900 +0000" stop="20260312080200 +0000" channel="Duck TV Plus.webtv.sk">
+    <title lang="id">Albert</title>
+  </programme>
+  <programme start="20260312080200 +0000" stop="20260312080400 +0000" channel="Duck TV Plus.webtv.sk">
+    <title lang="id">Náučný kútik</title>
+  </programme>
+  <programme start="20260312080400 +0000" stop="20260312080700 +0000" channel="Duck TV Plus.webtv.sk">
+    <title lang="id">Množiny</title>
+  </programme>
+  <programme start="20260312080700 +0000" stop="20260312080900 +0000" channel="Duck TV Plus.webtv.sk">
+    <title lang="id">Albert</title>
+  </programme>
+  <programme start="20260312080900 +0000" stop="20260312081100 +0000" channel="Duck TV Plus.webtv.sk">
+    <title lang="id">DuckSchool - škola hrou</title>
+  </programme>
+  <programme start="20260312081100 +0000" stop="20260312081400 +0000" channel="Duck TV Plus.webtv.sk">
+    <title lang="id">Veselá lúka</title>
+  </programme>
+  <programme start="20260312081400 +0000" stop="20260312081700 +0000" channel="Duck TV Plus.webtv.sk">
+    <title lang="id">Náučný kútik</title>
+  </programme>
+  <programme start="20260312081700 +0000" stop="20260312082100 +0000" channel="Duck TV Plus.webtv.sk">
+    <title lang="id">Dotty a Kitty</title>
+  </programme>
+  <programme start="20260312082100 +0000" stop="20260312082300 +0000" channel="Duck TV Plus.webtv.sk">
+    <title lang="id">Lola a čísla</title>
+  </programme>
+  <programme start="20260312082300 +0000" stop="20260312082500 +0000" channel="Duck TV Plus.webtv.sk">
+    <title lang="id">Množiny</title>
+  </programme>
+  <programme start="20260312082500 +0000" stop="20260312082600 +0000" channel="Duck TV Plus.webtv.sk">
+    <title lang="id">Sladký domov</title>
+  </programme>
+  <programme start="20260312082600 +0000" stop="20260312083100 +0000" channel="Duck TV Plus.webtv.sk">
+    <title lang="id">Paffy a Tabby</title>
+  </programme>
+  <programme start="20260312083100 +0000" stop="20260312083300 +0000" channel="Duck TV Plus.webtv.sk">
+    <title lang="id">V múzeu</title>
+  </programme>
+  <programme start="20260312083300 +0000" stop="20260312083700 +0000" channel="Duck TV Plus.webtv.sk">
+    <title lang="id">Paffy a Tabby</title>
+  </programme>
+  <programme start="20260312083700 +0000" stop="20260312084000 +0000" channel="Duck TV Plus.webtv.sk">
+    <title lang="id">V múzeu</title>
+  </programme>
+  <programme start="20260312084000 +0000" stop="20260312084200 +0000" channel="Duck TV Plus.webtv.sk">
+    <title lang="id">Klára a jej farebný svet</title>
+  </programme>
+  <programme start="20260312084200 +0000" stop="20260312084500 +0000" channel="Duck TV Plus.webtv.sk">
+    <title lang="id">Náučný kútik</title>
+  </programme>
+  <programme start="20260312084500 +0000" stop="20260312084700 +0000" channel="Duck TV Plus.webtv.sk">
+    <title lang="id">Čarovné miesta</title>
+  </programme>
+  <programme start="20260312084700 +0000" stop="20260312085000 +0000" channel="Duck TV Plus.webtv.sk">
+    <title lang="id">Množiny</title>
+  </programme>
+  <programme start="20260312085000 +0000" stop="20260312085300 +0000" channel="Duck TV Plus.webtv.sk">
+    <title lang="id">ABC – duckBC</title>
+  </programme>
+  <programme start="20260312085300 +0000" stop="20260312085500 +0000" channel="Duck TV Plus.webtv.sk">
+    <title lang="id">V múzeu</title>
+  </programme>
+  <programme start="20260312085500 +0000" stop="20260312085800 +0000" channel="Duck TV Plus.webtv.sk">
+    <title lang="id">Náučný kútik</title>
+  </programme>
+  <programme start="20260312085800 +0000" stop="20260312090000 +0000" channel="Duck TV Plus.webtv.sk">
+    <title lang="id">Lola a čísla</title>
+  </programme>
+  <programme start="20260312090000 +0000" stop="20260312090100 +0000" channel="Duck TV Plus.webtv.sk">
+    <title lang="id">Pixie 2</title>
+  </programme>
+  <programme start="20260312090100 +0000" stop="20260312090400 +0000" channel="Duck TV Plus.webtv.sk">
+    <title lang="id">Dotty a Kitty</title>
+  </programme>
+  <programme start="20260312090400 +0000" stop="20260312090600 +0000" channel="Duck TV Plus.webtv.sk">
+    <title lang="id">V múzeu</title>
+  </programme>
+  <programme start="20260312090600 +0000" stop="20260312090800 +0000" channel="Duck TV Plus.webtv.sk">
+    <title lang="id">Pixie 2</title>
+  </programme>
+  <programme start="20260312090800 +0000" stop="20260312091000 +0000" channel="Duck TV Plus.webtv.sk">
+    <title lang="id">Čarovné miesta</title>
+  </programme>
+  <programme start="20260312091000 +0000" stop="20260312091200 +0000" channel="Duck TV Plus.webtv.sk">
+    <title lang="id">V múzeu</title>
+  </programme>
+  <programme start="20260312091200 +0000" stop="20260312091400 +0000" channel="Duck TV Plus.webtv.sk">
+    <title lang="id">Domáci miláčikovia</title>
+  </programme>
+  <programme start="20260312091400 +0000" stop="20260312091600 +0000" channel="Duck TV Plus.webtv.sk">
+    <title lang="id">DuckSchool - škola hrou</title>
+  </programme>
+  <programme start="20260312091600 +0000" stop="20260312091900 +0000" channel="Duck TV Plus.webtv.sk">
+    <title lang="id">V múzeu</title>
+  </programme>
+  <programme start="20260312091900 +0000" stop="20260312092000 +0000" channel="Duck TV Plus.webtv.sk">
+    <title lang="id">Pixie 2</title>
+  </programme>
+  <programme start="20260312092000 +0000" stop="20260312092300 +0000" channel="Duck TV Plus.webtv.sk">
+    <title lang="id">Albert</title>
+  </programme>
+  <programme start="20260312092300 +0000" stop="20260312092600 +0000" channel="Duck TV Plus.webtv.sk">
+    <title lang="id">Malí, ale šikovní</title>
+  </programme>
+  <programme start="20260312092600 +0000" stop="20260312092800 +0000" channel="Duck TV Plus.webtv.sk">
+    <title lang="id">Ako cestujeme</title>
+  </programme>
+  <programme start="20260312092800 +0000" stop="20260312093200 +0000" channel="Duck TV Plus.webtv.sk">
+    <title lang="id">Bebé Didy</title>
+  </programme>
+  <programme start="20260312093200 +0000" stop="20260312093400 +0000" channel="Duck TV Plus.webtv.sk">
+    <title lang="id">Malí, ale šikovní</title>
+  </programme>
+  <programme start="20260312093400 +0000" stop="20260312093700 +0000" channel="Duck TV Plus.webtv.sk">
+    <title lang="id">Bebé Didy</title>
+  </programme>
+  <programme start="20260312093700 +0000" stop="20260312094000 +0000" channel="Duck TV Plus.webtv.sk">
+    <title lang="id">Malí, ale šikovní</title>
+  </programme>
+  <programme start="20260312094000 +0000" stop="20260312094300 +0000" channel="Duck TV Plus.webtv.sk">
+    <title lang="id">Bebé Didy</title>
+  </programme>
+  <programme start="20260312094300 +0000" stop="20260312094500 +0000" channel="Duck TV Plus.webtv.sk">
+    <title lang="id">Cubie</title>
+  </programme>
+  <programme start="20260312094500 +0000" stop="20260312094800 +0000" channel="Duck TV Plus.webtv.sk">
+    <title lang="id">Malí, ale šikovní</title>
+  </programme>
+  <programme start="20260312094800 +0000" stop="20260312095100 +0000" channel="Duck TV Plus.webtv.sk">
+    <title lang="id">Bebé Didy</title>
+  </programme>
+  <programme start="20260312095100 +0000" stop="20260312095300 +0000" channel="Duck TV Plus.webtv.sk">
+    <title lang="id">Malí, ale šikovní</title>
+  </programme>
+  <programme start="20260312095300 +0000" stop="20260312095600 +0000" channel="Duck TV Plus.webtv.sk">
+    <title lang="id">Bebé Didy</title>
+  </programme>
+  <programme start="20260312095600 +0000" stop="20260312095900 +0000" channel="Duck TV Plus.webtv.sk">
+    <title lang="id">Malí, ale šikovní</title>
+  </programme>
+  <programme start="20260312095900 +0000" stop="20260312100200 +0000" channel="Duck TV Plus.webtv.sk">
+    <title lang="id">Bebé Didy</title>
+  </programme>
+  <programme start="20260312100200 +0000" stop="20260312100400 +0000" channel="Duck TV Plus.webtv.sk">
+    <title lang="id">Malí, ale šikovní</title>
+  </programme>
+  <programme start="20260312100400 +0000" stop="20260312100600 +0000" channel="Duck TV Plus.webtv.sk">
+    <title lang="id">Bebé Didy</title>
+  </programme>
+  <programme start="20260312100600 +0000" stop="20260312101000 +0000" channel="Duck TV Plus.webtv.sk">
+    <title lang="id">Bebé Didy</title>
+  </programme>
+  <programme start="20260312101000 +0000" stop="20260312101200 +0000" channel="Duck TV Plus.webtv.sk">
+    <title lang="id">Bebé Didy</title>
+  </programme>
+  <programme start="20260312101200 +0000" stop="20260312101400 +0000" channel="Duck TV Plus.webtv.sk">
+    <title lang="id">Tempo Giusto</title>
+  </programme>
+  <programme start="20260312101400 +0000" stop="20260312101700 +0000" channel="Duck TV Plus.webtv.sk">
+    <title lang="id">Toby McFly</title>
+  </programme>
+  <programme start="20260312101700 +0000" stop="20260312102000 +0000" channel="Duck TV Plus.webtv.sk">
+    <title lang="id">Bebé Didy</title>
+  </programme>
+  <programme start="20260312102000 +0000" stop="20260312102200 +0000" channel="Duck TV Plus.webtv.sk">
+    <title lang="id">Henryho príbehy</title>
+  </programme>
+  <programme start="20260312102200 +0000" stop="20260312102600 +0000" channel="Duck TV Plus.webtv.sk">
+    <title lang="id">Bábiky - záchranársky tím</title>
+  </programme>
+  <programme start="20260312102600 +0000" stop="20260312102800 +0000" channel="Duck TV Plus.webtv.sk">
+    <title lang="id">Leonovo Umenie</title>
+  </programme>
+  <programme start="20260312102800 +0000" stop="20260312103200 +0000" channel="Duck TV Plus.webtv.sk">
+    <title lang="id">Slnečná dedinka</title>
+  </programme>
+  <programme start="20260312103200 +0000" stop="20260312103400 +0000" channel="Duck TV Plus.webtv.sk">
+    <title lang="id">Čarovné miesta</title>
+  </programme>
+  <programme start="20260312103400 +0000" stop="20260312103700 +0000" channel="Duck TV Plus.webtv.sk">
+    <title lang="id">Veselé kráľovstvo</title>
+  </programme>
+  <programme start="20260312103700 +0000" stop="20260312104000 +0000" channel="Duck TV Plus.webtv.sk">
+    <title lang="id">Prepojený svet</title>
+  </programme>
+  <programme start="20260312104000 +0000" stop="20260312104200 +0000" channel="Duck TV Plus.webtv.sk">
+    <title lang="id">Ducky a Priatelia</title>
+  </programme>
+  <programme start="20260312104200 +0000" stop="20260312104700 +0000" channel="Duck TV Plus.webtv.sk">
+    <title lang="id">Milo Dino</title>
+  </programme>
+  <programme start="20260312104700 +0000" stop="20260312104900 +0000" channel="Duck TV Plus.webtv.sk">
+    <title lang="id">Ducky a Fluffy</title>
+  </programme>
+  <programme start="20260312104900 +0000" stop="20260312105100 +0000" channel="Duck TV Plus.webtv.sk">
+    <title lang="id">Ducky a Priatelia</title>
+  </programme>
+  <programme start="20260312105100 +0000" stop="20260312105400 +0000" channel="Duck TV Plus.webtv.sk">
+    <title lang="id">Čarovné miesta</title>
+  </programme>
+  <programme start="20260312105400 +0000" stop="20260312105600 +0000" channel="Duck TV Plus.webtv.sk">
+    <title lang="id">Teraz sa hráme</title>
+  </programme>
+  <programme start="20260312105600 +0000" stop="20260312110000 +0000" channel="Duck TV Plus.webtv.sk">
+    <title lang="id">Vesmírne dobrodružstvá</title>
+  </programme>
+  <programme start="20260312110000 +0000" stop="20260312110200 +0000" channel="Duck TV Plus.webtv.sk">
+    <title lang="id">Bebé Didy</title>
+  </programme>
+  <programme start="20260312110200 +0000" stop="20260312110600 +0000" channel="Duck TV Plus.webtv.sk">
+    <title lang="id">Slnečná dedinka</title>
+  </programme>
+  <programme start="20260312110600 +0000" stop="20260312110900 +0000" channel="Duck TV Plus.webtv.sk">
+    <title lang="id">Reštaurácia</title>
+  </programme>
+  <programme start="20260312110900 +0000" stop="20260312111100 +0000" channel="Duck TV Plus.webtv.sk">
+    <title lang="id">Svet Hračiek</title>
+  </programme>
+  <programme start="20260312111100 +0000" stop="20260312111500 +0000" channel="Duck TV Plus.webtv.sk">
+    <title lang="id">Milo Dino</title>
+  </programme>
+  <programme start="20260312111500 +0000" stop="20260312111800 +0000" channel="Duck TV Plus.webtv.sk">
+    <title lang="id">Prepojený svet</title>
+  </programme>
+  <programme start="20260312111800 +0000" stop="20260312112000 +0000" channel="Duck TV Plus.webtv.sk">
+    <title lang="id">Ducky a Fluffy</title>
+  </programme>
+  <programme start="20260312112000 +0000" stop="20260312112300 +0000" channel="Duck TV Plus.webtv.sk">
+    <title lang="id">Čarovné miesta</title>
+  </programme>
+  <programme start="20260312112300 +0000" stop="20260312112600 +0000" channel="Duck TV Plus.webtv.sk">
+    <title lang="id">Prepojený svet</title>
+  </programme>
+  <programme start="20260312112600 +0000" stop="20260312113100 +0000" channel="Duck TV Plus.webtv.sk">
+    <title lang="id">Vesmírne dobrodružstvá</title>
+  </programme>
+  <programme start="20260312113100 +0000" stop="20260312113400 +0000" channel="Duck TV Plus.webtv.sk">
+    <title lang="id">Slnečná dedinka</title>
+  </programme>
+  <programme start="20260312113400 +0000" stop="20260312113800 +0000" channel="Duck TV Plus.webtv.sk">
+    <title lang="id">Reštaurácia</title>
+  </programme>
+  <programme start="20260312113800 +0000" stop="20260312114100 +0000" channel="Duck TV Plus.webtv.sk">
+    <title lang="id">Toby McFly</title>
+  </programme>
+  <programme start="20260312114100 +0000" stop="20260312114300 +0000" channel="Duck TV Plus.webtv.sk">
+    <title lang="id">Malí, ale šikovní</title>
+  </programme>
+  <programme start="20260312114300 +0000" stop="20260312114600 +0000" channel="Duck TV Plus.webtv.sk">
+    <title lang="id">Teraz sa hráme</title>
+  </programme>
+  <programme start="20260312114600 +0000" stop="20260312114900 +0000" channel="Duck TV Plus.webtv.sk">
+    <title lang="id">Paffy a Tabby</title>
+  </programme>
+  <programme start="20260312114900 +0000" stop="20260312115200 +0000" channel="Duck TV Plus.webtv.sk">
+    <title lang="id">Prepojený svet</title>
+  </programme>
+  <programme start="20260312115200 +0000" stop="20260312115500 +0000" channel="Duck TV Plus.webtv.sk">
+    <title lang="id">Svet Hračiek</title>
+  </programme>
+  <programme start="20260312115500 +0000" stop="20260312115900 +0000" channel="Duck TV Plus.webtv.sk">
+    <title lang="id">Reštaurácia</title>
+  </programme>
+  <programme start="20260312115900 +0000" stop="20260312120400 +0000" channel="Duck TV Plus.webtv.sk">
+    <title lang="id">Milo Dino</title>
+  </programme>
+  <programme start="20260312120400 +0000" stop="20260312120600 +0000" channel="Duck TV Plus.webtv.sk">
+    <title lang="id">Leonovo Umenie</title>
+  </programme>
+  <programme start="20260312120600 +0000" stop="20260312120900 +0000" channel="Duck TV Plus.webtv.sk">
+    <title lang="id">Svet Hračiek</title>
+  </programme>
+  <programme start="20260312120900 +0000" stop="20260312121300 +0000" channel="Duck TV Plus.webtv.sk">
+    <title lang="id">Vesmírne dobrodružstvá</title>
+  </programme>
+  <programme start="20260312121300 +0000" stop="20260312121600 +0000" channel="Duck TV Plus.webtv.sk">
+    <title lang="id">Veselá lúka</title>
+  </programme>
+  <programme start="20260312121600 +0000" stop="20260312122100 +0000" channel="Duck TV Plus.webtv.sk">
+    <title lang="id">Slnečná dedinka</title>
+  </programme>
+  <programme start="20260312122100 +0000" stop="20260312122300 +0000" channel="Duck TV Plus.webtv.sk">
+    <title lang="id">Teraz sa hráme</title>
+  </programme>
+  <programme start="20260312122300 +0000" stop="20260312122600 +0000" channel="Duck TV Plus.webtv.sk">
+    <title lang="id">Veselé kráľovstvo</title>
+  </programme>
+  <programme start="20260312122600 +0000" stop="20260312122800 +0000" channel="Duck TV Plus.webtv.sk">
+    <title lang="id">Teraz sa hráme</title>
+  </programme>
+  <programme start="20260312122800 +0000" stop="20260312123200 +0000" channel="Duck TV Plus.webtv.sk">
+    <title lang="id">Slnečná dedinka</title>
+  </programme>
+  <programme start="20260312123200 +0000" stop="20260312123400 +0000" channel="Duck TV Plus.webtv.sk">
+    <title lang="id">Lola a čísla</title>
+  </programme>
+  <programme start="20260312123400 +0000" stop="20260312123700 +0000" channel="Duck TV Plus.webtv.sk">
+    <title lang="id">V múzeu</title>
+  </programme>
+  <programme start="20260312123700 +0000" stop="20260312124000 +0000" channel="Duck TV Plus.webtv.sk">
+    <title lang="id">Dotty a Kitty</title>
+  </programme>
+  <programme start="20260312124000 +0000" stop="20260312124300 +0000" channel="Duck TV Plus.webtv.sk">
+    <title lang="id">Množiny</title>
+  </programme>
+  <programme start="20260312124300 +0000" stop="20260312124500 +0000" channel="Duck TV Plus.webtv.sk">
+    <title lang="id">DuckSchool - škola hrou</title>
+  </programme>
+  <programme start="20260312124500 +0000" stop="20260312124700 +0000" channel="Duck TV Plus.webtv.sk">
+    <title lang="id">Domáci miláčikovia</title>
+  </programme>
+  <programme start="20260312124700 +0000" stop="20260312124900 +0000" channel="Duck TV Plus.webtv.sk">
+    <title lang="id">Klára a jej farebný svet</title>
+  </programme>
+  <programme start="20260312124900 +0000" stop="20260312125100 +0000" channel="Duck TV Plus.webtv.sk">
+    <title lang="id">Domáci miláčikovia</title>
+  </programme>
+  <programme start="20260312125100 +0000" stop="20260312125400 +0000" channel="Duck TV Plus.webtv.sk">
+    <title lang="id">ABC – duckBC</title>
+  </programme>
+  <programme start="20260312125400 +0000" stop="20260312125500 +0000" channel="Duck TV Plus.webtv.sk">
+    <title lang="id">Sladký domov</title>
+  </programme>
+  <programme start="20260312125500 +0000" stop="20260312125700 +0000" channel="Duck TV Plus.webtv.sk">
+    <title lang="id">Domáci miláčikovia</title>
+  </programme>
+  <programme start="20260312125700 +0000" stop="20260312125900 +0000" channel="Duck TV Plus.webtv.sk">
+    <title lang="id">DuckSchool - škola hrou</title>
+  </programme>
+  <programme start="20260312125900 +0000" stop="20260312130200 +0000" channel="Duck TV Plus.webtv.sk">
+    <title lang="id">Čarovné miesta</title>
+  </programme>
+  <programme start="20260312130200 +0000" stop="20260312130400 +0000" channel="Duck TV Plus.webtv.sk">
+    <title lang="id">Lola a čísla</title>
+  </programme>
+  <programme start="20260312130400 +0000" stop="20260312130500 +0000" channel="Duck TV Plus.webtv.sk">
+    <title lang="id">Sladký domov</title>
+  </programme>
+  <programme start="20260312130500 +0000" stop="20260312130700 +0000" channel="Duck TV Plus.webtv.sk">
+    <title lang="id">Klára a jej farebný svet</title>
+  </programme>
+  <programme start="20260312130700 +0000" stop="20260312131100 +0000" channel="Duck TV Plus.webtv.sk">
+    <title lang="id">Veselá lúka</title>
+  </programme>
+  <programme start="20260312131100 +0000" stop="20260312131200 +0000" channel="Duck TV Plus.webtv.sk">
+    <title lang="id">Sladký domov</title>
+  </programme>
+  <programme start="20260312131200 +0000" stop="20260312131400 +0000" channel="Duck TV Plus.webtv.sk">
+    <title lang="id">Mini melódie</title>
+  </programme>
+  <programme start="20260312131400 +0000" stop="20260312131700 +0000" channel="Duck TV Plus.webtv.sk">
+    <title lang="id">Množiny</title>
+  </programme>
+  <programme start="20260312131700 +0000" stop="20260312131900 +0000" channel="Duck TV Plus.webtv.sk">
+    <title lang="id">Lola a čísla</title>
+  </programme>
+  <programme start="20260312131900 +0000" stop="20260312132200 +0000" channel="Duck TV Plus.webtv.sk">
+    <title lang="id">V múzeu</title>
+  </programme>
+  <programme start="20260312132200 +0000" stop="20260312132400 +0000" channel="Duck TV Plus.webtv.sk">
+    <title lang="id">Domáci miláčikovia</title>
+  </programme>
+  <programme start="20260312132400 +0000" stop="20260312132700 +0000" channel="Duck TV Plus.webtv.sk">
+    <title lang="id">Náučný kútik</title>
+  </programme>
+  <programme start="20260312132700 +0000" stop="20260312132800 +0000" channel="Duck TV Plus.webtv.sk">
+    <title lang="id">Sladký domov</title>
+  </programme>
+  <programme start="20260312132800 +0000" stop="20260312133000 +0000" channel="Duck TV Plus.webtv.sk">
+    <title lang="id">Mini melódie</title>
+  </programme>
+  <programme start="20260312133000 +0000" stop="20260312133400 +0000" channel="Duck TV Plus.webtv.sk">
+    <title lang="id">Lola a čísla</title>
+  </programme>
+  <programme start="20260312133400 +0000" stop="20260312133600 +0000" channel="Duck TV Plus.webtv.sk">
+    <title lang="id">Lola a čísla</title>
+  </programme>
+  <programme start="20260312133600 +0000" stop="20260312133800 +0000" channel="Duck TV Plus.webtv.sk">
+    <title lang="id">Šport, šport, šport</title>
+  </programme>
+  <programme start="20260312133800 +0000" stop="20260312134100 +0000" channel="Duck TV Plus.webtv.sk">
+    <title lang="id">Čarovné miesta</title>
+  </programme>
+  <programme start="20260312134100 +0000" stop="20260312134300 +0000" channel="Duck TV Plus.webtv.sk">
+    <title lang="id">Teraz sa hráme</title>
+  </programme>
+  <programme start="20260312134300 +0000" stop="20260312134500 +0000" channel="Duck TV Plus.webtv.sk">
+    <title lang="id">Lola a čísla</title>
+  </programme>
+  <programme start="20260312134500 +0000" stop="20260312134700 +0000" channel="Duck TV Plus.webtv.sk">
+    <title lang="id">Rozcvičme sa!</title>
+  </programme>
+  <programme start="20260312134700 +0000" stop="20260312135000 +0000" channel="Duck TV Plus.webtv.sk">
+    <title lang="id">Šport, šport, šport</title>
+  </programme>
+  <programme start="20260312135000 +0000" stop="20260312135200 +0000" channel="Duck TV Plus.webtv.sk">
+    <title lang="id">Teraz sa hráme</title>
+  </programme>
+  <programme start="20260312135200 +0000" stop="20260312135600 +0000" channel="Duck TV Plus.webtv.sk">
+    <title lang="id">Mimo and Bobo PLUS</title>
+  </programme>
+  <programme start="20260312135600 +0000" stop="20260312135900 +0000" channel="Duck TV Plus.webtv.sk">
+    <title lang="id">Šport, šport, šport</title>
+  </programme>
+  <programme start="20260312135900 +0000" stop="20260312140100 +0000" channel="Duck TV Plus.webtv.sk">
+    <title lang="id">Teraz sa hráme</title>
+  </programme>
+  <programme start="20260312140100 +0000" stop="20260312140400 +0000" channel="Duck TV Plus.webtv.sk">
+    <title lang="id">Čarovné miesta</title>
+  </programme>
+  <programme start="20260312140400 +0000" stop="20260312140600 +0000" channel="Duck TV Plus.webtv.sk">
+    <title lang="id">Šport, šport, šport</title>
+  </programme>
+  <programme start="20260312140600 +0000" stop="20260312140800 +0000" channel="Duck TV Plus.webtv.sk">
+    <title lang="id">Vstávať a cvičiť!</title>
+  </programme>
+  <programme start="20260312140800 +0000" stop="20260312141100 +0000" channel="Duck TV Plus.webtv.sk">
+    <title lang="id">Teraz sa hráme</title>
+  </programme>
+  <programme start="20260312141100 +0000" stop="20260312141300 +0000" channel="Duck TV Plus.webtv.sk">
+    <title lang="id">Čarovné miesta</title>
+  </programme>
+  <programme start="20260312141300 +0000" stop="20260312141600 +0000" channel="Duck TV Plus.webtv.sk">
+    <title lang="id">Lola a čísla</title>
+  </programme>
+  <programme start="20260312141600 +0000" stop="20260312141800 +0000" channel="Duck TV Plus.webtv.sk">
+    <title lang="id">Vstávať a cvičiť!</title>
+  </programme>
+  <programme start="20260312141800 +0000" stop="20260312142100 +0000" channel="Duck TV Plus.webtv.sk">
+    <title lang="id">Šport, šport, šport</title>
+  </programme>
+  <programme start="20260312142100 +0000" stop="20260312142300 +0000" channel="Duck TV Plus.webtv.sk">
+    <title lang="id">Lola a čísla</title>
+  </programme>
+  <programme start="20260312142300 +0000" stop="20260312142600 +0000" channel="Duck TV Plus.webtv.sk">
+    <title lang="id">Šport, šport, šport</title>
+  </programme>
+  <programme start="20260312142600 +0000" stop="20260312142800 +0000" channel="Duck TV Plus.webtv.sk">
+    <title lang="id">Vstávať a cvičiť!</title>
+  </programme>
+  <programme start="20260312142800 +0000" stop="20260312143100 +0000" channel="Duck TV Plus.webtv.sk">
+    <title lang="id">Šport, šport, šport</title>
+  </programme>
+  <programme start="20260312143100 +0000" stop="20260312143300 +0000" channel="Duck TV Plus.webtv.sk">
+    <title lang="id">Lola a čísla</title>
+  </programme>
+  <programme start="20260312143300 +0000" stop="20260312143600 +0000" channel="Duck TV Plus.webtv.sk">
+    <title lang="id">Šport, šport, šport</title>
+  </programme>
+  <programme start="20260312143600 +0000" stop="20260312143900 +0000" channel="Duck TV Plus.webtv.sk">
+    <title lang="id">Zvuky okolo nás</title>
+  </programme>
+  <programme start="20260312143900 +0000" stop="20260312144100 +0000" channel="Duck TV Plus.webtv.sk">
+    <title lang="id">Cubie</title>
+  </programme>
+  <programme start="20260312144100 +0000" stop="20260312144500 +0000" channel="Duck TV Plus.webtv.sk">
+    <title lang="id">Mimo and Bobo PLUS</title>
+  </programme>
+  <programme start="20260312144500 +0000" stop="20260312144700 +0000" channel="Duck TV Plus.webtv.sk">
+    <title lang="id">Ducky a Fluffy</title>
+  </programme>
+  <programme start="20260312144700 +0000" stop="20260312145000 +0000" channel="Duck TV Plus.webtv.sk">
+    <title lang="id">Margo and Felix</title>
+  </programme>
+  <programme start="20260312145000 +0000" stop="20260312145200 +0000" channel="Duck TV Plus.webtv.sk">
+    <title lang="id">Dobrodružstvá malej Ducky</title>
+  </programme>
+  <programme start="20260312145200 +0000" stop="20260312145500 +0000" channel="Duck TV Plus.webtv.sk">
+    <title lang="id">Slnečna dedinka - Športové dni</title>
+  </programme>
+  <programme start="20260312145500 +0000" stop="20260312145800 +0000" channel="Duck TV Plus.webtv.sk">
+    <title lang="id">Dotty a Kitty</title>
+  </programme>
+  <programme start="20260312145800 +0000" stop="20260312150100 +0000" channel="Duck TV Plus.webtv.sk">
+    <title lang="id">V múzeu</title>
+  </programme>
+  <programme start="20260312150100 +0000" stop="20260312150400 +0000" channel="Duck TV Plus.webtv.sk">
+    <title lang="id">Malí, ale šikovní</title>
+  </programme>
+  <programme start="20260312150400 +0000" stop="20260312150700 +0000" channel="Duck TV Plus.webtv.sk">
+    <title lang="id">Náučný kútik</title>
+  </programme>
+  <programme start="20260312150700 +0000" stop="20260312151000 +0000" channel="Duck TV Plus.webtv.sk">
+    <title lang="id">Lola a čísla</title>
+  </programme>
+  <programme start="20260312151000 +0000" stop="20260312151300 +0000" channel="Duck TV Plus.webtv.sk">
+    <title lang="id">Veselá lúka</title>
+  </programme>
+  <programme start="20260312151300 +0000" stop="20260312151600 +0000" channel="Duck TV Plus.webtv.sk">
+    <title lang="id">Prepojený svet</title>
+  </programme>
+  <programme start="20260312151600 +0000" stop="20260312151900 +0000" channel="Duck TV Plus.webtv.sk">
+    <title lang="id">Množiny</title>
+  </programme>
+  <programme start="20260312151900 +0000" stop="20260312152100 +0000" channel="Duck TV Plus.webtv.sk">
+    <title lang="id">Malí, ale šikovní</title>
+  </programme>
+  <programme start="20260312152100 +0000" stop="20260312152300 +0000" channel="Duck TV Plus.webtv.sk">
+    <title lang="id">Lola a čísla</title>
+  </programme>
+  <programme start="20260312152300 +0000" stop="20260312152500 +0000" channel="Duck TV Plus.webtv.sk">
+    <title lang="id">Ducky a Priatelia</title>
+  </programme>
+  <programme start="20260312152500 +0000" stop="20260312152700 +0000" channel="Duck TV Plus.webtv.sk">
+    <title lang="id">Bebé Didy</title>
+  </programme>
+  <programme start="20260312152700 +0000" stop="20260312153100 +0000" channel="Duck TV Plus.webtv.sk">
+    <title lang="id">Dotty a Kitty</title>
+  </programme>
+  <programme start="20260312153100 +0000" stop="20260312153400 +0000" channel="Duck TV Plus.webtv.sk">
+    <title lang="id">Zack and Ziggy</title>
+  </programme>
+  <programme start="20260312153400 +0000" stop="20260312153700 +0000" channel="Duck TV Plus.webtv.sk">
+    <title lang="id">Risto Gusto</title>
+  </programme>
+  <programme start="20260312153700 +0000" stop="20260312153900 +0000" channel="Duck TV Plus.webtv.sk">
+    <title lang="id">Lola a čísla</title>
+  </programme>
+  <programme start="20260312153900 +0000" stop="20260312154200 +0000" channel="Duck TV Plus.webtv.sk">
+    <title lang="id">Šport, šport, šport</title>
+  </programme>
+  <programme start="20260312154200 +0000" stop="20260312154500 +0000" channel="Duck TV Plus.webtv.sk">
+    <title lang="id">Lola a čísla</title>
+  </programme>
+  <programme start="20260312154500 +0000" stop="20260312154800 +0000" channel="Duck TV Plus.webtv.sk">
+    <title lang="id">Teraz sa hráme</title>
+  </programme>
+  <programme start="20260312154800 +0000" stop="20260312155200 +0000" channel="Duck TV Plus.webtv.sk">
+    <title lang="id">Šport, šport, šport</title>
+  </programme>
+  <programme start="20260312155200 +0000" stop="20260312155500 +0000" channel="Duck TV Plus.webtv.sk">
+    <title lang="id">Teraz sa hráme</title>
+  </programme>
+  <programme start="20260312155500 +0000" stop="20260312155900 +0000" channel="Duck TV Plus.webtv.sk">
+    <title lang="id">Šport, šport, šport</title>
+  </programme>
+  <programme start="20260312155900 +0000" stop="20260312160200 +0000" channel="Duck TV Plus.webtv.sk">
+    <title lang="id">Teraz sa hráme</title>
+  </programme>
+  <programme start="20260312160200 +0000" stop="20260312160400 +0000" channel="Duck TV Plus.webtv.sk">
+    <title lang="id">Šport, šport, šport</title>
+  </programme>
+  <programme start="20260312160400 +0000" stop="20260312160700 +0000" channel="Duck TV Plus.webtv.sk">
+    <title lang="id">Teraz sa hráme</title>
+  </programme>
+  <programme start="20260312160700 +0000" stop="20260312161000 +0000" channel="Duck TV Plus.webtv.sk">
+    <title lang="id">Šport, šport, šport</title>
+  </programme>
+  <programme start="20260312161000 +0000" stop="20260312161300 +0000" channel="Duck TV Plus.webtv.sk">
+    <title lang="id">Šport, šport, šport</title>
+  </programme>
+  <programme start="20260312161300 +0000" stop="20260312161500 +0000" channel="Duck TV Plus.webtv.sk">
+    <title lang="id">Teraz sa hráme</title>
+  </programme>
+  <programme start="20260312161500 +0000" stop="20260312161800 +0000" channel="Duck TV Plus.webtv.sk">
+    <title lang="id">Šport, šport, šport</title>
+  </programme>
+  <programme start="20260312161800 +0000" stop="20260312162100 +0000" channel="Duck TV Plus.webtv.sk">
+    <title lang="id">Teraz sa hráme</title>
+  </programme>
+  <programme start="20260312162100 +0000" stop="20260312162400 +0000" channel="Duck TV Plus.webtv.sk">
+    <title lang="id">Šport, šport, šport</title>
+  </programme>
+  <programme start="20260312162400 +0000" stop="20260312162600 +0000" channel="Duck TV Plus.webtv.sk">
+    <title lang="id">Teraz sa hráme</title>
+  </programme>
+  <programme start="20260312162600 +0000" stop="20260312162800 +0000" channel="Duck TV Plus.webtv.sk">
+    <title lang="id">Teraz sa hráme</title>
+  </programme>
+  <programme start="20260312162800 +0000" stop="20260312162900 +0000" channel="Duck TV Plus.webtv.sk">
+    <title lang="id">Teraz sa hráme</title>
+  </programme>
+  <programme start="20260312162900 +0000" stop="20260312163200 +0000" channel="Duck TV Plus.webtv.sk">
+    <title lang="id">Teraz sa hráme</title>
+  </programme>
+  <programme start="20260312163200 +0000" stop="20260312163500 +0000" channel="Duck TV Plus.webtv.sk">
+    <title lang="id">Teraz sa hráme</title>
+  </programme>
+  <programme start="20260312163500 +0000" stop="20260312163700 +0000" channel="Duck TV Plus.webtv.sk">
+    <title lang="id">Teraz sa hráme</title>
+  </programme>
+  <programme start="20260312163700 +0000" stop="20260312163900 +0000" channel="Duck TV Plus.webtv.sk">
+    <title lang="id">Teraz sa hráme</title>
+  </programme>
+  <programme start="20260312163900 +0000" stop="20260312164100 +0000" channel="Duck TV Plus.webtv.sk">
+    <title lang="id">Lola a čísla</title>
+  </programme>
+  <programme start="20260312164100 +0000" stop="20260312164400 +0000" channel="Duck TV Plus.webtv.sk">
+    <title lang="id">Množiny</title>
+  </programme>
+  <programme start="20260312164400 +0000" stop="20260312164700 +0000" channel="Duck TV Plus.webtv.sk">
+    <title lang="id">V múzeu</title>
+  </programme>
+  <programme start="20260312164700 +0000" stop="20260312164900 +0000" channel="Duck TV Plus.webtv.sk">
+    <title lang="id">Mini melódie</title>
+  </programme>
+  <programme start="20260312164900 +0000" stop="20260312165000 +0000" channel="Duck TV Plus.webtv.sk">
+    <title lang="id">Sladký domov</title>
+  </programme>
+  <programme start="20260312165000 +0000" stop="20260312165300 +0000" channel="Duck TV Plus.webtv.sk">
+    <title lang="id">Veselá lúka</title>
+  </programme>
+  <programme start="20260312165300 +0000" stop="20260312165500 +0000" channel="Duck TV Plus.webtv.sk">
+    <title lang="id">Lola a čísla</title>
+  </programme>
+  <programme start="20260312165500 +0000" stop="20260312165800 +0000" channel="Duck TV Plus.webtv.sk">
+    <title lang="id">Veselá lúka</title>
+  </programme>
+  <programme start="20260312165800 +0000" stop="20260312170000 +0000" channel="Duck TV Plus.webtv.sk">
+    <title lang="id">Klára a jej farebný svet</title>
+  </programme>
+  <programme start="20260312170000 +0000" stop="20260312170300 +0000" channel="Duck TV Plus.webtv.sk">
+    <title lang="id">V múzeu</title>
+  </programme>
+  <programme start="20260312170300 +0000" stop="20260312170400 +0000" channel="Duck TV Plus.webtv.sk">
+    <title lang="id">Sladký domov</title>
+  </programme>
+  <programme start="20260312170400 +0000" stop="20260312170600 +0000" channel="Duck TV Plus.webtv.sk">
+    <title lang="id">Množiny</title>
+  </programme>
+  <programme start="20260312170600 +0000" stop="20260312170900 +0000" channel="Duck TV Plus.webtv.sk">
+    <title lang="id">Dotty a Kitty</title>
+  </programme>
+  <programme start="20260312170900 +0000" stop="20260312171100 +0000" channel="Duck TV Plus.webtv.sk">
+    <title lang="id">Lola a čísla</title>
+  </programme>
+  <programme start="20260312171100 +0000" stop="20260312171300 +0000" channel="Duck TV Plus.webtv.sk">
+    <title lang="id">Mini melódie</title>
+  </programme>
+  <programme start="20260312171300 +0000" stop="20260312171600 +0000" channel="Duck TV Plus.webtv.sk">
+    <title lang="id">Náučný kútik</title>
+  </programme>
+  <programme start="20260312171600 +0000" stop="20260312171800 +0000" channel="Duck TV Plus.webtv.sk">
+    <title lang="id">Domáci miláčikovia</title>
+  </programme>
+  <programme start="20260312171800 +0000" stop="20260312172100 +0000" channel="Duck TV Plus.webtv.sk">
+    <title lang="id">Dotty a Kitty</title>
+  </programme>
+  <programme start="20260312172100 +0000" stop="20260312172300 +0000" channel="Duck TV Plus.webtv.sk">
+    <title lang="id">Množiny</title>
+  </programme>
+  <programme start="20260312172300 +0000" stop="20260312172700 +0000" channel="Duck TV Plus.webtv.sk">
+    <title lang="id">Dotty a Kitty</title>
+  </programme>
+  <programme start="20260312172700 +0000" stop="20260312172900 +0000" channel="Duck TV Plus.webtv.sk">
+    <title lang="id">Domáci miláčikovia</title>
+  </programme>
+  <programme start="20260312172900 +0000" stop="20260312173000 +0000" channel="Duck TV Plus.webtv.sk">
+    <title lang="id">Sladký domov</title>
+  </programme>
+  <programme start="20260312173000 +0000" stop="20260312173100 +0000" channel="Duck TV Plus.webtv.sk">
+    <title lang="id">Pixie 2</title>
+  </programme>
+  <programme start="20260312173100 +0000" stop="20260312173300 +0000" channel="Duck TV Plus.webtv.sk">
+    <title lang="id">Sladký domov</title>
+  </programme>
+  <programme start="20260312173300 +0000" stop="20260312173500 +0000" channel="Duck TV Plus.webtv.sk">
+    <title lang="id">Náučný kútik</title>
+  </programme>
+  <programme start="20260312173500 +0000" stop="20260312173900 +0000" channel="Duck TV Plus.webtv.sk">
+    <title lang="id">Dotty a Kitty</title>
+  </programme>
+  <programme start="20260312173900 +0000" stop="20260312174300 +0000" channel="Duck TV Plus.webtv.sk">
+    <title lang="id">Náučný kútik</title>
+  </programme>
+  <programme start="20260312174300 +0000" stop="20260312174500 +0000" channel="Duck TV Plus.webtv.sk">
+    <title lang="id">Lola a čísla</title>
+  </programme>
+  <programme start="20260312174500 +0000" stop="20260312174800 +0000" channel="Duck TV Plus.webtv.sk">
+    <title lang="id">ABC – duckBC</title>
+  </programme>
+  <programme start="20260312174800 +0000" stop="20260312175100 +0000" channel="Duck TV Plus.webtv.sk">
+    <title lang="id">Malí, ale šikovní</title>
+  </programme>
+  <programme start="20260312175100 +0000" stop="20260312175300 +0000" channel="Duck TV Plus.webtv.sk">
+    <title lang="id">Bebé Didy</title>
+  </programme>
+  <programme start="20260312175300 +0000" stop="20260312175500 +0000" channel="Duck TV Plus.webtv.sk">
+    <title lang="id">Tempo Giusto</title>
+  </programme>
+  <programme start="20260312175500 +0000" stop="20260312175700 +0000" channel="Duck TV Plus.webtv.sk">
+    <title lang="id">Lola a čísla</title>
+  </programme>
+  <programme start="20260312175700 +0000" stop="20260312180000 +0000" channel="Duck TV Plus.webtv.sk">
+    <title lang="id">Aj ja chcem vidieť!</title>
+  </programme>
+  <programme start="20260312180000 +0000" stop="20260312180400 +0000" channel="Duck TV Plus.webtv.sk">
+    <title lang="id">Dotty a Kitty</title>
+  </programme>
+  <programme start="20260312180400 +0000" stop="20260312180700 +0000" channel="Duck TV Plus.webtv.sk">
+    <title lang="id">Lola a čísla</title>
+  </programme>
+  <programme start="20260312180700 +0000" stop="20260312180900 +0000" channel="Duck TV Plus.webtv.sk">
+    <title lang="id">Ducky a Priatelia</title>
+  </programme>
+  <programme start="20260312180900 +0000" stop="20260312181200 +0000" channel="Duck TV Plus.webtv.sk">
+    <title lang="id">Reštaurácia</title>
+  </programme>
+  <programme start="20260312181200 +0000" stop="20260312181500 +0000" channel="Duck TV Plus.webtv.sk">
+    <title lang="id">Zvuky okolo nás</title>
+  </programme>
+  <programme start="20260312181500 +0000" stop="20260312181700 +0000" channel="Duck TV Plus.webtv.sk">
+    <title lang="id">Teraz sa hráme</title>
+  </programme>
+  <programme start="20260312181700 +0000" stop="20260312182000 +0000" channel="Duck TV Plus.webtv.sk">
+    <title lang="id">Dotty a Kitty</title>
+  </programme>
+  <programme start="20260312182000 +0000" stop="20260312182300 +0000" channel="Duck TV Plus.webtv.sk">
+    <title lang="id">Cubie</title>
+  </programme>
+  <programme start="20260312182300 +0000" stop="20260312182600 +0000" channel="Duck TV Plus.webtv.sk">
+    <title lang="id">Malí, ale šikovní</title>
+  </programme>
+  <programme start="20260312182600 +0000" stop="20260312182800 +0000" channel="Duck TV Plus.webtv.sk">
+    <title lang="id">Henryho príbehy</title>
+  </programme>
+  <programme start="20260312182800 +0000" stop="20260312183000 +0000" channel="Duck TV Plus.webtv.sk">
+    <title lang="id">Bebé Didy</title>
+  </programme>
+  <programme start="20260312183000 +0000" stop="20260312183300 +0000" channel="Duck TV Plus.webtv.sk">
+    <title lang="id">Toby McFly</title>
+  </programme>
+  <programme start="20260312183300 +0000" stop="20260312183500 +0000" channel="Duck TV Plus.webtv.sk">
+    <title lang="id">Lola a čísla</title>
+  </programme>
+  <programme start="20260312183500 +0000" stop="20260312183800 +0000" channel="Duck TV Plus.webtv.sk">
+    <title lang="id">Margo and Felix</title>
+  </programme>
+  <programme start="20260312183800 +0000" stop="20260312184000 +0000" channel="Duck TV Plus.webtv.sk">
+    <title lang="id">Ako cestujeme</title>
+  </programme>
+  <programme start="20260312184000 +0000" stop="20260312184400 +0000" channel="Duck TV Plus.webtv.sk">
+    <title lang="id">Bebé Didy</title>
+  </programme>
+  <programme start="20260312184400 +0000" stop="20260312184700 +0000" channel="Duck TV Plus.webtv.sk">
+    <title lang="id">Toby McFly</title>
+  </programme>
+  <programme start="20260312184700 +0000" stop="20260312184900 +0000" channel="Duck TV Plus.webtv.sk">
+    <title lang="id">Tempo Giusto</title>
+  </programme>
+  <programme start="20260312184900 +0000" stop="20260312185100 +0000" channel="Duck TV Plus.webtv.sk">
+    <title lang="id">Ako cestujeme</title>
+  </programme>
+  <programme start="20260312185100 +0000" stop="20260312185400 +0000" channel="Duck TV Plus.webtv.sk">
+    <title lang="id">Paffy a Tabby</title>
+  </programme>
+  <programme start="20260312185400 +0000" stop="20260312185600 +0000" channel="Duck TV Plus.webtv.sk">
+    <title lang="id">Ducky a Priatelia</title>
+  </programme>
+  <programme start="20260312185600 +0000" stop="20260312185900 +0000" channel="Duck TV Plus.webtv.sk">
+    <title lang="id">Slnečná dedinka</title>
+  </programme>
+  <programme start="20260312185900 +0000" stop="20260312190200 +0000" channel="Duck TV Plus.webtv.sk">
+    <title lang="id">Paffy a Tabby</title>
+  </programme>
+  <programme start="20260312190200 +0000" stop="20260312190500 +0000" channel="Duck TV Plus.webtv.sk">
+    <title lang="id">Bebé Didy</title>
+  </programme>
+  <programme start="20260312190500 +0000" stop="20260312190800 +0000" channel="Duck TV Plus.webtv.sk">
+    <title lang="id">Margo and Felix</title>
+  </programme>
+  <programme start="20260312190800 +0000" stop="20260312191000 +0000" channel="Duck TV Plus.webtv.sk">
+    <title lang="id">Zvuky okolo nás</title>
+  </programme>
+  <programme start="20260312191000 +0000" stop="20260312191200 +0000" channel="Duck TV Plus.webtv.sk">
+    <title lang="id">Čarovné miesta</title>
+  </programme>
+  <programme start="20260312191200 +0000" stop="20260312191500 +0000" channel="Duck TV Plus.webtv.sk">
+    <title lang="id">Malí, ale šikovní</title>
+  </programme>
+  <programme start="20260312191500 +0000" stop="20260312191700 +0000" channel="Duck TV Plus.webtv.sk">
+    <title lang="id">Čarovné miesta</title>
+  </programme>
+  <programme start="20260312191700 +0000" stop="20260312192000 +0000" channel="Duck TV Plus.webtv.sk">
+    <title lang="id">Slnečná dedinka</title>
+  </programme>
+  <programme start="20260312192000 +0000" stop="20260312192200 +0000" channel="Duck TV Plus.webtv.sk">
+    <title lang="id">Henryho príbehy</title>
+  </programme>
+  <programme start="20260312192200 +0000" stop="20260312192400 +0000" channel="Duck TV Plus.webtv.sk">
+    <title lang="id">Čarovné miesta</title>
+  </programme>
+  <programme start="20260312192400 +0000" stop="20260312192700 +0000" channel="Duck TV Plus.webtv.sk">
+    <title lang="id">Množiny</title>
+  </programme>
+  <programme start="20260312192700 +0000" stop="20260312193100 +0000" channel="Duck TV Plus.webtv.sk">
+    <title lang="id">Slnečná dedinka</title>
+  </programme>
+  <programme start="20260312193100 +0000" stop="20260312193400 +0000" channel="Duck TV Plus.webtv.sk">
+    <title lang="id">Aj ja chcem vidieť!</title>
+  </programme>
+  <programme start="20260312193400 +0000" stop="20260312193600 +0000" channel="Duck TV Plus.webtv.sk">
+    <title lang="id">Lola a čísla</title>
+  </programme>
+  <programme start="20260312193600 +0000" stop="20260312193900 +0000" channel="Duck TV Plus.webtv.sk">
+    <title lang="id">Reštaurácia</title>
+  </programme>
+  <programme start="20260312193900 +0000" stop="20260312194200 +0000" channel="Duck TV Plus.webtv.sk">
+    <title lang="id">Zack and Ziggy</title>
+  </programme>
+  <programme start="20260312194200 +0000" stop="20260312194600 +0000" channel="Duck TV Plus.webtv.sk">
+    <title lang="id">Niekde za dúhou</title>
+  </programme>
+  <programme start="20260312194600 +0000" stop="20260312194800 +0000" channel="Duck TV Plus.webtv.sk">
+    <title lang="id">Klára a jej farebný svet</title>
+  </programme>
+  <programme start="20260312194800 +0000" stop="20260312195100 +0000" channel="Duck TV Plus.webtv.sk">
+    <title lang="id">Bebé Didy</title>
+  </programme>
+  <programme start="20260312195100 +0000" stop="20260312195400 +0000" channel="Duck TV Plus.webtv.sk">
+    <title lang="id">DuckSchool - škola hrou</title>
+  </programme>
+  <programme start="20260312195400 +0000" stop="20260312195700 +0000" channel="Duck TV Plus.webtv.sk">
+    <title lang="id">Ako cestujeme</title>
+  </programme>
+  <programme start="20260312195700 +0000" stop="20260312200000 +0000" channel="Duck TV Plus.webtv.sk">
+    <title lang="id">Veselé kráľovstvo</title>
+  </programme>
+  <programme start="20260312200000 +0000" stop="20260312200200 +0000" channel="Duck TV Plus.webtv.sk">
+    <title lang="id">Malí, ale šikovní</title>
+  </programme>
+  <programme start="20260312200200 +0000" stop="20260312200500 +0000" channel="Duck TV Plus.webtv.sk">
+    <title lang="id">Dotty a Kitty</title>
+  </programme>
+  <programme start="20260312200500 +0000" stop="20260312200800 +0000" channel="Duck TV Plus.webtv.sk">
+    <title lang="id">Reštaurácia</title>
+  </programme>
+  <programme start="20260312200800 +0000" stop="20260312201000 +0000" channel="Duck TV Plus.webtv.sk">
+    <title lang="id">DuckSchool - škola hrou</title>
+  </programme>
+  <programme start="20260312201000 +0000" stop="20260312201300 +0000" channel="Duck TV Plus.webtv.sk">
+    <title lang="id">Cubie</title>
+  </programme>
+  <programme start="20260312201300 +0000" stop="20260312201600 +0000" channel="Duck TV Plus.webtv.sk">
+    <title lang="id">Bebé Didy</title>
+  </programme>
+  <programme start="20260312201600 +0000" stop="20260312201900 +0000" channel="Duck TV Plus.webtv.sk">
+    <title lang="id">Ako cestujeme</title>
+  </programme>
+  <programme start="20260312201900 +0000" stop="20260312202200 +0000" channel="Duck TV Plus.webtv.sk">
+    <title lang="id">Bebé Didy</title>
+  </programme>
+  <programme start="20260312202200 +0000" stop="20260312202400 +0000" channel="Duck TV Plus.webtv.sk">
+    <title lang="id">Ducky a Priatelia</title>
+  </programme>
+  <programme start="20260312202400 +0000" stop="20260312202700 +0000" channel="Duck TV Plus.webtv.sk">
+    <title lang="id">Malí, ale šikovní</title>
+  </programme>
+  <programme start="20260312202700 +0000" stop="20260312202900 +0000" channel="Duck TV Plus.webtv.sk">
+    <title lang="id">Teraz sa hráme</title>
+  </programme>
+  <programme start="20260312202900 +0000" stop="20260312203200 +0000" channel="Duck TV Plus.webtv.sk">
+    <title lang="id">Reštaurácia</title>
+  </programme>
+  <programme start="20260312203200 +0000" stop="20260312203500 +0000" channel="Duck TV Plus.webtv.sk">
+    <title lang="id">Ako cestujeme</title>
+  </programme>
+  <programme start="20260312203500 +0000" stop="20260312203800 +0000" channel="Duck TV Plus.webtv.sk">
+    <title lang="id">Bebé Didy</title>
+  </programme>
+  <programme start="20260312203800 +0000" stop="20260312204100 +0000" channel="Duck TV Plus.webtv.sk">
+    <title lang="id">Ako cestujeme</title>
+  </programme>
+  <programme start="20260312204100 +0000" stop="20260312204300 +0000" channel="Duck TV Plus.webtv.sk">
+    <title lang="id">Malí, ale šikovní</title>
+  </programme>
+  <programme start="20260312204300 +0000" stop="20260312204700 +0000" channel="Duck TV Plus.webtv.sk">
+    <title lang="id">Teraz sa hráme</title>
+  </programme>
+  <programme start="20260312204700 +0000" stop="20260312205000 +0000" channel="Duck TV Plus.webtv.sk">
+    <title lang="id">Bebé Didy</title>
+  </programme>
+  <programme start="20260312205000 +0000" stop="20260312205300 +0000" channel="Duck TV Plus.webtv.sk">
+    <title lang="id">Slnečná dedinka</title>
+  </programme>
+  <programme start="20260312205300 +0000" stop="20260312205600 +0000" channel="Duck TV Plus.webtv.sk">
+    <title lang="id">Ako cestujeme</title>
+  </programme>
+  <programme start="20260312205600 +0000" stop="20260312205900 +0000" channel="Duck TV Plus.webtv.sk">
+    <title lang="id">Veselá lúka</title>
+  </programme>
+  <programme start="20260312205900 +0000" stop="20260312210200 +0000" channel="Duck TV Plus.webtv.sk">
+    <title lang="id">Slnečná dedinka</title>
+  </programme>
+  <programme start="20260312210200 +0000" stop="20260312210400 +0000" channel="Duck TV Plus.webtv.sk">
+    <title lang="id">Bebé Didy</title>
+  </programme>
+  <programme start="20260312210400 +0000" stop="20260312210600 +0000" channel="Duck TV Plus.webtv.sk">
+    <title lang="id">Teraz sa hráme</title>
+  </programme>
+  <programme start="20260312210600 +0000" stop="20260312211000 +0000" channel="Duck TV Plus.webtv.sk">
+    <title lang="id">Vesmírne dobrodružstvá</title>
+  </programme>
+  <programme start="20260312211000 +0000" stop="20260312211300 +0000" channel="Duck TV Plus.webtv.sk">
+    <title lang="id">Slnečná dedinka</title>
+  </programme>
+  <programme start="20260312211300 +0000" stop="20260312211700 +0000" channel="Duck TV Plus.webtv.sk">
+    <title lang="id">Bebé Didy</title>
+  </programme>
+  <programme start="20260312211700 +0000" stop="20260312212000 +0000" channel="Duck TV Plus.webtv.sk">
+    <title lang="id">Svet Hračiek</title>
+  </programme>
+  <programme start="20260312212000 +0000" stop="20260312212300 +0000" channel="Duck TV Plus.webtv.sk">
+    <title lang="id">Malí, ale šikovní</title>
+  </programme>
+  <programme start="20260312212300 +0000" stop="20260312212600 +0000" channel="Duck TV Plus.webtv.sk">
+    <title lang="id">Toby McFly</title>
+  </programme>
+  <programme start="20260312212600 +0000" stop="20260312212900 +0000" channel="Duck TV Plus.webtv.sk">
+    <title lang="id">Slnečná dedinka</title>
+  </programme>
+  <programme start="20260312212900 +0000" stop="20260312213300 +0000" channel="Duck TV Plus.webtv.sk">
+    <title lang="id">Milo Dino</title>
+  </programme>
+  <programme start="20260312213300 +0000" stop="20260312213600 +0000" channel="Duck TV Plus.webtv.sk">
+    <title lang="id">Leonovo Umenie</title>
+  </programme>
+  <programme start="20260312213600 +0000" stop="20260312213900 +0000" channel="Duck TV Plus.webtv.sk">
+    <title lang="id">Paffy a Tabby</title>
+  </programme>
+  <programme start="20260312213900 +0000" stop="20260312214300 +0000" channel="Duck TV Plus.webtv.sk">
+    <title lang="id">Reštaurácia</title>
+  </programme>
+  <programme start="20260312214300 +0000" stop="20260312214700 +0000" channel="Duck TV Plus.webtv.sk">
+    <title lang="id">Mimo and Bobo PLUS</title>
+  </programme>
+  <programme start="20260312214700 +0000" stop="20260312215000 +0000" channel="Duck TV Plus.webtv.sk">
+    <title lang="id">Teraz sa hráme</title>
+  </programme>
+  <programme start="20260312215000 +0000" stop="20260312215300 +0000" channel="Duck TV Plus.webtv.sk">
+    <title lang="id">Slnečná dedinka</title>
+  </programme>
+  <programme start="20260312215300 +0000" stop="20260312215500 +0000" channel="Duck TV Plus.webtv.sk">
+    <title lang="id">Lola a čísla</title>
+  </programme>
+  <programme start="20260312215500 +0000" stop="20260312215600 +0000" channel="Duck TV Plus.webtv.sk">
+    <title lang="id">Sladký domov</title>
+  </programme>
+  <programme start="20260312215600 +0000" stop="20260312215900 +0000" channel="Duck TV Plus.webtv.sk">
+    <title lang="id">Náučný kútik</title>
+  </programme>
+  <programme start="20260312215900 +0000" stop="20260312220000 +0000" channel="Duck TV Plus.webtv.sk">
+    <title lang="id">Sladký domov</title>
+  </programme>
+  <programme start="20260312220000 +0000" stop="20260312220200 +0000" channel="Duck TV Plus.webtv.sk">
+    <title lang="id">Náučný kútik</title>
+  </programme>
+  <programme start="20260312220200 +0000" stop="20260312220500 +0000" channel="Duck TV Plus.webtv.sk">
+    <title lang="id">Dotty a Kitty</title>
+  </programme>
+  <programme start="20260312220500 +0000" stop="20260312220600 +0000" channel="Duck TV Plus.webtv.sk">
+    <title lang="id">Sladký domov</title>
+  </programme>
+  <programme start="20260312220600 +0000" stop="20260312220700 +0000" channel="Duck TV Plus.webtv.sk">
+    <title lang="id">Pixie 2</title>
+  </programme>
+  <programme start="20260312220700 +0000" stop="20260312221200 +0000" channel="Duck TV Plus.webtv.sk">
+    <title lang="id">Náučný kútik</title>
+  </programme>
+  <programme start="20260312221200 +0000" stop="20260312221300 +0000" channel="Duck TV Plus.webtv.sk">
+    <title lang="id">Pixie 2</title>
+  </programme>
+  <programme start="20260312221300 +0000" stop="20260312221500 +0000" channel="Duck TV Plus.webtv.sk">
+    <title lang="id">Sladký domov</title>
+  </programme>
+  <programme start="20260312221500 +0000" stop="20260312221800 +0000" channel="Duck TV Plus.webtv.sk">
+    <title lang="id">Dotty a Kitty</title>
+  </programme>
+  <programme start="20260312221800 +0000" stop="20260312221900 +0000" channel="Duck TV Plus.webtv.sk">
+    <title lang="id">Sladký domov</title>
+  </programme>
+  <programme start="20260312221900 +0000" stop="20260312222100 +0000" channel="Duck TV Plus.webtv.sk">
+    <title lang="id">Náučný kútik</title>
+  </programme>
+  <programme start="20260312222100 +0000" stop="20260312222300 +0000" channel="Duck TV Plus.webtv.sk">
+    <title lang="id">Sladký domov</title>
+  </programme>
+  <programme start="20260312222300 +0000" stop="20260312222400 +0000" channel="Duck TV Plus.webtv.sk">
+    <title lang="id">Pixie 2</title>
+  </programme>
+  <programme start="20260312222400 +0000" stop="20260312222500 +0000" channel="Duck TV Plus.webtv.sk">
+    <title lang="id">Sladký domov</title>
+  </programme>
+  <programme start="20260312222500 +0000" stop="20260312222600 +0000" channel="Duck TV Plus.webtv.sk">
+    <title lang="id">Pixie 2</title>
+  </programme>
+  <programme start="20260312222600 +0000" stop="20260312222700 +0000" channel="Duck TV Plus.webtv.sk">
+    <title lang="id">Sladký domov</title>
+  </programme>
+  <programme start="20260312222700 +0000" stop="20260312223000 +0000" channel="Duck TV Plus.webtv.sk">
+    <title lang="id">Dotty a Kitty</title>
+  </programme>
+  <programme start="20260312223000 +0000" stop="20260312223400 +0000" channel="Duck TV Plus.webtv.sk">
+    <title lang="id">Náučný kútik</title>
+  </programme>
+  <programme start="20260312223400 +0000" stop="20260312223800 +0000" channel="Duck TV Plus.webtv.sk">
+    <title lang="id">Dotty a Kitty</title>
+  </programme>
+  <programme start="20260312223800 +0000" stop="20260312223900 +0000" channel="Duck TV Plus.webtv.sk">
+    <title lang="id">Pixie 2</title>
+  </programme>
+  <programme start="20260312223900 +0000" stop="20260312224200 +0000" channel="Duck TV Plus.webtv.sk">
+    <title lang="id">Dotty a Kitty</title>
+  </programme>
+  <programme start="20260312224200 +0000" stop="20260312224300 +0000" channel="Duck TV Plus.webtv.sk">
+    <title lang="id">Sladký domov</title>
+  </programme>
+  <programme start="20260312224300 +0000" stop="20260312224400 +0000" channel="Duck TV Plus.webtv.sk">
+    <title lang="id">Pixie 2</title>
+  </programme>
+  <programme start="20260312224400 +0000" stop="20260312224800 +0000" channel="Duck TV Plus.webtv.sk">
+    <title lang="id">Dotty a Kitty</title>
+  </programme>
+  <programme start="20260312224800 +0000" stop="20260312224900 +0000" channel="Duck TV Plus.webtv.sk">
+    <title lang="id">Pixie 2</title>
+  </programme>
+  <programme start="20260312224900 +0000" stop="20260312225400 +0000" channel="Duck TV Plus.webtv.sk">
+    <title lang="id">Dotty a Kitty</title>
+  </programme>
+  <programme start="20260312225400 +0000" stop="20260312225600 +0000" channel="Duck TV Plus.webtv.sk">
+    <title lang="id">Lola a čísla</title>
+  </programme>
+  <programme start="20260312225600 +0000" stop="20260312225800 +0000" channel="Duck TV Plus.webtv.sk">
+    <title lang="id">Teraz sa hráme</title>
+  </programme>
+  <programme start="20260312225800 +0000" stop="20260312230000 +0000" channel="Duck TV Plus.webtv.sk">
+    <title lang="id">Teraz sa hráme</title>
   </programme>
   <programme start="20260311220000 +0000" stop="20260312041000 +0000" channel="Life TV.webtv.sk">
     <title lang="id">Program z Domu modlitieb a chvál v Kansas City</title>
@@ -18000,73 +19188,4 @@
   </programme>
   <programme start="20260312222000 +0000" stop="20260313012000 +0000" channel="Relax.webtv.sk">
     <title lang="id">LUXUSSTORE</title>
-  </programme>
-  <programme start="20260311230000 +0000" stop="20260312010400 +0000" channel="STINGRAY iConcerts.webtv.sk">
-    <title lang="id">AC/DC - Live in Madrid</title>
-  </programme>
-  <programme start="20260312010400 +0000" stop="20260312014300 +0000" channel="STINGRAY iConcerts.webtv.sk">
-    <title lang="id">Bastille - Reading and Leeds Festival 2022</title>
-  </programme>
-  <programme start="20260312014300 +0000" stop="20260312020000 +0000" channel="STINGRAY iConcerts.webtv.sk">
-    <title lang="id">Various Artists - iConcerts Hits</title>
-  </programme>
-  <programme start="20260312020000 +0000" stop="20260312035600 +0000" channel="STINGRAY iConcerts.webtv.sk">
-    <title lang="id">Paul McCartney - The Space Within US</title>
-  </programme>
-  <programme start="20260312035600 +0000" stop="20260312043800 +0000" channel="STINGRAY iConcerts.webtv.sk">
-    <title lang="id">Céline Dion - That&apos;s Just The Woman In Me</title>
-  </programme>
-  <programme start="20260312043800 +0000" stop="20260312050300 +0000" channel="STINGRAY iConcerts.webtv.sk">
-    <title lang="id">Various Artists - iConcerts Hits</title>
-  </programme>
-  <programme start="20260312050300 +0000" stop="20260312063100 +0000" channel="STINGRAY iConcerts.webtv.sk">
-    <title lang="id">Jeff Beck - Rock and Roll Party Honoring Les Paul</title>
-  </programme>
-  <programme start="20260312063100 +0000" stop="20260312065800 +0000" channel="STINGRAY iConcerts.webtv.sk">
-    <title lang="id">Bibi Bourelly - Live at Eurockéennes 2016</title>
-  </programme>
-  <programme start="20260312065800 +0000" stop="20260312075500 +0000" channel="STINGRAY iConcerts.webtv.sk">
-    <title lang="id">Interpol - Rock En Seine</title>
-  </programme>
-  <programme start="20260312075500 +0000" stop="20260312094100 +0000" channel="STINGRAY iConcerts.webtv.sk">
-    <title lang="id">Lenny Kravitz - Live at the iTunes Festival</title>
-  </programme>
-  <programme start="20260312094100 +0000" stop="20260312104100 +0000" channel="STINGRAY iConcerts.webtv.sk">
-    <title lang="id">Prince - The Unauthorized Biography</title>
-  </programme>
-  <programme start="20260312104100 +0000" stop="20260312110000 +0000" channel="STINGRAY iConcerts.webtv.sk">
-    <title lang="id">Various Artists - iConcerts Hits</title>
-  </programme>
-  <programme start="20260312110000 +0000" stop="20260312131900 +0000" channel="STINGRAY iConcerts.webtv.sk">
-    <title lang="id">Eric Clapton &amp; Steve Winwood - Eric Clapton &amp; Steve Winwood - Live from MSG</title>
-  </programme>
-  <programme start="20260312131900 +0000" stop="20260312134400 +0000" channel="STINGRAY iConcerts.webtv.sk">
-    <title lang="id">The Black Keys - Live at Austin City Limits</title>
-  </programme>
-  <programme start="20260312134400 +0000" stop="20260312140000 +0000" channel="STINGRAY iConcerts.webtv.sk">
-    <title lang="id">Various Artists - iConcerts Hits</title>
-  </programme>
-  <programme start="20260312140000 +0000" stop="20260312155100 +0000" channel="STINGRAY iConcerts.webtv.sk">
-    <title lang="id">Diana Krall - Live In Rio</title>
-  </programme>
-  <programme start="20260312155100 +0000" stop="20260312164600 +0000" channel="STINGRAY iConcerts.webtv.sk">
-    <title lang="id">Tom Petty &amp; The Heartbreakers - Live at Soundstage</title>
-  </programme>
-  <programme start="20260312164600 +0000" stop="20260312182900 +0000" channel="STINGRAY iConcerts.webtv.sk">
-    <title lang="id">Melody Gardot - Live at The Olympia Paris</title>
-  </programme>
-  <programme start="20260312182900 +0000" stop="20260312194100 +0000" channel="STINGRAY iConcerts.webtv.sk">
-    <title lang="id">Kasabian - Live at iTunes Festival</title>
-  </programme>
-  <programme start="20260312194100 +0000" stop="20260312200200 +0000" channel="STINGRAY iConcerts.webtv.sk">
-    <title lang="id">Michael Jackson - The Day the Rockstar Died</title>
-  </programme>
-  <programme start="20260312200200 +0000" stop="20260312213700 +0000" channel="STINGRAY iConcerts.webtv.sk">
-    <title lang="id">Ozzy Osbourne - God Bless Ozzy Osbourne</title>
-  </programme>
-  <programme start="20260312213700 +0000" stop="20260312223400 +0000" channel="STINGRAY iConcerts.webtv.sk">
-    <title lang="id">Santana - Plays The Blues: Live at Montreux 2004</title>
-  </programme>
-  <programme start="20260312223400 +0000" stop="20260312230000 +0000" channel="STINGRAY iConcerts.webtv.sk">
-    <title lang="id">Fleetwood Mac - Rock Legends</title>
   </programme>
