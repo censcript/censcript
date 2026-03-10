@@ -62,10 +62,6 @@
     <title>Football: Galatasaray AS - Liverpool FC</title>
     <desc>Live: Tidak</desc>
 </programme>
-<programme start="20260310100000 +0700" stop="20260310120000 +0700" channel="COSMOTE Sport 2 HD">
-    <title>Football: Cagliari - Como</title>
-    <desc>Live: Tidak</desc>
-</programme>
 <programme start="20260310120000 +0700" stop="20260310141500 +0700" channel="COSMOTE Sport 2 HD">
     <title>Football: Volos NPS - OFI</title>
     <desc>Live: Tidak</desc>
@@ -116,6 +112,10 @@
 </programme>
 <programme start="20260311100000 +0700" stop="20260311120000 +0700" channel="COSMOTE Sport 2 HD">
     <title>Football: Lecce - Cremonese</title>
+    <desc>Live: Tidak</desc>
+</programme>
+<programme start="20260311120000 +0700" stop="20260311141000 +0700" channel="COSMOTE Sport 2 HD">
+    <title>Football: Olympiacos - PAOK</title>
     <desc>Live: Tidak</desc>
 </programme>
 <programme start="20260310110000 +0700" stop="20260310130000 +0700" channel="COSMOTE Sport 3 HD">
@@ -240,6 +240,10 @@
 </programme>
 <programme start="20260311110000 +0700" stop="20260311124500 +0700" channel="COSMOTE Sport 4 HD">
     <title>Pick n&#039; Roll</title>
+    <desc>Live: Tidak</desc>
+</programme>
+<programme start="20260311124500 +0700" stop="20260311144500 +0700" channel="COSMOTE Sport 4 HD">
+    <title>Basketball: Badalona - Wurzburg</title>
     <desc>Live: Tidak</desc>
 </programme>
 <programme start="20260310110000 +0700" stop="20260310121500 +0700" channel="COSMOTE Sport 5 HD">

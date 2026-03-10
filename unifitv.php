@@ -15657,69 +15657,69 @@
     <desc lang="en">Relive every goal from the best players in 2024/25 season.</desc>
     <category lang="en">Sports</category>
   </programme>
-  <programme start="20260310030000 +0000" stop="20260310045000 +0000" channel="beinsports.unifitv">
+  <programme start="20260310030000 +0000" stop="20260310050000 +0000" channel="beinsports.unifitv">
     <title lang="en">LaLiga 2 - Malaga vs Valladolid</title>
     <desc lang="en">Extensive coverage from LaLiga 2, Spain's second division of football.</desc>
     <category lang="en">Sports</category>
   </programme>
-  <programme start="20260310045000 +0000" stop="20260310055000 +0000" channel="beinsports.unifitv">
+  <programme start="20260310050000 +0000" stop="20260310060000 +0000" channel="beinsports.unifitv">
     <title lang="en">WRC - Rally Sweden SS1 Umea 1</title>
     <desc lang="en">Join us for an epic motorsport adventure that takes drivers and their production-based cars through challenging terrain in the 54th season of the World Rally Championship.</desc>
     <category lang="en">Sports</category>
   </programme>
-  <programme start="20260310055000 +0000" stop="20260310062000 +0000" channel="beinsports.unifitv">
+  <programme start="20260310060000 +0000" stop="20260310063000 +0000" channel="beinsports.unifitv">
     <title lang="en">Going Pro - Episode Number 3</title>
     <desc lang="en">Behind-the-scenes docuseries, following racer Damon Surzyshyn through his journey from grassroots motorsport to professional Touring Car and GT racecar driver.</desc>
     <category lang="en">Sports</category>
   </programme>
-  <programme start="20260310062000 +0000" stop="20260310065000 +0000" channel="beinsports.unifitv">
+  <programme start="20260310063000 +0000" stop="20260310070000 +0000" channel="beinsports.unifitv">
     <title lang="en">Gearing Up - March</title>
     <desc lang="en">Thrilling racing from the most demanding events around the globe, Gearing Up heads to the toughest events and gets on-board with the sport's heroic drivers.</desc>
     <category lang="en">Sports</category>
   </programme>
-  <programme start="20260310065000 +0000" stop="20260310070500 +0000" channel="beinsports.unifitv">
-    <title lang="en">LaLiga Goals Galore - Lukebakio</title>
-    <desc lang="en">Relive every goal from the best players in 2024/25 season.</desc>
-    <category lang="en">Sports</category>
-  </programme>
-  <programme start="20260310070500 +0000" stop="20260310073500 +0000" channel="beinsports.unifitv">
+  <programme start="20260310070000 +0000" stop="20260310073000 +0000" channel="beinsports.unifitv">
     <title lang="en">LaLiga Mini - Celta Vigo vs Real Madrid</title>
     <desc lang="en">Exclusive coverage from the Spanish LaLiga, Spain's top division of football, with the world's biggest teams and best players.</desc>
     <category lang="en">Sports</category>
   </programme>
-  <programme start="20260310073500 +0000" stop="20260310080500 +0000" channel="beinsports.unifitv">
+  <programme start="20260310073000 +0000" stop="20260310080000 +0000" channel="beinsports.unifitv">
     <title lang="en">LaLiga Mini - Athletic Bilbao vs Barcelona</title>
     <desc lang="en">Exclusive coverage from the Spanish LaLiga, Spain's top division of football, with the world's biggest teams and best players.</desc>
     <category lang="en">Sports</category>
   </programme>
-  <programme start="20260310080500 +0000" stop="20260310095500 +0000" channel="beinsports.unifitv">
+  <programme start="20260310080000 +0000" stop="20260310095000 +0000" channel="beinsports.unifitv">
     <title lang="en">LaLiga - Villarreal vs Elche</title>
     <desc lang="en">Extensive coverage from every round of the Spanish LaLiga, Spain's top division of football with the World's biggest teams.</desc>
     <category lang="en">Sports</category>
   </programme>
-  <programme start="20260310095500 +0000" stop="20260310103000 +0000" channel="beinsports.unifitv">
+  <programme start="20260310095000 +0000" stop="20260310102500 +0000" channel="beinsports.unifitv">
     <title lang="en">Formula 1 Highlights - FORMULA 1 QATAR AIRWAYS AUSTRALIAN GRAND PRIX 2026</title>
     <desc lang="en">Catch up with all the best bits from the weekend's race.</desc>
     <category lang="en">Sports</category>
   </programme>
-  <programme start="20260310103000 +0000" stop="20260310122000 +0000" channel="beinsports.unifitv">
+  <programme start="20260310102500 +0000" stop="20260310121500 +0000" channel="beinsports.unifitv">
     <title lang="en">LaLiga - Sevilla vs Rayo Vallecano</title>
     <desc lang="en">Extensive coverage from every round of the Spanish LaLiga, Spain's top division of football with the World's biggest teams.</desc>
     <category lang="en">Sports</category>
   </programme>
-  <programme start="20260310122000 +0000" stop="20260310141000 +0000" channel="beinsports.unifitv">
+  <programme start="20260310121500 +0000" stop="20260310140500 +0000" channel="beinsports.unifitv">
     <title lang="en">LaLiga - Athletic Bilbao vs Barcelona</title>
     <desc lang="en">Extensive coverage from every round of the Spanish LaLiga, Spain's top division of football with the World's biggest teams.</desc>
     <category lang="en">Sports</category>
   </programme>
-  <programme start="20260310141000 +0000" stop="20260310150000 +0000" channel="beinsports.unifitv">
+  <programme start="20260310140500 +0000" stop="20260310145500 +0000" channel="beinsports.unifitv">
     <title lang="en">FIA Formula 3 Championship Feature Race - Melbourne, Australia</title>
     <desc lang="en">beIN Sports brings you exclusive coverage of the 2026 Formula 3 Championship.</desc>
     <category lang="en">Sports</category>
   </programme>
-  <programme start="20260310150000 +0000" stop="20260310160500 +0000" channel="beinsports.unifitv">
+  <programme start="20260310145500 +0000" stop="20260310155500 +0000" channel="beinsports.unifitv">
     <title lang="en">FIA Formula 2 Championship Feature Race - Melbourne, Australia</title>
     <desc lang="en">beIN Sports brings you live and exclusive coverage of the 2026 Formula 2 Championship.</desc>
+    <category lang="en">Sports</category>
+  </programme>
+  <programme start="20260310155500 +0000" stop="20260310174000 +0000" channel="beinsports.unifitv">
+    <title lang="en">LaLiga - Getafe vs Real Betis</title>
+    <desc lang="en">Extensive coverage from every round of the Spanish LaLiga, Spain's top division of football with the World's biggest teams.</desc>
     <category lang="en">Sports</category>
   </programme>
   <channel id="beinsports2.unifitv">
@@ -15845,13 +15845,13 @@
     <desc lang="en">Catch the Best Matches from the Australian Open 2026</desc>
     <category lang="en">Sports</category>
   </programme>
-  <programme start="20260310134000 +0000" stop="20260310141000 +0000" channel="beinsports2.unifitv">
-    <title lang="en">Australian Open Mini - Men's Singles QF Sinner v Shelton</title>
-    <desc lang="en">The 1st Grand Slam of the year kick start on beIN Sports as the world's best players battle it out to win the 114th edition of the Australian Open.</desc>
+  <programme start="20260310134000 +0000" stop="20260310140000 +0000" channel="beinsports2.unifitv">
+    <title lang="en">HSBC SVNS Series 2026 - Australia vs New Zealand - Singapore Day 2, Women</title>
+    <desc lang="en">Catch the action from the world's very best rugby sevens stars from the top tier of a new three-division global Sevens model, from sunrise to sunset.</desc>
     <category lang="en">Sports</category>
   </programme>
-  <programme start="20260310141000 +0000" stop="20260310161500 +0000" channel="beinsports2.unifitv">
-    <title lang="en">UCI World Tour - Paris-Nice - Stage 3 (L)</title>
+  <programme start="20260310140000 +0000" stop="20260310161500 +0000" channel="beinsports2.unifitv">
+    <title lang="en">UCI World Tour 2026 - Paris-Nice - Stage 3</title>
     <desc lang="en">The highest level of professional road cycling, a series of elite races for men.</desc>
     <category lang="en">Sports</category>
   </programme>
