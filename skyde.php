@@ -1197,80 +1197,143 @@ Warning: Undefined array key "et" in /usr/home/ManusiaBiasa/domains/manusiabiasa
 <programme start="20260310210000 +0000" stop="20260310230000 +0000" channel="Jukebox.skyde">
     <title>JUKEBOX DANCE</title>
 </programme>
-<programme start="20260307230500 +0000" stop="20260308000000 +0000" channel="Motorvision+.skyde">
-    <title>UK Rally Show 2024</title>
+<programme start="20260309230000 +0000" stop="20260309232500 +0000" channel="Motorvision+.skyde">
+    <title>FIM Superenduro World Championship 2024</title>
 </programme>
-<programme start="20260308000000 +0000" stop="20260308003000 +0000" channel="Motorvision+.skyde">
+<programme start="20260309232500 +0000" stop="20260310000000 +0000" channel="Motorvision+.skyde">
+    <title>FIM Enduro World Championship 2025</title>
+</programme>
+<programme start="20260310000000 +0000" stop="20260310003000 +0000" channel="Motorvision+.skyde">
     <title>Infomercial</title>
 </programme>
-<programme start="20260308003000 +0000" stop="20260308010000 +0000" channel="Motorvision+.skyde">
+<programme start="20260310003000 +0000" stop="20260310010000 +0000" channel="Motorvision+.skyde">
     <title>Infomercial</title>
 </programme>
-<programme start="20260308010000 +0000" stop="20260308013000 +0000" channel="Motorvision+.skyde">
+<programme start="20260310010000 +0000" stop="20260310013000 +0000" channel="Motorvision+.skyde">
     <title>Infomercial</title>
 </programme>
-<programme start="20260308013000 +0000" stop="20260308020000 +0000" channel="Motorvision+.skyde">
+<programme start="20260310013000 +0000" stop="20260310021500 +0000" channel="Motorvision+.skyde">
     <title>Infomercial</title>
 </programme>
-<programme start="20260308020000 +0000" stop="20260308022000 +0000" channel="Motorvision+.skyde">
+<programme start="20260310021500 +0000" stop="20260310024500 +0000" channel="Motorvision+.skyde">
     <title>Super Cars</title>
 </programme>
-<programme start="20260308022000 +0000" stop="20260308024500 +0000" channel="Motorvision+.skyde">
-    <title>Gearing Up 2023</title>
+<programme start="20260310024500 +0000" stop="20260310031500 +0000" channel="Motorvision+.skyde">
+    <title>Dream Cars</title>
 </programme>
-<programme start="20260308024500 +0000" stop="20260308031500 +0000" channel="Motorvision+.skyde">
+<programme start="20260310031500 +0000" stop="20260310034000 +0000" channel="Motorvision+.skyde">
     <title>Top Speed Classic</title>
 </programme>
-<programme start="20260308031500 +0000" stop="20260308034000 +0000" channel="Motorvision+.skyde">
-    <title>FIM World Motocross Championship 2023</title>
+<programme start="20260310034000 +0000" stop="20260310041000 +0000" channel="Motorvision+.skyde">
+    <title>Gearing Up 2023</title>
 </programme>
-<programme start="20260308034000 +0000" stop="20260308041000 +0000" channel="Motorvision+.skyde">
+<programme start="20260310041000 +0000" stop="20260310044000 +0000" channel="Motorvision+.skyde">
+    <title>FIM Superenduro World Championship 2024</title>
+</programme>
+<programme start="20260310044000 +0000" stop="20260310050500 +0000" channel="Motorvision+.skyde">
     <title>FastZone 2024</title>
 </programme>
-<programme start="20260308041000 +0000" stop="20260308043500 +0000" channel="Motorvision+.skyde">
-    <title>Icelandic Formula Offroad 2024</title>
+<programme start="20260310050500 +0000" stop="20260310055000 +0000" channel="Motorvision+.skyde">
+    <title>Report</title>
 </programme>
-<programme start="20260308043500 +0000" stop="20260308050000 +0000" channel="Motorvision+.skyde">
+<programme start="20260310055000 +0000" stop="20260310061000 +0000" channel="Motorvision+.skyde">
+    <title>Dumbest Stuff on Wheels</title>
+</programme>
+<programme start="20260310061000 +0000" stop="20260310064000 +0000" channel="Motorvision+.skyde">
+    <title>Abenteuer Allrad</title>
+</programme>
+<programme start="20260310064000 +0000" stop="20260310070500 +0000" channel="Motorvision+.skyde">
+    <title>Bike World 2024</title>
+</programme>
+<programme start="20260310070500 +0000" stop="20260310075500 +0000" channel="Motorvision+.skyde">
+    <title>King of the Roads 2024</title>
+</programme>
+<programme start="20260310075500 +0000" stop="20260310082000 +0000" channel="Motorvision+.skyde">
+    <title>Biker Lifestyle</title>
+</programme>
+<programme start="20260310082000 +0000" stop="20260310084500 +0000" channel="Motorvision+.skyde">
+    <title>Classic</title>
+</programme>
+<programme start="20260310084500 +0000" stop="20260310091500 +0000" channel="Motorvision+.skyde">
+    <title>Classic Ride</title>
+</programme>
+<programme start="20260310091500 +0000" stop="20260310094000 +0000" channel="Motorvision+.skyde">
+    <title>Crash</title>
+</programme>
+<programme start="20260310094000 +0000" stop="20260310100500 +0000" channel="Motorvision+.skyde">
+    <title>Made in....</title>
+</programme>
+<programme start="20260310100500 +0000" stop="20260310103000 +0000" channel="Motorvision+.skyde">
+    <title>Top Speed Classic</title>
+</programme>
+<programme start="20260310103000 +0000" stop="20260310110000 +0000" channel="Motorvision+.skyde">
     <title>Car History</title>
 </programme>
-<programme start="20260308050000 +0000" stop="20260308055000 +0000" channel="Motorvision+.skyde">
-    <title>Goodwood 2025</title>
+<programme start="20260310110000 +0000" stop="20260310113000 +0000" channel="Motorvision+.skyde">
+    <title>FastZone 2024</title>
 </programme>
-<programme start="20260308055000 +0000" stop="20260308063500 +0000" channel="Motorvision+.skyde">
-    <title>Goodwood 2025</title>
+<programme start="20260310113000 +0000" stop="20260310120000 +0000" channel="Motorvision+.skyde">
+    <title>FIM World Motocross Championship 2024</title>
 </programme>
-<programme start="20260308063500 +0000" stop="20260308073000 +0000" channel="Motorvision+.skyde">
-    <title>Goodwood 2025</title>
+<programme start="20260310120000 +0000" stop="20260310122500 +0000" channel="Motorvision+.skyde">
+    <title>Perfect Ride</title>
 </programme>
-<programme start="20260308073000 +0000" stop="20260308082500 +0000" channel="Motorvision+.skyde">
-    <title>Goodwood 2025</title>
+<programme start="20260310122500 +0000" stop="20260310125500 +0000" channel="Motorvision+.skyde">
+    <title>Stunt Heroes</title>
 </programme>
-<programme start="20260308082500 +0000" stop="20260308092000 +0000" channel="Motorvision+.skyde">
+<programme start="20260310125500 +0000" stop="20260310132000 +0000" channel="Motorvision+.skyde">
+    <title>Dream Cars</title>
+</programme>
+<programme start="20260310132000 +0000" stop="20260310135000 +0000" channel="Motorvision+.skyde">
+    <title>Gearing Up 2024</title>
+</programme>
+<programme start="20260310135000 +0000" stop="20260310142000 +0000" channel="Motorvision+.skyde">
+    <title>Grüne Welle</title>
+</programme>
+<programme start="20260310142000 +0000" stop="20260310144500 +0000" channel="Motorvision+.skyde">
+    <title>FIM World Motocross Championship 2024</title>
+</programme>
+<programme start="20260310144500 +0000" stop="20260310153500 +0000" channel="Motorvision+.skyde">
+    <title>Australian Drag Racing Championship 2024</title>
+</programme>
+<programme start="20260310153500 +0000" stop="20260310160000 +0000" channel="Motorvision+.skyde">
+    <title>FIM Enduro World Championship 2024</title>
+</programme>
+<programme start="20260310160000 +0000" stop="20260310165000 +0000" channel="Motorvision+.skyde">
+    <title>Isle of Man Tourist Trophy 2025</title>
+</programme>
+<programme start="20260310165000 +0000" stop="20260310174500 +0000" channel="Motorvision+.skyde">
     <title>FIM X-Trial World Championship 2025</title>
 </programme>
-<programme start="20260308092000 +0000" stop="20260308105000 +0000" channel="Motorvision+.skyde">
-    <title>FIM X-Trial World Championship 2026</title>
+<programme start="20260310174500 +0000" stop="20260310183500 +0000" channel="Motorvision+.skyde">
+    <title>FIM Sidecarcross World Championship 2024</title>
 </programme>
-<programme start="20260308105000 +0000" stop="20260308122000 +0000" channel="Motorvision+.skyde">
-    <title>FIM X-Trial World Championship 2026</title>
+<programme start="20260310183500 +0000" stop="20260310190500 +0000" channel="Motorvision+.skyde">
+    <title>FIM Superenduro World Championship 2024</title>
 </programme>
-<programme start="20260308122000 +0000" stop="20260308134500 +0000" channel="Motorvision+.skyde">
-    <title>FIM X-Trial World Championship 2026</title>
+<programme start="20260310190500 +0000" stop="20260310195000 +0000" channel="Motorvision+.skyde">
+    <title>King of the Roads 2024</title>
 </programme>
-<programme start="20260308134500 +0000" stop="20260308152000 +0000" channel="Motorvision+.skyde">
-    <title>FIM X-Trial World Championship 2026</title>
+<programme start="20260310195000 +0000" stop="20260310202000 +0000" channel="Motorvision+.skyde">
+    <title>Gearing Up 2025</title>
 </programme>
-<programme start="20260308152000 +0000" stop="20260308165500 +0000" channel="Motorvision+.skyde">
-    <title>FIM X-Trial World Championship 2026</title>
+<programme start="20260310202000 +0000" stop="20260310205000 +0000" channel="Motorvision+.skyde">
+    <title>4x4 - Das Allrad Magazin</title>
 </programme>
-<programme start="20260308165500 +0000" stop="20260308200500 +0000" channel="Motorvision+.skyde">
-    <title>FIA GT World Cup Macau</title>
+<programme start="20260310205000 +0000" stop="20260310212000 +0000" channel="Motorvision+.skyde">
+    <title>Alpen Marathon</title>
 </programme>
-<programme start="20260308200500 +0000" stop="20260308213500 +0000" channel="Motorvision+.skyde">
-    <title>FIM X-Trial World Championship 2026</title>
+<programme start="20260310212000 +0000" stop="20260310214500 +0000" channel="Motorvision+.skyde">
+    <title>Bike World 2024</title>
 </programme>
-<programme start="20260308213500 +0000" stop="20260308230500 +0000" channel="Motorvision+.skyde">
-    <title>FIM X-Trial World Championship 2026</title>
+<programme start="20260310214500 +0000" stop="20260310221500 +0000" channel="Motorvision+.skyde">
+    <title>Perfect Ride</title>
+</programme>
+<programme start="20260310221500 +0000" stop="20260310224500 +0000" channel="Motorvision+.skyde">
+    <title>Super Cars</title>
+</programme>
+<programme start="20260310224500 +0000" stop="20260310233000 +0000" channel="Motorvision+.skyde">
+    <title>Road Wars Staffel 7</title>
 </programme>
 <programme start="20260309232000 +0000" stop="20260309234000 +0000" channel="Nick Jr..skyde">
     <title>Rubble &amp; Crew</title>
@@ -2820,6 +2883,57 @@ Warning: Undefined array key "et" in /usr/home/ManusiaBiasa/domains/manusiabiasa
 <programme start="20260310220000 +0000" stop="20260311000000 +0000" channel="Sky Sport Golf HD.skyde">
     <title>TGL: The Bay Golf Club - Jupiter Links Golf Club, 15. Spieltag</title>
 </programme>
+<programme start="20260310003000 +0000" stop="20260310010000 +0000" channel="Sky Sport Mix HD.skyde">
+    <title>NHL: On the Fly</title>
+</programme>
+<programme start="20260310010000 +0000" stop="20260310040000 +0000" channel="Sky Sport Mix HD.skyde">
+    <title>Live NHL: Ottawa Senators @ Vancouver Canucks</title>
+</programme>
+<programme start="20260310040000 +0000" stop="20260310050000 +0000" channel="Sky Sport Mix HD.skyde">
+    <title>MotoGP: Highlights: GP Thailand</title>
+</programme>
+<programme start="20260310050000 +0000" stop="20260310060000 +0000" channel="Sky Sport Mix HD.skyde">
+    <title>3. Liga: Alle Spiele, alle Tore, 28. Spieltag komplett</title>
+</programme>
+<programme start="20260310060000 +0000" stop="20260310074500 +0000" channel="Sky Sport Mix HD.skyde">
+    <title>NHL: Ottawa Senators @ Vancouver Canucks</title>
+</programme>
+<programme start="20260310074500 +0000" stop="20260310084500 +0000" channel="Sky Sport Mix HD.skyde">
+    <title>NBA: Showtime</title>
+</programme>
+<programme start="20260310084500 +0000" stop="20260310110000 +0000" channel="Sky Sport Mix HD.skyde">
+    <title>NBA: Denver Nuggets @ Oklahoma City Thunder</title>
+</programme>
+<programme start="20260310110000 +0000" stop="20260310130000 +0000" channel="Sky Sport Mix HD.skyde">
+    <title>NHL: Ottawa Senators @ Vancouver Canucks</title>
+</programme>
+<programme start="20260310130000 +0000" stop="20260310133000 +0000" channel="Sky Sport Mix HD.skyde">
+    <title>NHL: On the Fly</title>
+</programme>
+<programme start="20260310133000 +0000" stop="20260310160000 +0000" channel="Sky Sport Mix HD.skyde">
+    <title>NBA: New York Knicks @ LA Clippers</title>
+</programme>
+<programme start="20260310160000 +0000" stop="20260310163000 +0000" channel="Sky Sport Mix HD.skyde">
+    <title>Fußball: scooore Niederlande! Alle Tore</title>
+</programme>
+<programme start="20260310163000 +0000" stop="20260310173000 +0000" channel="Sky Sport Mix HD.skyde">
+    <title>3. Liga: Alle Spiele, alle Tore, 28. Spieltag komplett</title>
+</programme>
+<programme start="20260310173000 +0000" stop="20260310193000 +0000" channel="Sky Sport Mix HD.skyde">
+    <title>NHL: Ottawa Senators @ Vancouver Canucks</title>
+</programme>
+<programme start="20260310193000 +0000" stop="20260310200000 +0000" channel="Sky Sport Mix HD.skyde">
+    <title>NHL: On the Fly</title>
+</programme>
+<programme start="20260310200000 +0000" stop="20260310203000 +0000" channel="Sky Sport Mix HD.skyde">
+    <title>Fußball: scooore Niederlande! Alle Tore</title>
+</programme>
+<programme start="20260310203000 +0000" stop="20260310210000 +0000" channel="Sky Sport Mix HD.skyde">
+    <title>NBA: Showtime</title>
+</programme>
+<programme start="20260310210000 +0000" stop="20260310233000 +0000" channel="Sky Sport Mix HD.skyde">
+    <title>NBA: Denver Nuggets @ Oklahoma City Thunder</title>
+</programme>
 <programme start="20260309230000 +0000" stop="20260310000000 +0000" channel="Sky Sport News HD.skyde">
     <title>Sky Sport News: Nightline</title>
 </programme>
@@ -3018,22 +3132,22 @@ Warning: Undefined array key "et" in /usr/home/ManusiaBiasa/domains/manusiabiasa
 <programme start="20260310180000 +0000" stop="20260311050000 +0000" channel="Sky Sport Tennis HD.skyde">
     <title>Live ATP &amp; WTA: Konferenz BNP Paribas Open in Indian Wells, Kalifornien (USA), 7. Tag</title>
 </programme>
-<programme start="20260309233000 +0000" stop="20260310020000 +0000" channel="Sky Sport Top Event HD.skyde">
+<programme start="20260309233000 +0000" stop="20260310022000 +0000" channel="Sky Sport Top Event HD.skyde">
     <title>Live NBA: Denver Nuggets @ Oklahoma City Thunder</title>
 </programme>
-<programme start="20260310020000 +0000" stop="20260310043000 +0000" channel="Sky Sport Top Event HD.skyde">
+<programme start="20260310022000 +0000" stop="20260310044500 +0000" channel="Sky Sport Top Event HD.skyde">
     <title>Live NBA: New York Knicks @ LA Clippers</title>
 </programme>
-<programme start="20260310043000 +0000" stop="20260310050000 +0000" channel="Sky Sport Top Event HD.skyde">
+<programme start="20260310044500 +0000" stop="20260310052000 +0000" channel="Sky Sport Top Event HD.skyde">
     <title>Live NBA: Showtime - Post Show</title>
 </programme>
-<programme start="20260310050000 +0000" stop="20260310053000 +0000" channel="Sky Sport Top Event HD.skyde">
+<programme start="20260310052000 +0000" stop="20260310054500 +0000" channel="Sky Sport Top Event HD.skyde">
     <title>EFL: Highlights, 36. Spieltag</title>
 </programme>
-<programme start="20260310053000 +0000" stop="20260310060000 +0000" channel="Sky Sport Top Event HD.skyde">
+<programme start="20260310054500 +0000" stop="20260310061500 +0000" channel="Sky Sport Top Event HD.skyde">
     <title>EFL: Highlights, 36. Spieltag</title>
 </programme>
-<programme start="20260310060000 +0000" stop="20260310083000 +0000" channel="Sky Sport Top Event HD.skyde">
+<programme start="20260310061500 +0000" stop="20260310083000 +0000" channel="Sky Sport Top Event HD.skyde">
     <title>NBA: Denver Nuggets @ Oklahoma City Thunder</title>
 </programme>
 <programme start="20260310083000 +0000" stop="20260310103000 +0000" channel="Sky Sport Top Event HD.skyde">
@@ -3096,10 +3210,10 @@ Warning: Undefined array key "et" in /usr/home/ManusiaBiasa/domains/manusiabiasa
 <programme start="20260309233000 +0000" stop="20260310022000 +0000" channel="Sky Sport 1 HD.skyde">
     <title>Live NBA: Denver Nuggets @ Oklahoma City Thunder</title>
 </programme>
-<programme start="20260310022000 +0000" stop="20260310044000 +0000" channel="Sky Sport 1 HD.skyde">
+<programme start="20260310022000 +0000" stop="20260310044500 +0000" channel="Sky Sport 1 HD.skyde">
     <title>Live NBA: New York Knicks @ LA Clippers</title>
 </programme>
-<programme start="20260310044000 +0000" stop="20260310090000 +0000" channel="Sky Sport 1 HD.skyde">
+<programme start="20260310044500 +0000" stop="20260310053500 +0000" channel="Sky Sport 1 HD.skyde">
     <title>Live NBA: Showtime - Post Show</title>
 </programme>
 <programme start="20260310224000 +0000" stop="20260310230000 +0000" channel="Sky Sport 1 HD.skyde">
