@@ -4843,120 +4843,6 @@
   <programme start="20260312223000 +0000" stop="20260312230000 +0000" channel="Fashion TV Czech & Slovak.webtv.sk">
     <title lang="id">Designers</title>
   </programme>
-  <programme start="20260311230000 +0000" stop="20260312000000 +0000" channel="Arena Sport 1.webtv.sk">
-    <title lang="id">Naša Garáž</title>
-  </programme>
-  <programme start="20260312000000 +0000" stop="20260312053000 +0000" channel="Arena Sport 1.webtv.sk">
-    <title lang="id">Nočné vysielanie</title>
-  </programme>
-  <programme start="20260312053000 +0000" stop="20260312060000 +0000" channel="Arena Sport 1.webtv.sk">
-    <title lang="id">Motoring</title>
-  </programme>
-  <programme start="20260312060000 +0000" stop="20260312061000 +0000" channel="Arena Sport 1.webtv.sk">
-    <title lang="id">Športové sekundy</title>
-  </programme>
-  <programme start="20260312061000 +0000" stop="20260312062000 +0000" channel="Arena Sport 1.webtv.sk">
-    <title lang="id">Švihák testuje</title>
-  </programme>
-  <programme start="20260312062000 +0000" stop="20260312063500 +0000" channel="Arena Sport 1.webtv.sk">
-    <title lang="id">Martin z Martina</title>
-  </programme>
-  <programme start="20260312063500 +0000" stop="20260312070000 +0000" channel="Arena Sport 1.webtv.sk">
-    <title lang="id">Motoring</title>
-  </programme>
-  <programme start="20260312070000 +0000" stop="20260312080000 +0000" channel="Arena Sport 1.webtv.sk">
-    <title lang="id">GarazTV</title>
-  </programme>
-  <programme start="20260312080000 +0000" stop="20260312083000 +0000" channel="Arena Sport 1.webtv.sk">
-    <title lang="id">Martin z Martina</title>
-  </programme>
-  <programme start="20260312083000 +0000" stop="20260312090000 +0000" channel="Arena Sport 1.webtv.sk">
-    <title lang="id">Autožurnál</title>
-  </programme>
-  <programme start="20260312090000 +0000" stop="20260312093000 +0000" channel="Arena Sport 1.webtv.sk">
-    <title lang="id">GarazTV</title>
-  </programme>
-  <programme start="20260312093000 +0000" stop="20260312100000 +0000" channel="Arena Sport 1.webtv.sk">
-    <title lang="id">Motoring</title>
-  </programme>
-  <programme start="20260312100000 +0000" stop="20260312103000 +0000" channel="Arena Sport 1.webtv.sk">
-    <title lang="id">DRIVE IT - Ondrej Macko</title>
-  </programme>
-  <programme start="20260312103000 +0000" stop="20260312110000 +0000" channel="Arena Sport 1.webtv.sk">
-    <title lang="id">Motoring</title>
-  </programme>
-  <programme start="20260312110000 +0000" stop="20260312113000 +0000" channel="Arena Sport 1.webtv.sk">
-    <title lang="id">DominicCars</title>
-  </programme>
-  <programme start="20260312113000 +0000" stop="20260312114500 +0000" channel="Arena Sport 1.webtv.sk">
-    <title lang="id">Piok Cars</title>
-  </programme>
-  <programme start="20260312114500 +0000" stop="20260312120000 +0000" channel="Arena Sport 1.webtv.sk">
-    <title lang="id">Martin z Martina</title>
-  </programme>
-  <programme start="20260312120000 +0000" stop="20260312121500 +0000" channel="Arena Sport 1.webtv.sk">
-    <title lang="id">Švihák testuje</title>
-  </programme>
-  <programme start="20260312121500 +0000" stop="20260312123000 +0000" channel="Arena Sport 1.webtv.sk">
-    <title lang="id">GarazTV</title>
-  </programme>
-  <programme start="20260312123000 +0000" stop="20260312130000 +0000" channel="Arena Sport 1.webtv.sk">
-    <title lang="id">GarazTV</title>
-  </programme>
-  <programme start="20260312130000 +0000" stop="20260312133000 +0000" channel="Arena Sport 1.webtv.sk">
-    <title lang="id">DominicCars</title>
-  </programme>
-  <programme start="20260312133000 +0000" stop="20260312140000 +0000" channel="Arena Sport 1.webtv.sk">
-    <title lang="id">Piok Cars</title>
-  </programme>
-  <programme start="20260312140000 +0000" stop="20260312141500 +0000" channel="Arena Sport 1.webtv.sk">
-    <title lang="id">Martin z Martina</title>
-  </programme>
-  <programme start="20260312141500 +0000" stop="20260312151500 +0000" channel="Arena Sport 1.webtv.sk">
-    <title lang="id">Motoring</title>
-  </programme>
-  <programme start="20260312151500 +0000" stop="20260312153000 +0000" channel="Arena Sport 1.webtv.sk">
-    <title lang="id">Švihák testuje</title>
-  </programme>
-  <programme start="20260312153000 +0000" stop="20260312161500 +0000" channel="Arena Sport 1.webtv.sk">
-    <title lang="id">Autožurnál</title>
-  </programme>
-  <programme start="20260312161500 +0000" stop="20260312170000 +0000" channel="Arena Sport 1.webtv.sk">
-    <title lang="id">Autožurnál</title>
-  </programme>
-  <programme start="20260312170000 +0000" stop="20260312173000 +0000" channel="Arena Sport 1.webtv.sk">
-    <title lang="id">GarazTV</title>
-  </programme>
-  <programme start="20260312173000 +0000" stop="20260312180000 +0000" channel="Arena Sport 1.webtv.sk">
-    <title lang="id">GarazTV</title>
-  </programme>
-  <programme start="20260312180000 +0000" stop="20260312183000 +0000" channel="Arena Sport 1.webtv.sk">
-    <title lang="id">DominicCars</title>
-  </programme>
-  <programme start="20260312183000 +0000" stop="20260312190000 +0000" channel="Arena Sport 1.webtv.sk">
-    <title lang="id">MM Automotive</title>
-  </programme>
-  <programme start="20260312190000 +0000" stop="20260312193000 +0000" channel="Arena Sport 1.webtv.sk">
-    <title lang="id">Motoring</title>
-  </programme>
-  <programme start="20260312193000 +0000" stop="20260312203000 +0000" channel="Arena Sport 1.webtv.sk">
-    <title lang="id">GarazTV</title>
-  </programme>
-  <programme start="20260312203000 +0000" stop="20260312210000 +0000" channel="Arena Sport 1.webtv.sk">
-    <title lang="id">GarazTV</title>
-  </programme>
-  <programme start="20260312210000 +0000" stop="20260312213000 +0000" channel="Arena Sport 1.webtv.sk">
-    <title lang="id">Motoring</title>
-  </programme>
-  <programme start="20260312213000 +0000" stop="20260312220000 +0000" channel="Arena Sport 1.webtv.sk">
-    <title lang="id">Autožurnál</title>
-  </programme>
-  <programme start="20260312220000 +0000" stop="20260312223000 +0000" channel="Arena Sport 1.webtv.sk">
-    <title lang="id">Motoring</title>
-  </programme>
-  <programme start="20260312223000 +0000" stop="20260312230000 +0000" channel="Arena Sport 1.webtv.sk">
-    <title lang="id">Autožurnál</title>
-  </programme>
   <programme start="20260311230000 +0000" stop="20260312070000 +0000" channel="Arena Sport 2.webtv.sk">
     <title lang="id">Nočné vysielanie</title>
   </programme>
@@ -5652,6 +5538,108 @@
   </programme>
   <programme start="20260312225500 +0000" stop="20260313003800 +0000" channel="National Geographic Channel.webtv.sk">
     <title lang="id">Rezervace Sugarcane</title>
+  </programme>
+  <programme start="20260311222200 +0000" stop="20260312000300 +0000" channel="National Geographic Wild.webtv.sk">
+    <title lang="id">Neviditelní obři</title>
+  </programme>
+  <programme start="20260312000300 +0000" stop="20260312004900 +0000" channel="National Geographic Wild.webtv.sk">
+    <title lang="id">Život slonů</title>
+  </programme>
+  <programme start="20260312004900 +0000" stop="20260312013600 +0000" channel="National Geographic Wild.webtv.sk">
+    <title lang="id">Extrémní útoky zvířat I (2)</title>
+  </programme>
+  <programme start="20260312013600 +0000" stop="20260312022200 +0000" channel="National Geographic Wild.webtv.sk">
+    <title lang="id">Tajný život predátorů I (1)</title>
+  </programme>
+  <programme start="20260312022200 +0000" stop="20260312030800 +0000" channel="National Geographic Wild.webtv.sk">
+    <title lang="id">Tajný život predátorů I (2)</title>
+  </programme>
+  <programme start="20260312030800 +0000" stop="20260312035000 +0000" channel="National Geographic Wild.webtv.sk">
+    <title lang="id">Tajemství slonů I (4)</title>
+  </programme>
+  <programme start="20260312035000 +0000" stop="20260312043600 +0000" channel="National Geographic Wild.webtv.sk">
+    <title lang="id">Království vlka arktického I (3)</title>
+  </programme>
+  <programme start="20260312043600 +0000" stop="20260312050000 +0000" channel="National Geographic Wild.webtv.sk">
+    <title lang="id">Zrozeni přežít I (5)</title>
+  </programme>
+  <programme start="20260312050000 +0000" stop="20260312054500 +0000" channel="National Geographic Wild.webtv.sk">
+    <title lang="id">Závod se zimou</title>
+  </programme>
+  <programme start="20260312054500 +0000" stop="20260312060800 +0000" channel="National Geographic Wild.webtv.sk">
+    <title lang="id">Jedinečná zvířata - výběr I (1)</title>
+  </programme>
+  <programme start="20260312060800 +0000" stop="20260312063000 +0000" channel="National Geographic Wild.webtv.sk">
+    <title lang="id">Jedinečná zvířata - výběr I (2)</title>
+  </programme>
+  <programme start="20260312063000 +0000" stop="20260312071600 +0000" channel="National Geographic Wild.webtv.sk">
+    <title lang="id">Krokodýlí války: Grumeti vs. Mara</title>
+  </programme>
+  <programme start="20260312071600 +0000" stop="20260312080100 +0000" channel="National Geographic Wild.webtv.sk">
+    <title lang="id">Hledá se žralok</title>
+  </programme>
+  <programme start="20260312080100 +0000" stop="20260312084700 +0000" channel="National Geographic Wild.webtv.sk">
+    <title lang="id">Předurčeni zabíjet IV (4)</title>
+  </programme>
+  <programme start="20260312084700 +0000" stop="20260312093200 +0000" channel="National Geographic Wild.webtv.sk">
+    <title lang="id">Krokodýlí války: Grumeti vs. Mara</title>
+  </programme>
+  <programme start="20260312093200 +0000" stop="20260312101700 +0000" channel="National Geographic Wild.webtv.sk">
+    <title lang="id">Hledá se žralok</title>
+  </programme>
+  <programme start="20260312101700 +0000" stop="20260312110200 +0000" channel="National Geographic Wild.webtv.sk">
+    <title lang="id">Tajný život kosatek I (1)</title>
+  </programme>
+  <programme start="20260312110200 +0000" stop="20260312114700 +0000" channel="National Geographic Wild.webtv.sk">
+    <title lang="id">Tajný život kosatek I (2)</title>
+  </programme>
+  <programme start="20260312114700 +0000" stop="20260312123300 +0000" channel="National Geographic Wild.webtv.sk">
+    <title lang="id">Předurčeni zabíjet IV (4)</title>
+  </programme>
+  <programme start="20260312123300 +0000" stop="20260312131800 +0000" channel="National Geographic Wild.webtv.sk">
+    <title lang="id">Jaguár vs. krokodýl</title>
+  </programme>
+  <programme start="20260312131800 +0000" stop="20260312140300 +0000" channel="National Geographic Wild.webtv.sk">
+    <title lang="id">Predátor vs. kořist I (3)</title>
+  </programme>
+  <programme start="20260312140300 +0000" stop="20260312144800 +0000" channel="National Geographic Wild.webtv.sk">
+    <title lang="id">Krokodýl – Král australské divočiny</title>
+  </programme>
+  <programme start="20260312144800 +0000" stop="20260312153300 +0000" channel="National Geographic Wild.webtv.sk">
+    <title lang="id">Krokodýlí války: Grumeti vs. Mara</title>
+  </programme>
+  <programme start="20260312153300 +0000" stop="20260312161600 +0000" channel="National Geographic Wild.webtv.sk">
+    <title lang="id">Skvělý dr. Pol XXIII (8)</title>
+  </programme>
+  <programme start="20260312161600 +0000" stop="20260312170000 +0000" channel="National Geographic Wild.webtv.sk">
+    <title lang="id">Skvělý dr. Pol XXIII (9)</title>
+  </programme>
+  <programme start="20260312170000 +0000" stop="20260312174500 +0000" channel="National Geographic Wild.webtv.sk">
+    <title lang="id">Tajemná krása Afriky I (3)</title>
+  </programme>
+  <programme start="20260312174500 +0000" stop="20260312183000 +0000" channel="National Geographic Wild.webtv.sk">
+    <title lang="id">Tajemná krása Afriky I (2)</title>
+  </programme>
+  <programme start="20260312183000 +0000" stop="20260312191500 +0000" channel="National Geographic Wild.webtv.sk">
+    <title lang="id">Krokodýlí války: Grumeti vs. Mara</title>
+  </programme>
+  <programme start="20260312191500 +0000" stop="20260312200000 +0000" channel="National Geographic Wild.webtv.sk">
+    <title lang="id">Tajemná krása Afriky I (3)</title>
+  </programme>
+  <programme start="20260312200000 +0000" stop="20260312204300 +0000" channel="National Geographic Wild.webtv.sk">
+    <title lang="id">Skvělý dr. Pol XXIII (8)</title>
+  </programme>
+  <programme start="20260312204300 +0000" stop="20260312212600 +0000" channel="National Geographic Wild.webtv.sk">
+    <title lang="id">Skvělý dr. Pol XXIII (9)</title>
+  </programme>
+  <programme start="20260312212600 +0000" stop="20260312221100 +0000" channel="National Geographic Wild.webtv.sk">
+    <title lang="id">Jaguár vs. krokodýl</title>
+  </programme>
+  <programme start="20260312221100 +0000" stop="20260312225600 +0000" channel="National Geographic Wild.webtv.sk">
+    <title lang="id">Tajemná krása Afriky I (3)</title>
+  </programme>
+  <programme start="20260312225600 +0000" stop="20260312234200 +0000" channel="National Geographic Wild.webtv.sk">
+    <title lang="id">Předurčeni zabíjet IV (4)</title>
   </programme>
   <programme start="20260311230000 +0000" stop="20260311233000 +0000" channel="Discovery.webtv.sk">
     <title lang="id">Recyklační tým VI (1)</title>
@@ -8469,48 +8457,6 @@
   </programme>
   <programme start="20260312223000 +0000" stop="20260312230000 +0000" channel="Fishing&Hunting.webtv.sk">
     <title lang="id">SEDO Fishing - Lov kaprů z dlouhého náhozu</title>
-  </programme>
-  <programme start="20260311221500 +0000" stop="20260312005500 +0000" channel="HBO.webtv.sk">
-    <title lang="id">Jedna bitva za druhou</title>
-  </programme>
-  <programme start="20260312005500 +0000" stop="20260312024500 +0000" channel="HBO.webtv.sk">
-    <title lang="id">Tajemství loňského léta</title>
-  </programme>
-  <programme start="20260312024500 +0000" stop="20260312043000 +0000" channel="HBO.webtv.sk">
-    <title lang="id">Apokalypsa v Hollywoodu</title>
-  </programme>
-  <programme start="20260312043000 +0000" stop="20260312050000 +0000" channel="HBO.webtv.sk">
-    <title lang="id">Před kamerou XXIII (10)</title>
-  </programme>
-  <programme start="20260312050000 +0000" stop="20260312065500 +0000" channel="HBO.webtv.sk">
-    <title lang="id">Hitch: Lék pro moderního muže</title>
-  </programme>
-  <programme start="20260312065500 +0000" stop="20260312084500 +0000" channel="HBO.webtv.sk">
-    <title lang="id">Lovec: Zimní válka</title>
-  </programme>
-  <programme start="20260312084500 +0000" stop="20260312100500 +0000" channel="HBO.webtv.sk">
-    <title lang="id">Ptáci stěhováci</title>
-  </programme>
-  <programme start="20260312100500 +0000" stop="20260312112500 +0000" channel="HBO.webtv.sk">
-    <title lang="id">Loupež před Vánoci</title>
-  </programme>
-  <programme start="20260312112500 +0000" stop="20260312133500 +0000" channel="HBO.webtv.sk">
-    <title lang="id">Nepolapitelný</title>
-  </programme>
-  <programme start="20260312133500 +0000" stop="20260312165000 +0000" channel="HBO.webtv.sk">
-    <title lang="id">Pán prstenů: Návrat krále</title>
-  </programme>
-  <programme start="20260312165000 +0000" stop="20260312190000 +0000" channel="HBO.webtv.sk">
-    <title lang="id">Aznavour</title>
-  </programme>
-  <programme start="20260312190000 +0000" stop="20260312205000 +0000" channel="HBO.webtv.sk">
-    <title lang="id">Wolfgang: Neobyčejný příběh</title>
-  </programme>
-  <programme start="20260312205000 +0000" stop="20260312215000 +0000" channel="HBO.webtv.sk">
-    <title lang="id">Vražda ve měste diskokoulí I (1)</title>
-  </programme>
-  <programme start="20260312215000 +0000" stop="20260312232500 +0000" channel="HBO.webtv.sk">
-    <title lang="id">Mužský syndrom</title>
   </programme>
   <programme start="20260311222000 +0000" stop="20260312000000 +0000" channel="HBO 2.webtv.sk">
     <title lang="id">Tiché znamení</title>
