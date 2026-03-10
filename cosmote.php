@@ -1,7 +1,3 @@
-<programme start="20260310165000 +0700" stop="20260310172000 +0700" channel="COSMOTE Sport 1 HD">
-    <title>UEFA Champions League Magazine 2024-25 E23</title>
-    <desc>Live: Tidak</desc>
-</programme>
 <programme start="20260310172000 +0700" stop="20260310192000 +0700" channel="COSMOTE Sport 1 HD">
     <title>Football: Bayer 04 Leverkusen - Olympiacos</title>
     <desc>Live: Tidak</desc>
@@ -122,8 +118,8 @@
     <title>Football: Lecce - Cremonese</title>
     <desc>Live: Tidak</desc>
 </programme>
-<programme start="20260310170000 +0700" stop="20260310172500 +0700" channel="COSMOTE Sport 3 HD">
-    <title>William Hill Scottish Premiership - Highlights</title>
+<programme start="20260311180000 +0700" stop="20260311201000 +0700" channel="COSMOTE Sport 2 HD">
+    <title>Football: Panetolikos - Kifisia</title>
     <desc>Live: Tidak</desc>
 </programme>
 <programme start="20260310172500 +0700" stop="20260310192500 +0700" channel="COSMOTE Sport 3 HD">
@@ -250,10 +246,6 @@
     <title>Basketball: Los Angeles Lakers - Minnesota Timberwolves</title>
     <desc>Live: Tidak</desc>
 </programme>
-<programme start="20260310165500 +0700" stop="20260310174000 +0700" channel="COSMOTE Sport 5 HD">
-    <title>WRC: More Than Machine S2 E4</title>
-    <desc>Live: Tidak</desc>
-</programme>
 <programme start="20260310174000 +0700" stop="20260310183000 +0700" channel="COSMOTE Sport 5 HD">
     <title>WRC: More Than Machine S2 E5</title>
     <desc>Live: Tidak</desc>
@@ -346,31 +338,43 @@
     <title>Extreme E - Highlights 2025</title>
     <desc>Live: Tidak</desc>
 </programme>
+<programme start="20260311180500 +0700" stop="20260311191000 +0700" channel="COSMOTE Sport 5 HD">
+    <title>Motorsports: Extreme E 2025</title>
+    <desc>Live: Tidak</desc>
+</programme>
 <programme start="20260310163000 +0700" stop="20260310191000 +0700" channel="COSMOTE Sport 6 HD">
     <title>Volleyball: Panionios - Panathinaikos</title>
     <desc>Live: Tidak</desc>
 </programme>
-<programme start="20260310191000 +0700" stop="20260310200000 +0700" channel="COSMOTE Sport 6 HD">
+<programme start="20260310191000 +0700" stop="20260310193000 +0700" channel="COSMOTE Sport 6 HD">
+    <title>Volleyball: Panionios - Panathinaikos</title>
+    <desc>Live: Tidak</desc>
+</programme>
+<programme start="20260310193000 +0700" stop="20260310202000 +0700" channel="COSMOTE Sport 6 HD">
     <title>Sports Classics: 2025 Outdoor Specials</title>
     <desc>Live: Tidak</desc>
 </programme>
-<programme start="20260310200000 +0700" stop="20260310210000 +0700" channel="COSMOTE Sport 6 HD">
+<programme start="20260310202000 +0700" stop="20260310213500 +0700" channel="COSMOTE Sport 6 HD">
     <title>Topspin</title>
     <desc>Live: Tidak</desc>
 </programme>
-<programme start="20260310210000 +0700" stop="20260310230000 +0700" channel="COSMOTE Sport 6 HD">
+<programme start="20260310213500 +0700" stop="20260310235500 +0700" channel="COSMOTE Sport 6 HD">
     <title>Tennis: ATP Masters 1000 2026</title>
     <desc>Live: Tidak</desc>
 </programme>
-<programme start="20260310230000 +0700" stop="20260311010000 +0700" channel="COSMOTE Sport 6 HD">
+<programme start="20260310235500 +0700" stop="20260311010000 +0700" channel="COSMOTE Sport 6 HD">
     <title>Tennis: Novak Djokovic/Stefanos Tsitsipas - Marcelo Arevalo/Mate Pavic</title>
     <desc>Live: Tidak</desc>
 </programme>
-<programme start="20260311010000 +0700" stop="20260311060000 +0700" channel="COSMOTE Sport 6 HD">
+<programme start="20260311010000 +0700" stop="20260311050000 +0700" channel="COSMOTE Sport 6 HD">
     <title>Tennis: ATP Masters 1000 2026 (L)</title>
     <desc>Live: Ya</desc>
 </programme>
-<programme start="20260311060000 +0700" stop="20260311103000 +0700" channel="COSMOTE Sport 6 HD">
+<programme start="20260311050000 +0700" stop="20260311070000 +0700" channel="COSMOTE Sport 6 HD">
+    <title>Tennis: Arthur Rinderknech/Valentin Vacherot - Novak Djokovic/Stefanos Tsitsipas (L)</title>
+    <desc>Live: Ya</desc>
+</programme>
+<programme start="20260311070000 +0700" stop="20260311103000 +0700" channel="COSMOTE Sport 6 HD">
     <title>Tennis: ATP Masters 1000 2026 (L)</title>
     <desc>Live: Ya</desc>
 </programme>
