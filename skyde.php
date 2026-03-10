@@ -1608,61 +1608,64 @@ Warning: Undefined array key "et" in /usr/home/ManusiaBiasa/domains/manusiabiasa
 <programme start="20260310223500 +0000" stop="20260310230000 +0000" channel="Nick Jr..skyde">
     <title>BARBAPAPA und Familie</title>
 </programme>
-<programme start="20260310231000 +0000" stop="20260311004000 +0000" channel="Romance TV HD.skyde">
-    <title>Rosamunde Pilcher: Gefährliche Brandung</title>
+<programme start="20260309231000 +0000" stop="20260310004000 +0000" channel="Romance TV HD.skyde">
+    <title>Frühling - Alte Liebe, neue Liebe</title>
 </programme>
-<programme start="20260311004000 +0000" stop="20260311021000 +0000" channel="Romance TV HD.skyde">
-    <title>Rosamunde Pilcher: Die versprochene Braut</title>
+<programme start="20260310004000 +0000" stop="20260310021000 +0000" channel="Romance TV HD.skyde">
+    <title>Frühling - Alte Gespenster</title>
 </programme>
-<programme start="20260311021000 +0000" stop="20260311022500 +0000" channel="Romance TV HD.skyde">
+<programme start="20260310021000 +0000" stop="20260310022500 +0000" channel="Romance TV HD.skyde">
     <title>Stars im Interview</title>
 </programme>
-<programme start="20260311022500 +0000" stop="20260311031000 +0000" channel="Romance TV HD.skyde">
+<programme start="20260310022500 +0000" stop="20260310023000 +0000" channel="Romance TV HD.skyde">
+    <title>Paare</title>
+</programme>
+<programme start="20260310023000 +0000" stop="20260310031500 +0000" channel="Romance TV HD.skyde">
     <title>Lena Lorenz</title>
 </programme>
-<programme start="20260311031000 +0000" stop="20260311032500 +0000" channel="Romance TV HD.skyde">
+<programme start="20260310031500 +0000" stop="20260310033000 +0000" channel="Romance TV HD.skyde">
     <title>Stars im Interview</title>
 </programme>
-<programme start="20260311032500 +0000" stop="20260311045500 +0000" channel="Romance TV HD.skyde">
-    <title>Einfach Rosa - Die Hochzeitsplanerin</title>
+<programme start="20260310033000 +0000" stop="20260310050000 +0000" channel="Romance TV HD.skyde">
+    <title>Das Kindermädchen: Mission Mauritius</title>
 </programme>
-<programme start="20260311045500 +0000" stop="20260311063000 +0000" channel="Romance TV HD.skyde">
-    <title>Fluss des Lebens: Wiedersehen an der Donau</title>
+<programme start="20260310050000 +0000" stop="20260310063500 +0000" channel="Romance TV HD.skyde">
+    <title>Das Traumschiff - Lappland</title>
 </programme>
-<programme start="20260311063000 +0000" stop="20260311080500 +0000" channel="Romance TV HD.skyde">
-    <title>Inga Lindström: Mein falscher Verlobter</title>
+<programme start="20260310063500 +0000" stop="20260310081000 +0000" channel="Romance TV HD.skyde">
+    <title>Fast perfekt verliebt</title>
 </programme>
-<programme start="20260311080500 +0000" stop="20260311094000 +0000" channel="Romance TV HD.skyde">
-    <title>Malibu - Camping für Anfänger</title>
+<programme start="20260310081000 +0000" stop="20260310094500 +0000" channel="Romance TV HD.skyde">
+    <title>Die Trödelqueen - Gelegenheit macht Liebe</title>
 </programme>
-<programme start="20260311094000 +0000" stop="20260311103000 +0000" channel="Romance TV HD.skyde">
+<programme start="20260310094500 +0000" stop="20260310103500 +0000" channel="Romance TV HD.skyde">
     <title>Lena Lorenz</title>
 </programme>
-<programme start="20260311103000 +0000" stop="20260311120500 +0000" channel="Romance TV HD.skyde">
-    <title>Fluss des Lebens: Geliebte Loire</title>
+<programme start="20260310103500 +0000" stop="20260310121000 +0000" channel="Romance TV HD.skyde">
+    <title>Geheimkommando Familie</title>
 </programme>
-<programme start="20260311120500 +0000" stop="20260311134000 +0000" channel="Romance TV HD.skyde">
+<programme start="20260310121000 +0000" stop="20260310134000 +0000" channel="Romance TV HD.skyde">
+    <title>Frühling - Alte Liebe, neue Liebe</title>
+</programme>
+<programme start="20260310134000 +0000" stop="20260310151500 +0000" channel="Romance TV HD.skyde">
+    <title>Frühling - Alte Gespenster</title>
+</programme>
+<programme start="20260310151500 +0000" stop="20260310165000 +0000" channel="Romance TV HD.skyde">
+    <title>Inga Lindström: Lilith und die Sache mit den Männern</title>
+</programme>
+<programme start="20260310165000 +0000" stop="20260310182500 +0000" channel="Romance TV HD.skyde">
+    <title>Mein Bruder, sein Erbe und ich</title>
+</programme>
+<programme start="20260310182500 +0000" stop="20260310191500 +0000" channel="Romance TV HD.skyde">
+    <title>Lena Lorenz</title>
+</programme>
+<programme start="20260310191500 +0000" stop="20260310204500 +0000" channel="Romance TV HD.skyde">
+    <title>Rosamunde Pilcher: Stürmische Begegnung</title>
+</programme>
+<programme start="20260310204500 +0000" stop="20260310222000 +0000" channel="Romance TV HD.skyde">
     <title>Rosamunde Pilcher: Gefährliche Brandung</title>
 </programme>
-<programme start="20260311134000 +0000" stop="20260311151500 +0000" channel="Romance TV HD.skyde">
-    <title>Rosamunde Pilcher: Die versprochene Braut</title>
-</programme>
-<programme start="20260311151500 +0000" stop="20260311165000 +0000" channel="Romance TV HD.skyde">
-    <title>Fluss des Lebens: Kwai - Familienbande</title>
-</programme>
-<programme start="20260311165000 +0000" stop="20260311182500 +0000" channel="Romance TV HD.skyde">
-    <title>Liebesjahre</title>
-</programme>
-<programme start="20260311182500 +0000" stop="20260311191500 +0000" channel="Romance TV HD.skyde">
-    <title>Lena Lorenz</title>
-</programme>
-<programme start="20260311191500 +0000" stop="20260311204500 +0000" channel="Romance TV HD.skyde">
-    <title>Handwerker und andere Katastrophen</title>
-</programme>
-<programme start="20260311204500 +0000" stop="20260311222000 +0000" channel="Romance TV HD.skyde">
-    <title>Uferlos!</title>
-</programme>
-<programme start="20260311222000 +0000" stop="20260311231000 +0000" channel="Romance TV HD.skyde">
+<programme start="20260310222000 +0000" stop="20260310231000 +0000" channel="Romance TV HD.skyde">
     <title>Lena Lorenz</title>
 </programme>
 <programme start="20260309234000 +0000" stop="20260310004000 +0000" channel="Sky Atlantic HD.skyde">
@@ -2679,7 +2682,7 @@ Warning: Undefined array key "et" in /usr/home/ManusiaBiasa/domains/manusiabiasa
 <programme start="20260310195000 +0000" stop="20260310220000 +0000" channel="Sky Sport Austria 2 HD.skyde">
     <title>Live UEFA CL: Atalanta Bergamo - FC Bayern München, Achtelfinale Hinspiel, Dienstag</title>
 </programme>
-<programme start="20260310220000 +0000" stop="20260310230000 +0000" channel="Sky Sport Austria 2 HD.skyde">
+<programme start="20260310220000 +0000" stop="20260310233000 +0000" channel="Sky Sport Austria 2 HD.skyde">
     <title>Live Die UEFA CL am Dienstag: Analyse</title>
 </programme>
 <programme start="20260310193000 +0000" stop="20260310195000 +0000" channel="Sky Sport Austria 3 HD.skyde">
@@ -2970,10 +2973,13 @@ Warning: Undefined array key "et" in /usr/home/ManusiaBiasa/domains/manusiabiasa
 <programme start="20260310140000 +0000" stop="20260310170000 +0000" channel="Sky Sport News HD.skyde">
     <title>Live Sky Sport News: Der Nachmittag</title>
 </programme>
-<programme start="20260310170000 +0000" stop="20260310173000 +0000" channel="Sky Sport News HD.skyde">
+<programme start="20260310170000 +0000" stop="20260310183000 +0000" channel="Sky Sport News HD.skyde">
+    <title>Live Sky Sport News: Primetime</title>
+</programme>
+<programme start="20260310183000 +0000" stop="20260310190000 +0000" channel="Sky Sport News HD.skyde">
     <title>Live Sky Sport News: Primetime Spezial - Der Königsklassen-Countdown</title>
 </programme>
-<programme start="20260310173000 +0000" stop="20260310193000 +0000" channel="Sky Sport News HD.skyde">
+<programme start="20260310190000 +0000" stop="20260310193000 +0000" channel="Sky Sport News HD.skyde">
     <title>Live Sky Sport News: Primetime</title>
 </programme>
 <programme start="20260310193000 +0000" stop="20260310200000 +0000" channel="Sky Sport News HD.skyde">
@@ -3106,7 +3112,7 @@ Warning: Undefined array key "et" in /usr/home/ManusiaBiasa/domains/manusiabiasa
     <title>ATP 500: Review Acapulco</title>
 </programme>
 <programme start="20260310063000 +0000" stop="20260310083000 +0000" channel="Sky Sport Tennis HD.skyde">
-    <title>WTA 1000: Topspiel, BNP Paribas Open in Indian Wells, Kalifornien (USA), 6. Tag</title>
+    <title>WTA 1000: M. Sakkari (GRE) - I. Swiatek (POL), BNP Paribas Open in Indian Wells, Kalifornien (USA), 6. Tag</title>
 </programme>
 <programme start="20260310083000 +0000" stop="20260310103000 +0000" channel="Sky Sport Tennis HD.skyde">
     <title>ATP 1000: N. Djokovic (SRB) - A. Kovacevic (USA), BNP Paribas Open in Indian Wells, Kalifornien (USA), 6. Tag</title>
@@ -3118,7 +3124,7 @@ Warning: Undefined array key "et" in /usr/home/ManusiaBiasa/domains/manusiabiasa
     <title>ATP 500: Review Dubai</title>
 </programme>
 <programme start="20260310140000 +0000" stop="20260310160000 +0000" channel="Sky Sport Tennis HD.skyde">
-    <title>WTA 1000: Topspiel, BNP Paribas Open in Indian Wells, Kalifornien (USA), 6. Tag</title>
+    <title>WTA 1000: M. Sakkari (GRE) - I. Swiatek (POL), BNP Paribas Open in Indian Wells, Kalifornien (USA), 6. Tag</title>
 </programme>
 <programme start="20260310160000 +0000" stop="20260310180000 +0000" channel="Sky Sport Tennis HD.skyde">
     <title>ATP 1000: N. Djokovic (SRB) - A. Kovacevic (USA), BNP Paribas Open in Indian Wells, Kalifornien (USA), 6. Tag</title>
@@ -3129,10 +3135,10 @@ Warning: Undefined array key "et" in /usr/home/ManusiaBiasa/domains/manusiabiasa
 <programme start="20260309233000 +0000" stop="20260310022000 +0000" channel="Sky Sport Top Event HD.skyde">
     <title>Live NBA: Denver Nuggets @ Oklahoma City Thunder</title>
 </programme>
-<programme start="20260310022000 +0000" stop="20260310044000 +0000" channel="Sky Sport Top Event HD.skyde">
+<programme start="20260310022000 +0000" stop="20260310043000 +0000" channel="Sky Sport Top Event HD.skyde">
     <title>Live NBA: New York Knicks @ LA Clippers</title>
 </programme>
-<programme start="20260310044000 +0000" stop="20260310050000 +0000" channel="Sky Sport Top Event HD.skyde">
+<programme start="20260310043000 +0000" stop="20260310050000 +0000" channel="Sky Sport Top Event HD.skyde">
     <title>Live NBA: Showtime - Post Show</title>
 </programme>
 <programme start="20260310050000 +0000" stop="20260310053000 +0000" channel="Sky Sport Top Event HD.skyde">
@@ -3216,7 +3222,7 @@ Warning: Undefined array key "et" in /usr/home/ManusiaBiasa/domains/manusiabiasa
 <programme start="20260310174000 +0000" stop="20260310180000 +0000" channel="Sky Sport 2 HD.skyde">
     <title>Es folgt: LIVE Tennis WTA Tour</title>
 </programme>
-<programme start="20260310180000 +0000" stop="20260311090000 +0000" channel="Sky Sport 2 HD.skyde">
+<programme start="20260310180000 +0000" stop="20260311050000 +0000" channel="Sky Sport 2 HD.skyde">
     <title>Live WTA 1000: BNP Paribas Open in Indian Wells, Kalifornien (USA), 7. Tag</title>
 </programme>
 <programme start="20260309230000 +0000" stop="20260309234500 +0000" channel="SYFY HD.skyde">
@@ -3675,102 +3681,93 @@ Warning: Undefined array key "et" in /usr/home/ManusiaBiasa/domains/manusiabiasa
 <programme start="20260310214000 +0000" stop="20260311001000 +0000" channel="Warner TV Film HD.skyde">
     <title>Transformers - Die Rache</title>
 </programme>
-<programme start="20260317230000 +0000" stop="20260317235000 +0000" channel="Warner TV Serie HD.skyde">
+<programme start="20260309230000 +0000" stop="20260309234500 +0000" channel="Warner TV Serie HD.skyde">
+    <title>NCIS</title>
+</programme>
+<programme start="20260309234500 +0000" stop="20260310003000 +0000" channel="Warner TV Serie HD.skyde">
+    <title>NCIS</title>
+</programme>
+<programme start="20260310003000 +0000" stop="20260310032500 +0000" channel="Warner TV Serie HD.skyde">
+    <title>Königreich der Himmel (Director&#039;s Cut)</title>
+</programme>
+<programme start="20260310032500 +0000" stop="20260310040500 +0000" channel="Warner TV Serie HD.skyde">
+    <title>NCIS: Los Angeles</title>
+</programme>
+<programme start="20260310040500 +0000" stop="20260310042000 +0000" channel="Warner TV Serie HD.skyde">
+    <title>NTSF:SD:SUV::</title>
+</programme>
+<programme start="20260310042000 +0000" stop="20260310043000 +0000" channel="Warner TV Serie HD.skyde">
+    <title>NTSF:SD:SUV::</title>
+</programme>
+<programme start="20260310043000 +0000" stop="20260310044000 +0000" channel="Warner TV Serie HD.skyde">
+    <title>NTSF:SD:SUV::</title>
+</programme>
+<programme start="20260310044000 +0000" stop="20260310053000 +0000" channel="Warner TV Serie HD.skyde">
+    <title>Daktari</title>
+</programme>
+<programme start="20260310053000 +0000" stop="20260310063000 +0000" channel="Warner TV Serie HD.skyde">
+    <title>Daktari</title>
+</programme>
+<programme start="20260310063000 +0000" stop="20260310072500 +0000" channel="Warner TV Serie HD.skyde">
+    <title>Daktari</title>
+</programme>
+<programme start="20260310072500 +0000" stop="20260310082000 +0000" channel="Warner TV Serie HD.skyde">
+    <title>Daktari</title>
+</programme>
+<programme start="20260310082000 +0000" stop="20260310091000 +0000" channel="Warner TV Serie HD.skyde">
+    <title>Mord ist ihr Hobby</title>
+</programme>
+<programme start="20260310091000 +0000" stop="20260310100000 +0000" channel="Warner TV Serie HD.skyde">
+    <title>Mord ist ihr Hobby</title>
+</programme>
+<programme start="20260310100000 +0000" stop="20260310104500 +0000" channel="Warner TV Serie HD.skyde">
+    <title>Mord ist ihr Hobby</title>
+</programme>
+<programme start="20260310104500 +0000" stop="20260310114000 +0000" channel="Warner TV Serie HD.skyde">
+    <title>Mord ist ihr Hobby</title>
+</programme>
+<programme start="20260310114000 +0000" stop="20260310122500 +0000" channel="Warner TV Serie HD.skyde">
+    <title>Rizzoli and Isles</title>
+</programme>
+<programme start="20260310122500 +0000" stop="20260310131000 +0000" channel="Warner TV Serie HD.skyde">
+    <title>Rizzoli and Isles</title>
+</programme>
+<programme start="20260310131000 +0000" stop="20260310135500 +0000" channel="Warner TV Serie HD.skyde">
+    <title>NCIS</title>
+</programme>
+<programme start="20260310135500 +0000" stop="20260310144000 +0000" channel="Warner TV Serie HD.skyde">
+    <title>NCIS</title>
+</programme>
+<programme start="20260310144000 +0000" stop="20260310152500 +0000" channel="Warner TV Serie HD.skyde">
+    <title>NCIS</title>
+</programme>
+<programme start="20260310152500 +0000" stop="20260310161000 +0000" channel="Warner TV Serie HD.skyde">
+    <title>NCIS</title>
+</programme>
+<programme start="20260310161000 +0000" stop="20260310165500 +0000" channel="Warner TV Serie HD.skyde">
+    <title>NCIS</title>
+</programme>
+<programme start="20260310165500 +0000" stop="20260310174500 +0000" channel="Warner TV Serie HD.skyde">
+    <title>NCIS</title>
+</programme>
+<programme start="20260310174500 +0000" stop="20260310183000 +0000" channel="Warner TV Serie HD.skyde">
+    <title>Rizzoli and Isles</title>
+</programme>
+<programme start="20260310183000 +0000" stop="20260310191500 +0000" channel="Warner TV Serie HD.skyde">
+    <title>Rizzoli and Isles</title>
+</programme>
+<programme start="20260310191500 +0000" stop="20260310200000 +0000" channel="Warner TV Serie HD.skyde">
     <title>Hudson &amp; Rex</title>
 </programme>
-<programme start="20260317235000 +0000" stop="20260318003500 +0000" channel="Warner TV Serie HD.skyde">
+<programme start="20260310200000 +0000" stop="20260310204500 +0000" channel="Warner TV Serie HD.skyde">
     <title>Hudson &amp; Rex</title>
 </programme>
-<programme start="20260318003500 +0000" stop="20260318011500 +0000" channel="Warner TV Serie HD.skyde">
-    <title>NCIS</title>
+<programme start="20260310204500 +0000" stop="20260310213500 +0000" channel="Warner TV Serie HD.skyde">
+    <title>Hudson &amp; Rex</title>
 </programme>
-<programme start="20260318011500 +0000" stop="20260318020000 +0000" channel="Warner TV Serie HD.skyde">
-    <title>NCIS</title>
+<programme start="20260310213500 +0000" stop="20260310221500 +0000" channel="Warner TV Serie HD.skyde">
+    <title>NCIS: Los Angeles</title>
 </programme>
-<programme start="20260318020000 +0000" stop="20260318024000 +0000" channel="Warner TV Serie HD.skyde">
-    <title>NCIS</title>
-</programme>
-<programme start="20260318024000 +0000" stop="20260318025000 +0000" channel="Warner TV Serie HD.skyde">
-    <title>NTSF:SD:SUV::</title>
-</programme>
-<programme start="20260318025000 +0000" stop="20260318030000 +0000" channel="Warner TV Serie HD.skyde">
-    <title>NTSF:SD:SUV::</title>
-</programme>
-<programme start="20260318030000 +0000" stop="20260318031000 +0000" channel="Warner TV Serie HD.skyde">
-    <title>NTSF:SD:SUV::</title>
-</programme>
-<programme start="20260318031000 +0000" stop="20260318040000 +0000" channel="Warner TV Serie HD.skyde">
-    <title>Daktari</title>
-</programme>
-<programme start="20260318040000 +0000" stop="20260318045000 +0000" channel="Warner TV Serie HD.skyde">
-    <title>Daktari</title>
-</programme>
-<programme start="20260318045000 +0000" stop="20260318054000 +0000" channel="Warner TV Serie HD.skyde">
-    <title>Daktari</title>
-</programme>
-<programme start="20260318054000 +0000" stop="20260318063500 +0000" channel="Warner TV Serie HD.skyde">
-    <title>Daktari</title>
-</programme>
-<programme start="20260318063500 +0000" stop="20260318072500 +0000" channel="Warner TV Serie HD.skyde">
-    <title>Daktari</title>
-</programme>
-<programme start="20260318072500 +0000" stop="20260318082000 +0000" channel="Warner TV Serie HD.skyde">
-    <title>Daktari</title>
-</programme>
-<programme start="20260318082000 +0000" stop="20260318091000 +0000" channel="Warner TV Serie HD.skyde">
-    <title>Mord ist ihr Hobby</title>
-</programme>
-<programme start="20260318091000 +0000" stop="20260318100000 +0000" channel="Warner TV Serie HD.skyde">
-    <title>Mord ist ihr Hobby</title>
-</programme>
-<programme start="20260318100000 +0000" stop="20260318105000 +0000" channel="Warner TV Serie HD.skyde">
-    <title>Mord ist ihr Hobby</title>
-</programme>
-<programme start="20260318105000 +0000" stop="20260318114000 +0000" channel="Warner TV Serie HD.skyde">
-    <title>Mord ist ihr Hobby</title>
-</programme>
-<programme start="20260318114000 +0000" stop="20260318122500 +0000" channel="Warner TV Serie HD.skyde">
-    <title>Rizzoli and Isles</title>
-</programme>
-<programme start="20260318122500 +0000" stop="20260318131000 +0000" channel="Warner TV Serie HD.skyde">
-    <title>Rizzoli and Isles</title>
-</programme>
-<programme start="20260318131000 +0000" stop="20260318135500 +0000" channel="Warner TV Serie HD.skyde">
-    <title>NCIS</title>
-</programme>
-<programme start="20260318135500 +0000" stop="20260318144000 +0000" channel="Warner TV Serie HD.skyde">
-    <title>NCIS</title>
-</programme>
-<programme start="20260318144000 +0000" stop="20260318152500 +0000" channel="Warner TV Serie HD.skyde">
-    <title>NCIS</title>
-</programme>
-<programme start="20260318152500 +0000" stop="20260318161500 +0000" channel="Warner TV Serie HD.skyde">
-    <title>NCIS</title>
-</programme>
-<programme start="20260318161500 +0000" stop="20260318170000 +0000" channel="Warner TV Serie HD.skyde">
-    <title>NCIS</title>
-</programme>
-<programme start="20260318170000 +0000" stop="20260318174500 +0000" channel="Warner TV Serie HD.skyde">
-    <title>NCIS</title>
-</programme>
-<programme start="20260318174500 +0000" stop="20260318183000 +0000" channel="Warner TV Serie HD.skyde">
-    <title>Rizzoli and Isles</title>
-</programme>
-<programme start="20260318183000 +0000" stop="20260318191500 +0000" channel="Warner TV Serie HD.skyde">
-    <title>Rizzoli and Isles</title>
-</programme>
-<programme start="20260318191500 +0000" stop="20260318200000 +0000" channel="Warner TV Serie HD.skyde">
-    <title>Alert: Missing Persons Unit</title>
-</programme>
-<programme start="20260318200000 +0000" stop="20260318204500 +0000" channel="Warner TV Serie HD.skyde">
-    <title>Alert: Missing Persons Unit</title>
-</programme>
-<programme start="20260318204500 +0000" stop="20260318213000 +0000" channel="Warner TV Serie HD.skyde">
-    <title>Rizzoli and Isles</title>
-</programme>
-<programme start="20260318213000 +0000" stop="20260318221500 +0000" channel="Warner TV Serie HD.skyde">
-    <title>Rizzoli and Isles</title>
-</programme>
-<programme start="20260318221500 +0000" stop="20260318230000 +0000" channel="Warner TV Serie HD.skyde">
-    <title>Rizzoli and Isles</title>
+<programme start="20260310221500 +0000" stop="20260310230000 +0000" channel="Warner TV Serie HD.skyde">
+    <title>NCIS: Los Angeles</title>
 </programme>

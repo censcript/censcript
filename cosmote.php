@@ -122,6 +122,10 @@
     <title>Football: Bologna - Hellas Verona</title>
     <desc>Live: Tidak</desc>
 </programme>
+<programme start="20260311160500 +0700" stop="20260311180000 +0700" channel="COSMOTE Sport 2 HD">
+    <title>Football: Lecce - Cremonese</title>
+    <desc>Live: Tidak</desc>
+</programme>
 <programme start="20260310150000 +0700" stop="20260310170000 +0700" channel="COSMOTE Sport 3 HD">
     <title>Football: Tondela - Rio Ave</title>
     <desc>Live: Tidak</desc>
@@ -246,10 +250,6 @@
     <title>Basketball: Milwaukee Bucks - Phoenix Suns</title>
     <desc>Live: Tidak</desc>
 </programme>
-<programme start="20260310144500 +0700" stop="20260310152500 +0700" channel="COSMOTE Sport 5 HD">
-    <title>WRC: More Than Machine S2 E1</title>
-    <desc>Live: Tidak</desc>
-</programme>
 <programme start="20260310152500 +0700" stop="20260310161000 +0700" channel="COSMOTE Sport 5 HD">
     <title>WRC: More Than Machine S2 E2</title>
     <desc>Live: Tidak</desc>
@@ -346,8 +346,8 @@
     <title>DTM 2025</title>
     <desc>Live: Tidak</desc>
 </programme>
-<programme start="20260310123000 +0700" stop="20260310153000 +0700" channel="COSMOTE Sport 6 HD">
-    <title>Tennis: ATP Masters 1000 2026</title>
+<programme start="20260311161500 +0700" stop="20260311173000 +0700" channel="COSMOTE Sport 5 HD">
+    <title>2026 Grand Prix Show</title>
     <desc>Live: Tidak</desc>
 </programme>
 <programme start="20260310153000 +0700" stop="20260310163000 +0700" channel="COSMOTE Sport 6 HD">

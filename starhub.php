@@ -3848,7 +3848,7 @@
         <title>World Weather</title>
     </programme>
     <programme start="20260309191500 +0000" stop="20260309200000 +0000" channel="NHK World Premium HD.starhub">
-        <title>Tsurube&#039;s Salute to Families Tozuka Junki in Minamisoma City, Fukushima Prefectu</title>
+        <title>Tsurube&#039;s Salute to Families Tozuka Junki in Minamisoma City, Fukushima Prefecture&quot; Part 2 (R)</title>
     </programme>
     <programme start="20260309200000 +0000" stop="20260309202500 +0000" channel="NHK World Premium HD.starhub">
         <title>Grand Sumo 2026 March Tournament Highlights</title>
@@ -6059,7 +6059,7 @@
         <title>End of Transmission</title>
     </programme>
     <programme start="20260309180000 +0000" stop="20260309200000 +0000" channel="Hub Sports 6.starhub">
-        <title>BNP Paribas Open (1000) D4 S1</title>
+        <title>BNP Paribas Open (1000) Day 4 Session 1</title>
     </programme>
     <programme start="20260309200000 +0000" stop="20260310000000 +0000" channel="Hub Sports 6.starhub">
         <title>BNP Paribas Open (1000) Day 4 Session 2</title>
