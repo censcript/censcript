@@ -709,9 +709,6 @@
 <programme start="20260310003000 +0000" stop="20260310023000 +0000" channel="ANTV.vision">
 <title>Janji Inspektur Virat</title>
 </programme>
-<programme start="20260310023000 +0000" stop="20260310060000 +0000" channel="ANTV.vision">
-<title>Har Dil Jo Pyar Karega</title>
-</programme>
 <programme start="20260310060000 +0000" stop="20260310080000 +0000" channel="ANTV.vision">
 <title>Jhanak</title>
 </programme>
@@ -1497,4 +1494,7 @@
 </programme>
 <programme start="20260310111100 +0000" stop="20260310111500 +0000" channel="BTV.vision">
 <title>Azan Magrib</title>
+</programme>
+<programme start="20260310111500 +0000" stop="20260310112000 +0000" channel="BTV.vision">
+<title>Selamat Berbuka Puasa</title>
 </programme>
