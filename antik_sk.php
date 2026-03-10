@@ -19774,57 +19774,6 @@
   <programme start="20260312220000 +0000" stop="20260312230000 +0000" channel="CGTN Documentary.webtv.sk">
     <title lang="id">Childhood In China (1)</title>
   </programme>
-  <programme start="20260311220000 +0000" stop="20260312050000 +0000" channel="Óčko.webtv.sk">
-    <title lang="id">ÓČKO FLIRT</title>
-  </programme>
-  <programme start="20260312050000 +0000" stop="20260312090000 +0000" channel="Óčko.webtv.sk">
-    <title lang="id">RANNÍ FRESH</title>
-  </programme>
-  <programme start="20260312090000 +0000" stop="20260312103000 +0000" channel="Óčko.webtv.sk">
-    <title lang="id">ÓČKO HITY</title>
-  </programme>
-  <programme start="20260312103000 +0000" stop="20260312104500 +0000" channel="Óčko.webtv.sk">
-    <title lang="id">DAVID GUETTA WEEK: TOP 3 ŽIVÁKY</title>
-  </programme>
-  <programme start="20260312104500 +0000" stop="20260312140000 +0000" channel="Óčko.webtv.sk">
-    <title lang="id">ÓČKO HITY</title>
-  </programme>
-  <programme start="20260312140000 +0000" stop="20260312153000 +0000" channel="Óčko.webtv.sk">
-    <title lang="id">ÓČKO CHART</title>
-  </programme>
-  <programme start="20260312153000 +0000" stop="20260312170000 +0000" channel="Óčko.webtv.sk">
-    <title lang="id">ÓČKO HITY</title>
-  </programme>
-  <programme start="20260312170000 +0000" stop="20260312180000 +0000" channel="Óčko.webtv.sk">
-    <title lang="id">CZ &amp; SK</title>
-  </programme>
-  <programme start="20260312180000 +0000" stop="20260312181500 +0000" channel="Óčko.webtv.sk">
-    <title lang="id">DAVID GUETTA WEEK: TOP 3 FEATY</title>
-  </programme>
-  <programme start="20260312181500 +0000" stop="20260312190000 +0000" channel="Óčko.webtv.sk">
-    <title lang="id">ÓČKO HITY</title>
-  </programme>
-  <programme start="20260312190000 +0000" stop="20260312200000 +0000" channel="Óčko.webtv.sk">
-    <title lang="id">SOUNDTRACKY</title>
-  </programme>
-  <programme start="20260312200000 +0000" stop="20260312202000 +0000" channel="Óčko.webtv.sk">
-    <title lang="id">TOP 4 ÓČKO CHART</title>
-  </programme>
-  <programme start="20260312202000 +0000" stop="20260312210000 +0000" channel="Óčko.webtv.sk">
-    <title lang="id">HOT HITY</title>
-  </programme>
-  <programme start="20260312210000 +0000" stop="20260312213000 +0000" channel="Óčko.webtv.sk">
-    <title lang="id">NAKED WARM UP</title>
-  </programme>
-  <programme start="20260312213000 +0000" stop="20260312222000 +0000" channel="Óčko.webtv.sk">
-    <title lang="id">NAKED ATTRACTION ČESKO &amp; SLOVENSKO</title>
-  </programme>
-  <programme start="20260312222000 +0000" stop="20260312223000 +0000" channel="Óčko.webtv.sk">
-    <title lang="id">ONEBLADE NAKED: DRUHÁ ŠANCE</title>
-  </programme>
-  <programme start="20260312223000 +0000" stop="20260313050000 +0000" channel="Óčko.webtv.sk">
-    <title lang="id">ÓČKO FLIRT</title>
-  </programme>
   <programme start="20260311230000 +0000" stop="20260312060000 +0000" channel="Óčko Black.webtv.sk">
     <title lang="id">SLEEPIN’</title>
   </programme>

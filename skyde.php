@@ -2961,8 +2961,23 @@ Warning: Undefined array key "et" in /usr/home/ManusiaBiasa/domains/manusiabiasa
 <programme start="20260310100000 +0000" stop="20260310110000 +0000" channel="Sky Sport News HD.skyde">
     <title>Transfer Update: Die Show XXL</title>
 </programme>
+<programme start="20260310110000 +0000" stop="20260310130000 +0000" channel="Sky Sport News HD.skyde">
+    <title>Live Sky Sport News: Der Mittag</title>
+</programme>
+<programme start="20260310130000 +0000" stop="20260310133000 +0000" channel="Sky Sport News HD.skyde">
+    <title>Live Sky Sport News: B04-PK vor Arsenal</title>
+</programme>
+<programme start="20260310133000 +0000" stop="20260310140000 +0000" channel="Sky Sport News HD.skyde">
+    <title>Live Sky Sport News: Der Mittag</title>
+</programme>
 <programme start="20260310140000 +0000" stop="20260310170000 +0000" channel="Sky Sport News HD.skyde">
     <title>Live Sky Sport News: Der Nachmittag</title>
+</programme>
+<programme start="20260310170000 +0000" stop="20260310183000 +0000" channel="Sky Sport News HD.skyde">
+    <title>Live Sky Sport News: Primetime</title>
+</programme>
+<programme start="20260310183000 +0000" stop="20260310190000 +0000" channel="Sky Sport News HD.skyde">
+    <title>Live Sky Sport News: Primetime Spezial - Der Königsklassen-Countdown</title>
 </programme>
 <programme start="20260310190000 +0000" stop="20260310193000 +0000" channel="Sky Sport News HD.skyde">
     <title>Live Sky Sport News: Primetime</title>
@@ -3666,93 +3681,93 @@ Warning: Undefined array key "et" in /usr/home/ManusiaBiasa/domains/manusiabiasa
 <programme start="20260310214000 +0000" stop="20260311001000 +0000" channel="Warner TV Film HD.skyde">
     <title>Transformers - Die Rache</title>
 </programme>
-<programme start="20260302233000 +0000" stop="20260303012500 +0000" channel="Warner TV Serie HD.skyde">
-    <title>King Arthur</title>
+<programme start="20260309230000 +0000" stop="20260309234500 +0000" channel="Warner TV Serie HD.skyde">
+    <title>NCIS</title>
 </programme>
-<programme start="20260303012500 +0000" stop="20260303021000 +0000" channel="Warner TV Serie HD.skyde">
+<programme start="20260309234500 +0000" stop="20260310003000 +0000" channel="Warner TV Serie HD.skyde">
+    <title>NCIS</title>
+</programme>
+<programme start="20260310003000 +0000" stop="20260310032500 +0000" channel="Warner TV Serie HD.skyde">
+    <title>Königreich der Himmel (Director&#039;s Cut)</title>
+</programme>
+<programme start="20260310032500 +0000" stop="20260310040500 +0000" channel="Warner TV Serie HD.skyde">
     <title>NCIS: Los Angeles</title>
 </programme>
-<programme start="20260303021000 +0000" stop="20260303025000 +0000" channel="Warner TV Serie HD.skyde">
-    <title>NCIS: Los Angeles</title>
-</programme>
-<programme start="20260303025000 +0000" stop="20260303033500 +0000" channel="Warner TV Serie HD.skyde">
-    <title>NCIS: Los Angeles</title>
-</programme>
-<programme start="20260303033500 +0000" stop="20260303034500 +0000" channel="Warner TV Serie HD.skyde">
+<programme start="20260310040500 +0000" stop="20260310042000 +0000" channel="Warner TV Serie HD.skyde">
     <title>NTSF:SD:SUV::</title>
 </programme>
-<programme start="20260303034500 +0000" stop="20260303035500 +0000" channel="Warner TV Serie HD.skyde">
+<programme start="20260310042000 +0000" stop="20260310043000 +0000" channel="Warner TV Serie HD.skyde">
     <title>NTSF:SD:SUV::</title>
 </programme>
-<programme start="20260303035500 +0000" stop="20260303044500 +0000" channel="Warner TV Serie HD.skyde">
+<programme start="20260310043000 +0000" stop="20260310044000 +0000" channel="Warner TV Serie HD.skyde">
+    <title>NTSF:SD:SUV::</title>
+</programme>
+<programme start="20260310044000 +0000" stop="20260310053000 +0000" channel="Warner TV Serie HD.skyde">
     <title>Daktari</title>
 </programme>
-<programme start="20260303044500 +0000" stop="20260303053500 +0000" channel="Warner TV Serie HD.skyde">
+<programme start="20260310053000 +0000" stop="20260310063000 +0000" channel="Warner TV Serie HD.skyde">
     <title>Daktari</title>
 </programme>
-<programme start="20260303053500 +0000" stop="20260303063500 +0000" channel="Warner TV Serie HD.skyde">
+<programme start="20260310063000 +0000" stop="20260310072500 +0000" channel="Warner TV Serie HD.skyde">
     <title>Daktari</title>
 </programme>
-<programme start="20260303063500 +0000" stop="20260303073000 +0000" channel="Warner TV Serie HD.skyde">
+<programme start="20260310072500 +0000" stop="20260310082000 +0000" channel="Warner TV Serie HD.skyde">
     <title>Daktari</title>
 </programme>
-<programme start="20260303073000 +0000" stop="20260303082500 +0000" channel="Warner TV Serie HD.skyde">
-    <title>Daktari</title>
-</programme>
-<programme start="20260303082500 +0000" stop="20260303091500 +0000" channel="Warner TV Serie HD.skyde">
+<programme start="20260310082000 +0000" stop="20260310091000 +0000" channel="Warner TV Serie HD.skyde">
     <title>Mord ist ihr Hobby</title>
 </programme>
-<programme start="20260303091500 +0000" stop="20260303100000 +0000" channel="Warner TV Serie HD.skyde">
+<programme start="20260310091000 +0000" stop="20260310100000 +0000" channel="Warner TV Serie HD.skyde">
     <title>Mord ist ihr Hobby</title>
 </programme>
-<programme start="20260303100000 +0000" stop="20260303105000 +0000" channel="Warner TV Serie HD.skyde">
+<programme start="20260310100000 +0000" stop="20260310104500 +0000" channel="Warner TV Serie HD.skyde">
     <title>Mord ist ihr Hobby</title>
 </programme>
-<programme start="20260303105000 +0000" stop="20260303114000 +0000" channel="Warner TV Serie HD.skyde">
+<programme start="20260310104500 +0000" stop="20260310114000 +0000" channel="Warner TV Serie HD.skyde">
     <title>Mord ist ihr Hobby</title>
 </programme>
-<programme start="20260303114000 +0000" stop="20260303122500 +0000" channel="Warner TV Serie HD.skyde">
+<programme start="20260310114000 +0000" stop="20260310122500 +0000" channel="Warner TV Serie HD.skyde">
     <title>Rizzoli and Isles</title>
 </programme>
-<programme start="20260303122500 +0000" stop="20260303131000 +0000" channel="Warner TV Serie HD.skyde">
+<programme start="20260310122500 +0000" stop="20260310131000 +0000" channel="Warner TV Serie HD.skyde">
     <title>Rizzoli and Isles</title>
 </programme>
-<programme start="20260303131000 +0000" stop="20260303135500 +0000" channel="Warner TV Serie HD.skyde">
+<programme start="20260310131000 +0000" stop="20260310135500 +0000" channel="Warner TV Serie HD.skyde">
     <title>NCIS</title>
 </programme>
-<programme start="20260303135500 +0000" stop="20260303144500 +0000" channel="Warner TV Serie HD.skyde">
+<programme start="20260310135500 +0000" stop="20260310144000 +0000" channel="Warner TV Serie HD.skyde">
     <title>NCIS</title>
 </programme>
-<programme start="20260303144500 +0000" stop="20260303152500 +0000" channel="Warner TV Serie HD.skyde">
+<programme start="20260310144000 +0000" stop="20260310152500 +0000" channel="Warner TV Serie HD.skyde">
     <title>NCIS</title>
 </programme>
-<programme start="20260303152500 +0000" stop="20260303161000 +0000" channel="Warner TV Serie HD.skyde">
+<programme start="20260310152500 +0000" stop="20260310161000 +0000" channel="Warner TV Serie HD.skyde">
     <title>NCIS</title>
 </programme>
-<programme start="20260303161000 +0000" stop="20260303170000 +0000" channel="Warner TV Serie HD.skyde">
+<programme start="20260310161000 +0000" stop="20260310165500 +0000" channel="Warner TV Serie HD.skyde">
     <title>NCIS</title>
 </programme>
-<programme start="20260303170000 +0000" stop="20260303174500 +0000" channel="Warner TV Serie HD.skyde">
+<programme start="20260310165500 +0000" stop="20260310174500 +0000" channel="Warner TV Serie HD.skyde">
     <title>NCIS</title>
 </programme>
-<programme start="20260303174500 +0000" stop="20260303183000 +0000" channel="Warner TV Serie HD.skyde">
+<programme start="20260310174500 +0000" stop="20260310183000 +0000" channel="Warner TV Serie HD.skyde">
     <title>Rizzoli and Isles</title>
 </programme>
-<programme start="20260303183000 +0000" stop="20260303191500 +0000" channel="Warner TV Serie HD.skyde">
+<programme start="20260310183000 +0000" stop="20260310191500 +0000" channel="Warner TV Serie HD.skyde">
     <title>Rizzoli and Isles</title>
 </programme>
-<programme start="20260303191500 +0000" stop="20260303200000 +0000" channel="Warner TV Serie HD.skyde">
+<programme start="20260310191500 +0000" stop="20260310200000 +0000" channel="Warner TV Serie HD.skyde">
     <title>Hudson &amp; Rex</title>
 </programme>
-<programme start="20260303200000 +0000" stop="20260303204500 +0000" channel="Warner TV Serie HD.skyde">
+<programme start="20260310200000 +0000" stop="20260310204500 +0000" channel="Warner TV Serie HD.skyde">
     <title>Hudson &amp; Rex</title>
 </programme>
-<programme start="20260303204500 +0000" stop="20260303213500 +0000" channel="Warner TV Serie HD.skyde">
+<programme start="20260310204500 +0000" stop="20260310213500 +0000" channel="Warner TV Serie HD.skyde">
     <title>Hudson &amp; Rex</title>
 </programme>
-<programme start="20260303213500 +0000" stop="20260303221500 +0000" channel="Warner TV Serie HD.skyde">
+<programme start="20260310213500 +0000" stop="20260310221500 +0000" channel="Warner TV Serie HD.skyde">
     <title>NCIS: Los Angeles</title>
 </programme>
-<programme start="20260303221500 +0000" stop="20260303230000 +0000" channel="Warner TV Serie HD.skyde">
+<programme start="20260310221500 +0000" stop="20260310230000 +0000" channel="Warner TV Serie HD.skyde">
     <title>NCIS: Los Angeles</title>
 </programme>
