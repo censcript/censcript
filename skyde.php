@@ -1668,93 +1668,6 @@ Warning: Undefined array key "et" in /usr/home/ManusiaBiasa/domains/manusiabiasa
 <programme start="20260310222000 +0000" stop="20260310231000 +0000" channel="Romance TV HD.skyde">
     <title>Lena Lorenz</title>
 </programme>
-<programme start="20260309234000 +0000" stop="20260310004000 +0000" channel="Sky Atlantic HD.skyde">
-    <title>House of the Dragon</title>
-</programme>
-<programme start="20260310004000 +0000" stop="20260310010000 +0000" channel="Sky Atlantic HD.skyde">
-    <title>Bonusmaterial Domina - Die Schauspieler</title>
-</programme>
-<programme start="20260310010000 +0000" stop="20260310014000 +0000" channel="Sky Atlantic HD.skyde">
-    <title>Chicago Med</title>
-</programme>
-<programme start="20260310014000 +0000" stop="20260310022000 +0000" channel="Sky Atlantic HD.skyde">
-    <title>Chicago Med</title>
-</programme>
-<programme start="20260310022000 +0000" stop="20260310030500 +0000" channel="Sky Atlantic HD.skyde">
-    <title>The Good Doctor</title>
-</programme>
-<programme start="20260310030500 +0000" stop="20260310034500 +0000" channel="Sky Atlantic HD.skyde">
-    <title>The Good Doctor</title>
-</programme>
-<programme start="20260310034500 +0000" stop="20260310043000 +0000" channel="Sky Atlantic HD.skyde">
-    <title>The Good Doctor</title>
-</programme>
-<programme start="20260310043000 +0000" stop="20260310052000 +0000" channel="Sky Atlantic HD.skyde">
-    <title>Babylon Berlin</title>
-</programme>
-<programme start="20260310052000 +0000" stop="20260310062500 +0000" channel="Sky Atlantic HD.skyde">
-    <title>Babylon Berlin</title>
-</programme>
-<programme start="20260310062500 +0000" stop="20260310073000 +0000" channel="Sky Atlantic HD.skyde">
-    <title>American Crime Story</title>
-</programme>
-<programme start="20260310073000 +0000" stop="20260310080500 +0000" channel="Sky Atlantic HD.skyde">
-    <title>I Love LA</title>
-</programme>
-<programme start="20260310080500 +0000" stop="20260310083500 +0000" channel="Sky Atlantic HD.skyde">
-    <title>I Love LA</title>
-</programme>
-<programme start="20260310083500 +0000" stop="20260310091000 +0000" channel="Sky Atlantic HD.skyde">
-    <title>I Love LA</title>
-</programme>
-<programme start="20260310091000 +0000" stop="20260310094000 +0000" channel="Sky Atlantic HD.skyde">
-    <title>I Love LA</title>
-</programme>
-<programme start="20260310094000 +0000" stop="20260310102500 +0000" channel="Sky Atlantic HD.skyde">
-    <title>The Good Doctor</title>
-</programme>
-<programme start="20260310102500 +0000" stop="20260310111000 +0000" channel="Sky Atlantic HD.skyde">
-    <title>The Good Doctor</title>
-</programme>
-<programme start="20260310111000 +0000" stop="20260310120000 +0000" channel="Sky Atlantic HD.skyde">
-    <title>The Good Doctor</title>
-</programme>
-<programme start="20260310120000 +0000" stop="20260310124500 +0000" channel="Sky Atlantic HD.skyde">
-    <title>Chicago Med</title>
-</programme>
-<programme start="20260310124500 +0000" stop="20260310133000 +0000" channel="Sky Atlantic HD.skyde">
-    <title>Chicago Med</title>
-</programme>
-<programme start="20260310133000 +0000" stop="20260310141500 +0000" channel="Sky Atlantic HD.skyde">
-    <title>Chicago Med</title>
-</programme>
-<programme start="20260310141500 +0000" stop="20260310150000 +0000" channel="Sky Atlantic HD.skyde">
-    <title>Chicago Med</title>
-</programme>
-<programme start="20260310150000 +0000" stop="20260310160000 +0000" channel="Sky Atlantic HD.skyde">
-    <title>The Gilded Age</title>
-</programme>
-<programme start="20260310160000 +0000" stop="20260310170000 +0000" channel="Sky Atlantic HD.skyde">
-    <title>The Gilded Age</title>
-</programme>
-<programme start="20260310170000 +0000" stop="20260310180500 +0000" channel="Sky Atlantic HD.skyde">
-    <title>House of the Dragon</title>
-</programme>
-<programme start="20260310180500 +0000" stop="20260310191500 +0000" channel="Sky Atlantic HD.skyde">
-    <title>House of the Dragon</title>
-</programme>
-<programme start="20260310191500 +0000" stop="20260310202000 +0000" channel="Sky Atlantic HD.skyde">
-    <title>Task</title>
-</programme>
-<programme start="20260310202000 +0000" stop="20260310212500 +0000" channel="Sky Atlantic HD.skyde">
-    <title>Task</title>
-</programme>
-<programme start="20260310212500 +0000" stop="20260310222500 +0000" channel="Sky Atlantic HD.skyde">
-    <title>House of the Dragon</title>
-</programme>
-<programme start="20260310222500 +0000" stop="20260310233500 +0000" channel="Sky Atlantic HD.skyde">
-    <title>House of the Dragon</title>
-</programme>
 <programme start="20260309233500 +0000" stop="20260310014000 +0000" channel="Sky Cinema Action HD.skyde">
     <title>Deep Impact</title>
 </programme>
@@ -2688,13 +2601,13 @@ Warning: Undefined array key "et" in /usr/home/ManusiaBiasa/domains/manusiabiasa
 <programme start="20260310193000 +0000" stop="20260310195000 +0000" channel="Sky Sport Austria 3 HD.skyde">
     <title>Es folgt: Live UEFA Champions League</title>
 </programme>
-<programme start="20260310195000 +0000" stop="20260310220000 +0000" channel="Sky Sport Austria 3 HD.skyde">
+<programme start="20260310195000 +0000" stop="20260310223000 +0000" channel="Sky Sport Austria 3 HD.skyde">
     <title>Live UEFA CL: Newcastle United - FC Barcelona, Achtelfinale Hinspiel, Dienstag</title>
 </programme>
 <programme start="20260310193000 +0000" stop="20260310195000 +0000" channel="Sky Sport Austria 4 HD.skyde">
     <title>Es folgt: Live UEFA Champions League</title>
 </programme>
-<programme start="20260310195000 +0000" stop="20260310220000 +0000" channel="Sky Sport Austria 4 HD.skyde">
+<programme start="20260310195000 +0000" stop="20260310223000 +0000" channel="Sky Sport Austria 4 HD.skyde">
     <title>Live UEFA CL: Atletico Madrid - Tottenham Hotspur, Achtelfinale Hinspiel, Dienstag</title>
 </programme>
 <programme start="20260309230000 +0000" stop="20260309233000 +0000" channel="Sky Sport Bundesliga HD.skyde">
@@ -3132,10 +3045,10 @@ Warning: Undefined array key "et" in /usr/home/ManusiaBiasa/domains/manusiabiasa
 <programme start="20260310180000 +0000" stop="20260311050000 +0000" channel="Sky Sport Tennis HD.skyde">
     <title>Live ATP &amp; WTA: Konferenz BNP Paribas Open in Indian Wells, Kalifornien (USA), 7. Tag</title>
 </programme>
-<programme start="20260309233000 +0000" stop="20260310022000 +0000" channel="Sky Sport Top Event HD.skyde">
+<programme start="20260309233000 +0000" stop="20260310020000 +0000" channel="Sky Sport Top Event HD.skyde">
     <title>Live NBA: Denver Nuggets @ Oklahoma City Thunder</title>
 </programme>
-<programme start="20260310022000 +0000" stop="20260310043000 +0000" channel="Sky Sport Top Event HD.skyde">
+<programme start="20260310020000 +0000" stop="20260310043000 +0000" channel="Sky Sport Top Event HD.skyde">
     <title>Live NBA: New York Knicks @ LA Clippers</title>
 </programme>
 <programme start="20260310043000 +0000" stop="20260310050000 +0000" channel="Sky Sport Top Event HD.skyde">
@@ -3222,98 +3135,8 @@ Warning: Undefined array key "et" in /usr/home/ManusiaBiasa/domains/manusiabiasa
 <programme start="20260310174000 +0000" stop="20260310180000 +0000" channel="Sky Sport 2 HD.skyde">
     <title>Es folgt: LIVE Tennis WTA Tour</title>
 </programme>
-<programme start="20260310180000 +0000" stop="20260311050000 +0000" channel="Sky Sport 2 HD.skyde">
+<programme start="20260310180000 +0000" stop="20260311090000 +0000" channel="Sky Sport 2 HD.skyde">
     <title>Live WTA 1000: BNP Paribas Open in Indian Wells, Kalifornien (USA), 7. Tag</title>
-</programme>
-<programme start="20260309230000 +0000" stop="20260309234500 +0000" channel="SYFY HD.skyde">
-    <title>Raumschiff Enterprise - Das nächste Jahrhundert</title>
-</programme>
-<programme start="20260309234500 +0000" stop="20260310003000 +0000" channel="SYFY HD.skyde">
-    <title>Raumschiff Enterprise - Das nächste Jahrhundert</title>
-</programme>
-<programme start="20260310003000 +0000" stop="20260310011500 +0000" channel="SYFY HD.skyde">
-    <title>Star Trek: Deep Space Nine</title>
-</programme>
-<programme start="20260310011500 +0000" stop="20260310020500 +0000" channel="SYFY HD.skyde">
-    <title>Star Trek: Deep Space Nine</title>
-</programme>
-<programme start="20260310020500 +0000" stop="20260310025000 +0000" channel="SYFY HD.skyde">
-    <title>Star Trek: Raumschiff Voyager</title>
-</programme>
-<programme start="20260310025000 +0000" stop="20260310034000 +0000" channel="SYFY HD.skyde">
-    <title>Star Trek: Raumschiff Voyager</title>
-</programme>
-<programme start="20260310034000 +0000" stop="20260310042500 +0000" channel="SYFY HD.skyde">
-    <title>Raumschiff Enterprise - Das nächste Jahrhundert</title>
-</programme>
-<programme start="20260310042500 +0000" stop="20260310051500 +0000" channel="SYFY HD.skyde">
-    <title>Raumschiff Enterprise - Das nächste Jahrhundert</title>
-</programme>
-<programme start="20260310051500 +0000" stop="20260310054000 +0000" channel="SYFY HD.skyde">
-    <title>SYFY Inside: Space Debris</title>
-</programme>
-<programme start="20260310054000 +0000" stop="20260310062500 +0000" channel="SYFY HD.skyde">
-    <title>Stargate SG-1</title>
-</programme>
-<programme start="20260310062500 +0000" stop="20260310071500 +0000" channel="SYFY HD.skyde">
-    <title>Stargate SG-1</title>
-</programme>
-<programme start="20260310071500 +0000" stop="20260310080000 +0000" channel="SYFY HD.skyde">
-    <title>Stargate: Atlantis</title>
-</programme>
-<programme start="20260310080000 +0000" stop="20260310084500 +0000" channel="SYFY HD.skyde">
-    <title>Stargate: Atlantis</title>
-</programme>
-<programme start="20260310084500 +0000" stop="20260310093500 +0000" channel="SYFY HD.skyde">
-    <title>Van Helsing</title>
-</programme>
-<programme start="20260310093500 +0000" stop="20260310102000 +0000" channel="SYFY HD.skyde">
-    <title>Stargate SG-1</title>
-</programme>
-<programme start="20260310102000 +0000" stop="20260310111000 +0000" channel="SYFY HD.skyde">
-    <title>Stargate SG-1</title>
-</programme>
-<programme start="20260310111000 +0000" stop="20260310115500 +0000" channel="SYFY HD.skyde">
-    <title>Stargate: Atlantis</title>
-</programme>
-<programme start="20260310115500 +0000" stop="20260310124000 +0000" channel="SYFY HD.skyde">
-    <title>Stargate: Atlantis</title>
-</programme>
-<programme start="20260310124000 +0000" stop="20260310133000 +0000" channel="SYFY HD.skyde">
-    <title>Star Trek: Enterprise</title>
-</programme>
-<programme start="20260310133000 +0000" stop="20260310141500 +0000" channel="SYFY HD.skyde">
-    <title>Star Trek: Enterprise</title>
-</programme>
-<programme start="20260310141500 +0000" stop="20260310150500 +0000" channel="SYFY HD.skyde">
-    <title>Raumschiff Enterprise - Das nächste Jahrhundert</title>
-</programme>
-<programme start="20260310150500 +0000" stop="20260310155500 +0000" channel="SYFY HD.skyde">
-    <title>Raumschiff Enterprise - Das nächste Jahrhundert</title>
-</programme>
-<programme start="20260310155500 +0000" stop="20260310164500 +0000" channel="SYFY HD.skyde">
-    <title>Star Trek: Deep Space Nine</title>
-</programme>
-<programme start="20260310164500 +0000" stop="20260310173500 +0000" channel="SYFY HD.skyde">
-    <title>Star Trek: Deep Space Nine</title>
-</programme>
-<programme start="20260310173500 +0000" stop="20260310182500 +0000" channel="SYFY HD.skyde">
-    <title>Star Trek: Raumschiff Voyager</title>
-</programme>
-<programme start="20260310182500 +0000" stop="20260310191500 +0000" channel="SYFY HD.skyde">
-    <title>Star Trek: Raumschiff Voyager</title>
-</programme>
-<programme start="20260310191500 +0000" stop="20260310211000 +0000" channel="SYFY HD.skyde">
-    <title>Speed</title>
-</programme>
-<programme start="20260310211000 +0000" stop="20260310213000 +0000" channel="SYFY HD.skyde">
-    <title>SYFY Inside: Star Wars Celebration</title>
-</programme>
-<programme start="20260310213000 +0000" stop="20260310221500 +0000" channel="SYFY HD.skyde">
-    <title>Star Trek: Enterprise</title>
-</programme>
-<programme start="20260310221500 +0000" stop="20260310230000 +0000" channel="SYFY HD.skyde">
-    <title>Star Trek: Enterprise</title>
 </programme>
 <programme start="20260309230000 +0000" stop="20260309234000 +0000" channel="Universal TV HD.skyde">
     <title>Hawaii Five-0</title>
