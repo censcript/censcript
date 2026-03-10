@@ -5561,7 +5561,7 @@
     <title>Good News</title>
 </programme>
 <programme start="20260310030000 +0000" stop="20260310033000 +0000" channel="LIFE.mncvision">
-    <title>Drive Thru History</title>
+    <title>Your Best Life Now</title>
 </programme>
 <programme start="20260310033000 +0000" stop="20260310040000 +0000" channel="LIFE.mncvision">
     <title>Bimbingan Rohani: Kristen</title>
@@ -5618,7 +5618,7 @@
     <title>Life Music</title>
 </programme>
 <programme start="20260310153000 +0000" stop="20260310160000 +0000" channel="LIFE.mncvision">
-    <title>Drive Thru History</title>
+    <title>Your Best Life Now</title>
 </programme>
 <programme start="20260310160000 +0000" stop="20260310163000 +0000" channel="LIFE.mncvision">
     <title>Solusi</title>

@@ -2673,19 +2673,28 @@ Warning: Undefined array key "et" in /usr/home/ManusiaBiasa/domains/manusiabiasa
 <programme start="20260310223000 +0000" stop="20260311003000 +0000" channel="Sky Sport Austria 1 HD.skyde">
     <title>UEFA CL: Atalanta Bergamo - FC Bayern München, Achtelfinale Hinspiel, Dienstag</title>
 </programme>
-<programme start="20260311184000 +0000" stop="20260311190000 +0000" channel="Sky Sport Austria 2 HD.skyde">
+<programme start="20260310184000 +0000" stop="20260310190000 +0000" channel="Sky Sport Austria 2 HD.skyde">
     <title>Es folgt: Live UEFA Champions League</title>
 </programme>
-<programme start="20260311190000 +0000" stop="20260311195000 +0000" channel="Sky Sport Austria 2 HD.skyde">
-    <title>Live Die UEFA CL am Mittwoch: Vorbericht</title>
+<programme start="20260310190000 +0000" stop="20260310195000 +0000" channel="Sky Sport Austria 2 HD.skyde">
+    <title>Live Die UEFA CL am Dienstag: Vorbericht</title>
 </programme>
-<programme start="20260311195000 +0000" stop="20260311221500 +0000" channel="Sky Sport Austria 2 HD.skyde">
-    <title>Live UEFA CL: Paris Saint-Germain - FC Chelsea, Achtelfinale Hinspiel, Mittwoch</title>
+<programme start="20260310195000 +0000" stop="20260310220000 +0000" channel="Sky Sport Austria 2 HD.skyde">
+    <title>Live UEFA CL: Atalanta Bergamo - FC Bayern München, Achtelfinale Hinspiel, Dienstag</title>
+</programme>
+<programme start="20260310220000 +0000" stop="20260310233000 +0000" channel="Sky Sport Austria 2 HD.skyde">
+    <title>Live Die UEFA CL am Dienstag: Analyse</title>
+</programme>
+<programme start="20260310193000 +0000" stop="20260310195000 +0000" channel="Sky Sport Austria 3 HD.skyde">
+    <title>Es folgt: Live UEFA Champions League</title>
+</programme>
+<programme start="20260310195000 +0000" stop="20260310223000 +0000" channel="Sky Sport Austria 3 HD.skyde">
+    <title>Live UEFA CL: Newcastle United - FC Barcelona, Achtelfinale Hinspiel, Dienstag</title>
 </programme>
 <programme start="20260310193000 +0000" stop="20260310195000 +0000" channel="Sky Sport Austria 4 HD.skyde">
     <title>Es folgt: Live UEFA Champions League</title>
 </programme>
-<programme start="20260310195000 +0000" stop="20260310220000 +0000" channel="Sky Sport Austria 4 HD.skyde">
+<programme start="20260310195000 +0000" stop="20260310223000 +0000" channel="Sky Sport Austria 4 HD.skyde">
     <title>Live UEFA CL: Atletico Madrid - Tottenham Hotspur, Achtelfinale Hinspiel, Dienstag</title>
 </programme>
 <programme start="20260309230000 +0000" stop="20260309233000 +0000" channel="Sky Sport Bundesliga HD.skyde">
@@ -3019,7 +3028,7 @@ Warning: Undefined array key "et" in /usr/home/ManusiaBiasa/domains/manusiabiasa
     <title>PL: 90in30: AVL - CHE, 29. Spieltag</title>
 </programme>
 <programme start="20260310100000 +0000" stop="20260310101500 +0000" channel="Sky Sport Premier League HD.skyde">
-    <title>EFL: Highlights XXL: FC Watford - AFC Wrexham, 36. Spieltag</title>
+    <title>EFL: Highlights XXL: Hull City - FC Millwall, 36. Spieltag</title>
 </programme>
 <programme start="20260310101500 +0000" stop="20260310103000 +0000" channel="Sky Sport Premier League HD.skyde">
     <title>EFL: Highlights XXL: Bristol City - Coventry City, 36. Spieltag</title>
@@ -3052,7 +3061,7 @@ Warning: Undefined array key "et" in /usr/home/ManusiaBiasa/domains/manusiabiasa
     <title>PL: 90in30: NEW - MUN, 29. Spieltag</title>
 </programme>
 <programme start="20260310150000 +0000" stop="20260310151500 +0000" channel="Sky Sport Premier League HD.skyde">
-    <title>EFL: Highlights XXL: FC Watford - AFC Wrexham, 36. Spieltag</title>
+    <title>EFL: Highlights XXL: Hull City - FC Millwall, 36. Spieltag</title>
 </programme>
 <programme start="20260310151500 +0000" stop="20260310153000 +0000" channel="Sky Sport Premier League HD.skyde">
     <title>EFL: Highlights XXL: Bristol City - Coventry City, 36. Spieltag</title>
@@ -3100,7 +3109,7 @@ Warning: Undefined array key "et" in /usr/home/ManusiaBiasa/domains/manusiabiasa
     <title>ATP 500: Review Acapulco</title>
 </programme>
 <programme start="20260310063000 +0000" stop="20260310083000 +0000" channel="Sky Sport Tennis HD.skyde">
-    <title>WTA 1000: M. Sakkari (GRE) - I. Swiatek (POL), BNP Paribas Open in Indian Wells, Kalifornien (USA), 6. Tag</title>
+    <title>WTA 1000: Topspiel, BNP Paribas Open in Indian Wells, Kalifornien (USA), 6. Tag</title>
 </programme>
 <programme start="20260310083000 +0000" stop="20260310103000 +0000" channel="Sky Sport Tennis HD.skyde">
     <title>ATP 1000: N. Djokovic (SRB) - A. Kovacevic (USA), BNP Paribas Open in Indian Wells, Kalifornien (USA), 6. Tag</title>
@@ -3112,7 +3121,7 @@ Warning: Undefined array key "et" in /usr/home/ManusiaBiasa/domains/manusiabiasa
     <title>ATP 500: Review Dubai</title>
 </programme>
 <programme start="20260310140000 +0000" stop="20260310160000 +0000" channel="Sky Sport Tennis HD.skyde">
-    <title>WTA 1000: M. Sakkari (GRE) - I. Swiatek (POL), BNP Paribas Open in Indian Wells, Kalifornien (USA), 6. Tag</title>
+    <title>WTA 1000: Topspiel, BNP Paribas Open in Indian Wells, Kalifornien (USA), 6. Tag</title>
 </programme>
 <programme start="20260310160000 +0000" stop="20260310180000 +0000" channel="Sky Sport Tennis HD.skyde">
     <title>ATP 1000: N. Djokovic (SRB) - A. Kovacevic (USA), BNP Paribas Open in Indian Wells, Kalifornien (USA), 6. Tag</title>
@@ -3210,7 +3219,7 @@ Warning: Undefined array key "et" in /usr/home/ManusiaBiasa/domains/manusiabiasa
 <programme start="20260310174000 +0000" stop="20260310180000 +0000" channel="Sky Sport 2 HD.skyde">
     <title>Es folgt: LIVE Tennis WTA Tour</title>
 </programme>
-<programme start="20260310180000 +0000" stop="20260311050000 +0000" channel="Sky Sport 2 HD.skyde">
+<programme start="20260310180000 +0000" stop="20260311090000 +0000" channel="Sky Sport 2 HD.skyde">
     <title>Live WTA 1000: BNP Paribas Open in Indian Wells, Kalifornien (USA), 7. Tag</title>
 </programme>
 <programme start="20260309230000 +0000" stop="20260309234500 +0000" channel="SYFY HD.skyde">
@@ -3405,16 +3414,16 @@ Warning: Undefined array key "et" in /usr/home/ManusiaBiasa/domains/manusiabiasa
 <programme start="20260310221500 +0000" stop="20260310230000 +0000" channel="Universal TV HD.skyde">
     <title>Bones - Die Knochenjägerin</title>
 </programme>
-<programme start="20260309231500 +0000" stop="20260309233500 +0000" channel="Warner TV Comedy HD.skyde">
+<programme start="20260309231500 +0000" stop="20260309234000 +0000" channel="Warner TV Comedy HD.skyde">
     <title>2 Broke Girls</title>
 </programme>
-<programme start="20260309233500 +0000" stop="20260310000000 +0000" channel="Warner TV Comedy HD.skyde">
+<programme start="20260309234000 +0000" stop="20260310000000 +0000" channel="Warner TV Comedy HD.skyde">
     <title>2 Broke Girls</title>
 </programme>
-<programme start="20260310000000 +0000" stop="20260310002000 +0000" channel="Warner TV Comedy HD.skyde">
+<programme start="20260310000000 +0000" stop="20260310002500 +0000" channel="Warner TV Comedy HD.skyde">
     <title>2 Broke Girls</title>
 </programme>
-<programme start="20260310002000 +0000" stop="20260310003500 +0000" channel="Warner TV Comedy HD.skyde">
+<programme start="20260310002500 +0000" stop="20260310003500 +0000" channel="Warner TV Comedy HD.skyde">
     <title>Robot Chicken</title>
 </programme>
 <programme start="20260310003500 +0000" stop="20260310005000 +0000" channel="Warner TV Comedy HD.skyde">
@@ -3423,13 +3432,13 @@ Warning: Undefined array key "et" in /usr/home/ManusiaBiasa/domains/manusiabiasa
 <programme start="20260310005000 +0000" stop="20260310010000 +0000" channel="Warner TV Comedy HD.skyde">
     <title>Robot Chicken</title>
 </programme>
-<programme start="20260310010000 +0000" stop="20260310011000 +0000" channel="Warner TV Comedy HD.skyde">
+<programme start="20260310010000 +0000" stop="20260310011500 +0000" channel="Warner TV Comedy HD.skyde">
     <title>Robot Chicken</title>
 </programme>
-<programme start="20260310011000 +0000" stop="20260310013000 +0000" channel="Warner TV Comedy HD.skyde">
+<programme start="20260310011500 +0000" stop="20260310013500 +0000" channel="Warner TV Comedy HD.skyde">
     <title>American Dad</title>
 </programme>
-<programme start="20260310013000 +0000" stop="20260310015500 +0000" channel="Warner TV Comedy HD.skyde">
+<programme start="20260310013500 +0000" stop="20260310015500 +0000" channel="Warner TV Comedy HD.skyde">
     <title>American Dad</title>
 </programme>
 <programme start="20260310015500 +0000" stop="20260310020500 +0000" channel="Warner TV Comedy HD.skyde">
@@ -3459,10 +3468,10 @@ Warning: Undefined array key "et" in /usr/home/ManusiaBiasa/domains/manusiabiasa
 <programme start="20260310041500 +0000" stop="20260310044000 +0000" channel="Warner TV Comedy HD.skyde">
     <title>Die Nanny</title>
 </programme>
-<programme start="20260310044000 +0000" stop="20260310050000 +0000" channel="Warner TV Comedy HD.skyde">
+<programme start="20260310044000 +0000" stop="20260310050500 +0000" channel="Warner TV Comedy HD.skyde">
     <title>Die Nanny</title>
 </programme>
-<programme start="20260310050000 +0000" stop="20260310053000 +0000" channel="Warner TV Comedy HD.skyde">
+<programme start="20260310050500 +0000" stop="20260310053000 +0000" channel="Warner TV Comedy HD.skyde">
     <title>Friends</title>
 </programme>
 <programme start="20260310053000 +0000" stop="20260310055500 +0000" channel="Warner TV Comedy HD.skyde">
@@ -3483,10 +3492,10 @@ Warning: Undefined array key "et" in /usr/home/ManusiaBiasa/domains/manusiabiasa
 <programme start="20260310073500 +0000" stop="20260310080000 +0000" channel="Warner TV Comedy HD.skyde">
     <title>Die Nanny</title>
 </programme>
-<programme start="20260310080000 +0000" stop="20260310083000 +0000" channel="Warner TV Comedy HD.skyde">
+<programme start="20260310080000 +0000" stop="20260310082500 +0000" channel="Warner TV Comedy HD.skyde">
     <title>Die Nanny</title>
 </programme>
-<programme start="20260310083000 +0000" stop="20260310085500 +0000" channel="Warner TV Comedy HD.skyde">
+<programme start="20260310082500 +0000" stop="20260310085500 +0000" channel="Warner TV Comedy HD.skyde">
     <title>Die Nanny</title>
 </programme>
 <programme start="20260310085500 +0000" stop="20260310092000 +0000" channel="Warner TV Comedy HD.skyde">
@@ -3495,10 +3504,10 @@ Warning: Undefined array key "et" in /usr/home/ManusiaBiasa/domains/manusiabiasa
 <programme start="20260310092000 +0000" stop="20260310094500 +0000" channel="Warner TV Comedy HD.skyde">
     <title>The Middle</title>
 </programme>
-<programme start="20260310094500 +0000" stop="20260310101500 +0000" channel="Warner TV Comedy HD.skyde">
+<programme start="20260310094500 +0000" stop="20260310101000 +0000" channel="Warner TV Comedy HD.skyde">
     <title>The Middle</title>
 </programme>
-<programme start="20260310101500 +0000" stop="20260310103500 +0000" channel="Warner TV Comedy HD.skyde">
+<programme start="20260310101000 +0000" stop="20260310103500 +0000" channel="Warner TV Comedy HD.skyde">
     <title>The Middle</title>
 </programme>
 <programme start="20260310103500 +0000" stop="20260310110000 +0000" channel="Warner TV Comedy HD.skyde">
@@ -3585,17 +3594,20 @@ Warning: Undefined array key "et" in /usr/home/ManusiaBiasa/domains/manusiabiasa
 <programme start="20260310213000 +0000" stop="20260310214500 +0000" channel="Warner TV Comedy HD.skyde">
     <title>Robot Chicken</title>
 </programme>
-<programme start="20260310214500 +0000" stop="20260310220000 +0000" channel="Warner TV Comedy HD.skyde">
+<programme start="20260310214500 +0000" stop="20260310215500 +0000" channel="Warner TV Comedy HD.skyde">
     <title>Robot Chicken</title>
 </programme>
-<programme start="20260310220000 +0000" stop="20260310221000 +0000" channel="Warner TV Comedy HD.skyde">
+<programme start="20260310215500 +0000" stop="20260310221000 +0000" channel="Warner TV Comedy HD.skyde">
     <title>Robot Chicken</title>
 </programme>
-<programme start="20260310221000 +0000" stop="20260310223500 +0000" channel="Warner TV Comedy HD.skyde">
+<programme start="20260310221000 +0000" stop="20260310223000 +0000" channel="Warner TV Comedy HD.skyde">
     <title>American Dad</title>
 </programme>
-<programme start="20260310223500 +0000" stop="20260310230000 +0000" channel="Warner TV Comedy HD.skyde">
+<programme start="20260310223000 +0000" stop="20260310225500 +0000" channel="Warner TV Comedy HD.skyde">
     <title>American Dad</title>
+</programme>
+<programme start="20260310225500 +0000" stop="20260310232000 +0000" channel="Warner TV Comedy HD.skyde">
+    <title>2 Broke Girls</title>
 </programme>
 <programme start="20260310004000 +0000" stop="20260310021500 +0000" channel="Warner TV Film.skyde">
     <title>Trance - Gefährliche Erinnerung</title>

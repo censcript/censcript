@@ -1961,7 +1961,7 @@
         <title>MUTV 2025/26: Newcastle vs Man United</title>
     </programme>
     <programme start="20260310013000 +0000" stop="20260310020000 +0000" channel="beIN Sports 3.starhub">
-        <title>Newcastle vs Man United</title>
+        <title>MUTV: Match Day Review 2025/26 Newcastle vs Man United</title>
     </programme>
     <programme start="20260310020000 +0000" stop="20260310040000 +0000" channel="beIN Sports 3.starhub">
         <title>UEFA Champions League 2025/26: PSG vs Monaco - KO Play-Offs,2nd Leg</title>
@@ -1970,13 +1970,13 @@
         <title>Vancouver</title>
     </programme>
     <programme start="20260310050000 +0000" stop="20260310053000 +0000" channel="beIN Sports 3.starhub">
-        <title>Man United vs Crystal Palace</title>
+        <title>MUTV Highlights 2025/26 Man United vs Crystal Palace</title>
     </programme>
     <programme start="20260310053000 +0000" stop="20260310073000 +0000" channel="beIN Sports 3.starhub">
         <title>MUTV 2025/26: Newcastle vs Man United</title>
     </programme>
     <programme start="20260310073000 +0000" stop="20260310080000 +0000" channel="beIN Sports 3.starhub">
-        <title>Newcastle vs Man United</title>
+        <title>MUTV: Match Day Review 2025/26 Newcastle vs Man United</title>
     </programme>
     <programme start="20260310080000 +0000" stop="20260310100000 +0000" channel="beIN Sports 3.starhub">
         <title>UEFA Champions League 2025/26: Inter vs Bodo/Glimt - KO Play-Offs,2nd Leg</title>
@@ -3884,7 +3884,7 @@
         <title>News &amp; Weather</title>
     </programme>
     <programme start="20260310010500 +0000" stop="20260310015000 +0000" channel="NHK World Premium HD.starhub">
-        <title>Tsurube&#039;s Salute to Families Tozuka Junki in Minamisoma City, Fukushima Prefecture&quot; Part 2 (R)</title>
+        <title>Tsurube&#039;s Salute to Families Tozuka Junki in Minamisoma City, Fukushima Prefectu</title>
     </programme>
     <programme start="20260310015000 +0000" stop="20260310021700 +0000" channel="NHK World Premium HD.starhub">
         <title>Today&#039;s Close-up (R)</title>
@@ -7478,7 +7478,7 @@
         <title>BBC News</title>
     </programme>
     <programme start="20260310013000 +0000" stop="20260310020000 +0000" channel="BBC World News HD.starhub">
-        <title>Talking Business</title>
+        <title>Samantha Power on the New Global Order</title>
     </programme>
     <programme start="20260310020000 +0000" stop="20260310023000 +0000" channel="BBC World News HD.starhub">
         <title>Newsday</title>
@@ -7618,34 +7618,37 @@
     <programme start="20260310043000 +0000" stop="20260310062000 +0000" channel="Premier Sports.starhub">
         <title>Super Rugby Blues v Crusaders</title>
     </programme>
-    <programme start="20260310062000 +0000" stop="20260310081000 +0000" channel="Premier Sports.starhub">
+    <programme start="20260310062000 +0000" stop="20260310075000 +0000" channel="Premier Sports.starhub">
         <title>Super Rugby Brumbies v Reds</title>
     </programme>
-    <programme start="20260310081000 +0000" stop="20260310091000 +0000" channel="Premier Sports.starhub">
+    <programme start="20260310075000 +0000" stop="20260310082000 +0000" channel="Premier Sports.starhub">
+        <title>5 &amp; 6 Nations Classics 2003 - England v Scotland</title>
+    </programme>
+    <programme start="20260310082000 +0000" stop="20260310092000 +0000" channel="Premier Sports.starhub">
         <title>NRL Try Time</title>
     </programme>
-    <programme start="20260310091000 +0000" stop="20260310093000 +0000" channel="Premier Sports.starhub">
+    <programme start="20260310092000 +0000" stop="20260310094000 +0000" channel="Premier Sports.starhub">
         <title>AFL Highlights Sydney v Carlton</title>
     </programme>
-    <programme start="20260310093000 +0000" stop="20260310095000 +0000" channel="Premier Sports.starhub">
+    <programme start="20260310094000 +0000" stop="20260310100000 +0000" channel="Premier Sports.starhub">
         <title>AFL Highlights Gold Coast v Geelong</title>
     </programme>
-    <programme start="20260310095000 +0000" stop="20260310101000 +0000" channel="Premier Sports.starhub">
+    <programme start="20260310100000 +0000" stop="20260310102000 +0000" channel="Premier Sports.starhub">
         <title>AFL Highlights GWS Giants v Hawthorn</title>
     </programme>
-    <programme start="20260310101000 +0000" stop="20260310103000 +0000" channel="Premier Sports.starhub">
+    <programme start="20260310102000 +0000" stop="20260310104000 +0000" channel="Premier Sports.starhub">
         <title>AFL Highlights Brisbane v Bulldogs</title>
     </programme>
-    <programme start="20260310103000 +0000" stop="20260310105000 +0000" channel="Premier Sports.starhub">
+    <programme start="20260310104000 +0000" stop="20260310110000 +0000" channel="Premier Sports.starhub">
         <title>AFL Highlights St Kilda v Collingwood</title>
     </programme>
-    <programme start="20260310105000 +0000" stop="20260310124000 +0000" channel="Premier Sports.starhub">
+    <programme start="20260310110000 +0000" stop="20260310124000 +0000" channel="Premier Sports.starhub">
         <title>NRL Broncos v Panthers</title>
     </programme>
-    <programme start="20260310124000 +0000" stop="20260310143000 +0000" channel="Premier Sports.starhub">
+    <programme start="20260310124000 +0000" stop="20260310142000 +0000" channel="Premier Sports.starhub">
         <title>Guinness Six Nations Ireland v Wales</title>
     </programme>
-    <programme start="20260310143000 +0000" stop="20260310162000 +0000" channel="Premier Sports.starhub">
+    <programme start="20260310142000 +0000" stop="20260310160000 +0000" channel="Premier Sports.starhub">
         <title>Guinness Six Nations Scotland v France</title>
     </programme>
     <programme start="20260309160000 +0000" stop="20260309180000 +0000" channel="Hub Premier 1.starhub">

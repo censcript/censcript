@@ -67,7 +67,10 @@
     <programme start="20260310110000 +0000" stop="20260310113500 +0000" channel="VTV1 HD.mytv">
         <title> Dám sống : Thắp sáng hy vọng nơi bản làng </title>
     </programme>
-    <programme start="20260310113500 +0000" stop="20260310120000 +0000" channel="VTV1 HD.mytv">
+    <programme start="20260310113500 +0000" stop="20260310114500 +0000" channel="VTV1 HD.mytv">
+        <title> VTV kết nối </title>
+    </programme>
+    <programme start="20260310114500 +0000" stop="20260310120000 +0000" channel="VTV1 HD.mytv">
         <title> Tài chính - Kinh doanh </title>
     </programme>
     <programme start="20260310120000 +0000" stop="20260310124500 +0000" channel="VTV1 HD.mytv">
@@ -80,7 +83,7 @@
         <title> Nhịp sống tuổi bạc </title>
     </programme>
     <programme start="20260310134500 +0000" stop="20260310140000 +0000" channel="VTV1 HD.mytv">
-        <title> VTV Sống khỏe </title>
+        <title> VTV Sống khỏe : Khi virut Rota tấn công trẻ nhỏ </title>
     </programme>
     <programme start="20260310140000 +0000" stop="20260310144500 +0000" channel="VTV1 HD.mytv">
         <title> Từ những miền quê : Làng rau dưới chân núi Tam Đảo </title>
