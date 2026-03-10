@@ -2440,11 +2440,8 @@
     <programme start="20260310130000 +0000" stop="20260310133000 +0000" channel="Hub Sports 2 HD.starhub">
         <title>Round 5</title>
     </programme>
-    <programme start="20260310133000 +0000" stop="20260310153000 +0000" channel="Hub Sports 2 HD.starhub">
+    <programme start="20260310133000 +0000" stop="20260310163000 +0000" channel="Hub Sports 2 HD.starhub">
         <title>R5: West Ham United vs Brentford</title>
-    </programme>
-    <programme start="20260310153000 +0000" stop="20260310160000 +0000" channel="Hub Sports 2 HD.starhub">
-        <title>#1340</title>
     </programme>
     <programme start="20260309144500 +0000" stop="20260309170000 +0000" channel="The Filipino Channel HD.starhub">
         <title>It&#039;s Showtime</title>
@@ -3884,7 +3881,7 @@
         <title>News &amp; Weather</title>
     </programme>
     <programme start="20260310010500 +0000" stop="20260310015000 +0000" channel="NHK World Premium HD.starhub">
-        <title>Tsurube&#039;s Salute to Families Tozuka Junki in Minamisoma City, Fukushima Prefectu</title>
+        <title>Tsurube&#039;s Salute to Families Tozuka Junki in Minamisoma City, Fukushima Prefecture&quot; Part 2 (R)</title>
     </programme>
     <programme start="20260310015000 +0000" stop="20260310021700 +0000" channel="NHK World Premium HD.starhub">
         <title>Today&#039;s Close-up (R)</title>
@@ -6065,16 +6062,16 @@
         <title>BNP Paribas Open (1000) D4 S1</title>
     </programme>
     <programme start="20260309200000 +0000" stop="20260310000000 +0000" channel="Hub Sports 6.starhub">
-        <title>BNP Paribas Open (1000) D4 S2</title>
+        <title>BNP Paribas Open (1000) Day 4 Session 2</title>
     </programme>
     <programme start="20260310000000 +0000" stop="20260310010000 +0000" channel="Hub Sports 6.starhub">
         <title>End of Transmission</title>
     </programme>
     <programme start="20260310010000 +0000" stop="20260310030000 +0000" channel="Hub Sports 6.starhub">
-        <title>BNP Paribas Open (1000) D4 S3</title>
+        <title>BNP Paribas Open (1000) Day 4 Session 3</title>
     </programme>
     <programme start="20260310030000 +0000" stop="20260310050000 +0000" channel="Hub Sports 6.starhub">
-        <title>BNP Paribas Open (1000) D4 S4</title>
+        <title>BNP Paribas Open (1000) Day 4 Session 4</title>
     </programme>
     <programme start="20260310050000 +0000" stop="20260310100000 +0000" channel="Hub Sports 6.starhub">
         <title>End of Transmission</title>
