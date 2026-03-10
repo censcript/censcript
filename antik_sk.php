@@ -5230,54 +5230,6 @@
   <programme start="20260312221500 +0000" stop="20260312230000 +0000" channel="Eurosport 1.webtv.sk">
     <title lang="id">Cyklistika: Paříž – Nice</title>
   </programme>
-  <programme start="20260311230000 +0000" stop="20260312000000 +0000" channel="Eurosport 2.webtv.sk">
-    <title lang="id">Snowboarding: SP v Erzuru</title>
-  </programme>
-  <programme start="20260312000000 +0000" stop="20260312010000 +0000" channel="Eurosport 2.webtv.sk">
-    <title lang="id">Cyklistika: Tirreno – Adriatico</title>
-  </programme>
-  <programme start="20260312010000 +0000" stop="20260312020000 +0000" channel="Eurosport 2.webtv.sk">
-    <title lang="id">Cyklistika: Paříž – Nice</title>
-  </programme>
-  <programme start="20260312020000 +0000" stop="20260312030000 +0000" channel="Eurosport 2.webtv.sk">
-    <title lang="id">Alpské lyžování: SP ve Val di Fassa</title>
-  </programme>
-  <programme start="20260312030000 +0000" stop="20260312050000 +0000" channel="Eurosport 2.webtv.sk">
-    <title lang="id">Snooker: Players Championship</title>
-  </programme>
-  <programme start="20260312050000 +0000" stop="20260312060000 +0000" channel="Eurosport 2.webtv.sk">
-    <title lang="id">Cyklistika: Tirreno – Adriatico</title>
-  </programme>
-  <programme start="20260312060000 +0000" stop="20260312070000 +0000" channel="Eurosport 2.webtv.sk">
-    <title lang="id">Cyklistika: Paříž – Nice</title>
-  </programme>
-  <programme start="20260312070000 +0000" stop="20260312080000 +0000" channel="Eurosport 2.webtv.sk">
-    <title lang="id">Běžecké lyžování: SP v Lahti</title>
-  </programme>
-  <programme start="20260312080000 +0000" stop="20260312090000 +0000" channel="Eurosport 2.webtv.sk">
-    <title lang="id">Biatlon: SP v Kontiolahti</title>
-  </programme>
-  <programme start="20260312090000 +0000" stop="20260312100000 +0000" channel="Eurosport 2.webtv.sk">
-    <title lang="id">Biatlon: SP v Kontiolahti</title>
-  </programme>
-  <programme start="20260312100000 +0000" stop="20260312110000 +0000" channel="Eurosport 2.webtv.sk">
-    <title lang="id">Cyklistika: Paříž – Nice</title>
-  </programme>
-  <programme start="20260312110000 +0000" stop="20260312120000 +0000" channel="Eurosport 2.webtv.sk">
-    <title lang="id">Cyklistika: Tirreno – Adriatico</title>
-  </programme>
-  <programme start="20260312120000 +0000" stop="20260312144500 +0000" channel="Eurosport 2.webtv.sk">
-    <title lang="id">Cyklistika: Tirreno – Adriatico</title>
-  </programme>
-  <programme start="20260312144500 +0000" stop="20260312161500 +0000" channel="Eurosport 2.webtv.sk">
-    <title lang="id">Cyklistika: Paříž – Nice</title>
-  </programme>
-  <programme start="20260312161500 +0000" stop="20260312170000 +0000" channel="Eurosport 2.webtv.sk">
-    <title lang="id">Cyklistika: Tirreno – Adriatico</title>
-  </programme>
-  <programme start="20260312170000 +0000" stop="20260312230000 +0000" channel="Eurosport 2.webtv.sk">
-    <title lang="id">Golf: PGA Tour</title>
-  </programme>
   <programme start="20260311223000 +0000" stop="20260312010000 +0000" channel="Sport 1.webtv.sk">
     <title lang="id">Lední hokej</title>
   </programme>
@@ -9843,78 +9795,6 @@
   </programme>
   <programme start="20260312225500 +0000" stop="20260312235000 +0000" channel="DocuBox.webtv.sk">
     <title lang="id">Creative Killers (2)</title>
-  </programme>
-  <programme start="20260311230000 +0000" stop="20260312000000 +0000" channel="360 TuneBox.webtv.sk">
-    <title lang="id">Electric Jam</title>
-  </programme>
-  <programme start="20260312000000 +0000" stop="20260312010000 +0000" channel="360 TuneBox.webtv.sk">
-    <title lang="id">Street Buzz</title>
-  </programme>
-  <programme start="20260312010000 +0000" stop="20260312020000 +0000" channel="360 TuneBox.webtv.sk">
-    <title lang="id">Ultra Mix</title>
-  </programme>
-  <programme start="20260312020000 +0000" stop="20260312030000 +0000" channel="360 TuneBox.webtv.sk">
-    <title lang="id">DJ Mixes premiere</title>
-  </programme>
-  <programme start="20260312030000 +0000" stop="20260312040000 +0000" channel="360 TuneBox.webtv.sk">
-    <title lang="id">Nite Sides</title>
-  </programme>
-  <programme start="20260312040000 +0000" stop="20260312050000 +0000" channel="360 TuneBox.webtv.sk">
-    <title lang="id">Nite Sides</title>
-  </programme>
-  <programme start="20260312050000 +0000" stop="20260312060000 +0000" channel="360 TuneBox.webtv.sk">
-    <title lang="id">Nite Sides</title>
-  </programme>
-  <programme start="20260312060000 +0000" stop="20260312070000 +0000" channel="360 TuneBox.webtv.sk">
-    <title lang="id">DJ Mixes premiere</title>
-  </programme>
-  <programme start="20260312070000 +0000" stop="20260312080000 +0000" channel="360 TuneBox.webtv.sk">
-    <title lang="id">Morning Spin</title>
-  </programme>
-  <programme start="20260312080000 +0000" stop="20260312090000 +0000" channel="360 TuneBox.webtv.sk">
-    <title lang="id">Morning Spin</title>
-  </programme>
-  <programme start="20260312090000 +0000" stop="20260312100000 +0000" channel="360 TuneBox.webtv.sk">
-    <title lang="id">Morning Spin</title>
-  </programme>
-  <programme start="20260312100000 +0000" stop="20260312110000 +0000" channel="360 TuneBox.webtv.sk">
-    <title lang="id">DJ Mixes premiere</title>
-  </programme>
-  <programme start="20260312110000 +0000" stop="20260312120000 +0000" channel="360 TuneBox.webtv.sk">
-    <title lang="id">Artist Breakout</title>
-  </programme>
-  <programme start="20260312120000 +0000" stop="20260312130000 +0000" channel="360 TuneBox.webtv.sk">
-    <title lang="id">Fresh Out The Box</title>
-  </programme>
-  <programme start="20260312130000 +0000" stop="20260312140000 +0000" channel="360 TuneBox.webtv.sk">
-    <title lang="id">Ultra Mix</title>
-  </programme>
-  <programme start="20260312140000 +0000" stop="20260312150000 +0000" channel="360 TuneBox.webtv.sk">
-    <title lang="id">DJ Mixes premiere</title>
-  </programme>
-  <programme start="20260312150000 +0000" stop="20260312160000 +0000" channel="360 TuneBox.webtv.sk">
-    <title lang="id">Electric Jam</title>
-  </programme>
-  <programme start="20260312160000 +0000" stop="20260312170000 +0000" channel="360 TuneBox.webtv.sk">
-    <title lang="id">Street Buzz</title>
-  </programme>
-  <programme start="20260312170000 +0000" stop="20260312180000 +0000" channel="360 TuneBox.webtv.sk">
-    <title lang="id">Ultra Mix</title>
-  </programme>
-  <programme start="20260312180000 +0000" stop="20260312190000 +0000" channel="360 TuneBox.webtv.sk">
-    <title lang="id">DJ Mixes premiere</title>
-  </programme>
-  <programme start="20260312190000 +0000" stop="20260312200000 +0000" channel="360 TuneBox.webtv.sk">
-    <title lang="id">Artist Breakout</title>
-  </programme>
-  <programme start="20260312200000 +0000" stop="20260312210000 +0000" channel="360 TuneBox.webtv.sk">
-    <title lang="id">Ultra Mix</title>
-  </programme>
-  <programme start="20260312210000 +0000" stop="20260312220000 +0000" channel="360 TuneBox.webtv.sk">
-    <title lang="id">Fresh Out The Box</title>
-  </programme>
-  <programme start="20260312220000 +0000" stop="20260312230000 +0000" channel="360 TuneBox.webtv.sk">
-    <title lang="id">DJ Mixes premiere</title>
   </programme>
   <programme start="20260311224000 +0000" stop="20260311230500 +0000" channel="Disney Channel.webtv.sk">
     <title lang="id">Jessie (64)</title>
@@ -19773,6 +19653,57 @@
   </programme>
   <programme start="20260312220000 +0000" stop="20260312230000 +0000" channel="CGTN Documentary.webtv.sk">
     <title lang="id">Childhood In China (1)</title>
+  </programme>
+  <programme start="20260311220000 +0000" stop="20260312050000 +0000" channel="Óčko.webtv.sk">
+    <title lang="id">ÓČKO FLIRT</title>
+  </programme>
+  <programme start="20260312050000 +0000" stop="20260312090000 +0000" channel="Óčko.webtv.sk">
+    <title lang="id">RANNÍ FRESH</title>
+  </programme>
+  <programme start="20260312090000 +0000" stop="20260312103000 +0000" channel="Óčko.webtv.sk">
+    <title lang="id">ÓČKO HITY</title>
+  </programme>
+  <programme start="20260312103000 +0000" stop="20260312104500 +0000" channel="Óčko.webtv.sk">
+    <title lang="id">DAVID GUETTA WEEK: TOP 3 ŽIVÁKY</title>
+  </programme>
+  <programme start="20260312104500 +0000" stop="20260312140000 +0000" channel="Óčko.webtv.sk">
+    <title lang="id">ÓČKO HITY</title>
+  </programme>
+  <programme start="20260312140000 +0000" stop="20260312153000 +0000" channel="Óčko.webtv.sk">
+    <title lang="id">ÓČKO CHART</title>
+  </programme>
+  <programme start="20260312153000 +0000" stop="20260312170000 +0000" channel="Óčko.webtv.sk">
+    <title lang="id">ÓČKO HITY</title>
+  </programme>
+  <programme start="20260312170000 +0000" stop="20260312180000 +0000" channel="Óčko.webtv.sk">
+    <title lang="id">CZ &amp; SK</title>
+  </programme>
+  <programme start="20260312180000 +0000" stop="20260312181500 +0000" channel="Óčko.webtv.sk">
+    <title lang="id">DAVID GUETTA WEEK: TOP 3 FEATY</title>
+  </programme>
+  <programme start="20260312181500 +0000" stop="20260312190000 +0000" channel="Óčko.webtv.sk">
+    <title lang="id">ÓČKO HITY</title>
+  </programme>
+  <programme start="20260312190000 +0000" stop="20260312200000 +0000" channel="Óčko.webtv.sk">
+    <title lang="id">SOUNDTRACKY</title>
+  </programme>
+  <programme start="20260312200000 +0000" stop="20260312202000 +0000" channel="Óčko.webtv.sk">
+    <title lang="id">TOP 4 ÓČKO CHART</title>
+  </programme>
+  <programme start="20260312202000 +0000" stop="20260312210000 +0000" channel="Óčko.webtv.sk">
+    <title lang="id">HOT HITY</title>
+  </programme>
+  <programme start="20260312210000 +0000" stop="20260312213000 +0000" channel="Óčko.webtv.sk">
+    <title lang="id">NAKED WARM UP</title>
+  </programme>
+  <programme start="20260312213000 +0000" stop="20260312222000 +0000" channel="Óčko.webtv.sk">
+    <title lang="id">NAKED ATTRACTION ČESKO &amp; SLOVENSKO</title>
+  </programme>
+  <programme start="20260312222000 +0000" stop="20260312223000 +0000" channel="Óčko.webtv.sk">
+    <title lang="id">ONEBLADE NAKED: DRUHÁ ŠANCE</title>
+  </programme>
+  <programme start="20260312223000 +0000" stop="20260313050000 +0000" channel="Óčko.webtv.sk">
+    <title lang="id">ÓČKO FLIRT</title>
   </programme>
   <programme start="20260311230000 +0000" stop="20260312060000 +0000" channel="Óčko Black.webtv.sk">
     <title lang="id">SLEEPIN’</title>

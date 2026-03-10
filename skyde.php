@@ -2895,13 +2895,13 @@ Warning: Undefined array key "et" in /usr/home/ManusiaBiasa/domains/manusiabiasa
 <programme start="20260310050000 +0000" stop="20260310060000 +0000" channel="Sky Sport Mix HD.skyde">
     <title>3. Liga: Alle Spiele, alle Tore, 28. Spieltag komplett</title>
 </programme>
-<programme start="20260310060000 +0000" stop="20260310080000 +0000" channel="Sky Sport Mix HD.skyde">
+<programme start="20260310060000 +0000" stop="20260310074500 +0000" channel="Sky Sport Mix HD.skyde">
     <title>NHL: Ottawa Senators @ Vancouver Canucks</title>
 </programme>
-<programme start="20260310080000 +0000" stop="20260310083000 +0000" channel="Sky Sport Mix HD.skyde">
+<programme start="20260310074500 +0000" stop="20260310084500 +0000" channel="Sky Sport Mix HD.skyde">
     <title>NBA: Showtime</title>
 </programme>
-<programme start="20260310083000 +0000" stop="20260310110000 +0000" channel="Sky Sport Mix HD.skyde">
+<programme start="20260310084500 +0000" stop="20260310110000 +0000" channel="Sky Sport Mix HD.skyde">
     <title>NBA: Denver Nuggets @ Oklahoma City Thunder</title>
 </programme>
 <programme start="20260310110000 +0000" stop="20260310130000 +0000" channel="Sky Sport Mix HD.skyde">
@@ -2923,12 +2923,9 @@ Warning: Undefined array key "et" in /usr/home/ManusiaBiasa/domains/manusiabiasa
     <title>NHL: Ottawa Senators @ Vancouver Canucks</title>
 </programme>
 <programme start="20260310193000 +0000" stop="20260310200000 +0000" channel="Sky Sport Mix HD.skyde">
-    <title>NHL: On the Fly</title>
-</programme>
-<programme start="20260310200000 +0000" stop="20260310203000 +0000" channel="Sky Sport Mix HD.skyde">
     <title>Fußball: scooore Niederlande! Alle Tore</title>
 </programme>
-<programme start="20260310203000 +0000" stop="20260310210000 +0000" channel="Sky Sport Mix HD.skyde">
+<programme start="20260310200000 +0000" stop="20260310210000 +0000" channel="Sky Sport Mix HD.skyde">
     <title>NBA: Showtime</title>
 </programme>
 <programme start="20260310210000 +0000" stop="20260310233000 +0000" channel="Sky Sport Mix HD.skyde">
