@@ -1955,7 +1955,7 @@
         <title>Matchday 25</title>
     </programme>
     <programme start="20260309230000 +0000" stop="20260309233000 +0000" channel="beIN Sports 3.starhub">
-        <title>Man United vs Crystal Palace</title>
+        <title>MUTV Highlights 2025/26 Man United vs Crystal Palace</title>
     </programme>
     <programme start="20260309233000 +0000" stop="20260310013000 +0000" channel="beIN Sports 3.starhub">
         <title>MUTV 2025/26: Newcastle vs Man United</title>
@@ -2233,10 +2233,10 @@
     <programme start="20260310114000 +0000" stop="20260310134000 +0000" channel="beIN Sports 2 HD.starhub">
         <title>Best Of AO 2026: Men&#039;s Singles QF Alcaraz v De Minaur</title>
     </programme>
-    <programme start="20260310134000 +0000" stop="20260310141000 +0000" channel="beIN Sports 2 HD.starhub">
-        <title>Mini Match - Australian Open 2026: Men&#039;s Singles QF Sinner v Shelton</title>
+    <programme start="20260310134000 +0000" stop="20260310140000 +0000" channel="beIN Sports 2 HD.starhub">
+        <title>HSBC SVNS Series 2026: Australia vs New Zealand - Singapore Day 2, Women</title>
     </programme>
-    <programme start="20260310141000 +0000" stop="20260310161500 +0000" channel="beIN Sports 2 HD.starhub">
+    <programme start="20260310140000 +0000" stop="20260310161500 +0000" channel="beIN Sports 2 HD.starhub">
         <title>UCI World Tour 2026: Paris-Nice - Stage 3 (Live)</title>
     </programme>
     <programme start="20260309160000 +0000" stop="20260309170000 +0000" channel="TVB Xing He.starhub">
@@ -3851,7 +3851,7 @@
         <title>World Weather</title>
     </programme>
     <programme start="20260309191500 +0000" stop="20260309200000 +0000" channel="NHK World Premium HD.starhub">
-        <title>Tsurube&#039;s Salute to Families Tozuka Junki in Minamisoma City, Fukushima Prefecture&quot; Part 2 (R)</title>
+        <title>Tsurube&#039;s Salute to Families Tozuka Junki in Minamisoma City, Fukushima Prefectu</title>
     </programme>
     <programme start="20260309200000 +0000" stop="20260309202500 +0000" channel="NHK World Premium HD.starhub">
         <title>Grand Sumo 2026 March Tournament Highlights</title>
@@ -7583,7 +7583,7 @@
         <title>Super League Leigh v Catalans</title>
     </programme>
     <programme start="20260309173000 +0000" stop="20260309192000 +0000" channel="Premier Sports.starhub">
-        <title>Super League Toulouse Olympique v Wigan</title>
+        <title>NRL Broncos v Panthers</title>
     </programme>
     <programme start="20260309192000 +0000" stop="20260309194000 +0000" channel="Premier Sports.starhub">
         <title>AFL Highlights Sydney v Carlton</title>

@@ -18007,7 +18007,7 @@
   <programme start="20260312223000 +0000" stop="20260312225800 +0000" channel="NHK World Japan.webtv.sk">
     <title lang="id">Japan Railway Journal</title>
   </programme>
-  <programme start="20260312225800 +0000" stop="20260313015800 +0000" channel="NHK World Japan.webtv.sk">
+  <programme start="20260312225800 +0000" stop="20260312230000 +0000" channel="NHK World Japan.webtv.sk">
     <title lang="id">INFO</title>
   </programme>
   <programme start="20260311230000 +0000" stop="20260311232000 +0000" channel="Arirang TV.webtv.sk">
