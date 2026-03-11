@@ -82,7 +82,123 @@
 <programme start="20260311163000 +0000" stop="20260310170000 +0000" channel="ABC Australia.mncvision">
     <title>ABC National Forum</title>
 </programme>
-Error: Unable to fetch data. HTTP Status Code: 0
+<programme start="20260310170000 +0000" stop="20260310173000 +0000" channel="Al Jazeera English.mncvision">
+    <title>News (L)</title>
+</programme>
+<programme start="20260310173000 +0000" stop="20260310180000 +0000" channel="Al Jazeera English.mncvision">
+    <title>Inside Story</title>
+</programme>
+<programme start="20260310180000 +0000" stop="20260310190000 +0000" channel="Al Jazeera English.mncvision">
+    <title>NewsHour</title>
+</programme>
+<programme start="20260310190000 +0000" stop="20260310193000 +0000" channel="Al Jazeera English.mncvision">
+    <title>News (L)</title>
+</programme>
+<programme start="20260310193000 +0000" stop="20260310200000 +0000" channel="Al Jazeera English.mncvision">
+    <title>UpFront</title>
+</programme>
+<programme start="20260310200000 +0000" stop="20260310210000 +0000" channel="Al Jazeera English.mncvision">
+    <title>Al Jazeera World: Djibouti</title>
+</programme>
+<programme start="20260310210000 +0000" stop="20260310220000 +0000" channel="Al Jazeera English.mncvision">
+    <title>NewsHour</title>
+</programme>
+<programme start="20260310220000 +0000" stop="20260310223000 +0000" channel="Al Jazeera English.mncvision">
+    <title>News (L)</title>
+</programme>
+<programme start="20260310223000 +0000" stop="20260310230000 +0000" channel="Al Jazeera English.mncvision">
+    <title>Making Peace: The Light Within</title>
+</programme>
+<programme start="20260310230000 +0000" stop="20260310233000 +0000" channel="Al Jazeera English.mncvision">
+    <title>News (L)</title>
+</programme>
+<programme start="20260310233000 +0000" stop="20260311000000 +0000" channel="Al Jazeera English.mncvision">
+    <title>Inside Story</title>
+</programme>
+<programme start="20260311000000 +0000" stop="20260311010000 +0000" channel="Al Jazeera English.mncvision">
+    <title>NewsHour</title>
+</programme>
+<programme start="20260311010000 +0000" stop="20260311020000 +0000" channel="Al Jazeera English.mncvision">
+    <title>Head To Head: Daniel Bwala</title>
+</programme>
+<programme start="20260311020000 +0000" stop="20260311023000 +0000" channel="Al Jazeera English.mncvision">
+    <title>News (L)</title>
+</programme>
+<programme start="20260311023000 +0000" stop="20260311030000 +0000" channel="Al Jazeera English.mncvision">
+    <title>Talk To Al Jazeera</title>
+</programme>
+<programme start="20260311030000 +0000" stop="20260311033000 +0000" channel="Al Jazeera English.mncvision">
+    <title>News (L)</title>
+</programme>
+<programme start="20260311033000 +0000" stop="20260311040000 +0000" channel="Al Jazeera English.mncvision">
+    <title>Witness: Gaza Fixer</title>
+</programme>
+<programme start="20260311040000 +0000" stop="20260311043000 +0000" channel="Al Jazeera English.mncvision">
+    <title>News (L)</title>
+</programme>
+<programme start="20260311043000 +0000" stop="20260311050000 +0000" channel="Al Jazeera English.mncvision">
+    <title>UpFront</title>
+</programme>
+<programme start="20260311050000 +0000" stop="20260311053000 +0000" channel="Al Jazeera English.mncvision">
+    <title>News (L)</title>
+</programme>
+<programme start="20260311053000 +0000" stop="20260311060000 +0000" channel="Al Jazeera English.mncvision">
+    <title>Inside Story</title>
+</programme>
+<programme start="20260311060000 +0000" stop="20260311063000 +0000" channel="Al Jazeera English.mncvision">
+    <title>News (L)</title>
+</programme>
+<programme start="20260311063000 +0000" stop="20260311070000 +0000" channel="Al Jazeera English.mncvision">
+    <title>Counting The Cost</title>
+</programme>
+<programme start="20260311070000 +0000" stop="20260311073000 +0000" channel="Al Jazeera English.mncvision">
+    <title>News (L)</title>
+</programme>
+<programme start="20260311073000 +0000" stop="20260311080000 +0000" channel="Al Jazeera English.mncvision">
+    <title>Business Of War: Remote Control</title>
+</programme>
+<programme start="20260311080000 +0000" stop="20260311083000 +0000" channel="Al Jazeera English.mncvision">
+    <title>News (L)</title>
+</programme>
+<programme start="20260311083000 +0000" stop="20260311090000 +0000" channel="Al Jazeera English.mncvision">
+    <title>The Stream</title>
+</programme>
+<programme start="20260311090000 +0000" stop="20260311093000 +0000" channel="Al Jazeera English.mncvision">
+    <title>News (L)</title>
+</programme>
+<programme start="20260311093000 +0000" stop="20260311100000 +0000" channel="Al Jazeera English.mncvision">
+    <title>Making Peace: The Light Within</title>
+</programme>
+<programme start="20260311100000 +0000" stop="20260311110000 +0000" channel="Al Jazeera English.mncvision">
+    <title>NewsHour</title>
+</programme>
+<programme start="20260311110000 +0000" stop="20260311113000 +0000" channel="Al Jazeera English.mncvision">
+    <title>News (L)</title>
+</programme>
+<programme start="20260311113000 +0000" stop="20260311120000 +0000" channel="Al Jazeera English.mncvision">
+    <title>Inside Story</title>
+</programme>
+<programme start="20260311120000 +0000" stop="20260311130000 +0000" channel="Al Jazeera English.mncvision">
+    <title>Al Jazeera World: Djibouti</title>
+</programme>
+<programme start="20260311130000 +0000" stop="20260311140000 +0000" channel="Al Jazeera English.mncvision">
+    <title>NewsHour</title>
+</programme>
+<programme start="20260311140000 +0000" stop="20260311143000 +0000" channel="Al Jazeera English.mncvision">
+    <title>News (L)</title>
+</programme>
+<programme start="20260311143000 +0000" stop="20260311150000 +0000" channel="Al Jazeera English.mncvision">
+    <title>The Listening Post</title>
+</programme>
+<programme start="20260311150000 +0000" stop="20260311160000 +0000" channel="Al Jazeera English.mncvision">
+    <title>NewsHour</title>
+</programme>
+<programme start="20260311160000 +0000" stop="20260311163000 +0000" channel="Al Jazeera English.mncvision">
+    <title>News (L)</title>
+</programme>
+<programme start="20260311163000 +0000" stop="20260310170000 +0000" channel="Al Jazeera English.mncvision">
+    <title>The Bottom Line</title>
+</programme>
 <programme start="20260310170000 +0000" stop="20260310190000 +0000" channel="Al Quran Al Kareem.mncvision">
     <title>Live From Mekkah</title>
 </programme>
@@ -3236,126 +3352,7 @@ Error: Unable to fetch data. HTTP Status Code: 0
 <programme start="20260311160000 +0000" stop="20260311163000 +0000" channel="Fight Sports.mncvision">
     <title>FS MMA: Daniel Vs Du Plessis</title>
 </programme>
-<programme start="20260310173000 +0000" stop="20260310180000 +0000" channel="FOOD TRAVEL.mncvision">
-    <title>Let&#039;s Go</title>
-</programme>
-<programme start="20260310180000 +0000" stop="20260310183000 +0000" channel="FOOD TRAVEL.mncvision">
-    <title>All You Can Eat</title>
-</programme>
-<programme start="20260310183000 +0000" stop="20260310193000 +0000" channel="FOOD TRAVEL.mncvision">
-    <title>Tukang Makan</title>
-</programme>
-<programme start="20260310193000 +0000" stop="20260310203000 +0000" channel="FOOD TRAVEL.mncvision">
-    <title>Dapur Ngebor</title>
-</programme>
-<programme start="20260310203000 +0000" stop="20260310210000 +0000" channel="FOOD TRAVEL.mncvision">
-    <title>Viral Kuliner</title>
-</programme>
-<programme start="20260310210000 +0000" stop="20260310213000 +0000" channel="FOOD TRAVEL.mncvision">
-    <title>Viral Kuliner</title>
-</programme>
-<programme start="20260310213000 +0000" stop="20260310220000 +0000" channel="FOOD TRAVEL.mncvision">
-    <title>Let&#039;s Go</title>
-</programme>
-<programme start="20260310220000 +0000" stop="20260310223000 +0000" channel="FOOD TRAVEL.mncvision">
-    <title>Wisata Ziarah</title>
-</programme>
-<programme start="20260310223000 +0000" stop="20260310230000 +0000" channel="FOOD TRAVEL.mncvision">
-    <title>All You Can Eat</title>
-</programme>
-<programme start="20260310230000 +0000" stop="20260310233000 +0000" channel="FOOD TRAVEL.mncvision">
-    <title>Ada Tamu Gokil</title>
-</programme>
-<programme start="20260310233000 +0000" stop="20260311000000 +0000" channel="FOOD TRAVEL.mncvision">
-    <title>Around The World</title>
-</programme>
-<programme start="20260311000000 +0000" stop="20260311003000 +0000" channel="FOOD TRAVEL.mncvision">
-    <title>Selebriti Masak?</title>
-</programme>
-<programme start="20260311003000 +0000" stop="20260311010000 +0000" channel="FOOD TRAVEL.mncvision">
-    <title>Viral Kuliner</title>
-</programme>
-<programme start="20260311010000 +0000" stop="20260311013000 +0000" channel="FOOD TRAVEL.mncvision">
-    <title>Viral Kuliner</title>
-</programme>
-<programme start="20260311013000 +0000" stop="20260311020000 +0000" channel="FOOD TRAVEL.mncvision">
-    <title>Kuliner Anak Nusantara</title>
-</programme>
-<programme start="20260311020000 +0000" stop="20260311023000 +0000" channel="FOOD TRAVEL.mncvision">
-    <title>Wisata Ziarah</title>
-</programme>
-<programme start="20260311023000 +0000" stop="20260311030000 +0000" channel="FOOD TRAVEL.mncvision">
-    <title>Travel Addict</title>
-</programme>
-<programme start="20260311030000 +0000" stop="20260311033000 +0000" channel="FOOD TRAVEL.mncvision">
-    <title>Around The World</title>
-</programme>
-<programme start="20260311033000 +0000" stop="20260311040000 +0000" channel="FOOD TRAVEL.mncvision">
-    <title>Let&#039;s Go</title>
-</programme>
-<programme start="20260311040000 +0000" stop="20260311050000 +0000" channel="FOOD TRAVEL.mncvision">
-    <title>Tukang Makan</title>
-</programme>
-<programme start="20260311050000 +0000" stop="20260311060000 +0000" channel="FOOD TRAVEL.mncvision">
-    <title>Dapur Panik</title>
-</programme>
-<programme start="20260311060000 +0000" stop="20260311063000 +0000" channel="FOOD TRAVEL.mncvision">
-    <title>Viral Kuliner</title>
-</programme>
-<programme start="20260311063000 +0000" stop="20260311070000 +0000" channel="FOOD TRAVEL.mncvision">
-    <title>Viral Kuliner</title>
-</programme>
-<programme start="20260311070000 +0000" stop="20260311080000 +0000" channel="FOOD TRAVEL.mncvision">
-    <title>Dapur Ngebor</title>
-</programme>
-<programme start="20260311080000 +0000" stop="20260311083000 +0000" channel="FOOD TRAVEL.mncvision">
-    <title>Let&#039;s Go</title>
-</programme>
-<programme start="20260311083000 +0000" stop="20260311090000 +0000" channel="FOOD TRAVEL.mncvision">
-    <title>Kuliner Anak Nusantara</title>
-</programme>
-<programme start="20260311090000 +0000" stop="20260311100000 +0000" channel="FOOD TRAVEL.mncvision">
-    <title>Tukang Makan</title>
-</programme>
-<programme start="20260311100000 +0000" stop="20260311110000 +0000" channel="FOOD TRAVEL.mncvision">
-    <title>Dapur Panik</title>
-</programme>
-<programme start="20260311110000 +0000" stop="20260311113000 +0000" channel="FOOD TRAVEL.mncvision">
-    <title>Viral Kuliner</title>
-</programme>
-<programme start="20260311113000 +0000" stop="20260311120000 +0000" channel="FOOD TRAVEL.mncvision">
-    <title>Viral Kuliner</title>
-</programme>
-<programme start="20260311120000 +0000" stop="20260311123000 +0000" channel="FOOD TRAVEL.mncvision">
-    <title>Viral Kuliner</title>
-</programme>
-<programme start="20260311123000 +0000" stop="20260311130000 +0000" channel="FOOD TRAVEL.mncvision">
-    <title>Let&#039;s Go</title>
-</programme>
-<programme start="20260311130000 +0000" stop="20260311133000 +0000" channel="FOOD TRAVEL.mncvision">
-    <title>Around The World</title>
-</programme>
-<programme start="20260311133000 +0000" stop="20260311140000 +0000" channel="FOOD TRAVEL.mncvision">
-    <title>Wisata Ziarah</title>
-</programme>
-<programme start="20260311140000 +0000" stop="20260311143000 +0000" channel="FOOD TRAVEL.mncvision">
-    <title>GPS: Geng Petualangan Seru</title>
-</programme>
-<programme start="20260311143000 +0000" stop="20260311150000 +0000" channel="FOOD TRAVEL.mncvision">
-    <title>All You Can Eat</title>
-</programme>
-<programme start="20260311150000 +0000" stop="20260311153000 +0000" channel="FOOD TRAVEL.mncvision">
-    <title>Selebriti Masak?</title>
-</programme>
-<programme start="20260311153000 +0000" stop="20260311160000 +0000" channel="FOOD TRAVEL.mncvision">
-    <title>Ada Tamu Gokil</title>
-</programme>
-<programme start="20260311160000 +0000" stop="20260311163000 +0000" channel="FOOD TRAVEL.mncvision">
-    <title>Travel Addict</title>
-</programme>
-<programme start="20260311163000 +0000" stop="20260310170000 +0000" channel="FOOD TRAVEL.mncvision">
-    <title>Dapur Panik</title>
-</programme>
+Error: Unable to fetch data. HTTP Status Code: 500
 <programme start="20260310173000 +0000" stop="20260310180000 +0000" channel="Food Travel HD.mncvision">
     <title>Let&#039;s Go</title>
 </programme>
@@ -9530,162 +9527,9 @@ Error: Unable to fetch data. HTTP Status Code: 0
 <programme start="20260311150000 +0000" stop="20260311153000 +0000" channel="TVRI.mncvision">
     <title>TVRI</title>
 </programme>
-<programme start="20260310182300 +0000" stop="20260310201700 +0000" channel="UNIQUES.mncvision">
-    <title>Platinum</title>
-</programme>
-<programme start="20260310201700 +0000" stop="20260310213900 +0000" channel="UNIQUES.mncvision">
-    <title>Killer Twin</title>
-</programme>
-<programme start="20260310213900 +0000" stop="20260310231800 +0000" channel="UNIQUES.mncvision">
-    <title>Beyond The Law</title>
-</programme>
-<programme start="20260310231800 +0000" stop="20260311013400 +0000" channel="UNIQUES.mncvision">
-    <title>Gold</title>
-</programme>
-<programme start="20260311013400 +0000" stop="20260311030600 +0000" channel="UNIQUES.mncvision">
-    <title>Christmas In Scotland</title>
-</programme>
-<programme start="20260311030600 +0000" stop="20260311043800 +0000" channel="UNIQUES.mncvision">
-    <title>Silver</title>
-</programme>
-<programme start="20260311043800 +0000" stop="20260311061400 +0000" channel="UNIQUES.mncvision">
-    <title>Alex Of Venice</title>
-</programme>
-<programme start="20260311061400 +0000" stop="20260311080800 +0000" channel="UNIQUES.mncvision">
-    <title>Platinum</title>
-</programme>
-<programme start="20260311080800 +0000" stop="20260311093300 +0000" channel="UNIQUES.mncvision">
-    <title>A Missed Connection</title>
-</programme>
-<programme start="20260311093300 +0000" stop="20260311110900 +0000" channel="UNIQUES.mncvision">
-    <title>The 2nd</title>
-</programme>
-<programme start="20260311110900 +0000" stop="20260311123600 +0000" channel="UNIQUES.mncvision">
-    <title>Gold</title>
-</programme>
-<programme start="20260311123600 +0000" stop="20260311140300 +0000" channel="UNIQUES.mncvision">
-    <title>Road Less Traveled</title>
-</programme>
-<programme start="20260311140300 +0000" stop="20260311154800 +0000" channel="UNIQUES.mncvision">
-    <title>Silver</title>
-</programme>
-<programme start="20260311154800 +0000" stop="20260311161800 +0000" channel="UNIQUES.mncvision">
-    <title>Black Warrant</title>
-</programme>
-<programme start="20260310182300 +0000" stop="20260310201700 +0000" channel="UNIQUES HD.mncvision">
-    <title>Platinum</title>
-</programme>
-<programme start="20260310201700 +0000" stop="20260310213900 +0000" channel="UNIQUES HD.mncvision">
-    <title>Killer Twin</title>
-</programme>
-<programme start="20260310213900 +0000" stop="20260310231800 +0000" channel="UNIQUES HD.mncvision">
-    <title>Beyond The Law</title>
-</programme>
-<programme start="20260310231800 +0000" stop="20260311013400 +0000" channel="UNIQUES HD.mncvision">
-    <title>Gold</title>
-</programme>
-<programme start="20260311013400 +0000" stop="20260311030600 +0000" channel="UNIQUES HD.mncvision">
-    <title>Christmas In Scotland</title>
-</programme>
-<programme start="20260311030600 +0000" stop="20260311043800 +0000" channel="UNIQUES HD.mncvision">
-    <title>Silver</title>
-</programme>
-<programme start="20260311043800 +0000" stop="20260311061400 +0000" channel="UNIQUES HD.mncvision">
-    <title>Alex Of Venice</title>
-</programme>
-<programme start="20260311061400 +0000" stop="20260311080800 +0000" channel="UNIQUES HD.mncvision">
-    <title>Platinum</title>
-</programme>
-<programme start="20260311080800 +0000" stop="20260311093300 +0000" channel="UNIQUES HD.mncvision">
-    <title>A Missed Connection</title>
-</programme>
-<programme start="20260311093300 +0000" stop="20260311110900 +0000" channel="UNIQUES HD.mncvision">
-    <title>The 2nd</title>
-</programme>
-<programme start="20260311110900 +0000" stop="20260311123600 +0000" channel="UNIQUES HD.mncvision">
-    <title>Gold</title>
-</programme>
-<programme start="20260311123600 +0000" stop="20260311140300 +0000" channel="UNIQUES HD.mncvision">
-    <title>Road Less Traveled</title>
-</programme>
-<programme start="20260311140300 +0000" stop="20260311154800 +0000" channel="UNIQUES HD.mncvision">
-    <title>Silver</title>
-</programme>
-<programme start="20260311154800 +0000" stop="20260311161800 +0000" channel="UNIQUES HD.mncvision">
-    <title>Black Warrant</title>
-</programme>
-<programme start="20260310170000 +0000" stop="20260310180000 +0000" channel="Vision Prime.mncvision">
-    <title>Intan</title>
-</programme>
-<programme start="20260310180000 +0000" stop="20260310190000 +0000" channel="Vision Prime.mncvision">
-    <title>Pashmina Aisha</title>
-</programme>
-<programme start="20260310190000 +0000" stop="20260310200000 +0000" channel="Vision Prime.mncvision">
-    <title>Banyak Jalan Menuju Surga</title>
-</programme>
-<programme start="20260310200000 +0000" stop="20260310210000 +0000" channel="Vision Prime.mncvision">
-    <title>Mencintai Ipar Sendiri</title>
-</programme>
-<programme start="20260310210000 +0000" stop="20260310220000 +0000" channel="Vision Prime.mncvision">
-    <title>99 Nama Cinta</title>
-</programme>
-<programme start="20260310220000 +0000" stop="20260310230000 +0000" channel="Vision Prime.mncvision">
-    <title>Cinta Yasmin</title>
-</programme>
-<programme start="20260310230000 +0000" stop="20260311000000 +0000" channel="Vision Prime.mncvision">
-    <title>Morning Update</title>
-</programme>
-<programme start="20260311000000 +0000" stop="20260311003000 +0000" channel="Vision Prime.mncvision">
-    <title>+62 Fo.Mo</title>
-</programme>
-<programme start="20260311003000 +0000" stop="20260311010000 +0000" channel="Vision Prime.mncvision">
-    <title>Sekuriti</title>
-</programme>
-<programme start="20260311010000 +0000" stop="20260311020000 +0000" channel="Vision Prime.mncvision">
-    <title>Gamezone Indonesia</title>
-</programme>
-<programme start="20260311020000 +0000" stop="20260311030000 +0000" channel="Vision Prime.mncvision">
-    <title>Intan</title>
-</programme>
-<programme start="20260311030000 +0000" stop="20260311040000 +0000" channel="Vision Prime.mncvision">
-    <title>Ikatan Cinta</title>
-</programme>
-<programme start="20260311040000 +0000" stop="20260311050000 +0000" channel="Vision Prime.mncvision">
-    <title>Banyak Jalan Menuju Surga</title>
-</programme>
-<programme start="20260311050000 +0000" stop="20260311060000 +0000" channel="Vision Prime.mncvision">
-    <title>The Price Is Right Indonesia</title>
-</programme>
-<programme start="20260311060000 +0000" stop="20260311070000 +0000" channel="Vision Prime.mncvision">
-    <title>Pernikahan Dini</title>
-</programme>
-<programme start="20260311070000 +0000" stop="20260311080000 +0000" channel="Vision Prime.mncvision">
-    <title>99 Nama Cinta</title>
-</programme>
-<programme start="20260311080000 +0000" stop="20260311090000 +0000" channel="Vision Prime.mncvision">
-    <title>Pashmina Aisha</title>
-</programme>
-<programme start="20260311090000 +0000" stop="20260311100000 +0000" channel="Vision Prime.mncvision">
-    <title>Banyak Jalan Menuju Surga</title>
-</programme>
-<programme start="20260311100000 +0000" stop="20260311110000 +0000" channel="Vision Prime.mncvision">
-    <title>Cinta Yasmin</title>
-</programme>
-<programme start="20260311110000 +0000" stop="20260311130000 +0000" channel="Vision Prime.mncvision">
-    <title>Mencintai Ipar Sendiri</title>
-</programme>
-<programme start="20260311130000 +0000" stop="20260311140000 +0000" channel="Vision Prime.mncvision">
-    <title>99 Nama Cinta</title>
-</programme>
-<programme start="20260311140000 +0000" stop="20260311143000 +0000" channel="Vision Prime.mncvision">
-    <title>Kartu Keluarga</title>
-</programme>
-<programme start="20260311143000 +0000" stop="20260311150000 +0000" channel="Vision Prime.mncvision">
-    <title>Beyond Creator Indonesian...</title>
-</programme>
-<programme start="20260311150000 +0000" stop="20260311153000 +0000" channel="Vision Prime.mncvision">
-    <title>MasterChef Indonesia S13</title>
-</programme>
+Error: Unable to fetch data. HTTP Status Code: 500
+Error: Unable to fetch data. HTTP Status Code: 500
+Error: Unable to fetch data. HTTP Status Code: 500
 <programme start="20260310170000 +0000" stop="20260310180000 +0000" channel="Vision Prime HD.mncvision">
     <title>Intan</title>
 </programme>

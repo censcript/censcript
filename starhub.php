@@ -5224,8 +5224,11 @@
     <programme start="20260311040000 +0000" stop="20260311043000 +0000" channel="SPOTV.starhub">
         <title>2025/26 ALM Mini Match Rd 20 Adelaide United vs Wellington Phoenix</title>
     </programme>
-    <programme start="20260311043000 +0000" stop="20260311073000 +0000" channel="SPOTV.starhub">
+    <programme start="20260311043000 +0000" stop="20260311064500 +0000" channel="SPOTV.starhub">
         <title>2026 World Baseball Classic: Pool C Czechia vs Japan</title>
+    </programme>
+    <programme start="20260311064500 +0000" stop="20260311073000 +0000" channel="SPOTV.starhub">
+        <title>WRT Le Mans &amp; Spa 24 Hours</title>
     </programme>
     <programme start="20260311073000 +0000" stop="20260311103000 +0000" channel="SPOTV.starhub">
         <title>2026 World Baseball Classic: Pool A Panama vs Puerto Rico</title>

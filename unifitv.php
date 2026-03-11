@@ -15450,10 +15450,15 @@
     <desc lang="en">Top flight men's soccer returns in the ISUZU UTE A-League Men. Catch every moment on SPOTV NOW as 12 teams compete in the regular season with top 4 advancing to a single-game knockout.</desc>
     <category lang="en">Football</category>
   </programme>
-  <programme start="20260311043000 +0000" stop="20260311073000 +0000" channel="spotv.unifitv">
+  <programme start="20260311043000 +0000" stop="20260311064500 +0000" channel="spotv.unifitv">
     <title lang="en">2026 World Baseball Classic: Pool C - Czechia vs Japan</title>
     <desc lang="en">The world's best national teams compete for international glory, delivering powerful hitting, elite pitching, and thrilling baseball action on the global stage.</desc>
     <category lang="en">Baseball</category>
+  </programme>
+  <programme start="20260311064500 +0000" stop="20260311073000 +0000" channel="spotv.unifitv">
+    <title lang="en">WRT Le Mans &amp; Spa 24 Hours</title>
+    <desc lang="en">A fascinating look at the trials of what goes on inside a team through two major events - Le Mans 24 Hours and Spa 24 Hours.</desc>
+    <category lang="en">Motorsports</category>
   </programme>
   <programme start="20260311073000 +0000" stop="20260311103000 +0000" channel="spotv.unifitv">
     <title lang="en">2026 World Baseball Classic: Pool A - Panama vs Puerto Rico</title>
