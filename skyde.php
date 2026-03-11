@@ -1402,10 +1402,10 @@
 <programme start="20260311060500 +0000" stop="20260311063000 +0000" channel="Nick Jr..skyde">
     <title>Rubble &amp; Crew</title>
 </programme>
-<programme start="20260311063000 +0000" stop="20260311065000 +0000" channel="Nick Jr..skyde">
+<programme start="20260311063000 +0000" stop="20260311065500 +0000" channel="Nick Jr..skyde">
     <title>Paw Patrol: Helfer auf vier Pfoten</title>
 </programme>
-<programme start="20260311065000 +0000" stop="20260311071500 +0000" channel="Nick Jr..skyde">
+<programme start="20260311065500 +0000" stop="20260311071500 +0000" channel="Nick Jr..skyde">
     <title>Paw Patrol: Helfer auf vier Pfoten</title>
 </programme>
 <programme start="20260311071500 +0000" stop="20260311073500 +0000" channel="Nick Jr..skyde">
@@ -1420,28 +1420,28 @@
 <programme start="20260311075500 +0000" stop="20260311080500 +0000" channel="Nick Jr..skyde">
     <title>Tim Rex im All</title>
 </programme>
-<programme start="20260311080500 +0000" stop="20260311081200 +0000" channel="Nick Jr..skyde">
+<programme start="20260311080500 +0000" stop="20260311081000 +0000" channel="Nick Jr..skyde">
     <title>Tim Rex im All</title>
 </programme>
-<programme start="20260311081200 +0000" stop="20260311081700 +0000" channel="Nick Jr..skyde">
+<programme start="20260311081000 +0000" stop="20260311081500 +0000" channel="Nick Jr..skyde">
     <title>Peppa Wutz</title>
 </programme>
-<programme start="20260311081700 +0000" stop="20260311082100 +0000" channel="Nick Jr..skyde">
+<programme start="20260311081500 +0000" stop="20260311082000 +0000" channel="Nick Jr..skyde">
     <title>Peppa Wutz</title>
 </programme>
-<programme start="20260311082100 +0000" stop="20260311082500 +0000" channel="Nick Jr..skyde">
+<programme start="20260311082000 +0000" stop="20260311082500 +0000" channel="Nick Jr..skyde">
     <title>Peppa Wutz</title>
 </programme>
-<programme start="20260311082500 +0000" stop="20260311083200 +0000" channel="Nick Jr..skyde">
+<programme start="20260311082500 +0000" stop="20260311083000 +0000" channel="Nick Jr..skyde">
     <title>Peppa Wutz</title>
 </programme>
-<programme start="20260311083200 +0000" stop="20260311083600 +0000" channel="Nick Jr..skyde">
+<programme start="20260311083000 +0000" stop="20260311083500 +0000" channel="Nick Jr..skyde">
     <title>Peppa Wutz</title>
 </programme>
-<programme start="20260311083600 +0000" stop="20260311084100 +0000" channel="Nick Jr..skyde">
+<programme start="20260311083500 +0000" stop="20260311084000 +0000" channel="Nick Jr..skyde">
     <title>Peppa Wutz</title>
 </programme>
-<programme start="20260311084100 +0000" stop="20260311084500 +0000" channel="Nick Jr..skyde">
+<programme start="20260311084000 +0000" stop="20260311084500 +0000" channel="Nick Jr..skyde">
     <title>Peppa Wutz</title>
 </programme>
 <programme start="20260311084500 +0000" stop="20260311085000 +0000" channel="Nick Jr..skyde">
@@ -1465,10 +1465,10 @@
 <programme start="20260311095500 +0000" stop="20260311100000 +0000" channel="Nick Jr..skyde">
     <title>Sharkdog</title>
 </programme>
-<programme start="20260311100000 +0000" stop="20260311102500 +0000" channel="Nick Jr..skyde">
+<programme start="20260311100000 +0000" stop="20260311102000 +0000" channel="Nick Jr..skyde">
     <title>Blaze und die Monster-Maschinen</title>
 </programme>
-<programme start="20260311102500 +0000" stop="20260311104500 +0000" channel="Nick Jr..skyde">
+<programme start="20260311102000 +0000" stop="20260311104500 +0000" channel="Nick Jr..skyde">
     <title>Blaze und die Monster-Maschinen</title>
 </programme>
 <programme start="20260311104500 +0000" stop="20260311111000 +0000" channel="Nick Jr..skyde">
@@ -1480,16 +1480,16 @@
 <programme start="20260311113000 +0000" stop="20260311115500 +0000" channel="Nick Jr..skyde">
     <title>Paw Patrol: Helfer auf vier Pfoten</title>
 </programme>
-<programme start="20260311115500 +0000" stop="20260311121500 +0000" channel="Nick Jr..skyde">
+<programme start="20260311115500 +0000" stop="20260311122000 +0000" channel="Nick Jr..skyde">
     <title>Paw Patrol: Helfer auf vier Pfoten</title>
 </programme>
-<programme start="20260311121500 +0000" stop="20260311124000 +0000" channel="Nick Jr..skyde">
+<programme start="20260311122000 +0000" stop="20260311124000 +0000" channel="Nick Jr..skyde">
     <title>BARBAPAPA und Familie</title>
 </programme>
-<programme start="20260311124000 +0000" stop="20260311130000 +0000" channel="Nick Jr..skyde">
+<programme start="20260311124000 +0000" stop="20260311130500 +0000" channel="Nick Jr..skyde">
     <title>BARBAPAPA und Familie</title>
 </programme>
-<programme start="20260311130000 +0000" stop="20260311132500 +0000" channel="Nick Jr..skyde">
+<programme start="20260311130500 +0000" stop="20260311132500 +0000" channel="Nick Jr..skyde">
     <title>Tim Rex im All</title>
 </programme>
 <programme start="20260311132500 +0000" stop="20260311135000 +0000" channel="Nick Jr..skyde">
@@ -1498,22 +1498,22 @@
 <programme start="20260311135000 +0000" stop="20260311141000 +0000" channel="Nick Jr..skyde">
     <title>DORA</title>
 </programme>
-<programme start="20260311141000 +0000" stop="20260311143300 +0000" channel="Nick Jr..skyde">
+<programme start="20260311141000 +0000" stop="20260311143000 +0000" channel="Nick Jr..skyde">
     <title>DORA</title>
 </programme>
-<programme start="20260311143300 +0000" stop="20260311143800 +0000" channel="Nick Jr..skyde">
+<programme start="20260311143000 +0000" stop="20260311143500 +0000" channel="Nick Jr..skyde">
     <title>Peppa Wutz</title>
 </programme>
-<programme start="20260311143800 +0000" stop="20260311144200 +0000" channel="Nick Jr..skyde">
+<programme start="20260311143500 +0000" stop="20260311144000 +0000" channel="Nick Jr..skyde">
     <title>Peppa Wutz</title>
 </programme>
-<programme start="20260311144200 +0000" stop="20260311144700 +0000" channel="Nick Jr..skyde">
+<programme start="20260311144000 +0000" stop="20260311144500 +0000" channel="Nick Jr..skyde">
     <title>Peppa Wutz</title>
 </programme>
-<programme start="20260311144700 +0000" stop="20260311145100 +0000" channel="Nick Jr..skyde">
+<programme start="20260311144500 +0000" stop="20260311145000 +0000" channel="Nick Jr..skyde">
     <title>Peppa Wutz</title>
 </programme>
-<programme start="20260311145100 +0000" stop="20260311145500 +0000" channel="Nick Jr..skyde">
+<programme start="20260311145000 +0000" stop="20260311145500 +0000" channel="Nick Jr..skyde">
     <title>Peppa Wutz</title>
 </programme>
 <programme start="20260311145500 +0000" stop="20260311150000 +0000" channel="Nick Jr..skyde">
@@ -1534,10 +1534,10 @@
 <programme start="20260311162500 +0000" stop="20260311163500 +0000" channel="Nick Jr..skyde">
     <title>Rubble &amp; Crew</title>
 </programme>
-<programme start="20260311163500 +0000" stop="20260311165500 +0000" channel="Nick Jr..skyde">
+<programme start="20260311163500 +0000" stop="20260311170000 +0000" channel="Nick Jr..skyde">
     <title>DORA</title>
 </programme>
-<programme start="20260311165500 +0000" stop="20260311172000 +0000" channel="Nick Jr..skyde">
+<programme start="20260311170000 +0000" stop="20260311172000 +0000" channel="Nick Jr..skyde">
     <title>BARBAPAPA und Familie</title>
 </programme>
 <programme start="20260311172000 +0000" stop="20260311173000 +0000" channel="Nick Jr..skyde">
@@ -1549,22 +1549,22 @@
 <programme start="20260311174000 +0000" stop="20260311174500 +0000" channel="Nick Jr..skyde">
     <title>Tim Rex im All</title>
 </programme>
-<programme start="20260311174500 +0000" stop="20260311175000 +0000" channel="Nick Jr..skyde">
+<programme start="20260311174500 +0000" stop="20260311175500 +0000" channel="Nick Jr..skyde">
     <title>Tim Rex im All</title>
 </programme>
-<programme start="20260311175000 +0000" stop="20260311180200 +0000" channel="Nick Jr..skyde">
+<programme start="20260311175500 +0000" stop="20260311180000 +0000" channel="Nick Jr..skyde">
     <title>Tim Rex im All</title>
 </programme>
-<programme start="20260311180200 +0000" stop="20260311180700 +0000" channel="Nick Jr..skyde">
+<programme start="20260311180000 +0000" stop="20260311180500 +0000" channel="Nick Jr..skyde">
     <title>Peppa Wutz</title>
 </programme>
-<programme start="20260311180700 +0000" stop="20260311181100 +0000" channel="Nick Jr..skyde">
+<programme start="20260311180500 +0000" stop="20260311181000 +0000" channel="Nick Jr..skyde">
     <title>Peppa Wutz</title>
 </programme>
-<programme start="20260311181100 +0000" stop="20260311181600 +0000" channel="Nick Jr..skyde">
+<programme start="20260311181000 +0000" stop="20260311181500 +0000" channel="Nick Jr..skyde">
     <title>Peppa Wutz</title>
 </programme>
-<programme start="20260311181600 +0000" stop="20260311182000 +0000" channel="Nick Jr..skyde">
+<programme start="20260311181500 +0000" stop="20260311182000 +0000" channel="Nick Jr..skyde">
     <title>Peppa Wutz</title>
 </programme>
 <programme start="20260311182000 +0000" stop="20260311182500 +0000" channel="Nick Jr..skyde">
@@ -1576,10 +1576,10 @@
 <programme start="20260311183000 +0000" stop="20260311185000 +0000" channel="Nick Jr..skyde">
     <title>BARBAPAPA und Familie</title>
 </programme>
-<programme start="20260311185000 +0000" stop="20260311190000 +0000" channel="Nick Jr..skyde">
+<programme start="20260311185000 +0000" stop="20260311190500 +0000" channel="Nick Jr..skyde">
     <title>BARBAPAPA und Familie</title>
 </programme>
-<programme start="20260311190000 +0000" stop="20260311192500 +0000" channel="Nick Jr..skyde">
+<programme start="20260311190500 +0000" stop="20260311192500 +0000" channel="Nick Jr..skyde">
     <title>Blaze und die Monster-Maschinen</title>
 </programme>
 <programme start="20260311192500 +0000" stop="20260311194500 +0000" channel="Nick Jr..skyde">
@@ -3089,10 +3089,10 @@
     <title>ATP: This Week</title>
 </programme>
 <programme start="20260311053000 +0000" stop="20260311073000 +0000" channel="Sky Sport Tennis HD.skyde">
-    <title>WTA 1000: Topspiel, BNP Paribas Open in Indian Wells, Kalifornien (USA), 7. Tag</title>
+    <title>WTA 1000: A. Sabalenka - N. Osaka (JPN), BNP Paribas Open in Indian Wells, Kalifornien (USA), 7. Tag</title>
 </programme>
 <programme start="20260311073000 +0000" stop="20260311093000 +0000" channel="Sky Sport Tennis HD.skyde">
-    <title>ATP 1000: Topspiel, BNP Paribas Open in Indian Wells, Kalifornien (USA), 7. Tag</title>
+    <title>ATP 1000: A. Zverev (GER) - F. Tiafoe (USA), BNP Paribas Open in Indian Wells, Kalifornien (USA), 7. Tag</title>
 </programme>
 <programme start="20260311093000 +0000" stop="20260311100000 +0000" channel="Sky Sport Tennis HD.skyde">
     <title>ATP: This Week</title>
@@ -3104,10 +3104,10 @@
     <title>ATP 500: Review Acapulco</title>
 </programme>
 <programme start="20260311133000 +0000" stop="20260311153000 +0000" channel="Sky Sport Tennis HD.skyde">
-    <title>WTA 1000: Topspiel, BNP Paribas Open in Indian Wells, Kalifornien (USA), 7. Tag</title>
+    <title>WTA 1000: A. Sabalenka - N. Osaka (JPN), BNP Paribas Open in Indian Wells, Kalifornien (USA), 7. Tag</title>
 </programme>
 <programme start="20260311153000 +0000" stop="20260311173000 +0000" channel="Sky Sport Tennis HD.skyde">
-    <title>ATP 1000: Topspiel, BNP Paribas Open in Indian Wells, Kalifornien (USA), 7. Tag</title>
+    <title>ATP 1000: A. Zverev (GER) - F. Tiafoe (USA), BNP Paribas Open in Indian Wells, Kalifornien (USA), 7. Tag</title>
 </programme>
 <programme start="20260311173000 +0000" stop="20260311180000 +0000" channel="Sky Sport Tennis HD.skyde">
     <title>ATP: This Week</title>
@@ -3160,6 +3160,30 @@
 <programme start="20260311203000 +0000" stop="20260311233000 +0000" channel="Sky Sport Top Event HD.skyde">
     <title>Live ATP &amp; WTA: Konferenz BNP Paribas Open in Indian Wells, Kalifornien (USA), 8. Tag</title>
 </programme>
+<programme start="20260310230000 +0000" stop="20260311000000 +0000" channel="Sky Sport UHD.skyde">
+    <title>F3: 1. Rennen - GP Australien</title>
+</programme>
+<programme start="20260311000000 +0000" stop="20260311020000 +0000" channel="Sky Sport UHD.skyde">
+    <title>DFB-Pokal: FC Bayern München - RB Leipzig, Viertelfinale</title>
+</programme>
+<programme start="20260311020000 +0000" stop="20260311023000 +0000" channel="Sky Sport UHD.skyde">
+    <title>Golf: Greatest Holes (4)</title>
+</programme>
+<programme start="20260311023000 +0000" stop="20260311030000 +0000" channel="Sky Sport UHD.skyde">
+    <title>Golf: Greatest Holes (5)</title>
+</programme>
+<programme start="20260311030000 +0000" stop="20260311040000 +0000" channel="Sky Sport UHD.skyde">
+    <title>F3: 1. Rennen - GP Australien</title>
+</programme>
+<programme start="20260311040000 +0000" stop="20260311050000 +0000" channel="Sky Sport UHD.skyde">
+    <title>F2: 2. Rennen - GP Australien</title>
+</programme>
+<programme start="20260311050000 +0000" stop="20260311070000 +0000" channel="Sky Sport UHD.skyde">
+    <title>F1: Rennen - GP Australien</title>
+</programme>
+<programme start="20260311070000 +0000" stop="20260311071500 +0000" channel="Sky Sport UHD.skyde">
+    <title>Info: UHD</title>
+</programme>
 <programme start="20260310230000 +0000" stop="20260311000000 +0000" channel="Sky Sport 1 HD.skyde">
     <title>Live NBA: Showtime</title>
 </programme>
@@ -3181,13 +3205,13 @@
 <programme start="20260311162500 +0000" stop="20260311164500 +0000" channel="Sky Sport 2 HD.skyde">
     <title>Es folgt DFB-Pokal</title>
 </programme>
-<programme start="20260311164500 +0000" stop="20260311203000 +0000" channel="Sky Sport 2 HD.skyde">
+<programme start="20260311164500 +0000" stop="20260311193000 +0000" channel="Sky Sport 2 HD.skyde">
     <title>Live DFB-Pokal Frauen: Hamburger SV - FC Bayern München, Viertelfinale</title>
 </programme>
 <programme start="20260311162500 +0000" stop="20260311164500 +0000" channel="Sky Sport 3 HD.skyde">
     <title>Es folgt DFB-Pokal</title>
 </programme>
-<programme start="20260311164500 +0000" stop="20260311193000 +0000" channel="Sky Sport 3 HD.skyde">
+<programme start="20260311164500 +0000" stop="20260311203000 +0000" channel="Sky Sport 3 HD.skyde">
     <title>Live DFB-Pokal Frauen: VfL Wolfsburg - Eintracht Frankfurt, Viertelfinale</title>
 </programme>
 <programme start="20260311162500 +0000" stop="20260311164500 +0000" channel="Sky Sport 4 HD.skyde">
@@ -3199,7 +3223,7 @@
 <programme start="20260311162500 +0000" stop="20260311164500 +0000" channel="Sky Sport 5 HD.skyde">
     <title>Es folgt DFB-Pokal</title>
 </programme>
-<programme start="20260311164500 +0000" stop="20260311203000 +0000" channel="Sky Sport 5 HD.skyde">
+<programme start="20260311164500 +0000" stop="20260311193000 +0000" channel="Sky Sport 5 HD.skyde">
     <title>Live DFB-Pokal Frauen: FC Carl Zeiss Jena - SC Sand, Viertelfinale</title>
 </programme>
 <programme start="20260311174000 +0000" stop="20260311180000 +0000" channel="Sky Sport 6 HD.skyde">

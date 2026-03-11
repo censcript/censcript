@@ -1,5 +1,5 @@
     <programme start="20260311010000 +0000" stop="19700101020000 +0000" channel="VTV1 HD.mytv">
-        <title> Phim truyện : Những nẻo đường gần xa - Tập 58/65 </title>
+        <title> Phim truyện : Những nẻo đường gần xa - Tập 58 </title>
     </programme>
     <programme start="20260311010000 +0000" stop="20260311013000 +0000" channel="VTV1 HD.mytv">
         <title> Lao động và công đoàn : Lá phiếu của người lao động </title>
@@ -26,7 +26,7 @@
         <title> Phim truyện : Trói buộc yêu thương - Tập 30 </title>
     </programme>
     <programme start="20260311051500 +0000" stop="20260311060500 +0000" channel="VTV1 HD.mytv">
-        <title> S - Việt Nam </title>
+        <title> S - Việt Nam : Ánh sáng từ suối </title>
     </programme>
     <programme start="20260311060500 +0000" stop="20260311061000 +0000" channel="VTV1 HD.mytv">
         <title> Lao động và công đoàn : Lá phiếu của người lao động </title>
@@ -41,13 +41,13 @@
         <title> Việt Nam đa sắc </title>
     </programme>
     <programme start="20260311082500 +0000" stop="20260311083000 +0000" channel="VTV1 HD.mytv">
-        <title> Ký sự </title>
+        <title> Ký sự : Ngày hội non sông - Tập 3 </title>
     </programme>
     <programme start="20260311083000 +0000" stop="20260311084500 +0000" channel="VTV1 HD.mytv">
         <title> Khám phá Việt Nam : Du dương làn điệu Pả Dung </title>
     </programme>
     <programme start="20260311084500 +0000" stop="20260311090000 +0000" channel="VTV1 HD.mytv">
-        <title> Cuộc sống nhiệm màu </title>
+        <title> Cuộc sống nhiệm màu : Thoát khỏi nỗi lo bệnh mãn tính </title>
     </programme>
     <programme start="20260311090000 +0000" stop="20260311091500 +0000" channel="VTV1 HD.mytv">
         <title> Sống mới </title>
@@ -68,7 +68,7 @@
         <title> Hitech công nghệ tương lai </title>
     </programme>
     <programme start="20260311112500 +0000" stop="20260311115500 +0000" channel="VTV1 HD.mytv">
-        <title> Nét đẹp dân gian </title>
+        <title> Nét đẹp dân gian : Dòng sông, câu hò Như Lệ </title>
     </programme>
     <programme start="20260311115500 +0000" stop="20260311120000 +0000" channel="VTV1 HD.mytv">
         <title> Tài chính - Kinh doanh </title>
@@ -83,7 +83,7 @@
         <title> Nhịp sống tuổi bạc </title>
     </programme>
     <programme start="20260311134500 +0000" stop="20260311140000 +0000" channel="VTV1 HD.mytv">
-        <title> VTV Sống khỏe </title>
+        <title> VTV Sống khỏe : Đồ uống có đường - Hệ lụy và giải pháp </title>
     </programme>
     <programme start="20260311140000 +0000" stop="20260311144500 +0000" channel="VTV1 HD.mytv">
         <title> Từ những miền quê : Độc đáo vũ điệu của người Sán Chỉ </title>
@@ -107,16 +107,16 @@
         <title> Câu chuyện quốc tế : Sau cái chết của trùm ma túy </title>
     </programme>
     <programme start="20260311171500 +0000" stop="20260311173000 +0000" channel="VTV1 HD.mytv">
-        <title> Dân tộc và phát triển </title>
+        <title> Dân tộc và phát triển : Vùng dân tộc thiểu số sẵn sàng ngày hội lớn </title>
     </programme>
     <programme start="20260311173000 +0000" stop="20260311180000 +0000" channel="VTV1 HD.mytv">
         <title> Việt Nam đa sắc </title>
     </programme>
     <programme start="20260311180000 +0000" stop="20260311181000 +0000" channel="VTV1 HD.mytv">
-        <title> Phụ nữ và cuộc sống </title>
+        <title> Phụ nữ và cuộc sống : Sắc mới trong ngày hội non sông </title>
     </programme>
     <programme start="20260311181000 +0000" stop="20260311182000 +0000" channel="VTV1 HD.mytv">
-        <title> Hành trình vẻ đẹp </title>
+        <title> Hành trình vẻ đẹp : Những ngày vui ở Khe Sanh </title>
     </programme>
     <programme start="20260311182000 +0000" stop="20260311183000 +0000" channel="VTV1 HD.mytv">
         <title> Chuyển động 24h </title>
@@ -164,7 +164,7 @@
         <title> Thế giới hôm nay </title>
     </programme>
     <programme start="20260311231500 +0000" stop="20260311233500 +0000" channel="VTV1 HD.mytv">
-        <title> Câu chuyện từ những bài ca </title>
+        <title> Câu chuyện từ những bài ca : Huyền thoại mẹ </title>
     </programme>
     <programme start="20260311233500 +0000" stop="20260311234500 +0000" channel="VTV1 HD.mytv">
         <title> VTV kết nối </title>

@@ -3460,7 +3460,7 @@
   </programme>
   <programme start="20260310163500 +0000" stop="20260310173500 +0000" channel="tvbjade.unifitv">
     <title lang="en">Imperial Coroner, The (II)</title>
-    <desc lang="en">While filming a historical food video, Shen Yaoguang's family accidentally enters a dream world and lands in ancient Yong'an. To survive, they open a small eatery serving modern style dishes, becoming unexpectedly popular. Mistaking Prefect Lin Yan for an ancestor, they move into his residence under a fake engagement and form a deep bond. Using modern knowledge, the family adapts to ancient life and helps Lin Yan uncover the truth behind his family's injustice, exposing Prince Wu's conspiracy. Together they protect the city, and after a life or death trial, they awaken back in reality with renewed understanding of family and heritage.</desc>
+    <desc lang="en">The story of the aloof Prince An, Xiao Jinyu, and Chu Chu, the imperial-appointed female coroner, after their marriage! Their careers, relationships, and overall perspectives are all upgraded. Together with the youth team of the Three Judicial Offices, they uncover the truth and solve bizarre cases, working hand in hand to safeguard the peace of the Tang Dynasty.</desc>
     <category lang="en">Drama Series</category>
     <episode-num system="xmltv_ns">0.3.</episode-num>
     <episode-num system="onscreen">S1E4</episode-num>
@@ -3555,11 +3555,11 @@
     <episode-num system="onscreen">S1E1613</episode-num>
   </programme>
   <programme start="20260311020500 +0000" stop="20260311023500 +0000" channel="tvbjade.unifitv">
-    <title lang="en">Game of Scholars 2 &amp; What's On Today</title>
-    <desc lang="en">is a popular educational variety and game show</desc>
+    <title lang="en">Game of Scholars &amp; What's On Today</title>
+    <desc lang="en">"Go to College" is hosted by Lam Shing-Pin, along with 2025 Miss Hong Kong runner-up Shi Yu-Chi and third-place winner Yuan Wen-Jing. This campus-themed quiz program combines academic and entertainment elements, offering viewers a novel viewing experience. The quiz questions range from elementary school to university level, and the cast members will participate in school uniforms. The cast will answer elementary school questions, starting with elementary school questions, to compete for a place in higher education. Making good use of "study tips" can help smooth their academic journey. The thrilling program fully tests the cast's knowledge and on-the-spot reactions. Winners of each round will not only pocket prizes but also advance to the final round of the anniversary night competition for even more lucrative prizes!</desc>
     <category lang="en">Entertainment</category>
-    <episode-num system="xmltv_ns">0.6.</episode-num>
-    <episode-num system="onscreen">S1E7</episode-num>
+    <episode-num system="xmltv_ns">0.16.</episode-num>
+    <episode-num system="onscreen">S1E17</episode-num>
   </programme>
   <programme start="20260311023500 +0000" stop="20260311030500 +0000" channel="tvbjade.unifitv">
     <title lang="en">Gourmet Express</title>
@@ -3612,17 +3612,17 @@
   </programme>
   <programme start="20260311063500 +0000" stop="20260311073500 +0000" channel="tvbjade.unifitv">
     <title lang="en">Imperial Coroner, The (II) &amp; What's On Today</title>
-    <desc lang="en">The story picks up three years after the events of the first season. Xiao Jinyu (Prince An) and Chu Chu are now a married couple, balancing their domestic life with their high-stakes roles at the Three Judicial Offices.</desc>
+    <desc lang="en">The story of the aloof Prince An, Xiao Jinyu, and Chu Chu, the imperial-appointed female coroner, after their marriage! Their careers, relationships, and overall perspectives are all upgraded. Together with the youth team of the Three Judicial Offices, they uncover the truth and solve bizarre cases, working hand in hand to safeguard the peace of the Tang Dynasty.</desc>
     <category lang="en">Drama Series</category>
     <episode-num system="xmltv_ns">0.3.</episode-num>
     <episode-num system="onscreen">S1E4</episode-num>
   </programme>
   <programme start="20260311073500 +0000" stop="20260311080500 +0000" channel="tvbjade.unifitv">
-    <title lang="en">Game of Scholars 2</title>
-    <desc lang="en">is a popular educational variety and game show</desc>
+    <title lang="en">Game of Scholars</title>
+    <desc lang="en">"Go to College" is hosted by Lam Shing-Pin, along with 2025 Miss Hong Kong runner-up Shi Yu-Chi and third-place winner Yuan Wen-Jing. This campus-themed quiz program combines academic and entertainment elements, offering viewers a novel viewing experience. The quiz questions range from elementary school to university level, and the cast members will participate in school uniforms. The cast will answer elementary school questions, starting with elementary school questions, to compete for a place in higher education. Making good use of "study tips" can help smooth their academic journey. The thrilling program fully tests the cast's knowledge and on-the-spot reactions. Winners of each round will not only pocket prizes but also advance to the final round of the anniversary night competition for even more lucrative prizes!</desc>
     <category lang="en">Entertainment</category>
-    <episode-num system="xmltv_ns">0.6.</episode-num>
-    <episode-num system="onscreen">S1E7</episode-num>
+    <episode-num system="xmltv_ns">0.16.</episode-num>
+    <episode-num system="onscreen">S1E17</episode-num>
   </programme>
   <programme start="20260311080500 +0000" stop="20260311083500 +0000" channel="tvbjade.unifitv">
     <title lang="en">Dolce Vita 2021</title>
@@ -3687,17 +3687,17 @@
   </programme>
   <programme start="20260311133500 +0000" stop="20260311143500 +0000" channel="tvbjade.unifitv">
     <title lang="en">Imperial Coroner, The (II)</title>
-    <desc lang="en">While filming a historical food video, Shen Yaoguang's family accidentally enters a dream world and lands in ancient Yong'an. To survive, they open a small eatery serving modern style dishes, becoming unexpectedly popular. Mistaking Prefect Lin Yan for an ancestor, they move into his residence under a fake engagement and form a deep bond. Using modern knowledge, the family adapts to ancient life and helps Lin Yan uncover the truth behind his family's injustice, exposing Prince Wu's conspiracy. Together they protect the city, and after a life or death trial, they awaken back in reality with renewed understanding of family and heritage.</desc>
+    <desc lang="en">The story of the aloof Prince An, Xiao Jinyu, and Chu Chu, the imperial-appointed female coroner, after their marriage! Their careers, relationships, and overall perspectives are all upgraded. Together with the youth team of the Three Judicial Offices, they uncover the truth and solve bizarre cases, working hand in hand to safeguard the peace of the Tang Dynasty.</desc>
     <category lang="en">Drama Series</category>
     <episode-num system="xmltv_ns">0.4.</episode-num>
     <episode-num system="onscreen">S1E5</episode-num>
   </programme>
   <programme start="20260311143500 +0000" stop="20260311150500 +0000" channel="tvbjade.unifitv">
-    <title lang="en">Game of Scholars 2</title>
-    <desc lang="en">is a popular educational variety and game show</desc>
+    <title lang="en">Game of Scholars</title>
+    <desc lang="en">"Go to College" is hosted by Lam Shing-Pin, along with 2025 Miss Hong Kong runner-up Shi Yu-Chi and third-place winner Yuan Wen-Jing. This campus-themed quiz program combines academic and entertainment elements, offering viewers a novel viewing experience. The quiz questions range from elementary school to university level, and the cast members will participate in school uniforms. The cast will answer elementary school questions, starting with elementary school questions, to compete for a place in higher education. Making good use of "study tips" can help smooth their academic journey. The thrilling program fully tests the cast's knowledge and on-the-spot reactions. Winners of each round will not only pocket prizes but also advance to the final round of the anniversary night competition for even more lucrative prizes!</desc>
     <category lang="en">Entertainment</category>
-    <episode-num system="xmltv_ns">0.7.</episode-num>
-    <episode-num system="onscreen">S1E8</episode-num>
+    <episode-num system="xmltv_ns">0.17.</episode-num>
+    <episode-num system="onscreen">S1E18</episode-num>
   </programme>
   <programme start="20260311150500 +0000" stop="20260311152000 +0000" channel="tvbjade.unifitv">
     <title lang="en">EXTRA</title>
