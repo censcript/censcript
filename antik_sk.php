@@ -238,6 +238,153 @@
   <programme start="20260313220000 +0000" stop="20260313230400 +0000" channel="Dvojka.webtv.sk">
     <title lang="id">To je pop!</title>
   </programme>
+  <programme start="20260312225000 +0000" stop="20260312234000 +0000" channel=":24.webtv.sk">
+    <title lang="id">Komentáre dňa</title>
+  </programme>
+  <programme start="20260312234000 +0000" stop="20260313003000 +0000" channel=":24.webtv.sk">
+    <title lang="id">Správy</title>
+  </programme>
+  <programme start="20260313003000 +0000" stop="20260313010000 +0000" channel=":24.webtv.sk">
+    <title lang="id">Svet :24</title>
+  </programme>
+  <programme start="20260313010000 +0000" stop="20260313012500 +0000" channel=":24.webtv.sk">
+    <title lang="id">Interview :24</title>
+  </programme>
+  <programme start="20260313012500 +0000" stop="20260313015000 +0000" channel=":24.webtv.sk">
+    <title lang="id">Z prvej ruky</title>
+  </programme>
+  <programme start="20260313015000 +0000" stop="20260313021500 +0000" channel=":24.webtv.sk">
+    <title lang="id">Ekonomika :24</title>
+  </programme>
+  <programme start="20260313021500 +0000" stop="20260313031000 +0000" channel=":24.webtv.sk">
+    <title lang="id">Správy</title>
+  </programme>
+  <programme start="20260313031000 +0000" stop="20260313033000 +0000" channel=":24.webtv.sk">
+    <title lang="id">Góly - body - sekundy</title>
+  </programme>
+  <programme start="20260313033000 +0000" stop="20260313033500 +0000" channel=":24.webtv.sk">
+    <title lang="id">Počasie</title>
+  </programme>
+  <programme start="20260313033500 +0000" stop="20260313040500 +0000" channel=":24.webtv.sk">
+    <title lang="id">Interview :24</title>
+  </programme>
+  <programme start="20260313040500 +0000" stop="20260313043000 +0000" channel=":24.webtv.sk">
+    <title lang="id">Svet :24</title>
+  </programme>
+  <programme start="20260313043000 +0000" stop="20260313052500 +0000" channel=":24.webtv.sk">
+    <title lang="id">Správy</title>
+  </programme>
+  <programme start="20260313052500 +0000" stop="20260313060000 +0000" channel=":24.webtv.sk">
+    <title lang="id">Ekonomika :24</title>
+  </programme>
+  <programme start="20260313060000 +0000" stop="20260313073000 +0000" channel=":24.webtv.sk">
+    <title lang="id">Ranné správy</title>
+  </programme>
+  <programme start="20260313073000 +0000" stop="20260313080000 +0000" channel=":24.webtv.sk">
+    <title lang="id">Interview :24</title>
+  </programme>
+  <programme start="20260313080000 +0000" stop="20260313081000 +0000" channel=":24.webtv.sk">
+    <title lang="id">Správy :24</title>
+  </programme>
+  <programme start="20260313081000 +0000" stop="20260313090000 +0000" channel=":24.webtv.sk">
+    <title lang="id">Komentáre dňa</title>
+  </programme>
+  <programme start="20260313090000 +0000" stop="20260313093000 +0000" channel=":24.webtv.sk">
+    <title lang="id">Správy :24</title>
+  </programme>
+  <programme start="20260313093000 +0000" stop="20260313100000 +0000" channel=":24.webtv.sk">
+    <title lang="id">Správy :24</title>
+  </programme>
+  <programme start="20260313100000 +0000" stop="20260313103000 +0000" channel=":24.webtv.sk">
+    <title lang="id">Správy :24</title>
+  </programme>
+  <programme start="20260313103000 +0000" stop="20260313110000 +0000" channel=":24.webtv.sk">
+    <title lang="id">Ekonomika :24</title>
+  </programme>
+  <programme start="20260313110000 +0000" stop="20260313113000 +0000" channel=":24.webtv.sk">
+    <title lang="id">Správy</title>
+  </programme>
+  <programme start="20260313113000 +0000" stop="20260313120000 +0000" channel=":24.webtv.sk">
+    <title lang="id">Z prvej ruky</title>
+  </programme>
+  <programme start="20260313120000 +0000" stop="20260313123000 +0000" channel=":24.webtv.sk">
+    <title lang="id">Aktuálne :24</title>
+  </programme>
+  <programme start="20260313123000 +0000" stop="20260313130000 +0000" channel=":24.webtv.sk">
+    <title lang="id">Aktuálne :24</title>
+  </programme>
+  <programme start="20260313130000 +0000" stop="20260313132500 +0000" channel=":24.webtv.sk">
+    <title lang="id">Aktuálne :24</title>
+  </programme>
+  <programme start="20260313132500 +0000" stop="20260313140000 +0000" channel=":24.webtv.sk">
+    <title lang="id">Šport :24</title>
+  </programme>
+  <programme start="20260313140000 +0000" stop="20260313143000 +0000" channel=":24.webtv.sk">
+    <title lang="id">Aktuálne :24</title>
+  </programme>
+  <programme start="20260313143000 +0000" stop="20260313150000 +0000" channel=":24.webtv.sk">
+    <title lang="id">Aktuálne :24</title>
+  </programme>
+  <programme start="20260313150000 +0000" stop="20260313153000 +0000" channel=":24.webtv.sk">
+    <title lang="id">Správy</title>
+  </programme>
+  <programme start="20260313153000 +0000" stop="20260313160000 +0000" channel=":24.webtv.sk">
+    <title lang="id">Týždeň v ekonomike</title>
+  </programme>
+  <programme start="20260313160000 +0000" stop="20260313163000 +0000" channel=":24.webtv.sk">
+    <title lang="id">Svet :24</title>
+  </programme>
+  <programme start="20260313163000 +0000" stop="20260313170000 +0000" channel=":24.webtv.sk">
+    <title lang="id">Správy z regiónov</title>
+  </programme>
+  <programme start="20260313170000 +0000" stop="20260313172500 +0000" channel=":24.webtv.sk">
+    <title lang="id">Interview :24</title>
+  </programme>
+  <programme start="20260313172500 +0000" stop="20260313175000 +0000" channel=":24.webtv.sk">
+    <title lang="id">Týždeň v ekonomike</title>
+  </programme>
+  <programme start="20260313175000 +0000" stop="20260313180000 +0000" channel=":24.webtv.sk">
+    <title lang="id">Počasie</title>
+  </programme>
+  <programme start="20260313180000 +0000" stop="20260313185500 +0000" channel=":24.webtv.sk">
+    <title lang="id">Správy</title>
+  </programme>
+  <programme start="20260313185500 +0000" stop="20260313191000 +0000" channel=":24.webtv.sk">
+    <title lang="id">Góly - body - sekundy</title>
+  </programme>
+  <programme start="20260313191000 +0000" stop="20260313194000 +0000" channel=":24.webtv.sk">
+    <title lang="id">Reportéri</title>
+  </programme>
+  <programme start="20260313194000 +0000" stop="20260313200500 +0000" channel=":24.webtv.sk">
+    <title lang="id">Cez lupu</title>
+  </programme>
+  <programme start="20260313200500 +0000" stop="20260313203000 +0000" channel=":24.webtv.sk">
+    <title lang="id">Správy z regiónov</title>
+  </programme>
+  <programme start="20260313203000 +0000" stop="20260313210000 +0000" channel=":24.webtv.sk">
+    <title lang="id">Z prvej ruky</title>
+  </programme>
+  <programme start="20260313210000 +0000" stop="20260313212000 +0000" channel=":24.webtv.sk">
+    <title lang="id">Správy :24</title>
+  </programme>
+  <programme start="20260313212000 +0000" stop="20260313213000 +0000" channel=":24.webtv.sk">
+    <title lang="id">Hírek</title>
+  </programme>
+  <programme start="20260313213000 +0000" stop="20260313215500 +0000" channel=":24.webtv.sk">
+    <title lang="id">Týždeň v ekonomike</title>
+  </programme>
+  <programme start="20260313215500 +0000" stop="20260313222000 +0000" channel=":24.webtv.sk">
+    <title lang="id">Svet :24</title>
+  </programme>
+  <programme start="20260313222000 +0000" stop="20260313224500 +0000" channel=":24.webtv.sk">
+    <title lang="id">Správy :24</title>
+  </programme>
+  <programme start="20260313224500 +0000" stop="20260313224700 +0000" channel=":24.webtv.sk">
+    <title lang="id">Hymna SR</title>
+  </programme>
+  <programme start="20260313224700 +0000" stop="20260313233500 +0000" channel=":24.webtv.sk">
+    <title lang="id">Správy</title>
+  </programme>
   <programme start="20260312230000 +0000" stop="20260312230500 +0000" channel=":Šport.webtv.sk">
     <title lang="id">Hymna SR</title>
   </programme>
@@ -5649,6 +5796,75 @@
   </programme>
   <programme start="20260313220000 +0000" stop="20260313230000 +0000" channel="Discovery.webtv.sk">
     <title lang="id">Aljaška: Poslední hranice IX (16)</title>
+  </programme>
+  <programme start="20260312230000 +0000" stop="20260313000000 +0000" channel="ID.webtv.sk">
+    <title lang="id">Osobní kamery pro policii VI (3)</title>
+  </programme>
+  <programme start="20260313000000 +0000" stop="20260313010000 +0000" channel="ID.webtv.sk">
+    <title lang="id">Na stopě s Paulou Zahnovou XIII (32)</title>
+  </programme>
+  <programme start="20260313010000 +0000" stop="20260313030000 +0000" channel="ID.webtv.sk">
+    <title lang="id">Smrt v močálu: 8 z Jenningsu I (1)</title>
+  </programme>
+  <programme start="20260313030000 +0000" stop="20260313040000 +0000" channel="ID.webtv.sk">
+    <title lang="id">Hraniční kontrola: Švédsko I (7)</title>
+  </programme>
+  <programme start="20260313040000 +0000" stop="20260313050000 +0000" channel="ID.webtv.sk">
+    <title lang="id">Hraniční kontrola: Švédsko I (8)</title>
+  </programme>
+  <programme start="20260313050000 +0000" stop="20260313060000 +0000" channel="ID.webtv.sk">
+    <title lang="id">Hraniční kontrola: Švédsko I (9)</title>
+  </programme>
+  <programme start="20260313060000 +0000" stop="20260313070000 +0000" channel="ID.webtv.sk">
+    <title lang="id">Hraniční kontrola: Švédsko I (10)</title>
+  </programme>
+  <programme start="20260313070000 +0000" stop="20260313080000 +0000" channel="ID.webtv.sk">
+    <title lang="id">Zločiny v reálném čase I (3)</title>
+  </programme>
+  <programme start="20260313080000 +0000" stop="20260313090000 +0000" channel="ID.webtv.sk">
+    <title lang="id">Zločiny v reálném čase I (4)</title>
+  </programme>
+  <programme start="20260313090000 +0000" stop="20260313100000 +0000" channel="ID.webtv.sk">
+    <title lang="id">Smrtící matky a otcové I (4)</title>
+  </programme>
+  <programme start="20260313100000 +0000" stop="20260313110000 +0000" channel="ID.webtv.sk">
+    <title lang="id">Smrtící matky a otcové I (5)</title>
+  </programme>
+  <programme start="20260313110000 +0000" stop="20260313120000 +0000" channel="ID.webtv.sk">
+    <title lang="id">Osobní kamery pro policii II (14)</title>
+  </programme>
+  <programme start="20260313120000 +0000" stop="20260313130000 +0000" channel="ID.webtv.sk">
+    <title lang="id">Osobní kamery pro policii II (17)</title>
+  </programme>
+  <programme start="20260313130000 +0000" stop="20260313140000 +0000" channel="ID.webtv.sk">
+    <title lang="id">Přísně tajné místo činu I (4)</title>
+  </programme>
+  <programme start="20260313140000 +0000" stop="20260313150000 +0000" channel="ID.webtv.sk">
+    <title lang="id">Přísně tajné místo činu I (5)</title>
+  </programme>
+  <programme start="20260313150000 +0000" stop="20260313160000 +0000" channel="ID.webtv.sk">
+    <title lang="id">Nebezpečné vzpomínky I (1)</title>
+  </programme>
+  <programme start="20260313160000 +0000" stop="20260313170000 +0000" channel="ID.webtv.sk">
+    <title lang="id">Nebezpečné vzpomínky I (2)</title>
+  </programme>
+  <programme start="20260313170000 +0000" stop="20260313180000 +0000" channel="ID.webtv.sk">
+    <title lang="id">Smrtící matky a otcové I (6)</title>
+  </programme>
+  <programme start="20260313180000 +0000" stop="20260313190000 +0000" channel="ID.webtv.sk">
+    <title lang="id">Smrtící matky a otcové I (7)</title>
+  </programme>
+  <programme start="20260313190000 +0000" stop="20260313200000 +0000" channel="ID.webtv.sk">
+    <title lang="id">Vraždy v rodině I (2)</title>
+  </programme>
+  <programme start="20260313200000 +0000" stop="20260313210000 +0000" channel="ID.webtv.sk">
+    <title lang="id">Ticho na place: Temné stránky televize pro děti I (4)</title>
+  </programme>
+  <programme start="20260313210000 +0000" stop="20260313220000 +0000" channel="ID.webtv.sk">
+    <title lang="id">Ticho na place: Temné stránky televize pro děti I (5)</title>
+  </programme>
+  <programme start="20260313220000 +0000" stop="20260313230000 +0000" channel="ID.webtv.sk">
+    <title lang="id">R.Kelly</title>
   </programme>
   <programme start="20260312230000 +0000" stop="20260313000000 +0000" channel="HGTV.webtv.sk">
     <title lang="id">Chalupářští mistři z Maine: Stavby v Itálii I: Stavby v Itálii (6)</title>
