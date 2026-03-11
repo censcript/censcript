@@ -238,153 +238,6 @@
   <programme start="20260313220000 +0000" stop="20260313230400 +0000" channel="Dvojka.webtv.sk">
     <title lang="id">To je pop!</title>
   </programme>
-  <programme start="20260312225000 +0000" stop="20260312234000 +0000" channel=":24.webtv.sk">
-    <title lang="id">Komentáre dňa</title>
-  </programme>
-  <programme start="20260312234000 +0000" stop="20260313003000 +0000" channel=":24.webtv.sk">
-    <title lang="id">Správy</title>
-  </programme>
-  <programme start="20260313003000 +0000" stop="20260313010000 +0000" channel=":24.webtv.sk">
-    <title lang="id">Svet :24</title>
-  </programme>
-  <programme start="20260313010000 +0000" stop="20260313012500 +0000" channel=":24.webtv.sk">
-    <title lang="id">Interview :24</title>
-  </programme>
-  <programme start="20260313012500 +0000" stop="20260313015000 +0000" channel=":24.webtv.sk">
-    <title lang="id">Z prvej ruky</title>
-  </programme>
-  <programme start="20260313015000 +0000" stop="20260313021500 +0000" channel=":24.webtv.sk">
-    <title lang="id">Ekonomika :24</title>
-  </programme>
-  <programme start="20260313021500 +0000" stop="20260313031000 +0000" channel=":24.webtv.sk">
-    <title lang="id">Správy</title>
-  </programme>
-  <programme start="20260313031000 +0000" stop="20260313033000 +0000" channel=":24.webtv.sk">
-    <title lang="id">Góly - body - sekundy</title>
-  </programme>
-  <programme start="20260313033000 +0000" stop="20260313033500 +0000" channel=":24.webtv.sk">
-    <title lang="id">Počasie</title>
-  </programme>
-  <programme start="20260313033500 +0000" stop="20260313040500 +0000" channel=":24.webtv.sk">
-    <title lang="id">Interview :24</title>
-  </programme>
-  <programme start="20260313040500 +0000" stop="20260313043000 +0000" channel=":24.webtv.sk">
-    <title lang="id">Svet :24</title>
-  </programme>
-  <programme start="20260313043000 +0000" stop="20260313052500 +0000" channel=":24.webtv.sk">
-    <title lang="id">Správy</title>
-  </programme>
-  <programme start="20260313052500 +0000" stop="20260313060000 +0000" channel=":24.webtv.sk">
-    <title lang="id">Ekonomika :24</title>
-  </programme>
-  <programme start="20260313060000 +0000" stop="20260313073000 +0000" channel=":24.webtv.sk">
-    <title lang="id">Ranné správy</title>
-  </programme>
-  <programme start="20260313073000 +0000" stop="20260313080000 +0000" channel=":24.webtv.sk">
-    <title lang="id">Interview :24</title>
-  </programme>
-  <programme start="20260313080000 +0000" stop="20260313081000 +0000" channel=":24.webtv.sk">
-    <title lang="id">Správy :24</title>
-  </programme>
-  <programme start="20260313081000 +0000" stop="20260313090000 +0000" channel=":24.webtv.sk">
-    <title lang="id">Komentáre dňa</title>
-  </programme>
-  <programme start="20260313090000 +0000" stop="20260313093000 +0000" channel=":24.webtv.sk">
-    <title lang="id">Správy :24</title>
-  </programme>
-  <programme start="20260313093000 +0000" stop="20260313100000 +0000" channel=":24.webtv.sk">
-    <title lang="id">Správy :24</title>
-  </programme>
-  <programme start="20260313100000 +0000" stop="20260313103000 +0000" channel=":24.webtv.sk">
-    <title lang="id">Správy :24</title>
-  </programme>
-  <programme start="20260313103000 +0000" stop="20260313110000 +0000" channel=":24.webtv.sk">
-    <title lang="id">Ekonomika :24</title>
-  </programme>
-  <programme start="20260313110000 +0000" stop="20260313113000 +0000" channel=":24.webtv.sk">
-    <title lang="id">Správy</title>
-  </programme>
-  <programme start="20260313113000 +0000" stop="20260313120000 +0000" channel=":24.webtv.sk">
-    <title lang="id">Z prvej ruky</title>
-  </programme>
-  <programme start="20260313120000 +0000" stop="20260313123000 +0000" channel=":24.webtv.sk">
-    <title lang="id">Aktuálne :24</title>
-  </programme>
-  <programme start="20260313123000 +0000" stop="20260313130000 +0000" channel=":24.webtv.sk">
-    <title lang="id">Aktuálne :24</title>
-  </programme>
-  <programme start="20260313130000 +0000" stop="20260313132500 +0000" channel=":24.webtv.sk">
-    <title lang="id">Aktuálne :24</title>
-  </programme>
-  <programme start="20260313132500 +0000" stop="20260313140000 +0000" channel=":24.webtv.sk">
-    <title lang="id">Šport :24</title>
-  </programme>
-  <programme start="20260313140000 +0000" stop="20260313143000 +0000" channel=":24.webtv.sk">
-    <title lang="id">Aktuálne :24</title>
-  </programme>
-  <programme start="20260313143000 +0000" stop="20260313150000 +0000" channel=":24.webtv.sk">
-    <title lang="id">Aktuálne :24</title>
-  </programme>
-  <programme start="20260313150000 +0000" stop="20260313153000 +0000" channel=":24.webtv.sk">
-    <title lang="id">Správy</title>
-  </programme>
-  <programme start="20260313153000 +0000" stop="20260313160000 +0000" channel=":24.webtv.sk">
-    <title lang="id">Týždeň v ekonomike</title>
-  </programme>
-  <programme start="20260313160000 +0000" stop="20260313163000 +0000" channel=":24.webtv.sk">
-    <title lang="id">Svet :24</title>
-  </programme>
-  <programme start="20260313163000 +0000" stop="20260313170000 +0000" channel=":24.webtv.sk">
-    <title lang="id">Správy z regiónov</title>
-  </programme>
-  <programme start="20260313170000 +0000" stop="20260313172500 +0000" channel=":24.webtv.sk">
-    <title lang="id">Interview :24</title>
-  </programme>
-  <programme start="20260313172500 +0000" stop="20260313175000 +0000" channel=":24.webtv.sk">
-    <title lang="id">Týždeň v ekonomike</title>
-  </programme>
-  <programme start="20260313175000 +0000" stop="20260313180000 +0000" channel=":24.webtv.sk">
-    <title lang="id">Počasie</title>
-  </programme>
-  <programme start="20260313180000 +0000" stop="20260313185500 +0000" channel=":24.webtv.sk">
-    <title lang="id">Správy</title>
-  </programme>
-  <programme start="20260313185500 +0000" stop="20260313191000 +0000" channel=":24.webtv.sk">
-    <title lang="id">Góly - body - sekundy</title>
-  </programme>
-  <programme start="20260313191000 +0000" stop="20260313194000 +0000" channel=":24.webtv.sk">
-    <title lang="id">Reportéri</title>
-  </programme>
-  <programme start="20260313194000 +0000" stop="20260313200500 +0000" channel=":24.webtv.sk">
-    <title lang="id">Cez lupu</title>
-  </programme>
-  <programme start="20260313200500 +0000" stop="20260313203000 +0000" channel=":24.webtv.sk">
-    <title lang="id">Správy z regiónov</title>
-  </programme>
-  <programme start="20260313203000 +0000" stop="20260313210000 +0000" channel=":24.webtv.sk">
-    <title lang="id">Z prvej ruky</title>
-  </programme>
-  <programme start="20260313210000 +0000" stop="20260313212000 +0000" channel=":24.webtv.sk">
-    <title lang="id">Správy :24</title>
-  </programme>
-  <programme start="20260313212000 +0000" stop="20260313213000 +0000" channel=":24.webtv.sk">
-    <title lang="id">Hírek</title>
-  </programme>
-  <programme start="20260313213000 +0000" stop="20260313215500 +0000" channel=":24.webtv.sk">
-    <title lang="id">Týždeň v ekonomike</title>
-  </programme>
-  <programme start="20260313215500 +0000" stop="20260313222000 +0000" channel=":24.webtv.sk">
-    <title lang="id">Svet :24</title>
-  </programme>
-  <programme start="20260313222000 +0000" stop="20260313224500 +0000" channel=":24.webtv.sk">
-    <title lang="id">Správy :24</title>
-  </programme>
-  <programme start="20260313224500 +0000" stop="20260313224700 +0000" channel=":24.webtv.sk">
-    <title lang="id">Hymna SR</title>
-  </programme>
-  <programme start="20260313224700 +0000" stop="20260313233500 +0000" channel=":24.webtv.sk">
-    <title lang="id">Správy</title>
-  </programme>
   <programme start="20260312230000 +0000" stop="20260312230500 +0000" channel=":Šport.webtv.sk">
     <title lang="id">Hymna SR</title>
   </programme>
@@ -1209,6 +1062,48 @@
   </programme>
   <programme start="20260313215500 +0000" stop="20260314000000 +0000" channel="JOJ Plus.webtv.sk">
     <title lang="id">Na úteku</title>
+  </programme>
+  <programme start="20260312223000 +0000" stop="20260313000000 +0000" channel="JOJ Šport.webtv.sk">
+    <title lang="id">Highlighty UEFA</title>
+  </programme>
+  <programme start="20260313000000 +0000" stop="20260313014500 +0000" channel="JOJ Šport.webtv.sk">
+    <title lang="id">Volejbalová Zlatá Európska liga ženy</title>
+  </programme>
+  <programme start="20260313014500 +0000" stop="20260313040000 +0000" channel="JOJ Šport.webtv.sk">
+    <title lang="id">Atletika - Diamantová liga</title>
+  </programme>
+  <programme start="20260313040000 +0000" stop="20260313072500 +0000" channel="JOJ Šport.webtv.sk">
+    <title lang="id">Krasokorčuľovanie ME 2026</title>
+  </programme>
+  <programme start="20260313072500 +0000" stop="20260313094000 +0000" channel="JOJ Šport.webtv.sk">
+    <title lang="id">FIS Svetový pohár Super G ženy</title>
+  </programme>
+  <programme start="20260313094000 +0000" stop="20260313095500 +0000" channel="JOJ Šport.webtv.sk">
+    <title lang="id">FIS štúdio</title>
+  </programme>
+  <programme start="20260313095500 +0000" stop="20260313114500 +0000" channel="JOJ Šport.webtv.sk">
+    <title lang="id">FIS Svetový pohár Super G muži</title>
+  </programme>
+  <programme start="20260313114500 +0000" stop="20260313125000 +0000" channel="JOJ Šport.webtv.sk">
+    <title lang="id">FIS Beh na lyžiach</title>
+  </programme>
+  <programme start="20260313125000 +0000" stop="20260313141500 +0000" channel="JOJ Šport.webtv.sk">
+    <title lang="id">FIS Beh na lyžiach</title>
+  </programme>
+  <programme start="20260313141500 +0000" stop="20260313172500 +0000" channel="JOJ Šport.webtv.sk">
+    <title lang="id">Hokej - Tipsport liga</title>
+  </programme>
+  <programme start="20260313172500 +0000" stop="20260313175000 +0000" channel="JOJ Šport.webtv.sk">
+    <title lang="id">Hokej - Zostrihy Tipsport ligy</title>
+  </programme>
+  <programme start="20260313175000 +0000" stop="20260313202000 +0000" channel="JOJ Šport.webtv.sk">
+    <title lang="id">Basketbal - Tipos SBL</title>
+  </programme>
+  <programme start="20260313202000 +0000" stop="20260313224000 +0000" channel="JOJ Šport.webtv.sk">
+    <title lang="id">Futbal - Európska liga</title>
+  </programme>
+  <programme start="20260313224000 +0000" stop="20260314003500 +0000" channel="JOJ Šport.webtv.sk">
+    <title lang="id">Basketbal - ENBL</title>
   </programme>
   <programme start="20260312221000 +0000" stop="20260313005000 +0000" channel="JOJ Šport 2.webtv.sk">
     <title lang="id">Hokej - Tipsport liga</title>
@@ -4789,6 +4684,114 @@
   <programme start="20260313223000 +0000" stop="20260313230000 +0000" channel="Fashion TV Czech & Slovak.webtv.sk">
     <title lang="id">Top Models</title>
   </programme>
+  <programme start="20260312230000 +0000" stop="20260313000000 +0000" channel="Arena Sport 1.webtv.sk">
+    <title lang="id">Naša Garáž</title>
+  </programme>
+  <programme start="20260313000000 +0000" stop="20260313053000 +0000" channel="Arena Sport 1.webtv.sk">
+    <title lang="id">Nočné vysielanie</title>
+  </programme>
+  <programme start="20260313053000 +0000" stop="20260313060000 +0000" channel="Arena Sport 1.webtv.sk">
+    <title lang="id">Motoring</title>
+  </programme>
+  <programme start="20260313060000 +0000" stop="20260313061000 +0000" channel="Arena Sport 1.webtv.sk">
+    <title lang="id">Športové sekundy</title>
+  </programme>
+  <programme start="20260313061000 +0000" stop="20260313062000 +0000" channel="Arena Sport 1.webtv.sk">
+    <title lang="id">Švihák testuje</title>
+  </programme>
+  <programme start="20260313062000 +0000" stop="20260313063500 +0000" channel="Arena Sport 1.webtv.sk">
+    <title lang="id">Martin z Martina</title>
+  </programme>
+  <programme start="20260313063500 +0000" stop="20260313070000 +0000" channel="Arena Sport 1.webtv.sk">
+    <title lang="id">Motoring</title>
+  </programme>
+  <programme start="20260313070000 +0000" stop="20260313080000 +0000" channel="Arena Sport 1.webtv.sk">
+    <title lang="id">GarazTV</title>
+  </programme>
+  <programme start="20260313080000 +0000" stop="20260313083000 +0000" channel="Arena Sport 1.webtv.sk">
+    <title lang="id">Martin z Martina</title>
+  </programme>
+  <programme start="20260313083000 +0000" stop="20260313090000 +0000" channel="Arena Sport 1.webtv.sk">
+    <title lang="id">Autožurnál</title>
+  </programme>
+  <programme start="20260313090000 +0000" stop="20260313093000 +0000" channel="Arena Sport 1.webtv.sk">
+    <title lang="id">GarazTV</title>
+  </programme>
+  <programme start="20260313093000 +0000" stop="20260313100000 +0000" channel="Arena Sport 1.webtv.sk">
+    <title lang="id">Motoring</title>
+  </programme>
+  <programme start="20260313100000 +0000" stop="20260313103000 +0000" channel="Arena Sport 1.webtv.sk">
+    <title lang="id">DRIVE IT - Ondrej Macko</title>
+  </programme>
+  <programme start="20260313103000 +0000" stop="20260313110000 +0000" channel="Arena Sport 1.webtv.sk">
+    <title lang="id">Motoring</title>
+  </programme>
+  <programme start="20260313110000 +0000" stop="20260313113000 +0000" channel="Arena Sport 1.webtv.sk">
+    <title lang="id">DominicCars</title>
+  </programme>
+  <programme start="20260313113000 +0000" stop="20260313114500 +0000" channel="Arena Sport 1.webtv.sk">
+    <title lang="id">Piok Cars</title>
+  </programme>
+  <programme start="20260313114500 +0000" stop="20260313120000 +0000" channel="Arena Sport 1.webtv.sk">
+    <title lang="id">Martin z Martina</title>
+  </programme>
+  <programme start="20260313120000 +0000" stop="20260313121500 +0000" channel="Arena Sport 1.webtv.sk">
+    <title lang="id">Švihák testuje</title>
+  </programme>
+  <programme start="20260313121500 +0000" stop="20260313123000 +0000" channel="Arena Sport 1.webtv.sk">
+    <title lang="id">GarazTV</title>
+  </programme>
+  <programme start="20260313123000 +0000" stop="20260313130000 +0000" channel="Arena Sport 1.webtv.sk">
+    <title lang="id">GarazTV</title>
+  </programme>
+  <programme start="20260313130000 +0000" stop="20260313133000 +0000" channel="Arena Sport 1.webtv.sk">
+    <title lang="id">DominicCars</title>
+  </programme>
+  <programme start="20260313133000 +0000" stop="20260313140000 +0000" channel="Arena Sport 1.webtv.sk">
+    <title lang="id">Piok Cars</title>
+  </programme>
+  <programme start="20260313140000 +0000" stop="20260313141500 +0000" channel="Arena Sport 1.webtv.sk">
+    <title lang="id">Martin z Martina</title>
+  </programme>
+  <programme start="20260313141500 +0000" stop="20260313151500 +0000" channel="Arena Sport 1.webtv.sk">
+    <title lang="id">Motoring</title>
+  </programme>
+  <programme start="20260313151500 +0000" stop="20260313153000 +0000" channel="Arena Sport 1.webtv.sk">
+    <title lang="id">Švihák testuje</title>
+  </programme>
+  <programme start="20260313153000 +0000" stop="20260313161500 +0000" channel="Arena Sport 1.webtv.sk">
+    <title lang="id">Autožurnál</title>
+  </programme>
+  <programme start="20260313161500 +0000" stop="20260313170000 +0000" channel="Arena Sport 1.webtv.sk">
+    <title lang="id">Autožurnál</title>
+  </programme>
+  <programme start="20260313170000 +0000" stop="20260313173000 +0000" channel="Arena Sport 1.webtv.sk">
+    <title lang="id">GarazTV</title>
+  </programme>
+  <programme start="20260313173000 +0000" stop="20260313175000 +0000" channel="Arena Sport 1.webtv.sk">
+    <title lang="id">GarazTV</title>
+  </programme>
+  <programme start="20260313175000 +0000" stop="20260313200000 +0000" channel="Arena Sport 1.webtv.sk">
+    <title lang="id">MIBA Futsal Banská Bystrica - Futsal team Levice</title>
+  </programme>
+  <programme start="20260313200000 +0000" stop="20260313203000 +0000" channel="Arena Sport 1.webtv.sk">
+    <title lang="id">GarazTV</title>
+  </programme>
+  <programme start="20260313203000 +0000" stop="20260313210000 +0000" channel="Arena Sport 1.webtv.sk">
+    <title lang="id">GarazTV</title>
+  </programme>
+  <programme start="20260313210000 +0000" stop="20260313213000 +0000" channel="Arena Sport 1.webtv.sk">
+    <title lang="id">Motoring</title>
+  </programme>
+  <programme start="20260313213000 +0000" stop="20260313220000 +0000" channel="Arena Sport 1.webtv.sk">
+    <title lang="id">Autožurnál</title>
+  </programme>
+  <programme start="20260313220000 +0000" stop="20260313223000 +0000" channel="Arena Sport 1.webtv.sk">
+    <title lang="id">Motoring</title>
+  </programme>
+  <programme start="20260313223000 +0000" stop="20260313230000 +0000" channel="Arena Sport 1.webtv.sk">
+    <title lang="id">Autožurnál</title>
+  </programme>
   <programme start="20260312230000 +0000" stop="20260313070000 +0000" channel="Arena Sport 2.webtv.sk">
     <title lang="id">Nočné vysielanie</title>
   </programme>
@@ -5646,75 +5649,6 @@
   </programme>
   <programme start="20260313220000 +0000" stop="20260313230000 +0000" channel="Discovery.webtv.sk">
     <title lang="id">Aljaška: Poslední hranice IX (16)</title>
-  </programme>
-  <programme start="20260312230000 +0000" stop="20260313000000 +0000" channel="ID.webtv.sk">
-    <title lang="id">Osobní kamery pro policii VI (3)</title>
-  </programme>
-  <programme start="20260313000000 +0000" stop="20260313010000 +0000" channel="ID.webtv.sk">
-    <title lang="id">Na stopě s Paulou Zahnovou XIII (32)</title>
-  </programme>
-  <programme start="20260313010000 +0000" stop="20260313030000 +0000" channel="ID.webtv.sk">
-    <title lang="id">Smrt v močálu: 8 z Jenningsu I (1)</title>
-  </programme>
-  <programme start="20260313030000 +0000" stop="20260313040000 +0000" channel="ID.webtv.sk">
-    <title lang="id">Hraniční kontrola: Švédsko I (7)</title>
-  </programme>
-  <programme start="20260313040000 +0000" stop="20260313050000 +0000" channel="ID.webtv.sk">
-    <title lang="id">Hraniční kontrola: Švédsko I (8)</title>
-  </programme>
-  <programme start="20260313050000 +0000" stop="20260313060000 +0000" channel="ID.webtv.sk">
-    <title lang="id">Hraniční kontrola: Švédsko I (9)</title>
-  </programme>
-  <programme start="20260313060000 +0000" stop="20260313070000 +0000" channel="ID.webtv.sk">
-    <title lang="id">Hraniční kontrola: Švédsko I (10)</title>
-  </programme>
-  <programme start="20260313070000 +0000" stop="20260313080000 +0000" channel="ID.webtv.sk">
-    <title lang="id">Zločiny v reálném čase I (3)</title>
-  </programme>
-  <programme start="20260313080000 +0000" stop="20260313090000 +0000" channel="ID.webtv.sk">
-    <title lang="id">Zločiny v reálném čase I (4)</title>
-  </programme>
-  <programme start="20260313090000 +0000" stop="20260313100000 +0000" channel="ID.webtv.sk">
-    <title lang="id">Smrtící matky a otcové I (4)</title>
-  </programme>
-  <programme start="20260313100000 +0000" stop="20260313110000 +0000" channel="ID.webtv.sk">
-    <title lang="id">Smrtící matky a otcové I (5)</title>
-  </programme>
-  <programme start="20260313110000 +0000" stop="20260313120000 +0000" channel="ID.webtv.sk">
-    <title lang="id">Osobní kamery pro policii II (14)</title>
-  </programme>
-  <programme start="20260313120000 +0000" stop="20260313130000 +0000" channel="ID.webtv.sk">
-    <title lang="id">Osobní kamery pro policii II (17)</title>
-  </programme>
-  <programme start="20260313130000 +0000" stop="20260313140000 +0000" channel="ID.webtv.sk">
-    <title lang="id">Přísně tajné místo činu I (4)</title>
-  </programme>
-  <programme start="20260313140000 +0000" stop="20260313150000 +0000" channel="ID.webtv.sk">
-    <title lang="id">Přísně tajné místo činu I (5)</title>
-  </programme>
-  <programme start="20260313150000 +0000" stop="20260313160000 +0000" channel="ID.webtv.sk">
-    <title lang="id">Nebezpečné vzpomínky I (1)</title>
-  </programme>
-  <programme start="20260313160000 +0000" stop="20260313170000 +0000" channel="ID.webtv.sk">
-    <title lang="id">Nebezpečné vzpomínky I (2)</title>
-  </programme>
-  <programme start="20260313170000 +0000" stop="20260313180000 +0000" channel="ID.webtv.sk">
-    <title lang="id">Smrtící matky a otcové I (6)</title>
-  </programme>
-  <programme start="20260313180000 +0000" stop="20260313190000 +0000" channel="ID.webtv.sk">
-    <title lang="id">Smrtící matky a otcové I (7)</title>
-  </programme>
-  <programme start="20260313190000 +0000" stop="20260313200000 +0000" channel="ID.webtv.sk">
-    <title lang="id">Vraždy v rodině I (2)</title>
-  </programme>
-  <programme start="20260313200000 +0000" stop="20260313210000 +0000" channel="ID.webtv.sk">
-    <title lang="id">Ticho na place: Temné stránky televize pro děti I (4)</title>
-  </programme>
-  <programme start="20260313210000 +0000" stop="20260313220000 +0000" channel="ID.webtv.sk">
-    <title lang="id">Ticho na place: Temné stránky televize pro děti I (5)</title>
-  </programme>
-  <programme start="20260313220000 +0000" stop="20260313230000 +0000" channel="ID.webtv.sk">
-    <title lang="id">R.Kelly</title>
   </programme>
   <programme start="20260312230000 +0000" stop="20260313000000 +0000" channel="HGTV.webtv.sk">
     <title lang="id">Chalupářští mistři z Maine: Stavby v Itálii I: Stavby v Itálii (6)</title>
@@ -19620,6 +19554,51 @@
   </programme>
   <programme start="20260313220000 +0000" stop="20260313230000 +0000" channel="Óčko Star.webtv.sk">
     <title lang="id">NEJVĚTŠÍ HITY</title>
+  </programme>
+  <programme start="20260312185900 +0000" stop="20260312232900 +0000" channel="Retro Music Television.webtv.sk">
+    <title lang="id">Retro party</title>
+  </programme>
+  <programme start="20260312232900 +0000" stop="20260313035900 +0000" channel="Retro Music Television.webtv.sk">
+    <title lang="id">Revolution</title>
+  </programme>
+  <programme start="20260313035900 +0000" stop="20260313065900 +0000" channel="Retro Music Television.webtv.sk">
+    <title lang="id">Restart</title>
+  </programme>
+  <programme start="20260313065900 +0000" stop="20260313080000 +0000" channel="Retro Music Television.webtv.sk">
+    <title lang="id">Retrománie</title>
+  </programme>
+  <programme start="20260313080000 +0000" stop="20260313090000 +0000" channel="Retro Music Television.webtv.sk">
+    <title lang="id">Replay 80&apos;</title>
+  </programme>
+  <programme start="20260313090000 +0000" stop="20260313095900 +0000" channel="Retro Music Television.webtv.sk">
+    <title lang="id">Replay 90&apos;</title>
+  </programme>
+  <programme start="20260313095900 +0000" stop="20260313120000 +0000" channel="Retro Music Television.webtv.sk">
+    <title lang="id">Refresh</title>
+  </programme>
+  <programme start="20260313120000 +0000" stop="20260313133000 +0000" channel="Retro Music Television.webtv.sk">
+    <title lang="id">Republika</title>
+  </programme>
+  <programme start="20260313133000 +0000" stop="20260313150000 +0000" channel="Retro Music Television.webtv.sk">
+    <title lang="id">Rekreace</title>
+  </programme>
+  <programme start="20260313150000 +0000" stop="20260313155900 +0000" channel="Retro Music Television.webtv.sk">
+    <title lang="id">Repete</title>
+  </programme>
+  <programme start="20260313155900 +0000" stop="20260313163000 +0000" channel="Retro Music Television.webtv.sk">
+    <title lang="id">Rentgen</title>
+  </programme>
+  <programme start="20260313163000 +0000" stop="20260313170000 +0000" channel="Retro Music Television.webtv.sk">
+    <title lang="id">Retrománie</title>
+  </programme>
+  <programme start="20260313170000 +0000" stop="20260313183000 +0000" channel="Retro Music Television.webtv.sk">
+    <title lang="id">Republika</title>
+  </programme>
+  <programme start="20260313183000 +0000" stop="20260313185900 +0000" channel="Retro Music Television.webtv.sk">
+    <title lang="id">Reproduktor</title>
+  </programme>
+  <programme start="20260313185900 +0000" stop="20260314003000 +0000" channel="Retro Music Television.webtv.sk">
+    <title lang="id">Retro party</title>
   </programme>
   <programme start="20260312230000 +0000" stop="20260312232000 +0000" channel="Rebel.webtv.sk">
     <title lang="id">BACKSTAGE</title>
