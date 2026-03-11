@@ -1489,6 +1489,48 @@
   <programme start="20260313223000 +0000" stop="20260314000000 +0000" channel="JOJ Cinema.webtv.sk">
     <title lang="id">Prezidentova žena</title>
   </programme>
+  <programme start="20260312215500 +0000" stop="20260312235500 +0000" channel="JOJ Cinema +1.webtv.sk">
+    <title lang="id">Beštiár</title>
+  </programme>
+  <programme start="20260312235500 +0000" stop="20260313023500 +0000" channel="JOJ Cinema +1.webtv.sk">
+    <title lang="id">Osem hrozných</title>
+  </programme>
+  <programme start="20260313023500 +0000" stop="20260313044000 +0000" channel="JOJ Cinema +1.webtv.sk">
+    <title lang="id">Zelený rytier</title>
+  </programme>
+  <programme start="20260313044000 +0000" stop="20260313054500 +0000" channel="JOJ Cinema +1.webtv.sk">
+    <title lang="id">Zabudnuté duely grófa dArtagnana</title>
+  </programme>
+  <programme start="20260313054500 +0000" stop="20260313072000 +0000" channel="JOJ Cinema +1.webtv.sk">
+    <title lang="id">Námesačníci</title>
+  </programme>
+  <programme start="20260313072000 +0000" stop="20260313092000 +0000" channel="JOJ Cinema +1.webtv.sk">
+    <title lang="id">Rande naslepo</title>
+  </programme>
+  <programme start="20260313092000 +0000" stop="20260313113000 +0000" channel="JOJ Cinema +1.webtv.sk">
+    <title lang="id">Núdzový let</title>
+  </programme>
+  <programme start="20260313113000 +0000" stop="20260313132500 +0000" channel="JOJ Cinema +1.webtv.sk">
+    <title lang="id">Tunel</title>
+  </programme>
+  <programme start="20260313132500 +0000" stop="20260313151000 +0000" channel="JOJ Cinema +1.webtv.sk">
+    <title lang="id">Druhý dych</title>
+  </programme>
+  <programme start="20260313151000 +0000" stop="20260313165500 +0000" channel="JOJ Cinema +1.webtv.sk">
+    <title lang="id">Myška Pattie: Na vlnách dobrodružstva</title>
+  </programme>
+  <programme start="20260313165500 +0000" stop="20260313183500 +0000" channel="JOJ Cinema +1.webtv.sk">
+    <title lang="id">Netvor</title>
+  </programme>
+  <programme start="20260313183500 +0000" stop="20260313201500 +0000" channel="JOJ Cinema +1.webtv.sk">
+    <title lang="id">Podivuhodné dobrodružstvá vlčieho chlapca</title>
+  </programme>
+  <programme start="20260313201500 +0000" stop="20260313215000 +0000" channel="JOJ Cinema +1.webtv.sk">
+    <title lang="id">Ako okradnúť zlodeja</title>
+  </programme>
+  <programme start="20260313215000 +0000" stop="20260313233000 +0000" channel="JOJ Cinema +1.webtv.sk">
+    <title lang="id">Prežiť</title>
+  </programme>
   <programme start="20260312230000 +0000" stop="20260312233000 +0000" channel="TA3.webtv.sk">
     <title lang="id">Téma/Štúdio TA3</title>
   </programme>
@@ -3937,6 +3979,138 @@
   <programme start="20260313224500 +0000" stop="20260313232500 +0000" channel="Prima SK.webtv.sk">
     <title lang="id">Receptář prima nápadů</title>
   </programme>
+  <programme start="20260312225500 +0000" stop="20260312232400 +0000" channel="CNN Prima News.webtv.sk">
+    <title lang="id">360°</title>
+  </programme>
+  <programme start="20260312232400 +0000" stop="20260313003000 +0000" channel="CNN Prima News.webtv.sk">
+    <title lang="id">360°</title>
+  </programme>
+  <programme start="20260313003000 +0000" stop="20260313010000 +0000" channel="CNN Prima News.webtv.sk">
+    <title lang="id">Prima ČESKO</title>
+  </programme>
+  <programme start="20260313010000 +0000" stop="20260313013000 +0000" channel="CNN Prima News.webtv.sk">
+    <title lang="id">Hlasy zločinu</title>
+  </programme>
+  <programme start="20260313013000 +0000" stop="20260313022000 +0000" channel="CNN Prima News.webtv.sk">
+    <title lang="id">Co na to vaše zdraví</title>
+  </programme>
+  <programme start="20260313022000 +0000" stop="20260313031500 +0000" channel="CNN Prima News.webtv.sk">
+    <title lang="id">HLAVNÍ ZPRÁVY</title>
+  </programme>
+  <programme start="20260313031500 +0000" stop="20260313034500 +0000" channel="CNN Prima News.webtv.sk">
+    <title lang="id">360°</title>
+  </programme>
+  <programme start="20260313034500 +0000" stop="20260313045500 +0000" channel="CNN Prima News.webtv.sk">
+    <title lang="id">360°</title>
+  </programme>
+  <programme start="20260313045500 +0000" stop="20260313050000 +0000" channel="CNN Prima News.webtv.sk">
+    <title lang="id">Nový den</title>
+  </programme>
+  <programme start="20260313050000 +0000" stop="20260313054900 +0000" channel="CNN Prima News.webtv.sk">
+    <title lang="id">Nový den</title>
+  </programme>
+  <programme start="20260313054900 +0000" stop="20260313070000 +0000" channel="CNN Prima News.webtv.sk">
+    <title lang="id">Nový den</title>
+  </programme>
+  <programme start="20260313070000 +0000" stop="20260313080000 +0000" channel="CNN Prima News.webtv.sk">
+    <title lang="id">Nový den</title>
+  </programme>
+  <programme start="20260313080000 +0000" stop="20260313090000 +0000" channel="CNN Prima News.webtv.sk">
+    <title lang="id">Právě dnes</title>
+  </programme>
+  <programme start="20260313090000 +0000" stop="20260313093000 +0000" channel="CNN Prima News.webtv.sk">
+    <title lang="id">Zprávy</title>
+  </programme>
+  <programme start="20260313093000 +0000" stop="20260313100000 +0000" channel="CNN Prima News.webtv.sk">
+    <title lang="id">Zprávy PLUS</title>
+  </programme>
+  <programme start="20260313100000 +0000" stop="20260313103000 +0000" channel="CNN Prima News.webtv.sk">
+    <title lang="id">Zprávy</title>
+  </programme>
+  <programme start="20260313103000 +0000" stop="20260313105500 +0000" channel="CNN Prima News.webtv.sk">
+    <title lang="id">Zprávy PLUS</title>
+  </programme>
+  <programme start="20260313105500 +0000" stop="20260313113000 +0000" channel="CNN Prima News.webtv.sk">
+    <title lang="id">Polední zprávy</title>
+  </programme>
+  <programme start="20260313113000 +0000" stop="20260313120000 +0000" channel="CNN Prima News.webtv.sk">
+    <title lang="id">K věci</title>
+  </programme>
+  <programme start="20260313120000 +0000" stop="20260313123000 +0000" channel="CNN Prima News.webtv.sk">
+    <title lang="id">Zprávy</title>
+  </programme>
+  <programme start="20260313123000 +0000" stop="20260313130000 +0000" channel="CNN Prima News.webtv.sk">
+    <title lang="id">Zprávy PLUS</title>
+  </programme>
+  <programme start="20260313130000 +0000" stop="20260313132000 +0000" channel="CNN Prima News.webtv.sk">
+    <title lang="id">Zprávy</title>
+  </programme>
+  <programme start="20260313132000 +0000" stop="20260313140000 +0000" channel="CNN Prima News.webtv.sk">
+    <title lang="id">Divoká karta</title>
+  </programme>
+  <programme start="20260313140000 +0000" stop="20260313141400 +0000" channel="CNN Prima News.webtv.sk">
+    <title lang="id">Zprávy</title>
+  </programme>
+  <programme start="20260313141400 +0000" stop="20260313142000 +0000" channel="CNN Prima News.webtv.sk">
+    <title lang="id">Počasí</title>
+  </programme>
+  <programme start="20260313142000 +0000" stop="20260313144000 +0000" channel="CNN Prima News.webtv.sk">
+    <title lang="id">K věci</title>
+  </programme>
+  <programme start="20260313144000 +0000" stop="20260313150000 +0000" channel="CNN Prima News.webtv.sk">
+    <title lang="id">Prima ZIMA</title>
+  </programme>
+  <programme start="20260313150000 +0000" stop="20260313153000 +0000" channel="CNN Prima News.webtv.sk">
+    <title lang="id">Zprávy</title>
+  </programme>
+  <programme start="20260313153000 +0000" stop="20260313155500 +0000" channel="CNN Prima News.webtv.sk">
+    <title lang="id">Krimi zprávy</title>
+  </programme>
+  <programme start="20260313155500 +0000" stop="20260313162500 +0000" channel="CNN Prima News.webtv.sk">
+    <title lang="id">Zprávy z regionů</title>
+  </programme>
+  <programme start="20260313162500 +0000" stop="20260313163500 +0000" channel="CNN Prima News.webtv.sk">
+    <title lang="id">Zprávy z regionů</title>
+  </programme>
+  <programme start="20260313163500 +0000" stop="20260313165500 +0000" channel="CNN Prima News.webtv.sk">
+    <title lang="id">Bezba města</title>
+  </programme>
+  <programme start="20260313165500 +0000" stop="20260313173500 +0000" channel="CNN Prima News.webtv.sk">
+    <title lang="id">Co na to vaše peněženka</title>
+  </programme>
+  <programme start="20260313173500 +0000" stop="20260313175500 +0000" channel="CNN Prima News.webtv.sk">
+    <title lang="id">K věci</title>
+  </programme>
+  <programme start="20260313175500 +0000" stop="20260313183200 +0000" channel="CNN Prima News.webtv.sk">
+    <title lang="id">HLAVNÍ ZPRÁVY</title>
+  </programme>
+  <programme start="20260313183200 +0000" stop="20260313184000 +0000" channel="CNN Prima News.webtv.sk">
+    <title lang="id">Losování loterie Megamaxa</title>
+  </programme>
+  <programme start="20260313184000 +0000" stop="20260313185500 +0000" channel="CNN Prima News.webtv.sk">
+    <title lang="id">Krimi zprávy</title>
+  </programme>
+  <programme start="20260313185500 +0000" stop="20260313192000 +0000" channel="CNN Prima News.webtv.sk">
+    <title lang="id">SHOWTIME</title>
+  </programme>
+  <programme start="20260313192000 +0000" stop="20260313200000 +0000" channel="CNN Prima News.webtv.sk">
+    <title lang="id">Divoká karta</title>
+  </programme>
+  <programme start="20260313200000 +0000" stop="20260313203000 +0000" channel="CNN Prima News.webtv.sk">
+    <title lang="id">Zprávy</title>
+  </programme>
+  <programme start="20260313203000 +0000" stop="20260313205900 +0000" channel="CNN Prima News.webtv.sk">
+    <title lang="id">360°</title>
+  </programme>
+  <programme start="20260313205900 +0000" stop="20260313220000 +0000" channel="CNN Prima News.webtv.sk">
+    <title lang="id">360°</title>
+  </programme>
+  <programme start="20260313220000 +0000" stop="20260313225500 +0000" channel="CNN Prima News.webtv.sk">
+    <title lang="id">Zprávy</title>
+  </programme>
+  <programme start="20260313225500 +0000" stop="20260313232400 +0000" channel="CNN Prima News.webtv.sk">
+    <title lang="id">360°</title>
+  </programme>
   <programme start="20260312222000 +0000" stop="20260312232500 +0000" channel="Prima Cool SK.webtv.sk">
     <title lang="id">Top Gear VIII (1)</title>
   </programme>
@@ -5016,51 +5190,6 @@
   </programme>
   <programme start="20260313221500 +0000" stop="20260313230000 +0000" channel="Eurosport 1.webtv.sk">
     <title lang="id">Cyklistika: Paříž – Nice</title>
-  </programme>
-  <programme start="20260312230000 +0000" stop="20260313000000 +0000" channel="Eurosport 2.webtv.sk">
-    <title lang="id">Freestylové lyžování: SP v Montafonu</title>
-  </programme>
-  <programme start="20260313000000 +0000" stop="20260313010000 +0000" channel="Eurosport 2.webtv.sk">
-    <title lang="id">Cyklistika: Tirreno – Adriatico</title>
-  </programme>
-  <programme start="20260313010000 +0000" stop="20260313020000 +0000" channel="Eurosport 2.webtv.sk">
-    <title lang="id">Cyklistika: Paříž – Nice</title>
-  </programme>
-  <programme start="20260313020000 +0000" stop="20260313030000 +0000" channel="Eurosport 2.webtv.sk">
-    <title lang="id">Běžecké lyžování: SP v Drammenu</title>
-  </programme>
-  <programme start="20260313030000 +0000" stop="20260313050000 +0000" channel="Eurosport 2.webtv.sk">
-    <title lang="id">Snooker: Welsh Open</title>
-  </programme>
-  <programme start="20260313050000 +0000" stop="20260313060000 +0000" channel="Eurosport 2.webtv.sk">
-    <title lang="id">Cyklistika: Tirreno – Adriatico</title>
-  </programme>
-  <programme start="20260313060000 +0000" stop="20260313070000 +0000" channel="Eurosport 2.webtv.sk">
-    <title lang="id">Cyklistika: Paříž – Nice</title>
-  </programme>
-  <programme start="20260313070000 +0000" stop="20260313081500 +0000" channel="Eurosport 2.webtv.sk">
-    <title lang="id">Běžecké lyžování: SP v Drammenu</title>
-  </programme>
-  <programme start="20260313081500 +0000" stop="20260313093000 +0000" channel="Eurosport 2.webtv.sk">
-    <title lang="id">Freestylové lyžování: SP v Montafonu</title>
-  </programme>
-  <programme start="20260313093000 +0000" stop="20260313110000 +0000" channel="Eurosport 2.webtv.sk">
-    <title lang="id">Cyklistika: The Cycle</title>
-  </programme>
-  <programme start="20260313110000 +0000" stop="20260313120000 +0000" channel="Eurosport 2.webtv.sk">
-    <title lang="id">Cyklistika: Tirreno – Adriatico</title>
-  </programme>
-  <programme start="20260313120000 +0000" stop="20260313144500 +0000" channel="Eurosport 2.webtv.sk">
-    <title lang="id">Cyklistika: Tirreno – Adriatico</title>
-  </programme>
-  <programme start="20260313144500 +0000" stop="20260313161500 +0000" channel="Eurosport 2.webtv.sk">
-    <title lang="id">Cyklistika: Paříž – Nice</title>
-  </programme>
-  <programme start="20260313161500 +0000" stop="20260313170000 +0000" channel="Eurosport 2.webtv.sk">
-    <title lang="id">Cyklistika: Tirreno – Adriatico</title>
-  </programme>
-  <programme start="20260313170000 +0000" stop="20260313230000 +0000" channel="Eurosport 2.webtv.sk">
-    <title lang="id">Golf: PGA Tour</title>
   </programme>
   <programme start="20260312230000 +0000" stop="20260313010000 +0000" channel="Sport 1.webtv.sk">
     <title lang="id">Fotbal</title>
@@ -16674,123 +16803,6 @@
   </programme>
   <programme start="20260313223000 +0000" stop="20260313230000 +0000" channel="TVP Info.webtv.sk">
     <title lang="id">Rozmowy noca (192)</title>
-  </programme>
-  <programme start="20260312224500 +0000" stop="20260312234000 +0000" channel="TVP Polonia.webtv.sk">
-    <title lang="id">Dancing with the Russian Bear (1)</title>
-  </programme>
-  <programme start="20260312234000 +0000" stop="20260313001000 +0000" channel="TVP Polonia.webtv.sk">
-    <title lang="id">Rodzinka.pl XII (234)</title>
-  </programme>
-  <programme start="20260313001000 +0000" stop="20260313003000 +0000" channel="TVP Polonia.webtv.sk">
-    <title lang="id">Kresowe grody i rody (1)</title>
-  </programme>
-  <programme start="20260313003000 +0000" stop="20260313010000 +0000" channel="TVP Polonia.webtv.sk">
-    <title lang="id">Program informacyjny 19.30</title>
-  </programme>
-  <programme start="20260313010000 +0000" stop="20260313011500 +0000" channel="TVP Polonia.webtv.sk">
-    <title lang="id">Pogoda</title>
-  </programme>
-  <programme start="20260313011500 +0000" stop="20260313020000 +0000" channel="TVP Polonia.webtv.sk">
-    <title lang="id">Ojciec Mateusz XXXII (6)</title>
-  </programme>
-  <programme start="20260313020000 +0000" stop="20260313025000 +0000" channel="TVP Polonia.webtv.sk">
-    <title lang="id">Ojciec Mateusz XXXII (7)</title>
-  </programme>
-  <programme start="20260313025000 +0000" stop="20260313030000 +0000" channel="TVP Polonia.webtv.sk">
-    <title lang="id">Polacy Swiatu (39)</title>
-  </programme>
-  <programme start="20260313030000 +0000" stop="20260313040000 +0000" channel="TVP Polonia.webtv.sk">
-    <title lang="id">Polonia 24. Tygodnik (102)</title>
-  </programme>
-  <programme start="20260313040000 +0000" stop="20260313043500 +0000" channel="TVP Polonia.webtv.sk">
-    <title lang="id">Barwy szczescia (3273)</title>
-  </programme>
-  <programme start="20260313043500 +0000" stop="20260313052000 +0000" channel="TVP Polonia.webtv.sk">
-    <title lang="id">Gra słów. Krzyzówka (1094)</title>
-  </programme>
-  <programme start="20260313052000 +0000" stop="20260313053000 +0000" channel="TVP Polonia.webtv.sk">
-    <title lang="id">Polacy Swiatu (39)</title>
-  </programme>
-  <programme start="20260313053000 +0000" stop="20260313060000 +0000" channel="TVP Polonia.webtv.sk">
-    <title lang="id">Mody Polskie (1)</title>
-  </programme>
-  <programme start="20260313060000 +0000" stop="20260313063000 +0000" channel="TVP Polonia.webtv.sk">
-    <title lang="id">Makłowicz w podrózy (147)</title>
-  </programme>
-  <programme start="20260313063000 +0000" stop="20260313065500 +0000" channel="TVP Polonia.webtv.sk">
-    <title lang="id">Pytanie na sniadanie (7492)</title>
-  </programme>
-  <programme start="20260313065500 +0000" stop="20260313104000 +0000" channel="TVP Polonia.webtv.sk">
-    <title lang="id">Pytanie na sniadanie (7492)</title>
-  </programme>
-  <programme start="20260313104000 +0000" stop="20260313110000 +0000" channel="TVP Polonia.webtv.sk">
-    <title lang="id">Kresowe grody i rody (1)</title>
-  </programme>
-  <programme start="20260313110000 +0000" stop="20260313111000 +0000" channel="TVP Polonia.webtv.sk">
-    <title lang="id">Jestesmy stad (44)</title>
-  </programme>
-  <programme start="20260313111000 +0000" stop="20260313120000 +0000" channel="TVP Polonia.webtv.sk">
-    <title lang="id">M jak miłosc (1905)</title>
-  </programme>
-  <programme start="20260313120000 +0000" stop="20260313125000 +0000" channel="TVP Polonia.webtv.sk">
-    <title lang="id">M jak miłosc (1906)</title>
-  </programme>
-  <programme start="20260313125000 +0000" stop="20260313140000 +0000" channel="TVP Polonia.webtv.sk">
-    <title lang="id">Polonia 24. Tygodnik (102)</title>
-  </programme>
-  <programme start="20260313140000 +0000" stop="20260313141000 +0000" channel="TVP Polonia.webtv.sk">
-    <title lang="id">Polacy Swiatu (40)</title>
-  </programme>
-  <programme start="20260313141000 +0000" stop="20260313144000 +0000" channel="TVP Polonia.webtv.sk">
-    <title lang="id">Wszystko przed nami (77)</title>
-  </programme>
-  <programme start="20260313144000 +0000" stop="20260313150000 +0000" channel="TVP Polonia.webtv.sk">
-    <title lang="id">Turystyczna Jazda (167)</title>
-  </programme>
-  <programme start="20260313150000 +0000" stop="20260313160000 +0000" channel="TVP Polonia.webtv.sk">
-    <title lang="id">Kultura, Giedroyc i inni</title>
-  </programme>
-  <programme start="20260313160000 +0000" stop="20260313163000 +0000" channel="TVP Polonia.webtv.sk">
-    <title lang="id">Gra słów. Krzyzówka (1095)</title>
-  </programme>
-  <programme start="20260313163000 +0000" stop="20260313165000 +0000" channel="TVP Polonia.webtv.sk">
-    <title lang="id">Teleexpress</title>
-  </programme>
-  <programme start="20260313165000 +0000" stop="20260313171500 +0000" channel="TVP Polonia.webtv.sk">
-    <title lang="id">Teleexpress Extra</title>
-  </programme>
-  <programme start="20260313171500 +0000" stop="20260313174500 +0000" channel="TVP Polonia.webtv.sk">
-    <title lang="id">Górna półka smaku II (11)</title>
-  </programme>
-  <programme start="20260313174500 +0000" stop="20260313184000 +0000" channel="TVP Polonia.webtv.sk">
-    <title lang="id">Na kłopoty... Bednarski (6/7)</title>
-  </programme>
-  <programme start="20260313184000 +0000" stop="20260313191000 +0000" channel="TVP Polonia.webtv.sk">
-    <title lang="id">Kabaretowe Naj (33)</title>
-  </programme>
-  <programme start="20260313191000 +0000" stop="20260313194000 +0000" channel="TVP Polonia.webtv.sk">
-    <title lang="id">Program informacyjny 19.30</title>
-  </programme>
-  <programme start="20260313194000 +0000" stop="20260313194500 +0000" channel="TVP Polonia.webtv.sk">
-    <title lang="id">Pogoda</title>
-  </programme>
-  <programme start="20260313194500 +0000" stop="20260313203500 +0000" channel="TVP Polonia.webtv.sk">
-    <title lang="id">Na dobre i na złe (979)</title>
-  </programme>
-  <programme start="20260313203500 +0000" stop="20260313210500 +0000" channel="TVP Polonia.webtv.sk">
-    <title lang="id">Na sygnale (619)</title>
-  </programme>
-  <programme start="20260313210500 +0000" stop="20260313213500 +0000" channel="TVP Polonia.webtv.sk">
-    <title lang="id">Na sygnale (620)</title>
-  </programme>
-  <programme start="20260313213500 +0000" stop="20260313223000 +0000" channel="TVP Polonia.webtv.sk">
-    <title lang="id">Szansa na sukces. Opole 2026 (2)</title>
-  </programme>
-  <programme start="20260313223000 +0000" stop="20260313225500 +0000" channel="TVP Polonia.webtv.sk">
-    <title lang="id">Dziennik Regionów 22:10</title>
-  </programme>
-  <programme start="20260313225500 +0000" stop="20260313234000 +0000" channel="TVP Polonia.webtv.sk">
-    <title lang="id">Matki, zony i kochanki (1/22)</title>
   </programme>
   <programme start="20260312220100 +0000" stop="20260312233000 +0000" channel="UA TV.webtv.sk">
     <title lang="id">Інформаційні сюжети</title>
