@@ -70,10 +70,6 @@
     <title>Football: Bayer 04 Leverkusen - Arsenal</title>
     <desc>Live: Tidak</desc>
 </programme>
-<programme start="20260311100000 +0700" stop="20260311120000 +0700" channel="COSMOTE Sport 2 HD">
-    <title>Football: Lecce - Cremonese</title>
-    <desc>Live: Tidak</desc>
-</programme>
 <programme start="20260311120000 +0700" stop="20260311141000 +0700" channel="COSMOTE Sport 2 HD">
     <title>Football: Olympiacos - PAOK</title>
     <desc>Live: Tidak</desc>
@@ -128,6 +124,10 @@
 </programme>
 <programme start="20260312100500 +0700" stop="20260312120000 +0700" channel="COSMOTE Sport 2 HD">
     <title>Football: SS Lazio - Sassuolo</title>
+    <desc>Live: Tidak</desc>
+</programme>
+<programme start="20260312120000 +0700" stop="20260312142500 +0700" channel="COSMOTE Sport 2 HD">
+    <title>Football: Panetolikos - Kifisia</title>
     <desc>Live: Tidak</desc>
 </programme>
 <programme start="20260311110000 +0700" stop="20260311130000 +0700" channel="COSMOTE Sport 3 HD">
@@ -266,6 +266,10 @@
     <title>NBA Specials: Basketball Stories</title>
     <desc>Live: Tidak</desc>
 </programme>
+<programme start="20260312123500 +0700" stop="20260312145000 +0700" channel="COSMOTE Sport 4 HD">
+    <title>Basketball: AEK - Tofas</title>
+    <desc>Live: Tidak</desc>
+</programme>
 <programme start="20260311100000 +0700" stop="20260311130000 +0700" channel="COSMOTE Sport 5 HD">
     <title>Basketball: Los Angeles Lakers - Minnesota Timberwolves (L)</title>
     <desc>Live: Ya</desc>
@@ -341,6 +345,10 @@
 <programme start="20260312090000 +0700" stop="20260312120000 +0700" channel="COSMOTE Sport 5 HD">
     <title>Basketball: Denver Nuggets - Houston Rockets (L)</title>
     <desc>Live: Ya</desc>
+</programme>
+<programme start="20260312120000 +0700" stop="20260312130500 +0700" channel="COSMOTE Sport 5 HD">
+    <title>Motorsports: Extreme E 2025</title>
+    <desc>Live: Tidak</desc>
 </programme>
 <programme start="20260311110000 +0700" stop="20260311132000 +0700" channel="COSMOTE Sport 6 HD">
     <title>Gymnastics: FIG Apparatus World Cup 2026</title>
