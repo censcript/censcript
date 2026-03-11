@@ -3199,13 +3199,13 @@
 <programme start="20260311164500 +0000" stop="20260311193000 +0000" channel="Sky Sport 1 HD.skyde">
     <title>Live DFB-Pokal Frauen: Konferenz, Viertelfinale</title>
 </programme>
-<programme start="20260311193000 +0000" stop="20260311203000 +0000" channel="Sky Sport 1 HD.skyde">
+<programme start="20260311193000 +0000" stop="20260311213000 +0000" channel="Sky Sport 1 HD.skyde">
     <title>Live DFB-Pokal Frauen: Alle Spiele, alle Tore, Viertelfinale</title>
 </programme>
 <programme start="20260311162500 +0000" stop="20260311164500 +0000" channel="Sky Sport 2 HD.skyde">
     <title>Es folgt DFB-Pokal</title>
 </programme>
-<programme start="20260311164500 +0000" stop="20260311193000 +0000" channel="Sky Sport 2 HD.skyde">
+<programme start="20260311164500 +0000" stop="20260311203000 +0000" channel="Sky Sport 2 HD.skyde">
     <title>Live DFB-Pokal Frauen: Hamburger SV - FC Bayern München, Viertelfinale</title>
 </programme>
 <programme start="20260311162500 +0000" stop="20260311164500 +0000" channel="Sky Sport 3 HD.skyde">
@@ -3217,13 +3217,13 @@
 <programme start="20260311162500 +0000" stop="20260311164500 +0000" channel="Sky Sport 4 HD.skyde">
     <title>Es folgt DFB-Pokal</title>
 </programme>
-<programme start="20260311164500 +0000" stop="20260311193000 +0000" channel="Sky Sport 4 HD.skyde">
+<programme start="20260311164500 +0000" stop="20260311203000 +0000" channel="Sky Sport 4 HD.skyde">
     <title>Live DFB-Pokal Frauen: SGS Essen - Werder Bremen, Viertelfinale</title>
 </programme>
 <programme start="20260311162500 +0000" stop="20260311164500 +0000" channel="Sky Sport 5 HD.skyde">
     <title>Es folgt DFB-Pokal</title>
 </programme>
-<programme start="20260311164500 +0000" stop="20260311193000 +0000" channel="Sky Sport 5 HD.skyde">
+<programme start="20260311164500 +0000" stop="20260311203000 +0000" channel="Sky Sport 5 HD.skyde">
     <title>Live DFB-Pokal Frauen: FC Carl Zeiss Jena - SC Sand, Viertelfinale</title>
 </programme>
 <programme start="20260311174000 +0000" stop="20260311180000 +0000" channel="Sky Sport 6 HD.skyde">
