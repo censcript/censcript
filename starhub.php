@@ -6670,7 +6670,7 @@
     <programme start="20260310180000 +0000" stop="20260310200000 +0000" channel="Hub Sports 1  HD.starhub">
         <title>BNP Paribas Open (1000) Day 7 R16 S1</title>
     </programme>
-    <programme start="20260310200000 +0000" stop="20260311000000 +0000" channel="Hub Sports 1  HD.starhub">
+    <programme start="20260310200700 +0000" stop="20260311000000 +0000" channel="Hub Sports 1  HD.starhub">
         <title>Women&#039;s SF: Bulgaria vs Turkiye</title>
     </programme>
     <programme start="20260311000000 +0000" stop="20260311003000 +0000" channel="Hub Sports 1  HD.starhub">
@@ -6679,10 +6679,10 @@
     <programme start="20260311003000 +0000" stop="20260311010000 +0000" channel="Hub Sports 1  HD.starhub">
         <title>UCI Pro Series - Tour of Oman Stage 4 H/Ls</title>
     </programme>
-    <programme start="20260311010000 +0000" stop="20260311030000 +0000" channel="Hub Sports 1  HD.starhub">
+    <programme start="20260311010000 +0000" stop="20260311031900 +0000" channel="Hub Sports 1  HD.starhub">
         <title>BNP Paribas Open (1000) Day 7 R16 S3</title>
     </programme>
-    <programme start="20260311030000 +0000" stop="20260311040000 +0000" channel="Hub Sports 1  HD.starhub">
+    <programme start="20260311031900 +0000" stop="20260311040000 +0000" channel="Hub Sports 1  HD.starhub">
         <title>ABN Amro Open</title>
     </programme>
     <programme start="20260311040000 +0000" stop="20260311043000 +0000" channel="Hub Sports 1  HD.starhub">
