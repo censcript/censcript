@@ -3212,13 +3212,13 @@
         <title>News</title>
     </programme>
     <programme start="20260310163000 +0000" stop="20260310170000 +0000" channel="DW English HD.starhub">
-        <title>What connects us all</title>
+        <title>Shining with Samba Spirit: Rio&#039;s upbeat street cleaners</title>
     </programme>
     <programme start="20260310170000 +0000" stop="20260310171500 +0000" channel="DW English HD.starhub">
         <title>News</title>
     </programme>
     <programme start="20260310171500 +0000" stop="20260310173000 +0000" channel="DW English HD.starhub">
-        <title>Cooling Data Centers</title>
+        <title>We need to fix how we cool AI data centers</title>
     </programme>
     <programme start="20260310173000 +0000" stop="20260310180000 +0000" channel="DW English HD.starhub">
         <title>The Hidden Pollution From Electric Cars: When Tires Become Microplastics</title>
@@ -3236,7 +3236,7 @@
         <title>News</title>
     </programme>
     <programme start="20260310191500 +0000" stop="20260310193000 +0000" channel="DW English HD.starhub">
-        <title>Cooling Data Centers</title>
+        <title>We need to fix how we cool AI data centers</title>
     </programme>
     <programme start="20260310193000 +0000" stop="20260310200000 +0000" channel="DW English HD.starhub">
         <title>The Science Magazine</title>
@@ -3254,10 +3254,10 @@
         <title>News</title>
     </programme>
     <programme start="20260310211500 +0000" stop="20260310214500 +0000" channel="DW English HD.starhub">
-        <title>The Current Affairs Documentary</title>
+        <title>Iran - Voices of defiance</title>
     </programme>
     <programme start="20260310214500 +0000" stop="20260310220000 +0000" channel="DW English HD.starhub">
-        <title>Living in the Digital Age</title>
+        <title>How women make a life online</title>
     </programme>
     <programme start="20260310220000 +0000" stop="20260310220200 +0000" channel="DW English HD.starhub">
         <title>News</title>
@@ -3271,14 +3271,8 @@
     <programme start="20260310230000 +0000" stop="20260310230200 +0000" channel="DW English HD.starhub">
         <title>News</title>
     </programme>
-    <programme start="20260310230200 +0000" stop="20260310231500 +0000" channel="DW English HD.starhub">
-        <title>News</title>
-    </programme>
     <programme start="20260310230200 +0000" stop="20260311000000 +0000" channel="DW English HD.starhub">
         <title>Unmasking Hezbollah - Episode 1: Project Cassandra</title>
-    </programme>
-    <programme start="20260310231500 +0000" stop="20260310233000 +0000" channel="DW English HD.starhub">
-        <title>Cooling Data Centers</title>
     </programme>
     <programme start="20260311000000 +0000" stop="20260311000200 +0000" channel="DW English HD.starhub">
         <title>News</title>
@@ -6667,7 +6661,7 @@
     <programme start="20260310173000 +0000" stop="20260310180000 +0000" channel="Hub Sports 1  HD.starhub">
         <title>Episode 8</title>
     </programme>
-    <programme start="20260310180000 +0000" stop="20260310200000 +0000" channel="Hub Sports 1  HD.starhub">
+    <programme start="20260310180000 +0000" stop="20260310200700 +0000" channel="Hub Sports 1  HD.starhub">
         <title>BNP Paribas Open (1000) Day 7 R16 S1</title>
     </programme>
     <programme start="20260310200700 +0000" stop="20260311000000 +0000" channel="Hub Sports 1  HD.starhub">
