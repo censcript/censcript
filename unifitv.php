@@ -3359,21 +3359,21 @@
     <episode-num system="xmltv_ns">0.4.</episode-num>
     <episode-num system="onscreen">S1E5</episode-num>
   </programme>
-  <programme start="20260310230500 +0000" stop="20260310233500 +0000" channel="tvnhd.unifitv">
-    <title lang="en">Chansung's Cooking</title>
-    <desc lang="en">2PM's Chansung will explore different restaurants, taste popular menus and recreate them with his own recipes!</desc>
+  <programme start="20260310230500 +0000" stop="20260310232500 +0000" channel="tvnhd.unifitv">
+    <title lang="en">You Can Cook With Sam Kim</title>
+    <desc lang="en">Star chef Sam Kim will teach you how to make all kinds of delicious dishes - from Italian pasta, Spanish food to desserts! Follow his easy recipes and enjoy cooking!</desc>
     <category lang="en">Variety</category>
-    <episode-num system="xmltv_ns">0.10.</episode-num>
-    <episode-num system="onscreen">S1E11</episode-num>
+    <episode-num system="xmltv_ns">0.5.</episode-num>
+    <episode-num system="onscreen">S1E6</episode-num>
   </programme>
-  <programme start="20260310233500 +0000" stop="20260311012000 +0000" channel="tvnhd.unifitv">
+  <programme start="20260310232500 +0000" stop="20260311011000 +0000" channel="tvnhd.unifitv">
     <title lang="en">I-LAND2 : N/a</title>
     <desc lang="en">Girl version of ENHYPEN is coming! The ultimate survival variety program by top producer TEDDY, following the creation of the next generation K-pop girl group.</desc>
     <category lang="en">Variety</category>
     <episode-num system="xmltv_ns">1.4.</episode-num>
     <episode-num system="onscreen">S2E5</episode-num>
   </programme>
-  <programme start="20260311012000 +0000" stop="20260311030500 +0000" channel="tvnhd.unifitv">
+  <programme start="20260311011000 +0000" stop="20260311030500 +0000" channel="tvnhd.unifitv">
     <title lang="en">The Village Barber</title>
     <desc lang="en">Park Bo-gum, who holds a national barber's license, and his close friends Lee Sang-yi and Kwak Dong-yeon run a special barbershop in a remote rural village, tending to both hair and hearts.</desc>
     <category lang="en">Variety</category>
@@ -3387,19 +3387,26 @@
     <episode-num system="xmltv_ns">0.10.</episode-num>
     <episode-num system="onscreen">S1E11</episode-num>
   </programme>
-  <programme start="20260311042000 +0000" stop="20260311060000 +0000" channel="tvnhd.unifitv">
+  <programme start="20260311042000 +0000" stop="20260311054000 +0000" channel="tvnhd.unifitv">
     <title lang="en">Curtain Up, Class!</title>
     <desc lang="en">Actor Kim Tae-ri and Choi Hyun-wook turns into a drama club teacher at a rural elementary school. Together with the students, they will bring a heart-warming drama performance to viewers.</desc>
     <category lang="en">Variety</category>
     <episode-num system="xmltv_ns">0.1.</episode-num>
     <episode-num system="onscreen">S1E2</episode-num>
   </programme>
-  <programme start="20260311060000 +0000" stop="20260311074500 +0000" channel="tvnhd.unifitv">
+  <programme start="20260311054000 +0000" stop="20260311072500 +0000" channel="tvnhd.unifitv">
     <title lang="en">Cha's Family</title>
     <desc lang="en">From Thailand to Japan, the cast explore bold local flavors, craft their own signature spicy sauce, and bring Korea's passion for heat to a global stage—mixing food, culture, and adventure into one sizzling journey.</desc>
     <category lang="en">Variety</category>
     <episode-num system="xmltv_ns">0.7.</episode-num>
     <episode-num system="onscreen">S1E8</episode-num>
+  </programme>
+  <programme start="20260311072500 +0000" stop="20260311074500 +0000" channel="tvnhd.unifitv">
+    <title lang="en">You Can Cook With Sam Kim</title>
+    <desc lang="en">Star chef Sam Kim will teach you how to make all kinds of delicious dishes - from Italian pasta, Spanish food to desserts! Follow his easy recipes and enjoy cooking!</desc>
+    <category lang="en">Variety</category>
+    <episode-num system="xmltv_ns">0.5.</episode-num>
+    <episode-num system="onscreen">S1E6</episode-num>
   </programme>
   <programme start="20260311074500 +0000" stop="20260311092500 +0000" channel="tvnhd.unifitv">
     <title lang="en">Handsome Guys</title>
@@ -3436,7 +3443,7 @@
     <episode-num system="xmltv_ns">0.11.</episode-num>
     <episode-num system="onscreen">S1E12</episode-num>
   </programme>
-  <programme start="20260311143500 +0000" stop="20260311161500 +0000" channel="tvnhd.unifitv">
+  <programme start="20260311143500 +0000" stop="20260311163000 +0000" channel="tvnhd.unifitv">
     <title lang="en">The Village Barber</title>
     <desc lang="en">Park Bo-gum, who holds a national barber's license, and his close friends Lee Sang-yi and Kwak Dong-yeon run a special barbershop in a remote rural village, tending to both hair and hearts.</desc>
     <category lang="en">Variety</category>
