@@ -727,23 +727,62 @@
     <programme start="20260310100000 +0000" stop="20260310200000 +0000" channel="now-70s.mewatch">
         <title>Sensational 70s! - EP1</title>
     </programme>
-    <programme start="20260310200000 +0000" stop="20260310210000 +0000" channel="now-70s.mewatch">
-        <title>The 70s Are Best: Forget the Rest! - EP1</title>
+    <programme start="20260310160000 +0000" stop="20260310170500 +0000" channel="now-70s.mewatch">
+        <title>Easter&#039;s Biggest Hits: 1970-1979 - EP1</title>
     </programme>
-    <programme start="20260310210000 +0000" stop="20260311000000 +0000" channel="now-70s.mewatch">
-        <title>Morning Has Broken! - EP1</title>
+    <programme start="20260310170500 +0000" stop="20260310180000 +0000" channel="now-70s.mewatch">
+        <title>1972 Unleashed! - EP1</title>
     </programme>
-    <programme start="20260311000000 +0000" stop="20260311090000 +0000" channel="now-70s.mewatch">
-        <title>Sensational 70s! - EP1</title>
+    <programme start="20260310180000 +0000" stop="20260310203500 +0000" channel="now-70s.mewatch">
+        <title>Limahl&#039;s Never Ending Soundtracks! - EP1</title>
     </programme>
-    <programme start="20260311090000 +0000" stop="20260311100000 +0000" channel="now-70s.mewatch">
-        <title>The 5 O&#039;Clock Groovy Zone! - EP1</title>
+    <programme start="20260310203500 +0000" stop="20260310220000 +0000" channel="now-70s.mewatch">
+        <title>1979 Unleashed! - EP1</title>
     </programme>
-    <programme start="20260311100000 +0000" stop="20260311160000 +0000" channel="now-70s.mewatch">
-        <title>Sensational 70s! - EP1</title>
+    <programme start="20260310220000 +0000" stop="20260310233500 +0000" channel="now-70s.mewatch">
+        <title>Bruno Brookes UK Top 20 of the 70s - EP1</title>
     </programme>
-    <programme start="20260311160000 +0000" stop="20260312160000 +0000" channel="now-70s.mewatch">
-        <title>Schedule To Be Announced</title>
+    <programme start="20260310233500 +0000" stop="20260311000000 +0000" channel="now-70s.mewatch">
+        <title>Let The Good Times Roll! - EP1</title>
+    </programme>
+    <programme start="20260311000000 +0000" stop="20260311022500 +0000" channel="now-70s.mewatch">
+        <title>Less-Heard-Hits of Rock n Roll! - EP1</title>
+    </programme>
+    <programme start="20260311022500 +0000" stop="20260311030000 +0000" channel="now-70s.mewatch">
+        <title>Let The Good Times Roll! - EP1</title>
+    </programme>
+    <programme start="20260311030000 +0000" stop="20260311034500 +0000" channel="now-70s.mewatch">
+        <title>Mark Goodier&#039;s No.1s of 1972 - EP1</title>
+    </programme>
+    <programme start="20260311034500 +0000" stop="20260311040000 +0000" channel="now-70s.mewatch">
+        <title>1972 Unleashed! - EP1</title>
+    </programme>
+    <programme start="20260311040000 +0000" stop="20260311064500 +0000" channel="now-70s.mewatch">
+        <title>Spring Has Sprung! Top 40 - EP1</title>
+    </programme>
+    <programme start="20260311064500 +0000" stop="20260311070000 +0000" channel="now-70s.mewatch">
+        <title>Far Out, Man! - EP1</title>
+    </programme>
+    <programme start="20260311070000 +0000" stop="20260311081000 +0000" channel="now-70s.mewatch">
+        <title>Fleetwood Mac! 1975-1989 - EP1</title>
+    </programme>
+    <programme start="20260311081000 +0000" stop="20260311090000 +0000" channel="now-70s.mewatch">
+        <title>Far Out, Man! - EP1</title>
+    </programme>
+    <programme start="20260311090000 +0000" stop="20260311102500 +0000" channel="now-70s.mewatch">
+        <title>The Best 1969 Party - Ever! - EP1</title>
+    </programme>
+    <programme start="20260311102500 +0000" stop="20260311110000 +0000" channel="now-70s.mewatch">
+        <title>Far Out, Man! - EP1</title>
+    </programme>
+    <programme start="20260311110000 +0000" stop="20260311153500 +0000" channel="now-70s.mewatch">
+        <title>Lessons in Love! 70s v 80s - EP1</title>
+    </programme>
+    <programme start="20260311153500 +0000" stop="20260311160000 +0000" channel="now-70s.mewatch">
+        <title>Help Me Make It Through the Night! - EP1</title>
+    </programme>
+    <programme start="20260311160000 +0000" stop="20260311174500 +0000" channel="now-70s.mewatch">
+        <title>Spring Has Sprung! Top 40 - EP1</title>
     </programme>
     <programme start="20260310145000 +0000" stop="20260310163000 +0000" channel="cinemaworld.mewatch">
         <title>Helen Dorn: Breathless</title>

@@ -712,9 +712,6 @@
 <programme start="20260311090000 +0000" stop="20260311110000 +0000" channel="ANTV.vision">
 <title>Vasudha</title>
 </programme>
-<programme start="20260311110000 +0000" stop="20260311130000 +0000" channel="ANTV.vision">
-<title>Si Rawing</title>
-</programme>
 <programme start="20260311130000 +0000" stop="20260311150000 +0000" channel="ANTV.vision">
 <title>Jaka Sembung</title>
 </programme>
@@ -1497,4 +1494,7 @@
 </programme>
 <programme start="20260311130000 +0000" stop="20260311140000 +0000" channel="BTV.vision">
 <title>Spot On</title>
+</programme>
+<programme start="20260311140000 +0000" stop="20260311150000 +0000" channel="BTV.vision">
+<title>Berita Viral</title>
 </programme>

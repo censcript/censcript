@@ -12988,7 +12988,7 @@
   </programme>
   <programme start="20260310193300 +0000" stop="20260310200300 +0000" channel="aljazeera.unifitv">
     <title lang="en">UpFront</title>
-    <desc lang="en">Frank, blunt and inquisitive, UpFront cuts through the headlines to get to the heart of the matter with influential guests and newsmakers.</desc>
+    <desc lang="en">Redi Tlhabi challenges former U.S. Ambassador John Bolton on why he believes a diplomatic end to the war between the U.S., Israel and Iran would be a mistake.</desc>
     <category lang="en">News</category>
     <episode-num system="xmltv_ns">0.4.</episode-num>
     <episode-num system="onscreen">S1E5</episode-num>
@@ -13056,8 +13056,6 @@
     <title lang="en">Witness</title>
     <desc lang="en">Inspirational and provocative stories providing a fresh and informative insight into the world's key events as they impact on the lives of ordinary people.</desc>
     <category lang="en">News</category>
-    <episode-num system="xmltv_ns">0.34.</episode-num>
-    <episode-num system="onscreen">S1E35</episode-num>
   </programme>
   <programme start="20260311040300 +0000" stop="20260311043300 +0000" channel="aljazeera.unifitv">
     <title lang="en">News Live</title>
@@ -13066,7 +13064,7 @@
   </programme>
   <programme start="20260311043300 +0000" stop="20260311050300 +0000" channel="aljazeera.unifitv">
     <title lang="en">UpFront</title>
-    <desc lang="en">Frank, blunt and inquisitive, UpFront cuts through the headlines to get to the heart of the matter with influential guests and newsmakers.</desc>
+    <desc lang="en">Redi Tlhabi challenges former U.S. Ambassador John Bolton on why he believes a diplomatic end to the war between the U.S., Israel and Iran would be a mistake.</desc>
     <category lang="en">News</category>
     <episode-num system="xmltv_ns">0.4.</episode-num>
     <episode-num system="onscreen">S1E5</episode-num>
