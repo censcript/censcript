@@ -366,6 +366,14 @@
     <title>Sports Classics: 2025 Outdoor Specials</title>
     <desc>Live: Tidak</desc>
 </programme>
+<programme start="20260313040000 +0700" stop="20260313043000 +0700" channel="COSMOTE Sport 6 HD">
+    <title>Watersports: Inside Sailing 2026 E2</title>
+    <desc>Live: Tidak</desc>
+</programme>
+<programme start="20260313043000 +0700" stop="20260313070000 +0700" channel="COSMOTE Sport 6 HD">
+    <title>Volleyball: Montpellier - Las Palmas</title>
+    <desc>Live: Tidak</desc>
+</programme>
 <programme start="20260312020000 +0700" stop="20260312043000 +0700" channel="COSMOTE Sport 7 HD">
     <title>Volleyball: Vallefoglia - Panathinaikos (L)</title>
     <desc>Live: Ya</desc>
