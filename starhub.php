@@ -3274,11 +3274,11 @@
     <programme start="20260310230200 +0000" stop="20260310231500 +0000" channel="DW English HD.starhub">
         <title>News</title>
     </programme>
+    <programme start="20260310230200 +0000" stop="20260311000000 +0000" channel="DW English HD.starhub">
+        <title>Unmasking Hezbollah - Episode 1: Project Cassandra</title>
+    </programme>
     <programme start="20260310231500 +0000" stop="20260310233000 +0000" channel="DW English HD.starhub">
         <title>Cooling Data Centers</title>
-    </programme>
-    <programme start="20260310233000 +0000" stop="20260311000000 +0000" channel="DW English HD.starhub">
-        <title>What connects us all</title>
     </programme>
     <programme start="20260311000000 +0000" stop="20260311000200 +0000" channel="DW English HD.starhub">
         <title>News</title>
@@ -3287,7 +3287,7 @@
         <title>News in Review</title>
     </programme>
     <programme start="20260311003000 +0000" stop="20260311010000 +0000" channel="DW English HD.starhub">
-        <title>Your Business Magazine</title>
+        <title>Can mini-cabins save Europe&#039;s night trains?</title>
     </programme>
     <programme start="20260311010000 +0000" stop="20260311010200 +0000" channel="DW English HD.starhub">
         <title>News</title>
@@ -3305,7 +3305,7 @@
         <title>News in Review</title>
     </programme>
     <programme start="20260311023000 +0000" stop="20260311030000 +0000" channel="DW English HD.starhub">
-        <title>What connects us all</title>
+        <title>Shining with Samba Spirit: Rio&#039;s upbeat street cleaners</title>
     </programme>
     <programme start="20260311030000 +0000" stop="20260311030200 +0000" channel="DW English HD.starhub">
         <title>News</title>
@@ -3314,7 +3314,7 @@
         <title>News</title>
     </programme>
     <programme start="20260311031500 +0000" stop="20260311033000 +0000" channel="DW English HD.starhub">
-        <title>Cooling Data Centers</title>
+        <title>We need to fix how we cool AI data centers</title>
     </programme>
     <programme start="20260311033000 +0000" stop="20260311040000 +0000" channel="DW English HD.starhub">
         <title>Community-led conservation: How small steps bring big change</title>
@@ -3335,7 +3335,7 @@
         <title>News in Review</title>
     </programme>
     <programme start="20260311053000 +0000" stop="20260311060000 +0000" channel="DW English HD.starhub">
-        <title>Your Business Magazine</title>
+        <title>Can mini-cabins save Europe&#039;s night trains?</title>
     </programme>
     <programme start="20260311060000 +0000" stop="20260311060200 +0000" channel="DW English HD.starhub">
         <title>News</title>
@@ -3344,7 +3344,7 @@
         <title>News</title>
     </programme>
     <programme start="20260311061500 +0000" stop="20260311063000 +0000" channel="DW English HD.starhub">
-        <title>Cooling Data Centers</title>
+        <title>We need to fix how we cool AI data centers</title>
     </programme>
     <programme start="20260311063000 +0000" stop="20260311070000 +0000" channel="DW English HD.starhub">
         <title>How an mRNA vaccine could transform cancer care</title>
@@ -3356,10 +3356,10 @@
         <title>News</title>
     </programme>
     <programme start="20260311071500 +0000" stop="20260311074500 +0000" channel="DW English HD.starhub">
-        <title>The Current Affairs Documentary</title>
+        <title>Iran - Voices of defiance</title>
     </programme>
     <programme start="20260311074500 +0000" stop="20260311080000 +0000" channel="DW English HD.starhub">
-        <title>Living in the Digital Age</title>
+        <title>How women make a life online</title>
     </programme>
     <programme start="20260311080000 +0000" stop="20260311080200 +0000" channel="DW English HD.starhub">
         <title>News</title>
@@ -3386,19 +3386,13 @@
         <title>News</title>
     </programme>
     <programme start="20260311101500 +0000" stop="20260311104500 +0000" channel="DW English HD.starhub">
-        <title>The Current Affairs Documentary</title>
+        <title>Iran - Voices of defiance</title>
     </programme>
     <programme start="20260311104500 +0000" stop="20260311110000 +0000" channel="DW English HD.starhub">
-        <title>Living in the Digital Age</title>
+        <title>How women make a life online</title>
     </programme>
-    <programme start="20260311110000 +0000" stop="20260311110200 +0000" channel="DW English HD.starhub">
+    <programme start="20260311110000 +0000" stop="20260311120000 +0000" channel="DW English HD.starhub">
         <title>News</title>
-    </programme>
-    <programme start="20260311110200 +0000" stop="20260311113000 +0000" channel="DW English HD.starhub">
-        <title>Italy’s New Farmers</title>
-    </programme>
-    <programme start="20260311113000 +0000" stop="20260311120000 +0000" channel="DW English HD.starhub">
-        <title>Your Business Magazine</title>
     </programme>
     <programme start="20260311120000 +0000" stop="20260311120200 +0000" channel="DW English HD.starhub">
         <title>News</title>
@@ -3416,7 +3410,7 @@
         <title>News</title>
     </programme>
     <programme start="20260311131500 +0000" stop="20260311133000 +0000" channel="DW English HD.starhub">
-        <title>The looming AI bubble</title>
+        <title>Has Europe staked its economic future on war?</title>
     </programme>
     <programme start="20260311133000 +0000" stop="20260311140000 +0000" channel="DW English HD.starhub">
         <title>Community-led conservation: How small steps bring big change</title>

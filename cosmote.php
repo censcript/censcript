@@ -134,6 +134,10 @@
     <title>Football: ACF Fiorentina - Parma</title>
     <desc>Live: Tidak</desc>
 </programme>
+<programme start="20260312162500 +0700" stop="20260312182500 +0700" channel="COSMOTE Sport 2 HD">
+    <title>Football: SS Lazio - Sassuolo</title>
+    <desc>Live: Tidak</desc>
+</programme>
 <programme start="20260311150000 +0700" stop="20260311170000 +0700" channel="COSMOTE Sport 3 HD">
     <title>Football: SC Braga - Sporting CP</title>
     <desc>Live: Tidak</desc>
@@ -204,6 +208,10 @@
 </programme>
 <programme start="20260312130000 +0700" stop="20260312160000 +0700" channel="COSMOTE Sport 3 HD">
     <title>Football: West Ham United FC - Brentford</title>
+    <desc>Live: Tidak</desc>
+</programme>
+<programme start="20260312160000 +0700" stop="20260312180000 +0700" channel="COSMOTE Sport 3 HD">
+    <title>Football: Santa Clara - Vitoria Guimaraes</title>
     <desc>Live: Tidak</desc>
 </programme>
 <programme start="20260311144500 +0700" stop="20260311171500 +0700" channel="COSMOTE Sport 4 HD">
@@ -344,6 +352,14 @@
 </programme>
 <programme start="20260312151000 +0700" stop="20260312160000 +0700" channel="COSMOTE Sport 5 HD">
     <title>2025 GT World Challenge Europe</title>
+    <desc>Live: Tidak</desc>
+</programme>
+<programme start="20260312160000 +0700" stop="20260312164500 +0700" channel="COSMOTE Sport 5 HD">
+    <title>DTM</title>
+    <desc>Live: Tidak</desc>
+</programme>
+<programme start="20260312164500 +0700" stop="20260312181500 +0700" channel="COSMOTE Sport 5 HD">
+    <title>DTM 2025</title>
     <desc>Live: Tidak</desc>
 </programme>
 <programme start="20260311143500 +0700" stop="20260311170000 +0700" channel="COSMOTE Sport 6 HD">

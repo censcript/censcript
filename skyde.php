@@ -2674,7 +2674,7 @@
 <programme start="20260311193000 +0000" stop="20260311195000 +0000" channel="Sky Sport Austria 3 HD.skyde">
     <title>Es folgt: Live UEFA Champions League</title>
 </programme>
-<programme start="20260311195000 +0000" stop="20260311220000 +0000" channel="Sky Sport Austria 3 HD.skyde">
+<programme start="20260311195000 +0000" stop="20260311223000 +0000" channel="Sky Sport Austria 3 HD.skyde">
     <title>Live UEFA CL: FK Bodo/Glimt - Sporting Lissabon, Achtelfinale Hinspiel, Mittwoch</title>
 </programme>
 <programme start="20260310230000 +0000" stop="20260311000000 +0000" channel="Sky Sport Bundesliga HD.skyde">
@@ -3137,10 +3137,10 @@
     <title>F1: Rennen - GP Australien</title>
 </programme>
 <programme start="20260311120000 +0000" stop="20260311140000 +0000" channel="Sky Sport Top Event HD.skyde">
-    <title>WTA 1000: Topspiel, BNP Paribas Open in Indian Wells, Kalifornien (USA), 7. Tag</title>
+    <title>WTA 1000: A. Sabalenka - N. Osaka (JPN), BNP Paribas Open in Indian Wells, Kalifornien (USA), 7. Tag</title>
 </programme>
 <programme start="20260311140000 +0000" stop="20260311160000 +0000" channel="Sky Sport Top Event HD.skyde">
-    <title>ATP 1000: Topspiel, BNP Paribas Open in Indian Wells, Kalifornien (USA), 7. Tag</title>
+    <title>ATP 1000: A. Zverev (GER) - F. Tiafoe (USA), BNP Paribas Open in Indian Wells, Kalifornien (USA), 7. Tag</title>
 </programme>
 <programme start="20260311160000 +0000" stop="20260311161500 +0000" channel="Sky Sport Top Event HD.skyde">
     <title>NHL: Highlights DET@FLA</title>
@@ -3211,7 +3211,7 @@
 <programme start="20260311162500 +0000" stop="20260311164500 +0000" channel="Sky Sport 3 HD.skyde">
     <title>Es folgt DFB-Pokal</title>
 </programme>
-<programme start="20260311164500 +0000" stop="20260311193000 +0000" channel="Sky Sport 3 HD.skyde">
+<programme start="20260311164500 +0000" stop="20260311203000 +0000" channel="Sky Sport 3 HD.skyde">
     <title>Live DFB-Pokal Frauen: VfL Wolfsburg - Eintracht Frankfurt, Viertelfinale</title>
 </programme>
 <programme start="20260311162500 +0000" stop="20260311164500 +0000" channel="Sky Sport 4 HD.skyde">
@@ -3223,7 +3223,7 @@
 <programme start="20260311162500 +0000" stop="20260311164500 +0000" channel="Sky Sport 5 HD.skyde">
     <title>Es folgt DFB-Pokal</title>
 </programme>
-<programme start="20260311164500 +0000" stop="20260311193000 +0000" channel="Sky Sport 5 HD.skyde">
+<programme start="20260311164500 +0000" stop="20260311203000 +0000" channel="Sky Sport 5 HD.skyde">
     <title>Live DFB-Pokal Frauen: FC Carl Zeiss Jena - SC Sand, Viertelfinale</title>
 </programme>
 <programme start="20260311174000 +0000" stop="20260311180000 +0000" channel="Sky Sport 6 HD.skyde">
