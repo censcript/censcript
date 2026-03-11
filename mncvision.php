@@ -1150,8 +1150,156 @@
 <programme start="20260311164000 +0000" stop="20260310171000 +0000" channel="beIN Sports 1 HD.mncvision">
     <title>Mini Match LaLiga: ATH Vs BAR</title>
 </programme>
-Error: Unable to fetch data. HTTP Status Code: 500
-Error: Unable to fetch data. HTTP Status Code: 500
+<programme start="20260310172500 +0000" stop="20260310175500 +0000" channel="beIN Sports 2.mncvision">
+    <title>This Is Paris 2025/26, Ep 27</title>
+</programme>
+<programme start="20260310175500 +0000" stop="20260310195500 +0000" channel="beIN Sports 2.mncvision">
+    <title>PSG TV 2025/26: PSG Vs Monaco</title>
+</programme>
+<programme start="20260310195500 +0000" stop="20260310220000 +0000" channel="beIN Sports 2.mncvision">
+    <title>UCL 2025/26: ATA Vs FCB (L)</title>
+</programme>
+<programme start="20260310220000 +0000" stop="20260311010000 +0000" channel="beIN Sports 2.mncvision">
+    <title>UCI Women&#039;s World Tour 2026</title>
+</programme>
+<programme start="20260311010000 +0000" stop="20260311025000 +0000" channel="beIN Sports 2.mncvision">
+    <title>AFCON 2025: UGA Vs TAN</title>
+</programme>
+<programme start="20260311025000 +0000" stop="20260311030000 +0000" channel="beIN Sports 2.mncvision">
+    <title>Premier Padel Match HL 2025</title>
+</programme>
+<programme start="20260311030000 +0000" stop="20260311045000 +0000" channel="beIN Sports 2.mncvision">
+    <title>Super Lig 2025/26: BJK Vs GAL</title>
+</programme>
+<programme start="20260311045000 +0000" stop="20260311051500 +0000" channel="beIN Sports 2.mncvision">
+    <title>HSBC SVNS Series 2026</title>
+</programme>
+<programme start="20260311051500 +0000" stop="20260311054000 +0000" channel="beIN Sports 2.mncvision">
+    <title>HSBC SVNS Series 2026</title>
+</programme>
+<programme start="20260311054000 +0000" stop="20260311060500 +0000" channel="beIN Sports 2.mncvision">
+    <title>HSBC SVNS Series 2026</title>
+</programme>
+<programme start="20260311060500 +0000" stop="20260311063000 +0000" channel="beIN Sports 2.mncvision">
+    <title>HSBC SVNS Series 2026</title>
+</programme>
+<programme start="20260311063000 +0000" stop="20260311065500 +0000" channel="beIN Sports 2.mncvision">
+    <title>HSBC SVNS Series 2026</title>
+</programme>
+<programme start="20260311065500 +0000" stop="20260311072000 +0000" channel="beIN Sports 2.mncvision">
+    <title>HSBC SVNS Series 2026</title>
+</programme>
+<programme start="20260311072000 +0000" stop="20260311074500 +0000" channel="beIN Sports 2.mncvision">
+    <title>HSBC SVNS Series 2026</title>
+</programme>
+<programme start="20260311074500 +0000" stop="20260311081000 +0000" channel="beIN Sports 2.mncvision">
+    <title>HSBC SVNS Series 2026</title>
+</programme>
+<programme start="20260311081000 +0000" stop="20260311083500 +0000" channel="beIN Sports 2.mncvision">
+    <title>HSBC SVNS Series 2026</title>
+</programme>
+<programme start="20260311083500 +0000" stop="20260311090000 +0000" channel="beIN Sports 2.mncvision">
+    <title>HSBC SVNS Series 2026</title>
+</programme>
+<programme start="20260311090000 +0000" stop="20260311091000 +0000" channel="beIN Sports 2.mncvision">
+    <title>Premier Padel Match HL 2026</title>
+</programme>
+<programme start="20260311091000 +0000" stop="20260311101000 +0000" channel="beIN Sports 2.mncvision">
+    <title>WSL Highlights 2025/26</title>
+</programme>
+<programme start="20260311101000 +0000" stop="20260311104000 +0000" channel="beIN Sports 2.mncvision">
+    <title>This Is Paris 2025/26, Ep 27</title>
+</programme>
+<programme start="20260311104000 +0000" stop="20260311124000 +0000" channel="beIN Sports 2.mncvision">
+    <title>PSG TV 2025/26: PSG Vs Monaco</title>
+</programme>
+<programme start="20260311124000 +0000" stop="20260311134000 +0000" channel="beIN Sports 2.mncvision">
+    <title>HSBC SVNS Series HL 2026</title>
+</programme>
+<programme start="20260311134000 +0000" stop="20260311141000 +0000" channel="beIN Sports 2.mncvision">
+    <title>Mini Match Australian Open 2026</title>
+</programme>
+<programme start="20260311141000 +0000" stop="20260311161500 +0000" channel="beIN Sports 2.mncvision">
+    <title>UCI World Tour 2026 (L)</title>
+</programme>
+<programme start="20260311161500 +0000" stop="20260311164500 +0000" channel="beIN Sports 2.mncvision">
+    <title>AFCON 2025: SEN Vs BOT</title>
+</programme>
+<programme start="20260310172500 +0000" stop="20260310175500 +0000" channel="beIN Sports 2 HD.mncvision">
+    <title>This Is Paris 2025/26, Ep 27</title>
+</programme>
+<programme start="20260310175500 +0000" stop="20260310195500 +0000" channel="beIN Sports 2 HD.mncvision">
+    <title>PSG TV 2025/26: PSG Vs Monaco</title>
+</programme>
+<programme start="20260310195500 +0000" stop="20260310220000 +0000" channel="beIN Sports 2 HD.mncvision">
+    <title>UCL 2025/26: ATA Vs FCB (L)</title>
+</programme>
+<programme start="20260310220000 +0000" stop="20260311010000 +0000" channel="beIN Sports 2 HD.mncvision">
+    <title>UCI Women&#039;s World Tour 2026</title>
+</programme>
+<programme start="20260311010000 +0000" stop="20260311025000 +0000" channel="beIN Sports 2 HD.mncvision">
+    <title>AFCON 2025: UGA Vs TAN</title>
+</programme>
+<programme start="20260311025000 +0000" stop="20260311030000 +0000" channel="beIN Sports 2 HD.mncvision">
+    <title>Premier Padel Match HL 2025</title>
+</programme>
+<programme start="20260311030000 +0000" stop="20260311045000 +0000" channel="beIN Sports 2 HD.mncvision">
+    <title>Super Lig 2025/26: BJK Vs GAL</title>
+</programme>
+<programme start="20260311045000 +0000" stop="20260311051500 +0000" channel="beIN Sports 2 HD.mncvision">
+    <title>HSBC SVNS Series 2026</title>
+</programme>
+<programme start="20260311051500 +0000" stop="20260311054000 +0000" channel="beIN Sports 2 HD.mncvision">
+    <title>HSBC SVNS Series 2026</title>
+</programme>
+<programme start="20260311054000 +0000" stop="20260311060500 +0000" channel="beIN Sports 2 HD.mncvision">
+    <title>HSBC SVNS Series 2026</title>
+</programme>
+<programme start="20260311060500 +0000" stop="20260311063000 +0000" channel="beIN Sports 2 HD.mncvision">
+    <title>HSBC SVNS Series 2026</title>
+</programme>
+<programme start="20260311063000 +0000" stop="20260311065500 +0000" channel="beIN Sports 2 HD.mncvision">
+    <title>HSBC SVNS Series 2026</title>
+</programme>
+<programme start="20260311065500 +0000" stop="20260311072000 +0000" channel="beIN Sports 2 HD.mncvision">
+    <title>HSBC SVNS Series 2026</title>
+</programme>
+<programme start="20260311072000 +0000" stop="20260311074500 +0000" channel="beIN Sports 2 HD.mncvision">
+    <title>HSBC SVNS Series 2026</title>
+</programme>
+<programme start="20260311074500 +0000" stop="20260311081000 +0000" channel="beIN Sports 2 HD.mncvision">
+    <title>HSBC SVNS Series 2026</title>
+</programme>
+<programme start="20260311081000 +0000" stop="20260311083500 +0000" channel="beIN Sports 2 HD.mncvision">
+    <title>HSBC SVNS Series 2026</title>
+</programme>
+<programme start="20260311083500 +0000" stop="20260311090000 +0000" channel="beIN Sports 2 HD.mncvision">
+    <title>HSBC SVNS Series 2026</title>
+</programme>
+<programme start="20260311090000 +0000" stop="20260311091000 +0000" channel="beIN Sports 2 HD.mncvision">
+    <title>Premier Padel Match HL 2026</title>
+</programme>
+<programme start="20260311091000 +0000" stop="20260311101000 +0000" channel="beIN Sports 2 HD.mncvision">
+    <title>WSL Highlights 2025/26</title>
+</programme>
+<programme start="20260311101000 +0000" stop="20260311104000 +0000" channel="beIN Sports 2 HD.mncvision">
+    <title>This Is Paris 2025/26, Ep 27</title>
+</programme>
+<programme start="20260311104000 +0000" stop="20260311124000 +0000" channel="beIN Sports 2 HD.mncvision">
+    <title>PSG TV 2025/26: PSG Vs Monaco</title>
+</programme>
+<programme start="20260311124000 +0000" stop="20260311134000 +0000" channel="beIN Sports 2 HD.mncvision">
+    <title>HSBC SVNS Series HL 2026</title>
+</programme>
+<programme start="20260311134000 +0000" stop="20260311141000 +0000" channel="beIN Sports 2 HD.mncvision">
+    <title>Mini Match Australian Open 2026</title>
+</programme>
+<programme start="20260311141000 +0000" stop="20260311161500 +0000" channel="beIN Sports 2 HD.mncvision">
+    <title>UCI World Tour 2026 (L)</title>
+</programme>
+<programme start="20260311161500 +0000" stop="20260311164500 +0000" channel="beIN Sports 2 HD.mncvision">
+    <title>AFCON 2025: SEN Vs BOT</title>
+</programme>
 <programme start="20260310190000 +0000" stop="20260310195500 +0000" channel="beIN Sports 3.mncvision">
     <title>SailGP Highlights 2026: Sydney</title>
 </programme>
@@ -1212,9 +1360,132 @@ Error: Unable to fetch data. HTTP Status Code: 500
 <programme start="20260311160000 +0000" stop="20260311163000 +0000" channel="beIN Sports 3.mncvision">
     <title>UCI Women&#039;s World Tour 2026</title>
 </programme>
-Error: Unable to fetch data. HTTP Status Code: 500
-Error: Unable to fetch data. HTTP Status Code: 500
-Error: Unable to fetch data. HTTP Status Code: 500
+<programme start="20260310190000 +0000" stop="20260310195500 +0000" channel="beIN Sports 3 HD.mncvision">
+    <title>SailGP Highlights 2026: Sydney</title>
+</programme>
+<programme start="20260310195500 +0000" stop="20260310220000 +0000" channel="beIN Sports 3 HD.mncvision">
+    <title>UCL 2025/26: ATM Vs TOT (L)</title>
+</programme>
+<programme start="20260310220000 +0000" stop="20260310223000 +0000" channel="beIN Sports 3 HD.mncvision">
+    <title>MUTV Specials: American Dream</title>
+</programme>
+<programme start="20260310223000 +0000" stop="20260310233000 +0000" channel="beIN Sports 3 HD.mncvision">
+    <title>HSBC SVNS Series HL 2026</title>
+</programme>
+<programme start="20260310233000 +0000" stop="20260311012000 +0000" channel="beIN Sports 3 HD.mncvision">
+    <title>UCL 2025/26: GAL Vs LIV</title>
+</programme>
+<programme start="20260311012000 +0000" stop="20260311031000 +0000" channel="beIN Sports 3 HD.mncvision">
+    <title>UCL 2025/26: ATM Vs TOT</title>
+</programme>
+<programme start="20260311031000 +0000" stop="20260311050000 +0000" channel="beIN Sports 3 HD.mncvision">
+    <title>UCL 2025/26: NEW Vs BAR</title>
+</programme>
+<programme start="20260311050000 +0000" stop="20260311065000 +0000" channel="beIN Sports 3 HD.mncvision">
+    <title>UCL 2025/26: ATA Vs FCB</title>
+</programme>
+<programme start="20260311065000 +0000" stop="20260311070000 +0000" channel="beIN Sports 3 HD.mncvision">
+    <title>UCL Classic Matches: BAR Vs LYO</title>
+</programme>
+<programme start="20260311070000 +0000" stop="20260311073000 +0000" channel="beIN Sports 3 HD.mncvision">
+    <title>UCL Highlights 2025/26</title>
+</programme>
+<programme start="20260311073000 +0000" stop="20260311090000 +0000" channel="beIN Sports 3 HD.mncvision">
+    <title>SailGP 2026: Sydney Day 1</title>
+</programme>
+<programme start="20260311090000 +0000" stop="20260311100000 +0000" channel="beIN Sports 3 HD.mncvision">
+    <title>HSBC SVNS Series HL 2026</title>
+</programme>
+<programme start="20260311100000 +0000" stop="20260311103000 +0000" channel="beIN Sports 3 HD.mncvision">
+    <title>UCL Highlights 2025/26</title>
+</programme>
+<programme start="20260311103000 +0000" stop="20260311110000 +0000" channel="beIN Sports 3 HD.mncvision">
+    <title>UCI World Tour Highlights 2026</title>
+</programme>
+<programme start="20260311110000 +0000" stop="20260311125000 +0000" channel="beIN Sports 3 HD.mncvision">
+    <title>UCL 2025/26: GAL Vs LIV</title>
+</programme>
+<programme start="20260311125000 +0000" stop="20260311130000 +0000" channel="beIN Sports 3 HD.mncvision">
+    <title>UCL Classic Matches: AND Vs PSG</title>
+</programme>
+<programme start="20260311130000 +0000" stop="20260311133000 +0000" channel="beIN Sports 3 HD.mncvision">
+    <title>UCL Highlights 2025/26</title>
+</programme>
+<programme start="20260311133000 +0000" stop="20260311140000 +0000" channel="beIN Sports 3 HD.mncvision">
+    <title>Inside Sailing 2026: March</title>
+</programme>
+<programme start="20260311140000 +0000" stop="20260311160000 +0000" channel="beIN Sports 3 HD.mncvision">
+    <title>UCL 2025/26: NEW Vs BAR</title>
+</programme>
+<programme start="20260311160000 +0000" stop="20260311163000 +0000" channel="beIN Sports 3 HD.mncvision">
+    <title>UCI Women&#039;s World Tour 2026</title>
+</programme>
+<programme start="20260310170000 +0000" stop="20260310200000 +0000" channel="beIN SPORTS 4.mncvision">
+    <title>beIN Sports 4</title>
+</programme>
+<programme start="20260310200000 +0000" stop="20260310220000 +0000" channel="beIN SPORTS 4.mncvision">
+    <title>beIN Sports 4</title>
+</programme>
+<programme start="20260310220000 +0000" stop="20260311010000 +0000" channel="beIN SPORTS 4.mncvision">
+    <title>beIN Sports 4</title>
+</programme>
+<programme start="20260311010000 +0000" stop="20260311030000 +0000" channel="beIN SPORTS 4.mncvision">
+    <title>beIN Sports 4</title>
+</programme>
+<programme start="20260311030000 +0000" stop="20260311050000 +0000" channel="beIN SPORTS 4.mncvision">
+    <title>beIN Sports 4</title>
+</programme>
+<programme start="20260311050000 +0000" stop="20260311070000 +0000" channel="beIN SPORTS 4.mncvision">
+    <title>beIN Sports 4</title>
+</programme>
+<programme start="20260311070000 +0000" stop="20260311090000 +0000" channel="beIN SPORTS 4.mncvision">
+    <title>beIN Sports 4</title>
+</programme>
+<programme start="20260311090000 +0000" stop="20260311110000 +0000" channel="beIN SPORTS 4.mncvision">
+    <title>beIN Sports 4</title>
+</programme>
+<programme start="20260311110000 +0000" stop="20260311130000 +0000" channel="beIN SPORTS 4.mncvision">
+    <title>beIN Sports 4</title>
+</programme>
+<programme start="20260311130000 +0000" stop="20260311151500 +0000" channel="beIN SPORTS 4.mncvision">
+    <title>beIN Sports 4</title>
+</programme>
+<programme start="20260311151500 +0000" stop="20260311154500 +0000" channel="beIN SPORTS 4.mncvision">
+    <title>beIN Sports 4</title>
+</programme>
+<programme start="20260310170000 +0000" stop="20260310200000 +0000" channel="beIN SPORTS 5.mncvision">
+    <title>beIN Sports 5</title>
+</programme>
+<programme start="20260310200000 +0000" stop="20260310220000 +0000" channel="beIN SPORTS 5.mncvision">
+    <title>beIN Sports 5</title>
+</programme>
+<programme start="20260310220000 +0000" stop="20260311010000 +0000" channel="beIN SPORTS 5.mncvision">
+    <title>beIN Sports 5</title>
+</programme>
+<programme start="20260311010000 +0000" stop="20260311030000 +0000" channel="beIN SPORTS 5.mncvision">
+    <title>beIN Sports 5</title>
+</programme>
+<programme start="20260311030000 +0000" stop="20260311050000 +0000" channel="beIN SPORTS 5.mncvision">
+    <title>beIN Sports 5</title>
+</programme>
+<programme start="20260311050000 +0000" stop="20260311070000 +0000" channel="beIN SPORTS 5.mncvision">
+    <title>beIN Sports 5</title>
+</programme>
+<programme start="20260311070000 +0000" stop="20260311090000 +0000" channel="beIN SPORTS 5.mncvision">
+    <title>beIN Sports 5</title>
+</programme>
+<programme start="20260311090000 +0000" stop="20260311110000 +0000" channel="beIN SPORTS 5.mncvision">
+    <title>beIN Sports 5</title>
+</programme>
+<programme start="20260311110000 +0000" stop="20260311130000 +0000" channel="beIN SPORTS 5.mncvision">
+    <title>beIN Sports 5</title>
+</programme>
+<programme start="20260311130000 +0000" stop="20260311151500 +0000" channel="beIN SPORTS 5.mncvision">
+    <title>beIN Sports 5</title>
+</programme>
+<programme start="20260311151500 +0000" stop="20260311154500 +0000" channel="beIN SPORTS 5.mncvision">
+    <title>beIN Sports 5</title>
+</programme>
 <programme start="20260310170000 +0000" stop="20260310180000 +0000" channel="Bloomberg.mncvision">
     <title>Bloomberg: Balance Of Power</title>
 </programme>
@@ -3543,8 +3814,96 @@ Error: Unable to fetch data. HTTP Status Code: 500
 <programme start="20260311045000 +0000" stop="20260311052000 +0000" channel="France 24 English.mncvision">
     <title>Introduction (L)</title>
 </programme>
-Error: Unable to fetch data. HTTP Status Code: 500
-Error: Unable to fetch data. HTTP Status Code: 500
+<programme start="20260310184000 +0000" stop="20260310200000 +0000" channel="Galaxy.mncvision">
+    <title>Nature Calls</title>
+</programme>
+<programme start="20260310200000 +0000" stop="20260310212000 +0000" channel="Galaxy.mncvision">
+    <title>The Killing Of K. Chamberlain</title>
+</programme>
+<programme start="20260310212000 +0000" stop="20260310224500 +0000" channel="Galaxy.mncvision">
+    <title>The Curse Of The Clown Motel</title>
+</programme>
+<programme start="20260310224500 +0000" stop="20260311001000 +0000" channel="Galaxy.mncvision">
+    <title>A Fighting Man</title>
+</programme>
+<programme start="20260311001000 +0000" stop="20260311014500 +0000" channel="Galaxy.mncvision">
+    <title>Death On The Border</title>
+</programme>
+<programme start="20260311014500 +0000" stop="20260311031000 +0000" channel="Galaxy.mncvision">
+    <title>Safer At Home</title>
+</programme>
+<programme start="20260311031000 +0000" stop="20260311044000 +0000" channel="Galaxy.mncvision">
+    <title>Escape Through Africa</title>
+</programme>
+<programme start="20260311044000 +0000" stop="20260311060500 +0000" channel="Galaxy.mncvision">
+    <title>AfterDeath</title>
+</programme>
+<programme start="20260311060500 +0000" stop="20260311073500 +0000" channel="Galaxy.mncvision">
+    <title>The Haunting Of Sharon Tate</title>
+</programme>
+<programme start="20260311073500 +0000" stop="20260311090000 +0000" channel="Galaxy.mncvision">
+    <title>Phoenix</title>
+</programme>
+<programme start="20260311090000 +0000" stop="20260311102500 +0000" channel="Galaxy.mncvision">
+    <title>The Price We Pay</title>
+</programme>
+<programme start="20260311102500 +0000" stop="20260311120000 +0000" channel="Galaxy.mncvision">
+    <title>Alone We Fight</title>
+</programme>
+<programme start="20260311120000 +0000" stop="20260311132500 +0000" channel="Galaxy.mncvision">
+    <title>Operation Seawolf</title>
+</programme>
+<programme start="20260311132500 +0000" stop="20260311144500 +0000" channel="Galaxy.mncvision">
+    <title>The Rake</title>
+</programme>
+<programme start="20260311144500 +0000" stop="20260311162500 +0000" channel="Galaxy.mncvision">
+    <title>Sin City: A Dame To Kill For</title>
+</programme>
+<programme start="20260311162500 +0000" stop="20260311165500 +0000" channel="Galaxy.mncvision">
+    <title>Darkness Of Man</title>
+</programme>
+<programme start="20260310172000 +0000" stop="20260310190000 +0000" channel="Galaxy Premium.mncvision">
+    <title>Lara Croft: Tomb Raider</title>
+</programme>
+<programme start="20260310190000 +0000" stop="20260310203500 +0000" channel="Galaxy Premium.mncvision">
+    <title>Zathura: A Space Adventure</title>
+</programme>
+<programme start="20260310203500 +0000" stop="20260310224000 +0000" channel="Galaxy Premium.mncvision">
+    <title>Star Trek Beyond</title>
+</programme>
+<programme start="20260310224000 +0000" stop="20260311004500 +0000" channel="Galaxy Premium.mncvision">
+    <title>The Core</title>
+</programme>
+<programme start="20260311004500 +0000" stop="20260311024000 +0000" channel="Galaxy Premium.mncvision">
+    <title>Jack Reacher: Never Go Back</title>
+</programme>
+<programme start="20260311024000 +0000" stop="20260311040500 +0000" channel="Galaxy Premium.mncvision">
+    <title>Zoom</title>
+</programme>
+<programme start="20260311040500 +0000" stop="20260311054000 +0000" channel="Galaxy Premium.mncvision">
+    <title>Alpha</title>
+</programme>
+<programme start="20260311054000 +0000" stop="20260311071500 +0000" channel="Galaxy Premium.mncvision">
+    <title>Playing With Fire</title>
+</programme>
+<programme start="20260311071500 +0000" stop="20260311090500 +0000" channel="Galaxy Premium.mncvision">
+    <title>Labor Day</title>
+</programme>
+<programme start="20260311090500 +0000" stop="20260311105000 +0000" channel="Galaxy Premium.mncvision">
+    <title>Billy Lynn&#039;s Long Halftime Walk</title>
+</programme>
+<programme start="20260311105000 +0000" stop="20260311122500 +0000" channel="Galaxy Premium.mncvision">
+    <title>The Last Airbender</title>
+</programme>
+<programme start="20260311122500 +0000" stop="20260311140000 +0000" channel="Galaxy Premium.mncvision">
+    <title>Broken Horses</title>
+</programme>
+<programme start="20260311140000 +0000" stop="20260311152500 +0000" channel="Galaxy Premium.mncvision">
+    <title>Crawl</title>
+</programme>
+<programme start="20260311152500 +0000" stop="20260311155500 +0000" channel="Galaxy Premium.mncvision">
+    <title>Transformers</title>
+</programme>
 <programme start="20260310170000 +0000" stop="20260310174500 +0000" channel="Global Trekker.mncvision">
     <title>Aerial Italy, Ep 4</title>
 </programme>
@@ -3743,8 +4102,114 @@ Error: Unable to fetch data. HTTP Status Code: 500
 <programme start="20260311162000 +0000" stop="20260311165000 +0000" channel="Global Trekker HD.mncvision">
     <title>Artist To Icon, Ep 6</title>
 </programme>
-Error: Unable to fetch data. HTTP Status Code: 500
-Error: Unable to fetch data. HTTP Status Code: 500
+<programme start="20260310170000 +0000" stop="20260310190000 +0000" channel="GTV.mncvision">
+    <title>Crime KV</title>
+</programme>
+<programme start="20260310190000 +0000" stop="20260310203000 +0000" channel="GTV.mncvision">
+    <title>Special Police &amp; Snake Revenge</title>
+</programme>
+<programme start="20260310203000 +0000" stop="20260310220000 +0000" channel="GTV.mncvision">
+    <title>Gulou Town Tomb Place</title>
+</programme>
+<programme start="20260310220000 +0000" stop="20260310230000 +0000" channel="GTV.mncvision">
+    <title>Kisah Viral</title>
+</programme>
+<programme start="20260310230000 +0000" stop="20260311003000 +0000" channel="GTV.mncvision">
+    <title>SpongeBob SquarePants</title>
+</programme>
+<programme start="20260311003000 +0000" stop="20260311011500 +0000" channel="GTV.mncvision">
+    <title>CoComelon Dan Sahabat</title>
+</programme>
+<programme start="20260311011500 +0000" stop="20260311020000 +0000" channel="GTV.mncvision">
+    <title>Obrolan Seputar Selebriti</title>
+</programme>
+<programme start="20260311020000 +0000" stop="20260311021500 +0000" channel="GTV.mncvision">
+    <title>Buletin iNews Pagi</title>
+</programme>
+<programme start="20260311021500 +0000" stop="20260311030000 +0000" channel="GTV.mncvision">
+    <title>Bernard Bear</title>
+</programme>
+<programme start="20260311030000 +0000" stop="20260311050000 +0000" channel="GTV.mncvision">
+    <title>SpongeBob SquarePants</title>
+</programme>
+<programme start="20260311050000 +0000" stop="20260311073000 +0000" channel="GTV.mncvision">
+    <title>SpongeBob SquarePants</title>
+</programme>
+<programme start="20260311073000 +0000" stop="20260311093000 +0000" channel="GTV.mncvision">
+    <title>SpongeBob SquarePants</title>
+</programme>
+<programme start="20260311093000 +0000" stop="20260311100000 +0000" channel="GTV.mncvision">
+    <title>SpongeBob SquarePants</title>
+</programme>
+<programme start="20260311100000 +0000" stop="20260311110000 +0000" channel="GTV.mncvision">
+    <title>Ramadan Sama Artis</title>
+</programme>
+<programme start="20260311110000 +0000" stop="20260311123000 +0000" channel="GTV.mncvision">
+    <title>New Family 100</title>
+</programme>
+<programme start="20260311123000 +0000" stop="20260311150000 +0000" channel="GTV.mncvision">
+    <title>Mission: Impossible</title>
+</programme>
+<programme start="20260311150000 +0000" stop="20260311160000 +0000" channel="GTV.mncvision">
+    <title>2nd Account</title>
+</programme>
+<programme start="20260311160000 +0000" stop="20260311163000 +0000" channel="GTV.mncvision">
+    <title>Jelajah Mitos</title>
+</programme>
+<programme start="20260310170000 +0000" stop="20260310190000 +0000" channel="GTV HD.mncvision">
+    <title>Crime KV</title>
+</programme>
+<programme start="20260310190000 +0000" stop="20260310203000 +0000" channel="GTV HD.mncvision">
+    <title>Special Police &amp; Snake Revenge</title>
+</programme>
+<programme start="20260310203000 +0000" stop="20260310220000 +0000" channel="GTV HD.mncvision">
+    <title>Gulou Town Tomb Place</title>
+</programme>
+<programme start="20260310220000 +0000" stop="20260310230000 +0000" channel="GTV HD.mncvision">
+    <title>Kisah Viral</title>
+</programme>
+<programme start="20260310230000 +0000" stop="20260311003000 +0000" channel="GTV HD.mncvision">
+    <title>SpongeBob SquarePants</title>
+</programme>
+<programme start="20260311003000 +0000" stop="20260311011500 +0000" channel="GTV HD.mncvision">
+    <title>CoComelon Dan Sahabat</title>
+</programme>
+<programme start="20260311011500 +0000" stop="20260311020000 +0000" channel="GTV HD.mncvision">
+    <title>Obrolan Seputar Selebriti</title>
+</programme>
+<programme start="20260311020000 +0000" stop="20260311021500 +0000" channel="GTV HD.mncvision">
+    <title>Buletin iNews Pagi</title>
+</programme>
+<programme start="20260311021500 +0000" stop="20260311030000 +0000" channel="GTV HD.mncvision">
+    <title>Bernard Bear</title>
+</programme>
+<programme start="20260311030000 +0000" stop="20260311050000 +0000" channel="GTV HD.mncvision">
+    <title>SpongeBob SquarePants</title>
+</programme>
+<programme start="20260311050000 +0000" stop="20260311073000 +0000" channel="GTV HD.mncvision">
+    <title>SpongeBob SquarePants</title>
+</programme>
+<programme start="20260311073000 +0000" stop="20260311093000 +0000" channel="GTV HD.mncvision">
+    <title>SpongeBob SquarePants</title>
+</programme>
+<programme start="20260311093000 +0000" stop="20260311100000 +0000" channel="GTV HD.mncvision">
+    <title>SpongeBob SquarePants</title>
+</programme>
+<programme start="20260311100000 +0000" stop="20260311110000 +0000" channel="GTV HD.mncvision">
+    <title>Ramadan Sama Artis</title>
+</programme>
+<programme start="20260311110000 +0000" stop="20260311123000 +0000" channel="GTV HD.mncvision">
+    <title>New Family 100</title>
+</programme>
+<programme start="20260311123000 +0000" stop="20260311150000 +0000" channel="GTV HD.mncvision">
+    <title>Mission: Impossible</title>
+</programme>
+<programme start="20260311150000 +0000" stop="20260311160000 +0000" channel="GTV HD.mncvision">
+    <title>2nd Account</title>
+</programme>
+<programme start="20260311160000 +0000" stop="20260311163000 +0000" channel="GTV HD.mncvision">
+    <title>Jelajah Mitos</title>
+</programme>
 <programme start="20260310173000 +0000" stop="20260310180000 +0000" channel="Hanacaraka TV.mncvision">
     <title>Dagelan Mbah Minto</title>
 </programme>
@@ -3838,7 +4303,84 @@ Error: Unable to fetch data. HTTP Status Code: 500
 <programme start="20260311160000 +0000" stop="20260311163000 +0000" channel="Hanacaraka TV.mncvision">
     <title>Ketoprak Humor</title>
 </programme>
-Error: Unable to fetch data. HTTP Status Code: 500
+<programme start="20260310173500 +0000" stop="20260310183000 +0000" channel="History.mncvision">
+    <title>Skinwalker Ranch S4, Ep 9</title>
+</programme>
+<programme start="20260310183000 +0000" stop="20260310192500 +0000" channel="History.mncvision">
+    <title>Ancient Aliens S16, Ep 248</title>
+</programme>
+<programme start="20260310192500 +0000" stop="20260310202000 +0000" channel="History.mncvision">
+    <title>Hidden Cities S2, Ep 6</title>
+</programme>
+<programme start="20260310202000 +0000" stop="20260310211500 +0000" channel="History.mncvision">
+    <title>Mysteries Unearthed S2, Ep 2</title>
+</programme>
+<programme start="20260310211500 +0000" stop="20260310221000 +0000" channel="History.mncvision">
+    <title>Greatest Mysteries S4, Ep 14</title>
+</programme>
+<programme start="20260310221000 +0000" stop="20260310230500 +0000" channel="History.mncvision">
+    <title>Swamp People: Serpent, Ep 7</title>
+</programme>
+<programme start="20260310230500 +0000" stop="20260311000000 +0000" channel="History.mncvision">
+    <title>Hidden Cities S2, Ep 6</title>
+</programme>
+<programme start="20260311000000 +0000" stop="20260311005500 +0000" channel="History.mncvision">
+    <title>Mysteries Unearthed S2, Ep 2</title>
+</programme>
+<programme start="20260311005500 +0000" stop="20260311015500 +0000" channel="History.mncvision">
+    <title>The Death Coast, Ep 5</title>
+</programme>
+<programme start="20260311015500 +0000" stop="20260311025000 +0000" channel="History.mncvision">
+    <title>Greatest Mysteries S4, Ep 14</title>
+</programme>
+<programme start="20260311025000 +0000" stop="20260311034500 +0000" channel="History.mncvision">
+    <title>Skinwalker Ranch S4, Ep 9</title>
+</programme>
+<programme start="20260311034500 +0000" stop="20260311044000 +0000" channel="History.mncvision">
+    <title>Ancient Aliens S16, Ep 248</title>
+</programme>
+<programme start="20260311044000 +0000" stop="20260311053500 +0000" channel="History.mncvision">
+    <title>Swamp People: Serpent, Ep 7</title>
+</programme>
+<programme start="20260311053500 +0000" stop="20260311063000 +0000" channel="History.mncvision">
+    <title>Hidden Cities S2, Ep 6</title>
+</programme>
+<programme start="20260311063000 +0000" stop="20260311072500 +0000" channel="History.mncvision">
+    <title>Greatest Mysteries S4, Ep 14</title>
+</programme>
+<programme start="20260311072500 +0000" stop="20260311082000 +0000" channel="History.mncvision">
+    <title>Ancient Aliens S16, Ep 248</title>
+</programme>
+<programme start="20260311082000 +0000" stop="20260311092000 +0000" channel="History.mncvision">
+    <title>Mysteries Unearthed S2, Ep 2</title>
+</programme>
+<programme start="20260311092000 +0000" stop="20260311101500 +0000" channel="History.mncvision">
+    <title>The Death Coast, Ep 5</title>
+</programme>
+<programme start="20260311101500 +0000" stop="20260311111000 +0000" channel="History.mncvision">
+    <title>Holy Marvels S2, Ep 10</title>
+</programme>
+<programme start="20260311111000 +0000" stop="20260311120500 +0000" channel="History.mncvision">
+    <title>Skinwalker Ranch S4, Ep 10</title>
+</programme>
+<programme start="20260311120500 +0000" stop="20260311130000 +0000" channel="History.mncvision">
+    <title>Lost U-Boats Of WW2, Ep 2</title>
+</programme>
+<programme start="20260311130000 +0000" stop="20260311135500 +0000" channel="History.mncvision">
+    <title>Mountain Men S13, Ep 3</title>
+</programme>
+<programme start="20260311135500 +0000" stop="20260311145000 +0000" channel="History.mncvision">
+    <title>Curse Of Oak Island S12, Ep 3</title>
+</programme>
+<programme start="20260311145000 +0000" stop="20260311154500 +0000" channel="History.mncvision">
+    <title>The Bermuda Triangle S2, Ep 6</title>
+</programme>
+<programme start="20260311154500 +0000" stop="20260311164000 +0000" channel="History.mncvision">
+    <title>Mountain Men S12, Ep 3</title>
+</programme>
+<programme start="20260311164000 +0000" stop="20260310171000 +0000" channel="History.mncvision">
+    <title>Lost U-Boats Of WW2, Ep 2</title>
+</programme>
 <programme start="20260310170000 +0000" stop="20260310180000 +0000" channel="HITS.mncvision">
     <title>The Waltons S3, Ep 17</title>
 </programme>
@@ -3989,7 +4531,93 @@ Error: Unable to fetch data. HTTP Status Code: 500
 <programme start="20260311161500 +0000" stop="20260311164500 +0000" channel="HITS MOVIES HD.mncvision">
     <title>Mamma Mia!</title>
 </programme>
-Error: Unable to fetch data. HTTP Status Code: 500
+<programme start="20260310173000 +0000" stop="20260310183000 +0000" channel="IDX.mncvision">
+    <title>Prime Market Highlight</title>
+</programme>
+<programme start="20260310183000 +0000" stop="20260310193000 +0000" channel="IDX.mncvision">
+    <title>Market Review</title>
+</programme>
+<programme start="20260310193000 +0000" stop="20260310203000 +0000" channel="IDX.mncvision">
+    <title>Market Headlines</title>
+</programme>
+<programme start="20260310203000 +0000" stop="20260310213000 +0000" channel="IDX.mncvision">
+    <title>OMG IDX</title>
+</programme>
+<programme start="20260310213000 +0000" stop="20260310220000 +0000" channel="IDX.mncvision">
+    <title>Technobizz</title>
+</programme>
+<programme start="20260310220000 +0000" stop="20260310230000 +0000" channel="IDX.mncvision">
+    <title>New Top Files</title>
+</programme>
+<programme start="20260310230000 +0000" stop="20260311000000 +0000" channel="IDX.mncvision">
+    <title>Prime Market Highlight</title>
+</programme>
+<programme start="20260311000000 +0000" stop="20260311010000 +0000" channel="IDX.mncvision">
+    <title>Market Headlines</title>
+</programme>
+<programme start="20260311010000 +0000" stop="20260311013000 +0000" channel="IDX.mncvision">
+    <title>IDXTainment</title>
+</programme>
+<programme start="20260311013000 +0000" stop="20260311023000 +0000" channel="IDX.mncvision">
+    <title>Market Buzz (L)</title>
+</programme>
+<programme start="20260311023000 +0000" stop="20260311030000 +0000" channel="IDX.mncvision">
+    <title>IDXTainment</title>
+</programme>
+<programme start="20260311030000 +0000" stop="20260311040000 +0000" channel="IDX.mncvision">
+    <title>Market Review</title>
+</programme>
+<programme start="20260311040000 +0000" stop="20260311050000 +0000" channel="IDX.mncvision">
+    <title>New Top Files</title>
+</programme>
+<programme start="20260311050000 +0000" stop="20260311053000 +0000" channel="IDX.mncvision">
+    <title>IDX 1st Closing Market (L)</title>
+</programme>
+<programme start="20260311053000 +0000" stop="20260311063000 +0000" channel="IDX.mncvision">
+    <title>Prime Market Highlight</title>
+</programme>
+<programme start="20260311063000 +0000" stop="20260311070000 +0000" channel="IDX.mncvision">
+    <title>Rating 5</title>
+</programme>
+<programme start="20260311070000 +0000" stop="20260311073000 +0000" channel="IDX.mncvision">
+    <title>I Love Indonesia</title>
+</programme>
+<programme start="20260311073000 +0000" stop="20260311083000 +0000" channel="IDX.mncvision">
+    <title>New Top Files</title>
+</programme>
+<programme start="20260311083000 +0000" stop="20260311093000 +0000" channel="IDX.mncvision">
+    <title>IDX 2nd Closing Market (L)</title>
+</programme>
+<programme start="20260311093000 +0000" stop="20260311103000 +0000" channel="IDX.mncvision">
+    <title>OMG IDX</title>
+</programme>
+<programme start="20260311103000 +0000" stop="20260311110000 +0000" channel="IDX.mncvision">
+    <title>Kalaparan</title>
+</programme>
+<programme start="20260311110000 +0000" stop="20260311113000 +0000" channel="IDX.mncvision">
+    <title>Food Diary</title>
+</programme>
+<programme start="20260311113000 +0000" stop="20260311120000 +0000" channel="IDX.mncvision">
+    <title>IDXTainment</title>
+</programme>
+<programme start="20260311120000 +0000" stop="20260311130000 +0000" channel="IDX.mncvision">
+    <title>Tukang Makan</title>
+</programme>
+<programme start="20260311130000 +0000" stop="20260311140000 +0000" channel="IDX.mncvision">
+    <title>Prime Market Highlight (L)</title>
+</programme>
+<programme start="20260311140000 +0000" stop="20260311143000 +0000" channel="IDX.mncvision">
+    <title>Special Talk</title>
+</programme>
+<programme start="20260311143000 +0000" stop="20260311153000 +0000" channel="IDX.mncvision">
+    <title>The Fundamentals</title>
+</programme>
+<programme start="20260311153000 +0000" stop="20260311163000 +0000" channel="IDX.mncvision">
+    <title>Market Headlines</title>
+</programme>
+<programme start="20260311163000 +0000" stop="20260310170000 +0000" channel="IDX.mncvision">
+    <title>New Top Files</title>
+</programme>
 <programme start="20260310173000 +0000" stop="20260310183000 +0000" channel="IDX HD.mncvision">
     <title>Prime Market Highlight</title>
 </programme>
@@ -4077,7 +4705,51 @@ Error: Unable to fetch data. HTTP Status Code: 500
 <programme start="20260311163000 +0000" stop="20260310170000 +0000" channel="IDX HD.mncvision">
     <title>New Top Files</title>
 </programme>
-Error: Unable to fetch data. HTTP Status Code: 500
+<programme start="20260310175000 +0000" stop="20260310191500 +0000" channel="IMC.mncvision">
+    <title>Hantu Budeg</title>
+</programme>
+<programme start="20260310191500 +0000" stop="20260310203500 +0000" channel="IMC.mncvision">
+    <title>Kutukan Arwah Santet</title>
+</programme>
+<programme start="20260310203500 +0000" stop="20260310222000 +0000" channel="IMC.mncvision">
+    <title>Semua Karena Ginah</title>
+</programme>
+<programme start="20260310222000 +0000" stop="20260310235500 +0000" channel="IMC.mncvision">
+    <title>Cintaku Di Rumah Susun</title>
+</programme>
+<programme start="20260310235500 +0000" stop="20260311013500 +0000" channel="IMC.mncvision">
+    <title>Pesan Dari Surga</title>
+</programme>
+<programme start="20260311013500 +0000" stop="20260311031000 +0000" channel="IMC.mncvision">
+    <title>Cinta Tapi Beda</title>
+</programme>
+<programme start="20260311031000 +0000" stop="20260311045000 +0000" channel="IMC.mncvision">
+    <title>Punk In Love</title>
+</programme>
+<programme start="20260311045000 +0000" stop="20260311065000 +0000" channel="IMC.mncvision">
+    <title>Hijrah Cinta</title>
+</programme>
+<programme start="20260311065000 +0000" stop="20260311083000 +0000" channel="IMC.mncvision">
+    <title>Ayat-Ayat Adinda</title>
+</programme>
+<programme start="20260311083000 +0000" stop="20260311100500 +0000" channel="IMC.mncvision">
+    <title>Kuntilanak 3</title>
+</programme>
+<programme start="20260311100500 +0000" stop="20260311113000 +0000" channel="IMC.mncvision">
+    <title>Toilet 105</title>
+</programme>
+<programme start="20260311113000 +0000" stop="20260311130000 +0000" channel="IMC.mncvision">
+    <title>Cowok Bikin Pusing</title>
+</programme>
+<programme start="20260311130000 +0000" stop="20260311144000 +0000" channel="IMC.mncvision">
+    <title>Jamila Dan Sang Presiden</title>
+</programme>
+<programme start="20260311144000 +0000" stop="20260311161500 +0000" channel="IMC.mncvision">
+    <title>13</title>
+</programme>
+<programme start="20260311161500 +0000" stop="20260311164500 +0000" channel="IMC.mncvision">
+    <title>Pokun Roxy</title>
+</programme>
 <programme start="20260310173000 +0000" stop="20260310190000 +0000" channel="Indosiar.mncvision">
     <title>Matchless Hero Fang Shiyu</title>
 </programme>
@@ -8167,8 +8839,84 @@ Error: Unable to fetch data. HTTP Status Code: 500
 <programme start="20260311143000 +0000" stop="20260311150000 +0000" channel="SPOTV 2 HD.mncvision">
     <title>World Baseball Classic</title>
 </programme>
-Error: Unable to fetch data. HTTP Status Code: 500
-Error: Unable to fetch data. HTTP Status Code: 500
+<programme start="20260310180000 +0000" stop="20260310210000 +0000" channel="SPOTV HD.mncvision">
+    <title>2026 LIV Golf: Hong Kong</title>
+</programme>
+<programme start="20260310210000 +0000" stop="20260311000000 +0000" channel="SPOTV HD.mncvision">
+    <title>2026 LIV Golf: Hong Kong</title>
+</programme>
+<programme start="20260311000000 +0000" stop="20260311010800 +0000" channel="SPOTV HD.mncvision">
+    <title>2026 Fursan Cup Highlights</title>
+</programme>
+<programme start="20260311010800 +0000" stop="20260311040000 +0000" channel="SPOTV HD.mncvision">
+    <title>2026 World Baseball Classic (L)</title>
+</programme>
+<programme start="20260311040000 +0000" stop="20260311043000 +0000" channel="SPOTV HD.mncvision">
+    <title>ALM Mini Match: ADL Vs WEL</title>
+</programme>
+<programme start="20260311043000 +0000" stop="20260311064500 +0000" channel="SPOTV HD.mncvision">
+    <title>2026 World Baseball Classic</title>
+</programme>
+<programme start="20260311064500 +0000" stop="20260311073000 +0000" channel="SPOTV HD.mncvision">
+    <title>WRT Le Mans &amp; Spa 24 Hours</title>
+</programme>
+<programme start="20260311073000 +0000" stop="20260311103000 +0000" channel="SPOTV HD.mncvision">
+    <title>2026 World Baseball Classic</title>
+</programme>
+<programme start="20260311103000 +0000" stop="20260311113000 +0000" channel="SPOTV HD.mncvision">
+    <title>2025/26 Asian Le Mans Series</title>
+</programme>
+<programme start="20260311113000 +0000" stop="20260311123000 +0000" channel="SPOTV HD.mncvision">
+    <title>2025/26 Asian Le Mans Series</title>
+</programme>
+<programme start="20260311123000 +0000" stop="20260311143000 +0000" channel="SPOTV HD.mncvision">
+    <title>A-League Men: NEW Vs WSW</title>
+</programme>
+<programme start="20260311143000 +0000" stop="20260311163000 +0000" channel="SPOTV HD.mncvision">
+    <title>A-League Men: AKL Vs PER</title>
+</programme>
+<programme start="20260311163000 +0000" stop="20260310170000 +0000" channel="SPOTV HD.mncvision">
+    <title>2025/26 Asian Le Mans Series</title>
+</programme>
+<programme start="20260310183000 +0000" stop="20260310201000 +0000" channel="Studio Universal.mncvision">
+    <title>Uncle Buck</title>
+</programme>
+<programme start="20260310201000 +0000" stop="20260310221500 +0000" channel="Studio Universal.mncvision">
+    <title>Jaws</title>
+</programme>
+<programme start="20260310221500 +0000" stop="20260310230000 +0000" channel="Studio Universal.mncvision">
+    <title>Defying Gravity: The Curtain...</title>
+</programme>
+<programme start="20260310230000 +0000" stop="20260311010000 +0000" channel="Studio Universal.mncvision">
+    <title>Back To The Future</title>
+</programme>
+<programme start="20260311010000 +0000" stop="20260311024500 +0000" channel="Studio Universal.mncvision">
+    <title>Dragonheart</title>
+</programme>
+<programme start="20260311024500 +0000" stop="20260311042500 +0000" channel="Studio Universal.mncvision">
+    <title>Uncle Buck</title>
+</programme>
+<programme start="20260311042500 +0000" stop="20260311063000 +0000" channel="Studio Universal.mncvision">
+    <title>Jaws</title>
+</programme>
+<programme start="20260311063000 +0000" stop="20260311083000 +0000" channel="Studio Universal.mncvision">
+    <title>Back To The Future</title>
+</programme>
+<programme start="20260311083000 +0000" stop="20260311103000 +0000" channel="Studio Universal.mncvision">
+    <title>Hannibal</title>
+</programme>
+<programme start="20260311103000 +0000" stop="20260311123000 +0000" channel="Studio Universal.mncvision">
+    <title>American Graffiti</title>
+</programme>
+<programme start="20260311123000 +0000" stop="20260311143000 +0000" channel="Studio Universal.mncvision">
+    <title>Jaws 2</title>
+</programme>
+<programme start="20260311143000 +0000" stop="20260311162000 +0000" channel="Studio Universal.mncvision">
+    <title>Back To The Future, Pt 2</title>
+</programme>
+<programme start="20260311162000 +0000" stop="20260311165000 +0000" channel="Studio Universal.mncvision">
+    <title>Hannibal</title>
+</programme>
 <programme start="20260310183000 +0000" stop="20260310201000 +0000" channel="Studio Universal HD.mncvision">
     <title>Uncle Buck</title>
 </programme>

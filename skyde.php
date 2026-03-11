@@ -1615,61 +1615,61 @@
 <programme start="20260311225500 +0000" stop="20260311232000 +0000" channel="Nick Jr..skyde">
     <title>BARBAPAPA und Familie</title>
 </programme>
-<programme start="20260310231000 +0000" stop="20260311004000 +0000" channel="Romance TV HD.skyde">
-    <title>Rosamunde Pilcher: Gefährliche Brandung</title>
+<programme start="20260302231000 +0000" stop="20260303004000 +0000" channel="Romance TV HD.skyde">
+    <title>Schule am Meer: Familienbande</title>
 </programme>
-<programme start="20260311004000 +0000" stop="20260311021000 +0000" channel="Romance TV HD.skyde">
-    <title>Rosamunde Pilcher: Die versprochene Braut</title>
+<programme start="20260303004000 +0000" stop="20260303021000 +0000" channel="Romance TV HD.skyde">
+    <title>Kleine Eheverbrechen</title>
 </programme>
-<programme start="20260311021000 +0000" stop="20260311022500 +0000" channel="Romance TV HD.skyde">
+<programme start="20260303021000 +0000" stop="20260303022500 +0000" channel="Romance TV HD.skyde">
     <title>Stars im Interview</title>
 </programme>
-<programme start="20260311022500 +0000" stop="20260311031000 +0000" channel="Romance TV HD.skyde">
+<programme start="20260303022500 +0000" stop="20260303031000 +0000" channel="Romance TV HD.skyde">
     <title>Lena Lorenz</title>
 </programme>
-<programme start="20260311031000 +0000" stop="20260311032500 +0000" channel="Romance TV HD.skyde">
+<programme start="20260303031000 +0000" stop="20260303032500 +0000" channel="Romance TV HD.skyde">
     <title>Stars im Interview</title>
 </programme>
-<programme start="20260311032500 +0000" stop="20260311045500 +0000" channel="Romance TV HD.skyde">
-    <title>Einfach Rosa - Die Hochzeitsplanerin</title>
+<programme start="20260303032500 +0000" stop="20260303045000 +0000" channel="Romance TV HD.skyde">
+    <title>Therapie unter Palmen</title>
 </programme>
-<programme start="20260311045500 +0000" stop="20260311063000 +0000" channel="Romance TV HD.skyde">
-    <title>Fluss des Lebens: Wiedersehen an der Donau</title>
+<programme start="20260303045000 +0000" stop="20260303062000 +0000" channel="Romance TV HD.skyde">
+    <title>Inga Lindström: Vom Festhalten und Loslassen</title>
 </programme>
-<programme start="20260311063000 +0000" stop="20260311080500 +0000" channel="Romance TV HD.skyde">
-    <title>Inga Lindström: Mein falscher Verlobter</title>
+<programme start="20260303062000 +0000" stop="20260303075500 +0000" channel="Romance TV HD.skyde">
+    <title>Bella Australia</title>
 </programme>
-<programme start="20260311080500 +0000" stop="20260311094000 +0000" channel="Romance TV HD.skyde">
-    <title>Malibu - Camping für Anfänger</title>
+<programme start="20260303075500 +0000" stop="20260303093000 +0000" channel="Romance TV HD.skyde">
+    <title>Hotel Barcelona, Episode 1</title>
 </programme>
-<programme start="20260311094000 +0000" stop="20260311103000 +0000" channel="Romance TV HD.skyde">
+<programme start="20260303093000 +0000" stop="20260303102000 +0000" channel="Romance TV HD.skyde">
     <title>Lena Lorenz</title>
 </programme>
-<programme start="20260311103000 +0000" stop="20260311120500 +0000" channel="Romance TV HD.skyde">
-    <title>Fluss des Lebens: Geliebte Loire</title>
+<programme start="20260303102000 +0000" stop="20260303115500 +0000" channel="Romance TV HD.skyde">
+    <title>Lügen haben linke Hände</title>
 </programme>
-<programme start="20260311120500 +0000" stop="20260311134000 +0000" channel="Romance TV HD.skyde">
+<programme start="20260303115500 +0000" stop="20260303133000 +0000" channel="Romance TV HD.skyde">
+    <title>Schule am Meer: Familienbande</title>
+</programme>
+<programme start="20260303133000 +0000" stop="20260303150500 +0000" channel="Romance TV HD.skyde">
+    <title>Kleine Eheverbrechen</title>
+</programme>
+<programme start="20260303150500 +0000" stop="20260303165000 +0000" channel="Romance TV HD.skyde">
+    <title>Das Traumschiff - Vietnam</title>
+</programme>
+<programme start="20260303165000 +0000" stop="20260303182500 +0000" channel="Romance TV HD.skyde">
+    <title>Ihr seid natürlich eingeladen</title>
+</programme>
+<programme start="20260303182500 +0000" stop="20260303191500 +0000" channel="Romance TV HD.skyde">
+    <title>Lena Lorenz</title>
+</programme>
+<programme start="20260303191500 +0000" stop="20260303205000 +0000" channel="Romance TV HD.skyde">
     <title>Rosamunde Pilcher: Gefährliche Brandung</title>
 </programme>
-<programme start="20260311134000 +0000" stop="20260311151500 +0000" channel="Romance TV HD.skyde">
+<programme start="20260303205000 +0000" stop="20260303222500 +0000" channel="Romance TV HD.skyde">
     <title>Rosamunde Pilcher: Die versprochene Braut</title>
 </programme>
-<programme start="20260311151500 +0000" stop="20260311165000 +0000" channel="Romance TV HD.skyde">
-    <title>Fluss des Lebens: Kwai - Familienbande</title>
-</programme>
-<programme start="20260311165000 +0000" stop="20260311182500 +0000" channel="Romance TV HD.skyde">
-    <title>Liebesjahre</title>
-</programme>
-<programme start="20260311182500 +0000" stop="20260311191500 +0000" channel="Romance TV HD.skyde">
-    <title>Lena Lorenz</title>
-</programme>
-<programme start="20260311191500 +0000" stop="20260311204500 +0000" channel="Romance TV HD.skyde">
-    <title>Handwerker und andere Katastrophen</title>
-</programme>
-<programme start="20260311204500 +0000" stop="20260311222000 +0000" channel="Romance TV HD.skyde">
-    <title>Uferlos!</title>
-</programme>
-<programme start="20260311222000 +0000" stop="20260311231000 +0000" channel="Romance TV HD.skyde">
+<programme start="20260303222500 +0000" stop="20260303231500 +0000" channel="Romance TV HD.skyde">
     <title>Lena Lorenz</title>
 </programme>
 <programme start="20260310233500 +0000" stop="20260311004000 +0000" channel="Sky Atlantic HD.skyde">
