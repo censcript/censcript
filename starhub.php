@@ -6878,7 +6878,7 @@
         <title>Matchday 27</title>
     </programme>
     <programme start="20260313032500 +0000" stop="20260313043000 +0000" channel="beIN Sports HD.starhub">
-        <title>Formula 1 Practice 2026: FORMULA 1 HEINEKEN CHINESE GRAND PRIX 2026 Practice 1 (</title>
+        <title>Formula 1 Practice 2026: FORMULA 1 HEINEKEN CHINESE GRAND PRIX 2026 Practice 1 (Live)</title>
     </programme>
     <programme start="20260313043000 +0000" stop="20260313050000 +0000" channel="beIN Sports HD.starhub">
         <title>Season Preview: Cape Epic Build Up</title>
@@ -6893,7 +6893,7 @@
         <title>Melbourne, Australia</title>
     </programme>
     <programme start="20260313060800 +0000" stop="20260313064000 +0000" channel="beIN Sports HD.starhub">
-        <title>F1 Academy Qualifying 2026: F1 ACADEMY RACING SERIES, ROUND 1, CHINA, 2026 (Live</title>
+        <title>F1 Academy Qualifying 2026: F1 ACADEMY RACING SERIES, ROUND 1, CHINA, 2026 (Live)</title>
     </programme>
     <programme start="20260313064000 +0000" stop="20260313065000 +0000" channel="beIN Sports HD.starhub">
         <title>Vini Jr</title>
@@ -6902,7 +6902,7 @@
         <title>FORMULA 1 HEINEKEN CHINESE GRAND PRIX 2026</title>
     </programme>
     <programme start="20260313072600 +0000" stop="20260313081400 +0000" channel="beIN Sports HD.starhub">
-        <title>Formula 1 Sprint Qualifying 2026: FORMULA 1 HEINEKEN CHINESE GRAND PRIX 2026 (Li</title>
+        <title>Formula 1 Sprint Qualifying 2026: FORMULA 1 HEINEKEN CHINESE GRAND PRIX 2026 (Live)</title>
     </programme>
     <programme start="20260313081400 +0000" stop="20260313090000 +0000" channel="beIN Sports HD.starhub">
         <title>FORMULA 1 HEINEKEN CHINESE GRAND PRIX 2026</title>
