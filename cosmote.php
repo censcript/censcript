@@ -62,10 +62,6 @@
     <title>Football: Nottingham F. - FC Midtjylland</title>
     <desc>Live: Tidak</desc>
 </programme>
-<programme start="20260312100500 +0700" stop="20260312120000 +0700" channel="COSMOTE Sport 2 HD">
-    <title>Football: SS Lazio - Sassuolo</title>
-    <desc>Live: Tidak</desc>
-</programme>
 <programme start="20260312120000 +0700" stop="20260312142500 +0700" channel="COSMOTE Sport 2 HD">
     <title>Football: Panetolikos - Kifisia</title>
     <desc>Live: Tidak</desc>
@@ -116,6 +112,10 @@
 </programme>
 <programme start="20260313100000 +0700" stop="20260313120000 +0700" channel="COSMOTE Sport 2 HD">
     <title>Football: Crystal Palace - AEK Larnaca</title>
+    <desc>Live: Tidak</desc>
+</programme>
+<programme start="20260313120000 +0700" stop="20260313140000 +0700" channel="COSMOTE Sport 2 HD">
+    <title>Football: Bologna - AS Roma</title>
     <desc>Live: Tidak</desc>
 </programme>
 <programme start="20260312110000 +0700" stop="20260312130000 +0700" channel="COSMOTE Sport 3 HD">
@@ -218,10 +218,6 @@
     <title>Basketball: Armani Milano - Cantu</title>
     <desc>Live: Tidak</desc>
 </programme>
-<programme start="20260312090000 +0700" stop="20260312120000 +0700" channel="COSMOTE Sport 5 HD">
-    <title>Basketball: Denver Nuggets - Houston Rockets (L)</title>
-    <desc>Live: Ya</desc>
-</programme>
 <programme start="20260312120000 +0700" stop="20260312130500 +0700" channel="COSMOTE Sport 5 HD">
     <title>Motorsports: Extreme E 2025</title>
     <desc>Live: Tidak</desc>
@@ -313,6 +309,10 @@
 <programme start="20260313113000 +0700" stop="20260313124500 +0700" channel="COSMOTE Sport 5 HD">
     <title>WRC 2026 (L)</title>
     <desc>Live: Ya</desc>
+</programme>
+<programme start="20260313124500 +0700" stop="20260313131000 +0700" channel="COSMOTE Sport 5 HD">
+    <title>Sports Classics: Worldies E11</title>
+    <desc>Live: Tidak</desc>
 </programme>
 <programme start="20260312110000 +0700" stop="20260312133000 +0700" channel="COSMOTE Sport 6 HD">
     <title>Gymnastics: FIG Apparatus World Cup 2026</title>
@@ -435,6 +435,10 @@
     <desc>Live: Ya</desc>
 </programme>
 <programme start="20260313113000 +0700" stop="20260313120000 +0700" channel="COSMOTE Sport 7 HD">
+    <title>COSMOTESport7HD</title>
+    <desc>Live: Tidak</desc>
+</programme>
+<programme start="20260313120000 +0700" stop="20260313130000 +0700" channel="COSMOTE Sport 7 HD">
     <title>COSMOTESport7HD</title>
     <desc>Live: Tidak</desc>
 </programme>

@@ -296,7 +296,7 @@
 <title>iNews Terkini (L)</title>
 </programme>
 <programme start="20260312130300 +0000" stop="20260312140000 +0000" channel="iNews.vision">
-<title>Interupsi (iNews)</title>
+<title>Interupsi (L)</title>
 </programme>
 <programme start="20260312140000 +0000" stop="20260312150000 +0000" channel="iNews.vision">
 <title>iNews Prime (L)</title>
@@ -308,13 +308,10 @@
 <title>iNews Malam (Live)</title>
 </programme>
 <programme start="20260312170000 +0000" stop="20260312173000 +0000" channel="iNews.vision">
-<title>iNews Sport (L)</title>
+<title>E-Max</title>
 </programme>
-<programme start="20260312173000 +0000" stop="20260312191500 +0000" channel="iNews.vision">
+<programme start="20260312173000 +0000" stop="20260312200000 +0000" channel="iNews.vision">
 <title>Breaking News</title>
-</programme>
-<programme start="20260312191500 +0000" stop="20260312200000 +0000" channel="iNews.vision">
-<title>iNews Sore</title>
 </programme>
 <programme start="20260312200000 +0000" stop="20260312203000 +0000" channel="iNews.vision">
 <title>Ramadan Story</title>
@@ -338,10 +335,10 @@
 <title>iNews Sport Pagi (L)</title>
 </programme>
 <programme start="20260312233000 +0000" stop="20260313000000 +0000" channel="iNews.vision">
-<title>Special Report</title>
+<title>iBreak: The One Entrepreneur</title>
 </programme>
 <programme start="20260313000000 +0000" stop="20260313010000 +0000" channel="iNews.vision">
-<title>Morning Update</title>
+<title>Breaking News (L)</title>
 </programme>
 <programme start="20260313010000 +0000" stop="20260313021500 +0000" channel="iNews.vision">
 <title>Lapor Polisi (L)</title>
@@ -719,10 +716,10 @@
 <title>Vasudha</title>
 </programme>
 <programme start="20260312110000 +0000" stop="20260312130000 +0000" channel="ANTV.vision">
-<title>Jin Galunggung</title>
+<title>Satria Madangkara</title>
 </programme>
 <programme start="20260312130000 +0000" stop="20260312150000 +0000" channel="ANTV.vision">
-<title>Menumpas Teroris</title>
+<title>Yang Perkasa</title>
 </programme>
 <programme start="20260312150000 +0000" stop="20260312170000 +0000" channel="ANTV.vision">
 <title>Malu-Malu Mau</title>
@@ -734,7 +731,7 @@
 <title>Mystic Blade</title>
 </programme>
 <programme start="20260312193000 +0000" stop="20260312213000 +0000" channel="ANTV.vision">
-<title>Best Of The Best 3</title>
+<title>Menumpas Teroris</title>
 </programme>
 <programme start="20260312213000 +0000" stop="20260312233000 +0000" channel="ANTV.vision">
 <title>Tawa Kalcer</title>
@@ -758,7 +755,7 @@
 <title>Vasudha</title>
 </programme>
 <programme start="20260313110000 +0000" stop="20260313130000 +0000" channel="ANTV.vision">
-<title>Yang Perkasa</title>
+<title>Pesanggrahan Keramat</title>
 </programme>
 <programme start="20260311230000 +0000" stop="20260312010000 +0000" channel="RTV.vision">
 <title>Bread Barbershop</title>
@@ -1497,4 +1494,7 @@
 </programme>
 <programme start="20260312111400 +0000" stop="20260312111900 +0000" channel="BTV.vision">
 <title>Selamat Berbuka Puasa</title>
+</programme>
+<programme start="20260312111900 +0000" stop="20260312130000 +0000" channel="BTV.vision">
+<title>Berita Satu Utama</title>
 </programme>

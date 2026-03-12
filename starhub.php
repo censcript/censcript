@@ -6667,16 +6667,10 @@
     <programme start="20260312003000 +0000" stop="20260312010000 +0000" channel="Hub Sports 1  HD.starhub">
         <title>UCI Pro Series - Tour of Oman Stage 5 H/Ls</title>
     </programme>
-    <programme start="20260312010000 +0000" stop="20260312030000 +0000" channel="Hub Sports 1  HD.starhub">
+    <programme start="20260312010000 +0000" stop="20260312041000 +0000" channel="Hub Sports 1  HD.starhub">
         <title>BNP Paribas Open (1000) Day 8 R16 S3</title>
     </programme>
-    <programme start="20260312030000 +0000" stop="20260312033000 +0000" channel="Hub Sports 1  HD.starhub">
-        <title>Dubai Tennis C&#039;ships</title>
-    </programme>
-    <programme start="20260312033000 +0000" stop="20260312040000 +0000" channel="Hub Sports 1  HD.starhub">
-        <title>Season 3 Episode 13</title>
-    </programme>
-    <programme start="20260312040000 +0000" stop="20260312041500 +0000" channel="Hub Sports 1  HD.starhub">
+    <programme start="20260312041000 +0000" stop="20260312041500 +0000" channel="Hub Sports 1  HD.starhub">
         <title>Show 147</title>
     </programme>
     <programme start="20260312041500 +0000" stop="20260312043000 +0000" channel="Hub Sports 1  HD.starhub">

@@ -1337,7 +1337,7 @@
     <title>UCL Highlights 2025/26</title>
 </programme>
 <programme start="20260312103000 +0000" stop="20260312110000 +0000" channel="beIN Sports 3.mncvision">
-    <title>UCI World Tour HL 2026, Ep 11</title>
+    <title>UCI World Tour Highlights 2026</title>
 </programme>
 <programme start="20260312110000 +0000" stop="20260312125000 +0000" channel="beIN Sports 3.mncvision">
     <title>UCL 2025/26: RMA Vs MCI</title>
@@ -1349,7 +1349,7 @@
     <title>UCL Highlights 2025/26</title>
 </programme>
 <programme start="20260312133000 +0000" stop="20260312140000 +0000" channel="beIN Sports 3.mncvision">
-    <title>UCI World Tour HL 2026, Ep 11</title>
+    <title>UCI World Tour Highlights 2026</title>
 </programme>
 <programme start="20260312140000 +0000" stop="20260312160000 +0000" channel="beIN Sports 3.mncvision">
     <title>UCL 2025/26: PSG Vs CHE</title>
@@ -1397,7 +1397,7 @@
     <title>UCL Highlights 2025/26</title>
 </programme>
 <programme start="20260312103000 +0000" stop="20260312110000 +0000" channel="beIN Sports 3 HD.mncvision">
-    <title>UCI World Tour HL 2026, Ep 11</title>
+    <title>UCI World Tour Highlights 2026</title>
 </programme>
 <programme start="20260312110000 +0000" stop="20260312125000 +0000" channel="beIN Sports 3 HD.mncvision">
     <title>UCL 2025/26: RMA Vs MCI</title>
@@ -1409,7 +1409,7 @@
     <title>UCL Highlights 2025/26</title>
 </programme>
 <programme start="20260312133000 +0000" stop="20260312140000 +0000" channel="beIN Sports 3 HD.mncvision">
-    <title>UCI World Tour HL 2026, Ep 11</title>
+    <title>UCI World Tour Highlights 2026</title>
 </programme>
 <programme start="20260312140000 +0000" stop="20260312160000 +0000" channel="beIN Sports 3 HD.mncvision">
     <title>UCL 2025/26: PSG Vs CHE</title>
