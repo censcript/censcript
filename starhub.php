@@ -2204,7 +2204,7 @@
         <title>UCI Women&#039;s World Tour 2026: Santos Tour Down Under - Stage 3</title>
     </programme>
     <programme start="20260312010000 +0000" stop="20260312025000 +0000" channel="beIN Sports 2 HD.starhub">
-        <title>TotalEnergies Africa Cup of Nations, Morocco 2025: Nigeria vs Tunisia - Group Stage</title>
+        <title>TotalEnergies Africa Cup of Nations, Morocco 2025: Nigeria vs Tunisia - Group St</title>
     </programme>
     <programme start="20260312025000 +0000" stop="20260312030000 +0000" channel="beIN Sports 2 HD.starhub">
         <title>Riyadh P1 Women</title>
