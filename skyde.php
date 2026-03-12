@@ -941,19 +941,16 @@ Warning: Undefined array key "et" in /usr/home/ManusiaBiasa/domains/manusiabiasa
 <programme start="20260312100000 +0000" stop="20260312103000 +0000" channel="DAZN 1 HD.skyde">
     <title>Best of DAZN: Highlights</title>
 </programme>
-<programme start="20260312103000 +0000" stop="20260312123000 +0000" channel="DAZN 1 HD.skyde">
+<programme start="20260312103000 +0000" stop="20260312123500 +0000" channel="DAZN 1 HD.skyde">
     <title>Bundesliga 25/26: 1. FC Köln - Borussia Dortmund</title>
 </programme>
-<programme start="20260312123000 +0000" stop="20260312130500 +0000" channel="DAZN 1 HD.skyde">
-    <title>Best of DAZN: Highlights</title>
-</programme>
-<programme start="20260312130500 +0000" stop="20260312140000 +0000" channel="DAZN 1 HD.skyde">
+<programme start="20260312123500 +0000" stop="20260312133000 +0000" channel="DAZN 1 HD.skyde">
     <title>Get Wild: Lange Version</title>
 </programme>
-<programme start="20260312140000 +0000" stop="20260312155500 +0000" channel="DAZN 1 HD.skyde">
+<programme start="20260312133000 +0000" stop="20260312153500 +0000" channel="DAZN 1 HD.skyde">
     <title>Bundesliga 25/26: 1. FSV Mainz 05 - VFB Stuttgart</title>
 </programme>
-<programme start="20260312155500 +0000" stop="20260312161000 +0000" channel="DAZN 1 HD.skyde">
+<programme start="20260312153500 +0000" stop="20260312161000 +0000" channel="DAZN 1 HD.skyde">
     <title>Best of DAZN: Highlights</title>
 </programme>
 <programme start="20260312161000 +0000" stop="20260312165500 +0000" channel="DAZN 1 HD.skyde">
@@ -989,17 +986,17 @@ Warning: Undefined array key "et" in /usr/home/ManusiaBiasa/domains/manusiabiasa
 <programme start="20260312113500 +0000" stop="20260312120500 +0000" channel="DAZN 2 HD.skyde">
     <title>Doppelpack Europa - Highlights der Serie A und Ligue 1 25/26: 28./25. Spieltag</title>
 </programme>
-<programme start="20260312120500 +0000" stop="20260312140000 +0000" channel="DAZN 2 HD.skyde">
-    <title>Fußball: TBC - TBC</title>
-</programme>
-<programme start="20260312140000 +0000" stop="20260312143000 +0000" channel="DAZN 2 HD.skyde">
+<programme start="20260312120500 +0000" stop="20260312123500 +0000" channel="DAZN 2 HD.skyde">
     <title>Best of DAZN: Highlights</title>
+</programme>
+<programme start="20260312123500 +0000" stop="20260312143000 +0000" channel="DAZN 2 HD.skyde">
+    <title>Bundesliga 25/26: 1. FC Köln - Borussia Dortmund</title>
 </programme>
 <programme start="20260312143000 +0000" stop="20260312152500 +0000" channel="DAZN 2 HD.skyde">
     <title>FA Cup 25/26: Newcastle United - Manchester City</title>
 </programme>
 <programme start="20260312152500 +0000" stop="20260312162000 +0000" channel="DAZN 2 HD.skyde">
-    <title>Fußball: TBC - TBC</title>
+    <title>Fußball 25/26: TBC - TBC</title>
 </programme>
 <programme start="20260312162000 +0000" stop="20260312174000 +0000" channel="DAZN 2 HD.skyde">
     <title>ALL IN - Die Bundesliga Highlight Show: 25. Spieltag</title>
@@ -1208,124 +1205,130 @@ Warning: Undefined array key "et" in /usr/home/ManusiaBiasa/domains/manusiabiasa
 <programme start="20260312010000 +0000" stop="20260312013000 +0000" channel="Motorvision+.skyde">
     <title>Infomercial</title>
 </programme>
-<programme start="20260312013000 +0000" stop="20260312020500 +0000" channel="Motorvision+.skyde">
+<programme start="20260312013000 +0000" stop="20260312020000 +0000" channel="Motorvision+.skyde">
     <title>Infomercial</title>
 </programme>
-<programme start="20260312020500 +0000" stop="20260312023500 +0000" channel="Motorvision+.skyde">
+<programme start="20260312020000 +0000" stop="20260312022500 +0000" channel="Motorvision+.skyde">
     <title>Perfect Ride</title>
 </programme>
-<programme start="20260312023500 +0000" stop="20260312030000 +0000" channel="Motorvision+.skyde">
+<programme start="20260312022500 +0000" stop="20260312025500 +0000" channel="Motorvision+.skyde">
     <title>Super Cars</title>
 </programme>
-<programme start="20260312030000 +0000" stop="20260312031000 +0000" channel="Motorvision+.skyde">
+<programme start="20260312025500 +0000" stop="20260312030500 +0000" channel="Motorvision+.skyde">
     <title>Crash</title>
 </programme>
-<programme start="20260312031000 +0000" stop="20260312034000 +0000" channel="Motorvision+.skyde">
+<programme start="20260312030500 +0000" stop="20260312033000 +0000" channel="Motorvision+.skyde">
     <title>Top Speed Classic</title>
 </programme>
-<programme start="20260312034000 +0000" stop="20260312040500 +0000" channel="Motorvision+.skyde">
+<programme start="20260312033000 +0000" stop="20260312033500 +0000" channel="Motorvision+.skyde">
+    <title>NASCAR University</title>
+</programme>
+<programme start="20260312033500 +0000" stop="20260312040500 +0000" channel="Motorvision+.skyde">
     <title>Gearing Up 2024</title>
 </programme>
-<programme start="20260312040500 +0000" stop="20260312044000 +0000" channel="Motorvision+.skyde">
+<programme start="20260312040500 +0000" stop="20260312043000 +0000" channel="Motorvision+.skyde">
     <title>FIM World Motocross Championship 2023</title>
 </programme>
-<programme start="20260312044000 +0000" stop="20260312050500 +0000" channel="Motorvision+.skyde">
+<programme start="20260312043000 +0000" stop="20260312050000 +0000" channel="Motorvision+.skyde">
     <title>FastZone 2024</title>
 </programme>
-<programme start="20260312050500 +0000" stop="20260312055000 +0000" channel="Motorvision+.skyde">
+<programme start="20260312050000 +0000" stop="20260312054500 +0000" channel="Motorvision+.skyde">
     <title>Report</title>
 </programme>
-<programme start="20260312055000 +0000" stop="20260312061500 +0000" channel="Motorvision+.skyde">
+<programme start="20260312054500 +0000" stop="20260312061000 +0000" channel="Motorvision+.skyde">
     <title>Abenteuer Allrad</title>
 </programme>
-<programme start="20260312061500 +0000" stop="20260312064500 +0000" channel="Motorvision+.skyde">
+<programme start="20260312061000 +0000" stop="20260312063500 +0000" channel="Motorvision+.skyde">
     <title>Bike World 2024</title>
 </programme>
-<programme start="20260312064500 +0000" stop="20260312073000 +0000" channel="Motorvision+.skyde">
+<programme start="20260312063500 +0000" stop="20260312072500 +0000" channel="Motorvision+.skyde">
     <title>King of the Roads 2024</title>
 </programme>
-<programme start="20260312073000 +0000" stop="20260312080000 +0000" channel="Motorvision+.skyde">
+<programme start="20260312072500 +0000" stop="20260312075000 +0000" channel="Motorvision+.skyde">
     <title>Biker Lifestyle</title>
 </programme>
-<programme start="20260312080000 +0000" stop="20260312083000 +0000" channel="Motorvision+.skyde">
+<programme start="20260312075000 +0000" stop="20260312082000 +0000" channel="Motorvision+.skyde">
     <title>Classic</title>
 </programme>
-<programme start="20260312083000 +0000" stop="20260312090000 +0000" channel="Motorvision+.skyde">
+<programme start="20260312082000 +0000" stop="20260312084500 +0000" channel="Motorvision+.skyde">
     <title>Classic Ride</title>
 </programme>
-<programme start="20260312090000 +0000" stop="20260312092500 +0000" channel="Motorvision+.skyde">
+<programme start="20260312084500 +0000" stop="20260312091500 +0000" channel="Motorvision+.skyde">
     <title>Crash</title>
 </programme>
-<programme start="20260312092500 +0000" stop="20260312095000 +0000" channel="Motorvision+.skyde">
+<programme start="20260312091500 +0000" stop="20260312093500 +0000" channel="Motorvision+.skyde">
     <title>Made in....</title>
 </programme>
-<programme start="20260312095000 +0000" stop="20260312102000 +0000" channel="Motorvision+.skyde">
+<programme start="20260312093500 +0000" stop="20260312100500 +0000" channel="Motorvision+.skyde">
     <title>Top Speed Classic</title>
 </programme>
-<programme start="20260312102000 +0000" stop="20260312104500 +0000" channel="Motorvision+.skyde">
+<programme start="20260312100500 +0000" stop="20260312103000 +0000" channel="Motorvision+.skyde">
     <title>Car History</title>
 </programme>
-<programme start="20260312104500 +0000" stop="20260312111500 +0000" channel="Motorvision+.skyde">
+<programme start="20260312103000 +0000" stop="20260312110000 +0000" channel="Motorvision+.skyde">
     <title>FastZone 2024</title>
 </programme>
-<programme start="20260312111500 +0000" stop="20260312114500 +0000" channel="Motorvision+.skyde">
+<programme start="20260312110000 +0000" stop="20260312113000 +0000" channel="Motorvision+.skyde">
     <title>FIM World Motocross Championship 2024</title>
 </programme>
-<programme start="20260312114500 +0000" stop="20260312121500 +0000" channel="Motorvision+.skyde">
+<programme start="20260312113000 +0000" stop="20260312120500 +0000" channel="Motorvision+.skyde">
     <title>Perfect Ride</title>
 </programme>
-<programme start="20260312121500 +0000" stop="20260312124500 +0000" channel="Motorvision+.skyde">
+<programme start="20260312120500 +0000" stop="20260312123000 +0000" channel="Motorvision+.skyde">
     <title>Stunt Heroes</title>
 </programme>
-<programme start="20260312124500 +0000" stop="20260312131500 +0000" channel="Motorvision+.skyde">
+<programme start="20260312123000 +0000" stop="20260312130500 +0000" channel="Motorvision+.skyde">
     <title>Dream Cars</title>
 </programme>
-<programme start="20260312131500 +0000" stop="20260312134500 +0000" channel="Motorvision+.skyde">
+<programme start="20260312130500 +0000" stop="20260312133500 +0000" channel="Motorvision+.skyde">
     <title>Gearing Up 2024</title>
 </programme>
-<programme start="20260312134500 +0000" stop="20260312141500 +0000" channel="Motorvision+.skyde">
+<programme start="20260312133500 +0000" stop="20260312140500 +0000" channel="Motorvision+.skyde">
     <title>Grüne Welle</title>
 </programme>
-<programme start="20260312141500 +0000" stop="20260312150500 +0000" channel="Motorvision+.skyde">
+<programme start="20260312140500 +0000" stop="20260312145000 +0000" channel="Motorvision+.skyde">
     <title>Australian Drag Racing Championship 2024</title>
 </programme>
-<programme start="20260312150500 +0000" stop="20260312155000 +0000" channel="Motorvision+.skyde">
+<programme start="20260312145000 +0000" stop="20260312153500 +0000" channel="Motorvision+.skyde">
     <title>Australian Boat Racing 2025</title>
 </programme>
-<programme start="20260312155000 +0000" stop="20260312165000 +0000" channel="Motorvision+.skyde">
-    <title>Australian Circuit Boat Racing 2024</title>
+<programme start="20260312153500 +0000" stop="20260312162500 +0000" channel="Motorvision+.skyde">
+    <title>UIM E1 World Championship 2025</title>
 </programme>
-<programme start="20260312165000 +0000" stop="20260312171500 +0000" channel="Motorvision+.skyde">
-    <title>P1 Class 1 Offshore Championship 2024</title>
+<programme start="20260312162500 +0000" stop="20260312171000 +0000" channel="Motorvision+.skyde">
+    <title>P1 AquaX Championship 2024</title>
 </programme>
-<programme start="20260312171500 +0000" stop="20260312174000 +0000" channel="Motorvision+.skyde">
+<programme start="20260312171000 +0000" stop="20260312173500 +0000" channel="Motorvision+.skyde">
     <title>P1 Offshore Championship 2024</title>
 </programme>
-<programme start="20260312174000 +0000" stop="20260312181000 +0000" channel="Motorvision+.skyde">
-    <title>UIM Aquabike World Championship 2024</title>
+<programme start="20260312173500 +0000" stop="20260312180000 +0000" channel="Motorvision+.skyde">
+    <title>UIM F1H2O World Powerboat Championship 2023</title>
 </programme>
-<programme start="20260312181000 +0000" stop="20260312185000 +0000" channel="Motorvision+.skyde">
+<programme start="20260312180000 +0000" stop="20260312183000 +0000" channel="Motorvision+.skyde">
+    <title>UIM Aquabike World Championship 2025</title>
+</programme>
+<programme start="20260312183000 +0000" stop="20260312190000 +0000" channel="Motorvision+.skyde">
     <title>UIM F1H2O World Powerboat Championship 2025</title>
 </programme>
-<programme start="20260312185000 +0000" stop="20260312194000 +0000" channel="Motorvision+.skyde">
+<programme start="20260312190000 +0000" stop="20260312195000 +0000" channel="Motorvision+.skyde">
     <title>King of the Roads 2024</title>
 </programme>
-<programme start="20260312194000 +0000" stop="20260312201000 +0000" channel="Motorvision+.skyde">
+<programme start="20260312195000 +0000" stop="20260312201500 +0000" channel="Motorvision+.skyde">
     <title>Top Speed Classic</title>
 </programme>
-<programme start="20260312201000 +0000" stop="20260312203500 +0000" channel="Motorvision+.skyde">
+<programme start="20260312201500 +0000" stop="20260312204500 +0000" channel="Motorvision+.skyde">
     <title>Tour European Rally Historic 2024</title>
 </programme>
-<programme start="20260312203500 +0000" stop="20260312213000 +0000" channel="Motorvision+.skyde">
+<programme start="20260312204500 +0000" stop="20260312213500 +0000" channel="Motorvision+.skyde">
     <title>Top Speed Classic</title>
 </programme>
-<programme start="20260312213000 +0000" stop="20260312220000 +0000" channel="Motorvision+.skyde">
+<programme start="20260312213500 +0000" stop="20260312220500 +0000" channel="Motorvision+.skyde">
     <title>Car History</title>
 </programme>
-<programme start="20260312220000 +0000" stop="20260312222500 +0000" channel="Motorvision+.skyde">
+<programme start="20260312220500 +0000" stop="20260312223000 +0000" channel="Motorvision+.skyde">
     <title>Classic Races</title>
 </programme>
-<programme start="20260312222500 +0000" stop="20260312231500 +0000" channel="Motorvision+.skyde">
+<programme start="20260312223000 +0000" stop="20260312232000 +0000" channel="Motorvision+.skyde">
     <title>Monaco Grand Prix Historique 2024</title>
 </programme>
 <programme start="20260311232000 +0000" stop="20260311234000 +0000" channel="Nick Jr..skyde">
@@ -1604,7 +1607,61 @@ Warning: Undefined array key "et" in /usr/home/ManusiaBiasa/domains/manusiabiasa
 <programme start="20260312225500 +0000" stop="20260312232000 +0000" channel="Nick Jr..skyde">
     <title>BARBAPAPA und Familie</title>
 </programme>
-<programme start="20260303222500 +0000" stop="20260303231500 +0000" channel="Romance TV HD.skyde">
+<programme start="20260311231000 +0000" stop="20260312004000 +0000" channel="Romance TV HD.skyde">
+    <title>Ein Mops zum Verlieben</title>
+</programme>
+<programme start="20260312004000 +0000" stop="20260312021000 +0000" channel="Romance TV HD.skyde">
+    <title>Ladylike - Jetzt erst recht!</title>
+</programme>
+<programme start="20260312021000 +0000" stop="20260312022500 +0000" channel="Romance TV HD.skyde">
+    <title>Stars im Interview</title>
+</programme>
+<programme start="20260312022500 +0000" stop="20260312031000 +0000" channel="Romance TV HD.skyde">
+    <title>Lena Lorenz</title>
+</programme>
+<programme start="20260312031000 +0000" stop="20260312032500 +0000" channel="Romance TV HD.skyde">
+    <title>Stars im Interview</title>
+</programme>
+<programme start="20260312032500 +0000" stop="20260312045500 +0000" channel="Romance TV HD.skyde">
+    <title>Emilie Richards: Entscheidung des Herzens</title>
+</programme>
+<programme start="20260312045500 +0000" stop="20260312063000 +0000" channel="Romance TV HD.skyde">
+    <title>Malibu - Ein Zelt für drei</title>
+</programme>
+<programme start="20260312063000 +0000" stop="20260312081000 +0000" channel="Romance TV HD.skyde">
+    <title>Kreuzfahrt ins Glück - Hochzeitsreise nach Sambia</title>
+</programme>
+<programme start="20260312081000 +0000" stop="20260312094000 +0000" channel="Romance TV HD.skyde">
+    <title>Kreuzfahrt ins Glück - Hochzeitsreise nach Florida</title>
+</programme>
+<programme start="20260312094000 +0000" stop="20260312103500 +0000" channel="Romance TV HD.skyde">
+    <title>Lena Lorenz</title>
+</programme>
+<programme start="20260312103500 +0000" stop="20260312121000 +0000" channel="Romance TV HD.skyde">
+    <title>Lilly Schönauer: Meine Mutter, meine Männer</title>
+</programme>
+<programme start="20260312121000 +0000" stop="20260312134500 +0000" channel="Romance TV HD.skyde">
+    <title>Ein Mops zum Verlieben</title>
+</programme>
+<programme start="20260312134500 +0000" stop="20260312151500 +0000" channel="Romance TV HD.skyde">
+    <title>Ladylike - Jetzt erst recht!</title>
+</programme>
+<programme start="20260312151500 +0000" stop="20260312165000 +0000" channel="Romance TV HD.skyde">
+    <title>Rosamunde Pilcher: Das Geheimnis der Blumeninsel</title>
+</programme>
+<programme start="20260312165000 +0000" stop="20260312182500 +0000" channel="Romance TV HD.skyde">
+    <title>Rosamunde Pilcher: Haustausch mit Hindernissen</title>
+</programme>
+<programme start="20260312182500 +0000" stop="20260312191500 +0000" channel="Romance TV HD.skyde">
+    <title>Lena Lorenz</title>
+</programme>
+<programme start="20260312191500 +0000" stop="20260312204000 +0000" channel="Romance TV HD.skyde">
+    <title>Inga Lindström: Wind über den Schären</title>
+</programme>
+<programme start="20260312204000 +0000" stop="20260312221500 +0000" channel="Romance TV HD.skyde">
+    <title>Emilie Richards: Spuren der Vergangenheit</title>
+</programme>
+<programme start="20260312221500 +0000" stop="20260312230500 +0000" channel="Romance TV HD.skyde">
     <title>Lena Lorenz</title>
 </programme>
 <programme start="20260311232500 +0000" stop="20260312002500 +0000" channel="Sky Atlantic HD.skyde">
@@ -2609,7 +2666,7 @@ Warning: Undefined array key "et" in /usr/home/ManusiaBiasa/domains/manusiabiasa
 <programme start="20260312173500 +0000" stop="20260312195000 +0000" channel="Sky Sport Austria 4 HD.skyde">
     <title>Live UEFA EL: Panathinaikos Athen - Real Betis, Achtelfinale, Hinspiel</title>
 </programme>
-<programme start="20260312195000 +0000" stop="20260312220000 +0000" channel="Sky Sport Austria 4 HD.skyde">
+<programme start="20260312195000 +0000" stop="20260312223000 +0000" channel="Sky Sport Austria 4 HD.skyde">
     <title>Live UEFA ECL: Sigma Olmütz - 1. FSV Mainz 05, Achtelfinale, Hinspiel</title>
 </programme>
 <programme start="20260312171500 +0000" stop="20260312173500 +0000" channel="Sky Sport Austria 5 HD.skyde">
@@ -2618,7 +2675,7 @@ Warning: Undefined array key "et" in /usr/home/ManusiaBiasa/domains/manusiabiasa
 <programme start="20260312173500 +0000" stop="20260312195000 +0000" channel="Sky Sport Austria 5 HD.skyde">
     <title>Live UEFA ECL: FC Samsunspor - Rayo Vallecano, Achtelfinale, Hinspiel</title>
 </programme>
-<programme start="20260312195000 +0000" stop="20260312220000 +0000" channel="Sky Sport Austria 5 HD.skyde">
+<programme start="20260312195000 +0000" stop="20260312223000 +0000" channel="Sky Sport Austria 5 HD.skyde">
     <title>Live UEFA EL: Ferencváros Budapest - SC Braga, Achtelfinale, Hinspiel</title>
 </programme>
 <programme start="20260312171500 +0000" stop="20260312173500 +0000" channel="Sky Sport Austria 6 HD.skyde">
@@ -2636,7 +2693,7 @@ Warning: Undefined array key "et" in /usr/home/ManusiaBiasa/domains/manusiabiasa
 <programme start="20260312173500 +0000" stop="20260312195000 +0000" channel="Sky Sport Austria 7 HD.skyde">
     <title>Live UEFA ECL: Lech Posen - Schachtar Donezk, Achtelfinale, Hinspiel</title>
 </programme>
-<programme start="20260312195000 +0000" stop="20260312220000 +0000" channel="Sky Sport Austria 7 HD.skyde">
+<programme start="20260312195000 +0000" stop="20260312223000 +0000" channel="Sky Sport Austria 7 HD.skyde">
     <title>Live UEFA EL: Celta Vigo - Olympique Lyon, Achtelfinale, Hinspiel</title>
 </programme>
 <programme start="20260312171500 +0000" stop="20260312173500 +0000" channel="Sky Sport Austria 8 HD.skyde">
@@ -2645,8 +2702,8 @@ Warning: Undefined array key "et" in /usr/home/ManusiaBiasa/domains/manusiabiasa
 <programme start="20260312173500 +0000" stop="20260312195000 +0000" channel="Sky Sport Austria 8 HD.skyde">
     <title>Live UEFA ECL: HNK Rijeka - RC Straßburg, Achtelfinale, Hinspiel</title>
 </programme>
-<programme start="20260312195000 +0000" stop="20260312220000 +0000" channel="Sky Sport Austria 8 HD.skyde">
-    <title>Live UEFA ECL: AC Florenz - Raków Czestochowa, Achtelfinale, Hinspiel</title>
+<programme start="20260312195000 +0000" stop="20260312223000 +0000" channel="Sky Sport Austria 8 HD.skyde">
+    <title>Live UEFA ECL: AC Florenz - Rakow Czestochowa, Achtelfinale, Hinspiel</title>
 </programme>
 <programme start="20260311230000 +0000" stop="20260311233000 +0000" channel="Sky Sport Bundesliga HD.skyde">
     <title>2. BL: Dein Zweitligatalk - HvK &amp; Tusche</title>
@@ -2807,34 +2864,34 @@ Warning: Undefined array key "et" in /usr/home/ManusiaBiasa/domains/manusiabiasa
 <programme start="20260312220000 +0000" stop="20260312230000 +0000" channel="Sky Sport F1 HD.skyde">
     <title>WRC: Safari Rally Kenia - SS1 Camp Moran 1</title>
 </programme>
-<programme start="20260312010000 +0000" stop="20260312060000 +0000" channel="Sky Sport Golf HD.skyde">
+<programme start="20260312010000 +0000" stop="20260312062000 +0000" channel="Sky Sport Golf HD.skyde">
     <title>Live LIV Golf: Singapur, 1. Tag auf Sentosa</title>
 </programme>
-<programme start="20260312060000 +0000" stop="20260312070000 +0000" channel="Sky Sport Golf HD.skyde">
+<programme start="20260312062000 +0000" stop="20260312072000 +0000" channel="Sky Sport Golf HD.skyde">
     <title>The Masters: Official Film 2025 (Rory McIllroy)</title>
 </programme>
-<programme start="20260312070000 +0000" stop="20260312074500 +0000" channel="Sky Sport Golf HD.skyde">
+<programme start="20260312072000 +0000" stop="20260312074500 +0000" channel="Sky Sport Golf HD.skyde">
     <title>PGA Championship: Official Film 2025 (Scottie Scheffler)</title>
 </programme>
-<programme start="20260312074500 +0000" stop="20260312080000 +0000" channel="Sky Sport Golf HD.skyde">
+<programme start="20260312074500 +0000" stop="20260312080500 +0000" channel="Sky Sport Golf HD.skyde">
     <title>Golf: Projekt 0 (1)</title>
 </programme>
-<programme start="20260312080000 +0000" stop="20260312081500 +0000" channel="Sky Sport Golf HD.skyde">
+<programme start="20260312080500 +0000" stop="20260312081500 +0000" channel="Sky Sport Golf HD.skyde">
     <title>Golf: Projekt 0 (2)</title>
 </programme>
-<programme start="20260312081500 +0000" stop="20260312083000 +0000" channel="Sky Sport Golf HD.skyde">
+<programme start="20260312081500 +0000" stop="20260312083500 +0000" channel="Sky Sport Golf HD.skyde">
     <title>Golf: Projekt 0 (3)</title>
 </programme>
-<programme start="20260312083000 +0000" stop="20260312084500 +0000" channel="Sky Sport Golf HD.skyde">
+<programme start="20260312083500 +0000" stop="20260312085000 +0000" channel="Sky Sport Golf HD.skyde">
     <title>Golf: Projekt 0 (4)</title>
 </programme>
-<programme start="20260312084500 +0000" stop="20260312090000 +0000" channel="Sky Sport Golf HD.skyde">
+<programme start="20260312085000 +0000" stop="20260312092000 +0000" channel="Sky Sport Golf HD.skyde">
     <title>Golf: Projekt 0 (5)</title>
 </programme>
-<programme start="20260312090000 +0000" stop="20260312140000 +0000" channel="Sky Sport Golf HD.skyde">
+<programme start="20260312092000 +0000" stop="20260312142000 +0000" channel="Sky Sport Golf HD.skyde">
     <title>Golf Ladies ET: Women&#039;s Australian Open, 1. Tag in Adelaide (Australien)</title>
 </programme>
-<programme start="20260312140000 +0000" stop="20260312160000 +0000" channel="Sky Sport Golf HD.skyde">
+<programme start="20260312142000 +0000" stop="20260312160000 +0000" channel="Sky Sport Golf HD.skyde">
     <title>TGL: Jupiter Links Golf Club - New York Golf Club, 4. Spieltag</title>
 </programme>
 <programme start="20260312160000 +0000" stop="20260312180000 +0000" channel="Sky Sport Golf HD.skyde">
@@ -2898,7 +2955,7 @@ Warning: Undefined array key "et" in /usr/home/ManusiaBiasa/domains/manusiabiasa
     <title>DFB-Pokal Frauen: VfL Wolfsburg - Eintracht Frankfurt, Viertelfinale</title>
 </programme>
 <programme start="20260312160000 +0000" stop="20260312163000 +0000" channel="Sky Sport Mix HD.skyde">
-    <title>Fußball: scooore Argentinien! Alle Tore</title>
+    <title>Fußball: scooore Niederlande! Alle Tore</title>
 </programme>
 <programme start="20260312163000 +0000" stop="20260312173500 +0000" channel="Sky Sport Mix HD.skyde">
     <title>3. Liga: Alle Spiele, alle Tore, 28. Spieltag komplett</title>
@@ -3083,31 +3140,31 @@ Warning: Undefined array key "et" in /usr/home/ManusiaBiasa/domains/manusiabiasa
 <programme start="20260312220000 +0000" stop="20260312230000 +0000" channel="Sky Sport Premier League HD.skyde">
     <title>PL: The Catch-Up Show</title>
 </programme>
-<programme start="20260312030000 +0000" stop="20260312053000 +0000" channel="Sky Sport Tennis HD.skyde">
+<programme start="20260312040000 +0000" stop="20260312053000 +0000" channel="Sky Sport Tennis HD.skyde">
     <title>ATP 250: Y. Hanfmann (GER) - L. Darderi (ITA), BCI Seguros Chile Open in Santiago (CHI), Finale</title>
 </programme>
-<programme start="20260312053000 +0000" stop="20260312060000 +0000" channel="Sky Sport Tennis HD.skyde">
+<programme start="20260312063000 +0000" stop="20260312070000 +0000" channel="Sky Sport Tennis HD.skyde">
     <title>ATP: This Week</title>
 </programme>
-<programme start="20260312060000 +0000" stop="20260312080000 +0000" channel="Sky Sport Tennis HD.skyde">
+<programme start="20260312070000 +0000" stop="20260312084000 +0000" channel="Sky Sport Tennis HD.skyde">
     <title>WTA 1000: K. Muchova (CZE) - Iga Swiatek (POL), BNP Paribas Open in Indian Wells, Kalifornien (USA), 8. Tag</title>
 </programme>
-<programme start="20260312080000 +0000" stop="20260312100000 +0000" channel="Sky Sport Tennis HD.skyde">
+<programme start="20260312084000 +0000" stop="20260312103000 +0000" channel="Sky Sport Tennis HD.skyde">
     <title>ATP 1000: C. Alcaraz (ESP) - C. Ruud (NOR), BNP Paribas Open in Indian Wells, Kalifornien (USA), 8. Tag</title>
 </programme>
-<programme start="20260312100000 +0000" stop="20260312123000 +0000" channel="Sky Sport Tennis HD.skyde">
+<programme start="20260312103000 +0000" stop="20260312130000 +0000" channel="Sky Sport Tennis HD.skyde">
     <title>ATP 500: F. Cobolli (ITA) - F. Tiafoe (USA) Abierto Mexicano Telcel presented by HSBC in Acapulco (MEX), Finale</title>
 </programme>
-<programme start="20260312123000 +0000" stop="20260312133000 +0000" channel="Sky Sport Tennis HD.skyde">
+<programme start="20260312130000 +0000" stop="20260312140000 +0000" channel="Sky Sport Tennis HD.skyde">
     <title>ATP 500: Review Dubai</title>
 </programme>
-<programme start="20260312133000 +0000" stop="20260312140000 +0000" channel="Sky Sport Tennis HD.skyde">
+<programme start="20260312140000 +0000" stop="20260312143000 +0000" channel="Sky Sport Tennis HD.skyde">
     <title>ATP: This Week</title>
 </programme>
-<programme start="20260312140000 +0000" stop="20260312160000 +0000" channel="Sky Sport Tennis HD.skyde">
+<programme start="20260312143000 +0000" stop="20260312161000 +0000" channel="Sky Sport Tennis HD.skyde">
     <title>WTA 1000: K. Muchova (CZE) - Iga Swiatek (POL), BNP Paribas Open in Indian Wells, Kalifornien (USA), 8. Tag</title>
 </programme>
-<programme start="20260312160000 +0000" stop="20260312180000 +0000" channel="Sky Sport Tennis HD.skyde">
+<programme start="20260312161000 +0000" stop="20260312180000 +0000" channel="Sky Sport Tennis HD.skyde">
     <title>ATP 1000: C. Alcaraz (ESP) - C. Ruud (NOR), BNP Paribas Open in Indian Wells, Kalifornien (USA), 8. Tag</title>
 </programme>
 <programme start="20260312180000 +0000" stop="20260313040000 +0000" channel="Sky Sport Tennis HD.skyde">
@@ -3116,25 +3173,25 @@ Warning: Undefined array key "et" in /usr/home/ManusiaBiasa/domains/manusiabiasa
 <programme start="20260311233000 +0000" stop="20260312023000 +0000" channel="Sky Sport Top Event HD.skyde">
     <title>Live NBA: Cleveland Cavaliers @ Orlando Magic</title>
 </programme>
-<programme start="20260312023000 +0000" stop="20260312030000 +0000" channel="Sky Sport Top Event HD.skyde">
+<programme start="20260312023000 +0000" stop="20260312040000 +0000" channel="Sky Sport Top Event HD.skyde">
     <title>Live ATP &amp; WTA: Konferenz BNP Paribas Open in Indian Wells, Kalifornien (USA), 8. Tag</title>
 </programme>
-<programme start="20260312030000 +0000" stop="20260312060000 +0000" channel="Sky Sport Top Event HD.skyde">
+<programme start="20260312040000 +0000" stop="20260312062000 +0000" channel="Sky Sport Top Event HD.skyde">
     <title>Live LIV Golf: Singapur, 1. Tag auf Sentosa</title>
 </programme>
-<programme start="20260312060000 +0000" stop="20260312063000 +0000" channel="Sky Sport Top Event HD.skyde">
+<programme start="20260312062000 +0000" stop="20260312064500 +0000" channel="Sky Sport Top Event HD.skyde">
     <title>Fußball: scooore Polen! Alle Tore</title>
 </programme>
-<programme start="20260312063000 +0000" stop="20260312070000 +0000" channel="Sky Sport Top Event HD.skyde">
+<programme start="20260312064500 +0000" stop="20260312071500 +0000" channel="Sky Sport Top Event HD.skyde">
     <title>Fußball: scooore Portugal! Alle Tore</title>
 </programme>
-<programme start="20260312070000 +0000" stop="20260312073000 +0000" channel="Sky Sport Top Event HD.skyde">
+<programme start="20260312071500 +0000" stop="20260312074500 +0000" channel="Sky Sport Top Event HD.skyde">
     <title>2. BL: Dein Zweitligatalk - HvK &amp; Tusche</title>
 </programme>
-<programme start="20260312073000 +0000" stop="20260312080000 +0000" channel="Sky Sport Top Event HD.skyde">
+<programme start="20260312074500 +0000" stop="20260312081500 +0000" channel="Sky Sport Top Event HD.skyde">
     <title>F1: Ted&#039;s Notebook: GP Australien</title>
 </programme>
-<programme start="20260312080000 +0000" stop="20260312100000 +0000" channel="Sky Sport Top Event HD.skyde">
+<programme start="20260312081500 +0000" stop="20260312100000 +0000" channel="Sky Sport Top Event HD.skyde">
     <title>NHL: Montréal Canadiens @ Ottawa Senators</title>
 </programme>
 <programme start="20260312100000 +0000" stop="20260312114500 +0000" channel="Sky Sport Top Event HD.skyde">
@@ -3165,7 +3222,7 @@ Warning: Undefined array key "et" in /usr/home/ManusiaBiasa/domains/manusiabiasa
     <title>Live BL: Matchplan: B04 - FCB, 26. Spieltag</title>
 </programme>
 <programme start="20260312170000 +0000" stop="20260312173500 +0000" channel="Sky Sport Top Event HD.skyde">
-    <title>Fußball: scooore Argentinien! Alle Tore</title>
+    <title>Fußball: scooore Portugal! Alle Tore</title>
 </programme>
 <programme start="20260312173500 +0000" stop="20260312195000 +0000" channel="Sky Sport Top Event HD.skyde">
     <title>Live UEFA EL: Panathinaikos Athen - Real Betis, Achtelfinale, Hinspiel</title>
@@ -3218,17 +3275,17 @@ Warning: Undefined array key "et" in /usr/home/ManusiaBiasa/domains/manusiabiasa
 <programme start="20260311231000 +0000" stop="20260311233000 +0000" channel="Sky Sport 1 HD.skyde">
     <title>Es folgt: LIVE Basketball NBA</title>
 </programme>
-<programme start="20260311233000 +0000" stop="20260312090000 +0000" channel="Sky Sport 1 HD.skyde">
+<programme start="20260311233000 +0000" stop="20260312030000 +0000" channel="Sky Sport 1 HD.skyde">
     <title>Live NBA: Cleveland Cavaliers @ Orlando Magic</title>
 </programme>
 <programme start="20260312174000 +0000" stop="20260312180000 +0000" channel="Sky Sport 1 HD.skyde">
     <title>Es folgt: LIVE Tennis ATP Tour</title>
 </programme>
 <programme start="20260312180000 +0000" stop="20260312200000 +0000" channel="Sky Sport 1 HD.skyde">
-    <title>Live ATP 1000: VF1, BNP Paribas Open in Indian Wells, Kalifornien (USA), Viertelfinale 1</title>
+    <title>Live ATP 1000: A. Zverev (GER) - A. Fils (FRA), BNP Paribas Open in Indian Wells, Kalifornien (USA), Viertelfinale 1</title>
 </programme>
 <programme start="20260312200000 +0000" stop="20260312220000 +0000" channel="Sky Sport 1 HD.skyde">
-    <title>Live ATP 1000: VF2, BNP Paribas Open in Indian Wells, Kalifornien (USA), Viertelfinale 2</title>
+    <title>Live ATP 1000: L. Tien (USA) - J. Sinner (ITA), BNP Paribas Open in Indian Wells, Kalifornien (USA), Viertelfinale 2</title>
 </programme>
 <programme start="20260312220000 +0000" stop="20260313000000 +0000" channel="Sky Sport 1 HD.skyde">
     <title>Es folgt: LIVE Tennis ATP Tour</title>
@@ -3237,13 +3294,13 @@ Warning: Undefined array key "et" in /usr/home/ManusiaBiasa/domains/manusiabiasa
     <title>Es folgt: LIVE Tennis WTA Tour</title>
 </programme>
 <programme start="20260312180000 +0000" stop="20260312200000 +0000" channel="Sky Sport 2 HD.skyde">
-    <title>Live WTA 1000: VF1, BNP Paribas Open in Indian Wells, Kalifornien (USA), Viertelfinale 1</title>
+    <title>Live WTA 1000: A. Sabalenka - V. Mboko (CAN), BNP Paribas Open in Indian Wells, Kalifornien (USA), Viertelfinale 1</title>
 </programme>
 <programme start="20260312200000 +0000" stop="20260312220000 +0000" channel="Sky Sport 2 HD.skyde">
-    <title>Live WTA 1000: VF2, BNP Paribas Open in Indian Wells, Kalifornien (USA), Viertelfinale 2</title>
+    <title>Live WTA 1000: L. Nosková (CZE) - T. Gibson (AUS), BNP Paribas Open in Indian Wells, Kalifornien (USA), Viertelfinale 2</title>
 </programme>
 <programme start="20260312220000 +0000" stop="20260313000000 +0000" channel="Sky Sport 2 HD.skyde">
-    <title>Live WTA 1000: VF3, BNP Paribas Open in Indian Wells, Kalifornien (USA), Viertelfinale 3</title>
+    <title>Live WTA 1000: E. Svitolina (UKR) - I. Swiatek (POL), BNP Paribas Open in Indian Wells, Kalifornien (USA), Viertelfinale 3</title>
 </programme>
 <programme start="20260311230000 +0000" stop="20260311234500 +0000" channel="SYFY HD.skyde">
     <title>Raumschiff Enterprise - Das nächste Jahrhundert</title>
@@ -3560,19 +3617,19 @@ Warning: Undefined array key "et" in /usr/home/ManusiaBiasa/domains/manusiabiasa
 <programme start="20260312144500 +0000" stop="20260312151000 +0000" channel="Warner TV Comedy HD.skyde">
     <title>King of Queens</title>
 </programme>
-<programme start="20260312151000 +0000" stop="20260312153500 +0000" channel="Warner TV Comedy HD.skyde">
+<programme start="20260312151000 +0000" stop="20260312153000 +0000" channel="Warner TV Comedy HD.skyde">
     <title>King of Queens</title>
 </programme>
-<programme start="20260312153500 +0000" stop="20260312155500 +0000" channel="Warner TV Comedy HD.skyde">
+<programme start="20260312153000 +0000" stop="20260312155500 +0000" channel="Warner TV Comedy HD.skyde">
     <title>Two and a Half Men</title>
 </programme>
 <programme start="20260312155500 +0000" stop="20260312162000 +0000" channel="Warner TV Comedy HD.skyde">
     <title>Two and a Half Men</title>
 </programme>
-<programme start="20260312162000 +0000" stop="20260312165000 +0000" channel="Warner TV Comedy HD.skyde">
+<programme start="20260312162000 +0000" stop="20260312164500 +0000" channel="Warner TV Comedy HD.skyde">
     <title>Two and a Half Men</title>
 </programme>
-<programme start="20260312165000 +0000" stop="20260312171000 +0000" channel="Warner TV Comedy HD.skyde">
+<programme start="20260312164500 +0000" stop="20260312171000 +0000" channel="Warner TV Comedy HD.skyde">
     <title>2 Broke Girls</title>
 </programme>
 <programme start="20260312171000 +0000" stop="20260312173500 +0000" channel="Warner TV Comedy HD.skyde">
@@ -3620,10 +3677,10 @@ Warning: Undefined array key "et" in /usr/home/ManusiaBiasa/domains/manusiabiasa
 <programme start="20260312220500 +0000" stop="20260312223000 +0000" channel="Warner TV Comedy HD.skyde">
     <title>American Dad</title>
 </programme>
-<programme start="20260312223000 +0000" stop="20260312225500 +0000" channel="Warner TV Comedy HD.skyde">
+<programme start="20260312223000 +0000" stop="20260312225000 +0000" channel="Warner TV Comedy HD.skyde">
     <title>American Dad</title>
 </programme>
-<programme start="20260312225500 +0000" stop="20260312231500 +0000" channel="Warner TV Comedy HD.skyde">
+<programme start="20260312225000 +0000" stop="20260312231500 +0000" channel="Warner TV Comedy HD.skyde">
     <title>2 Broke Girls</title>
 </programme>
 <programme start="20260312005000 +0000" stop="20260312024000 +0000" channel="Warner TV Film.skyde">
@@ -3749,10 +3806,10 @@ Warning: Undefined array key "et" in /usr/home/ManusiaBiasa/domains/manusiabiasa
 <programme start="20260312081500 +0000" stop="20260312090500 +0000" channel="Warner TV Serie HD.skyde">
     <title>Mord ist ihr Hobby</title>
 </programme>
-<programme start="20260312090500 +0000" stop="20260312095500 +0000" channel="Warner TV Serie HD.skyde">
+<programme start="20260312090500 +0000" stop="20260312100000 +0000" channel="Warner TV Serie HD.skyde">
     <title>Mord ist ihr Hobby</title>
 </programme>
-<programme start="20260312095500 +0000" stop="20260312105000 +0000" channel="Warner TV Serie HD.skyde">
+<programme start="20260312100000 +0000" stop="20260312105000 +0000" channel="Warner TV Serie HD.skyde">
     <title>Mord ist ihr Hobby</title>
 </programme>
 <programme start="20260312105000 +0000" stop="20260312114000 +0000" channel="Warner TV Serie HD.skyde">
@@ -3776,10 +3833,10 @@ Warning: Undefined array key "et" in /usr/home/ManusiaBiasa/domains/manusiabiasa
 <programme start="20260312152500 +0000" stop="20260312161000 +0000" channel="Warner TV Serie HD.skyde">
     <title>NCIS</title>
 </programme>
-<programme start="20260312161000 +0000" stop="20260312165500 +0000" channel="Warner TV Serie HD.skyde">
+<programme start="20260312161000 +0000" stop="20260312170000 +0000" channel="Warner TV Serie HD.skyde">
     <title>NCIS</title>
 </programme>
-<programme start="20260312165500 +0000" stop="20260312174500 +0000" channel="Warner TV Serie HD.skyde">
+<programme start="20260312170000 +0000" stop="20260312174500 +0000" channel="Warner TV Serie HD.skyde">
     <title>NCIS</title>
 </programme>
 <programme start="20260312174500 +0000" stop="20260312183000 +0000" channel="Warner TV Serie HD.skyde">
