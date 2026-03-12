@@ -1,7 +1,3 @@
-<programme start="20260312153000 +0700" stop="20260312172500 +0700" channel="COSMOTE Sport 1 HD">
-    <title>Football: Paris Saint Germain - Chelsea FC</title>
-    <desc>Live: Tidak</desc>
-</programme>
 <programme start="20260312172500 +0700" stop="20260312192000 +0700" channel="COSMOTE Sport 1 HD">
     <title>Football: FK Bodo/Glimt - Sporting CP</title>
     <desc>Live: Tidak</desc>
@@ -122,8 +118,8 @@
     <title>Football: Crystal Palace - AEK Larnaca</title>
     <desc>Live: Tidak</desc>
 </programme>
-<programme start="20260312160000 +0700" stop="20260312180000 +0700" channel="COSMOTE Sport 3 HD">
-    <title>Football: Santa Clara - Vitoria Guimaraes</title>
+<programme start="20260313180000 +0700" stop="20260313200000 +0700" channel="COSMOTE Sport 2 HD">
+    <title>Football: SK Sigma Olomouc - FSV Mainz 05</title>
     <desc>Live: Tidak</desc>
 </programme>
 <programme start="20260312180000 +0700" stop="20260312200000 +0700" channel="COSMOTE Sport 3 HD">
@@ -176,10 +172,6 @@
 </programme>
 <programme start="20260313170000 +0700" stop="20260313190000 +0700" channel="COSMOTE Sport 3 HD">
     <title>Football: AZ Alkmaar - AC Sparta Praha</title>
-    <desc>Live: Tidak</desc>
-</programme>
-<programme start="20260312145000 +0700" stop="20260312172000 +0700" channel="COSMOTE Sport 4 HD">
-    <title>Basketball: Orlando Magic - Cleveland Cavaliers</title>
     <desc>Live: Tidak</desc>
 </programme>
 <programme start="20260312172000 +0700" stop="20260312194500 +0700" channel="COSMOTE Sport 4 HD">
@@ -334,6 +326,10 @@
     <title>WRC 2026</title>
     <desc>Live: Tidak</desc>
 </programme>
+<programme start="20260313184000 +0700" stop="20260313194000 +0700" channel="COSMOTE Sport 5 HD">
+    <title>WRC 2026</title>
+    <desc>Live: Tidak</desc>
+</programme>
 <programme start="20260312143000 +0700" stop="20260312183000 +0700" channel="COSMOTE Sport 6 HD">
     <title>Tennis: ATP Masters 1000 2026</title>
     <desc>Live: Tidak</desc>
@@ -387,6 +383,10 @@
     <desc>Live: Tidak</desc>
 </programme>
 <programme start="20260313145500 +0700" stop="20260313185500 +0700" channel="COSMOTE Sport 6 HD">
+    <title>Tennis: ATP Masters 1000 2026</title>
+    <desc>Live: Tidak</desc>
+</programme>
+<programme start="20260313185500 +0700" stop="20260313225500 +0700" channel="COSMOTE Sport 6 HD">
     <title>Tennis: ATP Masters 1000 2026</title>
     <desc>Live: Tidak</desc>
 </programme>
