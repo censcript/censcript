@@ -353,7 +353,7 @@
 <title>Speak After Lunch (L)</title>
 </programme>
 <programme start="20260313063000 +0000" stop="20260313080000 +0000" channel="iNews.vision">
-<title>Breaking News: Timur Tengah</title>
+<title>Breaking News: Timur Tengah (L)</title>
 </programme>
 <programme start="20260313080000 +0000" stop="20260313093000 +0000" channel="iNews.vision">
 <title>Realita (L)</title>
@@ -733,10 +733,10 @@
 <programme start="20260312193000 +0000" stop="20260312213000 +0000" channel="ANTV.vision">
 <title>Menumpas Teroris</title>
 </programme>
-<programme start="20260312213000 +0000" stop="20260312233000 +0000" channel="ANTV.vision">
+<programme start="20260312213000 +0000" stop="20260312230000 +0000" channel="ANTV.vision">
 <title>Tawa Kalcer</title>
 </programme>
-<programme start="20260312233000 +0000" stop="20260313003000 +0000" channel="ANTV.vision">
+<programme start="20260312230000 +0000" stop="20260313003000 +0000" channel="ANTV.vision">
 <title>Baalveer Returns</title>
 </programme>
 <programme start="20260313003000 +0000" stop="20260313023000 +0000" channel="ANTV.vision">

@@ -370,7 +370,45 @@
 <programme start="20260312163000 +0000" stop="20260311170000 +0000" channel="Animax.mncvision">
     <title>Foolish Angel Dances..., Ep 9</title>
 </programme>
-Error: Unable to fetch data. HTTP Status Code: 500
+<programme start="20260311170000 +0000" stop="20260311183000 +0000" channel="ANTV.mncvision">
+    <title>Cannon Ball Run</title>
+</programme>
+<programme start="20260311183000 +0000" stop="20260311193000 +0000" channel="ANTV.mncvision">
+    <title>Bangkok Police Woman</title>
+</programme>
+<programme start="20260311193000 +0000" stop="20260311213000 +0000" channel="ANTV.mncvision">
+    <title>Darah Perjaka</title>
+</programme>
+<programme start="20260311213000 +0000" stop="20260311233000 +0000" channel="ANTV.mncvision">
+    <title>Tawa Kalcer</title>
+</programme>
+<programme start="20260311233000 +0000" stop="20260312003000 +0000" channel="ANTV.mncvision">
+    <title>Baalveer Returns</title>
+</programme>
+<programme start="20260312003000 +0000" stop="20260312023000 +0000" channel="ANTV.mncvision">
+    <title>Janji Inspektur Virat</title>
+</programme>
+<programme start="20260312023000 +0000" stop="20260312060000 +0000" channel="ANTV.mncvision">
+    <title>Hanu Man</title>
+</programme>
+<programme start="20260312060000 +0000" stop="20260312080000 +0000" channel="ANTV.mncvision">
+    <title>Jhanak</title>
+</programme>
+<programme start="20260312080000 +0000" stop="20260312090000 +0000" channel="ANTV.mncvision">
+    <title>Teri Meri Doriyaann</title>
+</programme>
+<programme start="20260312090000 +0000" stop="20260312110000 +0000" channel="ANTV.mncvision">
+    <title>Vasudha</title>
+</programme>
+<programme start="20260312110000 +0000" stop="20260312130000 +0000" channel="ANTV.mncvision">
+    <title>Satria Madangkara</title>
+</programme>
+<programme start="20260312130000 +0000" stop="20260312150000 +0000" channel="ANTV.mncvision">
+    <title>Yang Perkasa</title>
+</programme>
+<programme start="20260312150000 +0000" stop="20260312153000 +0000" channel="ANTV.mncvision">
+    <title>Malu-Malu Mau</title>
+</programme>
 <programme start="20260311170000 +0000" stop="20260311173000 +0000" channel="Arirang.mncvision">
     <title>K-Culture Dive</title>
 </programme>
@@ -2360,7 +2398,48 @@ Error: Unable to fetch data. HTTP Status Code: 500
 <programme start="20260312160300 +0000" stop="20260312163300 +0000" channel="Channel News Asia.mncvision">
     <title>East Asia Tonight</title>
 </programme>
-Error: Unable to fetch data. HTTP Status Code: 500
+<programme start="20260311171300 +0000" stop="20260311190400 +0000" channel="CINEEDGE.mncvision">
+    <title>Platinum</title>
+</programme>
+<programme start="20260311190400 +0000" stop="20260311203400 +0000" channel="CINEEDGE.mncvision">
+    <title>Cash Out</title>
+</programme>
+<programme start="20260311203400 +0000" stop="20260311224300 +0000" channel="CINEEDGE.mncvision">
+    <title>Platinum</title>
+</programme>
+<programme start="20260311224300 +0000" stop="20260312001200 +0000" channel="CINEEDGE.mncvision">
+    <title>Beta Test</title>
+</programme>
+<programme start="20260312001200 +0000" stop="20260312020900 +0000" channel="CINEEDGE.mncvision">
+    <title>Platinum</title>
+</programme>
+<programme start="20260312020900 +0000" stop="20260312034600 +0000" channel="CINEEDGE.mncvision">
+    <title>Double Identity</title>
+</programme>
+<programme start="20260312034600 +0000" stop="20260312060100 +0000" channel="CINEEDGE.mncvision">
+    <title>Platinum</title>
+</programme>
+<programme start="20260312060100 +0000" stop="20260312073100 +0000" channel="CINEEDGE.mncvision">
+    <title>Cosmic Sin</title>
+</programme>
+<programme start="20260312073100 +0000" stop="20260312091800 +0000" channel="CINEEDGE.mncvision">
+    <title>Platinum</title>
+</programme>
+<programme start="20260312091800 +0000" stop="20260312105700 +0000" channel="CINEEDGE.mncvision">
+    <title>Renegades</title>
+</programme>
+<programme start="20260312105700 +0000" stop="20260312124900 +0000" channel="CINEEDGE.mncvision">
+    <title>Platinum</title>
+</programme>
+<programme start="20260312124900 +0000" stop="20260312143300 +0000" channel="CINEEDGE.mncvision">
+    <title>Undisputed 2: Last Man Standing</title>
+</programme>
+<programme start="20260312143300 +0000" stop="20260312161900 +0000" channel="CINEEDGE.mncvision">
+    <title>Platinum</title>
+</programme>
+<programme start="20260312161900 +0000" stop="20260312164900 +0000" channel="CINEEDGE.mncvision">
+    <title>A Most Violent Year</title>
+</programme>
 <programme start="20260311171300 +0000" stop="20260311190400 +0000" channel="CINEEDGE HD.mncvision">
     <title>Platinum</title>
 </programme>
@@ -8940,7 +9019,48 @@ Error: Unable to fetch data. HTTP Status Code: 500
 <programme start="20260312164800 +0000" stop="20260311171800 +0000" channel="Superrix.mncvision">
     <title>God&#039;s Country</title>
 </programme>
-Error: Unable to fetch data. HTTP Status Code: 500
+<programme start="20260311171200 +0000" stop="20260311190700 +0000" channel="Superrix HD.mncvision">
+    <title>A Trace Of Danger</title>
+</programme>
+<programme start="20260311190700 +0000" stop="20260311210300 +0000" channel="Superrix HD.mncvision">
+    <title>Gold</title>
+</programme>
+<programme start="20260311210300 +0000" stop="20260311222100 +0000" channel="Superrix HD.mncvision">
+    <title>8 Slices</title>
+</programme>
+<programme start="20260311222100 +0000" stop="20260312003200 +0000" channel="Superrix HD.mncvision">
+    <title>Dead For A Dollar</title>
+</programme>
+<programme start="20260312003200 +0000" stop="20260312024400 +0000" channel="Superrix HD.mncvision">
+    <title>Platinum</title>
+</programme>
+<programme start="20260312024400 +0000" stop="20260312042200 +0000" channel="Superrix HD.mncvision">
+    <title>Killing For Extra Credit</title>
+</programme>
+<programme start="20260312042200 +0000" stop="20260312063100 +0000" channel="Superrix HD.mncvision">
+    <title>Gold</title>
+</programme>
+<programme start="20260312063100 +0000" stop="20260312081000 +0000" channel="Superrix HD.mncvision">
+    <title>Break Every Chain</title>
+</programme>
+<programme start="20260312081000 +0000" stop="20260312095400 +0000" channel="Superrix HD.mncvision">
+    <title>Minor Premise</title>
+</programme>
+<programme start="20260312095400 +0000" stop="20260312115800 +0000" channel="Superrix HD.mncvision">
+    <title>Platinum</title>
+</programme>
+<programme start="20260312115800 +0000" stop="20260312134000 +0000" channel="Superrix HD.mncvision">
+    <title>Sugar Baby Murder</title>
+</programme>
+<programme start="20260312134000 +0000" stop="20260312153000 +0000" channel="Superrix HD.mncvision">
+    <title>Gold</title>
+</programme>
+<programme start="20260312153000 +0000" stop="20260312164800 +0000" channel="Superrix HD.mncvision">
+    <title>Joy Of Horses</title>
+</programme>
+<programme start="20260312164800 +0000" stop="20260311171800 +0000" channel="Superrix HD.mncvision">
+    <title>God&#039;s Country</title>
+</programme>
 <programme start="20260311170000 +0000" stop="20260311173000 +0000" channel="Tawaf TV.mncvision">
     <title>DMI TV</title>
 </programme>

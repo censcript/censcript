@@ -15465,7 +15465,7 @@
     <category lang="en">Sports</category>
   </programme>
   <programme start="20260312081500 +0000" stop="20260312111500 +0000" channel="unifisports1.unifitv">
-    <title lang="en">(L) AFL Premiership Season - Opening Round - Brisbane Lions vs Western Bulldogs - Brisbane Lions vs Western Bulldogs</title>
+    <title lang="en">(L) AFL Premiership Season - Round 1 - Carlton v Richmond</title>
     <desc lang="en">ABC Australia brings you Australian Rules football live in your lounge room every week with coverage of the 2026 AFL Premiership Season.</desc>
     <category lang="en">Sports</category>
   </programme>
