@@ -6851,7 +6851,7 @@
         <title>UEFA Europa League 2025/26: Lille vs Aston Villa - R16, 1st Leg (Live)</title>
     </programme>
     <programme start="20260312195500 +0000" stop="20260312220000 +0000" channel="beIN Sports HD.starhub">
-        <title>UEFA Europa League 2025/26: Nottingham Forest vs Midtjylland - R16, 1st Leg (Liv</title>
+        <title>UEFA Europa League 2025/26: Nottingham Forest vs Midtjylland - R16, 1st Leg (Live)</title>
     </programme>
     <programme start="20260312220000 +0000" stop="20260312223500 +0000" channel="beIN Sports HD.starhub">
         <title>Matchday 27</title>

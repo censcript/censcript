@@ -139,8 +139,8 @@
   <programme start="20260314225800 +0000" stop="20260315004500 +0000" channel="Jednotka.webtv.sk">
     <title lang="id">Predĺžený víkend</title>
   </programme>
-  <programme start="20260313220000 +0000" stop="20260313230400 +0000" channel="Dvojka.webtv.sk">
-    <title lang="id">To je pop!</title>
+  <programme start="20260313223000 +0000" stop="20260313230400 +0000" channel="Dvojka.webtv.sk">
+    <title lang="id">DNA popu</title>
   </programme>
   <programme start="20260313230400 +0000" stop="20260313230600 +0000" channel="Dvojka.webtv.sk">
     <title lang="id">Hymna SR</title>
@@ -1122,6 +1122,51 @@
   </programme>
   <programme start="20260314220000 +0000" stop="20260314230000 +0000" channel="Markíza Krimi.webtv.sk">
     <title lang="id">Milujem ťa, zabijem ťa III (5)</title>
+  </programme>
+  <programme start="20260313215500 +0000" stop="20260314000000 +0000" channel="JOJ Plus.webtv.sk">
+    <title lang="id">Na úteku</title>
+  </programme>
+  <programme start="20260314000000 +0000" stop="20260314002500 +0000" channel="JOJ Plus.webtv.sk">
+    <title lang="id">Profíci z Brooklynu V (10)</title>
+  </programme>
+  <programme start="20260314002500 +0000" stop="20260314020000 +0000" channel="JOJ Plus.webtv.sk">
+    <title lang="id">Ako som spoznal vašu mamu II</title>
+  </programme>
+  <programme start="20260314020000 +0000" stop="20260314024500 +0000" channel="JOJ Plus.webtv.sk">
+    <title lang="id">Mafstory X</title>
+  </programme>
+  <programme start="20260314024500 +0000" stop="20260314030500 +0000" channel="JOJ Plus.webtv.sk">
+    <title lang="id">Profíci z Brooklynu V (10)</title>
+  </programme>
+  <programme start="20260314030500 +0000" stop="20260314044000 +0000" channel="JOJ Plus.webtv.sk">
+    <title lang="id">Policajt zo šklky 2</title>
+  </programme>
+  <programme start="20260314044000 +0000" stop="20260314063500 +0000" channel="JOJ Plus.webtv.sk">
+    <title lang="id">Všetko čo mám rád</title>
+  </programme>
+  <programme start="20260314063500 +0000" stop="20260314075500 +0000" channel="JOJ Plus.webtv.sk">
+    <title lang="id">Na chalupe</title>
+  </programme>
+  <programme start="20260314075500 +0000" stop="20260314102000 +0000" channel="JOJ Plus.webtv.sk">
+    <title lang="id">Nové bývanie</title>
+  </programme>
+  <programme start="20260314102000 +0000" stop="20260314122500 +0000" channel="JOJ Plus.webtv.sk">
+    <title lang="id">Bella a Sebastián: Nová generácia</title>
+  </programme>
+  <programme start="20260314122500 +0000" stop="20260314181500 +0000" channel="JOJ Plus.webtv.sk">
+    <title lang="id">Bez servítky</title>
+  </programme>
+  <programme start="20260314181500 +0000" stop="20260314182500 +0000" channel="JOJ Plus.webtv.sk">
+    <title lang="id">Kinosála</title>
+  </programme>
+  <programme start="20260314182500 +0000" stop="20260314193000 +0000" channel="JOJ Plus.webtv.sk">
+    <title lang="id">Delukse I (11)</title>
+  </programme>
+  <programme start="20260314193000 +0000" stop="20260314221000 +0000" channel="JOJ Plus.webtv.sk">
+    <title lang="id">Proroctvo: Koniec sveta</title>
+  </programme>
+  <programme start="20260314221000 +0000" stop="20260315005000 +0000" channel="JOJ Plus.webtv.sk">
+    <title lang="id">Marco</title>
   </programme>
   <programme start="20260313224000 +0000" stop="20260314003500 +0000" channel="JOJ Šport.webtv.sk">
     <title lang="id">Basketbal - ENBL</title>
@@ -6115,102 +6160,6 @@
   <programme start="20260314220000 +0000" stop="20260314230000 +0000" channel="Animal Planet.webtv.sk">
     <title lang="id">Vetřelci I (3)</title>
   </programme>
-  <programme start="20260313230000 +0000" stop="20260313234500 +0000" channel="History Channel.webtv.sk">
-    <title lang="id">Prokletí ostrova Oak</title>
-  </programme>
-  <programme start="20260313234500 +0000" stop="20260314003000 +0000" channel="History Channel.webtv.sk">
-    <title lang="id">Nevysvětlitelná tajemství s Williamem Shatnerem</title>
-  </programme>
-  <programme start="20260314003000 +0000" stop="20260314011500 +0000" channel="History Channel.webtv.sk">
-    <title lang="id">Hvězdy zastavárny</title>
-  </programme>
-  <programme start="20260314011500 +0000" stop="20260314020000 +0000" channel="History Channel.webtv.sk">
-    <title lang="id">Hvězdy zastavárny</title>
-  </programme>
-  <programme start="20260314020000 +0000" stop="20260314024500 +0000" channel="History Channel.webtv.sk">
-    <title lang="id">Z ohnivé výhně</title>
-  </programme>
-  <programme start="20260314024500 +0000" stop="20260314033000 +0000" channel="History Channel.webtv.sk">
-    <title lang="id">Důkaz tam je</title>
-  </programme>
-  <programme start="20260314033000 +0000" stop="20260314041500 +0000" channel="History Channel.webtv.sk">
-    <title lang="id">Vetřelci dávnověku</title>
-  </programme>
-  <programme start="20260314041500 +0000" stop="20260314050000 +0000" channel="History Channel.webtv.sk">
-    <title lang="id">Hvězdy zastavárny</title>
-  </programme>
-  <programme start="20260314050000 +0000" stop="20260314054000 +0000" channel="History Channel.webtv.sk">
-    <title lang="id">Důkaz tam je</title>
-  </programme>
-  <programme start="20260314054000 +0000" stop="20260314062500 +0000" channel="History Channel.webtv.sk">
-    <title lang="id">Prokletí ostrova Oak</title>
-  </programme>
-  <programme start="20260314062500 +0000" stop="20260314070500 +0000" channel="History Channel.webtv.sk">
-    <title lang="id">Nevysvětlitelná tajemství s Williamem Shatnerem</title>
-  </programme>
-  <programme start="20260314070500 +0000" stop="20260314075000 +0000" channel="History Channel.webtv.sk">
-    <title lang="id">Hvězdy zastavárny</title>
-  </programme>
-  <programme start="20260314075000 +0000" stop="20260314083000 +0000" channel="History Channel.webtv.sk">
-    <title lang="id">Hvězdy zastavárny</title>
-  </programme>
-  <programme start="20260314083000 +0000" stop="20260314091500 +0000" channel="History Channel.webtv.sk">
-    <title lang="id">Vetřelci dávnověku</title>
-  </programme>
-  <programme start="20260314091500 +0000" stop="20260314100000 +0000" channel="History Channel.webtv.sk">
-    <title lang="id">Z ohnivé výhně</title>
-  </programme>
-  <programme start="20260314100000 +0000" stop="20260314104500 +0000" channel="History Channel.webtv.sk">
-    <title lang="id">Důkaz tam je</title>
-  </programme>
-  <programme start="20260314104500 +0000" stop="20260314113000 +0000" channel="History Channel.webtv.sk">
-    <title lang="id">Vetřelci dávnověku</title>
-  </programme>
-  <programme start="20260314113000 +0000" stop="20260314121000 +0000" channel="History Channel.webtv.sk">
-    <title lang="id">Hvězdy zastavárny</title>
-  </programme>
-  <programme start="20260314121000 +0000" stop="20260314125000 +0000" channel="History Channel.webtv.sk">
-    <title lang="id">Důkaz tam je</title>
-  </programme>
-  <programme start="20260314125000 +0000" stop="20260314133500 +0000" channel="History Channel.webtv.sk">
-    <title lang="id">Prokletí ostrova Oak</title>
-  </programme>
-  <programme start="20260314133500 +0000" stop="20260314141500 +0000" channel="History Channel.webtv.sk">
-    <title lang="id">Nevysvětlitelná tajemství s Williamem Shatnerem</title>
-  </programme>
-  <programme start="20260314141500 +0000" stop="20260314150000 +0000" channel="History Channel.webtv.sk">
-    <title lang="id">Z ohnivé výhně</title>
-  </programme>
-  <programme start="20260314150000 +0000" stop="20260314154500 +0000" channel="History Channel.webtv.sk">
-    <title lang="id">Důkaz tam je</title>
-  </programme>
-  <programme start="20260314154500 +0000" stop="20260314162500 +0000" channel="History Channel.webtv.sk">
-    <title lang="id">Důkaz tam je</title>
-  </programme>
-  <programme start="20260314162500 +0000" stop="20260314171000 +0000" channel="History Channel.webtv.sk">
-    <title lang="id">Prokletí ostrova Oak</title>
-  </programme>
-  <programme start="20260314171000 +0000" stop="20260314175000 +0000" channel="History Channel.webtv.sk">
-    <title lang="id">Nevysvětlitelná tajemství s Williamem Shatnerem</title>
-  </programme>
-  <programme start="20260314175000 +0000" stop="20260314183500 +0000" channel="History Channel.webtv.sk">
-    <title lang="id">Hvězdy zastavárny</title>
-  </programme>
-  <programme start="20260314183500 +0000" stop="20260314191500 +0000" channel="History Channel.webtv.sk">
-    <title lang="id">Hvězdy zastavárny</title>
-  </programme>
-  <programme start="20260314191500 +0000" stop="20260314200000 +0000" channel="History Channel.webtv.sk">
-    <title lang="id">Vetřelci dávnověku</title>
-  </programme>
-  <programme start="20260314200000 +0000" stop="20260314213000 +0000" channel="History Channel.webtv.sk">
-    <title lang="id">Vetřelci dávnověku: Speciální prezentace: To nejlepší z</title>
-  </programme>
-  <programme start="20260314213000 +0000" stop="20260314221500 +0000" channel="History Channel.webtv.sk">
-    <title lang="id">Nevysvětlitelná tajemství s Williamem Shatnerem</title>
-  </programme>
-  <programme start="20260314221500 +0000" stop="20260314230000 +0000" channel="History Channel.webtv.sk">
-    <title lang="id">Hvězdy zastavárny</title>
-  </programme>
   <programme start="20260313230000 +0000" stop="20260313234500 +0000" channel="History 2.webtv.sk">
     <title lang="id">Hunting Hitler</title>
   </programme>
@@ -8166,150 +8115,6 @@
   </programme>
   <programme start="20260314224000 +0000" stop="20260314234000 +0000" channel="Spektrum Home.webtv.sk">
     <title lang="id">Šije celá Británie VI (1)</title>
-  </programme>
-  <programme start="20260313230000 +0000" stop="20260313233000 +0000" channel="Fishing&Hunting.webtv.sk">
-    <title lang="id">V jednotě s přírodou - Momentky z deseti národních parků (3)</title>
-  </programme>
-  <programme start="20260313233000 +0000" stop="20260314000000 +0000" channel="Fishing&Hunting.webtv.sk">
-    <title lang="id">Feedermánie - Rybolov snů na Bledu s kaprem nad 30kg</title>
-  </programme>
-  <programme start="20260314000000 +0000" stop="20260314003000 +0000" channel="Fishing&Hunting.webtv.sk">
-    <title lang="id">Jen jemně! - Obrovští cejni</title>
-  </programme>
-  <programme start="20260314003000 +0000" stop="20260314010000 +0000" channel="Fishing&Hunting.webtv.sk">
-    <title lang="id">V jednotě s přírodou - Momentky z deseti národních parků (10)</title>
-  </programme>
-  <programme start="20260314010000 +0000" stop="20260314013000 +0000" channel="Fishing&Hunting.webtv.sk">
-    <title lang="id">József Kolláth - Lovecká dobrodružství v Beninu (1)</title>
-  </programme>
-  <programme start="20260314013000 +0000" stop="20260314020000 +0000" channel="Fishing&Hunting.webtv.sk">
-    <title lang="id">József Kolláth - Lovecká dobrodružství v Beninu (2)</title>
-  </programme>
-  <programme start="20260314020000 +0000" stop="20260314023000 +0000" channel="Fishing&Hunting.webtv.sk">
-    <title lang="id">József Kolláth - Lovecká dobrodružství v Beninu (3)</title>
-  </programme>
-  <programme start="20260314023000 +0000" stop="20260314030000 +0000" channel="Fishing&Hunting.webtv.sk">
-    <title lang="id">Akademie přívlače - Oceánští dravci</title>
-  </programme>
-  <programme start="20260314030000 +0000" stop="20260314033000 +0000" channel="Fishing&Hunting.webtv.sk">
-    <title lang="id">Kuchyně milovníků ryb - Dorozsmajský sumeček africký</title>
-  </programme>
-  <programme start="20260314033000 +0000" stop="20260314040000 +0000" channel="Fishing&Hunting.webtv.sk">
-    <title lang="id">V jednotě s přírodou - Momentky z deseti národních parků (2)</title>
-  </programme>
-  <programme start="20260314040000 +0000" stop="20260314043000 +0000" channel="Fishing&Hunting.webtv.sk">
-    <title lang="id">Viktor Takács - Stejná vášeň (1)</title>
-  </programme>
-  <programme start="20260314043000 +0000" stop="20260314050000 +0000" channel="Fishing&Hunting.webtv.sk">
-    <title lang="id">Viktor Takács - Stejná vášeň (2)</title>
-  </programme>
-  <programme start="20260314050000 +0000" stop="20260314053000 +0000" channel="Fishing&Hunting.webtv.sk">
-    <title lang="id">Viktor Takács - Stejná vášeň (3)</title>
-  </programme>
-  <programme start="20260314053000 +0000" stop="20260314060000 +0000" channel="Fishing&Hunting.webtv.sk">
-    <title lang="id">Modrý svět S04 E05</title>
-  </programme>
-  <programme start="20260314060000 +0000" stop="20260314063000 +0000" channel="Fishing&Hunting.webtv.sk">
-    <title lang="id">SEDO Fishing - Lov kaprů z dlouhého náhozu</title>
-  </programme>
-  <programme start="20260314063000 +0000" stop="20260314070000 +0000" channel="Fishing&Hunting.webtv.sk">
-    <title lang="id">V jednotě s přírodou - Momentky z deseti národních parků (2)</title>
-  </programme>
-  <programme start="20260314070000 +0000" stop="20260314073000 +0000" channel="Fishing&Hunting.webtv.sk">
-    <title lang="id">DOVIT - Neznámá voda, známá osobnost</title>
-  </programme>
-  <programme start="20260314073000 +0000" stop="20260314080000 +0000" channel="Fishing&Hunting.webtv.sk">
-    <title lang="id">Zubatý úlovek - Operace &quot;Monster Tail&quot;</title>
-  </programme>
-  <programme start="20260314080000 +0000" stop="20260314083000 +0000" channel="Fishing&Hunting.webtv.sk">
-    <title lang="id">Akademie přívlače - Lov pstruhů z kajaku</title>
-  </programme>
-  <programme start="20260314083000 +0000" stop="20260314090000 +0000" channel="Fishing&Hunting.webtv.sk">
-    <title lang="id">Nový muškař 19. ročník (1)</title>
-  </programme>
-  <programme start="20260314090000 +0000" stop="20260314093000 +0000" channel="Fishing&Hunting.webtv.sk">
-    <title lang="id">Obří kapři z jezera Szűcsi - Když se sny stanou skutečností</title>
-  </programme>
-  <programme start="20260314093000 +0000" stop="20260314100000 +0000" channel="Fishing&Hunting.webtv.sk">
-    <title lang="id">V jednotě s přírodou - Momentky z deseti národních parků (7)</title>
-  </programme>
-  <programme start="20260314100000 +0000" stop="20260314103000 +0000" channel="Fishing&Hunting.webtv.sk">
-    <title lang="id">Pěšáci - Spor o kormorány (1)</title>
-  </programme>
-  <programme start="20260314103000 +0000" stop="20260314110000 +0000" channel="Fishing&Hunting.webtv.sk">
-    <title lang="id">Pěšáci - Spor o kormorány (2)</title>
-  </programme>
-  <programme start="20260314110000 +0000" stop="20260314113000 +0000" channel="Fishing&Hunting.webtv.sk">
-    <title lang="id">Pěšáci - Spor o kormorány (3)</title>
-  </programme>
-  <programme start="20260314113000 +0000" stop="20260314120000 +0000" channel="Fishing&Hunting.webtv.sk">
-    <title lang="id">Feedermánie - Rybolov snů na Bledu s kaprem nad 30kg</title>
-  </programme>
-  <programme start="20260314120000 +0000" stop="20260314123000 +0000" channel="Fishing&Hunting.webtv.sk">
-    <title lang="id">Jen jemně! - Obrovští cejni</title>
-  </programme>
-  <programme start="20260314123000 +0000" stop="20260314130000 +0000" channel="Fishing&Hunting.webtv.sk">
-    <title lang="id">V jednotě s přírodou - Momentky z deseti národních parků (10)</title>
-  </programme>
-  <programme start="20260314130000 +0000" stop="20260314133000 +0000" channel="Fishing&Hunting.webtv.sk">
-    <title lang="id">József Kolláth - Lovecká dobrodružství v Beninu (1)</title>
-  </programme>
-  <programme start="20260314133000 +0000" stop="20260314140000 +0000" channel="Fishing&Hunting.webtv.sk">
-    <title lang="id">József Kolláth - Lovecká dobrodružství v Beninu (2)</title>
-  </programme>
-  <programme start="20260314140000 +0000" stop="20260314143000 +0000" channel="Fishing&Hunting.webtv.sk">
-    <title lang="id">József Kolláth - Lovecká dobrodružství v Beninu (3)</title>
-  </programme>
-  <programme start="20260314143000 +0000" stop="20260314150000 +0000" channel="Fishing&Hunting.webtv.sk">
-    <title lang="id">Magazín Energofis (109)</title>
-  </programme>
-  <programme start="20260314150000 +0000" stop="20260314153000 +0000" channel="Fishing&Hunting.webtv.sk">
-    <title lang="id">Rybářské výpravy - Veni vidi divici (1)</title>
-  </programme>
-  <programme start="20260314153000 +0000" stop="20260314160000 +0000" channel="Fishing&Hunting.webtv.sk">
-    <title lang="id">Jen jemně! - Skrytý poklad města</title>
-  </programme>
-  <programme start="20260314160000 +0000" stop="20260314163000 +0000" channel="Fishing&Hunting.webtv.sk">
-    <title lang="id">Akademie přívlače - Štičí přívlač</title>
-  </programme>
-  <programme start="20260314163000 +0000" stop="20260314170000 +0000" channel="Fishing&Hunting.webtv.sk">
-    <title lang="id">Bratři rybáři - Souboj v Holbině (1)</title>
-  </programme>
-  <programme start="20260314170000 +0000" stop="20260314173000 +0000" channel="Fishing&Hunting.webtv.sk">
-    <title lang="id">DAIWA - Lov kaprů na 200 hektarech</title>
-  </programme>
-  <programme start="20260314173000 +0000" stop="20260314180000 +0000" channel="Fishing&Hunting.webtv.sk">
-    <title lang="id">Mistr zbrojíř - Střelecký svět v hojnosti výběru</title>
-  </programme>
-  <programme start="20260314180000 +0000" stop="20260314183000 +0000" channel="Fishing&Hunting.webtv.sk">
-    <title lang="id">Balázs Hajba - Myslivecké Vánoce na Slovensku</title>
-  </programme>
-  <programme start="20260314183000 +0000" stop="20260314190000 +0000" channel="Fishing&Hunting.webtv.sk">
-    <title lang="id">DOVIT - Odlišné taktiky</title>
-  </programme>
-  <programme start="20260314190000 +0000" stop="20260314193000 +0000" channel="Fishing&Hunting.webtv.sk">
-    <title lang="id">Kde je ryba? - Okouni vodní nádrže</title>
-  </programme>
-  <programme start="20260314193000 +0000" stop="20260314200000 +0000" channel="Fishing&Hunting.webtv.sk">
-    <title lang="id">Nový muškař 19. ročník (1)</title>
-  </programme>
-  <programme start="20260314200000 +0000" stop="20260314203000 +0000" channel="Fishing&Hunting.webtv.sk">
-    <title lang="id">Léto na jezeru Kastély-park tavak</title>
-  </programme>
-  <programme start="20260314203000 +0000" stop="20260314210000 +0000" channel="Fishing&Hunting.webtv.sk">
-    <title lang="id">Viktor Takács - Lov srnců v Ibrányi (2)</title>
-  </programme>
-  <programme start="20260314210000 +0000" stop="20260314213000 +0000" channel="Fishing&Hunting.webtv.sk">
-    <title lang="id">Péter Pál Halmi - Sukně a zbraně</title>
-  </programme>
-  <programme start="20260314213000 +0000" stop="20260314220000 +0000" channel="Fishing&Hunting.webtv.sk">
-    <title lang="id">Myslivecká horečka - Myslivecký den v Alapu</title>
-  </programme>
-  <programme start="20260314220000 +0000" stop="20260314223000 +0000" channel="Fishing&Hunting.webtv.sk">
-    <title lang="id">Rybářské výpravy - Veni vidi divici (1)</title>
-  </programme>
-  <programme start="20260314223000 +0000" stop="20260314230000 +0000" channel="Fishing&Hunting.webtv.sk">
-    <title lang="id">Rybolov pod lupou - Nejlepší momenty uplynulého roku</title>
   </programme>
   <programme start="20260313211500 +0000" stop="20260313231000 +0000" channel="HBO.webtv.sk">
     <title lang="id">Souboj s temnotou</title>
