@@ -15615,10 +15615,15 @@
     <desc lang="en">World Pickleball League Season 2 heads to Mumbai, as top international players compete in fast-paced team action, showcasing skill, intensity, and excitement in one of the sport's fast-growing leagues</desc>
     <category lang="en">Sports</category>
   </programme>
-  <programme start="20260312073000 +0000" stop="20260312103000 +0000" channel="spotv2.unifitv">
+  <programme start="20260312073000 +0000" stop="20260312100000 +0000" channel="spotv2.unifitv">
     <title lang="en">2026 World Baseball Classic: Pool B - Great Britain vs USA</title>
     <desc lang="en">The world's best national teams compete for international glory, delivering powerful hitting, elite pitching, and thrilling baseball action on the global stage.</desc>
     <category lang="en">Baseball</category>
+  </programme>
+  <programme start="20260312100000 +0000" stop="20260312103000 +0000" channel="spotv2.unifitv">
+    <title lang="en">2025/26 ALM Mini Match Rd 20 - Auckland FC vs Perth Glory</title>
+    <desc lang="en">Top flight men's soccer returns in the ISUZU UTE A-League Men. Catch every moment on SPOTV NOW as 12 teams compete in the regular season with top 4 advancing to a single-game knockout.</desc>
+    <category lang="en">Football</category>
   </programme>
   <programme start="20260312103000 +0000" stop="20260312133000 +0000" channel="spotv2.unifitv">
     <title lang="en">(L) WTT Champions Chongqing 2026 - Day 3 Session 2</title>
@@ -15980,8 +15985,8 @@
     <category lang="en">Sports</category>
   </programme>
   <programme start="20260312133000 +0000" stop="20260312140000 +0000" channel="beinsports3.unifitv">
-    <title lang="en">UCI World Tour Highlights - Episode Number 11</title>
-    <desc lang="en">Highlights of the premier men's elite road cycling tour.</desc>
+    <title lang="en">Santos Tour Down Under - Stage 5</title>
+    <desc lang="en">The premier annual female elite road cycling tour, featuring established stars and rising talent.</desc>
     <category lang="en">Sports</category>
   </programme>
   <programme start="20260312140000 +0000" stop="20260312160000 +0000" channel="beinsports3.unifitv">

@@ -2012,7 +2012,7 @@
         <title>Wed,R16,1st Leg</title>
     </programme>
     <programme start="20260312133000 +0000" stop="20260312140000 +0000" channel="beIN Sports 3.starhub">
-        <title>UCI World Tour Highlights 2026</title>
+        <title>Santos Tour Down Under - Stage 5</title>
     </programme>
     <programme start="20260312140000 +0000" stop="20260312160000 +0000" channel="beIN Sports 3.starhub">
         <title>UEFA Champions League 2025/26: PSG vs Chelsea - R16, 1st Leg</title>
