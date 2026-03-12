@@ -1604,61 +1604,7 @@ Warning: Undefined array key "et" in /usr/home/ManusiaBiasa/domains/manusiabiasa
 <programme start="20260312225500 +0000" stop="20260312232000 +0000" channel="Nick Jr..skyde">
     <title>BARBAPAPA und Familie</title>
 </programme>
-<programme start="20260311231000 +0000" stop="20260312004000 +0000" channel="Romance TV HD.skyde">
-    <title>Ein Mops zum Verlieben</title>
-</programme>
-<programme start="20260312004000 +0000" stop="20260312021000 +0000" channel="Romance TV HD.skyde">
-    <title>Ladylike - Jetzt erst recht!</title>
-</programme>
-<programme start="20260312021000 +0000" stop="20260312022500 +0000" channel="Romance TV HD.skyde">
-    <title>Stars im Interview</title>
-</programme>
-<programme start="20260312022500 +0000" stop="20260312031000 +0000" channel="Romance TV HD.skyde">
-    <title>Lena Lorenz</title>
-</programme>
-<programme start="20260312031000 +0000" stop="20260312032500 +0000" channel="Romance TV HD.skyde">
-    <title>Stars im Interview</title>
-</programme>
-<programme start="20260312032500 +0000" stop="20260312045500 +0000" channel="Romance TV HD.skyde">
-    <title>Emilie Richards: Entscheidung des Herzens</title>
-</programme>
-<programme start="20260312045500 +0000" stop="20260312063000 +0000" channel="Romance TV HD.skyde">
-    <title>Malibu - Ein Zelt für drei</title>
-</programme>
-<programme start="20260312063000 +0000" stop="20260312081000 +0000" channel="Romance TV HD.skyde">
-    <title>Kreuzfahrt ins Glück - Hochzeitsreise nach Sambia</title>
-</programme>
-<programme start="20260312081000 +0000" stop="20260312094000 +0000" channel="Romance TV HD.skyde">
-    <title>Kreuzfahrt ins Glück - Hochzeitsreise nach Florida</title>
-</programme>
-<programme start="20260312094000 +0000" stop="20260312103500 +0000" channel="Romance TV HD.skyde">
-    <title>Lena Lorenz</title>
-</programme>
-<programme start="20260312103500 +0000" stop="20260312121000 +0000" channel="Romance TV HD.skyde">
-    <title>Lilly Schönauer: Meine Mutter, meine Männer</title>
-</programme>
-<programme start="20260312121000 +0000" stop="20260312134500 +0000" channel="Romance TV HD.skyde">
-    <title>Ein Mops zum Verlieben</title>
-</programme>
-<programme start="20260312134500 +0000" stop="20260312151500 +0000" channel="Romance TV HD.skyde">
-    <title>Ladylike - Jetzt erst recht!</title>
-</programme>
-<programme start="20260312151500 +0000" stop="20260312165000 +0000" channel="Romance TV HD.skyde">
-    <title>Rosamunde Pilcher: Das Geheimnis der Blumeninsel</title>
-</programme>
-<programme start="20260312165000 +0000" stop="20260312182500 +0000" channel="Romance TV HD.skyde">
-    <title>Rosamunde Pilcher: Haustausch mit Hindernissen</title>
-</programme>
-<programme start="20260312182500 +0000" stop="20260312191500 +0000" channel="Romance TV HD.skyde">
-    <title>Lena Lorenz</title>
-</programme>
-<programme start="20260312191500 +0000" stop="20260312204000 +0000" channel="Romance TV HD.skyde">
-    <title>Inga Lindström: Wind über den Schären</title>
-</programme>
-<programme start="20260312204000 +0000" stop="20260312221500 +0000" channel="Romance TV HD.skyde">
-    <title>Emilie Richards: Spuren der Vergangenheit</title>
-</programme>
-<programme start="20260312221500 +0000" stop="20260312230500 +0000" channel="Romance TV HD.skyde">
+<programme start="20260303222500 +0000" stop="20260303231500 +0000" channel="Romance TV HD.skyde">
     <title>Lena Lorenz</title>
 </programme>
 <programme start="20260311232500 +0000" stop="20260312002500 +0000" channel="Sky Atlantic HD.skyde">

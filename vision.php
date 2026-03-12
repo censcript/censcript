@@ -715,9 +715,6 @@
 <programme start="20260312090000 +0000" stop="20260312110000 +0000" channel="ANTV.vision">
 <title>Vasudha</title>
 </programme>
-<programme start="20260312110000 +0000" stop="20260312130000 +0000" channel="ANTV.vision">
-<title>Satria Madangkara</title>
-</programme>
 <programme start="20260312130000 +0000" stop="20260312150000 +0000" channel="ANTV.vision">
 <title>Yang Perkasa</title>
 </programme>
@@ -1497,4 +1494,7 @@
 </programme>
 <programme start="20260312111900 +0000" stop="20260312130000 +0000" channel="BTV.vision">
 <title>Berita Satu Utama</title>
+</programme>
+<programme start="20260312130000 +0000" stop="20260312140000 +0000" channel="BTV.vision">
+<title>Spot On</title>
 </programme>
