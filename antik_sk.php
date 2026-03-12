@@ -1123,51 +1123,6 @@
   <programme start="20260314220000 +0000" stop="20260314230000 +0000" channel="Markíza Krimi.webtv.sk">
     <title lang="id">Milujem ťa, zabijem ťa III (5)</title>
   </programme>
-  <programme start="20260313215500 +0000" stop="20260314000000 +0000" channel="JOJ Plus.webtv.sk">
-    <title lang="id">Na úteku</title>
-  </programme>
-  <programme start="20260314000000 +0000" stop="20260314002500 +0000" channel="JOJ Plus.webtv.sk">
-    <title lang="id">Profíci z Brooklynu V (10)</title>
-  </programme>
-  <programme start="20260314002500 +0000" stop="20260314020000 +0000" channel="JOJ Plus.webtv.sk">
-    <title lang="id">Ako som spoznal vašu mamu II</title>
-  </programme>
-  <programme start="20260314020000 +0000" stop="20260314024500 +0000" channel="JOJ Plus.webtv.sk">
-    <title lang="id">Mafstory X</title>
-  </programme>
-  <programme start="20260314024500 +0000" stop="20260314030500 +0000" channel="JOJ Plus.webtv.sk">
-    <title lang="id">Profíci z Brooklynu V (10)</title>
-  </programme>
-  <programme start="20260314030500 +0000" stop="20260314044000 +0000" channel="JOJ Plus.webtv.sk">
-    <title lang="id">Policajt zo šklky 2</title>
-  </programme>
-  <programme start="20260314044000 +0000" stop="20260314063500 +0000" channel="JOJ Plus.webtv.sk">
-    <title lang="id">Všetko čo mám rád</title>
-  </programme>
-  <programme start="20260314063500 +0000" stop="20260314075500 +0000" channel="JOJ Plus.webtv.sk">
-    <title lang="id">Na chalupe</title>
-  </programme>
-  <programme start="20260314075500 +0000" stop="20260314102000 +0000" channel="JOJ Plus.webtv.sk">
-    <title lang="id">Nové bývanie</title>
-  </programme>
-  <programme start="20260314102000 +0000" stop="20260314122500 +0000" channel="JOJ Plus.webtv.sk">
-    <title lang="id">Bella a Sebastián: Nová generácia</title>
-  </programme>
-  <programme start="20260314122500 +0000" stop="20260314181500 +0000" channel="JOJ Plus.webtv.sk">
-    <title lang="id">Bez servítky</title>
-  </programme>
-  <programme start="20260314181500 +0000" stop="20260314182500 +0000" channel="JOJ Plus.webtv.sk">
-    <title lang="id">Kinosála</title>
-  </programme>
-  <programme start="20260314182500 +0000" stop="20260314193000 +0000" channel="JOJ Plus.webtv.sk">
-    <title lang="id">Delukse I (11)</title>
-  </programme>
-  <programme start="20260314193000 +0000" stop="20260314221000 +0000" channel="JOJ Plus.webtv.sk">
-    <title lang="id">Proroctvo: Koniec sveta</title>
-  </programme>
-  <programme start="20260314221000 +0000" stop="20260315005000 +0000" channel="JOJ Plus.webtv.sk">
-    <title lang="id">Marco</title>
-  </programme>
   <programme start="20260313224000 +0000" stop="20260314003500 +0000" channel="JOJ Šport.webtv.sk">
     <title lang="id">Basketbal - ENBL</title>
   </programme>
@@ -4251,6 +4206,90 @@
   </programme>
   <programme start="20260314222500 +0000" stop="20260315004000 +0000" channel="Seznam.cz TV.webtv.sk">
     <title lang="id">Leon</title>
+  </programme>
+  <programme start="20260313210000 +0000" stop="20260313230500 +0000" channel="Barrandov.webtv.sk">
+    <title lang="id">Tajemné doteky I (1)</title>
+  </programme>
+  <programme start="20260313230500 +0000" stop="20260314000500 +0000" channel="Barrandov.webtv.sk">
+    <title lang="id">SeXoňa</title>
+  </programme>
+  <programme start="20260314000500 +0000" stop="20260314001500 +0000" channel="Barrandov.webtv.sk">
+    <title lang="id">Naše zprávy</title>
+  </programme>
+  <programme start="20260314001500 +0000" stop="20260314003000 +0000" channel="Barrandov.webtv.sk">
+    <title lang="id">VIP svět</title>
+  </programme>
+  <programme start="20260314003000 +0000" stop="20260314010500 +0000" channel="Barrandov.webtv.sk">
+    <title lang="id">Exkluziv!</title>
+  </programme>
+  <programme start="20260314010500 +0000" stop="20260314022000 +0000" channel="Barrandov.webtv.sk">
+    <title lang="id">Na plac!</title>
+  </programme>
+  <programme start="20260314022000 +0000" stop="20260314032500 +0000" channel="Barrandov.webtv.sk">
+    <title lang="id">Ostříháno</title>
+  </programme>
+  <programme start="20260314032500 +0000" stop="20260314045500 +0000" channel="Barrandov.webtv.sk">
+    <title lang="id">Nebezpečné vztahy</title>
+  </programme>
+  <programme start="20260314045500 +0000" stop="20260314050500 +0000" channel="Barrandov.webtv.sk">
+    <title lang="id">Co bude dnes k večeři?</title>
+  </programme>
+  <programme start="20260314050500 +0000" stop="20260314060000 +0000" channel="Barrandov.webtv.sk">
+    <title lang="id">Nebezpečné vztahy</title>
+  </programme>
+  <programme start="20260314060000 +0000" stop="20260314073000 +0000" channel="Barrandov.webtv.sk">
+    <title lang="id">Jak to dopadlo!?</title>
+  </programme>
+  <programme start="20260314073000 +0000" stop="20260314093500 +0000" channel="Barrandov.webtv.sk">
+    <title lang="id">Klenot TV</title>
+  </programme>
+  <programme start="20260314093500 +0000" stop="20260314102500 +0000" channel="Barrandov.webtv.sk">
+    <title lang="id">Babica vs. Sapík</title>
+  </programme>
+  <programme start="20260314102500 +0000" stop="20260314104000 +0000" channel="Barrandov.webtv.sk">
+    <title lang="id">Co bude dnes k večeři?</title>
+  </programme>
+  <programme start="20260314104000 +0000" stop="20260314111000 +0000" channel="Barrandov.webtv.sk">
+    <title lang="id">Kašpárku, vař!</title>
+  </programme>
+  <programme start="20260314111000 +0000" stop="20260314121500 +0000" channel="Barrandov.webtv.sk">
+    <title lang="id">Vítejte ve světě Andrého Rieu II (8)</title>
+  </programme>
+  <programme start="20260314121500 +0000" stop="20260314140500 +0000" channel="Barrandov.webtv.sk">
+    <title lang="id">Katie Fforde: První láska I (24)</title>
+  </programme>
+  <programme start="20260314140500 +0000" stop="20260314150500 +0000" channel="Barrandov.webtv.sk">
+    <title lang="id">Nebezpečné vztahy</title>
+  </programme>
+  <programme start="20260314150500 +0000" stop="20260314161000 +0000" channel="Barrandov.webtv.sk">
+    <title lang="id">Vím, že nic nevím</title>
+  </programme>
+  <programme start="20260314161000 +0000" stop="20260314171000 +0000" channel="Barrandov.webtv.sk">
+    <title lang="id">Babica vs. Sapík</title>
+  </programme>
+  <programme start="20260314171000 +0000" stop="20260314174500 +0000" channel="Barrandov.webtv.sk">
+    <title lang="id">Vaříme s Jirkou Babicou</title>
+  </programme>
+  <programme start="20260314174500 +0000" stop="20260314175500 +0000" channel="Barrandov.webtv.sk">
+    <title lang="id">Naše zprávy</title>
+  </programme>
+  <programme start="20260314175500 +0000" stop="20260314185500 +0000" channel="Barrandov.webtv.sk">
+    <title lang="id">Nebezpečné vztahy</title>
+  </programme>
+  <programme start="20260314185500 +0000" stop="20260314190500 +0000" channel="Barrandov.webtv.sk">
+    <title lang="id">VIP svět</title>
+  </programme>
+  <programme start="20260314190500 +0000" stop="20260314201000 +0000" channel="Barrandov.webtv.sk">
+    <title lang="id">Sejdeme se na Cibulce</title>
+  </programme>
+  <programme start="20260314201000 +0000" stop="20260314211000 +0000" channel="Barrandov.webtv.sk">
+    <title lang="id">Sejdeme se na Cibulce</title>
+  </programme>
+  <programme start="20260314211000 +0000" stop="20260314220500 +0000" channel="Barrandov.webtv.sk">
+    <title lang="id">SeXoňa</title>
+  </programme>
+  <programme start="20260314220500 +0000" stop="20260315001500 +0000" channel="Barrandov.webtv.sk">
+    <title lang="id">Tajemné doteky I (1)</title>
   </programme>
   <programme start="20260313230000 +0000" stop="20260314004000 +0000" channel="Kino Barrandov.webtv.sk">
     <title lang="id">To byl náš hit</title>
@@ -14982,6 +15021,78 @@
   </programme>
   <programme start="20260314213700 +0000" stop="20260315005200 +0000" channel="TV Zemplín.webtv.sk">
     <title lang="id">Záznam z rokovania zastupiteľstva PSK - 9.2.2026</title>
+  </programme>
+  <programme start="20260313230000 +0000" stop="20260314000000 +0000" channel="TV Poprad.webtv.sk">
+    <title lang="id">Aktuality regiónu</title>
+  </programme>
+  <programme start="20260314000000 +0000" stop="20260314010000 +0000" channel="TV Poprad.webtv.sk">
+    <title lang="id">Aktuality regiónu</title>
+  </programme>
+  <programme start="20260314010000 +0000" stop="20260314020000 +0000" channel="TV Poprad.webtv.sk">
+    <title lang="id">Aktuality regiónu</title>
+  </programme>
+  <programme start="20260314020000 +0000" stop="20260314030000 +0000" channel="TV Poprad.webtv.sk">
+    <title lang="id">Aktuality regiónu</title>
+  </programme>
+  <programme start="20260314030000 +0000" stop="20260314040000 +0000" channel="TV Poprad.webtv.sk">
+    <title lang="id">Aktuality regiónu</title>
+  </programme>
+  <programme start="20260314040000 +0000" stop="20260314050000 +0000" channel="TV Poprad.webtv.sk">
+    <title lang="id">Aktuality regiónu</title>
+  </programme>
+  <programme start="20260314050000 +0000" stop="20260314060000 +0000" channel="TV Poprad.webtv.sk">
+    <title lang="id">Aktuality regiónu</title>
+  </programme>
+  <programme start="20260314060000 +0000" stop="20260314070000 +0000" channel="TV Poprad.webtv.sk">
+    <title lang="id">Aktuality regiónu</title>
+  </programme>
+  <programme start="20260314070000 +0000" stop="20260314080000 +0000" channel="TV Poprad.webtv.sk">
+    <title lang="id">Aktuality regiónu</title>
+  </programme>
+  <programme start="20260314080000 +0000" stop="20260314090000 +0000" channel="TV Poprad.webtv.sk">
+    <title lang="id">Aktuality regiónu</title>
+  </programme>
+  <programme start="20260314090000 +0000" stop="20260314100000 +0000" channel="TV Poprad.webtv.sk">
+    <title lang="id">Aktuality regiónu</title>
+  </programme>
+  <programme start="20260314100000 +0000" stop="20260314110000 +0000" channel="TV Poprad.webtv.sk">
+    <title lang="id">Aktuality regiónu</title>
+  </programme>
+  <programme start="20260314110000 +0000" stop="20260314120000 +0000" channel="TV Poprad.webtv.sk">
+    <title lang="id">Aktuality regiónu</title>
+  </programme>
+  <programme start="20260314120000 +0000" stop="20260314130000 +0000" channel="TV Poprad.webtv.sk">
+    <title lang="id">Aktuality regiónu</title>
+  </programme>
+  <programme start="20260314130000 +0000" stop="20260314140000 +0000" channel="TV Poprad.webtv.sk">
+    <title lang="id">Aktuality regiónu</title>
+  </programme>
+  <programme start="20260314140000 +0000" stop="20260314150000 +0000" channel="TV Poprad.webtv.sk">
+    <title lang="id">Aktuality regiónu</title>
+  </programme>
+  <programme start="20260314150000 +0000" stop="20260314160000 +0000" channel="TV Poprad.webtv.sk">
+    <title lang="id">Aktuality regiónu</title>
+  </programme>
+  <programme start="20260314160000 +0000" stop="20260314170000 +0000" channel="TV Poprad.webtv.sk">
+    <title lang="id">Aktuality regiónu</title>
+  </programme>
+  <programme start="20260314170000 +0000" stop="20260314180000 +0000" channel="TV Poprad.webtv.sk">
+    <title lang="id">Aktuality regiónu</title>
+  </programme>
+  <programme start="20260314180000 +0000" stop="20260314190000 +0000" channel="TV Poprad.webtv.sk">
+    <title lang="id">Aktuality regiónu</title>
+  </programme>
+  <programme start="20260314190000 +0000" stop="20260314200000 +0000" channel="TV Poprad.webtv.sk">
+    <title lang="id">Aktuality regiónu</title>
+  </programme>
+  <programme start="20260314200000 +0000" stop="20260314210000 +0000" channel="TV Poprad.webtv.sk">
+    <title lang="id">Aktuality regiónu</title>
+  </programme>
+  <programme start="20260314210000 +0000" stop="20260314220000 +0000" channel="TV Poprad.webtv.sk">
+    <title lang="id">Aktuality regiónu</title>
+  </programme>
+  <programme start="20260314220000 +0000" stop="20260314230000 +0000" channel="TV Poprad.webtv.sk">
+    <title lang="id">Aktuality regiónu</title>
   </programme>
   <programme start="20260313230000 +0000" stop="20260313233000 +0000" channel="TV Považie.webtv.sk">
     <title lang="id">Noviny</title>
