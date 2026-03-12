@@ -715,6 +715,18 @@
 <programme start="20260312090000 +0000" stop="20260312110000 +0000" channel="ANTV.vision">
 <title>Vasudha</title>
 </programme>
+<programme start="20260312110000 +0000" stop="20260312130000 +0000" channel="ANTV.vision">
+<title>Satria Madangkara</title>
+</programme>
+<programme start="20260312130000 +0000" stop="20260312150000 +0000" channel="ANTV.vision">
+<title>Yang Perkasa</title>
+</programme>
+<programme start="20260312150000 +0000" stop="20260312170000 +0000" channel="ANTV.vision">
+<title>Malu-Malu Mau</title>
+</programme>
+<programme start="20260312170000 +0000" stop="20260312183000 +0000" channel="ANTV.vision">
+<title>The Duel</title>
+</programme>
 <programme start="20260312183000 +0000" stop="20260312193000 +0000" channel="ANTV.vision">
 <title>Mystic Blade</title>
 </programme>
@@ -1485,16 +1497,4 @@
 </programme>
 <programme start="20260312111900 +0000" stop="20260312130000 +0000" channel="BTV.vision">
 <title>Berita Satu Utama</title>
-</programme>
-<programme start="20260312130000 +0000" stop="20260312140000 +0000" channel="BTV.vision">
-<title>Spot On</title>
-</programme>
-<programme start="20260312140000 +0000" stop="20260312150000 +0000" channel="BTV.vision">
-<title>Berita Viral</title>
-</programme>
-<programme start="20260312150000 +0000" stop="20260312160000 +0000" channel="BTV.vision">
-<title>Berita Satu Malam</title>
-</programme>
-<programme start="20260312160000 +0000" stop="20260312163000 +0000" channel="BTV.vision">
-<title>Sirkuit Nasional Padel 2026</title>
 </programme>

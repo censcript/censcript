@@ -3170,69 +3170,6 @@ Warning: Undefined array key "et" in /usr/home/ManusiaBiasa/domains/manusiabiasa
 <programme start="20260312180000 +0000" stop="20260313040000 +0000" channel="Sky Sport Tennis HD.skyde">
     <title>Live ATP &amp; WTA: Konferenz BNP Paribas Open in Indian Wells, Kalifornien (USA), Viertelfinals</title>
 </programme>
-<programme start="20260311233000 +0000" stop="20260312023000 +0000" channel="Sky Sport Top Event HD.skyde">
-    <title>Live NBA: Cleveland Cavaliers @ Orlando Magic</title>
-</programme>
-<programme start="20260312023000 +0000" stop="20260312040000 +0000" channel="Sky Sport Top Event HD.skyde">
-    <title>Live ATP &amp; WTA: Konferenz BNP Paribas Open in Indian Wells, Kalifornien (USA), 8. Tag</title>
-</programme>
-<programme start="20260312040000 +0000" stop="20260312062000 +0000" channel="Sky Sport Top Event HD.skyde">
-    <title>Live LIV Golf: Singapur, 1. Tag auf Sentosa</title>
-</programme>
-<programme start="20260312062000 +0000" stop="20260312064500 +0000" channel="Sky Sport Top Event HD.skyde">
-    <title>Fußball: scooore Polen! Alle Tore</title>
-</programme>
-<programme start="20260312064500 +0000" stop="20260312071500 +0000" channel="Sky Sport Top Event HD.skyde">
-    <title>Fußball: scooore Portugal! Alle Tore</title>
-</programme>
-<programme start="20260312071500 +0000" stop="20260312074500 +0000" channel="Sky Sport Top Event HD.skyde">
-    <title>2. BL: Dein Zweitligatalk - HvK &amp; Tusche</title>
-</programme>
-<programme start="20260312074500 +0000" stop="20260312081500 +0000" channel="Sky Sport Top Event HD.skyde">
-    <title>F1: Ted&#039;s Notebook: GP Australien</title>
-</programme>
-<programme start="20260312081500 +0000" stop="20260312100000 +0000" channel="Sky Sport Top Event HD.skyde">
-    <title>NHL: Montréal Canadiens @ Ottawa Senators</title>
-</programme>
-<programme start="20260312100000 +0000" stop="20260312114500 +0000" channel="Sky Sport Top Event HD.skyde">
-    <title>BL: Klassiker der Woche: HSV - KOE (2009/10)</title>
-</programme>
-<programme start="20260312114500 +0000" stop="20260312120000 +0000" channel="Sky Sport Top Event HD.skyde">
-    <title>Bundesliga Collection: Die schönsten Tore: Hamburger SV</title>
-</programme>
-<programme start="20260312120000 +0000" stop="20260312130000 +0000" channel="Sky Sport Top Event HD.skyde">
-    <title>DFB-Pokal Frauen: Alle Spiele, alle Tore, Viertelfinale</title>
-</programme>
-<programme start="20260312130000 +0000" stop="20260312140000 +0000" channel="Sky Sport Top Event HD.skyde">
-    <title>Live WRC: Safari Rally Kenia - SS1 Camp Moran 1</title>
-</programme>
-<programme start="20260312140000 +0000" stop="20260312143000 +0000" channel="Sky Sport Top Event HD.skyde">
-    <title>NHL: On the Fly</title>
-</programme>
-<programme start="20260312143000 +0000" stop="20260312150000 +0000" channel="Sky Sport Top Event HD.skyde">
-    <title>NBA: Action</title>
-</programme>
-<programme start="20260312150000 +0000" stop="20260312153000 +0000" channel="Sky Sport Top Event HD.skyde">
-    <title>F1: Rennen Kompakt - GP Australien</title>
-</programme>
-<programme start="20260312153000 +0000" stop="20260312160000 +0000" channel="Sky Sport Top Event HD.skyde">
-    <title>BL: Bundesliga Weekly</title>
-</programme>
-<programme start="20260312160000 +0000" stop="20260312170000 +0000" channel="Sky Sport Top Event HD.skyde">
-    <title>Live BL: Matchplan: B04 - FCB, 26. Spieltag</title>
-</programme>
-<programme start="20260312170000 +0000" stop="20260312173500 +0000" channel="Sky Sport Top Event HD.skyde">
-    <title>Fußball: scooore Portugal! Alle Tore</title>
-</programme>
-<programme start="20260312173500 +0000" stop="20260312195000 +0000" channel="Sky Sport Top Event HD.skyde">
-    <title>Live UEFA EL: Panathinaikos Athen - Real Betis, Achtelfinale, Hinspiel</title>
-</programme>
-<programme start="20260312195000 +0000" stop="20260312220500 +0000" channel="Sky Sport Top Event HD.skyde">
-    <title>Live UEFA EL: Nottingham Forest - FC Midtjylland, Achtelfinale, Hinspiel</title>
-</programme>
-<programme start="20260312220500 +0000" stop="20260313031500 +0000" channel="Sky Sport Top Event HD.skyde">
-    <title>Live ATP &amp; WTA: Konferenz BNP Paribas Open in Indian Wells, Kalifornien (USA), Viertelfinals</title>
-</programme>
 <programme start="20260312080000 +0000" stop="20260312100000 +0000" channel="Sky Sport UHD.skyde">
     <title>F1: Rennen - GP Australien</title>
 </programme>
