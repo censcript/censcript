@@ -7750,13 +7750,13 @@
 <programme start="20260312113000 +0000" stop="20260312120000 +0000" channel="RCTI.mncvision">
     <title>Amanah Wali S8</title>
 </programme>
-<programme start="20260312120000 +0000" stop="20260312123000 +0000" channel="RCTI.mncvision">
+<programme start="20260312120000 +0000" stop="20260312130000 +0000" channel="RCTI.mncvision">
     <title>99 Nama Cinta</title>
 </programme>
-<programme start="20260312123000 +0000" stop="20260312150000 +0000" channel="RCTI.mncvision">
+<programme start="20260312130000 +0000" stop="20260312153000 +0000" channel="RCTI.mncvision">
     <title>AFC Challenge League (L)</title>
 </programme>
-<programme start="20260312150000 +0000" stop="20260312153000 +0000" channel="RCTI.mncvision">
+<programme start="20260312153000 +0000" stop="20260312160000 +0000" channel="RCTI.mncvision">
     <title>Teror Mia</title>
 </programme>
 <programme start="20260311170000 +0000" stop="20260311193000 +0000" channel="RCTI HD.mncvision">
@@ -7804,13 +7804,13 @@
 <programme start="20260312113000 +0000" stop="20260312120000 +0000" channel="RCTI HD.mncvision">
     <title>Amanah Wali S8</title>
 </programme>
-<programme start="20260312120000 +0000" stop="20260312123000 +0000" channel="RCTI HD.mncvision">
+<programme start="20260312120000 +0000" stop="20260312130000 +0000" channel="RCTI HD.mncvision">
     <title>99 Nama Cinta</title>
 </programme>
-<programme start="20260312123000 +0000" stop="20260312150000 +0000" channel="RCTI HD.mncvision">
+<programme start="20260312130000 +0000" stop="20260312153000 +0000" channel="RCTI HD.mncvision">
     <title>AFC Challenge League (L)</title>
 </programme>
-<programme start="20260312150000 +0000" stop="20260312153000 +0000" channel="RCTI HD.mncvision">
+<programme start="20260312153000 +0000" stop="20260312160000 +0000" channel="RCTI HD.mncvision">
     <title>Teror Mia</title>
 </programme>
 <programme start="20260311170500 +0000" stop="20260311183500 +0000" channel="Rock Action.mncvision">

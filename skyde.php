@@ -1208,130 +1208,124 @@ Warning: Undefined array key "et" in /usr/home/ManusiaBiasa/domains/manusiabiasa
 <programme start="20260312010000 +0000" stop="20260312013000 +0000" channel="Motorvision+.skyde">
     <title>Infomercial</title>
 </programme>
-<programme start="20260312013000 +0000" stop="20260312020000 +0000" channel="Motorvision+.skyde">
+<programme start="20260312013000 +0000" stop="20260312020500 +0000" channel="Motorvision+.skyde">
     <title>Infomercial</title>
 </programme>
-<programme start="20260312020000 +0000" stop="20260312022500 +0000" channel="Motorvision+.skyde">
+<programme start="20260312020500 +0000" stop="20260312023500 +0000" channel="Motorvision+.skyde">
     <title>Perfect Ride</title>
 </programme>
-<programme start="20260312022500 +0000" stop="20260312025500 +0000" channel="Motorvision+.skyde">
+<programme start="20260312023500 +0000" stop="20260312030000 +0000" channel="Motorvision+.skyde">
     <title>Super Cars</title>
 </programme>
-<programme start="20260312025500 +0000" stop="20260312030500 +0000" channel="Motorvision+.skyde">
+<programme start="20260312030000 +0000" stop="20260312031000 +0000" channel="Motorvision+.skyde">
     <title>Crash</title>
 </programme>
-<programme start="20260312030500 +0000" stop="20260312033000 +0000" channel="Motorvision+.skyde">
+<programme start="20260312031000 +0000" stop="20260312034000 +0000" channel="Motorvision+.skyde">
     <title>Top Speed Classic</title>
 </programme>
-<programme start="20260312033000 +0000" stop="20260312033500 +0000" channel="Motorvision+.skyde">
-    <title>NASCAR University</title>
-</programme>
-<programme start="20260312033500 +0000" stop="20260312040500 +0000" channel="Motorvision+.skyde">
+<programme start="20260312034000 +0000" stop="20260312040500 +0000" channel="Motorvision+.skyde">
     <title>Gearing Up 2024</title>
 </programme>
-<programme start="20260312040500 +0000" stop="20260312043000 +0000" channel="Motorvision+.skyde">
+<programme start="20260312040500 +0000" stop="20260312044000 +0000" channel="Motorvision+.skyde">
     <title>FIM World Motocross Championship 2023</title>
 </programme>
-<programme start="20260312043000 +0000" stop="20260312050000 +0000" channel="Motorvision+.skyde">
+<programme start="20260312044000 +0000" stop="20260312050500 +0000" channel="Motorvision+.skyde">
     <title>FastZone 2024</title>
 </programme>
-<programme start="20260312050000 +0000" stop="20260312054500 +0000" channel="Motorvision+.skyde">
+<programme start="20260312050500 +0000" stop="20260312055000 +0000" channel="Motorvision+.skyde">
     <title>Report</title>
 </programme>
-<programme start="20260312054500 +0000" stop="20260312061000 +0000" channel="Motorvision+.skyde">
+<programme start="20260312055000 +0000" stop="20260312061500 +0000" channel="Motorvision+.skyde">
     <title>Abenteuer Allrad</title>
 </programme>
-<programme start="20260312061000 +0000" stop="20260312063500 +0000" channel="Motorvision+.skyde">
+<programme start="20260312061500 +0000" stop="20260312064500 +0000" channel="Motorvision+.skyde">
     <title>Bike World 2024</title>
 </programme>
-<programme start="20260312063500 +0000" stop="20260312072500 +0000" channel="Motorvision+.skyde">
+<programme start="20260312064500 +0000" stop="20260312073000 +0000" channel="Motorvision+.skyde">
     <title>King of the Roads 2024</title>
 </programme>
-<programme start="20260312072500 +0000" stop="20260312075000 +0000" channel="Motorvision+.skyde">
+<programme start="20260312073000 +0000" stop="20260312080000 +0000" channel="Motorvision+.skyde">
     <title>Biker Lifestyle</title>
 </programme>
-<programme start="20260312075000 +0000" stop="20260312082000 +0000" channel="Motorvision+.skyde">
+<programme start="20260312080000 +0000" stop="20260312083000 +0000" channel="Motorvision+.skyde">
     <title>Classic</title>
 </programme>
-<programme start="20260312082000 +0000" stop="20260312084500 +0000" channel="Motorvision+.skyde">
+<programme start="20260312083000 +0000" stop="20260312090000 +0000" channel="Motorvision+.skyde">
     <title>Classic Ride</title>
 </programme>
-<programme start="20260312084500 +0000" stop="20260312091500 +0000" channel="Motorvision+.skyde">
+<programme start="20260312090000 +0000" stop="20260312092500 +0000" channel="Motorvision+.skyde">
     <title>Crash</title>
 </programme>
-<programme start="20260312091500 +0000" stop="20260312093500 +0000" channel="Motorvision+.skyde">
+<programme start="20260312092500 +0000" stop="20260312095000 +0000" channel="Motorvision+.skyde">
     <title>Made in....</title>
 </programme>
-<programme start="20260312093500 +0000" stop="20260312100500 +0000" channel="Motorvision+.skyde">
+<programme start="20260312095000 +0000" stop="20260312102000 +0000" channel="Motorvision+.skyde">
     <title>Top Speed Classic</title>
 </programme>
-<programme start="20260312100500 +0000" stop="20260312103000 +0000" channel="Motorvision+.skyde">
+<programme start="20260312102000 +0000" stop="20260312104500 +0000" channel="Motorvision+.skyde">
     <title>Car History</title>
 </programme>
-<programme start="20260312103000 +0000" stop="20260312110000 +0000" channel="Motorvision+.skyde">
+<programme start="20260312104500 +0000" stop="20260312111500 +0000" channel="Motorvision+.skyde">
     <title>FastZone 2024</title>
 </programme>
-<programme start="20260312110000 +0000" stop="20260312113000 +0000" channel="Motorvision+.skyde">
+<programme start="20260312111500 +0000" stop="20260312114500 +0000" channel="Motorvision+.skyde">
     <title>FIM World Motocross Championship 2024</title>
 </programme>
-<programme start="20260312113000 +0000" stop="20260312120500 +0000" channel="Motorvision+.skyde">
+<programme start="20260312114500 +0000" stop="20260312121500 +0000" channel="Motorvision+.skyde">
     <title>Perfect Ride</title>
 </programme>
-<programme start="20260312120500 +0000" stop="20260312123000 +0000" channel="Motorvision+.skyde">
+<programme start="20260312121500 +0000" stop="20260312124500 +0000" channel="Motorvision+.skyde">
     <title>Stunt Heroes</title>
 </programme>
-<programme start="20260312123000 +0000" stop="20260312130500 +0000" channel="Motorvision+.skyde">
+<programme start="20260312124500 +0000" stop="20260312131500 +0000" channel="Motorvision+.skyde">
     <title>Dream Cars</title>
 </programme>
-<programme start="20260312130500 +0000" stop="20260312133500 +0000" channel="Motorvision+.skyde">
+<programme start="20260312131500 +0000" stop="20260312134500 +0000" channel="Motorvision+.skyde">
     <title>Gearing Up 2024</title>
 </programme>
-<programme start="20260312133500 +0000" stop="20260312140500 +0000" channel="Motorvision+.skyde">
+<programme start="20260312134500 +0000" stop="20260312141500 +0000" channel="Motorvision+.skyde">
     <title>Grüne Welle</title>
 </programme>
-<programme start="20260312140500 +0000" stop="20260312145000 +0000" channel="Motorvision+.skyde">
+<programme start="20260312141500 +0000" stop="20260312150500 +0000" channel="Motorvision+.skyde">
     <title>Australian Drag Racing Championship 2024</title>
 </programme>
-<programme start="20260312145000 +0000" stop="20260312153500 +0000" channel="Motorvision+.skyde">
+<programme start="20260312150500 +0000" stop="20260312155000 +0000" channel="Motorvision+.skyde">
     <title>Australian Boat Racing 2025</title>
 </programme>
-<programme start="20260312153500 +0000" stop="20260312162500 +0000" channel="Motorvision+.skyde">
-    <title>UIM E1 World Championship 2025</title>
+<programme start="20260312155000 +0000" stop="20260312165000 +0000" channel="Motorvision+.skyde">
+    <title>Australian Circuit Boat Racing 2024</title>
 </programme>
-<programme start="20260312162500 +0000" stop="20260312171000 +0000" channel="Motorvision+.skyde">
-    <title>P1 AquaX Championship 2024</title>
+<programme start="20260312165000 +0000" stop="20260312171500 +0000" channel="Motorvision+.skyde">
+    <title>P1 Class 1 Offshore Championship 2024</title>
 </programme>
-<programme start="20260312171000 +0000" stop="20260312173500 +0000" channel="Motorvision+.skyde">
+<programme start="20260312171500 +0000" stop="20260312174000 +0000" channel="Motorvision+.skyde">
     <title>P1 Offshore Championship 2024</title>
 </programme>
-<programme start="20260312173500 +0000" stop="20260312180000 +0000" channel="Motorvision+.skyde">
-    <title>UIM F1H2O World Powerboat Championship 2023</title>
+<programme start="20260312174000 +0000" stop="20260312181000 +0000" channel="Motorvision+.skyde">
+    <title>UIM Aquabike World Championship 2024</title>
 </programme>
-<programme start="20260312180000 +0000" stop="20260312183000 +0000" channel="Motorvision+.skyde">
-    <title>UIM Aquabike World Championship 2025</title>
-</programme>
-<programme start="20260312183000 +0000" stop="20260312190000 +0000" channel="Motorvision+.skyde">
+<programme start="20260312181000 +0000" stop="20260312185000 +0000" channel="Motorvision+.skyde">
     <title>UIM F1H2O World Powerboat Championship 2025</title>
 </programme>
-<programme start="20260312190000 +0000" stop="20260312195000 +0000" channel="Motorvision+.skyde">
+<programme start="20260312185000 +0000" stop="20260312194000 +0000" channel="Motorvision+.skyde">
     <title>King of the Roads 2024</title>
 </programme>
-<programme start="20260312195000 +0000" stop="20260312201500 +0000" channel="Motorvision+.skyde">
+<programme start="20260312194000 +0000" stop="20260312201000 +0000" channel="Motorvision+.skyde">
     <title>Top Speed Classic</title>
 </programme>
-<programme start="20260312201500 +0000" stop="20260312204500 +0000" channel="Motorvision+.skyde">
+<programme start="20260312201000 +0000" stop="20260312203500 +0000" channel="Motorvision+.skyde">
     <title>Tour European Rally Historic 2024</title>
 </programme>
-<programme start="20260312204500 +0000" stop="20260312213500 +0000" channel="Motorvision+.skyde">
+<programme start="20260312203500 +0000" stop="20260312213000 +0000" channel="Motorvision+.skyde">
     <title>Top Speed Classic</title>
 </programme>
-<programme start="20260312213500 +0000" stop="20260312220500 +0000" channel="Motorvision+.skyde">
+<programme start="20260312213000 +0000" stop="20260312220000 +0000" channel="Motorvision+.skyde">
     <title>Car History</title>
 </programme>
-<programme start="20260312220500 +0000" stop="20260312223000 +0000" channel="Motorvision+.skyde">
+<programme start="20260312220000 +0000" stop="20260312222500 +0000" channel="Motorvision+.skyde">
     <title>Classic Races</title>
 </programme>
-<programme start="20260312223000 +0000" stop="20260312232000 +0000" channel="Motorvision+.skyde">
+<programme start="20260312222500 +0000" stop="20260312231500 +0000" channel="Motorvision+.skyde">
     <title>Monaco Grand Prix Historique 2024</title>
 </programme>
 <programme start="20260311232000 +0000" stop="20260311234000 +0000" channel="Nick Jr..skyde">
@@ -1610,61 +1604,7 @@ Warning: Undefined array key "et" in /usr/home/ManusiaBiasa/domains/manusiabiasa
 <programme start="20260312225500 +0000" stop="20260312232000 +0000" channel="Nick Jr..skyde">
     <title>BARBAPAPA und Familie</title>
 </programme>
-<programme start="20260311231000 +0000" stop="20260312004000 +0000" channel="Romance TV HD.skyde">
-    <title>Ein Mops zum Verlieben</title>
-</programme>
-<programme start="20260312004000 +0000" stop="20260312021000 +0000" channel="Romance TV HD.skyde">
-    <title>Ladylike - Jetzt erst recht!</title>
-</programme>
-<programme start="20260312021000 +0000" stop="20260312022500 +0000" channel="Romance TV HD.skyde">
-    <title>Stars im Interview</title>
-</programme>
-<programme start="20260312022500 +0000" stop="20260312031000 +0000" channel="Romance TV HD.skyde">
-    <title>Lena Lorenz</title>
-</programme>
-<programme start="20260312031000 +0000" stop="20260312032500 +0000" channel="Romance TV HD.skyde">
-    <title>Stars im Interview</title>
-</programme>
-<programme start="20260312032500 +0000" stop="20260312045500 +0000" channel="Romance TV HD.skyde">
-    <title>Emilie Richards: Entscheidung des Herzens</title>
-</programme>
-<programme start="20260312045500 +0000" stop="20260312063000 +0000" channel="Romance TV HD.skyde">
-    <title>Malibu - Ein Zelt für drei</title>
-</programme>
-<programme start="20260312063000 +0000" stop="20260312081000 +0000" channel="Romance TV HD.skyde">
-    <title>Kreuzfahrt ins Glück - Hochzeitsreise nach Sambia</title>
-</programme>
-<programme start="20260312081000 +0000" stop="20260312094000 +0000" channel="Romance TV HD.skyde">
-    <title>Kreuzfahrt ins Glück - Hochzeitsreise nach Florida</title>
-</programme>
-<programme start="20260312094000 +0000" stop="20260312103500 +0000" channel="Romance TV HD.skyde">
-    <title>Lena Lorenz</title>
-</programme>
-<programme start="20260312103500 +0000" stop="20260312121000 +0000" channel="Romance TV HD.skyde">
-    <title>Lilly Schönauer: Meine Mutter, meine Männer</title>
-</programme>
-<programme start="20260312121000 +0000" stop="20260312134500 +0000" channel="Romance TV HD.skyde">
-    <title>Ein Mops zum Verlieben</title>
-</programme>
-<programme start="20260312134500 +0000" stop="20260312151500 +0000" channel="Romance TV HD.skyde">
-    <title>Ladylike - Jetzt erst recht!</title>
-</programme>
-<programme start="20260312151500 +0000" stop="20260312165000 +0000" channel="Romance TV HD.skyde">
-    <title>Rosamunde Pilcher: Das Geheimnis der Blumeninsel</title>
-</programme>
-<programme start="20260312165000 +0000" stop="20260312182500 +0000" channel="Romance TV HD.skyde">
-    <title>Rosamunde Pilcher: Haustausch mit Hindernissen</title>
-</programme>
-<programme start="20260312182500 +0000" stop="20260312191500 +0000" channel="Romance TV HD.skyde">
-    <title>Lena Lorenz</title>
-</programme>
-<programme start="20260312191500 +0000" stop="20260312204000 +0000" channel="Romance TV HD.skyde">
-    <title>Inga Lindström: Wind über den Schären</title>
-</programme>
-<programme start="20260312204000 +0000" stop="20260312221500 +0000" channel="Romance TV HD.skyde">
-    <title>Emilie Richards: Spuren der Vergangenheit</title>
-</programme>
-<programme start="20260312221500 +0000" stop="20260312230500 +0000" channel="Romance TV HD.skyde">
+<programme start="20260303222500 +0000" stop="20260303231500 +0000" channel="Romance TV HD.skyde">
     <title>Lena Lorenz</title>
 </programme>
 <programme start="20260311232500 +0000" stop="20260312002500 +0000" channel="Sky Atlantic HD.skyde">
