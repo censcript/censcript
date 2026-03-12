@@ -2654,6 +2654,15 @@ Warning: Undefined array key "et" in /usr/home/ManusiaBiasa/domains/manusiabiasa
 <programme start="20260312195000 +0000" stop="20260312220000 +0000" channel="Sky Sport Austria 2 HD.skyde">
     <title>Live UEFA EL: KRC Genk - SC Freiburg, Achtelfinale, Hinspiel</title>
 </programme>
+<programme start="20260312171500 +0000" stop="20260312173500 +0000" channel="Sky Sport Austria 3 HD.skyde">
+    <title>Es folgt: UEFA Europa League</title>
+</programme>
+<programme start="20260312173500 +0000" stop="20260312195000 +0000" channel="Sky Sport Austria 3 HD.skyde">
+    <title>Live UEFA EL: LOSC Lille - Aston Villa, Achtelfinale, Hinspiel</title>
+</programme>
+<programme start="20260312195000 +0000" stop="20260312220000 +0000" channel="Sky Sport Austria 3 HD.skyde">
+    <title>Live UEFA ECL: Crystal Palace - AEK Larnaka, Achtelfinale, Hinspiel</title>
+</programme>
 <programme start="20260312171500 +0000" stop="20260312173500 +0000" channel="Sky Sport Austria 4 HD.skyde">
     <title>Es folgt: UEFA Europa League</title>
 </programme>
