@@ -2608,7 +2608,7 @@ Warning: Undefined array key "et" in /usr/home/ManusiaBiasa/domains/manusiabiasa
     <title>Admiral BL: 90in30: SCR - RBS, 22. Runde</title>
 </programme>
 <programme start="20260313154500 +0000" stop="20260313173000 +0000" channel="Sky Sport Austria 1 HD.skyde">
-    <title>Fußball: Klassiker der Woche</title>
+    <title>Fußball: Klassiker der Woche: FAK - STU (Saison 2012/13)</title>
 </programme>
 <programme start="20260313173000 +0000" stop="20260313180000 +0000" channel="Sky Sport Austria 1 HD.skyde">
     <title>Admiral BL: ASAT Kompakt, 22. Runde</title>
@@ -3588,10 +3588,10 @@ Warning: Undefined array key "et" in /usr/home/ManusiaBiasa/domains/manusiabiasa
 <programme start="20260313055500 +0000" stop="20260313060500 +0000" channel="Sky Sport UHD.skyde">
     <title>F1: Jessica Hawkins im AMR21</title>
 </programme>
-<programme start="20260313060500 +0000" stop="20260313065500 +0000" channel="Sky Sport UHD.skyde">
+<programme start="20260313060500 +0000" stop="20260313064500 +0000" channel="Sky Sport UHD.skyde">
     <title>Live F1 Academy: Qualifying - GP China</title>
 </programme>
-<programme start="20260313065500 +0000" stop="20260313071500 +0000" channel="Sky Sport UHD.skyde">
+<programme start="20260313064500 +0000" stop="20260313071500 +0000" channel="Sky Sport UHD.skyde">
     <title>F1: GP Confidential</title>
 </programme>
 <programme start="20260313071500 +0000" stop="20260313084500 +0000" channel="Sky Sport UHD.skyde">
@@ -3603,10 +3603,10 @@ Warning: Undefined array key "et" in /usr/home/ManusiaBiasa/domains/manusiabiasa
 <programme start="20260313094500 +0000" stop="20260313100000 +0000" channel="Sky Sport UHD.skyde">
     <title>Info: UHD</title>
 </programme>
-<programme start="20260313000000 +0000" stop="20260313020000 +0000" channel="Sky Sport 1 HD.skyde">
+<programme start="20260313000000 +0000" stop="20260313021000 +0000" channel="Sky Sport 1 HD.skyde">
     <title>Live ATP 1000: J. Draper (GBR) - D. Medvedev, BNP Paribas Open in Indian Wells, Kalifornien (USA), Viertelfinale 3</title>
 </programme>
-<programme start="20260313020000 +0000" stop="20260313085000 +0000" channel="Sky Sport 1 HD.skyde">
+<programme start="20260313021000 +0000" stop="20260313054500 +0000" channel="Sky Sport 1 HD.skyde">
     <title>Live ATP 1000: C. Alcaraz (ESP) - C. Norrie (GBR), BNP Paribas Open in Indian Wells, Kalifornien (USA), Viertelfinale 4</title>
 </programme>
 <programme start="20260313090000 +0000" stop="20260313090500 +0000" channel="Sky Sport 1 HD.skyde">
@@ -3897,7 +3897,7 @@ Warning: Undefined array key "et" in /usr/home/ManusiaBiasa/domains/manusiabiasa
 <programme start="20260313165500 +0000" stop="20260313170000 +0000" channel="Sky Sport 1 HD.skyde">
     <title>Test SPORT 01 with BO-ALLGEMEIN</title>
 </programme>
-<programme start="20260313000000 +0000" stop="20260313090000 +0000" channel="Sky Sport 2 HD.skyde">
+<programme start="20260313003500 +0000" stop="20260313023000 +0000" channel="Sky Sport 2 HD.skyde">
     <title>Live WTA 1000: J. Pegula (USA) - E. Rybakina (KAZ), BNP Paribas Open in Indian Wells, Kalifornien (USA), Viertelfinale 4</title>
 </programme>
 <programme start="20260313193000 +0000" stop="20260313195000 +0000" channel="Sky Sport 6 HD.skyde">
