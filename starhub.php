@@ -3950,7 +3950,7 @@
         <title>His Majesty the Emperor Emeritus&#039;s Research on Gobies</title>
     </programme>
     <programme start="20260314153000 +0000" stop="20260314163000 +0000" channel="NHK World Premium HD.starhub">
-        <title>Rokkaku Seiji&#039;s Nomitetsu Railroad Trip: Northern Line, State Railway of Thailan</title>
+        <title>Rokkaku Seiji&#039;s Nomitetsu Railroad Trip: Northern Line, State Railway of Thailand Part 1</title>
     </programme>
     <programme start="20260313143500 +0000" stop="20260313164500 +0000" channel="HBO HD.starhub">
         <title>Superman</title>
