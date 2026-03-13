@@ -3603,10 +3603,10 @@ Warning: Undefined array key "et" in /usr/home/ManusiaBiasa/domains/manusiabiasa
 <programme start="20260313094500 +0000" stop="20260313100000 +0000" channel="Sky Sport UHD.skyde">
     <title>Info: UHD</title>
 </programme>
-<programme start="20260313000000 +0000" stop="20260313021000 +0000" channel="Sky Sport 1 HD.skyde">
+<programme start="20260313000000 +0000" stop="20260313020000 +0000" channel="Sky Sport 1 HD.skyde">
     <title>Live ATP 1000: J. Draper (GBR) - D. Medvedev, BNP Paribas Open in Indian Wells, Kalifornien (USA), Viertelfinale 3</title>
 </programme>
-<programme start="20260313021000 +0000" stop="20260313054500 +0000" channel="Sky Sport 1 HD.skyde">
+<programme start="20260313020000 +0000" stop="20260313085000 +0000" channel="Sky Sport 1 HD.skyde">
     <title>Live ATP 1000: C. Alcaraz (ESP) - C. Norrie (GBR), BNP Paribas Open in Indian Wells, Kalifornien (USA), Viertelfinale 4</title>
 </programme>
 <programme start="20260313090000 +0000" stop="20260313090500 +0000" channel="Sky Sport 1 HD.skyde">
@@ -3903,7 +3903,7 @@ Warning: Undefined array key "et" in /usr/home/ManusiaBiasa/domains/manusiabiasa
 <programme start="20260313193000 +0000" stop="20260313195000 +0000" channel="Sky Sport 6 HD.skyde">
     <title>Es folgt: LIVE EFL</title>
 </programme>
-<programme start="20260313195000 +0000" stop="20260313220000 +0000" channel="Sky Sport 6 HD.skyde">
+<programme start="20260313195000 +0000" stop="20260313223000 +0000" channel="Sky Sport 6 HD.skyde">
     <title>Live EFL: AFC Wrexham - Swansea City, 38. Spieltag</title>
 </programme>
 <programme start="20260312230000 +0000" stop="20260312234500 +0000" channel="SYFY HD.skyde">
@@ -4209,10 +4209,10 @@ Warning: Undefined array key "et" in /usr/home/ManusiaBiasa/domains/manusiabiasa
 <programme start="20260313131000 +0000" stop="20260313133500 +0000" channel="Warner TV Comedy HD.skyde">
     <title>King of Queens</title>
 </programme>
-<programme start="20260313133500 +0000" stop="20260313140000 +0000" channel="Warner TV Comedy HD.skyde">
+<programme start="20260313133500 +0000" stop="20260313135500 +0000" channel="Warner TV Comedy HD.skyde">
     <title>King of Queens</title>
 </programme>
-<programme start="20260313140000 +0000" stop="20260313142000 +0000" channel="Warner TV Comedy HD.skyde">
+<programme start="20260313135500 +0000" stop="20260313142000 +0000" channel="Warner TV Comedy HD.skyde">
     <title>King of Queens</title>
 </programme>
 <programme start="20260313142000 +0000" stop="20260313144500 +0000" channel="Warner TV Comedy HD.skyde">
@@ -4233,13 +4233,13 @@ Warning: Undefined array key "et" in /usr/home/ManusiaBiasa/domains/manusiabiasa
 <programme start="20260313162500 +0000" stop="20260313165000 +0000" channel="Warner TV Comedy HD.skyde">
     <title>Two and a Half Men</title>
 </programme>
-<programme start="20260313165000 +0000" stop="20260313171500 +0000" channel="Warner TV Comedy HD.skyde">
+<programme start="20260313165000 +0000" stop="20260313171000 +0000" channel="Warner TV Comedy HD.skyde">
     <title>2 Broke Girls</title>
 </programme>
-<programme start="20260313171500 +0000" stop="20260313174000 +0000" channel="Warner TV Comedy HD.skyde">
+<programme start="20260313171000 +0000" stop="20260313173500 +0000" channel="Warner TV Comedy HD.skyde">
     <title>2 Broke Girls</title>
 </programme>
-<programme start="20260313174000 +0000" stop="20260313180000 +0000" channel="Warner TV Comedy HD.skyde">
+<programme start="20260313173500 +0000" stop="20260313180000 +0000" channel="Warner TV Comedy HD.skyde">
     <title>The Big Bang Theory</title>
 </programme>
 <programme start="20260313180000 +0000" stop="20260313182500 +0000" channel="Warner TV Comedy HD.skyde">

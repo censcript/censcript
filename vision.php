@@ -715,6 +715,18 @@
 <programme start="20260313090000 +0000" stop="20260313110000 +0000" channel="ANTV.vision">
 <title>Vasudha</title>
 </programme>
+<programme start="20260313110000 +0000" stop="20260313130000 +0000" channel="ANTV.vision">
+<title>Pesanggrahan Keramat</title>
+</programme>
+<programme start="20260313130000 +0000" stop="20260313150000 +0000" channel="ANTV.vision">
+<title>Jin Galunggung</title>
+</programme>
+<programme start="20260313150000 +0000" stop="20260313170000 +0000" channel="ANTV.vision">
+<title>Pencet Sana Pencet Sini</title>
+</programme>
+<programme start="20260313170000 +0000" stop="20260313183000 +0000" channel="ANTV.vision">
+<title>Armageddon</title>
+</programme>
 <programme start="20260313183000 +0000" stop="20260313193000 +0000" channel="ANTV.vision">
 <title>Hitman File</title>
 </programme>
@@ -1485,16 +1497,4 @@
 </programme>
 <programme start="20260313163000 +0000" stop="20260313173000 +0000" channel="BTV.vision">
 <title>ONE Vault</title>
-</programme>
-<programme start="20260313173000 +0000" stop="20260313180000 +0000" channel="BTV.vision">
-<title>Berita Viral</title>
-</programme>
-<programme start="20260313180000 +0000" stop="20260313180300 +0000" channel="BTV.vision">
-<title>Tanah Airku</title>
-</programme>
-<programme start="20260313180300 +0000" stop="20260313193000 +0000" channel="BTV.vision">
-<title>Berita Satu Utama</title>
-</programme>
-<programme start="20260313193000 +0000" stop="20260313210000 +0000" channel="BTV.vision">
-<title>Jalan Dakwah Ramadan</title>
 </programme>
