@@ -4187,7 +4187,7 @@
     <episode-num system="xmltv_ns">0.3.</episode-num>
     <episode-num system="onscreen">S1E4</episode-num>
   </programme>
-  <programme start="20260313085000 +0000" stop="20260313100500 +0000" channel="cctv4hd.unifitv">
+  <programme start="20260313085000 +0000" stop="20260313090500 +0000" channel="cctv4hd.unifitv">
     <title lang="en">Po Xiao Dong Fang</title>
     <desc lang="en">CCTV-4 TV DRAMA</desc>
     <category lang="en">DRAMA</category>

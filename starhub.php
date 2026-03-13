@@ -8135,7 +8135,7 @@
         <title>Highlights 1</title>
     </programme>
     <programme start="20260313075500 +0000" stop="20260313100000 +0000" channel="SPOTV2.starhub">
-        <title>25/26 A-League Men Round 21 Brisbane Roar FC vs Western Sydney Wanderers FC (Live)</title>
+        <title>25/26 A-League Men Round 21 Brisbane Roar FC vs Western Sydney Wanderers FC (Liv</title>
     </programme>
     <programme start="20260313100000 +0000" stop="20260313103000 +0000" channel="SPOTV2.starhub">
         <title>2025/26 ALM Mini Match Rd 20 Newcastle Jets FC vs Western Sydney Wanderers FC</title>

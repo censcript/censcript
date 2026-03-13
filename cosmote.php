@@ -74,10 +74,6 @@
     <title>Football: ACF Fiorentina - Rakow Czestochowa</title>
     <desc>Live: Tidak</desc>
 </programme>
-<programme start="20260313100000 +0700" stop="20260313120000 +0700" channel="COSMOTE Sport 2 HD">
-    <title>Football: Crystal Palace - AEK Larnaca</title>
-    <desc>Live: Tidak</desc>
-</programme>
 <programme start="20260313120000 +0700" stop="20260313140000 +0700" channel="COSMOTE Sport 2 HD">
     <title>Football: Bologna - AS Roma</title>
     <desc>Live: Tidak</desc>
@@ -132,6 +128,10 @@
 </programme>
 <programme start="20260314094000 +0700" stop="20260314120000 +0700" channel="COSMOTE Sport 2 HD">
     <title>Football: Panetolikos - Kifisia</title>
+    <desc>Live: Tidak</desc>
+</programme>
+<programme start="20260314120000 +0700" stop="20260314141500 +0700" channel="COSMOTE Sport 2 HD">
+    <title>Football: Volos NPS - OFI</title>
     <desc>Live: Tidak</desc>
 </programme>
 <programme start="20260313110000 +0700" stop="20260313130000 +0700" channel="COSMOTE Sport 3 HD">
@@ -262,10 +262,6 @@
     <title>Basketball: Badalona - Wurzburg</title>
     <desc>Live: Tidak</desc>
 </programme>
-<programme start="20260313110000 +0700" stop="20260313113000 +0700" channel="COSMOTE Sport 5 HD">
-    <title>Sports Classics: Gearing Up 2026 E2</title>
-    <desc>Live: Tidak</desc>
-</programme>
 <programme start="20260313113000 +0700" stop="20260313124500 +0700" channel="COSMOTE Sport 5 HD">
     <title>WRC 2026 (L)</title>
     <desc>Live: Ya</desc>
@@ -370,6 +366,10 @@
     <title>WRC 2026</title>
     <desc>Live: Tidak</desc>
 </programme>
+<programme start="20260314123500 +0700" stop="20260314133000 +0700" channel="COSMOTE Sport 5 HD">
+    <title>WRC 2026 (L)</title>
+    <desc>Live: Ya</desc>
+</programme>
 <programme start="20260313110000 +0700" stop="20260313131000 +0700" channel="COSMOTE Sport 6 HD">
     <title>World Athletics Indoor Tour Gold 2026</title>
     <desc>Live: Tidak</desc>
@@ -414,12 +414,8 @@
     <title>ATP 500 2026 - Highlights</title>
     <desc>Live: Tidak</desc>
 </programme>
-<programme start="20260313090000 +0700" stop="20260313113000 +0700" channel="COSMOTE Sport 7 HD">
-    <title>Tennis: Carlos Alcaraz - Cameron Norrie (L)</title>
-    <desc>Live: Ya</desc>
-</programme>
-<programme start="20260313113000 +0700" stop="20260313120000 +0700" channel="COSMOTE Sport 7 HD">
-    <title>COSMOTESport7HD</title>
+<programme start="20260314120000 +0700" stop="20260314160000 +0700" channel="COSMOTE Sport 6 HD">
+    <title>Tennis: ATP Masters 1000 2026</title>
     <desc>Live: Tidak</desc>
 </programme>
 <programme start="20260313120000 +0700" stop="20260313130000 +0700" channel="COSMOTE Sport 7 HD">
