@@ -1459,7 +1459,7 @@
 <programme start="20260313033000 +0000" stop="20260313040000 +0000" channel="BTV.vision">
 <title>Indonesia Update Dari Nol</title>
 </programme>
-<programme start="20260313040000 +0000" stop="20260313050000 +0000" channel="BTV.vision">
+<programme start="20260313040000 +0000" stop="20260313060000 +0000" channel="BTV.vision">
 <title>Berita Satu Siang</title>
 </programme>
 <programme start="20260313050000 +0000" stop="20260313050500 +0000" channel="BTV.vision">
