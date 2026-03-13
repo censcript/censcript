@@ -1,5 +1,201 @@
-Error: Unable to fetch data. HTTP Status Code: 500
-Error: Unable to fetch data. HTTP Status Code: 500
+<programme start="20260312180000 +0000" stop="20260312190000 +0000" channel="ABC Australia.mncvision">
+    <title>The World</title>
+</programme>
+<programme start="20260312190000 +0000" stop="20260312200000 +0000" channel="ABC Australia.mncvision">
+    <title>News Breakfast</title>
+</programme>
+<programme start="20260312200000 +0000" stop="20260312220000 +0000" channel="ABC Australia.mncvision">
+    <title>News Breakfast</title>
+</programme>
+<programme start="20260312220000 +0000" stop="20260313010000 +0000" channel="ABC Australia.mncvision">
+    <title>ABC News Mornings</title>
+</programme>
+<programme start="20260313010000 +0000" stop="20260313020000 +0000" channel="ABC Australia.mncvision">
+    <title>ABC News At Noon</title>
+</programme>
+<programme start="20260313020000 +0000" stop="20260313030000 +0000" channel="ABC Australia.mncvision">
+    <title>Gardening Australia</title>
+</programme>
+<programme start="20260313030000 +0000" stop="20260313032000 +0000" channel="ABC Australia.mncvision">
+    <title>The Chef&#039;s Garden</title>
+</programme>
+<programme start="20260313032000 +0000" stop="20260313035500 +0000" channel="ABC Australia.mncvision">
+    <title>On Country Kitchen</title>
+</programme>
+<programme start="20260313035500 +0000" stop="20260313042500 +0000" channel="ABC Australia.mncvision">
+    <title>The Pacific</title>
+</programme>
+<programme start="20260313042500 +0000" stop="20260313045500 +0000" channel="ABC Australia.mncvision">
+    <title>That Pacific Sports Show</title>
+</programme>
+<programme start="20260313045500 +0000" stop="20260313053000 +0000" channel="ABC Australia.mncvision">
+    <title>Crime Night!</title>
+</programme>
+<programme start="20260313053000 +0000" stop="20260313060000 +0000" channel="ABC Australia.mncvision">
+    <title>Stuff The British Stole</title>
+</programme>
+<programme start="20260313060000 +0000" stop="20260313070000 +0000" channel="ABC Australia.mncvision">
+    <title>ABC News With Joe O&#039;Brien</title>
+</programme>
+<programme start="20260313070000 +0000" stop="20260313080000 +0000" channel="ABC Australia.mncvision">
+    <title>Gardening Australia</title>
+</programme>
+<programme start="20260313080000 +0000" stop="20260313083000 +0000" channel="ABC Australia.mncvision">
+    <title>ABC National News</title>
+</programme>
+<programme start="20260313083000 +0000" stop="20260313113000 +0000" channel="ABC Australia.mncvision">
+    <title>AFL: Essendon Vs Hawthorn</title>
+</programme>
+<programme start="20260313113000 +0000" stop="20260313120000 +0000" channel="ABC Australia.mncvision">
+    <title>Crime Night!</title>
+</programme>
+<programme start="20260313120000 +0000" stop="20260313123000 +0000" channel="ABC Australia.mncvision">
+    <title>Stuff The British Stole</title>
+</programme>
+<programme start="20260313123000 +0000" stop="20260313130000 +0000" channel="ABC Australia.mncvision">
+    <title>Australian Story</title>
+</programme>
+<programme start="20260313130000 +0000" stop="20260313133000 +0000" channel="ABC Australia.mncvision">
+    <title>ABC Late News</title>
+</programme>
+<programme start="20260313133000 +0000" stop="20260313140000 +0000" channel="ABC Australia.mncvision">
+    <title>Asia News Week</title>
+</programme>
+<programme start="20260313140000 +0000" stop="20260313143000 +0000" channel="ABC Australia.mncvision">
+    <title>The World</title>
+</programme>
+<programme start="20260313143000 +0000" stop="20260313153000 +0000" channel="ABC Australia.mncvision">
+    <title>Gardening Australia</title>
+</programme>
+<programme start="20260313153000 +0000" stop="20260313155500 +0000" channel="ABC Australia.mncvision">
+    <title>The Chef&#039;s Garden</title>
+</programme>
+<programme start="20260313155500 +0000" stop="20260313162000 +0000" channel="ABC Australia.mncvision">
+    <title>On Country Kitchen</title>
+</programme>
+<programme start="20260313162000 +0000" stop="20260313165000 +0000" channel="ABC Australia.mncvision">
+    <title>Crime Night!</title>
+</programme>
+<programme start="20260313165000 +0000" stop="20260312172000 +0000" channel="ABC Australia.mncvision">
+    <title>Stuff The British Stole</title>
+</programme>
+<programme start="20260312170000 +0000" stop="20260312173000 +0000" channel="Al Jazeera English.mncvision">
+    <title>News (L)</title>
+</programme>
+<programme start="20260312173000 +0000" stop="20260312180000 +0000" channel="Al Jazeera English.mncvision">
+    <title>Inside Story</title>
+</programme>
+<programme start="20260312180000 +0000" stop="20260312190000 +0000" channel="Al Jazeera English.mncvision">
+    <title>NewsHour</title>
+</programme>
+<programme start="20260312190000 +0000" stop="20260312193000 +0000" channel="Al Jazeera English.mncvision">
+    <title>News (L)</title>
+</programme>
+<programme start="20260312193000 +0000" stop="20260312200000 +0000" channel="Al Jazeera English.mncvision">
+    <title>The Stream</title>
+</programme>
+<programme start="20260312200000 +0000" stop="20260312210000 +0000" channel="Al Jazeera English.mncvision">
+    <title>Gaza: A Forever War</title>
+</programme>
+<programme start="20260312210000 +0000" stop="20260312220000 +0000" channel="Al Jazeera English.mncvision">
+    <title>NewsHour</title>
+</programme>
+<programme start="20260312220000 +0000" stop="20260312223000 +0000" channel="Al Jazeera English.mncvision">
+    <title>News (L)</title>
+</programme>
+<programme start="20260312223000 +0000" stop="20260312230000 +0000" channel="Al Jazeera English.mncvision">
+    <title>101 East: Nepal&#039;s Deadly Skies</title>
+</programme>
+<programme start="20260312230000 +0000" stop="20260312233000 +0000" channel="Al Jazeera English.mncvision">
+    <title>News (L)</title>
+</programme>
+<programme start="20260312233000 +0000" stop="20260313000000 +0000" channel="Al Jazeera English.mncvision">
+    <title>Inside Story</title>
+</programme>
+<programme start="20260313000000 +0000" stop="20260313010000 +0000" channel="Al Jazeera English.mncvision">
+    <title>NewsHour</title>
+</programme>
+<programme start="20260313010000 +0000" stop="20260313020000 +0000" channel="Al Jazeera English.mncvision">
+    <title>NewsHour</title>
+</programme>
+<programme start="20260313020000 +0000" stop="20260313023000 +0000" channel="Al Jazeera English.mncvision">
+    <title>News (L)</title>
+</programme>
+<programme start="20260313023000 +0000" stop="20260313030000 +0000" channel="Al Jazeera English.mncvision">
+    <title>Counting The Cost</title>
+</programme>
+<programme start="20260313030000 +0000" stop="20260313033000 +0000" channel="Al Jazeera English.mncvision">
+    <title>News (L)</title>
+</programme>
+<programme start="20260313033000 +0000" stop="20260313040000 +0000" channel="Al Jazeera English.mncvision">
+    <title>People &amp; Power: The Balkans</title>
+</programme>
+<programme start="20260313040000 +0000" stop="20260313043000 +0000" channel="Al Jazeera English.mncvision">
+    <title>News (L)</title>
+</programme>
+<programme start="20260313043000 +0000" stop="20260313050000 +0000" channel="Al Jazeera English.mncvision">
+    <title>The Stream</title>
+</programme>
+<programme start="20260313050000 +0000" stop="20260313053000 +0000" channel="Al Jazeera English.mncvision">
+    <title>News (L)</title>
+</programme>
+<programme start="20260313053000 +0000" stop="20260313060000 +0000" channel="Al Jazeera English.mncvision">
+    <title>Inside Story</title>
+</programme>
+<programme start="20260313060000 +0000" stop="20260313063000 +0000" channel="Al Jazeera English.mncvision">
+    <title>News (L)</title>
+</programme>
+<programme start="20260313063000 +0000" stop="20260313070000 +0000" channel="Al Jazeera English.mncvision">
+    <title>Business Of War: Remote Control</title>
+</programme>
+<programme start="20260313070000 +0000" stop="20260313073000 +0000" channel="Al Jazeera English.mncvision">
+    <title>News (L)</title>
+</programme>
+<programme start="20260313073000 +0000" stop="20260313080000 +0000" channel="Al Jazeera English.mncvision">
+    <title>Making Peace: The Light Within</title>
+</programme>
+<programme start="20260313080000 +0000" stop="20260313083000 +0000" channel="Al Jazeera English.mncvision">
+    <title>News (L)</title>
+</programme>
+<programme start="20260313083000 +0000" stop="20260313090000 +0000" channel="Al Jazeera English.mncvision">
+    <title>Talk To Al Jazeera</title>
+</programme>
+<programme start="20260313090000 +0000" stop="20260313093000 +0000" channel="Al Jazeera English.mncvision">
+    <title>News (L)</title>
+</programme>
+<programme start="20260313093000 +0000" stop="20260313100000 +0000" channel="Al Jazeera English.mncvision">
+    <title>101 East: Nepal&#039;s Deadly Skies</title>
+</programme>
+<programme start="20260313100000 +0000" stop="20260313110000 +0000" channel="Al Jazeera English.mncvision">
+    <title>NewsHour</title>
+</programme>
+<programme start="20260313110000 +0000" stop="20260313113000 +0000" channel="Al Jazeera English.mncvision">
+    <title>News (L)</title>
+</programme>
+<programme start="20260313113000 +0000" stop="20260313120000 +0000" channel="Al Jazeera English.mncvision">
+    <title>Inside Story</title>
+</programme>
+<programme start="20260313120000 +0000" stop="20260313130000 +0000" channel="Al Jazeera English.mncvision">
+    <title>NewsHour</title>
+</programme>
+<programme start="20260313130000 +0000" stop="20260313140000 +0000" channel="Al Jazeera English.mncvision">
+    <title>NewsHour</title>
+</programme>
+<programme start="20260313140000 +0000" stop="20260313143000 +0000" channel="Al Jazeera English.mncvision">
+    <title>News (L)</title>
+</programme>
+<programme start="20260313143000 +0000" stop="20260313150000 +0000" channel="Al Jazeera English.mncvision">
+    <title>The Stream</title>
+</programme>
+<programme start="20260313150000 +0000" stop="20260313160000 +0000" channel="Al Jazeera English.mncvision">
+    <title>NewsHour</title>
+</programme>
+<programme start="20260313160000 +0000" stop="20260313163000 +0000" channel="Al Jazeera English.mncvision">
+    <title>News (L)</title>
+</programme>
+<programme start="20260313163000 +0000" stop="20260312170000 +0000" channel="Al Jazeera English.mncvision">
+    <title>Witness: Gaza Fixer</title>
+</programme>
 <programme start="20260312170000 +0000" stop="20260312190000 +0000" channel="Al Quran Al Kareem.mncvision">
     <title>Live From Mekkah</title>
 </programme>
@@ -2893,7 +3089,7 @@ Error: Unable to fetch data. HTTP Status Code: 500
     <title>Arts Unveiled</title>
 </programme>
 <programme start="20260313033000 +0000" stop="20260313040000 +0000" channel="DW English.mncvision">
-    <title>Made In Germany: Business</title>
+    <title>Made In Germany</title>
 </programme>
 <programme start="20260313040000 +0000" stop="20260313040200 +0000" channel="DW English.mncvision">
     <title>DW News</title>
@@ -2923,7 +3119,7 @@ Error: Unable to fetch data. HTTP Status Code: 500
     <title>Arts Unveiled</title>
 </programme>
 <programme start="20260313063000 +0000" stop="20260313070000 +0000" channel="DW English.mncvision">
-    <title>Best Of DW Podcasts</title>
+    <title>REV: The Hidden Pollution</title>
 </programme>
 <programme start="20260313070000 +0000" stop="20260313070200 +0000" channel="DW English.mncvision">
     <title>DW News</title>
@@ -2938,7 +3134,7 @@ Error: Unable to fetch data. HTTP Status Code: 500
     <title>DW News</title>
 </programme>
 <programme start="20260313080200 +0000" stop="20260313083000 +0000" channel="DW English.mncvision">
-    <title>To The Point: Int&#039;l Debate</title>
+    <title>To The Point: Iran War</title>
 </programme>
 <programme start="20260313083000 +0000" stop="20260313090000 +0000" channel="DW English.mncvision">
     <title>DW News Africa</title>
@@ -4878,7 +5074,120 @@ Error: Unable to fetch data. HTTP Status Code: 500
 <programme start="20260313163000 +0000" stop="20260312170000 +0000" channel="iNews HD.mncvision">
     <title>iNews Malam (L)</title>
 </programme>
-Error: Unable to fetch data. HTTP Status Code: 500
+<programme start="20260312170000 +0000" stop="20260312173000 +0000" channel="JAKTV.mncvision">
+    <title>Creative Talk</title>
+</programme>
+<programme start="20260312173000 +0000" stop="20260312180000 +0000" channel="JAKTV.mncvision">
+    <title>Dunia Kita</title>
+</programme>
+<programme start="20260312180000 +0000" stop="20260312183000 +0000" channel="JAKTV.mncvision">
+    <title>Oooppss</title>
+</programme>
+<programme start="20260312183000 +0000" stop="20260312190000 +0000" channel="JAKTV.mncvision">
+    <title>Mirror Story</title>
+</programme>
+<programme start="20260312190000 +0000" stop="20260312193000 +0000" channel="JAKTV.mncvision">
+    <title>Kabar Misteri Alkisah</title>
+</programme>
+<programme start="20260312193000 +0000" stop="20260312200000 +0000" channel="JAKTV.mncvision">
+    <title>Senyum Quran</title>
+</programme>
+<programme start="20260312200000 +0000" stop="20260312203000 +0000" channel="JAKTV.mncvision">
+    <title>Kubah Borneo</title>
+</programme>
+<programme start="20260312203000 +0000" stop="20260312213000 +0000" channel="JAKTV.mncvision">
+    <title>Sahur Time</title>
+</programme>
+<programme start="20260312213000 +0000" stop="20260312220000 +0000" channel="JAKTV.mncvision">
+    <title>Muslimpedia</title>
+</programme>
+<programme start="20260312220000 +0000" stop="20260312223000 +0000" channel="JAKTV.mncvision">
+    <title>Take Me To Sarawak</title>
+</programme>
+<programme start="20260312223000 +0000" stop="20260312230000 +0000" channel="JAKTV.mncvision">
+    <title>Chess Player</title>
+</programme>
+<programme start="20260312230000 +0000" stop="20260312233000 +0000" channel="JAKTV.mncvision">
+    <title>Kara Dan Mayi</title>
+</programme>
+<programme start="20260312233000 +0000" stop="20260313000000 +0000" channel="JAKTV.mncvision">
+    <title>Inovator</title>
+</programme>
+<programme start="20260313000000 +0000" stop="20260313003000 +0000" channel="JAKTV.mncvision">
+    <title>Agritek</title>
+</programme>
+<programme start="20260313003000 +0000" stop="20260313010000 +0000" channel="JAKTV.mncvision">
+    <title>Creative Talk</title>
+</programme>
+<programme start="20260313010000 +0000" stop="20260313020000 +0000" channel="JAKTV.mncvision">
+    <title>Lejel</title>
+</programme>
+<programme start="20260313020000 +0000" stop="20260313030000 +0000" channel="JAKTV.mncvision">
+    <title>Lejel</title>
+</programme>
+<programme start="20260313030000 +0000" stop="20260313033000 +0000" channel="JAKTV.mncvision">
+    <title>Everyday Chinese</title>
+</programme>
+<programme start="20260313033000 +0000" stop="20260313040000 +0000" channel="JAKTV.mncvision">
+    <title>Animal Action</title>
+</programme>
+<programme start="20260313040000 +0000" stop="20260313043000 +0000" channel="JAKTV.mncvision">
+    <title>Above And Beyond</title>
+</programme>
+<programme start="20260313043000 +0000" stop="20260313050000 +0000" channel="JAKTV.mncvision">
+    <title>Ninjao</title>
+</programme>
+<programme start="20260313050000 +0000" stop="20260313060000 +0000" channel="JAKTV.mncvision">
+    <title>Lejel</title>
+</programme>
+<programme start="20260313060000 +0000" stop="20260313063000 +0000" channel="JAKTV.mncvision">
+    <title>Kiddies World</title>
+</programme>
+<programme start="20260313063000 +0000" stop="20260313070000 +0000" channel="JAKTV.mncvision">
+    <title>Pintar Ngaji</title>
+</programme>
+<programme start="20260313070000 +0000" stop="20260313080000 +0000" channel="JAKTV.mncvision">
+    <title>Medika Natura</title>
+</programme>
+<programme start="20260313080000 +0000" stop="20260313090000 +0000" channel="JAKTV.mncvision">
+    <title>Berkah Shop</title>
+</programme>
+<programme start="20260313090000 +0000" stop="20260313100000 +0000" channel="JAKTV.mncvision">
+    <title>The Youth Doctor</title>
+</programme>
+<programme start="20260313100000 +0000" stop="20260313103000 +0000" channel="JAKTV.mncvision">
+    <title>Cooking Time</title>
+</programme>
+<programme start="20260313103000 +0000" stop="20260313110000 +0000" channel="JAKTV.mncvision">
+    <title>Kubah Borneo</title>
+</programme>
+<programme start="20260313110000 +0000" stop="20260313113000 +0000" channel="JAKTV.mncvision">
+    <title>Muslimpedia</title>
+</programme>
+<programme start="20260313113000 +0000" stop="20260313120000 +0000" channel="JAKTV.mncvision">
+    <title>The Cloth Story</title>
+</programme>
+<programme start="20260313120000 +0000" stop="20260313123000 +0000" channel="JAKTV.mncvision">
+    <title>Headgear Hunting</title>
+</programme>
+<programme start="20260313123000 +0000" stop="20260313130000 +0000" channel="JAKTV.mncvision">
+    <title>Dunia Kita</title>
+</programme>
+<programme start="20260313130000 +0000" stop="20260313140000 +0000" channel="JAKTV.mncvision">
+    <title>Three Queens</title>
+</programme>
+<programme start="20260313140000 +0000" stop="20260313150000 +0000" channel="JAKTV.mncvision">
+    <title>Medika Natura</title>
+</programme>
+<programme start="20260313150000 +0000" stop="20260313153000 +0000" channel="JAKTV.mncvision">
+    <title>Inovator</title>
+</programme>
+<programme start="20260313153000 +0000" stop="20260313160000 +0000" channel="JAKTV.mncvision">
+    <title>My Health My Choice</title>
+</programme>
+<programme start="20260313160000 +0000" stop="20260313163000 +0000" channel="JAKTV.mncvision">
+    <title>Duoluo Continent</title>
+</programme>
 <programme start="20260312170000 +0000" stop="20260312180000 +0000" channel="Kids TV.mncvision">
     <title>SpongeBob SquarePants</title>
 </programme>
@@ -5212,7 +5521,108 @@ Error: Unable to fetch data. HTTP Status Code: 500
 <programme start="20260313163000 +0000" stop="20260312170000 +0000" channel="Kompas TV.mncvision">
     <title>Kilas Kompas</title>
 </programme>
-Error: Unable to fetch data. HTTP Status Code: 500
+<programme start="20260312173000 +0000" stop="20260312183000 +0000" channel="LIFE.mncvision">
+    <title>AnugerahNya</title>
+</programme>
+<programme start="20260312183000 +0000" stop="20260312193000 +0000" channel="LIFE.mncvision">
+    <title>Rumah CGN Keluarga</title>
+</programme>
+<programme start="20260312193000 +0000" stop="20260312203000 +0000" channel="LIFE.mncvision">
+    <title>Bukan Untuk Orang Sempurna</title>
+</programme>
+<programme start="20260312203000 +0000" stop="20260312210000 +0000" channel="LIFE.mncvision">
+    <title>Solusi</title>
+</programme>
+<programme start="20260312210000 +0000" stop="20260312213000 +0000" channel="LIFE.mncvision">
+    <title>Light Talk</title>
+</programme>
+<programme start="20260312213000 +0000" stop="20260312220000 +0000" channel="LIFE.mncvision">
+    <title>The Art Of Church</title>
+</programme>
+<programme start="20260312220000 +0000" stop="20260312223000 +0000" channel="LIFE.mncvision">
+    <title>Love Revolution</title>
+</programme>
+<programme start="20260312223000 +0000" stop="20260312230000 +0000" channel="LIFE.mncvision">
+    <title>Praise And Worship</title>
+</programme>
+<programme start="20260312230000 +0000" stop="20260313000000 +0000" channel="LIFE.mncvision">
+    <title>Rumah CGN Keluarga</title>
+</programme>
+<programme start="20260313000000 +0000" stop="20260313010000 +0000" channel="LIFE.mncvision">
+    <title>Bukan Untuk Orang Sempurna</title>
+</programme>
+<programme start="20260313010000 +0000" stop="20260313020000 +0000" channel="LIFE.mncvision">
+    <title>Glow Series</title>
+</programme>
+<programme start="20260313020000 +0000" stop="20260313030000 +0000" channel="LIFE.mncvision">
+    <title>AnugerahNya</title>
+</programme>
+<programme start="20260313030000 +0000" stop="20260313033000 +0000" channel="LIFE.mncvision">
+    <title>Your Best Life Now</title>
+</programme>
+<programme start="20260313033000 +0000" stop="20260313040000 +0000" channel="LIFE.mncvision">
+    <title>Mujizat Itu Nyata</title>
+</programme>
+<programme start="20260313040000 +0000" stop="20260313050000 +0000" channel="LIFE.mncvision">
+    <title>GBI VIFA</title>
+</programme>
+<programme start="20260313050000 +0000" stop="20260313053000 +0000" channel="LIFE.mncvision">
+    <title>Light Talk</title>
+</programme>
+<programme start="20260313053000 +0000" stop="20260313060000 +0000" channel="LIFE.mncvision">
+    <title>The Art Of Church</title>
+</programme>
+<programme start="20260313060000 +0000" stop="20260313063000 +0000" channel="LIFE.mncvision">
+    <title>Love Revolution</title>
+</programme>
+<programme start="20260313063000 +0000" stop="20260313070000 +0000" channel="LIFE.mncvision">
+    <title>Praise And Worship</title>
+</programme>
+<programme start="20260313070000 +0000" stop="20260313073000 +0000" channel="LIFE.mncvision">
+    <title>Today&#039;s Breakthrough</title>
+</programme>
+<programme start="20260313073000 +0000" stop="20260313080000 +0000" channel="LIFE.mncvision">
+    <title>Mujizat Itu Nyata</title>
+</programme>
+<programme start="20260313080000 +0000" stop="20260313090000 +0000" channel="LIFE.mncvision">
+    <title>Glow Series</title>
+</programme>
+<programme start="20260313090000 +0000" stop="20260313093000 +0000" channel="LIFE.mncvision">
+    <title>Superbook Kids Club</title>
+</programme>
+<programme start="20260313093000 +0000" stop="20260313103000 +0000" channel="LIFE.mncvision">
+    <title>Rumah CGN Keluarga</title>
+</programme>
+<programme start="20260313103000 +0000" stop="20260313113000 +0000" channel="LIFE.mncvision">
+    <title>Bukan Untuk Orang Sempurna</title>
+</programme>
+<programme start="20260313113000 +0000" stop="20260313123000 +0000" channel="LIFE.mncvision">
+    <title>AnugerahNya</title>
+</programme>
+<programme start="20260313123000 +0000" stop="20260313130000 +0000" channel="LIFE.mncvision">
+    <title>Light Talk</title>
+</programme>
+<programme start="20260313130000 +0000" stop="20260313133000 +0000" channel="LIFE.mncvision">
+    <title>The Art Of Church</title>
+</programme>
+<programme start="20260313133000 +0000" stop="20260313140000 +0000" channel="LIFE.mncvision">
+    <title>Love Revolution</title>
+</programme>
+<programme start="20260313140000 +0000" stop="20260313150000 +0000" channel="LIFE.mncvision">
+    <title>GBI VIFA</title>
+</programme>
+<programme start="20260313150000 +0000" stop="20260313153000 +0000" channel="LIFE.mncvision">
+    <title>Praise And Worship</title>
+</programme>
+<programme start="20260313153000 +0000" stop="20260313160000 +0000" channel="LIFE.mncvision">
+    <title>Your Best Life Now</title>
+</programme>
+<programme start="20260313160000 +0000" stop="20260313163000 +0000" channel="LIFE.mncvision">
+    <title>Solusi</title>
+</programme>
+<programme start="20260313163000 +0000" stop="20260312170000 +0000" channel="LIFE.mncvision">
+    <title>Glow Series</title>
+</programme>
 <programme start="20260312170500 +0000" stop="20260312180500 +0000" channel="Lifetime.mncvision">
     <title>Earth Sweepers, Ep 8</title>
 </programme>
@@ -6345,7 +6755,7 @@ Error: Unable to fetch data. HTTP Status Code: 500
     <title>News</title>
 </programme>
 <programme start="20260313032000 +0000" stop="20260313033000 +0000" channel="NHK World Premium.mncvision">
-    <title>Local Exquisite Omusubi</title>
+    <title>Mini Program</title>
 </programme>
 <programme start="20260313033000 +0000" stop="20260313034500 +0000" channel="NHK World Premium.mncvision">
     <title>Massan, Ep 55</title>
@@ -7526,7 +7936,60 @@ Error: Unable to fetch data. HTTP Status Code: 500
 <programme start="20260313163000 +0000" stop="20260312170000 +0000" channel="Rock Entertainment.mncvision">
     <title>Brothers</title>
 </programme>
-Error: Unable to fetch data. HTTP Status Code: 500
+<programme start="20260312171500 +0000" stop="20260312181500 +0000" channel="SCTV.mncvision">
+    <title>FTV Utama</title>
+</programme>
+<programme start="20260312181500 +0000" stop="20260312192200 +0000" channel="SCTV.mncvision">
+    <title>Lorong Waktu</title>
+</programme>
+<programme start="20260312192200 +0000" stop="20260312212500 +0000" channel="SCTV.mncvision">
+    <title>Para Pencari Tuhan Jilid 19</title>
+</programme>
+<programme start="20260312212500 +0000" stop="20260312230000 +0000" channel="SCTV.mncvision">
+    <title>Lorong Waktu Jilid 2</title>
+</programme>
+<programme start="20260312230000 +0000" stop="20260312234500 +0000" channel="SCTV.mncvision">
+    <title>Liputan 6 Pagi (L)</title>
+</programme>
+<programme start="20260312234500 +0000" stop="20260313001500 +0000" channel="SCTV.mncvision">
+    <title>Halo Selebriti</title>
+</programme>
+<programme start="20260313001500 +0000" stop="20260313011500 +0000" channel="SCTV.mncvision">
+    <title>Tiba-Tiba Kuis</title>
+</programme>
+<programme start="20260313011500 +0000" stop="20260313024500 +0000" channel="SCTV.mncvision">
+    <title>Asisten Rumah Tangga Beggin...</title>
+</programme>
+<programme start="20260313024500 +0000" stop="20260313050000 +0000" channel="SCTV.mncvision">
+    <title>Jodoh Direview Cinta Yang Viral</title>
+</programme>
+<programme start="20260313050000 +0000" stop="20260313051500 +0000" channel="SCTV.mncvision">
+    <title>Liputan 6 Siang (L)</title>
+</programme>
+<programme start="20260313051500 +0000" stop="20260313063000 +0000" channel="SCTV.mncvision">
+    <title>Miss Tahu Bulat Jadi Mantu...</title>
+</programme>
+<programme start="20260313063000 +0000" stop="20260313081500 +0000" channel="SCTV.mncvision">
+    <title>Pura-Pura Cinta Neng Tahu Bulat</title>
+</programme>
+<programme start="20260313081500 +0000" stop="20260313093000 +0000" channel="SCTV.mncvision">
+    <title>Petualangan Rahasia Queena</title>
+</programme>
+<programme start="20260313093000 +0000" stop="20260313113000 +0000" channel="SCTV.mncvision">
+    <title>Asmara Gen Z</title>
+</programme>
+<programme start="20260313113000 +0000" stop="20260313130000 +0000" channel="SCTV.mncvision">
+    <title>Istiqomah Cinta</title>
+</programme>
+<programme start="20260313130000 +0000" stop="20260313143000 +0000" channel="SCTV.mncvision">
+    <title>Beri Cinta Waktu</title>
+</programme>
+<programme start="20260313143000 +0000" stop="20260313160000 +0000" channel="SCTV.mncvision">
+    <title>Jejak Duka Diandra</title>
+</programme>
+<programme start="20260313160000 +0000" stop="20260313163000 +0000" channel="SCTV.mncvision">
+    <title>FTV Primetime</title>
+</programme>
 <programme start="20260312171500 +0000" stop="20260312181500 +0000" channel="SCTV HD.mncvision">
     <title>FTV Utama</title>
 </programme>

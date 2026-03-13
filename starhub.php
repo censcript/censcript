@@ -3176,7 +3176,7 @@
         <title>Why &#039;Metropolis&#039;, Fritz Lang&#039;s silent movie, still defines Sci‑Fi 100 years later</title>
     </programme>
     <programme start="20260312193000 +0000" stop="20260312200000 +0000" channel="DW English HD.starhub">
-        <title>International Debate from Berlin</title>
+        <title>Iran War: Who Benefits from the Oil Shock?</title>
     </programme>
     <programme start="20260312200000 +0000" stop="20260312203000 +0000" channel="DW English HD.starhub">
         <title>News</title>
@@ -3197,7 +3197,7 @@
         <title>News in Review</title>
     </programme>
     <programme start="20260312223000 +0000" stop="20260312230000 +0000" channel="DW English HD.starhub">
-        <title>International Debate from Berlin</title>
+        <title>Iran War: Who Benefits from the Oil Shock?</title>
     </programme>
     <programme start="20260312230000 +0000" stop="20260312230200 +0000" channel="DW English HD.starhub">
         <title>News</title>
