@@ -6427,7 +6427,7 @@
   <programme start="20260313060500 +0000" stop="20260313080500 +0000" channel="cinemax.unifitv">
     <title lang="en">The Jack Bull</title>
     <desc lang="en">A man learns that he must pay a steep price to enforce his own rules as events escalate into misery and murder in this HBO Original movie.</desc>
-    <category lang="en">Drama</category>
+    <category lang="en">Action</category>
   </programme>
   <programme start="20260313080500 +0000" stop="20260313094000 +0000" channel="cinemax.unifitv">
     <title lang="en">Pu-239</title>

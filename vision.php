@@ -211,44 +211,47 @@
 <programme start="20260313153000 +0000" stop="20260313170000 +0000" channel="GTV.vision">
 <title>Jelajah Mitos</title>
 </programme>
-<programme start="20260313180000 +0000" stop="20260313190000 +0000" channel="GTV.vision">
-<title>GTV</title>
+<programme start="20260313170000 +0000" stop="20260313190000 +0000" channel="GTV.vision">
+<title>Crime KV</title>
 </programme>
-<programme start="20260313190000 +0000" stop="20260313200000 +0000" channel="GTV.vision">
-<title>GTV</title>
+<programme start="20260313190000 +0000" stop="20260313203000 +0000" channel="GTV.vision">
+<title>Monster Hunter</title>
 </programme>
-<programme start="20260313200000 +0000" stop="20260313220000 +0000" channel="GTV.vision">
-<title>GTV</title>
+<programme start="20260313203000 +0000" stop="20260313220000 +0000" channel="GTV.vision">
+<title>The First Myth: Class Of Gods</title>
 </programme>
 <programme start="20260313220000 +0000" stop="20260313231500 +0000" channel="GTV.vision">
-<title>GTV</title>
+<title>Kisah Viral</title>
 </programme>
 <programme start="20260313231500 +0000" stop="20260313234500 +0000" channel="GTV.vision">
-<title>GTV</title>
+<title>BIMA-S</title>
 </programme>
-<programme start="20260313234500 +0000" stop="20260314020000 +0000" channel="GTV.vision">
-<title>GTV</title>
+<programme start="20260313234500 +0000" stop="20260314030000 +0000" channel="GTV.vision">
+<title>SpongeBob SquarePants</title>
 </programme>
-<programme start="20260314020000 +0000" stop="20260314050000 +0000" channel="GTV.vision">
-<title>GTV</title>
+<programme start="20260314030000 +0000" stop="20260314050000 +0000" channel="GTV.vision">
+<title>Spongebob Squarepants (GTV)</title>
 </programme>
-<programme start="20260314050000 +0000" stop="20260314060000 +0000" channel="GTV.vision">
-<title>GTV</title>
+<programme start="20260314050000 +0000" stop="20260314053000 +0000" channel="GTV.vision">
+<title>Naruto Shippuden (GTV)</title>
 </programme>
-<programme start="20260314060000 +0000" stop="20260314070000 +0000" channel="GTV.vision">
-<title>GTV</title>
+<programme start="20260314053000 +0000" stop="20260314063000 +0000" channel="GTV.vision">
+<title>Ban On Rescue!</title>
 </programme>
-<programme start="20260314070000 +0000" stop="20260314080000 +0000" channel="GTV.vision">
-<title>GTV</title>
+<programme start="20260314063000 +0000" stop="20260314073000 +0000" channel="GTV.vision">
+<title>Zak Storm</title>
 </programme>
-<programme start="20260314080000 +0000" stop="20260314093000 +0000" channel="GTV.vision">
-<title>GTV</title>
+<programme start="20260314073000 +0000" stop="20260314093000 +0000" channel="GTV.vision">
+<title>SpongeBob SquarePants</title>
 </programme>
-<programme start="20260314093000 +0000" stop="20260314110000 +0000" channel="GTV.vision">
-<title>GTV</title>
+<programme start="20260314093000 +0000" stop="20260314100000 +0000" channel="GTV.vision">
+<title>SpongeBob SquarePants</title>
+</programme>
+<programme start="20260314100000 +0000" stop="20260314110000 +0000" channel="GTV.vision">
+<title>Ramadan Sama Artis (GTV)</title>
 </programme>
 <programme start="20260314110000 +0000" stop="20260314123000 +0000" channel="GTV.vision">
-<title>GTV</title>
+<title>New Family 100 (GTV)</title>
 </programme>
 <programme start="20260313000000 +0000" stop="20260313010000 +0000" channel="iNews.vision">
 <title>Breaking News (L)</title>
@@ -1494,7 +1497,4 @@
 </programme>
 <programme start="20260313163000 +0000" stop="20260313173000 +0000" channel="BTV.vision">
 <title>ONE Vault</title>
-</programme>
-<programme start="20260313173000 +0000" stop="20260313180000 +0000" channel="BTV.vision">
-<title>Berita Viral</title>
 </programme>
