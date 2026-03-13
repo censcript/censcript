@@ -3051,7 +3051,7 @@ Warning: Undefined array key "et" in /usr/home/ManusiaBiasa/domains/manusiabiasa
 <programme start="20260313164000 +0000" stop="20260313170000 +0000" channel="Sky Sport Bundesliga 5 HD.skyde">
     <title>Es folgt: Live 2. Bundesliga</title>
 </programme>
-<programme start="20260313170000 +0000" stop="20260313200000 +0000" channel="Sky Sport Bundesliga 5 HD.skyde">
+<programme start="20260313170000 +0000" stop="20260313193000 +0000" channel="Sky Sport Bundesliga 5 HD.skyde">
     <title>Live 2. BL: Multiview 26. Spieltag, Freitag</title>
 </programme>
 <programme start="20260312230000 +0000" stop="20260313000000 +0000" channel="Sky Sport F1 HD.skyde">
@@ -3897,10 +3897,7 @@ Warning: Undefined array key "et" in /usr/home/ManusiaBiasa/domains/manusiabiasa
 <programme start="20260313000000 +0000" stop="20260313090000 +0000" channel="Sky Sport 2 HD.skyde">
     <title>Live WTA 1000: J. Pegula (USA) - E. Rybakina (KAZ), BNP Paribas Open in Indian Wells, Kalifornien (USA), Viertelfinale 4</title>
 </programme>
-<programme start="20260313193000 +0000" stop="20260313195000 +0000" channel="Sky Sport 6 HD.skyde">
-    <title>Es folgt: LIVE EFL</title>
-</programme>
-<programme start="20260313195000 +0000" stop="20260313223000 +0000" channel="Sky Sport 6 HD.skyde">
+<programme start="20260313195000 +0000" stop="20260313220000 +0000" channel="Sky Sport 6 HD.skyde">
     <title>Live EFL: AFC Wrexham - Swansea City, 38. Spieltag</title>
 </programme>
 <programme start="20260312230000 +0000" stop="20260312234500 +0000" channel="SYFY HD.skyde">

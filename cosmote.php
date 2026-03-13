@@ -1,7 +1,3 @@
-<programme start="20260313153000 +0700" stop="20260313173000 +0700" channel="COSMOTE Sport 1 HD">
-    <title>Football: Panathinaikos - Real Betis Balompie</title>
-    <desc>Live: Tidak</desc>
-</programme>
 <programme start="20260313173000 +0700" stop="20260313193000 +0700" channel="COSMOTE Sport 1 HD">
     <title>Football: NK Celje - AEK</title>
     <desc>Live: Tidak</desc>
@@ -78,8 +74,8 @@
     <title>Football: Bayer 04 Leverkusen - Arsenal</title>
     <desc>Live: Tidak</desc>
 </programme>
-<programme start="20260313160000 +0700" stop="20260313180000 +0700" channel="COSMOTE Sport 2 HD">
-    <title>Football: Crystal Palace - AEK Larnaca</title>
+<programme start="20260314180000 +0700" stop="20260314200000 +0700" channel="COSMOTE Sport 1 HD">
+    <title>Football: Real Madrid CF - Manchester City FC</title>
     <desc>Live: Tidak</desc>
 </programme>
 <programme start="20260313180000 +0700" stop="20260313200000 +0700" channel="COSMOTE Sport 2 HD">
@@ -278,14 +274,6 @@
     <title>Basketball: Manisa Basket - Anadolu Efes</title>
     <desc>Live: Tidak</desc>
 </programme>
-<programme start="20260313162000 +0700" stop="20260313171000 +0700" channel="COSMOTE Sport 5 HD">
-    <title>2025 GT World Challenge Europe</title>
-    <desc>Live: Tidak</desc>
-</programme>
-<programme start="20260313171000 +0700" stop="20260313173500 +0700" channel="COSMOTE Sport 5 HD">
-    <title>Sports Classics: Worldies E27</title>
-    <desc>Live: Tidak</desc>
-</programme>
 <programme start="20260313173500 +0700" stop="20260313184000 +0700" channel="COSMOTE Sport 5 HD">
     <title>WRC 2026</title>
     <desc>Live: Tidak</desc>
@@ -436,6 +424,10 @@
 </programme>
 <programme start="20260314160000 +0700" stop="20260314184000 +0700" channel="COSMOTE Sport 6 HD">
     <title>Volleyball: Vallefoglia - Panathinaikos</title>
+    <desc>Live: Tidak</desc>
+</programme>
+<programme start="20260314184000 +0700" stop="20260314194000 +0700" channel="COSMOTE Sport 6 HD">
+    <title>ATP 500 2026 - Highlights</title>
     <desc>Live: Tidak</desc>
 </programme>
 <programme start="20260313170000 +0700" stop="20260313190000 +0700" channel="COSMOTE Sport 7 HD">
