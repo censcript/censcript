@@ -3030,7 +3030,7 @@ Warning: Undefined array key "et" in /usr/home/ManusiaBiasa/domains/manusiabiasa
 <programme start="20260313170000 +0000" stop="20260313193000 +0000" channel="Sky Sport Bundesliga 2 HD.skyde">
     <title>Live 2. BL: Freitags-Konferenz, 26. Spieltag</title>
 </programme>
-<programme start="20260313193000 +0000" stop="20260313201500 +0000" channel="Sky Sport Bundesliga 2 HD.skyde">
+<programme start="20260313193000 +0000" stop="20260313204500 +0000" channel="Sky Sport Bundesliga 2 HD.skyde">
     <title>Live 2. BL Alle Spiele, alle Tore: Die Vodafone Highlight-Show, 26. Spieltag, Freitag</title>
 </programme>
 <programme start="20260313164000 +0000" stop="20260313170000 +0000" channel="Sky Sport Bundesliga 3 HD.skyde">
@@ -3039,19 +3039,19 @@ Warning: Undefined array key "et" in /usr/home/ManusiaBiasa/domains/manusiabiasa
 <programme start="20260313170000 +0000" stop="20260313193000 +0000" channel="Sky Sport Bundesliga 3 HD.skyde">
     <title>Live 2. BL: 1. FC Magdeburg - SV Darmstadt 98, 26. Spieltag</title>
 </programme>
-<programme start="20260313193000 +0000" stop="20260313213000 +0000" channel="Sky Sport Bundesliga 3 HD.skyde">
+<programme start="20260313193000 +0000" stop="20260313220000 +0000" channel="Sky Sport Bundesliga 3 HD.skyde">
     <title>Live BL: Sky Sport Fantasy: BMG - STP, 26. Spieltag</title>
 </programme>
 <programme start="20260313164000 +0000" stop="20260313170000 +0000" channel="Sky Sport Bundesliga 4 HD.skyde">
     <title>Es folgt: Live 2. Bundesliga</title>
 </programme>
-<programme start="20260313170000 +0000" stop="20260313193000 +0000" channel="Sky Sport Bundesliga 4 HD.skyde">
+<programme start="20260313170000 +0000" stop="20260313200000 +0000" channel="Sky Sport Bundesliga 4 HD.skyde">
     <title>Live 2. BL: SpVgg Greuther Fürth - SV Elversberg, 26. Spieltag</title>
 </programme>
 <programme start="20260313164000 +0000" stop="20260313170000 +0000" channel="Sky Sport Bundesliga 5 HD.skyde">
     <title>Es folgt: Live 2. Bundesliga</title>
 </programme>
-<programme start="20260313170000 +0000" stop="20260313193000 +0000" channel="Sky Sport Bundesliga 5 HD.skyde">
+<programme start="20260313170000 +0000" stop="20260313200000 +0000" channel="Sky Sport Bundesliga 5 HD.skyde">
     <title>Live 2. BL: Multiview 26. Spieltag, Freitag</title>
 </programme>
 <programme start="20260312230000 +0000" stop="20260313000000 +0000" channel="Sky Sport F1 HD.skyde">
@@ -3900,7 +3900,7 @@ Warning: Undefined array key "et" in /usr/home/ManusiaBiasa/domains/manusiabiasa
 <programme start="20260313193000 +0000" stop="20260313195000 +0000" channel="Sky Sport 6 HD.skyde">
     <title>Es folgt: LIVE EFL</title>
 </programme>
-<programme start="20260313195000 +0000" stop="20260313220000 +0000" channel="Sky Sport 6 HD.skyde">
+<programme start="20260313195000 +0000" stop="20260313223000 +0000" channel="Sky Sport 6 HD.skyde">
     <title>Live EFL: AFC Wrexham - Swansea City, 38. Spieltag</title>
 </programme>
 <programme start="20260312230000 +0000" stop="20260312234500 +0000" channel="SYFY HD.skyde">

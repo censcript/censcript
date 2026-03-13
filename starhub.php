@@ -3209,7 +3209,7 @@
         <title>Why &#039;Metropolis&#039;, Fritz Lang&#039;s silent movie, still defines Sci‑Fi 100 years later</title>
     </programme>
     <programme start="20260312233000 +0000" stop="20260313000000 +0000" channel="DW English HD.starhub">
-        <title>Best of DW Podcasts</title>
+        <title>Africa</title>
     </programme>
     <programme start="20260313000000 +0000" stop="20260313000200 +0000" channel="DW English HD.starhub">
         <title>News</title>
@@ -3218,7 +3218,7 @@
         <title>News in Review</title>
     </programme>
     <programme start="20260313003000 +0000" stop="20260313010000 +0000" channel="DW English HD.starhub">
-        <title>International Debate from Berlin</title>
+        <title>Iran War: Who Benefits from the Oil Shock?</title>
     </programme>
     <programme start="20260313010000 +0000" stop="20260313010200 +0000" channel="DW English HD.starhub">
         <title>News</title>
@@ -3278,7 +3278,7 @@
         <title>Why &#039;Metropolis&#039;, Fritz Lang&#039;s silent movie, still defines Sci‑Fi 100 years later</title>
     </programme>
     <programme start="20260313063000 +0000" stop="20260313070000 +0000" channel="DW English HD.starhub">
-        <title>Best of DW Podcasts</title>
+        <title>The Hidden Pollution From Electric Cars: When Tires Become Microplastics</title>
     </programme>
     <programme start="20260313070000 +0000" stop="20260313070200 +0000" channel="DW English HD.starhub">
         <title>News</title>
@@ -3293,7 +3293,7 @@
         <title>News</title>
     </programme>
     <programme start="20260313080200 +0000" stop="20260313083000 +0000" channel="DW English HD.starhub">
-        <title>International Debate from Berlin</title>
+        <title>Iran War: Who Benefits from the Oil Shock?</title>
     </programme>
     <programme start="20260313083000 +0000" stop="20260313090000 +0000" channel="DW English HD.starhub">
         <title>Africa</title>
@@ -3323,7 +3323,7 @@
         <title>Best of DW Podcasts</title>
     </programme>
     <programme start="20260313113000 +0000" stop="20260313120000 +0000" channel="DW English HD.starhub">
-        <title>International Debate from Berlin</title>
+        <title>Iran War: Who Benefits from the Oil Shock?</title>
     </programme>
     <programme start="20260313120000 +0000" stop="20260313120200 +0000" channel="DW English HD.starhub">
         <title>News</title>
@@ -3359,7 +3359,7 @@
         <title>News</title>
     </programme>
     <programme start="20260313153000 +0000" stop="20260313160000 +0000" channel="DW English HD.starhub">
-        <title>International Debate from Berlin</title>
+        <title>Iran War: Who Benefits from the Oil Shock?</title>
     </programme>
     <programme start="20260312160000 +0000" stop="20260312220000 +0000" channel="Preview Channel.starhub">
         <title>Preview Channel</title>
@@ -3827,7 +3827,7 @@
         <title>News &amp; Weather</title>
     </programme>
     <programme start="20260313010500 +0000" stop="20260313015000 +0000" channel="NHK World Premium HD.starhub">
-        <title>NHK Special (R)</title>
+        <title>NHK Special Our &quot;Reconstruction&quot;: Voices from 15 Years After the Disaster (R)</title>
     </programme>
     <programme start="20260313015000 +0000" stop="20260313015500 +0000" channel="NHK World Premium HD.starhub">
         <title>Natural Grandeur of the East Mini</title>
@@ -3848,7 +3848,7 @@
         <title>News</title>
     </programme>
     <programme start="20260313032000 +0000" stop="20260313033000 +0000" channel="NHK World Premium HD.starhub">
-        <title>Local Exquisite Omusubi</title>
+        <title>Mini Program</title>
     </programme>
     <programme start="20260313033000 +0000" stop="20260313034500 +0000" channel="NHK World Premium HD.starhub">
         <title>Drama Serial &quot;Massan&quot; Encore Ep.55</title>

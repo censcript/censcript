@@ -15423,20 +15423,15 @@
     <desc lang="en">The world's best national teams compete for international glory, delivering powerful hitting, elite pitching, and thrilling baseball action on the global stage.</desc>
     <category lang="en">Baseball</category>
   </programme>
-  <programme start="20260313000000 +0000" stop="20260313003000 +0000" channel="spotv.unifitv">
-    <title lang="en">2025/26 ALM Mini Match Rd 20 - Sydney FC vs Melbourne Victory</title>
-    <desc lang="en">Top flight men's soccer returns in the ISUZU UTE A-League Men. Catch every moment on SPOTV NOW as 12 teams compete in the regular season with top 4 advancing to a single-game knockout.</desc>
-    <category lang="en">Football</category>
-  </programme>
-  <programme start="20260313003000 +0000" stop="20260313010000 +0000" channel="spotv.unifitv">
-    <title lang="en">2025/26 ALM Mini Match Rd 20 - Adelaide United vs Wellington Phoenix</title>
-    <desc lang="en">Top flight men's soccer returns in the ISUZU UTE A-League Men. Catch every moment on SPOTV NOW as 12 teams compete in the regular season with top 4 advancing to a single-game knockout.</desc>
-    <category lang="en">Football</category>
-  </programme>
-  <programme start="20260313010000 +0000" stop="20260313060000 +0000" channel="spotv.unifitv">
+  <programme start="20260313000000 +0000" stop="20260313053000 +0000" channel="spotv.unifitv">
     <title lang="en">(L) 2026 LIV Golf League, Singapore - Round 2</title>
     <desc lang="en">The world's top golfers compete in a bold, fast-paced league format, delivering big drives, dramatic finishes, and non-stop action across iconic global venues.</desc>
     <category lang="en">Golf</category>
+  </programme>
+  <programme start="20260313053000 +0000" stop="20260313060000 +0000" channel="spotv.unifitv">
+    <title lang="en">2025/26 ALM Mini Match Rd 20 - Adelaide United vs Wellington Phoenix</title>
+    <desc lang="en">Top flight men's soccer returns in the ISUZU UTE A-League Men. Catch every moment on SPOTV NOW as 12 teams compete in the regular season with top 4 advancing to a single-game knockout.</desc>
+    <category lang="en">Football</category>
   </programme>
   <programme start="20260313060000 +0000" stop="20260313063000 +0000" channel="spotv.unifitv">
     <title lang="en">2025/26 ALM Mini Match Rd 20 - Sydney FC vs Melbourne Victory</title>

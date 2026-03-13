@@ -868,9 +868,6 @@
 <programme start="20260312233000 +0000" stop="20260313013000 +0000" channel="TVOne.vision">
 <title>Apa Kabar Indonesia Pagi (L)</title>
 </programme>
-<programme start="20260313013000 +0000" stop="20260313020000 +0000" channel="TVOne.vision">
-<title>Hidup Sehat</title>
-</programme>
 <programme start="20260313020000 +0000" stop="20260313023000 +0000" channel="TVOne.vision">
 <title>Inspirasi Pagi (L)</title>
 </programme>
@@ -1497,4 +1494,7 @@
 </programme>
 <programme start="20260313111300 +0000" stop="20260313111800 +0000" channel="BTV.vision">
 <title>Selamat Berbuka Puasa</title>
+</programme>
+<programme start="20260313111800 +0000" stop="20260313130000 +0000" channel="BTV.vision">
+<title>Berita Satu Utama</title>
 </programme>
