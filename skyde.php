@@ -3021,7 +3021,7 @@ Warning: Undefined array key "et" in /usr/home/ManusiaBiasa/domains/manusiabiasa
 <programme start="20260313183000 +0000" stop="20260313191500 +0000" channel="Sky Sport Bundesliga 1 HD.skyde">
     <title>Live BL: BMG - STP: tipico Countdown, Flutlicht-Freitag, 26. Spieltag</title>
 </programme>
-<programme start="20260313191500 +0000" stop="20260313221500 +0000" channel="Sky Sport Bundesliga 1 HD.skyde">
+<programme start="20260313191500 +0000" stop="20260313224500 +0000" channel="Sky Sport Bundesliga 1 HD.skyde">
     <title>Live BL: Borussia M&#039;gladbach - FC St. Pauli, Flutlicht-Freitag, 26. Spieltag</title>
 </programme>
 <programme start="20260313164000 +0000" stop="20260313170000 +0000" channel="Sky Sport Bundesliga 2 HD.skyde">
@@ -3030,7 +3030,7 @@ Warning: Undefined array key "et" in /usr/home/ManusiaBiasa/domains/manusiabiasa
 <programme start="20260313170000 +0000" stop="20260313193000 +0000" channel="Sky Sport Bundesliga 2 HD.skyde">
     <title>Live 2. BL: Freitags-Konferenz, 26. Spieltag</title>
 </programme>
-<programme start="20260313193000 +0000" stop="20260313201500 +0000" channel="Sky Sport Bundesliga 2 HD.skyde">
+<programme start="20260313193000 +0000" stop="20260313204500 +0000" channel="Sky Sport Bundesliga 2 HD.skyde">
     <title>Live 2. BL Alle Spiele, alle Tore: Die Vodafone Highlight-Show, 26. Spieltag, Freitag</title>
 </programme>
 <programme start="20260313164000 +0000" stop="20260313170000 +0000" channel="Sky Sport Bundesliga 3 HD.skyde">
@@ -3045,13 +3045,13 @@ Warning: Undefined array key "et" in /usr/home/ManusiaBiasa/domains/manusiabiasa
 <programme start="20260313164000 +0000" stop="20260313170000 +0000" channel="Sky Sport Bundesliga 4 HD.skyde">
     <title>Es folgt: Live 2. Bundesliga</title>
 </programme>
-<programme start="20260313170000 +0000" stop="20260313193000 +0000" channel="Sky Sport Bundesliga 4 HD.skyde">
+<programme start="20260313170000 +0000" stop="20260313200000 +0000" channel="Sky Sport Bundesliga 4 HD.skyde">
     <title>Live 2. BL: SpVgg Greuther Fürth - SV Elversberg, 26. Spieltag</title>
 </programme>
 <programme start="20260313164000 +0000" stop="20260313170000 +0000" channel="Sky Sport Bundesliga 5 HD.skyde">
     <title>Es folgt: Live 2. Bundesliga</title>
 </programme>
-<programme start="20260313170000 +0000" stop="20260313193000 +0000" channel="Sky Sport Bundesliga 5 HD.skyde">
+<programme start="20260313170000 +0000" stop="20260313200000 +0000" channel="Sky Sport Bundesliga 5 HD.skyde">
     <title>Live 2. BL: Multiview 26. Spieltag, Freitag</title>
 </programme>
 <programme start="20260312230000 +0000" stop="20260313000000 +0000" channel="Sky Sport F1 HD.skyde">
@@ -3084,10 +3084,10 @@ Warning: Undefined array key "et" in /usr/home/ManusiaBiasa/domains/manusiabiasa
 <programme start="20260313055500 +0000" stop="20260313060500 +0000" channel="Sky Sport F1 HD.skyde">
     <title>F1: Jessica Hawkins im AMR21</title>
 </programme>
-<programme start="20260313060500 +0000" stop="20260313064500 +0000" channel="Sky Sport F1 HD.skyde">
+<programme start="20260313060500 +0000" stop="20260313065500 +0000" channel="Sky Sport F1 HD.skyde">
     <title>Live F1 Academy: Qualifying - GP China</title>
 </programme>
-<programme start="20260313064500 +0000" stop="20260313071500 +0000" channel="Sky Sport F1 HD.skyde">
+<programme start="20260313065500 +0000" stop="20260313071500 +0000" channel="Sky Sport F1 HD.skyde">
     <title>F1: GP Confidential</title>
 </programme>
 <programme start="20260313071500 +0000" stop="20260313084500 +0000" channel="Sky Sport F1 HD.skyde">
@@ -3099,10 +3099,10 @@ Warning: Undefined array key "et" in /usr/home/ManusiaBiasa/domains/manusiabiasa
 <programme start="20260313094500 +0000" stop="20260313104500 +0000" channel="Sky Sport F1 HD.skyde">
     <title>F1: Sprint Qualifying - GP China</title>
 </programme>
-<programme start="20260313104500 +0000" stop="20260313110500 +0000" channel="Sky Sport F1 HD.skyde">
+<programme start="20260313104500 +0000" stop="20260313111500 +0000" channel="Sky Sport F1 HD.skyde">
     <title>F1: Inside Story: Lando reigns in stormy Melbourne</title>
 </programme>
-<programme start="20260313110500 +0000" stop="20260313113000 +0000" channel="Sky Sport F1 HD.skyde">
+<programme start="20260313111500 +0000" stop="20260313113000 +0000" channel="Sky Sport F1 HD.skyde">
     <title>F1: Inside Story: Hulkenberg&#039;s incredible podium as Lando triumphs</title>
 </programme>
 <programme start="20260313113000 +0000" stop="20260313115000 +0000" channel="Sky Sport F1 HD.skyde">
@@ -3111,23 +3111,26 @@ Warning: Undefined array key "et" in /usr/home/ManusiaBiasa/domains/manusiabiasa
 <programme start="20260313115000 +0000" stop="20260313121500 +0000" channel="Sky Sport F1 HD.skyde">
     <title>F1: Inside Story: 2025 Championship Showdown</title>
 </programme>
-<programme start="20260313121500 +0000" stop="20260313140000 +0000" channel="Sky Sport F1 HD.skyde">
+<programme start="20260313121500 +0000" stop="20260313135000 +0000" channel="Sky Sport F1 HD.skyde">
     <title>F1: 1. Freies Training - GP China</title>
 </programme>
-<programme start="20260313140000 +0000" stop="20260313150000 +0000" channel="Sky Sport F1 HD.skyde">
+<programme start="20260313135000 +0000" stop="20260313150000 +0000" channel="Sky Sport F1 HD.skyde">
     <title>F1: Pressekonferenz Teamchefs - GP China</title>
 </programme>
 <programme start="20260313150000 +0000" stop="20260313151500 +0000" channel="Sky Sport F1 HD.skyde">
     <title>F1: Greatest Races: J. Button / Kanada 2011</title>
 </programme>
-<programme start="20260313151500 +0000" stop="20260313164500 +0000" channel="Sky Sport F1 HD.skyde">
+<programme start="20260313151500 +0000" stop="20260313161500 +0000" channel="Sky Sport F1 HD.skyde">
     <title>F1: Sprint Qualifying - GP China</title>
 </programme>
-<programme start="20260313164500 +0000" stop="20260313170000 +0000" channel="Sky Sport F1 HD.skyde">
+<programme start="20260313161500 +0000" stop="20260313163000 +0000" channel="Sky Sport F1 HD.skyde">
     <title>Chasing the Dream: 2. Episode 2026</title>
 </programme>
-<programme start="20260313170000 +0000" stop="20260313190000 +0000" channel="Sky Sport F1 HD.skyde">
+<programme start="20260313163000 +0000" stop="20260313183000 +0000" channel="Sky Sport F1 HD.skyde">
     <title>F1: Rennen - GP Australien</title>
+</programme>
+<programme start="20260313183000 +0000" stop="20260313190000 +0000" channel="Sky Sport F1 HD.skyde">
+    <title>F1: Pressekonferenz Teamchefs - GP China</title>
 </programme>
 <programme start="20260313190000 +0000" stop="20260313200000 +0000" channel="Sky Sport F1 HD.skyde">
     <title>F1: Sprint Qualifying - GP China</title>
@@ -3150,10 +3153,10 @@ Warning: Undefined array key "et" in /usr/home/ManusiaBiasa/domains/manusiabiasa
 <programme start="20260312234500 +0000" stop="20260313000000 +0000" channel="Sky Sport Golf HD.skyde">
     <title>Golf: Tee Time Stories (4)</title>
 </programme>
-<programme start="20260313000000 +0000" stop="20260313050000 +0000" channel="Sky Sport Golf HD.skyde">
+<programme start="20260313000000 +0000" stop="20260313050500 +0000" channel="Sky Sport Golf HD.skyde">
     <title>Live LIV Golf: Singapur, 2. Tag auf Sentosa</title>
 </programme>
-<programme start="20260313050000 +0000" stop="20260313060000 +0000" channel="Sky Sport Golf HD.skyde">
+<programme start="20260313050500 +0000" stop="20260313060000 +0000" channel="Sky Sport Golf HD.skyde">
     <title>US Open: Fitzpatrick: The Boss Of Brookline 2022</title>
 </programme>
 <programme start="20260313060000 +0000" stop="20260313065000 +0000" channel="Sky Sport Golf HD.skyde">
@@ -3468,38 +3471,38 @@ Warning: Undefined array key "et" in /usr/home/ManusiaBiasa/domains/manusiabiasa
 <programme start="20260313080000 +0000" stop="20260313083000 +0000" channel="Sky Sport Tennis HD.skyde">
     <title>ATP: This Week</title>
 </programme>
-<programme start="20260313083000 +0000" stop="20260313103000 +0000" channel="Sky Sport Tennis HD.skyde">
+<programme start="20260313083000 +0000" stop="20260313100000 +0000" channel="Sky Sport Tennis HD.skyde">
     <title>ATP 1000: J. Draper (GBR) - D. Medvedev, BNP Paribas Open in Indian Wells, Kalifornien (USA), Viertelfinale 3</title>
 </programme>
-<programme start="20260313103000 +0000" stop="20260313123000 +0000" channel="Sky Sport Tennis HD.skyde">
+<programme start="20260313100000 +0000" stop="20260313122000 +0000" channel="Sky Sport Tennis HD.skyde">
     <title>WTA 1000: E. Svitolina (UKR) - I. Swiatek (POL), BNP Paribas Open in Indian Wells, Kalifornien (USA), Viertelfinale 3</title>
 </programme>
-<programme start="20260313123000 +0000" stop="20260313133000 +0000" channel="Sky Sport Tennis HD.skyde">
+<programme start="20260313122000 +0000" stop="20260313133000 +0000" channel="Sky Sport Tennis HD.skyde">
     <title>ATP 500: Review Dubai</title>
 </programme>
 <programme start="20260313133000 +0000" stop="20260313140000 +0000" channel="Sky Sport Tennis HD.skyde">
     <title>ATP: This Week</title>
 </programme>
-<programme start="20260313140000 +0000" stop="20260313160000 +0000" channel="Sky Sport Tennis HD.skyde">
+<programme start="20260313140000 +0000" stop="20260313154500 +0000" channel="Sky Sport Tennis HD.skyde">
     <title>ATP 1000: A. Zverev (GER) - A. Fils (FRA), BNP Paribas Open in Indian Wells, Kalifornien (USA), Viertelfinale 1</title>
 </programme>
-<programme start="20260313160000 +0000" stop="20260313180000 +0000" channel="Sky Sport Tennis HD.skyde">
+<programme start="20260313154500 +0000" stop="20260313173000 +0000" channel="Sky Sport Tennis HD.skyde">
     <title>ATP 1000: J. Draper (GBR) - D. Medvedev, BNP Paribas Open in Indian Wells, Kalifornien (USA), Viertelfinale 3</title>
 </programme>
-<programme start="20260313180000 +0000" stop="20260313183000 +0000" channel="Sky Sport Tennis HD.skyde">
+<programme start="20260313173000 +0000" stop="20260313180000 +0000" channel="Sky Sport Tennis HD.skyde">
     <title>ATP: This Week</title>
 </programme>
-<programme start="20260313183000 +0000" stop="20260313185500 +0000" channel="Sky Sport Tennis HD.skyde">
+<programme start="20260313180000 +0000" stop="20260313183500 +0000" channel="Sky Sport Tennis HD.skyde">
     <title>ATP: The Impossible Shot - Behind The Scenes</title>
 </programme>
-<programme start="20260313185500 +0000" stop="20260313205500 +0000" channel="Sky Sport Tennis HD.skyde">
+<programme start="20260313183500 +0000" stop="20260313205000 +0000" channel="Sky Sport Tennis HD.skyde">
     <title>WTA 1000: A. Sabalenka - V. Mboko (CAN), BNP Paribas Open in Indian Wells, Kalifornien (USA), Viertelfinale 1</title>
 </programme>
-<programme start="20260313205500 +0000" stop="20260313225500 +0000" channel="Sky Sport Tennis HD.skyde">
+<programme start="20260313205000 +0000" stop="20260313225500 +0000" channel="Sky Sport Tennis HD.skyde">
     <title>WTA 1000: E. Svitolina (UKR) - I. Swiatek (POL), BNP Paribas Open in Indian Wells, Kalifornien (USA), Viertelfinale 3</title>
 </programme>
 <programme start="20260313225500 +0000" stop="20260314010000 +0000" channel="Sky Sport Tennis HD.skyde">
-    <title>Live WTA 1000: HF1, BNP Paribas Open in Indian Wells, Kalifornien (USA), Halbfinale 1</title>
+    <title>Live WTA 1000: L. Noskova (CZE) - A. Sabalenka, BNP Paribas Open in Indian Wells, Kalifornien (USA), Halbfinale 1</title>
 </programme>
 <programme start="20260313031500 +0000" stop="20260313050000 +0000" channel="Sky Sport Top Event HD.skyde">
     <title>Live F1: 1. Freies Training - GP China</title>
@@ -3510,10 +3513,10 @@ Warning: Undefined array key "et" in /usr/home/ManusiaBiasa/domains/manusiabiasa
 <programme start="20260313055500 +0000" stop="20260313060500 +0000" channel="Sky Sport Top Event HD.skyde">
     <title>F1: Jessica Hawkins im AMR21</title>
 </programme>
-<programme start="20260313060500 +0000" stop="20260313064500 +0000" channel="Sky Sport Top Event HD.skyde">
+<programme start="20260313060500 +0000" stop="20260313065500 +0000" channel="Sky Sport Top Event HD.skyde">
     <title>Live F1 Academy: Qualifying - GP China</title>
 </programme>
-<programme start="20260313064500 +0000" stop="20260313071500 +0000" channel="Sky Sport Top Event HD.skyde">
+<programme start="20260313065500 +0000" stop="20260313071500 +0000" channel="Sky Sport Top Event HD.skyde">
     <title>F1: GP Confidential</title>
 </programme>
 <programme start="20260313071500 +0000" stop="20260313084500 +0000" channel="Sky Sport Top Event HD.skyde">
@@ -3559,7 +3562,7 @@ Warning: Undefined array key "et" in /usr/home/ManusiaBiasa/domains/manusiabiasa
     <title>F1: Top 10: Moments of Brilliance - Aryton Senna</title>
 </programme>
 <programme start="20260313225500 +0000" stop="20260314010000 +0000" channel="Sky Sport Top Event HD.skyde">
-    <title>Live WTA 1000: HF1, BNP Paribas Open in Indian Wells, Kalifornien (USA), Halbfinale 1</title>
+    <title>Live WTA 1000: L. Noskova (CZE) - A. Sabalenka, BNP Paribas Open in Indian Wells, Kalifornien (USA), Halbfinale 1</title>
 </programme>
 <programme start="20260312231000 +0000" stop="20260313001000 +0000" channel="Sky Sport UHD.skyde">
     <title>F2: 2. Rennen - GP Australien</title>
@@ -3585,10 +3588,10 @@ Warning: Undefined array key "et" in /usr/home/ManusiaBiasa/domains/manusiabiasa
 <programme start="20260313055500 +0000" stop="20260313060500 +0000" channel="Sky Sport UHD.skyde">
     <title>F1: Jessica Hawkins im AMR21</title>
 </programme>
-<programme start="20260313060500 +0000" stop="20260313064500 +0000" channel="Sky Sport UHD.skyde">
+<programme start="20260313060500 +0000" stop="20260313065500 +0000" channel="Sky Sport UHD.skyde">
     <title>Live F1 Academy: Qualifying - GP China</title>
 </programme>
-<programme start="20260313064500 +0000" stop="20260313071500 +0000" channel="Sky Sport UHD.skyde">
+<programme start="20260313065500 +0000" stop="20260313071500 +0000" channel="Sky Sport UHD.skyde">
     <title>F1: GP Confidential</title>
 </programme>
 <programme start="20260313071500 +0000" stop="20260313084500 +0000" channel="Sky Sport UHD.skyde">
@@ -3600,10 +3603,10 @@ Warning: Undefined array key "et" in /usr/home/ManusiaBiasa/domains/manusiabiasa
 <programme start="20260313094500 +0000" stop="20260313100000 +0000" channel="Sky Sport UHD.skyde">
     <title>Info: UHD</title>
 </programme>
-<programme start="20260313000000 +0000" stop="20260313020000 +0000" channel="Sky Sport 1 HD.skyde">
+<programme start="20260313000000 +0000" stop="20260313021000 +0000" channel="Sky Sport 1 HD.skyde">
     <title>Live ATP 1000: J. Draper (GBR) - D. Medvedev, BNP Paribas Open in Indian Wells, Kalifornien (USA), Viertelfinale 3</title>
 </programme>
-<programme start="20260313020000 +0000" stop="20260313085000 +0000" channel="Sky Sport 1 HD.skyde">
+<programme start="20260313021000 +0000" stop="20260313054500 +0000" channel="Sky Sport 1 HD.skyde">
     <title>Live ATP 1000: C. Alcaraz (ESP) - C. Norrie (GBR), BNP Paribas Open in Indian Wells, Kalifornien (USA), Viertelfinale 4</title>
 </programme>
 <programme start="20260313090000 +0000" stop="20260313090500 +0000" channel="Sky Sport 1 HD.skyde">
@@ -3894,13 +3897,13 @@ Warning: Undefined array key "et" in /usr/home/ManusiaBiasa/domains/manusiabiasa
 <programme start="20260313165500 +0000" stop="20260313170000 +0000" channel="Sky Sport 1 HD.skyde">
     <title>Test SPORT 01 with BO-ALLGEMEIN</title>
 </programme>
-<programme start="20260313003000 +0000" stop="20260313090000 +0000" channel="Sky Sport 2 HD.skyde">
+<programme start="20260313000000 +0000" stop="20260313090000 +0000" channel="Sky Sport 2 HD.skyde">
     <title>Live WTA 1000: J. Pegula (USA) - E. Rybakina (KAZ), BNP Paribas Open in Indian Wells, Kalifornien (USA), Viertelfinale 4</title>
 </programme>
 <programme start="20260313193000 +0000" stop="20260313195000 +0000" channel="Sky Sport 6 HD.skyde">
     <title>Es folgt: LIVE EFL</title>
 </programme>
-<programme start="20260313195000 +0000" stop="20260313223000 +0000" channel="Sky Sport 6 HD.skyde">
+<programme start="20260313195000 +0000" stop="20260313220000 +0000" channel="Sky Sport 6 HD.skyde">
     <title>Live EFL: AFC Wrexham - Swansea City, 38. Spieltag</title>
 </programme>
 <programme start="20260312230000 +0000" stop="20260312234500 +0000" channel="SYFY HD.skyde">
@@ -4206,10 +4209,10 @@ Warning: Undefined array key "et" in /usr/home/ManusiaBiasa/domains/manusiabiasa
 <programme start="20260313131000 +0000" stop="20260313133500 +0000" channel="Warner TV Comedy HD.skyde">
     <title>King of Queens</title>
 </programme>
-<programme start="20260313133500 +0000" stop="20260313135500 +0000" channel="Warner TV Comedy HD.skyde">
+<programme start="20260313133500 +0000" stop="20260313140000 +0000" channel="Warner TV Comedy HD.skyde">
     <title>King of Queens</title>
 </programme>
-<programme start="20260313135500 +0000" stop="20260313142000 +0000" channel="Warner TV Comedy HD.skyde">
+<programme start="20260313140000 +0000" stop="20260313142000 +0000" channel="Warner TV Comedy HD.skyde">
     <title>King of Queens</title>
 </programme>
 <programme start="20260313142000 +0000" stop="20260313144500 +0000" channel="Warner TV Comedy HD.skyde">
@@ -4230,13 +4233,13 @@ Warning: Undefined array key "et" in /usr/home/ManusiaBiasa/domains/manusiabiasa
 <programme start="20260313162500 +0000" stop="20260313165000 +0000" channel="Warner TV Comedy HD.skyde">
     <title>Two and a Half Men</title>
 </programme>
-<programme start="20260313165000 +0000" stop="20260313171000 +0000" channel="Warner TV Comedy HD.skyde">
+<programme start="20260313165000 +0000" stop="20260313171500 +0000" channel="Warner TV Comedy HD.skyde">
     <title>2 Broke Girls</title>
 </programme>
-<programme start="20260313171000 +0000" stop="20260313173500 +0000" channel="Warner TV Comedy HD.skyde">
+<programme start="20260313171500 +0000" stop="20260313174000 +0000" channel="Warner TV Comedy HD.skyde">
     <title>2 Broke Girls</title>
 </programme>
-<programme start="20260313173500 +0000" stop="20260313180000 +0000" channel="Warner TV Comedy HD.skyde">
+<programme start="20260313174000 +0000" stop="20260313180000 +0000" channel="Warner TV Comedy HD.skyde">
     <title>The Big Bang Theory</title>
 </programme>
 <programme start="20260313180000 +0000" stop="20260313182500 +0000" channel="Warner TV Comedy HD.skyde">
