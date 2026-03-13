@@ -5158,14 +5158,11 @@
     <programme start="20260313080000 +0000" stop="20260313083000 +0000" channel="SPOTV.starhub">
         <title>Highlights</title>
     </programme>
-    <programme start="20260313083000 +0000" stop="20260313100000 +0000" channel="SPOTV.starhub">
-        <title>International Dressage CDI1</title>
-    </programme>
-    <programme start="20260313100000 +0000" stop="20260313103000 +0000" channel="SPOTV.starhub">
+    <programme start="20260313083000 +0000" stop="20260313090000 +0000" channel="SPOTV.starhub">
         <title>Formula E S12 Mid Season Review</title>
     </programme>
-    <programme start="20260313103000 +0000" stop="20260313120000 +0000" channel="SPOTV.starhub">
-        <title>International Dressage CDIY</title>
+    <programme start="20260313090000 +0000" stop="20260313120000 +0000" channel="SPOTV.starhub">
+        <title>2026 World Baseball Classic: Pool B Italy vs USA</title>
     </programme>
     <programme start="20260313120000 +0000" stop="20260313130000 +0000" channel="SPOTV.starhub">
         <title>Highlights 1</title>
@@ -5923,11 +5920,11 @@
     <programme start="20260313093000 +0000" stop="20260313110000 +0000" channel="ROCK Entertainment.starhub">
         <title>The Great Train Robbery: A Robber&#039;s Tale</title>
     </programme>
-    <programme start="20260313110000 +0000" stop="20260313124000 +0000" channel="ROCK Entertainment.starhub">
-        <title>The Coca Cola Kid</title>
+    <programme start="20260313110000 +0000" stop="20260313123500 +0000" channel="ROCK Entertainment.starhub">
+        <title>The Wrong Daughter</title>
     </programme>
-    <programme start="20260313124000 +0000" stop="20260313143500 +0000" channel="ROCK Entertainment.starhub">
-        <title>Tim</title>
+    <programme start="20260313123500 +0000" stop="20260313143500 +0000" channel="ROCK Entertainment.starhub">
+        <title>Around The World In 80 Days</title>
     </programme>
     <programme start="20260313143500 +0000" stop="20260313163000 +0000" channel="ROCK Entertainment.starhub">
         <title>A Man Called Otto</title>

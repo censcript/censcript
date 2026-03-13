@@ -1111,9 +1111,6 @@
 <programme start="20260313003000 +0000" stop="20260313010000 +0000" channel="Metro TV.vision">
 <title>Metro Sport</title>
 </programme>
-<programme start="20260313010000 +0000" stop="20260313010500 +0000" channel="Metro TV.vision">
-<title>Headline News</title>
-</programme>
 <programme start="20260313010500 +0000" stop="20260313013000 +0000" channel="Metro TV.vision">
 <title>Selamat Pagi Indonesia</title>
 </programme>
@@ -1125,9 +1122,6 @@
 </programme>
 <programme start="20260313020000 +0000" stop="20260313020500 +0000" channel="Metro TV.vision">
 <title>Headline News</title>
-</programme>
-<programme start="20260313020500 +0000" stop="20260313022000 +0000" channel="Metro TV.vision">
-<title>Selamat Pagi Indonesia</title>
 </programme>
 <programme start="20260313022000 +0000" stop="20260313023000 +0000" channel="Metro TV.vision">
 <title>Monitor Mudik</title>
@@ -1143,9 +1137,6 @@
 </programme>
 <programme start="20260313033000 +0000" stop="20260313040000 +0000" channel="Metro TV.vision">
 <title>Go Healthy</title>
-</programme>
-<programme start="20260313040000 +0000" stop="20260313040500 +0000" channel="Metro TV.vision">
-<title>Headline News</title>
 </programme>
 <programme start="20260313040500 +0000" stop="20260313043000 +0000" channel="Metro TV.vision">
 <title>Metro Sport</title>
@@ -1234,21 +1225,6 @@
 <programme start="20260313135000 +0000" stop="20260313140000 +0000" channel="Metro TV.vision">
 <title>Top News</title>
 </programme>
-<programme start="20260313140000 +0000" stop="20260313140500 +0000" channel="Metro TV.vision">
-<title>Headline News</title>
-</programme>
-<programme start="20260313140500 +0000" stop="20260313143000 +0000" channel="Metro TV.vision">
-<title>Top News</title>
-</programme>
-<programme start="20260313143000 +0000" stop="20260313145000 +0000" channel="Metro TV.vision">
-<title>Top News</title>
-</programme>
-<programme start="20260313145000 +0000" stop="20260313150000 +0000" channel="Metro TV.vision">
-<title>Monitor Mudik</title>
-</programme>
-<programme start="20260313150000 +0000" stop="20260313150500 +0000" channel="Metro TV.vision">
-<title>Headline News</title>
-</programme>
 <programme start="20260313150500 +0000" stop="20260313153000 +0000" channel="Metro TV.vision">
 <title>Metro Xinwen</title>
 </programme>
@@ -1312,9 +1288,6 @@
 <programme start="20260313215500 +0000" stop="20260313220000 +0000" channel="Metro TV.vision">
 <title>Lentera Qolbu</title>
 </programme>
-<programme start="20260313220000 +0000" stop="20260313220500 +0000" channel="Metro TV.vision">
-<title>Headline News</title>
-</programme>
 <programme start="20260313220500 +0000" stop="20260313223000 +0000" channel="Metro TV.vision">
 <title>Metro Pagi Primetime</title>
 </programme>
@@ -1354,20 +1327,11 @@
 <programme start="20260314015000 +0000" stop="20260314020000 +0000" channel="Metro TV.vision">
 <title>Selamat Pagi Indonesia</title>
 </programme>
-<programme start="20260314020000 +0000" stop="20260314020500 +0000" channel="Metro TV.vision">
-<title>Headline News</title>
-</programme>
-<programme start="20260314020500 +0000" stop="20260314022000 +0000" channel="Metro TV.vision">
-<title>Selamat Pagi Indonesia</title>
-</programme>
 <programme start="20260314022000 +0000" stop="20260314023000 +0000" channel="Metro TV.vision">
 <title>Monitor Mudik</title>
 </programme>
 <programme start="20260314023000 +0000" stop="20260314030000 +0000" channel="Metro TV.vision">
 <title>Go Healthy</title>
-</programme>
-<programme start="20260314030000 +0000" stop="20260314030500 +0000" channel="Metro TV.vision">
-<title>Headline News</title>
 </programme>
 <programme start="20260314030500 +0000" stop="20260314033000 +0000" channel="Metro TV.vision">
 <title>Journey</title>
@@ -1402,13 +1366,7 @@
 <programme start="20260314073000 +0000" stop="20260314080000 +0000" channel="Metro TV.vision">
 <title>Newsline</title>
 </programme>
-<programme start="20260314080000 +0000" stop="20260314080500 +0000" channel="Metro TV.vision">
-<title>Headline News</title>
-</programme>
 <programme start="20260314080500 +0000" stop="20260314082000 +0000" channel="Metro TV.vision">
-<title>Newsline</title>
-</programme>
-<programme start="20260314082000 +0000" stop="20260314083000 +0000" channel="Metro TV.vision">
 <title>Newsline</title>
 </programme>
 <programme start="20260314083000 +0000" stop="20260314085000 +0000" channel="Metro TV.vision">
@@ -1497,4 +1455,46 @@
 </programme>
 <programme start="20260313083000 +0000" stop="20260313090000 +0000" channel="BTV.vision">
 <title>Berita Kriminal</title>
+</programme>
+<programme start="20260313090000 +0000" stop="20260313100000 +0000" channel="BTV.vision">
+<title>Berita Satu Sore (L)</title>
+</programme>
+<programme start="20260313100000 +0000" stop="20260313105700 +0000" channel="BTV.vision">
+<title>Jalan Dakwah Ramadan</title>
+</programme>
+<programme start="20260313105700 +0000" stop="20260313110400 +0000" channel="BTV.vision">
+<title>Kultum</title>
+</programme>
+<programme start="20260313110400 +0000" stop="20260313110900 +0000" channel="BTV.vision">
+<title>Menantikan Azan Magrib</title>
+</programme>
+<programme start="20260313110900 +0000" stop="20260313111300 +0000" channel="BTV.vision">
+<title>Azan Magrib</title>
+</programme>
+<programme start="20260313111300 +0000" stop="20260313111800 +0000" channel="BTV.vision">
+<title>Selamat Berbuka Puasa</title>
+</programme>
+<programme start="20260313111800 +0000" stop="20260313130000 +0000" channel="BTV.vision">
+<title>Berita Satu Utama</title>
+</programme>
+<programme start="20260313130000 +0000" stop="20260313133000 +0000" channel="BTV.vision">
+<title>Spot On</title>
+</programme>
+<programme start="20260313133000 +0000" stop="20260313140000 +0000" channel="BTV.vision">
+<title>30 Minute With Jasa Marga</title>
+</programme>
+<programme start="20260313140000 +0000" stop="20260313150000 +0000" channel="BTV.vision">
+<title>Berita Viral</title>
+</programme>
+<programme start="20260313150000 +0000" stop="20260313160000 +0000" channel="BTV.vision">
+<title>Berita Satu Malam</title>
+</programme>
+<programme start="20260313160000 +0000" stop="20260313163000 +0000" channel="BTV.vision">
+<title>Sirkuit Nasional Padel 2026</title>
+</programme>
+<programme start="20260313163000 +0000" stop="20260313173000 +0000" channel="BTV.vision">
+<title>ONE Vault</title>
+</programme>
+<programme start="20260313173000 +0000" stop="20260313180000 +0000" channel="BTV.vision">
+<title>Berita Viral</title>
 </programme>

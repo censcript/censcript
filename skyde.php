@@ -3045,7 +3045,7 @@ Warning: Undefined array key "et" in /usr/home/ManusiaBiasa/domains/manusiabiasa
 <programme start="20260313164000 +0000" stop="20260313170000 +0000" channel="Sky Sport Bundesliga 4 HD.skyde">
     <title>Es folgt: Live 2. Bundesliga</title>
 </programme>
-<programme start="20260313170000 +0000" stop="20260313200000 +0000" channel="Sky Sport Bundesliga 4 HD.skyde">
+<programme start="20260313170000 +0000" stop="20260313193000 +0000" channel="Sky Sport Bundesliga 4 HD.skyde">
     <title>Live 2. BL: SpVgg Greuther Fürth - SV Elversberg, 26. Spieltag</title>
 </programme>
 <programme start="20260313164000 +0000" stop="20260313170000 +0000" channel="Sky Sport Bundesliga 5 HD.skyde">

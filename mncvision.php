@@ -8740,14 +8740,11 @@
 <programme start="20260313080000 +0000" stop="20260313083000 +0000" channel="SPOTV.mncvision">
     <title>Women&#039;s Amateur Asia-Pacific</title>
 </programme>
-<programme start="20260313083000 +0000" stop="20260313100000 +0000" channel="SPOTV.mncvision">
-    <title>2026 Rolex Grand Slam (L)</title>
-</programme>
-<programme start="20260313100000 +0000" stop="20260313103000 +0000" channel="SPOTV.mncvision">
+<programme start="20260313083000 +0000" stop="20260313090000 +0000" channel="SPOTV.mncvision">
     <title>Formula E S12 Mid Season</title>
 </programme>
-<programme start="20260313103000 +0000" stop="20260313120000 +0000" channel="SPOTV.mncvision">
-    <title>2026 Rolex Grand Slam (L)</title>
+<programme start="20260313090000 +0000" stop="20260313120000 +0000" channel="SPOTV.mncvision">
+    <title>2026 World Baseball Classic</title>
 </programme>
 <programme start="20260313120000 +0000" stop="20260313130000 +0000" channel="SPOTV.mncvision">
     <title>2025/26 Asian Le Mans Series</title>
@@ -8890,14 +8887,11 @@
 <programme start="20260313080000 +0000" stop="20260313083000 +0000" channel="SPOTV HD.mncvision">
     <title>Women&#039;s Amateur Asia-Pacific</title>
 </programme>
-<programme start="20260313083000 +0000" stop="20260313100000 +0000" channel="SPOTV HD.mncvision">
-    <title>2026 Rolex Grand Slam (L)</title>
-</programme>
-<programme start="20260313100000 +0000" stop="20260313103000 +0000" channel="SPOTV HD.mncvision">
+<programme start="20260313083000 +0000" stop="20260313090000 +0000" channel="SPOTV HD.mncvision">
     <title>Formula E S12 Mid Season</title>
 </programme>
-<programme start="20260313103000 +0000" stop="20260313120000 +0000" channel="SPOTV HD.mncvision">
-    <title>2026 Rolex Grand Slam (L)</title>
+<programme start="20260313090000 +0000" stop="20260313120000 +0000" channel="SPOTV HD.mncvision">
+    <title>2026 World Baseball Classic</title>
 </programme>
 <programme start="20260313120000 +0000" stop="20260313130000 +0000" channel="SPOTV HD.mncvision">
     <title>2025/26 Asian Le Mans Series</title>
