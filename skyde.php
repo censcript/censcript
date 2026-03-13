@@ -573,10 +573,10 @@ Warning: Undefined array key "et" in /usr/home/ManusiaBiasa/domains/manusiabiasa
 <programme start="20260313054000 +0000" stop="20260313055500 +0000" channel="Cartoonito.skyde">
     <title>SuperThings: Rivalen von Kaboom - Kazoom-Power</title>
 </programme>
-<programme start="20260313055500 +0000" stop="20260313060000 +0000" channel="Cartoonito.skyde">
+<programme start="20260313055500 +0000" stop="20260313060500 +0000" channel="Cartoonito.skyde">
     <title>Grizzy und die Lemminge</title>
 </programme>
-<programme start="20260313060000 +0000" stop="20260313061000 +0000" channel="Cartoonito.skyde">
+<programme start="20260313060500 +0000" stop="20260313061000 +0000" channel="Cartoonito.skyde">
     <title>Grizzy und die Lemminge</title>
 </programme>
 <programme start="20260313061000 +0000" stop="20260313062500 +0000" channel="Cartoonito.skyde">
@@ -588,10 +588,10 @@ Warning: Undefined array key "et" in /usr/home/ManusiaBiasa/domains/manusiabiasa
 <programme start="20260313063500 +0000" stop="20260313065000 +0000" channel="Cartoonito.skyde">
     <title>Batwheels</title>
 </programme>
-<programme start="20260313065000 +0000" stop="20260313070000 +0000" channel="Cartoonito.skyde">
+<programme start="20260313065000 +0000" stop="20260313070500 +0000" channel="Cartoonito.skyde">
     <title>Ben 10</title>
 </programme>
-<programme start="20260313070000 +0000" stop="20260313072000 +0000" channel="Cartoonito.skyde">
+<programme start="20260313070500 +0000" stop="20260313072000 +0000" channel="Cartoonito.skyde">
     <title>Ben 10</title>
 </programme>
 <programme start="20260313072000 +0000" stop="20260313075000 +0000" channel="Cartoonito.skyde">
@@ -669,28 +669,28 @@ Warning: Undefined array key "et" in /usr/home/ManusiaBiasa/domains/manusiabiasa
 <programme start="20260313123500 +0000" stop="20260313125000 +0000" channel="Cartoonito.skyde">
     <title>Mr. Bean - Die Cartoon-Serie</title>
 </programme>
-<programme start="20260313125000 +0000" stop="20260313130000 +0000" channel="Cartoonito.skyde">
+<programme start="20260313125000 +0000" stop="20260313130500 +0000" channel="Cartoonito.skyde">
     <title>Mr. Bean - Die Cartoon-Serie</title>
 </programme>
-<programme start="20260313130000 +0000" stop="20260313131000 +0000" channel="Cartoonito.skyde">
+<programme start="20260313130500 +0000" stop="20260313131500 +0000" channel="Cartoonito.skyde">
     <title>Mr. Bean - Die Cartoon-Serie</title>
 </programme>
-<programme start="20260313131000 +0000" stop="20260313133000 +0000" channel="Cartoonito.skyde">
+<programme start="20260313131500 +0000" stop="20260313133000 +0000" channel="Cartoonito.skyde">
     <title>Mr. Bean - Die Cartoon-Serie</title>
 </programme>
-<programme start="20260313133000 +0000" stop="20260313133500 +0000" channel="Cartoonito.skyde">
+<programme start="20260313133000 +0000" stop="20260313134000 +0000" channel="Cartoonito.skyde">
     <title>Lamput</title>
 </programme>
-<programme start="20260313133500 +0000" stop="20260313134500 +0000" channel="Cartoonito.skyde">
+<programme start="20260313134000 +0000" stop="20260313134500 +0000" channel="Cartoonito.skyde">
     <title>Lamput</title>
 </programme>
 <programme start="20260313134500 +0000" stop="20260313135500 +0000" channel="Cartoonito.skyde">
     <title>Lamput</title>
 </programme>
-<programme start="20260313135500 +0000" stop="20260313140500 +0000" channel="Cartoonito.skyde">
+<programme start="20260313135500 +0000" stop="20260313141000 +0000" channel="Cartoonito.skyde">
     <title>Batwheels</title>
 </programme>
-<programme start="20260313140500 +0000" stop="20260313142500 +0000" channel="Cartoonito.skyde">
+<programme start="20260313141000 +0000" stop="20260313142500 +0000" channel="Cartoonito.skyde">
     <title>Batwheels</title>
 </programme>
 <programme start="20260313142500 +0000" stop="20260313143500 +0000" channel="Cartoonito.skyde">
@@ -720,10 +720,10 @@ Warning: Undefined array key "et" in /usr/home/ManusiaBiasa/domains/manusiabiasa
 <programme start="20260313164500 +0000" stop="20260313165500 +0000" channel="Cartoonito.skyde">
     <title>Tom und Jerry Gokko</title>
 </programme>
-<programme start="20260313165500 +0000" stop="20260313172000 +0000" channel="Cartoonito.skyde">
+<programme start="20260313165500 +0000" stop="20260313172500 +0000" channel="Cartoonito.skyde">
     <title>Bleib cool, Scooby-Doo!</title>
 </programme>
-<programme start="20260313172000 +0000" stop="20260313175000 +0000" channel="Cartoonito.skyde">
+<programme start="20260313172500 +0000" stop="20260313175000 +0000" channel="Cartoonito.skyde">
     <title>Bleib cool, Scooby-Doo!</title>
 </programme>
 <programme start="20260313175000 +0000" stop="20260313182000 +0000" channel="Cartoonito.skyde">
@@ -780,10 +780,10 @@ Warning: Undefined array key "et" in /usr/home/ManusiaBiasa/domains/manusiabiasa
 <programme start="20260313213500 +0000" stop="20260313214500 +0000" channel="Cartoonito.skyde">
     <title>Batwheels</title>
 </programme>
-<programme start="20260313214500 +0000" stop="20260313215000 +0000" channel="Cartoonito.skyde">
+<programme start="20260313214500 +0000" stop="20260313215500 +0000" channel="Cartoonito.skyde">
     <title>Hier kommen die Batwheels</title>
 </programme>
-<programme start="20260313215000 +0000" stop="20260313220500 +0000" channel="Cartoonito.skyde">
+<programme start="20260313215500 +0000" stop="20260313220500 +0000" channel="Cartoonito.skyde">
     <title>Bugs Bunnys Baumeister</title>
 </programme>
 <programme start="20260313220500 +0000" stop="20260313222000 +0000" channel="Cartoonito.skyde">
@@ -3588,10 +3588,10 @@ Warning: Undefined array key "et" in /usr/home/ManusiaBiasa/domains/manusiabiasa
 <programme start="20260313055500 +0000" stop="20260313060500 +0000" channel="Sky Sport UHD.skyde">
     <title>F1: Jessica Hawkins im AMR21</title>
 </programme>
-<programme start="20260313060500 +0000" stop="20260313064500 +0000" channel="Sky Sport UHD.skyde">
+<programme start="20260313060500 +0000" stop="20260313065500 +0000" channel="Sky Sport UHD.skyde">
     <title>Live F1 Academy: Qualifying - GP China</title>
 </programme>
-<programme start="20260313064500 +0000" stop="20260313071500 +0000" channel="Sky Sport UHD.skyde">
+<programme start="20260313065500 +0000" stop="20260313071500 +0000" channel="Sky Sport UHD.skyde">
     <title>F1: GP Confidential</title>
 </programme>
 <programme start="20260313071500 +0000" stop="20260313084500 +0000" channel="Sky Sport UHD.skyde">
@@ -3897,7 +3897,7 @@ Warning: Undefined array key "et" in /usr/home/ManusiaBiasa/domains/manusiabiasa
 <programme start="20260313165500 +0000" stop="20260313170000 +0000" channel="Sky Sport 1 HD.skyde">
     <title>Test SPORT 01 with BO-ALLGEMEIN</title>
 </programme>
-<programme start="20260313003500 +0000" stop="20260313023000 +0000" channel="Sky Sport 2 HD.skyde">
+<programme start="20260313000000 +0000" stop="20260313090000 +0000" channel="Sky Sport 2 HD.skyde">
     <title>Live WTA 1000: J. Pegula (USA) - E. Rybakina (KAZ), BNP Paribas Open in Indian Wells, Kalifornien (USA), Viertelfinale 4</title>
 </programme>
 <programme start="20260313193000 +0000" stop="20260313195000 +0000" channel="Sky Sport 6 HD.skyde">
