@@ -7034,7 +7034,7 @@
         <title>NHK Newsline</title>
     </programme>
     <programme start="20260312173000 +0000" stop="20260312180000 +0000" channel="NHK WORLD - JAPAN HD.starhub">
-        <title>NHK World-Japan Special Programme</title>
+        <title>A Second Disaster</title>
     </programme>
     <programme start="20260312180000 +0000" stop="20260312182800 +0000" channel="NHK WORLD - JAPAN HD.starhub">
         <title>Newsroom Tokyo</title>
@@ -7073,7 +7073,7 @@
         <title>NHK Newsline</title>
     </programme>
     <programme start="20260312223000 +0000" stop="20260312230000 +0000" channel="NHK WORLD - JAPAN HD.starhub">
-        <title>NHK World-Japan Special Programme</title>
+        <title>A Second Disaster</title>
     </programme>
     <programme start="20260312230000 +0000" stop="20260312233000 +0000" channel="NHK WORLD - JAPAN HD.starhub">
         <title>NHK Newsline</title>

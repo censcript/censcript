@@ -5593,6 +5593,75 @@
   <programme start="20260315220000 +0000" stop="20260315230000 +0000" channel="Discovery.webtv.sk">
     <title lang="id">Fukušima: Dny, které šokovaly svět III (1)</title>
   </programme>
+  <programme start="20260314220000 +0000" stop="20260315000000 +0000" channel="ID.webtv.sk">
+    <title lang="id">Prokletí Lizzie Bordenové</title>
+  </programme>
+  <programme start="20260315000000 +0000" stop="20260315010000 +0000" channel="ID.webtv.sk">
+    <title lang="id">Sami s duchy II (11)</title>
+  </programme>
+  <programme start="20260315010000 +0000" stop="20260315020000 +0000" channel="ID.webtv.sk">
+    <title lang="id">Sami s duchy II (12)</title>
+  </programme>
+  <programme start="20260315020000 +0000" stop="20260315030000 +0000" channel="ID.webtv.sk">
+    <title lang="id">Vražda v srdci země III (8)</title>
+  </programme>
+  <programme start="20260315030000 +0000" stop="20260315040000 +0000" channel="ID.webtv.sk">
+    <title lang="id">Hraniční kontrola: Švédsko I (11)</title>
+  </programme>
+  <programme start="20260315040000 +0000" stop="20260315050000 +0000" channel="ID.webtv.sk">
+    <title lang="id">Hraniční kontrola: Švédsko I (12)</title>
+  </programme>
+  <programme start="20260315050000 +0000" stop="20260315060000 +0000" channel="ID.webtv.sk">
+    <title lang="id">Hraniční kontrola: Švédsko I (13)</title>
+  </programme>
+  <programme start="20260315060000 +0000" stop="20260315070000 +0000" channel="ID.webtv.sk">
+    <title lang="id">Hraniční kontrola: Švédsko I (14)</title>
+  </programme>
+  <programme start="20260315070000 +0000" stop="20260315090000 +0000" channel="ID.webtv.sk">
+    <title lang="id">Smrt v močálu: 8 z Jenningsu I (1)</title>
+  </programme>
+  <programme start="20260315090000 +0000" stop="20260315100000 +0000" channel="ID.webtv.sk">
+    <title lang="id">Skutečný zločin s Aphroditou Jonesovou III: Casey Anthonyová III (6)</title>
+  </programme>
+  <programme start="20260315100000 +0000" stop="20260315110000 +0000" channel="ID.webtv.sk">
+    <title lang="id">Skutečný zločin s Aphroditou Jonesovou III (8)</title>
+  </programme>
+  <programme start="20260315110000 +0000" stop="20260315120000 +0000" channel="ID.webtv.sk">
+    <title lang="id">Chyceni v síti I (4)</title>
+  </programme>
+  <programme start="20260315120000 +0000" stop="20260315130000 +0000" channel="ID.webtv.sk">
+    <title lang="id">Chyceni v síti I (5)</title>
+  </programme>
+  <programme start="20260315130000 +0000" stop="20260315140000 +0000" channel="ID.webtv.sk">
+    <title lang="id">Síť lží II (6)</title>
+  </programme>
+  <programme start="20260315140000 +0000" stop="20260315150000 +0000" channel="ID.webtv.sk">
+    <title lang="id">Síť lží II (7)</title>
+  </programme>
+  <programme start="20260315150000 +0000" stop="20260315160000 +0000" channel="ID.webtv.sk">
+    <title lang="id">Smrtící matky a otcové I (4)</title>
+  </programme>
+  <programme start="20260315160000 +0000" stop="20260315170000 +0000" channel="ID.webtv.sk">
+    <title lang="id">Smrtící matky a otcové I (5)</title>
+  </programme>
+  <programme start="20260315170000 +0000" stop="20260315180000 +0000" channel="ID.webtv.sk">
+    <title lang="id">Zapovězeno: Smrt z lásky IV (8)</title>
+  </programme>
+  <programme start="20260315180000 +0000" stop="20260315190000 +0000" channel="ID.webtv.sk">
+    <title lang="id">Zapovězeno: Smrt z lásky IV (10)</title>
+  </programme>
+  <programme start="20260315190000 +0000" stop="20260315200000 +0000" channel="ID.webtv.sk">
+    <title lang="id">Podivné případy I (7)</title>
+  </programme>
+  <programme start="20260315200000 +0000" stop="20260315210000 +0000" channel="ID.webtv.sk">
+    <title lang="id">Ženy, které zmizely na dálnici 20 I (1)</title>
+  </programme>
+  <programme start="20260315210000 +0000" stop="20260315220000 +0000" channel="ID.webtv.sk">
+    <title lang="id">Ženy, které zmizely na dálnici 20 I (2)</title>
+  </programme>
+  <programme start="20260315220000 +0000" stop="20260315230000 +0000" channel="ID.webtv.sk">
+    <title lang="id">Ženy, které zmizely na dálnici 20 I (3)</title>
+  </programme>
   <programme start="20260314230000 +0000" stop="20260314233000 +0000" channel="HGTV.webtv.sk">
     <title lang="id">Ostrovní život XVIII (5)</title>
   </programme>
@@ -8505,6 +8574,54 @@
   </programme>
   <programme start="20260315223500 +0000" stop="20260316003500 +0000" channel="HBO 3.webtv.sk">
     <title lang="id">S větrem o závod</title>
+  </programme>
+  <programme start="20260314213500 +0000" stop="20260314234000 +0000" channel="Cinemax.webtv.sk">
+    <title lang="id">Mission: Impossible</title>
+  </programme>
+  <programme start="20260314234000 +0000" stop="20260315015000 +0000" channel="Cinemax.webtv.sk">
+    <title lang="id">Mission: Impossible - Ghost Protocol</title>
+  </programme>
+  <programme start="20260315015000 +0000" stop="20260315034000 +0000" channel="Cinemax.webtv.sk">
+    <title lang="id">22 Jump Street</title>
+  </programme>
+  <programme start="20260315034000 +0000" stop="20260315050000 +0000" channel="Cinemax.webtv.sk">
+    <title lang="id">Struna života</title>
+  </programme>
+  <programme start="20260315050000 +0000" stop="20260315065000 +0000" channel="Cinemax.webtv.sk">
+    <title lang="id">Vévodkyně</title>
+  </programme>
+  <programme start="20260315065000 +0000" stop="20260315071500 +0000" channel="Cinemax.webtv.sk">
+    <title lang="id">Stres party</title>
+  </programme>
+  <programme start="20260315071500 +0000" stop="20260315092500 +0000" channel="Cinemax.webtv.sk">
+    <title lang="id">Tři dny ke svobodě</title>
+  </programme>
+  <programme start="20260315092500 +0000" stop="20260315113000 +0000" channel="Cinemax.webtv.sk">
+    <title lang="id">Radikální metoda</title>
+  </programme>
+  <programme start="20260315113000 +0000" stop="20260315115500 +0000" channel="Cinemax.webtv.sk">
+    <title lang="id">Mlčenliví</title>
+  </programme>
+  <programme start="20260315115500 +0000" stop="20260315132000 +0000" channel="Cinemax.webtv.sk">
+    <title lang="id">Olmo</title>
+  </programme>
+  <programme start="20260315132000 +0000" stop="20260315145500 +0000" channel="Cinemax.webtv.sk">
+    <title lang="id">Mikado</title>
+  </programme>
+  <programme start="20260315145500 +0000" stop="20260315171000 +0000" channel="Cinemax.webtv.sk">
+    <title lang="id">Tři dny ke svobodě</title>
+  </programme>
+  <programme start="20260315171000 +0000" stop="20260315190000 +0000" channel="Cinemax.webtv.sk">
+    <title lang="id">Vévodkyně</title>
+  </programme>
+  <programme start="20260315190000 +0000" stop="20260315203000 +0000" channel="Cinemax.webtv.sk">
+    <title lang="id">Loupež na úrovni</title>
+  </programme>
+  <programme start="20260315203000 +0000" stop="20260315221500 +0000" channel="Cinemax.webtv.sk">
+    <title lang="id">Whiplash</title>
+  </programme>
+  <programme start="20260315221500 +0000" stop="20260315230000 +0000" channel="Cinemax.webtv.sk">
+    <title lang="id">Protiúder VII (5)</title>
   </programme>
   <programme start="20260314210500 +0000" stop="20260314230500 +0000" channel="Cinemax 2.webtv.sk">
     <title lang="id">Teorie všeho</title>
@@ -19093,7 +19210,10 @@
   <programme start="20260315190000 +0000" stop="20260315193000 +0000" channel="Rai Tre.webtv.sk">
     <title lang="id">Blob</title>
   </programme>
-  <programme start="20260315193000 +0000" stop="20260315221500 +0000" channel="Rai Tre.webtv.sk">
+  <programme start="20260315193000 +0000" stop="20260315202000 +0000" channel="Rai Tre.webtv.sk">
+    <title lang="id">PresaDiretta</title>
+  </programme>
+  <programme start="20260315202000 +0000" stop="20260315221500 +0000" channel="Rai Tre.webtv.sk">
     <title lang="id">PresaDiretta</title>
   </programme>
   <programme start="20260315221500 +0000" stop="20260315230000 +0000" channel="Rai Tre.webtv.sk">

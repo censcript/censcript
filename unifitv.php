@@ -15453,20 +15453,15 @@
     <desc lang="en">The Women's Amateur Asia-Pacific Championship features the region's leading amateur golfers competing for the title, recognition, and a pathway to the game's biggest championships.</desc>
     <category lang="en">Golf</category>
   </programme>
-  <programme start="20260313083000 +0000" stop="20260313100000 +0000" channel="spotv.unifitv">
-    <title lang="en">(L) 2026 Rolex Grand Slam: The Dutch Masters Day 2 - International Dressage CDI1</title>
-    <desc lang="en">The world's top riders compete at The Dutch Masters in 's-Hertogenbosch, showcasing elite show jumping and dressage at one of the Netherlands' premier indoor equestrian events.</desc>
-    <category lang="en">Extreme Sports</category>
-  </programme>
-  <programme start="20260313100000 +0000" stop="20260313103000 +0000" channel="spotv.unifitv">
+  <programme start="20260313083000 +0000" stop="20260313090000 +0000" channel="spotv.unifitv">
     <title lang="en">Formula E S12 Mid Season Review</title>
     <desc lang="en">The electric racing revolution continues in Formula E Season 12, as top drivers battle across iconic cities for the world championship crown.</desc>
     <category lang="en">Motorsports</category>
   </programme>
-  <programme start="20260313103000 +0000" stop="20260313120000 +0000" channel="spotv.unifitv">
-    <title lang="en">(L) 2026 Rolex Grand Slam: The Dutch Masters Day 2 - International Dressage CDIY</title>
-    <desc lang="en">The world's top show jumping riders compete for glory in the prestigious Rolex Grand Slam, delivering elite horsemanship, thrilling jumps, and world-class equestrian action.</desc>
-    <category lang="en">Extreme Sports</category>
+  <programme start="20260313090000 +0000" stop="20260313120000 +0000" channel="spotv.unifitv">
+    <title lang="en">2026 World Baseball Classic: Pool B - Italy vs USA</title>
+    <desc lang="en">The world's best national teams compete for international glory, delivering powerful hitting, elite pitching, and thrilling baseball action on the global stage.</desc>
+    <category lang="en">Baseball</category>
   </programme>
   <programme start="20260313120000 +0000" stop="20260313130000 +0000" channel="spotv.unifitv">
     <title lang="en">2025/26 Asian Le Mans Series, Abu Dhabi - Highlights 1</title>
