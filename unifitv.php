@@ -5555,7 +5555,7 @@
     <episode-num system="onscreen">S1E162</episode-num>
   </programme>
   <programme start="20260312173000 +0000" stop="20260312180000 +0000" channel="unknown.unifitv">
-    <title lang="en">Parijatham</title>
+    <title lang="en">Parijadam</title>
     <desc lang="en">After losing her parents and hearing in a tragic accident, Isai is forced to marry Vishal when her aunt Rukmini manipulates her horoscope to meet Subadra's strict astrological beliefs.</desc>
     <category lang="en">Romance</category>
     <episode-num system="xmltv_ns">0.152.</episode-num>
@@ -5754,7 +5754,7 @@
     <episode-num system="onscreen">S1E97</episode-num>
   </programme>
   <programme start="20260313123000 +0000" stop="20260313130000 +0000" channel="unknown.unifitv">
-    <title lang="en">Parijatham</title>
+    <title lang="en">Parijadam</title>
     <desc lang="en">After losing her parents and hearing in a tragic accident, Isai is forced to marry Vishal when her aunt Rukmini manipulates her horoscope to meet Subadra's strict astrological beliefs.</desc>
     <category lang="en">Romance</category>
     <episode-num system="xmltv_ns">0.154.</episode-num>

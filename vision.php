@@ -1459,13 +1459,7 @@
 <programme start="20260313033000 +0000" stop="20260313040000 +0000" channel="BTV.vision">
 <title>Indonesia Update Dari Nol</title>
 </programme>
-<programme start="20260313040000 +0000" stop="20260313050000 +0000" channel="BTV.vision">
-<title>Berita Satu Siang</title>
-</programme>
-<programme start="20260313050000 +0000" stop="20260313050500 +0000" channel="BTV.vision">
-<title>Berita Satu Terkini</title>
-</programme>
-<programme start="20260313050500 +0000" stop="20260313060000 +0000" channel="BTV.vision">
+<programme start="20260313040000 +0000" stop="20260313060000 +0000" channel="BTV.vision">
 <title>Berita Satu Siang</title>
 </programme>
 <programme start="20260313060000 +0000" stop="20260313070000 +0000" channel="BTV.vision">
@@ -1497,4 +1491,10 @@
 </programme>
 <programme start="20260313110900 +0000" stop="20260313111300 +0000" channel="BTV.vision">
 <title>Azan Magrib</title>
+</programme>
+<programme start="20260313111300 +0000" stop="20260313111800 +0000" channel="BTV.vision">
+<title>Selamat Berbuka Puasa</title>
+</programme>
+<programme start="20260313111800 +0000" stop="20260313130000 +0000" channel="BTV.vision">
+<title>Berita Satu Utama</title>
 </programme>
