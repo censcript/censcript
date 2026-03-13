@@ -4206,10 +4206,10 @@ Warning: Undefined array key "et" in /usr/home/ManusiaBiasa/domains/manusiabiasa
 <programme start="20260313131000 +0000" stop="20260313133500 +0000" channel="Warner TV Comedy HD.skyde">
     <title>King of Queens</title>
 </programme>
-<programme start="20260313133500 +0000" stop="20260313140000 +0000" channel="Warner TV Comedy HD.skyde">
+<programme start="20260313133500 +0000" stop="20260313135500 +0000" channel="Warner TV Comedy HD.skyde">
     <title>King of Queens</title>
 </programme>
-<programme start="20260313140000 +0000" stop="20260313142000 +0000" channel="Warner TV Comedy HD.skyde">
+<programme start="20260313135500 +0000" stop="20260313142000 +0000" channel="Warner TV Comedy HD.skyde">
     <title>King of Queens</title>
 </programme>
 <programme start="20260313142000 +0000" stop="20260313144500 +0000" channel="Warner TV Comedy HD.skyde">
@@ -4230,13 +4230,13 @@ Warning: Undefined array key "et" in /usr/home/ManusiaBiasa/domains/manusiabiasa
 <programme start="20260313162500 +0000" stop="20260313165000 +0000" channel="Warner TV Comedy HD.skyde">
     <title>Two and a Half Men</title>
 </programme>
-<programme start="20260313165000 +0000" stop="20260313171500 +0000" channel="Warner TV Comedy HD.skyde">
+<programme start="20260313165000 +0000" stop="20260313171000 +0000" channel="Warner TV Comedy HD.skyde">
     <title>2 Broke Girls</title>
 </programme>
-<programme start="20260313171500 +0000" stop="20260313174000 +0000" channel="Warner TV Comedy HD.skyde">
+<programme start="20260313171000 +0000" stop="20260313173500 +0000" channel="Warner TV Comedy HD.skyde">
     <title>2 Broke Girls</title>
 </programme>
-<programme start="20260313174000 +0000" stop="20260313180000 +0000" channel="Warner TV Comedy HD.skyde">
+<programme start="20260313173500 +0000" stop="20260313180000 +0000" channel="Warner TV Comedy HD.skyde">
     <title>The Big Bang Theory</title>
 </programme>
 <programme start="20260313180000 +0000" stop="20260313182500 +0000" channel="Warner TV Comedy HD.skyde">
