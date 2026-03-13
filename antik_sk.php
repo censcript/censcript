@@ -403,93 +403,6 @@
   <programme start="20260315225500 +0000" stop="20260315232000 +0000" channel=":24.webtv.sk">
     <title lang="id">Svet v obrazoch</title>
   </programme>
-  <programme start="20260314230000 +0000" stop="20260314230500 +0000" channel=":Šport.webtv.sk">
-    <title lang="id">Hymna SR</title>
-  </programme>
-  <programme start="20260314230500 +0000" stop="20260315001000 +0000" channel=":Šport.webtv.sk">
-    <title lang="id">Biatlon - Svetový pohár 2025/26 - SP 2025/26 (Otepää): ženy - stíhacie preteky</title>
-  </programme>
-  <programme start="20260315001000 +0000" stop="20260315001500 +0000" channel=":Šport.webtv.sk">
-    <title lang="id">Návraty</title>
-  </programme>
-  <programme start="20260315001500 +0000" stop="20260315002500 +0000" channel=":Šport.webtv.sk">
-    <title lang="id">Góly - body - sekundy</title>
-  </programme>
-  <programme start="20260315002500 +0000" stop="20260315011500 +0000" channel=":Šport.webtv.sk">
-    <title lang="id">Správy</title>
-  </programme>
-  <programme start="20260315011500 +0000" stop="20260315012500 +0000" channel=":Šport.webtv.sk">
-    <title lang="id">Góly - body - sekundy</title>
-  </programme>
-  <programme start="20260315012500 +0000" stop="20260315022000 +0000" channel=":Šport.webtv.sk">
-    <title lang="id">Správy</title>
-  </programme>
-  <programme start="20260315022000 +0000" stop="20260315023000 +0000" channel=":Šport.webtv.sk">
-    <title lang="id">Góly - body - sekundy</title>
-  </programme>
-  <programme start="20260315023000 +0000" stop="20260315032000 +0000" channel=":Šport.webtv.sk">
-    <title lang="id">Správy</title>
-  </programme>
-  <programme start="20260315032000 +0000" stop="20260315033000 +0000" channel=":Šport.webtv.sk">
-    <title lang="id">Góly - body - sekundy</title>
-  </programme>
-  <programme start="20260315033000 +0000" stop="20260315042500 +0000" channel=":Šport.webtv.sk">
-    <title lang="id">Správy</title>
-  </programme>
-  <programme start="20260315042500 +0000" stop="20260315054000 +0000" channel=":Šport.webtv.sk">
-    <title lang="id">ZPH Miláno - Cortina 2026 - Curling (zmiešané družstvá): finále</title>
-  </programme>
-  <programme start="20260315054000 +0000" stop="20260315065000 +0000" channel=":Šport.webtv.sk">
-    <title lang="id">Biatlon - Svetový pohár 2025/26 - SP 2025/26 (Otepää): muži - stíhacie preteky</title>
-  </programme>
-  <programme start="20260315065000 +0000" stop="20260315075500 +0000" channel=":Šport.webtv.sk">
-    <title lang="id">ZPH Miláno - Cortina 2026</title>
-  </programme>
-  <programme start="20260315075500 +0000" stop="20260315092500 +0000" channel=":Šport.webtv.sk">
-    <title lang="id">ZPH Miláno - Cortina 2026</title>
-  </programme>
-  <programme start="20260315092500 +0000" stop="20260315113000 +0000" channel=":Šport.webtv.sk">
-    <title lang="id">Futbal - MONACObet liga 2025/26</title>
-  </programme>
-  <programme start="20260315113000 +0000" stop="20260315123500 +0000" channel=":Šport.webtv.sk">
-    <title lang="id">Biatlon - Svetový pohár 2025/26 - SP 2025/26 (Otepää): zmiešaná štafeta dvojíc</title>
-  </programme>
-  <programme start="20260315123500 +0000" stop="20260315133500 +0000" channel=":Šport.webtv.sk">
-    <title lang="id">ZPH Miláno - Cortina 2026 - Zjazdové paralyžovanie (muži): slalom</title>
-  </programme>
-  <programme start="20260315133500 +0000" stop="20260315150000 +0000" channel=":Šport.webtv.sk">
-    <title lang="id">Biatlon - Svetový pohár 2025/26 - SP 2025/26 (Otepää): zmiešaná štafeta</title>
-  </programme>
-  <programme start="20260315150000 +0000" stop="20260315170000 +0000" channel=":Šport.webtv.sk">
-    <title lang="id">ZPH Miláno - Cortina 2026</title>
-  </programme>
-  <programme start="20260315170000 +0000" stop="20260315171000 +0000" channel=":Šport.webtv.sk">
-    <title lang="id">ZPH Miláno - Cortina 2026</title>
-  </programme>
-  <programme start="20260315171000 +0000" stop="20260315171500 +0000" channel=":Šport.webtv.sk">
-    <title lang="id">Ciao Italia</title>
-  </programme>
-  <programme start="20260315171500 +0000" stop="20260315182500 +0000" channel=":Šport.webtv.sk">
-    <title lang="id">ZPH Miláno - Cortina 2026 - Zjazdové paralyžovanie (muži): slalom</title>
-  </programme>
-  <programme start="20260315182500 +0000" stop="20260315190000 +0000" channel=":Šport.webtv.sk">
-    <title lang="id">Šport :24</title>
-  </programme>
-  <programme start="20260315190000 +0000" stop="20260315193000 +0000" channel=":Šport.webtv.sk">
-    <title lang="id">ZPH Miláno - Cortina 2026</title>
-  </programme>
-  <programme start="20260315193000 +0000" stop="20260315213000 +0000" channel=":Šport.webtv.sk">
-    <title lang="id">ZPH Miláno - Cortina 2026</title>
-  </programme>
-  <programme start="20260315213000 +0000" stop="20260315214000 +0000" channel=":Šport.webtv.sk">
-    <title lang="id">Góly - body - sekundy</title>
-  </programme>
-  <programme start="20260315214000 +0000" stop="20260315220000 +0000" channel=":Šport.webtv.sk">
-    <title lang="id">Plážový volejbal - Beach Pro Tour 2026 (Elite 16) - Beach Pro Tour (Joao Pessoa): muži - finále</title>
-  </programme>
-  <programme start="20260315220000 +0000" stop="20260315230000 +0000" channel=":Šport.webtv.sk">
-    <title lang="id">ZPH Miláno - Cortina 2026</title>
-  </programme>
   <programme start="20260314214500 +0000" stop="20260314235000 +0000" channel="Markíza.webtv.sk">
     <title lang="id">Besnenie</title>
   </programme>
@@ -663,6 +576,66 @@
   </programme>
   <programme start="20260315203000 +0000" stop="20260316000000 +0000" channel="Markíza +1.webtv.sk">
     <title lang="id">Let&apos;s Dance XI (2)</title>
+  </programme>
+  <programme start="20260314230000 +0000" stop="20260315013000 +0000" channel="JOJ +1.webtv.sk">
+    <title lang="id">Zabijakov osobný strážca 2</title>
+  </programme>
+  <programme start="20260315013000 +0000" stop="20260315034500 +0000" channel="JOJ +1.webtv.sk">
+    <title lang="id">Chcem ťa spť</title>
+  </programme>
+  <programme start="20260315034500 +0000" stop="20260315054500 +0000" channel="JOJ +1.webtv.sk">
+    <title lang="id">Česko Slovensko má talent</title>
+  </programme>
+  <programme start="20260315054500 +0000" stop="20260315062500 +0000" channel="JOJ +1.webtv.sk">
+    <title lang="id">Noviny TV JOJ</title>
+  </programme>
+  <programme start="20260315062500 +0000" stop="20260315065500 +0000" channel="JOJ +1.webtv.sk">
+    <title lang="id">Labková patrola IV (25)</title>
+  </programme>
+  <programme start="20260315065500 +0000" stop="20260315072000 +0000" channel="JOJ +1.webtv.sk">
+    <title lang="id">Spidey a jeho fantastickí priatelia (15)</title>
+  </programme>
+  <programme start="20260315072000 +0000" stop="20260315075000 +0000" channel="JOJ +1.webtv.sk">
+    <title lang="id">Rozprávková jazda (65/65)</title>
+  </programme>
+  <programme start="20260315075000 +0000" stop="20260315101000 +0000" channel="JOJ +1.webtv.sk">
+    <title lang="id">Asterix a Obelix: Ríša stredu</title>
+  </programme>
+  <programme start="20260315101000 +0000" stop="20260315130000 +0000" channel="JOJ +1.webtv.sk">
+    <title lang="id">Proroctvo: Koniec sveta</title>
+  </programme>
+  <programme start="20260315130000 +0000" stop="20260315151000 +0000" channel="JOJ +1.webtv.sk">
+    <title lang="id">James Bond: Quantum of Solace</title>
+  </programme>
+  <programme start="20260315151000 +0000" stop="20260315164500 +0000" channel="JOJ +1.webtv.sk">
+    <title lang="id">Hviezdy nad hlavou (10)</title>
+  </programme>
+  <programme start="20260315164500 +0000" stop="20260315175000 +0000" channel="JOJ +1.webtv.sk">
+    <title lang="id">Na chalupe</title>
+  </programme>
+  <programme start="20260315175000 +0000" stop="20260315190000 +0000" channel="JOJ +1.webtv.sk">
+    <title lang="id">Nové bývanie</title>
+  </programme>
+  <programme start="20260315190000 +0000" stop="20260315193000 +0000" channel="JOJ +1.webtv.sk">
+    <title lang="id">Krimi</title>
+  </programme>
+  <programme start="20260315193000 +0000" stop="20260315201500 +0000" channel="JOJ +1.webtv.sk">
+    <title lang="id">Noviny TV JOJ</title>
+  </programme>
+  <programme start="20260315201500 +0000" stop="20260315202000 +0000" channel="JOJ +1.webtv.sk">
+    <title lang="id">Informácie pre tipujúcich</title>
+  </programme>
+  <programme start="20260315202000 +0000" stop="20260315203000 +0000" channel="JOJ +1.webtv.sk">
+    <title lang="id">Šport</title>
+  </programme>
+  <programme start="20260315203000 +0000" stop="20260315204000 +0000" channel="JOJ +1.webtv.sk">
+    <title lang="id">Najlepšie počasie</title>
+  </programme>
+  <programme start="20260315204000 +0000" stop="20260315223000 +0000" channel="JOJ +1.webtv.sk">
+    <title lang="id">Chladnokrvný odkaz</title>
+  </programme>
+  <programme start="20260315223000 +0000" stop="20260316002000 +0000" channel="JOJ +1.webtv.sk">
+    <title lang="id">Dverný informátor</title>
   </programme>
   <programme start="20260314223000 +0000" stop="20260315000000 +0000" channel="Markíza Klasik.webtv.sk">
     <title lang="id">Televarieté</title>
@@ -2421,36 +2394,6 @@
   </programme>
   <programme start="20260315205000 +0000" stop="20260315230000 +0000" channel="Turbo TV.webtv.sk">
     <title lang="id">Hitparáda pre rodičov</title>
-  </programme>
-  <programme start="20260314230000 +0000" stop="20260315000000 +0000" channel="Senzi.webtv.sk">
-    <title lang="id">Piánko</title>
-  </programme>
-  <programme start="20260315000000 +0000" stop="20260315030000 +0000" channel="Senzi.webtv.sk">
-    <title lang="id">Hráme na dobrú noc</title>
-  </programme>
-  <programme start="20260315030000 +0000" stop="20260315040000 +0000" channel="Senzi.webtv.sk">
-    <title lang="id">Senzi noc</title>
-  </programme>
-  <programme start="20260315040000 +0000" stop="20260315050000 +0000" channel="Senzi.webtv.sk">
-    <title lang="id">Najlepšie ľudovky a dychovky</title>
-  </programme>
-  <programme start="20260315050000 +0000" stop="20260315080000 +0000" channel="Senzi.webtv.sk">
-    <title lang="id">Senzi ráno</title>
-  </programme>
-  <programme start="20260315080000 +0000" stop="20260315110000 +0000" channel="Senzi.webtv.sk">
-    <title lang="id">Najlepšie ľudovky a dychovky</title>
-  </programme>
-  <programme start="20260315110000 +0000" stop="20260315140000 +0000" channel="Senzi.webtv.sk">
-    <title lang="id">Piánko</title>
-  </programme>
-  <programme start="20260315140000 +0000" stop="20260315170000 +0000" channel="Senzi.webtv.sk">
-    <title lang="id">Senzi šlágre</title>
-  </programme>
-  <programme start="20260315170000 +0000" stop="20260315190000 +0000" channel="Senzi.webtv.sk">
-    <title lang="id">Najlepšie ľudovky a dychovky</title>
-  </programme>
-  <programme start="20260315190000 +0000" stop="20260315230000 +0000" channel="Senzi.webtv.sk">
-    <title lang="id">To najlepšie z televíznej zábavy</title>
   </programme>
   <programme start="20260314221000 +0000" stop="20260315011000 +0000" channel="Folklorika.webtv.sk">
     <title lang="id">Pod hviezdami</title>
@@ -8212,150 +8155,6 @@
   <programme start="20260315224000 +0000" stop="20260315234000 +0000" channel="Spektrum Home.webtv.sk">
     <title lang="id">Šije celá Británie VI (2)</title>
   </programme>
-  <programme start="20260314230000 +0000" stop="20260314233000 +0000" channel="Fishing&Hunting.webtv.sk">
-    <title lang="id">V jednotě s přírodou - Momentky z deseti národních parků (4)</title>
-  </programme>
-  <programme start="20260314233000 +0000" stop="20260315000000 +0000" channel="Fishing&Hunting.webtv.sk">
-    <title lang="id">Kde je ryba? - Okouni vodní nádrže</title>
-  </programme>
-  <programme start="20260315000000 +0000" stop="20260315003000 +0000" channel="Fishing&Hunting.webtv.sk">
-    <title lang="id">Nový muškař 19. ročník (1)</title>
-  </programme>
-  <programme start="20260315003000 +0000" stop="20260315010000 +0000" channel="Fishing&Hunting.webtv.sk">
-    <title lang="id">Léto na jezeru Kastély-park tavak</title>
-  </programme>
-  <programme start="20260315010000 +0000" stop="20260315013000 +0000" channel="Fishing&Hunting.webtv.sk">
-    <title lang="id">Viktor Takács - Lov srnců v Ibrányi (2)</title>
-  </programme>
-  <programme start="20260315013000 +0000" stop="20260315020000 +0000" channel="Fishing&Hunting.webtv.sk">
-    <title lang="id">Péter Pál Halmi - Sukně a zbraně</title>
-  </programme>
-  <programme start="20260315020000 +0000" stop="20260315023000 +0000" channel="Fishing&Hunting.webtv.sk">
-    <title lang="id">Myslivecká horečka - Myslivecký den v Alapu</title>
-  </programme>
-  <programme start="20260315023000 +0000" stop="20260315030000 +0000" channel="Fishing&Hunting.webtv.sk">
-    <title lang="id">Feedermánie - Rybolov snů na Bledu s kaprem nad 30kg</title>
-  </programme>
-  <programme start="20260315030000 +0000" stop="20260315033000 +0000" channel="Fishing&Hunting.webtv.sk">
-    <title lang="id">Jen jemně! - Obrovští cejni</title>
-  </programme>
-  <programme start="20260315033000 +0000" stop="20260315040000 +0000" channel="Fishing&Hunting.webtv.sk">
-    <title lang="id">V jednotě s přírodou - Momentky z deseti národních parků (10)</title>
-  </programme>
-  <programme start="20260315040000 +0000" stop="20260315043000 +0000" channel="Fishing&Hunting.webtv.sk">
-    <title lang="id">József Kolláth - Lovecká dobrodružství v Beninu (1)</title>
-  </programme>
-  <programme start="20260315043000 +0000" stop="20260315050000 +0000" channel="Fishing&Hunting.webtv.sk">
-    <title lang="id">József Kolláth - Lovecká dobrodružství v Beninu (2)</title>
-  </programme>
-  <programme start="20260315050000 +0000" stop="20260315053000 +0000" channel="Fishing&Hunting.webtv.sk">
-    <title lang="id">József Kolláth - Lovecká dobrodružství v Beninu (3)</title>
-  </programme>
-  <programme start="20260315053000 +0000" stop="20260315060000 +0000" channel="Fishing&Hunting.webtv.sk">
-    <title lang="id">Magazín Energofis (109)</title>
-  </programme>
-  <programme start="20260315060000 +0000" stop="20260315063000 +0000" channel="Fishing&Hunting.webtv.sk">
-    <title lang="id">III. International Wild Carp Challenge na jezeru Tisza-tó</title>
-  </programme>
-  <programme start="20260315063000 +0000" stop="20260315070000 +0000" channel="Fishing&Hunting.webtv.sk">
-    <title lang="id">V jednotě s přírodou - Momentky z deseti národních parků (3)</title>
-  </programme>
-  <programme start="20260315070000 +0000" stop="20260315073000 +0000" channel="Fishing&Hunting.webtv.sk">
-    <title lang="id">DOVIT - Odlišné taktiky</title>
-  </programme>
-  <programme start="20260315073000 +0000" stop="20260315080000 +0000" channel="Fishing&Hunting.webtv.sk">
-    <title lang="id">Bratři rybáři - Souboj v Holbině (1)</title>
-  </programme>
-  <programme start="20260315080000 +0000" stop="20260315083000 +0000" channel="Fishing&Hunting.webtv.sk">
-    <title lang="id">Akademie přívlače - Štičí přívlač</title>
-  </programme>
-  <programme start="20260315083000 +0000" stop="20260315090000 +0000" channel="Fishing&Hunting.webtv.sk">
-    <title lang="id">Hodula Fishing - Přívlač na řece Tisza v překážkách</title>
-  </programme>
-  <programme start="20260315090000 +0000" stop="20260315093000 +0000" channel="Fishing&Hunting.webtv.sk">
-    <title lang="id">XXI. Společenské a mediální rybářské závody na rybníku Majosliget</title>
-  </programme>
-  <programme start="20260315093000 +0000" stop="20260315100000 +0000" channel="Fishing&Hunting.webtv.sk">
-    <title lang="id">V jednotě s přírodou - Momentky z deseti národních parků (8)</title>
-  </programme>
-  <programme start="20260315100000 +0000" stop="20260315103000 +0000" channel="Fishing&Hunting.webtv.sk">
-    <title lang="id">Dudi Bait na jezeru Nagyréti-tó - Kapři z návětrné strany</title>
-  </programme>
-  <programme start="20260315103000 +0000" stop="20260315110000 +0000" channel="Fishing&Hunting.webtv.sk">
-    <title lang="id">Modrý svět S04 E04</title>
-  </programme>
-  <programme start="20260315110000 +0000" stop="20260315113000 +0000" channel="Fishing&Hunting.webtv.sk">
-    <title lang="id">DAIWA - Přívlač na Dunaji v protivětru</title>
-  </programme>
-  <programme start="20260315113000 +0000" stop="20260315120000 +0000" channel="Fishing&Hunting.webtv.sk">
-    <title lang="id">Kde je ryba? - Okouni vodní nádrže</title>
-  </programme>
-  <programme start="20260315120000 +0000" stop="20260315123000 +0000" channel="Fishing&Hunting.webtv.sk">
-    <title lang="id">Nový muškař 19. ročník (1)</title>
-  </programme>
-  <programme start="20260315123000 +0000" stop="20260315130000 +0000" channel="Fishing&Hunting.webtv.sk">
-    <title lang="id">Léto na jezeru Kastély-park tavak</title>
-  </programme>
-  <programme start="20260315130000 +0000" stop="20260315133000 +0000" channel="Fishing&Hunting.webtv.sk">
-    <title lang="id">Viktor Takács - Lov srnců v Ibrányi (2)</title>
-  </programme>
-  <programme start="20260315133000 +0000" stop="20260315140000 +0000" channel="Fishing&Hunting.webtv.sk">
-    <title lang="id">Péter Pál Halmi - Sukně a zbraně</title>
-  </programme>
-  <programme start="20260315140000 +0000" stop="20260315143000 +0000" channel="Fishing&Hunting.webtv.sk">
-    <title lang="id">Myslivecká horečka - Myslivecký den v Alapu</title>
-  </programme>
-  <programme start="20260315143000 +0000" stop="20260315150000 +0000" channel="Fishing&Hunting.webtv.sk">
-    <title lang="id">Rybolov pod lupou - lov kaprů na Dunaji</title>
-  </programme>
-  <programme start="20260315150000 +0000" stop="20260315153000 +0000" channel="Fishing&Hunting.webtv.sk">
-    <title lang="id">Cralusso - Inovativní method řešení</title>
-  </programme>
-  <programme start="20260315153000 +0000" stop="20260315160000 +0000" channel="Fishing&Hunting.webtv.sk">
-    <title lang="id">V jednotě s přírodou - Momentky z deseti národních parků (6)</title>
-  </programme>
-  <programme start="20260315160000 +0000" stop="20260315163000 +0000" channel="Fishing&Hunting.webtv.sk">
-    <title lang="id">Akademie přívlače - Štiky ve vodě</title>
-  </programme>
-  <programme start="20260315163000 +0000" stop="20260315170000 +0000" channel="Fishing&Hunting.webtv.sk">
-    <title lang="id">Bratři rybáři - Souboj v Holbině (2)</title>
-  </programme>
-  <programme start="20260315170000 +0000" stop="20260315173000 +0000" channel="Fishing&Hunting.webtv.sk">
-    <title lang="id">Tamás Csörgő - Po stopách obřích kaprů na jezeru Lökösháza</title>
-  </programme>
-  <programme start="20260315173000 +0000" stop="20260315180000 +0000" channel="Fishing&Hunting.webtv.sk">
-    <title lang="id">Mistr zbrojíř - Ochrana sluchu při myslivosti</title>
-  </programme>
-  <programme start="20260315180000 +0000" stop="20260315183000 +0000" channel="Fishing&Hunting.webtv.sk">
-    <title lang="id">Balázs Hajba - Jelen evropský</title>
-  </programme>
-  <programme start="20260315183000 +0000" stop="20260315190000 +0000" channel="Fishing&Hunting.webtv.sk">
-    <title lang="id">DOVIT - Jak začít - Lov ryb na Dunaji</title>
-  </programme>
-  <programme start="20260315190000 +0000" stop="20260315193000 +0000" channel="Fishing&Hunting.webtv.sk">
-    <title lang="id">Hodula Fishing - Přívlač na řece Tisza v překážkách</title>
-  </programme>
-  <programme start="20260315193000 +0000" stop="20260315200000 +0000" channel="Fishing&Hunting.webtv.sk">
-    <title lang="id">Kuchyně milovníků ryb - Dorozsmajský sumeček africký</title>
-  </programme>
-  <programme start="20260315200000 +0000" stop="20260315203000 +0000" channel="Fishing&Hunting.webtv.sk">
-    <title lang="id">Cralusso - Inovativní method řešení</title>
-  </programme>
-  <programme start="20260315203000 +0000" stop="20260315210000 +0000" channel="Fishing&Hunting.webtv.sk">
-    <title lang="id">Myslivecká horečka - Stůl lesů a luk</title>
-  </programme>
-  <programme start="20260315210000 +0000" stop="20260315213000 +0000" channel="Fishing&Hunting.webtv.sk">
-    <title lang="id">Péter Pál Halmi - Sukně a zbraně (2)</title>
-  </programme>
-  <programme start="20260315213000 +0000" stop="20260315220000 +0000" channel="Fishing&Hunting.webtv.sk">
-    <title lang="id">Na stopě kořisti - Setkání umění a myslivosti</title>
-  </programme>
-  <programme start="20260315220000 +0000" stop="20260315223000 +0000" channel="Fishing&Hunting.webtv.sk">
-    <title lang="id">F&amp;H Events - 5. Trout Area mistrovství světa (1)</title>
-  </programme>
-  <programme start="20260315223000 +0000" stop="20260315230000 +0000" channel="Fishing&Hunting.webtv.sk">
-    <title lang="id">F&amp;H Events - 5. Trout Area mistrovství světa (2)</title>
-  </programme>
   <programme start="20260314224500 +0000" stop="20260315003500 +0000" channel="HBO.webtv.sk">
     <title lang="id">28 dní poté</title>
   </programme>
@@ -9019,10 +8818,10 @@
   <programme start="20260314235500 +0000" stop="20260315013000 +0000" channel="FilmBox Premium.webtv.sk">
     <title lang="id">Nemilosrdný kolotoč</title>
   </programme>
-  <programme start="20260315013000 +0000" stop="20260315030500 +0000" channel="FilmBox Premium.webtv.sk">
+  <programme start="20260315013000 +0000" stop="20260315030000 +0000" channel="FilmBox Premium.webtv.sk">
     <title lang="id">Konečná</title>
   </programme>
-  <programme start="20260315030500 +0000" stop="20260315042000 +0000" channel="FilmBox Premium.webtv.sk">
+  <programme start="20260315030000 +0000" stop="20260315042000 +0000" channel="FilmBox Premium.webtv.sk">
     <title lang="id">Noční tabule</title>
   </programme>
   <programme start="20260315042000 +0000" stop="20260315055000 +0000" channel="FilmBox Premium.webtv.sk">
@@ -9049,14 +8848,59 @@
   <programme start="20260315165500 +0000" stop="20260315190000 +0000" channel="FilmBox Premium.webtv.sk">
     <title lang="id">Bridget Jonesová: Láskou šílená</title>
   </programme>
-  <programme start="20260315190000 +0000" stop="20260315204500 +0000" channel="FilmBox Premium.webtv.sk">
+  <programme start="20260315190000 +0000" stop="20260315202500 +0000" channel="FilmBox Premium.webtv.sk">
     <title lang="id">Super průvodce</title>
   </programme>
-  <programme start="20260315204500 +0000" stop="20260315222000 +0000" channel="FilmBox Premium.webtv.sk">
+  <programme start="20260315202500 +0000" stop="20260315220000 +0000" channel="FilmBox Premium.webtv.sk">
     <title lang="id">Máš padáka!</title>
   </programme>
-  <programme start="20260315222000 +0000" stop="20260316000500 +0000" channel="FilmBox Premium.webtv.sk">
+  <programme start="20260315220000 +0000" stop="20260315234500 +0000" channel="FilmBox Premium.webtv.sk">
     <title lang="id">Emmanuelle</title>
+  </programme>
+  <programme start="20260314213000 +0000" stop="20260314231000 +0000" channel="FilmBox Family.webtv.sk">
+    <title lang="id">Strýček Nino</title>
+  </programme>
+  <programme start="20260314231000 +0000" stop="20260315005000 +0000" channel="FilmBox Family.webtv.sk">
+    <title lang="id">Bernie</title>
+  </programme>
+  <programme start="20260315005000 +0000" stop="20260315035500 +0000" channel="FilmBox Family.webtv.sk">
+    <title lang="id">Noční tabule</title>
+  </programme>
+  <programme start="20260315035500 +0000" stop="20260315052500 +0000" channel="FilmBox Family.webtv.sk">
+    <title lang="id">Regina</title>
+  </programme>
+  <programme start="20260315052500 +0000" stop="20260315065500 +0000" channel="FilmBox Family.webtv.sk">
+    <title lang="id">Děti bez hranic</title>
+  </programme>
+  <programme start="20260315065500 +0000" stop="20260315080500 +0000" channel="FilmBox Family.webtv.sk">
+    <title lang="id">Lassie - Malované kopce</title>
+  </programme>
+  <programme start="20260315080500 +0000" stop="20260315094000 +0000" channel="FilmBox Family.webtv.sk">
+    <title lang="id">Starý Bob</title>
+  </programme>
+  <programme start="20260315094000 +0000" stop="20260315112000 +0000" channel="FilmBox Family.webtv.sk">
+    <title lang="id">Matčin stín</title>
+  </programme>
+  <programme start="20260315112000 +0000" stop="20260315130000 +0000" channel="FilmBox Family.webtv.sk">
+    <title lang="id">Ztracený poklad Jesseho Jamese</title>
+  </programme>
+  <programme start="20260315130000 +0000" stop="20260315144500 +0000" channel="FilmBox Family.webtv.sk">
+    <title lang="id">Něžnost</title>
+  </programme>
+  <programme start="20260315144500 +0000" stop="20260315163500 +0000" channel="FilmBox Family.webtv.sk">
+    <title lang="id">Čekání na Anyu</title>
+  </programme>
+  <programme start="20260315163500 +0000" stop="20260315180500 +0000" channel="FilmBox Family.webtv.sk">
+    <title lang="id">Neprůstřelný plán</title>
+  </programme>
+  <programme start="20260315180500 +0000" stop="20260315200000 +0000" channel="FilmBox Family.webtv.sk">
+    <title lang="id">Hořko-sladko</title>
+  </programme>
+  <programme start="20260315200000 +0000" stop="20260315212500 +0000" channel="FilmBox Family.webtv.sk">
+    <title lang="id">Alex z Venice</title>
+  </programme>
+  <programme start="20260315212500 +0000" stop="20260315234500 +0000" channel="FilmBox Family.webtv.sk">
+    <title lang="id">Muž se železnou maskou</title>
   </programme>
   <programme start="20260314230000 +0000" stop="20260315005000 +0000" channel="FilmBox Stars.webtv.sk">
     <title lang="id">Kajínek</title>
@@ -14791,183 +14635,6 @@
   <programme start="20260315220000 +0000" stop="20260316041000 +0000" channel="Life TV.webtv.sk">
     <title lang="id">Program z Domu modlitieb a chvál v Kansas City</title>
   </programme>
-  <programme start="20260314213700 +0000" stop="20260315005200 +0000" channel="TV Zemplín.webtv.sk">
-    <title lang="id">Záznam z rokovania zastupiteľstva PSK - 9.2.2026</title>
-  </programme>
-  <programme start="20260315005200 +0000" stop="20260315022100 +0000" channel="TV Zemplín.webtv.sk">
-    <title lang="id">Záznam z rokovania zastupiteľstva KSK - 15.12.2025</title>
-  </programme>
-  <programme start="20260315040000 +0000" stop="20260315040500 +0000" channel="TV Zemplín.webtv.sk">
-    <title lang="id">Otcovia púšte</title>
-  </programme>
-  <programme start="20260315040500 +0000" stop="20260315042800 +0000" channel="TV Zemplín.webtv.sk">
-    <title lang="id">Michalovské správy 5.3.2026</title>
-  </programme>
-  <programme start="20260315042800 +0000" stop="20260315043000 +0000" channel="TV Zemplín.webtv.sk">
-    <title lang="id">Litmanovská Vizionárka Iveta: Slovami sa nedá vyjadriť, aká je Panna Mária</title>
-  </programme>
-  <programme start="20260315043000 +0000" stop="20260315043800 +0000" channel="TV Zemplín.webtv.sk">
-    <title lang="id">Evanjelium na dnes</title>
-  </programme>
-  <programme start="20260315043800 +0000" stop="20260315044000 +0000" channel="TV Zemplín.webtv.sk">
-    <title lang="id">Litmanovská Vizionárka Iveta: Slovami sa nedá vyjadriť, aká je Panna Mária</title>
-  </programme>
-  <programme start="20260315044000 +0000" stop="20260315045000 +0000" channel="TV Zemplín.webtv.sk">
-    <title lang="id">Otcovia púšte</title>
-  </programme>
-  <programme start="20260315045000 +0000" stop="20260315050500 +0000" channel="TV Zemplín.webtv.sk">
-    <title lang="id">Sobranský magazín</title>
-  </programme>
-  <programme start="20260315050500 +0000" stop="20260315052500 +0000" channel="TV Zemplín.webtv.sk">
-    <title lang="id">Gréckokatolícky magazín</title>
-  </programme>
-  <programme start="20260315052500 +0000" stop="20260315053800 +0000" channel="TV Zemplín.webtv.sk">
-    <title lang="id">Otcovia púšte</title>
-  </programme>
-  <programme start="20260315053800 +0000" stop="20260315054000 +0000" channel="TV Zemplín.webtv.sk">
-    <title lang="id">Varenie v lese - Steak na horách</title>
-  </programme>
-  <programme start="20260315054000 +0000" stop="20260315060500 +0000" channel="TV Zemplín.webtv.sk">
-    <title lang="id">Michalovské správy 5.3.2026</title>
-  </programme>
-  <programme start="20260315060500 +0000" stop="20260315060900 +0000" channel="TV Zemplín.webtv.sk">
-    <title lang="id">Otcovia púšte</title>
-  </programme>
-  <programme start="20260315060900 +0000" stop="20260315062600 +0000" channel="TV Zemplín.webtv.sk">
-    <title lang="id">Litmanovská Vizionárka Ivetka: O depresiách a úzkostiach</title>
-  </programme>
-  <programme start="20260315062600 +0000" stop="20260315063300 +0000" channel="TV Zemplín.webtv.sk">
-    <title lang="id">Slovo - Ako zbaviť dom od zlých duchov</title>
-  </programme>
-  <programme start="20260315063300 +0000" stop="20260315064000 +0000" channel="TV Zemplín.webtv.sk">
-    <title lang="id">Litmanovská vizionárka Iveta: Spomienka na prvý deň zjavení po 30tich rokoch - druhá časť</title>
-  </programme>
-  <programme start="20260315064000 +0000" stop="20260315070000 +0000" channel="TV Zemplín.webtv.sk">
-    <title lang="id">Tlačovka - Milan Lach po vymenovaní</title>
-  </programme>
-  <programme start="20260315070000 +0000" stop="20260315075900 +0000" channel="TV Zemplín.webtv.sk">
-    <title lang="id">Živý prenos - Katedrála Bratislava - Utiereň</title>
-  </programme>
-  <programme start="20260315075900 +0000" stop="20260315081000 +0000" channel="TV Zemplín.webtv.sk">
-    <title lang="id">Litmanovská vizionárka Iveta: Varovanie Slovensku: Ľudia nechcú byť, chcú mať</title>
-  </programme>
-  <programme start="20260315081000 +0000" stop="20260315081300 +0000" channel="TV Zemplín.webtv.sk">
-    <title lang="id">Evanjelium na dnes</title>
-  </programme>
-  <programme start="20260315081300 +0000" stop="20260315081900 +0000" channel="TV Zemplín.webtv.sk">
-    <title lang="id">Slovo - Ako zbaviť dom od zlých duchov</title>
-  </programme>
-  <programme start="20260315081900 +0000" stop="20260315083000 +0000" channel="TV Zemplín.webtv.sk">
-    <title lang="id">Litmanovská Vizionárka Iveta: Slovami sa nedá vyjadriť, aká je Panna Mária</title>
-  </programme>
-  <programme start="20260315083000 +0000" stop="20260315084300 +0000" channel="TV Zemplín.webtv.sk">
-    <title lang="id">Gréckokatolícky magazín</title>
-  </programme>
-  <programme start="20260315084300 +0000" stop="20260315085000 +0000" channel="TV Zemplín.webtv.sk">
-    <title lang="id">Slovo - Ako zbaviť dom od zlých duchov</title>
-  </programme>
-  <programme start="20260315085000 +0000" stop="20260315090000 +0000" channel="TV Zemplín.webtv.sk">
-    <title lang="id">Prihovor vladyku Milana Lacha k vymenovaniu</title>
-  </programme>
-  <programme start="20260315090000 +0000" stop="20260315102000 +0000" channel="TV Zemplín.webtv.sk">
-    <title lang="id">Živý prenos - Katedrála Prešov - Sv. liturgia</title>
-  </programme>
-  <programme start="20260315102000 +0000" stop="20260315103500 +0000" channel="TV Zemplín.webtv.sk">
-    <title lang="id">Sobranský magazín</title>
-  </programme>
-  <programme start="20260315103500 +0000" stop="20260315110000 +0000" channel="TV Zemplín.webtv.sk">
-    <title lang="id">Michalovské správy 5.3.2026</title>
-  </programme>
-  <programme start="20260315110000 +0000" stop="20260315115600 +0000" channel="TV Zemplín.webtv.sk">
-    <title lang="id">Trio Magurových</title>
-  </programme>
-  <programme start="20260315115600 +0000" stop="20260315120400 +0000" channel="TV Zemplín.webtv.sk">
-    <title lang="id">Litmanovská Vizionárka Ivetka: O Ježišovi</title>
-  </programme>
-  <programme start="20260315120400 +0000" stop="20260315121000 +0000" channel="TV Zemplín.webtv.sk">
-    <title lang="id">Slovo - Ako zbaviť dom od zlých duchov</title>
-  </programme>
-  <programme start="20260315121000 +0000" stop="20260315121700 +0000" channel="TV Zemplín.webtv.sk">
-    <title lang="id">Litmanovská vizionárka Iveta: Majdan pre mňa znamenal nemať nároky na život</title>
-  </programme>
-  <programme start="20260315121700 +0000" stop="20260315123000 +0000" channel="TV Zemplín.webtv.sk">
-    <title lang="id">Tlačovka - Milan Lach po vymenovaní</title>
-  </programme>
-  <programme start="20260315123000 +0000" stop="20260315130000 +0000" channel="TV Zemplín.webtv.sk">
-    <title lang="id">Živý prenos - Litmanová - Modlitba sv. ruženca</title>
-  </programme>
-  <programme start="20260315130000 +0000" stop="20260315140000 +0000" channel="TV Zemplín.webtv.sk">
-    <title lang="id">Živý prenos - Litmanová - Sv. liturgia</title>
-  </programme>
-  <programme start="20260315140000 +0000" stop="20260315144100 +0000" channel="TV Zemplín.webtv.sk">
-    <title lang="id">Živý prenos - Litmanová - Korunka k Božiemu milosrdenstvu</title>
-  </programme>
-  <programme start="20260315144100 +0000" stop="20260315145800 +0000" channel="TV Zemplín.webtv.sk">
-    <title lang="id">Litmanovská Vizionárka Ivetka: O depresiách a úzkostiach</title>
-  </programme>
-  <programme start="20260315145800 +0000" stop="20260315150100 +0000" channel="TV Zemplín.webtv.sk">
-    <title lang="id">Evanjelium na dnes</title>
-  </programme>
-  <programme start="20260315150100 +0000" stop="20260315152300 +0000" channel="TV Zemplín.webtv.sk">
-    <title lang="id">Gréckokatolícky magazín</title>
-  </programme>
-  <programme start="20260315152300 +0000" stop="20260315160100 +0000" channel="TV Zemplín.webtv.sk">
-    <title lang="id">NA SLOVÍČKO - Viliam Karas - Rodina pod tlakom: Ako sa dnes žije na Slovensku?</title>
-  </programme>
-  <programme start="20260315160100 +0000" stop="20260315163100 +0000" channel="TV Zemplín.webtv.sk">
-    <title lang="id">Sobranský magazín</title>
-  </programme>
-  <programme start="20260315163100 +0000" stop="20260315163400 +0000" channel="TV Zemplín.webtv.sk">
-    <title lang="id">Evanjelium na dnes</title>
-  </programme>
-  <programme start="20260315163400 +0000" stop="20260315164300 +0000" channel="TV Zemplín.webtv.sk">
-    <title lang="id">Litmanovská Vizionárka Iveta: O čom je štastie</title>
-  </programme>
-  <programme start="20260315164300 +0000" stop="20260315165000 +0000" channel="TV Zemplín.webtv.sk">
-    <title lang="id">Litmanovská vizionárka Iveta: Majdan pre mňa znamenal nemať nároky na život</title>
-  </programme>
-  <programme start="20260315165000 +0000" stop="20260315170000 +0000" channel="TV Zemplín.webtv.sk">
-    <title lang="id">Prihovor vladyku Milana Lacha k vymenovaniu</title>
-  </programme>
-  <programme start="20260315170000 +0000" stop="20260315183800 +0000" channel="TV Zemplín.webtv.sk">
-    <title lang="id">Živý prenos - Bazilika Michalovce - Sv. liturgia</title>
-  </programme>
-  <programme start="20260315183800 +0000" stop="20260315184800 +0000" channel="TV Zemplín.webtv.sk">
-    <title lang="id">Litmanovská vizionárka Iveta: Spomienka na prvý deň zjavení po 30tich rokoch - prvá časť</title>
-  </programme>
-  <programme start="20260315184800 +0000" stop="20260315190000 +0000" channel="TV Zemplín.webtv.sk">
-    <title lang="id">Tlačovka - Milan Lach po vymenovaní</title>
-  </programme>
-  <programme start="20260315190000 +0000" stop="20260315194600 +0000" channel="TV Zemplín.webtv.sk">
-    <title lang="id">Živý prenos - Kňazský seminár Prešov - Veľkopôstna večiereň</title>
-  </programme>
-  <programme start="20260315194600 +0000" stop="20260315204000 +0000" channel="TV Zemplín.webtv.sk">
-    <title lang="id">Trio Zornica</title>
-  </programme>
-  <programme start="20260315204000 +0000" stop="20260315205600 +0000" channel="TV Zemplín.webtv.sk">
-    <title lang="id">Hutorime i bisidujeme - Lekárovce</title>
-  </programme>
-  <programme start="20260315205600 +0000" stop="20260315210900 +0000" channel="TV Zemplín.webtv.sk">
-    <title lang="id">Dnes bez lopty - Tomasz Walczak</title>
-  </programme>
-  <programme start="20260315210900 +0000" stop="20260315211700 +0000" channel="TV Zemplín.webtv.sk">
-    <title lang="id">Charakterové minútky - Radosť z práce vs. Negativizmus</title>
-  </programme>
-  <programme start="20260315211700 +0000" stop="20260315215400 +0000" channel="TV Zemplín.webtv.sk">
-    <title lang="id">NA SLOVÍČKO - Viliam Karas - Rodina pod tlakom: Ako sa dnes žije na Slovensku?</title>
-  </programme>
-  <programme start="20260315215400 +0000" stop="20260315215800 +0000" channel="TV Zemplín.webtv.sk">
-    <title lang="id">Charakterové minútky - Tímovosť vs. Individualizmus</title>
-  </programme>
-  <programme start="20260315215800 +0000" stop="20260315221000 +0000" channel="TV Zemplín.webtv.sk">
-    <title lang="id">Varenie v lese - Jelenie ragú</title>
-  </programme>
-  <programme start="20260315221000 +0000" stop="20260315225100 +0000" channel="TV Zemplín.webtv.sk">
-    <title lang="id">Zemplínska šírava - Príbeh vody I</title>
-  </programme>
-  <programme start="20260315225100 +0000" stop="20260315230500 +0000" channel="TV Zemplín.webtv.sk">
-    <title lang="id">Hutorime i bisidujeme - Poruba pod Vihorlatom</title>
-  </programme>
   <programme start="20260314230000 +0000" stop="20260315000000 +0000" channel="TV Poprad.webtv.sk">
     <title lang="id">Aktuality regiónu</title>
   </programme>
@@ -18096,126 +17763,6 @@
   </programme>
   <programme start="20260315220000 +0000" stop="20260315230000 +0000" channel="Al Jazeera.webtv.sk">
     <title lang="id">News Bulletin</title>
-  </programme>
-  <programme start="20260314230000 +0000" stop="20260314233000 +0000" channel="Sky News.webtv.sk">
-    <title lang="id">The Wrap With Gillian Joseph</title>
-  </programme>
-  <programme start="20260314233000 +0000" stop="20260315000000 +0000" channel="Sky News.webtv.sk">
-    <title lang="id">The Wrap With Gillian Joseph</title>
-  </programme>
-  <programme start="20260315000000 +0000" stop="20260315010000 +0000" channel="Sky News.webtv.sk">
-    <title lang="id">Sky News</title>
-  </programme>
-  <programme start="20260315010000 +0000" stop="20260315020000 +0000" channel="Sky News.webtv.sk">
-    <title lang="id">Sky News</title>
-  </programme>
-  <programme start="20260315020000 +0000" stop="20260315030000 +0000" channel="Sky News.webtv.sk">
-    <title lang="id">Sky News</title>
-  </programme>
-  <programme start="20260315030000 +0000" stop="20260315040000 +0000" channel="Sky News.webtv.sk">
-    <title lang="id">Sky News</title>
-  </programme>
-  <programme start="20260315040000 +0000" stop="20260315050000 +0000" channel="Sky News.webtv.sk">
-    <title lang="id">Sky News</title>
-  </programme>
-  <programme start="20260315050000 +0000" stop="20260315060000 +0000" channel="Sky News.webtv.sk">
-    <title lang="id">Sky News</title>
-  </programme>
-  <programme start="20260315060000 +0000" stop="20260315063000 +0000" channel="Sky News.webtv.sk">
-    <title lang="id">Mornings with Jones and Melbourne</title>
-  </programme>
-  <programme start="20260315063000 +0000" stop="20260315070000 +0000" channel="Sky News.webtv.sk">
-    <title lang="id">Mornings with Jones and Melbourne</title>
-  </programme>
-  <programme start="20260315070000 +0000" stop="20260315073000 +0000" channel="Sky News.webtv.sk">
-    <title lang="id">Mornings with Jones and Melbourne</title>
-  </programme>
-  <programme start="20260315073000 +0000" stop="20260315080000 +0000" channel="Sky News.webtv.sk">
-    <title lang="id">Mornings with Jones and Melbourne</title>
-  </programme>
-  <programme start="20260315080000 +0000" stop="20260315083000 +0000" channel="Sky News.webtv.sk">
-    <title lang="id">Mornings with Jones and Melbourne</title>
-  </programme>
-  <programme start="20260315083000 +0000" stop="20260315100000 +0000" channel="Sky News.webtv.sk">
-    <title lang="id">Sunday Morning with Trevor Phillips</title>
-  </programme>
-  <programme start="20260315100000 +0000" stop="20260315103000 +0000" channel="Sky News.webtv.sk">
-    <title lang="id">Sky News Today With Matt Barbet</title>
-  </programme>
-  <programme start="20260315103000 +0000" stop="20260315110000 +0000" channel="Sky News.webtv.sk">
-    <title lang="id">Sky News Today With Matt Barbet</title>
-  </programme>
-  <programme start="20260315110000 +0000" stop="20260315113000 +0000" channel="Sky News.webtv.sk">
-    <title lang="id">Sky News Today With Matt Barbet</title>
-  </programme>
-  <programme start="20260315113000 +0000" stop="20260315120000 +0000" channel="Sky News.webtv.sk">
-    <title lang="id">Sky News Today With Matt Barbet</title>
-  </programme>
-  <programme start="20260315120000 +0000" stop="20260315123000 +0000" channel="Sky News.webtv.sk">
-    <title lang="id">Sky News Today With Matt Barbet</title>
-  </programme>
-  <programme start="20260315123000 +0000" stop="20260315130000 +0000" channel="Sky News.webtv.sk">
-    <title lang="id">Sky News Today With Matt Barbet</title>
-  </programme>
-  <programme start="20260315130000 +0000" stop="20260315133000 +0000" channel="Sky News.webtv.sk">
-    <title lang="id">Sky News Today With Matt Barbet</title>
-  </programme>
-  <programme start="20260315133000 +0000" stop="20260315140000 +0000" channel="Sky News.webtv.sk">
-    <title lang="id">Trevor Phillips: Highlights</title>
-  </programme>
-  <programme start="20260315140000 +0000" stop="20260315143000 +0000" channel="Sky News.webtv.sk">
-    <title lang="id">Sky News Today</title>
-  </programme>
-  <programme start="20260315143000 +0000" stop="20260315150000 +0000" channel="Sky News.webtv.sk">
-    <title lang="id">Sky News Today</title>
-  </programme>
-  <programme start="20260315150000 +0000" stop="20260315153000 +0000" channel="Sky News.webtv.sk">
-    <title lang="id">Sky News Today</title>
-  </programme>
-  <programme start="20260315153000 +0000" stop="20260315160000 +0000" channel="Sky News.webtv.sk">
-    <title lang="id">Sky News Today</title>
-  </programme>
-  <programme start="20260315160000 +0000" stop="20260315163000 +0000" channel="Sky News.webtv.sk">
-    <title lang="id">Sky News Today</title>
-  </programme>
-  <programme start="20260315163000 +0000" stop="20260315170000 +0000" channel="Sky News.webtv.sk">
-    <title lang="id">Trevor Phillips: Highlights</title>
-  </programme>
-  <programme start="20260315170000 +0000" stop="20260315173000 +0000" channel="Sky News.webtv.sk">
-    <title lang="id">The News Hour With Jonathan Samuels</title>
-  </programme>
-  <programme start="20260315173000 +0000" stop="20260315180000 +0000" channel="Sky News.webtv.sk">
-    <title lang="id">The News Hour With Jonathan Samuels</title>
-  </programme>
-  <programme start="20260315180000 +0000" stop="20260315183000 +0000" channel="Sky News.webtv.sk">
-    <title lang="id">The News Hour With Jonathan Samuels</title>
-  </programme>
-  <programme start="20260315183000 +0000" stop="20260315190000 +0000" channel="Sky News.webtv.sk">
-    <title lang="id">The News Hour With Jonathan Samuels</title>
-  </programme>
-  <programme start="20260315190000 +0000" stop="20260315193000 +0000" channel="Sky News.webtv.sk">
-    <title lang="id">Sky News</title>
-  </programme>
-  <programme start="20260315193000 +0000" stop="20260315200000 +0000" channel="Sky News.webtv.sk">
-    <title lang="id">Trevor Phillips: Highlights</title>
-  </programme>
-  <programme start="20260315200000 +0000" stop="20260315203000 +0000" channel="Sky News.webtv.sk">
-    <title lang="id">Sky News</title>
-  </programme>
-  <programme start="20260315203000 +0000" stop="20260315210000 +0000" channel="Sky News.webtv.sk">
-    <title lang="id">UK Tonight Highlights</title>
-  </programme>
-  <programme start="20260315210000 +0000" stop="20260315213000 +0000" channel="Sky News.webtv.sk">
-    <title lang="id">Sky News</title>
-  </programme>
-  <programme start="20260315213000 +0000" stop="20260315220000 +0000" channel="Sky News.webtv.sk">
-    <title lang="id">World with Yalda Hakim</title>
-  </programme>
-  <programme start="20260315220000 +0000" stop="20260315223000 +0000" channel="Sky News.webtv.sk">
-    <title lang="id">The Wrap With Gillian Joseph</title>
-  </programme>
-  <programme start="20260315223000 +0000" stop="20260315230000 +0000" channel="Sky News.webtv.sk">
-    <title lang="id">The Wrap With Gillian Joseph</title>
   </programme>
   <programme start="20260314230000 +0000" stop="20260314231500 +0000" channel="France 24 English.webtv.sk">
     <title lang="id">NEWS</title>
