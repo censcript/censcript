@@ -1,7 +1,10 @@
     <programme start="20260314010000 +0000" stop="19700101020000 +0000" channel="VTV1 HD.mytv">
+        <title> Tiếp tục chương trình </title>
+    </programme>
+    <programme start="20260314010000 +0000" stop="20260314010100 +0000" channel="VTV1 HD.mytv">
         <title> Phim truyện : Những nẻo đường gần xa - Tập 61 </title>
     </programme>
-    <programme start="20260314010000 +0000" stop="20260314013100 +0000" channel="VTV1 HD.mytv">
+    <programme start="20260314010100 +0000" stop="20260314013100 +0000" channel="VTV1 HD.mytv">
         <title> Ánh sáng tri thức : Dấu ấn nữ trí thức </title>
     </programme>
     <programme start="20260314013100 +0000" stop="20260314014500 +0000" channel="VTV1 HD.mytv">
@@ -148,31 +151,31 @@
     <programme start="20260314204000 +0000" stop="20260314205500 +0000" channel="VTV1 HD.mytv">
         <title> Điểm tin </title>
     </programme>
-    <programme start="20260314205500 +0000" stop="20260314210000 +0000" channel="VTV1 HD.mytv">
+    <programme start="20260314205500 +0000" stop="20260314205900 +0000" channel="VTV1 HD.mytv">
         <title> S - Việt Nam : Mộc mạc món ngon Hữu Liên </title>
     </programme>
-    <programme start="20260314210000 +0000" stop="20260314210500 +0000" channel="VTV1 HD.mytv">
+    <programme start="20260314205900 +0000" stop="20260314210400 +0000" channel="VTV1 HD.mytv">
         <title> Việt Nam vui khỏe </title>
     </programme>
-    <programme start="20260314210500 +0000" stop="20260314211000 +0000" channel="VTV1 HD.mytv">
+    <programme start="20260314210400 +0000" stop="20260314211000 +0000" channel="VTV1 HD.mytv">
         <title> Việc tử tế : Gieo vạt nắng xanh </title>
     </programme>
     <programme start="20260314211000 +0000" stop="20260314223000 +0000" channel="VTV1 HD.mytv">
         <title> Phóng sự : Lá phiếu giữa trùng khơi </title>
     </programme>
-    <programme start="20260314223000 +0000" stop="20260314224500 +0000" channel="VTV1 HD.mytv">
+    <programme start="20260314223000 +0000" stop="20260314224700 +0000" channel="VTV1 HD.mytv">
         <title> Ánh sáng tri thức : Đổi mới ngành Y theo Nghị quyết 72 </title>
     </programme>
-    <programme start="20260314224500 +0000" stop="20260314230000 +0000" channel="VTV1 HD.mytv">
+    <programme start="20260314224700 +0000" stop="20260314225900 +0000" channel="VTV1 HD.mytv">
         <title> Câu chuyện quốc tế </title>
     </programme>
-    <programme start="20260314230000 +0000" stop="20260314231500 +0000" channel="VTV1 HD.mytv">
+    <programme start="20260314225900 +0000" stop="20260314231400 +0000" channel="VTV1 HD.mytv">
         <title> Giai điệu kết nối </title>
     </programme>
-    <programme start="20260314231500 +0000" stop="20260315000000 +0000" channel="VTV1 HD.mytv">
+    <programme start="20260314231400 +0000" stop="20260314235900 +0000" channel="VTV1 HD.mytv">
         <title> Bản tin </title>
     </programme>
-    <programme start="20260315000000 +0000" stop="20260315001500 +0000" channel="VTV1 HD.mytv">
+    <programme start="20260314235900 +0000" stop="20260315001500 +0000" channel="VTV1 HD.mytv">
         <title> Tổ quốc trong tim </title>
     </programme>
     <programme start="20260315001500 +0000" stop="20260315004500 +0000" channel="VTV1 HD.mytv">

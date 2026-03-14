@@ -2627,13 +2627,13 @@ Warning: Undefined array key "et" in /usr/home/ManusiaBiasa/domains/manusiabiasa
 <programme start="20260314153000 +0000" stop="20260314155000 +0000" channel="Sky Sport Austria 2 HD.skyde">
     <title>Es folgt Fußball: Österreich, Admiral Bundesliga</title>
 </programme>
-<programme start="20260314155000 +0000" stop="20260314181500 +0000" channel="Sky Sport Austria 2 HD.skyde">
+<programme start="20260314155000 +0000" stop="20260314180000 +0000" channel="Sky Sport Austria 2 HD.skyde">
     <title>Live Admiral BL: SCR Altach - FC Blau-Weiß Linz, 23. Runde</title>
 </programme>
 <programme start="20260314153000 +0000" stop="20260314155000 +0000" channel="Sky Sport Austria 3 HD.skyde">
     <title>Es folgt Fußball: Österreich, Admiral Bundesliga</title>
 </programme>
-<programme start="20260314155000 +0000" stop="20260314181500 +0000" channel="Sky Sport Austria 3 HD.skyde">
+<programme start="20260314155000 +0000" stop="20260314180000 +0000" channel="Sky Sport Austria 3 HD.skyde">
     <title>Live Admiral BL: SV Oberbank Ried - WSG Tirol, 23. Runde</title>
 </programme>
 <programme start="20260314153000 +0000" stop="20260314155000 +0000" channel="Sky Sport Austria 4 HD.skyde">
@@ -2744,7 +2744,7 @@ Warning: Undefined array key "et" in /usr/home/ManusiaBiasa/domains/manusiabiasa
 <programme start="20260314141500 +0000" stop="20260314164500 +0000" channel="Sky Sport Bundesliga 1 HD.skyde">
     <title>Live BL: Bayer Leverkusen - FC Bayern München, 26. Spieltag</title>
 </programme>
-<programme start="20260314164500 +0000" stop="20260314201500 +0000" channel="Sky Sport Bundesliga 1 HD.skyde">
+<programme start="20260314164500 +0000" stop="20260314204500 +0000" channel="Sky Sport Bundesliga 1 HD.skyde">
     <title>Live BL: Hamburger SV - 1. FC Köln, tipico Topspiel der Woche, 26. Spieltag</title>
 </programme>
 <programme start="20260314111000 +0000" stop="20260314113000 +0000" channel="Sky Sport Bundesliga 2 HD.skyde">
@@ -2783,7 +2783,7 @@ Warning: Undefined array key "et" in /usr/home/ManusiaBiasa/domains/manusiabiasa
 <programme start="20260314141500 +0000" stop="20260314164500 +0000" channel="Sky Sport Bundesliga 3 HD.skyde">
     <title>Live BL: TSG Hoffenheim - VfL Wolfsburg, 26. Spieltag</title>
 </programme>
-<programme start="20260314164500 +0000" stop="20260314201500 +0000" channel="Sky Sport Bundesliga 3 HD.skyde">
+<programme start="20260314164500 +0000" stop="20260314204500 +0000" channel="Sky Sport Bundesliga 3 HD.skyde">
     <title>Live BL: Tactical Feed: HSV - KOE, 26. Spieltag</title>
 </programme>
 <programme start="20260314111000 +0000" stop="20260314113000 +0000" channel="Sky Sport Bundesliga 4 HD.skyde">
@@ -2813,7 +2813,7 @@ Warning: Undefined array key "et" in /usr/home/ManusiaBiasa/domains/manusiabiasa
 <programme start="20260314113000 +0000" stop="20260314140000 +0000" channel="Sky Sport Bundesliga 6 HD.skyde">
     <title>Live 2. BL: Multiview 26. Spieltag, Samstag</title>
 </programme>
-<programme start="20260314140000 +0000" stop="20260314170000 +0000" channel="Sky Sport Bundesliga 6 HD.skyde">
+<programme start="20260314140000 +0000" stop="20260314164500 +0000" channel="Sky Sport Bundesliga 6 HD.skyde">
     <title>Live BL: Multiview 26. Spieltag</title>
 </programme>
 <programme start="20260314111000 +0000" stop="20260314113000 +0000" channel="Sky Sport Bundesliga 7 HD.skyde">
@@ -2822,7 +2822,7 @@ Warning: Undefined array key "et" in /usr/home/ManusiaBiasa/domains/manusiabiasa
 <programme start="20260314113000 +0000" stop="20260314140000 +0000" channel="Sky Sport Bundesliga 7 HD.skyde">
     <title>Live 2. BL: Samstags-Konferenz, 26. Spieltag</title>
 </programme>
-<programme start="20260314140000 +0000" stop="20260314151500 +0000" channel="Sky Sport Bundesliga 7 HD.skyde">
+<programme start="20260314140000 +0000" stop="20260314144500 +0000" channel="Sky Sport Bundesliga 7 HD.skyde">
     <title>Live 2. BL Alle Spiele, alle Tore: Die Vodafone Highlight-Show, 26. Spieltag, Samstag</title>
 </programme>
 <programme start="20260314000000 +0000" stop="20260314013000 +0000" channel="Sky Sport F1 HD.skyde">
@@ -2831,13 +2831,13 @@ Warning: Undefined array key "et" in /usr/home/ManusiaBiasa/domains/manusiabiasa
 <programme start="20260314013000 +0000" stop="20260314022500 +0000" channel="Sky Sport F1 HD.skyde">
     <title>F1: Sprint Qualifying - GP China</title>
 </programme>
-<programme start="20260314022500 +0000" stop="20260314040000 +0000" channel="Sky Sport F1 HD.skyde">
+<programme start="20260314022500 +0000" stop="20260314040500 +0000" channel="Sky Sport F1 HD.skyde">
     <title>Live F1: Sprint - GP China</title>
 </programme>
-<programme start="20260314040000 +0000" stop="20260314043000 +0000" channel="Sky Sport F1 HD.skyde">
+<programme start="20260314040500 +0000" stop="20260314044000 +0000" channel="Sky Sport F1 HD.skyde">
     <title>F1: Pressekonferenz Sprint - GP China</title>
 </programme>
-<programme start="20260314043000 +0000" stop="20260314050000 +0000" channel="Sky Sport F1 HD.skyde">
+<programme start="20260314044000 +0000" stop="20260314050000 +0000" channel="Sky Sport F1 HD.skyde">
     <title>F1: GP Confidential</title>
 </programme>
 <programme start="20260314050000 +0000" stop="20260314054000 +0000" channel="Sky Sport F1 HD.skyde">
@@ -2867,10 +2867,10 @@ Warning: Undefined array key "et" in /usr/home/ManusiaBiasa/domains/manusiabiasa
 <programme start="20260314120000 +0000" stop="20260314133000 +0000" channel="Sky Sport F1 HD.skyde">
     <title>F1: Qualifying - GP China</title>
 </programme>
-<programme start="20260314133000 +0000" stop="20260314150000 +0000" channel="Sky Sport F1 HD.skyde">
+<programme start="20260314133000 +0000" stop="20260314152000 +0000" channel="Sky Sport F1 HD.skyde">
     <title>Live IndyCar: 2. Training in Arlington (Texas)</title>
 </programme>
-<programme start="20260314150000 +0000" stop="20260314170000 +0000" channel="Sky Sport F1 HD.skyde">
+<programme start="20260314152000 +0000" stop="20260314170000 +0000" channel="Sky Sport F1 HD.skyde">
     <title>F1: Qualifying - GP China</title>
 </programme>
 <programme start="20260314170000 +0000" stop="20260314173000 +0000" channel="Sky Sport F1 HD.skyde">
@@ -2960,10 +2960,10 @@ Warning: Undefined array key "et" in /usr/home/ManusiaBiasa/domains/manusiabiasa
 <programme start="20260314110000 +0000" stop="20260314130000 +0000" channel="Sky Sport Mix HD.skyde">
     <title>NHL: Edmonton Oilers @ St. Louis Blues</title>
 </programme>
-<programme start="20260314130000 +0000" stop="20260314140000 +0000" channel="Sky Sport Mix HD.skyde">
+<programme start="20260314130000 +0000" stop="20260314140500 +0000" channel="Sky Sport Mix HD.skyde">
     <title>Live WRC: Safari Rally Kenia - SS15 Elmenteita 2</title>
 </programme>
-<programme start="20260314140000 +0000" stop="20260314143000 +0000" channel="Sky Sport Mix HD.skyde">
+<programme start="20260314140500 +0000" stop="20260314143000 +0000" channel="Sky Sport Mix HD.skyde">
     <title>NHL: On the Fly</title>
 </programme>
 <programme start="20260314143000 +0000" stop="20260314150000 +0000" channel="Sky Sport Mix HD.skyde">
@@ -3197,14 +3197,11 @@ Warning: Undefined array key "et" in /usr/home/ManusiaBiasa/domains/manusiabiasa
 <programme start="20260314010000 +0000" stop="20260314022500 +0000" channel="Sky Sport Top Event HD.skyde">
     <title>Live WTA 1000: E. Rybakina (KAZ) - E. Svitolina (UKR), BNP Paribas Open in Indian Wells, Kalifornien (USA), Halbfinale 2</title>
 </programme>
-<programme start="20260314022500 +0000" stop="20260314040000 +0000" channel="Sky Sport Top Event HD.skyde">
+<programme start="20260314022500 +0000" stop="20260314040500 +0000" channel="Sky Sport Top Event HD.skyde">
     <title>Live F1: Sprint - GP China</title>
 </programme>
-<programme start="20260314040000 +0000" stop="20260314050000 +0000" channel="Sky Sport Top Event HD.skyde">
+<programme start="20260314040500 +0000" stop="20260314054000 +0000" channel="Sky Sport Top Event HD.skyde">
     <title>Live LIV Golf: Singapur, 3. Tag auf Sentosa</title>
-</programme>
-<programme start="20260314050000 +0000" stop="20260314054000 +0000" channel="Sky Sport Top Event HD.skyde">
-    <title>F1: Iconic Onboards: Lando Norris</title>
 </programme>
 <programme start="20260314054000 +0000" stop="20260314063000 +0000" channel="Sky Sport Top Event HD.skyde">
     <title>Live F1 Academy: 1. Rennen - GP China</title>
@@ -3243,7 +3240,7 @@ Warning: Undefined array key "et" in /usr/home/ManusiaBiasa/domains/manusiabiasa
     <title>Live ATP 1000: A. Zverev (GER) - J. Sinner (ITA), BNP Paribas Open in Indian Wells, Kalifornien (USA), Halbfinale 1</title>
 </programme>
 <programme start="20260314223000 +0000" stop="20260315003000 +0000" channel="Sky Sport Top Event HD.skyde">
-    <title>Live ATP 1000: HF2, BNP Paribas Open in Indian Wells, Kalifornien (USA), Halbfinale 2</title>
+    <title>Live ATP 1000: C. Alcaraz (ESP) - D. Medvedev, BNP Paribas Open in Indian Wells, Kalifornien (USA), Halbfinale 2</title>
 </programme>
 <programme start="20260314004500 +0000" stop="20260314005500 +0000" channel="Sky Sport UHD.skyde">
     <title>Info: UHD</title>
@@ -3287,7 +3284,7 @@ Warning: Undefined array key "et" in /usr/home/ManusiaBiasa/domains/manusiabiasa
 <programme start="20260314212500 +0000" stop="20260314214500 +0000" channel="Sky Sport 1 HD.skyde">
     <title>Es folgt: LIVE NBA</title>
 </programme>
-<programme start="20260314214500 +0000" stop="20260315090000 +0000" channel="Sky Sport 1 HD.skyde">
+<programme start="20260314214500 +0000" stop="20260315010000 +0000" channel="Sky Sport 1 HD.skyde">
     <title>Live NBA: Washington Wizards @ Boston Celtics</title>
 </programme>
 <programme start="20260314170000 +0000" stop="20260314172000 +0000" channel="Sky Sport 4 HD.skyde">
@@ -3299,7 +3296,7 @@ Warning: Undefined array key "et" in /usr/home/ManusiaBiasa/domains/manusiabiasa
 <programme start="20260314143000 +0000" stop="20260314145000 +0000" channel="Sky Sport 8 HD.skyde">
     <title>Es folgt: Live Premier League</title>
 </programme>
-<programme start="20260314145000 +0000" stop="20260314170000 +0000" channel="Sky Sport 8 HD.skyde">
+<programme start="20260314145000 +0000" stop="20260314173000 +0000" channel="Sky Sport 8 HD.skyde">
     <title>Live PL: FC Burnley - AFC Bournemouth, 30. Spieltag</title>
 </programme>
 <programme start="20260313230000 +0000" stop="20260313234500 +0000" channel="SYFY HD.skyde">
