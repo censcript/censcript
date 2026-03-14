@@ -14222,7 +14222,7 @@
   </channel>
   <programme start="20260313153300 +0000" stop="20260313160300 +0000" channel="dw.unifitv">
     <title lang="en">To the Point</title>
-    <desc lang="en">To the Point</desc>
+    <desc lang="en">Two weeks of war in the Middle East have delivered a shock to the world economy. Choaked supply routes send oil prices soaring as fears of global disruption grow. What will be the ripple effect? And who stands to gain from this crisis? _x000D_ Our guests: Markus Bickel (Middle East Analyst, Table.Security); Ulrike Herrmann (Economic Journalist, taz); Claudia Kemfert (Energy Economist, DIW)_x000D_</desc>
     <category lang="en">Entertainment</category>
     <episode-num system="xmltv_ns">0.0.</episode-num>
     <episode-num system="onscreen">S1E1</episode-num>
@@ -14236,7 +14236,7 @@
   </programme>
   <programme start="20260313163300 +0000" stop="20260313170300 +0000" channel="dw.unifitv">
     <title lang="en">Eco India</title>
-    <desc lang="en">Eco India</desc>
+    <desc lang="en">The illegal trade in sea cucumbers is booming in the Indian Ocean. Plus: In Ecuador, a court decision creates a precedent for granting nature rights.</desc>
     <category lang="en">Magazine</category>
     <episode-num system="xmltv_ns">0.0.</episode-num>
     <episode-num system="onscreen">S1E1</episode-num>
@@ -14257,7 +14257,7 @@
   </programme>
   <programme start="20260313173300 +0000" stop="20260313180300 +0000" channel="dw.unifitv">
     <title lang="en">Afrimaxx</title>
-    <desc lang="en">Afrimaxx</desc>
+    <desc lang="en">Africa never stands still and today, from Johannesburg's Melville Art Mile, where every corner hums with creativity, we're stepping into stories shaped by movement, ambition and inspiration.</desc>
     <category lang="en">Magazine</category>
     <episode-num system="xmltv_ns">0.0.</episode-num>
     <episode-num system="onscreen">S1E1</episode-num>
@@ -14270,8 +14270,8 @@
     <episode-num system="onscreen">S1E1</episode-num>
   </programme>
   <programme start="20260313183300 +0000" stop="20260313190300 +0000" channel="dw.unifitv">
-    <title lang="en">Best of DW Podcasts</title>
-    <desc lang="en">Select DW podcasts enrich the program with current analyses of world politics and its influence on our daily lives. There will also be space in the program for lively discussions about social standards and taboos.</desc>
+    <title lang="en">Berlin Briefing</title>
+    <desc lang="en">Germany is entering a defining political year with five regional elections that could reshape the country's balance of power. As global tensions disrupt energy markets and fuel prices fluctuate, voters are turning their attention to the leaders who can navigate economic uncertainty and deliver stability.</desc>
     <category lang="en">Documentary</category>
     <episode-num system="xmltv_ns">0.0.</episode-num>
     <episode-num system="onscreen">S1E1</episode-num>
@@ -14299,7 +14299,7 @@
   </programme>
   <programme start="20260313193300 +0000" stop="20260313200300 +0000" channel="dw.unifitv">
     <title lang="en">Eco Africa</title>
-    <desc lang="en">Eco Africa</desc>
+    <desc lang="en">Centuries-old beliefs protect Ghana's monkeys, but rising tensions and habitat loss now put that bond to the test. Plus: a literal lifeline for South Africa's seabirds and a hand-built amateur EV truck.</desc>
     <category lang="en">Magazine</category>
     <episode-num system="xmltv_ns">0.0.</episode-num>
     <episode-num system="onscreen">S1E1</episode-num>
@@ -14355,7 +14355,7 @@
   </programme>
   <programme start="20260313223300 +0000" stop="20260313230300 +0000" channel="dw.unifitv">
     <title lang="en">Eco India</title>
-    <desc lang="en">Eco India</desc>
+    <desc lang="en">The illegal trade in sea cucumbers is booming in the Indian Ocean. Plus: In Ecuador, a court decision creates a precedent for granting nature rights.</desc>
     <category lang="en">Magazine</category>
     <episode-num system="xmltv_ns">0.0.</episode-num>
     <episode-num system="onscreen">S1E1</episode-num>
@@ -14382,9 +14382,9 @@
     <episode-num system="onscreen">S1E1</episode-num>
   </programme>
   <programme start="20260313233300 +0000" stop="20260314000300 +0000" channel="dw.unifitv">
-    <title lang="en">DW News</title>
-    <desc lang="en">DW News</desc>
-    <category lang="en">News</category>
+    <title lang="en">Berlin Briefing</title>
+    <desc lang="en">Germany is entering a defining political year with five regional elections that could reshape the country's balance of power. As global tensions disrupt energy markets and fuel prices fluctuate, voters are turning their attention to the leaders who can navigate economic uncertainty and deliver stability.</desc>
+    <category lang="en">Documentary</category>
     <episode-num system="xmltv_ns">0.0.</episode-num>
     <episode-num system="onscreen">S1E1</episode-num>
   </programme>
@@ -14404,7 +14404,7 @@
   </programme>
   <programme start="20260314003300 +0000" stop="20260314010300 +0000" channel="dw.unifitv">
     <title lang="en">REV</title>
-    <desc lang="en">REV</desc>
+    <desc lang="en">Finding parking in Vienna is almost impossible, yet the city aims to slash more parking spots. Learn why that could help drivers, too. Plus: How researchers are making cycling safer and test driving the new Peugeot 308.</desc>
     <category lang="en">Magazine</category>
     <episode-num system="xmltv_ns">0.1125.</episode-num>
     <episode-num system="onscreen">S1E1126</episode-num>
@@ -14432,7 +14432,7 @@
   </programme>
   <programme start="20260314013300 +0000" stop="20260314020300 +0000" channel="dw.unifitv">
     <title lang="en">Tomorrow Today</title>
-    <desc lang="en">Tomorrow Today</desc>
+    <desc lang="en">How does the brain turn experiences into memories? Scientists reveal how two neuron types control learning. Also: lynx rewilding, natural hydrogen, and avalanche risk.</desc>
     <category lang="en">Magazine</category>
     <episode-num system="xmltv_ns">0.1125.</episode-num>
     <episode-num system="onscreen">S1E1126</episode-num>
@@ -14446,7 +14446,7 @@
   </programme>
   <programme start="20260314020500 +0000" stop="20260314021800 +0000" channel="dw.unifitv">
     <title lang="en">Shift</title>
-    <desc lang="en">Shift</desc>
+    <desc lang="en">Whether during the game or training: AI supports athletes with real-time analyses, personalized exercises and intelligent recovery strategies. Referees are also increasingly relying on AI systems.</desc>
     <category lang="en">Magazine</category>
     <episode-num system="xmltv_ns">0.1125.</episode-num>
     <episode-num system="onscreen">S1E1126</episode-num>
@@ -14481,7 +14481,7 @@
   </programme>
   <programme start="20260314033300 +0000" stop="20260314040300 +0000" channel="dw.unifitv">
     <title lang="en">To the Point</title>
-    <desc lang="en">To the Point</desc>
+    <desc lang="en">Two weeks of war in the Middle East have delivered a shock to the world economy. Choaked supply routes send oil prices soaring as fears of global disruption grow. What will be the ripple effect? And who stands to gain from this crisis? _x000D_ Our guests: Markus Bickel (Middle East Analyst, Table.Security); Ulrike Herrmann (Economic Journalist, taz); Claudia Kemfert (Energy Economist, DIW)_x000D_</desc>
     <category lang="en">Entertainment</category>
     <episode-num system="xmltv_ns">0.0.</episode-num>
     <episode-num system="onscreen">S1E1</episode-num>
@@ -14502,7 +14502,7 @@
   </programme>
   <programme start="20260314041800 +0000" stop="20260314043300 +0000" channel="dw.unifitv">
     <title lang="en">Shift</title>
-    <desc lang="en">Shift</desc>
+    <desc lang="en">Whether during the game or training: AI supports athletes with real-time analyses, personalized exercises and intelligent recovery strategies. Referees are also increasingly relying on AI systems.</desc>
     <category lang="en">Magazine</category>
     <episode-num system="xmltv_ns">0.0.</episode-num>
     <episode-num system="onscreen">S1E1</episode-num>
@@ -14530,7 +14530,7 @@
   </programme>
   <programme start="20260314053300 +0000" stop="20260314060300 +0000" channel="dw.unifitv">
     <title lang="en">The 77 Percent</title>
-    <desc lang="en">The 77 Percent</desc>
+    <desc lang="en">Women in Africa are being silenced, abused — and fighting back. This week's show looks at gender-based violence from East to West Africa, and the historic political gains women are making in Namibia.</desc>
     <category lang="en">Magazine</category>
     <episode-num system="xmltv_ns">0.0.</episode-num>
     <episode-num system="onscreen">S1E1</episode-num>
@@ -14557,9 +14557,9 @@
     <episode-num system="onscreen">S1E1</episode-num>
   </programme>
   <programme start="20260314063300 +0000" stop="20260314070300 +0000" channel="dw.unifitv">
-    <title lang="en">REV</title>
-    <desc lang="en">REV</desc>
-    <category lang="en">Magazine</category>
+    <title lang="en">Berlin Briefing</title>
+    <desc lang="en">Germany is entering a defining political year with five regional elections that could reshape the country's balance of power. As global tensions disrupt energy markets and fuel prices fluctuate, voters are turning their attention to the leaders who can navigate economic uncertainty and deliver stability.</desc>
+    <category lang="en">Documentary</category>
     <episode-num system="xmltv_ns">0.0.</episode-num>
     <episode-num system="onscreen">S1E1</episode-num>
   </programme>
@@ -14579,14 +14579,14 @@
   </programme>
   <programme start="20260314071800 +0000" stop="20260314073300 +0000" channel="dw.unifitv">
     <title lang="en">Sports Life</title>
-    <desc lang="en">Sports Life</desc>
+    <desc lang="en">Former footballer Yevgeny Savin has been convicted in absentia in his home country, Russia, for speaking out against the war in Ukraine. But 'Sava' has rebuilt his life, and his football club, in Cyprus.</desc>
     <category lang="en">Sports</category>
     <episode-num system="xmltv_ns">0.0.</episode-num>
     <episode-num system="onscreen">S1E1</episode-num>
   </programme>
   <programme start="20260314073300 +0000" stop="20260314080300 +0000" channel="dw.unifitv">
     <title lang="en">Tomorrow Today</title>
-    <desc lang="en">Tomorrow Today</desc>
+    <desc lang="en">How does the brain turn experiences into memories? Scientists reveal how two neuron types control learning. Also: lynx rewilding, natural hydrogen, and avalanche risk.</desc>
     <category lang="en">Magazine</category>
     <episode-num system="xmltv_ns">0.0.</episode-num>
     <episode-num system="onscreen">S1E1</episode-num>
@@ -14635,7 +14635,7 @@
   </programme>
   <programme start="20260314093300 +0000" stop="20260314100300 +0000" channel="dw.unifitv">
     <title lang="en">In Good Shape</title>
-    <desc lang="en">In Good Shape</desc>
+    <desc lang="en">From unnecessary C-sections to poorly healed C-section scars and depression — many women face stressful interventions and emotional crises around childbirth. What can help?</desc>
     <category lang="en">Magazine</category>
     <episode-num system="xmltv_ns">0.0.</episode-num>
     <episode-num system="onscreen">S1E1</episode-num>
@@ -14656,7 +14656,7 @@
   </programme>
   <programme start="20260314101800 +0000" stop="20260314103300 +0000" channel="dw.unifitv">
     <title lang="en">Shift</title>
-    <desc lang="en">Shift</desc>
+    <desc lang="en">Whether during the game or training: AI supports athletes with real-time analyses, personalized exercises and intelligent recovery strategies. Referees are also increasingly relying on AI systems.</desc>
     <category lang="en">Magazine</category>
     <episode-num system="xmltv_ns">0.0.</episode-num>
     <episode-num system="onscreen">S1E1</episode-num>
@@ -14684,7 +14684,7 @@
   </programme>
   <programme start="20260314121800 +0000" stop="20260314123300 +0000" channel="dw.unifitv">
     <title lang="en">Shift</title>
-    <desc lang="en">Shift</desc>
+    <desc lang="en">Whether during the game or training: AI supports athletes with real-time analyses, personalized exercises and intelligent recovery strategies. Referees are also increasingly relying on AI systems.</desc>
     <category lang="en">Magazine</category>
     <episode-num system="xmltv_ns">0.0.</episode-num>
     <episode-num system="onscreen">S1E1</episode-num>
@@ -14705,7 +14705,7 @@
   </programme>
   <programme start="20260314130500 +0000" stop="20260314131800 +0000" channel="dw.unifitv">
     <title lang="en">Sports Life</title>
-    <desc lang="en">Sports Life</desc>
+    <desc lang="en">Former footballer Yevgeny Savin has been convicted in absentia in his home country, Russia, for speaking out against the war in Ukraine. But 'Sava' has rebuilt his life, and his football club, in Cyprus.</desc>
     <category lang="en">Sports</category>
     <episode-num system="xmltv_ns">0.0.</episode-num>
     <episode-num system="onscreen">S1E1</episode-num>
@@ -14740,7 +14740,7 @@
   </programme>
   <programme start="20260314143300 +0000" stop="20260314150300 +0000" channel="dw.unifitv">
     <title lang="en">The 77 Percent</title>
-    <desc lang="en">The 77 Percent</desc>
+    <desc lang="en">Women in Africa are being silenced, abused — and fighting back. This week's show looks at gender-based violence from East to West Africa, and the historic political gains women are making in Namibia.</desc>
     <category lang="en">Magazine</category>
     <episode-num system="xmltv_ns">0.0.</episode-num>
     <episode-num system="onscreen">S1E1</episode-num>
@@ -14754,7 +14754,7 @@
   </programme>
   <programme start="20260314151800 +0000" stop="20260314153300 +0000" channel="dw.unifitv">
     <title lang="en">Arts Unveiled</title>
-    <desc lang="en">Before 'Star Wars'. Before 'Blade Runner'. Before every futuristic city, rogue android, or AI uprising you've ever seen, there was 'Metropolis' (1927). This video dives deep into how Fritz Lang's silent-era masterpiece built the visual language of modern sci-fi, shaped pop culture for a century, and predicted the world we live in today:</desc>
+    <desc lang="en">Before 'Star Wars'. Before 'Blade Runner'. Before every futuristic city, rogue android, or AI uprising you've ever seen, there was 'Metropolis' (1927).</desc>
     <category lang="en">Documentary</category>
     <episode-num system="xmltv_ns">0.0.</episode-num>
     <episode-num system="onscreen">S1E1</episode-num>
@@ -14771,7 +14771,7 @@
   </channel>
   <programme start="20260313153500 +0000" stop="20260313160500 +0000" channel="nhkworldjapan.unifitv">
     <title lang="en">Asia Insight</title>
-    <desc lang="en">An in-depth look at the realities of Asia today -- a dynamic region which faces political, economic, cultural, and technological change.</desc>
+    <desc lang="en">As Myanmar's civil war drags on, some soldiers are defecting, unhappy with the military's violent oppression of civilians. They are joining the fight for democracy from the country's border regions.</desc>
     <category lang="en">News</category>
     <episode-num system="xmltv_ns">0.2021.</episode-num>
     <episode-num system="onscreen">S1E2022</episode-num>
@@ -14820,8 +14820,8 @@
     <episode-num system="onscreen">S1E2105</episode-num>
   </programme>
   <programme start="20260313184800 +0000" stop="20260313190000 +0000" channel="nhkworldjapan.unifitv">
-    <title lang="en">IMPACTS: Climates Change the World</title>
-    <desc lang="en">The entire Earth is affected by climate change, occurring with a greater speed and scale than ever before. This program uses scientific data and the latest findings to raise awareness on its impact.</desc>
+    <title lang="en">IMPACTS: Climate Change the World</title>
+    <desc lang="en">Each year, 20 million people are displaced by climate change. If nothing is done, these "climate refugees" will number 216 million by 2050. We examine footage of problem areas and the latest research.</desc>
     <category lang="en">News</category>
     <episode-num system="xmltv_ns">0.6127.</episode-num>
     <episode-num system="onscreen">S1E6128</episode-num>
@@ -14866,7 +14866,7 @@
   </programme>
   <programme start="20260313213500 +0000" stop="20260313220500 +0000" channel="nhkworldjapan.unifitv">
     <title lang="en">Asia Insight</title>
-    <desc lang="en">An in-depth look at the realities of Asia today -- a dynamic region which faces political, economic, cultural, and technological change.</desc>
+    <desc lang="en">As Myanmar's civil war drags on, some soldiers are defecting, unhappy with the military's violent oppression of civilians. They are joining the fight for democracy from the country's border regions.</desc>
     <category lang="en">News</category>
     <episode-num system="xmltv_ns">0.2021.</episode-num>
     <episode-num system="onscreen">S1E2022</episode-num>
@@ -15203,7 +15203,7 @@
   </programme>
   <programme start="20260314141500 +0000" stop="20260314144500 +0000" channel="nhkworldjapan.unifitv">
     <title lang="en">BIZ STREAM</title>
-    <desc lang="en">This upbeat program combines business and economic news with in-depth feature stories that give you a closer look at the latest trends within Japan and around the world.</desc>
+    <desc lang="en">Connecting Craftsmen: This episode explores how Japan's local factories are using modern tech to pass on skills and share resources.</desc>
     <category lang="en">News</category>
     <episode-num system="xmltv_ns">0.2073.</episode-num>
     <episode-num system="onscreen">S1E2074</episode-num>
