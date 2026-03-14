@@ -2720,10 +2720,10 @@ Warning: Undefined array key "et" in /usr/home/ManusiaBiasa/domains/manusiabiasa
 <programme start="20260314130000 +0000" stop="20260314141500 +0000" channel="Sky Sport Bundesliga UHD.skyde">
     <title>Live BL: tipico Countdown, 26. Spieltag</title>
 </programme>
-<programme start="20260314141500 +0000" stop="20260314163500 +0000" channel="Sky Sport Bundesliga UHD.skyde">
+<programme start="20260314141500 +0000" stop="20260314163000 +0000" channel="Sky Sport Bundesliga UHD.skyde">
     <title>Live BL: Bayer Leverkusen - FC Bayern München, 26. Spieltag</title>
 </programme>
-<programme start="20260314163500 +0000" stop="20260314192500 +0000" channel="Sky Sport Bundesliga UHD.skyde">
+<programme start="20260314163000 +0000" stop="20260314192500 +0000" channel="Sky Sport Bundesliga UHD.skyde">
     <title>Live BL: Hamburger SV - 1. FC Köln, tipico Topspiel der Woche, 26. Spieltag</title>
 </programme>
 <programme start="20260314192500 +0000" stop="20260314220000 +0000" channel="Sky Sport Bundesliga UHD.skyde">
@@ -3197,14 +3197,11 @@ Warning: Undefined array key "et" in /usr/home/ManusiaBiasa/domains/manusiabiasa
 <programme start="20260314010000 +0000" stop="20260314022500 +0000" channel="Sky Sport Top Event HD.skyde">
     <title>Live WTA 1000: E. Rybakina (KAZ) - E. Svitolina (UKR), BNP Paribas Open in Indian Wells, Kalifornien (USA), Halbfinale 2</title>
 </programme>
-<programme start="20260314022500 +0000" stop="20260314040000 +0000" channel="Sky Sport Top Event HD.skyde">
+<programme start="20260314022500 +0000" stop="20260314040500 +0000" channel="Sky Sport Top Event HD.skyde">
     <title>Live F1: Sprint - GP China</title>
 </programme>
-<programme start="20260314040000 +0000" stop="20260314050000 +0000" channel="Sky Sport Top Event HD.skyde">
+<programme start="20260314040500 +0000" stop="20260314054000 +0000" channel="Sky Sport Top Event HD.skyde">
     <title>Live LIV Golf: Singapur, 3. Tag auf Sentosa</title>
-</programme>
-<programme start="20260314050000 +0000" stop="20260314054000 +0000" channel="Sky Sport Top Event HD.skyde">
-    <title>F1: Iconic Onboards: Lando Norris</title>
 </programme>
 <programme start="20260314054000 +0000" stop="20260314063000 +0000" channel="Sky Sport Top Event HD.skyde">
     <title>Live F1 Academy: 1. Rennen - GP China</title>
@@ -3243,7 +3240,7 @@ Warning: Undefined array key "et" in /usr/home/ManusiaBiasa/domains/manusiabiasa
     <title>Live ATP 1000: A. Zverev (GER) - J. Sinner (ITA), BNP Paribas Open in Indian Wells, Kalifornien (USA), Halbfinale 1</title>
 </programme>
 <programme start="20260314223000 +0000" stop="20260315003000 +0000" channel="Sky Sport Top Event HD.skyde">
-    <title>Live ATP 1000: HF2, BNP Paribas Open in Indian Wells, Kalifornien (USA), Halbfinale 2</title>
+    <title>Live ATP 1000: C. Alcaraz (ESP) - D. Medvedev, BNP Paribas Open in Indian Wells, Kalifornien (USA), Halbfinale 2</title>
 </programme>
 <programme start="20260314004500 +0000" stop="20260314005500 +0000" channel="Sky Sport UHD.skyde">
     <title>Info: UHD</title>
@@ -3254,13 +3251,13 @@ Warning: Undefined array key "et" in /usr/home/ManusiaBiasa/domains/manusiabiasa
 <programme start="20260314012500 +0000" stop="20260314022500 +0000" channel="Sky Sport UHD.skyde">
     <title>F1: Sprint Qualifying - GP China</title>
 </programme>
-<programme start="20260314022500 +0000" stop="20260314040500 +0000" channel="Sky Sport UHD.skyde">
+<programme start="20260314022500 +0000" stop="20260314040000 +0000" channel="Sky Sport UHD.skyde">
     <title>Live F1: Sprint - GP China</title>
 </programme>
-<programme start="20260314040500 +0000" stop="20260314044000 +0000" channel="Sky Sport UHD.skyde">
+<programme start="20260314040000 +0000" stop="20260314043000 +0000" channel="Sky Sport UHD.skyde">
     <title>F1: Pressekonferenz Sprint - GP China</title>
 </programme>
-<programme start="20260314044000 +0000" stop="20260314050000 +0000" channel="Sky Sport UHD.skyde">
+<programme start="20260314043000 +0000" stop="20260314050000 +0000" channel="Sky Sport UHD.skyde">
     <title>F1: GP Confidential</title>
 </programme>
 <programme start="20260314050000 +0000" stop="20260314054000 +0000" channel="Sky Sport UHD.skyde">
