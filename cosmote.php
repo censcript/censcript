@@ -1,11 +1,3 @@
-<programme start="20260314150000 +0700" stop="20260314153000 +0700" channel="COSMOTE Sport 1 HD">
-    <title>UEFA Champions League Magazine 2024-25 E24</title>
-    <desc>Live: Tidak</desc>
-</programme>
-<programme start="20260314153000 +0700" stop="20260314160000 +0700" channel="COSMOTE Sport 1 HD">
-    <title>Game R1 S6 E29</title>
-    <desc>Live: Tidak</desc>
-</programme>
 <programme start="20260314160000 +0700" stop="20260314180000 +0700" channel="COSMOTE Sport 1 HD">
     <title>Football: Bayer 04 Leverkusen - Arsenal</title>
     <desc>Live: Tidak</desc>
@@ -138,6 +130,10 @@
     <title>Football: OFI - Olympiacos</title>
     <desc>Live: Tidak</desc>
 </programme>
+<programme start="20260315161500 +0700" stop="20260315183000 +0700" channel="COSMOTE Sport 2 HD">
+    <title>Football: AEL Novibet - Asteras Aktor</title>
+    <desc>Live: Tidak</desc>
+</programme>
 <programme start="20260314150000 +0700" stop="20260314170000 +0700" channel="COSMOTE Sport 3 HD">
     <title>Football: Tondela - Rio Ave</title>
     <desc>Live: Tidak</desc>
@@ -204,6 +200,10 @@
 </programme>
 <programme start="20260315153000 +0700" stop="20260315160000 +0700" channel="COSMOTE Sport 3 HD">
     <title>Sports Classics: Ultimate Rush S3 E2</title>
+    <desc>Live: Tidak</desc>
+</programme>
+<programme start="20260315160000 +0700" stop="20260315180000 +0700" channel="COSMOTE Sport 3 HD">
+    <title>Football: Arouca - SL Benfica</title>
     <desc>Live: Tidak</desc>
 </programme>
 <programme start="20260314150000 +0700" stop="20260314164500 +0700" channel="COSMOTE Sport 4 HD">
@@ -282,9 +282,9 @@
     <title>NBA on Fire 2025-26 E20</title>
     <desc>Live: Tidak</desc>
 </programme>
-<programme start="20260314143000 +0700" stop="20260314153500 +0700" channel="COSMOTE Sport 5 HD">
-    <title>WRC 2026 (L)</title>
-    <desc>Live: Ya</desc>
+<programme start="20260315162500 +0700" stop="20260315170000 +0700" channel="COSMOTE Sport 4 HD">
+    <title>NBA Action 2025-26 E3521</title>
+    <desc>Live: Tidak</desc>
 </programme>
 <programme start="20260314153500 +0700" stop="20260314160500 +0700" channel="COSMOTE Sport 5 HD">
     <title>Sports Classics: Gearing Up 2026 E2</title>
@@ -390,6 +390,10 @@
     <title>2025 GT World Challenge Europe</title>
     <desc>Live: Tidak</desc>
 </programme>
+<programme start="20260315161000 +0700" stop="20260315170000 +0700" channel="COSMOTE Sport 5 HD">
+    <title>DTM</title>
+    <desc>Live: Tidak</desc>
+</programme>
 <programme start="20260314150000 +0700" stop="20260314163000 +0700" channel="COSMOTE Sport 6 HD">
     <title>Tennis: Jack Draper - Daniil Medvedev</title>
     <desc>Live: Tidak</desc>
@@ -448,6 +452,10 @@
 </programme>
 <programme start="20260315130000 +0700" stop="20260315162000 +0700" channel="COSMOTE Sport 6 HD">
     <title>Premier Padel Tour 2026</title>
+    <desc>Live: Tidak</desc>
+</programme>
+<programme start="20260315162000 +0700" stop="20260315182000 +0700" channel="COSMOTE Sport 6 HD">
+    <title>Tennis: ATP Masters 1000 2026</title>
     <desc>Live: Tidak</desc>
 </programme>
 <programme start="20260314150000 +0700" stop="20260314170000 +0700" channel="COSMOTE Sport 7 HD">
