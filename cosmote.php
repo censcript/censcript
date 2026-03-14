@@ -1,7 +1,3 @@
-<programme start="20260314160000 +0700" stop="20260314180000 +0700" channel="COSMOTE Sport 1 HD">
-    <title>Football: Bayer 04 Leverkusen - Arsenal</title>
-    <desc>Live: Tidak</desc>
-</programme>
 <programme start="20260314180000 +0700" stop="20260314200000 +0700" channel="COSMOTE Sport 1 HD">
     <title>Football: Real Madrid CF - Manchester City FC</title>
     <desc>Live: Tidak</desc>
@@ -66,10 +62,6 @@
     <title>Football: Newcastle United - FC Barcelona</title>
     <desc>Live: Tidak</desc>
 </programme>
-<programme start="20260314164500 +0700" stop="20260314171500 +0700" channel="COSMOTE Sport 2 HD">
-    <title>Sports Classics: My Sporting Moment</title>
-    <desc>Live: Tidak</desc>
-</programme>
 <programme start="20260314171500 +0700" stop="20260314193000 +0700" channel="COSMOTE Sport 2 HD">
     <title>Football: AEK - AEL Novibet</title>
     <desc>Live: Tidak</desc>
@@ -129,6 +121,10 @@
 <programme start="20260315161500 +0700" stop="20260315183000 +0700" channel="COSMOTE Sport 2 HD">
     <title>Football: AEL Novibet - Asteras Aktor</title>
     <desc>Live: Tidak</desc>
+</programme>
+<programme start="20260315183000 +0700" stop="20260315203000 +0700" channel="COSMOTE Sport 2 HD">
+    <title>Football: Hellas Verona - Genoa (L)</title>
+    <desc>Live: Ya</desc>
 </programme>
 <programme start="20260314170000 +0700" stop="20260314190000 +0700" channel="COSMOTE Sport 3 HD">
     <title>Football: Wrexham  - Swansea City</title>
@@ -198,8 +194,12 @@
     <title>Football: Arouca - SL Benfica</title>
     <desc>Live: Tidak</desc>
 </programme>
-<programme start="20260314164500 +0700" stop="20260314171000 +0700" channel="COSMOTE Sport 4 HD">
-    <title>ACB Liga Endesa 2025-26 - Fifth Quarter E21</title>
+<programme start="20260315180000 +0700" stop="20260315183000 +0700" channel="COSMOTE Sport 3 HD">
+    <title>Emirates FA Cup 2025-26 - Highlights</title>
+    <desc>Live: Tidak</desc>
+</programme>
+<programme start="20260315183000 +0700" stop="20260315202500 +0700" channel="COSMOTE Sport 3 HD">
+    <title>Football: Kilmarnock - Heart of Midlothian</title>
     <desc>Live: Tidak</desc>
 </programme>
 <programme start="20260314171000 +0700" stop="20260314191000 +0700" channel="COSMOTE Sport 4 HD">
@@ -277,10 +277,6 @@
 <programme start="20260315170000 +0700" stop="20260315190000 +0700" channel="COSMOTE Sport 4 HD">
     <title>Basketball: Buyukcekmece Basketbol - Fenerbahce (L)</title>
     <desc>Live: Ya</desc>
-</programme>
-<programme start="20260314165000 +0700" stop="20260314175500 +0700" channel="COSMOTE Sport 5 HD">
-    <title>WRC 2026</title>
-    <desc>Live: Tidak</desc>
 </programme>
 <programme start="20260314175500 +0700" stop="20260314190000 +0700" channel="COSMOTE Sport 5 HD">
     <title>WRC 2026</title>
@@ -382,6 +378,10 @@
     <title>WRC 2026 (L)</title>
     <desc>Live: Ya</desc>
 </programme>
+<programme start="20260315183500 +0700" stop="20260315190000 +0700" channel="COSMOTE Sport 5 HD">
+    <title>Sports Classics: Worldies E27</title>
+    <desc>Live: Tidak</desc>
+</programme>
 <programme start="20260314163000 +0700" stop="20260314191000 +0700" channel="COSMOTE Sport 6 HD">
     <title>Volleyball: Vallefoglia - Panathinaikos</title>
     <desc>Live: Tidak</desc>
@@ -439,6 +439,10 @@
     <desc>Live: Tidak</desc>
 </programme>
 <programme start="20260315162000 +0700" stop="20260315182000 +0700" channel="COSMOTE Sport 6 HD">
+    <title>Tennis: ATP Masters 1000 2026</title>
+    <desc>Live: Tidak</desc>
+</programme>
+<programme start="20260315182000 +0700" stop="20260315220000 +0700" channel="COSMOTE Sport 6 HD">
     <title>Tennis: ATP Masters 1000 2026</title>
     <desc>Live: Tidak</desc>
 </programme>
@@ -647,6 +651,10 @@
     <desc>Live: Tidak</desc>
 </programme>
 <programme start="20260315170000 +0700" stop="20260315183000 +0700" channel="COSMOTE Sport 9 HD">
+    <title>COSMOTESport9HD</title>
+    <desc>Live: Tidak</desc>
+</programme>
+<programme start="20260315183000 +0700" stop="20260315190000 +0700" channel="COSMOTE Sport 9 HD">
     <title>COSMOTESport9HD</title>
     <desc>Live: Tidak</desc>
 </programme>
