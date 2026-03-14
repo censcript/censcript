@@ -208,35 +208,38 @@
 <programme start="20260314170000 +0000" stop="20260314190000 +0000" channel="GTV.vision">
 <title>Crime KV</title>
 </programme>
-<programme start="20260314190000 +0000" stop="20260314200000 +0000" channel="GTV.vision">
-<title>GTV</title>
+<programme start="20260314190000 +0000" stop="20260314203000 +0000" channel="GTV.vision">
+<title>BIG MOVIES SAHUR</title>
 </programme>
-<programme start="20260314200000 +0000" stop="20260314220000 +0000" channel="GTV.vision">
-<title>GTV</title>
+<programme start="20260314203000 +0000" stop="20260314220000 +0000" channel="GTV.vision">
+<title>BIG MOVIES SAHUR</title>
 </programme>
 <programme start="20260314220000 +0000" stop="20260314230000 +0000" channel="GTV.vision">
-<title>GTV</title>
+<title>Kisah Viral</title>
 </programme>
-<programme start="20260314230000 +0000" stop="20260315020000 +0000" channel="GTV.vision">
-<title>GTV</title>
+<programme start="20260314230000 +0000" stop="20260315023000 +0000" channel="GTV.vision">
+<title>SpongeBob SquarePants</title>
 </programme>
-<programme start="20260315020000 +0000" stop="20260315050000 +0000" channel="GTV.vision">
-<title>GTV</title>
+<programme start="20260315023000 +0000" stop="20260315050000 +0000" channel="GTV.vision">
+<title>Spongebob Squarepants (GTV)</title>
 </programme>
-<programme start="20260315050000 +0000" stop="20260315063000 +0000" channel="GTV.vision">
-<title>GTV</title>
-</programme>
-<programme start="20260315063000 +0000" stop="20260315073000 +0000" channel="GTV.vision">
-<title>GTV</title>
+<programme start="20260315050000 +0000" stop="20260315073000 +0000" channel="GTV.vision">
+<title>SpongeBob SquarePants</title>
 </programme>
 <programme start="20260315073000 +0000" stop="20260315093000 +0000" channel="GTV.vision">
-<title>GTV</title>
+<title>SpongeBob SquarePants</title>
 </programme>
-<programme start="20260315093000 +0000" stop="20260315110000 +0000" channel="GTV.vision">
-<title>GTV</title>
+<programme start="20260315093000 +0000" stop="20260315100000 +0000" channel="GTV.vision">
+<title>SpongeBob SquarePants</title>
+</programme>
+<programme start="20260315100000 +0000" stop="20260315101500 +0000" channel="GTV.vision">
+<title>Ramadan Sama Artis (GTV)</title>
+</programme>
+<programme start="20260315101500 +0000" stop="20260315110000 +0000" channel="GTV.vision">
+<title>SpongeBob SquarePants</title>
 </programme>
 <programme start="20260315110000 +0000" stop="20260315123000 +0000" channel="GTV.vision">
-<title>GTV</title>
+<title>New Family 100 (GTV)</title>
 </programme>
 <programme start="20260314000000 +0000" stop="20260314003000 +0000" channel="iNews.vision">
 <title>iBreak: The One Entrepreneur</title>
@@ -616,9 +619,6 @@
 <programme start="20260314154500 +0000" stop="20260314163000 +0000" channel="Trans 7.vision">
 <title>The Police</title>
 </programme>
-<programme start="20260314163000 +0000" stop="20260314181500 +0000" channel="Trans 7.vision">
-<title>Itu Bisa Diatur</title>
-</programme>
 <programme start="20260314181500 +0000" stop="20260314190000 +0000" channel="Trans 7.vision">
 <title>Lapor Pak!</title>
 </programme>
@@ -691,9 +691,6 @@
 <programme start="20260314003000 +0000" stop="20260314023000 +0000" channel="ANTV.vision">
 <title>Janji Inspektur Virat</title>
 </programme>
-<programme start="20260314023000 +0000" stop="20260314060000 +0000" channel="ANTV.vision">
-<title>Singham Return</title>
-</programme>
 <programme start="20260314060000 +0000" stop="20260314080000 +0000" channel="ANTV.vision">
 <title>Jhanak</title>
 </programme>
@@ -703,17 +700,8 @@
 <programme start="20260314090000 +0000" stop="20260314110000 +0000" channel="ANTV.vision">
 <title>Vasudha</title>
 </programme>
-<programme start="20260314110000 +0000" stop="20260314133000 +0000" channel="ANTV.vision">
-<title>Pasukan Berani Mati</title>
-</programme>
 <programme start="20260314133000 +0000" stop="20260314160000 +0000" channel="ANTV.vision">
 <title>Serie A Liga Italia</title>
-</programme>
-<programme start="20260314160000 +0000" stop="20260314180000 +0000" channel="ANTV.vision">
-<title>Sudah Pasti Tahan</title>
-</programme>
-<programme start="20260314180000 +0000" stop="20260314190000 +0000" channel="ANTV.vision">
-<title>Chai Lai Angels</title>
 </programme>
 <programme start="20260314190000 +0000" stop="20260314214500 +0000" channel="ANTV.vision">
 <title>Serie A Liga Italia</title>
@@ -874,17 +862,11 @@
 <programme start="20260314040000 +0000" stop="20260314053000 +0000" channel="TVOne.vision">
 <title>Kabar Siang (L)</title>
 </programme>
-<programme start="20260314053000 +0000" stop="20260314063000 +0000" channel="TVOne.vision">
-<title>Apa Kabar Indonesia... (L)</title>
-</programme>
 <programme start="20260314063000 +0000" stop="20260314070000 +0000" channel="TVOne.vision">
 <title>Berita Utama Kriminal</title>
 </programme>
 <programme start="20260314070000 +0000" stop="20260314071500 +0000" channel="TVOne.vision">
 <title>Selalu Ada Hikmah</title>
-</programme>
-<programme start="20260314071500 +0000" stop="20260314073000 +0000" channel="TVOne.vision">
-<title>Hikmah Ramadan: Kemenag</title>
 </programme>
 <programme start="20260314073000 +0000" stop="20260314090000 +0000" channel="TVOne.vision">
 <title>Damai Indonesiaku Ramadan (L)</title>
@@ -1497,4 +1479,22 @@
 </programme>
 <programme start="20260315003000 +0000" stop="20260315010000 +0000" channel="BTV.vision">
 <title>Figur Publik</title>
+</programme>
+<programme start="20260315010000 +0000" stop="20260315010500 +0000" channel="BTV.vision">
+<title>Berita Satu Terkini</title>
+</programme>
+<programme start="20260315010500 +0000" stop="20260315011500 +0000" channel="BTV.vision">
+<title>Figur Publik</title>
+</programme>
+<programme start="20260315011500 +0000" stop="20260315014500 +0000" channel="BTV.vision">
+<title>Kuyliner</title>
+</programme>
+<programme start="20260315014500 +0000" stop="20260315020000 +0000" channel="BTV.vision">
+<title>Galeri Rasa</title>
+</programme>
+<programme start="20260315020000 +0000" stop="20260315020500 +0000" channel="BTV.vision">
+<title>Berita Satu Terkini</title>
+</programme>
+<programme start="20260315020500 +0000" stop="20260315023000 +0000" channel="BTV.vision">
+<title>Galeri Rasa</title>
 </programme>
