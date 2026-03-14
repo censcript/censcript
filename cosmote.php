@@ -138,6 +138,10 @@
     <title>Football: Udinese - Juventus Football Club</title>
     <desc>Live: Tidak</desc>
 </programme>
+<programme start="20260315140000 +0700" stop="20260315161500 +0700" channel="COSMOTE Sport 2 HD">
+    <title>Football: OFI - Olympiacos</title>
+    <desc>Live: Tidak</desc>
+</programme>
 <programme start="20260314130000 +0700" stop="20260314150000 +0700" channel="COSMOTE Sport 3 HD">
     <title>Football: APOEL - Anorthosis Famagusta</title>
     <desc>Live: Tidak</desc>
@@ -278,10 +282,6 @@
     <title>Basketball: Tenerife - Valencia Basket Club</title>
     <desc>Live: Tidak</desc>
 </programme>
-<programme start="20260314123500 +0700" stop="20260314133000 +0700" channel="COSMOTE Sport 5 HD">
-    <title>WRC 2026 (L)</title>
-    <desc>Live: Ya</desc>
-</programme>
 <programme start="20260314133000 +0700" stop="20260314143000 +0700" channel="COSMOTE Sport 5 HD">
     <title>WRC 2026 (L)</title>
     <desc>Live: Ya</desc>
@@ -386,9 +386,9 @@
     <title>WRC 2026 (L)</title>
     <desc>Live: Ya</desc>
 </programme>
-<programme start="20260314120000 +0700" stop="20260314134000 +0700" channel="COSMOTE Sport 6 HD">
-    <title>Tennis: Arthur Fils - Alexander Zverev</title>
-    <desc>Live: Tidak</desc>
+<programme start="20260315143500 +0700" stop="20260315152000 +0700" channel="COSMOTE Sport 5 HD">
+    <title>WRC 2026 (L)</title>
+    <desc>Live: Ya</desc>
 </programme>
 <programme start="20260314134000 +0700" stop="20260314150000 +0700" channel="COSMOTE Sport 6 HD">
     <title>Tennis: Learner Tien - Jannik Sinner</title>

@@ -2804,7 +2804,7 @@ Warning: Undefined array key "et" in /usr/home/ManusiaBiasa/domains/manusiabiasa
 <programme start="20260314113000 +0000" stop="20260314140000 +0000" channel="Sky Sport Bundesliga 5 HD.skyde">
     <title>Live 2. BL: Arminia Bielefeld - SC Paderborn 07, 26. Spieltag</title>
 </programme>
-<programme start="20260314140000 +0000" stop="20260314164500 +0000" channel="Sky Sport Bundesliga 5 HD.skyde">
+<programme start="20260314140000 +0000" stop="20260314170000 +0000" channel="Sky Sport Bundesliga 5 HD.skyde">
     <title>BL: Hinweis Multiview</title>
 </programme>
 <programme start="20260314111000 +0000" stop="20260314113000 +0000" channel="Sky Sport Bundesliga 6 HD.skyde">
@@ -3287,7 +3287,7 @@ Warning: Undefined array key "et" in /usr/home/ManusiaBiasa/domains/manusiabiasa
 <programme start="20260314212500 +0000" stop="20260314214500 +0000" channel="Sky Sport 1 HD.skyde">
     <title>Es folgt: LIVE NBA</title>
 </programme>
-<programme start="20260314214500 +0000" stop="20260315010000 +0000" channel="Sky Sport 1 HD.skyde">
+<programme start="20260314214500 +0000" stop="20260315090000 +0000" channel="Sky Sport 1 HD.skyde">
     <title>Live NBA: Washington Wizards @ Boston Celtics</title>
 </programme>
 <programme start="20260314170000 +0000" stop="20260314172000 +0000" channel="Sky Sport 4 HD.skyde">

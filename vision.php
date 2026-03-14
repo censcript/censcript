@@ -691,6 +691,9 @@
 <programme start="20260314003000 +0000" stop="20260314023000 +0000" channel="ANTV.vision">
 <title>Janji Inspektur Virat</title>
 </programme>
+<programme start="20260314023000 +0000" stop="20260314060000 +0000" channel="ANTV.vision">
+<title>Singham Return</title>
+</programme>
 <programme start="20260314060000 +0000" stop="20260314080000 +0000" channel="ANTV.vision">
 <title>Jhanak</title>
 </programme>
@@ -870,6 +873,9 @@
 </programme>
 <programme start="20260314040000 +0000" stop="20260314053000 +0000" channel="TVOne.vision">
 <title>Kabar Siang (L)</title>
+</programme>
+<programme start="20260314053000 +0000" stop="20260314063000 +0000" channel="TVOne.vision">
+<title>Apa Kabar Indonesia... (L)</title>
 </programme>
 <programme start="20260314063000 +0000" stop="20260314070000 +0000" channel="TVOne.vision">
 <title>Berita Utama Kriminal</title>
@@ -1490,11 +1496,5 @@
 <title>Jalan Dakwah Ramadan</title>
 </programme>
 <programme start="20260315003000 +0000" stop="20260315010000 +0000" channel="BTV.vision">
-<title>Figur Publik</title>
-</programme>
-<programme start="20260315010000 +0000" stop="20260315010500 +0000" channel="BTV.vision">
-<title>Berita Satu Terkini</title>
-</programme>
-<programme start="20260315010500 +0000" stop="20260315011500 +0000" channel="BTV.vision">
 <title>Figur Publik</title>
 </programme>
