@@ -571,6 +571,9 @@
 <programme start="20260314004500 +0000" stop="20260314013000 +0000" channel="Trans 7.vision">
 <title>Selebrita On The Weekend</title>
 </programme>
+<programme start="20260314013000 +0000" stop="20260314023000 +0000" channel="Trans 7.vision">
+<title>Obrolan Tiap Waktu</title>
+</programme>
 <programme start="20260314023000 +0000" stop="20260314033000 +0000" channel="Trans 7.vision">
 <title>Heits Abis</title>
 </programme>
@@ -690,6 +693,9 @@
 </programme>
 <programme start="20260314003000 +0000" stop="20260314023000 +0000" channel="ANTV.vision">
 <title>Janji Inspektur Virat</title>
+</programme>
+<programme start="20260314023000 +0000" stop="20260314060000 +0000" channel="ANTV.vision">
+<title>Singham Return</title>
 </programme>
 <programme start="20260314060000 +0000" stop="20260314080000 +0000" channel="ANTV.vision">
 <title>Jhanak</title>
@@ -853,6 +859,9 @@
 <programme start="20260313233000 +0000" stop="20260314010000 +0000" channel="TVOne.vision">
 <title>Apa Kabar Indonesia Pagi (L)</title>
 </programme>
+<programme start="20260314010000 +0000" stop="20260314020000 +0000" channel="TVOne.vision">
+<title>Inspirasi Pagi</title>
+</programme>
 <programme start="20260314020000 +0000" stop="20260314023000 +0000" channel="TVOne.vision">
 <title>Pesona Nusantara</title>
 </programme>
@@ -871,11 +880,17 @@
 <programme start="20260314040000 +0000" stop="20260314053000 +0000" channel="TVOne.vision">
 <title>Kabar Siang (L)</title>
 </programme>
+<programme start="20260314053000 +0000" stop="20260314063000 +0000" channel="TVOne.vision">
+<title>Apa Kabar Indonesia... (L)</title>
+</programme>
 <programme start="20260314063000 +0000" stop="20260314070000 +0000" channel="TVOne.vision">
 <title>Berita Utama Kriminal</title>
 </programme>
 <programme start="20260314070000 +0000" stop="20260314071500 +0000" channel="TVOne.vision">
 <title>Selalu Ada Hikmah</title>
+</programme>
+<programme start="20260314071500 +0000" stop="20260314073000 +0000" channel="TVOne.vision">
+<title>Hikmah Ramadan: Kemenag</title>
 </programme>
 <programme start="20260314073000 +0000" stop="20260314090000 +0000" channel="TVOne.vision">
 <title>Damai Indonesiaku Ramadan (L)</title>
@@ -1482,19 +1497,4 @@
 </programme>
 <programme start="20260314230000 +0000" stop="20260314230300 +0000" channel="BTV.vision">
 <title>Indonesia Raya</title>
-</programme>
-<programme start="20260314230300 +0000" stop="20260315003000 +0000" channel="BTV.vision">
-<title>Jalan Dakwah Ramadan</title>
-</programme>
-<programme start="20260315003000 +0000" stop="20260315010000 +0000" channel="BTV.vision">
-<title>Figur Publik</title>
-</programme>
-<programme start="20260315010000 +0000" stop="20260315010500 +0000" channel="BTV.vision">
-<title>Berita Satu Terkini</title>
-</programme>
-<programme start="20260315010500 +0000" stop="20260315011500 +0000" channel="BTV.vision">
-<title>Figur Publik</title>
-</programme>
-<programme start="20260315011500 +0000" stop="20260315014500 +0000" channel="BTV.vision">
-<title>Kuyliner</title>
 </programme>
