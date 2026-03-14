@@ -944,8 +944,11 @@ Warning: Undefined array key "et" in /usr/home/ManusiaBiasa/domains/manusiabiasa
 <programme start="20260314103500 +0000" stop="20260314123000 +0000" channel="DAZN 1 HD.skyde">
     <title>Bundesliga 25/26: Borussia M&#039;gladbach - FC St. Pauli</title>
 </programme>
-<programme start="20260314123000 +0000" stop="20260314130000 +0000" channel="DAZN 1 HD.skyde">
+<programme start="20260314123000 +0000" stop="20260314124500 +0000" channel="DAZN 1 HD.skyde">
     <title>Warm Up: Bundesliga Highlights</title>
+</programme>
+<programme start="20260314124500 +0000" stop="20260314130000 +0000" channel="DAZN 1 HD.skyde">
+    <title>Never Talk Alone: Holger Badstuber. Nur in Deutschland verfügbar!</title>
 </programme>
 <programme start="20260314130000 +0000" stop="20260314163000 +0000" channel="DAZN 1 HD.skyde">
     <title>Bundesliga Konferenz 25/26: 26. Spieltag</title>
@@ -2562,7 +2565,7 @@ Warning: Undefined array key "et" in /usr/home/ManusiaBiasa/domains/manusiabiasa
     <title>Snapped: Behind Bars</title>
 </programme>
 <programme start="20260313233000 +0000" stop="20260314011500 +0000" channel="Sky Sport Austria 1 HD.skyde">
-    <title>Fußball: Klassiker der Woche</title>
+    <title>Fußball: Klassiker der Woche: FAK - STU (Saison 2012/13)</title>
 </programme>
 <programme start="20260314011500 +0000" stop="20260314020000 +0000" channel="Sky Sport Austria 1 HD.skyde">
     <title>Fußball: Herzog gegen Herzig Spezial mit Toni Polster - Die Next Generation Show</title>
@@ -2580,7 +2583,7 @@ Warning: Undefined array key "et" in /usr/home/ManusiaBiasa/domains/manusiabiasa
     <title>Admiral BL: LASK - TSV Egger Glas Hartberg, 23. Runde</title>
 </programme>
 <programme start="20260314070000 +0000" stop="20260314084500 +0000" channel="Sky Sport Austria 1 HD.skyde">
-    <title>Fußball: Klassiker der Woche</title>
+    <title>Fußball: Klassiker der Woche: FAK - STU (Saison 2012/13)</title>
 </programme>
 <programme start="20260314084500 +0000" stop="20260314091500 +0000" channel="Sky Sport Austria 1 HD.skyde">
     <title>RIESENrad: Sportgrößen im Waggon 28 (Gast: Benjamin Karl)</title>
@@ -2630,7 +2633,7 @@ Warning: Undefined array key "et" in /usr/home/ManusiaBiasa/domains/manusiabiasa
 <programme start="20260314153000 +0000" stop="20260314155000 +0000" channel="Sky Sport Austria 3 HD.skyde">
     <title>Es folgt Fußball: Österreich, Admiral Bundesliga</title>
 </programme>
-<programme start="20260314155000 +0000" stop="20260314181500 +0000" channel="Sky Sport Austria 3 HD.skyde">
+<programme start="20260314155000 +0000" stop="20260314180000 +0000" channel="Sky Sport Austria 3 HD.skyde">
     <title>Live Admiral BL: SV Oberbank Ried - WSG Tirol, 23. Runde</title>
 </programme>
 <programme start="20260314153000 +0000" stop="20260314155000 +0000" channel="Sky Sport Austria 4 HD.skyde">
@@ -2741,7 +2744,7 @@ Warning: Undefined array key "et" in /usr/home/ManusiaBiasa/domains/manusiabiasa
 <programme start="20260314141500 +0000" stop="20260314164500 +0000" channel="Sky Sport Bundesliga 1 HD.skyde">
     <title>Live BL: Bayer Leverkusen - FC Bayern München, 26. Spieltag</title>
 </programme>
-<programme start="20260314164500 +0000" stop="20260314204500 +0000" channel="Sky Sport Bundesliga 1 HD.skyde">
+<programme start="20260314164500 +0000" stop="20260314201500 +0000" channel="Sky Sport Bundesliga 1 HD.skyde">
     <title>Live BL: Hamburger SV - 1. FC Köln, tipico Topspiel der Woche, 26. Spieltag</title>
 </programme>
 <programme start="20260314111000 +0000" stop="20260314113000 +0000" channel="Sky Sport Bundesliga 2 HD.skyde">
@@ -2765,7 +2768,7 @@ Warning: Undefined array key "et" in /usr/home/ManusiaBiasa/domains/manusiabiasa
 <programme start="20260314190000 +0000" stop="20260314220000 +0000" channel="Sky Sport Bundesliga 2 HD.skyde">
     <title>Live 2. BL: Hertha BSC - VfL Bochum, tipico Topspiel der Woche, 26. Spieltag</title>
 </programme>
-<programme start="20260314220000 +0000" stop="20260314231500 +0000" channel="Sky Sport Bundesliga 2 HD.skyde">
+<programme start="20260314220000 +0000" stop="20260314230000 +0000" channel="Sky Sport Bundesliga 2 HD.skyde">
     <title>2. BL Alle Spiele, alle Tore: Die Vodafone Highlight-Show, 26. Spieltag, Samstag komplett</title>
 </programme>
 <programme start="20260314111000 +0000" stop="20260314113000 +0000" channel="Sky Sport Bundesliga 3 HD.skyde">
@@ -2801,7 +2804,7 @@ Warning: Undefined array key "et" in /usr/home/ManusiaBiasa/domains/manusiabiasa
 <programme start="20260314113000 +0000" stop="20260314140000 +0000" channel="Sky Sport Bundesliga 5 HD.skyde">
     <title>Live 2. BL: Arminia Bielefeld - SC Paderborn 07, 26. Spieltag</title>
 </programme>
-<programme start="20260314140000 +0000" stop="20260314164500 +0000" channel="Sky Sport Bundesliga 5 HD.skyde">
+<programme start="20260314140000 +0000" stop="20260314170000 +0000" channel="Sky Sport Bundesliga 5 HD.skyde">
     <title>BL: Hinweis Multiview</title>
 </programme>
 <programme start="20260314111000 +0000" stop="20260314113000 +0000" channel="Sky Sport Bundesliga 6 HD.skyde">
@@ -2891,14 +2894,14 @@ Warning: Undefined array key "et" in /usr/home/ManusiaBiasa/domains/manusiabiasa
 <programme start="20260313233000 +0000" stop="20260314000000 +0000" channel="Sky Sport Golf HD.skyde">
     <title>The Masters: Official Film 1985 (Bernhard Langer)</title>
 </programme>
-<programme start="20260314000000 +0000" stop="20260314010000 +0000" channel="Sky Sport Golf HD.skyde">
+<programme start="20260314000000 +0000" stop="20260314050000 +0000" channel="Sky Sport Golf HD.skyde">
+    <title>Live LIV Golf: Singapur, 3. Tag auf Sentosa</title>
+</programme>
+<programme start="20260314050000 +0000" stop="20260314060000 +0000" channel="Sky Sport Golf HD.skyde">
     <title>The Masters: Official Film 1993 (Bernhard Langer)</title>
 </programme>
-<programme start="20260314010000 +0000" stop="20260314013000 +0000" channel="Sky Sport Golf HD.skyde">
+<programme start="20260314060000 +0000" stop="20260314063000 +0000" channel="Sky Sport Golf HD.skyde">
     <title>Golf: Tee Time Stories (3)</title>
-</programme>
-<programme start="20260314013000 +0000" stop="20260314063000 +0000" channel="Sky Sport Golf HD.skyde">
-    <title>Live LIV Golf: Singapur, 3. Tag auf Sentosa</title>
 </programme>
 <programme start="20260314063000 +0000" stop="20260314064500 +0000" channel="Sky Sport Golf HD.skyde">
     <title>Golf: Tee Time Stories (2)</title>
@@ -3287,10 +3290,10 @@ Warning: Undefined array key "et" in /usr/home/ManusiaBiasa/domains/manusiabiasa
 <programme start="20260314214500 +0000" stop="20260315090000 +0000" channel="Sky Sport 1 HD.skyde">
     <title>Live NBA: Washington Wizards @ Boston Celtics</title>
 </programme>
-<programme start="20260314171000 +0000" stop="20260314172000 +0000" channel="Sky Sport 4 HD.skyde">
+<programme start="20260314170000 +0000" stop="20260314172000 +0000" channel="Sky Sport 4 HD.skyde">
     <title>Es folgt: LIVE PL</title>
 </programme>
-<programme start="20260314172000 +0000" stop="20260314200000 +0000" channel="Sky Sport 4 HD.skyde">
+<programme start="20260314172000 +0000" stop="20260314193000 +0000" channel="Sky Sport 4 HD.skyde">
     <title>Live PL: FC Chelsea - Newcastle United, 30. Spieltag</title>
 </programme>
 <programme start="20260314143000 +0000" stop="20260314145000 +0000" channel="Sky Sport 8 HD.skyde">
@@ -3527,10 +3530,10 @@ Warning: Undefined array key "et" in /usr/home/ManusiaBiasa/domains/manusiabiasa
 <programme start="20260314033500 +0000" stop="20260314040000 +0000" channel="Warner TV Comedy HD.skyde">
     <title>2 Broke Girls</title>
 </programme>
-<programme start="20260314040000 +0000" stop="20260314042000 +0000" channel="Warner TV Comedy HD.skyde">
+<programme start="20260314040000 +0000" stop="20260314042500 +0000" channel="Warner TV Comedy HD.skyde">
     <title>Die Nanny</title>
 </programme>
-<programme start="20260314042000 +0000" stop="20260314044500 +0000" channel="Warner TV Comedy HD.skyde">
+<programme start="20260314042500 +0000" stop="20260314044500 +0000" channel="Warner TV Comedy HD.skyde">
     <title>Die Nanny</title>
 </programme>
 <programme start="20260314044500 +0000" stop="20260314051000 +0000" channel="Warner TV Comedy HD.skyde">
@@ -3545,13 +3548,13 @@ Warning: Undefined array key "et" in /usr/home/ManusiaBiasa/domains/manusiabiasa
 <programme start="20260314060500 +0000" stop="20260314062500 +0000" channel="Warner TV Comedy HD.skyde">
     <title>Die Nanny</title>
 </programme>
-<programme start="20260314062500 +0000" stop="20260314065500 +0000" channel="Warner TV Comedy HD.skyde">
+<programme start="20260314062500 +0000" stop="20260314065000 +0000" channel="Warner TV Comedy HD.skyde">
     <title>Die Nanny</title>
 </programme>
-<programme start="20260314065500 +0000" stop="20260314072000 +0000" channel="Warner TV Comedy HD.skyde">
+<programme start="20260314065000 +0000" stop="20260314071500 +0000" channel="Warner TV Comedy HD.skyde">
     <title>Die Nanny</title>
 </programme>
-<programme start="20260314072000 +0000" stop="20260314074500 +0000" channel="Warner TV Comedy HD.skyde">
+<programme start="20260314071500 +0000" stop="20260314074500 +0000" channel="Warner TV Comedy HD.skyde">
     <title>Die Nanny</title>
 </programme>
 <programme start="20260314074500 +0000" stop="20260314081000 +0000" channel="Warner TV Comedy HD.skyde">
@@ -3623,13 +3626,13 @@ Warning: Undefined array key "et" in /usr/home/ManusiaBiasa/domains/manusiabiasa
 <programme start="20260314164000 +0000" stop="20260314170500 +0000" channel="Warner TV Comedy HD.skyde">
     <title>King of Queens</title>
 </programme>
-<programme start="20260314170500 +0000" stop="20260314173500 +0000" channel="Warner TV Comedy HD.skyde">
+<programme start="20260314170500 +0000" stop="20260314173000 +0000" channel="Warner TV Comedy HD.skyde">
     <title>King of Queens</title>
 </programme>
-<programme start="20260314173500 +0000" stop="20260314180000 +0000" channel="Warner TV Comedy HD.skyde">
+<programme start="20260314173000 +0000" stop="20260314175500 +0000" channel="Warner TV Comedy HD.skyde">
     <title>King of Queens</title>
 </programme>
-<programme start="20260314180000 +0000" stop="20260314182500 +0000" channel="Warner TV Comedy HD.skyde">
+<programme start="20260314175500 +0000" stop="20260314182500 +0000" channel="Warner TV Comedy HD.skyde">
     <title>King of Queens</title>
 </programme>
 <programme start="20260314182500 +0000" stop="20260314185000 +0000" channel="Warner TV Comedy HD.skyde">
@@ -3638,13 +3641,13 @@ Warning: Undefined array key "et" in /usr/home/ManusiaBiasa/domains/manusiabiasa
 <programme start="20260314185000 +0000" stop="20260314191500 +0000" channel="Warner TV Comedy HD.skyde">
     <title>King of Queens</title>
 </programme>
-<programme start="20260314191500 +0000" stop="20260314204000 +0000" channel="Warner TV Comedy HD.skyde">
+<programme start="20260314191500 +0000" stop="20260314204500 +0000" channel="Warner TV Comedy HD.skyde">
     <title>Date Night - Gangster für eine Nacht</title>
 </programme>
-<programme start="20260314204000 +0000" stop="20260314210500 +0000" channel="Warner TV Comedy HD.skyde">
+<programme start="20260314204500 +0000" stop="20260314211000 +0000" channel="Warner TV Comedy HD.skyde">
     <title>The Big Bang Theory</title>
 </programme>
-<programme start="20260314210500 +0000" stop="20260314213000 +0000" channel="Warner TV Comedy HD.skyde">
+<programme start="20260314211000 +0000" stop="20260314213000 +0000" channel="Warner TV Comedy HD.skyde">
     <title>The Big Bang Theory</title>
 </programme>
 <programme start="20260314213000 +0000" stop="20260314215500 +0000" channel="Warner TV Comedy HD.skyde">
