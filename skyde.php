@@ -2627,19 +2627,19 @@ Warning: Undefined array key "et" in /usr/home/ManusiaBiasa/domains/manusiabiasa
 <programme start="20260314153000 +0000" stop="20260314155000 +0000" channel="Sky Sport Austria 2 HD.skyde">
     <title>Es folgt Fußball: Österreich, Admiral Bundesliga</title>
 </programme>
-<programme start="20260314155000 +0000" stop="20260314181500 +0000" channel="Sky Sport Austria 2 HD.skyde">
+<programme start="20260314155000 +0000" stop="20260314180000 +0000" channel="Sky Sport Austria 2 HD.skyde">
     <title>Live Admiral BL: SCR Altach - FC Blau-Weiß Linz, 23. Runde</title>
 </programme>
 <programme start="20260314153000 +0000" stop="20260314155000 +0000" channel="Sky Sport Austria 3 HD.skyde">
     <title>Es folgt Fußball: Österreich, Admiral Bundesliga</title>
 </programme>
-<programme start="20260314155000 +0000" stop="20260314181500 +0000" channel="Sky Sport Austria 3 HD.skyde">
+<programme start="20260314155000 +0000" stop="20260314180000 +0000" channel="Sky Sport Austria 3 HD.skyde">
     <title>Live Admiral BL: SV Oberbank Ried - WSG Tirol, 23. Runde</title>
 </programme>
 <programme start="20260314153000 +0000" stop="20260314155000 +0000" channel="Sky Sport Austria 4 HD.skyde">
     <title>Es folgt Fußball: Österreich, Admiral Bundesliga</title>
 </programme>
-<programme start="20260314155000 +0000" stop="20260314181500 +0000" channel="Sky Sport Austria 4 HD.skyde">
+<programme start="20260314155000 +0000" stop="20260314180000 +0000" channel="Sky Sport Austria 4 HD.skyde">
     <title>Live Admiral BL: Grazer AK 1902 - RZ Pellets WAC, 23. Runde</title>
 </programme>
 <programme start="20260314161000 +0000" stop="20260314163000 +0000" channel="Sky Sport Austria 5 HD.skyde">
@@ -2648,7 +2648,7 @@ Warning: Undefined array key "et" in /usr/home/ManusiaBiasa/domains/manusiabiasa
 <programme start="20260314163000 +0000" stop="20260314200000 +0000" channel="Sky Sport Austria 5 HD.skyde">
     <title>Live NHL: Anaheim Ducks @ Ottawa Senators</title>
 </programme>
-<programme start="20260314200000 +0000" stop="20260315000000 +0000" channel="Sky Sport Austria 5 HD.skyde">
+<programme start="20260314200000 +0000" stop="20260314230000 +0000" channel="Sky Sport Austria 5 HD.skyde">
     <title>Live NHL: Colorado Avalanche @ Winnipeg Jets</title>
 </programme>
 <programme start="20260313233000 +0000" stop="20260314013000 +0000" channel="Sky Sport Bundesliga HD.skyde">
