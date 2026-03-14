@@ -62,8 +62,8 @@
     <title>Sportshow (L)</title>
     <desc>Live: Ya</desc>
 </programme>
-<programme start="20260315031000 +0700" stop="20260315052500 +0700" channel="COSMOTE Sport 2 HD">
-    <title>Football: OFI - Olympiacos</title>
+<programme start="20260316063000 +0700" stop="20260316090000 +0700" channel="COSMOTE Sport 1 HD">
+    <title>Sportshow</title>
     <desc>Live: Tidak</desc>
 </programme>
 <programme start="20260315052500 +0700" stop="20260315074000 +0700" channel="COSMOTE Sport 2 HD">
@@ -202,10 +202,6 @@
     <title>Football: Panathinaikos - Panetolikos</title>
     <desc>Live: Tidak</desc>
 </programme>
-<programme start="20260315043500 +0700" stop="20260315053000 +0700" channel="COSMOTE Sport 4 HD">
-    <title>NBA Specials: Basketball Stories</title>
-    <desc>Live: Tidak</desc>
-</programme>
 <programme start="20260315053000 +0700" stop="20260315073000 +0700" channel="COSMOTE Sport 4 HD">
     <title>Basketball: Tenerife - Valencia Basket Club</title>
     <desc>Live: Tidak</desc>
@@ -264,10 +260,6 @@
 </programme>
 <programme start="20260316053000 +0700" stop="20260316080000 +0700" channel="COSMOTE Sport 4 HD">
     <title>Basketball: Los Angeles Lakers - Denver Nuggets</title>
-    <desc>Live: Tidak</desc>
-</programme>
-<programme start="20260315050000 +0700" stop="20260315055000 +0700" channel="COSMOTE Sport 5 HD">
-    <title>WRC: More Than Machine S2 E5</title>
     <desc>Live: Tidak</desc>
 </programme>
 <programme start="20260315055000 +0700" stop="20260315063500 +0700" channel="COSMOTE Sport 5 HD">
@@ -362,9 +354,9 @@
     <title>WRC 2026</title>
     <desc>Live: Tidak</desc>
 </programme>
-<programme start="20260315033000 +0700" stop="20260315053000 +0700" channel="COSMOTE Sport 6 HD">
-    <title>Tennis: Alexander Zverev - Jannik Sinner (L)</title>
-    <desc>Live: Ya</desc>
+<programme start="20260316062000 +0700" stop="20260316072500 +0700" channel="COSMOTE Sport 5 HD">
+    <title>2025 Extreme H</title>
+    <desc>Live: Tidak</desc>
 </programme>
 <programme start="20260315053000 +0700" stop="20260315080000 +0700" channel="COSMOTE Sport 6 HD">
     <title>Tennis: Carlos Alcaraz - Daniil Medvedev (L)</title>
@@ -414,8 +406,8 @@
     <title>Tennis: ATP Masters 1000 2026 (L)</title>
     <desc>Live: Ya</desc>
 </programme>
-<programme start="20260315050000 +0700" stop="20260315060000 +0700" channel="COSMOTE Sport 7 HD">
-    <title>COSMOTESport7HD</title>
+<programme start="20260316063000 +0700" stop="20260316070000 +0700" channel="COSMOTE Sport 6 HD">
+    <title>Sports Classics: 2026 Sports Rundown E2</title>
     <desc>Live: Tidak</desc>
 </programme>
 <programme start="20260315060000 +0700" stop="20260315063000 +0700" channel="COSMOTE Sport 7 HD">
@@ -496,14 +488,6 @@
 </programme>
 <programme start="20260316050000 +0700" stop="20260316070000 +0700" channel="COSMOTE Sport 7 HD">
     <title>COSMOTESport7HD</title>
-    <desc>Live: Tidak</desc>
-</programme>
-<programme start="20260315033000 +0700" stop="20260315053000 +0700" channel="COSMOTE Sport 8 HD">
-    <title>Football: Arouca - SL Benfica (L)</title>
-    <desc>Live: Ya</desc>
-</programme>
-<programme start="20260315053000 +0700" stop="20260315060000 +0700" channel="COSMOTE Sport 8 HD">
-    <title>COSMOTESport8HD</title>
     <desc>Live: Tidak</desc>
 </programme>
 <programme start="20260315060000 +0700" stop="20260315070000 +0700" channel="COSMOTE Sport 8 HD">
