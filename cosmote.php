@@ -1,11 +1,3 @@
-<programme start="20260315020000 +0700" stop="20260315023000 +0700" channel="COSMOTE Sport 1 HD">
-    <title>Game R1 S6 E29</title>
-    <desc>Live: Tidak</desc>
-</programme>
-<programme start="20260315023000 +0700" stop="20260315030000 +0700" channel="COSMOTE Sport 1 HD">
-    <title>UEFA Champions League Highlights 2025-26</title>
-    <desc>Live: Tidak</desc>
-</programme>
 <programme start="20260315030000 +0700" stop="20260315050000 +0700" channel="COSMOTE Sport 1 HD">
     <title>Football: Kilmarnock - Heart of Midlothian (L)</title>
     <desc>Live: Ya</desc>
@@ -138,10 +130,6 @@
     <title>Football: SS Lazio - AC Milan (L)</title>
     <desc>Live: Ya</desc>
 </programme>
-<programme start="20260315020000 +0700" stop="20260315024500 +0700" channel="COSMOTE Sport 3 HD">
-    <title>Emirates FA Cup 2025-26 - Highlights</title>
-    <desc>Live: Tidak</desc>
-</programme>
 <programme start="20260315024500 +0700" stop="20260315044500 +0700" channel="COSMOTE Sport 3 HD">
     <title>Football: Udinese - Juventus Football Club (L)</title>
     <desc>Live: Ya</desc>
@@ -204,6 +192,14 @@
 </programme>
 <programme start="20260316010000 +0700" stop="20260316030000 +0700" channel="COSMOTE Sport 3 HD">
     <title>Football: Rio Ave - CF Estrela de Amadora (L)</title>
+    <desc>Live: Ya</desc>
+</programme>
+<programme start="20260316030000 +0700" stop="20260316033000 +0700" channel="COSMOTE Sport 3 HD">
+    <title>Sports Classics: Worldies E4</title>
+    <desc>Live: Tidak</desc>
+</programme>
+<programme start="20260316033000 +0700" stop="20260316053000 +0700" channel="COSMOTE Sport 3 HD">
+    <title>Football: FC Porto - Moreirense (L)</title>
     <desc>Live: Ya</desc>
 </programme>
 <programme start="20260315020000 +0700" stop="20260315040000 +0700" channel="COSMOTE Sport 4 HD">
@@ -366,8 +362,8 @@
     <title>Basketball: Oklahoma City Thunder - Minnesota Timberwolves (L)</title>
     <desc>Live: Ya</desc>
 </programme>
-<programme start="20260315012000 +0700" stop="20260315030000 +0700" channel="COSMOTE Sport 6 HD">
-    <title>Tennis: Arthur Fils - Alexander Zverev</title>
+<programme start="20260316030000 +0700" stop="20260316040500 +0700" channel="COSMOTE Sport 5 HD">
+    <title>WRC 2026</title>
     <desc>Live: Tidak</desc>
 </programme>
 <programme start="20260315030000 +0700" stop="20260315033000 +0700" channel="COSMOTE Sport 6 HD">
@@ -413,6 +409,14 @@
 <programme start="20260316010000 +0700" stop="20260316030000 +0700" channel="COSMOTE Sport 6 HD">
     <title>Basketball: Badalona - Barcelona (L)</title>
     <desc>Live: Ya</desc>
+</programme>
+<programme start="20260316030000 +0700" stop="20260316033000 +0700" channel="COSMOTE Sport 6 HD">
+    <title>Sports Classics: 2026 Sports Rundown E2</title>
+    <desc>Live: Tidak</desc>
+</programme>
+<programme start="20260316033000 +0700" stop="20260316040000 +0700" channel="COSMOTE Sport 6 HD">
+    <title>Premier Padel Tour 2026 - Highlights</title>
+    <desc>Live: Tidak</desc>
 </programme>
 <programme start="20260315020000 +0700" stop="20260315040000 +0700" channel="COSMOTE Sport 7 HD">
     <title>Football: Al Fateh - Al Hilal (L)</title>
@@ -498,10 +502,6 @@
     <title>Basketball: Virtus Bologna - Armani Milano (L)</title>
     <desc>Live: Ya</desc>
 </programme>
-<programme start="20260315010000 +0700" stop="20260315030000 +0700" channel="COSMOTE Sport 8 HD">
-    <title>COSMOTESport8HD</title>
-    <desc>Live: Tidak</desc>
-</programme>
 <programme start="20260315030000 +0700" stop="20260315033000 +0700" channel="COSMOTE Sport 8 HD">
     <title>COSMOTESport8HD</title>
     <desc>Live: Tidak</desc>
@@ -563,6 +563,10 @@
     <desc>Live: Tidak</desc>
 </programme>
 <programme start="20260316010000 +0700" stop="20260316030000 +0700" channel="COSMOTE Sport 8 HD">
+    <title>COSMOTESport8HD</title>
+    <desc>Live: Tidak</desc>
+</programme>
+<programme start="20260316030000 +0700" stop="20260316050000 +0700" channel="COSMOTE Sport 8 HD">
     <title>COSMOTESport8HD</title>
     <desc>Live: Tidak</desc>
 </programme>
@@ -639,6 +643,10 @@
     <desc>Live: Ya</desc>
 </programme>
 <programme start="20260316020000 +0700" stop="20260316030000 +0700" channel="COSMOTE Sport 9 HD">
+    <title>Beach Volley: Pro Tour Elite 16 2025 (L)</title>
+    <desc>Live: Ya</desc>
+</programme>
+<programme start="20260316030000 +0700" stop="20260316043000 +0700" channel="COSMOTE Sport 9 HD">
     <title>Beach Volley: Pro Tour Elite 16 2025 (L)</title>
     <desc>Live: Ya</desc>
 </programme>
