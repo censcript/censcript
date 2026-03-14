@@ -493,78 +493,6 @@
   <programme start="20260316224000 +0000" stop="20260317002000 +0000" channel=":Šport.webtv.sk">
     <title lang="id">Hymna SR</title>
   </programme>
-  <programme start="20260315230000 +0000" stop="20260316005000 +0000" channel="Markíza.webtv.sk">
-    <title lang="id">Po čem muži touží 2</title>
-  </programme>
-  <programme start="20260316005000 +0000" stop="20260316023500 +0000" channel="Markíza.webtv.sk">
-    <title lang="id">Znova 17</title>
-  </programme>
-  <programme start="20260316023500 +0000" stop="20260316040000 +0000" channel="Markíza.webtv.sk">
-    <title lang="id">Susedské prípady (13)</title>
-  </programme>
-  <programme start="20260316040000 +0000" stop="20260316050000 +0000" channel="Markíza.webtv.sk">
-    <title lang="id">Televízne noviny</title>
-  </programme>
-  <programme start="20260316050000 +0000" stop="20260316072500 +0000" channel="Markíza.webtv.sk">
-    <title lang="id">Teleráno</title>
-  </programme>
-  <programme start="20260316072500 +0000" stop="20260316084000 +0000" channel="Markíza.webtv.sk">
-    <title lang="id">Zámena manželiek</title>
-  </programme>
-  <programme start="20260316084000 +0000" stop="20260316094500 +0000" channel="Markíza.webtv.sk">
-    <title lang="id">Sľub III (34)</title>
-  </programme>
-  <programme start="20260316094500 +0000" stop="20260316104500 +0000" channel="Markíza.webtv.sk">
-    <title lang="id">Rodinné prípady (54)</title>
-  </programme>
-  <programme start="20260316104500 +0000" stop="20260316114500 +0000" channel="Markíza.webtv.sk">
-    <title lang="id">Rodinné prípady (6)</title>
-  </programme>
-  <programme start="20260316114500 +0000" stop="20260316124500 +0000" channel="Markíza.webtv.sk">
-    <title lang="id">Monk VII (5)</title>
-  </programme>
-  <programme start="20260316124500 +0000" stop="20260316134500 +0000" channel="Markíza.webtv.sk">
-    <title lang="id">Monk VII (6)</title>
-  </programme>
-  <programme start="20260316134500 +0000" stop="20260316145500 +0000" channel="Markíza.webtv.sk">
-    <title lang="id">Susedské prípady (4)</title>
-  </programme>
-  <programme start="20260316145500 +0000" stop="20260316160000 +0000" channel="Markíza.webtv.sk">
-    <title lang="id">Rodinné prípady (55)</title>
-  </programme>
-  <programme start="20260316160000 +0000" stop="20260316162500 +0000" channel="Markíza.webtv.sk">
-    <title lang="id">Prvé televízne noviny</title>
-  </programme>
-  <programme start="20260316162500 +0000" stop="20260316163000 +0000" channel="Markíza.webtv.sk">
-    <title lang="id">Prvé športové noviny</title>
-  </programme>
-  <programme start="20260316163000 +0000" stop="20260316165500 +0000" channel="Markíza.webtv.sk">
-    <title lang="id">Reflex</title>
-  </programme>
-  <programme start="20260316165500 +0000" stop="20260316180000 +0000" channel="Markíza.webtv.sk">
-    <title lang="id">Sľub III (35)</title>
-  </programme>
-  <programme start="20260316180000 +0000" stop="20260316190000 +0000" channel="Markíza.webtv.sk">
-    <title lang="id">Televízne noviny</title>
-  </programme>
-  <programme start="20260316190000 +0000" stop="20260316191000 +0000" channel="Markíza.webtv.sk">
-    <title lang="id">Počasie</title>
-  </programme>
-  <programme start="20260316191000 +0000" stop="20260316191500 +0000" channel="Markíza.webtv.sk">
-    <title lang="id">Extra výplata, Všetko alebo nič, KENO 10, Keno Joker (11)</title>
-  </programme>
-  <programme start="20260316191500 +0000" stop="20260316193000 +0000" channel="Markíza.webtv.sk">
-    <title lang="id">Športové noviny</title>
-  </programme>
-  <programme start="20260316193000 +0000" stop="20260316205000 +0000" channel="Markíza.webtv.sk">
-    <title lang="id">Pán profesor VI (8)</title>
-  </programme>
-  <programme start="20260316205000 +0000" stop="20260316221000 +0000" channel="Markíza.webtv.sk">
-    <title lang="id">Výnimočná Nikol (8)</title>
-  </programme>
-  <programme start="20260316221000 +0000" stop="20260316231000 +0000" channel="Markíza.webtv.sk">
-    <title lang="id">Špecialisti VIII (5)</title>
-  </programme>
   <programme start="20260315213000 +0000" stop="20260315232000 +0000" channel="JOJ.webtv.sk">
     <title lang="id">Dverný informátor</title>
   </programme>
@@ -1503,6 +1431,135 @@
   </programme>
   <programme start="20260316221000 +0000" stop="20260317000500 +0000" channel="JOJ Cinema +1.webtv.sk">
     <title lang="id">Fakjú pán profesor</title>
+  </programme>
+  <programme start="20260315230000 +0000" stop="20260315233000 +0000" channel="TA3.webtv.sk">
+    <title lang="id">Správy</title>
+  </programme>
+  <programme start="20260315233000 +0000" stop="20260316000000 +0000" channel="TA3.webtv.sk">
+    <title lang="id">Hl. správy-záznam</title>
+  </programme>
+  <programme start="20260316000000 +0000" stop="20260316003000 +0000" channel="TA3.webtv.sk">
+    <title lang="id">Štúdio TA3</title>
+  </programme>
+  <programme start="20260316003000 +0000" stop="20260316010000 +0000" channel="TA3.webtv.sk">
+    <title lang="id">Hl. správy-záznam</title>
+  </programme>
+  <programme start="20260316010000 +0000" stop="20260316020000 +0000" channel="TA3.webtv.sk">
+    <title lang="id">V politike</title>
+  </programme>
+  <programme start="20260316020000 +0000" stop="20260316023000 +0000" channel="TA3.webtv.sk">
+    <title lang="id">Správy</title>
+  </programme>
+  <programme start="20260316023000 +0000" stop="20260316030000 +0000" channel="TA3.webtv.sk">
+    <title lang="id">Hl. správy-záznam</title>
+  </programme>
+  <programme start="20260316030000 +0000" stop="20260316060000 +0000" channel="TA3.webtv.sk">
+    <title lang="id">Záznam TB/Štúdio TA3</title>
+  </programme>
+  <programme start="20260316060000 +0000" stop="20260316080000 +0000" channel="TA3.webtv.sk">
+    <title lang="id">Ranné správy</title>
+  </programme>
+  <programme start="20260316080000 +0000" stop="20260316083000 +0000" channel="TA3.webtv.sk">
+    <title lang="id">Správy</title>
+  </programme>
+  <programme start="20260316083000 +0000" stop="20260316090000 +0000" channel="TA3.webtv.sk">
+    <title lang="id">Téma</title>
+  </programme>
+  <programme start="20260316090000 +0000" stop="20260316093000 +0000" channel="TA3.webtv.sk">
+    <title lang="id">Správy</title>
+  </programme>
+  <programme start="20260316093000 +0000" stop="20260316100000 +0000" channel="TA3.webtv.sk">
+    <title lang="id">Štúdio TA3</title>
+  </programme>
+  <programme start="20260316100000 +0000" stop="20260316103000 +0000" channel="TA3.webtv.sk">
+    <title lang="id">Správy</title>
+  </programme>
+  <programme start="20260316103000 +0000" stop="20260316110000 +0000" channel="TA3.webtv.sk">
+    <title lang="id">Štúdio TA3</title>
+  </programme>
+  <programme start="20260316110000 +0000" stop="20260316112000 +0000" channel="TA3.webtv.sk">
+    <title lang="id">Žurnál</title>
+  </programme>
+  <programme start="20260316112000 +0000" stop="20260316113000 +0000" channel="TA3.webtv.sk">
+    <title lang="id">Šport</title>
+  </programme>
+  <programme start="20260316113000 +0000" stop="20260316120000 +0000" channel="TA3.webtv.sk">
+    <title lang="id">Téma</title>
+  </programme>
+  <programme start="20260316120000 +0000" stop="20260316130000 +0000" channel="TA3.webtv.sk">
+    <title lang="id">V politike</title>
+  </programme>
+  <programme start="20260316130000 +0000" stop="20260316133000 +0000" channel="TA3.webtv.sk">
+    <title lang="id">Správy</title>
+  </programme>
+  <programme start="20260316133000 +0000" stop="20260316140000 +0000" channel="TA3.webtv.sk">
+    <title lang="id">Štúdio TA3</title>
+  </programme>
+  <programme start="20260316140000 +0000" stop="20260316143000 +0000" channel="TA3.webtv.sk">
+    <title lang="id">Správy</title>
+  </programme>
+  <programme start="20260316143000 +0000" stop="20260316150000 +0000" channel="TA3.webtv.sk">
+    <title lang="id">Štúdio TA3</title>
+  </programme>
+  <programme start="20260316150000 +0000" stop="20260316152000 +0000" channel="TA3.webtv.sk">
+    <title lang="id">Žurnál</title>
+  </programme>
+  <programme start="20260316152000 +0000" stop="20260316153000 +0000" channel="TA3.webtv.sk">
+    <title lang="id">Šport</title>
+  </programme>
+  <programme start="20260316153000 +0000" stop="20260316160000 +0000" channel="TA3.webtv.sk">
+    <title lang="id">Štúdio TA3</title>
+  </programme>
+  <programme start="20260316160000 +0000" stop="20260316163000 +0000" channel="TA3.webtv.sk">
+    <title lang="id">Správy</title>
+  </programme>
+  <programme start="20260316163000 +0000" stop="20260316164500 +0000" channel="TA3.webtv.sk">
+    <title lang="id">Biznis</title>
+  </programme>
+  <programme start="20260316164500 +0000" stop="20260316170000 +0000" channel="TA3.webtv.sk">
+    <title lang="id">Štúdio TA3</title>
+  </programme>
+  <programme start="20260316170000 +0000" stop="20260316172000 +0000" channel="TA3.webtv.sk">
+    <title lang="id">Očami cestovateľa</title>
+  </programme>
+  <programme start="20260316172000 +0000" stop="20260316173000 +0000" channel="TA3.webtv.sk">
+    <title lang="id">Fejk over</title>
+  </programme>
+  <programme start="20260316173000 +0000" stop="20260316175500 +0000" channel="TA3.webtv.sk">
+    <title lang="id">Hlavné správy</title>
+  </programme>
+  <programme start="20260316175500 +0000" stop="20260316181000 +0000" channel="TA3.webtv.sk">
+    <title lang="id">Šport</title>
+  </programme>
+  <programme start="20260316181000 +0000" stop="20260316183000 +0000" channel="TA3.webtv.sk">
+    <title lang="id">Štúdio TA3</title>
+  </programme>
+  <programme start="20260316183000 +0000" stop="20260316185000 +0000" channel="TA3.webtv.sk">
+    <title lang="id">Štúdio TA3</title>
+  </programme>
+  <programme start="20260316185000 +0000" stop="20260316192000 +0000" channel="TA3.webtv.sk">
+    <title lang="id">Téma dňa s Eduardom Chmelárom</title>
+  </programme>
+  <programme start="20260316192000 +0000" stop="20260316193000 +0000" channel="TA3.webtv.sk">
+    <title lang="id">Fejk over</title>
+  </programme>
+  <programme start="20260316193000 +0000" stop="20260316200000 +0000" channel="TA3.webtv.sk">
+    <title lang="id">Biznis</title>
+  </programme>
+  <programme start="20260316200000 +0000" stop="20260316203000 +0000" channel="TA3.webtv.sk">
+    <title lang="id">Správy</title>
+  </programme>
+  <programme start="20260316203000 +0000" stop="20260316210000 +0000" channel="TA3.webtv.sk">
+    <title lang="id">Ekonomika+/Financie+</title>
+  </programme>
+  <programme start="20260316210000 +0000" stop="20260316213000 +0000" channel="TA3.webtv.sk">
+    <title lang="id">Správy</title>
+  </programme>
+  <programme start="20260316213000 +0000" stop="20260316223000 +0000" channel="TA3.webtv.sk">
+    <title lang="id">VAR</title>
+  </programme>
+  <programme start="20260316223000 +0000" stop="20260316230000 +0000" channel="TA3.webtv.sk">
+    <title lang="id">Hl. správy-záznam</title>
   </programme>
   <programme start="20260315230000 +0000" stop="20260315233000 +0000" channel="JOJ 24.webtv.sk">
     <title lang="id">Noviny TV JOJ</title>
@@ -8889,48 +8946,6 @@
   </programme>
   <programme start="20260316225500 +0000" stop="20260316234000 +0000" channel="AXN Black.webtv.sk">
     <title lang="id">Walker, Texas Ranger II (23)</title>
-  </programme>
-  <programme start="20260315212000 +0000" stop="20260315235500 +0000" channel="FilmBox.webtv.sk">
-    <title lang="id">Dvanáctý muž</title>
-  </programme>
-  <programme start="20260315235500 +0000" stop="20260316013000 +0000" channel="FilmBox.webtv.sk">
-    <title lang="id">3 dny v Pacifiku</title>
-  </programme>
-  <programme start="20260316013000 +0000" stop="20260316033000 +0000" channel="FilmBox.webtv.sk">
-    <title lang="id">7 životů</title>
-  </programme>
-  <programme start="20260316033000 +0000" stop="20260316041000 +0000" channel="FilmBox.webtv.sk">
-    <title lang="id">Noční tabule</title>
-  </programme>
-  <programme start="20260316041000 +0000" stop="20260316054500 +0000" channel="FilmBox.webtv.sk">
-    <title lang="id">Malá mořská víla</title>
-  </programme>
-  <programme start="20260316054500 +0000" stop="20260316074500 +0000" channel="FilmBox.webtv.sk">
-    <title lang="id">Andersonovy nahrávky</title>
-  </programme>
-  <programme start="20260316074500 +0000" stop="20260316091500 +0000" channel="FilmBox.webtv.sk">
-    <title lang="id">U pěti veverek</title>
-  </programme>
-  <programme start="20260316091500 +0000" stop="20260316112000 +0000" channel="FilmBox.webtv.sk">
-    <title lang="id">Vraždy na vinicích III (4)</title>
-  </programme>
-  <programme start="20260316112000 +0000" stop="20260316133500 +0000" channel="FilmBox.webtv.sk">
-    <title lang="id">Uličnice</title>
-  </programme>
-  <programme start="20260316133500 +0000" stop="20260316153000 +0000" channel="FilmBox.webtv.sk">
-    <title lang="id">Ten, kdo tě miloval</title>
-  </programme>
-  <programme start="20260316153000 +0000" stop="20260316170000 +0000" channel="FilmBox.webtv.sk">
-    <title lang="id">Výbuch bude v pět</title>
-  </programme>
-  <programme start="20260316170000 +0000" stop="20260316190000 +0000" channel="FilmBox.webtv.sk">
-    <title lang="id">Vraždy na vinicích IV (1)</title>
-  </programme>
-  <programme start="20260316190000 +0000" stop="20260316210500 +0000" channel="FilmBox.webtv.sk">
-    <title lang="id">Babovřesky 3</title>
-  </programme>
-  <programme start="20260316210500 +0000" stop="20260316230500 +0000" channel="FilmBox.webtv.sk">
-    <title lang="id">Konečná</title>
   </programme>
   <programme start="20260315215500 +0000" stop="20260316000500 +0000" channel="FilmBox Extra.webtv.sk">
     <title lang="id">Polepšený: Robbie Williams</title>
@@ -19203,114 +19218,6 @@
   </programme>
   <programme start="20260316223000 +0000" stop="20260316230000 +0000" channel="CGTN.webtv.sk">
     <title lang="id">Rediscovering China</title>
-  </programme>
-  <programme start="20260315230000 +0000" stop="20260315233000 +0000" channel="CGTN Documentary.webtv.sk">
-    <title lang="id">Secrets of the Floating City (2)</title>
-  </programme>
-  <programme start="20260315233000 +0000" stop="20260316000000 +0000" channel="CGTN Documentary.webtv.sk">
-    <title lang="id">The Voyages of Zheng He (4)</title>
-  </programme>
-  <programme start="20260316000000 +0000" stop="20260316010000 +0000" channel="CGTN Documentary.webtv.sk">
-    <title lang="id">Flavors of China·Hometown Flavors 2/3</title>
-  </programme>
-  <programme start="20260316010000 +0000" stop="20260316013000 +0000" channel="CGTN Documentary.webtv.sk">
-    <title lang="id">Stretching the Limits V (3)</title>
-  </programme>
-  <programme start="20260316013000 +0000" stop="20260316020000 +0000" channel="CGTN Documentary.webtv.sk">
-    <title lang="id">Across the Banks of the Tiaoxi River (1)</title>
-  </programme>
-  <programme start="20260316020000 +0000" stop="20260316030000 +0000" channel="CGTN Documentary.webtv.sk">
-    <title lang="id">Finding Curios Season II (1)</title>
-  </programme>
-  <programme start="20260316030000 +0000" stop="20260316033000 +0000" channel="CGTN Documentary.webtv.sk">
-    <title lang="id">A Micro-universe (5)</title>
-  </programme>
-  <programme start="20260316033000 +0000" stop="20260316040000 +0000" channel="CGTN Documentary.webtv.sk">
-    <title lang="id">China Untapped: Xizang (2)</title>
-  </programme>
-  <programme start="20260316040000 +0000" stop="20260316050000 +0000" channel="CGTN Documentary.webtv.sk">
-    <title lang="id">Roots of the Nation (1)</title>
-  </programme>
-  <programme start="20260316050000 +0000" stop="20260316053000 +0000" channel="CGTN Documentary.webtv.sk">
-    <title lang="id">Secrets of the Floating City (2)</title>
-  </programme>
-  <programme start="20260316053000 +0000" stop="20260316060000 +0000" channel="CGTN Documentary.webtv.sk">
-    <title lang="id">The Voyages of Zheng He (4)</title>
-  </programme>
-  <programme start="20260316060000 +0000" stop="20260316070000 +0000" channel="CGTN Documentary.webtv.sk">
-    <title lang="id">Flavors of China·Hometown Flavors 2/3</title>
-  </programme>
-  <programme start="20260316070000 +0000" stop="20260316073000 +0000" channel="CGTN Documentary.webtv.sk">
-    <title lang="id">Stretching the Limits V (3)</title>
-  </programme>
-  <programme start="20260316073000 +0000" stop="20260316080000 +0000" channel="CGTN Documentary.webtv.sk">
-    <title lang="id">Across the Banks of the Tiaoxi River (1)</title>
-  </programme>
-  <programme start="20260316080000 +0000" stop="20260316090000 +0000" channel="CGTN Documentary.webtv.sk">
-    <title lang="id">Finding Curios Season II (1)</title>
-  </programme>
-  <programme start="20260316090000 +0000" stop="20260316093000 +0000" channel="CGTN Documentary.webtv.sk">
-    <title lang="id">A Micro-universe (5)</title>
-  </programme>
-  <programme start="20260316093000 +0000" stop="20260316100000 +0000" channel="CGTN Documentary.webtv.sk">
-    <title lang="id">China Untapped: Xizang (2)</title>
-  </programme>
-  <programme start="20260316100000 +0000" stop="20260316110000 +0000" channel="CGTN Documentary.webtv.sk">
-    <title lang="id">Roots of the Nation (1)</title>
-  </programme>
-  <programme start="20260316110000 +0000" stop="20260316113000 +0000" channel="CGTN Documentary.webtv.sk">
-    <title lang="id">Secrets of the Floating City (2)</title>
-  </programme>
-  <programme start="20260316113000 +0000" stop="20260316120000 +0000" channel="CGTN Documentary.webtv.sk">
-    <title lang="id">The Voyages of Zheng He (4)</title>
-  </programme>
-  <programme start="20260316120000 +0000" stop="20260316130000 +0000" channel="CGTN Documentary.webtv.sk">
-    <title lang="id">Flavors of China·Hometown Flavors 2/3</title>
-  </programme>
-  <programme start="20260316130000 +0000" stop="20260316133000 +0000" channel="CGTN Documentary.webtv.sk">
-    <title lang="id">Stretching the Limits V (3)</title>
-  </programme>
-  <programme start="20260316133000 +0000" stop="20260316140000 +0000" channel="CGTN Documentary.webtv.sk">
-    <title lang="id">Across the Banks of the Tiaoxi River (1)</title>
-  </programme>
-  <programme start="20260316140000 +0000" stop="20260316150000 +0000" channel="CGTN Documentary.webtv.sk">
-    <title lang="id">Finding Curios Season II (1)</title>
-  </programme>
-  <programme start="20260316150000 +0000" stop="20260316153000 +0000" channel="CGTN Documentary.webtv.sk">
-    <title lang="id">A Micro-universe (5)</title>
-  </programme>
-  <programme start="20260316153000 +0000" stop="20260316160000 +0000" channel="CGTN Documentary.webtv.sk">
-    <title lang="id">China Untapped: Xizang (2)</title>
-  </programme>
-  <programme start="20260316160000 +0000" stop="20260316170000 +0000" channel="CGTN Documentary.webtv.sk">
-    <title lang="id">Roots of the Nation (1)</title>
-  </programme>
-  <programme start="20260316170000 +0000" stop="20260316173000 +0000" channel="CGTN Documentary.webtv.sk">
-    <title lang="id">Secrets of the Floating City (2)</title>
-  </programme>
-  <programme start="20260316173000 +0000" stop="20260316180000 +0000" channel="CGTN Documentary.webtv.sk">
-    <title lang="id">The Voyages of Zheng He (4)</title>
-  </programme>
-  <programme start="20260316180000 +0000" stop="20260316190000 +0000" channel="CGTN Documentary.webtv.sk">
-    <title lang="id">Flavors of China·Hometown Flavors 2/3</title>
-  </programme>
-  <programme start="20260316190000 +0000" stop="20260316193000 +0000" channel="CGTN Documentary.webtv.sk">
-    <title lang="id">Stretching the Limits V (3)</title>
-  </programme>
-  <programme start="20260316193000 +0000" stop="20260316200000 +0000" channel="CGTN Documentary.webtv.sk">
-    <title lang="id">Across the Banks of the Tiaoxi River (1)</title>
-  </programme>
-  <programme start="20260316200000 +0000" stop="20260316210000 +0000" channel="CGTN Documentary.webtv.sk">
-    <title lang="id">Finding Curios Season II (2)</title>
-  </programme>
-  <programme start="20260316210000 +0000" stop="20260316213000 +0000" channel="CGTN Documentary.webtv.sk">
-    <title lang="id">Life by the River (1)</title>
-  </programme>
-  <programme start="20260316213000 +0000" stop="20260316220000 +0000" channel="CGTN Documentary.webtv.sk">
-    <title lang="id">China Untapped: Xizang (3)</title>
-  </programme>
-  <programme start="20260316220000 +0000" stop="20260316230000 +0000" channel="CGTN Documentary.webtv.sk">
-    <title lang="id">Roots of the Nation (2)</title>
   </programme>
   <programme start="20260315225000 +0000" stop="20260316015000 +0000" channel="Óčko.webtv.sk">
     <title lang="id">ÓČKO FLIRT</title>

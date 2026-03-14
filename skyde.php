@@ -2744,7 +2744,7 @@ Warning: Undefined array key "et" in /usr/home/ManusiaBiasa/domains/manusiabiasa
 <programme start="20260314141500 +0000" stop="20260314164500 +0000" channel="Sky Sport Bundesliga 1 HD.skyde">
     <title>Live BL: Bayer Leverkusen - FC Bayern München, 26. Spieltag</title>
 </programme>
-<programme start="20260314164500 +0000" stop="20260314201500 +0000" channel="Sky Sport Bundesliga 1 HD.skyde">
+<programme start="20260314164500 +0000" stop="20260314204500 +0000" channel="Sky Sport Bundesliga 1 HD.skyde">
     <title>Live BL: Hamburger SV - 1. FC Köln, tipico Topspiel der Woche, 26. Spieltag</title>
 </programme>
 <programme start="20260314111000 +0000" stop="20260314113000 +0000" channel="Sky Sport Bundesliga 2 HD.skyde">
@@ -2783,7 +2783,7 @@ Warning: Undefined array key "et" in /usr/home/ManusiaBiasa/domains/manusiabiasa
 <programme start="20260314141500 +0000" stop="20260314164500 +0000" channel="Sky Sport Bundesliga 3 HD.skyde">
     <title>Live BL: TSG Hoffenheim - VfL Wolfsburg, 26. Spieltag</title>
 </programme>
-<programme start="20260314164500 +0000" stop="20260314201500 +0000" channel="Sky Sport Bundesliga 3 HD.skyde">
+<programme start="20260314164500 +0000" stop="20260314204500 +0000" channel="Sky Sport Bundesliga 3 HD.skyde">
     <title>Live BL: Tactical Feed: HSV - KOE, 26. Spieltag</title>
 </programme>
 <programme start="20260314111000 +0000" stop="20260314113000 +0000" channel="Sky Sport Bundesliga 4 HD.skyde">
@@ -3287,7 +3287,7 @@ Warning: Undefined array key "et" in /usr/home/ManusiaBiasa/domains/manusiabiasa
 <programme start="20260314212500 +0000" stop="20260314214500 +0000" channel="Sky Sport 1 HD.skyde">
     <title>Es folgt: LIVE NBA</title>
 </programme>
-<programme start="20260314214500 +0000" stop="20260315090000 +0000" channel="Sky Sport 1 HD.skyde">
+<programme start="20260314214500 +0000" stop="20260315010000 +0000" channel="Sky Sport 1 HD.skyde">
     <title>Live NBA: Washington Wizards @ Boston Celtics</title>
 </programme>
 <programme start="20260314170000 +0000" stop="20260314172000 +0000" channel="Sky Sport 4 HD.skyde">
@@ -3299,7 +3299,7 @@ Warning: Undefined array key "et" in /usr/home/ManusiaBiasa/domains/manusiabiasa
 <programme start="20260314143000 +0000" stop="20260314145000 +0000" channel="Sky Sport 8 HD.skyde">
     <title>Es folgt: Live Premier League</title>
 </programme>
-<programme start="20260314145000 +0000" stop="20260314170000 +0000" channel="Sky Sport 8 HD.skyde">
+<programme start="20260314145000 +0000" stop="20260314173000 +0000" channel="Sky Sport 8 HD.skyde">
     <title>Live PL: FC Burnley - AFC Bournemouth, 30. Spieltag</title>
 </programme>
 <programme start="20260313230000 +0000" stop="20260313234500 +0000" channel="SYFY HD.skyde">
