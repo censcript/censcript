@@ -70,10 +70,6 @@
     <title>Football: Celta - Olympique Lyonnais</title>
     <desc>Live: Tidak</desc>
 </programme>
-<programme start="20260314094000 +0700" stop="20260314120000 +0700" channel="COSMOTE Sport 2 HD">
-    <title>Football: Panetolikos - Kifisia</title>
-    <desc>Live: Tidak</desc>
-</programme>
 <programme start="20260314120000 +0700" stop="20260314141500 +0700" channel="COSMOTE Sport 2 HD">
     <title>Football: Volos NPS - OFI</title>
     <desc>Live: Tidak</desc>
@@ -136,6 +132,10 @@
 </programme>
 <programme start="20260315100000 +0700" stop="20260315120000 +0700" channel="COSMOTE Sport 2 HD">
     <title>Football: SSC Napoli - Lecce</title>
+    <desc>Live: Tidak</desc>
+</programme>
+<programme start="20260315120000 +0700" stop="20260315140000 +0700" channel="COSMOTE Sport 2 HD">
+    <title>Football: Udinese - Juventus Football Club</title>
     <desc>Live: Tidak</desc>
 </programme>
 <programme start="20260314110000 +0700" stop="20260314130000 +0700" channel="COSMOTE Sport 3 HD">
@@ -274,10 +274,6 @@
     <title>Basketball: AEK - Tofas</title>
     <desc>Live: Tidak</desc>
 </programme>
-<programme start="20260314110000 +0700" stop="20260314113000 +0700" channel="COSMOTE Sport 5 HD">
-    <title>FIA Championship Middle East 2026</title>
-    <desc>Live: Tidak</desc>
-</programme>
 <programme start="20260314113000 +0700" stop="20260314123500 +0700" channel="COSMOTE Sport 5 HD">
     <title>WRC 2026</title>
     <desc>Live: Tidak</desc>
@@ -378,8 +374,8 @@
     <title>WRC 2026</title>
     <desc>Live: Tidak</desc>
 </programme>
-<programme start="20260314110000 +0700" stop="20260314120000 +0700" channel="COSMOTE Sport 6 HD">
-    <title>ATP 500 2026 - Highlights</title>
+<programme start="20260315120500 +0700" stop="20260315131000 +0700" channel="COSMOTE Sport 5 HD">
+    <title>WRC 2026</title>
     <desc>Live: Tidak</desc>
 </programme>
 <programme start="20260314120000 +0700" stop="20260314134000 +0700" channel="COSMOTE Sport 6 HD">
