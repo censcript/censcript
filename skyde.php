@@ -2960,10 +2960,10 @@ Warning: Undefined array key "et" in /usr/home/ManusiaBiasa/domains/manusiabiasa
 <programme start="20260314110000 +0000" stop="20260314130000 +0000" channel="Sky Sport Mix HD.skyde">
     <title>NHL: Edmonton Oilers @ St. Louis Blues</title>
 </programme>
-<programme start="20260314130000 +0000" stop="20260314140500 +0000" channel="Sky Sport Mix HD.skyde">
+<programme start="20260314130000 +0000" stop="20260314140000 +0000" channel="Sky Sport Mix HD.skyde">
     <title>Live WRC: Safari Rally Kenia - SS15 Elmenteita 2</title>
 </programme>
-<programme start="20260314140500 +0000" stop="20260314143000 +0000" channel="Sky Sport Mix HD.skyde">
+<programme start="20260314140000 +0000" stop="20260314143000 +0000" channel="Sky Sport Mix HD.skyde">
     <title>NHL: On the Fly</title>
 </programme>
 <programme start="20260314143000 +0000" stop="20260314150000 +0000" channel="Sky Sport Mix HD.skyde">
@@ -3083,75 +3083,6 @@ Warning: Undefined array key "et" in /usr/home/ManusiaBiasa/domains/manusiabiasa
 <programme start="20260314223000 +0000" stop="20260314230000 +0000" channel="Sky Sport News HD.skyde">
     <title>Sky Sport News: Nightline</title>
 </programme>
-<programme start="20260313230000 +0000" stop="20260314010000 +0000" channel="Sky Sport Premier League HD.skyde">
-    <title>EFL: AFC Wrexham - Swansea City, 38. Spieltag</title>
-</programme>
-<programme start="20260314010000 +0000" stop="20260314020000 +0000" channel="Sky Sport Premier League HD.skyde">
-    <title>PL: GOATS (Teenage Stars)</title>
-</programme>
-<programme start="20260314020000 +0000" stop="20260314030000 +0000" channel="Sky Sport Premier League HD.skyde">
-    <title>PL: 1 to 11 (Thomas Hitzlsperger)</title>
-</programme>
-<programme start="20260314030000 +0000" stop="20260314040000 +0000" channel="Sky Sport Premier League HD.skyde">
-    <title>PL: 1 to 11 (Cesc Fabregas)</title>
-</programme>
-<programme start="20260314040000 +0000" stop="20260314050000 +0000" channel="Sky Sport Premier League HD.skyde">
-    <title>PL: 1 to 11 (Peter Schmeichel)</title>
-</programme>
-<programme start="20260314050000 +0000" stop="20260314053000 +0000" channel="Sky Sport Premier League HD.skyde">
-    <title>PL: Club 100: Robbie Fowler</title>
-</programme>
-<programme start="20260314053000 +0000" stop="20260314063000 +0000" channel="Sky Sport Premier League HD.skyde">
-    <title>PL: 1 to 11 (Thomas Hitzlsperger)</title>
-</programme>
-<programme start="20260314063000 +0000" stop="20260314070000 +0000" channel="Sky Sport Premier League HD.skyde">
-    <title>PL: 90in30: NEW - MUN, 29. Spieltag</title>
-</programme>
-<programme start="20260314070000 +0000" stop="20260314090000 +0000" channel="Sky Sport Premier League HD.skyde">
-    <title>EFL: AFC Wrexham - Swansea City, 38. Spieltag</title>
-</programme>
-<programme start="20260314090000 +0000" stop="20260314093000 +0000" channel="Sky Sport Premier League HD.skyde">
-    <title>PL: Netbusters, 29. Spieltag</title>
-</programme>
-<programme start="20260314093000 +0000" stop="20260314100000 +0000" channel="Sky Sport Premier League HD.skyde">
-    <title>PL: 90in30: LEE - SUN, 29. Spieltag</title>
-</programme>
-<programme start="20260314100000 +0000" stop="20260314103000 +0000" channel="Sky Sport Premier League HD.skyde">
-    <title>PL: 90in30: EVE - BUR, 29. Spieltag</title>
-</programme>
-<programme start="20260314103000 +0000" stop="20260314123000 +0000" channel="Sky Sport Premier League HD.skyde">
-    <title>EFL: AFC Wrexham - Swansea City, 38. Spieltag</title>
-</programme>
-<programme start="20260314123000 +0000" stop="20260314125000 +0000" channel="Sky Sport Premier League HD.skyde">
-    <title>PL: Best Freekicks</title>
-</programme>
-<programme start="20260314125000 +0000" stop="20260314132000 +0000" channel="Sky Sport Premier League HD.skyde">
-    <title>PL: 90in30: NEW - MUN, 29. Spieltag</title>
-</programme>
-<programme start="20260314132000 +0000" stop="20260314135000 +0000" channel="Sky Sport Premier League HD.skyde">
-    <title>PL: 90in30: MCI - NFO, 29. Spieltag</title>
-</programme>
-<programme start="20260314135000 +0000" stop="20260314142000 +0000" channel="Sky Sport Premier League HD.skyde">
-    <title>PL: Netbusters, 29. Spieltag</title>
-</programme>
-<programme start="20260314142000 +0000" stop="20260314145000 +0000" channel="Sky Sport Premier League HD.skyde">
-    <title>PL: Preview, 30. Spieltag</title>
-</programme>
-<programme start="20260314145000 +0000" stop="20260314172000 +0000" channel="Sky Sport Premier League HD.skyde">
-    <title>Live PL: AFC Sunderland - Brighton &amp; Hove Albion, 30. Spieltag</title>
-</programme>
-<programme start="20260314172000 +0000" stop="20260314195000 +0000" channel="Sky Sport Premier League HD.skyde">
-    <title>Live PL: FC Arsenal - FC Everton, 30. Spieltag</title>
-</programme>
-<programme start="20260314195000 +0000" stop="20260314220000 +0000" channel="Sky Sport Premier League HD.skyde">
-    <title>Live PL: West Ham United - Manchester City, 30. Spieltag</title>
-</programme>
-<programme start="20260314220000 +0000" stop="20260314222000 +0000" channel="Sky Sport Premier League HD.skyde">
-    <title>PL: Highlights Samstag, 30. Spieltag</title>
-</programme>
-<programme start="20260314222000 +0000" stop="20260315002000 +0000" channel="Sky Sport Premier League HD.skyde">
-    <title>PL: FC Chelsea - Newcastle United, 30. Spieltag</title>
-</programme>
 <programme start="20260314010000 +0000" stop="20260314030500 +0000" channel="Sky Sport Tennis HD.skyde">
     <title>Live WTA 1000: E. Rybakina (KAZ) - E. Svitolina (UKR), BNP Paribas Open in Indian Wells, Kalifornien (USA), Halbfinale 2</title>
 </programme>
@@ -3206,10 +3137,10 @@ Warning: Undefined array key "et" in /usr/home/ManusiaBiasa/domains/manusiabiasa
 <programme start="20260314054000 +0000" stop="20260314063000 +0000" channel="Sky Sport Top Event HD.skyde">
     <title>Live F1 Academy: 1. Rennen - GP China</title>
 </programme>
-<programme start="20260314063000 +0000" stop="20260314083000 +0000" channel="Sky Sport Top Event HD.skyde">
+<programme start="20260314063000 +0000" stop="20260314083500 +0000" channel="Sky Sport Top Event HD.skyde">
     <title>Live F1: Qualifying - GP China</title>
 </programme>
-<programme start="20260314083000 +0000" stop="20260314090000 +0000" channel="Sky Sport Top Event HD.skyde">
+<programme start="20260314083500 +0000" stop="20260314090000 +0000" channel="Sky Sport Top Event HD.skyde">
     <title>Live F1: Pressekonferenz Qualifying - GP China</title>
 </programme>
 <programme start="20260314090000 +0000" stop="20260314094500 +0000" channel="Sky Sport Top Event HD.skyde">
@@ -3251,13 +3182,13 @@ Warning: Undefined array key "et" in /usr/home/ManusiaBiasa/domains/manusiabiasa
 <programme start="20260314012500 +0000" stop="20260314022500 +0000" channel="Sky Sport UHD.skyde">
     <title>F1: Sprint Qualifying - GP China</title>
 </programme>
-<programme start="20260314022500 +0000" stop="20260314040000 +0000" channel="Sky Sport UHD.skyde">
+<programme start="20260314022500 +0000" stop="20260314040500 +0000" channel="Sky Sport UHD.skyde">
     <title>Live F1: Sprint - GP China</title>
 </programme>
-<programme start="20260314040000 +0000" stop="20260314043000 +0000" channel="Sky Sport UHD.skyde">
+<programme start="20260314040500 +0000" stop="20260314044000 +0000" channel="Sky Sport UHD.skyde">
     <title>F1: Pressekonferenz Sprint - GP China</title>
 </programme>
-<programme start="20260314043000 +0000" stop="20260314050000 +0000" channel="Sky Sport UHD.skyde">
+<programme start="20260314044000 +0000" stop="20260314050000 +0000" channel="Sky Sport UHD.skyde">
     <title>F1: GP Confidential</title>
 </programme>
 <programme start="20260314050000 +0000" stop="20260314054000 +0000" channel="Sky Sport UHD.skyde">
@@ -3266,10 +3197,10 @@ Warning: Undefined array key "et" in /usr/home/ManusiaBiasa/domains/manusiabiasa
 <programme start="20260314054000 +0000" stop="20260314063000 +0000" channel="Sky Sport UHD.skyde">
     <title>Live F1 Academy: 1. Rennen - GP China</title>
 </programme>
-<programme start="20260314063000 +0000" stop="20260314083000 +0000" channel="Sky Sport UHD.skyde">
+<programme start="20260314063000 +0000" stop="20260314083500 +0000" channel="Sky Sport UHD.skyde">
     <title>Live F1: Qualifying - GP China</title>
 </programme>
-<programme start="20260314083000 +0000" stop="20260314090000 +0000" channel="Sky Sport UHD.skyde">
+<programme start="20260314083500 +0000" stop="20260314090000 +0000" channel="Sky Sport UHD.skyde">
     <title>Live F1: Pressekonferenz Qualifying - GP China</title>
 </programme>
 <programme start="20260314090000 +0000" stop="20260314100000 +0000" channel="Sky Sport UHD.skyde">
