@@ -6322,6 +6322,90 @@
   <programme start="20260317220000 +0000" stop="20260317230000 +0000" channel="Food Network.webtv.sk">
     <title lang="id">Kuchaři v ringu I (4)</title>
   </programme>
+  <programme start="20260316230000 +0000" stop="20260316234500 +0000" channel="Animal Planet.webtv.sk">
+    <title lang="id">Vymřeli či žijí II (9)</title>
+  </programme>
+  <programme start="20260316234500 +0000" stop="20260317003000 +0000" channel="Animal Planet.webtv.sk">
+    <title lang="id">Drsná spravedlnost II (8)</title>
+  </programme>
+  <programme start="20260317003000 +0000" stop="20260317011500 +0000" channel="Animal Planet.webtv.sk">
+    <title lang="id">Akvária na míru V (11)</title>
+  </programme>
+  <programme start="20260317011500 +0000" stop="20260317020000 +0000" channel="Animal Planet.webtv.sk">
+    <title lang="id">Veterinární policie Miami XVI (3)</title>
+  </programme>
+  <programme start="20260317020000 +0000" stop="20260317024500 +0000" channel="Animal Planet.webtv.sk">
+    <title lang="id">Veterinární policie Miami XVI (4)</title>
+  </programme>
+  <programme start="20260317024500 +0000" stop="20260317033000 +0000" channel="Animal Planet.webtv.sk">
+    <title lang="id">Výprava za yettim I (3)</title>
+  </programme>
+  <programme start="20260317033000 +0000" stop="20260317041500 +0000" channel="Animal Planet.webtv.sk">
+    <title lang="id">Lidé z aljašských lesů II (11)</title>
+  </programme>
+  <programme start="20260317041500 +0000" stop="20260317050000 +0000" channel="Animal Planet.webtv.sk">
+    <title lang="id">Má pekelná kočka VIII (5)</title>
+  </programme>
+  <programme start="20260317050000 +0000" stop="20260317055000 +0000" channel="Animal Planet.webtv.sk">
+    <title lang="id">No nazdar! Irwinovi zasahují III (3)</title>
+  </programme>
+  <programme start="20260317055000 +0000" stop="20260317064000 +0000" channel="Animal Planet.webtv.sk">
+    <title lang="id">ZOO III (2)</title>
+  </programme>
+  <programme start="20260317064000 +0000" stop="20260317073000 +0000" channel="Animal Planet.webtv.sk">
+    <title lang="id">Záchrana statku III (9)</title>
+  </programme>
+  <programme start="20260317073000 +0000" stop="20260317082500 +0000" channel="Animal Planet.webtv.sk">
+    <title lang="id">Dr. Jeff: Veterinář ze Skalnatých hor VI (7)</title>
+  </programme>
+  <programme start="20260317082500 +0000" stop="20260317092000 +0000" channel="Animal Planet.webtv.sk">
+    <title lang="id">Akvária na míru V (14)</title>
+  </programme>
+  <programme start="20260317092000 +0000" stop="20260317101500 +0000" channel="Animal Planet.webtv.sk">
+    <title lang="id">Veterinární policie Miami XVI (7)</title>
+  </programme>
+  <programme start="20260317101500 +0000" stop="20260317111000 +0000" channel="Animal Planet.webtv.sk">
+    <title lang="id">Veterinární policie Miami XVI (9)</title>
+  </programme>
+  <programme start="20260317111000 +0000" stop="20260317120500 +0000" channel="Animal Planet.webtv.sk">
+    <title lang="id">Zákon v Texasu VI (3)</title>
+  </programme>
+  <programme start="20260317120500 +0000" stop="20260317123300 +0000" channel="Animal Planet.webtv.sk">
+    <title lang="id">Malí obři I (7)</title>
+  </programme>
+  <programme start="20260317123300 +0000" stop="20260317130000 +0000" channel="Animal Planet.webtv.sk">
+    <title lang="id">Malí obři I (8)</title>
+  </programme>
+  <programme start="20260317130000 +0000" stop="20260317140000 +0000" channel="Animal Planet.webtv.sk">
+    <title lang="id">Odborníci na domy v korunách stromů V (11)</title>
+  </programme>
+  <programme start="20260317140000 +0000" stop="20260317150000 +0000" channel="Animal Planet.webtv.sk">
+    <title lang="id">Pitbulové a propuštění trestanci VIII (18)</title>
+  </programme>
+  <programme start="20260317150000 +0000" stop="20260317160000 +0000" channel="Animal Planet.webtv.sk">
+    <title lang="id">Má pekelná kočka IV (3)</title>
+  </programme>
+  <programme start="20260317160000 +0000" stop="20260317170000 +0000" channel="Animal Planet.webtv.sk">
+    <title lang="id">No nazdar! Irwinovi zasahují III (3)</title>
+  </programme>
+  <programme start="20260317170000 +0000" stop="20260317180000 +0000" channel="Animal Planet.webtv.sk">
+    <title lang="id">Dr. Jeff: Veterinář ze Skalnatých hor VI (6)</title>
+  </programme>
+  <programme start="20260317180000 +0000" stop="20260317190000 +0000" channel="Animal Planet.webtv.sk">
+    <title lang="id">Neuvěřitelné bazény II (10)</title>
+  </programme>
+  <programme start="20260317190000 +0000" stop="20260317200000 +0000" channel="Animal Planet.webtv.sk">
+    <title lang="id">Zvířecí pohotovost I (1)</title>
+  </programme>
+  <programme start="20260317200000 +0000" stop="20260317210000 +0000" channel="Animal Planet.webtv.sk">
+    <title lang="id">Lidé z aljašských lesů II (11)</title>
+  </programme>
+  <programme start="20260317210000 +0000" stop="20260317220000 +0000" channel="Animal Planet.webtv.sk">
+    <title lang="id">Zákon v Texasu VI (5)</title>
+  </programme>
+  <programme start="20260317220000 +0000" stop="20260317230000 +0000" channel="Animal Planet.webtv.sk">
+    <title lang="id">Zlobivý pes III (7)</title>
+  </programme>
   <programme start="20260316230000 +0000" stop="20260316234500 +0000" channel="History Channel.webtv.sk">
     <title lang="id">Prokletí ostrova Oak</title>
   </programme>
@@ -15051,75 +15135,6 @@
   </programme>
   <programme start="20260317225700 +0000" stop="20260317230000 +0000" channel="Duck TV Plus.webtv.sk">
     <title lang="id">Náučný kútik</title>
-  </programme>
-  <programme start="20260316220000 +0000" stop="20260317041000 +0000" channel="Life TV.webtv.sk">
-    <title lang="id">Program z Domu modlitieb a chvál v Kansas City</title>
-  </programme>
-  <programme start="20260317041000 +0000" stop="20260317043000 +0000" channel="Life TV.webtv.sk">
-    <title lang="id">Biblia za rok: 365 Biblických povzbudení</title>
-  </programme>
-  <programme start="20260317043000 +0000" stop="20260317054500 +0000" channel="Life TV.webtv.sk">
-    <title lang="id">Slovo viery - AC Košice</title>
-  </programme>
-  <programme start="20260317054500 +0000" stop="20260317061500 +0000" channel="Life TV.webtv.sk">
-    <title lang="id">John Bevere</title>
-  </programme>
-  <programme start="20260317061500 +0000" stop="20260317070000 +0000" channel="Life TV.webtv.sk">
-    <title lang="id">Ježišov hlas - Randolph Kubíček</title>
-  </programme>
-  <programme start="20260317070000 +0000" stop="20260317073000 +0000" channel="Life TV.webtv.sk">
-    <title lang="id">20 minútovka</title>
-  </programme>
-  <programme start="20260317073000 +0000" stop="20260317084500 +0000" channel="Life TV.webtv.sk">
-    <title lang="id">Nová DNA</title>
-  </programme>
-  <programme start="20260317084500 +0000" stop="20260317092000 +0000" channel="Life TV.webtv.sk">
-    <title lang="id">Relácia DNES</title>
-  </programme>
-  <programme start="20260317092000 +0000" stop="20260317101000 +0000" channel="Life TV.webtv.sk">
-    <title lang="id">Godzone chvály</title>
-  </programme>
-  <programme start="20260317101000 +0000" stop="20260317103000 +0000" channel="Life TV.webtv.sk">
-    <title lang="id">Biblia za rok: 365 Biblických povzbudení</title>
-  </programme>
-  <programme start="20260317103000 +0000" stop="20260317121500 +0000" channel="Life TV.webtv.sk">
-    <title lang="id">Spoločenstvo Martindom</title>
-  </programme>
-  <programme start="20260317121500 +0000" stop="20260317130000 +0000" channel="Life TV.webtv.sk">
-    <title lang="id">Biblia za rok - Tematické štúdium</title>
-  </programme>
-  <programme start="20260317130000 +0000" stop="20260317143000 +0000" channel="Life TV.webtv.sk">
-    <title lang="id">ProChrist - Pre Teba</title>
-  </programme>
-  <programme start="20260317143000 +0000" stop="20260317151500 +0000" channel="Life TV.webtv.sk">
-    <title lang="id">Projekt Misie Filmom</title>
-  </programme>
-  <programme start="20260317151500 +0000" stop="20260317161000 +0000" channel="Life TV.webtv.sk">
-    <title lang="id">Godzone message</title>
-  </programme>
-  <programme start="20260317161000 +0000" stop="20260317163000 +0000" channel="Life TV.webtv.sk">
-    <title lang="id">Biblia za rok: 365 Biblických povzbudení</title>
-  </programme>
-  <programme start="20260317163000 +0000" stop="20260317174500 +0000" channel="Life TV.webtv.sk">
-    <title lang="id">Slovo viery - Slovo Života Brno</title>
-  </programme>
-  <programme start="20260317174500 +0000" stop="20260317181500 +0000" channel="Life TV.webtv.sk">
-    <title lang="id">Noeland</title>
-  </programme>
-  <programme start="20260317181500 +0000" stop="20260317190000 +0000" channel="Life TV.webtv.sk">
-    <title lang="id">Slovo viery - BJB Aš</title>
-  </programme>
-  <programme start="20260317190000 +0000" stop="20260317193000 +0000" channel="Life TV.webtv.sk">
-    <title lang="id">Relácia DNES</title>
-  </programme>
-  <programme start="20260317193000 +0000" stop="20260317210000 +0000" channel="Life TV.webtv.sk">
-    <title lang="id">Konvokácia</title>
-  </programme>
-  <programme start="20260317210000 +0000" stop="20260317220000 +0000" channel="Life TV.webtv.sk">
-    <title lang="id">Cirkev bez hraníc</title>
-  </programme>
-  <programme start="20260317220000 +0000" stop="20260318041000 +0000" channel="Life TV.webtv.sk">
-    <title lang="id">Program z Domu modlitieb a chvál v Kansas City</title>
   </programme>
   <programme start="20260316224200 +0000" stop="20260316231800 +0000" channel="TV Zemplín.webtv.sk">
     <title lang="id">Zemplínska šírava - Príbeh vody I</title>

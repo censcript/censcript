@@ -110,8 +110,8 @@
     <title>Football: Cremonese - ACF Fiorentina (L)</title>
     <desc>Live: Ya</desc>
 </programme>
-<programme start="20260316030000 +0700" stop="20260316033000 +0700" channel="COSMOTE Sport 3 HD">
-    <title>Sports Classics: Worldies E4</title>
+<programme start="20260317044500 +0700" stop="20260317070000 +0700" channel="COSMOTE Sport 2 HD">
+    <title>Football: Panathinaikos - Panetolikos</title>
     <desc>Live: Tidak</desc>
 </programme>
 <programme start="20260316033000 +0700" stop="20260316053000 +0700" channel="COSMOTE Sport 3 HD">
@@ -326,12 +326,8 @@
     <title>Highlights: 2025 Extreme H</title>
     <desc>Live: Tidak</desc>
 </programme>
-<programme start="20260316030000 +0700" stop="20260316033000 +0700" channel="COSMOTE Sport 6 HD">
-    <title>Sports Classics: 2026 Sports Rundown E2</title>
-    <desc>Live: Tidak</desc>
-</programme>
-<programme start="20260316033000 +0700" stop="20260316040000 +0700" channel="COSMOTE Sport 6 HD">
-    <title>Premier Padel Tour 2026 - Highlights</title>
+<programme start="20260317041500 +0700" stop="20260317051500 +0700" channel="COSMOTE Sport 5 HD">
+    <title>WRC</title>
     <desc>Live: Tidak</desc>
 </programme>
 <programme start="20260316040000 +0700" stop="20260316063000 +0700" channel="COSMOTE Sport 6 HD">
@@ -394,9 +390,9 @@
     <title>Topspin</title>
     <desc>Live: Tidak</desc>
 </programme>
-<programme start="20260316020000 +0700" stop="20260316040000 +0700" channel="COSMOTE Sport 7 HD">
-    <title>Basketball: Virtus Bologna - Armani Milano (L)</title>
-    <desc>Live: Ya</desc>
+<programme start="20260317044000 +0700" stop="20260317062000 +0700" channel="COSMOTE Sport 6 HD">
+    <title>Handball: MT Melsungen - VfL Gummersbach</title>
+    <desc>Live: Tidak</desc>
 </programme>
 <programme start="20260316040000 +0700" stop="20260316043000 +0700" channel="COSMOTE Sport 7 HD">
     <title>COSMOTESport7HD</title>
