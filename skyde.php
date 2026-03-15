@@ -2821,29 +2821,26 @@ Warning: Undefined array key "et" in /usr/home/ManusiaBiasa/domains/manusiabiasa
 <programme start="20260315003000 +0000" stop="20260315010000 +0000" channel="Sky Sport Golf HD.skyde">
     <title>Golf: Golfszene 2025 (5)</title>
 </programme>
-<programme start="20260315010000 +0000" stop="20260315060000 +0000" channel="Sky Sport Golf HD.skyde">
+<programme start="20260315010000 +0000" stop="20260315084000 +0000" channel="Sky Sport Golf HD.skyde">
     <title>Live LIV Golf: Singapur, 4. Tag auf Sentosa</title>
 </programme>
-<programme start="20260315060000 +0000" stop="20260315064500 +0000" channel="Sky Sport Golf HD.skyde">
+<programme start="20260315084000 +0000" stop="20260315093000 +0000" channel="Sky Sport Golf HD.skyde">
     <title>The Masters: A Champion&#039;s Dream - Jordan Spieth</title>
 </programme>
-<programme start="20260315064500 +0000" stop="20260315090000 +0000" channel="Sky Sport Golf HD.skyde">
-    <title>The Masters: 4. Tag 1997 in Augusta, Georgia (USA)</title>
-</programme>
-<programme start="20260315090000 +0000" stop="20260315140000 +0000" channel="Sky Sport Golf HD.skyde">
+<programme start="20260315093000 +0000" stop="20260315143000 +0000" channel="Sky Sport Golf HD.skyde">
     <title>Golf Ladies ET: Women&#039;s Australian Open, 4. Tag in Adelaide (Australien)</title>
 </programme>
-<programme start="20260315140000 +0000" stop="20260315160000 +0000" channel="Sky Sport Golf HD.skyde">
+<programme start="20260315143000 +0000" stop="20260315163000 +0000" channel="Sky Sport Golf HD.skyde">
     <title>TGL: Jupiter Links Golf Club - Boston Common Golf, 13. Spieltag</title>
 </programme>
-<programme start="20260315160000 +0000" stop="20260315180000 +0000" channel="Sky Sport Golf HD.skyde">
+<programme start="20260315163000 +0000" stop="20260315183000 +0000" channel="Sky Sport Golf HD.skyde">
     <title>TGL: Los Angeles Golf Club - New York Golf Club, 14. Spieltag</title>
 </programme>
-<programme start="20260315180000 +0000" stop="20260315200000 +0000" channel="Sky Sport Golf HD.skyde">
+<programme start="20260315183000 +0000" stop="20260315203000 +0000" channel="Sky Sport Golf HD.skyde">
     <title>TGL: The Bay Golf Club - Jupiter Links Golf Club, 15. Spieltag</title>
 </programme>
-<programme start="20260315200000 +0000" stop="20260315230000 +0000" channel="Sky Sport Golf HD.skyde">
-    <title>LIV Golf: Singapur, 4. Tag auf Sentosa</title>
+<programme start="20260315203000 +0000" stop="20260315233000 +0000" channel="Sky Sport Golf HD.skyde">
+    <title>The Masters: 4. Tag 2019 in Augusta, Georgia (USA)</title>
 </programme>
 <programme start="20260314230000 +0000" stop="20260315020000 +0000" channel="Sky Sport Mix HD.skyde">
     <title>Live NHL: Los Angeles Kings @ New Jersey Devils</title>
@@ -2890,10 +2887,10 @@ Warning: Undefined array key "et" in /usr/home/ManusiaBiasa/domains/manusiabiasa
 <programme start="20260315125000 +0000" stop="20260315135000 +0000" channel="Sky Sport Mix HD.skyde">
     <title>NHL: On the Fly</title>
 </programme>
-<programme start="20260315135000 +0000" stop="20260315160000 +0000" channel="Sky Sport Mix HD.skyde">
+<programme start="20260315135000 +0000" stop="20260315160500 +0000" channel="Sky Sport Mix HD.skyde">
     <title>Live PL: Crystal Palace - Leeds United, 30. Spieltag</title>
 </programme>
-<programme start="20260315160000 +0000" stop="20260315161500 +0000" channel="Sky Sport Mix HD.skyde">
+<programme start="20260315160500 +0000" stop="20260315161500 +0000" channel="Sky Sport Mix HD.skyde">
     <title>NHL: Highlights BOS@WSH</title>
 </programme>
 <programme start="20260315161500 +0000" stop="20260315163000 +0000" channel="Sky Sport Mix HD.skyde">
@@ -3148,13 +3145,13 @@ Warning: Undefined array key "et" in /usr/home/ManusiaBiasa/domains/manusiabiasa
 <programme start="20260315060000 +0000" stop="20260315065500 +0000" channel="Sky Sport Top Event HD.skyde">
     <title>Live F1: Vorberichte - GP China</title>
 </programme>
-<programme start="20260315065500 +0000" stop="20260315084500 +0000" channel="Sky Sport Top Event HD.skyde">
+<programme start="20260315065500 +0000" stop="20260315090000 +0000" channel="Sky Sport Top Event HD.skyde">
     <title>Live F1: Rennen - GP China</title>
 </programme>
-<programme start="20260315084500 +0000" stop="20260315093000 +0000" channel="Sky Sport Top Event HD.skyde">
+<programme start="20260315090000 +0000" stop="20260315094000 +0000" channel="Sky Sport Top Event HD.skyde">
     <title>Live F1: Analysen &amp; Interviews - GP China</title>
 </programme>
-<programme start="20260315093000 +0000" stop="20260315100000 +0000" channel="Sky Sport Top Event HD.skyde">
+<programme start="20260315094000 +0000" stop="20260315100000 +0000" channel="Sky Sport Top Event HD.skyde">
     <title>Live F1: Pressekonferenz Rennen - GP China</title>
 </programme>
 <programme start="20260315100000 +0000" stop="20260315113000 +0000" channel="Sky Sport Top Event HD.skyde">
