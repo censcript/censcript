@@ -2587,13 +2587,13 @@ Warning: Undefined array key "et" in /usr/home/ManusiaBiasa/domains/manusiabiasa
 <programme start="20260315135000 +0000" stop="20260315160000 +0000" channel="Sky Sport Austria 2 HD.skyde">
     <title>Live PL: Manchester United - Aston Villa, 30. Spieltag</title>
 </programme>
-<programme start="20260315160000 +0000" stop="20260315183000 +0000" channel="Sky Sport Austria 2 HD.skyde">
+<programme start="20260315160000 +0000" stop="20260315190000 +0000" channel="Sky Sport Austria 2 HD.skyde">
     <title>Live PL: FC Liverpool - Tottenham Hotspur, Match of the Week, 30. Spieltag</title>
 </programme>
 <programme start="20260315204000 +0000" stop="20260315210000 +0000" channel="Sky Sport Austria 2 HD.skyde">
     <title>Es folgt Eishockey: NHL</title>
 </programme>
-<programme start="20260315210000 +0000" stop="20260316000000 +0000" channel="Sky Sport Austria 2 HD.skyde">
+<programme start="20260315210000 +0000" stop="20260316083000 +0000" channel="Sky Sport Austria 2 HD.skyde">
     <title>Live NHL: San Jose Sharks @ Ottawa Senators</title>
 </programme>
 <programme start="20260314234500 +0000" stop="20260315004500 +0000" channel="Sky Sport Bundesliga HD.skyde">
@@ -2722,17 +2722,11 @@ Warning: Undefined array key "et" in /usr/home/ManusiaBiasa/domains/manusiabiasa
 <programme start="20260315120000 +0000" stop="20260315150000 +0000" channel="Sky Sport Bundesliga 3 HD.skyde">
     <title>Live 2. BL: 1. FC Kaiserslautern - Karlsruher SC, 26. Spieltag</title>
 </programme>
-<programme start="20260314111000 +0000" stop="20260314113000 +0000" channel="Sky Sport Bundesliga 4 HD.skyde">
+<programme start="20260315114000 +0000" stop="20260315120000 +0000" channel="Sky Sport Bundesliga 4 HD.skyde">
     <title>Es folgt: Live 2. Bundesliga</title>
 </programme>
-<programme start="20260314113000 +0000" stop="20260314141000 +0000" channel="Sky Sport Bundesliga 4 HD.skyde">
-    <title>Live 2. BL: Holstein Kiel - 1. FC Nürnberg, 26. Spieltag</title>
-</programme>
-<programme start="20260314141000 +0000" stop="20260314141500 +0000" channel="Sky Sport Bundesliga 4 HD.skyde">
-    <title>Live BL: SGE - FCH: tipico Countdown, 26. Spieltag</title>
-</programme>
-<programme start="20260314141500 +0000" stop="20260314170000 +0000" channel="Sky Sport Bundesliga 4 HD.skyde">
-    <title>Live BL: Eintracht Frankfurt - 1. FC Heidenheim, 26. Spieltag</title>
+<programme start="20260315120000 +0000" stop="20260315150000 +0000" channel="Sky Sport Bundesliga 4 HD.skyde">
+    <title>Live 2. BL: Dynamo Dresden - Preußen Münster, 26. Spieltag</title>
 </programme>
 <programme start="20260315114000 +0000" stop="20260315120000 +0000" channel="Sky Sport Bundesliga 5 HD.skyde">
     <title>Es folgt: Live 2. Bundesliga</title>
@@ -2767,19 +2761,19 @@ Warning: Undefined array key "et" in /usr/home/ManusiaBiasa/domains/manusiabiasa
 <programme start="20260315060000 +0000" stop="20260315065500 +0000" channel="Sky Sport F1 HD.skyde">
     <title>Live F1: Vorberichte - GP China</title>
 </programme>
-<programme start="20260315065500 +0000" stop="20260315084500 +0000" channel="Sky Sport F1 HD.skyde">
+<programme start="20260315065500 +0000" stop="20260315090000 +0000" channel="Sky Sport F1 HD.skyde">
     <title>Live F1: Rennen - GP China</title>
 </programme>
-<programme start="20260315084500 +0000" stop="20260315093000 +0000" channel="Sky Sport F1 HD.skyde">
+<programme start="20260315090000 +0000" stop="20260315094000 +0000" channel="Sky Sport F1 HD.skyde">
     <title>Live F1: Analysen &amp; Interviews - GP China</title>
 </programme>
-<programme start="20260315093000 +0000" stop="20260315100000 +0000" channel="Sky Sport F1 HD.skyde">
+<programme start="20260315094000 +0000" stop="20260315100000 +0000" channel="Sky Sport F1 HD.skyde">
     <title>Live F1: Pressekonferenz Rennen - GP China</title>
 </programme>
-<programme start="20260315100000 +0000" stop="20260315103000 +0000" channel="Sky Sport F1 HD.skyde">
+<programme start="20260315100000 +0000" stop="20260315104000 +0000" channel="Sky Sport F1 HD.skyde">
     <title>Live F1: Ted&#039;s Notebook: GP China</title>
 </programme>
-<programme start="20260315103000 +0000" stop="20260315110000 +0000" channel="Sky Sport F1 HD.skyde">
+<programme start="20260315104000 +0000" stop="20260315110000 +0000" channel="Sky Sport F1 HD.skyde">
     <title>F1: 2025: Most Dramatic Moments</title>
 </programme>
 <programme start="20260315110000 +0000" stop="20260315120000 +0000" channel="Sky Sport F1 HD.skyde">
@@ -2794,23 +2788,20 @@ Warning: Undefined array key "et" in /usr/home/ManusiaBiasa/domains/manusiabiasa
 <programme start="20260315144500 +0000" stop="20260315153000 +0000" channel="Sky Sport F1 HD.skyde">
     <title>F1: Analysen &amp; Interviews - GP China</title>
 </programme>
-<programme start="20260315153000 +0000" stop="20260315160000 +0000" channel="Sky Sport F1 HD.skyde">
-    <title>F1: Pressekonferenz Rennen - GP China</title>
-</programme>
-<programme start="20260315160000 +0000" stop="20260315183000 +0000" channel="Sky Sport F1 HD.skyde">
+<programme start="20260315153000 +0000" stop="20260315180000 +0000" channel="Sky Sport F1 HD.skyde">
     <title>Live IndyCar: Java House Grand Prix of Arlington</title>
 </programme>
-<programme start="20260315183000 +0000" stop="20260315190000 +0000" channel="Sky Sport F1 HD.skyde">
-    <title>F1: Ted&#039;s Notebook: GP China</title>
-</programme>
-<programme start="20260315190000 +0000" stop="20260315193000 +0000" channel="Sky Sport F1 HD.skyde">
-    <title>F1: Rennen Kompakt - GP China</title>
-</programme>
-<programme start="20260315193000 +0000" stop="20260315213000 +0000" channel="Sky Sport F1 HD.skyde">
+<programme start="20260315180000 +0000" stop="20260315200000 +0000" channel="Sky Sport F1 HD.skyde">
     <title>F1: Rennen - GP China</title>
 </programme>
-<programme start="20260315213000 +0000" stop="20260315233000 +0000" channel="Sky Sport F1 HD.skyde">
-    <title>IndyCar: Java House Grand Prix of Arlington</title>
+<programme start="20260315200000 +0000" stop="20260315203000 +0000" channel="Sky Sport F1 HD.skyde">
+    <title>F1: Pressekonferenz Rennen - GP China</title>
+</programme>
+<programme start="20260315203000 +0000" stop="20260315210000 +0000" channel="Sky Sport F1 HD.skyde">
+    <title>F1: Ted&#039;s Notebook: GP China</title>
+</programme>
+<programme start="20260315210000 +0000" stop="20260315230000 +0000" channel="Sky Sport F1 HD.skyde">
+    <title>F1: Rennen - GP China</title>
 </programme>
 <programme start="20260314230000 +0000" stop="20260314231500 +0000" channel="Sky Sport Golf HD.skyde">
     <title>Golf: Follow the Pros (5)</title>
@@ -3121,6 +3112,9 @@ Warning: Undefined array key "et" in /usr/home/ManusiaBiasa/domains/manusiabiasa
 <programme start="20260315100000 +0000" stop="20260315110000 +0000" channel="Sky Sport Tennis HD.skyde">
     <title>ATP 500: Review Acapulco</title>
 </programme>
+<programme start="20260315110000 +0000" stop="20260315113000 +0000" channel="Sky Sport Tennis HD.skyde">
+    <title>ATP: This Week</title>
+</programme>
 <programme start="20260315113000 +0000" stop="20260315133000 +0000" channel="Sky Sport Tennis HD.skyde">
     <title>ATP 1000: A. Zverev (GER) - J. Sinner (ITA), BNP Paribas Open in Indian Wells, Kalifornien (USA), Halbfinale 1</title>
 </programme>
@@ -3265,7 +3259,7 @@ Warning: Undefined array key "et" in /usr/home/ManusiaBiasa/domains/manusiabiasa
 <programme start="20260315133000 +0000" stop="20260315135000 +0000" channel="Sky Sport 6 HD.skyde">
     <title>Es folgt: Live Premier League</title>
 </programme>
-<programme start="20260315135000 +0000" stop="20260315160000 +0000" channel="Sky Sport 6 HD.skyde">
+<programme start="20260315135000 +0000" stop="20260315163000 +0000" channel="Sky Sport 6 HD.skyde">
     <title>Live PL: Nottingham Forest - FC Fulham, 30. Spieltag</title>
 </programme>
 <programme start="20260314230500 +0000" stop="20260314235000 +0000" channel="SYFY HD.skyde">
