@@ -2695,7 +2695,7 @@ Warning: Undefined array key "et" in /usr/home/ManusiaBiasa/domains/manusiabiasa
 <programme start="20260315170000 +0000" stop="20260315183000 +0000" channel="Sky Sport Bundesliga 1 HD.skyde">
     <title>Live BL: Sky90 - Die Fußballdebatte</title>
 </programme>
-<programme start="20260315183000 +0000" stop="20260315191500 +0000" channel="Sky Sport Bundesliga 1 HD.skyde">
+<programme start="20260315183000 +0000" stop="20260315193000 +0000" channel="Sky Sport Bundesliga 1 HD.skyde">
     <title>Live BL: Highlights XXL: SCF - FCU, 26. Spieltag</title>
 </programme>
 <programme start="20260315114000 +0000" stop="20260315120000 +0000" channel="Sky Sport Bundesliga 2 HD.skyde">
@@ -2713,7 +2713,7 @@ Warning: Undefined array key "et" in /usr/home/ManusiaBiasa/domains/manusiabiasa
 <programme start="20260315183000 +0000" stop="20260315203000 +0000" channel="Sky Sport Bundesliga 2 HD.skyde">
     <title>BL: SC Freiburg - 1. FC Union Berlin, 26. Spieltag</title>
 </programme>
-<programme start="20260315203000 +0000" stop="20260315223000 +0000" channel="Sky Sport Bundesliga 2 HD.skyde">
+<programme start="20260315203000 +0000" stop="20260315224500 +0000" channel="Sky Sport Bundesliga 2 HD.skyde">
     <title>BL: VfB Stuttgart - RB Leipzig, 26. Spieltag</title>
 </programme>
 <programme start="20260315114000 +0000" stop="20260315120000 +0000" channel="Sky Sport Bundesliga 3 HD.skyde">
@@ -2791,14 +2791,14 @@ Warning: Undefined array key "et" in /usr/home/ManusiaBiasa/domains/manusiabiasa
 <programme start="20260315153000 +0000" stop="20260315160000 +0000" channel="Sky Sport F1 HD.skyde">
     <title>F1: Pressekonferenz Rennen - GP China</title>
 </programme>
-<programme start="20260315160000 +0000" stop="20260315163000 +0000" channel="Sky Sport F1 HD.skyde">
+<programme start="20260315160000 +0000" stop="20260315183000 +0000" channel="Sky Sport F1 HD.skyde">
+    <title>Live IndyCar: Java House Grand Prix of Arlington</title>
+</programme>
+<programme start="20260315183000 +0000" stop="20260315190000 +0000" channel="Sky Sport F1 HD.skyde">
     <title>F1: Ted&#039;s Notebook: GP China</title>
 </programme>
-<programme start="20260315163000 +0000" stop="20260315170000 +0000" channel="Sky Sport F1 HD.skyde">
+<programme start="20260315190000 +0000" stop="20260315193000 +0000" channel="Sky Sport F1 HD.skyde">
     <title>F1: Rennen Kompakt - GP China</title>
-</programme>
-<programme start="20260315170000 +0000" stop="20260315193000 +0000" channel="Sky Sport F1 HD.skyde">
-    <title>Live IndyCar: Java House Grand Prix of Arlington</title>
 </programme>
 <programme start="20260315193000 +0000" stop="20260315213000 +0000" channel="Sky Sport F1 HD.skyde">
     <title>F1: Rennen - GP China</title>
@@ -3253,14 +3253,14 @@ Warning: Undefined array key "et" in /usr/home/ManusiaBiasa/domains/manusiabiasa
 <programme start="20260315185500 +0000" stop="20260315191500 +0000" channel="Sky Sport 3 HD.skyde">
     <title>Es folgt: LIVE Basketball NBA</title>
 </programme>
-<programme start="20260315191500 +0000" stop="20260315223000 +0000" channel="Sky Sport 3 HD.skyde">
+<programme start="20260315191500 +0000" stop="20260316003000 +0000" channel="Sky Sport 3 HD.skyde">
     <title>Live NBA: Dallas Mavericks @ Cleveland Cavaliers</title>
 </programme>
-<programme start="20260320144000 +0000" stop="20260320150000 +0000" channel="Sky Sport 6 HD.skyde">
-    <title>Es folgt: Live Tennis WTA Tour</title>
+<programme start="20260315133000 +0000" stop="20260315135000 +0000" channel="Sky Sport 6 HD.skyde">
+    <title>Es folgt: Live Premier League</title>
 </programme>
-<programme start="20260320150000 +0000" stop="20260321030000 +0000" channel="Sky Sport 6 HD.skyde">
-    <title>Live WTA 1000: Miami Open presented by Itaú in Miami, Florida (USA), 4. Tag</title>
+<programme start="20260315135000 +0000" stop="20260315163000 +0000" channel="Sky Sport 6 HD.skyde">
+    <title>Live PL: Nottingham Forest - FC Fulham, 30. Spieltag</title>
 </programme>
 <programme start="20260314230500 +0000" stop="20260314235000 +0000" channel="SYFY HD.skyde">
     <title>Stargate SG-1</title>
