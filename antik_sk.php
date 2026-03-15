@@ -2131,6 +2131,282 @@
   <programme start="20260317224500 +0000" stop="20260317231000 +0000" channel="Jojko.webtv.sk">
     <title lang="id">Moe a jeho šou III (10)</title>
   </programme>
+  <programme start="20260316224000 +0000" stop="20260316232000 +0000" channel="RiK TV.webtv.sk">
+    <title lang="id">Flopyho veselé príbehy</title>
+  </programme>
+  <programme start="20260316232000 +0000" stop="20260316234500 +0000" channel="RiK TV.webtv.sk">
+    <title lang="id">Malý medvedík I (19)</title>
+  </programme>
+  <programme start="20260316234500 +0000" stop="20260317001000 +0000" channel="RiK TV.webtv.sk">
+    <title lang="id">Myšiak Anatole I (13)</title>
+  </programme>
+  <programme start="20260317001000 +0000" stop="20260317002500 +0000" channel="RiK TV.webtv.sk">
+    <title lang="id">Tri mušketierky I (18)</title>
+  </programme>
+  <programme start="20260317002500 +0000" stop="20260317003500 +0000" channel="RiK TV.webtv.sk">
+    <title lang="id">Esá z pralesa I (15)</title>
+  </programme>
+  <programme start="20260317003500 +0000" stop="20260317004500 +0000" channel="RiK TV.webtv.sk">
+    <title lang="id">Apollo a veselé chrobáčiky I (3)</title>
+  </programme>
+  <programme start="20260317004500 +0000" stop="20260317011000 +0000" channel="RiK TV.webtv.sk">
+    <title lang="id">Volám sa Caillou V (10)</title>
+  </programme>
+  <programme start="20260317011000 +0000" stop="20260317012000 +0000" channel="RiK TV.webtv.sk">
+    <title lang="id">Dumper a Skoop II (8)</title>
+  </programme>
+  <programme start="20260317012000 +0000" stop="20260317013000 +0000" channel="RiK TV.webtv.sk">
+    <title lang="id">Panda a Krash I (2)</title>
+  </programme>
+  <programme start="20260317013000 +0000" stop="20260317015500 +0000" channel="RiK TV.webtv.sk">
+    <title lang="id">Príbehy dvoch myší I (22)</title>
+  </programme>
+  <programme start="20260317015500 +0000" stop="20260317022000 +0000" channel="RiK TV.webtv.sk">
+    <title lang="id">Rev a motoroví miláčikovia I (21)</title>
+  </programme>
+  <programme start="20260317022000 +0000" stop="20260317023000 +0000" channel="RiK TV.webtv.sk">
+    <title lang="id">Máša a medveď VI (107)</title>
+  </programme>
+  <programme start="20260317023000 +0000" stop="20260317024000 +0000" channel="RiK TV.webtv.sk">
+    <title lang="id">Chuggington - veselé vláčiky II (15)</title>
+  </programme>
+  <programme start="20260317024000 +0000" stop="20260317025000 +0000" channel="RiK TV.webtv.sk">
+    <title lang="id">Malý silák Bheem I (15)</title>
+  </programme>
+  <programme start="20260317025000 +0000" stop="20260317031500 +0000" channel="RiK TV.webtv.sk">
+    <title lang="id">Jahôdka a jej kamaráti III (11)</title>
+  </programme>
+  <programme start="20260317031500 +0000" stop="20260317034000 +0000" channel="RiK TV.webtv.sk">
+    <title lang="id">Malý medvedík I (20)</title>
+  </programme>
+  <programme start="20260317034000 +0000" stop="20260317040500 +0000" channel="RiK TV.webtv.sk">
+    <title lang="id">Ruby z dúhy II (23)</title>
+  </programme>
+  <programme start="20260317040500 +0000" stop="20260317041000 +0000" channel="RiK TV.webtv.sk">
+    <title lang="id">Veselé zajačiky II (6)</title>
+  </programme>
+  <programme start="20260317041000 +0000" stop="20260317041500 +0000" channel="RiK TV.webtv.sk">
+    <title lang="id">Hot Wheels autíčka II (7)</title>
+  </programme>
+  <programme start="20260317041500 +0000" stop="20260317042500 +0000" channel="RiK TV.webtv.sk">
+    <title lang="id">Bob staviteľ I (18)</title>
+  </programme>
+  <programme start="20260317042500 +0000" stop="20260317044000 +0000" channel="RiK TV.webtv.sk">
+    <title lang="id">Ukecaný Tom I (4)</title>
+  </programme>
+  <programme start="20260317044000 +0000" stop="20260317045000 +0000" channel="RiK TV.webtv.sk">
+    <title lang="id">Máša a medveď VI (108)</title>
+  </programme>
+  <programme start="20260317045000 +0000" stop="20260317050000 +0000" channel="RiK TV.webtv.sk">
+    <title lang="id">Máša a medveď VI (109)</title>
+  </programme>
+  <programme start="20260317050000 +0000" stop="20260317050500 +0000" channel="RiK TV.webtv.sk">
+    <title lang="id">Prasiatko Peppa I (8)</title>
+  </programme>
+  <programme start="20260317050500 +0000" stop="20260317051000 +0000" channel="RiK TV.webtv.sk">
+    <title lang="id">Prasiatko Peppa I (9)</title>
+  </programme>
+  <programme start="20260317051000 +0000" stop="20260317053000 +0000" channel="RiK TV.webtv.sk">
+    <title lang="id">Rozprávky líšky a vlka I (28)</title>
+  </programme>
+  <programme start="20260317053000 +0000" stop="20260317054000 +0000" channel="RiK TV.webtv.sk">
+    <title lang="id">Pingu v meste II (3)</title>
+  </programme>
+  <programme start="20260317054000 +0000" stop="20260317054500 +0000" channel="RiK TV.webtv.sk">
+    <title lang="id">Hot Wheels autíčka II (8)</title>
+  </programme>
+  <programme start="20260317054500 +0000" stop="20260317060000 +0000" channel="RiK TV.webtv.sk">
+    <title lang="id">Flopy</title>
+  </programme>
+  <programme start="20260317060000 +0000" stop="20260317061500 +0000" channel="RiK TV.webtv.sk">
+    <title lang="id">Dobrodružstvá Bolka a Lolka I (14)</title>
+  </programme>
+  <programme start="20260317061500 +0000" stop="20260317062500 +0000" channel="RiK TV.webtv.sk">
+    <title lang="id">Ovečka Shaun VII (6)</title>
+  </programme>
+  <programme start="20260317062500 +0000" stop="20260317065000 +0000" channel="RiK TV.webtv.sk">
+    <title lang="id">Príbehy z nočnej záhrady II (12)</title>
+  </programme>
+  <programme start="20260317065000 +0000" stop="20260317070500 +0000" channel="RiK TV.webtv.sk">
+    <title lang="id">Štístko a Poupěnka I (24)</title>
+  </programme>
+  <programme start="20260317070500 +0000" stop="20260317071000 +0000" channel="RiK TV.webtv.sk">
+    <title lang="id">Prasiatko Peppa I (10)</title>
+  </programme>
+  <programme start="20260317071000 +0000" stop="20260317080000 +0000" channel="RiK TV.webtv.sk">
+    <title lang="id">Flopyho veselé príbehy</title>
+  </programme>
+  <programme start="20260317080000 +0000" stop="20260317082000 +0000" channel="RiK TV.webtv.sk">
+    <title lang="id">Drobčekovia I (1)</title>
+  </programme>
+  <programme start="20260317082000 +0000" stop="20260317082500 +0000" channel="RiK TV.webtv.sk">
+    <title lang="id">Smejko a Tanculienka II (24)</title>
+  </programme>
+  <programme start="20260317082500 +0000" stop="20260317084000 +0000" channel="RiK TV.webtv.sk">
+    <title lang="id">Zvedavkovci I (32)</title>
+  </programme>
+  <programme start="20260317084000 +0000" stop="20260317085500 +0000" channel="RiK TV.webtv.sk">
+    <title lang="id">Teletubbies I (1a)</title>
+  </programme>
+  <programme start="20260317085500 +0000" stop="20260317091000 +0000" channel="RiK TV.webtv.sk">
+    <title lang="id">Bob staviteľ I (19)</title>
+  </programme>
+  <programme start="20260317091000 +0000" stop="20260317093500 +0000" channel="RiK TV.webtv.sk">
+    <title lang="id">Jahôdka a jej kamaráti III (12)</title>
+  </programme>
+  <programme start="20260317093500 +0000" stop="20260317100000 +0000" channel="RiK TV.webtv.sk">
+    <title lang="id">Volám sa Caillou V (11)</title>
+  </programme>
+  <programme start="20260317100000 +0000" stop="20260317101500 +0000" channel="RiK TV.webtv.sk">
+    <title lang="id">Máša a medveď VI (110)</title>
+  </programme>
+  <programme start="20260317101500 +0000" stop="20260317103000 +0000" channel="RiK TV.webtv.sk">
+    <title lang="id">Flopy</title>
+  </programme>
+  <programme start="20260317103000 +0000" stop="20260317104000 +0000" channel="RiK TV.webtv.sk">
+    <title lang="id">Pingu v meste II (4)</title>
+  </programme>
+  <programme start="20260317104000 +0000" stop="20260317105500 +0000" channel="RiK TV.webtv.sk">
+    <title lang="id">Dobrodružstvá Bolka a Lolka I (15)</title>
+  </programme>
+  <programme start="20260317105500 +0000" stop="20260317110000 +0000" channel="RiK TV.webtv.sk">
+    <title lang="id">Kiri a Lou I (14)</title>
+  </programme>
+  <programme start="20260317110000 +0000" stop="20260317111500 +0000" channel="RiK TV.webtv.sk">
+    <title lang="id">Priatelia z farmy I (47)</title>
+  </programme>
+  <programme start="20260317111500 +0000" stop="20260317112500 +0000" channel="RiK TV.webtv.sk">
+    <title lang="id">Tomáš a Priatelia I (21)</title>
+  </programme>
+  <programme start="20260317112500 +0000" stop="20260317113000 +0000" channel="RiK TV.webtv.sk">
+    <title lang="id">Pingu V (1)</title>
+  </programme>
+  <programme start="20260317113000 +0000" stop="20260317114500 +0000" channel="RiK TV.webtv.sk">
+    <title lang="id">Flopy</title>
+  </programme>
+  <programme start="20260317114500 +0000" stop="20260317115500 +0000" channel="RiK TV.webtv.sk">
+    <title lang="id">Volám sa Caillou II./III. III (30)</title>
+  </programme>
+  <programme start="20260317115500 +0000" stop="20260317122500 +0000" channel="RiK TV.webtv.sk">
+    <title lang="id">Príbehy dvoch myší I (22)</title>
+  </programme>
+  <programme start="20260317122500 +0000" stop="20260317125000 +0000" channel="RiK TV.webtv.sk">
+    <title lang="id">Rev a motoroví miláčikovia I (21)</title>
+  </programme>
+  <programme start="20260317125000 +0000" stop="20260317130500 +0000" channel="RiK TV.webtv.sk">
+    <title lang="id">Pinocchiova kúzelná dedina I (23)</title>
+  </programme>
+  <programme start="20260317130500 +0000" stop="20260317131500 +0000" channel="RiK TV.webtv.sk">
+    <title lang="id">Ovečka Shaun VII (7)</title>
+  </programme>
+  <programme start="20260317131500 +0000" stop="20260317134000 +0000" channel="RiK TV.webtv.sk">
+    <title lang="id">Ruby z dúhy II (23)</title>
+  </programme>
+  <programme start="20260317134000 +0000" stop="20260317135500 +0000" channel="RiK TV.webtv.sk">
+    <title lang="id">Dobrodružstvá Bolka a Lolka I (16)</title>
+  </programme>
+  <programme start="20260317135500 +0000" stop="20260317140000 +0000" channel="RiK TV.webtv.sk">
+    <title lang="id">Smejko a Tanculienka II (25)</title>
+  </programme>
+  <programme start="20260317140000 +0000" stop="20260317141000 +0000" channel="RiK TV.webtv.sk">
+    <title lang="id">Máša a medveď VI (111)</title>
+  </programme>
+  <programme start="20260317141000 +0000" stop="20260317142500 +0000" channel="RiK TV.webtv.sk">
+    <title lang="id">Tomáš a Priatelia I (22)</title>
+  </programme>
+  <programme start="20260317142500 +0000" stop="20260317143500 +0000" channel="RiK TV.webtv.sk">
+    <title lang="id">Bob staviteľ I (20)</title>
+  </programme>
+  <programme start="20260317143500 +0000" stop="20260317145000 +0000" channel="RiK TV.webtv.sk">
+    <title lang="id">Požiarnik Sam XIV (7)</title>
+  </programme>
+  <programme start="20260317145000 +0000" stop="20260317152000 +0000" channel="RiK TV.webtv.sk">
+    <title lang="id">Flopy</title>
+  </programme>
+  <programme start="20260317152000 +0000" stop="20260317154500 +0000" channel="RiK TV.webtv.sk">
+    <title lang="id">Krajina fantázie s TintiLinti I (8)</title>
+  </programme>
+  <programme start="20260317154500 +0000" stop="20260317155000 +0000" channel="RiK TV.webtv.sk">
+    <title lang="id">Pingu V (2)</title>
+  </programme>
+  <programme start="20260317155000 +0000" stop="20260317161000 +0000" channel="RiK TV.webtv.sk">
+    <title lang="id">Volám sa Caillou I (3)</title>
+  </programme>
+  <programme start="20260317161000 +0000" stop="20260317162500 +0000" channel="RiK TV.webtv.sk">
+    <title lang="id">Ukecaný Tom I (5)</title>
+  </programme>
+  <programme start="20260317162500 +0000" stop="20260317164000 +0000" channel="RiK TV.webtv.sk">
+    <title lang="id">Mojo Transformer I (6)</title>
+  </programme>
+  <programme start="20260317164000 +0000" stop="20260317165000 +0000" channel="RiK TV.webtv.sk">
+    <title lang="id">Pingu v meste II (5)</title>
+  </programme>
+  <programme start="20260317165000 +0000" stop="20260317170000 +0000" channel="RiK TV.webtv.sk">
+    <title lang="id">Ovečka Shaun VII (8)</title>
+  </programme>
+  <programme start="20260317170000 +0000" stop="20260317171000 +0000" channel="RiK TV.webtv.sk">
+    <title lang="id">Štístko a Poupěnka I (25)</title>
+  </programme>
+  <programme start="20260317171000 +0000" stop="20260317172000 +0000" channel="RiK TV.webtv.sk">
+    <title lang="id">Požiarnik Sam XIV (8)</title>
+  </programme>
+  <programme start="20260317172000 +0000" stop="20260317180500 +0000" channel="RiK TV.webtv.sk">
+    <title lang="id">Flopyho veselé príbehy</title>
+  </programme>
+  <programme start="20260317180500 +0000" stop="20260317181000 +0000" channel="RiK TV.webtv.sk">
+    <title lang="id">Prasiatko Peppa I (11)</title>
+  </programme>
+  <programme start="20260317181000 +0000" stop="20260317182000 +0000" channel="RiK TV.webtv.sk">
+    <title lang="id">Máša a medveď VI (112)</title>
+  </programme>
+  <programme start="20260317182000 +0000" stop="20260317183000 +0000" channel="RiK TV.webtv.sk">
+    <title lang="id">WoW Lisa I (13)</title>
+  </programme>
+  <programme start="20260317183000 +0000" stop="20260317184500 +0000" channel="RiK TV.webtv.sk">
+    <title lang="id">Tučniaky z madagaskaru I (1)</title>
+  </programme>
+  <programme start="20260317184500 +0000" stop="20260317190000 +0000" channel="RiK TV.webtv.sk">
+    <title lang="id">Mojo Transformer I (7)</title>
+  </programme>
+  <programme start="20260317190000 +0000" stop="20260317192500 +0000" channel="RiK TV.webtv.sk">
+    <title lang="id">Kung Fu Panda I (23)</title>
+  </programme>
+  <programme start="20260317192500 +0000" stop="20260317194000 +0000" channel="RiK TV.webtv.sk">
+    <title lang="id">Požiarnik Sam VIII (24)</title>
+  </programme>
+  <programme start="20260317194000 +0000" stop="20260317200500 +0000" channel="RiK TV.webtv.sk">
+    <title lang="id">Barbie: Dom snov I (12)</title>
+  </programme>
+  <programme start="20260317200500 +0000" stop="20260317205000 +0000" channel="RiK TV.webtv.sk">
+    <title lang="id">Flopyho veselé príbehy</title>
+  </programme>
+  <programme start="20260317205000 +0000" stop="20260317211500 +0000" channel="RiK TV.webtv.sk">
+    <title lang="id">Volám sa Caillou I (4)</title>
+  </programme>
+  <programme start="20260317211500 +0000" stop="20260317214000 +0000" channel="RiK TV.webtv.sk">
+    <title lang="id">Barbie: Dotyk kúziel I (12)</title>
+  </programme>
+  <programme start="20260317214000 +0000" stop="20260317215500 +0000" channel="RiK TV.webtv.sk">
+    <title lang="id">Priatelia z farmy I (48)</title>
+  </programme>
+  <programme start="20260317215500 +0000" stop="20260317220000 +0000" channel="RiK TV.webtv.sk">
+    <title lang="id">Matchbox II (8)</title>
+  </programme>
+  <programme start="20260317220000 +0000" stop="20260317221000 +0000" channel="RiK TV.webtv.sk">
+    <title lang="id">Mojo Transformer I (8)</title>
+  </programme>
+  <programme start="20260317221000 +0000" stop="20260317222000 +0000" channel="RiK TV.webtv.sk">
+    <title lang="id">Ovečka Shaun VII (9)</title>
+  </programme>
+  <programme start="20260317222000 +0000" stop="20260317223000 +0000" channel="RiK TV.webtv.sk">
+    <title lang="id">Tomáš a Priatelia I (23)</title>
+  </programme>
+  <programme start="20260317223000 +0000" stop="20260317224000 +0000" channel="RiK TV.webtv.sk">
+    <title lang="id">Dobrodružstvá Bolka a Lolka I (17)</title>
+  </programme>
+  <programme start="20260317224000 +0000" stop="20260317232000 +0000" channel="RiK TV.webtv.sk">
+    <title lang="id">Flopyho veselé príbehy</title>
+  </programme>
   <programme start="20260316230000 +0000" stop="20260317040000 +0000" channel="LALA TV.webtv.sk">
     <title lang="id">Spíva celá rodina</title>
   </programme>
@@ -4023,6 +4299,63 @@
   </programme>
   <programme start="20260317222500 +0000" stop="20260317233000 +0000" channel="Prima Love SK.webtv.sk">
     <title lang="id">Velmi křehké vztahy III (21)</title>
+  </programme>
+  <programme start="20260316224500 +0000" stop="20260316233000 +0000" channel="Prima Krimi SK.webtv.sk">
+    <title lang="id">Prvních 48 hodin XVI (9)</title>
+  </programme>
+  <programme start="20260316233000 +0000" stop="20260317001000 +0000" channel="Prima Krimi SK.webtv.sk">
+    <title lang="id">Vraždy v Kitzbühelu X (5)</title>
+  </programme>
+  <programme start="20260317001000 +0000" stop="20260317005500 +0000" channel="Prima Krimi SK.webtv.sk">
+    <title lang="id">Vraždy v Kitzbühelu X (6)</title>
+  </programme>
+  <programme start="20260317005500 +0000" stop="20260317014000 +0000" channel="Prima Krimi SK.webtv.sk">
+    <title lang="id">Policie v akci</title>
+  </programme>
+  <programme start="20260317014000 +0000" stop="20260317050000 +0000" channel="Prima Krimi SK.webtv.sk">
+    <title lang="id">Noční Praha</title>
+  </programme>
+  <programme start="20260317050000 +0000" stop="20260317052500 +0000" channel="Prima Krimi SK.webtv.sk">
+    <title lang="id">Noční Praha</title>
+  </programme>
+  <programme start="20260317052500 +0000" stop="20260317072000 +0000" channel="Prima Krimi SK.webtv.sk">
+    <title lang="id">Zločiny z vřesovišť: Mrtvý v síti VI (4)</title>
+  </programme>
+  <programme start="20260317072000 +0000" stop="20260317082000 +0000" channel="Prima Krimi SK.webtv.sk">
+    <title lang="id">Prvních 48 hodin XVI (6)</title>
+  </programme>
+  <programme start="20260317082000 +0000" stop="20260317101500 +0000" channel="Prima Krimi SK.webtv.sk">
+    <title lang="id">Big Ben VI (4)</title>
+  </programme>
+  <programme start="20260317101500 +0000" stop="20260317122000 +0000" channel="Prima Krimi SK.webtv.sk">
+    <title lang="id">Julie Lescautová V (4)</title>
+  </programme>
+  <programme start="20260317122000 +0000" stop="20260317142000 +0000" channel="Prima Krimi SK.webtv.sk">
+    <title lang="id">Vraždy v Midsomeru X (5)</title>
+  </programme>
+  <programme start="20260317142000 +0000" stop="20260317152000 +0000" channel="Prima Krimi SK.webtv.sk">
+    <title lang="id">Prvních 48 hodin XVI (10)</title>
+  </programme>
+  <programme start="20260317152000 +0000" stop="20260317161500 +0000" channel="Prima Krimi SK.webtv.sk">
+    <title lang="id">Prvních 48 hodin XVI (11)</title>
+  </programme>
+  <programme start="20260317161500 +0000" stop="20260317171000 +0000" channel="Prima Krimi SK.webtv.sk">
+    <title lang="id">Prvních 48 hodin XVI (12)</title>
+  </programme>
+  <programme start="20260317171000 +0000" stop="20260317181000 +0000" channel="Prima Krimi SK.webtv.sk">
+    <title lang="id">Vraždy v Kitzbühelu X (7)</title>
+  </programme>
+  <programme start="20260317181000 +0000" stop="20260317191500 +0000" channel="Prima Krimi SK.webtv.sk">
+    <title lang="id">Vraždy v Kitzbühelu X (8)</title>
+  </programme>
+  <programme start="20260317191500 +0000" stop="20260317210500 +0000" channel="Prima Krimi SK.webtv.sk">
+    <title lang="id">Zločiny z vřesovišť: Přirozený výběr VII (1)</title>
+  </programme>
+  <programme start="20260317210500 +0000" stop="20260317220500 +0000" channel="Prima Krimi SK.webtv.sk">
+    <title lang="id">Prvních 48 hodin XVI (10)</title>
+  </programme>
+  <programme start="20260317220500 +0000" stop="20260317230000 +0000" channel="Prima Krimi SK.webtv.sk">
+    <title lang="id">Prvních 48 hodin XVI (11)</title>
   </programme>
   <programme start="20260316212500 +0000" stop="20260317000000 +0000" channel="Seznam.cz TV.webtv.sk">
     <title lang="id">Pád letu A800</title>
@@ -10338,6 +10671,216 @@
   </programme>
   <programme start="20260317224500 +0000" stop="20260317231000 +0000" channel="Nickelodeon.webtv.sk">
     <title lang="id">Spongebob v kalhotách XVI (329)</title>
+  </programme>
+  <programme start="20260316224500 +0000" stop="20260316231000 +0000" channel="Nicktoons.webtv.sk">
+    <title lang="id">Příběy Želv ninja I (10)</title>
+  </programme>
+  <programme start="20260316231000 +0000" stop="20260316233000 +0000" channel="Nicktoons.webtv.sk">
+    <title lang="id">Transformers: Pozemská jiskra I (19)</title>
+  </programme>
+  <programme start="20260316233000 +0000" stop="20260316235000 +0000" channel="Nicktoons.webtv.sk">
+    <title lang="id">Monster High I (4)</title>
+  </programme>
+  <programme start="20260316235000 +0000" stop="20260317001000 +0000" channel="Nicktoons.webtv.sk">
+    <title lang="id">Nej a Nejnejka I (16)</title>
+  </programme>
+  <programme start="20260317001000 +0000" stop="20260317003500 +0000" channel="Nicktoons.webtv.sk">
+    <title lang="id">Nej a Nejnejka I (17)</title>
+  </programme>
+  <programme start="20260317003500 +0000" stop="20260317005500 +0000" channel="Nicktoons.webtv.sk">
+    <title lang="id">Nej a Nejnejka I (18)</title>
+  </programme>
+  <programme start="20260317005500 +0000" stop="20260317011500 +0000" channel="Nicktoons.webtv.sk">
+    <title lang="id">Křečci z Křečkovic I (12)</title>
+  </programme>
+  <programme start="20260317011500 +0000" stop="20260317013500 +0000" channel="Nicktoons.webtv.sk">
+    <title lang="id">Shimmer a Shine IV (10)</title>
+  </programme>
+  <programme start="20260317013500 +0000" stop="20260317020000 +0000" channel="Nicktoons.webtv.sk">
+    <title lang="id">Rusty Nýtek I (8)</title>
+  </programme>
+  <programme start="20260317020000 +0000" stop="20260317022000 +0000" channel="Nicktoons.webtv.sk">
+    <title lang="id">Avatar: Legenda o Aangovi II (11)</title>
+  </programme>
+  <programme start="20260317022000 +0000" stop="20260317024500 +0000" channel="Nicktoons.webtv.sk">
+    <title lang="id">Spongebob v kalhotách X (211)</title>
+  </programme>
+  <programme start="20260317024500 +0000" stop="20260317025500 +0000" channel="Nicktoons.webtv.sk">
+    <title lang="id">Spongebob v kalhotách VI (105)</title>
+  </programme>
+  <programme start="20260317025500 +0000" stop="20260317031500 +0000" channel="Nicktoons.webtv.sk">
+    <title lang="id">Spongebob v kalhotách X (212)</title>
+  </programme>
+  <programme start="20260317031500 +0000" stop="20260317033500 +0000" channel="Nicktoons.webtv.sk">
+    <title lang="id">Spongebob v kalhotách X (213)</title>
+  </programme>
+  <programme start="20260317033500 +0000" stop="20260317040000 +0000" channel="Nicktoons.webtv.sk">
+    <title lang="id">Spongebob v kalhotách X (214)</title>
+  </programme>
+  <programme start="20260317040000 +0000" stop="20260317042000 +0000" channel="Nicktoons.webtv.sk">
+    <title lang="id">Spongebob v kalhotách VIII (153)</title>
+  </programme>
+  <programme start="20260317042000 +0000" stop="20260317044500 +0000" channel="Nicktoons.webtv.sk">
+    <title lang="id">Spongebob v kalhotách VIII (154)</title>
+  </programme>
+  <programme start="20260317044500 +0000" stop="20260317050500 +0000" channel="Nicktoons.webtv.sk">
+    <title lang="id">Spongebob v kalhotách VIII (155)</title>
+  </programme>
+  <programme start="20260317050500 +0000" stop="20260317052000 +0000" channel="Nicktoons.webtv.sk">
+    <title lang="id">Spongebob v kalhotách IX (188)</title>
+  </programme>
+  <programme start="20260317052000 +0000" stop="20260317054000 +0000" channel="Nicktoons.webtv.sk">
+    <title lang="id">Spongebob v kalhotách VIII (171)</title>
+  </programme>
+  <programme start="20260317054000 +0000" stop="20260317060000 +0000" channel="Nicktoons.webtv.sk">
+    <title lang="id">Korálový tábor: Spongebob na dně mládí I (21)</title>
+  </programme>
+  <programme start="20260317060000 +0000" stop="20260317061500 +0000" channel="Nicktoons.webtv.sk">
+    <title lang="id">Korálový tábor: Spongebob na dně mládí I (20)</title>
+  </programme>
+  <programme start="20260317061500 +0000" stop="20260317063500 +0000" channel="Nicktoons.webtv.sk">
+    <title lang="id">Supr čupr králíčci II (12)</title>
+  </programme>
+  <programme start="20260317063500 +0000" stop="20260317070000 +0000" channel="Nicktoons.webtv.sk">
+    <title lang="id">Casagrandovi II (3)</title>
+  </programme>
+  <programme start="20260317070000 +0000" stop="20260317072000 +0000" channel="Nicktoons.webtv.sk">
+    <title lang="id">Casagrandovi II (4)</title>
+  </programme>
+  <programme start="20260317072000 +0000" stop="20260317074500 +0000" channel="Nicktoons.webtv.sk">
+    <title lang="id">Hlasiťákovi V (7)</title>
+  </programme>
+  <programme start="20260317074500 +0000" stop="20260317080500 +0000" channel="Nicktoons.webtv.sk">
+    <title lang="id">Hlasiťákovi V (11)</title>
+  </programme>
+  <programme start="20260317080500 +0000" stop="20260317082500 +0000" channel="Nicktoons.webtv.sk">
+    <title lang="id">Hlasiťákovi V (13)</title>
+  </programme>
+  <programme start="20260317082500 +0000" stop="20260317085000 +0000" channel="Nicktoons.webtv.sk">
+    <title lang="id">Příběhy Želv Ninja II (6)</title>
+  </programme>
+  <programme start="20260317085000 +0000" stop="20260317091000 +0000" channel="Nicktoons.webtv.sk">
+    <title lang="id">Show Patricka Hvězdice I (5)</title>
+  </programme>
+  <programme start="20260317091000 +0000" stop="20260317092500 +0000" channel="Nicktoons.webtv.sk">
+    <title lang="id">Show Patricka Hvězdice I (9)</title>
+  </programme>
+  <programme start="20260317092500 +0000" stop="20260317094500 +0000" channel="Nicktoons.webtv.sk">
+    <title lang="id">Korálový tábor: Spongebob na dně mládí I (11)</title>
+  </programme>
+  <programme start="20260317094500 +0000" stop="20260317101000 +0000" channel="Nicktoons.webtv.sk">
+    <title lang="id">Korálový tábor: Spongebob na dně mládí I (14)</title>
+  </programme>
+  <programme start="20260317101000 +0000" stop="20260317103000 +0000" channel="Nicktoons.webtv.sk">
+    <title lang="id">Hlasiťákovi III (3)</title>
+  </programme>
+  <programme start="20260317103000 +0000" stop="20260317105000 +0000" channel="Nicktoons.webtv.sk">
+    <title lang="id">Hlasiťákovi III (4)</title>
+  </programme>
+  <programme start="20260317105000 +0000" stop="20260317111500 +0000" channel="Nicktoons.webtv.sk">
+    <title lang="id">Hlasiťákovi III (5)</title>
+  </programme>
+  <programme start="20260317111500 +0000" stop="20260317113000 +0000" channel="Nicktoons.webtv.sk">
+    <title lang="id">Spongebob v kalhotách X (211)</title>
+  </programme>
+  <programme start="20260317113000 +0000" stop="20260317115000 +0000" channel="Nicktoons.webtv.sk">
+    <title lang="id">Spongebob v kalhotách VI (108)</title>
+  </programme>
+  <programme start="20260317115000 +0000" stop="20260317121500 +0000" channel="Nicktoons.webtv.sk">
+    <title lang="id">Show Patricka Hvězdice I (6)</title>
+  </programme>
+  <programme start="20260317121500 +0000" stop="20260317123500 +0000" channel="Nicktoons.webtv.sk">
+    <title lang="id">Patrikova hvězdná show II (12)</title>
+  </programme>
+  <programme start="20260317123500 +0000" stop="20260317125500 +0000" channel="Nicktoons.webtv.sk">
+    <title lang="id">Casagrandovi II (4)</title>
+  </programme>
+  <programme start="20260317125500 +0000" stop="20260317130500 +0000" channel="Nicktoons.webtv.sk">
+    <title lang="id">Casagrandovi III (15)</title>
+  </programme>
+  <programme start="20260317130500 +0000" stop="20260317133000 +0000" channel="Nicktoons.webtv.sk">
+    <title lang="id">Supr čupr králíčci II (10)</title>
+  </programme>
+  <programme start="20260317133000 +0000" stop="20260317135000 +0000" channel="Nicktoons.webtv.sk">
+    <title lang="id">Korálový tábor: Spongebob na dně mládí I (26)</title>
+  </programme>
+  <programme start="20260317135000 +0000" stop="20260317140500 +0000" channel="Nicktoons.webtv.sk">
+    <title lang="id">Show Patricka Hvězdice I (6)</title>
+  </programme>
+  <programme start="20260317140500 +0000" stop="20260317142500 +0000" channel="Nicktoons.webtv.sk">
+    <title lang="id">Patrikova hvězdná show I (15)</title>
+  </programme>
+  <programme start="20260317142500 +0000" stop="20260317145000 +0000" channel="Nicktoons.webtv.sk">
+    <title lang="id">Spongebob v kalhotách XI (237)</title>
+  </programme>
+  <programme start="20260317145000 +0000" stop="20260317150000 +0000" channel="Nicktoons.webtv.sk">
+    <title lang="id">Spongebob v kalhotách XIII (270)</title>
+  </programme>
+  <programme start="20260317150000 +0000" stop="20260317152000 +0000" channel="Nicktoons.webtv.sk">
+    <title lang="id">Příběhy Želv Ninja II (6)</title>
+  </programme>
+  <programme start="20260317152000 +0000" stop="20260317154500 +0000" channel="Nicktoons.webtv.sk">
+    <title lang="id">Kouzelní kmotříčci: Nové přání I (14)</title>
+  </programme>
+  <programme start="20260317154500 +0000" stop="20260317160500 +0000" channel="Nicktoons.webtv.sk">
+    <title lang="id">Hlasiťákovi VIII (9)</title>
+  </programme>
+  <programme start="20260317160500 +0000" stop="20260317163000 +0000" channel="Nicktoons.webtv.sk">
+    <title lang="id">Hlasiťákovi VIII (10)</title>
+  </programme>
+  <programme start="20260317163000 +0000" stop="20260317165000 +0000" channel="Nicktoons.webtv.sk">
+    <title lang="id">Show Patricka Hvězdice I (9)</title>
+  </programme>
+  <programme start="20260317165000 +0000" stop="20260317170500 +0000" channel="Nicktoons.webtv.sk">
+    <title lang="id">Show Patricka Hvězdice I (20)</title>
+  </programme>
+  <programme start="20260317170500 +0000" stop="20260317172500 +0000" channel="Nicktoons.webtv.sk">
+    <title lang="id">Spongebob v kalhotách X (207)</title>
+  </programme>
+  <programme start="20260317172500 +0000" stop="20260317175000 +0000" channel="Nicktoons.webtv.sk">
+    <title lang="id">Spongebob v kalhotách X (208)</title>
+  </programme>
+  <programme start="20260317175000 +0000" stop="20260317181500 +0000" channel="Nicktoons.webtv.sk">
+    <title lang="id">Spongebob v kalhotách X (209)</title>
+  </programme>
+  <programme start="20260317181500 +0000" stop="20260317183500 +0000" channel="Nicktoons.webtv.sk">
+    <title lang="id">Spongebob v kalhotách X (210)</title>
+  </programme>
+  <programme start="20260317183500 +0000" stop="20260317190000 +0000" channel="Nicktoons.webtv.sk">
+    <title lang="id">Příhody Děsného kluka I (8)</title>
+  </programme>
+  <programme start="20260317190000 +0000" stop="20260317192500 +0000" channel="Nicktoons.webtv.sk">
+    <title lang="id">Příběhy Želv Ninja II (6)</title>
+  </programme>
+  <programme start="20260317192500 +0000" stop="20260317194500 +0000" channel="Nicktoons.webtv.sk">
+    <title lang="id">Kouzelní kmotříčci IX (1)</title>
+  </programme>
+  <programme start="20260317194500 +0000" stop="20260317200500 +0000" channel="Nicktoons.webtv.sk">
+    <title lang="id">Kouzelní kmotříčci IX (2)</title>
+  </programme>
+  <programme start="20260317200500 +0000" stop="20260317203000 +0000" channel="Nicktoons.webtv.sk">
+    <title lang="id">Tučňáci z Madagaskaru II (15)</title>
+  </programme>
+  <programme start="20260317203000 +0000" stop="20260317205500 +0000" channel="Nicktoons.webtv.sk">
+    <title lang="id">Tučňáci z Madagaskaru II (16)</title>
+  </programme>
+  <programme start="20260317205500 +0000" stop="20260317211500 +0000" channel="Nicktoons.webtv.sk">
+    <title lang="id">Kung Fu Panda: Legendy o mazáctví II (19)</title>
+  </programme>
+  <programme start="20260317211500 +0000" stop="20260317214000 +0000" channel="Nicktoons.webtv.sk">
+    <title lang="id">Avatar: Legenda o Aangovi III (12)</title>
+  </programme>
+  <programme start="20260317214000 +0000" stop="20260317220000 +0000" channel="Nicktoons.webtv.sk">
+    <title lang="id">Spongebob v kalhotách VII (145)</title>
+  </programme>
+  <programme start="20260317220000 +0000" stop="20260317222500 +0000" channel="Nicktoons.webtv.sk">
+    <title lang="id">Spongebob v kalhotách VII (146)</title>
+  </programme>
+  <programme start="20260317222500 +0000" stop="20260317225000 +0000" channel="Nicktoons.webtv.sk">
+    <title lang="id">Příběy Želv ninja I (11)</title>
+  </programme>
+  <programme start="20260317225000 +0000" stop="20260317231000 +0000" channel="Nicktoons.webtv.sk">
+    <title lang="id">Příběy Želv ninja I (12)</title>
   </programme>
   <programme start="20260316230000 +0000" stop="20260316232000 +0000" channel="Nick Jr.webtv.sk">
     <title lang="id">Barbapapa a jeho rodinka I (23)</title>
@@ -18936,117 +19479,6 @@
   </programme>
   <programme start="20260317225500 +0000" stop="20260317230000 +0000" channel="Rai Uno.webtv.sk">
     <title lang="id">Tg1</title>
-  </programme>
-  <programme start="20260316230000 +0000" stop="20260317000000 +0000" channel="Rai Tre.webtv.sk">
-    <title lang="id">Tg3 Linea Notte</title>
-  </programme>
-  <programme start="20260317000000 +0000" stop="20260317000500 +0000" channel="Rai Tre.webtv.sk">
-    <title lang="id">Meteo 3</title>
-  </programme>
-  <programme start="20260317000500 +0000" stop="20260317001500 +0000" channel="Rai Tre.webtv.sk">
-    <title lang="id">Parlamento Magazine</title>
-  </programme>
-  <programme start="20260317001500 +0000" stop="20260317010000 +0000" channel="Rai Tre.webtv.sk">
-    <title lang="id">O anche no</title>
-  </programme>
-  <programme start="20260317010000 +0000" stop="20260317013500 +0000" channel="Rai Tre.webtv.sk">
-    <title lang="id">Sorgente di vita</title>
-  </programme>
-  <programme start="20260317013500 +0000" stop="20260317050000 +0000" channel="Rai Tre.webtv.sk">
-    <title lang="id">RaiNews</title>
-  </programme>
-  <programme start="20260317050000 +0000" stop="20260317060000 +0000" channel="Rai Tre.webtv.sk">
-    <title lang="id">RaiNews</title>
-  </programme>
-  <programme start="20260317060000 +0000" stop="20260317063000 +0000" channel="Rai Tre.webtv.sk">
-    <title lang="id">TGR Buongiorno Italia</title>
-  </programme>
-  <programme start="20260317063000 +0000" stop="20260317070000 +0000" channel="Rai Tre.webtv.sk">
-    <title lang="id">TGR Buongiorno Regione</title>
-  </programme>
-  <programme start="20260317070000 +0000" stop="20260317084500 +0000" channel="Rai Tre.webtv.sk">
-    <title lang="id">Agora</title>
-  </programme>
-  <programme start="20260317084500 +0000" stop="20260317094000 +0000" channel="Rai Tre.webtv.sk">
-    <title lang="id">Re Start</title>
-  </programme>
-  <programme start="20260317094000 +0000" stop="20260317095500 +0000" channel="Rai Tre.webtv.sk">
-    <title lang="id">Referendum 2026</title>
-  </programme>
-  <programme start="20260317095500 +0000" stop="20260317105500 +0000" channel="Rai Tre.webtv.sk">
-    <title lang="id">Elisir</title>
-  </programme>
-  <programme start="20260317105500 +0000" stop="20260317110000 +0000" channel="Rai Tre.webtv.sk">
-    <title lang="id">Meteo 3</title>
-  </programme>
-  <programme start="20260317110000 +0000" stop="20260317112500 +0000" channel="Rai Tre.webtv.sk">
-    <title lang="id">Tg3</title>
-  </programme>
-  <programme start="20260317112500 +0000" stop="20260317115000 +0000" channel="Rai Tre.webtv.sk">
-    <title lang="id">TG3 Fuori TG</title>
-  </programme>
-  <programme start="20260317115000 +0000" stop="20260317122000 +0000" channel="Rai Tre.webtv.sk">
-    <title lang="id">Quante storie</title>
-  </programme>
-  <programme start="20260317122000 +0000" stop="20260317130000 +0000" channel="Rai Tre.webtv.sk">
-    <title lang="id">Passato e Presente</title>
-  </programme>
-  <programme start="20260317130000 +0000" stop="20260317131900 +0000" channel="Rai Tre.webtv.sk">
-    <title lang="id">Tg Regione</title>
-  </programme>
-  <programme start="20260317131900 +0000" stop="20260317132000 +0000" channel="Rai Tre.webtv.sk">
-    <title lang="id">Tg Regione Meteo</title>
-  </programme>
-  <programme start="20260317132000 +0000" stop="20260317134900 +0000" channel="Rai Tre.webtv.sk">
-    <title lang="id">Tg3</title>
-  </programme>
-  <programme start="20260317134900 +0000" stop="20260317135000 +0000" channel="Rai Tre.webtv.sk">
-    <title lang="id">Meteo 3</title>
-  </programme>
-  <programme start="20260317135000 +0000" stop="20260317140500 +0000" channel="Rai Tre.webtv.sk">
-    <title lang="id">TGR Leonardo</title>
-  </programme>
-  <programme start="20260317140500 +0000" stop="20260317141500 +0000" channel="Rai Tre.webtv.sk">
-    <title lang="id">TGR Piazza Affari</title>
-  </programme>
-  <programme start="20260317141500 +0000" stop="20260317142000 +0000" channel="Rai Tre.webtv.sk">
-    <title lang="id">TG3 LIS</title>
-  </programme>
-  <programme start="20260317142000 +0000" stop="20260317142500 +0000" channel="Rai Tre.webtv.sk">
-    <title lang="id">Tg Parlamento</title>
-  </programme>
-  <programme start="20260317142500 +0000" stop="20260317143500 +0000" channel="Rai Tre.webtv.sk">
-    <title lang="id">Speciale TGR - Giornate FAI di primavera</title>
-  </programme>
-  <programme start="20260317143500 +0000" stop="20260317153000 +0000" channel="Rai Tre.webtv.sk">
-    <title lang="id">Api Regine</title>
-  </programme>
-  <programme start="20260317153000 +0000" stop="20260317180000 +0000" channel="Rai Tre.webtv.sk">
-    <title lang="id">Geo</title>
-  </programme>
-  <programme start="20260317180000 +0000" stop="20260317183000 +0000" channel="Rai Tre.webtv.sk">
-    <title lang="id">Tg3</title>
-  </programme>
-  <programme start="20260317183000 +0000" stop="20260317185100 +0000" channel="Rai Tre.webtv.sk">
-    <title lang="id">Tg Regione</title>
-  </programme>
-  <programme start="20260317185100 +0000" stop="20260317190000 +0000" channel="Rai Tre.webtv.sk">
-    <title lang="id">Tg Regione Meteo</title>
-  </programme>
-  <programme start="20260317190000 +0000" stop="20260317191000 +0000" channel="Rai Tre.webtv.sk">
-    <title lang="id">Blob</title>
-  </programme>
-  <programme start="20260317191000 +0000" stop="20260317194000 +0000" channel="Rai Tre.webtv.sk">
-    <title lang="id">Il Provinciale</title>
-  </programme>
-  <programme start="20260317194000 +0000" stop="20260317195000 +0000" channel="Rai Tre.webtv.sk">
-    <title lang="id">Il cavallo e la torre</title>
-  </programme>
-  <programme start="20260317195000 +0000" stop="20260317202000 +0000" channel="Rai Tre.webtv.sk">
-    <title lang="id">Un posto al sole XXX</title>
-  </programme>
-  <programme start="20260317202000 +0000" stop="20260317230000 +0000" channel="Rai Tre.webtv.sk">
-    <title lang="id">FarWest</title>
   </programme>
   <programme start="20260316230000 +0000" stop="20260316233000 +0000" channel="CGTN.webtv.sk">
     <title lang="id">The Heat</title>
