@@ -2587,13 +2587,13 @@ Warning: Undefined array key "et" in /usr/home/ManusiaBiasa/domains/manusiabiasa
 <programme start="20260315135000 +0000" stop="20260315160000 +0000" channel="Sky Sport Austria 2 HD.skyde">
     <title>Live PL: Manchester United - Aston Villa, 30. Spieltag</title>
 </programme>
-<programme start="20260315160000 +0000" stop="20260315190000 +0000" channel="Sky Sport Austria 2 HD.skyde">
+<programme start="20260315160000 +0000" stop="20260315183000 +0000" channel="Sky Sport Austria 2 HD.skyde">
     <title>Live PL: FC Liverpool - Tottenham Hotspur, Match of the Week, 30. Spieltag</title>
 </programme>
 <programme start="20260315204000 +0000" stop="20260315210000 +0000" channel="Sky Sport Austria 2 HD.skyde">
     <title>Es folgt Eishockey: NHL</title>
 </programme>
-<programme start="20260315210000 +0000" stop="20260316083000 +0000" channel="Sky Sport Austria 2 HD.skyde">
+<programme start="20260315210000 +0000" stop="20260316000000 +0000" channel="Sky Sport Austria 2 HD.skyde">
     <title>Live NHL: San Jose Sharks @ Ottawa Senators</title>
 </programme>
 <programme start="20260314234500 +0000" stop="20260315004500 +0000" channel="Sky Sport Bundesliga HD.skyde">
@@ -2695,7 +2695,7 @@ Warning: Undefined array key "et" in /usr/home/ManusiaBiasa/domains/manusiabiasa
 <programme start="20260315170000 +0000" stop="20260315183000 +0000" channel="Sky Sport Bundesliga 1 HD.skyde">
     <title>Live BL: Sky90 - Die Fußballdebatte</title>
 </programme>
-<programme start="20260315183000 +0000" stop="20260315193000 +0000" channel="Sky Sport Bundesliga 1 HD.skyde">
+<programme start="20260315183000 +0000" stop="20260315191500 +0000" channel="Sky Sport Bundesliga 1 HD.skyde">
     <title>Live BL: Highlights XXL: SCF - FCU, 26. Spieltag</title>
 </programme>
 <programme start="20260315114000 +0000" stop="20260315120000 +0000" channel="Sky Sport Bundesliga 2 HD.skyde">
@@ -2725,7 +2725,7 @@ Warning: Undefined array key "et" in /usr/home/ManusiaBiasa/domains/manusiabiasa
 <programme start="20260315114000 +0000" stop="20260315120000 +0000" channel="Sky Sport Bundesliga 4 HD.skyde">
     <title>Es folgt: Live 2. Bundesliga</title>
 </programme>
-<programme start="20260315120000 +0000" stop="20260315143000 +0000" channel="Sky Sport Bundesliga 4 HD.skyde">
+<programme start="20260315120000 +0000" stop="20260315150000 +0000" channel="Sky Sport Bundesliga 4 HD.skyde">
     <title>Live 2. BL: Dynamo Dresden - Preußen Münster, 26. Spieltag</title>
 </programme>
 <programme start="20260315114000 +0000" stop="20260315120000 +0000" channel="Sky Sport Bundesliga 5 HD.skyde">
@@ -3106,13 +3106,13 @@ Warning: Undefined array key "et" in /usr/home/ManusiaBiasa/domains/manusiabiasa
 <programme start="20260315053000 +0000" stop="20260315073000 +0000" channel="Sky Sport Tennis HD.skyde">
     <title>ATP 1000: C. Alcaraz (ESP) - D. Medvedev, BNP Paribas Open in Indian Wells, Kalifornien (USA), Halbfinale 2</title>
 </programme>
-<programme start="20260315073000 +0000" stop="20260315100000 +0000" channel="Sky Sport Tennis HD.skyde">
+<programme start="20260315073000 +0000" stop="20260315093000 +0000" channel="Sky Sport Tennis HD.skyde">
     <title>ATP 1000: G. Andreozzi (ARG)/M. Guinard (FRA) - A. Rinderknech (FRA)/V. Vacherot (MON), BNP Paribas Open in Indian Wells, Kalifornien (USA), Doppelfinale</title>
 </programme>
-<programme start="20260315100000 +0000" stop="20260315103000 +0000" channel="Sky Sport Tennis HD.skyde">
+<programme start="20260315093000 +0000" stop="20260315100000 +0000" channel="Sky Sport Tennis HD.skyde">
     <title>ATP: This Week</title>
 </programme>
-<programme start="20260315103000 +0000" stop="20260315113000 +0000" channel="Sky Sport Tennis HD.skyde">
+<programme start="20260315100000 +0000" stop="20260315110000 +0000" channel="Sky Sport Tennis HD.skyde">
     <title>ATP 500: Review Acapulco</title>
 </programme>
 <programme start="20260315113000 +0000" stop="20260315133000 +0000" channel="Sky Sport Tennis HD.skyde">
@@ -3121,10 +3121,10 @@ Warning: Undefined array key "et" in /usr/home/ManusiaBiasa/domains/manusiabiasa
 <programme start="20260315133000 +0000" stop="20260315153000 +0000" channel="Sky Sport Tennis HD.skyde">
     <title>ATP 1000: C. Alcaraz (ESP) - D. Medvedev, BNP Paribas Open in Indian Wells, Kalifornien (USA), Halbfinale 2</title>
 </programme>
-<programme start="20260315153000 +0000" stop="20260315155000 +0000" channel="Sky Sport Tennis HD.skyde">
+<programme start="20260315153000 +0000" stop="20260315154000 +0000" channel="Sky Sport Tennis HD.skyde">
     <title>ATP &amp; WTA: Best Shots 2025</title>
 </programme>
-<programme start="20260315155000 +0000" stop="20260315175000 +0000" channel="Sky Sport Tennis HD.skyde">
+<programme start="20260315154000 +0000" stop="20260315175000 +0000" channel="Sky Sport Tennis HD.skyde">
     <title>WTA 1000: E. Rybakina (KAZ) - E. Svitolina (UKR), BNP Paribas Open in Indian Wells, Kalifornien (USA), Halbfinale 2</title>
 </programme>
 <programme start="20260315175000 +0000" stop="20260315203000 +0000" channel="Sky Sport Tennis HD.skyde">
@@ -3134,7 +3134,7 @@ Warning: Undefined array key "et" in /usr/home/ManusiaBiasa/domains/manusiabiasa
     <title>ATP &amp; WTA: Best Shots 2025</title>
 </programme>
 <programme start="20260315205000 +0000" stop="20260315233000 +0000" channel="Sky Sport Tennis HD.skyde">
-    <title>Live ATP 1000: Finale, BNP Paribas Open in Indian Wells, Kalifornien (USA), Finale</title>
+    <title>Live ATP 1000: J. Sinner (ITA) - D. Medvedev, BNP Paribas Open in Indian Wells, Kalifornien (USA), Finale</title>
 </programme>
 <programme start="20260315003000 +0000" stop="20260315010000 +0000" channel="Sky Sport Top Event HD.skyde">
     <title>ATP: This Week</title>
