@@ -4561,60 +4561,6 @@
   <programme start="20260317225500 +0000" stop="20260317233500 +0000" channel="Kino Barrandov.webtv.sk">
     <title lang="id">Babinec</title>
   </programme>
-  <programme start="20260316230000 +0000" stop="20260317030000 +0000" channel="Barrandov Krimi.webtv.sk">
-    <title lang="id">Intim s Heidi Janků</title>
-  </programme>
-  <programme start="20260317030000 +0000" stop="20260317033000 +0000" channel="Barrandov Krimi.webtv.sk">
-    <title lang="id">Ostříháno</title>
-  </programme>
-  <programme start="20260317033000 +0000" stop="20260317050000 +0000" channel="Barrandov Krimi.webtv.sk">
-    <title lang="id">Na plac!</title>
-  </programme>
-  <programme start="20260317050000 +0000" stop="20260317051000 +0000" channel="Barrandov Krimi.webtv.sk">
-    <title lang="id">Co bude dnes k večeři?</title>
-  </programme>
-  <programme start="20260317051000 +0000" stop="20260317062000 +0000" channel="Barrandov Krimi.webtv.sk">
-    <title lang="id">Záchranáři</title>
-  </programme>
-  <programme start="20260317062000 +0000" stop="20260317072000 +0000" channel="Barrandov Krimi.webtv.sk">
-    <title lang="id">Šťastná 7</title>
-  </programme>
-  <programme start="20260317072000 +0000" stop="20260317122500 +0000" channel="Barrandov Krimi.webtv.sk">
-    <title lang="id">Klenot TV</title>
-  </programme>
-  <programme start="20260317122500 +0000" stop="20260317133000 +0000" channel="Barrandov Krimi.webtv.sk">
-    <title lang="id">Soudkyně Barbara</title>
-  </programme>
-  <programme start="20260317133000 +0000" stop="20260317143500 +0000" channel="Barrandov Krimi.webtv.sk">
-    <title lang="id">Soudce Alexandr</title>
-  </programme>
-  <programme start="20260317143500 +0000" stop="20260317155000 +0000" channel="Barrandov Krimi.webtv.sk">
-    <title lang="id">Soudkyně Barbara</title>
-  </programme>
-  <programme start="20260317155000 +0000" stop="20260317165500 +0000" channel="Barrandov Krimi.webtv.sk">
-    <title lang="id">Soudce Alexandr</title>
-  </programme>
-  <programme start="20260317165500 +0000" stop="20260317180000 +0000" channel="Barrandov Krimi.webtv.sk">
-    <title lang="id">Záchranáři</title>
-  </programme>
-  <programme start="20260317180000 +0000" stop="20260317190500 +0000" channel="Barrandov Krimi.webtv.sk">
-    <title lang="id">Česká tajenka</title>
-  </programme>
-  <programme start="20260317190500 +0000" stop="20260317194000 +0000" channel="Barrandov Krimi.webtv.sk">
-    <title lang="id">Badatelé</title>
-  </programme>
-  <programme start="20260317194000 +0000" stop="20260317205000 +0000" channel="Barrandov Krimi.webtv.sk">
-    <title lang="id">Stopy života (19)</title>
-  </programme>
-  <programme start="20260317205000 +0000" stop="20260317214500 +0000" channel="Barrandov Krimi.webtv.sk">
-    <title lang="id">Policie Delta</title>
-  </programme>
-  <programme start="20260317214500 +0000" stop="20260317222500 +0000" channel="Barrandov Krimi.webtv.sk">
-    <title lang="id">Badatelé</title>
-  </programme>
-  <programme start="20260317222500 +0000" stop="20260318025500 +0000" channel="Barrandov Krimi.webtv.sk">
-    <title lang="id">Aféry - neuvěřitelné životní příběhy</title>
-  </programme>
   <programme start="20260316220500 +0000" stop="20260317001500 +0000" channel="A11.webtv.sk">
     <title lang="id">Dobrý večer s A11</title>
   </programme>
@@ -19479,6 +19425,117 @@
   </programme>
   <programme start="20260317225500 +0000" stop="20260317230000 +0000" channel="Rai Uno.webtv.sk">
     <title lang="id">Tg1</title>
+  </programme>
+  <programme start="20260316230000 +0000" stop="20260317000000 +0000" channel="Rai Tre.webtv.sk">
+    <title lang="id">Tg3 Linea Notte</title>
+  </programme>
+  <programme start="20260317000000 +0000" stop="20260317000500 +0000" channel="Rai Tre.webtv.sk">
+    <title lang="id">Meteo 3</title>
+  </programme>
+  <programme start="20260317000500 +0000" stop="20260317001500 +0000" channel="Rai Tre.webtv.sk">
+    <title lang="id">Parlamento Magazine</title>
+  </programme>
+  <programme start="20260317001500 +0000" stop="20260317010000 +0000" channel="Rai Tre.webtv.sk">
+    <title lang="id">O anche no</title>
+  </programme>
+  <programme start="20260317010000 +0000" stop="20260317013500 +0000" channel="Rai Tre.webtv.sk">
+    <title lang="id">Sorgente di vita</title>
+  </programme>
+  <programme start="20260317013500 +0000" stop="20260317050000 +0000" channel="Rai Tre.webtv.sk">
+    <title lang="id">RaiNews</title>
+  </programme>
+  <programme start="20260317050000 +0000" stop="20260317060000 +0000" channel="Rai Tre.webtv.sk">
+    <title lang="id">RaiNews</title>
+  </programme>
+  <programme start="20260317060000 +0000" stop="20260317063000 +0000" channel="Rai Tre.webtv.sk">
+    <title lang="id">TGR Buongiorno Italia</title>
+  </programme>
+  <programme start="20260317063000 +0000" stop="20260317070000 +0000" channel="Rai Tre.webtv.sk">
+    <title lang="id">TGR Buongiorno Regione</title>
+  </programme>
+  <programme start="20260317070000 +0000" stop="20260317084500 +0000" channel="Rai Tre.webtv.sk">
+    <title lang="id">Agora</title>
+  </programme>
+  <programme start="20260317084500 +0000" stop="20260317094000 +0000" channel="Rai Tre.webtv.sk">
+    <title lang="id">Re Start</title>
+  </programme>
+  <programme start="20260317094000 +0000" stop="20260317095500 +0000" channel="Rai Tre.webtv.sk">
+    <title lang="id">Referendum 2026</title>
+  </programme>
+  <programme start="20260317095500 +0000" stop="20260317105500 +0000" channel="Rai Tre.webtv.sk">
+    <title lang="id">Elisir</title>
+  </programme>
+  <programme start="20260317105500 +0000" stop="20260317110000 +0000" channel="Rai Tre.webtv.sk">
+    <title lang="id">Meteo 3</title>
+  </programme>
+  <programme start="20260317110000 +0000" stop="20260317112500 +0000" channel="Rai Tre.webtv.sk">
+    <title lang="id">Tg3</title>
+  </programme>
+  <programme start="20260317112500 +0000" stop="20260317115000 +0000" channel="Rai Tre.webtv.sk">
+    <title lang="id">TG3 Fuori TG</title>
+  </programme>
+  <programme start="20260317115000 +0000" stop="20260317122000 +0000" channel="Rai Tre.webtv.sk">
+    <title lang="id">Quante storie</title>
+  </programme>
+  <programme start="20260317122000 +0000" stop="20260317130000 +0000" channel="Rai Tre.webtv.sk">
+    <title lang="id">Passato e Presente</title>
+  </programme>
+  <programme start="20260317130000 +0000" stop="20260317131900 +0000" channel="Rai Tre.webtv.sk">
+    <title lang="id">Tg Regione</title>
+  </programme>
+  <programme start="20260317131900 +0000" stop="20260317132000 +0000" channel="Rai Tre.webtv.sk">
+    <title lang="id">Tg Regione Meteo</title>
+  </programme>
+  <programme start="20260317132000 +0000" stop="20260317134900 +0000" channel="Rai Tre.webtv.sk">
+    <title lang="id">Tg3</title>
+  </programme>
+  <programme start="20260317134900 +0000" stop="20260317135000 +0000" channel="Rai Tre.webtv.sk">
+    <title lang="id">Meteo 3</title>
+  </programme>
+  <programme start="20260317135000 +0000" stop="20260317140500 +0000" channel="Rai Tre.webtv.sk">
+    <title lang="id">TGR Leonardo</title>
+  </programme>
+  <programme start="20260317140500 +0000" stop="20260317141500 +0000" channel="Rai Tre.webtv.sk">
+    <title lang="id">TGR Piazza Affari</title>
+  </programme>
+  <programme start="20260317141500 +0000" stop="20260317142000 +0000" channel="Rai Tre.webtv.sk">
+    <title lang="id">TG3 LIS</title>
+  </programme>
+  <programme start="20260317142000 +0000" stop="20260317142500 +0000" channel="Rai Tre.webtv.sk">
+    <title lang="id">Tg Parlamento</title>
+  </programme>
+  <programme start="20260317142500 +0000" stop="20260317143500 +0000" channel="Rai Tre.webtv.sk">
+    <title lang="id">Speciale TGR - Giornate FAI di primavera</title>
+  </programme>
+  <programme start="20260317143500 +0000" stop="20260317153000 +0000" channel="Rai Tre.webtv.sk">
+    <title lang="id">Api Regine</title>
+  </programme>
+  <programme start="20260317153000 +0000" stop="20260317180000 +0000" channel="Rai Tre.webtv.sk">
+    <title lang="id">Geo</title>
+  </programme>
+  <programme start="20260317180000 +0000" stop="20260317183000 +0000" channel="Rai Tre.webtv.sk">
+    <title lang="id">Tg3</title>
+  </programme>
+  <programme start="20260317183000 +0000" stop="20260317185100 +0000" channel="Rai Tre.webtv.sk">
+    <title lang="id">Tg Regione</title>
+  </programme>
+  <programme start="20260317185100 +0000" stop="20260317190000 +0000" channel="Rai Tre.webtv.sk">
+    <title lang="id">Tg Regione Meteo</title>
+  </programme>
+  <programme start="20260317190000 +0000" stop="20260317191000 +0000" channel="Rai Tre.webtv.sk">
+    <title lang="id">Blob</title>
+  </programme>
+  <programme start="20260317191000 +0000" stop="20260317194000 +0000" channel="Rai Tre.webtv.sk">
+    <title lang="id">Il Provinciale</title>
+  </programme>
+  <programme start="20260317194000 +0000" stop="20260317195000 +0000" channel="Rai Tre.webtv.sk">
+    <title lang="id">Il cavallo e la torre</title>
+  </programme>
+  <programme start="20260317195000 +0000" stop="20260317202000 +0000" channel="Rai Tre.webtv.sk">
+    <title lang="id">Un posto al sole XXX</title>
+  </programme>
+  <programme start="20260317202000 +0000" stop="20260317230000 +0000" channel="Rai Tre.webtv.sk">
+    <title lang="id">FarWest</title>
   </programme>
   <programme start="20260316230000 +0000" stop="20260316233000 +0000" channel="CGTN.webtv.sk">
     <title lang="id">The Heat</title>

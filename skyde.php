@@ -2731,7 +2731,7 @@ Warning: Undefined array key "et" in /usr/home/ManusiaBiasa/domains/manusiabiasa
 <programme start="20260315114000 +0000" stop="20260315120000 +0000" channel="Sky Sport Bundesliga 5 HD.skyde">
     <title>Es folgt: Live 2. Bundesliga</title>
 </programme>
-<programme start="20260315120000 +0000" stop="20260315150000 +0000" channel="Sky Sport Bundesliga 5 HD.skyde">
+<programme start="20260315120000 +0000" stop="20260315143000 +0000" channel="Sky Sport Bundesliga 5 HD.skyde">
     <title>Live 2. BL: Multiview 26. Spieltag, Sonntag</title>
 </programme>
 <programme start="20260314230000 +0000" stop="20260315010000 +0000" channel="Sky Sport F1 HD.skyde">
@@ -2791,14 +2791,14 @@ Warning: Undefined array key "et" in /usr/home/ManusiaBiasa/domains/manusiabiasa
 <programme start="20260315153000 +0000" stop="20260315160000 +0000" channel="Sky Sport F1 HD.skyde">
     <title>F1: Pressekonferenz Rennen - GP China</title>
 </programme>
-<programme start="20260315160000 +0000" stop="20260315183000 +0000" channel="Sky Sport F1 HD.skyde">
-    <title>Live IndyCar: Java House Grand Prix of Arlington</title>
-</programme>
-<programme start="20260315183000 +0000" stop="20260315190000 +0000" channel="Sky Sport F1 HD.skyde">
+<programme start="20260315160000 +0000" stop="20260315163000 +0000" channel="Sky Sport F1 HD.skyde">
     <title>F1: Ted&#039;s Notebook: GP China</title>
 </programme>
-<programme start="20260315190000 +0000" stop="20260315193000 +0000" channel="Sky Sport F1 HD.skyde">
+<programme start="20260315163000 +0000" stop="20260315170000 +0000" channel="Sky Sport F1 HD.skyde">
     <title>F1: Rennen Kompakt - GP China</title>
+</programme>
+<programme start="20260315170000 +0000" stop="20260315193000 +0000" channel="Sky Sport F1 HD.skyde">
+    <title>Live IndyCar: Java House Grand Prix of Arlington</title>
 </programme>
 <programme start="20260315193000 +0000" stop="20260315213000 +0000" channel="Sky Sport F1 HD.skyde">
     <title>F1: Rennen - GP China</title>
@@ -2824,16 +2824,16 @@ Warning: Undefined array key "et" in /usr/home/ManusiaBiasa/domains/manusiabiasa
 <programme start="20260315003000 +0000" stop="20260315010000 +0000" channel="Sky Sport Golf HD.skyde">
     <title>Golf: Golfszene 2025 (5)</title>
 </programme>
-<programme start="20260315010000 +0000" stop="20260315060000 +0000" channel="Sky Sport Golf HD.skyde">
+<programme start="20260315010000 +0000" stop="20260315100000 +0000" channel="Sky Sport Golf HD.skyde">
     <title>Live LIV Golf: Singapur, 4. Tag auf Sentosa</title>
 </programme>
-<programme start="20260315060000 +0000" stop="20260315064500 +0000" channel="Sky Sport Golf HD.skyde">
+<programme start="20260315100000 +0000" stop="20260315104500 +0000" channel="Sky Sport Golf HD.skyde">
     <title>The Masters: A Champion&#039;s Dream - Jordan Spieth</title>
 </programme>
-<programme start="20260315064500 +0000" stop="20260315090000 +0000" channel="Sky Sport Golf HD.skyde">
+<programme start="20260315104500 +0000" stop="20260315130000 +0000" channel="Sky Sport Golf HD.skyde">
     <title>The Masters: 4. Tag 1997 in Augusta, Georgia (USA)</title>
 </programme>
-<programme start="20260315090000 +0000" stop="20260315140000 +0000" channel="Sky Sport Golf HD.skyde">
+<programme start="20260315130000 +0000" stop="20260315140000 +0000" channel="Sky Sport Golf HD.skyde">
     <title>Golf Ladies ET: Women&#039;s Australian Open, 4. Tag in Adelaide (Australien)</title>
 </programme>
 <programme start="20260315140000 +0000" stop="20260315160000 +0000" channel="Sky Sport Golf HD.skyde">
@@ -3106,13 +3106,13 @@ Warning: Undefined array key "et" in /usr/home/ManusiaBiasa/domains/manusiabiasa
 <programme start="20260315053000 +0000" stop="20260315073000 +0000" channel="Sky Sport Tennis HD.skyde">
     <title>ATP 1000: C. Alcaraz (ESP) - D. Medvedev, BNP Paribas Open in Indian Wells, Kalifornien (USA), Halbfinale 2</title>
 </programme>
-<programme start="20260315073000 +0000" stop="20260315093000 +0000" channel="Sky Sport Tennis HD.skyde">
+<programme start="20260315073000 +0000" stop="20260315100000 +0000" channel="Sky Sport Tennis HD.skyde">
     <title>ATP 1000: G. Andreozzi (ARG)/M. Guinard (FRA) - A. Rinderknech (FRA)/V. Vacherot (MON), BNP Paribas Open in Indian Wells, Kalifornien (USA), Doppelfinale</title>
 </programme>
-<programme start="20260315093000 +0000" stop="20260315100000 +0000" channel="Sky Sport Tennis HD.skyde">
+<programme start="20260315100000 +0000" stop="20260315103000 +0000" channel="Sky Sport Tennis HD.skyde">
     <title>ATP: This Week</title>
 </programme>
-<programme start="20260315100000 +0000" stop="20260315110000 +0000" channel="Sky Sport Tennis HD.skyde">
+<programme start="20260315103000 +0000" stop="20260315113000 +0000" channel="Sky Sport Tennis HD.skyde">
     <title>ATP 500: Review Acapulco</title>
 </programme>
 <programme start="20260315113000 +0000" stop="20260315133000 +0000" channel="Sky Sport Tennis HD.skyde">
@@ -3121,10 +3121,10 @@ Warning: Undefined array key "et" in /usr/home/ManusiaBiasa/domains/manusiabiasa
 <programme start="20260315133000 +0000" stop="20260315153000 +0000" channel="Sky Sport Tennis HD.skyde">
     <title>ATP 1000: C. Alcaraz (ESP) - D. Medvedev, BNP Paribas Open in Indian Wells, Kalifornien (USA), Halbfinale 2</title>
 </programme>
-<programme start="20260315153000 +0000" stop="20260315154000 +0000" channel="Sky Sport Tennis HD.skyde">
+<programme start="20260315153000 +0000" stop="20260315155000 +0000" channel="Sky Sport Tennis HD.skyde">
     <title>ATP &amp; WTA: Best Shots 2025</title>
 </programme>
-<programme start="20260315154000 +0000" stop="20260315175000 +0000" channel="Sky Sport Tennis HD.skyde">
+<programme start="20260315155000 +0000" stop="20260315175000 +0000" channel="Sky Sport Tennis HD.skyde">
     <title>WTA 1000: E. Rybakina (KAZ) - E. Svitolina (UKR), BNP Paribas Open in Indian Wells, Kalifornien (USA), Halbfinale 2</title>
 </programme>
 <programme start="20260315175000 +0000" stop="20260315203000 +0000" channel="Sky Sport Tennis HD.skyde">
@@ -3134,7 +3134,7 @@ Warning: Undefined array key "et" in /usr/home/ManusiaBiasa/domains/manusiabiasa
     <title>ATP &amp; WTA: Best Shots 2025</title>
 </programme>
 <programme start="20260315205000 +0000" stop="20260315233000 +0000" channel="Sky Sport Tennis HD.skyde">
-    <title>Live ATP 1000: J. Sinner (ITA) - D. Medvedev, BNP Paribas Open in Indian Wells, Kalifornien (USA), Finale</title>
+    <title>Live ATP 1000: Finale, BNP Paribas Open in Indian Wells, Kalifornien (USA), Finale</title>
 </programme>
 <programme start="20260315003000 +0000" stop="20260315010000 +0000" channel="Sky Sport Top Event HD.skyde">
     <title>ATP: This Week</title>
@@ -3259,7 +3259,7 @@ Warning: Undefined array key "et" in /usr/home/ManusiaBiasa/domains/manusiabiasa
 <programme start="20260315133000 +0000" stop="20260315135000 +0000" channel="Sky Sport 6 HD.skyde">
     <title>Es folgt: Live Premier League</title>
 </programme>
-<programme start="20260315135000 +0000" stop="20260315160000 +0000" channel="Sky Sport 6 HD.skyde">
+<programme start="20260315135000 +0000" stop="20260315163000 +0000" channel="Sky Sport 6 HD.skyde">
     <title>Live PL: Nottingham Forest - FC Fulham, 30. Spieltag</title>
 </programme>
 <programme start="20260314230500 +0000" stop="20260314235000 +0000" channel="SYFY HD.skyde">
