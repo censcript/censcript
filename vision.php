@@ -706,9 +706,6 @@
 <programme start="20260315003000 +0000" stop="20260315023000 +0000" channel="ANTV.vision">
 <title>Janji Inspektur Virat</title>
 </programme>
-<programme start="20260315023000 +0000" stop="20260315060000 +0000" channel="ANTV.vision">
-<title>Singham Again</title>
-</programme>
 <programme start="20260315060000 +0000" stop="20260315080000 +0000" channel="ANTV.vision">
 <title>Jhanak</title>
 </programme>
@@ -1496,5 +1493,8 @@
 <title>BTV</title>
 </programme>
 <programme start="20260316003000 +0000" stop="20260316011500 +0000" channel="BTV.vision">
+<title>BTV</title>
+</programme>
+<programme start="20260316011500 +0000" stop="20260316014500 +0000" channel="BTV.vision">
 <title>BTV</title>
 </programme>
