@@ -110,10 +110,6 @@
     <title>Football: Panathinaikos - Panetolikos</title>
     <desc>Live: Tidak</desc>
 </programme>
-<programme start="20260316033000 +0700" stop="20260316053000 +0700" channel="COSMOTE Sport 3 HD">
-    <title>Football: FC Porto - Moreirense (L)</title>
-    <desc>Live: Ya</desc>
-</programme>
 <programme start="20260316053000 +0700" stop="20260316073000 +0700" channel="COSMOTE Sport 3 HD">
     <title>Football: Panathinaikos - Panetolikos</title>
     <desc>Live: Tidak</desc>
@@ -178,9 +174,9 @@
     <title>Emirates FA Cup 2025-26 - Highlights</title>
     <desc>Live: Tidak</desc>
 </programme>
-<programme start="20260316023000 +0700" stop="20260316053000 +0700" channel="COSMOTE Sport 4 HD">
-    <title>Basketball: Milwaukee Bucks - Indiana Pacers (L)</title>
-    <desc>Live: Ya</desc>
+<programme start="20260317060000 +0700" stop="20260317080000 +0700" channel="COSMOTE Sport 3 HD">
+    <title>Football: Mansfield Town F.C. - Arsenal</title>
+    <desc>Live: Tidak</desc>
 </programme>
 <programme start="20260316053000 +0700" stop="20260316083000 +0700" channel="COSMOTE Sport 4 HD">
     <title>Basketball: Los Angeles Lakers - Denver Nuggets</title>
@@ -228,6 +224,10 @@
 </programme>
 <programme start="20260317033000 +0700" stop="20260317060000 +0700" channel="COSMOTE Sport 4 HD">
     <title>Basketball: Milwaukee Bucks - Indiana Pacers</title>
+    <desc>Live: Tidak</desc>
+</programme>
+<programme start="20260317060000 +0700" stop="20260317081000 +0700" channel="COSMOTE Sport 4 HD">
+    <title>Basketball: Karditsa - Alba Berlin</title>
     <desc>Live: Tidak</desc>
 </programme>
 <programme start="20260316045000 +0700" stop="20260316062000 +0700" channel="COSMOTE Sport 5 HD">
@@ -330,6 +330,10 @@
     <title>2026 Grand Prix Show</title>
     <desc>Live: Tidak</desc>
 </programme>
+<programme start="20260317063000 +0700" stop="20260317073500 +0700" channel="COSMOTE Sport 5 HD">
+    <title>Motorsports: Extreme E 2025</title>
+    <desc>Live: Tidak</desc>
+</programme>
 <programme start="20260316040000 +0700" stop="20260316063000 +0700" channel="COSMOTE Sport 6 HD">
     <title>Tennis: Daniil Medvedev - Jannik Sinner (L)</title>
     <desc>Live: Ya</desc>
@@ -392,6 +396,10 @@
 </programme>
 <programme start="20260317044000 +0700" stop="20260317062000 +0700" channel="COSMOTE Sport 6 HD">
     <title>Handball: MT Melsungen - VfL Gummersbach</title>
+    <desc>Live: Tidak</desc>
+</programme>
+<programme start="20260317062000 +0700" stop="20260317094000 +0700" channel="COSMOTE Sport 6 HD">
+    <title>Premier Padel Tour 2026</title>
     <desc>Live: Tidak</desc>
 </programme>
 <programme start="20260316050000 +0700" stop="20260316070000 +0700" channel="COSMOTE Sport 7 HD">
