@@ -9415,71 +9415,77 @@
 <programme start="20260315183000 +0000" stop="20260315190000 +0000" channel="tvOne.mncvision">
     <title>tvOne</title>
 </programme>
-<programme start="20260315190000 +0000" stop="20260315193000 +0000" channel="tvOne.mncvision">
-    <title>tvOne</title>
+<programme start="20260315190000 +0000" stop="20260315203000 +0000" channel="tvOne.mncvision">
+    <title>Breaking News</title>
 </programme>
-<programme start="20260315193000 +0000" stop="20260315210000 +0000" channel="tvOne.mncvision">
-    <title>tvOne</title>
-</programme>
-<programme start="20260315210000 +0000" stop="20260315213000 +0000" channel="tvOne.mncvision">
-    <title>tvOne</title>
+<programme start="20260315203000 +0000" stop="20260315213000 +0000" channel="tvOne.mncvision">
+    <title>Indahnya Ramadan</title>
 </programme>
 <programme start="20260315213000 +0000" stop="20260315230000 +0000" channel="tvOne.mncvision">
-    <title>tvOne</title>
+    <title>Kabar Pagi (L)</title>
 </programme>
 <programme start="20260315230000 +0000" stop="20260315233000 +0000" channel="tvOne.mncvision">
-    <title>tvOne</title>
+    <title>Kabar Arena Pagi (L)</title>
 </programme>
-<programme start="20260315233000 +0000" stop="20260316010000 +0000" channel="tvOne.mncvision">
-    <title>tvOne</title>
+<programme start="20260315233000 +0000" stop="20260316013000 +0000" channel="tvOne.mncvision">
+    <title>Apa Kabar Indonesia Pagi (L)</title>
 </programme>
-<programme start="20260316010000 +0000" stop="20260316020000 +0000" channel="tvOne.mncvision">
-    <title>tvOne</title>
+<programme start="20260316013000 +0000" stop="20260316023000 +0000" channel="tvOne.mncvision">
+    <title>Breaking News</title>
 </programme>
-<programme start="20260316020000 +0000" stop="20260316023000 +0000" channel="tvOne.mncvision">
-    <title>tvOne</title>
+<programme start="20260316023000 +0000" stop="20260316031500 +0000" channel="tvOne.mncvision">
+    <title>Pagi-Pagi Seru (L)</title>
 </programme>
-<programme start="20260316023000 +0000" stop="20260316030000 +0000" channel="tvOne.mncvision">
-    <title>tvOne</title>
-</programme>
-<programme start="20260316030000 +0000" stop="20260316033000 +0000" channel="tvOne.mncvision">
-    <title>tvOne</title>
+<programme start="20260316031500 +0000" stop="20260316033000 +0000" channel="tvOne.mncvision">
+    <title>Tafakur: Bunda Munifah</title>
 </programme>
 <programme start="20260316033000 +0000" stop="20260316040000 +0000" channel="tvOne.mncvision">
-    <title>tvOne</title>
+    <title>Metropolitan (L)</title>
 </programme>
 <programme start="20260316040000 +0000" stop="20260316053000 +0000" channel="tvOne.mncvision">
-    <title>tvOne</title>
+    <title>Kabar Siang (L)</title>
 </programme>
-<programme start="20260316053000 +0000" stop="20260316070000 +0000" channel="tvOne.mncvision">
-    <title>tvOne</title>
+<programme start="20260316053000 +0000" stop="20260316063000 +0000" channel="tvOne.mncvision">
+    <title>Apa Kabar Indonesia Siang (L)</title>
 </programme>
-<programme start="20260316070000 +0000" stop="20260316073000 +0000" channel="tvOne.mncvision">
-    <title>tvOne</title>
+<programme start="20260316063000 +0000" stop="20260316070000 +0000" channel="tvOne.mncvision">
+    <title>Kabar Merah Putih (L)</title>
 </programme>
-<programme start="20260316073000 +0000" stop="20260316080000 +0000" channel="tvOne.mncvision">
-    <title>tvOne</title>
+<programme start="20260316070000 +0000" stop="20260316071500 +0000" channel="tvOne.mncvision">
+    <title>Berita Utama Kriminal (L)</title>
 </programme>
-<programme start="20260316080000 +0000" stop="20260316090000 +0000" channel="tvOne.mncvision">
-    <title>tvOne</title>
+<programme start="20260316071500 +0000" stop="20260316073000 +0000" channel="tvOne.mncvision">
+    <title>Hikmah Ramadan: Kemenag</title>
 </programme>
-<programme start="20260316090000 +0000" stop="20260316110000 +0000" channel="tvOne.mncvision">
-    <title>tvOne</title>
+<programme start="20260316073000 +0000" stop="20260316090000 +0000" channel="tvOne.mncvision">
+    <title>Damai Indonesiaku Ramadan</title>
+</programme>
+<programme start="20260316090000 +0000" stop="20260316104500 +0000" channel="tvOne.mncvision">
+    <title>Kabar Petang (L)</title>
+</programme>
+<programme start="20260316104500 +0000" stop="20260316110000 +0000" channel="tvOne.mncvision">
+    <title>Jelang Berbuka</title>
 </programme>
 <programme start="20260316110000 +0000" stop="20260316130000 +0000" channel="tvOne.mncvision">
-    <title>tvOne</title>
+    <title>Apa Kabar Indonesia Malam (L)</title>
 </programme>
-<programme start="20260316130000 +0000" stop="20260316143000 +0000" channel="tvOne.mncvision">
-    <title>tvOne</title>
+<programme start="20260316130000 +0000" stop="20260316134500 +0000" channel="tvOne.mncvision">
+    <title>Fakta</title>
 </programme>
-<programme start="20260316143000 +0000" stop="20260316153000 +0000" channel="tvOne.mncvision">
-    <title>tvOne</title>
+<programme start="20260316134500 +0000" stop="20260316140000 +0000" channel="tvOne.mncvision">
+    <title>Tafakur: Bunda Munifah</title>
 </programme>
-<programme start="20260316153000 +0000" stop="20260316163000 +0000" channel="tvOne.mncvision">
-    <title>tvOne</title>
+<programme start="20260316140000 +0000" stop="20260316150000 +0000" channel="tvOne.mncvision">
+    <title>Kabar Utama (L)</title>
+</programme>
+<programme start="20260316150000 +0000" stop="20260316160000 +0000" channel="tvOne.mncvision">
+    <title>Kabar Hari Ini (L)</title>
+</programme>
+<programme start="20260316160000 +0000" stop="20260316163000 +0000" channel="tvOne.mncvision">
+    <title>Kabar Arena Malam (L)</title>
 </programme>
 <programme start="20260316163000 +0000" stop="20260315170000 +0000" channel="tvOne.mncvision">
-    <title>tvOne</title>
+    <title>Apa Kabar Indonesia Malam</title>
 </programme>
 <programme start="20260315170000 +0000" stop="20260315190000 +0000" channel="TVRI.mncvision">
     <title>TVRI</title>

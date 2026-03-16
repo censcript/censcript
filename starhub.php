@@ -5129,7 +5129,7 @@
         <title>25/26 ROSHN Saudi League MW 26 Al Khaleej vs Al Nassr</title>
     </programme>
     <programme start="20260316080000 +0000" stop="20260316103500 +0000" channel="SPOTV.starhub">
-        <title>2026 World Baseball Classic: Pool B Italy vs USA</title>
+        <title>Italy vs USA</title>
     </programme>
     <programme start="20260316103500 +0000" stop="20260316123500 +0000" channel="SPOTV.starhub">
         <title>25/26 A-League Men Round 21 Central Coast Mariners FC vs Adelaide United</title>
@@ -8051,7 +8051,7 @@
         <title>Review Show</title>
     </programme>
     <programme start="20260316000800 +0000" stop="20260316030000 +0000" channel="SPOTV2.starhub">
-        <title>2026 World Baseball Classic: Semifinal 1 Dominican Republic vs USA (Live)</title>
+        <title>2026 World Baseball Classic: Semifinal 1 USA vs Dominican Republic (Live)</title>
     </programme>
     <programme start="20260316030000 +0000" stop="20260316083000 +0000" channel="SPOTV2.starhub">
         <title>Day 1</title>
