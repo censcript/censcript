@@ -142,14 +142,6 @@
     <title>Football: Manchester City FC - Real Madrid CF</title>
     <desc>Live: Tidak</desc>
 </programme>
-<programme start="20260317050000 +0700" stop="20260317053000 +0700" channel="COSMOTE Sport 3 HD">
-    <title>William Hill Scottish Premiership - Highlights</title>
-    <desc>Live: Tidak</desc>
-</programme>
-<programme start="20260317053000 +0700" stop="20260317060000 +0700" channel="COSMOTE Sport 3 HD">
-    <title>Emirates FA Cup 2025-26 - Highlights</title>
-    <desc>Live: Tidak</desc>
-</programme>
 <programme start="20260317060000 +0700" stop="20260317080000 +0700" channel="COSMOTE Sport 3 HD">
     <title>Football: Mansfield Town F.C. - Arsenal</title>
     <desc>Live: Tidak</desc>
@@ -204,10 +196,6 @@
 </programme>
 <programme start="20260318050500 +0700" stop="20260318071000 +0700" channel="COSMOTE Sport 3 HD">
     <title>Football: Chelsea FC - Paris Saint Germain</title>
-    <desc>Live: Tidak</desc>
-</programme>
-<programme start="20260317033000 +0700" stop="20260317060000 +0700" channel="COSMOTE Sport 4 HD">
-    <title>Basketball: Milwaukee Bucks - Indiana Pacers</title>
     <desc>Live: Tidak</desc>
 </programme>
 <programme start="20260317060000 +0700" stop="20260317081000 +0700" channel="COSMOTE Sport 4 HD">
@@ -266,8 +254,8 @@
     <title>Pick n&#039; Roll</title>
     <desc>Live: Tidak</desc>
 </programme>
-<programme start="20260317041500 +0700" stop="20260317051500 +0700" channel="COSMOTE Sport 5 HD">
-    <title>WRC</title>
+<programme start="20260318061000 +0700" stop="20260318070000 +0700" channel="COSMOTE Sport 4 HD">
+    <title>NBA Specials: Basketball Stories</title>
     <desc>Live: Tidak</desc>
 </programme>
 <programme start="20260317051500 +0700" stop="20260317063000 +0700" channel="COSMOTE Sport 5 HD">
@@ -354,8 +342,8 @@
     <title>DTM 2025</title>
     <desc>Live: Tidak</desc>
 </programme>
-<programme start="20260317035500 +0700" stop="20260317051000 +0700" channel="COSMOTE Sport 6 HD">
-    <title>Topspin</title>
+<programme start="20260318063500 +0700" stop="20260318082000 +0700" channel="COSMOTE Sport 5 HD">
+    <title>DTM 2025</title>
     <desc>Live: Tidak</desc>
 </programme>
 <programme start="20260317051000 +0700" stop="20260317065500 +0700" channel="COSMOTE Sport 6 HD">
@@ -539,6 +527,10 @@
     <desc>Live: Tidak</desc>
 </programme>
 <programme start="20260318053000 +0700" stop="20260318060000 +0700" channel="COSMOTE Sport 8 HD">
+    <title>COSMOTESport8HD</title>
+    <desc>Live: Tidak</desc>
+</programme>
+<programme start="20260318060000 +0700" stop="20260318070000 +0700" channel="COSMOTE Sport 8 HD">
     <title>COSMOTESport8HD</title>
     <desc>Live: Tidak</desc>
 </programme>
