@@ -3146,12 +3146,9 @@ Warning: Undefined array key "et" in /usr/home/ManusiaBiasa/domains/manusiabiasa
     <title>2. BL Kompakt: 26. Spieltag</title>
 </programme>
 <programme start="20260316110000 +0000" stop="20260316113000 +0000" channel="Sky Sport News HD.skyde">
-    <title>Sky Sport News: Der Mittag</title>
+    <title>Live Sky Sport News: B04-Training vor Arsenal</title>
 </programme>
-<programme start="20260316113000 +0000" stop="20260316120000 +0000" channel="Sky Sport News HD.skyde">
-    <title>Sky Sport News: B04-Training vor Arsenal</title>
-</programme>
-<programme start="20260316120000 +0000" stop="20260316140000 +0000" channel="Sky Sport News HD.skyde">
+<programme start="20260316113000 +0000" stop="20260316140000 +0000" channel="Sky Sport News HD.skyde">
     <title>Live Sky Sport News: Der Mittag</title>
 </programme>
 <programme start="20260316140000 +0000" stop="20260316170000 +0000" channel="Sky Sport News HD.skyde">
@@ -3415,7 +3412,7 @@ Warning: Undefined array key "et" in /usr/home/ManusiaBiasa/domains/manusiabiasa
 <programme start="20260315230000 +0000" stop="20260316000000 +0000" channel="Sky Sport 1 HD.skyde">
     <title>Live NBA: Showtime</title>
 </programme>
-<programme start="20260316000000 +0000" stop="20260316030000 +0000" channel="Sky Sport 1 HD.skyde">
+<programme start="20260316000000 +0000" stop="20260316083000 +0000" channel="Sky Sport 1 HD.skyde">
     <title>Live NBA: Golden State Warriors @ New York Knicks</title>
 </programme>
 <programme start="20260316090000 +0000" stop="20260316090500 +0000" channel="Sky Sport 1 HD.skyde">
@@ -3952,16 +3949,16 @@ Warning: Undefined array key "et" in /usr/home/ManusiaBiasa/domains/manusiabiasa
 <programme start="20260316044000 +0000" stop="20260316051000 +0000" channel="Warner TV Comedy HD.skyde">
     <title>Two and a Half Men</title>
 </programme>
-<programme start="20260316051000 +0000" stop="20260316053500 +0000" channel="Warner TV Comedy HD.skyde">
+<programme start="20260316051000 +0000" stop="20260316053000 +0000" channel="Warner TV Comedy HD.skyde">
     <title>Friends</title>
 </programme>
-<programme start="20260316053500 +0000" stop="20260316060000 +0000" channel="Warner TV Comedy HD.skyde">
+<programme start="20260316053000 +0000" stop="20260316055500 +0000" channel="Warner TV Comedy HD.skyde">
     <title>Friends</title>
 </programme>
-<programme start="20260316060000 +0000" stop="20260316062500 +0000" channel="Warner TV Comedy HD.skyde">
+<programme start="20260316055500 +0000" stop="20260316062000 +0000" channel="Warner TV Comedy HD.skyde">
     <title>Friends</title>
 </programme>
-<programme start="20260316062500 +0000" stop="20260316065000 +0000" channel="Warner TV Comedy HD.skyde">
+<programme start="20260316062000 +0000" stop="20260316065000 +0000" channel="Warner TV Comedy HD.skyde">
     <title>Friends</title>
 </programme>
 <programme start="20260316065000 +0000" stop="20260316071500 +0000" channel="Warner TV Comedy HD.skyde">
@@ -3988,55 +3985,55 @@ Warning: Undefined array key "et" in /usr/home/ManusiaBiasa/domains/manusiabiasa
 <programme start="20260316094500 +0000" stop="20260316101000 +0000" channel="Warner TV Comedy HD.skyde">
     <title>The Middle</title>
 </programme>
-<programme start="20260316101000 +0000" stop="20260316103500 +0000" channel="Warner TV Comedy HD.skyde">
+<programme start="20260316101000 +0000" stop="20260316103000 +0000" channel="Warner TV Comedy HD.skyde">
     <title>The Middle</title>
 </programme>
-<programme start="20260316103500 +0000" stop="20260316110000 +0000" channel="Warner TV Comedy HD.skyde">
+<programme start="20260316103000 +0000" stop="20260316105500 +0000" channel="Warner TV Comedy HD.skyde">
     <title>The Middle</title>
 </programme>
-<programme start="20260316110000 +0000" stop="20260316112500 +0000" channel="Warner TV Comedy HD.skyde">
+<programme start="20260316105500 +0000" stop="20260316112000 +0000" channel="Warner TV Comedy HD.skyde">
     <title>The Middle</title>
 </programme>
-<programme start="20260316112500 +0000" stop="20260316115000 +0000" channel="Warner TV Comedy HD.skyde">
+<programme start="20260316112000 +0000" stop="20260316114500 +0000" channel="Warner TV Comedy HD.skyde">
     <title>The Middle</title>
 </programme>
-<programme start="20260316115000 +0000" stop="20260316121500 +0000" channel="Warner TV Comedy HD.skyde">
+<programme start="20260316114500 +0000" stop="20260316121000 +0000" channel="Warner TV Comedy HD.skyde">
     <title>The Middle</title>
 </programme>
-<programme start="20260316121500 +0000" stop="20260316124000 +0000" channel="Warner TV Comedy HD.skyde">
+<programme start="20260316121000 +0000" stop="20260316123500 +0000" channel="Warner TV Comedy HD.skyde">
     <title>King of Queens</title>
 </programme>
-<programme start="20260316124000 +0000" stop="20260316130500 +0000" channel="Warner TV Comedy HD.skyde">
+<programme start="20260316123500 +0000" stop="20260316130000 +0000" channel="Warner TV Comedy HD.skyde">
     <title>King of Queens</title>
 </programme>
-<programme start="20260316130500 +0000" stop="20260316133000 +0000" channel="Warner TV Comedy HD.skyde">
+<programme start="20260316130000 +0000" stop="20260316132500 +0000" channel="Warner TV Comedy HD.skyde">
     <title>King of Queens</title>
 </programme>
-<programme start="20260316133000 +0000" stop="20260316135500 +0000" channel="Warner TV Comedy HD.skyde">
+<programme start="20260316132500 +0000" stop="20260316135000 +0000" channel="Warner TV Comedy HD.skyde">
     <title>King of Queens</title>
 </programme>
-<programme start="20260316135500 +0000" stop="20260316142000 +0000" channel="Warner TV Comedy HD.skyde">
+<programme start="20260316135000 +0000" stop="20260316141500 +0000" channel="Warner TV Comedy HD.skyde">
     <title>King of Queens</title>
 </programme>
-<programme start="20260316142000 +0000" stop="20260316144500 +0000" channel="Warner TV Comedy HD.skyde">
+<programme start="20260316141500 +0000" stop="20260316144000 +0000" channel="Warner TV Comedy HD.skyde">
     <title>King of Queens</title>
 </programme>
-<programme start="20260316144500 +0000" stop="20260316151000 +0000" channel="Warner TV Comedy HD.skyde">
+<programme start="20260316144000 +0000" stop="20260316150500 +0000" channel="Warner TV Comedy HD.skyde">
     <title>King of Queens</title>
 </programme>
-<programme start="20260316151000 +0000" stop="20260316153500 +0000" channel="Warner TV Comedy HD.skyde">
+<programme start="20260316150500 +0000" stop="20260316153000 +0000" channel="Warner TV Comedy HD.skyde">
     <title>King of Queens</title>
 </programme>
-<programme start="20260316153500 +0000" stop="20260316160000 +0000" channel="Warner TV Comedy HD.skyde">
+<programme start="20260316153000 +0000" stop="20260316155500 +0000" channel="Warner TV Comedy HD.skyde">
     <title>Two and a Half Men</title>
 </programme>
-<programme start="20260316160000 +0000" stop="20260316162500 +0000" channel="Warner TV Comedy HD.skyde">
+<programme start="20260316155500 +0000" stop="20260316162000 +0000" channel="Warner TV Comedy HD.skyde">
     <title>Two and a Half Men</title>
 </programme>
-<programme start="20260316162500 +0000" stop="20260316165000 +0000" channel="Warner TV Comedy HD.skyde">
+<programme start="20260316162000 +0000" stop="20260316164500 +0000" channel="Warner TV Comedy HD.skyde">
     <title>Two and a Half Men</title>
 </programme>
-<programme start="20260316165000 +0000" stop="20260316171000 +0000" channel="Warner TV Comedy HD.skyde">
+<programme start="20260316164500 +0000" stop="20260316171000 +0000" channel="Warner TV Comedy HD.skyde">
     <title>2 Broke Girls</title>
 </programme>
 <programme start="20260316171000 +0000" stop="20260316173500 +0000" channel="Warner TV Comedy HD.skyde">
