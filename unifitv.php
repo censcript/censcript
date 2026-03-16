@@ -15434,7 +15434,7 @@
     <category lang="en">Table Tennis</category>
   </programme>
   <programme start="20260316000800 +0000" stop="20260316030000 +0000" channel="spotv2.unifitv">
-    <title lang="en">(L) 2026 World Baseball Classic: Semifinal 1 -</title>
+    <title lang="en">(L) 2026 World Baseball Classic: Semifinal 1 - USA vs Dominican Republic</title>
     <desc lang="en">The world's best national teams compete for international glory, delivering powerful hitting, elite pitching, and thrilling baseball action on the global stage.</desc>
     <category lang="en">Baseball</category>
   </programme>
