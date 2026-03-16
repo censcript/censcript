@@ -1624,10 +1624,7 @@
 <programme start="20260316083000 +0000" stop="20260316090000 +0000" channel="BTV.mncvision">
     <title>Berita Kriminal</title>
 </programme>
-<programme start="20260316090000 +0000" stop="20260316090500 +0000" channel="BTV.mncvision">
-    <title>Berita Satu Terkini</title>
-</programme>
-<programme start="20260316090500 +0000" stop="20260316100000 +0000" channel="BTV.mncvision">
+<programme start="20260316090000 +0000" stop="20260316100000 +0000" channel="BTV.mncvision">
     <title>Berita Satu Sore</title>
 </programme>
 <programme start="20260316100000 +0000" stop="20260316105600 +0000" channel="BTV.mncvision">
