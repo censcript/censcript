@@ -3146,9 +3146,12 @@ Warning: Undefined array key "et" in /usr/home/ManusiaBiasa/domains/manusiabiasa
     <title>2. BL Kompakt: 26. Spieltag</title>
 </programme>
 <programme start="20260316110000 +0000" stop="20260316113000 +0000" channel="Sky Sport News HD.skyde">
-    <title>Live Sky Sport News: B04-Training vor Arsenal</title>
+    <title>Sky Sport News: Der Mittag</title>
 </programme>
-<programme start="20260316113000 +0000" stop="20260316140000 +0000" channel="Sky Sport News HD.skyde">
+<programme start="20260316113000 +0000" stop="20260316120000 +0000" channel="Sky Sport News HD.skyde">
+    <title>Sky Sport News: B04-Training vor Arsenal</title>
+</programme>
+<programme start="20260316120000 +0000" stop="20260316140000 +0000" channel="Sky Sport News HD.skyde">
     <title>Live Sky Sport News: Der Mittag</title>
 </programme>
 <programme start="20260316140000 +0000" stop="20260316170000 +0000" channel="Sky Sport News HD.skyde">
@@ -3325,7 +3328,7 @@ Warning: Undefined array key "et" in /usr/home/ManusiaBiasa/domains/manusiabiasa
 <programme start="20260316203000 +0000" stop="20260316230000 +0000" channel="Sky Sport Tennis HD.skyde">
     <title>ATP 500: F. Cobolli (ITA) - F. Tiafoe (USA) Abierto Mexicano Telcel presented by HSBC in Acapulco (MEX), Finale</title>
 </programme>
-<programme start="20260315233000 +0000" stop="20260316000000 +0000" channel="Sky Sport Top Event HD.skyde">
+<programme start="20260315234500 +0000" stop="20260316000000 +0000" channel="Sky Sport Top Event HD.skyde">
     <title>Live NBA: Showtime</title>
 </programme>
 <programme start="20260316000000 +0000" stop="20260316030000 +0000" channel="Sky Sport Top Event HD.skyde">
@@ -3708,6 +3711,9 @@ Warning: Undefined array key "et" in /usr/home/ManusiaBiasa/domains/manusiabiasa
 </programme>
 <programme start="20260316220000 +0000" stop="20260316230000 +0000" channel="Sky Sport 1 HD.skyde">
     <title>Live NBA: Showtime</title>
+</programme>
+<programme start="20260316214000 +0000" stop="20260317020000 +0000" channel="Sky Sport 2 HD.skyde">
+    <title>Es folgt: LIVE Basketball NBA</title>
 </programme>
 <programme start="20260315230000 +0000" stop="20260315235000 +0000" channel="SYFY HD.skyde">
     <title>Stargate: Atlantis</title>
@@ -4117,10 +4123,10 @@ Warning: Undefined array key "et" in /usr/home/ManusiaBiasa/domains/manusiabiasa
 <programme start="20260316191500 +0000" stop="20260316211000 +0000" channel="Warner TV Film.skyde">
     <title>Gone Baby Gone - Kein Kinderspiel</title>
 </programme>
-<programme start="20260316211000 +0000" stop="20260316224000 +0000" channel="Warner TV Film.skyde">
+<programme start="20260316211000 +0000" stop="20260316224500 +0000" channel="Warner TV Film.skyde">
     <title>Hitman - Jeder stirbt alleine</title>
 </programme>
-<programme start="20260316224000 +0000" stop="20260317005000 +0000" channel="Warner TV Film.skyde">
+<programme start="20260316224500 +0000" stop="20260317005000 +0000" channel="Warner TV Film.skyde">
     <title>Stirb langsam: Jetzt erst recht</title>
 </programme>
 <programme start="20260315235500 +0000" stop="20260316015500 +0000" channel="Warner TV Film HD.skyde">
