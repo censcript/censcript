@@ -1642,6 +1642,87 @@ Warning: Undefined array key "et" in /usr/home/ManusiaBiasa/domains/manusiabiasa
 <programme start="20260316222000 +0000" stop="20260316231000 +0000" channel="Romance TV HD.skyde">
     <title>Lena Lorenz</title>
 </programme>
+<programme start="20260315234500 +0000" stop="20260316010500 +0000" channel="Sky Atlantic HD.skyde">
+    <title>The Last of Us</title>
+</programme>
+<programme start="20260316010500 +0000" stop="20260316015500 +0000" channel="Sky Atlantic HD.skyde">
+    <title>The Last of Us</title>
+</programme>
+<programme start="20260316015500 +0000" stop="20260316021500 +0000" channel="Sky Atlantic HD.skyde">
+    <title>Bonusmaterial Domina - Die Schauspieler</title>
+</programme>
+<programme start="20260316021500 +0000" stop="20260316025500 +0000" channel="Sky Atlantic HD.skyde">
+    <title>The Good Doctor</title>
+</programme>
+<programme start="20260316025500 +0000" stop="20260316035000 +0000" channel="Sky Atlantic HD.skyde">
+    <title>We Own This City</title>
+</programme>
+<programme start="20260316035000 +0000" stop="20260316045500 +0000" channel="Sky Atlantic HD.skyde">
+    <title>We Own This City</title>
+</programme>
+<programme start="20260316045500 +0000" stop="20260316055000 +0000" channel="Sky Atlantic HD.skyde">
+    <title>Unwanted</title>
+</programme>
+<programme start="20260316055000 +0000" stop="20260316065000 +0000" channel="Sky Atlantic HD.skyde">
+    <title>Unwanted</title>
+</programme>
+<programme start="20260316065000 +0000" stop="20260316073000 +0000" channel="Sky Atlantic HD.skyde">
+    <title>The Rehearsal</title>
+</programme>
+<programme start="20260316073000 +0000" stop="20260316081000 +0000" channel="Sky Atlantic HD.skyde">
+    <title>The Rehearsal</title>
+</programme>
+<programme start="20260316081000 +0000" stop="20260316084500 +0000" channel="Sky Atlantic HD.skyde">
+    <title>The Rehearsal</title>
+</programme>
+<programme start="20260316084500 +0000" stop="20260316092500 +0000" channel="Sky Atlantic HD.skyde">
+    <title>The Rehearsal</title>
+</programme>
+<programme start="20260316092500 +0000" stop="20260316101000 +0000" channel="Sky Atlantic HD.skyde">
+    <title>The Good Doctor</title>
+</programme>
+<programme start="20260316101000 +0000" stop="20260316105500 +0000" channel="Sky Atlantic HD.skyde">
+    <title>The Good Doctor</title>
+</programme>
+<programme start="20260316105500 +0000" stop="20260316114000 +0000" channel="Sky Atlantic HD.skyde">
+    <title>The Good Doctor</title>
+</programme>
+<programme start="20260316114000 +0000" stop="20260316122500 +0000" channel="Sky Atlantic HD.skyde">
+    <title>Chicago Med</title>
+</programme>
+<programme start="20260316122500 +0000" stop="20260316131000 +0000" channel="Sky Atlantic HD.skyde">
+    <title>Chicago Med</title>
+</programme>
+<programme start="20260316131000 +0000" stop="20260316135500 +0000" channel="Sky Atlantic HD.skyde">
+    <title>Chicago Med</title>
+</programme>
+<programme start="20260316135500 +0000" stop="20260316144000 +0000" channel="Sky Atlantic HD.skyde">
+    <title>Chicago Med</title>
+</programme>
+<programme start="20260316144000 +0000" stop="20260316154500 +0000" channel="Sky Atlantic HD.skyde">
+    <title>Gentleman Jack</title>
+</programme>
+<programme start="20260316154500 +0000" stop="20260316165500 +0000" channel="Sky Atlantic HD.skyde">
+    <title>Gentleman Jack</title>
+</programme>
+<programme start="20260316165500 +0000" stop="20260316180000 +0000" channel="Sky Atlantic HD.skyde">
+    <title>House of the Dragon</title>
+</programme>
+<programme start="20260316180000 +0000" stop="20260316191500 +0000" channel="Sky Atlantic HD.skyde">
+    <title>House of the Dragon</title>
+</programme>
+<programme start="20260316191500 +0000" stop="20260316201500 +0000" channel="Sky Atlantic HD.skyde">
+    <title>The White Lotus</title>
+</programme>
+<programme start="20260316201500 +0000" stop="20260316212000 +0000" channel="Sky Atlantic HD.skyde">
+    <title>The White Lotus</title>
+</programme>
+<programme start="20260316212000 +0000" stop="20260316222500 +0000" channel="Sky Atlantic HD.skyde">
+    <title>House of the Dragon</title>
+</programme>
+<programme start="20260316222500 +0000" stop="20260316233500 +0000" channel="Sky Atlantic HD.skyde">
+    <title>House of the Dragon</title>
+</programme>
 <programme start="20260316004500 +0000" stop="20260316023500 +0000" channel="Sky Cinema Action HD.skyde">
     <title>Monster Hunter</title>
 </programme>
@@ -3136,6 +3217,9 @@ Warning: Undefined array key "et" in /usr/home/ManusiaBiasa/domains/manusiabiasa
 <programme start="20260316103000 +0000" stop="20260316104500 +0000" channel="Sky Sport Premier League HD.skyde">
     <title>PL: Bergkamp: Genius of Space</title>
 </programme>
+<programme start="20260316104500 +0000" stop="20260316110000 +0000" channel="Sky Sport Premier League HD.skyde">
+    <title>PL: Under the Skin (Newcastle v Sunderland)</title>
+</programme>
 <programme start="20260316110000 +0000" stop="20260316113000 +0000" channel="Sky Sport Premier League HD.skyde">
     <title>PL: PL Stories (Sports Science)</title>
 </programme>
@@ -3241,7 +3325,7 @@ Warning: Undefined array key "et" in /usr/home/ManusiaBiasa/domains/manusiabiasa
 <programme start="20260316203000 +0000" stop="20260316230000 +0000" channel="Sky Sport Tennis HD.skyde">
     <title>ATP 500: F. Cobolli (ITA) - F. Tiafoe (USA) Abierto Mexicano Telcel presented by HSBC in Acapulco (MEX), Finale</title>
 </programme>
-<programme start="20260315234500 +0000" stop="20260316000000 +0000" channel="Sky Sport Top Event HD.skyde">
+<programme start="20260315233000 +0000" stop="20260316000000 +0000" channel="Sky Sport Top Event HD.skyde">
     <title>Live NBA: Showtime</title>
 </programme>
 <programme start="20260316000000 +0000" stop="20260316030000 +0000" channel="Sky Sport Top Event HD.skyde">
@@ -3328,7 +3412,7 @@ Warning: Undefined array key "et" in /usr/home/ManusiaBiasa/domains/manusiabiasa
 <programme start="20260315230000 +0000" stop="20260316000000 +0000" channel="Sky Sport 1 HD.skyde">
     <title>Live NBA: Showtime</title>
 </programme>
-<programme start="20260316000000 +0000" stop="20260316083000 +0000" channel="Sky Sport 1 HD.skyde">
+<programme start="20260316000000 +0000" stop="20260316030000 +0000" channel="Sky Sport 1 HD.skyde">
     <title>Live NBA: Golden State Warriors @ New York Knicks</title>
 </programme>
 <programme start="20260316090000 +0000" stop="20260316090500 +0000" channel="Sky Sport 1 HD.skyde">
