@@ -4618,20 +4618,15 @@
   <channel id="zeethirai.unifitv">
     <display-name>Zee Thirai</display-name>
   </channel>
-  <programme start="20260315140000 +0000" stop="20260315180000 +0000" channel="zeethirai.unifitv">
+  <programme start="20260315140000 +0000" stop="20260315163000 +0000" channel="zeethirai.unifitv">
     <title lang="en">Dhilluku Dhuddu 2</title>
     <desc lang="en">In a bid to escape from Viji's antics, his neighbours lure him to fall in love with Maya. However, everything turns upside down when he realises that a ghost is protecting Maya.</desc>
     <category lang="en">Horror</category>
   </programme>
-  <programme start="20260315180000 +0000" stop="20260315183000 +0000" channel="zeethirai.unifitv">
-    <title lang="en">Free Ticket</title>
-    <desc lang="en">The host presents a curated compilation of hit songs and memorable snippets from the most popular and trending Tamil movies, celebrating the best of Tamil cinema.</desc>
-    <category lang="en">Entertainment</category>
-  </programme>
-  <programme start="20260315183000 +0000" stop="20260315190000 +0000" channel="zeethirai.unifitv">
-    <title lang="en">Free Ticket</title>
-    <desc lang="en">The host presents a curated compilation of hit songs and memorable snippets from the most popular and trending Tamil movies, celebrating the best of Tamil cinema.</desc>
-    <category lang="en">Entertainment</category>
+  <programme start="20260315163000 +0000" stop="20260315190000 +0000" channel="zeethirai.unifitv">
+    <title lang="en">En Peru Surya En Veedu India</title>
+    <desc lang="en">Surya, a tough soldier with anger issues, gets kicked out of the army. Now, he needs a shrink's approval to rejoin and fulfill his dream of serving at the border.</desc>
+    <category lang="en">Action</category>
   </programme>
   <programme start="20260315190000 +0000" stop="20260315193000 +0000" channel="zeethirai.unifitv">
     <title lang="en">Free Ticket</title>
@@ -4648,59 +4643,44 @@
     <desc lang="en">The host presents a curated compilation of hit songs and memorable snippets from the most popular and trending Tamil movies, celebrating the best of Tamil cinema.</desc>
     <category lang="en">Entertainment</category>
   </programme>
-  <programme start="20260315203000 +0000" stop="20260315210000 +0000" channel="zeethirai.unifitv">
-    <title lang="en">Free Ticket</title>
-    <desc lang="en">The host presents a curated compilation of hit songs and memorable snippets from the most popular and trending Tamil movies, celebrating the best of Tamil cinema.</desc>
-    <category lang="en">Entertainment</category>
-  </programme>
-  <programme start="20260315210000 +0000" stop="20260315213000 +0000" channel="zeethirai.unifitv">
-    <title lang="en">Free Ticket</title>
-    <desc lang="en">The host presents a curated compilation of hit songs and memorable snippets from the most popular and trending Tamil movies, celebrating the best of Tamil cinema.</desc>
-    <category lang="en">Entertainment</category>
-  </programme>
-  <programme start="20260315213000 +0000" stop="20260315220000 +0000" channel="zeethirai.unifitv">
-    <title lang="en">Free Ticket</title>
-    <desc lang="en">The host presents a curated compilation of hit songs and memorable snippets from the most popular and trending Tamil movies, celebrating the best of Tamil cinema.</desc>
-    <category lang="en">Entertainment</category>
-  </programme>
-  <programme start="20260315220000 +0000" stop="20260315223000 +0000" channel="zeethirai.unifitv">
-    <title lang="en">Free Ticket</title>
-    <desc lang="en">The host presents a curated compilation of hit songs and memorable snippets from the most popular and trending Tamil movies, celebrating the best of Tamil cinema.</desc>
-    <category lang="en">Entertainment</category>
+  <programme start="20260315203000 +0000" stop="20260315223000 +0000" channel="zeethirai.unifitv">
+    <title lang="en">10 Hours</title>
+    <desc lang="en">A bus murder investigation unfolds, revealing possible scenarios and suspects. As everyone undergoes questioning, hidden layers of the case begin to surface.</desc>
+    <category lang="en">Thriller</category>
   </programme>
   <programme start="20260315223000 +0000" stop="20260316013000 +0000" channel="zeethirai.unifitv">
-    <title lang="en">Brother</title>
-    <desc lang="en">A young man struggles to find his place after moving in with his sister and her in-laws.</desc>
-    <category lang="en">Family</category>
+    <title lang="en">Endrendrum Punnagai</title>
+    <desc lang="en">Goutham grows up hating women after his mother abandons him during his childhood. Though he decides to stay single while his friends marry, Priya changes his mind about singlehood.</desc>
+    <category lang="en">Romance</category>
   </programme>
   <programme start="20260316013000 +0000" stop="20260316043000 +0000" channel="zeethirai.unifitv">
-    <title lang="en">Bhola Shankar</title>
-    <desc lang="en">In Kolkata, a taxi driver fights to build a new life with his sister, but his dark past catches up with him as he battles the city's dangerous underworld.</desc>
-    <category lang="en">Action</category>
+    <title lang="en">Bangalore Naatkal</title>
+    <desc lang="en">Three cousins, Arjun, Divya, and Kannan, move to Bangalore for different reasons. Their journey is filled with challenges that alter their lives irrevocably.</desc>
+    <category lang="en">Comedy</category>
   </programme>
   <programme start="20260316043000 +0000" stop="20260316080000 +0000" channel="zeethirai.unifitv">
-    <title lang="en">Valimai</title>
-    <desc lang="en">A city's crime rate rises due to a notorious motorcycle club. When chaos ensues, police officer Arjun takes charge to restore law and order.</desc>
-    <category lang="en">Action</category>
+    <title lang="en">The Great Father</title>
+    <desc lang="en">The rape of his beloved 10-year-old daughter Sarah enrages David Nainan. As he and his wife try to locate the rapist, they discover his serial crimes.</desc>
+    <category lang="en">Crime</category>
   </programme>
   <programme start="20260316080000 +0000" stop="20260316103000 +0000" channel="zeethirai.unifitv">
-    <title lang="en">Lineman</title>
-    <desc lang="en">A gripping drama about a hardworking lineman facing danger, life challenges, and moments of courage.</desc>
-    <category lang="en">Comedy</category>
+    <title lang="en">Wild Dog</title>
+    <desc lang="en">A series of deadly attacks occur that pose a threat to national security. In response, a brash but brilliant intelligence agent leads a covert operation to find the perpetrators.</desc>
+    <category lang="en">Action</category>
   </programme>
   <programme start="20260316103000 +0000" stop="20260316130000 +0000" channel="zeethirai.unifitv">
-    <title lang="en">Annapoorani</title>
-    <desc lang="en">A girl born in an orthodox family aspires to become India's best chef. She faces events and challenges on her way and goes beyond her conventional beliefs and prejudices to achieve her dream.</desc>
-    <category lang="en">Family</category>
+    <title lang="en">Sattam En Kayil</title>
+    <desc lang="en">Gowtham's night spirals into chaos after a fatal accident forces him to hide a body, fake drunk driving, and outwit police - all to escape a mistake that haunts him.</desc>
+    <category lang="en">Thriller</category>
   </programme>
   <programme start="20260316130000 +0000" stop="20260316160000 +0000" channel="zeethirai.unifitv">
-    <title lang="en">Vadakkupatti Ramasamy</title>
-    <desc lang="en">A greedy con artist exploits his village's superstitions until he loses his cash cow. Desperate, he hilariously schemes to revive the temple and his income!</desc>
-    <category lang="en">Comedy</category>
+    <title lang="en">Madha Yaanai Koottam</title>
+    <desc lang="en">Prithivi kill his uncle's son unfortunately. So his uncle and other family members take revenge on him.</desc>
+    <category lang="en">Thriller</category>
   </programme>
   <programme start="20260316160000 +0000" stop="20260316180000 +0000" channel="zeethirai.unifitv">
-    <title lang="en">Danny</title>
-    <desc lang="en">Police inspector Kunthavai teams up with Danny, a clever police dog, to solve a murder mystery involving a dangerous gang of serial killers in this thrilling investigation.</desc>
+    <title lang="en">Uriyadi 2</title>
+    <desc lang="en">Lenin Vijay, a young man, gets a job at a factory with two friends. When he discovers the factory is violating environmental norms and causing deaths, he fights for justice.</desc>
     <category lang="en">Action</category>
   </programme>
   <channel id="sonyyay.unifitv">

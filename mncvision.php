@@ -3101,7 +3101,7 @@
     <title>Ngebor Rezeki</title>
 </programme>
 <programme start="20260316080000 +0000" stop="20260316090000 +0000" channel="Entertainment.mncvision">
-    <title>Hoki Koki</title>
+    <title>Nikah Gratis: Randy K. &amp; Lady</title>
 </programme>
 <programme start="20260316090000 +0000" stop="20260316100000 +0000" channel="Entertainment.mncvision">
     <title>Call Me Mel</title>
