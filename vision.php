@@ -694,17 +694,8 @@
 <programme start="20260317090000 +0000" stop="20260317110000 +0000" channel="ANTV.vision">
 <title>Vasudha</title>
 </programme>
-<programme start="20260317130000 +0000" stop="20260317150000 +0000" channel="ANTV.vision">
-<title>Perempuan Bergairah</title>
-</programme>
 <programme start="20260317150000 +0000" stop="20260317170000 +0000" channel="ANTV.vision">
 <title>Godain Kita Dong</title>
-</programme>
-<programme start="20260317170000 +0000" stop="20260317183000 +0000" channel="ANTV.vision">
-<title>Happy Ghost 2</title>
-</programme>
-<programme start="20260317183000 +0000" stop="20260317193000 +0000" channel="ANTV.vision">
-<title>Mahaut</title>
 </programme>
 <programme start="20260317193000 +0000" stop="20260317213000 +0000" channel="ANTV.vision">
 <title>Srigala</title>
@@ -1497,4 +1488,13 @@
 </programme>
 <programme start="20260317173000 +0000" stop="20260317180000 +0000" channel="BTV.vision">
 <title>Berita Viral</title>
+</programme>
+<programme start="20260317180000 +0000" stop="20260317180300 +0000" channel="BTV.vision">
+<title>Tanah Airku</title>
+</programme>
+<programme start="20260317180300 +0000" stop="20260317193000 +0000" channel="BTV.vision">
+<title>Berita Satu Utama</title>
+</programme>
+<programme start="20260317193000 +0000" stop="20260317210000 +0000" channel="BTV.vision">
+<title>Jalan Dakwah</title>
 </programme>
