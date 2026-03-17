@@ -1373,22 +1373,22 @@ Warning: Undefined array key "et" in /usr/home/ManusiaBiasa/domains/manusiabiasa
 <programme start="20260317044000 +0000" stop="20260317050000 +0000" channel="Nick Jr..skyde">
     <title>Tim Rex im All</title>
 </programme>
-<programme start="20260317050000 +0000" stop="20260317052500 +0000" channel="Nick Jr..skyde">
+<programme start="20260317050000 +0000" stop="20260317052000 +0000" channel="Nick Jr..skyde">
     <title>Blaze und die Monster-Maschinen</title>
 </programme>
-<programme start="20260317052500 +0000" stop="20260317054500 +0000" channel="Nick Jr..skyde">
+<programme start="20260317052000 +0000" stop="20260317054500 +0000" channel="Nick Jr..skyde">
     <title>Blaze und die Monster-Maschinen</title>
 </programme>
-<programme start="20260317054500 +0000" stop="20260317061000 +0000" channel="Nick Jr..skyde">
+<programme start="20260317054500 +0000" stop="20260317060500 +0000" channel="Nick Jr..skyde">
     <title>Rubble &amp; Crew</title>
 </programme>
-<programme start="20260317061000 +0000" stop="20260317063000 +0000" channel="Nick Jr..skyde">
+<programme start="20260317060500 +0000" stop="20260317063000 +0000" channel="Nick Jr..skyde">
     <title>Rubble &amp; Crew</title>
 </programme>
-<programme start="20260317063000 +0000" stop="20260317065500 +0000" channel="Nick Jr..skyde">
+<programme start="20260317063000 +0000" stop="20260317065000 +0000" channel="Nick Jr..skyde">
     <title>Paw Patrol: Helfer auf vier Pfoten</title>
 </programme>
-<programme start="20260317065500 +0000" stop="20260317071500 +0000" channel="Nick Jr..skyde">
+<programme start="20260317065000 +0000" stop="20260317071500 +0000" channel="Nick Jr..skyde">
     <title>Paw Patrol: Helfer auf vier Pfoten</title>
 </programme>
 <programme start="20260317071500 +0000" stop="20260317073500 +0000" channel="Nick Jr..skyde">
@@ -1403,28 +1403,28 @@ Warning: Undefined array key "et" in /usr/home/ManusiaBiasa/domains/manusiabiasa
 <programme start="20260317075500 +0000" stop="20260317080500 +0000" channel="Nick Jr..skyde">
     <title>Tim Rex im All</title>
 </programme>
-<programme start="20260317080500 +0000" stop="20260317081000 +0000" channel="Nick Jr..skyde">
+<programme start="20260317080500 +0000" stop="20260317081200 +0000" channel="Nick Jr..skyde">
     <title>Tim Rex im All</title>
 </programme>
-<programme start="20260317081000 +0000" stop="20260317081500 +0000" channel="Nick Jr..skyde">
+<programme start="20260317081200 +0000" stop="20260317081700 +0000" channel="Nick Jr..skyde">
     <title>Peppa Wutz</title>
 </programme>
-<programme start="20260317081500 +0000" stop="20260317082000 +0000" channel="Nick Jr..skyde">
+<programme start="20260317081700 +0000" stop="20260317082100 +0000" channel="Nick Jr..skyde">
     <title>Peppa Wutz</title>
 </programme>
-<programme start="20260317082000 +0000" stop="20260317082500 +0000" channel="Nick Jr..skyde">
+<programme start="20260317082100 +0000" stop="20260317082500 +0000" channel="Nick Jr..skyde">
     <title>Peppa Wutz</title>
 </programme>
-<programme start="20260317082500 +0000" stop="20260317083000 +0000" channel="Nick Jr..skyde">
+<programme start="20260317082500 +0000" stop="20260317083200 +0000" channel="Nick Jr..skyde">
     <title>Peppa Wutz</title>
 </programme>
-<programme start="20260317083000 +0000" stop="20260317083500 +0000" channel="Nick Jr..skyde">
+<programme start="20260317083200 +0000" stop="20260317083600 +0000" channel="Nick Jr..skyde">
     <title>Peppa Wutz</title>
 </programme>
-<programme start="20260317083500 +0000" stop="20260317084000 +0000" channel="Nick Jr..skyde">
+<programme start="20260317083600 +0000" stop="20260317084100 +0000" channel="Nick Jr..skyde">
     <title>Peppa Wutz</title>
 </programme>
-<programme start="20260317084000 +0000" stop="20260317084500 +0000" channel="Nick Jr..skyde">
+<programme start="20260317084100 +0000" stop="20260317084500 +0000" channel="Nick Jr..skyde">
     <title>Peppa Wutz</title>
 </programme>
 <programme start="20260317084500 +0000" stop="20260317085000 +0000" channel="Nick Jr..skyde">
@@ -1463,37 +1463,40 @@ Warning: Undefined array key "et" in /usr/home/ManusiaBiasa/domains/manusiabiasa
 <programme start="20260317113000 +0000" stop="20260317115500 +0000" channel="Nick Jr..skyde">
     <title>Paw Patrol: Helfer auf vier Pfoten</title>
 </programme>
-<programme start="20260317115500 +0000" stop="20260317122000 +0000" channel="Nick Jr..skyde">
+<programme start="20260317115500 +0000" stop="20260317121500 +0000" channel="Nick Jr..skyde">
     <title>Paw Patrol: Helfer auf vier Pfoten</title>
 </programme>
-<programme start="20260317122000 +0000" stop="20260317124500 +0000" channel="Nick Jr..skyde">
+<programme start="20260317121500 +0000" stop="20260317124000 +0000" channel="Nick Jr..skyde">
     <title>BARBAPAPA und Familie</title>
 </programme>
-<programme start="20260317124500 +0000" stop="20260317130500 +0000" channel="Nick Jr..skyde">
+<programme start="20260317124000 +0000" stop="20260317130000 +0000" channel="Nick Jr..skyde">
     <title>BARBAPAPA und Familie</title>
 </programme>
-<programme start="20260317130500 +0000" stop="20260317133000 +0000" channel="Nick Jr..skyde">
+<programme start="20260317130000 +0000" stop="20260317132500 +0000" channel="Nick Jr..skyde">
     <title>Tim Rex im All</title>
 </programme>
-<programme start="20260317133000 +0000" stop="20260317135000 +0000" channel="Nick Jr..skyde">
+<programme start="20260317132500 +0000" stop="20260317135000 +0000" channel="Nick Jr..skyde">
     <title>Tim Rex im All</title>
 </programme>
-<programme start="20260317135000 +0000" stop="20260317141500 +0000" channel="Nick Jr..skyde">
+<programme start="20260317135000 +0000" stop="20260317141000 +0000" channel="Nick Jr..skyde">
     <title>DORA</title>
 </programme>
-<programme start="20260317141500 +0000" stop="20260317143500 +0000" channel="Nick Jr..skyde">
+<programme start="20260317141000 +0000" stop="20260317143300 +0000" channel="Nick Jr..skyde">
     <title>DORA</title>
 </programme>
-<programme start="20260317143500 +0000" stop="20260317144000 +0000" channel="Nick Jr..skyde">
+<programme start="20260317143300 +0000" stop="20260317143800 +0000" channel="Nick Jr..skyde">
     <title>Peppa Wutz</title>
 </programme>
-<programme start="20260317144000 +0000" stop="20260317144500 +0000" channel="Nick Jr..skyde">
+<programme start="20260317143800 +0000" stop="20260317144200 +0000" channel="Nick Jr..skyde">
     <title>Peppa Wutz</title>
 </programme>
-<programme start="20260317144500 +0000" stop="20260317145000 +0000" channel="Nick Jr..skyde">
+<programme start="20260317144200 +0000" stop="20260317144700 +0000" channel="Nick Jr..skyde">
     <title>Peppa Wutz</title>
 </programme>
-<programme start="20260317145000 +0000" stop="20260317145500 +0000" channel="Nick Jr..skyde">
+<programme start="20260317144700 +0000" stop="20260317145100 +0000" channel="Nick Jr..skyde">
+    <title>Peppa Wutz</title>
+</programme>
+<programme start="20260317145100 +0000" stop="20260317145500 +0000" channel="Nick Jr..skyde">
     <title>Peppa Wutz</title>
 </programme>
 <programme start="20260317145500 +0000" stop="20260317150000 +0000" channel="Nick Jr..skyde">
@@ -1502,100 +1505,100 @@ Warning: Undefined array key "et" in /usr/home/ManusiaBiasa/domains/manusiabiasa
 <programme start="20260317150000 +0000" stop="20260317150500 +0000" channel="Nick Jr..skyde">
     <title>Peppa Wutz</title>
 </programme>
-<programme start="20260317150500 +0000" stop="20260317151000 +0000" channel="Nick Jr..skyde">
-    <title>Peppa Wutz</title>
-</programme>
-<programme start="20260317151000 +0000" stop="20260317153000 +0000" channel="Nick Jr..skyde">
+<programme start="20260317150500 +0000" stop="20260317153000 +0000" channel="Nick Jr..skyde">
     <title>Blaze und die Monster-Maschinen</title>
 </programme>
 <programme start="20260317153000 +0000" stop="20260317155000 +0000" channel="Nick Jr..skyde">
     <title>Paw Patrol: Helfer auf vier Pfoten</title>
 </programme>
-<programme start="20260317155000 +0000" stop="20260317160500 +0000" channel="Nick Jr..skyde">
+<programme start="20260317155000 +0000" stop="20260317160000 +0000" channel="Nick Jr..skyde">
     <title>Paw Patrol: Helfer auf vier Pfoten</title>
 </programme>
-<programme start="20260317160500 +0000" stop="20260317162500 +0000" channel="Nick Jr..skyde">
+<programme start="20260317160000 +0000" stop="20260317162500 +0000" channel="Nick Jr..skyde">
     <title>Rubble &amp; Crew</title>
 </programme>
 <programme start="20260317162500 +0000" stop="20260317163500 +0000" channel="Nick Jr..skyde">
     <title>Rubble &amp; Crew</title>
 </programme>
-<programme start="20260317163500 +0000" stop="20260317170000 +0000" channel="Nick Jr..skyde">
+<programme start="20260317163500 +0000" stop="20260317165500 +0000" channel="Nick Jr..skyde">
     <title>DORA</title>
 </programme>
-<programme start="20260317170000 +0000" stop="20260317172000 +0000" channel="Nick Jr..skyde">
+<programme start="20260317165500 +0000" stop="20260317172000 +0000" channel="Nick Jr..skyde">
     <title>BARBAPAPA und Familie</title>
 </programme>
-<programme start="20260317172000 +0000" stop="20260317173500 +0000" channel="Nick Jr..skyde">
+<programme start="20260317172000 +0000" stop="20260317173000 +0000" channel="Nick Jr..skyde">
     <title>BARBAPAPA und Familie</title>
 </programme>
-<programme start="20260317173500 +0000" stop="20260317174000 +0000" channel="Nick Jr..skyde">
+<programme start="20260317173000 +0000" stop="20260317174000 +0000" channel="Nick Jr..skyde">
     <title>Tim Rex im All</title>
 </programme>
-<programme start="20260317174000 +0000" stop="20260317175000 +0000" channel="Nick Jr..skyde">
+<programme start="20260317174000 +0000" stop="20260317174500 +0000" channel="Nick Jr..skyde">
     <title>Tim Rex im All</title>
 </programme>
-<programme start="20260317175000 +0000" stop="20260317175500 +0000" channel="Nick Jr..skyde">
+<programme start="20260317174500 +0000" stop="20260317175000 +0000" channel="Nick Jr..skyde">
     <title>Tim Rex im All</title>
 </programme>
-<programme start="20260317175500 +0000" stop="20260317180500 +0000" channel="Nick Jr..skyde">
+<programme start="20260317175000 +0000" stop="20260317180200 +0000" channel="Nick Jr..skyde">
     <title>Tim Rex im All</title>
 </programme>
-<programme start="20260317180500 +0000" stop="20260317181000 +0000" channel="Nick Jr..skyde">
+<programme start="20260317180200 +0000" stop="20260317180700 +0000" channel="Nick Jr..skyde">
     <title>Peppa Wutz</title>
 </programme>
-<programme start="20260317181000 +0000" stop="20260317181500 +0000" channel="Nick Jr..skyde">
+<programme start="20260317180700 +0000" stop="20260317181100 +0000" channel="Nick Jr..skyde">
     <title>Peppa Wutz</title>
 </programme>
-<programme start="20260317181500 +0000" stop="20260317182000 +0000" channel="Nick Jr..skyde">
+<programme start="20260317181100 +0000" stop="20260317181600 +0000" channel="Nick Jr..skyde">
     <title>Peppa Wutz</title>
 </programme>
-<programme start="20260317182000 +0000" stop="20260317182100 +0000" channel="Nick Jr..skyde">
+<programme start="20260317181600 +0000" stop="20260317182000 +0000" channel="Nick Jr..skyde">
     <title>Peppa Wutz</title>
 </programme>
-<programme start="20260317182100 +0000" stop="20260317182500 +0000" channel="Nick Jr..skyde">
+<programme start="20260317182000 +0000" stop="20260317182500 +0000" channel="Nick Jr..skyde">
     <title>Peppa Wutz</title>
 </programme>
-<programme start="20260317182500 +0000" stop="20260317183500 +0000" channel="Nick Jr..skyde">
+<programme start="20260317182500 +0000" stop="20260317183000 +0000" channel="Nick Jr..skyde">
     <title>Peppa Wutz</title>
 </programme>
-<programme start="20260317183500 +0000" stop="20260317185500 +0000" channel="Nick Jr..skyde">
+<programme start="20260317183000 +0000" stop="20260317185000 +0000" channel="Nick Jr..skyde">
     <title>BARBAPAPA und Familie</title>
 </programme>
-<programme start="20260317185500 +0000" stop="20260317190500 +0000" channel="Nick Jr..skyde">
+<programme start="20260317185000 +0000" stop="20260317190000 +0000" channel="Nick Jr..skyde">
     <title>BARBAPAPA und Familie</title>
 </programme>
-<programme start="20260317190500 +0000" stop="20260317192500 +0000" channel="Nick Jr..skyde">
+<programme start="20260317190000 +0000" stop="20260317192500 +0000" channel="Nick Jr..skyde">
     <title>Blaze und die Monster-Maschinen</title>
 </programme>
-<programme start="20260317192500 +0000" stop="20260317195000 +0000" channel="Nick Jr..skyde">
+<programme start="20260317192500 +0000" stop="20260317194500 +0000" channel="Nick Jr..skyde">
     <title>Paw Patrol: Helfer auf vier Pfoten</title>
 </programme>
-<programme start="20260317195000 +0000" stop="20260317200000 +0000" channel="Nick Jr..skyde">
+<programme start="20260317194500 +0000" stop="20260317200000 +0000" channel="Nick Jr..skyde">
     <title>Paw Patrol: Helfer auf vier Pfoten</title>
 </programme>
-<programme start="20260317200000 +0000" stop="20260317202500 +0000" channel="Nick Jr..skyde">
+<programme start="20260317200000 +0000" stop="20260317202000 +0000" channel="Nick Jr..skyde">
     <title>Rubble &amp; Crew</title>
 </programme>
-<programme start="20260317202500 +0000" stop="20260317204500 +0000" channel="Nick Jr..skyde">
+<programme start="20260317202000 +0000" stop="20260317204500 +0000" channel="Nick Jr..skyde">
     <title>Rubble &amp; Crew</title>
 </programme>
-<programme start="20260317204500 +0000" stop="20260317211000 +0000" channel="Nick Jr..skyde">
+<programme start="20260317204500 +0000" stop="20260317210500 +0000" channel="Nick Jr..skyde">
     <title>DORA</title>
 </programme>
-<programme start="20260317211000 +0000" stop="20260317213000 +0000" channel="Nick Jr..skyde">
+<programme start="20260317210500 +0000" stop="20260317212500 +0000" channel="Nick Jr..skyde">
     <title>DORA</title>
 </programme>
-<programme start="20260317213000 +0000" stop="20260317215000 +0000" channel="Nick Jr..skyde">
+<programme start="20260317212500 +0000" stop="20260317215000 +0000" channel="Nick Jr..skyde">
     <title>BARBAPAPA und Familie</title>
 </programme>
-<programme start="20260317215000 +0000" stop="20260317221500 +0000" channel="Nick Jr..skyde">
+<programme start="20260317215000 +0000" stop="20260317221000 +0000" channel="Nick Jr..skyde">
     <title>BARBAPAPA und Familie</title>
 </programme>
-<programme start="20260317221500 +0000" stop="20260317223500 +0000" channel="Nick Jr..skyde">
+<programme start="20260317221000 +0000" stop="20260317223500 +0000" channel="Nick Jr..skyde">
     <title>BARBAPAPA und Familie</title>
 </programme>
-<programme start="20260317223500 +0000" stop="20260317230000 +0000" channel="Nick Jr..skyde">
+<programme start="20260317223500 +0000" stop="20260317225500 +0000" channel="Nick Jr..skyde">
+    <title>BARBAPAPA und Familie</title>
+</programme>
+<programme start="20260317225500 +0000" stop="20260317232000 +0000" channel="Nick Jr..skyde">
     <title>BARBAPAPA und Familie</title>
 </programme>
 <programme start="20260316231000 +0000" stop="20260317004000 +0000" channel="Romance TV HD.skyde">
@@ -2570,10 +2573,10 @@ Warning: Undefined array key "et" in /usr/home/ManusiaBiasa/domains/manusiabiasa
 <programme start="20260317143500 +0000" stop="20260317145500 +0000" channel="Sky Sport Austria 2 HD.skyde">
     <title>Es folgt: Live UEFA Champions League</title>
 </programme>
-<programme start="20260317145500 +0000" stop="20260317173000 +0000" channel="Sky Sport Austria 2 HD.skyde">
+<programme start="20260317145500 +0000" stop="20260317170000 +0000" channel="Sky Sport Austria 2 HD.skyde">
     <title>Live UEFA Youth League: FC Villarreal - Paris Saint-Germain, Achtelfinale</title>
 </programme>
-<programme start="20260317173000 +0000" stop="20260317190000 +0000" channel="Sky Sport Austria 2 HD.skyde">
+<programme start="20260317184000 +0000" stop="20260317190000 +0000" channel="Sky Sport Austria 2 HD.skyde">
     <title>Es folgt: Live UEFA Champions League</title>
 </programme>
 <programme start="20260317190000 +0000" stop="20260317195000 +0000" channel="Sky Sport Austria 2 HD.skyde">
@@ -2582,7 +2585,7 @@ Warning: Undefined array key "et" in /usr/home/ManusiaBiasa/domains/manusiabiasa
 <programme start="20260317195000 +0000" stop="20260317220000 +0000" channel="Sky Sport Austria 2 HD.skyde">
     <title>Live UEFA CL: FC Arsenal - Bayer Leverkusen, Achtelfinale Rückspiel, Dienstag</title>
 </programme>
-<programme start="20260317220000 +0000" stop="20260317233000 +0000" channel="Sky Sport Austria 2 HD.skyde">
+<programme start="20260317220000 +0000" stop="20260317230000 +0000" channel="Sky Sport Austria 2 HD.skyde">
     <title>Live Die UEFA CL am Dienstag: Analyse</title>
 </programme>
 <programme start="20260317193000 +0000" stop="20260317195000 +0000" channel="Sky Sport Austria 3 HD.skyde">
@@ -2591,10 +2594,298 @@ Warning: Undefined array key "et" in /usr/home/ManusiaBiasa/domains/manusiabiasa
 <programme start="20260317195000 +0000" stop="20260317220000 +0000" channel="Sky Sport Austria 3 HD.skyde">
     <title>Live UEFA CL: Manchester City - Real Madrid, Achtelfinale Rückspiel, Dienstag</title>
 </programme>
+<programme start="20260317090000 +0000" stop="20260317090500 +0000" channel="Sky Sport Austria 4 HD.skyde">
+    <title>Test Austria 04</title>
+</programme>
+<programme start="20260317090500 +0000" stop="20260317091000 +0000" channel="Sky Sport Austria 4 HD.skyde">
+    <title>Test Austria 04 with BO-DE</title>
+</programme>
+<programme start="20260317091000 +0000" stop="20260317091500 +0000" channel="Sky Sport Austria 4 HD.skyde">
+    <title>Test Austria 04 with BO-AU</title>
+</programme>
+<programme start="20260317091500 +0000" stop="20260317092000 +0000" channel="Sky Sport Austria 4 HD.skyde">
+    <title>Test Austria 04 with BO-ALLGEMEIN</title>
+</programme>
+<programme start="20260317092000 +0000" stop="20260317092500 +0000" channel="Sky Sport Austria 4 HD.skyde">
+    <title>Test Austria 04</title>
+</programme>
+<programme start="20260317092500 +0000" stop="20260317093000 +0000" channel="Sky Sport Austria 4 HD.skyde">
+    <title>Test Austria 04 with BO-DE</title>
+</programme>
+<programme start="20260317093000 +0000" stop="20260317093500 +0000" channel="Sky Sport Austria 4 HD.skyde">
+    <title>Test Austria 04 with BO-AU</title>
+</programme>
+<programme start="20260317093500 +0000" stop="20260317094000 +0000" channel="Sky Sport Austria 4 HD.skyde">
+    <title>Test Austria 04 with BO-ALLGEMEIN</title>
+</programme>
+<programme start="20260317094000 +0000" stop="20260317094500 +0000" channel="Sky Sport Austria 4 HD.skyde">
+    <title>Test Austria 04</title>
+</programme>
+<programme start="20260317094500 +0000" stop="20260317095000 +0000" channel="Sky Sport Austria 4 HD.skyde">
+    <title>Test Austria 04 with BO-DE</title>
+</programme>
+<programme start="20260317095000 +0000" stop="20260317095500 +0000" channel="Sky Sport Austria 4 HD.skyde">
+    <title>Test Austria 04 with BO-AU</title>
+</programme>
+<programme start="20260317095500 +0000" stop="20260317100000 +0000" channel="Sky Sport Austria 4 HD.skyde">
+    <title>Test Austria 04 with BO-ALLGEMEIN</title>
+</programme>
+<programme start="20260317100000 +0000" stop="20260317100500 +0000" channel="Sky Sport Austria 4 HD.skyde">
+    <title>Test Austria 04</title>
+</programme>
+<programme start="20260317100500 +0000" stop="20260317101000 +0000" channel="Sky Sport Austria 4 HD.skyde">
+    <title>Test Austria 04 with BO-DE</title>
+</programme>
+<programme start="20260317101000 +0000" stop="20260317101500 +0000" channel="Sky Sport Austria 4 HD.skyde">
+    <title>Test Austria 04 with BO-AU</title>
+</programme>
+<programme start="20260317101500 +0000" stop="20260317102000 +0000" channel="Sky Sport Austria 4 HD.skyde">
+    <title>Test Austria 04 with BO-ALLGEMEIN</title>
+</programme>
+<programme start="20260317102000 +0000" stop="20260317102500 +0000" channel="Sky Sport Austria 4 HD.skyde">
+    <title>Test Austria 04</title>
+</programme>
+<programme start="20260317102500 +0000" stop="20260317103000 +0000" channel="Sky Sport Austria 4 HD.skyde">
+    <title>Test Austria 04 with BO-DE</title>
+</programme>
+<programme start="20260317103000 +0000" stop="20260317103500 +0000" channel="Sky Sport Austria 4 HD.skyde">
+    <title>Test Austria 04 with BO-AU</title>
+</programme>
+<programme start="20260317103500 +0000" stop="20260317104000 +0000" channel="Sky Sport Austria 4 HD.skyde">
+    <title>Test Austria 04 with BO-ALLGEMEIN</title>
+</programme>
+<programme start="20260317104000 +0000" stop="20260317104500 +0000" channel="Sky Sport Austria 4 HD.skyde">
+    <title>Test Austria 04</title>
+</programme>
+<programme start="20260317104500 +0000" stop="20260317105000 +0000" channel="Sky Sport Austria 4 HD.skyde">
+    <title>Test Austria 04 with BO-DE</title>
+</programme>
+<programme start="20260317105000 +0000" stop="20260317105500 +0000" channel="Sky Sport Austria 4 HD.skyde">
+    <title>Test Austria 04 with BO-AU</title>
+</programme>
+<programme start="20260317105500 +0000" stop="20260317110000 +0000" channel="Sky Sport Austria 4 HD.skyde">
+    <title>Test Austria 04 with BO-ALLGEMEIN</title>
+</programme>
+<programme start="20260317110000 +0000" stop="20260317110500 +0000" channel="Sky Sport Austria 4 HD.skyde">
+    <title>Test Austria 04</title>
+</programme>
+<programme start="20260317110500 +0000" stop="20260317111000 +0000" channel="Sky Sport Austria 4 HD.skyde">
+    <title>Test Austria 04 with BO-DE</title>
+</programme>
+<programme start="20260317111000 +0000" stop="20260317111500 +0000" channel="Sky Sport Austria 4 HD.skyde">
+    <title>Test Austria 04 with BO-AU</title>
+</programme>
+<programme start="20260317111500 +0000" stop="20260317112000 +0000" channel="Sky Sport Austria 4 HD.skyde">
+    <title>Test Austria 04 with BO-ALLGEMEIN</title>
+</programme>
+<programme start="20260317112000 +0000" stop="20260317112500 +0000" channel="Sky Sport Austria 4 HD.skyde">
+    <title>Test Austria 04</title>
+</programme>
+<programme start="20260317112500 +0000" stop="20260317113000 +0000" channel="Sky Sport Austria 4 HD.skyde">
+    <title>Test Austria 04 with BO-DE</title>
+</programme>
+<programme start="20260317113000 +0000" stop="20260317113500 +0000" channel="Sky Sport Austria 4 HD.skyde">
+    <title>Test Austria 04 with BO-AU</title>
+</programme>
+<programme start="20260317113500 +0000" stop="20260317114000 +0000" channel="Sky Sport Austria 4 HD.skyde">
+    <title>Test Austria 04 with BO-ALLGEMEIN</title>
+</programme>
+<programme start="20260317114000 +0000" stop="20260317114500 +0000" channel="Sky Sport Austria 4 HD.skyde">
+    <title>Test Austria 04</title>
+</programme>
+<programme start="20260317114500 +0000" stop="20260317115000 +0000" channel="Sky Sport Austria 4 HD.skyde">
+    <title>Test Austria 04 with BO-DE</title>
+</programme>
+<programme start="20260317115000 +0000" stop="20260317115500 +0000" channel="Sky Sport Austria 4 HD.skyde">
+    <title>Test Austria 04 with BO-AU</title>
+</programme>
+<programme start="20260317115500 +0000" stop="20260317120000 +0000" channel="Sky Sport Austria 4 HD.skyde">
+    <title>Test Austria 04 with BO-ALLGEMEIN</title>
+</programme>
+<programme start="20260317120000 +0000" stop="20260317120500 +0000" channel="Sky Sport Austria 4 HD.skyde">
+    <title>Test Austria 04</title>
+</programme>
+<programme start="20260317120500 +0000" stop="20260317121000 +0000" channel="Sky Sport Austria 4 HD.skyde">
+    <title>Test Austria 04 with BO-DE</title>
+</programme>
+<programme start="20260317121000 +0000" stop="20260317121500 +0000" channel="Sky Sport Austria 4 HD.skyde">
+    <title>Test Austria 04 with BO-AU</title>
+</programme>
+<programme start="20260317121500 +0000" stop="20260317122000 +0000" channel="Sky Sport Austria 4 HD.skyde">
+    <title>Test Austria 04 with BO-ALLGEMEIN</title>
+</programme>
+<programme start="20260317122000 +0000" stop="20260317122500 +0000" channel="Sky Sport Austria 4 HD.skyde">
+    <title>Test Austria 04</title>
+</programme>
+<programme start="20260317122500 +0000" stop="20260317123000 +0000" channel="Sky Sport Austria 4 HD.skyde">
+    <title>Test Austria 04 with BO-DE</title>
+</programme>
+<programme start="20260317123000 +0000" stop="20260317123500 +0000" channel="Sky Sport Austria 4 HD.skyde">
+    <title>Test Austria 04 with BO-AU</title>
+</programme>
+<programme start="20260317123500 +0000" stop="20260317124000 +0000" channel="Sky Sport Austria 4 HD.skyde">
+    <title>Test Austria 04 with BO-ALLGEMEIN</title>
+</programme>
+<programme start="20260317124000 +0000" stop="20260317124500 +0000" channel="Sky Sport Austria 4 HD.skyde">
+    <title>Test Austria 04</title>
+</programme>
+<programme start="20260317124500 +0000" stop="20260317125000 +0000" channel="Sky Sport Austria 4 HD.skyde">
+    <title>Test Austria 04 with BO-DE</title>
+</programme>
+<programme start="20260317125000 +0000" stop="20260317125500 +0000" channel="Sky Sport Austria 4 HD.skyde">
+    <title>Test Austria 04 with BO-AU</title>
+</programme>
+<programme start="20260317125500 +0000" stop="20260317130000 +0000" channel="Sky Sport Austria 4 HD.skyde">
+    <title>Test Austria 04 with BO-ALLGEMEIN</title>
+</programme>
+<programme start="20260317130000 +0000" stop="20260317130500 +0000" channel="Sky Sport Austria 4 HD.skyde">
+    <title>Test Austria 04</title>
+</programme>
+<programme start="20260317130500 +0000" stop="20260317131000 +0000" channel="Sky Sport Austria 4 HD.skyde">
+    <title>Test Austria 04 with BO-DE</title>
+</programme>
+<programme start="20260317131000 +0000" stop="20260317131500 +0000" channel="Sky Sport Austria 4 HD.skyde">
+    <title>Test Austria 04 with BO-AU</title>
+</programme>
+<programme start="20260317131500 +0000" stop="20260317132000 +0000" channel="Sky Sport Austria 4 HD.skyde">
+    <title>Test Austria 04 with BO-ALLGEMEIN</title>
+</programme>
+<programme start="20260317132000 +0000" stop="20260317132500 +0000" channel="Sky Sport Austria 4 HD.skyde">
+    <title>Test Austria 04</title>
+</programme>
+<programme start="20260317132500 +0000" stop="20260317133000 +0000" channel="Sky Sport Austria 4 HD.skyde">
+    <title>Test Austria 04 with BO-DE</title>
+</programme>
+<programme start="20260317133000 +0000" stop="20260317133500 +0000" channel="Sky Sport Austria 4 HD.skyde">
+    <title>Test Austria 04 with BO-AU</title>
+</programme>
+<programme start="20260317133500 +0000" stop="20260317134000 +0000" channel="Sky Sport Austria 4 HD.skyde">
+    <title>Test Austria 04 with BO-ALLGEMEIN</title>
+</programme>
+<programme start="20260317134000 +0000" stop="20260317134500 +0000" channel="Sky Sport Austria 4 HD.skyde">
+    <title>Test Austria 04</title>
+</programme>
+<programme start="20260317134500 +0000" stop="20260317135000 +0000" channel="Sky Sport Austria 4 HD.skyde">
+    <title>Test Austria 04 with BO-DE</title>
+</programme>
+<programme start="20260317135000 +0000" stop="20260317135500 +0000" channel="Sky Sport Austria 4 HD.skyde">
+    <title>Test Austria 04 with BO-AU</title>
+</programme>
+<programme start="20260317135500 +0000" stop="20260317140000 +0000" channel="Sky Sport Austria 4 HD.skyde">
+    <title>Test Austria 04 with BO-ALLGEMEIN</title>
+</programme>
+<programme start="20260317140000 +0000" stop="20260317140500 +0000" channel="Sky Sport Austria 4 HD.skyde">
+    <title>Test Austria 04</title>
+</programme>
+<programme start="20260317140500 +0000" stop="20260317141000 +0000" channel="Sky Sport Austria 4 HD.skyde">
+    <title>Test Austria 04 with BO-DE</title>
+</programme>
+<programme start="20260317141000 +0000" stop="20260317141500 +0000" channel="Sky Sport Austria 4 HD.skyde">
+    <title>Test Austria 04 with BO-AU</title>
+</programme>
+<programme start="20260317141500 +0000" stop="20260317142000 +0000" channel="Sky Sport Austria 4 HD.skyde">
+    <title>Test Austria 04 with BO-ALLGEMEIN</title>
+</programme>
+<programme start="20260317142000 +0000" stop="20260317142500 +0000" channel="Sky Sport Austria 4 HD.skyde">
+    <title>Test Austria 04</title>
+</programme>
+<programme start="20260317142500 +0000" stop="20260317143000 +0000" channel="Sky Sport Austria 4 HD.skyde">
+    <title>Test Austria 04 with BO-DE</title>
+</programme>
+<programme start="20260317143000 +0000" stop="20260317143500 +0000" channel="Sky Sport Austria 4 HD.skyde">
+    <title>Test Austria 04 with BO-AU</title>
+</programme>
+<programme start="20260317143500 +0000" stop="20260317144000 +0000" channel="Sky Sport Austria 4 HD.skyde">
+    <title>Test Austria 04 with BO-ALLGEMEIN</title>
+</programme>
+<programme start="20260317144000 +0000" stop="20260317144500 +0000" channel="Sky Sport Austria 4 HD.skyde">
+    <title>Test Austria 04</title>
+</programme>
+<programme start="20260317144500 +0000" stop="20260317145000 +0000" channel="Sky Sport Austria 4 HD.skyde">
+    <title>Test Austria 04 with BO-DE</title>
+</programme>
+<programme start="20260317145000 +0000" stop="20260317145500 +0000" channel="Sky Sport Austria 4 HD.skyde">
+    <title>Test Austria 04 with BO-AU</title>
+</programme>
+<programme start="20260317145500 +0000" stop="20260317150000 +0000" channel="Sky Sport Austria 4 HD.skyde">
+    <title>Test Austria 04 with BO-ALLGEMEIN</title>
+</programme>
+<programme start="20260317150000 +0000" stop="20260317150500 +0000" channel="Sky Sport Austria 4 HD.skyde">
+    <title>Test Austria 04</title>
+</programme>
+<programme start="20260317150500 +0000" stop="20260317151000 +0000" channel="Sky Sport Austria 4 HD.skyde">
+    <title>Test Austria 04 with BO-DE</title>
+</programme>
+<programme start="20260317151000 +0000" stop="20260317151500 +0000" channel="Sky Sport Austria 4 HD.skyde">
+    <title>Test Austria 04 with BO-AU</title>
+</programme>
+<programme start="20260317151500 +0000" stop="20260317152000 +0000" channel="Sky Sport Austria 4 HD.skyde">
+    <title>Test Austria 04 with BO-ALLGEMEIN</title>
+</programme>
+<programme start="20260317152000 +0000" stop="20260317152500 +0000" channel="Sky Sport Austria 4 HD.skyde">
+    <title>Test Austria 04</title>
+</programme>
+<programme start="20260317152500 +0000" stop="20260317153000 +0000" channel="Sky Sport Austria 4 HD.skyde">
+    <title>Test Austria 04 with BO-DE</title>
+</programme>
+<programme start="20260317153000 +0000" stop="20260317153500 +0000" channel="Sky Sport Austria 4 HD.skyde">
+    <title>Test Austria 04 with BO-AU</title>
+</programme>
+<programme start="20260317153500 +0000" stop="20260317154000 +0000" channel="Sky Sport Austria 4 HD.skyde">
+    <title>Test Austria 04 with BO-ALLGEMEIN</title>
+</programme>
+<programme start="20260317154000 +0000" stop="20260317154500 +0000" channel="Sky Sport Austria 4 HD.skyde">
+    <title>Test Austria 04</title>
+</programme>
+<programme start="20260317154500 +0000" stop="20260317155000 +0000" channel="Sky Sport Austria 4 HD.skyde">
+    <title>Test Austria 04 with BO-DE</title>
+</programme>
+<programme start="20260317155000 +0000" stop="20260317155500 +0000" channel="Sky Sport Austria 4 HD.skyde">
+    <title>Test Austria 04 with BO-AU</title>
+</programme>
+<programme start="20260317155500 +0000" stop="20260317160000 +0000" channel="Sky Sport Austria 4 HD.skyde">
+    <title>Test Austria 04 with BO-ALLGEMEIN</title>
+</programme>
+<programme start="20260317160000 +0000" stop="20260317160500 +0000" channel="Sky Sport Austria 4 HD.skyde">
+    <title>Test Austria 04</title>
+</programme>
+<programme start="20260317160500 +0000" stop="20260317161000 +0000" channel="Sky Sport Austria 4 HD.skyde">
+    <title>Test Austria 04 with BO-DE</title>
+</programme>
+<programme start="20260317161000 +0000" stop="20260317161500 +0000" channel="Sky Sport Austria 4 HD.skyde">
+    <title>Test Austria 04 with BO-AU</title>
+</programme>
+<programme start="20260317161500 +0000" stop="20260317162000 +0000" channel="Sky Sport Austria 4 HD.skyde">
+    <title>Test Austria 04 with BO-ALLGEMEIN</title>
+</programme>
+<programme start="20260317162000 +0000" stop="20260317162500 +0000" channel="Sky Sport Austria 4 HD.skyde">
+    <title>Test Austria 04</title>
+</programme>
+<programme start="20260317162500 +0000" stop="20260317163000 +0000" channel="Sky Sport Austria 4 HD.skyde">
+    <title>Test Austria 04 with BO-DE</title>
+</programme>
+<programme start="20260317163000 +0000" stop="20260317163500 +0000" channel="Sky Sport Austria 4 HD.skyde">
+    <title>Test Austria 04 with BO-AU</title>
+</programme>
+<programme start="20260317163500 +0000" stop="20260317164000 +0000" channel="Sky Sport Austria 4 HD.skyde">
+    <title>Test Austria 04 with BO-ALLGEMEIN</title>
+</programme>
+<programme start="20260317164000 +0000" stop="20260317164500 +0000" channel="Sky Sport Austria 4 HD.skyde">
+    <title>Test Austria 04</title>
+</programme>
+<programme start="20260317164500 +0000" stop="20260317165000 +0000" channel="Sky Sport Austria 4 HD.skyde">
+    <title>Test Austria 04 with BO-DE</title>
+</programme>
+<programme start="20260317165000 +0000" stop="20260317165500 +0000" channel="Sky Sport Austria 4 HD.skyde">
+    <title>Test Austria 04 with BO-AU</title>
+</programme>
+<programme start="20260317165500 +0000" stop="20260317170000 +0000" channel="Sky Sport Austria 4 HD.skyde">
+    <title>Test Austria 04 with BO-ALLGEMEIN</title>
+</programme>
 <programme start="20260317193000 +0000" stop="20260317195000 +0000" channel="Sky Sport Austria 4 HD.skyde">
     <title>Es folgt: Live UEFA Champions League</title>
 </programme>
-<programme start="20260317195000 +0000" stop="20260317220000 +0000" channel="Sky Sport Austria 4 HD.skyde">
+<programme start="20260317195000 +0000" stop="20260317223000 +0000" channel="Sky Sport Austria 4 HD.skyde">
     <title>Live UEFA CL: FC Chelsea - Paris Saint-Germain, Achtelfinale Rückspiel, Dienstag</title>
 </programme>
 <programme start="20260317171500 +0000" stop="20260317173500 +0000" channel="Sky Sport Austria 5 HD.skyde">
@@ -2606,7 +2897,7 @@ Warning: Undefined array key "et" in /usr/home/ManusiaBiasa/domains/manusiabiasa
 <programme start="20260317144000 +0000" stop="20260317150000 +0000" channel="Sky Sport Austria 6 HD.skyde">
     <title>WTA: Es folgt</title>
 </programme>
-<programme start="20260317150000 +0000" stop="20260317230000 +0000" channel="Sky Sport Austria 6 HD.skyde">
+<programme start="20260317150000 +0000" stop="20260318010000 +0000" channel="Sky Sport Austria 6 HD.skyde">
     <title>Live WTA 1000: Miami Open presented by Itaú in Miami, Florida (USA), 1. Tag</title>
 </programme>
 <programme start="20260316230000 +0000" stop="20260316233000 +0000" channel="Sky Sport Bundesliga HD.skyde">
@@ -3116,10 +3407,43 @@ Warning: Undefined array key "et" in /usr/home/ManusiaBiasa/domains/manusiabiasa
 <programme start="20260317150000 +0000" stop="20260317230000 +0000" channel="Sky Sport Top Event HD.skyde">
     <title>Live WTA 1000: Miami Open presented by Itaú in Miami, Florida (USA), 1. Tag</title>
 </programme>
-<programme start="20260316230000 +0000" stop="20260317014500 +0000" channel="Sky Sport 1 HD.skyde">
+<programme start="20260317080000 +0000" stop="20260317093000 +0000" channel="Sky Sport UHD.skyde">
+    <title>F1: 1. Freies Training - GP China</title>
+</programme>
+<programme start="20260317093000 +0000" stop="20260317103000 +0000" channel="Sky Sport UHD.skyde">
+    <title>F1: Sprint Qualifying - GP China</title>
+</programme>
+<programme start="20260317103000 +0000" stop="20260317113000 +0000" channel="Sky Sport UHD.skyde">
+    <title>F1: Sprint - GP China</title>
+</programme>
+<programme start="20260317113000 +0000" stop="20260317130000 +0000" channel="Sky Sport UHD.skyde">
+    <title>F1: Qualifying - GP China</title>
+</programme>
+<programme start="20260317130000 +0000" stop="20260317150000 +0000" channel="Sky Sport UHD.skyde">
+    <title>F1: Rennen - GP China</title>
+</programme>
+<programme start="20260317150000 +0000" stop="20260317160000 +0000" channel="Sky Sport UHD.skyde">
+    <title>F1 Academy: 2. Rennen - GP China</title>
+</programme>
+<programme start="20260317160000 +0000" stop="20260317180000 +0000" channel="Sky Sport UHD.skyde">
+    <title>PL: Manchester United - Aston Villa, 30. Spieltag</title>
+</programme>
+<programme start="20260317180000 +0000" stop="20260317200000 +0000" channel="Sky Sport UHD.skyde">
+    <title>PL: FC Liverpool - Tottenham Hotspur, Match of the Week, 30. Spieltag</title>
+</programme>
+<programme start="20260317200000 +0000" stop="20260317203000 +0000" channel="Sky Sport UHD.skyde">
+    <title>PL: Match of the Week: Die Analyse, LIV - TOT, 30. Spieltag</title>
+</programme>
+<programme start="20260317203000 +0000" stop="20260317223000 +0000" channel="Sky Sport UHD.skyde">
+    <title>F1: Rennen - GP China</title>
+</programme>
+<programme start="20260317223000 +0000" stop="20260317233000 +0000" channel="Sky Sport UHD.skyde">
+    <title>F1 Academy: 2. Rennen - GP China</title>
+</programme>
+<programme start="20260316230000 +0000" stop="20260317013000 +0000" channel="Sky Sport 1 HD.skyde">
     <title>Live NBA: Orlando Magic @ Atlanta Hawks</title>
 </programme>
-<programme start="20260317014500 +0000" stop="20260317040000 +0000" channel="Sky Sport 1 HD.skyde">
+<programme start="20260317013000 +0000" stop="20260317040000 +0000" channel="Sky Sport 1 HD.skyde">
     <title>Live NBA: LA Lakers @ Houston Rockets</title>
 </programme>
 <programme start="20260317040000 +0000" stop="20260317090000 +0000" channel="Sky Sport 1 HD.skyde">
