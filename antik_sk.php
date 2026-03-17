@@ -811,6 +811,78 @@
   <programme start="20260319215000 +0000" stop="20260319231500 +0000" channel="JOJ +1.webtv.sk">
     <title lang="id">Mama, ožeň ma</title>
   </programme>
+  <programme start="20260318223000 +0000" stop="20260318232500 +0000" channel="Markíza Klasik.webtv.sk">
+    <title lang="id">Komisár Rex VII (13)</title>
+  </programme>
+  <programme start="20260318232500 +0000" stop="20260319001000 +0000" channel="Markíza Klasik.webtv.sk">
+    <title lang="id">Komisár Rex VIII (1)</title>
+  </programme>
+  <programme start="20260319001000 +0000" stop="20260319021500 +0000" channel="Markíza Klasik.webtv.sk">
+    <title lang="id">Sedem s r.o. (4)</title>
+  </programme>
+  <programme start="20260319021500 +0000" stop="20260319030500 +0000" channel="Markíza Klasik.webtv.sk">
+    <title lang="id">Dereš (4)</title>
+  </programme>
+  <programme start="20260319030500 +0000" stop="20260319050000 +0000" channel="Markíza Klasik.webtv.sk">
+    <title lang="id">Aj múdry schybí (29)</title>
+  </programme>
+  <programme start="20260319050000 +0000" stop="20260319062500 +0000" channel="Markíza Klasik.webtv.sk">
+    <title lang="id">Aj múdry schybí (30)</title>
+  </programme>
+  <programme start="20260319062500 +0000" stop="20260319064500 +0000" channel="Markíza Klasik.webtv.sk">
+    <title lang="id">M.A.S.H I (4)</title>
+  </programme>
+  <programme start="20260319064500 +0000" stop="20260319073500 +0000" channel="Markíza Klasik.webtv.sk">
+    <title lang="id">Knight Rider II (3)</title>
+  </programme>
+  <programme start="20260319073500 +0000" stop="20260319083500 +0000" channel="Markíza Klasik.webtv.sk">
+    <title lang="id">Knight Rider II (4)</title>
+  </programme>
+  <programme start="20260319083500 +0000" stop="20260319092000 +0000" channel="Markíza Klasik.webtv.sk">
+    <title lang="id">Komisár Rex VII (13)</title>
+  </programme>
+  <programme start="20260319092000 +0000" stop="20260319100500 +0000" channel="Markíza Klasik.webtv.sk">
+    <title lang="id">Komisár Rex VIII (1)</title>
+  </programme>
+  <programme start="20260319100500 +0000" stop="20260319114500 +0000" channel="Markíza Klasik.webtv.sk">
+    <title lang="id">Žandár sa žení</title>
+  </programme>
+  <programme start="20260319114500 +0000" stop="20260319123000 +0000" channel="Markíza Klasik.webtv.sk">
+    <title lang="id">Herkules V (6)</title>
+  </programme>
+  <programme start="20260319123000 +0000" stop="20260319131500 +0000" channel="Markíza Klasik.webtv.sk">
+    <title lang="id">Herkules V (7)</title>
+  </programme>
+  <programme start="20260319131500 +0000" stop="20260319142000 +0000" channel="Markíza Klasik.webtv.sk">
+    <title lang="id">Knight Rider II (5)</title>
+  </programme>
+  <programme start="20260319142000 +0000" stop="20260319152000 +0000" channel="Markíza Klasik.webtv.sk">
+    <title lang="id">Knight Rider II (6)</title>
+  </programme>
+  <programme start="20260319152000 +0000" stop="20260319162000 +0000" channel="Markíza Klasik.webtv.sk">
+    <title lang="id">Kobra 11 XVII (11)</title>
+  </programme>
+  <programme start="20260319162000 +0000" stop="20260319172500 +0000" channel="Markíza Klasik.webtv.sk">
+    <title lang="id">Kobra 11 XVII (12)</title>
+  </programme>
+  <programme start="20260319172500 +0000" stop="20260319182500 +0000" channel="Markíza Klasik.webtv.sk">
+    <title lang="id">Komisár Rex VIII (2)</title>
+  </programme>
+  <programme start="20260319182500 +0000" stop="20260319192500 +0000" channel="Markíza Klasik.webtv.sk">
+    <title lang="id">Komisár Rex VIII (3)</title>
+  </programme>
+  <programme start="20260319192500 +0000" stop="20260319200000 +0000" channel="Markíza Klasik.webtv.sk">
+    <title lang="id">M.A.S.H I (5)</title>
+  </programme>
+  <programme start="20260319200000 +0000" stop="20260319220500 +0000" channel="Markíza Klasik.webtv.sk">
+    <title lang="id">Karambol 2</title>
+  </programme>
+  <programme start="20260319220500 +0000" stop="20260319223500 +0000" channel="Markíza Klasik.webtv.sk">
+    <title lang="id">M.A.S.H I (5)</title>
+  </programme>
+  <programme start="20260319223500 +0000" stop="20260319233000 +0000" channel="Markíza Klasik.webtv.sk">
+    <title lang="id">Komisár Rex VIII (2)</title>
+  </programme>
   <programme start="20260318211500 +0000" stop="20260318235000 +0000" channel="DajTo.webtv.sk">
     <title lang="id">Ferrari</title>
   </programme>
@@ -4915,84 +4987,6 @@
   <programme start="20260319223000 +0000" stop="20260319230000 +0000" channel="Arena Sport 1.webtv.sk">
     <title lang="id">Autožurnál</title>
   </programme>
-  <programme start="20260318230000 +0000" stop="20260319070000 +0000" channel="Arena Sport 2.webtv.sk">
-    <title lang="id">Nočné vysielanie</title>
-  </programme>
-  <programme start="20260319070000 +0000" stop="20260319073000 +0000" channel="Arena Sport 2.webtv.sk">
-    <title lang="id">Naša Garáž</title>
-  </programme>
-  <programme start="20260319073000 +0000" stop="20260319080000 +0000" channel="Arena Sport 2.webtv.sk">
-    <title lang="id">Naša Garáž</title>
-  </programme>
-  <programme start="20260319080000 +0000" stop="20260319083000 +0000" channel="Arena Sport 2.webtv.sk">
-    <title lang="id">Piok Cars</title>
-  </programme>
-  <programme start="20260319083000 +0000" stop="20260319090000 +0000" channel="Arena Sport 2.webtv.sk">
-    <title lang="id">MM Automotive</title>
-  </programme>
-  <programme start="20260319090000 +0000" stop="20260319100000 +0000" channel="Arena Sport 2.webtv.sk">
-    <title lang="id">Vytuningované jazdy Fínsko</title>
-  </programme>
-  <programme start="20260319100000 +0000" stop="20260319103000 +0000" channel="Arena Sport 2.webtv.sk">
-    <title lang="id">CARSHOW</title>
-  </programme>
-  <programme start="20260319103000 +0000" stop="20260319110000 +0000" channel="Arena Sport 2.webtv.sk">
-    <title lang="id">Autožurnál</title>
-  </programme>
-  <programme start="20260319110000 +0000" stop="20260319113000 +0000" channel="Arena Sport 2.webtv.sk">
-    <title lang="id">Motoring</title>
-  </programme>
-  <programme start="20260319113000 +0000" stop="20260319120000 +0000" channel="Arena Sport 2.webtv.sk">
-    <title lang="id">DRIVE IT - Ondrej Macko</title>
-  </programme>
-  <programme start="20260319120000 +0000" stop="20260319123000 +0000" channel="Arena Sport 2.webtv.sk">
-    <title lang="id">Výběrová auta</title>
-  </programme>
-  <programme start="20260319123000 +0000" stop="20260319131500 +0000" channel="Arena Sport 2.webtv.sk">
-    <title lang="id">Záchrancovia klasických áut</title>
-  </programme>
-  <programme start="20260319131500 +0000" stop="20260319134500 +0000" channel="Arena Sport 2.webtv.sk">
-    <title lang="id">Piok Cars</title>
-  </programme>
-  <programme start="20260319134500 +0000" stop="20260319140000 +0000" channel="Arena Sport 2.webtv.sk">
-    <title lang="id">Švihák testuje</title>
-  </programme>
-  <programme start="20260319140000 +0000" stop="20260319143000 +0000" channel="Arena Sport 2.webtv.sk">
-    <title lang="id">MM Automotive</title>
-  </programme>
-  <programme start="20260319143000 +0000" stop="20260319151500 +0000" channel="Arena Sport 2.webtv.sk">
-    <title lang="id">Vytuningované jazdy Fínsko</title>
-  </programme>
-  <programme start="20260319151500 +0000" stop="20260319160000 +0000" channel="Arena Sport 2.webtv.sk">
-    <title lang="id">DRIVE IT - Ondrej Macko</title>
-  </programme>
-  <programme start="20260319160000 +0000" stop="20260319164500 +0000" channel="Arena Sport 2.webtv.sk">
-    <title lang="id">Naša Garáž</title>
-  </programme>
-  <programme start="20260319164500 +0000" stop="20260319173000 +0000" channel="Arena Sport 2.webtv.sk">
-    <title lang="id">MM Automotive</title>
-  </programme>
-  <programme start="20260319173000 +0000" stop="20260319180000 +0000" channel="Arena Sport 2.webtv.sk">
-    <title lang="id">Martin z Martina</title>
-  </programme>
-  <programme start="20260319180000 +0000" stop="20260319183000 +0000" channel="Arena Sport 2.webtv.sk">
-    <title lang="id">Naša Garáž</title>
-  </programme>
-  <programme start="20260319183000 +0000" stop="20260319190000 +0000" channel="Arena Sport 2.webtv.sk">
-    <title lang="id">Výběrová auta</title>
-  </programme>
-  <programme start="20260319190000 +0000" stop="20260319193000 +0000" channel="Arena Sport 2.webtv.sk">
-    <title lang="id">Piok Cars</title>
-  </programme>
-  <programme start="20260319193000 +0000" stop="20260319201500 +0000" channel="Arena Sport 2.webtv.sk">
-    <title lang="id">Piok Cars</title>
-  </programme>
-  <programme start="20260319201500 +0000" stop="20260319210000 +0000" channel="Arena Sport 2.webtv.sk">
-    <title lang="id">Martin z Martina</title>
-  </programme>
-  <programme start="20260319210000 +0000" stop="20260319230000 +0000" channel="Arena Sport 2.webtv.sk">
-    <title lang="id">The LiUNA!</title>
-  </programme>
   <programme start="20260318222000 +0000" stop="20260319000000 +0000" channel="Nova Sport 1.webtv.sk">
     <title lang="id">Montreal Canadiens - Boston Bruins</title>
   </programme>
@@ -6687,6 +6681,168 @@
   </programme>
   <programme start="20260319224000 +0000" stop="20260319233500 +0000" channel="Love Nature.webtv.sk">
     <title lang="id">V divočině Indie (3)</title>
+  </programme>
+  <programme start="20260318230000 +0000" stop="20260318231500 +0000" channel="Doktor TV.webtv.sk">
+    <title lang="id">Medi noviny</title>
+  </programme>
+  <programme start="20260318231500 +0000" stop="20260318233000 +0000" channel="Doktor TV.webtv.sk">
+    <title lang="id">Diagnóza</title>
+  </programme>
+  <programme start="20260318233000 +0000" stop="20260319000000 +0000" channel="Doktor TV.webtv.sk">
+    <title lang="id">Spravodajský blok</title>
+  </programme>
+  <programme start="20260319000000 +0000" stop="20260319003000 +0000" channel="Doktor TV.webtv.sk">
+    <title lang="id">Medzi nami mamami</title>
+  </programme>
+  <programme start="20260319003000 +0000" stop="20260319010000 +0000" channel="Doktor TV.webtv.sk">
+    <title lang="id">Terapia</title>
+  </programme>
+  <programme start="20260319010000 +0000" stop="20260319012500 +0000" channel="Doktor TV.webtv.sk">
+    <title lang="id">Geniálny život s Michaelou</title>
+  </programme>
+  <programme start="20260319012500 +0000" stop="20260319014500 +0000" channel="Doktor TV.webtv.sk">
+    <title lang="id">Dr. Labka</title>
+  </programme>
+  <programme start="20260319014500 +0000" stop="20260319020000 +0000" channel="Doktor TV.webtv.sk">
+    <title lang="id">Doktor online</title>
+  </programme>
+  <programme start="20260319020000 +0000" stop="20260319023000 +0000" channel="Doktor TV.webtv.sk">
+    <title lang="id">Curricullum v</title>
+  </programme>
+  <programme start="20260319023000 +0000" stop="20260319024500 +0000" channel="Doktor TV.webtv.sk">
+    <title lang="id">Rodinná poradňa</title>
+  </programme>
+  <programme start="20260319024500 +0000" stop="20260319030000 +0000" channel="Doktor TV.webtv.sk">
+    <title lang="id">Ako na to</title>
+  </programme>
+  <programme start="20260319030000 +0000" stop="20260319031500 +0000" channel="Doktor TV.webtv.sk">
+    <title lang="id">Medi noviny</title>
+  </programme>
+  <programme start="20260319031500 +0000" stop="20260319033000 +0000" channel="Doktor TV.webtv.sk">
+    <title lang="id">Zdravo s Kelom</title>
+  </programme>
+  <programme start="20260319033000 +0000" stop="20260319040000 +0000" channel="Doktor TV.webtv.sk">
+    <title lang="id">Spravodajský blok</title>
+  </programme>
+  <programme start="20260319040000 +0000" stop="20260319050000 +0000" channel="Doktor TV.webtv.sk">
+    <title lang="id">Medzi nami mamami</title>
+  </programme>
+  <programme start="20260319050000 +0000" stop="20260319054500 +0000" channel="Doktor TV.webtv.sk">
+    <title lang="id">Cesty pomoci</title>
+  </programme>
+  <programme start="20260319054500 +0000" stop="20260319060000 +0000" channel="Doktor TV.webtv.sk">
+    <title lang="id">Doktor online</title>
+  </programme>
+  <programme start="20260319060000 +0000" stop="20260319065000 +0000" channel="Doktor TV.webtv.sk">
+    <title lang="id">Ordinácia s MUDr. Eliškou</title>
+  </programme>
+  <programme start="20260319065000 +0000" stop="20260319070000 +0000" channel="Doktor TV.webtv.sk">
+    <title lang="id">Diagnóza</title>
+  </programme>
+  <programme start="20260319070000 +0000" stop="20260319071500 +0000" channel="Doktor TV.webtv.sk">
+    <title lang="id">Medi noviny</title>
+  </programme>
+  <programme start="20260319071500 +0000" stop="20260319073000 +0000" channel="Doktor TV.webtv.sk">
+    <title lang="id">Zdravo s Kelom</title>
+  </programme>
+  <programme start="20260319073000 +0000" stop="20260319080000 +0000" channel="Doktor TV.webtv.sk">
+    <title lang="id">Spravodajský blok</title>
+  </programme>
+  <programme start="20260319080000 +0000" stop="20260319090000 +0000" channel="Doktor TV.webtv.sk">
+    <title lang="id">Medzi nami mamami</title>
+  </programme>
+  <programme start="20260319090000 +0000" stop="20260319094500 +0000" channel="Doktor TV.webtv.sk">
+    <title lang="id">Cesty pomoci</title>
+  </programme>
+  <programme start="20260319094500 +0000" stop="20260319100000 +0000" channel="Doktor TV.webtv.sk">
+    <title lang="id">Doktor online</title>
+  </programme>
+  <programme start="20260319100000 +0000" stop="20260319105000 +0000" channel="Doktor TV.webtv.sk">
+    <title lang="id">Ordinácia s MUDr. Eliškou</title>
+  </programme>
+  <programme start="20260319105000 +0000" stop="20260319110000 +0000" channel="Doktor TV.webtv.sk">
+    <title lang="id">Diagnóza</title>
+  </programme>
+  <programme start="20260319110000 +0000" stop="20260319111500 +0000" channel="Doktor TV.webtv.sk">
+    <title lang="id">Medi noviny</title>
+  </programme>
+  <programme start="20260319111500 +0000" stop="20260319113500 +0000" channel="Doktor TV.webtv.sk">
+    <title lang="id">Doktor online</title>
+  </programme>
+  <programme start="20260319113500 +0000" stop="20260319114500 +0000" channel="Doktor TV.webtv.sk">
+    <title lang="id">Terapia</title>
+  </programme>
+  <programme start="20260319114500 +0000" stop="20260319120000 +0000" channel="Doktor TV.webtv.sk">
+    <title lang="id">Ako na to</title>
+  </programme>
+  <programme start="20260319120000 +0000" stop="20260319123000 +0000" channel="Doktor TV.webtv.sk">
+    <title lang="id">Medzi nami mamami</title>
+  </programme>
+  <programme start="20260319123000 +0000" stop="20260319130000 +0000" channel="Doktor TV.webtv.sk">
+    <title lang="id">Nezávislosť</title>
+  </programme>
+  <programme start="20260319130000 +0000" stop="20260319133000 +0000" channel="Doktor TV.webtv.sk">
+    <title lang="id">Mikrosvety v nás</title>
+  </programme>
+  <programme start="20260319133000 +0000" stop="20260319140000 +0000" channel="Doktor TV.webtv.sk">
+    <title lang="id">O menopauze</title>
+  </programme>
+  <programme start="20260319140000 +0000" stop="20260319150000 +0000" channel="Doktor TV.webtv.sk">
+    <title lang="id">Ordinácia s MUDr. Romanom</title>
+  </programme>
+  <programme start="20260319150000 +0000" stop="20260319151500 +0000" channel="Doktor TV.webtv.sk">
+    <title lang="id">Medi noviny</title>
+  </programme>
+  <programme start="20260319151500 +0000" stop="20260319153000 +0000" channel="Doktor TV.webtv.sk">
+    <title lang="id">Zdravo s Kelom</title>
+  </programme>
+  <programme start="20260319153000 +0000" stop="20260319160000 +0000" channel="Doktor TV.webtv.sk">
+    <title lang="id">Spravodajský blok</title>
+  </programme>
+  <programme start="20260319160000 +0000" stop="20260319163000 +0000" channel="Doktor TV.webtv.sk">
+    <title lang="id">Medzi nami mamami</title>
+  </programme>
+  <programme start="20260319163000 +0000" stop="20260319165000 +0000" channel="Doktor TV.webtv.sk">
+    <title lang="id">Dr. Labka</title>
+  </programme>
+  <programme start="20260319165000 +0000" stop="20260319170000 +0000" channel="Doktor TV.webtv.sk">
+    <title lang="id">Ako na to</title>
+  </programme>
+  <programme start="20260319170000 +0000" stop="20260319180000 +0000" channel="Doktor TV.webtv.sk">
+    <title lang="id">Moja diéta</title>
+  </programme>
+  <programme start="20260319180000 +0000" stop="20260319185000 +0000" channel="Doktor TV.webtv.sk">
+    <title lang="id">Ordinácia s MUDr. Minou</title>
+  </programme>
+  <programme start="20260319185000 +0000" stop="20260319190000 +0000" channel="Doktor TV.webtv.sk">
+    <title lang="id">Diagnóza</title>
+  </programme>
+  <programme start="20260319190000 +0000" stop="20260319191500 +0000" channel="Doktor TV.webtv.sk">
+    <title lang="id">Medi noviny</title>
+  </programme>
+  <programme start="20260319191500 +0000" stop="20260319193000 +0000" channel="Doktor TV.webtv.sk">
+    <title lang="id">Zdravo s Kelom</title>
+  </programme>
+  <programme start="20260319193000 +0000" stop="20260319200000 +0000" channel="Doktor TV.webtv.sk">
+    <title lang="id">Spravodajský blok</title>
+  </programme>
+  <programme start="20260319200000 +0000" stop="20260319203000 +0000" channel="Doktor TV.webtv.sk">
+    <title lang="id">Medzi nami mamami</title>
+  </programme>
+  <programme start="20260319203000 +0000" stop="20260319205000 +0000" channel="Doktor TV.webtv.sk">
+    <title lang="id">Dr. Labka</title>
+  </programme>
+  <programme start="20260319205000 +0000" stop="20260319210000 +0000" channel="Doktor TV.webtv.sk">
+    <title lang="id">Ako na to</title>
+  </programme>
+  <programme start="20260319210000 +0000" stop="20260319220000 +0000" channel="Doktor TV.webtv.sk">
+    <title lang="id">Moja diéta</title>
+  </programme>
+  <programme start="20260319220000 +0000" stop="20260319225000 +0000" channel="Doktor TV.webtv.sk">
+    <title lang="id">Ordinácia s MUDr. Minou</title>
+  </programme>
+  <programme start="20260319225000 +0000" stop="20260319230000 +0000" channel="Doktor TV.webtv.sk">
+    <title lang="id">Diagnóza</title>
   </programme>
   <programme start="20260318230000 +0000" stop="20260319000000 +0000" channel="PARK TV.webtv.sk">
     <title lang="id">RELAX S PARK TV</title>
@@ -19722,42 +19878,6 @@
   </programme>
   <programme start="20260319185900 +0000" stop="20260319232900 +0000" channel="Retro Music Television.webtv.sk">
     <title lang="id">Retro party</title>
-  </programme>
-  <programme start="20260318230000 +0000" stop="20260318232000 +0000" channel="Rebel.webtv.sk">
-    <title lang="id">REBELSKÝ BAR</title>
-  </programme>
-  <programme start="20260318232000 +0000" stop="20260319022000 +0000" channel="Rebel.webtv.sk">
-    <title lang="id">Forever Rock</title>
-  </programme>
-  <programme start="20260319022000 +0000" stop="20260319052000 +0000" channel="Rebel.webtv.sk">
-    <title lang="id">Forever Rock</title>
-  </programme>
-  <programme start="20260319052000 +0000" stop="20260319080000 +0000" channel="Rebel.webtv.sk">
-    <title lang="id">Forever Rock</title>
-  </programme>
-  <programme start="20260319080000 +0000" stop="20260319082000 +0000" channel="Rebel.webtv.sk">
-    <title lang="id">REBELSKÝ BAR</title>
-  </programme>
-  <programme start="20260319082000 +0000" stop="20260319112000 +0000" channel="Rebel.webtv.sk">
-    <title lang="id">Forever Rock</title>
-  </programme>
-  <programme start="20260319112000 +0000" stop="20260319142000 +0000" channel="Rebel.webtv.sk">
-    <title lang="id">Forever Rock</title>
-  </programme>
-  <programme start="20260319142000 +0000" stop="20260319172000 +0000" channel="Rebel.webtv.sk">
-    <title lang="id">Forever Rock</title>
-  </programme>
-  <programme start="20260319172000 +0000" stop="20260319190000 +0000" channel="Rebel.webtv.sk">
-    <title lang="id">Forever Rock</title>
-  </programme>
-  <programme start="20260319190000 +0000" stop="20260319193000 +0000" channel="Rebel.webtv.sk">
-    <title lang="id">BACKSTAGE</title>
-  </programme>
-  <programme start="20260319193000 +0000" stop="20260319223000 +0000" channel="Rebel.webtv.sk">
-    <title lang="id">Forever Rock</title>
-  </programme>
-  <programme start="20260319223000 +0000" stop="20260319230000 +0000" channel="Rebel.webtv.sk">
-    <title lang="id">Forever Rock</title>
   </programme>
   <programme start="20260318222000 +0000" stop="20260319012000 +0000" channel="Relax.webtv.sk">
     <title lang="id">LUXUSSTORE</title>

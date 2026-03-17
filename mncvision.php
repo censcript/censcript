@@ -1,4 +1,111 @@
-Error: Unable to fetch data. HTTP Status Code: 500
+<programme start="20260316170000 +0000" stop="20260316173000 +0000" channel="ABC Australia.mncvision">
+    <title>The Pacific</title>
+</programme>
+<programme start="20260316173000 +0000" stop="20260316180000 +0000" channel="ABC Australia.mncvision">
+    <title>Movin&#039; To The Country</title>
+</programme>
+<programme start="20260316180000 +0000" stop="20260316190000 +0000" channel="ABC Australia.mncvision">
+    <title>The World</title>
+</programme>
+<programme start="20260316190000 +0000" stop="20260316200000 +0000" channel="ABC Australia.mncvision">
+    <title>News Breakfast</title>
+</programme>
+<programme start="20260316200000 +0000" stop="20260316220000 +0000" channel="ABC Australia.mncvision">
+    <title>News Breakfast</title>
+</programme>
+<programme start="20260316220000 +0000" stop="20260317010000 +0000" channel="ABC Australia.mncvision">
+    <title>ABC News Mornings</title>
+</programme>
+<programme start="20260317010000 +0000" stop="20260317020000 +0000" channel="ABC Australia.mncvision">
+    <title>ABC News At Noon</title>
+</programme>
+<programme start="20260317020000 +0000" stop="20260317023000 +0000" channel="ABC Australia.mncvision">
+    <title>Australian Story</title>
+</programme>
+<programme start="20260317023000 +0000" stop="20260317032000 +0000" channel="ABC Australia.mncvision">
+    <title>Great Australian Walks</title>
+</programme>
+<programme start="20260317032000 +0000" stop="20260317033000 +0000" channel="ABC Australia.mncvision">
+    <title>Bee Cause</title>
+</programme>
+<programme start="20260317033000 +0000" stop="20260317040000 +0000" channel="ABC Australia.mncvision">
+    <title>Extraordinary Animals</title>
+</programme>
+<programme start="20260317040000 +0000" stop="20260317050000 +0000" channel="ABC Australia.mncvision">
+    <title>Gardening Australia</title>
+</programme>
+<programme start="20260317050000 +0000" stop="20260317053000 +0000" channel="ABC Australia.mncvision">
+    <title>Landline</title>
+</programme>
+<programme start="20260317053000 +0000" stop="20260317060000 +0000" channel="ABC Australia.mncvision">
+    <title>Planet America</title>
+</programme>
+<programme start="20260317060000 +0000" stop="20260317070000 +0000" channel="ABC Australia.mncvision">
+    <title>ABC News With Joe O&#039;Brien</title>
+</programme>
+<programme start="20260317070000 +0000" stop="20260317072500 +0000" channel="ABC Australia.mncvision">
+    <title>The Cook Up With Adam Liaw</title>
+</programme>
+<programme start="20260317072500 +0000" stop="20260317075000 +0000" channel="ABC Australia.mncvision">
+    <title>Extraordinary Animals</title>
+</programme>
+<programme start="20260317075000 +0000" stop="20260317080000 +0000" channel="ABC Australia.mncvision">
+    <title>How Deadly</title>
+</programme>
+<programme start="20260317080000 +0000" stop="20260317083000 +0000" channel="ABC Australia.mncvision">
+    <title>ABC National News</title>
+</programme>
+<programme start="20260317083000 +0000" stop="20260317090000 +0000" channel="ABC Australia.mncvision">
+    <title>7.30</title>
+</programme>
+<programme start="20260317090000 +0000" stop="20260317093000 +0000" channel="ABC Australia.mncvision">
+    <title>Australian Story</title>
+</programme>
+<programme start="20260317093000 +0000" stop="20260317100000 +0000" channel="ABC Australia.mncvision">
+    <title>Heywire</title>
+</programme>
+<programme start="20260317100000 +0000" stop="20260317110000 +0000" channel="ABC Australia.mncvision">
+    <title>The World</title>
+</programme>
+<programme start="20260317110000 +0000" stop="20260317114500 +0000" channel="ABC Australia.mncvision">
+    <title>Great Australian Walks</title>
+</programme>
+<programme start="20260317114500 +0000" stop="20260317115500 +0000" channel="ABC Australia.mncvision">
+    <title>Bee Cause</title>
+</programme>
+<programme start="20260317115500 +0000" stop="20260317122000 +0000" channel="ABC Australia.mncvision">
+    <title>Extraordinary Animals</title>
+</programme>
+<programme start="20260317122000 +0000" stop="20260317123000 +0000" channel="ABC Australia.mncvision">
+    <title>How Deadly</title>
+</programme>
+<programme start="20260317123000 +0000" stop="20260317130000 +0000" channel="ABC Australia.mncvision">
+    <title>Culture By Design</title>
+</programme>
+<programme start="20260317130000 +0000" stop="20260317131500 +0000" channel="ABC Australia.mncvision">
+    <title>ABC Late News</title>
+</programme>
+<programme start="20260317131500 +0000" stop="20260317133000 +0000" channel="ABC Australia.mncvision">
+    <title>The Business</title>
+</programme>
+<programme start="20260317133000 +0000" stop="20260317140000 +0000" channel="ABC Australia.mncvision">
+    <title>7.30</title>
+</programme>
+<programme start="20260317140000 +0000" stop="20260317150000 +0000" channel="ABC Australia.mncvision">
+    <title>The World</title>
+</programme>
+<programme start="20260317150000 +0000" stop="20260317154500 +0000" channel="ABC Australia.mncvision">
+    <title>Great Australian Walks</title>
+</programme>
+<programme start="20260317154500 +0000" stop="20260317155500 +0000" channel="ABC Australia.mncvision">
+    <title>Bee Cause</title>
+</programme>
+<programme start="20260317155500 +0000" stop="20260317162500 +0000" channel="ABC Australia.mncvision">
+    <title>Australian Story</title>
+</programme>
+<programme start="20260317162500 +0000" stop="20260317165500 +0000" channel="ABC Australia.mncvision">
+    <title>Gardening Australia</title>
+</programme>
 <programme start="20260316170000 +0000" stop="20260316173000 +0000" channel="Al Jazeera English.mncvision">
     <title>News (L)</title>
 </programme>
@@ -116,7 +223,42 @@ Error: Unable to fetch data. HTTP Status Code: 500
 <programme start="20260317163000 +0000" stop="20260316170000 +0000" channel="Al Jazeera English.mncvision">
     <title>Counting The Cost</title>
 </programme>
-Error: Unable to fetch data. HTTP Status Code: 500
+<programme start="20260316170000 +0000" stop="20260316190000 +0000" channel="Al Quran Al Kareem.mncvision">
+    <title>Live From Mekkah</title>
+</programme>
+<programme start="20260316190000 +0000" stop="20260316210000 +0000" channel="Al Quran Al Kareem.mncvision">
+    <title>Live From Mekkah</title>
+</programme>
+<programme start="20260316210000 +0000" stop="20260316230000 +0000" channel="Al Quran Al Kareem.mncvision">
+    <title>Live From Mekkah</title>
+</programme>
+<programme start="20260316230000 +0000" stop="20260317010000 +0000" channel="Al Quran Al Kareem.mncvision">
+    <title>Live From Mekkah</title>
+</programme>
+<programme start="20260317010000 +0000" stop="20260317030000 +0000" channel="Al Quran Al Kareem.mncvision">
+    <title>Live From Mekkah</title>
+</programme>
+<programme start="20260317030000 +0000" stop="20260317050000 +0000" channel="Al Quran Al Kareem.mncvision">
+    <title>Live From Mekkah</title>
+</programme>
+<programme start="20260317050000 +0000" stop="20260317070000 +0000" channel="Al Quran Al Kareem.mncvision">
+    <title>Live From Mekkah</title>
+</programme>
+<programme start="20260317070000 +0000" stop="20260317090000 +0000" channel="Al Quran Al Kareem.mncvision">
+    <title>Live From Mekkah</title>
+</programme>
+<programme start="20260317090000 +0000" stop="20260317110000 +0000" channel="Al Quran Al Kareem.mncvision">
+    <title>Live From Mekkah</title>
+</programme>
+<programme start="20260317110000 +0000" stop="20260317130000 +0000" channel="Al Quran Al Kareem.mncvision">
+    <title>Live From Mekkah</title>
+</programme>
+<programme start="20260317130000 +0000" stop="20260317150000 +0000" channel="Al Quran Al Kareem.mncvision">
+    <title>Live From Mekkah</title>
+</programme>
+<programme start="20260317150000 +0000" stop="20260317153000 +0000" channel="Al Quran Al Kareem.mncvision">
+    <title>Live From Mekkah</title>
+</programme>
 <programme start="20260316170000 +0000" stop="20260316173000 +0000" channel="Animax.mncvision">
     <title>Why Raeliana Ended Up..., Ep 9</title>
 </programme>
@@ -972,10 +1114,246 @@ Error: Unable to fetch data. HTTP Status Code: 500
 <programme start="20260317165000 +0000" stop="20260316172000 +0000" channel="beIN Sports 1.mncvision">
     <title>Chasing The Dream: Melbourne</title>
 </programme>
-Error: Unable to fetch data. HTTP Status Code: 500
-Error: Unable to fetch data. HTTP Status Code: 500
-Error: Unable to fetch data. HTTP Status Code: 500
-Error: Unable to fetch data. HTTP Status Code: 500
+<programme start="20260316170000 +0000" stop="20260316185500 +0000" channel="beIN Sports 1 HD.mncvision">
+    <title>LaLiga 2025/26: RSO Vs OSA</title>
+</programme>
+<programme start="20260316185500 +0000" stop="20260316195500 +0000" channel="beIN Sports 1 HD.mncvision">
+    <title>HOKA Chiang Mai Thailand</title>
+</programme>
+<programme start="20260316195500 +0000" stop="20260316220000 +0000" channel="beIN Sports 1 HD.mncvision">
+    <title>LaLiga 2025/26: RAY Vs LEV (L)</title>
+</programme>
+<programme start="20260316220000 +0000" stop="20260317000000 +0000" channel="beIN Sports 1 HD.mncvision">
+    <title>F1 Main Race 2026: Chinese GP</title>
+</programme>
+<programme start="20260317000000 +0000" stop="20260317020000 +0000" channel="beIN Sports 1 HD.mncvision">
+    <title>LFCTV 2025/26: LIV Vs TOT</title>
+</programme>
+<programme start="20260317020000 +0000" stop="20260317023000 +0000" channel="beIN Sports 1 HD.mncvision">
+    <title>LFC Trending 2025/26, Ep 32</title>
+</programme>
+<programme start="20260317023000 +0000" stop="20260317030000 +0000" channel="beIN Sports 1 HD.mncvision">
+    <title>LFCTV HL 2025/26: GAL Vs LIV</title>
+</programme>
+<programme start="20260317030000 +0000" stop="20260317040000 +0000" channel="beIN Sports 1 HD.mncvision">
+    <title>FIA World Rally C&#039;ship HL 2026</title>
+</programme>
+<programme start="20260317040000 +0000" stop="20260317055000 +0000" channel="beIN Sports 1 HD.mncvision">
+    <title>LaLiga 2025/26: OVI Vs VAL</title>
+</programme>
+<programme start="20260317055000 +0000" stop="20260317074000 +0000" channel="beIN Sports 1 HD.mncvision">
+    <title>LaLiga 2025/26: MLL Vs ESP</title>
+</programme>
+<programme start="20260317074000 +0000" stop="20260317080000 +0000" channel="beIN Sports 1 HD.mncvision">
+    <title>Chasing The Dream: Melbourne</title>
+</programme>
+<programme start="20260317080000 +0000" stop="20260317083000 +0000" channel="beIN Sports 1 HD.mncvision">
+    <title>Going Pro 2026, Ep 4</title>
+</programme>
+<programme start="20260317083000 +0000" stop="20260317102500 +0000" channel="beIN Sports 1 HD.mncvision">
+    <title>LaLiga 2025/26: GIR Vs ATH</title>
+</programme>
+<programme start="20260317102500 +0000" stop="20260317110000 +0000" channel="beIN Sports 1 HD.mncvision">
+    <title>F1 Highlights 2026: Chinese GP</title>
+</programme>
+<programme start="20260317110000 +0000" stop="20260317125500 +0000" channel="beIN Sports 1 HD.mncvision">
+    <title>LaLiga 2025/26: BAR Vs SEV</title>
+</programme>
+<programme start="20260317125500 +0000" stop="20260317150000 +0000" channel="beIN Sports 1 HD.mncvision">
+    <title>UYL 2025/26: ATM Vs CLU (L)</title>
+</programme>
+<programme start="20260317150000 +0000" stop="20260317165000 +0000" channel="beIN Sports 1 HD.mncvision">
+    <title>LaLiga 2025/26: ALA Vs VIL</title>
+</programme>
+<programme start="20260317165000 +0000" stop="20260316172000 +0000" channel="beIN Sports 1 HD.mncvision">
+    <title>Chasing The Dream: Melbourne</title>
+</programme>
+<programme start="20260316184000 +0000" stop="20260316190000 +0000" channel="beIN Sports 2.mncvision">
+    <title>HSBC SVNS2 2026</title>
+</programme>
+<programme start="20260316190000 +0000" stop="20260316192200 +0000" channel="beIN Sports 2.mncvision">
+    <title>HSBC SVNS2 2026</title>
+</programme>
+<programme start="20260316192200 +0000" stop="20260316213000 +0000" channel="beIN Sports 2.mncvision">
+    <title>LaLiga 2 &#039;25/26: ALB Vs LPM (L)</title>
+</programme>
+<programme start="20260316213000 +0000" stop="20260316232000 +0000" channel="beIN Sports 2.mncvision">
+    <title>AFCON 2025: EGY Vs RSA</title>
+</programme>
+<programme start="20260316232000 +0000" stop="20260317011000 +0000" channel="beIN Sports 2.mncvision">
+    <title>AFCON 2025: ZAM Vs COM</title>
+</programme>
+<programme start="20260317011000 +0000" stop="20260317030000 +0000" channel="beIN Sports 2.mncvision">
+    <title>WSL 2025/26: LCL Vs ARS</title>
+</programme>
+<programme start="20260317030000 +0000" stop="20260317045000 +0000" channel="beIN Sports 2.mncvision">
+    <title>Super Lig 2025/26: TSR Vs RIZ</title>
+</programme>
+<programme start="20260317045000 +0000" stop="20260317064000 +0000" channel="beIN Sports 2.mncvision">
+    <title>WSL 2025/26: AVL Vs MCI</title>
+</programme>
+<programme start="20260317064000 +0000" stop="20260317070500 +0000" channel="beIN Sports 2.mncvision">
+    <title>HSBC SVNS Series 2026</title>
+</programme>
+<programme start="20260317070500 +0000" stop="20260317073000 +0000" channel="beIN Sports 2.mncvision">
+    <title>HSBC SVNS Series 2026</title>
+</programme>
+<programme start="20260317073000 +0000" stop="20260317075500 +0000" channel="beIN Sports 2.mncvision">
+    <title>HSBC SVNS Series 2026</title>
+</programme>
+<programme start="20260317075500 +0000" stop="20260317082000 +0000" channel="beIN Sports 2.mncvision">
+    <title>HSBC SVNS Series 2026</title>
+</programme>
+<programme start="20260317082000 +0000" stop="20260317084500 +0000" channel="beIN Sports 2.mncvision">
+    <title>HSBC SVNS Series 2026</title>
+</programme>
+<programme start="20260317084500 +0000" stop="20260317091000 +0000" channel="beIN Sports 2.mncvision">
+    <title>HSBC SVNS Series 2026</title>
+</programme>
+<programme start="20260317091000 +0000" stop="20260317093500 +0000" channel="beIN Sports 2.mncvision">
+    <title>HSBC SVNS Series 2026</title>
+</programme>
+<programme start="20260317093500 +0000" stop="20260317100000 +0000" channel="beIN Sports 2.mncvision">
+    <title>HSBC SVNS Series 2026</title>
+</programme>
+<programme start="20260317100000 +0000" stop="20260317115500 +0000" channel="beIN Sports 2.mncvision">
+    <title>WLC 2025/26: CHE Vs MUN</title>
+</programme>
+<programme start="20260317115500 +0000" stop="20260317125500 +0000" channel="beIN Sports 2.mncvision">
+    <title>HSBC SVNS Series HL 2026</title>
+</programme>
+<programme start="20260317125500 +0000" stop="20260317145500 +0000" channel="beIN Sports 2.mncvision">
+    <title>Best Of AO 2026: Men&#039;s Singles</title>
+</programme>
+<programme start="20260317145500 +0000" stop="20260317152500 +0000" channel="beIN Sports 2.mncvision">
+    <title>UYL 2025/26: VIL Vs PSG (L)</title>
+</programme>
+<programme start="20260316184000 +0000" stop="20260316190000 +0000" channel="beIN Sports 2 HD.mncvision">
+    <title>HSBC SVNS2 2026</title>
+</programme>
+<programme start="20260316190000 +0000" stop="20260316192200 +0000" channel="beIN Sports 2 HD.mncvision">
+    <title>HSBC SVNS2 2026</title>
+</programme>
+<programme start="20260316192200 +0000" stop="20260316213000 +0000" channel="beIN Sports 2 HD.mncvision">
+    <title>LaLiga 2 &#039;25/26: ALB Vs LPM (L)</title>
+</programme>
+<programme start="20260316213000 +0000" stop="20260316232000 +0000" channel="beIN Sports 2 HD.mncvision">
+    <title>AFCON 2025: EGY Vs RSA</title>
+</programme>
+<programme start="20260316232000 +0000" stop="20260317011000 +0000" channel="beIN Sports 2 HD.mncvision">
+    <title>AFCON 2025: ZAM Vs COM</title>
+</programme>
+<programme start="20260317011000 +0000" stop="20260317030000 +0000" channel="beIN Sports 2 HD.mncvision">
+    <title>WSL 2025/26: LCL Vs ARS</title>
+</programme>
+<programme start="20260317030000 +0000" stop="20260317045000 +0000" channel="beIN Sports 2 HD.mncvision">
+    <title>Super Lig 2025/26: TSR Vs RIZ</title>
+</programme>
+<programme start="20260317045000 +0000" stop="20260317064000 +0000" channel="beIN Sports 2 HD.mncvision">
+    <title>WSL 2025/26: AVL Vs MCI</title>
+</programme>
+<programme start="20260317064000 +0000" stop="20260317070500 +0000" channel="beIN Sports 2 HD.mncvision">
+    <title>HSBC SVNS Series 2026</title>
+</programme>
+<programme start="20260317070500 +0000" stop="20260317073000 +0000" channel="beIN Sports 2 HD.mncvision">
+    <title>HSBC SVNS Series 2026</title>
+</programme>
+<programme start="20260317073000 +0000" stop="20260317075500 +0000" channel="beIN Sports 2 HD.mncvision">
+    <title>HSBC SVNS Series 2026</title>
+</programme>
+<programme start="20260317075500 +0000" stop="20260317082000 +0000" channel="beIN Sports 2 HD.mncvision">
+    <title>HSBC SVNS Series 2026</title>
+</programme>
+<programme start="20260317082000 +0000" stop="20260317084500 +0000" channel="beIN Sports 2 HD.mncvision">
+    <title>HSBC SVNS Series 2026</title>
+</programme>
+<programme start="20260317084500 +0000" stop="20260317091000 +0000" channel="beIN Sports 2 HD.mncvision">
+    <title>HSBC SVNS Series 2026</title>
+</programme>
+<programme start="20260317091000 +0000" stop="20260317093500 +0000" channel="beIN Sports 2 HD.mncvision">
+    <title>HSBC SVNS Series 2026</title>
+</programme>
+<programme start="20260317093500 +0000" stop="20260317100000 +0000" channel="beIN Sports 2 HD.mncvision">
+    <title>HSBC SVNS Series 2026</title>
+</programme>
+<programme start="20260317100000 +0000" stop="20260317115500 +0000" channel="beIN Sports 2 HD.mncvision">
+    <title>WLC 2025/26: CHE Vs MUN</title>
+</programme>
+<programme start="20260317115500 +0000" stop="20260317125500 +0000" channel="beIN Sports 2 HD.mncvision">
+    <title>HSBC SVNS Series HL 2026</title>
+</programme>
+<programme start="20260317125500 +0000" stop="20260317145500 +0000" channel="beIN Sports 2 HD.mncvision">
+    <title>Best Of AO 2026: Men&#039;s Singles</title>
+</programme>
+<programme start="20260317145500 +0000" stop="20260317152500 +0000" channel="beIN Sports 2 HD.mncvision">
+    <title>UYL 2025/26: VIL Vs PSG (L)</title>
+</programme>
+<programme start="20260316181000 +0000" stop="20260316200000 +0000" channel="beIN Sports 3.mncvision">
+    <title>UCI World Tour 2026: Paris-Nice</title>
+</programme>
+<programme start="20260316200000 +0000" stop="20260316210000 +0000" channel="beIN Sports 3.mncvision">
+    <title>HSBC SVNS Series HL 2026</title>
+</programme>
+<programme start="20260316210000 +0000" stop="20260316220000 +0000" channel="beIN Sports 3.mncvision">
+    <title>Jet Ski World Series 2025</title>
+</programme>
+<programme start="20260316220000 +0000" stop="20260316230000 +0000" channel="beIN Sports 3.mncvision">
+    <title>UEL/UECL Highlights 2025/26</title>
+</programme>
+<programme start="20260316230000 +0000" stop="20260316233000 +0000" channel="beIN Sports 3.mncvision">
+    <title>MUTV HL 2025/26: NEW Vs MUN</title>
+</programme>
+<programme start="20260316233000 +0000" stop="20260317013000 +0000" channel="beIN Sports 3.mncvision">
+    <title>MUTV 2025/26: MUN Vs AVL</title>
+</programme>
+<programme start="20260317013000 +0000" stop="20260317020000 +0000" channel="beIN Sports 3.mncvision">
+    <title>MUTV Match Day: MUN Vs AVL</title>
+</programme>
+<programme start="20260317020000 +0000" stop="20260317035000 +0000" channel="beIN Sports 3.mncvision">
+    <title>UCL 2025/26: BOD Vs SCP</title>
+</programme>
+<programme start="20260317035000 +0000" stop="20260317045000 +0000" channel="beIN Sports 3.mncvision">
+    <title>UEL/UECL Highlights 2025/26</title>
+</programme>
+<programme start="20260317045000 +0000" stop="20260317052000 +0000" channel="beIN Sports 3.mncvision">
+    <title>MUTV HL 2025/26: NEW Vs MUN</title>
+</programme>
+<programme start="20260317052000 +0000" stop="20260317072000 +0000" channel="beIN Sports 3.mncvision">
+    <title>MUTV 2025/26: MUN Vs AVL</title>
+</programme>
+<programme start="20260317072000 +0000" stop="20260317075000 +0000" channel="beIN Sports 3.mncvision">
+    <title>MUTV Match Day: MUN Vs AVL</title>
+</programme>
+<programme start="20260317075000 +0000" stop="20260317082000 +0000" channel="beIN Sports 3.mncvision">
+    <title>Inside Sailing 2026: March</title>
+</programme>
+<programme start="20260317082000 +0000" stop="20260317085000 +0000" channel="beIN Sports 3.mncvision">
+    <title>The Outdoor Sports Show 2026</title>
+</programme>
+<programme start="20260317085000 +0000" stop="20260317092000 +0000" channel="beIN Sports 3.mncvision">
+    <title>UCL Magazine Show 2025/26</title>
+</programme>
+<programme start="20260317092000 +0000" stop="20260317111000 +0000" channel="beIN Sports 3.mncvision">
+    <title>UEL 2025/26: LIL Vs AVL</title>
+</programme>
+<programme start="20260317111000 +0000" stop="20260317130000 +0000" channel="beIN Sports 3.mncvision">
+    <title>UEL 2025/26: VFB Vs POR</title>
+</programme>
+<programme start="20260317130000 +0000" stop="20260317133000 +0000" channel="beIN Sports 3.mncvision">
+    <title>MUTV HL 2025/26: NEW Vs MUN</title>
+</programme>
+<programme start="20260317133000 +0000" stop="20260317153000 +0000" channel="beIN Sports 3.mncvision">
+    <title>MUTV 2025/26: MUN Vs AVL</title>
+</programme>
+<programme start="20260317153000 +0000" stop="20260317160000 +0000" channel="beIN Sports 3.mncvision">
+    <title>MUTV Match Day: MUN Vs AVL</title>
+</programme>
+<programme start="20260317160000 +0000" stop="20260317165500 +0000" channel="beIN Sports 3.mncvision">
+    <title>MUTV Specials: How We Won</title>
+</programme>
+<programme start="20260317165500 +0000" stop="20260316172500 +0000" channel="beIN Sports 3.mncvision">
+    <title>Super Lig 25/26: FEN Vs GAZ (L)</title>
+</programme>
 <programme start="20260316181000 +0000" stop="20260316200000 +0000" channel="beIN Sports 3 HD.mncvision">
     <title>UCI World Tour 2026: Paris-Nice</title>
 </programme>
@@ -8332,7 +8710,51 @@ Error: Unable to fetch data. HTTP Status Code: 500
 <programme start="20260317153000 +0000" stop="20260317160000 +0000" channel="Sportstars HD.mncvision">
     <title>V-League 2025-2026: Men</title>
 </programme>
-Error: Unable to fetch data. HTTP Status Code: 500
+<programme start="20260316173000 +0000" stop="20260316180000 +0000" channel="SPOTV.mncvision">
+    <title>Formula E S12 Mid Season</title>
+</programme>
+<programme start="20260316180000 +0000" stop="20260316191500 +0000" channel="SPOTV.mncvision">
+    <title>2026 LIV Golf: Hong Kong HL</title>
+</programme>
+<programme start="20260316191500 +0000" stop="20260316204500 +0000" channel="SPOTV.mncvision">
+    <title>Meguiar&#039;s Bathurst 12 Hour HL</title>
+</programme>
+<programme start="20260316204500 +0000" stop="20260316234500 +0000" channel="SPOTV.mncvision">
+    <title>2026 LIV Golf: Singapore</title>
+</programme>
+<programme start="20260316234500 +0000" stop="20260317022000 +0000" channel="SPOTV.mncvision">
+    <title>2026 LIV Golf: Singapore</title>
+</programme>
+<programme start="20260317022000 +0000" stop="20260317050500 +0000" channel="SPOTV.mncvision">
+    <title>2026 Rolex Grand Slam</title>
+</programme>
+<programme start="20260317050500 +0000" stop="20260317053500 +0000" channel="SPOTV.mncvision">
+    <title>Formula E S12: Madrid</title>
+</programme>
+<programme start="20260317053500 +0000" stop="20260317060500 +0000" channel="SPOTV.mncvision">
+    <title>ALM Mini Match: WEL Vs PER</title>
+</programme>
+<programme start="20260317060500 +0000" stop="20260317075500 +0000" channel="SPOTV.mncvision">
+    <title>Meguiar&#039;s Bathurst 12 Hour HL</title>
+</programme>
+<programme start="20260317075500 +0000" stop="20260317100000 +0000" channel="SPOTV.mncvision">
+    <title>A-League Men: SYD Vs MCY (L)</title>
+</programme>
+<programme start="20260317100000 +0000" stop="20260317103000 +0000" channel="SPOTV.mncvision">
+    <title>ALM Mini Match: NEW Vs AKL</title>
+</programme>
+<programme start="20260317103000 +0000" stop="20260317123000 +0000" channel="SPOTV.mncvision">
+    <title>25/26 Scottish Premiership</title>
+</programme>
+<programme start="20260317123000 +0000" stop="20260317143000 +0000" channel="SPOTV.mncvision">
+    <title>25/26 Scottish Premiership</title>
+</programme>
+<programme start="20260317143000 +0000" stop="20260317163000 +0000" channel="SPOTV.mncvision">
+    <title>A-League Men: BRI Vs WSW</title>
+</programme>
+<programme start="20260317163000 +0000" stop="20260316170000 +0000" channel="SPOTV.mncvision">
+    <title>Pegasus World Cup 2026</title>
+</programme>
 <programme start="20260316190000 +0000" stop="20260316200000 +0000" channel="SPOTV 2.mncvision">
     <title>2026 MotoGP Of Thailand</title>
 </programme>
