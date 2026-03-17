@@ -5864,7 +5864,7 @@
     <title lang="id">Kindigova autodílna X (10)</title>
   </programme>
   <programme start="20260319190000 +0000" stop="20260319200000 +0000" channel="Discovery.webtv.sk">
-    <title lang="id">Zaprášené bohatství II (7)</title>
+    <title lang="id">Zaprášené bohatství I (7)</title>
   </programme>
   <programme start="20260319200000 +0000" stop="20260319203000 +0000" channel="Discovery.webtv.sk">
     <title lang="id">Junk Gypsies I (9)</title>
