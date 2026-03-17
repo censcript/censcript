@@ -2582,13 +2582,13 @@ Warning: Undefined array key "et" in /usr/home/ManusiaBiasa/domains/manusiabiasa
 <programme start="20260317195000 +0000" stop="20260317220000 +0000" channel="Sky Sport Austria 2 HD.skyde">
     <title>Live UEFA CL: FC Arsenal - Bayer Leverkusen, Achtelfinale Rückspiel, Dienstag</title>
 </programme>
-<programme start="20260317220000 +0000" stop="20260317233000 +0000" channel="Sky Sport Austria 2 HD.skyde">
+<programme start="20260317220000 +0000" stop="20260318000000 +0000" channel="Sky Sport Austria 2 HD.skyde">
     <title>Live Die UEFA CL am Dienstag: Analyse</title>
 </programme>
 <programme start="20260317193000 +0000" stop="20260317195000 +0000" channel="Sky Sport Austria 3 HD.skyde">
     <title>Es folgt: Live UEFA Champions League</title>
 </programme>
-<programme start="20260317195000 +0000" stop="20260317223000 +0000" channel="Sky Sport Austria 3 HD.skyde">
+<programme start="20260317195000 +0000" stop="20260317230000 +0000" channel="Sky Sport Austria 3 HD.skyde">
     <title>Live UEFA CL: Manchester City - Real Madrid, Achtelfinale Rückspiel, Dienstag</title>
 </programme>
 <programme start="20260317090000 +0000" stop="20260317090500 +0000" channel="Sky Sport Austria 4 HD.skyde">
@@ -2882,19 +2882,19 @@ Warning: Undefined array key "et" in /usr/home/ManusiaBiasa/domains/manusiabiasa
 <programme start="20260317193000 +0000" stop="20260317195000 +0000" channel="Sky Sport Austria 4 HD.skyde">
     <title>Es folgt: Live UEFA Champions League</title>
 </programme>
-<programme start="20260317195000 +0000" stop="20260317223000 +0000" channel="Sky Sport Austria 4 HD.skyde">
+<programme start="20260317195000 +0000" stop="20260317230000 +0000" channel="Sky Sport Austria 4 HD.skyde">
     <title>Live UEFA CL: FC Chelsea - Paris Saint-Germain, Achtelfinale Rückspiel, Dienstag</title>
 </programme>
 <programme start="20260317171500 +0000" stop="20260317173500 +0000" channel="Sky Sport Austria 5 HD.skyde">
     <title>Es folgt: Live UEFA Champions League</title>
 </programme>
-<programme start="20260317173500 +0000" stop="20260317203000 +0000" channel="Sky Sport Austria 5 HD.skyde">
+<programme start="20260317173500 +0000" stop="20260317210000 +0000" channel="Sky Sport Austria 5 HD.skyde">
     <title>Live UEFA CL: Sporting Lissabon - FK Bodo/Glimt, Achtelfinale Rückspiel, Dienstag</title>
 </programme>
-<programme start="20260317144000 +0000" stop="20260317150000 +0000" channel="Sky Sport Austria 6 HD.skyde">
-    <title>WTA: Es folgt</title>
+<programme start="20260317154000 +0000" stop="20260317160000 +0000" channel="Sky Sport Austria 6 HD.skyde">
+    <title>Es folgt: LIVE Tennis WTA</title>
 </programme>
-<programme start="20260317150000 +0000" stop="20260318010000 +0000" channel="Sky Sport Austria 6 HD.skyde">
+<programme start="20260317160000 +0000" stop="20260318090000 +0000" channel="Sky Sport Austria 6 HD.skyde">
     <title>Live WTA 1000: Miami Open presented by Itaú in Miami, Florida (USA), 1. Tag</title>
 </programme>
 <programme start="20260316230000 +0000" stop="20260316233000 +0000" channel="Sky Sport Bundesliga HD.skyde">
@@ -3365,7 +3365,13 @@ Warning: Undefined array key "et" in /usr/home/ManusiaBiasa/domains/manusiabiasa
 <programme start="20260317140000 +0000" stop="20260317150000 +0000" channel="Sky Sport Tennis HD.skyde">
     <title>ATP 1000: Review Indian Wells</title>
 </programme>
-<programme start="20260317150000 +0000" stop="20260317230000 +0000" channel="Sky Sport Tennis HD.skyde">
+<programme start="20260317150000 +0000" stop="20260317153000 +0000" channel="Sky Sport Tennis HD.skyde">
+    <title>ATP: This Week</title>
+</programme>
+<programme start="20260317153000 +0000" stop="20260317160000 +0000" channel="Sky Sport Tennis HD.skyde">
+    <title>WTA 1000: Review Indian Wells</title>
+</programme>
+<programme start="20260317160000 +0000" stop="20260317230000 +0000" channel="Sky Sport Tennis HD.skyde">
     <title>Live WTA 1000: Miami Open presented by Itaú in Miami, Florida (USA), 1. Tag</title>
 </programme>
 <programme start="20260316230000 +0000" stop="20260317014500 +0000" channel="Sky Sport Top Event HD.skyde">
@@ -3401,7 +3407,13 @@ Warning: Undefined array key "et" in /usr/home/ManusiaBiasa/domains/manusiabiasa
 <programme start="20260317144500 +0000" stop="20260317150000 +0000" channel="Sky Sport Top Event HD.skyde">
     <title>BL: Torparade 26. Spieltag</title>
 </programme>
-<programme start="20260317150000 +0000" stop="20260317230000 +0000" channel="Sky Sport Top Event HD.skyde">
+<programme start="20260317150000 +0000" stop="20260317153000 +0000" channel="Sky Sport Top Event HD.skyde">
+    <title>ATP: This Week</title>
+</programme>
+<programme start="20260317153000 +0000" stop="20260317160000 +0000" channel="Sky Sport Top Event HD.skyde">
+    <title>WTA 1000: Review Indian Wells</title>
+</programme>
+<programme start="20260317160000 +0000" stop="20260317230000 +0000" channel="Sky Sport Top Event HD.skyde">
     <title>Live WTA 1000: Miami Open presented by Itaú in Miami, Florida (USA), 1. Tag</title>
 </programme>
 <programme start="20260317080000 +0000" stop="20260317093000 +0000" channel="Sky Sport UHD.skyde">
@@ -3437,14 +3449,14 @@ Warning: Undefined array key "et" in /usr/home/ManusiaBiasa/domains/manusiabiasa
 <programme start="20260317223000 +0000" stop="20260317233000 +0000" channel="Sky Sport UHD.skyde">
     <title>F1 Academy: 2. Rennen - GP China</title>
 </programme>
-<programme start="20260316230000 +0000" stop="20260317013000 +0000" channel="Sky Sport 1 HD.skyde">
+<programme start="20260316230000 +0000" stop="20260317014500 +0000" channel="Sky Sport 1 HD.skyde">
     <title>Live NBA: Orlando Magic @ Atlanta Hawks</title>
 </programme>
-<programme start="20260317013000 +0000" stop="20260317040000 +0000" channel="Sky Sport 1 HD.skyde">
+<programme start="20260317014500 +0000" stop="20260317040500 +0000" channel="Sky Sport 1 HD.skyde">
     <title>Live NBA: LA Lakers @ Houston Rockets</title>
 </programme>
-<programme start="20260317040000 +0000" stop="20260317090000 +0000" channel="Sky Sport 1 HD.skyde">
-    <title>Live NBA: Showtime - Post Show</title>
+<programme start="20260317040500 +0000" stop="20260317045500 +0000" channel="Sky Sport 1 HD.skyde">
+    <title>Live NBA: San Antonio Spurs @ LA Clippers</title>
 </programme>
 <programme start="20260317224000 +0000" stop="20260317230000 +0000" channel="Sky Sport 1 HD.skyde">
     <title>Es folgt: LIVE Basketball NBA</title>
