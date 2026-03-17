@@ -4987,6 +4987,84 @@
   <programme start="20260319223000 +0000" stop="20260319230000 +0000" channel="Arena Sport 1.webtv.sk">
     <title lang="id">Autožurnál</title>
   </programme>
+  <programme start="20260318230000 +0000" stop="20260319070000 +0000" channel="Arena Sport 2.webtv.sk">
+    <title lang="id">Nočné vysielanie</title>
+  </programme>
+  <programme start="20260319070000 +0000" stop="20260319073000 +0000" channel="Arena Sport 2.webtv.sk">
+    <title lang="id">Naša Garáž</title>
+  </programme>
+  <programme start="20260319073000 +0000" stop="20260319080000 +0000" channel="Arena Sport 2.webtv.sk">
+    <title lang="id">Naša Garáž</title>
+  </programme>
+  <programme start="20260319080000 +0000" stop="20260319083000 +0000" channel="Arena Sport 2.webtv.sk">
+    <title lang="id">Piok Cars</title>
+  </programme>
+  <programme start="20260319083000 +0000" stop="20260319090000 +0000" channel="Arena Sport 2.webtv.sk">
+    <title lang="id">MM Automotive</title>
+  </programme>
+  <programme start="20260319090000 +0000" stop="20260319100000 +0000" channel="Arena Sport 2.webtv.sk">
+    <title lang="id">Vytuningované jazdy Fínsko</title>
+  </programme>
+  <programme start="20260319100000 +0000" stop="20260319103000 +0000" channel="Arena Sport 2.webtv.sk">
+    <title lang="id">CARSHOW</title>
+  </programme>
+  <programme start="20260319103000 +0000" stop="20260319110000 +0000" channel="Arena Sport 2.webtv.sk">
+    <title lang="id">Autožurnál</title>
+  </programme>
+  <programme start="20260319110000 +0000" stop="20260319113000 +0000" channel="Arena Sport 2.webtv.sk">
+    <title lang="id">Motoring</title>
+  </programme>
+  <programme start="20260319113000 +0000" stop="20260319120000 +0000" channel="Arena Sport 2.webtv.sk">
+    <title lang="id">DRIVE IT - Ondrej Macko</title>
+  </programme>
+  <programme start="20260319120000 +0000" stop="20260319123000 +0000" channel="Arena Sport 2.webtv.sk">
+    <title lang="id">Výběrová auta</title>
+  </programme>
+  <programme start="20260319123000 +0000" stop="20260319131500 +0000" channel="Arena Sport 2.webtv.sk">
+    <title lang="id">Záchrancovia klasických áut</title>
+  </programme>
+  <programme start="20260319131500 +0000" stop="20260319134500 +0000" channel="Arena Sport 2.webtv.sk">
+    <title lang="id">Piok Cars</title>
+  </programme>
+  <programme start="20260319134500 +0000" stop="20260319140000 +0000" channel="Arena Sport 2.webtv.sk">
+    <title lang="id">Švihák testuje</title>
+  </programme>
+  <programme start="20260319140000 +0000" stop="20260319143000 +0000" channel="Arena Sport 2.webtv.sk">
+    <title lang="id">MM Automotive</title>
+  </programme>
+  <programme start="20260319143000 +0000" stop="20260319151500 +0000" channel="Arena Sport 2.webtv.sk">
+    <title lang="id">Vytuningované jazdy Fínsko</title>
+  </programme>
+  <programme start="20260319151500 +0000" stop="20260319160000 +0000" channel="Arena Sport 2.webtv.sk">
+    <title lang="id">DRIVE IT - Ondrej Macko</title>
+  </programme>
+  <programme start="20260319160000 +0000" stop="20260319164500 +0000" channel="Arena Sport 2.webtv.sk">
+    <title lang="id">Naša Garáž</title>
+  </programme>
+  <programme start="20260319164500 +0000" stop="20260319173000 +0000" channel="Arena Sport 2.webtv.sk">
+    <title lang="id">MM Automotive</title>
+  </programme>
+  <programme start="20260319173000 +0000" stop="20260319180000 +0000" channel="Arena Sport 2.webtv.sk">
+    <title lang="id">Martin z Martina</title>
+  </programme>
+  <programme start="20260319180000 +0000" stop="20260319183000 +0000" channel="Arena Sport 2.webtv.sk">
+    <title lang="id">Naša Garáž</title>
+  </programme>
+  <programme start="20260319183000 +0000" stop="20260319190000 +0000" channel="Arena Sport 2.webtv.sk">
+    <title lang="id">Výběrová auta</title>
+  </programme>
+  <programme start="20260319190000 +0000" stop="20260319193000 +0000" channel="Arena Sport 2.webtv.sk">
+    <title lang="id">Piok Cars</title>
+  </programme>
+  <programme start="20260319193000 +0000" stop="20260319201500 +0000" channel="Arena Sport 2.webtv.sk">
+    <title lang="id">Piok Cars</title>
+  </programme>
+  <programme start="20260319201500 +0000" stop="20260319210000 +0000" channel="Arena Sport 2.webtv.sk">
+    <title lang="id">Martin z Martina</title>
+  </programme>
+  <programme start="20260319210000 +0000" stop="20260319230000 +0000" channel="Arena Sport 2.webtv.sk">
+    <title lang="id">The LiUNA!</title>
+  </programme>
   <programme start="20260318222000 +0000" stop="20260319000000 +0000" channel="Nova Sport 1.webtv.sk">
     <title lang="id">Montreal Canadiens - Boston Bruins</title>
   </programme>
@@ -19878,6 +19956,42 @@
   </programme>
   <programme start="20260319185900 +0000" stop="20260319232900 +0000" channel="Retro Music Television.webtv.sk">
     <title lang="id">Retro party</title>
+  </programme>
+  <programme start="20260318230000 +0000" stop="20260318232000 +0000" channel="Rebel.webtv.sk">
+    <title lang="id">REBELSKÝ BAR</title>
+  </programme>
+  <programme start="20260318232000 +0000" stop="20260319022000 +0000" channel="Rebel.webtv.sk">
+    <title lang="id">Forever Rock</title>
+  </programme>
+  <programme start="20260319022000 +0000" stop="20260319052000 +0000" channel="Rebel.webtv.sk">
+    <title lang="id">Forever Rock</title>
+  </programme>
+  <programme start="20260319052000 +0000" stop="20260319080000 +0000" channel="Rebel.webtv.sk">
+    <title lang="id">Forever Rock</title>
+  </programme>
+  <programme start="20260319080000 +0000" stop="20260319082000 +0000" channel="Rebel.webtv.sk">
+    <title lang="id">REBELSKÝ BAR</title>
+  </programme>
+  <programme start="20260319082000 +0000" stop="20260319112000 +0000" channel="Rebel.webtv.sk">
+    <title lang="id">Forever Rock</title>
+  </programme>
+  <programme start="20260319112000 +0000" stop="20260319142000 +0000" channel="Rebel.webtv.sk">
+    <title lang="id">Forever Rock</title>
+  </programme>
+  <programme start="20260319142000 +0000" stop="20260319172000 +0000" channel="Rebel.webtv.sk">
+    <title lang="id">Forever Rock</title>
+  </programme>
+  <programme start="20260319172000 +0000" stop="20260319190000 +0000" channel="Rebel.webtv.sk">
+    <title lang="id">Forever Rock</title>
+  </programme>
+  <programme start="20260319190000 +0000" stop="20260319193000 +0000" channel="Rebel.webtv.sk">
+    <title lang="id">BACKSTAGE</title>
+  </programme>
+  <programme start="20260319193000 +0000" stop="20260319223000 +0000" channel="Rebel.webtv.sk">
+    <title lang="id">Forever Rock</title>
+  </programme>
+  <programme start="20260319223000 +0000" stop="20260319230000 +0000" channel="Rebel.webtv.sk">
+    <title lang="id">Forever Rock</title>
   </programme>
   <programme start="20260318222000 +0000" stop="20260319012000 +0000" channel="Relax.webtv.sk">
     <title lang="id">LUXUSSTORE</title>

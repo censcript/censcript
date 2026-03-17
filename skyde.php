@@ -2885,19 +2885,16 @@ Warning: Undefined array key "et" in /usr/home/ManusiaBiasa/domains/manusiabiasa
 <programme start="20260317195000 +0000" stop="20260317223000 +0000" channel="Sky Sport Austria 4 HD.skyde">
     <title>Live UEFA CL: FC Chelsea - Paris Saint-Germain, Achtelfinale Rückspiel, Dienstag</title>
 </programme>
-<programme start="20260317164000 +0000" stop="20260317170000 +0000" channel="Sky Sport Austria 5 HD.skyde">
+<programme start="20260317171500 +0000" stop="20260317173500 +0000" channel="Sky Sport Austria 5 HD.skyde">
     <title>Es folgt: Live UEFA Champions League</title>
-</programme>
-<programme start="20260317170000 +0000" stop="20260317173500 +0000" channel="Sky Sport Austria 5 HD.skyde">
-    <title>Live Die UEFA CL am Dienstag: Vorbericht</title>
 </programme>
 <programme start="20260317173500 +0000" stop="20260317210000 +0000" channel="Sky Sport Austria 5 HD.skyde">
     <title>Live UEFA CL: Sporting Lissabon - FK Bodo/Glimt, Achtelfinale Rückspiel, Dienstag</title>
 </programme>
-<programme start="20260317154000 +0000" stop="20260317160000 +0000" channel="Sky Sport Austria 6 HD.skyde">
-    <title>Es folgt: LIVE Tennis WTA</title>
+<programme start="20260317144000 +0000" stop="20260317150000 +0000" channel="Sky Sport Austria 6 HD.skyde">
+    <title>WTA: Es folgt</title>
 </programme>
-<programme start="20260317160000 +0000" stop="20260318090000 +0000" channel="Sky Sport Austria 6 HD.skyde">
+<programme start="20260317150000 +0000" stop="20260318010000 +0000" channel="Sky Sport Austria 6 HD.skyde">
     <title>Live WTA 1000: Miami Open presented by Itaú in Miami, Florida (USA), 1. Tag</title>
 </programme>
 <programme start="20260316230000 +0000" stop="20260316233000 +0000" channel="Sky Sport Bundesliga HD.skyde">
@@ -3107,16 +3104,16 @@ Warning: Undefined array key "et" in /usr/home/ManusiaBiasa/domains/manusiabiasa
 <programme start="20260316230000 +0000" stop="20260317020000 +0000" channel="Sky Sport Mix HD.skyde">
     <title>Live NHL: Boston Bruins @ New Jersey Devils</title>
 </programme>
-<programme start="20260317020000 +0000" stop="20260317043000 +0000" channel="Sky Sport Mix HD.skyde">
+<programme start="20260317020000 +0000" stop="20260317045000 +0000" channel="Sky Sport Mix HD.skyde">
     <title>Live NBA: San Antonio Spurs @ LA Clippers</title>
 </programme>
-<programme start="20260317043000 +0000" stop="20260317053000 +0000" channel="Sky Sport Mix HD.skyde">
+<programme start="20260317045000 +0000" stop="20260317054000 +0000" channel="Sky Sport Mix HD.skyde">
     <title>3. Liga: Alle Spiele, alle Tore, 29. Spieltag komplett</title>
 </programme>
-<programme start="20260317053000 +0000" stop="20260317060000 +0000" channel="Sky Sport Mix HD.skyde">
+<programme start="20260317054000 +0000" stop="20260317061000 +0000" channel="Sky Sport Mix HD.skyde">
     <title>Frauen-BL: Alle Spiele, alle Tore, 20. Spieltag komplett</title>
 </programme>
-<programme start="20260317060000 +0000" stop="20260317080000 +0000" channel="Sky Sport Mix HD.skyde">
+<programme start="20260317061000 +0000" stop="20260317080000 +0000" channel="Sky Sport Mix HD.skyde">
     <title>NHL: Boston Bruins @ New Jersey Devils</title>
 </programme>
 <programme start="20260317080000 +0000" stop="20260317090000 +0000" channel="Sky Sport Mix HD.skyde">
@@ -3368,7 +3365,13 @@ Warning: Undefined array key "et" in /usr/home/ManusiaBiasa/domains/manusiabiasa
 <programme start="20260317140000 +0000" stop="20260317150000 +0000" channel="Sky Sport Tennis HD.skyde">
     <title>ATP 1000: Review Indian Wells</title>
 </programme>
-<programme start="20260317150000 +0000" stop="20260317230000 +0000" channel="Sky Sport Tennis HD.skyde">
+<programme start="20260317150000 +0000" stop="20260317153000 +0000" channel="Sky Sport Tennis HD.skyde">
+    <title>ATP: This Week</title>
+</programme>
+<programme start="20260317153000 +0000" stop="20260317160000 +0000" channel="Sky Sport Tennis HD.skyde">
+    <title>WTA 1000: Review Indian Wells</title>
+</programme>
+<programme start="20260317160000 +0000" stop="20260317230000 +0000" channel="Sky Sport Tennis HD.skyde">
     <title>Live WTA 1000: Miami Open presented by Itaú in Miami, Florida (USA), 1. Tag</title>
 </programme>
 <programme start="20260316230000 +0000" stop="20260317014500 +0000" channel="Sky Sport Top Event HD.skyde">
@@ -3376,6 +3379,9 @@ Warning: Undefined array key "et" in /usr/home/ManusiaBiasa/domains/manusiabiasa
 </programme>
 <programme start="20260317014500 +0000" stop="20260317040500 +0000" channel="Sky Sport Top Event HD.skyde">
     <title>Live NBA: LA Lakers @ Houston Rockets</title>
+</programme>
+<programme start="20260317040500 +0000" stop="20260317045000 +0000" channel="Sky Sport Top Event HD.skyde">
+    <title>Live NBA: San Antonio Spurs @ LA Clippers</title>
 </programme>
 <programme start="20260317045000 +0000" stop="20260317051500 +0000" channel="Sky Sport Top Event HD.skyde">
     <title>F1: Rennen Kompakt - GP China</title>
