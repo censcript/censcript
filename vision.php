@@ -697,9 +697,6 @@
 <programme start="20260317150000 +0000" stop="20260317170000 +0000" channel="ANTV.vision">
 <title>Godain Kita Dong</title>
 </programme>
-<programme start="20260317193000 +0000" stop="20260317213000 +0000" channel="ANTV.vision">
-<title>Srigala</title>
-</programme>
 <programme start="20260317213000 +0000" stop="20260317230000 +0000" channel="ANTV.vision">
 <title>Mr. Zombie</title>
 </programme>
@@ -1497,4 +1494,7 @@
 </programme>
 <programme start="20260317193000 +0000" stop="20260317210000 +0000" channel="BTV.vision">
 <title>Jalan Dakwah</title>
+</programme>
+<programme start="20260317210000 +0000" stop="20260317213000 +0000" channel="BTV.vision">
+<title>Sejarah Islam</title>
 </programme>

@@ -4573,57 +4573,6 @@
   <programme start="20260319220500 +0000" stop="20260319230000 +0000" channel="Kino Barrandov.webtv.sk">
     <title lang="id">Nebezpečné vztahy</title>
   </programme>
-  <programme start="20260318222500 +0000" stop="20260319025500 +0000" channel="Barrandov Krimi.webtv.sk">
-    <title lang="id">Aféry - neuvěřitelné životní příběhy</title>
-  </programme>
-  <programme start="20260319025500 +0000" stop="20260319033000 +0000" channel="Barrandov Krimi.webtv.sk">
-    <title lang="id">Ostříháno</title>
-  </programme>
-  <programme start="20260319033000 +0000" stop="20260319050500 +0000" channel="Barrandov Krimi.webtv.sk">
-    <title lang="id">Na plac!</title>
-  </programme>
-  <programme start="20260319050500 +0000" stop="20260319062000 +0000" channel="Barrandov Krimi.webtv.sk">
-    <title lang="id">Záchranáři</title>
-  </programme>
-  <programme start="20260319062000 +0000" stop="20260319072000 +0000" channel="Barrandov Krimi.webtv.sk">
-    <title lang="id">Šťastná 7</title>
-  </programme>
-  <programme start="20260319072000 +0000" stop="20260319123000 +0000" channel="Barrandov Krimi.webtv.sk">
-    <title lang="id">Klenot TV</title>
-  </programme>
-  <programme start="20260319123000 +0000" stop="20260319133500 +0000" channel="Barrandov Krimi.webtv.sk">
-    <title lang="id">Soudkyně Barbara</title>
-  </programme>
-  <programme start="20260319133500 +0000" stop="20260319144500 +0000" channel="Barrandov Krimi.webtv.sk">
-    <title lang="id">Soudce Alexandr</title>
-  </programme>
-  <programme start="20260319144500 +0000" stop="20260319155000 +0000" channel="Barrandov Krimi.webtv.sk">
-    <title lang="id">Soudkyně Barbara</title>
-  </programme>
-  <programme start="20260319155000 +0000" stop="20260319165500 +0000" channel="Barrandov Krimi.webtv.sk">
-    <title lang="id">Soudce Alexandr</title>
-  </programme>
-  <programme start="20260319165500 +0000" stop="20260319180000 +0000" channel="Barrandov Krimi.webtv.sk">
-    <title lang="id">Záchranáři</title>
-  </programme>
-  <programme start="20260319180000 +0000" stop="20260319190500 +0000" channel="Barrandov Krimi.webtv.sk">
-    <title lang="id">Česká tajenka</title>
-  </programme>
-  <programme start="20260319190500 +0000" stop="20260319194000 +0000" channel="Barrandov Krimi.webtv.sk">
-    <title lang="id">Badatelé</title>
-  </programme>
-  <programme start="20260319194000 +0000" stop="20260319205500 +0000" channel="Barrandov Krimi.webtv.sk">
-    <title lang="id">Doktorka Kellerová I (1)</title>
-  </programme>
-  <programme start="20260319205500 +0000" stop="20260319215000 +0000" channel="Barrandov Krimi.webtv.sk">
-    <title lang="id">Policie Delta</title>
-  </programme>
-  <programme start="20260319215000 +0000" stop="20260319223000 +0000" channel="Barrandov Krimi.webtv.sk">
-    <title lang="id">Badatelé</title>
-  </programme>
-  <programme start="20260319223000 +0000" stop="20260320025500 +0000" channel="Barrandov Krimi.webtv.sk">
-    <title lang="id">Aféry - neuvěřitelné životní příběhy</title>
-  </programme>
   <programme start="20260318215500 +0000" stop="20260319000500 +0000" channel="A11.webtv.sk">
     <title lang="id">Dobrý večer s A11</title>
   </programme>
@@ -4986,6 +4935,84 @@
   </programme>
   <programme start="20260319223000 +0000" stop="20260319230000 +0000" channel="Arena Sport 1.webtv.sk">
     <title lang="id">Autožurnál</title>
+  </programme>
+  <programme start="20260318230000 +0000" stop="20260319070000 +0000" channel="Arena Sport 2.webtv.sk">
+    <title lang="id">Nočné vysielanie</title>
+  </programme>
+  <programme start="20260319070000 +0000" stop="20260319073000 +0000" channel="Arena Sport 2.webtv.sk">
+    <title lang="id">Naša Garáž</title>
+  </programme>
+  <programme start="20260319073000 +0000" stop="20260319080000 +0000" channel="Arena Sport 2.webtv.sk">
+    <title lang="id">Naša Garáž</title>
+  </programme>
+  <programme start="20260319080000 +0000" stop="20260319083000 +0000" channel="Arena Sport 2.webtv.sk">
+    <title lang="id">Piok Cars</title>
+  </programme>
+  <programme start="20260319083000 +0000" stop="20260319090000 +0000" channel="Arena Sport 2.webtv.sk">
+    <title lang="id">MM Automotive</title>
+  </programme>
+  <programme start="20260319090000 +0000" stop="20260319100000 +0000" channel="Arena Sport 2.webtv.sk">
+    <title lang="id">Vytuningované jazdy Fínsko</title>
+  </programme>
+  <programme start="20260319100000 +0000" stop="20260319103000 +0000" channel="Arena Sport 2.webtv.sk">
+    <title lang="id">CARSHOW</title>
+  </programme>
+  <programme start="20260319103000 +0000" stop="20260319110000 +0000" channel="Arena Sport 2.webtv.sk">
+    <title lang="id">Autožurnál</title>
+  </programme>
+  <programme start="20260319110000 +0000" stop="20260319113000 +0000" channel="Arena Sport 2.webtv.sk">
+    <title lang="id">Motoring</title>
+  </programme>
+  <programme start="20260319113000 +0000" stop="20260319120000 +0000" channel="Arena Sport 2.webtv.sk">
+    <title lang="id">DRIVE IT - Ondrej Macko</title>
+  </programme>
+  <programme start="20260319120000 +0000" stop="20260319123000 +0000" channel="Arena Sport 2.webtv.sk">
+    <title lang="id">Výběrová auta</title>
+  </programme>
+  <programme start="20260319123000 +0000" stop="20260319131500 +0000" channel="Arena Sport 2.webtv.sk">
+    <title lang="id">Záchrancovia klasických áut</title>
+  </programme>
+  <programme start="20260319131500 +0000" stop="20260319134500 +0000" channel="Arena Sport 2.webtv.sk">
+    <title lang="id">Piok Cars</title>
+  </programme>
+  <programme start="20260319134500 +0000" stop="20260319140000 +0000" channel="Arena Sport 2.webtv.sk">
+    <title lang="id">Švihák testuje</title>
+  </programme>
+  <programme start="20260319140000 +0000" stop="20260319143000 +0000" channel="Arena Sport 2.webtv.sk">
+    <title lang="id">MM Automotive</title>
+  </programme>
+  <programme start="20260319143000 +0000" stop="20260319151500 +0000" channel="Arena Sport 2.webtv.sk">
+    <title lang="id">Vytuningované jazdy Fínsko</title>
+  </programme>
+  <programme start="20260319151500 +0000" stop="20260319160000 +0000" channel="Arena Sport 2.webtv.sk">
+    <title lang="id">DRIVE IT - Ondrej Macko</title>
+  </programme>
+  <programme start="20260319160000 +0000" stop="20260319164500 +0000" channel="Arena Sport 2.webtv.sk">
+    <title lang="id">Naša Garáž</title>
+  </programme>
+  <programme start="20260319164500 +0000" stop="20260319173000 +0000" channel="Arena Sport 2.webtv.sk">
+    <title lang="id">MM Automotive</title>
+  </programme>
+  <programme start="20260319173000 +0000" stop="20260319180000 +0000" channel="Arena Sport 2.webtv.sk">
+    <title lang="id">Martin z Martina</title>
+  </programme>
+  <programme start="20260319180000 +0000" stop="20260319183000 +0000" channel="Arena Sport 2.webtv.sk">
+    <title lang="id">Naša Garáž</title>
+  </programme>
+  <programme start="20260319183000 +0000" stop="20260319190000 +0000" channel="Arena Sport 2.webtv.sk">
+    <title lang="id">Výběrová auta</title>
+  </programme>
+  <programme start="20260319190000 +0000" stop="20260319193000 +0000" channel="Arena Sport 2.webtv.sk">
+    <title lang="id">Piok Cars</title>
+  </programme>
+  <programme start="20260319193000 +0000" stop="20260319201500 +0000" channel="Arena Sport 2.webtv.sk">
+    <title lang="id">Piok Cars</title>
+  </programme>
+  <programme start="20260319201500 +0000" stop="20260319210000 +0000" channel="Arena Sport 2.webtv.sk">
+    <title lang="id">Martin z Martina</title>
+  </programme>
+  <programme start="20260319210000 +0000" stop="20260319230000 +0000" channel="Arena Sport 2.webtv.sk">
+    <title lang="id">The LiUNA!</title>
   </programme>
   <programme start="20260318222000 +0000" stop="20260319000000 +0000" channel="Nova Sport 1.webtv.sk">
     <title lang="id">Montreal Canadiens - Boston Bruins</title>
@@ -8623,57 +8650,6 @@
   <programme start="20260319215500 +0000" stop="20260320003000 +0000" channel="HBO.webtv.sk">
     <title lang="id">Jedna bitva za druhou</title>
   </programme>
-  <programme start="20260318221500 +0000" stop="20260318235500 +0000" channel="HBO 2.webtv.sk">
-    <title lang="id">Náš syn</title>
-  </programme>
-  <programme start="20260318235500 +0000" stop="20260319020500 +0000" channel="HBO 2.webtv.sk">
-    <title lang="id">Ještě krásnější</title>
-  </programme>
-  <programme start="20260319020500 +0000" stop="20260319033000 +0000" channel="HBO 2.webtv.sk">
-    <title lang="id">Hranice přežití</title>
-  </programme>
-  <programme start="20260319033000 +0000" stop="20260319050000 +0000" channel="HBO 2.webtv.sk">
-    <title lang="id">Vánoční baletní romance</title>
-  </programme>
-  <programme start="20260319050000 +0000" stop="20260319070000 +0000" channel="HBO 2.webtv.sk">
-    <title lang="id">Harry Potter a Relikvie smrti - část 2.</title>
-  </programme>
-  <programme start="20260319070000 +0000" stop="20260319090000 +0000" channel="HBO 2.webtv.sk">
-    <title lang="id">Twisters</title>
-  </programme>
-  <programme start="20260319090000 +0000" stop="20260319092500 +0000" channel="HBO 2.webtv.sk">
-    <title lang="id">Před kamerou XXIII (11)</title>
-  </programme>
-  <programme start="20260319092500 +0000" stop="20260319110500 +0000" channel="HBO 2.webtv.sk">
-    <title lang="id">Žijeme jen dnes</title>
-  </programme>
-  <programme start="20260319110500 +0000" stop="20260319124000 +0000" channel="HBO 2.webtv.sk">
-    <title lang="id">Angry Birds ve filmu 2</title>
-  </programme>
-  <programme start="20260319124000 +0000" stop="20260319131000 +0000" channel="HBO 2.webtv.sk">
-    <title lang="id">Silicon Valley III (10)</title>
-  </programme>
-  <programme start="20260319131000 +0000" stop="20260319145000 +0000" channel="HBO 2.webtv.sk">
-    <title lang="id">Láska podle předlohy</title>
-  </programme>
-  <programme start="20260319145000 +0000" stop="20260319162500 +0000" channel="HBO 2.webtv.sk">
-    <title lang="id">Hned jsem tam</title>
-  </programme>
-  <programme start="20260319162500 +0000" stop="20260319183000 +0000" channel="HBO 2.webtv.sk">
-    <title lang="id">Úsvit planety opic</title>
-  </programme>
-  <programme start="20260319183000 +0000" stop="20260319212500 +0000" channel="HBO 2.webtv.sk">
-    <title lang="id">Oppenheimer</title>
-  </programme>
-  <programme start="20260319212500 +0000" stop="20260319215000 +0000" channel="HBO 2.webtv.sk">
-    <title lang="id">A jak to bylo dál... III (11)</title>
-  </programme>
-  <programme start="20260319215000 +0000" stop="20260319222000 +0000" channel="HBO 2.webtv.sk">
-    <title lang="id">Sousedi (5)</title>
-  </programme>
-  <programme start="20260319222000 +0000" stop="20260319232000 +0000" channel="HBO 2.webtv.sk">
-    <title lang="id">Rod Draka (5)</title>
-  </programme>
   <programme start="20260318213500 +0000" stop="20260318231000 +0000" channel="HBO 3.webtv.sk">
     <title lang="id">1992</title>
   </programme>
@@ -9747,126 +9723,6 @@
   </programme>
   <programme start="20260319223000 +0000" stop="20260319230000 +0000" channel="Fast and Funbox.webtv.sk">
     <title lang="id">Outdoor Sports Show 2019: Outdoor Sports Show 2019 #4 I (4)</title>
-  </programme>
-  <programme start="20260318223500 +0000" stop="20260318233000 +0000" channel="DocuBox.webtv.sk">
-    <title lang="id">Paris Berlin: Shapes and Shades of History (3)</title>
-  </programme>
-  <programme start="20260318233000 +0000" stop="20260319002500 +0000" channel="DocuBox.webtv.sk">
-    <title lang="id">Hidden Traces (6)</title>
-  </programme>
-  <programme start="20260319002500 +0000" stop="20260319012000 +0000" channel="DocuBox.webtv.sk">
-    <title lang="id">The Day When (3)</title>
-  </programme>
-  <programme start="20260319012000 +0000" stop="20260319022000 +0000" channel="DocuBox.webtv.sk">
-    <title lang="id">WWII Documentary Films (11)</title>
-  </programme>
-  <programme start="20260319022000 +0000" stop="20260319032000 +0000" channel="DocuBox.webtv.sk">
-    <title lang="id">WWII Documentary Films (12)</title>
-  </programme>
-  <programme start="20260319032000 +0000" stop="20260319035000 +0000" channel="DocuBox.webtv.sk">
-    <title lang="id">What in the World (7)</title>
-  </programme>
-  <programme start="20260319035000 +0000" stop="20260319042000 +0000" channel="DocuBox.webtv.sk">
-    <title lang="id">What in the World (8)</title>
-  </programme>
-  <programme start="20260319042000 +0000" stop="20260319045000 +0000" channel="DocuBox.webtv.sk">
-    <title lang="id">What in the World (9)</title>
-  </programme>
-  <programme start="20260319045000 +0000" stop="20260319060000 +0000" channel="DocuBox.webtv.sk">
-    <title lang="id">The Past Hunters (4)</title>
-  </programme>
-  <programme start="20260319060000 +0000" stop="20260319062500 +0000" channel="DocuBox.webtv.sk">
-    <title lang="id">Travel Thru History (18)</title>
-  </programme>
-  <programme start="20260319062500 +0000" stop="20260319065000 +0000" channel="DocuBox.webtv.sk">
-    <title lang="id">Travel Thru History (19)</title>
-  </programme>
-  <programme start="20260319065000 +0000" stop="20260319072000 +0000" channel="DocuBox.webtv.sk">
-    <title lang="id">Nature&apos;s Force (6)</title>
-  </programme>
-  <programme start="20260319072000 +0000" stop="20260319075000 +0000" channel="DocuBox.webtv.sk">
-    <title lang="id">Nature&apos;s Force (7)</title>
-  </programme>
-  <programme start="20260319075000 +0000" stop="20260319081500 +0000" channel="DocuBox.webtv.sk">
-    <title lang="id">Big Coast XII (1)</title>
-  </programme>
-  <programme start="20260319081500 +0000" stop="20260319084000 +0000" channel="DocuBox.webtv.sk">
-    <title lang="id">Wild Australia with Ray Mears (2)</title>
-  </programme>
-  <programme start="20260319084000 +0000" stop="20260319090500 +0000" channel="DocuBox.webtv.sk">
-    <title lang="id">Sarah Shark (2)</title>
-  </programme>
-  <programme start="20260319090500 +0000" stop="20260319093000 +0000" channel="DocuBox.webtv.sk">
-    <title lang="id">Outta Town Adventures I (1)</title>
-  </programme>
-  <programme start="20260319093000 +0000" stop="20260319100000 +0000" channel="DocuBox.webtv.sk">
-    <title lang="id">Outta Town Adventures I (2)</title>
-  </programme>
-  <programme start="20260319100000 +0000" stop="20260319103000 +0000" channel="DocuBox.webtv.sk">
-    <title lang="id">Music Voyager (27)</title>
-  </programme>
-  <programme start="20260319103000 +0000" stop="20260319110000 +0000" channel="DocuBox.webtv.sk">
-    <title lang="id">Music Voyager (28)</title>
-  </programme>
-  <programme start="20260319110000 +0000" stop="20260319113000 +0000" channel="DocuBox.webtv.sk">
-    <title lang="id">Show Me Where You Live I (7)</title>
-  </programme>
-  <programme start="20260319113000 +0000" stop="20260319120000 +0000" channel="DocuBox.webtv.sk">
-    <title lang="id">Show Me Where You Live I (8)</title>
-  </programme>
-  <programme start="20260319120000 +0000" stop="20260319123000 +0000" channel="DocuBox.webtv.sk">
-    <title lang="id">Journeys in India I (1)</title>
-  </programme>
-  <programme start="20260319123000 +0000" stop="20260319130000 +0000" channel="DocuBox.webtv.sk">
-    <title lang="id">Journeys in India II (1)</title>
-  </programme>
-  <programme start="20260319130000 +0000" stop="20260319133000 +0000" channel="DocuBox.webtv.sk">
-    <title lang="id">Journeys in Africa I (1)</title>
-  </programme>
-  <programme start="20260319133000 +0000" stop="20260319140000 +0000" channel="DocuBox.webtv.sk">
-    <title lang="id">Journeys in Africa II (1)</title>
-  </programme>
-  <programme start="20260319140000 +0000" stop="20260319145500 +0000" channel="DocuBox.webtv.sk">
-    <title lang="id">Nomads (27)</title>
-  </programme>
-  <programme start="20260319145500 +0000" stop="20260319155000 +0000" channel="DocuBox.webtv.sk">
-    <title lang="id">Nomads (28)</title>
-  </programme>
-  <programme start="20260319155000 +0000" stop="20260319163500 +0000" channel="DocuBox.webtv.sk">
-    <title lang="id">Dream Journey (4)</title>
-  </programme>
-  <programme start="20260319163500 +0000" stop="20260319173000 +0000" channel="DocuBox.webtv.sk">
-    <title lang="id">Of Boats and Men (4)</title>
-  </programme>
-  <programme start="20260319173000 +0000" stop="20260319182000 +0000" channel="DocuBox.webtv.sk">
-    <title lang="id">The Blue Realm (5)</title>
-  </programme>
-  <programme start="20260319182000 +0000" stop="20260319184500 +0000" channel="DocuBox.webtv.sk">
-    <title lang="id">Blue World V (5)</title>
-  </programme>
-  <programme start="20260319184500 +0000" stop="20260319191000 +0000" channel="DocuBox.webtv.sk">
-    <title lang="id">Blue World V (6)</title>
-  </programme>
-  <programme start="20260319191000 +0000" stop="20260319200000 +0000" channel="DocuBox.webtv.sk">
-    <title lang="id">The Blue Realm (7)</title>
-  </programme>
-  <programme start="20260319200000 +0000" stop="20260319203000 +0000" channel="DocuBox.webtv.sk">
-    <title lang="id">Wild Ones (2)</title>
-  </programme>
-  <programme start="20260319203000 +0000" stop="20260319210000 +0000" channel="DocuBox.webtv.sk">
-    <title lang="id">Wild Ones (6)</title>
-  </programme>
-  <programme start="20260319210000 +0000" stop="20260319213000 +0000" channel="DocuBox.webtv.sk">
-    <title lang="id">Race of Life (5)</title>
-  </programme>
-  <programme start="20260319213000 +0000" stop="20260319220000 +0000" channel="DocuBox.webtv.sk">
-    <title lang="id">Race of Life (6)</title>
-  </programme>
-  <programme start="20260319220000 +0000" stop="20260319225500 +0000" channel="DocuBox.webtv.sk">
-    <title lang="id">Africa&apos;s Deadliest (3)</title>
-  </programme>
-  <programme start="20260319225500 +0000" stop="20260319235000 +0000" channel="DocuBox.webtv.sk">
-    <title lang="id">Creative Killers (3)</title>
   </programme>
   <programme start="20260318230000 +0000" stop="20260319000000 +0000" channel="360 TuneBox.webtv.sk">
     <title lang="id">Electric Jam</title>
@@ -19599,6 +19455,114 @@
   </programme>
   <programme start="20260319223000 +0000" stop="20260319230000 +0000" channel="CGTN.webtv.sk">
     <title lang="id">Rediscovering China</title>
+  </programme>
+  <programme start="20260318230000 +0000" stop="20260318233000 +0000" channel="CGTN Documentary.webtv.sk">
+    <title lang="id">Song Dynasty Poetry: Beauty Across Time (3)</title>
+  </programme>
+  <programme start="20260318233000 +0000" stop="20260319000000 +0000" channel="CGTN Documentary.webtv.sk">
+    <title lang="id">Enduring Legacy: Historical and Cultural Cities (21)</title>
+  </programme>
+  <programme start="20260319000000 +0000" stop="20260319010000 +0000" channel="CGTN Documentary.webtv.sk">
+    <title lang="id">The Taste of Yunnan 5/6</title>
+  </programme>
+  <programme start="20260319010000 +0000" stop="20260319013000 +0000" channel="CGTN Documentary.webtv.sk">
+    <title lang="id">Stretching the Limits V (6)</title>
+  </programme>
+  <programme start="20260319013000 +0000" stop="20260319020000 +0000" channel="CGTN Documentary.webtv.sk">
+    <title lang="id">Intangible Cultural Heritage of Jinpu 5-8</title>
+  </programme>
+  <programme start="20260319020000 +0000" stop="20260319030000 +0000" channel="CGTN Documentary.webtv.sk">
+    <title lang="id">The Lush Green Gannan (1)</title>
+  </programme>
+  <programme start="20260319030000 +0000" stop="20260319033000 +0000" channel="CGTN Documentary.webtv.sk">
+    <title lang="id">Life by the River (3)</title>
+  </programme>
+  <programme start="20260319033000 +0000" stop="20260319040000 +0000" channel="CGTN Documentary.webtv.sk">
+    <title lang="id">China Untapped: Xizang (5)</title>
+  </programme>
+  <programme start="20260319040000 +0000" stop="20260319050000 +0000" channel="CGTN Documentary.webtv.sk">
+    <title lang="id">Roots of the Nation (4)</title>
+  </programme>
+  <programme start="20260319050000 +0000" stop="20260319053000 +0000" channel="CGTN Documentary.webtv.sk">
+    <title lang="id">Song Dynasty Poetry: Beauty Across Time (3)</title>
+  </programme>
+  <programme start="20260319053000 +0000" stop="20260319060000 +0000" channel="CGTN Documentary.webtv.sk">
+    <title lang="id">Enduring Legacy: Historical and Cultural Cities (21)</title>
+  </programme>
+  <programme start="20260319060000 +0000" stop="20260319070000 +0000" channel="CGTN Documentary.webtv.sk">
+    <title lang="id">The Taste of Yunnan 5/6</title>
+  </programme>
+  <programme start="20260319070000 +0000" stop="20260319073000 +0000" channel="CGTN Documentary.webtv.sk">
+    <title lang="id">Stretching the Limits V (6)</title>
+  </programme>
+  <programme start="20260319073000 +0000" stop="20260319080000 +0000" channel="CGTN Documentary.webtv.sk">
+    <title lang="id">Intangible Cultural Heritage of Jinpu 5-8</title>
+  </programme>
+  <programme start="20260319080000 +0000" stop="20260319090000 +0000" channel="CGTN Documentary.webtv.sk">
+    <title lang="id">The Lush Green Gannan (1)</title>
+  </programme>
+  <programme start="20260319090000 +0000" stop="20260319093000 +0000" channel="CGTN Documentary.webtv.sk">
+    <title lang="id">Life by the River (3)</title>
+  </programme>
+  <programme start="20260319093000 +0000" stop="20260319100000 +0000" channel="CGTN Documentary.webtv.sk">
+    <title lang="id">China Untapped: Xizang (5)</title>
+  </programme>
+  <programme start="20260319100000 +0000" stop="20260319110000 +0000" channel="CGTN Documentary.webtv.sk">
+    <title lang="id">Roots of the Nation (4)</title>
+  </programme>
+  <programme start="20260319110000 +0000" stop="20260319113000 +0000" channel="CGTN Documentary.webtv.sk">
+    <title lang="id">Song Dynasty Poetry: Beauty Across Time (3)</title>
+  </programme>
+  <programme start="20260319113000 +0000" stop="20260319120000 +0000" channel="CGTN Documentary.webtv.sk">
+    <title lang="id">Enduring Legacy: Historical and Cultural Cities (21)</title>
+  </programme>
+  <programme start="20260319120000 +0000" stop="20260319130000 +0000" channel="CGTN Documentary.webtv.sk">
+    <title lang="id">The Taste of Yunnan 5/6</title>
+  </programme>
+  <programme start="20260319130000 +0000" stop="20260319133000 +0000" channel="CGTN Documentary.webtv.sk">
+    <title lang="id">Stretching the Limits V (6)</title>
+  </programme>
+  <programme start="20260319133000 +0000" stop="20260319140000 +0000" channel="CGTN Documentary.webtv.sk">
+    <title lang="id">Intangible Cultural Heritage of Jinpu 5-8</title>
+  </programme>
+  <programme start="20260319140000 +0000" stop="20260319150000 +0000" channel="CGTN Documentary.webtv.sk">
+    <title lang="id">The Lush Green Gannan (1)</title>
+  </programme>
+  <programme start="20260319150000 +0000" stop="20260319153000 +0000" channel="CGTN Documentary.webtv.sk">
+    <title lang="id">Life by the River (3)</title>
+  </programme>
+  <programme start="20260319153000 +0000" stop="20260319160000 +0000" channel="CGTN Documentary.webtv.sk">
+    <title lang="id">China Untapped: Xizang (5)</title>
+  </programme>
+  <programme start="20260319160000 +0000" stop="20260319170000 +0000" channel="CGTN Documentary.webtv.sk">
+    <title lang="id">Roots of the Nation (4)</title>
+  </programme>
+  <programme start="20260319170000 +0000" stop="20260319173000 +0000" channel="CGTN Documentary.webtv.sk">
+    <title lang="id">Song Dynasty Poetry: Beauty Across Time (3)</title>
+  </programme>
+  <programme start="20260319173000 +0000" stop="20260319180000 +0000" channel="CGTN Documentary.webtv.sk">
+    <title lang="id">Enduring Legacy: Historical and Cultural Cities (21)</title>
+  </programme>
+  <programme start="20260319180000 +0000" stop="20260319190000 +0000" channel="CGTN Documentary.webtv.sk">
+    <title lang="id">The Taste of Yunnan 5/6</title>
+  </programme>
+  <programme start="20260319190000 +0000" stop="20260319193000 +0000" channel="CGTN Documentary.webtv.sk">
+    <title lang="id">Stretching the Limits V (6)</title>
+  </programme>
+  <programme start="20260319193000 +0000" stop="20260319200000 +0000" channel="CGTN Documentary.webtv.sk">
+    <title lang="id">Intangible Cultural Heritage of Jinpu 5-8</title>
+  </programme>
+  <programme start="20260319200000 +0000" stop="20260319210000 +0000" channel="CGTN Documentary.webtv.sk">
+    <title lang="id">The Lush Green Gannan (2)</title>
+  </programme>
+  <programme start="20260319210000 +0000" stop="20260319213000 +0000" channel="CGTN Documentary.webtv.sk">
+    <title lang="id">Life by the River (4)</title>
+  </programme>
+  <programme start="20260319213000 +0000" stop="20260319220000 +0000" channel="CGTN Documentary.webtv.sk">
+    <title lang="id">The Fish-shaped Lanterns That Have Been &quot;Swimming&quot; for 600 Years</title>
+  </programme>
+  <programme start="20260319220000 +0000" stop="20260319230000 +0000" channel="CGTN Documentary.webtv.sk">
+    <title lang="id">Roots of the Nation (5)</title>
   </programme>
   <programme start="20260318220500 +0000" stop="20260319050000 +0000" channel="Óčko.webtv.sk">
     <title lang="id">ÓČKO FLIRT</title>
