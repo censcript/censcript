@@ -2198,7 +2198,7 @@
         <title>Best Of AO 2026: Women&#039;s Singles SF 2 Rybakina v Pegula</title>
     </programme>
     <programme start="20260316165000 +0000" stop="20260316184000 +0000" channel="beIN Sports 2 HD.starhub">
-        <title>TotalEnergies Africa Cup of Nations, Morocco 2025: Ivory Coast vs Mozambique - Group Stage</title>
+        <title>TotalEnergies Africa Cup of Nations, Morocco 2025: Ivory Coast vs Mozambique - G</title>
     </programme>
     <programme start="20260316184000 +0000" stop="20260316190000 +0000" channel="beIN Sports 2 HD.starhub">
         <title>HSBC SVNS2 2026: USA vs Canada - Kenya Day 1, Men</title>
@@ -2210,7 +2210,7 @@
         <title>LaLiga 2 2025/26: Albacete vs Las Palmas (Live)</title>
     </programme>
     <programme start="20260316213000 +0000" stop="20260316232000 +0000" channel="beIN Sports 2 HD.starhub">
-        <title>TotalEnergies Africa Cup of Nations, Morocco 2025: Egypt vs South Africa - Group Stage</title>
+        <title>TotalEnergies Africa Cup of Nations, Morocco 2025: Egypt vs South Africa - Group</title>
     </programme>
     <programme start="20260316232000 +0000" stop="20260317011000 +0000" channel="beIN Sports 2 HD.starhub">
         <title>TotalEnergies Africa Cup of Nations, Morocco 2025: Zambia vs Comoros - Group Sta</title>
@@ -3233,7 +3233,7 @@
         <title>German carmakers and the industrial sector floundering</title>
     </programme>
     <programme start="20260316173000 +0000" stop="20260316180000 +0000" channel="DW English HD.starhub">
-        <title>Experiencing and understanding the art world</title>
+        <title>Nietzsche, Indie Pop, and Identity</title>
     </programme>
     <programme start="20260316180000 +0000" stop="20260316183000 +0000" channel="DW English HD.starhub">
         <title>News</title>
@@ -3827,7 +3827,7 @@
         <title>Child-Rearing Hints &amp; Tips</title>
     </programme>
     <programme start="20260316161500 +0000" stop="20260316164000 +0000" channel="NHK World Premium HD.starhub">
-        <title>Gretel&#039;s Magical Oven</title>
+        <title>Gretel&#039;s Magical Oven Encore</title>
     </programme>
     <programme start="20260316164000 +0000" stop="20260316171000 +0000" channel="NHK World Premium HD.starhub">
         <title>Japanese Narrative Art</title>

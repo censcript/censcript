@@ -667,50 +667,53 @@
     <programme start="20260317160000 +0000" stop="20260318160000 +0000" channel="spl02.mewatch">
         <title>No programmes streaming LIVE at this moment</title>
     </programme>
-    <programme start="20260316160000 +0000" stop="20260316180000 +0000" channel="now-80s.mewatch">
-        <title>Supermassive 80s Rock Hits</title>
+    <programme start="20260316160000 +0000" stop="20260316170000 +0000" channel="now-80s.mewatch">
+        <title>Ultimate 80s Power Ballads</title>
     </programme>
-    <programme start="20260316180000 +0000" stop="20260316200000 +0000" channel="now-80s.mewatch">
-        <title>Ultimate 80s Love Songs</title>
+    <programme start="20260316170000 +0000" stop="20260316190000 +0000" channel="now-80s.mewatch">
+        <title>80s Mega-stars</title>
+    </programme>
+    <programme start="20260316190000 +0000" stop="20260316200000 +0000" channel="now-80s.mewatch">
+        <title>Forever 80s</title>
     </programme>
     <programme start="20260316200000 +0000" stop="20260316220000 +0000" channel="now-80s.mewatch">
-        <title>Hottest Hits of the 80s</title>
+        <title>The Pop Don&#039;t Stop!</title>
     </programme>
     <programme start="20260316220000 +0000" stop="20260317000000 +0000" channel="now-80s.mewatch">
-        <title>Cheesy 80s Classics</title>
+        <title>Pure Pop Perfection!</title>
     </programme>
-    <programme start="20260317000000 +0000" stop="20260317010000 +0000" channel="now-80s.mewatch">
-        <title>80s Pop Pin Ups</title>
+    <programme start="20260317000000 +0000" stop="20260317020000 +0000" channel="now-80s.mewatch">
+        <title>Superstars of the 80s!</title>
     </programme>
-    <programme start="20260317010000 +0000" stop="20260317020000 +0000" channel="now-80s.mewatch">
+    <programme start="20260317020000 +0000" stop="20260317030000 +0000" channel="now-80s.mewatch">
         <title>80s Workout Anthems</title>
     </programme>
-    <programme start="20260317020000 +0000" stop="20260317040000 +0000" channel="now-80s.mewatch">
-        <title>Gold! The Biggest Hits 1980 - 1989</title>
+    <programme start="20260317030000 +0000" stop="20260317050000 +0000" channel="now-80s.mewatch">
+        <title>Cheesy 80s Classics</title>
     </programme>
-    <programme start="20260317040000 +0000" stop="20260317060000 +0000" channel="now-80s.mewatch">
-        <title>Ultimate 80s Love Songs</title>
+    <programme start="20260317050000 +0000" stop="20260317070000 +0000" channel="now-80s.mewatch">
+        <title>Solid Gold 80s Hits</title>
     </programme>
-    <programme start="20260317060000 +0000" stop="20260317070000 +0000" channel="now-80s.mewatch">
-        <title>80s Movie Magic</title>
+    <programme start="20260317070000 +0000" stop="20260317080000 +0000" channel="now-80s.mewatch">
+        <title>Ultimate 80s Power Ballads</title>
     </programme>
-    <programme start="20260317070000 +0000" stop="20260317090000 +0000" channel="now-80s.mewatch">
-        <title>80s Karaoke Party!</title>
+    <programme start="20260317080000 +0000" stop="20260317090000 +0000" channel="now-80s.mewatch">
+        <title>Forever 80s</title>
     </programme>
     <programme start="20260317090000 +0000" stop="20260317100000 +0000" channel="now-80s.mewatch">
-        <title>Big Hair, Big Hits!</title>
+        <title>80s Pop Pin Ups</title>
     </programme>
     <programme start="20260317100000 +0000" stop="20260317120000 +0000" channel="now-80s.mewatch">
-        <title>Get into the 80s Groove</title>
+        <title>The Heat is on! Hot 80s Hits!</title>
     </programme>
     <programme start="20260317120000 +0000" stop="20260317140000 +0000" channel="now-80s.mewatch">
-        <title>You spin me round: Throwback Party</title>
+        <title>The Pop Don&#039;t Stop!</title>
     </programme>
     <programme start="20260317140000 +0000" stop="20260317160000 +0000" channel="now-80s.mewatch">
-        <title>80s Flashback House Party</title>
+        <title>Feel Good 80s Hits!</title>
     </programme>
     <programme start="20260317160000 +0000" stop="20260317180000 +0000" channel="now-80s.mewatch">
-        <title>Cheesy 80s Tunes</title>
+        <title>80s Chart Rewind</title>
     </programme>
     <programme start="20260316100000 +0000" stop="20260316200000 +0000" channel="now-70s.mewatch">
         <title>Sensational 70s! - EP1</title>
