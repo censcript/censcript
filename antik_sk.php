@@ -811,78 +811,6 @@
   <programme start="20260319215000 +0000" stop="20260319231500 +0000" channel="JOJ +1.webtv.sk">
     <title lang="id">Mama, ožeň ma</title>
   </programme>
-  <programme start="20260318223000 +0000" stop="20260318232500 +0000" channel="Markíza Klasik.webtv.sk">
-    <title lang="id">Komisár Rex VII (13)</title>
-  </programme>
-  <programme start="20260318232500 +0000" stop="20260319001000 +0000" channel="Markíza Klasik.webtv.sk">
-    <title lang="id">Komisár Rex VIII (1)</title>
-  </programme>
-  <programme start="20260319001000 +0000" stop="20260319021500 +0000" channel="Markíza Klasik.webtv.sk">
-    <title lang="id">Sedem s r.o. (4)</title>
-  </programme>
-  <programme start="20260319021500 +0000" stop="20260319030500 +0000" channel="Markíza Klasik.webtv.sk">
-    <title lang="id">Dereš (4)</title>
-  </programme>
-  <programme start="20260319030500 +0000" stop="20260319050000 +0000" channel="Markíza Klasik.webtv.sk">
-    <title lang="id">Aj múdry schybí (29)</title>
-  </programme>
-  <programme start="20260319050000 +0000" stop="20260319062500 +0000" channel="Markíza Klasik.webtv.sk">
-    <title lang="id">Aj múdry schybí (30)</title>
-  </programme>
-  <programme start="20260319062500 +0000" stop="20260319064500 +0000" channel="Markíza Klasik.webtv.sk">
-    <title lang="id">M.A.S.H I (4)</title>
-  </programme>
-  <programme start="20260319064500 +0000" stop="20260319073500 +0000" channel="Markíza Klasik.webtv.sk">
-    <title lang="id">Knight Rider II (3)</title>
-  </programme>
-  <programme start="20260319073500 +0000" stop="20260319083500 +0000" channel="Markíza Klasik.webtv.sk">
-    <title lang="id">Knight Rider II (4)</title>
-  </programme>
-  <programme start="20260319083500 +0000" stop="20260319092000 +0000" channel="Markíza Klasik.webtv.sk">
-    <title lang="id">Komisár Rex VII (13)</title>
-  </programme>
-  <programme start="20260319092000 +0000" stop="20260319100500 +0000" channel="Markíza Klasik.webtv.sk">
-    <title lang="id">Komisár Rex VIII (1)</title>
-  </programme>
-  <programme start="20260319100500 +0000" stop="20260319114500 +0000" channel="Markíza Klasik.webtv.sk">
-    <title lang="id">Žandár sa žení</title>
-  </programme>
-  <programme start="20260319114500 +0000" stop="20260319123000 +0000" channel="Markíza Klasik.webtv.sk">
-    <title lang="id">Herkules V (6)</title>
-  </programme>
-  <programme start="20260319123000 +0000" stop="20260319131500 +0000" channel="Markíza Klasik.webtv.sk">
-    <title lang="id">Herkules V (7)</title>
-  </programme>
-  <programme start="20260319131500 +0000" stop="20260319142000 +0000" channel="Markíza Klasik.webtv.sk">
-    <title lang="id">Knight Rider II (5)</title>
-  </programme>
-  <programme start="20260319142000 +0000" stop="20260319152000 +0000" channel="Markíza Klasik.webtv.sk">
-    <title lang="id">Knight Rider II (6)</title>
-  </programme>
-  <programme start="20260319152000 +0000" stop="20260319162000 +0000" channel="Markíza Klasik.webtv.sk">
-    <title lang="id">Kobra 11 XVII (11)</title>
-  </programme>
-  <programme start="20260319162000 +0000" stop="20260319172500 +0000" channel="Markíza Klasik.webtv.sk">
-    <title lang="id">Kobra 11 XVII (12)</title>
-  </programme>
-  <programme start="20260319172500 +0000" stop="20260319182500 +0000" channel="Markíza Klasik.webtv.sk">
-    <title lang="id">Komisár Rex VIII (2)</title>
-  </programme>
-  <programme start="20260319182500 +0000" stop="20260319192500 +0000" channel="Markíza Klasik.webtv.sk">
-    <title lang="id">Komisár Rex VIII (3)</title>
-  </programme>
-  <programme start="20260319192500 +0000" stop="20260319200000 +0000" channel="Markíza Klasik.webtv.sk">
-    <title lang="id">M.A.S.H I (5)</title>
-  </programme>
-  <programme start="20260319200000 +0000" stop="20260319220500 +0000" channel="Markíza Klasik.webtv.sk">
-    <title lang="id">Karambol 2</title>
-  </programme>
-  <programme start="20260319220500 +0000" stop="20260319223500 +0000" channel="Markíza Klasik.webtv.sk">
-    <title lang="id">M.A.S.H I (5)</title>
-  </programme>
-  <programme start="20260319223500 +0000" stop="20260319233000 +0000" channel="Markíza Klasik.webtv.sk">
-    <title lang="id">Komisár Rex VIII (2)</title>
-  </programme>
   <programme start="20260318211500 +0000" stop="20260318235000 +0000" channel="DajTo.webtv.sk">
     <title lang="id">Ferrari</title>
   </programme>
@@ -5947,6 +5875,114 @@
   <programme start="20260319220000 +0000" stop="20260319230000 +0000" channel="ID.webtv.sk">
     <title lang="id">Vražedné nahrávky VII (10)</title>
   </programme>
+  <programme start="20260318230000 +0000" stop="20260319000000 +0000" channel="HGTV.webtv.sk">
+    <title lang="id">Tarek El Moussa: Přeprodeje domů pro začátečníky III (8)</title>
+  </programme>
+  <programme start="20260319000000 +0000" stop="20260319003000 +0000" channel="HGTV.webtv.sk">
+    <title lang="id">Ostrovní život XII (11)</title>
+  </programme>
+  <programme start="20260319003000 +0000" stop="20260319010000 +0000" channel="HGTV.webtv.sk">
+    <title lang="id">Ostrovní život XII (12)</title>
+  </programme>
+  <programme start="20260319010000 +0000" stop="20260319013000 +0000" channel="HGTV.webtv.sk">
+    <title lang="id">Můj vysněný dům po výhře v loterii V (13)</title>
+  </programme>
+  <programme start="20260319013000 +0000" stop="20260319020000 +0000" channel="HGTV.webtv.sk">
+    <title lang="id">Můj vysněný dům po výhře v loterii V (14)</title>
+  </programme>
+  <programme start="20260319020000 +0000" stop="20260319023000 +0000" channel="HGTV.webtv.sk">
+    <title lang="id">Levný dům na pláži XXVI (8)</title>
+  </programme>
+  <programme start="20260319023000 +0000" stop="20260319030000 +0000" channel="HGTV.webtv.sk">
+    <title lang="id">Hledáme nemovitost CLV (9)</title>
+  </programme>
+  <programme start="20260319030000 +0000" stop="20260319033000 +0000" channel="HGTV.webtv.sk">
+    <title lang="id">Hledáme nemovitost CLV (10)</title>
+  </programme>
+  <programme start="20260319033000 +0000" stop="20260319040000 +0000" channel="HGTV.webtv.sk">
+    <title lang="id">Úspěch, nebo fiasko? VI (3)</title>
+  </programme>
+  <programme start="20260319040000 +0000" stop="20260319043000 +0000" channel="HGTV.webtv.sk">
+    <title lang="id">Ostrovní život I (12)</title>
+  </programme>
+  <programme start="20260319043000 +0000" stop="20260319050000 +0000" channel="HGTV.webtv.sk">
+    <title lang="id">Ostrovní život I (13)</title>
+  </programme>
+  <programme start="20260319050000 +0000" stop="20260319053000 +0000" channel="HGTV.webtv.sk">
+    <title lang="id">Odpad, nebo poklad? I (3)</title>
+  </programme>
+  <programme start="20260319053000 +0000" stop="20260319060000 +0000" channel="HGTV.webtv.sk">
+    <title lang="id">Odpad, nebo poklad? I (4)</title>
+  </programme>
+  <programme start="20260319060000 +0000" stop="20260319070000 +0000" channel="HGTV.webtv.sk">
+    <title lang="id">Dům na opravu v coloradských horách I (3)</title>
+  </programme>
+  <programme start="20260319070000 +0000" stop="20260319073000 +0000" channel="HGTV.webtv.sk">
+    <title lang="id">Přeprodej historických domů I (9)</title>
+  </programme>
+  <programme start="20260319073000 +0000" stop="20260319080000 +0000" channel="HGTV.webtv.sk">
+    <title lang="id">Přeprodej historických domů II (1)</title>
+  </programme>
+  <programme start="20260319080000 +0000" stop="20260319083000 +0000" channel="HGTV.webtv.sk">
+    <title lang="id">Přeprodej historických domů II (2)</title>
+  </programme>
+  <programme start="20260319083000 +0000" stop="20260319090000 +0000" channel="HGTV.webtv.sk">
+    <title lang="id">Přeprodej historických domů II (3)</title>
+  </programme>
+  <programme start="20260319090000 +0000" stop="20260319100000 +0000" channel="HGTV.webtv.sk">
+    <title lang="id">Pomoc! Zničil jsem si dům! IV (11)</title>
+  </programme>
+  <programme start="20260319100000 +0000" stop="20260319110000 +0000" channel="HGTV.webtv.sk">
+    <title lang="id">Pomoc! Zničil jsem si dům! IV (12)</title>
+  </programme>
+  <programme start="20260319110000 +0000" stop="20260319120000 +0000" channel="HGTV.webtv.sk">
+    <title lang="id">Luxus za babku I (5)</title>
+  </programme>
+  <programme start="20260319120000 +0000" stop="20260319130000 +0000" channel="HGTV.webtv.sk">
+    <title lang="id">Luxus za babku I (6)</title>
+  </programme>
+  <programme start="20260319130000 +0000" stop="20260319133000 +0000" channel="HGTV.webtv.sk">
+    <title lang="id">Můj mezinárodní vysněný dům po výhře v loterii I (13)</title>
+  </programme>
+  <programme start="20260319133000 +0000" stop="20260319140000 +0000" channel="HGTV.webtv.sk">
+    <title lang="id">Můj mezinárodní vysněný dům po výhře v loterii I (5)</title>
+  </programme>
+  <programme start="20260319140000 +0000" stop="20260319143000 +0000" channel="HGTV.webtv.sk">
+    <title lang="id">Můj mezinárodní vysněný dům po výhře v loterii I (14)</title>
+  </programme>
+  <programme start="20260319143000 +0000" stop="20260319150000 +0000" channel="HGTV.webtv.sk">
+    <title lang="id">Můj mezinárodní vysněný dům po výhře v loterii I (6)</title>
+  </programme>
+  <programme start="20260319150000 +0000" stop="20260319160000 +0000" channel="HGTV.webtv.sk">
+    <title lang="id">Dům na opravu: Vítejte doma I (5)</title>
+  </programme>
+  <programme start="20260319160000 +0000" stop="20260319170000 +0000" channel="HGTV.webtv.sk">
+    <title lang="id">Činžák za babku III (6)</title>
+  </programme>
+  <programme start="20260319170000 +0000" stop="20260319173000 +0000" channel="HGTV.webtv.sk">
+    <title lang="id">Můj vysněný dům po výhře v loterii XV (12)</title>
+  </programme>
+  <programme start="20260319173000 +0000" stop="20260319180000 +0000" channel="HGTV.webtv.sk">
+    <title lang="id">Můj vysněný dům po výhře v loterii XV (13)</title>
+  </programme>
+  <programme start="20260319180000 +0000" stop="20260319190000 +0000" channel="HGTV.webtv.sk">
+    <title lang="id">S podporou celebrit I (4)</title>
+  </programme>
+  <programme start="20260319190000 +0000" stop="20260319200000 +0000" channel="HGTV.webtv.sk">
+    <title lang="id">Opravte můj dům hrůzy II (8)</title>
+  </programme>
+  <programme start="20260319200000 +0000" stop="20260319203000 +0000" channel="HGTV.webtv.sk">
+    <title lang="id">Přeprodej historických domů I (5)</title>
+  </programme>
+  <programme start="20260319203000 +0000" stop="20260319210000 +0000" channel="HGTV.webtv.sk">
+    <title lang="id">Přeprodej historických domů I (6)</title>
+  </programme>
+  <programme start="20260319210000 +0000" stop="20260319220000 +0000" channel="HGTV.webtv.sk">
+    <title lang="id">Tarek El Moussa: Přeprodeje domů pro začátečníky III (2)</title>
+  </programme>
+  <programme start="20260319220000 +0000" stop="20260319230000 +0000" channel="HGTV.webtv.sk">
+    <title lang="id">Renovace ve Městě hříchu I (1)</title>
+  </programme>
   <programme start="20260318230000 +0000" stop="20260319000000 +0000" channel="Travel Channel.webtv.sk">
     <title lang="id">Osbourneovi chtějí věřit II (17)</title>
   </programme>
@@ -6652,168 +6688,6 @@
   <programme start="20260319224000 +0000" stop="20260319233500 +0000" channel="Love Nature.webtv.sk">
     <title lang="id">V divočině Indie (3)</title>
   </programme>
-  <programme start="20260318230000 +0000" stop="20260318231500 +0000" channel="Doktor TV.webtv.sk">
-    <title lang="id">Medi noviny</title>
-  </programme>
-  <programme start="20260318231500 +0000" stop="20260318233000 +0000" channel="Doktor TV.webtv.sk">
-    <title lang="id">Diagnóza</title>
-  </programme>
-  <programme start="20260318233000 +0000" stop="20260319000000 +0000" channel="Doktor TV.webtv.sk">
-    <title lang="id">Spravodajský blok</title>
-  </programme>
-  <programme start="20260319000000 +0000" stop="20260319003000 +0000" channel="Doktor TV.webtv.sk">
-    <title lang="id">Medzi nami mamami</title>
-  </programme>
-  <programme start="20260319003000 +0000" stop="20260319010000 +0000" channel="Doktor TV.webtv.sk">
-    <title lang="id">Terapia</title>
-  </programme>
-  <programme start="20260319010000 +0000" stop="20260319012500 +0000" channel="Doktor TV.webtv.sk">
-    <title lang="id">Geniálny život s Michaelou</title>
-  </programme>
-  <programme start="20260319012500 +0000" stop="20260319014500 +0000" channel="Doktor TV.webtv.sk">
-    <title lang="id">Dr. Labka</title>
-  </programme>
-  <programme start="20260319014500 +0000" stop="20260319020000 +0000" channel="Doktor TV.webtv.sk">
-    <title lang="id">Doktor online</title>
-  </programme>
-  <programme start="20260319020000 +0000" stop="20260319023000 +0000" channel="Doktor TV.webtv.sk">
-    <title lang="id">Curricullum v</title>
-  </programme>
-  <programme start="20260319023000 +0000" stop="20260319024500 +0000" channel="Doktor TV.webtv.sk">
-    <title lang="id">Rodinná poradňa</title>
-  </programme>
-  <programme start="20260319024500 +0000" stop="20260319030000 +0000" channel="Doktor TV.webtv.sk">
-    <title lang="id">Ako na to</title>
-  </programme>
-  <programme start="20260319030000 +0000" stop="20260319031500 +0000" channel="Doktor TV.webtv.sk">
-    <title lang="id">Medi noviny</title>
-  </programme>
-  <programme start="20260319031500 +0000" stop="20260319033000 +0000" channel="Doktor TV.webtv.sk">
-    <title lang="id">Zdravo s Kelom</title>
-  </programme>
-  <programme start="20260319033000 +0000" stop="20260319040000 +0000" channel="Doktor TV.webtv.sk">
-    <title lang="id">Spravodajský blok</title>
-  </programme>
-  <programme start="20260319040000 +0000" stop="20260319050000 +0000" channel="Doktor TV.webtv.sk">
-    <title lang="id">Medzi nami mamami</title>
-  </programme>
-  <programme start="20260319050000 +0000" stop="20260319054500 +0000" channel="Doktor TV.webtv.sk">
-    <title lang="id">Cesty pomoci</title>
-  </programme>
-  <programme start="20260319054500 +0000" stop="20260319060000 +0000" channel="Doktor TV.webtv.sk">
-    <title lang="id">Doktor online</title>
-  </programme>
-  <programme start="20260319060000 +0000" stop="20260319065000 +0000" channel="Doktor TV.webtv.sk">
-    <title lang="id">Ordinácia s MUDr. Eliškou</title>
-  </programme>
-  <programme start="20260319065000 +0000" stop="20260319070000 +0000" channel="Doktor TV.webtv.sk">
-    <title lang="id">Diagnóza</title>
-  </programme>
-  <programme start="20260319070000 +0000" stop="20260319071500 +0000" channel="Doktor TV.webtv.sk">
-    <title lang="id">Medi noviny</title>
-  </programme>
-  <programme start="20260319071500 +0000" stop="20260319073000 +0000" channel="Doktor TV.webtv.sk">
-    <title lang="id">Zdravo s Kelom</title>
-  </programme>
-  <programme start="20260319073000 +0000" stop="20260319080000 +0000" channel="Doktor TV.webtv.sk">
-    <title lang="id">Spravodajský blok</title>
-  </programme>
-  <programme start="20260319080000 +0000" stop="20260319090000 +0000" channel="Doktor TV.webtv.sk">
-    <title lang="id">Medzi nami mamami</title>
-  </programme>
-  <programme start="20260319090000 +0000" stop="20260319094500 +0000" channel="Doktor TV.webtv.sk">
-    <title lang="id">Cesty pomoci</title>
-  </programme>
-  <programme start="20260319094500 +0000" stop="20260319100000 +0000" channel="Doktor TV.webtv.sk">
-    <title lang="id">Doktor online</title>
-  </programme>
-  <programme start="20260319100000 +0000" stop="20260319105000 +0000" channel="Doktor TV.webtv.sk">
-    <title lang="id">Ordinácia s MUDr. Eliškou</title>
-  </programme>
-  <programme start="20260319105000 +0000" stop="20260319110000 +0000" channel="Doktor TV.webtv.sk">
-    <title lang="id">Diagnóza</title>
-  </programme>
-  <programme start="20260319110000 +0000" stop="20260319111500 +0000" channel="Doktor TV.webtv.sk">
-    <title lang="id">Medi noviny</title>
-  </programme>
-  <programme start="20260319111500 +0000" stop="20260319113500 +0000" channel="Doktor TV.webtv.sk">
-    <title lang="id">Doktor online</title>
-  </programme>
-  <programme start="20260319113500 +0000" stop="20260319114500 +0000" channel="Doktor TV.webtv.sk">
-    <title lang="id">Terapia</title>
-  </programme>
-  <programme start="20260319114500 +0000" stop="20260319120000 +0000" channel="Doktor TV.webtv.sk">
-    <title lang="id">Ako na to</title>
-  </programme>
-  <programme start="20260319120000 +0000" stop="20260319123000 +0000" channel="Doktor TV.webtv.sk">
-    <title lang="id">Medzi nami mamami</title>
-  </programme>
-  <programme start="20260319123000 +0000" stop="20260319130000 +0000" channel="Doktor TV.webtv.sk">
-    <title lang="id">Nezávislosť</title>
-  </programme>
-  <programme start="20260319130000 +0000" stop="20260319133000 +0000" channel="Doktor TV.webtv.sk">
-    <title lang="id">Mikrosvety v nás</title>
-  </programme>
-  <programme start="20260319133000 +0000" stop="20260319140000 +0000" channel="Doktor TV.webtv.sk">
-    <title lang="id">O menopauze</title>
-  </programme>
-  <programme start="20260319140000 +0000" stop="20260319150000 +0000" channel="Doktor TV.webtv.sk">
-    <title lang="id">Ordinácia s MUDr. Romanom</title>
-  </programme>
-  <programme start="20260319150000 +0000" stop="20260319151500 +0000" channel="Doktor TV.webtv.sk">
-    <title lang="id">Medi noviny</title>
-  </programme>
-  <programme start="20260319151500 +0000" stop="20260319153000 +0000" channel="Doktor TV.webtv.sk">
-    <title lang="id">Zdravo s Kelom</title>
-  </programme>
-  <programme start="20260319153000 +0000" stop="20260319160000 +0000" channel="Doktor TV.webtv.sk">
-    <title lang="id">Spravodajský blok</title>
-  </programme>
-  <programme start="20260319160000 +0000" stop="20260319163000 +0000" channel="Doktor TV.webtv.sk">
-    <title lang="id">Medzi nami mamami</title>
-  </programme>
-  <programme start="20260319163000 +0000" stop="20260319165000 +0000" channel="Doktor TV.webtv.sk">
-    <title lang="id">Dr. Labka</title>
-  </programme>
-  <programme start="20260319165000 +0000" stop="20260319170000 +0000" channel="Doktor TV.webtv.sk">
-    <title lang="id">Ako na to</title>
-  </programme>
-  <programme start="20260319170000 +0000" stop="20260319180000 +0000" channel="Doktor TV.webtv.sk">
-    <title lang="id">Moja diéta</title>
-  </programme>
-  <programme start="20260319180000 +0000" stop="20260319185000 +0000" channel="Doktor TV.webtv.sk">
-    <title lang="id">Ordinácia s MUDr. Minou</title>
-  </programme>
-  <programme start="20260319185000 +0000" stop="20260319190000 +0000" channel="Doktor TV.webtv.sk">
-    <title lang="id">Diagnóza</title>
-  </programme>
-  <programme start="20260319190000 +0000" stop="20260319191500 +0000" channel="Doktor TV.webtv.sk">
-    <title lang="id">Medi noviny</title>
-  </programme>
-  <programme start="20260319191500 +0000" stop="20260319193000 +0000" channel="Doktor TV.webtv.sk">
-    <title lang="id">Zdravo s Kelom</title>
-  </programme>
-  <programme start="20260319193000 +0000" stop="20260319200000 +0000" channel="Doktor TV.webtv.sk">
-    <title lang="id">Spravodajský blok</title>
-  </programme>
-  <programme start="20260319200000 +0000" stop="20260319203000 +0000" channel="Doktor TV.webtv.sk">
-    <title lang="id">Medzi nami mamami</title>
-  </programme>
-  <programme start="20260319203000 +0000" stop="20260319205000 +0000" channel="Doktor TV.webtv.sk">
-    <title lang="id">Dr. Labka</title>
-  </programme>
-  <programme start="20260319205000 +0000" stop="20260319210000 +0000" channel="Doktor TV.webtv.sk">
-    <title lang="id">Ako na to</title>
-  </programme>
-  <programme start="20260319210000 +0000" stop="20260319220000 +0000" channel="Doktor TV.webtv.sk">
-    <title lang="id">Moja diéta</title>
-  </programme>
-  <programme start="20260319220000 +0000" stop="20260319225000 +0000" channel="Doktor TV.webtv.sk">
-    <title lang="id">Ordinácia s MUDr. Minou</title>
-  </programme>
-  <programme start="20260319225000 +0000" stop="20260319230000 +0000" channel="Doktor TV.webtv.sk">
-    <title lang="id">Diagnóza</title>
-  </programme>
   <programme start="20260318230000 +0000" stop="20260319000000 +0000" channel="PARK TV.webtv.sk">
     <title lang="id">RELAX S PARK TV</title>
   </programme>
@@ -6885,6 +6759,399 @@
   </programme>
   <programme start="20260319220000 +0000" stop="20260319230000 +0000" channel="PARK TV.webtv.sk">
     <title lang="id">RELAX S PARK TV</title>
+  </programme>
+  <programme start="20260318230000 +0000" stop="20260318230500 +0000" channel="English Club TV.webtv.sk">
+    <title lang="id">Wrong&amp;right (64)</title>
+  </programme>
+  <programme start="20260318230500 +0000" stop="20260318231500 +0000" channel="English Club TV.webtv.sk">
+    <title lang="id">English United (8)</title>
+  </programme>
+  <programme start="20260318231500 +0000" stop="20260318232500 +0000" channel="English Club TV.webtv.sk">
+    <title lang="id">3ways2 (11)</title>
+  </programme>
+  <programme start="20260318232500 +0000" stop="20260318233500 +0000" channel="English Club TV.webtv.sk">
+    <title lang="id">English In Focus (47)</title>
+  </programme>
+  <programme start="20260318233500 +0000" stop="20260318234000 +0000" channel="English Club TV.webtv.sk">
+    <title lang="id">English 911 II (129)</title>
+  </programme>
+  <programme start="20260318234000 +0000" stop="20260318234500 +0000" channel="English Club TV.webtv.sk">
+    <title lang="id">English 911 II (130)</title>
+  </programme>
+  <programme start="20260318234500 +0000" stop="20260318235000 +0000" channel="English Club TV.webtv.sk">
+    <title lang="id">English 911 II (131)</title>
+  </programme>
+  <programme start="20260318235000 +0000" stop="20260319000000 +0000" channel="English Club TV.webtv.sk">
+    <title lang="id">Idiom Kitchen (8)</title>
+  </programme>
+  <programme start="20260319000000 +0000" stop="20260319013000 +0000" channel="English Club TV.webtv.sk">
+    <title lang="id">The Nut Job</title>
+  </programme>
+  <programme start="20260319013000 +0000" stop="20260319014000 +0000" channel="English Club TV.webtv.sk">
+    <title lang="id">English Up (20)</title>
+  </programme>
+  <programme start="20260319014000 +0000" stop="20260319015000 +0000" channel="English Club TV.webtv.sk">
+    <title lang="id">English Up (21)</title>
+  </programme>
+  <programme start="20260319015000 +0000" stop="20260319020000 +0000" channel="English Club TV.webtv.sk">
+    <title lang="id">English Up (22)</title>
+  </programme>
+  <programme start="20260319020000 +0000" stop="20260319034500 +0000" channel="English Club TV.webtv.sk">
+    <title lang="id">The Imitation Game</title>
+  </programme>
+  <programme start="20260319034500 +0000" stop="20260319040000 +0000" channel="English Club TV.webtv.sk">
+    <title lang="id">Digital World (22)</title>
+  </programme>
+  <programme start="20260319040000 +0000" stop="20260319040500 +0000" channel="English Club TV.webtv.sk">
+    <title lang="id">Art Land (35)</title>
+  </programme>
+  <programme start="20260319040500 +0000" stop="20260319041000 +0000" channel="English Club TV.webtv.sk">
+    <title lang="id">Art Land (36)</title>
+  </programme>
+  <programme start="20260319041000 +0000" stop="20260319041500 +0000" channel="English Club TV.webtv.sk">
+    <title lang="id">Sunny Songs (18)</title>
+  </programme>
+  <programme start="20260319041500 +0000" stop="20260319042500 +0000" channel="English Club TV.webtv.sk">
+    <title lang="id">Crafty Hands II (18)</title>
+  </programme>
+  <programme start="20260319042500 +0000" stop="20260319043500 +0000" channel="English Club TV.webtv.sk">
+    <title lang="id">Okey-dokey (18)</title>
+  </programme>
+  <programme start="20260319043500 +0000" stop="20260319044000 +0000" channel="English Club TV.webtv.sk">
+    <title lang="id">Once Upon A Time (18)</title>
+  </programme>
+  <programme start="20260319044000 +0000" stop="20260319044500 +0000" channel="English Club TV.webtv.sk">
+    <title lang="id">Word Party (5)</title>
+  </programme>
+  <programme start="20260319044500 +0000" stop="20260319045000 +0000" channel="English Club TV.webtv.sk">
+    <title lang="id">Word Party (6)</title>
+  </programme>
+  <programme start="20260319045000 +0000" stop="20260319050000 +0000" channel="English Club TV.webtv.sk">
+    <title lang="id">Life Around Kids (1)</title>
+  </programme>
+  <programme start="20260319050000 +0000" stop="20260319051000 +0000" channel="English Club TV.webtv.sk">
+    <title lang="id">English Playtime (1)</title>
+  </programme>
+  <programme start="20260319051000 +0000" stop="20260319052000 +0000" channel="English Club TV.webtv.sk">
+    <title lang="id">Magic Science (1)</title>
+  </programme>
+  <programme start="20260319052000 +0000" stop="20260319054000 +0000" channel="English Club TV.webtv.sk">
+    <title lang="id">Yummy For Mummy (1)</title>
+  </programme>
+  <programme start="20260319054000 +0000" stop="20260319054500 +0000" channel="English Club TV.webtv.sk">
+    <title lang="id">Alfred &amp; Wilfred (10)</title>
+  </programme>
+  <programme start="20260319054500 +0000" stop="20260319055000 +0000" channel="English Club TV.webtv.sk">
+    <title lang="id">Life Around Kids (42)</title>
+  </programme>
+  <programme start="20260319055000 +0000" stop="20260319060000 +0000" channel="English Club TV.webtv.sk">
+    <title lang="id">Life Around Kids (43)</title>
+  </programme>
+  <programme start="20260319060000 +0000" stop="20260319060500 +0000" channel="English Club TV.webtv.sk">
+    <title lang="id">Simple Phrases (6)</title>
+  </programme>
+  <programme start="20260319060500 +0000" stop="20260319061500 +0000" channel="English Club TV.webtv.sk">
+    <title lang="id">Life Around (30)</title>
+  </programme>
+  <programme start="20260319061500 +0000" stop="20260319062500 +0000" channel="English Club TV.webtv.sk">
+    <title lang="id">Life Around (31)</title>
+  </programme>
+  <programme start="20260319062500 +0000" stop="20260319063500 +0000" channel="English Club TV.webtv.sk">
+    <title lang="id">Life Around (63)</title>
+  </programme>
+  <programme start="20260319063500 +0000" stop="20260319064500 +0000" channel="English Club TV.webtv.sk">
+    <title lang="id">City Grammar (2)</title>
+  </programme>
+  <programme start="20260319064500 +0000" stop="20260319065500 +0000" channel="English Club TV.webtv.sk">
+    <title lang="id">Jack Of All Trades (9)</title>
+  </programme>
+  <programme start="20260319065500 +0000" stop="20260319070000 +0000" channel="English Club TV.webtv.sk">
+    <title lang="id">Basic Lexis (42)</title>
+  </programme>
+  <programme start="20260319070000 +0000" stop="20260319070500 +0000" channel="English Club TV.webtv.sk">
+    <title lang="id">Easy Talk (148)</title>
+  </programme>
+  <programme start="20260319070500 +0000" stop="20260319071500 +0000" channel="English Club TV.webtv.sk">
+    <title lang="id">Easy Talk (150)</title>
+  </programme>
+  <programme start="20260319071500 +0000" stop="20260319072500 +0000" channel="English Club TV.webtv.sk">
+    <title lang="id">Digital World (23)</title>
+  </programme>
+  <programme start="20260319072500 +0000" stop="20260319073000 +0000" channel="English Club TV.webtv.sk">
+    <title lang="id">All About (67)</title>
+  </programme>
+  <programme start="20260319073000 +0000" stop="20260319073500 +0000" channel="English Club TV.webtv.sk">
+    <title lang="id">All About (68)</title>
+  </programme>
+  <programme start="20260319073500 +0000" stop="20260319074000 +0000" channel="English Club TV.webtv.sk">
+    <title lang="id">All About (69)</title>
+  </programme>
+  <programme start="20260319074000 +0000" stop="20260319075000 +0000" channel="English Club TV.webtv.sk">
+    <title lang="id">Here And There (45)</title>
+  </programme>
+  <programme start="20260319075000 +0000" stop="20260319080000 +0000" channel="English Club TV.webtv.sk">
+    <title lang="id">Here And There (46)</title>
+  </programme>
+  <programme start="20260319080000 +0000" stop="20260319080500 +0000" channel="English Club TV.webtv.sk">
+    <title lang="id">Coffee Chat (5)</title>
+  </programme>
+  <programme start="20260319080500 +0000" stop="20260319081000 +0000" channel="English Club TV.webtv.sk">
+    <title lang="id">Coffee Chat (6)</title>
+  </programme>
+  <programme start="20260319081000 +0000" stop="20260319081500 +0000" channel="English Club TV.webtv.sk">
+    <title lang="id">Coffee Chat (43)</title>
+  </programme>
+  <programme start="20260319081500 +0000" stop="20260319082000 +0000" channel="English Club TV.webtv.sk">
+    <title lang="id">Easy Talk (3)</title>
+  </programme>
+  <programme start="20260319082000 +0000" stop="20260319083500 +0000" channel="English Club TV.webtv.sk">
+    <title lang="id">Let&apos;s Talk (3)</title>
+  </programme>
+  <programme start="20260319083500 +0000" stop="20260319084500 +0000" channel="English Club TV.webtv.sk">
+    <title lang="id">English In Focus (9)</title>
+  </programme>
+  <programme start="20260319084500 +0000" stop="20260319085000 +0000" channel="English Club TV.webtv.sk">
+    <title lang="id">English 911 II (14)</title>
+  </programme>
+  <programme start="20260319085000 +0000" stop="20260319085500 +0000" channel="English Club TV.webtv.sk">
+    <title lang="id">English 911 II (15)</title>
+  </programme>
+  <programme start="20260319085500 +0000" stop="20260319090000 +0000" channel="English Club TV.webtv.sk">
+    <title lang="id">English 911 II (18)</title>
+  </programme>
+  <programme start="20260319090000 +0000" stop="20260319090500 +0000" channel="English Club TV.webtv.sk">
+    <title lang="id">Irregular Verbs (35)</title>
+  </programme>
+  <programme start="20260319090500 +0000" stop="20260319091000 +0000" channel="English Club TV.webtv.sk">
+    <title lang="id">Irregular Verbs (36)</title>
+  </programme>
+  <programme start="20260319091000 +0000" stop="20260319091500 +0000" channel="English Club TV.webtv.sk">
+    <title lang="id">Irregular Verbs (49)</title>
+  </programme>
+  <programme start="20260319091500 +0000" stop="20260319092500 +0000" channel="English Club TV.webtv.sk">
+    <title lang="id">Spot On The Map (29)</title>
+  </programme>
+  <programme start="20260319092500 +0000" stop="20260319093500 +0000" channel="English Club TV.webtv.sk">
+    <title lang="id">Spot On The Map (30)</title>
+  </programme>
+  <programme start="20260319093500 +0000" stop="20260319094500 +0000" channel="English Club TV.webtv.sk">
+    <title lang="id">Worth Seeing (29)</title>
+  </programme>
+  <programme start="20260319094500 +0000" stop="20260319100000 +0000" channel="English Club TV.webtv.sk">
+    <title lang="id">Worth Seeing (30)</title>
+  </programme>
+  <programme start="20260319100000 +0000" stop="20260319100500 +0000" channel="English Club TV.webtv.sk">
+    <title lang="id">Art Land (35)</title>
+  </programme>
+  <programme start="20260319100500 +0000" stop="20260319101000 +0000" channel="English Club TV.webtv.sk">
+    <title lang="id">Art Land (36)</title>
+  </programme>
+  <programme start="20260319101000 +0000" stop="20260319101500 +0000" channel="English Club TV.webtv.sk">
+    <title lang="id">Sunny Songs (18)</title>
+  </programme>
+  <programme start="20260319101500 +0000" stop="20260319102500 +0000" channel="English Club TV.webtv.sk">
+    <title lang="id">Crafty Hands II (18)</title>
+  </programme>
+  <programme start="20260319102500 +0000" stop="20260319103500 +0000" channel="English Club TV.webtv.sk">
+    <title lang="id">Okey-dokey (18)</title>
+  </programme>
+  <programme start="20260319103500 +0000" stop="20260319104000 +0000" channel="English Club TV.webtv.sk">
+    <title lang="id">Once Upon A Time (18)</title>
+  </programme>
+  <programme start="20260319104000 +0000" stop="20260319104500 +0000" channel="English Club TV.webtv.sk">
+    <title lang="id">Word Party (5)</title>
+  </programme>
+  <programme start="20260319104500 +0000" stop="20260319105000 +0000" channel="English Club TV.webtv.sk">
+    <title lang="id">Word Party (6)</title>
+  </programme>
+  <programme start="20260319105000 +0000" stop="20260319110000 +0000" channel="English Club TV.webtv.sk">
+    <title lang="id">Life Around Kids (1)</title>
+  </programme>
+  <programme start="20260319110000 +0000" stop="20260319111000 +0000" channel="English Club TV.webtv.sk">
+    <title lang="id">English Playtime (1)</title>
+  </programme>
+  <programme start="20260319111000 +0000" stop="20260319112000 +0000" channel="English Club TV.webtv.sk">
+    <title lang="id">Magic Science (1)</title>
+  </programme>
+  <programme start="20260319112000 +0000" stop="20260319114000 +0000" channel="English Club TV.webtv.sk">
+    <title lang="id">Yummy For Mummy (1)</title>
+  </programme>
+  <programme start="20260319114000 +0000" stop="20260319114500 +0000" channel="English Club TV.webtv.sk">
+    <title lang="id">Alfred &amp; Wilfred (10)</title>
+  </programme>
+  <programme start="20260319114500 +0000" stop="20260319115000 +0000" channel="English Club TV.webtv.sk">
+    <title lang="id">Life Around Kids (42)</title>
+  </programme>
+  <programme start="20260319115000 +0000" stop="20260319120000 +0000" channel="English Club TV.webtv.sk">
+    <title lang="id">Life Around Kids (43)</title>
+  </programme>
+  <programme start="20260319120000 +0000" stop="20260319120500 +0000" channel="English Club TV.webtv.sk">
+    <title lang="id">Easy Talk (149)</title>
+  </programme>
+  <programme start="20260319120500 +0000" stop="20260319121000 +0000" channel="English Club TV.webtv.sk">
+    <title lang="id">Easy Talk (151)</title>
+  </programme>
+  <programme start="20260319121000 +0000" stop="20260319121500 +0000" channel="English Club TV.webtv.sk">
+    <title lang="id">Easy Talk (48)</title>
+  </programme>
+  <programme start="20260319121500 +0000" stop="20260319122000 +0000" channel="English Club TV.webtv.sk">
+    <title lang="id">Easy Talk (90)</title>
+  </programme>
+  <programme start="20260319122000 +0000" stop="20260319122500 +0000" channel="English Club TV.webtv.sk">
+    <title lang="id">All About (70)</title>
+  </programme>
+  <programme start="20260319122500 +0000" stop="20260319123000 +0000" channel="English Club TV.webtv.sk">
+    <title lang="id">All About (71)</title>
+  </programme>
+  <programme start="20260319123000 +0000" stop="20260319123500 +0000" channel="English Club TV.webtv.sk">
+    <title lang="id">All About (72)</title>
+  </programme>
+  <programme start="20260319123500 +0000" stop="20260319124500 +0000" channel="English Club TV.webtv.sk">
+    <title lang="id">Here And There (47)</title>
+  </programme>
+  <programme start="20260319124500 +0000" stop="20260319130000 +0000" channel="English Club TV.webtv.sk">
+    <title lang="id">Here And There (48)</title>
+  </programme>
+  <programme start="20260319130000 +0000" stop="20260319130500 +0000" channel="English Club TV.webtv.sk">
+    <title lang="id">Wrong&amp;right (65)</title>
+  </programme>
+  <programme start="20260319130500 +0000" stop="20260319131500 +0000" channel="English Club TV.webtv.sk">
+    <title lang="id">English United (9)</title>
+  </programme>
+  <programme start="20260319131500 +0000" stop="20260319132500 +0000" channel="English Club TV.webtv.sk">
+    <title lang="id">3ways2 (12)</title>
+  </programme>
+  <programme start="20260319132500 +0000" stop="20260319133500 +0000" channel="English Club TV.webtv.sk">
+    <title lang="id">English In Focus (48)</title>
+  </programme>
+  <programme start="20260319133500 +0000" stop="20260319134000 +0000" channel="English Club TV.webtv.sk">
+    <title lang="id">English 911 II (132)</title>
+  </programme>
+  <programme start="20260319134000 +0000" stop="20260319134500 +0000" channel="English Club TV.webtv.sk">
+    <title lang="id">English 911 II (133)</title>
+  </programme>
+  <programme start="20260319134500 +0000" stop="20260319135000 +0000" channel="English Club TV.webtv.sk">
+    <title lang="id">English 911 II (134)</title>
+  </programme>
+  <programme start="20260319135000 +0000" stop="20260319140000 +0000" channel="English Club TV.webtv.sk">
+    <title lang="id">Idiom Kitchen (9)</title>
+  </programme>
+  <programme start="20260319140000 +0000" stop="20260319141000 +0000" channel="English Club TV.webtv.sk">
+    <title lang="id">This Day In History</title>
+  </programme>
+  <programme start="20260319141000 +0000" stop="20260319142500 +0000" channel="English Club TV.webtv.sk">
+    <title lang="id">Labour Of Love (11)</title>
+  </programme>
+  <programme start="20260319142500 +0000" stop="20260319143000 +0000" channel="English Club TV.webtv.sk">
+    <title lang="id">What Did They Say (37)</title>
+  </programme>
+  <programme start="20260319143000 +0000" stop="20260319143500 +0000" channel="English Club TV.webtv.sk">
+    <title lang="id">What Did They Say (38)</title>
+  </programme>
+  <programme start="20260319143500 +0000" stop="20260319144000 +0000" channel="English Club TV.webtv.sk">
+    <title lang="id">What Did They Say (39)</title>
+  </programme>
+  <programme start="20260319144000 +0000" stop="20260319150000 +0000" channel="English Club TV.webtv.sk">
+    <title lang="id">Keep Fit (6)</title>
+  </programme>
+  <programme start="20260319150000 +0000" stop="20260319150500 +0000" channel="English Club TV.webtv.sk">
+    <title lang="id">Wrong&amp;right (23)</title>
+  </programme>
+  <programme start="20260319150500 +0000" stop="20260319151000 +0000" channel="English Club TV.webtv.sk">
+    <title lang="id">Wrong&amp;right (50)</title>
+  </programme>
+  <programme start="20260319151000 +0000" stop="20260319152000 +0000" channel="English Club TV.webtv.sk">
+    <title lang="id">City Grammar (32)</title>
+  </programme>
+  <programme start="20260319152000 +0000" stop="20260319153000 +0000" channel="English Club TV.webtv.sk">
+    <title lang="id">City Grammar (33)</title>
+  </programme>
+  <programme start="20260319153000 +0000" stop="20260319154000 +0000" channel="English Club TV.webtv.sk">
+    <title lang="id">City Grammar (34)</title>
+  </programme>
+  <programme start="20260319154000 +0000" stop="20260319155000 +0000" channel="English Club TV.webtv.sk">
+    <title lang="id">City Grammar (35)</title>
+  </programme>
+  <programme start="20260319155000 +0000" stop="20260319160000 +0000" channel="English Club TV.webtv.sk">
+    <title lang="id">English Up (23)</title>
+  </programme>
+  <programme start="20260319160000 +0000" stop="20260319160500 +0000" channel="English Club TV.webtv.sk">
+    <title lang="id">Simple Phrases (6)</title>
+  </programme>
+  <programme start="20260319160500 +0000" stop="20260319161500 +0000" channel="English Club TV.webtv.sk">
+    <title lang="id">Life Around (30)</title>
+  </programme>
+  <programme start="20260319161500 +0000" stop="20260319162500 +0000" channel="English Club TV.webtv.sk">
+    <title lang="id">Life Around (31)</title>
+  </programme>
+  <programme start="20260319162500 +0000" stop="20260319163500 +0000" channel="English Club TV.webtv.sk">
+    <title lang="id">Life Around (63)</title>
+  </programme>
+  <programme start="20260319163500 +0000" stop="20260319164500 +0000" channel="English Club TV.webtv.sk">
+    <title lang="id">City Grammar (2)</title>
+  </programme>
+  <programme start="20260319164500 +0000" stop="20260319165500 +0000" channel="English Club TV.webtv.sk">
+    <title lang="id">Jack Of All Trades (9)</title>
+  </programme>
+  <programme start="20260319165500 +0000" stop="20260319170000 +0000" channel="English Club TV.webtv.sk">
+    <title lang="id">Basic Lexis (42)</title>
+  </programme>
+  <programme start="20260319170000 +0000" stop="20260319170500 +0000" channel="English Club TV.webtv.sk">
+    <title lang="id">Coffee Chat (5)</title>
+  </programme>
+  <programme start="20260319170500 +0000" stop="20260319171000 +0000" channel="English Club TV.webtv.sk">
+    <title lang="id">Coffee Chat (6)</title>
+  </programme>
+  <programme start="20260319171000 +0000" stop="20260319171500 +0000" channel="English Club TV.webtv.sk">
+    <title lang="id">Coffee Chat (43)</title>
+  </programme>
+  <programme start="20260319171500 +0000" stop="20260319172000 +0000" channel="English Club TV.webtv.sk">
+    <title lang="id">Easy Talk (3)</title>
+  </programme>
+  <programme start="20260319172000 +0000" stop="20260319173500 +0000" channel="English Club TV.webtv.sk">
+    <title lang="id">Let&apos;s Talk (3)</title>
+  </programme>
+  <programme start="20260319173500 +0000" stop="20260319174500 +0000" channel="English Club TV.webtv.sk">
+    <title lang="id">English In Focus (9)</title>
+  </programme>
+  <programme start="20260319174500 +0000" stop="20260319175000 +0000" channel="English Club TV.webtv.sk">
+    <title lang="id">English 911 II (14)</title>
+  </programme>
+  <programme start="20260319175000 +0000" stop="20260319175500 +0000" channel="English Club TV.webtv.sk">
+    <title lang="id">English 911 II (15)</title>
+  </programme>
+  <programme start="20260319175500 +0000" stop="20260319180000 +0000" channel="English Club TV.webtv.sk">
+    <title lang="id">English 911 II (18)</title>
+  </programme>
+  <programme start="20260319180000 +0000" stop="20260319195000 +0000" channel="English Club TV.webtv.sk">
+    <title lang="id">Zootopia</title>
+  </programme>
+  <programme start="20260319195000 +0000" stop="20260319200000 +0000" channel="English Club TV.webtv.sk">
+    <title lang="id">Worth Seeing (30)</title>
+  </programme>
+  <programme start="20260319200000 +0000" stop="20260319201000 +0000" channel="English Club TV.webtv.sk">
+    <title lang="id">This Day In History</title>
+  </programme>
+  <programme start="20260319201000 +0000" stop="20260319202500 +0000" channel="English Club TV.webtv.sk">
+    <title lang="id">Labour Of Love (11)</title>
+  </programme>
+  <programme start="20260319202500 +0000" stop="20260319203000 +0000" channel="English Club TV.webtv.sk">
+    <title lang="id">What Did They Say (37)</title>
+  </programme>
+  <programme start="20260319203000 +0000" stop="20260319203500 +0000" channel="English Club TV.webtv.sk">
+    <title lang="id">What Did They Say (38)</title>
+  </programme>
+  <programme start="20260319203500 +0000" stop="20260319204000 +0000" channel="English Club TV.webtv.sk">
+    <title lang="id">What Did They Say (39)</title>
+  </programme>
+  <programme start="20260319204000 +0000" stop="20260319210000 +0000" channel="English Club TV.webtv.sk">
+    <title lang="id">Keep Fit (6)</title>
+  </programme>
+  <programme start="20260319210000 +0000" stop="20260319225000 +0000" channel="English Club TV.webtv.sk">
+    <title lang="id">Woman In Gold</title>
+  </programme>
+  <programme start="20260319225000 +0000" stop="20260319230000 +0000" channel="English Club TV.webtv.sk">
+    <title lang="id">Here And There (46)</title>
   </programme>
   <programme start="20260318225900 +0000" stop="20260318230700 +0000" channel="LangLab.webtv.sk">
     <title lang="id">English is the Key</title>
@@ -8413,6 +8680,60 @@
   <programme start="20260319222000 +0000" stop="20260320002000 +0000" channel="Cinemax 2.webtv.sk">
     <title lang="id">Milionář z chatrče</title>
   </programme>
+  <programme start="20260318223000 +0000" stop="20260319002000 +0000" channel="AMC.webtv.sk">
+    <title lang="id">Proroctví z temnot</title>
+  </programme>
+  <programme start="20260319002000 +0000" stop="20260319014000 +0000" channel="AMC.webtv.sk">
+    <title lang="id">Zastav a nepřežiješ</title>
+  </programme>
+  <programme start="20260319014000 +0000" stop="20260319042500 +0000" channel="AMC.webtv.sk">
+    <title lang="id">Vlk z Wall Street</title>
+  </programme>
+  <programme start="20260319042500 +0000" stop="20260319045000 +0000" channel="AMC.webtv.sk">
+    <title lang="id">Close Up I (1)</title>
+  </programme>
+  <programme start="20260319045000 +0000" stop="20260319050000 +0000" channel="AMC.webtv.sk">
+    <title lang="id">Director’s Short Cut I (19)</title>
+  </programme>
+  <programme start="20260319050000 +0000" stop="20260319052500 +0000" channel="AMC.webtv.sk">
+    <title lang="id">Close Up I (14)</title>
+  </programme>
+  <programme start="20260319052500 +0000" stop="20260319055500 +0000" channel="AMC.webtv.sk">
+    <title lang="id">Hollywood&apos;s Best Film Directors I (25)</title>
+  </programme>
+  <programme start="20260319055500 +0000" stop="20260319072000 +0000" channel="AMC.webtv.sk">
+    <title lang="id">Ostrov dinosaurů</title>
+  </programme>
+  <programme start="20260319072000 +0000" stop="20260319093500 +0000" channel="AMC.webtv.sk">
+    <title lang="id">Promiň, že ti říkám lásko</title>
+  </programme>
+  <programme start="20260319093500 +0000" stop="20260319110500 +0000" channel="AMC.webtv.sk">
+    <title lang="id">Tut I (1)</title>
+  </programme>
+  <programme start="20260319110500 +0000" stop="20260319123500 +0000" channel="AMC.webtv.sk">
+    <title lang="id">Tut I (2)</title>
+  </programme>
+  <programme start="20260319123500 +0000" stop="20260319140500 +0000" channel="AMC.webtv.sk">
+    <title lang="id">Tut I (3)</title>
+  </programme>
+  <programme start="20260319140500 +0000" stop="20260319155500 +0000" channel="AMC.webtv.sk">
+    <title lang="id">Božská relikvie 2</title>
+  </programme>
+  <programme start="20260319155500 +0000" stop="20260319174500 +0000" channel="AMC.webtv.sk">
+    <title lang="id">Zatím spolu, zatím živi</title>
+  </programme>
+  <programme start="20260319174500 +0000" stop="20260319192500 +0000" channel="AMC.webtv.sk">
+    <title lang="id">Policajtka</title>
+  </programme>
+  <programme start="20260319192500 +0000" stop="20260319210000 +0000" channel="AMC.webtv.sk">
+    <title lang="id">Ve spárech temnoty</title>
+  </programme>
+  <programme start="20260319210000 +0000" stop="20260319223000 +0000" channel="AMC.webtv.sk">
+    <title lang="id">Štvanec</title>
+  </programme>
+  <programme start="20260319223000 +0000" stop="20260319235500 +0000" channel="AMC.webtv.sk">
+    <title lang="id">Hitman 3: Likvidátor</title>
+  </programme>
   <programme start="20260318225500 +0000" stop="20260319001500 +0000" channel="Film +.webtv.sk">
     <title lang="id">Útes smrti</title>
   </programme>
@@ -9135,6 +9456,141 @@
   </programme>
   <programme start="20260319223000 +0000" stop="20260319230000 +0000" channel="FashionBox.webtv.sk">
     <title lang="id">New York Fashionweek - Spring Summer 2019 (6)</title>
+  </programme>
+  <programme start="20260318230000 +0000" stop="20260318233000 +0000" channel="Fast and Funbox.webtv.sk">
+    <title lang="id">Autospeed (2022): Autospeed (2022) I (18)</title>
+  </programme>
+  <programme start="20260318233000 +0000" stop="20260319000000 +0000" channel="Fast and Funbox.webtv.sk">
+    <title lang="id">Autospeed (2022): Autospeed (2022) I (19)</title>
+  </programme>
+  <programme start="20260319000000 +0000" stop="20260319003000 +0000" channel="Fast and Funbox.webtv.sk">
+    <title lang="id">Sailing to Tokyo 2019 I (8)</title>
+  </programme>
+  <programme start="20260319003000 +0000" stop="20260319010000 +0000" channel="Fast and Funbox.webtv.sk">
+    <title lang="id">Sailing to Tokyo 2019 I (9)</title>
+  </programme>
+  <programme start="20260319010000 +0000" stop="20260319013000 +0000" channel="Fast and Funbox.webtv.sk">
+    <title lang="id">Outdoor Sports Show 2019: Outdoor Sports Show 2019 #3 I (3)</title>
+  </programme>
+  <programme start="20260319013000 +0000" stop="20260319020000 +0000" channel="Fast and Funbox.webtv.sk">
+    <title lang="id">Outdoor Sports Show 2019: Outdoor Sports Show 2019 #4 I (4)</title>
+  </programme>
+  <programme start="20260319020000 +0000" stop="20260319023000 +0000" channel="Fast and Funbox.webtv.sk">
+    <title lang="id">Racemax Motorsports: Racemax Motorsports #26 I (26)</title>
+  </programme>
+  <programme start="20260319023000 +0000" stop="20260319030000 +0000" channel="Fast and Funbox.webtv.sk">
+    <title lang="id">Racemax Motorsports: Racemax Motorsports #27 I (27)</title>
+  </programme>
+  <programme start="20260319030000 +0000" stop="20260319040000 +0000" channel="Fast and Funbox.webtv.sk">
+    <title lang="id">Jet Ski World Series I (2)</title>
+  </programme>
+  <programme start="20260319040000 +0000" stop="20260319043000 +0000" channel="Fast and Funbox.webtv.sk">
+    <title lang="id">World of Freesports 2021: World of Freesports 2021 41 I (41)</title>
+  </programme>
+  <programme start="20260319043000 +0000" stop="20260319050000 +0000" channel="Fast and Funbox.webtv.sk">
+    <title lang="id">World of Freesports 2021: World of Freesports 2021 42 I (42)</title>
+  </programme>
+  <programme start="20260319050000 +0000" stop="20260319053000 +0000" channel="Fast and Funbox.webtv.sk">
+    <title lang="id">Hellas Rally Raid 2021</title>
+  </programme>
+  <programme start="20260319053000 +0000" stop="20260319060000 +0000" channel="Fast and Funbox.webtv.sk">
+    <title lang="id">How to Bulid a Race Car</title>
+  </programme>
+  <programme start="20260319060000 +0000" stop="20260319063000 +0000" channel="Fast and Funbox.webtv.sk">
+    <title lang="id">Xterra Adventures 2019 I (7)</title>
+  </programme>
+  <programme start="20260319063000 +0000" stop="20260319070000 +0000" channel="Fast and Funbox.webtv.sk">
+    <title lang="id">Xterra Adventures 2019 I (8)</title>
+  </programme>
+  <programme start="20260319070000 +0000" stop="20260319080000 +0000" channel="Fast and Funbox.webtv.sk">
+    <title lang="id">Ultra Running Polska I (6)</title>
+  </programme>
+  <programme start="20260319080000 +0000" stop="20260319083000 +0000" channel="Fast and Funbox.webtv.sk">
+    <title lang="id">Racemax Motorsports: Racemax Motorsports #26 I (26)</title>
+  </programme>
+  <programme start="20260319083000 +0000" stop="20260319090000 +0000" channel="Fast and Funbox.webtv.sk">
+    <title lang="id">Racemax Motorsports: Racemax Motorsports #27 I (27)</title>
+  </programme>
+  <programme start="20260319090000 +0000" stop="20260319100000 +0000" channel="Fast and Funbox.webtv.sk">
+    <title lang="id">Jet Ski World Series I (2)</title>
+  </programme>
+  <programme start="20260319100000 +0000" stop="20260319103000 +0000" channel="Fast and Funbox.webtv.sk">
+    <title lang="id">World of Freesports 2021: World of Freesports 2021 41 I (41)</title>
+  </programme>
+  <programme start="20260319103000 +0000" stop="20260319110000 +0000" channel="Fast and Funbox.webtv.sk">
+    <title lang="id">World of Freesports 2021: World of Freesports 2021 42 I (42)</title>
+  </programme>
+  <programme start="20260319110000 +0000" stop="20260319113000 +0000" channel="Fast and Funbox.webtv.sk">
+    <title lang="id">Autospeed (2022): Autospeed (2022) I (18)</title>
+  </programme>
+  <programme start="20260319113000 +0000" stop="20260319120000 +0000" channel="Fast and Funbox.webtv.sk">
+    <title lang="id">Autospeed (2022): Autospeed (2022) I (19)</title>
+  </programme>
+  <programme start="20260319120000 +0000" stop="20260319123000 +0000" channel="Fast and Funbox.webtv.sk">
+    <title lang="id">Inside Sailing 2021 I (8)</title>
+  </programme>
+  <programme start="20260319123000 +0000" stop="20260319130000 +0000" channel="Fast and Funbox.webtv.sk">
+    <title lang="id">Inside Sailing 2021: Inside Sailing 2021_09 I (9)</title>
+  </programme>
+  <programme start="20260319130000 +0000" stop="20260319133000 +0000" channel="Fast and Funbox.webtv.sk">
+    <title lang="id">Cape Epic 2019 I (5)</title>
+  </programme>
+  <programme start="20260319133000 +0000" stop="20260319140000 +0000" channel="Fast and Funbox.webtv.sk">
+    <title lang="id">Cape Epic 2019 I (6)</title>
+  </programme>
+  <programme start="20260319140000 +0000" stop="20260319144500 +0000" channel="Fast and Funbox.webtv.sk">
+    <title lang="id">Sports Max I (13)</title>
+  </programme>
+  <programme start="20260319144500 +0000" stop="20260319150000 +0000" channel="Fast and Funbox.webtv.sk">
+    <title lang="id">Paragliding World Cup #1</title>
+  </programme>
+  <programme start="20260319150000 +0000" stop="20260319153000 +0000" channel="Fast and Funbox.webtv.sk">
+    <title lang="id">Wild Spirits H2O: Wild Spirits H2O #1 I (1)</title>
+  </programme>
+  <programme start="20260319153000 +0000" stop="20260319160000 +0000" channel="Fast and Funbox.webtv.sk">
+    <title lang="id">Wild Spirits H2O: Wild Spirits H2O #2 I (2)</title>
+  </programme>
+  <programme start="20260319160000 +0000" stop="20260319163000 +0000" channel="Fast and Funbox.webtv.sk">
+    <title lang="id">Better than Four: Better than Four #1011 I (11)</title>
+  </programme>
+  <programme start="20260319163000 +0000" stop="20260319170000 +0000" channel="Fast and Funbox.webtv.sk">
+    <title lang="id">Better than Four: Better than Four #1012 I (12)</title>
+  </programme>
+  <programme start="20260319170000 +0000" stop="20260319173000 +0000" channel="Fast and Funbox.webtv.sk">
+    <title lang="id">Fia Pure Motorsport 2022 I (7)</title>
+  </programme>
+  <programme start="20260319173000 +0000" stop="20260319180000 +0000" channel="Fast and Funbox.webtv.sk">
+    <title lang="id">Fia Pure Motorsport 2022 I (8)</title>
+  </programme>
+  <programme start="20260319180000 +0000" stop="20260319183000 +0000" channel="Fast and Funbox.webtv.sk">
+    <title lang="id">Boat Show 4K: Boat Show 4K VII (4)</title>
+  </programme>
+  <programme start="20260319183000 +0000" stop="20260319190000 +0000" channel="Fast and Funbox.webtv.sk">
+    <title lang="id">Boat Show 4K: Boat Show 4K VII (5)</title>
+  </programme>
+  <programme start="20260319190000 +0000" stop="20260319193000 +0000" channel="Fast and Funbox.webtv.sk">
+    <title lang="id">Fia Pure Motorsport 2022 I (8)</title>
+  </programme>
+  <programme start="20260319193000 +0000" stop="20260319200000 +0000" channel="Fast and Funbox.webtv.sk">
+    <title lang="id">Fia Pure Motorsport 2022 I (9)</title>
+  </programme>
+  <programme start="20260319200000 +0000" stop="20260319203000 +0000" channel="Fast and Funbox.webtv.sk">
+    <title lang="id">Supercar TV I (1)</title>
+  </programme>
+  <programme start="20260319203000 +0000" stop="20260319210000 +0000" channel="Fast and Funbox.webtv.sk">
+    <title lang="id">Supercar TV I (2)</title>
+  </programme>
+  <programme start="20260319210000 +0000" stop="20260319213000 +0000" channel="Fast and Funbox.webtv.sk">
+    <title lang="id">Sailing to Tokyo 2019 I (8)</title>
+  </programme>
+  <programme start="20260319213000 +0000" stop="20260319220000 +0000" channel="Fast and Funbox.webtv.sk">
+    <title lang="id">Sailing to Tokyo 2019 I (9)</title>
+  </programme>
+  <programme start="20260319220000 +0000" stop="20260319223000 +0000" channel="Fast and Funbox.webtv.sk">
+    <title lang="id">Outdoor Sports Show 2019: Outdoor Sports Show 2019 #3 I (3)</title>
+  </programme>
+  <programme start="20260319223000 +0000" stop="20260319230000 +0000" channel="Fast and Funbox.webtv.sk">
+    <title lang="id">Outdoor Sports Show 2019: Outdoor Sports Show 2019 #4 I (4)</title>
   </programme>
   <programme start="20260318223500 +0000" stop="20260318233000 +0000" channel="DocuBox.webtv.sk">
     <title lang="id">Paris Berlin: Shapes and Shades of History (3)</title>
@@ -16809,6 +17265,237 @@
   </programme>
   <programme start="20260319225500 +0000" stop="20260319234000 +0000" channel="Armenia 1 TV.webtv.sk">
     <title lang="id">Differently</title>
+  </programme>
+  <programme start="20260318230000 +0000" stop="20260318231500 +0000" channel="Euronews.webtv.sk">
+    <title lang="id">The European debrief</title>
+  </programme>
+  <programme start="20260318231500 +0000" stop="20260318233000 +0000" channel="Euronews.webtv.sk">
+    <title lang="id">The European debrief</title>
+  </programme>
+  <programme start="20260318233000 +0000" stop="20260318234600 +0000" channel="Euronews.webtv.sk">
+    <title lang="id">The European debrief</title>
+  </programme>
+  <programme start="20260318234600 +0000" stop="20260319000000 +0000" channel="Euronews.webtv.sk">
+    <title lang="id">News</title>
+  </programme>
+  <programme start="20260319000000 +0000" stop="20260319001500 +0000" channel="Euronews.webtv.sk">
+    <title lang="id">The European debrief</title>
+  </programme>
+  <programme start="20260319001500 +0000" stop="20260319003100 +0000" channel="Euronews.webtv.sk">
+    <title lang="id">The European debrief</title>
+  </programme>
+  <programme start="20260319003100 +0000" stop="20260319010000 +0000" channel="Euronews.webtv.sk">
+    <title lang="id">News</title>
+  </programme>
+  <programme start="20260319010000 +0000" stop="20260319011500 +0000" channel="Euronews.webtv.sk">
+    <title lang="id">The European debrief</title>
+  </programme>
+  <programme start="20260319011500 +0000" stop="20260319013000 +0000" channel="Euronews.webtv.sk">
+    <title lang="id">The European debrief</title>
+  </programme>
+  <programme start="20260319013000 +0000" stop="20260319020000 +0000" channel="Euronews.webtv.sk">
+    <title lang="id">The European debrief</title>
+  </programme>
+  <programme start="20260319020000 +0000" stop="20260319021400 +0000" channel="Euronews.webtv.sk">
+    <title lang="id">The European debrief</title>
+  </programme>
+  <programme start="20260319021400 +0000" stop="20260319023000 +0000" channel="Euronews.webtv.sk">
+    <title lang="id">The European debrief</title>
+  </programme>
+  <programme start="20260319023000 +0000" stop="20260319030000 +0000" channel="Euronews.webtv.sk">
+    <title lang="id">The European debrief</title>
+  </programme>
+  <programme start="20260319030000 +0000" stop="20260319031500 +0000" channel="Euronews.webtv.sk">
+    <title lang="id">The European debrief</title>
+  </programme>
+  <programme start="20260319031500 +0000" stop="20260319033000 +0000" channel="Euronews.webtv.sk">
+    <title lang="id">The European debrief</title>
+  </programme>
+  <programme start="20260319033000 +0000" stop="20260319040000 +0000" channel="Euronews.webtv.sk">
+    <title lang="id">The European debrief</title>
+  </programme>
+  <programme start="20260319040000 +0000" stop="20260319041500 +0000" channel="Euronews.webtv.sk">
+    <title lang="id">The European debrief</title>
+  </programme>
+  <programme start="20260319041500 +0000" stop="20260319043000 +0000" channel="Euronews.webtv.sk">
+    <title lang="id">The European debrief</title>
+  </programme>
+  <programme start="20260319043000 +0000" stop="20260319050000 +0000" channel="Euronews.webtv.sk">
+    <title lang="id">The European debrief</title>
+  </programme>
+  <programme start="20260319050000 +0000" stop="20260319051500 +0000" channel="Euronews.webtv.sk">
+    <title lang="id">Wake up Europe</title>
+  </programme>
+  <programme start="20260319051500 +0000" stop="20260319053000 +0000" channel="Euronews.webtv.sk">
+    <title lang="id">Wake up Europe</title>
+  </programme>
+  <programme start="20260319053000 +0000" stop="20260319060000 +0000" channel="Euronews.webtv.sk">
+    <title lang="id">Wake up Europe</title>
+  </programme>
+  <programme start="20260319060000 +0000" stop="20260319061500 +0000" channel="Euronews.webtv.sk">
+    <title lang="id">Wake up Europe</title>
+  </programme>
+  <programme start="20260319061500 +0000" stop="20260319063000 +0000" channel="Euronews.webtv.sk">
+    <title lang="id">Wake up Europe</title>
+  </programme>
+  <programme start="20260319063000 +0000" stop="20260319070000 +0000" channel="Euronews.webtv.sk">
+    <title lang="id">Wake up Europe</title>
+  </programme>
+  <programme start="20260319070000 +0000" stop="20260319071600 +0000" channel="Euronews.webtv.sk">
+    <title lang="id">News</title>
+  </programme>
+  <programme start="20260319071600 +0000" stop="20260319073000 +0000" channel="Euronews.webtv.sk">
+    <title lang="id">News</title>
+  </programme>
+  <programme start="20260319073000 +0000" stop="20260319080000 +0000" channel="Euronews.webtv.sk">
+    <title lang="id">Wake up Europe</title>
+  </programme>
+  <programme start="20260319080000 +0000" stop="20260319081600 +0000" channel="Euronews.webtv.sk">
+    <title lang="id">News</title>
+  </programme>
+  <programme start="20260319081600 +0000" stop="20260319083000 +0000" channel="Euronews.webtv.sk">
+    <title lang="id">News</title>
+  </programme>
+  <programme start="20260319083000 +0000" stop="20260319090000 +0000" channel="Euronews.webtv.sk">
+    <title lang="id">Wake up Europe</title>
+  </programme>
+  <programme start="20260319090000 +0000" stop="20260319091600 +0000" channel="Euronews.webtv.sk">
+    <title lang="id">News</title>
+  </programme>
+  <programme start="20260319091600 +0000" stop="20260319093000 +0000" channel="Euronews.webtv.sk">
+    <title lang="id">News</title>
+  </programme>
+  <programme start="20260319093000 +0000" stop="20260319100000 +0000" channel="Euronews.webtv.sk">
+    <title lang="id">Euronews Now</title>
+  </programme>
+  <programme start="20260319100000 +0000" stop="20260319103000 +0000" channel="Euronews.webtv.sk">
+    <title lang="id">Euronews Now</title>
+  </programme>
+  <programme start="20260319103000 +0000" stop="20260319110000 +0000" channel="Euronews.webtv.sk">
+    <title lang="id">Euronews Now</title>
+  </programme>
+  <programme start="20260319110000 +0000" stop="20260319111400 +0000" channel="Euronews.webtv.sk">
+    <title lang="id">Euronews Now</title>
+  </programme>
+  <programme start="20260319111400 +0000" stop="20260319112800 +0000" channel="Euronews.webtv.sk">
+    <title lang="id">Euronews Now</title>
+  </programme>
+  <programme start="20260319112800 +0000" stop="20260319115000 +0000" channel="Euronews.webtv.sk">
+    <title lang="id">News</title>
+  </programme>
+  <programme start="20260319115000 +0000" stop="20260319120000 +0000" channel="Euronews.webtv.sk">
+    <title lang="id">News</title>
+  </programme>
+  <programme start="20260319120000 +0000" stop="20260319121500 +0000" channel="Euronews.webtv.sk">
+    <title lang="id">Euronews Now</title>
+  </programme>
+  <programme start="20260319121500 +0000" stop="20260319123000 +0000" channel="Euronews.webtv.sk">
+    <title lang="id">Euronews Now</title>
+  </programme>
+  <programme start="20260319123000 +0000" stop="20260319124600 +0000" channel="Euronews.webtv.sk">
+    <title lang="id">Euronews Now</title>
+  </programme>
+  <programme start="20260319124600 +0000" stop="20260319130000 +0000" channel="Euronews.webtv.sk">
+    <title lang="id">News</title>
+  </programme>
+  <programme start="20260319130000 +0000" stop="20260319131500 +0000" channel="Euronews.webtv.sk">
+    <title lang="id">Euronews Now</title>
+  </programme>
+  <programme start="20260319131500 +0000" stop="20260319133100 +0000" channel="Euronews.webtv.sk">
+    <title lang="id">Euronews Now</title>
+  </programme>
+  <programme start="20260319133100 +0000" stop="20260319134200 +0000" channel="Euronews.webtv.sk">
+    <title lang="id">News</title>
+  </programme>
+  <programme start="20260319134200 +0000" stop="20260319140000 +0000" channel="Euronews.webtv.sk">
+    <title lang="id">News</title>
+  </programme>
+  <programme start="20260319140000 +0000" stop="20260319141500 +0000" channel="Euronews.webtv.sk">
+    <title lang="id">Euronews Now</title>
+  </programme>
+  <programme start="20260319141500 +0000" stop="20260319143000 +0000" channel="Euronews.webtv.sk">
+    <title lang="id">Euronews Now</title>
+  </programme>
+  <programme start="20260319143000 +0000" stop="20260319150000 +0000" channel="Euronews.webtv.sk">
+    <title lang="id">Euronews Now</title>
+  </programme>
+  <programme start="20260319150000 +0000" stop="20260319153000 +0000" channel="Euronews.webtv.sk">
+    <title lang="id">The European debrief</title>
+  </programme>
+  <programme start="20260319153000 +0000" stop="20260319160000 +0000" channel="Euronews.webtv.sk">
+    <title lang="id">The European debrief</title>
+  </programme>
+  <programme start="20260319160000 +0000" stop="20260319161500 +0000" channel="Euronews.webtv.sk">
+    <title lang="id">The European debrief</title>
+  </programme>
+  <programme start="20260319161500 +0000" stop="20260319163000 +0000" channel="Euronews.webtv.sk">
+    <title lang="id">The European debrief</title>
+  </programme>
+  <programme start="20260319163000 +0000" stop="20260319164600 +0000" channel="Euronews.webtv.sk">
+    <title lang="id">The European debrief</title>
+  </programme>
+  <programme start="20260319164600 +0000" stop="20260319170000 +0000" channel="Euronews.webtv.sk">
+    <title lang="id">News</title>
+  </programme>
+  <programme start="20260319170000 +0000" stop="20260319171500 +0000" channel="Euronews.webtv.sk">
+    <title lang="id">The European debrief</title>
+  </programme>
+  <programme start="20260319171500 +0000" stop="20260319173000 +0000" channel="Euronews.webtv.sk">
+    <title lang="id">The European debrief</title>
+  </programme>
+  <programme start="20260319173000 +0000" stop="20260319180000 +0000" channel="Euronews.webtv.sk">
+    <title lang="id">The European debrief</title>
+  </programme>
+  <programme start="20260319180000 +0000" stop="20260319181400 +0000" channel="Euronews.webtv.sk">
+    <title lang="id">The European debrief</title>
+  </programme>
+  <programme start="20260319181400 +0000" stop="20260319182900 +0000" channel="Euronews.webtv.sk">
+    <title lang="id">The European debrief</title>
+  </programme>
+  <programme start="20260319182900 +0000" stop="20260319185200 +0000" channel="Euronews.webtv.sk">
+    <title lang="id">News</title>
+  </programme>
+  <programme start="20260319185200 +0000" stop="20260319190000 +0000" channel="Euronews.webtv.sk">
+    <title lang="id">News</title>
+  </programme>
+  <programme start="20260319190000 +0000" stop="20260319191400 +0000" channel="Euronews.webtv.sk">
+    <title lang="id">The European debrief</title>
+  </programme>
+  <programme start="20260319191400 +0000" stop="20260319194400 +0000" channel="Euronews.webtv.sk">
+    <title lang="id">The European debrief</title>
+  </programme>
+  <programme start="20260319194400 +0000" stop="20260319200000 +0000" channel="Euronews.webtv.sk">
+    <title lang="id">The European debrief</title>
+  </programme>
+  <programme start="20260319200000 +0000" stop="20260319201500 +0000" channel="Euronews.webtv.sk">
+    <title lang="id">The European debrief</title>
+  </programme>
+  <programme start="20260319201500 +0000" stop="20260319203000 +0000" channel="Euronews.webtv.sk">
+    <title lang="id">The European debrief</title>
+  </programme>
+  <programme start="20260319203000 +0000" stop="20260319210000 +0000" channel="Euronews.webtv.sk">
+    <title lang="id">The European debrief</title>
+  </programme>
+  <programme start="20260319210000 +0000" stop="20260319211400 +0000" channel="Euronews.webtv.sk">
+    <title lang="id">The European debrief</title>
+  </programme>
+  <programme start="20260319211400 +0000" stop="20260319213100 +0000" channel="Euronews.webtv.sk">
+    <title lang="id">The European debrief</title>
+  </programme>
+  <programme start="20260319213100 +0000" stop="20260319214600 +0000" channel="Euronews.webtv.sk">
+    <title lang="id">News</title>
+  </programme>
+  <programme start="20260319214600 +0000" stop="20260319220000 +0000" channel="Euronews.webtv.sk">
+    <title lang="id">News</title>
+  </programme>
+  <programme start="20260319220000 +0000" stop="20260319221500 +0000" channel="Euronews.webtv.sk">
+    <title lang="id">The European debrief</title>
+  </programme>
+  <programme start="20260319221500 +0000" stop="20260319223000 +0000" channel="Euronews.webtv.sk">
+    <title lang="id">The European debrief</title>
+  </programme>
+  <programme start="20260319223000 +0000" stop="20260319230000 +0000" channel="Euronews.webtv.sk">
+    <title lang="id">The European debrief</title>
   </programme>
   <programme start="20260318230000 +0000" stop="20260318232800 +0000" channel="NHK World Japan.webtv.sk">
     <title lang="id">NHK NEWSLINE</title>
