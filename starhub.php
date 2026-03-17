@@ -2018,7 +2018,7 @@
         <title>UEFA Europa League 2025/26: Lille vs Aston Villa - R16, 1st Leg</title>
     </programme>
     <programme start="20260317103000 +0000" stop="20260317110000 +0000" channel="beIN Sports 3.starhub">
-        <title>OFN 41</title>
+        <title>March</title>
     </programme>
     <programme start="20260317110000 +0000" stop="20260317120000 +0000" channel="beIN Sports 3.starhub">
         <title>Matchday 26</title>
@@ -2213,7 +2213,7 @@
         <title>TotalEnergies Africa Cup of Nations, Morocco 2025: Egypt vs South Africa - Group Stage</title>
     </programme>
     <programme start="20260316232000 +0000" stop="20260317011000 +0000" channel="beIN Sports 2 HD.starhub">
-        <title>TotalEnergies Africa Cup of Nations, Morocco 2025: Zambia vs Comoros - Group Stage</title>
+        <title>TotalEnergies Africa Cup of Nations, Morocco 2025: Zambia vs Comoros - Group Sta</title>
     </programme>
     <programme start="20260317011000 +0000" stop="20260317030000 +0000" channel="beIN Sports 2 HD.starhub">
         <title>Women&#039;s Super League 2025/26: London City Lionesses vs Arsenal</title>
@@ -3356,7 +3356,7 @@
         <title>German carmakers and the industrial sector floundering</title>
     </programme>
     <programme start="20260317063000 +0000" stop="20260317070000 +0000" channel="DW English HD.starhub">
-        <title>Experiencing and understanding the art world</title>
+        <title>Nietzsche, Indie Pop, and Identity</title>
     </programme>
     <programme start="20260317070000 +0000" stop="20260317070200 +0000" channel="DW English HD.starhub">
         <title>News</title>
@@ -3371,7 +3371,7 @@
         <title>News</title>
     </programme>
     <programme start="20260317080200 +0000" stop="20260317083000 +0000" channel="DW English HD.starhub">
-        <title>What connects us all</title>
+        <title>Why Europe could deep freeze in a warming world</title>
     </programme>
     <programme start="20260317083000 +0000" stop="20260317090000 +0000" channel="DW English HD.starhub">
         <title>Sanctuary in Ghana under pressure: Too many sacred monkeys?</title>
@@ -3386,7 +3386,7 @@
         <title>Japan - Fukushima’s Radioactive Legacy</title>
     </programme>
     <programme start="20260317094500 +0000" stop="20260317100000 +0000" channel="DW English HD.starhub">
-        <title>On Location</title>
+        <title>Life as a child from artificial insemination</title>
     </programme>
     <programme start="20260317100000 +0000" stop="20260317100200 +0000" channel="DW English HD.starhub">
         <title>News</title>
@@ -3425,7 +3425,7 @@
         <title>News</title>
     </programme>
     <programme start="20260317131500 +0000" stop="20260317133000 +0000" channel="DW English HD.starhub">
-        <title>Modular construction</title>
+        <title>Why we should bring back prefab buildings</title>
     </programme>
     <programme start="20260317133000 +0000" stop="20260317140000 +0000" channel="DW English HD.starhub">
         <title>Should nature be given legal status?</title>
@@ -3440,7 +3440,7 @@
         <title>Japan - Fukushima’s Radioactive Legacy</title>
     </programme>
     <programme start="20260317144500 +0000" stop="20260317150000 +0000" channel="DW English HD.starhub">
-        <title>On Location</title>
+        <title>Life as a child from artificial insemination</title>
     </programme>
     <programme start="20260317150000 +0000" stop="20260317153000 +0000" channel="DW English HD.starhub">
         <title>News</title>
@@ -7802,7 +7802,7 @@
         <title>Here She Comes... Miss Amphipolis</title>
     </programme>
     <programme start="20260317120000 +0000" stop="20260317123000 +0000" channel="Hits HD.starhub">
-        <title>Frasier&#039;s Imaginary Friend</title>
+        <title>Married... With Children</title>
     </programme>
     <programme start="20260317123000 +0000" stop="20260317130000 +0000" channel="Hits HD.starhub">
         <title>Samantha&#039;s Yoo-Hoo Maid</title>
