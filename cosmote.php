@@ -1,7 +1,3 @@
-<programme start="20260317170000 +0700" stop="20260317173000 +0700" channel="COSMOTE Sport 1 HD">
-    <title>UEFA Champions League Magazine 2024-25 E24</title>
-    <desc>Live: Tidak</desc>
-</programme>
 <programme start="20260317173000 +0700" stop="20260317193000 +0700" channel="COSMOTE Sport 1 HD">
     <title>Football: Club Atletico de Madrid - Tottenham Hotspur</title>
     <desc>Live: Tidak</desc>
@@ -206,8 +202,8 @@
     <title>Football: Anorthosis Famagusta - Apollon Limassol</title>
     <desc>Live: Tidak</desc>
 </programme>
-<programme start="20260317153000 +0700" stop="20260317173000 +0700" channel="COSMOTE Sport 4 HD">
-    <title>Basketball: Reyer Venezia - Udine</title>
+<programme start="20260318183000 +0700" stop="20260318202500 +0700" channel="COSMOTE Sport 3 HD">
+    <title>Football: Dundee - Dundee United</title>
     <desc>Live: Tidak</desc>
 </programme>
 <programme start="20260317173000 +0700" stop="20260317200000 +0700" channel="COSMOTE Sport 4 HD">
@@ -359,6 +355,14 @@
     <desc>Live: Tidak</desc>
 </programme>
 <programme start="20260318172500 +0700" stop="20260318181000 +0700" channel="COSMOTE Sport 5 HD">
+    <title>ERC 2025</title>
+    <desc>Live: Tidak</desc>
+</programme>
+<programme start="20260318181000 +0700" stop="20260318185500 +0700" channel="COSMOTE Sport 5 HD">
+    <title>ERC 2025</title>
+    <desc>Live: Tidak</desc>
+</programme>
+<programme start="20260318185500 +0700" stop="20260318200000 +0700" channel="COSMOTE Sport 5 HD">
     <title>ERC 2025</title>
     <desc>Live: Tidak</desc>
 </programme>

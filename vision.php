@@ -175,19 +175,16 @@
 <programme start="20260316230000 +0000" stop="20260317003000 +0000" channel="GTV.vision">
 <title>SpongeBob SquarePants</title>
 </programme>
-<programme start="20260317003000 +0000" stop="20260317011500 +0000" channel="GTV.vision">
+<programme start="20260317003000 +0000" stop="20260317010000 +0000" channel="GTV.vision">
 <title>CoComelon Dan Sahabat</title>
 </programme>
-<programme start="20260317011500 +0000" stop="20260317020000 +0000" channel="GTV.vision">
+<programme start="20260317010000 +0000" stop="20260317020000 +0000" channel="GTV.vision">
 <title>Obrolan Seputar Selebriti (GTV)</title>
 </programme>
-<programme start="20260317020000 +0000" stop="20260317021500 +0000" channel="GTV.vision">
+<programme start="20260317020000 +0000" stop="20260317023000 +0000" channel="GTV.vision">
 <title>Buletin iNews Pagi</title>
 </programme>
-<programme start="20260317021500 +0000" stop="20260317030000 +0000" channel="GTV.vision">
-<title>Bernard Bear</title>
-</programme>
-<programme start="20260317030000 +0000" stop="20260317050000 +0000" channel="GTV.vision">
+<programme start="20260317023000 +0000" stop="20260317050000 +0000" channel="GTV.vision">
 <title>Spongebob Squarepants (GTV)</title>
 </programme>
 <programme start="20260317050000 +0000" stop="20260317080000 +0000" channel="GTV.vision">
@@ -196,62 +193,68 @@
 <programme start="20260317080000 +0000" stop="20260317093000 +0000" channel="GTV.vision">
 <title>SpongeBob SquarePants</title>
 </programme>
-<programme start="20260317093000 +0000" stop="20260317103000 +0000" channel="GTV.vision">
+<programme start="20260317093000 +0000" stop="20260317100000 +0000" channel="GTV.vision">
 <title>SpongeBob SquarePants</title>
 </programme>
-<programme start="20260317103000 +0000" stop="20260317110000 +0000" channel="GTV.vision">
+<programme start="20260317100000 +0000" stop="20260317101500 +0000" channel="GTV.vision">
 <title>Ramadan Sama Artis (GTV)</title>
+</programme>
+<programme start="20260317101500 +0000" stop="20260317110000 +0000" channel="GTV.vision">
+<title>SpongeBob SquarePants</title>
 </programme>
 <programme start="20260317110000 +0000" stop="20260317123000 +0000" channel="GTV.vision">
 <title>New Family 100 (GTV)</title>
 </programme>
 <programme start="20260317123000 +0000" stop="20260317143000 +0000" channel="GTV.vision">
-<title>Monster Island</title>
+<title>Big Movies</title>
 </programme>
-<programme start="20260317143000 +0000" stop="20260317153000 +0000" channel="GTV.vision">
+<programme start="20260317143000 +0000" stop="20260317160000 +0000" channel="GTV.vision">
 <title>Untold Story</title>
 </programme>
-<programme start="20260317153000 +0000" stop="20260317170000 +0000" channel="GTV.vision">
+<programme start="20260317160000 +0000" stop="20260317170000 +0000" channel="GTV.vision">
 <title>Jelajah Mitos</title>
 </programme>
-<programme start="20260317170000 +0000" stop="20260317190000 +0000" channel="GTV.vision">
-<title>Crime KV</title>
+<programme start="20260317180000 +0000" stop="20260317190000 +0000" channel="GTV.vision">
+<title>GTV</title>
 </programme>
-<programme start="20260317190000 +0000" stop="20260317203000 +0000" channel="GTV.vision">
-<title>The Mystical Treasure</title>
+<programme start="20260317190000 +0000" stop="20260317200000 +0000" channel="GTV.vision">
+<title>GTV</title>
 </programme>
-<programme start="20260317203000 +0000" stop="20260317220000 +0000" channel="GTV.vision">
-<title>Wu Shen Zhao Zilong</title>
+<programme start="20260317200000 +0000" stop="20260317220000 +0000" channel="GTV.vision">
+<title>GTV</title>
 </programme>
 <programme start="20260317220000 +0000" stop="20260317230000 +0000" channel="GTV.vision">
-<title>Kisah Viral</title>
+<title>GTV</title>
 </programme>
-<programme start="20260317230000 +0000" stop="20260318010000 +0000" channel="GTV.vision">
-<title>SpongeBob SquarePants</title>
+<programme start="20260317230000 +0000" stop="20260318000000 +0000" channel="GTV.vision">
+<title>GTV</title>
 </programme>
-<programme start="20260318010000 +0000" stop="20260318020000 +0000" channel="GTV.vision">
-<title>Obrolan Seputar Selebriti (GTV)</title>
+<programme start="20260318000000 +0000" stop="20260318010000 +0000" channel="GTV.vision">
+<title>GTV</title>
+</programme>
+<programme start="20260318010000 +0000" stop="20260318013000 +0000" channel="GTV.vision">
+<title>GTV</title>
+</programme>
+<programme start="20260318013000 +0000" stop="20260318020000 +0000" channel="GTV.vision">
+<title>GTV</title>
 </programme>
 <programme start="20260318020000 +0000" stop="20260318023000 +0000" channel="GTV.vision">
-<title>Buletin iNews Pagi</title>
+<title>GTV</title>
 </programme>
 <programme start="20260318023000 +0000" stop="20260318050000 +0000" channel="GTV.vision">
-<title>Spongebob Squarepants (GTV)</title>
+<title>GTV</title>
 </programme>
-<programme start="20260318050000 +0000" stop="20260318080000 +0000" channel="GTV.vision">
-<title>SpongeBob SquarePants</title>
+<programme start="20260318050000 +0000" stop="20260318073000 +0000" channel="GTV.vision">
+<title>GTV</title>
 </programme>
-<programme start="20260318080000 +0000" stop="20260318093000 +0000" channel="GTV.vision">
-<title>SpongeBob SquarePants</title>
+<programme start="20260318073000 +0000" stop="20260318093000 +0000" channel="GTV.vision">
+<title>GTV</title>
 </programme>
-<programme start="20260318093000 +0000" stop="20260318103000 +0000" channel="GTV.vision">
-<title>SpongeBob SquarePants</title>
+<programme start="20260318093000 +0000" stop="20260318114500 +0000" channel="GTV.vision">
+<title>GTV</title>
 </programme>
-<programme start="20260318103000 +0000" stop="20260318110000 +0000" channel="GTV.vision">
-<title>Ramadan Sama Artis (GTV)</title>
-</programme>
-<programme start="20260318110000 +0000" stop="20260318123000 +0000" channel="GTV.vision">
-<title>New Family 100 (GTV)</title>
+<programme start="20260318114500 +0000" stop="20260318141500 +0000" channel="GTV.vision">
+<title>GTV</title>
 </programme>
 <programme start="20260317000000 +0000" stop="20260317010000 +0000" channel="iNews.vision">
 <title>Morning Update</title>
@@ -589,6 +592,12 @@
 <programme start="20260317041500 +0000" stop="20260317050000 +0000" channel="Trans 7.vision">
 <title>Enah Bikin Enak</title>
 </programme>
+<programme start="20260317050000 +0000" stop="20260317063000 +0000" channel="Trans 7.vision">
+<title>Teka-Teki Tika</title>
+</programme>
+<programme start="20260317063000 +0000" stop="20260317080000 +0000" channel="Trans 7.vision">
+<title>Sesuai Aplikasi</title>
+</programme>
 <programme start="20260317080000 +0000" stop="20260317090000 +0000" channel="Trans 7.vision">
 <title>Makan Receh Kultum</title>
 </programme>
@@ -676,77 +685,65 @@
 <programme start="20260318114500 +0000" stop="20260318121500 +0000" channel="Trans 7.vision">
 <title>Secret Story</title>
 </programme>
-<programme start="20260316230000 +0000" stop="20260317003000 +0000" channel="ANTV.vision">
-<title>Baalveer Returns</title>
+<programme start="20260316230000 +0000" stop="20260317010000 +0000" channel="ANTV.vision">
+<title>ANTV</title>
 </programme>
-<programme start="20260317003000 +0000" stop="20260317023000 +0000" channel="ANTV.vision">
-<title>Janji Cinta Inspektur Virat</title>
+<programme start="20260317010000 +0000" stop="20260317023000 +0000" channel="ANTV.vision">
+<title>ANTV</title>
 </programme>
 <programme start="20260317023000 +0000" stop="20260317060000 +0000" channel="ANTV.vision">
-<title>Commando 2</title>
+<title>ANTV</title>
 </programme>
-<programme start="20260317060000 +0000" stop="20260317080000 +0000" channel="ANTV.vision">
-<title>Jhanak</title>
+<programme start="20260317060000 +0000" stop="20260317083000 +0000" channel="ANTV.vision">
+<title>ANTV</title>
 </programme>
-<programme start="20260317080000 +0000" stop="20260317090000 +0000" channel="ANTV.vision">
-<title>Teri Meri Doriyaann</title>
+<programme start="20260317083000 +0000" stop="20260317104500 +0000" channel="ANTV.vision">
+<title>ANTV</title>
 </programme>
-<programme start="20260317090000 +0000" stop="20260317110000 +0000" channel="ANTV.vision">
-<title>Vasudha</title>
+<programme start="20260317104500 +0000" stop="20260317114500 +0000" channel="ANTV.vision">
+<title>ANTV</title>
 </programme>
-<programme start="20260317110000 +0000" stop="20260317130000 +0000" channel="ANTV.vision">
-<title>Noda X</title>
+<programme start="20260317114500 +0000" stop="20260317131500 +0000" channel="ANTV.vision">
+<title>ANTV</title>
 </programme>
-<programme start="20260317130000 +0000" stop="20260317150000 +0000" channel="ANTV.vision">
-<title>Perempuan Bergairah</title>
+<programme start="20260317131500 +0000" stop="20260317151500 +0000" channel="ANTV.vision">
+<title>ANTV</title>
 </programme>
-<programme start="20260317150000 +0000" stop="20260317170000 +0000" channel="ANTV.vision">
-<title>Godain Kita Dong</title>
+<programme start="20260317151500 +0000" stop="20260317171500 +0000" channel="ANTV.vision">
+<title>ANTV</title>
 </programme>
-<programme start="20260317170000 +0000" stop="20260317183000 +0000" channel="ANTV.vision">
-<title>Happy Ghost 2</title>
+<programme start="20260317171500 +0000" stop="20260317190000 +0000" channel="ANTV.vision">
+<title>ANTV</title>
 </programme>
-<programme start="20260317183000 +0000" stop="20260317193000 +0000" channel="ANTV.vision">
-<title>Mahaut</title>
+<programme start="20260317190000 +0000" stop="20260317214500 +0000" channel="ANTV.vision">
+<title>ANTV</title>
 </programme>
-<programme start="20260317193000 +0000" stop="20260317213000 +0000" channel="ANTV.vision">
-<title>Srigala</title>
+<programme start="20260317214500 +0000" stop="20260317223000 +0000" channel="ANTV.vision">
+<title>ANTV</title>
 </programme>
-<programme start="20260317213000 +0000" stop="20260317230000 +0000" channel="ANTV.vision">
-<title>Mr. Zombie</title>
+<programme start="20260317223000 +0000" stop="20260317230000 +0000" channel="ANTV.vision">
+<title>ANTV</title>
 </programme>
-<programme start="20260317230000 +0000" stop="20260318003000 +0000" channel="ANTV.vision">
-<title>Baalveer Returns</title>
+<programme start="20260317230000 +0000" stop="20260318010000 +0000" channel="ANTV.vision">
+<title>ANTV</title>
 </programme>
-<programme start="20260318003000 +0000" stop="20260318023000 +0000" channel="ANTV.vision">
-<title>Janji Cinta Inspektur Virat</title>
+<programme start="20260318010000 +0000" stop="20260318023000 +0000" channel="ANTV.vision">
+<title>ANTV</title>
 </programme>
-<programme start="20260318023000 +0000" stop="20260318050000 +0000" channel="ANTV.vision">
-<title>Koi Mil Gaya</title>
+<programme start="20260318023000 +0000" stop="20260318060000 +0000" channel="ANTV.vision">
+<title>ANTV</title>
 </programme>
-<programme start="20260318050000 +0000" stop="20260318053000 +0000" channel="ANTV.vision">
-<title>Topkin Mudik</title>
+<programme start="20260318060000 +0000" stop="20260318083000 +0000" channel="ANTV.vision">
+<title>ANTV</title>
 </programme>
-<programme start="20260318053000 +0000" stop="20260318060000 +0000" channel="ANTV.vision">
-<title>Koi Mil Gaya</title>
+<programme start="20260318083000 +0000" stop="20260318104500 +0000" channel="ANTV.vision">
+<title>ANTV</title>
 </programme>
-<programme start="20260318060000 +0000" stop="20260318063000 +0000" channel="ANTV.vision">
-<title>Jhanak</title>
+<programme start="20260318104500 +0000" stop="20260318114500 +0000" channel="ANTV.vision">
+<title>ANTV</title>
 </programme>
-<programme start="20260318063000 +0000" stop="20260318070000 +0000" channel="ANTV.vision">
-<title>Topkin Mudik</title>
-</programme>
-<programme start="20260318070000 +0000" stop="20260318080000 +0000" channel="ANTV.vision">
-<title>Jhanak</title>
-</programme>
-<programme start="20260318080000 +0000" stop="20260318090000 +0000" channel="ANTV.vision">
-<title>Teri Meri Doriyaann</title>
-</programme>
-<programme start="20260318090000 +0000" stop="20260318110000 +0000" channel="ANTV.vision">
-<title>Vasudha</title>
-</programme>
-<programme start="20260318110000 +0000" stop="20260318130000 +0000" channel="ANTV.vision">
-<title>Tarzan Penunggu Harta Karun</title>
+<programme start="20260318114500 +0000" stop="20260318131500 +0000" channel="ANTV.vision">
+<title>ANTV</title>
 </programme>
 <programme start="20260316230000 +0000" stop="20260317010000 +0000" channel="RTV.vision">
 <title>Bread Barbershop</title>
@@ -1497,4 +1494,7 @@
 </programme>
 <programme start="20260317163000 +0000" stop="20260317173000 +0000" channel="BTV.vision">
 <title>ONE Vault</title>
+</programme>
+<programme start="20260317173000 +0000" stop="20260317180000 +0000" channel="BTV.vision">
+<title>Berita Viral</title>
 </programme>

@@ -6689,7 +6689,7 @@
         <title>Rio Open presented by Claro</title>
     </programme>
     <programme start="20260317133000 +0000" stop="20260317140000 +0000" channel="Hub Sports 1  HD.starhub">
-        <title>Season 4 Episode 1</title>
+        <title>Season 3 Episode 13</title>
     </programme>
     <programme start="20260317140000 +0000" stop="20260317160000 +0000" channel="Hub Sports 1  HD.starhub">
         <title>Indian Wells</title>
