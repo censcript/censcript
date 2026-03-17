@@ -2213,7 +2213,7 @@
         <title>TotalEnergies Africa Cup of Nations, Morocco 2025: Egypt vs South Africa - Group</title>
     </programme>
     <programme start="20260316232000 +0000" stop="20260317011000 +0000" channel="beIN Sports 2 HD.starhub">
-        <title>TotalEnergies Africa Cup of Nations, Morocco 2025: Zambia vs Comoros - Group Sta</title>
+        <title>TotalEnergies Africa Cup of Nations, Morocco 2025: Zambia vs Comoros - Group Stage</title>
     </programme>
     <programme start="20260317011000 +0000" stop="20260317030000 +0000" channel="beIN Sports 2 HD.starhub">
         <title>Women&#039;s Super League 2025/26: London City Lionesses vs Arsenal</title>

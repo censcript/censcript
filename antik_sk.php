@@ -1153,6 +1153,69 @@
   <programme start="20260319225500 +0000" stop="20260319233500 +0000" channel="Markíza Krimi.webtv.sk">
     <title lang="id">Kosti I (22)</title>
   </programme>
+  <programme start="20260318213000 +0000" stop="20260318234500 +0000" channel="JOJ Plus.webtv.sk">
+    <title lang="id">Svadba a ďalšie katastrofy</title>
+  </programme>
+  <programme start="20260318234500 +0000" stop="20260319001500 +0000" channel="JOJ Plus.webtv.sk">
+    <title lang="id">Profíci z Brooklynu V (13)</title>
+  </programme>
+  <programme start="20260319001500 +0000" stop="20260319013000 +0000" channel="JOJ Plus.webtv.sk">
+    <title lang="id">Ako som spoznal vašu mamu III</title>
+  </programme>
+  <programme start="20260319013000 +0000" stop="20260319021500 +0000" channel="JOJ Plus.webtv.sk">
+    <title lang="id">Mafstory X</title>
+  </programme>
+  <programme start="20260319021500 +0000" stop="20260319041500 +0000" channel="JOJ Plus.webtv.sk">
+    <title lang="id">Marco</title>
+  </programme>
+  <programme start="20260319041500 +0000" stop="20260319045000 +0000" channel="JOJ Plus.webtv.sk">
+    <title lang="id">Riskuj</title>
+  </programme>
+  <programme start="20260319045000 +0000" stop="20260319061500 +0000" channel="JOJ Plus.webtv.sk">
+    <title lang="id">Súdna sieň</title>
+  </programme>
+  <programme start="20260319061500 +0000" stop="20260319070000 +0000" channel="JOJ Plus.webtv.sk">
+    <title lang="id">Súdna sieň</title>
+  </programme>
+  <programme start="20260319070000 +0000" stop="20260319081500 +0000" channel="JOJ Plus.webtv.sk">
+    <title lang="id">Moja mama varí lepšie ako tvoja</title>
+  </programme>
+  <programme start="20260319081500 +0000" stop="20260319093500 +0000" channel="JOJ Plus.webtv.sk">
+    <title lang="id">Panelák IX (51)</title>
+  </programme>
+  <programme start="20260319093500 +0000" stop="20260319102500 +0000" channel="JOJ Plus.webtv.sk">
+    <title lang="id">Dr. House III (22)</title>
+  </programme>
+  <programme start="20260319102500 +0000" stop="20260319114000 +0000" channel="JOJ Plus.webtv.sk">
+    <title lang="id">Dr. House III (23)</title>
+  </programme>
+  <programme start="20260319114000 +0000" stop="20260319131500 +0000" channel="JOJ Plus.webtv.sk">
+    <title lang="id">Česko Slovensko má talent</title>
+  </programme>
+  <programme start="20260319131500 +0000" stop="20260319152000 +0000" channel="JOJ Plus.webtv.sk">
+    <title lang="id">Zachráňte tigra</title>
+  </programme>
+  <programme start="20260319152000 +0000" stop="20260319162500 +0000" channel="JOJ Plus.webtv.sk">
+    <title lang="id">Moja mama varí lepšie ako tvoja</title>
+  </programme>
+  <programme start="20260319162500 +0000" stop="20260319172500 +0000" channel="JOJ Plus.webtv.sk">
+    <title lang="id">Dr. House III (24/24)</title>
+  </programme>
+  <programme start="20260319172500 +0000" stop="20260319182500 +0000" channel="JOJ Plus.webtv.sk">
+    <title lang="id">Dr. House IV (1/16)</title>
+  </programme>
+  <programme start="20260319182500 +0000" stop="20260319193000 +0000" channel="JOJ Plus.webtv.sk">
+    <title lang="id">Profesionáli (16)</title>
+  </programme>
+  <programme start="20260319193000 +0000" stop="20260319195500 +0000" channel="JOJ Plus.webtv.sk">
+    <title lang="id">Štúdio UEFA</title>
+  </programme>
+  <programme start="20260319195500 +0000" stop="20260319223500 +0000" channel="JOJ Plus.webtv.sk">
+    <title lang="id">Futbal - Európska liga</title>
+  </programme>
+  <programme start="20260319223500 +0000" stop="20260320003000 +0000" channel="JOJ Plus.webtv.sk">
+    <title lang="id">Odobrať z priateľov 2</title>
+  </programme>
   <programme start="20260318230000 +0000" stop="20260319010500 +0000" channel="JOJ Šport.webtv.sk">
     <title lang="id">FIS Svetový pohár obrovský slalom ženy</title>
   </programme>
@@ -5538,87 +5601,6 @@
   </programme>
   <programme start="20260319220000 +0000" stop="20260320010000 +0000" channel="Golf Channel.webtv.sk">
     <title lang="id">Fortiniet Founder&apos;s Cup</title>
-  </programme>
-  <programme start="20260318230000 +0000" stop="20260318234500 +0000" channel="National Geographic Channel.webtv.sk">
-    <title lang="id">Osvobození: Od Normandie po Berlín I (3)</title>
-  </programme>
-  <programme start="20260318234500 +0000" stop="20260319003000 +0000" channel="National Geographic Channel.webtv.sk">
-    <title lang="id">Osvobození: Od Normandie po Berlín I (4)</title>
-  </programme>
-  <programme start="20260319003000 +0000" stop="20260319011500 +0000" channel="National Geographic Channel.webtv.sk">
-    <title lang="id">Když počasí zmutuje I (3)</title>
-  </programme>
-  <programme start="20260319011500 +0000" stop="20260319020000 +0000" channel="National Geographic Channel.webtv.sk">
-    <title lang="id">Ostrov mimo zákon IV (6)</title>
-  </programme>
-  <programme start="20260319020000 +0000" stop="20260319024500 +0000" channel="National Geographic Channel.webtv.sk">
-    <title lang="id">Železnice ve Skalistých horách I (8)</title>
-  </programme>
-  <programme start="20260319024500 +0000" stop="20260319033000 +0000" channel="National Geographic Channel.webtv.sk">
-    <title lang="id">Zabezpečení letiště: Peru a Brazílie VI (8)</title>
-  </programme>
-  <programme start="20260319033000 +0000" stop="20260319041500 +0000" channel="National Geographic Channel.webtv.sk">
-    <title lang="id">Jedinečné letiště v Dubaji II (8)</title>
-  </programme>
-  <programme start="20260319041500 +0000" stop="20260319050000 +0000" channel="National Geographic Channel.webtv.sk">
-    <title lang="id">Inkové: Vzestup a pád I (3)</title>
-  </programme>
-  <programme start="20260319050000 +0000" stop="20260319060000 +0000" channel="National Geographic Channel.webtv.sk">
-    <title lang="id">Evropa z výšky III (3)</title>
-  </programme>
-  <programme start="20260319060000 +0000" stop="20260319070000 +0000" channel="National Geographic Channel.webtv.sk">
-    <title lang="id">Ostrov mimo zákon IV (7)</title>
-  </programme>
-  <programme start="20260319070000 +0000" stop="20260319080000 +0000" channel="National Geographic Channel.webtv.sk">
-    <title lang="id">Pomozte autům XII (4)</title>
-  </programme>
-  <programme start="20260319080000 +0000" stop="20260319090000 +0000" channel="National Geographic Channel.webtv.sk">
-    <title lang="id">Jak chytit pašeráka: Boj s kokainem I (9)</title>
-  </programme>
-  <programme start="20260319090000 +0000" stop="20260319100000 +0000" channel="National Geographic Channel.webtv.sk">
-    <title lang="id">Vyšetřování leteckých neštěstí XX (6)</title>
-  </programme>
-  <programme start="20260319100000 +0000" stop="20260319110000 +0000" channel="National Geographic Channel.webtv.sk">
-    <title lang="id">Vyšetřování leteckých neštěstí: Zvláštní vydání III (8)</title>
-  </programme>
-  <programme start="20260319110000 +0000" stop="20260319113000 +0000" channel="National Geographic Channel.webtv.sk">
-    <title lang="id">Továrna na jídlo: USA II (17)</title>
-  </programme>
-  <programme start="20260319113000 +0000" stop="20260319120000 +0000" channel="National Geographic Channel.webtv.sk">
-    <title lang="id">Továrna na jídlo: USA II (18)</title>
-  </programme>
-  <programme start="20260319120000 +0000" stop="20260319130000 +0000" channel="National Geographic Channel.webtv.sk">
-    <title lang="id">Aljaška: Noví osadníci III (3)</title>
-  </programme>
-  <programme start="20260319130000 +0000" stop="20260319140000 +0000" channel="National Geographic Channel.webtv.sk">
-    <title lang="id">Aljaška: Noví osadníci III (4)</title>
-  </programme>
-  <programme start="20260319140000 +0000" stop="20260319150000 +0000" channel="National Geographic Channel.webtv.sk">
-    <title lang="id">Svědkem katastrofy I (4)</title>
-  </programme>
-  <programme start="20260319150000 +0000" stop="20260319160000 +0000" channel="National Geographic Channel.webtv.sk">
-    <title lang="id">Když počasí zmutuje I (4)</title>
-  </programme>
-  <programme start="20260319160000 +0000" stop="20260319170000 +0000" channel="National Geographic Channel.webtv.sk">
-    <title lang="id">Letiště: Ztráty a nálezy I (4)</title>
-  </programme>
-  <programme start="20260319170000 +0000" stop="20260319180000 +0000" channel="National Geographic Channel.webtv.sk">
-    <title lang="id">Zabezpečení letiště: Brazílie - výběr V (1)</title>
-  </programme>
-  <programme start="20260319180000 +0000" stop="20260319190000 +0000" channel="National Geographic Channel.webtv.sk">
-    <title lang="id">Ztracené poklady Říma II (3)</title>
-  </programme>
-  <programme start="20260319190000 +0000" stop="20260319200000 +0000" channel="National Geographic Channel.webtv.sk">
-    <title lang="id">Ztracené poklady Říma II (4)</title>
-  </programme>
-  <programme start="20260319200000 +0000" stop="20260319210000 +0000" channel="National Geographic Channel.webtv.sk">
-    <title lang="id">Letadla, která měnila dějiny I (3)</title>
-  </programme>
-  <programme start="20260319210000 +0000" stop="20260319220000 +0000" channel="National Geographic Channel.webtv.sk">
-    <title lang="id">Stavíme Evropu I (4)</title>
-  </programme>
-  <programme start="20260319220000 +0000" stop="20260319230000 +0000" channel="National Geographic Channel.webtv.sk">
-    <title lang="id">Letiště: Ztráty a nálezy I (4)</title>
   </programme>
   <programme start="20260318221700 +0000" stop="20260318230200 +0000" channel="National Geographic Wild.webtv.sk">
     <title lang="id">Svět masožravců I (1)</title>
@@ -10831,297 +10813,6 @@
   <programme start="20260319225000 +0000" stop="20260319231000 +0000" channel="Nicktoons.webtv.sk">
     <title lang="id">Příběy Želv ninja I (4)</title>
   </programme>
-  <programme start="20260318225500 +0000" stop="20260318232000 +0000" channel="Nick Jr.webtv.sk">
-    <title lang="id">Barbapapa a jeho rodinka II (7)</title>
-  </programme>
-  <programme start="20260318232000 +0000" stop="20260318234000 +0000" channel="Nick Jr.webtv.sk">
-    <title lang="id">Rubble a jeho parta I (21)</title>
-  </programme>
-  <programme start="20260318234000 +0000" stop="20260319000500 +0000" channel="Nick Jr.webtv.sk">
-    <title lang="id">Rubble a jeho parta I (22)</title>
-  </programme>
-  <programme start="20260319000500 +0000" stop="20260319002500 +0000" channel="Nick Jr.webtv.sk">
-    <title lang="id">Tlapková patrola VIII (22)</title>
-  </programme>
-  <programme start="20260319002500 +0000" stop="20260319005000 +0000" channel="Nick Jr.webtv.sk">
-    <title lang="id">Tlapková patrola VIII (23)</title>
-  </programme>
-  <programme start="20260319005000 +0000" stop="20260319011000 +0000" channel="Nick Jr.webtv.sk">
-    <title lang="id">Barbapapa a jeho rodinka I (26)</title>
-  </programme>
-  <programme start="20260319011000 +0000" stop="20260319013500 +0000" channel="Nick Jr.webtv.sk">
-    <title lang="id">Barbapapa a jeho rodinka II (1)</title>
-  </programme>
-  <programme start="20260319013500 +0000" stop="20260319014000 +0000" channel="Nick Jr.webtv.sk">
-    <title lang="id">Tim Rex ve vesmíru I (1)</title>
-  </programme>
-  <programme start="20260319014000 +0000" stop="20260319015000 +0000" channel="Nick Jr.webtv.sk">
-    <title lang="id">Tim Rex ve vesmíru I (1)</title>
-  </programme>
-  <programme start="20260319015000 +0000" stop="20260319015500 +0000" channel="Nick Jr.webtv.sk">
-    <title lang="id">Tim Rex ve vesmíru I (1)</title>
-  </programme>
-  <programme start="20260319015500 +0000" stop="20260319022000 +0000" channel="Nick Jr.webtv.sk">
-    <title lang="id">Rubble a jeho parta I (10)</title>
-  </programme>
-  <programme start="20260319022000 +0000" stop="20260319024500 +0000" channel="Nick Jr.webtv.sk">
-    <title lang="id">Rubble a jeho parta I (11)</title>
-  </programme>
-  <programme start="20260319024500 +0000" stop="20260319030500 +0000" channel="Nick Jr.webtv.sk">
-    <title lang="id">DORA I (8)</title>
-  </programme>
-  <programme start="20260319030500 +0000" stop="20260319033000 +0000" channel="Nick Jr.webtv.sk">
-    <title lang="id">Plamínek a čtyřkoláci VIII (1)</title>
-  </programme>
-  <programme start="20260319033000 +0000" stop="20260319035000 +0000" channel="Nick Jr.webtv.sk">
-    <title lang="id">Plamínek a čtyřkoláci VIII (4)</title>
-  </programme>
-  <programme start="20260319035000 +0000" stop="20260319041500 +0000" channel="Nick Jr.webtv.sk">
-    <title lang="id">Barbapapa a jeho rodinka II (11)</title>
-  </programme>
-  <programme start="20260319041500 +0000" stop="20260319043500 +0000" channel="Nick Jr.webtv.sk">
-    <title lang="id">Barbapapa a jeho rodinka II (12)</title>
-  </programme>
-  <programme start="20260319043500 +0000" stop="20260319050000 +0000" channel="Nick Jr.webtv.sk">
-    <title lang="id">Tim Rex ve vesmíru I (2)</title>
-  </programme>
-  <programme start="20260319050000 +0000" stop="20260319052000 +0000" channel="Nick Jr.webtv.sk">
-    <title lang="id">Plamínek a čtyřkoláci I (10)</title>
-  </programme>
-  <programme start="20260319052000 +0000" stop="20260319054500 +0000" channel="Nick Jr.webtv.sk">
-    <title lang="id">Plamínek a čtyřkoláci I (11)</title>
-  </programme>
-  <programme start="20260319054500 +0000" stop="20260319060500 +0000" channel="Nick Jr.webtv.sk">
-    <title lang="id">Rubble a jeho parta III (12)</title>
-  </programme>
-  <programme start="20260319060500 +0000" stop="20260319063000 +0000" channel="Nick Jr.webtv.sk">
-    <title lang="id">Rubble a jeho parta III (13)</title>
-  </programme>
-  <programme start="20260319063000 +0000" stop="20260319064000 +0000" channel="Nick Jr.webtv.sk">
-    <title lang="id">Tlapková patrola XIII (1)</title>
-  </programme>
-  <programme start="20260319064000 +0000" stop="20260319065000 +0000" channel="Nick Jr.webtv.sk">
-    <title lang="id">Tlapková patrola XIII (1)</title>
-  </programme>
-  <programme start="20260319065000 +0000" stop="20260319071500 +0000" channel="Nick Jr.webtv.sk">
-    <title lang="id">Tlapková patrola III (12)</title>
-  </programme>
-  <programme start="20260319071500 +0000" stop="20260319073500 +0000" channel="Nick Jr.webtv.sk">
-    <title lang="id">DORA I (12)</title>
-  </programme>
-  <programme start="20260319073500 +0000" stop="20260319075000 +0000" channel="Nick Jr.webtv.sk">
-    <title lang="id">DORA II (1)</title>
-  </programme>
-  <programme start="20260319075000 +0000" stop="20260319075500 +0000" channel="Nick Jr.webtv.sk">
-    <title lang="id">Tim Rex ve vesmíru I (2)</title>
-  </programme>
-  <programme start="20260319075500 +0000" stop="20260319080500 +0000" channel="Nick Jr.webtv.sk">
-    <title lang="id">Tim Rex ve vesmíru I (2)</title>
-  </programme>
-  <programme start="20260319080500 +0000" stop="20260319081200 +0000" channel="Nick Jr.webtv.sk">
-    <title lang="id">Tim Rex ve vesmíru I (2)</title>
-  </programme>
-  <programme start="20260319081200 +0000" stop="20260319081700 +0000" channel="Nick Jr.webtv.sk">
-    <title lang="id">Prasátko Peppa VIII (49)</title>
-  </programme>
-  <programme start="20260319081700 +0000" stop="20260319082100 +0000" channel="Nick Jr.webtv.sk">
-    <title lang="id">Prasátko Peppa VIII (50)</title>
-  </programme>
-  <programme start="20260319082100 +0000" stop="20260319082500 +0000" channel="Nick Jr.webtv.sk">
-    <title lang="id">Prasátko Peppa VIII (51)</title>
-  </programme>
-  <programme start="20260319082500 +0000" stop="20260319083200 +0000" channel="Nick Jr.webtv.sk">
-    <title lang="id">Prasátko Peppa VIII (52)</title>
-  </programme>
-  <programme start="20260319083200 +0000" stop="20260319083600 +0000" channel="Nick Jr.webtv.sk">
-    <title lang="id">Prasátko Peppa VI (18)</title>
-  </programme>
-  <programme start="20260319083600 +0000" stop="20260319084100 +0000" channel="Nick Jr.webtv.sk">
-    <title lang="id">Prasátko Peppa VI (19)</title>
-  </programme>
-  <programme start="20260319084100 +0000" stop="20260319084500 +0000" channel="Nick Jr.webtv.sk">
-    <title lang="id">Prasátko Peppa VI (20)</title>
-  </programme>
-  <programme start="20260319084500 +0000" stop="20260319085000 +0000" channel="Nick Jr.webtv.sk">
-    <title lang="id">Prasátko Peppa VI (21)</title>
-  </programme>
-  <programme start="20260319085000 +0000" stop="20260319085500 +0000" channel="Nick Jr.webtv.sk">
-    <title lang="id">Prasátko Peppa VI (22)</title>
-  </programme>
-  <programme start="20260319085500 +0000" stop="20260319091500 +0000" channel="Nick Jr.webtv.sk">
-    <title lang="id">Barbapapa a jeho rodinka II (23)</title>
-  </programme>
-  <programme start="20260319091500 +0000" stop="20260319094000 +0000" channel="Nick Jr.webtv.sk">
-    <title lang="id">Barbapapa a jeho rodinka II (24)</title>
-  </programme>
-  <programme start="20260319094000 +0000" stop="20260319094500 +0000" channel="Nick Jr.webtv.sk">
-    <title lang="id">Sharkdog (2020) III (7)</title>
-  </programme>
-  <programme start="20260319094500 +0000" stop="20260319095500 +0000" channel="Nick Jr.webtv.sk">
-    <title lang="id">Sharkdog (2020) III (8)</title>
-  </programme>
-  <programme start="20260319095500 +0000" stop="20260319100000 +0000" channel="Nick Jr.webtv.sk">
-    <title lang="id">Sharkdog (2020) III (9)</title>
-  </programme>
-  <programme start="20260319100000 +0000" stop="20260319102500 +0000" channel="Nick Jr.webtv.sk">
-    <title lang="id">Plamínek a čtyřkoláci VI (8)</title>
-  </programme>
-  <programme start="20260319102500 +0000" stop="20260319104500 +0000" channel="Nick Jr.webtv.sk">
-    <title lang="id">Plamínek a čtyřkoláci VI (9)</title>
-  </programme>
-  <programme start="20260319104500 +0000" stop="20260319111000 +0000" channel="Nick Jr.webtv.sk">
-    <title lang="id">Rubble a jeho parta I (14)</title>
-  </programme>
-  <programme start="20260319111000 +0000" stop="20260319113000 +0000" channel="Nick Jr.webtv.sk">
-    <title lang="id">Rubble a jeho parta I (15)</title>
-  </programme>
-  <programme start="20260319113000 +0000" stop="20260319114000 +0000" channel="Nick Jr.webtv.sk">
-    <title lang="id">Tlapková patrola XIII (1)</title>
-  </programme>
-  <programme start="20260319114000 +0000" stop="20260319115500 +0000" channel="Nick Jr.webtv.sk">
-    <title lang="id">Tlapková patrola XIII (1)</title>
-  </programme>
-  <programme start="20260319115500 +0000" stop="20260319121500 +0000" channel="Nick Jr.webtv.sk">
-    <title lang="id">Tlapková patrola III (2)</title>
-  </programme>
-  <programme start="20260319121500 +0000" stop="20260319124000 +0000" channel="Nick Jr.webtv.sk">
-    <title lang="id">Barbapapa a jeho rodinka I (23)</title>
-  </programme>
-  <programme start="20260319124000 +0000" stop="20260319130000 +0000" channel="Nick Jr.webtv.sk">
-    <title lang="id">Barbapapa a jeho rodinka I (24)</title>
-  </programme>
-  <programme start="20260319130000 +0000" stop="20260319132500 +0000" channel="Nick Jr.webtv.sk">
-    <title lang="id">Tim Rex ve vesmíru I (2)</title>
-  </programme>
-  <programme start="20260319132500 +0000" stop="20260319135000 +0000" channel="Nick Jr.webtv.sk">
-    <title lang="id">Tim Rex ve vesmíru I (3)</title>
-  </programme>
-  <programme start="20260319135000 +0000" stop="20260319141000 +0000" channel="Nick Jr.webtv.sk">
-    <title lang="id">DORA IV (12)</title>
-  </programme>
-  <programme start="20260319141000 +0000" stop="20260319143300 +0000" channel="Nick Jr.webtv.sk">
-    <title lang="id">DORA IV (13)</title>
-  </programme>
-  <programme start="20260319143300 +0000" stop="20260319143800 +0000" channel="Nick Jr.webtv.sk">
-    <title lang="id">Prasátko Peppa VII (31)</title>
-  </programme>
-  <programme start="20260319143800 +0000" stop="20260319144200 +0000" channel="Nick Jr.webtv.sk">
-    <title lang="id">Prasátko Peppa VII (32)</title>
-  </programme>
-  <programme start="20260319144200 +0000" stop="20260319144700 +0000" channel="Nick Jr.webtv.sk">
-    <title lang="id">Prasátko Peppa VII (33)</title>
-  </programme>
-  <programme start="20260319144700 +0000" stop="20260319145100 +0000" channel="Nick Jr.webtv.sk">
-    <title lang="id">Prasátko Peppa VII (34)</title>
-  </programme>
-  <programme start="20260319145100 +0000" stop="20260319145500 +0000" channel="Nick Jr.webtv.sk">
-    <title lang="id">Prasátko Peppa VII (35)</title>
-  </programme>
-  <programme start="20260319145500 +0000" stop="20260319150000 +0000" channel="Nick Jr.webtv.sk">
-    <title lang="id">Prasátko Peppa VII (36)</title>
-  </programme>
-  <programme start="20260319150000 +0000" stop="20260319150500 +0000" channel="Nick Jr.webtv.sk">
-    <title lang="id">Prasátko Peppa III (10)</title>
-  </programme>
-  <programme start="20260319150500 +0000" stop="20260319153000 +0000" channel="Nick Jr.webtv.sk">
-    <title lang="id">Plamínek a čtyřkoláci IX (8)</title>
-  </programme>
-  <programme start="20260319153000 +0000" stop="20260319154000 +0000" channel="Nick Jr.webtv.sk">
-    <title lang="id">Tlapková patrola XIII (1)</title>
-  </programme>
-  <programme start="20260319154000 +0000" stop="20260319155000 +0000" channel="Nick Jr.webtv.sk">
-    <title lang="id">Tlapková patrola XIII (1)</title>
-  </programme>
-  <programme start="20260319155000 +0000" stop="20260319160000 +0000" channel="Nick Jr.webtv.sk">
-    <title lang="id">Tlapková patrola V (16)</title>
-  </programme>
-  <programme start="20260319160000 +0000" stop="20260319162500 +0000" channel="Nick Jr.webtv.sk">
-    <title lang="id">Rubble a jeho parta I (12)</title>
-  </programme>
-  <programme start="20260319162500 +0000" stop="20260319163500 +0000" channel="Nick Jr.webtv.sk">
-    <title lang="id">Rubble a jeho parta II (6)</title>
-  </programme>
-  <programme start="20260319163500 +0000" stop="20260319165500 +0000" channel="Nick Jr.webtv.sk">
-    <title lang="id">DORA I (1)</title>
-  </programme>
-  <programme start="20260319165500 +0000" stop="20260319172000 +0000" channel="Nick Jr.webtv.sk">
-    <title lang="id">Barbapapa a jeho rodinka II (11)</title>
-  </programme>
-  <programme start="20260319172000 +0000" stop="20260319173000 +0000" channel="Nick Jr.webtv.sk">
-    <title lang="id">Barbapapa a jeho rodinka II (19)</title>
-  </programme>
-  <programme start="20260319173000 +0000" stop="20260319174000 +0000" channel="Nick Jr.webtv.sk">
-    <title lang="id">Tim Rex ve vesmíru II (3)</title>
-  </programme>
-  <programme start="20260319174000 +0000" stop="20260319174500 +0000" channel="Nick Jr.webtv.sk">
-    <title lang="id">Tim Rex ve vesmíru II (3)</title>
-  </programme>
-  <programme start="20260319174500 +0000" stop="20260319175000 +0000" channel="Nick Jr.webtv.sk">
-    <title lang="id">Tim Rex ve vesmíru II (4)</title>
-  </programme>
-  <programme start="20260319175000 +0000" stop="20260319180200 +0000" channel="Nick Jr.webtv.sk">
-    <title lang="id">Tim Rex ve vesmíru II (4)</title>
-  </programme>
-  <programme start="20260319180200 +0000" stop="20260319180700 +0000" channel="Nick Jr.webtv.sk">
-    <title lang="id">Prasátko Peppa VII (31)</title>
-  </programme>
-  <programme start="20260319180700 +0000" stop="20260319181100 +0000" channel="Nick Jr.webtv.sk">
-    <title lang="id">Prasátko Peppa VII (32)</title>
-  </programme>
-  <programme start="20260319181100 +0000" stop="20260319181600 +0000" channel="Nick Jr.webtv.sk">
-    <title lang="id">Prasátko Peppa VII (33)</title>
-  </programme>
-  <programme start="20260319181600 +0000" stop="20260319182000 +0000" channel="Nick Jr.webtv.sk">
-    <title lang="id">Prasátko Peppa VII (34)</title>
-  </programme>
-  <programme start="20260319182000 +0000" stop="20260319182500 +0000" channel="Nick Jr.webtv.sk">
-    <title lang="id">Prasátko Peppa II (39)</title>
-  </programme>
-  <programme start="20260319182500 +0000" stop="20260319183000 +0000" channel="Nick Jr.webtv.sk">
-    <title lang="id">Prasátko Peppa II (40)</title>
-  </programme>
-  <programme start="20260319183000 +0000" stop="20260319185000 +0000" channel="Nick Jr.webtv.sk">
-    <title lang="id">Barbapapa a jeho rodinka I (11)</title>
-  </programme>
-  <programme start="20260319185000 +0000" stop="20260319190000 +0000" channel="Nick Jr.webtv.sk">
-    <title lang="id">Barbapapa a jeho rodinka II (14)</title>
-  </programme>
-  <programme start="20260319190000 +0000" stop="20260319192500 +0000" channel="Nick Jr.webtv.sk">
-    <title lang="id">Plamínek a čtyřkoláci VII (14)</title>
-  </programme>
-  <programme start="20260319192500 +0000" stop="20260319194500 +0000" channel="Nick Jr.webtv.sk">
-    <title lang="id">Tlapková patrola XIII (1)</title>
-  </programme>
-  <programme start="20260319194500 +0000" stop="20260319200000 +0000" channel="Nick Jr.webtv.sk">
-    <title lang="id">Tlapková patrola III (19)</title>
-  </programme>
-  <programme start="20260319200000 +0000" stop="20260319202000 +0000" channel="Nick Jr.webtv.sk">
-    <title lang="id">Rubble a jeho parta I (21)</title>
-  </programme>
-  <programme start="20260319202000 +0000" stop="20260319204500 +0000" channel="Nick Jr.webtv.sk">
-    <title lang="id">Rubble a jeho parta I (22)</title>
-  </programme>
-  <programme start="20260319204500 +0000" stop="20260319210500 +0000" channel="Nick Jr.webtv.sk">
-    <title lang="id">DORA IV (6)</title>
-  </programme>
-  <programme start="20260319210500 +0000" stop="20260319212500 +0000" channel="Nick Jr.webtv.sk">
-    <title lang="id">DORA IV (7)</title>
-  </programme>
-  <programme start="20260319212500 +0000" stop="20260319215000 +0000" channel="Nick Jr.webtv.sk">
-    <title lang="id">Barbapapa a jeho rodinka II (8)</title>
-  </programme>
-  <programme start="20260319215000 +0000" stop="20260319221000 +0000" channel="Nick Jr.webtv.sk">
-    <title lang="id">Barbapapa a jeho rodinka II (9)</title>
-  </programme>
-  <programme start="20260319221000 +0000" stop="20260319223500 +0000" channel="Nick Jr.webtv.sk">
-    <title lang="id">Barbapapa a jeho rodinka II (10)</title>
-  </programme>
-  <programme start="20260319223500 +0000" stop="20260319225500 +0000" channel="Nick Jr.webtv.sk">
-    <title lang="id">Barbapapa a jeho rodinka II (11)</title>
-  </programme>
-  <programme start="20260319225500 +0000" stop="20260319232000 +0000" channel="Nick Jr.webtv.sk">
-    <title lang="id">Barbapapa a jeho rodinka II (12)</title>
-  </programme>
   <programme start="20260318225800 +0000" stop="20260318231300 +0000" channel="JimJam.webtv.sk">
     <title lang="id">Moje kamarádka Conni II (24)</title>
   </programme>
@@ -15706,6 +15397,54 @@
   <programme start="20260319224500 +0000" stop="20260319230000 +0000" channel="CETV.webtv.sk">
     <title lang="id">Spravodajstvo</title>
   </programme>
+  <programme start="20260318230000 +0000" stop="20260319040000 +0000" channel="TV8.webtv.sk">
+    <title lang="id">Nočné vysielanie pre pánov</title>
+  </programme>
+  <programme start="20260319040000 +0000" stop="20260319043000 +0000" channel="TV8.webtv.sk">
+    <title lang="id">Dobré rady starej mamy</title>
+  </programme>
+  <programme start="20260319043000 +0000" stop="20260319044500 +0000" channel="TV8.webtv.sk">
+    <title lang="id">HOROSKOPY</title>
+  </programme>
+  <programme start="20260319044500 +0000" stop="20260319050000 +0000" channel="TV8.webtv.sk">
+    <title lang="id">Cvičíme pre zdravie</title>
+  </programme>
+  <programme start="20260319050000 +0000" stop="20260319064000 +0000" channel="TV8.webtv.sk">
+    <title lang="id">Veštenie repríza</title>
+  </programme>
+  <programme start="20260319064000 +0000" stop="20260319073000 +0000" channel="TV8.webtv.sk">
+    <title lang="id">HOROSKOPY</title>
+  </programme>
+  <programme start="20260319073000 +0000" stop="20260319074500 +0000" channel="TV8.webtv.sk">
+    <title lang="id">Cvičíme pre zdravie</title>
+  </programme>
+  <programme start="20260319074500 +0000" stop="20260319080000 +0000" channel="TV8.webtv.sk">
+    <title lang="id">HOROSKOPY</title>
+  </programme>
+  <programme start="20260319080000 +0000" stop="20260319133000 +0000" channel="TV8.webtv.sk">
+    <title lang="id">Ezoterická poradňa s Tamarou</title>
+  </programme>
+  <programme start="20260319133000 +0000" stop="20260319135500 +0000" channel="TV8.webtv.sk">
+    <title lang="id">O Zdraví</title>
+  </programme>
+  <programme start="20260319135500 +0000" stop="20260319140000 +0000" channel="TV8.webtv.sk">
+    <title lang="id">HOROSKOPY</title>
+  </programme>
+  <programme start="20260319140000 +0000" stop="20260319154000 +0000" channel="TV8.webtv.sk">
+    <title lang="id">Ezoterická poradňa s Tamarou</title>
+  </programme>
+  <programme start="20260319154000 +0000" stop="20260319174500 +0000" channel="TV8.webtv.sk">
+    <title lang="id">Cvičíme pre zdravie</title>
+  </programme>
+  <programme start="20260319174500 +0000" stop="20260319190000 +0000" channel="TV8.webtv.sk">
+    <title lang="id">HOROSKOPY</title>
+  </programme>
+  <programme start="20260319190000 +0000" stop="20260319210000 +0000" channel="TV8.webtv.sk">
+    <title lang="id">Ezoterická poradňa s Petrom</title>
+  </programme>
+  <programme start="20260319210000 +0000" stop="20260319230000 +0000" channel="TV8.webtv.sk">
+    <title lang="id">Ezoterická poradňa s Petrom</title>
+  </programme>
   <programme start="20260318230000 +0000" stop="20260318231000 +0000" channel="Polar TV.webtv.sk">
     <title lang="id">Regionální zprávy POLAR</title>
   </programme>
@@ -16302,333 +16041,6 @@
   </programme>
   <programme start="20260319224400 +0000" stop="20260319230000 +0000" channel="Polar TV.webtv.sk">
     <title lang="id">Magazín 112</title>
-  </programme>
-  <programme start="20260318230000 +0000" stop="20260318233000 +0000" channel="TVP World.webtv.sk">
-    <title lang="id">World News</title>
-  </programme>
-  <programme start="20260318233000 +0000" stop="20260318233200 +0000" channel="TVP World.webtv.sk">
-    <title lang="id">Weather</title>
-  </programme>
-  <programme start="20260318233200 +0000" stop="20260319000000 +0000" channel="TVP World.webtv.sk">
-    <title lang="id">Wider View from Brussels (10)</title>
-  </programme>
-  <programme start="20260319000000 +0000" stop="20260319001500 +0000" channel="TVP World.webtv.sk">
-    <title lang="id">World News Flash</title>
-  </programme>
-  <programme start="20260319001500 +0000" stop="20260319002500 +0000" channel="TVP World.webtv.sk">
-    <title lang="id">Break the Fake (1035)</title>
-  </programme>
-  <programme start="20260319002500 +0000" stop="20260319003500 +0000" channel="TVP World.webtv.sk">
-    <title lang="id">World News Flash</title>
-  </programme>
-  <programme start="20260319003500 +0000" stop="20260319005500 +0000" channel="TVP World.webtv.sk">
-    <title lang="id">Eastern Express (1366)</title>
-  </programme>
-  <programme start="20260319005500 +0000" stop="20260319010000 +0000" channel="TVP World.webtv.sk">
-    <title lang="id">Weather</title>
-  </programme>
-  <programme start="20260319010000 +0000" stop="20260319011500 +0000" channel="TVP World.webtv.sk">
-    <title lang="id">World News</title>
-  </programme>
-  <programme start="20260319011500 +0000" stop="20260319013000 +0000" channel="TVP World.webtv.sk">
-    <title lang="id">World Talks (1741)</title>
-  </programme>
-  <programme start="20260319013000 +0000" stop="20260319015000 +0000" channel="TVP World.webtv.sk">
-    <title lang="id">News in Depth</title>
-  </programme>
-  <programme start="20260319015000 +0000" stop="20260319020000 +0000" channel="TVP World.webtv.sk">
-    <title lang="id">Military mind (1008)</title>
-  </programme>
-  <programme start="20260319020000 +0000" stop="20260319023000 +0000" channel="TVP World.webtv.sk">
-    <title lang="id">World News</title>
-  </programme>
-  <programme start="20260319023000 +0000" stop="20260319023500 +0000" channel="TVP World.webtv.sk">
-    <title lang="id">Weather</title>
-  </programme>
-  <programme start="20260319023500 +0000" stop="20260319024000 +0000" channel="TVP World.webtv.sk">
-    <title lang="id">World News Online</title>
-  </programme>
-  <programme start="20260319024000 +0000" stop="20260319025500 +0000" channel="TVP World.webtv.sk">
-    <title lang="id">Pulse of Culture (316)</title>
-  </programme>
-  <programme start="20260319025500 +0000" stop="20260319030000 +0000" channel="TVP World.webtv.sk">
-    <title lang="id">Weather</title>
-  </programme>
-  <programme start="20260319030000 +0000" stop="20260319031500 +0000" channel="TVP World.webtv.sk">
-    <title lang="id">World News Flash</title>
-  </programme>
-  <programme start="20260319031500 +0000" stop="20260319034000 +0000" channel="TVP World.webtv.sk">
-    <title lang="id">Check - out Time (11)</title>
-  </programme>
-  <programme start="20260319034000 +0000" stop="20260319035500 +0000" channel="TVP World.webtv.sk">
-    <title lang="id">World News German</title>
-  </programme>
-  <programme start="20260319035500 +0000" stop="20260319040000 +0000" channel="TVP World.webtv.sk">
-    <title lang="id">Weather</title>
-  </programme>
-  <programme start="20260319040000 +0000" stop="20260319041500 +0000" channel="TVP World.webtv.sk">
-    <title lang="id">World News Flash</title>
-  </programme>
-  <programme start="20260319041500 +0000" stop="20260319050000 +0000" channel="TVP World.webtv.sk">
-    <title lang="id">Document</title>
-  </programme>
-  <programme start="20260319050000 +0000" stop="20260319053000 +0000" channel="TVP World.webtv.sk">
-    <title lang="id">World News</title>
-  </programme>
-  <programme start="20260319053000 +0000" stop="20260319060000 +0000" channel="TVP World.webtv.sk">
-    <title lang="id">Document</title>
-  </programme>
-  <programme start="20260319060000 +0000" stop="20260319061000 +0000" channel="TVP World.webtv.sk">
-    <title lang="id">World News Flash</title>
-  </programme>
-  <programme start="20260319061000 +0000" stop="20260319063500 +0000" channel="TVP World.webtv.sk">
-    <title lang="id">Wider View from Brussels (10)</title>
-  </programme>
-  <programme start="20260319063500 +0000" stop="20260319064500 +0000" channel="TVP World.webtv.sk">
-    <title lang="id">World News Flash</title>
-  </programme>
-  <programme start="20260319064500 +0000" stop="20260319070000 +0000" channel="TVP World.webtv.sk">
-    <title lang="id">World Talks (1742)</title>
-  </programme>
-  <programme start="20260319070000 +0000" stop="20260319071500 +0000" channel="TVP World.webtv.sk">
-    <title lang="id">World News</title>
-  </programme>
-  <programme start="20260319071500 +0000" stop="20260319073000 +0000" channel="TVP World.webtv.sk">
-    <title lang="id">World Talks (7171)</title>
-  </programme>
-  <programme start="20260319073000 +0000" stop="20260319074000 +0000" channel="TVP World.webtv.sk">
-    <title lang="id">World News Flash</title>
-  </programme>
-  <programme start="20260319074000 +0000" stop="20260319074500 +0000" channel="TVP World.webtv.sk">
-    <title lang="id">World News Online</title>
-  </programme>
-  <programme start="20260319074500 +0000" stop="20260319080000 +0000" channel="TVP World.webtv.sk">
-    <title lang="id">World Talks (7172)</title>
-  </programme>
-  <programme start="20260319080000 +0000" stop="20260319081500 +0000" channel="TVP World.webtv.sk">
-    <title lang="id">World News</title>
-  </programme>
-  <programme start="20260319081500 +0000" stop="20260319083000 +0000" channel="TVP World.webtv.sk">
-    <title lang="id">World Talks (1742)</title>
-  </programme>
-  <programme start="20260319083000 +0000" stop="20260319084000 +0000" channel="TVP World.webtv.sk">
-    <title lang="id">World News Flash</title>
-  </programme>
-  <programme start="20260319084000 +0000" stop="20260319084500 +0000" channel="TVP World.webtv.sk">
-    <title lang="id">World News Online</title>
-  </programme>
-  <programme start="20260319084500 +0000" stop="20260319085500 +0000" channel="TVP World.webtv.sk">
-    <title lang="id">World Talks (7173)</title>
-  </programme>
-  <programme start="20260319085500 +0000" stop="20260319090000 +0000" channel="TVP World.webtv.sk">
-    <title lang="id">Weather</title>
-  </programme>
-  <programme start="20260319090000 +0000" stop="20260319091500 +0000" channel="TVP World.webtv.sk">
-    <title lang="id">World News</title>
-  </programme>
-  <programme start="20260319091500 +0000" stop="20260319093000 +0000" channel="TVP World.webtv.sk">
-    <title lang="id">World Talks (1742)</title>
-  </programme>
-  <programme start="20260319093000 +0000" stop="20260319094000 +0000" channel="TVP World.webtv.sk">
-    <title lang="id">World News Flash</title>
-  </programme>
-  <programme start="20260319094000 +0000" stop="20260319094500 +0000" channel="TVP World.webtv.sk">
-    <title lang="id">World News Online</title>
-  </programme>
-  <programme start="20260319094500 +0000" stop="20260319095500 +0000" channel="TVP World.webtv.sk">
-    <title lang="id">World Talks (7174)</title>
-  </programme>
-  <programme start="20260319095500 +0000" stop="20260319100000 +0000" channel="TVP World.webtv.sk">
-    <title lang="id">Weather</title>
-  </programme>
-  <programme start="20260319100000 +0000" stop="20260319101000 +0000" channel="TVP World.webtv.sk">
-    <title lang="id">World News</title>
-  </programme>
-  <programme start="20260319101000 +0000" stop="20260319103500 +0000" channel="TVP World.webtv.sk">
-    <title lang="id">Eastern Express (1366)</title>
-  </programme>
-  <programme start="20260319103500 +0000" stop="20260319104500 +0000" channel="TVP World.webtv.sk">
-    <title lang="id">World News Flash</title>
-  </programme>
-  <programme start="20260319104500 +0000" stop="20260319105500 +0000" channel="TVP World.webtv.sk">
-    <title lang="id">Break the Fake (1035)</title>
-  </programme>
-  <programme start="20260319105500 +0000" stop="20260319110000 +0000" channel="TVP World.webtv.sk">
-    <title lang="id">Weather</title>
-  </programme>
-  <programme start="20260319110000 +0000" stop="20260319111000 +0000" channel="TVP World.webtv.sk">
-    <title lang="id">World News</title>
-  </programme>
-  <programme start="20260319111000 +0000" stop="20260319111500 +0000" channel="TVP World.webtv.sk">
-    <title lang="id">Weather</title>
-  </programme>
-  <programme start="20260319111500 +0000" stop="20260319113500 +0000" channel="TVP World.webtv.sk">
-    <title lang="id">News in Depth</title>
-  </programme>
-  <programme start="20260319113500 +0000" stop="20260319114500 +0000" channel="TVP World.webtv.sk">
-    <title lang="id">World News Flash</title>
-  </programme>
-  <programme start="20260319114500 +0000" stop="20260319120000 +0000" channel="TVP World.webtv.sk">
-    <title lang="id">World Talks (1742)</title>
-  </programme>
-  <programme start="20260319120000 +0000" stop="20260319121500 +0000" channel="TVP World.webtv.sk">
-    <title lang="id">World News Flash</title>
-  </programme>
-  <programme start="20260319121500 +0000" stop="20260319124000 +0000" channel="TVP World.webtv.sk">
-    <title lang="id">Check - out Time (11)</title>
-  </programme>
-  <programme start="20260319124000 +0000" stop="20260319125000 +0000" channel="TVP World.webtv.sk">
-    <title lang="id">World News Flash</title>
-  </programme>
-  <programme start="20260319125000 +0000" stop="20260319125500 +0000" channel="TVP World.webtv.sk">
-    <title lang="id">World News Online</title>
-  </programme>
-  <programme start="20260319125500 +0000" stop="20260319130000 +0000" channel="TVP World.webtv.sk">
-    <title lang="id">Weather</title>
-  </programme>
-  <programme start="20260319130000 +0000" stop="20260319131500 +0000" channel="TVP World.webtv.sk">
-    <title lang="id">World News</title>
-  </programme>
-  <programme start="20260319131500 +0000" stop="20260319133000 +0000" channel="TVP World.webtv.sk">
-    <title lang="id">World Talks (1742)</title>
-  </programme>
-  <programme start="20260319133000 +0000" stop="20260319134000 +0000" channel="TVP World.webtv.sk">
-    <title lang="id">World News Flash</title>
-  </programme>
-  <programme start="20260319134000 +0000" stop="20260319135500 +0000" channel="TVP World.webtv.sk">
-    <title lang="id">Pulse of Culture (316)</title>
-  </programme>
-  <programme start="20260319135500 +0000" stop="20260319140000 +0000" channel="TVP World.webtv.sk">
-    <title lang="id">Weather</title>
-  </programme>
-  <programme start="20260319140000 +0000" stop="20260319141500 +0000" channel="TVP World.webtv.sk">
-    <title lang="id">World News Flash</title>
-  </programme>
-  <programme start="20260319141500 +0000" stop="20260319143000 +0000" channel="TVP World.webtv.sk">
-    <title lang="id">World Talks (1742)</title>
-  </programme>
-  <programme start="20260319143000 +0000" stop="20260319144000 +0000" channel="TVP World.webtv.sk">
-    <title lang="id">World News Flash</title>
-  </programme>
-  <programme start="20260319144000 +0000" stop="20260319145500 +0000" channel="TVP World.webtv.sk">
-    <title lang="id">World Talks (1742)</title>
-  </programme>
-  <programme start="20260319145500 +0000" stop="20260319150000 +0000" channel="TVP World.webtv.sk">
-    <title lang="id">Weather</title>
-  </programme>
-  <programme start="20260319150000 +0000" stop="20260319151500 +0000" channel="TVP World.webtv.sk">
-    <title lang="id">World News</title>
-  </programme>
-  <programme start="20260319151500 +0000" stop="20260319153000 +0000" channel="TVP World.webtv.sk">
-    <title lang="id">World Talks (1742)</title>
-  </programme>
-  <programme start="20260319153000 +0000" stop="20260319160000 +0000" channel="TVP World.webtv.sk">
-    <title lang="id">Document</title>
-  </programme>
-  <programme start="20260319160000 +0000" stop="20260319161000 +0000" channel="TVP World.webtv.sk">
-    <title lang="id">World News</title>
-  </programme>
-  <programme start="20260319161000 +0000" stop="20260319163000 +0000" channel="TVP World.webtv.sk">
-    <title lang="id">News in Depth</title>
-  </programme>
-  <programme start="20260319163000 +0000" stop="20260319163500 +0000" channel="TVP World.webtv.sk">
-    <title lang="id">Weather</title>
-  </programme>
-  <programme start="20260319163500 +0000" stop="20260319164500 +0000" channel="TVP World.webtv.sk">
-    <title lang="id">World News Flash</title>
-  </programme>
-  <programme start="20260319164500 +0000" stop="20260319170000 +0000" channel="TVP World.webtv.sk">
-    <title lang="id">World Talks (7175)</title>
-  </programme>
-  <programme start="20260319170000 +0000" stop="20260319171000 +0000" channel="TVP World.webtv.sk">
-    <title lang="id">World News</title>
-  </programme>
-  <programme start="20260319171000 +0000" stop="20260319172000 +0000" channel="TVP World.webtv.sk">
-    <title lang="id">World Talks (7176)</title>
-  </programme>
-  <programme start="20260319172000 +0000" stop="20260319174500 +0000" channel="TVP World.webtv.sk">
-    <title lang="id">Eastern Express (1367)</title>
-  </programme>
-  <programme start="20260319174500 +0000" stop="20260319180000 +0000" channel="TVP World.webtv.sk">
-    <title lang="id">Pulse of Culture (316)</title>
-  </programme>
-  <programme start="20260319180000 +0000" stop="20260319181000 +0000" channel="TVP World.webtv.sk">
-    <title lang="id">World News Flash</title>
-  </programme>
-  <programme start="20260319181000 +0000" stop="20260319181500 +0000" channel="TVP World.webtv.sk">
-    <title lang="id">World News Online</title>
-  </programme>
-  <programme start="20260319181500 +0000" stop="20260319182000 +0000" channel="TVP World.webtv.sk">
-    <title lang="id">Ukraine Brief</title>
-  </programme>
-  <programme start="20260319182000 +0000" stop="20260319183000 +0000" channel="TVP World.webtv.sk">
-    <title lang="id">Break the Fake (1036)</title>
-  </programme>
-  <programme start="20260319183000 +0000" stop="20260319184500 +0000" channel="TVP World.webtv.sk">
-    <title lang="id">World News German</title>
-  </programme>
-  <programme start="20260319184500 +0000" stop="20260319190000 +0000" channel="TVP World.webtv.sk">
-    <title lang="id">World Talks (1742)</title>
-  </programme>
-  <programme start="20260319190000 +0000" stop="20260319193000 +0000" channel="TVP World.webtv.sk">
-    <title lang="id">World News</title>
-  </programme>
-  <programme start="20260319193000 +0000" stop="20260319193200 +0000" channel="TVP World.webtv.sk">
-    <title lang="id">Weather</title>
-  </programme>
-  <programme start="20260319193200 +0000" stop="20260319200000 +0000" channel="TVP World.webtv.sk">
-    <title lang="id">You and AI</title>
-  </programme>
-  <programme start="20260319200000 +0000" stop="20260319201000 +0000" channel="TVP World.webtv.sk">
-    <title lang="id">World News</title>
-  </programme>
-  <programme start="20260319201000 +0000" stop="20260319201500 +0000" channel="TVP World.webtv.sk">
-    <title lang="id">World News Online</title>
-  </programme>
-  <programme start="20260319201500 +0000" stop="20260319203000 +0000" channel="TVP World.webtv.sk">
-    <title lang="id">World Talks (7177)</title>
-  </programme>
-  <programme start="20260319203000 +0000" stop="20260319203500 +0000" channel="TVP World.webtv.sk">
-    <title lang="id">World News Flash</title>
-  </programme>
-  <programme start="20260319203500 +0000" stop="20260319210000 +0000" channel="TVP World.webtv.sk">
-    <title lang="id">I Choose Poland (21)</title>
-  </programme>
-  <programme start="20260319210000 +0000" stop="20260319211500 +0000" channel="TVP World.webtv.sk">
-    <title lang="id">World News</title>
-  </programme>
-  <programme start="20260319211500 +0000" stop="20260319212500 +0000" channel="TVP World.webtv.sk">
-    <title lang="id">Military mind (1009)</title>
-  </programme>
-  <programme start="20260319212500 +0000" stop="20260319213000 +0000" channel="TVP World.webtv.sk">
-    <title lang="id">World News Online</title>
-  </programme>
-  <programme start="20260319213000 +0000" stop="20260319214000 +0000" channel="TVP World.webtv.sk">
-    <title lang="id">World News Flash</title>
-  </programme>
-  <programme start="20260319214000 +0000" stop="20260319215500 +0000" channel="TVP World.webtv.sk">
-    <title lang="id">World Talks (1742)</title>
-  </programme>
-  <programme start="20260319215500 +0000" stop="20260319220000 +0000" channel="TVP World.webtv.sk">
-    <title lang="id">Weather</title>
-  </programme>
-  <programme start="20260319220000 +0000" stop="20260319222000 +0000" channel="TVP World.webtv.sk">
-    <title lang="id">News in Depth</title>
-  </programme>
-  <programme start="20260319222000 +0000" stop="20260319222500 +0000" channel="TVP World.webtv.sk">
-    <title lang="id">World News Online</title>
-  </programme>
-  <programme start="20260319222500 +0000" stop="20260319223000 +0000" channel="TVP World.webtv.sk">
-    <title lang="id">Ukraine Brief</title>
-  </programme>
-  <programme start="20260319223000 +0000" stop="20260319224000 +0000" channel="TVP World.webtv.sk">
-    <title lang="id">World News Flash</title>
-  </programme>
-  <programme start="20260319224000 +0000" stop="20260319224500 +0000" channel="TVP World.webtv.sk">
-    <title lang="id">Weather</title>
-  </programme>
-  <programme start="20260319224500 +0000" stop="20260319230000 +0000" channel="TVP World.webtv.sk">
-    <title lang="id">World Talks (1742)</title>
   </programme>
   <programme start="20260318230000 +0000" stop="20260318231500 +0000" channel="TVP Info.webtv.sk">
     <title lang="id">Serwis Info Wieczór</title>
