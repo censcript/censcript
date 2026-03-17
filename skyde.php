@@ -1070,16 +1070,16 @@ Warning: Undefined array key "et" in /usr/home/ManusiaBiasa/domains/manusiabiasa
 <programme start="20260317223500 +0000" stop="20260317232500 +0000" channel="Heimatkanal.skyde">
     <title>Da kommt Kalle</title>
 </programme>
-<programme start="20260316232000 +0000" stop="20260317000500 +0000" channel="HISTORY Channel HD.skyde">
+<programme start="20260316232500 +0000" stop="20260317001000 +0000" channel="HISTORY Channel HD.skyde">
     <title>Terra X: Die großen Fragen</title>
 </programme>
-<programme start="20260317000500 +0000" stop="20260317005000 +0000" channel="HISTORY Channel HD.skyde">
+<programme start="20260317001000 +0000" stop="20260317005500 +0000" channel="HISTORY Channel HD.skyde">
     <title>Wunderwerke der Weltgeschichte</title>
 </programme>
-<programme start="20260317005000 +0000" stop="20260317013500 +0000" channel="HISTORY Channel HD.skyde">
+<programme start="20260317005500 +0000" stop="20260317014000 +0000" channel="HISTORY Channel HD.skyde">
     <title>Innovationen, die die Welt veränderten</title>
 </programme>
-<programme start="20260317013500 +0000" stop="20260317022000 +0000" channel="HISTORY Channel HD.skyde">
+<programme start="20260317014000 +0000" stop="20260317022000 +0000" channel="HISTORY Channel HD.skyde">
     <title>Forged in Fire - Wettkampf der Schmiede</title>
 </programme>
 <programme start="20260317022000 +0000" stop="20260317030500 +0000" channel="HISTORY Channel HD.skyde">
@@ -2573,10 +2573,10 @@ Warning: Undefined array key "et" in /usr/home/ManusiaBiasa/domains/manusiabiasa
 <programme start="20260317143500 +0000" stop="20260317145500 +0000" channel="Sky Sport Austria 2 HD.skyde">
     <title>Es folgt: Live UEFA Champions League</title>
 </programme>
-<programme start="20260317145500 +0000" stop="20260317170000 +0000" channel="Sky Sport Austria 2 HD.skyde">
+<programme start="20260317145500 +0000" stop="20260317173000 +0000" channel="Sky Sport Austria 2 HD.skyde">
     <title>Live UEFA Youth League: FC Villarreal - Paris Saint-Germain, Achtelfinale</title>
 </programme>
-<programme start="20260317184000 +0000" stop="20260317190000 +0000" channel="Sky Sport Austria 2 HD.skyde">
+<programme start="20260317173000 +0000" stop="20260317190000 +0000" channel="Sky Sport Austria 2 HD.skyde">
     <title>Es folgt: Live UEFA Champions League</title>
 </programme>
 <programme start="20260317190000 +0000" stop="20260317195000 +0000" channel="Sky Sport Austria 2 HD.skyde">
@@ -2585,13 +2585,13 @@ Warning: Undefined array key "et" in /usr/home/ManusiaBiasa/domains/manusiabiasa
 <programme start="20260317195000 +0000" stop="20260317220000 +0000" channel="Sky Sport Austria 2 HD.skyde">
     <title>Live UEFA CL: FC Arsenal - Bayer Leverkusen, Achtelfinale Rückspiel, Dienstag</title>
 </programme>
-<programme start="20260317220000 +0000" stop="20260317230000 +0000" channel="Sky Sport Austria 2 HD.skyde">
+<programme start="20260317220000 +0000" stop="20260317233000 +0000" channel="Sky Sport Austria 2 HD.skyde">
     <title>Live Die UEFA CL am Dienstag: Analyse</title>
 </programme>
 <programme start="20260317193000 +0000" stop="20260317195000 +0000" channel="Sky Sport Austria 3 HD.skyde">
     <title>Es folgt: Live UEFA Champions League</title>
 </programme>
-<programme start="20260317195000 +0000" stop="20260317220000 +0000" channel="Sky Sport Austria 3 HD.skyde">
+<programme start="20260317195000 +0000" stop="20260317223000 +0000" channel="Sky Sport Austria 3 HD.skyde">
     <title>Live UEFA CL: Manchester City - Real Madrid, Achtelfinale Rückspiel, Dienstag</title>
 </programme>
 <programme start="20260317090000 +0000" stop="20260317090500 +0000" channel="Sky Sport Austria 4 HD.skyde">
@@ -2891,13 +2891,13 @@ Warning: Undefined array key "et" in /usr/home/ManusiaBiasa/domains/manusiabiasa
 <programme start="20260317171500 +0000" stop="20260317173500 +0000" channel="Sky Sport Austria 5 HD.skyde">
     <title>Es folgt: Live UEFA Champions League</title>
 </programme>
-<programme start="20260317173500 +0000" stop="20260317195000 +0000" channel="Sky Sport Austria 5 HD.skyde">
+<programme start="20260317173500 +0000" stop="20260317203000 +0000" channel="Sky Sport Austria 5 HD.skyde">
     <title>Live UEFA CL: Sporting Lissabon - FK Bodo/Glimt, Achtelfinale Rückspiel, Dienstag</title>
 </programme>
 <programme start="20260317144000 +0000" stop="20260317150000 +0000" channel="Sky Sport Austria 6 HD.skyde">
     <title>WTA: Es folgt</title>
 </programme>
-<programme start="20260317150000 +0000" stop="20260317230000 +0000" channel="Sky Sport Austria 6 HD.skyde">
+<programme start="20260317150000 +0000" stop="20260318010000 +0000" channel="Sky Sport Austria 6 HD.skyde">
     <title>Live WTA 1000: Miami Open presented by Itaú in Miami, Florida (USA), 1. Tag</title>
 </programme>
 <programme start="20260316230000 +0000" stop="20260316233000 +0000" channel="Sky Sport Bundesliga HD.skyde">
@@ -3107,16 +3107,16 @@ Warning: Undefined array key "et" in /usr/home/ManusiaBiasa/domains/manusiabiasa
 <programme start="20260316230000 +0000" stop="20260317020000 +0000" channel="Sky Sport Mix HD.skyde">
     <title>Live NHL: Boston Bruins @ New Jersey Devils</title>
 </programme>
-<programme start="20260317020000 +0000" stop="20260317043000 +0000" channel="Sky Sport Mix HD.skyde">
+<programme start="20260317020000 +0000" stop="20260317045000 +0000" channel="Sky Sport Mix HD.skyde">
     <title>Live NBA: San Antonio Spurs @ LA Clippers</title>
 </programme>
-<programme start="20260317043000 +0000" stop="20260317053000 +0000" channel="Sky Sport Mix HD.skyde">
+<programme start="20260317045000 +0000" stop="20260317054000 +0000" channel="Sky Sport Mix HD.skyde">
     <title>3. Liga: Alle Spiele, alle Tore, 29. Spieltag komplett</title>
 </programme>
-<programme start="20260317053000 +0000" stop="20260317060000 +0000" channel="Sky Sport Mix HD.skyde">
+<programme start="20260317054000 +0000" stop="20260317061000 +0000" channel="Sky Sport Mix HD.skyde">
     <title>Frauen-BL: Alle Spiele, alle Tore, 20. Spieltag komplett</title>
 </programme>
-<programme start="20260317060000 +0000" stop="20260317080000 +0000" channel="Sky Sport Mix HD.skyde">
+<programme start="20260317061000 +0000" stop="20260317080000 +0000" channel="Sky Sport Mix HD.skyde">
     <title>NHL: Boston Bruins @ New Jersey Devils</title>
 </programme>
 <programme start="20260317080000 +0000" stop="20260317090000 +0000" channel="Sky Sport Mix HD.skyde">
@@ -3371,25 +3371,25 @@ Warning: Undefined array key "et" in /usr/home/ManusiaBiasa/domains/manusiabiasa
 <programme start="20260317150000 +0000" stop="20260317230000 +0000" channel="Sky Sport Tennis HD.skyde">
     <title>Live WTA 1000: Miami Open presented by Itaú in Miami, Florida (USA), 1. Tag</title>
 </programme>
-<programme start="20260316230000 +0000" stop="20260317013000 +0000" channel="Sky Sport Top Event HD.skyde">
+<programme start="20260316230000 +0000" stop="20260317014500 +0000" channel="Sky Sport Top Event HD.skyde">
     <title>Live NBA: Orlando Magic @ Atlanta Hawks</title>
 </programme>
-<programme start="20260317013000 +0000" stop="20260317040000 +0000" channel="Sky Sport Top Event HD.skyde">
+<programme start="20260317014500 +0000" stop="20260317040500 +0000" channel="Sky Sport Top Event HD.skyde">
     <title>Live NBA: LA Lakers @ Houston Rockets</title>
 </programme>
-<programme start="20260317040000 +0000" stop="20260317043000 +0000" channel="Sky Sport Top Event HD.skyde">
-    <title>Live NBA: Showtime - Post Show</title>
+<programme start="20260317040500 +0000" stop="20260317045000 +0000" channel="Sky Sport Top Event HD.skyde">
+    <title>Live NBA: San Antonio Spurs @ LA Clippers</title>
 </programme>
-<programme start="20260317043000 +0000" stop="20260317050000 +0000" channel="Sky Sport Top Event HD.skyde">
+<programme start="20260317045000 +0000" stop="20260317051500 +0000" channel="Sky Sport Top Event HD.skyde">
     <title>F1: Rennen Kompakt - GP China</title>
 </programme>
-<programme start="20260317050000 +0000" stop="20260317070000 +0000" channel="Sky Sport Top Event HD.skyde">
+<programme start="20260317051500 +0000" stop="20260317071500 +0000" channel="Sky Sport Top Event HD.skyde">
     <title>F1: Rennen - GP China</title>
 </programme>
-<programme start="20260317070000 +0000" stop="20260317093000 +0000" channel="Sky Sport Top Event HD.skyde">
+<programme start="20260317071500 +0000" stop="20260317094000 +0000" channel="Sky Sport Top Event HD.skyde">
     <title>ATP 500: F. Cobolli (ITA) - F. Tiafoe (USA) Abierto Mexicano Telcel presented by HSBC in Acapulco (MEX), Finale</title>
 </programme>
-<programme start="20260317093000 +0000" stop="20260317113000 +0000" channel="Sky Sport Top Event HD.skyde">
+<programme start="20260317094000 +0000" stop="20260317113000 +0000" channel="Sky Sport Top Event HD.skyde">
     <title>NHL: Boston Bruins @ New Jersey Devils</title>
 </programme>
 <programme start="20260317113000 +0000" stop="20260317140000 +0000" channel="Sky Sport Top Event HD.skyde">
@@ -4184,16 +4184,16 @@ Warning: Undefined array key "et" in /usr/home/ManusiaBiasa/domains/manusiabiasa
 <programme start="20260317215000 +0000" stop="20260318003500 +0000" channel="Warner TV Film HD.skyde">
     <title>Transformers: Ära des Untergangs</title>
 </programme>
-<programme start="20260316230500 +0000" stop="20260317004500 +0000" channel="Warner TV Serie HD.skyde">
+<programme start="20260316231000 +0000" stop="20260317004500 +0000" channel="Warner TV Serie HD.skyde">
     <title>Unstoppable: Außer Kontrolle</title>
 </programme>
 <programme start="20260317004500 +0000" stop="20260317012500 +0000" channel="Warner TV Serie HD.skyde">
     <title>NCIS: Los Angeles</title>
 </programme>
-<programme start="20260317012500 +0000" stop="20260317020500 +0000" channel="Warner TV Serie HD.skyde">
+<programme start="20260317012500 +0000" stop="20260317021000 +0000" channel="Warner TV Serie HD.skyde">
     <title>NCIS: Los Angeles</title>
 </programme>
-<programme start="20260317020500 +0000" stop="20260317025000 +0000" channel="Warner TV Serie HD.skyde">
+<programme start="20260317021000 +0000" stop="20260317025000 +0000" channel="Warner TV Serie HD.skyde">
     <title>NCIS: Los Angeles</title>
 </programme>
 <programme start="20260317025000 +0000" stop="20260317033000 +0000" channel="Warner TV Serie HD.skyde">
@@ -4208,13 +4208,13 @@ Warning: Undefined array key "et" in /usr/home/ManusiaBiasa/domains/manusiabiasa
 <programme start="20260317042500 +0000" stop="20260317043500 +0000" channel="Warner TV Serie HD.skyde">
     <title>NTSF:SD:SUV::</title>
 </programme>
-<programme start="20260317043500 +0000" stop="20260317045000 +0000" channel="Warner TV Serie HD.skyde">
+<programme start="20260317043500 +0000" stop="20260317044500 +0000" channel="Warner TV Serie HD.skyde">
     <title>NTSF:SD:SUV::</title>
 </programme>
-<programme start="20260317045000 +0000" stop="20260317054000 +0000" channel="Warner TV Serie HD.skyde">
+<programme start="20260317044500 +0000" stop="20260317053500 +0000" channel="Warner TV Serie HD.skyde">
     <title>Daktari</title>
 </programme>
-<programme start="20260317054000 +0000" stop="20260317063500 +0000" channel="Warner TV Serie HD.skyde">
+<programme start="20260317053500 +0000" stop="20260317063500 +0000" channel="Warner TV Serie HD.skyde">
     <title>Daktari</title>
 </programme>
 <programme start="20260317063500 +0000" stop="20260317072500 +0000" channel="Warner TV Serie HD.skyde">
@@ -4247,10 +4247,10 @@ Warning: Undefined array key "et" in /usr/home/ManusiaBiasa/domains/manusiabiasa
 <programme start="20260317135500 +0000" stop="20260317144000 +0000" channel="Warner TV Serie HD.skyde">
     <title>NCIS</title>
 </programme>
-<programme start="20260317144000 +0000" stop="20260317152500 +0000" channel="Warner TV Serie HD.skyde">
+<programme start="20260317144000 +0000" stop="20260317153000 +0000" channel="Warner TV Serie HD.skyde">
     <title>NCIS</title>
 </programme>
-<programme start="20260317152500 +0000" stop="20260317161500 +0000" channel="Warner TV Serie HD.skyde">
+<programme start="20260317153000 +0000" stop="20260317161500 +0000" channel="Warner TV Serie HD.skyde">
     <title>NCIS</title>
 </programme>
 <programme start="20260317161500 +0000" stop="20260317170000 +0000" channel="Warner TV Serie HD.skyde">

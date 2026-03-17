@@ -2198,7 +2198,7 @@
         <title>Best Of AO 2026: Women&#039;s Singles SF 2 Rybakina v Pegula</title>
     </programme>
     <programme start="20260316165000 +0000" stop="20260316184000 +0000" channel="beIN Sports 2 HD.starhub">
-        <title>TotalEnergies Africa Cup of Nations, Morocco 2025: Ivory Coast vs Mozambique - G</title>
+        <title>TotalEnergies Africa Cup of Nations, Morocco 2025: Ivory Coast vs Mozambique - Group Stage</title>
     </programme>
     <programme start="20260316184000 +0000" stop="20260316190000 +0000" channel="beIN Sports 2 HD.starhub">
         <title>HSBC SVNS2 2026: USA vs Canada - Kenya Day 1, Men</title>
@@ -2210,7 +2210,7 @@
         <title>LaLiga 2 2025/26: Albacete vs Las Palmas (Live)</title>
     </programme>
     <programme start="20260316213000 +0000" stop="20260316232000 +0000" channel="beIN Sports 2 HD.starhub">
-        <title>TotalEnergies Africa Cup of Nations, Morocco 2025: Egypt vs South Africa - Group</title>
+        <title>TotalEnergies Africa Cup of Nations, Morocco 2025: Egypt vs South Africa - Group Stage</title>
     </programme>
     <programme start="20260316232000 +0000" stop="20260317011000 +0000" channel="beIN Sports 2 HD.starhub">
         <title>TotalEnergies Africa Cup of Nations, Morocco 2025: Zambia vs Comoros - Group Stage</title>
@@ -7910,7 +7910,7 @@
         <title>CID</title>
     </programme>
     <programme start="20260316160000 +0000" stop="20260316163000 +0000" channel="ABC Australia HD.starhub">
-        <title>Foreign Correspondent (2026)</title>
+        <title>Prabowo Power - Indonesia</title>
     </programme>
     <programme start="20260316163000 +0000" stop="20260316170000 +0000" channel="ABC Australia HD.starhub">
         <title>Planet America (2026)</title>

@@ -8116,17 +8116,20 @@
 <programme start="20260317083000 +0000" stop="20260317090000 +0000" channel="Sindo News TV.mncvision">
     <title>Special Report</title>
 </programme>
-<programme start="20260317090000 +0000" stop="20260317101700 +0000" channel="Sindo News TV.mncvision">
+<programme start="20260317090000 +0000" stop="20260317103000 +0000" channel="Sindo News TV.mncvision">
     <title>SINDO Sore</title>
 </programme>
-<programme start="20260317101700 +0000" stop="20260317111700 +0000" channel="Sindo News TV.mncvision">
+<programme start="20260317103000 +0000" stop="20260317110800 +0000" channel="Sindo News TV.mncvision">
     <title>SINDO Files</title>
 </programme>
-<programme start="20260317111700 +0000" stop="20260317112400 +0000" channel="Sindo News TV.mncvision">
+<programme start="20260317110800 +0000" stop="20260317111100 +0000" channel="Sindo News TV.mncvision">
     <title>Adzan Magrib</title>
 </programme>
-<programme start="20260317112400 +0000" stop="20260317120000 +0000" channel="Sindo News TV.mncvision">
+<programme start="20260317111100 +0000" stop="20260317114100 +0000" channel="Sindo News TV.mncvision">
     <title>Cahaya Hati The Series</title>
+</programme>
+<programme start="20260317114100 +0000" stop="20260317120000 +0000" channel="Sindo News TV.mncvision">
+    <title>SINDO Files</title>
 </programme>
 <programme start="20260317120000 +0000" stop="20260317133000 +0000" channel="Sindo News TV.mncvision">
     <title>SINDO Prime</title>
@@ -8203,17 +8206,20 @@
 <programme start="20260317083000 +0000" stop="20260317090000 +0000" channel="Sindo News TV HD.mncvision">
     <title>Special Report</title>
 </programme>
-<programme start="20260317090000 +0000" stop="20260317101700 +0000" channel="Sindo News TV HD.mncvision">
+<programme start="20260317090000 +0000" stop="20260317103000 +0000" channel="Sindo News TV HD.mncvision">
     <title>SINDO Sore</title>
 </programme>
-<programme start="20260317101700 +0000" stop="20260317111700 +0000" channel="Sindo News TV HD.mncvision">
+<programme start="20260317103000 +0000" stop="20260317110800 +0000" channel="Sindo News TV HD.mncvision">
     <title>SINDO Files</title>
 </programme>
-<programme start="20260317111700 +0000" stop="20260317112400 +0000" channel="Sindo News TV HD.mncvision">
+<programme start="20260317110800 +0000" stop="20260317111100 +0000" channel="Sindo News TV HD.mncvision">
     <title>Adzan Magrib</title>
 </programme>
-<programme start="20260317112400 +0000" stop="20260317120000 +0000" channel="Sindo News TV HD.mncvision">
+<programme start="20260317111100 +0000" stop="20260317114100 +0000" channel="Sindo News TV HD.mncvision">
     <title>Cahaya Hati The Series</title>
+</programme>
+<programme start="20260317114100 +0000" stop="20260317120000 +0000" channel="Sindo News TV HD.mncvision">
+    <title>SINDO Files</title>
 </programme>
 <programme start="20260317120000 +0000" stop="20260317133000 +0000" channel="Sindo News TV HD.mncvision">
     <title>SINDO Prime</title>
