@@ -2183,7 +2183,7 @@
         <title>HSBC SVNS Series 2026: Canada vs Japan - Tri-Nation Challenge</title>
     </programme>
     <programme start="20260317180000 +0000" stop="20260317195500 +0000" channel="beIN Sports 2 HD.starhub">
-        <title>TotalEnergies Africa Cup of Nations, Morocco 2025: Angola vs Zimbabwe - Group St</title>
+        <title>TotalEnergies Africa Cup of Nations, Morocco 2025: Angola vs Zimbabwe - Group Stage</title>
     </programme>
     <programme start="20260317195500 +0000" stop="20260317220000 +0000" channel="beIN Sports 2 HD.starhub">
         <title>UEFA Champions League 2025/26: Man City vs Real Madrid - R16, 2nd Leg (Live)</title>
@@ -4880,7 +4880,7 @@
         <title>Patharamattu</title>
     </programme>
     <programme start="20260317233000 +0000" stop="20260318020000 +0000" channel="Asianet.starhub">
-        <title>Movie</title>
+        <title>Thanmathra</title>
     </programme>
     <programme start="20260318020000 +0000" stop="20260318023000 +0000" channel="Asianet.starhub">
         <title>Pavithram</title>
@@ -4901,7 +4901,7 @@
         <title>Ee Puzhayum Kadannu</title>
     </programme>
     <programme start="20260318050000 +0000" stop="20260318073000 +0000" channel="Asianet.starhub">
-        <title>Movie</title>
+        <title>Maheshum Maruthiyum</title>
     </programme>
     <programme start="20260318073000 +0000" stop="20260318080000 +0000" channel="Asianet.starhub">
         <title>Kattathe Kilikoodu</title>
@@ -4916,7 +4916,7 @@
         <title>Amma Manassu(Dub . Fiction)</title>
     </programme>
     <programme start="20260318093000 +0000" stop="20260318120000 +0000" channel="Asianet.starhub">
-        <title>Movie</title>
+        <title>Usthad Hotel</title>
     </programme>
     <programme start="20260318120000 +0000" stop="20260318123000 +0000" channel="Asianet.starhub">
         <title>Chirikkum Thalika II</title>
@@ -7987,11 +7987,17 @@
     <programme start="20260318150000 +0000" stop="20260318160000 +0000" channel="ABC Australia HD.starhub">
         <title>Avalon and Balwyn</title>
     </programme>
-    <programme start="20260317153000 +0000" stop="20260317183000 +0000" channel="Asianet Movies.starhub">
+    <programme start="20260317153000 +0000" stop="20260317164000 +0000" channel="Asianet Movies.starhub">
         <title>Movie</title>
     </programme>
-    <programme start="20260317183000 +0000" stop="20260317213000 +0000" channel="Asianet Movies.starhub">
-        <title>Movie</title>
+    <programme start="20260317164000 +0000" stop="20260317191500 +0000" channel="Asianet Movies.starhub">
+        <title>Kilometers &amp; Kilometers</title>
+    </programme>
+    <programme start="20260317191500 +0000" stop="20260317214000 +0000" channel="Asianet Movies.starhub">
+        <title>Twenty One GMS</title>
+    </programme>
+    <programme start="20260317214000 +0000" stop="20260317232000 +0000" channel="Asianet Movies.starhub">
+        <title>Thelivu</title>
     </programme>
     <programme start="20260317232000 +0000" stop="20260318013000 +0000" channel="Asianet Movies.starhub">
         <title>Meri Awas Suno</title>

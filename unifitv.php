@@ -14549,7 +14549,7 @@
   </programme>
   <programme start="20260317163300 +0000" stop="20260317170300 +0000" channel="dw.unifitv">
     <title lang="en">Global Us</title>
-    <desc lang="en">Global Us</desc>
+    <desc lang="en">Scientists warn that a key Atlantic current system that brings warm water to Europe is weakening. Also: rising puma numbers cause conflict in Patagonia, and Bulgaria's legendary teacher fosters world class physicists.</desc>
     <category lang="en">Magazine</category>
     <episode-num system="xmltv_ns">0.0.</episode-num>
     <episode-num system="onscreen">S1E1</episode-num>
@@ -14563,7 +14563,7 @@
   </programme>
   <programme start="20260317171800 +0000" stop="20260317173300 +0000" channel="dw.unifitv">
     <title lang="en">Planet A</title>
-    <desc lang="en">This Berlin neighborhood is loaded with "Plattenbau” - cheap prefab construction thrown up in much of postwar Europe to quench runaway housing demand. Despite their bad rep, some people want to bring them back. Modular construction builds on the principles of prefab and is now introducing new production technology and greener materials.</desc>
+    <desc lang="en">Geopolitical strife, economic instability, trade standoffs: much of the bad stuff happening around the world has made construction expensive - and in turn, housing unaffordable. The industry is also extremely resource and carbon intensive. Could modular construction lower costs, boost sustainability, and help solve the housing crisis?</desc>
     <category lang="en">Documentary</category>
     <episode-num system="xmltv_ns">0.0.</episode-num>
     <episode-num system="onscreen">S1E1</episode-num>
@@ -14605,7 +14605,7 @@
   </programme>
   <programme start="20260317191800 +0000" stop="20260317193300 +0000" channel="dw.unifitv">
     <title lang="en">Planet A</title>
-    <desc lang="en">This Berlin neighborhood is loaded with "Plattenbau” - cheap prefab construction thrown up in much of postwar Europe to quench runaway housing demand. Despite their bad rep, some people want to bring them back. Modular construction builds on the principles of prefab and is now introducing new production technology and greener materials.</desc>
+    <desc lang="en">Geopolitical strife, economic instability, trade standoffs: much of the bad stuff happening around the world has made construction expensive - and in turn, housing unaffordable. The industry is also extremely resource and carbon intensive. Could modular construction lower costs, boost sustainability, and help solve the housing crisis?</desc>
     <category lang="en">Documentary</category>
     <episode-num system="xmltv_ns">0.0.</episode-num>
     <episode-num system="onscreen">S1E1</episode-num>
@@ -14696,14 +14696,14 @@
   </programme>
   <programme start="20260317231800 +0000" stop="20260317233300 +0000" channel="dw.unifitv">
     <title lang="en">Planet A</title>
-    <desc lang="en">This Berlin neighborhood is loaded with "Plattenbau” - cheap prefab construction thrown up in much of postwar Europe to quench runaway housing demand. Despite their bad rep, some people want to bring them back. Modular construction builds on the principles of prefab and is now introducing new production technology and greener materials.</desc>
+    <desc lang="en">Geopolitical strife, economic instability, trade standoffs: much of the bad stuff happening around the world has made construction expensive - and in turn, housing unaffordable. The industry is also extremely resource and carbon intensive. Could modular construction lower costs, boost sustainability, and help solve the housing crisis?</desc>
     <category lang="en">Documentary</category>
     <episode-num system="xmltv_ns">0.0.</episode-num>
     <episode-num system="onscreen">S1E1</episode-num>
   </programme>
   <programme start="20260317233300 +0000" stop="20260318000300 +0000" channel="dw.unifitv">
     <title lang="en">Global Us</title>
-    <desc lang="en">Global Us</desc>
+    <desc lang="en">Scientists warn that a key Atlantic current system that brings warm water to Europe is weakening. Also: rising puma numbers cause conflict in Patagonia, and Bulgaria's legendary teacher fosters world class physicists.</desc>
     <category lang="en">Magazine</category>
     <episode-num system="xmltv_ns">0.0.</episode-num>
     <episode-num system="onscreen">S1E1</episode-num>
@@ -14724,7 +14724,7 @@
   </programme>
   <programme start="20260318003300 +0000" stop="20260318010300 +0000" channel="dw.unifitv">
     <title lang="en">Made in Germany</title>
-    <desc lang="en">Made in Germany</desc>
+    <desc lang="en">Struggling auto supply firms are considering military production. A switch that is unrealistic for some, due to the smaller market and tough requirements.</desc>
     <category lang="en">Magazine</category>
     <episode-num system="xmltv_ns">0.1125.</episode-num>
     <episode-num system="onscreen">S1E1126</episode-num>
@@ -14766,7 +14766,7 @@
   </programme>
   <programme start="20260318023300 +0000" stop="20260318030300 +0000" channel="dw.unifitv">
     <title lang="en">Global Us</title>
-    <desc lang="en">Global Us</desc>
+    <desc lang="en">Scientists warn that a key Atlantic current system that brings warm water to Europe is weakening. Also: rising puma numbers cause conflict in Patagonia, and Bulgaria's legendary teacher fosters world class physicists.</desc>
     <category lang="en">Magazine</category>
     <episode-num system="xmltv_ns">0.0.</episode-num>
     <episode-num system="onscreen">S1E1</episode-num>
@@ -14787,7 +14787,7 @@
   </programme>
   <programme start="20260318031800 +0000" stop="20260318033300 +0000" channel="dw.unifitv">
     <title lang="en">Planet A</title>
-    <desc lang="en">This Berlin neighborhood is loaded with "Plattenbau” - cheap prefab construction thrown up in much of postwar Europe to quench runaway housing demand. Despite their bad rep, some people want to bring them back. Modular construction builds on the principles of prefab and is now introducing new production technology and greener materials.</desc>
+    <desc lang="en">Geopolitical strife, economic instability, trade standoffs: much of the bad stuff happening around the world has made construction expensive - and in turn, housing unaffordable. The industry is also extremely resource and carbon intensive. Could modular construction lower costs, boost sustainability, and help solve the housing crisis?</desc>
     <category lang="en">Documentary</category>
     <episode-num system="xmltv_ns">0.0.</episode-num>
     <episode-num system="onscreen">S1E1</episode-num>
@@ -14836,7 +14836,7 @@
   </programme>
   <programme start="20260318053300 +0000" stop="20260318060300 +0000" channel="dw.unifitv">
     <title lang="en">Made in Germany</title>
-    <desc lang="en">Made in Germany</desc>
+    <desc lang="en">Struggling auto supply firms are considering military production. A switch that is unrealistic for some, due to the smaller market and tough requirements.</desc>
     <category lang="en">Magazine</category>
     <episode-num system="xmltv_ns">0.0.</episode-num>
     <episode-num system="onscreen">S1E1</episode-num>
@@ -14857,7 +14857,7 @@
   </programme>
   <programme start="20260318061800 +0000" stop="20260318063300 +0000" channel="dw.unifitv">
     <title lang="en">Planet A</title>
-    <desc lang="en">This Berlin neighborhood is loaded with "Plattenbau” - cheap prefab construction thrown up in much of postwar Europe to quench runaway housing demand. Despite their bad rep, some people want to bring them back. Modular construction builds on the principles of prefab and is now introducing new production technology and greener materials.</desc>
+    <desc lang="en">Geopolitical strife, economic instability, trade standoffs: much of the bad stuff happening around the world has made construction expensive - and in turn, housing unaffordable. The industry is also extremely resource and carbon intensive. Could modular construction lower costs, boost sustainability, and help solve the housing crisis?</desc>
     <category lang="en">Documentary</category>
     <episode-num system="xmltv_ns">0.0.</episode-num>
     <episode-num system="onscreen">S1E1</episode-num>
@@ -14983,7 +14983,7 @@
   </programme>
   <programme start="20260318113300 +0000" stop="20260318120300 +0000" channel="dw.unifitv">
     <title lang="en">Made in Germany</title>
-    <desc lang="en">Made in Germany</desc>
+    <desc lang="en">Struggling auto supply firms are considering military production. A switch that is unrealistic for some, due to the smaller market and tough requirements.</desc>
     <category lang="en">Magazine</category>
     <episode-num system="xmltv_ns">0.0.</episode-num>
     <episode-num system="onscreen">S1E1</episode-num>
@@ -15024,8 +15024,8 @@
     <episode-num system="onscreen">S1E1</episode-num>
   </programme>
   <programme start="20260318131800 +0000" stop="20260318133300 +0000" channel="dw.unifitv">
-    <title lang="en">Best of DW-online Content</title>
-    <desc lang="en">Best of DW-online Content</desc>
+    <title lang="en">REV</title>
+    <desc lang="en">Electric cars cut exhaust emissions, but there's a hidden cost: tire wear. Heavier vehicles mean more microplastic pollution from abrasion. Are EVs shifting pollution rather than solving it? The answer is complex.</desc>
     <category lang="en">Documentary</category>
     <episode-num system="xmltv_ns">0.0.</episode-num>
     <episode-num system="onscreen">S1E1</episode-num>
