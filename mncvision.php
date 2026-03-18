@@ -9187,17 +9187,17 @@
 <programme start="20260318163000 +0000" stop="20260317170000 +0000" channel="Trans 7.mncvision">
     <title>Newstainment</title>
 </programme>
-<programme start="20260317190000 +0000" stop="20260317214500 +0000" channel="Trans TV.mncvision">
+<programme start="20260317190000 +0000" stop="20260317220000 +0000" channel="Trans TV.mncvision">
     <title>Blockbuster Sahur Movie</title>
 </programme>
-<programme start="20260317214500 +0000" stop="20260317224500 +0000" channel="Trans TV.mncvision">
-    <title>Fast &amp; Furious: Spy Racers</title>
+<programme start="20260317220000 +0000" stop="20260317230000 +0000" channel="Trans TV.mncvision">
+    <title>Dunia Punya Cerita Ramadan</title>
 </programme>
-<programme start="20260317224500 +0000" stop="20260318000000 +0000" channel="Trans TV.mncvision">
+<programme start="20260317230000 +0000" stop="20260318000000 +0000" channel="Trans TV.mncvision">
     <title>Islam Itu Indah</title>
 </programme>
 <programme start="20260318000000 +0000" stop="20260318010000 +0000" channel="Trans TV.mncvision">
-    <title>Insert Pagi (L)</title>
+    <title>Insert Pagi</title>
 </programme>
 <programme start="20260318010000 +0000" stop="20260318020000 +0000" channel="Trans TV.mncvision">
     <title>CNN Indonesia Good Morning</title>
@@ -9226,13 +9226,10 @@
 <programme start="20260318123000 +0000" stop="20260318133000 +0000" channel="Trans TV.mncvision">
     <title>Insert Story</title>
 </programme>
-<programme start="20260318133000 +0000" stop="20260318143000 +0000" channel="Trans TV.mncvision">
-    <title>Monitor Ketua</title>
+<programme start="20260318133000 +0000" stop="20260318153000 +0000" channel="Trans TV.mncvision">
+    <title>Bioskop Spesial Trans TV</title>
 </programme>
-<programme start="20260318143000 +0000" stop="20260318163000 +0000" channel="Trans TV.mncvision">
-    <title>Bioskop Trans TV</title>
-</programme>
-<programme start="20260318163000 +0000" stop="20260317170000 +0000" channel="Trans TV.mncvision">
+<programme start="20260318153000 +0000" stop="20260318160000 +0000" channel="Trans TV.mncvision">
     <title>Bioskop Trans TV</title>
 </programme>
 <programme start="20260317175000 +0000" stop="20260317185000 +0000" channel="tvN.mncvision">
