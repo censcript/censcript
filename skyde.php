@@ -2557,16 +2557,16 @@
 <programme start="20260318225000 +0000" stop="20260318234500 +0000" channel="Sky Showcase HD.skyde">
     <title>Hubert und Staller</title>
 </programme>
-<programme start="20260318003000 +0000" stop="20260318023000 +0000" channel="Sky Sport Austria 1 HD.skyde">
+<programme start="20260318004000 +0000" stop="20260318023500 +0000" channel="Sky Sport Austria 1 HD.skyde">
     <title>UEFA CL: FC Arsenal - Bayer Leverkusen, Achtelfinale Rückspiel, Dienstag</title>
 </programme>
-<programme start="20260318023000 +0000" stop="20260318024500 +0000" channel="Sky Sport Austria 1 HD.skyde">
+<programme start="20260318023500 +0000" stop="20260318025000 +0000" channel="Sky Sport Austria 1 HD.skyde">
     <title>Die UEFA CL am Dienstag: Alle Spiele, alle Tore, Achtelfinale, Rückspiele</title>
 </programme>
-<programme start="20260318024500 +0000" stop="20260318044500 +0000" channel="Sky Sport Austria 1 HD.skyde">
+<programme start="20260318025000 +0000" stop="20260318044000 +0000" channel="Sky Sport Austria 1 HD.skyde">
     <title>UEFA CL: FC Chelsea - Paris Saint-Germain, Achtelfinale Rückspiel, Dienstag</title>
 </programme>
-<programme start="20260318044500 +0000" stop="20260318064500 +0000" channel="Sky Sport Austria 1 HD.skyde">
+<programme start="20260318044000 +0000" stop="20260318064500 +0000" channel="Sky Sport Austria 1 HD.skyde">
     <title>UEFA CL: Sporting Lissabon - FK Bodo/Glimt, Achtelfinale Rückspiel, Dienstag</title>
 </programme>
 <programme start="20260318064500 +0000" stop="20260318070000 +0000" channel="Sky Sport Austria 1 HD.skyde">
@@ -2617,7 +2617,7 @@
 <programme start="20260318150500 +0000" stop="20260318152500 +0000" channel="Sky Sport Austria 2 HD.skyde">
     <title>Es folgt: Live UEFA Champions League</title>
 </programme>
-<programme start="20260318152500 +0000" stop="20260318184000 +0000" channel="Sky Sport Austria 2 HD.skyde">
+<programme start="20260318152500 +0000" stop="20260318173000 +0000" channel="Sky Sport Austria 2 HD.skyde">
     <title>Live UEFA EL: SC Braga - Ferencváros Budapest, Achtelfinale Rückspiel</title>
 </programme>
 <programme start="20260318184000 +0000" stop="20260318190000 +0000" channel="Sky Sport Austria 2 HD.skyde">
@@ -2626,7 +2626,7 @@
 <programme start="20260318190000 +0000" stop="20260318195000 +0000" channel="Sky Sport Austria 2 HD.skyde">
     <title>Live Die UEFA CL am Mittwoch: Vorbericht</title>
 </programme>
-<programme start="20260318195000 +0000" stop="20260318230000 +0000" channel="Sky Sport Austria 2 HD.skyde">
+<programme start="20260318195000 +0000" stop="20260318221500 +0000" channel="Sky Sport Austria 2 HD.skyde">
     <title>Live UEFA CL: FC Bayern München - Atalanta Bergamo, Achtelfinale Rückspiel, Mittwoch</title>
 </programme>
 <programme start="20260318193000 +0000" stop="20260318195000 +0000" channel="Sky Sport Austria 3 HD.skyde">
@@ -2893,7 +2893,7 @@
 <programme start="20260318170000 +0000" stop="20260318173500 +0000" channel="Sky Sport Austria 4 HD.skyde">
     <title>Live Die UEFA CL am Mittwoch: Vorbericht</title>
 </programme>
-<programme start="20260318173500 +0000" stop="20260318210000 +0000" channel="Sky Sport Austria 4 HD.skyde">
+<programme start="20260318173500 +0000" stop="20260318195000 +0000" channel="Sky Sport Austria 4 HD.skyde">
     <title>Live UEFA CL: FC Barcelona - Newcastle United, Achtelfinale Rückspiel, Mittwoch</title>
 </programme>
 <programme start="20260318144000 +0000" stop="20260318150000 +0000" channel="Sky Sport Austria 5 HD.skyde">
@@ -3337,12 +3337,6 @@
 <programme start="20260318223000 +0000" stop="20260318230000 +0000" channel="Sky Sport Premier League HD.skyde">
     <title>PL: 90in30: BUR - BOU, 30. Spieltag</title>
 </programme>
-<programme start="20260317230000 +0000" stop="20260318013000 +0000" channel="Sky Sport Tennis HD.skyde">
-    <title>ATP 1000: J. Sinner (ITA) - D. Medvedev, BNP Paribas Open in Indian Wells, Kalifornien (USA), Finale</title>
-</programme>
-<programme start="20260318013000 +0000" stop="20260318023000 +0000" channel="Sky Sport Tennis HD.skyde">
-    <title>ATP 1000: Review Indian Wells</title>
-</programme>
 <programme start="20260318023000 +0000" stop="20260318043000 +0000" channel="Sky Sport Tennis HD.skyde">
     <title>WTA 1000: L. Siegemund (GER) - P. Marcinko (CRO), Miami Open presented by Itaú in Miami, Florida (USA), 1. Tag</title>
 </programme>
@@ -3373,10 +3367,10 @@
 <programme start="20260317230000 +0000" stop="20260318003000 +0000" channel="Sky Sport Top Event HD.skyde">
     <title>Live TGL: Atlanta Drive GC - Los Angeles Golf Club, Halbfinale</title>
 </programme>
-<programme start="20260318003000 +0000" stop="20260318030000 +0000" channel="Sky Sport Top Event HD.skyde">
+<programme start="20260318003000 +0000" stop="20260318024000 +0000" channel="Sky Sport Top Event HD.skyde">
     <title>Live NBA: Cleveland Cavaliers @ Milwaukee Bucks</title>
 </programme>
-<programme start="20260318030000 +0000" stop="20260318050000 +0000" channel="Sky Sport Top Event HD.skyde">
+<programme start="20260318024000 +0000" stop="20260318050000 +0000" channel="Sky Sport Top Event HD.skyde">
     <title>Live NBA: Philadelphia 76ers @ Denver Nuggets</title>
 </programme>
 <programme start="20260318050000 +0000" stop="20260318070000 +0000" channel="Sky Sport Top Event HD.skyde">
@@ -3439,16 +3433,16 @@
 <programme start="20260317230000 +0000" stop="20260318000000 +0000" channel="Sky Sport 1 HD.skyde">
     <title>Live NBA: Showtime</title>
 </programme>
-<programme start="20260318000000 +0000" stop="20260318030000 +0000" channel="Sky Sport 1 HD.skyde">
+<programme start="20260318000000 +0000" stop="20260318090000 +0000" channel="Sky Sport 1 HD.skyde">
     <title>Live NBA: Cleveland Cavaliers @ Milwaukee Bucks</title>
 </programme>
 <programme start="20260318144000 +0000" stop="20260318150000 +0000" channel="Sky Sport 1 HD.skyde">
     <title>Es folgt: Live Tennis WTA Tour</title>
 </programme>
-<programme start="20260318150000 +0000" stop="20260319090000 +0000" channel="Sky Sport 1 HD.skyde">
+<programme start="20260318150000 +0000" stop="20260319010000 +0000" channel="Sky Sport 1 HD.skyde">
     <title>Live WTA 1000: Miami Open presented by Itaú in Miami, Florida (USA), 2. Tag</title>
 </programme>
-<programme start="20260318020000 +0000" stop="20260318090000 +0000" channel="Sky Sport 2 HD.skyde">
+<programme start="20260318020000 +0000" stop="20260318050000 +0000" channel="Sky Sport 2 HD.skyde">
     <title>Live NBA: Philadelphia 76ers @ Denver Nuggets</title>
 </programme>
 <programme start="20260318090000 +0000" stop="20260318090500 +0000" channel="Sky Sport 3 HD.skyde">

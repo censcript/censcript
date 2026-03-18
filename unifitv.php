@@ -13054,10 +13054,10 @@
   </programme>
   <programme start="20260317163300 +0000" stop="20260317170300 +0000" channel="aljazeera.unifitv">
     <title lang="en">Counting the Cost</title>
-    <desc lang="en">Counting the Cost provides background to the economics stories that shape our world and impact the lives of ordinary people.</desc>
+    <desc lang="en">Could the Iran war tip the global economy into stagflation or even recession?</desc>
     <category lang="en">News</category>
-    <episode-num system="xmltv_ns">0.10.</episode-num>
-    <episode-num system="onscreen">S1E11</episode-num>
+    <episode-num system="xmltv_ns">0.12.</episode-num>
+    <episode-num system="onscreen">S1E13</episode-num>
   </programme>
   <programme start="20260317170300 +0000" stop="20260317173300 +0000" channel="aljazeera.unifitv">
     <title lang="en">News Live</title>
@@ -13073,7 +13073,7 @@
   </programme>
   <programme start="20260317180300 +0000" stop="20260317190300 +0000" channel="aljazeera.unifitv">
     <title lang="en">Newshour</title>
-    <desc lang="en">Up-to-date news and analysis from around the world.</desc>
+    <desc lang="en">Latest news and in-depth analysis from around the world.</desc>
     <category lang="en">News</category>
   </programme>
   <programme start="20260317190300 +0000" stop="20260317193300 +0000" channel="aljazeera.unifitv">
@@ -13083,7 +13083,7 @@
   </programme>
   <programme start="20260317193300 +0000" stop="20260317200300 +0000" channel="aljazeera.unifitv">
     <title lang="en">UpFront</title>
-    <desc lang="en">Frank, blunt and inquisitive, UpFront cuts through the headlines to get to the heart of the matter with influential guests and newsmakers.</desc>
+    <desc lang="en">Redi Tlhabi asks whether Israel is leading US foreign policy on Iran and why officials in both countries have ramped up the religious rhetoric on the conflict.</desc>
     <category lang="en">News</category>
     <episode-num system="xmltv_ns">0.5.</episode-num>
     <episode-num system="onscreen">S1E6</episode-num>
@@ -13095,7 +13095,7 @@
   </programme>
   <programme start="20260317210300 +0000" stop="20260317220300 +0000" channel="aljazeera.unifitv">
     <title lang="en">Newshour</title>
-    <desc lang="en">Up-to-date news and analysis from around the world.</desc>
+    <desc lang="en">Latest news and in-depth analysis from around the world.</desc>
     <category lang="en">News</category>
   </programme>
   <programme start="20260317220300 +0000" stop="20260317223300 +0000" channel="aljazeera.unifitv">
@@ -13107,6 +13107,8 @@
     <title lang="en">Making Peace</title>
     <desc lang="en">Under Taliban rule, Afghan women weigh whether engaging their oppressors is necessary or a betrayal of their cause.</desc>
     <category lang="en">News</category>
+    <episode-num system="xmltv_ns">0.5.</episode-num>
+    <episode-num system="onscreen">S1E6</episode-num>
   </programme>
   <programme start="20260317230300 +0000" stop="20260317233300 +0000" channel="aljazeera.unifitv">
     <title lang="en">News Live</title>
@@ -13122,7 +13124,7 @@
   </programme>
   <programme start="20260318000300 +0000" stop="20260318010300 +0000" channel="aljazeera.unifitv">
     <title lang="en">Newshour</title>
-    <desc lang="en">Up-to-date news and analysis from around the world.</desc>
+    <desc lang="en">Latest news and in-depth analysis from around the world.</desc>
     <category lang="en">News</category>
   </programme>
   <programme start="20260318010300 +0000" stop="20260318020300 +0000" channel="aljazeera.unifitv">
@@ -13137,10 +13139,8 @@
   </programme>
   <programme start="20260318023300 +0000" stop="20260318030300 +0000" channel="aljazeera.unifitv">
     <title lang="en">Talk to Al Jazeera</title>
-    <desc lang="en">One-on-one conversations with global leaders, icons, influencers and alternative voices shaping our times.</desc>
+    <desc lang="en">As US-Israel strikes on Iran continue, Norwegian Refugee Council chief warns of a growing humanitarian crisis across the Middle East.</desc>
     <category lang="en">News</category>
-    <episode-num system="xmltv_ns">0.459.</episode-num>
-    <episode-num system="onscreen">S1E460</episode-num>
   </programme>
   <programme start="20260318030300 +0000" stop="20260318033300 +0000" channel="aljazeera.unifitv">
     <title lang="en">News Live</title>
@@ -13159,7 +13159,7 @@
   </programme>
   <programme start="20260318043300 +0000" stop="20260318050300 +0000" channel="aljazeera.unifitv">
     <title lang="en">UpFront</title>
-    <desc lang="en">Frank, blunt and inquisitive, UpFront cuts through the headlines to get to the heart of the matter with influential guests and newsmakers.</desc>
+    <desc lang="en">Redi Tlhabi asks whether Israel is leading US foreign policy on Iran and why officials in both countries have ramped up the religious rhetoric on the conflict.</desc>
     <category lang="en">News</category>
     <episode-num system="xmltv_ns">0.5.</episode-num>
     <episode-num system="onscreen">S1E6</episode-num>
@@ -13183,10 +13183,10 @@
   </programme>
   <programme start="20260318063300 +0000" stop="20260318070300 +0000" channel="aljazeera.unifitv">
     <title lang="en">Counting the Cost</title>
-    <desc lang="en">Counting the Cost provides background to the economics stories that shape our world and impact the lives of ordinary people.</desc>
+    <desc lang="en">Could the Iran war tip the global economy into stagflation or even recession?</desc>
     <category lang="en">News</category>
-    <episode-num system="xmltv_ns">0.10.</episode-num>
-    <episode-num system="onscreen">S1E11</episode-num>
+    <episode-num system="xmltv_ns">0.12.</episode-num>
+    <episode-num system="onscreen">S1E13</episode-num>
   </programme>
   <programme start="20260318070300 +0000" stop="20260318073300 +0000" channel="aljazeera.unifitv">
     <title lang="en">News Live</title>
@@ -13221,10 +13221,12 @@
     <title lang="en">Making Peace</title>
     <desc lang="en">Under Taliban rule, Afghan women weigh whether engaging their oppressors is necessary or a betrayal of their cause.</desc>
     <category lang="en">News</category>
+    <episode-num system="xmltv_ns">0.5.</episode-num>
+    <episode-num system="onscreen">S1E6</episode-num>
   </programme>
   <programme start="20260318100300 +0000" stop="20260318110300 +0000" channel="aljazeera.unifitv">
     <title lang="en">Newshour</title>
-    <desc lang="en">Up-to-date news and analysis from around the world.</desc>
+    <desc lang="en">Latest news and in-depth analysis from around the world.</desc>
     <category lang="en">News</category>
   </programme>
   <programme start="20260318110300 +0000" stop="20260318113300 +0000" channel="aljazeera.unifitv">
@@ -13246,7 +13248,7 @@
   </programme>
   <programme start="20260318130300 +0000" stop="20260318140300 +0000" channel="aljazeera.unifitv">
     <title lang="en">Newshour</title>
-    <desc lang="en">Up-to-date news and analysis from around the world.</desc>
+    <desc lang="en">Latest news and in-depth analysis from around the world.</desc>
     <category lang="en">News</category>
   </programme>
   <programme start="20260318140300 +0000" stop="20260318143300 +0000" channel="aljazeera.unifitv">
@@ -13256,14 +13258,14 @@
   </programme>
   <programme start="20260318143300 +0000" stop="20260318150300 +0000" channel="aljazeera.unifitv">
     <title lang="en">The Listening Post</title>
-    <desc lang="en">What is being reported by world media and how? Richard Gizbert guides you through the global news maze.</desc>
+    <desc lang="en">As US and Israel battle to control the story of their war against Iran, their messaging gets harder to defend. Plus, the expanding use of AI in the battlefield.</desc>
     <category lang="en">News</category>
     <episode-num system="xmltv_ns">0.10.</episode-num>
     <episode-num system="onscreen">S1E11</episode-num>
   </programme>
   <programme start="20260318150300 +0000" stop="20260318160300 +0000" channel="aljazeera.unifitv">
     <title lang="en">Newshour</title>
-    <desc lang="en">Up-to-date news and analysis from around the world.</desc>
+    <desc lang="en">Latest news and in-depth analysis from around the world.</desc>
     <category lang="en">News</category>
   </programme>
   <channel id="cgtnhd.unifitv">
