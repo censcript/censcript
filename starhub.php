@@ -1958,13 +1958,13 @@
         <title>TGL Season 2 (2026): Atlanta Drive Golf Club vs Los Angeles Golf Club (Live)</title>
     </programme>
     <programme start="20260318003000 +0000" stop="20260318010000 +0000" channel="beIN Sports 3.starhub">
-        <title>MUTV: Treble Twenty Arsenal vs Man Utd</title>
+        <title>Arsenal vs Man Utd</title>
     </programme>
     <programme start="20260318010000 +0000" stop="20260318030000 +0000" channel="beIN Sports 3.starhub">
         <title>TGL Season 2 (2026): Jupiter Links Golf Club vs Boston Common Golf (Live)</title>
     </programme>
     <programme start="20260318030000 +0000" stop="20260318033000 +0000" channel="beIN Sports 3.starhub">
-        <title>MUTV: Treble Twenty Man Utd vs Sheff Wed</title>
+        <title>Man Utd vs Sheff Wed</title>
     </programme>
     <programme start="20260318033000 +0000" stop="20260318053000 +0000" channel="beIN Sports 3.starhub">
         <title>UEFA Champions League 2025/26: Man City vs Real Madrid - R16, 2nd Leg</title>
@@ -1976,7 +1976,7 @@
         <title>UEFA Champions League 2025/26: Chelsea vs PSG - R16, 2nd Leg</title>
     </programme>
     <programme start="20260318080000 +0000" stop="20260318083000 +0000" channel="beIN Sports 3.starhub">
-        <title>MUTV: Treble Twenty Juventus vs Man Utd</title>
+        <title>Juventus vs Man Utd</title>
     </programme>
     <programme start="20260318083000 +0000" stop="20260318090000 +0000" channel="beIN Sports 3.starhub">
         <title>Tue,R16,2nd Leg</title>
@@ -1991,7 +1991,7 @@
         <title>Tue,R16,2nd Leg</title>
     </programme>
     <programme start="20260318123000 +0000" stop="20260318130000 +0000" channel="beIN Sports 3.starhub">
-        <title>MUTV: Treble Twenty Arsenal vs Man Utd</title>
+        <title>Arsenal vs Man Utd</title>
     </programme>
     <programme start="20260318130000 +0000" stop="20260318145000 +0000" channel="beIN Sports 3.starhub">
         <title>UEFA Champions League 2025/26: Arsenal vs Leverkusen - R16, 2nd Leg</title>
@@ -3386,7 +3386,7 @@
         <title>News</title>
     </programme>
     <programme start="20260318131500 +0000" stop="20260318133000 +0000" channel="DW English HD.starhub">
-        <title>Best of DW-online Content</title>
+        <title>The Hidden Pollution From Electric Cars: When Tires Become Microplastics</title>
     </programme>
     <programme start="20260318133000 +0000" stop="20260318140000 +0000" channel="DW English HD.starhub">
         <title>Sanctuary in Ghana under pressure: Too many sacred monkeys?</title>

@@ -3331,14 +3331,14 @@
 <programme start="20260318223000 +0000" stop="20260318230000 +0000" channel="Sky Sport Premier League HD.skyde">
     <title>PL: 90in30: BUR - BOU, 30. Spieltag</title>
 </programme>
-<programme start="20260317230000 +0000" stop="20260318013000 +0000" channel="Sky Sport Tennis HD.skyde">
+<programme start="20260318012000 +0000" stop="20260318013000 +0000" channel="Sky Sport Tennis HD.skyde">
     <title>ATP 1000: J. Sinner (ITA) - D. Medvedev, BNP Paribas Open in Indian Wells, Kalifornien (USA), Finale</title>
 </programme>
 <programme start="20260318013000 +0000" stop="20260318023000 +0000" channel="Sky Sport Tennis HD.skyde">
     <title>ATP 1000: Review Indian Wells</title>
 </programme>
 <programme start="20260318023000 +0000" stop="20260318043000 +0000" channel="Sky Sport Tennis HD.skyde">
-    <title>WTA 1000: Topspiel, Miami Open presented by Itaú in Miami, Florida (USA), 1. Tag</title>
+    <title>WTA 1000: L. Siegemund (GER) - P. Marcinko (CRO), Miami Open presented by Itaú in Miami, Florida (USA), 1. Tag</title>
 </programme>
 <programme start="20260318043000 +0000" stop="20260318070000 +0000" channel="Sky Sport Tennis HD.skyde">
     <title>WTA 1000: E. Rybakina (KAZ) - A. Sabalenka, BNP Paribas Open in Indian Wells, Kalifornien (USA), Finale</title>
@@ -3350,7 +3350,7 @@
     <title>ATP: This Week</title>
 </programme>
 <programme start="20260318080000 +0000" stop="20260318100000 +0000" channel="Sky Sport Tennis HD.skyde">
-    <title>WTA 1000: Topspiel, Miami Open presented by Itaú in Miami, Florida (USA), 1. Tag</title>
+    <title>WTA 1000: L. Siegemund (GER) - P. Marcinko (CRO), Miami Open presented by Itaú in Miami, Florida (USA), 1. Tag</title>
 </programme>
 <programme start="20260318100000 +0000" stop="20260318123000 +0000" channel="Sky Sport Tennis HD.skyde">
     <title>ATP 1000: J. Sinner (ITA) - D. Medvedev, BNP Paribas Open in Indian Wells, Kalifornien (USA), Finale</title>
@@ -3359,7 +3359,7 @@
     <title>ATP: This Week</title>
 </programme>
 <programme start="20260318130000 +0000" stop="20260318150000 +0000" channel="Sky Sport Tennis HD.skyde">
-    <title>WTA 1000: Topspiel, Miami Open presented by Itaú in Miami, Florida (USA), 1. Tag</title>
+    <title>WTA 1000: L. Siegemund (GER) - P. Marcinko (CRO), Miami Open presented by Itaú in Miami, Florida (USA), 1. Tag</title>
 </programme>
 <programme start="20260318150000 +0000" stop="20260319030000 +0000" channel="Sky Sport Tennis HD.skyde">
     <title>Live ATP &amp; WTA: Konferenz Miami Open presented by Itaú in Miami, Florida (USA), 2. Tag</title>

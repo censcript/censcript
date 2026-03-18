@@ -785,16 +785,88 @@
         <title>Europa</title>
     </programme>
     <programme start="20260317160000 +0000" stop="20260318110000 +0000" channel="Live 1.mewatch">
-        <title>No programme available now. Next broadcast on 18th February, Wednesday 7pm. The Wonder Shop Home Shopping</title>
+        <title>No programme available now. Next broadcast on 18th March, Wednesday 7pm. The Wonder Shop Home Shopping</title>
     </programme>
-    <programme start="20260318110000 +0000" stop="20260318150000 +0000" channel="Live 1.mewatch">
-        <title>The Wonder Shop (Home Shopping)</title>
+    <programme start="20260318110000 +0000" stop="20260318111400 +0000" channel="Live 1.mewatch">
+        <title>The Wonder Shop (Home Shopping) - LAC Joint Protect</title>
+    </programme>
+    <programme start="20260318111400 +0000" stop="20260318111600 +0000" channel="Live 1.mewatch">
+        <title>The Wonder Shop (Home Shopping) - Tupperware Freezable 5-Container Set</title>
+    </programme>
+    <programme start="20260318111600 +0000" stop="20260318113000 +0000" channel="Live 1.mewatch">
+        <title>The Wonder Shop (Home Shopping) - OTO Footplus Massager FP-100</title>
+    </programme>
+    <programme start="20260318113000 +0000" stop="20260318114400 +0000" channel="Live 1.mewatch">
+        <title>The Wonder Shop (Home Shopping) - Thomson Livrin</title>
+    </programme>
+    <programme start="20260318114400 +0000" stop="20260318114600 +0000" channel="Live 1.mewatch">
+        <title>The Wonder Shop (Home Shopping) - Morries 6.5L Yuan Yang Hot Pot + 5” Retro Fan Bundle</title>
+    </programme>
+    <programme start="20260318114600 +0000" stop="20260318120000 +0000" channel="Live 1.mewatch">
+        <title>The Wonder Shop (Home Shopping) - Kale Powder</title>
+    </programme>
+    <programme start="20260318120000 +0000" stop="20260318121400 +0000" channel="Live 1.mewatch">
+        <title>The Wonder Shop (Home Shopping) - Health+ Dampness &amp; Blood supplement</title>
+    </programme>
+    <programme start="20260318121400 +0000" stop="20260318121600 +0000" channel="Live 1.mewatch">
+        <title>The Wonder Shop (Home Shopping) - Krafter Purple Magic Sheet</title>
+    </programme>
+    <programme start="20260318121600 +0000" stop="20260318123000 +0000" channel="Live 1.mewatch">
+        <title>The Wonder Shop (Home Shopping) - Fissler Cookware Set</title>
+    </programme>
+    <programme start="20260318123000 +0000" stop="20260318124400 +0000" channel="Live 1.mewatch">
+        <title>The Wonder Shop (Home Shopping) - Ellixi Hair Tonic</title>
+    </programme>
+    <programme start="20260318124400 +0000" stop="20260318124600 +0000" channel="Live 1.mewatch">
+        <title>The Wonder Shop (Home Shopping) - Thermos TCMF-501 0.5L Mug with Strainer &amp; Handle</title>
+    </programme>
+    <programme start="20260318124600 +0000" stop="20260318130000 +0000" channel="Live 1.mewatch">
+        <title>The Wonder Shop (Home Shopping) - TIGER EDGE SLB-A10U Food Blender</title>
+    </programme>
+    <programme start="20260318130000 +0000" stop="20260318131400 +0000" channel="Live 1.mewatch">
+        <title>The Wonder Shop (Home Shopping) - LAC Brain Speed</title>
+    </programme>
+    <programme start="20260318131400 +0000" stop="20260318131600 +0000" channel="Live 1.mewatch">
+        <title>The Wonder Shop (Home Shopping) - Furi Knife Bundle Set</title>
+    </programme>
+    <programme start="20260318131600 +0000" stop="20260318133000 +0000" channel="Live 1.mewatch">
+        <title>The Wonder Shop (Home Shopping) - Philips Azur Steam Iron</title>
+    </programme>
+    <programme start="20260318133000 +0000" stop="20260318133700 +0000" channel="Live 1.mewatch">
+        <title>The Wonder Shop (Home Shopping) - Dontz Mini Massage Gun</title>
+    </programme>
+    <programme start="20260318133700 +0000" stop="20260318134400 +0000" channel="Live 1.mewatch">
+        <title>The Wonder Shop (Home Shopping) - La Gourmet Food Steamer</title>
+    </programme>
+    <programme start="20260318134400 +0000" stop="20260318134600 +0000" channel="Live 1.mewatch">
+        <title>The Wonder Shop (Home Shopping) - HOTO Electric Spin Scrubber</title>
+    </programme>
+    <programme start="20260318134600 +0000" stop="20260318140000 +0000" channel="Live 1.mewatch">
+        <title>The Wonder Shop (Home Shopping) - Thermos Shuttle Chef Thermal Cooker</title>
+    </programme>
+    <programme start="20260318140000 +0000" stop="20260318141400 +0000" channel="Live 1.mewatch">
+        <title>The Wonder Shop (Home Shopping) - SINGCHOICE Bone Health Formula &amp; Eyes Nourisher</title>
+    </programme>
+    <programme start="20260318141400 +0000" stop="20260318141600 +0000" channel="Live 1.mewatch">
+        <title>The Wonder Shop (Home Shopping) - Naturalle Sugar Care Tea</title>
+    </programme>
+    <programme start="20260318141600 +0000" stop="20260318143000 +0000" channel="Live 1.mewatch">
+        <title>The Wonder Shop (Home Shopping) - OTO Anyway Back Massage Cushion</title>
+    </programme>
+    <programme start="20260318143000 +0000" stop="20260318144400 +0000" channel="Live 1.mewatch">
+        <title>The Wonder Shop (Home Shopping) - Q’SAI Knee Supporter Collagen</title>
+    </programme>
+    <programme start="20260318144400 +0000" stop="20260318144600 +0000" channel="Live 1.mewatch">
+        <title>The Wonder Shop (Home Shopping) - OMRON BP Monitor Atrial Fibrillation HEM-7383T1</title>
+    </programme>
+    <programme start="20260318144600 +0000" stop="20260318150000 +0000" channel="Live 1.mewatch">
+        <title>The Wonder Shop (Home Shopping) - Kyocera Ceramic Knife</title>
     </programme>
     <programme start="20260318150000 +0000" stop="20260318160000 +0000" channel="Live 1.mewatch">
-        <title>No programme available now. Next broadcast on 19th February, Thursday 7pm. The Wonder Shop Home Shopping</title>
+        <title>No programme available now. Next broadcast on 19th March, Thursday 7pm. The Wonder Shop Home Shopping</title>
     </programme>
     <programme start="20260318160000 +0000" stop="20260319110000 +0000" channel="Live 1.mewatch">
-        <title>No programme available now. Next broadcast on 19th February, Thursday 7pm. The Wonder Shop Home Shopping</title>
+        <title>No programme available now. Next broadcast on 19th March, Thursday 7pm. The Wonder Shop Home Shopping</title>
     </programme>
     <programme start="20260317160000 +0000" stop="20260318160000 +0000" channel="Live 2.mewatch">
         <title>No Programme available now. Next Broadcast on 31st March, Tuesday 7.50pm. AFC Asian Cup Saudi Arabia 2027 Qualifiers</title>
