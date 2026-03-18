@@ -673,9 +673,6 @@
 <programme start="20260318090000 +0000" stop="20260318110000 +0000" channel="ANTV.vision">
 <title>Vasudha</title>
 </programme>
-<programme start="20260318170000 +0000" stop="20260318183000 +0000" channel="ANTV.vision">
-<title>Happy Ghost 3</title>
-</programme>
 <programme start="20260318183000 +0000" stop="20260318193000 +0000" channel="ANTV.vision">
 <title>Mutation On Mars</title>
 </programme>
@@ -1497,4 +1494,7 @@
 </programme>
 <programme start="20260319011500 +0000" stop="20260319014500 +0000" channel="BTV.vision">
 <title>Kuyliner</title>
+</programme>
+<programme start="20260319014500 +0000" stop="20260319020000 +0000" channel="BTV.vision">
+<title>Masak Ala Devina Hermawan</title>
 </programme>
