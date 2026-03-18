@@ -2632,7 +2632,7 @@
 <programme start="20260318193000 +0000" stop="20260318195000 +0000" channel="Sky Sport Austria 3 HD.skyde">
     <title>Es folgt: Live UEFA Champions League</title>
 </programme>
-<programme start="20260318195000 +0000" stop="20260318220000 +0000" channel="Sky Sport Austria 3 HD.skyde">
+<programme start="20260318195000 +0000" stop="20260318230000 +0000" channel="Sky Sport Austria 3 HD.skyde">
     <title>Live UEFA CL: Tottenham Hotspur - Atletico Madrid, Achtelfinale Rückspiel, Mittwoch</title>
 </programme>
 <programme start="20260318090000 +0000" stop="20260318090500 +0000" channel="Sky Sport Austria 4 HD.skyde">
@@ -2893,7 +2893,7 @@
 <programme start="20260318170000 +0000" stop="20260318173500 +0000" channel="Sky Sport Austria 4 HD.skyde">
     <title>Live Die UEFA CL am Mittwoch: Vorbericht</title>
 </programme>
-<programme start="20260318173500 +0000" stop="20260318210000 +0000" channel="Sky Sport Austria 4 HD.skyde">
+<programme start="20260318173500 +0000" stop="20260318195000 +0000" channel="Sky Sport Austria 4 HD.skyde">
     <title>Live UEFA CL: FC Barcelona - Newcastle United, Achtelfinale Rückspiel, Mittwoch</title>
 </programme>
 <programme start="20260318144000 +0000" stop="20260318150000 +0000" channel="Sky Sport Austria 5 HD.skyde">
@@ -3088,8 +3088,14 @@
 <programme start="20260318070000 +0000" stop="20260318080000 +0000" channel="Sky Sport Golf HD.skyde">
     <title>Golf Ladies ET: Highlights Women&#039;s Australian Open</title>
 </programme>
-<programme start="20260318080000 +0000" stop="20260318090000 +0000" channel="Sky Sport Golf HD.skyde">
-    <title>Golf Ladies ET: Highlights Australian WPGA Championship</title>
+<programme start="20260318080000 +0000" stop="20260318081500 +0000" channel="Sky Sport Golf HD.skyde">
+    <title>Golf: Tee Time Stories (2)</title>
+</programme>
+<programme start="20260318081500 +0000" stop="20260318084500 +0000" channel="Sky Sport Golf HD.skyde">
+    <title>Golf: Tee Time Stories (3)</title>
+</programme>
+<programme start="20260318084500 +0000" stop="20260318090000 +0000" channel="Sky Sport Golf HD.skyde">
+    <title>Golf: Tee Time Stories (4)</title>
 </programme>
 <programme start="20260318090000 +0000" stop="20260318110000 +0000" channel="Sky Sport Golf HD.skyde">
     <title>TGL: Atlanta Drive GC - Los Angeles Golf Club, Halbfinale</title>
@@ -3331,7 +3337,7 @@
 <programme start="20260318223000 +0000" stop="20260318230000 +0000" channel="Sky Sport Premier League HD.skyde">
     <title>PL: 90in30: BUR - BOU, 30. Spieltag</title>
 </programme>
-<programme start="20260318012000 +0000" stop="20260318013000 +0000" channel="Sky Sport Tennis HD.skyde">
+<programme start="20260317230000 +0000" stop="20260318013000 +0000" channel="Sky Sport Tennis HD.skyde">
     <title>ATP 1000: J. Sinner (ITA) - D. Medvedev, BNP Paribas Open in Indian Wells, Kalifornien (USA), Finale</title>
 </programme>
 <programme start="20260318013000 +0000" stop="20260318023000 +0000" channel="Sky Sport Tennis HD.skyde">
@@ -3439,7 +3445,7 @@
 <programme start="20260318144000 +0000" stop="20260318150000 +0000" channel="Sky Sport 1 HD.skyde">
     <title>Es folgt: Live Tennis WTA Tour</title>
 </programme>
-<programme start="20260318150000 +0000" stop="20260319010000 +0000" channel="Sky Sport 1 HD.skyde">
+<programme start="20260318150000 +0000" stop="20260319090000 +0000" channel="Sky Sport 1 HD.skyde">
     <title>Live WTA 1000: Miami Open presented by Itaú in Miami, Florida (USA), 2. Tag</title>
 </programme>
 <programme start="20260318020000 +0000" stop="20260318090000 +0000" channel="Sky Sport 2 HD.skyde">

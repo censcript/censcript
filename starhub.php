@@ -2183,7 +2183,7 @@
         <title>HSBC SVNS Series 2026: Canada vs Japan - Tri-Nation Challenge</title>
     </programme>
     <programme start="20260317180000 +0000" stop="20260317195500 +0000" channel="beIN Sports 2 HD.starhub">
-        <title>TotalEnergies Africa Cup of Nations, Morocco 2025: Angola vs Zimbabwe - Group Stage</title>
+        <title>TotalEnergies Africa Cup of Nations, Morocco 2025: Angola vs Zimbabwe - Group St</title>
     </programme>
     <programme start="20260317195500 +0000" stop="20260317220000 +0000" channel="beIN Sports 2 HD.starhub">
         <title>UEFA Champions League 2025/26: Man City vs Real Madrid - R16, 2nd Leg (Live)</title>
@@ -7409,7 +7409,7 @@
         <title>BBC News</title>
     </programme>
     <programme start="20260318013000 +0000" stop="20260318020000 +0000" channel="BBC World News HD.starhub">
-        <title>Tech Now</title>
+        <title>MWC Barcelona: What&#039;s New In Phone Tech?</title>
     </programme>
     <programme start="20260318020000 +0000" stop="20260318023000 +0000" channel="BBC World News HD.starhub">
         <title>Newsday</title>
@@ -7427,7 +7427,7 @@
         <title>Business Today</title>
     </programme>
     <programme start="20260318034500 +0000" stop="20260318040000 +0000" channel="BBC World News HD.starhub">
-        <title>Asia Specific</title>
+        <title>Iran War: What Message Does It Send To Nuclear Powers in Asia?</title>
     </programme>
     <programme start="20260318040000 +0000" stop="20260318043000 +0000" channel="BBC World News HD.starhub">
         <title>Newsday</title>
@@ -7436,7 +7436,7 @@
         <title>Business Today</title>
     </programme>
     <programme start="20260318044500 +0000" stop="20260318050000 +0000" channel="BBC World News HD.starhub">
-        <title>Asia Specific</title>
+        <title>Iran War: What Message Does It Send To Nuclear Powers in Asia?</title>
     </programme>
     <programme start="20260318050000 +0000" stop="20260318053000 +0000" channel="BBC World News HD.starhub">
         <title>BBC News</title>
