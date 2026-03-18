@@ -1,11 +1,11 @@
 <programme start="20260318000000 +0000" stop="20260318010000 +0000" channel="RCTI.vision">
 <title>Upin Ipin</title>
 </programme>
-<programme start="20260318010000 +0000" stop="20260318021500 +0000" channel="RCTI.vision">
-<title>Entong (RCTI)</title>
+<programme start="20260318010000 +0000" stop="20260318023000 +0000" channel="RCTI.vision">
+<title>Entong</title>
 </programme>
-<programme start="20260318021500 +0000" stop="20260318033000 +0000" channel="RCTI.vision">
-<title>Sule Pak Penghulu, I Love You</title>
+<programme start="20260318023000 +0000" stop="20260318033000 +0000" channel="RCTI.vision">
+<title>Captain Tsubasa</title>
 </programme>
 <programme start="20260318033000 +0000" stop="20260318043000 +0000" channel="RCTI.vision">
 <title>Silet (RCTI)</title>
@@ -28,23 +28,26 @@
 <programme start="20260318111500 +0000" stop="20260318113000 +0000" channel="RCTI.vision">
 <title>Jelang Berbuka Puasa</title>
 </programme>
-<programme start="20260318113000 +0000" stop="20260318130000 +0000" channel="RCTI.vision">
+<programme start="20260318113000 +0000" stop="20260318120000 +0000" channel="RCTI.vision">
+<title>Amanah Wali S8</title>
+</programme>
+<programme start="20260318120000 +0000" stop="20260318133000 +0000" channel="RCTI.vision">
 <title>99 Nama Cinta (RCTI)</title>
 </programme>
-<programme start="20260318130000 +0000" stop="20260318150000 +0000" channel="RCTI.vision">
+<programme start="20260318133000 +0000" stop="20260318150000 +0000" channel="RCTI.vision">
 <title>Mencintai Ipar Sendiri (RCTI)</title>
 </programme>
 <programme start="20260318150000 +0000" stop="20260318170000 +0000" channel="RCTI.vision">
-<title>Liontin Kirana</title>
+<title>Cinta Tabrak Lari</title>
 </programme>
 <programme start="20260318170000 +0000" stop="20260318193000 +0000" channel="RCTI.vision">
 <title>Preman Pensiun S4</title>
 </programme>
 <programme start="20260318193000 +0000" stop="20260318223000 +0000" channel="RCTI.vision">
-<title>Preman Pensiun S9</title>
+<title>Preman Pensiun X</title>
 </programme>
 <programme start="20260318223000 +0000" stop="20260318233000 +0000" channel="RCTI.vision">
-<title>Penyejuk Hati (RCTI)</title>
+<title>Konflik Timur Tengah</title>
 </programme>
 <programme start="20260318233000 +0000" stop="20260319000000 +0000" channel="RCTI.vision">
 <title>Go Spot</title>
@@ -52,11 +55,11 @@
 <programme start="20260319000000 +0000" stop="20260319010000 +0000" channel="RCTI.vision">
 <title>Upin Ipin</title>
 </programme>
-<programme start="20260319010000 +0000" stop="20260319021500 +0000" channel="RCTI.vision">
-<title>Entong (RCTI)</title>
+<programme start="20260319010000 +0000" stop="20260319023000 +0000" channel="RCTI.vision">
+<title>Entong</title>
 </programme>
-<programme start="20260319021500 +0000" stop="20260319033000 +0000" channel="RCTI.vision">
-<title>Petaka Malam Jumat</title>
+<programme start="20260319023000 +0000" stop="20260319033000 +0000" channel="RCTI.vision">
+<title>Kiko The Series</title>
 </programme>
 <programme start="20260319033000 +0000" stop="20260319043000 +0000" channel="RCTI.vision">
 <title>Silet (RCTI)</title>
@@ -70,17 +73,17 @@
 <programme start="20260319063000 +0000" stop="20260319083000 +0000" channel="RCTI.vision">
 <title>Hafiz Indonesia 2026 (RCTI)</title>
 </programme>
-<programme start="20260319083000 +0000" stop="20260319100000 +0000" channel="RCTI.vision">
-<title>Penyejuk Hati Sore</title>
+<programme start="20260319083000 +0000" stop="20260319093000 +0000" channel="RCTI.vision">
+<title>Penyejuk Hati</title>
 </programme>
-<programme start="20260319100000 +0000" stop="20260319111500 +0000" channel="RCTI.vision">
-<title>Amanah Wali 8</title>
+<programme start="20260319093000 +0000" stop="20260319111500 +0000" channel="RCTI.vision">
+<title>Sidang Isbat 1 Syawal (L)</title>
 </programme>
 <programme start="20260319111500 +0000" stop="20260319113000 +0000" channel="RCTI.vision">
 <title>Jelang Berbuka Puasa</title>
 </programme>
-<programme start="20260319113000 +0000" stop="20260319120000 +0000" channel="RCTI.vision">
-<title>Amanah Wali S8</title>
+<programme start="20260319113000 +0000" stop="20260319124500 +0000" channel="RCTI.vision">
+<title>Sidang Isbat 1 Syawal (L)</title>
 </programme>
 <programme start="20260318000000 +0000" stop="20260318004500 +0000" channel="MNCTV.vision">
 <title>Dora &amp; Sahabat</title>
@@ -236,13 +239,13 @@
 <title>iNews Today (L)</title>
 </programme>
 <programme start="20260318033000 +0000" stop="20260318040000 +0000" channel="iNews.vision">
-<title>Breaking News (L)</title>
+<title>Breaking News: Konflik Timur Tengah &amp; Puncak Arus Mudik (L)</title>
 </programme>
 <programme start="20260318040000 +0000" stop="20260318060000 +0000" channel="iNews.vision">
 <title>iNews Siang (L)</title>
 </programme>
 <programme start="20260318060000 +0000" stop="20260318080000 +0000" channel="iNews.vision">
-<title>Breaking News: Konflik Timur Tengah &amp; Puncak Arus Mudik (L)</title>
+<title>Breaking News (L)</title>
 </programme>
 <programme start="20260318080000 +0000" stop="20260318093000 +0000" channel="iNews.vision">
 <title>Realita (L)</title>
@@ -256,10 +259,7 @@
 <programme start="20260318110500 +0000" stop="20260318112000 +0000" channel="iNews.vision">
 <title>Kultum Cahaya Hati Berbuka</title>
 </programme>
-<programme start="20260318112000 +0000" stop="20260318112500 +0000" channel="iNews.vision">
-<title>Kuis Cahaya Ramadan... (L)</title>
-</programme>
-<programme start="20260318112500 +0000" stop="20260318120000 +0000" channel="iNews.vision">
+<programme start="20260318112000 +0000" stop="20260318120000 +0000" channel="iNews.vision">
 <title>iNews Sore</title>
 </programme>
 <programme start="20260318120000 +0000" stop="20260318120300 +0000" channel="iNews.vision">
@@ -277,11 +277,14 @@
 <programme start="20260318150000 +0000" stop="20260318160000 +0000" channel="iNews.vision">
 <title>Breaking News: Timur Tengah (L)</title>
 </programme>
-<programme start="20260318160000 +0000" stop="20260318170000 +0000" channel="iNews.vision">
+<programme start="20260318160000 +0000" stop="20260318160500 +0000" channel="iNews.vision">
+<title>iNews Terkini (L)</title>
+</programme>
+<programme start="20260318160500 +0000" stop="20260318170000 +0000" channel="iNews.vision">
 <title>iNews Malam (Live)</title>
 </programme>
 <programme start="20260318170000 +0000" stop="20260318173000 +0000" channel="iNews.vision">
-<title>iNews Sport (L)</title>
+<title>iNews Sport</title>
 </programme>
 <programme start="20260318173000 +0000" stop="20260318200000 +0000" channel="iNews.vision">
 <title>Breaking News</title>
@@ -326,7 +329,7 @@
 <title>iNews Siang (L)</title>
 </programme>
 <programme start="20260319060000 +0000" stop="20260319110000 +0000" channel="iNews.vision">
-<title>Breaking News: Konflik Timur Tengah &amp; Puncak Arus Mudik (L)</title>
+<title>Breaking News: Puncak Arus Mudik &amp; Sidang Isbat Penentuan Idul Fitri</title>
 </programme>
 <programme start="20260319110000 +0000" stop="20260319110500 +0000" channel="iNews.vision">
 <title>Cahaya Hati The Series</title>
@@ -334,11 +337,8 @@
 <programme start="20260319110500 +0000" stop="20260319112000 +0000" channel="iNews.vision">
 <title>Kultum Cahaya Hati Berbuka</title>
 </programme>
-<programme start="20260319112000 +0000" stop="20260319112500 +0000" channel="iNews.vision">
-<title>Kuis Cahaya Ramadan... (L)</title>
-</programme>
-<programme start="20260319112500 +0000" stop="20260319130000 +0000" channel="iNews.vision">
-<title>Breaking News (L)</title>
+<programme start="20260319112000 +0000" stop="20260319130000 +0000" channel="iNews.vision">
+<title>Sidang Isbat Penentuan... (L)</title>
 </programme>
 <programme start="20260318000000 +0000" stop="20260318003000 +0000" channel="SindoNews.vision">
 <title>iNews Today</title>
@@ -370,17 +370,20 @@
 <programme start="20260318083000 +0000" stop="20260318090000 +0000" channel="SindoNews.vision">
 <title>Special Report</title>
 </programme>
-<programme start="20260318090000 +0000" stop="20260318101600 +0000" channel="SindoNews.vision">
+<programme start="20260318090000 +0000" stop="20260318103000 +0000" channel="SindoNews.vision">
 <title>SINDO Sore</title>
 </programme>
-<programme start="20260318101600 +0000" stop="20260318111600 +0000" channel="SindoNews.vision">
+<programme start="20260318103000 +0000" stop="20260318110800 +0000" channel="SindoNews.vision">
 <title>SINDO Files</title>
 </programme>
-<programme start="20260318111600 +0000" stop="20260318112300 +0000" channel="SindoNews.vision">
+<programme start="20260318110800 +0000" stop="20260318111100 +0000" channel="SindoNews.vision">
 <title>ADZAN MAGRIB</title>
 </programme>
-<programme start="20260318112300 +0000" stop="20260318120000 +0000" channel="SindoNews.vision">
+<programme start="20260318111100 +0000" stop="20260318114100 +0000" channel="SindoNews.vision">
 <title>Cahaya Hati The Series</title>
+</programme>
+<programme start="20260318114100 +0000" stop="20260318120000 +0000" channel="SindoNews.vision">
+<title>SINDO Files</title>
 </programme>
 <programme start="20260318120000 +0000" stop="20260318133000 +0000" channel="SindoNews.vision">
 <title>SINDO Prime</title>
@@ -394,28 +397,25 @@
 <programme start="20260318163000 +0000" stop="20260318170000 +0000" channel="SindoNews.vision">
 <title>OMG</title>
 </programme>
-<programme start="20260318170000 +0000" stop="20260318173000 +0000" channel="SindoNews.vision">
+<programme start="20260318170000 +0000" stop="20260318180000 +0000" channel="SindoNews.vision">
+<title>iNews Sore</title>
+</programme>
+<programme start="20260318180000 +0000" stop="20260318183000 +0000" channel="SindoNews.vision">
 <title>iNews Sport</title>
 </programme>
-<programme start="20260318173000 +0000" stop="20260318180000 +0000" channel="SindoNews.vision">
-<title>New Top Files</title>
-</programme>
-<programme start="20260318180000 +0000" stop="20260318190000 +0000" channel="SindoNews.vision">
-<title>iNews Malam</title>
-</programme>
-<programme start="20260318190000 +0000" stop="20260318200000 +0000" channel="SindoNews.vision">
-<title>SINDO Prime</title>
+<programme start="20260318183000 +0000" stop="20260318200000 +0000" channel="SindoNews.vision">
+<title>SINDO Breaking News</title>
 </programme>
 <programme start="20260318200000 +0000" stop="20260318210000 +0000" channel="SindoNews.vision">
-<title>iNews Sore</title>
+<title>iNews Malam</title>
 </programme>
 <programme start="20260318210000 +0000" stop="20260318214200 +0000" channel="SindoNews.vision">
 <title>SINDO Sore</title>
 </programme>
-<programme start="20260318214200 +0000" stop="20260318214700 +0000" channel="SindoNews.vision">
+<programme start="20260318214200 +0000" stop="20260318214500 +0000" channel="SindoNews.vision">
 <title>Adzan Subuh</title>
 </programme>
-<programme start="20260318214700 +0000" stop="20260318220000 +0000" channel="SindoNews.vision">
+<programme start="20260318214500 +0000" stop="20260318220000 +0000" channel="SindoNews.vision">
 <title>SINDO Sore</title>
 </programme>
 <programme start="20260318220000 +0000" stop="20260318230000 +0000" channel="SindoNews.vision">
@@ -442,32 +442,23 @@
 <programme start="20260319050000 +0000" stop="20260319053000 +0000" channel="SindoNews.vision">
 <title>Lintas iNews Siang</title>
 </programme>
-<programme start="20260319053000 +0000" stop="20260319063000 +0000" channel="SindoNews.vision">
+<programme start="20260319053000 +0000" stop="20260319060000 +0000" channel="SindoNews.vision">
 <title>iNews Today</title>
 </programme>
-<programme start="20260319063000 +0000" stop="20260319070000 +0000" channel="SindoNews.vision">
-<title>Seputar iNews Siang</title>
+<programme start="20260319060000 +0000" stop="20260319110700 +0000" channel="SindoNews.vision">
+<title>Sidang Isbat Idul Fitri</title>
 </programme>
-<programme start="20260319070000 +0000" stop="20260319083000 +0000" channel="SindoNews.vision">
-<title>iNews Siang</title>
-</programme>
-<programme start="20260319083000 +0000" stop="20260319090000 +0000" channel="SindoNews.vision">
-<title>Special Report</title>
-</programme>
-<programme start="20260319090000 +0000" stop="20260319101600 +0000" channel="SindoNews.vision">
-<title>SINDO Sore</title>
-</programme>
-<programme start="20260319101600 +0000" stop="20260319111600 +0000" channel="SindoNews.vision">
-<title>SINDO Files</title>
-</programme>
-<programme start="20260319111600 +0000" stop="20260319112300 +0000" channel="SindoNews.vision">
+<programme start="20260319110700 +0000" stop="20260319111000 +0000" channel="SindoNews.vision">
 <title>ADZAN MAGRIB</title>
 </programme>
-<programme start="20260319112300 +0000" stop="20260319120000 +0000" channel="SindoNews.vision">
+<programme start="20260319111000 +0000" stop="20260319114000 +0000" channel="SindoNews.vision">
 <title>Cahaya Hati The Series</title>
 </programme>
+<programme start="20260319114000 +0000" stop="20260319123000 +0000" channel="SindoNews.vision">
+<title>Sidang Isbat Idul Fitri</title>
+</programme>
 <programme start="20260318000000 +0000" stop="20260318010000 +0000" channel="Trans TV.vision">
-<title>Insert Pagi (L)</title>
+<title>Insert Pagi</title>
 </programme>
 <programme start="20260318010000 +0000" stop="20260318020000 +0000" channel="Trans TV.vision">
 <title>CNN Indonesia Good Morning</title>
@@ -496,28 +487,31 @@
 <programme start="20260318123000 +0000" stop="20260318133000 +0000" channel="Trans TV.vision">
 <title>Insert Story</title>
 </programme>
-<programme start="20260318133000 +0000" stop="20260318143000 +0000" channel="Trans TV.vision">
-<title>Monitor Ketua</title>
+<programme start="20260318133000 +0000" stop="20260318153000 +0000" channel="Trans TV.vision">
+<title>Bioskop Spesial Trans TV</title>
 </programme>
-<programme start="20260318143000 +0000" stop="20260318163000 +0000" channel="Trans TV.vision">
+<programme start="20260318153000 +0000" stop="20260318173000 +0000" channel="Trans TV.vision">
 <title>Bioskop Trans TV</title>
 </programme>
-<programme start="20260318163000 +0000" stop="20260318180000 +0000" channel="Trans TV.vision">
+<programme start="20260318173000 +0000" stop="20260318190000 +0000" channel="Trans TV.vision">
 <title>Bioskop Trans TV</title>
 </programme>
-<programme start="20260318180000 +0000" stop="20260318220000 +0000" channel="Trans TV.vision">
-<title>Pilihan Indonesia: Debat Capres</title>
+<programme start="20260318190000 +0000" stop="20260318220000 +0000" channel="Trans TV.vision">
+<title>Blockbuster Sahur Movie</title>
 </programme>
-<programme start="20260318220000 +0000" stop="20260318233000 +0000" channel="Trans TV.vision">
+<programme start="20260318220000 +0000" stop="20260318230000 +0000" channel="Trans TV.vision">
+<title>Dunia Punya Cerita Ramadan</title>
+</programme>
+<programme start="20260318230000 +0000" stop="20260319000000 +0000" channel="Trans TV.vision">
 <title>Islam Itu Indah</title>
 </programme>
-<programme start="20260318233000 +0000" stop="20260319003000 +0000" channel="Trans TV.vision">
-<title>Insert Pagi (L)</title>
+<programme start="20260319000000 +0000" stop="20260319010000 +0000" channel="Trans TV.vision">
+<title>Insert Pagi</title>
 </programme>
-<programme start="20260319003000 +0000" stop="20260319013000 +0000" channel="Trans TV.vision">
+<programme start="20260319010000 +0000" stop="20260319020000 +0000" channel="Trans TV.vision">
 <title>CNN Indonesia Good Morning</title>
 </programme>
-<programme start="20260319013000 +0000" stop="20260319033000 +0000" channel="Trans TV.vision">
+<programme start="20260319020000 +0000" stop="20260319033000 +0000" channel="Trans TV.vision">
 <title>Pagi-Pagi Ambyar</title>
 </programme>
 <programme start="20260319033000 +0000" stop="20260319053000 +0000" channel="Trans TV.vision">
@@ -532,17 +526,11 @@
 <programme start="20260319080000 +0000" stop="20260319090000 +0000" channel="Trans TV.vision">
 <title>Insert Today</title>
 </programme>
-<programme start="20260319090000 +0000" stop="20260319093000 +0000" channel="Trans TV.vision">
-<title>CNN Indonesia News Update</title>
+<programme start="20260319090000 +0000" stop="20260319113000 +0000" channel="Trans TV.vision">
+<title>Indahnya Ramadan</title>
 </programme>
-<programme start="20260319093000 +0000" stop="20260319103000 +0000" channel="Trans TV.vision">
-<title>Dream Box Indonesia</title>
-</programme>
-<programme start="20260319103000 +0000" stop="20260319114500 +0000" channel="Trans TV.vision">
+<programme start="20260319113000 +0000" stop="20260319123000 +0000" channel="Trans TV.vision">
 <title>Bikin Laper</title>
-</programme>
-<programme start="20260319114500 +0000" stop="20260319130000 +0000" channel="Trans TV.vision">
-<title>Insert Story</title>
 </programme>
 <programme start="20260317233000 +0000" stop="20260318003000 +0000" channel="Trans 7.vision">
 <title>Spotlite</title>
@@ -685,15 +673,6 @@
 <programme start="20260318090000 +0000" stop="20260318110000 +0000" channel="ANTV.vision">
 <title>Vasudha</title>
 </programme>
-<programme start="20260318110000 +0000" stop="20260318130000 +0000" channel="ANTV.vision">
-<title>Tarzan Penunggu Harta Karun</title>
-</programme>
-<programme start="20260318130000 +0000" stop="20260318150000 +0000" channel="ANTV.vision">
-<title>Si Rawing 2</title>
-</programme>
-<programme start="20260318150000 +0000" stop="20260318170000 +0000" channel="ANTV.vision">
-<title>Lupa Aturan Main</title>
-</programme>
 <programme start="20260318170000 +0000" stop="20260318183000 +0000" channel="ANTV.vision">
 <title>Happy Ghost 3</title>
 </programme>
@@ -704,7 +683,7 @@
 <title>Naga Sakti</title>
 </programme>
 <programme start="20260318213000 +0000" stop="20260318230000 +0000" channel="ANTV.vision">
-<title>Coffin Mountain Tomb</title>
+<title>Bioskop Asia</title>
 </programme>
 <programme start="20260318230000 +0000" stop="20260319003000 +0000" channel="ANTV.vision">
 <title>Baalveer Returns</title>
@@ -1497,4 +1476,25 @@
 </programme>
 <programme start="20260318214200 +0000" stop="20260318214600 +0000" channel="BTV.vision">
 <title>Adzan Subuh Jakarta</title>
+</programme>
+<programme start="20260318214600 +0000" stop="20260318230000 +0000" channel="BTV.vision">
+<title>Berita Satu Pagi</title>
+</programme>
+<programme start="20260318230000 +0000" stop="20260318230300 +0000" channel="BTV.vision">
+<title>Indonesia Raya</title>
+</programme>
+<programme start="20260318230300 +0000" stop="20260319003000 +0000" channel="BTV.vision">
+<title>Jalan Dakwah</title>
+</programme>
+<programme start="20260319003000 +0000" stop="20260319010000 +0000" channel="BTV.vision">
+<title>Figur Publik</title>
+</programme>
+<programme start="20260319010000 +0000" stop="20260319010500 +0000" channel="BTV.vision">
+<title>Berita Satu Terkini</title>
+</programme>
+<programme start="20260319010500 +0000" stop="20260319011500 +0000" channel="BTV.vision">
+<title>Figur Publik</title>
+</programme>
+<programme start="20260319011500 +0000" stop="20260319014500 +0000" channel="BTV.vision">
+<title>Kuyliner</title>
 </programme>

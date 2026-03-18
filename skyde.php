@@ -1216,7 +1216,7 @@
 <programme start="20260318210000 +0000" stop="20260318230000 +0000" channel="Jukebox.skyde">
     <title>JUKEBOX NEWS</title>
 </programme>
-<programme start="20260317232500 +0000" stop="20260318000000 +0000" channel="Motorvision+.skyde">
+<programme start="20260317232500 +0000" stop="20260317235000 +0000" channel="Motorvision+.skyde">
     <title>Grüne Welle</title>
 </programme>
 <programme start="20260318000000 +0000" stop="20260318003000 +0000" channel="Motorvision+.skyde">
@@ -1228,19 +1228,19 @@
 <programme start="20260318010000 +0000" stop="20260318013000 +0000" channel="Motorvision+.skyde">
     <title>Infomercial</title>
 </programme>
-<programme start="20260318013000 +0000" stop="20260318015500 +0000" channel="Motorvision+.skyde">
+<programme start="20260318013000 +0000" stop="20260318020000 +0000" channel="Motorvision+.skyde">
     <title>Infomercial</title>
 </programme>
-<programme start="20260318015500 +0000" stop="20260318022500 +0000" channel="Motorvision+.skyde">
+<programme start="20260318020000 +0000" stop="20260318023000 +0000" channel="Motorvision+.skyde">
     <title>Super Cars</title>
 </programme>
-<programme start="20260318022500 +0000" stop="20260318031000 +0000" channel="Motorvision+.skyde">
+<programme start="20260318023000 +0000" stop="20260318031500 +0000" channel="Motorvision+.skyde">
     <title>Magazin</title>
 </programme>
-<programme start="20260318031000 +0000" stop="20260318033500 +0000" channel="Motorvision+.skyde">
+<programme start="20260318031500 +0000" stop="20260318034000 +0000" channel="Motorvision+.skyde">
     <title>Top Speed Classic</title>
 </programme>
-<programme start="20260318033500 +0000" stop="20260318040500 +0000" channel="Motorvision+.skyde">
+<programme start="20260318034000 +0000" stop="20260318040500 +0000" channel="Motorvision+.skyde">
     <title>Gearing Up 2023</title>
 </programme>
 <programme start="20260318040500 +0000" stop="20260318043000 +0000" channel="Motorvision+.skyde">
@@ -1252,64 +1252,64 @@
 <programme start="20260318050000 +0000" stop="20260318054500 +0000" channel="Motorvision+.skyde">
     <title>Report</title>
 </programme>
-<programme start="20260318054500 +0000" stop="20260318061500 +0000" channel="Motorvision+.skyde">
+<programme start="20260318054500 +0000" stop="20260318061000 +0000" channel="Motorvision+.skyde">
     <title>Abenteuer Allrad</title>
 </programme>
-<programme start="20260318061500 +0000" stop="20260318064000 +0000" channel="Motorvision+.skyde">
+<programme start="20260318061000 +0000" stop="20260318064000 +0000" channel="Motorvision+.skyde">
     <title>Bike World 2024</title>
 </programme>
-<programme start="20260318064000 +0000" stop="20260318073000 +0000" channel="Motorvision+.skyde">
+<programme start="20260318064000 +0000" stop="20260318072500 +0000" channel="Motorvision+.skyde">
     <title>King of the Roads 2024</title>
 </programme>
-<programme start="20260318073000 +0000" stop="20260318075500 +0000" channel="Motorvision+.skyde">
+<programme start="20260318072500 +0000" stop="20260318075500 +0000" channel="Motorvision+.skyde">
     <title>Biker Lifestyle</title>
 </programme>
-<programme start="20260318075500 +0000" stop="20260318082500 +0000" channel="Motorvision+.skyde">
+<programme start="20260318075500 +0000" stop="20260318082000 +0000" channel="Motorvision+.skyde">
     <title>Classic</title>
 </programme>
-<programme start="20260318082500 +0000" stop="20260318085000 +0000" channel="Motorvision+.skyde">
+<programme start="20260318082000 +0000" stop="20260318084500 +0000" channel="Motorvision+.skyde">
     <title>Classic Ride</title>
 </programme>
-<programme start="20260318085000 +0000" stop="20260318091500 +0000" channel="Motorvision+.skyde">
+<programme start="20260318084500 +0000" stop="20260318091000 +0000" channel="Motorvision+.skyde">
     <title>Crash</title>
 </programme>
-<programme start="20260318091500 +0000" stop="20260318094500 +0000" channel="Motorvision+.skyde">
+<programme start="20260318091000 +0000" stop="20260318094000 +0000" channel="Motorvision+.skyde">
     <title>Made in....</title>
 </programme>
-<programme start="20260318094500 +0000" stop="20260318101000 +0000" channel="Motorvision+.skyde">
+<programme start="20260318094000 +0000" stop="20260318101000 +0000" channel="Motorvision+.skyde">
     <title>Top Speed Classic</title>
 </programme>
 <programme start="20260318101000 +0000" stop="20260318104000 +0000" channel="Motorvision+.skyde">
     <title>Car History</title>
 </programme>
-<programme start="20260318104000 +0000" stop="20260318111000 +0000" channel="Motorvision+.skyde">
+<programme start="20260318104000 +0000" stop="20260318110500 +0000" channel="Motorvision+.skyde">
     <title>FastZone 2024</title>
 </programme>
-<programme start="20260318111000 +0000" stop="20260318114000 +0000" channel="Motorvision+.skyde">
+<programme start="20260318110500 +0000" stop="20260318114000 +0000" channel="Motorvision+.skyde">
     <title>FIM World Motocross Championship 2024</title>
 </programme>
 <programme start="20260318114000 +0000" stop="20260318120500 +0000" channel="Motorvision+.skyde">
     <title>Perfect Ride</title>
 </programme>
-<programme start="20260318120500 +0000" stop="20260318123500 +0000" channel="Motorvision+.skyde">
+<programme start="20260318120500 +0000" stop="20260318124000 +0000" channel="Motorvision+.skyde">
     <title>Stunt Heroes</title>
 </programme>
-<programme start="20260318123500 +0000" stop="20260318130500 +0000" channel="Motorvision+.skyde">
+<programme start="20260318124000 +0000" stop="20260318130500 +0000" channel="Motorvision+.skyde">
     <title>Dream Cars</title>
 </programme>
-<programme start="20260318130500 +0000" stop="20260318133000 +0000" channel="Motorvision+.skyde">
+<programme start="20260318130500 +0000" stop="20260318133500 +0000" channel="Motorvision+.skyde">
     <title>Gearing Up 2023</title>
 </programme>
-<programme start="20260318133000 +0000" stop="20260318140000 +0000" channel="Motorvision+.skyde">
+<programme start="20260318133500 +0000" stop="20260318140500 +0000" channel="Motorvision+.skyde">
     <title>Grüne Welle</title>
 </programme>
-<programme start="20260318140000 +0000" stop="20260318145000 +0000" channel="Motorvision+.skyde">
+<programme start="20260318140500 +0000" stop="20260318145000 +0000" channel="Motorvision+.skyde">
     <title>Australian Drag Racing Championship 2022</title>
 </programme>
-<programme start="20260318145000 +0000" stop="20260318151500 +0000" channel="Motorvision+.skyde">
+<programme start="20260318145000 +0000" stop="20260318152000 +0000" channel="Motorvision+.skyde">
     <title>Biker Lifestyle</title>
 </programme>
-<programme start="20260318151500 +0000" stop="20260318154500 +0000" channel="Motorvision+.skyde">
+<programme start="20260318152000 +0000" stop="20260318154500 +0000" channel="Motorvision+.skyde">
     <title>Gearing Up 2025</title>
 </programme>
 <programme start="20260318154500 +0000" stop="20260318161500 +0000" channel="Motorvision+.skyde">
@@ -1318,37 +1318,31 @@
 <programme start="20260318161500 +0000" stop="20260318164500 +0000" channel="Motorvision+.skyde">
     <title>Alpen Marathon</title>
 </programme>
-<programme start="20260318164500 +0000" stop="20260318171000 +0000" channel="Motorvision+.skyde">
+<programme start="20260318164500 +0000" stop="20260318171500 +0000" channel="Motorvision+.skyde">
     <title>Bike World 2024</title>
 </programme>
-<programme start="20260318171000 +0000" stop="20260318174000 +0000" channel="Motorvision+.skyde">
+<programme start="20260318171500 +0000" stop="20260318174500 +0000" channel="Motorvision+.skyde">
     <title>Perfect Ride</title>
 </programme>
-<programme start="20260318174000 +0000" stop="20260318181000 +0000" channel="Motorvision+.skyde">
+<programme start="20260318174500 +0000" stop="20260318181500 +0000" channel="Motorvision+.skyde">
     <title>Super Cars</title>
 </programme>
-<programme start="20260318181000 +0000" stop="20260318190000 +0000" channel="Motorvision+.skyde">
+<programme start="20260318181500 +0000" stop="20260318190000 +0000" channel="Motorvision+.skyde">
     <title>Road Wars Staffel 7</title>
 </programme>
-<programme start="20260318190000 +0000" stop="20260318194500 +0000" channel="Motorvision+.skyde">
+<programme start="20260318190000 +0000" stop="20260318195000 +0000" channel="Motorvision+.skyde">
     <title>King of the Roads 2024</title>
 </programme>
-<programme start="20260318194500 +0000" stop="20260318203500 +0000" channel="Motorvision+.skyde">
-    <title>Australian Boat Racing 2025</title>
-</programme>
-<programme start="20260318203500 +0000" stop="20260318212000 +0000" channel="Motorvision+.skyde">
-    <title>Australian Circuit Boat Racing 2024</title>
-</programme>
-<programme start="20260318212000 +0000" stop="20260318214500 +0000" channel="Motorvision+.skyde">
+<programme start="20260318213000 +0000" stop="20260318220000 +0000" channel="Motorvision+.skyde">
     <title>UIM F1H2O World Powerboat Championship 2025</title>
 </programme>
-<programme start="20260318214500 +0000" stop="20260318221000 +0000" channel="Motorvision+.skyde">
+<programme start="20260318220000 +0000" stop="20260318222500 +0000" channel="Motorvision+.skyde">
     <title>P1 Offshore Championship 2024</title>
 </programme>
-<programme start="20260318221000 +0000" stop="20260318224000 +0000" channel="Motorvision+.skyde">
+<programme start="20260318222500 +0000" stop="20260318225500 +0000" channel="Motorvision+.skyde">
     <title>UIM Aquabike World Championship 2024</title>
 </programme>
-<programme start="20260318224000 +0000" stop="20260318230500 +0000" channel="Motorvision+.skyde">
+<programme start="20260318225500 +0000" stop="20260318232000 +0000" channel="Motorvision+.skyde">
     <title>P1 Class 1 Offshore Championship 2024</title>
 </programme>
 <programme start="20260317230000 +0000" stop="20260317232000 +0000" channel="Nick Jr..skyde">
@@ -2617,7 +2611,7 @@
 <programme start="20260318150500 +0000" stop="20260318152500 +0000" channel="Sky Sport Austria 2 HD.skyde">
     <title>Es folgt: Live UEFA Champions League</title>
 </programme>
-<programme start="20260318152500 +0000" stop="20260318173000 +0000" channel="Sky Sport Austria 2 HD.skyde">
+<programme start="20260318152500 +0000" stop="20260318184000 +0000" channel="Sky Sport Austria 2 HD.skyde">
     <title>Live UEFA EL: SC Braga - Ferencváros Budapest, Achtelfinale Rückspiel</title>
 </programme>
 <programme start="20260318184000 +0000" stop="20260318190000 +0000" channel="Sky Sport Austria 2 HD.skyde">
@@ -2626,7 +2620,7 @@
 <programme start="20260318190000 +0000" stop="20260318195000 +0000" channel="Sky Sport Austria 2 HD.skyde">
     <title>Live Die UEFA CL am Mittwoch: Vorbericht</title>
 </programme>
-<programme start="20260318195000 +0000" stop="20260318221500 +0000" channel="Sky Sport Austria 2 HD.skyde">
+<programme start="20260318195000 +0000" stop="20260318230000 +0000" channel="Sky Sport Austria 2 HD.skyde">
     <title>Live UEFA CL: FC Bayern München - Atalanta Bergamo, Achtelfinale Rückspiel, Mittwoch</title>
 </programme>
 <programme start="20260318193000 +0000" stop="20260318195000 +0000" channel="Sky Sport Austria 3 HD.skyde">
@@ -2893,7 +2887,7 @@
 <programme start="20260318170000 +0000" stop="20260318173500 +0000" channel="Sky Sport Austria 4 HD.skyde">
     <title>Live Die UEFA CL am Mittwoch: Vorbericht</title>
 </programme>
-<programme start="20260318173500 +0000" stop="20260318195000 +0000" channel="Sky Sport Austria 4 HD.skyde">
+<programme start="20260318173500 +0000" stop="20260318210000 +0000" channel="Sky Sport Austria 4 HD.skyde">
     <title>Live UEFA CL: FC Barcelona - Newcastle United, Achtelfinale Rückspiel, Mittwoch</title>
 </programme>
 <programme start="20260318144000 +0000" stop="20260318150000 +0000" channel="Sky Sport Austria 5 HD.skyde">
@@ -3433,13 +3427,13 @@
 <programme start="20260317230000 +0000" stop="20260318000000 +0000" channel="Sky Sport 1 HD.skyde">
     <title>Live NBA: Showtime</title>
 </programme>
-<programme start="20260318000000 +0000" stop="20260318090000 +0000" channel="Sky Sport 1 HD.skyde">
+<programme start="20260318000000 +0000" stop="20260318030000 +0000" channel="Sky Sport 1 HD.skyde">
     <title>Live NBA: Cleveland Cavaliers @ Milwaukee Bucks</title>
 </programme>
-<programme start="20260318144000 +0000" stop="20260318150000 +0000" channel="Sky Sport 1 HD.skyde">
+<programme start="20260318154000 +0000" stop="20260318160000 +0000" channel="Sky Sport 1 HD.skyde">
     <title>Es folgt: Live Tennis WTA Tour</title>
 </programme>
-<programme start="20260318150000 +0000" stop="20260319010000 +0000" channel="Sky Sport 1 HD.skyde">
+<programme start="20260318160000 +0000" stop="20260319090000 +0000" channel="Sky Sport 1 HD.skyde">
     <title>Live WTA 1000: Miami Open presented by Itaú in Miami, Florida (USA), 2. Tag</title>
 </programme>
 <programme start="20260318020000 +0000" stop="20260318050000 +0000" channel="Sky Sport 2 HD.skyde">

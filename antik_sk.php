@@ -4564,6 +4564,102 @@
   <programme start="20260320221500 +0000" stop="20260321025000 +0000" channel="Barrandov Krimi.webtv.sk">
     <title lang="id">Aféry - neuvěřitelné životní příběhy</title>
   </programme>
+  <programme start="20260319214000 +0000" stop="20260319234500 +0000" channel="A11.webtv.sk">
+    <title lang="id">Na návštěvě u známých</title>
+  </programme>
+  <programme start="20260319234500 +0000" stop="20260320015500 +0000" channel="A11.webtv.sk">
+    <title lang="id">Dobrý večer s A11</title>
+  </programme>
+  <programme start="20260320015500 +0000" stop="20260320022000 +0000" channel="A11.webtv.sk">
+    <title lang="id">A11 rozhovor</title>
+  </programme>
+  <programme start="20260320022000 +0000" stop="20260320034000 +0000" channel="A11.webtv.sk">
+    <title lang="id">Hvězdná kavárna Pepy Melena</title>
+  </programme>
+  <programme start="20260320034000 +0000" stop="20260320040000 +0000" channel="A11.webtv.sk">
+    <title lang="id">S ženskou za kniplem</title>
+  </programme>
+  <programme start="20260320040000 +0000" stop="20260320044500 +0000" channel="A11.webtv.sk">
+    <title lang="id">Vtipkování</title>
+  </programme>
+  <programme start="20260320044500 +0000" stop="20260320051500 +0000" channel="A11.webtv.sk">
+    <title lang="id">A11 rozhovor</title>
+  </programme>
+  <programme start="20260320051500 +0000" stop="20260320054000 +0000" channel="A11.webtv.sk">
+    <title lang="id">Občanská sebeobrana Josefa Klímy</title>
+  </programme>
+  <programme start="20260320054000 +0000" stop="20260320060000 +0000" channel="A11.webtv.sk">
+    <title lang="id">O letadlech a létání</title>
+  </programme>
+  <programme start="20260320060000 +0000" stop="20260320061000 +0000" channel="A11.webtv.sk">
+    <title lang="id">Petrovický zpravodaj</title>
+  </programme>
+  <programme start="20260320061000 +0000" stop="20260320063000 +0000" channel="A11.webtv.sk">
+    <title lang="id">Magazín z Orlickoústecka</title>
+  </programme>
+  <programme start="20260320063000 +0000" stop="20260320070000 +0000" channel="A11.webtv.sk">
+    <title lang="id">Magazín z Prostějova</title>
+  </programme>
+  <programme start="20260320070000 +0000" stop="20260320091000 +0000" channel="A11.webtv.sk">
+    <title lang="id">Dobrý večer s A11</title>
+  </programme>
+  <programme start="20260320091000 +0000" stop="20260320092000 +0000" channel="A11.webtv.sk">
+    <title lang="id">Teleshopping</title>
+  </programme>
+  <programme start="20260320092000 +0000" stop="20260320094500 +0000" channel="A11.webtv.sk">
+    <title lang="id">Putování v regionech</title>
+  </programme>
+  <programme start="20260320094500 +0000" stop="20260320095500 +0000" channel="A11.webtv.sk">
+    <title lang="id">Řemesla</title>
+  </programme>
+  <programme start="20260320095500 +0000" stop="20260320101000 +0000" channel="A11.webtv.sk">
+    <title lang="id">Řemesla</title>
+  </programme>
+  <programme start="20260320101000 +0000" stop="20260320110500 +0000" channel="A11.webtv.sk">
+    <title lang="id">Co vy na to!?</title>
+  </programme>
+  <programme start="20260320110500 +0000" stop="20260320115000 +0000" channel="A11.webtv.sk">
+    <title lang="id">Pozor vlak</title>
+  </programme>
+  <programme start="20260320115000 +0000" stop="20260320122000 +0000" channel="A11.webtv.sk">
+    <title lang="id">A11 rozhovor</title>
+  </programme>
+  <programme start="20260320122000 +0000" stop="20260320131500 +0000" channel="A11.webtv.sk">
+    <title lang="id">Mladý Svět</title>
+  </programme>
+  <programme start="20260320131500 +0000" stop="20260320133500 +0000" channel="A11.webtv.sk">
+    <title lang="id">Putování v regionech</title>
+  </programme>
+  <programme start="20260320133500 +0000" stop="20260320140500 +0000" channel="A11.webtv.sk">
+    <title lang="id">WESTcast</title>
+  </programme>
+  <programme start="20260320140500 +0000" stop="20260320145000 +0000" channel="A11.webtv.sk">
+    <title lang="id">Vaření s Davidem</title>
+  </programme>
+  <programme start="20260320145000 +0000" stop="20260320150000 +0000" channel="A11.webtv.sk">
+    <title lang="id">Olomoucký krajský zpravodaj</title>
+  </programme>
+  <programme start="20260320150000 +0000" stop="20260320154500 +0000" channel="A11.webtv.sk">
+    <title lang="id">Pozor vlak</title>
+  </programme>
+  <programme start="20260320154500 +0000" stop="20260320163000 +0000" channel="A11.webtv.sk">
+    <title lang="id">Vtipkování</title>
+  </programme>
+  <programme start="20260320163000 +0000" stop="20260320170000 +0000" channel="A11.webtv.sk">
+    <title lang="id">A11 rozhovor</title>
+  </programme>
+  <programme start="20260320170000 +0000" stop="20260320191500 +0000" channel="A11.webtv.sk">
+    <title lang="id">Dobrý večer s A11</title>
+  </programme>
+  <programme start="20260320191500 +0000" stop="20260320200000 +0000" channel="A11.webtv.sk">
+    <title lang="id">Ztráty a nálezy Michala Jančaříka</title>
+  </programme>
+  <programme start="20260320200000 +0000" stop="20260320220500 +0000" channel="A11.webtv.sk">
+    <title lang="id">Dobrý večer s Vrtulníkem</title>
+  </programme>
+  <programme start="20260320220500 +0000" stop="20260320230000 +0000" channel="A11.webtv.sk">
+    <title lang="id">Mladý Svět</title>
+  </programme>
   <programme start="20260319230000 +0000" stop="20260319233000 +0000" channel="Fashion TV Czech & Slovak.webtv.sk">
     <title lang="id">Lingerie</title>
   </programme>
