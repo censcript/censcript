@@ -2617,11 +2617,11 @@
 <programme start="20260318150500 +0000" stop="20260318152500 +0000" channel="Sky Sport Austria 2 HD.skyde">
     <title>Es folgt: Live UEFA Champions League</title>
 </programme>
-<programme start="20260318152500 +0000" stop="20260318184000 +0000" channel="Sky Sport Austria 2 HD.skyde">
+<programme start="20260318152500 +0000" stop="20260318173500 +0000" channel="Sky Sport Austria 2 HD.skyde">
     <title>Live UEFA EL: SC Braga - Ferencváros Budapest, Achtelfinale Rückspiel</title>
 </programme>
-<programme start="20260318184000 +0000" stop="20260318190000 +0000" channel="Sky Sport Austria 2 HD.skyde">
-    <title>Es folgt: Live UEFA Champions League</title>
+<programme start="20260318173500 +0000" stop="20260318190000 +0000" channel="Sky Sport Austria 2 HD.skyde">
+    <title>Es folgt ab 20:00: LIVE UEFA Champions League</title>
 </programme>
 <programme start="20260318190000 +0000" stop="20260318195000 +0000" channel="Sky Sport Austria 2 HD.skyde">
     <title>Live Die UEFA CL am Mittwoch: Vorbericht</title>
@@ -2896,10 +2896,10 @@
 <programme start="20260318173500 +0000" stop="20260318210000 +0000" channel="Sky Sport Austria 4 HD.skyde">
     <title>Live UEFA CL: FC Barcelona - Newcastle United, Achtelfinale Rückspiel, Mittwoch</title>
 </programme>
-<programme start="20260318144000 +0000" stop="20260318150000 +0000" channel="Sky Sport Austria 5 HD.skyde">
+<programme start="20260318154000 +0000" stop="20260318160000 +0000" channel="Sky Sport Austria 5 HD.skyde">
     <title>Es folgt: LIVE Tennis WTA</title>
 </programme>
-<programme start="20260318150000 +0000" stop="20260319090000 +0000" channel="Sky Sport Austria 5 HD.skyde">
+<programme start="20260318160000 +0000" stop="20260319090000 +0000" channel="Sky Sport Austria 5 HD.skyde">
     <title>Live WTA 1000: Miami Open presented by Itaú in Miami, Florida (USA), 2. Tag</title>
 </programme>
 <programme start="20260317230000 +0000" stop="20260318000000 +0000" channel="Sky Sport Bundesliga HD.skyde">
@@ -3433,7 +3433,7 @@
 <programme start="20260317230000 +0000" stop="20260318000000 +0000" channel="Sky Sport 1 HD.skyde">
     <title>Live NBA: Showtime</title>
 </programme>
-<programme start="20260318000000 +0000" stop="20260318030000 +0000" channel="Sky Sport 1 HD.skyde">
+<programme start="20260318000000 +0000" stop="20260318090000 +0000" channel="Sky Sport 1 HD.skyde">
     <title>Live NBA: Cleveland Cavaliers @ Milwaukee Bucks</title>
 </programme>
 <programme start="20260318144000 +0000" stop="20260318150000 +0000" channel="Sky Sport 1 HD.skyde">
@@ -3695,6 +3695,42 @@
     <title>Test SPORT 03 with BO-AU</title>
 </programme>
 <programme start="20260318155500 +0000" stop="20260318160000 +0000" channel="Sky Sport 3 HD.skyde">
+    <title>Test SPORT 03 with BO-ALLGEMEIN</title>
+</programme>
+<programme start="20260318160000 +0000" stop="20260318160500 +0000" channel="Sky Sport 3 HD.skyde">
+    <title>Test Sport 03</title>
+</programme>
+<programme start="20260318160500 +0000" stop="20260318161000 +0000" channel="Sky Sport 3 HD.skyde">
+    <title>Test Sport 03 with BO-DE</title>
+</programme>
+<programme start="20260318161000 +0000" stop="20260318161500 +0000" channel="Sky Sport 3 HD.skyde">
+    <title>Test SPORT 03 with BO-AU</title>
+</programme>
+<programme start="20260318161500 +0000" stop="20260318162000 +0000" channel="Sky Sport 3 HD.skyde">
+    <title>Test SPORT 03 with BO-ALLGEMEIN</title>
+</programme>
+<programme start="20260318162000 +0000" stop="20260318162500 +0000" channel="Sky Sport 3 HD.skyde">
+    <title>Test Sport 03</title>
+</programme>
+<programme start="20260318162500 +0000" stop="20260318163000 +0000" channel="Sky Sport 3 HD.skyde">
+    <title>Test Sport 03 with BO-DE</title>
+</programme>
+<programme start="20260318163000 +0000" stop="20260318163500 +0000" channel="Sky Sport 3 HD.skyde">
+    <title>Test SPORT 03 with BO-AU</title>
+</programme>
+<programme start="20260318163500 +0000" stop="20260318164000 +0000" channel="Sky Sport 3 HD.skyde">
+    <title>Test SPORT 03 with BO-ALLGEMEIN</title>
+</programme>
+<programme start="20260318164000 +0000" stop="20260318164500 +0000" channel="Sky Sport 3 HD.skyde">
+    <title>Test Sport 03</title>
+</programme>
+<programme start="20260318164500 +0000" stop="20260318165000 +0000" channel="Sky Sport 3 HD.skyde">
+    <title>Test Sport 03 with BO-DE</title>
+</programme>
+<programme start="20260318165000 +0000" stop="20260318165500 +0000" channel="Sky Sport 3 HD.skyde">
+    <title>Test SPORT 03 with BO-AU</title>
+</programme>
+<programme start="20260318165500 +0000" stop="20260318170000 +0000" channel="Sky Sport 3 HD.skyde">
     <title>Test SPORT 03 with BO-ALLGEMEIN</title>
 </programme>
 <programme start="20260317230000 +0000" stop="20260317234500 +0000" channel="SYFY HD.skyde">

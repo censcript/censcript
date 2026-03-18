@@ -178,18 +178,6 @@
     <title>Football: AS Roma - Bologna (L)</title>
     <desc>Live: Ya</desc>
 </programme>
-<programme start="20260319010000 +0700" stop="20260319031000 +0700" channel="COSMOTE Sport 4 HD">
-    <title>Basketball: Alba Berlin - AEK (L)</title>
-    <desc>Live: Ya</desc>
-</programme>
-<programme start="20260319031000 +0700" stop="20260319033000 +0700" channel="COSMOTE Sport 4 HD">
-    <title>ACB Liga Endesa 2024-25 - Fifth Quarter E22</title>
-    <desc>Live: Tidak</desc>
-</programme>
-<programme start="20260319033000 +0700" stop="20260319035500 +0700" channel="COSMOTE Sport 4 HD">
-    <title>NBA Specials</title>
-    <desc>Live: Tidak</desc>
-</programme>
 <programme start="20260319035500 +0700" stop="20260319060000 +0700" channel="COSMOTE Sport 4 HD">
     <title>Basketball: Alba Berlin - AEK</title>
     <desc>Live: Tidak</desc>
@@ -366,10 +354,6 @@
     <title>Tennis: ATP Masters 1000 2026 (L)</title>
     <desc>Live: Ya</desc>
 </programme>
-<programme start="20260319030000 +0700" stop="20260319033000 +0700" channel="COSMOTE Sport 7 HD">
-    <title>PostGame (L)</title>
-    <desc>Live: Ya</desc>
-</programme>
 <programme start="20260319033000 +0700" stop="20260319043000 +0700" channel="COSMOTE Sport 7 HD">
     <title>COSMOTESport7HD</title>
     <desc>Live: Tidak</desc>
@@ -434,10 +418,6 @@
     <title>Football: Aston Villa - Lille OSC (L)</title>
     <desc>Live: Ya</desc>
 </programme>
-<programme start="20260319025000 +0700" stop="20260319040000 +0700" channel="COSMOTE Sport 8 HD">
-    <title>COSMOTESport8HD</title>
-    <desc>Live: Tidak</desc>
-</programme>
 <programme start="20260319040000 +0700" stop="20260319050000 +0700" channel="COSMOTE Sport 8 HD">
     <title>COSMOTESport8HD</title>
     <desc>Live: Tidak</desc>
@@ -496,10 +476,6 @@
 </programme>
 <programme start="20260320030000 +0700" stop="20260320050500 +0700" channel="COSMOTE Sport 8 HD">
     <title>Football: Rayo Vallecano de Madrid - Samsunspor (L)</title>
-    <desc>Live: Ya</desc>
-</programme>
-<programme start="20260319020000 +0700" stop="20260319040000 +0700" channel="COSMOTE Sport 9 HD">
-    <title>Football: Al-Kholood - Al Ittihad (L)</title>
     <desc>Live: Ya</desc>
 </programme>
 <programme start="20260319040000 +0700" stop="20260319043000 +0700" channel="COSMOTE Sport 9 HD">

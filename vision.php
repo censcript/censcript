@@ -673,6 +673,15 @@
 <programme start="20260318090000 +0000" stop="20260318110000 +0000" channel="ANTV.vision">
 <title>Vasudha</title>
 </programme>
+<programme start="20260318110000 +0000" stop="20260318130000 +0000" channel="ANTV.vision">
+<title>Tarzan Penunggu Harta Karun</title>
+</programme>
+<programme start="20260318130000 +0000" stop="20260318150000 +0000" channel="ANTV.vision">
+<title>Si Rawing 2</title>
+</programme>
+<programme start="20260318150000 +0000" stop="20260318170000 +0000" channel="ANTV.vision">
+<title>Lupa Aturan Main</title>
+</programme>
 <programme start="20260318170000 +0000" stop="20260318183000 +0000" channel="ANTV.vision">
 <title>Happy Ghost 3</title>
 </programme>
@@ -1488,13 +1497,4 @@
 </programme>
 <programme start="20260319003000 +0000" stop="20260319010000 +0000" channel="BTV.vision">
 <title>Figur Publik</title>
-</programme>
-<programme start="20260319010000 +0000" stop="20260319010500 +0000" channel="BTV.vision">
-<title>Berita Satu Terkini</title>
-</programme>
-<programme start="20260319010500 +0000" stop="20260319011500 +0000" channel="BTV.vision">
-<title>Figur Publik</title>
-</programme>
-<programme start="20260319011500 +0000" stop="20260319014500 +0000" channel="BTV.vision">
-<title>Kuyliner</title>
 </programme>
