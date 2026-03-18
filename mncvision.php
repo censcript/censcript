@@ -1759,7 +1759,156 @@
 <programme start="20260319152500 +0000" stop="20260319155500 +0000" channel="BUDDY STARS HD.mncvision">
     <title>Legends Of Oz: Dorothy Return</title>
 </programme>
-Error: Unable to fetch data. HTTP Status Code: 500
+<programme start="20260318170000 +0000" stop="20260318170700 +0000" channel="CBeebies.mncvision">
+    <title>Hey Duggee S5, Ep 8</title>
+</programme>
+<programme start="20260318170700 +0000" stop="20260318171500 +0000" channel="CBeebies.mncvision">
+    <title>Hey Duggee S5, Ep 7</title>
+</programme>
+<programme start="20260318171500 +0000" stop="20260318172200 +0000" channel="CBeebies.mncvision">
+    <title>Hey Duggee&#039;s Squirrel..., Ep 6</title>
+</programme>
+<programme start="20260318172200 +0000" stop="20260318173000 +0000" channel="CBeebies.mncvision">
+    <title>Hey Duggee&#039;s Squirrel..., Ep 7</title>
+</programme>
+<programme start="20260318173000 +0000" stop="20260318174500 +0000" channel="CBeebies.mncvision">
+    <title>Go Jetters S2, Ep 51</title>
+</programme>
+<programme start="20260318174500 +0000" stop="20260318175200 +0000" channel="CBeebies.mncvision">
+    <title>Bluey S1, Ep 19</title>
+</programme>
+<programme start="20260318175200 +0000" stop="20260318180000 +0000" channel="CBeebies.mncvision">
+    <title>Bluey S2, Ep 22</title>
+</programme>
+<programme start="20260318180000 +0000" stop="20260318180700 +0000" channel="CBeebies.mncvision">
+    <title>Bluey S3, Ep 33</title>
+</programme>
+<programme start="20260318180700 +0000" stop="20260318181500 +0000" channel="CBeebies.mncvision">
+    <title>Bluey S3, Ep 34</title>
+</programme>
+<programme start="20260318181500 +0000" stop="20260318183000 +0000" channel="CBeebies.mncvision">
+    <title>Andy&#039;s Aquatic Adv. S1, Ep 7</title>
+</programme>
+<programme start="20260318183000 +0000" stop="20260318185500 +0000" channel="CBeebies.mncvision">
+    <title>Playtime Towers S1, Ep 3</title>
+</programme>
+<programme start="20260318185500 +0000" stop="20260318190200 +0000" channel="CBeebies.mncvision">
+    <title>Hey Duggee S4, Ep 35</title>
+</programme>
+<programme start="20260318190200 +0000" stop="20260318190900 +0000" channel="CBeebies.mncvision">
+    <title>Hey Duggee S4, Ep 34</title>
+</programme>
+<programme start="20260318190900 +0000" stop="20260318191500 +0000" channel="CBeebies.mncvision">
+    <title>Hey Duggee S4, Ep 33</title>
+</programme>
+<programme start="20260318191500 +0000" stop="20260318192500 +0000" channel="CBeebies.mncvision">
+    <title>Go Jetters S2, Ep 5</title>
+</programme>
+<programme start="20260318192500 +0000" stop="20260318194000 +0000" channel="CBeebies.mncvision">
+    <title>Go Jetters S2, Ep 4</title>
+</programme>
+<programme start="20260318194000 +0000" stop="20260318195000 +0000" channel="CBeebies.mncvision">
+    <title>Thomas &amp; Friends S24, Ep 13</title>
+</programme>
+<programme start="20260318195000 +0000" stop="20260318195700 +0000" channel="CBeebies.mncvision">
+    <title>Sarah And Duck S3, Ep 32</title>
+</programme>
+<programme start="20260318195700 +0000" stop="20260318200500 +0000" channel="CBeebies.mncvision">
+    <title>Sarah And Duck S3, Ep 34</title>
+</programme>
+<programme start="20260318200500 +0000" stop="20260318201100 +0000" channel="CBeebies.mncvision">
+    <title>Stan Can S1, Ep 7</title>
+</programme>
+<programme start="20260318201100 +0000" stop="20260318202000 +0000" channel="CBeebies.mncvision">
+    <title>Stan Can S1, Ep 6</title>
+</programme>
+<programme start="20260318202000 +0000" stop="20260318202500 +0000" channel="CBeebies.mncvision">
+    <title>Number 1 Newton Avenue, Ep 6</title>
+</programme>
+<programme start="20260318202500 +0000" stop="20260318203800 +0000" channel="CBeebies.mncvision">
+    <title>Jojo &amp; Gran Gran S3, Ep 17</title>
+</programme>
+<programme start="20260318203800 +0000" stop="20260318204500 +0000" channel="CBeebies.mncvision">
+    <title>Bluey S3, Ep 16</title>
+</programme>
+<programme start="20260318204500 +0000" stop="20260318205000 +0000" channel="CBeebies.mncvision">
+    <title>Bluey S3, Ep 17</title>
+</programme>
+<programme start="20260318205000 +0000" stop="20260318210000 +0000" channel="CBeebies.mncvision">
+    <title>Bluey S3, Ep 18</title>
+</programme>
+<programme start="20260318210000 +0000" stop="20260318210700 +0000" channel="CBeebies.mncvision">
+    <title>Hey Duggee S2, Ep 22</title>
+</programme>
+<programme start="20260318210700 +0000" stop="20260318211400 +0000" channel="CBeebies.mncvision">
+    <title>Hey Duggee S2, Ep 21</title>
+</programme>
+<programme start="20260318211400 +0000" stop="20260318212000 +0000" channel="CBeebies.mncvision">
+    <title>Hey Duggee&#039;s Squirrel..., Ep 13</title>
+</programme>
+<programme start="20260318212000 +0000" stop="20260318213000 +0000" channel="CBeebies.mncvision">
+    <title>Go Jetters S2, Ep 35</title>
+</programme>
+<programme start="20260318213000 +0000" stop="20260318213500 +0000" channel="CBeebies.mncvision">
+    <title>Roots &amp; Fruits S1, Ep 11</title>
+</programme>
+<programme start="20260318213500 +0000" stop="20260318214500 +0000" channel="CBeebies.mncvision">
+    <title>Roots &amp; Fruits S1, Ep 10</title>
+</programme>
+<programme start="20260318214500 +0000" stop="20260318215200 +0000" channel="CBeebies.mncvision">
+    <title>Supertato S1, Ep 20</title>
+</programme>
+<programme start="20260318215200 +0000" stop="20260318220000 +0000" channel="CBeebies.mncvision">
+    <title>Supertato S1, Ep 21</title>
+</programme>
+<programme start="20260318220000 +0000" stop="20260318221000 +0000" channel="CBeebies.mncvision">
+    <title>Teletubbies S1, Ep 64</title>
+</programme>
+<programme start="20260318221000 +0000" stop="20260318221500 +0000" channel="CBeebies.mncvision">
+    <title>Yakka Dee S2, Ep 18</title>
+</programme>
+<programme start="20260318221500 +0000" stop="20260318222500 +0000" channel="CBeebies.mncvision">
+    <title>Messy Goes To Okido S3, Ep 14</title>
+</programme>
+<programme start="20260318222500 +0000" stop="20260318224000 +0000" channel="CBeebies.mncvision">
+    <title>Mojo Swoptops S1, Ep 4</title>
+</programme>
+<programme start="20260318224000 +0000" stop="20260318224700 +0000" channel="CBeebies.mncvision">
+    <title>Bluey S3, Ep 22</title>
+</programme>
+<programme start="20260318224700 +0000" stop="20260318230000 +0000" channel="CBeebies.mncvision">
+    <title>Bluey S3, Ep 21</title>
+</programme>
+<programme start="20260318230000 +0000" stop="20260318230700 +0000" channel="CBeebies.mncvision">
+    <title>Hey Duggee S5, Ep 9</title>
+</programme>
+<programme start="20260318230700 +0000" stop="20260318231500 +0000" channel="CBeebies.mncvision">
+    <title>Hey Duggee S5, Ep 8</title>
+</programme>
+<programme start="20260318231500 +0000" stop="20260318232200 +0000" channel="CBeebies.mncvision">
+    <title>Hey Duggee&#039;s Squirrel..., Ep 7</title>
+</programme>
+<programme start="20260318232200 +0000" stop="20260318233000 +0000" channel="CBeebies.mncvision">
+    <title>Hey Duggee&#039;s Squirrel..., Ep 8</title>
+</programme>
+<programme start="20260318233000 +0000" stop="20260318234500 +0000" channel="CBeebies.mncvision">
+    <title>Go Jetters S2, Ep 52</title>
+</programme>
+<programme start="20260318234500 +0000" stop="20260318235200 +0000" channel="CBeebies.mncvision">
+    <title>Bluey S1, Ep 20</title>
+</programme>
+<programme start="20260318235200 +0000" stop="20260319000000 +0000" channel="CBeebies.mncvision">
+    <title>Bluey S2, Ep 23</title>
+</programme>
+<programme start="20260319000000 +0000" stop="20260319000700 +0000" channel="CBeebies.mncvision">
+    <title>Bluey S3, Ep 34</title>
+</programme>
+<programme start="20260319000700 +0000" stop="20260319001500 +0000" channel="CBeebies.mncvision">
+    <title>Bluey S3, Ep 35</title>
+</programme>
+<programme start="20260319001500 +0000" stop="20260319004500 +0000" channel="CBeebies.mncvision">
+    <title>Andy&#039;s Aquatic Adv. S1, Ep 8</title>
+</programme>
 <programme start="20260318174500 +0000" stop="20260318191500 +0000" channel="CCM.mncvision">
     <title>Rape Of The Sword</title>
 </programme>

@@ -3772,6 +3772,123 @@
   <programme start="20260320221000 +0000" stop="20260320230000 +0000" channel="ČT :D - ČT art.webtv.sk">
     <title lang="id">Hvězdy stříbrného plátna I</title>
   </programme>
+  <programme start="20260319223000 +0000" stop="20260319231500 +0000" channel="Nova International.webtv.sk">
+    <title lang="id">Ulice (3554)</title>
+  </programme>
+  <programme start="20260319231500 +0000" stop="20260320001500 +0000" channel="Nova International.webtv.sk">
+    <title lang="id">Ordinace v růžové zahradě II (177)</title>
+  </programme>
+  <programme start="20260320001500 +0000" stop="20260320011000 +0000" channel="Nova International.webtv.sk">
+    <title lang="id">Ordinace v růžové zahradě II (178)</title>
+  </programme>
+  <programme start="20260320011000 +0000" stop="20260320015000 +0000" channel="Nova International.webtv.sk">
+    <title lang="id">Televizní noviny</title>
+  </programme>
+  <programme start="20260320015000 +0000" stop="20260320015500 +0000" channel="Nova International.webtv.sk">
+    <title lang="id">Sportovní noviny</title>
+  </programme>
+  <programme start="20260320015500 +0000" stop="20260320020000 +0000" channel="Nova International.webtv.sk">
+    <title lang="id">Počasí</title>
+  </programme>
+  <programme start="20260320020000 +0000" stop="20260320025000 +0000" channel="Nova International.webtv.sk">
+    <title lang="id">Snídaně s Novou</title>
+  </programme>
+  <programme start="20260320025000 +0000" stop="20260320030500 +0000" channel="Nova International.webtv.sk">
+    <title lang="id">Smějeme se s Petrem Rychlým</title>
+  </programme>
+  <programme start="20260320030500 +0000" stop="20260320035500 +0000" channel="Nova International.webtv.sk">
+    <title lang="id">Riskuj!</title>
+  </programme>
+  <programme start="20260320035500 +0000" stop="20260320043000 +0000" channel="Nova International.webtv.sk">
+    <title lang="id">Áčko</title>
+  </programme>
+  <programme start="20260320043000 +0000" stop="20260320050000 +0000" channel="Nova International.webtv.sk">
+    <title lang="id">Kolotoč</title>
+  </programme>
+  <programme start="20260320050000 +0000" stop="20260320072500 +0000" channel="Nova International.webtv.sk">
+    <title lang="id">Snídaně s Novou</title>
+  </programme>
+  <programme start="20260320072500 +0000" stop="20260320075000 +0000" channel="Nova International.webtv.sk">
+    <title lang="id">Babicovy dobroty</title>
+  </programme>
+  <programme start="20260320075000 +0000" stop="20260320084000 +0000" channel="Nova International.webtv.sk">
+    <title lang="id">Ulice (5094)</title>
+  </programme>
+  <programme start="20260320084000 +0000" stop="20260320094500 +0000" channel="Nova International.webtv.sk">
+    <title lang="id">Bratři a sestry (45)</title>
+  </programme>
+  <programme start="20260320094500 +0000" stop="20260320103000 +0000" channel="Nova International.webtv.sk">
+    <title lang="id">Na lovu III</title>
+  </programme>
+  <programme start="20260320103000 +0000" stop="20260320110000 +0000" channel="Nova International.webtv.sk">
+    <title lang="id">Riskuj!</title>
+  </programme>
+  <programme start="20260320110000 +0000" stop="20260320112000 +0000" channel="Nova International.webtv.sk">
+    <title lang="id">Polední Televizní noviny</title>
+  </programme>
+  <programme start="20260320112000 +0000" stop="20260320112400 +0000" channel="Nova International.webtv.sk">
+    <title lang="id">Polední Sportovní noviny</title>
+  </programme>
+  <programme start="20260320112400 +0000" stop="20260320113000 +0000" channel="Nova International.webtv.sk">
+    <title lang="id">Polední Počasí</title>
+  </programme>
+  <programme start="20260320113000 +0000" stop="20260320120000 +0000" channel="Nova International.webtv.sk">
+    <title lang="id">Riskuj!</title>
+  </programme>
+  <programme start="20260320120000 +0000" stop="20260320120500 +0000" channel="Nova International.webtv.sk">
+    <title lang="id">Tescoma s chutí</title>
+  </programme>
+  <programme start="20260320120500 +0000" stop="20260320130500 +0000" channel="Nova International.webtv.sk">
+    <title lang="id">Kriminálka Anděl II (7)</title>
+  </programme>
+  <programme start="20260320130500 +0000" stop="20260320135000 +0000" channel="Nova International.webtv.sk">
+    <title lang="id">Ulice (3555)</title>
+  </programme>
+  <programme start="20260320135000 +0000" stop="20260320145000 +0000" channel="Nova International.webtv.sk">
+    <title lang="id">Ordinace v růžové zahradě II (178)</title>
+  </programme>
+  <programme start="20260320145000 +0000" stop="20260320155500 +0000" channel="Nova International.webtv.sk">
+    <title lang="id">Ordinace v růžové zahradě II (179)</title>
+  </programme>
+  <programme start="20260320155500 +0000" stop="20260320160000 +0000" channel="Nova International.webtv.sk">
+    <title lang="id">Odpolední Počasí</title>
+  </programme>
+  <programme start="20260320160000 +0000" stop="20260320162000 +0000" channel="Nova International.webtv.sk">
+    <title lang="id">Odpolední Televizní noviny</title>
+  </programme>
+  <programme start="20260320162000 +0000" stop="20260320163000 +0000" channel="Nova International.webtv.sk">
+    <title lang="id">Odpolední Sportovní noviny</title>
+  </programme>
+  <programme start="20260320163000 +0000" stop="20260320172500 +0000" channel="Nova International.webtv.sk">
+    <title lang="id">Na lovu III</title>
+  </programme>
+  <programme start="20260320172500 +0000" stop="20260320173500 +0000" channel="Nova International.webtv.sk">
+    <title lang="id">Tescoma s chutí</title>
+  </programme>
+  <programme start="20260320173500 +0000" stop="20260320183000 +0000" channel="Nova International.webtv.sk">
+    <title lang="id">Ulice (5095)</title>
+  </programme>
+  <programme start="20260320183000 +0000" stop="20260320191000 +0000" channel="Nova International.webtv.sk">
+    <title lang="id">Televizní noviny</title>
+  </programme>
+  <programme start="20260320191000 +0000" stop="20260320191500 +0000" channel="Nova International.webtv.sk">
+    <title lang="id">Sportovní noviny</title>
+  </programme>
+  <programme start="20260320191500 +0000" stop="20260320192000 +0000" channel="Nova International.webtv.sk">
+    <title lang="id">Počasí</title>
+  </programme>
+  <programme start="20260320192000 +0000" stop="20260320203000 +0000" channel="Nova International.webtv.sk">
+    <title lang="id">Jedna rodina (35)</title>
+  </programme>
+  <programme start="20260320203000 +0000" stop="20260320214000 +0000" channel="Nova International.webtv.sk">
+    <title lang="id">Jedna rodina (36)</title>
+  </programme>
+  <programme start="20260320214000 +0000" stop="20260320224000 +0000" channel="Nova International.webtv.sk">
+    <title lang="id">Odznak Vysočina (8)</title>
+  </programme>
+  <programme start="20260320224000 +0000" stop="20260320232500 +0000" channel="Nova International.webtv.sk">
+    <title lang="id">Ulice (3555)</title>
+  </programme>
   <programme start="20260319222500 +0000" stop="20260319230500 +0000" channel="Prima SK.webtv.sk">
     <title lang="id">Vychytávky Ládi Hrušky</title>
   </programme>
@@ -5034,63 +5151,6 @@
   </programme>
   <programme start="20260320201500 +0000" stop="20260320230000 +0000" channel="Eurosport 1.webtv.sk">
     <title lang="id">Curling: Mistrovství světa žen – základní část Skotsko</title>
-  </programme>
-  <programme start="20260319230000 +0000" stop="20260320000000 +0000" channel="Eurosport 2.webtv.sk">
-    <title lang="id">Cyklistika: Grand Prix Denain</title>
-  </programme>
-  <programme start="20260320000000 +0000" stop="20260320010000 +0000" channel="Eurosport 2.webtv.sk">
-    <title lang="id">Biatlon: SP v Oslu</title>
-  </programme>
-  <programme start="20260320010000 +0000" stop="20260320020000 +0000" channel="Eurosport 2.webtv.sk">
-    <title lang="id">Snooker: World Open</title>
-  </programme>
-  <programme start="20260320020000 +0000" stop="20260320030000 +0000" channel="Eurosport 2.webtv.sk">
-    <title lang="id">Snooker: World Open</title>
-  </programme>
-  <programme start="20260320030000 +0000" stop="20260320040000 +0000" channel="Eurosport 2.webtv.sk">
-    <title lang="id">Cyklistika: Grand Prix Denain</title>
-  </programme>
-  <programme start="20260320040000 +0000" stop="20260320050000 +0000" channel="Eurosport 2.webtv.sk">
-    <title lang="id">Freestylové lyžování: SP v Tignes</title>
-  </programme>
-  <programme start="20260320050000 +0000" stop="20260320060000 +0000" channel="Eurosport 2.webtv.sk">
-    <title lang="id">Biatlon: SP v Oslu</title>
-  </programme>
-  <programme start="20260320060000 +0000" stop="20260320063000 +0000" channel="Eurosport 2.webtv.sk">
-    <title lang="id">Cyklistika: Grand Prix Denain</title>
-  </programme>
-  <programme start="20260320063000 +0000" stop="20260320080000 +0000" channel="Eurosport 2.webtv.sk">
-    <title lang="id">Curling: Mistrovství světa žen – základní část Itálie</title>
-  </programme>
-  <programme start="20260320080000 +0000" stop="20260320110000 +0000" channel="Eurosport 2.webtv.sk">
-    <title lang="id">Silový trojboj: Mistrovství Evropy Classic</title>
-  </programme>
-  <programme start="20260320110000 +0000" stop="20260320120000 +0000" channel="Eurosport 2.webtv.sk">
-    <title lang="id">Skoky na lyžích: SP v Oslu</title>
-  </programme>
-  <programme start="20260320120000 +0000" stop="20260320124500 +0000" channel="Eurosport 2.webtv.sk">
-    <title lang="id">Cyklistika: Nokere Koerse</title>
-  </programme>
-  <programme start="20260320124500 +0000" stop="20260320133000 +0000" channel="Eurosport 2.webtv.sk">
-    <title lang="id">Cyklistika: Grand Prix Denain</title>
-  </programme>
-  <programme start="20260320133000 +0000" stop="20260320140000 +0000" channel="Eurosport 2.webtv.sk">
-    <title lang="id">Cyklistika: Tour of Taiwan</title>
-  </programme>
-  <programme start="20260320140000 +0000" stop="20260320160000 +0000" channel="Eurosport 2.webtv.sk">
-    <title lang="id">Cyklistika: Bredene Koksijde Classic</title>
-  </programme>
-  <programme start="20260320160000 +0000" stop="20260320170000 +0000" channel="Eurosport 2.webtv.sk">
-    <title lang="id">Skoky na lyžích: SP ve Vikersundu</title>
-  </programme>
-  <programme start="20260320170000 +0000" stop="20260320180000 +0000" channel="Eurosport 2.webtv.sk">
-    <title lang="id">Snooker: World Open</title>
-  </programme>
-  <programme start="20260320180000 +0000" stop="20260320220000 +0000" channel="Eurosport 2.webtv.sk">
-    <title lang="id">Golf: PGA Tour</title>
-  </programme>
-  <programme start="20260320220000 +0000" stop="20260320230000 +0000" channel="Eurosport 2.webtv.sk">
-    <title lang="id">Snooker: World Open</title>
   </programme>
   <programme start="20260319221500 +0000" stop="20260320003000 +0000" channel="Sport 1.webtv.sk">
     <title lang="id">Fotbal</title>
@@ -8601,63 +8661,6 @@
   </programme>
   <programme start="20260320224000 +0000" stop="20260321001000 +0000" channel="Cinemax 2.webtv.sk">
     <title lang="id">Buchty a klobásy</title>
-  </programme>
-  <programme start="20260319223000 +0000" stop="20260319235500 +0000" channel="AMC.webtv.sk">
-    <title lang="id">Hitman 3: Likvidátor</title>
-  </programme>
-  <programme start="20260319235500 +0000" stop="20260320013500 +0000" channel="AMC.webtv.sk">
-    <title lang="id">Cliffhanger</title>
-  </programme>
-  <programme start="20260320013500 +0000" stop="20260320030500 +0000" channel="AMC.webtv.sk">
-    <title lang="id">Legie</title>
-  </programme>
-  <programme start="20260320030500 +0000" stop="20260320043000 +0000" channel="AMC.webtv.sk">
-    <title lang="id">Ztracena v pustině</title>
-  </programme>
-  <programme start="20260320043000 +0000" stop="20260320050000 +0000" channel="AMC.webtv.sk">
-    <title lang="id">Close Up I (42)</title>
-  </programme>
-  <programme start="20260320050000 +0000" stop="20260320052500 +0000" channel="AMC.webtv.sk">
-    <title lang="id">Hollywood&apos;s Best Film Directors I (14)</title>
-  </programme>
-  <programme start="20260320052500 +0000" stop="20260320053000 +0000" channel="AMC.webtv.sk">
-    <title lang="id">Zoom In (218)</title>
-  </programme>
-  <programme start="20260320053000 +0000" stop="20260320054000 +0000" channel="AMC.webtv.sk">
-    <title lang="id">Zoom In (192)</title>
-  </programme>
-  <programme start="20260320054000 +0000" stop="20260320073000 +0000" channel="AMC.webtv.sk">
-    <title lang="id">Dokonalý šéf</title>
-  </programme>
-  <programme start="20260320073000 +0000" stop="20260320090500 +0000" channel="AMC.webtv.sk">
-    <title lang="id">Police Story 3</title>
-  </programme>
-  <programme start="20260320090500 +0000" stop="20260320110000 +0000" channel="AMC.webtv.sk">
-    <title lang="id">Hroši v Africe</title>
-  </programme>
-  <programme start="20260320110000 +0000" stop="20260320123500 +0000" channel="AMC.webtv.sk">
-    <title lang="id">Perfektní romance</title>
-  </programme>
-  <programme start="20260320123500 +0000" stop="20260320142000 +0000" channel="AMC.webtv.sk">
-    <title lang="id">Z džungle do džungle</title>
-  </programme>
-  <programme start="20260320142000 +0000" stop="20260320155000 +0000" channel="AMC.webtv.sk">
-    <title lang="id">Dva machři mezi nebem a peklem</title>
-  </programme>
-  <programme start="20260320155000 +0000" stop="20260320174000 +0000" channel="AMC.webtv.sk">
-    <title lang="id">My dva a křen</title>
-  </programme>
-  <programme start="20260320174000 +0000" stop="20260320193500 +0000" channel="AMC.webtv.sk">
-    <title lang="id">Nevěsta na útěku</title>
-  </programme>
-  <programme start="20260320193500 +0000" stop="20260320210000 +0000" channel="AMC.webtv.sk">
-    <title lang="id">Plán útěku 3</title>
-  </programme>
-  <programme start="20260320210000 +0000" stop="20260320224500 +0000" channel="AMC.webtv.sk">
-    <title lang="id">Až do smrti</title>
-  </programme>
-  <programme start="20260320224500 +0000" stop="20260321000500 +0000" channel="AMC.webtv.sk">
-    <title lang="id">Zastav a nepřežiješ</title>
   </programme>
   <programme start="20260319224000 +0000" stop="20260320001000 +0000" channel="Film +.webtv.sk">
     <title lang="id">Ong Bak 2</title>
@@ -16845,102 +16848,6 @@
   </programme>
   <programme start="20260320220100 +0000" stop="20260320233000 +0000" channel="UA TV.webtv.sk">
     <title lang="id">Інформаційні сюжети</title>
-  </programme>
-  <programme start="20260319230000 +0000" stop="20260320000000 +0000" channel="Espreso TV.webtv.sk">
-    <title lang="id">Східний щит</title>
-  </programme>
-  <programme start="20260320000000 +0000" stop="20260320010000 +0000" channel="Espreso TV.webtv.sk">
-    <title lang="id">Тепер головне</title>
-  </programme>
-  <programme start="20260320010000 +0000" stop="20260320020000 +0000" channel="Espreso TV.webtv.sk">
-    <title lang="id">Інформаційний марафон</title>
-  </programme>
-  <programme start="20260320020000 +0000" stop="20260320030000 +0000" channel="Espreso TV.webtv.sk">
-    <title lang="id">Європейці з Лесею Вакулюк</title>
-  </programme>
-  <programme start="20260320030000 +0000" stop="20260320040000 +0000" channel="Espreso TV.webtv.sk">
-    <title lang="id">Східний щит</title>
-  </programme>
-  <programme start="20260320040000 +0000" stop="20260320050000 +0000" channel="Espreso TV.webtv.sk">
-    <title lang="id">Тепер головне</title>
-  </programme>
-  <programme start="20260320050000 +0000" stop="20260320051000 +0000" channel="Espreso TV.webtv.sk">
-    <title lang="id">Варшава - Київ. Pанок</title>
-  </programme>
-  <programme start="20260320051000 +0000" stop="20260320060000 +0000" channel="Espreso TV.webtv.sk">
-    <title lang="id">Український фокус: Pанок</title>
-  </programme>
-  <programme start="20260320060000 +0000" stop="20260320061000 +0000" channel="Espreso TV.webtv.sk">
-    <title lang="id">Варшава - Київ. Pанок</title>
-  </programme>
-  <programme start="20260320061000 +0000" stop="20260320070000 +0000" channel="Espreso TV.webtv.sk">
-    <title lang="id">Український фокус: Pанок</title>
-  </programme>
-  <programme start="20260320070000 +0000" stop="20260320070100 +0000" channel="Espreso TV.webtv.sk">
-    <title lang="id">Хвилина мовчання</title>
-  </programme>
-  <programme start="20260320070100 +0000" stop="20260320071000 +0000" channel="Espreso TV.webtv.sk">
-    <title lang="id">Варшава - Київ. Pанок</title>
-  </programme>
-  <programme start="20260320071000 +0000" stop="20260320080000 +0000" channel="Espreso TV.webtv.sk">
-    <title lang="id">Український фокус: Pанок</title>
-  </programme>
-  <programme start="20260320080000 +0000" stop="20260320090000 +0000" channel="Espreso TV.webtv.sk">
-    <title lang="id">Тепер головне</title>
-  </programme>
-  <programme start="20260320090000 +0000" stop="20260320100500 +0000" channel="Espreso TV.webtv.sk">
-    <title lang="id">Свобода Live</title>
-  </programme>
-  <programme start="20260320100500 +0000" stop="20260320103000 +0000" channel="Espreso TV.webtv.sk">
-    <title lang="id">Новини</title>
-  </programme>
-  <programme start="20260320103000 +0000" stop="20260320110500 +0000" channel="Espreso TV.webtv.sk">
-    <title lang="id">Pозмовна студія</title>
-  </programme>
-  <programme start="20260320110500 +0000" stop="20260320113000 +0000" channel="Espreso TV.webtv.sk">
-    <title lang="id">Донбас. Pеалії</title>
-  </programme>
-  <programme start="20260320113000 +0000" stop="20260320120000 +0000" channel="Espreso TV.webtv.sk">
-    <title lang="id">Крим. Pеалії</title>
-  </programme>
-  <programme start="20260320120000 +0000" stop="20260320130000 +0000" channel="Espreso TV.webtv.sk">
-    <title lang="id">Тепер головне</title>
-  </programme>
-  <programme start="20260320130000 +0000" stop="20260320140000 +0000" channel="Espreso TV.webtv.sk">
-    <title lang="id">Європейці з Лесею Вакулюк</title>
-  </programme>
-  <programme start="20260320140000 +0000" stop="20260320150000 +0000" channel="Espreso TV.webtv.sk">
-    <title lang="id">Центр Європи</title>
-  </programme>
-  <programme start="20260320150000 +0000" stop="20260320160000 +0000" channel="Espreso TV.webtv.sk">
-    <title lang="id">Союзники</title>
-  </programme>
-  <programme start="20260320160000 +0000" stop="20260320170000 +0000" channel="Espreso TV.webtv.sk">
-    <title lang="id">Студія Захід з Антоном Борковським</title>
-  </programme>
-  <programme start="20260320170000 +0000" stop="20260320180000 +0000" channel="Espreso TV.webtv.sk">
-    <title lang="id">Тепер головне</title>
-  </programme>
-  <programme start="20260320180000 +0000" stop="20260320181500 +0000" channel="Espreso TV.webtv.sk">
-    <title lang="id">BBC News Україна</title>
-  </programme>
-  <programme start="20260320181500 +0000" stop="20260320191500 +0000" channel="Espreso TV.webtv.sk">
-    <title lang="id">Центр Європи</title>
-  </programme>
-  <programme start="20260320191500 +0000" stop="20260320201000 +0000" channel="Espreso TV.webtv.sk">
-    <title lang="id">Свобода Live</title>
-  </programme>
-  <programme start="20260320201000 +0000" stop="20260320204000 +0000" channel="Espreso TV.webtv.sk">
-    <title lang="id">Донбас. Pеалії</title>
-  </programme>
-  <programme start="20260320204000 +0000" stop="20260320210000 +0000" channel="Espreso TV.webtv.sk">
-    <title lang="id">Судовий контроль з Тетяною Шустровою</title>
-  </programme>
-  <programme start="20260320210000 +0000" stop="20260320220000 +0000" channel="Espreso TV.webtv.sk">
-    <title lang="id">Тепер головне</title>
-  </programme>
-  <programme start="20260320220000 +0000" stop="20260320230000 +0000" channel="Espreso TV.webtv.sk">
-    <title lang="id">Студія Захід з Антоном Борковським</title>
   </programme>
   <programme start="20260319230000 +0000" stop="20260319233000 +0000" channel="Current Time.webtv.sk">
     <title lang="id">НЕИЗВЕСТНАЯ PОССИЯ: Pудная Пристань</title>

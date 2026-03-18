@@ -1,7 +1,3 @@
-<programme start="20260319020000 +0700" stop="20260319023000 +0700" channel="COSMOTE Sport 1 HD">
-    <title>Sports Classics: Ultimate Rush S4 E8</title>
-    <desc>Live: Tidak</desc>
-</programme>
 <programme start="20260319023000 +0700" stop="20260319050500 +0700" channel="COSMOTE Sport 1 HD">
     <title>UEFA Champions League 2025-26 Minute By Minute (L)</title>
     <desc>Live: Ya</desc>
@@ -58,13 +54,9 @@
     <title>European Football Minute by Minute 2025-26 (L)</title>
     <desc>Live: Ya</desc>
 </programme>
-<programme start="20260319014000 +0700" stop="20260319021500 +0700" channel="COSMOTE Sport 2 HD">
-    <title>Sports Classics: Ultimate Rush S2 E17</title>
-    <desc>Live: Tidak</desc>
-</programme>
-<programme start="20260319021500 +0700" stop="20260319030000 +0700" channel="COSMOTE Sport 2 HD">
-    <title>Sports Classics: Ultimate Rush S2 E18</title>
-    <desc>Live: Tidak</desc>
+<programme start="20260320030000 +0700" stop="20260320050500 +0700" channel="COSMOTE Sport 1 HD">
+    <title>European Football Minute by Minute 2025-26 (L)</title>
+    <desc>Live: Ya</desc>
 </programme>
 <programme start="20260319030000 +0700" stop="20260319050500 +0700" channel="COSMOTE Sport 2 HD">
     <title>Football: Liverpool FC - Galatasaray AS (L)</title>
@@ -122,9 +114,9 @@
     <title>European Football Show Greek Edition 2025-26 (L)</title>
     <desc>Live: Ya</desc>
 </programme>
-<programme start="20260319015000 +0700" stop="20260319030000 +0700" channel="COSMOTE Sport 3 HD">
-    <title>NBA Specials: Basketball Stories</title>
-    <desc>Live: Tidak</desc>
+<programme start="20260320030000 +0700" stop="20260320050500 +0700" channel="COSMOTE Sport 2 HD">
+    <title>European Football Show Greek Edition 2025-26 (L)</title>
+    <desc>Live: Ya</desc>
 </programme>
 <programme start="20260319030000 +0700" stop="20260319050500 +0700" channel="COSMOTE Sport 3 HD">
     <title>Football: FC Bayern Munchen - Atalanta (L)</title>
@@ -180,6 +172,10 @@
 </programme>
 <programme start="20260320004500 +0700" stop="20260320030000 +0700" channel="COSMOTE Sport 3 HD">
     <title>Football: AEK - NK Celje (L)</title>
+    <desc>Live: Ya</desc>
+</programme>
+<programme start="20260320030000 +0700" stop="20260320050500 +0700" channel="COSMOTE Sport 3 HD">
+    <title>Football: AS Roma - Bologna (L)</title>
     <desc>Live: Ya</desc>
 </programme>
 <programme start="20260319010000 +0700" stop="20260319031000 +0700" channel="COSMOTE Sport 4 HD">
@@ -250,17 +246,9 @@
     <title>Basketball: Houston Rockets - Los Angeles Lakers</title>
     <desc>Live: Tidak</desc>
 </programme>
-<programme start="20260319000000 +0700" stop="20260319020500 +0700" channel="COSMOTE Sport 5 HD">
-    <title>Basketball: Tofas - Karditsa (L)</title>
+<programme start="20260320030000 +0700" stop="20260320050500 +0700" channel="COSMOTE Sport 4 HD">
+    <title>Football: Real Betis Balompie - Panathinaikos (L)</title>
     <desc>Live: Ya</desc>
-</programme>
-<programme start="20260319020500 +0700" stop="20260319023500 +0700" channel="COSMOTE Sport 5 HD">
-    <title>FIA Championship Middle East 2026</title>
-    <desc>Live: Tidak</desc>
-</programme>
-<programme start="20260319023500 +0700" stop="20260319030000 +0700" channel="COSMOTE Sport 5 HD">
-    <title>Sports Highlights</title>
-    <desc>Live: Tidak</desc>
 </programme>
 <programme start="20260319030000 +0700" stop="20260319050500 +0700" channel="COSMOTE Sport 5 HD">
     <title>Football: Tottenham Hotspur - Club Atletico de Madrid (L)</title>
@@ -334,8 +322,8 @@
     <title>Football: AEK Larnaca - Crystal Palace (L)</title>
     <desc>Live: Ya</desc>
 </programme>
-<programme start="20260318220000 +0700" stop="20260319023000 +0700" channel="COSMOTE Sport 6 HD">
-    <title>Tennis: ATP Masters 1000 2026 (L)</title>
+<programme start="20260320030000 +0700" stop="20260320050500 +0700" channel="COSMOTE Sport 5 HD">
+    <title>Football: FC Porto - VfB Stuttgart (L)</title>
     <desc>Live: Ya</desc>
 </programme>
 <programme start="20260319023000 +0700" stop="20260319060000 +0700" channel="COSMOTE Sport 6 HD">
@@ -376,10 +364,6 @@
 </programme>
 <programme start="20260320020000 +0700" stop="20260320053000 +0700" channel="COSMOTE Sport 6 HD">
     <title>Tennis: ATP Masters 1000 2026 (L)</title>
-    <desc>Live: Ya</desc>
-</programme>
-<programme start="20260319000000 +0700" stop="20260319030000 +0700" channel="COSMOTE Sport 7 HD">
-    <title>Volleyball: Panathinaikos - Vallefoglia (L)</title>
     <desc>Live: Ya</desc>
 </programme>
 <programme start="20260319030000 +0700" stop="20260319033000 +0700" channel="COSMOTE Sport 7 HD">
@@ -446,8 +430,8 @@
     <title>Football: FC Midtjylland - Nottingham F. (L)</title>
     <desc>Live: Ya</desc>
 </programme>
-<programme start="20260319004500 +0700" stop="20260319025000 +0700" channel="COSMOTE Sport 8 HD">
-    <title>Football: FC Barcelona - Newcastle United (L)</title>
+<programme start="20260320030000 +0700" stop="20260320050500 +0700" channel="COSMOTE Sport 7 HD">
+    <title>Football: Aston Villa - Lille OSC (L)</title>
     <desc>Live: Ya</desc>
 </programme>
 <programme start="20260319025000 +0700" stop="20260319040000 +0700" channel="COSMOTE Sport 8 HD">
@@ -508,6 +492,10 @@
 </programme>
 <programme start="20260320004500 +0700" stop="20260320030000 +0700" channel="COSMOTE Sport 8 HD">
     <title>Football: Olympique Lyonnais - Celta (L)</title>
+    <desc>Live: Ya</desc>
+</programme>
+<programme start="20260320030000 +0700" stop="20260320050500 +0700" channel="COSMOTE Sport 8 HD">
+    <title>Football: Rayo Vallecano de Madrid - Samsunspor (L)</title>
     <desc>Live: Ya</desc>
 </programme>
 <programme start="20260319020000 +0700" stop="20260319040000 +0700" channel="COSMOTE Sport 9 HD">
@@ -576,6 +564,10 @@
 </programme>
 <programme start="20260320004500 +0700" stop="20260320030000 +0700" channel="COSMOTE Sport 9 HD">
     <title>Football: SC Freiburg - KRC Genk (L)</title>
+    <desc>Live: Ya</desc>
+</programme>
+<programme start="20260320030000 +0700" stop="20260320050500 +0700" channel="COSMOTE Sport 9 HD">
+    <title>Football: AC Sparta Praha - AZ Alkmaar (L)</title>
     <desc>Live: Ya</desc>
 </programme>
 No EPG found for COSMOTE Sport 10 HD
