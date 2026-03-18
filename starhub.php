@@ -7993,26 +7993,26 @@
     <programme start="20260317183000 +0000" stop="20260317213000 +0000" channel="Asianet Movies.starhub">
         <title>Movie</title>
     </programme>
-    <programme start="20260317213000 +0000" stop="20260318003000 +0000" channel="Asianet Movies.starhub">
-        <title>Movie</title>
+    <programme start="20260317232000 +0000" stop="20260318013000 +0000" channel="Asianet Movies.starhub">
+        <title>Meri Awas Suno</title>
     </programme>
-    <programme start="20260318003000 +0000" stop="20260318033000 +0000" channel="Asianet Movies.starhub">
-        <title>Movie</title>
+    <programme start="20260318013000 +0000" stop="20260318015500 +0000" channel="Asianet Movies.starhub">
+        <title>Filler:Chirikkum Thalika II</title>
     </programme>
-    <programme start="20260318033000 +0000" stop="20260318063000 +0000" channel="Asianet Movies.starhub">
-        <title>Movie</title>
+    <programme start="20260318015500 +0000" stop="20260318043500 +0000" channel="Asianet Movies.starhub">
+        <title>Loud Speaker</title>
     </programme>
-    <programme start="20260318063000 +0000" stop="20260318093000 +0000" channel="Asianet Movies.starhub">
-        <title>Movie</title>
+    <programme start="20260318043500 +0000" stop="20260318073500 +0000" channel="Asianet Movies.starhub">
+        <title>Aadu 2</title>
     </programme>
-    <programme start="20260318093000 +0000" stop="20260318123000 +0000" channel="Asianet Movies.starhub">
-        <title>Movie</title>
+    <programme start="20260318073500 +0000" stop="20260318103500 +0000" channel="Asianet Movies.starhub">
+        <title>Neymar</title>
     </programme>
-    <programme start="20260318123000 +0000" stop="20260318153000 +0000" channel="Asianet Movies.starhub">
-        <title>Movie</title>
+    <programme start="20260318103500 +0000" stop="20260318133000 +0000" channel="Asianet Movies.starhub">
+        <title>Aravindhante Athidhikal</title>
     </programme>
-    <programme start="20260318153000 +0000" stop="20260318183000 +0000" channel="Asianet Movies.starhub">
-        <title>Movie</title>
+    <programme start="20260318133000 +0000" stop="20260318163000 +0000" channel="Asianet Movies.starhub">
+        <title>One</title>
     </programme>
     <programme start="20260317160000 +0000" stop="20260317170000 +0000" channel="Astro Warna HD.starhub">
         <title>Tikus dan Kucing</title>
