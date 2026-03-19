@@ -15625,25 +15625,20 @@
     <desc lang="en">Prominent professional players take centre-stage in the ROSHN Saudi League. Don't miss a moment of these matches every week. Download SPOTV NOW and catch these live matches and highlights.</desc>
     <category lang="en">Football</category>
   </programme>
-  <programme start="20260319050000 +0000" stop="20260319060000 +0000" channel="spotv.unifitv">
-    <title lang="en">2026 Supercars: Melbourne SuperSprint - Highlights 1</title>
-    <desc lang="en">Supercars delivers exhilarating and accessible motorsports-led entertainment to engaged and passionate fans.</desc>
-    <category lang="en">Motorsports</category>
-  </programme>
-  <programme start="20260319060000 +0000" stop="20260319080000 +0000" channel="spotv.unifitv">
+  <programme start="20260319050000 +0000" stop="20260319080000 +0000" channel="spotv.unifitv">
     <title lang="en">2025/26 King's Cup Semi Final - Al Ahli vs Al Hilal</title>
     <desc lang="en">The Saudi King's Cup brings together the nation's best teams in a knockout fight for football supremacy. Only one will lift the trophy!</desc>
     <category lang="en">Football</category>
   </programme>
-  <programme start="20260319080000 +0000" stop="20260319100000 +0000" channel="spotv.unifitv">
-    <title lang="en">25/26 A-League Men Round 21 - Sydney FC vs Melbourne City FC</title>
-    <desc lang="en">Top flight men's soccer returns in the ISUZU UTE A-League Men. Catch every moment on SPOTV NOW as 12 teams compete in the regular season with top 4 advancing to a single-game knockout.</desc>
-    <category lang="en">Football</category>
-  </programme>
-  <programme start="20260319100000 +0000" stop="20260319150000 +0000" channel="spotv.unifitv">
+  <programme start="20260319080000 +0000" stop="20260319130000 +0000" channel="spotv.unifitv">
     <title lang="en">(L) 2026 LIV Golf League, South Africa - Round 1</title>
     <desc lang="en">The world's top golfers compete in a bold, fast-paced league format, delivering big drives, dramatic finishes, and non-stop action across iconic global venues.</desc>
     <category lang="en">Golf</category>
+  </programme>
+  <programme start="20260319130000 +0000" stop="20260319150000 +0000" channel="spotv.unifitv">
+    <title lang="en">25/26 A-League Men Round 21 - Sydney FC vs Melbourne City FC</title>
+    <desc lang="en">Top flight men's soccer returns in the ISUZU UTE A-League Men. Catch every moment on SPOTV NOW as 12 teams compete in the regular season with top 4 advancing to a single-game knockout.</desc>
+    <category lang="en">Football</category>
   </programme>
   <programme start="20260319150000 +0000" stop="20260319180000 +0000" channel="spotv.unifitv">
     <title lang="en">2026 Rolex Grand Slam: The Dutch Masters Day 4 - Rolex Grand Prix Show Jumping</title>

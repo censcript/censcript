@@ -1,7 +1,3 @@
-<programme start="20260319150000 +0700" stop="20260319153000 +0700" channel="COSMOTE Sport 1 HD">
-    <title>UEFA Champions League Highlights 2025-26</title>
-    <desc>Live: Tidak</desc>
-</programme>
 <programme start="20260319153000 +0700" stop="20260319172500 +0700" channel="COSMOTE Sport 1 HD">
     <title>Football: Tottenham Hotspur - Club Atletico de Madrid</title>
     <desc>Live: Tidak</desc>
@@ -274,10 +270,6 @@
     <title>Basketball: Anadolu Efes - Besiktas</title>
     <desc>Live: Tidak</desc>
 </programme>
-<programme start="20260319144500 +0700" stop="20260319160000 +0700" channel="COSMOTE Sport 5 HD">
-    <title>2026 Grand Prix Show</title>
-    <desc>Live: Tidak</desc>
-</programme>
 <programme start="20260319160000 +0700" stop="20260319173000 +0700" channel="COSMOTE Sport 5 HD">
     <title>DTM 2025</title>
     <desc>Live: Tidak</desc>
@@ -363,6 +355,10 @@
     <desc>Live: Tidak</desc>
 </programme>
 <programme start="20260320153500 +0700" stop="20260320162000 +0700" channel="COSMOTE Sport 5 HD">
+    <title>WRC 2026</title>
+    <desc>Live: Tidak</desc>
+</programme>
+<programme start="20260320162000 +0700" stop="20260320175500 +0700" channel="COSMOTE Sport 5 HD">
     <title>WRC 2026</title>
     <desc>Live: Tidak</desc>
 </programme>
