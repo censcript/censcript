@@ -1973,7 +1973,7 @@
         <title>Sydney, Australia Day 2</title>
     </programme>
     <programme start="20260318195500 +0000" stop="20260318220000 +0000" channel="beIN Sports 3.starhub">
-        <title>UEFA Champions League 2025/26: Tottenham vs Atletico Madrid - R16, 2nd Leg (Live)</title>
+        <title>UEFA Champions League 2025/26: Tottenham vs Atletico Madrid - R16, 2nd Leg (Live</title>
     </programme>
     <programme start="20260318220000 +0000" stop="20260318230000 +0000" channel="beIN Sports 3.starhub">
         <title>Sydney, Australia</title>

@@ -15170,7 +15170,7 @@
   </programme>
   <programme start="20260318193500 +0000" stop="20260318200500 +0000" channel="nhkworldjapan.unifitv">
     <title lang="en">FRONTRUNNERS</title>
-    <desc lang="en">FRONTRUNNERS highlights professionals at the very forefront of their field. We showcase their amazing work, discover their motivations, and learn about the challenges they face in the future.</desc>
+    <desc lang="en">Japan's population is aging, and millions suffer from dysphagia-they find it difficult to chew and swallow food. Nutritionist Egashira Fumie has helped thousands continue to eat normally.</desc>
     <category lang="en">News</category>
     <episode-num system="xmltv_ns">0.2102.</episode-num>
     <episode-num system="onscreen">S1E2103</episode-num>
