@@ -78,6 +78,14 @@
     <title>Game R1 S6 E30</title>
     <desc>Live: Tidak</desc>
 </programme>
+<programme start="20260321040000 +0700" stop="20260321043000 +0700" channel="COSMOTE Sport 1 HD">
+    <title>UEFA Champions League Magazine 2024-25 E25</title>
+    <desc>Live: Tidak</desc>
+</programme>
+<programme start="20260321043000 +0700" stop="20260321050000 +0700" channel="COSMOTE Sport 1 HD">
+    <title>UEFA Champions League Highlights 2025-26</title>
+    <desc>Live: Tidak</desc>
+</programme>
 <programme start="20260320030000 +0700" stop="20260320050500 +0700" channel="COSMOTE Sport 2 HD">
     <title>European Football Show Greek Edition 2025-26 (L)</title>
     <desc>Live: Ya</desc>
@@ -145,6 +153,10 @@
 <programme start="20260321024500 +0700" stop="20260321044500 +0700" channel="COSMOTE Sport 2 HD">
     <title>Football: Genoa - Udinese (L)</title>
     <desc>Live: Ya</desc>
+</programme>
+<programme start="20260321044500 +0700" stop="20260321065500 +0700" channel="COSMOTE Sport 2 HD">
+    <title>Football: Panathinaikos - Panetolikos</title>
+    <desc>Live: Tidak</desc>
 </programme>
 <programme start="20260320030000 +0700" stop="20260320050500 +0700" channel="COSMOTE Sport 3 HD">
     <title>Football: AS Roma - Bologna (L)</title>
@@ -372,6 +384,10 @@
 </programme>
 <programme start="20260321033500 +0700" stop="20260321044000 +0700" channel="COSMOTE Sport 5 HD">
     <title>Motorsports: Moto3 2026</title>
+    <desc>Live: Tidak</desc>
+</programme>
+<programme start="20260321044000 +0700" stop="20260321055000 +0700" channel="COSMOTE Sport 5 HD">
+    <title>Motorsports: Moto2 2026</title>
     <desc>Live: Tidak</desc>
 </programme>
 <programme start="20260320020000 +0700" stop="20260320043000 +0700" channel="COSMOTE Sport 6 HD">
@@ -605,5 +621,9 @@
 <programme start="20260321033000 +0700" stop="20260321040000 +0700" channel="COSMOTE Sport 9 HD">
     <title>COSMOTESport9HD</title>
     <desc>Live: Tidak</desc>
+</programme>
+<programme start="20260321040000 +0700" stop="20260321060000 +0700" channel="COSMOTE Sport 9 HD">
+    <title>Premier Padel Tour 2026 (L)</title>
+    <desc>Live: Ya</desc>
 </programme>
 No EPG found for COSMOTE Sport 10 HD

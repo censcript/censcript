@@ -3268,9 +3268,6 @@ Warning: Undefined array key "et" in /usr/home/ManusiaBiasa/domains/manusiabiasa
 <programme start="20260319111500 +0000" stop="20260319114500 +0000" channel="Sky Sport Premier League HD.skyde">
     <title>PL: Netbusters, 30. Spieltag</title>
 </programme>
-<programme start="20260319114500 +0000" stop="20260319120000 +0000" channel="Sky Sport Premier League HD.skyde">
-    <title>PL: Under the Skin (FC Everton)</title>
-</programme>
 <programme start="20260319120000 +0000" stop="20260319123000 +0000" channel="Sky Sport Premier League HD.skyde">
     <title>PL: 90in30: ARS - EVE, 30. Spieltag</title>
 </programme>
@@ -3358,16 +3355,13 @@ Warning: Undefined array key "et" in /usr/home/ManusiaBiasa/domains/manusiabiasa
 <programme start="20260319073000 +0000" stop="20260319100000 +0000" channel="Sky Sport Tennis HD.skyde">
     <title>ATP 1000: J. Sinner (ITA) - D. Medvedev, BNP Paribas Open in Indian Wells, Kalifornien (USA), Finale</title>
 </programme>
-<programme start="20260319100000 +0000" stop="20260319110000 +0000" channel="Sky Sport Tennis HD.skyde">
-    <title>ATP 1000: Review Indian Wells</title>
-</programme>
-<programme start="20260319110000 +0000" stop="20260319123000 +0000" channel="Sky Sport Tennis HD.skyde">
+<programme start="20260319100000 +0000" stop="20260319113000 +0000" channel="Sky Sport Tennis HD.skyde">
     <title>WTA 1000: L. Siegemund (GER) - P. Marcinko (CRO), Miami Open presented by Itaú in Miami, Florida (USA), 1. Tag</title>
 </programme>
-<programme start="20260319123000 +0000" stop="20260319150000 +0000" channel="Sky Sport Tennis HD.skyde">
+<programme start="20260319113000 +0000" stop="20260319140000 +0000" channel="Sky Sport Tennis HD.skyde">
     <title>ATP 1000: J. Sinner (ITA) - D. Medvedev, BNP Paribas Open in Indian Wells, Kalifornien (USA), Finale</title>
 </programme>
-<programme start="20260319150000 +0000" stop="20260320030000 +0000" channel="Sky Sport Tennis HD.skyde">
+<programme start="20260319140000 +0000" stop="20260320030000 +0000" channel="Sky Sport Tennis HD.skyde">
     <title>Live ATP &amp; WTA: Konferenz Miami Open presented by Itaú in Miami, Florida (USA), 3. Tag</title>
 </programme>
 <programme start="20260318230000 +0000" stop="20260319000000 +0000" channel="Sky Sport Top Event HD.skyde">
@@ -3409,7 +3403,10 @@ Warning: Undefined array key "et" in /usr/home/ManusiaBiasa/domains/manusiabiasa
 <programme start="20260319080000 +0000" stop="20260319130000 +0000" channel="Sky Sport Top Event HD.skyde">
     <title>Live LIV Golf: Südafrika, 1. Tag in Johannesburg</title>
 </programme>
-<programme start="20260319140000 +0000" stop="20260319173500 +0000" channel="Sky Sport Top Event HD.skyde">
+<programme start="20260319130000 +0000" stop="20260319150000 +0000" channel="Sky Sport Top Event HD.skyde">
+    <title>NHL: Pittsburgh Penguins @ Carolina Hurricanes</title>
+</programme>
+<programme start="20260319150000 +0000" stop="20260319173500 +0000" channel="Sky Sport Top Event HD.skyde">
     <title>Live ATP &amp; WTA: Konferenz Miami Open presented by Itaú in Miami, Florida (USA), 3. Tag</title>
 </programme>
 <programme start="20260319173500 +0000" stop="20260319195000 +0000" channel="Sky Sport Top Event HD.skyde">
