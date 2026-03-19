@@ -532,6 +532,9 @@
 <programme start="20260319050000 +0000" stop="20260319063000 +0000" channel="Trans 7.vision">
 <title>Imperfect: Karier, Cinta...</title>
 </programme>
+<programme start="20260319063000 +0000" stop="20260319080000 +0000" channel="Trans 7.vision">
+<title>Warkop: Tahu Diri Dong</title>
+</programme>
 <programme start="20260319080000 +0000" stop="20260319090000 +0000" channel="Trans 7.vision">
 <title>Makan Receh Kultum</title>
 </programme>
@@ -604,8 +607,14 @@
 <programme start="20260319003000 +0000" stop="20260319023000 +0000" channel="ANTV.vision">
 <title>Janji Cinta Inspektur Virat</title>
 </programme>
+<programme start="20260319023000 +0000" stop="20260319050000 +0000" channel="ANTV.vision">
+<title>Krrish</title>
+</programme>
 <programme start="20260319050000 +0000" stop="20260319053000 +0000" channel="ANTV.vision">
 <title>Topkin Mudik</title>
+</programme>
+<programme start="20260319053000 +0000" stop="20260319060000 +0000" channel="ANTV.vision">
+<title>Krrish</title>
 </programme>
 <programme start="20260319060000 +0000" stop="20260319063000 +0000" channel="ANTV.vision">
 <title>Jhanak</title>
@@ -1488,13 +1497,4 @@
 </programme>
 <programme start="20260320090000 +0000" stop="20260320100000 +0000" channel="BTV.vision">
 <title>Berita Satu Sore (L)</title>
-</programme>
-<programme start="20260320100000 +0000" stop="20260320105400 +0000" channel="BTV.vision">
-<title>Jalan Dakwah Ramadan</title>
-</programme>
-<programme start="20260320105400 +0000" stop="20260320110100 +0000" channel="BTV.vision">
-<title>Kultum</title>
-</programme>
-<programme start="20260320110100 +0000" stop="20260320110600 +0000" channel="BTV.vision">
-<title>Menantikan Azan Magrib</title>
 </programme>
