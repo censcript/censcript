@@ -2146,11 +2146,11 @@
     <programme start="20260319100000 +0000" stop="20260319110000 +0000" channel="CNN HD.starhub">
         <title>CNN This Morning</title>
     </programme>
-    <programme start="20260319110000 +0000" stop="20260319120000 +0000" channel="CNN HD.starhub">
+    <programme start="20260319110000 +0000" stop="20260319123000 +0000" channel="CNN HD.starhub">
         <title>CNN News Central</title>
     </programme>
-    <programme start="20260319120000 +0000" stop="20260319130000 +0000" channel="CNN HD.starhub">
-        <title>CNN News Central</title>
+    <programme start="20260319123000 +0000" stop="20260319130000 +0000" channel="CNN HD.starhub">
+        <title>World Sport (30m)</title>
     </programme>
     <programme start="20260319130000 +0000" stop="20260319134500 +0000" channel="CNN HD.starhub">
         <title>Connect the World (45m)</title>
@@ -2440,8 +2440,11 @@
     <programme start="20260319060000 +0000" stop="20260319070000 +0000" channel="Hub Sports 2 HD.starhub">
         <title>Year End Review Show</title>
     </programme>
-    <programme start="20260319070000 +0000" stop="20260319100000 +0000" channel="Hub Sports 2 HD.starhub">
+    <programme start="20260319070000 +0000" stop="20260319093000 +0000" channel="Hub Sports 2 HD.starhub">
         <title>Zuffa 01: Walsh vs Ocampo</title>
+    </programme>
+    <programme start="20260319093000 +0000" stop="20260319100000 +0000" channel="Hub Sports 2 HD.starhub">
+        <title>#1342</title>
     </programme>
     <programme start="20260319100000 +0000" stop="20260319130000 +0000" channel="Hub Sports 2 HD.starhub">
         <title>R5: West Ham United vs Brentford</title>
@@ -2714,13 +2717,13 @@
         <title>Partners For Justice 2</title>
     </programme>
     <programme start="20260318160000 +0000" stop="20260318163000 +0000" channel="Sun TV.starhub">
-        <title>PUTHU VASANTHAM</title>
+        <title>Puthu Vasantham</title>
     </programme>
     <programme start="20260318163000 +0000" stop="20260318230000 +0000" channel="Sun TV.starhub">
-        <title>SONGS</title>
+        <title>Songs</title>
     </programme>
     <programme start="20260318230000 +0000" stop="20260318233000 +0000" channel="Sun TV.starhub">
-        <title>NEWS</title>
+        <title>News</title>
     </programme>
     <programme start="20260318233000 +0000" stop="20260319000000 +0000" channel="Sun TV.starhub">
         <title>Vanakkam Thamizha</title>
@@ -3224,7 +3227,7 @@
         <title>The Hidden Pollution From Electric Cars: When Tires Become Microplastics</title>
     </programme>
     <programme start="20260318173000 +0000" stop="20260318180000 +0000" channel="DW English HD.starhub">
-        <title>Japan - Fukushima’s Radioactive Legacy</title>
+        <title>Japan - Fukushima&#039;s Radioactive Legacy</title>
     </programme>
     <programme start="20260318180000 +0000" stop="20260318183000 +0000" channel="DW English HD.starhub">
         <title>News</title>
@@ -3242,7 +3245,7 @@
         <title>The Hidden Pollution From Electric Cars: When Tires Become Microplastics</title>
     </programme>
     <programme start="20260318193000 +0000" stop="20260318200000 +0000" channel="DW English HD.starhub">
-        <title>Women’s Day Special</title>
+        <title>Women&#039;s Day Special</title>
     </programme>
     <programme start="20260318200000 +0000" stop="20260318203000 +0000" channel="DW English HD.starhub">
         <title>News</title>
@@ -3256,6 +3259,9 @@
     <programme start="20260318210200 +0000" stop="20260318211500 +0000" channel="DW English HD.starhub">
         <title>News</title>
     </programme>
+    <programme start="20260318211500 +0000" stop="20260318220000 +0000" channel="DW English HD.starhub">
+        <title>Zanzibar - Island Paradise in Flux</title>
+    </programme>
     <programme start="20260318220000 +0000" stop="20260318220200 +0000" channel="DW English HD.starhub">
         <title>News</title>
     </programme>
@@ -3267,6 +3273,12 @@
     </programme>
     <programme start="20260318230000 +0000" stop="20260318230200 +0000" channel="DW English HD.starhub">
         <title>News</title>
+    </programme>
+    <programme start="20260318230200 +0000" stop="20260318231500 +0000" channel="DW English HD.starhub">
+        <title>News</title>
+    </programme>
+    <programme start="20260318231500 +0000" stop="20260318233000 +0000" channel="DW English HD.starhub">
+        <title>The Hidden Pollution From Electric Cars: When Tires Become Microplastics</title>
     </programme>
     <programme start="20260318233000 +0000" stop="20260319000000 +0000" channel="DW English HD.starhub">
         <title>Spotlight on People</title>
