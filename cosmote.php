@@ -86,6 +86,14 @@
     <title>UEFA Champions League Highlights 2025-26</title>
     <desc>Live: Tidak</desc>
 </programme>
+<programme start="20260321050000 +0700" stop="20260321053000 +0700" channel="COSMOTE Sport 1 HD">
+    <title>UEFA Champions League Highlights 2025-26</title>
+    <desc>Live: Tidak</desc>
+</programme>
+<programme start="20260321053000 +0700" stop="20260321060000 +0700" channel="COSMOTE Sport 1 HD">
+    <title>Game R1 S6 E30</title>
+    <desc>Live: Tidak</desc>
+</programme>
 <programme start="20260320030000 +0700" stop="20260320050500 +0700" channel="COSMOTE Sport 2 HD">
     <title>European Football Show Greek Edition 2025-26 (L)</title>
     <desc>Live: Ya</desc>
@@ -218,6 +226,10 @@
     <title>Football: CF Estrela de Amadora - Casa Pia (L)</title>
     <desc>Live: Ya</desc>
 </programme>
+<programme start="20260321051500 +0700" stop="20260321071000 +0700" channel="COSMOTE Sport 3 HD">
+    <title>Football: Anorthosis Famagusta - Apollon Limassol</title>
+    <desc>Live: Tidak</desc>
+</programme>
 <programme start="20260320030000 +0700" stop="20260320050500 +0700" channel="COSMOTE Sport 4 HD">
     <title>Football: Real Betis Balompie - Panathinaikos (L)</title>
     <desc>Live: Ya</desc>
@@ -284,6 +296,10 @@
 </programme>
 <programme start="20260321023000 +0700" stop="20260321050000 +0700" channel="COSMOTE Sport 4 HD">
     <title>Basketball: San Antonio Spurs - Phoenix Suns</title>
+    <desc>Live: Tidak</desc>
+</programme>
+<programme start="20260321050000 +0700" stop="20260321060000 +0700" channel="COSMOTE Sport 4 HD">
+    <title>NBA Specials</title>
     <desc>Live: Tidak</desc>
 </programme>
 <programme start="20260320030000 +0700" stop="20260320050500 +0700" channel="COSMOTE Sport 5 HD">
@@ -390,9 +406,9 @@
     <title>Motorsports: Moto2 2026</title>
     <desc>Live: Tidak</desc>
 </programme>
-<programme start="20260320020000 +0700" stop="20260320043000 +0700" channel="COSMOTE Sport 6 HD">
-    <title>Tennis: Stefanos Tsitsipas - Arthur Ferry (L)</title>
-    <desc>Live: Ya</desc>
+<programme start="20260321055000 +0700" stop="20260321071000 +0700" channel="COSMOTE Sport 5 HD">
+    <title>Motorsports: MotoGP 2026</title>
+    <desc>Live: Tidak</desc>
 </programme>
 <programme start="20260320043000 +0700" stop="20260320053000 +0700" channel="COSMOTE Sport 6 HD">
     <title>Tennis: ATP Masters 1000 2026 (L)</title>
@@ -439,6 +455,10 @@
     <desc>Live: Ya</desc>
 </programme>
 <programme start="20260321020000 +0700" stop="20260321053000 +0700" channel="COSMOTE Sport 6 HD">
+    <title>Tennis: ATP Masters 1000 2026 (L)</title>
+    <desc>Live: Ya</desc>
+</programme>
+<programme start="20260321053000 +0700" stop="20260321083000 +0700" channel="COSMOTE Sport 6 HD">
     <title>Tennis: ATP Masters 1000 2026 (L)</title>
     <desc>Live: Ya</desc>
 </programme>
@@ -506,6 +526,14 @@
     <title>Football: Preston North End - Stoke City (L)</title>
     <desc>Live: Ya</desc>
 </programme>
+<programme start="20260321050500 +0700" stop="20260321053000 +0700" channel="COSMOTE Sport 7 HD">
+    <title>COSMOTESport7HD</title>
+    <desc>Live: Tidak</desc>
+</programme>
+<programme start="20260321053000 +0700" stop="20260321060000 +0700" channel="COSMOTE Sport 7 HD">
+    <title>COSMOTESport7HD</title>
+    <desc>Live: Tidak</desc>
+</programme>
 <programme start="20260320030000 +0700" stop="20260320050500 +0700" channel="COSMOTE Sport 8 HD">
     <title>Football: Rayo Vallecano de Madrid - Samsunspor (L)</title>
     <desc>Live: Ya</desc>
@@ -559,6 +587,10 @@
     <desc>Live: Tidak</desc>
 </programme>
 <programme start="20260321030000 +0700" stop="20260321050000 +0700" channel="COSMOTE Sport 8 HD">
+    <title>COSMOTESport8HD</title>
+    <desc>Live: Tidak</desc>
+</programme>
+<programme start="20260321050000 +0700" stop="20260321070000 +0700" channel="COSMOTE Sport 8 HD">
     <title>COSMOTESport8HD</title>
     <desc>Live: Tidak</desc>
 </programme>
