@@ -1,7 +1,3 @@
-<programme start="20260319153000 +0700" stop="20260319172500 +0700" channel="COSMOTE Sport 1 HD">
-    <title>Football: Tottenham Hotspur - Club Atletico de Madrid</title>
-    <desc>Live: Tidak</desc>
-</programme>
 <programme start="20260319172500 +0700" stop="20260319192500 +0700" channel="COSMOTE Sport 1 HD">
     <title>Football: FC Barcelona - Newcastle United</title>
     <desc>Live: Tidak</desc>
@@ -74,6 +70,10 @@
     <title>UEFA Champions League Highlights 2025-26</title>
     <desc>Live: Tidak</desc>
 </programme>
+<programme start="20260320180000 +0700" stop="20260320200000 +0700" channel="COSMOTE Sport 1 HD">
+    <title>Football: FC Porto - VfB Stuttgart</title>
+    <desc>Live: Tidak</desc>
+</programme>
 <programme start="20260319161000 +0700" stop="20260319181000 +0700" channel="COSMOTE Sport 2 HD">
     <title>Football: Pisa - Cagliari</title>
     <desc>Live: Tidak</desc>
@@ -140,10 +140,6 @@
 </programme>
 <programme start="20260320173000 +0700" stop="20260320193000 +0700" channel="COSMOTE Sport 2 HD">
     <title>Football: AEK Larnaca - Crystal Palace</title>
-    <desc>Live: Tidak</desc>
-</programme>
-<programme start="20260319170000 +0700" stop="20260319173000 +0700" channel="COSMOTE Sport 3 HD">
-    <title>Emirates FA Cup 2025-26 - Highlights</title>
     <desc>Live: Tidak</desc>
 </programme>
 <programme start="20260319173000 +0700" stop="20260319193000 +0700" channel="COSMOTE Sport 3 HD">
@@ -274,10 +270,6 @@
     <title>Basketball: San Antonio Spurs - Phoenix Suns</title>
     <desc>Live: Tidak</desc>
 </programme>
-<programme start="20260319160000 +0700" stop="20260319173000 +0700" channel="COSMOTE Sport 5 HD">
-    <title>DTM 2025</title>
-    <desc>Live: Tidak</desc>
-</programme>
 <programme start="20260319173000 +0700" stop="20260319191500 +0700" channel="COSMOTE Sport 5 HD">
     <title>DTM 2025</title>
     <desc>Live: Tidak</desc>
@@ -369,6 +361,10 @@
 <programme start="20260320175500 +0700" stop="20260320185500 +0700" channel="COSMOTE Sport 5 HD">
     <title>WRC</title>
     <desc>Live: Tidak</desc>
+</programme>
+<programme start="20260320185500 +0700" stop="20260320195500 +0700" channel="COSMOTE Sport 5 HD">
+    <title>Motorsports: Moto3 2026 (L)</title>
+    <desc>Live: Ya</desc>
 </programme>
 <programme start="20260319170000 +0700" stop="20260319193000 +0700" channel="COSMOTE Sport 6 HD">
     <title>Volleyball: Panathinaikos - Vallefoglia</title>

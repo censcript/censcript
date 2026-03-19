@@ -3893,7 +3893,7 @@
         <title>Exercise for Everyone</title>
     </programme>
     <programme start="20260319010500 +0000" stop="20260319020500 +0000" channel="NHK World Premium HD.starhub">
-        <title>Rokkaku Seiji&#039;s Nomitetsu Railroad Trip: Northern Line, State Railway of Thailand Part 1 (R)</title>
+        <title>Northern Line, State Railway of Thailand Part 1</title>
     </programme>
     <programme start="20260319020500 +0000" stop="20260319021500 +0000" channel="NHK World Premium HD.starhub">
         <title>City-Scope</title>
