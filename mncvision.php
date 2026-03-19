@@ -2332,7 +2332,84 @@
 <programme start="20260319160000 +0000" stop="20260319163000 +0000" channel="CGTN Documentary.mncvision">
     <title>Roots Of The Nation, Ep 4</title>
 </programme>
-Error: Unable to fetch data. HTTP Status Code: 500
+<programme start="20260318170000 +0000" stop="20260318180000 +0000" channel="Channel News Asia.mncvision">
+    <title>Undercover Asia S11: Digital...</title>
+</programme>
+<programme start="20260318180000 +0000" stop="20260318190000 +0000" channel="Channel News Asia.mncvision">
+    <title>Singapore Tonight</title>
+</programme>
+<programme start="20260318190000 +0000" stop="20260318200000 +0000" channel="Channel News Asia.mncvision">
+    <title>After The Fire</title>
+</programme>
+<programme start="20260318200000 +0000" stop="20260318210000 +0000" channel="Channel News Asia.mncvision">
+    <title>Asia Tonight</title>
+</programme>
+<programme start="20260318210000 +0000" stop="20260318213000 +0000" channel="Channel News Asia.mncvision">
+    <title>Money Mind, Ep 43</title>
+</programme>
+<programme start="20260318213000 +0000" stop="20260318220000 +0000" channel="Channel News Asia.mncvision">
+    <title>CNA Correspondent, Ep 39</title>
+</programme>
+<programme start="20260318220000 +0000" stop="20260318230000 +0000" channel="Channel News Asia.mncvision">
+    <title>Singapore Tonight</title>
+</programme>
+<programme start="20260318230000 +0000" stop="20260319020000 +0000" channel="Channel News Asia.mncvision">
+    <title>Asia First</title>
+</programme>
+<programme start="20260319020000 +0000" stop="20260319023000 +0000" channel="Channel News Asia.mncvision">
+    <title>Money Mind, Ep 43</title>
+</programme>
+<programme start="20260319023000 +0000" stop="20260319030000 +0000" channel="Channel News Asia.mncvision">
+    <title>CNA Correspondent, Ep 39</title>
+</programme>
+<programme start="20260319030000 +0000" stop="20260319050000 +0000" channel="Channel News Asia.mncvision">
+    <title>Asia Now</title>
+</programme>
+<programme start="20260319050000 +0000" stop="20260319060000 +0000" channel="Channel News Asia.mncvision">
+    <title>Undercover Asia S11: Silent...</title>
+</programme>
+<programme start="20260319060000 +0000" stop="20260319080000 +0000" channel="Channel News Asia.mncvision">
+    <title>Asia Now</title>
+</programme>
+<programme start="20260319080000 +0000" stop="20260319090000 +0000" channel="Channel News Asia.mncvision">
+    <title>Singapore Hour, Ep 37</title>
+</programme>
+<programme start="20260319090000 +0000" stop="20260319090200 +0000" channel="Channel News Asia.mncvision">
+    <title>Headline News</title>
+</programme>
+<programme start="20260319090200 +0000" stop="20260319100000 +0000" channel="Channel News Asia.mncvision">
+    <title>Undercover Asia S11: Digital...</title>
+</programme>
+<programme start="20260319100000 +0000" stop="20260319110000 +0000" channel="Channel News Asia.mncvision">
+    <title>East Asia Tonight</title>
+</programme>
+<programme start="20260319110000 +0000" stop="20260319113000 +0000" channel="Channel News Asia.mncvision">
+    <title>Building Change, Ep 2</title>
+</programme>
+<programme start="20260319113000 +0000" stop="20260319120000 +0000" channel="Channel News Asia.mncvision">
+    <title>CNA Correspondent, Ep 39</title>
+</programme>
+<programme start="20260319120000 +0000" stop="20260319130000 +0000" channel="Channel News Asia.mncvision">
+    <title>Asia Tonight</title>
+</programme>
+<programme start="20260319130000 +0000" stop="20260319140000 +0000" channel="Channel News Asia.mncvision">
+    <title>Insight, Ep 43</title>
+</programme>
+<programme start="20260319140000 +0000" stop="20260319150000 +0000" channel="Channel News Asia.mncvision">
+    <title>Singapore Tonight</title>
+</programme>
+<programme start="20260319150000 +0000" stop="20260319153000 +0000" channel="Channel News Asia.mncvision">
+    <title>Building Change, Ep 2</title>
+</programme>
+<programme start="20260319153000 +0000" stop="20260319160000 +0000" channel="Channel News Asia.mncvision">
+    <title>CNA Correspondent, Ep 39</title>
+</programme>
+<programme start="20260319160000 +0000" stop="20260319160300 +0000" channel="Channel News Asia.mncvision">
+    <title>Headline News</title>
+</programme>
+<programme start="20260319160300 +0000" stop="20260319163300 +0000" channel="Channel News Asia.mncvision">
+    <title>East Asia Tonight</title>
+</programme>
 <programme start="20260318184100 +0000" stop="20260318202000 +0000" channel="CINEEDGE.mncvision">
     <title>Double Identity</title>
 </programme>
@@ -5429,7 +5506,84 @@ Error: Unable to fetch data. HTTP Status Code: 500
 <programme start="20260319163000 +0000" stop="20260318170000 +0000" channel="LIFE.mncvision">
     <title>Glow Series</title>
 </programme>
-Error: Unable to fetch data. HTTP Status Code: 500
+<programme start="20260318170500 +0000" stop="20260318173500 +0000" channel="Lifetime.mncvision">
+    <title>Legends Of The Fork, Ep 4</title>
+</programme>
+<programme start="20260318173500 +0000" stop="20260318180500 +0000" channel="Lifetime.mncvision">
+    <title>Global Soul Kitchen S1, Ep 3</title>
+</programme>
+<programme start="20260318180500 +0000" stop="20260318183500 +0000" channel="Lifetime.mncvision">
+    <title>Jason&#039;s Table: Dishes, Ep 3</title>
+</programme>
+<programme start="20260318183500 +0000" stop="20260318202000 +0000" channel="Lifetime.mncvision">
+    <title>Living With My Mother&#039;s Killer</title>
+</programme>
+<programme start="20260318202000 +0000" stop="20260318220500 +0000" channel="Lifetime.mncvision">
+    <title>Abducted In The Everglades</title>
+</programme>
+<programme start="20260318220500 +0000" stop="20260318223500 +0000" channel="Lifetime.mncvision">
+    <title>Legends Of The Fork, Ep 4</title>
+</programme>
+<programme start="20260318223500 +0000" stop="20260318230500 +0000" channel="Lifetime.mncvision">
+    <title>Global Soul Kitchen S1, Ep 3</title>
+</programme>
+<programme start="20260318230500 +0000" stop="20260318233000 +0000" channel="Lifetime.mncvision">
+    <title>Jason&#039;s Table: Dishes, Ep 7</title>
+</programme>
+<programme start="20260318233000 +0000" stop="20260319010000 +0000" channel="Lifetime.mncvision">
+    <title>MasterChef Australia S17, Ep 48</title>
+</programme>
+<programme start="20260319010000 +0000" stop="20260319020000 +0000" channel="Lifetime.mncvision">
+    <title>Ppang Car Road S2, Ep 3</title>
+</programme>
+<programme start="20260319020000 +0000" stop="20260319023500 +0000" channel="Lifetime.mncvision">
+    <title>Jason&#039;s Table: Dishes, Ep 8</title>
+</programme>
+<programme start="20260319023500 +0000" stop="20260319042000 +0000" channel="Lifetime.mncvision">
+    <title>Abducted In The Everglades</title>
+</programme>
+<programme start="20260319042000 +0000" stop="20260319060000 +0000" channel="Lifetime.mncvision">
+    <title>Neighbor Who Saw Too Much</title>
+</programme>
+<programme start="20260319060000 +0000" stop="20260319070000 +0000" channel="Lifetime.mncvision">
+    <title>Dr. Pimple: Breaking Out, Ep 1</title>
+</programme>
+<programme start="20260319070000 +0000" stop="20260319080000 +0000" channel="Lifetime.mncvision">
+    <title>Million Dollar Zombie..., Ep 2</title>
+</programme>
+<programme start="20260319080000 +0000" stop="20260319090000 +0000" channel="Lifetime.mncvision">
+    <title>Ppang Car Road S2, Ep 4</title>
+</programme>
+<programme start="20260319090000 +0000" stop="20260319100000 +0000" channel="Lifetime.mncvision">
+    <title>MasterChef Australia S17, Ep 49</title>
+</programme>
+<programme start="20260319100000 +0000" stop="20260319103000 +0000" channel="Lifetime.mncvision">
+    <title>Oceanfront Property Hunt, Ep 2</title>
+</programme>
+<programme start="20260319103000 +0000" stop="20260319110000 +0000" channel="Lifetime.mncvision">
+    <title>Legends Of The Fork, Ep 5</title>
+</programme>
+<programme start="20260319110000 +0000" stop="20260319113000 +0000" channel="Lifetime.mncvision">
+    <title>Global Soul Kitchen S1, Ep 4</title>
+</programme>
+<programme start="20260319113000 +0000" stop="20260319123000 +0000" channel="Lifetime.mncvision">
+    <title>Theresa Caputo: Spirits, Ep 4</title>
+</programme>
+<programme start="20260319123000 +0000" stop="20260319130000 +0000" channel="Lifetime.mncvision">
+    <title>Meals In Minutes S1, Ep 18</title>
+</programme>
+<programme start="20260319130000 +0000" stop="20260319140000 +0000" channel="Lifetime.mncvision">
+    <title>Million Dollar Zombie..., Ep 1</title>
+</programme>
+<programme start="20260319140000 +0000" stop="20260319153500 +0000" channel="Lifetime.mncvision">
+    <title>The Killer Inside: Ruth Finley</title>
+</programme>
+<programme start="20260319153500 +0000" stop="20260319163500 +0000" channel="Lifetime.mncvision">
+    <title>Theresa Caputo: Spirits, Ep 4</title>
+</programme>
+<programme start="20260319163500 +0000" stop="20260318170500 +0000" channel="Lifetime.mncvision">
+    <title>Meals In Minutes S1, Ep 18</title>
+</programme>
 <programme start="20260318172500 +0000" stop="20260318182000 +0000" channel="Love Nature.mncvision">
     <title>Wild Sky S1, Ep 1</title>
 </programme>
@@ -7722,7 +7876,63 @@ Error: Unable to fetch data. HTTP Status Code: 500
 <programme start="20260319160000 +0000" stop="20260319163000 +0000" channel="SCTV.mncvision">
     <title>Sunan Kalijaga</title>
 </programme>
-Error: Unable to fetch data. HTTP Status Code: 500
+<programme start="20260318171500 +0000" stop="20260318181500 +0000" channel="SCTV HD.mncvision">
+    <title>Puskesmas I&#039;m In Love Jatuh...</title>
+</programme>
+<programme start="20260318181500 +0000" stop="20260318193000 +0000" channel="SCTV HD.mncvision">
+    <title>Lorong Waktu</title>
+</programme>
+<programme start="20260318193000 +0000" stop="20260318211500 +0000" channel="SCTV HD.mncvision">
+    <title>Para Pencari Tuhan Jilid 19</title>
+</programme>
+<programme start="20260318211500 +0000" stop="20260318230000 +0000" channel="SCTV HD.mncvision">
+    <title>Lorong Waktu Jilid 2</title>
+</programme>
+<programme start="20260318230000 +0000" stop="20260318234500 +0000" channel="SCTV HD.mncvision">
+    <title>Liputan 6 Pagi (L)</title>
+</programme>
+<programme start="20260318234500 +0000" stop="20260319001500 +0000" channel="SCTV HD.mncvision">
+    <title>Halo Selebriti</title>
+</programme>
+<programme start="20260319001500 +0000" stop="20260319011500 +0000" channel="SCTV HD.mncvision">
+    <title>Tiba-Tiba Kuis</title>
+</programme>
+<programme start="20260319011500 +0000" stop="20260319024500 +0000" channel="SCTV HD.mncvision">
+    <title>Cantik-Cantik Ora Ngapak Ora...</title>
+</programme>
+<programme start="20260319024500 +0000" stop="20260319050000 +0000" channel="SCTV HD.mncvision">
+    <title>Siapa Suruh Datang Jakarta?</title>
+</programme>
+<programme start="20260319050000 +0000" stop="20260319051500 +0000" channel="SCTV HD.mncvision">
+    <title>Liputan 6 Siang (L)</title>
+</programme>
+<programme start="20260319051500 +0000" stop="20260319063000 +0000" channel="SCTV HD.mncvision">
+    <title>Salah Paket Cinta No Comment...</title>
+</programme>
+<programme start="20260319063000 +0000" stop="20260319081500 +0000" channel="SCTV HD.mncvision">
+    <title>Bang Toge Pamit Balik Lagi</title>
+</programme>
+<programme start="20260319081500 +0000" stop="20260319093000 +0000" channel="SCTV HD.mncvision">
+    <title>Utak-Atik Cinta Nella Kuy</title>
+</programme>
+<programme start="20260319093000 +0000" stop="20260319113000 +0000" channel="SCTV HD.mncvision">
+    <title>Asmara Gen Z</title>
+</programme>
+<programme start="20260319113000 +0000" stop="20260319120000 +0000" channel="SCTV HD.mncvision">
+    <title>Istiqomah Cinta</title>
+</programme>
+<programme start="20260319120000 +0000" stop="20260319130000 +0000" channel="SCTV HD.mncvision">
+    <title>Sidang Isbat 1 Syawal</title>
+</programme>
+<programme start="20260319130000 +0000" stop="20260319143000 +0000" channel="SCTV HD.mncvision">
+    <title>Beri Cinta Waktu</title>
+</programme>
+<programme start="20260319143000 +0000" stop="20260319160000 +0000" channel="SCTV HD.mncvision">
+    <title>Jejak Duka Diandra</title>
+</programme>
+<programme start="20260319160000 +0000" stop="20260319163000 +0000" channel="SCTV HD.mncvision">
+    <title>Sunan Kalijaga</title>
+</programme>
 <programme start="20260318170000 +0000" stop="20260318180000 +0000" channel="Sindo News TV.mncvision">
     <title>iNews Sore</title>
 </programme>
