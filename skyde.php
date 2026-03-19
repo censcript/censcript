@@ -3337,56 +3337,32 @@ Warning: Undefined array key "et" in /usr/home/ManusiaBiasa/domains/manusiabiasa
 <programme start="20260319223000 +0000" stop="20260319233000 +0000" channel="Sky Sport Premier League HD.skyde">
     <title>PL: The Catch-Up Show</title>
 </programme>
-<programme start="20260319010000 +0000" stop="20260319013000 +0000" channel="Sky Sport Tennis HD.skyde">
-    <title>WTA 1000: Review Indian Wells</title>
-</programme>
-<programme start="20260319013000 +0000" stop="20260319023000 +0000" channel="Sky Sport Tennis HD.skyde">
-    <title>ATP 1000: Review Indian Wells</title>
-</programme>
-<programme start="20260319023000 +0000" stop="20260319030000 +0000" channel="Sky Sport Tennis HD.skyde">
-    <title>ATP: This Week</title>
-</programme>
 <programme start="20260319030000 +0000" stop="20260319053000 +0000" channel="Sky Sport Tennis HD.skyde">
     <title>WTA 1000: E. Rybakina (KAZ) - A. Sabalenka, BNP Paribas Open in Indian Wells, Kalifornien (USA), Finale</title>
 </programme>
 <programme start="20260319053000 +0000" stop="20260319060000 +0000" channel="Sky Sport Tennis HD.skyde">
     <title>WTA 1000: Review Indian Wells</title>
 </programme>
-<programme start="20260319060000 +0000" stop="20260319073000 +0000" channel="Sky Sport Tennis HD.skyde">
-    <title>WTA 1000: L. Siegemund (GER) - P. Marcinko (CRO), Miami Open presented by Itaú in Miami, Florida (USA), 1. Tag</title>
+<programme start="20260319060000 +0000" stop="20260319080000 +0000" channel="Sky Sport Tennis HD.skyde">
+    <title>WTA 1000: E. Lys (GER) - Y. Starodubtseva (UKR), Miami Open presented by Itaú in Miami, Florida (USA), 2. Tag</title>
 </programme>
-<programme start="20260319073000 +0000" stop="20260319100000 +0000" channel="Sky Sport Tennis HD.skyde">
-    <title>ATP 1000: J. Sinner (ITA) - D. Medvedev, BNP Paribas Open in Indian Wells, Kalifornien (USA), Finale</title>
+<programme start="20260319080000 +0000" stop="20260319100000 +0000" channel="Sky Sport Tennis HD.skyde">
+    <title>ATP 1000: J.-L Struff (GER) - D. Blanch (USA), Miami Open presented by Itaú in Miami, Florida (USA), 2. Tag</title>
 </programme>
 <programme start="20260319100000 +0000" stop="20260319110000 +0000" channel="Sky Sport Tennis HD.skyde">
     <title>ATP 1000: Review Indian Wells</title>
 </programme>
-<programme start="20260319110000 +0000" stop="20260319123000 +0000" channel="Sky Sport Tennis HD.skyde">
-    <title>WTA 1000: L. Siegemund (GER) - P. Marcinko (CRO), Miami Open presented by Itaú in Miami, Florida (USA), 1. Tag</title>
+<programme start="20260319110000 +0000" stop="20260319130000 +0000" channel="Sky Sport Tennis HD.skyde">
+    <title>WTA 1000: E. Lys (GER) - Y. Starodubtseva (UKR), Miami Open presented by Itaú in Miami, Florida (USA), 2. Tag</title>
 </programme>
-<programme start="20260319123000 +0000" stop="20260319150000 +0000" channel="Sky Sport Tennis HD.skyde">
-    <title>ATP 1000: J. Sinner (ITA) - D. Medvedev, BNP Paribas Open in Indian Wells, Kalifornien (USA), Finale</title>
+<programme start="20260319130000 +0000" stop="20260319150000 +0000" channel="Sky Sport Tennis HD.skyde">
+    <title>ATP 1000: J.-L Struff (GER) - D. Blanch (USA), Miami Open presented by Itaú in Miami, Florida (USA), 2. Tag</title>
 </programme>
 <programme start="20260319150000 +0000" stop="20260320030000 +0000" channel="Sky Sport Tennis HD.skyde">
     <title>Live ATP &amp; WTA: Konferenz Miami Open presented by Itaú in Miami, Florida (USA), 3. Tag</title>
 </programme>
-<programme start="20260318230000 +0000" stop="20260319000000 +0000" channel="Sky Sport Top Event HD.skyde">
-    <title>Ferrari Challenge Europe: Trofeo Pirelli &amp; Pirelli AM - 1. Rennen in Le Castellet</title>
-</programme>
-<programme start="20260319000000 +0000" stop="20260319010000 +0000" channel="Sky Sport Top Event HD.skyde">
-    <title>Ferrari Challenge Europe: Trofeo Pirelli &amp; Pirelli AM - 2. Rennen in Le Castellet</title>
-</programme>
-<programme start="20260319010000 +0000" stop="20260319020000 +0000" channel="Sky Sport Top Event HD.skyde">
-    <title>WRC: Highlights: Safari Rally Kenia</title>
-</programme>
-<programme start="20260319020000 +0000" stop="20260319023000 +0000" channel="Sky Sport Top Event HD.skyde">
-    <title>Fußball: scooore Polen! Alle Tore</title>
-</programme>
-<programme start="20260319023000 +0000" stop="20260319030000 +0000" channel="Sky Sport Top Event HD.skyde">
-    <title>Fußball: scooore Portugal! Alle Tore</title>
-</programme>
 <programme start="20260319030000 +0000" stop="20260319033000 +0000" channel="Sky Sport Top Event HD.skyde">
-    <title>2. BL: Dein Zweitligatalk - HvK &amp; Tusche</title>
+    <title>PL: PL Stories (Demba Ba)</title>
 </programme>
 <programme start="20260319033000 +0000" stop="20260319043000 +0000" channel="Sky Sport Top Event HD.skyde">
     <title>Ferrari Challenge Europe: Trofeo Pirelli &amp; Pirelli AM - 1. Rennen in Le Castellet</title>
@@ -3466,7 +3442,7 @@ Warning: Undefined array key "et" in /usr/home/ManusiaBiasa/domains/manusiabiasa
 <programme start="20260319144000 +0000" stop="20260319150000 +0000" channel="Sky Sport 1 HD.skyde">
     <title>Es folgt: Live Tennis WTA Tour</title>
 </programme>
-<programme start="20260319150000 +0000" stop="20260320090000 +0000" channel="Sky Sport 1 HD.skyde">
+<programme start="20260319150000 +0000" stop="20260320030000 +0000" channel="Sky Sport 1 HD.skyde">
     <title>Live WTA 1000: Miami Open presented by Itaú in Miami, Florida (USA), 3. Tag</title>
 </programme>
 <programme start="20260319193000 +0000" stop="20260319195000 +0000" channel="Sky Sport 2 HD.skyde">

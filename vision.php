@@ -532,9 +532,6 @@
 <programme start="20260319050000 +0000" stop="20260319063000 +0000" channel="Trans 7.vision">
 <title>Imperfect: Karier, Cinta...</title>
 </programme>
-<programme start="20260319063000 +0000" stop="20260319080000 +0000" channel="Trans 7.vision">
-<title>Warkop: Tahu Diri Dong</title>
-</programme>
 <programme start="20260319080000 +0000" stop="20260319090000 +0000" channel="Trans 7.vision">
 <title>Makan Receh Kultum</title>
 </programme>
@@ -624,12 +621,6 @@
 </programme>
 <programme start="20260319090000 +0000" stop="20260319110000 +0000" channel="ANTV.vision">
 <title>Vasudha</title>
-</programme>
-<programme start="20260319110000 +0000" stop="20260319130000 +0000" channel="ANTV.vision">
-<title>Komando Samber Nyawa</title>
-</programme>
-<programme start="20260319130000 +0000" stop="20260319150000 +0000" channel="ANTV.vision">
-<title>Preman</title>
 </programme>
 <programme start="20260319150000 +0000" stop="20260319170000 +0000" channel="ANTV.vision">
 <title>Bagi-Bagi Dong</title>
@@ -810,12 +801,6 @@
 </programme>
 <programme start="20260319110000 +0000" stop="20260319113000 +0000" channel="TVOne.vision">
 <title>Breaking News (L)</title>
-</programme>
-<programme start="20260319113000 +0000" stop="20260319130000 +0000" channel="TVOne.vision">
-<title>Isbat 1 Syawal 1447 H</title>
-</programme>
-<programme start="20260319130000 +0000" stop="20260319134500 +0000" channel="TVOne.vision">
-<title>Dua Sisi</title>
 </programme>
 <programme start="20260319134500 +0000" stop="20260319140000 +0000" channel="TVOne.vision">
 <title>Tafakur: Bunda Munifah</title>
@@ -1497,4 +1482,19 @@
 </programme>
 <programme start="20260320105400 +0000" stop="20260320110100 +0000" channel="BTV.vision">
 <title>Kultum</title>
+</programme>
+<programme start="20260320110100 +0000" stop="20260320110600 +0000" channel="BTV.vision">
+<title>Menantikan Azan Magrib</title>
+</programme>
+<programme start="20260320110600 +0000" stop="20260320111000 +0000" channel="BTV.vision">
+<title>Azan Magrib</title>
+</programme>
+<programme start="20260320111000 +0000" stop="20260320111500 +0000" channel="BTV.vision">
+<title>Selamat Berbuka Puasa</title>
+</programme>
+<programme start="20260320111500 +0000" stop="20260320130000 +0000" channel="BTV.vision">
+<title>Berita Satu Utama</title>
+</programme>
+<programme start="20260318230000 +0000" stop="20260319010000 +0000" channel="TVRI.vision">
+<title>TVRI</title>
 </programme>
