@@ -2581,7 +2581,7 @@ Warning: Undefined array key "et" in /usr/home/ManusiaBiasa/domains/manusiabiasa
 <programme start="20260319173500 +0000" stop="20260319195000 +0000" channel="Sky Sport Austria 2 HD.skyde">
     <title>Live UEFA EL: SC Freiburg - KRC Genk, Achtelfinale, Rückspiel</title>
 </programme>
-<programme start="20260319195000 +0000" stop="20260319230000 +0000" channel="Sky Sport Austria 2 HD.skyde">
+<programme start="20260319195000 +0000" stop="20260319220000 +0000" channel="Sky Sport Austria 2 HD.skyde">
     <title>Live UEFA EL: AS Rom - FC Bologna, Achtelfinale, Rückspiel</title>
 </programme>
 <programme start="20260319171500 +0000" stop="20260319173500 +0000" channel="Sky Sport Austria 3 HD.skyde">
@@ -2590,7 +2590,7 @@ Warning: Undefined array key "et" in /usr/home/ManusiaBiasa/domains/manusiabiasa
 <programme start="20260319173500 +0000" stop="20260319195000 +0000" channel="Sky Sport Austria 3 HD.skyde">
     <title>Live UEFA ECL: AEK Larnaka - Crystal Palace, Achtelfinale, Rückspiel</title>
 </programme>
-<programme start="20260319195000 +0000" stop="20260319230000 +0000" channel="Sky Sport Austria 3 HD.skyde">
+<programme start="20260319195000 +0000" stop="20260319220000 +0000" channel="Sky Sport Austria 3 HD.skyde">
     <title>Live UEFA EL: Aston Villa - LOSC Lille, Achtelfinale, Rückspiel</title>
 </programme>
 <programme start="20260319090000 +0000" stop="20260319090500 +0000" channel="Sky Sport Austria 4 HD.skyde">
@@ -2869,7 +2869,7 @@ Warning: Undefined array key "et" in /usr/home/ManusiaBiasa/domains/manusiabiasa
 <programme start="20260319173500 +0000" stop="20260319195000 +0000" channel="Sky Sport Austria 6 HD.skyde">
     <title>Live UEFA EL: FC Midtjylland - Nottingham Forest, Achtelfinale, Rückspiel</title>
 </programme>
-<programme start="20260319195000 +0000" stop="20260319230000 +0000" channel="Sky Sport Austria 6 HD.skyde">
+<programme start="20260319195000 +0000" stop="20260319220000 +0000" channel="Sky Sport Austria 6 HD.skyde">
     <title>Live UEFA ECL: Rayo Vallecano - FC Samsunspor, Achtelfinale, Rückspiel</title>
 </programme>
 <programme start="20260319171500 +0000" stop="20260319173500 +0000" channel="Sky Sport Austria 7 HD.skyde">
@@ -2887,7 +2887,7 @@ Warning: Undefined array key "et" in /usr/home/ManusiaBiasa/domains/manusiabiasa
 <programme start="20260319173500 +0000" stop="20260319195000 +0000" channel="Sky Sport Austria 8 HD.skyde">
     <title>Live UEFA ECL: AEK Athen - NK Celje, Achtelfinale, Rückspiel</title>
 </programme>
-<programme start="20260319195000 +0000" stop="20260319220000 +0000" channel="Sky Sport Austria 8 HD.skyde">
+<programme start="20260319195000 +0000" stop="20260319230000 +0000" channel="Sky Sport Austria 8 HD.skyde">
     <title>Live UEFA ECL: RC Straßburg - HNK Rijeka, Achtelfinale, Rückspiel</title>
 </programme>
 <programme start="20260318230000 +0000" stop="20260318233000 +0000" channel="Sky Sport Bundesliga HD.skyde">
@@ -3335,19 +3335,19 @@ Warning: Undefined array key "et" in /usr/home/ManusiaBiasa/domains/manusiabiasa
     <title>WTA 1000: Review Indian Wells</title>
 </programme>
 <programme start="20260319060000 +0000" stop="20260319080000 +0000" channel="Sky Sport Tennis HD.skyde">
-    <title>WTA 1000: E. Lys (GER) - Y. Starodubtseva (UKR), Miami Open presented by Itaú in Miami, Florida (USA), 2. Tag</title>
+    <title>WTA 1000: Topspiel, Miami Open presented by Itaú in Miami, Florida (USA), 2. Tag</title>
 </programme>
 <programme start="20260319080000 +0000" stop="20260319100000 +0000" channel="Sky Sport Tennis HD.skyde">
-    <title>ATP 1000: J.-L Struff (GER) - D. Blanch (USA), Miami Open presented by Itaú in Miami, Florida (USA), 2. Tag</title>
+    <title>ATP 1000: Topspiel, Miami Open presented by Itaú in Miami, Florida (USA), 2. Tag</title>
 </programme>
 <programme start="20260319100000 +0000" stop="20260319110000 +0000" channel="Sky Sport Tennis HD.skyde">
     <title>ATP 1000: Review Indian Wells</title>
 </programme>
 <programme start="20260319110000 +0000" stop="20260319130000 +0000" channel="Sky Sport Tennis HD.skyde">
-    <title>WTA 1000: E. Lys (GER) - Y. Starodubtseva (UKR), Miami Open presented by Itaú in Miami, Florida (USA), 2. Tag</title>
+    <title>WTA 1000: Topspiel, Miami Open presented by Itaú in Miami, Florida (USA), 2. Tag</title>
 </programme>
 <programme start="20260319130000 +0000" stop="20260319150000 +0000" channel="Sky Sport Tennis HD.skyde">
-    <title>ATP 1000: J.-L Struff (GER) - D. Blanch (USA), Miami Open presented by Itaú in Miami, Florida (USA), 2. Tag</title>
+    <title>ATP 1000: Topspiel, Miami Open presented by Itaú in Miami, Florida (USA), 2. Tag</title>
 </programme>
 <programme start="20260319150000 +0000" stop="20260320030000 +0000" channel="Sky Sport Tennis HD.skyde">
     <title>Live ATP &amp; WTA: Konferenz Miami Open presented by Itaú in Miami, Florida (USA), 3. Tag</title>

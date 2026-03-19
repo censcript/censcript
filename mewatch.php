@@ -715,11 +715,56 @@
     <programme start="20260319160000 +0000" stop="20260319180000 +0000" channel="now-80s.mewatch">
         <title>Girls of the 80s!</title>
     </programme>
-    <programme start="20260318160000 +0000" stop="20260319160000 +0000" channel="now-70s.mewatch">
-        <title>Schedule To Be Announced</title>
+    <programme start="20260318160000 +0000" stop="20260318190000 +0000" channel="now-70s.mewatch">
+        <title>What The Heck Kept This Off No.1? - EP1</title>
     </programme>
-    <programme start="20260319160000 +0000" stop="20260320160000 +0000" channel="now-70s.mewatch">
-        <title>Schedule To Be Announced</title>
+    <programme start="20260318190000 +0000" stop="20260318200000 +0000" channel="now-70s.mewatch">
+        <title>The 1970 POWER Hour with Bam! - EP1</title>
+    </programme>
+    <programme start="20260318200000 +0000" stop="20260318210000 +0000" channel="now-70s.mewatch">
+        <title>The 1971 POWER Hour with Bam! - EP1</title>
+    </programme>
+    <programme start="20260318210000 +0000" stop="20260318220000 +0000" channel="now-70s.mewatch">
+        <title>The 1972 POWER Hour with Bam! - EP1</title>
+    </programme>
+    <programme start="20260318220000 +0000" stop="20260318235000 +0000" channel="now-70s.mewatch">
+        <title>25 Forgotten Favourites! - EP1</title>
+    </programme>
+    <programme start="20260318235000 +0000" stop="20260319000000 +0000" channel="now-70s.mewatch">
+        <title>Far Out, Man! - EP1</title>
+    </programme>
+    <programme start="20260319000000 +0000" stop="20260319020000 +0000" channel="now-70s.mewatch">
+        <title>Essentials! 70s Folk Rock - EP1</title>
+    </programme>
+    <programme start="20260319020000 +0000" stop="20260319022500 +0000" channel="now-70s.mewatch">
+        <title>The Hit Songs of Grease! - EP1</title>
+    </programme>
+    <programme start="20260319022500 +0000" stop="20260319030000 +0000" channel="now-70s.mewatch">
+        <title>Spring Has Sprung! - EP1</title>
+    </programme>
+    <programme start="20260319030000 +0000" stop="20260319054500 +0000" channel="now-70s.mewatch">
+        <title>Spring Has Sprung! Top 40 - EP1</title>
+    </programme>
+    <programme start="20260319054500 +0000" stop="20260319060000 +0000" channel="now-70s.mewatch">
+        <title>Spring Has Sprung! - EP1</title>
+    </programme>
+    <programme start="20260319060000 +0000" stop="20260319080500 +0000" channel="now-70s.mewatch">
+        <title>Party Hits &#039;76! with Dave Bartram - EP1</title>
+    </programme>
+    <programme start="20260319080500 +0000" stop="20260319090000 +0000" channel="now-70s.mewatch">
+        <title>Let The Good Times Roll! - EP1</title>
+    </programme>
+    <programme start="20260319090000 +0000" stop="20260319144000 +0000" channel="now-70s.mewatch">
+        <title>They Packed a Punch! 1970-1979 - EP1</title>
+    </programme>
+    <programme start="20260319144000 +0000" stop="20260319150000 +0000" channel="now-70s.mewatch">
+        <title>70s Rock Anthems Night! - EP1</title>
+    </programme>
+    <programme start="20260319150000 +0000" stop="20260319160000 +0000" channel="now-70s.mewatch">
+        <title>Antiques Rockshow with Robin Banks - EP1</title>
+    </programme>
+    <programme start="20260319160000 +0000" stop="20260319164500 +0000" channel="now-70s.mewatch">
+        <title>Spring Has Sprung! Top 40 - EP1</title>
     </programme>
     <programme start="20260318152500 +0000" stop="20260318164000 +0000" channel="cinemaworld.mewatch">
         <title>Europa</title>

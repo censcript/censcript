@@ -2725,17 +2725,14 @@
     <programme start="20260318233000 +0000" stop="20260319000000 +0000" channel="Sun TV.starhub">
         <title>Vanakkam Thamizha</title>
     </programme>
-    <programme start="20260319000000 +0000" stop="20260319010000 +0000" channel="Sun TV.starhub">
-        <title>Ramayanam</title>
-    </programme>
-    <programme start="20260319010000 +0000" stop="20260319020000 +0000" channel="Sun TV.starhub">
-        <title>Singapenne</title>
+    <programme start="20260319000000 +0000" stop="20260319020000 +0000" channel="Sun TV.starhub">
+        <title>Movie - Ayalaan</title>
     </programme>
     <programme start="20260319020000 +0000" stop="20260319023000 +0000" channel="Sun TV.starhub">
         <title>News</title>
     </programme>
     <programme start="20260319023000 +0000" stop="20260319033000 +0000" channel="Sun TV.starhub">
-        <title>Ethirneehcal</title>
+        <title>Movie Contd - Ayalaan</title>
     </programme>
     <programme start="20260319033000 +0000" stop="20260319040000 +0000" channel="Sun TV.starhub">
         <title>Poongodi</title>
@@ -2744,31 +2741,31 @@
         <title>Punitha</title>
     </programme>
     <programme start="20260319043000 +0000" stop="20260319050000 +0000" channel="Sun TV.starhub">
-        <title>MANAMAGALE VAA</title>
+        <title>Manamagale Vaa</title>
     </programme>
     <programme start="20260319050000 +0000" stop="20260319053000 +0000" channel="Sun TV.starhub">
-        <title>VINODHINI</title>
+        <title>Vinodhini</title>
     </programme>
     <programme start="20260319053000 +0000" stop="20260319060000 +0000" channel="Sun TV.starhub">
-        <title>PUTHU VASANTHAM</title>
+        <title>Puthu Vasantham</title>
     </programme>
     <programme start="20260319060000 +0000" stop="20260319063000 +0000" channel="Sun TV.starhub">
-        <title>LAKSHMI</title>
+        <title>Lakshmi</title>
     </programme>
     <programme start="20260319063000 +0000" stop="20260319070000 +0000" channel="Sun TV.starhub">
-        <title>IRU MALARGAL</title>
+        <title>Iru Malargal</title>
     </programme>
     <programme start="20260319070000 +0000" stop="20260319073000 +0000" channel="Sun TV.starhub">
-        <title>AADUKALAM</title>
+        <title>Aadukalam</title>
     </programme>
     <programme start="20260319073000 +0000" stop="20260319080000 +0000" channel="Sun TV.starhub">
-        <title>Movie- MUTHUKKU MUTHAGA</title>
+        <title>Movie - Pattas</title>
     </programme>
     <programme start="20260319080000 +0000" stop="20260319083000 +0000" channel="Sun TV.starhub">
         <title>News</title>
     </programme>
     <programme start="20260319083000 +0000" stop="20260319103000 +0000" channel="Sun TV.starhub">
-        <title>Movie contd - MUTHUKKU MUTHAGA</title>
+        <title>Movie Contd - Pattas</title>
     </programme>
     <programme start="20260319103000 +0000" stop="20260319110000 +0000" channel="Sun TV.starhub">
         <title>Chellame Chellame</title>
@@ -2792,13 +2789,13 @@
         <title>Singapenne</title>
     </programme>
     <programme start="20260319143000 +0000" stop="20260319150000 +0000" channel="Sun TV.starhub">
-        <title>ETHIRNEECHAL THODARGIRADHU</title>
+        <title>Ethirneechal Thodargiradhu</title>
     </programme>
     <programme start="20260319150000 +0000" stop="20260319153000 +0000" channel="Sun TV.starhub">
         <title>Malli</title>
     </programme>
     <programme start="20260319153000 +0000" stop="20260319160000 +0000" channel="Sun TV.starhub">
-        <title>ANANDARAGAM - Serial</title>
+        <title>Anandaragam - Serial</title>
     </programme>
     <programme start="20260318160000 +0000" stop="20260318163000 +0000" channel="Zee Tamil.starhub">
         <title>Veera</title>
@@ -3259,9 +3256,6 @@
     <programme start="20260318210200 +0000" stop="20260318211500 +0000" channel="DW English HD.starhub">
         <title>News</title>
     </programme>
-    <programme start="20260318211500 +0000" stop="20260318220000 +0000" channel="DW English HD.starhub">
-        <title>Zanzibar - Island Paradise in Flux</title>
-    </programme>
     <programme start="20260318220000 +0000" stop="20260318220200 +0000" channel="DW English HD.starhub">
         <title>News</title>
     </programme>
@@ -3273,12 +3267,6 @@
     </programme>
     <programme start="20260318230000 +0000" stop="20260318230200 +0000" channel="DW English HD.starhub">
         <title>News</title>
-    </programme>
-    <programme start="20260318230200 +0000" stop="20260318231500 +0000" channel="DW English HD.starhub">
-        <title>News</title>
-    </programme>
-    <programme start="20260318231500 +0000" stop="20260318233000 +0000" channel="DW English HD.starhub">
-        <title>The Hidden Pollution From Electric Cars: When Tires Become Microplastics</title>
     </programme>
     <programme start="20260318233000 +0000" stop="20260319000000 +0000" channel="DW English HD.starhub">
         <title>Spotlight on People</title>
@@ -3352,10 +3340,10 @@
     <programme start="20260319063000 +0000" stop="20260319070000 +0000" channel="DW English HD.starhub">
         <title>In the Shadow of Terrorism - Indirect Victims of the RAF</title>
     </programme>
-    <programme start="20260319070000 +0000" stop="20260319070200 +0000" channel="DW English HD.starhub">
+    <programme start="20260319070000 +0000" stop="20260319070300 +0000" channel="DW English HD.starhub">
         <title>News</title>
     </programme>
-    <programme start="20260319070200 +0000" stop="20260319071500 +0000" channel="DW English HD.starhub">
+    <programme start="20260319070300 +0000" stop="20260319071500 +0000" channel="DW English HD.starhub">
         <title>News</title>
     </programme>
     <programme start="20260319071500 +0000" stop="20260319080000 +0000" channel="DW English HD.starhub">
@@ -3416,7 +3404,7 @@
         <title>News</title>
     </programme>
     <programme start="20260319131500 +0000" stop="20260319133000 +0000" channel="DW English HD.starhub">
-        <title>Berlin’s glow-up after the fall of the wall: How Germany&#039;s capital rebuilt itself</title>
+        <title>Berlin&#039;s glow-up after the fall of the wall: How Germany&#039;s capital rebuilt itself</title>
     </programme>
     <programme start="20260319133000 +0000" stop="20260319140000 +0000" channel="DW English HD.starhub">
         <title>How cutting parking spaces benefits everyone - even drivers</title>
@@ -6674,7 +6662,7 @@
         <title>1st Rd M1: Canada vs Brazil</title>
     </programme>
     <programme start="20260318230000 +0000" stop="20260319010000 +0000" channel="Hub Sports 1  HD.starhub">
-        <title>Miami Open p/b Itau (1000) Day 1 R1 S4</title>
+        <title>Miami Open p/b Itau (1000) Day 1 R1 Session 4</title>
     </programme>
     <programme start="20260319010000 +0000" stop="20260319030000 +0000" channel="Hub Sports 1  HD.starhub">
         <title>BNP Paribas Open (1000) Final</title>
@@ -6691,29 +6679,26 @@
     <programme start="20260319040000 +0000" stop="20260319050000 +0000" channel="Hub Sports 1  HD.starhub">
         <title>BNP Paribas Open</title>
     </programme>
-    <programme start="20260319050000 +0000" stop="20260319063000 +0000" channel="Hub Sports 1  HD.starhub">
-        <title>Miami Open p/b by Itau (1000) Day 1 R1 S1</title>
+    <programme start="20260319050000 +0000" stop="20260319090000 +0000" channel="Hub Sports 1  HD.starhub">
+        <title>BNP Paribas Open (1000) QF 2 &amp; 3</title>
     </programme>
-    <programme start="20260319063000 +0000" stop="20260319093000 +0000" channel="Hub Sports 1  HD.starhub">
-        <title>Miami Open p/b Itau (1000) Day 1 R1 S2</title>
+    <programme start="20260319090000 +0000" stop="20260319093000 +0000" channel="Hub Sports 1  HD.starhub">
+        <title>Season 3 Episode 9</title>
     </programme>
     <programme start="20260319093000 +0000" stop="20260319100000 +0000" channel="Hub Sports 1  HD.starhub">
         <title>BNP Paribas Open</title>
     </programme>
     <programme start="20260319100000 +0000" stop="20260319113000 +0000" channel="Hub Sports 1  HD.starhub">
-        <title>Miami Open p/b Itau (1000) Day 1 S1</title>
+        <title>BNP Paribas Open (1000) QF 4</title>
     </programme>
-    <programme start="20260319113000 +0000" stop="20260319130000 +0000" channel="Hub Sports 1  HD.starhub">
-        <title>Miami Open p/b Itau (1000) Day 1 S2</title>
+    <programme start="20260319113000 +0000" stop="20260319143000 +0000" channel="Hub Sports 1  HD.starhub">
+        <title>BNP Paribas Open (1000) SF 1 &amp; 2</title>
     </programme>
-    <programme start="20260319130000 +0000" stop="20260319133000 +0000" channel="Hub Sports 1  HD.starhub">
+    <programme start="20260319143000 +0000" stop="20260319150000 +0000" channel="Hub Sports 1  HD.starhub">
         <title>Episode 10</title>
     </programme>
-    <programme start="20260319133000 +0000" stop="20260319150000 +0000" channel="Hub Sports 1  HD.starhub">
-        <title>Miami Open p/b Itau (1000) Day 1 R1 S3</title>
-    </programme>
     <programme start="20260319150000 +0000" stop="20260319170000 +0000" channel="Hub Sports 1  HD.starhub">
-        <title>Miami Open p/b Itau (1000) Day 2 R1 S1</title>
+        <title>Miami Open p/b Itau (1000) Day 2 R1 Session 1</title>
     </programme>
     <programme start="20260318141300 +0000" stop="20260318163000 +0000" channel="SONY MAX.starhub">
         <title>Srikanth</title>
@@ -8008,19 +7993,19 @@
     <programme start="20260318230000 +0000" stop="20260319013000 +0000" channel="Asianet Movies.starhub">
         <title>Kaly</title>
     </programme>
-    <programme start="20260319013000 +0000" stop="20260319043000 +0000" channel="Asianet Movies.starhub">
+    <programme start="20260319013000 +0000" stop="20260319042000 +0000" channel="Asianet Movies.starhub">
         <title>Crazy Gopalan</title>
     </programme>
-    <programme start="20260319043000 +0000" stop="20260319073000 +0000" channel="Asianet Movies.starhub">
+    <programme start="20260319042000 +0000" stop="20260319072000 +0000" channel="Asianet Movies.starhub">
         <title>Thejabhai &amp; Family</title>
     </programme>
-    <programme start="20260319073000 +0000" stop="20260319103000 +0000" channel="Asianet Movies.starhub">
+    <programme start="20260319072000 +0000" stop="20260319103000 +0000" channel="Asianet Movies.starhub">
         <title>Lucifer</title>
     </programme>
     <programme start="20260319103000 +0000" stop="20260319133000 +0000" channel="Asianet Movies.starhub">
         <title>Swapnakkoodu</title>
     </programme>
-    <programme start="20260319133000 +0000" stop="20260319180000 +0000" channel="Asianet Movies.starhub">
+    <programme start="20260319133000 +0000" stop="20260319181000 +0000" channel="Asianet Movies.starhub">
         <title>Pushpa 2: The Rule</title>
     </programme>
     <programme start="20260318160000 +0000" stop="20260318170000 +0000" channel="Astro Warna HD.starhub">
