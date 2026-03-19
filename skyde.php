@@ -3370,6 +3370,24 @@ Warning: Undefined array key "et" in /usr/home/ManusiaBiasa/domains/manusiabiasa
 <programme start="20260319150000 +0000" stop="20260320030000 +0000" channel="Sky Sport Tennis HD.skyde">
     <title>Live ATP &amp; WTA: Konferenz Miami Open presented by Itaú in Miami, Florida (USA), 3. Tag</title>
 </programme>
+<programme start="20260318230000 +0000" stop="20260319000000 +0000" channel="Sky Sport Top Event HD.skyde">
+    <title>Ferrari Challenge Europe: Trofeo Pirelli &amp; Pirelli AM - 1. Rennen in Le Castellet</title>
+</programme>
+<programme start="20260319000000 +0000" stop="20260319010000 +0000" channel="Sky Sport Top Event HD.skyde">
+    <title>Ferrari Challenge Europe: Trofeo Pirelli &amp; Pirelli AM - 2. Rennen in Le Castellet</title>
+</programme>
+<programme start="20260319010000 +0000" stop="20260319020000 +0000" channel="Sky Sport Top Event HD.skyde">
+    <title>WRC: Highlights: Safari Rally Kenia</title>
+</programme>
+<programme start="20260319020000 +0000" stop="20260319023000 +0000" channel="Sky Sport Top Event HD.skyde">
+    <title>Fußball: scooore Polen! Alle Tore</title>
+</programme>
+<programme start="20260319023000 +0000" stop="20260319030000 +0000" channel="Sky Sport Top Event HD.skyde">
+    <title>Fußball: scooore Portugal! Alle Tore</title>
+</programme>
+<programme start="20260319030000 +0000" stop="20260319033000 +0000" channel="Sky Sport Top Event HD.skyde">
+    <title>2. BL: Dein Zweitligatalk - HvK &amp; Tusche</title>
+</programme>
 <programme start="20260319033000 +0000" stop="20260319043000 +0000" channel="Sky Sport Top Event HD.skyde">
     <title>Ferrari Challenge Europe: Trofeo Pirelli &amp; Pirelli AM - 1. Rennen in Le Castellet</title>
 </programme>
@@ -3391,10 +3409,13 @@ Warning: Undefined array key "et" in /usr/home/ManusiaBiasa/domains/manusiabiasa
 <programme start="20260319080000 +0000" stop="20260319130000 +0000" channel="Sky Sport Top Event HD.skyde">
     <title>Live LIV Golf: Südafrika, 1. Tag in Johannesburg</title>
 </programme>
-<programme start="20260319130000 +0000" stop="20260319150000 +0000" channel="Sky Sport Top Event HD.skyde">
-    <title>NHL: Pittsburgh Penguins @ Carolina Hurricanes</title>
+<programme start="20260319130000 +0000" stop="20260319133000 +0000" channel="Sky Sport Top Event HD.skyde">
+    <title>Fußball: scooore Polen! Alle Tore</title>
 </programme>
-<programme start="20260319150000 +0000" stop="20260319173500 +0000" channel="Sky Sport Top Event HD.skyde">
+<programme start="20260319133000 +0000" stop="20260319140000 +0000" channel="Sky Sport Top Event HD.skyde">
+    <title>Fußball: scooore Portugal! Alle Tore</title>
+</programme>
+<programme start="20260319140000 +0000" stop="20260319173500 +0000" channel="Sky Sport Top Event HD.skyde">
     <title>Live ATP &amp; WTA: Konferenz Miami Open presented by Itaú in Miami, Florida (USA), 3. Tag</title>
 </programme>
 <programme start="20260319173500 +0000" stop="20260319195000 +0000" channel="Sky Sport Top Event HD.skyde">

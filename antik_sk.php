@@ -580,6 +580,78 @@
   <programme start="20260321220500 +0000" stop="20260322005500 +0000" channel="Markíza.webtv.sk">
     <title lang="id">Útek zo Sibíri</title>
   </programme>
+  <programme start="20260320212500 +0000" stop="20260321003500 +0000" channel="JOJ.webtv.sk">
+    <title lang="id">Gladiátor</title>
+  </programme>
+  <programme start="20260321003500 +0000" stop="20260321023500 +0000" channel="JOJ.webtv.sk">
+    <title lang="id">Svadba a ďalšie katastrofy</title>
+  </programme>
+  <programme start="20260321023500 +0000" stop="20260321030500 +0000" channel="JOJ.webtv.sk">
+    <title lang="id">Krimi</title>
+  </programme>
+  <programme start="20260321030500 +0000" stop="20260321042000 +0000" channel="JOJ.webtv.sk">
+    <title lang="id">Bez servítky</title>
+  </programme>
+  <programme start="20260321042000 +0000" stop="20260321052500 +0000" channel="JOJ.webtv.sk">
+    <title lang="id">Inkognito</title>
+  </programme>
+  <programme start="20260321052500 +0000" stop="20260321055500 +0000" channel="JOJ.webtv.sk">
+    <title lang="id">Krimi</title>
+  </programme>
+  <programme start="20260321055500 +0000" stop="20260321064000 +0000" channel="JOJ.webtv.sk">
+    <title lang="id">Noviny TV JOJ</title>
+  </programme>
+  <programme start="20260321064000 +0000" stop="20260321071000 +0000" channel="JOJ.webtv.sk">
+    <title lang="id">Labková patrola IV (26/26)</title>
+  </programme>
+  <programme start="20260321071000 +0000" stop="20260321073500 +0000" channel="JOJ.webtv.sk">
+    <title lang="id">Spidey a jeho fantastickí priatelia (16)</title>
+  </programme>
+  <programme start="20260321073500 +0000" stop="20260321080500 +0000" channel="JOJ.webtv.sk">
+    <title lang="id">Káčerovo I (1/65)</title>
+  </programme>
+  <programme start="20260321080500 +0000" stop="20260321083000 +0000" channel="JOJ.webtv.sk">
+    <title lang="id">Gumkáči II (7/8)</title>
+  </programme>
+  <programme start="20260321083000 +0000" stop="20260321090000 +0000" channel="JOJ.webtv.sk">
+    <title lang="id">Gumkáči II (8/8)</title>
+  </programme>
+  <programme start="20260321090000 +0000" stop="20260321110000 +0000" channel="JOJ.webtv.sk">
+    <title lang="id">Česko Slovensko má talent</title>
+  </programme>
+  <programme start="20260321110000 +0000" stop="20260321135000 +0000" channel="JOJ.webtv.sk">
+    <title lang="id">Hry o život: Drozdajka 2</title>
+  </programme>
+  <programme start="20260321135000 +0000" stop="20260321154500 +0000" channel="JOJ.webtv.sk">
+    <title lang="id">Milujem Slovensko</title>
+  </programme>
+  <programme start="20260321154500 +0000" stop="20260321180000 +0000" channel="JOJ.webtv.sk">
+    <title lang="id">Neserte nám pestúnku</title>
+  </programme>
+  <programme start="20260321180000 +0000" stop="20260321183000 +0000" channel="JOJ.webtv.sk">
+    <title lang="id">Krimi</title>
+  </programme>
+  <programme start="20260321183000 +0000" stop="20260321191000 +0000" channel="JOJ.webtv.sk">
+    <title lang="id">Noviny TV JOJ</title>
+  </programme>
+  <programme start="20260321191000 +0000" stop="20260321191500 +0000" channel="JOJ.webtv.sk">
+    <title lang="id">Informácie pre tipujúcich</title>
+  </programme>
+  <programme start="20260321191500 +0000" stop="20260321192000 +0000" channel="JOJ.webtv.sk">
+    <title lang="id">Informácie pre tipujúcich-Eurojackpot</title>
+  </programme>
+  <programme start="20260321192000 +0000" stop="20260321193000 +0000" channel="JOJ.webtv.sk">
+    <title lang="id">Šport</title>
+  </programme>
+  <programme start="20260321193000 +0000" stop="20260321194000 +0000" channel="JOJ.webtv.sk">
+    <title lang="id">Najlepšie počasie</title>
+  </programme>
+  <programme start="20260321194000 +0000" stop="20260321215000 +0000" channel="JOJ.webtv.sk">
+    <title lang="id">Centrálna inteligencia</title>
+  </programme>
+  <programme start="20260321215000 +0000" stop="20260322000000 +0000" channel="JOJ.webtv.sk">
+    <title lang="id">Lóve 2</title>
+  </programme>
   <programme start="20260320215500 +0000" stop="20260320231500 +0000" channel="Markíza +1.webtv.sk">
     <title lang="id">Ruža pre nevestu IV (6)</title>
   </programme>

@@ -6803,7 +6803,7 @@
         <title>LaLiga 2025/26: Rayo Vallecano vs Levante</title>
     </programme>
     <programme start="20260319174000 +0000" stop="20260319195500 +0000" channel="beIN Sports HD.starhub">
-        <title>UEFA Europa League 2025/26: Midtjylland vs Nottingham Forest - R16, 2nd Leg (Liv</title>
+        <title>UEFA Europa League 2025/26: Midtjylland vs Nottingham Forest - R16, 2nd Leg (Live)</title>
     </programme>
     <programme start="20260319195500 +0000" stop="20260319220000 +0000" channel="beIN Sports HD.starhub">
         <title>UEFA Europa League 2025/26: Aston Villa vs Lille - R16, 2nd Leg (Live)</title>
