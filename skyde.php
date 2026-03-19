@@ -3409,12 +3409,6 @@ Warning: Undefined array key "et" in /usr/home/ManusiaBiasa/domains/manusiabiasa
 <programme start="20260319080000 +0000" stop="20260319130000 +0000" channel="Sky Sport Top Event HD.skyde">
     <title>Live LIV Golf: Südafrika, 1. Tag in Johannesburg</title>
 </programme>
-<programme start="20260319130000 +0000" stop="20260319133000 +0000" channel="Sky Sport Top Event HD.skyde">
-    <title>Fußball: scooore Polen! Alle Tore</title>
-</programme>
-<programme start="20260319133000 +0000" stop="20260319140000 +0000" channel="Sky Sport Top Event HD.skyde">
-    <title>Fußball: scooore Portugal! Alle Tore</title>
-</programme>
 <programme start="20260319140000 +0000" stop="20260319173500 +0000" channel="Sky Sport Top Event HD.skyde">
     <title>Live ATP &amp; WTA: Konferenz Miami Open presented by Itaú in Miami, Florida (USA), 3. Tag</title>
 </programme>
