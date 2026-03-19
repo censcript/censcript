@@ -532,9 +532,6 @@
 <programme start="20260319050000 +0000" stop="20260319063000 +0000" channel="Trans 7.vision">
 <title>Imperfect: Karier, Cinta...</title>
 </programme>
-<programme start="20260319063000 +0000" stop="20260319080000 +0000" channel="Trans 7.vision">
-<title>Warkop: Tahu Diri Dong</title>
-</programme>
 <programme start="20260319080000 +0000" stop="20260319090000 +0000" channel="Trans 7.vision">
 <title>Makan Receh Kultum</title>
 </programme>
@@ -1497,4 +1494,7 @@
 </programme>
 <programme start="20260320105400 +0000" stop="20260320110100 +0000" channel="BTV.vision">
 <title>Kultum</title>
+</programme>
+<programme start="20260320110100 +0000" stop="20260320110600 +0000" channel="BTV.vision">
+<title>Menantikan Azan Magrib</title>
 </programme>

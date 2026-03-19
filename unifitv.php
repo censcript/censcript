@@ -14307,17 +14307,7 @@
     <desc lang="en">Program ini mengupas secara lebih dekat perihal sukan secara menyeluruh melibatkan industri, kejohanan, program, prestasi, isu semasa dan kontroversi dari dalam dan luar negara.</desc>
     <category lang="en">Current Affairs</category>
   </programme>
-  <programme start="20260319130000 +0000" stop="20260319131000 +0000" channel="bernamatv.unifitv">
-    <title lang="en">Perutusan Khas Aidilfitri YAB Perdana Menteri</title>
-    <desc lang="en">Perutusan YAB Perdana Menteri sempena Hari Raya Aidilfitri</desc>
-    <category lang="en">Current Affairs</category>
-  </programme>
-  <programme start="20260319131000 +0000" stop="20260319133000 +0000" channel="bernamatv.unifitv">
-    <title lang="en">Takbir Hari Raya</title>
-    <desc lang="en">Takbir Hari Raya</desc>
-    <category lang="en">Religious</category>
-  </programme>
-  <programme start="20260319133000 +0000" stop="20260319140000 +0000" channel="bernamatv.unifitv">
+  <programme start="20260319130000 +0000" stop="20260319140000 +0000" channel="bernamatv.unifitv">
     <title lang="en">Ruang Bicara</title>
     <desc lang="en">Rancangan bual bicara bersama tetamu di studio mengupas topik semasa tanah air.</desc>
     <category lang="en">Current Affairs</category>
@@ -14333,26 +14323,21 @@
     <category lang="en">Current Affairs</category>
   </programme>
   <programme start="20260319145500 +0000" stop="20260319150000 +0000" channel="bernamatv.unifitv">
-    <title lang="en">Takbir Hari Raya</title>
-    <desc lang="en">Takbir Hari Raya</desc>
+    <title lang="en">Waktu Imsak</title>
+    <desc lang="en">Pengumuman Waktu Imsak</desc>
     <category lang="en">Religious</category>
   </programme>
-  <programme start="20260319150000 +0000" stop="20260319152500 +0000" channel="bernamatv.unifitv">
+  <programme start="20260319150000 +0000" stop="20260319153000 +0000" channel="bernamatv.unifitv">
     <title lang="en">Buletin Bernama</title>
     <desc lang="en">Berita semasa dalam dan luar negara yang mengandungi berita am, politik, ekonomi, niaga dan sukan.</desc>
     <category lang="en">Current Affairs</category>
-  </programme>
-  <programme start="20260319152500 +0000" stop="20260319153000 +0000" channel="bernamatv.unifitv">
-    <title lang="en">Takbir Hari Raya</title>
-    <desc lang="en">Takbir Hari Raya</desc>
-    <category lang="en">Religious</category>
   </programme>
   <programme start="20260319153000 +0000" stop="20260319160000 +0000" channel="bernamatv.unifitv">
     <title lang="en">Tamil News</title>
     <desc lang="en">Laporan terkini berita dari dalam dan luar negara</desc>
     <category lang="en">Current Affairs</category>
   </programme>
-  <programme start="20260319160000 +0000" stop="20260319163000 +0000" channel="bernamatv.unifitv">
+  <programme start="20260319160000 +0000" stop="20260319170000 +0000" channel="bernamatv.unifitv">
     <title lang="en">Ruang Bicara</title>
     <desc lang="en">Rancangan bual bicara bersama tetamu di studio mengupas topik semasa tanah air.</desc>
     <category lang="en">Current Affairs</category>
