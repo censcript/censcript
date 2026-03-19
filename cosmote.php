@@ -134,6 +134,10 @@
     <title>Football: OFI - Olympiacos</title>
     <desc>Live: Tidak</desc>
 </programme>
+<programme start="20260320144000 +0700" stop="20260320151000 +0700" channel="COSMOTE Sport 2 HD">
+    <title>Serie A Full Impact 2025-26 E29</title>
+    <desc>Live: Tidak</desc>
+</programme>
 <programme start="20260319130000 +0700" stop="20260319150000 +0700" channel="COSMOTE Sport 3 HD">
     <title>Football: Portsmouth - Derby County</title>
     <desc>Live: Tidak</desc>
@@ -192,14 +196,6 @@
 </programme>
 <programme start="20260320130000 +0700" stop="20260320150000 +0700" channel="COSMOTE Sport 3 HD">
     <title>Football: Fulham - Southampton</title>
-    <desc>Live: Tidak</desc>
-</programme>
-<programme start="20260319113000 +0700" stop="20260319133000 +0700" channel="COSMOTE Sport 4 HD">
-    <title>Basketball: Buyukcekmece Basketbol - Fenerbahce</title>
-    <desc>Live: Tidak</desc>
-</programme>
-<programme start="20260319133000 +0700" stop="20260319140000 +0700" channel="COSMOTE Sport 4 HD">
-    <title>NBA Specials</title>
     <desc>Live: Tidak</desc>
 </programme>
 <programme start="20260319140000 +0700" stop="20260319143000 +0700" channel="COSMOTE Sport 4 HD">
@@ -352,6 +348,14 @@
 </programme>
 <programme start="20260320130000 +0700" stop="20260320140500 +0700" channel="COSMOTE Sport 5 HD">
     <title>ERC 2025</title>
+    <desc>Live: Tidak</desc>
+</programme>
+<programme start="20260320140500 +0700" stop="20260320142000 +0700" channel="COSMOTE Sport 5 HD">
+    <title>Sports Highlights</title>
+    <desc>Live: Tidak</desc>
+</programme>
+<programme start="20260320142000 +0700" stop="20260320153500 +0700" channel="COSMOTE Sport 5 HD">
+    <title>2026 Grand Prix Show</title>
     <desc>Live: Tidak</desc>
 </programme>
 <programme start="20260319110000 +0700" stop="20260319150000 +0700" channel="COSMOTE Sport 6 HD">

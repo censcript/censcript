@@ -5239,17 +5239,14 @@
     <programme start="20260319031000 +0000" stop="20260319050000 +0000" channel="SPOTV.starhub">
         <title>25/26 ROSHN Saudi League MW 26 Al Khaleej vs Al Nassr</title>
     </programme>
-    <programme start="20260319050000 +0000" stop="20260319060000 +0000" channel="SPOTV.starhub">
-        <title>Highlights 1</title>
-    </programme>
-    <programme start="20260319060000 +0000" stop="20260319080000 +0000" channel="SPOTV.starhub">
+    <programme start="20260319050000 +0000" stop="20260319080000 +0000" channel="SPOTV.starhub">
         <title>2025/26 King&#039;s Cup Semi Final Al Ahli vs Al Hilal</title>
     </programme>
-    <programme start="20260319080000 +0000" stop="20260319100000 +0000" channel="SPOTV.starhub">
-        <title>25/26 A-League Men Round 21 Sydney FC vs Melbourne City FC</title>
-    </programme>
-    <programme start="20260319100000 +0000" stop="20260319150000 +0000" channel="SPOTV.starhub">
+    <programme start="20260319080000 +0000" stop="20260319130000 +0000" channel="SPOTV.starhub">
         <title>Round 1</title>
+    </programme>
+    <programme start="20260319130000 +0000" stop="20260319150000 +0000" channel="SPOTV.starhub">
+        <title>25/26 A-League Men Round 21 Sydney FC vs Melbourne City FC</title>
     </programme>
     <programme start="20260319150000 +0000" stop="20260319180000 +0000" channel="SPOTV.starhub">
         <title>Rolex Grand Prix Show Jumping</title>
