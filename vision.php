@@ -463,20 +463,8 @@
 <programme start="20260321113000 +0000" stop="20260321123000 +0000" channel="Trans TV.vision">
 <title>Bikin Laper</title>
 </programme>
-<programme start="20260319233000 +0000" stop="20260320003000 +0000" channel="Trans 7.vision">
-<title>Shalat Idul Fitri</title>
-</programme>
 <programme start="20260320003000 +0000" stop="20260320011500 +0000" channel="Trans 7.vision">
 <title>Masjidku</title>
-</programme>
-<programme start="20260320011500 +0000" stop="20260320030000 +0000" channel="Trans 7.vision">
-<title>Nussa: The Movie</title>
-</programme>
-<programme start="20260320030000 +0000" stop="20260320050000 +0000" channel="Trans 7.vision">
-<title>Air Mata Di Ujung Sajadah</title>
-</programme>
-<programme start="20260320050000 +0000" stop="20260320070000 +0000" channel="Trans 7.vision">
-<title>Gampang Cuan</title>
 </programme>
 <programme start="20260320070000 +0000" stop="20260320083000 +0000" channel="Trans 7.vision">
 <title>Warkop: Kesempatan Dalam...</title>
@@ -535,17 +523,8 @@
 <programme start="20260319230000 +0000" stop="20260320003000 +0000" channel="ANTV.vision">
 <title>Baalveer Returns</title>
 </programme>
-<programme start="20260320003000 +0000" stop="20260320023000 +0000" channel="ANTV.vision">
-<title>Mana Tahan</title>
-</programme>
-<programme start="20260320023000 +0000" stop="20260320050000 +0000" channel="ANTV.vision">
-<title>Krrish 3</title>
-</programme>
 <programme start="20260320050000 +0000" stop="20260320053000 +0000" channel="ANTV.vision">
 <title>Topkin Mudik</title>
-</programme>
-<programme start="20260320053000 +0000" stop="20260320060000 +0000" channel="ANTV.vision">
-<title>Krrish 3</title>
 </programme>
 <programme start="20260320060000 +0000" stop="20260320063000 +0000" channel="ANTV.vision">
 <title>Jhanak</title>
@@ -1497,4 +1476,25 @@
 </programme>
 <programme start="20260320095000 +0000" stop="20260320104900 +0000" channel="MDTV.vision">
 <title>Amigos X Siempre</title>
+</programme>
+<programme start="20260320104900 +0000" stop="20260320105800 +0000" channel="MDTV.vision">
+<title>Esmeralda</title>
+</programme>
+<programme start="20260320105800 +0000" stop="20260320110800 +0000" channel="MDTV.vision">
+<title>Ngabuburitnya Adit Sopo Jarwo</title>
+</programme>
+<programme start="20260320110800 +0000" stop="20260320120000 +0000" channel="MDTV.vision">
+<title>Esmeralda</title>
+</programme>
+<programme start="20260320120000 +0000" stop="20260320125500 +0000" channel="MDTV.vision">
+<title>Keluarga Yang Tak Dirindukan</title>
+</programme>
+<programme start="20260320125500 +0000" stop="20260320134500 +0000" channel="MDTV.vision">
+<title>Dunia Tanpa Tuhan</title>
+</programme>
+<programme start="20260320134500 +0000" stop="20260320154500 +0000" channel="MDTV.vision">
+<title>Di Bawah Lindungan Ka&#039;bah</title>
+</programme>
+<programme start="20260320154500 +0000" stop="20260320174500 +0000" channel="MDTV.vision">
+<title>Mekah I&#039;m Coming</title>
 </programme>
