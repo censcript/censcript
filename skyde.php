@@ -2490,14 +2490,17 @@ Warning: Undefined array key "et" in /usr/home/ManusiaBiasa/domains/manusiabiasa
 <programme start="20260319232500 +0000" stop="20260320001000 +0000" channel="Sky Sport Austria 1 HD.skyde">
     <title>Live Der UEFA Super Donnerstag: Alle Spiele, alle Tore, Achtelfinale, Rückspiele</title>
 </programme>
-<programme start="20260320001000 +0000" stop="20260320020000 +0000" channel="Sky Sport Austria 1 HD.skyde">
+<programme start="20260320001000 +0000" stop="20260320013000 +0000" channel="Sky Sport Austria 1 HD.skyde">
     <title>UEFA EL: SC Freiburg - KRC Genk, Achtelfinale, Rückspiel</title>
 </programme>
-<programme start="20260320020000 +0000" stop="20260320040000 +0000" channel="Sky Sport Austria 1 HD.skyde">
+<programme start="20260320013000 +0000" stop="20260320033000 +0000" channel="Sky Sport Austria 1 HD.skyde">
     <title>UEFA ECL: AEK Larnaka - Crystal Palace, Achtelfinale, Rückspiel</title>
 </programme>
-<programme start="20260320040000 +0000" stop="20260320060000 +0000" channel="Sky Sport Austria 1 HD.skyde">
+<programme start="20260320033000 +0000" stop="20260320053000 +0000" channel="Sky Sport Austria 1 HD.skyde">
     <title>UEFA ECL: FSV Mainz 05 - Sigma Olmütz, Achtelfinale, Rückspiel</title>
+</programme>
+<programme start="20260320053000 +0000" stop="20260320060000 +0000" channel="Sky Sport Austria 1 HD.skyde">
+    <title>RIESENrad: Sportgrößen im Waggon 28 (Gast: Dominique Heinrich)</title>
 </programme>
 <programme start="20260320060000 +0000" stop="20260320063000 +0000" channel="Sky Sport Austria 1 HD.skyde">
     <title>Admiral BL: 90in30: FAK - STU, 23. Runde</title>
@@ -2553,7 +2556,7 @@ Warning: Undefined array key "et" in /usr/home/ManusiaBiasa/domains/manusiabiasa
 <programme start="20260320193000 +0000" stop="20260320195000 +0000" channel="Sky Sport Austria 2 HD.skyde">
     <title>Es folgt: LIVE Premier League</title>
 </programme>
-<programme start="20260320195000 +0000" stop="20260320223000 +0000" channel="Sky Sport Austria 2 HD.skyde">
+<programme start="20260320195000 +0000" stop="20260320220000 +0000" channel="Sky Sport Austria 2 HD.skyde">
     <title>Live PL: AFC Bournemouth - Manchester United, 31. Spieltag</title>
 </programme>
 <programme start="20260320144000 +0000" stop="20260320150000 +0000" channel="Sky Sport Austria 3 HD.skyde">
@@ -2979,7 +2982,7 @@ Warning: Undefined array key "et" in /usr/home/ManusiaBiasa/domains/manusiabiasa
 <programme start="20260320170000 +0000" stop="20260320193000 +0000" channel="Sky Sport Bundesliga 3 HD.skyde">
     <title>Live 2. BL: Hannover 96 - Eintracht Braunschweig, 27. Spieltag</title>
 </programme>
-<programme start="20260320193000 +0000" stop="20260320213000 +0000" channel="Sky Sport Bundesliga 3 HD.skyde">
+<programme start="20260320193000 +0000" stop="20260320220000 +0000" channel="Sky Sport Bundesliga 3 HD.skyde">
     <title>Live BL: Sky Sport Fantasy: RBL - TSG, 27. Spieltag</title>
 </programme>
 <programme start="20260320164000 +0000" stop="20260320170000 +0000" channel="Sky Sport Bundesliga 4 HD.skyde">
@@ -3364,7 +3367,7 @@ Warning: Undefined array key "et" in /usr/home/ManusiaBiasa/domains/manusiabiasa
     <title>ATP 1000: Review Indian Wells</title>
 </programme>
 <programme start="20260320040000 +0000" stop="20260320060000 +0000" channel="Sky Sport Tennis HD.skyde">
-    <title>WTA 1000: E. Seidel (GER) - L. Tagger (AUT), Miami Open presented by Itaú in Miami, Florida (USA), 3. Tag</title>
+    <title>WTA 1000: L. Siegemund (GER) - A. Eala (PHL), Miami Open presented by Itaú in Miami, Florida (USA), 3. Tag</title>
 </programme>
 <programme start="20260320060000 +0000" stop="20260320080000 +0000" channel="Sky Sport Tennis HD.skyde">
     <title>ATP 1000: Y. Hanfmann (GER) - R. Jodar (ESP), Miami Open presented by Itaú in Miami, Florida (USA), 3. Tag</title>
@@ -3376,7 +3379,7 @@ Warning: Undefined array key "et" in /usr/home/ManusiaBiasa/domains/manusiabiasa
     <title>ATP: This Week</title>
 </programme>
 <programme start="20260320110000 +0000" stop="20260320130000 +0000" channel="Sky Sport Tennis HD.skyde">
-    <title>WTA 1000: E. Seidel (GER) - L. Tagger (AUT), Miami Open presented by Itaú in Miami, Florida (USA), 3. Tag</title>
+    <title>WTA 1000: L. Siegemund (GER) - A. Eala (PHL), Miami Open presented by Itaú in Miami, Florida (USA), 3. Tag</title>
 </programme>
 <programme start="20260320130000 +0000" stop="20260320150000 +0000" channel="Sky Sport Tennis HD.skyde">
     <title>ATP 1000: Y. Hanfmann (GER) - R. Jodar (ESP), Miami Open presented by Itaú in Miami, Florida (USA), 3. Tag</title>
@@ -3720,7 +3723,7 @@ Warning: Undefined array key "et" in /usr/home/ManusiaBiasa/domains/manusiabiasa
 <programme start="20260320144000 +0000" stop="20260320150000 +0000" channel="Sky Sport 6 HD.skyde">
     <title>Es folgt: Live Tennis WTA Tour</title>
 </programme>
-<programme start="20260320150000 +0000" stop="20260321030000 +0000" channel="Sky Sport 6 HD.skyde">
+<programme start="20260320150000 +0000" stop="20260321090000 +0000" channel="Sky Sport 6 HD.skyde">
     <title>Live WTA 1000: Miami Open presented by Itaú in Miami, Florida (USA), 4. Tag</title>
 </programme>
 <programme start="20260319230000 +0000" stop="20260319234500 +0000" channel="SYFY HD.skyde">
