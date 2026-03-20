@@ -1055,9 +1055,14 @@
     <desc lang="en">Mengisahkan Os , seorang pemuda yang sering dicemuh keluarganya dan orang kampung kerana gagal dalam peperiksaan. Walau bagaimanapun, dia merupakan seorang yang pintar dalam bidang kimia dan biologi dan kerana itulah dia telah berjaya mencipta satu formula ramuan yang membolehkan orang bisu dan juga binatang bercakap. Formulanya juga telah menarik minat perhatian pengusaha perniagaan dari Kuala Lumpur. Namun, kerana dengki dengan kejayaan Os, ada pihak yang cuba menjatuhkannya.</desc>
     <category lang="en">Drama</category>
   </programme>
-  <programme start="20260320151500 +0000" stop="20260321033000 +0000" channel="tv2.unifitv">
+  <programme start="20260320151500 +0000" stop="20260320153000 +0000" channel="tv2.unifitv">
     <title lang="en">KAPSUL/PROMO/KLIP VIDEO</title>
     <desc lang="en">KAPSUL/PROMO/KLIP VIDEO</desc>
+    <category lang="en">Drama</category>
+  </programme>
+  <programme start="20260320153000 +0000" stop="20260320170000 +0000" channel="tv2.unifitv">
+    <title lang="en">Berakhirnya Satu Penantian</title>
+    <desc lang="en">kisah seorang ibu yang sentiasa merindui kepulangan anak tersayang yang terpisah jauh sejak sekian lama. Berkat doa dan kesabaran ibunya telah berjaya menginsafkan anaknya untuk pulang kepangkuannya.</desc>
     <category lang="en">Drama</category>
   </programme>
   <channel id="tv3.unifitv">
