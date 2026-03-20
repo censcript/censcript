@@ -418,6 +418,9 @@
 <programme start="20260320123000 +0000" stop="20260320133000 +0000" channel="Trans TV.vision">
 <title>Insert Story</title>
 </programme>
+<programme start="20260320133000 +0000" stop="20260320153000 +0000" channel="Trans TV.vision">
+<title>Bioskop Spesial Trans TV</title>
+</programme>
 <programme start="20260320153000 +0000" stop="20260320190000 +0000" channel="Trans TV.vision">
 <title>Bioskop Trans TV</title>
 </programme>
@@ -463,8 +466,14 @@
 <programme start="20260320003000 +0000" stop="20260320011500 +0000" channel="Trans 7.vision">
 <title>Masjidku</title>
 </programme>
+<programme start="20260320110000 +0000" stop="20260320133000 +0000" channel="Trans 7.vision">
+<title>Ipar Adalah Maut</title>
+</programme>
 <programme start="20260320133000 +0000" stop="20260320150000 +0000" channel="Trans 7.vision">
 <title>Arisan Maaf Lahir Batin</title>
+</programme>
+<programme start="20260320150000 +0000" stop="20260320170000 +0000" channel="Trans 7.vision">
+<title>Sijjin</title>
 </programme>
 <programme start="20260320170000 +0000" stop="20260320190000 +0000" channel="Trans 7.vision">
 <title>The Battleship Island</title>
@@ -520,8 +529,14 @@
 <programme start="20260320070000 +0000" stop="20260320073000 +0000" channel="ANTV.vision">
 <title>Jhanak</title>
 </programme>
+<programme start="20260320110000 +0000" stop="20260320130000 +0000" channel="ANTV.vision">
+<title>Nada-Nada Rindu</title>
+</programme>
 <programme start="20260320130000 +0000" stop="20260320150000 +0000" channel="ANTV.vision">
 <title>Serbuan Halilintar</title>
+</programme>
+<programme start="20260320150000 +0000" stop="20260320170000 +0000" channel="ANTV.vision">
+<title>212 Warrior</title>
 </programme>
 <programme start="20260320170000 +0000" stop="20260320193000 +0000" channel="ANTV.vision">
 <title>Serie A Liga Italia</title>
@@ -684,6 +699,15 @@
 </programme>
 <programme start="20260320110000 +0000" stop="20260320130000 +0000" channel="TVOne.vision">
 <title>Apa Kabar Indonesia Malam (L)</title>
+</programme>
+<programme start="20260320130000 +0000" stop="20260320133000 +0000" channel="TVOne.vision">
+<title>Indonesia Bertakbir (L)</title>
+</programme>
+<programme start="20260320133000 +0000" stop="20260320143000 +0000" channel="TVOne.vision">
+<title>Sambut Kemenangan</title>
+</programme>
+<programme start="20260320143000 +0000" stop="20260320160000 +0000" channel="TVOne.vision">
+<title>Indonesia Bertakbir (L)</title>
 </programme>
 <programme start="20260320160000 +0000" stop="20260320163000 +0000" channel="TVOne.vision">
 <title>Kabar Arena Malam (L)</title>
@@ -1473,28 +1497,4 @@
 </programme>
 <programme start="20260320195000 +0000" stop="20260320205000 +0000" channel="MDTV.vision">
 <title>Keajaiban Dunia</title>
-</programme>
-<programme start="20260320205000 +0000" stop="20260320220000 +0000" channel="MDTV.vision">
-<title>Top Spot</title>
-</programme>
-<programme start="20260320220000 +0000" stop="20260320224000 +0000" channel="MDTV.vision">
-<title>Risalah</title>
-</programme>
-<programme start="20260320224000 +0000" stop="20260320235000 +0000" channel="MDTV.vision">
-<title>Menjemput Berkah</title>
-</programme>
-<programme start="20260320235000 +0000" stop="20260321010500 +0000" channel="MDTV.vision">
-<title>AADD: Ada Apa Dengan Dunia</title>
-</programme>
-<programme start="20260321010500 +0000" stop="20260321015500 +0000" channel="MDTV.vision">
-<title>Fakta +62 Weekend</title>
-</programme>
-<programme start="20260321015500 +0000" stop="20260321025000 +0000" channel="MDTV.vision">
-<title>Sensasihot</title>
-</programme>
-<programme start="20260321025000 +0000" stop="20260321034000 +0000" channel="MDTV.vision">
-<title>Emak-Emak Petualang</title>
-</programme>
-<programme start="20260321034000 +0000" stop="20260321051500 +0000" channel="MDTV.vision">
-<title>Cinta Fitri S6</title>
 </programme>
