@@ -2930,14 +2930,14 @@
     <desc lang="en">Perutusan Khas Tuan Yang Terutama Yang di-Pertua Negeri Sarawak Tun Pehin Sri Dr. Haji Wan Junaidi bin Tuanku Jaafar bersempena sambutan perayaan Hari Raya Aidilfitri 2026.</desc>
     <category lang="en">Current Affairs</category>
   </programme>
-  <programme start="20260320123000 +0000" stop="20260320124500 +0000" channel="tvs.unifitv">
-    <title lang="en">Perutusan Khas Perdana Menteri</title>
-    <desc lang="en">Perutusan Khas Perdana Menteri Dato' Seri Anwar Ibrahim Sempena Hari Raya Aidilfitri bersempena sambutan perayaan Hari Raya Aidilfitri 2026.</desc>
-    <category lang="en">Current Affairs</category>
-  </programme>
-  <programme start="20260320124500 +0000" stop="20260320131500 +0000" channel="tvs.unifitv">
+  <programme start="20260320123000 +0000" stop="20260320130000 +0000" channel="tvs.unifitv">
     <title lang="en">Perutusan Khas Premier Sarawak</title>
     <desc lang="en">Perutusan Premier Sarawak, YAB Datuk Patinggi Tan Sri (Dr) Abang Haji Abdul Rahman Zohari bin Tun Datuk Abang Haji Openg bersempena sambutan perayaan Hari Raya Aidilfitri 2026.</desc>
+    <category lang="en">Current Affairs</category>
+  </programme>
+  <programme start="20260320130000 +0000" stop="20260320131500 +0000" channel="tvs.unifitv">
+    <title lang="en">Perutusan Khas Perdana Menteri</title>
+    <desc lang="en">Perutusan Khas Perdana Menteri Dato' Seri Anwar Ibrahim Sempena Hari Raya Aidilfitri bersempena sambutan perayaan Hari Raya Aidilfitri 2026.</desc>
     <category lang="en">Current Affairs</category>
   </programme>
   <programme start="20260320131500 +0000" stop="20260320133000 +0000" channel="tvs.unifitv">
