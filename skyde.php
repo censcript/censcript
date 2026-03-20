@@ -564,6 +564,9 @@ Warning: Undefined array key "et" in /usr/home/ManusiaBiasa/domains/manusiabiasa
 <programme start="20260320035000 +0000" stop="20260320040000 +0000" channel="Cartoonito.skyde">
     <title>Flipi und die Pilzlinge</title>
 </programme>
+<programme start="20260320040000 +0000" stop="20260320040400 +0000" channel="Cartoonito.skyde">
+    <title>Lamput</title>
+</programme>
 <programme start="20260320040000 +0000" stop="20260320041000 +0000" channel="Cartoonito.skyde">
     <title>Flipi und die Pilzlinge</title>
 </programme>
@@ -575,9 +578,6 @@ Warning: Undefined array key "et" in /usr/home/ManusiaBiasa/domains/manusiabiasa
 </programme>
 <programme start="20260320044000 +0000" stop="20260320050000 +0000" channel="Cartoonito.skyde">
     <title>Flipi und die Pilzlinge</title>
-</programme>
-<programme start="20260320050000 +0000" stop="20260320050400 +0000" channel="Cartoonito.skyde">
-    <title>Lamput</title>
 </programme>
 <programme start="20260320050400 +0000" stop="20260320051000 +0000" channel="Cartoonito.skyde">
     <title>Lamput</title>
@@ -2487,10 +2487,10 @@ Warning: Undefined array key "et" in /usr/home/ManusiaBiasa/domains/manusiabiasa
 <programme start="20260320223000 +0000" stop="20260320235500 +0000" channel="Sky Showcase HD.skyde">
     <title>Critical Incident - Tod an der Grenze</title>
 </programme>
-<programme start="20260319232500 +0000" stop="20260320001000 +0000" channel="Sky Sport Austria 1 HD.skyde">
+<programme start="20260319231500 +0000" stop="20260319234500 +0000" channel="Sky Sport Austria 1 HD.skyde">
     <title>Live Der UEFA Super Donnerstag: Alle Spiele, alle Tore, Achtelfinale, Rückspiele</title>
 </programme>
-<programme start="20260320001000 +0000" stop="20260320013000 +0000" channel="Sky Sport Austria 1 HD.skyde">
+<programme start="20260319234500 +0000" stop="20260320013000 +0000" channel="Sky Sport Austria 1 HD.skyde">
     <title>UEFA EL: SC Freiburg - KRC Genk, Achtelfinale, Rückspiel</title>
 </programme>
 <programme start="20260320013000 +0000" stop="20260320033000 +0000" channel="Sky Sport Austria 1 HD.skyde">
@@ -3072,11 +3072,14 @@ Warning: Undefined array key "et" in /usr/home/ManusiaBiasa/domains/manusiabiasa
 <programme start="20260320070000 +0000" stop="20260320073000 +0000" channel="Sky Sport Golf HD.skyde">
     <title>The Masters: Official Film 1986 (Jack Nicklaus)</title>
 </programme>
-<programme start="20260320073000 +0000" stop="20260320100000 +0000" channel="Sky Sport Golf HD.skyde">
-    <title>LPGA: Fortinet Founders Cup, 1. Tag in Menlo Park, CA (USA)</title>
+<programme start="20260320073000 +0000" stop="20260320080000 +0000" channel="Sky Sport Golf HD.skyde">
+    <title>Golf: Tee Time Stories (3)</title>
 </programme>
-<programme start="20260320100000 +0000" stop="20260320150000 +0000" channel="Sky Sport Golf HD.skyde">
+<programme start="20260320080000 +0000" stop="20260320130500 +0000" channel="Sky Sport Golf HD.skyde">
     <title>Live LIV Golf: Südafrika, 2. Tag in Johannesburg</title>
+</programme>
+<programme start="20260320130500 +0000" stop="20260320150000 +0000" channel="Sky Sport Golf HD.skyde">
+    <title>TGL: Jupiter Links Golf Club - Boston Common Golf, Halbfinale</title>
 </programme>
 <programme start="20260320150000 +0000" stop="20260320173000 +0000" channel="Sky Sport Golf HD.skyde">
     <title>LPGA: Fortinet Founders Cup, 1. Tag in Menlo Park, CA (USA)</title>
@@ -3129,13 +3132,13 @@ Warning: Undefined array key "et" in /usr/home/ManusiaBiasa/domains/manusiabiasa
 <programme start="20260320112500 +0000" stop="20260320115500 +0000" channel="Sky Sport Mix HD.skyde">
     <title>MotoGP: Pressekonferenz Fahrer - GP Brasilien</title>
 </programme>
-<programme start="20260320115500 +0000" stop="20260320125000 +0000" channel="Sky Sport Mix HD.skyde">
+<programme start="20260320115500 +0000" stop="20260320135500 +0000" channel="Sky Sport Mix HD.skyde">
     <title>Live Moto3: 1. Freies Training - GP Brasilien</title>
 </programme>
-<programme start="20260320125000 +0000" stop="20260320135500 +0000" channel="Sky Sport Mix HD.skyde">
+<programme start="20260320135500 +0000" stop="20260320145500 +0000" channel="Sky Sport Mix HD.skyde">
     <title>Live Moto2: 1. Freies Training - GP Brasilien</title>
 </programme>
-<programme start="20260320135500 +0000" stop="20260320152500 +0000" channel="Sky Sport Mix HD.skyde">
+<programme start="20260320145500 +0000" stop="20260320152500 +0000" channel="Sky Sport Mix HD.skyde">
     <title>Live MotoGP: 1. Freies Training - GP Brasilien</title>
 </programme>
 <programme start="20260320152500 +0000" stop="20260320160000 +0000" channel="Sky Sport Mix HD.skyde">
@@ -3367,7 +3370,7 @@ Warning: Undefined array key "et" in /usr/home/ManusiaBiasa/domains/manusiabiasa
     <title>ATP 1000: Review Indian Wells</title>
 </programme>
 <programme start="20260320040000 +0000" stop="20260320060000 +0000" channel="Sky Sport Tennis HD.skyde">
-    <title>WTA 1000: L. Siegemund (GER) - A. Eala (PHL), Miami Open presented by Itaú in Miami, Florida (USA), 3. Tag</title>
+    <title>WTA 1000: E. Seidel (GER) - L. Tagger (AUT), Miami Open presented by Itaú in Miami, Florida (USA), 3. Tag</title>
 </programme>
 <programme start="20260320060000 +0000" stop="20260320080000 +0000" channel="Sky Sport Tennis HD.skyde">
     <title>ATP 1000: Y. Hanfmann (GER) - R. Jodar (ESP), Miami Open presented by Itaú in Miami, Florida (USA), 3. Tag</title>
@@ -3379,7 +3382,7 @@ Warning: Undefined array key "et" in /usr/home/ManusiaBiasa/domains/manusiabiasa
     <title>ATP: This Week</title>
 </programme>
 <programme start="20260320110000 +0000" stop="20260320130000 +0000" channel="Sky Sport Tennis HD.skyde">
-    <title>WTA 1000: L. Siegemund (GER) - A. Eala (PHL), Miami Open presented by Itaú in Miami, Florida (USA), 3. Tag</title>
+    <title>WTA 1000: E. Seidel (GER) - L. Tagger (AUT), Miami Open presented by Itaú in Miami, Florida (USA), 3. Tag</title>
 </programme>
 <programme start="20260320130000 +0000" stop="20260320150000 +0000" channel="Sky Sport Tennis HD.skyde">
     <title>ATP 1000: Y. Hanfmann (GER) - R. Jodar (ESP), Miami Open presented by Itaú in Miami, Florida (USA), 3. Tag</title>
@@ -3402,10 +3405,7 @@ Warning: Undefined array key "et" in /usr/home/ManusiaBiasa/domains/manusiabiasa
 <programme start="20260320060000 +0000" stop="20260320080000 +0000" channel="Sky Sport Top Event HD.skyde">
     <title>UEFA EL: FC Midtjylland - Nottingham Forest, Achtelfinale, Rückspiel</title>
 </programme>
-<programme start="20260320080000 +0000" stop="20260320100000 +0000" channel="Sky Sport Top Event HD.skyde">
-    <title>UEFA EL: Real Betis - Panathinaikos Athen, Achtelfinale, Rückspiel</title>
-</programme>
-<programme start="20260320100000 +0000" stop="20260320115500 +0000" channel="Sky Sport Top Event HD.skyde">
+<programme start="20260320080000 +0000" stop="20260320115500 +0000" channel="Sky Sport Top Event HD.skyde">
     <title>Live LIV Golf: Südafrika, 2. Tag in Johannesburg</title>
 </programme>
 <programme start="20260320115500 +0000" stop="20260320125000 +0000" channel="Sky Sport Top Event HD.skyde">
@@ -3706,18 +3706,6 @@ Warning: Undefined array key "et" in /usr/home/ManusiaBiasa/domains/manusiabiasa
     <title>Test SPORT 03 with BO-AU</title>
 </programme>
 <programme start="20260320155500 +0000" stop="20260320160000 +0000" channel="Sky Sport 3 HD.skyde">
-    <title>Test SPORT 03 with BO-ALLGEMEIN</title>
-</programme>
-<programme start="20260320160000 +0000" stop="20260320160500 +0000" channel="Sky Sport 3 HD.skyde">
-    <title>Test Sport 03</title>
-</programme>
-<programme start="20260320160500 +0000" stop="20260320161000 +0000" channel="Sky Sport 3 HD.skyde">
-    <title>Test Sport 03 with BO-DE</title>
-</programme>
-<programme start="20260320161000 +0000" stop="20260320161500 +0000" channel="Sky Sport 3 HD.skyde">
-    <title>Test SPORT 03 with BO-AU</title>
-</programme>
-<programme start="20260320161500 +0000" stop="20260320162000 +0000" channel="Sky Sport 3 HD.skyde">
     <title>Test SPORT 03 with BO-ALLGEMEIN</title>
 </programme>
 <programme start="20260320144000 +0000" stop="20260320150000 +0000" channel="Sky Sport 6 HD.skyde">
