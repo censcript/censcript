@@ -181,14 +181,8 @@
     <programme start="20260320043000 +0000" stop="20260320044300 +0000" channel="Channel 8.mewatch">
         <title>The Wonder Shop - EP 279</title>
     </programme>
-    <programme start="20260320044300 +0000" stop="20260320044500 +0000" channel="Channel 8.mewatch">
+    <programme start="20260320044300 +0000" stop="20260320053000 +0000" channel="Channel 8.mewatch">
         <title>The Wonder Shop - EP 233</title>
-    </programme>
-    <programme start="20260320044500 +0000" stop="20260320050000 +0000" channel="Channel 8.mewatch">
-        <title>The Wonder Shop - EP 253</title>
-    </programme>
-    <programme start="20260320050000 +0000" stop="20260320053000 +0000" channel="Channel 8.mewatch">
-        <title>(Live) News 8 at One</title>
     </programme>
     <programme start="20260320053000 +0000" stop="20260320060000 +0000" channel="Channel 8.mewatch">
         <title>Lo &amp; Behold - EP 1824</title>
