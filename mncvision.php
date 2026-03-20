@@ -7693,108 +7693,9 @@
 <programme start="20260320161500 +0000" stop="20260320164500 +0000" channel="Rock Entertainment.mncvision">
     <title>Accident, Suicide... S6, Ep 8</title>
 </programme>
-<programme start="20260319183000 +0000" stop="20260319193000 +0000" channel="SCTV.mncvision">
-    <title>Lorong Waktu</title>
-</programme>
-<programme start="20260319193000 +0000" stop="20260319211500 +0000" channel="SCTV.mncvision">
-    <title>Para Pencari Tuhan Jilid 19</title>
-</programme>
-<programme start="20260319211500 +0000" stop="20260319230000 +0000" channel="SCTV.mncvision">
-    <title>Lorong Waktu Jilid 2</title>
-</programme>
-<programme start="20260319230000 +0000" stop="20260319234500 +0000" channel="SCTV.mncvision">
-    <title>Liputan 6 Pagi (L)</title>
-</programme>
-<programme start="20260319234500 +0000" stop="20260320001500 +0000" channel="SCTV.mncvision">
-    <title>Halo Selebriti</title>
-</programme>
-<programme start="20260320001500 +0000" stop="20260320011500 +0000" channel="SCTV.mncvision">
-    <title>Tiba-Tiba Kuis</title>
-</programme>
-<programme start="20260320011500 +0000" stop="20260320024500 +0000" channel="SCTV.mncvision">
-    <title>Tarian Cinta Ketika Mudik</title>
-</programme>
-<programme start="20260320024500 +0000" stop="20260320050000 +0000" channel="SCTV.mncvision">
-    <title>Mantan Pulang Kampung...</title>
-</programme>
-<programme start="20260320050000 +0000" stop="20260320051500 +0000" channel="SCTV.mncvision">
-    <title>Liputan 6 Siang (L)</title>
-</programme>
-<programme start="20260320051500 +0000" stop="20260320063000 +0000" channel="SCTV.mncvision">
-    <title>Salah Paket Cinta No Comment...</title>
-</programme>
-<programme start="20260320063000 +0000" stop="20260320081500 +0000" channel="SCTV.mncvision">
-    <title>Bang Toge Pamit Balik Lagi</title>
-</programme>
-<programme start="20260320081500 +0000" stop="20260320093000 +0000" channel="SCTV.mncvision">
-    <title>Cireng Rasa Kangen</title>
-</programme>
-<programme start="20260320093000 +0000" stop="20260320113000 +0000" channel="SCTV.mncvision">
-    <title>Asmara Gen Z</title>
-</programme>
-<programme start="20260320113000 +0000" stop="20260320130000 +0000" channel="SCTV.mncvision">
-    <title>Istiqomah Cinta</title>
-</programme>
-<programme start="20260320130000 +0000" stop="20260320143000 +0000" channel="SCTV.mncvision">
-    <title>Beri Cinta Waktu</title>
-</programme>
-<programme start="20260320143000 +0000" stop="20260320160000 +0000" channel="SCTV.mncvision">
-    <title>Jejak Duka Diandra</title>
-</programme>
-<programme start="20260320160000 +0000" stop="20260320163000 +0000" channel="SCTV.mncvision">
-    <title>Sunan Kalijaga &amp; Syech Siti...</title>
-</programme>
-<programme start="20260319183000 +0000" stop="20260319193000 +0000" channel="SCTV HD.mncvision">
-    <title>Lorong Waktu</title>
-</programme>
-<programme start="20260319193000 +0000" stop="20260319211500 +0000" channel="SCTV HD.mncvision">
-    <title>Para Pencari Tuhan Jilid 19</title>
-</programme>
-<programme start="20260319211500 +0000" stop="20260319230000 +0000" channel="SCTV HD.mncvision">
-    <title>Lorong Waktu Jilid 2</title>
-</programme>
-<programme start="20260319230000 +0000" stop="20260319234500 +0000" channel="SCTV HD.mncvision">
-    <title>Liputan 6 Pagi (L)</title>
-</programme>
-<programme start="20260319234500 +0000" stop="20260320001500 +0000" channel="SCTV HD.mncvision">
-    <title>Halo Selebriti</title>
-</programme>
-<programme start="20260320001500 +0000" stop="20260320011500 +0000" channel="SCTV HD.mncvision">
-    <title>Tiba-Tiba Kuis</title>
-</programme>
-<programme start="20260320011500 +0000" stop="20260320024500 +0000" channel="SCTV HD.mncvision">
-    <title>Tarian Cinta Ketika Mudik</title>
-</programme>
-<programme start="20260320024500 +0000" stop="20260320050000 +0000" channel="SCTV HD.mncvision">
-    <title>Mantan Pulang Kampung...</title>
-</programme>
-<programme start="20260320050000 +0000" stop="20260320051500 +0000" channel="SCTV HD.mncvision">
-    <title>Liputan 6 Siang (L)</title>
-</programme>
-<programme start="20260320051500 +0000" stop="20260320063000 +0000" channel="SCTV HD.mncvision">
-    <title>Salah Paket Cinta No Comment...</title>
-</programme>
-<programme start="20260320063000 +0000" stop="20260320081500 +0000" channel="SCTV HD.mncvision">
-    <title>Bang Toge Pamit Balik Lagi</title>
-</programme>
-<programme start="20260320081500 +0000" stop="20260320093000 +0000" channel="SCTV HD.mncvision">
-    <title>Cireng Rasa Kangen</title>
-</programme>
-<programme start="20260320093000 +0000" stop="20260320113000 +0000" channel="SCTV HD.mncvision">
-    <title>Asmara Gen Z</title>
-</programme>
-<programme start="20260320113000 +0000" stop="20260320130000 +0000" channel="SCTV HD.mncvision">
-    <title>Istiqomah Cinta</title>
-</programme>
-<programme start="20260320130000 +0000" stop="20260320143000 +0000" channel="SCTV HD.mncvision">
-    <title>Beri Cinta Waktu</title>
-</programme>
-<programme start="20260320143000 +0000" stop="20260320160000 +0000" channel="SCTV HD.mncvision">
-    <title>Jejak Duka Diandra</title>
-</programme>
-<programme start="20260320160000 +0000" stop="20260320163000 +0000" channel="SCTV HD.mncvision">
-    <title>Sunan Kalijaga &amp; Syech Siti...</title>
-</programme>
+Error: Unable to fetch data. HTTP Status Code: 500
+Error: Unable to fetch data. HTTP Status Code: 500
+Error: Unable to fetch data. HTTP Status Code: 500
 <programme start="20260319170000 +0000" stop="20260319180000 +0000" channel="Sindo News TV.mncvision">
     <title>iNews Sore</title>
 </programme>
@@ -7882,141 +7783,8 @@
 <programme start="20260320163000 +0000" stop="20260319170000 +0000" channel="Sindo News TV.mncvision">
     <title>OMG</title>
 </programme>
-<programme start="20260319170000 +0000" stop="20260319180000 +0000" channel="Sindo News TV HD.mncvision">
-    <title>iNews Sore</title>
-</programme>
-<programme start="20260319180000 +0000" stop="20260319183000 +0000" channel="Sindo News TV HD.mncvision">
-    <title>iNews Sport</title>
-</programme>
-<programme start="20260319183000 +0000" stop="20260319200000 +0000" channel="Sindo News TV HD.mncvision">
-    <title>SINDO Breaking News</title>
-</programme>
-<programme start="20260319200000 +0000" stop="20260319210000 +0000" channel="Sindo News TV HD.mncvision">
-    <title>iNews Malam</title>
-</programme>
-<programme start="20260319210000 +0000" stop="20260319214300 +0000" channel="Sindo News TV HD.mncvision">
-    <title>SINDO Prime</title>
-</programme>
-<programme start="20260319214300 +0000" stop="20260319214600 +0000" channel="Sindo News TV HD.mncvision">
-    <title>Adzan Subuh</title>
-</programme>
-<programme start="20260319214600 +0000" stop="20260319220000 +0000" channel="Sindo News TV HD.mncvision">
-    <title>SINDO Sore</title>
-</programme>
-<programme start="20260319220000 +0000" stop="20260319230000 +0000" channel="Sindo News TV HD.mncvision">
-    <title>SINDO Malam</title>
-</programme>
-<programme start="20260319230000 +0000" stop="20260320000000 +0000" channel="Sindo News TV HD.mncvision">
-    <title>SINDO Files</title>
-</programme>
-<programme start="20260320000000 +0000" stop="20260320003000 +0000" channel="Sindo News TV HD.mncvision">
-    <title>iNews Today</title>
-</programme>
-<programme start="20260320003000 +0000" stop="20260320020000 +0000" channel="Sindo News TV HD.mncvision">
-    <title>SINDO Today</title>
-</programme>
-<programme start="20260320020000 +0000" stop="20260320030000 +0000" channel="Sindo News TV HD.mncvision">
-    <title>Special Report</title>
-</programme>
-<programme start="20260320030000 +0000" stop="20260320033000 +0000" channel="Sindo News TV HD.mncvision">
-    <title>iNews Sport Pagi</title>
-</programme>
-<programme start="20260320033000 +0000" stop="20260320050000 +0000" channel="Sindo News TV HD.mncvision">
-    <title>SINDO Siang</title>
-</programme>
-<programme start="20260320050000 +0000" stop="20260320053000 +0000" channel="Sindo News TV HD.mncvision">
-    <title>Lintas iNews Siang</title>
-</programme>
-<programme start="20260320053000 +0000" stop="20260320063000 +0000" channel="Sindo News TV HD.mncvision">
-    <title>iNews Today</title>
-</programme>
-<programme start="20260320063000 +0000" stop="20260320070000 +0000" channel="Sindo News TV HD.mncvision">
-    <title>Seputar iNews Siang</title>
-</programme>
-<programme start="20260320070000 +0000" stop="20260320083000 +0000" channel="Sindo News TV HD.mncvision">
-    <title>iNews Siang</title>
-</programme>
-<programme start="20260320083000 +0000" stop="20260320090000 +0000" channel="Sindo News TV HD.mncvision">
-    <title>Special Report</title>
-</programme>
-<programme start="20260320090000 +0000" stop="20260320103000 +0000" channel="Sindo News TV HD.mncvision">
-    <title>SINDO Sore</title>
-</programme>
-<programme start="20260320103000 +0000" stop="20260320110700 +0000" channel="Sindo News TV HD.mncvision">
-    <title>SINDO Files</title>
-</programme>
-<programme start="20260320110700 +0000" stop="20260320111000 +0000" channel="Sindo News TV HD.mncvision">
-    <title>Adzan Magrib</title>
-</programme>
-<programme start="20260320111000 +0000" stop="20260320114000 +0000" channel="Sindo News TV HD.mncvision">
-    <title>Cahaya Hati The Series</title>
-</programme>
-<programme start="20260320114000 +0000" stop="20260320120000 +0000" channel="Sindo News TV HD.mncvision">
-    <title>SINDO Files</title>
-</programme>
-<programme start="20260320120000 +0000" stop="20260320133000 +0000" channel="Sindo News TV HD.mncvision">
-    <title>SINDO Prime</title>
-</programme>
-<programme start="20260320133000 +0000" stop="20260320143000 +0000" channel="Sindo News TV HD.mncvision">
-    <title>SINDO Malam</title>
-</programme>
-<programme start="20260320143000 +0000" stop="20260320153000 +0000" channel="Sindo News TV HD.mncvision">
-    <title>To The Point</title>
-</programme>
-<programme start="20260320153000 +0000" stop="20260320163000 +0000" channel="Sindo News TV HD.mncvision">
-    <title>SINDO Files</title>
-</programme>
-<programme start="20260320163000 +0000" stop="20260319170000 +0000" channel="Sindo News TV HD.mncvision">
-    <title>OMG</title>
-</programme>
-<programme start="20260319171500 +0000" stop="20260319190000 +0000" channel="Soccer Channel.mncvision">
-    <title>Garuda Muda: IDN Vs MYA</title>
-</programme>
-<programme start="20260319190000 +0000" stop="20260319210000 +0000" channel="Soccer Channel.mncvision">
-    <title>Bundesliga 2025/26: SGE Vs FCB</title>
-</programme>
-<programme start="20260319210000 +0000" stop="20260319230000 +0000" channel="Soccer Channel.mncvision">
-    <title>AFC Asian Cup 2026: JOR Vs KSA</title>
-</programme>
-<programme start="20260319230000 +0000" stop="20260319233000 +0000" channel="Soccer Channel.mncvision">
-    <title>World Classic Soccer</title>
-</programme>
-<programme start="20260319233000 +0000" stop="20260320013000 +0000" channel="Soccer Channel.mncvision">
-    <title>Best Of Persib: SEL Vs PSB</title>
-</programme>
-<programme start="20260320013000 +0000" stop="20260320033000 +0000" channel="Soccer Channel.mncvision">
-    <title>Bundesliga 2025/26: SGE Vs FCB</title>
-</programme>
-<programme start="20260320033000 +0000" stop="20260320040000 +0000" channel="Soccer Channel.mncvision">
-    <title>Bundesliga Weekly</title>
-</programme>
-<programme start="20260320040000 +0000" stop="20260320043000 +0000" channel="Soccer Channel.mncvision">
-    <title>The Ultimate Goals</title>
-</programme>
-<programme start="20260320043000 +0000" stop="20260320063000 +0000" channel="Soccer Channel.mncvision">
-    <title>Timnas Spesial: IDN Vs THA</title>
-</programme>
-<programme start="20260320063000 +0000" stop="20260320083000 +0000" channel="Soccer Channel.mncvision">
-    <title>Best Of Persib: LCS Vs PSB</title>
-</programme>
-<programme start="20260320083000 +0000" stop="20260320103000 +0000" channel="Soccer Channel.mncvision">
-    <title>Garuda Muda: THA Vs IDN</title>
-</programme>
-<programme start="20260320103000 +0000" stop="20260320110000 +0000" channel="Soccer Channel.mncvision">
-    <title>iNews Sports</title>
-</programme>
-<programme start="20260320110000 +0000" stop="20260320113000 +0000" channel="Soccer Channel.mncvision">
-    <title>Planet Football</title>
-</programme>
-<programme start="20260320113000 +0000" stop="20260320133000 +0000" channel="Soccer Channel.mncvision">
-    <title>Bundesliga 2025/26: BMG Vs FCB</title>
-</programme>
-<programme start="20260320133000 +0000" stop="20260320153000 +0000" channel="Soccer Channel.mncvision">
-    <title>AFC Asian Cup 2026: UAE Vs JPN</title>
-</programme>
-<programme start="20260320153000 +0000" stop="20260320160000 +0000" channel="Soccer Channel.mncvision">
-    <title>Timnas Spesial: IDN Vs THA</title>
-</programme>
+Error: Unable to fetch data. HTTP Status Code: 500
+Error: Unable to fetch data. HTTP Status Code: 500
 <programme start="20260319171500 +0000" stop="20260319190000 +0000" channel="Soccer Channel HD.mncvision">
     <title>Garuda Muda: IDN Vs MYA</title>
 </programme>
@@ -8122,48 +7890,7 @@
 <programme start="20260320163000 +0000" stop="20260319170000 +0000" channel="Sportstars.mncvision">
     <title>V-League 2025-2026: Men</title>
 </programme>
-<programme start="20260319170000 +0000" stop="20260319190000 +0000" channel="Sportstars 2.mncvision">
-    <title>V-League</title>
-</programme>
-<programme start="20260319190000 +0000" stop="20260319210000 +0000" channel="Sportstars 2.mncvision">
-    <title>Padel Hexagon Cup 2026</title>
-</programme>
-<programme start="20260319210000 +0000" stop="20260319233000 +0000" channel="Sportstars 2.mncvision">
-    <title>Indonesia Juara Badminton</title>
-</programme>
-<programme start="20260319233000 +0000" stop="20260320000000 +0000" channel="Sportstars 2.mncvision">
-    <title>Sportrivia</title>
-</programme>
-<programme start="20260320000000 +0000" stop="20260320003000 +0000" channel="Sportstars 2.mncvision">
-    <title>iNews Sport</title>
-</programme>
-<programme start="20260320003000 +0000" stop="20260320023000 +0000" channel="Sportstars 2.mncvision">
-    <title>Bundesliga Big Match</title>
-</programme>
-<programme start="20260320023000 +0000" stop="20260320030000 +0000" channel="Sportstars 2.mncvision">
-    <title>Sport Today</title>
-</programme>
-<programme start="20260320030000 +0000" stop="20260320050000 +0000" channel="Sportstars 2.mncvision">
-    <title>Padel Hexagon Cup 2026</title>
-</programme>
-<programme start="20260320050000 +0000" stop="20260320070000 +0000" channel="Sportstars 2.mncvision">
-    <title>V-League</title>
-</programme>
-<programme start="20260320070000 +0000" stop="20260320083000 +0000" channel="Sportstars 2.mncvision">
-    <title>Tinju</title>
-</programme>
-<programme start="20260320083000 +0000" stop="20260320103000 +0000" channel="Sportstars 2.mncvision">
-    <title>Padel Hexagon Cup 2026</title>
-</programme>
-<programme start="20260320103000 +0000" stop="20260320130000 +0000" channel="Sportstars 2.mncvision">
-    <title>Indonesia Juara Badminton</title>
-</programme>
-<programme start="20260320130000 +0000" stop="20260320150000 +0000" channel="Sportstars 2.mncvision">
-    <title>Indonesia Juara Basketball</title>
-</programme>
-<programme start="20260320150000 +0000" stop="20260320153000 +0000" channel="Sportstars 2.mncvision">
-    <title>Best Of Persib</title>
-</programme>
+Error: Unable to fetch data. HTTP Status Code: 500
 <programme start="20260319170000 +0000" stop="20260319190000 +0000" channel="Sportstars 2 HD.mncvision">
     <title>V-League</title>
 </programme>
@@ -8278,48 +8005,7 @@
 <programme start="20260320150000 +0000" stop="20260320153000 +0000" channel="sportstars 3 HD.mncvision">
     <title>Friendly Match</title>
 </programme>
-<programme start="20260319170000 +0000" stop="20260319190000 +0000" channel="Sportstars 4.mncvision">
-    <title>Bundesliga</title>
-</programme>
-<programme start="20260319190000 +0000" stop="20260319210000 +0000" channel="Sportstars 4.mncvision">
-    <title>BRI Liga 1</title>
-</programme>
-<programme start="20260319210000 +0000" stop="20260319230000 +0000" channel="Sportstars 4.mncvision">
-    <title>Timnas Special: IDN Vs SAU</title>
-</programme>
-<programme start="20260319230000 +0000" stop="20260319233000 +0000" channel="Sportstars 4.mncvision">
-    <title>Top Goals</title>
-</programme>
-<programme start="20260319233000 +0000" stop="20260320000000 +0000" channel="Sportstars 4.mncvision">
-    <title>30 Minutes Extreme</title>
-</programme>
-<programme start="20260320000000 +0000" stop="20260320030000 +0000" channel="Sportstars 4.mncvision">
-    <title>Indonesia Juara Badminton</title>
-</programme>
-<programme start="20260320030000 +0000" stop="20260320050000 +0000" channel="Sportstars 4.mncvision">
-    <title>V-League Men</title>
-</programme>
-<programme start="20260320050000 +0000" stop="20260320070000 +0000" channel="Sportstars 4.mncvision">
-    <title>V-League Women</title>
-</programme>
-<programme start="20260320070000 +0000" stop="20260320090000 +0000" channel="Sportstars 4.mncvision">
-    <title>Timnas Special</title>
-</programme>
-<programme start="20260320090000 +0000" stop="20260320110000 +0000" channel="Sportstars 4.mncvision">
-    <title>Friendly Match</title>
-</programme>
-<programme start="20260320110000 +0000" stop="20260320113000 +0000" channel="Sportstars 4.mncvision">
-    <title>30 Minutes Extreme</title>
-</programme>
-<programme start="20260320113000 +0000" stop="20260320133000 +0000" channel="Sportstars 4.mncvision">
-    <title>V-League Women</title>
-</programme>
-<programme start="20260320133000 +0000" stop="20260320163000 +0000" channel="Sportstars 4.mncvision">
-    <title>Indonesia Juara Badminton</title>
-</programme>
-<programme start="20260320163000 +0000" stop="20260319170000 +0000" channel="Sportstars 4.mncvision">
-    <title>30 Minutes Extreme</title>
-</programme>
+Error: Unable to fetch data. HTTP Status Code: 500
 <programme start="20260319170000 +0000" stop="20260319190000 +0000" channel="Sportstars 4 HD.mncvision">
     <title>Bundesliga</title>
 </programme>
@@ -9355,45 +9041,7 @@
 <programme start="20260320151000 +0000" stop="20260320154000 +0000" channel="UNIQUES.mncvision">
     <title>Platinum</title>
 </programme>
-<programme start="20260319175600 +0000" stop="20260319195300 +0000" channel="UNIQUES HD.mncvision">
-    <title>Every Breath You Take</title>
-</programme>
-<programme start="20260319195300 +0000" stop="20260319214300 +0000" channel="UNIQUES HD.mncvision">
-    <title>Gold</title>
-</programme>
-<programme start="20260319214300 +0000" stop="20260319231300 +0000" channel="UNIQUES HD.mncvision">
-    <title>Man With My Husband&#039;s Face</title>
-</programme>
-<programme start="20260319231300 +0000" stop="20260320004300 +0000" channel="UNIQUES HD.mncvision">
-    <title>Silver</title>
-</programme>
-<programme start="20260320004300 +0000" stop="20260320022700 +0000" channel="UNIQUES HD.mncvision">
-    <title>Stowaway</title>
-</programme>
-<programme start="20260320022700 +0000" stop="20260320043000 +0000" channel="UNIQUES HD.mncvision">
-    <title>Platinum</title>
-</programme>
-<programme start="20260320043000 +0000" stop="20260320061100 +0000" channel="UNIQUES HD.mncvision">
-    <title>Undeserved</title>
-</programme>
-<programme start="20260320061100 +0000" stop="20260320075700 +0000" channel="UNIQUES HD.mncvision">
-    <title>Blowback</title>
-</programme>
-<programme start="20260320075700 +0000" stop="20260320095100 +0000" channel="UNIQUES HD.mncvision">
-    <title>Gold</title>
-</programme>
-<programme start="20260320095100 +0000" stop="20260320110700 +0000" channel="UNIQUES HD.mncvision">
-    <title>Christmas In Carolina</title>
-</programme>
-<programme start="20260320110700 +0000" stop="20260320130600 +0000" channel="UNIQUES HD.mncvision">
-    <title>Silver</title>
-</programme>
-<programme start="20260320130600 +0000" stop="20260320151000 +0000" channel="UNIQUES HD.mncvision">
-    <title>God Help The Girl</title>
-</programme>
-<programme start="20260320151000 +0000" stop="20260320154000 +0000" channel="UNIQUES HD.mncvision">
-    <title>Platinum</title>
-</programme>
+Error: Unable to fetch data. HTTP Status Code: 500
 <programme start="20260319170000 +0000" stop="20260319180000 +0000" channel="Vision Prime.mncvision">
     <title>Intan</title>
 </programme>
@@ -9451,60 +9099,4 @@
 <programme start="20260320150000 +0000" stop="20260320153000 +0000" channel="Vision Prime.mncvision">
     <title>Main Krishna Hoon</title>
 </programme>
-<programme start="20260319170000 +0000" stop="20260319180000 +0000" channel="Vision Prime HD.mncvision">
-    <title>Intan</title>
-</programme>
-<programme start="20260319180000 +0000" stop="20260319200000 +0000" channel="Vision Prime HD.mncvision">
-    <title>Banyak Jalan Menuju Surga</title>
-</programme>
-<programme start="20260319200000 +0000" stop="20260319220000 +0000" channel="Vision Prime HD.mncvision">
-    <title>Mencintai Ipar Sendiri</title>
-</programme>
-<programme start="20260319220000 +0000" stop="20260320000000 +0000" channel="Vision Prime HD.mncvision">
-    <title>99 Nama Cinta</title>
-</programme>
-<programme start="20260320000000 +0000" stop="20260320010000 +0000" channel="Vision Prime HD.mncvision">
-    <title>Banyak Jalan Menuju Surga</title>
-</programme>
-<programme start="20260320010000 +0000" stop="20260320020000 +0000" channel="Vision Prime HD.mncvision">
-    <title>Pernikahan Dini</title>
-</programme>
-<programme start="20260320020000 +0000" stop="20260320023000 +0000" channel="Vision Prime HD.mncvision">
-    <title>+62 Fo.Mo</title>
-</programme>
-<programme start="20260320023000 +0000" stop="20260320030000 +0000" channel="Vision Prime HD.mncvision">
-    <title>Sekuriti</title>
-</programme>
-<programme start="20260320030000 +0000" stop="20260320040000 +0000" channel="Vision Prime HD.mncvision">
-    <title>Ikatan Cinta</title>
-</programme>
-<programme start="20260320040000 +0000" stop="20260320050000 +0000" channel="Vision Prime HD.mncvision">
-    <title>Banyak Jalan Menuju Surga</title>
-</programme>
-<programme start="20260320050000 +0000" stop="20260320070000 +0000" channel="Vision Prime HD.mncvision">
-    <title>Mission: Impossible 3</title>
-</programme>
-<programme start="20260320070000 +0000" stop="20260320090000 +0000" channel="Vision Prime HD.mncvision">
-    <title>Preman Pensiun Kembali Ke Fitri</title>
-</programme>
-<programme start="20260320090000 +0000" stop="20260320100000 +0000" channel="Vision Prime HD.mncvision">
-    <title>Banyak Jalan Menuju Surga</title>
-</programme>
-<programme start="20260320100000 +0000" stop="20260320113000 +0000" channel="Vision Prime HD.mncvision">
-    <title>99 Nama Cinta</title>
-</programme>
-<programme start="20260320113000 +0000" stop="20260320133000 +0000" channel="Vision Prime HD.mncvision">
-    <title>Mencintai Ipar Sendiri</title>
-</programme>
-<programme start="20260320133000 +0000" stop="20260320140000 +0000" channel="Vision Prime HD.mncvision">
-    <title>Cinta 5 Meter</title>
-</programme>
-<programme start="20260320140000 +0000" stop="20260320143000 +0000" channel="Vision Prime HD.mncvision">
-    <title>Arab Maklum 3</title>
-</programme>
-<programme start="20260320143000 +0000" stop="20260320150000 +0000" channel="Vision Prime HD.mncvision">
-    <title>Hindmata</title>
-</programme>
-<programme start="20260320150000 +0000" stop="20260320153000 +0000" channel="Vision Prime HD.mncvision">
-    <title>Main Krishna Hoon</title>
-</programme>
+Error: Unable to fetch data. HTTP Status Code: 500

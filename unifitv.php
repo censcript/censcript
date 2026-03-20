@@ -2956,8 +2956,8 @@
     <category lang="en">Drama</category>
   </programme>
   <programme start="20260320140000 +0000" stop="20260320141500 +0000" channel="tvs.unifitv">
-    <title lang="en">Takbir Raya Lembaga Pelabuhan Bintulu</title>
-    <desc lang="en">Rakaman takbir Raya Aidilfitri 2026 dibawakan khas oleh Lembaga Pelabuhan Bintulu.</desc>
+    <title lang="en">Takbir Raya Bintulu Port Holdings Berhad</title>
+    <desc lang="en">Rakaman takbir Raya Aidilfitri 2026 dibawakan khas oleh Takbir Raya Bintulu Port Holdings Berhad</desc>
     <category lang="en">Culture</category>
   </programme>
   <programme start="20260320141500 +0000" stop="20260320143000 +0000" channel="tvs.unifitv">
@@ -2996,8 +2996,8 @@
     <category lang="en">Drama</category>
   </programme>
   <programme start="20260320160000 +0000" stop="20260320161500 +0000" channel="tvs.unifitv">
-    <title lang="en">Takbir Raya Lembaga Pelabuhan Bintulu</title>
-    <desc lang="en">Rakaman takbir Raya Aidilfitri 2026 dibawakan khas oleh Lembaga Pelabuhan Bintulu.</desc>
+    <title lang="en">Takbir Raya Bintulu Port Holdings Berhad</title>
+    <desc lang="en">Rakaman takbir Raya Aidilfitri 2026 dibawakan khas oleh Takbir Raya Bintulu Port Holdings Berhad</desc>
     <category lang="en">Culture</category>
   </programme>
   <channel id="duniasinemahd.unifitv">

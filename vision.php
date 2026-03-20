@@ -529,9 +529,6 @@
 <programme start="20260320070000 +0000" stop="20260320073000 +0000" channel="ANTV.vision">
 <title>Jhanak</title>
 </programme>
-<programme start="20260320110000 +0000" stop="20260320130000 +0000" channel="ANTV.vision">
-<title>Nada-Nada Rindu</title>
-</programme>
 <programme start="20260320130000 +0000" stop="20260320150000 +0000" channel="ANTV.vision">
 <title>Serbuan Halilintar</title>
 </programme>
@@ -1497,4 +1494,7 @@
 </programme>
 <programme start="20260320195000 +0000" stop="20260320205000 +0000" channel="MDTV.vision">
 <title>Keajaiban Dunia</title>
+</programme>
+<programme start="20260320205000 +0000" stop="20260320220000 +0000" channel="MDTV.vision">
+<title>Top Spot</title>
 </programme>
