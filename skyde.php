@@ -2487,10 +2487,10 @@ Warning: Undefined array key "et" in /usr/home/ManusiaBiasa/domains/manusiabiasa
 <programme start="20260320223000 +0000" stop="20260320235500 +0000" channel="Sky Showcase HD.skyde">
     <title>Critical Incident - Tod an der Grenze</title>
 </programme>
-<programme start="20260319232500 +0000" stop="20260320001000 +0000" channel="Sky Sport Austria 1 HD.skyde">
+<programme start="20260319231500 +0000" stop="20260319234500 +0000" channel="Sky Sport Austria 1 HD.skyde">
     <title>Live Der UEFA Super Donnerstag: Alle Spiele, alle Tore, Achtelfinale, Rückspiele</title>
 </programme>
-<programme start="20260320001000 +0000" stop="20260320013000 +0000" channel="Sky Sport Austria 1 HD.skyde">
+<programme start="20260319234500 +0000" stop="20260320013000 +0000" channel="Sky Sport Austria 1 HD.skyde">
     <title>UEFA EL: SC Freiburg - KRC Genk, Achtelfinale, Rückspiel</title>
 </programme>
 <programme start="20260320013000 +0000" stop="20260320033000 +0000" channel="Sky Sport Austria 1 HD.skyde">
@@ -2979,10 +2979,10 @@ Warning: Undefined array key "et" in /usr/home/ManusiaBiasa/domains/manusiabiasa
 <programme start="20260320164000 +0000" stop="20260320170000 +0000" channel="Sky Sport Bundesliga 3 HD.skyde">
     <title>Es folgt: Live 2. Bundesliga</title>
 </programme>
-<programme start="20260320170000 +0000" stop="20260320194500 +0000" channel="Sky Sport Bundesliga 3 HD.skyde">
+<programme start="20260320170000 +0000" stop="20260320193000 +0000" channel="Sky Sport Bundesliga 3 HD.skyde">
     <title>Live 2. BL: Hannover 96 - Eintracht Braunschweig, 27. Spieltag</title>
 </programme>
-<programme start="20260320194500 +0000" stop="20260320220000 +0000" channel="Sky Sport Bundesliga 3 HD.skyde">
+<programme start="20260320193000 +0000" stop="20260320220000 +0000" channel="Sky Sport Bundesliga 3 HD.skyde">
     <title>Live BL: Sky Sport Fantasy: RBL - TSG, 27. Spieltag</title>
 </programme>
 <programme start="20260320164000 +0000" stop="20260320170000 +0000" channel="Sky Sport Bundesliga 4 HD.skyde">
@@ -3075,10 +3075,10 @@ Warning: Undefined array key "et" in /usr/home/ManusiaBiasa/domains/manusiabiasa
 <programme start="20260320073000 +0000" stop="20260320080000 +0000" channel="Sky Sport Golf HD.skyde">
     <title>Golf: Tee Time Stories (3)</title>
 </programme>
-<programme start="20260320080000 +0000" stop="20260320130500 +0000" channel="Sky Sport Golf HD.skyde">
+<programme start="20260320080000 +0000" stop="20260320130000 +0000" channel="Sky Sport Golf HD.skyde">
     <title>Live LIV Golf: Südafrika, 2. Tag in Johannesburg</title>
 </programme>
-<programme start="20260320130500 +0000" stop="20260320150000 +0000" channel="Sky Sport Golf HD.skyde">
+<programme start="20260320130000 +0000" stop="20260320150000 +0000" channel="Sky Sport Golf HD.skyde">
     <title>TGL: Jupiter Links Golf Club - Boston Common Golf, Halbfinale</title>
 </programme>
 <programme start="20260320150000 +0000" stop="20260320173000 +0000" channel="Sky Sport Golf HD.skyde">
@@ -3132,13 +3132,13 @@ Warning: Undefined array key "et" in /usr/home/ManusiaBiasa/domains/manusiabiasa
 <programme start="20260320112500 +0000" stop="20260320115500 +0000" channel="Sky Sport Mix HD.skyde">
     <title>MotoGP: Pressekonferenz Fahrer - GP Brasilien</title>
 </programme>
-<programme start="20260320115500 +0000" stop="20260320135500 +0000" channel="Sky Sport Mix HD.skyde">
+<programme start="20260320115500 +0000" stop="20260320125000 +0000" channel="Sky Sport Mix HD.skyde">
     <title>Live Moto3: 1. Freies Training - GP Brasilien</title>
 </programme>
-<programme start="20260320135500 +0000" stop="20260320145500 +0000" channel="Sky Sport Mix HD.skyde">
+<programme start="20260320125000 +0000" stop="20260320135500 +0000" channel="Sky Sport Mix HD.skyde">
     <title>Live Moto2: 1. Freies Training - GP Brasilien</title>
 </programme>
-<programme start="20260320145500 +0000" stop="20260320152500 +0000" channel="Sky Sport Mix HD.skyde">
+<programme start="20260320135500 +0000" stop="20260320152500 +0000" channel="Sky Sport Mix HD.skyde">
     <title>Live MotoGP: 1. Freies Training - GP Brasilien</title>
 </programme>
 <programme start="20260320152500 +0000" stop="20260320160000 +0000" channel="Sky Sport Mix HD.skyde">
@@ -3405,8 +3405,11 @@ Warning: Undefined array key "et" in /usr/home/ManusiaBiasa/domains/manusiabiasa
 <programme start="20260320080000 +0000" stop="20260320115500 +0000" channel="Sky Sport Top Event HD.skyde">
     <title>Live LIV Golf: Südafrika, 2. Tag in Johannesburg</title>
 </programme>
-<programme start="20260320115500 +0000" stop="20260320140000 +0000" channel="Sky Sport Top Event HD.skyde">
+<programme start="20260320115500 +0000" stop="20260320125000 +0000" channel="Sky Sport Top Event HD.skyde">
     <title>Live Moto3: 1. Freies Training - GP Brasilien</title>
+</programme>
+<programme start="20260320125000 +0000" stop="20260320140000 +0000" channel="Sky Sport Top Event HD.skyde">
+    <title>Live Moto2: 1. Freies Training - GP Brasilien</title>
 </programme>
 <programme start="20260320140000 +0000" stop="20260320170000 +0000" channel="Sky Sport Top Event HD.skyde">
     <title>Live ATP &amp; WTA: Konferenz Miami Open presented by Itaú in Miami, Florida (USA), 4. Tag</title>
@@ -3711,6 +3714,30 @@ Warning: Undefined array key "et" in /usr/home/ManusiaBiasa/domains/manusiabiasa
 <programme start="20260320161500 +0000" stop="20260320162000 +0000" channel="Sky Sport 3 HD.skyde">
     <title>Test SPORT 03 with BO-ALLGEMEIN</title>
 </programme>
+<programme start="20260320162000 +0000" stop="20260320162500 +0000" channel="Sky Sport 3 HD.skyde">
+    <title>Test Sport 03</title>
+</programme>
+<programme start="20260320162500 +0000" stop="20260320163000 +0000" channel="Sky Sport 3 HD.skyde">
+    <title>Test Sport 03 with BO-DE</title>
+</programme>
+<programme start="20260320163000 +0000" stop="20260320163500 +0000" channel="Sky Sport 3 HD.skyde">
+    <title>Test SPORT 03 with BO-AU</title>
+</programme>
+<programme start="20260320163500 +0000" stop="20260320164000 +0000" channel="Sky Sport 3 HD.skyde">
+    <title>Test SPORT 03 with BO-ALLGEMEIN</title>
+</programme>
+<programme start="20260320164000 +0000" stop="20260320164500 +0000" channel="Sky Sport 3 HD.skyde">
+    <title>Test Sport 03</title>
+</programme>
+<programme start="20260320164500 +0000" stop="20260320165000 +0000" channel="Sky Sport 3 HD.skyde">
+    <title>Test Sport 03 with BO-DE</title>
+</programme>
+<programme start="20260320165000 +0000" stop="20260320165500 +0000" channel="Sky Sport 3 HD.skyde">
+    <title>Test SPORT 03 with BO-AU</title>
+</programme>
+<programme start="20260320165500 +0000" stop="20260320170000 +0000" channel="Sky Sport 3 HD.skyde">
+    <title>Test SPORT 03 with BO-ALLGEMEIN</title>
+</programme>
 <programme start="20260320144000 +0000" stop="20260320150000 +0000" channel="Sky Sport 6 HD.skyde">
     <title>Es folgt: Live Tennis WTA Tour</title>
 </programme>
@@ -3905,195 +3932,6 @@ Warning: Undefined array key "et" in /usr/home/ManusiaBiasa/domains/manusiabiasa
 </programme>
 <programme start="20260320221500 +0000" stop="20260320230000 +0000" channel="Universal TV HD.skyde">
     <title>Bones - Die Knochenjägerin</title>
-</programme>
-<programme start="20260319232000 +0000" stop="20260319234000 +0000" channel="Warner TV Comedy HD.skyde">
-    <title>2 Broke Girls</title>
-</programme>
-<programme start="20260319234000 +0000" stop="20260320000500 +0000" channel="Warner TV Comedy HD.skyde">
-    <title>2 Broke Girls</title>
-</programme>
-<programme start="20260320000500 +0000" stop="20260320002500 +0000" channel="Warner TV Comedy HD.skyde">
-    <title>2 Broke Girls</title>
-</programme>
-<programme start="20260320002500 +0000" stop="20260320004000 +0000" channel="Warner TV Comedy HD.skyde">
-    <title>Robot Chicken</title>
-</programme>
-<programme start="20260320004000 +0000" stop="20260320005000 +0000" channel="Warner TV Comedy HD.skyde">
-    <title>Robot Chicken</title>
-</programme>
-<programme start="20260320005000 +0000" stop="20260320010500 +0000" channel="Warner TV Comedy HD.skyde">
-    <title>Robot Chicken</title>
-</programme>
-<programme start="20260320010500 +0000" stop="20260320011500 +0000" channel="Warner TV Comedy HD.skyde">
-    <title>Robot Chicken</title>
-</programme>
-<programme start="20260320011500 +0000" stop="20260320013500 +0000" channel="Warner TV Comedy HD.skyde">
-    <title>Harley Quinn</title>
-</programme>
-<programme start="20260320013500 +0000" stop="20260320020000 +0000" channel="Warner TV Comedy HD.skyde">
-    <title>Harley Quinn</title>
-</programme>
-<programme start="20260320020000 +0000" stop="20260320023500 +0000" channel="Warner TV Comedy HD.skyde">
-    <title>Andere Eltern</title>
-</programme>
-<programme start="20260320023500 +0000" stop="20260320025500 +0000" channel="Warner TV Comedy HD.skyde">
-    <title>2 Broke Girls</title>
-</programme>
-<programme start="20260320025500 +0000" stop="20260320031500 +0000" channel="Warner TV Comedy HD.skyde">
-    <title>2 Broke Girls</title>
-</programme>
-<programme start="20260320031500 +0000" stop="20260320033500 +0000" channel="Warner TV Comedy HD.skyde">
-    <title>2 Broke Girls</title>
-</programme>
-<programme start="20260320033500 +0000" stop="20260320035500 +0000" channel="Warner TV Comedy HD.skyde">
-    <title>2 Broke Girls</title>
-</programme>
-<programme start="20260320035500 +0000" stop="20260320041500 +0000" channel="Warner TV Comedy HD.skyde">
-    <title>Die Nanny</title>
-</programme>
-<programme start="20260320041500 +0000" stop="20260320044000 +0000" channel="Warner TV Comedy HD.skyde">
-    <title>Die Nanny</title>
-</programme>
-<programme start="20260320044000 +0000" stop="20260320050000 +0000" channel="Warner TV Comedy HD.skyde">
-    <title>Die Nanny</title>
-</programme>
-<programme start="20260320050000 +0000" stop="20260320053000 +0000" channel="Warner TV Comedy HD.skyde">
-    <title>Friends</title>
-</programme>
-<programme start="20260320053000 +0000" stop="20260320060000 +0000" channel="Warner TV Comedy HD.skyde">
-    <title>Friends</title>
-</programme>
-<programme start="20260320060000 +0000" stop="20260320062500 +0000" channel="Warner TV Comedy HD.skyde">
-    <title>Friends</title>
-</programme>
-<programme start="20260320062500 +0000" stop="20260320065000 +0000" channel="Warner TV Comedy HD.skyde">
-    <title>Friends</title>
-</programme>
-<programme start="20260320065000 +0000" stop="20260320071500 +0000" channel="Warner TV Comedy HD.skyde">
-    <title>Friends</title>
-</programme>
-<programme start="20260320071500 +0000" stop="20260320074000 +0000" channel="Warner TV Comedy HD.skyde">
-    <title>Friends</title>
-</programme>
-<programme start="20260320074000 +0000" stop="20260320080000 +0000" channel="Warner TV Comedy HD.skyde">
-    <title>Die Nanny</title>
-</programme>
-<programme start="20260320080000 +0000" stop="20260320082500 +0000" channel="Warner TV Comedy HD.skyde">
-    <title>Die Nanny</title>
-</programme>
-<programme start="20260320082500 +0000" stop="20260320085500 +0000" channel="Warner TV Comedy HD.skyde">
-    <title>Die Nanny</title>
-</programme>
-<programme start="20260320085500 +0000" stop="20260320092000 +0000" channel="Warner TV Comedy HD.skyde">
-    <title>The Middle</title>
-</programme>
-<programme start="20260320092000 +0000" stop="20260320094500 +0000" channel="Warner TV Comedy HD.skyde">
-    <title>The Middle</title>
-</programme>
-<programme start="20260320094500 +0000" stop="20260320101000 +0000" channel="Warner TV Comedy HD.skyde">
-    <title>The Middle</title>
-</programme>
-<programme start="20260320101000 +0000" stop="20260320103500 +0000" channel="Warner TV Comedy HD.skyde">
-    <title>The Middle</title>
-</programme>
-<programme start="20260320103500 +0000" stop="20260320110000 +0000" channel="Warner TV Comedy HD.skyde">
-    <title>The Middle</title>
-</programme>
-<programme start="20260320110000 +0000" stop="20260320112500 +0000" channel="Warner TV Comedy HD.skyde">
-    <title>The Middle</title>
-</programme>
-<programme start="20260320112500 +0000" stop="20260320115000 +0000" channel="Warner TV Comedy HD.skyde">
-    <title>The Middle</title>
-</programme>
-<programme start="20260320115000 +0000" stop="20260320121500 +0000" channel="Warner TV Comedy HD.skyde">
-    <title>The Middle</title>
-</programme>
-<programme start="20260320121500 +0000" stop="20260320124000 +0000" channel="Warner TV Comedy HD.skyde">
-    <title>King of Queens</title>
-</programme>
-<programme start="20260320124000 +0000" stop="20260320130500 +0000" channel="Warner TV Comedy HD.skyde">
-    <title>King of Queens</title>
-</programme>
-<programme start="20260320130500 +0000" stop="20260320133000 +0000" channel="Warner TV Comedy HD.skyde">
-    <title>King of Queens</title>
-</programme>
-<programme start="20260320133000 +0000" stop="20260320135500 +0000" channel="Warner TV Comedy HD.skyde">
-    <title>King of Queens</title>
-</programme>
-<programme start="20260320135500 +0000" stop="20260320142000 +0000" channel="Warner TV Comedy HD.skyde">
-    <title>King of Queens</title>
-</programme>
-<programme start="20260320142000 +0000" stop="20260320144500 +0000" channel="Warner TV Comedy HD.skyde">
-    <title>King of Queens</title>
-</programme>
-<programme start="20260320144500 +0000" stop="20260320151000 +0000" channel="Warner TV Comedy HD.skyde">
-    <title>King of Queens</title>
-</programme>
-<programme start="20260320151000 +0000" stop="20260320153500 +0000" channel="Warner TV Comedy HD.skyde">
-    <title>King of Queens</title>
-</programme>
-<programme start="20260320153500 +0000" stop="20260320155500 +0000" channel="Warner TV Comedy HD.skyde">
-    <title>Two and a Half Men</title>
-</programme>
-<programme start="20260320155500 +0000" stop="20260320162000 +0000" channel="Warner TV Comedy HD.skyde">
-    <title>Two and a Half Men</title>
-</programme>
-<programme start="20260320162000 +0000" stop="20260320164500 +0000" channel="Warner TV Comedy HD.skyde">
-    <title>Two and a Half Men</title>
-</programme>
-<programme start="20260320164500 +0000" stop="20260320171000 +0000" channel="Warner TV Comedy HD.skyde">
-    <title>2 Broke Girls</title>
-</programme>
-<programme start="20260320171000 +0000" stop="20260320173500 +0000" channel="Warner TV Comedy HD.skyde">
-    <title>2 Broke Girls</title>
-</programme>
-<programme start="20260320173500 +0000" stop="20260320180000 +0000" channel="Warner TV Comedy HD.skyde">
-    <title>The Big Bang Theory</title>
-</programme>
-<programme start="20260320180000 +0000" stop="20260320182500 +0000" channel="Warner TV Comedy HD.skyde">
-    <title>The Big Bang Theory</title>
-</programme>
-<programme start="20260320182500 +0000" stop="20260320185000 +0000" channel="Warner TV Comedy HD.skyde">
-    <title>The Big Bang Theory</title>
-</programme>
-<programme start="20260320185000 +0000" stop="20260320191500 +0000" channel="Warner TV Comedy HD.skyde">
-    <title>The Big Bang Theory</title>
-</programme>
-<programme start="20260320191500 +0000" stop="20260320194000 +0000" channel="Warner TV Comedy HD.skyde">
-    <title>Two and a Half Men</title>
-</programme>
-<programme start="20260320194000 +0000" stop="20260320200500 +0000" channel="Warner TV Comedy HD.skyde">
-    <title>Two and a Half Men</title>
-</programme>
-<programme start="20260320200500 +0000" stop="20260320202500 +0000" channel="Warner TV Comedy HD.skyde">
-    <title>Two and a Half Men</title>
-</programme>
-<programme start="20260320202500 +0000" stop="20260320205000 +0000" channel="Warner TV Comedy HD.skyde">
-    <title>2 Broke Girls</title>
-</programme>
-<programme start="20260320205000 +0000" stop="20260320211500 +0000" channel="Warner TV Comedy HD.skyde">
-    <title>2 Broke Girls</title>
-</programme>
-<programme start="20260320211500 +0000" stop="20260320212500 +0000" channel="Warner TV Comedy HD.skyde">
-    <title>Robot Chicken</title>
-</programme>
-<programme start="20260320212500 +0000" stop="20260320214000 +0000" channel="Warner TV Comedy HD.skyde">
-    <title>Robot Chicken</title>
-</programme>
-<programme start="20260320214000 +0000" stop="20260320215500 +0000" channel="Warner TV Comedy HD.skyde">
-    <title>Robot Chicken</title>
-</programme>
-<programme start="20260320215500 +0000" stop="20260320220500 +0000" channel="Warner TV Comedy HD.skyde">
-    <title>Robot Chicken</title>
-</programme>
-<programme start="20260320220500 +0000" stop="20260320223000 +0000" channel="Warner TV Comedy HD.skyde">
-    <title>Harley Quinn</title>
-</programme>
-<programme start="20260320223000 +0000" stop="20260320225500 +0000" channel="Warner TV Comedy HD.skyde">
-    <title>Harley Quinn</title>
-</programme>
-<programme start="20260320225500 +0000" stop="20260320232000 +0000" channel="Warner TV Comedy HD.skyde">
-    <title>2 Broke Girls</title>
 </programme>
 <programme start="20260320003500 +0000" stop="20260320021500 +0000" channel="Warner TV Film.skyde">
     <title>Mortal Kombat</title>
