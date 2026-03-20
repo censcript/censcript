@@ -3151,6 +3151,9 @@
     <programme start="20260319190000 +0000" stop="20260319190200 +0000" channel="DW English HD.starhub">
         <title>News</title>
     </programme>
+    <programme start="20260319190200 +0000" stop="20260319191500 +0000" channel="DW English HD.starhub">
+        <title>News</title>
+    </programme>
     <programme start="20260319191500 +0000" stop="20260319193000 +0000" channel="DW English HD.starhub">
         <title>Berlin&#039;s glow-up after the fall of the wall: How Germany&#039;s capital rebuilt itself</title>
     </programme>
@@ -3166,6 +3169,12 @@
     <programme start="20260319210000 +0000" stop="20260319210200 +0000" channel="DW English HD.starhub">
         <title>News</title>
     </programme>
+    <programme start="20260319210200 +0000" stop="20260319211500 +0000" channel="DW English HD.starhub">
+        <title>News</title>
+    </programme>
+    <programme start="20260319211500 +0000" stop="20260319220000 +0000" channel="DW English HD.starhub">
+        <title>Love, Like, Lost - Inside the Cyber Mafia</title>
+    </programme>
     <programme start="20260319220000 +0000" stop="20260319220200 +0000" channel="DW English HD.starhub">
         <title>News</title>
     </programme>
@@ -3176,6 +3185,9 @@
         <title>Standoff in Iran: Is Trump pulling NATO into war?</title>
     </programme>
     <programme start="20260319230000 +0000" stop="20260319230200 +0000" channel="DW English HD.starhub">
+        <title>News</title>
+    </programme>
+    <programme start="20260319230200 +0000" stop="20260319231500 +0000" channel="DW English HD.starhub">
         <title>News</title>
     </programme>
     <programme start="20260319231500 +0000" stop="20260319233000 +0000" channel="DW English HD.starhub">
@@ -7391,34 +7403,34 @@
         <title>Tuu Juliet Jatt Di</title>
     </programme>
     <programme start="20260319160000 +0000" stop="20260319163000 +0000" channel="BBC World News HD.starhub">
-        <title>Verified Live</title>
+        <title>BBC News</title>
     </programme>
     <programme start="20260319163000 +0000" stop="20260319164500 +0000" channel="BBC World News HD.starhub">
         <title>Business Today</title>
     </programme>
     <programme start="20260319164500 +0000" stop="20260319170000 +0000" channel="BBC World News HD.starhub">
-        <title>Verified Live</title>
+        <title>BBC News</title>
     </programme>
     <programme start="20260319170000 +0000" stop="20260319173000 +0000" channel="BBC World News HD.starhub">
-        <title>Verified Live</title>
+        <title>BBC News</title>
     </programme>
     <programme start="20260319173000 +0000" stop="20260319180000 +0000" channel="BBC World News HD.starhub">
         <title>Focus on Africa</title>
     </programme>
     <programme start="20260319180000 +0000" stop="20260319183000 +0000" channel="BBC World News HD.starhub">
-        <title>The World Today with Maryam Moshiri</title>
+        <title>BBC News</title>
     </programme>
     <programme start="20260319183000 +0000" stop="20260319184500 +0000" channel="BBC World News HD.starhub">
         <title>The Iran War Today</title>
     </programme>
     <programme start="20260319184500 +0000" stop="20260319190000 +0000" channel="BBC World News HD.starhub">
-        <title>The World Today with Maryam Moshiri</title>
+        <title>BBC News</title>
     </programme>
     <programme start="20260319190000 +0000" stop="20260319193000 +0000" channel="BBC World News HD.starhub">
-        <title>The World Today with Maryam Moshiri</title>
+        <title>BBC News</title>
     </programme>
     <programme start="20260319193000 +0000" stop="20260319200000 +0000" channel="BBC World News HD.starhub">
-        <title>The World Today with Maryam Moshiri</title>
+        <title>BBC News</title>
     </programme>
     <programme start="20260319200000 +0000" stop="20260319203000 +0000" channel="BBC World News HD.starhub">
         <title>The Context USA</title>

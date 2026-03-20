@@ -466,9 +466,6 @@
 <programme start="20260320003000 +0000" stop="20260320011500 +0000" channel="Trans 7.vision">
 <title>Masjidku</title>
 </programme>
-<programme start="20260320011500 +0000" stop="20260320030000 +0000" channel="Trans 7.vision">
-<title>Nussa: The Movie</title>
-</programme>
 <programme start="20260320030000 +0000" stop="20260320050000 +0000" channel="Trans 7.vision">
 <title>Air Mata Di Ujung Sajadah</title>
 </programme>
@@ -1497,4 +1494,7 @@
 </programme>
 <programme start="20260320105800 +0000" stop="20260320110800 +0000" channel="MDTV.vision">
 <title>Ngabuburitnya Adit Sopo Jarwo</title>
+</programme>
+<programme start="20260320110800 +0000" stop="20260320120000 +0000" channel="MDTV.vision">
+<title>Esmeralda</title>
 </programme>
