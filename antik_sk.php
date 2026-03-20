@@ -3113,7 +3113,7 @@
     <title lang="id">Hříchy pro diváky detektivek (2/10)</title>
   </programme>
   <programme start="20260322110000 +0000" stop="20260322120000 +0000" channel="ČT1.webtv.sk">
-    <title lang="id">Otázky Václava Moravce</title>
+    <title lang="id">Nedělní debata</title>
   </programme>
   <programme start="20260322120000 +0000" stop="20260322120500 +0000" channel="ČT1.webtv.sk">
     <title lang="id">Zprávy</title>
@@ -5986,93 +5986,6 @@
   <programme start="20260322220000 +0000" stop="20260322230000 +0000" channel="Food Network.webtv.sk">
     <title lang="id">Kuchaři v ringu I (8)</title>
   </programme>
-  <programme start="20260321230000 +0000" stop="20260321234500 +0000" channel="Animal Planet.webtv.sk">
-    <title lang="id">Návrat na ostrov žraloků</title>
-  </programme>
-  <programme start="20260321234500 +0000" stop="20260322003000 +0000" channel="Animal Planet.webtv.sk">
-    <title lang="id">Záchrana statku III (8)</title>
-  </programme>
-  <programme start="20260322003000 +0000" stop="20260322011500 +0000" channel="Animal Planet.webtv.sk">
-    <title lang="id">Úžasná zvířata Dubaje</title>
-  </programme>
-  <programme start="20260322011500 +0000" stop="20260322020000 +0000" channel="Animal Planet.webtv.sk">
-    <title lang="id">Zvířecí obydlí I (6)</title>
-  </programme>
-  <programme start="20260322020000 +0000" stop="20260322024500 +0000" channel="Animal Planet.webtv.sk">
-    <title lang="id">Zákon v Texasu IV (20)</title>
-  </programme>
-  <programme start="20260322024500 +0000" stop="20260322033000 +0000" channel="Animal Planet.webtv.sk">
-    <title lang="id">Lidé z aljašských lesů II (4)</title>
-  </programme>
-  <programme start="20260322033000 +0000" stop="20260322041500 +0000" channel="Animal Planet.webtv.sk">
-    <title lang="id">Lidé z aljašských lesů II (5)</title>
-  </programme>
-  <programme start="20260322041500 +0000" stop="20260322043800 +0000" channel="Animal Planet.webtv.sk">
-    <title lang="id">Jak to zvířata dokážou I (20)</title>
-  </programme>
-  <programme start="20260322043800 +0000" stop="20260322050000 +0000" channel="Animal Planet.webtv.sk">
-    <title lang="id">Jak to zvířata dokážou I (21)</title>
-  </programme>
-  <programme start="20260322050000 +0000" stop="20260322055000 +0000" channel="Animal Planet.webtv.sk">
-    <title lang="id">Veterinární policie Filadelfie XII (16)</title>
-  </programme>
-  <programme start="20260322055000 +0000" stop="20260322064000 +0000" channel="Animal Planet.webtv.sk">
-    <title lang="id">Veterinární policie Filadelfie XII (17)</title>
-  </programme>
-  <programme start="20260322064000 +0000" stop="20260322073000 +0000" channel="Animal Planet.webtv.sk">
-    <title lang="id">Veterinární policie Filadelfie XII (18)</title>
-  </programme>
-  <programme start="20260322073000 +0000" stop="20260322082500 +0000" channel="Animal Planet.webtv.sk">
-    <title lang="id">Život na Veterinární univerzitě I (4)</title>
-  </programme>
-  <programme start="20260322082500 +0000" stop="20260322085300 +0000" channel="Animal Planet.webtv.sk">
-    <title lang="id">Malí obři I (11)</title>
-  </programme>
-  <programme start="20260322085300 +0000" stop="20260322092000 +0000" channel="Animal Planet.webtv.sk">
-    <title lang="id">Malí obři I (12)</title>
-  </programme>
-  <programme start="20260322092000 +0000" stop="20260322101500 +0000" channel="Animal Planet.webtv.sk">
-    <title lang="id">Dr. Jeff: Veterinář ze Skalnatých hor V (6)</title>
-  </programme>
-  <programme start="20260322101500 +0000" stop="20260322111000 +0000" channel="Animal Planet.webtv.sk">
-    <title lang="id">Dr. Jeff: Veterinář ze Skalnatých hor V (7)</title>
-  </programme>
-  <programme start="20260322111000 +0000" stop="20260322120500 +0000" channel="Animal Planet.webtv.sk">
-    <title lang="id">No nazdar! Irwinovi zasahují II (7)</title>
-  </programme>
-  <programme start="20260322120500 +0000" stop="20260322130000 +0000" channel="Animal Planet.webtv.sk">
-    <title lang="id">No nazdar! Irwinovi zasahují II (8)</title>
-  </programme>
-  <programme start="20260322130000 +0000" stop="20260322140000 +0000" channel="Animal Planet.webtv.sk">
-    <title lang="id">Akvárium II (5)</title>
-  </programme>
-  <programme start="20260322140000 +0000" stop="20260322150000 +0000" channel="Animal Planet.webtv.sk">
-    <title lang="id">Pitbulové a propuštění trestanci IX (3)</title>
-  </programme>
-  <programme start="20260322150000 +0000" stop="20260322160000 +0000" channel="Animal Planet.webtv.sk">
-    <title lang="id">Má pekelná kočka IV (8)</title>
-  </programme>
-  <programme start="20260322160000 +0000" stop="20260322170000 +0000" channel="Animal Planet.webtv.sk">
-    <title lang="id">Odborník na bazény I (2)</title>
-  </programme>
-  <programme start="20260322170000 +0000" stop="20260322180000 +0000" channel="Animal Planet.webtv.sk">
-    <title lang="id">Odborník na bazény I (3)</title>
-  </programme>
-  <programme start="20260322180000 +0000" stop="20260322190000 +0000" channel="Animal Planet.webtv.sk">
-    <title lang="id">Vymřeli či žijí II (10)</title>
-  </programme>
-  <programme start="20260322190000 +0000" stop="20260322200000 +0000" channel="Animal Planet.webtv.sk">
-    <title lang="id">Akvária na míru III (10)</title>
-  </programme>
-  <programme start="20260322200000 +0000" stop="20260322210000 +0000" channel="Animal Planet.webtv.sk">
-    <title lang="id">Akvária na míru VIII (9)</title>
-  </programme>
-  <programme start="20260322210000 +0000" stop="20260322220000 +0000" channel="Animal Planet.webtv.sk">
-    <title lang="id">Akvária na míru IV (22)</title>
-  </programme>
-  <programme start="20260322220000 +0000" stop="20260322230000 +0000" channel="Animal Planet.webtv.sk">
-    <title lang="id">Poslední obyvatelé Aljašky I (3)</title>
-  </programme>
   <programme start="20260321230000 +0000" stop="20260321234500 +0000" channel="History Channel.webtv.sk">
     <title lang="id">Prokletí ostrova Oak</title>
   </programme>
@@ -8430,6 +8343,48 @@
   </programme>
   <programme start="20260322203500 +0000" stop="20260322231500 +0000" channel="HBO 3.webtv.sk">
     <title lang="id">Jedna bitva za druhou</title>
+  </programme>
+  <programme start="20260321212000 +0000" stop="20260321233000 +0000" channel="Cinemax.webtv.sk">
+    <title lang="id">Mission: Impossible - Národ grázlů</title>
+  </programme>
+  <programme start="20260321233000 +0000" stop="20260322015500 +0000" channel="Cinemax.webtv.sk">
+    <title lang="id">Mission: Impossible - Fallout</title>
+  </programme>
+  <programme start="20260322015500 +0000" stop="20260322032000 +0000" channel="Cinemax.webtv.sk">
+    <title lang="id">Záhada Blair Witch</title>
+  </programme>
+  <programme start="20260322032000 +0000" stop="20260322050000 +0000" channel="Cinemax.webtv.sk">
+    <title lang="id">Bílá budova</title>
+  </programme>
+  <programme start="20260322050000 +0000" stop="20260322064000 +0000" channel="Cinemax.webtv.sk">
+    <title lang="id">Mejdan v Las Vegas</title>
+  </programme>
+  <programme start="20260322064000 +0000" stop="20260322083000 +0000" channel="Cinemax.webtv.sk">
+    <title lang="id">Zatím spolu, zatím živi</title>
+  </programme>
+  <programme start="20260322083000 +0000" stop="20260322084500 +0000" channel="Cinemax.webtv.sk">
+    <title lang="id">Hloupý kluk</title>
+  </programme>
+  <programme start="20260322084500 +0000" stop="20260322110500 +0000" channel="Cinemax.webtv.sk">
+    <title lang="id">Apollo 13</title>
+  </programme>
+  <programme start="20260322110500 +0000" stop="20260322130000 +0000" channel="Cinemax.webtv.sk">
+    <title lang="id">Devět královen</title>
+  </programme>
+  <programme start="20260322130000 +0000" stop="20260322153000 +0000" channel="Cinemax.webtv.sk">
+    <title lang="id">Vysvětlení všeho</title>
+  </programme>
+  <programme start="20260322153000 +0000" stop="20260322172000 +0000" channel="Cinemax.webtv.sk">
+    <title lang="id">Zatím spolu, zatím živi</title>
+  </programme>
+  <programme start="20260322172000 +0000" stop="20260322190000 +0000" channel="Cinemax.webtv.sk">
+    <title lang="id">Mejdan v Las Vegas</title>
+  </programme>
+  <programme start="20260322190000 +0000" stop="20260322210000 +0000" channel="Cinemax.webtv.sk">
+    <title lang="id">Diagnóza: Šampión</title>
+  </programme>
+  <programme start="20260322210000 +0000" stop="20260322230000 +0000" channel="Cinemax.webtv.sk">
+    <title lang="id">Ad Astra</title>
   </programme>
   <programme start="20260321212000 +0000" stop="20260321231000 +0000" channel="Cinemax 2.webtv.sk">
     <title lang="id">Kráska a zvíře</title>
@@ -16918,330 +16873,6 @@
   <programme start="20260322224500 +0000" stop="20260322231500 +0000" channel="Armenia 1 TV.webtv.sk">
     <title lang="id">First Studio</title>
   </programme>
-  <programme start="20260321230000 +0000" stop="20260321230500 +0000" channel="Euronews.webtv.sk">
-    <title lang="id">Global Week-End</title>
-  </programme>
-  <programme start="20260321230500 +0000" stop="20260321233000 +0000" channel="Euronews.webtv.sk">
-    <title lang="id">News</title>
-  </programme>
-  <programme start="20260321233000 +0000" stop="20260321233800 +0000" channel="Euronews.webtv.sk">
-    <title lang="id">Global Week-End</title>
-  </programme>
-  <programme start="20260321233800 +0000" stop="20260321234800 +0000" channel="Euronews.webtv.sk">
-    <title lang="id">News</title>
-  </programme>
-  <programme start="20260321234800 +0000" stop="20260322000000 +0000" channel="Euronews.webtv.sk">
-    <title lang="id">News</title>
-  </programme>
-  <programme start="20260322000000 +0000" stop="20260322000500 +0000" channel="Euronews.webtv.sk">
-    <title lang="id">Global Week-End</title>
-  </programme>
-  <programme start="20260322000500 +0000" stop="20260322002900 +0000" channel="Euronews.webtv.sk">
-    <title lang="id">News</title>
-  </programme>
-  <programme start="20260322002900 +0000" stop="20260322003400 +0000" channel="Euronews.webtv.sk">
-    <title lang="id">Global Week-End</title>
-  </programme>
-  <programme start="20260322003400 +0000" stop="20260322010000 +0000" channel="Euronews.webtv.sk">
-    <title lang="id">News</title>
-  </programme>
-  <programme start="20260322010000 +0000" stop="20260322010500 +0000" channel="Euronews.webtv.sk">
-    <title lang="id">Global Week-End</title>
-  </programme>
-  <programme start="20260322010500 +0000" stop="20260322013000 +0000" channel="Euronews.webtv.sk">
-    <title lang="id">News</title>
-  </programme>
-  <programme start="20260322013000 +0000" stop="20260322013800 +0000" channel="Euronews.webtv.sk">
-    <title lang="id">Global Week-End</title>
-  </programme>
-  <programme start="20260322013800 +0000" stop="20260322014800 +0000" channel="Euronews.webtv.sk">
-    <title lang="id">News</title>
-  </programme>
-  <programme start="20260322014800 +0000" stop="20260322020000 +0000" channel="Euronews.webtv.sk">
-    <title lang="id">News</title>
-  </programme>
-  <programme start="20260322020000 +0000" stop="20260322020500 +0000" channel="Euronews.webtv.sk">
-    <title lang="id">Global Week-End</title>
-  </programme>
-  <programme start="20260322020500 +0000" stop="20260322022900 +0000" channel="Euronews.webtv.sk">
-    <title lang="id">News</title>
-  </programme>
-  <programme start="20260322022900 +0000" stop="20260322023400 +0000" channel="Euronews.webtv.sk">
-    <title lang="id">Global Week-End</title>
-  </programme>
-  <programme start="20260322023400 +0000" stop="20260322030000 +0000" channel="Euronews.webtv.sk">
-    <title lang="id">News</title>
-  </programme>
-  <programme start="20260322030000 +0000" stop="20260322030500 +0000" channel="Euronews.webtv.sk">
-    <title lang="id">Global Week-End</title>
-  </programme>
-  <programme start="20260322030500 +0000" stop="20260322033000 +0000" channel="Euronews.webtv.sk">
-    <title lang="id">News</title>
-  </programme>
-  <programme start="20260322033000 +0000" stop="20260322033800 +0000" channel="Euronews.webtv.sk">
-    <title lang="id">Global Week-End</title>
-  </programme>
-  <programme start="20260322033800 +0000" stop="20260322034800 +0000" channel="Euronews.webtv.sk">
-    <title lang="id">News</title>
-  </programme>
-  <programme start="20260322034800 +0000" stop="20260322040000 +0000" channel="Euronews.webtv.sk">
-    <title lang="id">News</title>
-  </programme>
-  <programme start="20260322040000 +0000" stop="20260322040500 +0000" channel="Euronews.webtv.sk">
-    <title lang="id">5 minutes</title>
-  </programme>
-  <programme start="20260322040500 +0000" stop="20260322042900 +0000" channel="Euronews.webtv.sk">
-    <title lang="id">News</title>
-  </programme>
-  <programme start="20260322042900 +0000" stop="20260322043400 +0000" channel="Euronews.webtv.sk">
-    <title lang="id">5 minutes</title>
-  </programme>
-  <programme start="20260322043400 +0000" stop="20260322050000 +0000" channel="Euronews.webtv.sk">
-    <title lang="id">News</title>
-  </programme>
-  <programme start="20260322050000 +0000" stop="20260322050500 +0000" channel="Euronews.webtv.sk">
-    <title lang="id">5 minutes</title>
-  </programme>
-  <programme start="20260322050500 +0000" stop="20260322053000 +0000" channel="Euronews.webtv.sk">
-    <title lang="id">News</title>
-  </programme>
-  <programme start="20260322053000 +0000" stop="20260322053800 +0000" channel="Euronews.webtv.sk">
-    <title lang="id">5 minutes</title>
-  </programme>
-  <programme start="20260322053800 +0000" stop="20260322054800 +0000" channel="Euronews.webtv.sk">
-    <title lang="id">News</title>
-  </programme>
-  <programme start="20260322054800 +0000" stop="20260322060000 +0000" channel="Euronews.webtv.sk">
-    <title lang="id">News</title>
-  </programme>
-  <programme start="20260322060000 +0000" stop="20260322060500 +0000" channel="Euronews.webtv.sk">
-    <title lang="id">5 minutes</title>
-  </programme>
-  <programme start="20260322060500 +0000" stop="20260322062900 +0000" channel="Euronews.webtv.sk">
-    <title lang="id">News</title>
-  </programme>
-  <programme start="20260322062900 +0000" stop="20260322063400 +0000" channel="Euronews.webtv.sk">
-    <title lang="id">5 minutes</title>
-  </programme>
-  <programme start="20260322063400 +0000" stop="20260322070000 +0000" channel="Euronews.webtv.sk">
-    <title lang="id">News</title>
-  </programme>
-  <programme start="20260322070000 +0000" stop="20260322070500 +0000" channel="Euronews.webtv.sk">
-    <title lang="id">5 minutes</title>
-  </programme>
-  <programme start="20260322070500 +0000" stop="20260322073000 +0000" channel="Euronews.webtv.sk">
-    <title lang="id">News</title>
-  </programme>
-  <programme start="20260322073000 +0000" stop="20260322073800 +0000" channel="Euronews.webtv.sk">
-    <title lang="id">5 minutes</title>
-  </programme>
-  <programme start="20260322073800 +0000" stop="20260322074800 +0000" channel="Euronews.webtv.sk">
-    <title lang="id">News</title>
-  </programme>
-  <programme start="20260322074800 +0000" stop="20260322080000 +0000" channel="Euronews.webtv.sk">
-    <title lang="id">News</title>
-  </programme>
-  <programme start="20260322080000 +0000" stop="20260322080500 +0000" channel="Euronews.webtv.sk">
-    <title lang="id">5 minutes</title>
-  </programme>
-  <programme start="20260322080500 +0000" stop="20260322082900 +0000" channel="Euronews.webtv.sk">
-    <title lang="id">News</title>
-  </programme>
-  <programme start="20260322082900 +0000" stop="20260322083400 +0000" channel="Euronews.webtv.sk">
-    <title lang="id">5 minutes</title>
-  </programme>
-  <programme start="20260322083400 +0000" stop="20260322090000 +0000" channel="Euronews.webtv.sk">
-    <title lang="id">News</title>
-  </programme>
-  <programme start="20260322090000 +0000" stop="20260322090500 +0000" channel="Euronews.webtv.sk">
-    <title lang="id">5 minutes</title>
-  </programme>
-  <programme start="20260322090500 +0000" stop="20260322093000 +0000" channel="Euronews.webtv.sk">
-    <title lang="id">News</title>
-  </programme>
-  <programme start="20260322093000 +0000" stop="20260322093800 +0000" channel="Euronews.webtv.sk">
-    <title lang="id">5 minutes</title>
-  </programme>
-  <programme start="20260322093800 +0000" stop="20260322094800 +0000" channel="Euronews.webtv.sk">
-    <title lang="id">News</title>
-  </programme>
-  <programme start="20260322094800 +0000" stop="20260322100000 +0000" channel="Euronews.webtv.sk">
-    <title lang="id">News</title>
-  </programme>
-  <programme start="20260322100000 +0000" stop="20260322100500 +0000" channel="Euronews.webtv.sk">
-    <title lang="id">5 minutes</title>
-  </programme>
-  <programme start="20260322100500 +0000" stop="20260322102900 +0000" channel="Euronews.webtv.sk">
-    <title lang="id">News</title>
-  </programme>
-  <programme start="20260322102900 +0000" stop="20260322103400 +0000" channel="Euronews.webtv.sk">
-    <title lang="id">5 minutes</title>
-  </programme>
-  <programme start="20260322103400 +0000" stop="20260322110000 +0000" channel="Euronews.webtv.sk">
-    <title lang="id">News</title>
-  </programme>
-  <programme start="20260322110000 +0000" stop="20260322110500 +0000" channel="Euronews.webtv.sk">
-    <title lang="id">5 minutes</title>
-  </programme>
-  <programme start="20260322110500 +0000" stop="20260322113000 +0000" channel="Euronews.webtv.sk">
-    <title lang="id">News</title>
-  </programme>
-  <programme start="20260322113000 +0000" stop="20260322113800 +0000" channel="Euronews.webtv.sk">
-    <title lang="id">5 minutes</title>
-  </programme>
-  <programme start="20260322113800 +0000" stop="20260322114800 +0000" channel="Euronews.webtv.sk">
-    <title lang="id">News</title>
-  </programme>
-  <programme start="20260322114800 +0000" stop="20260322120000 +0000" channel="Euronews.webtv.sk">
-    <title lang="id">News</title>
-  </programme>
-  <programme start="20260322120000 +0000" stop="20260322120500 +0000" channel="Euronews.webtv.sk">
-    <title lang="id">5 minutes</title>
-  </programme>
-  <programme start="20260322120500 +0000" stop="20260322122900 +0000" channel="Euronews.webtv.sk">
-    <title lang="id">News</title>
-  </programme>
-  <programme start="20260322122900 +0000" stop="20260322123400 +0000" channel="Euronews.webtv.sk">
-    <title lang="id">5 minutes</title>
-  </programme>
-  <programme start="20260322123400 +0000" stop="20260322130000 +0000" channel="Euronews.webtv.sk">
-    <title lang="id">News</title>
-  </programme>
-  <programme start="20260322130000 +0000" stop="20260322130500 +0000" channel="Euronews.webtv.sk">
-    <title lang="id">5 minutes</title>
-  </programme>
-  <programme start="20260322130500 +0000" stop="20260322133000 +0000" channel="Euronews.webtv.sk">
-    <title lang="id">News</title>
-  </programme>
-  <programme start="20260322133000 +0000" stop="20260322133800 +0000" channel="Euronews.webtv.sk">
-    <title lang="id">5 minutes</title>
-  </programme>
-  <programme start="20260322133800 +0000" stop="20260322134800 +0000" channel="Euronews.webtv.sk">
-    <title lang="id">News</title>
-  </programme>
-  <programme start="20260322134800 +0000" stop="20260322140000 +0000" channel="Euronews.webtv.sk">
-    <title lang="id">News</title>
-  </programme>
-  <programme start="20260322140000 +0000" stop="20260322140500 +0000" channel="Euronews.webtv.sk">
-    <title lang="id">5 minutes</title>
-  </programme>
-  <programme start="20260322140500 +0000" stop="20260322142900 +0000" channel="Euronews.webtv.sk">
-    <title lang="id">News</title>
-  </programme>
-  <programme start="20260322142900 +0000" stop="20260322143400 +0000" channel="Euronews.webtv.sk">
-    <title lang="id">5 minutes</title>
-  </programme>
-  <programme start="20260322143400 +0000" stop="20260322150000 +0000" channel="Euronews.webtv.sk">
-    <title lang="id">News</title>
-  </programme>
-  <programme start="20260322150000 +0000" stop="20260322150500 +0000" channel="Euronews.webtv.sk">
-    <title lang="id">5 minutes</title>
-  </programme>
-  <programme start="20260322150500 +0000" stop="20260322153000 +0000" channel="Euronews.webtv.sk">
-    <title lang="id">News</title>
-  </programme>
-  <programme start="20260322153000 +0000" stop="20260322153800 +0000" channel="Euronews.webtv.sk">
-    <title lang="id">5 minutes</title>
-  </programme>
-  <programme start="20260322153800 +0000" stop="20260322154800 +0000" channel="Euronews.webtv.sk">
-    <title lang="id">News</title>
-  </programme>
-  <programme start="20260322154800 +0000" stop="20260322160000 +0000" channel="Euronews.webtv.sk">
-    <title lang="id">News</title>
-  </programme>
-  <programme start="20260322160000 +0000" stop="20260322160500 +0000" channel="Euronews.webtv.sk">
-    <title lang="id">5 minutes</title>
-  </programme>
-  <programme start="20260322160500 +0000" stop="20260322162900 +0000" channel="Euronews.webtv.sk">
-    <title lang="id">News</title>
-  </programme>
-  <programme start="20260322162900 +0000" stop="20260322163400 +0000" channel="Euronews.webtv.sk">
-    <title lang="id">5 minutes</title>
-  </programme>
-  <programme start="20260322163400 +0000" stop="20260322170000 +0000" channel="Euronews.webtv.sk">
-    <title lang="id">News</title>
-  </programme>
-  <programme start="20260322170000 +0000" stop="20260322170500 +0000" channel="Euronews.webtv.sk">
-    <title lang="id">5 minutes</title>
-  </programme>
-  <programme start="20260322170500 +0000" stop="20260322173000 +0000" channel="Euronews.webtv.sk">
-    <title lang="id">News</title>
-  </programme>
-  <programme start="20260322173000 +0000" stop="20260322173800 +0000" channel="Euronews.webtv.sk">
-    <title lang="id">5 minutes</title>
-  </programme>
-  <programme start="20260322173800 +0000" stop="20260322174800 +0000" channel="Euronews.webtv.sk">
-    <title lang="id">News</title>
-  </programme>
-  <programme start="20260322174800 +0000" stop="20260322180000 +0000" channel="Euronews.webtv.sk">
-    <title lang="id">News</title>
-  </programme>
-  <programme start="20260322180000 +0000" stop="20260322180500 +0000" channel="Euronews.webtv.sk">
-    <title lang="id">5 minutes</title>
-  </programme>
-  <programme start="20260322180500 +0000" stop="20260322182900 +0000" channel="Euronews.webtv.sk">
-    <title lang="id">News</title>
-  </programme>
-  <programme start="20260322182900 +0000" stop="20260322183400 +0000" channel="Euronews.webtv.sk">
-    <title lang="id">5 minutes</title>
-  </programme>
-  <programme start="20260322183400 +0000" stop="20260322190000 +0000" channel="Euronews.webtv.sk">
-    <title lang="id">News</title>
-  </programme>
-  <programme start="20260322190000 +0000" stop="20260322190500 +0000" channel="Euronews.webtv.sk">
-    <title lang="id">5 minutes</title>
-  </programme>
-  <programme start="20260322190500 +0000" stop="20260322193000 +0000" channel="Euronews.webtv.sk">
-    <title lang="id">News</title>
-  </programme>
-  <programme start="20260322193000 +0000" stop="20260322193800 +0000" channel="Euronews.webtv.sk">
-    <title lang="id">5 minutes</title>
-  </programme>
-  <programme start="20260322193800 +0000" stop="20260322194800 +0000" channel="Euronews.webtv.sk">
-    <title lang="id">News</title>
-  </programme>
-  <programme start="20260322194800 +0000" stop="20260322200000 +0000" channel="Euronews.webtv.sk">
-    <title lang="id">News</title>
-  </programme>
-  <programme start="20260322200000 +0000" stop="20260322200500 +0000" channel="Euronews.webtv.sk">
-    <title lang="id">5 minutes</title>
-  </programme>
-  <programme start="20260322200500 +0000" stop="20260322202900 +0000" channel="Euronews.webtv.sk">
-    <title lang="id">News</title>
-  </programme>
-  <programme start="20260322202900 +0000" stop="20260322203400 +0000" channel="Euronews.webtv.sk">
-    <title lang="id">5 minutes</title>
-  </programme>
-  <programme start="20260322203400 +0000" stop="20260322210000 +0000" channel="Euronews.webtv.sk">
-    <title lang="id">News</title>
-  </programme>
-  <programme start="20260322210000 +0000" stop="20260322210500 +0000" channel="Euronews.webtv.sk">
-    <title lang="id">5 minutes</title>
-  </programme>
-  <programme start="20260322210500 +0000" stop="20260322213000 +0000" channel="Euronews.webtv.sk">
-    <title lang="id">News</title>
-  </programme>
-  <programme start="20260322213000 +0000" stop="20260322213800 +0000" channel="Euronews.webtv.sk">
-    <title lang="id">5 minutes</title>
-  </programme>
-  <programme start="20260322213800 +0000" stop="20260322214800 +0000" channel="Euronews.webtv.sk">
-    <title lang="id">News</title>
-  </programme>
-  <programme start="20260322214800 +0000" stop="20260322220000 +0000" channel="Euronews.webtv.sk">
-    <title lang="id">News</title>
-  </programme>
-  <programme start="20260322220000 +0000" stop="20260322220500 +0000" channel="Euronews.webtv.sk">
-    <title lang="id">5 minutes</title>
-  </programme>
-  <programme start="20260322220500 +0000" stop="20260322222900 +0000" channel="Euronews.webtv.sk">
-    <title lang="id">News</title>
-  </programme>
-  <programme start="20260322222900 +0000" stop="20260322223400 +0000" channel="Euronews.webtv.sk">
-    <title lang="id">5 minutes</title>
-  </programme>
-  <programme start="20260322223400 +0000" stop="20260322230000 +0000" channel="Euronews.webtv.sk">
-    <title lang="id">News</title>
-  </programme>
   <programme start="20260321230000 +0000" stop="20260321231000 +0000" channel="NHK World Japan.webtv.sk">
     <title lang="id">NHK NEWSLINE</title>
   </programme>
@@ -19146,69 +18777,6 @@
   </programme>
   <programme start="20260322193000 +0000" stop="20260322223000 +0000" channel="CGTN.webtv.sk">
     <title lang="id">Inheritors</title>
-  </programme>
-  <programme start="20260321230000 +0000" stop="20260322000000 +0000" channel="CGTN Documentary.webtv.sk">
-    <title lang="id">Hermit Master (4)</title>
-  </programme>
-  <programme start="20260322000000 +0000" stop="20260322010000 +0000" channel="CGTN Documentary.webtv.sk">
-    <title lang="id">Hermit Master (5)</title>
-  </programme>
-  <programme start="20260322010000 +0000" stop="20260322020000 +0000" channel="CGTN Documentary.webtv.sk">
-    <title lang="id">Hermit Master (6)</title>
-  </programme>
-  <programme start="20260322020000 +0000" stop="20260322030000 +0000" channel="CGTN Documentary.webtv.sk">
-    <title lang="id">Hermit Master (1)</title>
-  </programme>
-  <programme start="20260322030000 +0000" stop="20260322040000 +0000" channel="CGTN Documentary.webtv.sk">
-    <title lang="id">Hermit Master (2)</title>
-  </programme>
-  <programme start="20260322040000 +0000" stop="20260322050000 +0000" channel="CGTN Documentary.webtv.sk">
-    <title lang="id">Hermit Master (3)</title>
-  </programme>
-  <programme start="20260322050000 +0000" stop="20260322060000 +0000" channel="CGTN Documentary.webtv.sk">
-    <title lang="id">Hermit Master (4)</title>
-  </programme>
-  <programme start="20260322060000 +0000" stop="20260322070000 +0000" channel="CGTN Documentary.webtv.sk">
-    <title lang="id">Hermit Master (5)</title>
-  </programme>
-  <programme start="20260322070000 +0000" stop="20260322080000 +0000" channel="CGTN Documentary.webtv.sk">
-    <title lang="id">Hermit Master (6)</title>
-  </programme>
-  <programme start="20260322080000 +0000" stop="20260322090000 +0000" channel="CGTN Documentary.webtv.sk">
-    <title lang="id">Hermit Master (1)</title>
-  </programme>
-  <programme start="20260322090000 +0000" stop="20260322100000 +0000" channel="CGTN Documentary.webtv.sk">
-    <title lang="id">Hermit Master (2)</title>
-  </programme>
-  <programme start="20260322100000 +0000" stop="20260322110000 +0000" channel="CGTN Documentary.webtv.sk">
-    <title lang="id">Hermit Master (3)</title>
-  </programme>
-  <programme start="20260322110000 +0000" stop="20260322120000 +0000" channel="CGTN Documentary.webtv.sk">
-    <title lang="id">Hermit Master (4)</title>
-  </programme>
-  <programme start="20260322120000 +0000" stop="20260322130000 +0000" channel="CGTN Documentary.webtv.sk">
-    <title lang="id">Hermit Master (5)</title>
-  </programme>
-  <programme start="20260322130000 +0000" stop="20260322140000 +0000" channel="CGTN Documentary.webtv.sk">
-    <title lang="id">Hermit Master (6)</title>
-  </programme>
-  <programme start="20260322140000 +0000" stop="20260322150000 +0000" channel="CGTN Documentary.webtv.sk">
-    <title lang="id">Hermit Master (1)</title>
-  </programme>
-  <programme start="20260322150000 +0000" stop="20260322160000 +0000" channel="CGTN Documentary.webtv.sk">
-    <title lang="id">Hermit Master (2)</title>
-  </programme>
-  <programme start="20260322160000 +0000" stop="20260322170000 +0000" channel="CGTN Documentary.webtv.sk">
-    <title lang="id">Hermit Master (3)</title>
-  </programme>
-  <programme start="20260322170000 +0000" stop="20260322180000 +0000" channel="CGTN Documentary.webtv.sk">
-    <title lang="id">Hermit Master (4)</title>
-  </programme>
-  <programme start="20260322180000 +0000" stop="20260322190000 +0000" channel="CGTN Documentary.webtv.sk">
-    <title lang="id">Hermit Master (5)</title>
-  </programme>
-  <programme start="20260322190000 +0000" stop="20260322220000 +0000" channel="CGTN Documentary.webtv.sk">
-    <title lang="id">Hermit Master (6)</title>
   </programme>
   <programme start="20260321224000 +0000" stop="20260321233000 +0000" channel="Óčko.webtv.sk">
     <title lang="id">NAKED ATTRACTION ČESKO &amp; SLOVENSKO</title>
