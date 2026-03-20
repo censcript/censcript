@@ -473,9 +473,9 @@
     <episode-num system="onscreen">S1E18</episode-num>
   </programme>
   <programme start="20260320160000 +0000" stop="20260320180000 +0000" channel="sensasi.unifitv">
-    <title lang="en">Ninaivo Oru Paravai</title>
-    <desc lang="en">Penyanyi terkenal bernama Chandru yang mengalami hilang ingatan bertemu dengan seorang pemuzik jalanan, Kathira. Mereka bekerjasama dalam muzik meskipun mempunyai latar dan cara hidup yang berbeza. Namun, timbul misteri apabila Kathira sebenarnya mempunyai hubungan masa lalu dengan Chandru dan merancang semua ini untuk membantunya keluar dari kegelapan dan kembali ke pentas.</desc>
-    <category lang="en">Drama </category>
+    <title lang="en">Balik Kampung Tak Lonely Lagi</title>
+    <desc lang="en">Megat, seorang anak yang manja dan pemalu, lebih selesa menyendiri sambil menonton filem seram yang akhirnya mempengaruhi tingkah lakunya. Di tempat kerja, dia dikenali sebagai pekerja yang bijak tetapi sering “curi tulang”. Apabila dia pulang ke kampung bersama ibunya untuk bercuti, pelbagai gangguan misteri dan gangguan makhluk halus mula berlaku sepanjang perjalanan pulang menjadikan balik kampungnya lebih mencemaskan daripada yang dijangka</desc>
+    <category lang="en">Comedy</category>
   </programme>
   <channel id="degup.unifitv">
     <display-name>DEGUP</display-name>

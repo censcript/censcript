@@ -1513,11 +1513,8 @@
     <programme start="20260320053000 +0000" stop="20260320060000 +0000" channel="COLORS Tamil HD.starhub">
         <title>Shiva Shakthi Thiruvilayadal</title>
     </programme>
-    <programme start="20260320060000 +0000" stop="20260320083000 +0000" channel="COLORS Tamil HD.starhub">
+    <programme start="20260320060000 +0000" stop="20260320090000 +0000" channel="COLORS Tamil HD.starhub">
         <title>Arjun Varma</title>
-    </programme>
-    <programme start="20260320083000 +0000" stop="20260320090000 +0000" channel="COLORS Tamil HD.starhub">
-        <title>Shiva Shakthi Thiruvilayadal</title>
     </programme>
     <programme start="20260320090000 +0000" stop="20260320093000 +0000" channel="COLORS Tamil HD.starhub">
         <title>Mynaa</title>
@@ -2197,10 +2194,10 @@
     <programme start="20260320091000 +0000" stop="20260320110000 +0000" channel="beIN Sports 2 HD.starhub">
         <title>UEFA Conference League 2025/26: Rakow vs Fiorentina - R16,2nd Leg</title>
     </programme>
-    <programme start="20260320110000 +0000" stop="20260320120000 +0000" channel="beIN Sports 2 HD.starhub">
-        <title>New York</title>
+    <programme start="20260320110000 +0000" stop="20260320113000 +0000" channel="beIN Sports 2 HD.starhub">
+        <title>This Is Paris 2025/26</title>
     </programme>
-    <programme start="20260320120000 +0000" stop="20260320140000 +0000" channel="beIN Sports 2 HD.starhub">
+    <programme start="20260320113000 +0000" stop="20260320140000 +0000" channel="beIN Sports 2 HD.starhub">
         <title>UEFA Conference League 2025/26: Larnaca vs Crystal Palace - R16,2nd Leg</title>
     </programme>
     <programme start="20260320140000 +0000" stop="20260320160000 +0000" channel="beIN Sports 2 HD.starhub">
@@ -3154,9 +3151,6 @@
     <programme start="20260319190000 +0000" stop="20260319190200 +0000" channel="DW English HD.starhub">
         <title>News</title>
     </programme>
-    <programme start="20260319190200 +0000" stop="20260319191500 +0000" channel="DW English HD.starhub">
-        <title>News</title>
-    </programme>
     <programme start="20260319191500 +0000" stop="20260319193000 +0000" channel="DW English HD.starhub">
         <title>Berlin&#039;s glow-up after the fall of the wall: How Germany&#039;s capital rebuilt itself</title>
     </programme>
@@ -3172,12 +3166,6 @@
     <programme start="20260319210000 +0000" stop="20260319210200 +0000" channel="DW English HD.starhub">
         <title>News</title>
     </programme>
-    <programme start="20260319210200 +0000" stop="20260319211500 +0000" channel="DW English HD.starhub">
-        <title>News</title>
-    </programme>
-    <programme start="20260319211500 +0000" stop="20260319220000 +0000" channel="DW English HD.starhub">
-        <title>Love, Like, Lost - Inside the Cyber Mafia</title>
-    </programme>
     <programme start="20260319220000 +0000" stop="20260319220200 +0000" channel="DW English HD.starhub">
         <title>News</title>
     </programme>
@@ -3190,14 +3178,11 @@
     <programme start="20260319230000 +0000" stop="20260319230200 +0000" channel="DW English HD.starhub">
         <title>News</title>
     </programme>
-    <programme start="20260319230200 +0000" stop="20260319231500 +0000" channel="DW English HD.starhub">
-        <title>News</title>
-    </programme>
     <programme start="20260319231500 +0000" stop="20260319233000 +0000" channel="DW English HD.starhub">
         <title>Berlin&#039;s glow-up after the fall of the wall: How Germany&#039;s capital rebuilt itself</title>
     </programme>
     <programme start="20260319233000 +0000" stop="20260320000000 +0000" channel="DW English HD.starhub">
-        <title>Best of DW Podcasts</title>
+        <title>Africa</title>
     </programme>
     <programme start="20260320000000 +0000" stop="20260320000200 +0000" channel="DW English HD.starhub">
         <title>News</title>
@@ -3266,7 +3251,7 @@
         <title>Berlin&#039;s glow-up after the fall of the wall: How Germany&#039;s capital rebuilt itself</title>
     </programme>
     <programme start="20260320063000 +0000" stop="20260320070000 +0000" channel="DW English HD.starhub">
-        <title>Best of DW Podcasts</title>
+        <title>How cutting parking spaces benefits everyone - even drivers</title>
     </programme>
     <programme start="20260320070000 +0000" stop="20260320070200 +0000" channel="DW English HD.starhub">
         <title>News</title>
@@ -3308,7 +3293,7 @@
         <title>News</title>
     </programme>
     <programme start="20260320110200 +0000" stop="20260320113000 +0000" channel="DW English HD.starhub">
-        <title>Best of DW Podcasts</title>
+        <title>Nietzsche, Indie Pop, and Identity</title>
     </programme>
     <programme start="20260320113000 +0000" stop="20260320120000 +0000" channel="DW English HD.starhub">
         <title>Standoff in Iran: Is Trump pulling NATO into war?</title>
@@ -3329,7 +3314,7 @@
         <title>News</title>
     </programme>
     <programme start="20260320131500 +0000" stop="20260320133000 +0000" channel="DW English HD.starhub">
-        <title>UNESCO sites in Germany everyone should see</title>
+        <title>Five UNESCO sites in Germany everyone should see</title>
     </programme>
     <programme start="20260320133000 +0000" stop="20260320140000 +0000" channel="DW English HD.starhub">
         <title>What viruses do to our bodies - and how to stay protected</title>
@@ -5126,19 +5111,19 @@
         <title>Round 4</title>
     </programme>
     <programme start="20260320023000 +0000" stop="20260320053000 +0000" channel="SPOTV.starhub">
-        <title>2025/26 King&#039;s Cup Semi Final Al Ahli vs Al Hilal</title>
+        <title>Al Ahli vs Al Hilal</title>
     </programme>
     <programme start="20260320053000 +0000" stop="20260320073000 +0000" channel="SPOTV.starhub">
-        <title>25/26 A-League Men Round 21 Central Coast Mariners FC vs Adelaide United</title>
+        <title>Sydney FC vs Melbourne City FC</title>
     </programme>
-    <programme start="20260320073000 +0000" stop="20260320093000 +0000" channel="SPOTV.starhub">
-        <title>25/26 A-League Men Round 21 Sydney FC vs Melbourne City FC</title>
-    </programme>
-    <programme start="20260320093000 +0000" stop="20260320100000 +0000" channel="SPOTV.starhub">
+    <programme start="20260320073000 +0000" stop="20260320080000 +0000" channel="SPOTV.starhub">
         <title>Countdown</title>
     </programme>
-    <programme start="20260320100000 +0000" stop="20260320152000 +0000" channel="SPOTV.starhub">
+    <programme start="20260320080000 +0000" stop="20260320130000 +0000" channel="SPOTV.starhub">
         <title>Round 2</title>
+    </programme>
+    <programme start="20260320130000 +0000" stop="20260320152000 +0000" channel="SPOTV.starhub">
+        <title>Central Coast Mariners FC vs Adelaide United</title>
     </programme>
     <programme start="20260320152000 +0000" stop="20260320163000 +0000" channel="SPOTV.starhub">
         <title>Free Practice 1</title>
@@ -7541,31 +7526,31 @@
         <title>BBC News</title>
     </programme>
     <programme start="20260320120000 +0000" stop="20260320123000 +0000" channel="BBC World News HD.starhub">
-        <title>BBC News Now</title>
+        <title>BBC News</title>
     </programme>
     <programme start="20260320123000 +0000" stop="20260320130000 +0000" channel="BBC World News HD.starhub">
-        <title>BBC News Now</title>
+        <title>BBC News</title>
     </programme>
     <programme start="20260320130000 +0000" stop="20260320133000 +0000" channel="BBC World News HD.starhub">
-        <title>BBC News Now</title>
+        <title>BBC News</title>
     </programme>
     <programme start="20260320133000 +0000" stop="20260320134500 +0000" channel="BBC World News HD.starhub">
         <title>Business Today - NYSE Opening Bell</title>
     </programme>
     <programme start="20260320134500 +0000" stop="20260320140000 +0000" channel="BBC World News HD.starhub">
-        <title>BBC News Now</title>
+        <title>BBC News</title>
     </programme>
     <programme start="20260320140000 +0000" stop="20260320143000 +0000" channel="BBC World News HD.starhub">
-        <title>BBC News Now</title>
+        <title>BBC News</title>
     </programme>
     <programme start="20260320143000 +0000" stop="20260320150000 +0000" channel="BBC World News HD.starhub">
-        <title>BBC News Now</title>
+        <title>BBC News</title>
     </programme>
     <programme start="20260320150000 +0000" stop="20260320153000 +0000" channel="BBC World News HD.starhub">
-        <title>Verified Live</title>
+        <title>BBC News</title>
     </programme>
     <programme start="20260320153000 +0000" stop="20260320160000 +0000" channel="BBC World News HD.starhub">
-        <title>Verified Live</title>
+        <title>BBC News</title>
     </programme>
     <programme start="20260319142000 +0000" stop="20260319161000 +0000" channel="Premier Sports.starhub">
         <title>URC Connacht v Scarlets</title>
@@ -8014,13 +7999,16 @@
     <programme start="20260319233000 +0000" stop="20260320013000 +0000" channel="Asianet Movies.starhub">
         <title>Heaven</title>
     </programme>
-    <programme start="20260320013000 +0000" stop="20260320043000 +0000" channel="Asianet Movies.starhub">
+    <programme start="20260320013000 +0000" stop="20260320015500 +0000" channel="Asianet Movies.starhub">
+        <title>Filler:Chirikkum Thalika II</title>
+    </programme>
+    <programme start="20260320015500 +0000" stop="20260320043000 +0000" channel="Asianet Movies.starhub">
         <title>Ente Ummante Peru</title>
     </programme>
-    <programme start="20260320043000 +0000" stop="20260320073000 +0000" channel="Asianet Movies.starhub">
+    <programme start="20260320043000 +0000" stop="20260320071500 +0000" channel="Asianet Movies.starhub">
         <title>Ponman</title>
     </programme>
-    <programme start="20260320073000 +0000" stop="20260320103000 +0000" channel="Asianet Movies.starhub">
+    <programme start="20260320071500 +0000" stop="20260320103000 +0000" channel="Asianet Movies.starhub">
         <title>Keshu Ee Veedinte Nadhan</title>
     </programme>
     <programme start="20260320103000 +0000" stop="20260320133000 +0000" channel="Asianet Movies.starhub">

@@ -2553,13 +2553,13 @@ Warning: Undefined array key "et" in /usr/home/ManusiaBiasa/domains/manusiabiasa
 <programme start="20260320193000 +0000" stop="20260320195000 +0000" channel="Sky Sport Austria 2 HD.skyde">
     <title>Es folgt: LIVE Premier League</title>
 </programme>
-<programme start="20260320195000 +0000" stop="20260320220000 +0000" channel="Sky Sport Austria 2 HD.skyde">
+<programme start="20260320195000 +0000" stop="20260320223000 +0000" channel="Sky Sport Austria 2 HD.skyde">
     <title>Live PL: AFC Bournemouth - Manchester United, 31. Spieltag</title>
 </programme>
 <programme start="20260320144000 +0000" stop="20260320150000 +0000" channel="Sky Sport Austria 3 HD.skyde">
     <title>WTA: Es folgt</title>
 </programme>
-<programme start="20260320150000 +0000" stop="20260321090000 +0000" channel="Sky Sport Austria 3 HD.skyde">
+<programme start="20260320150000 +0000" stop="20260321030000 +0000" channel="Sky Sport Austria 3 HD.skyde">
     <title>Live WTA 1000: Miami Open presented by Itaú in Miami, Florida (USA), 4. Tag</title>
 </programme>
 <programme start="20260320090000 +0000" stop="20260320090500 +0000" channel="Sky Sport Austria 4 HD.skyde">
@@ -2985,7 +2985,7 @@ Warning: Undefined array key "et" in /usr/home/ManusiaBiasa/domains/manusiabiasa
 <programme start="20260320164000 +0000" stop="20260320170000 +0000" channel="Sky Sport Bundesliga 4 HD.skyde">
     <title>Es folgt: Live 2. Bundesliga</title>
 </programme>
-<programme start="20260320170000 +0000" stop="20260320200000 +0000" channel="Sky Sport Bundesliga 4 HD.skyde">
+<programme start="20260320170000 +0000" stop="20260320193000 +0000" channel="Sky Sport Bundesliga 4 HD.skyde">
     <title>Live 2. BL: Karlsruher SC - SpVgg Greuther Fürth, 27. Spieltag</title>
 </programme>
 <programme start="20260320164000 +0000" stop="20260320170000 +0000" channel="Sky Sport Bundesliga 5 HD.skyde">
@@ -3069,11 +3069,14 @@ Warning: Undefined array key "et" in /usr/home/ManusiaBiasa/domains/manusiabiasa
 <programme start="20260320070000 +0000" stop="20260320073000 +0000" channel="Sky Sport Golf HD.skyde">
     <title>The Masters: Official Film 1986 (Jack Nicklaus)</title>
 </programme>
-<programme start="20260320073000 +0000" stop="20260320100000 +0000" channel="Sky Sport Golf HD.skyde">
-    <title>LPGA: Fortinet Founders Cup, 1. Tag in Menlo Park, CA (USA)</title>
+<programme start="20260320073000 +0000" stop="20260320080000 +0000" channel="Sky Sport Golf HD.skyde">
+    <title>Golf: Tee Time Stories (3)</title>
 </programme>
-<programme start="20260320100000 +0000" stop="20260320150000 +0000" channel="Sky Sport Golf HD.skyde">
+<programme start="20260320080000 +0000" stop="20260320130000 +0000" channel="Sky Sport Golf HD.skyde">
     <title>Live LIV Golf: Südafrika, 2. Tag in Johannesburg</title>
+</programme>
+<programme start="20260320130000 +0000" stop="20260320150000 +0000" channel="Sky Sport Golf HD.skyde">
+    <title>TGL: Jupiter Links Golf Club - Boston Common Golf, Halbfinale</title>
 </programme>
 <programme start="20260320150000 +0000" stop="20260320173000 +0000" channel="Sky Sport Golf HD.skyde">
     <title>LPGA: Fortinet Founders Cup, 1. Tag in Menlo Park, CA (USA)</title>
@@ -3364,10 +3367,10 @@ Warning: Undefined array key "et" in /usr/home/ManusiaBiasa/domains/manusiabiasa
     <title>ATP 1000: Review Indian Wells</title>
 </programme>
 <programme start="20260320040000 +0000" stop="20260320060000 +0000" channel="Sky Sport Tennis HD.skyde">
-    <title>WTA 1000: Topspiel, Miami Open presented by Itaú in Miami, Florida (USA), 3. Tag</title>
+    <title>WTA 1000: L. Siegemund (GER) - A. Eala (PHL), Miami Open presented by Itaú in Miami, Florida (USA), 3. Tag</title>
 </programme>
 <programme start="20260320060000 +0000" stop="20260320080000 +0000" channel="Sky Sport Tennis HD.skyde">
-    <title>ATP 1000: Topspiel, Miami Open presented by Itaú in Miami, Florida (USA), 3. Tag</title>
+    <title>ATP 1000: Y. Hanfmann (GER) - R. Jodar (ESP), Miami Open presented by Itaú in Miami, Florida (USA), 3. Tag</title>
 </programme>
 <programme start="20260320080000 +0000" stop="20260320103000 +0000" channel="Sky Sport Tennis HD.skyde">
     <title>ATP 1000: J. Sinner (ITA) - D. Medvedev, BNP Paribas Open in Indian Wells, Kalifornien (USA), Finale</title>
@@ -3376,10 +3379,10 @@ Warning: Undefined array key "et" in /usr/home/ManusiaBiasa/domains/manusiabiasa
     <title>ATP: This Week</title>
 </programme>
 <programme start="20260320110000 +0000" stop="20260320130000 +0000" channel="Sky Sport Tennis HD.skyde">
-    <title>WTA 1000: Topspiel, Miami Open presented by Itaú in Miami, Florida (USA), 3. Tag</title>
+    <title>WTA 1000: L. Siegemund (GER) - A. Eala (PHL), Miami Open presented by Itaú in Miami, Florida (USA), 3. Tag</title>
 </programme>
 <programme start="20260320130000 +0000" stop="20260320150000 +0000" channel="Sky Sport Tennis HD.skyde">
-    <title>ATP 1000: Topspiel, Miami Open presented by Itaú in Miami, Florida (USA), 3. Tag</title>
+    <title>ATP 1000: Y. Hanfmann (GER) - R. Jodar (ESP), Miami Open presented by Itaú in Miami, Florida (USA), 3. Tag</title>
 </programme>
 <programme start="20260320150000 +0000" stop="20260321030000 +0000" channel="Sky Sport Tennis HD.skyde">
     <title>Live ATP &amp; WTA: Konferenz Miami Open presented by Itaú in Miami, Florida (USA), 4. Tag</title>
@@ -3714,34 +3717,10 @@ Warning: Undefined array key "et" in /usr/home/ManusiaBiasa/domains/manusiabiasa
 <programme start="20260320161500 +0000" stop="20260320162000 +0000" channel="Sky Sport 3 HD.skyde">
     <title>Test SPORT 03 with BO-ALLGEMEIN</title>
 </programme>
-<programme start="20260320162000 +0000" stop="20260320162500 +0000" channel="Sky Sport 3 HD.skyde">
-    <title>Test Sport 03</title>
-</programme>
-<programme start="20260320162500 +0000" stop="20260320163000 +0000" channel="Sky Sport 3 HD.skyde">
-    <title>Test Sport 03 with BO-DE</title>
-</programme>
-<programme start="20260320163000 +0000" stop="20260320163500 +0000" channel="Sky Sport 3 HD.skyde">
-    <title>Test SPORT 03 with BO-AU</title>
-</programme>
-<programme start="20260320163500 +0000" stop="20260320164000 +0000" channel="Sky Sport 3 HD.skyde">
-    <title>Test SPORT 03 with BO-ALLGEMEIN</title>
-</programme>
-<programme start="20260320164000 +0000" stop="20260320164500 +0000" channel="Sky Sport 3 HD.skyde">
-    <title>Test Sport 03</title>
-</programme>
-<programme start="20260320164500 +0000" stop="20260320165000 +0000" channel="Sky Sport 3 HD.skyde">
-    <title>Test Sport 03 with BO-DE</title>
-</programme>
-<programme start="20260320165000 +0000" stop="20260320165500 +0000" channel="Sky Sport 3 HD.skyde">
-    <title>Test SPORT 03 with BO-AU</title>
-</programme>
-<programme start="20260320165500 +0000" stop="20260320170000 +0000" channel="Sky Sport 3 HD.skyde">
-    <title>Test SPORT 03 with BO-ALLGEMEIN</title>
-</programme>
 <programme start="20260320144000 +0000" stop="20260320150000 +0000" channel="Sky Sport 6 HD.skyde">
     <title>Es folgt: Live Tennis WTA Tour</title>
 </programme>
-<programme start="20260320150000 +0000" stop="20260321090000 +0000" channel="Sky Sport 6 HD.skyde">
+<programme start="20260320150000 +0000" stop="20260321030000 +0000" channel="Sky Sport 6 HD.skyde">
     <title>Live WTA 1000: Miami Open presented by Itaú in Miami, Florida (USA), 4. Tag</title>
 </programme>
 <programme start="20260319230000 +0000" stop="20260319234500 +0000" channel="SYFY HD.skyde">
