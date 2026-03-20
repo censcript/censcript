@@ -564,6 +564,9 @@ Warning: Undefined array key "et" in /usr/home/ManusiaBiasa/domains/manusiabiasa
 <programme start="20260320035000 +0000" stop="20260320040000 +0000" channel="Cartoonito.skyde">
     <title>Flipi und die Pilzlinge</title>
 </programme>
+<programme start="20260320040000 +0000" stop="20260320040400 +0000" channel="Cartoonito.skyde">
+    <title>Lamput</title>
+</programme>
 <programme start="20260320040000 +0000" stop="20260320041000 +0000" channel="Cartoonito.skyde">
     <title>Flipi und die Pilzlinge</title>
 </programme>
@@ -575,9 +578,6 @@ Warning: Undefined array key "et" in /usr/home/ManusiaBiasa/domains/manusiabiasa
 </programme>
 <programme start="20260320044000 +0000" stop="20260320050000 +0000" channel="Cartoonito.skyde">
     <title>Flipi und die Pilzlinge</title>
-</programme>
-<programme start="20260320050000 +0000" stop="20260320050400 +0000" channel="Cartoonito.skyde">
-    <title>Lamput</title>
 </programme>
 <programme start="20260320050400 +0000" stop="20260320051000 +0000" channel="Cartoonito.skyde">
     <title>Lamput</title>
@@ -2415,6 +2415,78 @@ Warning: Undefined array key "et" in /usr/home/ManusiaBiasa/domains/manusiabiasa
 <programme start="20260320222000 +0000" stop="20260320230500 +0000" channel="Sky One HD.skyde">
     <title>Navy CIS</title>
 </programme>
+<programme start="20260319234000 +0000" stop="20260320003000 +0000" channel="Sky Showcase HD.skyde">
+    <title>Hubert und Staller</title>
+</programme>
+<programme start="20260320003000 +0000" stop="20260320012000 +0000" channel="Sky Showcase HD.skyde">
+    <title>Hubert und Staller</title>
+</programme>
+<programme start="20260320012000 +0000" stop="20260320020000 +0000" channel="Sky Showcase HD.skyde">
+    <title>Die Rosenheim-Cops</title>
+</programme>
+<programme start="20260320020000 +0000" stop="20260320024500 +0000" channel="Sky Showcase HD.skyde">
+    <title>Die Rosenheim-Cops</title>
+</programme>
+<programme start="20260320024500 +0000" stop="20260320033500 +0000" channel="Sky Showcase HD.skyde">
+    <title>WaPo Berlin</title>
+</programme>
+<programme start="20260320033500 +0000" stop="20260320042500 +0000" channel="Sky Showcase HD.skyde">
+    <title>WaPo Berlin</title>
+</programme>
+<programme start="20260320042500 +0000" stop="20260320051000 +0000" channel="Sky Showcase HD.skyde">
+    <title>Bear Grylls: Stars am Limit</title>
+</programme>
+<programme start="20260320051000 +0000" stop="20260320055500 +0000" channel="Sky Showcase HD.skyde">
+    <title>Animal Park: Zoo-Geschichten aus Longleat</title>
+</programme>
+<programme start="20260320055500 +0000" stop="20260320064500 +0000" channel="Sky Showcase HD.skyde">
+    <title>Animal Park: Zoo-Geschichten aus Longleat</title>
+</programme>
+<programme start="20260320064500 +0000" stop="20260320073500 +0000" channel="Sky Showcase HD.skyde">
+    <title>WaPo Berlin</title>
+</programme>
+<programme start="20260320073500 +0000" stop="20260320082500 +0000" channel="Sky Showcase HD.skyde">
+    <title>WaPo Berlin</title>
+</programme>
+<programme start="20260320082500 +0000" stop="20260320091500 +0000" channel="Sky Showcase HD.skyde">
+    <title>Die Rosenheim-Cops</title>
+</programme>
+<programme start="20260320091500 +0000" stop="20260320100500 +0000" channel="Sky Showcase HD.skyde">
+    <title>Die Rosenheim-Cops</title>
+</programme>
+<programme start="20260320100500 +0000" stop="20260320105500 +0000" channel="Sky Showcase HD.skyde">
+    <title>The Real Manhunter</title>
+</programme>
+<programme start="20260320105500 +0000" stop="20260320114500 +0000" channel="Sky Showcase HD.skyde">
+    <title>The Real Manhunter</title>
+</programme>
+<programme start="20260320114500 +0000" stop="20260320123500 +0000" channel="Sky Showcase HD.skyde">
+    <title>Hochsee Cowboys</title>
+</programme>
+<programme start="20260320123500 +0000" stop="20260320133000 +0000" channel="Sky Showcase HD.skyde">
+    <title>Hochsee Cowboys</title>
+</programme>
+<programme start="20260320133000 +0000" stop="20260320142000 +0000" channel="Sky Showcase HD.skyde">
+    <title>Hubert und Staller</title>
+</programme>
+<programme start="20260320142000 +0000" stop="20260320151500 +0000" channel="Sky Showcase HD.skyde">
+    <title>Hubert und Staller</title>
+</programme>
+<programme start="20260320151500 +0000" stop="20260320160500 +0000" channel="Sky Showcase HD.skyde">
+    <title>Hubert und Staller</title>
+</programme>
+<programme start="20260320160500 +0000" stop="20260320165500 +0000" channel="Sky Showcase HD.skyde">
+    <title>Hubert und Staller</title>
+</programme>
+<programme start="20260320165500 +0000" stop="20260320174500 +0000" channel="Sky Showcase HD.skyde">
+    <title>Blue Bloods - Crime Scene New York</title>
+</programme>
+<programme start="20260320174500 +0000" stop="20260320183000 +0000" channel="Sky Showcase HD.skyde">
+    <title>Blue Bloods - Crime Scene New York</title>
+</programme>
+<programme start="20260320223000 +0000" stop="20260320235500 +0000" channel="Sky Showcase HD.skyde">
+    <title>Critical Incident - Tod an der Grenze</title>
+</programme>
 <programme start="20260319232500 +0000" stop="20260320001000 +0000" channel="Sky Sport Austria 1 HD.skyde">
     <title>Live Der UEFA Super Donnerstag: Alle Spiele, alle Tore, Achtelfinale, Rückspiele</title>
 </programme>
@@ -2898,7 +2970,7 @@ Warning: Undefined array key "et" in /usr/home/ManusiaBiasa/domains/manusiabiasa
 <programme start="20260320170000 +0000" stop="20260320193000 +0000" channel="Sky Sport Bundesliga 2 HD.skyde">
     <title>Live 2. BL: Freitags-Konferenz, 27. Spieltag</title>
 </programme>
-<programme start="20260320193000 +0000" stop="20260320204500 +0000" channel="Sky Sport Bundesliga 2 HD.skyde">
+<programme start="20260320193000 +0000" stop="20260320201500 +0000" channel="Sky Sport Bundesliga 2 HD.skyde">
     <title>Live 2. BL Alle Spiele, alle Tore: Die Vodafone Highlight-Show, 27. Spieltag, Freitag</title>
 </programme>
 <programme start="20260320164000 +0000" stop="20260320170000 +0000" channel="Sky Sport Bundesliga 3 HD.skyde">
@@ -2907,7 +2979,7 @@ Warning: Undefined array key "et" in /usr/home/ManusiaBiasa/domains/manusiabiasa
 <programme start="20260320170000 +0000" stop="20260320193000 +0000" channel="Sky Sport Bundesliga 3 HD.skyde">
     <title>Live 2. BL: Hannover 96 - Eintracht Braunschweig, 27. Spieltag</title>
 </programme>
-<programme start="20260320193000 +0000" stop="20260320220000 +0000" channel="Sky Sport Bundesliga 3 HD.skyde">
+<programme start="20260320193000 +0000" stop="20260320213000 +0000" channel="Sky Sport Bundesliga 3 HD.skyde">
     <title>Live BL: Sky Sport Fantasy: RBL - TSG, 27. Spieltag</title>
 </programme>
 <programme start="20260320164000 +0000" stop="20260320170000 +0000" channel="Sky Sport Bundesliga 4 HD.skyde">
@@ -3000,10 +3072,10 @@ Warning: Undefined array key "et" in /usr/home/ManusiaBiasa/domains/manusiabiasa
 <programme start="20260320073000 +0000" stop="20260320080000 +0000" channel="Sky Sport Golf HD.skyde">
     <title>Golf: Tee Time Stories (3)</title>
 </programme>
-<programme start="20260320080000 +0000" stop="20260320130500 +0000" channel="Sky Sport Golf HD.skyde">
+<programme start="20260320080000 +0000" stop="20260320130000 +0000" channel="Sky Sport Golf HD.skyde">
     <title>Live LIV Golf: Südafrika, 2. Tag in Johannesburg</title>
 </programme>
-<programme start="20260320130500 +0000" stop="20260320150000 +0000" channel="Sky Sport Golf HD.skyde">
+<programme start="20260320130000 +0000" stop="20260320150000 +0000" channel="Sky Sport Golf HD.skyde">
     <title>TGL: Jupiter Links Golf Club - Boston Common Golf, Halbfinale</title>
 </programme>
 <programme start="20260320150000 +0000" stop="20260320173000 +0000" channel="Sky Sport Golf HD.skyde">
@@ -3057,13 +3129,13 @@ Warning: Undefined array key "et" in /usr/home/ManusiaBiasa/domains/manusiabiasa
 <programme start="20260320112500 +0000" stop="20260320115500 +0000" channel="Sky Sport Mix HD.skyde">
     <title>MotoGP: Pressekonferenz Fahrer - GP Brasilien</title>
 </programme>
-<programme start="20260320115500 +0000" stop="20260320135500 +0000" channel="Sky Sport Mix HD.skyde">
+<programme start="20260320115500 +0000" stop="20260320125000 +0000" channel="Sky Sport Mix HD.skyde">
     <title>Live Moto3: 1. Freies Training - GP Brasilien</title>
 </programme>
-<programme start="20260320135500 +0000" stop="20260320145500 +0000" channel="Sky Sport Mix HD.skyde">
+<programme start="20260320125000 +0000" stop="20260320135500 +0000" channel="Sky Sport Mix HD.skyde">
     <title>Live Moto2: 1. Freies Training - GP Brasilien</title>
 </programme>
-<programme start="20260320145500 +0000" stop="20260320152500 +0000" channel="Sky Sport Mix HD.skyde">
+<programme start="20260320135500 +0000" stop="20260320152500 +0000" channel="Sky Sport Mix HD.skyde">
     <title>Live MotoGP: 1. Freies Training - GP Brasilien</title>
 </programme>
 <programme start="20260320152500 +0000" stop="20260320160000 +0000" channel="Sky Sport Mix HD.skyde">
@@ -3291,30 +3363,6 @@ Warning: Undefined array key "et" in /usr/home/ManusiaBiasa/domains/manusiabiasa
 <programme start="20260320223000 +0000" stop="20260321003000 +0000" channel="Sky Sport Premier League HD.skyde">
     <title>PL: AFC Bournemouth - Manchester United, 31. Spieltag</title>
 </programme>
-<programme start="20260320030000 +0000" stop="20260320040000 +0000" channel="Sky Sport Tennis HD.skyde">
-    <title>ATP 1000: Review Indian Wells</title>
-</programme>
-<programme start="20260320040000 +0000" stop="20260320060000 +0000" channel="Sky Sport Tennis HD.skyde">
-    <title>WTA 1000: E. Seidel (GER) - L. Tagger (AUT), Miami Open presented by Itaú in Miami, Florida (USA), 3. Tag</title>
-</programme>
-<programme start="20260320060000 +0000" stop="20260320080000 +0000" channel="Sky Sport Tennis HD.skyde">
-    <title>ATP 1000: Y. Hanfmann (GER) - R. Jodar (ESP), Miami Open presented by Itaú in Miami, Florida (USA), 3. Tag</title>
-</programme>
-<programme start="20260320080000 +0000" stop="20260320103000 +0000" channel="Sky Sport Tennis HD.skyde">
-    <title>ATP 1000: J. Sinner (ITA) - D. Medvedev, BNP Paribas Open in Indian Wells, Kalifornien (USA), Finale</title>
-</programme>
-<programme start="20260320103000 +0000" stop="20260320110000 +0000" channel="Sky Sport Tennis HD.skyde">
-    <title>ATP: This Week</title>
-</programme>
-<programme start="20260320110000 +0000" stop="20260320130000 +0000" channel="Sky Sport Tennis HD.skyde">
-    <title>WTA 1000: E. Seidel (GER) - L. Tagger (AUT), Miami Open presented by Itaú in Miami, Florida (USA), 3. Tag</title>
-</programme>
-<programme start="20260320130000 +0000" stop="20260320150000 +0000" channel="Sky Sport Tennis HD.skyde">
-    <title>ATP 1000: Y. Hanfmann (GER) - R. Jodar (ESP), Miami Open presented by Itaú in Miami, Florida (USA), 3. Tag</title>
-</programme>
-<programme start="20260320150000 +0000" stop="20260321030000 +0000" channel="Sky Sport Tennis HD.skyde">
-    <title>Live ATP &amp; WTA: Konferenz Miami Open presented by Itaú in Miami, Florida (USA), 4. Tag</title>
-</programme>
 <programme start="20260320010000 +0000" stop="20260320040000 +0000" channel="Sky Sport Top Event HD.skyde">
     <title>Live NHL: Florida Panthers @ Edmonton Oilers</title>
 </programme>
@@ -3333,10 +3381,16 @@ Warning: Undefined array key "et" in /usr/home/ManusiaBiasa/domains/manusiabiasa
 <programme start="20260320080000 +0000" stop="20260320115500 +0000" channel="Sky Sport Top Event HD.skyde">
     <title>Live LIV Golf: Südafrika, 2. Tag in Johannesburg</title>
 </programme>
-<programme start="20260320115500 +0000" stop="20260320140000 +0000" channel="Sky Sport Top Event HD.skyde">
+<programme start="20260320115500 +0000" stop="20260320125000 +0000" channel="Sky Sport Top Event HD.skyde">
     <title>Live Moto3: 1. Freies Training - GP Brasilien</title>
 </programme>
-<programme start="20260320140000 +0000" stop="20260320170000 +0000" channel="Sky Sport Top Event HD.skyde">
+<programme start="20260320125000 +0000" stop="20260320135500 +0000" channel="Sky Sport Top Event HD.skyde">
+    <title>Live Moto2: 1. Freies Training - GP Brasilien</title>
+</programme>
+<programme start="20260320135500 +0000" stop="20260320150000 +0000" channel="Sky Sport Top Event HD.skyde">
+    <title>Live MotoGP: 1. Freies Training - GP Brasilien</title>
+</programme>
+<programme start="20260320150000 +0000" stop="20260320170000 +0000" channel="Sky Sport Top Event HD.skyde">
     <title>Live ATP &amp; WTA: Konferenz Miami Open presented by Itaú in Miami, Florida (USA), 4. Tag</title>
 </programme>
 <programme start="20260320170000 +0000" stop="20260320192500 +0000" channel="Sky Sport Top Event HD.skyde">
