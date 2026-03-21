@@ -2450,10 +2450,10 @@ Warning: Undefined array key "et" in /usr/home/ManusiaBiasa/domains/manusiabiasa
 <programme start="20260321101500 +0000" stop="20260321122000 +0000" channel="Sky Sport Austria 1 HD.skyde">
     <title>Admiral BL: SK Puntigamer Sturm Graz - FC Red Bull Salzburg, 24. Runde</title>
 </programme>
-<programme start="20260321122000 +0000" stop="20260321144500 +0000" channel="Sky Sport Austria 1 HD.skyde">
+<programme start="20260321122000 +0000" stop="20260321145000 +0000" channel="Sky Sport Austria 1 HD.skyde">
     <title>Live PL: Brighton &amp; Hove Albion - FC Liverpool, 31. Spieltag</title>
 </programme>
-<programme start="20260321144500 +0000" stop="20260321150000 +0000" channel="Sky Sport Austria 1 HD.skyde">
+<programme start="20260321145000 +0000" stop="20260321150000 +0000" channel="Sky Sport Austria 1 HD.skyde">
     <title>PL: Under the Skin (Brighton &amp; Hove Albion)</title>
 </programme>
 <programme start="20260321150000 +0000" stop="20260321153000 +0000" channel="Sky Sport Austria 1 HD.skyde">
@@ -2633,7 +2633,7 @@ Warning: Undefined array key "et" in /usr/home/ManusiaBiasa/domains/manusiabiasa
 <programme start="20260321190000 +0000" stop="20260321220000 +0000" channel="Sky Sport Bundesliga 2 HD.skyde">
     <title>Live 2. BL: SV Darmstadt 98 - FC Schalke 04, tipico Topspiel der Woche, 27. Spieltag</title>
 </programme>
-<programme start="20260321220000 +0000" stop="20260321230000 +0000" channel="Sky Sport Bundesliga 2 HD.skyde">
+<programme start="20260321220000 +0000" stop="20260321233000 +0000" channel="Sky Sport Bundesliga 2 HD.skyde">
     <title>2. BL Alle Spiele, alle Tore: Die Vodafone Highlight-Show, 27. Spieltag, Samstag komplett</title>
 </programme>
 <programme start="20260321111000 +0000" stop="20260321113000 +0000" channel="Sky Sport Bundesliga 3 HD.skyde">
@@ -3082,6 +3082,12 @@ Warning: Undefined array key "et" in /usr/home/ManusiaBiasa/domains/manusiabiasa
 </programme>
 <programme start="20260321204500 +0000" stop="20260322040000 +0000" channel="Sky Sport 4 HD.skyde">
     <title>Live NBA: Oklahoma City Thunder @ Washington Wizards</title>
+</programme>
+<programme start="20260321194000 +0000" stop="20260321200000 +0000" channel="Sky Sport 5 HD.skyde">
+    <title>Es folgt Eishockey NHL</title>
+</programme>
+<programme start="20260321200000 +0000" stop="20260322000000 +0000" channel="Sky Sport 5 HD.skyde">
+    <title>Live NHL: Dallas Stars @ Minnesota Wild</title>
 </programme>
 <programme start="20260321154000 +0000" stop="20260321160000 +0000" channel="Sky Sport 7 HD.skyde">
     <title>Es folgt: LIVE Tennis WTA Tour</title>

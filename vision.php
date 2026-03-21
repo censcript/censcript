@@ -460,9 +460,6 @@
 <programme start="20260321003000 +0000" stop="20260321011500 +0000" channel="Trans 7.vision">
 <title>Masjidku</title>
 </programme>
-<programme start="20260321070000 +0000" stop="20260321083000 +0000" channel="Trans 7.vision">
-<title>Warkop: Setan Kredit</title>
-</programme>
 <programme start="20260321083000 +0000" stop="20260321110000 +0000" channel="Trans 7.vision">
 <title>KKN Di Desa Penari</title>
 </programme>
@@ -666,9 +663,6 @@
 </programme>
 <programme start="20260321071500 +0000" stop="20260321080000 +0000" channel="TVOne.vision">
 <title>Hikmah Ramadan: Kemenag</title>
-</programme>
-<programme start="20260321080000 +0000" stop="20260321090000 +0000" channel="TVOne.vision">
-<title>Apa Kabar Indonesia Akhir...</title>
 </programme>
 <programme start="20260321090000 +0000" stop="20260321110000 +0000" channel="TVOne.vision">
 <title>Kabar Petang (L)</title>
@@ -1496,5 +1490,11 @@
 <title>JTV</title>
 </programme>
 <programme start="20260321140000 +0000" stop="20260321160000 +0000" channel="JTV.vision">
+<title>JTV</title>
+</programme>
+<programme start="20260321160000 +0000" stop="20260321180000 +0000" channel="JTV.vision">
+<title>JTV</title>
+</programme>
+<programme start="20260321180000 +0000" stop="20260321200000 +0000" channel="JTV.vision">
 <title>JTV</title>
 </programme>
