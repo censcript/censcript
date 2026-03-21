@@ -460,6 +460,15 @@
 <programme start="20260321003000 +0000" stop="20260321011500 +0000" channel="Trans 7.vision">
 <title>Masjidku</title>
 </programme>
+<programme start="20260321011500 +0000" stop="20260321030000 +0000" channel="Trans 7.vision">
+<title>Titip Surat Untuk Tuhan</title>
+</programme>
+<programme start="20260321030000 +0000" stop="20260321050000 +0000" channel="Trans 7.vision">
+<title>Laut Tengah</title>
+</programme>
+<programme start="20260321050000 +0000" stop="20260321070000 +0000" channel="Trans 7.vision">
+<title>Layangan Putus The Movie</title>
+</programme>
 <programme start="20260321070000 +0000" stop="20260321083000 +0000" channel="Trans 7.vision">
 <title>Warkop: Setan Kredit</title>
 </programme>
@@ -522,6 +531,12 @@
 </programme>
 <programme start="20260322110000 +0000" stop="20260322133000 +0000" channel="Trans 7.vision">
 <title>Suzzanna: Malam Jumat Kliwon</title>
+</programme>
+<programme start="20260321003000 +0000" stop="20260321023000 +0000" channel="ANTV.vision">
+<title>Depan Bisa Belakang Bisa</title>
+</programme>
+<programme start="20260321023000 +0000" stop="20260321060000 +0000" channel="ANTV.vision">
+<title>Kabhi Kushi Kabhi Gham</title>
 </programme>
 <programme start="20260321060000 +0000" stop="20260321073000 +0000" channel="ANTV.vision">
 <title>Jhanak</title>
@@ -661,8 +676,17 @@
 <programme start="20260320233000 +0000" stop="20260321010000 +0000" channel="TVOne.vision">
 <title>Apa Kabar Indonesia Pagi (L)</title>
 </programme>
+<programme start="20260321010000 +0000" stop="20260321040000 +0000" channel="TVOne.vision">
+<title>Indonesia Berlebaran (L)</title>
+</programme>
 <programme start="20260321040000 +0000" stop="20260321053000 +0000" channel="TVOne.vision">
 <title>Kabar Siang (L)</title>
+</programme>
+<programme start="20260321053000 +0000" stop="20260321070000 +0000" channel="TVOne.vision">
+<title>Damai Indonesiaku Idul Fitri</title>
+</programme>
+<programme start="20260321070000 +0000" stop="20260321071500 +0000" channel="TVOne.vision">
+<title>Indonesia Berlebaran (L)</title>
 </programme>
 <programme start="20260321071500 +0000" stop="20260321080000 +0000" channel="TVOne.vision">
 <title>Hikmah Ramadan: Kemenag</title>
@@ -1473,28 +1497,4 @@
 </programme>
 <programme start="20260322110000 +0000" stop="20260322120000 +0000" channel="MDTV.vision">
 <title>Esmeralda</title>
-</programme>
-<programme start="20260321000000 +0000" stop="20260321020000 +0000" channel="JTV.vision">
-<title>JTV</title>
-</programme>
-<programme start="20260321020000 +0000" stop="20260321040000 +0000" channel="JTV.vision">
-<title>JTV</title>
-</programme>
-<programme start="20260321040000 +0000" stop="20260321060000 +0000" channel="JTV.vision">
-<title>JTV</title>
-</programme>
-<programme start="20260321060000 +0000" stop="20260321080000 +0000" channel="JTV.vision">
-<title>JTV</title>
-</programme>
-<programme start="20260321080000 +0000" stop="20260321100000 +0000" channel="JTV.vision">
-<title>JTV</title>
-</programme>
-<programme start="20260321100000 +0000" stop="20260321120000 +0000" channel="JTV.vision">
-<title>JTV</title>
-</programme>
-<programme start="20260321120000 +0000" stop="20260321140000 +0000" channel="JTV.vision">
-<title>JTV</title>
-</programme>
-<programme start="20260321140000 +0000" stop="20260321160000 +0000" channel="JTV.vision">
-<title>JTV</title>
 </programme>
