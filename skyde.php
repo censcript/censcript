@@ -2477,7 +2477,7 @@ Warning: Undefined array key "et" in /usr/home/ManusiaBiasa/domains/manusiabiasa
 <programme start="20260321153000 +0000" stop="20260321155000 +0000" channel="Sky Sport Austria 2 HD.skyde">
     <title>Es folgt Fußball: Österreich, Admiral Bundesliga</title>
 </programme>
-<programme start="20260321155000 +0000" stop="20260321183000 +0000" channel="Sky Sport Austria 2 HD.skyde">
+<programme start="20260321155000 +0000" stop="20260321180000 +0000" channel="Sky Sport Austria 2 HD.skyde">
     <title>Live Admiral BL: RZ Pellets WAC - SCR Altach. 24. Runde</title>
 </programme>
 <programme start="20260321153000 +0000" stop="20260321155000 +0000" channel="Sky Sport Austria 3 HD.skyde">
@@ -2495,7 +2495,7 @@ Warning: Undefined array key "et" in /usr/home/ManusiaBiasa/domains/manusiabiasa
 <programme start="20260321154000 +0000" stop="20260321160000 +0000" channel="Sky Sport Austria 5 HD.skyde">
     <title>Es folgt: LIVE Tennis WTA Tour</title>
 </programme>
-<programme start="20260321160000 +0000" stop="20260322090000 +0000" channel="Sky Sport Austria 5 HD.skyde">
+<programme start="20260321160000 +0000" stop="20260322010000 +0000" channel="Sky Sport Austria 5 HD.skyde">
     <title>Live WTA 1000: Miami Open presented by Itaú in Miami, Florida (USA), 5. Tag</title>
 </programme>
 <programme start="20260320233000 +0000" stop="20260321013000 +0000" channel="Sky Sport Bundesliga HD.skyde">
@@ -2660,7 +2660,7 @@ Warning: Undefined array key "et" in /usr/home/ManusiaBiasa/domains/manusiabiasa
 <programme start="20260321140000 +0000" stop="20260321141500 +0000" channel="Sky Sport Bundesliga 4 HD.skyde">
     <title>Live BL: WOB - SVW: tipico Countdown, 27. Spieltag</title>
 </programme>
-<programme start="20260321141500 +0000" stop="20260321171500 +0000" channel="Sky Sport Bundesliga 4 HD.skyde">
+<programme start="20260321141500 +0000" stop="20260321164500 +0000" channel="Sky Sport Bundesliga 4 HD.skyde">
     <title>Live BL: VfL Wolfsburg - Werder Bremen, 27. Spieltag</title>
 </programme>
 <programme start="20260321111000 +0000" stop="20260321113000 +0000" channel="Sky Sport Bundesliga 5 HD.skyde">
@@ -2678,7 +2678,7 @@ Warning: Undefined array key "et" in /usr/home/ManusiaBiasa/domains/manusiabiasa
 <programme start="20260321113000 +0000" stop="20260321140000 +0000" channel="Sky Sport Bundesliga 6 HD.skyde">
     <title>Live 2. BL: Multiview 27. Spieltag, Samstag</title>
 </programme>
-<programme start="20260321140000 +0000" stop="20260321171500 +0000" channel="Sky Sport Bundesliga 6 HD.skyde">
+<programme start="20260321140000 +0000" stop="20260321164500 +0000" channel="Sky Sport Bundesliga 6 HD.skyde">
     <title>Live BL: Multiview 27. Spieltag</title>
 </programme>
 <programme start="20260321111000 +0000" stop="20260321113000 +0000" channel="Sky Sport Bundesliga 7 HD.skyde">
@@ -2792,13 +2792,16 @@ Warning: Undefined array key "et" in /usr/home/ManusiaBiasa/domains/manusiabiasa
 <programme start="20260321220000 +0000" stop="20260322010000 +0000" channel="Sky Sport Golf HD.skyde">
     <title>Live LPGA: Fortinet Founders Cup, 3. Tag in Menlo Park, CA (USA)</title>
 </programme>
+<programme start="20260320230500 +0000" stop="20260321002000 +0000" channel="Sky Sport Mix HD.skyde">
+    <title>MotoGP: Training - GP Brasilien</title>
+</programme>
 <programme start="20260321002000 +0000" stop="20260321004500 +0000" channel="Sky Sport Mix HD.skyde">
     <title>MotoGP: MotoGP Rookies - Joining the elite</title>
 </programme>
-<programme start="20260321004500 +0000" stop="20260321014500 +0000" channel="Sky Sport Mix HD.skyde">
+<programme start="20260321004500 +0000" stop="20260321014000 +0000" channel="Sky Sport Mix HD.skyde">
     <title>NHL: On the Fly</title>
 </programme>
-<programme start="20260321014500 +0000" stop="20260321020000 +0000" channel="Sky Sport Mix HD.skyde">
+<programme start="20260321014000 +0000" stop="20260321020000 +0000" channel="Sky Sport Mix HD.skyde">
     <title>NHL: Highlights FLA@EDM</title>
 </programme>
 <programme start="20260321020000 +0000" stop="20260321050000 +0000" channel="Sky Sport Mix HD.skyde">
@@ -3024,7 +3027,7 @@ Warning: Undefined array key "et" in /usr/home/ManusiaBiasa/domains/manusiabiasa
     <title>WTA 1000: C. Gauff (USA) - E. Cocciaretto (ITA), Miami Open presented by Itaú in Miami, Florida (USA), 4. Tag</title>
 </programme>
 <programme start="20260321053000 +0000" stop="20260321073000 +0000" channel="Sky Sport Tennis HD.skyde">
-    <title>ATP 1000: T. Atmane (FRA) - D. Altmaier (GER), Miami Open presented by Itaú in Miami, Florida (USA), 4. Tag</title>
+    <title>ATP 1000: Topspiel, Miami Open presented by Itaú in Miami, Florida (USA), 4. Tag</title>
 </programme>
 <programme start="20260321073000 +0000" stop="20260321100000 +0000" channel="Sky Sport Tennis HD.skyde">
     <title>WTA 1000: E. Rybakina (KAZ) - A. Sabalenka, BNP Paribas Open in Indian Wells, Kalifornien (USA), Finale</title>
@@ -3039,7 +3042,7 @@ Warning: Undefined array key "et" in /usr/home/ManusiaBiasa/domains/manusiabiasa
     <title>WTA 1000: C. Gauff (USA) - E. Cocciaretto (ITA), Miami Open presented by Itaú in Miami, Florida (USA), 4. Tag</title>
 </programme>
 <programme start="20260321130000 +0000" stop="20260321150000 +0000" channel="Sky Sport Tennis HD.skyde">
-    <title>ATP 1000: T. Atmane (FRA) - D. Altmaier (GER), Miami Open presented by Itaú in Miami, Florida (USA), 4. Tag</title>
+    <title>ATP 1000: Topspiel, Miami Open presented by Itaú in Miami, Florida (USA), 4. Tag</title>
 </programme>
 <programme start="20260321150000 +0000" stop="20260322030000 +0000" channel="Sky Sport Tennis HD.skyde">
     <title>Live ATP &amp; WTA: Konferenz Miami Open presented by Itaú in Miami, Florida (USA), 5. Tag</title>
@@ -3083,11 +3086,11 @@ Warning: Undefined array key "et" in /usr/home/ManusiaBiasa/domains/manusiabiasa
 <programme start="20260321154000 +0000" stop="20260321160000 +0000" channel="Sky Sport 7 HD.skyde">
     <title>Es folgt: LIVE Tennis WTA Tour</title>
 </programme>
-<programme start="20260321160000 +0000" stop="20260322090000 +0000" channel="Sky Sport 7 HD.skyde">
+<programme start="20260321160000 +0000" stop="20260322010000 +0000" channel="Sky Sport 7 HD.skyde">
     <title>Live WTA 1000: Miami Open presented by Itaú in Miami, Florida (USA), 5. Tag</title>
 </programme>
 <programme start="20260321093500 +0000" stop="20260321095500 +0000" channel="Sky Sport 8 HD.skyde">
-    <title>Es folgt LIVE DFB-Pokal</title>
+    <title>Es folgt: LIVE DFB-Pokal Junioren</title>
 </programme>
 <programme start="20260321095500 +0000" stop="20260321120000 +0000" channel="Sky Sport 8 HD.skyde">
     <title>Live DFB-Pokal Junioren: VfL Bochum - VfB Stuttgart, Halbfinale 1</title>
