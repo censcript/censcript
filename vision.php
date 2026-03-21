@@ -460,15 +460,6 @@
 <programme start="20260321003000 +0000" stop="20260321011500 +0000" channel="Trans 7.vision">
 <title>Masjidku</title>
 </programme>
-<programme start="20260321083000 +0000" stop="20260321110000 +0000" channel="Trans 7.vision">
-<title>KKN Di Desa Penari</title>
-</programme>
-<programme start="20260321110000 +0000" stop="20260321133000 +0000" channel="Trans 7.vision">
-<title>Badarawuhi Di Desa Penari</title>
-</programme>
-<programme start="20260321133000 +0000" stop="20260321150000 +0000" channel="Trans 7.vision">
-<title>Fitri Halal Bihalal Di Arisan</title>
-</programme>
 <programme start="20260321150000 +0000" stop="20260321170000 +0000" channel="Trans 7.vision">
 <title>Qodrat</title>
 </programme>
@@ -522,15 +513,6 @@
 </programme>
 <programme start="20260321060000 +0000" stop="20260321073000 +0000" channel="ANTV.vision">
 <title>Jhanak</title>
-</programme>
-<programme start="20260321073000 +0000" stop="20260321110000 +0000" channel="ANTV.vision">
-<title>Kuch Kuch Hota Hai</title>
-</programme>
-<programme start="20260321110000 +0000" stop="20260321143000 +0000" channel="ANTV.vision">
-<title>Melodi Cinta</title>
-</programme>
-<programme start="20260321143000 +0000" stop="20260321163000 +0000" channel="ANTV.vision">
-<title>Si Manis Jembatan Ancol</title>
 </programme>
 <programme start="20260321163000 +0000" stop="20260321190000 +0000" channel="ANTV.vision">
 <title>Serie A Liga Italia</title>
@@ -1496,5 +1478,23 @@
 <title>JTV</title>
 </programme>
 <programme start="20260321180000 +0000" stop="20260321200000 +0000" channel="JTV.vision">
+<title>JTV</title>
+</programme>
+<programme start="20260321200000 +0000" stop="20260321220000 +0000" channel="JTV.vision">
+<title>JTV</title>
+</programme>
+<programme start="20260321220000 +0000" stop="20260322000000 +0000" channel="JTV.vision">
+<title>JTV</title>
+</programme>
+<programme start="20260322000000 +0000" stop="20260322020000 +0000" channel="JTV.vision">
+<title>JTV</title>
+</programme>
+<programme start="20260322020000 +0000" stop="20260322040000 +0000" channel="JTV.vision">
+<title>JTV</title>
+</programme>
+<programme start="20260322040000 +0000" stop="20260322060000 +0000" channel="JTV.vision">
+<title>JTV</title>
+</programme>
+<programme start="20260322060000 +0000" stop="20260322080000 +0000" channel="JTV.vision">
 <title>JTV</title>
 </programme>
