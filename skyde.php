@@ -2633,7 +2633,7 @@ Warning: Undefined array key "et" in /usr/home/ManusiaBiasa/domains/manusiabiasa
 <programme start="20260321190000 +0000" stop="20260321220000 +0000" channel="Sky Sport Bundesliga 2 HD.skyde">
     <title>Live 2. BL: SV Darmstadt 98 - FC Schalke 04, tipico Topspiel der Woche, 27. Spieltag</title>
 </programme>
-<programme start="20260321220000 +0000" stop="20260321233000 +0000" channel="Sky Sport Bundesliga 2 HD.skyde">
+<programme start="20260321220000 +0000" stop="20260321230000 +0000" channel="Sky Sport Bundesliga 2 HD.skyde">
     <title>2. BL Alle Spiele, alle Tore: Die Vodafone Highlight-Show, 27. Spieltag, Samstag komplett</title>
 </programme>
 <programme start="20260321111000 +0000" stop="20260321113000 +0000" channel="Sky Sport Bundesliga 3 HD.skyde">
@@ -2765,10 +2765,10 @@ Warning: Undefined array key "et" in /usr/home/ManusiaBiasa/domains/manusiabiasa
 <programme start="20260321053000 +0000" stop="20260321073000 +0000" channel="Sky Sport Golf HD.skyde">
     <title>TGL: Atlanta Drive GC - Los Angeles Golf Club, Halbfinale</title>
 </programme>
-<programme start="20260321073000 +0000" stop="20260321123500 +0000" channel="Sky Sport Golf HD.skyde">
+<programme start="20260321073000 +0000" stop="20260321123000 +0000" channel="Sky Sport Golf HD.skyde">
     <title>Live LIV Golf: Südafrika, 3. Tag in Johannesburg</title>
 </programme>
-<programme start="20260321123500 +0000" stop="20260321124500 +0000" channel="Sky Sport Golf HD.skyde">
+<programme start="20260321123000 +0000" stop="20260321124500 +0000" channel="Sky Sport Golf HD.skyde">
     <title>Golf: Projekt 0 (9)</title>
 </programme>
 <programme start="20260321124500 +0000" stop="20260321130000 +0000" channel="Sky Sport Golf HD.skyde">
@@ -2834,10 +2834,10 @@ Warning: Undefined array key "et" in /usr/home/ManusiaBiasa/domains/manusiabiasa
 <programme start="20260321111000 +0000" stop="20260321113500 +0000" channel="Sky Sport Mix HD.skyde">
     <title>MotoGP: MotoGP Rookies - Joining the elite</title>
 </programme>
-<programme start="20260321113500 +0000" stop="20260321122500 +0000" channel="Sky Sport Mix HD.skyde">
+<programme start="20260321113500 +0000" stop="20260321121500 +0000" channel="Sky Sport Mix HD.skyde">
     <title>Live Moto3: 2. Freies Training - GP Brasilien</title>
 </programme>
-<programme start="20260321122500 +0000" stop="20260321130000 +0000" channel="Sky Sport Mix HD.skyde">
+<programme start="20260321121500 +0000" stop="20260321130000 +0000" channel="Sky Sport Mix HD.skyde">
     <title>Live Moto2: 2. Freies Training - GP Brasilien</title>
 </programme>
 <programme start="20260321130000 +0000" stop="20260321134500 +0000" channel="Sky Sport Mix HD.skyde">
@@ -2849,19 +2849,16 @@ Warning: Undefined array key "et" in /usr/home/ManusiaBiasa/domains/manusiabiasa
 <programme start="20260321150000 +0000" stop="20260321153000 +0000" channel="Sky Sport Mix HD.skyde">
     <title>NHL: On the Fly</title>
 </programme>
-<programme start="20260321153000 +0000" stop="20260321161000 +0000" channel="Sky Sport Mix HD.skyde">
+<programme start="20260321153000 +0000" stop="20260321154000 +0000" channel="Sky Sport Mix HD.skyde">
     <title>MotoGP: Highlights 2025</title>
 </programme>
-<programme start="20260321161000 +0000" stop="20260321163500 +0000" channel="Sky Sport Mix HD.skyde">
-    <title>MotoGP: MotoGP Rookies - Joining the elite</title>
-</programme>
-<programme start="20260321163500 +0000" stop="20260321173000 +0000" channel="Sky Sport Mix HD.skyde">
+<programme start="20260321154000 +0000" stop="20260321163500 +0000" channel="Sky Sport Mix HD.skyde">
     <title>Live Moto3: Qualifying - GP Brasilien</title>
 </programme>
-<programme start="20260321173000 +0000" stop="20260321182500 +0000" channel="Sky Sport Mix HD.skyde">
+<programme start="20260321163500 +0000" stop="20260321173000 +0000" channel="Sky Sport Mix HD.skyde">
     <title>Live Moto2: Qualifying - GP Brasilien</title>
 </programme>
-<programme start="20260321182500 +0000" stop="20260321190000 +0000" channel="Sky Sport Mix HD.skyde">
+<programme start="20260321173000 +0000" stop="20260321190000 +0000" channel="Sky Sport Mix HD.skyde">
     <title>Live MotoGP: Sprint - GP Brasilien</title>
 </programme>
 <programme start="20260321190000 +0000" stop="20260321191500 +0000" channel="Sky Sport Mix HD.skyde">
@@ -3050,7 +3047,7 @@ Warning: Undefined array key "et" in /usr/home/ManusiaBiasa/domains/manusiabiasa
 <programme start="20260321150000 +0000" stop="20260322030000 +0000" channel="Sky Sport Tennis HD.skyde">
     <title>Live ATP &amp; WTA: Konferenz Miami Open presented by Itaú in Miami, Florida (USA), 5. Tag</title>
 </programme>
-<programme start="20260321040000 +0000" stop="20260321050000 +0000" channel="Sky Sport Top Event HD.skyde">
+<programme start="20260321030000 +0000" stop="20260321050000 +0000" channel="Sky Sport Top Event HD.skyde">
     <title>Live NHL: Anaheim Ducks @ Utah Mammoth</title>
 </programme>
 <programme start="20260321050000 +0000" stop="20260321053000 +0000" channel="Sky Sport Top Event HD.skyde">
