@@ -6652,14 +6652,8 @@
     <programme start="20260321150100 +0000" stop="20260321163600 +0000" channel="TV5MONDE HD.starhub">
         <title>Meurtres A Amiens</title>
     </programme>
-    <programme start="20260320150000 +0000" stop="20260320170000 +0000" channel="Hub Sports 1  HD.starhub">
+    <programme start="20260320150000 +0000" stop="20260320180000 +0000" channel="Hub Sports 1  HD.starhub">
         <title>Miami Open p/b Itau (1000) Day 3 R2 Session 1</title>
-    </programme>
-    <programme start="20260320170000 +0000" stop="20260320173000 +0000" channel="Hub Sports 1  HD.starhub">
-        <title>Season 3 Episode 10</title>
-    </programme>
-    <programme start="20260320173000 +0000" stop="20260320180000 +0000" channel="Hub Sports 1  HD.starhub">
-        <title>Qatar TotalEnergies Open</title>
     </programme>
     <programme start="20260320180000 +0000" stop="20260320220000 +0000" channel="Hub Sports 1  HD.starhub">
         <title>Men’s Team Final: China vs Japan</title>
