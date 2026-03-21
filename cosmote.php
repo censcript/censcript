@@ -1,7 +1,3 @@
-<programme start="20260321170000 +0700" stop="20260321173000 +0700" channel="COSMOTE Sport 1 HD">
-    <title>Game R1 S6 E30</title>
-    <desc>Live: Tidak</desc>
-</programme>
 <programme start="20260321173000 +0700" stop="20260321182500 +0700" channel="COSMOTE Sport 1 HD">
     <title>Highlights: UEL &amp; UECL 2025-26</title>
     <desc>Live: Tidak</desc>
@@ -78,8 +74,8 @@
     <title>Football: Liverpool FC - Galatasaray AS</title>
     <desc>Live: Tidak</desc>
 </programme>
-<programme start="20260321151500 +0700" stop="20260321171500 +0700" channel="COSMOTE Sport 2 HD">
-    <title>Football: Genoa - Udinese</title>
+<programme start="20260322183000 +0700" stop="20260322190000 +0700" channel="COSMOTE Sport 1 HD">
+    <title>Game R1 S6 E30</title>
     <desc>Live: Tidak</desc>
 </programme>
 <programme start="20260321171500 +0700" stop="20260321193000 +0700" channel="COSMOTE Sport 2 HD">
@@ -149,6 +145,10 @@
 <programme start="20260322175500 +0700" stop="20260322183000 +0700" channel="COSMOTE Sport 2 HD">
     <title>Sports Classics: Ultimate Rush S2 E19</title>
     <desc>Live: Tidak</desc>
+</programme>
+<programme start="20260322183000 +0700" stop="20260322203000 +0700" channel="COSMOTE Sport 2 HD">
+    <title>Football: Como - Pisa (L)</title>
+    <desc>Live: Ya</desc>
 </programme>
 <programme start="20260321170000 +0700" stop="20260321190000 +0700" channel="COSMOTE Sport 3 HD">
     <title>Football: Preston North End - Stoke City</title>
@@ -406,8 +406,8 @@
     <title>Motorsports: Moto3 2026</title>
     <desc>Live: Tidak</desc>
 </programme>
-<programme start="20260321153000 +0700" stop="20260321180000 +0700" channel="COSMOTE Sport 6 HD">
-    <title>Volleyball: Panathinaikos - Vallefoglia</title>
+<programme start="20260322183000 +0700" stop="20260322193000 +0700" channel="COSMOTE Sport 5 HD">
+    <title>Motorsports: Moto2 2026</title>
     <desc>Live: Tidak</desc>
 </programme>
 <programme start="20260321180000 +0700" stop="20260321183000 +0700" channel="COSMOTE Sport 6 HD">
@@ -418,7 +418,15 @@
     <title>ATP Masters 1000 2026 - Highlights</title>
     <desc>Live: Tidak</desc>
 </programme>
-<programme start="20260321193000 +0700" stop="20260321220000 +0700" channel="COSMOTE Sport 6 HD">
+<programme start="20260321193000 +0700" stop="20260321195000 +0700" channel="COSMOTE Sport 6 HD">
+    <title>Sports Classics: Worldies E14</title>
+    <desc>Live: Tidak</desc>
+</programme>
+<programme start="20260321195000 +0700" stop="20260321201000 +0700" channel="COSMOTE Sport 6 HD">
+    <title>Sports Classics: Worldies E15</title>
+    <desc>Live: Tidak</desc>
+</programme>
+<programme start="20260321201000 +0700" stop="20260321220000 +0700" channel="COSMOTE Sport 6 HD">
     <title>Tennis: Stefanos Tsitsipas - Alex de Minaur</title>
     <desc>Live: Tidak</desc>
 </programme>
