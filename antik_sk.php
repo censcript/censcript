@@ -1333,84 +1333,6 @@
   <programme start="20260323225000 +0000" stop="20260323235000 +0000" channel="WAU.webtv.sk">
     <title lang="id">Vražedné prípady II (6)</title>
   </programme>
-  <programme start="20260322225500 +0000" stop="20260322235000 +0000" channel="JOJ Svet.webtv.sk">
-    <title lang="id">Tajomstvá mozgu I (3)</title>
-  </programme>
-  <programme start="20260322235000 +0000" stop="20260323004000 +0000" channel="JOJ Svet.webtv.sk">
-    <title lang="id">Mýty a príšery I (3)</title>
-  </programme>
-  <programme start="20260323004000 +0000" stop="20260323013000 +0000" channel="JOJ Svet.webtv.sk">
-    <title lang="id">V mysli zločinca I (2)</title>
-  </programme>
-  <programme start="20260323013000 +0000" stop="20260323043000 +0000" channel="JOJ Svet.webtv.sk">
-    <title lang="id">História 360</title>
-  </programme>
-  <programme start="20260323050000 +0000" stop="20260323070000 +0000" channel="JOJ Svet.webtv.sk">
-    <title lang="id">História 360</title>
-  </programme>
-  <programme start="20260323070000 +0000" stop="20260323073000 +0000" channel="JOJ Svet.webtv.sk">
-    <title lang="id">Bratia proti prírode</title>
-  </programme>
-  <programme start="20260323073000 +0000" stop="20260323080000 +0000" channel="JOJ Svet.webtv.sk">
-    <title lang="id">Zbrane Hollywoodu</title>
-  </programme>
-  <programme start="20260323080000 +0000" stop="20260323090000 +0000" channel="JOJ Svet.webtv.sk">
-    <title lang="id">Prežiť v divočine I (3)</title>
-  </programme>
-  <programme start="20260323090000 +0000" stop="20260323100000 +0000" channel="JOJ Svet.webtv.sk">
-    <title lang="id">Mýty a príšery I (3)</title>
-  </programme>
-  <programme start="20260323100000 +0000" stop="20260323110000 +0000" channel="JOJ Svet.webtv.sk">
-    <title lang="id">Zbrane ríše zvierat I (2)</title>
-  </programme>
-  <programme start="20260323110000 +0000" stop="20260323113000 +0000" channel="JOJ Svet.webtv.sk">
-    <title lang="id">Bratia proti prírode</title>
-  </programme>
-  <programme start="20260323113000 +0000" stop="20260323120000 +0000" channel="JOJ Svet.webtv.sk">
-    <title lang="id">Zbrane Hollywoodu</title>
-  </programme>
-  <programme start="20260323120000 +0000" stop="20260323130000 +0000" channel="JOJ Svet.webtv.sk">
-    <title lang="id">Tajomstvá mozgu I (3)</title>
-  </programme>
-  <programme start="20260323130000 +0000" stop="20260323140000 +0000" channel="JOJ Svet.webtv.sk">
-    <title lang="id">Katastrofy v priamom prenose I (3)</title>
-  </programme>
-  <programme start="20260323140000 +0000" stop="20260323150000 +0000" channel="JOJ Svet.webtv.sk">
-    <title lang="id">Zbrane ríše zvierat I (2)</title>
-  </programme>
-  <programme start="20260323150000 +0000" stop="20260323153000 +0000" channel="JOJ Svet.webtv.sk">
-    <title lang="id">Bratia proti prírode</title>
-  </programme>
-  <programme start="20260323153000 +0000" stop="20260323160000 +0000" channel="JOJ Svet.webtv.sk">
-    <title lang="id">Zbrane Hollywoodu</title>
-  </programme>
-  <programme start="20260323160000 +0000" stop="20260323170000 +0000" channel="JOJ Svet.webtv.sk">
-    <title lang="id">Prežiť v divočine I (3)</title>
-  </programme>
-  <programme start="20260323170000 +0000" stop="20260323180000 +0000" channel="JOJ Svet.webtv.sk">
-    <title lang="id">Mýty a príšery I (3)</title>
-  </programme>
-  <programme start="20260323180000 +0000" stop="20260323190000 +0000" channel="JOJ Svet.webtv.sk">
-    <title lang="id">Zbrane ríše zvierat I (3)</title>
-  </programme>
-  <programme start="20260323190000 +0000" stop="20260323193000 +0000" channel="JOJ Svet.webtv.sk">
-    <title lang="id">Bratia proti prírode</title>
-  </programme>
-  <programme start="20260323193000 +0000" stop="20260323203000 +0000" channel="JOJ Svet.webtv.sk">
-    <title lang="id">Zabijaci z divočiny: Zrodení zabíjať II (4)</title>
-  </programme>
-  <programme start="20260323203000 +0000" stop="20260323210000 +0000" channel="JOJ Svet.webtv.sk">
-    <title lang="id">Zbrane Hollywoodu</title>
-  </programme>
-  <programme start="20260323210000 +0000" stop="20260323220000 +0000" channel="JOJ Svet.webtv.sk">
-    <title lang="id">Lovci duchov I (7)</title>
-  </programme>
-  <programme start="20260323220000 +0000" stop="20260323223000 +0000" channel="JOJ Svet.webtv.sk">
-    <title lang="id">Rockové legendy IX (10)</title>
-  </programme>
-  <programme start="20260323223000 +0000" stop="20260323230000 +0000" channel="JOJ Svet.webtv.sk">
-    <title lang="id">Rockové legendy</title>
-  </programme>
   <programme start="20260322225000 +0000" stop="20260323003000 +0000" channel="JOJ Cinema.webtv.sk">
     <title lang="id">Elyas</title>
   </programme>
@@ -5049,6 +4971,51 @@
   </programme>
   <programme start="20260323223000 +0000" stop="20260323233500 +0000" channel="Nova Sport 1.webtv.sk">
     <title lang="id">Stalo se v NHL (4)</title>
+  </programme>
+  <programme start="20260322210500 +0000" stop="20260322233500 +0000" channel="Nova Sport 2.webtv.sk">
+    <title lang="id">Denver Nuggets - Portland Trail Blazers</title>
+  </programme>
+  <programme start="20260322233500 +0000" stop="20260323000500 +0000" channel="Nova Sport 2.webtv.sk">
+    <title lang="id">SCOTT Mediterranen Epic</title>
+  </programme>
+  <programme start="20260323000500 +0000" stop="20260323023500 +0000" channel="Nova Sport 2.webtv.sk">
+    <title lang="id">Boston Celtics - Minnesota Timberwolves</title>
+  </programme>
+  <programme start="20260323023500 +0000" stop="20260323043500 +0000" channel="Nova Sport 2.webtv.sk">
+    <title lang="id">Washington Wizards - Oklahoma City Thunder</title>
+  </programme>
+  <programme start="20260323043500 +0000" stop="20260323060000 +0000" channel="Nova Sport 2.webtv.sk">
+    <title lang="id">Noční program</title>
+  </programme>
+  <programme start="20260323060000 +0000" stop="20260323081500 +0000" channel="Nova Sport 2.webtv.sk">
+    <title lang="id">Arsenal FC - Manchester City</title>
+  </programme>
+  <programme start="20260323081500 +0000" stop="20260323101500 +0000" channel="Nova Sport 2.webtv.sk">
+    <title lang="id">Boston Celtics - Minnesota Timberwolves</title>
+  </programme>
+  <programme start="20260323101500 +0000" stop="20260323121500 +0000" channel="Nova Sport 2.webtv.sk">
+    <title lang="id">Denver Nuggets - Portland Trail Blazers</title>
+  </programme>
+  <programme start="20260323121500 +0000" stop="20260323140000 +0000" channel="Nova Sport 2.webtv.sk">
+    <title lang="id">Olympique Lyon - AS Monaco</title>
+  </programme>
+  <programme start="20260323140000 +0000" stop="20260323160000 +0000" channel="Nova Sport 2.webtv.sk">
+    <title lang="id">Exeter Chiefs - Sale Sharks</title>
+  </programme>
+  <programme start="20260323160000 +0000" stop="20260323163000 +0000" channel="Nova Sport 2.webtv.sk">
+    <title lang="id">Brunato Talks (5)</title>
+  </programme>
+  <programme start="20260323163000 +0000" stop="20260323190000 +0000" channel="Nova Sport 2.webtv.sk">
+    <title lang="id">Premier League Darts 2026</title>
+  </programme>
+  <programme start="20260323190000 +0000" stop="20260323193000 +0000" channel="Nova Sport 2.webtv.sk">
+    <title lang="id">Ligue 1 Highlights (27)</title>
+  </programme>
+  <programme start="20260323193000 +0000" stop="20260323213000 +0000" channel="Nova Sport 2.webtv.sk">
+    <title lang="id">Boston Celtics - Minnesota Timberwolves</title>
+  </programme>
+  <programme start="20260323213000 +0000" stop="20260323233000 +0000" channel="Nova Sport 2.webtv.sk">
+    <title lang="id">Denver Nuggets - Portland Trail Blazers</title>
   </programme>
   <programme start="20260322230000 +0000" stop="20260323003000 +0000" channel="Eurosport 1.webtv.sk">
     <title lang="id">Snooker: World Open</title>
@@ -16885,11 +16852,8 @@
   <programme start="20260323224500 +0000" stop="20260323231500 +0000" channel="TVP Polonia.webtv.sk">
     <title lang="id">Kod bezpieczenstwa (29)</title>
   </programme>
-  <programme start="20260322220100 +0000" stop="20260322233000 +0000" channel="UA TV.webtv.sk">
-    <title lang="id">Інформаційні сюжети</title>
-  </programme>
-  <programme start="20260322233000 +0000" stop="20260323023000 +0000" channel="UA TV.webtv.sk">
-    <title lang="id">FreeДОМ</title>
+  <programme start="20260322210000 +0000" stop="20260323000000 +0000" channel="Espreso TV.webtv.sk">
+    <title lang="id">Європейці з Лесею Вакулюк</title>
   </programme>
   <programme start="20260322230000 +0000" stop="20260322233000 +0000" channel="Current Time.webtv.sk">
     <title lang="id">ПPИЗНАКИ ЖИЗНИ: Сами разберутся</title>
@@ -19626,6 +19590,75 @@
   </programme>
   <programme start="20260323223000 +0000" stop="20260323230000 +0000" channel="Rebel.webtv.sk">
     <title lang="id">Forever Rock</title>
+  </programme>
+  <programme start="20260322222000 +0000" stop="20260323012000 +0000" channel="Relax.webtv.sk">
+    <title lang="id">LUXUSSTORE</title>
+  </programme>
+  <programme start="20260323043000 +0000" stop="20260323050000 +0000" channel="Relax.webtv.sk">
+    <title lang="id">Archív Televize Relax</title>
+  </programme>
+  <programme start="20260323050000 +0000" stop="20260323070000 +0000" channel="Relax.webtv.sk">
+    <title lang="id">Ranní káva s Rádiem Čas</title>
+  </programme>
+  <programme start="20260323070000 +0000" stop="20260323072000 +0000" channel="Relax.webtv.sk">
+    <title lang="id">Teleshopping</title>
+  </programme>
+  <programme start="20260323072000 +0000" stop="20260323082000 +0000" channel="Relax.webtv.sk">
+    <title lang="id">Nespoutaný anděl (30)</title>
+  </programme>
+  <programme start="20260323082000 +0000" stop="20260323092000 +0000" channel="Relax.webtv.sk">
+    <title lang="id">800 slov (2)</title>
+  </programme>
+  <programme start="20260323092000 +0000" stop="20260323093500 +0000" channel="Relax.webtv.sk">
+    <title lang="id">Pohodové zprávy</title>
+  </programme>
+  <programme start="20260323093500 +0000" stop="20260323101000 +0000" channel="Relax.webtv.sk">
+    <title lang="id">Teleshopping</title>
+  </programme>
+  <programme start="20260323101000 +0000" stop="20260323133000 +0000" channel="Relax.webtv.sk">
+    <title lang="id">LUXUSSTORE</title>
+  </programme>
+  <programme start="20260323133000 +0000" stop="20260323134000 +0000" channel="Relax.webtv.sk">
+    <title lang="id">Teleshopping</title>
+  </programme>
+  <programme start="20260323134000 +0000" stop="20260323140000 +0000" channel="Relax.webtv.sk">
+    <title lang="id">TOP Relax</title>
+  </programme>
+  <programme start="20260323140000 +0000" stop="20260323142500 +0000" channel="Relax.webtv.sk">
+    <title lang="id">Užasné zahrady (4)</title>
+  </programme>
+  <programme start="20260323142500 +0000" stop="20260323145500 +0000" channel="Relax.webtv.sk">
+    <title lang="id">Šelma doma (2)</title>
+  </programme>
+  <programme start="20260323145500 +0000" stop="20260323155500 +0000" channel="Relax.webtv.sk">
+    <title lang="id">Námořní hlídka (61)</title>
+  </programme>
+  <programme start="20260323155500 +0000" stop="20260323162500 +0000" channel="Relax.webtv.sk">
+    <title lang="id">Paní domu</title>
+  </programme>
+  <programme start="20260323162500 +0000" stop="20260323165500 +0000" channel="Relax.webtv.sk">
+    <title lang="id">Užasné zahrady (4)</title>
+  </programme>
+  <programme start="20260323165500 +0000" stop="20260323175500 +0000" channel="Relax.webtv.sk">
+    <title lang="id">Selfie s Táňou (15)</title>
+  </programme>
+  <programme start="20260323175500 +0000" stop="20260323185500 +0000" channel="Relax.webtv.sk">
+    <title lang="id">Souboj živlů (9)</title>
+  </programme>
+  <programme start="20260323185500 +0000" stop="20260323195500 +0000" channel="Relax.webtv.sk">
+    <title lang="id">Nespoutaný anděl (31)</title>
+  </programme>
+  <programme start="20260323195500 +0000" stop="20260323205500 +0000" channel="Relax.webtv.sk">
+    <title lang="id">Námořní hlídka (62)</title>
+  </programme>
+  <programme start="20260323205500 +0000" stop="20260323215000 +0000" channel="Relax.webtv.sk">
+    <title lang="id">Detektiv Nash Bridges (14)</title>
+  </programme>
+  <programme start="20260323215000 +0000" stop="20260323222000 +0000" channel="Relax.webtv.sk">
+    <title lang="id">Teleshopping</title>
+  </programme>
+  <programme start="20260323222000 +0000" stop="20260324012000 +0000" channel="Relax.webtv.sk">
+    <title lang="id">LUXUSSTORE</title>
   </programme>
   <programme start="20260322230000 +0000" stop="20260323003000 +0000" channel="STINGRAY iConcerts.webtv.sk">
     <title lang="id">The Black Keys - Live at Main Square Festival</title>
