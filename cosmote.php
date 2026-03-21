@@ -78,8 +78,8 @@
     <title>Football: FC Barcelona - Newcastle United</title>
     <desc>Live: Tidak</desc>
 </programme>
-<programme start="20260321144500 +0700" stop="20260321151500 +0700" channel="COSMOTE Sport 2 HD">
-    <title>Sports Classics: Ultimate Rush S2 E20</title>
+<programme start="20260322163000 +0700" stop="20260322183000 +0700" channel="COSMOTE Sport 1 HD">
+    <title>Football: Liverpool FC - Galatasaray AS</title>
     <desc>Live: Tidak</desc>
 </programme>
 <programme start="20260321151500 +0700" stop="20260321171500 +0700" channel="COSMOTE Sport 2 HD">
@@ -302,10 +302,6 @@
     <title>Basketball: Washington Wizards - Oklahoma City Thunder</title>
     <desc>Live: Tidak</desc>
 </programme>
-<programme start="20260321144500 +0700" stop="20260321155000 +0700" channel="COSMOTE Sport 5 HD">
-    <title>Motorsports: Moto3 2026</title>
-    <desc>Live: Tidak</desc>
-</programme>
 <programme start="20260321155000 +0700" stop="20260321170000 +0700" channel="COSMOTE Sport 5 HD">
     <title>Motorsports: Moto2 2026</title>
     <desc>Live: Tidak</desc>
@@ -406,8 +402,8 @@
     <title>Motorsports: MotoGP 2026</title>
     <desc>Live: Tidak</desc>
 </programme>
-<programme start="20260321143000 +0700" stop="20260321153000 +0700" channel="COSMOTE Sport 6 HD">
-    <title>Topspin</title>
+<programme start="20260322163000 +0700" stop="20260322173000 +0700" channel="COSMOTE Sport 5 HD">
+    <title>Motorsports: MotoGP 2026</title>
     <desc>Live: Tidak</desc>
 </programme>
 <programme start="20260321153000 +0700" stop="20260321180000 +0700" channel="COSMOTE Sport 6 HD">
