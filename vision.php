@@ -460,9 +460,6 @@
 <programme start="20260321003000 +0000" stop="20260321011500 +0000" channel="Trans 7.vision">
 <title>Masjidku</title>
 </programme>
-<programme start="20260321030000 +0000" stop="20260321050000 +0000" channel="Trans 7.vision">
-<title>Laut Tengah</title>
-</programme>
 <programme start="20260321050000 +0000" stop="20260321070000 +0000" channel="Trans 7.vision">
 <title>Layangan Putus The Movie</title>
 </programme>
@@ -1496,5 +1493,8 @@
 <title>JTV</title>
 </programme>
 <programme start="20260321020000 +0000" stop="20260321040000 +0000" channel="JTV.vision">
+<title>JTV</title>
+</programme>
+<programme start="20260321040000 +0000" stop="20260321060000 +0000" channel="JTV.vision">
 <title>JTV</title>
 </programme>
