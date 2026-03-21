@@ -532,9 +532,6 @@
 <programme start="20260322110000 +0000" stop="20260322133000 +0000" channel="Trans 7.vision">
 <title>Suzzanna: Malam Jumat Kliwon</title>
 </programme>
-<programme start="20260321000000 +0000" stop="20260321003000 +0000" channel="ANTV.vision">
-<title>Shalat Ied (L)</title>
-</programme>
 <programme start="20260321003000 +0000" stop="20260321023000 +0000" channel="ANTV.vision">
 <title>Depan Bisa Belakang Bisa</title>
 </programme>
@@ -1497,4 +1494,7 @@
 </programme>
 <programme start="20260322100000 +0000" stop="20260322110000 +0000" channel="MDTV.vision">
 <title>Amigos X Siempre</title>
+</programme>
+<programme start="20260322110000 +0000" stop="20260322120000 +0000" channel="MDTV.vision">
+<title>Esmeralda</title>
 </programme>
