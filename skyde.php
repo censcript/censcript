@@ -2492,21 +2492,21 @@
     <title>Live Admiral BL: TSV Egger Glas Hartberg - FK Austria Wien, 24. Runde</title>
 </programme>
 <programme start="20260322194000 +0000" stop="20260322200000 +0000" channel="Sky Sport Austria 2 HD.skyde">
-    <title>Es folgt LIVE NHL</title>
+    <title>Es folgt: LIVE NHL</title>
 </programme>
-<programme start="20260322200000 +0000" stop="20260323090000 +0000" channel="Sky Sport Austria 2 HD.skyde">
+<programme start="20260322200000 +0000" stop="20260323000000 +0000" channel="Sky Sport Austria 2 HD.skyde">
     <title>Live NHL: Carolina Hurricanes @ Pittsburgh Penguins</title>
 </programme>
 <programme start="20260322113000 +0000" stop="20260322115000 +0000" channel="Sky Sport Austria 3 HD.skyde">
     <title>Es folgt: LIVE Premier League</title>
 </programme>
-<programme start="20260322115000 +0000" stop="20260322140000 +0000" channel="Sky Sport Austria 3 HD.skyde">
+<programme start="20260322115000 +0000" stop="20260322143000 +0000" channel="Sky Sport Austria 3 HD.skyde">
     <title>Live PL: Newcastle United - AFC Sunderland, 31. Spieltag</title>
 </programme>
 <programme start="20260322154000 +0000" stop="20260322160000 +0000" channel="Sky Sport Austria 3 HD.skyde">
     <title>WTA: Es folgt</title>
 </programme>
-<programme start="20260322160000 +0000" stop="20260323010000 +0000" channel="Sky Sport Austria 3 HD.skyde">
+<programme start="20260322160000 +0000" stop="20260323090000 +0000" channel="Sky Sport Austria 3 HD.skyde">
     <title>Live WTA 1000: Miami Open presented by Itaú in Miami, Florida (USA), 6. Tag</title>
 </programme>
 <programme start="20260321234500 +0000" stop="20260322004500 +0000" channel="Sky Sport Bundesliga HD.skyde">
@@ -2623,7 +2623,7 @@
 <programme start="20260322170000 +0000" stop="20260322183000 +0000" channel="Sky Sport Bundesliga 1 HD.skyde">
     <title>Live BL: Sky90 - Die Fußballdebatte</title>
 </programme>
-<programme start="20260322183000 +0000" stop="20260322191500 +0000" channel="Sky Sport Bundesliga 1 HD.skyde">
+<programme start="20260322183000 +0000" stop="20260322194500 +0000" channel="Sky Sport Bundesliga 1 HD.skyde">
     <title>Live BL: Highlights XXL: STP - SCF, 27. Spieltag</title>
 </programme>
 <programme start="20260322114000 +0000" stop="20260322120000 +0000" channel="Sky Sport Bundesliga 2 HD.skyde">
@@ -2659,7 +2659,7 @@
 <programme start="20260322114000 +0000" stop="20260322120000 +0000" channel="Sky Sport Bundesliga 5 HD.skyde">
     <title>Es folgt: Live 2. Bundesliga</title>
 </programme>
-<programme start="20260322120000 +0000" stop="20260322143000 +0000" channel="Sky Sport Bundesliga 5 HD.skyde">
+<programme start="20260322120000 +0000" stop="20260322150000 +0000" channel="Sky Sport Bundesliga 5 HD.skyde">
     <title>Live 2. BL: Multiview 27. Spieltag, Sonntag</title>
 </programme>
 <programme start="20260321230000 +0000" stop="20260322000000 +0000" channel="Sky Sport F1 HD.skyde">
@@ -3085,13 +3085,13 @@
 <programme start="20260322202500 +0000" stop="20260322204500 +0000" channel="Sky Sport 1 HD.skyde">
     <title>Es folgt: LIVE Basketball NBA</title>
 </programme>
-<programme start="20260322204500 +0000" stop="20260323090000 +0000" channel="Sky Sport 1 HD.skyde">
+<programme start="20260322204500 +0000" stop="20260323000000 +0000" channel="Sky Sport 1 HD.skyde">
     <title>Live NBA: Portland Trail Blazers @ Denver Nuggets</title>
 </programme>
 <programme start="20260322161000 +0000" stop="20260322163000 +0000" channel="Sky Sport 3 HD.skyde">
     <title>Es folgt LIVE NHL</title>
 </programme>
-<programme start="20260322163000 +0000" stop="20260322193000 +0000" channel="Sky Sport 3 HD.skyde">
+<programme start="20260322163000 +0000" stop="20260322213000 +0000" channel="Sky Sport 3 HD.skyde">
     <title>Live NHL: Colorado Avalanche @ Washington Capitals</title>
 </programme>
 <programme start="20260322154000 +0000" stop="20260322160000 +0000" channel="Sky Sport 4 HD.skyde">
@@ -3103,7 +3103,7 @@
 <programme start="20260322134500 +0000" stop="20260322140500 +0000" channel="Sky Sport 6 HD.skyde">
     <title>Es folgt: LIVE Premier League</title>
 </programme>
-<programme start="20260322140500 +0000" stop="20260322161500 +0000" channel="Sky Sport 6 HD.skyde">
+<programme start="20260322140500 +0000" stop="20260322164500 +0000" channel="Sky Sport 6 HD.skyde">
     <title>Live PL: Aston Villa - West Ham United, 31. Spieltag</title>
 </programme>
 <programme start="20260322134500 +0000" stop="20260322140500 +0000" channel="Sky Sport 7 HD.skyde">
@@ -3496,38 +3496,47 @@
 <programme start="20260322205500 +0000" stop="20260322232500 +0000" channel="Warner TV Film.skyde">
     <title>Nightmare Alley</title>
 </programme>
-<programme start="20260322005500 +0000" stop="20260322033500 +0000" channel="Warner TV Film HD.skyde">
-    <title>Transformers: Ära des Untergangs</title>
-</programme>
-<programme start="20260322033500 +0000" stop="20260322050000 +0000" channel="Warner TV Film HD.skyde">
-    <title>Police Academy 6 - Widerstand zwecklos</title>
-</programme>
-<programme start="20260322050000 +0000" stop="20260322070500 +0000" channel="Warner TV Film HD.skyde">
-    <title>Wenn das Blut kocht</title>
-</programme>
-<programme start="20260322070500 +0000" stop="20260322100000 +0000" channel="Warner TV Film HD.skyde">
-    <title>The Wolf of Wall Street</title>
-</programme>
-<programme start="20260322100000 +0000" stop="20260322115000 +0000" channel="Warner TV Film HD.skyde">
-    <title>Du sollst mein Glücksstern sein</title>
-</programme>
-<programme start="20260322115000 +0000" stop="20260322125500 +0000" channel="Warner TV Film HD.skyde">
-    <title>Der Wilde Westen: Die ersten 100 Jahre</title>
-</programme>
-<programme start="20260322125500 +0000" stop="20260322150000 +0000" channel="Warner TV Film HD.skyde">
-    <title>Superman II - Allein gegen alle</title>
-</programme>
-<programme start="20260322150000 +0000" stop="20260322173500 +0000" channel="Warner TV Film HD.skyde">
-    <title>Agenten sterben einsam</title>
-</programme>
-<programme start="20260322173500 +0000" stop="20260322191500 +0000" channel="Warner TV Film HD.skyde">
-    <title>A Quiet Place Part II</title>
-</programme>
-<programme start="20260322191500 +0000" stop="20260322205500 +0000" channel="Warner TV Film HD.skyde">
+<programme start="20260324231500 +0000" stop="20260325005500 +0000" channel="Warner TV Film HD.skyde">
     <title>Police Academy - Dümmer als die Polizei erlaubt</title>
 </programme>
-<programme start="20260322205500 +0000" stop="20260322232500 +0000" channel="Warner TV Film HD.skyde">
-    <title>Nightmare Alley</title>
+<programme start="20260325005500 +0000" stop="20260325022500 +0000" channel="Warner TV Film HD.skyde">
+    <title>Mortal Kombat 2 - Annihilation</title>
+</programme>
+<programme start="20260325022500 +0000" stop="20260325041000 +0000" channel="Warner TV Film HD.skyde">
+    <title>Meteor</title>
+</programme>
+<programme start="20260325041000 +0000" stop="20260325050000 +0000" channel="Warner TV Film HD.skyde">
+    <title>Lutz van der Horst - Der Filmtalker</title>
+</programme>
+<programme start="20260325050000 +0000" stop="20260325075500 +0000" channel="Warner TV Film HD.skyde">
+    <title>Braveheart</title>
+</programme>
+<programme start="20260325075500 +0000" stop="20260325093500 +0000" channel="Warner TV Film HD.skyde">
+    <title>Sister Act - Eine himmlische Karriere</title>
+</programme>
+<programme start="20260325093500 +0000" stop="20260325112500 +0000" channel="Warner TV Film HD.skyde">
+    <title>Sister Act 2 - In göttlicher Mission</title>
+</programme>
+<programme start="20260325112500 +0000" stop="20260325131500 +0000" channel="Warner TV Film HD.skyde">
+    <title>Meteor</title>
+</programme>
+<programme start="20260325131500 +0000" stop="20260325151000 +0000" channel="Warner TV Film HD.skyde">
+    <title>Bullitt</title>
+</programme>
+<programme start="20260325151000 +0000" stop="20260325172000 +0000" channel="Warner TV Film HD.skyde">
+    <title>Frankie und seine Spießgesellen</title>
+</programme>
+<programme start="20260325172000 +0000" stop="20260325191500 +0000" channel="Warner TV Film HD.skyde">
+    <title>Angel Heart</title>
+</programme>
+<programme start="20260325191500 +0000" stop="20260325213000 +0000" channel="Warner TV Film HD.skyde">
+    <title>Wall Street: Geld schläft nicht</title>
+</programme>
+<programme start="20260325213000 +0000" stop="20260325225500 +0000" channel="Warner TV Film HD.skyde">
+    <title>Nicht auflegen!</title>
+</programme>
+<programme start="20260325225500 +0000" stop="20260326005500 +0000" channel="Warner TV Film HD.skyde">
+    <title>Batman Forever</title>
 </programme>
 <programme start="20260322002000 +0000" stop="20260322015500 +0000" channel="Warner TV Serie HD.skyde">
     <title>Unstoppable: Außer Kontrolle</title>

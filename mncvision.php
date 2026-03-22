@@ -7810,60 +7810,7 @@
 <programme start="20260322161500 +0000" stop="20260322164500 +0000" channel="Rock Entertainment.mncvision">
     <title>Accident, Suicide... S6, Ep 2</title>
 </programme>
-<programme start="20260321173000 +0000" stop="20260321193000 +0000" channel="SCTV.mncvision">
-    <title>Premier League (L)</title>
-</programme>
-<programme start="20260321193000 +0000" stop="20260321210000 +0000" channel="SCTV.mncvision">
-    <title>Sinema Dini Hari</title>
-</programme>
-<programme start="20260321210000 +0000" stop="20260321213000 +0000" channel="SCTV.mncvision">
-    <title>Barakallah</title>
-</programme>
-<programme start="20260321213000 +0000" stop="20260321220000 +0000" channel="SCTV.mncvision">
-    <title>Buser</title>
-</programme>
-<programme start="20260321220000 +0000" stop="20260321230000 +0000" channel="SCTV.mncvision">
-    <title>Liputan 6 Pagi (L)</title>
-</programme>
-<programme start="20260321230000 +0000" stop="20260321233000 +0000" channel="SCTV.mncvision">
-    <title>Point Of View</title>
-</programme>
-<programme start="20260321233000 +0000" stop="20260322000000 +0000" channel="SCTV.mncvision">
-    <title>Halo Selebriti</title>
-</programme>
-<programme start="20260322000000 +0000" stop="20260322010000 +0000" channel="SCTV.mncvision">
-    <title>Tiba-Tiba Kuis Spesial Lebaran</title>
-</programme>
-<programme start="20260322010000 +0000" stop="20260322023000 +0000" channel="SCTV.mncvision">
-    <title>Rendang Cinta Vs Opor Ayam</title>
-</programme>
-<programme start="20260322023000 +0000" stop="20260322050000 +0000" channel="SCTV.mncvision">
-    <title>Dilan 1991 Extended</title>
-</programme>
-<programme start="20260322050000 +0000" stop="20260322053000 +0000" channel="SCTV.mncvision">
-    <title>Liputan 6 Siang (L)</title>
-</programme>
-<programme start="20260322053000 +0000" stop="20260322073000 +0000" channel="SCTV.mncvision">
-    <title>Azzamine</title>
-</programme>
-<programme start="20260322073000 +0000" stop="20260322100000 +0000" channel="SCTV.mncvision">
-    <title>1 Imam 2 Makmum</title>
-</programme>
-<programme start="20260322100000 +0000" stop="20260322111500 +0000" channel="SCTV.mncvision">
-    <title>Asmara Gen Z</title>
-</programme>
-<programme start="20260322111500 +0000" stop="20260322130000 +0000" channel="SCTV.mncvision">
-    <title>Istiqomah Cinta</title>
-</programme>
-<programme start="20260322130000 +0000" stop="20260322143000 +0000" channel="SCTV.mncvision">
-    <title>Beri Cinta Waktu</title>
-</programme>
-<programme start="20260322143000 +0000" stop="20260322160000 +0000" channel="SCTV.mncvision">
-    <title>Jejak Duka Diandra</title>
-</programme>
-<programme start="20260322160000 +0000" stop="20260322163000 +0000" channel="SCTV.mncvision">
-    <title>Yowis Ben 2</title>
-</programme>
+Error: Unable to fetch data. HTTP Status Code: 500
 <programme start="20260321173000 +0000" stop="20260321193000 +0000" channel="SCTV HD.mncvision">
     <title>Premier League (L)</title>
 </programme>
