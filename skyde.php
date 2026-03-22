@@ -1954,108 +1954,6 @@
 <programme start="20260322221500 +0000" stop="20260322231000 +0000" channel="Sky Crime HD.skyde">
     <title>Confronting a Serial Killer</title>
 </programme>
-<programme start="20260321231000 +0000" stop="20260321234000 +0000" channel="Sky Documentaries HD.skyde">
-    <title>Meine Geschichte</title>
-</programme>
-<programme start="20260321234000 +0000" stop="20260322001000 +0000" channel="Sky Documentaries HD.skyde">
-    <title>Meine Geschichte</title>
-</programme>
-<programme start="20260322001000 +0000" stop="20260322004000 +0000" channel="Sky Documentaries HD.skyde">
-    <title>Meine Geschichte</title>
-</programme>
-<programme start="20260322004000 +0000" stop="20260322010500 +0000" channel="Sky Documentaries HD.skyde">
-    <title>Meine Geschichte</title>
-</programme>
-<programme start="20260322010500 +0000" stop="20260322013500 +0000" channel="Sky Documentaries HD.skyde">
-    <title>Meine Geschichte</title>
-</programme>
-<programme start="20260322013500 +0000" stop="20260322020500 +0000" channel="Sky Documentaries HD.skyde">
-    <title>Meine Geschichte</title>
-</programme>
-<programme start="20260322020500 +0000" stop="20260322023000 +0000" channel="Sky Documentaries HD.skyde">
-    <title>Meine Geschichte</title>
-</programme>
-<programme start="20260322023000 +0000" stop="20260322030000 +0000" channel="Sky Documentaries HD.skyde">
-    <title>Meine Geschichte</title>
-</programme>
-<programme start="20260322030000 +0000" stop="20260322033000 +0000" channel="Sky Documentaries HD.skyde">
-    <title>Meine Geschichte</title>
-</programme>
-<programme start="20260322033000 +0000" stop="20260322042000 +0000" channel="Sky Documentaries HD.skyde">
-    <title>Meine Geschichte</title>
-</programme>
-<programme start="20260322042000 +0000" stop="20260322044500 +0000" channel="Sky Documentaries HD.skyde">
-    <title>Meine Geschichte</title>
-</programme>
-<programme start="20260322044500 +0000" stop="20260322051500 +0000" channel="Sky Documentaries HD.skyde">
-    <title>Meine Geschichte</title>
-</programme>
-<programme start="20260322051500 +0000" stop="20260322060500 +0000" channel="Sky Documentaries HD.skyde">
-    <title>Die Deutschen</title>
-</programme>
-<programme start="20260322060500 +0000" stop="20260322065500 +0000" channel="Sky Documentaries HD.skyde">
-    <title>Die Deutschen</title>
-</programme>
-<programme start="20260322065500 +0000" stop="20260322074000 +0000" channel="Sky Documentaries HD.skyde">
-    <title>Die Deutschen</title>
-</programme>
-<programme start="20260322074000 +0000" stop="20260322083000 +0000" channel="Sky Documentaries HD.skyde">
-    <title>Die Deutschen</title>
-</programme>
-<programme start="20260322083000 +0000" stop="20260322092000 +0000" channel="Sky Documentaries HD.skyde">
-    <title>Die Deutschen</title>
-</programme>
-<programme start="20260322092000 +0000" stop="20260322100500 +0000" channel="Sky Documentaries HD.skyde">
-    <title>Die Deutschen</title>
-</programme>
-<programme start="20260322100500 +0000" stop="20260322105500 +0000" channel="Sky Documentaries HD.skyde">
-    <title>Die Deutschen</title>
-</programme>
-<programme start="20260322105500 +0000" stop="20260322114500 +0000" channel="Sky Documentaries HD.skyde">
-    <title>Die Deutschen</title>
-</programme>
-<programme start="20260322114500 +0000" stop="20260322123500 +0000" channel="Sky Documentaries HD.skyde">
-    <title>Die Deutschen</title>
-</programme>
-<programme start="20260322123500 +0000" stop="20260322132000 +0000" channel="Sky Documentaries HD.skyde">
-    <title>Die Deutschen</title>
-</programme>
-<programme start="20260322132000 +0000" stop="20260322141000 +0000" channel="Sky Documentaries HD.skyde">
-    <title>Geheimwaffe auf See</title>
-</programme>
-<programme start="20260322141000 +0000" stop="20260322150000 +0000" channel="Sky Documentaries HD.skyde">
-    <title>Geheimwaffe auf See</title>
-</programme>
-<programme start="20260322150000 +0000" stop="20260322155000 +0000" channel="Sky Documentaries HD.skyde">
-    <title>Geheimwaffe auf See</title>
-</programme>
-<programme start="20260322155000 +0000" stop="20260322164000 +0000" channel="Sky Documentaries HD.skyde">
-    <title>Geheimwaffe auf See</title>
-</programme>
-<programme start="20260322164000 +0000" stop="20260322172500 +0000" channel="Sky Documentaries HD.skyde">
-    <title>In Seenot</title>
-</programme>
-<programme start="20260322172500 +0000" stop="20260322181500 +0000" channel="Sky Documentaries HD.skyde">
-    <title>In Seenot</title>
-</programme>
-<programme start="20260322181500 +0000" stop="20260322191000 +0000" channel="Sky Documentaries HD.skyde">
-    <title>In Seenot</title>
-</programme>
-<programme start="20260322191000 +0000" stop="20260322200000 +0000" channel="Sky Documentaries HD.skyde">
-    <title>In Seenot</title>
-</programme>
-<programme start="20260322200000 +0000" stop="20260322205500 +0000" channel="Sky Documentaries HD.skyde">
-    <title>Krise im Königshaus - Countdown zur Abdankung</title>
-</programme>
-<programme start="20260322205500 +0000" stop="20260322214500 +0000" channel="Sky Documentaries HD.skyde">
-    <title>Krise im Königshaus - Countdown zur Abdankung</title>
-</programme>
-<programme start="20260322214500 +0000" stop="20260322224500 +0000" channel="Sky Documentaries HD.skyde">
-    <title>Krise im Königshaus - Countdown zur Abdankung</title>
-</programme>
-<programme start="20260322224500 +0000" stop="20260323004500 +0000" channel="Sky Documentaries HD.skyde">
-    <title>50 Jahre Roland Kaiser - Ein Leben für die Musik</title>
-</programme>
 <programme start="20260321234500 +0000" stop="20260322003500 +0000" channel="Sky Krimi HD.skyde">
     <title>WaPo Berlin</title>
 </programme>
@@ -2488,13 +2386,13 @@
 <programme start="20260322124000 +0000" stop="20260322130000 +0000" channel="Sky Sport Austria 2 HD.skyde">
     <title>Es folgt Fußball: Österreich, Admiral Bundesliga</title>
 </programme>
-<programme start="20260322130000 +0000" stop="20260322161500 +0000" channel="Sky Sport Austria 2 HD.skyde">
+<programme start="20260322130000 +0000" stop="20260322154500 +0000" channel="Sky Sport Austria 2 HD.skyde">
     <title>Live Admiral BL: TSV Egger Glas Hartberg - FK Austria Wien, 24. Runde</title>
 </programme>
 <programme start="20260322194000 +0000" stop="20260322200000 +0000" channel="Sky Sport Austria 2 HD.skyde">
     <title>Es folgt LIVE NHL</title>
 </programme>
-<programme start="20260322200000 +0000" stop="20260323090000 +0000" channel="Sky Sport Austria 2 HD.skyde">
+<programme start="20260322200000 +0000" stop="20260322230000 +0000" channel="Sky Sport Austria 2 HD.skyde">
     <title>Live NHL: Carolina Hurricanes @ Pittsburgh Penguins</title>
 </programme>
 <programme start="20260322113000 +0000" stop="20260322115000 +0000" channel="Sky Sport Austria 3 HD.skyde">
@@ -2503,7 +2401,7 @@
 <programme start="20260322115000 +0000" stop="20260322143000 +0000" channel="Sky Sport Austria 3 HD.skyde">
     <title>Live PL: Newcastle United - AFC Sunderland, 31. Spieltag</title>
 </programme>
-<programme start="20260322143000 +0000" stop="20260322160000 +0000" channel="Sky Sport Austria 3 HD.skyde">
+<programme start="20260322154000 +0000" stop="20260322160000 +0000" channel="Sky Sport Austria 3 HD.skyde">
     <title>WTA: Es folgt</title>
 </programme>
 <programme start="20260322160000 +0000" stop="20260323090000 +0000" channel="Sky Sport Austria 3 HD.skyde">
@@ -2773,17 +2671,11 @@
 <programme start="20260322095500 +0000" stop="20260322120000 +0000" channel="Sky Sport Mix HD.skyde">
     <title>Live DFB-Pokal Junioren: VfL Wolfsburg - 1. FC Köln, Halbfinale 2</title>
 </programme>
-<programme start="20260322120000 +0000" stop="20260322121500 +0000" channel="Sky Sport Mix HD.skyde">
-    <title>NHL: Highlights TBL@EDM</title>
-</programme>
-<programme start="20260322121500 +0000" stop="20260322123000 +0000" channel="Sky Sport Mix HD.skyde">
-    <title>NHL: Highlights BOS@DET</title>
-</programme>
-<programme start="20260322123000 +0000" stop="20260322124500 +0000" channel="Sky Sport Mix HD.skyde">
-    <title>NHL: Highlights TOR@OTT</title>
-</programme>
-<programme start="20260322124500 +0000" stop="20260322133500 +0000" channel="Sky Sport Mix HD.skyde">
+<programme start="20260322120000 +0000" stop="20260322123500 +0000" channel="Sky Sport Mix HD.skyde">
     <title>NHL: On the Fly</title>
+</programme>
+<programme start="20260322123500 +0000" stop="20260322133500 +0000" channel="Sky Sport Mix HD.skyde">
+    <title>Live Moto2: 2. Freies Training - GP Brasilien</title>
 </programme>
 <programme start="20260322133500 +0000" stop="20260322143500 +0000" channel="Sky Sport Mix HD.skyde">
     <title>Live MotoGP: Warm Up - GP Brasilien</title>
@@ -2875,13 +2767,13 @@
 <programme start="20260322223000 +0000" stop="20260322230000 +0000" channel="Sky Sport News HD.skyde">
     <title>Sky Sport News: Nightline</title>
 </programme>
-<programme start="20260322002000 +0000" stop="20260322004000 +0000" channel="Sky Sport Premier League HD.skyde">
+<programme start="20260322002500 +0000" stop="20260322005000 +0000" channel="Sky Sport Premier League HD.skyde">
     <title>PL: Highlights Samstag, 31. Spieltag</title>
 </programme>
-<programme start="20260322004000 +0000" stop="20260322025000 +0000" channel="Sky Sport Premier League HD.skyde">
+<programme start="20260322005000 +0000" stop="20260322024500 +0000" channel="Sky Sport Premier League HD.skyde">
     <title>PL: Leeds United - FC Brentford, 31. Spieltag</title>
 </programme>
-<programme start="20260322025000 +0000" stop="20260322031000 +0000" channel="Sky Sport Premier League HD.skyde">
+<programme start="20260322024500 +0000" stop="20260322031000 +0000" channel="Sky Sport Premier League HD.skyde">
     <title>PL: Highlights Samstag, 31. Spieltag</title>
 </programme>
 <programme start="20260322031000 +0000" stop="20260322051000 +0000" channel="Sky Sport Premier League HD.skyde">
@@ -3001,22 +2893,22 @@
 <programme start="20260322030000 +0000" stop="20260322040000 +0000" channel="Sky Sport Tennis HD.skyde">
     <title>ATP 1000: Review Indian Wells</title>
 </programme>
-<programme start="20260322063000 +0000" stop="20260322072500 +0000" channel="Sky Sport Tennis HD.skyde">
+<programme start="20260322040000 +0000" stop="20260322060000 +0000" channel="Sky Sport Tennis HD.skyde">
     <title>WTA 1000: J. Pegula (USA) - F. Jones (GBR), Miami Open presented by Itaú in Miami, Florida (USA), 5. Tag</title>
 </programme>
-<programme start="20260322072500 +0000" stop="20260322084500 +0000" channel="Sky Sport Tennis HD.skyde">
+<programme start="20260322060000 +0000" stop="20260322080000 +0000" channel="Sky Sport Tennis HD.skyde">
     <title>ATP 1000: A. Zverev (GER) - M. Damm (USA), Miami Open presented by Itaú in Miami, Florida (USA), 5. Tag</title>
 </programme>
-<programme start="20260322084500 +0000" stop="20260322111500 +0000" channel="Sky Sport Tennis HD.skyde">
+<programme start="20260322080000 +0000" stop="20260322103000 +0000" channel="Sky Sport Tennis HD.skyde">
     <title>ATP 1000: J. Sinner (ITA) - D. Medvedev, BNP Paribas Open in Indian Wells, Kalifornien (USA), Finale</title>
 </programme>
-<programme start="20260322111500 +0000" stop="20260322114500 +0000" channel="Sky Sport Tennis HD.skyde">
+<programme start="20260322103000 +0000" stop="20260322110000 +0000" channel="Sky Sport Tennis HD.skyde">
     <title>WTA 1000: Review Indian Wells</title>
 </programme>
-<programme start="20260322114500 +0000" stop="20260322124500 +0000" channel="Sky Sport Tennis HD.skyde">
+<programme start="20260322110000 +0000" stop="20260322130000 +0000" channel="Sky Sport Tennis HD.skyde">
     <title>WTA 1000: J. Pegula (USA) - F. Jones (GBR), Miami Open presented by Itaú in Miami, Florida (USA), 5. Tag</title>
 </programme>
-<programme start="20260322124500 +0000" stop="20260322140000 +0000" channel="Sky Sport Tennis HD.skyde">
+<programme start="20260322130000 +0000" stop="20260322150000 +0000" channel="Sky Sport Tennis HD.skyde">
     <title>ATP 1000: A. Zverev (GER) - M. Damm (USA), Miami Open presented by Itaú in Miami, Florida (USA), 5. Tag</title>
 </programme>
 <programme start="20260322150000 +0000" stop="20260323030000 +0000" channel="Sky Sport Tennis HD.skyde">
@@ -3103,7 +2995,7 @@
 <programme start="20260322154000 +0000" stop="20260322160000 +0000" channel="Sky Sport 4 HD.skyde">
     <title>Es folgt: LIVE Tennis WTA Tour</title>
 </programme>
-<programme start="20260322160000 +0000" stop="20260323090000 +0000" channel="Sky Sport 4 HD.skyde">
+<programme start="20260322160000 +0000" stop="20260323010000 +0000" channel="Sky Sport 4 HD.skyde">
     <title>Live WTA 1000: Miami Open presented by Itaú in Miami, Florida (USA), 6. Tag</title>
 </programme>
 <programme start="20260322134500 +0000" stop="20260322140500 +0000" channel="Sky Sport 6 HD.skyde">
@@ -3115,7 +3007,7 @@
 <programme start="20260322134500 +0000" stop="20260322140500 +0000" channel="Sky Sport 7 HD.skyde">
     <title>Es folgt: LIVE Premier League</title>
 </programme>
-<programme start="20260322140500 +0000" stop="20260322161500 +0000" channel="Sky Sport 7 HD.skyde">
+<programme start="20260322140500 +0000" stop="20260322164500 +0000" channel="Sky Sport 7 HD.skyde">
     <title>Live PL: Tottenham Hotspur - Nottingham Forest, 31. Spieltag</title>
 </programme>
 <programme start="20260321230500 +0000" stop="20260321235000 +0000" channel="SYFY HD.skyde">
