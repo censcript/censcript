@@ -2608,10 +2608,10 @@
 <programme start="20260322114000 +0000" stop="20260322120000 +0000" channel="Sky Sport Bundesliga 1 HD.skyde">
     <title>Es folgt: Live 2. Bundesliga</title>
 </programme>
-<programme start="20260322120000 +0000" stop="20260322143000 +0000" channel="Sky Sport Bundesliga 1 HD.skyde">
+<programme start="20260322120000 +0000" stop="20260322143500 +0000" channel="Sky Sport Bundesliga 1 HD.skyde">
     <title>Live 2. BL: Sonntags-Konferenz, 27. Spieltag</title>
 </programme>
-<programme start="20260322143000 +0000" stop="20260322153000 +0000" channel="Sky Sport Bundesliga 1 HD.skyde">
+<programme start="20260322143500 +0000" stop="20260322153000 +0000" channel="Sky Sport Bundesliga 1 HD.skyde">
     <title>Live 2. BL Alle Spiele, alle Tore: Die Vodafone Highlight-Show, 27. Spieltag, Sonntag</title>
 </programme>
 <programme start="20260322153000 +0000" stop="20260322163000 +0000" channel="Sky Sport Bundesliga 1 HD.skyde">
@@ -2995,9 +2995,6 @@
 <programme start="20260322030000 +0000" stop="20260322040000 +0000" channel="Sky Sport Tennis HD.skyde">
     <title>ATP 1000: Review Indian Wells</title>
 </programme>
-<programme start="20260322040000 +0000" stop="20260322063000 +0000" channel="Sky Sport Tennis HD.skyde">
-    <title>ATP 1000: J. Sinner (ITA) - D. Medvedev, BNP Paribas Open in Indian Wells, Kalifornien (USA), Finale</title>
-</programme>
 <programme start="20260322063000 +0000" stop="20260322072500 +0000" channel="Sky Sport Tennis HD.skyde">
     <title>WTA 1000: J. Pegula (USA) - F. Jones (GBR), Miami Open presented by Itaú in Miami, Florida (USA), 5. Tag</title>
 </programme>
@@ -3015,9 +3012,6 @@
 </programme>
 <programme start="20260322124500 +0000" stop="20260322140000 +0000" channel="Sky Sport Tennis HD.skyde">
     <title>ATP 1000: A. Zverev (GER) - M. Damm (USA), Miami Open presented by Itaú in Miami, Florida (USA), 5. Tag</title>
-</programme>
-<programme start="20260322140000 +0000" stop="20260322150000 +0000" channel="Sky Sport Tennis HD.skyde">
-    <title>WTA 1000: J. Pegula (USA) - F. Jones (GBR), Miami Open presented by Itaú in Miami, Florida (USA), 5. Tag</title>
 </programme>
 <programme start="20260322150000 +0000" stop="20260323030000 +0000" channel="Sky Sport Tennis HD.skyde">
     <title>Live ATP &amp; WTA: Konferenz Miami Open presented by Itaú in Miami, Florida (USA), 6. Tag</title>
@@ -3070,10 +3064,10 @@
 <programme start="20260322112500 +0000" stop="20260322115000 +0000" channel="Sky Sport UHD.skyde">
     <title>Golf: Greatest Holes (7)</title>
 </programme>
-<programme start="20260322115000 +0000" stop="20260322140000 +0000" channel="Sky Sport UHD.skyde">
+<programme start="20260322115000 +0000" stop="20260322140500 +0000" channel="Sky Sport UHD.skyde">
     <title>Live PL: Newcastle United - AFC Sunderland, 31. Spieltag</title>
 </programme>
-<programme start="20260322140000 +0000" stop="20260322160000 +0000" channel="Sky Sport UHD.skyde">
+<programme start="20260322140500 +0000" stop="20260322160000 +0000" channel="Sky Sport UHD.skyde">
     <title>F1: Rennen - GP China</title>
 </programme>
 <programme start="20260322160000 +0000" stop="20260322180000 +0000" channel="Sky Sport UHD.skyde">
