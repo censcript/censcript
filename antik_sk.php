@@ -256,153 +256,6 @@
   <programme start="20260324224000 +0000" stop="20260324232300 +0000" channel="Dvojka.webtv.sk">
     <title lang="id">Prvá</title>
   </programme>
-  <programme start="20260323224900 +0000" stop="20260323234000 +0000" channel=":24.webtv.sk">
-    <title lang="id">Komentáre dňa</title>
-  </programme>
-  <programme start="20260323234000 +0000" stop="20260324003000 +0000" channel=":24.webtv.sk">
-    <title lang="id">Správy</title>
-  </programme>
-  <programme start="20260324003000 +0000" stop="20260324005500 +0000" channel=":24.webtv.sk">
-    <title lang="id">Svet :24</title>
-  </programme>
-  <programme start="20260324005500 +0000" stop="20260324012500 +0000" channel=":24.webtv.sk">
-    <title lang="id">Interview :24</title>
-  </programme>
-  <programme start="20260324012500 +0000" stop="20260324015000 +0000" channel=":24.webtv.sk">
-    <title lang="id">Z prvej ruky</title>
-  </programme>
-  <programme start="20260324015000 +0000" stop="20260324022000 +0000" channel=":24.webtv.sk">
-    <title lang="id">Ekonomika :24</title>
-  </programme>
-  <programme start="20260324022000 +0000" stop="20260324031000 +0000" channel=":24.webtv.sk">
-    <title lang="id">Správy</title>
-  </programme>
-  <programme start="20260324031000 +0000" stop="20260324032500 +0000" channel=":24.webtv.sk">
-    <title lang="id">Góly - body - sekundy</title>
-  </programme>
-  <programme start="20260324032500 +0000" stop="20260324033500 +0000" channel=":24.webtv.sk">
-    <title lang="id">Počasie</title>
-  </programme>
-  <programme start="20260324033500 +0000" stop="20260324040000 +0000" channel=":24.webtv.sk">
-    <title lang="id">Interview :24</title>
-  </programme>
-  <programme start="20260324040000 +0000" stop="20260324043000 +0000" channel=":24.webtv.sk">
-    <title lang="id">Svet :24</title>
-  </programme>
-  <programme start="20260324043000 +0000" stop="20260324052000 +0000" channel=":24.webtv.sk">
-    <title lang="id">Správy</title>
-  </programme>
-  <programme start="20260324052000 +0000" stop="20260324060000 +0000" channel=":24.webtv.sk">
-    <title lang="id">Ekonomika :24</title>
-  </programme>
-  <programme start="20260324060000 +0000" stop="20260324073000 +0000" channel=":24.webtv.sk">
-    <title lang="id">Ranné správy</title>
-  </programme>
-  <programme start="20260324073000 +0000" stop="20260324080000 +0000" channel=":24.webtv.sk">
-    <title lang="id">Interview :24</title>
-  </programme>
-  <programme start="20260324080000 +0000" stop="20260324081000 +0000" channel=":24.webtv.sk">
-    <title lang="id">Správy :24</title>
-  </programme>
-  <programme start="20260324081000 +0000" stop="20260324090000 +0000" channel=":24.webtv.sk">
-    <title lang="id">Komentáre dňa</title>
-  </programme>
-  <programme start="20260324090000 +0000" stop="20260324093000 +0000" channel=":24.webtv.sk">
-    <title lang="id">Správy :24</title>
-  </programme>
-  <programme start="20260324093000 +0000" stop="20260324100000 +0000" channel=":24.webtv.sk">
-    <title lang="id">Správy :24</title>
-  </programme>
-  <programme start="20260324100000 +0000" stop="20260324103000 +0000" channel=":24.webtv.sk">
-    <title lang="id">Správy :24</title>
-  </programme>
-  <programme start="20260324103000 +0000" stop="20260324110000 +0000" channel=":24.webtv.sk">
-    <title lang="id">Ekonomika :24</title>
-  </programme>
-  <programme start="20260324110000 +0000" stop="20260324113000 +0000" channel=":24.webtv.sk">
-    <title lang="id">Správy</title>
-  </programme>
-  <programme start="20260324113000 +0000" stop="20260324120000 +0000" channel=":24.webtv.sk">
-    <title lang="id">Z prvej ruky</title>
-  </programme>
-  <programme start="20260324120000 +0000" stop="20260324123000 +0000" channel=":24.webtv.sk">
-    <title lang="id">Aktuálne :24</title>
-  </programme>
-  <programme start="20260324123000 +0000" stop="20260324130000 +0000" channel=":24.webtv.sk">
-    <title lang="id">Aktuálne :24</title>
-  </programme>
-  <programme start="20260324130000 +0000" stop="20260324133000 +0000" channel=":24.webtv.sk">
-    <title lang="id">Aktuálne :24</title>
-  </programme>
-  <programme start="20260324133000 +0000" stop="20260324140000 +0000" channel=":24.webtv.sk">
-    <title lang="id">Archív :24</title>
-  </programme>
-  <programme start="20260324140000 +0000" stop="20260324143000 +0000" channel=":24.webtv.sk">
-    <title lang="id">Aktuálne :24</title>
-  </programme>
-  <programme start="20260324143000 +0000" stop="20260324150000 +0000" channel=":24.webtv.sk">
-    <title lang="id">Aktuálne :24</title>
-  </programme>
-  <programme start="20260324150000 +0000" stop="20260324153000 +0000" channel=":24.webtv.sk">
-    <title lang="id">Správy</title>
-  </programme>
-  <programme start="20260324153000 +0000" stop="20260324160000 +0000" channel=":24.webtv.sk">
-    <title lang="id">Ekonomika :24</title>
-  </programme>
-  <programme start="20260324160000 +0000" stop="20260324163000 +0000" channel=":24.webtv.sk">
-    <title lang="id">Svet :24</title>
-  </programme>
-  <programme start="20260324163000 +0000" stop="20260324170000 +0000" channel=":24.webtv.sk">
-    <title lang="id">Správy z regiónov</title>
-  </programme>
-  <programme start="20260324170000 +0000" stop="20260324172500 +0000" channel=":24.webtv.sk">
-    <title lang="id">Interview :24</title>
-  </programme>
-  <programme start="20260324172500 +0000" stop="20260324175000 +0000" channel=":24.webtv.sk">
-    <title lang="id">Ekonomika :24</title>
-  </programme>
-  <programme start="20260324175000 +0000" stop="20260324180000 +0000" channel=":24.webtv.sk">
-    <title lang="id">Počasie</title>
-  </programme>
-  <programme start="20260324180000 +0000" stop="20260324185000 +0000" channel=":24.webtv.sk">
-    <title lang="id">Správy</title>
-  </programme>
-  <programme start="20260324185000 +0000" stop="20260324191000 +0000" channel=":24.webtv.sk">
-    <title lang="id">Góly - body - sekundy</title>
-  </programme>
-  <programme start="20260324191000 +0000" stop="20260324192000 +0000" channel=":24.webtv.sk">
-    <title lang="id">Počasie</title>
-  </programme>
-  <programme start="20260324192000 +0000" stop="20260324200500 +0000" channel=":24.webtv.sk">
-    <title lang="id">Komentáre dňa</title>
-  </programme>
-  <programme start="20260324200500 +0000" stop="20260324203000 +0000" channel=":24.webtv.sk">
-    <title lang="id">Reportéri</title>
-  </programme>
-  <programme start="20260324203000 +0000" stop="20260324210000 +0000" channel=":24.webtv.sk">
-    <title lang="id">Cez lupu</title>
-  </programme>
-  <programme start="20260324210000 +0000" stop="20260324212000 +0000" channel=":24.webtv.sk">
-    <title lang="id">Správy :24</title>
-  </programme>
-  <programme start="20260324212000 +0000" stop="20260324213000 +0000" channel=":24.webtv.sk">
-    <title lang="id">Hírek</title>
-  </programme>
-  <programme start="20260324213000 +0000" stop="20260324215500 +0000" channel=":24.webtv.sk">
-    <title lang="id">Ekonomika :24</title>
-  </programme>
-  <programme start="20260324215500 +0000" stop="20260324222000 +0000" channel=":24.webtv.sk">
-    <title lang="id">Svet :24</title>
-  </programme>
-  <programme start="20260324222000 +0000" stop="20260324224500 +0000" channel=":24.webtv.sk">
-    <title lang="id">Správy :24</title>
-  </programme>
-  <programme start="20260324224500 +0000" stop="20260324224900 +0000" channel=":24.webtv.sk">
-    <title lang="id">Hymna SR</title>
-  </programme>
-  <programme start="20260324224900 +0000" stop="20260324233500 +0000" channel=":24.webtv.sk">
-    <title lang="id">Komentáre dňa</title>
-  </programme>
   <programme start="20260323212500 +0000" stop="20260323232500 +0000" channel=":Šport.webtv.sk">
     <title lang="id">Atletika - Halové MS 2026</title>
   </programme>
@@ -7050,78 +6903,6 @@
   </programme>
   <programme start="20260324225000 +0000" stop="20260324230000 +0000" channel="Doktor TV.webtv.sk">
     <title lang="id">Diagnóza</title>
-  </programme>
-  <programme start="20260323230000 +0000" stop="20260324000000 +0000" channel="PARK TV.webtv.sk">
-    <title lang="id">RELAX S PARK TV</title>
-  </programme>
-  <programme start="20260324000000 +0000" stop="20260324010000 +0000" channel="PARK TV.webtv.sk">
-    <title lang="id">RELAX S PARK TV</title>
-  </programme>
-  <programme start="20260324010000 +0000" stop="20260324020000 +0000" channel="PARK TV.webtv.sk">
-    <title lang="id">RELAX S PARK TV</title>
-  </programme>
-  <programme start="20260324020000 +0000" stop="20260324030000 +0000" channel="PARK TV.webtv.sk">
-    <title lang="id">RELAX S PARK TV</title>
-  </programme>
-  <programme start="20260324030000 +0000" stop="20260324040000 +0000" channel="PARK TV.webtv.sk">
-    <title lang="id">RELAX S PARK TV</title>
-  </programme>
-  <programme start="20260324040000 +0000" stop="20260324050000 +0000" channel="PARK TV.webtv.sk">
-    <title lang="id">RELAX S PARK TV</title>
-  </programme>
-  <programme start="20260324050000 +0000" stop="20260324060000 +0000" channel="PARK TV.webtv.sk">
-    <title lang="id">RELAX S PARK TV</title>
-  </programme>
-  <programme start="20260324060000 +0000" stop="20260324070000 +0000" channel="PARK TV.webtv.sk">
-    <title lang="id">RELAX S PARK TV</title>
-  </programme>
-  <programme start="20260324070000 +0000" stop="20260324080000 +0000" channel="PARK TV.webtv.sk">
-    <title lang="id">Divočina s Park TV</title>
-  </programme>
-  <programme start="20260324080000 +0000" stop="20260324090000 +0000" channel="PARK TV.webtv.sk">
-    <title lang="id">Divočina s Park TV</title>
-  </programme>
-  <programme start="20260324090000 +0000" stop="20260324100000 +0000" channel="PARK TV.webtv.sk">
-    <title lang="id">Zvieratá pod drobnohľadom</title>
-  </programme>
-  <programme start="20260324100000 +0000" stop="20260324110000 +0000" channel="PARK TV.webtv.sk">
-    <title lang="id">Zvieratá pod drobnohľadom</title>
-  </programme>
-  <programme start="20260324110000 +0000" stop="20260324120000 +0000" channel="PARK TV.webtv.sk">
-    <title lang="id">Každodenný život zvierat</title>
-  </programme>
-  <programme start="20260324120000 +0000" stop="20260324130000 +0000" channel="PARK TV.webtv.sk">
-    <title lang="id">Každodenný život zvierat</title>
-  </programme>
-  <programme start="20260324130000 +0000" stop="20260324140000 +0000" channel="PARK TV.webtv.sk">
-    <title lang="id">Zvieratá v pohybe</title>
-  </programme>
-  <programme start="20260324140000 +0000" stop="20260324150000 +0000" channel="PARK TV.webtv.sk">
-    <title lang="id">Zvieratá v pohybe</title>
-  </programme>
-  <programme start="20260324150000 +0000" stop="20260324160000 +0000" channel="PARK TV.webtv.sk">
-    <title lang="id">Zvieratá v pohybe</title>
-  </programme>
-  <programme start="20260324160000 +0000" stop="20260324170000 +0000" channel="PARK TV.webtv.sk">
-    <title lang="id">Všedný a nevšedný život zvierat</title>
-  </programme>
-  <programme start="20260324170000 +0000" stop="20260324180000 +0000" channel="PARK TV.webtv.sk">
-    <title lang="id">Všedný a nevšedný život zvierat</title>
-  </programme>
-  <programme start="20260324180000 +0000" stop="20260324190000 +0000" channel="PARK TV.webtv.sk">
-    <title lang="id">Všedný a nevšedný život zvierat</title>
-  </programme>
-  <programme start="20260324190000 +0000" stop="20260324200000 +0000" channel="PARK TV.webtv.sk">
-    <title lang="id">Neobyčajný svet zvierat</title>
-  </programme>
-  <programme start="20260324200000 +0000" stop="20260324210000 +0000" channel="PARK TV.webtv.sk">
-    <title lang="id">Neobyčajný svet zvierat</title>
-  </programme>
-  <programme start="20260324210000 +0000" stop="20260324220000 +0000" channel="PARK TV.webtv.sk">
-    <title lang="id">Neobyčajný svet zvierat</title>
-  </programme>
-  <programme start="20260324220000 +0000" stop="20260324230000 +0000" channel="PARK TV.webtv.sk">
-    <title lang="id">RELAX S PARK TV</title>
   </programme>
   <programme start="20260323230000 +0000" stop="20260323230500 +0000" channel="English Club TV.webtv.sk">
     <title lang="id">Wrong&amp;right (69)</title>
@@ -15313,6 +15094,78 @@
   <programme start="20260324223500 +0000" stop="20260324230000 +0000" channel="TV Zemplín.webtv.sk">
     <title lang="id">Dnes bez lopty - Adam Jakubech</title>
   </programme>
+  <programme start="20260323230000 +0000" stop="20260324000000 +0000" channel="TV Poprad.webtv.sk">
+    <title lang="id">Aktuality regiónu</title>
+  </programme>
+  <programme start="20260324000000 +0000" stop="20260324010000 +0000" channel="TV Poprad.webtv.sk">
+    <title lang="id">Aktuality regiónu</title>
+  </programme>
+  <programme start="20260324010000 +0000" stop="20260324020000 +0000" channel="TV Poprad.webtv.sk">
+    <title lang="id">Aktuality regiónu</title>
+  </programme>
+  <programme start="20260324020000 +0000" stop="20260324030000 +0000" channel="TV Poprad.webtv.sk">
+    <title lang="id">Aktuality regiónu</title>
+  </programme>
+  <programme start="20260324030000 +0000" stop="20260324040000 +0000" channel="TV Poprad.webtv.sk">
+    <title lang="id">Aktuality regiónu</title>
+  </programme>
+  <programme start="20260324040000 +0000" stop="20260324050000 +0000" channel="TV Poprad.webtv.sk">
+    <title lang="id">Aktuality regiónu</title>
+  </programme>
+  <programme start="20260324050000 +0000" stop="20260324060000 +0000" channel="TV Poprad.webtv.sk">
+    <title lang="id">Aktuality regiónu</title>
+  </programme>
+  <programme start="20260324060000 +0000" stop="20260324070000 +0000" channel="TV Poprad.webtv.sk">
+    <title lang="id">Aktuality regiónu</title>
+  </programme>
+  <programme start="20260324070000 +0000" stop="20260324080000 +0000" channel="TV Poprad.webtv.sk">
+    <title lang="id">Aktuality regiónu</title>
+  </programme>
+  <programme start="20260324080000 +0000" stop="20260324090000 +0000" channel="TV Poprad.webtv.sk">
+    <title lang="id">Aktuality regiónu</title>
+  </programme>
+  <programme start="20260324090000 +0000" stop="20260324100000 +0000" channel="TV Poprad.webtv.sk">
+    <title lang="id">Aktuality regiónu</title>
+  </programme>
+  <programme start="20260324100000 +0000" stop="20260324110000 +0000" channel="TV Poprad.webtv.sk">
+    <title lang="id">Aktuality regiónu</title>
+  </programme>
+  <programme start="20260324110000 +0000" stop="20260324120000 +0000" channel="TV Poprad.webtv.sk">
+    <title lang="id">Aktuality regiónu</title>
+  </programme>
+  <programme start="20260324120000 +0000" stop="20260324130000 +0000" channel="TV Poprad.webtv.sk">
+    <title lang="id">Aktuality regiónu</title>
+  </programme>
+  <programme start="20260324130000 +0000" stop="20260324140000 +0000" channel="TV Poprad.webtv.sk">
+    <title lang="id">Aktuality regiónu</title>
+  </programme>
+  <programme start="20260324140000 +0000" stop="20260324150000 +0000" channel="TV Poprad.webtv.sk">
+    <title lang="id">Aktuality regiónu</title>
+  </programme>
+  <programme start="20260324150000 +0000" stop="20260324160000 +0000" channel="TV Poprad.webtv.sk">
+    <title lang="id">Aktuality regiónu</title>
+  </programme>
+  <programme start="20260324160000 +0000" stop="20260324170000 +0000" channel="TV Poprad.webtv.sk">
+    <title lang="id">Aktuality regiónu</title>
+  </programme>
+  <programme start="20260324170000 +0000" stop="20260324180000 +0000" channel="TV Poprad.webtv.sk">
+    <title lang="id">Aktuality regiónu</title>
+  </programme>
+  <programme start="20260324180000 +0000" stop="20260324190000 +0000" channel="TV Poprad.webtv.sk">
+    <title lang="id">Aktuality regiónu</title>
+  </programme>
+  <programme start="20260324190000 +0000" stop="20260324200000 +0000" channel="TV Poprad.webtv.sk">
+    <title lang="id">Aktuality regiónu</title>
+  </programme>
+  <programme start="20260324200000 +0000" stop="20260324210000 +0000" channel="TV Poprad.webtv.sk">
+    <title lang="id">Aktuality regiónu</title>
+  </programme>
+  <programme start="20260324210000 +0000" stop="20260324220000 +0000" channel="TV Poprad.webtv.sk">
+    <title lang="id">Aktuality regiónu</title>
+  </programme>
+  <programme start="20260324220000 +0000" stop="20260324230000 +0000" channel="TV Poprad.webtv.sk">
+    <title lang="id">Aktuality regiónu</title>
+  </programme>
   <programme start="20260323230000 +0000" stop="20260323233000 +0000" channel="TV Považie.webtv.sk">
     <title lang="id">Noviny</title>
   </programme>
@@ -19338,114 +19191,6 @@
   </programme>
   <programme start="20260324223000 +0000" stop="20260324230000 +0000" channel="CGTN.webtv.sk">
     <title lang="id">Rediscovering China</title>
-  </programme>
-  <programme start="20260323230000 +0000" stop="20260323233000 +0000" channel="CGTN Documentary.webtv.sk">
-    <title lang="id">Lancang-Mekong: The River That Flows South (2)</title>
-  </programme>
-  <programme start="20260323233000 +0000" stop="20260324000000 +0000" channel="CGTN Documentary.webtv.sk">
-    <title lang="id">Shen Kuo (2)</title>
-  </programme>
-  <programme start="20260324000000 +0000" stop="20260324010000 +0000" channel="CGTN Documentary.webtv.sk">
-    <title lang="id">From Farm to Table (China-France Season) 3/4</title>
-  </programme>
-  <programme start="20260324010000 +0000" stop="20260324013000 +0000" channel="CGTN Documentary.webtv.sk">
-    <title lang="id">Stretching the Limits V (10)</title>
-  </programme>
-  <programme start="20260324013000 +0000" stop="20260324020000 +0000" channel="CGTN Documentary.webtv.sk">
-    <title lang="id">Flowers of Yunnan (2)</title>
-  </programme>
-  <programme start="20260324020000 +0000" stop="20260324030000 +0000" channel="CGTN Documentary.webtv.sk">
-    <title lang="id">Neighbors and Brothers (2)</title>
-  </programme>
-  <programme start="20260324030000 +0000" stop="20260324033000 +0000" channel="CGTN Documentary.webtv.sk">
-    <title lang="id">The Grand Canal (2)</title>
-  </programme>
-  <programme start="20260324033000 +0000" stop="20260324040000 +0000" channel="CGTN Documentary.webtv.sk">
-    <title lang="id">Catching A Wave (1)</title>
-  </programme>
-  <programme start="20260324040000 +0000" stop="20260324050000 +0000" channel="CGTN Documentary.webtv.sk">
-    <title lang="id">The Chu-Han Contention (1)</title>
-  </programme>
-  <programme start="20260324050000 +0000" stop="20260324053000 +0000" channel="CGTN Documentary.webtv.sk">
-    <title lang="id">Lancang-Mekong: The River That Flows South (2)</title>
-  </programme>
-  <programme start="20260324053000 +0000" stop="20260324060000 +0000" channel="CGTN Documentary.webtv.sk">
-    <title lang="id">Shen Kuo (2)</title>
-  </programme>
-  <programme start="20260324060000 +0000" stop="20260324070000 +0000" channel="CGTN Documentary.webtv.sk">
-    <title lang="id">From Farm to Table (China-France Season) 3/4</title>
-  </programme>
-  <programme start="20260324070000 +0000" stop="20260324073000 +0000" channel="CGTN Documentary.webtv.sk">
-    <title lang="id">Stretching the Limits V (10)</title>
-  </programme>
-  <programme start="20260324073000 +0000" stop="20260324080000 +0000" channel="CGTN Documentary.webtv.sk">
-    <title lang="id">Flowers of Yunnan (2)</title>
-  </programme>
-  <programme start="20260324080000 +0000" stop="20260324090000 +0000" channel="CGTN Documentary.webtv.sk">
-    <title lang="id">Neighbors and Brothers (2)</title>
-  </programme>
-  <programme start="20260324090000 +0000" stop="20260324093000 +0000" channel="CGTN Documentary.webtv.sk">
-    <title lang="id">The Grand Canal (2)</title>
-  </programme>
-  <programme start="20260324093000 +0000" stop="20260324100000 +0000" channel="CGTN Documentary.webtv.sk">
-    <title lang="id">Catching A Wave (1)</title>
-  </programme>
-  <programme start="20260324100000 +0000" stop="20260324110000 +0000" channel="CGTN Documentary.webtv.sk">
-    <title lang="id">The Chu-Han Contention (1)</title>
-  </programme>
-  <programme start="20260324110000 +0000" stop="20260324113000 +0000" channel="CGTN Documentary.webtv.sk">
-    <title lang="id">Lancang-Mekong: The River That Flows South (2)</title>
-  </programme>
-  <programme start="20260324113000 +0000" stop="20260324120000 +0000" channel="CGTN Documentary.webtv.sk">
-    <title lang="id">Shen Kuo (2)</title>
-  </programme>
-  <programme start="20260324120000 +0000" stop="20260324130000 +0000" channel="CGTN Documentary.webtv.sk">
-    <title lang="id">From Farm to Table (China-France Season) 3/4</title>
-  </programme>
-  <programme start="20260324130000 +0000" stop="20260324133000 +0000" channel="CGTN Documentary.webtv.sk">
-    <title lang="id">Stretching the Limits V (10)</title>
-  </programme>
-  <programme start="20260324133000 +0000" stop="20260324140000 +0000" channel="CGTN Documentary.webtv.sk">
-    <title lang="id">Flowers of Yunnan (2)</title>
-  </programme>
-  <programme start="20260324140000 +0000" stop="20260324150000 +0000" channel="CGTN Documentary.webtv.sk">
-    <title lang="id">Neighbors and Brothers (2)</title>
-  </programme>
-  <programme start="20260324150000 +0000" stop="20260324153000 +0000" channel="CGTN Documentary.webtv.sk">
-    <title lang="id">The Grand Canal (2)</title>
-  </programme>
-  <programme start="20260324153000 +0000" stop="20260324160000 +0000" channel="CGTN Documentary.webtv.sk">
-    <title lang="id">Catching A Wave (1)</title>
-  </programme>
-  <programme start="20260324160000 +0000" stop="20260324170000 +0000" channel="CGTN Documentary.webtv.sk">
-    <title lang="id">The Chu-Han Contention (1)</title>
-  </programme>
-  <programme start="20260324170000 +0000" stop="20260324173000 +0000" channel="CGTN Documentary.webtv.sk">
-    <title lang="id">Lancang-Mekong: The River That Flows South (2)</title>
-  </programme>
-  <programme start="20260324173000 +0000" stop="20260324180000 +0000" channel="CGTN Documentary.webtv.sk">
-    <title lang="id">Shen Kuo (2)</title>
-  </programme>
-  <programme start="20260324180000 +0000" stop="20260324190000 +0000" channel="CGTN Documentary.webtv.sk">
-    <title lang="id">From Farm to Table (China-France Season) 3/4</title>
-  </programme>
-  <programme start="20260324190000 +0000" stop="20260324193000 +0000" channel="CGTN Documentary.webtv.sk">
-    <title lang="id">Stretching the Limits V (10)</title>
-  </programme>
-  <programme start="20260324193000 +0000" stop="20260324200000 +0000" channel="CGTN Documentary.webtv.sk">
-    <title lang="id">Flowers of Yunnan (2)</title>
-  </programme>
-  <programme start="20260324200000 +0000" stop="20260324210000 +0000" channel="CGTN Documentary.webtv.sk">
-    <title lang="id">Chengziya Site (1)</title>
-  </programme>
-  <programme start="20260324210000 +0000" stop="20260324213000 +0000" channel="CGTN Documentary.webtv.sk">
-    <title lang="id">The Grand Canal (3)</title>
-  </programme>
-  <programme start="20260324213000 +0000" stop="20260324220000 +0000" channel="CGTN Documentary.webtv.sk">
-    <title lang="id">Catching A Wave (2)</title>
-  </programme>
-  <programme start="20260324220000 +0000" stop="20260324230000 +0000" channel="CGTN Documentary.webtv.sk">
-    <title lang="id">The Chu-Han Contention (2)</title>
   </programme>
   <programme start="20260323215000 +0000" stop="20260324050000 +0000" channel="Óčko.webtv.sk">
     <title lang="id">ÓČKO FLIRT</title>

@@ -106,6 +106,10 @@
     <title>Football: AEK - Kifisia</title>
     <desc>Live: Tidak</desc>
 </programme>
+<programme start="20260324023000 +0700" stop="20260324043000 +0700" channel="COSMOTE Sport 2 HD">
+    <title>Football: AS Roma - Lecce</title>
+    <desc>Live: Tidak</desc>
+</programme>
 <programme start="20260323000000 +0700" stop="20260323021000 +0700" channel="COSMOTE Sport 3 HD">
     <title>Football: Volos NPS - PAOK (L)</title>
     <desc>Live: Ya</desc>
@@ -226,6 +230,10 @@
     <title>Basketball: Barcelona - Real Madrid</title>
     <desc>Live: Tidak</desc>
 </programme>
+<programme start="20260324023000 +0700" stop="20260324050000 +0700" channel="COSMOTE Sport 4 HD">
+    <title>Basketball: Denver Nuggets - Portland Trail Blazers</title>
+    <desc>Live: Tidak</desc>
+</programme>
 <programme start="20260323003000 +0700" stop="20260323022000 +0700" channel="COSMOTE Sport 5 HD">
     <title>Motorsports: MotoGP 2026 (L)</title>
     <desc>Live: Ya</desc>
@@ -318,6 +326,10 @@
     <title>Motorsports: MotoGP 2026</title>
     <desc>Live: Tidak</desc>
 </programme>
+<programme start="20260324020000 +0700" stop="20260324031500 +0700" channel="COSMOTE Sport 5 HD">
+    <title>2026 Grand Prix Show (L)</title>
+    <desc>Live: Ya</desc>
+</programme>
 <programme start="20260322220000 +0700" stop="20260323023000 +0700" channel="COSMOTE Sport 6 HD">
     <title>Tennis: ATP Masters 1000 2026 (L)</title>
     <desc>Live: Ya</desc>
@@ -377,6 +389,10 @@
 <programme start="20260324010000 +0700" stop="20260324020000 +0700" channel="COSMOTE Sport 6 HD">
     <title>Topspin</title>
     <desc>Live: Tidak</desc>
+</programme>
+<programme start="20260324020000 +0700" stop="20260324053000 +0700" channel="COSMOTE Sport 6 HD">
+    <title>Tennis: ATP Masters 1000 2026 (L)</title>
+    <desc>Live: Ya</desc>
 </programme>
 <programme start="20260323000000 +0700" stop="20260323021000 +0700" channel="COSMOTE Sport 7 HD">
     <title>Football: Panetolikos - Panserraikos (L)</title>
@@ -446,6 +462,14 @@
     <title>Tennis: ATP Masters 1000 2026 (L)</title>
     <desc>Live: Ya</desc>
 </programme>
+<programme start="20260324020000 +0700" stop="20260324023000 +0700" channel="COSMOTE Sport 7 HD">
+    <title>COSMOTESport7HD</title>
+    <desc>Live: Tidak</desc>
+</programme>
+<programme start="20260324023000 +0700" stop="20260324030000 +0700" channel="COSMOTE Sport 7 HD">
+    <title>COSMOTESport7HD</title>
+    <desc>Live: Tidak</desc>
+</programme>
 <programme start="20260323010000 +0700" stop="20260323030000 +0700" channel="COSMOTE Sport 8 HD">
     <title>Basketball: Barcelona - Real Madrid (L)</title>
     <desc>Live: Ya</desc>
@@ -505,10 +529,6 @@
 <programme start="20260324010000 +0700" stop="20260324030000 +0700" channel="COSMOTE Sport 8 HD">
     <title>COSMOTESport8HD</title>
     <desc>Live: Tidak</desc>
-</programme>
-<programme start="20260323000000 +0700" stop="20260323020000 +0700" channel="COSMOTE Sport 9 HD">
-    <title>Football: AS Roma - Lecce (L)</title>
-    <desc>Live: Ya</desc>
 </programme>
 <programme start="20260323020000 +0700" stop="20260323023000 +0700" channel="COSMOTE Sport 9 HD">
     <title>COSMOTESport9HD</title>
