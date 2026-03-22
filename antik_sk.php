@@ -4312,90 +4312,6 @@
   <programme start="20260324220500 +0000" stop="20260324231000 +0000" channel="Prima Cool SK.webtv.sk">
     <title lang="id">Top Gear X (5)</title>
   </programme>
-  <programme start="20260323221500 +0000" stop="20260323231500 +0000" channel="Prima Love SK.webtv.sk">
-    <title lang="id">Velmi křehké vztahy III (33)</title>
-  </programme>
-  <programme start="20260323231500 +0000" stop="20260324001000 +0000" channel="Prima Love SK.webtv.sk">
-    <title lang="id">Velmi křehké vztahy III (34)</title>
-  </programme>
-  <programme start="20260324001000 +0000" stop="20260324010000 +0000" channel="Prima Love SK.webtv.sk">
-    <title lang="id">Vůně jahod (55)</title>
-  </programme>
-  <programme start="20260324010000 +0000" stop="20260324014500 +0000" channel="Prima Love SK.webtv.sk">
-    <title lang="id">Dvojí tvář lásky I (1)</title>
-  </programme>
-  <programme start="20260324014500 +0000" stop="20260324023000 +0000" channel="Prima Love SK.webtv.sk">
-    <title lang="id">Doktor z hor: Nové příběhy VIII (1)</title>
-  </programme>
-  <programme start="20260324023000 +0000" stop="20260324031500 +0000" channel="Prima Love SK.webtv.sk">
-    <title lang="id">Doktor z hor: Nové příběhy VIII (2)</title>
-  </programme>
-  <programme start="20260324031500 +0000" stop="20260324035500 +0000" channel="Prima Love SK.webtv.sk">
-    <title lang="id">Prostřeno!</title>
-  </programme>
-  <programme start="20260324035500 +0000" stop="20260324041000 +0000" channel="Prima Love SK.webtv.sk">
-    <title lang="id">Jak se staví sen</title>
-  </programme>
-  <programme start="20260324041000 +0000" stop="20260324043500 +0000" channel="Prima Love SK.webtv.sk">
-    <title lang="id">Relaxační podívaná</title>
-  </programme>
-  <programme start="20260324043500 +0000" stop="20260324050000 +0000" channel="Prima Love SK.webtv.sk">
-    <title lang="id">Vysielacia prestávka</title>
-  </programme>
-  <programme start="20260324050000 +0000" stop="20260324053000 +0000" channel="Prima Love SK.webtv.sk">
-    <title lang="id">Karolína, domácí kuchařka</title>
-  </programme>
-  <programme start="20260324053000 +0000" stop="20260324060500 +0000" channel="Prima Love SK.webtv.sk">
-    <title lang="id">Karolína, domácí kuchařka</title>
-  </programme>
-  <programme start="20260324060500 +0000" stop="20260324072000 +0000" channel="Prima Love SK.webtv.sk">
-    <title lang="id">Ano, šéfe!</title>
-  </programme>
-  <programme start="20260324072000 +0000" stop="20260324083000 +0000" channel="Prima Love SK.webtv.sk">
-    <title lang="id">Velmi křehké vztahy III (33)</title>
-  </programme>
-  <programme start="20260324083000 +0000" stop="20260324094500 +0000" channel="Prima Love SK.webtv.sk">
-    <title lang="id">Velmi křehké vztahy III (34)</title>
-  </programme>
-  <programme start="20260324094500 +0000" stop="20260324105000 +0000" channel="Prima Love SK.webtv.sk">
-    <title lang="id">Vůně jahod (55)</title>
-  </programme>
-  <programme start="20260324105000 +0000" stop="20260324115000 +0000" channel="Prima Love SK.webtv.sk">
-    <title lang="id">Dvojí tvář lásky I (1)</title>
-  </programme>
-  <programme start="20260324115000 +0000" stop="20260324125000 +0000" channel="Prima Love SK.webtv.sk">
-    <title lang="id">Doktor z hor: Nové příběhy VIII (1)</title>
-  </programme>
-  <programme start="20260324125000 +0000" stop="20260324134500 +0000" channel="Prima Love SK.webtv.sk">
-    <title lang="id">Doktor z hor: Nové příběhy VIII (2)</title>
-  </programme>
-  <programme start="20260324134500 +0000" stop="20260324145500 +0000" channel="Prima Love SK.webtv.sk">
-    <title lang="id">Velmi křehké vztahy III (35)</title>
-  </programme>
-  <programme start="20260324145500 +0000" stop="20260324160500 +0000" channel="Prima Love SK.webtv.sk">
-    <title lang="id">Velmi křehké vztahy III (36)</title>
-  </programme>
-  <programme start="20260324160500 +0000" stop="20260324171500 +0000" channel="Prima Love SK.webtv.sk">
-    <title lang="id">Ano, šéfe!</title>
-  </programme>
-  <programme start="20260324171500 +0000" stop="20260324181500 +0000" channel="Prima Love SK.webtv.sk">
-    <title lang="id">Dvojí tvář lásky (2)</title>
-  </programme>
-  <programme start="20260324181500 +0000" stop="20260324191500 +0000" channel="Prima Love SK.webtv.sk">
-    <title lang="id">Dvojí tvář lásky (3)</title>
-  </programme>
-  <programme start="20260324191500 +0000" stop="20260324201500 +0000" channel="Prima Love SK.webtv.sk">
-    <title lang="id">Doktor z hor: Nové příběhy VIII (3)</title>
-  </programme>
-  <programme start="20260324201500 +0000" stop="20260324211500 +0000" channel="Prima Love SK.webtv.sk">
-    <title lang="id">Doktor z hor: Nové příběhy VIII (4)</title>
-  </programme>
-  <programme start="20260324211500 +0000" stop="20260324223000 +0000" channel="Prima Love SK.webtv.sk">
-    <title lang="id">Ano, šéfe!</title>
-  </programme>
-  <programme start="20260324223000 +0000" stop="20260324233500 +0000" channel="Prima Love SK.webtv.sk">
-    <title lang="id">Velmi křehké vztahy III (35)</title>
-  </programme>
   <programme start="20260323225000 +0000" stop="20260323233000 +0000" channel="Prima Krimi SK.webtv.sk">
     <title lang="id">Prvních 48 hodin XVII (4)</title>
   </programme>
@@ -6898,6 +6814,159 @@
   <programme start="20260324224000 +0000" stop="20260324233500 +0000" channel="Love Nature.webtv.sk">
     <title lang="id">V divočině Indie (6)</title>
   </programme>
+  <programme start="20260323230000 +0000" stop="20260323231500 +0000" channel="Doktor TV.webtv.sk">
+    <title lang="id">Medi noviny</title>
+  </programme>
+  <programme start="20260323231500 +0000" stop="20260323233000 +0000" channel="Doktor TV.webtv.sk">
+    <title lang="id">Rodinná poradňa</title>
+  </programme>
+  <programme start="20260323233000 +0000" stop="20260323234500 +0000" channel="Doktor TV.webtv.sk">
+    <title lang="id">Doktor online</title>
+  </programme>
+  <programme start="20260323234500 +0000" stop="20260324000000 +0000" channel="Doktor TV.webtv.sk">
+    <title lang="id">Ako na to</title>
+  </programme>
+  <programme start="20260324000000 +0000" stop="20260324010000 +0000" channel="Doktor TV.webtv.sk">
+    <title lang="id">Medzi nami mamami</title>
+  </programme>
+  <programme start="20260324010000 +0000" stop="20260324020000 +0000" channel="Doktor TV.webtv.sk">
+    <title lang="id">Cesty pomoci</title>
+  </programme>
+  <programme start="20260324020000 +0000" stop="20260324025000 +0000" channel="Doktor TV.webtv.sk">
+    <title lang="id">Ordinácia s MUDr. Eliškou</title>
+  </programme>
+  <programme start="20260324025000 +0000" stop="20260324030000 +0000" channel="Doktor TV.webtv.sk">
+    <title lang="id">Diagnóza</title>
+  </programme>
+  <programme start="20260324030000 +0000" stop="20260324031500 +0000" channel="Doktor TV.webtv.sk">
+    <title lang="id">Medi noviny</title>
+  </programme>
+  <programme start="20260324031500 +0000" stop="20260324033000 +0000" channel="Doktor TV.webtv.sk">
+    <title lang="id">(§)právna rada</title>
+  </programme>
+  <programme start="20260324033000 +0000" stop="20260324034500 +0000" channel="Doktor TV.webtv.sk">
+    <title lang="id">Doktor online</title>
+  </programme>
+  <programme start="20260324034500 +0000" stop="20260324040000 +0000" channel="Doktor TV.webtv.sk">
+    <title lang="id">Ako na to</title>
+  </programme>
+  <programme start="20260324040000 +0000" stop="20260324043000 +0000" channel="Doktor TV.webtv.sk">
+    <title lang="id">Medzi nami mamami</title>
+  </programme>
+  <programme start="20260324043000 +0000" stop="20260324050000 +0000" channel="Doktor TV.webtv.sk">
+    <title lang="id">Terapia</title>
+  </programme>
+  <programme start="20260324050000 +0000" stop="20260324060000 +0000" channel="Doktor TV.webtv.sk">
+    <title lang="id">Curriculum vitae</title>
+  </programme>
+  <programme start="20260324060000 +0000" stop="20260324065000 +0000" channel="Doktor TV.webtv.sk">
+    <title lang="id">Ordinácia s MUDr. Katarínou</title>
+  </programme>
+  <programme start="20260324065000 +0000" stop="20260324070000 +0000" channel="Doktor TV.webtv.sk">
+    <title lang="id">Diagnóza</title>
+  </programme>
+  <programme start="20260324070000 +0000" stop="20260324072600 +0000" channel="Doktor TV.webtv.sk">
+    <title lang="id">Medi noviny</title>
+  </programme>
+  <programme start="20260324072600 +0000" stop="20260324073000 +0000" channel="Doktor TV.webtv.sk">
+    <title lang="id">Štúdio rozhovor</title>
+  </programme>
+  <programme start="20260324073000 +0000" stop="20260324080000 +0000" channel="Doktor TV.webtv.sk">
+    <title lang="id">Spravodajský blok</title>
+  </programme>
+  <programme start="20260324080000 +0000" stop="20260324083000 +0000" channel="Doktor TV.webtv.sk">
+    <title lang="id">Medzi nami mamami</title>
+  </programme>
+  <programme start="20260324083000 +0000" stop="20260324090000 +0000" channel="Doktor TV.webtv.sk">
+    <title lang="id">Medici on air</title>
+  </programme>
+  <programme start="20260324090000 +0000" stop="20260324093000 +0000" channel="Doktor TV.webtv.sk">
+    <title lang="id">Geniálny život s Michaelou</title>
+  </programme>
+  <programme start="20260324093000 +0000" stop="20260324100000 +0000" channel="Doktor TV.webtv.sk">
+    <title lang="id">Curriculum vitae</title>
+  </programme>
+  <programme start="20260324100000 +0000" stop="20260324103000 +0000" channel="Doktor TV.webtv.sk">
+    <title lang="id">Psychológ</title>
+  </programme>
+  <programme start="20260324103000 +0000" stop="20260324110000 +0000" channel="Doktor TV.webtv.sk">
+    <title lang="id">Doktor online</title>
+  </programme>
+  <programme start="20260324110000 +0000" stop="20260324111500 +0000" channel="Doktor TV.webtv.sk">
+    <title lang="id">Medi noviny</title>
+  </programme>
+  <programme start="20260324111500 +0000" stop="20260324113000 +0000" channel="Doktor TV.webtv.sk">
+    <title lang="id">(§)právna rada</title>
+  </programme>
+  <programme start="20260324113000 +0000" stop="20260324120000 +0000" channel="Doktor TV.webtv.sk">
+    <title lang="id">Spravodajský blok</title>
+  </programme>
+  <programme start="20260324120000 +0000" stop="20260324123000 +0000" channel="Doktor TV.webtv.sk">
+    <title lang="id">Medzi nami mamami</title>
+  </programme>
+  <programme start="20260324123000 +0000" stop="20260324130000 +0000" channel="Doktor TV.webtv.sk">
+    <title lang="id">Terapia</title>
+  </programme>
+  <programme start="20260324130000 +0000" stop="20260324134500 +0000" channel="Doktor TV.webtv.sk">
+    <title lang="id">Debaty s Evou</title>
+  </programme>
+  <programme start="20260324134500 +0000" stop="20260324140000 +0000" channel="Doktor TV.webtv.sk">
+    <title lang="id">Spravodajský blok</title>
+  </programme>
+  <programme start="20260324140000 +0000" stop="20260324144500 +0000" channel="Doktor TV.webtv.sk">
+    <title lang="id">Ordinácia s MUDr. Katarínou</title>
+  </programme>
+  <programme start="20260324144500 +0000" stop="20260324150000 +0000" channel="Doktor TV.webtv.sk">
+    <title lang="id">Ako na to</title>
+  </programme>
+  <programme start="20260324150000 +0000" stop="20260324151500 +0000" channel="Doktor TV.webtv.sk">
+    <title lang="id">Medi noviny</title>
+  </programme>
+  <programme start="20260324151500 +0000" stop="20260324153000 +0000" channel="Doktor TV.webtv.sk">
+    <title lang="id">Zdravo s Kelom</title>
+  </programme>
+  <programme start="20260324153000 +0000" stop="20260324160000 +0000" channel="Doktor TV.webtv.sk">
+    <title lang="id">Spravodajský blok</title>
+  </programme>
+  <programme start="20260324160000 +0000" stop="20260324170000 +0000" channel="Doktor TV.webtv.sk">
+    <title lang="id">Medzi nami mamami</title>
+  </programme>
+  <programme start="20260324170000 +0000" stop="20260324174500 +0000" channel="Doktor TV.webtv.sk">
+    <title lang="id">Cesty pomoci</title>
+  </programme>
+  <programme start="20260324174500 +0000" stop="20260324180000 +0000" channel="Doktor TV.webtv.sk">
+    <title lang="id">Doktor online</title>
+  </programme>
+  <programme start="20260324180000 +0000" stop="20260324185000 +0000" channel="Doktor TV.webtv.sk">
+    <title lang="id">Ordinácia s MUDr. Eliškou</title>
+  </programme>
+  <programme start="20260324185000 +0000" stop="20260324190000 +0000" channel="Doktor TV.webtv.sk">
+    <title lang="id">Diagnóza</title>
+  </programme>
+  <programme start="20260324190000 +0000" stop="20260324191500 +0000" channel="Doktor TV.webtv.sk">
+    <title lang="id">Medi noviny</title>
+  </programme>
+  <programme start="20260324191500 +0000" stop="20260324193000 +0000" channel="Doktor TV.webtv.sk">
+    <title lang="id">Zdravo s Kelom</title>
+  </programme>
+  <programme start="20260324193000 +0000" stop="20260324200000 +0000" channel="Doktor TV.webtv.sk">
+    <title lang="id">Spravodajský blok</title>
+  </programme>
+  <programme start="20260324200000 +0000" stop="20260324210000 +0000" channel="Doktor TV.webtv.sk">
+    <title lang="id">Medzi nami mamami</title>
+  </programme>
+  <programme start="20260324210000 +0000" stop="20260324214500 +0000" channel="Doktor TV.webtv.sk">
+    <title lang="id">Cesty pomoci</title>
+  </programme>
+  <programme start="20260324214500 +0000" stop="20260324220000 +0000" channel="Doktor TV.webtv.sk">
+    <title lang="id">Doktor online</title>
+  </programme>
+  <programme start="20260324220000 +0000" stop="20260324225000 +0000" channel="Doktor TV.webtv.sk">
+    <title lang="id">Ordinácia s MUDr. Eliškou</title>
+  </programme>
+  <programme start="20260324225000 +0000" stop="20260324230000 +0000" channel="Doktor TV.webtv.sk">
+    <title lang="id">Diagnóza</title>
+  </programme>
   <programme start="20260323230000 +0000" stop="20260324000000 +0000" channel="PARK TV.webtv.sk">
     <title lang="id">RELAX S PARK TV</title>
   </programme>
@@ -9270,48 +9339,6 @@
   </programme>
   <programme start="20260324214000 +0000" stop="20260324233000 +0000" channel="FilmBox Family.webtv.sk">
     <title lang="id">Vykoření ducha</title>
-  </programme>
-  <programme start="20260323230000 +0000" stop="20260324003000 +0000" channel="FilmBox Stars.webtv.sk">
-    <title lang="id">Motiv pro vraždu</title>
-  </programme>
-  <programme start="20260324003000 +0000" stop="20260324022000 +0000" channel="FilmBox Stars.webtv.sk">
-    <title lang="id">Elektrizující život Louise Waina</title>
-  </programme>
-  <programme start="20260324022000 +0000" stop="20260324035000 +0000" channel="FilmBox Stars.webtv.sk">
-    <title lang="id">Vesmírná kamufláž</title>
-  </programme>
-  <programme start="20260324035000 +0000" stop="20260324051500 +0000" channel="FilmBox Stars.webtv.sk">
-    <title lang="id">Noční tabule</title>
-  </programme>
-  <programme start="20260324051500 +0000" stop="20260324071000 +0000" channel="FilmBox Stars.webtv.sk">
-    <title lang="id">Vraždy v Oxfordu IV (4)</title>
-  </programme>
-  <programme start="20260324071000 +0000" stop="20260324090500 +0000" channel="FilmBox Stars.webtv.sk">
-    <title lang="id">Agatha Christie: Vraždy podle abecedy II (7)</title>
-  </programme>
-  <programme start="20260324090500 +0000" stop="20260324101000 +0000" channel="FilmBox Stars.webtv.sk">
-    <title lang="id">Vražedné záhady slečny Fisherové II (9)</title>
-  </programme>
-  <programme start="20260324101000 +0000" stop="20260324120500 +0000" channel="FilmBox Stars.webtv.sk">
-    <title lang="id">Vraždy v Oxfordu V (1)</title>
-  </programme>
-  <programme start="20260324120500 +0000" stop="20260324140000 +0000" channel="FilmBox Stars.webtv.sk">
-    <title lang="id">Agatha Christie: Vraždy podle abecedy II (8)</title>
-  </programme>
-  <programme start="20260324140000 +0000" stop="20260324151000 +0000" channel="FilmBox Stars.webtv.sk">
-    <title lang="id">Vražedné záhady slečny Fisherové II (10)</title>
-  </programme>
-  <programme start="20260324151000 +0000" stop="20260324170500 +0000" channel="FilmBox Stars.webtv.sk">
-    <title lang="id">Hercule Poirot XIII (1)</title>
-  </programme>
-  <programme start="20260324170500 +0000" stop="20260324190000 +0000" channel="FilmBox Stars.webtv.sk">
-    <title lang="id">Zločiny z vřesovišť V (1)</title>
-  </programme>
-  <programme start="20260324190000 +0000" stop="20260324211000 +0000" channel="FilmBox Stars.webtv.sk">
-    <title lang="id">Duše jako kaviár</title>
-  </programme>
-  <programme start="20260324211000 +0000" stop="20260324230500 +0000" channel="FilmBox Stars.webtv.sk">
-    <title lang="id">Ve slepé uličce</title>
   </programme>
   <programme start="20260323224500 +0000" stop="20260324003000 +0000" channel="FightBox.webtv.sk">
     <title lang="id">Underground Boxing Night, Pt 1, Poland 2023 XLIX (1)</title>
