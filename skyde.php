@@ -2488,13 +2488,13 @@
 <programme start="20260322124000 +0000" stop="20260322130000 +0000" channel="Sky Sport Austria 2 HD.skyde">
     <title>Es folgt Fußball: Österreich, Admiral Bundesliga</title>
 </programme>
-<programme start="20260322130000 +0000" stop="20260322154500 +0000" channel="Sky Sport Austria 2 HD.skyde">
+<programme start="20260322130000 +0000" stop="20260322161500 +0000" channel="Sky Sport Austria 2 HD.skyde">
     <title>Live Admiral BL: TSV Egger Glas Hartberg - FK Austria Wien, 24. Runde</title>
 </programme>
 <programme start="20260322194000 +0000" stop="20260322200000 +0000" channel="Sky Sport Austria 2 HD.skyde">
     <title>Es folgt LIVE NHL</title>
 </programme>
-<programme start="20260322200000 +0000" stop="20260322230000 +0000" channel="Sky Sport Austria 2 HD.skyde">
+<programme start="20260322200000 +0000" stop="20260323090000 +0000" channel="Sky Sport Austria 2 HD.skyde">
     <title>Live NHL: Carolina Hurricanes @ Pittsburgh Penguins</title>
 </programme>
 <programme start="20260322113000 +0000" stop="20260322115000 +0000" channel="Sky Sport Austria 3 HD.skyde">
@@ -2647,7 +2647,7 @@
 <programme start="20260322114000 +0000" stop="20260322120000 +0000" channel="Sky Sport Bundesliga 3 HD.skyde">
     <title>Es folgt: Live 2. Bundesliga</title>
 </programme>
-<programme start="20260322120000 +0000" stop="20260322143000 +0000" channel="Sky Sport Bundesliga 3 HD.skyde">
+<programme start="20260322120000 +0000" stop="20260322150000 +0000" channel="Sky Sport Bundesliga 3 HD.skyde">
     <title>Live 2. BL: VfL Bochum - Holstein Kiel, 27. Spieltag</title>
 </programme>
 <programme start="20260322114000 +0000" stop="20260322120000 +0000" channel="Sky Sport Bundesliga 4 HD.skyde">
@@ -2875,13 +2875,13 @@
 <programme start="20260322223000 +0000" stop="20260322230000 +0000" channel="Sky Sport News HD.skyde">
     <title>Sky Sport News: Nightline</title>
 </programme>
-<programme start="20260322002000 +0000" stop="20260322004000 +0000" channel="Sky Sport Premier League HD.skyde">
+<programme start="20260322002500 +0000" stop="20260322005000 +0000" channel="Sky Sport Premier League HD.skyde">
     <title>PL: Highlights Samstag, 31. Spieltag</title>
 </programme>
-<programme start="20260322004000 +0000" stop="20260322025000 +0000" channel="Sky Sport Premier League HD.skyde">
+<programme start="20260322005000 +0000" stop="20260322024500 +0000" channel="Sky Sport Premier League HD.skyde">
     <title>PL: Leeds United - FC Brentford, 31. Spieltag</title>
 </programme>
-<programme start="20260322025000 +0000" stop="20260322031000 +0000" channel="Sky Sport Premier League HD.skyde">
+<programme start="20260322024500 +0000" stop="20260322031000 +0000" channel="Sky Sport Premier League HD.skyde">
     <title>PL: Highlights Samstag, 31. Spieltag</title>
 </programme>
 <programme start="20260322031000 +0000" stop="20260322051000 +0000" channel="Sky Sport Premier League HD.skyde">
@@ -3002,10 +3002,10 @@
     <title>ATP 1000: Review Indian Wells</title>
 </programme>
 <programme start="20260322040000 +0000" stop="20260322060000 +0000" channel="Sky Sport Tennis HD.skyde">
-    <title>WTA 1000: Topspiel, Miami Open presented by Itaú in Miami, Florida (USA), 5. Tag</title>
+    <title>WTA 1000: J. Pegula (USA) - F. Jones (GBR), Miami Open presented by Itaú in Miami, Florida (USA), 5. Tag</title>
 </programme>
 <programme start="20260322060000 +0000" stop="20260322080000 +0000" channel="Sky Sport Tennis HD.skyde">
-    <title>ATP 1000: Topspiel, Miami Open presented by Itaú in Miami, Florida (USA), 5. Tag</title>
+    <title>ATP 1000: A. Zverev (GER) - M. Damm (USA), Miami Open presented by Itaú in Miami, Florida (USA), 5. Tag</title>
 </programme>
 <programme start="20260322080000 +0000" stop="20260322103000 +0000" channel="Sky Sport Tennis HD.skyde">
     <title>ATP 1000: J. Sinner (ITA) - D. Medvedev, BNP Paribas Open in Indian Wells, Kalifornien (USA), Finale</title>
@@ -3014,10 +3014,10 @@
     <title>WTA 1000: Review Indian Wells</title>
 </programme>
 <programme start="20260322110000 +0000" stop="20260322130000 +0000" channel="Sky Sport Tennis HD.skyde">
-    <title>WTA 1000: Topspiel, Miami Open presented by Itaú in Miami, Florida (USA), 5. Tag</title>
+    <title>WTA 1000: J. Pegula (USA) - F. Jones (GBR), Miami Open presented by Itaú in Miami, Florida (USA), 5. Tag</title>
 </programme>
 <programme start="20260322130000 +0000" stop="20260322150000 +0000" channel="Sky Sport Tennis HD.skyde">
-    <title>ATP 1000: Topspiel, Miami Open presented by Itaú in Miami, Florida (USA), 5. Tag</title>
+    <title>ATP 1000: A. Zverev (GER) - M. Damm (USA), Miami Open presented by Itaú in Miami, Florida (USA), 5. Tag</title>
 </programme>
 <programme start="20260322150000 +0000" stop="20260323030000 +0000" channel="Sky Sport Tennis HD.skyde">
     <title>Live ATP &amp; WTA: Konferenz Miami Open presented by Itaú in Miami, Florida (USA), 6. Tag</title>
@@ -3097,31 +3097,31 @@
 <programme start="20260322202500 +0000" stop="20260322204500 +0000" channel="Sky Sport 1 HD.skyde">
     <title>Es folgt: LIVE Basketball NBA</title>
 </programme>
-<programme start="20260322204500 +0000" stop="20260323000000 +0000" channel="Sky Sport 1 HD.skyde">
+<programme start="20260322204500 +0000" stop="20260323090000 +0000" channel="Sky Sport 1 HD.skyde">
     <title>Live NBA: Portland Trail Blazers @ Denver Nuggets</title>
 </programme>
 <programme start="20260322161000 +0000" stop="20260322163000 +0000" channel="Sky Sport 3 HD.skyde">
     <title>Es folgt LIVE NHL</title>
 </programme>
-<programme start="20260322163000 +0000" stop="20260322213000 +0000" channel="Sky Sport 3 HD.skyde">
+<programme start="20260322163000 +0000" stop="20260322193000 +0000" channel="Sky Sport 3 HD.skyde">
     <title>Live NHL: Colorado Avalanche @ Washington Capitals</title>
 </programme>
 <programme start="20260322154000 +0000" stop="20260322160000 +0000" channel="Sky Sport 4 HD.skyde">
     <title>Es folgt: LIVE Tennis WTA Tour</title>
 </programme>
-<programme start="20260322160000 +0000" stop="20260323010000 +0000" channel="Sky Sport 4 HD.skyde">
+<programme start="20260322160000 +0000" stop="20260323090000 +0000" channel="Sky Sport 4 HD.skyde">
     <title>Live WTA 1000: Miami Open presented by Itaú in Miami, Florida (USA), 6. Tag</title>
 </programme>
 <programme start="20260322134500 +0000" stop="20260322140500 +0000" channel="Sky Sport 6 HD.skyde">
     <title>Es folgt: LIVE Premier League</title>
 </programme>
-<programme start="20260322140500 +0000" stop="20260322164500 +0000" channel="Sky Sport 6 HD.skyde">
+<programme start="20260322140500 +0000" stop="20260322161500 +0000" channel="Sky Sport 6 HD.skyde">
     <title>Live PL: Aston Villa - West Ham United, 31. Spieltag</title>
 </programme>
 <programme start="20260322134500 +0000" stop="20260322140500 +0000" channel="Sky Sport 7 HD.skyde">
     <title>Es folgt: LIVE Premier League</title>
 </programme>
-<programme start="20260322140500 +0000" stop="20260322164500 +0000" channel="Sky Sport 7 HD.skyde">
+<programme start="20260322140500 +0000" stop="20260322161500 +0000" channel="Sky Sport 7 HD.skyde">
     <title>Live PL: Tottenham Hotspur - Nottingham Forest, 31. Spieltag</title>
 </programme>
 <programme start="20260321230500 +0000" stop="20260321235000 +0000" channel="SYFY HD.skyde">
