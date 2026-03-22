@@ -4978,25 +4978,22 @@
     <programme start="20260321213000 +0000" stop="20260321233000 +0000" channel="SPOTV.starhub">
         <title>Highlights</title>
     </programme>
-    <programme start="20260321233000 +0000" stop="20260322000000 +0000" channel="SPOTV.starhub">
-        <title>Preview</title>
-    </programme>
-    <programme start="20260322000000 +0000" stop="20260322010000 +0000" channel="SPOTV.starhub">
+    <programme start="20260321233000 +0000" stop="20260322003000 +0000" channel="SPOTV.starhub">
         <title>Free Practice 1</title>
     </programme>
-    <programme start="20260322010000 +0000" stop="20260322020000 +0000" channel="SPOTV.starhub">
+    <programme start="20260322003000 +0000" stop="20260322013000 +0000" channel="SPOTV.starhub">
         <title>Free Practice 2</title>
     </programme>
-    <programme start="20260322020000 +0000" stop="20260322040000 +0000" channel="SPOTV.starhub">
+    <programme start="20260322013000 +0000" stop="20260322033000 +0000" channel="SPOTV.starhub">
         <title>Qualifying</title>
     </programme>
-    <programme start="20260322040000 +0000" stop="20260322063000 +0000" channel="SPOTV.starhub">
+    <programme start="20260322033000 +0000" stop="20260322060000 +0000" channel="SPOTV.starhub">
         <title>Race</title>
     </programme>
-    <programme start="20260322063000 +0000" stop="20260322080000 +0000" channel="SPOTV.starhub">
+    <programme start="20260322060000 +0000" stop="20260322073000 +0000" channel="SPOTV.starhub">
         <title>Highlights</title>
     </programme>
-    <programme start="20260322080000 +0000" stop="20260322130000 +0000" channel="SPOTV.starhub">
+    <programme start="20260322073000 +0000" stop="20260322130000 +0000" channel="SPOTV.starhub">
         <title>Round 4</title>
     </programme>
     <programme start="20260322130000 +0000" stop="20260322150000 +0000" channel="SPOTV.starhub">

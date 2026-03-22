@@ -481,6 +481,9 @@
 <programme start="20260322003000 +0000" stop="20260322011500 +0000" channel="Trans 7.vision">
 <title>Masjidku</title>
 </programme>
+<programme start="20260322011500 +0000" stop="20260322020000 +0000" channel="Trans 7.vision">
+<title>Pesantrend</title>
+</programme>
 <programme start="20260322020000 +0000" stop="20260322030000 +0000" channel="Trans 7.vision">
 <title>FYP (For Your Pagi)</title>
 </programme>
@@ -1494,7 +1497,4 @@
 </programme>
 <programme start="20260322190000 +0000" stop="20260322195000 +0000" channel="MDTV.vision">
 <title>Tawa-Tawa Santai</title>
-</programme>
-<programme start="20260322195000 +0000" stop="20260322205000 +0000" channel="MDTV.vision">
-<title>Keajaiban Dunia</title>
 </programme>

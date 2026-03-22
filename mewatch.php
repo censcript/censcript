@@ -830,5 +830,5 @@
         <title>No Programme available now. Next Broadcast on 23rd March, Monday 12.22am. Carabao Cup 2025/26 Final</title>
     </programme>
     <programme start="20260322160000 +0000" stop="20260322162200 +0000" channel="Live 5.mewatch">
-        <title>No Programme available now. Next Broadcast on 27th February, Friday 8pm. Chingay 2026 - Wish</title>
+        <title>No Programme available now. Next Broadcast on 23rd March, Monday 12.22am. Carabao Cup 2025/26 Final</title>
     </programme>
