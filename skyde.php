@@ -2503,7 +2503,7 @@
 <programme start="20260322115000 +0000" stop="20260322143000 +0000" channel="Sky Sport Austria 3 HD.skyde">
     <title>Live PL: Newcastle United - AFC Sunderland, 31. Spieltag</title>
 </programme>
-<programme start="20260322143000 +0000" stop="20260322160000 +0000" channel="Sky Sport Austria 3 HD.skyde">
+<programme start="20260322154000 +0000" stop="20260322160000 +0000" channel="Sky Sport Austria 3 HD.skyde">
     <title>WTA: Es folgt</title>
 </programme>
 <programme start="20260322160000 +0000" stop="20260323090000 +0000" channel="Sky Sport Austria 3 HD.skyde">
@@ -2647,7 +2647,7 @@
 <programme start="20260322114000 +0000" stop="20260322120000 +0000" channel="Sky Sport Bundesliga 3 HD.skyde">
     <title>Es folgt: Live 2. Bundesliga</title>
 </programme>
-<programme start="20260322120000 +0000" stop="20260322150000 +0000" channel="Sky Sport Bundesliga 3 HD.skyde">
+<programme start="20260322120000 +0000" stop="20260322143000 +0000" channel="Sky Sport Bundesliga 3 HD.skyde">
     <title>Live 2. BL: VfL Bochum - Holstein Kiel, 27. Spieltag</title>
 </programme>
 <programme start="20260322114000 +0000" stop="20260322120000 +0000" channel="Sky Sport Bundesliga 4 HD.skyde">
@@ -2659,7 +2659,7 @@
 <programme start="20260322114000 +0000" stop="20260322120000 +0000" channel="Sky Sport Bundesliga 5 HD.skyde">
     <title>Es folgt: Live 2. Bundesliga</title>
 </programme>
-<programme start="20260322120000 +0000" stop="20260322150000 +0000" channel="Sky Sport Bundesliga 5 HD.skyde">
+<programme start="20260322120000 +0000" stop="20260322143000 +0000" channel="Sky Sport Bundesliga 5 HD.skyde">
     <title>Live 2. BL: Multiview 27. Spieltag, Sonntag</title>
 </programme>
 <programme start="20260321230000 +0000" stop="20260322000000 +0000" channel="Sky Sport F1 HD.skyde">
@@ -2716,7 +2716,7 @@
 <programme start="20260322223000 +0000" stop="20260322233000 +0000" channel="Sky Sport F1 HD.skyde">
     <title>F1 Academy: 1. Rennen - GP China</title>
 </programme>
-<programme start="20260322012500 +0000" stop="20260322040000 +0000" channel="Sky Sport Golf HD.skyde">
+<programme start="20260322010000 +0000" stop="20260322040000 +0000" channel="Sky Sport Golf HD.skyde">
     <title>LIV Golf: Südafrika, 3. Tag in Johannesburg</title>
 </programme>
 <programme start="20260322040000 +0000" stop="20260322050000 +0000" channel="Sky Sport Golf HD.skyde">
@@ -2875,13 +2875,13 @@
 <programme start="20260322223000 +0000" stop="20260322230000 +0000" channel="Sky Sport News HD.skyde">
     <title>Sky Sport News: Nightline</title>
 </programme>
-<programme start="20260322002000 +0000" stop="20260322004000 +0000" channel="Sky Sport Premier League HD.skyde">
+<programme start="20260322002500 +0000" stop="20260322005000 +0000" channel="Sky Sport Premier League HD.skyde">
     <title>PL: Highlights Samstag, 31. Spieltag</title>
 </programme>
-<programme start="20260322004000 +0000" stop="20260322025000 +0000" channel="Sky Sport Premier League HD.skyde">
+<programme start="20260322005000 +0000" stop="20260322024500 +0000" channel="Sky Sport Premier League HD.skyde">
     <title>PL: Leeds United - FC Brentford, 31. Spieltag</title>
 </programme>
-<programme start="20260322025000 +0000" stop="20260322031000 +0000" channel="Sky Sport Premier League HD.skyde">
+<programme start="20260322024500 +0000" stop="20260322031000 +0000" channel="Sky Sport Premier League HD.skyde">
     <title>PL: Highlights Samstag, 31. Spieltag</title>
 </programme>
 <programme start="20260322031000 +0000" stop="20260322051000 +0000" channel="Sky Sport Premier League HD.skyde">
@@ -3097,7 +3097,7 @@
 <programme start="20260322161000 +0000" stop="20260322163000 +0000" channel="Sky Sport 3 HD.skyde">
     <title>Es folgt LIVE NHL</title>
 </programme>
-<programme start="20260322163000 +0000" stop="20260322213000 +0000" channel="Sky Sport 3 HD.skyde">
+<programme start="20260322163000 +0000" stop="20260322193000 +0000" channel="Sky Sport 3 HD.skyde">
     <title>Live NHL: Colorado Avalanche @ Washington Capitals</title>
 </programme>
 <programme start="20260322154000 +0000" stop="20260322160000 +0000" channel="Sky Sport 4 HD.skyde">
@@ -3115,7 +3115,7 @@
 <programme start="20260322134500 +0000" stop="20260322140500 +0000" channel="Sky Sport 7 HD.skyde">
     <title>Es folgt: LIVE Premier League</title>
 </programme>
-<programme start="20260322140500 +0000" stop="20260322161500 +0000" channel="Sky Sport 7 HD.skyde">
+<programme start="20260322140500 +0000" stop="20260322164500 +0000" channel="Sky Sport 7 HD.skyde">
     <title>Live PL: Tottenham Hotspur - Nottingham Forest, 31. Spieltag</title>
 </programme>
 <programme start="20260321230500 +0000" stop="20260321235000 +0000" channel="SYFY HD.skyde">
