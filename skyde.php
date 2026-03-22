@@ -2386,13 +2386,13 @@
 <programme start="20260322124000 +0000" stop="20260322130000 +0000" channel="Sky Sport Austria 2 HD.skyde">
     <title>Es folgt Fußball: Österreich, Admiral Bundesliga</title>
 </programme>
-<programme start="20260322130000 +0000" stop="20260322154500 +0000" channel="Sky Sport Austria 2 HD.skyde">
+<programme start="20260322130000 +0000" stop="20260322161500 +0000" channel="Sky Sport Austria 2 HD.skyde">
     <title>Live Admiral BL: TSV Egger Glas Hartberg - FK Austria Wien, 24. Runde</title>
 </programme>
 <programme start="20260322194000 +0000" stop="20260322200000 +0000" channel="Sky Sport Austria 2 HD.skyde">
-    <title>Es folgt LIVE NHL</title>
+    <title>Es folgt: LIVE NHL</title>
 </programme>
-<programme start="20260322200000 +0000" stop="20260322230000 +0000" channel="Sky Sport Austria 2 HD.skyde">
+<programme start="20260322200000 +0000" stop="20260323000000 +0000" channel="Sky Sport Austria 2 HD.skyde">
     <title>Live NHL: Carolina Hurricanes @ Pittsburgh Penguins</title>
 </programme>
 <programme start="20260322113000 +0000" stop="20260322115000 +0000" channel="Sky Sport Austria 3 HD.skyde">
@@ -2962,10 +2962,10 @@
 <programme start="20260322112500 +0000" stop="20260322115000 +0000" channel="Sky Sport UHD.skyde">
     <title>Golf: Greatest Holes (7)</title>
 </programme>
-<programme start="20260322115000 +0000" stop="20260322140000 +0000" channel="Sky Sport UHD.skyde">
+<programme start="20260322115000 +0000" stop="20260322140500 +0000" channel="Sky Sport UHD.skyde">
     <title>Live PL: Newcastle United - AFC Sunderland, 31. Spieltag</title>
 </programme>
-<programme start="20260322140000 +0000" stop="20260322160000 +0000" channel="Sky Sport UHD.skyde">
+<programme start="20260322140500 +0000" stop="20260322160000 +0000" channel="Sky Sport UHD.skyde">
     <title>F1: Rennen - GP China</title>
 </programme>
 <programme start="20260322160000 +0000" stop="20260322180000 +0000" channel="Sky Sport UHD.skyde">
