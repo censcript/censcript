@@ -54,8 +54,8 @@
     <title>Sportshow</title>
     <desc>Live: Tidak</desc>
 </programme>
-<programme start="20260322135500 +0700" stop="20260322155500 +0700" channel="COSMOTE Sport 2 HD">
-    <title>Football: Parma - Cremonese</title>
+<programme start="20260323160000 +0700" stop="20260323180000 +0700" channel="COSMOTE Sport 1 HD">
+    <title>Football: SC Braga - Ferencvarosi TC</title>
     <desc>Live: Tidak</desc>
 </programme>
 <programme start="20260322155500 +0700" stop="20260322175500 +0700" channel="COSMOTE Sport 2 HD">
@@ -126,12 +126,8 @@
     <title>Football: Parma - Cremonese</title>
     <desc>Live: Tidak</desc>
 </programme>
-<programme start="20260322133000 +0700" stop="20260322152500 +0700" channel="COSMOTE Sport 3 HD">
-    <title>Football: SL Benfica - Vitoria Guimaraes</title>
-    <desc>Live: Tidak</desc>
-</programme>
-<programme start="20260322152500 +0700" stop="20260322155500 +0700" channel="COSMOTE Sport 3 HD">
-    <title>Emirates FA Cup 2025-26 - Highlights</title>
+<programme start="20260323161000 +0700" stop="20260323181000 +0700" channel="COSMOTE Sport 2 HD">
+    <title>Football: Como - Pisa</title>
     <desc>Live: Tidak</desc>
 </programme>
 <programme start="20260322155500 +0700" stop="20260322175500 +0700" channel="COSMOTE Sport 3 HD">
@@ -242,10 +238,6 @@
     <title>Basketball: Armani Milano - Sassari</title>
     <desc>Live: Tidak</desc>
 </programme>
-<programme start="20260322145500 +0700" stop="20260322154500 +0700" channel="COSMOTE Sport 5 HD">
-    <title>Motorsports: Moto2 2026</title>
-    <desc>Live: Tidak</desc>
-</programme>
 <programme start="20260322154500 +0700" stop="20260322163000 +0700" channel="COSMOTE Sport 5 HD">
     <title>Motorsports: MotoGP 2026</title>
     <desc>Live: Tidak</desc>
@@ -258,13 +250,13 @@
     <title>Motorsports: Moto3 2026</title>
     <desc>Live: Tidak</desc>
 </programme>
-<programme start="20260322183000 +0700" stop="20260322193000 +0700" channel="COSMOTE Sport 5 HD">
-    <title>Motorsports: Moto2 2026</title>
-    <desc>Live: Tidak</desc>
-</programme>
-<programme start="20260322193000 +0700" stop="20260322203500 +0700" channel="COSMOTE Sport 5 HD">
+<programme start="20260322183000 +0700" stop="20260322193500 +0700" channel="COSMOTE Sport 5 HD">
     <title>Motorsports: MotoGP 2026</title>
     <desc>Live: Tidak</desc>
+</programme>
+<programme start="20260322193500 +0700" stop="20260322203500 +0700" channel="COSMOTE Sport 5 HD">
+    <title>Motorsports: Moto2 2026 (L)</title>
+    <desc>Live: Ya</desc>
 </programme>
 <programme start="20260322203500 +0700" stop="20260322210500 +0700" channel="COSMOTE Sport 5 HD">
     <title>Motorsports: MotoGP 2026 (L)</title>
@@ -307,7 +299,7 @@
     <desc>Live: Tidak</desc>
 </programme>
 <programme start="20260323075500 +0700" stop="20260323084000 +0700" channel="COSMOTE Sport 5 HD">
-    <title>ERC 2025</title>
+    <title>WRC 2026</title>
     <desc>Live: Tidak</desc>
 </programme>
 <programme start="20260323084000 +0700" stop="20260323092500 +0700" channel="COSMOTE Sport 5 HD">
@@ -342,6 +334,10 @@
     <title>Highlights: 2025 Extreme H</title>
     <desc>Live: Tidak</desc>
 </programme>
+<programme start="20260323164000 +0700" stop="20260323171000 +0700" channel="COSMOTE Sport 5 HD">
+    <title>Sports Classics: Gearing Up 2026 E2</title>
+    <desc>Live: Tidak</desc>
+</programme>
 <programme start="20260322150000 +0700" stop="20260322190000 +0700" channel="COSMOTE Sport 6 HD">
     <title>Tennis: ATP Masters 1000 2026</title>
     <desc>Live: Tidak</desc>
@@ -362,8 +358,12 @@
     <title>Tennis: ATP Masters 1000 2026 (L)</title>
     <desc>Live: Ya</desc>
 </programme>
-<programme start="20260323070000 +0700" stop="20260323103000 +0700" channel="COSMOTE Sport 6 HD">
+<programme start="20260323070000 +0700" stop="20260323073000 +0700" channel="COSMOTE Sport 6 HD">
     <title>Tennis: ATP Masters 1000 2026 (L)</title>
+    <desc>Live: Ya</desc>
+</programme>
+<programme start="20260323073000 +0700" stop="20260323103000 +0700" channel="COSMOTE Sport 6 HD">
+    <title>Tennis: Arthur Fils - Stefanos Tsitsipas (L)</title>
     <desc>Live: Ya</desc>
 </programme>
 <programme start="20260323103000 +0700" stop="20260323110000 +0700" channel="COSMOTE Sport 6 HD">
