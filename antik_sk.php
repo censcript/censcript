@@ -838,78 +838,6 @@
   <programme start="20260324225000 +0000" stop="20260324235500 +0000" channel="JOJ +1.webtv.sk">
     <title lang="id">Hviezdy nad hlavou (12)</title>
   </programme>
-  <programme start="20260323225000 +0000" stop="20260323233000 +0000" channel="Markíza Klasik.webtv.sk">
-    <title lang="id">Komisár Rex VIII (6)</title>
-  </programme>
-  <programme start="20260323233000 +0000" stop="20260324001500 +0000" channel="Markíza Klasik.webtv.sk">
-    <title lang="id">Komisár Rex VIII (7)</title>
-  </programme>
-  <programme start="20260324001500 +0000" stop="20260324004000 +0000" channel="Markíza Klasik.webtv.sk">
-    <title lang="id">Anderov rebrinák (19)</title>
-  </programme>
-  <programme start="20260324004000 +0000" stop="20260324014000 +0000" channel="Markíza Klasik.webtv.sk">
-    <title lang="id">Televarieté</title>
-  </programme>
-  <programme start="20260324014000 +0000" stop="20260324030000 +0000" channel="Markíza Klasik.webtv.sk">
-    <title lang="id">Sedem s r.o. (12)</title>
-  </programme>
-  <programme start="20260324030000 +0000" stop="20260324035000 +0000" channel="Markíza Klasik.webtv.sk">
-    <title lang="id">Dereš (9)</title>
-  </programme>
-  <programme start="20260324035000 +0000" stop="20260324050000 +0000" channel="Markíza Klasik.webtv.sk">
-    <title lang="id">Aj múdry schybí (34)</title>
-  </programme>
-  <programme start="20260324050000 +0000" stop="20260324061500 +0000" channel="Markíza Klasik.webtv.sk">
-    <title lang="id">Aj múdry schybí (1)</title>
-  </programme>
-  <programme start="20260324061500 +0000" stop="20260324064000 +0000" channel="Markíza Klasik.webtv.sk">
-    <title lang="id">M.A.S.H I (9)</title>
-  </programme>
-  <programme start="20260324064000 +0000" stop="20260324072500 +0000" channel="Markíza Klasik.webtv.sk">
-    <title lang="id">Knight Rider II (9)</title>
-  </programme>
-  <programme start="20260324072500 +0000" stop="20260324082500 +0000" channel="Markíza Klasik.webtv.sk">
-    <title lang="id">Knight Rider II (10)</title>
-  </programme>
-  <programme start="20260324082500 +0000" stop="20260324091500 +0000" channel="Markíza Klasik.webtv.sk">
-    <title lang="id">Komisár Rex VIII (6)</title>
-  </programme>
-  <programme start="20260324091500 +0000" stop="20260324100000 +0000" channel="Markíza Klasik.webtv.sk">
-    <title lang="id">Komisár Rex VIII (7)</title>
-  </programme>
-  <programme start="20260324100000 +0000" stop="20260324115500 +0000" channel="Markíza Klasik.webtv.sk">
-    <title lang="id">Lampasy</title>
-  </programme>
-  <programme start="20260324115500 +0000" stop="20260324123500 +0000" channel="Markíza Klasik.webtv.sk">
-    <title lang="id">Herkules V (12)</title>
-  </programme>
-  <programme start="20260324123500 +0000" stop="20260324132500 +0000" channel="Markíza Klasik.webtv.sk">
-    <title lang="id">Herkules V (13)</title>
-  </programme>
-  <programme start="20260324132500 +0000" stop="20260324142500 +0000" channel="Markíza Klasik.webtv.sk">
-    <title lang="id">Knight Rider II (11)</title>
-  </programme>
-  <programme start="20260324142500 +0000" stop="20260324152500 +0000" channel="Markíza Klasik.webtv.sk">
-    <title lang="id">Knight Rider II (12)</title>
-  </programme>
-  <programme start="20260324152500 +0000" stop="20260324162000 +0000" channel="Markíza Klasik.webtv.sk">
-    <title lang="id">Kobra 11 IV (2)</title>
-  </programme>
-  <programme start="20260324162000 +0000" stop="20260324172500 +0000" channel="Markíza Klasik.webtv.sk">
-    <title lang="id">Kobra 11 IV (3)</title>
-  </programme>
-  <programme start="20260324172500 +0000" stop="20260324182500 +0000" channel="Markíza Klasik.webtv.sk">
-    <title lang="id">Komisár Rex VIII (8)</title>
-  </programme>
-  <programme start="20260324182500 +0000" stop="20260324192500 +0000" channel="Markíza Klasik.webtv.sk">
-    <title lang="id">Komisár Rex VIII (9)</title>
-  </programme>
-  <programme start="20260324192500 +0000" stop="20260324200000 +0000" channel="Markíza Klasik.webtv.sk">
-    <title lang="id">M.A.S.H I (10)</title>
-  </programme>
-  <programme start="20260324200000 +0000" stop="20260324232000 +0000" channel="Markíza Klasik.webtv.sk">
-    <title lang="id">Sklenené peklo</title>
-  </programme>
   <programme start="20260323222000 +0000" stop="20260324002000 +0000" channel="DajTo.webtv.sk">
     <title lang="id">Náhly úder</title>
   </programme>
@@ -1566,150 +1494,6 @@
   </programme>
   <programme start="20260324221000 +0000" stop="20260324235000 +0000" channel="JOJ Cinema +1.webtv.sk">
     <title lang="id">Nástrahy lásky 2</title>
-  </programme>
-  <programme start="20260323230000 +0000" stop="20260323233000 +0000" channel="TA3.webtv.sk">
-    <title lang="id">Téma/Štúdio TA3</title>
-  </programme>
-  <programme start="20260323233000 +0000" stop="20260324000000 +0000" channel="TA3.webtv.sk">
-    <title lang="id">Hl. správy-záznam</title>
-  </programme>
-  <programme start="20260324000000 +0000" stop="20260324003000 +0000" channel="TA3.webtv.sk">
-    <title lang="id">Štúdio TA3</title>
-  </programme>
-  <programme start="20260324003000 +0000" stop="20260324010000 +0000" channel="TA3.webtv.sk">
-    <title lang="id">Hl. správy-záznam</title>
-  </programme>
-  <programme start="20260324010000 +0000" stop="20260324014000 +0000" channel="TA3.webtv.sk">
-    <title lang="id">Téma dňa s Eduardom Chmelárom</title>
-  </programme>
-  <programme start="20260324014000 +0000" stop="20260324020000 +0000" channel="TA3.webtv.sk">
-    <title lang="id">Štúdio TA3</title>
-  </programme>
-  <programme start="20260324020000 +0000" stop="20260324023000 +0000" channel="TA3.webtv.sk">
-    <title lang="id">Štúdio TA3</title>
-  </programme>
-  <programme start="20260324023000 +0000" stop="20260324030000 +0000" channel="TA3.webtv.sk">
-    <title lang="id">Hl. správy-záznam</title>
-  </programme>
-  <programme start="20260324030000 +0000" stop="20260324040000 +0000" channel="TA3.webtv.sk">
-    <title lang="id">Záznam TB/Štúdio TA3</title>
-  </programme>
-  <programme start="20260324040000 +0000" stop="20260324043000 +0000" channel="TA3.webtv.sk">
-    <title lang="id">Hl. správy-záznam</title>
-  </programme>
-  <programme start="20260324043000 +0000" stop="20260324050000 +0000" channel="TA3.webtv.sk">
-    <title lang="id">Záznam TB/Štúdio TA3</title>
-  </programme>
-  <programme start="20260324050000 +0000" stop="20260324053000 +0000" channel="TA3.webtv.sk">
-    <title lang="id">Správy</title>
-  </programme>
-  <programme start="20260324053000 +0000" stop="20260324060000 +0000" channel="TA3.webtv.sk">
-    <title lang="id">Štúdio TA3</title>
-  </programme>
-  <programme start="20260324060000 +0000" stop="20260324080000 +0000" channel="TA3.webtv.sk">
-    <title lang="id">Ranné správy</title>
-  </programme>
-  <programme start="20260324080000 +0000" stop="20260324083000 +0000" channel="TA3.webtv.sk">
-    <title lang="id">Správy</title>
-  </programme>
-  <programme start="20260324083000 +0000" stop="20260324090000 +0000" channel="TA3.webtv.sk">
-    <title lang="id">Téma</title>
-  </programme>
-  <programme start="20260324090000 +0000" stop="20260324093000 +0000" channel="TA3.webtv.sk">
-    <title lang="id">Správy</title>
-  </programme>
-  <programme start="20260324093000 +0000" stop="20260324100000 +0000" channel="TA3.webtv.sk">
-    <title lang="id">Štúdio TA3</title>
-  </programme>
-  <programme start="20260324100000 +0000" stop="20260324103000 +0000" channel="TA3.webtv.sk">
-    <title lang="id">Správy</title>
-  </programme>
-  <programme start="20260324103000 +0000" stop="20260324110000 +0000" channel="TA3.webtv.sk">
-    <title lang="id">Štúdio TA3</title>
-  </programme>
-  <programme start="20260324110000 +0000" stop="20260324112000 +0000" channel="TA3.webtv.sk">
-    <title lang="id">Žurnál</title>
-  </programme>
-  <programme start="20260324112000 +0000" stop="20260324113000 +0000" channel="TA3.webtv.sk">
-    <title lang="id">Šport</title>
-  </programme>
-  <programme start="20260324113000 +0000" stop="20260324120000 +0000" channel="TA3.webtv.sk">
-    <title lang="id">Politika online</title>
-  </programme>
-  <programme start="20260324120000 +0000" stop="20260324123000 +0000" channel="TA3.webtv.sk">
-    <title lang="id">Správy</title>
-  </programme>
-  <programme start="20260324123000 +0000" stop="20260324130000 +0000" channel="TA3.webtv.sk">
-    <title lang="id">Motoring</title>
-  </programme>
-  <programme start="20260324130000 +0000" stop="20260324133000 +0000" channel="TA3.webtv.sk">
-    <title lang="id">Správy</title>
-  </programme>
-  <programme start="20260324133000 +0000" stop="20260324134500 +0000" channel="TA3.webtv.sk">
-    <title lang="id">Naše potraviny</title>
-  </programme>
-  <programme start="20260324134500 +0000" stop="20260324140000 +0000" channel="TA3.webtv.sk">
-    <title lang="id">Biznis</title>
-  </programme>
-  <programme start="20260324140000 +0000" stop="20260324143000 +0000" channel="TA3.webtv.sk">
-    <title lang="id">Správy</title>
-  </programme>
-  <programme start="20260324143000 +0000" stop="20260324150000 +0000" channel="TA3.webtv.sk">
-    <title lang="id">Štúdio TA3</title>
-  </programme>
-  <programme start="20260324150000 +0000" stop="20260324152000 +0000" channel="TA3.webtv.sk">
-    <title lang="id">Žurnál</title>
-  </programme>
-  <programme start="20260324152000 +0000" stop="20260324153000 +0000" channel="TA3.webtv.sk">
-    <title lang="id">Šport</title>
-  </programme>
-  <programme start="20260324153000 +0000" stop="20260324160000 +0000" channel="TA3.webtv.sk">
-    <title lang="id">Štúdio TA3</title>
-  </programme>
-  <programme start="20260324160000 +0000" stop="20260324163000 +0000" channel="TA3.webtv.sk">
-    <title lang="id">Správy</title>
-  </programme>
-  <programme start="20260324163000 +0000" stop="20260324170000 +0000" channel="TA3.webtv.sk">
-    <title lang="id">Investujeme</title>
-  </programme>
-  <programme start="20260324170000 +0000" stop="20260324171500 +0000" channel="TA3.webtv.sk">
-    <title lang="id">Naše potraviny</title>
-  </programme>
-  <programme start="20260324171500 +0000" stop="20260324173000 +0000" channel="TA3.webtv.sk">
-    <title lang="id">Štúdio TA3</title>
-  </programme>
-  <programme start="20260324173000 +0000" stop="20260324175500 +0000" channel="TA3.webtv.sk">
-    <title lang="id">Hlavné správy</title>
-  </programme>
-  <programme start="20260324175500 +0000" stop="20260324181000 +0000" channel="TA3.webtv.sk">
-    <title lang="id">Šport</title>
-  </programme>
-  <programme start="20260324181000 +0000" stop="20260324183000 +0000" channel="TA3.webtv.sk">
-    <title lang="id">Štúdio TA3</title>
-  </programme>
-  <programme start="20260324183000 +0000" stop="20260324185000 +0000" channel="TA3.webtv.sk">
-    <title lang="id">Štúdio TA3</title>
-  </programme>
-  <programme start="20260324185000 +0000" stop="20260324193000 +0000" channel="TA3.webtv.sk">
-    <title lang="id">Téma dňa</title>
-  </programme>
-  <programme start="20260324193000 +0000" stop="20260324200000 +0000" channel="TA3.webtv.sk">
-    <title lang="id">Showbiz</title>
-  </programme>
-  <programme start="20260324200000 +0000" stop="20260324203000 +0000" channel="TA3.webtv.sk">
-    <title lang="id">Správy</title>
-  </programme>
-  <programme start="20260324203000 +0000" stop="20260324210000 +0000" channel="TA3.webtv.sk">
-    <title lang="id">Politika online</title>
-  </programme>
-  <programme start="20260324210000 +0000" stop="20260324213000 +0000" channel="TA3.webtv.sk">
-    <title lang="id">Správy</title>
-  </programme>
-  <programme start="20260324213000 +0000" stop="20260324223000 +0000" channel="TA3.webtv.sk">
-    <title lang="id">VAR</title>
-  </programme>
-  <programme start="20260324223000 +0000" stop="20260324230000 +0000" channel="TA3.webtv.sk">
-    <title lang="id">Hl. správy-záznam</title>
   </programme>
   <programme start="20260323230000 +0000" stop="20260323233000 +0000" channel="JOJ 24.webtv.sk">
     <title lang="id">Noviny TV JOJ</title>
@@ -2430,6 +2214,45 @@
   </programme>
   <programme start="20260324224000 +0000" stop="20260324232000 +0000" channel="RiK TV.webtv.sk">
     <title lang="id">Flopyho veselé príbehy</title>
+  </programme>
+  <programme start="20260323230000 +0000" stop="20260324040000 +0000" channel="LALA TV.webtv.sk">
+    <title lang="id">Spíva celá rodina</title>
+  </programme>
+  <programme start="20260324040000 +0000" stop="20260324060000 +0000" channel="LALA TV.webtv.sk">
+    <title lang="id">Ranní ptáčata</title>
+  </programme>
+  <programme start="20260324060000 +0000" stop="20260324070000 +0000" channel="LALA TV.webtv.sk">
+    <title lang="id">Já jsem budík budíček</title>
+  </programme>
+  <programme start="20260324070000 +0000" stop="20260324080000 +0000" channel="LALA TV.webtv.sk">
+    <title lang="id">Spíva celá rodina</title>
+  </programme>
+  <programme start="20260324080000 +0000" stop="20260324110000 +0000" channel="LALA TV.webtv.sk">
+    <title lang="id">Pějme písně dokola</title>
+  </programme>
+  <programme start="20260324110000 +0000" stop="20260324120000 +0000" channel="LALA TV.webtv.sk">
+    <title lang="id">Hvězdy a hvězdičky</title>
+  </programme>
+  <programme start="20260324120000 +0000" stop="20260324150000 +0000" channel="LALA TV.webtv.sk">
+    <title lang="id">Pějme písně dokola</title>
+  </programme>
+  <programme start="20260324150000 +0000" stop="20260324160000 +0000" channel="LALA TV.webtv.sk">
+    <title lang="id">Hvězdy a hvězdičky</title>
+  </programme>
+  <programme start="20260324160000 +0000" stop="20260324170000 +0000" channel="LALA TV.webtv.sk">
+    <title lang="id">Spíva celá rodina</title>
+  </programme>
+  <programme start="20260324170000 +0000" stop="20260324180000 +0000" channel="LALA TV.webtv.sk">
+    <title lang="id">Pějme písně dokola</title>
+  </programme>
+  <programme start="20260324180000 +0000" stop="20260324190000 +0000" channel="LALA TV.webtv.sk">
+    <title lang="id">Hvězdy a hvězdičky</title>
+  </programme>
+  <programme start="20260324190000 +0000" stop="20260324210000 +0000" channel="LALA TV.webtv.sk">
+    <title lang="id">Pějme písně dokola</title>
+  </programme>
+  <programme start="20260324210000 +0000" stop="20260324230000 +0000" channel="LALA TV.webtv.sk">
+    <title lang="id">Malí nezbedníci</title>
   </programme>
   <programme start="20260323230000 +0000" stop="20260324050000 +0000" channel="Turbo TV.webtv.sk">
     <title lang="id">Zajko Turbo spinká. Prajeme Vám dobrú noc.</title>
@@ -5667,6 +5490,39 @@
   </programme>
   <programme start="20260324224500 +0000" stop="20260324231500 +0000" channel="Auto Motor und Sport.webtv.sk">
     <title lang="id">Fast Lap</title>
+  </programme>
+  <programme start="20260323230000 +0000" stop="20260324010000 +0000" channel="Golf Channel.webtv.sk">
+    <title lang="id">Fortinet Founders Cup</title>
+  </programme>
+  <programme start="20260324010000 +0000" stop="20260324030000 +0000" channel="Golf Channel.webtv.sk">
+    <title lang="id">Jupiter vs Los Angeles Finále</title>
+  </programme>
+  <programme start="20260324030000 +0000" stop="20260324050000 +0000" channel="Golf Channel.webtv.sk">
+    <title lang="id">Jupiter vs Los Angeles Finále</title>
+  </programme>
+  <programme start="20260324050000 +0000" stop="20260324100000 +0000" channel="Golf Channel.webtv.sk">
+    <title lang="id">LIV Golf South Africa</title>
+  </programme>
+  <programme start="20260324100000 +0000" stop="20260324120000 +0000" channel="Golf Channel.webtv.sk">
+    <title lang="id">Jupiter vs Los Angeles Finále</title>
+  </programme>
+  <programme start="20260324120000 +0000" stop="20260324130000 +0000" channel="Golf Channel.webtv.sk">
+    <title lang="id">Highlights z turnaje LIV Golf</title>
+  </programme>
+  <programme start="20260324130000 +0000" stop="20260324180000 +0000" channel="Golf Channel.webtv.sk">
+    <title lang="id">LIV Golf South Africa</title>
+  </programme>
+  <programme start="20260324180000 +0000" stop="20260324200000 +0000" channel="Golf Channel.webtv.sk">
+    <title lang="id">Jupiter vs Los Angeles Finále</title>
+  </programme>
+  <programme start="20260324200000 +0000" stop="20260324203000 +0000" channel="Golf Channel.webtv.sk">
+    <title lang="id">The Golf Fix</title>
+  </programme>
+  <programme start="20260324203000 +0000" stop="20260324213000 +0000" channel="Golf Channel.webtv.sk">
+    <title lang="id">Sněhulák</title>
+  </programme>
+  <programme start="20260324213000 +0000" stop="20260324230000 +0000" channel="Golf Channel.webtv.sk">
+    <title lang="id">Jupiter vs Los Angeles Finále</title>
   </programme>
   <programme start="20260323230000 +0000" stop="20260323234500 +0000" channel="National Geographic Channel.webtv.sk">
     <title lang="id">Apokalypsa: Válka světů I (1)</title>
@@ -19572,51 +19428,6 @@
   </programme>
   <programme start="20260324210000 +0000" stop="20260324230000 +0000" channel="Óčko Star.webtv.sk">
     <title lang="id">DEVADESÁTKY</title>
-  </programme>
-  <programme start="20260323230000 +0000" stop="20260324035900 +0000" channel="Retro Music Television.webtv.sk">
-    <title lang="id">Revolution</title>
-  </programme>
-  <programme start="20260324035900 +0000" stop="20260324065900 +0000" channel="Retro Music Television.webtv.sk">
-    <title lang="id">Restart</title>
-  </programme>
-  <programme start="20260324065900 +0000" stop="20260324080000 +0000" channel="Retro Music Television.webtv.sk">
-    <title lang="id">Retrománie</title>
-  </programme>
-  <programme start="20260324080000 +0000" stop="20260324090000 +0000" channel="Retro Music Television.webtv.sk">
-    <title lang="id">Replay 90&apos;</title>
-  </programme>
-  <programme start="20260324090000 +0000" stop="20260324095900 +0000" channel="Retro Music Television.webtv.sk">
-    <title lang="id">Replay 80&apos;</title>
-  </programme>
-  <programme start="20260324095900 +0000" stop="20260324120000 +0000" channel="Retro Music Television.webtv.sk">
-    <title lang="id">Refresh</title>
-  </programme>
-  <programme start="20260324120000 +0000" stop="20260324133000 +0000" channel="Retro Music Television.webtv.sk">
-    <title lang="id">Republika</title>
-  </programme>
-  <programme start="20260324133000 +0000" stop="20260324150000 +0000" channel="Retro Music Television.webtv.sk">
-    <title lang="id">Rekreace</title>
-  </programme>
-  <programme start="20260324150000 +0000" stop="20260324155900 +0000" channel="Retro Music Television.webtv.sk">
-    <title lang="id">Repete</title>
-  </programme>
-  <programme start="20260324155900 +0000" stop="20260324163000 +0000" channel="Retro Music Television.webtv.sk">
-    <title lang="id">Rentgen</title>
-  </programme>
-  <programme start="20260324163000 +0000" stop="20260324170000 +0000" channel="Retro Music Television.webtv.sk">
-    <title lang="id">Retrománie</title>
-  </programme>
-  <programme start="20260324170000 +0000" stop="20260324183000 +0000" channel="Retro Music Television.webtv.sk">
-    <title lang="id">Republika</title>
-  </programme>
-  <programme start="20260324183000 +0000" stop="20260324185900 +0000" channel="Retro Music Television.webtv.sk">
-    <title lang="id">Reproduktor</title>
-  </programme>
-  <programme start="20260324185900 +0000" stop="20260324210000 +0000" channel="Retro Music Television.webtv.sk">
-    <title lang="id">Replay 90&apos;</title>
-  </programme>
-  <programme start="20260324210000 +0000" stop="20260324230000 +0000" channel="Retro Music Television.webtv.sk">
-    <title lang="id">Retro love</title>
   </programme>
   <programme start="20260323230000 +0000" stop="20260323232000 +0000" channel="Rebel.webtv.sk">
     <title lang="id">ROCK SPECIÁL</title>
