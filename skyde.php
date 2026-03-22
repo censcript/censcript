@@ -2716,7 +2716,7 @@
 <programme start="20260322223000 +0000" stop="20260322233000 +0000" channel="Sky Sport F1 HD.skyde">
     <title>F1 Academy: 1. Rennen - GP China</title>
 </programme>
-<programme start="20260322010000 +0000" stop="20260322040000 +0000" channel="Sky Sport Golf HD.skyde">
+<programme start="20260322012500 +0000" stop="20260322040000 +0000" channel="Sky Sport Golf HD.skyde">
     <title>LIV Golf: Südafrika, 3. Tag in Johannesburg</title>
 </programme>
 <programme start="20260322040000 +0000" stop="20260322050000 +0000" channel="Sky Sport Golf HD.skyde">
@@ -2728,11 +2728,11 @@
 <programme start="20260322053000 +0000" stop="20260322073000 +0000" channel="Sky Sport Golf HD.skyde">
     <title>TGL: Jupiter Links Golf Club - Boston Common Golf, Halbfinale</title>
 </programme>
-<programme start="20260322073000 +0000" stop="20260322080000 +0000" channel="Sky Sport Golf HD.skyde">
-    <title>Golf: Greatest Holes (5)</title>
-</programme>
-<programme start="20260322080000 +0000" stop="20260322130000 +0000" channel="Sky Sport Golf HD.skyde">
+<programme start="20260322073000 +0000" stop="20260322123000 +0000" channel="Sky Sport Golf HD.skyde">
     <title>Live LIV Golf: Südafrika, 4. Tag in Johannesburg</title>
+</programme>
+<programme start="20260322123000 +0000" stop="20260322130000 +0000" channel="Sky Sport Golf HD.skyde">
+    <title>Golf: Greatest Holes (5)</title>
 </programme>
 <programme start="20260322130000 +0000" stop="20260322153000 +0000" channel="Sky Sport Golf HD.skyde">
     <title>LPGA: Fortinet Founders Cup, 3. Tag in Menlo Park, CA (USA)</title>
@@ -2995,52 +2995,46 @@
 <programme start="20260322030000 +0000" stop="20260322040000 +0000" channel="Sky Sport Tennis HD.skyde">
     <title>ATP 1000: Review Indian Wells</title>
 </programme>
-<programme start="20260322040000 +0000" stop="20260322060000 +0000" channel="Sky Sport Tennis HD.skyde">
+<programme start="20260322063000 +0000" stop="20260322072500 +0000" channel="Sky Sport Tennis HD.skyde">
     <title>WTA 1000: J. Pegula (USA) - F. Jones (GBR), Miami Open presented by Itaú in Miami, Florida (USA), 5. Tag</title>
 </programme>
-<programme start="20260322060000 +0000" stop="20260322080000 +0000" channel="Sky Sport Tennis HD.skyde">
+<programme start="20260322072500 +0000" stop="20260322084500 +0000" channel="Sky Sport Tennis HD.skyde">
     <title>ATP 1000: A. Zverev (GER) - M. Damm (USA), Miami Open presented by Itaú in Miami, Florida (USA), 5. Tag</title>
 </programme>
-<programme start="20260322080000 +0000" stop="20260322103000 +0000" channel="Sky Sport Tennis HD.skyde">
+<programme start="20260322084500 +0000" stop="20260322111500 +0000" channel="Sky Sport Tennis HD.skyde">
     <title>ATP 1000: J. Sinner (ITA) - D. Medvedev, BNP Paribas Open in Indian Wells, Kalifornien (USA), Finale</title>
 </programme>
-<programme start="20260322103000 +0000" stop="20260322110000 +0000" channel="Sky Sport Tennis HD.skyde">
+<programme start="20260322111500 +0000" stop="20260322114500 +0000" channel="Sky Sport Tennis HD.skyde">
     <title>WTA 1000: Review Indian Wells</title>
 </programme>
-<programme start="20260322110000 +0000" stop="20260322130000 +0000" channel="Sky Sport Tennis HD.skyde">
+<programme start="20260322114500 +0000" stop="20260322124500 +0000" channel="Sky Sport Tennis HD.skyde">
     <title>WTA 1000: J. Pegula (USA) - F. Jones (GBR), Miami Open presented by Itaú in Miami, Florida (USA), 5. Tag</title>
 </programme>
-<programme start="20260322130000 +0000" stop="20260322150000 +0000" channel="Sky Sport Tennis HD.skyde">
+<programme start="20260322124500 +0000" stop="20260322140000 +0000" channel="Sky Sport Tennis HD.skyde">
     <title>ATP 1000: A. Zverev (GER) - M. Damm (USA), Miami Open presented by Itaú in Miami, Florida (USA), 5. Tag</title>
 </programme>
 <programme start="20260322150000 +0000" stop="20260323030000 +0000" channel="Sky Sport Tennis HD.skyde">
     <title>Live ATP &amp; WTA: Konferenz Miami Open presented by Itaú in Miami, Florida (USA), 6. Tag</title>
 </programme>
-<programme start="20260322000000 +0000" stop="20260322030000 +0000" channel="Sky Sport Top Event HD.skyde">
+<programme start="20260322000000 +0000" stop="20260322024500 +0000" channel="Sky Sport Top Event HD.skyde">
     <title>Live ATP &amp; WTA: Konferenz Miami Open presented by Itaú in Miami, Florida (USA), 5. Tag</title>
 </programme>
-<programme start="20260322030000 +0000" stop="20260322050000 +0000" channel="Sky Sport Top Event HD.skyde">
+<programme start="20260322024500 +0000" stop="20260322050000 +0000" channel="Sky Sport Top Event HD.skyde">
     <title>Live NHL: Tampa Bay Lightning @ Edmonton Oilers</title>
 </programme>
 <programme start="20260322050000 +0000" stop="20260322051500 +0000" channel="Sky Sport Top Event HD.skyde">
-    <title>Carabao Cup: Highlights XXL: CHE - ARS, Halbfinale Hinspiel</title>
-</programme>
-<programme start="20260322051500 +0000" stop="20260322053000 +0000" channel="Sky Sport Top Event HD.skyde">
-    <title>Carabao Cup: Highlights XXL: NEW - MCI, Halbfinale Hinspiel</title>
-</programme>
-<programme start="20260322053000 +0000" stop="20260322054500 +0000" channel="Sky Sport Top Event HD.skyde">
     <title>Carabao Cup: Highlights XXL: ARS - CHE, Halbfinale Rückspiel</title>
 </programme>
-<programme start="20260322054500 +0000" stop="20260322060000 +0000" channel="Sky Sport Top Event HD.skyde">
+<programme start="20260322051500 +0000" stop="20260322053000 +0000" channel="Sky Sport Top Event HD.skyde">
     <title>Carabao Cup: Highlights XXL: MCI - NEW, Halbfinale Rückspiel</title>
 </programme>
-<programme start="20260322060000 +0000" stop="20260322070000 +0000" channel="Sky Sport Top Event HD.skyde">
+<programme start="20260322053000 +0000" stop="20260322063000 +0000" channel="Sky Sport Top Event HD.skyde">
     <title>MotoGP: Sprint - GP Brasilien</title>
 </programme>
-<programme start="20260322070000 +0000" stop="20260322080000 +0000" channel="Sky Sport Top Event HD.skyde">
+<programme start="20260322063000 +0000" stop="20260322073000 +0000" channel="Sky Sport Top Event HD.skyde">
     <title>BL: Alle Spiele, alle Stimmen, 27. Spieltag</title>
 </programme>
-<programme start="20260322080000 +0000" stop="20260322095500 +0000" channel="Sky Sport Top Event HD.skyde">
+<programme start="20260322073000 +0000" stop="20260322095500 +0000" channel="Sky Sport Top Event HD.skyde">
     <title>Live LIV Golf: Südafrika, 4. Tag in Johannesburg</title>
 </programme>
 <programme start="20260322095500 +0000" stop="20260322120000 +0000" channel="Sky Sport Top Event HD.skyde">

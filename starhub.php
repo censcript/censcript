@@ -7876,8 +7876,11 @@
     <programme start="20260322100000 +0000" stop="20260322103000 +0000" channel="SPOTV2.starhub">
         <title>Grand Prix of Thailand</title>
     </programme>
-    <programme start="20260322103000 +0000" stop="20260322133500 +0000" channel="SPOTV2.starhub">
-        <title>2026 World Baseball Classic: Final Championship Game Venezuela vs USA</title>
+    <programme start="20260322103000 +0000" stop="20260322123500 +0000" channel="SPOTV2.starhub">
+        <title>25/26 A-League Men Round 22 Western Sydney Wanderers FC vs Adelaide United</title>
+    </programme>
+    <programme start="20260322123500 +0000" stop="20260322133500 +0000" channel="SPOTV2.starhub">
+        <title>Moto2 Qualifying 1 &amp; 2</title>
     </programme>
     <programme start="20260322133500 +0000" stop="20260322144500 +0000" channel="SPOTV2.starhub">
         <title>Warm Up</title>
