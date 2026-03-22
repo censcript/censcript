@@ -487,9 +487,6 @@
 <programme start="20260322070000 +0000" stop="20260322083000 +0000" channel="Trans 7.vision">
 <title>Cuan Bos</title>
 </programme>
-<programme start="20260322083000 +0000" stop="20260322110000 +0000" channel="Trans 7.vision">
-<title>Warkop: Sekawan Limo</title>
-</programme>
 <programme start="20260322110000 +0000" stop="20260322133000 +0000" channel="Trans 7.vision">
 <title>Suzzanna: Malam Jumat Kliwon</title>
 </programme>
@@ -576,12 +573,6 @@
 </programme>
 <programme start="20260322070000 +0000" stop="20260322073000 +0000" channel="ANTV.vision">
 <title>Jhanak</title>
-</programme>
-<programme start="20260322073000 +0000" stop="20260322110000 +0000" channel="ANTV.vision">
-<title>Mujhse Dosti Karoge</title>
-</programme>
-<programme start="20260322110000 +0000" stop="20260322130000 +0000" channel="ANTV.vision">
-<title>Jaka Swara</title>
 </programme>
 <programme start="20260322130000 +0000" stop="20260322143000 +0000" channel="ANTV.vision">
 <title>Sangkuriang</title>
@@ -1497,4 +1488,13 @@
 </programme>
 <programme start="20260322235000 +0000" stop="20260323010500 +0000" channel="MDTV.vision">
 <title>AADD: Ada Apa Dengan Dunia</title>
+</programme>
+<programme start="20260323010500 +0000" stop="20260323015500 +0000" channel="MDTV.vision">
+<title>Fakta +62</title>
+</programme>
+<programme start="20260323015500 +0000" stop="20260323025000 +0000" channel="MDTV.vision">
+<title>Sensasihot</title>
+</programme>
+<programme start="20260323025000 +0000" stop="20260323034000 +0000" channel="MDTV.vision">
+<title>Maria Cinta Yang Hilang</title>
 </programme>
