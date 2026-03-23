@@ -610,9 +610,6 @@
 <programme start="20260323090000 +0000" stop="20260323110000 +0000" channel="ANTV.vision">
 <title>Vasudha</title>
 </programme>
-<programme start="20260323110000 +0000" stop="20260323130000 +0000" channel="ANTV.vision">
-<title>Cinta Kembar</title>
-</programme>
 <programme start="20260323130000 +0000" stop="20260323143000 +0000" channel="ANTV.vision">
 <title>Ratu Sakti Calon Arang</title>
 </programme>
@@ -1497,4 +1494,7 @@
 </programme>
 <programme start="20260323063500 +0000" stop="20260323080500 +0000" channel="MDTV.vision">
 <title>Makan Enak</title>
+</programme>
+<programme start="20260323080500 +0000" stop="20260323091500 +0000" channel="MDTV.vision">
+<title>Masak Gesss!!!</title>
 </programme>

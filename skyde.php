@@ -1791,51 +1791,6 @@ Warning: Undefined array key "et" in /usr/home/ManusiaBiasa/domains/manusiabiasa
 <programme start="20260323224500 +0000" stop="20260324012500 +0000" channel="Sky Cinema Action HD.skyde">
     <title>American Gangster</title>
 </programme>
-<programme start="20260322232500 +0000" stop="20260323011000 +0000" channel="Sky Cinema Classics HD.skyde">
-    <title>Zwei tolle Kerle in Texas</title>
-</programme>
-<programme start="20260323011000 +0000" stop="20260323025000 +0000" channel="Sky Cinema Classics HD.skyde">
-    <title>Der Stern des Gesetzes</title>
-</programme>
-<programme start="20260323025000 +0000" stop="20260323040000 +0000" channel="Sky Cinema Classics HD.skyde">
-    <title>Die tätowierte Fremde</title>
-</programme>
-<programme start="20260323040000 +0000" stop="20260323052500 +0000" channel="Sky Cinema Classics HD.skyde">
-    <title>Oktaman - Die Bestie aus der Tiefe</title>
-</programme>
-<programme start="20260323052500 +0000" stop="20260323065500 +0000" channel="Sky Cinema Classics HD.skyde">
-    <title>Der Irre vom Zombiehof</title>
-</programme>
-<programme start="20260323065500 +0000" stop="20260323083000 +0000" channel="Sky Cinema Classics HD.skyde">
-    <title>Das Ungeheuer von London City</title>
-</programme>
-<programme start="20260323083000 +0000" stop="20260323100000 +0000" channel="Sky Cinema Classics HD.skyde">
-    <title>Kreuzfeuer</title>
-</programme>
-<programme start="20260323100000 +0000" stop="20260323111500 +0000" channel="Sky Cinema Classics HD.skyde">
-    <title>Um Haaresbreite</title>
-</programme>
-<programme start="20260323111500 +0000" stop="20260323123500 +0000" channel="Sky Cinema Classics HD.skyde">
-    <title>Der Siebente ist dran</title>
-</programme>
-<programme start="20260323123500 +0000" stop="20260323141000 +0000" channel="Sky Cinema Classics HD.skyde">
-    <title>Königstiger vor El Alamein</title>
-</programme>
-<programme start="20260323141000 +0000" stop="20260323155000 +0000" channel="Sky Cinema Classics HD.skyde">
-    <title>Der Regimentstrottel</title>
-</programme>
-<programme start="20260323155000 +0000" stop="20260323173000 +0000" channel="Sky Cinema Classics HD.skyde">
-    <title>Der weiße Hai 3</title>
-</programme>
-<programme start="20260323173000 +0000" stop="20260323191500 +0000" channel="Sky Cinema Classics HD.skyde">
-    <title>Zwei tolle Kerle in Texas</title>
-</programme>
-<programme start="20260323191500 +0000" stop="20260323203500 +0000" channel="Sky Cinema Classics HD.skyde">
-    <title>Der Siebente ist dran</title>
-</programme>
-<programme start="20260323203500 +0000" stop="20260323231000 +0000" channel="Sky Cinema Classics HD.skyde">
-    <title>Das war der Wilde Westen</title>
-</programme>
 <programme start="20260323002500 +0000" stop="20260323020500 +0000" channel="Sky Cinema Family HD.skyde">
     <title>Verliebt in eine Hexe</title>
 </programme>
@@ -2601,7 +2556,7 @@ Warning: Undefined array key "et" in /usr/home/ManusiaBiasa/domains/manusiabiasa
 <programme start="20260323144000 +0000" stop="20260323150000 +0000" channel="Sky Sport Austria 2 HD.skyde">
     <title>Es folgt: Live Tennis WTA Tour</title>
 </programme>
-<programme start="20260323150000 +0000" stop="20260324030000 +0000" channel="Sky Sport Austria 2 HD.skyde">
+<programme start="20260323150000 +0000" stop="20260324090000 +0000" channel="Sky Sport Austria 2 HD.skyde">
     <title>Live WTA 1000: Miami Open presented by Itaú in Miami, Florida (USA), 7. Tag</title>
 </programme>
 <programme start="20260323090000 +0000" stop="20260323090500 +0000" channel="Sky Sport Austria 4 HD.skyde">
@@ -3354,7 +3309,7 @@ Warning: Undefined array key "et" in /usr/home/ManusiaBiasa/domains/manusiabiasa
 <programme start="20260323150000 +0000" stop="20260324030000 +0000" channel="Sky Sport Tennis HD.skyde">
     <title>Live ATP &amp; WTA: Konferenz Miami Open presented by Itaú in Miami, Florida (USA), 7. Tag</title>
 </programme>
-<programme start="20260322235000 +0000" stop="20260323020000 +0000" channel="Sky Sport Top Event HD.skyde">
+<programme start="20260323000000 +0000" stop="20260323030000 +0000" channel="Sky Sport Top Event HD.skyde">
     <title>Live ATP &amp; WTA: Konferenz Miami Open presented by Itaú in Miami, Florida (USA), 6. Tag</title>
 </programme>
 <programme start="20260323030000 +0000" stop="20260323040000 +0000" channel="Sky Sport Top Event HD.skyde">
@@ -3426,7 +3381,7 @@ Warning: Undefined array key "et" in /usr/home/ManusiaBiasa/domains/manusiabiasa
 <programme start="20260323144000 +0000" stop="20260323150000 +0000" channel="Sky Sport 2 HD.skyde">
     <title>Es folgt: Live Tennis WTA Tour</title>
 </programme>
-<programme start="20260323150000 +0000" stop="20260324030000 +0000" channel="Sky Sport 2 HD.skyde">
+<programme start="20260323150000 +0000" stop="20260324090000 +0000" channel="Sky Sport 2 HD.skyde">
     <title>Live WTA 1000: Miami Open presented by Itaú in Miami, Florida (USA), 7. Tag</title>
 </programme>
 <programme start="20260323090000 +0000" stop="20260323090500 +0000" channel="Sky Sport 3 HD.skyde">
