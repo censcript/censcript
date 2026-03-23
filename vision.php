@@ -517,6 +517,15 @@
 <programme start="20260323023000 +0000" stop="20260323031500 +0000" channel="Trans 7.vision">
 <title>Selebrita Heits</title>
 </programme>
+<programme start="20260323031500 +0000" stop="20260323050000 +0000" channel="Trans 7.vision">
+<title>Argantara</title>
+</programme>
+<programme start="20260323050000 +0000" stop="20260323064500 +0000" channel="Trans 7.vision">
+<title>Weeding Agreement</title>
+</programme>
+<programme start="20260323064500 +0000" stop="20260323080000 +0000" channel="Trans 7.vision">
+<title>Warkop: Maju Kena Mundur Kena</title>
+</programme>
 <programme start="20260323080000 +0000" stop="20260323090000 +0000" channel="Trans 7.vision">
 <title>Jejak Si Gundul</title>
 </programme>
@@ -598,8 +607,14 @@
 <programme start="20260323003000 +0000" stop="20260323023000 +0000" channel="ANTV.vision">
 <title>Janji Cinta Inspektur Virat</title>
 </programme>
+<programme start="20260323023000 +0000" stop="20260323050000 +0000" channel="ANTV.vision">
+<title>Kal Ho Naa Ho</title>
+</programme>
 <programme start="20260323050000 +0000" stop="20260323053000 +0000" channel="ANTV.vision">
 <title>Topkin Mudik</title>
+</programme>
+<programme start="20260323053000 +0000" stop="20260323060000 +0000" channel="ANTV.vision">
+<title>Kal Ho Naa Ho</title>
 </programme>
 <programme start="20260323060000 +0000" stop="20260323080000 +0000" channel="ANTV.vision">
 <title>Jhanak</title>
@@ -1482,19 +1497,4 @@
 </programme>
 <programme start="20260323010500 +0000" stop="20260323015500 +0000" channel="MDTV.vision">
 <title>Fakta +62</title>
-</programme>
-<programme start="20260323015500 +0000" stop="20260323025000 +0000" channel="MDTV.vision">
-<title>Sensasihot</title>
-</programme>
-<programme start="20260323025000 +0000" stop="20260323034000 +0000" channel="MDTV.vision">
-<title>Maria Cinta Yang Hilang</title>
-</programme>
-<programme start="20260323034000 +0000" stop="20260323051500 +0000" channel="MDTV.vision">
-<title>Cinta Fitri S6</title>
-</programme>
-<programme start="20260323051500 +0000" stop="20260323063500 +0000" channel="MDTV.vision">
-<title>Makandunia</title>
-</programme>
-<programme start="20260323063500 +0000" stop="20260323080500 +0000" channel="MDTV.vision">
-<title>Makan Enak</title>
 </programme>

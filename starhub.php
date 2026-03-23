@@ -3968,7 +3968,7 @@
         <title>Cooking for Beginners</title>
     </programme>
     <programme start="20260323154500 +0000" stop="20260323161200 +0000" channel="NHK World Premium HD.starhub">
-        <title>&quot;The Man Who Tried to Link Two Seas with Cherry Blossoms&quot;</title>
+        <title>&quot;The Man Who Tried to Link Two Seas with Cherry Blossoms&quot; ®</title>
     </programme>
     <programme start="20260322144500 +0000" stop="20260322163500 +0000" channel="HBO HD.starhub">
         <title>Final Destination Bloodlines</title>
@@ -4814,7 +4814,7 @@
         <title>Star Singer Season 10</title>
     </programme>
     <programme start="20260322183000 +0000" stop="20260322213000 +0000" channel="Asianet.starhub">
-        <title>Movie</title>
+        <title>Prince and Family</title>
     </programme>
     <programme start="20260322213000 +0000" stop="20260322220000 +0000" channel="Asianet.starhub">
         <title>Star Singer Season 10</title>
@@ -4829,7 +4829,7 @@
         <title>Patharamattu</title>
     </programme>
     <programme start="20260322233000 +0000" stop="20260323020000 +0000" channel="Asianet.starhub">
-        <title>Movie</title>
+        <title>Spadikam</title>
     </programme>
     <programme start="20260323020000 +0000" stop="20260323023000 +0000" channel="Asianet.starhub">
         <title>Mazha thorum Munpe</title>
@@ -4850,7 +4850,7 @@
         <title>Star Singer Season 10</title>
     </programme>
     <programme start="20260323050000 +0000" stop="20260323073000 +0000" channel="Asianet.starhub">
-        <title>Movie</title>
+        <title>Thanneer Mathan dinangal</title>
     </programme>
     <programme start="20260323073000 +0000" stop="20260323080000 +0000" channel="Asianet.starhub">
         <title>Kattathe Kilikoodu</title>
@@ -4865,7 +4865,7 @@
         <title>Star Singer Season 10</title>
     </programme>
     <programme start="20260323093000 +0000" stop="20260323120000 +0000" channel="Asianet.starhub">
-        <title>Movie</title>
+        <title>Thundu</title>
     </programme>
     <programme start="20260323120000 +0000" stop="20260323123000 +0000" channel="Asianet.starhub">
         <title>Chirikkum Thalika II</title>

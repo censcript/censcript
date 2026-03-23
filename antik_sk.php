@@ -988,6 +988,93 @@
   <programme start="20260325213500 +0000" stop="20260325234500 +0000" channel="DajTo.webtv.sk">
     <title lang="id">Tichý nepriateľ</title>
   </programme>
+  <programme start="20260324220000 +0000" stop="20260324230500 +0000" channel="Doma.webtv.sk">
+    <title lang="id">Zachránené životy (113)</title>
+  </programme>
+  <programme start="20260324230500 +0000" stop="20260324235500 +0000" channel="Doma.webtv.sk">
+    <title lang="id">Zachránené životy (114)</title>
+  </programme>
+  <programme start="20260324235500 +0000" stop="20260325003500 +0000" channel="Doma.webtv.sk">
+    <title lang="id">Esmeralda (72)</title>
+  </programme>
+  <programme start="20260325003500 +0000" stop="20260325011500 +0000" channel="Doma.webtv.sk">
+    <title lang="id">Esmeralda (73)</title>
+  </programme>
+  <programme start="20260325011500 +0000" stop="20260325021500 +0000" channel="Doma.webtv.sk">
+    <title lang="id">Smotánka</title>
+  </programme>
+  <programme start="20260325021500 +0000" stop="20260325040500 +0000" channel="Doma.webtv.sk">
+    <title lang="id">Adela show</title>
+  </programme>
+  <programme start="20260325040500 +0000" stop="20260325045500 +0000" channel="Doma.webtv.sk">
+    <title lang="id">Oteckovia IV (1)</title>
+  </programme>
+  <programme start="20260325045500 +0000" stop="20260325054500 +0000" channel="Doma.webtv.sk">
+    <title lang="id">Búrlivé víno IV (63)</title>
+  </programme>
+  <programme start="20260325054500 +0000" stop="20260325063500 +0000" channel="Doma.webtv.sk">
+    <title lang="id">Rany z lásky (115)</title>
+  </programme>
+  <programme start="20260325063500 +0000" stop="20260325074000 +0000" channel="Doma.webtv.sk">
+    <title lang="id">Rany z lásky (116)</title>
+  </programme>
+  <programme start="20260325074000 +0000" stop="20260325081000 +0000" channel="Doma.webtv.sk">
+    <title lang="id">Znovu 20 IV (6)</title>
+  </programme>
+  <programme start="20260325081000 +0000" stop="20260325083500 +0000" channel="Doma.webtv.sk">
+    <title lang="id">Znovu 20 IV (7)</title>
+  </programme>
+  <programme start="20260325083500 +0000" stop="20260325092000 +0000" channel="Doma.webtv.sk">
+    <title lang="id">Znovu 20 IV (8)</title>
+  </programme>
+  <programme start="20260325092000 +0000" stop="20260325101000 +0000" channel="Doma.webtv.sk">
+    <title lang="id">Bull: Súdny špecialista V (12)</title>
+  </programme>
+  <programme start="20260325101000 +0000" stop="20260325110500 +0000" channel="Doma.webtv.sk">
+    <title lang="id">Leyla (113)</title>
+  </programme>
+  <programme start="20260325110500 +0000" stop="20260325121000 +0000" channel="Doma.webtv.sk">
+    <title lang="id">Leyla (114)</title>
+  </programme>
+  <programme start="20260325121000 +0000" stop="20260325130500 +0000" channel="Doma.webtv.sk">
+    <title lang="id">Oteckovia IV (2)</title>
+  </programme>
+  <programme start="20260325130500 +0000" stop="20260325141000 +0000" channel="Doma.webtv.sk">
+    <title lang="id">Nedodržaný sľub (55)</title>
+  </programme>
+  <programme start="20260325141000 +0000" stop="20260325150000 +0000" channel="Doma.webtv.sk">
+    <title lang="id">Nedodržaný sľub (56)</title>
+  </programme>
+  <programme start="20260325150000 +0000" stop="20260325160000 +0000" channel="Doma.webtv.sk">
+    <title lang="id">Esmeralda (74)</title>
+  </programme>
+  <programme start="20260325160000 +0000" stop="20260325170000 +0000" channel="Doma.webtv.sk">
+    <title lang="id">Esmeralda (75)</title>
+  </programme>
+  <programme start="20260325170000 +0000" stop="20260325180000 +0000" channel="Doma.webtv.sk">
+    <title lang="id">Bull: Súdny špecialista V (13)</title>
+  </programme>
+  <programme start="20260325180000 +0000" stop="20260325191000 +0000" channel="Doma.webtv.sk">
+    <title lang="id">Leyla (115)</title>
+  </programme>
+  <programme start="20260325191000 +0000" stop="20260325200000 +0000" channel="Doma.webtv.sk">
+    <title lang="id">Leyla (116)</title>
+  </programme>
+  <programme start="20260325200000 +0000" stop="20260325203000 +0000" channel="Doma.webtv.sk">
+    <title lang="id">Znovu 20 IV (9)</title>
+  </programme>
+  <programme start="20260325203000 +0000" stop="20260325210000 +0000" channel="Doma.webtv.sk">
+    <title lang="id">Znovu 20 IV (10)</title>
+  </programme>
+  <programme start="20260325210000 +0000" stop="20260325213000 +0000" channel="Doma.webtv.sk">
+    <title lang="id">Priatelia IX (8)</title>
+  </programme>
+  <programme start="20260325213000 +0000" stop="20260325220500 +0000" channel="Doma.webtv.sk">
+    <title lang="id">Priatelia IX (9)</title>
+  </programme>
+  <programme start="20260325220500 +0000" stop="20260325230500 +0000" channel="Doma.webtv.sk">
+    <title lang="id">Zachránené životy (115)</title>
+  </programme>
   <programme start="20260324225000 +0000" stop="20260324233500 +0000" channel="Markíza Krimi.webtv.sk">
     <title lang="id">Kosti II (6)</title>
   </programme>
@@ -6268,90 +6355,6 @@
   <programme start="20260325220000 +0000" stop="20260325230000 +0000" channel="Food Network.webtv.sk">
     <title lang="id">Alex proti Americe I (2)</title>
   </programme>
-  <programme start="20260324230000 +0000" stop="20260324234500 +0000" channel="Animal Planet.webtv.sk">
-    <title lang="id">Vymřeli či žijí II (4)</title>
-  </programme>
-  <programme start="20260324234500 +0000" stop="20260325003000 +0000" channel="Animal Planet.webtv.sk">
-    <title lang="id">Drsná spravedlnost III (4)</title>
-  </programme>
-  <programme start="20260325003000 +0000" stop="20260325011500 +0000" channel="Animal Planet.webtv.sk">
-    <title lang="id">Akvária na míru VI (3)</title>
-  </programme>
-  <programme start="20260325011500 +0000" stop="20260325020000 +0000" channel="Animal Planet.webtv.sk">
-    <title lang="id">Veterinární policie Houston XVII (7)</title>
-  </programme>
-  <programme start="20260325020000 +0000" stop="20260325024500 +0000" channel="Animal Planet.webtv.sk">
-    <title lang="id">Veterinární policie Houston XVII (8)</title>
-  </programme>
-  <programme start="20260325024500 +0000" stop="20260325033000 +0000" channel="Animal Planet.webtv.sk">
-    <title lang="id">Zvířecí pohotovost I (2)</title>
-  </programme>
-  <programme start="20260325033000 +0000" stop="20260325041500 +0000" channel="Animal Planet.webtv.sk">
-    <title lang="id">Lidé z aljašských lesů III (1)</title>
-  </programme>
-  <programme start="20260325041500 +0000" stop="20260325050000 +0000" channel="Animal Planet.webtv.sk">
-    <title lang="id">Má pekelná kočka VIII (10)</title>
-  </programme>
-  <programme start="20260325050000 +0000" stop="20260325055000 +0000" channel="Animal Planet.webtv.sk">
-    <title lang="id">No nazdar! Irwinovi zasahují III (9)</title>
-  </programme>
-  <programme start="20260325055000 +0000" stop="20260325064000 +0000" channel="Animal Planet.webtv.sk">
-    <title lang="id">ZOO III (7)</title>
-  </programme>
-  <programme start="20260325064000 +0000" stop="20260325073000 +0000" channel="Animal Planet.webtv.sk">
-    <title lang="id">Akvárium II (5)</title>
-  </programme>
-  <programme start="20260325073000 +0000" stop="20260325082500 +0000" channel="Animal Planet.webtv.sk">
-    <title lang="id">Dr. Jeff: Veterinář ze Skalnatých hor I (2)</title>
-  </programme>
-  <programme start="20260325082500 +0000" stop="20260325092000 +0000" channel="Animal Planet.webtv.sk">
-    <title lang="id">Akvária na míru VI (5)</title>
-  </programme>
-  <programme start="20260325092000 +0000" stop="20260325101500 +0000" channel="Animal Planet.webtv.sk">
-    <title lang="id">Veterinární policie Houston IX (4)</title>
-  </programme>
-  <programme start="20260325101500 +0000" stop="20260325111000 +0000" channel="Animal Planet.webtv.sk">
-    <title lang="id">Veterinární policie Houston IX (5)</title>
-  </programme>
-  <programme start="20260325111000 +0000" stop="20260325120500 +0000" channel="Animal Planet.webtv.sk">
-    <title lang="id">Zákon v Texasu VI (9)</title>
-  </programme>
-  <programme start="20260325120500 +0000" stop="20260325130000 +0000" channel="Animal Planet.webtv.sk">
-    <title lang="id">Život veterináře II (11)</title>
-  </programme>
-  <programme start="20260325130000 +0000" stop="20260325133000 +0000" channel="Animal Planet.webtv.sk">
-    <title lang="id">Kočky na stromech I (1)</title>
-  </programme>
-  <programme start="20260325133000 +0000" stop="20260325140000 +0000" channel="Animal Planet.webtv.sk">
-    <title lang="id">Kočky na stromech I (2)</title>
-  </programme>
-  <programme start="20260325140000 +0000" stop="20260325150000 +0000" channel="Animal Planet.webtv.sk">
-    <title lang="id">Pitbulové a propuštění trestanci IX (6)</title>
-  </programme>
-  <programme start="20260325150000 +0000" stop="20260325160000 +0000" channel="Animal Planet.webtv.sk">
-    <title lang="id">Má pekelná kočka IV (11)</title>
-  </programme>
-  <programme start="20260325160000 +0000" stop="20260325170000 +0000" channel="Animal Planet.webtv.sk">
-    <title lang="id">No nazdar! Irwinovi zasahují III (9)</title>
-  </programme>
-  <programme start="20260325170000 +0000" stop="20260325180000 +0000" channel="Animal Planet.webtv.sk">
-    <title lang="id">Dr. Jeff: Veterinář ze Skalnatých hor VI (12)</title>
-  </programme>
-  <programme start="20260325180000 +0000" stop="20260325190000 +0000" channel="Animal Planet.webtv.sk">
-    <title lang="id">Odborník na bazény I (5)</title>
-  </programme>
-  <programme start="20260325190000 +0000" stop="20260325200000 +0000" channel="Animal Planet.webtv.sk">
-    <title lang="id">Jak žraloci loví</title>
-  </programme>
-  <programme start="20260325200000 +0000" stop="20260325210000 +0000" channel="Animal Planet.webtv.sk">
-    <title lang="id">Lidé z aljašských lesů III (1)</title>
-  </programme>
-  <programme start="20260325210000 +0000" stop="20260325220000 +0000" channel="Animal Planet.webtv.sk">
-    <title lang="id">Zákon v Texasu VI (11)</title>
-  </programme>
-  <programme start="20260325220000 +0000" stop="20260325230000 +0000" channel="Animal Planet.webtv.sk">
-    <title lang="id">Stal jsem se kořistí III (7)</title>
-  </programme>
   <programme start="20260324230000 +0000" stop="20260324234500 +0000" channel="History Channel.webtv.sk">
     <title lang="id">Prokletí ostrova Oak</title>
   </programme>
@@ -8370,96 +8373,6 @@
   </programme>
   <programme start="20260325225000 +0000" stop="20260325231500 +0000" channel="Spektrum.webtv.sk">
     <title lang="id">FBI - Agenti řeší případy VI (5)</title>
-  </programme>
-  <programme start="20260324230000 +0000" stop="20260324234500 +0000" channel="Spektrum Home.webtv.sk">
-    <title lang="id">Doktor Martin VIII (4)</title>
-  </programme>
-  <programme start="20260324234500 +0000" stop="20260325001500 +0000" channel="Spektrum Home.webtv.sk">
-    <title lang="id">In a motorhome around Czechia I (6)</title>
-  </programme>
-  <programme start="20260325001500 +0000" stop="20260325011500 +0000" channel="Spektrum Home.webtv.sk">
-    <title lang="id">Uspořádejte si svůj život III (4)</title>
-  </programme>
-  <programme start="20260325011500 +0000" stop="20260325020000 +0000" channel="Spektrum Home.webtv.sk">
-    <title lang="id">Máme vlastní zámek VII (6)</title>
-  </programme>
-  <programme start="20260325020000 +0000" stop="20260325024500 +0000" channel="Spektrum Home.webtv.sk">
-    <title lang="id">Utajený šéf VI (4)</title>
-  </programme>
-  <programme start="20260325024500 +0000" stop="20260325033500 +0000" channel="Spektrum Home.webtv.sk">
-    <title lang="id">Na chalupě Austrálie I (2)</title>
-  </programme>
-  <programme start="20260325033500 +0000" stop="20260325041500 +0000" channel="Spektrum Home.webtv.sk">
-    <title lang="id">Dům snů - souboj II (5)</title>
-  </programme>
-  <programme start="20260325041500 +0000" stop="20260325050000 +0000" channel="Spektrum Home.webtv.sk">
-    <title lang="id">Dům snů III (3)</title>
-  </programme>
-  <programme start="20260325050000 +0000" stop="20260325054500 +0000" channel="Spektrum Home.webtv.sk">
-    <title lang="id">Dům snů - souboj II (5)</title>
-  </programme>
-  <programme start="20260325054500 +0000" stop="20260325063500 +0000" channel="Spektrum Home.webtv.sk">
-    <title lang="id">Dřevem žije celá Británie II (2)</title>
-  </programme>
-  <programme start="20260325063500 +0000" stop="20260325072500 +0000" channel="Spektrum Home.webtv.sk">
-    <title lang="id">Na chalupě Austrálie I (2)</title>
-  </programme>
-  <programme start="20260325072500 +0000" stop="20260325083000 +0000" channel="Spektrum Home.webtv.sk">
-    <title lang="id">Uspořádejte si svůj život III (4)</title>
-  </programme>
-  <programme start="20260325083000 +0000" stop="20260325092000 +0000" channel="Spektrum Home.webtv.sk">
-    <title lang="id">Život v buši III (7)</title>
-  </programme>
-  <programme start="20260325092000 +0000" stop="20260325101000 +0000" channel="Spektrum Home.webtv.sk">
-    <title lang="id">Doktor Martin VIII (4)</title>
-  </programme>
-  <programme start="20260325101000 +0000" stop="20260325104000 +0000" channel="Spektrum Home.webtv.sk">
-    <title lang="id">In a motorhome around Czechia I (6)</title>
-  </programme>
-  <programme start="20260325104000 +0000" stop="20260325111000 +0000" channel="Spektrum Home.webtv.sk">
-    <title lang="id">In a motorhome around Czechia II (1)</title>
-  </programme>
-  <programme start="20260325111000 +0000" stop="20260325120500 +0000" channel="Spektrum Home.webtv.sk">
-    <title lang="id">Utajený šéf VI (5)</title>
-  </programme>
-  <programme start="20260325120500 +0000" stop="20260325125500 +0000" channel="Spektrum Home.webtv.sk">
-    <title lang="id">Dřevem žije celá Británie II (2)</title>
-  </programme>
-  <programme start="20260325125500 +0000" stop="20260325134500 +0000" channel="Spektrum Home.webtv.sk">
-    <title lang="id">Dům snů III (3)</title>
-  </programme>
-  <programme start="20260325134500 +0000" stop="20260325143500 +0000" channel="Spektrum Home.webtv.sk">
-    <title lang="id">Až je koupím, budou mý! III (15)</title>
-  </programme>
-  <programme start="20260325143500 +0000" stop="20260325154000 +0000" channel="Spektrum Home.webtv.sk">
-    <title lang="id">Uspořádejte si svůj život III (5)</title>
-  </programme>
-  <programme start="20260325154000 +0000" stop="20260325163000 +0000" channel="Spektrum Home.webtv.sk">
-    <title lang="id">Život v buši III (8)</title>
-  </programme>
-  <programme start="20260325163000 +0000" stop="20260325172000 +0000" channel="Spektrum Home.webtv.sk">
-    <title lang="id">Doktor Martin VIII (5)</title>
-  </programme>
-  <programme start="20260325172000 +0000" stop="20260325181000 +0000" channel="Spektrum Home.webtv.sk">
-    <title lang="id">Máme vlastní zámek VII (7)</title>
-  </programme>
-  <programme start="20260325181000 +0000" stop="20260325190000 +0000" channel="Spektrum Home.webtv.sk">
-    <title lang="id">Máme vlastní zámek VII (8)</title>
-  </programme>
-  <programme start="20260325190000 +0000" stop="20260325195000 +0000" channel="Spektrum Home.webtv.sk">
-    <title lang="id">Na chalupě Austrálie I (3)</title>
-  </programme>
-  <programme start="20260325195000 +0000" stop="20260325204000 +0000" channel="Spektrum Home.webtv.sk">
-    <title lang="id">Dřevem žije celá Británie II (3)</title>
-  </programme>
-  <programme start="20260325204000 +0000" stop="20260325212500 +0000" channel="Spektrum Home.webtv.sk">
-    <title lang="id">Dům snů III (4)</title>
-  </programme>
-  <programme start="20260325212500 +0000" stop="20260325221000 +0000" channel="Spektrum Home.webtv.sk">
-    <title lang="id">Dům snů - souboj II (6)</title>
-  </programme>
-  <programme start="20260325221000 +0000" stop="20260325230000 +0000" channel="Spektrum Home.webtv.sk">
-    <title lang="id">Život v buši III (8)</title>
   </programme>
   <programme start="20260324230000 +0000" stop="20260324233000 +0000" channel="Fishing&Hunting.webtv.sk">
     <title lang="id">Cralusso - Inovativní method řešení</title>
