@@ -538,6 +538,9 @@
 <programme start="20260323140000 +0000" stop="20260323151500 +0000" channel="Trans 7.vision">
 <title>Lapor Pak!</title>
 </programme>
+<programme start="20260323151500 +0000" stop="20260323171500 +0000" channel="Trans 7.vision">
+<title>Do You See What I See</title>
+</programme>
 <programme start="20260323171500 +0000" stop="20260323190000 +0000" channel="Trans 7.vision">
 <title>Aku Tahu Kapan Kamu Mati</title>
 </programme>
@@ -606,6 +609,15 @@
 </programme>
 <programme start="20260323090000 +0000" stop="20260323110000 +0000" channel="ANTV.vision">
 <title>Vasudha</title>
+</programme>
+<programme start="20260323110000 +0000" stop="20260323130000 +0000" channel="ANTV.vision">
+<title>Cinta Kembar</title>
+</programme>
+<programme start="20260323130000 +0000" stop="20260323143000 +0000" channel="ANTV.vision">
+<title>Ratu Sakti Calon Arang</title>
+</programme>
+<programme start="20260323143000 +0000" stop="20260323163000 +0000" channel="ANTV.vision">
+<title>Kuntilanak: Cermin Keramat</title>
 </programme>
 <programme start="20260323163000 +0000" stop="20260323180000 +0000" channel="ANTV.vision">
 <title>Happy Ghost 5</title>
@@ -1485,16 +1497,4 @@
 </programme>
 <programme start="20260323063500 +0000" stop="20260323080500 +0000" channel="MDTV.vision">
 <title>Makan Enak</title>
-</programme>
-<programme start="20260323080500 +0000" stop="20260323091500 +0000" channel="MDTV.vision">
-<title>Masak Gesss!!!</title>
-</programme>
-<programme start="20260323091500 +0000" stop="20260323100000 +0000" channel="MDTV.vision">
-<title>Adit Sopo Jarwo</title>
-</programme>
-<programme start="20260323100000 +0000" stop="20260323110000 +0000" channel="MDTV.vision">
-<title>Amigos X Siempre</title>
-</programme>
-<programme start="20260323110000 +0000" stop="20260323120000 +0000" channel="MDTV.vision">
-<title>Esmeralda</title>
 </programme>

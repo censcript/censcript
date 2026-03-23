@@ -106,6 +106,10 @@
     <title>Football: Panetolikos - Panserraikos</title>
     <desc>Live: Tidak</desc>
 </programme>
+<programme start="20260325023000 +0700" stop="20260325043000 +0700" channel="COSMOTE Sport 2 HD">
+    <title>Football: Juventus Football Club - Sassuolo</title>
+    <desc>Live: Tidak</desc>
+</programme>
 <programme start="20260324010000 +0700" stop="20260324030000 +0700" channel="COSMOTE Sport 3 HD">
     <title>Football: Leeds United - Norwich City</title>
     <desc>Live: Tidak</desc>
@@ -234,8 +238,12 @@
     <title>Pick n&#039; Roll (L)</title>
     <desc>Live: Ya</desc>
 </programme>
-<programme start="20260324003000 +0700" stop="20260324020000 +0700" channel="COSMOTE Sport 5 HD">
-    <title>Motorsports: MotoGP 2026</title>
+<programme start="20260325021500 +0700" stop="20260325023500 +0700" channel="COSMOTE Sport 4 HD">
+    <title>NBA Specials</title>
+    <desc>Live: Tidak</desc>
+</programme>
+<programme start="20260325023500 +0700" stop="20260325050000 +0700" channel="COSMOTE Sport 4 HD">
+    <title>Basketball: Detroit Pistons - Los Angeles Lakers</title>
     <desc>Live: Tidak</desc>
 </programme>
 <programme start="20260324020000 +0700" stop="20260324031500 +0700" channel="COSMOTE Sport 5 HD">
@@ -334,10 +342,6 @@
     <title>Motorsports: Moto3 2026</title>
     <desc>Live: Tidak</desc>
 </programme>
-<programme start="20260324010000 +0700" stop="20260324020000 +0700" channel="COSMOTE Sport 6 HD">
-    <title>Topspin</title>
-    <desc>Live: Tidak</desc>
-</programme>
 <programme start="20260324020000 +0700" stop="20260324053000 +0700" channel="COSMOTE Sport 6 HD">
     <title>Tennis: ATP Masters 1000 2026 (L)</title>
     <desc>Live: Ya</desc>
@@ -350,23 +354,19 @@
     <title>Premier Padel Tour 2026</title>
     <desc>Live: Tidak</desc>
 </programme>
-<programme start="20260324110000 +0700" stop="20260324150000 +0700" channel="COSMOTE Sport 6 HD">
+<programme start="20260324110000 +0700" stop="20260324150500 +0700" channel="COSMOTE Sport 6 HD">
     <title>Tennis: ATP Masters 1000 2026</title>
     <desc>Live: Tidak</desc>
 </programme>
-<programme start="20260324150000 +0700" stop="20260324153000 +0700" channel="COSMOTE Sport 6 HD">
-    <title>Sports Classics: The Outdoor Sports Show 2026 E3</title>
-    <desc>Live: Tidak</desc>
-</programme>
-<programme start="20260324153000 +0700" stop="20260324163000 +0700" channel="COSMOTE Sport 6 HD">
+<programme start="20260324150500 +0700" stop="20260324161500 +0700" channel="COSMOTE Sport 6 HD">
     <title>Topspin</title>
     <desc>Live: Tidak</desc>
 </programme>
-<programme start="20260324163000 +0700" stop="20260324203000 +0700" channel="COSMOTE Sport 6 HD">
+<programme start="20260324161500 +0700" stop="20260324202000 +0700" channel="COSMOTE Sport 6 HD">
     <title>Tennis: ATP Masters 1000 2026</title>
     <desc>Live: Tidak</desc>
 </programme>
-<programme start="20260324203000 +0700" stop="20260324213000 +0700" channel="COSMOTE Sport 6 HD">
+<programme start="20260324202000 +0700" stop="20260324213000 +0700" channel="COSMOTE Sport 6 HD">
     <title>Topspin</title>
     <desc>Live: Tidak</desc>
 </programme>
@@ -378,7 +378,7 @@
     <title>Tennis: ATP Masters 1000 2026 (L)</title>
     <desc>Live: Ya</desc>
 </programme>
-<programme start="20260323220000 +0700" stop="20260324020000 +0700" channel="COSMOTE Sport 7 HD">
+<programme start="20260325023000 +0700" stop="20260325070000 +0700" channel="COSMOTE Sport 6 HD">
     <title>Tennis: ATP Masters 1000 2026 (L)</title>
     <desc>Live: Ya</desc>
 </programme>
@@ -441,6 +441,10 @@
 <programme start="20260325013000 +0700" stop="20260325020000 +0700" channel="COSMOTE Sport 7 HD">
     <title>COSMOTESport7HD</title>
     <desc>Live: Tidak</desc>
+</programme>
+<programme start="20260325020000 +0700" stop="20260325043000 +0700" channel="COSMOTE Sport 7 HD">
+    <title>Volleyball: Las Palmas - Sir Sicoma Monini Perugia (L)</title>
+    <desc>Live: Ya</desc>
 </programme>
 <programme start="20260324010000 +0700" stop="20260324030000 +0700" channel="COSMOTE Sport 8 HD">
     <title>COSMOTESport8HD</title>
