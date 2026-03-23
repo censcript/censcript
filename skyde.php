@@ -3330,16 +3330,13 @@ Warning: Undefined array key "et" in /usr/home/ManusiaBiasa/domains/manusiabiasa
 <programme start="20260323224500 +0000" stop="20260323230000 +0000" channel="Sky Sport Premier League HD.skyde">
     <title>EFL: Highlights XXL: Swansea City - Coventry City, 39. Spieltag</title>
 </programme>
-<programme start="20260323020000 +0000" stop="20260323030000 +0000" channel="Sky Sport Tennis HD.skyde">
-    <title>ATP 1000: Review Indian Wells</title>
-</programme>
 <programme start="20260323030000 +0000" stop="20260323033000 +0000" channel="Sky Sport Tennis HD.skyde">
     <title>ATP: This Week</title>
 </programme>
-<programme start="20260323033000 +0000" stop="20260323050000 +0000" channel="Sky Sport Tennis HD.skyde">
+<programme start="20260323033000 +0000" stop="20260323053000 +0000" channel="Sky Sport Tennis HD.skyde">
     <title>WTA 1000: A. Sabalenka - C. McNally (USA), Miami Open presented by Itaú in Miami, Florida (USA), 6. Tag</title>
 </programme>
-<programme start="20260323050000 +0000" stop="20260323073000 +0000" channel="Sky Sport Tennis HD.skyde">
+<programme start="20260323053000 +0000" stop="20260323073000 +0000" channel="Sky Sport Tennis HD.skyde">
     <title>ATP 1000: C. Alcaraz (ESP) - S. Korda (USA), Miami Open presented by Itaú in Miami, Florida (USA), 6. Tag</title>
 </programme>
 <programme start="20260323073000 +0000" stop="20260323100000 +0000" channel="Sky Sport Tennis HD.skyde">
@@ -3348,10 +3345,10 @@ Warning: Undefined array key "et" in /usr/home/ManusiaBiasa/domains/manusiabiasa
 <programme start="20260323100000 +0000" stop="20260323110000 +0000" channel="Sky Sport Tennis HD.skyde">
     <title>ATP 1000: Review Indian Wells</title>
 </programme>
-<programme start="20260323110000 +0000" stop="20260323123000 +0000" channel="Sky Sport Tennis HD.skyde">
+<programme start="20260323110000 +0000" stop="20260323130000 +0000" channel="Sky Sport Tennis HD.skyde">
     <title>WTA 1000: A. Sabalenka - C. McNally (USA), Miami Open presented by Itaú in Miami, Florida (USA), 6. Tag</title>
 </programme>
-<programme start="20260323123000 +0000" stop="20260323150000 +0000" channel="Sky Sport Tennis HD.skyde">
+<programme start="20260323130000 +0000" stop="20260323150000 +0000" channel="Sky Sport Tennis HD.skyde">
     <title>ATP 1000: C. Alcaraz (ESP) - S. Korda (USA), Miami Open presented by Itaú in Miami, Florida (USA), 6. Tag</title>
 </programme>
 <programme start="20260323150000 +0000" stop="20260324030000 +0000" channel="Sky Sport Tennis HD.skyde">
@@ -3359,9 +3356,6 @@ Warning: Undefined array key "et" in /usr/home/ManusiaBiasa/domains/manusiabiasa
 </programme>
 <programme start="20260322235000 +0000" stop="20260323020000 +0000" channel="Sky Sport Top Event HD.skyde">
     <title>Live ATP &amp; WTA: Konferenz Miami Open presented by Itaú in Miami, Florida (USA), 6. Tag</title>
-</programme>
-<programme start="20260323020000 +0000" stop="20260323030000 +0000" channel="Sky Sport Top Event HD.skyde">
-    <title>ATP 1000: Review Indian Wells</title>
 </programme>
 <programme start="20260323030000 +0000" stop="20260323040000 +0000" channel="Sky Sport Top Event HD.skyde">
     <title>MotoGP: Rennen - GP Brasilien</title>

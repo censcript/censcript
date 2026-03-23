@@ -538,9 +538,6 @@
 <programme start="20260323140000 +0000" stop="20260323151500 +0000" channel="Trans 7.vision">
 <title>Lapor Pak!</title>
 </programme>
-<programme start="20260323171500 +0000" stop="20260323190000 +0000" channel="Trans 7.vision">
-<title>Aku Tahu Kapan Kamu Mati</title>
-</programme>
 <programme start="20260323190000 +0000" stop="20260323204500 +0000" channel="Trans 7.vision">
 <title>Game Of Death</title>
 </programme>
@@ -607,14 +604,8 @@
 <programme start="20260323090000 +0000" stop="20260323110000 +0000" channel="ANTV.vision">
 <title>Vasudha</title>
 </programme>
-<programme start="20260323163000 +0000" stop="20260323180000 +0000" channel="ANTV.vision">
-<title>Happy Ghost 5</title>
-</programme>
 <programme start="20260323180000 +0000" stop="20260323193000 +0000" channel="ANTV.vision">
 <title>Sanctuary</title>
-</programme>
-<programme start="20260323193000 +0000" stop="20260323213000 +0000" channel="ANTV.vision">
-<title>Coffin Mountain Tomb</title>
 </programme>
 <programme start="20260323213000 +0000" stop="20260323230000 +0000" channel="ANTV.vision">
 <title>The Duel</title>
@@ -1497,4 +1488,13 @@
 </programme>
 <programme start="20260323110000 +0000" stop="20260323120000 +0000" channel="MDTV.vision">
 <title>Esmeralda</title>
+</programme>
+<programme start="20260323120000 +0000" stop="20260323130000 +0000" channel="MDTV.vision">
+<title>Keluarga Yang Tak Dirindukan</title>
+</programme>
+<programme start="20260323130000 +0000" stop="20260323140000 +0000" channel="MDTV.vision">
+<title>Dunia Tanpa Tuhan</title>
+</programme>
+<programme start="20260323140000 +0000" stop="20260323145000 +0000" channel="MDTV.vision">
+<title>The Return Of Condor Heroes</title>
 </programme>
