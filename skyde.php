@@ -2601,7 +2601,7 @@ Warning: Undefined array key "et" in /usr/home/ManusiaBiasa/domains/manusiabiasa
 <programme start="20260323144000 +0000" stop="20260323150000 +0000" channel="Sky Sport Austria 2 HD.skyde">
     <title>Es folgt: Live Tennis WTA Tour</title>
 </programme>
-<programme start="20260323150000 +0000" stop="20260324090000 +0000" channel="Sky Sport Austria 2 HD.skyde">
+<programme start="20260323150000 +0000" stop="20260324030000 +0000" channel="Sky Sport Austria 2 HD.skyde">
     <title>Live WTA 1000: Miami Open presented by Itaú in Miami, Florida (USA), 7. Tag</title>
 </programme>
 <programme start="20260323090000 +0000" stop="20260323090500 +0000" channel="Sky Sport Austria 4 HD.skyde">
@@ -3333,11 +3333,11 @@ Warning: Undefined array key "et" in /usr/home/ManusiaBiasa/domains/manusiabiasa
 <programme start="20260323030000 +0000" stop="20260323033000 +0000" channel="Sky Sport Tennis HD.skyde">
     <title>ATP: This Week</title>
 </programme>
-<programme start="20260323033000 +0000" stop="20260323053000 +0000" channel="Sky Sport Tennis HD.skyde">
-    <title>WTA 1000: Topspiel, Miami Open presented by Itaú in Miami, Florida (USA), 6. Tag</title>
+<programme start="20260323033000 +0000" stop="20260323050000 +0000" channel="Sky Sport Tennis HD.skyde">
+    <title>WTA 1000: A. Sabalenka - C. McNally (USA), Miami Open presented by Itaú in Miami, Florida (USA), 6. Tag</title>
 </programme>
-<programme start="20260323053000 +0000" stop="20260323073000 +0000" channel="Sky Sport Tennis HD.skyde">
-    <title>ATP 1000: Topspiel, Miami Open presented by Itaú in Miami, Florida (USA), 6. Tag</title>
+<programme start="20260323050000 +0000" stop="20260323073000 +0000" channel="Sky Sport Tennis HD.skyde">
+    <title>ATP 1000: C. Alcaraz (ESP) - S. Korda (USA), Miami Open presented by Itaú in Miami, Florida (USA), 6. Tag</title>
 </programme>
 <programme start="20260323073000 +0000" stop="20260323100000 +0000" channel="Sky Sport Tennis HD.skyde">
     <title>WTA 1000: E. Rybakina (KAZ) - A. Sabalenka, BNP Paribas Open in Indian Wells, Kalifornien (USA), Finale</title>
@@ -3345,11 +3345,11 @@ Warning: Undefined array key "et" in /usr/home/ManusiaBiasa/domains/manusiabiasa
 <programme start="20260323100000 +0000" stop="20260323110000 +0000" channel="Sky Sport Tennis HD.skyde">
     <title>ATP 1000: Review Indian Wells</title>
 </programme>
-<programme start="20260323110000 +0000" stop="20260323130000 +0000" channel="Sky Sport Tennis HD.skyde">
-    <title>WTA 1000: Topspiel, Miami Open presented by Itaú in Miami, Florida (USA), 6. Tag</title>
+<programme start="20260323110000 +0000" stop="20260323123000 +0000" channel="Sky Sport Tennis HD.skyde">
+    <title>WTA 1000: A. Sabalenka - C. McNally (USA), Miami Open presented by Itaú in Miami, Florida (USA), 6. Tag</title>
 </programme>
-<programme start="20260323130000 +0000" stop="20260323150000 +0000" channel="Sky Sport Tennis HD.skyde">
-    <title>ATP 1000: Topspiel, Miami Open presented by Itaú in Miami, Florida (USA), 6. Tag</title>
+<programme start="20260323123000 +0000" stop="20260323150000 +0000" channel="Sky Sport Tennis HD.skyde">
+    <title>ATP 1000: C. Alcaraz (ESP) - S. Korda (USA), Miami Open presented by Itaú in Miami, Florida (USA), 6. Tag</title>
 </programme>
 <programme start="20260323150000 +0000" stop="20260324030000 +0000" channel="Sky Sport Tennis HD.skyde">
     <title>Live ATP &amp; WTA: Konferenz Miami Open presented by Itaú in Miami, Florida (USA), 7. Tag</title>
@@ -3426,7 +3426,7 @@ Warning: Undefined array key "et" in /usr/home/ManusiaBiasa/domains/manusiabiasa
 <programme start="20260323144000 +0000" stop="20260323150000 +0000" channel="Sky Sport 2 HD.skyde">
     <title>Es folgt: Live Tennis WTA Tour</title>
 </programme>
-<programme start="20260323150000 +0000" stop="20260324030000 +0000" channel="Sky Sport 2 HD.skyde">
+<programme start="20260323150000 +0000" stop="20260324090000 +0000" channel="Sky Sport 2 HD.skyde">
     <title>Live WTA 1000: Miami Open presented by Itaú in Miami, Florida (USA), 7. Tag</title>
 </programme>
 <programme start="20260323090000 +0000" stop="20260323090500 +0000" channel="Sky Sport 3 HD.skyde">

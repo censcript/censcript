@@ -370,7 +370,51 @@
 <programme start="20260323163000 +0000" stop="20260322170000 +0000" channel="Animax.mncvision">
     <title>My Love Story With..., Ep 7</title>
 </programme>
-Error: Unable to fetch data. HTTP Status Code: 500
+<programme start="20260322190000 +0000" stop="20260322193000 +0000" channel="ANTV.mncvision">
+    <title>Mr. Bean</title>
+</programme>
+<programme start="20260322193000 +0000" stop="20260322213000 +0000" channel="ANTV.mncvision">
+    <title>The Revenge Of Plant</title>
+</programme>
+<programme start="20260322213000 +0000" stop="20260322230000 +0000" channel="ANTV.mncvision">
+    <title>Monkey King: The Volcano</title>
+</programme>
+<programme start="20260322230000 +0000" stop="20260323003000 +0000" channel="ANTV.mncvision">
+    <title>Baalveer Returns</title>
+</programme>
+<programme start="20260323003000 +0000" stop="20260323023000 +0000" channel="ANTV.mncvision">
+    <title>Janji Cinta Inspektur Virat</title>
+</programme>
+<programme start="20260323023000 +0000" stop="20260323050000 +0000" channel="ANTV.mncvision">
+    <title>Kal Ho Naa Ho</title>
+</programme>
+<programme start="20260323050000 +0000" stop="20260323053000 +0000" channel="ANTV.mncvision">
+    <title>Topkin Mudik</title>
+</programme>
+<programme start="20260323053000 +0000" stop="20260323060000 +0000" channel="ANTV.mncvision">
+    <title>Kal Ho Naa Ho</title>
+</programme>
+<programme start="20260323060000 +0000" stop="20260323080000 +0000" channel="ANTV.mncvision">
+    <title>Jhanak</title>
+</programme>
+<programme start="20260323080000 +0000" stop="20260323090000 +0000" channel="ANTV.mncvision">
+    <title>Teri Meri Doriyaann</title>
+</programme>
+<programme start="20260323090000 +0000" stop="20260323110000 +0000" channel="ANTV.mncvision">
+    <title>Vasudha</title>
+</programme>
+<programme start="20260323110000 +0000" stop="20260323130000 +0000" channel="ANTV.mncvision">
+    <title>Cinta Kembar</title>
+</programme>
+<programme start="20260323130000 +0000" stop="20260323143000 +0000" channel="ANTV.mncvision">
+    <title>Ratu Sakti Calon Arang</title>
+</programme>
+<programme start="20260323143000 +0000" stop="20260323163000 +0000" channel="ANTV.mncvision">
+    <title>Kuntilanak: Cermin Keramat</title>
+</programme>
+<programme start="20260323163000 +0000" stop="20260322170000 +0000" channel="ANTV.mncvision">
+    <title>Happy Ghost 5</title>
+</programme>
 <programme start="20260322170000 +0000" stop="20260322173000 +0000" channel="Arirang.mncvision">
     <title>Arirang</title>
 </programme>
@@ -3185,7 +3229,84 @@ Error: Unable to fetch data. HTTP Status Code: 500
 <programme start="20260323040000 +0000" stop="20260323043000 +0000" channel="EURONEWS.mncvision">
     <title>The European Debrief</title>
 </programme>
-Error: Unable to fetch data. HTTP Status Code: 500
+<programme start="20260322170000 +0000" stop="20260322180000 +0000" channel="Fight Sports.mncvision">
+    <title>WCCB: Romero Vs Yigit</title>
+</programme>
+<programme start="20260322180000 +0000" stop="20260322200000 +0000" channel="Fight Sports.mncvision">
+    <title>Greatest Classics S1, Ep 5</title>
+</programme>
+<programme start="20260322200000 +0000" stop="20260322203000 +0000" channel="Fight Sports.mncvision">
+    <title>Knockouts!: Alvarez Vs Cintron</title>
+</programme>
+<programme start="20260322203000 +0000" stop="20260322210000 +0000" channel="Fight Sports.mncvision">
+    <title>FS Grand Sumo S21, Ep 2</title>
+</programme>
+<programme start="20260322210000 +0000" stop="20260322220000 +0000" channel="Fight Sports.mncvision">
+    <title>American Ninja... S7, Ep 6</title>
+</programme>
+<programme start="20260322220000 +0000" stop="20260322230000 +0000" channel="Fight Sports.mncvision">
+    <title>FS MMA: Patt Vs Ellington</title>
+</programme>
+<programme start="20260322230000 +0000" stop="20260323000000 +0000" channel="Fight Sports.mncvision">
+    <title>WCCB: Romero Vs Yigit</title>
+</programme>
+<programme start="20260323000000 +0000" stop="20260323020000 +0000" channel="Fight Sports.mncvision">
+    <title>Greatest Classics S1, Ep 5</title>
+</programme>
+<programme start="20260323020000 +0000" stop="20260323023000 +0000" channel="Fight Sports.mncvision">
+    <title>Knockouts!: Alvarez Vs Cintron</title>
+</programme>
+<programme start="20260323023000 +0000" stop="20260323030000 +0000" channel="Fight Sports.mncvision">
+    <title>FS Grand Sumo S21, Ep 2</title>
+</programme>
+<programme start="20260323030000 +0000" stop="20260323040000 +0000" channel="Fight Sports.mncvision">
+    <title>American Ninja... S7, Ep 6</title>
+</programme>
+<programme start="20260323040000 +0000" stop="20260323050000 +0000" channel="Fight Sports.mncvision">
+    <title>FS MMA: Patt Vs Ellington</title>
+</programme>
+<programme start="20260323050000 +0000" stop="20260323060000 +0000" channel="Fight Sports.mncvision">
+    <title>WCCB: Romero Vs Yigit</title>
+</programme>
+<programme start="20260323060000 +0000" stop="20260323080000 +0000" channel="Fight Sports.mncvision">
+    <title>Greatest Classics S1, Ep 5</title>
+</programme>
+<programme start="20260323080000 +0000" stop="20260323083000 +0000" channel="Fight Sports.mncvision">
+    <title>Knockouts!: Alvarez Vs Cintron</title>
+</programme>
+<programme start="20260323083000 +0000" stop="20260323090000 +0000" channel="Fight Sports.mncvision">
+    <title>FS Grand Sumo S21, Ep 2</title>
+</programme>
+<programme start="20260323090000 +0000" stop="20260323100000 +0000" channel="Fight Sports.mncvision">
+    <title>American Ninja... S7, Ep 6</title>
+</programme>
+<programme start="20260323100000 +0000" stop="20260323110000 +0000" channel="Fight Sports.mncvision">
+    <title>FS MMA: Patt Vs Ellington</title>
+</programme>
+<programme start="20260323110000 +0000" stop="20260323130000 +0000" channel="Fight Sports.mncvision">
+    <title>WCCB: Wallin Vs Mandras</title>
+</programme>
+<programme start="20260323130000 +0000" stop="20260323133000 +0000" channel="Fight Sports.mncvision">
+    <title>Wide World Of Fights S3, Ep 6</title>
+</programme>
+<programme start="20260323133000 +0000" stop="20260323140000 +0000" channel="Fight Sports.mncvision">
+    <title>Karate 1 Premiere League</title>
+</programme>
+<programme start="20260323140000 +0000" stop="20260323143000 +0000" channel="Fight Sports.mncvision">
+    <title>Knockouts!: Sergio Vs Paul</title>
+</programme>
+<programme start="20260323143000 +0000" stop="20260323150000 +0000" channel="Fight Sports.mncvision">
+    <title>FS Grand Sumo S21, Ep 3</title>
+</programme>
+<programme start="20260323150000 +0000" stop="20260323153000 +0000" channel="Fight Sports.mncvision">
+    <title>BWF Martial Arts S11, Ep 1</title>
+</programme>
+<programme start="20260323153000 +0000" stop="20260323160000 +0000" channel="Fight Sports.mncvision">
+    <title>MMA 30 S1, Ep 10</title>
+</programme>
+<programme start="20260323160000 +0000" stop="20260323163000 +0000" channel="Fight Sports.mncvision">
+    <title>FS MMA: Fiorot Vs Guegjes</title>
+</programme>
 <programme start="20260322170000 +0000" stop="20260322173000 +0000" channel="FOOD TRAVEL.mncvision">
     <title>GPS: Geng Petualangan Seru</title>
 </programme>
@@ -4401,7 +4522,99 @@ Error: Unable to fetch data. HTTP Status Code: 500
 <programme start="20260323163000 +0000" stop="20260322170000 +0000" channel="IDX.mncvision">
     <title>Eksplorazi</title>
 </programme>
-Error: Unable to fetch data. HTTP Status Code: 500
+<programme start="20260322170000 +0000" stop="20260322180000 +0000" channel="IDX HD.mncvision">
+    <title>Prime Market Highlight</title>
+</programme>
+<programme start="20260322180000 +0000" stop="20260322190000 +0000" channel="IDX HD.mncvision">
+    <title>Market Review</title>
+</programme>
+<programme start="20260322190000 +0000" stop="20260322200000 +0000" channel="IDX HD.mncvision">
+    <title>New Top Files</title>
+</programme>
+<programme start="20260322200000 +0000" stop="20260322210000 +0000" channel="IDX HD.mncvision">
+    <title>OMG IDX</title>
+</programme>
+<programme start="20260322210000 +0000" stop="20260322213000 +0000" channel="IDX HD.mncvision">
+    <title>Eksplorazi</title>
+</programme>
+<programme start="20260322213000 +0000" stop="20260322220000 +0000" channel="IDX HD.mncvision">
+    <title>IDXTainment</title>
+</programme>
+<programme start="20260322220000 +0000" stop="20260322223000 +0000" channel="IDX HD.mncvision">
+    <title>Geopark Indonesia</title>
+</programme>
+<programme start="20260322223000 +0000" stop="20260322233000 +0000" channel="IDX HD.mncvision">
+    <title>OMG IDX</title>
+</programme>
+<programme start="20260322233000 +0000" stop="20260323000000 +0000" channel="IDX HD.mncvision">
+    <title>I Love Indonesia</title>
+</programme>
+<programme start="20260323000000 +0000" stop="20260323003000 +0000" channel="IDX HD.mncvision">
+    <title>IDXTainment</title>
+</programme>
+<programme start="20260323003000 +0000" stop="20260323013000 +0000" channel="IDX HD.mncvision">
+    <title>Prime Market Highlight</title>
+</programme>
+<programme start="20260323013000 +0000" stop="20260323023000 +0000" channel="IDX HD.mncvision">
+    <title>The Fundamentals</title>
+</programme>
+<programme start="20260323023000 +0000" stop="20260323030000 +0000" channel="IDX HD.mncvision">
+    <title>IDXTainment</title>
+</programme>
+<programme start="20260323030000 +0000" stop="20260323040000 +0000" channel="IDX HD.mncvision">
+    <title>Tukang Makan</title>
+</programme>
+<programme start="20260323040000 +0000" stop="20260323050000 +0000" channel="IDX HD.mncvision">
+    <title>News Screen</title>
+</programme>
+<programme start="20260323050000 +0000" stop="20260323053000 +0000" channel="IDX HD.mncvision">
+    <title>Women&#039;s Talk</title>
+</programme>
+<programme start="20260323053000 +0000" stop="20260323060000 +0000" channel="IDX HD.mncvision">
+    <title>Rating 5</title>
+</programme>
+<programme start="20260323060000 +0000" stop="20260323063000 +0000" channel="IDX HD.mncvision">
+    <title>Eksplorazi</title>
+</programme>
+<programme start="20260323063000 +0000" stop="20260323070000 +0000" channel="IDX HD.mncvision">
+    <title>I Love Indonesia</title>
+</programme>
+<programme start="20260323070000 +0000" stop="20260323080000 +0000" channel="IDX HD.mncvision">
+    <title>New Top Files</title>
+</programme>
+<programme start="20260323080000 +0000" stop="20260323090000 +0000" channel="IDX HD.mncvision">
+    <title>Market Review</title>
+</programme>
+<programme start="20260323090000 +0000" stop="20260323100000 +0000" channel="IDX HD.mncvision">
+    <title>News Screen</title>
+</programme>
+<programme start="20260323100000 +0000" stop="20260323103000 +0000" channel="IDX HD.mncvision">
+    <title>Women&#039;s Talk</title>
+</programme>
+<programme start="20260323103000 +0000" stop="20260323110000 +0000" channel="IDX HD.mncvision">
+    <title>I Love Indonesia</title>
+</programme>
+<programme start="20260323110000 +0000" stop="20260323113000 +0000" channel="IDX HD.mncvision">
+    <title>IDXTainment</title>
+</programme>
+<programme start="20260323113000 +0000" stop="20260323123000 +0000" channel="IDX HD.mncvision">
+    <title>Tukang Makan</title>
+</programme>
+<programme start="20260323123000 +0000" stop="20260323133000 +0000" channel="IDX HD.mncvision">
+    <title>News Screen</title>
+</programme>
+<programme start="20260323133000 +0000" stop="20260323143000 +0000" channel="IDX HD.mncvision">
+    <title>The Fundamentals</title>
+</programme>
+<programme start="20260323143000 +0000" stop="20260323153000 +0000" channel="IDX HD.mncvision">
+    <title>Market Headlines</title>
+</programme>
+<programme start="20260323153000 +0000" stop="20260323163000 +0000" channel="IDX HD.mncvision">
+    <title>New Top Files</title>
+</programme>
+<programme start="20260323163000 +0000" stop="20260322170000 +0000" channel="IDX HD.mncvision">
+    <title>Eksplorazi</title>
+</programme>
 <programme start="20260322175500 +0000" stop="20260322192000 +0000" channel="IMC.mncvision">
     <title>Hantu Budeg</title>
 </programme>

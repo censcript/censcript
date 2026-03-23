@@ -517,9 +517,6 @@
 <programme start="20260323023000 +0000" stop="20260323031500 +0000" channel="Trans 7.vision">
 <title>Selebrita Heits</title>
 </programme>
-<programme start="20260323031500 +0000" stop="20260323050000 +0000" channel="Trans 7.vision">
-<title>Argantara</title>
-</programme>
 <programme start="20260323050000 +0000" stop="20260323064500 +0000" channel="Trans 7.vision">
 <title>Weeding Agreement</title>
 </programme>
@@ -1497,4 +1494,7 @@
 </programme>
 <programme start="20260323010500 +0000" stop="20260323015500 +0000" channel="MDTV.vision">
 <title>Fakta +62</title>
+</programme>
+<programme start="20260323015500 +0000" stop="20260323025000 +0000" channel="MDTV.vision">
+<title>Sensasihot</title>
 </programme>
