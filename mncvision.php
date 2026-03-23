@@ -7579,8 +7579,138 @@
 <programme start="20260323150000 +0000" stop="20260323153000 +0000" channel="RCTI HD.mncvision">
     <title>Paku Tanah Jawa</title>
 </programme>
-Error: Unable to fetch data. HTTP Status Code: 500
-Error: Unable to fetch data. HTTP Status Code: 500
+<programme start="20260322185000 +0000" stop="20260322210500 +0000" channel="Rock Action.mncvision">
+    <title>Waterworld</title>
+</programme>
+<programme start="20260322210500 +0000" stop="20260322232500 +0000" channel="Rock Action.mncvision">
+    <title>Robin Hood</title>
+</programme>
+<programme start="20260322232500 +0000" stop="20260323014000 +0000" channel="Rock Action.mncvision">
+    <title>Fast &amp; Furious: Hobbs &amp; Shaw</title>
+</programme>
+<programme start="20260323014000 +0000" stop="20260323033500 +0000" channel="Rock Action.mncvision">
+    <title>U-571</title>
+</programme>
+<programme start="20260323033500 +0000" stop="20260323051500 +0000" channel="Rock Action.mncvision">
+    <title>Vampire Wars: Battle For The...</title>
+</programme>
+<programme start="20260323051500 +0000" stop="20260323070500 +0000" channel="Rock Action.mncvision">
+    <title>Pitch Black</title>
+</programme>
+<programme start="20260323070500 +0000" stop="20260323092000 +0000" channel="Rock Action.mncvision">
+    <title>Robin Hood</title>
+</programme>
+<programme start="20260323092000 +0000" stop="20260323112500 +0000" channel="Rock Action.mncvision">
+    <title>Battleship</title>
+</programme>
+<programme start="20260323112500 +0000" stop="20260323125500 +0000" channel="Rock Action.mncvision">
+    <title>Death Ring</title>
+</programme>
+<programme start="20260323125500 +0000" stop="20260323150500 +0000" channel="Rock Action.mncvision">
+    <title>Waterworld</title>
+</programme>
+<programme start="20260323150500 +0000" stop="20260323164500 +0000" channel="Rock Action.mncvision">
+    <title>Universal Soldier</title>
+</programme>
+<programme start="20260323164500 +0000" stop="20260322171500 +0000" channel="Rock Action.mncvision">
+    <title>Seattle Superstorm</title>
+</programme>
+<programme start="20260322170000 +0000" stop="20260322174500 +0000" channel="Rock Entertainment.mncvision">
+    <title>Accident, Suicide... S6, Ep 3</title>
+</programme>
+<programme start="20260322174500 +0000" stop="20260322183000 +0000" channel="Rock Entertainment.mncvision">
+    <title>Accident, Suicide... S6, Ep 4</title>
+</programme>
+<programme start="20260322183000 +0000" stop="20260322191500 +0000" channel="Rock Entertainment.mncvision">
+    <title>Accident, Suicide... S6, Ep 5</title>
+</programme>
+<programme start="20260322191500 +0000" stop="20260322200000 +0000" channel="Rock Entertainment.mncvision">
+    <title>Accident, Suicide... S6, Ep 6</title>
+</programme>
+<programme start="20260322200000 +0000" stop="20260322204500 +0000" channel="Rock Entertainment.mncvision">
+    <title>Accident, Suicide... S6, Ep 7</title>
+</programme>
+<programme start="20260322204500 +0000" stop="20260322213000 +0000" channel="Rock Entertainment.mncvision">
+    <title>Accident, Suicide... S6, Ep 8</title>
+</programme>
+<programme start="20260322213000 +0000" stop="20260322220000 +0000" channel="Rock Entertainment.mncvision">
+    <title>Cobra Kai S3, Ep 8</title>
+</programme>
+<programme start="20260322220000 +0000" stop="20260322224500 +0000" channel="Rock Entertainment.mncvision">
+    <title>Late Night With... S13, Ep 80</title>
+</programme>
+<programme start="20260322224500 +0000" stop="20260322233000 +0000" channel="Rock Entertainment.mncvision">
+    <title>The Tonight Show S13, Ep 81</title>
+</programme>
+<programme start="20260322233000 +0000" stop="20260323001500 +0000" channel="Rock Entertainment.mncvision">
+    <title>Law &amp; Order: SVU S27, Ep 13</title>
+</programme>
+<programme start="20260323001500 +0000" stop="20260323010000 +0000" channel="Rock Entertainment.mncvision">
+    <title>Law &amp; Order: SVU S27, Ep 14</title>
+</programme>
+<programme start="20260323010000 +0000" stop="20260323014500 +0000" channel="Rock Entertainment.mncvision">
+    <title>Law &amp; Order: SVU S27, Ep 13</title>
+</programme>
+<programme start="20260323014500 +0000" stop="20260323023000 +0000" channel="Rock Entertainment.mncvision">
+    <title>Law &amp; Order: SVU S27, Ep 14</title>
+</programme>
+<programme start="20260323023000 +0000" stop="20260323031500 +0000" channel="Rock Entertainment.mncvision">
+    <title>The Tonight Show S13, Ep 81</title>
+</programme>
+<programme start="20260323031500 +0000" stop="20260323040000 +0000" channel="Rock Entertainment.mncvision">
+    <title>Late Night With... S13, Ep 80</title>
+</programme>
+<programme start="20260323040000 +0000" stop="20260323044500 +0000" channel="Rock Entertainment.mncvision">
+    <title>Law &amp; Order: SVU S27, Ep 13</title>
+</programme>
+<programme start="20260323044500 +0000" stop="20260323053000 +0000" channel="Rock Entertainment.mncvision">
+    <title>Law &amp; Order: SVU S27, Ep 14</title>
+</programme>
+<programme start="20260323053000 +0000" stop="20260323061500 +0000" channel="Rock Entertainment.mncvision">
+    <title>Law &amp; Order: SVU S27, Ep 13</title>
+</programme>
+<programme start="20260323061500 +0000" stop="20260323070000 +0000" channel="Rock Entertainment.mncvision">
+    <title>Law &amp; Order: SVU S27, Ep 14</title>
+</programme>
+<programme start="20260323070000 +0000" stop="20260323074500 +0000" channel="Rock Entertainment.mncvision">
+    <title>NCIS S22, Ep 1</title>
+</programme>
+<programme start="20260323074500 +0000" stop="20260323083000 +0000" channel="Rock Entertainment.mncvision">
+    <title>NCIS S22, Ep 2</title>
+</programme>
+<programme start="20260323083000 +0000" stop="20260323091000 +0000" channel="Rock Entertainment.mncvision">
+    <title>NCIS S22, Ep 3</title>
+</programme>
+<programme start="20260323091000 +0000" stop="20260323095500 +0000" channel="Rock Entertainment.mncvision">
+    <title>NCIS S22, Ep 4</title>
+</programme>
+<programme start="20260323095500 +0000" stop="20260323113000 +0000" channel="Rock Entertainment.mncvision">
+    <title>ExPatriot</title>
+</programme>
+<programme start="20260323113000 +0000" stop="20260323121500 +0000" channel="Rock Entertainment.mncvision">
+    <title>Law &amp; Order: SVU S27, Ep 15</title>
+</programme>
+<programme start="20260323121500 +0000" stop="20260323130000 +0000" channel="Rock Entertainment.mncvision">
+    <title>Law &amp; Order: SVU S27, Ep 16</title>
+</programme>
+<programme start="20260323130000 +0000" stop="20260323134500 +0000" channel="Rock Entertainment.mncvision">
+    <title>Law &amp; Order: SVU S27, Ep 15</title>
+</programme>
+<programme start="20260323134500 +0000" stop="20260323143000 +0000" channel="Rock Entertainment.mncvision">
+    <title>Law &amp; Order: SVU S27, Ep 16</title>
+</programme>
+<programme start="20260323143000 +0000" stop="20260323151500 +0000" channel="Rock Entertainment.mncvision">
+    <title>Real Housewives Of..., Ep 12</title>
+</programme>
+<programme start="20260323151500 +0000" stop="20260323160000 +0000" channel="Rock Entertainment.mncvision">
+    <title>The Tonight Show S13, Ep 82</title>
+</programme>
+<programme start="20260323160000 +0000" stop="20260323164500 +0000" channel="Rock Entertainment.mncvision">
+    <title>Late Night With... S13, Ep 81</title>
+</programme>
+<programme start="20260323164500 +0000" stop="20260322171500 +0000" channel="Rock Entertainment.mncvision">
+    <title>Real Housewives Of..., Ep 12</title>
+</programme>
 <programme start="20260322180000 +0000" stop="20260322193000 +0000" channel="SCTV.mncvision">
     <title>Sinema Malam</title>
 </programme>
@@ -8733,7 +8863,72 @@ Error: Unable to fetch data. HTTP Status Code: 500
 <programme start="20260323160500 +0000" stop="20260323163500 +0000" channel="Thrill.mncvision">
     <title>Mid-Night Two</title>
 </programme>
-Error: Unable to fetch data. HTTP Status Code: 500
+<programme start="20260322170000 +0000" stop="20260322180000 +0000" channel="Trans 7.mncvision">
+    <title>Prison On Fire 1</title>
+</programme>
+<programme start="20260322180000 +0000" stop="20260322190000 +0000" channel="Trans 7.mncvision">
+    <title>MotoGP: Brazil</title>
+</programme>
+<programme start="20260322190000 +0000" stop="20260322194500 +0000" channel="Trans 7.mncvision">
+    <title>Best Fishing</title>
+</programme>
+<programme start="20260322194500 +0000" stop="20260322204500 +0000" channel="Trans 7.mncvision">
+    <title>Moto3 2026: Brazil</title>
+</programme>
+<programme start="20260322204500 +0000" stop="20260322214500 +0000" channel="Trans 7.mncvision">
+    <title>BTS</title>
+</programme>
+<programme start="20260322214500 +0000" stop="20260322223000 +0000" channel="Trans 7.mncvision">
+    <title>Kisah Para Nabi</title>
+</programme>
+<programme start="20260322223000 +0000" stop="20260322233000 +0000" channel="Trans 7.mncvision">
+    <title>Redaksi Pagi: CNN Indonesia</title>
+</programme>
+<programme start="20260322233000 +0000" stop="20260323003000 +0000" channel="Trans 7.mncvision">
+    <title>Spotlite</title>
+</programme>
+<programme start="20260323003000 +0000" stop="20260323013000 +0000" channel="Trans 7.mncvision">
+    <title>Selebrita Pagi</title>
+</programme>
+<programme start="20260323013000 +0000" stop="20260323023000 +0000" channel="Trans 7.mncvision">
+    <title>FYP (For Your Pagi)</title>
+</programme>
+<programme start="20260323023000 +0000" stop="20260323031500 +0000" channel="Trans 7.mncvision">
+    <title>Selebrita Heits</title>
+</programme>
+<programme start="20260323031500 +0000" stop="20260323050000 +0000" channel="Trans 7.mncvision">
+    <title>Argantara</title>
+</programme>
+<programme start="20260323050000 +0000" stop="20260323064500 +0000" channel="Trans 7.mncvision">
+    <title>Weeding Agreement</title>
+</programme>
+<programme start="20260323064500 +0000" stop="20260323080000 +0000" channel="Trans 7.mncvision">
+    <title>Warkop: Maju Kena Mundur Kena</title>
+</programme>
+<programme start="20260323080000 +0000" stop="20260323090000 +0000" channel="Trans 7.mncvision">
+    <title>Jejak Si Gundul</title>
+</programme>
+<programme start="20260323090000 +0000" stop="20260323100000 +0000" channel="Trans 7.mncvision">
+    <title>Makan Receh</title>
+</programme>
+<programme start="20260323100000 +0000" stop="20260323110000 +0000" channel="Trans 7.mncvision">
+    <title>Speak Up!</title>
+</programme>
+<programme start="20260323110000 +0000" stop="20260323114500 +0000" channel="Trans 7.mncvision">
+    <title>Secret Story</title>
+</programme>
+<programme start="20260323114500 +0000" stop="20260323123000 +0000" channel="Trans 7.mncvision">
+    <title>POV (Pasti Obrolan Viral)</title>
+</programme>
+<programme start="20260323123000 +0000" stop="20260323140000 +0000" channel="Trans 7.mncvision">
+    <title>Arisan</title>
+</programme>
+<programme start="20260323140000 +0000" stop="20260323151500 +0000" channel="Trans 7.mncvision">
+    <title>Lapor Pak!</title>
+</programme>
+<programme start="20260323151500 +0000" stop="20260323154500 +0000" channel="Trans 7.mncvision">
+    <title>Do You See What I See</title>
+</programme>
 <programme start="20260322183000 +0000" stop="20260322220000 +0000" channel="Trans TV.mncvision">
     <title>CNN Tech News</title>
 </programme>
@@ -8899,8 +9094,78 @@ Error: Unable to fetch data. HTTP Status Code: 500
 <programme start="20260323161000 +0000" stop="20260323164000 +0000" channel="tvN HD.mncvision">
     <title>Fresh Off The Sea, Ep 8</title>
 </programme>
-Error: Unable to fetch data. HTTP Status Code: 500
-Error: Unable to fetch data. HTTP Status Code: 500
+<programme start="20260322173000 +0000" stop="20260322193500 +0000" channel="tvN Movies.mncvision">
+    <title>Hopeless</title>
+</programme>
+<programme start="20260322193500 +0000" stop="20260322220500 +0000" channel="tvN Movies.mncvision">
+    <title>Tazza: The Hidden Card</title>
+</programme>
+<programme start="20260322220500 +0000" stop="20260323000000 +0000" channel="tvN Movies.mncvision">
+    <title>Amazon Bullseye</title>
+</programme>
+<programme start="20260323000000 +0000" stop="20260323020500 +0000" channel="tvN Movies.mncvision">
+    <title>Train To Busan</title>
+</programme>
+<programme start="20260323020500 +0000" stop="20260323041500 +0000" channel="tvN Movies.mncvision">
+    <title>Highway Family</title>
+</programme>
+<programme start="20260323041500 +0000" stop="20260323055500 +0000" channel="tvN Movies.mncvision">
+    <title>Bear Man</title>
+</programme>
+<programme start="20260323055500 +0000" stop="20260323074500 +0000" channel="tvN Movies.mncvision">
+    <title>Usury Academy</title>
+</programme>
+<programme start="20260323074500 +0000" stop="20260323094500 +0000" channel="tvN Movies.mncvision">
+    <title>Dark Nuns</title>
+</programme>
+<programme start="20260323094500 +0000" stop="20260323115500 +0000" channel="tvN Movies.mncvision">
+    <title>Long Live The King</title>
+</programme>
+<programme start="20260323115500 +0000" stop="20260323140000 +0000" channel="tvN Movies.mncvision">
+    <title>Hopeless</title>
+</programme>
+<programme start="20260323140000 +0000" stop="20260323160000 +0000" channel="tvN Movies.mncvision">
+    <title>The Snitch</title>
+</programme>
+<programme start="20260323160000 +0000" stop="20260323163000 +0000" channel="tvN Movies.mncvision">
+    <title>The Long Way Home</title>
+</programme>
+<programme start="20260322173000 +0000" stop="20260322193500 +0000" channel="tvN Movies HD.mncvision">
+    <title>Hopeless</title>
+</programme>
+<programme start="20260322193500 +0000" stop="20260322220500 +0000" channel="tvN Movies HD.mncvision">
+    <title>Tazza: The Hidden Card</title>
+</programme>
+<programme start="20260322220500 +0000" stop="20260323000000 +0000" channel="tvN Movies HD.mncvision">
+    <title>Amazon Bullseye</title>
+</programme>
+<programme start="20260323000000 +0000" stop="20260323020500 +0000" channel="tvN Movies HD.mncvision">
+    <title>Train To Busan</title>
+</programme>
+<programme start="20260323020500 +0000" stop="20260323041500 +0000" channel="tvN Movies HD.mncvision">
+    <title>Highway Family</title>
+</programme>
+<programme start="20260323041500 +0000" stop="20260323055500 +0000" channel="tvN Movies HD.mncvision">
+    <title>Bear Man</title>
+</programme>
+<programme start="20260323055500 +0000" stop="20260323074500 +0000" channel="tvN Movies HD.mncvision">
+    <title>Usury Academy</title>
+</programme>
+<programme start="20260323074500 +0000" stop="20260323094500 +0000" channel="tvN Movies HD.mncvision">
+    <title>Dark Nuns</title>
+</programme>
+<programme start="20260323094500 +0000" stop="20260323115500 +0000" channel="tvN Movies HD.mncvision">
+    <title>Long Live The King</title>
+</programme>
+<programme start="20260323115500 +0000" stop="20260323140000 +0000" channel="tvN Movies HD.mncvision">
+    <title>Hopeless</title>
+</programme>
+<programme start="20260323140000 +0000" stop="20260323160000 +0000" channel="tvN Movies HD.mncvision">
+    <title>The Snitch</title>
+</programme>
+<programme start="20260323160000 +0000" stop="20260323163000 +0000" channel="tvN Movies HD.mncvision">
+    <title>The Long Way Home</title>
+</programme>
 <programme start="20260322170000 +0000" stop="20260322173000 +0000" channel="tvOne.mncvision">
     <title>tvOne</title>
 </programme>
@@ -8976,7 +9241,42 @@ Error: Unable to fetch data. HTTP Status Code: 500
 <programme start="20260323163000 +0000" stop="20260322170000 +0000" channel="tvOne.mncvision">
     <title>tvOne</title>
 </programme>
-Error: Unable to fetch data. HTTP Status Code: 500
+<programme start="20260322170000 +0000" stop="20260322190000 +0000" channel="TVRI.mncvision">
+    <title>TVRI</title>
+</programme>
+<programme start="20260322190000 +0000" stop="20260322210000 +0000" channel="TVRI.mncvision">
+    <title>TVRI</title>
+</programme>
+<programme start="20260322210000 +0000" stop="20260322230000 +0000" channel="TVRI.mncvision">
+    <title>TVRI</title>
+</programme>
+<programme start="20260322230000 +0000" stop="20260323010000 +0000" channel="TVRI.mncvision">
+    <title>TVRI</title>
+</programme>
+<programme start="20260323010000 +0000" stop="20260323030000 +0000" channel="TVRI.mncvision">
+    <title>TVRI</title>
+</programme>
+<programme start="20260323030000 +0000" stop="20260323050000 +0000" channel="TVRI.mncvision">
+    <title>TVRI</title>
+</programme>
+<programme start="20260323050000 +0000" stop="20260323070000 +0000" channel="TVRI.mncvision">
+    <title>TVRI</title>
+</programme>
+<programme start="20260323070000 +0000" stop="20260323090000 +0000" channel="TVRI.mncvision">
+    <title>TVRI</title>
+</programme>
+<programme start="20260323090000 +0000" stop="20260323110000 +0000" channel="TVRI.mncvision">
+    <title>TVRI</title>
+</programme>
+<programme start="20260323110000 +0000" stop="20260323130000 +0000" channel="TVRI.mncvision">
+    <title>TVRI</title>
+</programme>
+<programme start="20260323130000 +0000" stop="20260323150000 +0000" channel="TVRI.mncvision">
+    <title>TVRI</title>
+</programme>
+<programme start="20260323150000 +0000" stop="20260323153000 +0000" channel="TVRI.mncvision">
+    <title>TVRI</title>
+</programme>
 <programme start="20260322172100 +0000" stop="20260322184400 +0000" channel="UNIQUES.mncvision">
     <title>Kidnapped To The Island</title>
 </programme>

@@ -517,9 +517,6 @@
 <programme start="20260323023000 +0000" stop="20260323031500 +0000" channel="Trans 7.vision">
 <title>Selebrita Heits</title>
 </programme>
-<programme start="20260323064500 +0000" stop="20260323080000 +0000" channel="Trans 7.vision">
-<title>Warkop: Maju Kena Mundur Kena</title>
-</programme>
 <programme start="20260323080000 +0000" stop="20260323090000 +0000" channel="Trans 7.vision">
 <title>Jejak Si Gundul</title>
 </programme>
@@ -1497,4 +1494,7 @@
 </programme>
 <programme start="20260323051500 +0000" stop="20260323063500 +0000" channel="MDTV.vision">
 <title>Makandunia</title>
+</programme>
+<programme start="20260323063500 +0000" stop="20260323080500 +0000" channel="MDTV.vision">
+<title>Makan Enak</title>
 </programme>
