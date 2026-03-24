@@ -166,6 +166,10 @@
     <title>Football: Wrexham  - Chelsea FC</title>
     <desc>Live: Tidak</desc>
 </programme>
+<programme start="20260326044500 +0700" stop="20260326050000 +0700" channel="COSMOTE Sport 3 HD">
+    <title>Sports Highlights</title>
+    <desc>Live: Tidak</desc>
+</programme>
 <programme start="20260325023500 +0700" stop="20260325050000 +0700" channel="COSMOTE Sport 4 HD">
     <title>Basketball: Detroit Pistons - Los Angeles Lakers</title>
     <desc>Live: Tidak</desc>
@@ -228,10 +232,6 @@
 </programme>
 <programme start="20260326033000 +0700" stop="20260326060000 +0700" channel="COSMOTE Sport 4 HD">
     <title>Basketball: Phoenix Suns - Denver Nuggets</title>
-    <desc>Live: Tidak</desc>
-</programme>
-<programme start="20260325015500 +0700" stop="20260325032500 +0700" channel="COSMOTE Sport 5 HD">
-    <title>Motorsports: Moto3 2026</title>
     <desc>Live: Tidak</desc>
 </programme>
 <programme start="20260325032500 +0700" stop="20260325044000 +0700" channel="COSMOTE Sport 5 HD">
@@ -318,6 +318,14 @@
     <title>MotoGP 2026 - Highlights</title>
     <desc>Live: Tidak</desc>
 </programme>
+<programme start="20260326040500 +0700" stop="20260326045000 +0700" channel="COSMOTE Sport 5 HD">
+    <title>ERC 2025</title>
+    <desc>Live: Tidak</desc>
+</programme>
+<programme start="20260326045000 +0700" stop="20260326055500 +0700" channel="COSMOTE Sport 5 HD">
+    <title>ERC 2025</title>
+    <desc>Live: Tidak</desc>
+</programme>
 <programme start="20260325023000 +0700" stop="20260325070000 +0700" channel="COSMOTE Sport 6 HD">
     <title>Tennis: ATP Masters 1000 2026 (L)</title>
     <desc>Live: Ya</desc>
@@ -357,6 +365,10 @@
 <programme start="20260326020000 +0700" stop="20260326043000 +0700" channel="COSMOTE Sport 6 HD">
     <title>Tennis: ATP Masters 1000 2026 (L)</title>
     <desc>Live: Ya</desc>
+</programme>
+<programme start="20260326043000 +0700" stop="20260326050000 +0700" channel="COSMOTE Sport 6 HD">
+    <title>Sports Classics: The Outdoor Sports Show 2026 E3</title>
+    <desc>Live: Tidak</desc>
 </programme>
 <programme start="20260325020000 +0700" stop="20260325043000 +0700" channel="COSMOTE Sport 7 HD">
     <title>Volleyball: Las Palmas - Sir Sicoma Monini Perugia (L)</title>
