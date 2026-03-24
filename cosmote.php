@@ -110,6 +110,10 @@
     <title>Football: Atalanta - Hellas Verona</title>
     <desc>Live: Tidak</desc>
 </programme>
+<programme start="20260325161000 +0700" stop="20260325181000 +0700" channel="COSMOTE Sport 2 HD">
+    <title>Football: Parma - Cremonese</title>
+    <desc>Live: Tidak</desc>
+</programme>
 <programme start="20260324150000 +0700" stop="20260324170000 +0700" channel="COSMOTE Sport 3 HD">
     <title>Football: Leeds United - Norwich City</title>
     <desc>Live: Tidak</desc>
@@ -226,10 +230,6 @@
     <title>Basketball: Cleveland Cavaliers - Orlando Magic</title>
     <desc>Live: Tidak</desc>
 </programme>
-<programme start="20260324142500 +0700" stop="20260324152500 +0700" channel="COSMOTE Sport 5 HD">
-    <title>WRC</title>
-    <desc>Live: Tidak</desc>
-</programme>
 <programme start="20260324152500 +0700" stop="20260324161500 +0700" channel="COSMOTE Sport 5 HD">
     <title>DTM</title>
     <desc>Live: Tidak</desc>
@@ -320,10 +320,6 @@
 </programme>
 <programme start="20260325151500 +0700" stop="20260325170000 +0700" channel="COSMOTE Sport 5 HD">
     <title>DTM 2025</title>
-    <desc>Live: Tidak</desc>
-</programme>
-<programme start="20260324110000 +0700" stop="20260324150500 +0700" channel="COSMOTE Sport 6 HD">
-    <title>Tennis: ATP Masters 1000 2026</title>
     <desc>Live: Tidak</desc>
 </programme>
 <programme start="20260324150500 +0700" stop="20260324161500 +0700" channel="COSMOTE Sport 6 HD">

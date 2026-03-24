@@ -514,12 +514,6 @@
 <programme start="20260324023000 +0000" stop="20260324031500 +0000" channel="Trans 7.vision">
 <title>Selebrita Heits</title>
 </programme>
-<programme start="20260324050000 +0000" stop="20260324064500 +0000" channel="Trans 7.vision">
-<title>Warisan Olga</title>
-</programme>
-<programme start="20260324064500 +0000" stop="20260324080000 +0000" channel="Trans 7.vision">
-<title>Warkop: Pintar-Pintar Bodoh</title>
-</programme>
 <programme start="20260324080000 +0000" stop="20260324090000 +0000" channel="Trans 7.vision">
 <title>Jejak Si Gundul</title>
 </programme>
@@ -1497,4 +1491,10 @@
 </programme>
 <programme start="20260324025000 +0000" stop="20260324034000 +0000" channel="MDTV.vision">
 <title>Maria Cinta Yang Hilang</title>
+</programme>
+<programme start="20260324034000 +0000" stop="20260324051500 +0000" channel="MDTV.vision">
+<title>Cinta Fitri S6</title>
+</programme>
+<programme start="20260324051500 +0000" stop="20260324063500 +0000" channel="MDTV.vision">
+<title>Makandunia</title>
 </programme>
