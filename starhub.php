@@ -1985,7 +1985,7 @@
         <title>MUTV: Treble Twenty Middlesbrough vs Man Utd</title>
     </programme>
     <programme start="20260323170500 +0000" stop="20260323190000 +0000" channel="beIN Sports 3.starhub">
-        <title>TotalEnergies Africa Cup of Nations, Morocco 2025: Algeria vs Sudan - Group Stag</title>
+        <title>TotalEnergies Africa Cup of Nations, Morocco 2025: Algeria vs Sudan - Group Stage</title>
     </programme>
     <programme start="20260323190000 +0000" stop="20260323205000 +0000" channel="beIN Sports 3.starhub">
         <title>Pacific Nations Cup 2025: Canada vs USA</title>
@@ -2429,7 +2429,7 @@
         <title>UFC 322: Shevchenko vs Zhang</title>
     </programme>
     <programme start="20260324020000 +0000" stop="20260324040000 +0000" channel="Hub Sports 2 HD.starhub">
-        <title>Championship</title>
+        <title>Championship: Taoyuan Pauian Pilots vs Utsunomiya Brex</title>
     </programme>
     <programme start="20260324040000 +0000" stop="20260324070000 +0000" channel="Hub Sports 2 HD.starhub">
         <title>Zuffa 02: Prelims: Valenzuela vs Torres</title>
@@ -3281,7 +3281,7 @@
         <title>European energy security and independence</title>
     </programme>
     <programme start="20260323233000 +0000" stop="20260324000000 +0000" channel="DW English HD.starhub">
-        <title>The Current Affairs Documentary</title>
+        <title>No EVs Without China?</title>
     </programme>
     <programme start="20260324000000 +0000" stop="20260324000200 +0000" channel="DW English HD.starhub">
         <title>News</title>
@@ -3314,10 +3314,10 @@
         <title>News</title>
     </programme>
     <programme start="20260324031500 +0000" stop="20260324033000 +0000" channel="DW English HD.starhub">
-        <title>European energy security and independence</title>
+        <title>How AI entered the war room - Interview with former OpenAI board member Helen Toner</title>
     </programme>
     <programme start="20260324033000 +0000" stop="20260324040000 +0000" channel="DW English HD.starhub">
-        <title>The Current Affairs Documentary</title>
+        <title>No EVs Without China?</title>
     </programme>
     <programme start="20260324040000 +0000" stop="20260324040300 +0000" channel="DW English HD.starhub">
         <title>News</title>
@@ -3332,7 +3332,7 @@
         <title>News in Review</title>
     </programme>
     <programme start="20260324053000 +0000" stop="20260324060000 +0000" channel="DW English HD.starhub">
-        <title>Climate, water and us: Stories of change</title>
+        <title>Mumbai fishers battle climate change and modernization</title>
     </programme>
     <programme start="20260324060000 +0000" stop="20260324060200 +0000" channel="DW English HD.starhub">
         <title>News</title>
@@ -3341,7 +3341,7 @@
         <title>News</title>
     </programme>
     <programme start="20260324061500 +0000" stop="20260324063000 +0000" channel="DW English HD.starhub">
-        <title>European energy security and independence</title>
+        <title>How AI entered the war room - Interview with former OpenAI board member Helen Toner</title>
     </programme>
     <programme start="20260324063000 +0000" stop="20260324070000 +0000" channel="DW English HD.starhub">
         <title>Plastic surgery, family ties and art</title>
@@ -3359,7 +3359,7 @@
         <title>News</title>
     </programme>
     <programme start="20260324080200 +0000" stop="20260324083000 +0000" channel="DW English HD.starhub">
-        <title>What connects us all</title>
+        <title>In Kenya, desert youth turn digital skills into futures</title>
     </programme>
     <programme start="20260324083000 +0000" stop="20260324090000 +0000" channel="DW English HD.starhub">
         <title>Uganda&#039;s urban water fix: low-cost tech that cleans groundwater</title>
@@ -3371,10 +3371,10 @@
         <title>News</title>
     </programme>
     <programme start="20260324091500 +0000" stop="20260324094500 +0000" channel="DW English HD.starhub">
-        <title>The Current Affairs Documentary</title>
+        <title>No EVs Without China?</title>
     </programme>
     <programme start="20260324094500 +0000" stop="20260324100000 +0000" channel="DW English HD.starhub">
-        <title>On Location</title>
+        <title>The Cost of a Dream: Indian Students in Germany</title>
     </programme>
     <programme start="20260324100000 +0000" stop="20260324100300 +0000" channel="DW English HD.starhub">
         <title>News</title>
@@ -3382,14 +3382,11 @@
     <programme start="20260324100300 +0000" stop="20260324110000 +0000" channel="DW English HD.starhub">
         <title>This is My Body</title>
     </programme>
-    <programme start="20260324110000 +0000" stop="20260324110200 +0000" channel="DW English HD.starhub">
+    <programme start="20260324110000 +0000" stop="20260324114500 +0000" channel="DW English HD.starhub">
         <title>News</title>
     </programme>
-    <programme start="20260324110200 +0000" stop="20260324113000 +0000" channel="DW English HD.starhub">
-        <title>AI: Where it&#039;s risky - and where it&#039;s a game-changer</title>
-    </programme>
-    <programme start="20260324113000 +0000" stop="20260324120000 +0000" channel="DW English HD.starhub">
-        <title>What viruses do to our bodies - and how to stay protected</title>
+    <programme start="20260324114500 +0000" stop="20260324120000 +0000" channel="DW English HD.starhub">
+        <title>News</title>
     </programme>
     <programme start="20260324120000 +0000" stop="20260324120200 +0000" channel="DW English HD.starhub">
         <title>News</title>
@@ -3398,7 +3395,7 @@
         <title>News</title>
     </programme>
     <programme start="20260324121500 +0000" stop="20260324124500 +0000" channel="DW English HD.starhub">
-        <title>The Current Affairs Documentary</title>
+        <title>No EVs Without China?</title>
     </programme>
     <programme start="20260324124500 +0000" stop="20260324130000 +0000" channel="DW English HD.starhub">
         <title>AI &amp; Drones: Possibilities and Risks</title>
@@ -3413,7 +3410,7 @@
         <title>How to build homes that better survive disasters?</title>
     </programme>
     <programme start="20260324133000 +0000" stop="20260324140000 +0000" channel="DW English HD.starhub">
-        <title>Climate, water and us: Stories of change</title>
+        <title>Mumbai fishers battle climate change and modernization</title>
     </programme>
     <programme start="20260324140000 +0000" stop="20260324140200 +0000" channel="DW English HD.starhub">
         <title>News</title>
@@ -3422,16 +3419,16 @@
         <title>News</title>
     </programme>
     <programme start="20260324141500 +0000" stop="20260324144500 +0000" channel="DW English HD.starhub">
-        <title>The Current Affairs Documentary</title>
+        <title>No EVs Without China?</title>
     </programme>
     <programme start="20260324144500 +0000" stop="20260324150000 +0000" channel="DW English HD.starhub">
-        <title>On Location</title>
+        <title>The Cost of a Dream: Indian Students in Germany</title>
     </programme>
     <programme start="20260324150000 +0000" stop="20260324153000 +0000" channel="DW English HD.starhub">
         <title>News</title>
     </programme>
     <programme start="20260324153000 +0000" stop="20260324160000 +0000" channel="DW English HD.starhub">
-        <title>AI: Where it&#039;s risky - and where it&#039;s a game-changer</title>
+        <title>AI: Where it’s risky - and where it’s a game-changer</title>
     </programme>
     <programme start="20260323160000 +0000" stop="20260323220000 +0000" channel="Preview Channel.starhub">
         <title>Preview Channel</title>
@@ -6643,10 +6640,10 @@
     <programme start="20260324155600 +0000" stop="20260324164800 +0000" channel="TV5MONDE HD.starhub">
         <title>Legitimate violence</title>
     </programme>
-    <programme start="20260323150000 +0000" stop="20260323170000 +0000" channel="Hub Sports 1  HD.starhub">
+    <programme start="20260323150000 +0000" stop="20260323183200 +0000" channel="Hub Sports 1  HD.starhub">
         <title>Miami Open p/b Itau (1000) Day 6 R3 Session 1</title>
     </programme>
-    <programme start="20260323170000 +0000" stop="20260323210000 +0000" channel="Hub Sports 1  HD.starhub">
+    <programme start="20260323183200 +0000" stop="20260323210000 +0000" channel="Hub Sports 1  HD.starhub">
         <title>Bank of China Hong Kong Tennis Open (250) SF 1 &amp; 2</title>
     </programme>
     <programme start="20260323210000 +0000" stop="20260323230000 +0000" channel="Hub Sports 1  HD.starhub">
