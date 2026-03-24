@@ -5206,8 +5206,14 @@
     <programme start="20260324030000 +0000" stop="20260324080000 +0000" channel="SPOTV.starhub">
         <title>Day 2</title>
     </programme>
-    <programme start="20260324080000 +0000" stop="20260324110000 +0000" channel="SPOTV.starhub">
+    <programme start="20260324080000 +0000" stop="20260324090500 +0000" channel="SPOTV.starhub">
         <title>Snowboard Finals</title>
+    </programme>
+    <programme start="20260324090500 +0000" stop="20260324100500 +0000" channel="SPOTV.starhub">
+        <title>2026 Fursan Cup Highlights</title>
+    </programme>
+    <programme start="20260324100500 +0000" stop="20260324110000 +0000" channel="SPOTV.starhub">
+        <title>Day 4 Final</title>
     </programme>
     <programme start="20260324110000 +0000" stop="20260324140000 +0000" channel="SPOTV.starhub">
         <title>Al Ahli vs Al Hilal</title>
@@ -7981,10 +7987,10 @@
     <programme start="20260324040000 +0000" stop="20260324050000 +0000" channel="ABC Australia HD.starhub">
         <title>Autumn: Sophie&#039;s New Digs &amp; Leo Sayer&#039;s Oasis</title>
     </programme>
-    <programme start="20260324050000 +0000" stop="20260324053000 +0000" channel="ABC Australia HD.starhub">
+    <programme start="20260324050000 +0000" stop="20260324052500 +0000" channel="ABC Australia HD.starhub">
         <title>Landline (2026)</title>
     </programme>
-    <programme start="20260324053000 +0000" stop="20260324060000 +0000" channel="ABC Australia HD.starhub">
+    <programme start="20260324052500 +0000" stop="20260324060000 +0000" channel="ABC Australia HD.starhub">
         <title>Planet America (2026)</title>
     </programme>
     <programme start="20260324060000 +0000" stop="20260324070000 +0000" channel="ABC Australia HD.starhub">
@@ -8185,14 +8191,14 @@
     <programme start="20260324080000 +0000" stop="20260324100000 +0000" channel="SPOTV2.starhub">
         <title>25/26 A-League Men Round 22 Western Sydney Wanderers FC vs Adelaide United</title>
     </programme>
-    <programme start="20260324100000 +0000" stop="20260324110000 +0000" channel="SPOTV2.starhub">
-        <title>Warm Up</title>
-    </programme>
-    <programme start="20260324110000 +0000" stop="20260324153000 +0000" channel="SPOTV2.starhub">
+    <programme start="20260324100000 +0000" stop="20260324143000 +0000" channel="SPOTV2.starhub">
         <title>Race</title>
     </programme>
-    <programme start="20260324153000 +0000" stop="20260324160000 +0000" channel="SPOTV2.starhub">
+    <programme start="20260324143000 +0000" stop="20260324150000 +0000" channel="SPOTV2.starhub">
         <title>2025/26 ALM Mini Match Rd 21 Central Coast Mariners FC vs Adelaide United</title>
+    </programme>
+    <programme start="20260324150000 +0000" stop="20260324180000 +0000" channel="SPOTV2.starhub">
+        <title>2025/26 King&#039;s Cup Semi Final Al Kholood vs Al Ittihad</title>
     </programme>
     <programme start="20260323160000 +0000" stop="20260323161000 +0000" channel="Dragon TV.starhub">
         <title>Overtime No More</title>

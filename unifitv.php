@@ -2528,8 +2528,8 @@
     <category lang="en">Pop Culture</category>
   </programme>
   <programme start="20260324081500 +0000" stop="20260324083000 +0000" channel="tvs.unifitv">
-    <title lang="en">Gambar Raya Paling Epik</title>
-    <desc lang="en">Filem pendek ini mengisahkan seorang pemuda bersama keluarga di sebuah kampung menyertai pertandingan fotografi sempena sambutan Hari Raya Aidilfitri yang akan menjelang.</desc>
+    <title lang="en">Raya Di Hati</title>
+    <desc lang="en">Filem pendek ini mengisahkan seorang pelajar di perantauan yang merindui keluarganya di kampung halaman mengenal erti sebuah persahabatan yang ikhlas.</desc>
     <category lang="en">Drama</category>
   </programme>
   <programme start="20260324083000 +0000" stop="20260324090000 +0000" channel="tvs.unifitv">
@@ -2616,14 +2616,14 @@
     <desc lang="en">Memaparkan laporan peristiwa yang berlaku di seluruh Malaysia dalam bahasa English</desc>
     <category lang="en">News</category>
   </programme>
-  <programme start="20260324151500 +0000" stop="20260324153000 +0000" channel="tvs.unifitv">
+  <programme start="20260324151500 +0000" stop="20260324154500 +0000" channel="tvs.unifitv">
     <title lang="en">Konsert MeleTOP TVS (Part 2)</title>
     <desc lang="en">Saksikan siaran ulangan Konsert MeleTOP TVS, bertempat di Miri, Sarawak.</desc>
     <category lang="en">Singing</category>
     <episode-num system="xmltv_ns">0.1.</episode-num>
     <episode-num system="onscreen">S1E2</episode-num>
   </programme>
-  <programme start="20260324153000 +0000" stop="20260324160000 +0000" channel="tvs.unifitv">
+  <programme start="20260324154500 +0000" stop="20260324160000 +0000" channel="tvs.unifitv">
     <title lang="en">Kamboh Raya</title>
     <desc lang="en">Kamboh Raya mengisahkan kekecohan sebuah keluarga yang membuat persiapan raya di saat akhir.</desc>
     <category lang="en">Drama</category>
