@@ -616,9 +616,6 @@
 <programme start="20260324090000 +0000" stop="20260324110000 +0000" channel="ANTV.vision">
 <title>Vasudha</title>
 </programme>
-<programme start="20260324110000 +0000" stop="20260324130000 +0000" channel="ANTV.vision">
-<title>Raja Dangdut</title>
-</programme>
 <programme start="20260324130000 +0000" stop="20260324143000 +0000" channel="ANTV.vision">
 <title>Pusaka Penyebar Maut</title>
 </programme>
@@ -1497,4 +1494,7 @@
 </programme>
 <programme start="20260324051500 +0000" stop="20260324063500 +0000" channel="MDTV.vision">
 <title>Makandunia</title>
+</programme>
+<programme start="20260324063500 +0000" stop="20260324080500 +0000" channel="MDTV.vision">
+<title>Makan Enak</title>
 </programme>

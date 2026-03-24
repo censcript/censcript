@@ -15088,10 +15088,20 @@
     <desc lang="en">Top female golfers compete across premier international venues, delivering world-class performances, thrilling finishes, and season-long championship drama.</desc>
     <category lang="en">Golf</category>
   </programme>
-  <programme start="20260324080000 +0000" stop="20260324110000 +0000" channel="spotv.unifitv">
+  <programme start="20260324080000 +0000" stop="20260324090000 +0000" channel="spotv.unifitv">
     <title lang="en">Snow League 25/26: Laax, Switzerland - Snowboard Finals</title>
     <desc lang="en">Young snowboarders and freeski athletes battle in The Snow League, showcasing big tricks, high drama and world-class halfpipe action.</desc>
     <category lang="en">Winter Sports</category>
+  </programme>
+  <programme start="20260324090000 +0000" stop="20260324100000 +0000" channel="spotv.unifitv">
+    <title lang="en">2026 Fursan Cup Highlights</title>
+    <desc lang="en">The world's top endurance riders gather in AlUla, Saudi Arabia, for the 2026 AlFursan Endurance, showcasing stunning landscapes and intense world-class competition.</desc>
+    <category lang="en">Extreme Sports</category>
+  </programme>
+  <programme start="20260324100000 +0000" stop="20260324110000 +0000" channel="spotv.unifitv">
+    <title lang="en">BXL 2025: BXL Rewind - Day 4 Final</title>
+    <desc lang="en">Relive the best moments with thrilling rallies, powerful smashes, and match-winning points in a fast-paced highlights showcase from BXL 2025.</desc>
+    <category lang="en">Badminton</category>
   </programme>
   <programme start="20260324110000 +0000" stop="20260324140000 +0000" channel="spotv.unifitv">
     <title lang="en">2025/26 King's Cup Semi Final - Al Ahli vs Al Hilal</title>
