@@ -616,9 +616,6 @@
 <programme start="20260324090000 +0000" stop="20260324110000 +0000" channel="ANTV.vision">
 <title>Vasudha</title>
 </programme>
-<programme start="20260324143000 +0000" stop="20260324163000 +0000" channel="ANTV.vision">
-<title>Kuntilanak 2: Titisan...</title>
-</programme>
 <programme start="20260324163000 +0000" stop="20260324180000 +0000" channel="ANTV.vision">
 <title>The Iron Fisted Monk</title>
 </programme>
@@ -1497,4 +1494,7 @@
 </programme>
 <programme start="20260324080500 +0000" stop="20260324091500 +0000" channel="MDTV.vision">
 <title>Masak Gesss!!!</title>
+</programme>
+<programme start="20260324091500 +0000" stop="20260324100000 +0000" channel="MDTV.vision">
+<title>Adit Sopo Jarwo</title>
 </programme>

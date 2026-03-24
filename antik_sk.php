@@ -5032,60 +5032,6 @@
   <programme start="20260326223000 +0000" stop="20260326230000 +0000" channel="Arena Sport 1.webtv.sk">
     <title lang="id">Autožurnál</title>
   </programme>
-  <programme start="20260325230000 +0000" stop="20260326070000 +0000" channel="Arena Sport 2.webtv.sk">
-    <title lang="id">Nočné vysielanie</title>
-  </programme>
-  <programme start="20260326070000 +0000" stop="20260326073000 +0000" channel="Arena Sport 2.webtv.sk">
-    <title lang="id">Naša Garáž</title>
-  </programme>
-  <programme start="20260326073000 +0000" stop="20260326080000 +0000" channel="Arena Sport 2.webtv.sk">
-    <title lang="id">Naša Garáž</title>
-  </programme>
-  <programme start="20260326080000 +0000" stop="20260326083000 +0000" channel="Arena Sport 2.webtv.sk">
-    <title lang="id">Piok Cars</title>
-  </programme>
-  <programme start="20260326083000 +0000" stop="20260326090000 +0000" channel="Arena Sport 2.webtv.sk">
-    <title lang="id">MM Automotive</title>
-  </programme>
-  <programme start="20260326090000 +0000" stop="20260326100000 +0000" channel="Arena Sport 2.webtv.sk">
-    <title lang="id">Vytuningované jazdy Fínsko</title>
-  </programme>
-  <programme start="20260326100000 +0000" stop="20260326103000 +0000" channel="Arena Sport 2.webtv.sk">
-    <title lang="id">CARSHOW</title>
-  </programme>
-  <programme start="20260326103000 +0000" stop="20260326110000 +0000" channel="Arena Sport 2.webtv.sk">
-    <title lang="id">Autožurnál</title>
-  </programme>
-  <programme start="20260326110000 +0000" stop="20260326123000 +0000" channel="Arena Sport 2.webtv.sk">
-    <title lang="id">Guerri Napoli Tennis Cup</title>
-  </programme>
-  <programme start="20260326123000 +0000" stop="20260326140000 +0000" channel="Arena Sport 2.webtv.sk">
-    <title lang="id">Guerri Napoli Tennis Cup</title>
-  </programme>
-  <programme start="20260326140000 +0000" stop="20260326160000 +0000" channel="Arena Sport 2.webtv.sk">
-    <title lang="id">Guerri Napoli Tennis Cup</title>
-  </programme>
-  <programme start="20260326160000 +0000" stop="20260326164500 +0000" channel="Arena Sport 2.webtv.sk">
-    <title lang="id">Naša Garáž</title>
-  </programme>
-  <programme start="20260326164500 +0000" stop="20260326173000 +0000" channel="Arena Sport 2.webtv.sk">
-    <title lang="id">MM Automotive</title>
-  </programme>
-  <programme start="20260326173000 +0000" stop="20260326180000 +0000" channel="Arena Sport 2.webtv.sk">
-    <title lang="id">Martin z Martina</title>
-  </programme>
-  <programme start="20260326180000 +0000" stop="20260326183000 +0000" channel="Arena Sport 2.webtv.sk">
-    <title lang="id">Naša Garáž</title>
-  </programme>
-  <programme start="20260326183000 +0000" stop="20260326190000 +0000" channel="Arena Sport 2.webtv.sk">
-    <title lang="id">Výběrová auta</title>
-  </programme>
-  <programme start="20260326190000 +0000" stop="20260326210000 +0000" channel="Arena Sport 2.webtv.sk">
-    <title lang="id">Morelia Open</title>
-  </programme>
-  <programme start="20260326210000 +0000" stop="20260326230000 +0000" channel="Arena Sport 2.webtv.sk">
-    <title lang="id">Morelia Open</title>
-  </programme>
   <programme start="20260325230000 +0000" stop="20260325233500 +0000" channel="Nova Sport 1.webtv.sk">
     <title lang="id">Brunato Talks (5)</title>
   </programme>
@@ -6204,6 +6150,117 @@
   </programme>
   <programme start="20260326220000 +0000" stop="20260326230000 +0000" channel="TLC.webtv.sk">
     <title lang="id">Pomoc! Můj dům je prokletý V (10)</title>
+  </programme>
+  <programme start="20260325230000 +0000" stop="20260325233000 +0000" channel="Food Network.webtv.sk">
+    <title lang="id">Průkopnice XXV (12)</title>
+  </programme>
+  <programme start="20260325233000 +0000" stop="20260326000000 +0000" channel="Food Network.webtv.sk">
+    <title lang="id">Průkopnice XXV: Domov sladký domov XXV (13)</title>
+  </programme>
+  <programme start="20260326000000 +0000" stop="20260326010000 +0000" channel="Food Network.webtv.sk">
+    <title lang="id">Vyřazeni LVIII (7)</title>
+  </programme>
+  <programme start="20260326010000 +0000" stop="20260326014500 +0000" channel="Food Network.webtv.sk">
+    <title lang="id">Restaurant: Impossible XIV (1)</title>
+  </programme>
+  <programme start="20260326014500 +0000" stop="20260326020700 +0000" channel="Food Network.webtv.sk">
+    <title lang="id">Motoresty, drive-iny a bufety XXIII (13)</title>
+  </programme>
+  <programme start="20260326020700 +0000" stop="20260326023000 +0000" channel="Food Network.webtv.sk">
+    <title lang="id">Motoresty, drive-iny a bufety XXIV (1)</title>
+  </programme>
+  <programme start="20260326023000 +0000" stop="20260326025200 +0000" channel="Food Network.webtv.sk">
+    <title lang="id">Porážka Bobbyho Flaye XXV (2)</title>
+  </programme>
+  <programme start="20260326025200 +0000" stop="20260326031500 +0000" channel="Food Network.webtv.sk">
+    <title lang="id">Porážka Bobbyho Flaye XXV (3)</title>
+  </programme>
+  <programme start="20260326031500 +0000" stop="20260326040000 +0000" channel="Food Network.webtv.sk">
+    <title lang="id">Velikonoční výzva II: Velikonoce II (3)</title>
+  </programme>
+  <programme start="20260326040000 +0000" stop="20260326050000 +0000" channel="Food Network.webtv.sk">
+    <title lang="id">Restaurant: Impossible XX (11)</title>
+  </programme>
+  <programme start="20260326050000 +0000" stop="20260326053000 +0000" channel="Food Network.webtv.sk">
+    <title lang="id">Motoresty, drive-iny a bufety XXIV (2)</title>
+  </programme>
+  <programme start="20260326053000 +0000" stop="20260326060000 +0000" channel="Food Network.webtv.sk">
+    <title lang="id">Motoresty, drive-iny a bufety XXIV (3)</title>
+  </programme>
+  <programme start="20260326060000 +0000" stop="20260326063000 +0000" channel="Food Network.webtv.sk">
+    <title lang="id">Porážka Bobbyho Flaye XXV (4)</title>
+  </programme>
+  <programme start="20260326063000 +0000" stop="20260326070000 +0000" channel="Food Network.webtv.sk">
+    <title lang="id">Porážka Bobbyho Flaye XXV: Porážka Bobbyho Flaye XXV (5)</title>
+  </programme>
+  <programme start="20260326070000 +0000" stop="20260326080000 +0000" channel="Food Network.webtv.sk">
+    <title lang="id">Souboj bratrů: Michael proti Bryanovi I (2)</title>
+  </programme>
+  <programme start="20260326080000 +0000" stop="20260326090000 +0000" channel="Food Network.webtv.sk">
+    <title lang="id">Harry Potter: Kouzelné pečení I (4)</title>
+  </programme>
+  <programme start="20260326090000 +0000" stop="20260326100000 +0000" channel="Food Network.webtv.sk">
+    <title lang="id">Nový mistr pekař: Paříž I (4)</title>
+  </programme>
+  <programme start="20260326100000 +0000" stop="20260326110000 +0000" channel="Food Network.webtv.sk">
+    <title lang="id">Dětská cukrářská soutěž IX (2)</title>
+  </programme>
+  <programme start="20260326110000 +0000" stop="20260326113000 +0000" channel="Food Network.webtv.sk">
+    <title lang="id">Dívka na farmě II (13)</title>
+  </programme>
+  <programme start="20260326113000 +0000" stop="20260326120000 +0000" channel="Food Network.webtv.sk">
+    <title lang="id">Dívka na farmě III (1)</title>
+  </programme>
+  <programme start="20260326120000 +0000" stop="20260326123000 +0000" channel="Food Network.webtv.sk">
+    <title lang="id">Průkopnice XXVI (1)</title>
+  </programme>
+  <programme start="20260326123000 +0000" stop="20260326130000 +0000" channel="Food Network.webtv.sk">
+    <title lang="id">Průkopnice XXVI (2)</title>
+  </programme>
+  <programme start="20260326130000 +0000" stop="20260326140000 +0000" channel="Food Network.webtv.sk">
+    <title lang="id">Vyřazeni LVIII (8)</title>
+  </programme>
+  <programme start="20260326140000 +0000" stop="20260326150000 +0000" channel="Food Network.webtv.sk">
+    <title lang="id">Restaurant: Impossible XIV (2)</title>
+  </programme>
+  <programme start="20260326150000 +0000" stop="20260326153000 +0000" channel="Food Network.webtv.sk">
+    <title lang="id">Dívka na farmě XV (5)</title>
+  </programme>
+  <programme start="20260326153000 +0000" stop="20260326160000 +0000" channel="Food Network.webtv.sk">
+    <title lang="id">Dívka na farmě XV (6)</title>
+  </programme>
+  <programme start="20260326160000 +0000" stop="20260326163000 +0000" channel="Food Network.webtv.sk">
+    <title lang="id">Pojďte dál s Inou Garten V (1)</title>
+  </programme>
+  <programme start="20260326163000 +0000" stop="20260326170000 +0000" channel="Food Network.webtv.sk">
+    <title lang="id">Pojďte dál s Inou Garten V (2)</title>
+  </programme>
+  <programme start="20260326170000 +0000" stop="20260326180000 +0000" channel="Food Network.webtv.sk">
+    <title lang="id">Velikonoční výzva II: Velikonoce II (4)</title>
+  </programme>
+  <programme start="20260326180000 +0000" stop="20260326183000 +0000" channel="Food Network.webtv.sk">
+    <title lang="id">Bizarní jídla: Lahodné destinace IV (6)</title>
+  </programme>
+  <programme start="20260326183000 +0000" stop="20260326190000 +0000" channel="Food Network.webtv.sk">
+    <title lang="id">Bizarní jídla: Lahodné destinace IV (7)</title>
+  </programme>
+  <programme start="20260326190000 +0000" stop="20260326200000 +0000" channel="Food Network.webtv.sk">
+    <title lang="id">Restaurant: Impossible XX (12)</title>
+  </programme>
+  <programme start="20260326200000 +0000" stop="20260326203000 +0000" channel="Food Network.webtv.sk">
+    <title lang="id">Dívka na farmě XV (5)</title>
+  </programme>
+  <programme start="20260326203000 +0000" stop="20260326210000 +0000" channel="Food Network.webtv.sk">
+    <title lang="id">Dívka na farmě XV (6)</title>
+  </programme>
+  <programme start="20260326210000 +0000" stop="20260326213000 +0000" channel="Food Network.webtv.sk">
+    <title lang="id">Pojďte dál s Inou Garten V (1)</title>
+  </programme>
+  <programme start="20260326213000 +0000" stop="20260326220000 +0000" channel="Food Network.webtv.sk">
+    <title lang="id">Pojďte dál s Inou Garten V (2)</title>
+  </programme>
+  <programme start="20260326220000 +0000" stop="20260326230000 +0000" channel="Food Network.webtv.sk">
+    <title lang="id">Alex proti Americe I (3)</title>
   </programme>
   <programme start="20260325230000 +0000" stop="20260325234500 +0000" channel="Animal Planet.webtv.sk">
     <title lang="id">Zlobivý pes III (8)</title>
@@ -15589,54 +15646,6 @@
   <programme start="20260326224500 +0000" stop="20260326230000 +0000" channel="CETV.webtv.sk">
     <title lang="id">Spravodajstvo</title>
   </programme>
-  <programme start="20260325230000 +0000" stop="20260326040000 +0000" channel="TV8.webtv.sk">
-    <title lang="id">Nočné vysielanie pre pánov</title>
-  </programme>
-  <programme start="20260326040000 +0000" stop="20260326043000 +0000" channel="TV8.webtv.sk">
-    <title lang="id">Dobré rady starej mamy</title>
-  </programme>
-  <programme start="20260326043000 +0000" stop="20260326044500 +0000" channel="TV8.webtv.sk">
-    <title lang="id">HOROSKOPY</title>
-  </programme>
-  <programme start="20260326044500 +0000" stop="20260326050000 +0000" channel="TV8.webtv.sk">
-    <title lang="id">Cvičíme pre zdravie</title>
-  </programme>
-  <programme start="20260326050000 +0000" stop="20260326064000 +0000" channel="TV8.webtv.sk">
-    <title lang="id">Veštenie repríza</title>
-  </programme>
-  <programme start="20260326064000 +0000" stop="20260326073000 +0000" channel="TV8.webtv.sk">
-    <title lang="id">HOROSKOPY</title>
-  </programme>
-  <programme start="20260326073000 +0000" stop="20260326074500 +0000" channel="TV8.webtv.sk">
-    <title lang="id">Cvičíme pre zdravie</title>
-  </programme>
-  <programme start="20260326074500 +0000" stop="20260326080000 +0000" channel="TV8.webtv.sk">
-    <title lang="id">HOROSKOPY</title>
-  </programme>
-  <programme start="20260326080000 +0000" stop="20260326133000 +0000" channel="TV8.webtv.sk">
-    <title lang="id">Ezoterická poradňa s Tamarou</title>
-  </programme>
-  <programme start="20260326133000 +0000" stop="20260326135500 +0000" channel="TV8.webtv.sk">
-    <title lang="id">O Zdraví</title>
-  </programme>
-  <programme start="20260326135500 +0000" stop="20260326140000 +0000" channel="TV8.webtv.sk">
-    <title lang="id">HOROSKOPY</title>
-  </programme>
-  <programme start="20260326140000 +0000" stop="20260326154000 +0000" channel="TV8.webtv.sk">
-    <title lang="id">Ezoterická poradňa s Tamarou</title>
-  </programme>
-  <programme start="20260326154000 +0000" stop="20260326174500 +0000" channel="TV8.webtv.sk">
-    <title lang="id">Cvičíme pre zdravie</title>
-  </programme>
-  <programme start="20260326174500 +0000" stop="20260326190000 +0000" channel="TV8.webtv.sk">
-    <title lang="id">HOROSKOPY</title>
-  </programme>
-  <programme start="20260326190000 +0000" stop="20260326210000 +0000" channel="TV8.webtv.sk">
-    <title lang="id">Ezoterická poradňa s Petrom</title>
-  </programme>
-  <programme start="20260326210000 +0000" stop="20260326230000 +0000" channel="TV8.webtv.sk">
-    <title lang="id">Ezoterická poradňa s Petrom</title>
-  </programme>
   <programme start="20260325230000 +0000" stop="20260325231000 +0000" channel="Polar TV.webtv.sk">
     <title lang="id">Regionální zprávy POLAR</title>
   </programme>
@@ -17016,6 +17025,96 @@
   </programme>
   <programme start="20260326220100 +0000" stop="20260326230500 +0000" channel="UA TV.webtv.sk">
     <title lang="id">Інформаційні сюжети</title>
+  </programme>
+  <programme start="20260325230000 +0000" stop="20260326000000 +0000" channel="Espreso TV.webtv.sk">
+    <title lang="id">Інформаційний марафон</title>
+  </programme>
+  <programme start="20260326000000 +0000" stop="20260326010000 +0000" channel="Espreso TV.webtv.sk">
+    <title lang="id">Тепер головне</title>
+  </programme>
+  <programme start="20260326010000 +0000" stop="20260326020000 +0000" channel="Espreso TV.webtv.sk">
+    <title lang="id">Європейці з Лесею Вакулюк</title>
+  </programme>
+  <programme start="20260326020000 +0000" stop="20260326030000 +0000" channel="Espreso TV.webtv.sk">
+    <title lang="id">Євроінтеграція з Юрієм Фізером</title>
+  </programme>
+  <programme start="20260326030000 +0000" stop="20260326040000 +0000" channel="Espreso TV.webtv.sk">
+    <title lang="id">Студія Захід з Антоном Борковським</title>
+  </programme>
+  <programme start="20260326040000 +0000" stop="20260326050000 +0000" channel="Espreso TV.webtv.sk">
+    <title lang="id">Тепер головне</title>
+  </programme>
+  <programme start="20260326050000 +0000" stop="20260326051000 +0000" channel="Espreso TV.webtv.sk">
+    <title lang="id">Варшава - Київ. Pанок</title>
+  </programme>
+  <programme start="20260326051000 +0000" stop="20260326060000 +0000" channel="Espreso TV.webtv.sk">
+    <title lang="id">Український фокус: Pанок</title>
+  </programme>
+  <programme start="20260326060000 +0000" stop="20260326061000 +0000" channel="Espreso TV.webtv.sk">
+    <title lang="id">Варшава - Київ. Pанок</title>
+  </programme>
+  <programme start="20260326061000 +0000" stop="20260326070000 +0000" channel="Espreso TV.webtv.sk">
+    <title lang="id">Український фокус: Pанок</title>
+  </programme>
+  <programme start="20260326070000 +0000" stop="20260326070100 +0000" channel="Espreso TV.webtv.sk">
+    <title lang="id">Хвилина мовчання</title>
+  </programme>
+  <programme start="20260326070100 +0000" stop="20260326071000 +0000" channel="Espreso TV.webtv.sk">
+    <title lang="id">Варшава - Київ. Pанок</title>
+  </programme>
+  <programme start="20260326071000 +0000" stop="20260326080000 +0000" channel="Espreso TV.webtv.sk">
+    <title lang="id">Український фокус: Pанок</title>
+  </programme>
+  <programme start="20260326080000 +0000" stop="20260326090000 +0000" channel="Espreso TV.webtv.sk">
+    <title lang="id">Тепер головне</title>
+  </programme>
+  <programme start="20260326090000 +0000" stop="20260326100500 +0000" channel="Espreso TV.webtv.sk">
+    <title lang="id">Свобода Live</title>
+  </programme>
+  <programme start="20260326100500 +0000" stop="20260326103000 +0000" channel="Espreso TV.webtv.sk">
+    <title lang="id">Новини</title>
+  </programme>
+  <programme start="20260326103000 +0000" stop="20260326110500 +0000" channel="Espreso TV.webtv.sk">
+    <title lang="id">Pозмовна студія</title>
+  </programme>
+  <programme start="20260326110500 +0000" stop="20260326120000 +0000" channel="Espreso TV.webtv.sk">
+    <title lang="id">Європейці з Лесею Вакулюк</title>
+  </programme>
+  <programme start="20260326120000 +0000" stop="20260326130000 +0000" channel="Espreso TV.webtv.sk">
+    <title lang="id">Тепер головне</title>
+  </programme>
+  <programme start="20260326130000 +0000" stop="20260326133000 +0000" channel="Espreso TV.webtv.sk">
+    <title lang="id">Крим. Pеалії</title>
+  </programme>
+  <programme start="20260326133000 +0000" stop="20260326140000 +0000" channel="Espreso TV.webtv.sk">
+    <title lang="id">Донбас. Pеалії</title>
+  </programme>
+  <programme start="20260326140000 +0000" stop="20260326150000 +0000" channel="Espreso TV.webtv.sk">
+    <title lang="id">Євроінтеграція з Юрієм Фізером</title>
+  </programme>
+  <programme start="20260326150000 +0000" stop="20260326160000 +0000" channel="Espreso TV.webtv.sk">
+    <title lang="id">Відбудова</title>
+  </programme>
+  <programme start="20260326160000 +0000" stop="20260326170000 +0000" channel="Espreso TV.webtv.sk">
+    <title lang="id">Союзники</title>
+  </programme>
+  <programme start="20260326170000 +0000" stop="20260326180000 +0000" channel="Espreso TV.webtv.sk">
+    <title lang="id">Тепер головне</title>
+  </programme>
+  <programme start="20260326180000 +0000" stop="20260326181500 +0000" channel="Espreso TV.webtv.sk">
+    <title lang="id">BBC News Україна</title>
+  </programme>
+  <programme start="20260326181500 +0000" stop="20260326191500 +0000" channel="Espreso TV.webtv.sk">
+    <title lang="id">Євроінтеграція з Юрієм Фізером</title>
+  </programme>
+  <programme start="20260326191500 +0000" stop="20260326210000 +0000" channel="Espreso TV.webtv.sk">
+    <title lang="id">Говорить Великий Львів</title>
+  </programme>
+  <programme start="20260326210000 +0000" stop="20260326220000 +0000" channel="Espreso TV.webtv.sk">
+    <title lang="id">Свобода Live</title>
+  </programme>
+  <programme start="20260326220000 +0000" stop="20260326230000 +0000" channel="Espreso TV.webtv.sk">
+    <title lang="id">Європейці з Лесею Вакулюк</title>
   </programme>
   <programme start="20260325230000 +0000" stop="20260325233000 +0000" channel="Current Time.webtv.sk">
     <title lang="id">За нашу свободу</title>

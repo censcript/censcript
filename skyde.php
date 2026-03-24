@@ -3517,13 +3517,13 @@ Warning: Undefined array key "et" in /usr/home/ManusiaBiasa/domains/manusiabiasa
 <programme start="20260324224500 +0000" stop="20260324234500 +0000" channel="Sky Sport UHD.skyde">
     <title>F1 Academy: 2. Rennen - GP China</title>
 </programme>
-<programme start="20260323230000 +0000" stop="20260324013000 +0000" channel="Sky Sport 1 HD.skyde">
+<programme start="20260323230000 +0000" stop="20260324014000 +0000" channel="Sky Sport 1 HD.skyde">
     <title>Live NBA: San Antonio Spurs @ Miami Heat</title>
 </programme>
-<programme start="20260324013000 +0000" stop="20260324040000 +0000" channel="Sky Sport 1 HD.skyde">
+<programme start="20260324014000 +0000" stop="20260324040500 +0000" channel="Sky Sport 1 HD.skyde">
     <title>Live NBA: Golden State Warriors @ Dallas Mavericks</title>
 </programme>
-<programme start="20260324040000 +0000" stop="20260324090000 +0000" channel="Sky Sport 1 HD.skyde">
+<programme start="20260324040500 +0000" stop="20260324052000 +0000" channel="Sky Sport 1 HD.skyde">
     <title>Live NBA: Showtime - Post Show</title>
 </programme>
 <programme start="20260324224000 +0000" stop="20260324230000 +0000" channel="Sky Sport 1 HD.skyde">
