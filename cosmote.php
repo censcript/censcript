@@ -234,6 +234,10 @@
     <title>Basketball: Phoenix Suns - Denver Nuggets</title>
     <desc>Live: Tidak</desc>
 </programme>
+<programme start="20260326060000 +0700" stop="20260326090000 +0700" channel="COSMOTE Sport 4 HD">
+    <title>Basketball: Detroit Pistons - Atlanta Hawks (L)</title>
+    <desc>Live: Ya</desc>
+</programme>
 <programme start="20260325044000 +0700" stop="20260325061000 +0700" channel="COSMOTE Sport 5 HD">
     <title>Motorsports: MotoGP 2026</title>
     <desc>Live: Tidak</desc>
@@ -326,6 +330,10 @@
     <title>ERC 2025</title>
     <desc>Live: Tidak</desc>
 </programme>
+<programme start="20260326062500 +0700" stop="20260326073000 +0700" channel="COSMOTE Sport 5 HD">
+    <title>MotoGP 2026 - Highlights</title>
+    <desc>Live: Tidak</desc>
+</programme>
 <programme start="20260325023000 +0700" stop="20260325070000 +0700" channel="COSMOTE Sport 6 HD">
     <title>Tennis: ATP Masters 1000 2026 (L)</title>
     <desc>Live: Ya</desc>
@@ -372,6 +380,10 @@
 </programme>
 <programme start="20260326050000 +0700" stop="20260326064500 +0700" channel="COSMOTE Sport 6 HD">
     <title>Handball: MT Melsungen - VfL Gummersbach</title>
+    <desc>Live: Tidak</desc>
+</programme>
+<programme start="20260326064500 +0700" stop="20260326073000 +0700" channel="COSMOTE Sport 6 HD">
+    <title>Sports Classics: 2025 Outdoor Specials</title>
     <desc>Live: Tidak</desc>
 </programme>
 <programme start="20260325050000 +0700" stop="20260325070000 +0700" channel="COSMOTE Sport 7 HD">
