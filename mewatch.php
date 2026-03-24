@@ -674,45 +674,48 @@
         <title>80s Power Anthems!</title>
     </programme>
     <programme start="20260323170000 +0000" stop="20260323180000 +0000" channel="now-80s.mewatch">
-        <title>Biggest Hits of of 1987</title>
+        <title>Girls of the 80s!</title>
     </programme>
     <programme start="20260323180000 +0000" stop="20260323200000 +0000" channel="now-80s.mewatch">
-        <title>Cheesy 80s Tunes</title>
-    </programme>
-    <programme start="20260323200000 +0000" stop="20260323220000 +0000" channel="now-80s.mewatch">
-        <title>80s Flashback House Party</title>
-    </programme>
-    <programme start="20260323220000 +0000" stop="20260324000000 +0000" channel="now-80s.mewatch">
-        <title>Hottest Hits of the 80s</title>
-    </programme>
-    <programme start="20260324000000 +0000" stop="20260324020000 +0000" channel="now-80s.mewatch">
-        <title>Addicted to 80s Love Songs</title>
-    </programme>
-    <programme start="20260324020000 +0000" stop="20260324040000 +0000" channel="now-80s.mewatch">
-        <title>Get into the 80s Groove</title>
-    </programme>
-    <programme start="20260324040000 +0000" stop="20260324050000 +0000" channel="now-80s.mewatch">
-        <title>80s Pop Pin Ups</title>
-    </programme>
-    <programme start="20260324050000 +0000" stop="20260324070000 +0000" channel="now-80s.mewatch">
-        <title>I want my 80s Hits</title>
-    </programme>
-    <programme start="20260324070000 +0000" stop="20260324090000 +0000" channel="now-80s.mewatch">
-        <title>80s Girls just wanna have fun!</title>
-    </programme>
-    <programme start="20260324090000 +0000" stop="20260324110000 +0000" channel="now-80s.mewatch">
-        <title>80s Chart Rewind</title>
-    </programme>
-    <programme start="20260324110000 +0000" stop="20260324120000 +0000" channel="now-80s.mewatch">
-        <title>Ultimate 80s Power Ballads</title>
-    </programme>
-    <programme start="20260324120000 +0000" stop="20260324140000 +0000" channel="now-80s.mewatch">
-        <title>Lets hear it for the boys!</title>
-    </programme>
-    <programme start="20260324140000 +0000" stop="20260324160000 +0000" channel="now-80s.mewatch">
         <title>Supermassive 80s Rock Hits</title>
     </programme>
-    <programme start="20260324160000 +0000" stop="20260324180000 +0000" channel="now-80s.mewatch">
+    <programme start="20260323200000 +0000" stop="20260323220000 +0000" channel="now-80s.mewatch">
+        <title>Lets hear it for the boys!</title>
+    </programme>
+    <programme start="20260323220000 +0000" stop="20260324000000 +0000" channel="now-80s.mewatch">
+        <title>80s Air Guitar Anthems</title>
+    </programme>
+    <programme start="20260324000000 +0000" stop="20260324010000 +0000" channel="now-80s.mewatch">
+        <title>Girls of the 80s!</title>
+    </programme>
+    <programme start="20260324010000 +0000" stop="20260324030000 +0000" channel="now-80s.mewatch">
+        <title>Ultimate 80s Love Songs</title>
+    </programme>
+    <programme start="20260324030000 +0000" stop="20260324040000 +0000" channel="now-80s.mewatch">
+        <title>Biggest Hits of 1982</title>
+    </programme>
+    <programme start="20260324040000 +0000" stop="20260324060000 +0000" channel="now-80s.mewatch">
+        <title>Cheesy 80s Classics</title>
+    </programme>
+    <programme start="20260324060000 +0000" stop="20260324070000 +0000" channel="now-80s.mewatch">
+        <title>Strike a pose: 80s Fashion icons</title>
+    </programme>
+    <programme start="20260324070000 +0000" stop="20260324090000 +0000" channel="now-80s.mewatch">
+        <title>80s Chart Rewind</title>
+    </programme>
+    <programme start="20260324090000 +0000" stop="20260324100000 +0000" channel="now-80s.mewatch">
+        <title>Kings &amp; Queens of the Decade</title>
+    </programme>
+    <programme start="20260324100000 +0000" stop="20260324120000 +0000" channel="now-80s.mewatch">
+        <title>Lets hear it for the boys!</title>
+    </programme>
+    <programme start="20260324120000 +0000" stop="20260324140000 +0000" channel="now-80s.mewatch">
+        <title>80s Karaoke Party!</title>
+    </programme>
+    <programme start="20260324140000 +0000" stop="20260324150000 +0000" channel="now-80s.mewatch">
+        <title>Big Hair, Big Hits!</title>
+    </programme>
+    <programme start="20260324150000 +0000" stop="20260324170000 +0000" channel="now-80s.mewatch">
         <title>Addicted to 80s Love Songs</title>
     </programme>
     <programme start="20260323100000 +0000" stop="20260323200000 +0000" channel="now-70s.mewatch">

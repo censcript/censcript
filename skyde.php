@@ -490,6 +490,372 @@ Warning: Undefined array key "et" in /usr/home/ManusiaBiasa/domains/manusiabiasa
 <programme start="20260324223500 +0000" stop="20260324230000 +0000" channel="Cartoon Network.skyde">
     <title>Courage, der feige Hund</title>
 </programme>
+<programme start="20260323230000 +0000" stop="20260323231500 +0000" channel="Cartoonito.skyde">
+    <title>Die Tom und Jerry Show</title>
+</programme>
+<programme start="20260323231500 +0000" stop="20260323232500 +0000" channel="Cartoonito.skyde">
+    <title>Die Tom und Jerry Show</title>
+</programme>
+<programme start="20260323232500 +0000" stop="20260323233000 +0000" channel="Cartoonito.skyde">
+    <title>Die Tom und Jerry Show</title>
+</programme>
+<programme start="20260323233000 +0000" stop="20260323234000 +0000" channel="Cartoonito.skyde">
+    <title>Die Tom und Jerry Show</title>
+</programme>
+<programme start="20260323234000 +0000" stop="20260323235000 +0000" channel="Cartoonito.skyde">
+    <title>Die Tom und Jerry Show</title>
+</programme>
+<programme start="20260323235000 +0000" stop="20260323235500 +0000" channel="Cartoonito.skyde">
+    <title>Die Tom und Jerry Show</title>
+</programme>
+<programme start="20260323235500 +0000" stop="20260324001000 +0000" channel="Cartoonito.skyde">
+    <title>Die Tom und Jerry Show</title>
+</programme>
+<programme start="20260324001000 +0000" stop="20260324001500 +0000" channel="Cartoonito.skyde">
+    <title>Die Tom und Jerry Show</title>
+</programme>
+<programme start="20260324001500 +0000" stop="20260324002500 +0000" channel="Cartoonito.skyde">
+    <title>Die Tom und Jerry Show</title>
+</programme>
+<programme start="20260324002500 +0000" stop="20260324003000 +0000" channel="Cartoonito.skyde">
+    <title>Die Tom und Jerry Show</title>
+</programme>
+<programme start="20260324003000 +0000" stop="20260324004500 +0000" channel="Cartoonito.skyde">
+    <title>Die Tom und Jerry Show</title>
+</programme>
+<programme start="20260324004500 +0000" stop="20260324005500 +0000" channel="Cartoonito.skyde">
+    <title>Grizzy und die Lemminge</title>
+</programme>
+<programme start="20260324005500 +0000" stop="20260324010000 +0000" channel="Cartoonito.skyde">
+    <title>Grizzy und die Lemminge</title>
+</programme>
+<programme start="20260324010000 +0000" stop="20260324011500 +0000" channel="Cartoonito.skyde">
+    <title>Grizzy und die Lemminge</title>
+</programme>
+<programme start="20260324011500 +0000" stop="20260324012000 +0000" channel="Cartoonito.skyde">
+    <title>Grizzy und die Lemminge</title>
+</programme>
+<programme start="20260324012000 +0000" stop="20260324012500 +0000" channel="Cartoonito.skyde">
+    <title>Grizzy und die Lemminge</title>
+</programme>
+<programme start="20260324012500 +0000" stop="20260324013000 +0000" channel="Cartoonito.skyde">
+    <title>Grizzy und die Lemminge</title>
+</programme>
+<programme start="20260324013000 +0000" stop="20260324014500 +0000" channel="Cartoonito.skyde">
+    <title>Grizzy und die Lemminge</title>
+</programme>
+<programme start="20260324014500 +0000" stop="20260324015500 +0000" channel="Cartoonito.skyde">
+    <title>Mr. Bean - Die Cartoon-Serie</title>
+</programme>
+<programme start="20260324015500 +0000" stop="20260324021000 +0000" channel="Cartoonito.skyde">
+    <title>Mr. Bean - Die Cartoon-Serie</title>
+</programme>
+<programme start="20260324021000 +0000" stop="20260324022000 +0000" channel="Cartoonito.skyde">
+    <title>Mr. Bean - Die Cartoon-Serie</title>
+</programme>
+<programme start="20260324022000 +0000" stop="20260324024000 +0000" channel="Cartoonito.skyde">
+    <title>Mr. Bean - Die Cartoon-Serie</title>
+</programme>
+<programme start="20260324024000 +0000" stop="20260324025000 +0000" channel="Cartoonito.skyde">
+    <title>Maulwurf Moley</title>
+</programme>
+<programme start="20260324025000 +0000" stop="20260324030000 +0000" channel="Cartoonito.skyde">
+    <title>Maulwurf Moley</title>
+</programme>
+<programme start="20260324030000 +0000" stop="20260324032000 +0000" channel="Cartoonito.skyde">
+    <title>Maulwurf Moley</title>
+</programme>
+<programme start="20260324032000 +0000" stop="20260324033000 +0000" channel="Cartoonito.skyde">
+    <title>Maulwurf Moley</title>
+</programme>
+<programme start="20260324033000 +0000" stop="20260324034000 +0000" channel="Cartoonito.skyde">
+    <title>Maulwurf Moley</title>
+</programme>
+<programme start="20260324034000 +0000" stop="20260324035000 +0000" channel="Cartoonito.skyde">
+    <title>Tom und Jerry Gokko</title>
+</programme>
+<programme start="20260324035000 +0000" stop="20260324040000 +0000" channel="Cartoonito.skyde">
+    <title>Flipi und die Pilzlinge</title>
+</programme>
+<programme start="20260324040000 +0000" stop="20260324041000 +0000" channel="Cartoonito.skyde">
+    <title>Flipi und die Pilzlinge</title>
+</programme>
+<programme start="20260324041000 +0000" stop="20260324043000 +0000" channel="Cartoonito.skyde">
+    <title>Flipi und die Pilzlinge</title>
+</programme>
+<programme start="20260324043000 +0000" stop="20260324044000 +0000" channel="Cartoonito.skyde">
+    <title>Flipi und die Pilzlinge</title>
+</programme>
+<programme start="20260324044000 +0000" stop="20260324050000 +0000" channel="Cartoonito.skyde">
+    <title>Flipi und die Pilzlinge</title>
+</programme>
+<programme start="20260324050000 +0000" stop="20260324050400 +0000" channel="Cartoonito.skyde">
+    <title>Lamput</title>
+</programme>
+<programme start="20260324050400 +0000" stop="20260324051000 +0000" channel="Cartoonito.skyde">
+    <title>Lamput</title>
+</programme>
+<programme start="20260324051000 +0000" stop="20260324052500 +0000" channel="Cartoonito.skyde">
+    <title>Lamput</title>
+</programme>
+<programme start="20260324052500 +0000" stop="20260324053000 +0000" channel="Cartoonito.skyde">
+    <title>Lamput</title>
+</programme>
+<programme start="20260324053000 +0000" stop="20260324054000 +0000" channel="Cartoonito.skyde">
+    <title>Lamput</title>
+</programme>
+<programme start="20260324054000 +0000" stop="20260324055500 +0000" channel="Cartoonito.skyde">
+    <title>SuperThings: Rivalen von Kaboom - Kazoom-Power</title>
+</programme>
+<programme start="20260324055500 +0000" stop="20260324060500 +0000" channel="Cartoonito.skyde">
+    <title>Grizzy und die Lemminge</title>
+</programme>
+<programme start="20260324060500 +0000" stop="20260324061000 +0000" channel="Cartoonito.skyde">
+    <title>Grizzy und die Lemminge</title>
+</programme>
+<programme start="20260324061000 +0000" stop="20260324062500 +0000" channel="Cartoonito.skyde">
+    <title>Grizzy und die Lemminge</title>
+</programme>
+<programme start="20260324062500 +0000" stop="20260324063500 +0000" channel="Cartoonito.skyde">
+    <title>Batwheels</title>
+</programme>
+<programme start="20260324063500 +0000" stop="20260324065000 +0000" channel="Cartoonito.skyde">
+    <title>Batwheels</title>
+</programme>
+<programme start="20260324065000 +0000" stop="20260324070000 +0000" channel="Cartoonito.skyde">
+    <title>Ben 10</title>
+</programme>
+<programme start="20260324070000 +0000" stop="20260324072000 +0000" channel="Cartoonito.skyde">
+    <title>Ben 10</title>
+</programme>
+<programme start="20260324072000 +0000" stop="20260324075000 +0000" channel="Cartoonito.skyde">
+    <title>Bleib cool, Scooby-Doo!</title>
+</programme>
+<programme start="20260324075000 +0000" stop="20260324082000 +0000" channel="Cartoonito.skyde">
+    <title>Bleib cool, Scooby-Doo!</title>
+</programme>
+<programme start="20260324082000 +0000" stop="20260324083000 +0000" channel="Cartoonito.skyde">
+    <title>Mr. Bean - Die Cartoon-Serie</title>
+</programme>
+<programme start="20260324083000 +0000" stop="20260324084500 +0000" channel="Cartoonito.skyde">
+    <title>Mr. Bean - Die Cartoon-Serie</title>
+</programme>
+<programme start="20260324084500 +0000" stop="20260324085500 +0000" channel="Cartoonito.skyde">
+    <title>Mr. Bean - Die Cartoon-Serie</title>
+</programme>
+<programme start="20260324085500 +0000" stop="20260324091000 +0000" channel="Cartoonito.skyde">
+    <title>Mr. Bean - Die Cartoon-Serie</title>
+</programme>
+<programme start="20260324091000 +0000" stop="20260324092000 +0000" channel="Cartoonito.skyde">
+    <title>Lamput</title>
+</programme>
+<programme start="20260324092000 +0000" stop="20260324092500 +0000" channel="Cartoonito.skyde">
+    <title>Grizzy und die Lemminge</title>
+</programme>
+<programme start="20260324092500 +0000" stop="20260324093000 +0000" channel="Cartoonito.skyde">
+    <title>Grizzy und die Lemminge</title>
+</programme>
+<programme start="20260324093000 +0000" stop="20260324094500 +0000" channel="Cartoonito.skyde">
+    <title>Grizzy und die Lemminge</title>
+</programme>
+<programme start="20260324094500 +0000" stop="20260324095500 +0000" channel="Cartoonito.skyde">
+    <title>Grizzy und die Lemminge</title>
+</programme>
+<programme start="20260324095500 +0000" stop="20260324100000 +0000" channel="Cartoonito.skyde">
+    <title>Grizzy und die Lemminge</title>
+</programme>
+<programme start="20260324100000 +0000" stop="20260324101500 +0000" channel="Cartoonito.skyde">
+    <title>Grizzy und die Lemminge</title>
+</programme>
+<programme start="20260324101500 +0000" stop="20260324102000 +0000" channel="Cartoonito.skyde">
+    <title>Die Tom und Jerry Show</title>
+</programme>
+<programme start="20260324102000 +0000" stop="20260324103000 +0000" channel="Cartoonito.skyde">
+    <title>Die Tom und Jerry Show</title>
+</programme>
+<programme start="20260324103000 +0000" stop="20260324104000 +0000" channel="Cartoonito.skyde">
+    <title>Die Tom und Jerry Show</title>
+</programme>
+<programme start="20260324104000 +0000" stop="20260324105000 +0000" channel="Cartoonito.skyde">
+    <title>Die Tom und Jerry Show</title>
+</programme>
+<programme start="20260324105000 +0000" stop="20260324110000 +0000" channel="Cartoonito.skyde">
+    <title>Die Tom und Jerry Show</title>
+</programme>
+<programme start="20260324110000 +0000" stop="20260324111500 +0000" channel="Cartoonito.skyde">
+    <title>SuperThings: Rivalen von Kaboom - Kazoom-Power</title>
+</programme>
+<programme start="20260324111500 +0000" stop="20260324112500 +0000" channel="Cartoonito.skyde">
+    <title>Mr. Bean - Die Cartoon-Serie</title>
+</programme>
+<programme start="20260324112500 +0000" stop="20260324113500 +0000" channel="Cartoonito.skyde">
+    <title>Mr. Bean - Die Cartoon-Serie</title>
+</programme>
+<programme start="20260324113500 +0000" stop="20260324115500 +0000" channel="Cartoonito.skyde">
+    <title>Mr. Bean - Die Cartoon-Serie</title>
+</programme>
+<programme start="20260324115500 +0000" stop="20260324120500 +0000" channel="Cartoonito.skyde">
+    <title>Mr. Bean - Die Cartoon-Serie</title>
+</programme>
+<programme start="20260324120500 +0000" stop="20260324122000 +0000" channel="Cartoonito.skyde">
+    <title>Mr. Bean - Die Cartoon-Serie</title>
+</programme>
+<programme start="20260324122000 +0000" stop="20260324123500 +0000" channel="Cartoonito.skyde">
+    <title>Mr. Bean - Die Cartoon-Serie</title>
+</programme>
+<programme start="20260324123500 +0000" stop="20260324125000 +0000" channel="Cartoonito.skyde">
+    <title>Mr. Bean - Die Cartoon-Serie</title>
+</programme>
+<programme start="20260324125000 +0000" stop="20260324130000 +0000" channel="Cartoonito.skyde">
+    <title>Mr. Bean - Die Cartoon-Serie</title>
+</programme>
+<programme start="20260324130000 +0000" stop="20260324131000 +0000" channel="Cartoonito.skyde">
+    <title>Mr. Bean - Die Cartoon-Serie</title>
+</programme>
+<programme start="20260324131000 +0000" stop="20260324133000 +0000" channel="Cartoonito.skyde">
+    <title>Mr. Bean - Die Cartoon-Serie</title>
+</programme>
+<programme start="20260324133000 +0000" stop="20260324133500 +0000" channel="Cartoonito.skyde">
+    <title>Lamput</title>
+</programme>
+<programme start="20260324133500 +0000" stop="20260324134000 +0000" channel="Cartoonito.skyde">
+    <title>Lamput</title>
+</programme>
+<programme start="20260324134000 +0000" stop="20260324135500 +0000" channel="Cartoonito.skyde">
+    <title>Lamput</title>
+</programme>
+<programme start="20260324135500 +0000" stop="20260324140500 +0000" channel="Cartoonito.skyde">
+    <title>Batwheels</title>
+</programme>
+<programme start="20260324140500 +0000" stop="20260324142500 +0000" channel="Cartoonito.skyde">
+    <title>Batwheels</title>
+</programme>
+<programme start="20260324142500 +0000" stop="20260324143500 +0000" channel="Cartoonito.skyde">
+    <title>Ben 10</title>
+</programme>
+<programme start="20260324143500 +0000" stop="20260324145500 +0000" channel="Cartoonito.skyde">
+    <title>Ben 10</title>
+</programme>
+<programme start="20260324145500 +0000" stop="20260324152500 +0000" channel="Cartoonito.skyde">
+    <title>Bleib cool, Scooby-Doo!</title>
+</programme>
+<programme start="20260324152500 +0000" stop="20260324154500 +0000" channel="Cartoonito.skyde">
+    <title>Bleib cool, Scooby-Doo!</title>
+</programme>
+<programme start="20260324154500 +0000" stop="20260324155500 +0000" channel="Cartoonito.skyde">
+    <title>Lamput</title>
+</programme>
+<programme start="20260324155500 +0000" stop="20260324160500 +0000" channel="Cartoonito.skyde">
+    <title>Mr. Bean - Die Cartoon-Serie</title>
+</programme>
+<programme start="20260324160500 +0000" stop="20260324162500 +0000" channel="Cartoonito.skyde">
+    <title>Mr. Bean - Die Cartoon-Serie</title>
+</programme>
+<programme start="20260324162500 +0000" stop="20260324163500 +0000" channel="Cartoonito.skyde">
+    <title>Mr. Bean - Die Cartoon-Serie</title>
+</programme>
+<programme start="20260324163500 +0000" stop="20260324165500 +0000" channel="Cartoonito.skyde">
+    <title>Mr. Bean - Die Cartoon-Serie</title>
+</programme>
+<programme start="20260324165500 +0000" stop="20260324165900 +0000" channel="Cartoonito.skyde">
+    <title>Lamput</title>
+</programme>
+<programme start="20260324165900 +0000" stop="20260324170300 +0000" channel="Cartoonito.skyde">
+    <title>Lamput</title>
+</programme>
+<programme start="20260324170300 +0000" stop="20260324170500 +0000" channel="Cartoonito.skyde">
+    <title>Lamput</title>
+</programme>
+<programme start="20260324170500 +0000" stop="20260324172000 +0000" channel="Cartoonito.skyde">
+    <title>Lamput</title>
+</programme>
+<programme start="20260324172000 +0000" stop="20260324173000 +0000" channel="Cartoonito.skyde">
+    <title>Lamput</title>
+</programme>
+<programme start="20260324173000 +0000" stop="20260324173500 +0000" channel="Cartoonito.skyde">
+    <title>Lamput</title>
+</programme>
+<programme start="20260324173500 +0000" stop="20260324174500 +0000" channel="Cartoonito.skyde">
+    <title>Lamput</title>
+</programme>
+<programme start="20260324174500 +0000" stop="20260324180000 +0000" channel="Cartoonito.skyde">
+    <title>Lamput</title>
+</programme>
+<programme start="20260324180000 +0000" stop="20260324181000 +0000" channel="Cartoonito.skyde">
+    <title>Ben 10</title>
+</programme>
+<programme start="20260324181000 +0000" stop="20260324182500 +0000" channel="Cartoonito.skyde">
+    <title>Ben 10</title>
+</programme>
+<programme start="20260324182500 +0000" stop="20260324185500 +0000" channel="Cartoonito.skyde">
+    <title>Bleib cool, Scooby-Doo!</title>
+</programme>
+<programme start="20260324185500 +0000" stop="20260324190500 +0000" channel="Cartoonito.skyde">
+    <title>Mr. Bean - Die Cartoon-Serie</title>
+</programme>
+<programme start="20260324190500 +0000" stop="20260324192500 +0000" channel="Cartoonito.skyde">
+    <title>Mr. Bean - Die Cartoon-Serie</title>
+</programme>
+<programme start="20260324192500 +0000" stop="20260324193500 +0000" channel="Cartoonito.skyde">
+    <title>Mr. Bean - Die Cartoon-Serie</title>
+</programme>
+<programme start="20260324193500 +0000" stop="20260324195500 +0000" channel="Cartoonito.skyde">
+    <title>Mr. Bean - Die Cartoon-Serie</title>
+</programme>
+<programme start="20260324195500 +0000" stop="20260324200000 +0000" channel="Cartoonito.skyde">
+    <title>Grizzy und die Lemminge</title>
+</programme>
+<programme start="20260324200000 +0000" stop="20260324200500 +0000" channel="Cartoonito.skyde">
+    <title>Grizzy und die Lemminge</title>
+</programme>
+<programme start="20260324200500 +0000" stop="20260324202000 +0000" channel="Cartoonito.skyde">
+    <title>Grizzy und die Lemminge</title>
+</programme>
+<programme start="20260324202000 +0000" stop="20260324203000 +0000" channel="Cartoonito.skyde">
+    <title>Grizzy und die Lemminge</title>
+</programme>
+<programme start="20260324203000 +0000" stop="20260324203500 +0000" channel="Cartoonito.skyde">
+    <title>Grizzy und die Lemminge</title>
+</programme>
+<programme start="20260324203500 +0000" stop="20260324204000 +0000" channel="Cartoonito.skyde">
+    <title>Grizzy und die Lemminge</title>
+</programme>
+<programme start="20260324204000 +0000" stop="20260324205500 +0000" channel="Cartoonito.skyde">
+    <title>Grizzy und die Lemminge</title>
+</programme>
+<programme start="20260324205500 +0000" stop="20260324210500 +0000" channel="Cartoonito.skyde">
+    <title>Batwheels</title>
+</programme>
+<programme start="20260324210500 +0000" stop="20260324212000 +0000" channel="Cartoonito.skyde">
+    <title>Batwheels</title>
+</programme>
+<programme start="20260324212000 +0000" stop="20260324213500 +0000" channel="Cartoonito.skyde">
+    <title>Batwheels</title>
+</programme>
+<programme start="20260324213500 +0000" stop="20260324214500 +0000" channel="Cartoonito.skyde">
+    <title>Batwheels</title>
+</programme>
+<programme start="20260324214500 +0000" stop="20260324215000 +0000" channel="Cartoonito.skyde">
+    <title>Hier kommen die Batwheels</title>
+</programme>
+<programme start="20260324215000 +0000" stop="20260324220000 +0000" channel="Cartoonito.skyde">
+    <title>Bugs Bunnys Baumeister</title>
+</programme>
+<programme start="20260324220000 +0000" stop="20260324222000 +0000" channel="Cartoonito.skyde">
+    <title>Bugs Bunnys Baumeister</title>
+</programme>
+<programme start="20260324222000 +0000" stop="20260324223000 +0000" channel="Cartoonito.skyde">
+    <title>Bugs Bunnys Baumeister</title>
+</programme>
+<programme start="20260324223000 +0000" stop="20260324224500 +0000" channel="Cartoonito.skyde">
+    <title>Bugs Bunnys Baumeister</title>
+</programme>
+<programme start="20260324224500 +0000" stop="20260324225500 +0000" channel="Cartoonito.skyde">
+    <title>Die Tom und Jerry Show</title>
+</programme>
+<programme start="20260324225500 +0000" stop="20260324230000 +0000" channel="Cartoonito.skyde">
+    <title>Die Tom und Jerry Show</title>
+</programme>
 <programme start="20260323232500 +0000" stop="20260324001500 +0000" channel="Crime + Investigation.skyde">
     <title>Bloodline Detectives - Die DNA der Täter</title>
 </programme>
@@ -730,16 +1096,16 @@ Warning: Undefined array key "et" in /usr/home/ManusiaBiasa/domains/manusiabiasa
 <programme start="20260324223500 +0000" stop="20260324232500 +0000" channel="Heimatkanal.skyde">
     <title>Da kommt Kalle</title>
 </programme>
-<programme start="20260323232000 +0000" stop="20260324000500 +0000" channel="HISTORY Channel HD.skyde">
+<programme start="20260323232500 +0000" stop="20260324001000 +0000" channel="HISTORY Channel HD.skyde">
     <title>Terra X: Expedition Deutschland - Das Vermächtnis der Steine</title>
 </programme>
-<programme start="20260324000500 +0000" stop="20260324005000 +0000" channel="HISTORY Channel HD.skyde">
+<programme start="20260324001000 +0000" stop="20260324005500 +0000" channel="HISTORY Channel HD.skyde">
     <title>Wunderwerke der Weltgeschichte</title>
 </programme>
-<programme start="20260324005000 +0000" stop="20260324013500 +0000" channel="HISTORY Channel HD.skyde">
+<programme start="20260324005500 +0000" stop="20260324014000 +0000" channel="HISTORY Channel HD.skyde">
     <title>Innovationen, die die Welt veränderten</title>
 </programme>
-<programme start="20260324013500 +0000" stop="20260324022500 +0000" channel="HISTORY Channel HD.skyde">
+<programme start="20260324014000 +0000" stop="20260324022500 +0000" channel="HISTORY Channel HD.skyde">
     <title>Forged in Fire - Wettkampf der Schmiede</title>
 </programme>
 <programme start="20260324022500 +0000" stop="20260324030500 +0000" channel="HISTORY Channel HD.skyde">
@@ -2278,10 +2644,10 @@ Warning: Undefined array key "et" in /usr/home/ManusiaBiasa/domains/manusiabiasa
 <programme start="20260324174000 +0000" stop="20260324180000 +0000" channel="Sky Sport Austria 2 HD.skyde">
     <title>Es folgt: Live Tennis WTA Tour</title>
 </programme>
-<programme start="20260324180000 +0000" stop="20260324220000 +0000" channel="Sky Sport Austria 2 HD.skyde">
+<programme start="20260324180000 +0000" stop="20260324200000 +0000" channel="Sky Sport Austria 2 HD.skyde">
     <title>Live WTA 1000: VF1, Miami Open presented by Itaú in Miami, Florida (USA), Viertelfinale 1</title>
 </programme>
-<programme start="20260324220000 +0000" stop="20260324230000 +0000" channel="Sky Sport Austria 2 HD.skyde">
+<programme start="20260324224000 +0000" stop="20260324230000 +0000" channel="Sky Sport Austria 2 HD.skyde">
     <title>Es folgt: Live Tennis WTA Tour</title>
 </programme>
 <programme start="20260324090000 +0000" stop="20260324090500 +0000" channel="Sky Sport Austria 4 HD.skyde">
@@ -3041,10 +3407,10 @@ Warning: Undefined array key "et" in /usr/home/ManusiaBiasa/domains/manusiabiasa
     <title>ATP 500: Review Acapulco</title>
 </programme>
 <programme start="20260324040000 +0000" stop="20260324060000 +0000" channel="Sky Sport Tennis HD.skyde">
-    <title>WTA 1000: Topspiel, Miami Open presented by Itaú in Miami, Florida (USA), 7. Tag</title>
+    <title>WTA 1000: E. Rybakina (KAZ) - T. Gibson (AUS), Miami Open presented by Itaú in Miami, Florida (USA), 7. Tag</title>
 </programme>
 <programme start="20260324060000 +0000" stop="20260324080000 +0000" channel="Sky Sport Tennis HD.skyde">
-    <title>ATP 1000: Topspiel, Miami Open presented by Itaú in Miami, Florida (USA), 7. Tag</title>
+    <title>ATP 1000: A. Zverev (GER) - M. Cilic (CRO), Miami Open presented by Itaú in Miami, Florida (USA), 7. Tag</title>
 </programme>
 <programme start="20260324080000 +0000" stop="20260324103000 +0000" channel="Sky Sport Tennis HD.skyde">
     <title>ATP 1000: J. Sinner (ITA) - D. Medvedev, BNP Paribas Open in Indian Wells, Kalifornien (USA), Finale</title>
@@ -3053,15 +3419,15 @@ Warning: Undefined array key "et" in /usr/home/ManusiaBiasa/domains/manusiabiasa
     <title>WTA 1000: Review Indian Wells</title>
 </programme>
 <programme start="20260324110000 +0000" stop="20260324130000 +0000" channel="Sky Sport Tennis HD.skyde">
-    <title>WTA 1000: Topspiel, Miami Open presented by Itaú in Miami, Florida (USA), 7. Tag</title>
+    <title>WTA 1000: E. Rybakina (KAZ) - T. Gibson (AUS), Miami Open presented by Itaú in Miami, Florida (USA), 7. Tag</title>
 </programme>
 <programme start="20260324130000 +0000" stop="20260324150000 +0000" channel="Sky Sport Tennis HD.skyde">
-    <title>ATP 1000: Topspiel, Miami Open presented by Itaú in Miami, Florida (USA), 7. Tag</title>
+    <title>ATP 1000: A. Zverev (GER) - M. Cilic (CRO), Miami Open presented by Itaú in Miami, Florida (USA), 7. Tag</title>
 </programme>
 <programme start="20260324150000 +0000" stop="20260325030000 +0000" channel="Sky Sport Tennis HD.skyde">
     <title>Live ATP &amp; WTA: Konferenz Miami Open presented by Itaú in Miami, Florida (USA), 8. Tag</title>
 </programme>
-<programme start="20260323230000 +0000" stop="20260324013000 +0000" channel="Sky Sport Top Event HD.skyde">
+<programme start="20260324000000 +0000" stop="20260324013000 +0000" channel="Sky Sport Top Event HD.skyde">
     <title>Live NBA: San Antonio Spurs @ Miami Heat</title>
 </programme>
 <programme start="20260324013000 +0000" stop="20260324040000 +0000" channel="Sky Sport Top Event HD.skyde">
@@ -3163,10 +3529,10 @@ Warning: Undefined array key "et" in /usr/home/ManusiaBiasa/domains/manusiabiasa
 <programme start="20260324174000 +0000" stop="20260324180000 +0000" channel="Sky Sport 2 HD.skyde">
     <title>Es folgt: Live Tennis WTA Tour</title>
 </programme>
-<programme start="20260324180000 +0000" stop="20260324200000 +0000" channel="Sky Sport 2 HD.skyde">
+<programme start="20260324180000 +0000" stop="20260324220000 +0000" channel="Sky Sport 2 HD.skyde">
     <title>Live WTA 1000: VF1, Miami Open presented by Itaú in Miami, Florida (USA), Viertelfinale 1</title>
 </programme>
-<programme start="20260324224000 +0000" stop="20260324230000 +0000" channel="Sky Sport 2 HD.skyde">
+<programme start="20260324220000 +0000" stop="20260324230000 +0000" channel="Sky Sport 2 HD.skyde">
     <title>Es folgt: Live Tennis WTA Tour</title>
 </programme>
 <programme start="20260324090000 +0000" stop="20260324090500 +0000" channel="Sky Sport 3 HD.skyde">
@@ -3640,7 +4006,7 @@ Warning: Undefined array key "et" in /usr/home/ManusiaBiasa/domains/manusiabiasa
 <programme start="20260324221500 +0000" stop="20260324230000 +0000" channel="Universal TV HD.skyde">
     <title>Bones - Die Knochenjägerin</title>
 </programme>
-<programme start="20260323232000 +0000" stop="20260323234000 +0000" channel="Warner TV Comedy HD.skyde">
+<programme start="20260323231500 +0000" stop="20260323234000 +0000" channel="Warner TV Comedy HD.skyde">
     <title>Two and a Half Men</title>
 </programme>
 <programme start="20260323234000 +0000" stop="20260324000500 +0000" channel="Warner TV Comedy HD.skyde">
@@ -3658,19 +4024,19 @@ Warning: Undefined array key "et" in /usr/home/ManusiaBiasa/domains/manusiabiasa
 <programme start="20260324005500 +0000" stop="20260324010500 +0000" channel="Warner TV Comedy HD.skyde">
     <title>Robot Chicken</title>
 </programme>
-<programme start="20260324010500 +0000" stop="20260324011500 +0000" channel="Warner TV Comedy HD.skyde">
+<programme start="20260324010500 +0000" stop="20260324012000 +0000" channel="Warner TV Comedy HD.skyde">
     <title>Robot Chicken</title>
 </programme>
-<programme start="20260324011500 +0000" stop="20260324014000 +0000" channel="Warner TV Comedy HD.skyde">
+<programme start="20260324012000 +0000" stop="20260324014000 +0000" channel="Warner TV Comedy HD.skyde">
     <title>Harley Quinn</title>
 </programme>
 <programme start="20260324014000 +0000" stop="20260324020000 +0000" channel="Warner TV Comedy HD.skyde">
     <title>Harley Quinn</title>
 </programme>
-<programme start="20260324020000 +0000" stop="20260324021500 +0000" channel="Warner TV Comedy HD.skyde">
+<programme start="20260324020000 +0000" stop="20260324021000 +0000" channel="Warner TV Comedy HD.skyde">
     <title>Robot Chicken</title>
 </programme>
-<programme start="20260324021500 +0000" stop="20260324022500 +0000" channel="Warner TV Comedy HD.skyde">
+<programme start="20260324021000 +0000" stop="20260324022500 +0000" channel="Warner TV Comedy HD.skyde">
     <title>Robot Chicken</title>
 </programme>
 <programme start="20260324022500 +0000" stop="20260324024500 +0000" channel="Warner TV Comedy HD.skyde">
@@ -3691,13 +4057,13 @@ Warning: Undefined array key "et" in /usr/home/ManusiaBiasa/domains/manusiabiasa
 <programme start="20260324041000 +0000" stop="20260324043500 +0000" channel="Warner TV Comedy HD.skyde">
     <title>Die Nanny</title>
 </programme>
-<programme start="20260324043500 +0000" stop="20260324050000 +0000" channel="Warner TV Comedy HD.skyde">
+<programme start="20260324043500 +0000" stop="20260324050500 +0000" channel="Warner TV Comedy HD.skyde">
     <title>Die Nanny</title>
 </programme>
-<programme start="20260324050000 +0000" stop="20260324052500 +0000" channel="Warner TV Comedy HD.skyde">
+<programme start="20260324050500 +0000" stop="20260324053000 +0000" channel="Warner TV Comedy HD.skyde">
     <title>Friends</title>
 </programme>
-<programme start="20260324052500 +0000" stop="20260324055500 +0000" channel="Warner TV Comedy HD.skyde">
+<programme start="20260324053000 +0000" stop="20260324055500 +0000" channel="Warner TV Comedy HD.skyde">
     <title>Friends</title>
 </programme>
 <programme start="20260324055500 +0000" stop="20260324062000 +0000" channel="Warner TV Comedy HD.skyde">
@@ -3712,46 +4078,46 @@ Warning: Undefined array key "et" in /usr/home/ManusiaBiasa/domains/manusiabiasa
 <programme start="20260324071000 +0000" stop="20260324073500 +0000" channel="Warner TV Comedy HD.skyde">
     <title>Friends</title>
 </programme>
-<programme start="20260324073500 +0000" stop="20260324080000 +0000" channel="Warner TV Comedy HD.skyde">
+<programme start="20260324073500 +0000" stop="20260324080500 +0000" channel="Warner TV Comedy HD.skyde">
     <title>Die Nanny</title>
 </programme>
-<programme start="20260324080000 +0000" stop="20260324083000 +0000" channel="Warner TV Comedy HD.skyde">
+<programme start="20260324080500 +0000" stop="20260324083000 +0000" channel="Warner TV Comedy HD.skyde">
     <title>Die Nanny</title>
 </programme>
-<programme start="20260324083000 +0000" stop="20260324085500 +0000" channel="Warner TV Comedy HD.skyde">
+<programme start="20260324083000 +0000" stop="20260324090000 +0000" channel="Warner TV Comedy HD.skyde">
     <title>Die Nanny</title>
 </programme>
-<programme start="20260324085500 +0000" stop="20260324092000 +0000" channel="Warner TV Comedy HD.skyde">
+<programme start="20260324090000 +0000" stop="20260324092500 +0000" channel="Warner TV Comedy HD.skyde">
     <title>The Middle</title>
 </programme>
-<programme start="20260324092000 +0000" stop="20260324094500 +0000" channel="Warner TV Comedy HD.skyde">
+<programme start="20260324092500 +0000" stop="20260324095000 +0000" channel="Warner TV Comedy HD.skyde">
     <title>The Middle</title>
 </programme>
-<programme start="20260324094500 +0000" stop="20260324101000 +0000" channel="Warner TV Comedy HD.skyde">
+<programme start="20260324095000 +0000" stop="20260324101500 +0000" channel="Warner TV Comedy HD.skyde">
     <title>The Middle</title>
 </programme>
-<programme start="20260324101000 +0000" stop="20260324103500 +0000" channel="Warner TV Comedy HD.skyde">
+<programme start="20260324101500 +0000" stop="20260324104000 +0000" channel="Warner TV Comedy HD.skyde">
     <title>The Middle</title>
 </programme>
-<programme start="20260324103500 +0000" stop="20260324110000 +0000" channel="Warner TV Comedy HD.skyde">
+<programme start="20260324104000 +0000" stop="20260324110500 +0000" channel="Warner TV Comedy HD.skyde">
     <title>The Middle</title>
 </programme>
-<programme start="20260324110000 +0000" stop="20260324112500 +0000" channel="Warner TV Comedy HD.skyde">
+<programme start="20260324110500 +0000" stop="20260324113000 +0000" channel="Warner TV Comedy HD.skyde">
     <title>The Middle</title>
 </programme>
-<programme start="20260324112500 +0000" stop="20260324115000 +0000" channel="Warner TV Comedy HD.skyde">
+<programme start="20260324113000 +0000" stop="20260324115500 +0000" channel="Warner TV Comedy HD.skyde">
     <title>The Middle</title>
 </programme>
-<programme start="20260324115000 +0000" stop="20260324121500 +0000" channel="Warner TV Comedy HD.skyde">
+<programme start="20260324115500 +0000" stop="20260324122000 +0000" channel="Warner TV Comedy HD.skyde">
     <title>The Middle</title>
 </programme>
-<programme start="20260324121500 +0000" stop="20260324124000 +0000" channel="Warner TV Comedy HD.skyde">
+<programme start="20260324122000 +0000" stop="20260324124500 +0000" channel="Warner TV Comedy HD.skyde">
     <title>King of Queens</title>
 </programme>
-<programme start="20260324124000 +0000" stop="20260324130500 +0000" channel="Warner TV Comedy HD.skyde">
+<programme start="20260324124500 +0000" stop="20260324131000 +0000" channel="Warner TV Comedy HD.skyde">
     <title>King of Queens</title>
 </programme>
-<programme start="20260324130500 +0000" stop="20260324133000 +0000" channel="Warner TV Comedy HD.skyde">
+<programme start="20260324131000 +0000" stop="20260324133000 +0000" channel="Warner TV Comedy HD.skyde">
     <title>King of Queens</title>
 </programme>
 <programme start="20260324133000 +0000" stop="20260324135500 +0000" channel="Warner TV Comedy HD.skyde">
@@ -3823,10 +4189,10 @@ Warning: Undefined array key "et" in /usr/home/ManusiaBiasa/domains/manusiabiasa
 <programme start="20260324215500 +0000" stop="20260324221000 +0000" channel="Warner TV Comedy HD.skyde">
     <title>Robot Chicken</title>
 </programme>
-<programme start="20260324221000 +0000" stop="20260324223000 +0000" channel="Warner TV Comedy HD.skyde">
+<programme start="20260324221000 +0000" stop="20260324223500 +0000" channel="Warner TV Comedy HD.skyde">
     <title>Harley Quinn</title>
 </programme>
-<programme start="20260324223000 +0000" stop="20260324225500 +0000" channel="Warner TV Comedy HD.skyde">
+<programme start="20260324223500 +0000" stop="20260324225500 +0000" channel="Warner TV Comedy HD.skyde">
     <title>Harley Quinn</title>
 </programme>
 <programme start="20260324225500 +0000" stop="20260324232000 +0000" channel="Warner TV Comedy HD.skyde">
@@ -3925,19 +4291,19 @@ Warning: Undefined array key "et" in /usr/home/ManusiaBiasa/domains/manusiabiasa
 <programme start="20260324045000 +0000" stop="20260324054000 +0000" channel="Warner TV Serie HD.skyde">
     <title>Daktari</title>
 </programme>
-<programme start="20260324054000 +0000" stop="20260324063000 +0000" channel="Warner TV Serie HD.skyde">
+<programme start="20260324054000 +0000" stop="20260324063500 +0000" channel="Warner TV Serie HD.skyde">
     <title>Daktari</title>
 </programme>
-<programme start="20260324063000 +0000" stop="20260324072500 +0000" channel="Warner TV Serie HD.skyde">
+<programme start="20260324063500 +0000" stop="20260324072500 +0000" channel="Warner TV Serie HD.skyde">
     <title>Daktari</title>
 </programme>
-<programme start="20260324072500 +0000" stop="20260324081500 +0000" channel="Warner TV Serie HD.skyde">
+<programme start="20260324072500 +0000" stop="20260324082000 +0000" channel="Warner TV Serie HD.skyde">
     <title>Daktari</title>
 </programme>
-<programme start="20260324081500 +0000" stop="20260324090500 +0000" channel="Warner TV Serie HD.skyde">
+<programme start="20260324082000 +0000" stop="20260324091000 +0000" channel="Warner TV Serie HD.skyde">
     <title>Mord ist ihr Hobby</title>
 </programme>
-<programme start="20260324090500 +0000" stop="20260324100000 +0000" channel="Warner TV Serie HD.skyde">
+<programme start="20260324091000 +0000" stop="20260324100000 +0000" channel="Warner TV Serie HD.skyde">
     <title>Mord ist ihr Hobby</title>
 </programme>
 <programme start="20260324100000 +0000" stop="20260324105000 +0000" channel="Warner TV Serie HD.skyde">
@@ -3964,10 +4330,10 @@ Warning: Undefined array key "et" in /usr/home/ManusiaBiasa/domains/manusiabiasa
 <programme start="20260324152500 +0000" stop="20260324161000 +0000" channel="Warner TV Serie HD.skyde">
     <title>NCIS</title>
 </programme>
-<programme start="20260324161000 +0000" stop="20260324165500 +0000" channel="Warner TV Serie HD.skyde">
+<programme start="20260324161000 +0000" stop="20260324170000 +0000" channel="Warner TV Serie HD.skyde">
     <title>NCIS</title>
 </programme>
-<programme start="20260324165500 +0000" stop="20260324174500 +0000" channel="Warner TV Serie HD.skyde">
+<programme start="20260324170000 +0000" stop="20260324174500 +0000" channel="Warner TV Serie HD.skyde">
     <title>NCIS</title>
 </programme>
 <programme start="20260324174500 +0000" stop="20260324183000 +0000" channel="Warner TV Serie HD.skyde">

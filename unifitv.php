@@ -15445,19 +15445,14 @@
     <desc lang="en">A tech-infused, 3-on-3 new golf league that features six teams composed of four PGA Tour golfers taking part in two-hour matches inside custom-built venue in Palm Beach Gardens,</desc>
     <category lang="en">Sports</category>
   </programme>
-  <programme start="20260324100000 +0000" stop="20260324130000 +0000" channel="beinsports3.unifitv">
+  <programme start="20260324100000 +0000" stop="20260324131500 +0000" channel="beinsports3.unifitv">
     <title lang="en">ONE Friday Fights - OFF 147</title>
     <desc lang="en">A weekly event series by ONE Championship held in Bangkok, Thailand featuring exciting Muay Thai, kickboxing and MMA fights.</desc>
     <category lang="en">Sports</category>
   </programme>
-  <programme start="20260324130000 +0000" stop="20260324140000 +0000" channel="beinsports3.unifitv">
+  <programme start="20260324131500 +0000" stop="20260324142000 +0000" channel="beinsports3.unifitv">
     <title lang="en">Bundesliga Highlights - Matchday 27</title>
     <desc lang="en">All the action from the latest round of games in the German Bundesliga, Germany's top division of football.</desc>
-    <category lang="en">Sports</category>
-  </programme>
-  <programme start="20260324140000 +0000" stop="20260324142000 +0000" channel="beinsports3.unifitv">
-    <title lang="en">MUTV: One Love - Supporting Each Other</title>
-    <desc lang="en">Go behind the scenes with some of our most dedicated supporters' clubs, to uncover the fascinating stories, experiences and sacrifices these fans make to follow the club.</desc>
     <category lang="en">Sports</category>
   </programme>
   <programme start="20260324142000 +0000" stop="20260324162000 +0000" channel="beinsports3.unifitv">

@@ -1,4 +1,96 @@
-Error: Unable to fetch data. HTTP Status Code: 500
+<programme start="20260323170000 +0000" stop="20260323173000 +0000" channel="ABC Australia.mncvision">
+    <title>The Pacific</title>
+</programme>
+<programme start="20260323173000 +0000" stop="20260323180000 +0000" channel="ABC Australia.mncvision">
+    <title>Movin&#039; To The Country</title>
+</programme>
+<programme start="20260323180000 +0000" stop="20260323190000 +0000" channel="ABC Australia.mncvision">
+    <title>The World</title>
+</programme>
+<programme start="20260323190000 +0000" stop="20260323200000 +0000" channel="ABC Australia.mncvision">
+    <title>News Breakfast</title>
+</programme>
+<programme start="20260323200000 +0000" stop="20260323220000 +0000" channel="ABC Australia.mncvision">
+    <title>News Breakfast</title>
+</programme>
+<programme start="20260323220000 +0000" stop="20260324010000 +0000" channel="ABC Australia.mncvision">
+    <title>ABC News Mornings</title>
+</programme>
+<programme start="20260324010000 +0000" stop="20260324020000 +0000" channel="ABC Australia.mncvision">
+    <title>ABC News At Noon</title>
+</programme>
+<programme start="20260324020000 +0000" stop="20260324023000 +0000" channel="ABC Australia.mncvision">
+    <title>Australian Story</title>
+</programme>
+<programme start="20260324023000 +0000" stop="20260324032000 +0000" channel="ABC Australia.mncvision">
+    <title>Great Australian Walks</title>
+</programme>
+<programme start="20260324032000 +0000" stop="20260324040000 +0000" channel="ABC Australia.mncvision">
+    <title>Roads Unknown India</title>
+</programme>
+<programme start="20260324040000 +0000" stop="20260324050000 +0000" channel="ABC Australia.mncvision">
+    <title>Gardening Australia</title>
+</programme>
+<programme start="20260324050000 +0000" stop="20260324053000 +0000" channel="ABC Australia.mncvision">
+    <title>Landline</title>
+</programme>
+<programme start="20260324053000 +0000" stop="20260324060000 +0000" channel="ABC Australia.mncvision">
+    <title>Planet America</title>
+</programme>
+<programme start="20260324060000 +0000" stop="20260324070000 +0000" channel="ABC Australia.mncvision">
+    <title>ABC News With Joe O&#039;Brien</title>
+</programme>
+<programme start="20260324070000 +0000" stop="20260324072500 +0000" channel="ABC Australia.mncvision">
+    <title>The Cook Up With Adam Liaw</title>
+</programme>
+<programme start="20260324072500 +0000" stop="20260324080000 +0000" channel="ABC Australia.mncvision">
+    <title>Landline: Mekong Special</title>
+</programme>
+<programme start="20260324080000 +0000" stop="20260324083000 +0000" channel="ABC Australia.mncvision">
+    <title>ABC National News</title>
+</programme>
+<programme start="20260324083000 +0000" stop="20260324090000 +0000" channel="ABC Australia.mncvision">
+    <title>7.30</title>
+</programme>
+<programme start="20260324090000 +0000" stop="20260324093000 +0000" channel="ABC Australia.mncvision">
+    <title>Australian Story</title>
+</programme>
+<programme start="20260324093000 +0000" stop="20260324100000 +0000" channel="ABC Australia.mncvision">
+    <title>Roads Unknown India</title>
+</programme>
+<programme start="20260324100000 +0000" stop="20260324110000 +0000" channel="ABC Australia.mncvision">
+    <title>The World</title>
+</programme>
+<programme start="20260324110000 +0000" stop="20260324114500 +0000" channel="ABC Australia.mncvision">
+    <title>Great Australian Walks</title>
+</programme>
+<programme start="20260324114500 +0000" stop="20260324123000 +0000" channel="ABC Australia.mncvision">
+    <title>Save This Shark</title>
+</programme>
+<programme start="20260324123000 +0000" stop="20260324130000 +0000" channel="ABC Australia.mncvision">
+    <title>Landline: Mekong Special</title>
+</programme>
+<programme start="20260324130000 +0000" stop="20260324131500 +0000" channel="ABC Australia.mncvision">
+    <title>ABC Late News</title>
+</programme>
+<programme start="20260324131500 +0000" stop="20260324133000 +0000" channel="ABC Australia.mncvision">
+    <title>The Business</title>
+</programme>
+<programme start="20260324133000 +0000" stop="20260324140000 +0000" channel="ABC Australia.mncvision">
+    <title>7.30</title>
+</programme>
+<programme start="20260324140000 +0000" stop="20260324150000 +0000" channel="ABC Australia.mncvision">
+    <title>The World</title>
+</programme>
+<programme start="20260324150000 +0000" stop="20260324160000 +0000" channel="ABC Australia.mncvision">
+    <title>Great Australian Walks</title>
+</programme>
+<programme start="20260324160000 +0000" stop="20260324163000 +0000" channel="ABC Australia.mncvision">
+    <title>Australian Story</title>
+</programme>
+<programme start="20260324163000 +0000" stop="20260323170000 +0000" channel="ABC Australia.mncvision">
+    <title>Gardening Australia</title>
+</programme>
 <programme start="20260323170000 +0000" stop="20260323180000 +0000" channel="Al Jazeera English.mncvision">
     <title>News (L)</title>
 </programme>
@@ -4115,7 +4207,90 @@ Error: Unable to fetch data. HTTP Status Code: 500
 <programme start="20260324164000 +0000" stop="20260323171000 +0000" channel="History.mncvision">
     <title>The Death Coast, Ep 7</title>
 </programme>
-Error: Unable to fetch data. HTTP Status Code: 500
+<programme start="20260323170000 +0000" stop="20260323180000 +0000" channel="HITS.mncvision">
+    <title>The Waltons S4, Ep 1</title>
+</programme>
+<programme start="20260323180000 +0000" stop="20260323190000 +0000" channel="HITS.mncvision">
+    <title>A. Christie&#039;s Marple S5, Ep 7</title>
+</programme>
+<programme start="20260323190000 +0000" stop="20260323200000 +0000" channel="HITS.mncvision">
+    <title>Law &amp; Order: SVU S11, Ep 9</title>
+</programme>
+<programme start="20260323200000 +0000" stop="20260323210000 +0000" channel="HITS.mncvision">
+    <title>Xena: Warrior... S2, Ep 15</title>
+</programme>
+<programme start="20260323210000 +0000" stop="20260323220000 +0000" channel="HITS.mncvision">
+    <title>The Waltons S4, Ep 1</title>
+</programme>
+<programme start="20260323220000 +0000" stop="20260323230000 +0000" channel="HITS.mncvision">
+    <title>Law &amp; Order: SVU S11, Ep 9</title>
+</programme>
+<programme start="20260323230000 +0000" stop="20260323233000 +0000" channel="HITS.mncvision">
+    <title>I Dream Of Jeannie S5, Ep 22</title>
+</programme>
+<programme start="20260323233000 +0000" stop="20260324003000 +0000" channel="HITS.mncvision">
+    <title>Mission: Impossible S2, Ep 24</title>
+</programme>
+<programme start="20260324003000 +0000" stop="20260324013000 +0000" channel="HITS.mncvision">
+    <title>Mission: Impossible S2, Ep 25</title>
+</programme>
+<programme start="20260324013000 +0000" stop="20260324023000 +0000" channel="HITS.mncvision">
+    <title>Xena: Warrior... S2, Ep 15</title>
+</programme>
+<programme start="20260324023000 +0000" stop="20260324033000 +0000" channel="HITS.mncvision">
+    <title>The Waltons S4, Ep 1</title>
+</programme>
+<programme start="20260324033000 +0000" stop="20260324040000 +0000" channel="HITS.mncvision">
+    <title>Married With Children S1, Ep 5</title>
+</programme>
+<programme start="20260324040000 +0000" stop="20260324043000 +0000" channel="HITS.mncvision">
+    <title>Bewitched S6, Ep 6</title>
+</programme>
+<programme start="20260324043000 +0000" stop="20260324053000 +0000" channel="HITS.mncvision">
+    <title>A. Christie&#039;s Marple S5, Ep 7</title>
+</programme>
+<programme start="20260324053000 +0000" stop="20260324063000 +0000" channel="HITS.mncvision">
+    <title>Law &amp; Order: SVU S11, Ep 9</title>
+</programme>
+<programme start="20260324063000 +0000" stop="20260324070000 +0000" channel="HITS.mncvision">
+    <title>I Dream Of Jeannie S5, Ep 23</title>
+</programme>
+<programme start="20260324070000 +0000" stop="20260324083000 +0000" channel="HITS.mncvision">
+    <title>The Blue And The Gray, Ep 1</title>
+</programme>
+<programme start="20260324083000 +0000" stop="20260324090000 +0000" channel="HITS.mncvision">
+    <title>Bewitched S6, Ep 6</title>
+</programme>
+<programme start="20260324090000 +0000" stop="20260324100000 +0000" channel="HITS.mncvision">
+    <title>A. Christie&#039;s Marple S5, Ep 7</title>
+</programme>
+<programme start="20260324100000 +0000" stop="20260324110000 +0000" channel="HITS.mncvision">
+    <title>Roots: Next Generations, Ep 6</title>
+</programme>
+<programme start="20260324110000 +0000" stop="20260324120000 +0000" channel="HITS.mncvision">
+    <title>Xena: Warrior... S2, Ep 16</title>
+</programme>
+<programme start="20260324120000 +0000" stop="20260324123000 +0000" channel="HITS.mncvision">
+    <title>Married With Children S1, Ep 6</title>
+</programme>
+<programme start="20260324123000 +0000" stop="20260324130000 +0000" channel="HITS.mncvision">
+    <title>Bewitched S6, Ep 7</title>
+</programme>
+<programme start="20260324130000 +0000" stop="20260324140000 +0000" channel="HITS.mncvision">
+    <title>A. Christie&#039;s Marple S5, Ep 8</title>
+</programme>
+<programme start="20260324140000 +0000" stop="20260324150000 +0000" channel="HITS.mncvision">
+    <title>The Waltons S4, Ep 2</title>
+</programme>
+<programme start="20260324150000 +0000" stop="20260324160000 +0000" channel="HITS.mncvision">
+    <title>Law &amp; Order: SVU S11, Ep 10</title>
+</programme>
+<programme start="20260324160000 +0000" stop="20260324163000 +0000" channel="HITS.mncvision">
+    <title>Married With Children S1, Ep 6</title>
+</programme>
+<programme start="20260324163000 +0000" stop="20260323170000 +0000" channel="HITS.mncvision">
+    <title>Bewitched S6, Ep 7</title>
+</programme>
 <programme start="20260323180000 +0000" stop="20260323200000 +0000" channel="HITS MOVIES.mncvision">
     <title>Kung Fu Panda</title>
 </programme>
