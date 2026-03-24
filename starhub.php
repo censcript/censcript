@@ -1955,7 +1955,7 @@
         <title>MUTV: Treble Twenty Man Utd vs Tottenham</title>
     </programme>
     <programme start="20260324170500 +0000" stop="20260324190000 +0000" channel="beIN Sports 3.starhub">
-        <title>TotalEnergies Africa Cup of Nations, Morocco 2025: Ivory Coast vs Mozambique - G</title>
+        <title>TotalEnergies Africa Cup of Nations, Morocco 2025: Ivory Coast vs Mozambique - Group Stage</title>
     </programme>
     <programme start="20260324190000 +0000" stop="20260324205000 +0000" channel="beIN Sports 3.starhub">
         <title>Pacific Nations Cup 2025: Tonga vs Samoa</title>
