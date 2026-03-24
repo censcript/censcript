@@ -2644,10 +2644,10 @@ Warning: Undefined array key "et" in /usr/home/ManusiaBiasa/domains/manusiabiasa
 <programme start="20260324174000 +0000" stop="20260324180000 +0000" channel="Sky Sport Austria 2 HD.skyde">
     <title>Es folgt: Live Tennis WTA Tour</title>
 </programme>
-<programme start="20260324180000 +0000" stop="20260324200000 +0000" channel="Sky Sport Austria 2 HD.skyde">
+<programme start="20260324180000 +0000" stop="20260324220000 +0000" channel="Sky Sport Austria 2 HD.skyde">
     <title>Live WTA 1000: VF1, Miami Open presented by Itaú in Miami, Florida (USA), Viertelfinale 1</title>
 </programme>
-<programme start="20260324224000 +0000" stop="20260324230000 +0000" channel="Sky Sport Austria 2 HD.skyde">
+<programme start="20260324220000 +0000" stop="20260324230000 +0000" channel="Sky Sport Austria 2 HD.skyde">
     <title>Es folgt: Live Tennis WTA Tour</title>
 </programme>
 <programme start="20260324090000 +0000" stop="20260324090500 +0000" channel="Sky Sport Austria 4 HD.skyde">
@@ -3154,16 +3154,13 @@ Warning: Undefined array key "et" in /usr/home/ManusiaBiasa/domains/manusiabiasa
 <programme start="20260323233000 +0000" stop="20260324023000 +0000" channel="Sky Sport Mix HD.skyde">
     <title>Live NHL: Ottawa Senators @ New York Rangers</title>
 </programme>
-<programme start="20260324023000 +0000" stop="20260324040000 +0000" channel="Sky Sport Mix HD.skyde">
+<programme start="20260324023000 +0000" stop="20260324043500 +0000" channel="Sky Sport Mix HD.skyde">
     <title>Live NBA: Golden State Warriors @ Dallas Mavericks</title>
 </programme>
-<programme start="20260324040000 +0000" stop="20260324043000 +0000" channel="Sky Sport Mix HD.skyde">
+<programme start="20260324043500 +0000" stop="20260324051000 +0000" channel="Sky Sport Mix HD.skyde">
     <title>Live NBA: Showtime - Post Show</title>
 </programme>
-<programme start="20260324043000 +0000" stop="20260324050000 +0000" channel="Sky Sport Mix HD.skyde">
-    <title>Frauen-BL: Alle Spiele, alle Tore, 21. Spieltag komplett</title>
-</programme>
-<programme start="20260324050000 +0000" stop="20260324060000 +0000" channel="Sky Sport Mix HD.skyde">
+<programme start="20260324051000 +0000" stop="20260324060000 +0000" channel="Sky Sport Mix HD.skyde">
     <title>3. Liga: Alle Spiele, alle Tore, 30. Spieltag komplett</title>
 </programme>
 <programme start="20260324060000 +0000" stop="20260324080000 +0000" channel="Sky Sport Mix HD.skyde">
@@ -3430,16 +3427,13 @@ Warning: Undefined array key "et" in /usr/home/ManusiaBiasa/domains/manusiabiasa
 <programme start="20260324010000 +0000" stop="20260324014000 +0000" channel="Sky Sport Top Event HD.skyde">
     <title>Live NBA: San Antonio Spurs @ Miami Heat</title>
 </programme>
-<programme start="20260324014000 +0000" stop="20260324040000 +0000" channel="Sky Sport Top Event HD.skyde">
+<programme start="20260324014000 +0000" stop="20260324043500 +0000" channel="Sky Sport Top Event HD.skyde">
     <title>Live NBA: Golden State Warriors @ Dallas Mavericks</title>
 </programme>
-<programme start="20260324040000 +0000" stop="20260324043000 +0000" channel="Sky Sport Top Event HD.skyde">
+<programme start="20260324043500 +0000" stop="20260324051000 +0000" channel="Sky Sport Top Event HD.skyde">
     <title>Live NBA: Showtime - Post Show</title>
 </programme>
-<programme start="20260324043000 +0000" stop="20260324050000 +0000" channel="Sky Sport Top Event HD.skyde">
-    <title>Frauen-BL: Alle Spiele, alle Tore, 21. Spieltag komplett</title>
-</programme>
-<programme start="20260324050000 +0000" stop="20260324053000 +0000" channel="Sky Sport Top Event HD.skyde">
+<programme start="20260324051000 +0000" stop="20260324053000 +0000" channel="Sky Sport Top Event HD.skyde">
     <title>2. BL: 90in30: SVD - S04, 27. Spieltag</title>
 </programme>
 <programme start="20260324053000 +0000" stop="20260324060000 +0000" channel="Sky Sport Top Event HD.skyde">
@@ -3530,7 +3524,7 @@ Warning: Undefined array key "et" in /usr/home/ManusiaBiasa/domains/manusiabiasa
     <title>Es folgt: Live Tennis WTA Tour</title>
 </programme>
 <programme start="20260324180000 +0000" stop="20260324220000 +0000" channel="Sky Sport 2 HD.skyde">
-    <title>Live WTA 1000: VF1, Miami Open presented by Itaú in Miami, Florida (USA), Viertelfinale 1</title>
+    <title>Live WTA 1000: V. Mboko (CAN) - K. Muchova (CZE) , Miami Open presented by Itaú in Miami, Florida (USA), Viertelfinale 1</title>
 </programme>
 <programme start="20260324220000 +0000" stop="20260324230000 +0000" channel="Sky Sport 2 HD.skyde">
     <title>Es folgt: Live Tennis WTA Tour</title>
