@@ -229,10 +229,10 @@ Warning: Undefined array key "et" in /usr/home/ManusiaBiasa/domains/manusiabiasa
 <programme start="20260324051000 +0000" stop="20260324052000 +0000" channel="Cartoon Network.skyde">
     <title>Die fantastische Welt von Gumball</title>
 </programme>
-<programme start="20260324052000 +0000" stop="20260324053500 +0000" channel="Cartoon Network.skyde">
+<programme start="20260324052000 +0000" stop="20260324053000 +0000" channel="Cartoon Network.skyde">
     <title>Die fantastische Welt von Gumball</title>
 </programme>
-<programme start="20260324053500 +0000" stop="20260324054500 +0000" channel="Cartoon Network.skyde">
+<programme start="20260324053000 +0000" stop="20260324054500 +0000" channel="Cartoon Network.skyde">
     <title>Die fantastische Welt von Gumball</title>
 </programme>
 <programme start="20260324054500 +0000" stop="20260324055500 +0000" channel="Cartoon Network.skyde">
@@ -241,10 +241,10 @@ Warning: Undefined array key "et" in /usr/home/ManusiaBiasa/domains/manusiabiasa
 <programme start="20260324055500 +0000" stop="20260324060500 +0000" channel="Cartoon Network.skyde">
     <title>Die fantastische Welt von Gumball</title>
 </programme>
-<programme start="20260324060500 +0000" stop="20260324062000 +0000" channel="Cartoon Network.skyde">
+<programme start="20260324060500 +0000" stop="20260324061500 +0000" channel="Cartoon Network.skyde">
     <title>Die fantastische Welt von Gumball</title>
 </programme>
-<programme start="20260324062000 +0000" stop="20260324063000 +0000" channel="Cartoon Network.skyde">
+<programme start="20260324061500 +0000" stop="20260324063000 +0000" channel="Cartoon Network.skyde">
     <title>Die fantastische Welt von Gumball</title>
 </programme>
 <programme start="20260324063000 +0000" stop="20260324064000 +0000" channel="Cartoon Network.skyde">
@@ -277,10 +277,10 @@ Warning: Undefined array key "et" in /usr/home/ManusiaBiasa/domains/manusiabiasa
 <programme start="20260324082000 +0000" stop="20260324083000 +0000" channel="Cartoon Network.skyde">
     <title>Looney Tunes Cartoons</title>
 </programme>
-<programme start="20260324083000 +0000" stop="20260324085500 +0000" channel="Cartoon Network.skyde">
+<programme start="20260324083000 +0000" stop="20260324085000 +0000" channel="Cartoon Network.skyde">
     <title>Tiny Toons Looniversity</title>
 </programme>
-<programme start="20260324085500 +0000" stop="20260324090500 +0000" channel="Cartoon Network.skyde">
+<programme start="20260324085000 +0000" stop="20260324090500 +0000" channel="Cartoon Network.skyde">
     <title>Goat Girl</title>
 </programme>
 <programme start="20260324090500 +0000" stop="20260324091500 +0000" channel="Cartoon Network.skyde">
@@ -379,10 +379,10 @@ Warning: Undefined array key "et" in /usr/home/ManusiaBiasa/domains/manusiabiasa
 <programme start="20260324151000 +0000" stop="20260324153000 +0000" channel="Cartoon Network.skyde">
     <title>Tiny Toons Looniversity</title>
 </programme>
-<programme start="20260324153000 +0000" stop="20260324154000 +0000" channel="Cartoon Network.skyde">
+<programme start="20260324153000 +0000" stop="20260324154500 +0000" channel="Cartoon Network.skyde">
     <title>Lana Longbeard</title>
 </programme>
-<programme start="20260324154000 +0000" stop="20260324155500 +0000" channel="Cartoon Network.skyde">
+<programme start="20260324154500 +0000" stop="20260324155500 +0000" channel="Cartoon Network.skyde">
     <title>Lana Longbeard</title>
 </programme>
 <programme start="20260324155500 +0000" stop="20260324160500 +0000" channel="Cartoon Network.skyde">
@@ -475,10 +475,10 @@ Warning: Undefined array key "et" in /usr/home/ManusiaBiasa/domains/manusiabiasa
 <programme start="20260324214000 +0000" stop="20260324215000 +0000" channel="Cartoon Network.skyde">
     <title>Adventure Time - Abenteuerzeit mit Finn und Jake</title>
 </programme>
-<programme start="20260324215000 +0000" stop="20260324220500 +0000" channel="Cartoon Network.skyde">
+<programme start="20260324215000 +0000" stop="20260324220000 +0000" channel="Cartoon Network.skyde">
     <title>Regular Show - Völlig abgedreht</title>
 </programme>
-<programme start="20260324220500 +0000" stop="20260324221500 +0000" channel="Cartoon Network.skyde">
+<programme start="20260324220000 +0000" stop="20260324221500 +0000" channel="Cartoon Network.skyde">
     <title>Regular Show - Völlig abgedreht</title>
 </programme>
 <programme start="20260324221500 +0000" stop="20260324222500 +0000" channel="Cartoon Network.skyde">
@@ -2278,10 +2278,10 @@ Warning: Undefined array key "et" in /usr/home/ManusiaBiasa/domains/manusiabiasa
 <programme start="20260324174000 +0000" stop="20260324180000 +0000" channel="Sky Sport Austria 2 HD.skyde">
     <title>Es folgt: Live Tennis WTA Tour</title>
 </programme>
-<programme start="20260324180000 +0000" stop="20260324200000 +0000" channel="Sky Sport Austria 2 HD.skyde">
+<programme start="20260324180000 +0000" stop="20260324220000 +0000" channel="Sky Sport Austria 2 HD.skyde">
     <title>Live WTA 1000: VF1, Miami Open presented by Itaú in Miami, Florida (USA), Viertelfinale 1</title>
 </programme>
-<programme start="20260324224000 +0000" stop="20260324230000 +0000" channel="Sky Sport Austria 2 HD.skyde">
+<programme start="20260324220000 +0000" stop="20260324230000 +0000" channel="Sky Sport Austria 2 HD.skyde">
     <title>Es folgt: Live Tennis WTA Tour</title>
 </programme>
 <programme start="20260324090000 +0000" stop="20260324090500 +0000" channel="Sky Sport Austria 4 HD.skyde">
@@ -2908,14 +2908,143 @@ Warning: Undefined array key "et" in /usr/home/ManusiaBiasa/domains/manusiabiasa
 <programme start="20260324220000 +0000" stop="20260324230000 +0000" channel="Sky Sport News HD.skyde">
     <title>Live Sky Sport News: Late Night News</title>
 </programme>
+<programme start="20260323230000 +0000" stop="20260323231500 +0000" channel="Sky Sport Premier League HD.skyde">
+    <title>EFL: Highlights XXL: Blackburn Rovers - FC Middlesbrough, 39. Spieltag</title>
+</programme>
+<programme start="20260323231500 +0000" stop="20260323233000 +0000" channel="Sky Sport Premier League HD.skyde">
+    <title>EFL: Highlights XXL: Ipswich Town - FC Millwall, 39. Spieltag</title>
+</programme>
+<programme start="20260323233000 +0000" stop="20260324003000 +0000" channel="Sky Sport Premier League HD.skyde">
+    <title>PL: Review, 31. Spieltag</title>
+</programme>
+<programme start="20260324003000 +0000" stop="20260324010000 +0000" channel="Sky Sport Premier League HD.skyde">
+    <title>Carabao Cup: 90in30: ARS - MCI, Finale 2026 in Wembley</title>
+</programme>
+<programme start="20260324010000 +0000" stop="20260324030000 +0000" channel="Sky Sport Premier League HD.skyde">
+    <title>PL: Newcastle United - AFC Sunderland, 31. Spieltag</title>
+</programme>
+<programme start="20260324030000 +0000" stop="20260324050000 +0000" channel="Sky Sport Premier League HD.skyde">
+    <title>PL: Aston Villa - West Ham United, 31. Spieltag</title>
+</programme>
+<programme start="20260324050000 +0000" stop="20260324060000 +0000" channel="Sky Sport Premier League HD.skyde">
+    <title>PL: GOATS (Wayne Rooney)</title>
+</programme>
+<programme start="20260324060000 +0000" stop="20260324070000 +0000" channel="Sky Sport Premier League HD.skyde">
+    <title>PL: Review, 31. Spieltag</title>
+</programme>
+<programme start="20260324070000 +0000" stop="20260324071500 +0000" channel="Sky Sport Premier League HD.skyde">
+    <title>EFL: Highlights XXL: Sheffield United - AFC Wrexham, 39. Spieltag</title>
+</programme>
+<programme start="20260324071500 +0000" stop="20260324073000 +0000" channel="Sky Sport Premier League HD.skyde">
+    <title>EFL: Highlights XXL: Swansea City - Coventry City, 39. Spieltag</title>
+</programme>
+<programme start="20260324073000 +0000" stop="20260324080000 +0000" channel="Sky Sport Premier League HD.skyde">
+    <title>PL: 90in30: BRI - LIV, 31. Spieltag</title>
+</programme>
+<programme start="20260324080000 +0000" stop="20260324083000 +0000" channel="Sky Sport Premier League HD.skyde">
+    <title>EFL: Highlights, 39. Spieltag</title>
+</programme>
+<programme start="20260324083000 +0000" stop="20260324090000 +0000" channel="Sky Sport Premier League HD.skyde">
+    <title>Carabao Cup: 90in30: ARS - MCI, Finale 2026 in Wembley</title>
+</programme>
+<programme start="20260324090000 +0000" stop="20260324093000 +0000" channel="Sky Sport Premier League HD.skyde">
+    <title>PL: 90in30: EVE - CHE, 31. Spieltag</title>
+</programme>
+<programme start="20260324093000 +0000" stop="20260324100000 +0000" channel="Sky Sport Premier League HD.skyde">
+    <title>PL: Legends: Alan Shearer</title>
+</programme>
+<programme start="20260324100000 +0000" stop="20260324103000 +0000" channel="Sky Sport Premier League HD.skyde">
+    <title>PL: Highlights Sonntag, 31. Spieltag</title>
+</programme>
+<programme start="20260324103000 +0000" stop="20260324110000 +0000" channel="Sky Sport Premier League HD.skyde">
+    <title>PL: Club 100: Ryan Giggs</title>
+</programme>
+<programme start="20260324110000 +0000" stop="20260324113000 +0000" channel="Sky Sport Premier League HD.skyde">
+    <title>Carabao Cup: 90in30: ARS - MCI, Finale 2026 in Wembley</title>
+</programme>
+<programme start="20260324113000 +0000" stop="20260324123000 +0000" channel="Sky Sport Premier League HD.skyde">
+    <title>PL: Review, 31. Spieltag</title>
+</programme>
+<programme start="20260324123000 +0000" stop="20260324130000 +0000" channel="Sky Sport Premier League HD.skyde">
+    <title>PL: Club 100: Paul Scholes</title>
+</programme>
+<programme start="20260324130000 +0000" stop="20260324131500 +0000" channel="Sky Sport Premier League HD.skyde">
+    <title>EFL: Highlights XXL: Blackburn Rovers - FC Middlesbrough, 39. Spieltag</title>
+</programme>
+<programme start="20260324131500 +0000" stop="20260324133000 +0000" channel="Sky Sport Premier League HD.skyde">
+    <title>EFL: Highlights XXL: Ipswich Town - FC Millwall, 39. Spieltag</title>
+</programme>
+<programme start="20260324133000 +0000" stop="20260324140000 +0000" channel="Sky Sport Premier League HD.skyde">
+    <title>PL: 90in30: NEW - SUN, 31. Spieltag</title>
+</programme>
+<programme start="20260324140000 +0000" stop="20260324143000 +0000" channel="Sky Sport Premier League HD.skyde">
+    <title>EFL: Highlights, 39. Spieltag</title>
+</programme>
+<programme start="20260324143000 +0000" stop="20260324150000 +0000" channel="Sky Sport Premier League HD.skyde">
+    <title>PL: 90in30: BRI - LIV, 31. Spieltag</title>
+</programme>
+<programme start="20260324150000 +0000" stop="20260324151500 +0000" channel="Sky Sport Premier League HD.skyde">
+    <title>PL: Last Gasp - S. Aguero wins Manchester City&#039;s first Title</title>
+</programme>
+<programme start="20260324151500 +0000" stop="20260324154500 +0000" channel="Sky Sport Premier League HD.skyde">
+    <title>PL: Highlights Sonntag, 31. Spieltag</title>
+</programme>
+<programme start="20260324154500 +0000" stop="20260324160000 +0000" channel="Sky Sport Premier League HD.skyde">
+    <title>PL: Under the Skin (FC Everton)</title>
+</programme>
+<programme start="20260324160000 +0000" stop="20260324163000 +0000" channel="Sky Sport Premier League HD.skyde">
+    <title>Carabao Cup: 90in30: ARS - MCI, Finale 2026 in Wembley</title>
+</programme>
+<programme start="20260324163000 +0000" stop="20260324164500 +0000" channel="Sky Sport Premier League HD.skyde">
+    <title>EFL: Highlights XXL: Blackburn Rovers - FC Middlesbrough, 39. Spieltag</title>
+</programme>
+<programme start="20260324164500 +0000" stop="20260324170000 +0000" channel="Sky Sport Premier League HD.skyde">
+    <title>EFL: Highlights XXL: Ipswich Town - FC Millwall, 39. Spieltag</title>
+</programme>
+<programme start="20260324170000 +0000" stop="20260324173000 +0000" channel="Sky Sport Premier League HD.skyde">
+    <title>PL: PL Stories (Micky van de Ven)</title>
+</programme>
+<programme start="20260324173000 +0000" stop="20260324180000 +0000" channel="Sky Sport Premier League HD.skyde">
+    <title>PL: 90in30: NEW - SUN, 31. Spieltag</title>
+</programme>
+<programme start="20260324180000 +0000" stop="20260324183000 +0000" channel="Sky Sport Premier League HD.skyde">
+    <title>Carabao Cup: 90in30: ARS - MCI, Finale 2026 in Wembley</title>
+</programme>
+<programme start="20260324183000 +0000" stop="20260324190000 +0000" channel="Sky Sport Premier League HD.skyde">
+    <title>PL: Netbusters, 31. Spieltag</title>
+</programme>
+<programme start="20260324190000 +0000" stop="20260324193000 +0000" channel="Sky Sport Premier League HD.skyde">
+    <title>EFL: Highlights, 39. Spieltag</title>
+</programme>
+<programme start="20260324193000 +0000" stop="20260324194500 +0000" channel="Sky Sport Premier League HD.skyde">
+    <title>EFL: Highlights XXL: Sheffield United - AFC Wrexham, 39. Spieltag</title>
+</programme>
+<programme start="20260324194500 +0000" stop="20260324200000 +0000" channel="Sky Sport Premier League HD.skyde">
+    <title>EFL: Highlights XXL: Swansea City - Coventry City, 39. Spieltag</title>
+</programme>
+<programme start="20260324200000 +0000" stop="20260324203000 +0000" channel="Sky Sport Premier League HD.skyde">
+    <title>PL: Netbusters, 31. Spieltag</title>
+</programme>
+<programme start="20260324203000 +0000" stop="20260324210000 +0000" channel="Sky Sport Premier League HD.skyde">
+    <title>PL: PL Stories (Oliver Glasner)</title>
+</programme>
+<programme start="20260324210000 +0000" stop="20260324213000 +0000" channel="Sky Sport Premier League HD.skyde">
+    <title>PL: Classic Match: FC Fulham - FC Chelsea (2008/09)</title>
+</programme>
+<programme start="20260324213000 +0000" stop="20260324220000 +0000" channel="Sky Sport Premier League HD.skyde">
+    <title>PL: Classic Match: FC Fulham - FC Liverpool (2010/11)</title>
+</programme>
+<programme start="20260324220000 +0000" stop="20260324230000 +0000" channel="Sky Sport Premier League HD.skyde">
+    <title>PL: GOATS (German Stars)</title>
+</programme>
 <programme start="20260324030000 +0000" stop="20260324040000 +0000" channel="Sky Sport Tennis HD.skyde">
     <title>ATP 500: Review Acapulco</title>
 </programme>
 <programme start="20260324040000 +0000" stop="20260324060000 +0000" channel="Sky Sport Tennis HD.skyde">
-    <title>WTA 1000: E. Rybakina (KAZ) - T. Gibson (AUS), Miami Open presented by Itaú in Miami, Florida (USA), 7. Tag</title>
+    <title>WTA 1000: Topspiel, Miami Open presented by Itaú in Miami, Florida (USA), 7. Tag</title>
 </programme>
 <programme start="20260324060000 +0000" stop="20260324080000 +0000" channel="Sky Sport Tennis HD.skyde">
-    <title>ATP 1000: A. Zverev (GER) - M. Cilic (CRO), Miami Open presented by Itaú in Miami, Florida (USA), 7. Tag</title>
+    <title>ATP 1000: Topspiel, Miami Open presented by Itaú in Miami, Florida (USA), 7. Tag</title>
 </programme>
 <programme start="20260324080000 +0000" stop="20260324103000 +0000" channel="Sky Sport Tennis HD.skyde">
     <title>ATP 1000: J. Sinner (ITA) - D. Medvedev, BNP Paribas Open in Indian Wells, Kalifornien (USA), Finale</title>
@@ -2924,10 +3053,10 @@ Warning: Undefined array key "et" in /usr/home/ManusiaBiasa/domains/manusiabiasa
     <title>WTA 1000: Review Indian Wells</title>
 </programme>
 <programme start="20260324110000 +0000" stop="20260324130000 +0000" channel="Sky Sport Tennis HD.skyde">
-    <title>WTA 1000: E. Rybakina (KAZ) - T. Gibson (AUS), Miami Open presented by Itaú in Miami, Florida (USA), 7. Tag</title>
+    <title>WTA 1000: Topspiel, Miami Open presented by Itaú in Miami, Florida (USA), 7. Tag</title>
 </programme>
 <programme start="20260324130000 +0000" stop="20260324150000 +0000" channel="Sky Sport Tennis HD.skyde">
-    <title>ATP 1000: A. Zverev (GER) - M. Cilic (CRO), Miami Open presented by Itaú in Miami, Florida (USA), 7. Tag</title>
+    <title>ATP 1000: Topspiel, Miami Open presented by Itaú in Miami, Florida (USA), 7. Tag</title>
 </programme>
 <programme start="20260324150000 +0000" stop="20260325030000 +0000" channel="Sky Sport Tennis HD.skyde">
     <title>Live ATP &amp; WTA: Konferenz Miami Open presented by Itaú in Miami, Florida (USA), 8. Tag</title>
@@ -3511,7 +3640,7 @@ Warning: Undefined array key "et" in /usr/home/ManusiaBiasa/domains/manusiabiasa
 <programme start="20260324221500 +0000" stop="20260324230000 +0000" channel="Universal TV HD.skyde">
     <title>Bones - Die Knochenjägerin</title>
 </programme>
-<programme start="20260323231500 +0000" stop="20260323234000 +0000" channel="Warner TV Comedy HD.skyde">
+<programme start="20260323232000 +0000" stop="20260323234000 +0000" channel="Warner TV Comedy HD.skyde">
     <title>Two and a Half Men</title>
 </programme>
 <programme start="20260323234000 +0000" stop="20260324000500 +0000" channel="Warner TV Comedy HD.skyde">
@@ -3529,19 +3658,19 @@ Warning: Undefined array key "et" in /usr/home/ManusiaBiasa/domains/manusiabiasa
 <programme start="20260324005500 +0000" stop="20260324010500 +0000" channel="Warner TV Comedy HD.skyde">
     <title>Robot Chicken</title>
 </programme>
-<programme start="20260324010500 +0000" stop="20260324012000 +0000" channel="Warner TV Comedy HD.skyde">
+<programme start="20260324010500 +0000" stop="20260324011500 +0000" channel="Warner TV Comedy HD.skyde">
     <title>Robot Chicken</title>
 </programme>
-<programme start="20260324012000 +0000" stop="20260324014000 +0000" channel="Warner TV Comedy HD.skyde">
+<programme start="20260324011500 +0000" stop="20260324014000 +0000" channel="Warner TV Comedy HD.skyde">
     <title>Harley Quinn</title>
 </programme>
 <programme start="20260324014000 +0000" stop="20260324020000 +0000" channel="Warner TV Comedy HD.skyde">
     <title>Harley Quinn</title>
 </programme>
-<programme start="20260324020000 +0000" stop="20260324021000 +0000" channel="Warner TV Comedy HD.skyde">
+<programme start="20260324020000 +0000" stop="20260324021500 +0000" channel="Warner TV Comedy HD.skyde">
     <title>Robot Chicken</title>
 </programme>
-<programme start="20260324021000 +0000" stop="20260324022500 +0000" channel="Warner TV Comedy HD.skyde">
+<programme start="20260324021500 +0000" stop="20260324022500 +0000" channel="Warner TV Comedy HD.skyde">
     <title>Robot Chicken</title>
 </programme>
 <programme start="20260324022500 +0000" stop="20260324024500 +0000" channel="Warner TV Comedy HD.skyde">
@@ -3562,13 +3691,13 @@ Warning: Undefined array key "et" in /usr/home/ManusiaBiasa/domains/manusiabiasa
 <programme start="20260324041000 +0000" stop="20260324043500 +0000" channel="Warner TV Comedy HD.skyde">
     <title>Die Nanny</title>
 </programme>
-<programme start="20260324043500 +0000" stop="20260324050500 +0000" channel="Warner TV Comedy HD.skyde">
+<programme start="20260324043500 +0000" stop="20260324050000 +0000" channel="Warner TV Comedy HD.skyde">
     <title>Die Nanny</title>
 </programme>
-<programme start="20260324050500 +0000" stop="20260324053000 +0000" channel="Warner TV Comedy HD.skyde">
+<programme start="20260324050000 +0000" stop="20260324052500 +0000" channel="Warner TV Comedy HD.skyde">
     <title>Friends</title>
 </programme>
-<programme start="20260324053000 +0000" stop="20260324055500 +0000" channel="Warner TV Comedy HD.skyde">
+<programme start="20260324052500 +0000" stop="20260324055500 +0000" channel="Warner TV Comedy HD.skyde">
     <title>Friends</title>
 </programme>
 <programme start="20260324055500 +0000" stop="20260324062000 +0000" channel="Warner TV Comedy HD.skyde">
@@ -3583,46 +3712,46 @@ Warning: Undefined array key "et" in /usr/home/ManusiaBiasa/domains/manusiabiasa
 <programme start="20260324071000 +0000" stop="20260324073500 +0000" channel="Warner TV Comedy HD.skyde">
     <title>Friends</title>
 </programme>
-<programme start="20260324073500 +0000" stop="20260324080500 +0000" channel="Warner TV Comedy HD.skyde">
+<programme start="20260324073500 +0000" stop="20260324080000 +0000" channel="Warner TV Comedy HD.skyde">
     <title>Die Nanny</title>
 </programme>
-<programme start="20260324080500 +0000" stop="20260324083000 +0000" channel="Warner TV Comedy HD.skyde">
+<programme start="20260324080000 +0000" stop="20260324083000 +0000" channel="Warner TV Comedy HD.skyde">
     <title>Die Nanny</title>
 </programme>
-<programme start="20260324083000 +0000" stop="20260324090000 +0000" channel="Warner TV Comedy HD.skyde">
+<programme start="20260324083000 +0000" stop="20260324085500 +0000" channel="Warner TV Comedy HD.skyde">
     <title>Die Nanny</title>
 </programme>
-<programme start="20260324090000 +0000" stop="20260324092500 +0000" channel="Warner TV Comedy HD.skyde">
+<programme start="20260324085500 +0000" stop="20260324092000 +0000" channel="Warner TV Comedy HD.skyde">
     <title>The Middle</title>
 </programme>
-<programme start="20260324092500 +0000" stop="20260324095000 +0000" channel="Warner TV Comedy HD.skyde">
+<programme start="20260324092000 +0000" stop="20260324094500 +0000" channel="Warner TV Comedy HD.skyde">
     <title>The Middle</title>
 </programme>
-<programme start="20260324095000 +0000" stop="20260324101500 +0000" channel="Warner TV Comedy HD.skyde">
+<programme start="20260324094500 +0000" stop="20260324101000 +0000" channel="Warner TV Comedy HD.skyde">
     <title>The Middle</title>
 </programme>
-<programme start="20260324101500 +0000" stop="20260324104000 +0000" channel="Warner TV Comedy HD.skyde">
+<programme start="20260324101000 +0000" stop="20260324103500 +0000" channel="Warner TV Comedy HD.skyde">
     <title>The Middle</title>
 </programme>
-<programme start="20260324104000 +0000" stop="20260324110500 +0000" channel="Warner TV Comedy HD.skyde">
+<programme start="20260324103500 +0000" stop="20260324110000 +0000" channel="Warner TV Comedy HD.skyde">
     <title>The Middle</title>
 </programme>
-<programme start="20260324110500 +0000" stop="20260324113000 +0000" channel="Warner TV Comedy HD.skyde">
+<programme start="20260324110000 +0000" stop="20260324112500 +0000" channel="Warner TV Comedy HD.skyde">
     <title>The Middle</title>
 </programme>
-<programme start="20260324113000 +0000" stop="20260324115500 +0000" channel="Warner TV Comedy HD.skyde">
+<programme start="20260324112500 +0000" stop="20260324115000 +0000" channel="Warner TV Comedy HD.skyde">
     <title>The Middle</title>
 </programme>
-<programme start="20260324115500 +0000" stop="20260324122000 +0000" channel="Warner TV Comedy HD.skyde">
+<programme start="20260324115000 +0000" stop="20260324121500 +0000" channel="Warner TV Comedy HD.skyde">
     <title>The Middle</title>
 </programme>
-<programme start="20260324122000 +0000" stop="20260324124500 +0000" channel="Warner TV Comedy HD.skyde">
+<programme start="20260324121500 +0000" stop="20260324124000 +0000" channel="Warner TV Comedy HD.skyde">
     <title>King of Queens</title>
 </programme>
-<programme start="20260324124500 +0000" stop="20260324131000 +0000" channel="Warner TV Comedy HD.skyde">
+<programme start="20260324124000 +0000" stop="20260324130500 +0000" channel="Warner TV Comedy HD.skyde">
     <title>King of Queens</title>
 </programme>
-<programme start="20260324131000 +0000" stop="20260324133000 +0000" channel="Warner TV Comedy HD.skyde">
+<programme start="20260324130500 +0000" stop="20260324133000 +0000" channel="Warner TV Comedy HD.skyde">
     <title>King of Queens</title>
 </programme>
 <programme start="20260324133000 +0000" stop="20260324135500 +0000" channel="Warner TV Comedy HD.skyde">
@@ -3694,10 +3823,10 @@ Warning: Undefined array key "et" in /usr/home/ManusiaBiasa/domains/manusiabiasa
 <programme start="20260324215500 +0000" stop="20260324221000 +0000" channel="Warner TV Comedy HD.skyde">
     <title>Robot Chicken</title>
 </programme>
-<programme start="20260324221000 +0000" stop="20260324223500 +0000" channel="Warner TV Comedy HD.skyde">
+<programme start="20260324221000 +0000" stop="20260324223000 +0000" channel="Warner TV Comedy HD.skyde">
     <title>Harley Quinn</title>
 </programme>
-<programme start="20260324223500 +0000" stop="20260324225500 +0000" channel="Warner TV Comedy HD.skyde">
+<programme start="20260324223000 +0000" stop="20260324225500 +0000" channel="Warner TV Comedy HD.skyde">
     <title>Harley Quinn</title>
 </programme>
 <programme start="20260324225500 +0000" stop="20260324232000 +0000" channel="Warner TV Comedy HD.skyde">
