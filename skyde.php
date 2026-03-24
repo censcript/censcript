@@ -3097,8 +3097,11 @@ Warning: Undefined array key "et" in /usr/home/ManusiaBiasa/domains/manusiabiasa
 <programme start="20260323230000 +0000" stop="20260324010000 +0000" channel="Sky Sport Golf HD.skyde">
     <title>TGL: Jupiter Links Golf Club - Boston Common Golf, Halbfinale</title>
 </programme>
-<programme start="20260324010000 +0000" stop="20260324031500 +0000" channel="Sky Sport Golf HD.skyde">
+<programme start="20260324010000 +0000" stop="20260324030000 +0000" channel="Sky Sport Golf HD.skyde">
     <title>Live TGL: Jupiter Links Golf Club - Los Angeles Golf Club, Finale 1</title>
+</programme>
+<programme start="20260324030000 +0000" stop="20260324031500 +0000" channel="Sky Sport Golf HD.skyde">
+    <title>Golf: Projekt 0 (1)</title>
 </programme>
 <programme start="20260324031500 +0000" stop="20260324033000 +0000" channel="Sky Sport Golf HD.skyde">
     <title>Golf: Projekt 0 (2)</title>
@@ -3403,13 +3406,16 @@ Warning: Undefined array key "et" in /usr/home/ManusiaBiasa/domains/manusiabiasa
 <programme start="20260324220000 +0000" stop="20260324230000 +0000" channel="Sky Sport Premier League HD.skyde">
     <title>PL: GOATS (German Stars)</title>
 </programme>
+<programme start="20260324023000 +0000" stop="20260324030000 +0000" channel="Sky Sport Tennis HD.skyde">
+    <title>WTA 1000: Review Indian Wells</title>
+</programme>
 <programme start="20260324030000 +0000" stop="20260324040000 +0000" channel="Sky Sport Tennis HD.skyde">
     <title>ATP 500: Review Acapulco</title>
 </programme>
-<programme start="20260324040000 +0000" stop="20260324060000 +0000" channel="Sky Sport Tennis HD.skyde">
+<programme start="20260324040000 +0000" stop="20260324053000 +0000" channel="Sky Sport Tennis HD.skyde">
     <title>WTA 1000: E. Rybakina (KAZ) - T. Gibson (AUS), Miami Open presented by Itaú in Miami, Florida (USA), 7. Tag</title>
 </programme>
-<programme start="20260324060000 +0000" stop="20260324080000 +0000" channel="Sky Sport Tennis HD.skyde">
+<programme start="20260324053000 +0000" stop="20260324080000 +0000" channel="Sky Sport Tennis HD.skyde">
     <title>ATP 1000: A. Zverev (GER) - M. Cilic (CRO), Miami Open presented by Itaú in Miami, Florida (USA), 7. Tag</title>
 </programme>
 <programme start="20260324080000 +0000" stop="20260324103000 +0000" channel="Sky Sport Tennis HD.skyde">
@@ -3418,16 +3424,16 @@ Warning: Undefined array key "et" in /usr/home/ManusiaBiasa/domains/manusiabiasa
 <programme start="20260324103000 +0000" stop="20260324110000 +0000" channel="Sky Sport Tennis HD.skyde">
     <title>WTA 1000: Review Indian Wells</title>
 </programme>
-<programme start="20260324110000 +0000" stop="20260324130000 +0000" channel="Sky Sport Tennis HD.skyde">
+<programme start="20260324110000 +0000" stop="20260324122500 +0000" channel="Sky Sport Tennis HD.skyde">
     <title>WTA 1000: E. Rybakina (KAZ) - T. Gibson (AUS), Miami Open presented by Itaú in Miami, Florida (USA), 7. Tag</title>
 </programme>
-<programme start="20260324130000 +0000" stop="20260324150000 +0000" channel="Sky Sport Tennis HD.skyde">
+<programme start="20260324122500 +0000" stop="20260324150000 +0000" channel="Sky Sport Tennis HD.skyde">
     <title>ATP 1000: A. Zverev (GER) - M. Cilic (CRO), Miami Open presented by Itaú in Miami, Florida (USA), 7. Tag</title>
 </programme>
 <programme start="20260324150000 +0000" stop="20260325030000 +0000" channel="Sky Sport Tennis HD.skyde">
     <title>Live ATP &amp; WTA: Konferenz Miami Open presented by Itaú in Miami, Florida (USA), 8. Tag</title>
 </programme>
-<programme start="20260324000000 +0000" stop="20260324013000 +0000" channel="Sky Sport Top Event HD.skyde">
+<programme start="20260323230000 +0000" stop="20260324013000 +0000" channel="Sky Sport Top Event HD.skyde">
     <title>Live NBA: San Antonio Spurs @ Miami Heat</title>
 </programme>
 <programme start="20260324013000 +0000" stop="20260324040000 +0000" channel="Sky Sport Top Event HD.skyde">
@@ -3517,10 +3523,10 @@ Warning: Undefined array key "et" in /usr/home/ManusiaBiasa/domains/manusiabiasa
 <programme start="20260323230000 +0000" stop="20260324014000 +0000" channel="Sky Sport 1 HD.skyde">
     <title>Live NBA: San Antonio Spurs @ Miami Heat</title>
 </programme>
-<programme start="20260324014000 +0000" stop="20260324040500 +0000" channel="Sky Sport 1 HD.skyde">
+<programme start="20260324014000 +0000" stop="20260324040000 +0000" channel="Sky Sport 1 HD.skyde">
     <title>Live NBA: Golden State Warriors @ Dallas Mavericks</title>
 </programme>
-<programme start="20260324040500 +0000" stop="20260324052000 +0000" channel="Sky Sport 1 HD.skyde">
+<programme start="20260324040000 +0000" stop="20260324090000 +0000" channel="Sky Sport 1 HD.skyde">
     <title>Live NBA: Showtime - Post Show</title>
 </programme>
 <programme start="20260324224000 +0000" stop="20260324230000 +0000" channel="Sky Sport 1 HD.skyde">
