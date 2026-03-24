@@ -514,9 +514,6 @@
 <programme start="20260324023000 +0000" stop="20260324031500 +0000" channel="Trans 7.vision">
 <title>Selebrita Heits</title>
 </programme>
-<programme start="20260324031500 +0000" stop="20260324050000 +0000" channel="Trans 7.vision">
-<title>Dear Nathan</title>
-</programme>
 <programme start="20260324050000 +0000" stop="20260324064500 +0000" channel="Trans 7.vision">
 <title>Warisan Olga</title>
 </programme>
@@ -613,14 +610,8 @@
 <programme start="20260324003000 +0000" stop="20260324023000 +0000" channel="ANTV.vision">
 <title>Janji Cinta Inspektur Virat</title>
 </programme>
-<programme start="20260324023000 +0000" stop="20260324050000 +0000" channel="ANTV.vision">
-<title>Happy New Year</title>
-</programme>
 <programme start="20260324050000 +0000" stop="20260324053000 +0000" channel="ANTV.vision">
 <title>Topkin Mudik</title>
-</programme>
-<programme start="20260324053000 +0000" stop="20260324060000 +0000" channel="ANTV.vision">
-<title>Happy New Year</title>
 </programme>
 <programme start="20260324060000 +0000" stop="20260324080000 +0000" channel="ANTV.vision">
 <title>Jhanak</title>
@@ -1497,4 +1488,13 @@
 </programme>
 <programme start="20260323235000 +0000" stop="20260324010500 +0000" channel="MDTV.vision">
 <title>AADD: Ada Apa Dengan Dunia</title>
+</programme>
+<programme start="20260324010500 +0000" stop="20260324015500 +0000" channel="MDTV.vision">
+<title>Fakta +62</title>
+</programme>
+<programme start="20260324015500 +0000" stop="20260324025000 +0000" channel="MDTV.vision">
+<title>Sensasihot</title>
+</programme>
+<programme start="20260324025000 +0000" stop="20260324034000 +0000" channel="MDTV.vision">
+<title>Maria Cinta Yang Hilang</title>
 </programme>
