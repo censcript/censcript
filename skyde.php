@@ -222,10 +222,10 @@ Warning: Undefined array key "et" in /usr/home/ManusiaBiasa/domains/manusiabiasa
 <programme start="20260325051000 +0000" stop="20260325052000 +0000" channel="Cartoon Network.skyde">
     <title>Die fantastische Welt von Gumball</title>
 </programme>
-<programme start="20260325052000 +0000" stop="20260325053000 +0000" channel="Cartoon Network.skyde">
+<programme start="20260325052000 +0000" stop="20260325053500 +0000" channel="Cartoon Network.skyde">
     <title>Die fantastische Welt von Gumball</title>
 </programme>
-<programme start="20260325053000 +0000" stop="20260325054500 +0000" channel="Cartoon Network.skyde">
+<programme start="20260325053500 +0000" stop="20260325054500 +0000" channel="Cartoon Network.skyde">
     <title>Die fantastische Welt von Gumball</title>
 </programme>
 <programme start="20260325054500 +0000" stop="20260325055500 +0000" channel="Cartoon Network.skyde">
@@ -270,10 +270,10 @@ Warning: Undefined array key "et" in /usr/home/ManusiaBiasa/domains/manusiabiasa
 <programme start="20260325081500 +0000" stop="20260325083000 +0000" channel="Cartoon Network.skyde">
     <title>Looney Tunes Cartoons</title>
 </programme>
-<programme start="20260325083000 +0000" stop="20260325085000 +0000" channel="Cartoon Network.skyde">
+<programme start="20260325083000 +0000" stop="20260325085500 +0000" channel="Cartoon Network.skyde">
     <title>Tiny Toons Looniversity</title>
 </programme>
-<programme start="20260325085000 +0000" stop="20260325090500 +0000" channel="Cartoon Network.skyde">
+<programme start="20260325085500 +0000" stop="20260325090500 +0000" channel="Cartoon Network.skyde">
     <title>Goat Girl</title>
 </programme>
 <programme start="20260325090500 +0000" stop="20260325091500 +0000" channel="Cartoon Network.skyde">
@@ -327,10 +327,10 @@ Warning: Undefined array key "et" in /usr/home/ManusiaBiasa/domains/manusiabiasa
 <programme start="20260325122500 +0000" stop="20260325123500 +0000" channel="Cartoon Network.skyde">
     <title>Goat Girl</title>
 </programme>
-<programme start="20260325123500 +0000" stop="20260325124500 +0000" channel="Cartoon Network.skyde">
+<programme start="20260325123500 +0000" stop="20260325125000 +0000" channel="Cartoon Network.skyde">
     <title>Teen Titans Go!</title>
 </programme>
-<programme start="20260325124500 +0000" stop="20260325130000 +0000" channel="Cartoon Network.skyde">
+<programme start="20260325125000 +0000" stop="20260325130000 +0000" channel="Cartoon Network.skyde">
     <title>Teen Titans Go!</title>
 </programme>
 <programme start="20260325130000 +0000" stop="20260325131000 +0000" channel="Cartoon Network.skyde">
@@ -342,10 +342,10 @@ Warning: Undefined array key "et" in /usr/home/ManusiaBiasa/domains/manusiabiasa
 <programme start="20260325132000 +0000" stop="20260325133000 +0000" channel="Cartoon Network.skyde">
     <title>Die fantastische Welt von Gumball</title>
 </programme>
-<programme start="20260325133000 +0000" stop="20260325134000 +0000" channel="Cartoon Network.skyde">
+<programme start="20260325133000 +0000" stop="20260325134500 +0000" channel="Cartoon Network.skyde">
     <title>Die fantastische Welt von Gumball</title>
 </programme>
-<programme start="20260325134000 +0000" stop="20260325135500 +0000" channel="Cartoon Network.skyde">
+<programme start="20260325134500 +0000" stop="20260325135500 +0000" channel="Cartoon Network.skyde">
     <title>Die fantastische Welt von Gumball</title>
 </programme>
 <programme start="20260325135500 +0000" stop="20260325140500 +0000" channel="Cartoon Network.skyde">
@@ -354,10 +354,10 @@ Warning: Undefined array key "et" in /usr/home/ManusiaBiasa/domains/manusiabiasa
 <programme start="20260325140500 +0000" stop="20260325142000 +0000" channel="Cartoon Network.skyde">
     <title>Die wunderbar schräge Welt von Gumball</title>
 </programme>
-<programme start="20260325142000 +0000" stop="20260325143000 +0000" channel="Cartoon Network.skyde">
+<programme start="20260325142000 +0000" stop="20260325143500 +0000" channel="Cartoon Network.skyde">
     <title>Die wunderbar schräge Welt von Gumball</title>
 </programme>
-<programme start="20260325143000 +0000" stop="20260325144500 +0000" channel="Cartoon Network.skyde">
+<programme start="20260325143500 +0000" stop="20260325144500 +0000" channel="Cartoon Network.skyde">
     <title>Looney Tunes Cartoons</title>
 </programme>
 <programme start="20260325144500 +0000" stop="20260325145500 +0000" channel="Cartoon Network.skyde">
@@ -399,19 +399,19 @@ Warning: Undefined array key "et" in /usr/home/ManusiaBiasa/domains/manusiabiasa
 <programme start="20260325172000 +0000" stop="20260325173000 +0000" channel="Cartoon Network.skyde">
     <title>Goat Girl</title>
 </programme>
-<programme start="20260325173000 +0000" stop="20260325174000 +0000" channel="Cartoon Network.skyde">
+<programme start="20260325173000 +0000" stop="20260325174500 +0000" channel="Cartoon Network.skyde">
     <title>Die fantastische Welt von Gumball</title>
 </programme>
-<programme start="20260325174000 +0000" stop="20260325175500 +0000" channel="Cartoon Network.skyde">
+<programme start="20260325174500 +0000" stop="20260325175500 +0000" channel="Cartoon Network.skyde">
     <title>Die fantastische Welt von Gumball</title>
 </programme>
 <programme start="20260325175500 +0000" stop="20260325180500 +0000" channel="Cartoon Network.skyde">
     <title>Die wunderbar schräge Welt von Gumball</title>
 </programme>
-<programme start="20260325180500 +0000" stop="20260325181500 +0000" channel="Cartoon Network.skyde">
+<programme start="20260325180500 +0000" stop="20260325182000 +0000" channel="Cartoon Network.skyde">
     <title>Die wunderbar schräge Welt von Gumball</title>
 </programme>
-<programme start="20260325181500 +0000" stop="20260325183000 +0000" channel="Cartoon Network.skyde">
+<programme start="20260325182000 +0000" stop="20260325183000 +0000" channel="Cartoon Network.skyde">
     <title>Adventure Time - Abenteuerzeit mit Finn und Jake</title>
 </programme>
 <programme start="20260325183000 +0000" stop="20260325184000 +0000" channel="Cartoon Network.skyde">
@@ -465,10 +465,10 @@ Warning: Undefined array key "et" in /usr/home/ManusiaBiasa/domains/manusiabiasa
 <programme start="20260325214000 +0000" stop="20260325215000 +0000" channel="Cartoon Network.skyde">
     <title>Adventure Time - Abenteuerzeit mit Finn und Jake</title>
 </programme>
-<programme start="20260325215000 +0000" stop="20260325220000 +0000" channel="Cartoon Network.skyde">
+<programme start="20260325215000 +0000" stop="20260325220500 +0000" channel="Cartoon Network.skyde">
     <title>Regular Show - Völlig abgedreht</title>
 </programme>
-<programme start="20260325220000 +0000" stop="20260325221500 +0000" channel="Cartoon Network.skyde">
+<programme start="20260325220500 +0000" stop="20260325221500 +0000" channel="Cartoon Network.skyde">
     <title>Regular Show - Völlig abgedreht</title>
 </programme>
 <programme start="20260325221500 +0000" stop="20260325222500 +0000" channel="Cartoon Network.skyde">
@@ -3021,10 +3021,10 @@ Warning: Undefined array key "et" in /usr/home/ManusiaBiasa/domains/manusiabiasa
 <programme start="20260325172500 +0000" stop="20260325175500 +0000" channel="Sky Sport Bundesliga HD.skyde">
     <title>2. BL: 90in30: SVD - S04, 27. Spieltag</title>
 </programme>
-<programme start="20260325175500 +0000" stop="20260325194500 +0000" channel="Sky Sport Bundesliga HD.skyde">
+<programme start="20260325175500 +0000" stop="20260325193000 +0000" channel="Sky Sport Bundesliga HD.skyde">
     <title>Live Fußball: BVB Legenden - Benfica Legenden, Legendenspiel</title>
 </programme>
-<programme start="20260325194500 +0000" stop="20260325203000 +0000" channel="Sky Sport Bundesliga HD.skyde">
+<programme start="20260325193000 +0000" stop="20260325203000 +0000" channel="Sky Sport Bundesliga HD.skyde">
     <title>Fußball: Sammer &amp; Basile - Der Hagedorn-Talk</title>
 </programme>
 <programme start="20260325203000 +0000" stop="20260325210000 +0000" channel="Sky Sport Bundesliga HD.skyde">
@@ -3141,11 +3141,17 @@ Warning: Undefined array key "et" in /usr/home/ManusiaBiasa/domains/manusiabiasa
 <programme start="20260324230000 +0000" stop="20260325010000 +0000" channel="Sky Sport Golf HD.skyde">
     <title>Live TGL: Los Angeles Golf Club - Jupiter Links Golf Club, Finale 2</title>
 </programme>
+<programme start="20260325010000 +0000" stop="20260325030000 +0000" channel="Sky Sport Golf HD.skyde">
+    <title>TGL: Jupiter Links Golf Club - Los Angeles Golf Club, Finale 1</title>
+</programme>
 <programme start="20260325030000 +0000" stop="20260325040000 +0000" channel="Sky Sport Golf HD.skyde">
     <title>US Open: Official Film 2014 (Martin Kaymer)</title>
 </programme>
 <programme start="20260325040000 +0000" stop="20260325090000 +0000" channel="Sky Sport Golf HD.skyde">
     <title>Golf Ladies ET: Australian WPGA Championship, 4. Tag in Gold Coast (Australien)</title>
+</programme>
+<programme start="20260325090000 +0000" stop="20260325110000 +0000" channel="Sky Sport Golf HD.skyde">
+    <title>TGL: Jupiter Links Golf Club - Los Angeles Golf Club, Finale 1</title>
 </programme>
 <programme start="20260325110000 +0000" stop="20260325130000 +0000" channel="Sky Sport Golf HD.skyde">
     <title>TGL: Los Angeles Golf Club - Jupiter Links Golf Club, Finale 2</title>
@@ -3167,6 +3173,9 @@ Warning: Undefined array key "et" in /usr/home/ManusiaBiasa/domains/manusiabiasa
 </programme>
 <programme start="20260325170000 +0000" stop="20260325190000 +0000" channel="Sky Sport Golf HD.skyde">
     <title>TGL: Los Angeles Golf Club - Jupiter Links Golf Club, Finale 2</title>
+</programme>
+<programme start="20260325190000 +0000" stop="20260325210000 +0000" channel="Sky Sport Golf HD.skyde">
+    <title>LIV Golf: Südafrika, 3. Tag in Johannesburg</title>
 </programme>
 <programme start="20260325210000 +0000" stop="20260326000000 +0000" channel="Sky Sport Golf HD.skyde">
     <title>LIV Golf: Südafrika, 4. Tag in Johannesburg</title>
@@ -3417,10 +3426,10 @@ Warning: Undefined array key "et" in /usr/home/ManusiaBiasa/domains/manusiabiasa
 <programme start="20260325223000 +0000" stop="20260325230000 +0000" channel="Sky Sport Premier League HD.skyde">
     <title>PL: PL Stories (Yaya Toure)</title>
 </programme>
-<programme start="20260325040000 +0000" stop="20260325043000 +0000" channel="Sky Sport Tennis HD.skyde">
+<programme start="20260325030000 +0000" stop="20260325033000 +0000" channel="Sky Sport Tennis HD.skyde">
     <title>ATP: This Week</title>
 </programme>
-<programme start="20260325043000 +0000" stop="20260325053000 +0000" channel="Sky Sport Tennis HD.skyde">
+<programme start="20260325033000 +0000" stop="20260325053000 +0000" channel="Sky Sport Tennis HD.skyde">
     <title>ATP 1000: A. Zverev (GER) - Q. Halys (FRA), Miami Open presented by Itaú in Miami, Florida (USA), 8. Tag</title>
 </programme>
 <programme start="20260325053000 +0000" stop="20260325073000 +0000" channel="Sky Sport Tennis HD.skyde">
@@ -3505,16 +3514,16 @@ Warning: Undefined array key "et" in /usr/home/ManusiaBiasa/domains/manusiabiasa
     <title>NHL: Highlights EDM@UTA</title>
 </programme>
 <programme start="20260325130000 +0000" stop="20260325150000 +0000" channel="Sky Sport Top Event HD.skyde">
-    <title>TGL: Jupiter Links Golf Club - Los Angeles Golf Club, Finale 1</title>
-</programme>
-<programme start="20260325150000 +0000" stop="20260325170000 +0000" channel="Sky Sport Top Event HD.skyde">
     <title>TGL: Los Angeles Golf Club - Jupiter Links Golf Club, Finale 2</title>
 </programme>
+<programme start="20260325150000 +0000" stop="20260325170000 +0000" channel="Sky Sport Top Event HD.skyde">
+    <title>TGL: Los Angeles Golf Club - Jupiter Links Golf Club, Finale 3*</title>
+</programme>
 <programme start="20260325170000 +0000" stop="20260325190000 +0000" channel="Sky Sport Top Event HD.skyde">
-    <title>Live WTA 1000: E. Rybakina (KAZ) - J. Pegula (USA), Miami Open presented by Itaú in Miami, Florida (USA), Viertelfinale 3</title>
+    <title>Live WTA 1000: VF3, Miami Open presented by Itaú in Miami, Florida (USA), Viertelfinale 3</title>
 </programme>
 <programme start="20260325190000 +0000" stop="20260325210000 +0000" channel="Sky Sport Top Event HD.skyde">
-    <title>Live ATP 1000: M. Landaluce (ESP) - J. Lehecka (CZE), Miami Open presented by Itaú in Miami, Florida (USA), Viertelfinale 1</title>
+    <title>Live ATP 1000: VF1, Miami Open presented by Itaú in Miami, Florida (USA), Viertelfinale 1</title>
 </programme>
 <programme start="20260325210000 +0000" stop="20260325213000 +0000" channel="Sky Sport Top Event HD.skyde">
     <title>ATP: This Week</title>
@@ -3549,7 +3558,7 @@ Warning: Undefined array key "et" in /usr/home/ManusiaBiasa/domains/manusiabiasa
 <programme start="20260325000000 +0000" stop="20260325031000 +0000" channel="Sky Sport 1 HD.skyde">
     <title>Live NBA: Orlando Magic @ Cleveland Cavaliers</title>
 </programme>
-<programme start="20260324230000 +0000" stop="20260325021500 +0000" channel="Sky Sport 2 HD.skyde">
+<programme start="20260324230000 +0000" stop="20260325090000 +0000" channel="Sky Sport 2 HD.skyde">
     <title>Live WTA 1000: C. Gauff (USA) B. Bencic (SUI), Miami Open presented by Itaú in Miami, Florida (USA), Viertelfinale 2</title>
 </programme>
 <programme start="20260325090000 +0000" stop="20260325090500 +0000" channel="Sky Sport 3 HD.skyde">

@@ -178,10 +178,6 @@
     <title>Football: SC Braga - FC Porto</title>
     <desc>Live: Tidak</desc>
 </programme>
-<programme start="20260326010000 +0700" stop="20260326033000 +0700" channel="COSMOTE Sport 4 HD">
-    <title>Basketball: Cleveland Cavaliers - Orlando Magic</title>
-    <desc>Live: Tidak</desc>
-</programme>
 <programme start="20260326033000 +0700" stop="20260326060000 +0700" channel="COSMOTE Sport 4 HD">
     <title>Basketball: Phoenix Suns - Denver Nuggets</title>
     <desc>Live: Tidak</desc>
@@ -316,6 +312,10 @@
 </programme>
 <programme start="20260327032000 +0700" stop="20260327045000 +0700" channel="COSMOTE Sport 5 HD">
     <title>Motorsports: MotoGP 2026</title>
+    <desc>Live: Tidak</desc>
+</programme>
+<programme start="20260327045000 +0700" stop="20260327062500 +0700" channel="COSMOTE Sport 5 HD">
+    <title>WRC 2026</title>
     <desc>Live: Tidak</desc>
 </programme>
 <programme start="20260326020000 +0700" stop="20260326043000 +0700" channel="COSMOTE Sport 6 HD">
