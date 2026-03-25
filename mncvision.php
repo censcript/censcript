@@ -7949,7 +7949,7 @@
     <title>Timnas Spesial: IDN Vs BHR</title>
 </programme>
 <programme start="20260325163000 +0000" stop="20260324170000 +0000" channel="Soccer Channel.mncvision">
-    <title>Best Of Persib: PSB Vs BKU</title>
+    <title>Planet Football</title>
 </programme>
 <programme start="20260324183000 +0000" stop="20260324203000 +0000" channel="Soccer Channel HD.mncvision">
     <title>Bundesliga 2025/26: FCB Vs RBL</title>
@@ -8003,7 +8003,7 @@
     <title>Timnas Spesial: IDN Vs BHR</title>
 </programme>
 <programme start="20260325163000 +0000" stop="20260324170000 +0000" channel="Soccer Channel HD.mncvision">
-    <title>Best Of Persib: PSB Vs BKU</title>
+    <title>Planet Football</title>
 </programme>
 <programme start="20260324173000 +0000" stop="20260324200000 +0000" channel="Sportstars.mncvision">
     <title>Indonesia Juara Badminton</title>

@@ -2656,7 +2656,7 @@ Warning: Undefined array key "et" in /usr/home/ManusiaBiasa/domains/manusiabiasa
     <title>Admiral BL: SK Puntigamer Sturm Graz - FC Red Bull Salzburg, 24. Runde</title>
 </programme>
 <programme start="20260324230000 +0000" stop="20260325090000 +0000" channel="Sky Sport Austria 2 HD.skyde">
-    <title>Live WTA 1000: C. Gauff (USA) B. Bencic (SUI), Miami Open presented by Itaú in Miami, Florida (USA), Viertelfinale 2</title>
+    <title>Live WTA 1000: A. Anisimova - C. Gauff (USA), Miami Open presented by Itaú in Miami, Florida (USA), Viertelfinale 2</title>
 </programme>
 <programme start="20260325164000 +0000" stop="20260325170000 +0000" channel="Sky Sport Austria 2 HD.skyde">
     <title>Es folgt: Live Tennis WTA Tour</title>
@@ -3141,20 +3141,14 @@ Warning: Undefined array key "et" in /usr/home/ManusiaBiasa/domains/manusiabiasa
 <programme start="20260324230000 +0000" stop="20260325010000 +0000" channel="Sky Sport Golf HD.skyde">
     <title>Live TGL: Los Angeles Golf Club - Jupiter Links Golf Club, Finale 2</title>
 </programme>
-<programme start="20260325010000 +0000" stop="20260325030000 +0000" channel="Sky Sport Golf HD.skyde">
-    <title>Live TGL: Los Angeles Golf Club - Jupiter Links Golf Club, Finale 3*</title>
-</programme>
 <programme start="20260325030000 +0000" stop="20260325040000 +0000" channel="Sky Sport Golf HD.skyde">
     <title>US Open: Official Film 2014 (Martin Kaymer)</title>
 </programme>
 <programme start="20260325040000 +0000" stop="20260325090000 +0000" channel="Sky Sport Golf HD.skyde">
     <title>Golf Ladies ET: Australian WPGA Championship, 4. Tag in Gold Coast (Australien)</title>
 </programme>
-<programme start="20260325090000 +0000" stop="20260325110000 +0000" channel="Sky Sport Golf HD.skyde">
-    <title>TGL: Los Angeles Golf Club - Jupiter Links Golf Club, Finale 2</title>
-</programme>
 <programme start="20260325110000 +0000" stop="20260325130000 +0000" channel="Sky Sport Golf HD.skyde">
-    <title>TGL: Los Angeles Golf Club - Jupiter Links Golf Club, Finale 3*</title>
+    <title>TGL: Los Angeles Golf Club - Jupiter Links Golf Club, Finale 2</title>
 </programme>
 <programme start="20260325130000 +0000" stop="20260325140000 +0000" channel="Sky Sport Golf HD.skyde">
     <title>Golf Ladies ET: Highlights Australian WPGA Championship</title>
@@ -3173,9 +3167,6 @@ Warning: Undefined array key "et" in /usr/home/ManusiaBiasa/domains/manusiabiasa
 </programme>
 <programme start="20260325170000 +0000" stop="20260325190000 +0000" channel="Sky Sport Golf HD.skyde">
     <title>TGL: Los Angeles Golf Club - Jupiter Links Golf Club, Finale 2</title>
-</programme>
-<programme start="20260325190000 +0000" stop="20260325210000 +0000" channel="Sky Sport Golf HD.skyde">
-    <title>TGL: Los Angeles Golf Club - Jupiter Links Golf Club, Finale 3*</title>
 </programme>
 <programme start="20260325210000 +0000" stop="20260326000000 +0000" channel="Sky Sport Golf HD.skyde">
     <title>LIV Golf: Südafrika, 4. Tag in Johannesburg</title>
@@ -3520,10 +3511,10 @@ Warning: Undefined array key "et" in /usr/home/ManusiaBiasa/domains/manusiabiasa
     <title>TGL: Los Angeles Golf Club - Jupiter Links Golf Club, Finale 3*</title>
 </programme>
 <programme start="20260325170000 +0000" stop="20260325190000 +0000" channel="Sky Sport Top Event HD.skyde">
-    <title>Live WTA 1000: VF3, Miami Open presented by Itaú in Miami, Florida (USA), Viertelfinale 3</title>
+    <title>Live WTA 1000: E. Rybakina (KAZ) - J. Pegula (USA), Miami Open presented by Itaú in Miami, Florida (USA), Viertelfinale 3</title>
 </programme>
 <programme start="20260325190000 +0000" stop="20260325210000 +0000" channel="Sky Sport Top Event HD.skyde">
-    <title>Live ATP 1000: VF1, Miami Open presented by Itaú in Miami, Florida (USA), Viertelfinale 1</title>
+    <title>Live ATP 1000: M. Landaluce (ESP) - J. Lehecka (CZE), Miami Open presented by Itaú in Miami, Florida (USA), Viertelfinale 1</title>
 </programme>
 <programme start="20260325210000 +0000" stop="20260325213000 +0000" channel="Sky Sport Top Event HD.skyde">
     <title>ATP: This Week</title>
@@ -3555,7 +3546,7 @@ Warning: Undefined array key "et" in /usr/home/ManusiaBiasa/domains/manusiabiasa
 <programme start="20260324230000 +0000" stop="20260325000000 +0000" channel="Sky Sport 1 HD.skyde">
     <title>Live NBA: Showtime</title>
 </programme>
-<programme start="20260325000000 +0000" stop="20260325090000 +0000" channel="Sky Sport 1 HD.skyde">
+<programme start="20260325000000 +0000" stop="20260325031000 +0000" channel="Sky Sport 1 HD.skyde">
     <title>Live NBA: Orlando Magic @ Cleveland Cavaliers</title>
 </programme>
 <programme start="20260324230000 +0000" stop="20260325090000 +0000" channel="Sky Sport 2 HD.skyde">
@@ -3848,6 +3839,96 @@ Warning: Undefined array key "et" in /usr/home/ManusiaBiasa/domains/manusiabiasa
 </programme>
 <programme start="20260325165500 +0000" stop="20260325170000 +0000" channel="Sky Sport 3 HD.skyde">
     <title>Test SPORT 03 with BO-ALLGEMEIN</title>
+</programme>
+<programme start="20260324230000 +0000" stop="20260324234500 +0000" channel="SYFY HD.skyde">
+    <title>Raumschiff Enterprise - Das nächste Jahrhundert</title>
+</programme>
+<programme start="20260324234500 +0000" stop="20260325003000 +0000" channel="SYFY HD.skyde">
+    <title>Raumschiff Enterprise - Das nächste Jahrhundert</title>
+</programme>
+<programme start="20260325003000 +0000" stop="20260325011500 +0000" channel="SYFY HD.skyde">
+    <title>Star Trek: Deep Space Nine</title>
+</programme>
+<programme start="20260325011500 +0000" stop="20260325020500 +0000" channel="SYFY HD.skyde">
+    <title>Star Trek: Deep Space Nine</title>
+</programme>
+<programme start="20260325020500 +0000" stop="20260325025000 +0000" channel="SYFY HD.skyde">
+    <title>Star Trek: Raumschiff Voyager</title>
+</programme>
+<programme start="20260325025000 +0000" stop="20260325034000 +0000" channel="SYFY HD.skyde">
+    <title>Star Trek: Raumschiff Voyager</title>
+</programme>
+<programme start="20260325034000 +0000" stop="20260325042500 +0000" channel="SYFY HD.skyde">
+    <title>Raumschiff Enterprise - Das nächste Jahrhundert</title>
+</programme>
+<programme start="20260325042500 +0000" stop="20260325051500 +0000" channel="SYFY HD.skyde">
+    <title>Raumschiff Enterprise - Das nächste Jahrhundert</title>
+</programme>
+<programme start="20260325051500 +0000" stop="20260325054000 +0000" channel="SYFY HD.skyde">
+    <title>SYFY Inside: Star Wars Celebration</title>
+</programme>
+<programme start="20260325054000 +0000" stop="20260325062500 +0000" channel="SYFY HD.skyde">
+    <title>Stargate SG-1</title>
+</programme>
+<programme start="20260325062500 +0000" stop="20260325071500 +0000" channel="SYFY HD.skyde">
+    <title>Stargate SG-1</title>
+</programme>
+<programme start="20260325071500 +0000" stop="20260325080000 +0000" channel="SYFY HD.skyde">
+    <title>Stargate: Atlantis</title>
+</programme>
+<programme start="20260325080000 +0000" stop="20260325084500 +0000" channel="SYFY HD.skyde">
+    <title>Stargate: Atlantis</title>
+</programme>
+<programme start="20260325084500 +0000" stop="20260325093500 +0000" channel="SYFY HD.skyde">
+    <title>Van Helsing</title>
+</programme>
+<programme start="20260325093500 +0000" stop="20260325102000 +0000" channel="SYFY HD.skyde">
+    <title>Stargate SG-1</title>
+</programme>
+<programme start="20260325102000 +0000" stop="20260325111000 +0000" channel="SYFY HD.skyde">
+    <title>Stargate SG-1</title>
+</programme>
+<programme start="20260325111000 +0000" stop="20260325115500 +0000" channel="SYFY HD.skyde">
+    <title>Stargate: Atlantis</title>
+</programme>
+<programme start="20260325115500 +0000" stop="20260325124000 +0000" channel="SYFY HD.skyde">
+    <title>Stargate: Atlantis</title>
+</programme>
+<programme start="20260325124000 +0000" stop="20260325133000 +0000" channel="SYFY HD.skyde">
+    <title>Star Trek: Enterprise</title>
+</programme>
+<programme start="20260325133000 +0000" stop="20260325141500 +0000" channel="SYFY HD.skyde">
+    <title>Star Trek: Enterprise</title>
+</programme>
+<programme start="20260325141500 +0000" stop="20260325150500 +0000" channel="SYFY HD.skyde">
+    <title>Raumschiff Enterprise - Das nächste Jahrhundert</title>
+</programme>
+<programme start="20260325150500 +0000" stop="20260325155500 +0000" channel="SYFY HD.skyde">
+    <title>Raumschiff Enterprise - Das nächste Jahrhundert</title>
+</programme>
+<programme start="20260325155500 +0000" stop="20260325164500 +0000" channel="SYFY HD.skyde">
+    <title>Star Trek: Deep Space Nine</title>
+</programme>
+<programme start="20260325164500 +0000" stop="20260325173500 +0000" channel="SYFY HD.skyde">
+    <title>Star Trek: Deep Space Nine</title>
+</programme>
+<programme start="20260325173500 +0000" stop="20260325182500 +0000" channel="SYFY HD.skyde">
+    <title>Star Trek: Raumschiff Voyager</title>
+</programme>
+<programme start="20260325182500 +0000" stop="20260325191500 +0000" channel="SYFY HD.skyde">
+    <title>Star Trek: Raumschiff Voyager</title>
+</programme>
+<programme start="20260325191500 +0000" stop="20260325212000 +0000" channel="SYFY HD.skyde">
+    <title>Prometheus - Dunkle Zeichen</title>
+</programme>
+<programme start="20260325212000 +0000" stop="20260325213000 +0000" channel="SYFY HD.skyde">
+    <title>Sci Xpert - Leschs Universum</title>
+</programme>
+<programme start="20260325213000 +0000" stop="20260325221500 +0000" channel="SYFY HD.skyde">
+    <title>Star Trek: Enterprise</title>
+</programme>
+<programme start="20260325221500 +0000" stop="20260325230000 +0000" channel="SYFY HD.skyde">
+    <title>Star Trek: Enterprise</title>
 </programme>
 <programme start="20260324230000 +0000" stop="20260324234500 +0000" channel="Universal TV HD.skyde">
     <title>Hawaii Five-0</title>

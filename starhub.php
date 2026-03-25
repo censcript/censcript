@@ -5171,13 +5171,13 @@
         <title>Round 3</title>
     </programme>
     <programme start="20260324230000 +0000" stop="20260325010000 +0000" channel="SPOTV.starhub">
-        <title>Melbourne Victory vs Central Coast Mariners FC</title>
+        <title>25/26 A-League Men Round 22 Melbourne Victory vs Central Coast Mariners FC</title>
     </programme>
     <programme start="20260325010000 +0000" stop="20260325013000 +0000" channel="SPOTV.starhub">
-        <title>Western Sydney Wanderers FC vs Adelaide United</title>
+        <title>2025/26 ALM Mini Match Rd 22 Western Sydney Wanderers FC vs Adelaide United</title>
     </programme>
     <programme start="20260325013000 +0000" stop="20260325020000 +0000" channel="SPOTV.starhub">
-        <title>Sydney FC vs Newcastle Jets FC</title>
+        <title>2025/26 ALM Mini Match Rd 22 Sydney FC vs Newcastle Jets FC</title>
     </programme>
     <programme start="20260325020000 +0000" stop="20260325030000 +0000" channel="SPOTV.starhub">
         <title>Highlights 2</title>
@@ -5189,19 +5189,19 @@
         <title>Highlights</title>
     </programme>
     <programme start="20260325053000 +0000" stop="20260325073000 +0000" channel="SPOTV.starhub">
-        <title>Partick Thistle vs St Johnstone</title>
+        <title>25/26 Scottish Championship Round 26 Partick Thistle vs St Johnstone</title>
     </programme>
     <programme start="20260325073000 +0000" stop="20260325093000 +0000" channel="SPOTV.starhub">
-        <title>Rangers vs Aberdeen</title>
+        <title>25/26 Scottish Premiership Round 31 Rangers vs Aberdeen</title>
     </programme>
     <programme start="20260325093000 +0000" stop="20260325113000 +0000" channel="SPOTV.starhub">
-        <title>Brisbane Roar FC vs Wellington Phoenix</title>
+        <title>25/26 A-League Men Round 22 Brisbane Roar FC vs Wellington Phoenix</title>
     </programme>
     <programme start="20260325113000 +0000" stop="20260325123000 +0000" channel="SPOTV.starhub">
         <title>Highlights 1</title>
     </programme>
     <programme start="20260325123000 +0000" stop="20260325130000 +0000" channel="SPOTV.starhub">
-        <title>Western Sydney Wanderers FC vs Adelaide United</title>
+        <title>2025/26 ALM Mini Match Rd 22 Western Sydney Wanderers FC vs Adelaide United</title>
     </programme>
     <programme start="20260325130000 +0000" stop="20260325160000 +0000" channel="SPOTV.starhub">
         <title>Rolex Grand Prix Show Jumping</title>

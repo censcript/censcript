@@ -4512,10 +4512,20 @@
   <channel id="zeethirai.unifitv">
     <display-name>Zee Thirai</display-name>
   </channel>
-  <programme start="20260324153000 +0000" stop="20260324180000 +0000" channel="zeethirai.unifitv">
-    <title lang="en">Meyaadha Maan</title>
-    <desc lang="en">Murali's friends prevent him from suicide when Madhu, the girl he loves, is about to get engaged. Later, they meet again at a friend's wedding and fall in love.</desc>
-    <category lang="en">Romance</category>
+  <programme start="20260324140000 +0000" stop="20260324170000 +0000" channel="zeethirai.unifitv">
+    <title lang="en">Mark Antony</title>
+    <desc lang="en">Mark, the son of a former gangster, comes across a mobile phone that can time-travel. Using the phone, Mark acquires the ability to save his estranged mother from a grim fate.</desc>
+    <category lang="en">Action</category>
+  </programme>
+  <programme start="20260324170000 +0000" stop="20260324173000 +0000" channel="zeethirai.unifitv">
+    <title lang="en">Free Ticket</title>
+    <desc lang="en">The host presents a curated compilation of hit songs and memorable snippets from the most popular and trending Tamil movies, celebrating the best of Tamil cinema.</desc>
+    <category lang="en">Entertainment</category>
+  </programme>
+  <programme start="20260324173000 +0000" stop="20260324180000 +0000" channel="zeethirai.unifitv">
+    <title lang="en">Free Ticket</title>
+    <desc lang="en">The host presents a curated compilation of hit songs and memorable snippets from the most popular and trending Tamil movies, celebrating the best of Tamil cinema.</desc>
+    <category lang="en">Entertainment</category>
   </programme>
   <programme start="20260324180000 +0000" stop="20260324183000 +0000" channel="zeethirai.unifitv">
     <title lang="en">Free Ticket</title>
@@ -4538,46 +4548,44 @@
     <category lang="en">Entertainment</category>
   </programme>
   <programme start="20260324200000 +0000" stop="20260324223000 +0000" channel="zeethirai.unifitv">
-    <title lang="en">Sethupathi</title>
-    <desc lang="en">Sethupathi, a tough police officer, investigates the murder of an inspector. His findings lead to the arrest of Vathiyar, an influential man in Madurai, but put his life, career and family at risk.</desc>
+    <title lang="en">Bimbisara</title>
+    <desc lang="en">Betrayed by his brother, an ancient evil emperor is trapped in a mirror and transported to the modern world, where he desperately searches for the mirror to return to his kingdom.</desc>
     <category lang="en">Action</category>
   </programme>
-  <programme start="20260324223000 +0000" stop="20260325013000 +0000" channel="zeethirai.unifitv">
-    <title lang="en">Akhanda</title>
-    <desc lang="en">Akhanda, a devotee of Lord Shiva, protects Murali Krishna from Varadarajulu's evil scheme. The story unfolds with divine intervention, bringing justice in a captivating tale of righteousness.</desc>
+  <programme start="20260324223000 +0000" stop="20260325003000 +0000" channel="zeethirai.unifitv">
+    <title lang="en">Captain</title>
+    <desc lang="en">Gangster Soori, known as Captain, aids people in need. Meeting Nisha brings transformative love. Will his past hinder a new beginning?</desc>
     <category lang="en">Action</category>
   </programme>
-  <programme start="20260325013000 +0000" stop="20260325043000 +0000" channel="zeethirai.unifitv">
-    <title lang="en">Big Brother</title>
-    <desc lang="en">Upon being released from prison, Sachi demands to lead a tranquil life with his family. However, fate has other plans for the ex-convict when he encounters a dangerous drug lord.</desc>
+  <programme start="20260325003000 +0000" stop="20260325030000 +0000" channel="zeethirai.unifitv">
+    <title lang="en">Salim</title>
+    <desc lang="en">Salim, a doctor, runs into trouble for being too generous towards his patients. Soon, his patience with the justice system snaps and he takes the law into his own hands.</desc>
     <category lang="en">Action</category>
   </programme>
-  <programme start="20260325043000 +0000" stop="20260325080000 +0000" channel="zeethirai.unifitv">
-    <title lang="en">Poovizhi Vasalile</title>
-    <desc lang="en">A grieving man adopts a deaf-mute boy, naming him after his late son. The boy faces danger after witnessing his mother's killers.</desc>
-    <category lang="en">Thriller</category>
-  </programme>
-  <programme start="20260325080000 +0000" stop="20260325103000 +0000" channel="zeethirai.unifitv">
-    <title lang="en">Shivanagam</title>
-    <desc lang="en">Naganika's family is in charge of an ancient monument that Kapali has his eyes set on. When Kapali kills her to seek the monument, Naganika is reborn as a snake in her next life to seek revenge.</desc>
-    <category lang="en">Action</category>
-    <episode-num system="xmltv_ns">0.15.</episode-num>
-    <episode-num system="onscreen">S1E16</episode-num>
-  </programme>
-  <programme start="20260325103000 +0000" stop="20260325130000 +0000" channel="zeethirai.unifitv">
-    <title lang="en">Ivan Kavalkaran</title>
-    <desc lang="en">Vijay, an honest police officer, meets Samyukta at a cafe and falls in love with her. However, his life changes when he witnesses a kidnapping and ends up helping a lonely woman, Lavanya.</desc>
+  <programme start="20260325030000 +0000" stop="20260325053000 +0000" channel="zeethirai.unifitv">
+    <title lang="en">Thamilarasan</title>
+    <desc lang="en">An honest police officer gets in to a conflict with Rana. Their enmity worsens when Tamilarasan refuses to obey Rana's order in a critical situation.</desc>
     <category lang="en">Action</category>
   </programme>
-  <programme start="20260325130000 +0000" stop="20260325160000 +0000" channel="zeethirai.unifitv">
-    <title lang="en">Madhura Raja</title>
-    <desc lang="en">Raja, a lionhearted man, heads to the village of Pambinthurthu to protect the people who are being terrorised by a local criminal and illegal liquor merchant, Nadeshan.</desc>
+  <programme start="20260325053000 +0000" stop="20260325083000 +0000" channel="zeethirai.unifitv">
+    <title lang="en">Rathnam</title>
+    <desc lang="en">Rathnam works as a henchman under MLA Panner Selvam. A girl travels to Vellore for an interview and a few rowdies try to kill her but Rathnam saves her and becomes her guardian angel. How long can he</desc>
     <category lang="en">Action</category>
   </programme>
-  <programme start="20260325160000 +0000" stop="20260325180000 +0000" channel="zeethirai.unifitv">
-    <title lang="en">Ko 2</title>
-    <desc lang="en">When Kumaran, an ordinary citizen, abducts the chief minister of the state of Tamil Nadu, the whole nation wonders what could have compelled a seemingly innocent man to adopt such a drastic step.</desc>
-    <category lang="en">Thriller</category>
+  <programme start="20260325083000 +0000" stop="20260325110000 +0000" channel="zeethirai.unifitv">
+    <title lang="en">Mirugaa</title>
+    <desc lang="en">Forest officials in Kotagiri hunt a man-eating tiger that is attacking innocent people. At the same time, a serial killer is on the prowl for wealthy single women.</desc>
+    <category lang="en">Action</category>
+  </programme>
+  <programme start="20260325110000 +0000" stop="20260325140000 +0000" channel="zeethirai.unifitv">
+    <title lang="en">Maargan</title>
+    <desc lang="en">Cop Dhruv from Mumbai police hunts a serial killer targeting young girls with a burning drug. While investigating their suspect, the police discover they're facing someone far more dangerous than expe</desc>
+    <category lang="en">Action</category>
+  </programme>
+  <programme start="20260325140000 +0000" stop="20260325163000 +0000" channel="zeethirai.unifitv">
+    <title lang="en">Pongaluku Varugirom</title>
+    <desc lang="en">Ex-cop Y.D. Raju agrees to assist his ex-girlfriend ACP Meenakshi in a high-profile kidnapping case. He finds himself in a fix when his wife, Bhagyalakshmi, insists on accompanying them.</desc>
+    <category lang="en">Action</category>
   </programme>
   <channel id="sonyyay.unifitv">
     <display-name>Sony YAY!</display-name>
