@@ -118,6 +118,10 @@
     <title>Football: Como - Pisa</title>
     <desc>Live: Tidak</desc>
 </programme>
+<programme start="20260326161000 +0700" stop="20260326181000 +0700" channel="COSMOTE Sport 2 HD">
+    <title>Football: Genoa - Udinese</title>
+    <desc>Live: Tidak</desc>
+</programme>
 <programme start="20260325150000 +0700" stop="20260325170000 +0700" channel="COSMOTE Sport 3 HD">
     <title>Football: Newcastle United - Manchester City FC</title>
     <desc>Live: Tidak</desc>
@@ -230,10 +234,6 @@
     <title>Basketball: Detroit Pistons - Atlanta Hawks</title>
     <desc>Live: Tidak</desc>
 </programme>
-<programme start="20260325135000 +0700" stop="20260325151500 +0700" channel="COSMOTE Sport 5 HD">
-    <title>DTM 2025</title>
-    <desc>Live: Tidak</desc>
-</programme>
 <programme start="20260325151500 +0700" stop="20260325170000 +0700" channel="COSMOTE Sport 5 HD">
     <title>DTM 2025</title>
     <desc>Live: Tidak</desc>
@@ -316,6 +316,10 @@
 </programme>
 <programme start="20260326144000 +0700" stop="20260326164000 +0700" channel="COSMOTE Sport 5 HD">
     <title>2025 Extreme H</title>
+    <desc>Live: Tidak</desc>
+</programme>
+<programme start="20260326164000 +0700" stop="20260326174500 +0700" channel="COSMOTE Sport 5 HD">
+    <title>Motorsports: Extreme E 2025</title>
     <desc>Live: Tidak</desc>
 </programme>
 <programme start="20260325140000 +0700" stop="20260325180000 +0700" channel="COSMOTE Sport 6 HD">

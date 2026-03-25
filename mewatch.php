@@ -674,10 +674,10 @@
         <title>No programmes streaming LIVE at this moment</title>
     </programme>
     <programme start="20260324160000 +0000" stop="20260325160000 +0000" channel="spl02.mewatch">
-        <title>No programmes streaming LIVE at this moment</title>
+        <title>No Programme available now. Next Broadcast on 4th April, Saturday 7.20pm. Singapore Premier League 2025/2026</title>
     </programme>
     <programme start="20260325160000 +0000" stop="20260326160000 +0000" channel="spl02.mewatch">
-        <title>No programmes streaming LIVE at this moment</title>
+        <title>No Programme available now. Next Broadcast on 4th April, Saturday 7.20pm. Singapore Premier League 2025/2026</title>
     </programme>
     <programme start="20260324150000 +0000" stop="20260324170000 +0000" channel="now-80s.mewatch">
         <title>Addicted to 80s Love Songs</title>
