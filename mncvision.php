@@ -6476,16 +6476,19 @@
     <title>Mini Program</title>
 </programme>
 <programme start="20260325033000 +0000" stop="20260325034500 +0000" channel="NHK World Premium.mncvision">
-    <title>Massan</title>
+    <title>Massan, Ep 63</title>
 </programme>
 <programme start="20260325034500 +0000" stop="20260325040000 +0000" channel="NHK World Premium.mncvision">
-    <title>The Ghost Writer&#039;s Wife</title>
+    <title>The Ghost Writer&#039;s Wife, Ep 123</title>
 </programme>
 <programme start="20260325040000 +0000" stop="20260325040500 +0000" channel="NHK World Premium.mncvision">
     <title>News</title>
 </programme>
-<programme start="20260325040500 +0000" stop="20260325055000 +0000" channel="NHK World Premium.mncvision">
-    <title>News Around Japan</title>
+<programme start="20260325040500 +0000" stop="20260325054100 +0000" channel="NHK World Premium.mncvision">
+    <title>Japan Swim 2026</title>
+</programme>
+<programme start="20260325054100 +0000" stop="20260325055000 +0000" channel="NHK World Premium.mncvision">
+    <title>Train Driver&#039;s Cab View</title>
 </programme>
 <programme start="20260325055000 +0000" stop="20260325055500 +0000" channel="NHK World Premium.mncvision">
     <title>World Weather</title>
@@ -6494,13 +6497,13 @@
     <title>World Music Album</title>
 </programme>
 <programme start="20260325060000 +0000" stop="20260325061000 +0000" channel="NHK World Premium.mncvision">
-    <title>News &amp; Weather</title>
+    <title>The Great Nature</title>
 </programme>
 <programme start="20260325061000 +0000" stop="20260325064000 +0000" channel="NHK World Premium.mncvision">
     <title>Exciting New World</title>
 </programme>
 <programme start="20260325064000 +0000" stop="20260325065000 +0000" channel="NHK World Premium.mncvision">
-    <title>Points At Issue</title>
+    <title>Cruising From The Sky</title>
 </programme>
 <programme start="20260325065000 +0000" stop="20260325073500 +0000" channel="NHK World Premium.mncvision">
     <title>Lifestyle Lab For The Prime...</title>
@@ -6535,14 +6538,11 @@
 <programme start="20260325095600 +0000" stop="20260325100000 +0000" channel="NHK World Premium.mncvision">
     <title>World Weather</title>
 </programme>
-<programme start="20260325100000 +0000" stop="20260325114300 +0000" channel="NHK World Premium.mncvision">
+<programme start="20260325100000 +0000" stop="20260325103000 +0000" channel="NHK World Premium.mncvision">
     <title>NHK News</title>
 </programme>
-<programme start="20260325114300 +0000" stop="20260325114500 +0000" channel="NHK World Premium.mncvision">
-    <title>World Weather</title>
-</programme>
-<programme start="20260325114500 +0000" stop="20260325121500 +0000" channel="NHK World Premium.mncvision">
-    <title>NHK News</title>
+<programme start="20260325103000 +0000" stop="20260325110000 +0000" channel="NHK World Premium.mncvision">
+    <title>Japanese Traditional Arts</title>
 </programme>
 <programme start="20260324172000 +0000" stop="20260324173000 +0000" channel="Nick Jr. HD.mncvision">
     <title>Barbapapa: Big Happy Family!</title>

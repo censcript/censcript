@@ -634,6 +634,9 @@
 <programme start="20260326114500 +0000" stop="20260326121500 +0000" channel="Trans 7.vision">
 <title>Secret Story</title>
 </programme>
+<programme start="20260324230000 +0000" stop="20260325003000 +0000" channel="ANTV.vision">
+<title>Kids &amp; Soldiers</title>
+</programme>
 <programme start="20260325003000 +0000" stop="20260325023000 +0000" channel="ANTV.vision">
 <title>Janji Cinta Inspektur Virat</title>
 </programme>
@@ -1494,7 +1497,4 @@
 </programme>
 <programme start="20260324235000 +0000" stop="20260325010500 +0000" channel="MDTV.vision">
 <title>AADD: Ada Apa Dengan Dunia</title>
-</programme>
-<programme start="20260325010500 +0000" stop="20260325015500 +0000" channel="MDTV.vision">
-<title>Fakta +62</title>
 </programme>
