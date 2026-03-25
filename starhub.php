@@ -3364,14 +3364,11 @@
     <programme start="20260325104500 +0000" stop="20260325110000 +0000" channel="DW English HD.starhub">
         <title>AI &amp; Drones: Possibilities and Risks</title>
     </programme>
-    <programme start="20260325110000 +0000" stop="20260325110200 +0000" channel="DW English HD.starhub">
+    <programme start="20260325110000 +0000" stop="20260325114500 +0000" channel="DW English HD.starhub">
         <title>News</title>
     </programme>
-    <programme start="20260325110200 +0000" stop="20260325113000 +0000" channel="DW English HD.starhub">
-        <title>Animal Invaders - The Battle Against Unwanted Species</title>
-    </programme>
-    <programme start="20260325113000 +0000" stop="20260325120000 +0000" channel="DW English HD.starhub">
-        <title>The worldwide materials transition</title>
+    <programme start="20260325114500 +0000" stop="20260325120000 +0000" channel="DW English HD.starhub">
+        <title>News</title>
     </programme>
     <programme start="20260325120000 +0000" stop="20260325120200 +0000" channel="DW English HD.starhub">
         <title>News</title>

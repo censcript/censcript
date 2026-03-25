@@ -5272,6 +5272,57 @@
   <programme start="20260327220000 +0000" stop="20260327230000 +0000" channel="Eurosport 1.webtv.sk">
     <title lang="id">Skoky na lyžích: SP v Planici</title>
   </programme>
+  <programme start="20260326230000 +0000" stop="20260327003000 +0000" channel="Eurosport 2.webtv.sk">
+    <title lang="id">Cyklistika: Okolo Katalánska</title>
+  </programme>
+  <programme start="20260327003000 +0000" stop="20260327020000 +0000" channel="Eurosport 2.webtv.sk">
+    <title lang="id">Snooker: World Grand Prix</title>
+  </programme>
+  <programme start="20260327020000 +0000" stop="20260327023000 +0000" channel="Eurosport 2.webtv.sk">
+    <title lang="id">Skoky na lyžích: SP v Planici</title>
+  </programme>
+  <programme start="20260327023000 +0000" stop="20260327033000 +0000" channel="Eurosport 2.webtv.sk">
+    <title lang="id">Formule: Formule E v Jaramě</title>
+  </programme>
+  <programme start="20260327033000 +0000" stop="20260327050000 +0000" channel="Eurosport 2.webtv.sk">
+    <title lang="id">Cyklistika: Okolo Katalánska</title>
+  </programme>
+  <programme start="20260327050000 +0000" stop="20260327063000 +0000" channel="Eurosport 2.webtv.sk">
+    <title lang="id">Snooker: World Grand Prix</title>
+  </programme>
+  <programme start="20260327063000 +0000" stop="20260327073000 +0000" channel="Eurosport 2.webtv.sk">
+    <title lang="id">Formule: Formule E v Jaramě</title>
+  </programme>
+  <programme start="20260327073000 +0000" stop="20260327090000 +0000" channel="Eurosport 2.webtv.sk">
+    <title lang="id">Cyklistika: Okolo Katalánska</title>
+  </programme>
+  <programme start="20260327090000 +0000" stop="20260327100000 +0000" channel="Eurosport 2.webtv.sk">
+    <title lang="id">Skoky na lyžích: SP v Planici</title>
+  </programme>
+  <programme start="20260327100000 +0000" stop="20260327110000 +0000" channel="Eurosport 2.webtv.sk">
+    <title lang="id">Formule: Formule E v Jaramě</title>
+  </programme>
+  <programme start="20260327110000 +0000" stop="20260327120000 +0000" channel="Eurosport 2.webtv.sk">
+    <title lang="id">Cyklistika: Okolo Katalánska</title>
+  </programme>
+  <programme start="20260327120000 +0000" stop="20260327131500 +0000" channel="Eurosport 2.webtv.sk">
+    <title lang="id">Cyklistika: Tour of Bruges</title>
+  </programme>
+  <programme start="20260327131500 +0000" stop="20260327150000 +0000" channel="Eurosport 2.webtv.sk">
+    <title lang="id">Cyklistika: Okolo Katalánska</title>
+  </programme>
+  <programme start="20260327150000 +0000" stop="20260327164500 +0000" channel="Eurosport 2.webtv.sk">
+    <title lang="id">Cyklistika: E3 Classic</title>
+  </programme>
+  <programme start="20260327164500 +0000" stop="20260327180000 +0000" channel="Eurosport 2.webtv.sk">
+    <title lang="id">Cyklistika: Okolo Katalánska</title>
+  </programme>
+  <programme start="20260327180000 +0000" stop="20260327190000 +0000" channel="Eurosport 2.webtv.sk">
+    <title lang="id">Skoky na lyžích: SP v Planici</title>
+  </programme>
+  <programme start="20260327190000 +0000" stop="20260327230000 +0000" channel="Eurosport 2.webtv.sk">
+    <title lang="id">Golf: PGA Tour</title>
+  </programme>
   <programme start="20260326230000 +0000" stop="20260327010000 +0000" channel="Sport 1.webtv.sk">
     <title lang="id">Fotbal</title>
   </programme>
@@ -15717,6 +15768,48 @@
   </programme>
   <programme start="20260327224500 +0000" stop="20260327230000 +0000" channel="CETV.webtv.sk">
     <title lang="id">Spravodajstvo</title>
+  </programme>
+  <programme start="20260326230000 +0000" stop="20260327040000 +0000" channel="TV8.webtv.sk">
+    <title lang="id">Nočné vysielanie pre pánov</title>
+  </programme>
+  <programme start="20260327040000 +0000" stop="20260327043000 +0000" channel="TV8.webtv.sk">
+    <title lang="id">Dobré rady starej mamy</title>
+  </programme>
+  <programme start="20260327043000 +0000" stop="20260327044500 +0000" channel="TV8.webtv.sk">
+    <title lang="id">HOROSKOPY</title>
+  </programme>
+  <programme start="20260327044500 +0000" stop="20260327050000 +0000" channel="TV8.webtv.sk">
+    <title lang="id">Cvičíme pre zdravie</title>
+  </programme>
+  <programme start="20260327050000 +0000" stop="20260327063000 +0000" channel="TV8.webtv.sk">
+    <title lang="id">Veštenie repríza</title>
+  </programme>
+  <programme start="20260327063000 +0000" stop="20260327073000 +0000" channel="TV8.webtv.sk">
+    <title lang="id">Spiatočka</title>
+  </programme>
+  <programme start="20260327073000 +0000" stop="20260327074500 +0000" channel="TV8.webtv.sk">
+    <title lang="id">Cvičíme pre zdravie</title>
+  </programme>
+  <programme start="20260327074500 +0000" stop="20260327080000 +0000" channel="TV8.webtv.sk">
+    <title lang="id">HOROSKOPY</title>
+  </programme>
+  <programme start="20260327080000 +0000" stop="20260327135500 +0000" channel="TV8.webtv.sk">
+    <title lang="id">Prvá pomoc s Annou</title>
+  </programme>
+  <programme start="20260327135500 +0000" stop="20260327140000 +0000" channel="TV8.webtv.sk">
+    <title lang="id">HOROSKOPY</title>
+  </programme>
+  <programme start="20260327140000 +0000" stop="20260327154000 +0000" channel="TV8.webtv.sk">
+    <title lang="id">Prvá pomoc</title>
+  </programme>
+  <programme start="20260327154000 +0000" stop="20260327174500 +0000" channel="TV8.webtv.sk">
+    <title lang="id">Cvičíme pre zdravie</title>
+  </programme>
+  <programme start="20260327174500 +0000" stop="20260327190000 +0000" channel="TV8.webtv.sk">
+    <title lang="id">HOROSKOPY</title>
+  </programme>
+  <programme start="20260327190000 +0000" stop="20260327230000 +0000" channel="TV8.webtv.sk">
+    <title lang="id">Televeštiareň s Marciou</title>
   </programme>
   <programme start="20260326230000 +0000" stop="20260326231000 +0000" channel="Polar TV.webtv.sk">
     <title lang="id">Regionální zprávy POLAR</title>

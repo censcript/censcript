@@ -12531,10 +12531,10 @@
   </programme>
   <programme start="20260324163300 +0000" stop="20260324170300 +0000" channel="aljazeera.unifitv">
     <title lang="en">Counting the Cost</title>
-    <desc lang="en">Counting the Cost provides background to the economics stories that shape our world and impact the lives of ordinary people.</desc>
+    <desc lang="en">Who pays the price of a global gas shock?</desc>
     <category lang="en">News</category>
-    <episode-num system="xmltv_ns">0.13.</episode-num>
-    <episode-num system="onscreen">S1E14</episode-num>
+    <episode-num system="xmltv_ns">0.14.</episode-num>
+    <episode-num system="onscreen">S1E15</episode-num>
   </programme>
   <programme start="20260324170300 +0000" stop="20260324173300 +0000" channel="aljazeera.unifitv">
     <title lang="en">News Live</title>
@@ -12560,7 +12560,7 @@
   </programme>
   <programme start="20260324193300 +0000" stop="20260324200300 +0000" channel="aljazeera.unifitv">
     <title lang="en">UpFront</title>
-    <desc lang="en">Frank, blunt and inquisitive, UpFront cuts through the headlines to get to the heart of the matter with influential guests and newsmakers.</desc>
+    <desc lang="en">Redi Tlhabi asks a former Israeli intelligence chief why Israel keeps escalating its war with Iran and discusses the UK's role in the war with Jeremy Corbyn.</desc>
     <category lang="en">News</category>
     <episode-num system="xmltv_ns">0.6.</episode-num>
     <episode-num system="onscreen">S1E7</episode-num>
@@ -12598,7 +12598,7 @@
     <category lang="en">News</category>
   </programme>
   <programme start="20260325010300 +0000" stop="20260325020300 +0000" channel="aljazeera.unifitv">
-    <title lang="en">Blood, Sweat and Sug</title>
+    <title lang="en">Blood, Sweat and Sugar : Exploitation</title>
     <desc lang="en">Sugar's early history, from luxury to slavery - how European demand created a global system of exploitation that still affects workers and communities today.</desc>
     <category lang="en">News</category>
     <episode-num system="xmltv_ns">0.0.</episode-num>
@@ -12611,10 +12611,8 @@
   </programme>
   <programme start="20260325023300 +0000" stop="20260325030300 +0000" channel="aljazeera.unifitv">
     <title lang="en">Talk to Al Jazeera</title>
-    <desc lang="en">One-on-one conversations with global leaders, icons, influencers and alternative voices shaping our times.</desc>
+    <desc lang="en">Iran's FM says the war was imposed by the US, defends Iran's response and insists the system will endure despite targeted killings.</desc>
     <category lang="en">News</category>
-    <episode-num system="xmltv_ns">0.460.</episode-num>
-    <episode-num system="onscreen">S1E461</episode-num>
   </programme>
   <programme start="20260325030300 +0000" stop="20260325033300 +0000" channel="aljazeera.unifitv">
     <title lang="en">News Live</title>
@@ -12633,7 +12631,7 @@
   </programme>
   <programme start="20260325043300 +0000" stop="20260325050300 +0000" channel="aljazeera.unifitv">
     <title lang="en">UpFront</title>
-    <desc lang="en">Frank, blunt and inquisitive, UpFront cuts through the headlines to get to the heart of the matter with influential guests and newsmakers.</desc>
+    <desc lang="en">Redi Tlhabi asks a former Israeli intelligence chief why Israel keeps escalating its war with Iran and discusses the UK's role in the war with Jeremy Corbyn.</desc>
     <category lang="en">News</category>
     <episode-num system="xmltv_ns">0.6.</episode-num>
     <episode-num system="onscreen">S1E7</episode-num>
@@ -12657,10 +12655,10 @@
   </programme>
   <programme start="20260325063300 +0000" stop="20260325070300 +0000" channel="aljazeera.unifitv">
     <title lang="en">Counting the Cost</title>
-    <desc lang="en">Counting the Cost provides background to the economics stories that shape our world and impact the lives of ordinary people.</desc>
+    <desc lang="en">Who pays the price of a global gas shock?</desc>
     <category lang="en">News</category>
-    <episode-num system="xmltv_ns">0.13.</episode-num>
-    <episode-num system="onscreen">S1E14</episode-num>
+    <episode-num system="xmltv_ns">0.14.</episode-num>
+    <episode-num system="onscreen">S1E15</episode-num>
   </programme>
   <programme start="20260325070300 +0000" stop="20260325073300 +0000" channel="aljazeera.unifitv">
     <title lang="en">News Live</title>
@@ -12730,12 +12728,12 @@
   </programme>
   <programme start="20260325143300 +0000" stop="20260325150300 +0000" channel="aljazeera.unifitv">
     <title lang="en">The Listening Post</title>
-    <desc lang="en">What is being reported by world media and how? Richard Gizbert guides you through the global news maze.</desc>
+    <desc lang="en">From Washington to Tehran to Tel Aviv, the fight to control the narrative seems as critical as the war itself. Plus Israel unleashes the Gaza-model to Lebanon.</desc>
     <category lang="en">News</category>
     <episode-num system="xmltv_ns">0.11.</episode-num>
     <episode-num system="onscreen">S1E12</episode-num>
   </programme>
-  <programme start="20260325150300 +0000" stop="20260325153300 +0000" channel="aljazeera.unifitv">
+  <programme start="20260325150300 +0000" stop="20260325160300 +0000" channel="aljazeera.unifitv">
     <title lang="en">Newshour</title>
     <desc lang="en">Latest news and in-depth analysis from around the world.</desc>
     <category lang="en">News</category>
