@@ -556,12 +556,6 @@
 <programme start="20260325133000 +0000" stop="20260325141500 +0000" channel="Trans 7.vision">
 <title>Lapor Pak!</title>
 </programme>
-<programme start="20260325141500 +0000" stop="20260325151500 +0000" channel="Trans 7.vision">
-<title>Pengabdi Setan</title>
-</programme>
-<programme start="20260325151500 +0000" stop="20260325190000 +0000" channel="Trans 7.vision">
-<title>Warkop: Dongkrak Antik</title>
-</programme>
 <programme start="20260325190000 +0000" stop="20260325204500 +0000" channel="Trans 7.vision">
 <title>Once A Thief</title>
 </programme>
@@ -633,15 +627,6 @@
 </programme>
 <programme start="20260325090000 +0000" stop="20260325110000 +0000" channel="ANTV.vision">
 <title>Vasudha</title>
-</programme>
-<programme start="20260325143000 +0000" stop="20260325163000 +0000" channel="ANTV.vision">
-<title>Kuntilanak 3: Keris Pusaka</title>
-</programme>
-<programme start="20260325163000 +0000" stop="20260325180000 +0000" channel="ANTV.vision">
-<title>Middle Man</title>
-</programme>
-<programme start="20260325180000 +0000" stop="20260325193000 +0000" channel="ANTV.vision">
-<title>High Kick Girl</title>
 </programme>
 <programme start="20260325193000 +0000" stop="20260325213000 +0000" channel="ANTV.vision">
 <title>Hitman File</title>
@@ -1497,4 +1482,19 @@
 </programme>
 <programme start="20260325063500 +0000" stop="20260325080500 +0000" channel="MDTV.vision">
 <title>Makan Enak</title>
+</programme>
+<programme start="20260325080500 +0000" stop="20260325091500 +0000" channel="MDTV.vision">
+<title>Masak Gesss!!!</title>
+</programme>
+<programme start="20260325091500 +0000" stop="20260325100000 +0000" channel="MDTV.vision">
+<title>Adit Sopo Jarwo</title>
+</programme>
+<programme start="20260325100000 +0000" stop="20260325110000 +0000" channel="MDTV.vision">
+<title>Amigos X Siempre</title>
+</programme>
+<programme start="20260325110000 +0000" stop="20260325120000 +0000" channel="MDTV.vision">
+<title>Esmeralda</title>
+</programme>
+<programme start="20260325120000 +0000" stop="20260325130000 +0000" channel="MDTV.vision">
+<title>Keluarga Yang Tak Dirindukan</title>
 </programme>
