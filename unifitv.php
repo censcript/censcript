@@ -13998,7 +13998,7 @@
   </programme>
   <programme start="20260324163300 +0000" stop="20260324170300 +0000" channel="dw.unifitv">
     <title lang="en">Global Us</title>
-    <desc lang="en">Global Us</desc>
+    <desc lang="en">Tech training opens doors for young people in remote northern Kenya. The architecture of data hubs obscures their growing power. Rising gold prices are putting strain on couples marrying in India.</desc>
     <category lang="en">Magazine</category>
     <episode-num system="xmltv_ns">0.0.</episode-num>
     <episode-num system="onscreen">S1E1</episode-num>
@@ -14011,8 +14011,8 @@
     <episode-num system="onscreen">S1E1</episode-num>
   </programme>
   <programme start="20260324171800 +0000" stop="20260324173300 +0000" channel="dw.unifitv">
-    <title lang="en">Best of DW-online Content</title>
-    <desc lang="en">Best of DW-online Content</desc>
+    <title lang="en">Planet A</title>
+    <desc lang="en">After hurricanes, floods, or wildfires, we often see "miracle houses” - standing strong while others break. What's the secret behind their survival? We look at different types of buildings for these types of extreme weather events.</desc>
     <category lang="en">Documentary</category>
     <episode-num system="xmltv_ns">0.0.</episode-num>
     <episode-num system="onscreen">S1E1</episode-num>
@@ -14053,8 +14053,8 @@
     <episode-num system="onscreen">S1E1</episode-num>
   </programme>
   <programme start="20260324191800 +0000" stop="20260324193300 +0000" channel="dw.unifitv">
-    <title lang="en">Best of DW-online Content</title>
-    <desc lang="en">Best of DW-online Content</desc>
+    <title lang="en">Planet A</title>
+    <desc lang="en">After hurricanes, floods, or wildfires, we often see "miracle houses” - standing strong while others break. What's the secret behind their survival? We look at different types of buildings for these types of extreme weather events.</desc>
     <category lang="en">Documentary</category>
     <episode-num system="xmltv_ns">0.0.</episode-num>
     <episode-num system="onscreen">S1E1</episode-num>
@@ -14096,14 +14096,14 @@
   </programme>
   <programme start="20260324211800 +0000" stop="20260324214800 +0000" channel="dw.unifitv">
     <title lang="en">Close up</title>
-    <desc lang="en">The weekly half-hour program delivers in-depth reporting on topical political issues and newsworthy events. Revealing the story behind the stories, "Close up" is informative, gripping and visually powerful.</desc>
+    <desc lang="en">If you dominate EV battery manufacturing, you dominate electromobility. China is building one gigafactory after another, while Europe struggles with political uncertainty, lack of know-how, and large-scale projects that end up delayed or cancelled.</desc>
     <category lang="en">Documentary</category>
     <episode-num system="xmltv_ns">0.0.</episode-num>
     <episode-num system="onscreen">S1E1</episode-num>
   </programme>
   <programme start="20260324214800 +0000" stop="20260324220300 +0000" channel="dw.unifitv">
     <title lang="en">Shift</title>
-    <desc lang="en">Shift</desc>
+    <desc lang="en">AI-enhanced drones are transforming warfare and how security agencies work. In Mexico, the police are using armed drones against cartels. In Ghana, authorities are using drones and AI to track down illegal gold mines.</desc>
     <category lang="en">Magazine</category>
     <episode-num system="xmltv_ns">0.0.</episode-num>
     <episode-num system="onscreen">S1E1</episode-num>
@@ -14144,15 +14144,15 @@
     <episode-num system="onscreen">S1E1</episode-num>
   </programme>
   <programme start="20260324231800 +0000" stop="20260324233300 +0000" channel="dw.unifitv">
-    <title lang="en">Best of DW-online Content</title>
-    <desc lang="en">Best of DW-online Content</desc>
+    <title lang="en">Planet A</title>
+    <desc lang="en">After hurricanes, floods, or wildfires, we often see "miracle houses” - standing strong while others break. What's the secret behind their survival? We look at different types of buildings for these types of extreme weather events.</desc>
     <category lang="en">Documentary</category>
     <episode-num system="xmltv_ns">0.0.</episode-num>
     <episode-num system="onscreen">S1E1</episode-num>
   </programme>
   <programme start="20260324233300 +0000" stop="20260325000300 +0000" channel="dw.unifitv">
     <title lang="en">Global Us</title>
-    <desc lang="en">Global Us</desc>
+    <desc lang="en">Tech training opens doors for young people in remote northern Kenya. The architecture of data hubs obscures their growing power. Rising gold prices are putting strain on couples marrying in India.</desc>
     <category lang="en">Magazine</category>
     <episode-num system="xmltv_ns">0.0.</episode-num>
     <episode-num system="onscreen">S1E1</episode-num>
@@ -14173,7 +14173,7 @@
   </programme>
   <programme start="20260325003300 +0000" stop="20260325010300 +0000" channel="dw.unifitv">
     <title lang="en">Made in Germany</title>
-    <desc lang="en">Made in Germany</desc>
+    <desc lang="en">From Venezuela's extra heavy crude oil to Trump's focus on Greenland's rare earths to Germany's F60 steel giants and illegal gold mines in Indonesia: How raw materials impact landscapes, people, and politics.</desc>
     <category lang="en">Magazine</category>
     <episode-num system="xmltv_ns">0.1225.</episode-num>
     <episode-num system="onscreen">S1E1226</episode-num>
@@ -14215,7 +14215,7 @@
   </programme>
   <programme start="20260325023300 +0000" stop="20260325030300 +0000" channel="dw.unifitv">
     <title lang="en">Global Us</title>
-    <desc lang="en">Global Us</desc>
+    <desc lang="en">Tech training opens doors for young people in remote northern Kenya. The architecture of data hubs obscures their growing power. Rising gold prices are putting strain on couples marrying in India.</desc>
     <category lang="en">Magazine</category>
     <episode-num system="xmltv_ns">0.0.</episode-num>
     <episode-num system="onscreen">S1E1</episode-num>
@@ -14235,8 +14235,8 @@
     <episode-num system="onscreen">S1E1</episode-num>
   </programme>
   <programme start="20260325031800 +0000" stop="20260325033300 +0000" channel="dw.unifitv">
-    <title lang="en">Best of DW-online Content</title>
-    <desc lang="en">Best of DW-online Content</desc>
+    <title lang="en">Planet A</title>
+    <desc lang="en">After hurricanes, floods, or wildfires, we often see "miracle houses” - standing strong while others break. What's the secret behind their survival? We look at different types of buildings for these types of extreme weather events.</desc>
     <category lang="en">Documentary</category>
     <episode-num system="xmltv_ns">0.0.</episode-num>
     <episode-num system="onscreen">S1E1</episode-num>
@@ -14285,7 +14285,7 @@
   </programme>
   <programme start="20260325053300 +0000" stop="20260325060300 +0000" channel="dw.unifitv">
     <title lang="en">Made in Germany</title>
-    <desc lang="en">Made in Germany</desc>
+    <desc lang="en">From Venezuela's extra heavy crude oil to Trump's focus on Greenland's rare earths to Germany's F60 steel giants and illegal gold mines in Indonesia: How raw materials impact landscapes, people, and politics.</desc>
     <category lang="en">Magazine</category>
     <episode-num system="xmltv_ns">0.0.</episode-num>
     <episode-num system="onscreen">S1E1</episode-num>
@@ -14305,8 +14305,8 @@
     <episode-num system="onscreen">S1E1</episode-num>
   </programme>
   <programme start="20260325061800 +0000" stop="20260325063300 +0000" channel="dw.unifitv">
-    <title lang="en">Best of DW-online Content</title>
-    <desc lang="en">Best of DW-online Content</desc>
+    <title lang="en">Planet A</title>
+    <desc lang="en">After hurricanes, floods, or wildfires, we often see "miracle houses” - standing strong while others break. What's the secret behind their survival? We look at different types of buildings for these types of extreme weather events.</desc>
     <category lang="en">Documentary</category>
     <episode-num system="xmltv_ns">0.0.</episode-num>
     <episode-num system="onscreen">S1E1</episode-num>
@@ -14334,14 +14334,14 @@
   </programme>
   <programme start="20260325071800 +0000" stop="20260325074800 +0000" channel="dw.unifitv">
     <title lang="en">Close up</title>
-    <desc lang="en">The weekly half-hour program delivers in-depth reporting on topical political issues and newsworthy events. Revealing the story behind the stories, "Close up" is informative, gripping and visually powerful.</desc>
+    <desc lang="en">If you dominate EV battery manufacturing, you dominate electromobility. China is building one gigafactory after another, while Europe struggles with political uncertainty, lack of know-how, and large-scale projects that end up delayed or cancelled.</desc>
     <category lang="en">Documentary</category>
     <episode-num system="xmltv_ns">0.0.</episode-num>
     <episode-num system="onscreen">S1E1</episode-num>
   </programme>
   <programme start="20260325074800 +0000" stop="20260325080300 +0000" channel="dw.unifitv">
     <title lang="en">Shift</title>
-    <desc lang="en">Shift</desc>
+    <desc lang="en">AI-enhanced drones are transforming warfare and how security agencies work. In Mexico, the police are using armed drones against cartels. In Ghana, authorities are using drones and AI to track down illegal gold mines.</desc>
     <category lang="en">Magazine</category>
     <episode-num system="xmltv_ns">0.0.</episode-num>
     <episode-num system="onscreen">S1E1</episode-num>
@@ -14397,14 +14397,14 @@
   </programme>
   <programme start="20260325101800 +0000" stop="20260325104800 +0000" channel="dw.unifitv">
     <title lang="en">Close up</title>
-    <desc lang="en">The weekly half-hour program delivers in-depth reporting on topical political issues and newsworthy events. Revealing the story behind the stories, "Close up" is informative, gripping and visually powerful.</desc>
+    <desc lang="en">If you dominate EV battery manufacturing, you dominate electromobility. China is building one gigafactory after another, while Europe struggles with political uncertainty, lack of know-how, and large-scale projects that end up delayed or cancelled.</desc>
     <category lang="en">Documentary</category>
     <episode-num system="xmltv_ns">0.0.</episode-num>
     <episode-num system="onscreen">S1E1</episode-num>
   </programme>
   <programme start="20260325104800 +0000" stop="20260325110300 +0000" channel="dw.unifitv">
     <title lang="en">Shift</title>
-    <desc lang="en">Shift</desc>
+    <desc lang="en">AI-enhanced drones are transforming warfare and how security agencies work. In Mexico, the police are using armed drones against cartels. In Ghana, authorities are using drones and AI to track down illegal gold mines.</desc>
     <category lang="en">Magazine</category>
     <episode-num system="xmltv_ns">0.0.</episode-num>
     <episode-num system="onscreen">S1E1</episode-num>
@@ -14425,7 +14425,7 @@
   </programme>
   <programme start="20260325113300 +0000" stop="20260325120300 +0000" channel="dw.unifitv">
     <title lang="en">Made in Germany</title>
-    <desc lang="en">Made in Germany</desc>
+    <desc lang="en">From Venezuela's extra heavy crude oil to Trump's focus on Greenland's rare earths to Germany's F60 steel giants and illegal gold mines in Indonesia: How raw materials impact landscapes, people, and politics.</desc>
     <category lang="en">Magazine</category>
     <episode-num system="xmltv_ns">0.0.</episode-num>
     <episode-num system="onscreen">S1E1</episode-num>
@@ -14466,8 +14466,8 @@
     <episode-num system="onscreen">S1E1</episode-num>
   </programme>
   <programme start="20260325131800 +0000" stop="20260325133300 +0000" channel="dw.unifitv">
-    <title lang="en">Best of DW-online Content</title>
-    <desc lang="en">Best of DW-online Content</desc>
+    <title lang="en">Mapped Out</title>
+    <desc lang="en">The remote island group of Svalbard - it is NATO territory but a hundred-year-old treaty grants access to dozens of countries - including Russia. And Russia is using it to build up a strategic foothold in the Arctic.</desc>
     <category lang="en">Documentary</category>
     <episode-num system="xmltv_ns">0.0.</episode-num>
     <episode-num system="onscreen">S1E1</episode-num>

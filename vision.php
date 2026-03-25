@@ -634,12 +634,6 @@
 <programme start="20260325090000 +0000" stop="20260325110000 +0000" channel="ANTV.vision">
 <title>Vasudha</title>
 </programme>
-<programme start="20260325110000 +0000" stop="20260325130000 +0000" channel="ANTV.vision">
-<title>Menggapai Matahari</title>
-</programme>
-<programme start="20260325130000 +0000" stop="20260325143000 +0000" channel="ANTV.vision">
-<title>Ratu Ilmu Hitam</title>
-</programme>
 <programme start="20260325143000 +0000" stop="20260325163000 +0000" channel="ANTV.vision">
 <title>Kuntilanak 3: Keris Pusaka</title>
 </programme>
@@ -1497,4 +1491,10 @@
 </programme>
 <programme start="20260325034000 +0000" stop="20260325051500 +0000" channel="MDTV.vision">
 <title>Cinta Fitri S6</title>
+</programme>
+<programme start="20260325051500 +0000" stop="20260325063500 +0000" channel="MDTV.vision">
+<title>Makandunia</title>
+</programme>
+<programme start="20260325063500 +0000" stop="20260325080500 +0000" channel="MDTV.vision">
+<title>Makan Enak</title>
 </programme>

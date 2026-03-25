@@ -8947,7 +8947,54 @@
 <programme start="20260325163000 +0000" stop="20260324170000 +0000" channel="Trans TV.mncvision">
     <title>Bioskop Trans TV</title>
 </programme>
-Error: Unable to fetch data. HTTP Status Code: 500
+<programme start="20260324175000 +0000" stop="20260324185000 +0000" channel="tvN.mncvision">
+    <title>Walking Through Village, Ep 7</title>
+</programme>
+<programme start="20260324185000 +0000" stop="20260324202000 +0000" channel="tvN.mncvision">
+    <title>The Judge Returns, Ep 1</title>
+</programme>
+<programme start="20260324202000 +0000" stop="20260324220000 +0000" channel="tvN.mncvision">
+    <title>The Genius Paik S3, Ep 6</title>
+</programme>
+<programme start="20260324220000 +0000" stop="20260324233000 +0000" channel="tvN.mncvision">
+    <title>I-Land S2: N/A, Ep 7</title>
+</programme>
+<programme start="20260324233000 +0000" stop="20260325011000 +0000" channel="tvN.mncvision">
+    <title>Handsome Guys, Ep 13</title>
+</programme>
+<programme start="20260325011000 +0000" stop="20260325030000 +0000" channel="tvN.mncvision">
+    <title>The Village Barber, Ep 6</title>
+</programme>
+<programme start="20260325030000 +0000" stop="20260325043000 +0000" channel="tvN.mncvision">
+    <title>The Judge Returns, Ep 1</title>
+</programme>
+<programme start="20260325043000 +0000" stop="20260325060000 +0000" channel="tvN.mncvision">
+    <title>Curtain Up, Class!, Ep 4</title>
+</programme>
+<programme start="20260325060000 +0000" stop="20260325072000 +0000" channel="tvN.mncvision">
+    <title>Crazy Tour, Ep 1</title>
+</programme>
+<programme start="20260325072000 +0000" stop="20260325090500 +0000" channel="tvN.mncvision">
+    <title>Handsome Guys, Ep 13</title>
+</programme>
+<programme start="20260325090500 +0000" stop="20260325100000 +0000" channel="tvN.mncvision">
+    <title>Walking Through Village, Ep 7</title>
+</programme>
+<programme start="20260325100000 +0000" stop="20260325114000 +0000" channel="tvN.mncvision">
+    <title>The Genius Paik S3, Ep 6</title>
+</programme>
+<programme start="20260325114000 +0000" stop="20260325131000 +0000" channel="tvN.mncvision">
+    <title>The Judge Returns, Ep 1</title>
+</programme>
+<programme start="20260325131000 +0000" stop="20260325143000 +0000" channel="tvN.mncvision">
+    <title>The Judge Returns, Ep 2</title>
+</programme>
+<programme start="20260325143000 +0000" stop="20260325162000 +0000" channel="tvN.mncvision">
+    <title>The Village Barber, Ep 7</title>
+</programme>
+<programme start="20260325162000 +0000" stop="20260325165000 +0000" channel="tvN.mncvision">
+    <title>Villains, Ep 3</title>
+</programme>
 <programme start="20260324175000 +0000" stop="20260324185000 +0000" channel="tvN HD.mncvision">
     <title>Walking Through Village, Ep 7</title>
 </programme>
