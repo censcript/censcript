@@ -58,10 +58,6 @@
     <title>Football: Manchester City FC - Real Madrid CF</title>
     <desc>Live: Tidak</desc>
 </programme>
-<programme start="20260326050000 +0700" stop="20260326053000 +0700" channel="COSMOTE Sport 2 HD">
-    <title>Serie A Full Impact 2025-26 E30</title>
-    <desc>Live: Tidak</desc>
-</programme>
 <programme start="20260326053000 +0700" stop="20260326074000 +0700" channel="COSMOTE Sport 2 HD">
     <title>Football: Volos NPS - PAOK</title>
     <desc>Live: Tidak</desc>
@@ -174,10 +170,6 @@
     <title>Football: Rangers FC - Aberdeen</title>
     <desc>Live: Tidak</desc>
 </programme>
-<programme start="20260326033000 +0700" stop="20260326060000 +0700" channel="COSMOTE Sport 4 HD">
-    <title>Basketball: Phoenix Suns - Denver Nuggets</title>
-    <desc>Live: Tidak</desc>
-</programme>
 <programme start="20260326060000 +0700" stop="20260326090000 +0700" channel="COSMOTE Sport 4 HD">
     <title>Basketball: Detroit Pistons - Atlanta Hawks (L)</title>
     <desc>Live: Ya</desc>
@@ -222,9 +214,9 @@
     <title>Basketball: Minnesota Timberwolves - Houston Rockets</title>
     <desc>Live: Tidak</desc>
 </programme>
-<programme start="20260326045000 +0700" stop="20260326055500 +0700" channel="COSMOTE Sport 5 HD">
-    <title>ERC 2025</title>
-    <desc>Live: Tidak</desc>
+<programme start="20260327060000 +0700" stop="20260327090000 +0700" channel="COSMOTE Sport 4 HD">
+    <title>Basketball: Charlotte Hornets - New York Knicks (L)</title>
+    <desc>Live: Ya</desc>
 </programme>
 <programme start="20260326055500 +0700" stop="20260326062500 +0700" channel="COSMOTE Sport 5 HD">
     <title>ERC 2025</title>
@@ -306,6 +298,10 @@
     <title>WRC 2026</title>
     <desc>Live: Tidak</desc>
 </programme>
+<programme start="20260327062500 +0700" stop="20260327072500 +0700" channel="COSMOTE Sport 5 HD">
+    <title>WRC</title>
+    <desc>Live: Tidak</desc>
+</programme>
 <programme start="20260326050000 +0700" stop="20260326064500 +0700" channel="COSMOTE Sport 6 HD">
     <title>Handball: MT Melsungen - VfL Gummersbach</title>
     <desc>Live: Tidak</desc>
@@ -353,6 +349,10 @@
 <programme start="20260327033000 +0700" stop="20260327060000 +0700" channel="COSMOTE Sport 6 HD">
     <title>Volleyball: Panathinaikos - Vallefoglia</title>
     <desc>Live: Tidak</desc>
+</programme>
+<programme start="20260327060000 +0700" stop="20260327083000 +0700" channel="COSMOTE Sport 6 HD">
+    <title>Tennis: ATP Masters 1000 2026 (L)</title>
+    <desc>Live: Ya</desc>
 </programme>
 <programme start="20260326050000 +0700" stop="20260326070000 +0700" channel="COSMOTE Sport 7 HD">
     <title>COSMOTESport7HD</title>
