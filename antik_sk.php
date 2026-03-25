@@ -1528,51 +1528,6 @@
   <programme start="20260327225500 +0000" stop="20260328005000 +0000" channel="JOJ Cinema.webtv.sk">
     <title lang="id">Somálski piráti</title>
   </programme>
-  <programme start="20260326221500 +0000" stop="20260326234500 +0000" channel="JOJ Cinema +1.webtv.sk">
-    <title lang="id">Tankový prápor</title>
-  </programme>
-  <programme start="20260326234500 +0000" stop="20260327011000 +0000" channel="JOJ Cinema +1.webtv.sk">
-    <title lang="id">Nástrahy lásky 2</title>
-  </programme>
-  <programme start="20260327011000 +0000" stop="20260327025000 +0000" channel="JOJ Cinema +1.webtv.sk">
-    <title lang="id">Háveď</title>
-  </programme>
-  <programme start="20260327025000 +0000" stop="20260327042000 +0000" channel="JOJ Cinema +1.webtv.sk">
-    <title lang="id">Doktor</title>
-  </programme>
-  <programme start="20260327042000 +0000" stop="20260327055000 +0000" channel="JOJ Cinema +1.webtv.sk">
-    <title lang="id">Bella Mia</title>
-  </programme>
-  <programme start="20260327055000 +0000" stop="20260327073000 +0000" channel="JOJ Cinema +1.webtv.sk">
-    <title lang="id">Netvor</title>
-  </programme>
-  <programme start="20260327073000 +0000" stop="20260327092500 +0000" channel="JOJ Cinema +1.webtv.sk">
-    <title lang="id">Severné more v plameňoch</title>
-  </programme>
-  <programme start="20260327092500 +0000" stop="20260327111500 +0000" channel="JOJ Cinema +1.webtv.sk">
-    <title lang="id">Dvojníci</title>
-  </programme>
-  <programme start="20260327111500 +0000" stop="20260327131000 +0000" channel="JOJ Cinema +1.webtv.sk">
-    <title lang="id">Empire Waist</title>
-  </programme>
-  <programme start="20260327131000 +0000" stop="20260327145500 +0000" channel="JOJ Cinema +1.webtv.sk">
-    <title lang="id">Daj si pohov, mladý</title>
-  </programme>
-  <programme start="20260327145500 +0000" stop="20260327165500 +0000" channel="JOJ Cinema +1.webtv.sk">
-    <title lang="id">I cesta mže byť cieľom</title>
-  </programme>
-  <programme start="20260327165500 +0000" stop="20260327182500 +0000" channel="JOJ Cinema +1.webtv.sk">
-    <title lang="id">Toto je koniec</title>
-  </programme>
-  <programme start="20260327182500 +0000" stop="20260327201500 +0000" channel="JOJ Cinema +1.webtv.sk">
-    <title lang="id">Čierni baróni</title>
-  </programme>
-  <programme start="20260327201500 +0000" stop="20260327221000 +0000" channel="JOJ Cinema +1.webtv.sk">
-    <title lang="id">Elyas</title>
-  </programme>
-  <programme start="20260327221000 +0000" stop="20260327235500 +0000" channel="JOJ Cinema +1.webtv.sk">
-    <title lang="id">Ochranca</title>
-  </programme>
   <programme start="20260326230000 +0000" stop="20260326233000 +0000" channel="TA3.webtv.sk">
     <title lang="id">Téma/Štúdio TA3</title>
   </programme>
@@ -5271,57 +5226,6 @@
   </programme>
   <programme start="20260327220000 +0000" stop="20260327230000 +0000" channel="Eurosport 1.webtv.sk">
     <title lang="id">Skoky na lyžích: SP v Planici</title>
-  </programme>
-  <programme start="20260326230000 +0000" stop="20260327003000 +0000" channel="Eurosport 2.webtv.sk">
-    <title lang="id">Cyklistika: Okolo Katalánska</title>
-  </programme>
-  <programme start="20260327003000 +0000" stop="20260327020000 +0000" channel="Eurosport 2.webtv.sk">
-    <title lang="id">Snooker: World Grand Prix</title>
-  </programme>
-  <programme start="20260327020000 +0000" stop="20260327023000 +0000" channel="Eurosport 2.webtv.sk">
-    <title lang="id">Skoky na lyžích: SP v Planici</title>
-  </programme>
-  <programme start="20260327023000 +0000" stop="20260327033000 +0000" channel="Eurosport 2.webtv.sk">
-    <title lang="id">Formule: Formule E v Jaramě</title>
-  </programme>
-  <programme start="20260327033000 +0000" stop="20260327050000 +0000" channel="Eurosport 2.webtv.sk">
-    <title lang="id">Cyklistika: Okolo Katalánska</title>
-  </programme>
-  <programme start="20260327050000 +0000" stop="20260327063000 +0000" channel="Eurosport 2.webtv.sk">
-    <title lang="id">Snooker: World Grand Prix</title>
-  </programme>
-  <programme start="20260327063000 +0000" stop="20260327073000 +0000" channel="Eurosport 2.webtv.sk">
-    <title lang="id">Formule: Formule E v Jaramě</title>
-  </programme>
-  <programme start="20260327073000 +0000" stop="20260327090000 +0000" channel="Eurosport 2.webtv.sk">
-    <title lang="id">Cyklistika: Okolo Katalánska</title>
-  </programme>
-  <programme start="20260327090000 +0000" stop="20260327100000 +0000" channel="Eurosport 2.webtv.sk">
-    <title lang="id">Skoky na lyžích: SP v Planici</title>
-  </programme>
-  <programme start="20260327100000 +0000" stop="20260327110000 +0000" channel="Eurosport 2.webtv.sk">
-    <title lang="id">Formule: Formule E v Jaramě</title>
-  </programme>
-  <programme start="20260327110000 +0000" stop="20260327120000 +0000" channel="Eurosport 2.webtv.sk">
-    <title lang="id">Cyklistika: Okolo Katalánska</title>
-  </programme>
-  <programme start="20260327120000 +0000" stop="20260327131500 +0000" channel="Eurosport 2.webtv.sk">
-    <title lang="id">Cyklistika: Tour of Bruges</title>
-  </programme>
-  <programme start="20260327131500 +0000" stop="20260327150000 +0000" channel="Eurosport 2.webtv.sk">
-    <title lang="id">Cyklistika: Okolo Katalánska</title>
-  </programme>
-  <programme start="20260327150000 +0000" stop="20260327164500 +0000" channel="Eurosport 2.webtv.sk">
-    <title lang="id">Cyklistika: E3 Classic</title>
-  </programme>
-  <programme start="20260327164500 +0000" stop="20260327180000 +0000" channel="Eurosport 2.webtv.sk">
-    <title lang="id">Cyklistika: Okolo Katalánska</title>
-  </programme>
-  <programme start="20260327180000 +0000" stop="20260327190000 +0000" channel="Eurosport 2.webtv.sk">
-    <title lang="id">Skoky na lyžích: SP v Planici</title>
-  </programme>
-  <programme start="20260327190000 +0000" stop="20260327230000 +0000" channel="Eurosport 2.webtv.sk">
-    <title lang="id">Golf: PGA Tour</title>
   </programme>
   <programme start="20260326230000 +0000" stop="20260327010000 +0000" channel="Sport 1.webtv.sk">
     <title lang="id">Fotbal</title>

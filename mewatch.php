@@ -421,10 +421,10 @@
     <programme start="20260325110000 +0000" stop="20260325120000 +0000" channel="Suria.mewatch">
         <title>Bunga Salju - EP 22</title>
     </programme>
-    <programme start="20260325120000 +0000" stop="20260325123000 +0000" channel="Suria.mewatch">
+    <programme start="20260325120000 +0000" stop="20260325122900 +0000" channel="Suria.mewatch">
         <title>(Live) Berita</title>
     </programme>
-    <programme start="20260325123000 +0000" stop="20260325130000 +0000" channel="Suria.mewatch">
+    <programme start="20260325122900 +0000" stop="20260325130000 +0000" channel="Suria.mewatch">
         <title>Detik Khas - EP 5</title>
     </programme>
     <programme start="20260325130000 +0000" stop="20260325133000 +0000" channel="Suria.mewatch">

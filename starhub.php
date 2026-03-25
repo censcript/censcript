@@ -1955,7 +1955,7 @@
         <title>MUTV: Treble Twenty Man Utd vs Tottenham</title>
     </programme>
     <programme start="20260324170500 +0000" stop="20260324190000 +0000" channel="beIN Sports 3.starhub">
-        <title>TotalEnergies Africa Cup of Nations, Morocco 2025: Ivory Coast vs Mozambique - G</title>
+        <title>TotalEnergies Africa Cup of Nations, Morocco 2025: Ivory Coast vs Mozambique - Group Stage</title>
     </programme>
     <programme start="20260324190000 +0000" stop="20260324205000 +0000" channel="beIN Sports 3.starhub">
         <title>Pacific Nations Cup 2025: Tonga vs Samoa</title>
@@ -3205,10 +3205,10 @@
     <programme start="20260324183000 +0000" stop="20260324190000 +0000" channel="DW English HD.starhub">
         <title>Uganda&#039;s urban water fix: low-cost tech that cleans groundwater</title>
     </programme>
-    <programme start="20260324190000 +0000" stop="20260324190200 +0000" channel="DW English HD.starhub">
+    <programme start="20260324190000 +0000" stop="20260324190300 +0000" channel="DW English HD.starhub">
         <title>News</title>
     </programme>
-    <programme start="20260324190200 +0000" stop="20260324191500 +0000" channel="DW English HD.starhub">
+    <programme start="20260324190300 +0000" stop="20260324191500 +0000" channel="DW English HD.starhub">
         <title>News</title>
     </programme>
     <programme start="20260324191500 +0000" stop="20260324193000 +0000" channel="DW English HD.starhub">
@@ -3223,10 +3223,10 @@
     <programme start="20260324203000 +0000" stop="20260324210000 +0000" channel="DW English HD.starhub">
         <title>News in Review</title>
     </programme>
-    <programme start="20260324210000 +0000" stop="20260324210200 +0000" channel="DW English HD.starhub">
+    <programme start="20260324210000 +0000" stop="20260324210300 +0000" channel="DW English HD.starhub">
         <title>News</title>
     </programme>
-    <programme start="20260324210200 +0000" stop="20260324211500 +0000" channel="DW English HD.starhub">
+    <programme start="20260324210300 +0000" stop="20260324211500 +0000" channel="DW English HD.starhub">
         <title>News</title>
     </programme>
     <programme start="20260324211500 +0000" stop="20260324214500 +0000" channel="DW English HD.starhub">
