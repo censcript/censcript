@@ -1955,7 +1955,7 @@
         <title>MUTV: Treble Twenty Man Utd vs Tottenham</title>
     </programme>
     <programme start="20260324170500 +0000" stop="20260324190000 +0000" channel="beIN Sports 3.starhub">
-        <title>TotalEnergies Africa Cup of Nations, Morocco 2025: Ivory Coast vs Mozambique - Group Stage</title>
+        <title>TotalEnergies Africa Cup of Nations, Morocco 2025: Ivory Coast vs Mozambique - G</title>
     </programme>
     <programme start="20260324190000 +0000" stop="20260324205000 +0000" channel="beIN Sports 3.starhub">
         <title>Pacific Nations Cup 2025: Tonga vs Samoa</title>
@@ -7993,10 +7993,10 @@
     <programme start="20260324170000 +0000" stop="20260324193000 +0000" channel="Asianet Movies.starhub">
         <title>Kadhalikka Neramillai</title>
     </programme>
-    <programme start="20260324193000 +0000" stop="20260324213000 +0000" channel="Asianet Movies.starhub">
+    <programme start="20260324193000 +0000" stop="20260324215000 +0000" channel="Asianet Movies.starhub">
         <title>Vismayathumbathu</title>
     </programme>
-    <programme start="20260324213000 +0000" stop="20260324233000 +0000" channel="Asianet Movies.starhub">
+    <programme start="20260324215000 +0000" stop="20260324232000 +0000" channel="Asianet Movies.starhub">
         <title>Kilipoyi</title>
     </programme>
     <programme start="20260324232000 +0000" stop="20260325013000 +0000" channel="Asianet Movies.starhub">

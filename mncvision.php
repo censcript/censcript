@@ -25,38 +25,41 @@
 <programme start="20260325025000 +0000" stop="20260325030500 +0000" channel="ABC Australia.mncvision">
     <title>Media Watch</title>
 </programme>
-<programme start="20260325030500 +0000" stop="20260325033500 +0000" channel="ABC Australia.mncvision">
+<programme start="20260325030500 +0000" stop="20260325034000 +0000" channel="ABC Australia.mncvision">
     <title>Dr. Karl&#039;s How Things Work</title>
 </programme>
-<programme start="20260325033500 +0000" stop="20260325043000 +0000" channel="ABC Australia.mncvision">
+<programme start="20260325034000 +0000" stop="20260325043500 +0000" channel="ABC Australia.mncvision">
     <title>Grand Designs Transformations</title>
 </programme>
-<programme start="20260325043000 +0000" stop="20260325050500 +0000" channel="ABC Australia.mncvision">
+<programme start="20260325043500 +0000" stop="20260325050500 +0000" channel="ABC Australia.mncvision">
     <title>Dream Gardens</title>
 </programme>
 <programme start="20260325050500 +0000" stop="20260325060000 +0000" channel="ABC Australia.mncvision">
     <title>Iconic Australia</title>
 </programme>
-<programme start="20260325060000 +0000" stop="20260325070000 +0000" channel="ABC Australia.mncvision">
-    <title>ABC News With Joe O&#039;Brien</title>
+<programme start="20260325060000 +0000" stop="20260325065500 +0000" channel="ABC Australia.mncvision">
+    <title>Wang Gungwu Lecture 2026</title>
 </programme>
-<programme start="20260325070000 +0000" stop="20260325073000 +0000" channel="ABC Australia.mncvision">
+<programme start="20260325065500 +0000" stop="20260325072500 +0000" channel="ABC Australia.mncvision">
     <title>Play On</title>
 </programme>
-<programme start="20260325073000 +0000" stop="20260325080000 +0000" channel="ABC Australia.mncvision">
+<programme start="20260325072500 +0000" stop="20260325075500 +0000" channel="ABC Australia.mncvision">
     <title>That Pacific Sports Show</title>
 </programme>
-<programme start="20260325080000 +0000" stop="20260325083000 +0000" channel="ABC Australia.mncvision">
-    <title>ABC National News</title>
+<programme start="20260325075500 +0000" stop="20260325082500 +0000" channel="ABC Australia.mncvision">
+    <title>The Pacific</title>
 </programme>
-<programme start="20260325083000 +0000" stop="20260325090000 +0000" channel="ABC Australia.mncvision">
-    <title>7.30</title>
+<programme start="20260325082500 +0000" stop="20260325085500 +0000" channel="ABC Australia.mncvision">
+    <title>Foreign Correspondent</title>
 </programme>
-<programme start="20260325090000 +0000" stop="20260325100000 +0000" channel="ABC Australia.mncvision">
+<programme start="20260325085500 +0000" stop="20260325095500 +0000" channel="ABC Australia.mncvision">
     <title>Grand Designs Transformations</title>
 </programme>
-<programme start="20260325100000 +0000" stop="20260325105500 +0000" channel="ABC Australia.mncvision">
-    <title>The World</title>
+<programme start="20260325095500 +0000" stop="20260325102500 +0000" channel="ABC Australia.mncvision">
+    <title>Foreign Correspondent</title>
+</programme>
+<programme start="20260325102500 +0000" stop="20260325105500 +0000" channel="ABC Australia.mncvision">
+    <title>Planet America</title>
 </programme>
 <programme start="20260325105500 +0000" stop="20260325114500 +0000" channel="ABC Australia.mncvision">
     <title>Four Corners</title>
@@ -64,22 +67,16 @@
 <programme start="20260325114500 +0000" stop="20260325120500 +0000" channel="ABC Australia.mncvision">
     <title>Media Watch</title>
 </programme>
-<programme start="20260325120500 +0000" stop="20260325130000 +0000" channel="ABC Australia.mncvision">
+<programme start="20260325120500 +0000" stop="20260325125500 +0000" channel="ABC Australia.mncvision">
     <title>Iconic Australia</title>
 </programme>
-<programme start="20260325130000 +0000" stop="20260325131500 +0000" channel="ABC Australia.mncvision">
-    <title>ABC Late News</title>
+<programme start="20260325125500 +0000" stop="20260325142500 +0000" channel="ABC Australia.mncvision">
+    <title>Diabolical: The Epstein Files</title>
 </programme>
-<programme start="20260325131500 +0000" stop="20260325133000 +0000" channel="ABC Australia.mncvision">
-    <title>The Business</title>
+<programme start="20260325142500 +0000" stop="20260325145500 +0000" channel="ABC Australia.mncvision">
+    <title>Foreign Correspondent</title>
 </programme>
-<programme start="20260325133000 +0000" stop="20260325140000 +0000" channel="ABC Australia.mncvision">
-    <title>7.30</title>
-</programme>
-<programme start="20260325140000 +0000" stop="20260325150000 +0000" channel="ABC Australia.mncvision">
-    <title>The World</title>
-</programme>
-<programme start="20260325150000 +0000" stop="20260325155500 +0000" channel="ABC Australia.mncvision">
+<programme start="20260325145500 +0000" stop="20260325155500 +0000" channel="ABC Australia.mncvision">
     <title>Grand Designs Transformations</title>
 </programme>
 <programme start="20260325155500 +0000" stop="20260325162500 +0000" channel="ABC Australia.mncvision">
@@ -88,7 +85,120 @@
 <programme start="20260325162500 +0000" stop="20260325165500 +0000" channel="ABC Australia.mncvision">
     <title>Four Corners</title>
 </programme>
-Error: Unable to fetch data. HTTP Status Code: 500
+<programme start="20260324170000 +0000" stop="20260324173000 +0000" channel="Al Jazeera English.mncvision">
+    <title>News (L)</title>
+</programme>
+<programme start="20260324173000 +0000" stop="20260324180000 +0000" channel="Al Jazeera English.mncvision">
+    <title>Inside Story</title>
+</programme>
+<programme start="20260324180000 +0000" stop="20260324190000 +0000" channel="Al Jazeera English.mncvision">
+    <title>NewsHour</title>
+</programme>
+<programme start="20260324190000 +0000" stop="20260324193000 +0000" channel="Al Jazeera English.mncvision">
+    <title>News (L)</title>
+</programme>
+<programme start="20260324193000 +0000" stop="20260324200000 +0000" channel="Al Jazeera English.mncvision">
+    <title>UpFront</title>
+</programme>
+<programme start="20260324200000 +0000" stop="20260324210000 +0000" channel="Al Jazeera English.mncvision">
+    <title>NewsHour</title>
+</programme>
+<programme start="20260324210000 +0000" stop="20260324220000 +0000" channel="Al Jazeera English.mncvision">
+    <title>NewsHour</title>
+</programme>
+<programme start="20260324220000 +0000" stop="20260324230000 +0000" channel="Al Jazeera English.mncvision">
+    <title>NewsHour</title>
+</programme>
+<programme start="20260324230000 +0000" stop="20260324233000 +0000" channel="Al Jazeera English.mncvision">
+    <title>News (L)</title>
+</programme>
+<programme start="20260324233000 +0000" stop="20260325000000 +0000" channel="Al Jazeera English.mncvision">
+    <title>Inside Story</title>
+</programme>
+<programme start="20260325000000 +0000" stop="20260325010000 +0000" channel="Al Jazeera English.mncvision">
+    <title>NewsHour</title>
+</programme>
+<programme start="20260325010000 +0000" stop="20260325020000 +0000" channel="Al Jazeera English.mncvision">
+    <title>Blood, Sweat &amp; Sugar</title>
+</programme>
+<programme start="20260325020000 +0000" stop="20260325023000 +0000" channel="Al Jazeera English.mncvision">
+    <title>News (L)</title>
+</programme>
+<programme start="20260325023000 +0000" stop="20260325030000 +0000" channel="Al Jazeera English.mncvision">
+    <title>Talk To Al Jazeera: Araghchi</title>
+</programme>
+<programme start="20260325030000 +0000" stop="20260325033000 +0000" channel="Al Jazeera English.mncvision">
+    <title>News (L)</title>
+</programme>
+<programme start="20260325033000 +0000" stop="20260325040000 +0000" channel="Al Jazeera English.mncvision">
+    <title>Witness: The Volunteer</title>
+</programme>
+<programme start="20260325040000 +0000" stop="20260325043000 +0000" channel="Al Jazeera English.mncvision">
+    <title>News (L)</title>
+</programme>
+<programme start="20260325043000 +0000" stop="20260325050000 +0000" channel="Al Jazeera English.mncvision">
+    <title>UpFront</title>
+</programme>
+<programme start="20260325050000 +0000" stop="20260325053000 +0000" channel="Al Jazeera English.mncvision">
+    <title>News (L)</title>
+</programme>
+<programme start="20260325053000 +0000" stop="20260325060000 +0000" channel="Al Jazeera English.mncvision">
+    <title>Inside Story</title>
+</programme>
+<programme start="20260325060000 +0000" stop="20260325063000 +0000" channel="Al Jazeera English.mncvision">
+    <title>News (L)</title>
+</programme>
+<programme start="20260325063000 +0000" stop="20260325070000 +0000" channel="Al Jazeera English.mncvision">
+    <title>Counting The Cost</title>
+</programme>
+<programme start="20260325070000 +0000" stop="20260325073000 +0000" channel="Al Jazeera English.mncvision">
+    <title>News (L)</title>
+</programme>
+<programme start="20260325073000 +0000" stop="20260325080000 +0000" channel="Al Jazeera English.mncvision">
+    <title>Reframe: Varsha Gandikota</title>
+</programme>
+<programme start="20260325080000 +0000" stop="20260325083000 +0000" channel="Al Jazeera English.mncvision">
+    <title>News (L)</title>
+</programme>
+<programme start="20260325083000 +0000" stop="20260325090000 +0000" channel="Al Jazeera English.mncvision">
+    <title>The Stream</title>
+</programme>
+<programme start="20260325090000 +0000" stop="20260325093000 +0000" channel="Al Jazeera English.mncvision">
+    <title>News (L)</title>
+</programme>
+<programme start="20260325093000 +0000" stop="20260325100000 +0000" channel="Al Jazeera English.mncvision">
+    <title>Making Peace: Elephant Knows</title>
+</programme>
+<programme start="20260325100000 +0000" stop="20260325110000 +0000" channel="Al Jazeera English.mncvision">
+    <title>NewsHour</title>
+</programme>
+<programme start="20260325110000 +0000" stop="20260325113000 +0000" channel="Al Jazeera English.mncvision">
+    <title>News (L)</title>
+</programme>
+<programme start="20260325113000 +0000" stop="20260325120000 +0000" channel="Al Jazeera English.mncvision">
+    <title>Inside Story</title>
+</programme>
+<programme start="20260325120000 +0000" stop="20260325130000 +0000" channel="Al Jazeera English.mncvision">
+    <title>Al Jazeera World: Nuseirat 274</title>
+</programme>
+<programme start="20260325130000 +0000" stop="20260325140000 +0000" channel="Al Jazeera English.mncvision">
+    <title>NewsHour</title>
+</programme>
+<programme start="20260325140000 +0000" stop="20260325143000 +0000" channel="Al Jazeera English.mncvision">
+    <title>News (L)</title>
+</programme>
+<programme start="20260325143000 +0000" stop="20260325150000 +0000" channel="Al Jazeera English.mncvision">
+    <title>The Listening Post</title>
+</programme>
+<programme start="20260325150000 +0000" stop="20260325160000 +0000" channel="Al Jazeera English.mncvision">
+    <title>NewsHour</title>
+</programme>
+<programme start="20260325160000 +0000" stop="20260325163000 +0000" channel="Al Jazeera English.mncvision">
+    <title>News (L)</title>
+</programme>
+<programme start="20260325163000 +0000" stop="20260324170000 +0000" channel="Al Jazeera English.mncvision">
+    <title>The Bottom Line</title>
+</programme>
 <programme start="20260324170000 +0000" stop="20260324190000 +0000" channel="Al Quran Al Kareem.mncvision">
     <title>Live From Mekkah</title>
 </programme>
@@ -953,7 +1063,10 @@ Error: Unable to fetch data. HTTP Status Code: 500
 <programme start="20260325071000 +0000" stop="20260325090000 +0000" channel="beIN Sports 1.mncvision">
     <title>CAF Champions: ALY Vs TUN</title>
 </programme>
-<programme start="20260325090000 +0000" stop="20260325102500 +0000" channel="beIN Sports 1.mncvision">
+<programme start="20260325090000 +0000" stop="20260325092500 +0000" channel="beIN Sports 1.mncvision">
+    <title>LaLiga Goals Galore 2024/25</title>
+</programme>
+<programme start="20260325092500 +0000" stop="20260325102500 +0000" channel="beIN Sports 1.mncvision">
     <title>FIA World Rally C&#039;ship 2026</title>
 </programme>
 <programme start="20260325102500 +0000" stop="20260325110000 +0000" channel="beIN Sports 1.mncvision">
@@ -1001,7 +1114,10 @@ Error: Unable to fetch data. HTTP Status Code: 500
 <programme start="20260325071000 +0000" stop="20260325090000 +0000" channel="beIN Sports 1 HD.mncvision">
     <title>CAF Champions: ALY Vs TUN</title>
 </programme>
-<programme start="20260325090000 +0000" stop="20260325102500 +0000" channel="beIN Sports 1 HD.mncvision">
+<programme start="20260325090000 +0000" stop="20260325092500 +0000" channel="beIN Sports 1 HD.mncvision">
+    <title>LaLiga Goals Galore 2024/25</title>
+</programme>
+<programme start="20260325092500 +0000" stop="20260325102500 +0000" channel="beIN Sports 1 HD.mncvision">
     <title>FIA World Rally C&#039;ship 2026</title>
 </programme>
 <programme start="20260325102500 +0000" stop="20260325110000 +0000" channel="beIN Sports 1 HD.mncvision">
@@ -1172,7 +1288,57 @@ Error: Unable to fetch data. HTTP Status Code: 500
 <programme start="20260325153000 +0000" stop="20260325160000 +0000" channel="beIN Sports 2 HD.mncvision">
     <title>Premier Padel 2026: Miami (L)</title>
 </programme>
-Error: Unable to fetch data. HTTP Status Code: 500
+<programme start="20260324170500 +0000" stop="20260324190000 +0000" channel="beIN Sports 3.mncvision">
+    <title>AFCON 2025: CIV Vs MOZ</title>
+</programme>
+<programme start="20260324190000 +0000" stop="20260324205000 +0000" channel="beIN Sports 3.mncvision">
+    <title>Pacific Nations Cup: TGA Vs SAM</title>
+</programme>
+<programme start="20260324205000 +0000" stop="20260324210000 +0000" channel="beIN Sports 3.mncvision">
+    <title>UCL Classic Matches: BAR Vs LYO</title>
+</programme>
+<programme start="20260324210000 +0000" stop="20260324220000 +0000" channel="beIN Sports 3.mncvision">
+    <title>MUTV Specials: Jimmy Murphy</title>
+</programme>
+<programme start="20260324220000 +0000" stop="20260324230000 +0000" channel="beIN Sports 3.mncvision">
+    <title>SailGP Highlights 2026: Sydney</title>
+</programme>
+<programme start="20260324230000 +0000" stop="20260325010000 +0000" channel="beIN Sports 3.mncvision">
+    <title>TGL 2026: L.A. Vs Jupiter (L)</title>
+</programme>
+<programme start="20260325010000 +0000" stop="20260325030000 +0000" channel="beIN Sports 3.mncvision">
+    <title>TGL 2026: L.A. Vs Jupiter (L)</title>
+</programme>
+<programme start="20260325030000 +0000" stop="20260325050000 +0000" channel="beIN Sports 3.mncvision">
+    <title>UECL 2025/26: RAK Vs FIO</title>
+</programme>
+<programme start="20260325050000 +0000" stop="20260325070000 +0000" channel="beIN Sports 3.mncvision">
+    <title>UEL 2025/26: BRA Vs FTC</title>
+</programme>
+<programme start="20260325070000 +0000" stop="20260325090000 +0000" channel="beIN Sports 3.mncvision">
+    <title>TGL 2026: Los Angeles Vs Jupiter</title>
+</programme>
+<programme start="20260325090000 +0000" stop="20260325100000 +0000" channel="beIN Sports 3.mncvision">
+    <title>UEL/UECL Highlights 2025/26</title>
+</programme>
+<programme start="20260325100000 +0000" stop="20260325120000 +0000" channel="beIN Sports 3.mncvision">
+    <title>UWCL 2025/26: WOB Vs LYO</title>
+</programme>
+<programme start="20260325120000 +0000" stop="20260325140000 +0000" channel="beIN Sports 3.mncvision">
+    <title>UWCL 2025/26: ARS Vs CHE</title>
+</programme>
+<programme start="20260325140000 +0000" stop="20260325143000 +0000" channel="beIN Sports 3.mncvision">
+    <title>Rolex Invitational Cup 2025</title>
+</programme>
+<programme start="20260325143000 +0000" stop="20260325145000 +0000" channel="beIN Sports 3.mncvision">
+    <title>MUTV One Love: Flying High</title>
+</programme>
+<programme start="20260325145000 +0000" stop="20260325165000 +0000" channel="beIN Sports 3.mncvision">
+    <title>UCI World Tour 2026 (L)</title>
+</programme>
+<programme start="20260325165000 +0000" stop="20260324172000 +0000" channel="beIN Sports 3.mncvision">
+    <title>MUTV Top Ten: Dimitar Berbatov</title>
+</programme>
 <programme start="20260324170500 +0000" stop="20260324190000 +0000" channel="beIN Sports 3 HD.mncvision">
     <title>AFCON 2025: CIV Vs MOZ</title>
 </programme>
@@ -1189,10 +1355,10 @@ Error: Unable to fetch data. HTTP Status Code: 500
     <title>SailGP Highlights 2026: Sydney</title>
 </programme>
 <programme start="20260324230000 +0000" stop="20260325010000 +0000" channel="beIN Sports 3 HD.mncvision">
-    <title>TGL 2026: Finals 2 (L)</title>
+    <title>TGL 2026: L.A. Vs Jupiter (L)</title>
 </programme>
 <programme start="20260325010000 +0000" stop="20260325030000 +0000" channel="beIN Sports 3 HD.mncvision">
-    <title>TGL 2026: Finals 3 (L)</title>
+    <title>TGL 2026: L.A. Vs Jupiter (L)</title>
 </programme>
 <programme start="20260325030000 +0000" stop="20260325050000 +0000" channel="beIN Sports 3 HD.mncvision">
     <title>UECL 2025/26: RAK Vs FIO</title>
@@ -1201,7 +1367,7 @@ Error: Unable to fetch data. HTTP Status Code: 500
     <title>UEL 2025/26: BRA Vs FTC</title>
 </programme>
 <programme start="20260325070000 +0000" stop="20260325090000 +0000" channel="beIN Sports 3 HD.mncvision">
-    <title>TGL 2026: Finals 3</title>
+    <title>TGL 2026: Los Angeles Vs Jupiter</title>
 </programme>
 <programme start="20260325090000 +0000" stop="20260325100000 +0000" channel="beIN Sports 3 HD.mncvision">
     <title>UEL/UECL Highlights 2025/26</title>
@@ -1317,131 +1483,122 @@ Error: Unable to fetch data. HTTP Status Code: 500
 <programme start="20260324230000 +0000" stop="20260325010000 +0000" channel="Bloomberg.mncvision">
     <title>Bloomberg Daybreak: Asia</title>
 </programme>
-<programme start="20260325010000 +0000" stop="20260325020000 +0000" channel="Bloomberg.mncvision">
-    <title>Bloomberg...: China Open</title>
+<programme start="20260325010000 +0000" stop="20260325030000 +0000" channel="Bloomberg.mncvision">
+    <title>Bloomberg: The China Show</title>
 </programme>
-<programme start="20260325020000 +0000" stop="20260325040000 +0000" channel="Bloomberg.mncvision">
-    <title>Bloomberg Markets: Asia</title>
+<programme start="20260325030000 +0000" stop="20260325050000 +0000" channel="Bloomberg.mncvision">
+    <title>Insight With Haslinda Amin</title>
 </programme>
-<programme start="20260325040000 +0000" stop="20260325060000 +0000" channel="Bloomberg.mncvision">
-    <title>Bloomberg...: Middle East</title>
+<programme start="20260325050000 +0000" stop="20260325060000 +0000" channel="Bloomberg.mncvision">
+    <title>Bloomberg Horizons</title>
 </programme>
 <programme start="20260325060000 +0000" stop="20260325070000 +0000" channel="Bloomberg.mncvision">
     <title>Bloomberg Daybreak: Europe</title>
 </programme>
-<programme start="20260325070000 +0000" stop="20260325080000 +0000" channel="Bloomberg.mncvision">
-    <title>Bloomberg Markets: Europe</title>
-</programme>
-<programme start="20260325080000 +0000" stop="20260325090000 +0000" channel="Bloomberg.mncvision">
-    <title>Bloomberg...: European Open</title>
+<programme start="20260325070000 +0000" stop="20260325090000 +0000" channel="Bloomberg.mncvision">
+    <title>Bloomberg: The Opening Trade</title>
 </programme>
 <programme start="20260325090000 +0000" stop="20260325100000 +0000" channel="Bloomberg.mncvision">
-    <title>Bloomberg Technology</title>
+    <title>The Pulse With Francine Lacqua</title>
 </programme>
-<programme start="20260325100000 +0000" stop="20260325110000 +0000" channel="Bloomberg.mncvision">
-    <title>Bloomberg Surveillance: Early</title>
-</programme>
-<programme start="20260325110000 +0000" stop="20260325120000 +0000" channel="Bloomberg.mncvision">
+<programme start="20260325100000 +0000" stop="20260325130000 +0000" channel="Bloomberg.mncvision">
     <title>Bloomberg Surveillance</title>
 </programme>
-<programme start="20260325120000 +0000" stop="20260325140000 +0000" channel="Bloomberg.mncvision">
-    <title>Bloomberg Surveillance</title>
-</programme>
-<programme start="20260325140000 +0000" stop="20260325150000 +0000" channel="Bloomberg.mncvision">
-    <title>Bloomberg: The Open</title>
+<programme start="20260325130000 +0000" stop="20260325150000 +0000" channel="Bloomberg.mncvision">
+    <title>Bloomberg Open Interest</title>
 </programme>
 <programme start="20260325150000 +0000" stop="20260325160000 +0000" channel="Bloomberg.mncvision">
-    <title>Bloomberg Markets: Americas</title>
+    <title>Bloomberg Tech</title>
 </programme>
 <programme start="20260325160000 +0000" stop="20260325163000 +0000" channel="Bloomberg.mncvision">
-    <title>Bloomberg...: European Close</title>
+    <title>Bloomberg Deals</title>
 </programme>
 <programme start="20260324173000 +0000" stop="20260324182700 +0000" channel="BTV.mncvision">
-    <title>BTV</title>
+    <title>Berita Viral</title>
 </programme>
 <programme start="20260324182700 +0000" stop="20260324183000 +0000" channel="BTV.mncvision">
-    <title>BTV</title>
+    <title>Tanah Airku</title>
 </programme>
 <programme start="20260324183000 +0000" stop="20260324203000 +0000" channel="BTV.mncvision">
-    <title>BTV</title>
+    <title>Berita Satu Utama</title>
 </programme>
 <programme start="20260324203000 +0000" stop="20260324213000 +0000" channel="BTV.mncvision">
-    <title>BTV</title>
+    <title>Spot On</title>
 </programme>
 <programme start="20260324213000 +0000" stop="20260324230000 +0000" channel="BTV.mncvision">
-    <title>BTV</title>
+    <title>Berita Satu Pagi</title>
 </programme>
 <programme start="20260324230000 +0000" stop="20260324230300 +0000" channel="BTV.mncvision">
-    <title>BTV</title>
+    <title>Indonesia Raya</title>
 </programme>
-<programme start="20260324230300 +0000" stop="20260324233000 +0000" channel="BTV.mncvision">
-    <title>BTV</title>
+<programme start="20260324230300 +0000" stop="20260325003000 +0000" channel="BTV.mncvision">
+    <title>Jalan Dakwah</title>
 </programme>
-<programme start="20260324233000 +0000" stop="20260325000000 +0000" channel="BTV.mncvision">
-    <title>BTV</title>
+<programme start="20260325003000 +0000" stop="20260325010000 +0000" channel="BTV.mncvision">
+    <title>Info Seleb</title>
 </programme>
-<programme start="20260325000000 +0000" stop="20260325010000 +0000" channel="BTV.mncvision">
-    <title>BTV</title>
+<programme start="20260325010000 +0000" stop="20260325010500 +0000" channel="BTV.mncvision">
+    <title>Berita Satu Terkini</title>
 </programme>
-<programme start="20260325010000 +0000" stop="20260325011500 +0000" channel="BTV.mncvision">
-    <title>BTV</title>
+<programme start="20260325010500 +0000" stop="20260325011500 +0000" channel="BTV.mncvision">
+    <title>Info Seleb</title>
 </programme>
 <programme start="20260325011500 +0000" stop="20260325014500 +0000" channel="BTV.mncvision">
-    <title>BTV</title>
+    <title>Kuyliner</title>
 </programme>
-<programme start="20260325014500 +0000" stop="20260325023000 +0000" channel="BTV.mncvision">
-    <title>BTV</title>
+<programme start="20260325014500 +0000" stop="20260325020000 +0000" channel="BTV.mncvision">
+    <title>Masak Ala Devina Hermawan</title>
 </programme>
-<programme start="20260325023000 +0000" stop="20260325030000 +0000" channel="BTV.mncvision">
-    <title>BTV</title>
+<programme start="20260325020000 +0000" stop="20260325020500 +0000" channel="BTV.mncvision">
+    <title>Berita Satu Terkini</title>
 </programme>
-<programme start="20260325030000 +0000" stop="20260325033000 +0000" channel="BTV.mncvision">
-    <title>BTV</title>
+<programme start="20260325020500 +0000" stop="20260325023000 +0000" channel="BTV.mncvision">
+    <title>Masak Ala Devina Hermawan</title>
+</programme>
+<programme start="20260325023000 +0000" stop="20260325033000 +0000" channel="BTV.mncvision">
+    <title>Investor Market Today</title>
 </programme>
 <programme start="20260325033000 +0000" stop="20260325040000 +0000" channel="BTV.mncvision">
-    <title>BTV</title>
+    <title>Indonesia Update Cerita Jakarta</title>
 </programme>
 <programme start="20260325040000 +0000" stop="20260325060000 +0000" channel="BTV.mncvision">
-    <title>BTV</title>
+    <title>Berita Satu Siang</title>
 </programme>
-<programme start="20260325060000 +0000" stop="20260325063000 +0000" channel="BTV.mncvision">
-    <title>BTV</title>
+<programme start="20260325060000 +0000" stop="20260325070000 +0000" channel="BTV.mncvision">
+    <title>Berita Viral</title>
 </programme>
-<programme start="20260325063000 +0000" stop="20260325073000 +0000" channel="BTV.mncvision">
-    <title>BTV</title>
+<programme start="20260325070000 +0000" stop="20260325073000 +0000" channel="BTV.mncvision">
+    <title>Jendela Nusantara: Jawa Barat</title>
 </programme>
 <programme start="20260325073000 +0000" stop="20260325080000 +0000" channel="BTV.mncvision">
-    <title>BTV</title>
+    <title>Dikit-Dikit Damkar</title>
 </programme>
 <programme start="20260325080000 +0000" stop="20260325083000 +0000" channel="BTV.mncvision">
-    <title>BTV</title>
+    <title>Berita Merah Putih</title>
 </programme>
 <programme start="20260325083000 +0000" stop="20260325103000 +0000" channel="BTV.mncvision">
-    <title>BTV</title>
+    <title>Berita Satu Sore</title>
 </programme>
 <programme start="20260325103000 +0000" stop="20260325110000 +0000" channel="BTV.mncvision">
-    <title>BTV</title>
+    <title>Berita Kriminal</title>
 </programme>
-<programme start="20260325110000 +0000" stop="20260325120000 +0000" channel="BTV.mncvision">
-    <title>BTV</title>
-</programme>
-<programme start="20260325120000 +0000" stop="20260325130000 +0000" channel="BTV.mncvision">
-    <title>BTV</title>
+<programme start="20260325110000 +0000" stop="20260325130000 +0000" channel="BTV.mncvision">
+    <title>Berita Satu Utama</title>
 </programme>
 <programme start="20260325130000 +0000" stop="20260325140000 +0000" channel="BTV.mncvision">
-    <title>BTV</title>
+    <title>Berita Viral</title>
 </programme>
 <programme start="20260325140000 +0000" stop="20260325150000 +0000" channel="BTV.mncvision">
-    <title>BTV</title>
+    <title>Spot On</title>
 </programme>
 <programme start="20260325150000 +0000" stop="20260325160000 +0000" channel="BTV.mncvision">
-    <title>BTV</title>
+    <title>Berita Satu Malam</title>
 </programme>
 <programme start="20260325160000 +0000" stop="20260325163000 +0000" channel="BTV.mncvision">
-    <title>BTV</title>
+    <title>Sirkuit Nasional Padel 2026</title>
 </programme>
 <programme start="20260325163000 +0000" stop="20260324170000 +0000" channel="BTV.mncvision">
-    <title>BTV</title>
+    <title>ONE Vault</title>
 </programme>
 <programme start="20260324174900 +0000" stop="20260324192100 +0000" channel="BUDDY STARS.mncvision">
     <title>Silver</title>
@@ -3403,7 +3560,7 @@ Error: Unable to fetch data. HTTP Status Code: 500
     <title>Gutfeld!</title>
 </programme>
 <programme start="20260325080000 +0000" stop="20260325090000 +0000" channel="FOX News.mncvision">
-    <title>The Ingraham Angle</title>
+    <title>Fox News At Night</title>
 </programme>
 <programme start="20260325090000 +0000" stop="20260325100000 +0000" channel="FOX News.mncvision">
     <title>Fox &amp; Friends First</title>
@@ -4611,10 +4768,7 @@ Error: Unable to fetch data. HTTP Status Code: 500
 <programme start="20260325093000 +0000" stop="20260325120000 +0000" channel="iNews.mncvision">
     <title>iNews Sore (L)</title>
 </programme>
-<programme start="20260325120000 +0000" stop="20260325120300 +0000" channel="iNews.mncvision">
-    <title>iNews Terkini Mudik (L)</title>
-</programme>
-<programme start="20260325120300 +0000" stop="20260325130000 +0000" channel="iNews.mncvision">
+<programme start="20260325120000 +0000" stop="20260325130000 +0000" channel="iNews.mncvision">
     <title>iNews Room (L)</title>
 </programme>
 <programme start="20260325130000 +0000" stop="20260325140000 +0000" channel="iNews.mncvision">
@@ -4680,10 +4834,7 @@ Error: Unable to fetch data. HTTP Status Code: 500
 <programme start="20260325093000 +0000" stop="20260325120000 +0000" channel="iNews HD.mncvision">
     <title>iNews Sore (L)</title>
 </programme>
-<programme start="20260325120000 +0000" stop="20260325120300 +0000" channel="iNews HD.mncvision">
-    <title>iNews Terkini Mudik (L)</title>
-</programme>
-<programme start="20260325120300 +0000" stop="20260325130000 +0000" channel="iNews HD.mncvision">
+<programme start="20260325120000 +0000" stop="20260325130000 +0000" channel="iNews HD.mncvision">
     <title>iNews Room (L)</title>
 </programme>
 <programme start="20260325130000 +0000" stop="20260325140000 +0000" channel="iNews HD.mncvision">
@@ -7294,7 +7445,7 @@ Error: Unable to fetch data. HTTP Status Code: 500
     <title>Entong</title>
 </programme>
 <programme start="20260325023000 +0000" stop="20260325033000 +0000" channel="RCTI.mncvision">
-    <title>Captain Tsubasa</title>
+    <title>Ninja Hattori</title>
 </programme>
 <programme start="20260325033000 +0000" stop="20260325043000 +0000" channel="RCTI.mncvision">
     <title>Silet</title>
@@ -7303,13 +7454,13 @@ Error: Unable to fetch data. HTTP Status Code: 500
     <title>Seputar iNews Siang</title>
 </programme>
 <programme start="20260325050000 +0000" stop="20260325063000 +0000" channel="RCTI.mncvision">
-    <title>Dunia Terbalik</title>
+    <title>Dunia Masih Terbalik</title>
 </programme>
 <programme start="20260325063000 +0000" stop="20260325083000 +0000" channel="RCTI.mncvision">
-    <title>Top Preman</title>
+    <title>Si Doel Anak Sekolahan</title>
 </programme>
 <programme start="20260325083000 +0000" stop="20260325103000 +0000" channel="RCTI.mncvision">
-    <title>7/24</title>
+    <title>172 Days</title>
 </programme>
 <programme start="20260325103000 +0000" stop="20260325120000 +0000" channel="RCTI.mncvision">
     <title>Amanah Wali S8</title>
@@ -7336,7 +7487,7 @@ Error: Unable to fetch data. HTTP Status Code: 500
     <title>Entong</title>
 </programme>
 <programme start="20260325023000 +0000" stop="20260325033000 +0000" channel="RCTI HD.mncvision">
-    <title>Captain Tsubasa</title>
+    <title>Ninja Hattori</title>
 </programme>
 <programme start="20260325033000 +0000" stop="20260325043000 +0000" channel="RCTI HD.mncvision">
     <title>Silet</title>
@@ -7345,13 +7496,13 @@ Error: Unable to fetch data. HTTP Status Code: 500
     <title>Seputar iNews Siang</title>
 </programme>
 <programme start="20260325050000 +0000" stop="20260325063000 +0000" channel="RCTI HD.mncvision">
-    <title>Dunia Terbalik</title>
+    <title>Dunia Masih Terbalik</title>
 </programme>
 <programme start="20260325063000 +0000" stop="20260325083000 +0000" channel="RCTI HD.mncvision">
-    <title>Top Preman</title>
+    <title>Si Doel Anak Sekolahan</title>
 </programme>
 <programme start="20260325083000 +0000" stop="20260325103000 +0000" channel="RCTI HD.mncvision">
-    <title>7/24</title>
+    <title>172 Days</title>
 </programme>
 <programme start="20260325103000 +0000" stop="20260325120000 +0000" channel="RCTI HD.mncvision">
     <title>Amanah Wali S8</title>
@@ -7488,119 +7639,119 @@ Error: Unable to fetch data. HTTP Status Code: 500
 <programme start="20260325164500 +0000" stop="20260324171500 +0000" channel="Rock Entertainment.mncvision">
     <title>Buried In The Backyard S6, Ep 2</title>
 </programme>
-<programme start="20260324173000 +0000" stop="20260324190000 +0000" channel="SCTV.mncvision">
-    <title>SCTV</title>
+<programme start="20260324171500 +0000" stop="20260324183000 +0000" channel="SCTV.mncvision">
+    <title>Cinta Dalam Sepotong Rendang</title>
 </programme>
-<programme start="20260324190000 +0000" stop="20260324201500 +0000" channel="SCTV.mncvision">
-    <title>SCTV</title>
+<programme start="20260324183000 +0000" stop="20260324194500 +0000" channel="SCTV.mncvision">
+    <title>Pulau Bali Saksi Cintaku</title>
 </programme>
-<programme start="20260324201500 +0000" stop="20260324210000 +0000" channel="SCTV.mncvision">
-    <title>SCTV</title>
+<programme start="20260324194500 +0000" stop="20260324210000 +0000" channel="SCTV.mncvision">
+    <title>Kembalikan Cintamu Padaku</title>
 </programme>
 <programme start="20260324210000 +0000" stop="20260324213000 +0000" channel="SCTV.mncvision">
-    <title>SCTV</title>
+    <title>Barakallah</title>
 </programme>
 <programme start="20260324213000 +0000" stop="20260324220000 +0000" channel="SCTV.mncvision">
-    <title>SCTV</title>
+    <title>Buser</title>
 </programme>
 <programme start="20260324220000 +0000" stop="20260324230000 +0000" channel="SCTV.mncvision">
-    <title>SCTV</title>
+    <title>Liputan 6 Pagi (L)</title>
 </programme>
-<programme start="20260324230000 +0000" stop="20260324233000 +0000" channel="SCTV.mncvision">
-    <title>SCTV</title>
+<programme start="20260324230000 +0000" stop="20260325000000 +0000" channel="SCTV.mncvision">
+    <title>Hot Shot</title>
 </programme>
-<programme start="20260324233000 +0000" stop="20260325000000 +0000" channel="SCTV.mncvision">
-    <title>SCTV</title>
+<programme start="20260325000000 +0000" stop="20260325010000 +0000" channel="SCTV.mncvision">
+    <title>Tiba-Tiba Kuis</title>
 </programme>
-<programme start="20260325000000 +0000" stop="20260325013000 +0000" channel="SCTV.mncvision">
-    <title>SCTV</title>
-</programme>
-<programme start="20260325013000 +0000" stop="20260325030000 +0000" channel="SCTV.mncvision">
-    <title>SCTV</title>
+<programme start="20260325010000 +0000" stop="20260325030000 +0000" channel="SCTV.mncvision">
+    <title>Putri Jadul Idamanku</title>
 </programme>
 <programme start="20260325030000 +0000" stop="20260325050000 +0000" channel="SCTV.mncvision">
-    <title>SCTV</title>
+    <title>Diam Jadi Panutan Bergerak...</title>
 </programme>
 <programme start="20260325050000 +0000" stop="20260325053000 +0000" channel="SCTV.mncvision">
-    <title>SCTV</title>
+    <title>Liputan 6 Siang (L)</title>
 </programme>
-<programme start="20260325053000 +0000" stop="20260325064500 +0000" channel="SCTV.mncvision">
-    <title>SCTV</title>
+<programme start="20260325053000 +0000" stop="20260325070000 +0000" channel="SCTV.mncvision">
+    <title>Dibalik Jombloku Tersimpan...</title>
 </programme>
-<programme start="20260325064500 +0000" stop="20260325094500 +0000" channel="SCTV.mncvision">
-    <title>SCTV</title>
+<programme start="20260325070000 +0000" stop="20260325083000 +0000" channel="SCTV.mncvision">
+    <title>Diam-Diam Cinta Aku Tu</title>
 </programme>
-<programme start="20260325094500 +0000" stop="20260325111500 +0000" channel="SCTV.mncvision">
-    <title>SCTV</title>
+<programme start="20260325083000 +0000" stop="20260325100000 +0000" channel="SCTV.mncvision">
+    <title>Abang Kembang Diuber Mantan</title>
+</programme>
+<programme start="20260325100000 +0000" stop="20260325111500 +0000" channel="SCTV.mncvision">
+    <title>Asmara Gen Z</title>
 </programme>
 <programme start="20260325111500 +0000" stop="20260325130000 +0000" channel="SCTV.mncvision">
-    <title>SCTV</title>
+    <title>Istiqomah Cinta</title>
 </programme>
 <programme start="20260325130000 +0000" stop="20260325143000 +0000" channel="SCTV.mncvision">
-    <title>SCTV</title>
+    <title>Beri Cinta Waktu</title>
 </programme>
 <programme start="20260325143000 +0000" stop="20260325160000 +0000" channel="SCTV.mncvision">
-    <title>SCTV</title>
+    <title>Jejak Duka Diandra</title>
 </programme>
 <programme start="20260325160000 +0000" stop="20260325163000 +0000" channel="SCTV.mncvision">
-    <title>SCTV</title>
+    <title>Kue Thok Cinta DP 0 Rupiah</title>
 </programme>
-<programme start="20260324173000 +0000" stop="20260324190000 +0000" channel="SCTV HD.mncvision">
-    <title>SCTV</title>
+<programme start="20260324171500 +0000" stop="20260324183000 +0000" channel="SCTV HD.mncvision">
+    <title>Cinta Dalam Sepotong Rendang</title>
 </programme>
-<programme start="20260324190000 +0000" stop="20260324201500 +0000" channel="SCTV HD.mncvision">
-    <title>SCTV</title>
+<programme start="20260324183000 +0000" stop="20260324194500 +0000" channel="SCTV HD.mncvision">
+    <title>Pulau Bali Saksi Cintaku</title>
 </programme>
-<programme start="20260324201500 +0000" stop="20260324210000 +0000" channel="SCTV HD.mncvision">
-    <title>SCTV</title>
+<programme start="20260324194500 +0000" stop="20260324210000 +0000" channel="SCTV HD.mncvision">
+    <title>Kembalikan Cintamu Padaku</title>
 </programme>
 <programme start="20260324210000 +0000" stop="20260324213000 +0000" channel="SCTV HD.mncvision">
-    <title>SCTV</title>
+    <title>Barakallah</title>
 </programme>
 <programme start="20260324213000 +0000" stop="20260324220000 +0000" channel="SCTV HD.mncvision">
-    <title>SCTV</title>
+    <title>Buser</title>
 </programme>
 <programme start="20260324220000 +0000" stop="20260324230000 +0000" channel="SCTV HD.mncvision">
-    <title>SCTV</title>
+    <title>Liputan 6 Pagi (L)</title>
 </programme>
-<programme start="20260324230000 +0000" stop="20260324233000 +0000" channel="SCTV HD.mncvision">
-    <title>SCTV</title>
+<programme start="20260324230000 +0000" stop="20260325000000 +0000" channel="SCTV HD.mncvision">
+    <title>Hot Shot</title>
 </programme>
-<programme start="20260324233000 +0000" stop="20260325000000 +0000" channel="SCTV HD.mncvision">
-    <title>SCTV</title>
+<programme start="20260325000000 +0000" stop="20260325010000 +0000" channel="SCTV HD.mncvision">
+    <title>Tiba-Tiba Kuis</title>
 </programme>
-<programme start="20260325000000 +0000" stop="20260325013000 +0000" channel="SCTV HD.mncvision">
-    <title>SCTV</title>
-</programme>
-<programme start="20260325013000 +0000" stop="20260325030000 +0000" channel="SCTV HD.mncvision">
-    <title>SCTV</title>
+<programme start="20260325010000 +0000" stop="20260325030000 +0000" channel="SCTV HD.mncvision">
+    <title>Putri Jadul Idamanku</title>
 </programme>
 <programme start="20260325030000 +0000" stop="20260325050000 +0000" channel="SCTV HD.mncvision">
-    <title>SCTV</title>
+    <title>Diam Jadi Panutan Bergerak...</title>
 </programme>
 <programme start="20260325050000 +0000" stop="20260325053000 +0000" channel="SCTV HD.mncvision">
-    <title>SCTV</title>
+    <title>Liputan 6 Siang (L)</title>
 </programme>
-<programme start="20260325053000 +0000" stop="20260325064500 +0000" channel="SCTV HD.mncvision">
-    <title>SCTV</title>
+<programme start="20260325053000 +0000" stop="20260325070000 +0000" channel="SCTV HD.mncvision">
+    <title>Dibalik Jombloku Tersimpan...</title>
 </programme>
-<programme start="20260325064500 +0000" stop="20260325094500 +0000" channel="SCTV HD.mncvision">
-    <title>SCTV</title>
+<programme start="20260325070000 +0000" stop="20260325083000 +0000" channel="SCTV HD.mncvision">
+    <title>Diam-Diam Cinta Aku Tu</title>
 </programme>
-<programme start="20260325094500 +0000" stop="20260325111500 +0000" channel="SCTV HD.mncvision">
-    <title>SCTV</title>
+<programme start="20260325083000 +0000" stop="20260325100000 +0000" channel="SCTV HD.mncvision">
+    <title>Abang Kembang Diuber Mantan</title>
+</programme>
+<programme start="20260325100000 +0000" stop="20260325111500 +0000" channel="SCTV HD.mncvision">
+    <title>Asmara Gen Z</title>
 </programme>
 <programme start="20260325111500 +0000" stop="20260325130000 +0000" channel="SCTV HD.mncvision">
-    <title>SCTV</title>
+    <title>Istiqomah Cinta</title>
 </programme>
 <programme start="20260325130000 +0000" stop="20260325143000 +0000" channel="SCTV HD.mncvision">
-    <title>SCTV</title>
+    <title>Beri Cinta Waktu</title>
 </programme>
 <programme start="20260325143000 +0000" stop="20260325160000 +0000" channel="SCTV HD.mncvision">
-    <title>SCTV</title>
+    <title>Jejak Duka Diandra</title>
 </programme>
 <programme start="20260325160000 +0000" stop="20260325163000 +0000" channel="SCTV HD.mncvision">
-    <title>SCTV</title>
+    <title>Kue Thok Cinta DP 0 Rupiah</title>
 </programme>
 <programme start="20260324170000 +0000" stop="20260324180000 +0000" channel="Sindo News TV.mncvision">
     <title>iNews Sore</title>
