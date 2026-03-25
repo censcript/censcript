@@ -3426,29 +3426,26 @@ Warning: Undefined array key "et" in /usr/home/ManusiaBiasa/domains/manusiabiasa
 <programme start="20260325223000 +0000" stop="20260325230000 +0000" channel="Sky Sport Premier League HD.skyde">
     <title>PL: PL Stories (Yaya Toure)</title>
 </programme>
-<programme start="20260325030000 +0000" stop="20260325033000 +0000" channel="Sky Sport Tennis HD.skyde">
+<programme start="20260325040000 +0000" stop="20260325043000 +0000" channel="Sky Sport Tennis HD.skyde">
     <title>ATP: This Week</title>
 </programme>
-<programme start="20260325033000 +0000" stop="20260325053000 +0000" channel="Sky Sport Tennis HD.skyde">
+<programme start="20260325043000 +0000" stop="20260325063000 +0000" channel="Sky Sport Tennis HD.skyde">
     <title>ATP 1000: A. Zverev (GER) - Q. Halys (FRA), Miami Open presented by Itaú in Miami, Florida (USA), 8. Tag</title>
 </programme>
-<programme start="20260325053000 +0000" stop="20260325073000 +0000" channel="Sky Sport Tennis HD.skyde">
+<programme start="20260325063000 +0000" stop="20260325083000 +0000" channel="Sky Sport Tennis HD.skyde">
     <title>WTA 1000: V. Mboko (CAN) - K. Muchova (CZE) , Miami Open presented by Itaú in Miami, Florida (USA), Viertelfinale 1</title>
 </programme>
-<programme start="20260325073000 +0000" stop="20260325100000 +0000" channel="Sky Sport Tennis HD.skyde">
+<programme start="20260325083000 +0000" stop="20260325103000 +0000" channel="Sky Sport Tennis HD.skyde">
     <title>WTA 1000: E. Rybakina (KAZ) - A. Sabalenka, BNP Paribas Open in Indian Wells, Kalifornien (USA), Finale</title>
 </programme>
-<programme start="20260325100000 +0000" stop="20260325123000 +0000" channel="Sky Sport Tennis HD.skyde">
+<programme start="20260325103000 +0000" stop="20260325125500 +0000" channel="Sky Sport Tennis HD.skyde">
     <title>ATP 250: Y. Hanfmann (GER) - L. Darderi (ITA), BCI Seguros Chile Open in Santiago (CHI), Finale</title>
 </programme>
-<programme start="20260325123000 +0000" stop="20260325130000 +0000" channel="Sky Sport Tennis HD.skyde">
-    <title>ATP: This Week</title>
-</programme>
-<programme start="20260325130000 +0000" stop="20260325150000 +0000" channel="Sky Sport Tennis HD.skyde">
+<programme start="20260325125500 +0000" stop="20260325145500 +0000" channel="Sky Sport Tennis HD.skyde">
     <title>ATP 1000: A. Zverev (GER) - Q. Halys (FRA), Miami Open presented by Itaú in Miami, Florida (USA), 8. Tag</title>
 </programme>
-<programme start="20260325150000 +0000" stop="20260325170000 +0000" channel="Sky Sport Tennis HD.skyde">
-    <title>WTA 1000: C. Gauff (USA) B. Bencic (SUI), Miami Open presented by Itaú in Miami, Florida (USA), Viertelfinale 2</title>
+<programme start="20260325145500 +0000" stop="20260325170000 +0000" channel="Sky Sport Tennis HD.skyde">
+    <title>WTA 1000: C. Gauff (USA) - B. Bencic (SUI), Miami Open presented by Itaú in Miami, Florida (USA), Viertelfinale 2</title>
 </programme>
 <programme start="20260325170000 +0000" stop="20260325190000 +0000" channel="Sky Sport Tennis HD.skyde">
     <title>Live WTA 1000: E. Rybakina (KAZ) - J. Pegula (USA), Miami Open presented by Itaú in Miami, Florida (USA), Viertelfinale 3</title>
@@ -3514,16 +3511,16 @@ Warning: Undefined array key "et" in /usr/home/ManusiaBiasa/domains/manusiabiasa
     <title>NHL: Highlights EDM@UTA</title>
 </programme>
 <programme start="20260325130000 +0000" stop="20260325150000 +0000" channel="Sky Sport Top Event HD.skyde">
-    <title>TGL: Los Angeles Golf Club - Jupiter Links Golf Club, Finale 2</title>
+    <title>TGL: Jupiter Links Golf Club - Los Angeles Golf Club, Finale 1</title>
 </programme>
 <programme start="20260325150000 +0000" stop="20260325170000 +0000" channel="Sky Sport Top Event HD.skyde">
-    <title>TGL: Los Angeles Golf Club - Jupiter Links Golf Club, Finale 3*</title>
+    <title>TGL: Los Angeles Golf Club - Jupiter Links Golf Club, Finale 2</title>
 </programme>
 <programme start="20260325170000 +0000" stop="20260325190000 +0000" channel="Sky Sport Top Event HD.skyde">
-    <title>Live WTA 1000: VF3, Miami Open presented by Itaú in Miami, Florida (USA), Viertelfinale 3</title>
+    <title>Live WTA 1000: E. Rybakina (KAZ) - J. Pegula (USA), Miami Open presented by Itaú in Miami, Florida (USA), Viertelfinale 3</title>
 </programme>
 <programme start="20260325190000 +0000" stop="20260325210000 +0000" channel="Sky Sport Top Event HD.skyde">
-    <title>Live ATP 1000: VF1, Miami Open presented by Itaú in Miami, Florida (USA), Viertelfinale 1</title>
+    <title>Live ATP 1000: M. Landaluce (ESP) - J. Lehecka (CZE), Miami Open presented by Itaú in Miami, Florida (USA), Viertelfinale 1</title>
 </programme>
 <programme start="20260325210000 +0000" stop="20260325213000 +0000" channel="Sky Sport Top Event HD.skyde">
     <title>ATP: This Week</title>
