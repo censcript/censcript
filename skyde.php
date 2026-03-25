@@ -2655,17 +2655,17 @@ Warning: Undefined array key "et" in /usr/home/ManusiaBiasa/domains/manusiabiasa
 <programme start="20260325210000 +0000" stop="20260325230000 +0000" channel="Sky Sport Austria 1 HD.skyde">
     <title>Admiral BL: SK Puntigamer Sturm Graz - FC Red Bull Salzburg, 24. Runde</title>
 </programme>
-<programme start="20260324230000 +0000" stop="20260325021500 +0000" channel="Sky Sport Austria 2 HD.skyde">
+<programme start="20260324230000 +0000" stop="20260325090000 +0000" channel="Sky Sport Austria 2 HD.skyde">
     <title>Live WTA 1000: C. Gauff (USA) B. Bencic (SUI), Miami Open presented by Itaú in Miami, Florida (USA), Viertelfinale 2</title>
 </programme>
 <programme start="20260325164000 +0000" stop="20260325170000 +0000" channel="Sky Sport Austria 2 HD.skyde">
     <title>Es folgt: Live Tennis WTA Tour</title>
 </programme>
-<programme start="20260325170000 +0000" stop="20260325220000 +0000" channel="Sky Sport Austria 2 HD.skyde">
-    <title>Live WTA 1000: E. Rybakina (KAZ) - J. Pegula (USA), Miami Open presented by Itaú in Miami, Florida (USA), Viertelfinale 3</title>
+<programme start="20260325170000 +0000" stop="20260325190000 +0000" channel="Sky Sport Austria 2 HD.skyde">
+    <title>Live WTA 1000: VF3, Miami Open presented by Itaú in Miami, Florida (USA), Viertelfinale 3</title>
 </programme>
-<programme start="20260325220000 +0000" stop="20260326090000 +0000" channel="Sky Sport Austria 2 HD.skyde">
-    <title>Live WTA 1000: A. Sabalenka - H. Baptiste (USA), Miami Open presented by Itaú in Miami, Florida (USA), Viertelfinale 4</title>
+<programme start="20260325224000 +0000" stop="20260325230000 +0000" channel="Sky Sport Austria 2 HD.skyde">
+    <title>Es folgt: Live Tennis WTA Tour</title>
 </programme>
 <programme start="20260325090000 +0000" stop="20260325090500 +0000" channel="Sky Sport Austria 4 HD.skyde">
     <title>Test Austria 04</title>
@@ -3141,14 +3141,20 @@ Warning: Undefined array key "et" in /usr/home/ManusiaBiasa/domains/manusiabiasa
 <programme start="20260324230000 +0000" stop="20260325010000 +0000" channel="Sky Sport Golf HD.skyde">
     <title>Live TGL: Los Angeles Golf Club - Jupiter Links Golf Club, Finale 2</title>
 </programme>
+<programme start="20260325010000 +0000" stop="20260325030000 +0000" channel="Sky Sport Golf HD.skyde">
+    <title>Live TGL: Los Angeles Golf Club - Jupiter Links Golf Club, Finale 3*</title>
+</programme>
 <programme start="20260325030000 +0000" stop="20260325040000 +0000" channel="Sky Sport Golf HD.skyde">
     <title>US Open: Official Film 2014 (Martin Kaymer)</title>
 </programme>
 <programme start="20260325040000 +0000" stop="20260325090000 +0000" channel="Sky Sport Golf HD.skyde">
     <title>Golf Ladies ET: Australian WPGA Championship, 4. Tag in Gold Coast (Australien)</title>
 </programme>
-<programme start="20260325110000 +0000" stop="20260325130000 +0000" channel="Sky Sport Golf HD.skyde">
+<programme start="20260325090000 +0000" stop="20260325110000 +0000" channel="Sky Sport Golf HD.skyde">
     <title>TGL: Los Angeles Golf Club - Jupiter Links Golf Club, Finale 2</title>
+</programme>
+<programme start="20260325110000 +0000" stop="20260325130000 +0000" channel="Sky Sport Golf HD.skyde">
+    <title>TGL: Los Angeles Golf Club - Jupiter Links Golf Club, Finale 3*</title>
 </programme>
 <programme start="20260325130000 +0000" stop="20260325140000 +0000" channel="Sky Sport Golf HD.skyde">
     <title>Golf Ladies ET: Highlights Australian WPGA Championship</title>
@@ -3167,6 +3173,9 @@ Warning: Undefined array key "et" in /usr/home/ManusiaBiasa/domains/manusiabiasa
 </programme>
 <programme start="20260325170000 +0000" stop="20260325190000 +0000" channel="Sky Sport Golf HD.skyde">
     <title>TGL: Los Angeles Golf Club - Jupiter Links Golf Club, Finale 2</title>
+</programme>
+<programme start="20260325190000 +0000" stop="20260325210000 +0000" channel="Sky Sport Golf HD.skyde">
+    <title>TGL: Los Angeles Golf Club - Jupiter Links Golf Club, Finale 3*</title>
 </programme>
 <programme start="20260325210000 +0000" stop="20260326000000 +0000" channel="Sky Sport Golf HD.skyde">
     <title>LIV Golf: Südafrika, 4. Tag in Johannesburg</title>
@@ -3263,9 +3272,6 @@ Warning: Undefined array key "et" in /usr/home/ManusiaBiasa/domains/manusiabiasa
 </programme>
 <programme start="20260325100000 +0000" stop="20260325110000 +0000" channel="Sky Sport News HD.skyde">
     <title>Fußball: Sammer &amp; Basile - Der Hagedorn-Talk</title>
-</programme>
-<programme start="20260325110000 +0000" stop="20260325113000 +0000" channel="Sky Sport News HD.skyde">
-    <title>Live Sky Sport News: BVB-PK - Vorstellung Nils-Ole Book</title>
 </programme>
 <programme start="20260325113000 +0000" stop="20260325120000 +0000" channel="Sky Sport News HD.skyde">
     <title>Live Sky Sport News: Der Mittag</title>
@@ -3420,26 +3426,23 @@ Warning: Undefined array key "et" in /usr/home/ManusiaBiasa/domains/manusiabiasa
 <programme start="20260325040000 +0000" stop="20260325043000 +0000" channel="Sky Sport Tennis HD.skyde">
     <title>ATP: This Week</title>
 </programme>
-<programme start="20260325043000 +0000" stop="20260325053000 +0000" channel="Sky Sport Tennis HD.skyde">
+<programme start="20260325043000 +0000" stop="20260325063000 +0000" channel="Sky Sport Tennis HD.skyde">
     <title>ATP 1000: A. Zverev (GER) - Q. Halys (FRA), Miami Open presented by Itaú in Miami, Florida (USA), 8. Tag</title>
 </programme>
-<programme start="20260325053000 +0000" stop="20260325073000 +0000" channel="Sky Sport Tennis HD.skyde">
+<programme start="20260325063000 +0000" stop="20260325083000 +0000" channel="Sky Sport Tennis HD.skyde">
     <title>WTA 1000: V. Mboko (CAN) - K. Muchova (CZE) , Miami Open presented by Itaú in Miami, Florida (USA), Viertelfinale 1</title>
 </programme>
-<programme start="20260325073000 +0000" stop="20260325100000 +0000" channel="Sky Sport Tennis HD.skyde">
+<programme start="20260325083000 +0000" stop="20260325103000 +0000" channel="Sky Sport Tennis HD.skyde">
     <title>WTA 1000: E. Rybakina (KAZ) - A. Sabalenka, BNP Paribas Open in Indian Wells, Kalifornien (USA), Finale</title>
 </programme>
-<programme start="20260325100000 +0000" stop="20260325123000 +0000" channel="Sky Sport Tennis HD.skyde">
+<programme start="20260325103000 +0000" stop="20260325125500 +0000" channel="Sky Sport Tennis HD.skyde">
     <title>ATP 250: Y. Hanfmann (GER) - L. Darderi (ITA), BCI Seguros Chile Open in Santiago (CHI), Finale</title>
 </programme>
-<programme start="20260325123000 +0000" stop="20260325130000 +0000" channel="Sky Sport Tennis HD.skyde">
-    <title>ATP: This Week</title>
-</programme>
-<programme start="20260325130000 +0000" stop="20260325150000 +0000" channel="Sky Sport Tennis HD.skyde">
+<programme start="20260325125500 +0000" stop="20260325145500 +0000" channel="Sky Sport Tennis HD.skyde">
     <title>ATP 1000: A. Zverev (GER) - Q. Halys (FRA), Miami Open presented by Itaú in Miami, Florida (USA), 8. Tag</title>
 </programme>
-<programme start="20260325150000 +0000" stop="20260325170000 +0000" channel="Sky Sport Tennis HD.skyde">
-    <title>WTA 1000: C. Gauff (USA) B. Bencic (SUI), Miami Open presented by Itaú in Miami, Florida (USA), Viertelfinale 2</title>
+<programme start="20260325145500 +0000" stop="20260325170000 +0000" channel="Sky Sport Tennis HD.skyde">
+    <title>WTA 1000: C. Gauff (USA) - B. Bencic (SUI), Miami Open presented by Itaú in Miami, Florida (USA), Viertelfinale 2</title>
 </programme>
 <programme start="20260325170000 +0000" stop="20260325190000 +0000" channel="Sky Sport Tennis HD.skyde">
     <title>Live WTA 1000: E. Rybakina (KAZ) - J. Pegula (USA), Miami Open presented by Itaú in Miami, Florida (USA), Viertelfinale 3</title>
@@ -3546,10 +3549,10 @@ Warning: Undefined array key "et" in /usr/home/ManusiaBiasa/domains/manusiabiasa
 <programme start="20260324230000 +0000" stop="20260325000000 +0000" channel="Sky Sport 1 HD.skyde">
     <title>Live NBA: Showtime</title>
 </programme>
-<programme start="20260325000000 +0000" stop="20260325031000 +0000" channel="Sky Sport 1 HD.skyde">
+<programme start="20260325000000 +0000" stop="20260325090000 +0000" channel="Sky Sport 1 HD.skyde">
     <title>Live NBA: Orlando Magic @ Cleveland Cavaliers</title>
 </programme>
-<programme start="20260324230000 +0000" stop="20260325021500 +0000" channel="Sky Sport 2 HD.skyde">
+<programme start="20260324230000 +0000" stop="20260325090000 +0000" channel="Sky Sport 2 HD.skyde">
     <title>Live WTA 1000: C. Gauff (USA) B. Bencic (SUI), Miami Open presented by Itaú in Miami, Florida (USA), Viertelfinale 2</title>
 </programme>
 <programme start="20260325090000 +0000" stop="20260325090500 +0000" channel="Sky Sport 3 HD.skyde">
