@@ -15056,22 +15056,17 @@
   <channel id="spotv2.unifitv">
     <display-name>SPOTV2</display-name>
   </channel>
-  <programme start="20260324153000 +0000" stop="20260324160000 +0000" channel="spotv2.unifitv">
-    <title lang="en">2025/26 ALM Mini Match Rd 21 - Central Coast Mariners FC vs Adelaide United</title>
-    <desc lang="en">Top flight men's soccer returns in the ISUZU UTE A-League Men. Catch every moment on SPOTV NOW as 12 teams compete in the regular season with top 4 advancing to a single-game knockout.</desc>
-    <category lang="en">Football</category>
-  </programme>
-  <programme start="20260324160000 +0000" stop="20260324180000 +0000" channel="spotv2.unifitv">
+  <programme start="20260324150000 +0000" stop="20260324180000 +0000" channel="spotv2.unifitv">
     <title lang="en">2025/26 King's Cup Semi Final - Al Kholood vs Al Ittihad</title>
     <desc lang="en">The Saudi King's Cup brings together the nation's best teams in a knockout fight for football supremacy. Only one will lift the trophy!</desc>
     <category lang="en">Football</category>
   </programme>
-  <programme start="20260324180000 +0000" stop="20260324203000 +0000" channel="spotv2.unifitv">
+  <programme start="20260324180000 +0000" stop="20260324201500 +0000" channel="spotv2.unifitv">
     <title lang="en">2026 World Baseball Classic: Pool C - Japan vs Chinese Taipei</title>
     <desc lang="en">The world's best national teams compete for international glory, delivering powerful hitting, elite pitching, and thrilling baseball action on the global stage.</desc>
     <category lang="en">Baseball</category>
   </programme>
-  <programme start="20260324203000 +0000" stop="20260324234500 +0000" channel="spotv2.unifitv">
+  <programme start="20260324201500 +0000" stop="20260324234500 +0000" channel="spotv2.unifitv">
     <title lang="en">2026 MotoGP Rd 2 Estrella Galicia 0,0 Grand Prix of Brazil - Free Practice 1</title>
     <desc lang="en">The 2026 MotoGP sees 22 of the world's best riders battle on 1000cc prototype machines, delivering over 250hp and reaching speeds of 360kph across 22 thrilling Grands Prix in 18 countries.</desc>
     <category lang="en">Motorsports</category>
@@ -15096,25 +15091,20 @@
     <desc lang="en">The world's best national teams compete for international glory, delivering powerful hitting, elite pitching, and thrilling baseball action on the global stage.</desc>
     <category lang="en">Baseball</category>
   </programme>
-  <programme start="20260325083000 +0000" stop="20260325093000 +0000" channel="spotv2.unifitv">
+  <programme start="20260325083000 +0000" stop="20260325092500 +0000" channel="spotv2.unifitv">
     <title lang="en">2026 Asian Tour Highlights - 105th New Zealand Open</title>
     <desc lang="en">Launched in 2022, The International Series is a set of 10 elevated events that form an Asian Tour-sanctioned pathway onto the lucrative LIV Golf League.</desc>
     <category lang="en">Golf</category>
   </programme>
-  <programme start="20260325093000 +0000" stop="20260325124500 +0000" channel="spotv2.unifitv">
+  <programme start="20260325092500 +0000" stop="20260325125000 +0000" channel="spotv2.unifitv">
     <title lang="en">2026 MotoGP Rd 2 Estrella Galicia 0,0 Grand Prix of Brazil - Free Practice 1</title>
     <desc lang="en">The 2026 MotoGP sees 22 of the world's best riders battle on 1000cc prototype machines, delivering over 250hp and reaching speeds of 360kph across 22 thrilling Grands Prix in 18 countries.</desc>
     <category lang="en">Motorsports</category>
   </programme>
-  <programme start="20260325124500 +0000" stop="20260325160000 +0000" channel="spotv2.unifitv">
+  <programme start="20260325125000 +0000" stop="20260325160500 +0000" channel="spotv2.unifitv">
     <title lang="en">2026 MotoGP Rd 2 Estrella Galicia 0,0 Grand Prix of Brazil - Practice</title>
     <desc lang="en">The 2026 MotoGP sees 22 of the world's best riders battle on 1000cc prototype machines, delivering over 250hp and reaching speeds of 360kph across 22 thrilling Grands Prix in 18 countries.</desc>
     <category lang="en">Motorsports</category>
-  </programme>
-  <programme start="20260325160000 +0000" stop="20260325170000 +0000" channel="spotv2.unifitv">
-    <title lang="en">2026 LET: Women's Australia Open - Highlights</title>
-    <desc lang="en">Top female golfers compete across premier international venues, delivering world-class performances, thrilling finishes, and season-long championship drama.</desc>
-    <category lang="en">Golf</category>
   </programme>
   <channel id="beinsports.unifitv">
     <display-name>beIN SPORTS 1</display-name>

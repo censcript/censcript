@@ -88,120 +88,7 @@
 <programme start="20260325162500 +0000" stop="20260325165500 +0000" channel="ABC Australia.mncvision">
     <title>Four Corners</title>
 </programme>
-<programme start="20260324170000 +0000" stop="20260324173000 +0000" channel="Al Jazeera English.mncvision">
-    <title>News (L)</title>
-</programme>
-<programme start="20260324173000 +0000" stop="20260324180000 +0000" channel="Al Jazeera English.mncvision">
-    <title>Inside Story</title>
-</programme>
-<programme start="20260324180000 +0000" stop="20260324190000 +0000" channel="Al Jazeera English.mncvision">
-    <title>NewsHour</title>
-</programme>
-<programme start="20260324190000 +0000" stop="20260324193000 +0000" channel="Al Jazeera English.mncvision">
-    <title>News (L)</title>
-</programme>
-<programme start="20260324193000 +0000" stop="20260324200000 +0000" channel="Al Jazeera English.mncvision">
-    <title>UpFront</title>
-</programme>
-<programme start="20260324200000 +0000" stop="20260324210000 +0000" channel="Al Jazeera English.mncvision">
-    <title>NewsHour</title>
-</programme>
-<programme start="20260324210000 +0000" stop="20260324220000 +0000" channel="Al Jazeera English.mncvision">
-    <title>NewsHour</title>
-</programme>
-<programme start="20260324220000 +0000" stop="20260324230000 +0000" channel="Al Jazeera English.mncvision">
-    <title>NewsHour</title>
-</programme>
-<programme start="20260324230000 +0000" stop="20260324233000 +0000" channel="Al Jazeera English.mncvision">
-    <title>News (L)</title>
-</programme>
-<programme start="20260324233000 +0000" stop="20260325000000 +0000" channel="Al Jazeera English.mncvision">
-    <title>Inside Story</title>
-</programme>
-<programme start="20260325000000 +0000" stop="20260325010000 +0000" channel="Al Jazeera English.mncvision">
-    <title>NewsHour</title>
-</programme>
-<programme start="20260325010000 +0000" stop="20260325020000 +0000" channel="Al Jazeera English.mncvision">
-    <title>Blood, Sweat &amp; Sugar</title>
-</programme>
-<programme start="20260325020000 +0000" stop="20260325023000 +0000" channel="Al Jazeera English.mncvision">
-    <title>News (L)</title>
-</programme>
-<programme start="20260325023000 +0000" stop="20260325030000 +0000" channel="Al Jazeera English.mncvision">
-    <title>Talk To Al Jazeera</title>
-</programme>
-<programme start="20260325030000 +0000" stop="20260325033000 +0000" channel="Al Jazeera English.mncvision">
-    <title>News (L)</title>
-</programme>
-<programme start="20260325033000 +0000" stop="20260325040000 +0000" channel="Al Jazeera English.mncvision">
-    <title>Witness: The Volunteer</title>
-</programme>
-<programme start="20260325040000 +0000" stop="20260325043000 +0000" channel="Al Jazeera English.mncvision">
-    <title>News (L)</title>
-</programme>
-<programme start="20260325043000 +0000" stop="20260325050000 +0000" channel="Al Jazeera English.mncvision">
-    <title>UpFront</title>
-</programme>
-<programme start="20260325050000 +0000" stop="20260325053000 +0000" channel="Al Jazeera English.mncvision">
-    <title>News (L)</title>
-</programme>
-<programme start="20260325053000 +0000" stop="20260325060000 +0000" channel="Al Jazeera English.mncvision">
-    <title>Inside Story</title>
-</programme>
-<programme start="20260325060000 +0000" stop="20260325063000 +0000" channel="Al Jazeera English.mncvision">
-    <title>News (L)</title>
-</programme>
-<programme start="20260325063000 +0000" stop="20260325070000 +0000" channel="Al Jazeera English.mncvision">
-    <title>Counting The Cost</title>
-</programme>
-<programme start="20260325070000 +0000" stop="20260325073000 +0000" channel="Al Jazeera English.mncvision">
-    <title>News (L)</title>
-</programme>
-<programme start="20260325073000 +0000" stop="20260325080000 +0000" channel="Al Jazeera English.mncvision">
-    <title>Reframe: Varsha Gandikota</title>
-</programme>
-<programme start="20260325080000 +0000" stop="20260325083000 +0000" channel="Al Jazeera English.mncvision">
-    <title>News (L)</title>
-</programme>
-<programme start="20260325083000 +0000" stop="20260325090000 +0000" channel="Al Jazeera English.mncvision">
-    <title>The Stream</title>
-</programme>
-<programme start="20260325090000 +0000" stop="20260325093000 +0000" channel="Al Jazeera English.mncvision">
-    <title>News (L)</title>
-</programme>
-<programme start="20260325093000 +0000" stop="20260325100000 +0000" channel="Al Jazeera English.mncvision">
-    <title>Making Peace: Elephant Knows</title>
-</programme>
-<programme start="20260325100000 +0000" stop="20260325110000 +0000" channel="Al Jazeera English.mncvision">
-    <title>NewsHour</title>
-</programme>
-<programme start="20260325110000 +0000" stop="20260325113000 +0000" channel="Al Jazeera English.mncvision">
-    <title>News (L)</title>
-</programme>
-<programme start="20260325113000 +0000" stop="20260325120000 +0000" channel="Al Jazeera English.mncvision">
-    <title>Inside Story</title>
-</programme>
-<programme start="20260325120000 +0000" stop="20260325130000 +0000" channel="Al Jazeera English.mncvision">
-    <title>Al Jazeera World: Nuseirat 274</title>
-</programme>
-<programme start="20260325130000 +0000" stop="20260325140000 +0000" channel="Al Jazeera English.mncvision">
-    <title>NewsHour</title>
-</programme>
-<programme start="20260325140000 +0000" stop="20260325143000 +0000" channel="Al Jazeera English.mncvision">
-    <title>News (L)</title>
-</programme>
-<programme start="20260325143000 +0000" stop="20260325150000 +0000" channel="Al Jazeera English.mncvision">
-    <title>The Listening Post</title>
-</programme>
-<programme start="20260325150000 +0000" stop="20260325160000 +0000" channel="Al Jazeera English.mncvision">
-    <title>NewsHour</title>
-</programme>
-<programme start="20260325160000 +0000" stop="20260325163000 +0000" channel="Al Jazeera English.mncvision">
-    <title>News (L)</title>
-</programme>
-<programme start="20260325163000 +0000" stop="20260324170000 +0000" channel="Al Jazeera English.mncvision">
-    <title>The Bottom Line</title>
-</programme>
+Error: Unable to fetch data. HTTP Status Code: 500
 <programme start="20260324170000 +0000" stop="20260324190000 +0000" channel="Al Quran Al Kareem.mncvision">
     <title>Live From Mekkah</title>
 </programme>
@@ -422,154 +309,154 @@
     <title>Middle Man</title>
 </programme>
 <programme start="20260324170000 +0000" stop="20260324173000 +0000" channel="Arirang.mncvision">
-    <title>Arirang</title>
+    <title>K-Culture Dive</title>
 </programme>
 <programme start="20260324173000 +0000" stop="20260324180000 +0000" channel="Arirang.mncvision">
-    <title>Arirang</title>
+    <title>Within The Frame</title>
 </programme>
 <programme start="20260324180000 +0000" stop="20260324181500 +0000" channel="Arirang.mncvision">
-    <title>Arirang</title>
+    <title>K-Culture Minutes: K-People</title>
 </programme>
 <programme start="20260324181500 +0000" stop="20260324183000 +0000" channel="Arirang.mncvision">
-    <title>Arirang</title>
+    <title>Exploring Korean Literature C</title>
 </programme>
 <programme start="20260324183000 +0000" stop="20260324185000 +0000" channel="Arirang.mncvision">
-    <title>Arirang</title>
+    <title>Korea Travelogue 4</title>
 </programme>
 <programme start="20260324185000 +0000" stop="20260324190000 +0000" channel="Arirang.mncvision">
-    <title>Arirang</title>
+    <title>Discovering Korea: View</title>
 </programme>
 <programme start="20260324190000 +0000" stop="20260324200000 +0000" channel="Arirang.mncvision">
-    <title>Arirang</title>
+    <title>Gugak: The Music Of Korea</title>
 </programme>
 <programme start="20260324200000 +0000" stop="20260324203000 +0000" channel="Arirang.mncvision">
-    <title>Arirang</title>
+    <title>Diplomat&#039;s Archive: Hidden</title>
 </programme>
 <programme start="20260324203000 +0000" stop="20260324210000 +0000" channel="Arirang.mncvision">
-    <title>Arirang</title>
+    <title>Regional Tastes: Gangwon</title>
 </programme>
 <programme start="20260324210000 +0000" stop="20260324213000 +0000" channel="Arirang.mncvision">
-    <title>Arirang</title>
+    <title>Press Perspective</title>
 </programme>
 <programme start="20260324213000 +0000" stop="20260324215000 +0000" channel="Arirang.mncvision">
-    <title>Arirang</title>
+    <title>K-Culture Minutes: K-People</title>
 </programme>
 <programme start="20260324215000 +0000" stop="20260324220000 +0000" channel="Arirang.mncvision">
-    <title>Arirang</title>
+    <title>Discovering Korea: View</title>
 </programme>
 <programme start="20260324220000 +0000" stop="20260324222000 +0000" channel="Arirang.mncvision">
-    <title>Arirang</title>
+    <title>The Grand Heritage K-ASMR</title>
 </programme>
 <programme start="20260324222000 +0000" stop="20260324223000 +0000" channel="Arirang.mncvision">
-    <title>Arirang</title>
+    <title>The Living Sea Of Jeju</title>
 </programme>
 <programme start="20260324223000 +0000" stop="20260324224000 +0000" channel="Arirang.mncvision">
-    <title>Arirang</title>
+    <title>K-Chat: Conversing In Korean</title>
 </programme>
 <programme start="20260324224000 +0000" stop="20260324225000 +0000" channel="Arirang.mncvision">
-    <title>Arirang</title>
+    <title>K-Chat: Travel In Korea</title>
 </programme>
 <programme start="20260324225000 +0000" stop="20260324230000 +0000" channel="Arirang.mncvision">
-    <title>Arirang</title>
+    <title>Exploring Korean Literature A</title>
 </programme>
 <programme start="20260324230000 +0000" stop="20260324232000 +0000" channel="Arirang.mncvision">
-    <title>Arirang</title>
+    <title>K-Arts Artists</title>
 </programme>
 <programme start="20260324232000 +0000" stop="20260324233000 +0000" channel="Arirang.mncvision">
-    <title>Arirang</title>
+    <title>Exploring Korean Literature B</title>
 </programme>
 <programme start="20260324233000 +0000" stop="20260324235000 +0000" channel="Arirang.mncvision">
-    <title>Arirang</title>
+    <title>K-Culture Minutes: K-Story</title>
 </programme>
 <programme start="20260324235000 +0000" stop="20260325000000 +0000" channel="Arirang.mncvision">
-    <title>Arirang</title>
+    <title>SmartBiz Accelerators 2</title>
 </programme>
 <programme start="20260325000000 +0000" stop="20260325003000 +0000" channel="Arirang.mncvision">
-    <title>Arirang</title>
+    <title>Premium Collection</title>
 </programme>
 <programme start="20260325003000 +0000" stop="20260325010000 +0000" channel="Arirang.mncvision">
-    <title>Arirang</title>
+    <title>Re: Space</title>
 </programme>
 <programme start="20260325010000 +0000" stop="20260325013000 +0000" channel="Arirang.mncvision">
-    <title>Arirang</title>
+    <title>New Day At Arirang</title>
 </programme>
 <programme start="20260325013000 +0000" stop="20260325020000 +0000" channel="Arirang.mncvision">
-    <title>Arirang</title>
+    <title>News Generation (L)</title>
 </programme>
 <programme start="20260325020000 +0000" stop="20260325030000 +0000" channel="Arirang.mncvision">
-    <title>Arirang</title>
+    <title>Culture Crunch (L)</title>
 </programme>
 <programme start="20260325030000 +0000" stop="20260325033000 +0000" channel="Arirang.mncvision">
-    <title>Arirang</title>
+    <title>Arirang News</title>
 </programme>
 <programme start="20260325033000 +0000" stop="20260325040000 +0000" channel="Arirang.mncvision">
-    <title>Arirang</title>
+    <title>Talk Room</title>
 </programme>
 <programme start="20260325040000 +0000" stop="20260325043000 +0000" channel="Arirang.mncvision">
-    <title>Arirang</title>
+    <title>I&#039;m Live</title>
 </programme>
 <programme start="20260325043000 +0000" stop="20260325050000 +0000" channel="Arirang.mncvision">
-    <title>Arirang</title>
+    <title>K-Stage Pan</title>
 </programme>
 <programme start="20260325050000 +0000" stop="20260325053000 +0000" channel="Arirang.mncvision">
-    <title>Arirang</title>
+    <title>K-Culture Dive (L)</title>
 </programme>
 <programme start="20260325053000 +0000" stop="20260325060000 +0000" channel="Arirang.mncvision">
-    <title>Arirang</title>
+    <title>News Generation</title>
 </programme>
 <programme start="20260325060000 +0000" stop="20260325063000 +0000" channel="Arirang.mncvision">
-    <title>Arirang</title>
+    <title>K-Food Class</title>
 </programme>
 <programme start="20260325063000 +0000" stop="20260325070000 +0000" channel="Arirang.mncvision">
-    <title>Arirang</title>
+    <title>Re: Space</title>
 </programme>
 <programme start="20260325070000 +0000" stop="20260325070500 +0000" channel="Arirang.mncvision">
-    <title>Arirang</title>
+    <title>AI Headline News</title>
 </programme>
 <programme start="20260325070500 +0000" stop="20260325074000 +0000" channel="Arirang.mncvision">
-    <title>Arirang</title>
+    <title>Talk Room</title>
 </programme>
 <programme start="20260325074000 +0000" stop="20260325080000 +0000" channel="Arirang.mncvision">
-    <title>Arirang</title>
+    <title>K-Culture Minutes: K-Story</title>
 </programme>
 <programme start="20260325080000 +0000" stop="20260325083000 +0000" channel="Arirang.mncvision">
-    <title>Arirang</title>
+    <title>The Daily Report</title>
 </programme>
 <programme start="20260325083000 +0000" stop="20260325090000 +0000" channel="Arirang.mncvision">
-    <title>Arirang</title>
+    <title>Press Perspective (L)</title>
 </programme>
 <programme start="20260325090000 +0000" stop="20260325093000 +0000" channel="Arirang.mncvision">
-    <title>Arirang</title>
+    <title>I&#039;m Live</title>
 </programme>
 <programme start="20260325093000 +0000" stop="20260325100000 +0000" channel="Arirang.mncvision">
-    <title>Arirang</title>
+    <title>K-Stage Pan</title>
 </programme>
 <programme start="20260325100000 +0000" stop="20260325103000 +0000" channel="Arirang.mncvision">
-    <title>Arirang</title>
+    <title>K-Food Class</title>
 </programme>
 <programme start="20260325103000 +0000" stop="20260325110000 +0000" channel="Arirang.mncvision">
-    <title>Arirang</title>
+    <title>Premium Collection</title>
 </programme>
 <programme start="20260325110000 +0000" stop="20260325113000 +0000" channel="Arirang.mncvision">
-    <title>Arirang</title>
+    <title>NewsCenter</title>
 </programme>
 <programme start="20260325113000 +0000" stop="20260325120000 +0000" channel="Arirang.mncvision">
-    <title>Arirang</title>
+    <title>Within The Frame (L)</title>
 </programme>
 <programme start="20260325120000 +0000" stop="20260325123000 +0000" channel="Arirang.mncvision">
-    <title>Arirang</title>
+    <title>K-Culture Dive</title>
 </programme>
 <programme start="20260325123000 +0000" stop="20260325125000 +0000" channel="Arirang.mncvision">
-    <title>Arirang</title>
+    <title>K-Culture Minutes: K-Story</title>
 </programme>
 <programme start="20260325125000 +0000" stop="20260325130000 +0000" channel="Arirang.mncvision">
-    <title>Arirang</title>
+    <title>The Living Sea Of Jeju</title>
 </programme>
 <programme start="20260325130000 +0000" stop="20260325130500 +0000" channel="Arirang.mncvision">
-    <title>Arirang</title>
+    <title>AI Headline News</title>
 </programme>
 <programme start="20260325130500 +0000" stop="20260325133500 +0000" channel="Arirang.mncvision">
-    <title>Arirang</title>
+    <title>Re: Space</title>
 </programme>
 <programme start="20260324173500 +0000" stop="20260324182500 +0000" channel="AXN.mncvision">
     <title>FBI S6, Ep 12</title>
@@ -1285,57 +1172,7 @@
 <programme start="20260325153000 +0000" stop="20260325160000 +0000" channel="beIN Sports 2 HD.mncvision">
     <title>Premier Padel 2026: Miami (L)</title>
 </programme>
-<programme start="20260324170500 +0000" stop="20260324190000 +0000" channel="beIN Sports 3.mncvision">
-    <title>AFCON 2025: CIV Vs MOZ</title>
-</programme>
-<programme start="20260324190000 +0000" stop="20260324205000 +0000" channel="beIN Sports 3.mncvision">
-    <title>Pacific Nations Cup: TGA Vs SAM</title>
-</programme>
-<programme start="20260324205000 +0000" stop="20260324210000 +0000" channel="beIN Sports 3.mncvision">
-    <title>UCL Classic Matches: BAR Vs LYO</title>
-</programme>
-<programme start="20260324210000 +0000" stop="20260324220000 +0000" channel="beIN Sports 3.mncvision">
-    <title>MUTV Specials: Jimmy Murphy</title>
-</programme>
-<programme start="20260324220000 +0000" stop="20260324230000 +0000" channel="beIN Sports 3.mncvision">
-    <title>SailGP Highlights 2026: Sydney</title>
-</programme>
-<programme start="20260324230000 +0000" stop="20260325010000 +0000" channel="beIN Sports 3.mncvision">
-    <title>TGL 2026: Finals 2 (L)</title>
-</programme>
-<programme start="20260325010000 +0000" stop="20260325030000 +0000" channel="beIN Sports 3.mncvision">
-    <title>TGL 2026: Finals 3 (L)</title>
-</programme>
-<programme start="20260325030000 +0000" stop="20260325050000 +0000" channel="beIN Sports 3.mncvision">
-    <title>UECL 2025/26: RAK Vs FIO</title>
-</programme>
-<programme start="20260325050000 +0000" stop="20260325070000 +0000" channel="beIN Sports 3.mncvision">
-    <title>UEL 2025/26: BRA Vs FTC</title>
-</programme>
-<programme start="20260325070000 +0000" stop="20260325090000 +0000" channel="beIN Sports 3.mncvision">
-    <title>TGL 2026: Finals 3</title>
-</programme>
-<programme start="20260325090000 +0000" stop="20260325100000 +0000" channel="beIN Sports 3.mncvision">
-    <title>UEL/UECL Highlights 2025/26</title>
-</programme>
-<programme start="20260325100000 +0000" stop="20260325120000 +0000" channel="beIN Sports 3.mncvision">
-    <title>UWCL 2025/26: WOB Vs LYO</title>
-</programme>
-<programme start="20260325120000 +0000" stop="20260325140000 +0000" channel="beIN Sports 3.mncvision">
-    <title>UWCL 2025/26: ARS Vs CHE</title>
-</programme>
-<programme start="20260325140000 +0000" stop="20260325143000 +0000" channel="beIN Sports 3.mncvision">
-    <title>Rolex Invitational Cup 2025</title>
-</programme>
-<programme start="20260325143000 +0000" stop="20260325145000 +0000" channel="beIN Sports 3.mncvision">
-    <title>MUTV One Love: Flying High</title>
-</programme>
-<programme start="20260325145000 +0000" stop="20260325165000 +0000" channel="beIN Sports 3.mncvision">
-    <title>UCI World Tour 2026 (L)</title>
-</programme>
-<programme start="20260325165000 +0000" stop="20260324172000 +0000" channel="beIN Sports 3.mncvision">
-    <title>MUTV Top Ten: Dimitar Berbatov</title>
-</programme>
+Error: Unable to fetch data. HTTP Status Code: 500
 <programme start="20260324170500 +0000" stop="20260324190000 +0000" channel="beIN Sports 3 HD.mncvision">
     <title>AFCON 2025: CIV Vs MOZ</title>
 </programme>
@@ -2948,7 +2785,7 @@
     <title>The Day: News In Review</title>
 </programme>
 <programme start="20260325023000 +0000" stop="20260325030000 +0000" channel="DW English.mncvision">
-    <title>Global Us: What Connects Us All</title>
+    <title>Global Us</title>
 </programme>
 <programme start="20260325030000 +0000" stop="20260325030200 +0000" channel="DW English.mncvision">
     <title>DW News</title>
@@ -2957,7 +2794,7 @@
     <title>DW News Focus</title>
 </programme>
 <programme start="20260325031500 +0000" stop="20260325033000 +0000" channel="DW English.mncvision">
-    <title>Best Of DW-Online Content</title>
+    <title>Planet A</title>
 </programme>
 <programme start="20260325033000 +0000" stop="20260325040000 +0000" channel="DW English.mncvision">
     <title>Eco Africa: Urban Water Fix</title>
@@ -2978,7 +2815,7 @@
     <title>The Day: News In Review</title>
 </programme>
 <programme start="20260325053000 +0000" stop="20260325060000 +0000" channel="DW English.mncvision">
-    <title>Made In Germany: Business</title>
+    <title>Made In Germany</title>
 </programme>
 <programme start="20260325060000 +0000" stop="20260325060200 +0000" channel="DW English.mncvision">
     <title>DW News</title>
@@ -2987,7 +2824,7 @@
     <title>DW News Focus</title>
 </programme>
 <programme start="20260325061500 +0000" stop="20260325063000 +0000" channel="DW English.mncvision">
-    <title>Best Of DW-Online Content</title>
+    <title>Planet A</title>
 </programme>
 <programme start="20260325063000 +0000" stop="20260325070000 +0000" channel="DW English.mncvision">
     <title>In Good Shape</title>
@@ -2999,10 +2836,10 @@
     <title>DW News Focus</title>
 </programme>
 <programme start="20260325071500 +0000" stop="20260325074500 +0000" channel="DW English.mncvision">
-    <title>Close Up: The Current Affairs</title>
+    <title>Close Up: No EVs Without China?</title>
 </programme>
 <programme start="20260325074500 +0000" stop="20260325080000 +0000" channel="DW English.mncvision">
-    <title>Shift: Living In Digital Age</title>
+    <title>Shift: AI &amp; Drones</title>
 </programme>
 <programme start="20260325080000 +0000" stop="20260325083000 +0000" channel="DW English.mncvision">
     <title>DW News</title>
@@ -4645,89 +4482,83 @@
 <programme start="20260325155500 +0000" stop="20260325162500 +0000" channel="IMC.mncvision">
     <title>Pokun Roxy</title>
 </programme>
-<programme start="20260324183000 +0000" stop="20260324200000 +0000" channel="Indosiar.mncvision">
-    <title>Indosiar</title>
+<programme start="20260324190000 +0000" stop="20260324220000 +0000" channel="Indosiar.mncvision">
+    <title>AKSI 2026</title>
 </programme>
-<programme start="20260324200000 +0000" stop="20260324213000 +0000" channel="Indosiar.mncvision">
-    <title>Indosiar</title>
+<programme start="20260324220000 +0000" stop="20260325000000 +0000" channel="Indosiar.mncvision">
+    <title>Merangkai Kisah Indah</title>
 </programme>
-<programme start="20260324213000 +0000" stop="20260324230000 +0000" channel="Indosiar.mncvision">
-    <title>Indosiar</title>
-</programme>
-<programme start="20260324230000 +0000" stop="20260325010000 +0000" channel="Indosiar.mncvision">
-    <title>Indosiar</title>
+<programme start="20260325000000 +0000" stop="20260325010000 +0000" channel="Indosiar.mncvision">
+    <title>Fokus Pagi</title>
 </programme>
 <programme start="20260325010000 +0000" stop="20260325030000 +0000" channel="Indosiar.mncvision">
-    <title>Indosiar</title>
+    <title>Akibat Tidak Akur Dengan Ipar</title>
 </programme>
 <programme start="20260325030000 +0000" stop="20260325040000 +0000" channel="Indosiar.mncvision">
-    <title>Indosiar</title>
+    <title>Hot Kiss</title>
 </programme>
 <programme start="20260325040000 +0000" stop="20260325043000 +0000" channel="Indosiar.mncvision">
-    <title>Indosiar</title>
+    <title>Patroli Siang</title>
 </programme>
 <programme start="20260325043000 +0000" stop="20260325050000 +0000" channel="Indosiar.mncvision">
-    <title>Indosiar</title>
+    <title>Fokus Siang</title>
 </programme>
 <programme start="20260325050000 +0000" stop="20260325063000 +0000" channel="Indosiar.mncvision">
-    <title>Indosiar</title>
+    <title>Kebohongan Dibalik Kekayaan</title>
 </programme>
-<programme start="20260325063000 +0000" stop="20260325083000 +0000" channel="Indosiar.mncvision">
-    <title>Indosiar</title>
+<programme start="20260325063000 +0000" stop="20260325080000 +0000" channel="Indosiar.mncvision">
+    <title>Gaya Hidup Istriku Elit</title>
 </programme>
-<programme start="20260325083000 +0000" stop="20260325103000 +0000" channel="Indosiar.mncvision">
-    <title>Indosiar</title>
+<programme start="20260325080000 +0000" stop="20260325100000 +0000" channel="Indosiar.mncvision">
+    <title>Rahasia Di Balik Pernikahan</title>
 </programme>
-<programme start="20260325103000 +0000" stop="20260325120000 +0000" channel="Indosiar.mncvision">
-    <title>Indosiar</title>
+<programme start="20260325100000 +0000" stop="20260325120000 +0000" channel="Indosiar.mncvision">
+    <title>Merangkai Kisah Indah</title>
 </programme>
 <programme start="20260325120000 +0000" stop="20260325160000 +0000" channel="Indosiar.mncvision">
-    <title>Indosiar</title>
+    <title>D&#039;Academy S7</title>
 </programme>
 <programme start="20260325160000 +0000" stop="20260325163000 +0000" channel="Indosiar.mncvision">
-    <title>Indosiar</title>
+    <title>High Force</title>
 </programme>
-<programme start="20260324183000 +0000" stop="20260324200000 +0000" channel="Indosiar HD.mncvision">
-    <title>Indosiar</title>
+<programme start="20260324190000 +0000" stop="20260324220000 +0000" channel="Indosiar HD.mncvision">
+    <title>AKSI 2026</title>
 </programme>
-<programme start="20260324200000 +0000" stop="20260324213000 +0000" channel="Indosiar HD.mncvision">
-    <title>Indosiar</title>
+<programme start="20260324220000 +0000" stop="20260325000000 +0000" channel="Indosiar HD.mncvision">
+    <title>Merangkai Kisah Indah</title>
 </programme>
-<programme start="20260324213000 +0000" stop="20260324230000 +0000" channel="Indosiar HD.mncvision">
-    <title>Indosiar</title>
-</programme>
-<programme start="20260324230000 +0000" stop="20260325010000 +0000" channel="Indosiar HD.mncvision">
-    <title>Indosiar</title>
+<programme start="20260325000000 +0000" stop="20260325010000 +0000" channel="Indosiar HD.mncvision">
+    <title>Fokus Pagi</title>
 </programme>
 <programme start="20260325010000 +0000" stop="20260325030000 +0000" channel="Indosiar HD.mncvision">
-    <title>Indosiar</title>
+    <title>Akibat Tidak Akur Dengan Ipar</title>
 </programme>
 <programme start="20260325030000 +0000" stop="20260325040000 +0000" channel="Indosiar HD.mncvision">
-    <title>Indosiar</title>
+    <title>Hot Kiss</title>
 </programme>
 <programme start="20260325040000 +0000" stop="20260325043000 +0000" channel="Indosiar HD.mncvision">
-    <title>Indosiar</title>
+    <title>Patroli Siang</title>
 </programme>
 <programme start="20260325043000 +0000" stop="20260325050000 +0000" channel="Indosiar HD.mncvision">
-    <title>Indosiar</title>
+    <title>Fokus Siang</title>
 </programme>
 <programme start="20260325050000 +0000" stop="20260325063000 +0000" channel="Indosiar HD.mncvision">
-    <title>Indosiar</title>
+    <title>Kebohongan Dibalik Kekayaan</title>
 </programme>
-<programme start="20260325063000 +0000" stop="20260325083000 +0000" channel="Indosiar HD.mncvision">
-    <title>Indosiar</title>
+<programme start="20260325063000 +0000" stop="20260325080000 +0000" channel="Indosiar HD.mncvision">
+    <title>Gaya Hidup Istriku Elit</title>
 </programme>
-<programme start="20260325083000 +0000" stop="20260325103000 +0000" channel="Indosiar HD.mncvision">
-    <title>Indosiar</title>
+<programme start="20260325080000 +0000" stop="20260325100000 +0000" channel="Indosiar HD.mncvision">
+    <title>Rahasia Di Balik Pernikahan</title>
 </programme>
-<programme start="20260325103000 +0000" stop="20260325120000 +0000" channel="Indosiar HD.mncvision">
-    <title>Indosiar</title>
+<programme start="20260325100000 +0000" stop="20260325120000 +0000" channel="Indosiar HD.mncvision">
+    <title>Merangkai Kisah Indah</title>
 </programme>
 <programme start="20260325120000 +0000" stop="20260325160000 +0000" channel="Indosiar HD.mncvision">
-    <title>Indosiar</title>
+    <title>D&#039;Academy S7</title>
 </programme>
 <programme start="20260325160000 +0000" stop="20260325163000 +0000" channel="Indosiar HD.mncvision">
-    <title>Indosiar</title>
+    <title>High Force</title>
 </programme>
 <programme start="20260324170000 +0000" stop="20260324173000 +0000" channel="iNews.mncvision">
     <title>iNews Sport</title>
@@ -5201,76 +5032,76 @@
     <title>The Ultimate BROcation, Ep 3</title>
 </programme>
 <programme start="20260324170000 +0000" stop="20260324173000 +0000" channel="Kompas TV.mncvision">
-    <title>Kompas TV</title>
+    <title>Kompas Sport</title>
 </programme>
-<programme start="20260324173000 +0000" stop="20260324190000 +0000" channel="Kompas TV.mncvision">
-    <title>Kompas TV</title>
+<programme start="20260324173000 +0000" stop="20260324183000 +0000" channel="Kompas TV.mncvision">
+    <title>Berita Utama</title>
 </programme>
-<programme start="20260324190000 +0000" stop="20260324200000 +0000" channel="Kompas TV.mncvision">
-    <title>Kompas TV</title>
+<programme start="20260324183000 +0000" stop="20260324193000 +0000" channel="Kompas TV.mncvision">
+    <title>Kompas Petang</title>
+</programme>
+<programme start="20260324193000 +0000" stop="20260324200000 +0000" channel="Kompas TV.mncvision">
+    <title>Indonesia Update</title>
 </programme>
 <programme start="20260324200000 +0000" stop="20260324210000 +0000" channel="Kompas TV.mncvision">
-    <title>Kompas TV</title>
+    <title>Kalam Hati</title>
 </programme>
 <programme start="20260324210000 +0000" stop="20260324213000 +0000" channel="Kompas TV.mncvision">
-    <title>Kompas TV</title>
+    <title>Borgol</title>
 </programme>
-<programme start="20260324213000 +0000" stop="20260324233000 +0000" channel="Kompas TV.mncvision">
-    <title>Kompas TV</title>
-</programme>
-<programme start="20260324233000 +0000" stop="20260325000000 +0000" channel="Kompas TV.mncvision">
-    <title>Kompas TV</title>
+<programme start="20260324213000 +0000" stop="20260325000000 +0000" channel="Kompas TV.mncvision">
+    <title>Kompas Pagi</title>
 </programme>
 <programme start="20260325000000 +0000" stop="20260325023000 +0000" channel="Kompas TV.mncvision">
-    <title>Kompas TV</title>
+    <title>Sapa Indonesia Pagi</title>
 </programme>
 <programme start="20260325023000 +0000" stop="20260325033000 +0000" channel="Kompas TV.mncvision">
-    <title>Kompas TV</title>
+    <title>VVIP</title>
 </programme>
 <programme start="20260325033000 +0000" stop="20260325040000 +0000" channel="Kompas TV.mncvision">
-    <title>Kompas TV</title>
+    <title>Borgol</title>
 </programme>
 <programme start="20260325040000 +0000" stop="20260325060000 +0000" channel="Kompas TV.mncvision">
-    <title>Kompas TV</title>
+    <title>Kompas Siang</title>
 </programme>
 <programme start="20260325060000 +0000" stop="20260325070000 +0000" channel="Kompas TV.mncvision">
-    <title>Kompas TV</title>
+    <title>Sapa Indonesia Siang</title>
 </programme>
 <programme start="20260325070000 +0000" stop="20260325073000 +0000" channel="Kompas TV.mncvision">
-    <title>Kompas TV</title>
+    <title>Berkas Kompas</title>
 </programme>
 <programme start="20260325073000 +0000" stop="20260325080000 +0000" channel="Kompas TV.mncvision">
-    <title>Kompas TV</title>
+    <title>Jurnal Merah Putih</title>
 </programme>
 <programme start="20260325080000 +0000" stop="20260325083000 +0000" channel="Kompas TV.mncvision">
-    <title>Kompas TV</title>
+    <title>Indonesia Update</title>
 </programme>
 <programme start="20260325083000 +0000" stop="20260325090000 +0000" channel="Kompas TV.mncvision">
-    <title>Kompas TV</title>
+    <title>Borgol</title>
 </programme>
 <programme start="20260325090000 +0000" stop="20260325103000 +0000" channel="Kompas TV.mncvision">
-    <title>Kompas TV</title>
+    <title>Kompas Petang</title>
 </programme>
 <programme start="20260325103000 +0000" stop="20260325123000 +0000" channel="Kompas TV.mncvision">
-    <title>Kompas TV</title>
+    <title>Sapa Indonesia Malam</title>
 </programme>
 <programme start="20260325123000 +0000" stop="20260325133000 +0000" channel="Kompas TV.mncvision">
-    <title>Kompas TV</title>
+    <title>Berita Utama</title>
 </programme>
 <programme start="20260325133000 +0000" stop="20260325143000 +0000" channel="Kompas TV.mncvision">
-    <title>Kompas TV</title>
+    <title>Satu Meja The Forum</title>
 </programme>
 <programme start="20260325143000 +0000" stop="20260325153000 +0000" channel="Kompas TV.mncvision">
-    <title>Kompas TV</title>
+    <title>Kompas Malam</title>
 </programme>
 <programme start="20260325153000 +0000" stop="20260325160000 +0000" channel="Kompas TV.mncvision">
-    <title>Kompas TV</title>
+    <title>Berita Utama</title>
 </programme>
 <programme start="20260325160000 +0000" stop="20260325163000 +0000" channel="Kompas TV.mncvision">
-    <title>Kompas TV</title>
+    <title>Kompas Sport</title>
 </programme>
 <programme start="20260325163000 +0000" stop="20260324170000 +0000" channel="Kompas TV.mncvision">
-    <title>Kompas TV</title>
+    <title>Kilas Kompas</title>
 </programme>
 <programme start="20260324173000 +0000" stop="20260324183000 +0000" channel="LIFE.mncvision">
     <title>Good News</title>
@@ -5309,7 +5140,7 @@
     <title>Good News</title>
 </programme>
 <programme start="20260325030000 +0000" stop="20260325033000 +0000" channel="LIFE.mncvision">
-    <title>Drive Thru History</title>
+    <title>In The Gap With Choco De Jesus</title>
 </programme>
 <programme start="20260325033000 +0000" stop="20260325040000 +0000" channel="LIFE.mncvision">
     <title>Bimbingan Rohani: Katolik</title>
@@ -5366,7 +5197,7 @@
     <title>Life Music</title>
 </programme>
 <programme start="20260325153000 +0000" stop="20260325160000 +0000" channel="LIFE.mncvision">
-    <title>Drive Thru History</title>
+    <title>In The Gap With Choco De Jesus</title>
 </programme>
 <programme start="20260325160000 +0000" stop="20260325163000 +0000" channel="LIFE.mncvision">
     <title>Solusi</title>
@@ -8431,10 +8262,10 @@
 <programme start="20260325083000 +0000" stop="20260325093000 +0000" channel="SPOTV 2.mncvision">
     <title>2026 PBR: Unleash The Beast</title>
 </programme>
-<programme start="20260325093000 +0000" stop="20260325124500 +0000" channel="SPOTV 2.mncvision">
+<programme start="20260325093000 +0000" stop="20260325125500 +0000" channel="SPOTV 2.mncvision">
     <title>MotoGP Estrella Galicia</title>
 </programme>
-<programme start="20260325124500 +0000" stop="20260325131500 +0000" channel="SPOTV 2.mncvision">
+<programme start="20260325125500 +0000" stop="20260325132500 +0000" channel="SPOTV 2.mncvision">
     <title>2026 NASCAR Goodyear 400</title>
 </programme>
 <programme start="20260324180000 +0000" stop="20260324203000 +0000" channel="SPOTV 2 HD.mncvision">
@@ -8458,10 +8289,10 @@
 <programme start="20260325083000 +0000" stop="20260325093000 +0000" channel="SPOTV 2 HD.mncvision">
     <title>2026 PBR: Unleash The Beast</title>
 </programme>
-<programme start="20260325093000 +0000" stop="20260325124500 +0000" channel="SPOTV 2 HD.mncvision">
+<programme start="20260325093000 +0000" stop="20260325125500 +0000" channel="SPOTV 2 HD.mncvision">
     <title>MotoGP Estrella Galicia</title>
 </programme>
-<programme start="20260325124500 +0000" stop="20260325131500 +0000" channel="SPOTV 2 HD.mncvision">
+<programme start="20260325125500 +0000" stop="20260325132500 +0000" channel="SPOTV 2 HD.mncvision">
     <title>2026 NASCAR Goodyear 400</title>
 </programme>
 <programme start="20260324180000 +0000" stop="20260324210000 +0000" channel="SPOTV HD.mncvision">
