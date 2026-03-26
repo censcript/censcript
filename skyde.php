@@ -1038,8 +1038,11 @@ Warning: Undefined array key "et" in /usr/home/ManusiaBiasa/domains/manusiabiasa
 <programme start="20260326153500 +0000" stop="20260326165000 +0000" channel="DAZN 2 HD.skyde">
     <title>ALL IN - Die Bundesliga Highlight Show: 27. Spieltag</title>
 </programme>
-<programme start="20260326165000 +0000" stop="20260326191500 +0000" channel="DAZN 2 HD.skyde">
+<programme start="20260326165000 +0000" stop="20260326190500 +0000" channel="DAZN 2 HD.skyde">
     <title>UEFA Nations League: Malta - Luxemburg</title>
+</programme>
+<programme start="20260326190500 +0000" stop="20260326191500 +0000" channel="DAZN 2 HD.skyde">
+    <title>Best of DAZN: Highlights</title>
 </programme>
 <programme start="20260326191500 +0000" stop="20260326215000 +0000" channel="DAZN 2 HD.skyde">
     <title>UEFA World Cup Qualifiers: Konferenz</title>

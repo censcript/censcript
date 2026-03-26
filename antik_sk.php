@@ -2383,6 +2383,45 @@
   <programme start="20260328224000 +0000" stop="20260328232000 +0000" channel="RiK TV.webtv.sk">
     <title lang="id">Barbie: Dom snov I (26)</title>
   </programme>
+  <programme start="20260327230000 +0000" stop="20260328040000 +0000" channel="LALA TV.webtv.sk">
+    <title lang="id">Spíva celá rodina</title>
+  </programme>
+  <programme start="20260328040000 +0000" stop="20260328060000 +0000" channel="LALA TV.webtv.sk">
+    <title lang="id">Ranní ptáčata</title>
+  </programme>
+  <programme start="20260328060000 +0000" stop="20260328070000 +0000" channel="LALA TV.webtv.sk">
+    <title lang="id">Já jsem budík budíček</title>
+  </programme>
+  <programme start="20260328070000 +0000" stop="20260328080000 +0000" channel="LALA TV.webtv.sk">
+    <title lang="id">Spíva celá rodina</title>
+  </programme>
+  <programme start="20260328080000 +0000" stop="20260328110000 +0000" channel="LALA TV.webtv.sk">
+    <title lang="id">Pějme písně dokola</title>
+  </programme>
+  <programme start="20260328110000 +0000" stop="20260328120000 +0000" channel="LALA TV.webtv.sk">
+    <title lang="id">Hvězdy a hvězdičky</title>
+  </programme>
+  <programme start="20260328120000 +0000" stop="20260328150000 +0000" channel="LALA TV.webtv.sk">
+    <title lang="id">Pějme písně dokola</title>
+  </programme>
+  <programme start="20260328150000 +0000" stop="20260328160000 +0000" channel="LALA TV.webtv.sk">
+    <title lang="id">Hvězdy a hvězdičky</title>
+  </programme>
+  <programme start="20260328160000 +0000" stop="20260328170000 +0000" channel="LALA TV.webtv.sk">
+    <title lang="id">Spíva celá rodina</title>
+  </programme>
+  <programme start="20260328170000 +0000" stop="20260328180000 +0000" channel="LALA TV.webtv.sk">
+    <title lang="id">Pějme písně dokola</title>
+  </programme>
+  <programme start="20260328180000 +0000" stop="20260328190000 +0000" channel="LALA TV.webtv.sk">
+    <title lang="id">Hvězdy a hvězdičky</title>
+  </programme>
+  <programme start="20260328190000 +0000" stop="20260328210000 +0000" channel="LALA TV.webtv.sk">
+    <title lang="id">Pějme písně dokola</title>
+  </programme>
+  <programme start="20260328210000 +0000" stop="20260328230000 +0000" channel="LALA TV.webtv.sk">
+    <title lang="id">Malí nezbedníci</title>
+  </programme>
   <programme start="20260327230000 +0000" stop="20260328050000 +0000" channel="Turbo TV.webtv.sk">
     <title lang="id">Zajko Turbo spinká. Prajeme Vám dobrú noc.</title>
   </programme>
