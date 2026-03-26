@@ -969,38 +969,32 @@ Warning: Undefined array key "et" in /usr/home/ManusiaBiasa/domains/manusiabiasa
 <programme start="20260326071500 +0000" stop="20260326083000 +0000" channel="DAZN 1 HD.skyde">
     <title>ALL IN - Die Bundesliga Highlight Show: 27. Spieltag</title>
 </programme>
-<programme start="20260326083000 +0000" stop="20260326103000 +0000" channel="DAZN 1 HD.skyde">
+<programme start="20260326083000 +0000" stop="20260326105000 +0000" channel="DAZN 1 HD.skyde">
     <title>Bundesliga 25/26: FC Augsburg - VFB Stuttgart</title>
 </programme>
-<programme start="20260326103000 +0000" stop="20260326123000 +0000" channel="DAZN 1 HD.skyde">
+<programme start="20260326105000 +0000" stop="20260326125000 +0000" channel="DAZN 1 HD.skyde">
     <title>Bundesliga 25/26: RB Leipzig - TSG 1899 Hoffenheim</title>
 </programme>
-<programme start="20260326123000 +0000" stop="20260326130500 +0000" channel="DAZN 1 HD.skyde">
+<programme start="20260326125000 +0000" stop="20260326132000 +0000" channel="DAZN 1 HD.skyde">
     <title>Best of DAZN: Highlights</title>
 </programme>
-<programme start="20260326130500 +0000" stop="20260326150000 +0000" channel="DAZN 1 HD.skyde">
-    <title>Bundesliga 25/26: Borussia Dortmund - Hamburger SV</title>
-</programme>
-<programme start="20260326150000 +0000" stop="20260326152000 +0000" channel="DAZN 1 HD.skyde">
-    <title>Best of DAZN: Highlights</title>
-</programme>
-<programme start="20260326152000 +0000" stop="20260326155000 +0000" channel="DAZN 1 HD.skyde">
+<programme start="20260326132000 +0000" stop="20260326135000 +0000" channel="DAZN 1 HD.skyde">
     <title>Google Pixel Frauen-Bundesliga Highlightshow 25/26: 21. Spieltag</title>
 </programme>
-<programme start="20260326155000 +0000" stop="20260326162000 +0000" channel="DAZN 1 HD.skyde">
+<programme start="20260326135000 +0000" stop="20260326142000 +0000" channel="DAZN 1 HD.skyde">
     <title>Doppelpack Europa - Highlights der Serie A und Ligue 1 25/26: 30./27. Spieltag</title>
 </programme>
-<programme start="20260326162000 +0000" stop="20260326165000 +0000" channel="DAZN 1 HD.skyde">
+<programme start="20260326142000 +0000" stop="20260326145000 +0000" channel="DAZN 1 HD.skyde">
     <title>Best of DAZN: Highlights</title>
 </programme>
-<programme start="20260326165000 +0000" stop="20260326190000 +0000" channel="DAZN 1 HD.skyde">
+<programme start="20260326145000 +0000" stop="20260326165500 +0000" channel="DAZN 1 HD.skyde">
+    <title>Freundschaftsspiele: Moldawien - Litauen</title>
+</programme>
+<programme start="20260326165500 +0000" stop="20260326190000 +0000" channel="DAZN 1 HD.skyde">
     <title>UEFA World Cup Qualifiers: Türkei - Rumänien</title>
 </programme>
-<programme start="20260326190000 +0000" stop="20260326192000 +0000" channel="DAZN 1 HD.skyde">
+<programme start="20260326190000 +0000" stop="20260326195100 +0000" channel="DAZN 1 HD.skyde">
     <title>Best of DAZN: Highlights</title>
-</programme>
-<programme start="20260326192000 +0000" stop="20260326195100 +0000" channel="DAZN 1 HD.skyde">
-    <title>Das Herz des deutschen Fußballs: Episode 1</title>
 </programme>
 <programme start="20260326195100 +0000" stop="20260326220500 +0000" channel="DAZN 1 HD.skyde">
     <title>Freundschaftsspiele: Brasilien - Frankreich</title>
@@ -1038,11 +1032,8 @@ Warning: Undefined array key "et" in /usr/home/ManusiaBiasa/domains/manusiabiasa
 <programme start="20260326153500 +0000" stop="20260326165000 +0000" channel="DAZN 2 HD.skyde">
     <title>ALL IN - Die Bundesliga Highlight Show: 27. Spieltag</title>
 </programme>
-<programme start="20260326165000 +0000" stop="20260326190500 +0000" channel="DAZN 2 HD.skyde">
+<programme start="20260326165000 +0000" stop="20260326191500 +0000" channel="DAZN 2 HD.skyde">
     <title>UEFA Nations League: Malta - Luxemburg</title>
-</programme>
-<programme start="20260326190500 +0000" stop="20260326191500 +0000" channel="DAZN 2 HD.skyde">
-    <title>Best of DAZN: Highlights</title>
 </programme>
 <programme start="20260326191500 +0000" stop="20260326215000 +0000" channel="DAZN 2 HD.skyde">
     <title>UEFA World Cup Qualifiers: Konferenz</title>
@@ -3420,22 +3411,19 @@ Warning: Undefined array key "et" in /usr/home/ManusiaBiasa/domains/manusiabiasa
 <programme start="20260325230000 +0000" stop="20260326010000 +0000" channel="Sky Sport Tennis HD.skyde">
     <title>Live WTA 1000: A. Sabalenka - H. Baptiste (USA), Miami Open presented by Itaú in Miami, Florida (USA), Viertelfinale 4</title>
 </programme>
-<programme start="20260326010000 +0000" stop="20260326030000 +0000" channel="Sky Sport Tennis HD.skyde">
+<programme start="20260326010000 +0000" stop="20260326040000 +0000" channel="Sky Sport Tennis HD.skyde">
     <title>Live ATP 1000: T. Paul (USA) - A. Fils (FRA), Miami Open presented by Itaú in Miami, Florida (USA), Viertelfinale 2</title>
 </programme>
-<programme start="20260326030000 +0000" stop="20260326050000 +0000" channel="Sky Sport Tennis HD.skyde">
+<programme start="20260326040000 +0000" stop="20260326060000 +0000" channel="Sky Sport Tennis HD.skyde">
     <title>WTA 1000: E. Rybakina (KAZ) - J. Pegula (USA), Miami Open presented by Itaú in Miami, Florida (USA), Viertelfinale 3</title>
 </programme>
-<programme start="20260326050000 +0000" stop="20260326070000 +0000" channel="Sky Sport Tennis HD.skyde">
+<programme start="20260326060000 +0000" stop="20260326080000 +0000" channel="Sky Sport Tennis HD.skyde">
     <title>ATP 1000: M. Landaluce (ESP) - J. Lehecka (CZE), Miami Open presented by Itaú in Miami, Florida (USA), Viertelfinale 1</title>
 </programme>
-<programme start="20260326070000 +0000" stop="20260326073000 +0000" channel="Sky Sport Tennis HD.skyde">
-    <title>ATP: This Week</title>
-</programme>
-<programme start="20260326073000 +0000" stop="20260326093000 +0000" channel="Sky Sport Tennis HD.skyde">
+<programme start="20260326080000 +0000" stop="20260326100000 +0000" channel="Sky Sport Tennis HD.skyde">
     <title>ATP 1000: T. Paul (USA) - A. Fils (FRA), Miami Open presented by Itaú in Miami, Florida (USA), Viertelfinale 2</title>
 </programme>
-<programme start="20260326093000 +0000" stop="20260326113000 +0000" channel="Sky Sport Tennis HD.skyde">
+<programme start="20260326100000 +0000" stop="20260326113000 +0000" channel="Sky Sport Tennis HD.skyde">
     <title>WTA 1000: A. Sabalenka - H. Baptiste (USA), Miami Open presented by Itaú in Miami, Florida (USA), Viertelfinale 4</title>
 </programme>
 <programme start="20260326113000 +0000" stop="20260326123000 +0000" channel="Sky Sport Tennis HD.skyde">
