@@ -2383,45 +2383,6 @@
   <programme start="20260328224000 +0000" stop="20260328232000 +0000" channel="RiK TV.webtv.sk">
     <title lang="id">Barbie: Dom snov I (26)</title>
   </programme>
-  <programme start="20260327230000 +0000" stop="20260328040000 +0000" channel="LALA TV.webtv.sk">
-    <title lang="id">Spíva celá rodina</title>
-  </programme>
-  <programme start="20260328040000 +0000" stop="20260328060000 +0000" channel="LALA TV.webtv.sk">
-    <title lang="id">Ranní ptáčata</title>
-  </programme>
-  <programme start="20260328060000 +0000" stop="20260328070000 +0000" channel="LALA TV.webtv.sk">
-    <title lang="id">Já jsem budík budíček</title>
-  </programme>
-  <programme start="20260328070000 +0000" stop="20260328080000 +0000" channel="LALA TV.webtv.sk">
-    <title lang="id">Spíva celá rodina</title>
-  </programme>
-  <programme start="20260328080000 +0000" stop="20260328110000 +0000" channel="LALA TV.webtv.sk">
-    <title lang="id">Pějme písně dokola</title>
-  </programme>
-  <programme start="20260328110000 +0000" stop="20260328120000 +0000" channel="LALA TV.webtv.sk">
-    <title lang="id">Hvězdy a hvězdičky</title>
-  </programme>
-  <programme start="20260328120000 +0000" stop="20260328150000 +0000" channel="LALA TV.webtv.sk">
-    <title lang="id">Pějme písně dokola</title>
-  </programme>
-  <programme start="20260328150000 +0000" stop="20260328160000 +0000" channel="LALA TV.webtv.sk">
-    <title lang="id">Hvězdy a hvězdičky</title>
-  </programme>
-  <programme start="20260328160000 +0000" stop="20260328170000 +0000" channel="LALA TV.webtv.sk">
-    <title lang="id">Spíva celá rodina</title>
-  </programme>
-  <programme start="20260328170000 +0000" stop="20260328180000 +0000" channel="LALA TV.webtv.sk">
-    <title lang="id">Pějme písně dokola</title>
-  </programme>
-  <programme start="20260328180000 +0000" stop="20260328190000 +0000" channel="LALA TV.webtv.sk">
-    <title lang="id">Hvězdy a hvězdičky</title>
-  </programme>
-  <programme start="20260328190000 +0000" stop="20260328210000 +0000" channel="LALA TV.webtv.sk">
-    <title lang="id">Pějme písně dokola</title>
-  </programme>
-  <programme start="20260328210000 +0000" stop="20260328230000 +0000" channel="LALA TV.webtv.sk">
-    <title lang="id">Malí nezbedníci</title>
-  </programme>
   <programme start="20260327230000 +0000" stop="20260328050000 +0000" channel="Turbo TV.webtv.sk">
     <title lang="id">Zajko Turbo spinká. Prajeme Vám dobrú noc.</title>
   </programme>
@@ -8931,48 +8892,6 @@
   </programme>
   <programme start="20260328225500 +0000" stop="20260329002000 +0000" channel="AXN Black.webtv.sk">
     <title lang="id">S.W.A.T.: Obležení</title>
-  </programme>
-  <programme start="20260327205500 +0000" stop="20260327231500 +0000" channel="FilmBox.webtv.sk">
-    <title lang="id">Ironclad</title>
-  </programme>
-  <programme start="20260327231500 +0000" stop="20260328005000 +0000" channel="FilmBox.webtv.sk">
-    <title lang="id">Lukas</title>
-  </programme>
-  <programme start="20260328005000 +0000" stop="20260328021500 +0000" channel="FilmBox.webtv.sk">
-    <title lang="id">Ve jménu krále 3: Síla medailonu</title>
-  </programme>
-  <programme start="20260328021500 +0000" stop="20260328035000 +0000" channel="FilmBox.webtv.sk">
-    <title lang="id">Za okraj světa</title>
-  </programme>
-  <programme start="20260328035000 +0000" stop="20260328050000 +0000" channel="FilmBox.webtv.sk">
-    <title lang="id">Noční tabule</title>
-  </programme>
-  <programme start="20260328050000 +0000" stop="20260328065000 +0000" channel="FilmBox.webtv.sk">
-    <title lang="id">Smrtící erupce</title>
-  </programme>
-  <programme start="20260328065000 +0000" stop="20260328093000 +0000" channel="FilmBox.webtv.sk">
-    <title lang="id">Muž, který chtěl být králem</title>
-  </programme>
-  <programme start="20260328093000 +0000" stop="20260328110500 +0000" channel="FilmBox.webtv.sk">
-    <title lang="id">Indiáni z Větrova</title>
-  </programme>
-  <programme start="20260328110500 +0000" stop="20260328130500 +0000" channel="FilmBox.webtv.sk">
-    <title lang="id">Král králů</title>
-  </programme>
-  <programme start="20260328130500 +0000" stop="20260328145500 +0000" channel="FilmBox.webtv.sk">
-    <title lang="id">Pumpaři od zlaté podkovy</title>
-  </programme>
-  <programme start="20260328145500 +0000" stop="20260328165500 +0000" channel="FilmBox.webtv.sk">
-    <title lang="id">Pták Ohnivák</title>
-  </programme>
-  <programme start="20260328165500 +0000" stop="20260328190000 +0000" channel="FilmBox.webtv.sk">
-    <title lang="id">Čertí brko</title>
-  </programme>
-  <programme start="20260328190000 +0000" stop="20260328210500 +0000" channel="FilmBox.webtv.sk">
-    <title lang="id">Víc než podezření</title>
-  </programme>
-  <programme start="20260328210500 +0000" stop="20260328232000 +0000" channel="FilmBox.webtv.sk">
-    <title lang="id">Čínský obchodník</title>
   </programme>
   <programme start="20260327214000 +0000" stop="20260327232500 +0000" channel="FilmBox Extra.webtv.sk">
     <title lang="id">Lovec hlav</title>

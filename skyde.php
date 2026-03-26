@@ -1038,11 +1038,8 @@ Warning: Undefined array key "et" in /usr/home/ManusiaBiasa/domains/manusiabiasa
 <programme start="20260326153500 +0000" stop="20260326165000 +0000" channel="DAZN 2 HD.skyde">
     <title>ALL IN - Die Bundesliga Highlight Show: 27. Spieltag</title>
 </programme>
-<programme start="20260326165000 +0000" stop="20260326190500 +0000" channel="DAZN 2 HD.skyde">
+<programme start="20260326165000 +0000" stop="20260326191500 +0000" channel="DAZN 2 HD.skyde">
     <title>UEFA Nations League: Malta - Luxemburg</title>
-</programme>
-<programme start="20260326190500 +0000" stop="20260326191500 +0000" channel="DAZN 2 HD.skyde">
-    <title>Best of DAZN: Highlights</title>
 </programme>
 <programme start="20260326191500 +0000" stop="20260326215000 +0000" channel="DAZN 2 HD.skyde">
     <title>UEFA World Cup Qualifiers: Konferenz</title>
@@ -2629,7 +2626,7 @@ Warning: Undefined array key "et" in /usr/home/ManusiaBiasa/domains/manusiabiasa
     <title>RIESENrad: Sportgrößen im Waggon 28 (Gast: Benjamin Karl)</title>
 </programme>
 <programme start="20260326183000 +0000" stop="20260326190000 +0000" channel="Sky Sport Austria 1 HD.skyde">
-    <title>Admiral BL: 90in30: XXX - YYY, 24. Runde</title>
+    <title>Admiral BL: 90in30: STU - RBS, 24. Runde</title>
 </programme>
 <programme start="20260326190000 +0000" stop="20260326193000 +0000" channel="Sky Sport Austria 1 HD.skyde">
     <title>Admiral BL: Torparade XXL (Runden 21-24)</title>
@@ -3420,22 +3417,19 @@ Warning: Undefined array key "et" in /usr/home/ManusiaBiasa/domains/manusiabiasa
 <programme start="20260325230000 +0000" stop="20260326010000 +0000" channel="Sky Sport Tennis HD.skyde">
     <title>Live WTA 1000: A. Sabalenka - H. Baptiste (USA), Miami Open presented by Itaú in Miami, Florida (USA), Viertelfinale 4</title>
 </programme>
-<programme start="20260326010000 +0000" stop="20260326030000 +0000" channel="Sky Sport Tennis HD.skyde">
+<programme start="20260326010000 +0000" stop="20260326040000 +0000" channel="Sky Sport Tennis HD.skyde">
     <title>Live ATP 1000: T. Paul (USA) - A. Fils (FRA), Miami Open presented by Itaú in Miami, Florida (USA), Viertelfinale 2</title>
 </programme>
-<programme start="20260326030000 +0000" stop="20260326050000 +0000" channel="Sky Sport Tennis HD.skyde">
+<programme start="20260326040000 +0000" stop="20260326060000 +0000" channel="Sky Sport Tennis HD.skyde">
     <title>WTA 1000: E. Rybakina (KAZ) - J. Pegula (USA), Miami Open presented by Itaú in Miami, Florida (USA), Viertelfinale 3</title>
 </programme>
-<programme start="20260326050000 +0000" stop="20260326070000 +0000" channel="Sky Sport Tennis HD.skyde">
+<programme start="20260326060000 +0000" stop="20260326080000 +0000" channel="Sky Sport Tennis HD.skyde">
     <title>ATP 1000: M. Landaluce (ESP) - J. Lehecka (CZE), Miami Open presented by Itaú in Miami, Florida (USA), Viertelfinale 1</title>
 </programme>
-<programme start="20260326070000 +0000" stop="20260326073000 +0000" channel="Sky Sport Tennis HD.skyde">
-    <title>ATP: This Week</title>
-</programme>
-<programme start="20260326073000 +0000" stop="20260326093000 +0000" channel="Sky Sport Tennis HD.skyde">
+<programme start="20260326080000 +0000" stop="20260326100000 +0000" channel="Sky Sport Tennis HD.skyde">
     <title>ATP 1000: T. Paul (USA) - A. Fils (FRA), Miami Open presented by Itaú in Miami, Florida (USA), Viertelfinale 2</title>
 </programme>
-<programme start="20260326093000 +0000" stop="20260326113000 +0000" channel="Sky Sport Tennis HD.skyde">
+<programme start="20260326100000 +0000" stop="20260326113000 +0000" channel="Sky Sport Tennis HD.skyde">
     <title>WTA 1000: A. Sabalenka - H. Baptiste (USA), Miami Open presented by Itaú in Miami, Florida (USA), Viertelfinale 4</title>
 </programme>
 <programme start="20260326113000 +0000" stop="20260326123000 +0000" channel="Sky Sport Tennis HD.skyde">

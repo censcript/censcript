@@ -625,6 +625,9 @@
 <programme start="20260326090000 +0000" stop="20260326110000 +0000" channel="ANTV.vision">
 <title>Vasudha</title>
 </programme>
+<programme start="20260326130000 +0000" stop="20260326143000 +0000" channel="ANTV.vision">
+<title>Nyi Ageng Ratu Pemikat</title>
+</programme>
 <programme start="20260326143000 +0000" stop="20260326163000 +0000" channel="ANTV.vision">
 <title>Mangkujiwo</title>
 </programme>
@@ -1494,7 +1497,4 @@
 </programme>
 <programme start="20260326051500 +0000" stop="20260326063500 +0000" channel="MDTV.vision">
 <title>Makandunia</title>
-</programme>
-<programme start="20260326063500 +0000" stop="20260326080500 +0000" channel="MDTV.vision">
-<title>Makan Enak</title>
 </programme>
