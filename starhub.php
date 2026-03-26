@@ -6923,7 +6923,7 @@
         <title>LaLiga 2025/26: Espanyol vs Getafe</title>
     </programme>
     <programme start="20260327022500 +0000" stop="20260327033000 +0000" channel="beIN Sports HD.starhub">
-        <title>Formula 1 Practice 2026: FORMULA 1 ARAMCO JAPANESE GRAND PRIX 2026 Practice 1 (L</title>
+        <title>Formula 1 Practice 2026: FORMULA 1 ARAMCO JAPANESE GRAND PRIX 2026 Practice 1 (Live)</title>
     </programme>
     <programme start="20260327033000 +0000" stop="20260327043000 +0000" channel="beIN Sports HD.starhub">
         <title>Dakar 2026</title>
@@ -6938,7 +6938,7 @@
         <title>Matchday 29</title>
     </programme>
     <programme start="20260327055500 +0000" stop="20260327070000 +0000" channel="beIN Sports HD.starhub">
-        <title>Formula 1 Practice 2026: FORMULA 1 ARAMCO JAPANESE GRAND PRIX 2026 Practice 2 (L</title>
+        <title>Formula 1 Practice 2026: FORMULA 1 ARAMCO JAPANESE GRAND PRIX 2026 Practice 2 (Live)</title>
     </programme>
     <programme start="20260327070000 +0000" stop="20260327071500 +0000" channel="beIN Sports HD.starhub">
         <title>Julian Alvarez</title>
