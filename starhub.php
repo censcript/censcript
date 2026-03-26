@@ -3842,7 +3842,7 @@
         <title>The Last Lecture &quot;Hirano Remi&quot;</title>
     </programme>
     <programme start="20260325193500 +0000" stop="20260325200000 +0000" channel="NHK World Premium HD.starhub">
-        <title>TBA</title>
+        <title>Today&#039;s Cooking</title>
     </programme>
     <programme start="20260325200000 +0000" stop="20260325201000 +0000" channel="NHK World Premium HD.starhub">
         <title>TV Exercise</title>
@@ -6878,7 +6878,7 @@
         <title>LaLiga Archive: Barcelona vs Espanyol - 2012/13</title>
     </programme>
     <programme start="20260325174000 +0000" stop="20260325195500 +0000" channel="beIN Sports HD.starhub">
-        <title>UEFA Women&#039;s Champions League 2025/26: Real Madrid vs Barcelona - QF, 1st Leg (Live)</title>
+        <title>UEFA Women&#039;s Champions League 2025/26: Real Madrid vs Barcelona - QF, 1st Leg (L</title>
     </programme>
     <programme start="20260325195500 +0000" stop="20260325220000 +0000" channel="beIN Sports HD.starhub">
         <title>UEFA Women&#039;s Champions League 2025/26: Man United vs Bayern - QF, 1st Leg (Live)</title>

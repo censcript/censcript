@@ -892,111 +892,6 @@
   <programme start="20260328224000 +0000" stop="20260329000500 +0000" channel="Markíza Klasik.webtv.sk">
     <title lang="id">Televarieté</title>
   </programme>
-  <programme start="20260327222000 +0000" stop="20260327230500 +0000" channel="DajTo.webtv.sk">
-    <title lang="id">Dva a pol chlapa IX (21)</title>
-  </programme>
-  <programme start="20260327230500 +0000" stop="20260328013000 +0000" channel="DajTo.webtv.sk">
-    <title lang="id">NHL (119)</title>
-  </programme>
-  <programme start="20260328013000 +0000" stop="20260328014000 +0000" channel="DajTo.webtv.sk">
-    <title lang="id">Športové noviny</title>
-  </programme>
-  <programme start="20260328014000 +0000" stop="20260328022000 +0000" channel="DajTo.webtv.sk">
-    <title lang="id">Susedia (16)</title>
-  </programme>
-  <programme start="20260328022000 +0000" stop="20260328031500 +0000" channel="DajTo.webtv.sk">
-    <title lang="id">Horná Dolná I (1)</title>
-  </programme>
-  <programme start="20260328031500 +0000" stop="20260328040000 +0000" channel="DajTo.webtv.sk">
-    <title lang="id">Smiechoty (26)</title>
-  </programme>
-  <programme start="20260328040000 +0000" stop="20260328042500 +0000" channel="DajTo.webtv.sk">
-    <title lang="id">Zig a Sharko</title>
-  </programme>
-  <programme start="20260328042500 +0000" stop="20260328043000 +0000" channel="DajTo.webtv.sk">
-    <title lang="id">Bernieho dobrodružstvá</title>
-  </programme>
-  <programme start="20260328043000 +0000" stop="20260328050000 +0000" channel="DajTo.webtv.sk">
-    <title lang="id">Oggy a šváby</title>
-  </programme>
-  <programme start="20260328050000 +0000" stop="20260328054000 +0000" channel="DajTo.webtv.sk">
-    <title lang="id">Je to možné?! (2)</title>
-  </programme>
-  <programme start="20260328054000 +0000" stop="20260328062000 +0000" channel="DajTo.webtv.sk">
-    <title lang="id">Susedia (15)</title>
-  </programme>
-  <programme start="20260328062000 +0000" stop="20260328070000 +0000" channel="DajTo.webtv.sk">
-    <title lang="id">Susedia (16)</title>
-  </programme>
-  <programme start="20260328070000 +0000" stop="20260328083000 +0000" channel="DajTo.webtv.sk">
-    <title lang="id">Kredenc (2)</title>
-  </programme>
-  <programme start="20260328083000 +0000" stop="20260328091500 +0000" channel="DajTo.webtv.sk">
-    <title lang="id">Partička (2)</title>
-  </programme>
-  <programme start="20260328091500 +0000" stop="20260328100500 +0000" channel="DajTo.webtv.sk">
-    <title lang="id">Horná Dolná I (2)</title>
-  </programme>
-  <programme start="20260328100500 +0000" stop="20260328103000 +0000" channel="DajTo.webtv.sk">
-    <title lang="id">Dva a pol chlapa X (4)</title>
-  </programme>
-  <programme start="20260328103000 +0000" stop="20260328105000 +0000" channel="DajTo.webtv.sk">
-    <title lang="id">Dva a pol chlapa X (5)</title>
-  </programme>
-  <programme start="20260328105000 +0000" stop="20260328111000 +0000" channel="DajTo.webtv.sk">
-    <title lang="id">Dva a pol chlapa X (6)</title>
-  </programme>
-  <programme start="20260328111000 +0000" stop="20260328113500 +0000" channel="DajTo.webtv.sk">
-    <title lang="id">Dva a pol chlapa X (7)</title>
-  </programme>
-  <programme start="20260328113500 +0000" stop="20260328115500 +0000" channel="DajTo.webtv.sk">
-    <title lang="id">Teória veľkého tresku XII (14)</title>
-  </programme>
-  <programme start="20260328115500 +0000" stop="20260328124000 +0000" channel="DajTo.webtv.sk">
-    <title lang="id">Teória veľkého tresku XII (15)</title>
-  </programme>
-  <programme start="20260328124000 +0000" stop="20260328130500 +0000" channel="DajTo.webtv.sk">
-    <title lang="id">Teória veľkého tresku XII (16)</title>
-  </programme>
-  <programme start="20260328130500 +0000" stop="20260328133000 +0000" channel="DajTo.webtv.sk">
-    <title lang="id">Teória veľkého tresku XII (17)</title>
-  </programme>
-  <programme start="20260328133000 +0000" stop="20260328140000 +0000" channel="DajTo.webtv.sk">
-    <title lang="id">Teória veľkého tresku XII (18)</title>
-  </programme>
-  <programme start="20260328140000 +0000" stop="20260328143000 +0000" channel="DajTo.webtv.sk">
-    <title lang="id">Teória veľkého tresku XII (19)</title>
-  </programme>
-  <programme start="20260328143000 +0000" stop="20260328150000 +0000" channel="DajTo.webtv.sk">
-    <title lang="id">Priatelia IX (5)</title>
-  </programme>
-  <programme start="20260328150000 +0000" stop="20260328154000 +0000" channel="DajTo.webtv.sk">
-    <title lang="id">Priatelia IX (6)</title>
-  </programme>
-  <programme start="20260328154000 +0000" stop="20260328160500 +0000" channel="DajTo.webtv.sk">
-    <title lang="id">Dva a pol chlapa X (8)</title>
-  </programme>
-  <programme start="20260328160500 +0000" stop="20260328163500 +0000" channel="DajTo.webtv.sk">
-    <title lang="id">Dva a pol chlapa X (9)</title>
-  </programme>
-  <programme start="20260328163500 +0000" stop="20260328170500 +0000" channel="DajTo.webtv.sk">
-    <title lang="id">2 baby na mizine I (15)</title>
-  </programme>
-  <programme start="20260328170500 +0000" stop="20260328173000 +0000" channel="DajTo.webtv.sk">
-    <title lang="id">2 baby na mizine I (16)</title>
-  </programme>
-  <programme start="20260328173000 +0000" stop="20260328183500 +0000" channel="DajTo.webtv.sk">
-    <title lang="id">Horná Dolná I (3)</title>
-  </programme>
-  <programme start="20260328183500 +0000" stop="20260328193000 +0000" channel="DajTo.webtv.sk">
-    <title lang="id">Susedia (17)</title>
-  </programme>
-  <programme start="20260328193000 +0000" stop="20260328211500 +0000" channel="DajTo.webtv.sk">
-    <title lang="id">Zviera</title>
-  </programme>
-  <programme start="20260328211500 +0000" stop="20260328231000 +0000" channel="DajTo.webtv.sk">
-    <title lang="id">Nočná hra</title>
-  </programme>
   <programme start="20260327220500 +0000" stop="20260327231500 +0000" channel="Doma.webtv.sk">
     <title lang="id">Zachránené životy (119)</title>
   </programme>
@@ -1338,6 +1233,87 @@
   </programme>
   <programme start="20260328220500 +0000" stop="20260329000500 +0000" channel="WAU.webtv.sk">
     <title lang="id">Columbo VIII (1/24)</title>
+  </programme>
+  <programme start="20260327225000 +0000" stop="20260327234000 +0000" channel="JOJ Svet.webtv.sk">
+    <title lang="id">Mýty a príšery I (3)</title>
+  </programme>
+  <programme start="20260327234000 +0000" stop="20260328003500 +0000" channel="JOJ Svet.webtv.sk">
+    <title lang="id">Katastrofy v priamom prenose I (4)</title>
+  </programme>
+  <programme start="20260328003500 +0000" stop="20260328012500 +0000" channel="JOJ Svet.webtv.sk">
+    <title lang="id">Lovci duchov I (10)</title>
+  </programme>
+  <programme start="20260328012500 +0000" stop="20260328050000 +0000" channel="JOJ Svet.webtv.sk">
+    <title lang="id">História 360</title>
+  </programme>
+  <programme start="20260328050000 +0000" stop="20260328070000 +0000" channel="JOJ Svet.webtv.sk">
+    <title lang="id">História 360</title>
+  </programme>
+  <programme start="20260328070000 +0000" stop="20260328080000 +0000" channel="JOJ Svet.webtv.sk">
+    <title lang="id">Prežiť v divočine I (4)</title>
+  </programme>
+  <programme start="20260328080000 +0000" stop="20260328090000 +0000" channel="JOJ Svet.webtv.sk">
+    <title lang="id">Hudba mesta</title>
+  </programme>
+  <programme start="20260328090000 +0000" stop="20260328093000 +0000" channel="JOJ Svet.webtv.sk">
+    <title lang="id">Pokusy s vlastným telom</title>
+  </programme>
+  <programme start="20260328093000 +0000" stop="20260328103000 +0000" channel="JOJ Svet.webtv.sk">
+    <title lang="id">Zabijaci z divočiny: Zrodení zabíjať II (4)</title>
+  </programme>
+  <programme start="20260328103000 +0000" stop="20260328113000 +0000" channel="JOJ Svet.webtv.sk">
+    <title lang="id">Mýty a príšery I (3)</title>
+  </programme>
+  <programme start="20260328113000 +0000" stop="20260328115000 +0000" channel="JOJ Svet.webtv.sk">
+    <title lang="id">Zbrane Hollywoodu</title>
+  </programme>
+  <programme start="20260328115000 +0000" stop="20260328123000 +0000" channel="JOJ Svet.webtv.sk">
+    <title lang="id">Zbrane Hollywoodu III (1)</title>
+  </programme>
+  <programme start="20260328123000 +0000" stop="20260328130000 +0000" channel="JOJ Svet.webtv.sk">
+    <title lang="id">Zbrane Hollywoodu</title>
+  </programme>
+  <programme start="20260328130000 +0000" stop="20260328133000 +0000" channel="JOJ Svet.webtv.sk">
+    <title lang="id">Zbrane Hollywoodu</title>
+  </programme>
+  <programme start="20260328133000 +0000" stop="20260328140000 +0000" channel="JOJ Svet.webtv.sk">
+    <title lang="id">Zbrane Hollywoodu</title>
+  </programme>
+  <programme start="20260328140000 +0000" stop="20260328150000 +0000" channel="JOJ Svet.webtv.sk">
+    <title lang="id">Tajomstvá mozgu I (4)</title>
+  </programme>
+  <programme start="20260328150000 +0000" stop="20260328160000 +0000" channel="JOJ Svet.webtv.sk">
+    <title lang="id">Hitler: Osudová príťažlivosť Nemecka</title>
+  </programme>
+  <programme start="20260328160000 +0000" stop="20260328170000 +0000" channel="JOJ Svet.webtv.sk">
+    <title lang="id">Katastrofy v priamom prenose I (4)</title>
+  </programme>
+  <programme start="20260328170000 +0000" stop="20260328173000 +0000" channel="JOJ Svet.webtv.sk">
+    <title lang="id">Bratia proti prírode</title>
+  </programme>
+  <programme start="20260328173000 +0000" stop="20260328180000 +0000" channel="JOJ Svet.webtv.sk">
+    <title lang="id">Bratia proti prírode</title>
+  </programme>
+  <programme start="20260328180000 +0000" stop="20260328183000 +0000" channel="JOJ Svet.webtv.sk">
+    <title lang="id">Bratia proti prírode</title>
+  </programme>
+  <programme start="20260328183000 +0000" stop="20260328190000 +0000" channel="JOJ Svet.webtv.sk">
+    <title lang="id">Bratia proti prírode</title>
+  </programme>
+  <programme start="20260328190000 +0000" stop="20260328193000 +0000" channel="JOJ Svet.webtv.sk">
+    <title lang="id">Bratia proti prírode</title>
+  </programme>
+  <programme start="20260328193000 +0000" stop="20260328200000 +0000" channel="JOJ Svet.webtv.sk">
+    <title lang="id">Rockové legendy XII (2)</title>
+  </programme>
+  <programme start="20260328200000 +0000" stop="20260328203000 +0000" channel="JOJ Svet.webtv.sk">
+    <title lang="id">Rockové legendy</title>
+  </programme>
+  <programme start="20260328203000 +0000" stop="20260328210000 +0000" channel="JOJ Svet.webtv.sk">
+    <title lang="id">Pokusy s vlastným telom</title>
+  </programme>
+  <programme start="20260328210000 +0000" stop="20260328230000 +0000" channel="JOJ Svet.webtv.sk">
+    <title lang="id">Svet podľa Daliborka</title>
   </programme>
   <programme start="20260327225500 +0000" stop="20260328005000 +0000" channel="JOJ Cinema.webtv.sk">
     <title lang="id">Somálski piráti</title>
@@ -9067,54 +9043,6 @@
   <programme start="20260328211000 +0000" stop="20260328232000 +0000" channel="FilmBox Stars.webtv.sk">
     <title lang="id">Duše jako kaviár</title>
   </programme>
-  <programme start="20260327200000 +0000" stop="20260328001000 +0000" channel="FightBox.webtv.sk">
-    <title lang="id">Bare Knuckle Boxing (BKB) 35, London, UK 27.01.2024 XLIV (7)</title>
-  </programme>
-  <programme start="20260328001000 +0000" stop="20260328032000 +0000" channel="FightBox.webtv.sk">
-    <title lang="id">We Love MMA 68, Germany, 25.11.2023 XVI (16)</title>
-  </programme>
-  <programme start="20260328032000 +0000" stop="20260328041500 +0000" channel="FightBox.webtv.sk">
-    <title lang="id">Fighting Rookies 2014 III (20)</title>
-  </programme>
-  <programme start="20260328041500 +0000" stop="20260328045000 +0000" channel="FightBox.webtv.sk">
-    <title lang="id">UK Wrestling Showdown I (20)</title>
-  </programme>
-  <programme start="20260328045000 +0000" stop="20260328050000 +0000" channel="FightBox.webtv.sk">
-    <title lang="id">Abu Dhabi Jiu-Jitsu Grand Slam 2020</title>
-  </programme>
-  <programme start="20260328050000 +0000" stop="20260328054500 +0000" channel="FightBox.webtv.sk">
-    <title lang="id">Punch Down 5, Poznań, Poland, 07.03.2020 XXXVI (5)</title>
-  </programme>
-  <programme start="20260328054500 +0000" stop="20260328060000 +0000" channel="FightBox.webtv.sk">
-    <title lang="id">Abu Dhabi Jiu-Jitsu Grand Slam 2020</title>
-  </programme>
-  <programme start="20260328060000 +0000" stop="20260328061500 +0000" channel="FightBox.webtv.sk">
-    <title lang="id">Abu Dhabi Jiu-Jitsu Grand Slam 2020</title>
-  </programme>
-  <programme start="20260328061500 +0000" stop="20260328063000 +0000" channel="FightBox.webtv.sk">
-    <title lang="id">Abu Dhabi Jiu-Jitsu Grand Slam 2020</title>
-  </programme>
-  <programme start="20260328063000 +0000" stop="20260328064000 +0000" channel="FightBox.webtv.sk">
-    <title lang="id">Abu Dhabi Jiu-Jitsu Grand Slam 2020</title>
-  </programme>
-  <programme start="20260328064000 +0000" stop="20260328104500 +0000" channel="FightBox.webtv.sk">
-    <title lang="id">Professional Boxing XXXVIII (1)</title>
-  </programme>
-  <programme start="20260328104500 +0000" stop="20260328153000 +0000" channel="FightBox.webtv.sk">
-    <title lang="id">WGP Kickboxing Brazil, Ep. 27 XXII (27)</title>
-  </programme>
-  <programme start="20260328153000 +0000" stop="20260328192000 +0000" channel="FightBox.webtv.sk">
-    <title lang="id">Fox Sports Africa Boxing, South Africa, 29.09.2022 XVIII (9)</title>
-  </programme>
-  <programme start="20260328192000 +0000" stop="20260328200000 +0000" channel="FightBox.webtv.sk">
-    <title lang="id">Underground Boxing Night, Pt 2, Poland 2023 XLIX (2)</title>
-  </programme>
-  <programme start="20260328200000 +0000" stop="20260328222000 +0000" channel="FightBox.webtv.sk">
-    <title lang="id">FCR MMA 20, 01.06.2024 I (3)</title>
-  </programme>
-  <programme start="20260328222000 +0000" stop="20260328233500 +0000" channel="FightBox.webtv.sk">
-    <title lang="id">FCR MMA 22, 30.11.2024 I (4)</title>
-  </programme>
   <programme start="20260327223500 +0000" stop="20260328000500 +0000" channel="Filmbox Arthouse.webtv.sk">
     <title lang="id">Roaring Abyss</title>
   </programme>
@@ -16686,6 +16614,96 @@
   </programme>
   <programme start="20260328220100 +0000" stop="20260328230500 +0000" channel="UA TV.webtv.sk">
     <title lang="id">Інформаційні сюжети</title>
+  </programme>
+  <programme start="20260327230000 +0000" stop="20260328000000 +0000" channel="Espreso TV.webtv.sk">
+    <title lang="id">Євроінтеграція з Юрієм Фізером</title>
+  </programme>
+  <programme start="20260328000000 +0000" stop="20260328010000 +0000" channel="Espreso TV.webtv.sk">
+    <title lang="id">Тепер головне</title>
+  </programme>
+  <programme start="20260328010000 +0000" stop="20260328020000 +0000" channel="Espreso TV.webtv.sk">
+    <title lang="id">СвітОгляд з Євгеном Магдою</title>
+  </programme>
+  <programme start="20260328020000 +0000" stop="20260328030000 +0000" channel="Espreso TV.webtv.sk">
+    <title lang="id">Інформаційний марафон</title>
+  </programme>
+  <programme start="20260328030000 +0000" stop="20260328040000 +0000" channel="Espreso TV.webtv.sk">
+    <title lang="id">Студія Захід з Антоном Борковським</title>
+  </programme>
+  <programme start="20260328040000 +0000" stop="20260328050000 +0000" channel="Espreso TV.webtv.sk">
+    <title lang="id">Тепер головне</title>
+  </programme>
+  <programme start="20260328050000 +0000" stop="20260328060000 +0000" channel="Espreso TV.webtv.sk">
+    <title lang="id">Європейці з Лесею Вакулюк</title>
+  </programme>
+  <programme start="20260328060000 +0000" stop="20260328070000 +0000" channel="Espreso TV.webtv.sk">
+    <title lang="id">Євроінтеграція з Юрієм Фізером</title>
+  </programme>
+  <programme start="20260328070000 +0000" stop="20260328070100 +0000" channel="Espreso TV.webtv.sk">
+    <title lang="id">Хвилина мовчання</title>
+  </programme>
+  <programme start="20260328070100 +0000" stop="20260328074000 +0000" channel="Espreso TV.webtv.sk">
+    <title lang="id">Донбас. Pеалії</title>
+  </programme>
+  <programme start="20260328074000 +0000" stop="20260328080000 +0000" channel="Espreso TV.webtv.sk">
+    <title lang="id">Жінки на війні</title>
+  </programme>
+  <programme start="20260328080000 +0000" stop="20260328090000 +0000" channel="Espreso TV.webtv.sk">
+    <title lang="id">Тепер головне</title>
+  </programme>
+  <programme start="20260328090000 +0000" stop="20260328100000 +0000" channel="Espreso TV.webtv.sk">
+    <title lang="id">Свобода Live</title>
+  </programme>
+  <programme start="20260328100000 +0000" stop="20260328110000 +0000" channel="Espreso TV.webtv.sk">
+    <title lang="id">ДНК міста (7) (7)</title>
+  </programme>
+  <programme start="20260328110000 +0000" stop="20260328120000 +0000" channel="Espreso TV.webtv.sk">
+    <title lang="id">Студія Захід з Антоном Борковським</title>
+  </programme>
+  <programme start="20260328120000 +0000" stop="20260328121000 +0000" channel="Espreso TV.webtv.sk">
+    <title lang="id">Новини</title>
+  </programme>
+  <programme start="20260328121000 +0000" stop="20260328123000 +0000" channel="Espreso TV.webtv.sk">
+    <title lang="id">Історії людей поруч</title>
+  </programme>
+  <programme start="20260328123000 +0000" stop="20260328124500 +0000" channel="Espreso TV.webtv.sk">
+    <title lang="id">France 24</title>
+  </programme>
+  <programme start="20260328124500 +0000" stop="20260328130000 +0000" channel="Espreso TV.webtv.sk">
+    <title lang="id">Жінки на війні</title>
+  </programme>
+  <programme start="20260328130000 +0000" stop="20260328140000 +0000" channel="Espreso TV.webtv.sk">
+    <title lang="id">Центр Європи</title>
+  </programme>
+  <programme start="20260328140000 +0000" stop="20260328150000 +0000" channel="Espreso TV.webtv.sk">
+    <title lang="id">Люди-мости</title>
+  </programme>
+  <programme start="20260328150000 +0000" stop="20260328160000 +0000" channel="Espreso TV.webtv.sk">
+    <title lang="id">Східний щит</title>
+  </programme>
+  <programme start="20260328160000 +0000" stop="20260328163000 +0000" channel="Espreso TV.webtv.sk">
+    <title lang="id">Новини</title>
+  </programme>
+  <programme start="20260328163000 +0000" stop="20260328170000 +0000" channel="Espreso TV.webtv.sk">
+    <title lang="id">Pеальний фронт з Тарасом Березовцем</title>
+  </programme>
+  <programme start="20260328170000 +0000" stop="20260328190000 +0000" channel="Espreso TV.webtv.sk">
+    <title lang="id">Суботній політклуб</title>
+  </programme>
+  <programme start="20260328190000 +0000" stop="20260328200000 +0000" channel="Espreso TV.webtv.sk">
+    <title lang="id">Східний щит</title>
+  </programme>
+  <programme start="20260328200000 +0000" stop="20260328203000 +0000" channel="Espreso TV.webtv.sk">
+    <title lang="id">Pеальний фронт з Тарасом Березовцем</title>
+  </programme>
+  <programme start="20260328203000 +0000" stop="20260328210000 +0000" channel="Espreso TV.webtv.sk">
+    <title lang="id">Польща за тиждень</title>
+  </programme>
+  <programme start="20260328210000 +0000" stop="20260328220000 +0000" channel="Espreso TV.webtv.sk">
+    <title lang="id">Студія Захід з Антоном Борковським</title>
+  </programme>
+  <programme start="20260328220000 +0000" stop="20260329000000 +0000" channel="Espreso TV.webtv.sk">
+    <title lang="id">Суботній політклуб</title>
   </programme>
   <programme start="20260327230000 +0000" stop="20260328000000 +0000" channel="Current Time.webtv.sk">
     <title lang="id">Археология</title>
