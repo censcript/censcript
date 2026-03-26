@@ -2649,7 +2649,7 @@ Warning: Undefined array key "et" in /usr/home/ManusiaBiasa/domains/manusiabiasa
 <programme start="20260326184000 +0000" stop="20260326190000 +0000" channel="Sky Sport Austria 2 HD.skyde">
     <title>Es folgt: Live Tennis WTA Tour</title>
 </programme>
-<programme start="20260326190000 +0000" stop="20260326230000 +0000" channel="Sky Sport Austria 2 HD.skyde">
+<programme start="20260326190000 +0000" stop="20260326210000 +0000" channel="Sky Sport Austria 2 HD.skyde">
     <title>Live WTA 1000: C. Gauff (USA) - K. Muchová (CZE), Miami Open presented by Itaú in Miami, Florida (USA), Halbfinale 1</title>
 </programme>
 <programme start="20260326090000 +0000" stop="20260326090500 +0000" channel="Sky Sport Austria 4 HD.skyde">
@@ -3108,14 +3108,17 @@ Warning: Undefined array key "et" in /usr/home/ManusiaBiasa/domains/manusiabiasa
 <programme start="20260326063000 +0000" stop="20260326083000 +0000" channel="Sky Sport Golf HD.skyde">
     <title>TGL: Los Angeles Golf Club - Jupiter Links Golf Club, Finale 2</title>
 </programme>
-<programme start="20260326083000 +0000" stop="20260326103000 +0000" channel="Sky Sport Golf HD.skyde">
-    <title>TGL: Los Angeles Golf Club - Jupiter Links Golf Club, Finale 3*</title>
+<programme start="20260326083000 +0000" stop="20260326093000 +0000" channel="Sky Sport Golf HD.skyde">
+    <title>Golf Ladies ET: Highlights Australian WPGA Championship</title>
+</programme>
+<programme start="20260326093000 +0000" stop="20260326103000 +0000" channel="Sky Sport Golf HD.skyde">
+    <title>Asian Tour: Highlights New Zealand Open</title>
 </programme>
 <programme start="20260326103000 +0000" stop="20260326133000 +0000" channel="Sky Sport Golf HD.skyde">
     <title>LIV Golf: Südafrika, 4. Tag in Johannesburg</title>
 </programme>
 <programme start="20260326133000 +0000" stop="20260326153000 +0000" channel="Sky Sport Golf HD.skyde">
-    <title>TGL: Los Angeles Golf Club - Jupiter Links Golf Club, Finale 3*</title>
+    <title>TGL: Los Angeles Golf Club - Jupiter Links Golf Club, Finale 2</title>
 </programme>
 <programme start="20260326153000 +0000" stop="20260326160000 +0000" channel="Sky Sport Golf HD.skyde">
     <title>Golf: Tee Time Stories (1)</title>
@@ -3465,14 +3468,11 @@ Warning: Undefined array key "et" in /usr/home/ManusiaBiasa/domains/manusiabiasa
 <programme start="20260325230000 +0000" stop="20260326010000 +0000" channel="Sky Sport Top Event HD.skyde">
     <title>Live WTA 1000: A. Sabalenka - H. Baptiste (USA), Miami Open presented by Itaú in Miami, Florida (USA), Viertelfinale 4</title>
 </programme>
-<programme start="20260326010000 +0000" stop="20260326030000 +0000" channel="Sky Sport Top Event HD.skyde">
+<programme start="20260326010000 +0000" stop="20260326040000 +0000" channel="Sky Sport Top Event HD.skyde">
     <title>Live ATP 1000: T. Paul (USA) - A. Fils (FRA), Miami Open presented by Itaú in Miami, Florida (USA), Viertelfinale 2</title>
 </programme>
-<programme start="20260326030000 +0000" stop="20260326050000 +0000" channel="Sky Sport Top Event HD.skyde">
+<programme start="20260326040000 +0000" stop="20260326060000 +0000" channel="Sky Sport Top Event HD.skyde">
     <title>WTA 1000: E. Rybakina (KAZ) - J. Pegula (USA), Miami Open presented by Itaú in Miami, Florida (USA), Viertelfinale 3</title>
-</programme>
-<programme start="20260326050000 +0000" stop="20260326060000 +0000" channel="Sky Sport Top Event HD.skyde">
-    <title>3. Liga: Alle Spiele, alle Tore, 30. Spieltag komplett</title>
 </programme>
 <programme start="20260326060000 +0000" stop="20260326063000 +0000" channel="Sky Sport Top Event HD.skyde">
     <title>Fußball: scooore Polen! Alle Tore</title>
@@ -4368,10 +4368,10 @@ Warning: Undefined array key "et" in /usr/home/ManusiaBiasa/domains/manusiabiasa
 <programme start="20260326152500 +0000" stop="20260326161000 +0000" channel="Warner TV Serie HD.skyde">
     <title>NCIS</title>
 </programme>
-<programme start="20260326161000 +0000" stop="20260326165500 +0000" channel="Warner TV Serie HD.skyde">
+<programme start="20260326161000 +0000" stop="20260326170000 +0000" channel="Warner TV Serie HD.skyde">
     <title>NCIS</title>
 </programme>
-<programme start="20260326165500 +0000" stop="20260326174500 +0000" channel="Warner TV Serie HD.skyde">
+<programme start="20260326170000 +0000" stop="20260326174500 +0000" channel="Warner TV Serie HD.skyde">
     <title>NCIS</title>
 </programme>
 <programme start="20260326174500 +0000" stop="20260326183000 +0000" channel="Warner TV Serie HD.skyde">
@@ -4392,6 +4392,6 @@ Warning: Undefined array key "et" in /usr/home/ManusiaBiasa/domains/manusiabiasa
 <programme start="20260326213000 +0000" stop="20260326221500 +0000" channel="Warner TV Serie HD.skyde">
     <title>Alert: Missing Persons Unit</title>
 </programme>
-<programme start="20260326221500 +0000" stop="20260326230000 +0000" channel="Warner TV Serie HD.skyde">
+<programme start="20260326221500 +0000" stop="20260326230500 +0000" channel="Warner TV Serie HD.skyde">
     <title>Alert: Missing Persons Unit</title>
 </programme>

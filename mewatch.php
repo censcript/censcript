@@ -733,11 +733,62 @@
     <programme start="20260326160000 +0000" stop="20260326180000 +0000" channel="now-80s.mewatch">
         <title>Cheesy 80s Tunes</title>
     </programme>
-    <programme start="20260325160000 +0000" stop="20260326160000 +0000" channel="now-70s.mewatch">
-        <title>Schedule To Be Announced</title>
+    <programme start="20260325160000 +0000" stop="20260325170000 +0000" channel="now-70s.mewatch">
+        <title>Mark Goodier&#039;s No.1s of 1976 - EP1</title>
     </programme>
-    <programme start="20260326160000 +0000" stop="20260327160000 +0000" channel="now-70s.mewatch">
-        <title>Schedule To Be Announced</title>
+    <programme start="20260325170000 +0000" stop="20260325180000 +0000" channel="now-70s.mewatch">
+        <title>Every Number 2 of 1976 - EP1</title>
+    </programme>
+    <programme start="20260325180000 +0000" stop="20260325190000 +0000" channel="now-70s.mewatch">
+        <title>50 Years Ago - It&#039;s 1976 Day! - EP1</title>
+    </programme>
+    <programme start="20260325190000 +0000" stop="20260325214000 +0000" channel="now-70s.mewatch">
+        <title>The NOW Yearbook 1976 - EP1</title>
+    </programme>
+    <programme start="20260325214000 +0000" stop="20260325220000 +0000" channel="now-70s.mewatch">
+        <title>50 Years Ago - It&#039;s 1976 Day! - EP1</title>
+    </programme>
+    <programme start="20260325220000 +0000" stop="20260326000000 +0000" channel="now-70s.mewatch">
+        <title>David Bowie in the 70s &amp; 80s - EP1</title>
+    </programme>
+    <programme start="20260326000000 +0000" stop="20260326024500 +0000" channel="now-70s.mewatch">
+        <title>Glam Slam! Top 40 - EP1</title>
+    </programme>
+    <programme start="20260326024500 +0000" stop="20260326040000 +0000" channel="now-70s.mewatch">
+        <title>Glam Rock Day! - EP1</title>
+    </programme>
+    <programme start="20260326040000 +0000" stop="20260326062000 +0000" channel="now-70s.mewatch">
+        <title>The NOW Yearbook 1974 - EP1</title>
+    </programme>
+    <programme start="20260326062000 +0000" stop="20260326070000 +0000" channel="now-70s.mewatch">
+        <title>Glam Rock Day! - EP1</title>
+    </programme>
+    <programme start="20260326070000 +0000" stop="20260326092500 +0000" channel="now-70s.mewatch">
+        <title>Rosko&#039;s Glam Rock! 1971-1974 - EP1</title>
+    </programme>
+    <programme start="20260326092500 +0000" stop="20260326100000 +0000" channel="now-70s.mewatch">
+        <title>Glam Rock Day! - EP1</title>
+    </programme>
+    <programme start="20260326100000 +0000" stop="20260326110000 +0000" channel="now-70s.mewatch">
+        <title>Bowie v Bolan! 1970-1974 - EP1</title>
+    </programme>
+    <programme start="20260326110000 +0000" stop="20260326120000 +0000" channel="now-70s.mewatch">
+        <title>Hellraisers! Sweet vs Slade - EP1</title>
+    </programme>
+    <programme start="20260326120000 +0000" stop="20260326124500 +0000" channel="now-70s.mewatch">
+        <title>T.Rex &amp; Marc Bolan: 1970-1973 - EP1</title>
+    </programme>
+    <programme start="20260326124500 +0000" stop="20260326140000 +0000" channel="now-70s.mewatch">
+        <title>Glam Rock Night! - EP1</title>
+    </programme>
+    <programme start="20260326140000 +0000" stop="20260326155000 +0000" channel="now-70s.mewatch">
+        <title>Tony Blackburn&#039;s 70s Glam Pop! - EP1</title>
+    </programme>
+    <programme start="20260326155000 +0000" stop="20260326160000 +0000" channel="now-70s.mewatch">
+        <title>Glam Rock Night! - EP1</title>
+    </programme>
+    <programme start="20260326160000 +0000" stop="20260326172000 +0000" channel="now-70s.mewatch">
+        <title>The NOW Yearbook 1974 - EP1</title>
     </programme>
     <programme start="20260325150000 +0000" stop="20260325164500 +0000" channel="cinemaworld.mewatch">
         <title>The Vanishing Soldier</title>

@@ -7432,7 +7432,7 @@
     <programme start="20260325220000 +0000" stop="20260325223000 +0000" channel="BBC World News HD.starhub">
         <title>BBC News</title>
     </programme>
-    <programme start="20260325223000 +0000" stop="20260325230000 +0000" channel="BBC World News HD.starhub">
+    <programme start="20260325223000 +0000" stop="20260325231500 +0000" channel="BBC World News HD.starhub">
         <title>Newsnight</title>
     </programme>
     <programme start="20260325231500 +0000" stop="20260326000000 +0000" channel="BBC World News HD.starhub">
