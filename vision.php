@@ -547,15 +547,6 @@
 <programme start="20260326143000 +0000" stop="20260326154500 +0000" channel="Trans 7.vision">
 <title>Lapor Pak!</title>
 </programme>
-<programme start="20260326154500 +0000" stop="20260326174500 +0000" channel="Trans 7.vision">
-<title>Pengabdian Setan 2</title>
-</programme>
-<programme start="20260326174500 +0000" stop="20260326190000 +0000" channel="Trans 7.vision">
-<title>Warkop: Gantian Dong</title>
-</programme>
-<programme start="20260326190000 +0000" stop="20260326204500 +0000" channel="Trans 7.vision">
-<title>Growth Of God</title>
-</programme>
 <programme start="20260326204500 +0000" stop="20260326214500 +0000" channel="Trans 7.vision">
 <title>BTS</title>
 </programme>
@@ -625,23 +616,8 @@
 <programme start="20260326090000 +0000" stop="20260326110000 +0000" channel="ANTV.vision">
 <title>Vasudha</title>
 </programme>
-<programme start="20260326110000 +0000" stop="20260326130000 +0000" channel="ANTV.vision">
-<title>Menggapai Matahari 2</title>
-</programme>
-<programme start="20260326130000 +0000" stop="20260326143000 +0000" channel="ANTV.vision">
-<title>Nyi Ageng Ratu Pemikat</title>
-</programme>
 <programme start="20260326143000 +0000" stop="20260326163000 +0000" channel="ANTV.vision">
 <title>Mangkujiwo</title>
-</programme>
-<programme start="20260326163000 +0000" stop="20260326180000 +0000" channel="ANTV.vision">
-<title>Tiger On Beat 2</title>
-</programme>
-<programme start="20260326180000 +0000" stop="20260326193000 +0000" channel="ANTV.vision">
-<title>Brave</title>
-</programme>
-<programme start="20260326193000 +0000" stop="20260326213000 +0000" channel="ANTV.vision">
-<title>Viral</title>
 </programme>
 <programme start="20260326213000 +0000" stop="20260326230000 +0000" channel="ANTV.vision">
 <title>Pantai Norasingha</title>
@@ -1497,4 +1473,28 @@
 </programme>
 <programme start="20260326034000 +0000" stop="20260326051500 +0000" channel="MDTV.vision">
 <title>Cinta Fitri S6</title>
+</programme>
+<programme start="20260326051500 +0000" stop="20260326063500 +0000" channel="MDTV.vision">
+<title>Makandunia</title>
+</programme>
+<programme start="20260326063500 +0000" stop="20260326080500 +0000" channel="MDTV.vision">
+<title>Makan Enak</title>
+</programme>
+<programme start="20260326080500 +0000" stop="20260326091500 +0000" channel="MDTV.vision">
+<title>Masak Gesss!!!</title>
+</programme>
+<programme start="20260326091500 +0000" stop="20260326100000 +0000" channel="MDTV.vision">
+<title>Adit Sopo Jarwo</title>
+</programme>
+<programme start="20260326100000 +0000" stop="20260326110000 +0000" channel="MDTV.vision">
+<title>Amigos X Siempre</title>
+</programme>
+<programme start="20260326110000 +0000" stop="20260326120000 +0000" channel="MDTV.vision">
+<title>Esmeralda</title>
+</programme>
+<programme start="20260326120000 +0000" stop="20260326130000 +0000" channel="MDTV.vision">
+<title>Keluarga Yang Tak Dirindukan</title>
+</programme>
+<programme start="20260326130000 +0000" stop="20260326140000 +0000" channel="MDTV.vision">
+<title>Dunia Tanpa Tuhan</title>
 </programme>

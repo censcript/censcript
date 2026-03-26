@@ -66,6 +66,14 @@
     <title>Game R1 S6 E31</title>
     <desc>Live: Tidak</desc>
 </programme>
+<programme start="20260328040000 +0700" stop="20260328043000 +0700" channel="COSMOTE Sport 1 HD">
+    <title>UEFA Champions League Magazine 2024-25 E26</title>
+    <desc>Live: Tidak</desc>
+</programme>
+<programme start="20260328043000 +0700" stop="20260328050000 +0700" channel="COSMOTE Sport 1 HD">
+    <title>UEFA Champions League Highlights 2025-26</title>
+    <desc>Live: Tidak</desc>
+</programme>
 <programme start="20260327030000 +0700" stop="20260327050000 +0700" channel="COSMOTE Sport 2 HD">
     <title>Football: AC Milan - Torino</title>
     <desc>Live: Tidak</desc>
@@ -238,10 +246,6 @@
     <title>Basketball: Charlotte Hornets - New York Knicks</title>
     <desc>Live: Tidak</desc>
 </programme>
-<programme start="20260327020500 +0700" stop="20260327032000 +0700" channel="COSMOTE Sport 5 HD">
-    <title>Motorsports: Moto2 2026</title>
-    <desc>Live: Tidak</desc>
-</programme>
 <programme start="20260327032000 +0700" stop="20260327045000 +0700" channel="COSMOTE Sport 5 HD">
     <title>Motorsports: MotoGP 2026</title>
     <desc>Live: Tidak</desc>
@@ -342,8 +346,12 @@
     <title>Motorsports: MotoGP 2026 (L)</title>
     <desc>Live: Ya</desc>
 </programme>
-<programme start="20260327023000 +0700" stop="20260327033000 +0700" channel="COSMOTE Sport 6 HD">
-    <title>ATP Masters 1000 2026 - Highlights</title>
+<programme start="20260328041500 +0700" stop="20260328044500 +0700" channel="COSMOTE Sport 5 HD">
+    <title>Sports Classics: Gearing Up 2026 E2</title>
+    <desc>Live: Tidak</desc>
+</programme>
+<programme start="20260328044500 +0700" stop="20260328054500 +0700" channel="COSMOTE Sport 5 HD">
+    <title>Motorsports: Moto3 2026</title>
     <desc>Live: Tidak</desc>
 </programme>
 <programme start="20260327033000 +0700" stop="20260327060000 +0700" channel="COSMOTE Sport 6 HD">
@@ -406,6 +414,10 @@
     <title>Tennis: ATP Masters 1000 2026 (L)</title>
     <desc>Live: Ya</desc>
 </programme>
+<programme start="20260328043000 +0700" stop="20260328050000 +0700" channel="COSMOTE Sport 6 HD">
+    <title>Watersports: Inside Sailing 2026 E2</title>
+    <desc>Live: Tidak</desc>
+</programme>
 <programme start="20260327030000 +0700" stop="20260327050000 +0700" channel="COSMOTE Sport 7 HD">
     <title>COSMOTESport7HD</title>
     <desc>Live: Tidak</desc>
@@ -461,6 +473,10 @@
 <programme start="20260328010000 +0700" stop="20260328040000 +0700" channel="COSMOTE Sport 7 HD">
     <title>Premier Padel Tour 2026 (L)</title>
     <desc>Live: Ya</desc>
+</programme>
+<programme start="20260328040000 +0700" stop="20260328050000 +0700" channel="COSMOTE Sport 7 HD">
+    <title>COSMOTESport7HD</title>
+    <desc>Live: Tidak</desc>
 </programme>
 <programme start="20260327030000 +0700" stop="20260327050000 +0700" channel="COSMOTE Sport 8 HD">
     <title>COSMOTESport8HD</title>
