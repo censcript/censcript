@@ -2641,11 +2641,9 @@
     <category lang="en">News</category>
   </programme>
   <programme start="20260326093000 +0000" stop="20260326100000 +0000" channel="tvs.unifitv">
-    <title lang="en">Tracing Traditions Raya</title>
-    <desc lang="en">In Beraya with NgekTsai, Ngek Tsai, a beloved influencer, brings his charm into homes across Sarawak, engaging with diverse households,from loyal followers to renowned chefs, 'anak Sarawak',respected YBs, and key opinion leaders</desc>
-    <category lang="en">Culture</category>
-    <episode-num system="xmltv_ns">1.3.</episode-num>
-    <episode-num system="onscreen">S2E4</episode-num>
+    <title lang="en">(L) Pengumuman PMX</title>
+    <desc lang="en">Pengumuman PMX</desc>
+    <category lang="en">News</category>
   </programme>
   <programme start="20260326100000 +0000" stop="20260326101500 +0000" channel="tvs.unifitv">
     <title lang="en">(L) Re Bao</title>
@@ -2658,11 +2656,9 @@
     <category lang="en">Drama</category>
   </programme>
   <programme start="20260326103000 +0000" stop="20260326110000 +0000" channel="tvs.unifitv">
-    <title lang="en">Kek &amp; Pastri</title>
-    <desc lang="en">Kek &amp; Pastri Siri 2 menampilkan selebriti mencipta resepi kek, pastri, dan hidangan savouri menggunakan bahan tempatan dan teknik membakar serta mengukus untuk hasil yang lazat dan inovatif.</desc>
-    <category lang="en">Culture</category>
-    <episode-num system="xmltv_ns">1.8.</episode-num>
-    <episode-num system="onscreen">S2E9</episode-num>
+    <title lang="en">(L) Pengumuman PMX</title>
+    <desc lang="en">Pengumuman PMX</desc>
+    <category lang="en">News</category>
   </programme>
   <programme start="20260326110000 +0000" stop="20260326113000 +0000" channel="tvs.unifitv">
     <title lang="en">(L) Berita Iban TVS</title>

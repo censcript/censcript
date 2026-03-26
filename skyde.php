@@ -2629,7 +2629,7 @@ Warning: Undefined array key "et" in /usr/home/ManusiaBiasa/domains/manusiabiasa
     <title>RIESENrad: Sportgrößen im Waggon 28 (Gast: Benjamin Karl)</title>
 </programme>
 <programme start="20260326183000 +0000" stop="20260326190000 +0000" channel="Sky Sport Austria 1 HD.skyde">
-    <title>Admiral BL: 90in30: XXX - YYY, 24. Runde</title>
+    <title>Admiral BL: 90in30: STU - RBS, 24. Runde</title>
 </programme>
 <programme start="20260326190000 +0000" stop="20260326193000 +0000" channel="Sky Sport Austria 1 HD.skyde">
     <title>Admiral BL: Torparade XXL (Runden 21-24)</title>
@@ -2649,7 +2649,7 @@ Warning: Undefined array key "et" in /usr/home/ManusiaBiasa/domains/manusiabiasa
 <programme start="20260326184000 +0000" stop="20260326190000 +0000" channel="Sky Sport Austria 2 HD.skyde">
     <title>Es folgt: Live Tennis WTA Tour</title>
 </programme>
-<programme start="20260326190000 +0000" stop="20260326230000 +0000" channel="Sky Sport Austria 2 HD.skyde">
+<programme start="20260326190000 +0000" stop="20260326210000 +0000" channel="Sky Sport Austria 2 HD.skyde">
     <title>Live WTA 1000: C. Gauff (USA) - K. Muchová (CZE), Miami Open presented by Itaú in Miami, Florida (USA), Halbfinale 1</title>
 </programme>
 <programme start="20260326090000 +0000" stop="20260326090500 +0000" channel="Sky Sport Austria 4 HD.skyde">

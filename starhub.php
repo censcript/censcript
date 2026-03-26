@@ -2252,7 +2252,7 @@
         <title>Stage 1</title>
     </programme>
     <programme start="20260326123000 +0000" stop="20260326130000 +0000" channel="beIN Sports 2 HD.starhub">
-        <title>Mini Match - Australian Open 2026: Women&#039;s Singles Rd 1 Sabalenka v Rakotomanga Rajaonah</title>
+        <title>Mini Match - Australian Open 2026: Women&#039;s Singles Rd 1 Sabalenka v Rakotomanga</title>
     </programme>
     <programme start="20260326130000 +0000" stop="20260326133000 +0000" channel="beIN Sports 2 HD.starhub">
         <title>Mini Match - Australian Open 2026: Women&#039;s Singles Rd 1 Swiatek v Yuan</title>
@@ -3866,7 +3866,7 @@
         <title>Drama Serial &quot;The Ghost Writer&#039;s Wife&quot; Ep.124</title>
     </programme>
     <programme start="20260325231500 +0000" stop="20260326000000 +0000" channel="NHK World Premium HD.starhub">
-        <title>asaichi</title>
+        <title>To Anyone with Health Concerns &quot;Mental Health Issues in Adults and Children&quot; (R)</title>
     </programme>
     <programme start="20260326000000 +0000" stop="20260326005000 +0000" channel="NHK World Premium HD.starhub">
         <title>The Last Lecture &quot;Hirano Remi&quot; (R)</title>
@@ -3881,7 +3881,7 @@
         <title>Exercise for Everyone</title>
     </programme>
     <programme start="20260326010000 +0000" stop="20260326020000 +0000" channel="NHK World Premium HD.starhub">
-        <title>Northern Line, State Railway of Thailand Part 3</title>
+        <title>Rokkaku Seiji&#039;s Nomitetsu Railroad Trip: Northern Line, State Railway of Thailan</title>
     </programme>
     <programme start="20260326020000 +0000" stop="20260326021000 +0000" channel="NHK World Premium HD.starhub">
         <title>Train Driver&#039;s Cab View Mini</title>
