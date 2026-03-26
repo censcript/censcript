@@ -7435,7 +7435,7 @@
     <programme start="20260325223000 +0000" stop="20260325230000 +0000" channel="BBC World News HD.starhub">
         <title>Newsnight</title>
     </programme>
-    <programme start="20260325230000 +0000" stop="20260326000000 +0000" channel="BBC World News HD.starhub">
+    <programme start="20260325231500 +0000" stop="20260326000000 +0000" channel="BBC World News HD.starhub">
         <title>BBC World News America</title>
     </programme>
     <programme start="20260326000000 +0000" stop="20260326003000 +0000" channel="BBC World News HD.starhub">
@@ -8071,13 +8071,13 @@
     <programme start="20260325232000 +0000" stop="20260326013000 +0000" channel="Asianet Movies.starhub">
         <title>Oozham</title>
     </programme>
-    <programme start="20260326013000 +0000" stop="20260326043000 +0000" channel="Asianet Movies.starhub">
+    <programme start="20260326013000 +0000" stop="20260326043500 +0000" channel="Asianet Movies.starhub">
         <title>Pokkiri Simon</title>
     </programme>
-    <programme start="20260326043000 +0000" stop="20260326073000 +0000" channel="Asianet Movies.starhub">
+    <programme start="20260326043500 +0000" stop="20260326074000 +0000" channel="Asianet Movies.starhub">
         <title>Sagar Alias Jacky Reloaded</title>
     </programme>
-    <programme start="20260326073000 +0000" stop="20260326103000 +0000" channel="Asianet Movies.starhub">
+    <programme start="20260326074000 +0000" stop="20260326103000 +0000" channel="Asianet Movies.starhub">
         <title>Malikappuram</title>
     </programme>
     <programme start="20260326103000 +0000" stop="20260326133000 +0000" channel="Asianet Movies.starhub">

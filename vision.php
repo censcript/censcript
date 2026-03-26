@@ -610,9 +610,6 @@
 <programme start="20260327114500 +0000" stop="20260327121500 +0000" channel="Trans 7.vision">
 <title>Secret Story</title>
 </programme>
-<programme start="20260325230000 +0000" stop="20260326003000 +0000" channel="ANTV.vision">
-<title>The Kids Vs The Cop</title>
-</programme>
 <programme start="20260326003000 +0000" stop="20260326023000 +0000" channel="ANTV.vision">
 <title>Janji Cinta Inspektur Virat</title>
 </programme>
@@ -1497,4 +1494,7 @@
 </programme>
 <programme start="20260326025000 +0000" stop="20260326034000 +0000" channel="MDTV.vision">
 <title>Maria Cinta Yang Hilang</title>
+</programme>
+<programme start="20260326034000 +0000" stop="20260326051500 +0000" channel="MDTV.vision">
+<title>Cinta Fitri S6</title>
 </programme>

@@ -7987,11 +7987,11 @@
 <programme start="20260326080000 +0000" stop="20260326100000 +0000" channel="Soccer Channel.mncvision">
     <title>AFC Futsal Asian: THA Vs VIE</title>
 </programme>
-<programme start="20260326100000 +0000" stop="20260326103000 +0000" channel="Soccer Channel.mncvision">
-    <title>World Classic Soccer</title>
-</programme>
-<programme start="20260326103000 +0000" stop="20260326123000 +0000" channel="Soccer Channel.mncvision">
+<programme start="20260326100000 +0000" stop="20260326120000 +0000" channel="Soccer Channel.mncvision">
     <title>Bundesliga 2025/26: BVB Vs RBL</title>
+</programme>
+<programme start="20260326120000 +0000" stop="20260326123000 +0000" channel="Soccer Channel.mncvision">
+    <title>Magazine European Qualifiers</title>
 </programme>
 <programme start="20260326123000 +0000" stop="20260326143000 +0000" channel="Soccer Channel.mncvision">
     <title>AFC Asian Cup 2026: CHN Vs AUS</title>
@@ -8044,11 +8044,11 @@
 <programme start="20260326080000 +0000" stop="20260326100000 +0000" channel="Soccer Channel HD.mncvision">
     <title>AFC Futsal Asian: THA Vs VIE</title>
 </programme>
-<programme start="20260326100000 +0000" stop="20260326103000 +0000" channel="Soccer Channel HD.mncvision">
-    <title>World Classic Soccer</title>
-</programme>
-<programme start="20260326103000 +0000" stop="20260326123000 +0000" channel="Soccer Channel HD.mncvision">
+<programme start="20260326100000 +0000" stop="20260326120000 +0000" channel="Soccer Channel HD.mncvision">
     <title>Bundesliga 2025/26: BVB Vs RBL</title>
+</programme>
+<programme start="20260326120000 +0000" stop="20260326123000 +0000" channel="Soccer Channel HD.mncvision">
+    <title>Magazine European Qualifiers</title>
 </programme>
 <programme start="20260326123000 +0000" stop="20260326143000 +0000" channel="Soccer Channel HD.mncvision">
     <title>AFC Asian Cup 2026: CHN Vs AUS</title>
@@ -8323,111 +8323,8 @@
 <programme start="20260326164500 +0000" stop="20260325171500 +0000" channel="Sportstars 4.mncvision">
     <title>European Qual: TUR Vs ROU (L)</title>
 </programme>
-<programme start="20260325170000 +0000" stop="20260325190000 +0000" channel="Sportstars 4 HD.mncvision">
-    <title>Bundesliga</title>
-</programme>
-<programme start="20260325190000 +0000" stop="20260325210000 +0000" channel="Sportstars 4 HD.mncvision">
-    <title>BRI Liga 1</title>
-</programme>
-<programme start="20260325210000 +0000" stop="20260325230000 +0000" channel="Sportstars 4 HD.mncvision">
-    <title>Timnas Special</title>
-</programme>
-<programme start="20260325230000 +0000" stop="20260326010000 +0000" channel="Sportstars 4 HD.mncvision">
-    <title>Bundesliga</title>
-</programme>
-<programme start="20260326010000 +0000" stop="20260326030000 +0000" channel="Sportstars 4 HD.mncvision">
-    <title>Padel Hexagon Cup 2026</title>
-</programme>
-<programme start="20260326030000 +0000" stop="20260326050000 +0000" channel="Sportstars 4 HD.mncvision">
-    <title>V-League Men</title>
-</programme>
-<programme start="20260326050000 +0000" stop="20260326070000 +0000" channel="Sportstars 4 HD.mncvision">
-    <title>V-League Women</title>
-</programme>
-<programme start="20260326070000 +0000" stop="20260326090000 +0000" channel="Sportstars 4 HD.mncvision">
-    <title>Timnas Special</title>
-</programme>
-<programme start="20260326090000 +0000" stop="20260326110000 +0000" channel="Sportstars 4 HD.mncvision">
-    <title>Friendly Match</title>
-</programme>
-<programme start="20260326110000 +0000" stop="20260326130000 +0000" channel="Sportstars 4 HD.mncvision">
-    <title>V-League Women</title>
-</programme>
-<programme start="20260326130000 +0000" stop="20260326150000 +0000" channel="Sportstars 4 HD.mncvision">
-    <title>Padel Hexagon Cup 2026</title>
-</programme>
-<programme start="20260326150000 +0000" stop="20260326164500 +0000" channel="Sportstars 4 HD.mncvision">
-    <title>Friendly Match</title>
-</programme>
-<programme start="20260326164500 +0000" stop="20260325171500 +0000" channel="Sportstars 4 HD.mncvision">
-    <title>European Qual: TUR Vs ROU (L)</title>
-</programme>
-<programme start="20260325173000 +0000" stop="20260325200000 +0000" channel="Sportstars HD.mncvision">
-    <title>Indonesia Juara Badminton</title>
-</programme>
-<programme start="20260325200000 +0000" stop="20260325203000 +0000" channel="Sportstars HD.mncvision">
-    <title>Sports Today</title>
-</programme>
-<programme start="20260325203000 +0000" stop="20260325210000 +0000" channel="Sportstars HD.mncvision">
-    <title>iNews Sport</title>
-</programme>
-<programme start="20260325210000 +0000" stop="20260325230000 +0000" channel="Sportstars HD.mncvision">
-    <title>Indonesia Juara Basketball</title>
-</programme>
-<programme start="20260325230000 +0000" stop="20260325233000 +0000" channel="Sportstars HD.mncvision">
-    <title>Sports Today</title>
-</programme>
-<programme start="20260325233000 +0000" stop="20260326000000 +0000" channel="Sportstars HD.mncvision">
-    <title>30 Minutes Extreme</title>
-</programme>
-<programme start="20260326000000 +0000" stop="20260326003000 +0000" channel="Sportstars HD.mncvision">
-    <title>Sportrivia</title>
-</programme>
-<programme start="20260326003000 +0000" stop="20260326023000 +0000" channel="Sportstars HD.mncvision">
-    <title>V-League 2025-2026: Men</title>
-</programme>
-<programme start="20260326023000 +0000" stop="20260326043000 +0000" channel="Sportstars HD.mncvision">
-    <title>V-League 2025-2026: Women</title>
-</programme>
-<programme start="20260326043000 +0000" stop="20260326050000 +0000" channel="Sportstars HD.mncvision">
-    <title>Sports Today</title>
-</programme>
-<programme start="20260326050000 +0000" stop="20260326053000 +0000" channel="Sportstars HD.mncvision">
-    <title>iNews Sport</title>
-</programme>
-<programme start="20260326053000 +0000" stop="20260326080000 +0000" channel="Sportstars HD.mncvision">
-    <title>Indonesia Juara Badminton</title>
-</programme>
-<programme start="20260326080000 +0000" stop="20260326100000 +0000" channel="Sportstars HD.mncvision">
-    <title>Indonesia Juara Volleyball</title>
-</programme>
-<programme start="20260326100000 +0000" stop="20260326120000 +0000" channel="Sportstars HD.mncvision">
-    <title>V-League 2025-2026: Women (L)</title>
-</programme>
-<programme start="20260326120000 +0000" stop="20260326123000 +0000" channel="Sportstars HD.mncvision">
-    <title>30 Minutes Extreme</title>
-</programme>
-<programme start="20260326123000 +0000" stop="20260326130000 +0000" channel="Sportstars HD.mncvision">
-    <title>Sportrivia</title>
-</programme>
-<programme start="20260326130000 +0000" stop="20260326133000 +0000" channel="Sportstars HD.mncvision">
-    <title>Sports Today</title>
-</programme>
-<programme start="20260326133000 +0000" stop="20260326153000 +0000" channel="Sportstars HD.mncvision">
-    <title>V-League 2025-2026: Women</title>
-</programme>
-<programme start="20260326153000 +0000" stop="20260326160000 +0000" channel="Sportstars HD.mncvision">
-    <title>30 Minutes Extreme</title>
-</programme>
-<programme start="20260326160000 +0000" stop="20260326163000 +0000" channel="Sportstars HD.mncvision">
-    <title>Sportrivia</title>
-</programme>
-<programme start="20260326163000 +0000" stop="20260326164500 +0000" channel="Sportstars HD.mncvision">
-    <title>Golden Fit</title>
-</programme>
-<programme start="20260326164500 +0000" stop="20260325171500 +0000" channel="Sportstars HD.mncvision">
-    <title>UEFA Nations League (L)</title>
-</programme>
+Error: Unable to fetch data. HTTP Status Code: 500
+Error: Unable to fetch data. HTTP Status Code: 500
 <programme start="20260325180000 +0000" stop="20260325230000 +0000" channel="SPOTV.mncvision">
     <title>2026 LIV Golf: South Africa</title>
 </programme>
@@ -8461,39 +8358,7 @@
 <programme start="20260326160000 +0000" stop="20260326163000 +0000" channel="SPOTV.mncvision">
     <title>A-League Men: AKL Vs MAC</title>
 </programme>
-<programme start="20260325173000 +0000" stop="20260325180000 +0000" channel="SPOTV 2.mncvision">
-    <title>WPBL S2 Mumbai Highlights</title>
-</programme>
-<programme start="20260325180000 +0000" stop="20260325210000 +0000" channel="SPOTV 2.mncvision">
-    <title>World Baseball Classic</title>
-</programme>
-<programme start="20260325210000 +0000" stop="20260326003000 +0000" channel="SPOTV 2.mncvision">
-    <title>MotoGP Estrella Galicia</title>
-</programme>
-<programme start="20260326003000 +0000" stop="20260326033000 +0000" channel="SPOTV 2.mncvision">
-    <title>MotoGP Estrella Galicia</title>
-</programme>
-<programme start="20260326033000 +0000" stop="20260326040000 +0000" channel="SPOTV 2.mncvision">
-    <title>2025/26 ALM Mini Match</title>
-</programme>
-<programme start="20260326040000 +0000" stop="20260326070000 +0000" channel="SPOTV 2.mncvision">
-    <title>World Baseball Classic</title>
-</programme>
-<programme start="20260326070000 +0000" stop="20260326090000 +0000" channel="SPOTV 2.mncvision">
-    <title>World Baseball Classic</title>
-</programme>
-<programme start="20260326090000 +0000" stop="20260326123000 +0000" channel="SPOTV 2.mncvision">
-    <title>MotoGP Estrella Galicia</title>
-</programme>
-<programme start="20260326123000 +0000" stop="20260326153000 +0000" channel="SPOTV 2.mncvision">
-    <title>MotoGP Estrella Galicia</title>
-</programme>
-<programme start="20260326153000 +0000" stop="20260326163000 +0000" channel="SPOTV 2.mncvision">
-    <title>2026 PBR: Unleash The Beast</title>
-</programme>
-<programme start="20260326163000 +0000" stop="20260325170000 +0000" channel="SPOTV 2.mncvision">
-    <title>WTT Singapore Smash 2026</title>
-</programme>
+Error: Unable to fetch data. HTTP Status Code: 500
 <programme start="20260325173000 +0000" stop="20260325180000 +0000" channel="SPOTV 2 HD.mncvision">
     <title>WPBL S2 Mumbai Highlights</title>
 </programme>
