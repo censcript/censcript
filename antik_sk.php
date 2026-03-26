@@ -655,72 +655,6 @@
   <programme start="20260328214000 +0000" stop="20260329003000 +0000" channel="JOJ.webtv.sk">
     <title lang="id">Na nože</title>
   </programme>
-  <programme start="20260327215500 +0000" stop="20260327231000 +0000" channel="Markíza +1.webtv.sk">
-    <title lang="id">Ruža pre nevestu IV (8)</title>
-  </programme>
-  <programme start="20260327231000 +0000" stop="20260328011000 +0000" channel="Markíza +1.webtv.sk">
-    <title lang="id">Bláznivá dovolenka</title>
-  </programme>
-  <programme start="20260328011000 +0000" stop="20260328020500 +0000" channel="Markíza +1.webtv.sk">
-    <title lang="id">Monk VIII (7)</title>
-  </programme>
-  <programme start="20260328020500 +0000" stop="20260328024500 +0000" channel="Markíza +1.webtv.sk">
-    <title lang="id">Monk VIII (8)</title>
-  </programme>
-  <programme start="20260328024500 +0000" stop="20260328041500 +0000" channel="Markíza +1.webtv.sk">
-    <title lang="id">Bláznivá dovolenka</title>
-  </programme>
-  <programme start="20260328041500 +0000" stop="20260328045500 +0000" channel="Markíza +1.webtv.sk">
-    <title lang="id">Susedské prípady</title>
-  </programme>
-  <programme start="20260328045500 +0000" stop="20260328060000 +0000" channel="Markíza +1.webtv.sk">
-    <title lang="id">Rodinné prípady (10)</title>
-  </programme>
-  <programme start="20260328060000 +0000" stop="20260328065500 +0000" channel="Markíza +1.webtv.sk">
-    <title lang="id">Televízne noviny</title>
-  </programme>
-  <programme start="20260328065500 +0000" stop="20260328074000 +0000" channel="Markíza +1.webtv.sk">
-    <title lang="id">Tom a Jerry</title>
-  </programme>
-  <programme start="20260328074000 +0000" stop="20260328092000 +0000" channel="Markíza +1.webtv.sk">
-    <title lang="id">Scooby-Doo a kliatba trinásteho ducha</title>
-  </programme>
-  <programme start="20260328092000 +0000" stop="20260328103000 +0000" channel="Markíza +1.webtv.sk">
-    <title lang="id">Pán profesor VI (9)</title>
-  </programme>
-  <programme start="20260328103000 +0000" stop="20260328115000 +0000" channel="Markíza +1.webtv.sk">
-    <title lang="id">Ruža pre nevestu IV (7)</title>
-  </programme>
-  <programme start="20260328115000 +0000" stop="20260328131000 +0000" channel="Markíza +1.webtv.sk">
-    <title lang="id">Ruža pre nevestu IV (8)</title>
-  </programme>
-  <programme start="20260328131000 +0000" stop="20260328161500 +0000" channel="Markíza +1.webtv.sk">
-    <title lang="id">Let&apos;s Dance XI (3)</title>
-  </programme>
-  <programme start="20260328161500 +0000" stop="20260328182000 +0000" channel="Markíza +1.webtv.sk">
-    <title lang="id">Manžel na prenájom</title>
-  </programme>
-  <programme start="20260328182000 +0000" stop="20260328190000 +0000" channel="Markíza +1.webtv.sk">
-    <title lang="id">Smotánka</title>
-  </programme>
-  <programme start="20260328190000 +0000" stop="20260328200000 +0000" channel="Markíza +1.webtv.sk">
-    <title lang="id">Televízne noviny</title>
-  </programme>
-  <programme start="20260328200000 +0000" stop="20260328201000 +0000" channel="Markíza +1.webtv.sk">
-    <title lang="id">Počasie</title>
-  </programme>
-  <programme start="20260328201000 +0000" stop="20260328201500 +0000" channel="Markíza +1.webtv.sk">
-    <title lang="id">Euromilióny, Euromilióny Joker, Všetko alebo nič, KENO 10, Keno Joker (25)</title>
-  </programme>
-  <programme start="20260328201500 +0000" stop="20260328203000 +0000" channel="Markíza +1.webtv.sk">
-    <title lang="id">Športové noviny</title>
-  </programme>
-  <programme start="20260328203000 +0000" stop="20260328223000 +0000" channel="Markíza +1.webtv.sk">
-    <title lang="id">Smrtonosná pasca v oblakoch</title>
-  </programme>
-  <programme start="20260328223000 +0000" stop="20260329004000 +0000" channel="Markíza +1.webtv.sk">
-    <title lang="id">MEG: Hrozba z hlbín</title>
-  </programme>
   <programme start="20260327222000 +0000" stop="20260328002500 +0000" channel="JOJ +1.webtv.sk">
     <title lang="id">Vrahúni</title>
   </programme>
@@ -1071,6 +1005,90 @@
   </programme>
   <programme start="20260328212500 +0000" stop="20260329001500 +0000" channel="Doma.webtv.sk">
     <title lang="id">Sex v meste 2</title>
+  </programme>
+  <programme start="20260327220500 +0000" stop="20260327230500 +0000" channel="Markíza Krimi.webtv.sk">
+    <title lang="id">Kosti II (11)</title>
+  </programme>
+  <programme start="20260327230500 +0000" stop="20260327234500 +0000" channel="Markíza Krimi.webtv.sk">
+    <title lang="id">Kosti II (12)</title>
+  </programme>
+  <programme start="20260327234500 +0000" stop="20260328002500 +0000" channel="Markíza Krimi.webtv.sk">
+    <title lang="id">NCIS - Námorný vyšetrovací úrad IX (5)</title>
+  </programme>
+  <programme start="20260328002500 +0000" stop="20260328010500 +0000" channel="Markíza Krimi.webtv.sk">
+    <title lang="id">NCIS - Námorný vyšetrovací úrad IX (6)</title>
+  </programme>
+  <programme start="20260328010500 +0000" stop="20260328015000 +0000" channel="Markíza Krimi.webtv.sk">
+    <title lang="id">Špecialisti I (4)</title>
+  </programme>
+  <programme start="20260328015000 +0000" stop="20260328024000 +0000" channel="Markíza Krimi.webtv.sk">
+    <title lang="id">Špecialisti I (5)</title>
+  </programme>
+  <programme start="20260328024000 +0000" stop="20260328040000 +0000" channel="Markíza Krimi.webtv.sk">
+    <title lang="id">112 (21)</title>
+  </programme>
+  <programme start="20260328040000 +0000" stop="20260328045000 +0000" channel="Markíza Krimi.webtv.sk">
+    <title lang="id">Policajné prípady (3)</title>
+  </programme>
+  <programme start="20260328045000 +0000" stop="20260328053500 +0000" channel="Markíza Krimi.webtv.sk">
+    <title lang="id">Policajné prípady (57)</title>
+  </programme>
+  <programme start="20260328053500 +0000" stop="20260328062000 +0000" channel="Markíza Krimi.webtv.sk">
+    <title lang="id">Policajné prípady (58)</title>
+  </programme>
+  <programme start="20260328062000 +0000" stop="20260328070500 +0000" channel="Markíza Krimi.webtv.sk">
+    <title lang="id">Policajné prípady (59)</title>
+  </programme>
+  <programme start="20260328070500 +0000" stop="20260328075000 +0000" channel="Markíza Krimi.webtv.sk">
+    <title lang="id">Policajné prípady (60)</title>
+  </programme>
+  <programme start="20260328075000 +0000" stop="20260328092000 +0000" channel="Markíza Krimi.webtv.sk">
+    <title lang="id">V mene zákona (72)</title>
+  </programme>
+  <programme start="20260328092000 +0000" stop="20260328100000 +0000" channel="Markíza Krimi.webtv.sk">
+    <title lang="id">Kosti II (5)</title>
+  </programme>
+  <programme start="20260328100000 +0000" stop="20260328104000 +0000" channel="Markíza Krimi.webtv.sk">
+    <title lang="id">Kosti II (6)</title>
+  </programme>
+  <programme start="20260328104000 +0000" stop="20260328112500 +0000" channel="Markíza Krimi.webtv.sk">
+    <title lang="id">Špecialisti I (4)</title>
+  </programme>
+  <programme start="20260328112500 +0000" stop="20260328121500 +0000" channel="Markíza Krimi.webtv.sk">
+    <title lang="id">Špecialisti I (5)</title>
+  </programme>
+  <programme start="20260328121500 +0000" stop="20260328131000 +0000" channel="Markíza Krimi.webtv.sk">
+    <title lang="id">NCIS - Námorný vyšetrovací úrad VIII (23)</title>
+  </programme>
+  <programme start="20260328131000 +0000" stop="20260328141000 +0000" channel="Markíza Krimi.webtv.sk">
+    <title lang="id">NCIS - Námorný vyšetrovací úrad VIII (24)</title>
+  </programme>
+  <programme start="20260328141000 +0000" stop="20260328150500 +0000" channel="Markíza Krimi.webtv.sk">
+    <title lang="id">NCIS - Námorný vyšetrovací úrad IX (1)</title>
+  </programme>
+  <programme start="20260328150500 +0000" stop="20260328160000 +0000" channel="Markíza Krimi.webtv.sk">
+    <title lang="id">NCIS - Námorný vyšetrovací úrad IX (2)</title>
+  </programme>
+  <programme start="20260328160000 +0000" stop="20260328170000 +0000" channel="Markíza Krimi.webtv.sk">
+    <title lang="id">Polícia Chicago V (11)</title>
+  </programme>
+  <programme start="20260328170000 +0000" stop="20260328180000 +0000" channel="Markíza Krimi.webtv.sk">
+    <title lang="id">Polícia Chicago V (12)</title>
+  </programme>
+  <programme start="20260328180000 +0000" stop="20260328185500 +0000" channel="Markíza Krimi.webtv.sk">
+    <title lang="id">Bostonské vraždy IV (1)</title>
+  </programme>
+  <programme start="20260328185500 +0000" stop="20260328195500 +0000" channel="Markíza Krimi.webtv.sk">
+    <title lang="id">Bostonské vraždy IV (2)</title>
+  </programme>
+  <programme start="20260328195500 +0000" stop="20260328210000 +0000" channel="Markíza Krimi.webtv.sk">
+    <title lang="id">Špecialisti I (6)</title>
+  </programme>
+  <programme start="20260328210000 +0000" stop="20260328220000 +0000" channel="Markíza Krimi.webtv.sk">
+    <title lang="id">Špecialisti I (7)</title>
+  </programme>
+  <programme start="20260328220000 +0000" stop="20260328230000 +0000" channel="Markíza Krimi.webtv.sk">
+    <title lang="id">Milujem ťa, zabijem ťa III (9)</title>
   </programme>
   <programme start="20260327224000 +0000" stop="20260328005500 +0000" channel="JOJ Plus.webtv.sk">
     <title lang="id">Lovci bizónov</title>
@@ -3202,95 +3220,146 @@
   <programme start="20260328211500 +0000" stop="20260328230200 +0000" channel="ČT1.webtv.sk">
     <title lang="id">Kolja</title>
   </programme>
-  <programme start="20260327213500 +0000" stop="20260327233300 +0000" channel="ČT2.webtv.sk">
-    <title lang="id">Nebezpečné známosti</title>
+  <programme start="20260327230000 +0000" stop="20260327231000 +0000" channel="ČT24.webtv.sk">
+    <title lang="id">Zprávy</title>
   </programme>
-  <programme start="20260327233300 +0000" stop="20260328000100 +0000" channel="ČT2.webtv.sk">
-    <title lang="id">Televizní klub neslyšících</title>
+  <programme start="20260327231000 +0000" stop="20260328000000 +0000" channel="ČT24.webtv.sk">
+    <title lang="id">Studio ČT24</title>
   </programme>
-  <programme start="20260328000100 +0000" stop="20260328003000 +0000" channel="ČT2.webtv.sk">
-    <title lang="id">Křesťanský magazín</title>
+  <programme start="20260328000000 +0000" stop="20260328001000 +0000" channel="ČT24.webtv.sk">
+    <title lang="id">Zprávy</title>
   </programme>
-  <programme start="20260328003000 +0000" stop="20260328010500 +0000" channel="ČT2.webtv.sk">
-    <title lang="id">Za mizející Šumavou</title>
+  <programme start="20260328001000 +0000" stop="20260328010000 +0000" channel="ČT24.webtv.sk">
+    <title lang="id">Studio ČT24</title>
   </programme>
-  <programme start="20260328010500 +0000" stop="20260328012600 +0000" channel="ČT2.webtv.sk">
-    <title lang="id">Číslo</title>
+  <programme start="20260328010000 +0000" stop="20260328011000 +0000" channel="ČT24.webtv.sk">
+    <title lang="id">Zprávy</title>
   </programme>
-  <programme start="20260328012600 +0000" stop="20260328015600 +0000" channel="ČT2.webtv.sk">
-    <title lang="id">Vysočina 21. století</title>
+  <programme start="20260328011000 +0000" stop="20260328013400 +0000" channel="ČT24.webtv.sk">
+    <title lang="id">Studio ČT24</title>
   </programme>
-  <programme start="20260328015600 +0000" stop="20260328022500 +0000" channel="ČT2.webtv.sk">
-    <title lang="id">Touha po věčnosti</title>
+  <programme start="20260328013400 +0000" stop="20260328020000 +0000" channel="ČT24.webtv.sk">
+    <title lang="id">Události v regionech</title>
   </programme>
-  <programme start="20260328022500 +0000" stop="20260328025600 +0000" channel="ČT2.webtv.sk">
-    <title lang="id">Stodolovi I</title>
+  <programme start="20260328020000 +0000" stop="20260328021000 +0000" channel="ČT24.webtv.sk">
+    <title lang="id">Zprávy</title>
   </programme>
-  <programme start="20260328025600 +0000" stop="20260328032200 +0000" channel="ČT2.webtv.sk">
-    <title lang="id">Bublička od soutoku</title>
+  <programme start="20260328021000 +0000" stop="20260328030000 +0000" channel="ČT24.webtv.sk">
+    <title lang="id">Studio ČT24</title>
   </programme>
-  <programme start="20260328032200 +0000" stop="20260328034900 +0000" channel="ČT2.webtv.sk">
-    <title lang="id">Kvarteto</title>
+  <programme start="20260328030000 +0000" stop="20260328031000 +0000" channel="ČT24.webtv.sk">
+    <title lang="id">Zprávy</title>
   </programme>
-  <programme start="20260328034900 +0000" stop="20260328035500 +0000" channel="ČT2.webtv.sk">
-    <title lang="id">Postřehy odjinud</title>
+  <programme start="20260328031000 +0000" stop="20260328033400 +0000" channel="ČT24.webtv.sk">
+    <title lang="id">Studio ČT24</title>
   </programme>
-  <programme start="20260328035500 +0000" stop="20260328042100 +0000" channel="ČT2.webtv.sk">
-    <title lang="id">Terapie II (10/35)</title>
+  <programme start="20260328033400 +0000" stop="20260328040000 +0000" channel="ČT24.webtv.sk">
+    <title lang="id">Události v regionech</title>
   </programme>
-  <programme start="20260328042100 +0000" stop="20260328044800 +0000" channel="ČT2.webtv.sk">
-    <title lang="id">Babylon</title>
+  <programme start="20260328040000 +0000" stop="20260328041000 +0000" channel="ČT24.webtv.sk">
+    <title lang="id">Zprávy</title>
   </programme>
-  <programme start="20260328044800 +0000" stop="20260328050000 +0000" channel="ČT2.webtv.sk">
-    <title lang="id">Zprávy v českém znakovém jazyce</title>
+  <programme start="20260328041000 +0000" stop="20260328050000 +0000" channel="ČT24.webtv.sk">
+    <title lang="id">Studio ČT24</title>
   </programme>
-  <programme start="20260328050000 +0000" stop="20260328052600 +0000" channel="ČT2.webtv.sk">
-    <title lang="id">Osudové lásky (12/12)</title>
+  <programme start="20260328050000 +0000" stop="20260328051000 +0000" channel="ČT24.webtv.sk">
+    <title lang="id">Zprávy</title>
   </programme>
-  <programme start="20260328052600 +0000" stop="20260328061500 +0000" channel="ČT2.webtv.sk">
-    <title lang="id">Stonehenge: Skrytá pravda</title>
+  <programme start="20260328051000 +0000" stop="20260328060000 +0000" channel="ČT24.webtv.sk">
+    <title lang="id">Studio ČT24</title>
   </programme>
-  <programme start="20260328061500 +0000" stop="20260328071000 +0000" channel="ČT2.webtv.sk">
-    <title lang="id">Mise Alpha: Život ve vesmíru</title>
+  <programme start="20260328060000 +0000" stop="20260328100000 +0000" channel="ČT24.webtv.sk">
+    <title lang="id">Studio 6 víkend</title>
   </programme>
-  <programme start="20260328071000 +0000" stop="20260328072000 +0000" channel="ČT2.webtv.sk">
-    <title lang="id">Cyklotoulky</title>
+  <programme start="20260328100000 +0000" stop="20260328100500 +0000" channel="ČT24.webtv.sk">
+    <title lang="id">Zprávy</title>
   </programme>
-  <programme start="20260328072000 +0000" stop="20260328081200 +0000" channel="ČT2.webtv.sk">
-    <title lang="id">O stromech a lese</title>
+  <programme start="20260328100500 +0000" stop="20260328110000 +0000" channel="ČT24.webtv.sk">
+    <title lang="id">Regiony ČT24</title>
   </programme>
-  <programme start="20260328081200 +0000" stop="20260328090000 +0000" channel="ČT2.webtv.sk">
-    <title lang="id">Letecké katastrofy</title>
+  <programme start="20260328110000 +0000" stop="20260328113000 +0000" channel="ČT24.webtv.sk">
+    <title lang="id">Zprávy ve 12</title>
   </programme>
-  <programme start="20260328090000 +0000" stop="20260328094600 +0000" channel="ČT2.webtv.sk">
-    <title lang="id">Špioni na dvoře Ludvíka XIV (1/2)</title>
+  <programme start="20260328113000 +0000" stop="20260328120000 +0000" channel="ČT24.webtv.sk">
+    <title lang="id">De facto</title>
   </programme>
-  <programme start="20260328094600 +0000" stop="20260328101000 +0000" channel="ČT2.webtv.sk">
-    <title lang="id">V novém světle</title>
+  <programme start="20260328120000 +0000" stop="20260328120500 +0000" channel="ČT24.webtv.sk">
+    <title lang="id">Zprávy</title>
   </programme>
-  <programme start="20260328101000 +0000" stop="20260328104000 +0000" channel="ČT2.webtv.sk">
-    <title lang="id">Babylon</title>
+  <programme start="20260328120500 +0000" stop="20260328123100 +0000" channel="ČT24.webtv.sk">
+    <title lang="id">Týden v politice</title>
   </programme>
-  <programme start="20260328104000 +0000" stop="20260328112000 +0000" channel="ČT2.webtv.sk">
-    <title lang="id">Jára Cimrman</title>
+  <programme start="20260328123100 +0000" stop="20260328130000 +0000" channel="ČT24.webtv.sk">
+    <title lang="id">Studio ČT24</title>
   </programme>
-  <programme start="20260328112000 +0000" stop="20260328155000 +0000" channel="ČT2.webtv.sk">
-    <title lang="id">Krasobruslení: MS v krasobruslení 2026</title>
+  <programme start="20260328130000 +0000" stop="20260328130300 +0000" channel="ČT24.webtv.sk">
+    <title lang="id">Zprávy</title>
   </programme>
-  <programme start="20260328155000 +0000" stop="20260328162100 +0000" channel="ČT2.webtv.sk">
-    <title lang="id">Terezské údolí</title>
+  <programme start="20260328130300 +0000" stop="20260328140000 +0000" channel="ČT24.webtv.sk">
+    <title lang="id">Studio ČT24</title>
   </programme>
-  <programme start="20260328162100 +0000" stop="20260328172000 +0000" channel="ČT2.webtv.sk">
-    <title lang="id">Zvířecí špioni pod hladinou (2/4)</title>
+  <programme start="20260328140000 +0000" stop="20260328140300 +0000" channel="ČT24.webtv.sk">
+    <title lang="id">Zprávy</title>
   </programme>
-  <programme start="20260328172000 +0000" stop="20260328212000 +0000" channel="ČT2.webtv.sk">
-    <title lang="id">Krasobruslení: MS v krasobruslení 2026</title>
+  <programme start="20260328140300 +0000" stop="20260328150000 +0000" channel="ČT24.webtv.sk">
+    <title lang="id">Studio ČT24</title>
   </programme>
-  <programme start="20260328212000 +0000" stop="20260328213500 +0000" channel="ČT2.webtv.sk">
-    <title lang="id">Zprávy v českém znakovém jazyce</title>
+  <programme start="20260328150000 +0000" stop="20260328150300 +0000" channel="ČT24.webtv.sk">
+    <title lang="id">Zprávy</title>
   </programme>
-  <programme start="20260328213500 +0000" stop="20260328231100 +0000" channel="ČT2.webtv.sk">
-    <title lang="id">Armáda temnot</title>
+  <programme start="20260328150300 +0000" stop="20260328160000 +0000" channel="ČT24.webtv.sk">
+    <title lang="id">Studio ČT24</title>
+  </programme>
+  <programme start="20260328160000 +0000" stop="20260328160300 +0000" channel="ČT24.webtv.sk">
+    <title lang="id">Zprávy</title>
+  </programme>
+  <programme start="20260328160300 +0000" stop="20260328165500 +0000" channel="ČT24.webtv.sk">
+    <title lang="id">Studio ČT24</title>
+  </programme>
+  <programme start="20260328165500 +0000" stop="20260328170000 +0000" channel="ČT24.webtv.sk">
+    <title lang="id">Předpověď počasí</title>
+  </programme>
+  <programme start="20260328170000 +0000" stop="20260328170500 +0000" channel="ČT24.webtv.sk">
+    <title lang="id">Zprávy</title>
+  </programme>
+  <programme start="20260328170500 +0000" stop="20260328175500 +0000" channel="ČT24.webtv.sk">
+    <title lang="id">Interview Speciál</title>
+  </programme>
+  <programme start="20260328175500 +0000" stop="20260328180000 +0000" channel="ČT24.webtv.sk">
+    <title lang="id">Události za okamžik a počasí</title>
+  </programme>
+  <programme start="20260328180000 +0000" stop="20260328185000 +0000" channel="ČT24.webtv.sk">
+    <title lang="id">Události</title>
+  </programme>
+  <programme start="20260328185000 +0000" stop="20260328185200 +0000" channel="ČT24.webtv.sk">
+    <title lang="id">Počasí v evropských metropolích</title>
+  </programme>
+  <programme start="20260328185200 +0000" stop="20260328190600 +0000" channel="ČT24.webtv.sk">
+    <title lang="id">Branky, body, vteřiny</title>
+  </programme>
+  <programme start="20260328190600 +0000" stop="20260328200000 +0000" channel="ČT24.webtv.sk">
+    <title lang="id">Hyde Park Civilizace</title>
+  </programme>
+  <programme start="20260328200000 +0000" stop="20260328200500 +0000" channel="ČT24.webtv.sk">
+    <title lang="id">Zprávy</title>
+  </programme>
+  <programme start="20260328200500 +0000" stop="20260328203300 +0000" channel="ČT24.webtv.sk">
+    <title lang="id">Zóna ČT24</title>
+  </programme>
+  <programme start="20260328203300 +0000" stop="20260328210000 +0000" channel="ČT24.webtv.sk">
+    <title lang="id">Týden v kultuře</title>
+  </programme>
+  <programme start="20260328210000 +0000" stop="20260328220000 +0000" channel="ČT24.webtv.sk">
+    <title lang="id">Události, komentáře z ekonomiky</title>
+  </programme>
+  <programme start="20260328220000 +0000" stop="20260328220500 +0000" channel="ČT24.webtv.sk">
+    <title lang="id">Předpověď počasí</title>
+  </programme>
+  <programme start="20260328220500 +0000" stop="20260328223200 +0000" channel="ČT24.webtv.sk">
+    <title lang="id">Zprávy ve 23</title>
+  </programme>
+  <programme start="20260328223200 +0000" stop="20260328230000 +0000" channel="ČT24.webtv.sk">
+    <title lang="id">Z metropole</title>
   </programme>
   <programme start="20260327220000 +0000" stop="20260327230100 +0000" channel="ČT :D - ČT art.webtv.sk">
     <title lang="id">Rande s hvězdou</title>
@@ -4944,6 +5013,54 @@
   </programme>
   <programme start="20260328223000 +0000" stop="20260329010000 +0000" channel="Sport 1.webtv.sk">
     <title lang="id">Lední hokej</title>
+  </programme>
+  <programme start="20260327230000 +0000" stop="20260328011500 +0000" channel="Sport 2.webtv.sk">
+    <title lang="id">Fotbal</title>
+  </programme>
+  <programme start="20260328011500 +0000" stop="20260328050000 +0000" channel="Sport 2.webtv.sk">
+    <title lang="id">Šipky</title>
+  </programme>
+  <programme start="20260328050000 +0000" stop="20260328060000 +0000" channel="Sport 2.webtv.sk">
+    <title lang="id">Poker</title>
+  </programme>
+  <programme start="20260328060000 +0000" stop="20260328070000 +0000" channel="Sport 2.webtv.sk">
+    <title lang="id">Box</title>
+  </programme>
+  <programme start="20260328070000 +0000" stop="20260328080000 +0000" channel="Sport 2.webtv.sk">
+    <title lang="id">Poker</title>
+  </programme>
+  <programme start="20260328080000 +0000" stop="20260328100000 +0000" channel="Sport 2.webtv.sk">
+    <title lang="id">Fotbal</title>
+  </programme>
+  <programme start="20260328100000 +0000" stop="20260328110000 +0000" channel="Sport 2.webtv.sk">
+    <title lang="id">Poker</title>
+  </programme>
+  <programme start="20260328110000 +0000" stop="20260328130000 +0000" channel="Sport 2.webtv.sk">
+    <title lang="id">Fotbal</title>
+  </programme>
+  <programme start="20260328130000 +0000" stop="20260328131500 +0000" channel="Sport 2.webtv.sk">
+    <title lang="id">Fotbal, Made in Italy, Scott McTominay</title>
+  </programme>
+  <programme start="20260328131500 +0000" stop="20260328141500 +0000" channel="Sport 2.webtv.sk">
+    <title lang="id">Box</title>
+  </programme>
+  <programme start="20260328141500 +0000" stop="20260328164500 +0000" channel="Sport 2.webtv.sk">
+    <title lang="id">Lední hokej</title>
+  </programme>
+  <programme start="20260328164500 +0000" stop="20260328190000 +0000" channel="Sport 2.webtv.sk">
+    <title lang="id">Fotbal</title>
+  </programme>
+  <programme start="20260328190000 +0000" stop="20260328204500 +0000" channel="Sport 2.webtv.sk">
+    <title lang="id">Házená</title>
+  </programme>
+  <programme start="20260328204500 +0000" stop="20260328223000 +0000" channel="Sport 2.webtv.sk">
+    <title lang="id">Házená</title>
+  </programme>
+  <programme start="20260328223000 +0000" stop="20260328224500 +0000" channel="Sport 2.webtv.sk">
+    <title lang="id">Fotbal, Made in Italy, Scott McTominay</title>
+  </programme>
+  <programme start="20260328224500 +0000" stop="20260329010000 +0000" channel="Sport 2.webtv.sk">
+    <title lang="id">Fotbal</title>
   </programme>
   <programme start="20260327224500 +0000" stop="20260327231500 +0000" channel="Auto Motor und Sport.webtv.sk">
     <title lang="id">100 mil</title>
@@ -10992,6 +11109,264 @@
   </programme>
   <programme start="20260328225800 +0000" stop="20260328231300 +0000" channel="JimJam.webtv.sk">
     <title lang="id">Moje kamarádka Conni I (18)</title>
+  </programme>
+  <programme start="20260327230000 +0000" stop="20260327231000 +0000" channel="Minimax.webtv.sk">
+    <title lang="id">To je Joey I (51)</title>
+  </programme>
+  <programme start="20260327231000 +0000" stop="20260327232000 +0000" channel="Minimax.webtv.sk">
+    <title lang="id">To je Joey I (52)</title>
+  </programme>
+  <programme start="20260327232000 +0000" stop="20260327233000 +0000" channel="Minimax.webtv.sk">
+    <title lang="id">To je Joey I (1)</title>
+  </programme>
+  <programme start="20260327233000 +0000" stop="20260327234500 +0000" channel="Minimax.webtv.sk">
+    <title lang="id">To je Joey I (2)</title>
+  </programme>
+  <programme start="20260327234500 +0000" stop="20260327235500 +0000" channel="Minimax.webtv.sk">
+    <title lang="id">Malí zvířecí detektivové I (6)</title>
+  </programme>
+  <programme start="20260327235500 +0000" stop="20260328000500 +0000" channel="Minimax.webtv.sk">
+    <title lang="id">Malí zvířecí detektivové I (7)</title>
+  </programme>
+  <programme start="20260328000500 +0000" stop="20260328001500 +0000" channel="Minimax.webtv.sk">
+    <title lang="id">Malí zvířecí detektivové I (8)</title>
+  </programme>
+  <programme start="20260328001500 +0000" stop="20260328003000 +0000" channel="Minimax.webtv.sk">
+    <title lang="id">Malí zvířecí detektivové I (9)</title>
+  </programme>
+  <programme start="20260328003000 +0000" stop="20260328004000 +0000" channel="Minimax.webtv.sk">
+    <title lang="id">Příhody bílého delfína I (11)</title>
+  </programme>
+  <programme start="20260328004000 +0000" stop="20260328005500 +0000" channel="Minimax.webtv.sk">
+    <title lang="id">Příhody bílého delfína I (12)</title>
+  </programme>
+  <programme start="20260328005500 +0000" stop="20260328012000 +0000" channel="Minimax.webtv.sk">
+    <title lang="id">Lexi a Lotka - věrná dvojčata detektivky I (4)</title>
+  </programme>
+  <programme start="20260328012000 +0000" stop="20260328014500 +0000" channel="Minimax.webtv.sk">
+    <title lang="id">Geronimo Stilton I (6)</title>
+  </programme>
+  <programme start="20260328014500 +0000" stop="20260328020500 +0000" channel="Minimax.webtv.sk">
+    <title lang="id">Geronimo Stilton I (5)</title>
+  </programme>
+  <programme start="20260328020500 +0000" stop="20260328022500 +0000" channel="Minimax.webtv.sk">
+    <title lang="id">Ulička záhad I (5)</title>
+  </programme>
+  <programme start="20260328022500 +0000" stop="20260328023000 +0000" channel="Minimax.webtv.sk">
+    <title lang="id">Byla jednou jedna… Věc I (69)</title>
+  </programme>
+  <programme start="20260328023000 +0000" stop="20260328024000 +0000" channel="Minimax.webtv.sk">
+    <title lang="id">Byla jednou jedna… Věc I (70)</title>
+  </programme>
+  <programme start="20260328024000 +0000" stop="20260328025000 +0000" channel="Minimax.webtv.sk">
+    <title lang="id">To je Joey I (48)</title>
+  </programme>
+  <programme start="20260328025000 +0000" stop="20260328030000 +0000" channel="Minimax.webtv.sk">
+    <title lang="id">To je Joey I (49)</title>
+  </programme>
+  <programme start="20260328030000 +0000" stop="20260328031000 +0000" channel="Minimax.webtv.sk">
+    <title lang="id">Sestry II (50)</title>
+  </programme>
+  <programme start="20260328031000 +0000" stop="20260328032000 +0000" channel="Minimax.webtv.sk">
+    <title lang="id">Sestry II (51)</title>
+  </programme>
+  <programme start="20260328032000 +0000" stop="20260328033000 +0000" channel="Minimax.webtv.sk">
+    <title lang="id">Příhody bílého delfína II (51)</title>
+  </programme>
+  <programme start="20260328033000 +0000" stop="20260328034500 +0000" channel="Minimax.webtv.sk">
+    <title lang="id">Příhody bílého delfína II (52)</title>
+  </programme>
+  <programme start="20260328034500 +0000" stop="20260328035500 +0000" channel="Minimax.webtv.sk">
+    <title lang="id">Malí zvířecí detektivové I (48)</title>
+  </programme>
+  <programme start="20260328035500 +0000" stop="20260328041000 +0000" channel="Minimax.webtv.sk">
+    <title lang="id">Malí zvířecí detektivové I (49)</title>
+  </programme>
+  <programme start="20260328041000 +0000" stop="20260328043500 +0000" channel="Minimax.webtv.sk">
+    <title lang="id">Lexi a Lotka - věrná dvojčata detektivky I (18)</title>
+  </programme>
+  <programme start="20260328043500 +0000" stop="20260328044500 +0000" channel="Minimax.webtv.sk">
+    <title lang="id">Idefix a smečka Nepoddajných I (15)</title>
+  </programme>
+  <programme start="20260328044500 +0000" stop="20260328050000 +0000" channel="Minimax.webtv.sk">
+    <title lang="id">Idefix a smečka Nepoddajných I (16)</title>
+  </programme>
+  <programme start="20260328050000 +0000" stop="20260328050500 +0000" channel="Minimax.webtv.sk">
+    <title lang="id">Psík jménem Pat I (19)</title>
+  </programme>
+  <programme start="20260328050500 +0000" stop="20260328051000 +0000" channel="Minimax.webtv.sk">
+    <title lang="id">Psík jménem Pat I (20)</title>
+  </programme>
+  <programme start="20260328051000 +0000" stop="20260328052500 +0000" channel="Minimax.webtv.sk">
+    <title lang="id">Psík jménem Pat I (21)</title>
+  </programme>
+  <programme start="20260328052500 +0000" stop="20260328053000 +0000" channel="Minimax.webtv.sk">
+    <title lang="id">Psík jménem Pat I (22)</title>
+  </programme>
+  <programme start="20260328053000 +0000" stop="20260328053500 +0000" channel="Minimax.webtv.sk">
+    <title lang="id">Psík jménem Pat I (23)</title>
+  </programme>
+  <programme start="20260328053500 +0000" stop="20260328055000 +0000" channel="Minimax.webtv.sk">
+    <title lang="id">Psík jménem Pat I (24)</title>
+  </programme>
+  <programme start="20260328055000 +0000" stop="20260328055500 +0000" channel="Minimax.webtv.sk">
+    <title lang="id">Byla jednou jedna… Věc I (52)</title>
+  </programme>
+  <programme start="20260328055500 +0000" stop="20260328060000 +0000" channel="Minimax.webtv.sk">
+    <title lang="id">Byla jednou jedna… Věc I (53)</title>
+  </programme>
+  <programme start="20260328060000 +0000" stop="20260328061500 +0000" channel="Minimax.webtv.sk">
+    <title lang="id">Byla jednou jedna… Věc I (54)</title>
+  </programme>
+  <programme start="20260328061500 +0000" stop="20260328062000 +0000" channel="Minimax.webtv.sk">
+    <title lang="id">Byla jednou jedna… Věc I (55)</title>
+  </programme>
+  <programme start="20260328062000 +0000" stop="20260328062500 +0000" channel="Minimax.webtv.sk">
+    <title lang="id">Byla jednou jedna… Věc I (56)</title>
+  </programme>
+  <programme start="20260328062500 +0000" stop="20260328064000 +0000" channel="Minimax.webtv.sk">
+    <title lang="id">Byla jednou jedna… Věc I (57)</title>
+  </programme>
+  <programme start="20260328064000 +0000" stop="20260328065000 +0000" channel="Minimax.webtv.sk">
+    <title lang="id">Idefix a smečka Nepoddajných I (35)</title>
+  </programme>
+  <programme start="20260328065000 +0000" stop="20260328070000 +0000" channel="Minimax.webtv.sk">
+    <title lang="id">Idefix a smečka Nepoddajných I (36)</title>
+  </programme>
+  <programme start="20260328070000 +0000" stop="20260328082000 +0000" channel="Minimax.webtv.sk">
+    <title lang="id">Barbie Motýlí víla</title>
+  </programme>
+  <programme start="20260328082000 +0000" stop="20260328093000 +0000" channel="Minimax.webtv.sk">
+    <title lang="id">Barbie a Chelsea: Ztracené narozeniny</title>
+  </programme>
+  <programme start="20260328093000 +0000" stop="20260328094000 +0000" channel="Minimax.webtv.sk">
+    <title lang="id">Příhody bílého delfína III (50)</title>
+  </programme>
+  <programme start="20260328094000 +0000" stop="20260328095000 +0000" channel="Minimax.webtv.sk">
+    <title lang="id">Příhody bílého delfína III (51)</title>
+  </programme>
+  <programme start="20260328095000 +0000" stop="20260328100000 +0000" channel="Minimax.webtv.sk">
+    <title lang="id">Příhody bílého delfína III (52)</title>
+  </programme>
+  <programme start="20260328100000 +0000" stop="20260328101000 +0000" channel="Minimax.webtv.sk">
+    <title lang="id">Příhody bílého delfína I (1)</title>
+  </programme>
+  <programme start="20260328101000 +0000" stop="20260328102500 +0000" channel="Minimax.webtv.sk">
+    <title lang="id">Příhody bílého delfína I (2)</title>
+  </programme>
+  <programme start="20260328102500 +0000" stop="20260328103500 +0000" channel="Minimax.webtv.sk">
+    <title lang="id">Příhody bílého delfína I (3)</title>
+  </programme>
+  <programme start="20260328103500 +0000" stop="20260328104500 +0000" channel="Minimax.webtv.sk">
+    <title lang="id">Příhody bílého delfína I (4)</title>
+  </programme>
+  <programme start="20260328104500 +0000" stop="20260328111000 +0000" channel="Minimax.webtv.sk">
+    <title lang="id">Příhody bílého delfína I (5)</title>
+  </programme>
+  <programme start="20260328111000 +0000" stop="20260328113000 +0000" channel="Minimax.webtv.sk">
+    <title lang="id">Zvědavý George IV (9)</title>
+  </programme>
+  <programme start="20260328113000 +0000" stop="20260328120000 +0000" channel="Minimax.webtv.sk">
+    <title lang="id">Zvědavý George IV (10)</title>
+  </programme>
+  <programme start="20260328120000 +0000" stop="20260328121000 +0000" channel="Minimax.webtv.sk">
+    <title lang="id">ALVINNN!!! A Chipmunkové III (22)</title>
+  </programme>
+  <programme start="20260328121000 +0000" stop="20260328122000 +0000" channel="Minimax.webtv.sk">
+    <title lang="id">ALVINNN!!! A Chipmunkové III (23)</title>
+  </programme>
+  <programme start="20260328122000 +0000" stop="20260328124000 +0000" channel="Minimax.webtv.sk">
+    <title lang="id">ALVINNN!!! A Chipmunkové III (24)</title>
+  </programme>
+  <programme start="20260328124000 +0000" stop="20260328130500 +0000" channel="Minimax.webtv.sk">
+    <title lang="id">Inspektor Šikula II (9)</title>
+  </programme>
+  <programme start="20260328130500 +0000" stop="20260328131000 +0000" channel="Minimax.webtv.sk">
+    <title lang="id">Psík jménem Pat I (28)</title>
+  </programme>
+  <programme start="20260328131000 +0000" stop="20260328131500 +0000" channel="Minimax.webtv.sk">
+    <title lang="id">Psík jménem Pat I (29)</title>
+  </programme>
+  <programme start="20260328131500 +0000" stop="20260328133000 +0000" channel="Minimax.webtv.sk">
+    <title lang="id">Psík jménem Pat I (30)</title>
+  </programme>
+  <programme start="20260328133000 +0000" stop="20260328135000 +0000" channel="Minimax.webtv.sk">
+    <title lang="id">Mimi šéf: zpátky ve hře II (17)</title>
+  </programme>
+  <programme start="20260328135000 +0000" stop="20260328142000 +0000" channel="Minimax.webtv.sk">
+    <title lang="id">Mimi šéf: zpátky ve hře II (18)</title>
+  </programme>
+  <programme start="20260328142000 +0000" stop="20260328143000 +0000" channel="Minimax.webtv.sk">
+    <title lang="id">ALVINNN!!! A Chipmunkové III (13)</title>
+  </programme>
+  <programme start="20260328143000 +0000" stop="20260328144000 +0000" channel="Minimax.webtv.sk">
+    <title lang="id">ALVINNN!!! A Chipmunkové III (14)</title>
+  </programme>
+  <programme start="20260328144000 +0000" stop="20260328145500 +0000" channel="Minimax.webtv.sk">
+    <title lang="id">ALVINNN!!! A Chipmunkové III (15)</title>
+  </programme>
+  <programme start="20260328145500 +0000" stop="20260328152000 +0000" channel="Minimax.webtv.sk">
+    <title lang="id">Poznáváme přírodu III (8)</title>
+  </programme>
+  <programme start="20260328152000 +0000" stop="20260328153000 +0000" channel="Minimax.webtv.sk">
+    <title lang="id">Příhody bílého delfína I (14)</title>
+  </programme>
+  <programme start="20260328153000 +0000" stop="20260328154000 +0000" channel="Minimax.webtv.sk">
+    <title lang="id">Příhody bílého delfína I (15)</title>
+  </programme>
+  <programme start="20260328154000 +0000" stop="20260328160000 +0000" channel="Minimax.webtv.sk">
+    <title lang="id">Příhody bílého delfína I (16)</title>
+  </programme>
+  <programme start="20260328160000 +0000" stop="20260328171500 +0000" channel="Minimax.webtv.sk">
+    <title lang="id">Barbie deníček</title>
+  </programme>
+  <programme start="20260328171500 +0000" stop="20260328172000 +0000" channel="Minimax.webtv.sk">
+    <title lang="id">Byla jednou jedna… Věc I (72)</title>
+  </programme>
+  <programme start="20260328172000 +0000" stop="20260328173000 +0000" channel="Minimax.webtv.sk">
+    <title lang="id">Byla jednou jedna… Věc I (73)</title>
+  </programme>
+  <programme start="20260328173000 +0000" stop="20260328174000 +0000" channel="Minimax.webtv.sk">
+    <title lang="id">ALVINNN!!! A Chipmunkové III (37)</title>
+  </programme>
+  <programme start="20260328174000 +0000" stop="20260328175500 +0000" channel="Minimax.webtv.sk">
+    <title lang="id">ALVINNN!!! A Chipmunkové III (38)</title>
+  </programme>
+  <programme start="20260328175500 +0000" stop="20260328180500 +0000" channel="Minimax.webtv.sk">
+    <title lang="id">Idefix a smečka Nepoddajných I (41)</title>
+  </programme>
+  <programme start="20260328180500 +0000" stop="20260328183000 +0000" channel="Minimax.webtv.sk">
+    <title lang="id">Molly z Denali IV (16)</title>
+  </programme>
+  <programme start="20260328183000 +0000" stop="20260328190000 +0000" channel="Minimax.webtv.sk">
+    <title lang="id">Molly z Denali IV (17)</title>
+  </programme>
+  <programme start="20260328190000 +0000" stop="20260328202000 +0000" channel="Minimax.webtv.sk">
+    <title lang="id">Felix a Morgiin poklad</title>
+  </programme>
+  <programme start="20260328202000 +0000" stop="20260328203000 +0000" channel="Minimax.webtv.sk">
+    <title lang="id">Malí zvířecí detektivové I (10)</title>
+  </programme>
+  <programme start="20260328203000 +0000" stop="20260328205000 +0000" channel="Minimax.webtv.sk">
+    <title lang="id">Geronimo Stilton I (4)</title>
+  </programme>
+  <programme start="20260328205000 +0000" stop="20260328211000 +0000" channel="Minimax.webtv.sk">
+    <title lang="id">Geronimo Stilton I (5)</title>
+  </programme>
+  <programme start="20260328211000 +0000" stop="20260328214500 +0000" channel="Minimax.webtv.sk">
+    <title lang="id">Geronimo Stilton I (6)</title>
+  </programme>
+  <programme start="20260328214500 +0000" stop="20260328215500 +0000" channel="Minimax.webtv.sk">
+    <title lang="id">Idefix a smečka Nepoddajných I (41)</title>
+  </programme>
+  <programme start="20260328215500 +0000" stop="20260328221500 +0000" channel="Minimax.webtv.sk">
+    <title lang="id">Idefix a smečka Nepoddajných I (42)</title>
+  </programme>
+  <programme start="20260328221500 +0000" stop="20260328223500 +0000" channel="Minimax.webtv.sk">
+    <title lang="id">Inspektor Šikula II (7)</title>
+  </programme>
+  <programme start="20260328223500 +0000" stop="20260328230000 +0000" channel="Minimax.webtv.sk">
+    <title lang="id">Inspektor Šikula II (8)</title>
   </programme>
   <programme start="20260327230000 +0000" stop="20260327230300 +0000" channel="Duck TV.webtv.sk">
     <title lang="id">Rozcvičme sa!</title>
@@ -18450,6 +18825,108 @@
   </programme>
   <programme start="20260328225500 +0000" stop="20260328231600 +0000" channel="Rai Uno.webtv.sk">
     <title lang="id">Tg1</title>
+  </programme>
+  <programme start="20260327230000 +0000" stop="20260328000000 +0000" channel="Rai Tre.webtv.sk">
+    <title lang="id">Tg3 Linea Notte</title>
+  </programme>
+  <programme start="20260328000000 +0000" stop="20260328000500 +0000" channel="Rai Tre.webtv.sk">
+    <title lang="id">Meteo 3</title>
+  </programme>
+  <programme start="20260328000500 +0000" stop="20260328002000 +0000" channel="Rai Tre.webtv.sk">
+    <title lang="id">TG3 Chi e di scena</title>
+  </programme>
+  <programme start="20260328002000 +0000" stop="20260328003000 +0000" channel="Rai Tre.webtv.sk">
+    <title lang="id">Parlamento Magazine</title>
+  </programme>
+  <programme start="20260328003000 +0000" stop="20260328010500 +0000" channel="Rai Tre.webtv.sk">
+    <title lang="id">Movie Mag</title>
+  </programme>
+  <programme start="20260328010500 +0000" stop="20260328011000 +0000" channel="Rai Tre.webtv.sk">
+    <title lang="id">Appuntamento al cinema</title>
+  </programme>
+  <programme start="20260328011000 +0000" stop="20260328050000 +0000" channel="Rai Tre.webtv.sk">
+    <title lang="id">RaiNews</title>
+  </programme>
+  <programme start="20260328050000 +0000" stop="20260328070000 +0000" channel="Rai Tre.webtv.sk">
+    <title lang="id">RaiNews</title>
+  </programme>
+  <programme start="20260328070000 +0000" stop="20260328090000 +0000" channel="Rai Tre.webtv.sk">
+    <title lang="id">Mi manda Rai Tre</title>
+  </programme>
+  <programme start="20260328090000 +0000" stop="20260328090500 +0000" channel="Rai Tre.webtv.sk">
+    <title lang="id">Gli imperdibili</title>
+  </programme>
+  <programme start="20260328090500 +0000" stop="20260328094000 +0000" channel="Rai Tre.webtv.sk">
+    <title lang="id">Parlamento Punto Europa</title>
+  </programme>
+  <programme start="20260328094000 +0000" stop="20260328095500 +0000" channel="Rai Tre.webtv.sk">
+    <title lang="id">TGR Amici Animali</title>
+  </programme>
+  <programme start="20260328095500 +0000" stop="20260328103000 +0000" channel="Rai Tre.webtv.sk">
+    <title lang="id">TGR Mezzogiorno Italia</title>
+  </programme>
+  <programme start="20260328103000 +0000" stop="20260328110000 +0000" channel="Rai Tre.webtv.sk">
+    <title lang="id">TGR Officina Italia</title>
+  </programme>
+  <programme start="20260328110000 +0000" stop="20260328112200 +0000" channel="Rai Tre.webtv.sk">
+    <title lang="id">Tg3</title>
+  </programme>
+  <programme start="20260328112200 +0000" stop="20260328112500 +0000" channel="Rai Tre.webtv.sk">
+    <title lang="id">Tg3 Persone</title>
+  </programme>
+  <programme start="20260328112500 +0000" stop="20260328115500 +0000" channel="Rai Tre.webtv.sk">
+    <title lang="id">TGR Il Settimanale</title>
+  </programme>
+  <programme start="20260328115500 +0000" stop="20260328122500 +0000" channel="Rai Tre.webtv.sk">
+    <title lang="id">TGR Petrarca</title>
+  </programme>
+  <programme start="20260328122500 +0000" stop="20260328130000 +0000" channel="Rai Tre.webtv.sk">
+    <title lang="id">TGR BellItalia</title>
+  </programme>
+  <programme start="20260328130000 +0000" stop="20260328131900 +0000" channel="Rai Tre.webtv.sk">
+    <title lang="id">Tg Regione</title>
+  </programme>
+  <programme start="20260328131900 +0000" stop="20260328132000 +0000" channel="Rai Tre.webtv.sk">
+    <title lang="id">Tg Regione Meteo</title>
+  </programme>
+  <programme start="20260328132000 +0000" stop="20260328134500 +0000" channel="Rai Tre.webtv.sk">
+    <title lang="id">Tg3</title>
+  </programme>
+  <programme start="20260328134500 +0000" stop="20260328134900 +0000" channel="Rai Tre.webtv.sk">
+    <title lang="id">TG3 Pixel</title>
+  </programme>
+  <programme start="20260328134900 +0000" stop="20260328135500 +0000" channel="Rai Tre.webtv.sk">
+    <title lang="id">Meteo 3</title>
+  </programme>
+  <programme start="20260328135500 +0000" stop="20260328140000 +0000" channel="Rai Tre.webtv.sk">
+    <title lang="id">TG3 LIS</title>
+  </programme>
+  <programme start="20260328140000 +0000" stop="20260328154500 +0000" channel="Rai Tre.webtv.sk">
+    <title lang="id">Tv Talk</title>
+  </programme>
+  <programme start="20260328154500 +0000" stop="20260328180000 +0000" channel="Rai Tre.webtv.sk">
+    <title lang="id">PresaDiretta</title>
+  </programme>
+  <programme start="20260328180000 +0000" stop="20260328183000 +0000" channel="Rai Tre.webtv.sk">
+    <title lang="id">Tg3</title>
+  </programme>
+  <programme start="20260328183000 +0000" stop="20260328185100 +0000" channel="Rai Tre.webtv.sk">
+    <title lang="id">Tg Regione</title>
+  </programme>
+  <programme start="20260328185100 +0000" stop="20260328190000 +0000" channel="Rai Tre.webtv.sk">
+    <title lang="id">Tg Regione Meteo</title>
+  </programme>
+  <programme start="20260328190000 +0000" stop="20260328191500 +0000" channel="Rai Tre.webtv.sk">
+    <title lang="id">Blob</title>
+  </programme>
+  <programme start="20260328191500 +0000" stop="20260328203000 +0000" channel="Rai Tre.webtv.sk">
+    <title lang="id">La Confessione IV (24)</title>
+  </programme>
+  <programme start="20260328203000 +0000" stop="20260328224000 +0000" channel="Rai Tre.webtv.sk">
+    <title lang="id">La pelle del mondo</title>
+  </programme>
+  <programme start="20260328224000 +0000" stop="20260328230000 +0000" channel="Rai Tre.webtv.sk">
+    <title lang="id">Blob</title>
   </programme>
   <programme start="20260327230000 +0000" stop="20260327233000 +0000" channel="CGTN.webtv.sk">
     <title lang="id">The Heat</title>
