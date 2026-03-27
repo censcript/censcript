@@ -959,22 +959,22 @@
     <title>Bundesliga 25/26: Borussia Dortmund - Hamburger SV</title>
 </programme>
 <programme start="20260327123000 +0000" stop="20260327130000 +0000" channel="DAZN 1 HD.skyde">
-    <title>Google Pixel Frauen-Bundesliga Highlightshow 25/26: 21. Spieltag</title>
+    <title>Best of DAZN: Highlights</title>
 </programme>
 <programme start="20260327130000 +0000" stop="20260327133000 +0000" channel="DAZN 1 HD.skyde">
-    <title>Doppelpack Europa - Highlights der Serie A und Ligue 1 25/26: 30./27. Spieltag</title>
+    <title>Google Pixel Frauen-Bundesliga Highlightshow 25/26: 21. Spieltag</title>
 </programme>
 <programme start="20260327133000 +0000" stop="20260327140000 +0000" channel="DAZN 1 HD.skyde">
+    <title>Doppelpack Europa - Highlights der Serie A und Ligue 1 25/26: 30./27. Spieltag</title>
+</programme>
+<programme start="20260327140000 +0000" stop="20260327160000 +0000" channel="DAZN 1 HD.skyde">
+    <title>Bundesliga 25/26: RB Leipzig - TSG 1899 Hoffenheim</title>
+</programme>
+<programme start="20260327160000 +0000" stop="20260327163500 +0000" channel="DAZN 1 HD.skyde">
     <title>FC Bayern World Squad: Class of &#039;25 - Folge 1</title>
 </programme>
-<programme start="20260327140000 +0000" stop="20260327145000 +0000" channel="DAZN 1 HD.skyde">
-    <title>Best of DAZN: Highlights</title>
-</programme>
-<programme start="20260327145000 +0000" stop="20260327170000 +0000" channel="DAZN 1 HD.skyde">
-    <title>Freundschaftsspiele: Aserbaidschan - St. Lucia</title>
-</programme>
-<programme start="20260327170000 +0000" stop="20260327171500 +0000" channel="DAZN 1 HD.skyde">
-    <title>Best of DAZN: Highlights</title>
+<programme start="20260327163500 +0000" stop="20260327171500 +0000" channel="DAZN 1 HD.skyde">
+    <title>FC Bayern World Squad: Class of &#039;25 - Folge 2</title>
 </programme>
 <programme start="20260327171500 +0000" stop="20260327193500 +0000" channel="DAZN 1 HD.skyde">
     <title>Google Pixel Frauen Bundesliga 25/26: Carl Zeiss Jena - RB Leipzig</title>
@@ -1013,24 +1013,21 @@
     <title>LaLiga 25/26: Real Madrid - Atlético Madrid</title>
 </programme>
 <programme start="20260327162500 +0000" stop="20260327165000 +0000" channel="DAZN 2 HD.skyde">
-    <title>Best of DAZN: Highlights</title>
+    <title>Fußball 25/26: TBC - TBC</title>
 </programme>
 <programme start="20260327165000 +0000" stop="20260327190000 +0000" channel="DAZN 2 HD.skyde">
     <title>Freundschaftsspiele: Montenegro - Andorra</title>
 </programme>
-<programme start="20260327190000 +0000" stop="20260327193000 +0000" channel="DAZN 2 HD.skyde">
+<programme start="20260327190000 +0000" stop="20260327193500 +0000" channel="DAZN 2 HD.skyde">
     <title>Das Herz des deutschen Fußballs: Episode 1</title>
 </programme>
-<programme start="20260327193000 +0000" stop="20260327195000 +0000" channel="DAZN 2 HD.skyde">
-    <title>Best of DAZN: Highlights</title>
+<programme start="20260327193500 +0000" stop="20260327214500 +0000" channel="DAZN 2 HD.skyde">
+    <title>Freundschaftsspiele: Niederlande - Norwegen</title>
 </programme>
-<programme start="20260327195000 +0000" stop="20260327220000 +0000" channel="DAZN 2 HD.skyde">
-    <title>Freundschaftsspiele: Spanien - Serbien</title>
-</programme>
-<programme start="20260327220000 +0000" stop="20260327224500 +0000" channel="DAZN 2 HD.skyde">
+<programme start="20260327214500 +0000" stop="20260327223000 +0000" channel="DAZN 2 HD.skyde">
     <title>3. Liga Highlightshow 25/26: 30. Spieltag</title>
 </programme>
-<programme start="20260327224500 +0000" stop="20260327230000 +0000" channel="DAZN 2 HD.skyde">
+<programme start="20260327223000 +0000" stop="20260327230000 +0000" channel="DAZN 2 HD.skyde">
     <title>Best of DAZN: Highlights</title>
 </programme>
 <programme start="20260326233000 +0000" stop="20260327001000 +0000" channel="Heimatkanal.skyde">
@@ -2677,7 +2674,7 @@
 <programme start="20260327224500 +0000" stop="20260327231500 +0000" channel="Sky Sport Austria 1 HD.skyde">
     <title>Admiral BL: 100% Rapid (Runden 21-24)</title>
 </programme>
-<programme start="20260327005000 +0000" stop="20260327021500 +0000" channel="Sky Sport Austria 2 HD.skyde">
+<programme start="20260326230000 +0000" stop="20260327090000 +0000" channel="Sky Sport Austria 2 HD.skyde">
     <title>Live WTA 1000: A. Sabalenka - E. Rybakina (KAZ), Miami Open presented by Itaú in Miami, Florida (USA), Halbfinale 2</title>
 </programme>
 <programme start="20260327090000 +0000" stop="20260327090500 +0000" channel="Sky Sport Austria 4 HD.skyde">
@@ -3313,161 +3310,41 @@
 <programme start="20260327220000 +0000" stop="20260327230000 +0000" channel="Sky Sport News HD.skyde">
     <title>Live Sky Sport News: Late Night News</title>
 </programme>
-<programme start="20260326230000 +0000" stop="20260327000000 +0000" channel="Sky Sport Premier League HD.skyde">
-    <title>PL: GOATS (Flair Players)</title>
-</programme>
-<programme start="20260327000000 +0000" stop="20260327010000 +0000" channel="Sky Sport Premier League HD.skyde">
-    <title>PL: GOATS (Teenage Stars)</title>
-</programme>
-<programme start="20260327010000 +0000" stop="20260327030000 +0000" channel="Sky Sport Premier League HD.skyde">
-    <title>PL: Brighton &amp; Hove Albion - FC Liverpool, 31. Spieltag</title>
-</programme>
-<programme start="20260327030000 +0000" stop="20260327040000 +0000" channel="Sky Sport Premier League HD.skyde">
-    <title>PL: 1 to 11 (Dwight Yorke)</title>
-</programme>
-<programme start="20260327040000 +0000" stop="20260327050000 +0000" channel="Sky Sport Premier League HD.skyde">
-    <title>PL: 1 to 11 (Ruud Gullit)</title>
-</programme>
-<programme start="20260327050000 +0000" stop="20260327053000 +0000" channel="Sky Sport Premier League HD.skyde">
-    <title>PL: Netbusters, 1. Spieltag</title>
-</programme>
-<programme start="20260327053000 +0000" stop="20260327060000 +0000" channel="Sky Sport Premier League HD.skyde">
-    <title>PL: Netbusters, 2. Spieltag</title>
-</programme>
-<programme start="20260327060000 +0000" stop="20260327063000 +0000" channel="Sky Sport Premier League HD.skyde">
-    <title>PL: Netbusters, 3. Spieltag</title>
-</programme>
-<programme start="20260327063000 +0000" stop="20260327070000 +0000" channel="Sky Sport Premier League HD.skyde">
-    <title>PL: Netbusters, 4. Spieltag</title>
-</programme>
-<programme start="20260327070000 +0000" stop="20260327073000 +0000" channel="Sky Sport Premier League HD.skyde">
-    <title>PL: Netbusters, 5. Spieltag</title>
-</programme>
-<programme start="20260327073000 +0000" stop="20260327080000 +0000" channel="Sky Sport Premier League HD.skyde">
-    <title>PL: Netbusters, 6. Spieltag</title>
-</programme>
-<programme start="20260327080000 +0000" stop="20260327083000 +0000" channel="Sky Sport Premier League HD.skyde">
-    <title>PL: Netbusters, 7. Spieltag</title>
-</programme>
-<programme start="20260327083000 +0000" stop="20260327090000 +0000" channel="Sky Sport Premier League HD.skyde">
-    <title>PL: Netbusters, 8. Spieltag</title>
-</programme>
-<programme start="20260327090000 +0000" stop="20260327093000 +0000" channel="Sky Sport Premier League HD.skyde">
-    <title>PL: Netbusters, 9. Spieltag</title>
-</programme>
-<programme start="20260327093000 +0000" stop="20260327100000 +0000" channel="Sky Sport Premier League HD.skyde">
-    <title>PL: Netbusters, 10. Spieltag</title>
-</programme>
-<programme start="20260327100000 +0000" stop="20260327103000 +0000" channel="Sky Sport Premier League HD.skyde">
-    <title>PL: Netbusters, 11. Spieltag</title>
-</programme>
-<programme start="20260327103000 +0000" stop="20260327110000 +0000" channel="Sky Sport Premier League HD.skyde">
-    <title>PL: Netbusters, 12. Spieltag</title>
-</programme>
-<programme start="20260327110000 +0000" stop="20260327113000 +0000" channel="Sky Sport Premier League HD.skyde">
-    <title>PL: Netbusters, 13. Spieltag</title>
-</programme>
-<programme start="20260327113000 +0000" stop="20260327120000 +0000" channel="Sky Sport Premier League HD.skyde">
-    <title>PL: Netbusters, 14. Spieltag</title>
-</programme>
-<programme start="20260327120000 +0000" stop="20260327123000 +0000" channel="Sky Sport Premier League HD.skyde">
-    <title>PL: Netbusters, 15. Spieltag</title>
-</programme>
-<programme start="20260327123000 +0000" stop="20260327130000 +0000" channel="Sky Sport Premier League HD.skyde">
-    <title>PL: Netbusters, 16. Spieltag</title>
-</programme>
-<programme start="20260327130000 +0000" stop="20260327133000 +0000" channel="Sky Sport Premier League HD.skyde">
-    <title>PL: Netbusters, 17. Spieltag</title>
-</programme>
-<programme start="20260327133000 +0000" stop="20260327140000 +0000" channel="Sky Sport Premier League HD.skyde">
-    <title>PL: Netbusters, 18. Spieltag</title>
-</programme>
-<programme start="20260327140000 +0000" stop="20260327143000 +0000" channel="Sky Sport Premier League HD.skyde">
-    <title>PL: Netbusters, 19. Spieltag</title>
-</programme>
-<programme start="20260327143000 +0000" stop="20260327150000 +0000" channel="Sky Sport Premier League HD.skyde">
-    <title>PL: Netbusters, 20. Spieltag</title>
-</programme>
-<programme start="20260327150000 +0000" stop="20260327153000 +0000" channel="Sky Sport Premier League HD.skyde">
-    <title>PL: Netbusters, 21. Spieltag</title>
-</programme>
-<programme start="20260327153000 +0000" stop="20260327160000 +0000" channel="Sky Sport Premier League HD.skyde">
-    <title>PL: Netbusters, 22. Spieltag</title>
-</programme>
-<programme start="20260327160000 +0000" stop="20260327163000 +0000" channel="Sky Sport Premier League HD.skyde">
-    <title>PL: Netbusters, 23. Spieltag</title>
-</programme>
-<programme start="20260327163000 +0000" stop="20260327170000 +0000" channel="Sky Sport Premier League HD.skyde">
-    <title>PL: Netbusters, 24. Spieltag</title>
-</programme>
-<programme start="20260327170000 +0000" stop="20260327173000 +0000" channel="Sky Sport Premier League HD.skyde">
-    <title>PL: Netbusters, 25. Spieltag</title>
-</programme>
-<programme start="20260327173000 +0000" stop="20260327180000 +0000" channel="Sky Sport Premier League HD.skyde">
-    <title>PL: Netbusters, 26. Spieltag</title>
-</programme>
-<programme start="20260327180000 +0000" stop="20260327183000 +0000" channel="Sky Sport Premier League HD.skyde">
-    <title>PL: Netbusters, 27. Spieltag</title>
-</programme>
-<programme start="20260327183000 +0000" stop="20260327190000 +0000" channel="Sky Sport Premier League HD.skyde">
-    <title>PL: Netbusters, 28. Spieltag</title>
-</programme>
-<programme start="20260327190000 +0000" stop="20260327193000 +0000" channel="Sky Sport Premier League HD.skyde">
-    <title>PL: Netbusters, 29. Spieltag</title>
-</programme>
-<programme start="20260327193000 +0000" stop="20260327200000 +0000" channel="Sky Sport Premier League HD.skyde">
-    <title>PL: Netbusters, 30. Spieltag</title>
-</programme>
-<programme start="20260327200000 +0000" stop="20260327203000 +0000" channel="Sky Sport Premier League HD.skyde">
-    <title>PL: Netbusters, 31. Spieltag</title>
-</programme>
-<programme start="20260327203000 +0000" stop="20260327210000 +0000" channel="Sky Sport Premier League HD.skyde">
-    <title>Carabao Cup: 90in30: ARS - MCI, Finale 2026 in Wembley</title>
-</programme>
-<programme start="20260327210000 +0000" stop="20260327213000 +0000" channel="Sky Sport Premier League HD.skyde">
-    <title>PL: Classic Match: FC Liverpool - AFC Bournemouth (2022/23)</title>
-</programme>
-<programme start="20260327213000 +0000" stop="20260327220000 +0000" channel="Sky Sport Premier League HD.skyde">
-    <title>PL: Classic Match: Nottingham Forest - Manchester United (1998/99)</title>
-</programme>
-<programme start="20260327220000 +0000" stop="20260327223000 +0000" channel="Sky Sport Premier League HD.skyde">
-    <title>PL: Classic Match: West Ham United - FC Arsenal (2015/16)</title>
-</programme>
-<programme start="20260327223000 +0000" stop="20260327230000 +0000" channel="Sky Sport Premier League HD.skyde">
-    <title>PL: Classic Match: FC Everton - Manchester City (2013/14)</title>
-</programme>
-<programme start="20260326230000 +0000" stop="20260327004500 +0000" channel="Sky Sport Tennis HD.skyde">
+<programme start="20260326230000 +0000" stop="20260327010000 +0000" channel="Sky Sport Tennis HD.skyde">
     <title>Live ATP 1000: A. Zverev (GER) - F. Cerúndolo (ARG), Miami Open presented by Itaú in Miami, Florida (USA), Viertelfinale 4</title>
 </programme>
-<programme start="20260327004500 +0000" stop="20260327020500 +0000" channel="Sky Sport Tennis HD.skyde">
+<programme start="20260327010000 +0000" stop="20260327030000 +0000" channel="Sky Sport Tennis HD.skyde">
     <title>Live WTA 1000: A. Sabalenka - E. Rybakina (KAZ), Miami Open presented by Itaú in Miami, Florida (USA), Halbfinale 2</title>
 </programme>
-<programme start="20260327030000 +0000" stop="20260327043000 +0000" channel="Sky Sport Tennis HD.skyde">
+<programme start="20260327030000 +0000" stop="20260327050000 +0000" channel="Sky Sport Tennis HD.skyde">
     <title>ATP 1000: F. Tiafoe (USA) - J. Sinner (ITA), Miami Open presented by Itaú in Miami, Florida (USA), Viertelfinale 3</title>
 </programme>
-<programme start="20260327043000 +0000" stop="20260327061500 +0000" channel="Sky Sport Tennis HD.skyde">
-    <title>WTA 1000: C. Gauff (USA) - K. Muchova (CZE), Miami Open presented by Itaú in Miami, Florida (USA), Halbfinale 1</title>
+<programme start="20260327050000 +0000" stop="20260327070000 +0000" channel="Sky Sport Tennis HD.skyde">
+    <title>WTA 1000: C. Gauff (USA) - K. Muchová (CZE), Miami Open presented by Itaú in Miami, Florida (USA), Halbfinale 1</title>
 </programme>
-<programme start="20260327063000 +0000" stop="20260327073000 +0000" channel="Sky Sport Tennis HD.skyde">
-    <title>ATP 1000: A. Zverev (GER) - F. Cerundolo (ARG), Miami Open presented by Itaú in Miami, Florida (USA), Viertelfinale 4</title>
+<programme start="20260327070000 +0000" stop="20260327090000 +0000" channel="Sky Sport Tennis HD.skyde">
+    <title>ATP 1000: A. Zverev (GER) - F. Cerúndolo (ARG), Miami Open presented by Itaú in Miami, Florida (USA), Viertelfinale 4</title>
 </programme>
-<programme start="20260327073000 +0000" stop="20260327090000 +0000" channel="Sky Sport Tennis HD.skyde">
+<programme start="20260327090000 +0000" stop="20260327110000 +0000" channel="Sky Sport Tennis HD.skyde">
     <title>WTA 1000: A. Sabalenka - E. Rybakina (KAZ), Miami Open presented by Itaú in Miami, Florida (USA), Halbfinale 2</title>
 </programme>
 <programme start="20260327110000 +0000" stop="20260327120000 +0000" channel="Sky Sport Tennis HD.skyde">
     <title>ATP 1000: Review Indian Wells</title>
 </programme>
-<programme start="20260327133000 +0000" stop="20260327140000 +0000" channel="Sky Sport Tennis HD.skyde">
+<programme start="20260327120000 +0000" stop="20260327140000 +0000" channel="Sky Sport Tennis HD.skyde">
+    <title>WTA 1000: C. Gauff (USA) - K. Muchová (CZE), Miami Open presented by Itaú in Miami, Florida (USA), Halbfinale 1</title>
+</programme>
+<programme start="20260327140000 +0000" stop="20260327143000 +0000" channel="Sky Sport Tennis HD.skyde">
     <title>ATP: This Week</title>
 </programme>
-<programme start="20260327140000 +0000" stop="20260327153000 +0000" channel="Sky Sport Tennis HD.skyde">
+<programme start="20260327143000 +0000" stop="20260327163000 +0000" channel="Sky Sport Tennis HD.skyde">
     <title>ATP 1000: F. Tiafoe (USA) - J. Sinner (ITA), Miami Open presented by Itaú in Miami, Florida (USA), Viertelfinale 3</title>
 </programme>
-<programme start="20260327171000 +0000" stop="20260327173500 +0000" channel="Sky Sport Tennis HD.skyde">
+<programme start="20260327163000 +0000" stop="20260327165500 +0000" channel="Sky Sport Tennis HD.skyde">
     <title>Tennis: Rafael Nadal - The No. 1 Story</title>
 </programme>
-<programme start="20260327173500 +0000" stop="20260327185500 +0000" channel="Sky Sport Tennis HD.skyde">
-    <title>ATP 1000: A. Zverev (GER) - F. Cerundolo (ARG), Miami Open presented by Itaú in Miami, Florida (USA), Viertelfinale 4</title>
+<programme start="20260327165500 +0000" stop="20260327185500 +0000" channel="Sky Sport Tennis HD.skyde">
+    <title>ATP 1000: A. Zverev (GER) - F. Cerúndolo (ARG), Miami Open presented by Itaú in Miami, Florida (USA), Viertelfinale 4</title>
 </programme>
 <programme start="20260327185500 +0000" stop="20260327210000 +0000" channel="Sky Sport Tennis HD.skyde">
     <title>Live ATP 1000: J. Lehecka (CZE) - A. Fils (FRA), Miami Open presented by Itaú in Miami, Florida (USA), Halbfinale 1</title>
@@ -3482,15 +3359,15 @@
     <title>ATP: The Impossible Shot - Behind The Scenes</title>
 </programme>
 <programme start="20260327225500 +0000" stop="20260328010000 +0000" channel="Sky Sport Tennis HD.skyde">
-    <title>Live ATP 1000: A. Zverev (GER) - J. Sinner (ITA), Miami Open presented by Itaú in Miami, Florida (USA), Halbfinale 2</title>
+    <title>Live ATP 1000: HF2, Miami Open presented by Itaú in Miami, Florida (USA), Halbfinale 2</title>
 </programme>
-<programme start="20260326230000 +0000" stop="20260327004500 +0000" channel="Sky Sport Top Event HD.skyde">
+<programme start="20260326230000 +0000" stop="20260327010000 +0000" channel="Sky Sport Top Event HD.skyde">
     <title>Live ATP 1000: A. Zverev (GER) - F. Cerúndolo (ARG), Miami Open presented by Itaú in Miami, Florida (USA), Viertelfinale 4</title>
 </programme>
-<programme start="20260327004500 +0000" stop="20260327021500 +0000" channel="Sky Sport Top Event HD.skyde">
+<programme start="20260327010000 +0000" stop="20260327023000 +0000" channel="Sky Sport Top Event HD.skyde">
     <title>Live WTA 1000: A. Sabalenka - E. Rybakina (KAZ), Miami Open presented by Itaú in Miami, Florida (USA), Halbfinale 2</title>
 </programme>
-<programme start="20260327021500 +0000" stop="20260327040000 +0000" channel="Sky Sport Top Event HD.skyde">
+<programme start="20260327023000 +0000" stop="20260327040000 +0000" channel="Sky Sport Top Event HD.skyde">
     <title>Live F1: 1. Freies Training - GP Japan</title>
 </programme>
 <programme start="20260327040000 +0000" stop="20260327043000 +0000" channel="Sky Sport Top Event HD.skyde">
@@ -3551,7 +3428,7 @@
     <title>Live LPGA: Ford Championship presented by Wild Horse Pass, 2. Tag in Phoenix, AZ (USA)</title>
 </programme>
 <programme start="20260327225500 +0000" stop="20260328010000 +0000" channel="Sky Sport Top Event HD.skyde">
-    <title>Live ATP 1000: A. Zverev (GER) - J. Sinner (ITA), Miami Open presented by Itaú in Miami, Florida (USA), Halbfinale 2</title>
+    <title>Live ATP 1000: HF2, Miami Open presented by Itaú in Miami, Florida (USA), Halbfinale 2</title>
 </programme>
 <programme start="20260327001500 +0000" stop="20260327021500 +0000" channel="Sky Sport UHD.skyde">
     <title>F1: Rennen - GP China</title>

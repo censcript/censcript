@@ -8002,10 +8002,7 @@
     <programme start="20260326133000 +0000" stop="20260326163000 +0000" channel="Asianet Movies.starhub">
         <title>Guruvayur Ambalanadayil</title>
     </programme>
-    <programme start="20260326163000 +0000" stop="20260326191000 +0000" channel="Asianet Movies.starhub">
-        <title>Peranbu</title>
-    </programme>
-    <programme start="20260326191000 +0000" stop="20260326213000 +0000" channel="Asianet Movies.starhub">
+    <programme start="20260326163000 +0000" stop="20260326213000 +0000" channel="Asianet Movies.starhub">
         <title>Peranbu</title>
     </programme>
     <programme start="20260326213000 +0000" stop="20260326231000 +0000" channel="Asianet Movies.starhub">
