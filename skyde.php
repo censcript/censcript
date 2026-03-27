@@ -1013,24 +1013,21 @@
     <title>LaLiga 25/26: Real Madrid - Atlético Madrid</title>
 </programme>
 <programme start="20260327162500 +0000" stop="20260327165000 +0000" channel="DAZN 2 HD.skyde">
-    <title>Best of DAZN: Highlights</title>
+    <title>Fußball 25/26: TBC - TBC</title>
 </programme>
 <programme start="20260327165000 +0000" stop="20260327190000 +0000" channel="DAZN 2 HD.skyde">
     <title>Freundschaftsspiele: Montenegro - Andorra</title>
 </programme>
-<programme start="20260327190000 +0000" stop="20260327193000 +0000" channel="DAZN 2 HD.skyde">
+<programme start="20260327190000 +0000" stop="20260327193500 +0000" channel="DAZN 2 HD.skyde">
     <title>Das Herz des deutschen Fußballs: Episode 1</title>
 </programme>
-<programme start="20260327193000 +0000" stop="20260327195000 +0000" channel="DAZN 2 HD.skyde">
-    <title>Best of DAZN: Highlights</title>
+<programme start="20260327193500 +0000" stop="20260327214500 +0000" channel="DAZN 2 HD.skyde">
+    <title>Freundschaftsspiele: Niederlande - Norwegen</title>
 </programme>
-<programme start="20260327195000 +0000" stop="20260327220000 +0000" channel="DAZN 2 HD.skyde">
-    <title>Freundschaftsspiele: Spanien - Serbien</title>
-</programme>
-<programme start="20260327220000 +0000" stop="20260327224500 +0000" channel="DAZN 2 HD.skyde">
+<programme start="20260327214500 +0000" stop="20260327223000 +0000" channel="DAZN 2 HD.skyde">
     <title>3. Liga Highlightshow 25/26: 30. Spieltag</title>
 </programme>
-<programme start="20260327224500 +0000" stop="20260327230000 +0000" channel="DAZN 2 HD.skyde">
+<programme start="20260327223000 +0000" stop="20260327230000 +0000" channel="DAZN 2 HD.skyde">
     <title>Best of DAZN: Highlights</title>
 </programme>
 <programme start="20260326233000 +0000" stop="20260327001000 +0000" channel="Heimatkanal.skyde">
@@ -3436,41 +3433,50 @@
 <programme start="20260327223000 +0000" stop="20260327230000 +0000" channel="Sky Sport Premier League HD.skyde">
     <title>PL: Classic Match: FC Everton - Manchester City (2013/14)</title>
 </programme>
-<programme start="20260326230000 +0000" stop="20260327010000 +0000" channel="Sky Sport Tennis HD.skyde">
+<programme start="20260326230000 +0000" stop="20260327004500 +0000" channel="Sky Sport Tennis HD.skyde">
     <title>Live ATP 1000: A. Zverev (GER) - F. Cerúndolo (ARG), Miami Open presented by Itaú in Miami, Florida (USA), Viertelfinale 4</title>
 </programme>
-<programme start="20260327010000 +0000" stop="20260327030000 +0000" channel="Sky Sport Tennis HD.skyde">
+<programme start="20260327004500 +0000" stop="20260327020500 +0000" channel="Sky Sport Tennis HD.skyde">
     <title>Live WTA 1000: A. Sabalenka - E. Rybakina (KAZ), Miami Open presented by Itaú in Miami, Florida (USA), Halbfinale 2</title>
 </programme>
-<programme start="20260327030000 +0000" stop="20260327050000 +0000" channel="Sky Sport Tennis HD.skyde">
+<programme start="20260327020500 +0000" stop="20260327030000 +0000" channel="Sky Sport Tennis HD.skyde">
+    <title>ATP 1000: Review Indian Wells</title>
+</programme>
+<programme start="20260327030000 +0000" stop="20260327043000 +0000" channel="Sky Sport Tennis HD.skyde">
     <title>ATP 1000: F. Tiafoe (USA) - J. Sinner (ITA), Miami Open presented by Itaú in Miami, Florida (USA), Viertelfinale 3</title>
 </programme>
-<programme start="20260327050000 +0000" stop="20260327070000 +0000" channel="Sky Sport Tennis HD.skyde">
-    <title>WTA 1000: C. Gauff (USA) - K. Muchová (CZE), Miami Open presented by Itaú in Miami, Florida (USA), Halbfinale 1</title>
+<programme start="20260327043000 +0000" stop="20260327061500 +0000" channel="Sky Sport Tennis HD.skyde">
+    <title>WTA 1000: C. Gauff (USA) - K. Muchova (CZE), Miami Open presented by Itaú in Miami, Florida (USA), Halbfinale 1</title>
 </programme>
-<programme start="20260327070000 +0000" stop="20260327090000 +0000" channel="Sky Sport Tennis HD.skyde">
-    <title>ATP 1000: A. Zverev (GER) - F. Cerúndolo (ARG), Miami Open presented by Itaú in Miami, Florida (USA), Viertelfinale 4</title>
+<programme start="20260327061500 +0000" stop="20260327073000 +0000" channel="Sky Sport Tennis HD.skyde">
+    <title>ATP 1000: A. Zverev (GER) - F. Cerundolo (ARG), Miami Open presented by Itaú in Miami, Florida (USA), Viertelfinale 4</title>
+</programme>
+<programme start="20260327073000 +0000" stop="20260327090000 +0000" channel="Sky Sport Tennis HD.skyde">
+    <title>WTA 1000: A. Sabalenka - E. Rybakina (KAZ), Miami Open presented by Itaú in Miami, Florida (USA), Halbfinale 2</title>
 </programme>
 <programme start="20260327090000 +0000" stop="20260327110000 +0000" channel="Sky Sport Tennis HD.skyde">
-    <title>WTA 1000: A. Sabalenka - E. Rybakina (KAZ), Miami Open presented by Itaú in Miami, Florida (USA), Halbfinale 2</title>
+    <title>WTA 1000: C. Gauff (USA) - K. Muchova (CZE), Miami Open presented by Itaú in Miami, Florida (USA), Halbfinale 1</title>
 </programme>
 <programme start="20260327110000 +0000" stop="20260327120000 +0000" channel="Sky Sport Tennis HD.skyde">
     <title>ATP 1000: Review Indian Wells</title>
 </programme>
-<programme start="20260327120000 +0000" stop="20260327140000 +0000" channel="Sky Sport Tennis HD.skyde">
-    <title>WTA 1000: C. Gauff (USA) - K. Muchová (CZE), Miami Open presented by Itaú in Miami, Florida (USA), Halbfinale 1</title>
+<programme start="20260327120000 +0000" stop="20260327133000 +0000" channel="Sky Sport Tennis HD.skyde">
+    <title>WTA 1000: A. Sabalenka - E. Rybakina (KAZ), Miami Open presented by Itaú in Miami, Florida (USA), Halbfinale 2</title>
 </programme>
-<programme start="20260327140000 +0000" stop="20260327143000 +0000" channel="Sky Sport Tennis HD.skyde">
+<programme start="20260327133000 +0000" stop="20260327140000 +0000" channel="Sky Sport Tennis HD.skyde">
     <title>ATP: This Week</title>
 </programme>
-<programme start="20260327143000 +0000" stop="20260327163000 +0000" channel="Sky Sport Tennis HD.skyde">
+<programme start="20260327140000 +0000" stop="20260327153000 +0000" channel="Sky Sport Tennis HD.skyde">
     <title>ATP 1000: F. Tiafoe (USA) - J. Sinner (ITA), Miami Open presented by Itaú in Miami, Florida (USA), Viertelfinale 3</title>
 </programme>
-<programme start="20260327163000 +0000" stop="20260327165500 +0000" channel="Sky Sport Tennis HD.skyde">
+<programme start="20260327153000 +0000" stop="20260327171000 +0000" channel="Sky Sport Tennis HD.skyde">
+    <title>WTA 1000: C. Gauff (USA) - K. Muchova (CZE), Miami Open presented by Itaú in Miami, Florida (USA), Halbfinale 1</title>
+</programme>
+<programme start="20260327171000 +0000" stop="20260327173500 +0000" channel="Sky Sport Tennis HD.skyde">
     <title>Tennis: Rafael Nadal - The No. 1 Story</title>
 </programme>
-<programme start="20260327165500 +0000" stop="20260327185500 +0000" channel="Sky Sport Tennis HD.skyde">
-    <title>ATP 1000: A. Zverev (GER) - F. Cerúndolo (ARG), Miami Open presented by Itaú in Miami, Florida (USA), Viertelfinale 4</title>
+<programme start="20260327173500 +0000" stop="20260327185500 +0000" channel="Sky Sport Tennis HD.skyde">
+    <title>ATP 1000: A. Zverev (GER) - F. Cerundolo (ARG), Miami Open presented by Itaú in Miami, Florida (USA), Viertelfinale 4</title>
 </programme>
 <programme start="20260327185500 +0000" stop="20260327210000 +0000" channel="Sky Sport Tennis HD.skyde">
     <title>Live ATP 1000: J. Lehecka (CZE) - A. Fils (FRA), Miami Open presented by Itaú in Miami, Florida (USA), Halbfinale 1</title>
@@ -3485,12 +3491,12 @@
     <title>ATP: The Impossible Shot - Behind The Scenes</title>
 </programme>
 <programme start="20260327225500 +0000" stop="20260328010000 +0000" channel="Sky Sport Tennis HD.skyde">
-    <title>Live ATP 1000: HF2, Miami Open presented by Itaú in Miami, Florida (USA), Halbfinale 2</title>
+    <title>Live ATP 1000: A. Zverev (GER) - J. Sinner (ITA), Miami Open presented by Itaú in Miami, Florida (USA), Halbfinale 2</title>
 </programme>
-<programme start="20260326230000 +0000" stop="20260327004500 +0000" channel="Sky Sport Top Event HD.skyde">
+<programme start="20260326230000 +0000" stop="20260327010000 +0000" channel="Sky Sport Top Event HD.skyde">
     <title>Live ATP 1000: A. Zverev (GER) - F. Cerúndolo (ARG), Miami Open presented by Itaú in Miami, Florida (USA), Viertelfinale 4</title>
 </programme>
-<programme start="20260327004500 +0000" stop="20260327023000 +0000" channel="Sky Sport Top Event HD.skyde">
+<programme start="20260327010000 +0000" stop="20260327023000 +0000" channel="Sky Sport Top Event HD.skyde">
     <title>Live WTA 1000: A. Sabalenka - E. Rybakina (KAZ), Miami Open presented by Itaú in Miami, Florida (USA), Halbfinale 2</title>
 </programme>
 <programme start="20260327023000 +0000" stop="20260327040000 +0000" channel="Sky Sport Top Event HD.skyde">
@@ -4147,25 +4153,25 @@
 <programme start="20260327053000 +0000" stop="20260327055500 +0000" channel="Warner TV Comedy HD.skyde">
     <title>Friends</title>
 </programme>
-<programme start="20260327055500 +0000" stop="20260327062000 +0000" channel="Warner TV Comedy HD.skyde">
+<programme start="20260327055500 +0000" stop="20260327062500 +0000" channel="Warner TV Comedy HD.skyde">
     <title>Friends</title>
 </programme>
-<programme start="20260327062000 +0000" stop="20260327064500 +0000" channel="Warner TV Comedy HD.skyde">
+<programme start="20260327062500 +0000" stop="20260327065000 +0000" channel="Warner TV Comedy HD.skyde">
     <title>Friends</title>
 </programme>
-<programme start="20260327064500 +0000" stop="20260327071000 +0000" channel="Warner TV Comedy HD.skyde">
+<programme start="20260327065000 +0000" stop="20260327071500 +0000" channel="Warner TV Comedy HD.skyde">
     <title>Friends</title>
 </programme>
-<programme start="20260327071000 +0000" stop="20260327074000 +0000" channel="Warner TV Comedy HD.skyde">
+<programme start="20260327071500 +0000" stop="20260327074000 +0000" channel="Warner TV Comedy HD.skyde">
     <title>Friends</title>
 </programme>
 <programme start="20260327074000 +0000" stop="20260327080500 +0000" channel="Warner TV Comedy HD.skyde">
     <title>Die Nanny</title>
 </programme>
-<programme start="20260327080500 +0000" stop="20260327083500 +0000" channel="Warner TV Comedy HD.skyde">
+<programme start="20260327080500 +0000" stop="20260327083000 +0000" channel="Warner TV Comedy HD.skyde">
     <title>Die Nanny</title>
 </programme>
-<programme start="20260327083500 +0000" stop="20260327090000 +0000" channel="Warner TV Comedy HD.skyde">
+<programme start="20260327083000 +0000" stop="20260327090000 +0000" channel="Warner TV Comedy HD.skyde">
     <title>Die Nanny</title>
 </programme>
 <programme start="20260327090000 +0000" stop="20260327092500 +0000" channel="Warner TV Comedy HD.skyde">
@@ -4231,10 +4237,10 @@
 <programme start="20260327171500 +0000" stop="20260327174000 +0000" channel="Warner TV Comedy HD.skyde">
     <title>2 Broke Girls</title>
 </programme>
-<programme start="20260327174000 +0000" stop="20260327180000 +0000" channel="Warner TV Comedy HD.skyde">
+<programme start="20260327174000 +0000" stop="20260327180500 +0000" channel="Warner TV Comedy HD.skyde">
     <title>The Big Bang Theory</title>
 </programme>
-<programme start="20260327180000 +0000" stop="20260327182500 +0000" channel="Warner TV Comedy HD.skyde">
+<programme start="20260327180500 +0000" stop="20260327182500 +0000" channel="Warner TV Comedy HD.skyde">
     <title>The Big Bang Theory</title>
 </programme>
 <programme start="20260327182500 +0000" stop="20260327185000 +0000" channel="Warner TV Comedy HD.skyde">
@@ -4267,16 +4273,16 @@
 <programme start="20260327214500 +0000" stop="20260327215500 +0000" channel="Warner TV Comedy HD.skyde">
     <title>Robot Chicken</title>
 </programme>
-<programme start="20260327215500 +0000" stop="20260327220500 +0000" channel="Warner TV Comedy HD.skyde">
+<programme start="20260327215500 +0000" stop="20260327221000 +0000" channel="Warner TV Comedy HD.skyde">
     <title>Robot Chicken</title>
 </programme>
-<programme start="20260327220500 +0000" stop="20260327223000 +0000" channel="Warner TV Comedy HD.skyde">
+<programme start="20260327221000 +0000" stop="20260327223000 +0000" channel="Warner TV Comedy HD.skyde">
     <title>Harley Quinn</title>
 </programme>
 <programme start="20260327223000 +0000" stop="20260327225500 +0000" channel="Warner TV Comedy HD.skyde">
     <title>Harley Quinn</title>
 </programme>
-<programme start="20260327225500 +0000" stop="20260327231500 +0000" channel="Warner TV Comedy HD.skyde">
+<programme start="20260327225500 +0000" stop="20260327232000 +0000" channel="Warner TV Comedy HD.skyde">
     <title>Two and a Half Men</title>
 </programme>
 <programme start="20260326230000 +0000" stop="20260327005500 +0000" channel="Warner TV Film.skyde">
@@ -4399,34 +4405,34 @@
 <programme start="20260327045000 +0000" stop="20260327053500 +0000" channel="Warner TV Serie HD.skyde">
     <title>Daktari</title>
 </programme>
-<programme start="20260327053500 +0000" stop="20260327063000 +0000" channel="Warner TV Serie HD.skyde">
+<programme start="20260327053500 +0000" stop="20260327063500 +0000" channel="Warner TV Serie HD.skyde">
     <title>Daktari</title>
 </programme>
-<programme start="20260327063000 +0000" stop="20260327072500 +0000" channel="Warner TV Serie HD.skyde">
+<programme start="20260327063500 +0000" stop="20260327072500 +0000" channel="Warner TV Serie HD.skyde">
     <title>Daktari</title>
 </programme>
-<programme start="20260327072500 +0000" stop="20260327081500 +0000" channel="Warner TV Serie HD.skyde">
+<programme start="20260327072500 +0000" stop="20260327082000 +0000" channel="Warner TV Serie HD.skyde">
     <title>Daktari</title>
 </programme>
-<programme start="20260327081500 +0000" stop="20260327090500 +0000" channel="Warner TV Serie HD.skyde">
+<programme start="20260327082000 +0000" stop="20260327091000 +0000" channel="Warner TV Serie HD.skyde">
     <title>Mord ist ihr Hobby</title>
 </programme>
-<programme start="20260327090500 +0000" stop="20260327095500 +0000" channel="Warner TV Serie HD.skyde">
+<programme start="20260327091000 +0000" stop="20260327100000 +0000" channel="Warner TV Serie HD.skyde">
     <title>Mord ist ihr Hobby</title>
 </programme>
-<programme start="20260327095500 +0000" stop="20260327104500 +0000" channel="Warner TV Serie HD.skyde">
+<programme start="20260327100000 +0000" stop="20260327105000 +0000" channel="Warner TV Serie HD.skyde">
     <title>Mord ist ihr Hobby</title>
 </programme>
-<programme start="20260327104500 +0000" stop="20260327113500 +0000" channel="Warner TV Serie HD.skyde">
+<programme start="20260327105000 +0000" stop="20260327114000 +0000" channel="Warner TV Serie HD.skyde">
     <title>Mord ist ihr Hobby</title>
 </programme>
-<programme start="20260327113500 +0000" stop="20260327122000 +0000" channel="Warner TV Serie HD.skyde">
+<programme start="20260327114000 +0000" stop="20260327122500 +0000" channel="Warner TV Serie HD.skyde">
     <title>Rizzoli and Isles</title>
 </programme>
-<programme start="20260327122000 +0000" stop="20260327130500 +0000" channel="Warner TV Serie HD.skyde">
+<programme start="20260327122500 +0000" stop="20260327131000 +0000" channel="Warner TV Serie HD.skyde">
     <title>Rizzoli and Isles</title>
 </programme>
-<programme start="20260327130500 +0000" stop="20260327135500 +0000" channel="Warner TV Serie HD.skyde">
+<programme start="20260327131000 +0000" stop="20260327135500 +0000" channel="Warner TV Serie HD.skyde">
     <title>NCIS</title>
 </programme>
 <programme start="20260327135500 +0000" stop="20260327144000 +0000" channel="Warner TV Serie HD.skyde">
@@ -4453,10 +4459,10 @@
 <programme start="20260327191500 +0000" stop="20260327200000 +0000" channel="Warner TV Serie HD.skyde">
     <title>Fringe</title>
 </programme>
-<programme start="20260327200000 +0000" stop="20260327204500 +0000" channel="Warner TV Serie HD.skyde">
+<programme start="20260327200000 +0000" stop="20260327205000 +0000" channel="Warner TV Serie HD.skyde">
     <title>Fringe</title>
 </programme>
-<programme start="20260327204500 +0000" stop="20260327213500 +0000" channel="Warner TV Serie HD.skyde">
+<programme start="20260327205000 +0000" stop="20260327213500 +0000" channel="Warner TV Serie HD.skyde">
     <title>Fringe</title>
 </programme>
 <programme start="20260327213500 +0000" stop="20260327222000 +0000" channel="Warner TV Serie HD.skyde">

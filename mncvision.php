@@ -1007,31 +1007,31 @@
     <title>BBC News</title>
 </programme>
 <programme start="20260327120000 +0000" stop="20260327123000 +0000" channel="BBC World News.mncvision">
-    <title>BBC News Now</title>
+    <title>BBC News</title>
 </programme>
 <programme start="20260327123000 +0000" stop="20260327130000 +0000" channel="BBC World News.mncvision">
-    <title>BBC News Now</title>
+    <title>BBC News</title>
 </programme>
 <programme start="20260327130000 +0000" stop="20260327133000 +0000" channel="BBC World News.mncvision">
-    <title>BBC News Now</title>
+    <title>BBC News</title>
 </programme>
 <programme start="20260327133000 +0000" stop="20260327134500 +0000" channel="BBC World News.mncvision">
     <title>Business Today: NYSE</title>
 </programme>
 <programme start="20260327134500 +0000" stop="20260327140000 +0000" channel="BBC World News.mncvision">
-    <title>BBC News Now</title>
+    <title>BBC News</title>
 </programme>
 <programme start="20260327140000 +0000" stop="20260327143000 +0000" channel="BBC World News.mncvision">
-    <title>BBC News Now</title>
+    <title>BBC News</title>
 </programme>
 <programme start="20260327143000 +0000" stop="20260327150000 +0000" channel="BBC World News.mncvision">
-    <title>BBC News Now</title>
+    <title>BBC News</title>
 </programme>
 <programme start="20260327150000 +0000" stop="20260327153000 +0000" channel="BBC World News.mncvision">
-    <title>Verified Live</title>
+    <title>BBC News</title>
 </programme>
 <programme start="20260327153000 +0000" stop="20260327160000 +0000" channel="BBC World News.mncvision">
-    <title>Verified Live</title>
+    <title>BBC News</title>
 </programme>
 <programme start="20260326174000 +0000" stop="20260326193000 +0000" channel="beIN Sports 1.mncvision">
     <title>CAF Champions: STM Vs MSU</title>
@@ -4066,6 +4066,108 @@
 <programme start="20260327162000 +0000" stop="20260327165000 +0000" channel="Global Trekker HD.mncvision">
     <title>Samuel L. Jackson: I Stutter?</title>
 </programme>
+<programme start="20260326170000 +0000" stop="20260326180000 +0000" channel="GTV.mncvision">
+    <title>Jelajah Mitos</title>
+</programme>
+<programme start="20260326180000 +0000" stop="20260326190000 +0000" channel="GTV.mncvision">
+    <title>Crime KV</title>
+</programme>
+<programme start="20260326190000 +0000" stop="20260326200000 +0000" channel="GTV.mncvision">
+    <title>Naik Enak Turun Ogah</title>
+</programme>
+<programme start="20260326200000 +0000" stop="20260326220000 +0000" channel="GTV.mncvision">
+    <title>Awas Ada Sule</title>
+</programme>
+<programme start="20260326220000 +0000" stop="20260326230000 +0000" channel="GTV.mncvision">
+    <title>Warbiasak</title>
+</programme>
+<programme start="20260326230000 +0000" stop="20260327010000 +0000" channel="GTV.mncvision">
+    <title>SpongeBob SquarePants</title>
+</programme>
+<programme start="20260327010000 +0000" stop="20260327020000 +0000" channel="GTV.mncvision">
+    <title>Obrolan Seputar Selebriti</title>
+</programme>
+<programme start="20260327020000 +0000" stop="20260327023000 +0000" channel="GTV.mncvision">
+    <title>Buletin iNews Pagi</title>
+</programme>
+<programme start="20260327023000 +0000" stop="20260327030000 +0000" channel="GTV.mncvision">
+    <title>CoComelon Dan Sahabat</title>
+</programme>
+<programme start="20260327030000 +0000" stop="20260327050000 +0000" channel="GTV.mncvision">
+    <title>SpongeBob SquarePants</title>
+</programme>
+<programme start="20260327050000 +0000" stop="20260327080000 +0000" channel="GTV.mncvision">
+    <title>SpongeBob SquarePants</title>
+</programme>
+<programme start="20260327080000 +0000" stop="20260327093000 +0000" channel="GTV.mncvision">
+    <title>SpongeBob SquarePants</title>
+</programme>
+<programme start="20260327093000 +0000" stop="20260327110000 +0000" channel="GTV.mncvision">
+    <title>SpongeBob SquarePants</title>
+</programme>
+<programme start="20260327110000 +0000" stop="20260327123000 +0000" channel="GTV.mncvision">
+    <title>New Family 100</title>
+</programme>
+<programme start="20260327123000 +0000" stop="20260327143000 +0000" channel="GTV.mncvision">
+    <title>Shark Attack</title>
+</programme>
+<programme start="20260327143000 +0000" stop="20260327153000 +0000" channel="GTV.mncvision">
+    <title>Blood Under The Robe</title>
+</programme>
+<programme start="20260327153000 +0000" stop="20260327160000 +0000" channel="GTV.mncvision">
+    <title>Larung Menuntut Balas</title>
+</programme>
+<programme start="20260326170000 +0000" stop="20260326180000 +0000" channel="GTV HD.mncvision">
+    <title>Jelajah Mitos</title>
+</programme>
+<programme start="20260326180000 +0000" stop="20260326190000 +0000" channel="GTV HD.mncvision">
+    <title>Crime KV</title>
+</programme>
+<programme start="20260326190000 +0000" stop="20260326200000 +0000" channel="GTV HD.mncvision">
+    <title>Naik Enak Turun Ogah</title>
+</programme>
+<programme start="20260326200000 +0000" stop="20260326220000 +0000" channel="GTV HD.mncvision">
+    <title>Awas Ada Sule</title>
+</programme>
+<programme start="20260326220000 +0000" stop="20260326230000 +0000" channel="GTV HD.mncvision">
+    <title>Warbiasak</title>
+</programme>
+<programme start="20260326230000 +0000" stop="20260327010000 +0000" channel="GTV HD.mncvision">
+    <title>SpongeBob SquarePants</title>
+</programme>
+<programme start="20260327010000 +0000" stop="20260327020000 +0000" channel="GTV HD.mncvision">
+    <title>Obrolan Seputar Selebriti</title>
+</programme>
+<programme start="20260327020000 +0000" stop="20260327023000 +0000" channel="GTV HD.mncvision">
+    <title>Buletin iNews Pagi</title>
+</programme>
+<programme start="20260327023000 +0000" stop="20260327030000 +0000" channel="GTV HD.mncvision">
+    <title>CoComelon Dan Sahabat</title>
+</programme>
+<programme start="20260327030000 +0000" stop="20260327050000 +0000" channel="GTV HD.mncvision">
+    <title>SpongeBob SquarePants</title>
+</programme>
+<programme start="20260327050000 +0000" stop="20260327080000 +0000" channel="GTV HD.mncvision">
+    <title>SpongeBob SquarePants</title>
+</programme>
+<programme start="20260327080000 +0000" stop="20260327093000 +0000" channel="GTV HD.mncvision">
+    <title>SpongeBob SquarePants</title>
+</programme>
+<programme start="20260327093000 +0000" stop="20260327110000 +0000" channel="GTV HD.mncvision">
+    <title>SpongeBob SquarePants</title>
+</programme>
+<programme start="20260327110000 +0000" stop="20260327123000 +0000" channel="GTV HD.mncvision">
+    <title>New Family 100</title>
+</programme>
+<programme start="20260327123000 +0000" stop="20260327143000 +0000" channel="GTV HD.mncvision">
+    <title>Shark Attack</title>
+</programme>
+<programme start="20260327143000 +0000" stop="20260327153000 +0000" channel="GTV HD.mncvision">
+    <title>Blood Under The Robe</title>
+</programme>
+<programme start="20260327153000 +0000" stop="20260327160000 +0000" channel="GTV HD.mncvision">
+    <title>Larung Menuntut Balas</title>
+</programme>
 <programme start="20260326210000 +0000" stop="20260326213000 +0000" channel="Hanacaraka TV.mncvision">
     <title>Ge Bams</title>
 </programme>
@@ -5006,7 +5108,7 @@
     <title>Kung Fu Panda</title>
 </programme>
 <programme start="20260327160000 +0000" stop="20260327163000 +0000" channel="Kids TV.mncvision">
-    <title>Si Entong Ramadan</title>
+    <title>Si Entong Abunawas Dari Betawi</title>
 </programme>
 <programme start="20260326170000 +0000" stop="20260326190000 +0000" channel="Kids TV HD.mncvision">
     <title>SpongeBob SquarePants</title>
@@ -5102,7 +5204,7 @@
     <title>Kung Fu Panda</title>
 </programme>
 <programme start="20260327160000 +0000" stop="20260327163000 +0000" channel="Kids TV HD.mncvision">
-    <title>Si Entong Ramadan</title>
+    <title>Si Entong Abunawas Dari Betawi</title>
 </programme>
 <programme start="20260326170000 +0000" stop="20260326182000 +0000" channel="KIX.mncvision">
     <title>The Mask Of Shura Of Fire Cloud</title>

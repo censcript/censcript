@@ -2768,31 +2768,31 @@
         <title>Punitha</title>
     </programme>
     <programme start="20260327043000 +0000" stop="20260327050000 +0000" channel="Sun TV.starhub">
-        <title>Manamagale Vaa</title>
+        <title>MANAMAGALE VAA</title>
     </programme>
     <programme start="20260327050000 +0000" stop="20260327053000 +0000" channel="Sun TV.starhub">
-        <title>Vinodhini</title>
+        <title>VINODHINI</title>
     </programme>
     <programme start="20260327053000 +0000" stop="20260327060000 +0000" channel="Sun TV.starhub">
-        <title>Puthu Vasantham</title>
+        <title>PUTHU VASANTHAM</title>
     </programme>
     <programme start="20260327060000 +0000" stop="20260327063000 +0000" channel="Sun TV.starhub">
-        <title>Lakshmi</title>
+        <title>LAKSHMI</title>
     </programme>
     <programme start="20260327063000 +0000" stop="20260327070000 +0000" channel="Sun TV.starhub">
-        <title>Iru Malargal</title>
+        <title>IRU MALARGAL</title>
     </programme>
     <programme start="20260327070000 +0000" stop="20260327073000 +0000" channel="Sun TV.starhub">
-        <title>Aadukalam</title>
+        <title>AADUKALAM</title>
     </programme>
     <programme start="20260327073000 +0000" stop="20260327080000 +0000" channel="Sun TV.starhub">
-        <title>Movie - Kaalam Maripochu</title>
+        <title>Movie- KAALAM MARIPOCHU</title>
     </programme>
     <programme start="20260327080000 +0000" stop="20260327083000 +0000" channel="Sun TV.starhub">
         <title>News</title>
     </programme>
     <programme start="20260327083000 +0000" stop="20260327103000 +0000" channel="Sun TV.starhub">
-        <title>Movie Contd - Kaalam Maripochu</title>
+        <title>Movie contd - KAALAM MARIPOCHU</title>
     </programme>
     <programme start="20260327103000 +0000" stop="20260327110000 +0000" channel="Sun TV.starhub">
         <title>Chellame Chellame</title>
@@ -2816,13 +2816,13 @@
         <title>Singapenne</title>
     </programme>
     <programme start="20260327143000 +0000" stop="20260327150000 +0000" channel="Sun TV.starhub">
-        <title>Ethirneechal Thodargiradhu</title>
+        <title>ETHIRNEECHAL THODARGIRADHU</title>
     </programme>
     <programme start="20260327150000 +0000" stop="20260327153000 +0000" channel="Sun TV.starhub">
         <title>Malli</title>
     </programme>
     <programme start="20260327153000 +0000" stop="20260327160000 +0000" channel="Sun TV.starhub">
-        <title>Anandaragam - Serial</title>
+        <title>ANANDARAGAM - Serial</title>
     </programme>
     <programme start="20260326160000 +0000" stop="20260326163000 +0000" channel="Zee Tamil.starhub">
         <title>Veera</title>
@@ -7133,13 +7133,13 @@
         <title>NHK Newsline</title>
     </programme>
     <programme start="20260327013000 +0000" stop="20260327020000 +0000" channel="NHK WORLD - JAPAN HD.starhub">
-        <title>NHK World-Japan Special Programme</title>
+        <title>A Place to Call Home</title>
     </programme>
     <programme start="20260327020000 +0000" stop="20260327023000 +0000" channel="NHK WORLD - JAPAN HD.starhub">
         <title>NHK Newsline</title>
     </programme>
     <programme start="20260327023000 +0000" stop="20260327030000 +0000" channel="NHK WORLD - JAPAN HD.starhub">
-        <title>Special Programme</title>
+        <title>Catch Japan</title>
     </programme>
     <programme start="20260327030000 +0000" stop="20260327033000 +0000" channel="NHK WORLD - JAPAN HD.starhub">
         <title>NHK Newsline</title>
@@ -7163,13 +7163,13 @@
         <title>Newsline Asia 24</title>
     </programme>
     <programme start="20260327063000 +0000" stop="20260327070000 +0000" channel="NHK WORLD - JAPAN HD.starhub">
-        <title>NHK World-Japan Special Programme</title>
+        <title>A Place to Call Home</title>
     </programme>
     <programme start="20260327070000 +0000" stop="20260327073000 +0000" channel="NHK WORLD - JAPAN HD.starhub">
         <title>Newsline Asia 24</title>
     </programme>
     <programme start="20260327073000 +0000" stop="20260327080000 +0000" channel="NHK WORLD - JAPAN HD.starhub">
-        <title>Special Programme</title>
+        <title>Catch Japan</title>
     </programme>
     <programme start="20260327080000 +0000" stop="20260327083000 +0000" channel="NHK WORLD - JAPAN HD.starhub">
         <title>NHK Newsline</title>
@@ -7205,13 +7205,13 @@
         <title>Newsroom Tokyo</title>
     </programme>
     <programme start="20260327123000 +0000" stop="20260327130000 +0000" channel="NHK WORLD - JAPAN HD.starhub">
-        <title>NHK World-Japan Special Programme</title>
+        <title>A Place to Call Home</title>
     </programme>
     <programme start="20260327130000 +0000" stop="20260327133000 +0000" channel="NHK WORLD - JAPAN HD.starhub">
         <title>NHK Newsline</title>
     </programme>
     <programme start="20260327133000 +0000" stop="20260327140000 +0000" channel="NHK WORLD - JAPAN HD.starhub">
-        <title>Special Programme</title>
+        <title>Catch Japan</title>
     </programme>
     <programme start="20260327140000 +0000" stop="20260327143000 +0000" channel="NHK WORLD - JAPAN HD.starhub">
         <title>NHK Newsline</title>
