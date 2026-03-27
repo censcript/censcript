@@ -2890,6 +2890,120 @@
   <programme start="20260329220000 +0000" stop="20260329230000 +0000" channel="Skvelé TV.webtv.sk">
     <title lang="id">V Pohybe</title>
   </programme>
+  <programme start="20260328224500 +0000" stop="20260328230500 +0000" channel="TV LUX.webtv.sk">
+    <title lang="id">Litánie Loretánske</title>
+  </programme>
+  <programme start="20260328230500 +0000" stop="20260328233000 +0000" channel="TV LUX.webtv.sk">
+    <title lang="id">Spravodajský súhrn</title>
+  </programme>
+  <programme start="20260328233000 +0000" stop="20260329000000 +0000" channel="TV LUX.webtv.sk">
+    <title lang="id">Ruženec</title>
+  </programme>
+  <programme start="20260329000000 +0000" stop="20260329010000 +0000" channel="TV LUX.webtv.sk">
+    <title lang="id">Pod javiskom</title>
+  </programme>
+  <programme start="20260329010000 +0000" stop="20260329012500 +0000" channel="TV LUX.webtv.sk">
+    <title lang="id">Hodina milosrdenstva</title>
+  </programme>
+  <programme start="20260329012500 +0000" stop="20260329023000 +0000" channel="TV LUX.webtv.sk">
+    <title lang="id">Fundamenty</title>
+  </programme>
+  <programme start="20260329023000 +0000" stop="20260329030000 +0000" channel="TV LUX.webtv.sk">
+    <title lang="id">Ruženec</title>
+  </programme>
+  <programme start="20260329030000 +0000" stop="20260329050000 +0000" channel="TV LUX.webtv.sk">
+    <title lang="id">Evanjelium podľa Marka</title>
+  </programme>
+  <programme start="20260329050000 +0000" stop="20260329053000 +0000" channel="TV LUX.webtv.sk">
+    <title lang="id">Ruženec</title>
+  </programme>
+  <programme start="20260329053000 +0000" stop="20260329055000 +0000" channel="TV LUX.webtv.sk">
+    <title lang="id">Effeta</title>
+  </programme>
+  <programme start="20260329055000 +0000" stop="20260329060000 +0000" channel="TV LUX.webtv.sk">
+    <title lang="id">Živé obrazy</title>
+  </programme>
+  <programme start="20260329060000 +0000" stop="20260329063000 +0000" channel="TV LUX.webtv.sk">
+    <title lang="id">Vaticano</title>
+  </programme>
+  <programme start="20260329063000 +0000" stop="20260329064000 +0000" channel="TV LUX.webtv.sk">
+    <title lang="id">Peter medzi nami</title>
+  </programme>
+  <programme start="20260329064000 +0000" stop="20260329070000 +0000" channel="TV LUX.webtv.sk">
+    <title lang="id">Nová kvalita života</title>
+  </programme>
+  <programme start="20260329070000 +0000" stop="20260329073000 +0000" channel="TV LUX.webtv.sk">
+    <title lang="id">LUXáreň</title>
+  </programme>
+  <programme start="20260329073000 +0000" stop="20260329074000 +0000" channel="TV LUX.webtv.sk">
+    <title lang="id">Týždeň s...</title>
+  </programme>
+  <programme start="20260329074000 +0000" stop="20260329080000 +0000" channel="TV LUX.webtv.sk">
+    <title lang="id">Jeden na jedného</title>
+  </programme>
+  <programme start="20260329080000 +0000" stop="20260329093000 +0000" channel="TV LUX.webtv.sk">
+    <title lang="id">Svätá omša z Vatikánu</title>
+  </programme>
+  <programme start="20260329093000 +0000" stop="20260329100000 +0000" channel="TV LUX.webtv.sk">
+    <title lang="id">Spravodajský súhrn</title>
+  </programme>
+  <programme start="20260329100000 +0000" stop="20260329101500 +0000" channel="TV LUX.webtv.sk">
+    <title lang="id">Anjel Pána</title>
+  </programme>
+  <programme start="20260329101500 +0000" stop="20260329103000 +0000" channel="TV LUX.webtv.sk">
+    <title lang="id">Týždeň s...</title>
+  </programme>
+  <programme start="20260329103000 +0000" stop="20260329110500 +0000" channel="TV LUX.webtv.sk">
+    <title lang="id">Ruženec</title>
+  </programme>
+  <programme start="20260329110500 +0000" stop="20260329114500 +0000" channel="TV LUX.webtv.sk">
+    <title lang="id">Na tónoch vďačnosti</title>
+  </programme>
+  <programme start="20260329114500 +0000" stop="20260329130000 +0000" channel="TV LUX.webtv.sk">
+    <title lang="id">Živé spomienky</title>
+  </programme>
+  <programme start="20260329130000 +0000" stop="20260329132000 +0000" channel="TV LUX.webtv.sk">
+    <title lang="id">Hodina milosrdenstva</title>
+  </programme>
+  <programme start="20260329132000 +0000" stop="20260329135500 +0000" channel="TV LUX.webtv.sk">
+    <title lang="id">Pôstne kázne Roberta Pasoliniho, OFMCap (4)</title>
+  </programme>
+  <programme start="20260329135500 +0000" stop="20260329143000 +0000" channel="TV LUX.webtv.sk">
+    <title lang="id">Otec</title>
+  </programme>
+  <programme start="20260329143000 +0000" stop="20260329162000 +0000" channel="TV LUX.webtv.sk">
+    <title lang="id">Petra od svätého Jozefa</title>
+  </programme>
+  <programme start="20260329162000 +0000" stop="20260329163000 +0000" channel="TV LUX.webtv.sk">
+    <title lang="id">Pašie na Palmovú nedeľu podľa Matúša</title>
+  </programme>
+  <programme start="20260329163000 +0000" stop="20260329164500 +0000" channel="TV LUX.webtv.sk">
+    <title lang="id">GU100</title>
+  </programme>
+  <programme start="20260329164500 +0000" stop="20260329173000 +0000" channel="TV LUX.webtv.sk">
+    <title lang="id">Krížová cesta ľudí modernej doby</title>
+  </programme>
+  <programme start="20260329173000 +0000" stop="20260329183000 +0000" channel="TV LUX.webtv.sk">
+    <title lang="id">Svätá omša z kaplnky TV LUX</title>
+  </programme>
+  <programme start="20260329183000 +0000" stop="20260329192500 +0000" channel="TV LUX.webtv.sk">
+    <title lang="id">The Chosen (2S5E)</title>
+  </programme>
+  <programme start="20260329192500 +0000" stop="20260329202000 +0000" channel="TV LUX.webtv.sk">
+    <title lang="id">Turínske plátno - história tajomstva</title>
+  </programme>
+  <programme start="20260329202000 +0000" stop="20260329211000 +0000" channel="TV LUX.webtv.sk">
+    <title lang="id">Jánove pašie</title>
+  </programme>
+  <programme start="20260329211000 +0000" stop="20260329220500 +0000" channel="TV LUX.webtv.sk">
+    <title lang="id">Medzi nebom a zemou</title>
+  </programme>
+  <programme start="20260329220500 +0000" stop="20260329223000 +0000" channel="TV LUX.webtv.sk">
+    <title lang="id">Spravodajský súhrn</title>
+  </programme>
+  <programme start="20260329223000 +0000" stop="20260329230000 +0000" channel="TV LUX.webtv.sk">
+    <title lang="id">Ruženec</title>
+  </programme>
   <programme start="20260328222000 +0000" stop="20260328234500 +0000" channel="NOE.webtv.sk">
     <title lang="id">Hans Blix, ne bombám</title>
   </programme>
@@ -3375,171 +3489,6 @@
   </programme>
   <programme start="20260329221000 +0000" stop="20260329230000 +0000" channel="ČT24.webtv.sk">
     <title lang="id">Studio ČT24</title>
-  </programme>
-  <programme start="20260328224000 +0000" stop="20260329001200 +0000" channel="ČT :D - ČT art.webtv.sk">
-    <title lang="id">Madonna, cesta za slávou</title>
-  </programme>
-  <programme start="20260329001200 +0000" stop="20260329015600 +0000" channel="ČT :D - ČT art.webtv.sk">
-    <title lang="id">Evropský koncert 2025</title>
-  </programme>
-  <programme start="20260329015600 +0000" stop="20260329022500 +0000" channel="ČT :D - ČT art.webtv.sk">
-    <title lang="id">Uchem jehly</title>
-  </programme>
-  <programme start="20260329022500 +0000" stop="20260329025500 +0000" channel="ČT :D - ČT art.webtv.sk">
-    <title lang="id">Divadlo žije!</title>
-  </programme>
-  <programme start="20260329025500 +0000" stop="20260329031000 +0000" channel="ČT :D - ČT art.webtv.sk">
-    <title lang="id">Ing. Karel Holomek, ochránce slabých</title>
-  </programme>
-  <programme start="20260329031000 +0000" stop="20260329040000 +0000" channel="ČT :D - ČT art.webtv.sk">
-    <title lang="id">Události v kultuře</title>
-  </programme>
-  <programme start="20260329040000 +0000" stop="20260329041000 +0000" channel="ČT :D - ČT art.webtv.sk">
-    <title lang="id">Raníček</title>
-  </programme>
-  <programme start="20260329041000 +0000" stop="20260329041500 +0000" channel="ČT :D - ČT art.webtv.sk">
-    <title lang="id">Prasátko Peppa VIII</title>
-  </programme>
-  <programme start="20260329041500 +0000" stop="20260329042000 +0000" channel="ČT :D - ČT art.webtv.sk">
-    <title lang="id">Prasátko Peppa VIII</title>
-  </programme>
-  <programme start="20260329042000 +0000" stop="20260329042500 +0000" channel="ČT :D - ČT art.webtv.sk">
-    <title lang="id">Prasátko Peppa VIII</title>
-  </programme>
-  <programme start="20260329042500 +0000" stop="20260329044700 +0000" channel="ČT :D - ČT art.webtv.sk">
-    <title lang="id">Gumídci (57/65)</title>
-  </programme>
-  <programme start="20260329044700 +0000" stop="20260329050000 +0000" channel="ČT :D - ČT art.webtv.sk">
-    <title lang="id">Billy, křeččí kovboj</title>
-  </programme>
-  <programme start="20260329050000 +0000" stop="20260329050700 +0000" channel="ČT :D - ČT art.webtv.sk">
-    <title lang="id">Ovečka Shaun III</title>
-  </programme>
-  <programme start="20260329050700 +0000" stop="20260329053100 +0000" channel="ČT :D - ČT art.webtv.sk">
-    <title lang="id">Tlapková patrola III</title>
-  </programme>
-  <programme start="20260329053100 +0000" stop="20260329070100 +0000" channel="ČT :D - ČT art.webtv.sk">
-    <title lang="id">Studio Kamarád</title>
-  </programme>
-  <programme start="20260329070100 +0000" stop="20260329072500 +0000" channel="ČT :D - ČT art.webtv.sk">
-    <title lang="id">Draci v hrnci</title>
-  </programme>
-  <programme start="20260329072500 +0000" stop="20260329085500 +0000" channel="ČT :D - ČT art.webtv.sk">
-    <title lang="id">Madagaskar 3</title>
-  </programme>
-  <programme start="20260329085500 +0000" stop="20260329090500 +0000" channel="ČT :D - ČT art.webtv.sk">
-    <title lang="id">O skřítku Racochejlovi</title>
-  </programme>
-  <programme start="20260329090500 +0000" stop="20260329093200 +0000" channel="ČT :D - ČT art.webtv.sk">
-    <title lang="id">Byl jednou jeden život (12/26)</title>
-  </programme>
-  <programme start="20260329093200 +0000" stop="20260329101400 +0000" channel="ČT :D - ČT art.webtv.sk">
-    <title lang="id">MasterChef Junior IX</title>
-  </programme>
-  <programme start="20260329101400 +0000" stop="20260329102500 +0000" channel="ČT :D - ČT art.webtv.sk">
-    <title lang="id">Ochránci příšer</title>
-  </programme>
-  <programme start="20260329102500 +0000" stop="20260329105500 +0000" channel="ČT :D - ČT art.webtv.sk">
-    <title lang="id">Operace Jauu! X</title>
-  </programme>
-  <programme start="20260329105500 +0000" stop="20260329110600 +0000" channel="ČT :D - ČT art.webtv.sk">
-    <title lang="id">Esa z pralesa II</title>
-  </programme>
-  <programme start="20260329110600 +0000" stop="20260329113000 +0000" channel="ČT :D - ČT art.webtv.sk">
-    <title lang="id">AZ kvíz junior</title>
-  </programme>
-  <programme start="20260329113000 +0000" stop="20260329113800 +0000" channel="ČT :D - ČT art.webtv.sk">
-    <title lang="id">Byl jednou jeden předmět</title>
-  </programme>
-  <programme start="20260329113800 +0000" stop="20260329114500 +0000" channel="ČT :D - ČT art.webtv.sk">
-    <title lang="id">Byl jednou jeden předmět</title>
-  </programme>
-  <programme start="20260329114500 +0000" stop="20260329121500 +0000" channel="ČT :D - ČT art.webtv.sk">
-    <title lang="id">Už tam budem?</title>
-  </programme>
-  <programme start="20260329121500 +0000" stop="20260329123800 +0000" channel="ČT :D - ČT art.webtv.sk">
-    <title lang="id">Tlapková patrola III</title>
-  </programme>
-  <programme start="20260329123800 +0000" stop="20260329130000 +0000" channel="ČT :D - ČT art.webtv.sk">
-    <title lang="id">Tlapková patrola III</title>
-  </programme>
-  <programme start="20260329130000 +0000" stop="20260329131200 +0000" channel="ČT :D - ČT art.webtv.sk">
-    <title lang="id">Idefix a smečka Nepoddajných I (1)</title>
-  </programme>
-  <programme start="20260329131200 +0000" stop="20260329132500 +0000" channel="ČT :D - ČT art.webtv.sk">
-    <title lang="id">Idefix a smečka Nepoddajných I (1)</title>
-  </programme>
-  <programme start="20260329132500 +0000" stop="20260329134700 +0000" channel="ČT :D - ČT art.webtv.sk">
-    <title lang="id">Dobrodružství Kocoura v botách</title>
-  </programme>
-  <programme start="20260329134700 +0000" stop="20260329141000 +0000" channel="ČT :D - ČT art.webtv.sk">
-    <title lang="id">Dobrodružství Kocoura v botách</title>
-  </programme>
-  <programme start="20260329141000 +0000" stop="20260329143500 +0000" channel="ČT :D - ČT art.webtv.sk">
-    <title lang="id">SpongeBob v kalhotách VIII</title>
-  </programme>
-  <programme start="20260329143500 +0000" stop="20260329150700 +0000" channel="ČT :D - ČT art.webtv.sk">
-    <title lang="id">Pan Tau (11/33)</title>
-  </programme>
-  <programme start="20260329150700 +0000" stop="20260329151500 +0000" channel="ČT :D - ČT art.webtv.sk">
-    <title lang="id">Ovečka Shaun III</title>
-  </programme>
-  <programme start="20260329151500 +0000" stop="20260329152600 +0000" channel="ČT :D - ČT art.webtv.sk">
-    <title lang="id">Moucha Loyd</title>
-  </programme>
-  <programme start="20260329152600 +0000" stop="20260329155100 +0000" channel="ČT :D - ČT art.webtv.sk">
-    <title lang="id">Tobiáš Lolness</title>
-  </programme>
-  <programme start="20260329155100 +0000" stop="20260329160300 +0000" channel="ČT :D - ČT art.webtv.sk">
-    <title lang="id">Šmoulové 3D II</title>
-  </programme>
-  <programme start="20260329160300 +0000" stop="20260329161500 +0000" channel="ČT :D - ČT art.webtv.sk">
-    <title lang="id">Šmoulové 3D II</title>
-  </programme>
-  <programme start="20260329161500 +0000" stop="20260329164000 +0000" channel="ČT :D - ČT art.webtv.sk">
-    <title lang="id">SpongeBob v kalhotách VIII</title>
-  </programme>
-  <programme start="20260329164000 +0000" stop="20260329164500 +0000" channel="ČT :D - ČT art.webtv.sk">
-    <title lang="id">Zprávičky</title>
-  </programme>
-  <programme start="20260329164500 +0000" stop="20260329165500 +0000" channel="ČT :D - ČT art.webtv.sk">
-    <title lang="id">Večerníček</title>
-  </programme>
-  <programme start="20260329165500 +0000" stop="20260329172000 +0000" channel="ČT :D - ČT art.webtv.sk">
-    <title lang="id">Gumídci (59/65)</title>
-  </programme>
-  <programme start="20260329172000 +0000" stop="20260329174200 +0000" channel="ČT :D - ČT art.webtv.sk">
-    <title lang="id">Phineas a Ferb III (22/35)</title>
-  </programme>
-  <programme start="20260329174200 +0000" stop="20260329174800 +0000" channel="ČT :D - ČT art.webtv.sk">
-    <title lang="id">Kiri a Lou III</title>
-  </programme>
-  <programme start="20260329174800 +0000" stop="20260329180000 +0000" channel="ČT :D - ČT art.webtv.sk">
-    <title lang="id">O skřítku Racochejlovi</title>
-  </programme>
-  <programme start="20260329180000 +0000" stop="20260329181300 +0000" channel="ČT :D - ČT art.webtv.sk">
-    <title lang="id">Události v kultuře</title>
-  </programme>
-  <programme start="20260329181300 +0000" stop="20260329181500 +0000" channel="ČT :D - ČT art.webtv.sk">
-    <title lang="id">Jedna báseň</title>
-  </programme>
-  <programme start="20260329181500 +0000" stop="20260329195000 +0000" channel="ČT :D - ČT art.webtv.sk">
-    <title lang="id">Tatínek</title>
-  </programme>
-  <programme start="20260329195000 +0000" stop="20260329204200 +0000" channel="ČT :D - ČT art.webtv.sk">
-    <title lang="id">Svěrák a Uhlíř - padesát let spolu</title>
-  </programme>
-  <programme start="20260329204200 +0000" stop="20260329213500 +0000" channel="ČT :D - ČT art.webtv.sk">
-    <title lang="id">Televizní písničky a songy Zdeňka Svěráka</title>
-  </programme>
-  <programme start="20260329213500 +0000" stop="20260329220000 +0000" channel="ČT :D - ČT art.webtv.sk">
-    <title lang="id">Kominského metoda II (4/8)</title>
-  </programme>
-  <programme start="20260329220000 +0000" stop="20260329225500 +0000" channel="ČT :D - ČT art.webtv.sk">
-    <title lang="id">Fanny Ardantová: filmy mého života</title>
-  </programme>
-  <programme start="20260329225500 +0000" stop="20260329231800 +0000" channel="ČT :D - ČT art.webtv.sk">
-    <title lang="id">Kanadská soda V (11/14)</title>
   </programme>
   <programme start="20260328230000 +0000" stop="20260329000000 +0000" channel="Nova International.webtv.sk">
     <title lang="id">Country estráda</title>
@@ -4608,123 +4557,6 @@
   </programme>
   <programme start="20260329223000 +0000" stop="20260329230000 +0000" channel="Fashion TV Czech & Slovak.webtv.sk">
     <title lang="id">Lingerie</title>
-  </programme>
-  <programme start="20260328230000 +0000" stop="20260329000000 +0000" channel="Arena Sport 1.webtv.sk">
-    <title lang="id">Naša Garáž</title>
-  </programme>
-  <programme start="20260329000000 +0000" stop="20260329043000 +0000" channel="Arena Sport 1.webtv.sk">
-    <title lang="id">Nočné vysielanie</title>
-  </programme>
-  <programme start="20260329043000 +0000" stop="20260329050000 +0000" channel="Arena Sport 1.webtv.sk">
-    <title lang="id">Motoring</title>
-  </programme>
-  <programme start="20260329050000 +0000" stop="20260329051000 +0000" channel="Arena Sport 1.webtv.sk">
-    <title lang="id">Športové sekundy</title>
-  </programme>
-  <programme start="20260329051000 +0000" stop="20260329052000 +0000" channel="Arena Sport 1.webtv.sk">
-    <title lang="id">Švihák testuje</title>
-  </programme>
-  <programme start="20260329052000 +0000" stop="20260329053500 +0000" channel="Arena Sport 1.webtv.sk">
-    <title lang="id">Martin z Martina</title>
-  </programme>
-  <programme start="20260329053500 +0000" stop="20260329060000 +0000" channel="Arena Sport 1.webtv.sk">
-    <title lang="id">Motoring</title>
-  </programme>
-  <programme start="20260329060000 +0000" stop="20260329070000 +0000" channel="Arena Sport 1.webtv.sk">
-    <title lang="id">GarazTV</title>
-  </programme>
-  <programme start="20260329070000 +0000" stop="20260329073000 +0000" channel="Arena Sport 1.webtv.sk">
-    <title lang="id">Martin z Martina</title>
-  </programme>
-  <programme start="20260329073000 +0000" stop="20260329080000 +0000" channel="Arena Sport 1.webtv.sk">
-    <title lang="id">Autožurnál</title>
-  </programme>
-  <programme start="20260329080000 +0000" stop="20260329083000 +0000" channel="Arena Sport 1.webtv.sk">
-    <title lang="id">GarazTV</title>
-  </programme>
-  <programme start="20260329083000 +0000" stop="20260329090000 +0000" channel="Arena Sport 1.webtv.sk">
-    <title lang="id">Motoring</title>
-  </programme>
-  <programme start="20260329090000 +0000" stop="20260329093000 +0000" channel="Arena Sport 1.webtv.sk">
-    <title lang="id">DRIVE IT - Ondrej Macko</title>
-  </programme>
-  <programme start="20260329093000 +0000" stop="20260329100000 +0000" channel="Arena Sport 1.webtv.sk">
-    <title lang="id">Motoring</title>
-  </programme>
-  <programme start="20260329100000 +0000" stop="20260329103000 +0000" channel="Arena Sport 1.webtv.sk">
-    <title lang="id">DominicCars</title>
-  </programme>
-  <programme start="20260329103000 +0000" stop="20260329104500 +0000" channel="Arena Sport 1.webtv.sk">
-    <title lang="id">Piok Cars</title>
-  </programme>
-  <programme start="20260329104500 +0000" stop="20260329110000 +0000" channel="Arena Sport 1.webtv.sk">
-    <title lang="id">Martin z Martina</title>
-  </programme>
-  <programme start="20260329110000 +0000" stop="20260329111500 +0000" channel="Arena Sport 1.webtv.sk">
-    <title lang="id">Švihák testuje</title>
-  </programme>
-  <programme start="20260329111500 +0000" stop="20260329113000 +0000" channel="Arena Sport 1.webtv.sk">
-    <title lang="id">GarazTV</title>
-  </programme>
-  <programme start="20260329113000 +0000" stop="20260329120000 +0000" channel="Arena Sport 1.webtv.sk">
-    <title lang="id">GarazTV</title>
-  </programme>
-  <programme start="20260329120000 +0000" stop="20260329123000 +0000" channel="Arena Sport 1.webtv.sk">
-    <title lang="id">DominicCars</title>
-  </programme>
-  <programme start="20260329123000 +0000" stop="20260329130000 +0000" channel="Arena Sport 1.webtv.sk">
-    <title lang="id">Piok Cars</title>
-  </programme>
-  <programme start="20260329130000 +0000" stop="20260329131500 +0000" channel="Arena Sport 1.webtv.sk">
-    <title lang="id">Martin z Martina</title>
-  </programme>
-  <programme start="20260329131500 +0000" stop="20260329141500 +0000" channel="Arena Sport 1.webtv.sk">
-    <title lang="id">Motoring</title>
-  </programme>
-  <programme start="20260329141500 +0000" stop="20260329143000 +0000" channel="Arena Sport 1.webtv.sk">
-    <title lang="id">Švihák testuje</title>
-  </programme>
-  <programme start="20260329143000 +0000" stop="20260329151500 +0000" channel="Arena Sport 1.webtv.sk">
-    <title lang="id">Autožurnál</title>
-  </programme>
-  <programme start="20260329151500 +0000" stop="20260329160000 +0000" channel="Arena Sport 1.webtv.sk">
-    <title lang="id">Autožurnál</title>
-  </programme>
-  <programme start="20260329160000 +0000" stop="20260329163000 +0000" channel="Arena Sport 1.webtv.sk">
-    <title lang="id">GarazTV</title>
-  </programme>
-  <programme start="20260329163000 +0000" stop="20260329170000 +0000" channel="Arena Sport 1.webtv.sk">
-    <title lang="id">GarazTV</title>
-  </programme>
-  <programme start="20260329170000 +0000" stop="20260329173000 +0000" channel="Arena Sport 1.webtv.sk">
-    <title lang="id">DominicCars</title>
-  </programme>
-  <programme start="20260329173000 +0000" stop="20260329180000 +0000" channel="Arena Sport 1.webtv.sk">
-    <title lang="id">MM Automotive</title>
-  </programme>
-  <programme start="20260329180000 +0000" stop="20260329183000 +0000" channel="Arena Sport 1.webtv.sk">
-    <title lang="id">Motoring</title>
-  </programme>
-  <programme start="20260329183000 +0000" stop="20260329193000 +0000" channel="Arena Sport 1.webtv.sk">
-    <title lang="id">GarazTV</title>
-  </programme>
-  <programme start="20260329193000 +0000" stop="20260329200000 +0000" channel="Arena Sport 1.webtv.sk">
-    <title lang="id">GarazTV</title>
-  </programme>
-  <programme start="20260329200000 +0000" stop="20260329203000 +0000" channel="Arena Sport 1.webtv.sk">
-    <title lang="id">Motoring</title>
-  </programme>
-  <programme start="20260329203000 +0000" stop="20260329210000 +0000" channel="Arena Sport 1.webtv.sk">
-    <title lang="id">Autožurnál</title>
-  </programme>
-  <programme start="20260329210000 +0000" stop="20260329213000 +0000" channel="Arena Sport 1.webtv.sk">
-    <title lang="id">Motoring</title>
-  </programme>
-  <programme start="20260329213000 +0000" stop="20260329220000 +0000" channel="Arena Sport 1.webtv.sk">
-    <title lang="id">Autožurnál</title>
-  </programme>
-  <programme start="20260329220000 +0000" stop="20260329230000 +0000" channel="Arena Sport 1.webtv.sk">
-    <title lang="id">Naša Garáž</title>
   </programme>
   <programme start="20260328230000 +0000" stop="20260329060000 +0000" channel="Arena Sport 2.webtv.sk">
     <title lang="id">Nočné vysielanie</title>
@@ -7063,6 +6895,363 @@
   <programme start="20260329222500 +0000" stop="20260329230000 +0000" channel="English Club TV.webtv.sk">
     <title lang="id">Figures Of Speech (4)</title>
   </programme>
+  <programme start="20260328225600 +0000" stop="20260328234100 +0000" channel="LangLab.webtv.sk">
+    <title lang="id">City Grammar</title>
+  </programme>
+  <programme start="20260328234100 +0000" stop="20260328235100 +0000" channel="LangLab.webtv.sk">
+    <title lang="id">English Up</title>
+  </programme>
+  <programme start="20260328235100 +0000" stop="20260329002100 +0000" channel="LangLab.webtv.sk">
+    <title lang="id">English United</title>
+  </programme>
+  <programme start="20260329002100 +0000" stop="20260329003100 +0000" channel="LangLab.webtv.sk">
+    <title lang="id">English 911 2nd season</title>
+  </programme>
+  <programme start="20260329003100 +0000" stop="20260329003500 +0000" channel="LangLab.webtv.sk">
+    <title lang="id">Irregular Verbs</title>
+  </programme>
+  <programme start="20260329003500 +0000" stop="20260329004700 +0000" channel="LangLab.webtv.sk">
+    <title lang="id">Coffee Chat</title>
+  </programme>
+  <programme start="20260329004700 +0000" stop="20260329005300 +0000" channel="LangLab.webtv.sk">
+    <title lang="id">Wrong&amp;Right</title>
+  </programme>
+  <programme start="20260329005300 +0000" stop="20260329012900 +0000" channel="LangLab.webtv.sk">
+    <title lang="id">Life Around</title>
+  </programme>
+  <programme start="20260329012900 +0000" stop="20260329013300 +0000" channel="LangLab.webtv.sk">
+    <title lang="id">Irregular Verbs</title>
+  </programme>
+  <programme start="20260329013300 +0000" stop="20260329015600 +0000" channel="LangLab.webtv.sk">
+    <title lang="id">Coffee Chat</title>
+  </programme>
+  <programme start="20260329015600 +0000" stop="20260329022800 +0000" channel="LangLab.webtv.sk">
+    <title lang="id">Wrong&amp;Right</title>
+  </programme>
+  <programme start="20260329022800 +0000" stop="20260329023500 +0000" channel="LangLab.webtv.sk">
+    <title lang="id">Irregular Verbs</title>
+  </programme>
+  <programme start="20260329023500 +0000" stop="20260329024100 +0000" channel="LangLab.webtv.sk">
+    <title lang="id">Coffee Chat</title>
+  </programme>
+  <programme start="20260329024100 +0000" stop="20260329024500 +0000" channel="LangLab.webtv.sk">
+    <title lang="id">Wrong&amp;Right</title>
+  </programme>
+  <programme start="20260329024500 +0000" stop="20260329030300 +0000" channel="LangLab.webtv.sk">
+    <title lang="id">Life Around</title>
+  </programme>
+  <programme start="20260329030300 +0000" stop="20260329032400 +0000" channel="LangLab.webtv.sk">
+    <title lang="id">Grammar Wise New</title>
+  </programme>
+  <programme start="20260329032400 +0000" stop="20260329033300 +0000" channel="LangLab.webtv.sk">
+    <title lang="id">English in Focus</title>
+  </programme>
+  <programme start="20260329033300 +0000" stop="20260329034000 +0000" channel="LangLab.webtv.sk">
+    <title lang="id">Irregular Verbs</title>
+  </programme>
+  <programme start="20260329034000 +0000" stop="20260329034600 +0000" channel="LangLab.webtv.sk">
+    <title lang="id">Coffee Chat</title>
+  </programme>
+  <programme start="20260329034600 +0000" stop="20260329035000 +0000" channel="LangLab.webtv.sk">
+    <title lang="id">Wrong&amp;Right</title>
+  </programme>
+  <programme start="20260329035000 +0000" stop="20260329040800 +0000" channel="LangLab.webtv.sk">
+    <title lang="id">Life Around</title>
+  </programme>
+  <programme start="20260329040800 +0000" stop="20260329041700 +0000" channel="LangLab.webtv.sk">
+    <title lang="id">City Grammar</title>
+  </programme>
+  <programme start="20260329041700 +0000" stop="20260329042600 +0000" channel="LangLab.webtv.sk">
+    <title lang="id">English is the Key</title>
+  </programme>
+  <programme start="20260329042600 +0000" stop="20260329043600 +0000" channel="LangLab.webtv.sk">
+    <title lang="id">English Up</title>
+  </programme>
+  <programme start="20260329043600 +0000" stop="20260329044300 +0000" channel="LangLab.webtv.sk">
+    <title lang="id">Irregular Verbs</title>
+  </programme>
+  <programme start="20260329044300 +0000" stop="20260329044900 +0000" channel="LangLab.webtv.sk">
+    <title lang="id">Coffee Chat</title>
+  </programme>
+  <programme start="20260329044900 +0000" stop="20260329045300 +0000" channel="LangLab.webtv.sk">
+    <title lang="id">Wrong&amp;Right</title>
+  </programme>
+  <programme start="20260329045300 +0000" stop="20260329051100 +0000" channel="LangLab.webtv.sk">
+    <title lang="id">Life Around</title>
+  </programme>
+  <programme start="20260329051100 +0000" stop="20260329053200 +0000" channel="LangLab.webtv.sk">
+    <title lang="id">Grammar Wise New</title>
+  </programme>
+  <programme start="20260329053200 +0000" stop="20260329054100 +0000" channel="LangLab.webtv.sk">
+    <title lang="id">English in Focus</title>
+  </programme>
+  <programme start="20260329054100 +0000" stop="20260329060200 +0000" channel="LangLab.webtv.sk">
+    <title lang="id">Grammar Wise New</title>
+  </programme>
+  <programme start="20260329060200 +0000" stop="20260329063200 +0000" channel="LangLab.webtv.sk">
+    <title lang="id">English United</title>
+  </programme>
+  <programme start="20260329063200 +0000" stop="20260329064100 +0000" channel="LangLab.webtv.sk">
+    <title lang="id">City Grammar</title>
+  </programme>
+  <programme start="20260329064100 +0000" stop="20260329064800 +0000" channel="LangLab.webtv.sk">
+    <title lang="id">Irregular Verbs</title>
+  </programme>
+  <programme start="20260329064800 +0000" stop="20260329065400 +0000" channel="LangLab.webtv.sk">
+    <title lang="id">Coffee Chat</title>
+  </programme>
+  <programme start="20260329065400 +0000" stop="20260329065600 +0000" channel="LangLab.webtv.sk">
+    <title lang="id">Wrong&amp;Right</title>
+  </programme>
+  <programme start="20260329065600 +0000" stop="20260329072300 +0000" channel="LangLab.webtv.sk">
+    <title lang="id">City Grammar</title>
+  </programme>
+  <programme start="20260329072300 +0000" stop="20260329073100 +0000" channel="LangLab.webtv.sk">
+    <title lang="id">English is the Key</title>
+  </programme>
+  <programme start="20260329073100 +0000" stop="20260329075100 +0000" channel="LangLab.webtv.sk">
+    <title lang="id">English Up</title>
+  </programme>
+  <programme start="20260329075100 +0000" stop="20260329075800 +0000" channel="LangLab.webtv.sk">
+    <title lang="id">Irregular Verbs</title>
+  </programme>
+  <programme start="20260329075800 +0000" stop="20260329080400 +0000" channel="LangLab.webtv.sk">
+    <title lang="id">Coffee Chat</title>
+  </programme>
+  <programme start="20260329080400 +0000" stop="20260329080600 +0000" channel="LangLab.webtv.sk">
+    <title lang="id">Wrong&amp;Right</title>
+  </programme>
+  <programme start="20260329080600 +0000" stop="20260329082400 +0000" channel="LangLab.webtv.sk">
+    <title lang="id">Life Around</title>
+  </programme>
+  <programme start="20260329082400 +0000" stop="20260329084500 +0000" channel="LangLab.webtv.sk">
+    <title lang="id">Grammar Wise New</title>
+  </programme>
+  <programme start="20260329084500 +0000" stop="20260329085400 +0000" channel="LangLab.webtv.sk">
+    <title lang="id">English in Focus</title>
+  </programme>
+  <programme start="20260329085400 +0000" stop="20260329090100 +0000" channel="LangLab.webtv.sk">
+    <title lang="id">Irregular Verbs</title>
+  </programme>
+  <programme start="20260329090100 +0000" stop="20260329090700 +0000" channel="LangLab.webtv.sk">
+    <title lang="id">Coffee Chat</title>
+  </programme>
+  <programme start="20260329090700 +0000" stop="20260329091300 +0000" channel="LangLab.webtv.sk">
+    <title lang="id">Wrong&amp;Right</title>
+  </programme>
+  <programme start="20260329091300 +0000" stop="20260329093100 +0000" channel="LangLab.webtv.sk">
+    <title lang="id">Life Around</title>
+  </programme>
+  <programme start="20260329093100 +0000" stop="20260329094000 +0000" channel="LangLab.webtv.sk">
+    <title lang="id">City Grammar</title>
+  </programme>
+  <programme start="20260329094000 +0000" stop="20260329094900 +0000" channel="LangLab.webtv.sk">
+    <title lang="id">English is the Key</title>
+  </programme>
+  <programme start="20260329094900 +0000" stop="20260329095900 +0000" channel="LangLab.webtv.sk">
+    <title lang="id">English Up</title>
+  </programme>
+  <programme start="20260329095900 +0000" stop="20260329102000 +0000" channel="LangLab.webtv.sk">
+    <title lang="id">Grammar Wise New</title>
+  </programme>
+  <programme start="20260329102000 +0000" stop="20260329105000 +0000" channel="LangLab.webtv.sk">
+    <title lang="id">English United</title>
+  </programme>
+  <programme start="20260329105000 +0000" stop="20260329105900 +0000" channel="LangLab.webtv.sk">
+    <title lang="id">City Grammar</title>
+  </programme>
+  <programme start="20260329105900 +0000" stop="20260329110600 +0000" channel="LangLab.webtv.sk">
+    <title lang="id">Irregular Verbs</title>
+  </programme>
+  <programme start="20260329110600 +0000" stop="20260329111200 +0000" channel="LangLab.webtv.sk">
+    <title lang="id">Coffee Chat</title>
+  </programme>
+  <programme start="20260329111200 +0000" stop="20260329111400 +0000" channel="LangLab.webtv.sk">
+    <title lang="id">Wrong&amp;Right</title>
+  </programme>
+  <programme start="20260329111400 +0000" stop="20260329113200 +0000" channel="LangLab.webtv.sk">
+    <title lang="id">Life Around</title>
+  </programme>
+  <programme start="20260329113200 +0000" stop="20260329115300 +0000" channel="LangLab.webtv.sk">
+    <title lang="id">Grammar Wise New</title>
+  </programme>
+  <programme start="20260329115300 +0000" stop="20260329120200 +0000" channel="LangLab.webtv.sk">
+    <title lang="id">English in Focus</title>
+  </programme>
+  <programme start="20260329120200 +0000" stop="20260329120900 +0000" channel="LangLab.webtv.sk">
+    <title lang="id">Irregular Verbs</title>
+  </programme>
+  <programme start="20260329120900 +0000" stop="20260329121500 +0000" channel="LangLab.webtv.sk">
+    <title lang="id">Coffee Chat</title>
+  </programme>
+  <programme start="20260329121500 +0000" stop="20260329121900 +0000" channel="LangLab.webtv.sk">
+    <title lang="id">Wrong&amp;Right</title>
+  </programme>
+  <programme start="20260329121900 +0000" stop="20260329123700 +0000" channel="LangLab.webtv.sk">
+    <title lang="id">Life Around</title>
+  </programme>
+  <programme start="20260329123700 +0000" stop="20260329124600 +0000" channel="LangLab.webtv.sk">
+    <title lang="id">City Grammar</title>
+  </programme>
+  <programme start="20260329124600 +0000" stop="20260329125400 +0000" channel="LangLab.webtv.sk">
+    <title lang="id">English is the Key</title>
+  </programme>
+  <programme start="20260329125400 +0000" stop="20260329130400 +0000" channel="LangLab.webtv.sk">
+    <title lang="id">English Up</title>
+  </programme>
+  <programme start="20260329130400 +0000" stop="20260329131100 +0000" channel="LangLab.webtv.sk">
+    <title lang="id">Irregular Verbs</title>
+  </programme>
+  <programme start="20260329131100 +0000" stop="20260329131700 +0000" channel="LangLab.webtv.sk">
+    <title lang="id">Coffee Chat</title>
+  </programme>
+  <programme start="20260329131700 +0000" stop="20260329131900 +0000" channel="LangLab.webtv.sk">
+    <title lang="id">Wrong&amp;Right</title>
+  </programme>
+  <programme start="20260329131900 +0000" stop="20260329133700 +0000" channel="LangLab.webtv.sk">
+    <title lang="id">Life Around</title>
+  </programme>
+  <programme start="20260329133700 +0000" stop="20260329135800 +0000" channel="LangLab.webtv.sk">
+    <title lang="id">Grammar Wise New</title>
+  </programme>
+  <programme start="20260329135800 +0000" stop="20260329140700 +0000" channel="LangLab.webtv.sk">
+    <title lang="id">English in Focus</title>
+  </programme>
+  <programme start="20260329140700 +0000" stop="20260329142800 +0000" channel="LangLab.webtv.sk">
+    <title lang="id">Grammar Wise New</title>
+  </programme>
+  <programme start="20260329142800 +0000" stop="20260329145800 +0000" channel="LangLab.webtv.sk">
+    <title lang="id">English United</title>
+  </programme>
+  <programme start="20260329145800 +0000" stop="20260329150700 +0000" channel="LangLab.webtv.sk">
+    <title lang="id">City Grammar</title>
+  </programme>
+  <programme start="20260329150700 +0000" stop="20260329151400 +0000" channel="LangLab.webtv.sk">
+    <title lang="id">Irregular Verbs</title>
+  </programme>
+  <programme start="20260329151400 +0000" stop="20260329152000 +0000" channel="LangLab.webtv.sk">
+    <title lang="id">Coffee Chat</title>
+  </programme>
+  <programme start="20260329152000 +0000" stop="20260329152400 +0000" channel="LangLab.webtv.sk">
+    <title lang="id">Wrong&amp;Right</title>
+  </programme>
+  <programme start="20260329152400 +0000" stop="20260329154200 +0000" channel="LangLab.webtv.sk">
+    <title lang="id">Life Around</title>
+  </programme>
+  <programme start="20260329154200 +0000" stop="20260329155100 +0000" channel="LangLab.webtv.sk">
+    <title lang="id">City Grammar</title>
+  </programme>
+  <programme start="20260329155100 +0000" stop="20260329160000 +0000" channel="LangLab.webtv.sk">
+    <title lang="id">English is the Key</title>
+  </programme>
+  <programme start="20260329160000 +0000" stop="20260329161000 +0000" channel="LangLab.webtv.sk">
+    <title lang="id">English Up</title>
+  </programme>
+  <programme start="20260329161000 +0000" stop="20260329161700 +0000" channel="LangLab.webtv.sk">
+    <title lang="id">Irregular Verbs</title>
+  </programme>
+  <programme start="20260329161700 +0000" stop="20260329162300 +0000" channel="LangLab.webtv.sk">
+    <title lang="id">Coffee Chat</title>
+  </programme>
+  <programme start="20260329162300 +0000" stop="20260329162500 +0000" channel="LangLab.webtv.sk">
+    <title lang="id">Wrong&amp;Right</title>
+  </programme>
+  <programme start="20260329162500 +0000" stop="20260329164300 +0000" channel="LangLab.webtv.sk">
+    <title lang="id">Life Around</title>
+  </programme>
+  <programme start="20260329164300 +0000" stop="20260329170400 +0000" channel="LangLab.webtv.sk">
+    <title lang="id">Grammar Wise New</title>
+  </programme>
+  <programme start="20260329170400 +0000" stop="20260329171300 +0000" channel="LangLab.webtv.sk">
+    <title lang="id">English in Focus</title>
+  </programme>
+  <programme start="20260329171300 +0000" stop="20260329171600 +0000" channel="LangLab.webtv.sk">
+    <title lang="id">Irregular Verbs</title>
+  </programme>
+  <programme start="20260329171600 +0000" stop="20260329172200 +0000" channel="LangLab.webtv.sk">
+    <title lang="id">Coffee Chat</title>
+  </programme>
+  <programme start="20260329172200 +0000" stop="20260329172400 +0000" channel="LangLab.webtv.sk">
+    <title lang="id">Wrong&amp;Right</title>
+  </programme>
+  <programme start="20260329172400 +0000" stop="20260329175100 +0000" channel="LangLab.webtv.sk">
+    <title lang="id">City Grammar</title>
+  </programme>
+  <programme start="20260329175100 +0000" stop="20260329182100 +0000" channel="LangLab.webtv.sk">
+    <title lang="id">English Up</title>
+  </programme>
+  <programme start="20260329182100 +0000" stop="20260329184200 +0000" channel="LangLab.webtv.sk">
+    <title lang="id">Grammar Wise New</title>
+  </programme>
+  <programme start="20260329184200 +0000" stop="20260329191200 +0000" channel="LangLab.webtv.sk">
+    <title lang="id">English United</title>
+  </programme>
+  <programme start="20260329191200 +0000" stop="20260329192100 +0000" channel="LangLab.webtv.sk">
+    <title lang="id">City Grammar</title>
+  </programme>
+  <programme start="20260329192100 +0000" stop="20260329192400 +0000" channel="LangLab.webtv.sk">
+    <title lang="id">Irregular Verbs</title>
+  </programme>
+  <programme start="20260329192400 +0000" stop="20260329193000 +0000" channel="LangLab.webtv.sk">
+    <title lang="id">Coffee Chat</title>
+  </programme>
+  <programme start="20260329193000 +0000" stop="20260329193200 +0000" channel="LangLab.webtv.sk">
+    <title lang="id">Wrong&amp;Right</title>
+  </programme>
+  <programme start="20260329193200 +0000" stop="20260329195000 +0000" channel="LangLab.webtv.sk">
+    <title lang="id">Life Around</title>
+  </programme>
+  <programme start="20260329195000 +0000" stop="20260329201100 +0000" channel="LangLab.webtv.sk">
+    <title lang="id">Grammar Wise New</title>
+  </programme>
+  <programme start="20260329201100 +0000" stop="20260329202000 +0000" channel="LangLab.webtv.sk">
+    <title lang="id">English in Focus</title>
+  </programme>
+  <programme start="20260329202000 +0000" stop="20260329202300 +0000" channel="LangLab.webtv.sk">
+    <title lang="id">Irregular Verbs</title>
+  </programme>
+  <programme start="20260329202300 +0000" stop="20260329202900 +0000" channel="LangLab.webtv.sk">
+    <title lang="id">Coffee Chat</title>
+  </programme>
+  <programme start="20260329202900 +0000" stop="20260329203300 +0000" channel="LangLab.webtv.sk">
+    <title lang="id">Wrong&amp;Right</title>
+  </programme>
+  <programme start="20260329203300 +0000" stop="20260329205100 +0000" channel="LangLab.webtv.sk">
+    <title lang="id">Life Around</title>
+  </programme>
+  <programme start="20260329205100 +0000" stop="20260329210000 +0000" channel="LangLab.webtv.sk">
+    <title lang="id">City Grammar</title>
+  </programme>
+  <programme start="20260329210000 +0000" stop="20260329210800 +0000" channel="LangLab.webtv.sk">
+    <title lang="id">English is the Key</title>
+  </programme>
+  <programme start="20260329210800 +0000" stop="20260329211800 +0000" channel="LangLab.webtv.sk">
+    <title lang="id">English Up</title>
+  </programme>
+  <programme start="20260329211800 +0000" stop="20260329212100 +0000" channel="LangLab.webtv.sk">
+    <title lang="id">Irregular Verbs</title>
+  </programme>
+  <programme start="20260329212100 +0000" stop="20260329212700 +0000" channel="LangLab.webtv.sk">
+    <title lang="id">Coffee Chat</title>
+  </programme>
+  <programme start="20260329212700 +0000" stop="20260329212900 +0000" channel="LangLab.webtv.sk">
+    <title lang="id">Wrong&amp;Right</title>
+  </programme>
+  <programme start="20260329212900 +0000" stop="20260329214700 +0000" channel="LangLab.webtv.sk">
+    <title lang="id">Life Around</title>
+  </programme>
+  <programme start="20260329214700 +0000" stop="20260329220800 +0000" channel="LangLab.webtv.sk">
+    <title lang="id">Grammar Wise New</title>
+  </programme>
+  <programme start="20260329220800 +0000" stop="20260329221700 +0000" channel="LangLab.webtv.sk">
+    <title lang="id">English in Focus</title>
+  </programme>
+  <programme start="20260329221700 +0000" stop="20260329223800 +0000" channel="LangLab.webtv.sk">
+    <title lang="id">Grammar Wise New</title>
+  </programme>
+  <programme start="20260329223800 +0000" stop="20260329230800 +0000" channel="LangLab.webtv.sk">
+    <title lang="id">English United</title>
+  </programme>
   <programme start="20260328225500 +0000" stop="20260328231900 +0000" channel="Lingo Toons.webtv.sk">
     <title lang="id">Coffee Chat</title>
   </programme>
@@ -8754,57 +8943,6 @@
   </programme>
   <programme start="20260329220000 +0000" stop="20260330000000 +0000" channel="FilmBox Stars.webtv.sk">
     <title lang="id">Modigliani</title>
-  </programme>
-  <programme start="20260328222000 +0000" stop="20260328233500 +0000" channel="FightBox.webtv.sk">
-    <title lang="id">FCR MMA 22, 30.11.2024 I (4)</title>
-  </programme>
-  <programme start="20260328233500 +0000" stop="20260329015500 +0000" channel="FightBox.webtv.sk">
-    <title lang="id">Lux 021 Fighting League, Mexico 18.03.2022 XXXIII (13)</title>
-  </programme>
-  <programme start="20260329015500 +0000" stop="20260329023000 +0000" channel="FightBox.webtv.sk">
-    <title lang="id">UK Wrestling Showdown I (19)</title>
-  </programme>
-  <programme start="20260329023000 +0000" stop="20260329030500 +0000" channel="FightBox.webtv.sk">
-    <title lang="id">UK Wrestling Showdown I (20)</title>
-  </programme>
-  <programme start="20260329030500 +0000" stop="20260329035000 +0000" channel="FightBox.webtv.sk">
-    <title lang="id">Hard Knocks Fighting, Ep. 5 XXI (5)</title>
-  </programme>
-  <programme start="20260329035000 +0000" stop="20260329040000 +0000" channel="FightBox.webtv.sk">
-    <title lang="id">Abu Dhabi Jiu-Jitsu Grand Slam 2020</title>
-  </programme>
-  <programme start="20260329040000 +0000" stop="20260329045000 +0000" channel="FightBox.webtv.sk">
-    <title lang="id">Punch Down 6, Poznań, Poland, 07.03.2020 XXXVI (6)</title>
-  </programme>
-  <programme start="20260329045000 +0000" stop="20260329052500 +0000" channel="FightBox.webtv.sk">
-    <title lang="id">Punch Down 7, Poznań, Poland, 07.03.2020 XXXVI (7)</title>
-  </programme>
-  <programme start="20260329052500 +0000" stop="20260329053500 +0000" channel="FightBox.webtv.sk">
-    <title lang="id">Abu Dhabi Jiu-Jitsu Grand Slam 2020</title>
-  </programme>
-  <programme start="20260329053500 +0000" stop="20260329054500 +0000" channel="FightBox.webtv.sk">
-    <title lang="id">Abu Dhabi Jiu-Jitsu Grand Slam 2020</title>
-  </programme>
-  <programme start="20260329054500 +0000" stop="20260329060000 +0000" channel="FightBox.webtv.sk">
-    <title lang="id">Abu Dhabi Jiu-Jitsu Grand Slam 2020</title>
-  </programme>
-  <programme start="20260329060000 +0000" stop="20260329074000 +0000" channel="FightBox.webtv.sk">
-    <title lang="id">Enfusion &apos;114, Wuppertal Netherlands 05.10.2024 XXXII (31)</title>
-  </programme>
-  <programme start="20260329074000 +0000" stop="20260329131000 +0000" channel="FightBox.webtv.sk">
-    <title lang="id">National Fighting Championship, Germany 25.03.2023 XLII (1)</title>
-  </programme>
-  <programme start="20260329131000 +0000" stop="20260329151500 +0000" channel="FightBox.webtv.sk">
-    <title lang="id">Fightbox King Of Kings Heroes Series Vilnius, Lithuania 16.03.2022 XI (122)</title>
-  </programme>
-  <programme start="20260329151500 +0000" stop="20260329170000 +0000" channel="FightBox.webtv.sk">
-    <title lang="id">Kings of Kings Grand Prix 11.03.2023 XIII (100)</title>
-  </programme>
-  <programme start="20260329170000 +0000" stop="20260329204500 +0000" channel="FightBox.webtv.sk">
-    <title lang="id">Colosseum Tournament, Romania 20.10.2023 V (51)</title>
-  </programme>
-  <programme start="20260329204500 +0000" stop="20260330003000 +0000" channel="FightBox.webtv.sk">
-    <title lang="id">We Love MMA 69, 16.12.2023 XVI (17)</title>
   </programme>
   <programme start="20260328224000 +0000" stop="20260329003500 +0000" channel="Filmbox Arthouse.webtv.sk">
     <title lang="id">Life With Father</title>
@@ -17220,6 +17358,156 @@
   </programme>
   <programme start="20260329225500 +0000" stop="20260329230000 +0000" channel="NHK World Japan.webtv.sk">
     <title lang="id">A Cat&apos;s-Eye View of Japan</title>
+  </programme>
+  <programme start="20260328230000 +0000" stop="20260329000000 +0000" channel="Arirang TV.webtv.sk">
+    <title lang="id">Arirang Special</title>
+  </programme>
+  <programme start="20260329000000 +0000" stop="20260329003000 +0000" channel="Arirang TV.webtv.sk">
+    <title lang="id">Premium Collection B</title>
+  </programme>
+  <programme start="20260329003000 +0000" stop="20260329010000 +0000" channel="Arirang TV.webtv.sk">
+    <title lang="id">Trip In Korea</title>
+  </programme>
+  <programme start="20260329010000 +0000" stop="20260329020000 +0000" channel="Arirang TV.webtv.sk">
+    <title lang="id">Gugak The Music Of Korea</title>
+  </programme>
+  <programme start="20260329020000 +0000" stop="20260329023000 +0000" channel="Arirang TV.webtv.sk">
+    <title lang="id">Premium Collection A</title>
+  </programme>
+  <programme start="20260329023000 +0000" stop="20260329030000 +0000" channel="Arirang TV.webtv.sk">
+    <title lang="id">Talk Room</title>
+  </programme>
+  <programme start="20260329030000 +0000" stop="20260329033000 +0000" channel="Arirang TV.webtv.sk">
+    <title lang="id">Weekly News Highlights</title>
+  </programme>
+  <programme start="20260329033000 +0000" stop="20260329040000 +0000" channel="Arirang TV.webtv.sk">
+    <title lang="id">I&apos;m Live</title>
+  </programme>
+  <programme start="20260329040000 +0000" stop="20260329043000 +0000" channel="Arirang TV.webtv.sk">
+    <title lang="id">Home Explorers 2</title>
+  </programme>
+  <programme start="20260329043000 +0000" stop="20260329045000 +0000" channel="Arirang TV.webtv.sk">
+    <title lang="id">Rpg</title>
+  </programme>
+  <programme start="20260329045000 +0000" stop="20260329050000 +0000" channel="Arirang TV.webtv.sk">
+    <title lang="id">Exploring Korean Literature B</title>
+  </programme>
+  <programme start="20260329050000 +0000" stop="20260329053000 +0000" channel="Arirang TV.webtv.sk">
+    <title lang="id">Decoded: The Ai Conversations</title>
+  </programme>
+  <programme start="20260329053000 +0000" stop="20260329060000 +0000" channel="Arirang TV.webtv.sk">
+    <title lang="id">K-food Class</title>
+  </programme>
+  <programme start="20260329060000 +0000" stop="20260329070000 +0000" channel="Arirang TV.webtv.sk">
+    <title lang="id">Simply K-pop Gateway To Korea</title>
+  </programme>
+  <programme start="20260329070000 +0000" stop="20260329073000 +0000" channel="Arirang TV.webtv.sk">
+    <title lang="id">Home To Table</title>
+  </programme>
+  <programme start="20260329073000 +0000" stop="20260329080000 +0000" channel="Arirang TV.webtv.sk">
+    <title lang="id">Talk Room</title>
+  </programme>
+  <programme start="20260329080000 +0000" stop="20260329083000 +0000" channel="Arirang TV.webtv.sk">
+    <title lang="id">Trip In Korea</title>
+  </programme>
+  <programme start="20260329083000 +0000" stop="20260329090000 +0000" channel="Arirang TV.webtv.sk">
+    <title lang="id">I&apos;m Live</title>
+  </programme>
+  <programme start="20260329090000 +0000" stop="20260329093000 +0000" channel="Arirang TV.webtv.sk">
+    <title lang="id">Weekly News Highlights</title>
+  </programme>
+  <programme start="20260329093000 +0000" stop="20260329100000 +0000" channel="Arirang TV.webtv.sk">
+    <title lang="id">Re: Space</title>
+  </programme>
+  <programme start="20260329100000 +0000" stop="20260329103000 +0000" channel="Arirang TV.webtv.sk">
+    <title lang="id">Peace Insight</title>
+  </programme>
+  <programme start="20260329103000 +0000" stop="20260329110000 +0000" channel="Arirang TV.webtv.sk">
+    <title lang="id">K-food Class</title>
+  </programme>
+  <programme start="20260329110000 +0000" stop="20260329111500 +0000" channel="Arirang TV.webtv.sk">
+    <title lang="id">K-culture Minutes: K-now</title>
+  </programme>
+  <programme start="20260329111500 +0000" stop="20260329113000 +0000" channel="Arirang TV.webtv.sk">
+    <title lang="id">K-culture Minutes: K-people</title>
+  </programme>
+  <programme start="20260329113000 +0000" stop="20260329114500 +0000" channel="Arirang TV.webtv.sk">
+    <title lang="id">K-culture Minutes: K-story</title>
+  </programme>
+  <programme start="20260329114500 +0000" stop="20260329120000 +0000" channel="Arirang TV.webtv.sk">
+    <title lang="id">K-culture Minutes: K-stage</title>
+  </programme>
+  <programme start="20260329120000 +0000" stop="20260329130000 +0000" channel="Arirang TV.webtv.sk">
+    <title lang="id">Simply K-pop Gateway To Korea</title>
+  </programme>
+  <programme start="20260329130000 +0000" stop="20260329133000 +0000" channel="Arirang TV.webtv.sk">
+    <title lang="id">I&apos;m Live</title>
+  </programme>
+  <programme start="20260329133000 +0000" stop="20260329140000 +0000" channel="Arirang TV.webtv.sk">
+    <title lang="id">Diplomat&apos;s Archive: Hidden Stories</title>
+  </programme>
+  <programme start="20260329140000 +0000" stop="20260329143000 +0000" channel="Arirang TV.webtv.sk">
+    <title lang="id">Premium Collection A</title>
+  </programme>
+  <programme start="20260329143000 +0000" stop="20260329150000 +0000" channel="Arirang TV.webtv.sk">
+    <title lang="id">Premium Collection B</title>
+  </programme>
+  <programme start="20260329150000 +0000" stop="20260329153000 +0000" channel="Arirang TV.webtv.sk">
+    <title lang="id">K-stage Pan</title>
+  </programme>
+  <programme start="20260329153000 +0000" stop="20260329160000 +0000" channel="Arirang TV.webtv.sk">
+    <title lang="id">I&apos;m Live</title>
+  </programme>
+  <programme start="20260329160000 +0000" stop="20260329170000 +0000" channel="Arirang TV.webtv.sk">
+    <title lang="id">Arirang Prime</title>
+  </programme>
+  <programme start="20260329170000 +0000" stop="20260329173000 +0000" channel="Arirang TV.webtv.sk">
+    <title lang="id">Smartbiz Accelerators</title>
+  </programme>
+  <programme start="20260329173000 +0000" stop="20260329180000 +0000" channel="Arirang TV.webtv.sk">
+    <title lang="id">Premium Collection B</title>
+  </programme>
+  <programme start="20260329180000 +0000" stop="20260329190000 +0000" channel="Arirang TV.webtv.sk">
+    <title lang="id">Gugak The Music Of Korea</title>
+  </programme>
+  <programme start="20260329190000 +0000" stop="20260329193000 +0000" channel="Arirang TV.webtv.sk">
+    <title lang="id">Peace Insight</title>
+  </programme>
+  <programme start="20260329193000 +0000" stop="20260329200000 +0000" channel="Arirang TV.webtv.sk">
+    <title lang="id">Bravo K-scientist</title>
+  </programme>
+  <programme start="20260329200000 +0000" stop="20260329203000 +0000" channel="Arirang TV.webtv.sk">
+    <title lang="id">Premium Collection A</title>
+  </programme>
+  <programme start="20260329203000 +0000" stop="20260329210000 +0000" channel="Arirang TV.webtv.sk">
+    <title lang="id">Smartbiz Accelerators</title>
+  </programme>
+  <programme start="20260329210000 +0000" stop="20260329212000 +0000" channel="Arirang TV.webtv.sk">
+    <title lang="id">Drawing Diary</title>
+  </programme>
+  <programme start="20260329212000 +0000" stop="20260329213000 +0000" channel="Arirang TV.webtv.sk">
+    <title lang="id">Heritage Walks With Little Friend</title>
+  </programme>
+  <programme start="20260329213000 +0000" stop="20260329215000 +0000" channel="Arirang TV.webtv.sk">
+    <title lang="id">Korea Travelogue 4</title>
+  </programme>
+  <programme start="20260329215000 +0000" stop="20260329220000 +0000" channel="Arirang TV.webtv.sk">
+    <title lang="id">Discovering Korea: Attraction</title>
+  </programme>
+  <programme start="20260329220000 +0000" stop="20260329222000 +0000" channel="Arirang TV.webtv.sk">
+    <title lang="id">The Grand Heritage Asmr</title>
+  </programme>
+  <programme start="20260329222000 +0000" stop="20260329223000 +0000" channel="Arirang TV.webtv.sk">
+    <title lang="id">The Living Sea Of Jeju</title>
+  </programme>
+  <programme start="20260329223000 +0000" stop="20260329224000 +0000" channel="Arirang TV.webtv.sk">
+    <title lang="id">K-chat: Conversing In Korean</title>
+  </programme>
+  <programme start="20260329224000 +0000" stop="20260329225000 +0000" channel="Arirang TV.webtv.sk">
+    <title lang="id">K-chat: Travel In Korea</title>
+  </programme>
+  <programme start="20260329225000 +0000" stop="20260329230000 +0000" channel="Arirang TV.webtv.sk">
+    <title lang="id">Exploring Korean Literature A</title>
   </programme>
   <programme start="20260328230000 +0000" stop="20260328233000 +0000" channel="TRT World.webtv.sk">
     <title lang="id">News</title>

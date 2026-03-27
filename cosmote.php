@@ -1,11 +1,3 @@
-<programme start="20260328023000 +0700" stop="20260328033000 +0700" channel="COSMOTE Sport 1 HD">
-    <title>Highlights: UEL &amp; UECL 2025-26</title>
-    <desc>Live: Tidak</desc>
-</programme>
-<programme start="20260328033000 +0700" stop="20260328040000 +0700" channel="COSMOTE Sport 1 HD">
-    <title>Game R1 S6 E31</title>
-    <desc>Live: Tidak</desc>
-</programme>
 <programme start="20260328040000 +0700" stop="20260328043000 +0700" channel="COSMOTE Sport 1 HD">
     <title>UEFA Champions League Magazine 2024-25 E26</title>
     <desc>Live: Tidak</desc>
@@ -84,6 +76,10 @@
 </programme>
 <programme start="20260329033000 +0700" stop="20260329043000 +0700" channel="COSMOTE Sport 1 HD">
     <title>Highlights: UEL &amp; UECL 2025-26</title>
+    <desc>Live: Tidak</desc>
+</programme>
+<programme start="20260329043000 +0700" stop="20260329050000 +0700" channel="COSMOTE Sport 1 HD">
+    <title>UEFA Champions League Magazine 2024-25 E26</title>
     <desc>Live: Tidak</desc>
 </programme>
 <programme start="20260328030000 +0700" stop="20260328050000 +0700" channel="COSMOTE Sport 2 HD">
@@ -350,6 +346,14 @@
     <title>Motorsports: MotoGP 2026 (L)</title>
     <desc>Live: Ya</desc>
 </programme>
+<programme start="20260329040000 +0700" stop="20260329044500 +0700" channel="COSMOTE Sport 5 HD">
+    <title>Harley-Davidson Bagger World Cup 2026 (L)</title>
+    <desc>Live: Ya</desc>
+</programme>
+<programme start="20260329044500 +0700" stop="20260329051500 +0700" channel="COSMOTE Sport 5 HD">
+    <title>FIA Championship Middle East 2026</title>
+    <desc>Live: Tidak</desc>
+</programme>
 <programme start="20260328020000 +0700" stop="20260328043000 +0700" channel="COSMOTE Sport 6 HD">
     <title>Tennis: Jiri Lehecka - Arthur Fils (L)</title>
     <desc>Live: Ya</desc>
@@ -414,9 +418,9 @@
     <title>Athletics: World Athletics Continental Tour Gold 2025</title>
     <desc>Live: Tidak</desc>
 </programme>
-<programme start="20260328010000 +0700" stop="20260328040000 +0700" channel="COSMOTE Sport 7 HD">
-    <title>Premier Padel Tour 2026 (L)</title>
-    <desc>Live: Ya</desc>
+<programme start="20260329043500 +0700" stop="20260329070000 +0700" channel="COSMOTE Sport 6 HD">
+    <title>Tennis: ATP Masters 1000 2026</title>
+    <desc>Live: Tidak</desc>
 </programme>
 <programme start="20260328040000 +0700" stop="20260328050000 +0700" channel="COSMOTE Sport 7 HD">
     <title>COSMOTESport7HD</title>

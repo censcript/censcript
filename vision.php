@@ -544,6 +544,12 @@
 <programme start="20260327143000 +0000" stop="20260327154500 +0000" channel="Trans 7.vision">
 <title>Lapor Pak!</title>
 </programme>
+<programme start="20260327154500 +0000" stop="20260327174500 +0000" channel="Trans 7.vision">
+<title>Ronggeng Kematian</title>
+</programme>
+<programme start="20260327174500 +0000" stop="20260327190000 +0000" channel="Trans 7.vision">
+<title>Warkop: Itu Bisa Diatur</title>
+</programme>
 <programme start="20260327190000 +0000" stop="20260327200000 +0000" channel="Trans 7.vision">
 <title>Dracin</title>
 </programme>
@@ -615,6 +621,21 @@
 </programme>
 <programme start="20260327090000 +0000" stop="20260327110000 +0000" channel="ANTV.vision">
 <title>Vasudha</title>
+</programme>
+<programme start="20260327110000 +0000" stop="20260327130000 +0000" channel="ANTV.vision">
+<title>Bunga Desa</title>
+</programme>
+<programme start="20260327130000 +0000" stop="20260327143000 +0000" channel="ANTV.vision">
+<title>Nyi Blorong</title>
+</programme>
+<programme start="20260327143000 +0000" stop="20260327163000 +0000" channel="ANTV.vision">
+<title>Kuntilanak: Lingsir Wengi</title>
+</programme>
+<programme start="20260327163000 +0000" stop="20260327180000 +0000" channel="ANTV.vision">
+<title>Black Cat</title>
+</programme>
+<programme start="20260327180000 +0000" stop="20260327193000 +0000" channel="ANTV.vision">
+<title>102 Bangkok Robbery</title>
 </programme>
 <programme start="20260327193000 +0000" stop="20260327213000 +0000" channel="ANTV.vision">
 <title>Haunted School</title>
@@ -1476,25 +1497,4 @@
 </programme>
 <programme start="20260327033000 +0000" stop="20260327050500 +0000" channel="MDTV.vision">
 <title>Cinta Fitri S6</title>
-</programme>
-<programme start="20260327050500 +0000" stop="20260327062500 +0000" channel="MDTV.vision">
-<title>Janji Cinta (Sindoor Ki Keemat)</title>
-</programme>
-<programme start="20260327062500 +0000" stop="20260327080500 +0000" channel="MDTV.vision">
-<title>Makan Enak</title>
-</programme>
-<programme start="20260327080500 +0000" stop="20260327092000 +0000" channel="MDTV.vision">
-<title>Masak Gesss!!!</title>
-</programme>
-<programme start="20260327092000 +0000" stop="20260327101000 +0000" channel="MDTV.vision">
-<title>Adit Sopo Jarwo</title>
-</programme>
-<programme start="20260327101000 +0000" stop="20260327110500 +0000" channel="MDTV.vision">
-<title>Amigos X Siempre</title>
-</programme>
-<programme start="20260327110500 +0000" stop="20260327120000 +0000" channel="MDTV.vision">
-<title>Esmeralda</title>
-</programme>
-<programme start="20260327120000 +0000" stop="20260327125500 +0000" channel="MDTV.vision">
-<title>Keluarga Yang Tak Dirindukan</title>
 </programme>
