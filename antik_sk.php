@@ -1354,45 +1354,6 @@
   <programme start="20260329214000 +0000" stop="20260329232000 +0000" channel="JOJ Cinema.webtv.sk">
     <title lang="id">Pozdravy od vraha</title>
   </programme>
-  <programme start="20260328215500 +0000" stop="20260328233500 +0000" channel="JOJ Cinema +1.webtv.sk">
-    <title lang="id">Svadobný obrad</title>
-  </programme>
-  <programme start="20260329025000 +0000" stop="20260329045000 +0000" channel="JOJ Cinema +1.webtv.sk">
-    <title lang="id">Čierni baróni</title>
-  </programme>
-  <programme start="20260329045000 +0000" stop="20260329063500 +0000" channel="JOJ Cinema +1.webtv.sk">
-    <title lang="id">Daj si pohov, mladý</title>
-  </programme>
-  <programme start="20260329063500 +0000" stop="20260329083500 +0000" channel="JOJ Cinema +1.webtv.sk">
-    <title lang="id">I cesta mže byť cieľom</title>
-  </programme>
-  <programme start="20260329083500 +0000" stop="20260329102500 +0000" channel="JOJ Cinema +1.webtv.sk">
-    <title lang="id">Dom na muške</title>
-  </programme>
-  <programme start="20260329102500 +0000" stop="20260329121000 +0000" channel="JOJ Cinema +1.webtv.sk">
-    <title lang="id">Princezná rebelka</title>
-  </programme>
-  <programme start="20260329121000 +0000" stop="20260329135000 +0000" channel="JOJ Cinema +1.webtv.sk">
-    <title lang="id">Doktor</title>
-  </programme>
-  <programme start="20260329135000 +0000" stop="20260329153000 +0000" channel="JOJ Cinema +1.webtv.sk">
-    <title lang="id">Teória obľúbenosti</title>
-  </programme>
-  <programme start="20260329153000 +0000" stop="20260329171500 +0000" channel="JOJ Cinema +1.webtv.sk">
-    <title lang="id">Volám sa Leon</title>
-  </programme>
-  <programme start="20260329171500 +0000" stop="20260329191500 +0000" channel="JOJ Cinema +1.webtv.sk">
-    <title lang="id">Víkendoví rebeli</title>
-  </programme>
-  <programme start="20260329191500 +0000" stop="20260329205500 +0000" channel="JOJ Cinema +1.webtv.sk">
-    <title lang="id">Teenosaurus Rex</title>
-  </programme>
-  <programme start="20260329205500 +0000" stop="20260329224000 +0000" channel="JOJ Cinema +1.webtv.sk">
-    <title lang="id">Útes smrti: V pasci</title>
-  </programme>
-  <programme start="20260329224000 +0000" stop="20260330002000 +0000" channel="JOJ Cinema +1.webtv.sk">
-    <title lang="id">Pozdravy od vraha</title>
-  </programme>
   <programme start="20260328230000 +0000" stop="20260328233000 +0000" channel="TA3.webtv.sk">
     <title lang="id">Správy</title>
   </programme>
@@ -5016,6 +4977,69 @@
   </programme>
   <programme start="20260329223000 +0000" stop="20260329233500 +0000" channel="Nova Sport 2.webtv.sk">
     <title lang="id">The King&apos;s Show (4)</title>
+  </programme>
+  <programme start="20260328230000 +0000" stop="20260329003000 +0000" channel="Eurosport 1.webtv.sk">
+    <title lang="id">Snooker: Welsh Open</title>
+  </programme>
+  <programme start="20260329003000 +0000" stop="20260329010000 +0000" channel="Eurosport 1.webtv.sk">
+    <title lang="id">Skoky na lyžích: SP v Planici</title>
+  </programme>
+  <programme start="20260329010000 +0000" stop="20260329023000 +0000" channel="Eurosport 1.webtv.sk">
+    <title lang="id">Cyklistika: Okolo Katalánska</title>
+  </programme>
+  <programme start="20260329023000 +0000" stop="20260329040000 +0000" channel="Eurosport 1.webtv.sk">
+    <title lang="id">Snooker: Welsh Open</title>
+  </programme>
+  <programme start="20260329040000 +0000" stop="20260329053000 +0000" channel="Eurosport 1.webtv.sk">
+    <title lang="id">Skoky na lyžích: SP v Planici</title>
+  </programme>
+  <programme start="20260329053000 +0000" stop="20260329063000 +0000" channel="Eurosport 1.webtv.sk">
+    <title lang="id">Cyklistika: Okolo Katalánska</title>
+  </programme>
+  <programme start="20260329063000 +0000" stop="20260329074500 +0000" channel="Eurosport 1.webtv.sk">
+    <title lang="id">Snowboarding: SP v Mont-Sainte-Anne</title>
+  </programme>
+  <programme start="20260329074500 +0000" stop="20260329094500 +0000" channel="Eurosport 1.webtv.sk">
+    <title lang="id">Skoky na lyžích: SP v Planici</title>
+  </programme>
+  <programme start="20260329094500 +0000" stop="20260329104500 +0000" channel="Eurosport 1.webtv.sk">
+    <title lang="id">Freestylové lyžování: SP v Gallivare</title>
+  </programme>
+  <programme start="20260329104500 +0000" stop="20260329111500 +0000" channel="Eurosport 1.webtv.sk">
+    <title lang="id">Snowboarding: SP v Mont-Sainte-Anne</title>
+  </programme>
+  <programme start="20260329111500 +0000" stop="20260329133000 +0000" channel="Eurosport 1.webtv.sk">
+    <title lang="id">Freestylové lyžování: SP v Silvaplaně</title>
+  </programme>
+  <programme start="20260329133000 +0000" stop="20260329153000 +0000" channel="Eurosport 1.webtv.sk">
+    <title lang="id">Skoky na lyžích: SP v Planici</title>
+  </programme>
+  <programme start="20260329153000 +0000" stop="20260329160000 +0000" channel="Eurosport 1.webtv.sk">
+    <title lang="id">Freestylové lyžování: SP v Gallivare</title>
+  </programme>
+  <programme start="20260329160000 +0000" stop="20260329173000 +0000" channel="Eurosport 1.webtv.sk">
+    <title lang="id">Freestylové lyžování: SP v Silvaplaně</title>
+  </programme>
+  <programme start="20260329173000 +0000" stop="20260329181500 +0000" channel="Eurosport 1.webtv.sk">
+    <title lang="id">Cyklistika: Okolo Katalánska</title>
+  </programme>
+  <programme start="20260329181500 +0000" stop="20260329190000 +0000" channel="Eurosport 1.webtv.sk">
+    <title lang="id">Cyklistika: In Flanders Fields</title>
+  </programme>
+  <programme start="20260329190000 +0000" stop="20260329194500 +0000" channel="Eurosport 1.webtv.sk">
+    <title lang="id">Motokros: MS ve Frauenfeldu</title>
+  </programme>
+  <programme start="20260329194500 +0000" stop="20260329203000 +0000" channel="Eurosport 1.webtv.sk">
+    <title lang="id">Motokros: MS ve Frauenfeldu</title>
+  </programme>
+  <programme start="20260329203000 +0000" stop="20260329211500 +0000" channel="Eurosport 1.webtv.sk">
+    <title lang="id">Motokros: MS ve Frauenfeldu</title>
+  </programme>
+  <programme start="20260329211500 +0000" stop="20260329220000 +0000" channel="Eurosport 1.webtv.sk">
+    <title lang="id">Motokros: MS ve Frauenfeldu</title>
+  </programme>
+  <programme start="20260329220000 +0000" stop="20260329233000 +0000" channel="Eurosport 1.webtv.sk">
+    <title lang="id">Cyklistika: Okolo Katalánska</title>
   </programme>
   <programme start="20260328230000 +0000" stop="20260329003000 +0000" channel="Eurosport 2.webtv.sk">
     <title lang="id">Cyklistika: Okolo Katalánska</title>
@@ -9117,51 +9141,6 @@
   </programme>
   <programme start="20260329222000 +0000" stop="20260329235500 +0000" channel="FilmBox Family.webtv.sk">
     <title lang="id">Švec</title>
-  </programme>
-  <programme start="20260328211000 +0000" stop="20260328232000 +0000" channel="FilmBox Stars.webtv.sk">
-    <title lang="id">Duše jako kaviár</title>
-  </programme>
-  <programme start="20260328232000 +0000" stop="20260329005000 +0000" channel="FilmBox Stars.webtv.sk">
-    <title lang="id">Motiv pro vraždu</title>
-  </programme>
-  <programme start="20260329005000 +0000" stop="20260329024000 +0000" channel="FilmBox Stars.webtv.sk">
-    <title lang="id">Cena závislosti</title>
-  </programme>
-  <programme start="20260329024000 +0000" stop="20260329030500 +0000" channel="FilmBox Stars.webtv.sk">
-    <title lang="id">Noční tabule</title>
-  </programme>
-  <programme start="20260329030500 +0000" stop="20260329044500 +0000" channel="FilmBox Stars.webtv.sk">
-    <title lang="id">Perfektní stalker</title>
-  </programme>
-  <programme start="20260329044500 +0000" stop="20260329062500 +0000" channel="FilmBox Stars.webtv.sk">
-    <title lang="id">Kluci z hor</title>
-  </programme>
-  <programme start="20260329062500 +0000" stop="20260329084500 +0000" channel="FilmBox Stars.webtv.sk">
-    <title lang="id">Andílek na nervy</title>
-  </programme>
-  <programme start="20260329084500 +0000" stop="20260329103000 +0000" channel="FilmBox Stars.webtv.sk">
-    <title lang="id">Zločiny z vřesovišť V (2)</title>
-  </programme>
-  <programme start="20260329103000 +0000" stop="20260329122000 +0000" channel="FilmBox Stars.webtv.sk">
-    <title lang="id">Zločiny z vřesovišť V (3)</title>
-  </programme>
-  <programme start="20260329122000 +0000" stop="20260329141000 +0000" channel="FilmBox Stars.webtv.sk">
-    <title lang="id">Zločiny z vřesovišť V (4)</title>
-  </programme>
-  <programme start="20260329141000 +0000" stop="20260329160500 +0000" channel="FilmBox Stars.webtv.sk">
-    <title lang="id">Hercule Poirot XIII (3)</title>
-  </programme>
-  <programme start="20260329160500 +0000" stop="20260329180000 +0000" channel="FilmBox Stars.webtv.sk">
-    <title lang="id">Hercule Poirot XIII (4)</title>
-  </programme>
-  <programme start="20260329180000 +0000" stop="20260329200000 +0000" channel="FilmBox Stars.webtv.sk">
-    <title lang="id">Kde alibi nestačí</title>
-  </programme>
-  <programme start="20260329200000 +0000" stop="20260329220000 +0000" channel="FilmBox Stars.webtv.sk">
-    <title lang="id">Nebezpečné moře</title>
-  </programme>
-  <programme start="20260329220000 +0000" stop="20260330000000 +0000" channel="FilmBox Stars.webtv.sk">
-    <title lang="id">Modigliani</title>
   </programme>
   <programme start="20260328222000 +0000" stop="20260328233500 +0000" channel="FightBox.webtv.sk">
     <title lang="id">FCR MMA 22, 30.11.2024 I (4)</title>
