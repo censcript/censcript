@@ -248,7 +248,7 @@
 <title>Breaking News (L)</title>
 </programme>
 <programme start="20260327150000 +0000" stop="20260327160000 +0000" channel="iNews.vision">
-<title>iNews Files</title>
+<title>Inews Files (Live)</title>
 </programme>
 <programme start="20260327160000 +0000" stop="20260327170000 +0000" channel="iNews.vision">
 <title>iNews Malam (Live)</title>
@@ -610,14 +610,8 @@
 <programme start="20260328113000 +0000" stop="20260328121500 +0000" channel="Trans 7.vision">
 <title>Secret Story</title>
 </programme>
-<programme start="20260326230000 +0000" stop="20260327003000 +0000" channel="ANTV.vision">
-<title>Me &amp; You &amp; A Girl Name Ugly</title>
-</programme>
 <programme start="20260327003000 +0000" stop="20260327023000 +0000" channel="ANTV.vision">
 <title>Janji Cinta Inspektur Virat</title>
-</programme>
-<programme start="20260327023000 +0000" stop="20260327060000 +0000" channel="ANTV.vision">
-<title>Ek Tha Tiger</title>
 </programme>
 <programme start="20260327060000 +0000" stop="20260327080000 +0000" channel="ANTV.vision">
 <title>Jhanak</title>
@@ -1489,12 +1483,18 @@
 <programme start="20260328090000 +0000" stop="20260328120000 +0000" channel="DAAI TV.vision">
 <title>DAAI TV</title>
 </programme>
-<programme start="20260326235000 +0000" stop="20260327010500 +0000" channel="MDTV.vision">
+<programme start="20260326235000 +0000" stop="20260327010000 +0000" channel="MDTV.vision">
 <title>AADD: Ada Apa Dengan Dunia</title>
 </programme>
-<programme start="20260327010500 +0000" stop="20260327015500 +0000" channel="MDTV.vision">
-<title>Fakta +62</title>
+<programme start="20260327010000 +0000" stop="20260327015000 +0000" channel="MDTV.vision">
+<title>Fakta 62</title>
 </programme>
-<programme start="20260327015500 +0000" stop="20260327025000 +0000" channel="MDTV.vision">
+<programme start="20260327015000 +0000" stop="20260327024500 +0000" channel="MDTV.vision">
 <title>Sensasihot</title>
+</programme>
+<programme start="20260327024500 +0000" stop="20260327033000 +0000" channel="MDTV.vision">
+<title>Maria Cinta Yang Hilang</title>
+</programme>
+<programme start="20260327033000 +0000" stop="20260327050500 +0000" channel="MDTV.vision">
+<title>Cinta Fitri S6</title>
 </programme>

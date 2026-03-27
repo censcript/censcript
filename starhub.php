@@ -260,7 +260,7 @@
         <title>Lakshmi Nivas</title>
     </programme>
     <programme start="20260327040000 +0000" stop="20260327070000 +0000" channel="Zee TV.starhub">
-        <title>Farrey</title>
+        <title>Rustom</title>
     </programme>
     <programme start="20260327070000 +0000" stop="20260327073000 +0000" channel="Zee TV.starhub">
         <title>Jaane Anjaane Hum Mile</title>

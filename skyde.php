@@ -959,22 +959,22 @@
     <title>Bundesliga 25/26: Borussia Dortmund - Hamburger SV</title>
 </programme>
 <programme start="20260327123000 +0000" stop="20260327130000 +0000" channel="DAZN 1 HD.skyde">
-    <title>Best of DAZN: Highlights</title>
-</programme>
-<programme start="20260327130000 +0000" stop="20260327133000 +0000" channel="DAZN 1 HD.skyde">
     <title>Google Pixel Frauen-Bundesliga Highlightshow 25/26: 21. Spieltag</title>
 </programme>
-<programme start="20260327133000 +0000" stop="20260327140000 +0000" channel="DAZN 1 HD.skyde">
+<programme start="20260327130000 +0000" stop="20260327133000 +0000" channel="DAZN 1 HD.skyde">
     <title>Doppelpack Europa - Highlights der Serie A und Ligue 1 25/26: 30./27. Spieltag</title>
 </programme>
-<programme start="20260327140000 +0000" stop="20260327160000 +0000" channel="DAZN 1 HD.skyde">
-    <title>Bundesliga 25/26: RB Leipzig - TSG 1899 Hoffenheim</title>
-</programme>
-<programme start="20260327160000 +0000" stop="20260327163500 +0000" channel="DAZN 1 HD.skyde">
+<programme start="20260327133000 +0000" stop="20260327140000 +0000" channel="DAZN 1 HD.skyde">
     <title>FC Bayern World Squad: Class of &#039;25 - Folge 1</title>
 </programme>
-<programme start="20260327163500 +0000" stop="20260327171500 +0000" channel="DAZN 1 HD.skyde">
-    <title>FC Bayern World Squad: Class of &#039;25 - Folge 2</title>
+<programme start="20260327140000 +0000" stop="20260327145000 +0000" channel="DAZN 1 HD.skyde">
+    <title>Best of DAZN: Highlights</title>
+</programme>
+<programme start="20260327145000 +0000" stop="20260327170000 +0000" channel="DAZN 1 HD.skyde">
+    <title>Freundschaftsspiele: Aserbaidschan - St. Lucia</title>
+</programme>
+<programme start="20260327170000 +0000" stop="20260327171500 +0000" channel="DAZN 1 HD.skyde">
+    <title>Best of DAZN: Highlights</title>
 </programme>
 <programme start="20260327171500 +0000" stop="20260327193500 +0000" channel="DAZN 1 HD.skyde">
     <title>Google Pixel Frauen Bundesliga 25/26: Carl Zeiss Jena - RB Leipzig</title>
@@ -1013,21 +1013,24 @@
     <title>LaLiga 25/26: Real Madrid - Atlético Madrid</title>
 </programme>
 <programme start="20260327162500 +0000" stop="20260327165000 +0000" channel="DAZN 2 HD.skyde">
-    <title>Fußball 25/26: TBC - TBC</title>
+    <title>Best of DAZN: Highlights</title>
 </programme>
 <programme start="20260327165000 +0000" stop="20260327190000 +0000" channel="DAZN 2 HD.skyde">
     <title>Freundschaftsspiele: Montenegro - Andorra</title>
 </programme>
-<programme start="20260327190000 +0000" stop="20260327193500 +0000" channel="DAZN 2 HD.skyde">
+<programme start="20260327190000 +0000" stop="20260327193000 +0000" channel="DAZN 2 HD.skyde">
     <title>Das Herz des deutschen Fußballs: Episode 1</title>
 </programme>
-<programme start="20260327193500 +0000" stop="20260327214500 +0000" channel="DAZN 2 HD.skyde">
-    <title>Freundschaftsspiele: Niederlande - Norwegen</title>
+<programme start="20260327193000 +0000" stop="20260327195000 +0000" channel="DAZN 2 HD.skyde">
+    <title>Best of DAZN: Highlights</title>
 </programme>
-<programme start="20260327214500 +0000" stop="20260327223000 +0000" channel="DAZN 2 HD.skyde">
+<programme start="20260327195000 +0000" stop="20260327220000 +0000" channel="DAZN 2 HD.skyde">
+    <title>Freundschaftsspiele: Spanien - Serbien</title>
+</programme>
+<programme start="20260327220000 +0000" stop="20260327224500 +0000" channel="DAZN 2 HD.skyde">
     <title>3. Liga Highlightshow 25/26: 30. Spieltag</title>
 </programme>
-<programme start="20260327223000 +0000" stop="20260327230000 +0000" channel="DAZN 2 HD.skyde">
+<programme start="20260327224500 +0000" stop="20260327230000 +0000" channel="DAZN 2 HD.skyde">
     <title>Best of DAZN: Highlights</title>
 </programme>
 <programme start="20260326233000 +0000" stop="20260327001000 +0000" channel="Heimatkanal.skyde">
@@ -3310,6 +3313,129 @@
 <programme start="20260327220000 +0000" stop="20260327230000 +0000" channel="Sky Sport News HD.skyde">
     <title>Live Sky Sport News: Late Night News</title>
 </programme>
+<programme start="20260326230000 +0000" stop="20260327000000 +0000" channel="Sky Sport Premier League HD.skyde">
+    <title>PL: GOATS (Flair Players)</title>
+</programme>
+<programme start="20260327000000 +0000" stop="20260327010000 +0000" channel="Sky Sport Premier League HD.skyde">
+    <title>PL: GOATS (Teenage Stars)</title>
+</programme>
+<programme start="20260327010000 +0000" stop="20260327030000 +0000" channel="Sky Sport Premier League HD.skyde">
+    <title>PL: Brighton &amp; Hove Albion - FC Liverpool, 31. Spieltag</title>
+</programme>
+<programme start="20260327030000 +0000" stop="20260327040000 +0000" channel="Sky Sport Premier League HD.skyde">
+    <title>PL: 1 to 11 (Dwight Yorke)</title>
+</programme>
+<programme start="20260327040000 +0000" stop="20260327050000 +0000" channel="Sky Sport Premier League HD.skyde">
+    <title>PL: 1 to 11 (Ruud Gullit)</title>
+</programme>
+<programme start="20260327050000 +0000" stop="20260327053000 +0000" channel="Sky Sport Premier League HD.skyde">
+    <title>PL: Netbusters, 1. Spieltag</title>
+</programme>
+<programme start="20260327053000 +0000" stop="20260327060000 +0000" channel="Sky Sport Premier League HD.skyde">
+    <title>PL: Netbusters, 2. Spieltag</title>
+</programme>
+<programme start="20260327060000 +0000" stop="20260327063000 +0000" channel="Sky Sport Premier League HD.skyde">
+    <title>PL: Netbusters, 3. Spieltag</title>
+</programme>
+<programme start="20260327063000 +0000" stop="20260327070000 +0000" channel="Sky Sport Premier League HD.skyde">
+    <title>PL: Netbusters, 4. Spieltag</title>
+</programme>
+<programme start="20260327070000 +0000" stop="20260327073000 +0000" channel="Sky Sport Premier League HD.skyde">
+    <title>PL: Netbusters, 5. Spieltag</title>
+</programme>
+<programme start="20260327073000 +0000" stop="20260327080000 +0000" channel="Sky Sport Premier League HD.skyde">
+    <title>PL: Netbusters, 6. Spieltag</title>
+</programme>
+<programme start="20260327080000 +0000" stop="20260327083000 +0000" channel="Sky Sport Premier League HD.skyde">
+    <title>PL: Netbusters, 7. Spieltag</title>
+</programme>
+<programme start="20260327083000 +0000" stop="20260327090000 +0000" channel="Sky Sport Premier League HD.skyde">
+    <title>PL: Netbusters, 8. Spieltag</title>
+</programme>
+<programme start="20260327090000 +0000" stop="20260327093000 +0000" channel="Sky Sport Premier League HD.skyde">
+    <title>PL: Netbusters, 9. Spieltag</title>
+</programme>
+<programme start="20260327093000 +0000" stop="20260327100000 +0000" channel="Sky Sport Premier League HD.skyde">
+    <title>PL: Netbusters, 10. Spieltag</title>
+</programme>
+<programme start="20260327100000 +0000" stop="20260327103000 +0000" channel="Sky Sport Premier League HD.skyde">
+    <title>PL: Netbusters, 11. Spieltag</title>
+</programme>
+<programme start="20260327103000 +0000" stop="20260327110000 +0000" channel="Sky Sport Premier League HD.skyde">
+    <title>PL: Netbusters, 12. Spieltag</title>
+</programme>
+<programme start="20260327110000 +0000" stop="20260327113000 +0000" channel="Sky Sport Premier League HD.skyde">
+    <title>PL: Netbusters, 13. Spieltag</title>
+</programme>
+<programme start="20260327113000 +0000" stop="20260327120000 +0000" channel="Sky Sport Premier League HD.skyde">
+    <title>PL: Netbusters, 14. Spieltag</title>
+</programme>
+<programme start="20260327120000 +0000" stop="20260327123000 +0000" channel="Sky Sport Premier League HD.skyde">
+    <title>PL: Netbusters, 15. Spieltag</title>
+</programme>
+<programme start="20260327123000 +0000" stop="20260327130000 +0000" channel="Sky Sport Premier League HD.skyde">
+    <title>PL: Netbusters, 16. Spieltag</title>
+</programme>
+<programme start="20260327130000 +0000" stop="20260327133000 +0000" channel="Sky Sport Premier League HD.skyde">
+    <title>PL: Netbusters, 17. Spieltag</title>
+</programme>
+<programme start="20260327133000 +0000" stop="20260327140000 +0000" channel="Sky Sport Premier League HD.skyde">
+    <title>PL: Netbusters, 18. Spieltag</title>
+</programme>
+<programme start="20260327140000 +0000" stop="20260327143000 +0000" channel="Sky Sport Premier League HD.skyde">
+    <title>PL: Netbusters, 19. Spieltag</title>
+</programme>
+<programme start="20260327143000 +0000" stop="20260327150000 +0000" channel="Sky Sport Premier League HD.skyde">
+    <title>PL: Netbusters, 20. Spieltag</title>
+</programme>
+<programme start="20260327150000 +0000" stop="20260327153000 +0000" channel="Sky Sport Premier League HD.skyde">
+    <title>PL: Netbusters, 21. Spieltag</title>
+</programme>
+<programme start="20260327153000 +0000" stop="20260327160000 +0000" channel="Sky Sport Premier League HD.skyde">
+    <title>PL: Netbusters, 22. Spieltag</title>
+</programme>
+<programme start="20260327160000 +0000" stop="20260327163000 +0000" channel="Sky Sport Premier League HD.skyde">
+    <title>PL: Netbusters, 23. Spieltag</title>
+</programme>
+<programme start="20260327163000 +0000" stop="20260327170000 +0000" channel="Sky Sport Premier League HD.skyde">
+    <title>PL: Netbusters, 24. Spieltag</title>
+</programme>
+<programme start="20260327170000 +0000" stop="20260327173000 +0000" channel="Sky Sport Premier League HD.skyde">
+    <title>PL: Netbusters, 25. Spieltag</title>
+</programme>
+<programme start="20260327173000 +0000" stop="20260327180000 +0000" channel="Sky Sport Premier League HD.skyde">
+    <title>PL: Netbusters, 26. Spieltag</title>
+</programme>
+<programme start="20260327180000 +0000" stop="20260327183000 +0000" channel="Sky Sport Premier League HD.skyde">
+    <title>PL: Netbusters, 27. Spieltag</title>
+</programme>
+<programme start="20260327183000 +0000" stop="20260327190000 +0000" channel="Sky Sport Premier League HD.skyde">
+    <title>PL: Netbusters, 28. Spieltag</title>
+</programme>
+<programme start="20260327190000 +0000" stop="20260327193000 +0000" channel="Sky Sport Premier League HD.skyde">
+    <title>PL: Netbusters, 29. Spieltag</title>
+</programme>
+<programme start="20260327193000 +0000" stop="20260327200000 +0000" channel="Sky Sport Premier League HD.skyde">
+    <title>PL: Netbusters, 30. Spieltag</title>
+</programme>
+<programme start="20260327200000 +0000" stop="20260327203000 +0000" channel="Sky Sport Premier League HD.skyde">
+    <title>PL: Netbusters, 31. Spieltag</title>
+</programme>
+<programme start="20260327203000 +0000" stop="20260327210000 +0000" channel="Sky Sport Premier League HD.skyde">
+    <title>Carabao Cup: 90in30: ARS - MCI, Finale 2026 in Wembley</title>
+</programme>
+<programme start="20260327210000 +0000" stop="20260327213000 +0000" channel="Sky Sport Premier League HD.skyde">
+    <title>PL: Classic Match: FC Liverpool - AFC Bournemouth (2022/23)</title>
+</programme>
+<programme start="20260327213000 +0000" stop="20260327220000 +0000" channel="Sky Sport Premier League HD.skyde">
+    <title>PL: Classic Match: Nottingham Forest - Manchester United (1998/99)</title>
+</programme>
+<programme start="20260327220000 +0000" stop="20260327223000 +0000" channel="Sky Sport Premier League HD.skyde">
+    <title>PL: Classic Match: West Ham United - FC Arsenal (2015/16)</title>
+</programme>
+<programme start="20260327223000 +0000" stop="20260327230000 +0000" channel="Sky Sport Premier League HD.skyde">
+    <title>PL: Classic Match: FC Everton - Manchester City (2013/14)</title>
+</programme>
 <programme start="20260326230000 +0000" stop="20260327010000 +0000" channel="Sky Sport Tennis HD.skyde">
     <title>Live ATP 1000: A. Zverev (GER) - F. Cerúndolo (ARG), Miami Open presented by Itaú in Miami, Florida (USA), Viertelfinale 4</title>
 </programme>
@@ -3361,10 +3487,10 @@
 <programme start="20260327225500 +0000" stop="20260328010000 +0000" channel="Sky Sport Tennis HD.skyde">
     <title>Live ATP 1000: HF2, Miami Open presented by Itaú in Miami, Florida (USA), Halbfinale 2</title>
 </programme>
-<programme start="20260326230000 +0000" stop="20260327010000 +0000" channel="Sky Sport Top Event HD.skyde">
+<programme start="20260326230000 +0000" stop="20260327004500 +0000" channel="Sky Sport Top Event HD.skyde">
     <title>Live ATP 1000: A. Zverev (GER) - F. Cerúndolo (ARG), Miami Open presented by Itaú in Miami, Florida (USA), Viertelfinale 4</title>
 </programme>
-<programme start="20260327010000 +0000" stop="20260327023000 +0000" channel="Sky Sport Top Event HD.skyde">
+<programme start="20260327004500 +0000" stop="20260327023000 +0000" channel="Sky Sport Top Event HD.skyde">
     <title>Live WTA 1000: A. Sabalenka - E. Rybakina (KAZ), Miami Open presented by Itaú in Miami, Florida (USA), Halbfinale 2</title>
 </programme>
 <programme start="20260327023000 +0000" stop="20260327040000 +0000" channel="Sky Sport Top Event HD.skyde">
@@ -3428,7 +3554,7 @@
     <title>Live LPGA: Ford Championship presented by Wild Horse Pass, 2. Tag in Phoenix, AZ (USA)</title>
 </programme>
 <programme start="20260327225500 +0000" stop="20260328010000 +0000" channel="Sky Sport Top Event HD.skyde">
-    <title>Live ATP 1000: HF2, Miami Open presented by Itaú in Miami, Florida (USA), Halbfinale 2</title>
+    <title>Live ATP 1000: A. Zverev (GER) - J. Sinner (ITA), Miami Open presented by Itaú in Miami, Florida (USA), Halbfinale 2</title>
 </programme>
 <programme start="20260327001500 +0000" stop="20260327021500 +0000" channel="Sky Sport UHD.skyde">
     <title>F1: Rennen - GP China</title>
@@ -4021,25 +4147,25 @@
 <programme start="20260327053000 +0000" stop="20260327055500 +0000" channel="Warner TV Comedy HD.skyde">
     <title>Friends</title>
 </programme>
-<programme start="20260327055500 +0000" stop="20260327062500 +0000" channel="Warner TV Comedy HD.skyde">
+<programme start="20260327055500 +0000" stop="20260327062000 +0000" channel="Warner TV Comedy HD.skyde">
     <title>Friends</title>
 </programme>
-<programme start="20260327062500 +0000" stop="20260327065000 +0000" channel="Warner TV Comedy HD.skyde">
+<programme start="20260327062000 +0000" stop="20260327064500 +0000" channel="Warner TV Comedy HD.skyde">
     <title>Friends</title>
 </programme>
-<programme start="20260327065000 +0000" stop="20260327071500 +0000" channel="Warner TV Comedy HD.skyde">
+<programme start="20260327064500 +0000" stop="20260327071000 +0000" channel="Warner TV Comedy HD.skyde">
     <title>Friends</title>
 </programme>
-<programme start="20260327071500 +0000" stop="20260327074000 +0000" channel="Warner TV Comedy HD.skyde">
+<programme start="20260327071000 +0000" stop="20260327074000 +0000" channel="Warner TV Comedy HD.skyde">
     <title>Friends</title>
 </programme>
 <programme start="20260327074000 +0000" stop="20260327080500 +0000" channel="Warner TV Comedy HD.skyde">
     <title>Die Nanny</title>
 </programme>
-<programme start="20260327080500 +0000" stop="20260327083000 +0000" channel="Warner TV Comedy HD.skyde">
+<programme start="20260327080500 +0000" stop="20260327083500 +0000" channel="Warner TV Comedy HD.skyde">
     <title>Die Nanny</title>
 </programme>
-<programme start="20260327083000 +0000" stop="20260327090000 +0000" channel="Warner TV Comedy HD.skyde">
+<programme start="20260327083500 +0000" stop="20260327090000 +0000" channel="Warner TV Comedy HD.skyde">
     <title>Die Nanny</title>
 </programme>
 <programme start="20260327090000 +0000" stop="20260327092500 +0000" channel="Warner TV Comedy HD.skyde">
@@ -4105,10 +4231,10 @@
 <programme start="20260327171500 +0000" stop="20260327174000 +0000" channel="Warner TV Comedy HD.skyde">
     <title>2 Broke Girls</title>
 </programme>
-<programme start="20260327174000 +0000" stop="20260327180500 +0000" channel="Warner TV Comedy HD.skyde">
+<programme start="20260327174000 +0000" stop="20260327180000 +0000" channel="Warner TV Comedy HD.skyde">
     <title>The Big Bang Theory</title>
 </programme>
-<programme start="20260327180500 +0000" stop="20260327182500 +0000" channel="Warner TV Comedy HD.skyde">
+<programme start="20260327180000 +0000" stop="20260327182500 +0000" channel="Warner TV Comedy HD.skyde">
     <title>The Big Bang Theory</title>
 </programme>
 <programme start="20260327182500 +0000" stop="20260327185000 +0000" channel="Warner TV Comedy HD.skyde">
@@ -4141,16 +4267,16 @@
 <programme start="20260327214500 +0000" stop="20260327215500 +0000" channel="Warner TV Comedy HD.skyde">
     <title>Robot Chicken</title>
 </programme>
-<programme start="20260327215500 +0000" stop="20260327221000 +0000" channel="Warner TV Comedy HD.skyde">
+<programme start="20260327215500 +0000" stop="20260327220500 +0000" channel="Warner TV Comedy HD.skyde">
     <title>Robot Chicken</title>
 </programme>
-<programme start="20260327221000 +0000" stop="20260327223000 +0000" channel="Warner TV Comedy HD.skyde">
+<programme start="20260327220500 +0000" stop="20260327223000 +0000" channel="Warner TV Comedy HD.skyde">
     <title>Harley Quinn</title>
 </programme>
 <programme start="20260327223000 +0000" stop="20260327225500 +0000" channel="Warner TV Comedy HD.skyde">
     <title>Harley Quinn</title>
 </programme>
-<programme start="20260327225500 +0000" stop="20260327232000 +0000" channel="Warner TV Comedy HD.skyde">
+<programme start="20260327225500 +0000" stop="20260327231500 +0000" channel="Warner TV Comedy HD.skyde">
     <title>Two and a Half Men</title>
 </programme>
 <programme start="20260326230000 +0000" stop="20260327005500 +0000" channel="Warner TV Film.skyde">
@@ -4273,34 +4399,34 @@
 <programme start="20260327045000 +0000" stop="20260327053500 +0000" channel="Warner TV Serie HD.skyde">
     <title>Daktari</title>
 </programme>
-<programme start="20260327053500 +0000" stop="20260327063500 +0000" channel="Warner TV Serie HD.skyde">
+<programme start="20260327053500 +0000" stop="20260327063000 +0000" channel="Warner TV Serie HD.skyde">
     <title>Daktari</title>
 </programme>
-<programme start="20260327063500 +0000" stop="20260327072500 +0000" channel="Warner TV Serie HD.skyde">
+<programme start="20260327063000 +0000" stop="20260327072500 +0000" channel="Warner TV Serie HD.skyde">
     <title>Daktari</title>
 </programme>
-<programme start="20260327072500 +0000" stop="20260327082000 +0000" channel="Warner TV Serie HD.skyde">
+<programme start="20260327072500 +0000" stop="20260327081500 +0000" channel="Warner TV Serie HD.skyde">
     <title>Daktari</title>
 </programme>
-<programme start="20260327082000 +0000" stop="20260327091000 +0000" channel="Warner TV Serie HD.skyde">
+<programme start="20260327081500 +0000" stop="20260327090500 +0000" channel="Warner TV Serie HD.skyde">
     <title>Mord ist ihr Hobby</title>
 </programme>
-<programme start="20260327091000 +0000" stop="20260327100000 +0000" channel="Warner TV Serie HD.skyde">
+<programme start="20260327090500 +0000" stop="20260327095500 +0000" channel="Warner TV Serie HD.skyde">
     <title>Mord ist ihr Hobby</title>
 </programme>
-<programme start="20260327100000 +0000" stop="20260327105000 +0000" channel="Warner TV Serie HD.skyde">
+<programme start="20260327095500 +0000" stop="20260327104500 +0000" channel="Warner TV Serie HD.skyde">
     <title>Mord ist ihr Hobby</title>
 </programme>
-<programme start="20260327105000 +0000" stop="20260327114000 +0000" channel="Warner TV Serie HD.skyde">
+<programme start="20260327104500 +0000" stop="20260327113500 +0000" channel="Warner TV Serie HD.skyde">
     <title>Mord ist ihr Hobby</title>
 </programme>
-<programme start="20260327114000 +0000" stop="20260327122500 +0000" channel="Warner TV Serie HD.skyde">
+<programme start="20260327113500 +0000" stop="20260327122000 +0000" channel="Warner TV Serie HD.skyde">
     <title>Rizzoli and Isles</title>
 </programme>
-<programme start="20260327122500 +0000" stop="20260327131000 +0000" channel="Warner TV Serie HD.skyde">
+<programme start="20260327122000 +0000" stop="20260327130500 +0000" channel="Warner TV Serie HD.skyde">
     <title>Rizzoli and Isles</title>
 </programme>
-<programme start="20260327131000 +0000" stop="20260327135500 +0000" channel="Warner TV Serie HD.skyde">
+<programme start="20260327130500 +0000" stop="20260327135500 +0000" channel="Warner TV Serie HD.skyde">
     <title>NCIS</title>
 </programme>
 <programme start="20260327135500 +0000" stop="20260327144000 +0000" channel="Warner TV Serie HD.skyde">
@@ -4327,10 +4453,10 @@
 <programme start="20260327191500 +0000" stop="20260327200000 +0000" channel="Warner TV Serie HD.skyde">
     <title>Fringe</title>
 </programme>
-<programme start="20260327200000 +0000" stop="20260327205000 +0000" channel="Warner TV Serie HD.skyde">
+<programme start="20260327200000 +0000" stop="20260327204500 +0000" channel="Warner TV Serie HD.skyde">
     <title>Fringe</title>
 </programme>
-<programme start="20260327205000 +0000" stop="20260327213500 +0000" channel="Warner TV Serie HD.skyde">
+<programme start="20260327204500 +0000" stop="20260327213500 +0000" channel="Warner TV Serie HD.skyde">
     <title>Fringe</title>
 </programme>
 <programme start="20260327213500 +0000" stop="20260327222000 +0000" channel="Warner TV Serie HD.skyde">
