@@ -2677,7 +2677,7 @@
 <programme start="20260327224500 +0000" stop="20260327231500 +0000" channel="Sky Sport Austria 1 HD.skyde">
     <title>Admiral BL: 100% Rapid (Runden 21-24)</title>
 </programme>
-<programme start="20260327005000 +0000" stop="20260327021500 +0000" channel="Sky Sport Austria 2 HD.skyde">
+<programme start="20260326230000 +0000" stop="20260327090000 +0000" channel="Sky Sport Austria 2 HD.skyde">
     <title>Live WTA 1000: A. Sabalenka - E. Rybakina (KAZ), Miami Open presented by Itaú in Miami, Florida (USA), Halbfinale 2</title>
 </programme>
 <programme start="20260327090000 +0000" stop="20260327090500 +0000" channel="Sky Sport Austria 4 HD.skyde">
@@ -3436,38 +3436,41 @@
 <programme start="20260327223000 +0000" stop="20260327230000 +0000" channel="Sky Sport Premier League HD.skyde">
     <title>PL: Classic Match: FC Everton - Manchester City (2013/14)</title>
 </programme>
-<programme start="20260326230000 +0000" stop="20260327004500 +0000" channel="Sky Sport Tennis HD.skyde">
+<programme start="20260326230000 +0000" stop="20260327010000 +0000" channel="Sky Sport Tennis HD.skyde">
     <title>Live ATP 1000: A. Zverev (GER) - F. Cerúndolo (ARG), Miami Open presented by Itaú in Miami, Florida (USA), Viertelfinale 4</title>
 </programme>
-<programme start="20260327004500 +0000" stop="20260327020500 +0000" channel="Sky Sport Tennis HD.skyde">
+<programme start="20260327010000 +0000" stop="20260327030000 +0000" channel="Sky Sport Tennis HD.skyde">
     <title>Live WTA 1000: A. Sabalenka - E. Rybakina (KAZ), Miami Open presented by Itaú in Miami, Florida (USA), Halbfinale 2</title>
 </programme>
-<programme start="20260327030000 +0000" stop="20260327043000 +0000" channel="Sky Sport Tennis HD.skyde">
+<programme start="20260327030000 +0000" stop="20260327050000 +0000" channel="Sky Sport Tennis HD.skyde">
     <title>ATP 1000: F. Tiafoe (USA) - J. Sinner (ITA), Miami Open presented by Itaú in Miami, Florida (USA), Viertelfinale 3</title>
 </programme>
-<programme start="20260327043000 +0000" stop="20260327061500 +0000" channel="Sky Sport Tennis HD.skyde">
-    <title>WTA 1000: C. Gauff (USA) - K. Muchova (CZE), Miami Open presented by Itaú in Miami, Florida (USA), Halbfinale 1</title>
+<programme start="20260327050000 +0000" stop="20260327070000 +0000" channel="Sky Sport Tennis HD.skyde">
+    <title>WTA 1000: C. Gauff (USA) - K. Muchová (CZE), Miami Open presented by Itaú in Miami, Florida (USA), Halbfinale 1</title>
 </programme>
-<programme start="20260327063000 +0000" stop="20260327073000 +0000" channel="Sky Sport Tennis HD.skyde">
-    <title>ATP 1000: A. Zverev (GER) - F. Cerundolo (ARG), Miami Open presented by Itaú in Miami, Florida (USA), Viertelfinale 4</title>
+<programme start="20260327070000 +0000" stop="20260327090000 +0000" channel="Sky Sport Tennis HD.skyde">
+    <title>ATP 1000: A. Zverev (GER) - F. Cerúndolo (ARG), Miami Open presented by Itaú in Miami, Florida (USA), Viertelfinale 4</title>
 </programme>
-<programme start="20260327073000 +0000" stop="20260327090000 +0000" channel="Sky Sport Tennis HD.skyde">
+<programme start="20260327090000 +0000" stop="20260327110000 +0000" channel="Sky Sport Tennis HD.skyde">
     <title>WTA 1000: A. Sabalenka - E. Rybakina (KAZ), Miami Open presented by Itaú in Miami, Florida (USA), Halbfinale 2</title>
 </programme>
 <programme start="20260327110000 +0000" stop="20260327120000 +0000" channel="Sky Sport Tennis HD.skyde">
     <title>ATP 1000: Review Indian Wells</title>
 </programme>
-<programme start="20260327133000 +0000" stop="20260327140000 +0000" channel="Sky Sport Tennis HD.skyde">
+<programme start="20260327120000 +0000" stop="20260327140000 +0000" channel="Sky Sport Tennis HD.skyde">
+    <title>WTA 1000: C. Gauff (USA) - K. Muchová (CZE), Miami Open presented by Itaú in Miami, Florida (USA), Halbfinale 1</title>
+</programme>
+<programme start="20260327140000 +0000" stop="20260327143000 +0000" channel="Sky Sport Tennis HD.skyde">
     <title>ATP: This Week</title>
 </programme>
-<programme start="20260327140000 +0000" stop="20260327153000 +0000" channel="Sky Sport Tennis HD.skyde">
+<programme start="20260327143000 +0000" stop="20260327163000 +0000" channel="Sky Sport Tennis HD.skyde">
     <title>ATP 1000: F. Tiafoe (USA) - J. Sinner (ITA), Miami Open presented by Itaú in Miami, Florida (USA), Viertelfinale 3</title>
 </programme>
-<programme start="20260327171000 +0000" stop="20260327173500 +0000" channel="Sky Sport Tennis HD.skyde">
+<programme start="20260327163000 +0000" stop="20260327165500 +0000" channel="Sky Sport Tennis HD.skyde">
     <title>Tennis: Rafael Nadal - The No. 1 Story</title>
 </programme>
-<programme start="20260327173500 +0000" stop="20260327185500 +0000" channel="Sky Sport Tennis HD.skyde">
-    <title>ATP 1000: A. Zverev (GER) - F. Cerundolo (ARG), Miami Open presented by Itaú in Miami, Florida (USA), Viertelfinale 4</title>
+<programme start="20260327165500 +0000" stop="20260327185500 +0000" channel="Sky Sport Tennis HD.skyde">
+    <title>ATP 1000: A. Zverev (GER) - F. Cerúndolo (ARG), Miami Open presented by Itaú in Miami, Florida (USA), Viertelfinale 4</title>
 </programme>
 <programme start="20260327185500 +0000" stop="20260327210000 +0000" channel="Sky Sport Tennis HD.skyde">
     <title>Live ATP 1000: J. Lehecka (CZE) - A. Fils (FRA), Miami Open presented by Itaú in Miami, Florida (USA), Halbfinale 1</title>
@@ -3482,15 +3485,15 @@
     <title>ATP: The Impossible Shot - Behind The Scenes</title>
 </programme>
 <programme start="20260327225500 +0000" stop="20260328010000 +0000" channel="Sky Sport Tennis HD.skyde">
-    <title>Live ATP 1000: A. Zverev (GER) - J. Sinner (ITA), Miami Open presented by Itaú in Miami, Florida (USA), Halbfinale 2</title>
+    <title>Live ATP 1000: HF2, Miami Open presented by Itaú in Miami, Florida (USA), Halbfinale 2</title>
 </programme>
-<programme start="20260326230000 +0000" stop="20260327004500 +0000" channel="Sky Sport Top Event HD.skyde">
+<programme start="20260326230000 +0000" stop="20260327010000 +0000" channel="Sky Sport Top Event HD.skyde">
     <title>Live ATP 1000: A. Zverev (GER) - F. Cerúndolo (ARG), Miami Open presented by Itaú in Miami, Florida (USA), Viertelfinale 4</title>
 </programme>
-<programme start="20260327004500 +0000" stop="20260327021500 +0000" channel="Sky Sport Top Event HD.skyde">
+<programme start="20260327010000 +0000" stop="20260327023000 +0000" channel="Sky Sport Top Event HD.skyde">
     <title>Live WTA 1000: A. Sabalenka - E. Rybakina (KAZ), Miami Open presented by Itaú in Miami, Florida (USA), Halbfinale 2</title>
 </programme>
-<programme start="20260327021500 +0000" stop="20260327040000 +0000" channel="Sky Sport Top Event HD.skyde">
+<programme start="20260327023000 +0000" stop="20260327040000 +0000" channel="Sky Sport Top Event HD.skyde">
     <title>Live F1: 1. Freies Training - GP Japan</title>
 </programme>
 <programme start="20260327040000 +0000" stop="20260327043000 +0000" channel="Sky Sport Top Event HD.skyde">
@@ -3551,7 +3554,7 @@
     <title>Live LPGA: Ford Championship presented by Wild Horse Pass, 2. Tag in Phoenix, AZ (USA)</title>
 </programme>
 <programme start="20260327225500 +0000" stop="20260328010000 +0000" channel="Sky Sport Top Event HD.skyde">
-    <title>Live ATP 1000: A. Zverev (GER) - J. Sinner (ITA), Miami Open presented by Itaú in Miami, Florida (USA), Halbfinale 2</title>
+    <title>Live ATP 1000: HF2, Miami Open presented by Itaú in Miami, Florida (USA), Halbfinale 2</title>
 </programme>
 <programme start="20260327001500 +0000" stop="20260327021500 +0000" channel="Sky Sport UHD.skyde">
     <title>F1: Rennen - GP China</title>

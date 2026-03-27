@@ -382,45 +382,7 @@
 <programme start="20260327163000 +0000" stop="20260326170000 +0000" channel="Animax.mncvision">
     <title>I&#039;ll Become Villainess..., Ep 2</title>
 </programme>
-<programme start="20260326180000 +0000" stop="20260326193000 +0000" channel="ANTV.mncvision">
-    <title>Brave</title>
-</programme>
-<programme start="20260326193000 +0000" stop="20260326213000 +0000" channel="ANTV.mncvision">
-    <title>Viral</title>
-</programme>
-<programme start="20260326213000 +0000" stop="20260326230000 +0000" channel="ANTV.mncvision">
-    <title>Pantai Norasingha</title>
-</programme>
-<programme start="20260326230000 +0000" stop="20260327003000 +0000" channel="ANTV.mncvision">
-    <title>Me &amp; You &amp; A Girl Name Ugly</title>
-</programme>
-<programme start="20260327003000 +0000" stop="20260327023000 +0000" channel="ANTV.mncvision">
-    <title>Janji Cinta Inspektur Virat</title>
-</programme>
-<programme start="20260327023000 +0000" stop="20260327060000 +0000" channel="ANTV.mncvision">
-    <title>Ek Tha Tiger</title>
-</programme>
-<programme start="20260327060000 +0000" stop="20260327080000 +0000" channel="ANTV.mncvision">
-    <title>Jhanak</title>
-</programme>
-<programme start="20260327080000 +0000" stop="20260327090000 +0000" channel="ANTV.mncvision">
-    <title>Teri Meri Doriyaann</title>
-</programme>
-<programme start="20260327090000 +0000" stop="20260327110000 +0000" channel="ANTV.mncvision">
-    <title>Vasudha</title>
-</programme>
-<programme start="20260327110000 +0000" stop="20260327130000 +0000" channel="ANTV.mncvision">
-    <title>Bunga Desa</title>
-</programme>
-<programme start="20260327130000 +0000" stop="20260327143000 +0000" channel="ANTV.mncvision">
-    <title>Nyi Blorong</title>
-</programme>
-<programme start="20260327143000 +0000" stop="20260327163000 +0000" channel="ANTV.mncvision">
-    <title>Kuntilanak: Lingsir Wengi</title>
-</programme>
-<programme start="20260327163000 +0000" stop="20260326170000 +0000" channel="ANTV.mncvision">
-    <title>Black Cat</title>
-</programme>
+Error: Unable to fetch data. HTTP Status Code: 500
 <programme start="20260326170000 +0000" stop="20260326173000 +0000" channel="Arirang.mncvision">
     <title>K-Culture Dive</title>
 </programme>
@@ -8470,45 +8432,7 @@
 <programme start="20260327135500 +0000" stop="20260327142500 +0000" channel="SPOTV 2.mncvision">
     <title>MotoGP Red Bull Grand Prix (L)</title>
 </programme>
-<programme start="20260326170000 +0000" stop="20260326180000 +0000" channel="SPOTV 2 HD.mncvision">
-    <title>Idemitsu Moto4 Asia Cup: THA</title>
-</programme>
-<programme start="20260326180000 +0000" stop="20260326201000 +0000" channel="SPOTV 2 HD.mncvision">
-    <title>World Baseball Classic</title>
-</programme>
-<programme start="20260326201000 +0000" stop="20260326223000 +0000" channel="SPOTV 2 HD.mncvision">
-    <title>World Baseball Classic</title>
-</programme>
-<programme start="20260326223000 +0000" stop="20260327005500 +0000" channel="SPOTV 2 HD.mncvision">
-    <title>World Baseball Classic</title>
-</programme>
-<programme start="20260327005500 +0000" stop="20260327043000 +0000" channel="SPOTV 2 HD.mncvision">
-    <title>2026 NASCAR Goodyear 400</title>
-</programme>
-<programme start="20260327043000 +0000" stop="20260327053000 +0000" channel="SPOTV 2 HD.mncvision">
-    <title>2026 PBR: Unleash The Beast</title>
-</programme>
-<programme start="20260327053000 +0000" stop="20260327060000 +0000" channel="SPOTV 2 HD.mncvision">
-    <title>WPBL S2 Mumbai Highlights</title>
-</programme>
-<programme start="20260327060000 +0000" stop="20260327080000 +0000" channel="SPOTV 2 HD.mncvision">
-    <title>World Baseball Classic</title>
-</programme>
-<programme start="20260327080000 +0000" stop="20260327123000 +0000" channel="SPOTV 2 HD.mncvision">
-    <title>MotoGP Estrella Galicia</title>
-</programme>
-<programme start="20260327123000 +0000" stop="20260327130000 +0000" channel="SPOTV 2 HD.mncvision">
-    <title>2025/26 A-League Men HL</title>
-</programme>
-<programme start="20260327130000 +0000" stop="20260327133000 +0000" channel="SPOTV 2 HD.mncvision">
-    <title>2026 MotoGP Rewind: Brazil</title>
-</programme>
-<programme start="20260327133000 +0000" stop="20260327135500 +0000" channel="SPOTV 2 HD.mncvision">
-    <title>MotoGP Hall Of Fame Dinner</title>
-</programme>
-<programme start="20260327135500 +0000" stop="20260327142500 +0000" channel="SPOTV 2 HD.mncvision">
-    <title>MotoGP Red Bull Grand Prix (L)</title>
-</programme>
+Error: Unable to fetch data. HTTP Status Code: 500
 <programme start="20260326180000 +0000" stop="20260326210000 +0000" channel="SPOTV HD.mncvision">
     <title>Australian WPGA Championship</title>
 </programme>
