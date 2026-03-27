@@ -7279,7 +7279,42 @@
 <programme start="20260328165400 +0000" stop="20260327172400 +0000" channel="ORIGINALS.mncvision">
     <title>Gold</title>
 </programme>
-Error: Unable to fetch data. HTTP Status Code: 500
+<programme start="20260327183500 +0000" stop="20260327221700 +0000" channel="ORIGINALS HD.mncvision">
+    <title>Platinum</title>
+</programme>
+<programme start="20260327221700 +0000" stop="20260328000600 +0000" channel="ORIGINALS HD.mncvision">
+    <title>Gold</title>
+</programme>
+<programme start="20260328000600 +0000" stop="20260328020300 +0000" channel="ORIGINALS HD.mncvision">
+    <title>Hollywoo</title>
+</programme>
+<programme start="20260328020300 +0000" stop="20260328034300 +0000" channel="ORIGINALS HD.mncvision">
+    <title>The Young And Prodigious...</title>
+</programme>
+<programme start="20260328034300 +0000" stop="20260328054600 +0000" channel="ORIGINALS HD.mncvision">
+    <title>Platinum</title>
+</programme>
+<programme start="20260328054600 +0000" stop="20260328073600 +0000" channel="ORIGINALS HD.mncvision">
+    <title>Good Time</title>
+</programme>
+<programme start="20260328073600 +0000" stop="20260328094600 +0000" channel="ORIGINALS HD.mncvision">
+    <title>Gold</title>
+</programme>
+<programme start="20260328094600 +0000" stop="20260328111600 +0000" channel="ORIGINALS HD.mncvision">
+    <title>Homestead</title>
+</programme>
+<programme start="20260328111600 +0000" stop="20260328125800 +0000" channel="ORIGINALS HD.mncvision">
+    <title>Tom&#039;s Midnight Garden</title>
+</programme>
+<programme start="20260328125800 +0000" stop="20260328150400 +0000" channel="ORIGINALS HD.mncvision">
+    <title>Platinum</title>
+</programme>
+<programme start="20260328150400 +0000" stop="20260328165400 +0000" channel="ORIGINALS HD.mncvision">
+    <title>On The Line</title>
+</programme>
+<programme start="20260328165400 +0000" stop="20260327172400 +0000" channel="ORIGINALS HD.mncvision">
+    <title>Gold</title>
+</programme>
 <programme start="20260327170000 +0000" stop="20260327173000 +0000" channel="Outdoor Channel.mncvision">
     <title>Hardcore Carnivore S1, Ep 5</title>
 </programme>

@@ -2677,7 +2677,7 @@
 <programme start="20260327224500 +0000" stop="20260327231500 +0000" channel="Sky Sport Austria 1 HD.skyde">
     <title>Admiral BL: 100% Rapid (Runden 21-24)</title>
 </programme>
-<programme start="20260327005000 +0000" stop="20260327021500 +0000" channel="Sky Sport Austria 2 HD.skyde">
+<programme start="20260327010000 +0000" stop="20260327090000 +0000" channel="Sky Sport Austria 2 HD.skyde">
     <title>Live WTA 1000: A. Sabalenka - E. Rybakina (KAZ), Miami Open presented by Itaú in Miami, Florida (USA), Halbfinale 2</title>
 </programme>
 <programme start="20260327090000 +0000" stop="20260327090500 +0000" channel="Sky Sport Austria 4 HD.skyde">
@@ -3442,9 +3442,6 @@
 <programme start="20260327004500 +0000" stop="20260327020500 +0000" channel="Sky Sport Tennis HD.skyde">
     <title>Live WTA 1000: A. Sabalenka - E. Rybakina (KAZ), Miami Open presented by Itaú in Miami, Florida (USA), Halbfinale 2</title>
 </programme>
-<programme start="20260327020500 +0000" stop="20260327030000 +0000" channel="Sky Sport Tennis HD.skyde">
-    <title>ATP 1000: Review Indian Wells</title>
-</programme>
 <programme start="20260327030000 +0000" stop="20260327043000 +0000" channel="Sky Sport Tennis HD.skyde">
     <title>ATP 1000: F. Tiafoe (USA) - J. Sinner (ITA), Miami Open presented by Itaú in Miami, Florida (USA), Viertelfinale 3</title>
 </programme>
@@ -3457,23 +3454,14 @@
 <programme start="20260327073000 +0000" stop="20260327090000 +0000" channel="Sky Sport Tennis HD.skyde">
     <title>WTA 1000: A. Sabalenka - E. Rybakina (KAZ), Miami Open presented by Itaú in Miami, Florida (USA), Halbfinale 2</title>
 </programme>
-<programme start="20260327090000 +0000" stop="20260327110000 +0000" channel="Sky Sport Tennis HD.skyde">
-    <title>WTA 1000: C. Gauff (USA) - K. Muchova (CZE), Miami Open presented by Itaú in Miami, Florida (USA), Halbfinale 1</title>
-</programme>
 <programme start="20260327110000 +0000" stop="20260327120000 +0000" channel="Sky Sport Tennis HD.skyde">
     <title>ATP 1000: Review Indian Wells</title>
-</programme>
-<programme start="20260327120000 +0000" stop="20260327133000 +0000" channel="Sky Sport Tennis HD.skyde">
-    <title>WTA 1000: A. Sabalenka - E. Rybakina (KAZ), Miami Open presented by Itaú in Miami, Florida (USA), Halbfinale 2</title>
 </programme>
 <programme start="20260327133000 +0000" stop="20260327140000 +0000" channel="Sky Sport Tennis HD.skyde">
     <title>ATP: This Week</title>
 </programme>
 <programme start="20260327140000 +0000" stop="20260327153000 +0000" channel="Sky Sport Tennis HD.skyde">
     <title>ATP 1000: F. Tiafoe (USA) - J. Sinner (ITA), Miami Open presented by Itaú in Miami, Florida (USA), Viertelfinale 3</title>
-</programme>
-<programme start="20260327153000 +0000" stop="20260327171000 +0000" channel="Sky Sport Tennis HD.skyde">
-    <title>WTA 1000: C. Gauff (USA) - K. Muchova (CZE), Miami Open presented by Itaú in Miami, Florida (USA), Halbfinale 1</title>
 </programme>
 <programme start="20260327171000 +0000" stop="20260327173500 +0000" channel="Sky Sport Tennis HD.skyde">
     <title>Tennis: Rafael Nadal - The No. 1 Story</title>

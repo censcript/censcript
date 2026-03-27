@@ -2095,11 +2095,23 @@
     <programme start="20260327223000 +0000" stop="20260328010000 +0000" channel="KTV HD.starhub">
         <title>Movie - Galatta Ganapathy</title>
     </programme>
-    <programme start="20260328040000 +0000" stop="20260328100000 +0000" channel="KTV HD.starhub">
-        <title>Information Not Available</title>
+    <programme start="20260328010000 +0000" stop="20260328013000 +0000" channel="KTV HD.starhub">
+        <title>Fillers</title>
     </programme>
-    <programme start="20260328100000 +0000" stop="20260328160000 +0000" channel="KTV HD.starhub">
-        <title>Information Not Available</title>
+    <programme start="20260328013000 +0000" stop="20260328043000 +0000" channel="KTV HD.starhub">
+        <title>Movie - Thiruthani</title>
+    </programme>
+    <programme start="20260328043000 +0000" stop="20260328073000 +0000" channel="KTV HD.starhub">
+        <title>Movie - Mella Thiranthahu Kathavu</title>
+    </programme>
+    <programme start="20260328073000 +0000" stop="20260328103000 +0000" channel="KTV HD.starhub">
+        <title>Movie - Oorkaavalan</title>
+    </programme>
+    <programme start="20260328103000 +0000" stop="20260328133000 +0000" channel="KTV HD.starhub">
+        <title>Movie - Aram</title>
+    </programme>
+    <programme start="20260328133000 +0000" stop="20260328170000 +0000" channel="KTV HD.starhub">
+        <title>Movie - Komban</title>
     </programme>
     <programme start="20260327153000 +0000" stop="20260327170000 +0000" channel="beIN Sports 2 HD.starhub">
         <title>Premier Padel 2026: Miami P1 Day 5 QF Match 2 (Live)</title>
@@ -6029,7 +6041,7 @@
         <title>2000 Evening News (Live)</title>
     </programme>
     <programme start="20260328130000 +0000" stop="20260328140000 +0000" channel="TVBS-NEWS.starhub">
-        <title>Special Report on Taipei Metro&#039;s 30th Anniversary</title>
+        <title>30 Years Of Taipei Metro</title>
     </programme>
     <programme start="20260328140000 +0000" stop="20260328150000 +0000" channel="TVBS-NEWS.starhub">
         <title>News Night (Live)</title>
