@@ -2738,13 +2738,13 @@
         <title>Running Man</title>
     </programme>
     <programme start="20260326160000 +0000" stop="20260326163000 +0000" channel="Sun TV.starhub">
-        <title>Puthu Vasantham</title>
+        <title>PUTHU VASANTHAM</title>
     </programme>
     <programme start="20260326163000 +0000" stop="20260326230000 +0000" channel="Sun TV.starhub">
-        <title>Songs</title>
+        <title>SONGS</title>
     </programme>
     <programme start="20260326230000 +0000" stop="20260326233000 +0000" channel="Sun TV.starhub">
-        <title>News</title>
+        <title>NEWS</title>
     </programme>
     <programme start="20260326233000 +0000" stop="20260327000000 +0000" channel="Sun TV.starhub">
         <title>Vanakkam Thamizha</title>
