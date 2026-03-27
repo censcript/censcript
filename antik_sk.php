@@ -4909,6 +4909,63 @@
   <programme start="20260329220000 +0000" stop="20260330060000 +0000" channel="Arena Sport 2.webtv.sk">
     <title lang="id">Nočné vysielanie</title>
   </programme>
+  <programme start="20260328223500 +0000" stop="20260328230500 +0000" channel="Nova Sport 1.webtv.sk">
+    <title lang="id">SpadePoker show 2026 (11)</title>
+  </programme>
+  <programme start="20260328230500 +0000" stop="20260329020000 +0000" channel="Nova Sport 1.webtv.sk">
+    <title lang="id">Colorado Avalanche - Winnipeg Jets</title>
+  </programme>
+  <programme start="20260329020000 +0000" stop="20260329023500 +0000" channel="Nova Sport 1.webtv.sk">
+    <title lang="id">Epic Series - Season Preview</title>
+  </programme>
+  <programme start="20260329023500 +0000" stop="20260329051000 +0000" channel="Nova Sport 1.webtv.sk">
+    <title lang="id">Vegas Golden Knights - Washington Capitals</title>
+  </programme>
+  <programme start="20260329051000 +0000" stop="20260329051500 +0000" channel="Nova Sport 1.webtv.sk">
+    <title lang="id">Noční program</title>
+  </programme>
+  <programme start="20260329051500 +0000" stop="20260329052000 +0000" channel="Nova Sport 1.webtv.sk">
+    <title lang="id">Sportovní noviny</title>
+  </programme>
+  <programme start="20260329052000 +0000" stop="20260329070000 +0000" channel="Nova Sport 1.webtv.sk">
+    <title lang="id">New York Islanders - Florida Panthers</title>
+  </programme>
+  <programme start="20260329070000 +0000" stop="20260329080000 +0000" channel="Nova Sport 1.webtv.sk">
+    <title lang="id">The King&apos;s Show (4)</title>
+  </programme>
+  <programme start="20260329080000 +0000" stop="20260329082000 +0000" channel="Nova Sport 1.webtv.sk">
+    <title lang="id">ČEZ RunTour Winter Edition 2026 - Olomouc</title>
+  </programme>
+  <programme start="20260329082000 +0000" stop="20260329103000 +0000" channel="Nova Sport 1.webtv.sk">
+    <title lang="id">KP Brno - DSK Brandýs</title>
+  </programme>
+  <programme start="20260329103000 +0000" stop="20260329121500 +0000" channel="Nova Sport 1.webtv.sk">
+    <title lang="id">Edmonton Oilers - Anaheim Ducks</title>
+  </programme>
+  <programme start="20260329121500 +0000" stop="20260329135500 +0000" channel="Nova Sport 1.webtv.sk">
+    <title lang="id">Vegas Golden Knights - Washington Capitals</title>
+  </programme>
+  <programme start="20260329135500 +0000" stop="20260329161500 +0000" channel="Nova Sport 1.webtv.sk">
+    <title lang="id">Sale Sharks - Bath Rugby</title>
+  </programme>
+  <programme start="20260329161500 +0000" stop="20260329164500 +0000" channel="Nova Sport 1.webtv.sk">
+    <title lang="id">Epic Series - Season Preview</title>
+  </programme>
+  <programme start="20260329164500 +0000" stop="20260329170500 +0000" channel="Nova Sport 1.webtv.sk">
+    <title lang="id">NHL News</title>
+  </programme>
+  <programme start="20260329170500 +0000" stop="20260329194500 +0000" channel="Nova Sport 1.webtv.sk">
+    <title lang="id">New York Rangers - Florida Panthers</title>
+  </programme>
+  <programme start="20260329194500 +0000" stop="20260329200000 +0000" channel="Nova Sport 1.webtv.sk">
+    <title lang="id">Sportovní noviny</title>
+  </programme>
+  <programme start="20260329200000 +0000" stop="20260329210500 +0000" channel="Nova Sport 1.webtv.sk">
+    <title lang="id">King&apos;s Resort Events (12)</title>
+  </programme>
+  <programme start="20260329210500 +0000" stop="20260329234500 +0000" channel="Nova Sport 1.webtv.sk">
+    <title lang="id">Tampa Bay Lightning - Nashville Predators</title>
+  </programme>
   <programme start="20260328220500 +0000" stop="20260329003500 +0000" channel="Nova Sport 2.webtv.sk">
     <title lang="id">Charlotte Hornets - Philadelphia 76ers</title>
   </programme>
@@ -4959,69 +5016,6 @@
   </programme>
   <programme start="20260329223000 +0000" stop="20260329233500 +0000" channel="Nova Sport 2.webtv.sk">
     <title lang="id">The King&apos;s Show (4)</title>
-  </programme>
-  <programme start="20260328230000 +0000" stop="20260329003000 +0000" channel="Eurosport 1.webtv.sk">
-    <title lang="id">Snooker: Welsh Open</title>
-  </programme>
-  <programme start="20260329003000 +0000" stop="20260329010000 +0000" channel="Eurosport 1.webtv.sk">
-    <title lang="id">Skoky na lyžích: SP v Planici</title>
-  </programme>
-  <programme start="20260329010000 +0000" stop="20260329023000 +0000" channel="Eurosport 1.webtv.sk">
-    <title lang="id">Cyklistika: Okolo Katalánska</title>
-  </programme>
-  <programme start="20260329023000 +0000" stop="20260329040000 +0000" channel="Eurosport 1.webtv.sk">
-    <title lang="id">Snooker: Welsh Open</title>
-  </programme>
-  <programme start="20260329040000 +0000" stop="20260329053000 +0000" channel="Eurosport 1.webtv.sk">
-    <title lang="id">Skoky na lyžích: SP v Planici</title>
-  </programme>
-  <programme start="20260329053000 +0000" stop="20260329063000 +0000" channel="Eurosport 1.webtv.sk">
-    <title lang="id">Cyklistika: Okolo Katalánska</title>
-  </programme>
-  <programme start="20260329063000 +0000" stop="20260329074500 +0000" channel="Eurosport 1.webtv.sk">
-    <title lang="id">Snowboarding: SP v Mont-Sainte-Anne</title>
-  </programme>
-  <programme start="20260329074500 +0000" stop="20260329094500 +0000" channel="Eurosport 1.webtv.sk">
-    <title lang="id">Skoky na lyžích: SP v Planici</title>
-  </programme>
-  <programme start="20260329094500 +0000" stop="20260329104500 +0000" channel="Eurosport 1.webtv.sk">
-    <title lang="id">Freestylové lyžování: SP v Gallivare</title>
-  </programme>
-  <programme start="20260329104500 +0000" stop="20260329111500 +0000" channel="Eurosport 1.webtv.sk">
-    <title lang="id">Snowboarding: SP v Mont-Sainte-Anne</title>
-  </programme>
-  <programme start="20260329111500 +0000" stop="20260329133000 +0000" channel="Eurosport 1.webtv.sk">
-    <title lang="id">Freestylové lyžování: SP v Silvaplaně</title>
-  </programme>
-  <programme start="20260329133000 +0000" stop="20260329153000 +0000" channel="Eurosport 1.webtv.sk">
-    <title lang="id">Skoky na lyžích: SP v Planici</title>
-  </programme>
-  <programme start="20260329153000 +0000" stop="20260329160000 +0000" channel="Eurosport 1.webtv.sk">
-    <title lang="id">Freestylové lyžování: SP v Gallivare</title>
-  </programme>
-  <programme start="20260329160000 +0000" stop="20260329173000 +0000" channel="Eurosport 1.webtv.sk">
-    <title lang="id">Freestylové lyžování: SP v Silvaplaně</title>
-  </programme>
-  <programme start="20260329173000 +0000" stop="20260329181500 +0000" channel="Eurosport 1.webtv.sk">
-    <title lang="id">Cyklistika: Okolo Katalánska</title>
-  </programme>
-  <programme start="20260329181500 +0000" stop="20260329190000 +0000" channel="Eurosport 1.webtv.sk">
-    <title lang="id">Cyklistika: In Flanders Fields</title>
-  </programme>
-  <programme start="20260329190000 +0000" stop="20260329194500 +0000" channel="Eurosport 1.webtv.sk">
-    <title lang="id">Motokros: MS ve Frauenfeldu</title>
-  </programme>
-  <programme start="20260329194500 +0000" stop="20260329203000 +0000" channel="Eurosport 1.webtv.sk">
-    <title lang="id">Motokros: MS ve Frauenfeldu</title>
-  </programme>
-  <programme start="20260329203000 +0000" stop="20260329211500 +0000" channel="Eurosport 1.webtv.sk">
-    <title lang="id">Motokros: MS ve Frauenfeldu</title>
-  </programme>
-  <programme start="20260329211500 +0000" stop="20260329220000 +0000" channel="Eurosport 1.webtv.sk">
-    <title lang="id">Motokros: MS ve Frauenfeldu</title>
-  </programme>
-  <programme start="20260329220000 +0000" stop="20260329233000 +0000" channel="Eurosport 1.webtv.sk">
-    <title lang="id">Cyklistika: Okolo Katalánska</title>
   </programme>
   <programme start="20260328230000 +0000" stop="20260329003000 +0000" channel="Eurosport 2.webtv.sk">
     <title lang="id">Cyklistika: Okolo Katalánska</title>
@@ -5808,6 +5802,78 @@
   </programme>
   <programme start="20260329223000 +0000" stop="20260329230000 +0000" channel="HGTV.webtv.sk">
     <title lang="id">Levné domy na pláži I (10)</title>
+  </programme>
+  <programme start="20260328230000 +0000" stop="20260329000000 +0000" channel="Travel Channel.webtv.sk">
+    <title lang="id">Směr hrůza I (3)</title>
+  </programme>
+  <programme start="20260329000000 +0000" stop="20260329010000 +0000" channel="Travel Channel.webtv.sk">
+    <title lang="id">Směr hrůza I (4)</title>
+  </programme>
+  <programme start="20260329010000 +0000" stop="20260329020000 +0000" channel="Travel Channel.webtv.sk">
+    <title lang="id">Brány do pekla II (18)</title>
+  </programme>
+  <programme start="20260329020000 +0000" stop="20260329030000 +0000" channel="Travel Channel.webtv.sk">
+    <title lang="id">Holzerova akta I (2)</title>
+  </programme>
+  <programme start="20260329030000 +0000" stop="20260329040000 +0000" channel="Travel Channel.webtv.sk">
+    <title lang="id">Aljašské nestvůry I (4)</title>
+  </programme>
+  <programme start="20260329040000 +0000" stop="20260329050000 +0000" channel="Travel Channel.webtv.sk">
+    <title lang="id">Mrazivé zlato II (1)</title>
+  </programme>
+  <programme start="20260329050000 +0000" stop="20260329060000 +0000" channel="Travel Channel.webtv.sk">
+    <title lang="id">Mrazivé zlato II (2)</title>
+  </programme>
+  <programme start="20260329060000 +0000" stop="20260329070000 +0000" channel="Travel Channel.webtv.sk">
+    <title lang="id">Pátrání po yettim II (7)</title>
+  </programme>
+  <programme start="20260329070000 +0000" stop="20260329080000 +0000" channel="Travel Channel.webtv.sk">
+    <title lang="id">Pátrání po yettim II (8)</title>
+  </programme>
+  <programme start="20260329080000 +0000" stop="20260329090000 +0000" channel="Travel Channel.webtv.sk">
+    <title lang="id">Spřízněné duše (duchové) IV (1)</title>
+  </programme>
+  <programme start="20260329090000 +0000" stop="20260329100000 +0000" channel="Travel Channel.webtv.sk">
+    <title lang="id">Spřízněné duše (duchové) IV (2)</title>
+  </programme>
+  <programme start="20260329100000 +0000" stop="20260329110000 +0000" channel="Travel Channel.webtv.sk">
+    <title lang="id">Bizarní jídla s Andrewem Zimmernem VII (3)</title>
+  </programme>
+  <programme start="20260329110000 +0000" stop="20260329120000 +0000" channel="Travel Channel.webtv.sk">
+    <title lang="id">Bizarní jídla s Andrewem Zimmernem VII (4)</title>
+  </programme>
+  <programme start="20260329120000 +0000" stop="20260329130000 +0000" channel="Travel Channel.webtv.sk">
+    <title lang="id">Spřízněné duše (duchové) IV (11)</title>
+  </programme>
+  <programme start="20260329130000 +0000" stop="20260329140000 +0000" channel="Travel Channel.webtv.sk">
+    <title lang="id">Spřízněné duše (duchové) IV (12)</title>
+  </programme>
+  <programme start="20260329140000 +0000" stop="20260329150000 +0000" channel="Travel Channel.webtv.sk">
+    <title lang="id">Osbourneovi chtějí věřit II (18)</title>
+  </programme>
+  <programme start="20260329150000 +0000" stop="20260329160000 +0000" channel="Travel Channel.webtv.sk">
+    <title lang="id">Osbourneovi chtějí věřit II (4)</title>
+  </programme>
+  <programme start="20260329160000 +0000" stop="20260329170000 +0000" channel="Travel Channel.webtv.sk">
+    <title lang="id">Záhady hradů II (6)</title>
+  </programme>
+  <programme start="20260329170000 +0000" stop="20260329180000 +0000" channel="Travel Channel.webtv.sk">
+    <title lang="id">Záhady hradů II (7)</title>
+  </programme>
+  <programme start="20260329180000 +0000" stop="20260329190000 +0000" channel="Travel Channel.webtv.sk">
+    <title lang="id">Kódy a spiknutí I (2)</title>
+  </programme>
+  <programme start="20260329190000 +0000" stop="20260329200000 +0000" channel="Travel Channel.webtv.sk">
+    <title lang="id">Záhady muzeí XXIII (13)</title>
+  </programme>
+  <programme start="20260329200000 +0000" stop="20260329210000 +0000" channel="Travel Channel.webtv.sk">
+    <title lang="id">Záhady v hotelu I (1)</title>
+  </programme>
+  <programme start="20260329210000 +0000" stop="20260329220000 +0000" channel="Travel Channel.webtv.sk">
+    <title lang="id">Holzerova akta I (3)</title>
+  </programme>
+  <programme start="20260329220000 +0000" stop="20260329230000 +0000" channel="Travel Channel.webtv.sk">
+    <title lang="id">Aljašský trojúhelník II (7)</title>
   </programme>
   <programme start="20260328230000 +0000" stop="20260329000000 +0000" channel="TLC.webtv.sk">
     <title lang="id">Nebezpečně obézní II (2)</title>

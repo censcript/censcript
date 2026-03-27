@@ -622,6 +622,9 @@
 <programme start="20260327090000 +0000" stop="20260327110000 +0000" channel="ANTV.vision">
 <title>Vasudha</title>
 </programme>
+<programme start="20260327110000 +0000" stop="20260327130000 +0000" channel="ANTV.vision">
+<title>Bunga Desa</title>
+</programme>
 <programme start="20260327130000 +0000" stop="20260327143000 +0000" channel="ANTV.vision">
 <title>Nyi Blorong</title>
 </programme>
@@ -1494,7 +1497,4 @@
 </programme>
 <programme start="20260327033000 +0000" stop="20260327050500 +0000" channel="MDTV.vision">
 <title>Cinta Fitri S6</title>
-</programme>
-<programme start="20260327050500 +0000" stop="20260327062500 +0000" channel="MDTV.vision">
-<title>Janji Cinta (Sindoor Ki Keemat)</title>
 </programme>
