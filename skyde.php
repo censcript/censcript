@@ -1516,13 +1516,13 @@
 <programme start="20260327135000 +0000" stop="20260327141000 +0000" channel="Nick Jr..skyde">
     <title>DORA</title>
 </programme>
-<programme start="20260327141000 +0000" stop="20260327143000 +0000" channel="Nick Jr..skyde">
+<programme start="20260327141000 +0000" stop="20260327143500 +0000" channel="Nick Jr..skyde">
     <title>DORA</title>
 </programme>
-<programme start="20260327143000 +0000" stop="20260327143500 +0000" channel="Nick Jr..skyde">
+<programme start="20260327143500 +0000" stop="20260327143600 +0000" channel="Nick Jr..skyde">
     <title>Peppa Wutz</title>
 </programme>
-<programme start="20260327143500 +0000" stop="20260327144000 +0000" channel="Nick Jr..skyde">
+<programme start="20260327143600 +0000" stop="20260327144000 +0000" channel="Nick Jr..skyde">
     <title>Peppa Wutz</title>
 </programme>
 <programme start="20260327144000 +0000" stop="20260327144500 +0000" channel="Nick Jr..skyde">
@@ -2172,6 +2172,90 @@
 </programme>
 <programme start="20260327225500 +0000" stop="20260327235000 +0000" channel="Sky Documentaries HD.skyde">
     <title>Air Warriors</title>
+</programme>
+<programme start="20260326231000 +0000" stop="20260327000000 +0000" channel="Sky Krimi HD.skyde">
+    <title>Blutige Anfänger</title>
+</programme>
+<programme start="20260327000000 +0000" stop="20260327004500 +0000" channel="Sky Krimi HD.skyde">
+    <title>Blutige Anfänger</title>
+</programme>
+<programme start="20260327004500 +0000" stop="20260327013000 +0000" channel="Sky Krimi HD.skyde">
+    <title>SOKO Hamburg</title>
+</programme>
+<programme start="20260327013000 +0000" stop="20260327021000 +0000" channel="Sky Krimi HD.skyde">
+    <title>SOKO Hamburg</title>
+</programme>
+<programme start="20260327021000 +0000" stop="20260327025500 +0000" channel="Sky Krimi HD.skyde">
+    <title>SOKO Potsdam</title>
+</programme>
+<programme start="20260327025500 +0000" stop="20260327034000 +0000" channel="Sky Krimi HD.skyde">
+    <title>Die Rosenheim-Cops</title>
+</programme>
+<programme start="20260327034000 +0000" stop="20260327043000 +0000" channel="Sky Krimi HD.skyde">
+    <title>Watzmann ermittelt</title>
+</programme>
+<programme start="20260327043000 +0000" stop="20260327052000 +0000" channel="Sky Krimi HD.skyde">
+    <title>Watzmann ermittelt</title>
+</programme>
+<programme start="20260327052000 +0000" stop="20260327060500 +0000" channel="Sky Krimi HD.skyde">
+    <title>Die Rosenheim-Cops</title>
+</programme>
+<programme start="20260327060500 +0000" stop="20260327065500 +0000" channel="Sky Krimi HD.skyde">
+    <title>Die Rosenheim-Cops</title>
+</programme>
+<programme start="20260327065500 +0000" stop="20260327074000 +0000" channel="Sky Krimi HD.skyde">
+    <title>SOKO Köln</title>
+</programme>
+<programme start="20260327074000 +0000" stop="20260327083000 +0000" channel="Sky Krimi HD.skyde">
+    <title>SOKO Köln</title>
+</programme>
+<programme start="20260327083000 +0000" stop="20260327100500 +0000" channel="Sky Krimi HD.skyde">
+    <title>Nord bei Nordwest: Dinge des Lebens</title>
+</programme>
+<programme start="20260327100500 +0000" stop="20260327105500 +0000" channel="Sky Krimi HD.skyde">
+    <title>Watzmann ermittelt</title>
+</programme>
+<programme start="20260327105500 +0000" stop="20260327115000 +0000" channel="Sky Krimi HD.skyde">
+    <title>Watzmann ermittelt</title>
+</programme>
+<programme start="20260327115000 +0000" stop="20260327124000 +0000" channel="Sky Krimi HD.skyde">
+    <title>Blutige Anfänger</title>
+</programme>
+<programme start="20260327124000 +0000" stop="20260327132500 +0000" channel="Sky Krimi HD.skyde">
+    <title>Blutige Anfänger</title>
+</programme>
+<programme start="20260327132500 +0000" stop="20260327141500 +0000" channel="Sky Krimi HD.skyde">
+    <title>SOKO Hamburg</title>
+</programme>
+<programme start="20260327141500 +0000" stop="20260327150500 +0000" channel="Sky Krimi HD.skyde">
+    <title>SOKO Hamburg</title>
+</programme>
+<programme start="20260327150500 +0000" stop="20260327155000 +0000" channel="Sky Krimi HD.skyde">
+    <title>SOKO Potsdam</title>
+</programme>
+<programme start="20260327155000 +0000" stop="20260327164000 +0000" channel="Sky Krimi HD.skyde">
+    <title>SOKO Köln</title>
+</programme>
+<programme start="20260327164000 +0000" stop="20260327172500 +0000" channel="Sky Krimi HD.skyde">
+    <title>SOKO Köln</title>
+</programme>
+<programme start="20260327172500 +0000" stop="20260327182000 +0000" channel="Sky Krimi HD.skyde">
+    <title>Watzmann ermittelt</title>
+</programme>
+<programme start="20260327182000 +0000" stop="20260327191500 +0000" channel="Sky Krimi HD.skyde">
+    <title>Watzmann ermittelt</title>
+</programme>
+<programme start="20260327191500 +0000" stop="20260327204500 +0000" channel="Sky Krimi HD.skyde">
+    <title>Nord Nord Mord: Sievers und das mörderische Türkis</title>
+</programme>
+<programme start="20260327204500 +0000" stop="20260327213500 +0000" channel="Sky Krimi HD.skyde">
+    <title>Die Rosenheim-Cops</title>
+</programme>
+<programme start="20260327213500 +0000" stop="20260327222500 +0000" channel="Sky Krimi HD.skyde">
+    <title>Die Rosenheim-Cops</title>
+</programme>
+<programme start="20260327222500 +0000" stop="20260327231000 +0000" channel="Sky Krimi HD.skyde">
+    <title>Blutige Anfänger</title>
 </programme>
 <programme start="20260326230500 +0000" stop="20260326235000 +0000" channel="Sky Nature HD.skyde">
     <title>Terra X: Unsere Wälder</title>
