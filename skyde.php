@@ -98,6 +98,36 @@ Warning: Undefined array key "et" in /usr/home/ManusiaBiasa/domains/manusiabiasa
 <programme start="20260328222000 +0000" stop="20260328230500 +0000" channel="13th Street HD.skyde">
     <title>Navy CIS: Origins</title>
 </programme>
+<programme start="20260327233500 +0000" stop="20260327235000 +0000" channel="Beate Uhse HD.skyde">
+    <title>XConfessions</title>
+</programme>
+<programme start="20260327235000 +0000" stop="20260328012500 +0000" channel="Beate Uhse HD.skyde">
+    <title>Affäre im Jenseits</title>
+</programme>
+<programme start="20260328012500 +0000" stop="20260328025500 +0000" channel="Beate Uhse HD.skyde">
+    <title>Mountain Crush - No Limits</title>
+</programme>
+<programme start="20260328025500 +0000" stop="20260328044500 +0000" channel="Beate Uhse HD.skyde">
+    <title>Filipino Cosplay Love</title>
+</programme>
+<programme start="20260328044500 +0000" stop="20260328191500 +0000" channel="Beate Uhse HD.skyde">
+    <title>Programm von 20.15 Uhr bis 05.45 Uhr</title>
+</programme>
+<programme start="20260328191500 +0000" stop="20260328194000 +0000" channel="Beate Uhse HD.skyde">
+    <title>Nachbars geiler Garten</title>
+</programme>
+<programme start="20260328194000 +0000" stop="20260328195500 +0000" channel="Beate Uhse HD.skyde">
+    <title>XConfessions</title>
+</programme>
+<programme start="20260328195500 +0000" stop="20260328202000 +0000" channel="Beate Uhse HD.skyde">
+    <title>Hotwife POV</title>
+</programme>
+<programme start="20260328202000 +0000" stop="20260328213000 +0000" channel="Beate Uhse HD.skyde">
+    <title>Sex at Eight</title>
+</programme>
+<programme start="20260328213000 +0000" stop="20260328232500 +0000" channel="Beate Uhse HD.skyde">
+    <title>Alive</title>
+</programme>
 <programme start="20260327230500 +0000" stop="20260327232500 +0000" channel="Cartoon Network.skyde">
     <title>Muh-Kuh und Chickie</title>
 </programme>
@@ -2579,7 +2609,7 @@ Warning: Undefined array key "et" in /usr/home/ManusiaBiasa/domains/manusiabiasa
 <programme start="20260328184000 +0000" stop="20260328190000 +0000" channel="Sky Sport Austria 2 HD.skyde">
     <title>Es folgt: Live Tennis WTA Tour</title>
 </programme>
-<programme start="20260328190000 +0000" stop="20260329003000 +0000" channel="Sky Sport Austria 2 HD.skyde">
+<programme start="20260328190000 +0000" stop="20260328213000 +0000" channel="Sky Sport Austria 2 HD.skyde">
     <title>Live WTA 1000: C. Gauff (USA) - A. Sabalenka, Miami Open presented by Itaú in Miami, Florida (USA), Finale</title>
 </programme>
 <programme start="20260328003000 +0000" stop="20260328013000 +0000" channel="Sky Sport Bundesliga HD.skyde">
@@ -3014,12 +3044,6 @@ Warning: Undefined array key "et" in /usr/home/ManusiaBiasa/domains/manusiabiasa
 <programme start="20260328011500 +0000" stop="20260328030000 +0000" channel="Sky Sport Tennis HD.skyde">
     <title>ATP 1000: J. Lehecka (CZE) - A. Fils (FRA), Miami Open presented by Itaú in Miami, Florida (USA), Halbfinale 1</title>
 </programme>
-<programme start="20260328030000 +0000" stop="20260328053000 +0000" channel="Sky Sport Tennis HD.skyde">
-    <title>WTA 1000: E. Rybakina (KAZ) - A. Sabalenka, BNP Paribas Open in Indian Wells, Kalifornien (USA), Finale</title>
-</programme>
-<programme start="20260328053000 +0000" stop="20260328073000 +0000" channel="Sky Sport Tennis HD.skyde">
-    <title>ATP 1000: A. Zverev (GER) - J. Sinner (ITA), Miami Open presented by Itaú in Miami, Florida (USA), Halbfinale 2</title>
-</programme>
 <programme start="20260328073000 +0000" stop="20260328083000 +0000" channel="Sky Sport Tennis HD.skyde">
     <title>ATP 1000: Review Indian Wells</title>
 </programme>
@@ -3044,10 +3068,10 @@ Warning: Undefined array key "et" in /usr/home/ManusiaBiasa/domains/manusiabiasa
 <programme start="20260328213000 +0000" stop="20260329000000 +0000" channel="Sky Sport Tennis HD.skyde">
     <title>ATP 1000: H. Heliovaara (FIN) / H. Patten (GBR) - S. Bolelli (ITA) / A. Vavassori (ITA), Miami Open presented by Itaú in Miami, Florida (USA), Doppelfinale,</title>
 </programme>
-<programme start="20260328010000 +0000" stop="20260328023000 +0000" channel="Sky Sport Top Event HD.skyde">
+<programme start="20260328011500 +0000" stop="20260328021500 +0000" channel="Sky Sport Top Event HD.skyde">
     <title>Live NBA: Miami Heat @ Cleveland Cavaliers</title>
 </programme>
-<programme start="20260328023000 +0000" stop="20260328040000 +0000" channel="Sky Sport Top Event HD.skyde">
+<programme start="20260328021500 +0000" stop="20260328040000 +0000" channel="Sky Sport Top Event HD.skyde">
     <title>Live F1: 3. Freies Training - GP Japan</title>
 </programme>
 <programme start="20260328040000 +0000" stop="20260328050000 +0000" channel="Sky Sport Top Event HD.skyde">
@@ -3084,7 +3108,7 @@ Warning: Undefined array key "et" in /usr/home/ManusiaBiasa/domains/manusiabiasa
     <title>Live MotoGP: Qualifying - GP USA</title>
 </programme>
 <programme start="20260328163000 +0000" stop="20260328190000 +0000" channel="Sky Sport Top Event HD.skyde">
-    <title>Live ATP 1000: Finale, Miami Open presented by Itaú in Miami, Florida (USA), Doppelfinale,</title>
+    <title>Live ATP 1000: H. Heliovaara (FIN) / H. Patten (GBR) - S. Bolelli (ITA) / A. Vavassori (ITA), Miami Open presented by Itaú in Miami, Florida (USA), Doppelfinale,</title>
 </programme>
 <programme start="20260328190000 +0000" stop="20260328213000 +0000" channel="Sky Sport Top Event HD.skyde">
     <title>Live WTA 1000: C. Gauff (USA) - A. Sabalenka, Miami Open presented by Itaú in Miami, Florida (USA), Finale</title>
@@ -3161,13 +3185,13 @@ Warning: Undefined array key "et" in /usr/home/ManusiaBiasa/domains/manusiabiasa
 <programme start="20260327231000 +0000" stop="20260327233000 +0000" channel="Sky Sport 1 HD.skyde">
     <title>Es folgt: LIVE Basketball NBA</title>
 </programme>
-<programme start="20260327233000 +0000" stop="20260328090000 +0000" channel="Sky Sport 1 HD.skyde">
+<programme start="20260327233000 +0000" stop="20260328022000 +0000" channel="Sky Sport 1 HD.skyde">
     <title>Live NBA: Miami Heat @ Cleveland Cavaliers</title>
 </programme>
 <programme start="20260328191000 +0000" stop="20260328193000 +0000" channel="Sky Sport 1 HD.skyde">
     <title>Es folgt Eishockey: NHL</title>
 </programme>
-<programme start="20260328193000 +0000" stop="20260328223000 +0000" channel="Sky Sport 1 HD.skyde">
+<programme start="20260328193000 +0000" stop="20260329020000 +0000" channel="Sky Sport 1 HD.skyde">
     <title>Live NHL: Anaheim Ducks @ Edmonton Oilers</title>
 </programme>
 <programme start="20260328214000 +0000" stop="20260328220000 +0000" channel="Sky Sport 2 HD.skyde">
