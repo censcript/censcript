@@ -637,12 +637,6 @@
 <programme start="20260328090000 +0000" stop="20260328110000 +0000" channel="ANTV.vision">
 <title>Vasudha</title>
 </programme>
-<programme start="20260328110000 +0000" stop="20260328130000 +0000" channel="ANTV.vision">
-<title>Malin Kundang</title>
-</programme>
-<programme start="20260328130000 +0000" stop="20260328143000 +0000" channel="ANTV.vision">
-<title>Perkawinan Nyi Blorong</title>
-</programme>
 <programme start="20260328143000 +0000" stop="20260328163000 +0000" channel="ANTV.vision">
 <title>Kuntilanak 2: Teror Mangkujiwo</title>
 </programme>
@@ -775,20 +769,11 @@
 <programme start="20260328040000 +0000" stop="20260328053000 +0000" channel="TVOne.vision">
 <title>Kabar Siang (L)</title>
 </programme>
-<programme start="20260328080000 +0000" stop="20260328090000 +0000" channel="TVOne.vision">
-<title>Apa Kabar Indonesia Akhir Pekan</title>
-</programme>
 <programme start="20260328090000 +0000" stop="20260328110000 +0000" channel="TVOne.vision">
 <title>Kabar Petang (L)</title>
 </programme>
 <programme start="20260328110000 +0000" stop="20260328130000 +0000" channel="TVOne.vision">
 <title>Apa Kabar Indonesia Malam (L)</title>
-</programme>
-<programme start="20260328130000 +0000" stop="20260328140000 +0000" channel="TVOne.vision">
-<title>Indonesia Business Forum</title>
-</programme>
-<programme start="20260328140000 +0000" stop="20260328150000 +0000" channel="TVOne.vision">
-<title>Kabar Utama (L)</title>
 </programme>
 <programme start="20260328150000 +0000" stop="20260328160000 +0000" channel="TVOne.vision">
 <title>Renungan Jiwa</title>
@@ -1496,5 +1481,20 @@
 <title>TVRI</title>
 </programme>
 <programme start="20260328000000 +0000" stop="20260328030000 +0000" channel="DAAI TV.vision">
+<title>DAAI TV</title>
+</programme>
+<programme start="20260328030000 +0000" stop="20260328060000 +0000" channel="DAAI TV.vision">
+<title>DAAI TV</title>
+</programme>
+<programme start="20260328060000 +0000" stop="20260328090000 +0000" channel="DAAI TV.vision">
+<title>DAAI TV</title>
+</programme>
+<programme start="20260328090000 +0000" stop="20260328120000 +0000" channel="DAAI TV.vision">
+<title>DAAI TV</title>
+</programme>
+<programme start="20260328120000 +0000" stop="20260328150000 +0000" channel="DAAI TV.vision">
+<title>DAAI TV</title>
+</programme>
+<programme start="20260328150000 +0000" stop="20260328180000 +0000" channel="DAAI TV.vision">
 <title>DAAI TV</title>
 </programme>

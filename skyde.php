@@ -98,36 +98,6 @@ Warning: Undefined array key "et" in /usr/home/ManusiaBiasa/domains/manusiabiasa
 <programme start="20260328222000 +0000" stop="20260328230500 +0000" channel="13th Street HD.skyde">
     <title>Navy CIS: Origins</title>
 </programme>
-<programme start="20260327233500 +0000" stop="20260327235000 +0000" channel="Beate Uhse HD.skyde">
-    <title>XConfessions</title>
-</programme>
-<programme start="20260327235000 +0000" stop="20260328012500 +0000" channel="Beate Uhse HD.skyde">
-    <title>Affäre im Jenseits</title>
-</programme>
-<programme start="20260328012500 +0000" stop="20260328025500 +0000" channel="Beate Uhse HD.skyde">
-    <title>Mountain Crush - No Limits</title>
-</programme>
-<programme start="20260328025500 +0000" stop="20260328044500 +0000" channel="Beate Uhse HD.skyde">
-    <title>Filipino Cosplay Love</title>
-</programme>
-<programme start="20260328044500 +0000" stop="20260328191500 +0000" channel="Beate Uhse HD.skyde">
-    <title>Programm von 20.15 Uhr bis 05.45 Uhr</title>
-</programme>
-<programme start="20260328191500 +0000" stop="20260328194000 +0000" channel="Beate Uhse HD.skyde">
-    <title>Nachbars geiler Garten</title>
-</programme>
-<programme start="20260328194000 +0000" stop="20260328195500 +0000" channel="Beate Uhse HD.skyde">
-    <title>XConfessions</title>
-</programme>
-<programme start="20260328195500 +0000" stop="20260328202000 +0000" channel="Beate Uhse HD.skyde">
-    <title>Hotwife POV</title>
-</programme>
-<programme start="20260328202000 +0000" stop="20260328213000 +0000" channel="Beate Uhse HD.skyde">
-    <title>Sex at Eight</title>
-</programme>
-<programme start="20260328213000 +0000" stop="20260328232500 +0000" channel="Beate Uhse HD.skyde">
-    <title>Alive</title>
-</programme>
 <programme start="20260327230500 +0000" stop="20260327232500 +0000" channel="Cartoon Network.skyde">
     <title>Muh-Kuh und Chickie</title>
 </programme>
@@ -2798,13 +2768,13 @@ Warning: Undefined array key "et" in /usr/home/ManusiaBiasa/domains/manusiabiasa
 <programme start="20260328220000 +0000" stop="20260329010000 +0000" channel="Sky Sport Golf HD.skyde">
     <title>Live LPGA: Ford Championship presented by Wild Horse Pass, 3. Tag in Phoenix, AZ (USA)</title>
 </programme>
-<programme start="20260327230000 +0000" stop="20260328014500 +0000" channel="Sky Sport Mix HD.skyde">
+<programme start="20260327230000 +0000" stop="20260328020000 +0000" channel="Sky Sport Mix HD.skyde">
     <title>Live NHL: Detroit Red Wings @ Buffalo Sabres</title>
 </programme>
-<programme start="20260328014500 +0000" stop="20260328030500 +0000" channel="Sky Sport Mix HD.skyde">
+<programme start="20260328020000 +0000" stop="20260328031000 +0000" channel="Sky Sport Mix HD.skyde">
     <title>MotoGP: 1. Freies Training - GP USA</title>
 </programme>
-<programme start="20260328030500 +0000" stop="20260328043000 +0000" channel="Sky Sport Mix HD.skyde">
+<programme start="20260328031000 +0000" stop="20260328043000 +0000" channel="Sky Sport Mix HD.skyde">
     <title>MotoGP: Training - GP USA</title>
 </programme>
 <programme start="20260328043000 +0000" stop="20260328053000 +0000" channel="Sky Sport Mix HD.skyde">
@@ -2816,11 +2786,8 @@ Warning: Undefined array key "et" in /usr/home/ManusiaBiasa/domains/manusiabiasa
 <programme start="20260328060000 +0000" stop="20260328080000 +0000" channel="Sky Sport Mix HD.skyde">
     <title>NHL: Detroit Red Wings @ Buffalo Sabres</title>
 </programme>
-<programme start="20260328080000 +0000" stop="20260328100000 +0000" channel="Sky Sport Mix HD.skyde">
+<programme start="20260328080000 +0000" stop="20260328103000 +0000" channel="Sky Sport Mix HD.skyde">
     <title>NBA: Miami Heat @ Cleveland Cavaliers</title>
-</programme>
-<programme start="20260328100000 +0000" stop="20260328103000 +0000" channel="Sky Sport Mix HD.skyde">
-    <title>NBA: Action</title>
 </programme>
 <programme start="20260328103000 +0000" stop="20260328110000 +0000" channel="Sky Sport Mix HD.skyde">
     <title>NBA: On Fire</title>
@@ -3077,10 +3044,10 @@ Warning: Undefined array key "et" in /usr/home/ManusiaBiasa/domains/manusiabiasa
 <programme start="20260328213000 +0000" stop="20260329000000 +0000" channel="Sky Sport Tennis HD.skyde">
     <title>ATP 1000: H. Heliovaara (FIN) / H. Patten (GBR) - S. Bolelli (ITA) / A. Vavassori (ITA), Miami Open presented by Itaú in Miami, Florida (USA), Doppelfinale,</title>
 </programme>
-<programme start="20260328011500 +0000" stop="20260328021500 +0000" channel="Sky Sport Top Event HD.skyde">
+<programme start="20260328010000 +0000" stop="20260328023000 +0000" channel="Sky Sport Top Event HD.skyde">
     <title>Live NBA: Miami Heat @ Cleveland Cavaliers</title>
 </programme>
-<programme start="20260328021500 +0000" stop="20260328040000 +0000" channel="Sky Sport Top Event HD.skyde">
+<programme start="20260328023000 +0000" stop="20260328040000 +0000" channel="Sky Sport Top Event HD.skyde">
     <title>Live F1: 3. Freies Training - GP Japan</title>
 </programme>
 <programme start="20260328040000 +0000" stop="20260328050000 +0000" channel="Sky Sport Top Event HD.skyde">
@@ -3117,7 +3084,7 @@ Warning: Undefined array key "et" in /usr/home/ManusiaBiasa/domains/manusiabiasa
     <title>Live MotoGP: Qualifying - GP USA</title>
 </programme>
 <programme start="20260328163000 +0000" stop="20260328190000 +0000" channel="Sky Sport Top Event HD.skyde">
-    <title>Live ATP 1000: H. Heliovaara (FIN) / H. Patten (GBR) - S. Bolelli (ITA) / A. Vavassori (ITA), Miami Open presented by Itaú in Miami, Florida (USA), Doppelfinale,</title>
+    <title>Live ATP 1000: Finale, Miami Open presented by Itaú in Miami, Florida (USA), Doppelfinale,</title>
 </programme>
 <programme start="20260328190000 +0000" stop="20260328213000 +0000" channel="Sky Sport Top Event HD.skyde">
     <title>Live WTA 1000: C. Gauff (USA) - A. Sabalenka, Miami Open presented by Itaú in Miami, Florida (USA), Finale</title>
@@ -3146,37 +3113,22 @@ Warning: Undefined array key "et" in /usr/home/ManusiaBiasa/domains/manusiabiasa
 <programme start="20260328050000 +0000" stop="20260328053000 +0000" channel="Sky Sport UHD.skyde">
     <title>F1: GP Confidential</title>
 </programme>
-<programme start="20260328053000 +0000" stop="20260328070000 +0000" channel="Sky Sport UHD.skyde">
-    <title>F1: 2. Freies Training - GP Japan</title>
-</programme>
-<programme start="20260328063000 +0000" stop="20260328073000 +0000" channel="Sky Sport UHD.skyde">
+<programme start="20260328053000 +0000" stop="20260328073000 +0000" channel="Sky Sport UHD.skyde">
     <title>Live F1: Qualifying - GP Japan</title>
 </programme>
-<programme start="20260328070000 +0000" stop="20260328073000 +0000" channel="Sky Sport UHD.skyde">
-    <title>F1: 3. Freies Training - GP Japan</title>
-</programme>
-<programme start="20260328073000 +0000" stop="20260328080000 +0000" channel="Sky Sport UHD.skyde">
-    <title>Live F1: Pressekonferenz Qualifying - GP Japan</title>
-</programme>
 <programme start="20260328073000 +0000" stop="20260328080000 +0000" channel="Sky Sport UHD.skyde">
     <title>Live F1: Pressekonferenz Qualifying - GP Japan</title>
 </programme>
 <programme start="20260328080000 +0000" stop="20260328083000 +0000" channel="Sky Sport UHD.skyde">
     <title>Golf: Greatest Holes (1)</title>
 </programme>
-<programme start="20260328080000 +0000" stop="20260328083000 +0000" channel="Sky Sport UHD.skyde">
-    <title>Golf: Greatest Holes (1)</title>
-</programme>
-<programme start="20260328083000 +0000" stop="20260328100500 +0000" channel="Sky Sport UHD.skyde">
+<programme start="20260328083000 +0000" stop="20260328100000 +0000" channel="Sky Sport UHD.skyde">
     <title>F1: Qualifying - GP Japan</title>
 </programme>
-<programme start="20260328100500 +0000" stop="20260328103000 +0000" channel="Sky Sport UHD.skyde">
+<programme start="20260328100000 +0000" stop="20260328103000 +0000" channel="Sky Sport UHD.skyde">
     <title>Golf: Greatest Holes (2)</title>
 </programme>
-<programme start="20260328100500 +0000" stop="20260328110500 +0000" channel="Sky Sport UHD.skyde">
-    <title>F1: 3. Freies Training - GP Japan</title>
-</programme>
-<programme start="20260328110500 +0000" stop="20260328123000 +0000" channel="Sky Sport UHD.skyde">
+<programme start="20260328103000 +0000" stop="20260328120000 +0000" channel="Sky Sport UHD.skyde">
     <title>F1: Qualifying - GP Japan</title>
 </programme>
 <programme start="20260328120000 +0000" stop="20260328123000 +0000" channel="Sky Sport UHD.skyde">
@@ -3203,25 +3155,25 @@ Warning: Undefined array key "et" in /usr/home/ManusiaBiasa/domains/manusiabiasa
 <programme start="20260328213000 +0000" stop="20260328220000 +0000" channel="Sky Sport UHD.skyde">
     <title>Golf: Greatest Holes (5)</title>
 </programme>
-<programme start="20260328220000 +0000" stop="20260328230000 +0000" channel="Sky Sport UHD.skyde">
-    <title>F1 Academy: 2. Rennen - GP China</title>
+<programme start="20260328220000 +0000" stop="20260328233000 +0000" channel="Sky Sport UHD.skyde">
+    <title>F1: 1. Freies Training - GP Japan</title>
 </programme>
 <programme start="20260327231000 +0000" stop="20260327233000 +0000" channel="Sky Sport 1 HD.skyde">
     <title>Es folgt: LIVE Basketball NBA</title>
 </programme>
-<programme start="20260327233000 +0000" stop="20260328022000 +0000" channel="Sky Sport 1 HD.skyde">
+<programme start="20260327233000 +0000" stop="20260328090000 +0000" channel="Sky Sport 1 HD.skyde">
     <title>Live NBA: Miami Heat @ Cleveland Cavaliers</title>
 </programme>
 <programme start="20260328191000 +0000" stop="20260328193000 +0000" channel="Sky Sport 1 HD.skyde">
     <title>Es folgt Eishockey: NHL</title>
 </programme>
-<programme start="20260328193000 +0000" stop="20260329020000 +0000" channel="Sky Sport 1 HD.skyde">
+<programme start="20260328193000 +0000" stop="20260328223000 +0000" channel="Sky Sport 1 HD.skyde">
     <title>Live NHL: Anaheim Ducks @ Edmonton Oilers</title>
 </programme>
 <programme start="20260328214000 +0000" stop="20260328220000 +0000" channel="Sky Sport 2 HD.skyde">
     <title>Es folgt: LIVE Basketball  NBA</title>
 </programme>
-<programme start="20260328220000 +0000" stop="20260329010000 +0000" channel="Sky Sport 2 HD.skyde">
+<programme start="20260328220000 +0000" stop="20260329080000 +0000" channel="Sky Sport 2 HD.skyde">
     <title>Live NBA: Philadelphia 76ers @ Charlotte Hornets</title>
 </programme>
 <programme start="20260327230000 +0000" stop="20260327234500 +0000" channel="SYFY HD.skyde">
@@ -3527,19 +3479,19 @@ Warning: Undefined array key "et" in /usr/home/ManusiaBiasa/domains/manusiabiasa
 <programme start="20260328135500 +0000" stop="20260328142000 +0000" channel="Warner TV Comedy HD.skyde">
     <title>Two and a Half Men</title>
 </programme>
-<programme start="20260328142000 +0000" stop="20260328144000 +0000" channel="Warner TV Comedy HD.skyde">
+<programme start="20260328142000 +0000" stop="20260328144500 +0000" channel="Warner TV Comedy HD.skyde">
     <title>Two and a Half Men</title>
 </programme>
-<programme start="20260328144000 +0000" stop="20260328150500 +0000" channel="Warner TV Comedy HD.skyde">
+<programme start="20260328144500 +0000" stop="20260328151000 +0000" channel="Warner TV Comedy HD.skyde">
     <title>Two and a Half Men</title>
 </programme>
-<programme start="20260328150500 +0000" stop="20260328153000 +0000" channel="Warner TV Comedy HD.skyde">
+<programme start="20260328151000 +0000" stop="20260328153500 +0000" channel="Warner TV Comedy HD.skyde">
     <title>King of Queens</title>
 </programme>
-<programme start="20260328153000 +0000" stop="20260328155500 +0000" channel="Warner TV Comedy HD.skyde">
+<programme start="20260328153500 +0000" stop="20260328160000 +0000" channel="Warner TV Comedy HD.skyde">
     <title>King of Queens</title>
 </programme>
-<programme start="20260328155500 +0000" stop="20260328162000 +0000" channel="Warner TV Comedy HD.skyde">
+<programme start="20260328160000 +0000" stop="20260328162000 +0000" channel="Warner TV Comedy HD.skyde">
     <title>King of Queens</title>
 </programme>
 <programme start="20260328162000 +0000" stop="20260328164500 +0000" channel="Warner TV Comedy HD.skyde">
@@ -3701,10 +3653,10 @@ Warning: Undefined array key "et" in /usr/home/ManusiaBiasa/domains/manusiabiasa
 <programme start="20260328091500 +0000" stop="20260328100500 +0000" channel="Warner TV Serie HD.skyde">
     <title>Mord ist ihr Hobby</title>
 </programme>
-<programme start="20260328100500 +0000" stop="20260328105000 +0000" channel="Warner TV Serie HD.skyde">
+<programme start="20260328100500 +0000" stop="20260328105500 +0000" channel="Warner TV Serie HD.skyde">
     <title>Alert: Missing Persons Unit</title>
 </programme>
-<programme start="20260328105000 +0000" stop="20260328114000 +0000" channel="Warner TV Serie HD.skyde">
+<programme start="20260328105500 +0000" stop="20260328114000 +0000" channel="Warner TV Serie HD.skyde">
     <title>Alert: Missing Persons Unit</title>
 </programme>
 <programme start="20260328114000 +0000" stop="20260328122500 +0000" channel="Warner TV Serie HD.skyde">
@@ -3716,25 +3668,25 @@ Warning: Undefined array key "et" in /usr/home/ManusiaBiasa/domains/manusiabiasa
 <programme start="20260328131000 +0000" stop="20260328135500 +0000" channel="Warner TV Serie HD.skyde">
     <title>NCIS: Los Angeles</title>
 </programme>
-<programme start="20260328135500 +0000" stop="20260328144000 +0000" channel="Warner TV Serie HD.skyde">
+<programme start="20260328135500 +0000" stop="20260328144500 +0000" channel="Warner TV Serie HD.skyde">
     <title>NCIS: Los Angeles</title>
 </programme>
-<programme start="20260328144000 +0000" stop="20260328152500 +0000" channel="Warner TV Serie HD.skyde">
+<programme start="20260328144500 +0000" stop="20260328152500 +0000" channel="Warner TV Serie HD.skyde">
     <title>NCIS: Los Angeles</title>
 </programme>
-<programme start="20260328152500 +0000" stop="20260328161000 +0000" channel="Warner TV Serie HD.skyde">
+<programme start="20260328152500 +0000" stop="20260328161500 +0000" channel="Warner TV Serie HD.skyde">
     <title>NCIS</title>
 </programme>
-<programme start="20260328161000 +0000" stop="20260328165500 +0000" channel="Warner TV Serie HD.skyde">
+<programme start="20260328161500 +0000" stop="20260328170000 +0000" channel="Warner TV Serie HD.skyde">
     <title>NCIS</title>
 </programme>
-<programme start="20260328165500 +0000" stop="20260328174000 +0000" channel="Warner TV Serie HD.skyde">
+<programme start="20260328170000 +0000" stop="20260328174500 +0000" channel="Warner TV Serie HD.skyde">
     <title>NCIS</title>
 </programme>
-<programme start="20260328174000 +0000" stop="20260328182500 +0000" channel="Warner TV Serie HD.skyde">
+<programme start="20260328174500 +0000" stop="20260328183000 +0000" channel="Warner TV Serie HD.skyde">
     <title>NCIS</title>
 </programme>
-<programme start="20260328182500 +0000" stop="20260328191500 +0000" channel="Warner TV Serie HD.skyde">
+<programme start="20260328183000 +0000" stop="20260328191500 +0000" channel="Warner TV Serie HD.skyde">
     <title>NCIS</title>
 </programme>
 <programme start="20260328191500 +0000" stop="20260328211000 +0000" channel="Warner TV Serie HD.skyde">
