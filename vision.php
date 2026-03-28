@@ -562,14 +562,8 @@
 <programme start="20260328190000 +0000" stop="20260328200000 +0000" channel="Trans 7.vision">
 <title>Dracin</title>
 </programme>
-<programme start="20260328200000 +0000" stop="20260328204500 +0000" channel="Trans 7.vision">
-<title>MotoGP Sprint Race 2026: USA</title>
-</programme>
 <programme start="20260328204500 +0000" stop="20260328214500 +0000" channel="Trans 7.vision">
 <title>FYP (For Your Pagi)</title>
-</programme>
-<programme start="20260328214500 +0000" stop="20260328223000 +0000" channel="Trans 7.vision">
-<title>Jalur Langit</title>
 </programme>
 <programme start="20260328223000 +0000" stop="20260328233000 +0000" channel="Trans 7.vision">
 <title>Redaksi Pagi Akhir Pekan</title>
@@ -630,9 +624,6 @@
 </programme>
 <programme start="20260328090000 +0000" stop="20260328110000 +0000" channel="ANTV.vision">
 <title>Vasudha</title>
-</programme>
-<programme start="20260328193000 +0000" stop="20260328213000 +0000" channel="ANTV.vision">
-<title>Scared</title>
 </programme>
 <programme start="20260328213000 +0000" stop="20260328230000 +0000" channel="ANTV.vision">
 <title>Sanctuary</title>
@@ -1497,4 +1488,13 @@
 </programme>
 <programme start="20260329090000 +0000" stop="20260329120000 +0000" channel="DAAI TV.vision">
 <title>DAAI TV</title>
+</programme>
+<programme start="20260327235000 +0000" stop="20260328010500 +0000" channel="MDTV.vision">
+<title>AADD: Ada Apa Dengan Dunia</title>
+</programme>
+<programme start="20260328010500 +0000" stop="20260328015500 +0000" channel="MDTV.vision">
+<title>Fakta 62 Weekend</title>
+</programme>
+<programme start="20260328015500 +0000" stop="20260328025000 +0000" channel="MDTV.vision">
+<title>Sensasihot</title>
 </programme>
