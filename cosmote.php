@@ -62,14 +62,6 @@
     <title>Football: Arsenal - Bayer 04 Leverkusen</title>
     <desc>Live: Tidak</desc>
 </programme>
-<programme start="20260329002000 +0700" stop="20260329023000 +0700" channel="COSMOTE Sport 2 HD">
-    <title>Football: Panetolikos - Panserraikos</title>
-    <desc>Live: Tidak</desc>
-</programme>
-<programme start="20260329023000 +0700" stop="20260329030000 +0700" channel="COSMOTE Sport 2 HD">
-    <title>Serie A Full Impact 2025-26 E30</title>
-    <desc>Live: Tidak</desc>
-</programme>
 <programme start="20260329030000 +0700" stop="20260329050000 +0700" channel="COSMOTE Sport 2 HD">
     <title>Football: AS Roma - Lecce</title>
     <desc>Live: Tidak</desc>
@@ -134,10 +126,6 @@
     <title>Football: AS Roma - Lecce</title>
     <desc>Live: Tidak</desc>
 </programme>
-<programme start="20260329010000 +0700" stop="20260329030000 +0700" channel="COSMOTE Sport 3 HD">
-    <title>Football: Fulham - Southampton</title>
-    <desc>Live: Tidak</desc>
-</programme>
 <programme start="20260329030000 +0700" stop="20260329050000 +0700" channel="COSMOTE Sport 3 HD">
     <title>Football: Alverca - Sporting CP</title>
     <desc>Live: Tidak</desc>
@@ -186,9 +174,9 @@
     <title>Football: West Ham United FC - Brentford</title>
     <desc>Live: Tidak</desc>
 </programme>
-<programme start="20260329003000 +0700" stop="20260329023000 +0700" channel="COSMOTE Sport 4 HD">
-    <title>Basketball: Varese - Bertram Derthona Tortona (L)</title>
-    <desc>Live: Ya</desc>
+<programme start="20260330033000 +0700" stop="20260330040000 +0700" channel="COSMOTE Sport 3 HD">
+    <title>Emirates FA Cup 2025-26 - Highlights</title>
+    <desc>Live: Tidak</desc>
 </programme>
 <programme start="20260329023000 +0700" stop="20260329050000 +0700" channel="COSMOTE Sport 4 HD">
     <title>Basketball: Cleveland Cavaliers - Miami Heat</title>
@@ -244,10 +232,6 @@
 </programme>
 <programme start="20260330023000 +0700" stop="20260330053000 +0700" channel="COSMOTE Sport 4 HD">
     <title>Basketball: Milwaukee Bucks - Los Angeles Clippers (L)</title>
-    <desc>Live: Ya</desc>
-</programme>
-<programme start="20260329013500 +0700" stop="20260329024500 +0700" channel="COSMOTE Sport 5 HD">
-    <title>Motorsports: Moto2 2026 (L)</title>
     <desc>Live: Ya</desc>
 </programme>
 <programme start="20260329024500 +0700" stop="20260329040000 +0700" channel="COSMOTE Sport 5 HD">
@@ -362,10 +346,6 @@
     <title>Motorsports: MotoGP 2026 (L)</title>
     <desc>Live: Ya</desc>
 </programme>
-<programme start="20260329020000 +0700" stop="20260329023000 +0700" channel="COSMOTE Sport 6 HD">
-    <title>Sports Classics: 2026 Sports Rundown E2</title>
-    <desc>Live: Tidak</desc>
-</programme>
 <programme start="20260329023000 +0700" stop="20260329043500 +0700" channel="COSMOTE Sport 6 HD">
     <title>Athletics: World Athletics Continental Tour Gold 2025</title>
     <desc>Live: Tidak</desc>
@@ -420,10 +400,6 @@
 </programme>
 <programme start="20260330020000 +0700" stop="20260330043000 +0700" channel="COSMOTE Sport 6 HD">
     <title>Tennis: Jiri Lehecka - Jannik Sinner (L)</title>
-    <desc>Live: Ya</desc>
-</programme>
-<programme start="20260329010000 +0700" stop="20260329030000 +0700" channel="COSMOTE Sport 7 HD">
-    <title>Premier Padel Tour 2026 (L)</title>
     <desc>Live: Ya</desc>
 </programme>
 <programme start="20260329030000 +0700" stop="20260329050000 +0700" channel="COSMOTE Sport 7 HD">
@@ -486,13 +462,9 @@
     <title>COSMOTESport7HD</title>
     <desc>Live: Tidak</desc>
 </programme>
-<programme start="20260329020000 +0700" stop="20260329023000 +0700" channel="COSMOTE Sport 8 HD">
-    <title>COSMOTESport8HD</title>
-    <desc>Live: Tidak</desc>
-</programme>
-<programme start="20260329023000 +0700" stop="20260329030000 +0700" channel="COSMOTE Sport 8 HD">
-    <title>COSMOTESport8HD</title>
-    <desc>Live: Tidak</desc>
+<programme start="20260330030000 +0700" stop="20260330050000 +0700" channel="COSMOTE Sport 7 HD">
+    <title>Premier Padel Tour 2025 (L)</title>
+    <desc>Live: Ya</desc>
 </programme>
 <programme start="20260329030000 +0700" stop="20260329050000 +0700" channel="COSMOTE Sport 8 HD">
     <title>Basketball: Girona - Real Madrid (L)</title>
@@ -556,10 +528,6 @@
 </programme>
 <programme start="20260330023000 +0700" stop="20260330040000 +0700" channel="COSMOTE Sport 8 HD">
     <title>COSMOTESport8HD</title>
-    <desc>Live: Tidak</desc>
-</programme>
-<programme start="20260329010000 +0700" stop="20260329030000 +0700" channel="COSMOTE Sport 9 HD">
-    <title>COSMOTESport9HD</title>
     <desc>Live: Tidak</desc>
 </programme>
 <programme start="20260329030000 +0700" stop="20260329050000 +0700" channel="COSMOTE Sport 9 HD">

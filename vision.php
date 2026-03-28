@@ -631,9 +631,6 @@
 <programme start="20260328090000 +0000" stop="20260328110000 +0000" channel="ANTV.vision">
 <title>Vasudha</title>
 </programme>
-<programme start="20260328180000 +0000" stop="20260328193000 +0000" channel="ANTV.vision">
-<title>Protege de la Rosa Noire</title>
-</programme>
 <programme start="20260328193000 +0000" stop="20260328213000 +0000" channel="ANTV.vision">
 <title>Scared</title>
 </programme>
@@ -1496,5 +1493,8 @@
 <title>DAAI TV</title>
 </programme>
 <programme start="20260329060000 +0000" stop="20260329090000 +0000" channel="DAAI TV.vision">
+<title>DAAI TV</title>
+</programme>
+<programme start="20260329090000 +0000" stop="20260329120000 +0000" channel="DAAI TV.vision">
 <title>DAAI TV</title>
 </programme>
