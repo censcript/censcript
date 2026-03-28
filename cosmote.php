@@ -70,10 +70,6 @@
     <title>Football: AS Roma - Bologna</title>
     <desc>Live: Tidak</desc>
 </programme>
-<programme start="20260328181000 +0700" stop="20260328202000 +0700" channel="COSMOTE Sport 2 HD">
-    <title>Football: AEK - Kifisia</title>
-    <desc>Live: Tidak</desc>
-</programme>
 <programme start="20260328202000 +0700" stop="20260328222000 +0700" channel="COSMOTE Sport 2 HD">
     <title>Football: Cagliari - SSC Napoli</title>
     <desc>Live: Tidak</desc>
@@ -142,8 +138,8 @@
     <title>Football: AC Milan - Torino</title>
     <desc>Live: Tidak</desc>
 </programme>
-<programme start="20260328190000 +0700" stop="20260328210000 +0700" channel="COSMOTE Sport 3 HD">
-    <title>Football: Dundee United - Celtic FC</title>
+<programme start="20260329215000 +0700" stop="20260329235000 +0700" channel="COSMOTE Sport 2 HD">
+    <title>Football: AS Roma - Lecce</title>
     <desc>Live: Tidak</desc>
 </programme>
 <programme start="20260328210000 +0700" stop="20260328230000 +0700" channel="COSMOTE Sport 3 HD">
@@ -250,8 +246,8 @@
     <title>Basketball: Anadolu Efes - Tofas (L)</title>
     <desc>Live: Ya</desc>
 </programme>
-<programme start="20260328191500 +0700" stop="20260328203500 +0700" channel="COSMOTE Sport 5 HD">
-    <title>Motorsports: MotoGP 2026</title>
+<programme start="20260329213000 +0700" stop="20260330000000 +0700" channel="COSMOTE Sport 4 HD">
+    <title>Basketball: Charlotte Hornets - Philadelphia 76ers</title>
     <desc>Live: Tidak</desc>
 </programme>
 <programme start="20260328203500 +0700" stop="20260328212000 +0700" channel="COSMOTE Sport 5 HD">
@@ -362,9 +358,9 @@
     <title>Harley-Davidson Bagger World Cup 2026</title>
     <desc>Live: Tidak</desc>
 </programme>
-<programme start="20260328184500 +0700" stop="20260328202000 +0700" channel="COSMOTE Sport 6 HD">
-    <title>Tennis: Jiri Lehecka - Arthur Fils</title>
-    <desc>Live: Tidak</desc>
+<programme start="20260329213500 +0700" stop="20260329222000 +0700" channel="COSMOTE Sport 5 HD">
+    <title>Harley-Davidson Bagger World Cup 2026 (L)</title>
+    <desc>Live: Ya</desc>
 </programme>
 <programme start="20260328202000 +0700" stop="20260328223000 +0700" channel="COSMOTE Sport 6 HD">
     <title>Tennis: Alexander Zverev - Jannik Sinner</title>
@@ -426,10 +422,6 @@
     <title>Tennis: Harri Heliovaara/Henry Patten - Simone Bolelli/Andrea Vavassori</title>
     <desc>Live: Tidak</desc>
 </programme>
-<programme start="20260328190000 +0700" stop="20260328210000 +0700" channel="COSMOTE Sport 7 HD">
-    <title>COSMOTESport7HD</title>
-    <desc>Live: Tidak</desc>
-</programme>
 <programme start="20260328210000 +0700" stop="20260328220000 +0700" channel="COSMOTE Sport 7 HD">
     <title>COSMOTESport7HD</title>
     <desc>Live: Tidak</desc>
@@ -488,10 +480,6 @@
 </programme>
 <programme start="20260329200000 +0700" stop="20260329220000 +0700" channel="COSMOTE Sport 7 HD">
     <title>COSMOTESport7HD</title>
-    <desc>Live: Tidak</desc>
-</programme>
-<programme start="20260328190000 +0700" stop="20260328210000 +0700" channel="COSMOTE Sport 8 HD">
-    <title>COSMOTESport8HD</title>
     <desc>Live: Tidak</desc>
 </programme>
 <programme start="20260328210000 +0700" stop="20260328213000 +0700" channel="COSMOTE Sport 8 HD">
@@ -572,10 +560,6 @@
 </programme>
 <programme start="20260329200000 +0700" stop="20260329220000 +0700" channel="COSMOTE Sport 8 HD">
     <title>COSMOTESport8HD</title>
-    <desc>Live: Tidak</desc>
-</programme>
-<programme start="20260328190000 +0700" stop="20260328210000 +0700" channel="COSMOTE Sport 9 HD">
-    <title>COSMOTESport9HD</title>
     <desc>Live: Tidak</desc>
 </programme>
 <programme start="20260328210000 +0700" stop="20260328230000 +0700" channel="COSMOTE Sport 9 HD">
