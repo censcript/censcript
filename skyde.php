@@ -635,10 +635,10 @@ Warning: Undefined array key "et" in /usr/home/ManusiaBiasa/domains/manusiabiasa
 <programme start="20260328084500 +0000" stop="20260328085500 +0000" channel="Cartoonito.skyde">
     <title>Mr. Bean - Die Cartoon-Serie</title>
 </programme>
-<programme start="20260328085500 +0000" stop="20260328091000 +0000" channel="Cartoonito.skyde">
+<programme start="20260328085500 +0000" stop="20260328090500 +0000" channel="Cartoonito.skyde">
     <title>Mr. Bean - Die Cartoon-Serie</title>
 </programme>
-<programme start="20260328091000 +0000" stop="20260328092000 +0000" channel="Cartoonito.skyde">
+<programme start="20260328090500 +0000" stop="20260328092000 +0000" channel="Cartoonito.skyde">
     <title>Lamput</title>
 </programme>
 <programme start="20260328092000 +0000" stop="20260328092500 +0000" channel="Cartoonito.skyde">
@@ -650,10 +650,10 @@ Warning: Undefined array key "et" in /usr/home/ManusiaBiasa/domains/manusiabiasa
 <programme start="20260328093000 +0000" stop="20260328094500 +0000" channel="Cartoonito.skyde">
     <title>Grizzy und die Lemminge</title>
 </programme>
-<programme start="20260328094500 +0000" stop="20260328095500 +0000" channel="Cartoonito.skyde">
+<programme start="20260328094500 +0000" stop="20260328095000 +0000" channel="Cartoonito.skyde">
     <title>Grizzy und die Lemminge</title>
 </programme>
-<programme start="20260328095500 +0000" stop="20260328100000 +0000" channel="Cartoonito.skyde">
+<programme start="20260328095000 +0000" stop="20260328100000 +0000" channel="Cartoonito.skyde">
     <title>Grizzy und die Lemminge</title>
 </programme>
 <programme start="20260328100000 +0000" stop="20260328101500 +0000" channel="Cartoonito.skyde">
@@ -692,10 +692,10 @@ Warning: Undefined array key "et" in /usr/home/ManusiaBiasa/domains/manusiabiasa
 <programme start="20260328120500 +0000" stop="20260328122000 +0000" channel="Cartoonito.skyde">
     <title>Mr. Bean - Die Cartoon-Serie</title>
 </programme>
-<programme start="20260328122000 +0000" stop="20260328123000 +0000" channel="Cartoonito.skyde">
+<programme start="20260328122000 +0000" stop="20260328123500 +0000" channel="Cartoonito.skyde">
     <title>Mr. Bean - Die Cartoon-Serie</title>
 </programme>
-<programme start="20260328123000 +0000" stop="20260328125000 +0000" channel="Cartoonito.skyde">
+<programme start="20260328123500 +0000" stop="20260328125000 +0000" channel="Cartoonito.skyde">
     <title>Mr. Bean - Die Cartoon-Serie</title>
 </programme>
 <programme start="20260328125000 +0000" stop="20260328130000 +0000" channel="Cartoonito.skyde">
@@ -758,13 +758,13 @@ Warning: Undefined array key "et" in /usr/home/ManusiaBiasa/domains/manusiabiasa
 <programme start="20260328170500 +0000" stop="20260328172000 +0000" channel="Cartoonito.skyde">
     <title>Lamput</title>
 </programme>
-<programme start="20260328172000 +0000" stop="20260328173400 +0000" channel="Cartoonito.skyde">
+<programme start="20260328172000 +0000" stop="20260328173000 +0000" channel="Cartoonito.skyde">
     <title>Lamput</title>
 </programme>
-<programme start="20260328173400 +0000" stop="20260328173800 +0000" channel="Cartoonito.skyde">
+<programme start="20260328173000 +0000" stop="20260328173500 +0000" channel="Cartoonito.skyde">
     <title>Lamput</title>
 </programme>
-<programme start="20260328173800 +0000" stop="20260328174500 +0000" channel="Cartoonito.skyde">
+<programme start="20260328173500 +0000" stop="20260328174500 +0000" channel="Cartoonito.skyde">
     <title>Lamput</title>
 </programme>
 <programme start="20260328174500 +0000" stop="20260328180000 +0000" channel="Cartoonito.skyde">
@@ -794,10 +794,10 @@ Warning: Undefined array key "et" in /usr/home/ManusiaBiasa/domains/manusiabiasa
 <programme start="20260328195500 +0000" stop="20260328200000 +0000" channel="Cartoonito.skyde">
     <title>Grizzy und die Lemminge</title>
 </programme>
-<programme start="20260328200000 +0000" stop="20260328200500 +0000" channel="Cartoonito.skyde">
+<programme start="20260328200000 +0000" stop="20260328201000 +0000" channel="Cartoonito.skyde">
     <title>Grizzy und die Lemminge</title>
 </programme>
-<programme start="20260328200500 +0000" stop="20260328202000 +0000" channel="Cartoonito.skyde">
+<programme start="20260328201000 +0000" stop="20260328202000 +0000" channel="Cartoonito.skyde">
     <title>Grizzy und die Lemminge</title>
 </programme>
 <programme start="20260328202000 +0000" stop="20260328203000 +0000" channel="Cartoonito.skyde">
@@ -2609,7 +2609,7 @@ Warning: Undefined array key "et" in /usr/home/ManusiaBiasa/domains/manusiabiasa
 <programme start="20260328184000 +0000" stop="20260328190000 +0000" channel="Sky Sport Austria 2 HD.skyde">
     <title>Es folgt: Live Tennis WTA Tour</title>
 </programme>
-<programme start="20260328190000 +0000" stop="20260328213000 +0000" channel="Sky Sport Austria 2 HD.skyde">
+<programme start="20260328190000 +0000" stop="20260329003000 +0000" channel="Sky Sport Austria 2 HD.skyde">
     <title>Live WTA 1000: C. Gauff (USA) - A. Sabalenka, Miami Open presented by Itaú in Miami, Florida (USA), Finale</title>
 </programme>
 <programme start="20260328003000 +0000" stop="20260328013000 +0000" channel="Sky Sport Bundesliga HD.skyde">
@@ -3117,7 +3117,7 @@ Warning: Undefined array key "et" in /usr/home/ManusiaBiasa/domains/manusiabiasa
     <title>Live ATP 1000: Finale, Miami Open presented by Itaú in Miami, Florida (USA), Doppelfinale,</title>
 </programme>
 <programme start="20260328190000 +0000" stop="20260328213000 +0000" channel="Sky Sport Top Event HD.skyde">
-    <title>Live WTA 1000: Finale, Miami Open presented by Itaú in Miami, Florida (USA), Finale</title>
+    <title>Live WTA 1000: C. Gauff (USA) - A. Sabalenka, Miami Open presented by Itaú in Miami, Florida (USA), Finale</title>
 </programme>
 <programme start="20260328213000 +0000" stop="20260328220000 +0000" channel="Sky Sport Top Event HD.skyde">
     <title>NBA: On Fire</title>
@@ -3197,13 +3197,13 @@ Warning: Undefined array key "et" in /usr/home/ManusiaBiasa/domains/manusiabiasa
 <programme start="20260328191000 +0000" stop="20260328193000 +0000" channel="Sky Sport 1 HD.skyde">
     <title>Es folgt Eishockey: NHL</title>
 </programme>
-<programme start="20260328193000 +0000" stop="20260328223000 +0000" channel="Sky Sport 1 HD.skyde">
+<programme start="20260328193000 +0000" stop="20260329020000 +0000" channel="Sky Sport 1 HD.skyde">
     <title>Live NHL: Anaheim Ducks @ Edmonton Oilers</title>
 </programme>
 <programme start="20260328214000 +0000" stop="20260328220000 +0000" channel="Sky Sport 2 HD.skyde">
     <title>Es folgt: LIVE Basketball  NBA</title>
 </programme>
-<programme start="20260328220000 +0000" stop="20260329010000 +0000" channel="Sky Sport 2 HD.skyde">
+<programme start="20260328220000 +0000" stop="20260329080000 +0000" channel="Sky Sport 2 HD.skyde">
     <title>Live NBA: Philadelphia 76ers @ Charlotte Hornets</title>
 </programme>
 <programme start="20260327230000 +0000" stop="20260327234500 +0000" channel="SYFY HD.skyde">

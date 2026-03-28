@@ -3929,7 +3929,7 @@
         <title>Somewhere Street &quot;Christchurch, New Zealand&quot;</title>
     </programme>
     <programme start="20260328153000 +0000" stop="20260328163000 +0000" channel="NHK World Premium HD.starhub">
-        <title>Rokkaku Seiji&#039;s Nomitetsu Railroad Trip: Northern Line, State Railway of Thailan</title>
+        <title>Rokkaku Seiji&#039;s Nomitetsu Railroad Trip: Northern Line, State Railway of Thailand Part 3 (R)</title>
     </programme>
     <programme start="20260327145000 +0000" stop="20260327171500 +0000" channel="HBO HD.starhub">
         <title>Eddington</title>
