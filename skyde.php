@@ -2798,13 +2798,13 @@ Warning: Undefined array key "et" in /usr/home/ManusiaBiasa/domains/manusiabiasa
 <programme start="20260328220000 +0000" stop="20260329010000 +0000" channel="Sky Sport Golf HD.skyde">
     <title>Live LPGA: Ford Championship presented by Wild Horse Pass, 3. Tag in Phoenix, AZ (USA)</title>
 </programme>
-<programme start="20260327230000 +0000" stop="20260328020000 +0000" channel="Sky Sport Mix HD.skyde">
+<programme start="20260327230000 +0000" stop="20260328014500 +0000" channel="Sky Sport Mix HD.skyde">
     <title>Live NHL: Detroit Red Wings @ Buffalo Sabres</title>
 </programme>
-<programme start="20260328020000 +0000" stop="20260328031000 +0000" channel="Sky Sport Mix HD.skyde">
+<programme start="20260328014500 +0000" stop="20260328030500 +0000" channel="Sky Sport Mix HD.skyde">
     <title>MotoGP: 1. Freies Training - GP USA</title>
 </programme>
-<programme start="20260328031000 +0000" stop="20260328043000 +0000" channel="Sky Sport Mix HD.skyde">
+<programme start="20260328030500 +0000" stop="20260328043000 +0000" channel="Sky Sport Mix HD.skyde">
     <title>MotoGP: Training - GP USA</title>
 </programme>
 <programme start="20260328043000 +0000" stop="20260328053000 +0000" channel="Sky Sport Mix HD.skyde">
@@ -3683,10 +3683,10 @@ Warning: Undefined array key "et" in /usr/home/ManusiaBiasa/domains/manusiabiasa
 <programme start="20260328091500 +0000" stop="20260328100500 +0000" channel="Warner TV Serie HD.skyde">
     <title>Mord ist ihr Hobby</title>
 </programme>
-<programme start="20260328100500 +0000" stop="20260328105000 +0000" channel="Warner TV Serie HD.skyde">
+<programme start="20260328100500 +0000" stop="20260328105500 +0000" channel="Warner TV Serie HD.skyde">
     <title>Alert: Missing Persons Unit</title>
 </programme>
-<programme start="20260328105000 +0000" stop="20260328114000 +0000" channel="Warner TV Serie HD.skyde">
+<programme start="20260328105500 +0000" stop="20260328114000 +0000" channel="Warner TV Serie HD.skyde">
     <title>Alert: Missing Persons Unit</title>
 </programme>
 <programme start="20260328114000 +0000" stop="20260328122500 +0000" channel="Warner TV Serie HD.skyde">
@@ -3698,25 +3698,25 @@ Warning: Undefined array key "et" in /usr/home/ManusiaBiasa/domains/manusiabiasa
 <programme start="20260328131000 +0000" stop="20260328135500 +0000" channel="Warner TV Serie HD.skyde">
     <title>NCIS: Los Angeles</title>
 </programme>
-<programme start="20260328135500 +0000" stop="20260328144000 +0000" channel="Warner TV Serie HD.skyde">
+<programme start="20260328135500 +0000" stop="20260328144500 +0000" channel="Warner TV Serie HD.skyde">
     <title>NCIS: Los Angeles</title>
 </programme>
-<programme start="20260328144000 +0000" stop="20260328152500 +0000" channel="Warner TV Serie HD.skyde">
+<programme start="20260328144500 +0000" stop="20260328152500 +0000" channel="Warner TV Serie HD.skyde">
     <title>NCIS: Los Angeles</title>
 </programme>
-<programme start="20260328152500 +0000" stop="20260328161000 +0000" channel="Warner TV Serie HD.skyde">
+<programme start="20260328152500 +0000" stop="20260328161500 +0000" channel="Warner TV Serie HD.skyde">
     <title>NCIS</title>
 </programme>
-<programme start="20260328161000 +0000" stop="20260328165500 +0000" channel="Warner TV Serie HD.skyde">
+<programme start="20260328161500 +0000" stop="20260328170000 +0000" channel="Warner TV Serie HD.skyde">
     <title>NCIS</title>
 </programme>
-<programme start="20260328165500 +0000" stop="20260328174000 +0000" channel="Warner TV Serie HD.skyde">
+<programme start="20260328170000 +0000" stop="20260328174500 +0000" channel="Warner TV Serie HD.skyde">
     <title>NCIS</title>
 </programme>
-<programme start="20260328174000 +0000" stop="20260328182500 +0000" channel="Warner TV Serie HD.skyde">
+<programme start="20260328174500 +0000" stop="20260328183000 +0000" channel="Warner TV Serie HD.skyde">
     <title>NCIS</title>
 </programme>
-<programme start="20260328182500 +0000" stop="20260328191500 +0000" channel="Warner TV Serie HD.skyde">
+<programme start="20260328183000 +0000" stop="20260328191500 +0000" channel="Warner TV Serie HD.skyde">
     <title>NCIS</title>
 </programme>
 <programme start="20260328191500 +0000" stop="20260328211000 +0000" channel="Warner TV Serie HD.skyde">
