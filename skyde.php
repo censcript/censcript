@@ -3044,14 +3044,14 @@ Warning: Undefined array key "et" in /usr/home/ManusiaBiasa/domains/manusiabiasa
 <programme start="20260328223000 +0000" stop="20260328230000 +0000" channel="Sky Sport Premier League HD.skyde">
     <title>PL: PL Stories (Didier Drogba)</title>
 </programme>
-<programme start="20260328010000 +0000" stop="20260328030000 +0000" channel="Sky Sport Tennis HD.skyde">
+<programme start="20260328011500 +0000" stop="20260328030000 +0000" channel="Sky Sport Tennis HD.skyde">
     <title>ATP 1000: J. Lehecka (CZE) - A. Fils (FRA), Miami Open presented by Itaú in Miami, Florida (USA), Halbfinale 1</title>
 </programme>
-<programme start="20260328030000 +0000" stop="20260328050000 +0000" channel="Sky Sport Tennis HD.skyde">
-    <title>ATP 1000: A. Zverev (GER) - J. Sinner (ITA), Miami Open presented by Itaú in Miami, Florida (USA), Halbfinale 2</title>
-</programme>
-<programme start="20260328050000 +0000" stop="20260328073000 +0000" channel="Sky Sport Tennis HD.skyde">
+<programme start="20260328030000 +0000" stop="20260328053000 +0000" channel="Sky Sport Tennis HD.skyde">
     <title>WTA 1000: E. Rybakina (KAZ) - A. Sabalenka, BNP Paribas Open in Indian Wells, Kalifornien (USA), Finale</title>
+</programme>
+<programme start="20260328053000 +0000" stop="20260328073000 +0000" channel="Sky Sport Tennis HD.skyde">
+    <title>ATP 1000: A. Zverev (GER) - J. Sinner (ITA), Miami Open presented by Itaú in Miami, Florida (USA), Halbfinale 2</title>
 </programme>
 <programme start="20260328073000 +0000" stop="20260328083000 +0000" channel="Sky Sport Tennis HD.skyde">
     <title>ATP 1000: Review Indian Wells</title>
@@ -3069,13 +3069,13 @@ Warning: Undefined array key "et" in /usr/home/ManusiaBiasa/domains/manusiabiasa
     <title>ATP 1000: A. Zverev (GER) - J. Sinner (ITA), Miami Open presented by Itaú in Miami, Florida (USA), Halbfinale 2</title>
 </programme>
 <programme start="20260328163000 +0000" stop="20260328190000 +0000" channel="Sky Sport Tennis HD.skyde">
-    <title>Live ATP 1000: Finale, Miami Open presented by Itaú in Miami, Florida (USA), Doppelfinale,</title>
+    <title>Live ATP 1000: H. Heliovaara (FIN) / H. Patten (GBR) - S. Bolelli (ITA) / A. Vavassori (ITA), Miami Open presented by Itaú in Miami, Florida (USA), Doppelfinale,</title>
 </programme>
 <programme start="20260328190000 +0000" stop="20260328213000 +0000" channel="Sky Sport Tennis HD.skyde">
     <title>Live WTA 1000: C. Gauff (USA) - A. Sabalenka, Miami Open presented by Itaú in Miami, Florida (USA), Finale</title>
 </programme>
 <programme start="20260328213000 +0000" stop="20260329000000 +0000" channel="Sky Sport Tennis HD.skyde">
-    <title>ATP 1000: Finale, Miami Open presented by Itaú in Miami, Florida (USA), Doppelfinale,</title>
+    <title>ATP 1000: H. Heliovaara (FIN) / H. Patten (GBR) - S. Bolelli (ITA) / A. Vavassori (ITA), Miami Open presented by Itaú in Miami, Florida (USA), Doppelfinale,</title>
 </programme>
 <programme start="20260328011500 +0000" stop="20260328021500 +0000" channel="Sky Sport Top Event HD.skyde">
     <title>Live NBA: Miami Heat @ Cleveland Cavaliers</title>
@@ -3146,8 +3146,17 @@ Warning: Undefined array key "et" in /usr/home/ManusiaBiasa/domains/manusiabiasa
 <programme start="20260328050000 +0000" stop="20260328053000 +0000" channel="Sky Sport UHD.skyde">
     <title>F1: GP Confidential</title>
 </programme>
-<programme start="20260328053000 +0000" stop="20260328073000 +0000" channel="Sky Sport UHD.skyde">
+<programme start="20260328053000 +0000" stop="20260328070000 +0000" channel="Sky Sport UHD.skyde">
+    <title>F1: 2. Freies Training - GP Japan</title>
+</programme>
+<programme start="20260328063000 +0000" stop="20260328073000 +0000" channel="Sky Sport UHD.skyde">
     <title>Live F1: Qualifying - GP Japan</title>
+</programme>
+<programme start="20260328070000 +0000" stop="20260328073000 +0000" channel="Sky Sport UHD.skyde">
+    <title>F1: 3. Freies Training - GP Japan</title>
+</programme>
+<programme start="20260328073000 +0000" stop="20260328080000 +0000" channel="Sky Sport UHD.skyde">
+    <title>Live F1: Pressekonferenz Qualifying - GP Japan</title>
 </programme>
 <programme start="20260328073000 +0000" stop="20260328080000 +0000" channel="Sky Sport UHD.skyde">
     <title>Live F1: Pressekonferenz Qualifying - GP Japan</title>
@@ -3155,13 +3164,19 @@ Warning: Undefined array key "et" in /usr/home/ManusiaBiasa/domains/manusiabiasa
 <programme start="20260328080000 +0000" stop="20260328083000 +0000" channel="Sky Sport UHD.skyde">
     <title>Golf: Greatest Holes (1)</title>
 </programme>
-<programme start="20260328083000 +0000" stop="20260328100000 +0000" channel="Sky Sport UHD.skyde">
+<programme start="20260328080000 +0000" stop="20260328083000 +0000" channel="Sky Sport UHD.skyde">
+    <title>Golf: Greatest Holes (1)</title>
+</programme>
+<programme start="20260328083000 +0000" stop="20260328100500 +0000" channel="Sky Sport UHD.skyde">
     <title>F1: Qualifying - GP Japan</title>
 </programme>
-<programme start="20260328100000 +0000" stop="20260328103000 +0000" channel="Sky Sport UHD.skyde">
+<programme start="20260328100500 +0000" stop="20260328103000 +0000" channel="Sky Sport UHD.skyde">
     <title>Golf: Greatest Holes (2)</title>
 </programme>
-<programme start="20260328103000 +0000" stop="20260328120000 +0000" channel="Sky Sport UHD.skyde">
+<programme start="20260328100500 +0000" stop="20260328110500 +0000" channel="Sky Sport UHD.skyde">
+    <title>F1: 3. Freies Training - GP Japan</title>
+</programme>
+<programme start="20260328110500 +0000" stop="20260328123000 +0000" channel="Sky Sport UHD.skyde">
     <title>F1: Qualifying - GP Japan</title>
 </programme>
 <programme start="20260328120000 +0000" stop="20260328123000 +0000" channel="Sky Sport UHD.skyde">
@@ -3188,8 +3203,8 @@ Warning: Undefined array key "et" in /usr/home/ManusiaBiasa/domains/manusiabiasa
 <programme start="20260328213000 +0000" stop="20260328220000 +0000" channel="Sky Sport UHD.skyde">
     <title>Golf: Greatest Holes (5)</title>
 </programme>
-<programme start="20260328220000 +0000" stop="20260328233000 +0000" channel="Sky Sport UHD.skyde">
-    <title>F1: 1. Freies Training - GP Japan</title>
+<programme start="20260328220000 +0000" stop="20260328230000 +0000" channel="Sky Sport UHD.skyde">
+    <title>F1 Academy: 2. Rennen - GP China</title>
 </programme>
 <programme start="20260327231000 +0000" stop="20260327233000 +0000" channel="Sky Sport 1 HD.skyde">
     <title>Es folgt: LIVE Basketball NBA</title>
