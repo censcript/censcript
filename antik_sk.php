@@ -3361,6 +3361,171 @@
   <programme start="20260330214500 +0000" stop="20260330223200 +0000" channel="ČT2.webtv.sk">
     <title lang="id">Babylon Berlín IV (6/12)</title>
   </programme>
+  <programme start="20260329220000 +0000" stop="20260329221000 +0000" channel="ČT24.webtv.sk">
+    <title lang="id">Zprávy</title>
+  </programme>
+  <programme start="20260329221000 +0000" stop="20260329230000 +0000" channel="ČT24.webtv.sk">
+    <title lang="id">Studio ČT24</title>
+  </programme>
+  <programme start="20260329230000 +0000" stop="20260329231000 +0000" channel="ČT24.webtv.sk">
+    <title lang="id">Zprávy</title>
+  </programme>
+  <programme start="20260329231000 +0000" stop="20260330000000 +0000" channel="ČT24.webtv.sk">
+    <title lang="id">Studio ČT24</title>
+  </programme>
+  <programme start="20260330000000 +0000" stop="20260330001000 +0000" channel="ČT24.webtv.sk">
+    <title lang="id">Zprávy</title>
+  </programme>
+  <programme start="20260330001000 +0000" stop="20260330003400 +0000" channel="ČT24.webtv.sk">
+    <title lang="id">Studio ČT24</title>
+  </programme>
+  <programme start="20260330003400 +0000" stop="20260330010000 +0000" channel="ČT24.webtv.sk">
+    <title lang="id">Zajímavosti z regionů</title>
+  </programme>
+  <programme start="20260330010000 +0000" stop="20260330011000 +0000" channel="ČT24.webtv.sk">
+    <title lang="id">Zprávy</title>
+  </programme>
+  <programme start="20260330011000 +0000" stop="20260330013400 +0000" channel="ČT24.webtv.sk">
+    <title lang="id">Studio ČT24</title>
+  </programme>
+  <programme start="20260330013400 +0000" stop="20260330020000 +0000" channel="ČT24.webtv.sk">
+    <title lang="id">Zajímavosti z regionů</title>
+  </programme>
+  <programme start="20260330020000 +0000" stop="20260330021000 +0000" channel="ČT24.webtv.sk">
+    <title lang="id">Zprávy</title>
+  </programme>
+  <programme start="20260330021000 +0000" stop="20260330030000 +0000" channel="ČT24.webtv.sk">
+    <title lang="id">Studio ČT24</title>
+  </programme>
+  <programme start="20260330030000 +0000" stop="20260330031000 +0000" channel="ČT24.webtv.sk">
+    <title lang="id">Zprávy</title>
+  </programme>
+  <programme start="20260330031000 +0000" stop="20260330035900 +0000" channel="ČT24.webtv.sk">
+    <title lang="id">Studio ČT24</title>
+  </programme>
+  <programme start="20260330035900 +0000" stop="20260330070000 +0000" channel="ČT24.webtv.sk">
+    <title lang="id">Studio 6</title>
+  </programme>
+  <programme start="20260330070000 +0000" stop="20260330080000 +0000" channel="ČT24.webtv.sk">
+    <title lang="id">Studio 6 II</title>
+  </programme>
+  <programme start="20260330080000 +0000" stop="20260330100000 +0000" channel="ČT24.webtv.sk">
+    <title lang="id">Studio ČT24</title>
+  </programme>
+  <programme start="20260330100000 +0000" stop="20260330102000 +0000" channel="ČT24.webtv.sk">
+    <title lang="id">Zprávy ve 12</title>
+  </programme>
+  <programme start="20260330102000 +0000" stop="20260330103000 +0000" channel="ČT24.webtv.sk">
+    <title lang="id">Předpověď počasí, sportovní zprávy</title>
+  </programme>
+  <programme start="20260330103000 +0000" stop="20260330103300 +0000" channel="ČT24.webtv.sk">
+    <title lang="id">Zprávy</title>
+  </programme>
+  <programme start="20260330103300 +0000" stop="20260330110000 +0000" channel="ČT24.webtv.sk">
+    <title lang="id">Studio ČT24</title>
+  </programme>
+  <programme start="20260330110000 +0000" stop="20260330110300 +0000" channel="ČT24.webtv.sk">
+    <title lang="id">Zprávy</title>
+  </programme>
+  <programme start="20260330110300 +0000" stop="20260330113000 +0000" channel="ČT24.webtv.sk">
+    <title lang="id">Studio ČT24</title>
+  </programme>
+  <programme start="20260330113000 +0000" stop="20260330113300 +0000" channel="ČT24.webtv.sk">
+    <title lang="id">Zprávy</title>
+  </programme>
+  <programme start="20260330113300 +0000" stop="20260330120000 +0000" channel="ČT24.webtv.sk">
+    <title lang="id">Studio ČT24</title>
+  </programme>
+  <programme start="20260330120000 +0000" stop="20260330120300 +0000" channel="ČT24.webtv.sk">
+    <title lang="id">Zprávy</title>
+  </programme>
+  <programme start="20260330120300 +0000" stop="20260330123000 +0000" channel="ČT24.webtv.sk">
+    <title lang="id">Studio ČT24</title>
+  </programme>
+  <programme start="20260330123000 +0000" stop="20260330123300 +0000" channel="ČT24.webtv.sk">
+    <title lang="id">Zprávy</title>
+  </programme>
+  <programme start="20260330123300 +0000" stop="20260330130000 +0000" channel="ČT24.webtv.sk">
+    <title lang="id">Studio ČT24</title>
+  </programme>
+  <programme start="20260330130000 +0000" stop="20260330130300 +0000" channel="ČT24.webtv.sk">
+    <title lang="id">Zprávy</title>
+  </programme>
+  <programme start="20260330130300 +0000" stop="20260330133000 +0000" channel="ČT24.webtv.sk">
+    <title lang="id">Studio ČT24</title>
+  </programme>
+  <programme start="20260330133000 +0000" stop="20260330133300 +0000" channel="ČT24.webtv.sk">
+    <title lang="id">Zprávy</title>
+  </programme>
+  <programme start="20260330133300 +0000" stop="20260330134000 +0000" channel="ČT24.webtv.sk">
+    <title lang="id">Studio ČT24</title>
+  </programme>
+  <programme start="20260330134000 +0000" stop="20260330140000 +0000" channel="ČT24.webtv.sk">
+    <title lang="id">Ekonomika ČT24</title>
+  </programme>
+  <programme start="20260330140000 +0000" stop="20260330143000 +0000" channel="ČT24.webtv.sk">
+    <title lang="id">Zprávy v 16</title>
+  </programme>
+  <programme start="20260330143000 +0000" stop="20260330143300 +0000" channel="ČT24.webtv.sk">
+    <title lang="id">Zprávy</title>
+  </programme>
+  <programme start="20260330143300 +0000" stop="20260330150000 +0000" channel="ČT24.webtv.sk">
+    <title lang="id">Studio ČT24</title>
+  </programme>
+  <programme start="20260330150000 +0000" stop="20260330150300 +0000" channel="ČT24.webtv.sk">
+    <title lang="id">Zprávy</title>
+  </programme>
+  <programme start="20260330150300 +0000" stop="20260330153000 +0000" channel="ČT24.webtv.sk">
+    <title lang="id">Studio ČT24</title>
+  </programme>
+  <programme start="20260330153000 +0000" stop="20260330153300 +0000" channel="ČT24.webtv.sk">
+    <title lang="id">Zprávy</title>
+  </programme>
+  <programme start="20260330153300 +0000" stop="20260330155500 +0000" channel="ČT24.webtv.sk">
+    <title lang="id">Studio ČT24</title>
+  </programme>
+  <programme start="20260330155500 +0000" stop="20260330160000 +0000" channel="ČT24.webtv.sk">
+    <title lang="id">Předpověď počasí</title>
+  </programme>
+  <programme start="20260330160000 +0000" stop="20260330160300 +0000" channel="ČT24.webtv.sk">
+    <title lang="id">Zprávy</title>
+  </programme>
+  <programme start="20260330160300 +0000" stop="20260330162800 +0000" channel="ČT24.webtv.sk">
+    <title lang="id">Studio ČT24</title>
+  </programme>
+  <programme start="20260330162800 +0000" stop="20260330165500 +0000" channel="ČT24.webtv.sk">
+    <title lang="id">Interview ČT24</title>
+  </programme>
+  <programme start="20260330165500 +0000" stop="20260330170000 +0000" channel="ČT24.webtv.sk">
+    <title lang="id">Události za okamžik a počasí</title>
+  </programme>
+  <programme start="20260330170000 +0000" stop="20260330175400 +0000" channel="ČT24.webtv.sk">
+    <title lang="id">Události</title>
+  </programme>
+  <programme start="20260330175400 +0000" stop="20260330175600 +0000" channel="ČT24.webtv.sk">
+    <title lang="id">Počasí v evropských metropolích</title>
+  </programme>
+  <programme start="20260330175600 +0000" stop="20260330180700 +0000" channel="ČT24.webtv.sk">
+    <title lang="id">Branky, body, vteřiny</title>
+  </programme>
+  <programme start="20260330180700 +0000" stop="20260330193000 +0000" channel="ČT24.webtv.sk">
+    <title lang="id">90&apos; ČT24</title>
+  </programme>
+  <programme start="20260330193000 +0000" stop="20260330200000 +0000" channel="ČT24.webtv.sk">
+    <title lang="id">Horizont ČT24</title>
+  </programme>
+  <programme start="20260330200000 +0000" stop="20260330210000 +0000" channel="ČT24.webtv.sk">
+    <title lang="id">Události, komentáře</title>
+  </programme>
+  <programme start="20260330210000 +0000" stop="20260330210500 +0000" channel="ČT24.webtv.sk">
+    <title lang="id">Předpověď počasí</title>
+  </programme>
+  <programme start="20260330210500 +0000" stop="20260330213200 +0000" channel="ČT24.webtv.sk">
+    <title lang="id">Zprávy ve 23</title>
+  </programme>
+  <programme start="20260330213200 +0000" stop="20260330220000 +0000" channel="ČT24.webtv.sk">
+    <title lang="id">Interview ČT24</title>
+  </programme>
   <programme start="20260329213500 +0000" stop="20260329220100 +0000" channel="ČT :D - ČT art.webtv.sk">
     <title lang="id">Kominského metoda II (4/8)</title>
   </programme>
@@ -4041,6 +4206,90 @@
   </programme>
   <programme start="20260330210000 +0000" stop="20260330220000 +0000" channel="Prima Cool SK.webtv.sk">
     <title lang="id">Top Gear XI (2)</title>
+  </programme>
+  <programme start="20260329211500 +0000" stop="20260329221500 +0000" channel="Prima Love SK.webtv.sk">
+    <title lang="id">Velmi křehké vztahy III (45)</title>
+  </programme>
+  <programme start="20260329221500 +0000" stop="20260329231000 +0000" channel="Prima Love SK.webtv.sk">
+    <title lang="id">Velmi křehké vztahy III (46)</title>
+  </programme>
+  <programme start="20260329231000 +0000" stop="20260330000500 +0000" channel="Prima Love SK.webtv.sk">
+    <title lang="id">Dvojí tvář lásky (12)</title>
+  </programme>
+  <programme start="20260330000500 +0000" stop="20260330010000 +0000" channel="Prima Love SK.webtv.sk">
+    <title lang="id">Dvojí tvář lásky (13)</title>
+  </programme>
+  <programme start="20260330010000 +0000" stop="20260330014000 +0000" channel="Prima Love SK.webtv.sk">
+    <title lang="id">Doktor z hor: Nové příběhy VIII (13)</title>
+  </programme>
+  <programme start="20260330014000 +0000" stop="20260330022500 +0000" channel="Prima Love SK.webtv.sk">
+    <title lang="id">Doktor z hor: Nové příběhy VIII (14)</title>
+  </programme>
+  <programme start="20260330022500 +0000" stop="20260330033000 +0000" channel="Prima Love SK.webtv.sk">
+    <title lang="id">Gondíci s. r. o.</title>
+  </programme>
+  <programme start="20260330033000 +0000" stop="20260330034500 +0000" channel="Prima Love SK.webtv.sk">
+    <title lang="id">Relaxační podívaná</title>
+  </programme>
+  <programme start="20260330034500 +0000" stop="20260330040000 +0000" channel="Prima Love SK.webtv.sk">
+    <title lang="id">Vysielacia prestávka</title>
+  </programme>
+  <programme start="20260330040000 +0000" stop="20260330043000 +0000" channel="Prima Love SK.webtv.sk">
+    <title lang="id">Relaxační podívaná</title>
+  </programme>
+  <programme start="20260330043000 +0000" stop="20260330050000 +0000" channel="Prima Love SK.webtv.sk">
+    <title lang="id">Karolína, domácí kuchařka</title>
+  </programme>
+  <programme start="20260330050000 +0000" stop="20260330053500 +0000" channel="Prima Love SK.webtv.sk">
+    <title lang="id">Karolína, domácí kuchařka</title>
+  </programme>
+  <programme start="20260330053500 +0000" stop="20260330064000 +0000" channel="Prima Love SK.webtv.sk">
+    <title lang="id">Ano, šéfe!</title>
+  </programme>
+  <programme start="20260330064000 +0000" stop="20260330074500 +0000" channel="Prima Love SK.webtv.sk">
+    <title lang="id">Velmi křehké vztahy III (45)</title>
+  </programme>
+  <programme start="20260330074500 +0000" stop="20260330085500 +0000" channel="Prima Love SK.webtv.sk">
+    <title lang="id">Velmi křehké vztahy III (46)</title>
+  </programme>
+  <programme start="20260330085500 +0000" stop="20260330100000 +0000" channel="Prima Love SK.webtv.sk">
+    <title lang="id">Dvojí tvář lásky (12)</title>
+  </programme>
+  <programme start="20260330100000 +0000" stop="20260330111000 +0000" channel="Prima Love SK.webtv.sk">
+    <title lang="id">Dvojí tvář lásky (13)</title>
+  </programme>
+  <programme start="20260330111000 +0000" stop="20260330120500 +0000" channel="Prima Love SK.webtv.sk">
+    <title lang="id">Doktor z hor: Nové příběhy VIII (13)</title>
+  </programme>
+  <programme start="20260330120500 +0000" stop="20260330130000 +0000" channel="Prima Love SK.webtv.sk">
+    <title lang="id">Doktor z hor: Nové příběhy VIII (14)</title>
+  </programme>
+  <programme start="20260330130000 +0000" stop="20260330140500 +0000" channel="Prima Love SK.webtv.sk">
+    <title lang="id">Velmi křehké vztahy III (47)</title>
+  </programme>
+  <programme start="20260330140500 +0000" stop="20260330151000 +0000" channel="Prima Love SK.webtv.sk">
+    <title lang="id">Velmi křehké vztahy III (48)</title>
+  </programme>
+  <programme start="20260330151000 +0000" stop="20260330161500 +0000" channel="Prima Love SK.webtv.sk">
+    <title lang="id">Ano, šéfe!</title>
+  </programme>
+  <programme start="20260330161500 +0000" stop="20260330171500 +0000" channel="Prima Love SK.webtv.sk">
+    <title lang="id">Dvojí tvář lásky (14)</title>
+  </programme>
+  <programme start="20260330171500 +0000" stop="20260330181500 +0000" channel="Prima Love SK.webtv.sk">
+    <title lang="id">Dvojí tvář lásky (15)</title>
+  </programme>
+  <programme start="20260330181500 +0000" stop="20260330190500 +0000" channel="Prima Love SK.webtv.sk">
+    <title lang="id">Doktor z hor: Nové příběhy VIII (15)</title>
+  </programme>
+  <programme start="20260330190500 +0000" stop="20260330195500 +0000" channel="Prima Love SK.webtv.sk">
+    <title lang="id">Doktor z hor: Nové příběhy VIII (16)</title>
+  </programme>
+  <programme start="20260330195500 +0000" stop="20260330210500 +0000" channel="Prima Love SK.webtv.sk">
+    <title lang="id">Ano, šéfe!</title>
+  </programme>
+  <programme start="20260330210500 +0000" stop="20260330220500 +0000" channel="Prima Love SK.webtv.sk">
+    <title lang="id">Velmi křehké vztahy III (47)</title>
   </programme>
   <programme start="20260329202000 +0000" stop="20260329221500 +0000" channel="Prima Krimi SK.webtv.sk">
     <title lang="id">Big Ben VII (2)</title>
@@ -9159,102 +9408,6 @@
   </programme>
   <programme start="20260330215500 +0000" stop="20260330233000 +0000" channel="Filmbox Arthouse.webtv.sk">
     <title lang="id">Go for Broke!</title>
-  </programme>
-  <programme start="20260329220000 +0000" stop="20260329223000 +0000" channel="FashionBox.webtv.sk">
-    <title lang="id">World Of Celebrities I (37)</title>
-  </programme>
-  <programme start="20260329223000 +0000" stop="20260329230000 +0000" channel="FashionBox.webtv.sk">
-    <title lang="id">World Of Celebrities I (38)</title>
-  </programme>
-  <programme start="20260329230000 +0000" stop="20260329233000 +0000" channel="FashionBox.webtv.sk">
-    <title lang="id">Swim Week 2023 (5)</title>
-  </programme>
-  <programme start="20260329233000 +0000" stop="20260330000000 +0000" channel="FashionBox.webtv.sk">
-    <title lang="id">Swim Week 2023 (6)</title>
-  </programme>
-  <programme start="20260330000000 +0000" stop="20260330003000 +0000" channel="FashionBox.webtv.sk">
-    <title lang="id">World Of Luxury I (47)</title>
-  </programme>
-  <programme start="20260330003000 +0000" stop="20260330010000 +0000" channel="FashionBox.webtv.sk">
-    <title lang="id">World Of Luxury I (48)</title>
-  </programme>
-  <programme start="20260330010000 +0000" stop="20260330013000 +0000" channel="FashionBox.webtv.sk">
-    <title lang="id">Ny Miami Mens Spring Summer 2019 (1)</title>
-  </programme>
-  <programme start="20260330013000 +0000" stop="20260330020000 +0000" channel="FashionBox.webtv.sk">
-    <title lang="id">Ny Miami Mens Spring Summer 2019 (2)</title>
-  </programme>
-  <programme start="20260330020000 +0000" stop="20260330023000 +0000" channel="FashionBox.webtv.sk">
-    <title lang="id">Swim Week 2023 (13)</title>
-  </programme>
-  <programme start="20260330023000 +0000" stop="20260330030000 +0000" channel="FashionBox.webtv.sk">
-    <title lang="id">Swim Week 2023 (14)</title>
-  </programme>
-  <programme start="20260330030000 +0000" stop="20260330040000 +0000" channel="FashionBox.webtv.sk">
-    <title lang="id">Homme I (1)</title>
-  </programme>
-  <programme start="20260330040000 +0000" stop="20260330050000 +0000" channel="FashionBox.webtv.sk">
-    <title lang="id">Femme III (1)</title>
-  </programme>
-  <programme start="20260330050000 +0000" stop="20260330060000 +0000" channel="FashionBox.webtv.sk">
-    <title lang="id">Cities I (1)</title>
-  </programme>
-  <programme start="20260330060000 +0000" stop="20260330070000 +0000" channel="FashionBox.webtv.sk">
-    <title lang="id">Look I (1)</title>
-  </programme>
-  <programme start="20260330070000 +0000" stop="20260330080000 +0000" channel="FashionBox.webtv.sk">
-    <title lang="id">Cities I (1)</title>
-  </programme>
-  <programme start="20260330080000 +0000" stop="20260330090000 +0000" channel="FashionBox.webtv.sk">
-    <title lang="id">Look I (1)</title>
-  </programme>
-  <programme start="20260330090000 +0000" stop="20260330100000 +0000" channel="FashionBox.webtv.sk">
-    <title lang="id">Homme I (1)</title>
-  </programme>
-  <programme start="20260330100000 +0000" stop="20260330110000 +0000" channel="FashionBox.webtv.sk">
-    <title lang="id">Femme III (1)</title>
-  </programme>
-  <programme start="20260330110000 +0000" stop="20260330120000 +0000" channel="FashionBox.webtv.sk">
-    <title lang="id">Cities I (1)</title>
-  </programme>
-  <programme start="20260330120000 +0000" stop="20260330130000 +0000" channel="FashionBox.webtv.sk">
-    <title lang="id">Look I (1)</title>
-  </programme>
-  <programme start="20260330130000 +0000" stop="20260330140000 +0000" channel="FashionBox.webtv.sk">
-    <title lang="id">Cities I (1)</title>
-  </programme>
-  <programme start="20260330140000 +0000" stop="20260330150000 +0000" channel="FashionBox.webtv.sk">
-    <title lang="id">Look I (1)</title>
-  </programme>
-  <programme start="20260330150000 +0000" stop="20260330160000 +0000" channel="FashionBox.webtv.sk">
-    <title lang="id">Homme I (1)</title>
-  </programme>
-  <programme start="20260330160000 +0000" stop="20260330170000 +0000" channel="FashionBox.webtv.sk">
-    <title lang="id">Femme III (1)</title>
-  </programme>
-  <programme start="20260330170000 +0000" stop="20260330180000 +0000" channel="FashionBox.webtv.sk">
-    <title lang="id">Cities I (1)</title>
-  </programme>
-  <programme start="20260330180000 +0000" stop="20260330182000 +0000" channel="FashionBox.webtv.sk">
-    <title lang="id">Legend Of Lagerfeld (1)</title>
-  </programme>
-  <programme start="20260330182000 +0000" stop="20260330184000 +0000" channel="FashionBox.webtv.sk">
-    <title lang="id">Legend Of Lagerfeld (2)</title>
-  </programme>
-  <programme start="20260330184000 +0000" stop="20260330190000 +0000" channel="FashionBox.webtv.sk">
-    <title lang="id">Legend Of Lagerfeld (3)</title>
-  </programme>
-  <programme start="20260330190000 +0000" stop="20260330200000 +0000" channel="FashionBox.webtv.sk">
-    <title lang="id">City Chic Paris</title>
-  </programme>
-  <programme start="20260330200000 +0000" stop="20260330210000 +0000" channel="FashionBox.webtv.sk">
-    <title lang="id">Luxury Life - Georges Braque Exhibition Spain &amp; Dakar 2015</title>
-  </programme>
-  <programme start="20260330210000 +0000" stop="20260330213000 +0000" channel="FashionBox.webtv.sk">
-    <title lang="id">New York Fashionweek - Spring Summer 2019 (27)</title>
-  </programme>
-  <programme start="20260330213000 +0000" stop="20260330220000 +0000" channel="FashionBox.webtv.sk">
-    <title lang="id">New York Fashionweek - Spring Summer 2019 (28)</title>
   </programme>
   <programme start="20260329220000 +0000" stop="20260329230000 +0000" channel="Fast and Funbox.webtv.sk">
     <title lang="id">The Electric Future</title>
@@ -15058,6 +15211,150 @@
   <programme start="20260330200000 +0000" stop="20260330220000 +0000" channel="TV Považie.webtv.sk">
     <title lang="id">Záznam</title>
   </programme>
+  <programme start="20260329220000 +0000" stop="20260329224500 +0000" channel="CETV.webtv.sk">
+    <title lang="id">Centrallive - informačný magazín</title>
+  </programme>
+  <programme start="20260329224500 +0000" stop="20260329230000 +0000" channel="CETV.webtv.sk">
+    <title lang="id">Spravodajstvo</title>
+  </programme>
+  <programme start="20260329230000 +0000" stop="20260329234500 +0000" channel="CETV.webtv.sk">
+    <title lang="id">Talkshow</title>
+  </programme>
+  <programme start="20260329234500 +0000" stop="20260330000000 +0000" channel="CETV.webtv.sk">
+    <title lang="id">Spravodajstvo</title>
+  </programme>
+  <programme start="20260330000000 +0000" stop="20260330004500 +0000" channel="CETV.webtv.sk">
+    <title lang="id">Relácia</title>
+  </programme>
+  <programme start="20260330004500 +0000" stop="20260330010000 +0000" channel="CETV.webtv.sk">
+    <title lang="id">Spravodajstvo</title>
+  </programme>
+  <programme start="20260330010000 +0000" stop="20260330014500 +0000" channel="CETV.webtv.sk">
+    <title lang="id">Región – publicistický blok</title>
+  </programme>
+  <programme start="20260330014500 +0000" stop="20260330020000 +0000" channel="CETV.webtv.sk">
+    <title lang="id">Spravodajstvo</title>
+  </programme>
+  <programme start="20260330020000 +0000" stop="20260330024500 +0000" channel="CETV.webtv.sk">
+    <title lang="id">Relácia</title>
+  </programme>
+  <programme start="20260330024500 +0000" stop="20260330030000 +0000" channel="CETV.webtv.sk">
+    <title lang="id">Spravodajstvo</title>
+  </programme>
+  <programme start="20260330030000 +0000" stop="20260330034500 +0000" channel="CETV.webtv.sk">
+    <title lang="id">Talkshow</title>
+  </programme>
+  <programme start="20260330034500 +0000" stop="20260330040000 +0000" channel="CETV.webtv.sk">
+    <title lang="id">Spravodajstvo</title>
+  </programme>
+  <programme start="20260330040000 +0000" stop="20260330044500 +0000" channel="CETV.webtv.sk">
+    <title lang="id">Relácia</title>
+  </programme>
+  <programme start="20260330044500 +0000" stop="20260330050000 +0000" channel="CETV.webtv.sk">
+    <title lang="id">Spravodajstvo</title>
+  </programme>
+  <programme start="20260330050000 +0000" stop="20260330054500 +0000" channel="CETV.webtv.sk">
+    <title lang="id">Región – publicistický blok</title>
+  </programme>
+  <programme start="20260330054500 +0000" stop="20260330060000 +0000" channel="CETV.webtv.sk">
+    <title lang="id">Spravodajstvo</title>
+  </programme>
+  <programme start="20260330060000 +0000" stop="20260330064500 +0000" channel="CETV.webtv.sk">
+    <title lang="id">Talkshow</title>
+  </programme>
+  <programme start="20260330064500 +0000" stop="20260330070000 +0000" channel="CETV.webtv.sk">
+    <title lang="id">Spravodajstvo</title>
+  </programme>
+  <programme start="20260330070000 +0000" stop="20260330074500 +0000" channel="CETV.webtv.sk">
+    <title lang="id">Región – publicistický blok</title>
+  </programme>
+  <programme start="20260330074500 +0000" stop="20260330080000 +0000" channel="CETV.webtv.sk">
+    <title lang="id">Spravodajstvo</title>
+  </programme>
+  <programme start="20260330080000 +0000" stop="20260330084500 +0000" channel="CETV.webtv.sk">
+    <title lang="id">Relácia</title>
+  </programme>
+  <programme start="20260330084500 +0000" stop="20260330090000 +0000" channel="CETV.webtv.sk">
+    <title lang="id">Spravodajstvo</title>
+  </programme>
+  <programme start="20260330090000 +0000" stop="20260330094500 +0000" channel="CETV.webtv.sk">
+    <title lang="id">Región – publicistický blok</title>
+  </programme>
+  <programme start="20260330094500 +0000" stop="20260330100000 +0000" channel="CETV.webtv.sk">
+    <title lang="id">Spravodajstvo</title>
+  </programme>
+  <programme start="20260330100000 +0000" stop="20260330104500 +0000" channel="CETV.webtv.sk">
+    <title lang="id">Talkshow</title>
+  </programme>
+  <programme start="20260330104500 +0000" stop="20260330110000 +0000" channel="CETV.webtv.sk">
+    <title lang="id">Spravodajstvo</title>
+  </programme>
+  <programme start="20260330110000 +0000" stop="20260330114500 +0000" channel="CETV.webtv.sk">
+    <title lang="id">Región – publicistický blok</title>
+  </programme>
+  <programme start="20260330114500 +0000" stop="20260330120000 +0000" channel="CETV.webtv.sk">
+    <title lang="id">Spravodajstvo</title>
+  </programme>
+  <programme start="20260330120000 +0000" stop="20260330124500 +0000" channel="CETV.webtv.sk">
+    <title lang="id">Relácia</title>
+  </programme>
+  <programme start="20260330124500 +0000" stop="20260330130000 +0000" channel="CETV.webtv.sk">
+    <title lang="id">Spravodajstvo</title>
+  </programme>
+  <programme start="20260330130000 +0000" stop="20260330134500 +0000" channel="CETV.webtv.sk">
+    <title lang="id">Región – publicistický blok</title>
+  </programme>
+  <programme start="20260330134500 +0000" stop="20260330140000 +0000" channel="CETV.webtv.sk">
+    <title lang="id">Spravodajstvo</title>
+  </programme>
+  <programme start="20260330140000 +0000" stop="20260330144500 +0000" channel="CETV.webtv.sk">
+    <title lang="id">Talkshow</title>
+  </programme>
+  <programme start="20260330144500 +0000" stop="20260330150000 +0000" channel="CETV.webtv.sk">
+    <title lang="id">Spravodajstvo</title>
+  </programme>
+  <programme start="20260330150000 +0000" stop="20260330154500 +0000" channel="CETV.webtv.sk">
+    <title lang="id">Región – publicistický blok</title>
+  </programme>
+  <programme start="20260330154500 +0000" stop="20260330160000 +0000" channel="CETV.webtv.sk">
+    <title lang="id">Spravodajstvo</title>
+  </programme>
+  <programme start="20260330160000 +0000" stop="20260330164500 +0000" channel="CETV.webtv.sk">
+    <title lang="id">Relácia</title>
+  </programme>
+  <programme start="20260330164500 +0000" stop="20260330170000 +0000" channel="CETV.webtv.sk">
+    <title lang="id">Spravodajstvo</title>
+  </programme>
+  <programme start="20260330170000 +0000" stop="20260330174500 +0000" channel="CETV.webtv.sk">
+    <title lang="id">Región – publicistický blok</title>
+  </programme>
+  <programme start="20260330174500 +0000" stop="20260330180000 +0000" channel="CETV.webtv.sk">
+    <title lang="id">Spravodajstvo</title>
+  </programme>
+  <programme start="20260330180000 +0000" stop="20260330184500 +0000" channel="CETV.webtv.sk">
+    <title lang="id">Talkshow</title>
+  </programme>
+  <programme start="20260330184500 +0000" stop="20260330190000 +0000" channel="CETV.webtv.sk">
+    <title lang="id">Spravodajstvo</title>
+  </programme>
+  <programme start="20260330190000 +0000" stop="20260330194500 +0000" channel="CETV.webtv.sk">
+    <title lang="id">Región – publicistický blok</title>
+  </programme>
+  <programme start="20260330194500 +0000" stop="20260330200000 +0000" channel="CETV.webtv.sk">
+    <title lang="id">Spravodajstvo</title>
+  </programme>
+  <programme start="20260330200000 +0000" stop="20260330204500 +0000" channel="CETV.webtv.sk">
+    <title lang="id">Relácia</title>
+  </programme>
+  <programme start="20260330204500 +0000" stop="20260330210000 +0000" channel="CETV.webtv.sk">
+    <title lang="id">Spravodajstvo</title>
+  </programme>
+  <programme start="20260330210000 +0000" stop="20260330214500 +0000" channel="CETV.webtv.sk">
+    <title lang="id">Región – publicistický blok</title>
+  </programme>
+  <programme start="20260330214500 +0000" stop="20260330220000 +0000" channel="CETV.webtv.sk">
+    <title lang="id">Spravodajstvo</title>
+  </programme>
   <programme start="20260329220000 +0000" stop="20260330030000 +0000" channel="TV8.webtv.sk">
     <title lang="id">Nočné vysielanie pre pánov</title>
   </programme>
@@ -16821,348 +17118,6 @@
   </programme>
   <programme start="20260330214600 +0000" stop="20260330220000 +0000" channel="Euronews.webtv.sk">
     <title lang="id">News</title>
-  </programme>
-  <programme start="20260329220000 +0000" stop="20260329221000 +0000" channel="NHK World Japan.webtv.sk">
-    <title lang="id">NHK NEWSLINE</title>
-  </programme>
-  <programme start="20260329221000 +0000" stop="20260329223900 +0000" channel="NHK World Japan.webtv.sk">
-    <title lang="id">Tiny desk concerts JAPAN</title>
-  </programme>
-  <programme start="20260329223900 +0000" stop="20260329224000 +0000" channel="NHK World Japan.webtv.sk">
-    <title lang="id">INFO</title>
-  </programme>
-  <programme start="20260329224000 +0000" stop="20260329225000 +0000" channel="NHK World Japan.webtv.sk">
-    <title lang="id">Herbal Symphony #5</title>
-  </programme>
-  <programme start="20260329225000 +0000" stop="20260329225500 +0000" channel="NHK World Japan.webtv.sk">
-    <title lang="id">Japanology Plus mini</title>
-  </programme>
-  <programme start="20260329225500 +0000" stop="20260329230000 +0000" channel="NHK World Japan.webtv.sk">
-    <title lang="id">A Cat&apos;s-Eye View of Japan</title>
-  </programme>
-  <programme start="20260329230000 +0000" stop="20260329231000 +0000" channel="NHK World Japan.webtv.sk">
-    <title lang="id">NHK NEWSLINE</title>
-  </programme>
-  <programme start="20260329231000 +0000" stop="20260329235900 +0000" channel="NHK World Japan.webtv.sk">
-    <title lang="id">Somewhere Street</title>
-  </programme>
-  <programme start="20260329235900 +0000" stop="20260330000000 +0000" channel="NHK World Japan.webtv.sk">
-    <title lang="id">INFO</title>
-  </programme>
-  <programme start="20260330000000 +0000" stop="20260330001000 +0000" channel="NHK World Japan.webtv.sk">
-    <title lang="id">NHK NEWSLINE</title>
-  </programme>
-  <programme start="20260330001000 +0000" stop="20260330002500 +0000" channel="NHK World Japan.webtv.sk">
-    <title lang="id">Anime Pilgrims</title>
-  </programme>
-  <programme start="20260330002500 +0000" stop="20260330003000 +0000" channel="NHK World Japan.webtv.sk">
-    <title lang="id">Core Kyoto mini</title>
-  </programme>
-  <programme start="20260330003000 +0000" stop="20260330004500 +0000" channel="NHK World Japan.webtv.sk">
-    <title lang="id">Easy Japanese for Work</title>
-  </programme>
-  <programme start="20260330004500 +0000" stop="20260330010000 +0000" channel="NHK World Japan.webtv.sk">
-    <title lang="id">Zero Waste Life</title>
-  </programme>
-  <programme start="20260330010000 +0000" stop="20260330011000 +0000" channel="NHK World Japan.webtv.sk">
-    <title lang="id">NHK NEWSLINE</title>
-  </programme>
-  <programme start="20260330011000 +0000" stop="20260330020000 +0000" channel="NHK World Japan.webtv.sk">
-    <title lang="id">MICHIKO</title>
-  </programme>
-  <programme start="20260330020000 +0000" stop="20260330021000 +0000" channel="NHK World Japan.webtv.sk">
-    <title lang="id">NHK NEWSLINE</title>
-  </programme>
-  <programme start="20260330021000 +0000" stop="20260330025900 +0000" channel="NHK World Japan.webtv.sk">
-    <title lang="id">Herbal Symphony Second Movement</title>
-  </programme>
-  <programme start="20260330025900 +0000" stop="20260330030000 +0000" channel="NHK World Japan.webtv.sk">
-    <title lang="id">INFO</title>
-  </programme>
-  <programme start="20260330030000 +0000" stop="20260330031000 +0000" channel="NHK World Japan.webtv.sk">
-    <title lang="id">NHK NEWSLINE</title>
-  </programme>
-  <programme start="20260330031000 +0000" stop="20260330033700 +0000" channel="NHK World Japan.webtv.sk">
-    <title lang="id">CYCLE AROUND JAPAN Highlights</title>
-  </programme>
-  <programme start="20260330033700 +0000" stop="20260330034000 +0000" channel="NHK World Japan.webtv.sk">
-    <title lang="id">INFO</title>
-  </programme>
-  <programme start="20260330034000 +0000" stop="20260330035000 +0000" channel="NHK World Japan.webtv.sk">
-    <title lang="id">Texico</title>
-  </programme>
-  <programme start="20260330035000 +0000" stop="20260330040000 +0000" channel="NHK World Japan.webtv.sk">
-    <title lang="id">I Love &apos;Mee&apos;</title>
-  </programme>
-  <programme start="20260330040000 +0000" stop="20260330041000 +0000" channel="NHK World Japan.webtv.sk">
-    <title lang="id">NHK NEWSLINE</title>
-  </programme>
-  <programme start="20260330041000 +0000" stop="20260330043900 +0000" channel="NHK World Japan.webtv.sk">
-    <title lang="id">Tiny desk concerts JAPAN</title>
-  </programme>
-  <programme start="20260330043900 +0000" stop="20260330044000 +0000" channel="NHK World Japan.webtv.sk">
-    <title lang="id">INFO</title>
-  </programme>
-  <programme start="20260330044000 +0000" stop="20260330045000 +0000" channel="NHK World Japan.webtv.sk">
-    <title lang="id">Herbal Symphony #5</title>
-  </programme>
-  <programme start="20260330045000 +0000" stop="20260330045500 +0000" channel="NHK World Japan.webtv.sk">
-    <title lang="id">Japanology Plus mini</title>
-  </programme>
-  <programme start="20260330045500 +0000" stop="20260330050000 +0000" channel="NHK World Japan.webtv.sk">
-    <title lang="id">A Cat&apos;s-Eye View of Japan</title>
-  </programme>
-  <programme start="20260330050000 +0000" stop="20260330051000 +0000" channel="NHK World Japan.webtv.sk">
-    <title lang="id">NHK NEWSLINE</title>
-  </programme>
-  <programme start="20260330051000 +0000" stop="20260330052500 +0000" channel="NHK World Japan.webtv.sk">
-    <title lang="id">Anime Pilgrims</title>
-  </programme>
-  <programme start="20260330052500 +0000" stop="20260330053000 +0000" channel="NHK World Japan.webtv.sk">
-    <title lang="id">Core Kyoto mini</title>
-  </programme>
-  <programme start="20260330053000 +0000" stop="20260330054500 +0000" channel="NHK World Japan.webtv.sk">
-    <title lang="id">Easy Japanese for Work</title>
-  </programme>
-  <programme start="20260330054500 +0000" stop="20260330060000 +0000" channel="NHK World Japan.webtv.sk">
-    <title lang="id">Zero Waste Life</title>
-  </programme>
-  <programme start="20260330060000 +0000" stop="20260330061000 +0000" channel="NHK World Japan.webtv.sk">
-    <title lang="id">NHK NEWSLINE</title>
-  </programme>
-  <programme start="20260330061000 +0000" stop="20260330065900 +0000" channel="NHK World Japan.webtv.sk">
-    <title lang="id">Somewhere Street</title>
-  </programme>
-  <programme start="20260330065900 +0000" stop="20260330070000 +0000" channel="NHK World Japan.webtv.sk">
-    <title lang="id">INFO</title>
-  </programme>
-  <programme start="20260330070000 +0000" stop="20260330071000 +0000" channel="NHK World Japan.webtv.sk">
-    <title lang="id">NHK NEWSLINE</title>
-  </programme>
-  <programme start="20260330071000 +0000" stop="20260330071300 +0000" channel="NHK World Japan.webtv.sk">
-    <title lang="id">Empowering kids through song</title>
-  </programme>
-  <programme start="20260330071300 +0000" stop="20260330071500 +0000" channel="NHK World Japan.webtv.sk">
-    <title lang="id">INFO</title>
-  </programme>
-  <programme start="20260330071500 +0000" stop="20260330072500 +0000" channel="NHK World Japan.webtv.sk">
-    <title lang="id">IMPACTS: Climates Change the World</title>
-  </programme>
-  <programme start="20260330072500 +0000" stop="20260330073000 +0000" channel="NHK World Japan.webtv.sk">
-    <title lang="id">DESIGN MUSEUM JAPAN</title>
-  </programme>
-  <programme start="20260330073000 +0000" stop="20260330075500 +0000" channel="NHK World Japan.webtv.sk">
-    <title lang="id">The Factory Wonders</title>
-  </programme>
-  <programme start="20260330075500 +0000" stop="20260330075800 +0000" channel="NHK World Japan.webtv.sk">
-    <title lang="id">Time-lapse Japan</title>
-  </programme>
-  <programme start="20260330075800 +0000" stop="20260330080000 +0000" channel="NHK World Japan.webtv.sk">
-    <title lang="id">INFO</title>
-  </programme>
-  <programme start="20260330080000 +0000" stop="20260330081000 +0000" channel="NHK World Japan.webtv.sk">
-    <title lang="id">NHK NEWSLINE</title>
-  </programme>
-  <programme start="20260330081000 +0000" stop="20260330081500 +0000" channel="NHK World Japan.webtv.sk">
-    <title lang="id">The Seasons of Yamato</title>
-  </programme>
-  <programme start="20260330081500 +0000" stop="20260330083000 +0000" channel="NHK World Japan.webtv.sk">
-    <title lang="id">BOSAI:Lava Flows</title>
-  </programme>
-  <programme start="20260330083000 +0000" stop="20260330084000 +0000" channel="NHK World Japan.webtv.sk">
-    <title lang="id">Magical Japanese</title>
-  </programme>
-  <programme start="20260330084000 +0000" stop="20260330084300 +0000" channel="NHK World Japan.webtv.sk">
-    <title lang="id">Easy Japanese</title>
-  </programme>
-  <programme start="20260330084300 +0000" stop="20260330084500 +0000" channel="NHK World Japan.webtv.sk">
-    <title lang="id">INFO</title>
-  </programme>
-  <programme start="20260330084500 +0000" stop="20260330085500 +0000" channel="NHK World Japan.webtv.sk">
-    <title lang="id">Culture Crossroads</title>
-  </programme>
-  <programme start="20260330085500 +0000" stop="20260330090000 +0000" channel="NHK World Japan.webtv.sk">
-    <title lang="id">HELLO! NHK WORLD-JAPAN</title>
-  </programme>
-  <programme start="20260330090000 +0000" stop="20260330092800 +0000" channel="NHK World Japan.webtv.sk">
-    <title lang="id">NHK NEWSLINE</title>
-  </programme>
-  <programme start="20260330092800 +0000" stop="20260330093000 +0000" channel="NHK World Japan.webtv.sk">
-    <title lang="id">INFO</title>
-  </programme>
-  <programme start="20260330093000 +0000" stop="20260330095800 +0000" channel="NHK World Japan.webtv.sk">
-    <title lang="id">Seasoning the Seasons</title>
-  </programme>
-  <programme start="20260330095800 +0000" stop="20260330100000 +0000" channel="NHK World Japan.webtv.sk">
-    <title lang="id">INFO</title>
-  </programme>
-  <programme start="20260330100000 +0000" stop="20260330102800 +0000" channel="NHK World Japan.webtv.sk">
-    <title lang="id">NHK NEWSLINE</title>
-  </programme>
-  <programme start="20260330102800 +0000" stop="20260330103000 +0000" channel="NHK World Japan.webtv.sk">
-    <title lang="id">INFO</title>
-  </programme>
-  <programme start="20260330103000 +0000" stop="20260330105500 +0000" channel="NHK World Japan.webtv.sk">
-    <title lang="id">Darwin&apos;s Amazing Animals</title>
-  </programme>
-  <programme start="20260330105500 +0000" stop="20260330105800 +0000" channel="NHK World Japan.webtv.sk">
-    <title lang="id">Time-lapse Journey</title>
-  </programme>
-  <programme start="20260330105800 +0000" stop="20260330110000 +0000" channel="NHK World Japan.webtv.sk">
-    <title lang="id">INFO</title>
-  </programme>
-  <programme start="20260330110000 +0000" stop="20260330112800 +0000" channel="NHK World Japan.webtv.sk">
-    <title lang="id">NHK NEWSLINE</title>
-  </programme>
-  <programme start="20260330112800 +0000" stop="20260330113000 +0000" channel="NHK World Japan.webtv.sk">
-    <title lang="id">INFO</title>
-  </programme>
-  <programme start="20260330113000 +0000" stop="20260330115500 +0000" channel="NHK World Japan.webtv.sk">
-    <title lang="id">Hometown Stories</title>
-  </programme>
-  <programme start="20260330115500 +0000" stop="20260330115700 +0000" channel="NHK World Japan.webtv.sk">
-    <title lang="id">INFO</title>
-  </programme>
-  <programme start="20260330115700 +0000" stop="20260330120000 +0000" channel="NHK World Japan.webtv.sk">
-    <title lang="id">Satoyama Kitchen Diary</title>
-  </programme>
-  <programme start="20260330120000 +0000" stop="20260330122800 +0000" channel="NHK World Japan.webtv.sk">
-    <title lang="id">NHK NEWSLINE</title>
-  </programme>
-  <programme start="20260330122800 +0000" stop="20260330123000 +0000" channel="NHK World Japan.webtv.sk">
-    <title lang="id">INFO</title>
-  </programme>
-  <programme start="20260330123000 +0000" stop="20260330125500 +0000" channel="NHK World Japan.webtv.sk">
-    <title lang="id">The Factory Wonders</title>
-  </programme>
-  <programme start="20260330125500 +0000" stop="20260330125800 +0000" channel="NHK World Japan.webtv.sk">
-    <title lang="id">Time-lapse Japan</title>
-  </programme>
-  <programme start="20260330125800 +0000" stop="20260330130000 +0000" channel="NHK World Japan.webtv.sk">
-    <title lang="id">INFO</title>
-  </programme>
-  <programme start="20260330130000 +0000" stop="20260330132800 +0000" channel="NHK World Japan.webtv.sk">
-    <title lang="id">NEWSLINE ASIA 24</title>
-  </programme>
-  <programme start="20260330132800 +0000" stop="20260330133000 +0000" channel="NHK World Japan.webtv.sk">
-    <title lang="id">INFO</title>
-  </programme>
-  <programme start="20260330133000 +0000" stop="20260330134000 +0000" channel="NHK World Japan.webtv.sk">
-    <title lang="id">Magical Japanese</title>
-  </programme>
-  <programme start="20260330134000 +0000" stop="20260330134300 +0000" channel="NHK World Japan.webtv.sk">
-    <title lang="id">Easy Japanese</title>
-  </programme>
-  <programme start="20260330134300 +0000" stop="20260330134500 +0000" channel="NHK World Japan.webtv.sk">
-    <title lang="id">INFO</title>
-  </programme>
-  <programme start="20260330134500 +0000" stop="20260330135500 +0000" channel="NHK World Japan.webtv.sk">
-    <title lang="id">Culture Crossroads</title>
-  </programme>
-  <programme start="20260330135500 +0000" stop="20260330140000 +0000" channel="NHK World Japan.webtv.sk">
-    <title lang="id">HELLO! NHK WORLD-JAPAN</title>
-  </programme>
-  <programme start="20260330140000 +0000" stop="20260330142800 +0000" channel="NHK World Japan.webtv.sk">
-    <title lang="id">NEWSLINE ASIA 24</title>
-  </programme>
-  <programme start="20260330142800 +0000" stop="20260330143000 +0000" channel="NHK World Japan.webtv.sk">
-    <title lang="id">INFO</title>
-  </programme>
-  <programme start="20260330143000 +0000" stop="20260330145800 +0000" channel="NHK World Japan.webtv.sk">
-    <title lang="id">Seasoning the Seasons</title>
-  </programme>
-  <programme start="20260330145800 +0000" stop="20260330150000 +0000" channel="NHK World Japan.webtv.sk">
-    <title lang="id">INFO</title>
-  </programme>
-  <programme start="20260330150000 +0000" stop="20260330152800 +0000" channel="NHK World Japan.webtv.sk">
-    <title lang="id">NHK NEWSLINE</title>
-  </programme>
-  <programme start="20260330152800 +0000" stop="20260330153000 +0000" channel="NHK World Japan.webtv.sk">
-    <title lang="id">INFO</title>
-  </programme>
-  <programme start="20260330153000 +0000" stop="20260330155500 +0000" channel="NHK World Japan.webtv.sk">
-    <title lang="id">Hometown Stories</title>
-  </programme>
-  <programme start="20260330155500 +0000" stop="20260330155700 +0000" channel="NHK World Japan.webtv.sk">
-    <title lang="id">INFO</title>
-  </programme>
-  <programme start="20260330155700 +0000" stop="20260330160000 +0000" channel="NHK World Japan.webtv.sk">
-    <title lang="id">Satoyama Kitchen Diary</title>
-  </programme>
-  <programme start="20260330160000 +0000" stop="20260330162800 +0000" channel="NHK World Japan.webtv.sk">
-    <title lang="id">NHK NEWSLINE</title>
-  </programme>
-  <programme start="20260330162800 +0000" stop="20260330163000 +0000" channel="NHK World Japan.webtv.sk">
-    <title lang="id">INFO</title>
-  </programme>
-  <programme start="20260330163000 +0000" stop="20260330165800 +0000" channel="NHK World Japan.webtv.sk">
-    <title lang="id">Journeys in Japan</title>
-  </programme>
-  <programme start="20260330165800 +0000" stop="20260330170000 +0000" channel="NHK World Japan.webtv.sk">
-    <title lang="id">INFO</title>
-  </programme>
-  <programme start="20260330170000 +0000" stop="20260330173000 +0000" channel="NHK World Japan.webtv.sk">
-    <title lang="id">NHK NEWS 7</title>
-  </programme>
-  <programme start="20260330173000 +0000" stop="20260330175500 +0000" channel="NHK World Japan.webtv.sk">
-    <title lang="id">The Factory Wonders</title>
-  </programme>
-  <programme start="20260330175500 +0000" stop="20260330175800 +0000" channel="NHK World Japan.webtv.sk">
-    <title lang="id">Time-lapse Japan</title>
-  </programme>
-  <programme start="20260330175800 +0000" stop="20260330180000 +0000" channel="NHK World Japan.webtv.sk">
-    <title lang="id">INFO</title>
-  </programme>
-  <programme start="20260330180000 +0000" stop="20260330182800 +0000" channel="NHK World Japan.webtv.sk">
-    <title lang="id">NEWSROOM TOKYO</title>
-  </programme>
-  <programme start="20260330182800 +0000" stop="20260330184300 +0000" channel="NHK World Japan.webtv.sk">
-    <title lang="id">Direct Talk</title>
-  </programme>
-  <programme start="20260330184300 +0000" stop="20260330185300 +0000" channel="NHK World Japan.webtv.sk">
-    <title lang="id">Culture Crossroads</title>
-  </programme>
-  <programme start="20260330185300 +0000" stop="20260330185500 +0000" channel="NHK World Japan.webtv.sk">
-    <title lang="id">INFO</title>
-  </programme>
-  <programme start="20260330185500 +0000" stop="20260330190000 +0000" channel="NHK World Japan.webtv.sk">
-    <title lang="id">HELLO! NHK WORLD-JAPAN</title>
-  </programme>
-  <programme start="20260330190000 +0000" stop="20260330192800 +0000" channel="NHK World Japan.webtv.sk">
-    <title lang="id">NEWSROOM TOKYO</title>
-  </programme>
-  <programme start="20260330192800 +0000" stop="20260330193000 +0000" channel="NHK World Japan.webtv.sk">
-    <title lang="id">INFO</title>
-  </programme>
-  <programme start="20260330193000 +0000" stop="20260330195800 +0000" channel="NHK World Japan.webtv.sk">
-    <title lang="id">Dive in Tokyo</title>
-  </programme>
-  <programme start="20260330195800 +0000" stop="20260330200000 +0000" channel="NHK World Japan.webtv.sk">
-    <title lang="id">INFO</title>
-  </programme>
-  <programme start="20260330200000 +0000" stop="20260330202800 +0000" channel="NHK World Japan.webtv.sk">
-    <title lang="id">NHK NEWSLINE</title>
-  </programme>
-  <programme start="20260330202800 +0000" stop="20260330203000 +0000" channel="NHK World Japan.webtv.sk">
-    <title lang="id">INFO</title>
-  </programme>
-  <programme start="20260330203000 +0000" stop="20260330205800 +0000" channel="NHK World Japan.webtv.sk">
-    <title lang="id">Seasoning the Seasons</title>
-  </programme>
-  <programme start="20260330205800 +0000" stop="20260330210000 +0000" channel="NHK World Japan.webtv.sk">
-    <title lang="id">INFO</title>
-  </programme>
-  <programme start="20260330210000 +0000" stop="20260330212800 +0000" channel="NHK World Japan.webtv.sk">
-    <title lang="id">NHK NEWSLINE</title>
-  </programme>
-  <programme start="20260330212800 +0000" stop="20260330213000 +0000" channel="NHK World Japan.webtv.sk">
-    <title lang="id">INFO</title>
-  </programme>
-  <programme start="20260330213000 +0000" stop="20260330215800 +0000" channel="NHK World Japan.webtv.sk">
-    <title lang="id">Medical Frontiers</title>
-  </programme>
-  <programme start="20260330215800 +0000" stop="20260330220000 +0000" channel="NHK World Japan.webtv.sk">
-    <title lang="id">INFO</title>
   </programme>
   <programme start="20260329220000 +0000" stop="20260329222000 +0000" channel="Arirang TV.webtv.sk">
     <title lang="id">The Grand Heritage Asmr</title>
@@ -19221,67 +19176,4 @@
   </programme>
   <programme start="20260330212000 +0000" stop="20260331002000 +0000" channel="Relax.webtv.sk">
     <title lang="id">LUXUSSTORE</title>
-  </programme>
-  <programme start="20260329220000 +0000" stop="20260330003700 +0000" channel="STINGRAY iConcerts.webtv.sk">
-    <title lang="id">Foo Fighters - Live in London 2011</title>
-  </programme>
-  <programme start="20260330003700 +0000" stop="20260330010000 +0000" channel="STINGRAY iConcerts.webtv.sk">
-    <title lang="id">Various Artists - iConcerts Hits</title>
-  </programme>
-  <programme start="20260330010000 +0000" stop="20260330023300 +0000" channel="STINGRAY iConcerts.webtv.sk">
-    <title lang="id">ZZ Top - Live in Germany</title>
-  </programme>
-  <programme start="20260330023300 +0000" stop="20260330040000 +0000" channel="STINGRAY iConcerts.webtv.sk">
-    <title lang="id">Soundgarden - Live in London 2014</title>
-  </programme>
-  <programme start="20260330040000 +0000" stop="20260330062000 +0000" channel="STINGRAY iConcerts.webtv.sk">
-    <title lang="id">Eric Clapton &amp; Steve Winwood - Eric Clapton &amp; Steve Winwood - Live from MSG</title>
-  </programme>
-  <programme start="20260330062000 +0000" stop="20260330070700 +0000" channel="STINGRAY iConcerts.webtv.sk">
-    <title lang="id">Wolf Alice - Reading &amp; Leeds Festival</title>
-  </programme>
-  <programme start="20260330070700 +0000" stop="20260330084200 +0000" channel="STINGRAY iConcerts.webtv.sk">
-    <title lang="id">Paramore - Live at the Roundhouse</title>
-  </programme>
-  <programme start="20260330084200 +0000" stop="20260330093900 +0000" channel="STINGRAY iConcerts.webtv.sk">
-    <title lang="id">Interpol - Rock En Seine</title>
-  </programme>
-  <programme start="20260330093900 +0000" stop="20260330100200 +0000" channel="STINGRAY iConcerts.webtv.sk">
-    <title lang="id">Aerosmith - Rock Legends</title>
-  </programme>
-  <programme start="20260330100200 +0000" stop="20260330113600 +0000" channel="STINGRAY iConcerts.webtv.sk">
-    <title lang="id">ZZ Top - Live in Germany</title>
-  </programme>
-  <programme start="20260330113600 +0000" stop="20260330130300 +0000" channel="STINGRAY iConcerts.webtv.sk">
-    <title lang="id">Soundgarden - Live in London 2014</title>
-  </programme>
-  <programme start="20260330130300 +0000" stop="20260330142800 +0000" channel="STINGRAY iConcerts.webtv.sk">
-    <title lang="id">Adele - iTunes Festival: Live in London</title>
-  </programme>
-  <programme start="20260330142800 +0000" stop="20260330145600 +0000" channel="STINGRAY iConcerts.webtv.sk">
-    <title lang="id">Florence And The Machine - Austin City Limits</title>
-  </programme>
-  <programme start="20260330145600 +0000" stop="20260330155200 +0000" channel="STINGRAY iConcerts.webtv.sk">
-    <title lang="id">The Lumineers - Live At Musilac 2017</title>
-  </programme>
-  <programme start="20260330155200 +0000" stop="20260330173200 +0000" channel="STINGRAY iConcerts.webtv.sk">
-    <title lang="id">Noel Gallagher - Live in London 2012</title>
-  </programme>
-  <programme start="20260330173200 +0000" stop="20260330184100 +0000" channel="STINGRAY iConcerts.webtv.sk">
-    <title lang="id">Milky Chance - Garorock Festival 2017</title>
-  </programme>
-  <programme start="20260330184100 +0000" stop="20260330190000 +0000" channel="STINGRAY iConcerts.webtv.sk">
-    <title lang="id">Various Artists - iConcerts Hits</title>
-  </programme>
-  <programme start="20260330190000 +0000" stop="20260330203400 +0000" channel="STINGRAY iConcerts.webtv.sk">
-    <title lang="id">Ozzy Osbourne - God Bless Ozzy Osbourne</title>
-  </programme>
-  <programme start="20260330203400 +0000" stop="20260330213100 +0000" channel="STINGRAY iConcerts.webtv.sk">
-    <title lang="id">Santana - Plays The Blues: Live at Montreux 2004</title>
-  </programme>
-  <programme start="20260330213100 +0000" stop="20260330215400 +0000" channel="STINGRAY iConcerts.webtv.sk">
-    <title lang="id">Fleetwood Mac - Rock Legends</title>
-  </programme>
-  <programme start="20260330215400 +0000" stop="20260330220000 +0000" channel="STINGRAY iConcerts.webtv.sk">
-    <title lang="id">Various Artists - iConcerts Hits</title>
   </programme>
