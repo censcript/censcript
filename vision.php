@@ -778,12 +778,6 @@
 <programme start="20260328040000 +0000" stop="20260328053000 +0000" channel="TVOne.vision">
 <title>Kabar Siang (L)</title>
 </programme>
-<programme start="20260328053000 +0000" stop="20260328070000 +0000" channel="TVOne.vision">
-<title>Damai Indonesiaku (L)</title>
-</programme>
-<programme start="20260328070000 +0000" stop="20260328073000 +0000" channel="TVOne.vision">
-<title>Selalu Ada Hikmah</title>
-</programme>
 <programme start="20260328073000 +0000" stop="20260328080000 +0000" channel="TVOne.vision">
 <title>Satria Biru</title>
 </programme>
@@ -1496,5 +1490,11 @@
 <title>TVRI</title>
 </programme>
 <programme start="20260329050000 +0000" stop="20260329070000 +0000" channel="TVRI.vision">
+<title>TVRI</title>
+</programme>
+<programme start="20260329070000 +0000" stop="20260329090000 +0000" channel="TVRI.vision">
+<title>TVRI</title>
+</programme>
+<programme start="20260329090000 +0000" stop="20260329110000 +0000" channel="TVRI.vision">
 <title>TVRI</title>
 </programme>
