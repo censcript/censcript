@@ -2798,13 +2798,13 @@ Warning: Undefined array key "et" in /usr/home/ManusiaBiasa/domains/manusiabiasa
 <programme start="20260328220000 +0000" stop="20260329010000 +0000" channel="Sky Sport Golf HD.skyde">
     <title>Live LPGA: Ford Championship presented by Wild Horse Pass, 3. Tag in Phoenix, AZ (USA)</title>
 </programme>
-<programme start="20260327230000 +0000" stop="20260328020000 +0000" channel="Sky Sport Mix HD.skyde">
+<programme start="20260327230000 +0000" stop="20260328014500 +0000" channel="Sky Sport Mix HD.skyde">
     <title>Live NHL: Detroit Red Wings @ Buffalo Sabres</title>
 </programme>
-<programme start="20260328020000 +0000" stop="20260328031000 +0000" channel="Sky Sport Mix HD.skyde">
+<programme start="20260328014500 +0000" stop="20260328030500 +0000" channel="Sky Sport Mix HD.skyde">
     <title>MotoGP: 1. Freies Training - GP USA</title>
 </programme>
-<programme start="20260328031000 +0000" stop="20260328043000 +0000" channel="Sky Sport Mix HD.skyde">
+<programme start="20260328030500 +0000" stop="20260328043000 +0000" channel="Sky Sport Mix HD.skyde">
     <title>MotoGP: Training - GP USA</title>
 </programme>
 <programme start="20260328043000 +0000" stop="20260328053000 +0000" channel="Sky Sport Mix HD.skyde">
@@ -2816,8 +2816,11 @@ Warning: Undefined array key "et" in /usr/home/ManusiaBiasa/domains/manusiabiasa
 <programme start="20260328060000 +0000" stop="20260328080000 +0000" channel="Sky Sport Mix HD.skyde">
     <title>NHL: Detroit Red Wings @ Buffalo Sabres</title>
 </programme>
-<programme start="20260328080000 +0000" stop="20260328103000 +0000" channel="Sky Sport Mix HD.skyde">
+<programme start="20260328080000 +0000" stop="20260328100000 +0000" channel="Sky Sport Mix HD.skyde">
     <title>NBA: Miami Heat @ Cleveland Cavaliers</title>
+</programme>
+<programme start="20260328100000 +0000" stop="20260328103000 +0000" channel="Sky Sport Mix HD.skyde">
+    <title>NBA: Action</title>
 </programme>
 <programme start="20260328103000 +0000" stop="20260328110000 +0000" channel="Sky Sport Mix HD.skyde">
     <title>NBA: On Fire</title>
@@ -3191,19 +3194,19 @@ Warning: Undefined array key "et" in /usr/home/ManusiaBiasa/domains/manusiabiasa
 <programme start="20260327231000 +0000" stop="20260327233000 +0000" channel="Sky Sport 1 HD.skyde">
     <title>Es folgt: LIVE Basketball NBA</title>
 </programme>
-<programme start="20260327233000 +0000" stop="20260328090000 +0000" channel="Sky Sport 1 HD.skyde">
+<programme start="20260327233000 +0000" stop="20260328022000 +0000" channel="Sky Sport 1 HD.skyde">
     <title>Live NBA: Miami Heat @ Cleveland Cavaliers</title>
 </programme>
 <programme start="20260328191000 +0000" stop="20260328193000 +0000" channel="Sky Sport 1 HD.skyde">
     <title>Es folgt Eishockey: NHL</title>
 </programme>
-<programme start="20260328193000 +0000" stop="20260328223000 +0000" channel="Sky Sport 1 HD.skyde">
+<programme start="20260328193000 +0000" stop="20260329020000 +0000" channel="Sky Sport 1 HD.skyde">
     <title>Live NHL: Anaheim Ducks @ Edmonton Oilers</title>
 </programme>
 <programme start="20260328214000 +0000" stop="20260328220000 +0000" channel="Sky Sport 2 HD.skyde">
     <title>Es folgt: LIVE Basketball  NBA</title>
 </programme>
-<programme start="20260328220000 +0000" stop="20260329080000 +0000" channel="Sky Sport 2 HD.skyde">
+<programme start="20260328220000 +0000" stop="20260329010000 +0000" channel="Sky Sport 2 HD.skyde">
     <title>Live NBA: Philadelphia 76ers @ Charlotte Hornets</title>
 </programme>
 <programme start="20260327230000 +0000" stop="20260327234500 +0000" channel="SYFY HD.skyde">

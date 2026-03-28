@@ -1,11 +1,3 @@
-<programme start="20260328154000 +0700" stop="20260328174000 +0700" channel="COSMOTE Sport 1 HD">
-    <title>Football: Liverpool FC - Galatasaray AS</title>
-    <desc>Live: Tidak</desc>
-</programme>
-<programme start="20260328174000 +0700" stop="20260328180000 +0700" channel="COSMOTE Sport 1 HD">
-    <title>Sports Highlights</title>
-    <desc>Live: Tidak</desc>
-</programme>
 <programme start="20260328180000 +0700" stop="20260328183000 +0700" channel="COSMOTE Sport 1 HD">
     <title>Game R1 S6 E31</title>
     <desc>Live: Tidak</desc>
@@ -76,6 +68,10 @@
 </programme>
 <programme start="20260329160000 +0700" stop="20260329180000 +0700" channel="COSMOTE Sport 1 HD">
     <title>Football: Strasbourg - Rijeka</title>
+    <desc>Live: Tidak</desc>
+</programme>
+<programme start="20260329180000 +0700" stop="20260329200000 +0700" channel="COSMOTE Sport 1 HD">
+    <title>Football: Chelsea FC - Paris Saint Germain</title>
     <desc>Live: Tidak</desc>
 </programme>
 <programme start="20260328161000 +0700" stop="20260328181000 +0700" channel="COSMOTE Sport 2 HD">
@@ -194,6 +190,10 @@
     <title>Football: Alverca - Sporting CP</title>
     <desc>Live: Tidak</desc>
 </programme>
+<programme start="20260329180000 +0700" stop="20260329200000 +0700" channel="COSMOTE Sport 3 HD">
+    <title>Football: Harrogate Town FC - Notts County</title>
+    <desc>Live: Tidak</desc>
+</programme>
 <programme start="20260328170000 +0700" stop="20260328193000 +0700" channel="COSMOTE Sport 4 HD">
     <title>Basketball: Cleveland Cavaliers - Miami Heat</title>
     <desc>Live: Tidak</desc>
@@ -244,10 +244,6 @@
 </programme>
 <programme start="20260329163000 +0700" stop="20260329190000 +0700" channel="COSMOTE Sport 4 HD">
     <title>Basketball: Phoenix Suns - Utah Jazz</title>
-    <desc>Live: Tidak</desc>
-</programme>
-<programme start="20260328161000 +0700" stop="20260328172000 +0700" channel="COSMOTE Sport 5 HD">
-    <title>Motorsports: MotoGP 2026</title>
     <desc>Live: Tidak</desc>
 </programme>
 <programme start="20260328172000 +0700" stop="20260328181500 +0700" channel="COSMOTE Sport 5 HD">
@@ -358,16 +354,20 @@
     <title>Motorsports: Moto3 2026</title>
     <desc>Live: Tidak</desc>
 </programme>
-<programme start="20260328153000 +0700" stop="20260328173500 +0700" channel="COSMOTE Sport 6 HD">
-    <title>Athletics: World Athletics Continental Tour Gold 2025 (L)</title>
-    <desc>Live: Ya</desc>
+<programme start="20260329184000 +0700" stop="20260329194500 +0700" channel="COSMOTE Sport 5 HD">
+    <title>Motorsports: Moto2 2026</title>
+    <desc>Live: Tidak</desc>
 </programme>
 <programme start="20260328173500 +0700" stop="20260328184500 +0700" channel="COSMOTE Sport 6 HD">
     <title>Topspin</title>
     <desc>Live: Tidak</desc>
 </programme>
-<programme start="20260328184500 +0700" stop="20260328223000 +0700" channel="COSMOTE Sport 6 HD">
-    <title>Tennis: ATP Masters 1000 2026</title>
+<programme start="20260328184500 +0700" stop="20260328202000 +0700" channel="COSMOTE Sport 6 HD">
+    <title>Tennis: Jiri Lehecka - Arthur Fils</title>
+    <desc>Live: Tidak</desc>
+</programme>
+<programme start="20260328202000 +0700" stop="20260328223000 +0700" channel="COSMOTE Sport 6 HD">
+    <title>Tennis: Alexander Zverev - Jannik Sinner</title>
     <desc>Live: Tidak</desc>
 </programme>
 <programme start="20260328223000 +0700" stop="20260328233000 +0700" channel="COSMOTE Sport 6 HD">
@@ -375,7 +375,7 @@
     <desc>Live: Tidak</desc>
 </programme>
 <programme start="20260328233000 +0700" stop="20260329020000 +0700" channel="COSMOTE Sport 6 HD">
-    <title>Tennis: ATP Masters 1000 2026 (L)</title>
+    <title>Tennis: Harri Heliovaara/Henry Patten - Simone Bolelli/Andrea Vavassori (L)</title>
     <desc>Live: Ya</desc>
 </programme>
 <programme start="20260329020000 +0700" stop="20260329023000 +0700" channel="COSMOTE Sport 6 HD">
@@ -387,7 +387,7 @@
     <desc>Live: Tidak</desc>
 </programme>
 <programme start="20260329043500 +0700" stop="20260329070000 +0700" channel="COSMOTE Sport 6 HD">
-    <title>Tennis: ATP Masters 1000 2026</title>
+    <title>Tennis: Harri Heliovaara/Henry Patten - Simone Bolelli/Andrea Vavassori</title>
     <desc>Live: Tidak</desc>
 </programme>
 <programme start="20260329070000 +0700" stop="20260329100000 +0700" channel="COSMOTE Sport 6 HD">
@@ -554,6 +554,10 @@
     <title>COSMOTESport8HD</title>
     <desc>Live: Tidak</desc>
 </programme>
+<programme start="20260329180000 +0700" stop="20260329200000 +0700" channel="COSMOTE Sport 8 HD">
+    <title>COSMOTESport8HD</title>
+    <desc>Live: Tidak</desc>
+</programme>
 <programme start="20260328170000 +0700" stop="20260328190000 +0700" channel="COSMOTE Sport 9 HD">
     <title>COSMOTESport9HD</title>
     <desc>Live: Tidak</desc>
@@ -603,6 +607,10 @@
     <desc>Live: Tidak</desc>
 </programme>
 <programme start="20260329160000 +0700" stop="20260329180000 +0700" channel="COSMOTE Sport 9 HD">
+    <title>COSMOTESport9HD</title>
+    <desc>Live: Tidak</desc>
+</programme>
+<programme start="20260329180000 +0700" stop="20260329200000 +0700" channel="COSMOTE Sport 9 HD">
     <title>COSMOTESport9HD</title>
     <desc>Live: Tidak</desc>
 </programme>

@@ -1489,6 +1489,144 @@
   <programme start="20260330205500 +0000" stop="20260330223500 +0000" channel="JOJ Cinema +1.webtv.sk">
     <title lang="id">Prežiť</title>
   </programme>
+  <programme start="20260329220000 +0000" stop="20260329223000 +0000" channel="TA3.webtv.sk">
+    <title lang="id">Správy</title>
+  </programme>
+  <programme start="20260329223000 +0000" stop="20260329230000 +0000" channel="TA3.webtv.sk">
+    <title lang="id">Hl. správy-záznam</title>
+  </programme>
+  <programme start="20260329230000 +0000" stop="20260329233000 +0000" channel="TA3.webtv.sk">
+    <title lang="id">Štúdio TA3</title>
+  </programme>
+  <programme start="20260329233000 +0000" stop="20260330000000 +0000" channel="TA3.webtv.sk">
+    <title lang="id">Hl. správy-záznam</title>
+  </programme>
+  <programme start="20260330000000 +0000" stop="20260330010000 +0000" channel="TA3.webtv.sk">
+    <title lang="id">V politike</title>
+  </programme>
+  <programme start="20260330010000 +0000" stop="20260330013000 +0000" channel="TA3.webtv.sk">
+    <title lang="id">Správy</title>
+  </programme>
+  <programme start="20260330013000 +0000" stop="20260330020000 +0000" channel="TA3.webtv.sk">
+    <title lang="id">Hl. správy-záznam</title>
+  </programme>
+  <programme start="20260330020000 +0000" stop="20260330050000 +0000" channel="TA3.webtv.sk">
+    <title lang="id">Záznam TB/Štúdio TA3</title>
+  </programme>
+  <programme start="20260330050000 +0000" stop="20260330070000 +0000" channel="TA3.webtv.sk">
+    <title lang="id">Ranné správy</title>
+  </programme>
+  <programme start="20260330070000 +0000" stop="20260330073000 +0000" channel="TA3.webtv.sk">
+    <title lang="id">Správy</title>
+  </programme>
+  <programme start="20260330073000 +0000" stop="20260330080000 +0000" channel="TA3.webtv.sk">
+    <title lang="id">Téma</title>
+  </programme>
+  <programme start="20260330080000 +0000" stop="20260330083000 +0000" channel="TA3.webtv.sk">
+    <title lang="id">Správy</title>
+  </programme>
+  <programme start="20260330083000 +0000" stop="20260330090000 +0000" channel="TA3.webtv.sk">
+    <title lang="id">Štúdio TA3</title>
+  </programme>
+  <programme start="20260330090000 +0000" stop="20260330093000 +0000" channel="TA3.webtv.sk">
+    <title lang="id">Správy</title>
+  </programme>
+  <programme start="20260330093000 +0000" stop="20260330100000 +0000" channel="TA3.webtv.sk">
+    <title lang="id">Štúdio TA3</title>
+  </programme>
+  <programme start="20260330100000 +0000" stop="20260330102000 +0000" channel="TA3.webtv.sk">
+    <title lang="id">Žurnál</title>
+  </programme>
+  <programme start="20260330102000 +0000" stop="20260330103000 +0000" channel="TA3.webtv.sk">
+    <title lang="id">Šport</title>
+  </programme>
+  <programme start="20260330103000 +0000" stop="20260330110000 +0000" channel="TA3.webtv.sk">
+    <title lang="id">Téma</title>
+  </programme>
+  <programme start="20260330110000 +0000" stop="20260330120000 +0000" channel="TA3.webtv.sk">
+    <title lang="id">V politike</title>
+  </programme>
+  <programme start="20260330120000 +0000" stop="20260330123000 +0000" channel="TA3.webtv.sk">
+    <title lang="id">Správy</title>
+  </programme>
+  <programme start="20260330123000 +0000" stop="20260330130000 +0000" channel="TA3.webtv.sk">
+    <title lang="id">Štúdio TA3</title>
+  </programme>
+  <programme start="20260330130000 +0000" stop="20260330133000 +0000" channel="TA3.webtv.sk">
+    <title lang="id">Správy</title>
+  </programme>
+  <programme start="20260330133000 +0000" stop="20260330134500 +0000" channel="TA3.webtv.sk">
+    <title lang="id">Sila športu</title>
+  </programme>
+  <programme start="20260330134500 +0000" stop="20260330140000 +0000" channel="TA3.webtv.sk">
+    <title lang="id">Štúdio TA3</title>
+  </programme>
+  <programme start="20260330140000 +0000" stop="20260330142000 +0000" channel="TA3.webtv.sk">
+    <title lang="id">Žurnál</title>
+  </programme>
+  <programme start="20260330142000 +0000" stop="20260330143000 +0000" channel="TA3.webtv.sk">
+    <title lang="id">Šport</title>
+  </programme>
+  <programme start="20260330143000 +0000" stop="20260330150000 +0000" channel="TA3.webtv.sk">
+    <title lang="id">Štúdio TA3</title>
+  </programme>
+  <programme start="20260330150000 +0000" stop="20260330153000 +0000" channel="TA3.webtv.sk">
+    <title lang="id">Správy</title>
+  </programme>
+  <programme start="20260330153000 +0000" stop="20260330154500 +0000" channel="TA3.webtv.sk">
+    <title lang="id">Biznis</title>
+  </programme>
+  <programme start="20260330154500 +0000" stop="20260330160000 +0000" channel="TA3.webtv.sk">
+    <title lang="id">Štúdio TA3</title>
+  </programme>
+  <programme start="20260330160000 +0000" stop="20260330162000 +0000" channel="TA3.webtv.sk">
+    <title lang="id">Očami cestovateľa</title>
+  </programme>
+  <programme start="20260330162000 +0000" stop="20260330163000 +0000" channel="TA3.webtv.sk">
+    <title lang="id">Fejk over</title>
+  </programme>
+  <programme start="20260330163000 +0000" stop="20260330165500 +0000" channel="TA3.webtv.sk">
+    <title lang="id">Hlavné správy</title>
+  </programme>
+  <programme start="20260330165500 +0000" stop="20260330171000 +0000" channel="TA3.webtv.sk">
+    <title lang="id">Šport</title>
+  </programme>
+  <programme start="20260330171000 +0000" stop="20260330173000 +0000" channel="TA3.webtv.sk">
+    <title lang="id">Štúdio TA3</title>
+  </programme>
+  <programme start="20260330173000 +0000" stop="20260330175000 +0000" channel="TA3.webtv.sk">
+    <title lang="id">Štúdio TA3</title>
+  </programme>
+  <programme start="20260330175000 +0000" stop="20260330182000 +0000" channel="TA3.webtv.sk">
+    <title lang="id">Téma dňa s Eduardom Chmelárom</title>
+  </programme>
+  <programme start="20260330182000 +0000" stop="20260330183000 +0000" channel="TA3.webtv.sk">
+    <title lang="id">Fejk over</title>
+  </programme>
+  <programme start="20260330183000 +0000" stop="20260330190000 +0000" channel="TA3.webtv.sk">
+    <title lang="id">Biznis</title>
+  </programme>
+  <programme start="20260330190000 +0000" stop="20260330191500 +0000" channel="TA3.webtv.sk">
+    <title lang="id">Správy</title>
+  </programme>
+  <programme start="20260330191500 +0000" stop="20260330193000 +0000" channel="TA3.webtv.sk">
+    <title lang="id">Sila športu</title>
+  </programme>
+  <programme start="20260330193000 +0000" stop="20260330200000 +0000" channel="TA3.webtv.sk">
+    <title lang="id">Ekonomika+/Financie+</title>
+  </programme>
+  <programme start="20260330200000 +0000" stop="20260330203000 +0000" channel="TA3.webtv.sk">
+    <title lang="id">Správy</title>
+  </programme>
+  <programme start="20260330203000 +0000" stop="20260330210000 +0000" channel="TA3.webtv.sk">
+    <title lang="id">Téma dňa s Eduardom Chmelárom</title>
+  </programme>
+  <programme start="20260330210000 +0000" stop="20260330213000 +0000" channel="TA3.webtv.sk">
+    <title lang="id">Správy</title>
+  </programme>
+  <programme start="20260330213000 +0000" stop="20260330220000 +0000" channel="TA3.webtv.sk">
+    <title lang="id">Hl. správy-záznam</title>
+  </programme>
   <programme start="20260329220000 +0000" stop="20260329223000 +0000" channel="JOJ 24.webtv.sk">
     <title lang="id">Noviny TV JOJ</title>
   </programme>
@@ -5470,6 +5608,114 @@
   <programme start="20260330210000 +0000" stop="20260330220000 +0000" channel="National Geographic Channel.webtv.sk">
     <title lang="id">Zabezpečení letiště: Peru a Brazílie VI (2)</title>
   </programme>
+  <programme start="20260329215600 +0000" stop="20260329224100 +0000" channel="National Geographic Wild.webtv.sk">
+    <title lang="id">Když dravci útočí I (1)</title>
+  </programme>
+  <programme start="20260329224100 +0000" stop="20260329232700 +0000" channel="National Geographic Wild.webtv.sk">
+    <title lang="id">Skrytý svět hadů I (1)</title>
+  </programme>
+  <programme start="20260329232700 +0000" stop="20260330001300 +0000" channel="National Geographic Wild.webtv.sk">
+    <title lang="id">Skrytý svět hadů I (2)</title>
+  </programme>
+  <programme start="20260330001300 +0000" stop="20260330005800 +0000" channel="National Geographic Wild.webtv.sk">
+    <title lang="id">Skrytý svět hadů I (3)</title>
+  </programme>
+  <programme start="20260330005800 +0000" stop="20260330014400 +0000" channel="National Geographic Wild.webtv.sk">
+    <title lang="id">Skrytý svět hadů I (1)</title>
+  </programme>
+  <programme start="20260330014400 +0000" stop="20260330022900 +0000" channel="National Geographic Wild.webtv.sk">
+    <title lang="id">Zvířecí klub rváčů II (1)</title>
+  </programme>
+  <programme start="20260330022900 +0000" stop="20260330031500 +0000" channel="National Geographic Wild.webtv.sk">
+    <title lang="id">Skrytý svět hadů I (2)</title>
+  </programme>
+  <programme start="20260330031500 +0000" stop="20260330033700 +0000" channel="National Geographic Wild.webtv.sk">
+    <title lang="id">Zrozeni přežít I (3)</title>
+  </programme>
+  <programme start="20260330033700 +0000" stop="20260330040000 +0000" channel="National Geographic Wild.webtv.sk">
+    <title lang="id">Skvělá farma doktora Pola I (14)</title>
+  </programme>
+  <programme start="20260330040000 +0000" stop="20260330044400 +0000" channel="National Geographic Wild.webtv.sk">
+    <title lang="id">Yukonská veterinářka VII (5)</title>
+  </programme>
+  <programme start="20260330044400 +0000" stop="20260330050600 +0000" channel="National Geographic Wild.webtv.sk">
+    <title lang="id">Yukonská veterinářka VII (6)</title>
+  </programme>
+  <programme start="20260330050600 +0000" stop="20260330052700 +0000" channel="National Geographic Wild.webtv.sk">
+    <title lang="id">Skvělá farma doktora Pola I (11)</title>
+  </programme>
+  <programme start="20260330052700 +0000" stop="20260330054900 +0000" channel="National Geographic Wild.webtv.sk">
+    <title lang="id">Skvělá farma doktora Pola I (12)</title>
+  </programme>
+  <programme start="20260330054900 +0000" stop="20260330063200 +0000" channel="National Geographic Wild.webtv.sk">
+    <title lang="id">Veterináři z Nebrasky III (8)</title>
+  </programme>
+  <programme start="20260330063200 +0000" stop="20260330071700 +0000" channel="National Geographic Wild.webtv.sk">
+    <title lang="id">Medvědí zima</title>
+  </programme>
+  <programme start="20260330071700 +0000" stop="20260330080000 +0000" channel="National Geographic Wild.webtv.sk">
+    <title lang="id">Veterináři z Nebrasky III (2)</title>
+  </programme>
+  <programme start="20260330080000 +0000" stop="20260330084400 +0000" channel="National Geographic Wild.webtv.sk">
+    <title lang="id">Veterináři z Nebrasky III (8)</title>
+  </programme>
+  <programme start="20260330084400 +0000" stop="20260330092900 +0000" channel="National Geographic Wild.webtv.sk">
+    <title lang="id">Medvědí zima</title>
+  </programme>
+  <programme start="20260330092900 +0000" stop="20260330101400 +0000" channel="National Geographic Wild.webtv.sk">
+    <title lang="id">Lovci z divočiny I (5)</title>
+  </programme>
+  <programme start="20260330101400 +0000" stop="20260330105900 +0000" channel="National Geographic Wild.webtv.sk">
+    <title lang="id">Predátor vs. kořist II (1)</title>
+  </programme>
+  <programme start="20260330105900 +0000" stop="20260330114200 +0000" channel="National Geographic Wild.webtv.sk">
+    <title lang="id">Veterináři z Nebrasky III (2)</title>
+  </programme>
+  <programme start="20260330114200 +0000" stop="20260330122500 +0000" channel="National Geographic Wild.webtv.sk">
+    <title lang="id">Veterináři z Nebrasky III (5)</title>
+  </programme>
+  <programme start="20260330122500 +0000" stop="20260330130900 +0000" channel="National Geographic Wild.webtv.sk">
+    <title lang="id">Veterináři z Nebrasky III (4)</title>
+  </programme>
+  <programme start="20260330130900 +0000" stop="20260330135200 +0000" channel="National Geographic Wild.webtv.sk">
+    <title lang="id">Veterináři z Nebrasky III (7)</title>
+  </programme>
+  <programme start="20260330135200 +0000" stop="20260330143500 +0000" channel="National Geographic Wild.webtv.sk">
+    <title lang="id">Veterináři z Nebrasky III (8)</title>
+  </programme>
+  <programme start="20260330143500 +0000" stop="20260330151700 +0000" channel="National Geographic Wild.webtv.sk">
+    <title lang="id">Skvělý dr. Pol XVIII (12)</title>
+  </programme>
+  <programme start="20260330151700 +0000" stop="20260330160000 +0000" channel="National Geographic Wild.webtv.sk">
+    <title lang="id">Skvělý dr. Pol XVIII (13)</title>
+  </programme>
+  <programme start="20260330160000 +0000" stop="20260330164300 +0000" channel="National Geographic Wild.webtv.sk">
+    <title lang="id">Příšerky v péči jižanských veterinářů V (5)</title>
+  </programme>
+  <programme start="20260330164300 +0000" stop="20260330172600 +0000" channel="National Geographic Wild.webtv.sk">
+    <title lang="id">Příšerky v péči jižanských veterinářů IV (7)</title>
+  </programme>
+  <programme start="20260330172600 +0000" stop="20260330180900 +0000" channel="National Geographic Wild.webtv.sk">
+    <title lang="id">Veterináři z Nebrasky III (8)</title>
+  </programme>
+  <programme start="20260330180900 +0000" stop="20260330185200 +0000" channel="National Geographic Wild.webtv.sk">
+    <title lang="id">Příšerky v péči jižanských veterinářů V (5)</title>
+  </programme>
+  <programme start="20260330185200 +0000" stop="20260330193500 +0000" channel="National Geographic Wild.webtv.sk">
+    <title lang="id">Skvělý dr. Pol XVIII (12)</title>
+  </programme>
+  <programme start="20260330193500 +0000" stop="20260330201700 +0000" channel="National Geographic Wild.webtv.sk">
+    <title lang="id">Skvělý dr. Pol XVIII (13)</title>
+  </programme>
+  <programme start="20260330201700 +0000" stop="20260330210000 +0000" channel="National Geographic Wild.webtv.sk">
+    <title lang="id">Příšerky v péči jižanských veterinářů IV (7)</title>
+  </programme>
+  <programme start="20260330210000 +0000" stop="20260330214400 +0000" channel="National Geographic Wild.webtv.sk">
+    <title lang="id">Příšerky v péči jižanských veterinářů V (5)</title>
+  </programme>
+  <programme start="20260330214400 +0000" stop="20260330222700 +0000" channel="National Geographic Wild.webtv.sk">
+    <title lang="id">Veterináři z Nebrasky III (2)</title>
+  </programme>
   <programme start="20260329220000 +0000" stop="20260329223000 +0000" channel="Discovery.webtv.sk">
     <title lang="id">Hraniční kontrola: Španělsko V (7)</title>
   </programme>
@@ -8275,6 +8521,51 @@
   <programme start="20260330215500 +0000" stop="20260330233000 +0000" channel="HBO.webtv.sk">
     <title lang="id">Clerks 2: Muži za pultem</title>
   </programme>
+  <programme start="20260329214000 +0000" stop="20260329233500 +0000" channel="HBO 2.webtv.sk">
+    <title lang="id">Vetřelec: Romulus</title>
+  </programme>
+  <programme start="20260329233500 +0000" stop="20260330012500 +0000" channel="HBO 2.webtv.sk">
+    <title lang="id">30 dní dlouhá noc</title>
+  </programme>
+  <programme start="20260330012500 +0000" stop="20260330040000 +0000" channel="HBO 2.webtv.sk">
+    <title lang="id">Le Mans &apos;66</title>
+  </programme>
+  <programme start="20260330040000 +0000" stop="20260330053000 +0000" channel="HBO 2.webtv.sk">
+    <title lang="id">Uvidíme</title>
+  </programme>
+  <programme start="20260330053000 +0000" stop="20260330070500 +0000" channel="HBO 2.webtv.sk">
+    <title lang="id">Jak mi Jane Austenová zničila život</title>
+  </programme>
+  <programme start="20260330070500 +0000" stop="20260330083500 +0000" channel="HBO 2.webtv.sk">
+    <title lang="id">Karate Kid: Legendy</title>
+  </programme>
+  <programme start="20260330083500 +0000" stop="20260330103500 +0000" channel="HBO 2.webtv.sk">
+    <title lang="id">Ona</title>
+  </programme>
+  <programme start="20260330103500 +0000" stop="20260330121500 +0000" channel="HBO 2.webtv.sk">
+    <title lang="id">Žít</title>
+  </programme>
+  <programme start="20260330121500 +0000" stop="20260330124500 +0000" channel="HBO 2.webtv.sk">
+    <title lang="id">Silicon Valley IV (7)</title>
+  </programme>
+  <programme start="20260330124500 +0000" stop="20260330142500 +0000" channel="HBO 2.webtv.sk">
+    <title lang="id">Asteroid City</title>
+  </programme>
+  <programme start="20260330142500 +0000" stop="20260330150500 +0000" channel="HBO 2.webtv.sk">
+    <title lang="id">Doktorka II (8)</title>
+  </programme>
+  <programme start="20260330150500 +0000" stop="20260330173000 +0000" channel="HBO 2.webtv.sk">
+    <title lang="id">Le Mans &apos;66</title>
+  </programme>
+  <programme start="20260330173000 +0000" stop="20260330193500 +0000" channel="HBO 2.webtv.sk">
+    <title lang="id">Milion minut</title>
+  </programme>
+  <programme start="20260330193500 +0000" stop="20260330211000 +0000" channel="HBO 2.webtv.sk">
+    <title lang="id">Tajemství loňského léta</title>
+  </programme>
+  <programme start="20260330211000 +0000" stop="20260330225000 +0000" channel="HBO 2.webtv.sk">
+    <title lang="id">Past</title>
+  </programme>
   <programme start="20260329214000 +0000" stop="20260329234000 +0000" channel="HBO 3.webtv.sk">
     <title lang="id">Guy Ritchie - Pouto</title>
   </programme>
@@ -9987,6 +10278,207 @@
   </programme>
   <programme start="20260330215000 +0000" stop="20260330221500 +0000" channel="Disney Junior.webtv.sk">
     <title lang="id">PJ Masks V (108)</title>
+  </programme>
+  <programme start="20260329215000 +0000" stop="20260329221000 +0000" channel="Nickelodeon.webtv.sk">
+    <title lang="id">Spongebob v kalhotách X (207)</title>
+  </programme>
+  <programme start="20260329221000 +0000" stop="20260329223500 +0000" channel="Nickelodeon.webtv.sk">
+    <title lang="id">Marsupilami I (1)</title>
+  </programme>
+  <programme start="20260329223500 +0000" stop="20260329230000 +0000" channel="Nickelodeon.webtv.sk">
+    <title lang="id">Nej a Nejnejka I (26)</title>
+  </programme>
+  <programme start="20260329230000 +0000" stop="20260329232000 +0000" channel="Nickelodeon.webtv.sk">
+    <title lang="id">Nej a Nejnejka I (1)</title>
+  </programme>
+  <programme start="20260329232000 +0000" stop="20260329234500 +0000" channel="Nickelodeon.webtv.sk">
+    <title lang="id">Patrikova hvězdná show I (21)</title>
+  </programme>
+  <programme start="20260329234500 +0000" stop="20260330001000 +0000" channel="Nickelodeon.webtv.sk">
+    <title lang="id">Patrikova hvězdná show I (22)</title>
+  </programme>
+  <programme start="20260330001000 +0000" stop="20260330003000 +0000" channel="Nickelodeon.webtv.sk">
+    <title lang="id">Spongebob v kalhotách XI (224)</title>
+  </programme>
+  <programme start="20260330003000 +0000" stop="20260330004500 +0000" channel="Nickelodeon.webtv.sk">
+    <title lang="id">Spongebob v kalhotách IX (192)</title>
+  </programme>
+  <programme start="20260330004500 +0000" stop="20260330011000 +0000" channel="Nickelodeon.webtv.sk">
+    <title lang="id">Thundermanovi v utajení II (10)</title>
+  </programme>
+  <programme start="20260330011000 +0000" stop="20260330013500 +0000" channel="Nickelodeon.webtv.sk">
+    <title lang="id">Nebezpečná síla III (5)</title>
+  </programme>
+  <programme start="20260330013500 +0000" stop="20260330015500 +0000" channel="Nickelodeon.webtv.sk">
+    <title lang="id">Henry Nebezpečný IV (19)</title>
+  </programme>
+  <programme start="20260330015500 +0000" stop="20260330022000 +0000" channel="Nickelodeon.webtv.sk">
+    <title lang="id">Příběhy želv ninja II (8)</title>
+  </programme>
+  <programme start="20260330022000 +0000" stop="20260330025000 +0000" channel="Nickelodeon.webtv.sk">
+    <title lang="id">Divoká smečka Wylde-Pakových II (3)</title>
+  </programme>
+  <programme start="20260330025000 +0000" stop="20260330030000 +0000" channel="Nickelodeon.webtv.sk">
+    <title lang="id">Divoká smečka Wylde-Pakových I (5)</title>
+  </programme>
+  <programme start="20260330030000 +0000" stop="20260330032500 +0000" channel="Nickelodeon.webtv.sk">
+    <title lang="id">Spongebob v kalhotách XI (233)</title>
+  </programme>
+  <programme start="20260330032500 +0000" stop="20260330034500 +0000" channel="Nickelodeon.webtv.sk">
+    <title lang="id">Spongebob v kalhotách XI (234)</title>
+  </programme>
+  <programme start="20260330034500 +0000" stop="20260330040000 +0000" channel="Nickelodeon.webtv.sk">
+    <title lang="id">Spongebob v kalhotách XIII (292)</title>
+  </programme>
+  <programme start="20260330040000 +0000" stop="20260330042000 +0000" channel="Nickelodeon.webtv.sk">
+    <title lang="id">Marsupilami I (5)</title>
+  </programme>
+  <programme start="20260330042000 +0000" stop="20260330044500 +0000" channel="Nickelodeon.webtv.sk">
+    <title lang="id">Patrikova hvězdná show II (2)</title>
+  </programme>
+  <programme start="20260330044500 +0000" stop="20260330050000 +0000" channel="Nickelodeon.webtv.sk">
+    <title lang="id">Show Patricka Hvězdice II (6)</title>
+  </programme>
+  <programme start="20260330050000 +0000" stop="20260330052000 +0000" channel="Nickelodeon.webtv.sk">
+    <title lang="id">Šmoulové IV (6)</title>
+  </programme>
+  <programme start="20260330052000 +0000" stop="20260330054500 +0000" channel="Nickelodeon.webtv.sk">
+    <title lang="id">Hlasiťákovi VIII (5)</title>
+  </programme>
+  <programme start="20260330054500 +0000" stop="20260330061000 +0000" channel="Nickelodeon.webtv.sk">
+    <title lang="id">Hlasiťákovi VIII (6)</title>
+  </programme>
+  <programme start="20260330061000 +0000" stop="20260330063000 +0000" channel="Nickelodeon.webtv.sk">
+    <title lang="id">Hlasiťákovi VIII (7)</title>
+  </programme>
+  <programme start="20260330063000 +0000" stop="20260330065000 +0000" channel="Nickelodeon.webtv.sk">
+    <title lang="id">Divoká smečka Wylde-Pakových I (2)</title>
+  </programme>
+  <programme start="20260330065000 +0000" stop="20260330070000 +0000" channel="Nickelodeon.webtv.sk">
+    <title lang="id">Divoká smečka Wylde-Pakových II (5)</title>
+  </programme>
+  <programme start="20260330070000 +0000" stop="20260330072500 +0000" channel="Nickelodeon.webtv.sk">
+    <title lang="id">Spongebob v kalhotách IX (179)</title>
+  </programme>
+  <programme start="20260330072500 +0000" stop="20260330074000 +0000" channel="Nickelodeon.webtv.sk">
+    <title lang="id">Spongebob v kalhotách XI (235)</title>
+  </programme>
+  <programme start="20260330074000 +0000" stop="20260330080500 +0000" channel="Nickelodeon.webtv.sk">
+    <title lang="id">Marsupilami I (3)</title>
+  </programme>
+  <programme start="20260330080500 +0000" stop="20260330083000 +0000" channel="Nickelodeon.webtv.sk">
+    <title lang="id">Hlasiťákovi I (26)</title>
+  </programme>
+  <programme start="20260330083000 +0000" stop="20260330085000 +0000" channel="Nickelodeon.webtv.sk">
+    <title lang="id">Hlasiťákovi II (2)</title>
+  </programme>
+  <programme start="20260330085000 +0000" stop="20260330090000 +0000" channel="Nickelodeon.webtv.sk">
+    <title lang="id">Hlasiťákovi III (12)</title>
+  </programme>
+  <programme start="20260330090000 +0000" stop="20260330092500 +0000" channel="Nickelodeon.webtv.sk">
+    <title lang="id">Divoká smečka Wylde-Pakových I (13)</title>
+  </programme>
+  <programme start="20260330092500 +0000" stop="20260330095000 +0000" channel="Nickelodeon.webtv.sk">
+    <title lang="id">Thundermanovi v utajení II (10)</title>
+  </programme>
+  <programme start="20260330095000 +0000" stop="20260330101000 +0000" channel="Nickelodeon.webtv.sk">
+    <title lang="id">Nebezpečná síla I (4)</title>
+  </programme>
+  <programme start="20260330101000 +0000" stop="20260330103500 +0000" channel="Nickelodeon.webtv.sk">
+    <title lang="id">Henry Nebezpečný III (15)</title>
+  </programme>
+  <programme start="20260330103500 +0000" stop="20260330110000 +0000" channel="Nickelodeon.webtv.sk">
+    <title lang="id">Henry Nebezpečný I (9)</title>
+  </programme>
+  <programme start="20260330110000 +0000" stop="20260330112000 +0000" channel="Nickelodeon.webtv.sk">
+    <title lang="id">Henry Nebezpečný I (10)</title>
+  </programme>
+  <programme start="20260330112000 +0000" stop="20260330114500 +0000" channel="Nickelodeon.webtv.sk">
+    <title lang="id">Hlasiťákovi VIII (1)</title>
+  </programme>
+  <programme start="20260330114500 +0000" stop="20260330121000 +0000" channel="Nickelodeon.webtv.sk">
+    <title lang="id">Hlasiťákovi VIII (2)</title>
+  </programme>
+  <programme start="20260330121000 +0000" stop="20260330123000 +0000" channel="Nickelodeon.webtv.sk">
+    <title lang="id">Divoká smečka Wylde-Pakových II (10)</title>
+  </programme>
+  <programme start="20260330123000 +0000" stop="20260330125500 +0000" channel="Nickelodeon.webtv.sk">
+    <title lang="id">Spongebob v kalhotách XII (263)</title>
+  </programme>
+  <programme start="20260330125500 +0000" stop="20260330131500 +0000" channel="Nickelodeon.webtv.sk">
+    <title lang="id">Patrikova hvězdná show I (24)</title>
+  </programme>
+  <programme start="20260330131500 +0000" stop="20260330134000 +0000" channel="Nickelodeon.webtv.sk">
+    <title lang="id">Šmoulové IV (6)</title>
+  </programme>
+  <programme start="20260330134000 +0000" stop="20260330140500 +0000" channel="Nickelodeon.webtv.sk">
+    <title lang="id">Hlasiťákovi V (6)</title>
+  </programme>
+  <programme start="20260330140500 +0000" stop="20260330141500 +0000" channel="Nickelodeon.webtv.sk">
+    <title lang="id">Hlasiťákovi V (7)</title>
+  </programme>
+  <programme start="20260330141500 +0000" stop="20260330144000 +0000" channel="Nickelodeon.webtv.sk">
+    <title lang="id">Divoká smečka Wylde-Pakových I (11)</title>
+  </programme>
+  <programme start="20260330144000 +0000" stop="20260330150000 +0000" channel="Nickelodeon.webtv.sk">
+    <title lang="id">Divoká smečka Wylde-Pakových I (12)</title>
+  </programme>
+  <programme start="20260330150000 +0000" stop="20260330152500 +0000" channel="Nickelodeon.webtv.sk">
+    <title lang="id">Spongebob v kalhotách XVI (323)</title>
+  </programme>
+  <programme start="20260330152500 +0000" stop="20260330155000 +0000" channel="Nickelodeon.webtv.sk">
+    <title lang="id">Marsupilami I (2)</title>
+  </programme>
+  <programme start="20260330155000 +0000" stop="20260330160000 +0000" channel="Nickelodeon.webtv.sk">
+    <title lang="id">Hlasiťákovi IV (2)</title>
+  </programme>
+  <programme start="20260330160000 +0000" stop="20260330162500 +0000" channel="Nickelodeon.webtv.sk">
+    <title lang="id">Hlasiťákovi X (1)</title>
+  </programme>
+  <programme start="20260330162500 +0000" stop="20260330165000 +0000" channel="Nickelodeon.webtv.sk">
+    <title lang="id">Hlasiťákovi X (2)</title>
+  </programme>
+  <programme start="20260330165000 +0000" stop="20260330170000 +0000" channel="Nickelodeon.webtv.sk">
+    <title lang="id">Hlasiťákovi VI (1)</title>
+  </programme>
+  <programme start="20260330170000 +0000" stop="20260330172500 +0000" channel="Nickelodeon.webtv.sk">
+    <title lang="id">Thundermanovi v utajení II (7)</title>
+  </programme>
+  <programme start="20260330172500 +0000" stop="20260330175000 +0000" channel="Nickelodeon.webtv.sk">
+    <title lang="id">Thundermanovi v utajení II (8)</title>
+  </programme>
+  <programme start="20260330175000 +0000" stop="20260330181500 +0000" channel="Nickelodeon.webtv.sk">
+    <title lang="id">Henry Nebezpečný III (3)</title>
+  </programme>
+  <programme start="20260330181500 +0000" stop="20260330183500 +0000" channel="Nickelodeon.webtv.sk">
+    <title lang="id">Henry Nebezpečný III (5)</title>
+  </programme>
+  <programme start="20260330183500 +0000" stop="20260330190000 +0000" channel="Nickelodeon.webtv.sk">
+    <title lang="id">Nebezpečná síla I (9)</title>
+  </programme>
+  <programme start="20260330190000 +0000" stop="20260330192500 +0000" channel="Nickelodeon.webtv.sk">
+    <title lang="id">ICarly II (23)</title>
+  </programme>
+  <programme start="20260330192500 +0000" stop="20260330195000 +0000" channel="Nickelodeon.webtv.sk">
+    <title lang="id">ICarly II (24)</title>
+  </programme>
+  <programme start="20260330195000 +0000" stop="20260330201500 +0000" channel="Nickelodeon.webtv.sk">
+    <title lang="id">Victorious II (11)</title>
+  </programme>
+  <programme start="20260330201500 +0000" stop="20260330203500 +0000" channel="Nickelodeon.webtv.sk">
+    <title lang="id">Sam &amp; Cat I (29)</title>
+  </programme>
+  <programme start="20260330203500 +0000" stop="20260330210000 +0000" channel="Nickelodeon.webtv.sk">
+    <title lang="id">Příběy Želv ninja I (5)</title>
+  </programme>
+  <programme start="20260330210000 +0000" stop="20260330212000 +0000" channel="Nickelodeon.webtv.sk">
+    <title lang="id">Příběy Želv ninja I (6)</title>
+  </programme>
+  <programme start="20260330212000 +0000" stop="20260330214500 +0000" channel="Nickelodeon.webtv.sk">
+    <title lang="id">Spongebob v kalhotách X (208)</title>
+  </programme>
+  <programme start="20260330214500 +0000" stop="20260330221000 +0000" channel="Nickelodeon.webtv.sk">
+    <title lang="id">Spongebob v kalhotách X (209)</title>
   </programme>
   <programme start="20260329214500 +0000" stop="20260329220500 +0000" channel="Nicktoons.webtv.sk">
     <title lang="id">Příběy Želv ninja I (12)</title>
@@ -14959,6 +15451,57 @@
   <programme start="20260330214500 +0000" stop="20260330220000 +0000" channel="CETV.webtv.sk">
     <title lang="id">Spravodajstvo</title>
   </programme>
+  <programme start="20260329220000 +0000" stop="20260330030000 +0000" channel="TV8.webtv.sk">
+    <title lang="id">Nočné vysielanie pre pánov</title>
+  </programme>
+  <programme start="20260330030000 +0000" stop="20260330033000 +0000" channel="TV8.webtv.sk">
+    <title lang="id">Dobré rady starej mamy</title>
+  </programme>
+  <programme start="20260330033000 +0000" stop="20260330034500 +0000" channel="TV8.webtv.sk">
+    <title lang="id">HOROSKOPY</title>
+  </programme>
+  <programme start="20260330034500 +0000" stop="20260330040000 +0000" channel="TV8.webtv.sk">
+    <title lang="id">Cvičíme pre zdravie</title>
+  </programme>
+  <programme start="20260330040000 +0000" stop="20260330054500 +0000" channel="TV8.webtv.sk">
+    <title lang="id">Veštenie repríza</title>
+  </programme>
+  <programme start="20260330054500 +0000" stop="20260330063000 +0000" channel="TV8.webtv.sk">
+    <title lang="id">HOROSKOPY</title>
+  </programme>
+  <programme start="20260330063000 +0000" stop="20260330064500 +0000" channel="TV8.webtv.sk">
+    <title lang="id">Cvičíme pre zdravie</title>
+  </programme>
+  <programme start="20260330064500 +0000" stop="20260330070000 +0000" channel="TV8.webtv.sk">
+    <title lang="id">HOROSKOPY</title>
+  </programme>
+  <programme start="20260330070000 +0000" stop="20260330125500 +0000" channel="TV8.webtv.sk">
+    <title lang="id">Ezoterická poradňa s Renátou</title>
+  </programme>
+  <programme start="20260330125500 +0000" stop="20260330130000 +0000" channel="TV8.webtv.sk">
+    <title lang="id">HOROSKOPY</title>
+  </programme>
+  <programme start="20260330130000 +0000" stop="20260330144500 +0000" channel="TV8.webtv.sk">
+    <title lang="id">Ezoterická poradňa s Renátou</title>
+  </programme>
+  <programme start="20260330144500 +0000" stop="20260330150000 +0000" channel="TV8.webtv.sk">
+    <title lang="id">Cvičíme pre zdravie</title>
+  </programme>
+  <programme start="20260330150000 +0000" stop="20260330164500 +0000" channel="TV8.webtv.sk">
+    <title lang="id">Ezoterická poradňa s Renátou</title>
+  </programme>
+  <programme start="20260330164500 +0000" stop="20260330180000 +0000" channel="TV8.webtv.sk">
+    <title lang="id">HOROSKOPY</title>
+  </programme>
+  <programme start="20260330180000 +0000" stop="20260330194500 +0000" channel="TV8.webtv.sk">
+    <title lang="id">Televeštiareň s Airam</title>
+  </programme>
+  <programme start="20260330194500 +0000" stop="20260330200000 +0000" channel="TV8.webtv.sk">
+    <title lang="id">HOROSKOPY</title>
+  </programme>
+  <programme start="20260330200000 +0000" stop="20260330220000 +0000" channel="TV8.webtv.sk">
+    <title lang="id">Televeštiareň s Airam</title>
+  </programme>
   <programme start="20260329220000 +0000" stop="20260329221000 +0000" channel="Polar TV.webtv.sk">
     <title lang="id">Regionální zprávy VÍKEND</title>
   </programme>
@@ -17014,6 +17557,168 @@
   <programme start="20260330215800 +0000" stop="20260330220000 +0000" channel="NHK World Japan.webtv.sk">
     <title lang="id">INFO</title>
   </programme>
+  <programme start="20260329220000 +0000" stop="20260329222000 +0000" channel="Arirang TV.webtv.sk">
+    <title lang="id">The Grand Heritage Asmr</title>
+  </programme>
+  <programme start="20260329222000 +0000" stop="20260329223000 +0000" channel="Arirang TV.webtv.sk">
+    <title lang="id">The Living Sea Of Jeju</title>
+  </programme>
+  <programme start="20260329223000 +0000" stop="20260329224000 +0000" channel="Arirang TV.webtv.sk">
+    <title lang="id">K-chat: Conversing In Korean</title>
+  </programme>
+  <programme start="20260329224000 +0000" stop="20260329225000 +0000" channel="Arirang TV.webtv.sk">
+    <title lang="id">K-chat: Travel In Korea</title>
+  </programme>
+  <programme start="20260329225000 +0000" stop="20260329230000 +0000" channel="Arirang TV.webtv.sk">
+    <title lang="id">Exploring Korean Literature A</title>
+  </programme>
+  <programme start="20260329230000 +0000" stop="20260329232000 +0000" channel="Arirang TV.webtv.sk">
+    <title lang="id">K-arts Artists</title>
+  </programme>
+  <programme start="20260329232000 +0000" stop="20260329233000 +0000" channel="Arirang TV.webtv.sk">
+    <title lang="id">Exploring Korean Literature B</title>
+  </programme>
+  <programme start="20260329233000 +0000" stop="20260329235000 +0000" channel="Arirang TV.webtv.sk">
+    <title lang="id">K-culture Minutes: K-now</title>
+  </programme>
+  <programme start="20260329235000 +0000" stop="20260330000000 +0000" channel="Arirang TV.webtv.sk">
+    <title lang="id">Smartbiz Accel 2</title>
+  </programme>
+  <programme start="20260330000000 +0000" stop="20260330003000 +0000" channel="Arirang TV.webtv.sk">
+    <title lang="id">Decoded: The Ai Conversations</title>
+  </programme>
+  <programme start="20260330003000 +0000" stop="20260330010000 +0000" channel="Arirang TV.webtv.sk">
+    <title lang="id">Trip In Korea</title>
+  </programme>
+  <programme start="20260330010000 +0000" stop="20260330013000 +0000" channel="Arirang TV.webtv.sk">
+    <title lang="id">New Day At Arirang</title>
+  </programme>
+  <programme start="20260330013000 +0000" stop="20260330020000 +0000" channel="Arirang TV.webtv.sk">
+    <title lang="id">News Generation</title>
+  </programme>
+  <programme start="20260330020000 +0000" stop="20260330030000 +0000" channel="Arirang TV.webtv.sk">
+    <title lang="id">Culture Crunch</title>
+  </programme>
+  <programme start="20260330030000 +0000" stop="20260330033000 +0000" channel="Arirang TV.webtv.sk">
+    <title lang="id">Arirang News 12:00</title>
+  </programme>
+  <programme start="20260330033000 +0000" stop="20260330040000 +0000" channel="Arirang TV.webtv.sk">
+    <title lang="id">Smartbiz Accelerators</title>
+  </programme>
+  <programme start="20260330040000 +0000" stop="20260330050000 +0000" channel="Arirang TV.webtv.sk">
+    <title lang="id">Performarts Reload</title>
+  </programme>
+  <programme start="20260330050000 +0000" stop="20260330053000 +0000" channel="Arirang TV.webtv.sk">
+    <title lang="id">K-culture Dive</title>
+  </programme>
+  <programme start="20260330053000 +0000" stop="20260330060000 +0000" channel="Arirang TV.webtv.sk">
+    <title lang="id">News Generation</title>
+  </programme>
+  <programme start="20260330060000 +0000" stop="20260330063000 +0000" channel="Arirang TV.webtv.sk">
+    <title lang="id">Regional Tastes: Gyeonggi</title>
+  </programme>
+  <programme start="20260330063000 +0000" stop="20260330070000 +0000" channel="Arirang TV.webtv.sk">
+    <title lang="id">Trip In Korea</title>
+  </programme>
+  <programme start="20260330070000 +0000" stop="20260330070500 +0000" channel="Arirang TV.webtv.sk">
+    <title lang="id">Ai Headline News 16:00</title>
+  </programme>
+  <programme start="20260330070500 +0000" stop="20260330074000 +0000" channel="Arirang TV.webtv.sk">
+    <title lang="id">Smartbiz Accelerators</title>
+  </programme>
+  <programme start="20260330074000 +0000" stop="20260330080000 +0000" channel="Arirang TV.webtv.sk">
+    <title lang="id">K-culture Minutes: K-now</title>
+  </programme>
+  <programme start="20260330080000 +0000" stop="20260330083000 +0000" channel="Arirang TV.webtv.sk">
+    <title lang="id">The Daily Report</title>
+  </programme>
+  <programme start="20260330083000 +0000" stop="20260330090000 +0000" channel="Arirang TV.webtv.sk">
+    <title lang="id">Press Perspective</title>
+  </programme>
+  <programme start="20260330090000 +0000" stop="20260330100000 +0000" channel="Arirang TV.webtv.sk">
+    <title lang="id">Performarts Reload</title>
+  </programme>
+  <programme start="20260330100000 +0000" stop="20260330103000 +0000" channel="Arirang TV.webtv.sk">
+    <title lang="id">Regional Tastes: Gyeonggi</title>
+  </programme>
+  <programme start="20260330103000 +0000" stop="20260330110000 +0000" channel="Arirang TV.webtv.sk">
+    <title lang="id">Decoded: The Ai Conversations</title>
+  </programme>
+  <programme start="20260330110000 +0000" stop="20260330113000 +0000" channel="Arirang TV.webtv.sk">
+    <title lang="id">Newscenter</title>
+  </programme>
+  <programme start="20260330113000 +0000" stop="20260330120000 +0000" channel="Arirang TV.webtv.sk">
+    <title lang="id">Within The Frame</title>
+  </programme>
+  <programme start="20260330120000 +0000" stop="20260330123000 +0000" channel="Arirang TV.webtv.sk">
+    <title lang="id">K-culture Dive</title>
+  </programme>
+  <programme start="20260330123000 +0000" stop="20260330125000 +0000" channel="Arirang TV.webtv.sk">
+    <title lang="id">K-culture Minutes: K-now</title>
+  </programme>
+  <programme start="20260330125000 +0000" stop="20260330130000 +0000" channel="Arirang TV.webtv.sk">
+    <title lang="id">The Living Sea Of Jeju</title>
+  </programme>
+  <programme start="20260330130000 +0000" stop="20260330130500 +0000" channel="Arirang TV.webtv.sk">
+    <title lang="id">Ai Headline News 22:00</title>
+  </programme>
+  <programme start="20260330130500 +0000" stop="20260330134000 +0000" channel="Arirang TV.webtv.sk">
+    <title lang="id">Trip In Korea</title>
+  </programme>
+  <programme start="20260330134000 +0000" stop="20260330140000 +0000" channel="Arirang TV.webtv.sk">
+    <title lang="id">Korea Travelogue 4</title>
+  </programme>
+  <programme start="20260330140000 +0000" stop="20260330143000 +0000" channel="Arirang TV.webtv.sk">
+    <title lang="id">Press Perspective</title>
+  </programme>
+  <programme start="20260330143000 +0000" stop="20260330150000 +0000" channel="Arirang TV.webtv.sk">
+    <title lang="id">Smartbiz Accelerators</title>
+  </programme>
+  <programme start="20260330150000 +0000" stop="20260330160000 +0000" channel="Arirang TV.webtv.sk">
+    <title lang="id">Performarts Reload</title>
+  </programme>
+  <programme start="20260330160000 +0000" stop="20260330162000 +0000" channel="Arirang TV.webtv.sk">
+    <title lang="id">K-arts Artists</title>
+  </programme>
+  <programme start="20260330162000 +0000" stop="20260330163000 +0000" channel="Arirang TV.webtv.sk">
+    <title lang="id">Exploring Korean Literature A</title>
+  </programme>
+  <programme start="20260330163000 +0000" stop="20260330170000 +0000" channel="Arirang TV.webtv.sk">
+    <title lang="id">Decoded: The Ai Conversations</title>
+  </programme>
+  <programme start="20260330170000 +0000" stop="20260330173000 +0000" channel="Arirang TV.webtv.sk">
+    <title lang="id">K-culture Dive</title>
+  </programme>
+  <programme start="20260330173000 +0000" stop="20260330180000 +0000" channel="Arirang TV.webtv.sk">
+    <title lang="id">Within The Frame</title>
+  </programme>
+  <programme start="20260330180000 +0000" stop="20260330183000 +0000" channel="Arirang TV.webtv.sk">
+    <title lang="id">Discover World</title>
+  </programme>
+  <programme start="20260330183000 +0000" stop="20260330185000 +0000" channel="Arirang TV.webtv.sk">
+    <title lang="id">K-culture Minutes: K-now</title>
+  </programme>
+  <programme start="20260330185000 +0000" stop="20260330190000 +0000" channel="Arirang TV.webtv.sk">
+    <title lang="id">Exploring Korean Literature B</title>
+  </programme>
+  <programme start="20260330190000 +0000" stop="20260330200000 +0000" channel="Arirang TV.webtv.sk">
+    <title lang="id">Performarts Reload</title>
+  </programme>
+  <programme start="20260330200000 +0000" stop="20260330203000 +0000" channel="Arirang TV.webtv.sk">
+    <title lang="id">Smartbiz Accelerators</title>
+  </programme>
+  <programme start="20260330203000 +0000" stop="20260330210000 +0000" channel="Arirang TV.webtv.sk">
+    <title lang="id">Regional Tastes: Gyeonggi</title>
+  </programme>
+  <programme start="20260330210000 +0000" stop="20260330213000 +0000" channel="Arirang TV.webtv.sk">
+    <title lang="id">Press Perspective</title>
+  </programme>
+  <programme start="20260330213000 +0000" stop="20260330215000 +0000" channel="Arirang TV.webtv.sk">
+    <title lang="id">K-culture Minutes: K-now</title>
+  </programme>
+  <programme start="20260330215000 +0000" stop="20260330220000 +0000" channel="Arirang TV.webtv.sk">
+    <title lang="id">Discovering Korea: Food</title>
+  </programme>
   <programme start="20260329220000 +0000" stop="20260329223000 +0000" channel="TRT World.webtv.sk">
     <title lang="id">News</title>
   </programme>
@@ -18708,6 +19413,24 @@
   </programme>
   <programme start="20260330190000 +0000" stop="20260330220000 +0000" channel="Óčko Black.webtv.sk">
     <title lang="id">CHILLIN’</title>
+  </programme>
+  <programme start="20260329200000 +0000" stop="20260329230000 +0000" channel="Óčko Expres.webtv.sk">
+    <title lang="id">Expres NITE</title>
+  </programme>
+  <programme start="20260330040000 +0000" stop="20260330090000 +0000" channel="Óčko Expres.webtv.sk">
+    <title lang="id">Expres AM</title>
+  </programme>
+  <programme start="20260330090000 +0000" stop="20260330100000 +0000" channel="Óčko Expres.webtv.sk">
+    <title lang="id">Expres HOT</title>
+  </programme>
+  <programme start="20260330100000 +0000" stop="20260330190000 +0000" channel="Óčko Expres.webtv.sk">
+    <title lang="id">Expres PM</title>
+  </programme>
+  <programme start="20260330190000 +0000" stop="20260330200000 +0000" channel="Óčko Expres.webtv.sk">
+    <title lang="id">Expres TOP</title>
+  </programme>
+  <programme start="20260330200000 +0000" stop="20260330230000 +0000" channel="Óčko Expres.webtv.sk">
+    <title lang="id">Expres NITE</title>
   </programme>
   <programme start="20260329220000 +0000" stop="20260330010000 +0000" channel="Óčko Star.webtv.sk">
     <title lang="id">NOČNÍ FLIRT</title>

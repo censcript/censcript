@@ -631,6 +631,9 @@
 <programme start="20260328003000 +0000" stop="20260328023000 +0000" channel="ANTV.vision">
 <title>Janji Cinta Inspektur Virat</title>
 </programme>
+<programme start="20260328023000 +0000" stop="20260328060000 +0000" channel="ANTV.vision">
+<title>Tiger Zinda Hai</title>
+</programme>
 <programme start="20260328060000 +0000" stop="20260328080000 +0000" channel="ANTV.vision">
 <title>Jhanak</title>
 </programme>
@@ -774,6 +777,15 @@
 </programme>
 <programme start="20260327233000 +0000" stop="20260328010000 +0000" channel="TVOne.vision">
 <title>Apa Kabar Indonesia Pagi (L)</title>
+</programme>
+<programme start="20260328023000 +0000" stop="20260328030000 +0000" channel="TVOne.vision">
+<title>Xpose</title>
+</programme>
+<programme start="20260328030000 +0000" stop="20260328033000 +0000" channel="TVOne.vision">
+<title>Bukan Jalan-Jalan Biasa</title>
+</programme>
+<programme start="20260328033000 +0000" stop="20260328040000 +0000" channel="TVOne.vision">
+<title>Jajago</title>
 </programme>
 <programme start="20260328040000 +0000" stop="20260328053000 +0000" channel="TVOne.vision">
 <title>Kabar Siang (L)</title>
@@ -1484,17 +1496,5 @@
 <title>TVRI</title>
 </programme>
 <programme start="20260328210000 +0000" stop="20260328230000 +0000" channel="TVRI.vision">
-<title>TVRI</title>
-</programme>
-<programme start="20260328230000 +0000" stop="20260329010000 +0000" channel="TVRI.vision">
-<title>TVRI</title>
-</programme>
-<programme start="20260329010000 +0000" stop="20260329030000 +0000" channel="TVRI.vision">
-<title>TVRI</title>
-</programme>
-<programme start="20260329030000 +0000" stop="20260329050000 +0000" channel="TVRI.vision">
-<title>TVRI</title>
-</programme>
-<programme start="20260329050000 +0000" stop="20260329070000 +0000" channel="TVRI.vision">
 <title>TVRI</title>
 </programme>
