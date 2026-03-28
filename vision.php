@@ -631,9 +631,6 @@
 <programme start="20260328003000 +0000" stop="20260328023000 +0000" channel="ANTV.vision">
 <title>Janji Cinta Inspektur Virat</title>
 </programme>
-<programme start="20260328023000 +0000" stop="20260328060000 +0000" channel="ANTV.vision">
-<title>Tiger Zinda Hai</title>
-</programme>
 <programme start="20260328060000 +0000" stop="20260328080000 +0000" channel="ANTV.vision">
 <title>Jhanak</title>
 </programme>
@@ -1496,5 +1493,8 @@
 <title>TVRI</title>
 </programme>
 <programme start="20260329030000 +0000" stop="20260329050000 +0000" channel="TVRI.vision">
+<title>TVRI</title>
+</programme>
+<programme start="20260329050000 +0000" stop="20260329070000 +0000" channel="TVRI.vision">
 <title>TVRI</title>
 </programme>
