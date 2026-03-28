@@ -556,12 +556,6 @@
 <programme start="20260328154500 +0000" stop="20260328163000 +0000" channel="Trans 7.vision">
 <title>The Police</title>
 </programme>
-<programme start="20260328163000 +0000" stop="20260328174500 +0000" channel="Trans 7.vision">
-<title>Theater Malam</title>
-</programme>
-<programme start="20260328174500 +0000" stop="20260328183000 +0000" channel="Trans 7.vision">
-<title>Superbike: Portugal</title>
-</programme>
 <programme start="20260328183000 +0000" stop="20260328190000 +0000" channel="Trans 7.vision">
 <title>Best Fishing</title>
 </programme>
@@ -636,9 +630,6 @@
 </programme>
 <programme start="20260328090000 +0000" stop="20260328110000 +0000" channel="ANTV.vision">
 <title>Vasudha</title>
-</programme>
-<programme start="20260328163000 +0000" stop="20260328180000 +0000" channel="ANTV.vision">
-<title>Black Cat 2</title>
 </programme>
 <programme start="20260328180000 +0000" stop="20260328193000 +0000" channel="ANTV.vision">
 <title>Protege de la Rosa Noire</title>
@@ -1496,5 +1487,14 @@
 <title>DAAI TV</title>
 </programme>
 <programme start="20260328210000 +0000" stop="20260329000000 +0000" channel="DAAI TV.vision">
+<title>DAAI TV</title>
+</programme>
+<programme start="20260329000000 +0000" stop="20260329030000 +0000" channel="DAAI TV.vision">
+<title>DAAI TV</title>
+</programme>
+<programme start="20260329030000 +0000" stop="20260329060000 +0000" channel="DAAI TV.vision">
+<title>DAAI TV</title>
+</programme>
+<programme start="20260329060000 +0000" stop="20260329090000 +0000" channel="DAAI TV.vision">
 <title>DAAI TV</title>
 </programme>
