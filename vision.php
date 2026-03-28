@@ -775,9 +775,6 @@
 <programme start="20260328040000 +0000" stop="20260328053000 +0000" channel="TVOne.vision">
 <title>Kabar Siang (L)</title>
 </programme>
-<programme start="20260328080000 +0000" stop="20260328090000 +0000" channel="TVOne.vision">
-<title>Apa Kabar Indonesia Akhir Pekan</title>
-</programme>
 <programme start="20260328090000 +0000" stop="20260328110000 +0000" channel="TVOne.vision">
 <title>Kabar Petang (L)</title>
 </programme>
@@ -1496,5 +1493,8 @@
 <title>TVRI</title>
 </programme>
 <programme start="20260328000000 +0000" stop="20260328030000 +0000" channel="DAAI TV.vision">
+<title>DAAI TV</title>
+</programme>
+<programme start="20260328030000 +0000" stop="20260328060000 +0000" channel="DAAI TV.vision">
 <title>DAAI TV</title>
 </programme>
