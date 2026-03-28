@@ -529,9 +529,6 @@
 <programme start="20260328063000 +0000" stop="20260328071500 +0000" channel="Trans 7.vision">
 <title>Mancing Mania Strike Back</title>
 </programme>
-<programme start="20260328071500 +0000" stop="20260328080000 +0000" channel="Trans 7.vision">
-<title>Redaksi Akhir Pekan</title>
-</programme>
 <programme start="20260328080000 +0000" stop="20260328090000 +0000" channel="Trans 7.vision">
 <title>Jejak Si Gundul</title>
 </programme>
@@ -777,9 +774,6 @@
 </programme>
 <programme start="20260328040000 +0000" stop="20260328053000 +0000" channel="TVOne.vision">
 <title>Kabar Siang (L)</title>
-</programme>
-<programme start="20260328073000 +0000" stop="20260328080000 +0000" channel="TVOne.vision">
-<title>Satria Biru</title>
 </programme>
 <programme start="20260328080000 +0000" stop="20260328090000 +0000" channel="TVOne.vision">
 <title>Apa Kabar Indonesia Akhir Pekan</title>
@@ -1497,4 +1491,10 @@
 </programme>
 <programme start="20260329090000 +0000" stop="20260329110000 +0000" channel="TVRI.vision">
 <title>TVRI</title>
+</programme>
+<programme start="20260329110000 +0000" stop="20260329130000 +0000" channel="TVRI.vision">
+<title>TVRI</title>
+</programme>
+<programme start="20260328000000 +0000" stop="20260328030000 +0000" channel="DAAI TV.vision">
+<title>DAAI TV</title>
 </programme>
