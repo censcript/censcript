@@ -637,9 +637,6 @@
 <programme start="20260328090000 +0000" stop="20260328110000 +0000" channel="ANTV.vision">
 <title>Vasudha</title>
 </programme>
-<programme start="20260328143000 +0000" stop="20260328163000 +0000" channel="ANTV.vision">
-<title>Kuntilanak 2: Teror Mangkujiwo</title>
-</programme>
 <programme start="20260328163000 +0000" stop="20260328180000 +0000" channel="ANTV.vision">
 <title>Black Cat 2</title>
 </programme>
@@ -774,9 +771,6 @@
 </programme>
 <programme start="20260328110000 +0000" stop="20260328130000 +0000" channel="TVOne.vision">
 <title>Apa Kabar Indonesia Malam (L)</title>
-</programme>
-<programme start="20260328150000 +0000" stop="20260328160000 +0000" channel="TVOne.vision">
-<title>Renungan Jiwa</title>
 </programme>
 <programme start="20260328160000 +0000" stop="20260328170000 +0000" channel="TVOne.vision">
 <title>Breaking News</title>
@@ -1496,5 +1490,11 @@
 <title>DAAI TV</title>
 </programme>
 <programme start="20260328150000 +0000" stop="20260328180000 +0000" channel="DAAI TV.vision">
+<title>DAAI TV</title>
+</programme>
+<programme start="20260328180000 +0000" stop="20260328210000 +0000" channel="DAAI TV.vision">
+<title>DAAI TV</title>
+</programme>
+<programme start="20260328210000 +0000" stop="20260329000000 +0000" channel="DAAI TV.vision">
 <title>DAAI TV</title>
 </programme>

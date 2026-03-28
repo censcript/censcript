@@ -2609,7 +2609,7 @@ Warning: Undefined array key "et" in /usr/home/ManusiaBiasa/domains/manusiabiasa
 <programme start="20260328184000 +0000" stop="20260328190000 +0000" channel="Sky Sport Austria 2 HD.skyde">
     <title>Es folgt: Live Tennis WTA Tour</title>
 </programme>
-<programme start="20260328190000 +0000" stop="20260328213000 +0000" channel="Sky Sport Austria 2 HD.skyde">
+<programme start="20260328190000 +0000" stop="20260329003000 +0000" channel="Sky Sport Austria 2 HD.skyde">
     <title>Live WTA 1000: C. Gauff (USA) - A. Sabalenka, Miami Open presented by Itaú in Miami, Florida (USA), Finale</title>
 </programme>
 <programme start="20260328003000 +0000" stop="20260328013000 +0000" channel="Sky Sport Bundesliga HD.skyde">
@@ -3041,8 +3041,14 @@ Warning: Undefined array key "et" in /usr/home/ManusiaBiasa/domains/manusiabiasa
 <programme start="20260328223000 +0000" stop="20260328230000 +0000" channel="Sky Sport Premier League HD.skyde">
     <title>PL: PL Stories (Didier Drogba)</title>
 </programme>
-<programme start="20260328011500 +0000" stop="20260328030000 +0000" channel="Sky Sport Tennis HD.skyde">
+<programme start="20260328010000 +0000" stop="20260328030000 +0000" channel="Sky Sport Tennis HD.skyde">
     <title>ATP 1000: J. Lehecka (CZE) - A. Fils (FRA), Miami Open presented by Itaú in Miami, Florida (USA), Halbfinale 1</title>
+</programme>
+<programme start="20260328030000 +0000" stop="20260328050000 +0000" channel="Sky Sport Tennis HD.skyde">
+    <title>ATP 1000: A. Zverev (GER) - J. Sinner (ITA), Miami Open presented by Itaú in Miami, Florida (USA), Halbfinale 2</title>
+</programme>
+<programme start="20260328050000 +0000" stop="20260328073000 +0000" channel="Sky Sport Tennis HD.skyde">
+    <title>WTA 1000: E. Rybakina (KAZ) - A. Sabalenka, BNP Paribas Open in Indian Wells, Kalifornien (USA), Finale</title>
 </programme>
 <programme start="20260328073000 +0000" stop="20260328083000 +0000" channel="Sky Sport Tennis HD.skyde">
     <title>ATP 1000: Review Indian Wells</title>
@@ -3060,13 +3066,13 @@ Warning: Undefined array key "et" in /usr/home/ManusiaBiasa/domains/manusiabiasa
     <title>ATP 1000: A. Zverev (GER) - J. Sinner (ITA), Miami Open presented by Itaú in Miami, Florida (USA), Halbfinale 2</title>
 </programme>
 <programme start="20260328163000 +0000" stop="20260328190000 +0000" channel="Sky Sport Tennis HD.skyde">
-    <title>Live ATP 1000: H. Heliovaara (FIN) / H. Patten (GBR) - S. Bolelli (ITA) / A. Vavassori (ITA), Miami Open presented by Itaú in Miami, Florida (USA), Doppelfinale,</title>
+    <title>Live ATP 1000: Finale, Miami Open presented by Itaú in Miami, Florida (USA), Doppelfinale,</title>
 </programme>
 <programme start="20260328190000 +0000" stop="20260328213000 +0000" channel="Sky Sport Tennis HD.skyde">
     <title>Live WTA 1000: C. Gauff (USA) - A. Sabalenka, Miami Open presented by Itaú in Miami, Florida (USA), Finale</title>
 </programme>
 <programme start="20260328213000 +0000" stop="20260329000000 +0000" channel="Sky Sport Tennis HD.skyde">
-    <title>ATP 1000: H. Heliovaara (FIN) / H. Patten (GBR) - S. Bolelli (ITA) / A. Vavassori (ITA), Miami Open presented by Itaú in Miami, Florida (USA), Doppelfinale,</title>
+    <title>ATP 1000: Finale, Miami Open presented by Itaú in Miami, Florida (USA), Doppelfinale,</title>
 </programme>
 <programme start="20260328011500 +0000" stop="20260328021500 +0000" channel="Sky Sport Top Event HD.skyde">
     <title>Live NBA: Miami Heat @ Cleveland Cavaliers</title>
