@@ -1746,42 +1746,6 @@ Warning: Undefined array key "et" in /usr/home/ManusiaBiasa/domains/manusiabiasa
 <programme start="20260329201000 +0000" stop="20260329220500 +0000" channel="Sky Cinema Family HD.skyde">
     <title>Teenage Mutant Ninja Turtles: Out of the Shadows</title>
 </programme>
-<programme start="20260328233500 +0000" stop="20260329021000 +0000" channel="Sky Cinema Highlights HD.skyde">
-    <title>Transformers: The Last Knight</title>
-</programme>
-<programme start="20260329021000 +0000" stop="20260329035000 +0000" channel="Sky Cinema Highlights HD.skyde">
-    <title>Monster Hunter</title>
-</programme>
-<programme start="20260329035000 +0000" stop="20260329055500 +0000" channel="Sky Cinema Highlights HD.skyde">
-    <title>Jurassic Park</title>
-</programme>
-<programme start="20260329055500 +0000" stop="20260329073000 +0000" channel="Sky Cinema Highlights HD.skyde">
-    <title>Jurassic Park III</title>
-</programme>
-<programme start="20260329073000 +0000" stop="20260329094000 +0000" channel="Sky Cinema Highlights HD.skyde">
-    <title>Vergessene Welt: Jurassic Park</title>
-</programme>
-<programme start="20260329094000 +0000" stop="20260329114500 +0000" channel="Sky Cinema Highlights HD.skyde">
-    <title>Jurassic World</title>
-</programme>
-<programme start="20260329114500 +0000" stop="20260329135000 +0000" channel="Sky Cinema Highlights HD.skyde">
-    <title>Jurassic World: Das gefallene Königreich</title>
-</programme>
-<programme start="20260329135000 +0000" stop="20260329160500 +0000" channel="Sky Cinema Highlights HD.skyde">
-    <title>Jurassic World: Die Wiedergeburt</title>
-</programme>
-<programme start="20260329160500 +0000" stop="20260329181500 +0000" channel="Sky Cinema Highlights HD.skyde">
-    <title>Jurassic Park</title>
-</programme>
-<programme start="20260329181500 +0000" stop="20260329202500 +0000" channel="Sky Cinema Highlights HD.skyde">
-    <title>Vergessene Welt: Jurassic Park</title>
-</programme>
-<programme start="20260329202500 +0000" stop="20260329215500 +0000" channel="Sky Cinema Highlights HD.skyde">
-    <title>Jurassic Park III</title>
-</programme>
-<programme start="20260329215500 +0000" stop="20260329232500 +0000" channel="Sky Cinema Highlights HD.skyde">
-    <title>47 Meters Down: Uncaged</title>
-</programme>
 <programme start="20260329011500 +0000" stop="20260329033000 +0000" channel="Sky Cinema Premiere HD.skyde">
     <title>Anora</title>
 </programme>
@@ -2931,6 +2895,9 @@ Warning: Undefined array key "et" in /usr/home/ManusiaBiasa/domains/manusiabiasa
 <programme start="20260329110000 +0000" stop="20260329133000 +0000" channel="Sky Sport Tennis HD.skyde">
     <title>WTA 1000: C. Gauff (USA) - A. Sabalenka, Miami Open presented by Itaú in Miami, Florida (USA), Finale</title>
 </programme>
+<programme start="20260329133000 +0000" stop="20260329140000 +0000" channel="Sky Sport Tennis HD.skyde">
+    <title>ATP: This Week</title>
+</programme>
 <programme start="20260329140000 +0000" stop="20260329144000 +0000" channel="Sky Sport Tennis HD.skyde">
     <title>Tennis: Rafael Nadal - The No. 1 Story</title>
 </programme>
@@ -2949,7 +2916,7 @@ Warning: Undefined array key "et" in /usr/home/ManusiaBiasa/domains/manusiabiasa
 <programme start="20260329213000 +0000" stop="20260330000000 +0000" channel="Sky Sport Tennis HD.skyde">
     <title>WTA 1000: C. Gauff (USA) - A. Sabalenka, Miami Open presented by Itaú in Miami, Florida (USA), Finale</title>
 </programme>
-<programme start="20260329004500 +0000" stop="20260329020000 +0000" channel="Sky Sport Top Event HD.skyde">
+<programme start="20260329010000 +0000" stop="20260329020000 +0000" channel="Sky Sport Top Event HD.skyde">
     <title>Live NHL: Winnipeg Jets @ Colorado Avalanche</title>
 </programme>
 <programme start="20260329020000 +0000" stop="20260329021500 +0000" channel="Sky Sport Top Event HD.skyde">
@@ -2964,17 +2931,20 @@ Warning: Undefined array key "et" in /usr/home/ManusiaBiasa/domains/manusiabiasa
 <programme start="20260329040000 +0000" stop="20260329045500 +0000" channel="Sky Sport Top Event HD.skyde">
     <title>Live F1: Vorberichte - GP Japan</title>
 </programme>
-<programme start="20260329045500 +0000" stop="20260329070500 +0000" channel="Sky Sport Top Event HD.skyde">
+<programme start="20260329045500 +0000" stop="20260329064500 +0000" channel="Sky Sport Top Event HD.skyde">
     <title>Live F1: Rennen - GP Japan</title>
 </programme>
-<programme start="20260329070500 +0000" stop="20260329075000 +0000" channel="Sky Sport Top Event HD.skyde">
+<programme start="20260329064500 +0000" stop="20260329073000 +0000" channel="Sky Sport Top Event HD.skyde">
     <title>Live F1: Analysen &amp; Interviews - GP Japan</title>
 </programme>
-<programme start="20260329075000 +0000" stop="20260329082000 +0000" channel="Sky Sport Top Event HD.skyde">
+<programme start="20260329073000 +0000" stop="20260329080000 +0000" channel="Sky Sport Top Event HD.skyde">
     <title>Live F1: Pressekonferenz Rennen - GP Japan</title>
 </programme>
-<programme start="20260329082000 +0000" stop="20260329085500 +0000" channel="Sky Sport Top Event HD.skyde">
+<programme start="20260329080000 +0000" stop="20260329083000 +0000" channel="Sky Sport Top Event HD.skyde">
     <title>Live F1: Ted&#039;s Notebook: GP Japan</title>
+</programme>
+<programme start="20260329083000 +0000" stop="20260329085500 +0000" channel="Sky Sport Top Event HD.skyde">
+    <title>Tennis: Rafael Nadal - The No. 1 Story</title>
 </programme>
 <programme start="20260329085500 +0000" stop="20260329110000 +0000" channel="Sky Sport Top Event HD.skyde">
     <title>Live DFB-Nachwuchsliga: FC Schalke 04 U19 - Holstein Kiel U19, Hauptrunde, 7. Spieltag</title>
@@ -3040,10 +3010,10 @@ Warning: Undefined array key "et" in /usr/home/ManusiaBiasa/domains/manusiabiasa
     <title>Golf: Greatest Holes (6)</title>
 </programme>
 <programme start="20260329090000 +0000" stop="20260329110000 +0000" channel="Sky Sport UHD.skyde">
-    <title>F1: Rennen - GP Japan</title>
+    <title>DFB-Pokal: FC Bayern München - RB Leipzig, Viertelfinale</title>
 </programme>
 <programme start="20260329110000 +0000" stop="20260329130000 +0000" channel="Sky Sport UHD.skyde">
-    <title>DFB-Pokal: FC Bayern München - RB Leipzig, Viertelfinale</title>
+    <title>F1: Rennen - GP Japan</title>
 </programme>
 <programme start="20260329130000 +0000" stop="20260329150000 +0000" channel="Sky Sport UHD.skyde">
     <title>F1: Rennen - GP Japan</title>

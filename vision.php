@@ -8,7 +8,7 @@
 <title>Kiko S4</title>
 </programme>
 <programme start="20260329013000 +0000" stop="20260329020000 +0000" channel="RCTI.vision">
-<title>Entong (RCTI)</title>
+<title>Entong</title>
 </programme>
 <programme start="20260329020000 +0000" stop="20260329033000 +0000" channel="RCTI.vision">
 <title>Dahsyatnya Weekend (RCTI)</title>
@@ -50,7 +50,7 @@
 <title>Upin Ipin</title>
 </programme>
 <programme start="20260330010000 +0000" stop="20260330023000 +0000" channel="RCTI.vision">
-<title>Entong (RCTI)</title>
+<title>Entong</title>
 </programme>
 <programme start="20260330023000 +0000" stop="20260330033000 +0000" channel="RCTI.vision">
 <title>Ninja Hattori</title>
@@ -352,6 +352,9 @@
 <programme start="20260329130000 +0000" stop="20260329133000 +0000" channel="SindoNews.vision">
 <title>OMG</title>
 </programme>
+<programme start="20260329133000 +0000" stop="20260329143000 +0000" channel="SindoNews.vision">
+<title>SINDO Malam</title>
+</programme>
 <programme start="20260329143000 +0000" stop="20260329153000 +0000" channel="SindoNews.vision">
 <title>iNews Room Weekend</title>
 </programme>
@@ -439,14 +442,26 @@
 <programme start="20260329053000 +0000" stop="20260329070000 +0000" channel="Trans TV.vision">
 <title>Brownis On The Weekend</title>
 </programme>
+<programme start="20260329070000 +0000" stop="20260329080000 +0000" channel="Trans TV.vision">
+<title>Rumpi Hot Of The Week</title>
+</programme>
 <programme start="20260329080000 +0000" stop="20260329093000 +0000" channel="Trans TV.vision">
 <title>Insert Investigasi</title>
+</programme>
+<programme start="20260329093000 +0000" stop="20260329101500 +0000" channel="Trans TV.vision">
+<title>HaHa HiHi</title>
+</programme>
+<programme start="20260329101500 +0000" stop="20260329113000 +0000" channel="Trans TV.vision">
+<title>Bikin Laper Weekend</title>
 </programme>
 <programme start="20260329113000 +0000" stop="20260329123000 +0000" channel="Trans TV.vision">
 <title>Insert Story</title>
 </programme>
 <programme start="20260329123000 +0000" stop="20260329133000 +0000" channel="Trans TV.vision">
 <title>Peek Me</title>
+</programme>
+<programme start="20260329133000 +0000" stop="20260329143000 +0000" channel="Trans TV.vision">
+<title>Highlight</title>
 </programme>
 <programme start="20260329143000 +0000" stop="20260329163000 +0000" channel="Trans TV.vision">
 <title>Bioskop Trans TV</title>
@@ -502,6 +517,12 @@
 <programme start="20260329050000 +0000" stop="20260329054500 +0000" channel="Trans 7.vision">
 <title>Cuan Bos</title>
 </programme>
+<programme start="20260329054500 +0000" stop="20260329063000 +0000" channel="Trans 7.vision">
+<title>Jejak Petualang Explorer</title>
+</programme>
+<programme start="20260329063000 +0000" stop="20260329071500 +0000" channel="Trans 7.vision">
+<title>Mancing Mania Strike Back</title>
+</programme>
 <programme start="20260329071500 +0000" stop="20260329080000 +0000" channel="Trans 7.vision">
 <title>Redaksi Pagi Akhir Pekan</title>
 </programme>
@@ -510,6 +531,12 @@
 </programme>
 <programme start="20260329090000 +0000" stop="20260329100000 +0000" channel="Trans 7.vision">
 <title>Makan Receh</title>
+</programme>
+<programme start="20260329100000 +0000" stop="20260329110000 +0000" channel="Trans 7.vision">
+<title>Selebrita On The Weekend</title>
+</programme>
+<programme start="20260329110000 +0000" stop="20260329113000 +0000" channel="Trans 7.vision">
+<title>Legenda Bertuah</title>
 </programme>
 <programme start="20260329113000 +0000" stop="20260329124500 +0000" channel="Trans 7.vision">
 <title>Secret Story</title>
@@ -592,6 +619,9 @@
 <programme start="20260329003000 +0000" stop="20260329023000 +0000" channel="ANTV.vision">
 <title>Janji Cinta Inspektur Virat</title>
 </programme>
+<programme start="20260329023000 +0000" stop="20260329060000 +0000" channel="ANTV.vision">
+<title>Pathaan</title>
+</programme>
 <programme start="20260329060000 +0000" stop="20260329080000 +0000" channel="ANTV.vision">
 <title>Jhanak</title>
 </programme>
@@ -600,6 +630,15 @@
 </programme>
 <programme start="20260329090000 +0000" stop="20260329110000 +0000" channel="ANTV.vision">
 <title>Vasudha</title>
+</programme>
+<programme start="20260329110000 +0000" stop="20260329130000 +0000" channel="ANTV.vision">
+<title>Jaka Sembung</title>
+</programme>
+<programme start="20260329130000 +0000" stop="20260329143000 +0000" channel="ANTV.vision">
+<title>Ajian Ratu Laut Kidul</title>
+</programme>
+<programme start="20260329143000 +0000" stop="20260329163000 +0000" channel="ANTV.vision">
+<title>Kuntilanak 3: Hutan Terlarang</title>
 </programme>
 <programme start="20260329163000 +0000" stop="20260329180000 +0000" channel="ANTV.vision">
 <title>Madu Murni</title>
@@ -1458,43 +1497,4 @@
 </programme>
 <programme start="20260328235000 +0000" stop="20260329010500 +0000" channel="MDTV.vision">
 <title>AADD: Ada Apa Dengan Dunia</title>
-</programme>
-<programme start="20260329010500 +0000" stop="20260329015500 +0000" channel="MDTV.vision">
-<title>Fakta 62 Weekend</title>
-</programme>
-<programme start="20260329015500 +0000" stop="20260329025000 +0000" channel="MDTV.vision">
-<title>Sensasihot</title>
-</programme>
-<programme start="20260329025000 +0000" stop="20260329034000 +0000" channel="MDTV.vision">
-<title>Emak-Emak Petualang</title>
-</programme>
-<programme start="20260329034000 +0000" stop="20260329050000 +0000" channel="MDTV.vision">
-<title>Cinta Fitri S6</title>
-</programme>
-<programme start="20260329050000 +0000" stop="20260329063000 +0000" channel="MDTV.vision">
-<title>Janji Cinta (Sindoor Ki Keemat)</title>
-</programme>
-<programme start="20260329063000 +0000" stop="20260329080000 +0000" channel="MDTV.vision">
-<title>Makan Enak</title>
-</programme>
-<programme start="20260329080000 +0000" stop="20260329092000 +0000" channel="MDTV.vision">
-<title>Masak Gesss!!!</title>
-</programme>
-<programme start="20260329092000 +0000" stop="20260329101000 +0000" channel="MDTV.vision">
-<title>Adit Sopo Jarwo</title>
-</programme>
-<programme start="20260329101000 +0000" stop="20260329110500 +0000" channel="MDTV.vision">
-<title>Amigos X Siempre</title>
-</programme>
-<programme start="20260329110500 +0000" stop="20260329120000 +0000" channel="MDTV.vision">
-<title>Esmeralda</title>
-</programme>
-<programme start="20260329120000 +0000" stop="20260329125500 +0000" channel="MDTV.vision">
-<title>Keluarga Yang Tak Dirindukan</title>
-</programme>
-<programme start="20260329125500 +0000" stop="20260329134500 +0000" channel="MDTV.vision">
-<title>Dunia Tanpa Tuhan</title>
-</programme>
-<programme start="20260329134500 +0000" stop="20260329143500 +0000" channel="MDTV.vision">
-<title>The Return Of Condor Heroes</title>
 </programme>
