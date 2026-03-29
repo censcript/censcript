@@ -8,7 +8,7 @@
 <title>Kiko S4</title>
 </programme>
 <programme start="20260329013000 +0000" stop="20260329020000 +0000" channel="RCTI.vision">
-<title>Entong</title>
+<title>Entong (RCTI)</title>
 </programme>
 <programme start="20260329020000 +0000" stop="20260329033000 +0000" channel="RCTI.vision">
 <title>Dahsyatnya Weekend (RCTI)</title>
@@ -50,7 +50,7 @@
 <title>Upin Ipin</title>
 </programme>
 <programme start="20260330010000 +0000" stop="20260330023000 +0000" channel="RCTI.vision">
-<title>Entong</title>
+<title>Entong (RCTI)</title>
 </programme>
 <programme start="20260330023000 +0000" stop="20260330033000 +0000" channel="RCTI.vision">
 <title>Ninja Hattori</title>
@@ -442,9 +442,6 @@
 <programme start="20260329053000 +0000" stop="20260329070000 +0000" channel="Trans TV.vision">
 <title>Brownis On The Weekend</title>
 </programme>
-<programme start="20260329070000 +0000" stop="20260329080000 +0000" channel="Trans TV.vision">
-<title>Rumpi Hot Of The Week</title>
-</programme>
 <programme start="20260329080000 +0000" stop="20260329093000 +0000" channel="Trans TV.vision">
 <title>Insert Investigasi</title>
 </programme>
@@ -516,12 +513,6 @@
 </programme>
 <programme start="20260329050000 +0000" stop="20260329054500 +0000" channel="Trans 7.vision">
 <title>Cuan Bos</title>
-</programme>
-<programme start="20260329054500 +0000" stop="20260329063000 +0000" channel="Trans 7.vision">
-<title>Jejak Petualang Explorer</title>
-</programme>
-<programme start="20260329063000 +0000" stop="20260329071500 +0000" channel="Trans 7.vision">
-<title>Mancing Mania Strike Back</title>
 </programme>
 <programme start="20260329071500 +0000" stop="20260329080000 +0000" channel="Trans 7.vision">
 <title>Redaksi Pagi Akhir Pekan</title>
@@ -618,9 +609,6 @@
 </programme>
 <programme start="20260329003000 +0000" stop="20260329023000 +0000" channel="ANTV.vision">
 <title>Janji Cinta Inspektur Virat</title>
-</programme>
-<programme start="20260329023000 +0000" stop="20260329060000 +0000" channel="ANTV.vision">
-<title>Pathaan</title>
 </programme>
 <programme start="20260329060000 +0000" stop="20260329080000 +0000" channel="ANTV.vision">
 <title>Jhanak</title>
@@ -1497,4 +1485,16 @@
 </programme>
 <programme start="20260328235000 +0000" stop="20260329010500 +0000" channel="MDTV.vision">
 <title>AADD: Ada Apa Dengan Dunia</title>
+</programme>
+<programme start="20260329010500 +0000" stop="20260329015500 +0000" channel="MDTV.vision">
+<title>Fakta 62 Weekend</title>
+</programme>
+<programme start="20260329015500 +0000" stop="20260329025000 +0000" channel="MDTV.vision">
+<title>Sensasihot</title>
+</programme>
+<programme start="20260329025000 +0000" stop="20260329034000 +0000" channel="MDTV.vision">
+<title>Emak-Emak Petualang</title>
+</programme>
+<programme start="20260329034000 +0000" stop="20260329050000 +0000" channel="MDTV.vision">
+<title>Cinta Fitri S6</title>
 </programme>
