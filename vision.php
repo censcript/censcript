@@ -529,12 +529,6 @@
 <programme start="20260329163000 +0000" stop="20260329170000 +0000" channel="Trans 7.vision">
 <title>Best Fishing</title>
 </programme>
-<programme start="20260329170000 +0000" stop="20260329190000 +0000" channel="Trans 7.vision">
-<title>MotoGP 2026: USA</title>
-</programme>
-<programme start="20260329190000 +0000" stop="20260329210000 +0000" channel="Trans 7.vision">
-<title>MotoGP 2026: USA</title>
-</programme>
 <programme start="20260329210000 +0000" stop="20260329214500 +0000" channel="Trans 7.vision">
 <title>POV (Pasti Obrolan Viral)</title>
 </programme>
@@ -1497,4 +1491,10 @@
 </programme>
 <programme start="20260329160500 +0000" stop="20260329165500 +0000" channel="MDTV.vision">
 <title>86</title>
+</programme>
+<programme start="20260329165500 +0000" stop="20260329190000 +0000" channel="MDTV.vision">
+<title>Malam-Malam</title>
+</programme>
+<programme start="20260329190000 +0000" stop="20260329200000 +0000" channel="MDTV.vision">
+<title>MDTV</title>
 </programme>
