@@ -2547,17 +2547,20 @@ Warning: Undefined array key "et" in /usr/home/ManusiaBiasa/domains/manusiabiasa
 <programme start="20260329040000 +0000" stop="20260329045500 +0000" channel="Sky Sport F1 HD.skyde">
     <title>Live F1: Vorberichte - GP Japan</title>
 </programme>
-<programme start="20260329045500 +0000" stop="20260329070500 +0000" channel="Sky Sport F1 HD.skyde">
+<programme start="20260329045500 +0000" stop="20260329064500 +0000" channel="Sky Sport F1 HD.skyde">
     <title>Live F1: Rennen - GP Japan</title>
 </programme>
-<programme start="20260329070500 +0000" stop="20260329075000 +0000" channel="Sky Sport F1 HD.skyde">
+<programme start="20260329064500 +0000" stop="20260329073000 +0000" channel="Sky Sport F1 HD.skyde">
     <title>Live F1: Analysen &amp; Interviews - GP Japan</title>
 </programme>
-<programme start="20260329075000 +0000" stop="20260329082000 +0000" channel="Sky Sport F1 HD.skyde">
+<programme start="20260329073000 +0000" stop="20260329080000 +0000" channel="Sky Sport F1 HD.skyde">
     <title>Live F1: Pressekonferenz Rennen - GP Japan</title>
 </programme>
-<programme start="20260329082000 +0000" stop="20260329090000 +0000" channel="Sky Sport F1 HD.skyde">
+<programme start="20260329080000 +0000" stop="20260329083000 +0000" channel="Sky Sport F1 HD.skyde">
     <title>Live F1: Ted&#039;s Notebook: GP Japan</title>
+</programme>
+<programme start="20260329083000 +0000" stop="20260329090000 +0000" channel="Sky Sport F1 HD.skyde">
+    <title>F1: Iconic Onboards: Daniel Ricciardo</title>
 </programme>
 <programme start="20260329090000 +0000" stop="20260329110000 +0000" channel="Sky Sport F1 HD.skyde">
     <title>F1: Rennen - GP Japan</title>
@@ -2928,9 +2931,6 @@ Warning: Undefined array key "et" in /usr/home/ManusiaBiasa/domains/manusiabiasa
 <programme start="20260329110000 +0000" stop="20260329133000 +0000" channel="Sky Sport Tennis HD.skyde">
     <title>WTA 1000: C. Gauff (USA) - A. Sabalenka, Miami Open presented by Itaú in Miami, Florida (USA), Finale</title>
 </programme>
-<programme start="20260329133000 +0000" stop="20260329140000 +0000" channel="Sky Sport Tennis HD.skyde">
-    <title>ATP: This Week</title>
-</programme>
 <programme start="20260329140000 +0000" stop="20260329144000 +0000" channel="Sky Sport Tennis HD.skyde">
     <title>Tennis: Rafael Nadal - The No. 1 Story</title>
 </programme>
@@ -2964,20 +2964,17 @@ Warning: Undefined array key "et" in /usr/home/ManusiaBiasa/domains/manusiabiasa
 <programme start="20260329040000 +0000" stop="20260329045500 +0000" channel="Sky Sport Top Event HD.skyde">
     <title>Live F1: Vorberichte - GP Japan</title>
 </programme>
-<programme start="20260329045500 +0000" stop="20260329064500 +0000" channel="Sky Sport Top Event HD.skyde">
+<programme start="20260329045500 +0000" stop="20260329070500 +0000" channel="Sky Sport Top Event HD.skyde">
     <title>Live F1: Rennen - GP Japan</title>
 </programme>
-<programme start="20260329064500 +0000" stop="20260329073000 +0000" channel="Sky Sport Top Event HD.skyde">
+<programme start="20260329070500 +0000" stop="20260329075000 +0000" channel="Sky Sport Top Event HD.skyde">
     <title>Live F1: Analysen &amp; Interviews - GP Japan</title>
 </programme>
-<programme start="20260329073000 +0000" stop="20260329080000 +0000" channel="Sky Sport Top Event HD.skyde">
+<programme start="20260329075000 +0000" stop="20260329082000 +0000" channel="Sky Sport Top Event HD.skyde">
     <title>Live F1: Pressekonferenz Rennen - GP Japan</title>
 </programme>
-<programme start="20260329080000 +0000" stop="20260329083000 +0000" channel="Sky Sport Top Event HD.skyde">
+<programme start="20260329082000 +0000" stop="20260329085500 +0000" channel="Sky Sport Top Event HD.skyde">
     <title>Live F1: Ted&#039;s Notebook: GP Japan</title>
-</programme>
-<programme start="20260329083000 +0000" stop="20260329085500 +0000" channel="Sky Sport Top Event HD.skyde">
-    <title>Tennis: Rafael Nadal - The No. 1 Story</title>
 </programme>
 <programme start="20260329085500 +0000" stop="20260329110000 +0000" channel="Sky Sport Top Event HD.skyde">
     <title>Live DFB-Nachwuchsliga: FC Schalke 04 U19 - Holstein Kiel U19, Hauptrunde, 7. Spieltag</title>
@@ -3043,13 +3040,10 @@ Warning: Undefined array key "et" in /usr/home/ManusiaBiasa/domains/manusiabiasa
     <title>Golf: Greatest Holes (6)</title>
 </programme>
 <programme start="20260329090000 +0000" stop="20260329110000 +0000" channel="Sky Sport UHD.skyde">
-    <title>DFB-Pokal: FC Bayern München - RB Leipzig, Viertelfinale</title>
-</programme>
-<programme start="20260329110000 +0000" stop="20260329130000 +0000" channel="Sky Sport UHD.skyde">
     <title>F1: Rennen - GP Japan</title>
 </programme>
 <programme start="20260329110000 +0000" stop="20260329130000 +0000" channel="Sky Sport UHD.skyde">
-    <title>Mondo Duplantis: Immer höher</title>
+    <title>DFB-Pokal: FC Bayern München - RB Leipzig, Viertelfinale</title>
 </programme>
 <programme start="20260329130000 +0000" stop="20260329150000 +0000" channel="Sky Sport UHD.skyde">
     <title>F1: Rennen - GP Japan</title>

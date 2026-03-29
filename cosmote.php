@@ -1,7 +1,3 @@
-<programme start="20260330004000 +0700" stop="20260330023500 +0700" channel="COSMOTE Sport 1 HD">
-    <title>Football: AC Sparta Praha - AZ Alkmaar</title>
-    <desc>Live: Tidak</desc>
-</programme>
 <programme start="20260330023500 +0700" stop="20260330043000 +0700" channel="COSMOTE Sport 1 HD">
     <title>Football: Arsenal - Bayer 04 Leverkusen</title>
     <desc>Live: Tidak</desc>
@@ -174,10 +170,6 @@
     <title>Football: Dundee United - Celtic FC</title>
     <desc>Live: Tidak</desc>
 </programme>
-<programme start="20260330020000 +0700" stop="20260330023000 +0700" channel="COSMOTE Sport 4 HD">
-    <title>NBA on Fire 2025-26 E22</title>
-    <desc>Live: Tidak</desc>
-</programme>
 <programme start="20260330023000 +0700" stop="20260330053000 +0700" channel="COSMOTE Sport 4 HD">
     <title>Basketball: Milwaukee Bucks - Los Angeles Clippers (L)</title>
     <desc>Live: Ya</desc>
@@ -226,9 +218,9 @@
     <title>Basketball: Milwaukee Bucks - Los Angeles Clippers</title>
     <desc>Live: Tidak</desc>
 </programme>
-<programme start="20260330010000 +0700" stop="20260330023000 +0700" channel="COSMOTE Sport 5 HD">
-    <title>Motorsports: Moto2 2026 (L)</title>
-    <desc>Live: Ya</desc>
+<programme start="20260331035000 +0700" stop="20260331062000 +0700" channel="COSMOTE Sport 4 HD">
+    <title>Basketball: Charlotte Hornets - Boston Celtics</title>
+    <desc>Live: Tidak</desc>
 </programme>
 <programme start="20260330023000 +0700" stop="20260330042000 +0700" channel="COSMOTE Sport 5 HD">
     <title>Motorsports: MotoGP 2026 (L)</title>
@@ -326,6 +318,10 @@
     <title>Motorsports: MotoGP 2026</title>
     <desc>Live: Tidak</desc>
 </programme>
+<programme start="20260331032000 +0700" stop="20260331042000 +0700" channel="COSMOTE Sport 5 HD">
+    <title>WRC</title>
+    <desc>Live: Tidak</desc>
+</programme>
 <programme start="20260330020000 +0700" stop="20260330043000 +0700" channel="COSMOTE Sport 6 HD">
     <title>Tennis: Jiri Lehecka - Jannik Sinner (L)</title>
     <desc>Live: Ya</desc>
@@ -394,12 +390,8 @@
     <title>Sports Classics: 2026 Sports Rundown E2</title>
     <desc>Live: Tidak</desc>
 </programme>
-<programme start="20260330020000 +0700" stop="20260330023000 +0700" channel="COSMOTE Sport 7 HD">
-    <title>COSMOTESport7HD</title>
-    <desc>Live: Tidak</desc>
-</programme>
-<programme start="20260330023000 +0700" stop="20260330030000 +0700" channel="COSMOTE Sport 7 HD">
-    <title>COSMOTESport7HD</title>
+<programme start="20260331030000 +0700" stop="20260331042500 +0700" channel="COSMOTE Sport 6 HD">
+    <title>Topspin</title>
     <desc>Live: Tidak</desc>
 </programme>
 <programme start="20260330030000 +0700" stop="20260330050000 +0700" channel="COSMOTE Sport 7 HD">
@@ -462,9 +454,9 @@
     <title>COSMOTESport7HD</title>
     <desc>Live: Tidak</desc>
 </programme>
-<programme start="20260330003000 +0700" stop="20260330023000 +0700" channel="COSMOTE Sport 8 HD">
-    <title>Basketball: Bursaspor - Fenerbahce (L)</title>
-    <desc>Live: Ya</desc>
+<programme start="20260331030000 +0700" stop="20260331040000 +0700" channel="COSMOTE Sport 7 HD">
+    <title>COSMOTESport7HD</title>
+    <desc>Live: Tidak</desc>
 </programme>
 <programme start="20260330023000 +0700" stop="20260330040000 +0700" channel="COSMOTE Sport 8 HD">
     <title>COSMOTESport8HD</title>

@@ -595,87 +595,6 @@
   <programme start="20260331210500 +0000" stop="20260331222000 +0000" channel="Markíza.webtv.sk">
     <title lang="id">Odznak Vysočina I (1)</title>
   </programme>
-  <programme start="20260330211000 +0000" stop="20260330220500 +0000" channel="JOJ.webtv.sk">
-    <title lang="id">Ostreľovač III (5)</title>
-  </programme>
-  <programme start="20260330220500 +0000" stop="20260330230000 +0000" channel="JOJ.webtv.sk">
-    <title lang="id">Ostreľovač III (6)</title>
-  </programme>
-  <programme start="20260330230000 +0000" stop="20260330233000 +0000" channel="JOJ.webtv.sk">
-    <title lang="id">Krimi</title>
-  </programme>
-  <programme start="20260330233000 +0000" stop="20260331004000 +0000" channel="JOJ.webtv.sk">
-    <title lang="id">Bez servítky</title>
-  </programme>
-  <programme start="20260331004000 +0000" stop="20260331014000 +0000" channel="JOJ.webtv.sk">
-    <title lang="id">Inkognito</title>
-  </programme>
-  <programme start="20260331014000 +0000" stop="20260331025500 +0000" channel="JOJ.webtv.sk">
-    <title lang="id">Mama, ožeň ma</title>
-  </programme>
-  <programme start="20260331025500 +0000" stop="20260331034500 +0000" channel="JOJ.webtv.sk">
-    <title lang="id">Noviny TV JOJ</title>
-  </programme>
-  <programme start="20260331034500 +0000" stop="20260331041500 +0000" channel="JOJ.webtv.sk">
-    <title lang="id">Krimi</title>
-  </programme>
-  <programme start="20260331041500 +0000" stop="20260331063500 +0000" channel="JOJ.webtv.sk">
-    <title lang="id">Ranné noviny</title>
-  </programme>
-  <programme start="20260331063500 +0000" stop="20260331075000 +0000" channel="JOJ.webtv.sk">
-    <title lang="id">Nové bývanie - dizajn</title>
-  </programme>
-  <programme start="20260331075000 +0000" stop="20260331100000 +0000" channel="JOJ.webtv.sk">
-    <title lang="id">Súdna sieň</title>
-  </programme>
-  <programme start="20260331100000 +0000" stop="20260331105000 +0000" channel="JOJ.webtv.sk">
-    <title lang="id">Noviny o 12:00</title>
-  </programme>
-  <programme start="20260331105000 +0000" stop="20260331112000 +0000" channel="JOJ.webtv.sk">
-    <title lang="id">Top star</title>
-  </programme>
-  <programme start="20260331112000 +0000" stop="20260331122000 +0000" channel="JOJ.webtv.sk">
-    <title lang="id">Hranica (60)</title>
-  </programme>
-  <programme start="20260331122000 +0000" stop="20260331130000 +0000" channel="JOJ.webtv.sk">
-    <title lang="id">Naši II (40)</title>
-  </programme>
-  <programme start="20260331130000 +0000" stop="20260331140000 +0000" channel="JOJ.webtv.sk">
-    <title lang="id">Bez servítky</title>
-  </programme>
-  <programme start="20260331140000 +0000" stop="20260331151000 +0000" channel="JOJ.webtv.sk">
-    <title lang="id">Inkognito</title>
-  </programme>
-  <programme start="20260331151000 +0000" stop="20260331155000 +0000" channel="JOJ.webtv.sk">
-    <title lang="id">Riskuj</title>
-  </programme>
-  <programme start="20260331155000 +0000" stop="20260331170000 +0000" channel="JOJ.webtv.sk">
-    <title lang="id">Bez servítky</title>
-  </programme>
-  <programme start="20260331170000 +0000" stop="20260331173000 +0000" channel="JOJ.webtv.sk">
-    <title lang="id">Krimi</title>
-  </programme>
-  <programme start="20260331173000 +0000" stop="20260331181500 +0000" channel="JOJ.webtv.sk">
-    <title lang="id">Noviny TV JOJ</title>
-  </programme>
-  <programme start="20260331181500 +0000" stop="20260331182000 +0000" channel="JOJ.webtv.sk">
-    <title lang="id">Informácie pre tipujúcich</title>
-  </programme>
-  <programme start="20260331182000 +0000" stop="20260331183000 +0000" channel="JOJ.webtv.sk">
-    <title lang="id">Šport</title>
-  </programme>
-  <programme start="20260331183000 +0000" stop="20260331184000 +0000" channel="JOJ.webtv.sk">
-    <title lang="id">Najlepšie počasie</title>
-  </programme>
-  <programme start="20260331184000 +0000" stop="20260331195000 +0000" channel="JOJ.webtv.sk">
-    <title lang="id">Inkognito</title>
-  </programme>
-  <programme start="20260331195000 +0000" stop="20260331205000 +0000" channel="JOJ.webtv.sk">
-    <title lang="id">Inkognito</title>
-  </programme>
-  <programme start="20260331205000 +0000" stop="20260331220000 +0000" channel="JOJ.webtv.sk">
-    <title lang="id">Hviezdy nad hlavou (13)</title>
-  </programme>
   <programme start="20260330220000 +0000" stop="20260330231500 +0000" channel="Markíza +1.webtv.sk">
     <title lang="id">Špecialisti VIII (9)</title>
   </programme>
@@ -5173,6 +5092,87 @@
   <programme start="20260331200000 +0000" stop="20260331220000 +0000" channel="Arena Sport 2.webtv.sk">
     <title lang="id">Feyenoord - AFC Ajax</title>
   </programme>
+  <programme start="20260330212000 +0000" stop="20260330230000 +0000" channel="Nova Sport 1.webtv.sk">
+    <title lang="id">New York Rangers - Florida Panthers</title>
+  </programme>
+  <programme start="20260330230000 +0000" stop="20260331000000 +0000" channel="Nova Sport 1.webtv.sk">
+    <title lang="id">The King&apos;s Show (4)</title>
+  </programme>
+  <programme start="20260331000000 +0000" stop="20260331003500 +0000" channel="Nova Sport 1.webtv.sk">
+    <title lang="id">Ligue 1 Highlights (27)</title>
+  </programme>
+  <programme start="20260331003500 +0000" stop="20260331031500 +0000" channel="Nova Sport 1.webtv.sk">
+    <title lang="id">Colorado Avalanche - Calgary Flames</title>
+  </programme>
+  <programme start="20260331031500 +0000" stop="20260331044500 +0000" channel="Nova Sport 1.webtv.sk">
+    <title lang="id">TVB Stuttgart - TBV Lemgo Lippe</title>
+  </programme>
+  <programme start="20260331044500 +0000" stop="20260331050000 +0000" channel="Nova Sport 1.webtv.sk">
+    <title lang="id">Noční program</title>
+  </programme>
+  <programme start="20260331050000 +0000" stop="20260331050500 +0000" channel="Nova Sport 1.webtv.sk">
+    <title lang="id">Sportovní noviny</title>
+  </programme>
+  <programme start="20260331050500 +0000" stop="20260331064500 +0000" channel="Nova Sport 1.webtv.sk">
+    <title lang="id">KP Brno - DSK Brandýs</title>
+  </programme>
+  <programme start="20260331064500 +0000" stop="20260331071500 +0000" channel="Nova Sport 1.webtv.sk">
+    <title lang="id">44Cup</title>
+  </programme>
+  <programme start="20260331071500 +0000" stop="20260331090000 +0000" channel="Nova Sport 1.webtv.sk">
+    <title lang="id">Colorado Avalanche - Calgary Flames</title>
+  </programme>
+  <programme start="20260331090000 +0000" stop="20260331104500 +0000" channel="Nova Sport 1.webtv.sk">
+    <title lang="id">Vegas Golden Knights - Vancouver Canucks</title>
+  </programme>
+  <programme start="20260331104500 +0000" stop="20260331110000 +0000" channel="Nova Sport 1.webtv.sk">
+    <title lang="id">Run Aréna (1)</title>
+  </programme>
+  <programme start="20260331110000 +0000" stop="20260331110500 +0000" channel="Nova Sport 1.webtv.sk">
+    <title lang="id">Polední Sportovní noviny</title>
+  </programme>
+  <programme start="20260331110500 +0000" stop="20260331123000 +0000" channel="Nova Sport 1.webtv.sk">
+    <title lang="id">MT Melsungen - THW Kiel</title>
+  </programme>
+  <programme start="20260331123000 +0000" stop="20260331133000 +0000" channel="Nova Sport 1.webtv.sk">
+    <title lang="id">The King&apos;s Show (4)</title>
+  </programme>
+  <programme start="20260331133000 +0000" stop="20260331143000 +0000" channel="Nova Sport 1.webtv.sk">
+    <title lang="id">King&apos;s Resort Events (12)</title>
+  </programme>
+  <programme start="20260331143000 +0000" stop="20260331150000 +0000" channel="Nova Sport 1.webtv.sk">
+    <title lang="id">SpadePoker Show 2026 (11)</title>
+  </programme>
+  <programme start="20260331150000 +0000" stop="20260331164500 +0000" channel="Nova Sport 1.webtv.sk">
+    <title lang="id">Colorado Avalanche - Calgary Flames</title>
+  </programme>
+  <programme start="20260331164500 +0000" stop="20260331170000 +0000" channel="Nova Sport 1.webtv.sk">
+    <title lang="id">NHL News</title>
+  </programme>
+  <programme start="20260331170000 +0000" stop="20260331170500 +0000" channel="Nova Sport 1.webtv.sk">
+    <title lang="id">Odpolední Sportovní noviny</title>
+  </programme>
+  <programme start="20260331170500 +0000" stop="20260331171500 +0000" channel="Nova Sport 1.webtv.sk">
+    <title lang="id">ČEZ RunTour Winter Edition 2026 - Olomouc</title>
+  </programme>
+  <programme start="20260331171500 +0000" stop="20260331190000 +0000" channel="Nova Sport 1.webtv.sk">
+    <title lang="id">Newcastle Red Bulls - Exeter Chiefs</title>
+  </programme>
+  <programme start="20260331190000 +0000" stop="20260331190500 +0000" channel="Nova Sport 1.webtv.sk">
+    <title lang="id">Sportovní noviny</title>
+  </programme>
+  <programme start="20260331190500 +0000" stop="20260331210000 +0000" channel="Nova Sport 1.webtv.sk">
+    <title lang="id">Gloucester Rugby - Leicester Tigers</title>
+  </programme>
+  <programme start="20260331210000 +0000" stop="20260331210500 +0000" channel="Nova Sport 1.webtv.sk">
+    <title lang="id">Sportovní noviny</title>
+  </programme>
+  <programme start="20260331210500 +0000" stop="20260331212000 +0000" channel="Nova Sport 1.webtv.sk">
+    <title lang="id">NHL News</title>
+  </programme>
+  <programme start="20260331212000 +0000" stop="20260331230500 +0000" channel="Nova Sport 1.webtv.sk">
+    <title lang="id">Vegas Golden Knights - Vancouver Canucks</title>
+  </programme>
   <programme start="20260330220000 +0000" stop="20260331000000 +0000" channel="Nova Sport 2.webtv.sk">
     <title lang="id">Charlotte Hornets - Philadelphia 76ers</title>
   </programme>
@@ -5613,87 +5613,6 @@
   </programme>
   <programme start="20260331193000 +0000" stop="20260331220000 +0000" channel="Golf Channel.webtv.sk">
     <title lang="id">Ford Championship presented by Wild Horse Pass</title>
-  </programme>
-  <programme start="20260330220000 +0000" stop="20260330224500 +0000" channel="National Geographic Channel.webtv.sk">
-    <title lang="id">Hitlerův poslední útok V (1)</title>
-  </programme>
-  <programme start="20260330224500 +0000" stop="20260330233000 +0000" channel="National Geographic Channel.webtv.sk">
-    <title lang="id">Ztracené lodě 2. světové války I (1)</title>
-  </programme>
-  <programme start="20260330233000 +0000" stop="20260331001500 +0000" channel="National Geographic Channel.webtv.sk">
-    <title lang="id">Rekonstrukce leteckých nehod I (1)</title>
-  </programme>
-  <programme start="20260331001500 +0000" stop="20260331010000 +0000" channel="National Geographic Channel.webtv.sk">
-    <title lang="id">Ostrov mimo zákon VI (5)</title>
-  </programme>
-  <programme start="20260331010000 +0000" stop="20260331014500 +0000" channel="National Geographic Channel.webtv.sk">
-    <title lang="id">Zabezpečení letiště: Peru III (7)</title>
-  </programme>
-  <programme start="20260331014500 +0000" stop="20260331023000 +0000" channel="National Geographic Channel.webtv.sk">
-    <title lang="id">Zákulisí letiště Sydney I (6)</title>
-  </programme>
-  <programme start="20260331023000 +0000" stop="20260331031500 +0000" channel="National Geographic Channel.webtv.sk">
-    <title lang="id">Jedinečné letiště v Dubaji III (6)</title>
-  </programme>
-  <programme start="20260331031500 +0000" stop="20260331040000 +0000" channel="National Geographic Channel.webtv.sk">
-    <title lang="id">Čarodějnice: Pravda o procesech I (1)</title>
-  </programme>
-  <programme start="20260331040000 +0000" stop="20260331050000 +0000" channel="National Geographic Channel.webtv.sk">
-    <title lang="id">Evropa z výšky IV (5)</title>
-  </programme>
-  <programme start="20260331050000 +0000" stop="20260331060000 +0000" channel="National Geographic Channel.webtv.sk">
-    <title lang="id">Ostrov mimo zákon VI (6)</title>
-  </programme>
-  <programme start="20260331060000 +0000" stop="20260331070000 +0000" channel="National Geographic Channel.webtv.sk">
-    <title lang="id">Pomozte autům XIII (2)</title>
-  </programme>
-  <programme start="20260331070000 +0000" stop="20260331080000 +0000" channel="National Geographic Channel.webtv.sk">
-    <title lang="id">Jak chytit pašeráka X (2)</title>
-  </programme>
-  <programme start="20260331080000 +0000" stop="20260331090000 +0000" channel="National Geographic Channel.webtv.sk">
-    <title lang="id">Vyšetřování leteckých neštěstí XXI (2)</title>
-  </programme>
-  <programme start="20260331090000 +0000" stop="20260331100000 +0000" channel="National Geographic Channel.webtv.sk">
-    <title lang="id">Vyšetřování leteckých neštěstí XXV (2)</title>
-  </programme>
-  <programme start="20260331100000 +0000" stop="20260331103000 +0000" channel="National Geographic Channel.webtv.sk">
-    <title lang="id">Továrna na jídlo: USA I (7)</title>
-  </programme>
-  <programme start="20260331103000 +0000" stop="20260331110000 +0000" channel="National Geographic Channel.webtv.sk">
-    <title lang="id">Továrna na jídlo: USA I (9)</title>
-  </programme>
-  <programme start="20260331110000 +0000" stop="20260331120000 +0000" channel="National Geographic Channel.webtv.sk">
-    <title lang="id">Aljaška: Noví osadníci IV (9)</title>
-  </programme>
-  <programme start="20260331120000 +0000" stop="20260331130000 +0000" channel="National Geographic Channel.webtv.sk">
-    <title lang="id">Aljaška: Noví osadníci IV (10)</title>
-  </programme>
-  <programme start="20260331130000 +0000" stop="20260331140000 +0000" channel="National Geographic Channel.webtv.sk">
-    <title lang="id">Vteřiny před katastrofou III (2)</title>
-  </programme>
-  <programme start="20260331140000 +0000" stop="20260331150000 +0000" channel="National Geographic Channel.webtv.sk">
-    <title lang="id">Rekonstrukce leteckých nehod I (2)</title>
-  </programme>
-  <programme start="20260331150000 +0000" stop="20260331160000 +0000" channel="National Geographic Channel.webtv.sk">
-    <title lang="id">Vyšetřování leteckých neštěstí XX (2)</title>
-  </programme>
-  <programme start="20260331160000 +0000" stop="20260331170000 +0000" channel="National Geographic Channel.webtv.sk">
-    <title lang="id">Zákulisí letiště Sydney I (7)</title>
-  </programme>
-  <programme start="20260331170000 +0000" stop="20260331180000 +0000" channel="National Geographic Channel.webtv.sk">
-    <title lang="id">Piráti: Legendy moří I (3)</title>
-  </programme>
-  <programme start="20260331180000 +0000" stop="20260331190000 +0000" channel="National Geographic Channel.webtv.sk">
-    <title lang="id">Piráti: Legendy moří I (4)</title>
-  </programme>
-  <programme start="20260331190000 +0000" stop="20260331200000 +0000" channel="National Geographic Channel.webtv.sk">
-    <title lang="id">Druhá světová válka: Peklo v hlubinách IV (1)</title>
-  </programme>
-  <programme start="20260331200000 +0000" stop="20260331210000 +0000" channel="National Geographic Channel.webtv.sk">
-    <title lang="id">Letadla, která měnila dějiny I (1)</title>
-  </programme>
-  <programme start="20260331210000 +0000" stop="20260331220000 +0000" channel="National Geographic Channel.webtv.sk">
-    <title lang="id">Obrana Evropy I (2)</title>
   </programme>
   <programme start="20260330214400 +0000" stop="20260330222700 +0000" channel="National Geographic Wild.webtv.sk">
     <title lang="id">Veterináři z Nebrasky III (2)</title>
@@ -9126,84 +9045,6 @@
   </programme>
   <programme start="20260331210000 +0000" stop="20260331221000 +0000" channel="AXN White.webtv.sk">
     <title lang="id">Profil zločinu VII (6)</title>
-  </programme>
-  <programme start="20260330215500 +0000" stop="20260330224000 +0000" channel="AXN Black.webtv.sk">
-    <title lang="id">Walker, Texas Ranger III (8)</title>
-  </programme>
-  <programme start="20260330224000 +0000" stop="20260330232000 +0000" channel="AXN Black.webtv.sk">
-    <title lang="id">MacGyver III (18)</title>
-  </programme>
-  <programme start="20260330232000 +0000" stop="20260331000500 +0000" channel="AXN Black.webtv.sk">
-    <title lang="id">MacGyver III (19)</title>
-  </programme>
-  <programme start="20260331000500 +0000" stop="20260331005000 +0000" channel="AXN Black.webtv.sk">
-    <title lang="id">Hvězdná brána V (7)</title>
-  </programme>
-  <programme start="20260331005000 +0000" stop="20260331020000 +0000" channel="AXN Black.webtv.sk">
-    <title lang="id">Hvězdná brána V (8)</title>
-  </programme>
-  <programme start="20260331020000 +0000" stop="20260331030000 +0000" channel="AXN Black.webtv.sk">
-    <title lang="id">Teleshop</title>
-  </programme>
-  <programme start="20260331030000 +0000" stop="20260331041000 +0000" channel="AXN Black.webtv.sk">
-    <title lang="id">Teleshop</title>
-  </programme>
-  <programme start="20260331041000 +0000" stop="20260331050500 +0000" channel="AXN Black.webtv.sk">
-    <title lang="id">Xena IV (17)</title>
-  </programme>
-  <programme start="20260331050500 +0000" stop="20260331061000 +0000" channel="AXN Black.webtv.sk">
-    <title lang="id">Xena IV (18)</title>
-  </programme>
-  <programme start="20260331061000 +0000" stop="20260331070500 +0000" channel="AXN Black.webtv.sk">
-    <title lang="id">Hvězdná brána: Atlantida II (3)</title>
-  </programme>
-  <programme start="20260331070500 +0000" stop="20260331080500 +0000" channel="AXN Black.webtv.sk">
-    <title lang="id">Hvězdná brána: Atlantida II (4)</title>
-  </programme>
-  <programme start="20260331080500 +0000" stop="20260331090500 +0000" channel="AXN Black.webtv.sk">
-    <title lang="id">Xena II (21)</title>
-  </programme>
-  <programme start="20260331090500 +0000" stop="20260331100500 +0000" channel="AXN Black.webtv.sk">
-    <title lang="id">Xena II (22)</title>
-  </programme>
-  <programme start="20260331100500 +0000" stop="20260331110500 +0000" channel="AXN Black.webtv.sk">
-    <title lang="id">Hvězdná brána V (9)</title>
-  </programme>
-  <programme start="20260331110500 +0000" stop="20260331120500 +0000" channel="AXN Black.webtv.sk">
-    <title lang="id">Hvězdná brána V (10)</title>
-  </programme>
-  <programme start="20260331120500 +0000" stop="20260331130500 +0000" channel="AXN Black.webtv.sk">
-    <title lang="id">Walker, Texas Ranger III (8)</title>
-  </programme>
-  <programme start="20260331130500 +0000" stop="20260331140500 +0000" channel="AXN Black.webtv.sk">
-    <title lang="id">JAG V (15)</title>
-  </programme>
-  <programme start="20260331140500 +0000" stop="20260331150500 +0000" channel="AXN Black.webtv.sk">
-    <title lang="id">Xena III (1)</title>
-  </programme>
-  <programme start="20260331150500 +0000" stop="20260331160000 +0000" channel="AXN Black.webtv.sk">
-    <title lang="id">Xena III (2)</title>
-  </programme>
-  <programme start="20260331160000 +0000" stop="20260331170000 +0000" channel="AXN Black.webtv.sk">
-    <title lang="id">Odpadlík V (11)</title>
-  </programme>
-  <programme start="20260331170000 +0000" stop="20260331180000 +0000" channel="AXN Black.webtv.sk">
-    <title lang="id">Odpadlík V (12)</title>
-  </programme>
-  <programme start="20260331180000 +0000" stop="20260331190000 +0000" channel="AXN Black.webtv.sk">
-    <title lang="id">Walker, Texas Ranger III (9)</title>
-  </programme>
-  <programme start="20260331190000 +0000" stop="20260331195500 +0000" channel="AXN Black.webtv.sk">
-    <title lang="id">Hvězdná brána: Atlantida III (8)</title>
-  </programme>
-  <programme start="20260331195500 +0000" stop="20260331205500 +0000" channel="AXN Black.webtv.sk">
-    <title lang="id">Hvězdná brána: Atlantida III (9)</title>
-  </programme>
-  <programme start="20260331205500 +0000" stop="20260331215000 +0000" channel="AXN Black.webtv.sk">
-    <title lang="id">JAG V (15)</title>
-  </programme>
-  <programme start="20260331215000 +0000" stop="20260331224000 +0000" channel="AXN Black.webtv.sk">
-    <title lang="id">Walker, Texas Ranger III (9)</title>
   </programme>
   <programme start="20260330202500 +0000" stop="20260330223500 +0000" channel="FilmBox.webtv.sk">
     <title lang="id">Mimorádná událost</title>
@@ -19755,42 +19596,6 @@
   </programme>
   <programme start="20260331200000 +0000" stop="20260331220000 +0000" channel="Retro Music Television.webtv.sk">
     <title lang="id">Retro love</title>
-  </programme>
-  <programme start="20260330220000 +0000" stop="20260330222000 +0000" channel="Rebel.webtv.sk">
-    <title lang="id">ROCK SPECIÁL</title>
-  </programme>
-  <programme start="20260330222000 +0000" stop="20260331012000 +0000" channel="Rebel.webtv.sk">
-    <title lang="id">Forever Rock</title>
-  </programme>
-  <programme start="20260331012000 +0000" stop="20260331042000 +0000" channel="Rebel.webtv.sk">
-    <title lang="id">Forever Rock</title>
-  </programme>
-  <programme start="20260331042000 +0000" stop="20260331070000 +0000" channel="Rebel.webtv.sk">
-    <title lang="id">Forever Rock</title>
-  </programme>
-  <programme start="20260331070000 +0000" stop="20260331072000 +0000" channel="Rebel.webtv.sk">
-    <title lang="id">ROCK SPECIÁL</title>
-  </programme>
-  <programme start="20260331072000 +0000" stop="20260331102000 +0000" channel="Rebel.webtv.sk">
-    <title lang="id">Forever Rock</title>
-  </programme>
-  <programme start="20260331102000 +0000" stop="20260331132000 +0000" channel="Rebel.webtv.sk">
-    <title lang="id">Forever Rock</title>
-  </programme>
-  <programme start="20260331132000 +0000" stop="20260331162000 +0000" channel="Rebel.webtv.sk">
-    <title lang="id">Forever Rock</title>
-  </programme>
-  <programme start="20260331162000 +0000" stop="20260331180000 +0000" channel="Rebel.webtv.sk">
-    <title lang="id">Forever Rock</title>
-  </programme>
-  <programme start="20260331180000 +0000" stop="20260331183000 +0000" channel="Rebel.webtv.sk">
-    <title lang="id">METALMANIA</title>
-  </programme>
-  <programme start="20260331183000 +0000" stop="20260331213000 +0000" channel="Rebel.webtv.sk">
-    <title lang="id">Forever Rock</title>
-  </programme>
-  <programme start="20260331213000 +0000" stop="20260331220000 +0000" channel="Rebel.webtv.sk">
-    <title lang="id">Forever Rock</title>
   </programme>
   <programme start="20260330212000 +0000" stop="20260331002000 +0000" channel="Relax.webtv.sk">
     <title lang="id">LUXUSSTORE</title>
