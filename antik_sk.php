@@ -8275,6 +8275,102 @@
   <programme start="20260331214000 +0000" stop="20260331220100 +0000" channel="Lingo Toons.webtv.sk">
     <title lang="id">Easy Talk</title>
   </programme>
+  <programme start="20260330213500 +0000" stop="20260330221000 +0000" channel="TV Paprika.webtv.sk">
+    <title lang="id">Nejlepší recepty od Mary Berry I (5)</title>
+  </programme>
+  <programme start="20260330221000 +0000" stop="20260330230000 +0000" channel="TV Paprika.webtv.sk">
+    <title lang="id">Mistrovské pečení - Kanada VI (5)</title>
+  </programme>
+  <programme start="20260330230000 +0000" stop="20260330235000 +0000" channel="TV Paprika.webtv.sk">
+    <title lang="id">Roční doby Jamieho Olivera I (8)</title>
+  </programme>
+  <programme start="20260330235000 +0000" stop="20260331005000 +0000" channel="TV Paprika.webtv.sk">
+    <title lang="id">Hladoví motorkáři - Route 66 I (3)</title>
+  </programme>
+  <programme start="20260331005000 +0000" stop="20260331012000 +0000" channel="TV Paprika.webtv.sk">
+    <title lang="id">Dezerty nepřekonatelné Michaely I (1)</title>
+  </programme>
+  <programme start="20260331012000 +0000" stop="20260331015000 +0000" channel="TV Paprika.webtv.sk">
+    <title lang="id">Nejlepší recepty od Mary Berry I (1)</title>
+  </programme>
+  <programme start="20260331015000 +0000" stop="20260331025000 +0000" channel="TV Paprika.webtv.sk">
+    <title lang="id">Mistrovské pečení XII (6)</title>
+  </programme>
+  <programme start="20260331025000 +0000" stop="20260331040000 +0000" channel="TV Paprika.webtv.sk">
+    <title lang="id">Mistrovské pečení - Austrálie IV (1)</title>
+  </programme>
+  <programme start="20260331040000 +0000" stop="20260331045500 +0000" channel="TV Paprika.webtv.sk">
+    <title lang="id">Na chalupě Austrálie I (6)</title>
+  </programme>
+  <programme start="20260331045500 +0000" stop="20260331054500 +0000" channel="TV Paprika.webtv.sk">
+    <title lang="id">Britské dobrodružství Jamese Martina I (16)</title>
+  </programme>
+  <programme start="20260331054500 +0000" stop="20260331063000 +0000" channel="TV Paprika.webtv.sk">
+    <title lang="id">Mistrovské pečení - Kanada VI (6)</title>
+  </programme>
+  <programme start="20260331063000 +0000" stop="20260331074000 +0000" channel="TV Paprika.webtv.sk">
+    <title lang="id">Mistrovské pečení - Austrálie IV (2)</title>
+  </programme>
+  <programme start="20260331074000 +0000" stop="20260331080500 +0000" channel="TV Paprika.webtv.sk">
+    <title lang="id">Dezerty nepřekonatelné Michaely I (2)</title>
+  </programme>
+  <programme start="20260331080500 +0000" stop="20260331090000 +0000" channel="TV Paprika.webtv.sk">
+    <title lang="id">Prue vaří po anglicku I (6)</title>
+  </programme>
+  <programme start="20260331090000 +0000" stop="20260331095500 +0000" channel="TV Paprika.webtv.sk">
+    <title lang="id">Na chalupě Austrálie I (6)</title>
+  </programme>
+  <programme start="20260331095500 +0000" stop="20260331103000 +0000" channel="TV Paprika.webtv.sk">
+    <title lang="id">Mary Berry: Vařím pro vás I (6)</title>
+  </programme>
+  <programme start="20260331103000 +0000" stop="20260331105500 +0000" channel="TV Paprika.webtv.sk">
+    <title lang="id">Sophie Grigson ochutnává Itálii (6)</title>
+  </programme>
+  <programme start="20260331105500 +0000" stop="20260331114500 +0000" channel="TV Paprika.webtv.sk">
+    <title lang="id">Roční doby Jamieho Olivera I (8)</title>
+  </programme>
+  <programme start="20260331114500 +0000" stop="20260331125000 +0000" channel="TV Paprika.webtv.sk">
+    <title lang="id">Hladoví motorkáři - Route 66 I (3)</title>
+  </programme>
+  <programme start="20260331125000 +0000" stop="20260331134000 +0000" channel="TV Paprika.webtv.sk">
+    <title lang="id">Britské dobrodružství Jamese Martina I (16)</title>
+  </programme>
+  <programme start="20260331134000 +0000" stop="20260331141500 +0000" channel="TV Paprika.webtv.sk">
+    <title lang="id">Nejlepší recepty od Mary Berry I (6)</title>
+  </programme>
+  <programme start="20260331141500 +0000" stop="20260331151000 +0000" channel="TV Paprika.webtv.sk">
+    <title lang="id">Na chalupě Austrálie I (7)</title>
+  </programme>
+  <programme start="20260331151000 +0000" stop="20260331160000 +0000" channel="TV Paprika.webtv.sk">
+    <title lang="id">Prue vaří po anglicku I (7)</title>
+  </programme>
+  <programme start="20260331160000 +0000" stop="20260331163500 +0000" channel="TV Paprika.webtv.sk">
+    <title lang="id">S Mary Berry je to hračka I (1)</title>
+  </programme>
+  <programme start="20260331163500 +0000" stop="20260331170000 +0000" channel="TV Paprika.webtv.sk">
+    <title lang="id">Sophie Grigson ochutnává Itálii (7)</title>
+  </programme>
+  <programme start="20260331170000 +0000" stop="20260331175000 +0000" channel="TV Paprika.webtv.sk">
+    <title lang="id">Roční doby Jamieho Olivera I (9)</title>
+  </programme>
+  <programme start="20260331175000 +0000" stop="20260331185500 +0000" channel="TV Paprika.webtv.sk">
+    <title lang="id">Hladoví motorkáři - Route 66 I (4)</title>
+  </programme>
+  <programme start="20260331185500 +0000" stop="20260331194500 +0000" channel="TV Paprika.webtv.sk">
+    <title lang="id">Britské dobrodružství Jamese Martina I (17)</title>
+  </programme>
+  <programme start="20260331194500 +0000" stop="20260331203500 +0000" channel="TV Paprika.webtv.sk">
+    <title lang="id">Prue vaří po anglicku I (7)</title>
+  </programme>
+  <programme start="20260331203500 +0000" stop="20260331211000 +0000" channel="TV Paprika.webtv.sk">
+    <title lang="id">S Mary Berry je to hračka I (1)</title>
+  </programme>
+  <programme start="20260331211000 +0000" stop="20260331213500 +0000" channel="TV Paprika.webtv.sk">
+    <title lang="id">Sophie Grigson ochutnává Itálii (7)</title>
+  </programme>
+  <programme start="20260331213500 +0000" stop="20260331221000 +0000" channel="TV Paprika.webtv.sk">
+    <title lang="id">Nejlepší recepty od Mary Berry I (6)</title>
+  </programme>
   <programme start="20260330215000 +0000" stop="20260330221500 +0000" channel="Spektrum.webtv.sk">
     <title lang="id">FBI - Agenti řeší případy VI (8)</title>
   </programme>
@@ -8652,51 +8748,6 @@
   </programme>
   <programme start="20260331213500 +0000" stop="20260331231500 +0000" channel="HBO.webtv.sk">
     <title lang="id">Clerks 3: Muži za pultem</title>
-  </programme>
-  <programme start="20260330211000 +0000" stop="20260330225000 +0000" channel="HBO 2.webtv.sk">
-    <title lang="id">Past</title>
-  </programme>
-  <programme start="20260330225000 +0000" stop="20260331004000 +0000" channel="HBO 2.webtv.sk">
-    <title lang="id">Pět nocí u Freddyho</title>
-  </programme>
-  <programme start="20260331004000 +0000" stop="20260331021000 +0000" channel="HBO 2.webtv.sk">
-    <title lang="id">Král Charles</title>
-  </programme>
-  <programme start="20260331021000 +0000" stop="20260331040000 +0000" channel="HBO 2.webtv.sk">
-    <title lang="id">Zdrávas Maria</title>
-  </programme>
-  <programme start="20260331040000 +0000" stop="20260331054000 +0000" channel="HBO 2.webtv.sk">
-    <title lang="id">Asteroid City</title>
-  </programme>
-  <programme start="20260331054000 +0000" stop="20260331074500 +0000" channel="HBO 2.webtv.sk">
-    <title lang="id">Úsvit planety opic</title>
-  </programme>
-  <programme start="20260331074500 +0000" stop="20260331094500 +0000" channel="HBO 2.webtv.sk">
-    <title lang="id">Milion minut</title>
-  </programme>
-  <programme start="20260331094500 +0000" stop="20260331112000 +0000" channel="HBO 2.webtv.sk">
-    <title lang="id">DJ Ahmet</title>
-  </programme>
-  <programme start="20260331112000 +0000" stop="20260331114500 +0000" channel="HBO 2.webtv.sk">
-    <title lang="id">Silicon Valley IV (8)</title>
-  </programme>
-  <programme start="20260331114500 +0000" stop="20260331135000 +0000" channel="HBO 2.webtv.sk">
-    <title lang="id">Zelená kniha</title>
-  </programme>
-  <programme start="20260331135000 +0000" stop="20260331155000 +0000" channel="HBO 2.webtv.sk">
-    <title lang="id">Velká ryba</title>
-  </programme>
-  <programme start="20260331155000 +0000" stop="20260331173000 +0000" channel="HBO 2.webtv.sk">
-    <title lang="id">Alej velikánů</title>
-  </programme>
-  <programme start="20260331173000 +0000" stop="20260331193000 +0000" channel="HBO 2.webtv.sk">
-    <title lang="id">Lovec Kraven</title>
-  </programme>
-  <programme start="20260331193000 +0000" stop="20260331212000 +0000" channel="HBO 2.webtv.sk">
-    <title lang="id">Tajemství loňského léta</title>
-  </programme>
-  <programme start="20260331212000 +0000" stop="20260331220500 +0000" channel="HBO 2.webtv.sk">
-    <title lang="id">Noční let II (5)</title>
   </programme>
   <programme start="20260330210500 +0000" stop="20260330224000 +0000" channel="HBO 3.webtv.sk">
     <title lang="id">1992</title>
@@ -9522,6 +9573,99 @@
   </programme>
   <programme start="20260331204000 +0000" stop="20260331220000 +0000" channel="Filmbox Arthouse.webtv.sk">
     <title lang="id">Doll Face</title>
+  </programme>
+  <programme start="20260330220000 +0000" stop="20260330223000 +0000" channel="FashionBox.webtv.sk">
+    <title lang="id">World Of Celebrities I (39)</title>
+  </programme>
+  <programme start="20260330223000 +0000" stop="20260330230000 +0000" channel="FashionBox.webtv.sk">
+    <title lang="id">World Of Celebrities I (40)</title>
+  </programme>
+  <programme start="20260330230000 +0000" stop="20260330233000 +0000" channel="FashionBox.webtv.sk">
+    <title lang="id">Swim Week 2023 (7)</title>
+  </programme>
+  <programme start="20260330233000 +0000" stop="20260331000000 +0000" channel="FashionBox.webtv.sk">
+    <title lang="id">Swim Week 2023 (8)</title>
+  </programme>
+  <programme start="20260331000000 +0000" stop="20260331003000 +0000" channel="FashionBox.webtv.sk">
+    <title lang="id">World Of Luxury I (49)</title>
+  </programme>
+  <programme start="20260331003000 +0000" stop="20260331010000 +0000" channel="FashionBox.webtv.sk">
+    <title lang="id">World Of Luxury I (50)</title>
+  </programme>
+  <programme start="20260331010000 +0000" stop="20260331013000 +0000" channel="FashionBox.webtv.sk">
+    <title lang="id">Ready To Wear - 2018 Spring Summer</title>
+  </programme>
+  <programme start="20260331013000 +0000" stop="20260331020000 +0000" channel="FashionBox.webtv.sk">
+    <title lang="id">Ready To Wear - 2018 Spring Summer</title>
+  </programme>
+  <programme start="20260331020000 +0000" stop="20260331030000 +0000" channel="FashionBox.webtv.sk">
+    <title lang="id">Miami Fall 2021 XXII (2)</title>
+  </programme>
+  <programme start="20260331030000 +0000" stop="20260331040000 +0000" channel="FashionBox.webtv.sk">
+    <title lang="id">Homme I (1)</title>
+  </programme>
+  <programme start="20260331040000 +0000" stop="20260331050000 +0000" channel="FashionBox.webtv.sk">
+    <title lang="id">Femme III (1)</title>
+  </programme>
+  <programme start="20260331050000 +0000" stop="20260331060000 +0000" channel="FashionBox.webtv.sk">
+    <title lang="id">Cities I (1)</title>
+  </programme>
+  <programme start="20260331060000 +0000" stop="20260331070000 +0000" channel="FashionBox.webtv.sk">
+    <title lang="id">Look I (1)</title>
+  </programme>
+  <programme start="20260331070000 +0000" stop="20260331080000 +0000" channel="FashionBox.webtv.sk">
+    <title lang="id">Homme I (1)</title>
+  </programme>
+  <programme start="20260331080000 +0000" stop="20260331090000 +0000" channel="FashionBox.webtv.sk">
+    <title lang="id">Femme III (1)</title>
+  </programme>
+  <programme start="20260331090000 +0000" stop="20260331100000 +0000" channel="FashionBox.webtv.sk">
+    <title lang="id">Cities I (1)</title>
+  </programme>
+  <programme start="20260331100000 +0000" stop="20260331110000 +0000" channel="FashionBox.webtv.sk">
+    <title lang="id">Look I (1)</title>
+  </programme>
+  <programme start="20260331110000 +0000" stop="20260331120000 +0000" channel="FashionBox.webtv.sk">
+    <title lang="id">Cities I (1)</title>
+  </programme>
+  <programme start="20260331120000 +0000" stop="20260331130000 +0000" channel="FashionBox.webtv.sk">
+    <title lang="id">Look I (1)</title>
+  </programme>
+  <programme start="20260331130000 +0000" stop="20260331140000 +0000" channel="FashionBox.webtv.sk">
+    <title lang="id">Homme I (1)</title>
+  </programme>
+  <programme start="20260331140000 +0000" stop="20260331150000 +0000" channel="FashionBox.webtv.sk">
+    <title lang="id">Femme III (1)</title>
+  </programme>
+  <programme start="20260331150000 +0000" stop="20260331160000 +0000" channel="FashionBox.webtv.sk">
+    <title lang="id">Cities I (1)</title>
+  </programme>
+  <programme start="20260331160000 +0000" stop="20260331170000 +0000" channel="FashionBox.webtv.sk">
+    <title lang="id">Look I (1)</title>
+  </programme>
+  <programme start="20260331170000 +0000" stop="20260331180000 +0000" channel="FashionBox.webtv.sk">
+    <title lang="id">Cities I (1)</title>
+  </programme>
+  <programme start="20260331180000 +0000" stop="20260331190000 +0000" channel="FashionBox.webtv.sk">
+    <title lang="id">Couture Fall Winter 2018</title>
+  </programme>
+  <programme start="20260331190000 +0000" stop="20260331192000 +0000" channel="FashionBox.webtv.sk">
+    <title lang="id">Here Comes The Bride II (7)</title>
+  </programme>
+  <programme start="20260331192000 +0000" stop="20260331200000 +0000" channel="FashionBox.webtv.sk">
+    <title lang="id">Here Comes The Bride II (8)</title>
+  </programme>
+  <programme start="20260331200000 +0000" stop="20260331203000 +0000" channel="FashionBox.webtv.sk">
+    <title lang="id">The Hollywood Glow (2)</title>
+  </programme>
+  <programme start="20260331203000 +0000" stop="20260331210000 +0000" channel="FashionBox.webtv.sk">
+    <title lang="id">World Of Fashion II (37)</title>
+  </programme>
+  <programme start="20260331210000 +0000" stop="20260331213000 +0000" channel="FashionBox.webtv.sk">
+    <title lang="id">New York Fashionweek - Spring Summer 2019 (29)</title>
+  </programme>
+  <programme start="20260331213000 +0000" stop="20260331220000 +0000" channel="FashionBox.webtv.sk">
+    <title lang="id">New York Fashionweek - Spring Summer 2019 (30)</title>
   </programme>
   <programme start="20260330220000 +0000" stop="20260330223000 +0000" channel="Fast and Funbox.webtv.sk">
     <title lang="id">Racemax Motorsports: Racemax Motorsports #27 I (27)</title>
@@ -18708,315 +18852,6 @@
   </programme>
   <programme start="20260331215100 +0000" stop="20260331220000 +0000" channel="France 24 English.webtv.sk">
     <title lang="id">FOCUS SEMAINE</title>
-  </programme>
-  <programme start="20260330220000 +0000" stop="20260330221500 +0000" channel="France 24.webtv.sk">
-    <title lang="id">L&apos;ACTU 360° - LE JOURNAL</title>
-  </programme>
-  <programme start="20260330221500 +0000" stop="20260330230000 +0000" channel="France 24.webtv.sk">
-    <title lang="id">LE DEBAT</title>
-  </programme>
-  <programme start="20260330230000 +0000" stop="20260330231500 +0000" channel="France 24.webtv.sk">
-    <title lang="id">L&apos;EDITION NUIT - LE JOURNAL</title>
-  </programme>
-  <programme start="20260330231500 +0000" stop="20260330233000 +0000" channel="France 24.webtv.sk">
-    <title lang="id">LE JOURNAL DE L&apos;AFRIQUE</title>
-  </programme>
-  <programme start="20260330233000 +0000" stop="20260330234500 +0000" channel="France 24.webtv.sk">
-    <title lang="id">L&apos;EDITION NUIT - BULLETIN</title>
-  </programme>
-  <programme start="20260330234500 +0000" stop="20260331000000 +0000" channel="France 24.webtv.sk">
-    <title lang="id">A L&apos;AFFICHE</title>
-  </programme>
-  <programme start="20260331000000 +0000" stop="20260331001500 +0000" channel="France 24.webtv.sk">
-    <title lang="id">L&apos;EDITION NUIT - LE JOURNAL</title>
-  </programme>
-  <programme start="20260331001500 +0000" stop="20260331004500 +0000" channel="France 24.webtv.sk">
-    <title lang="id">LE MONDE DANS TOUS SES ETATS</title>
-  </programme>
-  <programme start="20260331004500 +0000" stop="20260331005100 +0000" channel="France 24.webtv.sk">
-    <title lang="id">PLAN B</title>
-  </programme>
-  <programme start="20260331005100 +0000" stop="20260331010000 +0000" channel="France 24.webtv.sk">
-    <title lang="id">FOCUS</title>
-  </programme>
-  <programme start="20260331010000 +0000" stop="20260331011100 +0000" channel="France 24.webtv.sk">
-    <title lang="id">L&apos;EDITION NUIT - LE JOURNAL</title>
-  </programme>
-  <programme start="20260331011100 +0000" stop="20260331015500 +0000" channel="France 24.webtv.sk">
-    <title lang="id">LE DEBAT</title>
-  </programme>
-  <programme start="20260331015500 +0000" stop="20260331020000 +0000" channel="France 24.webtv.sk">
-    <title lang="id">L&apos;INSTANT MOBILE</title>
-  </programme>
-  <programme start="20260331020000 +0000" stop="20260331021500 +0000" channel="France 24.webtv.sk">
-    <title lang="id">L&apos;EDITION NUIT - LE JOURNAL</title>
-  </programme>
-  <programme start="20260331021500 +0000" stop="20260331022100 +0000" channel="France 24.webtv.sk">
-    <title lang="id">LES OBSERVATEURS</title>
-  </programme>
-  <programme start="20260331022100 +0000" stop="20260331023000 +0000" channel="France 24.webtv.sk">
-    <title lang="id">FOCUS</title>
-  </programme>
-  <programme start="20260331023000 +0000" stop="20260331024500 +0000" channel="France 24.webtv.sk">
-    <title lang="id">L&apos;EDITION NUIT - BULLETIN</title>
-  </programme>
-  <programme start="20260331024500 +0000" stop="20260331030000 +0000" channel="France 24.webtv.sk">
-    <title lang="id">OUTRE-MER</title>
-  </programme>
-  <programme start="20260331030000 +0000" stop="20260331031500 +0000" channel="France 24.webtv.sk">
-    <title lang="id">L&apos;EDITION NUIT - LE JOURNAL</title>
-  </programme>
-  <programme start="20260331031500 +0000" stop="20260331033000 +0000" channel="France 24.webtv.sk">
-    <title lang="id">EN TETE A TETE</title>
-  </programme>
-  <programme start="20260331033000 +0000" stop="20260331034500 +0000" channel="France 24.webtv.sk">
-    <title lang="id">L&apos;EDITION NUIT - BULLETIN</title>
-  </programme>
-  <programme start="20260331034500 +0000" stop="20260331040000 +0000" channel="France 24.webtv.sk">
-    <title lang="id">LE JOURNAL DE L&apos;AFRIQUE</title>
-  </programme>
-  <programme start="20260331040000 +0000" stop="20260331042200 +0000" channel="France 24.webtv.sk">
-    <title lang="id">A LA UNE - LE JOURNAL</title>
-  </programme>
-  <programme start="20260331042200 +0000" stop="20260331043000 +0000" channel="France 24.webtv.sk">
-    <title lang="id">FOCUS</title>
-  </programme>
-  <programme start="20260331043000 +0000" stop="20260331045100 +0000" channel="France 24.webtv.sk">
-    <title lang="id">A LA UNE - BULLETIN</title>
-  </programme>
-  <programme start="20260331045100 +0000" stop="20260331050000 +0000" channel="France 24.webtv.sk">
-    <title lang="id">SPORTS JOUR</title>
-  </programme>
-  <programme start="20260331050000 +0000" stop="20260331051600 +0000" channel="France 24.webtv.sk">
-    <title lang="id">A LA UNE - LE JOURNAL</title>
-  </programme>
-  <programme start="20260331051600 +0000" stop="20260331052100 +0000" channel="France 24.webtv.sk">
-    <title lang="id">REVUE DE PRESSE</title>
-  </programme>
-  <programme start="20260331052100 +0000" stop="20260331053000 +0000" channel="France 24.webtv.sk">
-    <title lang="id">REPORTAGE F24</title>
-  </programme>
-  <programme start="20260331053000 +0000" stop="20260331054600 +0000" channel="France 24.webtv.sk">
-    <title lang="id">A LA UNE - LE JOURNAL</title>
-  </programme>
-  <programme start="20260331054600 +0000" stop="20260331055100 +0000" channel="France 24.webtv.sk">
-    <title lang="id">L&apos;INFO ECO</title>
-  </programme>
-  <programme start="20260331055100 +0000" stop="20260331060000 +0000" channel="France 24.webtv.sk">
-    <title lang="id">FOCUS</title>
-  </programme>
-  <programme start="20260331060000 +0000" stop="20260331061500 +0000" channel="France 24.webtv.sk">
-    <title lang="id">A LA UNE - LE JOURNAL</title>
-  </programme>
-  <programme start="20260331061500 +0000" stop="20260331063000 +0000" channel="France 24.webtv.sk">
-    <title lang="id">L&apos;INVITE DE A LA UNE</title>
-  </programme>
-  <programme start="20260331063000 +0000" stop="20260331064600 +0000" channel="France 24.webtv.sk">
-    <title lang="id">A LA UNE - LE JOURNAL</title>
-  </programme>
-  <programme start="20260331064600 +0000" stop="20260331070000 +0000" channel="France 24.webtv.sk">
-    <title lang="id">REVUE DE PRESSE</title>
-  </programme>
-  <programme start="20260331070000 +0000" stop="20260331072200 +0000" channel="France 24.webtv.sk">
-    <title lang="id">PARLONS-EN - LE JOURNAL</title>
-  </programme>
-  <programme start="20260331072200 +0000" stop="20260331073000 +0000" channel="France 24.webtv.sk">
-    <title lang="id">L&apos;INFO ECO</title>
-  </programme>
-  <programme start="20260331073000 +0000" stop="20260331074200 +0000" channel="France 24.webtv.sk">
-    <title lang="id">PARLONS-EN - LE JOURNAL</title>
-  </programme>
-  <programme start="20260331074200 +0000" stop="20260331074700 +0000" channel="France 24.webtv.sk">
-    <title lang="id">REVUE DE PRESSE</title>
-  </programme>
-  <programme start="20260331074700 +0000" stop="20260331075200 +0000" channel="France 24.webtv.sk">
-    <title lang="id">FOCUS</title>
-  </programme>
-  <programme start="20260331075200 +0000" stop="20260331080000 +0000" channel="France 24.webtv.sk">
-    <title lang="id">SPORTS JOUR</title>
-  </programme>
-  <programme start="20260331080000 +0000" stop="20260331084500 +0000" channel="France 24.webtv.sk">
-    <title lang="id">LE JOURNAL - LE DEBAT DE PARLONS-EN</title>
-  </programme>
-  <programme start="20260331084500 +0000" stop="20260331085000 +0000" channel="France 24.webtv.sk">
-    <title lang="id">FOCUS</title>
-  </programme>
-  <programme start="20260331085000 +0000" stop="20260331090000 +0000" channel="France 24.webtv.sk">
-    <title lang="id">SPORTS JOUR</title>
-  </programme>
-  <programme start="20260331090000 +0000" stop="20260331091500 +0000" channel="France 24.webtv.sk">
-    <title lang="id">PARLONS-EN - LE JOURNAL</title>
-  </programme>
-  <programme start="20260331091500 +0000" stop="20260331093000 +0000" channel="France 24.webtv.sk">
-    <title lang="id">ACTUELLES</title>
-  </programme>
-  <programme start="20260331093000 +0000" stop="20260331095700 +0000" channel="France 24.webtv.sk">
-    <title lang="id">AUX AVANT-POSTES</title>
-  </programme>
-  <programme start="20260331095700 +0000" stop="20260331100000 +0000" channel="France 24.webtv.sk">
-    <title lang="id">L&apos;INSTANT MOBILE</title>
-  </programme>
-  <programme start="20260331100000 +0000" stop="20260331101500 +0000" channel="France 24.webtv.sk">
-    <title lang="id">PARIS DIRECT - LE JOURNAL</title>
-  </programme>
-  <programme start="20260331101500 +0000" stop="20260331103000 +0000" channel="France 24.webtv.sk">
-    <title lang="id">A L&apos;AFFICHE</title>
-  </programme>
-  <programme start="20260331103000 +0000" stop="20260331104500 +0000" channel="France 24.webtv.sk">
-    <title lang="id">PARIS DIRECT - BULLETIN</title>
-  </programme>
-  <programme start="20260331104500 +0000" stop="20260331105000 +0000" channel="France 24.webtv.sk">
-    <title lang="id">FOCUS</title>
-  </programme>
-  <programme start="20260331105000 +0000" stop="20260331110000 +0000" channel="France 24.webtv.sk">
-    <title lang="id">SPORTS JOUR</title>
-  </programme>
-  <programme start="20260331110000 +0000" stop="20260331113000 +0000" channel="France 24.webtv.sk">
-    <title lang="id">LE JOURNAL - L&apos;INFO DU JOUR</title>
-  </programme>
-  <programme start="20260331113000 +0000" stop="20260331115400 +0000" channel="France 24.webtv.sk">
-    <title lang="id">PARIS DIRECT - LE JOURNAL</title>
-  </programme>
-  <programme start="20260331115400 +0000" stop="20260331120000 +0000" channel="France 24.webtv.sk">
-    <title lang="id">ENTR</title>
-  </programme>
-  <programme start="20260331120000 +0000" stop="20260331123000 +0000" channel="France 24.webtv.sk">
-    <title lang="id">LE JOURNAL - LE CLUB PARIS DIRECT</title>
-  </programme>
-  <programme start="20260331123000 +0000" stop="20260331124500 +0000" channel="France 24.webtv.sk">
-    <title lang="id">LE JOURNAL - DERRIERE L&apos;IMAGE</title>
-  </programme>
-  <programme start="20260331124500 +0000" stop="20260331125000 +0000" channel="France 24.webtv.sk">
-    <title lang="id">FOCUS</title>
-  </programme>
-  <programme start="20260331125000 +0000" stop="20260331130000 +0000" channel="France 24.webtv.sk">
-    <title lang="id">SPORTS JOUR</title>
-  </programme>
-  <programme start="20260331130000 +0000" stop="20260331133000 +0000" channel="France 24.webtv.sk">
-    <title lang="id">AUTOUR DU MONDE - LE JOURNAL</title>
-  </programme>
-  <programme start="20260331133000 +0000" stop="20260331134000 +0000" channel="France 24.webtv.sk">
-    <title lang="id">LE JOURNAL- LE RENDEZ-VOUS DE L&apos;AFRIQUE</title>
-  </programme>
-  <programme start="20260331134000 +0000" stop="20260331135500 +0000" channel="France 24.webtv.sk">
-    <title lang="id">LE PARIS DES ARTS</title>
-  </programme>
-  <programme start="20260331135500 +0000" stop="20260331140000 +0000" channel="France 24.webtv.sk">
-    <title lang="id">CULTURE PRIME</title>
-  </programme>
-  <programme start="20260331140000 +0000" stop="20260331143000 +0000" channel="France 24.webtv.sk">
-    <title lang="id">AUTOUR DU MONDE - LE JOURNAL</title>
-  </programme>
-  <programme start="20260331143000 +0000" stop="20260331144000 +0000" channel="France 24.webtv.sk">
-    <title lang="id">AUTOUR DU MONDE - LE JOURNAL</title>
-  </programme>
-  <programme start="20260331144000 +0000" stop="20260331144600 +0000" channel="France 24.webtv.sk">
-    <title lang="id">ELEMENT TERRE LA QUOTIDIENNE</title>
-  </programme>
-  <programme start="20260331144600 +0000" stop="20260331150000 +0000" channel="France 24.webtv.sk">
-    <title lang="id">A L&apos;AFFICHE</title>
-  </programme>
-  <programme start="20260331150000 +0000" stop="20260331151000 +0000" channel="France 24.webtv.sk">
-    <title lang="id">AUTOUR DU MONDE - LE JOURNAL</title>
-  </programme>
-  <programme start="20260331151000 +0000" stop="20260331152200 +0000" channel="France 24.webtv.sk">
-    <title lang="id">REPORTERS</title>
-  </programme>
-  <programme start="20260331152200 +0000" stop="20260331153000 +0000" channel="France 24.webtv.sk">
-    <title lang="id">L&apos;INSTANT MOBILE</title>
-  </programme>
-  <programme start="20260331153000 +0000" stop="20260331154000 +0000" channel="France 24.webtv.sk">
-    <title lang="id">AUTOUR DU MONDE - BULLETIN</title>
-  </programme>
-  <programme start="20260331154000 +0000" stop="20260331160000 +0000" channel="France 24.webtv.sk">
-    <title lang="id">ICI L&apos;EUROPE 1 - ON VOUS ECOUTE</title>
-  </programme>
-  <programme start="20260331160000 +0000" stop="20260331161000 +0000" channel="France 24.webtv.sk">
-    <title lang="id">AU COEUR DE L&apos;INFO - LE JOURNAL</title>
-  </programme>
-  <programme start="20260331161000 +0000" stop="20260331163000 +0000" channel="France 24.webtv.sk">
-    <title lang="id">MARDI POLITIQUE</title>
-  </programme>
-  <programme start="20260331163000 +0000" stop="20260331164600 +0000" channel="France 24.webtv.sk">
-    <title lang="id">AU COEUR DE L&apos;INFO - LE JOURNAL</title>
-  </programme>
-  <programme start="20260331164600 +0000" stop="20260331165100 +0000" channel="France 24.webtv.sk">
-    <title lang="id">ECONOMIE SOIR</title>
-  </programme>
-  <programme start="20260331165100 +0000" stop="20260331170000 +0000" channel="France 24.webtv.sk">
-    <title lang="id">SPORTS SOIR</title>
-  </programme>
-  <programme start="20260331170000 +0000" stop="20260331171500 +0000" channel="France 24.webtv.sk">
-    <title lang="id">AU COEUR DE L&apos;INFO - LE JOURNAL</title>
-  </programme>
-  <programme start="20260331171500 +0000" stop="20260331180000 +0000" channel="France 24.webtv.sk">
-    <title lang="id">LE DEBAT</title>
-  </programme>
-  <programme start="20260331180000 +0000" stop="20260331181600 +0000" channel="France 24.webtv.sk">
-    <title lang="id">L&apos;ESSENTIEL - LE JOURNAL</title>
-  </programme>
-  <programme start="20260331181600 +0000" stop="20260331182100 +0000" channel="France 24.webtv.sk">
-    <title lang="id">ECONOMIE SOIR</title>
-  </programme>
-  <programme start="20260331182100 +0000" stop="20260331183000 +0000" channel="France 24.webtv.sk">
-    <title lang="id">SPORTS SOIR</title>
-  </programme>
-  <programme start="20260331183000 +0000" stop="20260331190000 +0000" channel="France 24.webtv.sk">
-    <title lang="id">LE JOURNAL - ON VA PLUS LOIN</title>
-  </programme>
-  <programme start="20260331190000 +0000" stop="20260331191500 +0000" channel="France 24.webtv.sk">
-    <title lang="id">L&apos;ESSENTIEL - LE JOURNAL</title>
-  </programme>
-  <programme start="20260331191500 +0000" stop="20260331192000 +0000" channel="France 24.webtv.sk">
-    <title lang="id">INFO-INTOX</title>
-  </programme>
-  <programme start="20260331192000 +0000" stop="20260331193000 +0000" channel="France 24.webtv.sk">
-    <title lang="id">ELEMENT TERRE LA QUOTIDIENNE</title>
-  </programme>
-  <programme start="20260331193000 +0000" stop="20260331193600 +0000" channel="France 24.webtv.sk">
-    <title lang="id">L&apos;ESSENTIEL - LE JOURNAL</title>
-  </programme>
-  <programme start="20260331193600 +0000" stop="20260331194500 +0000" channel="France 24.webtv.sk">
-    <title lang="id">LES CLES DE L&apos;INFO</title>
-  </programme>
-  <programme start="20260331194500 +0000" stop="20260331200000 +0000" channel="France 24.webtv.sk">
-    <title lang="id">LE JOURNAL DE L&apos;AFRIQUE</title>
-  </programme>
-  <programme start="20260331200000 +0000" stop="20260331201500 +0000" channel="France 24.webtv.sk">
-    <title lang="id">L&apos;ACTU 360° - LE JOURNAL</title>
-  </programme>
-  <programme start="20260331201500 +0000" stop="20260331202000 +0000" channel="France 24.webtv.sk">
-    <title lang="id">ECONOMIE SOIR</title>
-  </programme>
-  <programme start="20260331202000 +0000" stop="20260331203000 +0000" channel="France 24.webtv.sk">
-    <title lang="id">INFO-INTOX</title>
-  </programme>
-  <programme start="20260331203000 +0000" stop="20260331204500 +0000" channel="France 24.webtv.sk">
-    <title lang="id">LE ZOOM</title>
-  </programme>
-  <programme start="20260331204500 +0000" stop="20260331210000 +0000" channel="France 24.webtv.sk">
-    <title lang="id">LE JOURNAL DE L&apos;AFRIQUE</title>
-  </programme>
-  <programme start="20260331210000 +0000" stop="20260331211500 +0000" channel="France 24.webtv.sk">
-    <title lang="id">L&apos;ACTU 360° - LE JOURNAL</title>
-  </programme>
-  <programme start="20260331211500 +0000" stop="20260331213000 +0000" channel="France 24.webtv.sk">
-    <title lang="id">ECONOMIE + INFO INTOX</title>
-  </programme>
-  <programme start="20260331213000 +0000" stop="20260331213900 +0000" channel="France 24.webtv.sk">
-    <title lang="id">L&apos;ACTU 360° - LE JOURNAL</title>
-  </programme>
-  <programme start="20260331213900 +0000" stop="20260331214300 +0000" channel="France 24.webtv.sk">
-    <title lang="id">LES CLES DE L&apos;INFO</title>
-  </programme>
-  <programme start="20260331214300 +0000" stop="20260331214900 +0000" channel="France 24.webtv.sk">
-    <title lang="id">SPORTS SOIR</title>
-  </programme>
-  <programme start="20260331214900 +0000" stop="20260331215100 +0000" channel="France 24.webtv.sk">
-    <title lang="id">LES UNES DE LA PRESSE</title>
-  </programme>
-  <programme start="20260331215100 +0000" stop="20260331220000 +0000" channel="France 24.webtv.sk">
-    <title lang="id">FOCUS</title>
   </programme>
   <programme start="20260330215600 +0000" stop="20260330231500 +0000" channel="Rai Uno.webtv.sk">
     <title lang="id">XXI Secolo</title>

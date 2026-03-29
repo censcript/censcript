@@ -2529,6 +2529,75 @@ Warning: Undefined array key "et" in /usr/home/ManusiaBiasa/domains/manusiabiasa
 <programme start="20260329210000 +0000" stop="20260329230000 +0000" channel="Sky Sport Bundesliga HD.skyde">
     <title>2. BL: Hertha BSC - 1. FC Nürnberg, 24. Spieltag</title>
 </programme>
+<programme start="20260328230000 +0000" stop="20260329003000 +0000" channel="Sky Sport F1 HD.skyde">
+    <title>F1: Qualifying - GP Japan</title>
+</programme>
+<programme start="20260329003000 +0000" stop="20260329010000 +0000" channel="Sky Sport F1 HD.skyde">
+    <title>F1: Iconic Onboards: Oscar Piastri</title>
+</programme>
+<programme start="20260329010000 +0000" stop="20260329015000 +0000" channel="Sky Sport F1 HD.skyde">
+    <title>F1: Legends of F1 - Sir Frank Williams</title>
+</programme>
+<programme start="20260329015000 +0000" stop="20260329020000 +0000" channel="Sky Sport F1 HD.skyde">
+    <title>F1: Greatest Races: G. Berger / Deutschland 1994</title>
+</programme>
+<programme start="20260329020000 +0000" stop="20260329040000 +0000" channel="Sky Sport F1 HD.skyde">
+    <title>F1: Rennen - GP China</title>
+</programme>
+<programme start="20260329040000 +0000" stop="20260329045500 +0000" channel="Sky Sport F1 HD.skyde">
+    <title>Live F1: Vorberichte - GP Japan</title>
+</programme>
+<programme start="20260329045500 +0000" stop="20260329064500 +0000" channel="Sky Sport F1 HD.skyde">
+    <title>Live F1: Rennen - GP Japan</title>
+</programme>
+<programme start="20260329064500 +0000" stop="20260329073000 +0000" channel="Sky Sport F1 HD.skyde">
+    <title>Live F1: Analysen &amp; Interviews - GP Japan</title>
+</programme>
+<programme start="20260329073000 +0000" stop="20260329080000 +0000" channel="Sky Sport F1 HD.skyde">
+    <title>Live F1: Pressekonferenz Rennen - GP Japan</title>
+</programme>
+<programme start="20260329080000 +0000" stop="20260329083000 +0000" channel="Sky Sport F1 HD.skyde">
+    <title>Live F1: Ted&#039;s Notebook: GP Japan</title>
+</programme>
+<programme start="20260329083000 +0000" stop="20260329090000 +0000" channel="Sky Sport F1 HD.skyde">
+    <title>F1: Iconic Onboards: Daniel Ricciardo</title>
+</programme>
+<programme start="20260329090000 +0000" stop="20260329110000 +0000" channel="Sky Sport F1 HD.skyde">
+    <title>F1: Rennen - GP Japan</title>
+</programme>
+<programme start="20260329110000 +0000" stop="20260329113000 +0000" channel="Sky Sport F1 HD.skyde">
+    <title>F1: Ted&#039;s Notebook: GP Japan</title>
+</programme>
+<programme start="20260329113000 +0000" stop="20260329120000 +0000" channel="Sky Sport F1 HD.skyde">
+    <title>F1: Rennen Kompakt - GP Japan</title>
+</programme>
+<programme start="20260329120000 +0000" stop="20260329125500 +0000" channel="Sky Sport F1 HD.skyde">
+    <title>F1: Vorberichte - GP Japan</title>
+</programme>
+<programme start="20260329125500 +0000" stop="20260329144500 +0000" channel="Sky Sport F1 HD.skyde">
+    <title>F1: Rennen - GP Japan</title>
+</programme>
+<programme start="20260329144500 +0000" stop="20260329153000 +0000" channel="Sky Sport F1 HD.skyde">
+    <title>F1: Analysen &amp; Interviews - GP Japan</title>
+</programme>
+<programme start="20260329153000 +0000" stop="20260329160000 +0000" channel="Sky Sport F1 HD.skyde">
+    <title>F1: Pressekonferenz Rennen - GP Japan</title>
+</programme>
+<programme start="20260329160000 +0000" stop="20260329163000 +0000" channel="Sky Sport F1 HD.skyde">
+    <title>F1: Ted&#039;s Notebook: GP Japan</title>
+</programme>
+<programme start="20260329163000 +0000" stop="20260329170000 +0000" channel="Sky Sport F1 HD.skyde">
+    <title>F1: Rennen Kompakt - GP Japan</title>
+</programme>
+<programme start="20260329170000 +0000" stop="20260329193000 +0000" channel="Sky Sport F1 HD.skyde">
+    <title>Live IndyCar: Children`s of Alabama Indy Grand Prix</title>
+</programme>
+<programme start="20260329193000 +0000" stop="20260329213000 +0000" channel="Sky Sport F1 HD.skyde">
+    <title>F1: Rennen - GP Japan</title>
+</programme>
+<programme start="20260329213000 +0000" stop="20260329233000 +0000" channel="Sky Sport F1 HD.skyde">
+    <title>IndyCar: Children`s of Alabama Indy Grand Prix</title>
+</programme>
 <programme start="20260329010000 +0000" stop="20260329030000 +0000" channel="Sky Sport Golf HD.skyde">
     <title>TGL: Los Angeles Golf Club - Jupiter Links Golf Club, Finale 2</title>
 </programme>
@@ -2880,7 +2949,7 @@ Warning: Undefined array key "et" in /usr/home/ManusiaBiasa/domains/manusiabiasa
 <programme start="20260329213000 +0000" stop="20260330000000 +0000" channel="Sky Sport Tennis HD.skyde">
     <title>WTA 1000: C. Gauff (USA) - A. Sabalenka, Miami Open presented by Itaú in Miami, Florida (USA), Finale</title>
 </programme>
-<programme start="20260329010000 +0000" stop="20260329020000 +0000" channel="Sky Sport Top Event HD.skyde">
+<programme start="20260329004500 +0000" stop="20260329020000 +0000" channel="Sky Sport Top Event HD.skyde">
     <title>Live NHL: Winnipeg Jets @ Colorado Avalanche</title>
 </programme>
 <programme start="20260329020000 +0000" stop="20260329021500 +0000" channel="Sky Sport Top Event HD.skyde">
@@ -2958,26 +3027,26 @@ Warning: Undefined array key "et" in /usr/home/ManusiaBiasa/domains/manusiabiasa
 <programme start="20260329040000 +0000" stop="20260329045500 +0000" channel="Sky Sport UHD.skyde">
     <title>Live F1: Vorberichte - GP Japan</title>
 </programme>
-<programme start="20260329045500 +0000" stop="20260329064500 +0000" channel="Sky Sport UHD.skyde">
+<programme start="20260329045500 +0000" stop="20260329070500 +0000" channel="Sky Sport UHD.skyde">
     <title>Live F1: Rennen - GP Japan</title>
 </programme>
-<programme start="20260329064500 +0000" stop="20260329073000 +0000" channel="Sky Sport UHD.skyde">
+<programme start="20260329070500 +0000" stop="20260329075000 +0000" channel="Sky Sport UHD.skyde">
     <title>Live F1: Analysen &amp; Interviews - GP Japan</title>
 </programme>
-<programme start="20260329073000 +0000" stop="20260329080000 +0000" channel="Sky Sport UHD.skyde">
+<programme start="20260329075000 +0000" stop="20260329082000 +0000" channel="Sky Sport UHD.skyde">
     <title>Live F1: Pressekonferenz Rennen - GP Japan</title>
 </programme>
-<programme start="20260329080000 +0000" stop="20260329083000 +0000" channel="Sky Sport UHD.skyde">
+<programme start="20260329082000 +0000" stop="20260329085000 +0000" channel="Sky Sport UHD.skyde">
     <title>Live F1: Ted&#039;s Notebook: GP Japan</title>
 </programme>
-<programme start="20260329083000 +0000" stop="20260329090000 +0000" channel="Sky Sport UHD.skyde">
+<programme start="20260329085000 +0000" stop="20260329090000 +0000" channel="Sky Sport UHD.skyde">
     <title>Golf: Greatest Holes (6)</title>
 </programme>
 <programme start="20260329090000 +0000" stop="20260329110000 +0000" channel="Sky Sport UHD.skyde">
-    <title>F1: Rennen - GP Japan</title>
+    <title>DFB-Pokal: FC Bayern München - RB Leipzig, Viertelfinale</title>
 </programme>
 <programme start="20260329110000 +0000" stop="20260329130000 +0000" channel="Sky Sport UHD.skyde">
-    <title>DFB-Pokal: FC Bayern München - RB Leipzig, Viertelfinale</title>
+    <title>F1: Rennen - GP Japan</title>
 </programme>
 <programme start="20260329130000 +0000" stop="20260329150000 +0000" channel="Sky Sport UHD.skyde">
     <title>F1: Rennen - GP Japan</title>
@@ -3003,7 +3072,7 @@ Warning: Undefined array key "et" in /usr/home/ManusiaBiasa/domains/manusiabiasa
 <programme start="20260329160000 +0000" stop="20260329170000 +0000" channel="Sky Sport 1 HD.skyde">
     <title>NHL: On the Fly</title>
 </programme>
-<programme start="20260329170000 +0000" stop="20260329200000 +0000" channel="Sky Sport 1 HD.skyde">
+<programme start="20260329170000 +0000" stop="20260329220000 +0000" channel="Sky Sport 1 HD.skyde">
     <title>Live NHL: Florida Panthers @ New York Rangers</title>
 </programme>
 <programme start="20260328234000 +0000" stop="20260329002500 +0000" channel="SYFY HD.skyde">
