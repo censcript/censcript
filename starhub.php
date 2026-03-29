@@ -2311,7 +2311,7 @@
     <programme start="20260328180000 +0000" stop="20260328190000 +0000" channel="Hub Sports 2 HD.starhub">
         <title>Year End Review Show</title>
     </programme>
-    <programme start="20260328190000 +0000" stop="20260328210000 +0000" channel="Hub Sports 2 HD.starhub">
+    <programme start="20260328190000 +0000" stop="20260328214500 +0000" channel="Hub Sports 2 HD.starhub">
         <title>Miami Open p/b Itau (1000) Final</title>
     </programme>
     <programme start="20260328214500 +0000" stop="20260329000000 +0000" channel="Hub Sports 2 HD.starhub">
@@ -7627,13 +7627,13 @@
     <programme start="20260328133000 +0000" stop="20260328163000 +0000" channel="Asianet Movies.starhub">
         <title>Mark</title>
     </programme>
-    <programme start="20260328163000 +0000" stop="20260328193000 +0000" channel="Asianet Movies.starhub">
+    <programme start="20260328163500 +0000" stop="20260328192000 +0000" channel="Asianet Movies.starhub">
         <title>Alexander The Great</title>
     </programme>
-    <programme start="20260328193000 +0000" stop="20260328213000 +0000" channel="Asianet Movies.starhub">
+    <programme start="20260328192000 +0000" stop="20260328213000 +0000" channel="Asianet Movies.starhub">
         <title>Colours</title>
     </programme>
-    <programme start="20260328213000 +0000" stop="20260328233000 +0000" channel="Asianet Movies.starhub">
+    <programme start="20260328213000 +0000" stop="20260328232000 +0000" channel="Asianet Movies.starhub">
         <title>Aayudham</title>
     </programme>
     <programme start="20260328232000 +0000" stop="20260329015500 +0000" channel="Asianet Movies.starhub">

@@ -2949,7 +2949,7 @@ Warning: Undefined array key "et" in /usr/home/ManusiaBiasa/domains/manusiabiasa
 <programme start="20260329213000 +0000" stop="20260330000000 +0000" channel="Sky Sport Tennis HD.skyde">
     <title>WTA 1000: C. Gauff (USA) - A. Sabalenka, Miami Open presented by Itaú in Miami, Florida (USA), Finale</title>
 </programme>
-<programme start="20260329010000 +0000" stop="20260329020000 +0000" channel="Sky Sport Top Event HD.skyde">
+<programme start="20260329004500 +0000" stop="20260329020000 +0000" channel="Sky Sport Top Event HD.skyde">
     <title>Live NHL: Winnipeg Jets @ Colorado Avalanche</title>
 </programme>
 <programme start="20260329020000 +0000" stop="20260329021500 +0000" channel="Sky Sport Top Event HD.skyde">
@@ -3015,7 +3015,10 @@ Warning: Undefined array key "et" in /usr/home/ManusiaBiasa/domains/manusiabiasa
 <programme start="20260329213000 +0000" stop="20260329220000 +0000" channel="Sky Sport Top Event HD.skyde">
     <title>F1: Rennen Kompakt - GP Japan</title>
 </programme>
-<programme start="20260328233000 +0000" stop="20260329010000 +0000" channel="Sky Sport UHD.skyde">
+<programme start="20260328230000 +0000" stop="20260329003000 +0000" channel="Sky Sport UHD.skyde">
+    <title>F1: 1. Freies Training - GP Japan</title>
+</programme>
+<programme start="20260329003000 +0000" stop="20260329010000 +0000" channel="Sky Sport UHD.skyde">
     <title>F1: 2. Freies Training - GP Japan</title>
 </programme>
 <programme start="20260329010000 +0000" stop="20260329023000 +0000" channel="Sky Sport UHD.skyde">
@@ -3072,7 +3075,7 @@ Warning: Undefined array key "et" in /usr/home/ManusiaBiasa/domains/manusiabiasa
 <programme start="20260329160000 +0000" stop="20260329170000 +0000" channel="Sky Sport 1 HD.skyde">
     <title>NHL: On the Fly</title>
 </programme>
-<programme start="20260329170000 +0000" stop="20260329200000 +0000" channel="Sky Sport 1 HD.skyde">
+<programme start="20260329170000 +0000" stop="20260329220000 +0000" channel="Sky Sport 1 HD.skyde">
     <title>Live NHL: Florida Panthers @ New York Rangers</title>
 </programme>
 <programme start="20260328234000 +0000" stop="20260329002500 +0000" channel="SYFY HD.skyde">

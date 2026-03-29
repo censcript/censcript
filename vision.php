@@ -511,12 +511,6 @@
 <programme start="20260328233000 +0000" stop="20260329003000 +0000" channel="Trans 7.vision">
 <title>Spotlite</title>
 </programme>
-<programme start="20260329021500 +0000" stop="20260329031500 +0000" channel="Trans 7.vision">
-<title>Heits Abis</title>
-</programme>
-<programme start="20260329031500 +0000" stop="20260329041500 +0000" channel="Trans 7.vision">
-<title>Obrolan Tiap Waktu</title>
-</programme>
 <programme start="20260329041500 +0000" stop="20260329050000 +0000" channel="Trans 7.vision">
 <title>Enaknya Mantul</title>
 </programme>
@@ -1497,4 +1491,10 @@
 </programme>
 <programme start="20260330060000 +0000" stop="20260330090000 +0000" channel="DAAI TV.vision">
 <title>DAAI TV</title>
+</programme>
+<programme start="20260330090000 +0000" stop="20260330120000 +0000" channel="DAAI TV.vision">
+<title>DAAI TV</title>
+</programme>
+<programme start="20260328235000 +0000" stop="20260329010500 +0000" channel="MDTV.vision">
+<title>AADD: Ada Apa Dengan Dunia</title>
 </programme>
