@@ -2314,7 +2314,7 @@
     <programme start="20260328190000 +0000" stop="20260328210000 +0000" channel="Hub Sports 2 HD.starhub">
         <title>Miami Open p/b Itau (1000) Final</title>
     </programme>
-    <programme start="20260328210000 +0000" stop="20260329000000 +0000" channel="Hub Sports 2 HD.starhub">
+    <programme start="20260328214500 +0000" stop="20260329000000 +0000" channel="Hub Sports 2 HD.starhub">
         <title>FN 6: Prelims: Adesanya vs Pyfer</title>
     </programme>
     <programme start="20260329000000 +0000" stop="20260329030000 +0000" channel="Hub Sports 2 HD.starhub">
@@ -4033,20 +4033,20 @@
     <programme start="20260329010000 +0000" stop="20260329040000 +0000" channel="Hub Sports 3 HD.starhub">
         <title>End of Transmission</title>
     </programme>
-    <programme start="20260329040000 +0000" stop="20260329043000 +0000" channel="Hub Sports 3 HD.starhub">
-        <title>Episode 10</title>
-    </programme>
-    <programme start="20260329043000 +0000" stop="20260329053000 +0000" channel="Hub Sports 3 HD.starhub">
-        <title>Hainan Classic presented by MAEXTRO</title>
-    </programme>
-    <programme start="20260329053000 +0000" stop="20260329063000 +0000" channel="Hub Sports 3 HD.starhub">
-        <title>Cologuard Classic</title>
-    </programme>
-    <programme start="20260329063000 +0000" stop="20260329113000 +0000" channel="Hub Sports 3 HD.starhub">
+    <programme start="20260329040000 +0000" stop="20260329090000 +0000" channel="Hub Sports 3 HD.starhub">
         <title>Hero Indian Open Day 4</title>
     </programme>
-    <programme start="20260329113000 +0000" stop="20260329120000 +0000" channel="Hub Sports 3 HD.starhub">
+    <programme start="20260329090000 +0000" stop="20260329093000 +0000" channel="Hub Sports 3 HD.starhub">
+        <title>Episode 10</title>
+    </programme>
+    <programme start="20260329093000 +0000" stop="20260329103000 +0000" channel="Hub Sports 3 HD.starhub">
+        <title>Hainan Classic presented by MAEXTRO</title>
+    </programme>
+    <programme start="20260329103000 +0000" stop="20260329110000 +0000" channel="Hub Sports 3 HD.starhub">
         <title>PGTI Open</title>
+    </programme>
+    <programme start="20260329110000 +0000" stop="20260329120000 +0000" channel="Hub Sports 3 HD.starhub">
+        <title>James Hardie Pro Football Hall of Fame Invitational</title>
     </programme>
     <programme start="20260329120000 +0000" stop="20260329130000 +0000" channel="Hub Sports 3 HD.starhub">
         <title>Cologuard Classic</title>
@@ -7636,10 +7636,10 @@
     <programme start="20260328213000 +0000" stop="20260328233000 +0000" channel="Asianet Movies.starhub">
         <title>Aayudham</title>
     </programme>
-    <programme start="20260328233000 +0000" stop="20260329013000 +0000" channel="Asianet Movies.starhub">
+    <programme start="20260328232000 +0000" stop="20260329015500 +0000" channel="Asianet Movies.starhub">
         <title>Black Cat</title>
     </programme>
-    <programme start="20260329013000 +0000" stop="20260329043000 +0000" channel="Asianet Movies.starhub">
+    <programme start="20260329015500 +0000" stop="20260329043000 +0000" channel="Asianet Movies.starhub">
         <title>Marubhoomiyile Aana</title>
     </programme>
     <programme start="20260329043000 +0000" stop="20260329073000 +0000" channel="Asianet Movies.starhub">
@@ -7651,7 +7651,7 @@
     <programme start="20260329103000 +0000" stop="20260329133000 +0000" channel="Asianet Movies.starhub">
         <title>Kochi Rajavu</title>
     </programme>
-    <programme start="20260329133000 +0000" stop="20260329170000 +0000" channel="Asianet Movies.starhub">
+    <programme start="20260329133000 +0000" stop="20260329165000 +0000" channel="Asianet Movies.starhub">
         <title>Adipurush</title>
     </programme>
     <programme start="20260328160000 +0000" stop="20260328163000 +0000" channel="Astro Warna HD.starhub">

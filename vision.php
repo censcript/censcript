@@ -511,12 +511,6 @@
 <programme start="20260328233000 +0000" stop="20260329003000 +0000" channel="Trans 7.vision">
 <title>Spotlite</title>
 </programme>
-<programme start="20260329003000 +0000" stop="20260329013000 +0000" channel="Trans 7.vision">
-<title>Selebrita Pagi On The Weekend</title>
-</programme>
-<programme start="20260329013000 +0000" stop="20260329021500 +0000" channel="Trans 7.vision">
-<title>Bikin Seneng</title>
-</programme>
 <programme start="20260329021500 +0000" stop="20260329031500 +0000" channel="Trans 7.vision">
 <title>Heits Abis</title>
 </programme>
@@ -627,9 +621,6 @@
 </programme>
 <programme start="20260330114500 +0000" stop="20260330121500 +0000" channel="Trans 7.vision">
 <title>Secret Story</title>
-</programme>
-<programme start="20260328230000 +0000" stop="20260329003000 +0000" channel="ANTV.vision">
-<title>Golden Spider City</title>
 </programme>
 <programme start="20260329003000 +0000" stop="20260329023000 +0000" channel="ANTV.vision">
 <title>Janji Cinta Inspektur Virat</title>
@@ -1496,5 +1487,14 @@
 <title>DAAI TV</title>
 </programme>
 <programme start="20260329210000 +0000" stop="20260330000000 +0000" channel="DAAI TV.vision">
+<title>DAAI TV</title>
+</programme>
+<programme start="20260330000000 +0000" stop="20260330030000 +0000" channel="DAAI TV.vision">
+<title>DAAI TV</title>
+</programme>
+<programme start="20260330030000 +0000" stop="20260330060000 +0000" channel="DAAI TV.vision">
+<title>DAAI TV</title>
+</programme>
+<programme start="20260330060000 +0000" stop="20260330090000 +0000" channel="DAAI TV.vision">
 <title>DAAI TV</title>
 </programme>
