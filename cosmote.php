@@ -1,7 +1,3 @@
-<programme start="20260330023500 +0700" stop="20260330043000 +0700" channel="COSMOTE Sport 1 HD">
-    <title>Football: Arsenal - Bayer 04 Leverkusen</title>
-    <desc>Live: Tidak</desc>
-</programme>
 <programme start="20260330043000 +0700" stop="20260330072000 +0700" channel="COSMOTE Sport 1 HD">
     <title>Football: FC Midtjylland - Nottingham F.</title>
     <desc>Live: Tidak</desc>
@@ -48,6 +44,10 @@
 </programme>
 <programme start="20260331044500 +0700" stop="20260331054500 +0700" channel="COSMOTE Sport 1 HD">
     <title>Highlights: UEL &amp; UECL 2025-26</title>
+    <desc>Live: Tidak</desc>
+</programme>
+<programme start="20260331054500 +0700" stop="20260331074500 +0700" channel="COSMOTE Sport 1 HD">
+    <title>Football: Real Betis Balompie - Panathinaikos</title>
     <desc>Live: Tidak</desc>
 </programme>
 <programme start="20260330040000 +0700" stop="20260330061000 +0700" channel="COSMOTE Sport 2 HD">
@@ -222,10 +222,6 @@
     <title>Basketball: Charlotte Hornets - Boston Celtics</title>
     <desc>Live: Tidak</desc>
 </programme>
-<programme start="20260330023000 +0700" stop="20260330042000 +0700" channel="COSMOTE Sport 5 HD">
-    <title>Motorsports: MotoGP 2026 (L)</title>
-    <desc>Live: Ya</desc>
-</programme>
 <programme start="20260330042000 +0700" stop="20260330051000 +0700" channel="COSMOTE Sport 5 HD">
     <title>Harley-Davidson Bagger World Cup 2026</title>
     <desc>Live: Tidak</desc>
@@ -326,9 +322,9 @@
     <title>2026 Grand Prix Show</title>
     <desc>Live: Tidak</desc>
 </programme>
-<programme start="20260330020000 +0700" stop="20260330043000 +0700" channel="COSMOTE Sport 6 HD">
-    <title>Tennis: Jiri Lehecka - Jannik Sinner (L)</title>
-    <desc>Live: Ya</desc>
+<programme start="20260331053500 +0700" stop="20260331063500 +0700" channel="COSMOTE Sport 5 HD">
+    <title>Highlights: 2025 Extreme H</title>
+    <desc>Live: Tidak</desc>
 </programme>
 <programme start="20260330043000 +0700" stop="20260330073000 +0700" channel="COSMOTE Sport 6 HD">
     <title>Fight Sports: UFC Fight Night 2026</title>
@@ -406,10 +402,6 @@
     <title>Volleyball: Vallefoglia - Panathinaikos</title>
     <desc>Live: Tidak</desc>
 </programme>
-<programme start="20260330030000 +0700" stop="20260330050000 +0700" channel="COSMOTE Sport 7 HD">
-    <title>Premier Padel Tour 2025 (L)</title>
-    <desc>Live: Ya</desc>
-</programme>
 <programme start="20260330050000 +0700" stop="20260330080000 +0700" channel="COSMOTE Sport 7 HD">
     <title>Premier Padel Tour 2025 (L)</title>
     <desc>Live: Ya</desc>
@@ -472,14 +464,6 @@
 </programme>
 <programme start="20260331040000 +0700" stop="20260331060000 +0700" channel="COSMOTE Sport 7 HD">
     <title>COSMOTESport7HD</title>
-    <desc>Live: Tidak</desc>
-</programme>
-<programme start="20260330040000 +0700" stop="20260330043000 +0700" channel="COSMOTE Sport 8 HD">
-    <title>COSMOTESport8HD</title>
-    <desc>Live: Tidak</desc>
-</programme>
-<programme start="20260330043000 +0700" stop="20260330050000 +0700" channel="COSMOTE Sport 8 HD">
-    <title>COSMOTESport8HD</title>
     <desc>Live: Tidak</desc>
 </programme>
 <programme start="20260330050000 +0700" stop="20260330080000 +0700" channel="COSMOTE Sport 8 HD">
