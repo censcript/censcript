@@ -106,6 +106,10 @@
     <title>Football: Parma - Cremonese</title>
     <desc>Live: Tidak</desc>
 </programme>
+<programme start="20260330171000 +0700" stop="20260330192000 +0700" channel="COSMOTE Sport 2 HD">
+    <title>Football: Olympiacos - AEL Novibet</title>
+    <desc>Live: Tidak</desc>
+</programme>
 <programme start="20260329160000 +0700" stop="20260329180000 +0700" channel="COSMOTE Sport 3 HD">
     <title>Football: Alverca - Sporting CP</title>
     <desc>Live: Tidak</desc>
@@ -162,10 +166,6 @@
     <title>Football: Preston North End - Stoke City</title>
     <desc>Live: Tidak</desc>
 </programme>
-<programme start="20260329140000 +0700" stop="20260329163000 +0700" channel="COSMOTE Sport 4 HD">
-    <title>Basketball: Charlotte Hornets - Philadelphia 76ers</title>
-    <desc>Live: Tidak</desc>
-</programme>
 <programme start="20260329163000 +0700" stop="20260329190000 +0700" channel="COSMOTE Sport 4 HD">
     <title>Basketball: Phoenix Suns - Utah Jazz</title>
     <desc>Live: Tidak</desc>
@@ -220,10 +220,6 @@
 </programme>
 <programme start="20260330160000 +0700" stop="20260330183000 +0700" channel="COSMOTE Sport 4 HD">
     <title>Basketball: Milwaukee Bucks - Los Angeles Clippers</title>
-    <desc>Live: Tidak</desc>
-</programme>
-<programme start="20260329155000 +0700" stop="20260329163500 +0700" channel="COSMOTE Sport 5 HD">
-    <title>Motorsports: Moto3 2026</title>
     <desc>Live: Tidak</desc>
 </programme>
 <programme start="20260329163500 +0700" stop="20260329174000 +0700" channel="COSMOTE Sport 5 HD">
@@ -334,6 +330,10 @@
     <title>Highlights: 2025 Extreme H</title>
     <desc>Live: Tidak</desc>
 </programme>
+<programme start="20260330175000 +0700" stop="20260330184000 +0700" channel="COSMOTE Sport 5 HD">
+    <title>DTM</title>
+    <desc>Live: Tidak</desc>
+</programme>
 <programme start="20260329150000 +0700" stop="20260329173000 +0700" channel="COSMOTE Sport 6 HD">
     <title>Volleyball: Panathinaikos - Vallefoglia</title>
     <desc>Live: Tidak</desc>
@@ -402,8 +402,8 @@
     <title>Tennis: Jiri Lehecka - Jannik Sinner</title>
     <desc>Live: Tidak</desc>
 </programme>
-<programme start="20260329160000 +0700" stop="20260329170000 +0700" channel="COSMOTE Sport 7 HD">
-    <title>COSMOTESport7HD</title>
+<programme start="20260330173000 +0700" stop="20260330180000 +0700" channel="COSMOTE Sport 6 HD">
+    <title>Sports Classics: 2026 Sports Rundown E2</title>
     <desc>Live: Tidak</desc>
 </programme>
 <programme start="20260329170000 +0700" stop="20260329190000 +0700" channel="COSMOTE Sport 7 HD">
