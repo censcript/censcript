@@ -102,6 +102,10 @@
     <title>Football: ACF Fiorentina - FC Internazionale Milano</title>
     <desc>Live: Tidak</desc>
 </programme>
+<programme start="20260330212000 +0700" stop="20260330232000 +0700" channel="COSMOTE Sport 2 HD">
+    <title>Football: Juventus Football Club - Sassuolo</title>
+    <desc>Live: Tidak</desc>
+</programme>
 <programme start="20260329200000 +0700" stop="20260329220000 +0700" channel="COSMOTE Sport 3 HD">
     <title>Football: SC Braga - FC Porto</title>
     <desc>Live: Tidak</desc>
@@ -158,6 +162,10 @@
     <title>William Hill Scottish Premiership - Highlights</title>
     <desc>Live: Tidak</desc>
 </programme>
+<programme start="20260330210500 +0700" stop="20260330230500 +0700" channel="COSMOTE Sport 3 HD">
+    <title>Football: SL Benfica - Vitoria Guimaraes</title>
+    <desc>Live: Tidak</desc>
+</programme>
 <programme start="20260329193000 +0700" stop="20260329213000 +0700" channel="COSMOTE Sport 4 HD">
     <title>Basketball: Anadolu Efes - Tofas (L)</title>
     <desc>Live: Ya</desc>
@@ -210,8 +218,8 @@
     <title>Basketball: Charlotte Hornets - Boston Celtics</title>
     <desc>Live: Tidak</desc>
 </programme>
-<programme start="20260329194500 +0700" stop="20260329204500 +0700" channel="COSMOTE Sport 5 HD">
-    <title>Motorsports: MotoGP 2026</title>
+<programme start="20260330210000 +0700" stop="20260330230000 +0700" channel="COSMOTE Sport 4 HD">
+    <title>Basketball: Bursaspor - Fenerbahce</title>
     <desc>Live: Tidak</desc>
 </programme>
 <programme start="20260329204500 +0700" stop="20260329213500 +0700" channel="COSMOTE Sport 5 HD">
@@ -455,6 +463,10 @@
     <desc>Live: Tidak</desc>
 </programme>
 <programme start="20260330193000 +0700" stop="20260330213000 +0700" channel="COSMOTE Sport 7 HD">
+    <title>Tennis: ATP 250 2026 (L)</title>
+    <desc>Live: Ya</desc>
+</programme>
+<programme start="20260330213000 +0700" stop="20260330233000 +0700" channel="COSMOTE Sport 7 HD">
     <title>Tennis: ATP 250 2026 (L)</title>
     <desc>Live: Ya</desc>
 </programme>

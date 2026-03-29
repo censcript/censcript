@@ -2869,9 +2869,363 @@
 <programme start="20260329121000 +0000" stop="20260329124000 +0000" channel="Dreamworks.mncvision">
     <title>Fast &amp; Furious: Spy Racers</title>
 </programme>
-Error: Unable to fetch data. HTTP Status Code: 500
-Error: Unable to fetch data. HTTP Status Code: 500
-Error: Unable to fetch data. HTTP Status Code: 500
+<programme start="20260328171000 +0000" stop="20260328173500 +0000" channel="Dreamworks HD.mncvision">
+    <title>Kung Fu Panda: Paws Of Destiny</title>
+</programme>
+<programme start="20260328173500 +0000" stop="20260328180000 +0000" channel="Dreamworks HD.mncvision">
+    <title>The Adv. Of Puss In Boots</title>
+</programme>
+<programme start="20260328180000 +0000" stop="20260328182500 +0000" channel="Dreamworks HD.mncvision">
+    <title>Boss Baby: Back In The Crib</title>
+</programme>
+<programme start="20260328182500 +0000" stop="20260328185000 +0000" channel="Dreamworks HD.mncvision">
+    <title>Boss Baby: Back In The Crib</title>
+</programme>
+<programme start="20260328185000 +0000" stop="20260328191500 +0000" channel="Dreamworks HD.mncvision">
+    <title>Voltron: Legendary Defender</title>
+</programme>
+<programme start="20260328191500 +0000" stop="20260328194000 +0000" channel="Dreamworks HD.mncvision">
+    <title>Voltron: Legendary Defender</title>
+</programme>
+<programme start="20260328194000 +0000" stop="20260328200500 +0000" channel="Dreamworks HD.mncvision">
+    <title>Spirit Riding Free</title>
+</programme>
+<programme start="20260328200500 +0000" stop="20260328201700 +0000" channel="Dreamworks HD.mncvision">
+    <title>Tinga Tinga Tales</title>
+</programme>
+<programme start="20260328201700 +0000" stop="20260328203000 +0000" channel="Dreamworks HD.mncvision">
+    <title>Tinga Tinga Tales</title>
+</programme>
+<programme start="20260328203000 +0000" stop="20260328204500 +0000" channel="Dreamworks HD.mncvision">
+    <title>Roary The Racing Car</title>
+</programme>
+<programme start="20260328204500 +0000" stop="20260328210000 +0000" channel="Dreamworks HD.mncvision">
+    <title>Roary The Racing Car</title>
+</programme>
+<programme start="20260328210000 +0000" stop="20260328211500 +0000" channel="Dreamworks HD.mncvision">
+    <title>Roary The Racing Car</title>
+</programme>
+<programme start="20260328211500 +0000" stop="20260328213000 +0000" channel="Dreamworks HD.mncvision">
+    <title>Roary The Racing Car</title>
+</programme>
+<programme start="20260328213000 +0000" stop="20260328214500 +0000" channel="Dreamworks HD.mncvision">
+    <title>Roary The Racing Car</title>
+</programme>
+<programme start="20260328214500 +0000" stop="20260328220000 +0000" channel="Dreamworks HD.mncvision">
+    <title>Roary The Racing Car</title>
+</programme>
+<programme start="20260328220000 +0000" stop="20260328222500 +0000" channel="Dreamworks HD.mncvision">
+    <title>Not Quite Narwhal</title>
+</programme>
+<programme start="20260328222500 +0000" stop="20260328225000 +0000" channel="Dreamworks HD.mncvision">
+    <title>Dragons: Rescue Riders</title>
+</programme>
+<programme start="20260328225000 +0000" stop="20260328231500 +0000" channel="Dreamworks HD.mncvision">
+    <title>Dinotrux</title>
+</programme>
+<programme start="20260328231500 +0000" stop="20260328234000 +0000" channel="Dreamworks HD.mncvision">
+    <title>Dinotrux</title>
+</programme>
+<programme start="20260328234000 +0000" stop="20260329000500 +0000" channel="Dreamworks HD.mncvision">
+    <title>Boss Baby: Back In The Crib</title>
+</programme>
+<programme start="20260329000500 +0000" stop="20260329003000 +0000" channel="Dreamworks HD.mncvision">
+    <title>Boss Baby: Back In The Crib</title>
+</programme>
+<programme start="20260329003000 +0000" stop="20260329005500 +0000" channel="Dreamworks HD.mncvision">
+    <title>The Epic Tales Of Captain...</title>
+</programme>
+<programme start="20260329005500 +0000" stop="20260329012000 +0000" channel="Dreamworks HD.mncvision">
+    <title>The Epic Tales Of Captain...</title>
+</programme>
+<programme start="20260329012000 +0000" stop="20260329014500 +0000" channel="Dreamworks HD.mncvision">
+    <title>Dawn Of The Croods</title>
+</programme>
+<programme start="20260329014500 +0000" stop="20260329021000 +0000" channel="Dreamworks HD.mncvision">
+    <title>Dawn Of The Croods</title>
+</programme>
+<programme start="20260329021000 +0000" stop="20260329023500 +0000" channel="Dreamworks HD.mncvision">
+    <title>Spirit Riding Free</title>
+</programme>
+<programme start="20260329023500 +0000" stop="20260329030000 +0000" channel="Dreamworks HD.mncvision">
+    <title>Boss Baby: Back In Business</title>
+</programme>
+<programme start="20260329030000 +0000" stop="20260329032500 +0000" channel="Dreamworks HD.mncvision">
+    <title>All Hail King Julien</title>
+</programme>
+<programme start="20260329032500 +0000" stop="20260329035000 +0000" channel="Dreamworks HD.mncvision">
+    <title>Dawn Of The Croods</title>
+</programme>
+<programme start="20260329035000 +0000" stop="20260329041500 +0000" channel="Dreamworks HD.mncvision">
+    <title>Kung Fu Panda: Paws Of Destiny</title>
+</programme>
+<programme start="20260329041500 +0000" stop="20260329044000 +0000" channel="Dreamworks HD.mncvision">
+    <title>The Adv. Of Puss In Boots</title>
+</programme>
+<programme start="20260329044000 +0000" stop="20260329050500 +0000" channel="Dreamworks HD.mncvision">
+    <title>Spirit Riding Free</title>
+</programme>
+<programme start="20260329050500 +0000" stop="20260329053000 +0000" channel="Dreamworks HD.mncvision">
+    <title>Boss Baby: Back In Business</title>
+</programme>
+<programme start="20260329053000 +0000" stop="20260329055500 +0000" channel="Dreamworks HD.mncvision">
+    <title>All Hail King Julien</title>
+</programme>
+<programme start="20260329055500 +0000" stop="20260329062000 +0000" channel="Dreamworks HD.mncvision">
+    <title>Dawn Of The Croods</title>
+</programme>
+<programme start="20260329062000 +0000" stop="20260329064500 +0000" channel="Dreamworks HD.mncvision">
+    <title>Kung Fu Panda: Paws Of Destiny</title>
+</programme>
+<programme start="20260329064500 +0000" stop="20260329071000 +0000" channel="Dreamworks HD.mncvision">
+    <title>The Adv. Of Puss In Boots</title>
+</programme>
+<programme start="20260329071000 +0000" stop="20260329073500 +0000" channel="Dreamworks HD.mncvision">
+    <title>Trollhunters: Tales Of Arcadia</title>
+</programme>
+<programme start="20260329073500 +0000" stop="20260329080000 +0000" channel="Dreamworks HD.mncvision">
+    <title>Trollhunters: Tales Of Arcadia</title>
+</programme>
+<programme start="20260329080000 +0000" stop="20260329082500 +0000" channel="Dreamworks HD.mncvision">
+    <title>Trollhunters: Tales Of Arcadia</title>
+</programme>
+<programme start="20260329082500 +0000" stop="20260329085000 +0000" channel="Dreamworks HD.mncvision">
+    <title>Dragons: Race To The Edge</title>
+</programme>
+<programme start="20260329085000 +0000" stop="20260329091500 +0000" channel="Dreamworks HD.mncvision">
+    <title>Dragons: Race To The Edge</title>
+</programme>
+<programme start="20260329091500 +0000" stop="20260329094000 +0000" channel="Dreamworks HD.mncvision">
+    <title>Dragons: Race To The Edge</title>
+</programme>
+<programme start="20260329094000 +0000" stop="20260329100500 +0000" channel="Dreamworks HD.mncvision">
+    <title>Boss Baby: Back In The Crib</title>
+</programme>
+<programme start="20260329100500 +0000" stop="20260329103000 +0000" channel="Dreamworks HD.mncvision">
+    <title>Boss Baby: Back In The Crib</title>
+</programme>
+<programme start="20260329103000 +0000" stop="20260329105500 +0000" channel="Dreamworks HD.mncvision">
+    <title>Kung Fu Panda: Dragon Knight</title>
+</programme>
+<programme start="20260329105500 +0000" stop="20260329112000 +0000" channel="Dreamworks HD.mncvision">
+    <title>Kung Fu Panda: Dragon Knight</title>
+</programme>
+<programme start="20260329112000 +0000" stop="20260329114500 +0000" channel="Dreamworks HD.mncvision">
+    <title>Kung Fu Panda: Dragon Knight</title>
+</programme>
+<programme start="20260329114500 +0000" stop="20260329121000 +0000" channel="Dreamworks HD.mncvision">
+    <title>Fast &amp; Furious: Spy Racers</title>
+</programme>
+<programme start="20260329121000 +0000" stop="20260329124000 +0000" channel="Dreamworks HD.mncvision">
+    <title>Fast &amp; Furious: Spy Racers</title>
+</programme>
+<programme start="20260328170000 +0000" stop="20260328171500 +0000" channel="DW English.mncvision">
+    <title>DW News</title>
+</programme>
+<programme start="20260328171500 +0000" stop="20260328173000 +0000" channel="DW English.mncvision">
+    <title>Shift: Living In Digital Age</title>
+</programme>
+<programme start="20260328173000 +0000" stop="20260328180000 +0000" channel="DW English.mncvision">
+    <title>The 77 Percent: Street Debate</title>
+</programme>
+<programme start="20260328180000 +0000" stop="20260328181500 +0000" channel="DW English.mncvision">
+    <title>DW News</title>
+</programme>
+<programme start="20260328181500 +0000" stop="20260328183000 +0000" channel="DW English.mncvision">
+    <title>Reporter: On Location</title>
+</programme>
+<programme start="20260328183000 +0000" stop="20260328190000 +0000" channel="DW English.mncvision">
+    <title>DW News Africa</title>
+</programme>
+<programme start="20260328190000 +0000" stop="20260328191500 +0000" channel="DW English.mncvision">
+    <title>DW News</title>
+</programme>
+<programme start="20260328191500 +0000" stop="20260328200000 +0000" channel="DW English.mncvision">
+    <title>DocFilm</title>
+</programme>
+<programme start="20260328200000 +0000" stop="20260328201500 +0000" channel="DW English.mncvision">
+    <title>DW News</title>
+</programme>
+<programme start="20260328201500 +0000" stop="20260328203000 +0000" channel="DW English.mncvision">
+    <title>DW News Focus</title>
+</programme>
+<programme start="20260328203000 +0000" stop="20260328210000 +0000" channel="DW English.mncvision">
+    <title>Afrimaxx: Pan-African Lifestyle</title>
+</programme>
+<programme start="20260328210000 +0000" stop="20260328210200 +0000" channel="DW English.mncvision">
+    <title>DW News</title>
+</programme>
+<programme start="20260328210200 +0000" stop="20260328213000 +0000" channel="DW English.mncvision">
+    <title>Global Us</title>
+</programme>
+<programme start="20260328213000 +0000" stop="20260328230000 +0000" channel="DW English.mncvision">
+    <title>DocFilm</title>
+</programme>
+<programme start="20260328230000 +0000" stop="20260328230200 +0000" channel="DW English.mncvision">
+    <title>DW News</title>
+</programme>
+<programme start="20260328230200 +0000" stop="20260328231500 +0000" channel="DW English.mncvision">
+    <title>Reporter: On Location</title>
+</programme>
+<programme start="20260328231500 +0000" stop="20260328233000 +0000" channel="DW English.mncvision">
+    <title>Sports Life</title>
+</programme>
+<programme start="20260328233000 +0000" stop="20260329000000 +0000" channel="DW English.mncvision">
+    <title>Tomorrow Today: AstroSara</title>
+</programme>
+<programme start="20260329000000 +0000" stop="20260329000200 +0000" channel="DW English.mncvision">
+    <title>DW News</title>
+</programme>
+<programme start="20260329000200 +0000" stop="20260329003000 +0000" channel="DW English.mncvision">
+    <title>DocFilm</title>
+</programme>
+<programme start="20260329003000 +0000" stop="20260329010000 +0000" channel="DW English.mncvision">
+    <title>In Good Shape: The Health Show</title>
+</programme>
+<programme start="20260329010000 +0000" stop="20260329010200 +0000" channel="DW English.mncvision">
+    <title>DW News</title>
+</programme>
+<programme start="20260329010200 +0000" stop="20260329011500 +0000" channel="DW English.mncvision">
+    <title>HER: Women In Asia</title>
+</programme>
+<programme start="20260329011500 +0000" stop="20260329013000 +0000" channel="DW English.mncvision">
+    <title>Reporter: On Location</title>
+</programme>
+<programme start="20260329013000 +0000" stop="20260329030000 +0000" channel="DW English.mncvision">
+    <title>Euromaxx: Lifestyle Europe</title>
+</programme>
+<programme start="20260329030000 +0000" stop="20260329030200 +0000" channel="DW English.mncvision">
+    <title>DW News</title>
+</programme>
+<programme start="20260329030200 +0000" stop="20260329031500 +0000" channel="DW English.mncvision">
+    <title>DW News Focus</title>
+</programme>
+<programme start="20260329031500 +0000" stop="20260329033000 +0000" channel="DW English.mncvision">
+    <title>Reporter: On Location</title>
+</programme>
+<programme start="20260329033000 +0000" stop="20260329040000 +0000" channel="DW English.mncvision">
+    <title>DocFilm</title>
+</programme>
+<programme start="20260329040000 +0000" stop="20260329040200 +0000" channel="DW English.mncvision">
+    <title>DW News</title>
+</programme>
+<programme start="20260329040200 +0000" stop="20260329043000 +0000" channel="DW English.mncvision">
+    <title>DW News Africa</title>
+</programme>
+<programme start="20260329043000 +0000" stop="20260329060000 +0000" channel="DW English.mncvision">
+    <title>DocFilm</title>
+</programme>
+<programme start="20260329060000 +0000" stop="20260329060200 +0000" channel="DW English.mncvision">
+    <title>DW News</title>
+</programme>
+<programme start="20260329060200 +0000" stop="20260329061500 +0000" channel="DW English.mncvision">
+    <title>DW News Focus</title>
+</programme>
+<programme start="20260329061500 +0000" stop="20260329063000 +0000" channel="DW English.mncvision">
+    <title>Reporter: On Location</title>
+</programme>
+<programme start="20260329063000 +0000" stop="20260329070000 +0000" channel="DW English.mncvision">
+    <title>Euromaxx: Lifestyle Europe</title>
+</programme>
+<programme start="20260329070000 +0000" stop="20260329070200 +0000" channel="DW English.mncvision">
+    <title>DW News</title>
+</programme>
+<programme start="20260329070200 +0000" stop="20260329071500 +0000" channel="DW English.mncvision">
+    <title>HER: Women In Asia</title>
+</programme>
+<programme start="20260329071500 +0000" stop="20260329073000 +0000" channel="DW English.mncvision">
+    <title>Shift: Living In Digital Age</title>
+</programme>
+<programme start="20260329073000 +0000" stop="20260329080000 +0000" channel="DW English.mncvision">
+    <title>Arts Unveiled: The Art World</title>
+</programme>
+<programme start="20260329080000 +0000" stop="20260329080200 +0000" channel="DW English.mncvision">
+    <title>DW News</title>
+</programme>
+<programme start="20260329080200 +0000" stop="20260329081500 +0000" channel="DW English.mncvision">
+    <title>Sports Life</title>
+</programme>
+<programme start="20260329081500 +0000" stop="20260329090000 +0000" channel="DW English.mncvision">
+    <title>DocFilm</title>
+</programme>
+<programme start="20260329090000 +0000" stop="20260329090200 +0000" channel="DW English.mncvision">
+    <title>DW News</title>
+</programme>
+<programme start="20260329090200 +0000" stop="20260329091500 +0000" channel="DW English.mncvision">
+    <title>DW News Focus</title>
+</programme>
+<programme start="20260329091500 +0000" stop="20260329093000 +0000" channel="DW English.mncvision">
+    <title>Shift: Living In Digital Age</title>
+</programme>
+<programme start="20260329093000 +0000" stop="20260329100000 +0000" channel="DW English.mncvision">
+    <title>The 77 Percent: Street Debate</title>
+</programme>
+<programme start="20260329100000 +0000" stop="20260329100200 +0000" channel="DW English.mncvision">
+    <title>DW News</title>
+</programme>
+<programme start="20260329100200 +0000" stop="20260329103000 +0000" channel="DW English.mncvision">
+    <title>Eco India: Microalgae</title>
+</programme>
+<programme start="20260329103000 +0000" stop="20260329110000 +0000" channel="DW English.mncvision">
+    <title>REV</title>
+</programme>
+<programme start="20260328180000 +0000" stop="20260328193000 +0000" channel="Entertainment.mncvision">
+    <title>New Family 100</title>
+</programme>
+<programme start="20260328193000 +0000" stop="20260328200000 +0000" channel="Entertainment.mncvision">
+    <title>OB (Office Boy)</title>
+</programme>
+<programme start="20260328200000 +0000" stop="20260328210000 +0000" channel="Entertainment.mncvision">
+    <title>Super Deal</title>
+</programme>
+<programme start="20260328210000 +0000" stop="20260328223000 +0000" channel="Entertainment.mncvision">
+    <title>Super Deal Indonesia</title>
+</programme>
+<programme start="20260328223000 +0000" stop="20260328233000 +0000" channel="Entertainment.mncvision">
+    <title>Untold Story: Experiment</title>
+</programme>
+<programme start="20260328233000 +0000" stop="20260329003000 +0000" channel="Entertainment.mncvision">
+    <title>Super Deal</title>
+</programme>
+<programme start="20260329003000 +0000" stop="20260329010000 +0000" channel="Entertainment.mncvision">
+    <title>OB (Office Boy)</title>
+</programme>
+<programme start="20260329010000 +0000" stop="20260329033000 +0000" channel="Entertainment.mncvision">
+    <title>New Family 100</title>
+</programme>
+<programme start="20260329033000 +0000" stop="20260329050000 +0000" channel="Entertainment.mncvision">
+    <title>Balada Saos Dan Cinta</title>
+</programme>
+<programme start="20260329050000 +0000" stop="20260329070000 +0000" channel="Entertainment.mncvision">
+    <title>Take Me Out Indonesia</title>
+</programme>
+<programme start="20260329070000 +0000" stop="20260329080000 +0000" channel="Entertainment.mncvision">
+    <title>Ngebor Rezeki</title>
+</programme>
+<programme start="20260329080000 +0000" stop="20260329090000 +0000" channel="Entertainment.mncvision">
+    <title>BaPeran: Banyak Permainan</title>
+</programme>
+<programme start="20260329090000 +0000" stop="20260329100000 +0000" channel="Entertainment.mncvision">
+    <title>OB (Office Boy)</title>
+</programme>
+<programme start="20260329100000 +0000" stop="20260329110000 +0000" channel="Entertainment.mncvision">
+    <title>Untold Story: Experiment</title>
+</programme>
+<programme start="20260329110000 +0000" stop="20260329120000 +0000" channel="Entertainment.mncvision">
+    <title>Super Deal</title>
+</programme>
+<programme start="20260329120000 +0000" stop="20260329133000 +0000" channel="Entertainment.mncvision">
+    <title>New Family 100</title>
+</programme>
+<programme start="20260329133000 +0000" stop="20260329143000 +0000" channel="Entertainment.mncvision">
+    <title>Demian Magic</title>
+</programme>
+<programme start="20260329143000 +0000" stop="20260329160000 +0000" channel="Entertainment.mncvision">
+    <title>Balada Saos Dan Cinta</title>
+</programme>
+<programme start="20260329160000 +0000" stop="20260329163000 +0000" channel="Entertainment.mncvision">
+    <title>Take Me Out Indonesia</title>
+</programme>
 <programme start="20260328170000 +0000" stop="20260328170500 +0000" channel="EURONEWS.mncvision">
     <title>5 Minutes</title>
 </programme>
@@ -7225,7 +7579,60 @@ Error: Unable to fetch data. HTTP Status Code: 500
 <programme start="20260329150000 +0000" stop="20260329153000 +0000" channel="RCTI.mncvision">
     <title>Olympus Has Fallen</title>
 </programme>
-Error: Unable to fetch data. HTTP Status Code: 500
+<programme start="20260328190000 +0000" stop="20260328193000 +0000" channel="RCTI HD.mncvision">
+    <title>Kompleks Pengabdi Istri</title>
+</programme>
+<programme start="20260328193000 +0000" stop="20260328200000 +0000" channel="RCTI HD.mncvision">
+    <title>Preman Pensiun S9</title>
+</programme>
+<programme start="20260328200000 +0000" stop="20260328203000 +0000" channel="RCTI HD.mncvision">
+    <title>Mujizat Itu Nyata</title>
+</programme>
+<programme start="20260328203000 +0000" stop="20260328230000 +0000" channel="RCTI HD.mncvision">
+    <title>Preman Pensiun S9</title>
+</programme>
+<programme start="20260328230000 +0000" stop="20260329003000 +0000" channel="RCTI HD.mncvision">
+    <title>Upin Ipin</title>
+</programme>
+<programme start="20260329003000 +0000" stop="20260329010000 +0000" channel="RCTI HD.mncvision">
+    <title>Titus The Detective</title>
+</programme>
+<programme start="20260329010000 +0000" stop="20260329013000 +0000" channel="RCTI HD.mncvision">
+    <title>Kiko S4</title>
+</programme>
+<programme start="20260329013000 +0000" stop="20260329020000 +0000" channel="RCTI HD.mncvision">
+    <title>Entong</title>
+</programme>
+<programme start="20260329020000 +0000" stop="20260329033000 +0000" channel="RCTI HD.mncvision">
+    <title>Dahsyat (L)</title>
+</programme>
+<programme start="20260329033000 +0000" stop="20260329043000 +0000" channel="RCTI HD.mncvision">
+    <title>Pandora</title>
+</programme>
+<programme start="20260329043000 +0000" stop="20260329050000 +0000" channel="RCTI HD.mncvision">
+    <title>Seputar iNews Siang</title>
+</programme>
+<programme start="20260329050000 +0000" stop="20260329063000 +0000" channel="RCTI HD.mncvision">
+    <title>Dunia Masih Terbalik</title>
+</programme>
+<programme start="20260329063000 +0000" stop="20260329083000 +0000" channel="RCTI HD.mncvision">
+    <title>Si Doel Anak Sekolahan S2</title>
+</programme>
+<programme start="20260329083000 +0000" stop="20260329103000 +0000" channel="RCTI HD.mncvision">
+    <title>Sayap-Sayap Patah</title>
+</programme>
+<programme start="20260329103000 +0000" stop="20260329120000 +0000" channel="RCTI HD.mncvision">
+    <title>Amanah Wali S8</title>
+</programme>
+<programme start="20260329120000 +0000" stop="20260329133000 +0000" channel="RCTI HD.mncvision">
+    <title>99 Nama Cinta</title>
+</programme>
+<programme start="20260329133000 +0000" stop="20260329150000 +0000" channel="RCTI HD.mncvision">
+    <title>Mencintai Ipar Sendiri</title>
+</programme>
+<programme start="20260329150000 +0000" stop="20260329153000 +0000" channel="RCTI HD.mncvision">
+    <title>Olympus Has Fallen</title>
+</programme>
 <programme start="20260328175000 +0000" stop="20260328200000 +0000" channel="Rock Action.mncvision">
     <title>Waterworld</title>
 </programme>
@@ -8111,8 +8518,93 @@ Error: Unable to fetch data. HTTP Status Code: 500
 <programme start="20260329164500 +0000" stop="20260328171500 +0000" channel="SPOTV 2.mncvision">
     <title>MotoGP Red Bull Grand Prix (L)</title>
 </programme>
-Error: Unable to fetch data. HTTP Status Code: 500
-Error: Unable to fetch data. HTTP Status Code: 500
+<programme start="20260328174000 +0000" stop="20260328193000 +0000" channel="SPOTV 2 HD.mncvision">
+    <title>MotoGP Red Bull Grand Prix (L)</title>
+</programme>
+<programme start="20260328193000 +0000" stop="20260328210000 +0000" channel="SPOTV 2 HD.mncvision">
+    <title>MotoGP Red Bull Grand Prix (L)</title>
+</programme>
+<programme start="20260328210000 +0000" stop="20260328220000 +0000" channel="SPOTV 2 HD.mncvision">
+    <title>Harley-Davidson Bagger Cup (L)</title>
+</programme>
+<programme start="20260328220000 +0000" stop="20260328223000 +0000" channel="SPOTV 2 HD.mncvision">
+    <title>WPBL S2 Mumbai Highlights</title>
+</programme>
+<programme start="20260328223000 +0000" stop="20260328230000 +0000" channel="SPOTV 2 HD.mncvision">
+    <title>2025/26 ALM Mini Match</title>
+</programme>
+<programme start="20260328230000 +0000" stop="20260328233000 +0000" channel="SPOTV 2 HD.mncvision">
+    <title>WPBL S2 Mumbai Highlights</title>
+</programme>
+<programme start="20260328233000 +0000" stop="20260329013000 +0000" channel="SPOTV 2 HD.mncvision">
+    <title>World Baseball Classic</title>
+</programme>
+<programme start="20260329013000 +0000" stop="20260329033000 +0000" channel="SPOTV 2 HD.mncvision">
+    <title>A-League Men: PER Vs MCY</title>
+</programme>
+<programme start="20260329033000 +0000" stop="20260329064500 +0000" channel="SPOTV 2 HD.mncvision">
+    <title>MotoGP Red Bull GP Of The U.S</title>
+</programme>
+<programme start="20260329064500 +0000" stop="20260329100000 +0000" channel="SPOTV 2 HD.mncvision">
+    <title>MotoGP Red Bull GP Of The U.S</title>
+</programme>
+<programme start="20260329100000 +0000" stop="20260329123000 +0000" channel="SPOTV 2 HD.mncvision">
+    <title>2026 MLB: LAD Vs ARI</title>
+</programme>
+<programme start="20260329123000 +0000" stop="20260329133000 +0000" channel="SPOTV 2 HD.mncvision">
+    <title>World Baseball Classic Recap</title>
+</programme>
+<programme start="20260329133000 +0000" stop="20260329140000 +0000" channel="SPOTV 2 HD.mncvision">
+    <title>2025/26 A-League Men HL</title>
+</programme>
+<programme start="20260329140000 +0000" stop="20260329143500 +0000" channel="SPOTV 2 HD.mncvision">
+    <title>MotoGP Hall Of Fame Dinner</title>
+</programme>
+<programme start="20260329143500 +0000" stop="20260329153500 +0000" channel="SPOTV 2 HD.mncvision">
+    <title>Harley-Davidson Bagger Cup (L)</title>
+</programme>
+<programme start="20260329153500 +0000" stop="20260329164500 +0000" channel="SPOTV 2 HD.mncvision">
+    <title>MotoGP Red Bull Grand Prix (L)</title>
+</programme>
+<programme start="20260329164500 +0000" stop="20260328171500 +0000" channel="SPOTV 2 HD.mncvision">
+    <title>MotoGP Red Bull Grand Prix (L)</title>
+</programme>
+<programme start="20260328180000 +0000" stop="20260328200000 +0000" channel="SPOTV HD.mncvision">
+    <title>25/26 ROSHN Saudi League</title>
+</programme>
+<programme start="20260328200000 +0000" stop="20260328211500 +0000" channel="SPOTV HD.mncvision">
+    <title>Formula E S12: Madrid</title>
+</programme>
+<programme start="20260328211500 +0000" stop="20260328221500 +0000" channel="SPOTV HD.mncvision">
+    <title>Formula E S12: Madrid</title>
+</programme>
+<programme start="20260328221500 +0000" stop="20260329001500 +0000" channel="SPOTV HD.mncvision">
+    <title>Formula E S12: Madrid</title>
+</programme>
+<programme start="20260329001500 +0000" stop="20260329030000 +0000" channel="SPOTV HD.mncvision">
+    <title>Formula E S12: Madrid</title>
+</programme>
+<programme start="20260329030000 +0000" stop="20260329054500 +0000" channel="SPOTV HD.mncvision">
+    <title>2026 Rolex Grand Slam</title>
+</programme>
+<programme start="20260329054500 +0000" stop="20260329095500 +0000" channel="SPOTV HD.mncvision">
+    <title>2026 Gold Coast T100</title>
+</programme>
+<programme start="20260329095500 +0000" stop="20260329105000 +0000" channel="SPOTV HD.mncvision">
+    <title>2026 WorldSBK: Portuguese (L)</title>
+</programme>
+<programme start="20260329105000 +0000" stop="20260329115000 +0000" channel="SPOTV HD.mncvision">
+    <title>2026 WorldWCR: Portuguese (L)</title>
+</programme>
+<programme start="20260329115000 +0000" stop="20260329153000 +0000" channel="SPOTV HD.mncvision">
+    <title>2026 WorldSBK: Portuguese (L)</title>
+</programme>
+<programme start="20260329153000 +0000" stop="20260329160000 +0000" channel="SPOTV HD.mncvision">
+    <title>ALM Mini Match: PER Vs MCY</title>
+</programme>
+<programme start="20260329160000 +0000" stop="20260329163000 +0000" channel="SPOTV HD.mncvision">
+    <title>Meguiar&#039;s Bathurst 12 Hour HL</title>
+</programme>
 <programme start="20260328182500 +0000" stop="20260328201500 +0000" channel="Studio Universal.mncvision">
     <title>Skyscraper</title>
 </programme>
@@ -8191,7 +8683,45 @@ Error: Unable to fetch data. HTTP Status Code: 500
 <programme start="20260329163000 +0000" stop="20260328170000 +0000" channel="Studio Universal HD.mncvision">
     <title>The Huntsman: Winter&#039;s War</title>
 </programme>
-Error: Unable to fetch data. HTTP Status Code: 500
+<programme start="20260328172600 +0000" stop="20260328192700 +0000" channel="Superrix.mncvision">
+    <title>Platinum</title>
+</programme>
+<programme start="20260328192700 +0000" stop="20260328210700 +0000" channel="Superrix.mncvision">
+    <title>Formentera Lady</title>
+</programme>
+<programme start="20260328210700 +0000" stop="20260328230800 +0000" channel="Superrix.mncvision">
+    <title>Gold</title>
+</programme>
+<programme start="20260328230800 +0000" stop="20260329010000 +0000" channel="Superrix.mncvision">
+    <title>SUPERRIX</title>
+</programme>
+<programme start="20260329010000 +0000" stop="20260329025100 +0000" channel="Superrix.mncvision">
+    <title>SUPERRIX</title>
+</programme>
+<programme start="20260329025100 +0000" stop="20260329044600 +0000" channel="Superrix.mncvision">
+    <title>SUPERRIX</title>
+</programme>
+<programme start="20260329044600 +0000" stop="20260329065400 +0000" channel="Superrix.mncvision">
+    <title>SUPERRIX</title>
+</programme>
+<programme start="20260329065400 +0000" stop="20260329084500 +0000" channel="Superrix.mncvision">
+    <title>SUPERRIX</title>
+</programme>
+<programme start="20260329084500 +0000" stop="20260329105900 +0000" channel="Superrix.mncvision">
+    <title>SUPERRIX</title>
+</programme>
+<programme start="20260329105900 +0000" stop="20260329124800 +0000" channel="Superrix.mncvision">
+    <title>SUPERRIX</title>
+</programme>
+<programme start="20260329124800 +0000" stop="20260329144200 +0000" channel="Superrix.mncvision">
+    <title>SUPERRIX</title>
+</programme>
+<programme start="20260329144200 +0000" stop="20260329160600 +0000" channel="Superrix.mncvision">
+    <title>SUPERRIX</title>
+</programme>
+<programme start="20260329160600 +0000" stop="20260329163600 +0000" channel="Superrix.mncvision">
+    <title>SUPERRIX</title>
+</programme>
 <programme start="20260328172600 +0000" stop="20260328192700 +0000" channel="Superrix HD.mncvision">
     <title>Platinum</title>
 </programme>
