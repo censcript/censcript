@@ -106,6 +106,10 @@
     <title>Football: Atalanta - Hellas Verona</title>
     <desc>Live: Tidak</desc>
 </programme>
+<programme start="20260330151000 +0700" stop="20260330171000 +0700" channel="COSMOTE Sport 2 HD">
+    <title>Football: Parma - Cremonese</title>
+    <desc>Live: Tidak</desc>
+</programme>
 <programme start="20260329140000 +0700" stop="20260329160000 +0700" channel="COSMOTE Sport 3 HD">
     <title>Football: Fulham - Southampton</title>
     <desc>Live: Tidak</desc>
@@ -218,14 +222,6 @@
     <title>Basketball: Varese - Bertram Derthona Tortona</title>
     <desc>Live: Tidak</desc>
 </programme>
-<programme start="20260329125500 +0700" stop="20260329141000 +0700" channel="COSMOTE Sport 5 HD">
-    <title>2026 Grand Prix Show</title>
-    <desc>Live: Tidak</desc>
-</programme>
-<programme start="20260329141000 +0700" stop="20260329150000 +0700" channel="COSMOTE Sport 5 HD">
-    <title>Motorsports: Moto3 2026</title>
-    <desc>Live: Tidak</desc>
-</programme>
 <programme start="20260329150000 +0700" stop="20260329155000 +0700" channel="COSMOTE Sport 5 HD">
     <title>Motorsports: Moto2 2026</title>
     <desc>Live: Tidak</desc>
@@ -330,8 +326,8 @@
     <title>WRC 2026</title>
     <desc>Live: Tidak</desc>
 </programme>
-<programme start="20260329130500 +0700" stop="20260329150000 +0700" channel="COSMOTE Sport 6 HD">
-    <title>Premier Padel Tour 2025</title>
+<programme start="20260330152000 +0700" stop="20260330162000 +0700" channel="COSMOTE Sport 5 HD">
+    <title>WRC</title>
     <desc>Live: Tidak</desc>
 </programme>
 <programme start="20260329150000 +0700" stop="20260329173000 +0700" channel="COSMOTE Sport 6 HD">
@@ -350,8 +346,12 @@
     <title>Sports Classics: Worldies E18</title>
     <desc>Live: Tidak</desc>
 </programme>
-<programme start="20260329194500 +0700" stop="20260329221500 +0700" channel="COSMOTE Sport 6 HD">
+<programme start="20260329194500 +0700" stop="20260329213500 +0700" channel="COSMOTE Sport 6 HD">
     <title>Tennis: Harri Heliovaara/Henry Patten - Simone Bolelli/Andrea Vavassori</title>
+    <desc>Live: Tidak</desc>
+</programme>
+<programme start="20260329213500 +0700" stop="20260329221500 +0700" channel="COSMOTE Sport 6 HD">
+    <title>Watersports: Inside Sailing 2026 E2</title>
     <desc>Live: Tidak</desc>
 </programme>
 <programme start="20260329221500 +0700" stop="20260329234500 +0700" channel="COSMOTE Sport 6 HD">
@@ -392,6 +392,10 @@
 </programme>
 <programme start="20260330125500 +0700" stop="20260330150000 +0700" channel="COSMOTE Sport 6 HD">
     <title>Athletics: World Athletics Continental Tour Gold 2025</title>
+    <desc>Live: Tidak</desc>
+</programme>
+<programme start="20260330150000 +0700" stop="20260330173000 +0700" channel="COSMOTE Sport 6 HD">
+    <title>Tennis: Jiri Lehecka - Jannik Sinner</title>
     <desc>Live: Tidak</desc>
 </programme>
 <programme start="20260329140000 +0700" stop="20260329160000 +0700" channel="COSMOTE Sport 7 HD">
