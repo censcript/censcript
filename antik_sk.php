@@ -919,31 +919,31 @@
   <programme start="20260331215500 +0000" stop="20260331224000 +0000" channel="Markíza Klasik.webtv.sk">
     <title lang="id">Walker, texaský ranger I (1)</title>
   </programme>
-  <programme start="20260330203000 +0000" stop="20260330222500 +0000" channel="DajTo.webtv.sk">
+  <programme start="20260330203000 +0000" stop="20260330222000 +0000" channel="DajTo.webtv.sk">
     <title lang="id">Na love</title>
   </programme>
-  <programme start="20260330222500 +0000" stop="20260330224500 +0000" channel="DajTo.webtv.sk">
+  <programme start="20260330222000 +0000" stop="20260330224000 +0000" channel="DajTo.webtv.sk">
     <title lang="id">Dajto v pokri z Card Casina (63)</title>
   </programme>
-  <programme start="20260330224500 +0000" stop="20260330230000 +0000" channel="DajTo.webtv.sk">
+  <programme start="20260330224000 +0000" stop="20260330225500 +0000" channel="DajTo.webtv.sk">
     <title lang="id">Športové noviny</title>
   </programme>
-  <programme start="20260330230000 +0000" stop="20260330233500 +0000" channel="DajTo.webtv.sk">
+  <programme start="20260330225500 +0000" stop="20260330233000 +0000" channel="DajTo.webtv.sk">
     <title lang="id">Susedia (19)</title>
   </programme>
-  <programme start="20260330233500 +0000" stop="20260331002000 +0000" channel="DajTo.webtv.sk">
+  <programme start="20260330233000 +0000" stop="20260331001500 +0000" channel="DajTo.webtv.sk">
     <title lang="id">Horná Dolná I (3)</title>
   </programme>
-  <programme start="20260331002000 +0000" stop="20260331010500 +0000" channel="DajTo.webtv.sk">
+  <programme start="20260331001500 +0000" stop="20260331010000 +0000" channel="DajTo.webtv.sk">
     <title lang="id">Horná Dolná I (4)</title>
   </programme>
-  <programme start="20260331010500 +0000" stop="20260331021500 +0000" channel="DajTo.webtv.sk">
+  <programme start="20260331010000 +0000" stop="20260331021000 +0000" channel="DajTo.webtv.sk">
     <title lang="id">Smiechoty (4)</title>
   </programme>
-  <programme start="20260331021500 +0000" stop="20260331025500 +0000" channel="DajTo.webtv.sk">
+  <programme start="20260331021000 +0000" stop="20260331025000 +0000" channel="DajTo.webtv.sk">
     <title lang="id">Zig a Sharko</title>
   </programme>
-  <programme start="20260331025500 +0000" stop="20260331030500 +0000" channel="DajTo.webtv.sk">
+  <programme start="20260331025000 +0000" stop="20260331030500 +0000" channel="DajTo.webtv.sk">
     <title lang="id">Bernieho dobrodružstvá</title>
   </programme>
   <programme start="20260331030500 +0000" stop="20260331040000 +0000" channel="DajTo.webtv.sk">
@@ -5344,63 +5344,6 @@
   <programme start="20260331210000 +0000" stop="20260331220000 +0000" channel="Eurosport 1.webtv.sk">
     <title lang="id">Skoky na lyžích: SP v Planici</title>
   </programme>
-  <programme start="20260330200000 +0000" stop="20260330230000 +0000" channel="Eurosport 2.webtv.sk">
-    <title lang="id">Curling: Mistrovství světa mužů – základní část Itálie</title>
-  </programme>
-  <programme start="20260330230000 +0000" stop="20260330233000 +0000" channel="Eurosport 2.webtv.sk">
-    <title lang="id">Snooker: Tour Championship</title>
-  </programme>
-  <programme start="20260330233000 +0000" stop="20260331010000 +0000" channel="Eurosport 2.webtv.sk">
-    <title lang="id">Snowboarding: SP v Mont-Sainte-Anne</title>
-  </programme>
-  <programme start="20260331010000 +0000" stop="20260331023000 +0000" channel="Eurosport 2.webtv.sk">
-    <title lang="id">Snooker: Tour Championship</title>
-  </programme>
-  <programme start="20260331023000 +0000" stop="20260331033000 +0000" channel="Eurosport 2.webtv.sk">
-    <title lang="id">Skoky na lyžích: SP v Planici</title>
-  </programme>
-  <programme start="20260331033000 +0000" stop="20260331043000 +0000" channel="Eurosport 2.webtv.sk">
-    <title lang="id">Snowboarding: SP v Mont-Sainte-Anne</title>
-  </programme>
-  <programme start="20260331043000 +0000" stop="20260331063000 +0000" channel="Eurosport 2.webtv.sk">
-    <title lang="id">Snooker: Tour Championship</title>
-  </programme>
-  <programme start="20260331063000 +0000" stop="20260331083000 +0000" channel="Eurosport 2.webtv.sk">
-    <title lang="id">Skoky na lyžích: SP v Planici</title>
-  </programme>
-  <programme start="20260331083000 +0000" stop="20260331103000 +0000" channel="Eurosport 2.webtv.sk">
-    <title lang="id">Snooker: Tour Championship</title>
-  </programme>
-  <programme start="20260331103000 +0000" stop="20260331120000 +0000" channel="Eurosport 2.webtv.sk">
-    <title lang="id">Skoky na lyžích: SP v Planici</title>
-  </programme>
-  <programme start="20260331120000 +0000" stop="20260331131500 +0000" channel="Eurosport 2.webtv.sk">
-    <title lang="id">Cyklistika: Okolo Katalánska</title>
-  </programme>
-  <programme start="20260331131500 +0000" stop="20260331151500 +0000" channel="Eurosport 2.webtv.sk">
-    <title lang="id">Cyklistika: In Flanders Fields</title>
-  </programme>
-  <programme start="20260331151500 +0000" stop="20260331163000 +0000" channel="Eurosport 2.webtv.sk">
-    <title lang="id">Cyklistika: In Flanders Fields</title>
-  </programme>
-  <programme start="20260331163000 +0000" stop="20260331170000 +0000" channel="Eurosport 2.webtv.sk">
-    <title lang="id">Freestylové lyžování: SP v Silvaplaně</title>
-  </programme>
-  <programme start="20260331170000 +0000" stop="20260331180000 +0000" channel="Eurosport 2.webtv.sk">
-    <title lang="id">Silový trojboj: Mistrovství Evropy Classic</title>
-  </programme>
-  <programme start="20260331180000 +0000" stop="20260331184500 +0000" channel="Eurosport 2.webtv.sk">
-    <title lang="id">Cyklistika: In Flanders Fields</title>
-  </programme>
-  <programme start="20260331184500 +0000" stop="20260331193000 +0000" channel="Eurosport 2.webtv.sk">
-    <title lang="id">Cyklistika: Okolo Katalánska</title>
-  </programme>
-  <programme start="20260331193000 +0000" stop="20260331200000 +0000" channel="Eurosport 2.webtv.sk">
-    <title lang="id">Cyklistika: Cycling Show</title>
-  </programme>
-  <programme start="20260331200000 +0000" stop="20260331230000 +0000" channel="Eurosport 2.webtv.sk">
-    <title lang="id">Curling: Mistrovství světa mužů – základní část Itálie</title>
-  </programme>
   <programme start="20260330214500 +0000" stop="20260331001500 +0000" channel="Sport 1.webtv.sk">
     <title lang="id">Lední hokej</title>
   </programme>
@@ -8796,69 +8739,6 @@
   </programme>
   <programme start="20260331212000 +0000" stop="20260331220500 +0000" channel="HBO 2.webtv.sk">
     <title lang="id">Noční let II (5)</title>
-  </programme>
-  <programme start="20260330210500 +0000" stop="20260330224000 +0000" channel="HBO 3.webtv.sk">
-    <title lang="id">1992</title>
-  </programme>
-  <programme start="20260330224000 +0000" stop="20260331002000 +0000" channel="HBO 3.webtv.sk">
-    <title lang="id">Barbar</title>
-  </programme>
-  <programme start="20260331002000 +0000" stop="20260331012000 +0000" channel="HBO 3.webtv.sk">
-    <title lang="id">M.R.D. Saint Louis (5)</title>
-  </programme>
-  <programme start="20260331012000 +0000" stop="20260331015500 +0000" channel="HBO 3.webtv.sk">
-    <title lang="id">Kohout (4)</title>
-  </programme>
-  <programme start="20260331015500 +0000" stop="20260331023500 +0000" channel="HBO 3.webtv.sk">
-    <title lang="id">Návrat na výsluní III (2)</title>
-  </programme>
-  <programme start="20260331023500 +0000" stop="20260331040000 +0000" channel="HBO 3.webtv.sk">
-    <title lang="id">Paničky ze Severního pólu</title>
-  </programme>
-  <programme start="20260331040000 +0000" stop="20260331054500 +0000" channel="HBO 3.webtv.sk">
-    <title lang="id">Sbohem Kryštůfku Robine</title>
-  </programme>
-  <programme start="20260331054500 +0000" stop="20260331071000 +0000" channel="HBO 3.webtv.sk">
-    <title lang="id">Vánoce v Říši divů</title>
-  </programme>
-  <programme start="20260331071000 +0000" stop="20260331091500 +0000" channel="HBO 3.webtv.sk">
-    <title lang="id">P.S. Miluji Tě</title>
-  </programme>
-  <programme start="20260331091500 +0000" stop="20260331101000 +0000" channel="HBO 3.webtv.sk">
-    <title lang="id">Lovecraftova země (9)</title>
-  </programme>
-  <programme start="20260331101000 +0000" stop="20260331114500 +0000" channel="HBO 3.webtv.sk">
-    <title lang="id">Exmanželé</title>
-  </programme>
-  <programme start="20260331114500 +0000" stop="20260331124500 +0000" channel="HBO 3.webtv.sk">
-    <title lang="id">1000% já: Smíšená výchova</title>
-  </programme>
-  <programme start="20260331124500 +0000" stop="20260331145000 +0000" channel="HBO 3.webtv.sk">
-    <title lang="id">Karate Kid</title>
-  </programme>
-  <programme start="20260331145000 +0000" stop="20260331170500 +0000" channel="HBO 3.webtv.sk">
-    <title lang="id">Karate Kid</title>
-  </programme>
-  <programme start="20260331170500 +0000" stop="20260331173500 +0000" channel="HBO 3.webtv.sk">
-    <title lang="id">Ve jménu našeho Pána II (2)</title>
-  </programme>
-  <programme start="20260331173500 +0000" stop="20260331181000 +0000" channel="HBO 3.webtv.sk">
-    <title lang="id">Ve jménu našeho Pána II (3)</title>
-  </programme>
-  <programme start="20260331181000 +0000" stop="20260331190000 +0000" channel="HBO 3.webtv.sk">
-    <title lang="id">Veliká (7)</title>
-  </programme>
-  <programme start="20260331190000 +0000" stop="20260331195000 +0000" channel="HBO 3.webtv.sk">
-    <title lang="id">Spalující rivalita I (1)</title>
-  </programme>
-  <programme start="20260331195000 +0000" stop="20260331205000 +0000" channel="HBO 3.webtv.sk">
-    <title lang="id">Rod Draka (7)</title>
-  </programme>
-  <programme start="20260331205000 +0000" stop="20260331213500 +0000" channel="HBO 3.webtv.sk">
-    <title lang="id">Peacemaker II (1)</title>
-  </programme>
-  <programme start="20260331213500 +0000" stop="20260331231000 +0000" channel="HBO 3.webtv.sk">
-    <title lang="id">Společník</title>
   </programme>
   <programme start="20260330213000 +0000" stop="20260330225500 +0000" channel="Cinemax.webtv.sk">
     <title lang="id">Sen o lvech</title>
@@ -17902,180 +17782,6 @@
   <programme start="20260331215800 +0000" stop="20260331220000 +0000" channel="NHK World Japan.webtv.sk">
     <title lang="id">INFO</title>
   </programme>
-  <programme start="20260330220000 +0000" stop="20260330222000 +0000" channel="Arirang TV.webtv.sk">
-    <title lang="id">The Grand Heritage Asmr</title>
-  </programme>
-  <programme start="20260330222000 +0000" stop="20260330223000 +0000" channel="Arirang TV.webtv.sk">
-    <title lang="id">The Living Sea Of Jeju</title>
-  </programme>
-  <programme start="20260330223000 +0000" stop="20260330224000 +0000" channel="Arirang TV.webtv.sk">
-    <title lang="id">K-chat: Conversing In Korean</title>
-  </programme>
-  <programme start="20260330224000 +0000" stop="20260330225000 +0000" channel="Arirang TV.webtv.sk">
-    <title lang="id">K-chat: Travel In Korea</title>
-  </programme>
-  <programme start="20260330225000 +0000" stop="20260330230000 +0000" channel="Arirang TV.webtv.sk">
-    <title lang="id">Exploring Korean Literature A</title>
-  </programme>
-  <programme start="20260330230000 +0000" stop="20260330232000 +0000" channel="Arirang TV.webtv.sk">
-    <title lang="id">K-arts Artists</title>
-  </programme>
-  <programme start="20260330232000 +0000" stop="20260330233000 +0000" channel="Arirang TV.webtv.sk">
-    <title lang="id">Exploring Korean Literature B</title>
-  </programme>
-  <programme start="20260330233000 +0000" stop="20260330235000 +0000" channel="Arirang TV.webtv.sk">
-    <title lang="id">K-culture Minutes: K-people</title>
-  </programme>
-  <programme start="20260330235000 +0000" stop="20260331000000 +0000" channel="Arirang TV.webtv.sk">
-    <title lang="id">Smartbiz Accel 2</title>
-  </programme>
-  <programme start="20260331000000 +0000" stop="20260331003000 +0000" channel="Arirang TV.webtv.sk">
-    <title lang="id">Premium Collection A</title>
-  </programme>
-  <programme start="20260331003000 +0000" stop="20260331010000 +0000" channel="Arirang TV.webtv.sk">
-    <title lang="id">Trip In Korea</title>
-  </programme>
-  <programme start="20260331010000 +0000" stop="20260331013000 +0000" channel="Arirang TV.webtv.sk">
-    <title lang="id">New Day At Arirang</title>
-  </programme>
-  <programme start="20260331013000 +0000" stop="20260331020000 +0000" channel="Arirang TV.webtv.sk">
-    <title lang="id">News Generation</title>
-  </programme>
-  <programme start="20260331020000 +0000" stop="20260331030000 +0000" channel="Arirang TV.webtv.sk">
-    <title lang="id">Culture Crunch</title>
-  </programme>
-  <programme start="20260331030000 +0000" stop="20260331033000 +0000" channel="Arirang TV.webtv.sk">
-    <title lang="id">Arirang News 12:00</title>
-  </programme>
-  <programme start="20260331033000 +0000" stop="20260331040000 +0000" channel="Arirang TV.webtv.sk">
-    <title lang="id">Diplomat&apos;s Archive: Hidden Stories</title>
-  </programme>
-  <programme start="20260331040000 +0000" stop="20260331045000 +0000" channel="Arirang TV.webtv.sk">
-    <title lang="id">Gugak The Music Of Korea</title>
-  </programme>
-  <programme start="20260331045000 +0000" stop="20260331050000 +0000" channel="Arirang TV.webtv.sk">
-    <title lang="id">Heritage Walks With Little Friend</title>
-  </programme>
-  <programme start="20260331050000 +0000" stop="20260331053000 +0000" channel="Arirang TV.webtv.sk">
-    <title lang="id">K-culture Dive</title>
-  </programme>
-  <programme start="20260331053000 +0000" stop="20260331060000 +0000" channel="Arirang TV.webtv.sk">
-    <title lang="id">News Generation</title>
-  </programme>
-  <programme start="20260331060000 +0000" stop="20260331063000 +0000" channel="Arirang TV.webtv.sk">
-    <title lang="id">Regional Tastes: Gangwon</title>
-  </programme>
-  <programme start="20260331063000 +0000" stop="20260331070000 +0000" channel="Arirang TV.webtv.sk">
-    <title lang="id">Trip In Korea</title>
-  </programme>
-  <programme start="20260331070000 +0000" stop="20260331070500 +0000" channel="Arirang TV.webtv.sk">
-    <title lang="id">Ai Headline News 16:00</title>
-  </programme>
-  <programme start="20260331070500 +0000" stop="20260331074000 +0000" channel="Arirang TV.webtv.sk">
-    <title lang="id">Diplomat&apos;s Archive: Hidden Stories</title>
-  </programme>
-  <programme start="20260331074000 +0000" stop="20260331080000 +0000" channel="Arirang TV.webtv.sk">
-    <title lang="id">K-culture Minutes: K-people</title>
-  </programme>
-  <programme start="20260331080000 +0000" stop="20260331083000 +0000" channel="Arirang TV.webtv.sk">
-    <title lang="id">The Daily Report</title>
-  </programme>
-  <programme start="20260331083000 +0000" stop="20260331090000 +0000" channel="Arirang TV.webtv.sk">
-    <title lang="id">Press Perspective</title>
-  </programme>
-  <programme start="20260331090000 +0000" stop="20260331095000 +0000" channel="Arirang TV.webtv.sk">
-    <title lang="id">Gugak The Music Of Korea</title>
-  </programme>
-  <programme start="20260331095000 +0000" stop="20260331100000 +0000" channel="Arirang TV.webtv.sk">
-    <title lang="id">Heritage Walks With Little Friend</title>
-  </programme>
-  <programme start="20260331100000 +0000" stop="20260331103000 +0000" channel="Arirang TV.webtv.sk">
-    <title lang="id">Regional Tastes: Gangwon</title>
-  </programme>
-  <programme start="20260331103000 +0000" stop="20260331110000 +0000" channel="Arirang TV.webtv.sk">
-    <title lang="id">Premium Collection A</title>
-  </programme>
-  <programme start="20260331110000 +0000" stop="20260331113000 +0000" channel="Arirang TV.webtv.sk">
-    <title lang="id">Newscenter</title>
-  </programme>
-  <programme start="20260331113000 +0000" stop="20260331120000 +0000" channel="Arirang TV.webtv.sk">
-    <title lang="id">Within The Frame</title>
-  </programme>
-  <programme start="20260331120000 +0000" stop="20260331123000 +0000" channel="Arirang TV.webtv.sk">
-    <title lang="id">K-culture Dive</title>
-  </programme>
-  <programme start="20260331123000 +0000" stop="20260331125000 +0000" channel="Arirang TV.webtv.sk">
-    <title lang="id">K-culture Minutes: K-people</title>
-  </programme>
-  <programme start="20260331125000 +0000" stop="20260331130000 +0000" channel="Arirang TV.webtv.sk">
-    <title lang="id">The Living Sea Of Jeju</title>
-  </programme>
-  <programme start="20260331130000 +0000" stop="20260331130500 +0000" channel="Arirang TV.webtv.sk">
-    <title lang="id">Ai Headline News 22:00</title>
-  </programme>
-  <programme start="20260331130500 +0000" stop="20260331134000 +0000" channel="Arirang TV.webtv.sk">
-    <title lang="id">Trip In Korea</title>
-  </programme>
-  <programme start="20260331134000 +0000" stop="20260331140000 +0000" channel="Arirang TV.webtv.sk">
-    <title lang="id">Korea Travelogue 4</title>
-  </programme>
-  <programme start="20260331140000 +0000" stop="20260331143000 +0000" channel="Arirang TV.webtv.sk">
-    <title lang="id">Press Perspective</title>
-  </programme>
-  <programme start="20260331143000 +0000" stop="20260331150000 +0000" channel="Arirang TV.webtv.sk">
-    <title lang="id">Diplomat&apos;s Archive: Hidden Stories</title>
-  </programme>
-  <programme start="20260331150000 +0000" stop="20260331155000 +0000" channel="Arirang TV.webtv.sk">
-    <title lang="id">Gugak The Music Of Korea</title>
-  </programme>
-  <programme start="20260331155000 +0000" stop="20260331160000 +0000" channel="Arirang TV.webtv.sk">
-    <title lang="id">Heritage Walks With Little Friend</title>
-  </programme>
-  <programme start="20260331160000 +0000" stop="20260331162000 +0000" channel="Arirang TV.webtv.sk">
-    <title lang="id">K-arts Artists</title>
-  </programme>
-  <programme start="20260331162000 +0000" stop="20260331163000 +0000" channel="Arirang TV.webtv.sk">
-    <title lang="id">Exploring Korean Literature A</title>
-  </programme>
-  <programme start="20260331163000 +0000" stop="20260331170000 +0000" channel="Arirang TV.webtv.sk">
-    <title lang="id">Premium Collection A</title>
-  </programme>
-  <programme start="20260331170000 +0000" stop="20260331173000 +0000" channel="Arirang TV.webtv.sk">
-    <title lang="id">K-culture Dive</title>
-  </programme>
-  <programme start="20260331173000 +0000" stop="20260331180000 +0000" channel="Arirang TV.webtv.sk">
-    <title lang="id">Within The Frame</title>
-  </programme>
-  <programme start="20260331180000 +0000" stop="20260331183000 +0000" channel="Arirang TV.webtv.sk">
-    <title lang="id">Discover World</title>
-  </programme>
-  <programme start="20260331183000 +0000" stop="20260331185000 +0000" channel="Arirang TV.webtv.sk">
-    <title lang="id">K-culture Minutes: K-people</title>
-  </programme>
-  <programme start="20260331185000 +0000" stop="20260331190000 +0000" channel="Arirang TV.webtv.sk">
-    <title lang="id">Exploring Korean Literature B</title>
-  </programme>
-  <programme start="20260331190000 +0000" stop="20260331195000 +0000" channel="Arirang TV.webtv.sk">
-    <title lang="id">Gugak The Music Of Korea</title>
-  </programme>
-  <programme start="20260331195000 +0000" stop="20260331200000 +0000" channel="Arirang TV.webtv.sk">
-    <title lang="id">Heritage Walks With Little Friend</title>
-  </programme>
-  <programme start="20260331200000 +0000" stop="20260331203000 +0000" channel="Arirang TV.webtv.sk">
-    <title lang="id">Diplomat&apos;s Archive: Hidden Stories</title>
-  </programme>
-  <programme start="20260331203000 +0000" stop="20260331210000 +0000" channel="Arirang TV.webtv.sk">
-    <title lang="id">Regional Tastes: Gangwon</title>
-  </programme>
-  <programme start="20260331210000 +0000" stop="20260331213000 +0000" channel="Arirang TV.webtv.sk">
-    <title lang="id">Press Perspective</title>
-  </programme>
-  <programme start="20260331213000 +0000" stop="20260331215000 +0000" channel="Arirang TV.webtv.sk">
-    <title lang="id">K-culture Minutes: K-people</title>
-  </programme>
-  <programme start="20260331215000 +0000" stop="20260331220000 +0000" channel="Arirang TV.webtv.sk">
-    <title lang="id">Discovering Korea: View</title>
-  </programme>
   <programme start="20260330220000 +0000" stop="20260330223000 +0000" channel="TRT World.webtv.sk">
     <title lang="id">News</title>
   </programme>
@@ -19548,6 +19254,114 @@
   </programme>
   <programme start="20260331213000 +0000" stop="20260331220000 +0000" channel="CGTN.webtv.sk">
     <title lang="id">The Hub With Wang Guan</title>
+  </programme>
+  <programme start="20260330220000 +0000" stop="20260330230000 +0000" channel="CGTN Documentary.webtv.sk">
+    <title lang="id">Stone Forest of Arshihaty (2)</title>
+  </programme>
+  <programme start="20260330230000 +0000" stop="20260330233000 +0000" channel="CGTN Documentary.webtv.sk">
+    <title lang="id">The Door-Opening Festival in Jingmai (2)</title>
+  </programme>
+  <programme start="20260330233000 +0000" stop="20260331000000 +0000" channel="CGTN Documentary.webtv.sk">
+    <title lang="id">The Legend of Sea Salt (5)</title>
+  </programme>
+  <programme start="20260331000000 +0000" stop="20260331010000 +0000" channel="CGTN Documentary.webtv.sk">
+    <title lang="id">A Legacy of Flavor · A Culinary Life 9/10</title>
+  </programme>
+  <programme start="20260331010000 +0000" stop="20260331013000 +0000" channel="CGTN Documentary.webtv.sk">
+    <title lang="id">Insiders (2)</title>
+  </programme>
+  <programme start="20260331013000 +0000" stop="20260331020000 +0000" channel="CGTN Documentary.webtv.sk">
+    <title lang="id">Protectors of the Plateau (2)</title>
+  </programme>
+  <programme start="20260331020000 +0000" stop="20260331030000 +0000" channel="CGTN Documentary.webtv.sk">
+    <title lang="id">In the Arms of the Yellow River (2)</title>
+  </programme>
+  <programme start="20260331030000 +0000" stop="20260331033000 +0000" channel="CGTN Documentary.webtv.sk">
+    <title lang="id">The Grand Canal (8)</title>
+  </programme>
+  <programme start="20260331033000 +0000" stop="20260331040000 +0000" channel="CGTN Documentary.webtv.sk">
+    <title lang="id">Thrill Seeker&apos;s Guide to China – Mount Siguniang</title>
+  </programme>
+  <programme start="20260331040000 +0000" stop="20260331050000 +0000" channel="CGTN Documentary.webtv.sk">
+    <title lang="id">Stone Forest of Arshihaty (2)</title>
+  </programme>
+  <programme start="20260331050000 +0000" stop="20260331053000 +0000" channel="CGTN Documentary.webtv.sk">
+    <title lang="id">The Door-Opening Festival in Jingmai (2)</title>
+  </programme>
+  <programme start="20260331053000 +0000" stop="20260331060000 +0000" channel="CGTN Documentary.webtv.sk">
+    <title lang="id">The Legend of Sea Salt (5)</title>
+  </programme>
+  <programme start="20260331060000 +0000" stop="20260331070000 +0000" channel="CGTN Documentary.webtv.sk">
+    <title lang="id">A Legacy of Flavor · A Culinary Life 9/10</title>
+  </programme>
+  <programme start="20260331070000 +0000" stop="20260331073000 +0000" channel="CGTN Documentary.webtv.sk">
+    <title lang="id">Insiders (2)</title>
+  </programme>
+  <programme start="20260331073000 +0000" stop="20260331080000 +0000" channel="CGTN Documentary.webtv.sk">
+    <title lang="id">Protectors of the Plateau (2)</title>
+  </programme>
+  <programme start="20260331080000 +0000" stop="20260331090000 +0000" channel="CGTN Documentary.webtv.sk">
+    <title lang="id">In the Arms of the Yellow River (2)</title>
+  </programme>
+  <programme start="20260331090000 +0000" stop="20260331093000 +0000" channel="CGTN Documentary.webtv.sk">
+    <title lang="id">The Grand Canal (8)</title>
+  </programme>
+  <programme start="20260331093000 +0000" stop="20260331100000 +0000" channel="CGTN Documentary.webtv.sk">
+    <title lang="id">Thrill Seeker&apos;s Guide to China – Mount Siguniang</title>
+  </programme>
+  <programme start="20260331100000 +0000" stop="20260331110000 +0000" channel="CGTN Documentary.webtv.sk">
+    <title lang="id">Stone Forest of Arshihaty (2)</title>
+  </programme>
+  <programme start="20260331110000 +0000" stop="20260331113000 +0000" channel="CGTN Documentary.webtv.sk">
+    <title lang="id">The Door-Opening Festival in Jingmai (2)</title>
+  </programme>
+  <programme start="20260331113000 +0000" stop="20260331120000 +0000" channel="CGTN Documentary.webtv.sk">
+    <title lang="id">The Legend of Sea Salt (5)</title>
+  </programme>
+  <programme start="20260331120000 +0000" stop="20260331130000 +0000" channel="CGTN Documentary.webtv.sk">
+    <title lang="id">A Legacy of Flavor · A Culinary Life 9/10</title>
+  </programme>
+  <programme start="20260331130000 +0000" stop="20260331133000 +0000" channel="CGTN Documentary.webtv.sk">
+    <title lang="id">Insiders (2)</title>
+  </programme>
+  <programme start="20260331133000 +0000" stop="20260331140000 +0000" channel="CGTN Documentary.webtv.sk">
+    <title lang="id">Protectors of the Plateau (2)</title>
+  </programme>
+  <programme start="20260331140000 +0000" stop="20260331150000 +0000" channel="CGTN Documentary.webtv.sk">
+    <title lang="id">In the Arms of the Yellow River (2)</title>
+  </programme>
+  <programme start="20260331150000 +0000" stop="20260331153000 +0000" channel="CGTN Documentary.webtv.sk">
+    <title lang="id">The Grand Canal (8)</title>
+  </programme>
+  <programme start="20260331153000 +0000" stop="20260331160000 +0000" channel="CGTN Documentary.webtv.sk">
+    <title lang="id">Thrill Seeker&apos;s Guide to China – Mount Siguniang</title>
+  </programme>
+  <programme start="20260331160000 +0000" stop="20260331170000 +0000" channel="CGTN Documentary.webtv.sk">
+    <title lang="id">Stone Forest of Arshihaty (2)</title>
+  </programme>
+  <programme start="20260331170000 +0000" stop="20260331173000 +0000" channel="CGTN Documentary.webtv.sk">
+    <title lang="id">The Door-Opening Festival in Jingmai (2)</title>
+  </programme>
+  <programme start="20260331173000 +0000" stop="20260331180000 +0000" channel="CGTN Documentary.webtv.sk">
+    <title lang="id">The Legend of Sea Salt (5)</title>
+  </programme>
+  <programme start="20260331180000 +0000" stop="20260331190000 +0000" channel="CGTN Documentary.webtv.sk">
+    <title lang="id">A Legacy of Flavor · A Culinary Life 9/10</title>
+  </programme>
+  <programme start="20260331190000 +0000" stop="20260331193000 +0000" channel="CGTN Documentary.webtv.sk">
+    <title lang="id">Insiders (2)</title>
+  </programme>
+  <programme start="20260331193000 +0000" stop="20260331200000 +0000" channel="CGTN Documentary.webtv.sk">
+    <title lang="id">Protectors of the Plateau (2)</title>
+  </programme>
+  <programme start="20260331200000 +0000" stop="20260331210000 +0000" channel="CGTN Documentary.webtv.sk">
+    <title lang="id">In the Arms of the Yellow River III:Nurtured by the River</title>
+  </programme>
+  <programme start="20260331210000 +0000" stop="20260331213000 +0000" channel="CGTN Documentary.webtv.sk">
+    <title lang="id">Between Heaven and Earth : Traveling Through Grasslands (1)</title>
+  </programme>
+  <programme start="20260331213000 +0000" stop="20260331220000 +0000" channel="CGTN Documentary.webtv.sk">
+    <title lang="id">&quot;The Belt and Road&quot;Initiative and Xinjiang (1)</title>
   </programme>
   <programme start="20260330205000 +0000" stop="20260331040000 +0000" channel="Óčko.webtv.sk">
     <title lang="id">ÓČKO FLIRT</title>
