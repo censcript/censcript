@@ -2910,37 +2910,37 @@ Warning: Undefined array key "et" in /usr/home/ManusiaBiasa/domains/manusiabiasa
 <programme start="20260329193000 +0000" stop="20260329220000 +0000" channel="Sky Sport Premier League HD.skyde">
     <title>Carabao Cup: FC Arsenal - Manchester City, Finale 2026 in Wembley</title>
 </programme>
-<programme start="20260329000000 +0000" stop="20260329023000 +0000" channel="Sky Sport Tennis HD.skyde">
+<programme start="20260328231500 +0000" stop="20260329023000 +0000" channel="Sky Sport Tennis HD.skyde">
     <title>WTA 1000: C. Gauff (USA) - A. Sabalenka, Miami Open presented by Itaú in Miami, Florida (USA), Finale</title>
 </programme>
 <programme start="20260329023000 +0000" stop="20260329050000 +0000" channel="Sky Sport Tennis HD.skyde">
     <title>ATP 250: Y. Hanfmann (GER) - L. Darderi (ITA), BCI Seguros Chile Open in Santiago (CHI), Finale</title>
 </programme>
-<programme start="20260329050000 +0000" stop="20260329073000 +0000" channel="Sky Sport Tennis HD.skyde">
+<programme start="20260329050000 +0000" stop="20260329064500 +0000" channel="Sky Sport Tennis HD.skyde">
     <title>ATP 1000: H. Heliovaara (FIN) / H. Patten (GBR) - S. Bolelli (ITA) / A. Vavassori (ITA), Miami Open presented by Itaú in Miami, Florida (USA), Doppelfinale,</title>
 </programme>
-<programme start="20260329073000 +0000" stop="20260329100000 +0000" channel="Sky Sport Tennis HD.skyde">
+<programme start="20260329064500 +0000" stop="20260329093000 +0000" channel="Sky Sport Tennis HD.skyde">
     <title>WTA 1000: C. Gauff (USA) - A. Sabalenka, Miami Open presented by Itaú in Miami, Florida (USA), Finale</title>
 </programme>
-<programme start="20260329100000 +0000" stop="20260329110000 +0000" channel="Sky Sport Tennis HD.skyde">
+<programme start="20260329093000 +0000" stop="20260329103000 +0000" channel="Sky Sport Tennis HD.skyde">
     <title>ATP 1000: Review Indian Wells</title>
 </programme>
-<programme start="20260329110000 +0000" stop="20260329113000 +0000" channel="Sky Sport Tennis HD.skyde">
+<programme start="20260329103000 +0000" stop="20260329110000 +0000" channel="Sky Sport Tennis HD.skyde">
     <title>WTA 1000: Review Indian Wells</title>
 </programme>
-<programme start="20260329113000 +0000" stop="20260329140000 +0000" channel="Sky Sport Tennis HD.skyde">
+<programme start="20260329110000 +0000" stop="20260329133000 +0000" channel="Sky Sport Tennis HD.skyde">
     <title>WTA 1000: C. Gauff (USA) - A. Sabalenka, Miami Open presented by Itaú in Miami, Florida (USA), Finale</title>
 </programme>
-<programme start="20260329140000 +0000" stop="20260329142500 +0000" channel="Sky Sport Tennis HD.skyde">
+<programme start="20260329140000 +0000" stop="20260329144000 +0000" channel="Sky Sport Tennis HD.skyde">
     <title>Tennis: Rafael Nadal - The No. 1 Story</title>
 </programme>
-<programme start="20260329142500 +0000" stop="20260329145000 +0000" channel="Sky Sport Tennis HD.skyde">
+<programme start="20260329144000 +0000" stop="20260329151000 +0000" channel="Sky Sport Tennis HD.skyde">
     <title>ATP: The Impossible Shot - Behind The Scenes</title>
 </programme>
-<programme start="20260329145000 +0000" stop="20260329165000 +0000" channel="Sky Sport Tennis HD.skyde">
+<programme start="20260329151000 +0000" stop="20260329164500 +0000" channel="Sky Sport Tennis HD.skyde">
     <title>ATP 1000: J. Lehecka (CZE) - A. Fils (FRA), Miami Open presented by Itaú in Miami, Florida (USA), Halbfinale 1</title>
 </programme>
-<programme start="20260329165000 +0000" stop="20260329185000 +0000" channel="Sky Sport Tennis HD.skyde">
+<programme start="20260329164500 +0000" stop="20260329185000 +0000" channel="Sky Sport Tennis HD.skyde">
     <title>ATP 1000: A. Zverev (GER) - J. Sinner (ITA), Miami Open presented by Itaú in Miami, Florida (USA), Halbfinale 2</title>
 </programme>
 <programme start="20260329185000 +0000" stop="20260329213000 +0000" channel="Sky Sport Tennis HD.skyde">
@@ -2949,7 +2949,7 @@ Warning: Undefined array key "et" in /usr/home/ManusiaBiasa/domains/manusiabiasa
 <programme start="20260329213000 +0000" stop="20260330000000 +0000" channel="Sky Sport Tennis HD.skyde">
     <title>WTA 1000: C. Gauff (USA) - A. Sabalenka, Miami Open presented by Itaú in Miami, Florida (USA), Finale</title>
 </programme>
-<programme start="20260329004500 +0000" stop="20260329020000 +0000" channel="Sky Sport Top Event HD.skyde">
+<programme start="20260329010000 +0000" stop="20260329020000 +0000" channel="Sky Sport Top Event HD.skyde">
     <title>Live NHL: Winnipeg Jets @ Colorado Avalanche</title>
 </programme>
 <programme start="20260329020000 +0000" stop="20260329021500 +0000" channel="Sky Sport Top Event HD.skyde">
@@ -3015,10 +3015,7 @@ Warning: Undefined array key "et" in /usr/home/ManusiaBiasa/domains/manusiabiasa
 <programme start="20260329213000 +0000" stop="20260329220000 +0000" channel="Sky Sport Top Event HD.skyde">
     <title>F1: Rennen Kompakt - GP Japan</title>
 </programme>
-<programme start="20260328230000 +0000" stop="20260329003000 +0000" channel="Sky Sport UHD.skyde">
-    <title>F1: 1. Freies Training - GP Japan</title>
-</programme>
-<programme start="20260329003000 +0000" stop="20260329010000 +0000" channel="Sky Sport UHD.skyde">
+<programme start="20260328233000 +0000" stop="20260329010000 +0000" channel="Sky Sport UHD.skyde">
     <title>F1: 2. Freies Training - GP Japan</title>
 </programme>
 <programme start="20260329010000 +0000" stop="20260329023000 +0000" channel="Sky Sport UHD.skyde">
@@ -3075,7 +3072,7 @@ Warning: Undefined array key "et" in /usr/home/ManusiaBiasa/domains/manusiabiasa
 <programme start="20260329160000 +0000" stop="20260329170000 +0000" channel="Sky Sport 1 HD.skyde">
     <title>NHL: On the Fly</title>
 </programme>
-<programme start="20260329170000 +0000" stop="20260329220000 +0000" channel="Sky Sport 1 HD.skyde">
+<programme start="20260329170000 +0000" stop="20260329200000 +0000" channel="Sky Sport 1 HD.skyde">
     <title>Live NHL: Florida Panthers @ New York Rangers</title>
 </programme>
 <programme start="20260328234000 +0000" stop="20260329002500 +0000" channel="SYFY HD.skyde">
