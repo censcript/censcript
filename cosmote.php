@@ -110,8 +110,12 @@
     <title>Football: AEK - Kifisia</title>
     <desc>Live: Tidak</desc>
 </programme>
-<programme start="20260330040000 +0700" stop="20260330060000 +0700" channel="COSMOTE Sport 3 HD">
-    <title>Football: Preston North End - Stoke City</title>
+<programme start="20260331061000 +0700" stop="20260331064000 +0700" channel="COSMOTE Sport 2 HD">
+    <title>Serie A Full Impact 2025-26 E30</title>
+    <desc>Live: Tidak</desc>
+</programme>
+<programme start="20260331064000 +0700" stop="20260331071000 +0700" channel="COSMOTE Sport 2 HD">
+    <title>Sports Classics: Ultimate Rush S5 E2</title>
     <desc>Live: Tidak</desc>
 </programme>
 <programme start="20260330060000 +0700" stop="20260330080000 +0700" channel="COSMOTE Sport 3 HD">
@@ -170,9 +174,9 @@
     <title>Football: Swansea City - Coventry City</title>
     <desc>Live: Tidak</desc>
 </programme>
-<programme start="20260330023000 +0700" stop="20260330053000 +0700" channel="COSMOTE Sport 4 HD">
-    <title>Basketball: Milwaukee Bucks - Los Angeles Clippers (L)</title>
-    <desc>Live: Ya</desc>
+<programme start="20260331060000 +0700" stop="20260331080000 +0700" channel="COSMOTE Sport 3 HD">
+    <title>Football: Leeds United - Norwich City</title>
+    <desc>Live: Tidak</desc>
 </programme>
 <programme start="20260330053000 +0700" stop="20260330060500 +0700" channel="COSMOTE Sport 4 HD">
     <title>NBA on Fire 2025-26 E22</title>
@@ -222,12 +226,8 @@
     <title>Basketball: Charlotte Hornets - Boston Celtics</title>
     <desc>Live: Tidak</desc>
 </programme>
-<programme start="20260330042000 +0700" stop="20260330051000 +0700" channel="COSMOTE Sport 5 HD">
-    <title>Harley-Davidson Bagger World Cup 2026</title>
-    <desc>Live: Tidak</desc>
-</programme>
-<programme start="20260330051000 +0700" stop="20260330060000 +0700" channel="COSMOTE Sport 5 HD">
-    <title>Harley-Davidson Bagger World Cup 2026</title>
+<programme start="20260331062000 +0700" stop="20260331083000 +0700" channel="COSMOTE Sport 4 HD">
+    <title>Basketball: Unicaja - Badalona</title>
     <desc>Live: Tidak</desc>
 </programme>
 <programme start="20260330060000 +0700" stop="20260330063000 +0700" channel="COSMOTE Sport 5 HD">
@@ -324,6 +324,10 @@
 </programme>
 <programme start="20260331053500 +0700" stop="20260331063500 +0700" channel="COSMOTE Sport 5 HD">
     <title>Highlights: 2025 Extreme H</title>
+    <desc>Live: Tidak</desc>
+</programme>
+<programme start="20260331063500 +0700" stop="20260331072500 +0700" channel="COSMOTE Sport 5 HD">
+    <title>ERC 2025</title>
     <desc>Live: Tidak</desc>
 </programme>
 <programme start="20260330043000 +0700" stop="20260330073000 +0700" channel="COSMOTE Sport 6 HD">
@@ -466,6 +470,10 @@
     <title>COSMOTESport7HD</title>
     <desc>Live: Tidak</desc>
 </programme>
+<programme start="20260331060000 +0700" stop="20260331080000 +0700" channel="COSMOTE Sport 7 HD">
+    <title>COSMOTESport7HD</title>
+    <desc>Live: Tidak</desc>
+</programme>
 <programme start="20260330050000 +0700" stop="20260330080000 +0700" channel="COSMOTE Sport 8 HD">
     <title>Basketball: Charlotte Hornets - Boston Celtics (L)</title>
     <desc>Live: Ya</desc>
@@ -522,8 +530,8 @@
     <title>COSMOTESport8HD</title>
     <desc>Live: Tidak</desc>
 </programme>
-<programme start="20260330040000 +0700" stop="20260330060000 +0700" channel="COSMOTE Sport 9 HD">
-    <title>COSMOTESport9HD</title>
+<programme start="20260331060000 +0700" stop="20260331080000 +0700" channel="COSMOTE Sport 8 HD">
+    <title>COSMOTESport8HD</title>
     <desc>Live: Tidak</desc>
 </programme>
 <programme start="20260330060000 +0700" stop="20260330080000 +0700" channel="COSMOTE Sport 9 HD">
@@ -571,6 +579,10 @@
     <desc>Live: Tidak</desc>
 </programme>
 <programme start="20260331040000 +0700" stop="20260331060000 +0700" channel="COSMOTE Sport 9 HD">
+    <title>COSMOTESport9HD</title>
+    <desc>Live: Tidak</desc>
+</programme>
+<programme start="20260331060000 +0700" stop="20260331080000 +0700" channel="COSMOTE Sport 9 HD">
     <title>COSMOTESport9HD</title>
     <desc>Live: Tidak</desc>
 </programme>
