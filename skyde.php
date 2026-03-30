@@ -277,10 +277,10 @@ Warning: Undefined array key "et" in /usr/home/ManusiaBiasa/domains/manusiabiasa
 <programme start="20260331071500 +0000" stop="20260331073000 +0000" channel="Cartoon Network.skyde">
     <title>Looney Tunes Cartoons</title>
 </programme>
-<programme start="20260331073000 +0000" stop="20260331075500 +0000" channel="Cartoon Network.skyde">
+<programme start="20260331073000 +0000" stop="20260331075000 +0000" channel="Cartoon Network.skyde">
     <title>Tiny Toons Looniversity</title>
 </programme>
-<programme start="20260331075500 +0000" stop="20260331080500 +0000" channel="Cartoon Network.skyde">
+<programme start="20260331075000 +0000" stop="20260331080500 +0000" channel="Cartoon Network.skyde">
     <title>Goat Girl</title>
 </programme>
 <programme start="20260331080500 +0000" stop="20260331081500 +0000" channel="Cartoon Network.skyde">
@@ -319,10 +319,10 @@ Warning: Undefined array key "et" in /usr/home/ManusiaBiasa/domains/manusiabiasa
 <programme start="20260331102500 +0000" stop="20260331103500 +0000" channel="Cartoon Network.skyde">
     <title>Clarence</title>
 </programme>
-<programme start="20260331103500 +0000" stop="20260331105000 +0000" channel="Cartoon Network.skyde">
+<programme start="20260331103500 +0000" stop="20260331104500 +0000" channel="Cartoon Network.skyde">
     <title>Die wunderbar schräge Welt von Gumball</title>
 </programme>
-<programme start="20260331105000 +0000" stop="20260331110000 +0000" channel="Cartoon Network.skyde">
+<programme start="20260331104500 +0000" stop="20260331110000 +0000" channel="Cartoon Network.skyde">
     <title>Die wunderbar schräge Welt von Gumball</title>
 </programme>
 <programme start="20260331110000 +0000" stop="20260331111000 +0000" channel="Cartoon Network.skyde">
@@ -616,10 +616,10 @@ Warning: Undefined array key "et" in /usr/home/ManusiaBiasa/domains/manusiabiasa
 <programme start="20260331063000 +0000" stop="20260331064500 +0000" channel="Cartoonito.skyde">
     <title>Mr. Bean - Die Cartoon-Serie</title>
 </programme>
-<programme start="20260331064500 +0000" stop="20260331065500 +0000" channel="Cartoonito.skyde">
+<programme start="20260331064500 +0000" stop="20260331070000 +0000" channel="Cartoonito.skyde">
     <title>Mr. Bean - Die Cartoon-Serie</title>
 </programme>
-<programme start="20260331065500 +0000" stop="20260331071500 +0000" channel="Cartoonito.skyde">
+<programme start="20260331070000 +0000" stop="20260331071500 +0000" channel="Cartoonito.skyde">
     <title>Mr. Bean - Die Cartoon-Serie</title>
 </programme>
 <programme start="20260331071500 +0000" stop="20260331072500 +0000" channel="Cartoonito.skyde">
@@ -694,10 +694,10 @@ Warning: Undefined array key "et" in /usr/home/ManusiaBiasa/domains/manusiabiasa
 <programme start="20260331122500 +0000" stop="20260331124000 +0000" channel="Cartoonito.skyde">
     <title>Mr. Bean - Die Cartoon-Serie</title>
 </programme>
-<programme start="20260331124000 +0000" stop="20260331125500 +0000" channel="Cartoonito.skyde">
+<programme start="20260331124000 +0000" stop="20260331125000 +0000" channel="Cartoonito.skyde">
     <title>Mr. Bean - Die Cartoon-Serie</title>
 </programme>
-<programme start="20260331125500 +0000" stop="20260331131000 +0000" channel="Cartoonito.skyde">
+<programme start="20260331125000 +0000" stop="20260331131000 +0000" channel="Cartoonito.skyde">
     <title>Mr. Bean - Die Cartoon-Serie</title>
 </programme>
 <programme start="20260331131000 +0000" stop="20260331132000 +0000" channel="Cartoonito.skyde">
@@ -727,10 +727,10 @@ Warning: Undefined array key "et" in /usr/home/ManusiaBiasa/domains/manusiabiasa
 <programme start="20260331145500 +0000" stop="20260331151000 +0000" channel="Cartoonito.skyde">
     <title>Mr. Bean - Die Cartoon-Serie</title>
 </programme>
-<programme start="20260331151000 +0000" stop="20260331152500 +0000" channel="Cartoonito.skyde">
+<programme start="20260331151000 +0000" stop="20260331152000 +0000" channel="Cartoonito.skyde">
     <title>Mr. Bean - Die Cartoon-Serie</title>
 </programme>
-<programme start="20260331152500 +0000" stop="20260331154000 +0000" channel="Cartoonito.skyde">
+<programme start="20260331152000 +0000" stop="20260331154000 +0000" channel="Cartoonito.skyde">
     <title>Mr. Bean - Die Cartoon-Serie</title>
 </programme>
 <programme start="20260331154000 +0000" stop="20260331155000 +0000" channel="Cartoonito.skyde">
@@ -757,13 +757,13 @@ Warning: Undefined array key "et" in /usr/home/ManusiaBiasa/domains/manusiabiasa
 <programme start="20260331171500 +0000" stop="20260331172500 +0000" channel="Cartoonito.skyde">
     <title>Mr. Bean - Die Cartoon-Serie</title>
 </programme>
-<programme start="20260331172500 +0000" stop="20260331174500 +0000" channel="Cartoonito.skyde">
+<programme start="20260331172500 +0000" stop="20260331174000 +0000" channel="Cartoonito.skyde">
     <title>Mr. Bean - Die Cartoon-Serie</title>
 </programme>
-<programme start="20260331174500 +0000" stop="20260331175500 +0000" channel="Cartoonito.skyde">
+<programme start="20260331174000 +0000" stop="20260331175000 +0000" channel="Cartoonito.skyde">
     <title>Mr. Bean - Die Cartoon-Serie</title>
 </programme>
-<programme start="20260331175500 +0000" stop="20260331181000 +0000" channel="Cartoonito.skyde">
+<programme start="20260331175000 +0000" stop="20260331181000 +0000" channel="Cartoonito.skyde">
     <title>Mr. Bean - Die Cartoon-Serie</title>
 </programme>
 <programme start="20260331181000 +0000" stop="20260331182000 +0000" channel="Cartoonito.skyde">
@@ -781,10 +781,10 @@ Warning: Undefined array key "et" in /usr/home/ManusiaBiasa/domains/manusiabiasa
 <programme start="20260331185500 +0000" stop="20260331190000 +0000" channel="Cartoonito.skyde">
     <title>Grizzy und die Lemminge</title>
 </programme>
-<programme start="20260331190000 +0000" stop="20260331191000 +0000" channel="Cartoonito.skyde">
+<programme start="20260331190000 +0000" stop="20260331190500 +0000" channel="Cartoonito.skyde">
     <title>Grizzy und die Lemminge</title>
 </programme>
-<programme start="20260331191000 +0000" stop="20260331192000 +0000" channel="Cartoonito.skyde">
+<programme start="20260331190500 +0000" stop="20260331192000 +0000" channel="Cartoonito.skyde">
     <title>Grizzy und die Lemminge</title>
 </programme>
 <programme start="20260331192000 +0000" stop="20260331193000 +0000" channel="Cartoonito.skyde">
@@ -3370,10 +3370,10 @@ Warning: Undefined array key "et" in /usr/home/ManusiaBiasa/domains/manusiabiasa
 <programme start="20260331063000 +0000" stop="20260331073000 +0000" channel="Sky Sport Tennis HD.skyde">
     <title>ATP 1000: Review Miami</title>
 </programme>
-<programme start="20260331073000 +0000" stop="20260331093000 +0000" channel="Sky Sport Tennis HD.skyde">
-    <title>ATP 250: A. Vukic (AUS) - T. Baadi (CAN) , 1. Tag</title>
+<programme start="20260331073000 +0000" stop="20260331080000 +0000" channel="Sky Sport Tennis HD.skyde">
+    <title>WTA 1000: Review Miami</title>
 </programme>
-<programme start="20260331093000 +0000" stop="20260401030000 +0000" channel="Sky Sport Tennis HD.skyde">
+<programme start="20260331080000 +0000" stop="20260401030000 +0000" channel="Sky Sport Tennis HD.skyde">
     <title>Live ATP &amp; WTA: Die Topspiele des Tages</title>
 </programme>
 <programme start="20260330220000 +0000" stop="20260330230000 +0000" channel="Sky Sport Top Event HD.skyde">
@@ -3406,16 +3406,10 @@ Warning: Undefined array key "et" in /usr/home/ManusiaBiasa/domains/manusiabiasa
 <programme start="20260331070000 +0000" stop="20260331073000 +0000" channel="Sky Sport Top Event HD.skyde">
     <title>WTA 1000: Review Miami</title>
 </programme>
-<programme start="20260331073000 +0000" stop="20260331083000 +0000" channel="Sky Sport Top Event HD.skyde">
-    <title>ATP 1000: Review Miami</title>
-</programme>
-<programme start="20260331083000 +0000" stop="20260331090000 +0000" channel="Sky Sport Top Event HD.skyde">
+<programme start="20260331073000 +0000" stop="20260331080000 +0000" channel="Sky Sport Top Event HD.skyde">
     <title>EFL: Highlights, 40. Spieltag</title>
 </programme>
-<programme start="20260331090000 +0000" stop="20260331093000 +0000" channel="Sky Sport Top Event HD.skyde">
-    <title>EFL: Highlights, 40. Spieltag</title>
-</programme>
-<programme start="20260331093000 +0000" stop="20260331230000 +0000" channel="Sky Sport Top Event HD.skyde">
+<programme start="20260331080000 +0000" stop="20260331230000 +0000" channel="Sky Sport Top Event HD.skyde">
     <title>Live ATP &amp; WTA: Die Topspiele des Tages</title>
 </programme>
 <programme start="20260331080000 +0000" stop="20260331093000 +0000" channel="Sky Sport UHD.skyde">
