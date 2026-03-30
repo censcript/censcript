@@ -7981,16 +7981,16 @@
     <programme start="20260329213000 +0000" stop="20260329223000 +0000" channel="SPOTV2.starhub">
         <title>Highlights</title>
     </programme>
-    <programme start="20260329223000 +0000" stop="20260330014500 +0000" channel="SPOTV2.starhub">
+    <programme start="20260329223000 +0000" stop="20260330015000 +0000" channel="SPOTV2.starhub">
         <title>Free Practice 2/Qualifying</title>
     </programme>
-    <programme start="20260330014500 +0000" stop="20260330050000 +0000" channel="SPOTV2.starhub">
+    <programme start="20260330015000 +0000" stop="20260330051100 +0000" channel="SPOTV2.starhub">
         <title>Qualifying/Sprint</title>
     </programme>
-    <programme start="20260330050000 +0000" stop="20260330053000 +0000" channel="SPOTV2.starhub">
+    <programme start="20260330051100 +0000" stop="20260330054100 +0000" channel="SPOTV2.starhub">
         <title>Review Show</title>
     </programme>
-    <programme start="20260330053000 +0000" stop="20260330073000 +0000" channel="SPOTV2.starhub">
+    <programme start="20260330054100 +0000" stop="20260330073000 +0000" channel="SPOTV2.starhub">
         <title>25/26 A-League Men Round 22 Perth Glory vs Melbourne City FC</title>
     </programme>
     <programme start="20260330073000 +0000" stop="20260330083000 +0000" channel="SPOTV2.starhub">

@@ -112,6 +112,153 @@
   <programme start="20260401213800 +0000" stop="20260401231000 +0000" channel="Jednotka.webtv.sk">
     <title lang="id">Doktorka Alexandra V (1)</title>
   </programme>
+  <programme start="20260331214500 +0000" stop="20260331223000 +0000" channel="Dvojka.webtv.sk">
+    <title lang="id">Prvá</title>
+  </programme>
+  <programme start="20260331223000 +0000" stop="20260331223200 +0000" channel="Dvojka.webtv.sk">
+    <title lang="id">Hymna SR</title>
+  </programme>
+  <programme start="20260331223200 +0000" stop="20260331232000 +0000" channel="Dvojka.webtv.sk">
+    <title lang="id">Správy</title>
+  </programme>
+  <programme start="20260331232000 +0000" stop="20260331232600 +0000" channel="Dvojka.webtv.sk">
+    <title lang="id">Hírek</title>
+  </programme>
+  <programme start="20260331232600 +0000" stop="20260401040500 +0000" channel="Dvojka.webtv.sk">
+    <title lang="id">Noční vysílání</title>
+  </programme>
+  <programme start="20260401040500 +0000" stop="20260401041500 +0000" channel="Dvojka.webtv.sk">
+    <title lang="id">Zázračný miniateliér</title>
+  </programme>
+  <programme start="20260401041500 +0000" stop="20260401043000 +0000" channel="Dvojka.webtv.sk">
+    <title lang="id">Andyho dobrodružstvá v prírode I</title>
+  </programme>
+  <programme start="20260401043000 +0000" stop="20260401043500 +0000" channel="Dvojka.webtv.sk">
+    <title lang="id">Slimák Maťo a škriatok Klinček</title>
+  </programme>
+  <programme start="20260401043500 +0000" stop="20260401044500 +0000" channel="Dvojka.webtv.sk">
+    <title lang="id">Slimák Maťo a škriatok Klinček</title>
+  </programme>
+  <programme start="20260401044500 +0000" stop="20260401045000 +0000" channel="Dvojka.webtv.sk">
+    <title lang="id">Lilin ostrov pokladov</title>
+  </programme>
+  <programme start="20260401045000 +0000" stop="20260401045500 +0000" channel="Dvojka.webtv.sk">
+    <title lang="id">Bluey III</title>
+  </programme>
+  <programme start="20260401045500 +0000" stop="20260401050500 +0000" channel="Dvojka.webtv.sk">
+    <title lang="id">Veselá farma II</title>
+  </programme>
+  <programme start="20260401050500 +0000" stop="20260401051500 +0000" channel="Dvojka.webtv.sk">
+    <title lang="id">Kniha džunglí I</title>
+  </programme>
+  <programme start="20260401051500 +0000" stop="20260401053000 +0000" channel="Dvojka.webtv.sk">
+    <title lang="id">Kniha džunglí I</title>
+  </programme>
+  <programme start="20260401053000 +0000" stop="20260401060000 +0000" channel="Dvojka.webtv.sk">
+    <title lang="id">Živá panoráma</title>
+  </programme>
+  <programme start="20260401060000 +0000" stop="20260401060500 +0000" channel="Dvojka.webtv.sk">
+    <title lang="id">Hírek</title>
+  </programme>
+  <programme start="20260401060500 +0000" stop="20260401063000 +0000" channel="Dvojka.webtv.sk">
+    <title lang="id">Dobrý deň, Patria - maďarsky</title>
+  </programme>
+  <programme start="20260401063000 +0000" stop="20260401070000 +0000" channel="Dvojka.webtv.sk">
+    <title lang="id">Kimondó</title>
+  </programme>
+  <programme start="20260401070000 +0000" stop="20260401075500 +0000" channel="Dvojka.webtv.sk">
+    <title lang="id">Regina</title>
+  </programme>
+  <programme start="20260401075500 +0000" stop="20260401093000 +0000" channel="Dvojka.webtv.sk">
+    <title lang="id">Četnícke humoresky II</title>
+  </programme>
+  <programme start="20260401093000 +0000" stop="20260401093500 +0000" channel="Dvojka.webtv.sk">
+    <title lang="id">Obedníček</title>
+  </programme>
+  <programme start="20260401093500 +0000" stop="20260401094000 +0000" channel="Dvojka.webtv.sk">
+    <title lang="id">Dimitri II</title>
+  </programme>
+  <programme start="20260401094000 +0000" stop="20260401095000 +0000" channel="Dvojka.webtv.sk">
+    <title lang="id">Pa a Pi</title>
+  </programme>
+  <programme start="20260401095000 +0000" stop="20260401100000 +0000" channel="Dvojka.webtv.sk">
+    <title lang="id">Trpaslíci</title>
+  </programme>
+  <programme start="20260401100000 +0000" stop="20260401101500 +0000" channel="Dvojka.webtv.sk">
+    <title lang="id">Živá panoráma</title>
+  </programme>
+  <programme start="20260401101500 +0000" stop="20260401103000 +0000" channel="Dvojka.webtv.sk">
+    <title lang="id">Cyklopotulky</title>
+  </programme>
+  <programme start="20260401103000 +0000" stop="20260401112000 +0000" channel="Dvojka.webtv.sk">
+    <title lang="id">Ruža z Herátu</title>
+  </programme>
+  <programme start="20260401112000 +0000" stop="20260401120000 +0000" channel="Dvojka.webtv.sk">
+    <title lang="id">Rozprávač</title>
+  </programme>
+  <programme start="20260401120000 +0000" stop="20260401125500 +0000" channel="Dvojka.webtv.sk">
+    <title lang="id">Caravaggio - v nádhere tieňov</title>
+  </programme>
+  <programme start="20260401125500 +0000" stop="20260401135500 +0000" channel="Dvojka.webtv.sk">
+    <title lang="id">Záhada obrazcov na planine Nazca</title>
+  </programme>
+  <programme start="20260401135500 +0000" stop="20260401143000 +0000" channel="Dvojka.webtv.sk">
+    <title lang="id">360° okolo sveta</title>
+  </programme>
+  <programme start="20260401143000 +0000" stop="20260401153000 +0000" channel="Dvojka.webtv.sk">
+    <title lang="id">Regina</title>
+  </programme>
+  <programme start="20260401153000 +0000" stop="20260401155500 +0000" channel="Dvojka.webtv.sk">
+    <title lang="id">Moja diagnóza</title>
+  </programme>
+  <programme start="20260401155500 +0000" stop="20260401163000 +0000" channel="Dvojka.webtv.sk">
+    <title lang="id">Moja diagnóza</title>
+  </programme>
+  <programme start="20260401163000 +0000" stop="20260401163500 +0000" channel="Dvojka.webtv.sk">
+    <title lang="id">Večerníček</title>
+  </programme>
+  <programme start="20260401163500 +0000" stop="20260401164000 +0000" channel="Dvojka.webtv.sk">
+    <title lang="id">Dimitri II</title>
+  </programme>
+  <programme start="20260401164000 +0000" stop="20260401165000 +0000" channel="Dvojka.webtv.sk">
+    <title lang="id">Bluey III</title>
+  </programme>
+  <programme start="20260401165000 +0000" stop="20260401165500 +0000" channel="Dvojka.webtv.sk">
+    <title lang="id">Lilin ostrov pokladov</title>
+  </programme>
+  <programme start="20260401165500 +0000" stop="20260401170000 +0000" channel="Dvojka.webtv.sk">
+    <title lang="id">Fidlibumove pokusy</title>
+  </programme>
+  <programme start="20260401170000 +0000" stop="20260401171000 +0000" channel="Dvojka.webtv.sk">
+    <title lang="id">Veselá farma II</title>
+  </programme>
+  <programme start="20260401171000 +0000" stop="20260401171500 +0000" channel="Dvojka.webtv.sk">
+    <title lang="id">Veselá farma II</title>
+  </programme>
+  <programme start="20260401171500 +0000" stop="20260401172500 +0000" channel="Dvojka.webtv.sk">
+    <title lang="id">Kniha džunglí I</title>
+  </programme>
+  <programme start="20260401172500 +0000" stop="20260401174000 +0000" channel="Dvojka.webtv.sk">
+    <title lang="id">Kniha džunglí I</title>
+  </programme>
+  <programme start="20260401174000 +0000" stop="20260401180000 +0000" channel="Dvojka.webtv.sk">
+    <title lang="id">Andyho dobrodružstvá v prírode I</title>
+  </programme>
+  <programme start="20260401180000 +0000" stop="20260401181000 +0000" channel="Dvojka.webtv.sk">
+    <title lang="id">Správy v slovenskom posunkovom jazyku</title>
+  </programme>
+  <programme start="20260401181000 +0000" stop="20260401190000 +0000" channel="Dvojka.webtv.sk">
+    <title lang="id">Zvieratá z Biblie</title>
+  </programme>
+  <programme start="20260401190000 +0000" stop="20260401195500 +0000" channel="Dvojka.webtv.sk">
+    <title lang="id">Nečakané tragédie</title>
+  </programme>
+  <programme start="20260401195500 +0000" stop="20260401204500 +0000" channel="Dvojka.webtv.sk">
+    <title lang="id">Do kríža</title>
+  </programme>
+  <programme start="20260401204500 +0000" stop="20260401224200 +0000" channel="Dvojka.webtv.sk">
+    <title lang="id">O BARIPEN - Le periben o Elena Lackovo</title>
+  </programme>
   <programme start="20260331214900 +0000" stop="20260331223500 +0000" channel=":24.webtv.sk">
     <title lang="id">Komentáre dňa</title>
   </programme>
@@ -4138,87 +4285,6 @@
   <programme start="20260401211500 +0000" stop="20260401222000 +0000" channel="Prima Cool SK.webtv.sk">
     <title lang="id">Top Gear XI (4)</title>
   </programme>
-  <programme start="20260331213000 +0000" stop="20260331223000 +0000" channel="Prima Love SK.webtv.sk">
-    <title lang="id">Velmi křehké vztahy III (49)</title>
-  </programme>
-  <programme start="20260331223000 +0000" stop="20260331232500 +0000" channel="Prima Love SK.webtv.sk">
-    <title lang="id">Velmi křehké vztahy III (50)</title>
-  </programme>
-  <programme start="20260331232500 +0000" stop="20260401001500 +0000" channel="Prima Love SK.webtv.sk">
-    <title lang="id">Dvojí tvář lásky (16)</title>
-  </programme>
-  <programme start="20260401001500 +0000" stop="20260401010500 +0000" channel="Prima Love SK.webtv.sk">
-    <title lang="id">Dvojí tvář lásky (17)</title>
-  </programme>
-  <programme start="20260401010500 +0000" stop="20260401015000 +0000" channel="Prima Love SK.webtv.sk">
-    <title lang="id">Doktor z hor: Nové příběhy IX (1)</title>
-  </programme>
-  <programme start="20260401015000 +0000" stop="20260401023500 +0000" channel="Prima Love SK.webtv.sk">
-    <title lang="id">Doktor z hor: Nové příběhy IX (2)</title>
-  </programme>
-  <programme start="20260401023500 +0000" stop="20260401031500 +0000" channel="Prima Love SK.webtv.sk">
-    <title lang="id">Prostřeno!</title>
-  </programme>
-  <programme start="20260401031500 +0000" stop="20260401034000 +0000" channel="Prima Love SK.webtv.sk">
-    <title lang="id">Relaxační podívaná</title>
-  </programme>
-  <programme start="20260401034000 +0000" stop="20260401040000 +0000" channel="Prima Love SK.webtv.sk">
-    <title lang="id">Vysielacia prestávka</title>
-  </programme>
-  <programme start="20260401040000 +0000" stop="20260401042000 +0000" channel="Prima Love SK.webtv.sk">
-    <title lang="id">Relaxační podívaná</title>
-  </programme>
-  <programme start="20260401042000 +0000" stop="20260401045500 +0000" channel="Prima Love SK.webtv.sk">
-    <title lang="id">Karolína, domácí kuchařka</title>
-  </programme>
-  <programme start="20260401045500 +0000" stop="20260401060500 +0000" channel="Prima Love SK.webtv.sk">
-    <title lang="id">Ano, šéfe!</title>
-  </programme>
-  <programme start="20260401060500 +0000" stop="20260401072000 +0000" channel="Prima Love SK.webtv.sk">
-    <title lang="id">Velmi křehké vztahy III (49)</title>
-  </programme>
-  <programme start="20260401072000 +0000" stop="20260401083000 +0000" channel="Prima Love SK.webtv.sk">
-    <title lang="id">Velmi křehké vztahy III (50)</title>
-  </programme>
-  <programme start="20260401083000 +0000" stop="20260401093000 +0000" channel="Prima Love SK.webtv.sk">
-    <title lang="id">Dvojí tvář lásky (16)</title>
-  </programme>
-  <programme start="20260401093000 +0000" stop="20260401103500 +0000" channel="Prima Love SK.webtv.sk">
-    <title lang="id">Dvojí tvář lásky (17)</title>
-  </programme>
-  <programme start="20260401103500 +0000" stop="20260401113500 +0000" channel="Prima Love SK.webtv.sk">
-    <title lang="id">Doktor z hor: Nové příběhy IX (1)</title>
-  </programme>
-  <programme start="20260401113500 +0000" stop="20260401123500 +0000" channel="Prima Love SK.webtv.sk">
-    <title lang="id">Doktor z hor: Nové příběhy IX (2)</title>
-  </programme>
-  <programme start="20260401123500 +0000" stop="20260401135000 +0000" channel="Prima Love SK.webtv.sk">
-    <title lang="id">Velmi křehké vztahy III (51)</title>
-  </programme>
-  <programme start="20260401135000 +0000" stop="20260401150000 +0000" channel="Prima Love SK.webtv.sk">
-    <title lang="id">Velmi křehké vztahy III (52)</title>
-  </programme>
-  <programme start="20260401150000 +0000" stop="20260401161000 +0000" channel="Prima Love SK.webtv.sk">
-    <title lang="id">Ano, šéfe!</title>
-  </programme>
-  <programme start="20260401161000 +0000" stop="20260401171500 +0000" channel="Prima Love SK.webtv.sk">
-    <title lang="id">Dvojí tvář lásky (18)</title>
-  </programme>
-  <programme start="20260401171500 +0000" stop="20260401181500 +0000" channel="Prima Love SK.webtv.sk">
-    <title lang="id">Dvojí tvář lásky (19)</title>
-  </programme>
-  <programme start="20260401181500 +0000" stop="20260401191500 +0000" channel="Prima Love SK.webtv.sk">
-    <title lang="id">Doktor z hor: Nové příběhy IX (3)</title>
-  </programme>
-  <programme start="20260401191500 +0000" stop="20260401201500 +0000" channel="Prima Love SK.webtv.sk">
-    <title lang="id">Doktor z hor: Nové příběhy IX (4)</title>
-  </programme>
-  <programme start="20260401201500 +0000" stop="20260401213000 +0000" channel="Prima Love SK.webtv.sk">
-    <title lang="id">Ano, šéfe!</title>
-  </programme>
-  <programme start="20260401213000 +0000" stop="20260401223500 +0000" channel="Prima Love SK.webtv.sk">
-    <title lang="id">Velmi křehké vztahy III (51)</title>
-  </programme>
   <programme start="20260331215500 +0000" stop="20260331223500 +0000" channel="Prima Krimi SK.webtv.sk">
     <title lang="id">Prvních 48 hodin XVIII (11)</title>
   </programme>
@@ -6144,108 +6210,6 @@
   </programme>
   <programme start="20260401210000 +0000" stop="20260401220000 +0000" channel="TLC.webtv.sk">
     <title lang="id">Pomoc! Můj dům je prokletý IV (1)</title>
-  </programme>
-  <programme start="20260331220000 +0000" stop="20260331223000 +0000" channel="Food Network.webtv.sk">
-    <title lang="id">Průkopnice XXVI (7)</title>
-  </programme>
-  <programme start="20260331223000 +0000" stop="20260331230000 +0000" channel="Food Network.webtv.sk">
-    <title lang="id">Průkopnice XXVI (8)</title>
-  </programme>
-  <programme start="20260331230000 +0000" stop="20260401000000 +0000" channel="Food Network.webtv.sk">
-    <title lang="id">Vyřazeni LVIII (12)</title>
-  </programme>
-  <programme start="20260401000000 +0000" stop="20260401004500 +0000" channel="Food Network.webtv.sk">
-    <title lang="id">Restaurant: Impossible XV (1)</title>
-  </programme>
-  <programme start="20260401004500 +0000" stop="20260401010700 +0000" channel="Food Network.webtv.sk">
-    <title lang="id">Motoresty, drive-iny a bufety XXIV (8)</title>
-  </programme>
-  <programme start="20260401010700 +0000" stop="20260401013000 +0000" channel="Food Network.webtv.sk">
-    <title lang="id">Motoresty, drive-iny a bufety XXIV (9)</title>
-  </programme>
-  <programme start="20260401013000 +0000" stop="20260401015200 +0000" channel="Food Network.webtv.sk">
-    <title lang="id">Porážka Bobbyho Flaye XXV (10)</title>
-  </programme>
-  <programme start="20260401015200 +0000" stop="20260401021500 +0000" channel="Food Network.webtv.sk">
-    <title lang="id">Porážka Bobbyho Flaye XXV (11)</title>
-  </programme>
-  <programme start="20260401021500 +0000" stop="20260401030000 +0000" channel="Food Network.webtv.sk">
-    <title lang="id">Velikonoční výzva I (3)</title>
-  </programme>
-  <programme start="20260401030000 +0000" stop="20260401040000 +0000" channel="Food Network.webtv.sk">
-    <title lang="id">Restaurant: Impossible XIV (2)</title>
-  </programme>
-  <programme start="20260401040000 +0000" stop="20260401043000 +0000" channel="Food Network.webtv.sk">
-    <title lang="id">Motoresty, drive-iny a bufety XXIV (10)</title>
-  </programme>
-  <programme start="20260401043000 +0000" stop="20260401050000 +0000" channel="Food Network.webtv.sk">
-    <title lang="id">Motoresty, drive-iny a bufety XXIV (11)</title>
-  </programme>
-  <programme start="20260401050000 +0000" stop="20260401053000 +0000" channel="Food Network.webtv.sk">
-    <title lang="id">Porážka Bobbyho Flaye XXVI (1)</title>
-  </programme>
-  <programme start="20260401053000 +0000" stop="20260401060000 +0000" channel="Food Network.webtv.sk">
-    <title lang="id">Porážka Bobbyho Flaye XXVI (2)</title>
-  </programme>
-  <programme start="20260401060000 +0000" stop="20260401063000 +0000" channel="Food Network.webtv.sk">
-    <title lang="id">Národ bister u silnic VII: Národ bister VII (3)</title>
-  </programme>
-  <programme start="20260401063000 +0000" stop="20260401070000 +0000" channel="Food Network.webtv.sk">
-    <title lang="id">Národ bister u silnic VII: Národ bister VII (4)</title>
-  </programme>
-  <programme start="20260401070000 +0000" stop="20260401080000 +0000" channel="Food Network.webtv.sk">
-    <title lang="id">Alex proti Americe III (6)</title>
-  </programme>
-  <programme start="20260401080000 +0000" stop="20260401090000 +0000" channel="Food Network.webtv.sk">
-    <title lang="id">Nový mistr pekař: Paříž I (8)</title>
-  </programme>
-  <programme start="20260401090000 +0000" stop="20260401100000 +0000" channel="Food Network.webtv.sk">
-    <title lang="id">Dětská cukrářská soutěž IX (6)</title>
-  </programme>
-  <programme start="20260401100000 +0000" stop="20260401103000 +0000" channel="Food Network.webtv.sk">
-    <title lang="id">Dívka na farmě IV (2)</title>
-  </programme>
-  <programme start="20260401103000 +0000" stop="20260401110000 +0000" channel="Food Network.webtv.sk">
-    <title lang="id">Dívka na farmě IV (3)</title>
-  </programme>
-  <programme start="20260401110000 +0000" stop="20260401113000 +0000" channel="Food Network.webtv.sk">
-    <title lang="id">Průkopnice XXVI (9)</title>
-  </programme>
-  <programme start="20260401113000 +0000" stop="20260401120000 +0000" channel="Food Network.webtv.sk">
-    <title lang="id">Průkopnice XXVI (10)</title>
-  </programme>
-  <programme start="20260401120000 +0000" stop="20260401130000 +0000" channel="Food Network.webtv.sk">
-    <title lang="id">Vyřazeni LVIII (13)</title>
-  </programme>
-  <programme start="20260401130000 +0000" stop="20260401140000 +0000" channel="Food Network.webtv.sk">
-    <title lang="id">Restaurant: Impossible XV (3)</title>
-  </programme>
-  <programme start="20260401140000 +0000" stop="20260401150000 +0000" channel="Food Network.webtv.sk">
-    <title lang="id">Souboj bratrů: Michael proti Bryanovi I (3)</title>
-  </programme>
-  <programme start="20260401150000 +0000" stop="20260401160000 +0000" channel="Food Network.webtv.sk">
-    <title lang="id">Harry Potter: Kouzelné pečení I (5)</title>
-  </programme>
-  <programme start="20260401160000 +0000" stop="20260401170000 +0000" channel="Food Network.webtv.sk">
-    <title lang="id">Velikonoční výzva I (4)</title>
-  </programme>
-  <programme start="20260401170000 +0000" stop="20260401173000 +0000" channel="Food Network.webtv.sk">
-    <title lang="id">Bizarní jídla: Lahodné destinace IV (17)</title>
-  </programme>
-  <programme start="20260401173000 +0000" stop="20260401180000 +0000" channel="Food Network.webtv.sk">
-    <title lang="id">Bizarní jídla: Lahodné destinace IV (18)</title>
-  </programme>
-  <programme start="20260401180000 +0000" stop="20260401190000 +0000" channel="Food Network.webtv.sk">
-    <title lang="id">Restaurant: Impossible XIV (3)</title>
-  </programme>
-  <programme start="20260401190000 +0000" stop="20260401200000 +0000" channel="Food Network.webtv.sk">
-    <title lang="id">Souboj bratrů: Michael proti Bryanovi I (3)</title>
-  </programme>
-  <programme start="20260401200000 +0000" stop="20260401210000 +0000" channel="Food Network.webtv.sk">
-    <title lang="id">Harry Potter: Kouzelné pečení I (5)</title>
-  </programme>
-  <programme start="20260401210000 +0000" stop="20260401220000 +0000" channel="Food Network.webtv.sk">
-    <title lang="id">Alex proti Americe III (3)</title>
   </programme>
   <programme start="20260331220000 +0000" stop="20260331224500 +0000" channel="Animal Planet.webtv.sk">
     <title lang="id">Vymřeli či žijí II (7)</title>

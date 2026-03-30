@@ -14614,8 +14614,8 @@
     <category lang="en">News</category>
   </programme>
   <programme start="20260329171500 +0000" stop="20260329173000 +0000" channel="nhkworldjapan.unifitv">
-    <title lang="en">NHK WORLD-JAPAN Special program</title>
-    <desc lang="en">NHK WORLD-JAPAN presents a wide range of programs from news, current affairs, documentaries, etc. focusing on Japan and Asia.</desc>
+    <title lang="en">Anime Pilgrims</title>
+    <desc lang="en">We head to Nagasaki, the backdrop of the 2024 acclaimed film The Colors Within, with anime singer and superfan MindaRyn from Thailand. Uncover the reality behind Japan's 'hidden Christian' history.</desc>
     <category lang="en">News</category>
     <episode-num system="xmltv_ns">0.3024.</episode-num>
     <episode-num system="onscreen">S1E3025</episode-num>
@@ -14685,8 +14685,8 @@
     <episode-num system="onscreen">S1E4038</episode-num>
   </programme>
   <programme start="20260329205500 +0000" stop="20260329210500 +0000" channel="nhkworldjapan.unifitv">
-    <title lang="en">Entertaiment</title>
-    <desc lang="en">A selection of acclaimed programs from NHK's domestic channels dubbed into English.</desc>
+    <title lang="en">I Love 'Mee'</title>
+    <desc lang="en">When Mee and Hee run around, a sound like "thump, thump..." is heard from inside their bodies. Mee wonders, "Is there a creature inside me?" and has a "Thump-Thump Investigator" reveal what it is.</desc>
     <category lang="en">News</category>
     <episode-num system="xmltv_ns">0.5202.</episode-num>
     <episode-num system="onscreen">S1E5203</episode-num>
@@ -14697,11 +14697,11 @@
     <category lang="en">News</category>
   </programme>
   <programme start="20260329211500 +0000" stop="20260329214500 +0000" channel="nhkworldjapan.unifitv">
-    <title lang="en">NHK WORLD SELECTION</title>
-    <desc lang="en">A selection of acclaimed programs from NHK's domestic channels dubbed into English.</desc>
+    <title lang="en">tiny desk concerts JAPAN</title>
+    <desc lang="en">Kajiura Yuki's Anime Universe Comes to tiny desk.Kajiura Yuki,the composer whose music has captivated audiences around the world, arrives at tiny desk concerts JAPAN.The special guest is LiSA.</desc>
     <category lang="en">News</category>
-    <episode-num system="xmltv_ns">0.4032.</episode-num>
-    <episode-num system="onscreen">S1E4033</episode-num>
+    <episode-num system="xmltv_ns">0.3024.</episode-num>
+    <episode-num system="onscreen">S1E3025</episode-num>
   </programme>
   <programme start="20260329214500 +0000" stop="20260329215500 +0000" channel="nhkworldjapan.unifitv">
     <title lang="en">Herbal Symphony #5</title>
@@ -14730,8 +14730,8 @@
     <category lang="en">News</category>
   </programme>
   <programme start="20260329221500 +0000" stop="20260329223000 +0000" channel="nhkworldjapan.unifitv">
-    <title lang="en">NHK WORLD-JAPAN Special program</title>
-    <desc lang="en">NHK WORLD-JAPAN presents a wide range of programs from news, current affairs, documentaries, etc. focusing on Japan and Asia.</desc>
+    <title lang="en">Anime Pilgrims</title>
+    <desc lang="en">We head to Nagasaki, the backdrop of the 2024 acclaimed film The Colors Within, with anime singer and superfan MindaRyn from Thailand. Uncover the reality behind Japan's 'hidden Christian' history.</desc>
     <category lang="en">News</category>
     <episode-num system="xmltv_ns">0.3024.</episode-num>
     <episode-num system="onscreen">S1E3025</episode-num>
@@ -14764,7 +14764,7 @@
   </programme>
   <programme start="20260329231500 +0000" stop="20260330000500 +0000" channel="nhkworldjapan.unifitv">
     <title lang="en">Somewhere Street</title>
-    <desc lang="en">A unique walking-eye view of cities around the globe! Chat to the locals and enjoy encounters that only strolling the streets can bring.</desc>
+    <desc lang="en">Philadelphia, the City of Brotherly Love, is the East Coast's second-largest city in the US after NYC. It's the birthplace of the US and was once the capital. It's now a favorite for history buffs.</desc>
     <category lang="en">News</category>
     <episode-num system="xmltv_ns">0.4016.</episode-num>
     <episode-num system="onscreen">S1E4017</episode-num>
@@ -14775,21 +14775,21 @@
     <category lang="en">News</category>
   </programme>
   <programme start="20260330001500 +0000" stop="20260330002000 +0000" channel="nhkworldjapan.unifitv">
-    <title lang="en">Chatroom Japan</title>
-    <desc lang="en">Chatroom Japan puts a spotlight on our diverse international community.We report on the issues, speak to those involved, and get a fresh look at what it's like to live in Japan.</desc>
+    <title lang="en">Empowering kids through song</title>
+    <desc lang="en">A Brazilian woman living in Japan is trying to promote a music video she made for kids about sexual abuse while navigating the differences between the two cultures.</desc>
     <category lang="en">News</category>
     <episode-num system="xmltv_ns">0.6048.</episode-num>
     <episode-num system="onscreen">S1E6049</episode-num>
   </programme>
   <programme start="20260330002000 +0000" stop="20260330003000 +0000" channel="nhkworldjapan.unifitv">
     <title lang="en">IMPACTS: Climates Change the World</title>
-    <desc lang="en">The entire Earth is affected by climate change, occurring with a greater speed and scale than ever before. This program uses scientific data and the latest findings to raise awareness on its impact.</desc>
+    <desc lang="en">Wild elephants entering human living areas, causing accidents and crop damage, is a problem across Asia. What will happen to elephant-human coexistence as their habitats shift due to climate change?</desc>
     <category lang="en">News</category>
     <episode-num system="xmltv_ns">0.6127.</episode-num>
     <episode-num system="onscreen">S1E6128</episode-num>
   </programme>
   <programme start="20260330003000 +0000" stop="20260330003500 +0000" channel="nhkworldjapan.unifitv">
-    <title lang="en">Pottery the Times Demand</title>
+    <title lang="en">DESIGN MUSEUM JAPAN</title>
     <desc lang="en">Aichi / Kataoka Mami (curator) Tokoname, a pottery town with over 900 years of history, creates products appropriate for the times. Kataoka finds the beauty that's present in functional objects.</desc>
     <category lang="en">News</category>
     <episode-num system="xmltv_ns">0.6057.</episode-num>
@@ -14797,14 +14797,14 @@
   </programme>
   <programme start="20260330003500 +0000" stop="20260330010000 +0000" channel="nhkworldjapan.unifitv">
     <title lang="en">The Factory Wonders</title>
-    <desc lang="en">A selection of acclaimed programs from NHK's domestic channels dubbed into English.</desc>
+    <desc lang="en">Our team visits the National Printing Bureau in Tokyo where Japan's banknotes are made, and gets a rare look at their state-of-the-art printing technology and meet their top-secret banknote artists.</desc>
     <category lang="en">News</category>
     <episode-num system="xmltv_ns">0.5142.</episode-num>
     <episode-num system="onscreen">S1E5143</episode-num>
   </programme>
   <programme start="20260330010000 +0000" stop="20260330010500 +0000" channel="nhkworldjapan.unifitv">
-    <title lang="en">Time-LapseJapan 3min</title>
-    <desc lang="en">NHK WORLD-JAPAN presents a variety of short programs focusing on Japan and Asia.</desc>
+    <title lang="en">Time-lapse Japan</title>
+    <desc lang="en">As the samurai age ended, citrus production provided a way forward for former warriors in Hagi. Locals still love century-old sweets made using the aromatic skin. Watch them being made in time-lapse.</desc>
     <category lang="en">News</category>
     <episode-num system="xmltv_ns">0.6052.</episode-num>
     <episode-num system="onscreen">S1E6053</episode-num>
@@ -14815,8 +14815,8 @@
     <category lang="en">News</category>
   </programme>
   <programme start="20260330011500 +0000" stop="20260330012000 +0000" channel="nhkworldjapan.unifitv">
-    <title lang="en">The seasons of Yamato</title>
-    <desc lang="en">NHK WORLD-JAPAN presents a variety of short programs focusing on Japan and Asia.</desc>
+    <title lang="en">The Seasons of Yamato</title>
+    <desc lang="en">A series of poetic videos by Koichi Hozan, a videographer living in Nara, in collaboration with a pianist, Mine Kawakami, for which she plays exclusive pieces, makes you experience each seasons.</desc>
     <category lang="en">News</category>
     <episode-num system="xmltv_ns">0.6041.</episode-num>
     <episode-num system="onscreen">S1E6042</episode-num>
@@ -14830,7 +14830,7 @@
   </programme>
   <programme start="20260330013500 +0000" stop="20260330014500 +0000" channel="nhkworldjapan.unifitv">
     <title lang="en">Magical Japanese</title>
-    <desc lang="en">The Japanese language is rich in words and expressions influenced by nature, history and culture. Explore the unique culture behind them.</desc>
+    <desc lang="en">The Japanese language is rich in words and expressions influenced by nature, history, and culture. This episode looks at words related to Japanese sweets. Explore the unique culture behind them.</desc>
     <category lang="en">News</category>
     <episode-num system="xmltv_ns">0.2091.</episode-num>
     <episode-num system="onscreen">S1E2092</episode-num>
@@ -14844,14 +14844,14 @@
   </programme>
   <programme start="20260330015000 +0000" stop="20260330020000 +0000" channel="nhkworldjapan.unifitv">
     <title lang="en">Culture Crossroads</title>
-    <desc lang="en">Culture Crossroads is a program themed around creating a multicultural society. It also offers tips on disaster preparedness.</desc>
+    <desc lang="en">Hana no Kai is an elderly day care facility in Kobe that welcomes people from diverse backgrounds. It makes the lives of those living out their final years in a foreign land more active and dignified.</desc>
     <category lang="en">News</category>
     <episode-num system="xmltv_ns">0.2083.</episode-num>
     <episode-num system="onscreen">S1E2084</episode-num>
   </programme>
   <programme start="20260330020000 +0000" stop="20260330020500 +0000" channel="nhkworldjapan.unifitv">
     <title lang="en">HELLO! NHK WORLD-JAPAN</title>
-    <desc lang="en">We intorduce the contents and activities of NHK WORLD-JAPAN to make the station and programs known to more people all over the world. This is the window of the station to the world.</desc>
+    <desc lang="en">We introduce two brand-new English-language programs, "The Factory Wonders" and "Backstage Japan," which will be screened regularly from April 2026.</desc>
     <category lang="en">News</category>
     <episode-num system="xmltv_ns">0.2103.</episode-num>
     <episode-num system="onscreen">S1E2104</episode-num>
@@ -14875,7 +14875,7 @@
   </programme>
   <programme start="20260330033500 +0000" stop="20260330040000 +0000" channel="nhkworldjapan.unifitv">
     <title lang="en">Darwin's Amazing Animals</title>
-    <desc lang="en">A natural history show that's a huge hit with families in Japan has gone global! The series explores the amazing and delightful stories of animals all around the world, including Japan.</desc>
+    <desc lang="en">Our special Darwin series continues following 3 male lions on separate paths toward adulthood and their destinies. In Part 4, we track their search for allies necessary in any quest for the throne.</desc>
     <category lang="en">News</category>
     <episode-num system="xmltv_ns">0.4029.</episode-num>
     <episode-num system="onscreen">S1E4030</episode-num>
@@ -14913,14 +14913,14 @@
   </programme>
   <programme start="20260330053500 +0000" stop="20260330060000 +0000" channel="nhkworldjapan.unifitv">
     <title lang="en">The Factory Wonders</title>
-    <desc lang="en">A selection of acclaimed programs from NHK's domestic channels dubbed into English.</desc>
+    <desc lang="en">Our team visits the National Printing Bureau in Tokyo where Japan's banknotes are made, and gets a rare look at their state-of-the-art printing technology and meet their top-secret banknote artists.</desc>
     <category lang="en">News</category>
     <episode-num system="xmltv_ns">0.5142.</episode-num>
     <episode-num system="onscreen">S1E5143</episode-num>
   </programme>
   <programme start="20260330060000 +0000" stop="20260330060500 +0000" channel="nhkworldjapan.unifitv">
-    <title lang="en">Time-LapseJapan 3min</title>
-    <desc lang="en">NHK WORLD-JAPAN presents a variety of short programs focusing on Japan and Asia.</desc>
+    <title lang="en">Time-lapse Japan</title>
+    <desc lang="en">As the samurai age ended, citrus production provided a way forward for former warriors in Hagi. Locals still love century-old sweets made using the aromatic skin. Watch them being made in time-lapse.</desc>
     <category lang="en">News</category>
     <episode-num system="xmltv_ns">0.6052.</episode-num>
     <episode-num system="onscreen">S1E6053</episode-num>
@@ -14932,7 +14932,7 @@
   </programme>
   <programme start="20260330063500 +0000" stop="20260330064500 +0000" channel="nhkworldjapan.unifitv">
     <title lang="en">Magical Japanese</title>
-    <desc lang="en">The Japanese language is rich in words and expressions influenced by nature, history and culture. Explore the unique culture behind them.</desc>
+    <desc lang="en">The Japanese language is rich in words and expressions influenced by nature, history, and culture. This episode looks at words related to Japanese sweets. Explore the unique culture behind them.</desc>
     <category lang="en">News</category>
     <episode-num system="xmltv_ns">0.2091.</episode-num>
     <episode-num system="onscreen">S1E2092</episode-num>
@@ -14946,14 +14946,14 @@
   </programme>
   <programme start="20260330065000 +0000" stop="20260330070000 +0000" channel="nhkworldjapan.unifitv">
     <title lang="en">Culture Crossroads</title>
-    <desc lang="en">Culture Crossroads is a program themed around creating a multicultural society. It also offers tips on disaster preparedness.</desc>
+    <desc lang="en">Hana no Kai is an elderly day care facility in Kobe that welcomes people from diverse backgrounds. It makes the lives of those living out their final years in a foreign land more active and dignified.</desc>
     <category lang="en">News</category>
     <episode-num system="xmltv_ns">0.2083.</episode-num>
     <episode-num system="onscreen">S1E2084</episode-num>
   </programme>
   <programme start="20260330070000 +0000" stop="20260330070500 +0000" channel="nhkworldjapan.unifitv">
     <title lang="en">HELLO! NHK WORLD-JAPAN</title>
-    <desc lang="en">We intorduce the contents and activities of NHK WORLD-JAPAN to make the station and programs known to more people all over the world. This is the window of the station to the world.</desc>
+    <desc lang="en">We introduce two brand-new English-language programs, "The Factory Wonders" and "Backstage Japan," which will be screened regularly from April 2026.</desc>
     <category lang="en">News</category>
     <episode-num system="xmltv_ns">0.2103.</episode-num>
     <episode-num system="onscreen">S1E2104</episode-num>
@@ -14996,7 +14996,7 @@
   </programme>
   <programme start="20260330093500 +0000" stop="20260330100500 +0000" channel="nhkworldjapan.unifitv">
     <title lang="en">Journeys in Japan</title>
-    <desc lang="en">Explore a different side of Japan. Meet the locals and discover traditions and cultures not usually found in guidebooks!</desc>
+    <desc lang="en">Michael Keida explores mountainous Northern Yatsugatake in Nagano Prefecture in winter, via cross-country skiing, snow-shoeing and crampon-climbing with a guide. He also soaks in heavenly hot springs.</desc>
     <category lang="en">News</category>
     <episode-num system="xmltv_ns">0.2006.</episode-num>
     <episode-num system="onscreen">S1E2007</episode-num>
@@ -15008,14 +15008,14 @@
   </programme>
   <programme start="20260330103500 +0000" stop="20260330110000 +0000" channel="nhkworldjapan.unifitv">
     <title lang="en">The Factory Wonders</title>
-    <desc lang="en">A selection of acclaimed programs from NHK's domestic channels dubbed into English.</desc>
+    <desc lang="en">Our team visits the National Printing Bureau in Tokyo where Japan's banknotes are made, and gets a rare look at their state-of-the-art printing technology and meet their top-secret banknote artists.</desc>
     <category lang="en">News</category>
     <episode-num system="xmltv_ns">0.5142.</episode-num>
     <episode-num system="onscreen">S1E5143</episode-num>
   </programme>
   <programme start="20260330110000 +0000" stop="20260330110500 +0000" channel="nhkworldjapan.unifitv">
-    <title lang="en">Time-LapseJapan 3min</title>
-    <desc lang="en">NHK WORLD-JAPAN presents a variety of short programs focusing on Japan and Asia.</desc>
+    <title lang="en">Time-lapse Japan</title>
+    <desc lang="en">As the samurai age ended, citrus production provided a way forward for former warriors in Hagi. Locals still love century-old sweets made using the aromatic skin. Watch them being made in time-lapse.</desc>
     <category lang="en">News</category>
     <episode-num system="xmltv_ns">0.6052.</episode-num>
     <episode-num system="onscreen">S1E6053</episode-num>
@@ -15027,21 +15027,21 @@
   </programme>
   <programme start="20260330113300 +0000" stop="20260330114800 +0000" channel="nhkworldjapan.unifitv">
     <title lang="en">Direct Talk</title>
-    <desc lang="en">Direct and in-depth. Interviews exploring the minds and motivations of the leaders, visionaries, artists and entrepreneurs who are changing our world.</desc>
+    <desc lang="en">Mizushiri Yoriko won the Silver Bear in the short film competition at the 2025 Berlin International Film Festival. She talks about her passion for creating animations that evoke a sense of touch.</desc>
     <category lang="en">News</category>
     <episode-num system="xmltv_ns">0.2104.</episode-num>
     <episode-num system="onscreen">S1E2105</episode-num>
   </programme>
   <programme start="20260330114800 +0000" stop="20260330120000 +0000" channel="nhkworldjapan.unifitv">
     <title lang="en">Culture Crossroads</title>
-    <desc lang="en">Culture Crossroads is a program themed around creating a multicultural society. It also offers tips on disaster preparedness.</desc>
+    <desc lang="en">Hana no Kai is an elderly day care facility in Kobe that welcomes people from diverse backgrounds. It makes the lives of those living out their final years in a foreign land more active and dignified.</desc>
     <category lang="en">News</category>
     <episode-num system="xmltv_ns">0.2083.</episode-num>
     <episode-num system="onscreen">S1E2084</episode-num>
   </programme>
   <programme start="20260330120000 +0000" stop="20260330120500 +0000" channel="nhkworldjapan.unifitv">
     <title lang="en">HELLO! NHK WORLD-JAPAN</title>
-    <desc lang="en">We intorduce the contents and activities of NHK WORLD-JAPAN to make the station and programs known to more people all over the world. This is the window of the station to the world.</desc>
+    <desc lang="en">We introduce two brand-new English-language programs, "The Factory Wonders" and "Backstage Japan," which will be screened regularly from April 2026.</desc>
     <category lang="en">News</category>
     <episode-num system="xmltv_ns">0.2103.</episode-num>
     <episode-num system="onscreen">S1E2104</episode-num>
@@ -15053,7 +15053,7 @@
   </programme>
   <programme start="20260330123500 +0000" stop="20260330130500 +0000" channel="nhkworldjapan.unifitv">
     <title lang="en">Dive in Tokyo</title>
-    <desc lang="en">Tokyo: where both tradition and the latest trends coexist. Join us on a journey to historic old towns and encounter many fun surprises along the way.</desc>
+    <desc lang="en">We head past the Scramble Crossing into historic backstreets, where we find an upscale residential area, a former geisha quarter, and a leisure district that paved the way for modern-day Shibuya.</desc>
     <category lang="en">News</category>
     <episode-num system="xmltv_ns">0.2101.</episode-num>
     <episode-num system="onscreen">S1E2102</episode-num>
@@ -15077,7 +15077,7 @@
   </programme>
   <programme start="20260330143500 +0000" stop="20260330150500 +0000" channel="nhkworldjapan.unifitv">
     <title lang="en">Medical Frontiers</title>
-    <desc lang="en">From prevention to cure! The groundbreaking world of Japanese medical technology and healthcare. For your healthy lifestyle, this program shows tips of superfoods and easy exercises.</desc>
+    <desc lang="en">Japanese researchers have uncovered the mechanism behind vitamin D's bone-strengthening effects. Its potential impact on cancer is also becoming apparent. We explore the power of Vitamin D.</desc>
     <category lang="en">News</category>
     <episode-num system="xmltv_ns">0.2049.</episode-num>
     <episode-num system="onscreen">S1E2050</episode-num>
@@ -15089,14 +15089,14 @@
   </programme>
   <programme start="20260330153500 +0000" stop="20260330160000 +0000" channel="nhkworldjapan.unifitv">
     <title lang="en">The Factory Wonders</title>
-    <desc lang="en">A selection of acclaimed programs from NHK's domestic channels dubbed into English.</desc>
+    <desc lang="en">Our team visits the National Printing Bureau in Tokyo where Japan's banknotes are made, and gets a rare look at their state-of-the-art printing technology and meet their top-secret banknote artists.</desc>
     <category lang="en">News</category>
     <episode-num system="xmltv_ns">0.5142.</episode-num>
     <episode-num system="onscreen">S1E5143</episode-num>
   </programme>
   <programme start="20260330160000 +0000" stop="20260330160500 +0000" channel="nhkworldjapan.unifitv">
-    <title lang="en">Time-LapseJapan 3min</title>
-    <desc lang="en">NHK WORLD-JAPAN presents a variety of short programs focusing on Japan and Asia.</desc>
+    <title lang="en">Time-lapse Japan</title>
+    <desc lang="en">As the samurai age ended, citrus production provided a way forward for former warriors in Hagi. Locals still love century-old sweets made using the aromatic skin. Watch them being made in time-lapse.</desc>
     <category lang="en">News</category>
     <episode-num system="xmltv_ns">0.6052.</episode-num>
     <episode-num system="onscreen">S1E6053</episode-num>
