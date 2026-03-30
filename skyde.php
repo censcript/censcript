@@ -3126,16 +3126,16 @@ Warning: Undefined array key "et" in /usr/home/ManusiaBiasa/domains/manusiabiasa
 <programme start="20260329223000 +0000" stop="20260329233000 +0000" channel="Sky Sport Mix HD.skyde">
     <title>Live NBA: Showtime</title>
 </programme>
-<programme start="20260329233000 +0000" stop="20260330021500 +0000" channel="Sky Sport Mix HD.skyde">
+<programme start="20260329233000 +0000" stop="20260330020000 +0000" channel="Sky Sport Mix HD.skyde">
     <title>Live NBA: New York Knicks @ Oklahoma City Thunder</title>
 </programme>
-<programme start="20260330021500 +0000" stop="20260330044500 +0000" channel="Sky Sport Mix HD.skyde">
+<programme start="20260330020000 +0000" stop="20260330043000 +0000" channel="Sky Sport Mix HD.skyde">
     <title>Live NBA: Golden State Warriors @ Denver Nuggets</title>
 </programme>
-<programme start="20260330044500 +0000" stop="20260330050500 +0000" channel="Sky Sport Mix HD.skyde">
+<programme start="20260330043000 +0000" stop="20260330050000 +0000" channel="Sky Sport Mix HD.skyde">
     <title>NBA: On Fire</title>
 </programme>
-<programme start="20260330050500 +0000" stop="20260330070000 +0000" channel="Sky Sport Mix HD.skyde">
+<programme start="20260330050000 +0000" stop="20260330070000 +0000" channel="Sky Sport Mix HD.skyde">
     <title>NHL: Florida Panthers @ New York Rangers</title>
 </programme>
 <programme start="20260330070000 +0000" stop="20260330080000 +0000" channel="Sky Sport Mix HD.skyde">
