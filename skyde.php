@@ -3126,16 +3126,16 @@ Warning: Undefined array key "et" in /usr/home/ManusiaBiasa/domains/manusiabiasa
 <programme start="20260329223000 +0000" stop="20260329233000 +0000" channel="Sky Sport Mix HD.skyde">
     <title>Live NBA: Showtime</title>
 </programme>
-<programme start="20260329233000 +0000" stop="20260330020000 +0000" channel="Sky Sport Mix HD.skyde">
+<programme start="20260329233000 +0000" stop="20260330021500 +0000" channel="Sky Sport Mix HD.skyde">
     <title>Live NBA: New York Knicks @ Oklahoma City Thunder</title>
 </programme>
-<programme start="20260330020000 +0000" stop="20260330043000 +0000" channel="Sky Sport Mix HD.skyde">
+<programme start="20260330021500 +0000" stop="20260330044500 +0000" channel="Sky Sport Mix HD.skyde">
     <title>Live NBA: Golden State Warriors @ Denver Nuggets</title>
 </programme>
-<programme start="20260330043000 +0000" stop="20260330050000 +0000" channel="Sky Sport Mix HD.skyde">
+<programme start="20260330044500 +0000" stop="20260330050500 +0000" channel="Sky Sport Mix HD.skyde">
     <title>NBA: On Fire</title>
 </programme>
-<programme start="20260330050000 +0000" stop="20260330070000 +0000" channel="Sky Sport Mix HD.skyde">
+<programme start="20260330050500 +0000" stop="20260330070000 +0000" channel="Sky Sport Mix HD.skyde">
     <title>NHL: Florida Panthers @ New York Rangers</title>
 </programme>
 <programme start="20260330070000 +0000" stop="20260330080000 +0000" channel="Sky Sport Mix HD.skyde">
@@ -3342,17 +3342,11 @@ Warning: Undefined array key "et" in /usr/home/ManusiaBiasa/domains/manusiabiasa
 <programme start="20260330213000 +0000" stop="20260330220000 +0000" channel="Sky Sport Premier League HD.skyde">
     <title>PL: Classic Match: FC Chelsea - Aston Villa (2007/08)</title>
 </programme>
-<programme start="20260330000000 +0000" stop="20260330023000 +0000" channel="Sky Sport Tennis HD.skyde">
+<programme start="20260330000000 +0000" stop="20260330020500 +0000" channel="Sky Sport Tennis HD.skyde">
+    <title>WTA 1000: C. Gauff (USA) - A. Sabalenka, Miami Open presented by Itaú in Miami, Florida (USA), Finale</title>
+</programme>
+<programme start="20260330020500 +0000" stop="20260330043000 +0000" channel="Sky Sport Tennis HD.skyde">
     <title>ATP 1000: J. Sinner (ITA) - J. Lehecka (CZE), Miami Open presented by Itaú in Miami, Florida (USA), Finale</title>
-</programme>
-<programme start="20260330023000 +0000" stop="20260330030000 +0000" channel="Sky Sport Tennis HD.skyde">
-    <title>ATP: This Week</title>
-</programme>
-<programme start="20260330030000 +0000" stop="20260330040000 +0000" channel="Sky Sport Tennis HD.skyde">
-    <title>ATP 1000: Review Indian Wells</title>
-</programme>
-<programme start="20260330040000 +0000" stop="20260330043000 +0000" channel="Sky Sport Tennis HD.skyde">
-    <title>WTA 1000: Review Indian Wells</title>
 </programme>
 <programme start="20260330043000 +0000" stop="20260330070000 +0000" channel="Sky Sport Tennis HD.skyde">
     <title>WTA 1000: C. Gauff (USA) - A. Sabalenka, Miami Open presented by Itaú in Miami, Florida (USA), Finale</title>
@@ -3369,23 +3363,20 @@ Warning: Undefined array key "et" in /usr/home/ManusiaBiasa/domains/manusiabiasa
 <programme start="20260329223000 +0000" stop="20260329233000 +0000" channel="Sky Sport Top Event HD.skyde">
     <title>Live NBA: Showtime</title>
 </programme>
-<programme start="20260329233000 +0000" stop="20260330020000 +0000" channel="Sky Sport Top Event HD.skyde">
+<programme start="20260329233000 +0000" stop="20260330021500 +0000" channel="Sky Sport Top Event HD.skyde">
     <title>Live NBA: New York Knicks @ Oklahoma City Thunder</title>
 </programme>
-<programme start="20260330020000 +0000" stop="20260330043000 +0000" channel="Sky Sport Top Event HD.skyde">
+<programme start="20260330021500 +0000" stop="20260330044500 +0000" channel="Sky Sport Top Event HD.skyde">
     <title>Live NBA: Golden State Warriors @ Denver Nuggets</title>
 </programme>
-<programme start="20260330043000 +0000" stop="20260330063000 +0000" channel="Sky Sport Top Event HD.skyde">
+<programme start="20260330044500 +0000" stop="20260330064000 +0000" channel="Sky Sport Top Event HD.skyde">
     <title>IndyCar: Children`s of Alabama Indy Grand Prix</title>
 </programme>
-<programme start="20260330063000 +0000" stop="20260330070000 +0000" channel="Sky Sport Top Event HD.skyde">
+<programme start="20260330064000 +0000" stop="20260330071000 +0000" channel="Sky Sport Top Event HD.skyde">
     <title>Frauen-BL: Alle Spiele, alle Tore, 22. Spieltag, Sonntag</title>
 </programme>
-<programme start="20260330070000 +0000" stop="20260330071500 +0000" channel="Sky Sport Top Event HD.skyde">
+<programme start="20260330071000 +0000" stop="20260330073000 +0000" channel="Sky Sport Top Event HD.skyde">
     <title>2. BL: Dein Spieltags-Sprint (27)</title>
-</programme>
-<programme start="20260330071500 +0000" stop="20260330073000 +0000" channel="Sky Sport Top Event HD.skyde">
-    <title>BL: Dein Spieltags-Sprint (27)</title>
 </programme>
 <programme start="20260330073000 +0000" stop="20260330093000 +0000" channel="Sky Sport Top Event HD.skyde">
     <title>F1: Rennen - GP Japan</title>
@@ -3415,7 +3406,7 @@ Warning: Undefined array key "et" in /usr/home/ManusiaBiasa/domains/manusiabiasa
     <title>Info: UHD</title>
 </programme>
 <programme start="20260330214000 +0000" stop="20260330220000 +0000" channel="Sky Sport 1 HD.skyde">
-    <title>Es folgt: LIVE Basketball NBA</title>
+    <title>NBA: Es folgt</title>
 </programme>
 <programme start="20260330080000 +0000" stop="20260330080500 +0000" channel="Sky Sport 3 HD.skyde">
     <title>Test Sport 03</title>

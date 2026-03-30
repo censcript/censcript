@@ -5122,22 +5122,22 @@
     <programme start="20260329232500 +0000" stop="20260330010500 +0000" channel="SPOTV.starhub">
         <title>Highlights</title>
     </programme>
-    <programme start="20260330010500 +0000" stop="20260330073000 +0000" channel="SPOTV.starhub">
+    <programme start="20260330010500 +0000" stop="20260330070000 +0000" channel="SPOTV.starhub">
         <title>Dubai World Cup 2026</title>
     </programme>
-    <programme start="20260330073000 +0000" stop="20260330083000 +0000" channel="SPOTV.starhub">
+    <programme start="20260330070000 +0000" stop="20260330081500 +0000" channel="SPOTV.starhub">
         <title>SBK FP1</title>
     </programme>
-    <programme start="20260330083000 +0000" stop="20260330113000 +0000" channel="SPOTV.starhub">
+    <programme start="20260330081500 +0000" stop="20260330110000 +0000" channel="SPOTV.starhub">
         <title>SPB Superpole/SBK FP2/SSP Superpole</title>
     </programme>
-    <programme start="20260330113000 +0000" stop="20260330123000 +0000" channel="SPOTV.starhub">
+    <programme start="20260330110000 +0000" stop="20260330114500 +0000" channel="SPOTV.starhub">
         <title>SBK FP3</title>
     </programme>
-    <programme start="20260330123000 +0000" stop="20260330133000 +0000" channel="SPOTV.starhub">
+    <programme start="20260330114500 +0000" stop="20260330124500 +0000" channel="SPOTV.starhub">
         <title>SBK Tissot Superpole</title>
     </programme>
-    <programme start="20260330133000 +0000" stop="20260330170000 +0000" channel="SPOTV.starhub">
+    <programme start="20260330124500 +0000" stop="20260330163500 +0000" channel="SPOTV.starhub">
         <title>SPB/SSP/SBK Race 1</title>
     </programme>
     <programme start="20260329154500 +0000" stop="20260329171500 +0000" channel="KBS World HD.starhub">

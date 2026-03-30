@@ -4703,17 +4703,17 @@
     <desc lang="en">Madhi helps his brother Arivu unite with the love of his life, which causes trouble between the families. When Madhi tells his parents about the woman he loves, they disapprove of his relationship.</desc>
     <category lang="en">Action</category>
   </programme>
-  <programme start="20260330083000 +0000" stop="20260330110000 +0000" channel="zeethirai.unifitv">
+  <programme start="20260330083000 +0000" stop="20260330110300 +0000" channel="zeethirai.unifitv">
     <title lang="en">Kappal</title>
     <desc lang="en">Vaibhav wants love, but a strange promise not to marry blocks his path. He escapes to Chennai to find love, but faces foes when Sonam enters his life.</desc>
     <category lang="en">Comedy</category>
   </programme>
-  <programme start="20260330110000 +0000" stop="20260330140000 +0000" channel="zeethirai.unifitv">
+  <programme start="20260330110300 +0000" stop="20260330140200 +0000" channel="zeethirai.unifitv">
     <title lang="en">F3: Fun and Frustration</title>
     <desc lang="en">Venky and Varun, who plan on marrying rich wives, fall into the trap of their own making when they realise the brides they are wooing are not rich but greedy for money.</desc>
     <category lang="en">Comedy</category>
   </programme>
-  <programme start="20260330140000 +0000" stop="20260330163000 +0000" channel="zeethirai.unifitv">
+  <programme start="20260330140200 +0000" stop="20260330163000 +0000" channel="zeethirai.unifitv">
     <title lang="en">Masooda</title>
     <desc lang="en">A single mother Neelam and her daughter Nazia face horror as an evil force intrudes. With help from neighbor Gopi, they confront danger and persevere.</desc>
     <category lang="en">Horror</category>
@@ -13861,7 +13861,7 @@
   </programme>
   <programme start="20260329173500 +0000" stop="20260329183500 +0000" channel="abcaustralia.unifitv">
     <title lang="en">Insiders</title>
-    <desc lang="en">David Speers and the panel unpack the politics and the policies of the past week in parliament, look ahead to the three-day sitting week before the Easter break, plus the upcoming Farrer by-election, Federal Budget and more.</desc>
+    <desc lang="en">David Speers and the panel unpack week in politics including the fuel crisis, War in the Middle East, a new trade deal and security agreement with the European Union, plus One Nation, the Farrer by-election and the economy.</desc>
     <category lang="en">Current Affairs</category>
     <episode-num system="xmltv_ns">2025.9.</episode-num>
     <episode-num system="onscreen">S2026E10</episode-num>
@@ -13956,7 +13956,7 @@
     <episode-num system="onscreen">S2026E89</episode-num>
   </programme>
   <programme start="20260330083500 +0000" stop="20260330090500 +0000" channel="abcaustralia.unifitv">
-    <title lang="en">7.3</title>
+    <title lang="en">7.30</title>
     <desc lang="en">Sarah Ferguson presents Australia's premier daily current affairs program, delivering agenda-setting public affairs journalism and interviews that hold the powerful to account. Plus political analysis from Jacob Greber.</desc>
     <category lang="en">Current Affairs</category>
     <episode-num system="xmltv_ns">2025.48.</episode-num>
@@ -14018,7 +14018,7 @@
     <episode-num system="onscreen">S2026E33</episode-num>
   </programme>
   <programme start="20260330133500 +0000" stop="20260330140500 +0000" channel="abcaustralia.unifitv">
-    <title lang="en">7.3</title>
+    <title lang="en">7.30</title>
     <desc lang="en">Sarah Ferguson presents Australia's premier daily current affairs program, delivering agenda-setting public affairs journalism and interviews that hold the powerful to account. Plus political analysis from Jacob Greber.</desc>
     <category lang="en">Current Affairs</category>
     <episode-num system="xmltv_ns">2025.48.</episode-num>

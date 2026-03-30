@@ -8111,7 +8111,7 @@
     <title>Proliga</title>
 </programme>
 <programme start="20260330100000 +0000" stop="20260330120000 +0000" channel="Sportstars.mncvision">
-    <title>V-League 2025-2026: Women (L)</title>
+    <title>V-League 2025-2026: Men</title>
 </programme>
 <programme start="20260330120000 +0000" stop="20260330123000 +0000" channel="Sportstars.mncvision">
     <title>30 Minutes Extreme</title>
@@ -8173,11 +8173,11 @@
 <programme start="20260330133000 +0000" stop="20260330143000 +0000" channel="Sportstars 2.mncvision">
     <title>Formula E Driver</title>
 </programme>
-<programme start="20260330143000 +0000" stop="20260330154500 +0000" channel="Sportstars 2.mncvision">
+<programme start="20260330143000 +0000" stop="20260330153000 +0000" channel="Sportstars 2.mncvision">
     <title>Tinju</title>
 </programme>
-<programme start="20260330154500 +0000" stop="20260330161500 +0000" channel="Sportstars 2.mncvision">
-    <title>Friendly Match: NOR Vs SUI (L)</title>
+<programme start="20260330153000 +0000" stop="20260330160000 +0000" channel="Sportstars 2.mncvision">
+    <title>Tinju</title>
 </programme>
 <programme start="20260329170000 +0000" stop="20260329190000 +0000" channel="Sportstars 2 HD.mncvision">
     <title>V-League</title>
@@ -8221,11 +8221,11 @@
 <programme start="20260330133000 +0000" stop="20260330143000 +0000" channel="Sportstars 2 HD.mncvision">
     <title>Formula E Driver</title>
 </programme>
-<programme start="20260330143000 +0000" stop="20260330154500 +0000" channel="Sportstars 2 HD.mncvision">
+<programme start="20260330143000 +0000" stop="20260330153000 +0000" channel="Sportstars 2 HD.mncvision">
     <title>Tinju</title>
 </programme>
-<programme start="20260330154500 +0000" stop="20260330161500 +0000" channel="Sportstars 2 HD.mncvision">
-    <title>Friendly Match: NOR Vs SUI (L)</title>
+<programme start="20260330153000 +0000" stop="20260330160000 +0000" channel="Sportstars 2 HD.mncvision">
+    <title>Tinju</title>
 </programme>
 <programme start="20260329170000 +0000" stop="20260329190000 +0000" channel="Sportstars 3.mncvision">
     <title>Bundesliga</title>
@@ -8414,7 +8414,7 @@
     <title>Proliga</title>
 </programme>
 <programme start="20260330100000 +0000" stop="20260330120000 +0000" channel="Sportstars HD.mncvision">
-    <title>V-League 2025-2026: Women (L)</title>
+    <title>V-League 2025-2026: Men</title>
 </programme>
 <programme start="20260330120000 +0000" stop="20260330123000 +0000" channel="Sportstars HD.mncvision">
     <title>30 Minutes Extreme</title>
@@ -8995,25 +8995,22 @@
 <programme start="20260330090000 +0000" stop="20260330093000 +0000" channel="Trans TV.mncvision">
     <title>CNN Indonesia News Update</title>
 </programme>
-<programme start="20260330093000 +0000" stop="20260330101500 +0000" channel="Trans TV.mncvision">
+<programme start="20260330093000 +0000" stop="20260330103000 +0000" channel="Trans TV.mncvision">
     <title>Dream Box Indonesia</title>
 </programme>
-<programme start="20260330101500 +0000" stop="20260330113000 +0000" channel="Trans TV.mncvision">
+<programme start="20260330103000 +0000" stop="20260330114500 +0000" channel="Trans TV.mncvision">
     <title>Bikin Laper</title>
 </programme>
-<programme start="20260330113000 +0000" stop="20260330123000 +0000" channel="Trans TV.mncvision">
+<programme start="20260330114500 +0000" stop="20260330130000 +0000" channel="Trans TV.mncvision">
     <title>Insert Story</title>
 </programme>
-<programme start="20260330123000 +0000" stop="20260330133000 +0000" channel="Trans TV.mncvision">
-    <title>Monitor Ketua</title>
-</programme>
-<programme start="20260330133000 +0000" stop="20260330143000 +0000" channel="Trans TV.mncvision">
+<programme start="20260330130000 +0000" stop="20260330140000 +0000" channel="Trans TV.mncvision">
     <title>Dunia Punya Cerita</title>
 </programme>
-<programme start="20260330143000 +0000" stop="20260330163000 +0000" channel="Trans TV.mncvision">
+<programme start="20260330140000 +0000" stop="20260330160000 +0000" channel="Trans TV.mncvision">
     <title>Bioskop Trans TV</title>
 </programme>
-<programme start="20260330163000 +0000" stop="20260329170000 +0000" channel="Trans TV.mncvision">
+<programme start="20260330160000 +0000" stop="20260330163000 +0000" channel="Trans TV.mncvision">
     <title>Bioskop Trans TV</title>
 </programme>
 <programme start="20260329173000 +0000" stop="20260329183000 +0000" channel="tvN.mncvision">
