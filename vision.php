@@ -571,9 +571,6 @@
 <programme start="20260330194500 +0000" stop="20260330204500 +0000" channel="Trans 7.vision">
 <title>Best Fishing</title>
 </programme>
-<programme start="20260330204500 +0000" stop="20260330210000 +0000" channel="Trans 7.vision">
-<title>Lebih Segerr</title>
-</programme>
 <programme start="20260330210000 +0000" stop="20260330214500 +0000" channel="Trans 7.vision">
 <title>POV (Pasti Obrolan Viral)</title>
 </programme>
@@ -840,9 +837,6 @@
 </programme>
 <programme start="20260330203000 +0000" stop="20260330210000 +0000" channel="TVOne.vision">
 <title>Berita Utama Kriminal</title>
-</programme>
-<programme start="20260330210000 +0000" stop="20260330213000 +0000" channel="TVOne.vision">
-<title>Kabar Arena Pagi (L)</title>
 </programme>
 <programme start="20260330213000 +0000" stop="20260330230000 +0000" channel="TVOne.vision">
 <title>Kabar Pagi</title>
@@ -1497,4 +1491,10 @@
 </programme>
 <programme start="20260331050500 +0000" stop="20260331062500 +0000" channel="MDTV.vision">
 <title>Janji Cinta (Sindoor Ki Keemat)</title>
+</programme>
+<programme start="20260331062500 +0000" stop="20260331073000 +0000" channel="MDTV.vision">
+<title>Makan Enak</title>
+</programme>
+<programme start="20260331073000 +0000" stop="20260331083000 +0000" channel="MDTV.vision">
+<title>Masak Gesss!!!</title>
 </programme>

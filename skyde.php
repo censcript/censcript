@@ -3009,17 +3009,17 @@ Warning: Undefined array key "et" in /usr/home/ManusiaBiasa/domains/manusiabiasa
 <programme start="20260330213000 +0000" stop="20260330233000 +0000" channel="Sky Sport Bundesliga UHD.skyde">
     <title>BL: Borussia Dortmund - Hamburger SV, tipico Topspiel der Woche, 27. Spieltag</title>
 </programme>
-<programme start="20260330120000 +0000" stop="20260330123000 +0000" channel="Sky Sport Bundesliga 4 HD.skyde">
-    <title>TEST BL04</title>
+<programme start="20260330120000 +0000" stop="20260330123000 +0000" channel="Sky Sport Bundesliga 6 HD.skyde">
+    <title>TEST BL06</title>
 </programme>
-<programme start="20260330123000 +0000" stop="20260330143000 +0000" channel="Sky Sport Bundesliga 4 HD.skyde">
-    <title>TEST BL04</title>
+<programme start="20260330123000 +0000" stop="20260330143000 +0000" channel="Sky Sport Bundesliga 6 HD.skyde">
+    <title>TEST BL06</title>
 </programme>
-<programme start="20260330143000 +0000" stop="20260330163000 +0000" channel="Sky Sport Bundesliga 4 HD.skyde">
-    <title>TEST BL04</title>
+<programme start="20260330143000 +0000" stop="20260330163000 +0000" channel="Sky Sport Bundesliga 6 HD.skyde">
+    <title>TEST BL06</title>
 </programme>
-<programme start="20260330163000 +0000" stop="20260330180000 +0000" channel="Sky Sport Bundesliga 4 HD.skyde">
-    <title>TEST BL04</title>
+<programme start="20260330163000 +0000" stop="20260330180000 +0000" channel="Sky Sport Bundesliga 6 HD.skyde">
+    <title>TEST BL06</title>
 </programme>
 <programme start="20260329233000 +0000" stop="20260330013000 +0000" channel="Sky Sport F1 HD.skyde">
     <title>F1: Rennen - GP Japan</title>
@@ -3366,13 +3366,7 @@ Warning: Undefined array key "et" in /usr/home/ManusiaBiasa/domains/manusiabiasa
 <programme start="20260330070000 +0000" stop="20260330093000 +0000" channel="Sky Sport Tennis HD.skyde">
     <title>ATP 1000: J. Sinner (ITA) - J. Lehecka (CZE), Miami Open presented by Itaú in Miami, Florida (USA), Finale</title>
 </programme>
-<programme start="20260330093000 +0000" stop="20260330100000 +0000" channel="Sky Sport Tennis HD.skyde">
-    <title>ATP: The Impossible Shot - Behind The Scenes</title>
-</programme>
-<programme start="20260330100000 +0000" stop="20260330123000 +0000" channel="Sky Sport Tennis HD.skyde">
-    <title>WTA 1000: C. Gauff (USA) - A. Sabalenka, Miami Open presented by Itaú in Miami, Florida (USA), Finale</title>
-</programme>
-<programme start="20260330123000 +0000" stop="20260331030000 +0000" channel="Sky Sport Tennis HD.skyde">
+<programme start="20260330093000 +0000" stop="20260331030000 +0000" channel="Sky Sport Tennis HD.skyde">
     <title>Live ATP &amp; WTA: Die Topspiele des Tages</title>
 </programme>
 <programme start="20260329220000 +0000" stop="20260329223000 +0000" channel="Sky Sport Top Event HD.skyde">
@@ -3399,13 +3393,7 @@ Warning: Undefined array key "et" in /usr/home/ManusiaBiasa/domains/manusiabiasa
 <programme start="20260330073000 +0000" stop="20260330093000 +0000" channel="Sky Sport Top Event HD.skyde">
     <title>F1: Rennen - GP Japan</title>
 </programme>
-<programme start="20260330093000 +0000" stop="20260330100000 +0000" channel="Sky Sport Top Event HD.skyde">
-    <title>ATP: The Impossible Shot - Behind The Scenes</title>
-</programme>
-<programme start="20260330100000 +0000" stop="20260330123000 +0000" channel="Sky Sport Top Event HD.skyde">
-    <title>WTA 1000: C. Gauff (USA) - A. Sabalenka, Miami Open presented by Itaú in Miami, Florida (USA), Finale</title>
-</programme>
-<programme start="20260330123000 +0000" stop="20260330220000 +0000" channel="Sky Sport Top Event HD.skyde">
+<programme start="20260330093000 +0000" stop="20260330220000 +0000" channel="Sky Sport Top Event HD.skyde">
     <title>Live ATP &amp; WTA: Die Topspiele des Tages</title>
 </programme>
 <programme start="20260329224500 +0000" stop="20260330001500 +0000" channel="Sky Sport UHD.skyde">
@@ -4116,16 +4104,16 @@ Warning: Undefined array key "et" in /usr/home/ManusiaBiasa/domains/manusiabiasa
 <programme start="20260330040000 +0000" stop="20260330061500 +0000" channel="Warner TV Film.skyde">
     <title>Verdammt sind sie alle</title>
 </programme>
-<programme start="20260330061500 +0000" stop="20260330065000 +0000" channel="Warner TV Film.skyde">
+<programme start="20260330061500 +0000" stop="20260330064500 +0000" channel="Warner TV Film.skyde">
     <title>Hinter den Kulissen - Michael Caine</title>
 </programme>
-<programme start="20260330065000 +0000" stop="20260330085500 +0000" channel="Warner TV Film.skyde">
+<programme start="20260330064500 +0000" stop="20260330085500 +0000" channel="Warner TV Film.skyde">
     <title>Ocean&#039;s Twelve</title>
 </programme>
-<programme start="20260330085500 +0000" stop="20260330110000 +0000" channel="Warner TV Film.skyde">
+<programme start="20260330085500 +0000" stop="20260330105500 +0000" channel="Warner TV Film.skyde">
     <title>Ocean&#039;s 13</title>
 </programme>
-<programme start="20260330110000 +0000" stop="20260330130500 +0000" channel="Warner TV Film.skyde">
+<programme start="20260330105500 +0000" stop="20260330130500 +0000" channel="Warner TV Film.skyde">
     <title>Batmans Rückkehr</title>
 </programme>
 <programme start="20260330130500 +0000" stop="20260330143500 +0000" channel="Warner TV Film.skyde">
@@ -4158,16 +4146,16 @@ Warning: Undefined array key "et" in /usr/home/ManusiaBiasa/domains/manusiabiasa
 <programme start="20260330040000 +0000" stop="20260330061500 +0000" channel="Warner TV Film HD.skyde">
     <title>Verdammt sind sie alle</title>
 </programme>
-<programme start="20260330061500 +0000" stop="20260330064500 +0000" channel="Warner TV Film HD.skyde">
+<programme start="20260330061500 +0000" stop="20260330065000 +0000" channel="Warner TV Film HD.skyde">
     <title>Hinter den Kulissen - Michael Caine</title>
 </programme>
-<programme start="20260330064500 +0000" stop="20260330085500 +0000" channel="Warner TV Film HD.skyde">
+<programme start="20260330065000 +0000" stop="20260330085500 +0000" channel="Warner TV Film HD.skyde">
     <title>Ocean&#039;s Twelve</title>
 </programme>
-<programme start="20260330085500 +0000" stop="20260330105500 +0000" channel="Warner TV Film HD.skyde">
+<programme start="20260330085500 +0000" stop="20260330110000 +0000" channel="Warner TV Film HD.skyde">
     <title>Ocean&#039;s 13</title>
 </programme>
-<programme start="20260330105500 +0000" stop="20260330130500 +0000" channel="Warner TV Film HD.skyde">
+<programme start="20260330110000 +0000" stop="20260330130500 +0000" channel="Warner TV Film HD.skyde">
     <title>Batmans Rückkehr</title>
 </programme>
 <programme start="20260330130500 +0000" stop="20260330143500 +0000" channel="Warner TV Film HD.skyde">
