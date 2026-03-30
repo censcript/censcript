@@ -5068,9 +5068,261 @@
 <programme start="20260331160000 +0000" stop="20260331163000 +0000" channel="JAKTV.mncvision">
     <title>Duoluo Continent</title>
 </programme>
-Error: Unable to fetch data. HTTP Status Code: 500
-Error: Unable to fetch data. HTTP Status Code: 500
-Error: Unable to fetch data. HTTP Status Code: 500
+<programme start="20260330170000 +0000" stop="20260330180000 +0000" channel="Kids TV.mncvision">
+    <title>SpongeBob SquarePants</title>
+</programme>
+<programme start="20260330180000 +0000" stop="20260330183000 +0000" channel="Kids TV.mncvision">
+    <title>Yameme</title>
+</programme>
+<programme start="20260330183000 +0000" stop="20260330190000 +0000" channel="Kids TV.mncvision">
+    <title>Kamp Koral</title>
+</programme>
+<programme start="20260330190000 +0000" stop="20260330193000 +0000" channel="Kids TV.mncvision">
+    <title>Blippi Wonders</title>
+</programme>
+<programme start="20260330193000 +0000" stop="20260330200000 +0000" channel="Kids TV.mncvision">
+    <title>Backkom S4</title>
+</programme>
+<programme start="20260330200000 +0000" stop="20260330203000 +0000" channel="Kids TV.mncvision">
+    <title>Dora S1</title>
+</programme>
+<programme start="20260330203000 +0000" stop="20260330210000 +0000" channel="Kids TV.mncvision">
+    <title>PAW Patrol S5</title>
+</programme>
+<programme start="20260330210000 +0000" stop="20260330213000 +0000" channel="Kids TV.mncvision">
+    <title>Rubble &amp; Crew</title>
+</programme>
+<programme start="20260330213000 +0000" stop="20260330220000 +0000" channel="Kids TV.mncvision">
+    <title>The Patrick Star Show</title>
+</programme>
+<programme start="20260330220000 +0000" stop="20260330223000 +0000" channel="Kids TV.mncvision">
+    <title>Entong Animasi</title>
+</programme>
+<programme start="20260330223000 +0000" stop="20260330230000 +0000" channel="Kids TV.mncvision">
+    <title>Thomas &amp; Friends S20</title>
+</programme>
+<programme start="20260330230000 +0000" stop="20260330233000 +0000" channel="Kids TV.mncvision">
+    <title>Blippi Wonders</title>
+</programme>
+<programme start="20260330233000 +0000" stop="20260331000000 +0000" channel="Kids TV.mncvision">
+    <title>Yameme</title>
+</programme>
+<programme start="20260331000000 +0000" stop="20260331003000 +0000" channel="Kids TV.mncvision">
+    <title>Kung Fu Panda</title>
+</programme>
+<programme start="20260331003000 +0000" stop="20260331010000 +0000" channel="Kids TV.mncvision">
+    <title>Penguins Of Madagascar</title>
+</programme>
+<programme start="20260331010000 +0000" stop="20260331040000 +0000" channel="Kids TV.mncvision">
+    <title>Sahabat Selamanya Upin &amp; Ipin</title>
+</programme>
+<programme start="20260331040000 +0000" stop="20260331043000 +0000" channel="Kids TV.mncvision">
+    <title>Thomas &amp; Friends S20</title>
+</programme>
+<programme start="20260331043000 +0000" stop="20260331050000 +0000" channel="Kids TV.mncvision">
+    <title>Entong Animasi</title>
+</programme>
+<programme start="20260331050000 +0000" stop="20260331053000 +0000" channel="Kids TV.mncvision">
+    <title>PAW Patrol S5</title>
+</programme>
+<programme start="20260331053000 +0000" stop="20260331060000 +0000" channel="Kids TV.mncvision">
+    <title>Titus The Detective</title>
+</programme>
+<programme start="20260331060000 +0000" stop="20260331063000 +0000" channel="Kids TV.mncvision">
+    <title>Dora S1</title>
+</programme>
+<programme start="20260331063000 +0000" stop="20260331070000 +0000" channel="Kids TV.mncvision">
+    <title>Yameme</title>
+</programme>
+<programme start="20260331070000 +0000" stop="20260331073000 +0000" channel="Kids TV.mncvision">
+    <title>Kamp Koral</title>
+</programme>
+<programme start="20260331073000 +0000" stop="20260331083000 +0000" channel="Kids TV.mncvision">
+    <title>SpongeBob SquarePants</title>
+</programme>
+<programme start="20260331083000 +0000" stop="20260331113000 +0000" channel="Kids TV.mncvision">
+    <title>Upin &amp; Ipin Bermula</title>
+</programme>
+<programme start="20260331113000 +0000" stop="20260331120000 +0000" channel="Kids TV.mncvision">
+    <title>Titus The Detective</title>
+</programme>
+<programme start="20260331120000 +0000" stop="20260331123000 +0000" channel="Kids TV.mncvision">
+    <title>PAW Patrol S5</title>
+</programme>
+<programme start="20260331123000 +0000" stop="20260331130000 +0000" channel="Kids TV.mncvision">
+    <title>The Patrick Star Show</title>
+</programme>
+<programme start="20260331130000 +0000" stop="20260331133000 +0000" channel="Kids TV.mncvision">
+    <title>Thomas &amp; Friends S20</title>
+</programme>
+<programme start="20260331133000 +0000" stop="20260331140000 +0000" channel="Kids TV.mncvision">
+    <title>Dora S1</title>
+</programme>
+<programme start="20260331140000 +0000" stop="20260331143000 +0000" channel="Kids TV.mncvision">
+    <title>Rubble &amp; Crew</title>
+</programme>
+<programme start="20260331143000 +0000" stop="20260331150000 +0000" channel="Kids TV.mncvision">
+    <title>Penguins Of Madagascar</title>
+</programme>
+<programme start="20260331150000 +0000" stop="20260331153000 +0000" channel="Kids TV.mncvision">
+    <title>Backkom S4</title>
+</programme>
+<programme start="20260331153000 +0000" stop="20260331160000 +0000" channel="Kids TV.mncvision">
+    <title>Kung Fu Panda</title>
+</programme>
+<programme start="20260331160000 +0000" stop="20260331163000 +0000" channel="Kids TV.mncvision">
+    <title>Si Entong Abunawas Dari Betawi</title>
+</programme>
+<programme start="20260330170000 +0000" stop="20260330180000 +0000" channel="Kids TV HD.mncvision">
+    <title>SpongeBob SquarePants</title>
+</programme>
+<programme start="20260330180000 +0000" stop="20260330183000 +0000" channel="Kids TV HD.mncvision">
+    <title>Yameme</title>
+</programme>
+<programme start="20260330183000 +0000" stop="20260330190000 +0000" channel="Kids TV HD.mncvision">
+    <title>Kamp Koral</title>
+</programme>
+<programme start="20260330190000 +0000" stop="20260330193000 +0000" channel="Kids TV HD.mncvision">
+    <title>Blippi Wonders</title>
+</programme>
+<programme start="20260330193000 +0000" stop="20260330200000 +0000" channel="Kids TV HD.mncvision">
+    <title>Backkom S4</title>
+</programme>
+<programme start="20260330200000 +0000" stop="20260330203000 +0000" channel="Kids TV HD.mncvision">
+    <title>Dora S1</title>
+</programme>
+<programme start="20260330203000 +0000" stop="20260330210000 +0000" channel="Kids TV HD.mncvision">
+    <title>PAW Patrol S5</title>
+</programme>
+<programme start="20260330210000 +0000" stop="20260330213000 +0000" channel="Kids TV HD.mncvision">
+    <title>Rubble &amp; Crew</title>
+</programme>
+<programme start="20260330213000 +0000" stop="20260330220000 +0000" channel="Kids TV HD.mncvision">
+    <title>The Patrick Star Show</title>
+</programme>
+<programme start="20260330220000 +0000" stop="20260330223000 +0000" channel="Kids TV HD.mncvision">
+    <title>Entong Animasi</title>
+</programme>
+<programme start="20260330223000 +0000" stop="20260330230000 +0000" channel="Kids TV HD.mncvision">
+    <title>Thomas &amp; Friends S20</title>
+</programme>
+<programme start="20260330230000 +0000" stop="20260330233000 +0000" channel="Kids TV HD.mncvision">
+    <title>Blippi Wonders</title>
+</programme>
+<programme start="20260330233000 +0000" stop="20260331000000 +0000" channel="Kids TV HD.mncvision">
+    <title>Yameme</title>
+</programme>
+<programme start="20260331000000 +0000" stop="20260331003000 +0000" channel="Kids TV HD.mncvision">
+    <title>Kung Fu Panda</title>
+</programme>
+<programme start="20260331003000 +0000" stop="20260331010000 +0000" channel="Kids TV HD.mncvision">
+    <title>Penguins Of Madagascar</title>
+</programme>
+<programme start="20260331010000 +0000" stop="20260331040000 +0000" channel="Kids TV HD.mncvision">
+    <title>Sahabat Selamanya Upin &amp; Ipin</title>
+</programme>
+<programme start="20260331040000 +0000" stop="20260331043000 +0000" channel="Kids TV HD.mncvision">
+    <title>Thomas &amp; Friends S20</title>
+</programme>
+<programme start="20260331043000 +0000" stop="20260331050000 +0000" channel="Kids TV HD.mncvision">
+    <title>Entong Animasi</title>
+</programme>
+<programme start="20260331050000 +0000" stop="20260331053000 +0000" channel="Kids TV HD.mncvision">
+    <title>PAW Patrol S5</title>
+</programme>
+<programme start="20260331053000 +0000" stop="20260331060000 +0000" channel="Kids TV HD.mncvision">
+    <title>Titus The Detective</title>
+</programme>
+<programme start="20260331060000 +0000" stop="20260331063000 +0000" channel="Kids TV HD.mncvision">
+    <title>Dora S1</title>
+</programme>
+<programme start="20260331063000 +0000" stop="20260331070000 +0000" channel="Kids TV HD.mncvision">
+    <title>Yameme</title>
+</programme>
+<programme start="20260331070000 +0000" stop="20260331073000 +0000" channel="Kids TV HD.mncvision">
+    <title>Kamp Koral</title>
+</programme>
+<programme start="20260331073000 +0000" stop="20260331083000 +0000" channel="Kids TV HD.mncvision">
+    <title>SpongeBob SquarePants</title>
+</programme>
+<programme start="20260331083000 +0000" stop="20260331113000 +0000" channel="Kids TV HD.mncvision">
+    <title>Upin &amp; Ipin Bermula</title>
+</programme>
+<programme start="20260331113000 +0000" stop="20260331120000 +0000" channel="Kids TV HD.mncvision">
+    <title>Titus The Detective</title>
+</programme>
+<programme start="20260331120000 +0000" stop="20260331123000 +0000" channel="Kids TV HD.mncvision">
+    <title>PAW Patrol S5</title>
+</programme>
+<programme start="20260331123000 +0000" stop="20260331130000 +0000" channel="Kids TV HD.mncvision">
+    <title>The Patrick Star Show</title>
+</programme>
+<programme start="20260331130000 +0000" stop="20260331133000 +0000" channel="Kids TV HD.mncvision">
+    <title>Thomas &amp; Friends S20</title>
+</programme>
+<programme start="20260331133000 +0000" stop="20260331140000 +0000" channel="Kids TV HD.mncvision">
+    <title>Dora S1</title>
+</programme>
+<programme start="20260331140000 +0000" stop="20260331143000 +0000" channel="Kids TV HD.mncvision">
+    <title>Rubble &amp; Crew</title>
+</programme>
+<programme start="20260331143000 +0000" stop="20260331150000 +0000" channel="Kids TV HD.mncvision">
+    <title>Penguins Of Madagascar</title>
+</programme>
+<programme start="20260331150000 +0000" stop="20260331153000 +0000" channel="Kids TV HD.mncvision">
+    <title>Backkom S4</title>
+</programme>
+<programme start="20260331153000 +0000" stop="20260331160000 +0000" channel="Kids TV HD.mncvision">
+    <title>Kung Fu Panda</title>
+</programme>
+<programme start="20260331160000 +0000" stop="20260331163000 +0000" channel="Kids TV HD.mncvision">
+    <title>Si Entong Abunawas Dari Betawi</title>
+</programme>
+<programme start="20260330171500 +0000" stop="20260330190000 +0000" channel="KIX.mncvision">
+    <title>The Grey Men</title>
+</programme>
+<programme start="20260330190000 +0000" stop="20260330210000 +0000" channel="KIX.mncvision">
+    <title>Iron Squad W, Ep 8</title>
+</programme>
+<programme start="20260330210000 +0000" stop="20260330224000 +0000" channel="KIX.mncvision">
+    <title>Night Walk</title>
+</programme>
+<programme start="20260330224000 +0000" stop="20260331002500 +0000" channel="KIX.mncvision">
+    <title>Iron Ball, Ep 13</title>
+</programme>
+<programme start="20260331002500 +0000" stop="20260331011500 +0000" channel="KIX.mncvision">
+    <title>The Ultimate BROcation, Ep 1</title>
+</programme>
+<programme start="20260331011500 +0000" stop="20260331030000 +0000" channel="KIX.mncvision">
+    <title>The Grey Men</title>
+</programme>
+<programme start="20260331030000 +0000" stop="20260331050000 +0000" channel="KIX.mncvision">
+    <title>Iron Squad W, Ep 8</title>
+</programme>
+<programme start="20260331050000 +0000" stop="20260331064000 +0000" channel="KIX.mncvision">
+    <title>Night Walk</title>
+</programme>
+<programme start="20260331064000 +0000" stop="20260331082500 +0000" channel="KIX.mncvision">
+    <title>Iron Ball, Ep 13</title>
+</programme>
+<programme start="20260331082500 +0000" stop="20260331091500 +0000" channel="KIX.mncvision">
+    <title>The Ultimate BROcation, Ep 1</title>
+</programme>
+<programme start="20260331091500 +0000" stop="20260331110000 +0000" channel="KIX.mncvision">
+    <title>The Grey Men</title>
+</programme>
+<programme start="20260331110000 +0000" stop="20260331130000 +0000" channel="KIX.mncvision">
+    <title>Iron Squad W, Ep 8</title>
+</programme>
+<programme start="20260331130000 +0000" stop="20260331144000 +0000" channel="KIX.mncvision">
+    <title>Cruel War</title>
+</programme>
+<programme start="20260331144000 +0000" stop="20260331161500 +0000" channel="KIX.mncvision">
+    <title>A Good Deal</title>
+</programme>
+<programme start="20260331161500 +0000" stop="20260331164500 +0000" channel="KIX.mncvision">
+    <title>The Ultimate BROcation, Ep 2</title>
+</programme>
 <programme start="20260330170000 +0000" stop="20260330180000 +0000" channel="Kompas TV.mncvision">
     <title>Berita Utama</title>
 </programme>
@@ -9052,9 +9304,159 @@ Error: Unable to fetch data. HTTP Status Code: 500
 <programme start="20260331160000 +0000" stop="20260331163000 +0000" channel="tvN Movies HD.mncvision">
     <title>Hidden Face</title>
 </programme>
-Error: Unable to fetch data. HTTP Status Code: 500
-Error: Unable to fetch data. HTTP Status Code: 500
-Error: Unable to fetch data. HTTP Status Code: 500
+<programme start="20260330180000 +0000" stop="20260330190000 +0000" channel="tvOne.mncvision">
+    <title>Kabar Petang</title>
+</programme>
+<programme start="20260330190000 +0000" stop="20260330193000 +0000" channel="tvOne.mncvision">
+    <title>Kabar Petang</title>
+</programme>
+<programme start="20260330193000 +0000" stop="20260330200000 +0000" channel="tvOne.mncvision">
+    <title>Kabar Utama 2 (L)</title>
+</programme>
+<programme start="20260330200000 +0000" stop="20260330203000 +0000" channel="tvOne.mncvision">
+    <title>Kabar Hari Ini</title>
+</programme>
+<programme start="20260330203000 +0000" stop="20260330210000 +0000" channel="tvOne.mncvision">
+    <title>Berita Utama Kriminal</title>
+</programme>
+<programme start="20260330210000 +0000" stop="20260330213000 +0000" channel="tvOne.mncvision">
+    <title>Kabar Arena Pagi (L)</title>
+</programme>
+<programme start="20260330213000 +0000" stop="20260330230000 +0000" channel="tvOne.mncvision">
+    <title>Kabar Pagi</title>
+</programme>
+<programme start="20260330230000 +0000" stop="20260330233000 +0000" channel="tvOne.mncvision">
+    <title>Kabar Arena Pagi 2 (L)</title>
+</programme>
+<programme start="20260330233000 +0000" stop="20260331013000 +0000" channel="tvOne.mncvision">
+    <title>Apa Kabar Indonesia Pagi (L)</title>
+</programme>
+<programme start="20260331013000 +0000" stop="20260331020000 +0000" channel="tvOne.mncvision">
+    <title>Hidup Sehat</title>
+</programme>
+<programme start="20260331020000 +0000" stop="20260331023000 +0000" channel="tvOne.mncvision">
+    <title>Inspirasi Pagi</title>
+</programme>
+<programme start="20260331023000 +0000" stop="20260331033000 +0000" channel="tvOne.mncvision">
+    <title>Pagi-Pagi Seru</title>
+</programme>
+<programme start="20260331033000 +0000" stop="20260331040000 +0000" channel="tvOne.mncvision">
+    <title>Metropolitan</title>
+</programme>
+<programme start="20260331040000 +0000" stop="20260331060000 +0000" channel="tvOne.mncvision">
+    <title>Kabar Siang (L)</title>
+</programme>
+<programme start="20260331060000 +0000" stop="20260331073000 +0000" channel="tvOne.mncvision">
+    <title>Apa Kabar Indonesia Siang</title>
+</programme>
+<programme start="20260331073000 +0000" stop="20260331083000 +0000" channel="tvOne.mncvision">
+    <title>Kabar Merah Putih</title>
+</programme>
+<programme start="20260331083000 +0000" stop="20260331090000 +0000" channel="tvOne.mncvision">
+    <title>Berita Utama Kriminal</title>
+</programme>
+<programme start="20260331090000 +0000" stop="20260331110000 +0000" channel="tvOne.mncvision">
+    <title>Kabar Petang (L)</title>
+</programme>
+<programme start="20260331110000 +0000" stop="20260331130000 +0000" channel="tvOne.mncvision">
+    <title>Apa Kabar Indonesia Malam (L)</title>
+</programme>
+<programme start="20260331130000 +0000" stop="20260331143000 +0000" channel="tvOne.mncvision">
+    <title>Catatan Demokrasi</title>
+</programme>
+<programme start="20260331143000 +0000" stop="20260331153000 +0000" channel="tvOne.mncvision">
+    <title>Kabar Utama 2 (L)</title>
+</programme>
+<programme start="20260331153000 +0000" stop="20260331160000 +0000" channel="tvOne.mncvision">
+    <title>Kabar Hari Ini</title>
+</programme>
+<programme start="20260331160000 +0000" stop="20260331163000 +0000" channel="tvOne.mncvision">
+    <title>Kabar Arena Malam</title>
+</programme>
+<programme start="20260331163000 +0000" stop="20260330170000 +0000" channel="tvOne.mncvision">
+    <title>Apa Kabar Indonesia Malam</title>
+</programme>
+<programme start="20260330170000 +0000" stop="20260330190000 +0000" channel="TVRI.mncvision">
+    <title>TVRI</title>
+</programme>
+<programme start="20260330190000 +0000" stop="20260330210000 +0000" channel="TVRI.mncvision">
+    <title>TVRI</title>
+</programme>
+<programme start="20260330210000 +0000" stop="20260330230000 +0000" channel="TVRI.mncvision">
+    <title>TVRI</title>
+</programme>
+<programme start="20260330230000 +0000" stop="20260331010000 +0000" channel="TVRI.mncvision">
+    <title>TVRI</title>
+</programme>
+<programme start="20260331010000 +0000" stop="20260331030000 +0000" channel="TVRI.mncvision">
+    <title>TVRI</title>
+</programme>
+<programme start="20260331030000 +0000" stop="20260331050000 +0000" channel="TVRI.mncvision">
+    <title>TVRI</title>
+</programme>
+<programme start="20260331050000 +0000" stop="20260331070000 +0000" channel="TVRI.mncvision">
+    <title>TVRI</title>
+</programme>
+<programme start="20260331070000 +0000" stop="20260331090000 +0000" channel="TVRI.mncvision">
+    <title>TVRI</title>
+</programme>
+<programme start="20260331090000 +0000" stop="20260331110000 +0000" channel="TVRI.mncvision">
+    <title>TVRI</title>
+</programme>
+<programme start="20260331110000 +0000" stop="20260331130000 +0000" channel="TVRI.mncvision">
+    <title>TVRI</title>
+</programme>
+<programme start="20260331130000 +0000" stop="20260331150000 +0000" channel="TVRI.mncvision">
+    <title>TVRI</title>
+</programme>
+<programme start="20260331150000 +0000" stop="20260331153000 +0000" channel="TVRI.mncvision">
+    <title>TVRI</title>
+</programme>
+<programme start="20260330174500 +0000" stop="20260330194000 +0000" channel="UNIQUES.mncvision">
+    <title>UNIQUES</title>
+</programme>
+<programme start="20260330194000 +0000" stop="20260330214200 +0000" channel="UNIQUES.mncvision">
+    <title>UNIQUES</title>
+</programme>
+<programme start="20260330214200 +0000" stop="20260330231200 +0000" channel="UNIQUES.mncvision">
+    <title>UNIQUES</title>
+</programme>
+<programme start="20260330231200 +0000" stop="20260331003500 +0000" channel="UNIQUES.mncvision">
+    <title>UNIQUES</title>
+</programme>
+<programme start="20260331003500 +0000" stop="20260331020900 +0000" channel="UNIQUES.mncvision">
+    <title>UNIQUES</title>
+</programme>
+<programme start="20260331020900 +0000" stop="20260331033400 +0000" channel="UNIQUES.mncvision">
+    <title>UNIQUES</title>
+</programme>
+<programme start="20260331033400 +0000" stop="20260331051200 +0000" channel="UNIQUES.mncvision">
+    <title>UNIQUES</title>
+</programme>
+<programme start="20260331051200 +0000" stop="20260331070400 +0000" channel="UNIQUES.mncvision">
+    <title>UNIQUES</title>
+</programme>
+<programme start="20260331070400 +0000" stop="20260331085200 +0000" channel="UNIQUES.mncvision">
+    <title>UNIQUES</title>
+</programme>
+<programme start="20260331085200 +0000" stop="20260331100400 +0000" channel="UNIQUES.mncvision">
+    <title>UNIQUES</title>
+</programme>
+<programme start="20260331100400 +0000" stop="20260331113400 +0000" channel="UNIQUES.mncvision">
+    <title>UNIQUES</title>
+</programme>
+<programme start="20260331113400 +0000" stop="20260331131500 +0000" channel="UNIQUES.mncvision">
+    <title>UNIQUES</title>
+</programme>
+<programme start="20260331131500 +0000" stop="20260331145600 +0000" channel="UNIQUES.mncvision">
+    <title>UNIQUES</title>
+</programme>
+<programme start="20260331145600 +0000" stop="20260331161900 +0000" channel="UNIQUES.mncvision">
+    <title>UNIQUES</title>
+</programme>
+<programme start="20260331161900 +0000" stop="20260331164900 +0000" channel="UNIQUES.mncvision">
+    <title>UNIQUES</title>
+</programme>
 <programme start="20260330174500 +0000" stop="20260330194000 +0000" channel="UNIQUES HD.mncvision">
     <title>UNIQUES</title>
 </programme>

@@ -3326,10 +3326,10 @@
         <title>News</title>
     </programme>
     <programme start="20260331031500 +0000" stop="20260331033000 +0000" channel="DW English HD.starhub">
-        <title>Best of DW-online Content</title>
+        <title>Inside Iran’s war economy: Oil, sanctions &amp; the hidden power structure</title>
     </programme>
     <programme start="20260331033000 +0000" stop="20260331040000 +0000" channel="DW English HD.starhub">
-        <title>The Current Affairs Documentary</title>
+        <title>Slovakia at the Crossroads - The Politics of Division</title>
     </programme>
     <programme start="20260331040000 +0000" stop="20260331040200 +0000" channel="DW English HD.starhub">
         <title>News</title>
@@ -3353,10 +3353,10 @@
         <title>News</title>
     </programme>
     <programme start="20260331061500 +0000" stop="20260331063000 +0000" channel="DW English HD.starhub">
-        <title>Best of DW-online Content</title>
+        <title>Inside Iran’s war economy: Oil, sanctions &amp; the hidden power structure</title>
     </programme>
     <programme start="20260331063000 +0000" stop="20260331070000 +0000" channel="DW English HD.starhub">
-        <title>Experiencing and understanding the art world</title>
+        <title>Rilke, Social Media and Empowerment</title>
     </programme>
     <programme start="20260331070000 +0000" stop="20260331070200 +0000" channel="DW English HD.starhub">
         <title>News</title>
@@ -3371,7 +3371,7 @@
         <title>News</title>
     </programme>
     <programme start="20260331080200 +0000" stop="20260331083000 +0000" channel="DW English HD.starhub">
-        <title>What connects us all</title>
+        <title>How Berliners are reshaping their city for the future</title>
     </programme>
     <programme start="20260331083000 +0000" stop="20260331090000 +0000" channel="DW English HD.starhub">
         <title>Ethiopia&#039;s electric vehicle revolution</title>
@@ -3383,10 +3383,10 @@
         <title>News</title>
     </programme>
     <programme start="20260331091500 +0000" stop="20260331094500 +0000" channel="DW English HD.starhub">
-        <title>The Current Affairs Documentary</title>
+        <title>Slovakia at the Crossroads - The Politics of Division</title>
     </programme>
     <programme start="20260331094500 +0000" stop="20260331100000 +0000" channel="DW English HD.starhub">
-        <title>On Location</title>
+        <title>Hungary&#039;s Historic Election: Europe or an authoritarian path?</title>
     </programme>
     <programme start="20260331100000 +0000" stop="20260331100200 +0000" channel="DW English HD.starhub">
         <title>News</title>
@@ -3410,10 +3410,10 @@
         <title>News</title>
     </programme>
     <programme start="20260331121500 +0000" stop="20260331124500 +0000" channel="DW English HD.starhub">
-        <title>The Current Affairs Documentary</title>
+        <title>Slovakia at the Crossroads - The Politics of Division</title>
     </programme>
     <programme start="20260331124500 +0000" stop="20260331130000 +0000" channel="DW English HD.starhub">
-        <title>Living in the Digital Age</title>
+        <title>How fakes twist reality and generate revenue</title>
     </programme>
     <programme start="20260331130000 +0000" stop="20260331130200 +0000" channel="DW English HD.starhub">
         <title>News</title>
@@ -3422,7 +3422,7 @@
         <title>News</title>
     </programme>
     <programme start="20260331131500 +0000" stop="20260331133000 +0000" channel="DW English HD.starhub">
-        <title>Best of DW-online Content</title>
+        <title>Russian threats everyday: How Estonian border guards keep the EU safe</title>
     </programme>
     <programme start="20260331133000 +0000" stop="20260331140000 +0000" channel="DW English HD.starhub">
         <title>Microalgae: A superpower in carbon capture and city cleanup</title>
@@ -3434,10 +3434,10 @@
         <title>News</title>
     </programme>
     <programme start="20260331141500 +0000" stop="20260331144500 +0000" channel="DW English HD.starhub">
-        <title>The Current Affairs Documentary</title>
+        <title>Slovakia at the Crossroads - The Politics of Division</title>
     </programme>
     <programme start="20260331144500 +0000" stop="20260331150000 +0000" channel="DW English HD.starhub">
-        <title>On Location</title>
+        <title>Hungary&#039;s Historic Election: Europe or an authoritarian path?</title>
     </programme>
     <programme start="20260331150000 +0000" stop="20260331153000 +0000" channel="DW English HD.starhub">
         <title>News</title>
@@ -3860,7 +3860,7 @@
         <title>Let&#039;s Go for the Property Viewing Together &quot;Lyon&quot; (R)</title>
     </programme>
     <programme start="20260330191500 +0000" stop="20260330200000 +0000" channel="NHK World Premium HD.starhub">
-        <title>Tsurube&#039;s Salute to Families &quot;Hakase Taro in Nagasaki City, Nagasaki Prefecture&quot;</title>
+        <title>Tsurube&#039;s Salute to Families &quot;Hakase Taro in Nagasaki City, Nagasaki Prefecture&quot; (R)</title>
     </programme>
     <programme start="20260330200000 +0000" stop="20260330201000 +0000" channel="NHK World Premium HD.starhub">
         <title>TV Exercise</title>
