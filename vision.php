@@ -1255,156 +1255,6 @@
 <programme start="20260331115000 +0000" stop="20260331120000 +0000" channel="Metro TV.vision">
 <title>Primetime News</title>
 </programme>
-<programme start="20260329233000 +0000" stop="20260330003000 +0000" channel="BTV.vision">
-<title>BTV</title>
-</programme>
-<programme start="20260330003000 +0000" stop="20260330010000 +0000" channel="BTV.vision">
-<title>BTV</title>
-</programme>
-<programme start="20260330010000 +0000" stop="20260330010500 +0000" channel="BTV.vision">
-<title>BTV</title>
-</programme>
-<programme start="20260330010500 +0000" stop="20260330011500 +0000" channel="BTV.vision">
-<title>BTV</title>
-</programme>
-<programme start="20260330011500 +0000" stop="20260330014500 +0000" channel="BTV.vision">
-<title>BTV</title>
-</programme>
-<programme start="20260330014500 +0000" stop="20260330020000 +0000" channel="BTV.vision">
-<title>BTV</title>
-</programme>
-<programme start="20260330020000 +0000" stop="20260330020500 +0000" channel="BTV.vision">
-<title>BTV</title>
-</programme>
-<programme start="20260330020500 +0000" stop="20260330023000 +0000" channel="BTV.vision">
-<title>BTV</title>
-</programme>
-<programme start="20260330023000 +0000" stop="20260330033000 +0000" channel="BTV.vision">
-<title>BTV</title>
-</programme>
-<programme start="20260330033000 +0000" stop="20260330040000 +0000" channel="BTV.vision">
-<title>BTV</title>
-</programme>
-<programme start="20260330040000 +0000" stop="20260330060000 +0000" channel="BTV.vision">
-<title>BTV</title>
-</programme>
-<programme start="20260330060000 +0000" stop="20260330070000 +0000" channel="BTV.vision">
-<title>BTV</title>
-</programme>
-<programme start="20260330070000 +0000" stop="20260330073000 +0000" channel="BTV.vision">
-<title>BTV</title>
-</programme>
-<programme start="20260330073000 +0000" stop="20260330080000 +0000" channel="BTV.vision">
-<title>BTV</title>
-</programme>
-<programme start="20260330080000 +0000" stop="20260330083000 +0000" channel="BTV.vision">
-<title>BTV</title>
-</programme>
-<programme start="20260330083000 +0000" stop="20260330103000 +0000" channel="BTV.vision">
-<title>BTV</title>
-</programme>
-<programme start="20260330103000 +0000" stop="20260330110000 +0000" channel="BTV.vision">
-<title>BTV</title>
-</programme>
-<programme start="20260330110000 +0000" stop="20260330120000 +0000" channel="BTV.vision">
-<title>BTV</title>
-</programme>
-<programme start="20260330120000 +0000" stop="20260330130000 +0000" channel="BTV.vision">
-<title>BTV</title>
-</programme>
-<programme start="20260330130000 +0000" stop="20260330140000 +0000" channel="BTV.vision">
-<title>BTV</title>
-</programme>
-<programme start="20260330140000 +0000" stop="20260330150000 +0000" channel="BTV.vision">
-<title>BTV</title>
-</programme>
-<programme start="20260330150000 +0000" stop="20260330160000 +0000" channel="BTV.vision">
-<title>BTV</title>
-</programme>
-<programme start="20260330160000 +0000" stop="20260330163000 +0000" channel="BTV.vision">
-<title>BTV</title>
-</programme>
-<programme start="20260330163000 +0000" stop="20260330173000 +0000" channel="BTV.vision">
-<title>BTV</title>
-</programme>
-<programme start="20260330173000 +0000" stop="20260330180000 +0000" channel="BTV.vision">
-<title>BTV</title>
-</programme>
-<programme start="20260330180000 +0000" stop="20260330182700 +0000" channel="BTV.vision">
-<title>BTV</title>
-</programme>
-<programme start="20260330182700 +0000" stop="20260330183000 +0000" channel="BTV.vision">
-<title>BTV</title>
-</programme>
-<programme start="20260330183000 +0000" stop="20260330203000 +0000" channel="BTV.vision">
-<title>BTV</title>
-</programme>
-<programme start="20260330203000 +0000" stop="20260330213000 +0000" channel="BTV.vision">
-<title>BTV</title>
-</programme>
-<programme start="20260330213000 +0000" stop="20260330230000 +0000" channel="BTV.vision">
-<title>BTV</title>
-</programme>
-<programme start="20260330230000 +0000" stop="20260330230300 +0000" channel="BTV.vision">
-<title>BTV</title>
-</programme>
-<programme start="20260330230300 +0000" stop="20260330233000 +0000" channel="BTV.vision">
-<title>BTV</title>
-</programme>
-<programme start="20260330233000 +0000" stop="20260331003000 +0000" channel="BTV.vision">
-<title>BTV</title>
-</programme>
-<programme start="20260331003000 +0000" stop="20260331010000 +0000" channel="BTV.vision">
-<title>BTV</title>
-</programme>
-<programme start="20260331010000 +0000" stop="20260331010500 +0000" channel="BTV.vision">
-<title>BTV</title>
-</programme>
-<programme start="20260331010500 +0000" stop="20260331011500 +0000" channel="BTV.vision">
-<title>BTV</title>
-</programme>
-<programme start="20260331011500 +0000" stop="20260331014500 +0000" channel="BTV.vision">
-<title>BTV</title>
-</programme>
-<programme start="20260331014500 +0000" stop="20260331020000 +0000" channel="BTV.vision">
-<title>BTV</title>
-</programme>
-<programme start="20260331020000 +0000" stop="20260331020500 +0000" channel="BTV.vision">
-<title>BTV</title>
-</programme>
-<programme start="20260331020500 +0000" stop="20260331023000 +0000" channel="BTV.vision">
-<title>BTV</title>
-</programme>
-<programme start="20260331023000 +0000" stop="20260331033000 +0000" channel="BTV.vision">
-<title>BTV</title>
-</programme>
-<programme start="20260331033000 +0000" stop="20260331040000 +0000" channel="BTV.vision">
-<title>BTV</title>
-</programme>
-<programme start="20260331040000 +0000" stop="20260331060000 +0000" channel="BTV.vision">
-<title>BTV</title>
-</programme>
-<programme start="20260331060000 +0000" stop="20260331070000 +0000" channel="BTV.vision">
-<title>BTV</title>
-</programme>
-<programme start="20260331070000 +0000" stop="20260331073000 +0000" channel="BTV.vision">
-<title>BTV</title>
-</programme>
-<programme start="20260331073000 +0000" stop="20260331080000 +0000" channel="BTV.vision">
-<title>BTV</title>
-</programme>
-<programme start="20260331080000 +0000" stop="20260331083000 +0000" channel="BTV.vision">
-<title>BTV</title>
-</programme>
-<programme start="20260331083000 +0000" stop="20260331103000 +0000" channel="BTV.vision">
-<title>BTV</title>
-</programme>
-<programme start="20260331103000 +0000" stop="20260331110000 +0000" channel="BTV.vision">
-<title>BTV</title>
-</programme>
-<programme start="20260331110000 +0000" stop="20260331120000 +0000" channel="BTV.vision">
-<title>BTV</title>
-</programme>
 <programme start="20260329230000 +0000" stop="20260330010000 +0000" channel="TVRI.vision">
 <title>TVRI</title>
 </programme>
@@ -1497,4 +1347,154 @@
 </programme>
 <programme start="20260331090000 +0000" stop="20260331120000 +0000" channel="DAAI TV.vision">
 <title>DAAI TV</title>
+</programme>
+<programme start="20260330000000 +0000" stop="20260330010000 +0000" channel="MDTV.vision">
+<title>MDTV</title>
+</programme>
+<programme start="20260330010000 +0000" stop="20260330020000 +0000" channel="MDTV.vision">
+<title>MDTV</title>
+</programme>
+<programme start="20260330020000 +0000" stop="20260330025500 +0000" channel="MDTV.vision">
+<title>MDTV</title>
+</programme>
+<programme start="20260330025500 +0000" stop="20260330040000 +0000" channel="MDTV.vision">
+<title>MDTV</title>
+</programme>
+<programme start="20260330040000 +0000" stop="20260330053000 +0000" channel="MDTV.vision">
+<title>MDTV</title>
+</programme>
+<programme start="20260330053000 +0000" stop="20260330063000 +0000" channel="MDTV.vision">
+<title>MDTV</title>
+</programme>
+<programme start="20260330063000 +0000" stop="20260330080000 +0000" channel="MDTV.vision">
+<title>MDTV</title>
+</programme>
+<programme start="20260330080000 +0000" stop="20260330085500 +0000" channel="MDTV.vision">
+<title>MDTV</title>
+</programme>
+<programme start="20260330085500 +0000" stop="20260330101000 +0000" channel="MDTV.vision">
+<title>MDTV</title>
+</programme>
+<programme start="20260330101000 +0000" stop="20260330110500 +0000" channel="MDTV.vision">
+<title>MDTV</title>
+</programme>
+<programme start="20260330110500 +0000" stop="20260330122000 +0000" channel="MDTV.vision">
+<title>MDTV</title>
+</programme>
+<programme start="20260330122000 +0000" stop="20260330133000 +0000" channel="MDTV.vision">
+<title>MDTV</title>
+</programme>
+<programme start="20260330133000 +0000" stop="20260330150000 +0000" channel="MDTV.vision">
+<title>MDTV</title>
+</programme>
+<programme start="20260330150000 +0000" stop="20260330170000 +0000" channel="MDTV.vision">
+<title>MDTV</title>
+</programme>
+<programme start="20260330170000 +0000" stop="20260330190000 +0000" channel="MDTV.vision">
+<title>MDTV</title>
+</programme>
+<programme start="20260330190000 +0000" stop="20260330200000 +0000" channel="MDTV.vision">
+<title>MDTV</title>
+</programme>
+<programme start="20260330200000 +0000" stop="20260330210000 +0000" channel="MDTV.vision">
+<title>MDTV</title>
+</programme>
+<programme start="20260330210000 +0000" stop="20260330220000 +0000" channel="MDTV.vision">
+<title>MDTV</title>
+</programme>
+<programme start="20260330220000 +0000" stop="20260330230000 +0000" channel="MDTV.vision">
+<title>MDTV</title>
+</programme>
+<programme start="20260330230000 +0000" stop="20260331000000 +0000" channel="MDTV.vision">
+<title>MDTV</title>
+</programme>
+<programme start="20260331000000 +0000" stop="20260331010000 +0000" channel="MDTV.vision">
+<title>MDTV</title>
+</programme>
+<programme start="20260331010000 +0000" stop="20260331020000 +0000" channel="MDTV.vision">
+<title>MDTV</title>
+</programme>
+<programme start="20260331020000 +0000" stop="20260331025500 +0000" channel="MDTV.vision">
+<title>MDTV</title>
+</programme>
+<programme start="20260331025500 +0000" stop="20260331040000 +0000" channel="MDTV.vision">
+<title>MDTV</title>
+</programme>
+<programme start="20260331040000 +0000" stop="20260331053000 +0000" channel="MDTV.vision">
+<title>MDTV</title>
+</programme>
+<programme start="20260331053000 +0000" stop="20260331063000 +0000" channel="MDTV.vision">
+<title>MDTV</title>
+</programme>
+<programme start="20260331063000 +0000" stop="20260331080000 +0000" channel="MDTV.vision">
+<title>MDTV</title>
+</programme>
+<programme start="20260331080000 +0000" stop="20260331085500 +0000" channel="MDTV.vision">
+<title>MDTV</title>
+</programme>
+<programme start="20260331085500 +0000" stop="20260331101000 +0000" channel="MDTV.vision">
+<title>MDTV</title>
+</programme>
+<programme start="20260331101000 +0000" stop="20260331110500 +0000" channel="MDTV.vision">
+<title>MDTV</title>
+</programme>
+<programme start="20260331110500 +0000" stop="20260331122000 +0000" channel="MDTV.vision">
+<title>MDTV</title>
+</programme>
+<programme start="20260330000000 +0000" stop="20260330020000 +0000" channel="JTV.vision">
+<title>JTV</title>
+</programme>
+<programme start="20260330020000 +0000" stop="20260330040000 +0000" channel="JTV.vision">
+<title>JTV</title>
+</programme>
+<programme start="20260330040000 +0000" stop="20260330060000 +0000" channel="JTV.vision">
+<title>JTV</title>
+</programme>
+<programme start="20260330060000 +0000" stop="20260330080000 +0000" channel="JTV.vision">
+<title>JTV</title>
+</programme>
+<programme start="20260330080000 +0000" stop="20260330100000 +0000" channel="JTV.vision">
+<title>JTV</title>
+</programme>
+<programme start="20260330100000 +0000" stop="20260330120000 +0000" channel="JTV.vision">
+<title>JTV</title>
+</programme>
+<programme start="20260330120000 +0000" stop="20260330140000 +0000" channel="JTV.vision">
+<title>JTV</title>
+</programme>
+<programme start="20260330140000 +0000" stop="20260330160000 +0000" channel="JTV.vision">
+<title>JTV</title>
+</programme>
+<programme start="20260330160000 +0000" stop="20260330180000 +0000" channel="JTV.vision">
+<title>JTV</title>
+</programme>
+<programme start="20260330180000 +0000" stop="20260330200000 +0000" channel="JTV.vision">
+<title>JTV</title>
+</programme>
+<programme start="20260330200000 +0000" stop="20260330220000 +0000" channel="JTV.vision">
+<title>JTV</title>
+</programme>
+<programme start="20260330220000 +0000" stop="20260331000000 +0000" channel="JTV.vision">
+<title>JTV</title>
+</programme>
+<programme start="20260331000000 +0000" stop="20260331020000 +0000" channel="JTV.vision">
+<title>JTV</title>
+</programme>
+<programme start="20260331020000 +0000" stop="20260331040000 +0000" channel="JTV.vision">
+<title>JTV</title>
+</programme>
+<programme start="20260331040000 +0000" stop="20260331060000 +0000" channel="JTV.vision">
+<title>JTV</title>
+</programme>
+<programme start="20260331060000 +0000" stop="20260331080000 +0000" channel="JTV.vision">
+<title>JTV</title>
+</programme>
+<programme start="20260331080000 +0000" stop="20260331100000 +0000" channel="JTV.vision">
+<title>JTV</title>
+</programme>
+<programme start="20260331100000 +0000" stop="20260331120000 +0000" channel="JTV.vision">
+<title>JTV</title>
+</programme>
+<programme start="20260330000000 +0000" stop="20260330003000 +0000" channel="JAK TV.vision">
+<title>Agritek</title>
 </programme>
