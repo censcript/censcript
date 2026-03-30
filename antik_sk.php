@@ -2425,45 +2425,6 @@
   <programme start="20260401214000 +0000" stop="20260401222000 +0000" channel="RiK TV.webtv.sk">
     <title lang="id">Flopyho veselé príbehy</title>
   </programme>
-  <programme start="20260331220000 +0000" stop="20260401030000 +0000" channel="LALA TV.webtv.sk">
-    <title lang="id">Spíva celá rodina</title>
-  </programme>
-  <programme start="20260401030000 +0000" stop="20260401050000 +0000" channel="LALA TV.webtv.sk">
-    <title lang="id">Ranní ptáčata</title>
-  </programme>
-  <programme start="20260401050000 +0000" stop="20260401060000 +0000" channel="LALA TV.webtv.sk">
-    <title lang="id">Já jsem budík budíček</title>
-  </programme>
-  <programme start="20260401060000 +0000" stop="20260401070000 +0000" channel="LALA TV.webtv.sk">
-    <title lang="id">Spíva celá rodina</title>
-  </programme>
-  <programme start="20260401070000 +0000" stop="20260401100000 +0000" channel="LALA TV.webtv.sk">
-    <title lang="id">Pějme písně dokola</title>
-  </programme>
-  <programme start="20260401100000 +0000" stop="20260401110000 +0000" channel="LALA TV.webtv.sk">
-    <title lang="id">Hvězdy a hvězdičky</title>
-  </programme>
-  <programme start="20260401110000 +0000" stop="20260401140000 +0000" channel="LALA TV.webtv.sk">
-    <title lang="id">Pějme písně dokola</title>
-  </programme>
-  <programme start="20260401140000 +0000" stop="20260401150000 +0000" channel="LALA TV.webtv.sk">
-    <title lang="id">Hvězdy a hvězdičky</title>
-  </programme>
-  <programme start="20260401150000 +0000" stop="20260401160000 +0000" channel="LALA TV.webtv.sk">
-    <title lang="id">Spíva celá rodina</title>
-  </programme>
-  <programme start="20260401160000 +0000" stop="20260401170000 +0000" channel="LALA TV.webtv.sk">
-    <title lang="id">Pějme písně dokola</title>
-  </programme>
-  <programme start="20260401170000 +0000" stop="20260401180000 +0000" channel="LALA TV.webtv.sk">
-    <title lang="id">Hvězdy a hvězdičky</title>
-  </programme>
-  <programme start="20260401180000 +0000" stop="20260401200000 +0000" channel="LALA TV.webtv.sk">
-    <title lang="id">Pějme písně dokola</title>
-  </programme>
-  <programme start="20260401200000 +0000" stop="20260401220000 +0000" channel="LALA TV.webtv.sk">
-    <title lang="id">Malí nezbedníci</title>
-  </programme>
   <programme start="20260331220000 +0000" stop="20260401040000 +0000" channel="Turbo TV.webtv.sk">
     <title lang="id">Zajko Turbo spinká. Prajeme Vám dobrú noc.</title>
   </programme>
@@ -9241,6 +9202,84 @@
   <programme start="20260401205500 +0000" stop="20260401220500 +0000" channel="AXN White.webtv.sk">
     <title lang="id">Profil zločinu VII (8)</title>
   </programme>
+  <programme start="20260331215000 +0000" stop="20260331224000 +0000" channel="AXN Black.webtv.sk">
+    <title lang="id">Walker, Texas Ranger III (9)</title>
+  </programme>
+  <programme start="20260331224000 +0000" stop="20260331232000 +0000" channel="AXN Black.webtv.sk">
+    <title lang="id">MacGyver III (20)</title>
+  </programme>
+  <programme start="20260331232000 +0000" stop="20260401000000 +0000" channel="AXN Black.webtv.sk">
+    <title lang="id">MacGyver III (21)</title>
+  </programme>
+  <programme start="20260401000000 +0000" stop="20260401004500 +0000" channel="AXN Black.webtv.sk">
+    <title lang="id">Hvězdná brána V (9)</title>
+  </programme>
+  <programme start="20260401004500 +0000" stop="20260401020000 +0000" channel="AXN Black.webtv.sk">
+    <title lang="id">Hvězdná brána V (10)</title>
+  </programme>
+  <programme start="20260401020000 +0000" stop="20260401030000 +0000" channel="AXN Black.webtv.sk">
+    <title lang="id">Teleshop</title>
+  </programme>
+  <programme start="20260401030000 +0000" stop="20260401043500 +0000" channel="AXN Black.webtv.sk">
+    <title lang="id">Teleshop</title>
+  </programme>
+  <programme start="20260401043500 +0000" stop="20260401054000 +0000" channel="AXN Black.webtv.sk">
+    <title lang="id">Xena IV (19)</title>
+  </programme>
+  <programme start="20260401054000 +0000" stop="20260401064000 +0000" channel="AXN Black.webtv.sk">
+    <title lang="id">Xena IV (20)</title>
+  </programme>
+  <programme start="20260401064000 +0000" stop="20260401073500 +0000" channel="AXN Black.webtv.sk">
+    <title lang="id">Hvězdná brána: Atlantida II (5)</title>
+  </programme>
+  <programme start="20260401073500 +0000" stop="20260401083000 +0000" channel="AXN Black.webtv.sk">
+    <title lang="id">Hvězdná brána: Atlantida II (6)</title>
+  </programme>
+  <programme start="20260401083000 +0000" stop="20260401093000 +0000" channel="AXN Black.webtv.sk">
+    <title lang="id">Xena III (1)</title>
+  </programme>
+  <programme start="20260401093000 +0000" stop="20260401102500 +0000" channel="AXN Black.webtv.sk">
+    <title lang="id">Xena III (2)</title>
+  </programme>
+  <programme start="20260401102500 +0000" stop="20260401112500 +0000" channel="AXN Black.webtv.sk">
+    <title lang="id">Hvězdná brána V (11)</title>
+  </programme>
+  <programme start="20260401112500 +0000" stop="20260401122000 +0000" channel="AXN Black.webtv.sk">
+    <title lang="id">Hvězdná brána V (12)</title>
+  </programme>
+  <programme start="20260401122000 +0000" stop="20260401131500 +0000" channel="AXN Black.webtv.sk">
+    <title lang="id">Walker, Texas Ranger III (9)</title>
+  </programme>
+  <programme start="20260401131500 +0000" stop="20260401141000 +0000" channel="AXN Black.webtv.sk">
+    <title lang="id">JAG V (16)</title>
+  </programme>
+  <programme start="20260401141000 +0000" stop="20260401151000 +0000" channel="AXN Black.webtv.sk">
+    <title lang="id">Xena III (3)</title>
+  </programme>
+  <programme start="20260401151000 +0000" stop="20260401160500 +0000" channel="AXN Black.webtv.sk">
+    <title lang="id">Xena III (4)</title>
+  </programme>
+  <programme start="20260401160500 +0000" stop="20260401170000 +0000" channel="AXN Black.webtv.sk">
+    <title lang="id">Odpadlík V (13)</title>
+  </programme>
+  <programme start="20260401170000 +0000" stop="20260401180000 +0000" channel="AXN Black.webtv.sk">
+    <title lang="id">Odpadlík V (14)</title>
+  </programme>
+  <programme start="20260401180000 +0000" stop="20260401190000 +0000" channel="AXN Black.webtv.sk">
+    <title lang="id">Walker, Texas Ranger III (10)</title>
+  </programme>
+  <programme start="20260401190000 +0000" stop="20260401195500 +0000" channel="AXN Black.webtv.sk">
+    <title lang="id">Hvězdná brána: Atlantida III (10)</title>
+  </programme>
+  <programme start="20260401195500 +0000" stop="20260401205500 +0000" channel="AXN Black.webtv.sk">
+    <title lang="id">Hvězdná brána: Atlantida III (11)</title>
+  </programme>
+  <programme start="20260401205500 +0000" stop="20260401215500 +0000" channel="AXN Black.webtv.sk">
+    <title lang="id">JAG V (16)</title>
+  </programme>
+  <programme start="20260401215500 +0000" stop="20260401224000 +0000" channel="AXN Black.webtv.sk">
+    <title lang="id">Walker, Texas Ranger III (10)</title>
+  </programme>
   <programme start="20260331220000 +0000" stop="20260331233500 +0000" channel="FilmBox.webtv.sk">
     <title lang="id">Román pro muže</title>
   </programme>
@@ -9585,102 +9624,6 @@
   </programme>
   <programme start="20260401202500 +0000" stop="20260401220500 +0000" channel="Filmbox Arthouse.webtv.sk">
     <title lang="id">The Stranger Within a Woman</title>
-  </programme>
-  <programme start="20260331220000 +0000" stop="20260331223000 +0000" channel="FashionBox.webtv.sk">
-    <title lang="id">World Of Celebrities I (27)</title>
-  </programme>
-  <programme start="20260331223000 +0000" stop="20260331230000 +0000" channel="FashionBox.webtv.sk">
-    <title lang="id">World Of Celebrities I (28)</title>
-  </programme>
-  <programme start="20260331230000 +0000" stop="20260331233000 +0000" channel="FashionBox.webtv.sk">
-    <title lang="id">Swim Week 2023 (9)</title>
-  </programme>
-  <programme start="20260331233000 +0000" stop="20260401000000 +0000" channel="FashionBox.webtv.sk">
-    <title lang="id">Swim Week 2023 (10)</title>
-  </programme>
-  <programme start="20260401000000 +0000" stop="20260401003000 +0000" channel="FashionBox.webtv.sk">
-    <title lang="id">Swim Week 2023 (15)</title>
-  </programme>
-  <programme start="20260401003000 +0000" stop="20260401010000 +0000" channel="FashionBox.webtv.sk">
-    <title lang="id">Swim Week 2023 (16)</title>
-  </programme>
-  <programme start="20260401010000 +0000" stop="20260401020000 +0000" channel="FashionBox.webtv.sk">
-    <title lang="id">Homme I (1)</title>
-  </programme>
-  <programme start="20260401020000 +0000" stop="20260401030000 +0000" channel="FashionBox.webtv.sk">
-    <title lang="id">Femme III (1)</title>
-  </programme>
-  <programme start="20260401030000 +0000" stop="20260401040000 +0000" channel="FashionBox.webtv.sk">
-    <title lang="id">Cities I (1)</title>
-  </programme>
-  <programme start="20260401040000 +0000" stop="20260401050000 +0000" channel="FashionBox.webtv.sk">
-    <title lang="id">Look I (1)</title>
-  </programme>
-  <programme start="20260401050000 +0000" stop="20260401060000 +0000" channel="FashionBox.webtv.sk">
-    <title lang="id">Cities I (1)</title>
-  </programme>
-  <programme start="20260401060000 +0000" stop="20260401070000 +0000" channel="FashionBox.webtv.sk">
-    <title lang="id">Look I (1)</title>
-  </programme>
-  <programme start="20260401070000 +0000" stop="20260401080000 +0000" channel="FashionBox.webtv.sk">
-    <title lang="id">Homme I (1)</title>
-  </programme>
-  <programme start="20260401080000 +0000" stop="20260401090000 +0000" channel="FashionBox.webtv.sk">
-    <title lang="id">Femme III (1)</title>
-  </programme>
-  <programme start="20260401090000 +0000" stop="20260401100000 +0000" channel="FashionBox.webtv.sk">
-    <title lang="id">Cities I (1)</title>
-  </programme>
-  <programme start="20260401100000 +0000" stop="20260401110000 +0000" channel="FashionBox.webtv.sk">
-    <title lang="id">Look I (1)</title>
-  </programme>
-  <programme start="20260401110000 +0000" stop="20260401120000 +0000" channel="FashionBox.webtv.sk">
-    <title lang="id">Cities I (1)</title>
-  </programme>
-  <programme start="20260401120000 +0000" stop="20260401130000 +0000" channel="FashionBox.webtv.sk">
-    <title lang="id">Look I (1)</title>
-  </programme>
-  <programme start="20260401130000 +0000" stop="20260401140000 +0000" channel="FashionBox.webtv.sk">
-    <title lang="id">Homme I (1)</title>
-  </programme>
-  <programme start="20260401140000 +0000" stop="20260401150000 +0000" channel="FashionBox.webtv.sk">
-    <title lang="id">Femme III (1)</title>
-  </programme>
-  <programme start="20260401150000 +0000" stop="20260401160000 +0000" channel="FashionBox.webtv.sk">
-    <title lang="id">Cities I (1)</title>
-  </programme>
-  <programme start="20260401160000 +0000" stop="20260401162000 +0000" channel="FashionBox.webtv.sk">
-    <title lang="id">Legend Of Lagerfeld (4)</title>
-  </programme>
-  <programme start="20260401162000 +0000" stop="20260401164000 +0000" channel="FashionBox.webtv.sk">
-    <title lang="id">Legend Of Lagerfeld (5)</title>
-  </programme>
-  <programme start="20260401164000 +0000" stop="20260401170000 +0000" channel="FashionBox.webtv.sk">
-    <title lang="id">Legend Of Lagerfeld (6)</title>
-  </programme>
-  <programme start="20260401170000 +0000" stop="20260401180000 +0000" channel="FashionBox.webtv.sk">
-    <title lang="id">City Chic Paris</title>
-  </programme>
-  <programme start="20260401180000 +0000" stop="20260401190000 +0000" channel="FashionBox.webtv.sk">
-    <title lang="id">Luxury Life - The Illusion Of The American Frontier &amp; Rolling Stones Tour Plane Pop-up</title>
-  </programme>
-  <programme start="20260401190000 +0000" stop="20260401193000 +0000" channel="FashionBox.webtv.sk">
-    <title lang="id">New York Fashionweek - Spring Summer 2019 (31)</title>
-  </programme>
-  <programme start="20260401193000 +0000" stop="20260401200000 +0000" channel="FashionBox.webtv.sk">
-    <title lang="id">New York Fashionweek - Spring Summer 2019 (32)</title>
-  </programme>
-  <programme start="20260401200000 +0000" stop="20260401203000 +0000" channel="FashionBox.webtv.sk">
-    <title lang="id">World Of Celebrities I (29)</title>
-  </programme>
-  <programme start="20260401203000 +0000" stop="20260401210000 +0000" channel="FashionBox.webtv.sk">
-    <title lang="id">World Of Celebrities I (30)</title>
-  </programme>
-  <programme start="20260401210000 +0000" stop="20260401213000 +0000" channel="FashionBox.webtv.sk">
-    <title lang="id">Swim Week 2023 (11)</title>
-  </programme>
-  <programme start="20260401213000 +0000" stop="20260401220000 +0000" channel="FashionBox.webtv.sk">
-    <title lang="id">Swim Week 2023 (12)</title>
   </programme>
   <programme start="20260331220000 +0000" stop="20260331223000 +0000" channel="Fast and Funbox.webtv.sk">
     <title lang="id">Supercar TV I (2)</title>

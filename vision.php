@@ -568,18 +568,6 @@
 <programme start="20260330163000 +0000" stop="20260330171500 +0000" channel="Trans 7.vision">
 <title>Newstainment</title>
 </programme>
-<programme start="20260330171500 +0000" stop="20260330174500 +0000" channel="Trans 7.vision">
-<title>Redaksi Malam</title>
-</programme>
-<programme start="20260330174500 +0000" stop="20260330183000 +0000" channel="Trans 7.vision">
-<title>Sport7</title>
-</programme>
-<programme start="20260330183000 +0000" stop="20260330190000 +0000" channel="Trans 7.vision">
-<title>Dracin</title>
-</programme>
-<programme start="20260330190000 +0000" stop="20260330194500 +0000" channel="Trans 7.vision">
-<title>Superbike 2026 Portugal</title>
-</programme>
 <programme start="20260330194500 +0000" stop="20260330204500 +0000" channel="Trans 7.vision">
 <title>Best Fishing</title>
 </programme>
@@ -1497,4 +1485,16 @@
 </programme>
 <programme start="20260331010500 +0000" stop="20260331015500 +0000" channel="MDTV.vision">
 <title>Fakta +62</title>
+</programme>
+<programme start="20260331015500 +0000" stop="20260331025000 +0000" channel="MDTV.vision">
+<title>Sensasihot</title>
+</programme>
+<programme start="20260331025000 +0000" stop="20260331034000 +0000" channel="MDTV.vision">
+<title>Maria Cinta Yang Hilang</title>
+</programme>
+<programme start="20260331034000 +0000" stop="20260331050500 +0000" channel="MDTV.vision">
+<title>Cinta Fitri S6</title>
+</programme>
+<programme start="20260331050500 +0000" stop="20260331062500 +0000" channel="MDTV.vision">
+<title>Janji Cinta (Sindoor Ki Keemat)</title>
 </programme>
