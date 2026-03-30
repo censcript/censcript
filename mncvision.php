@@ -4855,11 +4855,8 @@
 <programme start="20260330120500 +0000" stop="20260330130000 +0000" channel="iNews.mncvision">
     <title>iNews Room (L)</title>
 </programme>
-<programme start="20260330130000 +0000" stop="20260330130500 +0000" channel="iNews.mncvision">
+<programme start="20260330130000 +0000" stop="20260330133000 +0000" channel="iNews.mncvision">
     <title>iNews Terkini (L)</title>
-</programme>
-<programme start="20260330130500 +0000" stop="20260330133000 +0000" channel="iNews.mncvision">
-    <title>iNews Room (L)</title>
 </programme>
 <programme start="20260330133000 +0000" stop="20260330143000 +0000" channel="iNews.mncvision">
     <title>iNews Prime (L)</title>
@@ -4924,11 +4921,8 @@
 <programme start="20260330120500 +0000" stop="20260330130000 +0000" channel="iNews HD.mncvision">
     <title>iNews Room (L)</title>
 </programme>
-<programme start="20260330130000 +0000" stop="20260330130500 +0000" channel="iNews HD.mncvision">
+<programme start="20260330130000 +0000" stop="20260330133000 +0000" channel="iNews HD.mncvision">
     <title>iNews Terkini (L)</title>
-</programme>
-<programme start="20260330130500 +0000" stop="20260330133000 +0000" channel="iNews HD.mncvision">
-    <title>iNews Room (L)</title>
 </programme>
 <programme start="20260330133000 +0000" stop="20260330143000 +0000" channel="iNews HD.mncvision">
     <title>iNews Prime (L)</title>
@@ -5075,7 +5069,7 @@
     <title>Entong Animasi</title>
 </programme>
 <programme start="20260330050000 +0000" stop="20260330053000 +0000" channel="Kids TV.mncvision">
-    <title>PAW Patrol S4</title>
+    <title>PAW Patrol S5</title>
 </programme>
 <programme start="20260330053000 +0000" stop="20260330060000 +0000" channel="Kids TV.mncvision">
     <title>Titus The Detective</title>
@@ -5099,7 +5093,7 @@
     <title>Titus The Detective</title>
 </programme>
 <programme start="20260330120000 +0000" stop="20260330123000 +0000" channel="Kids TV.mncvision">
-    <title>PAW Patrol S4</title>
+    <title>PAW Patrol S5</title>
 </programme>
 <programme start="20260330123000 +0000" stop="20260330130000 +0000" channel="Kids TV.mncvision">
     <title>The Patrick Star Show</title>
@@ -5174,7 +5168,7 @@
     <title>Entong Animasi</title>
 </programme>
 <programme start="20260330050000 +0000" stop="20260330053000 +0000" channel="Kids TV HD.mncvision">
-    <title>PAW Patrol S4</title>
+    <title>PAW Patrol S5</title>
 </programme>
 <programme start="20260330053000 +0000" stop="20260330060000 +0000" channel="Kids TV HD.mncvision">
     <title>Titus The Detective</title>
@@ -5198,7 +5192,7 @@
     <title>Titus The Detective</title>
 </programme>
 <programme start="20260330120000 +0000" stop="20260330123000 +0000" channel="Kids TV HD.mncvision">
-    <title>PAW Patrol S4</title>
+    <title>PAW Patrol S5</title>
 </programme>
 <programme start="20260330123000 +0000" stop="20260330130000 +0000" channel="Kids TV HD.mncvision">
     <title>The Patrick Star Show</title>
@@ -6259,71 +6253,71 @@
 <programme start="20260330163000 +0000" stop="20260329170000 +0000" channel="Music TV HD.mncvision">
     <title>Godain</title>
 </programme>
-<programme start="20260329171500 +0000" stop="20260329184500 +0000" channel="Muslim TV.mncvision">
+<programme start="20260329173000 +0000" stop="20260329190000 +0000" channel="Muslim TV.mncvision">
     <title>Live Dari Mekkah (L)</title>
 </programme>
-<programme start="20260329184500 +0000" stop="20260329194500 +0000" channel="Muslim TV.mncvision">
+<programme start="20260329190000 +0000" stop="20260329200000 +0000" channel="Muslim TV.mncvision">
     <title>Aisyah Putri: Jilbab In Love</title>
 </programme>
-<programme start="20260329194500 +0000" stop="20260329204500 +0000" channel="Muslim TV.mncvision">
+<programme start="20260329200000 +0000" stop="20260329210000 +0000" channel="Muslim TV.mncvision">
     <title>Banyak Jalan Menuju Surga</title>
 </programme>
-<programme start="20260329204500 +0000" stop="20260329214500 +0000" channel="Muslim TV.mncvision">
+<programme start="20260329210000 +0000" stop="20260329220000 +0000" channel="Muslim TV.mncvision">
     <title>Amanah Wali S8</title>
 </programme>
-<programme start="20260329214500 +0000" stop="20260329231500 +0000" channel="Muslim TV.mncvision">
+<programme start="20260329220000 +0000" stop="20260329233000 +0000" channel="Muslim TV.mncvision">
     <title>Hafiz Indonesia 2025</title>
 </programme>
-<programme start="20260329231500 +0000" stop="20260330003000 +0000" channel="Muslim TV.mncvision">
+<programme start="20260329233000 +0000" stop="20260330004500 +0000" channel="Muslim TV.mncvision">
     <title>Cahaya Hati Indonesia</title>
 </programme>
-<programme start="20260330003000 +0000" stop="20260330013000 +0000" channel="Muslim TV.mncvision">
+<programme start="20260330004500 +0000" stop="20260330014500 +0000" channel="Muslim TV.mncvision">
     <title>Kun Anta</title>
 </programme>
-<programme start="20260330013000 +0000" stop="20260330020000 +0000" channel="Muslim TV.mncvision">
+<programme start="20260330014500 +0000" stop="20260330021500 +0000" channel="Muslim TV.mncvision">
     <title>World Of Moslem</title>
 </programme>
-<programme start="20260330020000 +0000" stop="20260330030000 +0000" channel="Muslim TV.mncvision">
+<programme start="20260330021500 +0000" stop="20260330031500 +0000" channel="Muslim TV.mncvision">
     <title>Amanah Wali S8</title>
 </programme>
-<programme start="20260330030000 +0000" stop="20260330040000 +0000" channel="Muslim TV.mncvision">
+<programme start="20260330031500 +0000" stop="20260330041500 +0000" channel="Muslim TV.mncvision">
     <title>Banyak Jalan Menuju Surga</title>
 </programme>
-<programme start="20260330040000 +0000" stop="20260330051500 +0000" channel="Muslim TV.mncvision">
+<programme start="20260330041500 +0000" stop="20260330053000 +0000" channel="Muslim TV.mncvision">
     <title>Siraman Qolbu, Ust. Dhanu</title>
 </programme>
-<programme start="20260330051500 +0000" stop="20260330064500 +0000" channel="Muslim TV.mncvision">
-    <title>Bidadari Turun Di Mushola</title>
+<programme start="20260330053000 +0000" stop="20260330070000 +0000" channel="Muslim TV.mncvision">
+    <title>Jodoh Gue Ustadz Ganteng</title>
 </programme>
-<programme start="20260330064500 +0000" stop="20260330071500 +0000" channel="Muslim TV.mncvision">
+<programme start="20260330070000 +0000" stop="20260330073000 +0000" channel="Muslim TV.mncvision">
     <title>World Of Moslem</title>
 </programme>
-<programme start="20260330071500 +0000" stop="20260330081500 +0000" channel="Muslim TV.mncvision">
+<programme start="20260330073000 +0000" stop="20260330083000 +0000" channel="Muslim TV.mncvision">
     <title>Penyejuk Hati</title>
 </programme>
-<programme start="20260330081500 +0000" stop="20260330091500 +0000" channel="Muslim TV.mncvision">
+<programme start="20260330083000 +0000" stop="20260330093000 +0000" channel="Muslim TV.mncvision">
     <title>Aisyah Putri: Jilbab In Love</title>
 </programme>
-<programme start="20260330091500 +0000" stop="20260330101500 +0000" channel="Muslim TV.mncvision">
+<programme start="20260330093000 +0000" stop="20260330103000 +0000" channel="Muslim TV.mncvision">
     <title>Lentera Hati</title>
 </programme>
-<programme start="20260330101500 +0000" stop="20260330113000 +0000" channel="Muslim TV.mncvision">
+<programme start="20260330103000 +0000" stop="20260330114500 +0000" channel="Muslim TV.mncvision">
     <title>Amanah Wali S8</title>
 </programme>
-<programme start="20260330113000 +0000" stop="20260330124500 +0000" channel="Muslim TV.mncvision">
+<programme start="20260330114500 +0000" stop="20260330130000 +0000" channel="Muslim TV.mncvision">
     <title>Amanah Wali S8</title>
 </programme>
-<programme start="20260330124500 +0000" stop="20260330134500 +0000" channel="Muslim TV.mncvision">
+<programme start="20260330130000 +0000" stop="20260330140000 +0000" channel="Muslim TV.mncvision">
     <title>Aisyah Putri: Jilbab In Love</title>
 </programme>
-<programme start="20260330134500 +0000" stop="20260330144500 +0000" channel="Muslim TV.mncvision">
+<programme start="20260330140000 +0000" stop="20260330150000 +0000" channel="Muslim TV.mncvision">
     <title>Banyak Jalan Menuju Surga</title>
 </programme>
-<programme start="20260330144500 +0000" stop="20260330154500 +0000" channel="Muslim TV.mncvision">
+<programme start="20260330150000 +0000" stop="20260330160000 +0000" channel="Muslim TV.mncvision">
     <title>Catatan Hati Seorang Istri</title>
 </programme>
-<programme start="20260330154500 +0000" stop="20260330161500 +0000" channel="Muslim TV.mncvision">
-    <title>Bidadari Turun Di Mushola</title>
+<programme start="20260330160000 +0000" stop="20260330163000 +0000" channel="Muslim TV.mncvision">
+    <title>Jodoh Gue Ustadz Ganteng</title>
 </programme>
 <programme start="20260329170000 +0000" stop="20260329171000 +0000" channel="NHK World.mncvision">
     <title>NHK Newsline</title>
@@ -8410,32 +8404,32 @@
 <programme start="20260329204000 +0000" stop="20260329233000 +0000" channel="SPOTV.mncvision">
     <title>2026 WorldSBK: Australian</title>
 </programme>
-<programme start="20260329233000 +0000" stop="20260330010000 +0000" channel="SPOTV.mncvision">
+<programme start="20260329233000 +0000" stop="20260330010500 +0000" channel="SPOTV.mncvision">
     <title>2026 LIV Golf: South Africa HL</title>
 </programme>
-<programme start="20260330010000 +0000" stop="20260330040000 +0000" channel="SPOTV.mncvision">
+<programme start="20260330010500 +0000" stop="20260330040500 +0000" channel="SPOTV.mncvision">
     <title>Dubai World Cup 2026</title>
 </programme>
-<programme start="20260330040000 +0000" stop="20260330070000 +0000" channel="SPOTV.mncvision">
+<programme start="20260330040500 +0000" stop="20260330070000 +0000" channel="SPOTV.mncvision">
     <title>Dubai World Cup 2026</title>
 </programme>
-<programme start="20260330070000 +0000" stop="20260330073000 +0000" channel="SPOTV.mncvision">
-    <title>Dubai World Cup 2026</title>
-</programme>
-<programme start="20260330073000 +0000" stop="20260330083000 +0000" channel="SPOTV.mncvision">
+<programme start="20260330070000 +0000" stop="20260330081500 +0000" channel="SPOTV.mncvision">
     <title>2026 WorldSBK: Portuguese</title>
 </programme>
-<programme start="20260330083000 +0000" stop="20260330113000 +0000" channel="SPOTV.mncvision">
+<programme start="20260330081500 +0000" stop="20260330110000 +0000" channel="SPOTV.mncvision">
     <title>2026 WorldSBK: Portuguese</title>
 </programme>
-<programme start="20260330113000 +0000" stop="20260330123000 +0000" channel="SPOTV.mncvision">
+<programme start="20260330110000 +0000" stop="20260330114500 +0000" channel="SPOTV.mncvision">
     <title>2026 WorldSBK: Portuguese</title>
 </programme>
-<programme start="20260330123000 +0000" stop="20260330133000 +0000" channel="SPOTV.mncvision">
+<programme start="20260330114500 +0000" stop="20260330124500 +0000" channel="SPOTV.mncvision">
     <title>2026 WorldSBK: Portuguese</title>
 </programme>
-<programme start="20260330133000 +0000" stop="20260330140000 +0000" channel="SPOTV.mncvision">
+<programme start="20260330124500 +0000" stop="20260330163500 +0000" channel="SPOTV.mncvision">
     <title>2026 WorldSBK: Portuguese</title>
+</programme>
+<programme start="20260330163500 +0000" stop="20260329170500 +0000" channel="SPOTV.mncvision">
+    <title>2026 Gold Coast T100 HL</title>
 </programme>
 <programme start="20260329180000 +0000" stop="20260329191500 +0000" channel="SPOTV 2.mncvision">
     <title>MotoGP Red Bull Grand Prix (L)</title>
@@ -8446,16 +8440,16 @@
 <programme start="20260329213000 +0000" stop="20260329223000 +0000" channel="SPOTV 2.mncvision">
     <title>2026 LET: Australian WPGA</title>
 </programme>
-<programme start="20260329223000 +0000" stop="20260330014500 +0000" channel="SPOTV 2.mncvision">
+<programme start="20260329223000 +0000" stop="20260330015000 +0000" channel="SPOTV 2.mncvision">
     <title>MotoGP Red Bull GP Of The U.S</title>
 </programme>
-<programme start="20260330014500 +0000" stop="20260330050000 +0000" channel="SPOTV 2.mncvision">
+<programme start="20260330015000 +0000" stop="20260330051100 +0000" channel="SPOTV 2.mncvision">
     <title>MotoGP Red Bull GP Of The U.S</title>
 </programme>
-<programme start="20260330050000 +0000" stop="20260330053000 +0000" channel="SPOTV 2.mncvision">
+<programme start="20260330051100 +0000" stop="20260330054100 +0000" channel="SPOTV 2.mncvision">
     <title>WTT Champions Chongqing 2026</title>
 </programme>
-<programme start="20260330053000 +0000" stop="20260330073000 +0000" channel="SPOTV 2.mncvision">
+<programme start="20260330054100 +0000" stop="20260330073000 +0000" channel="SPOTV 2.mncvision">
     <title>A-League Men: PER Vs MCY</title>
 </programme>
 <programme start="20260330073000 +0000" stop="20260330083000 +0000" channel="SPOTV 2.mncvision">
@@ -8482,16 +8476,16 @@
 <programme start="20260329213000 +0000" stop="20260329223000 +0000" channel="SPOTV 2 HD.mncvision">
     <title>2026 LET: Australian WPGA</title>
 </programme>
-<programme start="20260329223000 +0000" stop="20260330014500 +0000" channel="SPOTV 2 HD.mncvision">
+<programme start="20260329223000 +0000" stop="20260330015000 +0000" channel="SPOTV 2 HD.mncvision">
     <title>MotoGP Red Bull GP Of The U.S</title>
 </programme>
-<programme start="20260330014500 +0000" stop="20260330050000 +0000" channel="SPOTV 2 HD.mncvision">
+<programme start="20260330015000 +0000" stop="20260330051100 +0000" channel="SPOTV 2 HD.mncvision">
     <title>MotoGP Red Bull GP Of The U.S</title>
 </programme>
-<programme start="20260330050000 +0000" stop="20260330053000 +0000" channel="SPOTV 2 HD.mncvision">
+<programme start="20260330051100 +0000" stop="20260330054100 +0000" channel="SPOTV 2 HD.mncvision">
     <title>WTT Champions Chongqing 2026</title>
 </programme>
-<programme start="20260330053000 +0000" stop="20260330073000 +0000" channel="SPOTV 2 HD.mncvision">
+<programme start="20260330054100 +0000" stop="20260330073000 +0000" channel="SPOTV 2 HD.mncvision">
     <title>A-League Men: PER Vs MCY</title>
 </programme>
 <programme start="20260330073000 +0000" stop="20260330083000 +0000" channel="SPOTV 2 HD.mncvision">
@@ -8515,32 +8509,32 @@
 <programme start="20260329204000 +0000" stop="20260329233000 +0000" channel="SPOTV HD.mncvision">
     <title>2026 WorldSBK: Australian</title>
 </programme>
-<programme start="20260329233000 +0000" stop="20260330010000 +0000" channel="SPOTV HD.mncvision">
+<programme start="20260329233000 +0000" stop="20260330010500 +0000" channel="SPOTV HD.mncvision">
     <title>2026 LIV Golf: South Africa HL</title>
 </programme>
-<programme start="20260330010000 +0000" stop="20260330040000 +0000" channel="SPOTV HD.mncvision">
+<programme start="20260330010500 +0000" stop="20260330040500 +0000" channel="SPOTV HD.mncvision">
     <title>Dubai World Cup 2026</title>
 </programme>
-<programme start="20260330040000 +0000" stop="20260330070000 +0000" channel="SPOTV HD.mncvision">
+<programme start="20260330040500 +0000" stop="20260330070000 +0000" channel="SPOTV HD.mncvision">
     <title>Dubai World Cup 2026</title>
 </programme>
-<programme start="20260330070000 +0000" stop="20260330073000 +0000" channel="SPOTV HD.mncvision">
-    <title>Dubai World Cup 2026</title>
-</programme>
-<programme start="20260330073000 +0000" stop="20260330083000 +0000" channel="SPOTV HD.mncvision">
+<programme start="20260330070000 +0000" stop="20260330081500 +0000" channel="SPOTV HD.mncvision">
     <title>2026 WorldSBK: Portuguese</title>
 </programme>
-<programme start="20260330083000 +0000" stop="20260330113000 +0000" channel="SPOTV HD.mncvision">
+<programme start="20260330081500 +0000" stop="20260330110000 +0000" channel="SPOTV HD.mncvision">
     <title>2026 WorldSBK: Portuguese</title>
 </programme>
-<programme start="20260330113000 +0000" stop="20260330123000 +0000" channel="SPOTV HD.mncvision">
+<programme start="20260330110000 +0000" stop="20260330114500 +0000" channel="SPOTV HD.mncvision">
     <title>2026 WorldSBK: Portuguese</title>
 </programme>
-<programme start="20260330123000 +0000" stop="20260330133000 +0000" channel="SPOTV HD.mncvision">
+<programme start="20260330114500 +0000" stop="20260330124500 +0000" channel="SPOTV HD.mncvision">
     <title>2026 WorldSBK: Portuguese</title>
 </programme>
-<programme start="20260330133000 +0000" stop="20260330140000 +0000" channel="SPOTV HD.mncvision">
+<programme start="20260330124500 +0000" stop="20260330163500 +0000" channel="SPOTV HD.mncvision">
     <title>2026 WorldSBK: Portuguese</title>
+</programme>
+<programme start="20260330163500 +0000" stop="20260329170500 +0000" channel="SPOTV HD.mncvision">
+    <title>2026 Gold Coast T100 HL</title>
 </programme>
 <programme start="20260329183500 +0000" stop="20260329205000 +0000" channel="Studio Universal.mncvision">
     <title>Snow White And The Huntsman</title>
@@ -9166,80 +9160,74 @@
 <programme start="20260330154000 +0000" stop="20260330161000 +0000" channel="tvN Movies HD.mncvision">
     <title>Only God Knows Everything</title>
 </programme>
-<programme start="20260329170000 +0000" stop="20260329173000 +0000" channel="tvOne.mncvision">
-    <title>tvOne</title>
-</programme>
-<programme start="20260329173000 +0000" stop="20260329180000 +0000" channel="tvOne.mncvision">
-    <title>tvOne</title>
-</programme>
 <programme start="20260329180000 +0000" stop="20260329190000 +0000" channel="tvOne.mncvision">
-    <title>tvOne</title>
+    <title>Breaking News</title>
 </programme>
-<programme start="20260329190000 +0000" stop="20260329200000 +0000" channel="tvOne.mncvision">
-    <title>tvOne</title>
+<programme start="20260329190000 +0000" stop="20260329193000 +0000" channel="tvOne.mncvision">
+    <title>Breaking News</title>
+</programme>
+<programme start="20260329193000 +0000" stop="20260329200000 +0000" channel="tvOne.mncvision">
+    <title>Kabar Petang</title>
 </programme>
 <programme start="20260329200000 +0000" stop="20260329203000 +0000" channel="tvOne.mncvision">
-    <title>tvOne</title>
+    <title>Kabar Arena Pagi</title>
 </programme>
-<programme start="20260329203000 +0000" stop="20260329210000 +0000" channel="tvOne.mncvision">
-    <title>tvOne</title>
-</programme>
-<programme start="20260329210000 +0000" stop="20260329213000 +0000" channel="tvOne.mncvision">
-    <title>tvOne</title>
+<programme start="20260329203000 +0000" stop="20260329213000 +0000" channel="tvOne.mncvision">
+    <title>Breaking News</title>
 </programme>
 <programme start="20260329213000 +0000" stop="20260329230000 +0000" channel="tvOne.mncvision">
-    <title>tvOne</title>
+    <title>Kabar Pagi (L)</title>
 </programme>
 <programme start="20260329230000 +0000" stop="20260329233000 +0000" channel="tvOne.mncvision">
-    <title>tvOne</title>
+    <title>Kabar Arena Pagi 2 (L)</title>
 </programme>
-<programme start="20260329233000 +0000" stop="20260330013000 +0000" channel="tvOne.mncvision">
-    <title>tvOne</title>
+<programme start="20260329233000 +0000" stop="20260330011500 +0000" channel="tvOne.mncvision">
+    <title>Apa Kabar Indonesia Pagi (L)</title>
 </programme>
-<programme start="20260330013000 +0000" stop="20260330020000 +0000" channel="tvOne.mncvision">
-    <title>tvOne</title>
+<programme start="20260330011500 +0000" stop="20260330020000 +0000" channel="tvOne.mncvision">
+    <title>Hidup Sehat</title>
 </programme>
 <programme start="20260330020000 +0000" stop="20260330023000 +0000" channel="tvOne.mncvision">
-    <title>tvOne</title>
+    <title>Inspirasi Pagi</title>
 </programme>
 <programme start="20260330023000 +0000" stop="20260330033000 +0000" channel="tvOne.mncvision">
-    <title>tvOne</title>
+    <title>Pagi-Pagi Seru (L)</title>
 </programme>
 <programme start="20260330033000 +0000" stop="20260330040000 +0000" channel="tvOne.mncvision">
-    <title>tvOne</title>
+    <title>Metropolitan (L)</title>
 </programme>
 <programme start="20260330040000 +0000" stop="20260330060000 +0000" channel="tvOne.mncvision">
-    <title>tvOne</title>
+    <title>Kabar Siang (L)</title>
 </programme>
-<programme start="20260330060000 +0000" stop="20260330080000 +0000" channel="tvOne.mncvision">
-    <title>tvOne</title>
+<programme start="20260330060000 +0000" stop="20260330073000 +0000" channel="tvOne.mncvision">
+    <title>Apa Kabar Indonesia Siang (L)</title>
 </programme>
-<programme start="20260330080000 +0000" stop="20260330083000 +0000" channel="tvOne.mncvision">
-    <title>tvOne</title>
+<programme start="20260330073000 +0000" stop="20260330083000 +0000" channel="tvOne.mncvision">
+    <title>Kabar Merah Putih (L)</title>
 </programme>
 <programme start="20260330083000 +0000" stop="20260330090000 +0000" channel="tvOne.mncvision">
-    <title>tvOne</title>
+    <title>Berita Utama Kriminal (L)</title>
 </programme>
 <programme start="20260330090000 +0000" stop="20260330110000 +0000" channel="tvOne.mncvision">
-    <title>tvOne</title>
+    <title>Kabar Petang (L)</title>
 </programme>
 <programme start="20260330110000 +0000" stop="20260330130000 +0000" channel="tvOne.mncvision">
-    <title>tvOne</title>
+    <title>Apa Kabar Indonesia Malam (L)</title>
 </programme>
 <programme start="20260330130000 +0000" stop="20260330140000 +0000" channel="tvOne.mncvision">
-    <title>tvOne</title>
+    <title>Fakta</title>
 </programme>
 <programme start="20260330140000 +0000" stop="20260330150000 +0000" channel="tvOne.mncvision">
-    <title>tvOne</title>
+    <title>Kabar Utama 2 (L)</title>
 </programme>
-<programme start="20260330150000 +0000" stop="20260330153000 +0000" channel="tvOne.mncvision">
-    <title>tvOne</title>
+<programme start="20260330150000 +0000" stop="20260330160000 +0000" channel="tvOne.mncvision">
+    <title>Kabar Hari Ini (L)</title>
 </programme>
-<programme start="20260330153000 +0000" stop="20260330163000 +0000" channel="tvOne.mncvision">
-    <title>tvOne</title>
+<programme start="20260330160000 +0000" stop="20260330163000 +0000" channel="tvOne.mncvision">
+    <title>Breaking News</title>
 </programme>
 <programme start="20260330163000 +0000" stop="20260329170000 +0000" channel="tvOne.mncvision">
-    <title>tvOne</title>
+    <title>Apa Kabar Indonesia Malam</title>
 </programme>
 <programme start="20260329170000 +0000" stop="20260329190000 +0000" channel="TVRI.mncvision">
     <title>TVRI</title>
