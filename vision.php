@@ -457,6 +457,12 @@
 <programme start="20260331020000 +0000" stop="20260331023000 +0000" channel="TVOne.vision">
 <title>Inspirasi Pagi</title>
 </programme>
+<programme start="20260331023000 +0000" stop="20260331033000 +0000" channel="TVOne.vision">
+<title>Pagi-Pagi Seru</title>
+</programme>
+<programme start="20260331033000 +0000" stop="20260331040000 +0000" channel="TVOne.vision">
+<title>Metropolitan</title>
+</programme>
 <programme start="20260331040000 +0000" stop="20260331060000 +0000" channel="TVOne.vision">
 <title>Kabar Siang (L)</title>
 </programme>
@@ -1490,11 +1496,5 @@
 <title>BUDDY STAR</title>
 </programme>
 <programme start="20260331004400 +0000" stop="20260331024300 +0000" channel="Buddy Star.vision">
-<title>BUDDY STAR</title>
-</programme>
-<programme start="20260331024300 +0000" stop="20260331043900 +0000" channel="Buddy Star.vision">
-<title>BUDDY STAR</title>
-</programme>
-<programme start="20260331043900 +0000" stop="20260331063000 +0000" channel="Buddy Star.vision">
 <title>BUDDY STAR</title>
 </programme>

@@ -2878,6 +2878,156 @@
 <programme start="20260331121000 +0000" stop="20260331124000 +0000" channel="Dreamworks HD.mncvision">
     <title>Spirit Riding Free: Academy</title>
 </programme>
+<programme start="20260330170000 +0000" stop="20260330171500 +0000" channel="DW English.mncvision">
+    <title>DW News</title>
+</programme>
+<programme start="20260330171500 +0000" stop="20260330173000 +0000" channel="DW English.mncvision">
+    <title>Best Of DW-Online Content</title>
+</programme>
+<programme start="20260330173000 +0000" stop="20260330180000 +0000" channel="DW English.mncvision">
+    <title>Arts Unveiled: The Art World</title>
+</programme>
+<programme start="20260330180000 +0000" stop="20260330183000 +0000" channel="DW English.mncvision">
+    <title>DW News</title>
+</programme>
+<programme start="20260330183000 +0000" stop="20260330190000 +0000" channel="DW English.mncvision">
+    <title>Close Up: The Current Affairs</title>
+</programme>
+<programme start="20260330190000 +0000" stop="20260330190200 +0000" channel="DW English.mncvision">
+    <title>DW News</title>
+</programme>
+<programme start="20260330190200 +0000" stop="20260330191500 +0000" channel="DW English.mncvision">
+    <title>DW News Focus</title>
+</programme>
+<programme start="20260330191500 +0000" stop="20260330193000 +0000" channel="DW English.mncvision">
+    <title>Best Of DW-Online Content</title>
+</programme>
+<programme start="20260330193000 +0000" stop="20260330200000 +0000" channel="DW English.mncvision">
+    <title>Best Of DW Podcasts</title>
+</programme>
+<programme start="20260330200000 +0000" stop="20260330203000 +0000" channel="DW English.mncvision">
+    <title>DW News</title>
+</programme>
+<programme start="20260330203000 +0000" stop="20260330210000 +0000" channel="DW English.mncvision">
+    <title>The Day: News In Review</title>
+</programme>
+<programme start="20260330210000 +0000" stop="20260330210200 +0000" channel="DW English.mncvision">
+    <title>DW News</title>
+</programme>
+<programme start="20260330210200 +0000" stop="20260330211500 +0000" channel="DW English.mncvision">
+    <title>DW News Focus</title>
+</programme>
+<programme start="20260330211500 +0000" stop="20260330220000 +0000" channel="DW English.mncvision">
+    <title>DocFilm</title>
+</programme>
+<programme start="20260330220000 +0000" stop="20260330220200 +0000" channel="DW English.mncvision">
+    <title>DW News</title>
+</programme>
+<programme start="20260330220200 +0000" stop="20260330223000 +0000" channel="DW English.mncvision">
+    <title>The Day: News In Review</title>
+</programme>
+<programme start="20260330223000 +0000" stop="20260330230000 +0000" channel="DW English.mncvision">
+    <title>DocFilm</title>
+</programme>
+<programme start="20260330230000 +0000" stop="20260330230200 +0000" channel="DW English.mncvision">
+    <title>DW News</title>
+</programme>
+<programme start="20260330230200 +0000" stop="20260330231500 +0000" channel="DW English.mncvision">
+    <title>DW News Focus</title>
+</programme>
+<programme start="20260330231500 +0000" stop="20260330233000 +0000" channel="DW English.mncvision">
+    <title>Best Of DW-Online Content</title>
+</programme>
+<programme start="20260330233000 +0000" stop="20260331000000 +0000" channel="DW English.mncvision">
+    <title>Close Up: The Current Affairs</title>
+</programme>
+<programme start="20260331000000 +0000" stop="20260331000200 +0000" channel="DW English.mncvision">
+    <title>DW News</title>
+</programme>
+<programme start="20260331000200 +0000" stop="20260331003000 +0000" channel="DW English.mncvision">
+    <title>The Day: News In Review</title>
+</programme>
+<programme start="20260331003000 +0000" stop="20260331010000 +0000" channel="DW English.mncvision">
+    <title>Eco Africa: EV Evolution</title>
+</programme>
+<programme start="20260331010000 +0000" stop="20260331010200 +0000" channel="DW English.mncvision">
+    <title>DW News</title>
+</programme>
+<programme start="20260331010200 +0000" stop="20260331020000 +0000" channel="DW English.mncvision">
+    <title>DocFilm</title>
+</programme>
+<programme start="20260331020000 +0000" stop="20260331020200 +0000" channel="DW English.mncvision">
+    <title>DW News</title>
+</programme>
+<programme start="20260331020200 +0000" stop="20260331023000 +0000" channel="DW English.mncvision">
+    <title>The Day: News In Review</title>
+</programme>
+<programme start="20260331023000 +0000" stop="20260331030000 +0000" channel="DW English.mncvision">
+    <title>REV</title>
+</programme>
+<programme start="20260331030000 +0000" stop="20260331030200 +0000" channel="DW English.mncvision">
+    <title>DW News</title>
+</programme>
+<programme start="20260331030200 +0000" stop="20260331031500 +0000" channel="DW English.mncvision">
+    <title>DW News Focus</title>
+</programme>
+<programme start="20260331031500 +0000" stop="20260331033000 +0000" channel="DW English.mncvision">
+    <title>The Dip: Iran&#039;s War Economy</title>
+</programme>
+<programme start="20260331033000 +0000" stop="20260331040000 +0000" channel="DW English.mncvision">
+    <title>Close Up: Slovakia</title>
+</programme>
+<programme start="20260331040000 +0000" stop="20260331040200 +0000" channel="DW English.mncvision">
+    <title>DW News</title>
+</programme>
+<programme start="20260331040200 +0000" stop="20260331050000 +0000" channel="DW English.mncvision">
+    <title>DocFilm</title>
+</programme>
+<programme start="20260331050000 +0000" stop="20260331050200 +0000" channel="DW English.mncvision">
+    <title>DW News</title>
+</programme>
+<programme start="20260331050200 +0000" stop="20260331053000 +0000" channel="DW English.mncvision">
+    <title>The Day: News In Review</title>
+</programme>
+<programme start="20260331053000 +0000" stop="20260331060000 +0000" channel="DW English.mncvision">
+    <title>Eco India: Microalgae</title>
+</programme>
+<programme start="20260331060000 +0000" stop="20260331060200 +0000" channel="DW English.mncvision">
+    <title>DW News</title>
+</programme>
+<programme start="20260331060200 +0000" stop="20260331061500 +0000" channel="DW English.mncvision">
+    <title>DW News Focus</title>
+</programme>
+<programme start="20260331061500 +0000" stop="20260331063000 +0000" channel="DW English.mncvision">
+    <title>The Dip: Iran&#039;s War Economy</title>
+</programme>
+<programme start="20260331063000 +0000" stop="20260331070000 +0000" channel="DW English.mncvision">
+    <title>Arts Unveiled: Rilke, Social...</title>
+</programme>
+<programme start="20260331070000 +0000" stop="20260331070200 +0000" channel="DW English.mncvision">
+    <title>DW News</title>
+</programme>
+<programme start="20260331070200 +0000" stop="20260331071500 +0000" channel="DW English.mncvision">
+    <title>DW News Focus</title>
+</programme>
+<programme start="20260331071500 +0000" stop="20260331080000 +0000" channel="DW English.mncvision">
+    <title>DocFilm</title>
+</programme>
+<programme start="20260331080000 +0000" stop="20260331080200 +0000" channel="DW English.mncvision">
+    <title>DW News</title>
+</programme>
+<programme start="20260331080200 +0000" stop="20260331083000 +0000" channel="DW English.mncvision">
+    <title>Global Us: How Berliners Are...</title>
+</programme>
+<programme start="20260331083000 +0000" stop="20260331090000 +0000" channel="DW English.mncvision">
+    <title>Eco Africa: EV Evolution</title>
+</programme>
+<programme start="20260331090000 +0000" stop="20260331090200 +0000" channel="DW English.mncvision">
+    <title>DW News</title>
+</programme>
+<programme start="20260331090200 +0000" stop="20260331093200 +0000" channel="DW English.mncvision">
+    <title>DW News Focus</title>
+</programme>
 <programme start="20260330180000 +0000" stop="20260330193000 +0000" channel="Entertainment.mncvision">
     <title>New Family 100</title>
 </programme>
@@ -7907,7 +8057,7 @@
     <title>Timnas Special: IDN Vs NMI</title>
 </programme>
 <programme start="20260331143000 +0000" stop="20260331151500 +0000" channel="Soccer Channel.mncvision">
-    <title>Magazine European Qualifiers</title>
+    <title>Highlights European Qualifiers</title>
 </programme>
 <programme start="20260331151500 +0000" stop="20260331154500 +0000" channel="Soccer Channel.mncvision">
     <title>World Classic Soccer</title>
@@ -7955,7 +8105,7 @@
     <title>Timnas Special: IDN Vs NMI</title>
 </programme>
 <programme start="20260331143000 +0000" stop="20260331151500 +0000" channel="Soccer Channel HD.mncvision">
-    <title>Magazine European Qualifiers</title>
+    <title>Highlights European Qualifiers</title>
 </programme>
 <programme start="20260331151500 +0000" stop="20260331154500 +0000" channel="Soccer Channel HD.mncvision">
     <title>World Classic Soccer</title>
@@ -8000,7 +8150,7 @@
     <title>Proliga</title>
 </programme>
 <programme start="20260331100000 +0000" stop="20260331120000 +0000" channel="Sportstars.mncvision">
-    <title>V-League 2025-2026: Men</title>
+    <title>V-League 2025-2026: Men (L)</title>
 </programme>
 <programme start="20260331120000 +0000" stop="20260331123000 +0000" channel="Sportstars.mncvision">
     <title>30 Minutes Extreme</title>
@@ -8321,7 +8471,7 @@
     <title>Proliga</title>
 </programme>
 <programme start="20260331100000 +0000" stop="20260331120000 +0000" channel="Sportstars HD.mncvision">
-    <title>V-League 2025-2026: Men</title>
+    <title>V-League 2025-2026: Men (L)</title>
 </programme>
 <programme start="20260331120000 +0000" stop="20260331123000 +0000" channel="Sportstars HD.mncvision">
     <title>30 Minutes Extreme</title>

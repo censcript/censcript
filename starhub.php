@@ -2569,7 +2569,10 @@
     <programme start="20260330220000 +0000" stop="20260331040000 +0000" channel="Hub Sports 5 HD.starhub">
         <title>End of Transmission</title>
     </programme>
-    <programme start="20260331040000 +0000" stop="20260331160000 +0000" channel="Hub Sports 5 HD.starhub">
+    <programme start="20260331040000 +0000" stop="20260331100000 +0000" channel="Hub Sports 5 HD.starhub">
+        <title>End of Transmission</title>
+    </programme>
+    <programme start="20260331100000 +0000" stop="20260331160000 +0000" channel="Hub Sports 5 HD.starhub">
         <title>End of Transmission</title>
     </programme>
     <programme start="20260330154000 +0000" stop="20260330163500 +0000" channel="AXN HD.starhub">
@@ -2852,7 +2855,7 @@
         <title>Lakshmi Kalyanam</title>
     </programme>
     <programme start="20260331000000 +0000" stop="20260331023000 +0000" channel="Zee Tamil.starhub">
-        <title>Movie</title>
+        <title>Dey Kanna</title>
     </programme>
     <programme start="20260331023000 +0000" stop="20260331030000 +0000" channel="Zee Tamil.starhub">
         <title>Vaagai Sooda Vaa</title>
@@ -2876,10 +2879,10 @@
         <title>Annamalai Kudumbam</title>
     </programme>
     <programme start="20260331060000 +0000" stop="20260331090000 +0000" channel="Zee Tamil.starhub">
-        <title>Movie</title>
+        <title>V</title>
     </programme>
     <programme start="20260331090000 +0000" stop="20260331093000 +0000" channel="Zee Tamil.starhub">
-        <title>KCKC - Thunder</title>
+        <title>KCKC - Raja Ranguski</title>
     </programme>
     <programme start="20260331093000 +0000" stop="20260331100000 +0000" channel="Zee Tamil.starhub">
         <title>Varisu</title>
@@ -9562,14 +9565,38 @@
     <programme start="20260330192400 +0000" stop="20260330194500 +0000" channel="Cricbuzz.starhub">
         <title>H/Ls: Final: DV vs MIE</title>
     </programme>
-    <programme start="20260330194500 +0000" stop="20260330201400 +0000" channel="Cricbuzz.starhub">
+    <programme start="20260330194500 +0000" stop="20260330200000 +0000" channel="Cricbuzz.starhub">
         <title>H/Ls: M13: ADKR vs DCP</title>
     </programme>
-    <programme start="20260330204100 +0000" stop="20260330210100 +0000" channel="Cricbuzz.starhub">
-        <title>H/Ls: M15: DV vs DCP</title>
+    <programme start="20260330200000 +0000" stop="20260330203200 +0000" channel="Cricbuzz.starhub">
+        <title>H/Ls: M2: SW vs ADKR</title>
     </programme>
-    <programme start="20260330222500 +0000" stop="20260330224900 +0000" channel="Cricbuzz.starhub">
-        <title>Best of IND vs NZ, T20Is</title>
+    <programme start="20260330203200 +0000" stop="20260330205700 +0000" channel="Cricbuzz.starhub">
+        <title>H/Ls: M19: HBH vs PRS</title>
+    </programme>
+    <programme start="20260330205700 +0000" stop="20260330211700 +0000" channel="Cricbuzz.starhub">
+        <title>H/Ls: Q2: MIE vs ADKR</title>
+    </programme>
+    <programme start="20260330211700 +0000" stop="20260330213600 +0000" channel="Cricbuzz.starhub">
+        <title>H/Ls: AUSW vs INDW, 1st T20I</title>
+    </programme>
+    <programme start="20260330213600 +0000" stop="20260330220800 +0000" channel="Cricbuzz.starhub">
+        <title>H/Ls: IND vs NZ, 1st ODI</title>
+    </programme>
+    <programme start="20260330220800 +0000" stop="20260330223300 +0000" channel="Cricbuzz.starhub">
+        <title>H/Ls: M16: SYT vs PRS</title>
+    </programme>
+    <programme start="20260330223300 +0000" stop="20260330225900 +0000" channel="Cricbuzz.starhub">
+        <title>H/Ls: M8: MICT vs PC</title>
+    </programme>
+    <programme start="20260330225900 +0000" stop="20260330231600 +0000" channel="Cricbuzz.starhub">
+        <title>H/Ls: Knockout: HBH vs MLS</title>
+    </programme>
+    <programme start="20260330231600 +0000" stop="20260330233900 +0000" channel="Cricbuzz.starhub">
+        <title>H/Ls: IND vs SA, 1st T20I</title>
+    </programme>
+    <programme start="20260330233900 +0000" stop="20260330235500 +0000" channel="Cricbuzz.starhub">
+        <title>H/Ls: M34: ADS vs MLS</title>
     </programme>
     <programme start="20260330235500 +0000" stop="20260331001800 +0000" channel="Cricbuzz.starhub">
         <title>Best of IND vs SA, ODIs</title>
