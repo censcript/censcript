@@ -15694,7 +15694,7 @@
     <desc lang="en">Don't miss to watch New football season 2025/2026 actions live on beIN SPORTS 4</desc>
     <category lang="en">Sports</category>
   </programme>
-  <programme start="20260331140200 +0000" stop="20260331143200 +0000" channel="beinsports4.unifitv">
+  <programme start="20260331140200 +0000" stop="20260331163200 +0000" channel="beinsports4.unifitv">
     <title lang="en">Catch New Football Season 2025/2026 matches soon</title>
     <desc lang="en">Don't miss to watch New football season 2025/2026 actions live on beIN SPORTS 4</desc>
     <category lang="en">Sports</category>

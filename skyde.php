@@ -1,9 +1,3 @@
-
-Warning: Undefined array key "et" in /usr/home/ManusiaBiasa/domains/manusiabiasa.serv00.net/public_html/cen/epg/skyde.php on line 135
-
-Warning: Undefined array key "et" in /usr/home/ManusiaBiasa/domains/manusiabiasa.serv00.net/public_html/cen/epg/skyde.php on line 135
-
-Warning: Undefined array key "et" in /usr/home/ManusiaBiasa/domains/manusiabiasa.serv00.net/public_html/cen/epg/skyde.php on line 135
 <programme start="20260330224000 +0000" stop="20260330232500 +0000" channel="13th Street HD.skyde">
     <title>FBI: Special Crime Unit</title>
 </programme>
@@ -2140,99 +2134,6 @@ Warning: Undefined array key "et" in /usr/home/ManusiaBiasa/domains/manusiabiasa
 <programme start="20260331215000 +0000" stop="20260331224500 +0000" channel="Sky Documentaries HD.skyde">
     <title>Kampfflugzeuge der Nazis</title>
 </programme>
-<programme start="20260330221000 +0000" stop="20260330230000 +0000" channel="Sky Krimi HD.skyde">
-    <title>Clean Sweep - Ein tödliches Geheimnis</title>
-</programme>
-<programme start="20260330230000 +0000" stop="20260330235000 +0000" channel="Sky Krimi HD.skyde">
-    <title>Clean Sweep - Ein tödliches Geheimnis</title>
-</programme>
-<programme start="20260330235000 +0000" stop="20260331003500 +0000" channel="Sky Krimi HD.skyde">
-    <title>SOKO Stuttgart</title>
-</programme>
-<programme start="20260331003500 +0000" stop="20260331012000 +0000" channel="Sky Krimi HD.skyde">
-    <title>SOKO Stuttgart</title>
-</programme>
-<programme start="20260331012000 +0000" stop="20260331023500 +0000" channel="Sky Krimi HD.skyde">
-    <title>SOKO Stuttgart</title>
-</programme>
-<programme start="20260331020721 +0000" stop="20260331021528 +0000" channel="Sky Krimi HD.skyde">
-    <title></title>
-</programme>
-<programme start="20260331021618 +0000" stop="20260331022703 +0000" channel="Sky Krimi HD.skyde">
-    <title></title>
-</programme>
-<programme start="20260331022743 +0000" stop="20260331023540 +0000" channel="Sky Krimi HD.skyde">
-    <title></title>
-</programme>
-<programme start="20260331023500 +0000" stop="20260331032000 +0000" channel="Sky Krimi HD.skyde">
-    <title>Die Rosenheim-Cops</title>
-</programme>
-<programme start="20260331032000 +0000" stop="20260331041000 +0000" channel="Sky Krimi HD.skyde">
-    <title>Watzmann ermittelt</title>
-</programme>
-<programme start="20260331041000 +0000" stop="20260331050000 +0000" channel="Sky Krimi HD.skyde">
-    <title>Die Rosenheim-Cops</title>
-</programme>
-<programme start="20260331050000 +0000" stop="20260331054500 +0000" channel="Sky Krimi HD.skyde">
-    <title>Die Rosenheim-Cops</title>
-</programme>
-<programme start="20260331054500 +0000" stop="20260331063000 +0000" channel="Sky Krimi HD.skyde">
-    <title>SOKO Köln</title>
-</programme>
-<programme start="20260331063000 +0000" stop="20260331072000 +0000" channel="Sky Krimi HD.skyde">
-    <title>SOKO Köln</title>
-</programme>
-<programme start="20260331072000 +0000" stop="20260331085500 +0000" channel="Sky Krimi HD.skyde">
-    <title>Nord bei Nordwest: In eigener Sache</title>
-</programme>
-<programme start="20260331085500 +0000" stop="20260331094500 +0000" channel="Sky Krimi HD.skyde">
-    <title>Watzmann ermittelt</title>
-</programme>
-<programme start="20260331094500 +0000" stop="20260331104000 +0000" channel="Sky Krimi HD.skyde">
-    <title>Watzmann ermittelt</title>
-</programme>
-<programme start="20260331104000 +0000" stop="20260331113000 +0000" channel="Sky Krimi HD.skyde">
-    <title>Clean Sweep - Ein tödliches Geheimnis</title>
-</programme>
-<programme start="20260331113000 +0000" stop="20260331122500 +0000" channel="Sky Krimi HD.skyde">
-    <title>Clean Sweep - Ein tödliches Geheimnis</title>
-</programme>
-<programme start="20260331122500 +0000" stop="20260331131500 +0000" channel="Sky Krimi HD.skyde">
-    <title>SOKO Stuttgart</title>
-</programme>
-<programme start="20260331131500 +0000" stop="20260331140500 +0000" channel="Sky Krimi HD.skyde">
-    <title>SOKO Stuttgart</title>
-</programme>
-<programme start="20260331140500 +0000" stop="20260331145500 +0000" channel="Sky Krimi HD.skyde">
-    <title>SOKO Stuttgart</title>
-</programme>
-<programme start="20260331145500 +0000" stop="20260331154000 +0000" channel="Sky Krimi HD.skyde">
-    <title>SOKO Köln</title>
-</programme>
-<programme start="20260331154000 +0000" stop="20260331163000 +0000" channel="Sky Krimi HD.skyde">
-    <title>SOKO Köln</title>
-</programme>
-<programme start="20260331163000 +0000" stop="20260331172000 +0000" channel="Sky Krimi HD.skyde">
-    <title>Watzmann ermittelt</title>
-</programme>
-<programme start="20260331172000 +0000" stop="20260331181500 +0000" channel="Sky Krimi HD.skyde">
-    <title>Watzmann ermittelt</title>
-</programme>
-<programme start="20260331181500 +0000" stop="20260331190000 +0000" channel="Sky Krimi HD.skyde">
-    <title>Professor T</title>
-</programme>
-<programme start="20260331190000 +0000" stop="20260331195000 +0000" channel="Sky Krimi HD.skyde">
-    <title>Professor T</title>
-</programme>
-<programme start="20260331195000 +0000" stop="20260331204000 +0000" channel="Sky Krimi HD.skyde">
-    <title>Die Rosenheim-Cops</title>
-</programme>
-<programme start="20260331204000 +0000" stop="20260331213000 +0000" channel="Sky Krimi HD.skyde">
-    <title>Die Rosenheim-Cops</title>
-</programme>
-<programme start="20260331213000 +0000" stop="20260331222000 +0000" channel="Sky Krimi HD.skyde">
-    <title>Clean Sweep - Ein tödliches Geheimnis</title>
-</programme>
 <programme start="20260330224000 +0000" stop="20260330233000 +0000" channel="Sky Nature HD.skyde">
     <title>Kampf der Giganten - Löwen gegen Elefanten</title>
 </programme>
@@ -2911,19 +2812,19 @@ Warning: Undefined array key "et" in /usr/home/ManusiaBiasa/domains/manusiabiasa
 <programme start="20260331155500 +0000" stop="20260331160000 +0000" channel="Sky Sport Austria 4 HD.skyde">
     <title>Test Austria 04 with BO-ALLGEMEIN</title>
 </programme>
-<programme start="20260330220000 +0000" stop="20260330223000 +0000" channel="Sky Sport Bundesliga HD.skyde">
+<programme start="20260330221000 +0000" stop="20260330224000 +0000" channel="Sky Sport Bundesliga HD.skyde">
     <title>Frauen-BL: Alle Spiele, alle Tore, 22. Spieltag komplett</title>
 </programme>
-<programme start="20260330223000 +0000" stop="20260330230000 +0000" channel="Sky Sport Bundesliga HD.skyde">
+<programme start="20260330224000 +0000" stop="20260330231000 +0000" channel="Sky Sport Bundesliga HD.skyde">
     <title>BL: 90in30: BVB - HSV, 27. Spieltag</title>
 </programme>
-<programme start="20260330230000 +0000" stop="20260331010000 +0000" channel="Sky Sport Bundesliga HD.skyde">
+<programme start="20260330231000 +0000" stop="20260331011000 +0000" channel="Sky Sport Bundesliga HD.skyde">
     <title>2. BL: Freitags-Konferenz, 27. Spieltag</title>
 </programme>
-<programme start="20260331010000 +0000" stop="20260331020000 +0000" channel="Sky Sport Bundesliga HD.skyde">
+<programme start="20260331011000 +0000" stop="20260331021000 +0000" channel="Sky Sport Bundesliga HD.skyde">
     <title>BL Kompakt: 27. Spieltag</title>
 </programme>
-<programme start="20260331020000 +0000" stop="20260331040000 +0000" channel="Sky Sport Bundesliga HD.skyde">
+<programme start="20260331021000 +0000" stop="20260331040000 +0000" channel="Sky Sport Bundesliga HD.skyde">
     <title>2. BL: SC Paderborn 07 - Dynamo Dresden, 27. Spieltag</title>
 </programme>
 <programme start="20260331040000 +0000" stop="20260331041500 +0000" channel="Sky Sport Bundesliga HD.skyde">
@@ -3003,6 +2904,30 @@ Warning: Undefined array key "et" in /usr/home/ManusiaBiasa/domains/manusiabiasa
 </programme>
 <programme start="20260331073000 +0000" stop="20260331074500 +0000" channel="Sky Sport Bundesliga UHD.skyde">
     <title>Info: UHD</title>
+</programme>
+<programme start="20260331090000 +0000" stop="20260331110000 +0000" channel="Sky Sport Bundesliga 4 HD.skyde">
+    <title>BL: FC Bayern München - 1. FC Union Berlin, 27. Spieltag</title>
+</programme>
+<programme start="20260331110000 +0000" stop="20260331130000 +0000" channel="Sky Sport Bundesliga 4 HD.skyde">
+    <title>BL: FC Bayern München - 1. FC Union Berlin, 27. Spieltag</title>
+</programme>
+<programme start="20260331130000 +0000" stop="20260331150000 +0000" channel="Sky Sport Bundesliga 4 HD.skyde">
+    <title>BL: FC Bayern München - 1. FC Union Berlin, 27. Spieltag</title>
+</programme>
+<programme start="20260331150000 +0000" stop="20260331170000 +0000" channel="Sky Sport Bundesliga 4 HD.skyde">
+    <title>BL: FC Bayern München - 1. FC Union Berlin, 27. Spieltag</title>
+</programme>
+<programme start="20260331090000 +0000" stop="20260331110000 +0000" channel="Sky Sport Bundesliga 6 HD.skyde">
+    <title>BL: FC St. Pauli - SC Freiburg, 27. Spieltag</title>
+</programme>
+<programme start="20260331110000 +0000" stop="20260331130000 +0000" channel="Sky Sport Bundesliga 6 HD.skyde">
+    <title>BL: FC St. Pauli - SC Freiburg, 27. Spieltag</title>
+</programme>
+<programme start="20260331130000 +0000" stop="20260331150000 +0000" channel="Sky Sport Bundesliga 6 HD.skyde">
+    <title>BL: FC St. Pauli - SC Freiburg, 27. Spieltag</title>
+</programme>
+<programme start="20260331150000 +0000" stop="20260331170000 +0000" channel="Sky Sport Bundesliga 6 HD.skyde">
+    <title>BL: FC St. Pauli - SC Freiburg, 27. Spieltag</title>
 </programme>
 <programme start="20260330220000 +0000" stop="20260331000000 +0000" channel="Sky Sport F1 HD.skyde">
     <title>F1: Rennen - GP Japan</title>
@@ -3406,16 +3331,10 @@ Warning: Undefined array key "et" in /usr/home/ManusiaBiasa/domains/manusiabiasa
 <programme start="20260331070000 +0000" stop="20260331073000 +0000" channel="Sky Sport Top Event HD.skyde">
     <title>WTA 1000: Review Miami</title>
 </programme>
-<programme start="20260331073000 +0000" stop="20260331083000 +0000" channel="Sky Sport Top Event HD.skyde">
-    <title>ATP 1000: Review Miami</title>
-</programme>
-<programme start="20260331083000 +0000" stop="20260331090000 +0000" channel="Sky Sport Top Event HD.skyde">
+<programme start="20260331073000 +0000" stop="20260331080000 +0000" channel="Sky Sport Top Event HD.skyde">
     <title>EFL: Highlights, 40. Spieltag</title>
 </programme>
-<programme start="20260331090000 +0000" stop="20260331093000 +0000" channel="Sky Sport Top Event HD.skyde">
-    <title>EFL: Highlights, 40. Spieltag</title>
-</programme>
-<programme start="20260331093000 +0000" stop="20260331230000 +0000" channel="Sky Sport Top Event HD.skyde">
+<programme start="20260331080000 +0000" stop="20260331230000 +0000" channel="Sky Sport Top Event HD.skyde">
     <title>Live ATP &amp; WTA: Die Topspiele des Tages</title>
 </programme>
 <programme start="20260331080000 +0000" stop="20260331093000 +0000" channel="Sky Sport UHD.skyde">
@@ -3463,10 +3382,10 @@ Warning: Undefined array key "et" in /usr/home/ManusiaBiasa/domains/manusiabiasa
 <programme start="20260330220000 +0000" stop="20260330230000 +0000" channel="Sky Sport 1 HD.skyde">
     <title>Live NBA: Showtime</title>
 </programme>
-<programme start="20260330230000 +0000" stop="20260331014500 +0000" channel="Sky Sport 1 HD.skyde">
+<programme start="20260330230000 +0000" stop="20260331013000 +0000" channel="Sky Sport 1 HD.skyde">
     <title>Live NBA: Philadelphia 76ers @ Miami Heat</title>
 </programme>
-<programme start="20260331014500 +0000" stop="20260331040000 +0000" channel="Sky Sport 1 HD.skyde">
+<programme start="20260331013000 +0000" stop="20260331040000 +0000" channel="Sky Sport 1 HD.skyde">
     <title>Live NBA: Detroit Pistons @ Oklahoma City Thunder</title>
 </programme>
 <programme start="20260331040000 +0000" stop="20260331080000 +0000" channel="Sky Sport 1 HD.skyde">

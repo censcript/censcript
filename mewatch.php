@@ -121,10 +121,10 @@
     <programme start="20260331110000 +0000" stop="20260331113000 +0000" channel="Channel 5.mewatch">
         <title>Wheel Of Fortune S42 - EP 87</title>
     </programme>
-    <programme start="20260331113000 +0000" stop="20260331115000 +0000" channel="Channel 5.mewatch">
+    <programme start="20260331113000 +0000" stop="20260331115100 +0000" channel="Channel 5.mewatch">
         <title>Just For Laughs Gags S24 - EP 7</title>
     </programme>
-    <programme start="20260331115000 +0000" stop="20260331140000 +0000" channel="Channel 5.mewatch">
+    <programme start="20260331115100 +0000" stop="20260331140000 +0000" channel="Channel 5.mewatch">
         <title>(Live) AFC Asian Cup Saudi Arabia 2027 Qualifiers - EP 3</title>
     </programme>
     <programme start="20260331140000 +0000" stop="20260331143000 +0000" channel="Channel 5.mewatch">
@@ -793,8 +793,8 @@
     <programme start="20260331141000 +0000" stop="20260331160000 +0000" channel="Live 2.mewatch">
         <title>No programmes streaming LIVE at this moment</title>
     </programme>
-    <programme start="20260331160000 +0000" stop="20260401030000 +0000" channel="Live 2.mewatch">
-        <title>No Programme available now. Next Broadcast on 1st April, Wednesday 11.00am. FIBA 3x3 Asia Cup 2026</title>
+    <programme start="20260331160000 +0000" stop="20260401025000 +0000" channel="Live 2.mewatch">
+        <title>No Programme available now. Next Broadcast on 1st April, Wednesday 10.50am. FIBA 3x3 Asia Cup 2026</title>
     </programme>
     <programme start="20260330160000 +0000" stop="20260331160000 +0000" channel="Live 5.mewatch">
         <title>No programmes streaming LIVE at this moment</title>

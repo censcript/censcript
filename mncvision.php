@@ -1876,10 +1876,324 @@
 <programme start="20260331005500 +0000" stop="20260331012500 +0000" channel="CBeebies.mncvision">
     <title>Hey Duggee S2, Ep 4</title>
 </programme>
-Error: Unable to fetch data. HTTP Status Code: 500
-Error: Unable to fetch data. HTTP Status Code: 500
-Error: Unable to fetch data. HTTP Status Code: 500
-Error: Unable to fetch data. HTTP Status Code: 500
+<programme start="20260330181000 +0000" stop="20260330195000 +0000" channel="CCM.mncvision">
+    <title>Two Con Men</title>
+</programme>
+<programme start="20260330195000 +0000" stop="20260330211500 +0000" channel="CCM.mncvision">
+    <title>Tales Of Larceny</title>
+</programme>
+<programme start="20260330211500 +0000" stop="20260330230500 +0000" channel="CCM.mncvision">
+    <title>Return To The 36th Chamber</title>
+</programme>
+<programme start="20260330230500 +0000" stop="20260331004000 +0000" channel="CCM.mncvision">
+    <title>The Knight Of Knights</title>
+</programme>
+<programme start="20260331004000 +0000" stop="20260331025000 +0000" channel="CCM.mncvision">
+    <title>The Bride Napping</title>
+</programme>
+<programme start="20260331025000 +0000" stop="20260331042500 +0000" channel="CCM.mncvision">
+    <title>The Chinese Boxer</title>
+</programme>
+<programme start="20260331042500 +0000" stop="20260331062500 +0000" channel="CCM.mncvision">
+    <title>West Chamber</title>
+</programme>
+<programme start="20260331062500 +0000" stop="20260331081000 +0000" channel="CCM.mncvision">
+    <title>The Fake Ghost Catchers</title>
+</programme>
+<programme start="20260331081000 +0000" stop="20260331095000 +0000" channel="CCM.mncvision">
+    <title>The 5 Billion Dollar Legacy</title>
+</programme>
+<programme start="20260331095000 +0000" stop="20260331112000 +0000" channel="CCM.mncvision">
+    <title>The Shadow Whip</title>
+</programme>
+<programme start="20260331112000 +0000" stop="20260331130000 +0000" channel="CCM.mncvision">
+    <title>The Mad Monk Strikes Again</title>
+</programme>
+<programme start="20260331130000 +0000" stop="20260331143000 +0000" channel="CCM.mncvision">
+    <title>King Eagle</title>
+</programme>
+<programme start="20260331143000 +0000" stop="20260331160500 +0000" channel="CCM.mncvision">
+    <title>Fangs Of The Cobra</title>
+</programme>
+<programme start="20260331160500 +0000" stop="20260331163500 +0000" channel="CCM.mncvision">
+    <title>Temple Of The Red Lotus</title>
+</programme>
+<programme start="20260330170000 +0000" stop="20260330180000 +0000" channel="Celebrities TV.mncvision">
+    <title>Ting Ting Kul Show</title>
+</programme>
+<programme start="20260330180000 +0000" stop="20260330190000 +0000" channel="Celebrities TV.mncvision">
+    <title>Rumah Ruben</title>
+</programme>
+<programme start="20260330190000 +0000" stop="20260330200000 +0000" channel="Celebrities TV.mncvision">
+    <title>Hotman Paris Show</title>
+</programme>
+<programme start="20260330200000 +0000" stop="20260330210000 +0000" channel="Celebrities TV.mncvision">
+    <title>Kau Ditakdirkan Untukku</title>
+</programme>
+<programme start="20260330210000 +0000" stop="20260330213000 +0000" channel="Celebrities TV.mncvision">
+    <title>Celebrity Top 10</title>
+</programme>
+<programme start="20260330213000 +0000" stop="20260330220000 +0000" channel="Celebrities TV.mncvision">
+    <title>Seleb On News</title>
+</programme>
+<programme start="20260330220000 +0000" stop="20260330230000 +0000" channel="Celebrities TV.mncvision">
+    <title>Rumah Ruben</title>
+</programme>
+<programme start="20260330230000 +0000" stop="20260331000000 +0000" channel="Celebrities TV.mncvision">
+    <title>Silet</title>
+</programme>
+<programme start="20260331000000 +0000" stop="20260331003000 +0000" channel="Celebrities TV.mncvision">
+    <title>The Famous</title>
+</programme>
+<programme start="20260331003000 +0000" stop="20260331010000 +0000" channel="Celebrities TV.mncvision">
+    <title>Celebrity Top 10</title>
+</programme>
+<programme start="20260331010000 +0000" stop="20260331020000 +0000" channel="Celebrities TV.mncvision">
+    <title>Ting Ting Kul Show</title>
+</programme>
+<programme start="20260331020000 +0000" stop="20260331023000 +0000" channel="Celebrities TV.mncvision">
+    <title>Obrolan Seputar Selebriti</title>
+</programme>
+<programme start="20260331023000 +0000" stop="20260331030000 +0000" channel="Celebrities TV.mncvision">
+    <title>Seleb On News</title>
+</programme>
+<programme start="20260331030000 +0000" stop="20260331040000 +0000" channel="Celebrities TV.mncvision">
+    <title>Hotman Paris Show</title>
+</programme>
+<programme start="20260331040000 +0000" stop="20260331050000 +0000" channel="Celebrities TV.mncvision">
+    <title>Rumah Ruben</title>
+</programme>
+<programme start="20260331050000 +0000" stop="20260331060000 +0000" channel="Celebrities TV.mncvision">
+    <title>Kau Ditakdirkan Untukku</title>
+</programme>
+<programme start="20260331060000 +0000" stop="20260331063000 +0000" channel="Celebrities TV.mncvision">
+    <title>The Famous</title>
+</programme>
+<programme start="20260331063000 +0000" stop="20260331070000 +0000" channel="Celebrities TV.mncvision">
+    <title>Obrolan Seputar Selebriti</title>
+</programme>
+<programme start="20260331070000 +0000" stop="20260331080000 +0000" channel="Celebrities TV.mncvision">
+    <title>Hotman Paris Show</title>
+</programme>
+<programme start="20260331080000 +0000" stop="20260331090000 +0000" channel="Celebrities TV.mncvision">
+    <title>Silet</title>
+</programme>
+<programme start="20260331090000 +0000" stop="20260331100000 +0000" channel="Celebrities TV.mncvision">
+    <title>Ting Ting Kul Show</title>
+</programme>
+<programme start="20260331100000 +0000" stop="20260331103000 +0000" channel="Celebrities TV.mncvision">
+    <title>The Famous</title>
+</programme>
+<programme start="20260331103000 +0000" stop="20260331110000 +0000" channel="Celebrities TV.mncvision">
+    <title>Seleb On News</title>
+</programme>
+<programme start="20260331110000 +0000" stop="20260331120000 +0000" channel="Celebrities TV.mncvision">
+    <title>Rumah Ruben</title>
+</programme>
+<programme start="20260331120000 +0000" stop="20260331123000 +0000" channel="Celebrities TV.mncvision">
+    <title>Celebrity Files</title>
+</programme>
+<programme start="20260331123000 +0000" stop="20260331130000 +0000" channel="Celebrities TV.mncvision">
+    <title>Obrolan Seputar Selebriti</title>
+</programme>
+<programme start="20260331130000 +0000" stop="20260331140000 +0000" channel="Celebrities TV.mncvision">
+    <title>Silet</title>
+</programme>
+<programme start="20260331140000 +0000" stop="20260331143000 +0000" channel="Celebrities TV.mncvision">
+    <title>The Famous</title>
+</programme>
+<programme start="20260331143000 +0000" stop="20260331153000 +0000" channel="Celebrities TV.mncvision">
+    <title>Kau Ditakdirkan Untukku</title>
+</programme>
+<programme start="20260331153000 +0000" stop="20260331160000 +0000" channel="Celebrities TV.mncvision">
+    <title>Seleb On News</title>
+</programme>
+<programme start="20260331160000 +0000" stop="20260331163000 +0000" channel="Celebrities TV.mncvision">
+    <title>Celebrity Files</title>
+</programme>
+<programme start="20260331163000 +0000" stop="20260330170000 +0000" channel="Celebrities TV.mncvision">
+    <title>Obrolan Seputar Selebriti</title>
+</programme>
+<programme start="20260330174000 +0000" stop="20260330192000 +0000" channel="Celestial Movies.mncvision">
+    <title>Royal Tramp 2</title>
+</programme>
+<programme start="20260330192000 +0000" stop="20260330204000 +0000" channel="Celestial Movies.mncvision">
+    <title>Dragon Master: Dragon Spell</title>
+</programme>
+<programme start="20260330204000 +0000" stop="20260330221500 +0000" channel="Celestial Movies.mncvision">
+    <title>Paper Man</title>
+</programme>
+<programme start="20260330221500 +0000" stop="20260331001000 +0000" channel="Celestial Movies.mncvision">
+    <title>Initial D</title>
+</programme>
+<programme start="20260331001000 +0000" stop="20260331015000 +0000" channel="Celestial Movies.mncvision">
+    <title>Turns We Take</title>
+</programme>
+<programme start="20260331015000 +0000" stop="20260331035000 +0000" channel="Celestial Movies.mncvision">
+    <title>Song Of The Assassins</title>
+</programme>
+<programme start="20260331035000 +0000" stop="20260331052500 +0000" channel="Celestial Movies.mncvision">
+    <title>Mahjong Heroes</title>
+</programme>
+<programme start="20260331052500 +0000" stop="20260331065000 +0000" channel="Celestial Movies.mncvision">
+    <title>VR Fighter</title>
+</programme>
+<programme start="20260331065000 +0000" stop="20260331082500 +0000" channel="Celestial Movies.mncvision">
+    <title>Love Is Love</title>
+</programme>
+<programme start="20260331082500 +0000" stop="20260331093500 +0000" channel="Celestial Movies.mncvision">
+    <title>Wusong Vs Ximenqing</title>
+</programme>
+<programme start="20260331093500 +0000" stop="20260331112000 +0000" channel="Celestial Movies.mncvision">
+    <title>Unmatchable Match</title>
+</programme>
+<programme start="20260331112000 +0000" stop="20260331130000 +0000" channel="Celestial Movies.mncvision">
+    <title>Whatever You Want</title>
+</programme>
+<programme start="20260331130000 +0000" stop="20260331143500 +0000" channel="Celestial Movies.mncvision">
+    <title>Law Or Justice</title>
+</programme>
+<programme start="20260331143500 +0000" stop="20260331161500 +0000" channel="Celestial Movies.mncvision">
+    <title>Final Justice</title>
+</programme>
+<programme start="20260331161500 +0000" stop="20260331164500 +0000" channel="Celestial Movies.mncvision">
+    <title>The Macaque Monkey</title>
+</programme>
+<programme start="20260330170000 +0000" stop="20260330180000 +0000" channel="CGTN.mncvision">
+    <title>Africa Live</title>
+</programme>
+<programme start="20260330180000 +0000" stop="20260330190000 +0000" channel="CGTN.mncvision">
+    <title>Global Business</title>
+</programme>
+<programme start="20260330190000 +0000" stop="20260330193000 +0000" channel="CGTN.mncvision">
+    <title>The World Today</title>
+</programme>
+<programme start="20260330193000 +0000" stop="20260330200000 +0000" channel="CGTN.mncvision">
+    <title>World Insight With Tian Wei</title>
+</programme>
+<programme start="20260330200000 +0000" stop="20260330203000 +0000" channel="CGTN.mncvision">
+    <title>The World Today</title>
+</programme>
+<programme start="20260330203000 +0000" stop="20260330210000 +0000" channel="CGTN.mncvision">
+    <title>Dialogue</title>
+</programme>
+<programme start="20260330210000 +0000" stop="20260330213000 +0000" channel="CGTN.mncvision">
+    <title>Global Business</title>
+</programme>
+<programme start="20260330213000 +0000" stop="20260330220000 +0000" channel="CGTN.mncvision">
+    <title>The Point With Liu Xin</title>
+</programme>
+<programme start="20260330220000 +0000" stop="20260330223000 +0000" channel="CGTN.mncvision">
+    <title>The World Today</title>
+</programme>
+<programme start="20260330223000 +0000" stop="20260330230000 +0000" channel="CGTN.mncvision">
+    <title>Rediscovering China</title>
+</programme>
+<programme start="20260330230000 +0000" stop="20260330233000 +0000" channel="CGTN.mncvision">
+    <title>The Heat</title>
+</programme>
+<programme start="20260330233000 +0000" stop="20260331000000 +0000" channel="CGTN.mncvision">
+    <title>The World Today</title>
+</programme>
+<programme start="20260331000000 +0000" stop="20260331010000 +0000" channel="CGTN.mncvision">
+    <title>Global Business</title>
+</programme>
+<programme start="20260331010000 +0000" stop="20260331013000 +0000" channel="CGTN.mncvision">
+    <title>The World Today</title>
+</programme>
+<programme start="20260331013000 +0000" stop="20260331020000 +0000" channel="CGTN.mncvision">
+    <title>China 24</title>
+</programme>
+<programme start="20260331020000 +0000" stop="20260331023000 +0000" channel="CGTN.mncvision">
+    <title>The World Today</title>
+</programme>
+<programme start="20260331023000 +0000" stop="20260331030000 +0000" channel="CGTN.mncvision">
+    <title>World Insight With Tian Wei</title>
+</programme>
+<programme start="20260331030000 +0000" stop="20260331031500 +0000" channel="CGTN.mncvision">
+    <title>The World Today</title>
+</programme>
+<programme start="20260331031500 +0000" stop="20260331033000 +0000" channel="CGTN.mncvision">
+    <title>Sports Scene</title>
+</programme>
+<programme start="20260331033000 +0000" stop="20260331040000 +0000" channel="CGTN.mncvision">
+    <title>The Hub With Wang Guan</title>
+</programme>
+<programme start="20260331040000 +0000" stop="20260331050000 +0000" channel="CGTN.mncvision">
+    <title>Global Watch</title>
+</programme>
+<programme start="20260331050000 +0000" stop="20260331051500 +0000" channel="CGTN.mncvision">
+    <title>The World Today</title>
+</programme>
+<programme start="20260331051500 +0000" stop="20260331053000 +0000" channel="CGTN.mncvision">
+    <title>Sports Scene</title>
+</programme>
+<programme start="20260331053000 +0000" stop="20260331060000 +0000" channel="CGTN.mncvision">
+    <title>Rediscovering China</title>
+</programme>
+<programme start="20260331060000 +0000" stop="20260331063000 +0000" channel="CGTN.mncvision">
+    <title>The World Today</title>
+</programme>
+<programme start="20260331063000 +0000" stop="20260331070000 +0000" channel="CGTN.mncvision">
+    <title>The Heat</title>
+</programme>
+<programme start="20260331070000 +0000" stop="20260331073000 +0000" channel="CGTN.mncvision">
+    <title>The World Today</title>
+</programme>
+<programme start="20260331073000 +0000" stop="20260331080000 +0000" channel="CGTN.mncvision">
+    <title>Sports Scene</title>
+</programme>
+<programme start="20260331080000 +0000" stop="20260331081500 +0000" channel="CGTN.mncvision">
+    <title>The World Today</title>
+</programme>
+<programme start="20260331081500 +0000" stop="20260331090000 +0000" channel="CGTN.mncvision">
+    <title>Global Business</title>
+</programme>
+<programme start="20260331090000 +0000" stop="20260331093000 +0000" channel="CGTN.mncvision">
+    <title>The World Today</title>
+</programme>
+<programme start="20260331093000 +0000" stop="20260331100000 +0000" channel="CGTN.mncvision">
+    <title>The Vibe</title>
+</programme>
+<programme start="20260331100000 +0000" stop="20260331101500 +0000" channel="CGTN.mncvision">
+    <title>The World Today</title>
+</programme>
+<programme start="20260331101500 +0000" stop="20260331110000 +0000" channel="CGTN.mncvision">
+    <title>Africa Live</title>
+</programme>
+<programme start="20260331110000 +0000" stop="20260331113000 +0000" channel="CGTN.mncvision">
+    <title>Asia Today</title>
+</programme>
+<programme start="20260331113000 +0000" stop="20260331120000 +0000" channel="CGTN.mncvision">
+    <title>Dialogue</title>
+</programme>
+<programme start="20260331120000 +0000" stop="20260331121500 +0000" channel="CGTN.mncvision">
+    <title>The World Today</title>
+</programme>
+<programme start="20260331121500 +0000" stop="20260331130000 +0000" channel="CGTN.mncvision">
+    <title>China 24</title>
+</programme>
+<programme start="20260331130000 +0000" stop="20260331133000 +0000" channel="CGTN.mncvision">
+    <title>Global Business</title>
+</programme>
+<programme start="20260331133000 +0000" stop="20260331140000 +0000" channel="CGTN.mncvision">
+    <title>The Hub With Wang Guan</title>
+</programme>
+<programme start="20260331140000 +0000" stop="20260331143000 +0000" channel="CGTN.mncvision">
+    <title>The World Today</title>
+</programme>
+<programme start="20260331143000 +0000" stop="20260331150000 +0000" channel="CGTN.mncvision">
+    <title>World Insight With Tian Wei</title>
+</programme>
+<programme start="20260331150000 +0000" stop="20260331153000 +0000" channel="CGTN.mncvision">
+    <title>The World Today</title>
+</programme>
+<programme start="20260331153000 +0000" stop="20260331160000 +0000" channel="CGTN.mncvision">
+    <title>The Vibe</title>
+</programme>
+<programme start="20260331160000 +0000" stop="20260331163000 +0000" channel="CGTN.mncvision">
+    <title>Global Business</title>
+</programme>
 <programme start="20260330170000 +0000" stop="20260330173000 +0000" channel="CGTN Documentary.mncvision">
     <title>Door-Opening Festival..., Ep 1</title>
 </programme>
@@ -4013,10 +4327,300 @@ Error: Unable to fetch data. HTTP Status Code: 500
 <programme start="20260331163000 +0000" stop="20260330170000 +0000" channel="HITS MOVIES.mncvision">
     <title>Sweet Charity</title>
 </programme>
-Error: Unable to fetch data. HTTP Status Code: 500
-Error: Unable to fetch data. HTTP Status Code: 500
-Error: Unable to fetch data. HTTP Status Code: 500
-Error: Unable to fetch data. HTTP Status Code: 500
+<programme start="20260330181500 +0000" stop="20260330201500 +0000" channel="HITS MOVIES HD.mncvision">
+    <title>Entrapment</title>
+</programme>
+<programme start="20260330201500 +0000" stop="20260330221500 +0000" channel="HITS MOVIES HD.mncvision">
+    <title>Project A</title>
+</programme>
+<programme start="20260330221500 +0000" stop="20260331001500 +0000" channel="HITS MOVIES HD.mncvision">
+    <title>Guns Of The Magnificent Seven</title>
+</programme>
+<programme start="20260331001500 +0000" stop="20260331023000 +0000" channel="HITS MOVIES HD.mncvision">
+    <title>Marley &amp; Me</title>
+</programme>
+<programme start="20260331023000 +0000" stop="20260331051500 +0000" channel="HITS MOVIES HD.mncvision">
+    <title>Sweet Charity</title>
+</programme>
+<programme start="20260331051500 +0000" stop="20260331071500 +0000" channel="HITS MOVIES HD.mncvision">
+    <title>Project A</title>
+</programme>
+<programme start="20260331071500 +0000" stop="20260331091500 +0000" channel="HITS MOVIES HD.mncvision">
+    <title>Guns Of The Magnificent Seven</title>
+</programme>
+<programme start="20260331091500 +0000" stop="20260331120000 +0000" channel="HITS MOVIES HD.mncvision">
+    <title>Thoroughly Modern Millie</title>
+</programme>
+<programme start="20260331120000 +0000" stop="20260331141500 +0000" channel="HITS MOVIES HD.mncvision">
+    <title>The Bounty Hunter</title>
+</programme>
+<programme start="20260331141500 +0000" stop="20260331163000 +0000" channel="HITS MOVIES HD.mncvision">
+    <title>Training Day</title>
+</programme>
+<programme start="20260331163000 +0000" stop="20260330170000 +0000" channel="HITS MOVIES HD.mncvision">
+    <title>Sweet Charity</title>
+</programme>
+<programme start="20260330173000 +0000" stop="20260330183000 +0000" channel="IDX.mncvision">
+    <title>Prime Market Highlight</title>
+</programme>
+<programme start="20260330183000 +0000" stop="20260330193000 +0000" channel="IDX.mncvision">
+    <title>Market Review</title>
+</programme>
+<programme start="20260330193000 +0000" stop="20260330203000 +0000" channel="IDX.mncvision">
+    <title>Market Headlines</title>
+</programme>
+<programme start="20260330203000 +0000" stop="20260330213000 +0000" channel="IDX.mncvision">
+    <title>OMG IDX</title>
+</programme>
+<programme start="20260330213000 +0000" stop="20260330220000 +0000" channel="IDX.mncvision">
+    <title>Technobizz</title>
+</programme>
+<programme start="20260330220000 +0000" stop="20260330230000 +0000" channel="IDX.mncvision">
+    <title>New Top Files</title>
+</programme>
+<programme start="20260330230000 +0000" stop="20260331000000 +0000" channel="IDX.mncvision">
+    <title>Prime Market Highlight</title>
+</programme>
+<programme start="20260331000000 +0000" stop="20260331010000 +0000" channel="IDX.mncvision">
+    <title>Market Headlines</title>
+</programme>
+<programme start="20260331010000 +0000" stop="20260331013000 +0000" channel="IDX.mncvision">
+    <title>IDXTainment</title>
+</programme>
+<programme start="20260331013000 +0000" stop="20260331023000 +0000" channel="IDX.mncvision">
+    <title>Market Buzz (L)</title>
+</programme>
+<programme start="20260331023000 +0000" stop="20260331030000 +0000" channel="IDX.mncvision">
+    <title>IDXTainment</title>
+</programme>
+<programme start="20260331030000 +0000" stop="20260331040000 +0000" channel="IDX.mncvision">
+    <title>Market Review</title>
+</programme>
+<programme start="20260331040000 +0000" stop="20260331050000 +0000" channel="IDX.mncvision">
+    <title>New Top Files</title>
+</programme>
+<programme start="20260331050000 +0000" stop="20260331053000 +0000" channel="IDX.mncvision">
+    <title>IDX 1st Closing Market (L)</title>
+</programme>
+<programme start="20260331053000 +0000" stop="20260331063000 +0000" channel="IDX.mncvision">
+    <title>Prime Market Highlight</title>
+</programme>
+<programme start="20260331063000 +0000" stop="20260331070000 +0000" channel="IDX.mncvision">
+    <title>Rating 5</title>
+</programme>
+<programme start="20260331070000 +0000" stop="20260331073000 +0000" channel="IDX.mncvision">
+    <title>I Love Indonesia</title>
+</programme>
+<programme start="20260331073000 +0000" stop="20260331083000 +0000" channel="IDX.mncvision">
+    <title>New Top Files</title>
+</programme>
+<programme start="20260331083000 +0000" stop="20260331093000 +0000" channel="IDX.mncvision">
+    <title>IDX 2nd Closing Market (L)</title>
+</programme>
+<programme start="20260331093000 +0000" stop="20260331103000 +0000" channel="IDX.mncvision">
+    <title>OMG IDX</title>
+</programme>
+<programme start="20260331103000 +0000" stop="20260331110000 +0000" channel="IDX.mncvision">
+    <title>Kalaparan</title>
+</programme>
+<programme start="20260331110000 +0000" stop="20260331113000 +0000" channel="IDX.mncvision">
+    <title>Food Diary</title>
+</programme>
+<programme start="20260331113000 +0000" stop="20260331120000 +0000" channel="IDX.mncvision">
+    <title>IDXTainment</title>
+</programme>
+<programme start="20260331120000 +0000" stop="20260331130000 +0000" channel="IDX.mncvision">
+    <title>Tukang Makan</title>
+</programme>
+<programme start="20260331130000 +0000" stop="20260331140000 +0000" channel="IDX.mncvision">
+    <title>Prime Market Highlight (L)</title>
+</programme>
+<programme start="20260331140000 +0000" stop="20260331150000 +0000" channel="IDX.mncvision">
+    <title>Market Review (L)</title>
+</programme>
+<programme start="20260331150000 +0000" stop="20260331160000 +0000" channel="IDX.mncvision">
+    <title>Market Headlines</title>
+</programme>
+<programme start="20260331160000 +0000" stop="20260331163000 +0000" channel="IDX.mncvision">
+    <title>Technobizz</title>
+</programme>
+<programme start="20260331163000 +0000" stop="20260330170000 +0000" channel="IDX.mncvision">
+    <title>New Top Files</title>
+</programme>
+<programme start="20260330173000 +0000" stop="20260330183000 +0000" channel="IDX HD.mncvision">
+    <title>Prime Market Highlight</title>
+</programme>
+<programme start="20260330183000 +0000" stop="20260330193000 +0000" channel="IDX HD.mncvision">
+    <title>Market Review</title>
+</programme>
+<programme start="20260330193000 +0000" stop="20260330203000 +0000" channel="IDX HD.mncvision">
+    <title>Market Headlines</title>
+</programme>
+<programme start="20260330203000 +0000" stop="20260330213000 +0000" channel="IDX HD.mncvision">
+    <title>OMG IDX</title>
+</programme>
+<programme start="20260330213000 +0000" stop="20260330220000 +0000" channel="IDX HD.mncvision">
+    <title>Technobizz</title>
+</programme>
+<programme start="20260330220000 +0000" stop="20260330230000 +0000" channel="IDX HD.mncvision">
+    <title>New Top Files</title>
+</programme>
+<programme start="20260330230000 +0000" stop="20260331000000 +0000" channel="IDX HD.mncvision">
+    <title>Prime Market Highlight</title>
+</programme>
+<programme start="20260331000000 +0000" stop="20260331010000 +0000" channel="IDX HD.mncvision">
+    <title>Market Headlines</title>
+</programme>
+<programme start="20260331010000 +0000" stop="20260331013000 +0000" channel="IDX HD.mncvision">
+    <title>IDXTainment</title>
+</programme>
+<programme start="20260331013000 +0000" stop="20260331023000 +0000" channel="IDX HD.mncvision">
+    <title>Market Buzz (L)</title>
+</programme>
+<programme start="20260331023000 +0000" stop="20260331030000 +0000" channel="IDX HD.mncvision">
+    <title>IDXTainment</title>
+</programme>
+<programme start="20260331030000 +0000" stop="20260331040000 +0000" channel="IDX HD.mncvision">
+    <title>Market Review</title>
+</programme>
+<programme start="20260331040000 +0000" stop="20260331050000 +0000" channel="IDX HD.mncvision">
+    <title>New Top Files</title>
+</programme>
+<programme start="20260331050000 +0000" stop="20260331053000 +0000" channel="IDX HD.mncvision">
+    <title>IDX 1st Closing Market (L)</title>
+</programme>
+<programme start="20260331053000 +0000" stop="20260331063000 +0000" channel="IDX HD.mncvision">
+    <title>Prime Market Highlight</title>
+</programme>
+<programme start="20260331063000 +0000" stop="20260331070000 +0000" channel="IDX HD.mncvision">
+    <title>Rating 5</title>
+</programme>
+<programme start="20260331070000 +0000" stop="20260331073000 +0000" channel="IDX HD.mncvision">
+    <title>I Love Indonesia</title>
+</programme>
+<programme start="20260331073000 +0000" stop="20260331083000 +0000" channel="IDX HD.mncvision">
+    <title>New Top Files</title>
+</programme>
+<programme start="20260331083000 +0000" stop="20260331093000 +0000" channel="IDX HD.mncvision">
+    <title>IDX 2nd Closing Market (L)</title>
+</programme>
+<programme start="20260331093000 +0000" stop="20260331103000 +0000" channel="IDX HD.mncvision">
+    <title>OMG IDX</title>
+</programme>
+<programme start="20260331103000 +0000" stop="20260331110000 +0000" channel="IDX HD.mncvision">
+    <title>Kalaparan</title>
+</programme>
+<programme start="20260331110000 +0000" stop="20260331113000 +0000" channel="IDX HD.mncvision">
+    <title>Food Diary</title>
+</programme>
+<programme start="20260331113000 +0000" stop="20260331120000 +0000" channel="IDX HD.mncvision">
+    <title>IDXTainment</title>
+</programme>
+<programme start="20260331120000 +0000" stop="20260331130000 +0000" channel="IDX HD.mncvision">
+    <title>Tukang Makan</title>
+</programme>
+<programme start="20260331130000 +0000" stop="20260331140000 +0000" channel="IDX HD.mncvision">
+    <title>Prime Market Highlight (L)</title>
+</programme>
+<programme start="20260331140000 +0000" stop="20260331150000 +0000" channel="IDX HD.mncvision">
+    <title>Market Review (L)</title>
+</programme>
+<programme start="20260331150000 +0000" stop="20260331160000 +0000" channel="IDX HD.mncvision">
+    <title>Market Headlines</title>
+</programme>
+<programme start="20260331160000 +0000" stop="20260331163000 +0000" channel="IDX HD.mncvision">
+    <title>Technobizz</title>
+</programme>
+<programme start="20260331163000 +0000" stop="20260330170000 +0000" channel="IDX HD.mncvision">
+    <title>New Top Files</title>
+</programme>
+<programme start="20260330170500 +0000" stop="20260330180000 +0000" channel="IMC.mncvision">
+    <title>Dorce Sok Akrab</title>
+</programme>
+<programme start="20260330180000 +0000" stop="20260330183000 +0000" channel="IMC.mncvision">
+    <title>Shinjuku Incident</title>
+</programme>
+<programme start="20260330183000 +0000" stop="20260330195500 +0000" channel="IMC.mncvision">
+    <title>Drop Out</title>
+</programme>
+<programme start="20260330195500 +0000" stop="20260330200000 +0000" channel="IMC.mncvision">
+    <title>Pohon Keramat</title>
+</programme>
+<programme start="20260330200000 +0000" stop="20260330212500 +0000" channel="IMC.mncvision">
+    <title>Shock Wave</title>
+</programme>
+<programme start="20260330212500 +0000" stop="20260330213000 +0000" channel="IMC.mncvision">
+    <title>Dia Yang Tercinta</title>
+</programme>
+<programme start="20260330213000 +0000" stop="20260330225000 +0000" channel="IMC.mncvision">
+    <title>Fokus Pagi</title>
+</programme>
+<programme start="20260330225000 +0000" stop="20260330230000 +0000" channel="IMC.mncvision">
+    <title>5 Cowok Jagoan</title>
+</programme>
+<programme start="20260330230000 +0000" stop="20260331004000 +0000" channel="IMC.mncvision">
+    <title>Merangkai Kisah Indah</title>
+</programme>
+<programme start="20260331004000 +0000" stop="20260331010000 +0000" channel="IMC.mncvision">
+    <title>Ayat-Ayat Adinda</title>
+</programme>
+<programme start="20260331010000 +0000" stop="20260331022000 +0000" channel="IMC.mncvision">
+    <title>Ayunan Sunyi Di Rumah Lama</title>
+</programme>
+<programme start="20260331022000 +0000" stop="20260331030000 +0000" channel="IMC.mncvision">
+    <title>Soekarno</title>
+</programme>
+<programme start="20260331030000 +0000" stop="20260331040000 +0000" channel="IMC.mncvision">
+    <title>Kiss Pagi</title>
+</programme>
+<programme start="20260331040000 +0000" stop="20260331043000 +0000" channel="IMC.mncvision">
+    <title>Patroli Siang</title>
+</programme>
+<programme start="20260331043000 +0000" stop="20260331044500 +0000" channel="IMC.mncvision">
+    <title>Fokus Siang</title>
+</programme>
+<programme start="20260331044500 +0000" stop="20260331050000 +0000" channel="IMC.mncvision">
+    <title>Sunan Kalijaga</title>
+</programme>
+<programme start="20260331050000 +0000" stop="20260331063000 +0000" channel="IMC.mncvision">
+    <title>Misteri Suara Aneh Di Rumah</title>
+</programme>
+<programme start="20260331063000 +0000" stop="20260331070000 +0000" channel="IMC.mncvision">
+    <title>Tak Selamanya Mendua Indah</title>
+</programme>
+<programme start="20260331070000 +0000" stop="20260331080000 +0000" channel="IMC.mncvision">
+    <title>Lutung Kasarung</title>
+</programme>
+<programme start="20260331080000 +0000" stop="20260331082500 +0000" channel="IMC.mncvision">
+    <title>Misteri Janji Yang Terlupakan</title>
+</programme>
+<programme start="20260331082500 +0000" stop="20260331100000 +0000" channel="IMC.mncvision">
+    <title>Jamila Dan Sang Presiden</title>
+</programme>
+<programme start="20260331100000 +0000" stop="20260331100500 +0000" channel="IMC.mncvision">
+    <title>Merangkai Kisah Indah</title>
+</programme>
+<programme start="20260331100500 +0000" stop="20260331112000 +0000" channel="IMC.mncvision">
+    <title>Cewek Gokil</title>
+</programme>
+<programme start="20260331112000 +0000" stop="20260331120000 +0000" channel="IMC.mncvision">
+    <title>Punk In Love</title>
+</programme>
+<programme start="20260331120000 +0000" stop="20260331130000 +0000" channel="IMC.mncvision">
+    <title>D&#039;Academy S7</title>
+</programme>
+<programme start="20260331130000 +0000" stop="20260331141500 +0000" channel="IMC.mncvision">
+    <title>Skandal</title>
+</programme>
+<programme start="20260331141500 +0000" stop="20260331153500 +0000" channel="IMC.mncvision">
+    <title>Jones: Jomblo Ngenes</title>
+</programme>
+<programme start="20260331153500 +0000" stop="20260331160000 +0000" channel="IMC.mncvision">
+    <title>Susah Jaga Keperawanan Di...</title>
+</programme>
+<programme start="20260331160000 +0000" stop="20260331163000 +0000" channel="IMC.mncvision">
+    <title>Man Of Tai Chi</title>
+</programme>
 <programme start="20260330180000 +0000" stop="20260330200000 +0000" channel="Indosiar.mncvision">
     <title>Shinjuku Incident</title>
 </programme>
@@ -5574,7 +6178,72 @@ Error: Unable to fetch data. HTTP Status Code: 500
 <programme start="20260331163000 +0000" stop="20260330170000 +0000" channel="Music TV HD.mncvision">
     <title>Godain</title>
 </programme>
-Error: Unable to fetch data. HTTP Status Code: 500
+<programme start="20260330173000 +0000" stop="20260330190000 +0000" channel="Muslim TV.mncvision">
+    <title>Live Dari Mekkah (L)</title>
+</programme>
+<programme start="20260330190000 +0000" stop="20260330200000 +0000" channel="Muslim TV.mncvision">
+    <title>Aisyah Putri: Jilbab In Love</title>
+</programme>
+<programme start="20260330200000 +0000" stop="20260330210000 +0000" channel="Muslim TV.mncvision">
+    <title>Banyak Jalan Menuju Surga</title>
+</programme>
+<programme start="20260330210000 +0000" stop="20260330220000 +0000" channel="Muslim TV.mncvision">
+    <title>Amanah Wali S8</title>
+</programme>
+<programme start="20260330220000 +0000" stop="20260330233000 +0000" channel="Muslim TV.mncvision">
+    <title>Hafiz Indonesia 2025</title>
+</programme>
+<programme start="20260330233000 +0000" stop="20260331004500 +0000" channel="Muslim TV.mncvision">
+    <title>Siraman Qolbu, Ust. Dhanu</title>
+</programme>
+<programme start="20260331004500 +0000" stop="20260331014500 +0000" channel="Muslim TV.mncvision">
+    <title>Kun Anta</title>
+</programme>
+<programme start="20260331014500 +0000" stop="20260331021500 +0000" channel="Muslim TV.mncvision">
+    <title>World Of Moslem</title>
+</programme>
+<programme start="20260331021500 +0000" stop="20260331031500 +0000" channel="Muslim TV.mncvision">
+    <title>Amanah Wali S8</title>
+</programme>
+<programme start="20260331031500 +0000" stop="20260331041500 +0000" channel="Muslim TV.mncvision">
+    <title>Banyak Jalan Menuju Surga</title>
+</programme>
+<programme start="20260331041500 +0000" stop="20260331053000 +0000" channel="Muslim TV.mncvision">
+    <title>Siraman Qolbu, Ust. Dhanu</title>
+</programme>
+<programme start="20260331053000 +0000" stop="20260331070000 +0000" channel="Muslim TV.mncvision">
+    <title>Umroh Ke Tanah Abang</title>
+</programme>
+<programme start="20260331070000 +0000" stop="20260331073000 +0000" channel="Muslim TV.mncvision">
+    <title>World Of Moslem</title>
+</programme>
+<programme start="20260331073000 +0000" stop="20260331083000 +0000" channel="Muslim TV.mncvision">
+    <title>Penyejuk Hati</title>
+</programme>
+<programme start="20260331083000 +0000" stop="20260331093000 +0000" channel="Muslim TV.mncvision">
+    <title>Aisyah Putri: Jilbab In Love</title>
+</programme>
+<programme start="20260331093000 +0000" stop="20260331103000 +0000" channel="Muslim TV.mncvision">
+    <title>Lentera Hati</title>
+</programme>
+<programme start="20260331103000 +0000" stop="20260331114500 +0000" channel="Muslim TV.mncvision">
+    <title>Amanah Wali S8</title>
+</programme>
+<programme start="20260331114500 +0000" stop="20260331130000 +0000" channel="Muslim TV.mncvision">
+    <title>Amanah Wali S8</title>
+</programme>
+<programme start="20260331130000 +0000" stop="20260331140000 +0000" channel="Muslim TV.mncvision">
+    <title>Aisyah Putri: Jilbab In Love</title>
+</programme>
+<programme start="20260331140000 +0000" stop="20260331150000 +0000" channel="Muslim TV.mncvision">
+    <title>Banyak Jalan Menuju Surga</title>
+</programme>
+<programme start="20260331150000 +0000" stop="20260331160000 +0000" channel="Muslim TV.mncvision">
+    <title>Catatan Hati Seorang Istri</title>
+</programme>
+<programme start="20260331160000 +0000" stop="20260331163000 +0000" channel="Muslim TV.mncvision">
+    <title>Umroh Ke Tanah Abang</title>
+</programme>
 <programme start="20260330170000 +0000" stop="20260330173000 +0000" channel="NHK World.mncvision">
     <title>NHK Newsline</title>
 </programme>
