@@ -3016,18 +3016,6 @@ Warning: Undefined array key "et" in /usr/home/ManusiaBiasa/domains/manusiabiasa
 <programme start="20260331150000 +0000" stop="20260331170000 +0000" channel="Sky Sport Bundesliga 4 HD.skyde">
     <title>BL: FC Bayern München - 1. FC Union Berlin, 27. Spieltag</title>
 </programme>
-<programme start="20260331090000 +0000" stop="20260331110000 +0000" channel="Sky Sport Bundesliga 6 HD.skyde">
-    <title>BL: FC St. Pauli - SC Freiburg, 27. Spieltag</title>
-</programme>
-<programme start="20260331110000 +0000" stop="20260331130000 +0000" channel="Sky Sport Bundesliga 6 HD.skyde">
-    <title>BL: FC St. Pauli - SC Freiburg, 27. Spieltag</title>
-</programme>
-<programme start="20260331130000 +0000" stop="20260331150000 +0000" channel="Sky Sport Bundesliga 6 HD.skyde">
-    <title>BL: FC St. Pauli - SC Freiburg, 27. Spieltag</title>
-</programme>
-<programme start="20260331150000 +0000" stop="20260331170000 +0000" channel="Sky Sport Bundesliga 6 HD.skyde">
-    <title>BL: FC St. Pauli - SC Freiburg, 27. Spieltag</title>
-</programme>
 <programme start="20260330220000 +0000" stop="20260331000000 +0000" channel="Sky Sport F1 HD.skyde">
     <title>F1: Rennen - GP Japan</title>
 </programme>
@@ -3385,14 +3373,14 @@ Warning: Undefined array key "et" in /usr/home/ManusiaBiasa/domains/manusiabiasa
 <programme start="20260331030000 +0000" stop="20260331040000 +0000" channel="Sky Sport Tennis HD.skyde">
     <title>ATP 1000: Review Miami</title>
 </programme>
+<programme start="20260331040000 +0000" stop="20260331043000 +0000" channel="Sky Sport Tennis HD.skyde">
+    <title>WTA 1000: Review Miami</title>
+</programme>
 <programme start="20260331043000 +0000" stop="20260331063000 +0000" channel="Sky Sport Tennis HD.skyde">
     <title>WTA 500: E. Lys (GER) - K. Volynets (USA), Credit One Charleston Open in Charleston (USA), 1. Tag</title>
 </programme>
 <programme start="20260331063000 +0000" stop="20260331073000 +0000" channel="Sky Sport Tennis HD.skyde">
     <title>ATP 1000: Review Miami</title>
-</programme>
-<programme start="20260331073000 +0000" stop="20260331080000 +0000" channel="Sky Sport Tennis HD.skyde">
-    <title>WTA 1000: Review Miami</title>
 </programme>
 <programme start="20260331080000 +0000" stop="20260401030000 +0000" channel="Sky Sport Tennis HD.skyde">
     <title>Live ATP &amp; WTA: Die Topspiele des Tages</title>
@@ -3478,19 +3466,19 @@ Warning: Undefined array key "et" in /usr/home/ManusiaBiasa/domains/manusiabiasa
 <programme start="20260330220000 +0000" stop="20260330230000 +0000" channel="Sky Sport 1 HD.skyde">
     <title>Live NBA: Showtime</title>
 </programme>
-<programme start="20260330230000 +0000" stop="20260331014500 +0000" channel="Sky Sport 1 HD.skyde">
+<programme start="20260330230000 +0000" stop="20260331013000 +0000" channel="Sky Sport 1 HD.skyde">
     <title>Live NBA: Philadelphia 76ers @ Miami Heat</title>
 </programme>
-<programme start="20260331014500 +0000" stop="20260331040000 +0000" channel="Sky Sport 1 HD.skyde">
+<programme start="20260331013000 +0000" stop="20260331040000 +0000" channel="Sky Sport 1 HD.skyde">
     <title>Live NBA: Detroit Pistons @ Oklahoma City Thunder</title>
 </programme>
 <programme start="20260331040000 +0000" stop="20260331080000 +0000" channel="Sky Sport 1 HD.skyde">
     <title>Live NBA: Showtime - Post Show</title>
 </programme>
 <programme start="20260330234000 +0000" stop="20260331000000 +0000" channel="Sky Sport 2 HD.skyde">
-    <title>NBA: Es folgt</title>
+    <title>Es folgt: LIVE NBA</title>
 </programme>
-<programme start="20260331000000 +0000" stop="20260331080000 +0000" channel="Sky Sport 2 HD.skyde">
+<programme start="20260331000000 +0000" stop="20260331024000 +0000" channel="Sky Sport 2 HD.skyde">
     <title>Live NBA: Chicago Bulls @ San Antonio Spurs</title>
 </programme>
 <programme start="20260331080000 +0000" stop="20260331080500 +0000" channel="Sky Sport 3 HD.skyde">
