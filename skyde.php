@@ -934,10 +934,10 @@ Warning: Undefined array key "et" in /usr/home/ManusiaBiasa/domains/manusiabiasa
 <programme start="20260331082500 +0000" stop="20260331085500 +0000" channel="DAZN 1 HD.skyde">
     <title>Best of DAZN: Highlights</title>
 </programme>
-<programme start="20260331085500 +0000" stop="20260331093000 +0000" channel="DAZN 1 HD.skyde">
+<programme start="20260331085500 +0000" stop="20260331094000 +0000" channel="DAZN 1 HD.skyde">
     <title>Doppelpack Europa - Highlights der Serie A und Ligue 1 25/26: 30./27. Spieltag</title>
 </programme>
-<programme start="20260331093000 +0000" stop="20260331113000 +0000" channel="DAZN 1 HD.skyde">
+<programme start="20260331094000 +0000" stop="20260331113000 +0000" channel="DAZN 1 HD.skyde">
     <title>Freundschaftsspiele: Brasilien - Frankreich</title>
 </programme>
 <programme start="20260331113000 +0000" stop="20260331120500 +0000" channel="DAZN 1 HD.skyde">
@@ -949,10 +949,10 @@ Warning: Undefined array key "et" in /usr/home/ManusiaBiasa/domains/manusiabiasa
 <programme start="20260331123500 +0000" stop="20260331131500 +0000" channel="DAZN 1 HD.skyde">
     <title>Best of DAZN: Highlights</title>
 </programme>
-<programme start="20260331131500 +0000" stop="20260331152000 +0000" channel="DAZN 1 HD.skyde">
+<programme start="20260331131500 +0000" stop="20260331151000 +0000" channel="DAZN 1 HD.skyde">
     <title>Freundschaftsspiele: Schweiz - Deutschland</title>
 </programme>
-<programme start="20260331152000 +0000" stop="20260331155000 +0000" channel="DAZN 1 HD.skyde">
+<programme start="20260331151000 +0000" stop="20260331155000 +0000" channel="DAZN 1 HD.skyde">
     <title>Best of DAZN: Highlights</title>
 </programme>
 <programme start="20260331155000 +0000" stop="20260331181000 +0000" channel="DAZN 1 HD.skyde">
@@ -962,7 +962,7 @@ Warning: Undefined array key "et" in /usr/home/ManusiaBiasa/domains/manusiabiasa
     <title>Best of DAZN: Highlights</title>
 </programme>
 <programme start="20260331183500 +0000" stop="20260331210500 +0000" channel="DAZN 1 HD.skyde">
-    <title>UEFA World Cup Qualifiers: TBC - TBC</title>
+    <title>UEFA World Cup Qualifiers: Bosnien-Herzegovina - Italien</title>
 </programme>
 <programme start="20260331210500 +0000" stop="20260331213500 +0000" channel="DAZN 1 HD.skyde">
     <title>Doppelpack Europa - Highlights der Serie A und Ligue 1 25/26: 30./27. Spieltag</title>
@@ -3005,16 +3005,28 @@ Warning: Undefined array key "et" in /usr/home/ManusiaBiasa/domains/manusiabiasa
     <title>Info: UHD</title>
 </programme>
 <programme start="20260331090000 +0000" stop="20260331110000 +0000" channel="Sky Sport Bundesliga 4 HD.skyde">
-    <title>BL: FC Bayern München - 1. FC Union Berlin, 27. Spieltag</title>
+    <title>TEST BL04</title>
 </programme>
 <programme start="20260331110000 +0000" stop="20260331130000 +0000" channel="Sky Sport Bundesliga 4 HD.skyde">
-    <title>BL: FC Bayern München - 1. FC Union Berlin, 27. Spieltag</title>
+    <title>TEST BL04</title>
 </programme>
 <programme start="20260331130000 +0000" stop="20260331150000 +0000" channel="Sky Sport Bundesliga 4 HD.skyde">
-    <title>BL: FC Bayern München - 1. FC Union Berlin, 27. Spieltag</title>
+    <title>TEST BL04</title>
 </programme>
 <programme start="20260331150000 +0000" stop="20260331170000 +0000" channel="Sky Sport Bundesliga 4 HD.skyde">
-    <title>BL: FC Bayern München - 1. FC Union Berlin, 27. Spieltag</title>
+    <title>TEST BL04</title>
+</programme>
+<programme start="20260331090000 +0000" stop="20260331110000 +0000" channel="Sky Sport Bundesliga 6 HD.skyde">
+    <title>TEST BL06</title>
+</programme>
+<programme start="20260331110000 +0000" stop="20260331130000 +0000" channel="Sky Sport Bundesliga 6 HD.skyde">
+    <title>TEST BL06</title>
+</programme>
+<programme start="20260331130000 +0000" stop="20260331150000 +0000" channel="Sky Sport Bundesliga 6 HD.skyde">
+    <title>TEST BL06</title>
+</programme>
+<programme start="20260331150000 +0000" stop="20260331170000 +0000" channel="Sky Sport Bundesliga 6 HD.skyde">
+    <title>TEST BL06</title>
 </programme>
 <programme start="20260330220000 +0000" stop="20260331000000 +0000" channel="Sky Sport F1 HD.skyde">
     <title>F1: Rennen - GP Japan</title>
@@ -3133,19 +3145,16 @@ Warning: Undefined array key "et" in /usr/home/ManusiaBiasa/domains/manusiabiasa
 <programme start="20260330223000 +0000" stop="20260330230000 +0000" channel="Sky Sport Mix HD.skyde">
     <title>NHL: On the Fly</title>
 </programme>
-<programme start="20260330230000 +0000" stop="20260331020000 +0000" channel="Sky Sport Mix HD.skyde">
+<programme start="20260330230000 +0000" stop="20260331015000 +0000" channel="Sky Sport Mix HD.skyde">
     <title>Live NHL: Pittsburgh Penguins @ New York Islanders</title>
 </programme>
-<programme start="20260331020000 +0000" stop="20260331040000 +0000" channel="Sky Sport Mix HD.skyde">
+<programme start="20260331015000 +0000" stop="20260331044000 +0000" channel="Sky Sport Mix HD.skyde">
     <title>Live NBA: Detroit Pistons @ Oklahoma City Thunder</title>
 </programme>
-<programme start="20260331040000 +0000" stop="20260331043000 +0000" channel="Sky Sport Mix HD.skyde">
-    <title>Live NBA: Showtime - Post Show</title>
-</programme>
-<programme start="20260331043000 +0000" stop="20260331050000 +0000" channel="Sky Sport Mix HD.skyde">
+<programme start="20260331044000 +0000" stop="20260331050500 +0000" channel="Sky Sport Mix HD.skyde">
     <title>Frauen-BL: Alle Spiele, alle Tore, 22. Spieltag komplett</title>
 </programme>
-<programme start="20260331050000 +0000" stop="20260331070000 +0000" channel="Sky Sport Mix HD.skyde">
+<programme start="20260331050500 +0000" stop="20260331070000 +0000" channel="Sky Sport Mix HD.skyde">
     <title>NHL: Pittsburgh Penguins @ New York Islanders</title>
 </programme>
 <programme start="20260331070000 +0000" stop="20260331080000 +0000" channel="Sky Sport Mix HD.skyde">
@@ -3382,31 +3391,31 @@ Warning: Undefined array key "et" in /usr/home/ManusiaBiasa/domains/manusiabiasa
 <programme start="20260331063000 +0000" stop="20260331073000 +0000" channel="Sky Sport Tennis HD.skyde">
     <title>ATP 1000: Review Miami</title>
 </programme>
+<programme start="20260331073000 +0000" stop="20260331080000 +0000" channel="Sky Sport Tennis HD.skyde">
+    <title>WTA 1000: Review Miami</title>
+</programme>
 <programme start="20260331080000 +0000" stop="20260401030000 +0000" channel="Sky Sport Tennis HD.skyde">
     <title>Live ATP &amp; WTA: Die Topspiele des Tages</title>
 </programme>
 <programme start="20260330220000 +0000" stop="20260330230000 +0000" channel="Sky Sport Top Event HD.skyde">
     <title>Live NBA: Showtime</title>
 </programme>
-<programme start="20260330230000 +0000" stop="20260331013000 +0000" channel="Sky Sport Top Event HD.skyde">
+<programme start="20260330230000 +0000" stop="20260331014500 +0000" channel="Sky Sport Top Event HD.skyde">
     <title>Live NBA: Philadelphia 76ers @ Miami Heat</title>
 </programme>
-<programme start="20260331013000 +0000" stop="20260331023000 +0000" channel="Sky Sport Top Event HD.skyde">
+<programme start="20260331014500 +0000" stop="20260331023000 +0000" channel="Sky Sport Top Event HD.skyde">
     <title>Live NBA: Chicago Bulls @ San Antonio Spurs</title>
 </programme>
-<programme start="20260331023000 +0000" stop="20260331040000 +0000" channel="Sky Sport Top Event HD.skyde">
+<programme start="20260331023000 +0000" stop="20260331044000 +0000" channel="Sky Sport Top Event HD.skyde">
     <title>Live NBA: Detroit Pistons @ Oklahoma City Thunder</title>
 </programme>
-<programme start="20260331040000 +0000" stop="20260331043000 +0000" channel="Sky Sport Top Event HD.skyde">
-    <title>Live NBA: Showtime - Post Show</title>
-</programme>
-<programme start="20260331043000 +0000" stop="20260331051500 +0000" channel="Sky Sport Top Event HD.skyde">
+<programme start="20260331044000 +0000" stop="20260331052000 +0000" channel="Sky Sport Top Event HD.skyde">
     <title>FIM WorldWCR: 1. Rennen - GP Portugal</title>
 </programme>
-<programme start="20260331051500 +0000" stop="20260331060000 +0000" channel="Sky Sport Top Event HD.skyde">
+<programme start="20260331052000 +0000" stop="20260331060500 +0000" channel="Sky Sport Top Event HD.skyde">
     <title>FIM WorldWCR: 2. Rennen - GP Portugal</title>
 </programme>
-<programme start="20260331060000 +0000" stop="20260331063000 +0000" channel="Sky Sport Top Event HD.skyde">
+<programme start="20260331060500 +0000" stop="20260331063000 +0000" channel="Sky Sport Top Event HD.skyde">
     <title>F1: Ted&#039;s Notebook: GP Japan</title>
 </programme>
 <programme start="20260331063000 +0000" stop="20260331070000 +0000" channel="Sky Sport Top Event HD.skyde">
@@ -3466,10 +3475,10 @@ Warning: Undefined array key "et" in /usr/home/ManusiaBiasa/domains/manusiabiasa
 <programme start="20260330220000 +0000" stop="20260330230000 +0000" channel="Sky Sport 1 HD.skyde">
     <title>Live NBA: Showtime</title>
 </programme>
-<programme start="20260330230000 +0000" stop="20260331013000 +0000" channel="Sky Sport 1 HD.skyde">
+<programme start="20260330230000 +0000" stop="20260331014500 +0000" channel="Sky Sport 1 HD.skyde">
     <title>Live NBA: Philadelphia 76ers @ Miami Heat</title>
 </programme>
-<programme start="20260331013000 +0000" stop="20260331040000 +0000" channel="Sky Sport 1 HD.skyde">
+<programme start="20260331014500 +0000" stop="20260331040000 +0000" channel="Sky Sport 1 HD.skyde">
     <title>Live NBA: Detroit Pistons @ Oklahoma City Thunder</title>
 </programme>
 <programme start="20260331040000 +0000" stop="20260331080000 +0000" channel="Sky Sport 1 HD.skyde">

@@ -47,7 +47,7 @@
 <title>Entong (RCTI)</title>
 </programme>
 <programme start="20260401033000 +0000" stop="20260401043000 +0000" channel="RCTI.vision">
-<title>Go Spot</title>
+<title>Silet (RCTI)</title>
 </programme>
 <programme start="20260401043000 +0000" stop="20260401050000 +0000" channel="RCTI.vision">
 <title>Seputar iNews Siang</title>
@@ -280,10 +280,10 @@
 <programme start="20260401003000 +0000" stop="20260401010000 +0000" channel="iNews.vision">
 <title>Morning Update</title>
 </programme>
-<programme start="20260401010000 +0000" stop="20260401021500 +0000" channel="iNews.vision">
-<title>Konflik Timur Tengah (L)</title>
+<programme start="20260401010000 +0000" stop="20260401030000 +0000" channel="iNews.vision">
+<title>Breaking News: Konflik Timur Tengah</title>
 </programme>
-<programme start="20260401021500 +0000" stop="20260401040000 +0000" channel="iNews.vision">
+<programme start="20260401030000 +0000" stop="20260401040000 +0000" channel="iNews.vision">
 <title>iNews Today (L)</title>
 </programme>
 <programme start="20260401040000 +0000" stop="20260401060000 +0000" channel="iNews.vision">
@@ -520,9 +520,6 @@
 <programme start="20260331090000 +0000" stop="20260331100000 +0000" channel="Trans 7.vision">
 <title>Makan Receh</title>
 </programme>
-<programme start="20260331100000 +0000" stop="20260331110000 +0000" channel="Trans 7.vision">
-<title>Selebrita Update</title>
-</programme>
 <programme start="20260331110000 +0000" stop="20260331114500 +0000" channel="Trans 7.vision">
 <title>On The Spot</title>
 </programme>
@@ -541,8 +538,68 @@
 <programme start="20260331154500 +0000" stop="20260331163000 +0000" channel="Trans 7.vision">
 <title>The Police</title>
 </programme>
-<programme start="20260331163000 +0000" stop="20260331171500 +0000" channel="Trans 7.vision">
-<title>Newstainment</title>
+<programme start="20260331170000 +0000" stop="20260331183000 +0000" channel="Trans 7.vision">
+<title>Trans 7</title>
+</programme>
+<programme start="20260331183000 +0000" stop="20260331190000 +0000" channel="Trans 7.vision">
+<title>Trans 7</title>
+</programme>
+<programme start="20260331190000 +0000" stop="20260331193000 +0000" channel="Trans 7.vision">
+<title>Trans 7</title>
+</programme>
+<programme start="20260331193000 +0000" stop="20260331213000 +0000" channel="Trans 7.vision">
+<title>Trans 7</title>
+</programme>
+<programme start="20260331213000 +0000" stop="20260331221500 +0000" channel="Trans 7.vision">
+<title>Trans 7</title>
+</programme>
+<programme start="20260331221500 +0000" stop="20260331230000 +0000" channel="Trans 7.vision">
+<title>Trans 7</title>
+</programme>
+<programme start="20260331230000 +0000" stop="20260401000000 +0000" channel="Trans 7.vision">
+<title>Trans 7</title>
+</programme>
+<programme start="20260401000000 +0000" stop="20260401004500 +0000" channel="Trans 7.vision">
+<title>Trans 7</title>
+</programme>
+<programme start="20260401004500 +0000" stop="20260401013000 +0000" channel="Trans 7.vision">
+<title>Trans 7</title>
+</programme>
+<programme start="20260401013000 +0000" stop="20260401023000 +0000" channel="Trans 7.vision">
+<title>Trans 7</title>
+</programme>
+<programme start="20260401023000 +0000" stop="20260401033000 +0000" channel="Trans 7.vision">
+<title>Trans 7</title>
+</programme>
+<programme start="20260401033000 +0000" stop="20260401041500 +0000" channel="Trans 7.vision">
+<title>Trans 7</title>
+</programme>
+<programme start="20260401041500 +0000" stop="20260401050000 +0000" channel="Trans 7.vision">
+<title>Trans 7</title>
+</programme>
+<programme start="20260401050000 +0000" stop="20260401054500 +0000" channel="Trans 7.vision">
+<title>Trans 7</title>
+</programme>
+<programme start="20260401054500 +0000" stop="20260401063000 +0000" channel="Trans 7.vision">
+<title>Trans 7</title>
+</programme>
+<programme start="20260401063000 +0000" stop="20260401070000 +0000" channel="Trans 7.vision">
+<title>Trans 7</title>
+</programme>
+<programme start="20260401070000 +0000" stop="20260401080000 +0000" channel="Trans 7.vision">
+<title>Trans 7</title>
+</programme>
+<programme start="20260401080000 +0000" stop="20260401090000 +0000" channel="Trans 7.vision">
+<title>Trans 7</title>
+</programme>
+<programme start="20260401090000 +0000" stop="20260401111500 +0000" channel="Trans 7.vision">
+<title>Trans 7</title>
+</programme>
+<programme start="20260401111500 +0000" stop="20260401114500 +0000" channel="Trans 7.vision">
+<title>Trans 7</title>
+</programme>
+<programme start="20260401114500 +0000" stop="20260401121500 +0000" channel="Trans 7.vision">
+<title>Trans 7</title>
 </programme>
 <programme start="20260330230000 +0000" stop="20260331003000 +0000" channel="ANTV.vision">
 <title>Kasautii</title>
@@ -561,15 +618,6 @@
 </programme>
 <programme start="20260331090000 +0000" stop="20260331110000 +0000" channel="ANTV.vision">
 <title>Vasudha</title>
-</programme>
-<programme start="20260331110000 +0000" stop="20260331130000 +0000" channel="ANTV.vision">
-<title>Bergola Ijo</title>
-</programme>
-<programme start="20260331130000 +0000" stop="20260331143000 +0000" channel="ANTV.vision">
-<title>Samson &amp; Delilah</title>
-</programme>
-<programme start="20260331143000 +0000" stop="20260331163000 +0000" channel="ANTV.vision">
-<title>The Doll 2</title>
 </programme>
 <programme start="20260331163000 +0000" stop="20260331180000 +0000" channel="ANTV.vision">
 <title>Best Of The Best 2</title>
@@ -706,20 +754,8 @@
 <programme start="20260331110000 +0000" stop="20260331130000 +0000" channel="TVOne.vision">
 <title>Apa Kabar Indonesia Malam (L)</title>
 </programme>
-<programme start="20260331130000 +0000" stop="20260331143000 +0000" channel="TVOne.vision">
-<title>Catatan Demokrasi</title>
-</programme>
 <programme start="20260331143000 +0000" stop="20260331153000 +0000" channel="TVOne.vision">
 <title>Kabar Utama 2 (L)</title>
-</programme>
-<programme start="20260331153000 +0000" stop="20260331160000 +0000" channel="TVOne.vision">
-<title>Kabar Hari Ini</title>
-</programme>
-<programme start="20260331160000 +0000" stop="20260331163000 +0000" channel="TVOne.vision">
-<title>Kabar Arena Malam</title>
-</programme>
-<programme start="20260331163000 +0000" stop="20260331170000 +0000" channel="TVOne.vision">
-<title>Apa Kabar Indonesia Malam</title>
 </programme>
 <programme start="20260331170000 +0000" stop="20260331193000 +0000" channel="TVOne.vision">
 <title>TV One</title>
@@ -1461,40 +1497,4 @@
 </programme>
 <programme start="20260331025000 +0000" stop="20260331034000 +0000" channel="MDTV.vision">
 <title>Maria Cinta Yang Hilang</title>
-</programme>
-<programme start="20260331034000 +0000" stop="20260331050500 +0000" channel="MDTV.vision">
-<title>Cinta Fitri S6</title>
-</programme>
-<programme start="20260331050500 +0000" stop="20260331062500 +0000" channel="MDTV.vision">
-<title>Janji Cinta (Sindoor Ki Keemat)</title>
-</programme>
-<programme start="20260331062500 +0000" stop="20260331073000 +0000" channel="MDTV.vision">
-<title>Makan Enak</title>
-</programme>
-<programme start="20260331073000 +0000" stop="20260331083000 +0000" channel="MDTV.vision">
-<title>Masak Gesss!!!</title>
-</programme>
-<programme start="20260331083000 +0000" stop="20260331090500 +0000" channel="MDTV.vision">
-<title>Adit Sopo Jarwo</title>
-</programme>
-<programme start="20260331090500 +0000" stop="20260331100500 +0000" channel="MDTV.vision">
-<title>SensasiSeleb</title>
-</programme>
-<programme start="20260331100500 +0000" stop="20260331110500 +0000" channel="MDTV.vision">
-<title>Amigos X Siempre</title>
-</programme>
-<programme start="20260331110500 +0000" stop="20260331120000 +0000" channel="MDTV.vision">
-<title>Esmeralda</title>
-</programme>
-<programme start="20260331120000 +0000" stop="20260331130000 +0000" channel="MDTV.vision">
-<title>Keluarga Yang Tak Dirindukan</title>
-</programme>
-<programme start="20260331130000 +0000" stop="20260331135500 +0000" channel="MDTV.vision">
-<title>Dunia Tanpa Tuhan</title>
-</programme>
-<programme start="20260331135500 +0000" stop="20260331144500 +0000" channel="MDTV.vision">
-<title>The Return Of Condor Heroes</title>
-</programme>
-<programme start="20260331144500 +0000" stop="20260331161500 +0000" channel="MDTV.vision">
-<title>Jatanras</title>
 </programme>
