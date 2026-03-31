@@ -3400,25 +3400,22 @@ Warning: Undefined array key "et" in /usr/home/ManusiaBiasa/domains/manusiabiasa
 <programme start="20260330220000 +0000" stop="20260330230000 +0000" channel="Sky Sport Top Event HD.skyde">
     <title>Live NBA: Showtime</title>
 </programme>
-<programme start="20260330230000 +0000" stop="20260331013000 +0000" channel="Sky Sport Top Event HD.skyde">
+<programme start="20260330230000 +0000" stop="20260331014500 +0000" channel="Sky Sport Top Event HD.skyde">
     <title>Live NBA: Philadelphia 76ers @ Miami Heat</title>
 </programme>
-<programme start="20260331013000 +0000" stop="20260331023000 +0000" channel="Sky Sport Top Event HD.skyde">
+<programme start="20260331014500 +0000" stop="20260331023000 +0000" channel="Sky Sport Top Event HD.skyde">
     <title>Live NBA: Chicago Bulls @ San Antonio Spurs</title>
 </programme>
-<programme start="20260331023000 +0000" stop="20260331040000 +0000" channel="Sky Sport Top Event HD.skyde">
+<programme start="20260331023000 +0000" stop="20260331044000 +0000" channel="Sky Sport Top Event HD.skyde">
     <title>Live NBA: Detroit Pistons @ Oklahoma City Thunder</title>
 </programme>
-<programme start="20260331040000 +0000" stop="20260331043000 +0000" channel="Sky Sport Top Event HD.skyde">
-    <title>Live NBA: Showtime - Post Show</title>
-</programme>
-<programme start="20260331043000 +0000" stop="20260331051500 +0000" channel="Sky Sport Top Event HD.skyde">
+<programme start="20260331044000 +0000" stop="20260331052000 +0000" channel="Sky Sport Top Event HD.skyde">
     <title>FIM WorldWCR: 1. Rennen - GP Portugal</title>
 </programme>
-<programme start="20260331051500 +0000" stop="20260331060000 +0000" channel="Sky Sport Top Event HD.skyde">
+<programme start="20260331052000 +0000" stop="20260331060500 +0000" channel="Sky Sport Top Event HD.skyde">
     <title>FIM WorldWCR: 2. Rennen - GP Portugal</title>
 </programme>
-<programme start="20260331060000 +0000" stop="20260331063000 +0000" channel="Sky Sport Top Event HD.skyde">
+<programme start="20260331060500 +0000" stop="20260331063000 +0000" channel="Sky Sport Top Event HD.skyde">
     <title>F1: Ted&#039;s Notebook: GP Japan</title>
 </programme>
 <programme start="20260331063000 +0000" stop="20260331070000 +0000" channel="Sky Sport Top Event HD.skyde">
