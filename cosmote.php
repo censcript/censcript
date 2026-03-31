@@ -50,6 +50,10 @@
     <title>Sports Highlights</title>
     <desc>Live: Tidak</desc>
 </programme>
+<programme start="20260402030000 +0700" stop="20260402040000 +0700" channel="COSMOTE Sport 1 HD">
+    <title>Highlights: UEL &amp; UECL 2025-26</title>
+    <desc>Live: Tidak</desc>
+</programme>
 <programme start="20260401013000 +0700" stop="20260401033000 +0700" channel="COSMOTE Sport 2 HD">
     <title>Football: AC Milan - Torino</title>
     <desc>Live: Tidak</desc>
@@ -234,10 +238,6 @@
     <title>Basketball: Houston Rockets - New York Knicks</title>
     <desc>Live: Tidak</desc>
 </programme>
-<programme start="20260401020000 +0700" stop="20260401024500 +0700" channel="COSMOTE Sport 5 HD">
-    <title>Harley-Davidson Bagger World Cup 2026</title>
-    <desc>Live: Tidak</desc>
-</programme>
 <programme start="20260401024500 +0700" stop="20260401033000 +0700" channel="COSMOTE Sport 5 HD">
     <title>Harley-Davidson Bagger World Cup 2026</title>
     <desc>Live: Tidak</desc>
@@ -325,10 +325,6 @@
 <programme start="20260402020000 +0700" stop="20260402040000 +0700" channel="COSMOTE Sport 5 HD">
     <title>Basketball: Tenerife - Galatasaray (L)</title>
     <desc>Live: Ya</desc>
-</programme>
-<programme start="20260401020000 +0700" stop="20260401023000 +0700" channel="COSMOTE Sport 6 HD">
-    <title>Watersports: Inside Sailing 2026 E3</title>
-    <desc>Live: Tidak</desc>
 </programme>
 <programme start="20260401023000 +0700" stop="20260401063000 +0700" channel="COSMOTE Sport 6 HD">
     <title>Tennis: ATP 250 2026</title>
@@ -493,6 +489,10 @@
 <programme start="20260402010000 +0700" stop="20260402033000 +0700" channel="COSMOTE Sport 8 HD">
     <title>Volleyball: Reale Mutua Fenera Chieri - Galatasaray HDI Istanbul (L)</title>
     <desc>Live: Ya</desc>
+</programme>
+<programme start="20260402033000 +0700" stop="20260402040000 +0700" channel="COSMOTE Sport 8 HD">
+    <title>COSMOTESport8HD</title>
+    <desc>Live: Tidak</desc>
 </programme>
 <programme start="20260401020000 +0700" stop="20260401040000 +0700" channel="COSMOTE Sport 9 HD">
     <title>COSMOTESport9HD</title>

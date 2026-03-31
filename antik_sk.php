@@ -1474,48 +1474,6 @@
   <programme start="20260402215500 +0000" stop="20260402233000 +0000" channel="JOJ Cinema.webtv.sk">
     <title lang="id">Jazykové lekcie</title>
   </programme>
-  <programme start="20260401205500 +0000" stop="20260401225000 +0000" channel="JOJ Cinema +1.webtv.sk">
-    <title lang="id">Hot Dog</title>
-  </programme>
-  <programme start="20260401225000 +0000" stop="20260402003000 +0000" channel="JOJ Cinema +1.webtv.sk">
-    <title lang="id">Elyas</title>
-  </programme>
-  <programme start="20260402003000 +0000" stop="20260402023000 +0000" channel="JOJ Cinema +1.webtv.sk">
-    <title lang="id">Kam motýle nelietajú</title>
-  </programme>
-  <programme start="20260402023000 +0000" stop="20260402042000 +0000" channel="JOJ Cinema +1.webtv.sk">
-    <title lang="id">Daveova banka</title>
-  </programme>
-  <programme start="20260402042000 +0000" stop="20260402061500 +0000" channel="JOJ Cinema +1.webtv.sk">
-    <title lang="id">Čierni baróni</title>
-  </programme>
-  <programme start="20260402061500 +0000" stop="20260402080500 +0000" channel="JOJ Cinema +1.webtv.sk">
-    <title lang="id">Myška Pattie: Na vlnách dobrodružstva</title>
-  </programme>
-  <programme start="20260402080500 +0000" stop="20260402101500 +0000" channel="JOJ Cinema +1.webtv.sk">
-    <title lang="id">Čo by bolo, keby</title>
-  </programme>
-  <programme start="20260402101500 +0000" stop="20260402115000 +0000" channel="JOJ Cinema +1.webtv.sk">
-    <title lang="id">Bardejov</title>
-  </programme>
-  <programme start="20260402115000 +0000" stop="20260402135000 +0000" channel="JOJ Cinema +1.webtv.sk">
-    <title lang="id">Víkendoví rebeli</title>
-  </programme>
-  <programme start="20260402135000 +0000" stop="20260402153000 +0000" channel="JOJ Cinema +1.webtv.sk">
-    <title lang="id">Podoby lásky</title>
-  </programme>
-  <programme start="20260402153000 +0000" stop="20260402173000 +0000" channel="JOJ Cinema +1.webtv.sk">
-    <title lang="id">I cesta mže byť cieľom</title>
-  </programme>
-  <programme start="20260402173000 +0000" stop="20260402191500 +0000" channel="JOJ Cinema +1.webtv.sk">
-    <title lang="id">Odcházení</title>
-  </programme>
-  <programme start="20260402191500 +0000" stop="20260402205500 +0000" channel="JOJ Cinema +1.webtv.sk">
-    <title lang="id">Aféra Olivera Twista</title>
-  </programme>
-  <programme start="20260402205500 +0000" stop="20260402225500 +0000" channel="JOJ Cinema +1.webtv.sk">
-    <title lang="id">Zajtra je dnes</title>
-  </programme>
   <programme start="20260401220000 +0000" stop="20260401223000 +0000" channel="TA3.webtv.sk">
     <title lang="id">Téma/Štúdio TA3</title>
   </programme>
