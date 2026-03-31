@@ -2204,16 +2204,16 @@
         <title>Movie - Pottu Amman</title>
     </programme>
     <programme start="20260330160000 +0000" stop="20260330175000 +0000" channel="beIN Sports 2 HD.starhub">
-        <title>TotalEnergies Africa Cup of Nations, Morocco 2025: Uganda vs Tanzania - Group Stage</title>
+        <title>TotalEnergies Africa Cup of Nations, Morocco 2025: Uganda vs Tanzania - Group St</title>
     </programme>
     <programme start="20260330175000 +0000" stop="20260330195000 +0000" channel="beIN Sports 2 HD.starhub">
-        <title>TotalEnergies Africa Cup of Nations, Morocco 2025: Nigeria vs Tunisia - Group Stage</title>
+        <title>TotalEnergies Africa Cup of Nations, Morocco 2025: Nigeria vs Tunisia - Group St</title>
     </programme>
     <programme start="20260330195000 +0000" stop="20260330214000 +0000" channel="beIN Sports 2 HD.starhub">
-        <title>TotalEnergies Africa Cup of Nations, Morocco 2025: Gabon vs Mozambique - Group Stage</title>
+        <title>TotalEnergies Africa Cup of Nations, Morocco 2025: Gabon vs Mozambique - Group S</title>
     </programme>
     <programme start="20260330214000 +0000" stop="20260330233000 +0000" channel="beIN Sports 2 HD.starhub">
-        <title>TotalEnergies Africa Cup of Nations, Morocco 2025: Equatorial Guinea vs Sudan - Group Stage</title>
+        <title>TotalEnergies Africa Cup of Nations, Morocco 2025: Equatorial Guinea vs Sudan -</title>
     </programme>
     <programme start="20260330233000 +0000" stop="20260331003000 +0000" channel="beIN Sports 2 HD.starhub">
         <title>Paris-Nice</title>
@@ -2828,7 +2828,7 @@
         <title>Annamalai Kudumbam</title>
     </programme>
     <programme start="20260330193000 +0000" stop="20260330200000 +0000" channel="Zee Tamil.starhub">
-        <title>Zee Flix</title>
+        <title>Lakshmi Kalyanam</title>
     </programme>
     <programme start="20260330200000 +0000" stop="20260330203000 +0000" channel="Zee Tamil.starhub">
         <title>Gettimelam</title>
