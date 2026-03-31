@@ -3034,90 +3034,6 @@
   <programme start="20260402212500 +0000" stop="20260402220500 +0000" channel="TV LUX.webtv.sk">
     <title lang="id">V škole Ducha</title>
   </programme>
-  <programme start="20260401215500 +0000" stop="20260401222000 +0000" channel="NOE.webtv.sk">
-    <title lang="id">Generální audience papeže Lva XIV.</title>
-  </programme>
-  <programme start="20260401222000 +0000" stop="20260401225000 +0000" channel="NOE.webtv.sk">
-    <title lang="id">Stopy apoštola Pavla v srdci Evropy</title>
-  </programme>
-  <programme start="20260401225000 +0000" stop="20260401232000 +0000" channel="NOE.webtv.sk">
-    <title lang="id">Příběhy odvahy a víry: Otec a syn</title>
-  </programme>
-  <programme start="20260401232000 +0000" stop="20260402040500 +0000" channel="NOE.webtv.sk">
-    <title lang="id">Noční repríza dopoledních pořadů</title>
-  </programme>
-  <programme start="20260402040500 +0000" stop="20260402045000 +0000" channel="NOE.webtv.sk">
-    <title lang="id">Cenakolo</title>
-  </programme>
-  <programme start="20260402045000 +0000" stop="20260402050500 +0000" channel="NOE.webtv.sk">
-    <title lang="id">Papuánské Velikonoce</title>
-  </programme>
-  <programme start="20260402050500 +0000" stop="20260402053000 +0000" channel="NOE.webtv.sk">
-    <title lang="id">Na startu</title>
-  </programme>
-  <programme start="20260402053000 +0000" stop="20260402055000 +0000" channel="NOE.webtv.sk">
-    <title lang="id">Terra santa news</title>
-  </programme>
-  <programme start="20260402055000 +0000" stop="20260402061000 +0000" channel="NOE.webtv.sk">
-    <title lang="id">Poutníci času</title>
-  </programme>
-  <programme start="20260402061000 +0000" stop="20260402071000 +0000" channel="NOE.webtv.sk">
-    <title lang="id">K jádru věci</title>
-  </programme>
-  <programme start="20260402071000 +0000" stop="20260402073000 +0000" channel="NOE.webtv.sk">
-    <title lang="id">Viděli jsme</title>
-  </programme>
-  <programme start="20260402073000 +0000" stop="20260402092000 +0000" channel="NOE.webtv.sk">
-    <title lang="id">Mše svatá se svěcením olejů</title>
-  </programme>
-  <programme start="20260402092000 +0000" stop="20260402094000 +0000" channel="NOE.webtv.sk">
-    <title lang="id">Múzy církevních škol</title>
-  </programme>
-  <programme start="20260402094000 +0000" stop="20260402100000 +0000" channel="NOE.webtv.sk">
-    <title lang="id">Přejeme si...</title>
-  </programme>
-  <programme start="20260402100000 +0000" stop="20260402100500 +0000" channel="NOE.webtv.sk">
-    <title lang="id">Polední modlitba</title>
-  </programme>
-  <programme start="20260402100500 +0000" stop="20260402103000 +0000" channel="NOE.webtv.sk">
-    <title lang="id">Harfa Noemova</title>
-  </programme>
-  <programme start="20260402103000 +0000" stop="20260402121500 +0000" channel="NOE.webtv.sk">
-    <title lang="id">Jan Pavel II. a pád komunismu</title>
-  </programme>
-  <programme start="20260402121500 +0000" stop="20260402123000 +0000" channel="NOE.webtv.sk">
-    <title lang="id">II. vatikánský koncil a architektura</title>
-  </programme>
-  <programme start="20260402123000 +0000" stop="20260402125000 +0000" channel="NOE.webtv.sk">
-    <title lang="id">Generální audience papeže Lva XIV.</title>
-  </programme>
-  <programme start="20260402125000 +0000" stop="20260402150000 +0000" channel="NOE.webtv.sk">
-    <title lang="id">Evangelium podle Matouše</title>
-  </programme>
-  <programme start="20260402150000 +0000" stop="20260402153000 +0000" channel="NOE.webtv.sk">
-    <title lang="id">Zelený čtvrtek s Noe</title>
-  </programme>
-  <programme start="20260402153000 +0000" stop="20260402171500 +0000" channel="NOE.webtv.sk">
-    <title lang="id">Mše svatá na památku Večeře Páně</title>
-  </programme>
-  <programme start="20260402171500 +0000" stop="20260402172500 +0000" channel="NOE.webtv.sk">
-    <title lang="id">V pohorách po horách</title>
-  </programme>
-  <programme start="20260402172500 +0000" stop="20260402174500 +0000" channel="NOE.webtv.sk">
-    <title lang="id">Můj chrám</title>
-  </programme>
-  <programme start="20260402174500 +0000" stop="20260402180500 +0000" channel="NOE.webtv.sk">
-    <title lang="id">Přejeme si...</title>
-  </programme>
-  <programme start="20260402180500 +0000" stop="20260402192000 +0000" channel="NOE.webtv.sk">
-    <title lang="id">The Chosen V. V (8)</title>
-  </programme>
-  <programme start="20260402192000 +0000" stop="20260402215000 +0000" channel="NOE.webtv.sk">
-    <title lang="id">Osm hor</title>
-  </programme>
-  <programme start="20260402215000 +0000" stop="20260402232000 +0000" channel="NOE.webtv.sk">
-    <title lang="id">A. Dvořák: Stabat Mater, op. 58</title>
-  </programme>
   <programme start="20260401211800 +0000" stop="20260401220800 +0000" channel="ČT1.webtv.sk">
     <title lang="id">Inspektorka Candice Renoirová VI (7)</title>
   </programme>
@@ -5673,108 +5589,6 @@
   </programme>
   <programme start="20260402210000 +0000" stop="20260402220000 +0000" channel="National Geographic Channel.webtv.sk">
     <title lang="id">Letiště: Ztráty a nálezy I (6)</title>
-  </programme>
-  <programme start="20260401220000 +0000" stop="20260401224600 +0000" channel="National Geographic Wild.webtv.sk">
-    <title lang="id">Lovci z divočiny: Afričtí zabijáci XCIX (1)</title>
-  </programme>
-  <programme start="20260401224600 +0000" stop="20260401233100 +0000" channel="National Geographic Wild.webtv.sk">
-    <title lang="id">Divocí, chytří a smrtící I (3)</title>
-  </programme>
-  <programme start="20260401233100 +0000" stop="20260402001600 +0000" channel="National Geographic Wild.webtv.sk">
-    <title lang="id">Divocí, chytří a smrtící I (4)</title>
-  </programme>
-  <programme start="20260402001600 +0000" stop="20260402010100 +0000" channel="National Geographic Wild.webtv.sk">
-    <title lang="id">Divocí, chytří a smrtící I (6)</title>
-  </programme>
-  <programme start="20260402010100 +0000" stop="20260402014700 +0000" channel="National Geographic Wild.webtv.sk">
-    <title lang="id">Největší zabijáci I (1)</title>
-  </programme>
-  <programme start="20260402014700 +0000" stop="20260402023200 +0000" channel="National Geographic Wild.webtv.sk">
-    <title lang="id">Divocí, chytří a smrtící I (3)</title>
-  </programme>
-  <programme start="20260402023200 +0000" stop="20260402031600 +0000" channel="National Geographic Wild.webtv.sk">
-    <title lang="id">Divocí, chytří a smrtící I (4)</title>
-  </programme>
-  <programme start="20260402031600 +0000" stop="20260402040000 +0000" channel="National Geographic Wild.webtv.sk">
-    <title lang="id">Divocí, chytří a smrtící I (6)</title>
-  </programme>
-  <programme start="20260402040000 +0000" stop="20260402045000 +0000" channel="National Geographic Wild.webtv.sk">
-    <title lang="id">Země zimních zázraků I (1)</title>
-  </programme>
-  <programme start="20260402045000 +0000" stop="20260402051300 +0000" channel="National Geographic Wild.webtv.sk">
-    <title lang="id">Zvířata v pohybu I (3)</title>
-  </programme>
-  <programme start="20260402051300 +0000" stop="20260402053600 +0000" channel="National Geographic Wild.webtv.sk">
-    <title lang="id">Zvířata v pohybu I (10)</title>
-  </programme>
-  <programme start="20260402053600 +0000" stop="20260402062100 +0000" channel="National Geographic Wild.webtv.sk">
-    <title lang="id">Závod se zimou</title>
-  </programme>
-  <programme start="20260402062100 +0000" stop="20260402070400 +0000" channel="National Geographic Wild.webtv.sk">
-    <title lang="id">Záhadní draci</title>
-  </programme>
-  <programme start="20260402070400 +0000" stop="20260402074900 +0000" channel="National Geographic Wild.webtv.sk">
-    <title lang="id">Země zimních zázraků I (1)</title>
-  </programme>
-  <programme start="20260402074900 +0000" stop="20260402083400 +0000" channel="National Geographic Wild.webtv.sk">
-    <title lang="id">Závod se zimou</title>
-  </programme>
-  <programme start="20260402083400 +0000" stop="20260402091800 +0000" channel="National Geographic Wild.webtv.sk">
-    <title lang="id">Záhadní draci</title>
-  </programme>
-  <programme start="20260402091800 +0000" stop="20260402100300 +0000" channel="National Geographic Wild.webtv.sk">
-    <title lang="id">Den varana</title>
-  </programme>
-  <programme start="20260402100300 +0000" stop="20260402104800 +0000" channel="National Geographic Wild.webtv.sk">
-    <title lang="id">Souboj draků z bažin</title>
-  </programme>
-  <programme start="20260402104800 +0000" stop="20260402113300 +0000" channel="National Geographic Wild.webtv.sk">
-    <title lang="id">Země zimních zázraků I (1)</title>
-  </programme>
-  <programme start="20260402113300 +0000" stop="20260402121800 +0000" channel="National Geographic Wild.webtv.sk">
-    <title lang="id">Země zimních zázraků I (2)</title>
-  </programme>
-  <programme start="20260402121800 +0000" stop="20260402130300 +0000" channel="National Geographic Wild.webtv.sk">
-    <title lang="id">Země zimních zázraků I (3)</title>
-  </programme>
-  <programme start="20260402130300 +0000" stop="20260402134800 +0000" channel="National Geographic Wild.webtv.sk">
-    <title lang="id">Medvědí zima</title>
-  </programme>
-  <programme start="20260402134800 +0000" stop="20260402143300 +0000" channel="National Geographic Wild.webtv.sk">
-    <title lang="id">Závod se zimou</title>
-  </programme>
-  <programme start="20260402143300 +0000" stop="20260402151600 +0000" channel="National Geographic Wild.webtv.sk">
-    <title lang="id">Skvělý dr. Pol XVIII (18)</title>
-  </programme>
-  <programme start="20260402151600 +0000" stop="20260402160000 +0000" channel="National Geographic Wild.webtv.sk">
-    <title lang="id">Skvělý dr. Pol XVIII (19)</title>
-  </programme>
-  <programme start="20260402160000 +0000" stop="20260402164300 +0000" channel="National Geographic Wild.webtv.sk">
-    <title lang="id">Žraločí titáni</title>
-  </programme>
-  <programme start="20260402164300 +0000" stop="20260402172800 +0000" channel="National Geographic Wild.webtv.sk">
-    <title lang="id">Žralok versus predátor</title>
-  </programme>
-  <programme start="20260402172800 +0000" stop="20260402181300 +0000" channel="National Geographic Wild.webtv.sk">
-    <title lang="id">Závod se zimou</title>
-  </programme>
-  <programme start="20260402181300 +0000" stop="20260402185600 +0000" channel="National Geographic Wild.webtv.sk">
-    <title lang="id">Žraločí titáni</title>
-  </programme>
-  <programme start="20260402185600 +0000" stop="20260402193900 +0000" channel="National Geographic Wild.webtv.sk">
-    <title lang="id">Skvělý dr. Pol XVIII (18)</title>
-  </programme>
-  <programme start="20260402193900 +0000" stop="20260402202200 +0000" channel="National Geographic Wild.webtv.sk">
-    <title lang="id">Skvělý dr. Pol XVIII (19)</title>
-  </programme>
-  <programme start="20260402202200 +0000" stop="20260402210800 +0000" channel="National Geographic Wild.webtv.sk">
-    <title lang="id">Země zimních zázraků I (2)</title>
-  </programme>
-  <programme start="20260402210800 +0000" stop="20260402215100 +0000" channel="National Geographic Wild.webtv.sk">
-    <title lang="id">Žraločí titáni</title>
-  </programme>
-  <programme start="20260402215100 +0000" stop="20260402223600 +0000" channel="National Geographic Wild.webtv.sk">
-    <title lang="id">Země zimních zázraků I (1)</title>
   </programme>
   <programme start="20260401220000 +0000" stop="20260401230000 +0000" channel="Discovery.webtv.sk">
     <title lang="id">Únos a záchrana I (2)</title>
@@ -19992,6 +19806,78 @@
   </programme>
   <programme start="20260402213000 +0000" stop="20260402220000 +0000" channel="Rebel.webtv.sk">
     <title lang="id">Forever Rock</title>
+  </programme>
+  <programme start="20260401212000 +0000" stop="20260402002000 +0000" channel="Relax.webtv.sk">
+    <title lang="id">LUXUSSTORE</title>
+  </programme>
+  <programme start="20260402002000 +0000" stop="20260402033000 +0000" channel="Relax.webtv.sk">
+    <title lang="id">TOP Relax</title>
+  </programme>
+  <programme start="20260402033000 +0000" stop="20260402040000 +0000" channel="Relax.webtv.sk">
+    <title lang="id">Užasné zahrady (6)</title>
+  </programme>
+  <programme start="20260402040000 +0000" stop="20260402060000 +0000" channel="Relax.webtv.sk">
+    <title lang="id">Ranní káva s Rádiem Čas</title>
+  </programme>
+  <programme start="20260402060000 +0000" stop="20260402062000 +0000" channel="Relax.webtv.sk">
+    <title lang="id">Teleshopping</title>
+  </programme>
+  <programme start="20260402062000 +0000" stop="20260402072000 +0000" channel="Relax.webtv.sk">
+    <title lang="id">Nespoutaný anděl (40)</title>
+  </programme>
+  <programme start="20260402072000 +0000" stop="20260402082000 +0000" channel="Relax.webtv.sk">
+    <title lang="id">Plavba snů (4)</title>
+  </programme>
+  <programme start="20260402082000 +0000" stop="20260402083500 +0000" channel="Relax.webtv.sk">
+    <title lang="id">Pohodové zprávy</title>
+  </programme>
+  <programme start="20260402083500 +0000" stop="20260402091000 +0000" channel="Relax.webtv.sk">
+    <title lang="id">Teleshopping</title>
+  </programme>
+  <programme start="20260402091000 +0000" stop="20260402104500 +0000" channel="Relax.webtv.sk">
+    <title lang="id">Ranní káva s Rádiem Čas</title>
+  </programme>
+  <programme start="20260402104500 +0000" stop="20260402123000 +0000" channel="Relax.webtv.sk">
+    <title lang="id">Poslední zhasne (4)</title>
+  </programme>
+  <programme start="20260402123000 +0000" stop="20260402124000 +0000" channel="Relax.webtv.sk">
+    <title lang="id">Teleshopping</title>
+  </programme>
+  <programme start="20260402124000 +0000" stop="20260402130000 +0000" channel="Relax.webtv.sk">
+    <title lang="id">TOP Relax</title>
+  </programme>
+  <programme start="20260402130000 +0000" stop="20260402135500 +0000" channel="Relax.webtv.sk">
+    <title lang="id">Souboj živlů (15)</title>
+  </programme>
+  <programme start="20260402135500 +0000" stop="20260402145500 +0000" channel="Relax.webtv.sk">
+    <title lang="id">Námořní hlídka (3)</title>
+  </programme>
+  <programme start="20260402145500 +0000" stop="20260402152500 +0000" channel="Relax.webtv.sk">
+    <title lang="id">Na pohodu s Heidi</title>
+  </programme>
+  <programme start="20260402152500 +0000" stop="20260402155500 +0000" channel="Relax.webtv.sk">
+    <title lang="id">Slavní zblízka (5)</title>
+  </programme>
+  <programme start="20260402155500 +0000" stop="20260402165500 +0000" channel="Relax.webtv.sk">
+    <title lang="id">Selfie s Táňou (1)</title>
+  </programme>
+  <programme start="20260402165500 +0000" stop="20260402175500 +0000" channel="Relax.webtv.sk">
+    <title lang="id">Souboj živlů (16)</title>
+  </programme>
+  <programme start="20260402175500 +0000" stop="20260402185500 +0000" channel="Relax.webtv.sk">
+    <title lang="id">Nespoutaný anděl (41)</title>
+  </programme>
+  <programme start="20260402185500 +0000" stop="20260402195500 +0000" channel="Relax.webtv.sk">
+    <title lang="id">Námořní hlídka (4)</title>
+  </programme>
+  <programme start="20260402195500 +0000" stop="20260402205000 +0000" channel="Relax.webtv.sk">
+    <title lang="id">Detektiv Nash Bridges (24)</title>
+  </programme>
+  <programme start="20260402205000 +0000" stop="20260402212000 +0000" channel="Relax.webtv.sk">
+    <title lang="id">Teleshopping</title>
+  </programme>
+  <programme start="20260402212000 +0000" stop="20260403002000 +0000" channel="Relax.webtv.sk">
+    <title lang="id">LUXUSSTORE</title>
   </programme>
   <programme start="20260401220000 +0000" stop="20260401234000 +0000" channel="STINGRAY iConcerts.webtv.sk">
     <title lang="id">Muse - Live at Festival Rock Am Ring</title>

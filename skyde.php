@@ -3385,9 +3385,6 @@ Warning: Undefined array key "et" in /usr/home/ManusiaBiasa/domains/manusiabiasa
 <programme start="20260331030000 +0000" stop="20260331040000 +0000" channel="Sky Sport Tennis HD.skyde">
     <title>ATP 1000: Review Miami</title>
 </programme>
-<programme start="20260331040000 +0000" stop="20260331043000 +0000" channel="Sky Sport Tennis HD.skyde">
-    <title>WTA 1000: Review Miami</title>
-</programme>
 <programme start="20260331043000 +0000" stop="20260331063000 +0000" channel="Sky Sport Tennis HD.skyde">
     <title>WTA 500: E. Lys (GER) - K. Volynets (USA), Credit One Charleston Open in Charleston (USA), 1. Tag</title>
 </programme>
@@ -3481,10 +3478,10 @@ Warning: Undefined array key "et" in /usr/home/ManusiaBiasa/domains/manusiabiasa
 <programme start="20260330220000 +0000" stop="20260330230000 +0000" channel="Sky Sport 1 HD.skyde">
     <title>Live NBA: Showtime</title>
 </programme>
-<programme start="20260330230000 +0000" stop="20260331013000 +0000" channel="Sky Sport 1 HD.skyde">
+<programme start="20260330230000 +0000" stop="20260331014500 +0000" channel="Sky Sport 1 HD.skyde">
     <title>Live NBA: Philadelphia 76ers @ Miami Heat</title>
 </programme>
-<programme start="20260331013000 +0000" stop="20260331040000 +0000" channel="Sky Sport 1 HD.skyde">
+<programme start="20260331014500 +0000" stop="20260331040000 +0000" channel="Sky Sport 1 HD.skyde">
     <title>Live NBA: Detroit Pistons @ Oklahoma City Thunder</title>
 </programme>
 <programme start="20260331040000 +0000" stop="20260331080000 +0000" channel="Sky Sport 1 HD.skyde">
@@ -4202,6 +4199,45 @@ Warning: Undefined array key "et" in /usr/home/ManusiaBiasa/domains/manusiabiasa
     <title>Per Anhalter durch die Galaxis</title>
 </programme>
 <programme start="20260331200500 +0000" stop="20260331222500 +0000" channel="Warner TV Film.skyde">
+    <title>Im Körper des Feindes</title>
+</programme>
+<programme start="20260330224000 +0000" stop="20260331002000 +0000" channel="Warner TV Film HD.skyde">
+    <title>Max Payne</title>
+</programme>
+<programme start="20260331002000 +0000" stop="20260331021000 +0000" channel="Warner TV Film HD.skyde">
+    <title>Zurück in die Zukunft</title>
+</programme>
+<programme start="20260331021000 +0000" stop="20260331040000 +0000" channel="Warner TV Film HD.skyde">
+    <title>Zurück in die Zukunft III</title>
+</programme>
+<programme start="20260331040000 +0000" stop="20260331055500 +0000" channel="Warner TV Film HD.skyde">
+    <title>Arsen und Spitzenhäubchen</title>
+</programme>
+<programme start="20260331055500 +0000" stop="20260331070000 +0000" channel="Warner TV Film HD.skyde">
+    <title>Der Wilde Westen: Die ersten 100 Jahre</title>
+</programme>
+<programme start="20260331070000 +0000" stop="20260331090500 +0000" channel="Warner TV Film HD.skyde">
+    <title>Der Champ</title>
+</programme>
+<programme start="20260331090500 +0000" stop="20260331103500 +0000" channel="Warner TV Film HD.skyde">
+    <title>In Colorado ist der Teufel los</title>
+</programme>
+<programme start="20260331103500 +0000" stop="20260331124500 +0000" channel="Warner TV Film HD.skyde">
+    <title>Der Sternwanderer</title>
+</programme>
+<programme start="20260331124500 +0000" stop="20260331144000 +0000" channel="Warner TV Film HD.skyde">
+    <title>Free Guy</title>
+</programme>
+<programme start="20260331144000 +0000" stop="20260331163000 +0000" channel="Warner TV Film HD.skyde">
+    <title>Equilibrium</title>
+</programme>
+<programme start="20260331163000 +0000" stop="20260331181500 +0000" channel="Warner TV Film HD.skyde">
+    <title>Max Payne</title>
+</programme>
+<programme start="20260331181500 +0000" stop="20260331200500 +0000" channel="Warner TV Film HD.skyde">
+    <title>Per Anhalter durch die Galaxis</title>
+</programme>
+<programme start="20260331200500 +0000" stop="20260331222500 +0000" channel="Warner TV Film HD.skyde">
     <title>Im Körper des Feindes</title>
 </programme>
 <programme start="20260330220000 +0000" stop="20260330233500 +0000" channel="Warner TV Serie HD.skyde">
