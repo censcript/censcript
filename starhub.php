@@ -6697,11 +6697,14 @@
     <programme start="20260331080000 +0000" stop="20260331090000 +0000" channel="Hub Sports 1  HD.starhub">
         <title>BNP Paribas Open</title>
     </programme>
-    <programme start="20260331090000 +0000" stop="20260331120000 +0000" channel="Hub Sports 1  HD.starhub">
+    <programme start="20260331090000 +0000" stop="20260331113000 +0000" channel="Hub Sports 1  HD.starhub">
         <title>U.S. Men&#039;s Clay Court C&#039;ship (250) Day 1 R1 Session 1</title>
     </programme>
+    <programme start="20260331113000 +0000" stop="20260331120000 +0000" channel="Hub Sports 1  HD.starhub">
+        <title>Season 3 Episode 6</title>
+    </programme>
     <programme start="20260331120000 +0000" stop="20260331123000 +0000" channel="Hub Sports 1  HD.starhub">
-        <title>Miami Open presented by Itaú</title>
+        <title>Miami Open presented by Itau</title>
     </programme>
     <programme start="20260331123000 +0000" stop="20260331124500 +0000" channel="Hub Sports 1  HD.starhub">
         <title>Show 150</title>
