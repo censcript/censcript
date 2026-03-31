@@ -12942,113 +12942,36 @@
     <title lang="en">Singapore Tonight</title>
     <desc lang="en">From business to politics, health to technology, the latest news from Singapore and analysis of the impact.</desc>
     <category lang="en">News</category>
-    <episode-num system="xmltv_ns">0.0.</episode-num>
-    <episode-num system="onscreen">S1E1</episode-num>
   </programme>
-  <programme start="20260331230300 +0000" stop="20260401020300 +0000" channel="channelnewsasia.unifitv">
+  <programme start="20260331230300 +0000" stop="20260401030300 +0000" channel="channelnewsasia.unifitv">
     <title lang="en">Asia First</title>
     <desc lang="en">Top stories, business news and market updates from across the region as Asia gears up for the day ahead.</desc>
     <category lang="en">News</category>
-    <episode-num system="xmltv_ns">0.0.</episode-num>
-    <episode-num system="onscreen">S1E1</episode-num>
   </programme>
-  <programme start="20260401020300 +0000" stop="20260401030300 +0000" channel="channelnewsasia.unifitv">
-    <title lang="en">CNA Tech Challenge</title>
-    <desc lang="en">At the Grand Finale, the last three teams face a high-stakes disaster rescue using advanced drones and robots. With lives at risk and no room for error, only one team will be crowned champion.</desc>
-    <category lang="en">Info-Educational</category>
-    <episode-num system="xmltv_ns">0.3.</episode-num>
-    <episode-num system="onscreen">S1E4</episode-num>
-  </programme>
-  <programme start="20260401030300 +0000" stop="20260401050300 +0000" channel="channelnewsasia.unifitv">
+  <programme start="20260401030300 +0000" stop="20260401060300 +0000" channel="channelnewsasia.unifitv">
     <title lang="en">Asia Now 2026/2027 - 11 am</title>
     <desc lang="en">Non-stop breaking stories, expert analysis and extensive news coverage every hour.</desc>
     <category lang="en">News</category>
-    <episode-num system="xmltv_ns">0.0.</episode-num>
-    <episode-num system="onscreen">S1E1</episode-num>
   </programme>
-  <programme start="20260401050300 +0000" stop="20260401060300 +0000" channel="channelnewsasia.unifitv">
-    <title lang="en">CNA Tech Challenge</title>
-    <desc lang="en">In the final qualifying round, three teams tackle RoboClean at a hawker centre and Delivery Dash in a warehouse. Only one secures the final spot in the finale.</desc>
-    <category lang="en">Info-Educational</category>
-    <episode-num system="xmltv_ns">0.2.</episode-num>
-    <episode-num system="onscreen">S1E3</episode-num>
-  </programme>
-  <programme start="20260401060300 +0000" stop="20260401080300 +0000" channel="channelnewsasia.unifitv">
+  <programme start="20260401060300 +0000" stop="20260401100300 +0000" channel="channelnewsasia.unifitv">
     <title lang="en">Asia Now 2026/2027 - 2 pm</title>
     <desc lang="en">Non-stop breaking stories, expert analysis and extensive news coverage every hour.</desc>
     <category lang="en">News</category>
-    <episode-num system="xmltv_ns">0.0.</episode-num>
-    <episode-num system="onscreen">S1E1</episode-num>
   </programme>
-  <programme start="20260401080300 +0000" stop="20260401090300 +0000" channel="channelnewsasia.unifitv">
-    <title lang="en">Insight</title>
-    <desc lang="en">Insight investigates and analyses topical issues that impact Asia and the rest of the world.</desc>
-    <category lang="en">Current Affairs</category>
-    <episode-num system="xmltv_ns">0.43.</episode-num>
-    <episode-num system="onscreen">S1E44</episode-num>
-  </programme>
-  <programme start="20260401090300 +0000" stop="20260401090500 +0000" channel="channelnewsasia.unifitv">
-    <title lang="en">Headline News 2026/2027</title>
-    <desc lang="en">The latest top stories of the hour.</desc>
-    <category lang="en">News</category>
-    <episode-num system="xmltv_ns">1284.0.</episode-num>
-    <episode-num system="onscreen">S1285E1</episode-num>
-  </programme>
-  <programme start="20260401090500 +0000" stop="20260401100300 +0000" channel="channelnewsasia.unifitv">
-    <title lang="en">CNA Tech Challenge</title>
-    <desc lang="en">Three teams kick off the CNA Tech Challenge with Drone Soccer and RoboHoops. After intense builds, bold strategies and a sabotage twist, one team secures the first spot in the finals.</desc>
-    <category lang="en">Info-Educational</category>
-    <episode-num system="xmltv_ns">0.0.</episode-num>
-    <episode-num system="onscreen">S1E1</episode-num>
-  </programme>
-  <programme start="20260401100300 +0000" stop="20260401110300 +0000" channel="channelnewsasia.unifitv">
+  <programme start="20260401100300 +0000" stop="20260401120300 +0000" channel="channelnewsasia.unifitv">
     <title lang="en">East Asia Tonight</title>
     <desc lang="en">Spotlight on East Asia, a region steeped in history and now helping to write the future of our world. We'll break down the key stories and explain why they matter.</desc>
     <category lang="en">News</category>
-    <episode-num system="xmltv_ns">0.0.</episode-num>
-    <episode-num system="onscreen">S1E1</episode-num>
   </programme>
-  <programme start="20260401110300 +0000" stop="20260401113300 +0000" channel="channelnewsasia.unifitv">
-    <title lang="en">Money Mind</title>
-    <desc lang="en">Money Mind is a weekly magazine programme centering on personal finance. Every week, the programme offers tips on how to grow, save and spend your money wisely.</desc>
-    <category lang="en">Current Affairs</category>
-    <episode-num system="xmltv_ns">0.0.</episode-num>
-    <episode-num system="onscreen">S1E1</episode-num>
-  </programme>
-  <programme start="20260401113300 +0000" stop="20260401120300 +0000" channel="channelnewsasia.unifitv">
-    <title lang="en">CNA Correspondent 2026/2027</title>
-    <desc lang="en">They're your eyes and ears around the globe. CNA's network of correspondents shines a light on stories from their corners of the world, from groundbreaking events to up-and-coming trends.</desc>
-    <category lang="en">Current Affairs</category>
-    <episode-num system="xmltv_ns">0.0.</episode-num>
-    <episode-num system="onscreen">S1E1</episode-num>
-  </programme>
-  <programme start="20260401120300 +0000" stop="20260401130300 +0000" channel="channelnewsasia.unifitv">
+  <programme start="20260401120300 +0000" stop="20260401140300 +0000" channel="channelnewsasia.unifitv">
     <title lang="en">Asia Tonight 2026/2027</title>
     <desc lang="en">News and views from around the region, delivered with uniquely Asian perspectives.</desc>
     <category lang="en">News</category>
-    <episode-num system="xmltv_ns">0.0.</episode-num>
-    <episode-num system="onscreen">S1E1</episode-num>
   </programme>
-  <programme start="20260401130300 +0000" stop="20260401140300 +0000" channel="channelnewsasia.unifitv">
-    <title lang="en">CNA Tech Challenge: Behind The Scenes</title>
-    <desc lang="en">CNA Tech Challenge: Behind The Scenes</desc>
-    <category lang="en">Info-Educational</category>
-    <episode-num system="xmltv_ns">0.0.</episode-num>
-    <episode-num system="onscreen">S1E1</episode-num>
-  </programme>
-  <programme start="20260401140300 +0000" stop="20260401150300 +0000" channel="channelnewsasia.unifitv">
+  <programme start="20260401140300 +0000" stop="20260401160600 +0000" channel="channelnewsasia.unifitv">
     <title lang="en">Singapore Tonight</title>
     <desc lang="en">From business to politics, health to technology, the latest news from Singapore and analysis of the impact.</desc>
     <category lang="en">News</category>
-    <episode-num system="xmltv_ns">0.0.</episode-num>
-    <episode-num system="onscreen">S1E1</episode-num>
-  </programme>
-  <programme start="20260401150300 +0000" stop="20260401160300 +0000" channel="channelnewsasia.unifitv">
-    <title lang="en">CNA Tech Challenge</title>
-    <desc lang="en">At the Grand Finale, the last three teams face a high-stakes disaster rescue using advanced drones and robots. With lives at risk and no room for error, only one team will be crowned champion.</desc>
-    <category lang="en">Info-Educational</category>
-    <episode-num system="xmltv_ns">0.3.</episode-num>
-    <episode-num system="onscreen">S1E4</episode-num>
   </programme>
   <channel id="euronews.unifitv">
     <display-name>Euronews</display-name>
@@ -13680,8 +13603,8 @@
     <category lang="en">Government</category>
   </programme>
   <programme start="20260401090000 +0000" stop="20260401134000 +0000" channel="parlimenmalaysia.unifitv">
-    <title lang="en">Ulangan Persidangan Dewan Negara- Mesyuarat Pertama, Penggal Kelima, Parlimen ke 15 - Minggu Ke 2 ( 02/03/2026)</title>
-    <desc lang="en">Ulangan Persidangan Dewan Negara- Mesyuarat Pertama, Penggal Kelima, Parlimen ke 15 - Minggu Ke 2 ( 02/03/2026)</desc>
+    <title lang="en">Ulangan Persidangan Dewan Rakyat - Mesyuarat Pertama, Penggal Kelima, Parlimen ke 15 - Minggu Ke 7 ( 02/03/2026)</title>
+    <desc lang="en">Ulangan Persidangan Dewan Rakyat - Mesyuarat Pertama, Penggal Kelima, Parlimen ke 15 - Minggu Ke 7 ( 02/03/2026)</desc>
     <category lang="en">Government</category>
   </programme>
   <programme start="20260401134000 +0000" stop="20260402090000 +0000" channel="parlimenmalaysia.unifitv">
