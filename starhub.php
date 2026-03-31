@@ -2168,10 +2168,10 @@
         <title>Movie - Sudhesi</title>
     </programme>
     <programme start="20260331160000 +0000" stop="20260331175000 +0000" channel="beIN Sports 2 HD.starhub">
-        <title>TotalEnergies Africa Cup of Nations, Morocco 2025: Algeria vs Burkina Faso - Gro</title>
+        <title>TotalEnergies Africa Cup of Nations, Morocco 2025: Algeria vs Burkina Faso - Group Stage</title>
     </programme>
     <programme start="20260331175000 +0000" stop="20260331194000 +0000" channel="beIN Sports 2 HD.starhub">
-        <title>TotalEnergies Africa Cup of Nations, Morocco 2025: Ivory Coast vs Cameroon - Gro</title>
+        <title>TotalEnergies Africa Cup of Nations, Morocco 2025: Ivory Coast vs Cameroon - Group Stage</title>
     </programme>
     <programme start="20260331194000 +0000" stop="20260331200000 +0000" channel="beIN Sports 2 HD.starhub">
         <title>HSBC SVNS2 2026: USA vs Canada - Kenya Day 1, Men</title>
@@ -2183,10 +2183,10 @@
         <title>HSBC SVNS2 2026: Kenya vs Germany - Kenya Day 1, Men</title>
     </programme>
     <programme start="20260331205000 +0000" stop="20260331224500 +0000" channel="beIN Sports 2 HD.starhub">
-        <title>TotalEnergies Africa Cup of Nations, Morocco 2025: Zimbabwe vs South Africa - Gr</title>
+        <title>TotalEnergies Africa Cup of Nations, Morocco 2025: Zimbabwe vs South Africa - Group Stage</title>
     </programme>
     <programme start="20260331224500 +0000" stop="20260401003500 +0000" channel="beIN Sports 2 HD.starhub">
-        <title>TotalEnergies Africa Cup of Nations, Morocco 2025: Zambia vs Morocco - Group Sta</title>
+        <title>TotalEnergies Africa Cup of Nations, Morocco 2025: Zambia vs Morocco - Group Stage</title>
     </programme>
     <programme start="20260401003500 +0000" stop="20260401022500 +0000" channel="beIN Sports 2 HD.starhub">
         <title>TotalEnergies Africa Cup of Nations, Morocco 2025: Comoros vs Mali - Group Stage</title>
@@ -6830,7 +6830,7 @@
         <title>9th LaLiga FC Futures International Soccer Tournament: Miami Rush vs Inter Miami</title>
     </programme>
     <programme start="20260401040500 +0000" stop="20260401043500 +0000" channel="beIN Sports HD.starhub">
-        <title>9th LaLiga FC Futures International Soccer Tournament: Athletic Bilbao vs Real M</title>
+        <title>9th LaLiga FC Futures International Soccer Tournament: Athletic Bilbao vs Real Madrid</title>
     </programme>
     <programme start="20260401043500 +0000" stop="20260401050500 +0000" channel="beIN Sports HD.starhub">
         <title>9th LaLiga FC Futures International Soccer Tournament: Sevilla vs Barcelona</title>

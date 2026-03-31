@@ -3118,6 +3118,111 @@
   <programme start="20260402215000 +0000" stop="20260402232000 +0000" channel="NOE.webtv.sk">
     <title lang="id">A. Dvořák: Stabat Mater, op. 58</title>
   </programme>
+  <programme start="20260401211800 +0000" stop="20260401220800 +0000" channel="ČT1.webtv.sk">
+    <title lang="id">Inspektorka Candice Renoirová VI (7)</title>
+  </programme>
+  <programme start="20260401220800 +0000" stop="20260401223400 +0000" channel="ČT1.webtv.sk">
+    <title lang="id">AZ-kvíz</title>
+  </programme>
+  <programme start="20260401223400 +0000" stop="20260401224600 +0000" channel="ČT1.webtv.sk">
+    <title lang="id">Vstávej, cesta je dlouhá!</title>
+  </programme>
+  <programme start="20260401224600 +0000" stop="20260401230900 +0000" channel="ČT1.webtv.sk">
+    <title lang="id">Pod pokličkou</title>
+  </programme>
+  <programme start="20260401230900 +0000" stop="20260401233100 +0000" channel="ČT1.webtv.sk">
+    <title lang="id">Zahrada je hra</title>
+  </programme>
+  <programme start="20260401233100 +0000" stop="20260401235400 +0000" channel="ČT1.webtv.sk">
+    <title lang="id">Chalupa je hra</title>
+  </programme>
+  <programme start="20260401235400 +0000" stop="20260402001600 +0000" channel="ČT1.webtv.sk">
+    <title lang="id">Bydlení je hra</title>
+  </programme>
+  <programme start="20260402001600 +0000" stop="20260402024800 +0000" channel="ČT1.webtv.sk">
+    <title lang="id">Dobré ráno</title>
+  </programme>
+  <programme start="20260402024800 +0000" stop="20260402031500 +0000" channel="ČT1.webtv.sk">
+    <title lang="id">Kluci v akci</title>
+  </programme>
+  <programme start="20260402031500 +0000" stop="20260402033000 +0000" channel="ČT1.webtv.sk">
+    <title lang="id">Černé ovce</title>
+  </programme>
+  <programme start="20260402033000 +0000" stop="20260402035900 +0000" channel="ČT1.webtv.sk">
+    <title lang="id">Události v regionech</title>
+  </programme>
+  <programme start="20260402035900 +0000" stop="20260402070000 +0000" channel="ČT1.webtv.sk">
+    <title lang="id">Studio 6</title>
+  </programme>
+  <programme start="20260402070000 +0000" stop="20260402075500 +0000" channel="ČT1.webtv.sk">
+    <title lang="id">Předčasná úmrtí</title>
+  </programme>
+  <programme start="20260402075500 +0000" stop="20260402091500 +0000" channel="ČT1.webtv.sk">
+    <title lang="id">Plaváček a děd Vševěd</title>
+  </programme>
+  <programme start="20260402091500 +0000" stop="20260402100000 +0000" channel="ČT1.webtv.sk">
+    <title lang="id">Loupežnická pohádka</title>
+  </programme>
+  <programme start="20260402100000 +0000" stop="20260402102000 +0000" channel="ČT1.webtv.sk">
+    <title lang="id">Zprávy ve 12</title>
+  </programme>
+  <programme start="20260402102000 +0000" stop="20260402103000 +0000" channel="ČT1.webtv.sk">
+    <title lang="id">Předpověď počasí, sportovní zprávy</title>
+  </programme>
+  <programme start="20260402103000 +0000" stop="20260402114000 +0000" channel="ČT1.webtv.sk">
+    <title lang="id">O princi, který měl o kolečko víc</title>
+  </programme>
+  <programme start="20260402114000 +0000" stop="20260402122500 +0000" channel="ČT1.webtv.sk">
+    <title lang="id">Modrá krev</title>
+  </programme>
+  <programme start="20260402122500 +0000" stop="20260402134300 +0000" channel="ČT1.webtv.sk">
+    <title lang="id">Artuš, Merlin a Prchlíci</title>
+  </programme>
+  <programme start="20260402134300 +0000" stop="20260402151500 +0000" channel="ČT1.webtv.sk">
+    <title lang="id">O léčivé vodě</title>
+  </programme>
+  <programme start="20260402151500 +0000" stop="20260402154200 +0000" channel="ČT1.webtv.sk">
+    <title lang="id">AZ-kvíz</title>
+  </programme>
+  <programme start="20260402154200 +0000" stop="20260402160000 +0000" channel="ČT1.webtv.sk">
+    <title lang="id">Černé ovce</title>
+  </programme>
+  <programme start="20260402160000 +0000" stop="20260402162500 +0000" channel="ČT1.webtv.sk">
+    <title lang="id">Události v regionech</title>
+  </programme>
+  <programme start="20260402162500 +0000" stop="20260402165500 +0000" channel="ČT1.webtv.sk">
+    <title lang="id">Kde domov můj?</title>
+  </programme>
+  <programme start="20260402165500 +0000" stop="20260402170000 +0000" channel="ČT1.webtv.sk">
+    <title lang="id">Události za okamžik a počasí</title>
+  </programme>
+  <programme start="20260402170000 +0000" stop="20260402175600 +0000" channel="ČT1.webtv.sk">
+    <title lang="id">Události</title>
+  </programme>
+  <programme start="20260402175600 +0000" stop="20260402181000 +0000" channel="ČT1.webtv.sk">
+    <title lang="id">Branky, body, vteřiny</title>
+  </programme>
+  <programme start="20260402181000 +0000" stop="20260402190500 +0000" channel="ČT1.webtv.sk">
+    <title lang="id">Inspektorka Candice Renoirová VI (8)</title>
+  </programme>
+  <programme start="20260402190500 +0000" stop="20260402193500 +0000" channel="ČT1.webtv.sk">
+    <title lang="id">Gejzír</title>
+  </programme>
+  <programme start="20260402193500 +0000" stop="20260402203100 +0000" channel="ČT1.webtv.sk">
+    <title lang="id">Máte slovo s M. Jílkovou</title>
+  </programme>
+  <programme start="20260402203100 +0000" stop="20260402205500 +0000" channel="ČT1.webtv.sk">
+    <title lang="id">Na stopě</title>
+  </programme>
+  <programme start="20260402205500 +0000" stop="20260402205800 +0000" channel="ČT1.webtv.sk">
+    <title lang="id">Výsledky losování Šťastných 10 a Extra Renty</title>
+  </programme>
+  <programme start="20260402205800 +0000" stop="20260402214000 +0000" channel="ČT1.webtv.sk">
+    <title lang="id">Případy detektiva Murdocha XVIII (16)</title>
+  </programme>
+  <programme start="20260402214000 +0000" stop="20260402221500 +0000" channel="ČT1.webtv.sk">
+    <title lang="id">Buchty po ránu</title>
+  </programme>
   <programme start="20260401213800 +0000" stop="20260401223100 +0000" channel="ČT2.webtv.sk">
     <title lang="id">Sardinie, tajemství neznámé civilizace</title>
   </programme>
@@ -5198,7 +5303,7 @@
     <title lang="id">Golf: PGA Tour</title>
   </programme>
   <programme start="20260401203000 +0000" stop="20260401223000 +0000" channel="Sport 1.webtv.sk">
-    <title lang="id">Lední hokej</title>
+    <title lang="id">Lední hokej: SHL</title>
   </programme>
   <programme start="20260401223000 +0000" stop="20260402014500 +0000" channel="Sport 1.webtv.sk">
     <title lang="id">NCAA, americký fotbal</title>
@@ -5213,19 +5318,19 @@
     <title lang="id">Sectrets of Calcio (Tajemství fotbalu), La Gazetta</title>
   </programme>
   <programme start="20260402040000 +0000" stop="20260402053000 +0000" channel="Sport 1.webtv.sk">
-    <title lang="id">Házená</title>
+    <title lang="id">Házená: Montpellier - Elverum</title>
   </programme>
   <programme start="20260402053000 +0000" stop="20260402080000 +0000" channel="Sport 1.webtv.sk">
-    <title lang="id">Lední hokej</title>
+    <title lang="id">Lední hokej: SHL</title>
   </programme>
   <programme start="20260402080000 +0000" stop="20260402090000 +0000" channel="Sport 1.webtv.sk">
     <title lang="id">Poker</title>
   </programme>
   <programme start="20260402090000 +0000" stop="20260402111500 +0000" channel="Sport 1.webtv.sk">
-    <title lang="id">Fotbal</title>
+    <title lang="id">Fotbal: Kypr - Moldavsko</title>
   </programme>
   <programme start="20260402111500 +0000" stop="20260402133000 +0000" channel="Sport 1.webtv.sk">
-    <title lang="id">Fotbal</title>
+    <title lang="id">Fotbal: Německo - Ghana</title>
   </programme>
   <programme start="20260402133000 +0000" stop="20260402143000 +0000" channel="Sport 1.webtv.sk">
     <title lang="id">Poker</title>
@@ -8622,6 +8727,48 @@
   </programme>
   <programme start="20260402213500 +0000" stop="20260402223500 +0000" channel="HBO 3.webtv.sk">
     <title lang="id">M.R.D. Saint Louis (5)</title>
+  </programme>
+  <programme start="20260401214000 +0000" stop="20260401233500 +0000" channel="Cinemax.webtv.sk">
+    <title lang="id">Dva muži ve městě</title>
+  </programme>
+  <programme start="20260401233500 +0000" stop="20260401235000 +0000" channel="Cinemax.webtv.sk">
+    <title lang="id">Svobodu slepicím!</title>
+  </programme>
+  <programme start="20260401235000 +0000" stop="20260402013500 +0000" channel="Cinemax.webtv.sk">
+    <title lang="id">Salli</title>
+  </programme>
+  <programme start="20260402013500 +0000" stop="20260402040000 +0000" channel="Cinemax.webtv.sk">
+    <title lang="id">15 let</title>
+  </programme>
+  <programme start="20260402040000 +0000" stop="20260402053500 +0000" channel="Cinemax.webtv.sk">
+    <title lang="id">Osmá třída</title>
+  </programme>
+  <programme start="20260402053500 +0000" stop="20260402071500 +0000" channel="Cinemax.webtv.sk">
+    <title lang="id">Faruk</title>
+  </programme>
+  <programme start="20260402071500 +0000" stop="20260402093500 +0000" channel="Cinemax.webtv.sk">
+    <title lang="id">Transformers</title>
+  </programme>
+  <programme start="20260402093500 +0000" stop="20260402112500 +0000" channel="Cinemax.webtv.sk">
+    <title lang="id">Blažiny lekce</title>
+  </programme>
+  <programme start="20260402112500 +0000" stop="20260402130000 +0000" channel="Cinemax.webtv.sk">
+    <title lang="id">Pozdě, ale přece</title>
+  </programme>
+  <programme start="20260402130000 +0000" stop="20260402144000 +0000" channel="Cinemax.webtv.sk">
+    <title lang="id">Odhalení</title>
+  </programme>
+  <programme start="20260402144000 +0000" stop="20260402161500 +0000" channel="Cinemax.webtv.sk">
+    <title lang="id">Faruk</title>
+  </programme>
+  <programme start="20260402161500 +0000" stop="20260402180000 +0000" channel="Cinemax.webtv.sk">
+    <title lang="id">O rodinných věcech</title>
+  </programme>
+  <programme start="20260402180000 +0000" stop="20260402193500 +0000" channel="Cinemax.webtv.sk">
+    <title lang="id">Fargo</title>
+  </programme>
+  <programme start="20260402193500 +0000" stop="20260402221000 +0000" channel="Cinemax.webtv.sk">
+    <title lang="id">Tenkrát v Hollywoodu</title>
   </programme>
   <programme start="20260401195500 +0000" stop="20260401223000 +0000" channel="Cinemax 2.webtv.sk">
     <title lang="id">Revenant Zmrtvýchvstání</title>
