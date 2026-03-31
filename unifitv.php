@@ -15611,13 +15611,18 @@
     <desc lang="en">Experience every goal from Manchester United's greatest matches, straight from the archives.</desc>
     <category lang="en">Sports</category>
   </programme>
-  <programme start="20260331120000 +0000" stop="20260331150000 +0000" channel="beinsports3.unifitv">
+  <programme start="20260331120000 +0000" stop="20260331151500 +0000" channel="beinsports3.unifitv">
     <title lang="en">ONE Friday Fights - OFF 148</title>
     <desc lang="en">A weekly event series by ONE Championship held in Bangkok, Thailand featuring exciting Muay Thai, kickboxing and MMA fights.</desc>
     <category lang="en">Sports</category>
   </programme>
-  <programme start="20260331150000 +0000" stop="20260331160000 +0000" channel="beinsports3.unifitv">
-    <title lang="en">MUTV - Cantona: Reflections Of An Artist</title>
+  <programme start="20260331151500 +0000" stop="20260331153000 +0000" channel="beinsports3.unifitv">
+    <title lang="en">MUTV - Top 20 Goals: Arsenal</title>
+    <desc lang="en">Catch our collection of Manchester United Top 20 Goals, matches, moments and more, from the Red Devils MUTV archives.</desc>
+    <category lang="en">Sports</category>
+  </programme>
+  <programme start="20260331153000 +0000" stop="20260331160000 +0000" channel="beinsports3.unifitv">
+    <title lang="en">MUTV - Paul Parker: Tackling the Game</title>
     <desc lang="en">Get your fix of award winning films, documentaries &amp; original programming related to the Red Devils as part of MUTV, only on beIN Sports</desc>
     <category lang="en">Sports</category>
   </programme>

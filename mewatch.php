@@ -784,13 +784,13 @@
     <programme start="20260331160000 +0000" stop="20260401110000 +0000" channel="Live 1.mewatch">
         <title>No programme available now. Next broadcast on 1st April, Wednesday 7pm. The Wonder Shop Home Shopping</title>
     </programme>
-    <programme start="20260330160000 +0000" stop="20260331115000 +0000" channel="Live 2.mewatch">
-        <title>No Programme available now. Next Broadcast on 31st March, Tuesday 7.50pm. AFC Asian Cup Saudi Arabia 2027 Qualifiers</title>
+    <programme start="20260330160000 +0000" stop="20260331113500 +0000" channel="Live 2.mewatch">
+        <title>No Programme available now. Next Broadcast on 31st March, Tuesday 7.35pm. AFC Asian Cup Saudi Arabia 2027 Qualifiers</title>
     </programme>
-    <programme start="20260331115000 +0000" stop="20260331140000 +0000" channel="Live 2.mewatch">
+    <programme start="20260331113500 +0000" stop="20260331141000 +0000" channel="Live 2.mewatch">
         <title>AFC Asian Cup Saudi Arabia 2027 Qualifiers: Singapore vs Bangladesh</title>
     </programme>
-    <programme start="20260331140000 +0000" stop="20260331160000 +0000" channel="Live 2.mewatch">
+    <programme start="20260331141000 +0000" stop="20260331160000 +0000" channel="Live 2.mewatch">
         <title>No programmes streaming LIVE at this moment</title>
     </programme>
     <programme start="20260331160000 +0000" stop="20260401030000 +0000" channel="Live 2.mewatch">
