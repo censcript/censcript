@@ -2222,7 +2222,7 @@
         <title>Mini Match - Australian Open 2026: Men&#039;s Singles Rd 3 Sinner v Spizzirri</title>
     </programme>
     <programme start="20260331010000 +0000" stop="20260331013000 +0000" channel="beIN Sports 2 HD.starhub">
-        <title>Mini Match - Australian Open 2026: Men&#039;s Singles Rd 3 Djokovic v Van De Zandschulp</title>
+        <title>Mini Match - Australian Open 2026: Men&#039;s Singles Rd 3 Djokovic v Van De Zandschu</title>
     </programme>
     <programme start="20260331013000 +0000" stop="20260331020000 +0000" channel="beIN Sports 2 HD.starhub">
         <title>Mini Match - Australian Open 2026: Women&#039;s Singles Rd 4 Sabalenka v Mboko</title>
@@ -2231,7 +2231,7 @@
         <title>Mini Match - Australian Open 2026: Men&#039;s Singles Rd 4 Alcaraz v Paul</title>
     </programme>
     <programme start="20260331023000 +0000" stop="20260331042000 +0000" channel="beIN Sports 2 HD.starhub">
-        <title>TotalEnergies Africa Cup of Nations, Morocco 2025: Ivory Coast vs Cameroon - Group Stage</title>
+        <title>TotalEnergies Africa Cup of Nations, Morocco 2025: Ivory Coast vs Cameroon - Gro</title>
     </programme>
     <programme start="20260331042000 +0000" stop="20260331061000 +0000" channel="beIN Sports 2 HD.starhub">
         <title>UEFA Women&#039;s Champions League 2025/26: Man United vs Bayern - QF, 1st Leg</title>
@@ -6908,10 +6908,10 @@
         <title>LFC Trending 2025/26</title>
     </programme>
     <programme start="20260331033000 +0000" stop="20260331040000 +0000" channel="beIN Sports HD.starhub">
-        <title>9th LaLiga FC Futures International Soccer Tournament: Real Madrid vs Atletico Madrid</title>
+        <title>9th LaLiga FC Futures International Soccer Tournament: Real Madrid vs Atletico M</title>
     </programme>
     <programme start="20260331040000 +0000" stop="20260331043000 +0000" channel="beIN Sports HD.starhub">
-        <title>9th LaLiga FC Futures International Soccer Tournament: Athletic Bilbao vs Villarreal</title>
+        <title>9th LaLiga FC Futures International Soccer Tournament: Athletic Bilbao vs Villar</title>
     </programme>
     <programme start="20260331043000 +0000" stop="20260331050000 +0000" channel="beIN Sports HD.starhub">
         <title>9th LaLiga FC Futures International Soccer Tournament: Barcelona vs Espanyol</title>

@@ -4915,9 +4915,6 @@
 <programme start="20260331160000 +0000" stop="20260331163000 +0000" channel="iNews.mncvision">
     <title>iNews Malam (L)</title>
 </programme>
-<programme start="20260331163000 +0000" stop="20260330170000 +0000" channel="iNews.mncvision">
-    <title>Highlight Formula E: Madrid</title>
-</programme>
 <programme start="20260330170000 +0000" stop="20260330173000 +0000" channel="iNews HD.mncvision">
     <title>iNews Sport (L)</title>
 </programme>
@@ -4977,9 +4974,6 @@
 </programme>
 <programme start="20260331160000 +0000" stop="20260331163000 +0000" channel="iNews HD.mncvision">
     <title>iNews Malam (L)</title>
-</programme>
-<programme start="20260331163000 +0000" stop="20260330170000 +0000" channel="iNews HD.mncvision">
-    <title>Highlight Formula E: Madrid</title>
 </programme>
 <programme start="20260330220000 +0000" stop="20260330223000 +0000" channel="JAKTV.mncvision">
     <title>Take Me To Sarawak</title>
