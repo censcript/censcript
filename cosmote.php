@@ -238,10 +238,6 @@
     <title>Basketball: AEK - Badalona</title>
     <desc>Live: Tidak</desc>
 </programme>
-<programme start="20260401033000 +0700" stop="20260401043500 +0700" channel="COSMOTE Sport 5 HD">
-    <title>2025 Extreme H</title>
-    <desc>Live: Tidak</desc>
-</programme>
 <programme start="20260401043500 +0700" stop="20260401054000 +0700" channel="COSMOTE Sport 5 HD">
     <title>2025 Extreme H</title>
     <desc>Live: Tidak</desc>
@@ -326,6 +322,10 @@
     <title>WRC 2026</title>
     <desc>Live: Tidak</desc>
 </programme>
+<programme start="20260402053500 +0700" stop="20260402063500 +0700" channel="COSMOTE Sport 5 HD">
+    <title>WRC</title>
+    <desc>Live: Tidak</desc>
+</programme>
 <programme start="20260401023000 +0700" stop="20260401063000 +0700" channel="COSMOTE Sport 6 HD">
     <title>Tennis: ATP 250 2026</title>
     <desc>Live: Tidak</desc>
@@ -376,6 +376,10 @@
 </programme>
 <programme start="20260402023000 +0700" stop="20260402050000 +0700" channel="COSMOTE Sport 6 HD">
     <title>Volleyball: Ziraat Bankasi SK Ankara - Developres SkyRes Rzeszow</title>
+    <desc>Live: Tidak</desc>
+</programme>
+<programme start="20260402050000 +0700" stop="20260402073000 +0700" channel="COSMOTE Sport 6 HD">
+    <title>Tennis: ATP 250 2026</title>
     <desc>Live: Tidak</desc>
 </programme>
 <programme start="20260401040000 +0700" stop="20260401060000 +0700" channel="COSMOTE Sport 7 HD">
@@ -431,6 +435,10 @@
     <desc>Live: Ya</desc>
 </programme>
 <programme start="20260402043000 +0700" stop="20260402050000 +0700" channel="COSMOTE Sport 7 HD">
+    <title>COSMOTESport7HD</title>
+    <desc>Live: Tidak</desc>
+</programme>
+<programme start="20260402050000 +0700" stop="20260402060000 +0700" channel="COSMOTE Sport 7 HD">
     <title>COSMOTESport7HD</title>
     <desc>Live: Tidak</desc>
 </programme>
