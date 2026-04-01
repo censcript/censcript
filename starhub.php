@@ -7984,7 +7984,7 @@
     <programme start="20260401103000 +0000" stop="20260401133000 +0000" channel="Asianet Movies.starhub">
         <title>Thug Life</title>
     </programme>
-    <programme start="20260401133000 +0000" stop="20260401163000 +0000" channel="Asianet Movies.starhub">
+    <programme start="20260401133000 +0000" stop="20260401164500 +0000" channel="Asianet Movies.starhub">
         <title>Oru Mexican Aparatha</title>
     </programme>
     <programme start="20260331160000 +0000" stop="20260331170000 +0000" channel="Astro Warna HD.starhub">

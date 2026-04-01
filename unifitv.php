@@ -15303,9 +15303,14 @@
     <desc lang="en">The 55th season of the UEL as Europe's elite clubs compete in this premier football tournament</desc>
     <category lang="en">Sports</category>
   </programme>
-  <programme start="20260401003000 +0000" stop="20260401023000 +0000" channel="beinsports3.unifitv">
+  <programme start="20260401003000 +0000" stop="20260401022000 +0000" channel="beinsports3.unifitv">
     <title lang="en">UCI World Tour - Volta Ciclista A Catalunya - Stage 3</title>
     <desc lang="en">The highest level of professional road cycling, a series of elite races for men.</desc>
+    <category lang="en">Sports</category>
+  </programme>
+  <programme start="20260401022000 +0000" stop="20260401023000 +0000" channel="beinsports3.unifitv">
+    <title lang="en">Mutv - Top 20 Goals By Defenders</title>
+    <desc lang="en">Catch our collection of Manchester United Top 20 Goals, matches, moments and more, from the Red Devils MUTV archives.</desc>
     <category lang="en">Sports</category>
   </programme>
   <programme start="20260401023000 +0000" stop="20260401042000 +0000" channel="beinsports3.unifitv">
@@ -15333,9 +15338,14 @@
     <desc lang="en">MUTV short films highlight club history and legendary players.</desc>
     <category lang="en">Sports</category>
   </programme>
-  <programme start="20260401070000 +0000" stop="20260401090000 +0000" channel="beinsports3.unifitv">
+  <programme start="20260401070000 +0000" stop="20260401085000 +0000" channel="beinsports3.unifitv">
     <title lang="en">UCI World Tour - Volta Ciclista A Catalunya - Stage 3</title>
     <desc lang="en">The highest level of professional road cycling, a series of elite races for men.</desc>
+    <category lang="en">Sports</category>
+  </programme>
+  <programme start="20260401085000 +0000" stop="20260401090000 +0000" channel="beinsports3.unifitv">
+    <title lang="en">Mutv - Top 20 Goals By Defenders</title>
+    <desc lang="en">Catch our collection of Manchester United Top 20 Goals, matches, moments and more, from the Red Devils MUTV archives.</desc>
     <category lang="en">Sports</category>
   </programme>
   <programme start="20260401090000 +0000" stop="20260401110000 +0000" channel="beinsports3.unifitv">

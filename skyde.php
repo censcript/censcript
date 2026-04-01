@@ -915,17 +915,17 @@ Warning: Undefined array key "et" in /usr/home/ManusiaBiasa/domains/manusiabiasa
 <programme start="20260331220000 +0000" stop="20260401060000 +0000" channel="DAZN 1 HD.skyde">
     <title>Sendepause</title>
 </programme>
-<programme start="20260401060000 +0000" stop="20260401063000 +0000" channel="DAZN 1 HD.skyde">
+<programme start="20260401060000 +0000" stop="20260401065000 +0000" channel="DAZN 1 HD.skyde">
     <title>Best of DAZN: Highlights</title>
 </programme>
-<programme start="20260401063000 +0000" stop="20260401074500 +0000" channel="DAZN 1 HD.skyde">
+<programme start="20260401065000 +0000" stop="20260401075500 +0000" channel="DAZN 1 HD.skyde">
     <title>ALL IN - Die Bundesliga Highlight Show: 27. Spieltag</title>
 </programme>
-<programme start="20260401074500 +0000" stop="20260401094500 +0000" channel="DAZN 1 HD.skyde">
+<programme start="20260401075500 +0000" stop="20260401094500 +0000" channel="DAZN 1 HD.skyde">
     <title>Freundschaftsspiele: Brasilien - Frankreich</title>
 </programme>
 <programme start="20260401094500 +0000" stop="20260401114500 +0000" channel="DAZN 1 HD.skyde">
-    <title>UEFA World Cup Qualifiers: TBC - TBC</title>
+    <title>UEFA World Cup Qualifiers: Bosnien-Herzegovina - Italien</title>
 </programme>
 <programme start="20260401114500 +0000" stop="20260401121500 +0000" channel="DAZN 1 HD.skyde">
     <title>Best of DAZN: Highlights</title>
@@ -933,28 +933,28 @@ Warning: Undefined array key "et" in /usr/home/ManusiaBiasa/domains/manusiabiasa
 <programme start="20260401121500 +0000" stop="20260401124500 +0000" channel="DAZN 1 HD.skyde">
     <title>Google Pixel Frauen-Bundesliga Highlightshow 25/26: 22. Spieltag</title>
 </programme>
-<programme start="20260401124500 +0000" stop="20260401144000 +0000" channel="DAZN 1 HD.skyde">
+<programme start="20260401124500 +0000" stop="20260401145000 +0000" channel="DAZN 1 HD.skyde">
     <title>Bundesliga 25/26: RB Leipzig - TSG 1899 Hoffenheim</title>
 </programme>
-<programme start="20260401144000 +0000" stop="20260401150000 +0000" channel="DAZN 1 HD.skyde">
+<programme start="20260401145000 +0000" stop="20260401152000 +0000" channel="DAZN 1 HD.skyde">
     <title>Best of DAZN: Highlights</title>
 </programme>
-<programme start="20260401150000 +0000" stop="20260401170000 +0000" channel="DAZN 1 HD.skyde">
+<programme start="20260401152000 +0000" stop="20260401172000 +0000" channel="DAZN 1 HD.skyde">
     <title>Bundesliga 25/26: Borussia Dortmund - Hamburger SV</title>
 </programme>
-<programme start="20260401170000 +0000" stop="20260401173000 +0000" channel="DAZN 1 HD.skyde">
+<programme start="20260401172000 +0000" stop="20260401175000 +0000" channel="DAZN 1 HD.skyde">
     <title>Best of DAZN: Highlights</title>
 </programme>
-<programme start="20260401173000 +0000" stop="20260401180000 +0000" channel="DAZN 1 HD.skyde">
+<programme start="20260401175000 +0000" stop="20260401182000 +0000" channel="DAZN 1 HD.skyde">
     <title>Google Pixel Frauen-Bundesliga Highlightshow 25/26: 22. Spieltag</title>
 </programme>
-<programme start="20260401180000 +0000" stop="20260401200000 +0000" channel="DAZN 1 HD.skyde">
+<programme start="20260401182000 +0000" stop="20260401201000 +0000" channel="DAZN 1 HD.skyde">
     <title>Freundschaftsspiele: Deutschland - Ghana</title>
 </programme>
-<programme start="20260401200000 +0000" stop="20260401204000 +0000" channel="DAZN 1 HD.skyde">
+<programme start="20260401201000 +0000" stop="20260401205000 +0000" channel="DAZN 1 HD.skyde">
     <title>Best of DAZN: Highlights</title>
 </programme>
-<programme start="20260401204000 +0000" stop="20260401220000 +0000" channel="DAZN 1 HD.skyde">
+<programme start="20260401205000 +0000" stop="20260401220000 +0000" channel="DAZN 1 HD.skyde">
     <title>ALL IN - Die Bundesliga Highlight Show: 27. Spieltag</title>
 </programme>
 <programme start="20260331220000 +0000" stop="20260401060000 +0000" channel="DAZN 2 HD.skyde">
@@ -970,7 +970,7 @@ Warning: Undefined array key "et" in /usr/home/ManusiaBiasa/domains/manusiabiasa
     <title>ALL IN - Die Bundesliga Highlight Show: 27. Spieltag</title>
 </programme>
 <programme start="20260401113000 +0000" stop="20260401133000 +0000" channel="DAZN 2 HD.skyde">
-    <title>UEFA World Cup Qualifiers: TBC - TBC</title>
+    <title>UEFA World Cup Qualifiers: Bosnien-Herzegovina - Italien</title>
 </programme>
 <programme start="20260401133000 +0000" stop="20260401153000 +0000" channel="DAZN 2 HD.skyde">
     <title>Bundesliga 25/26: 1. FC Köln - Borussia M&#039;gladbach</title>
@@ -2668,31 +2668,31 @@ Warning: Undefined array key "et" in /usr/home/ManusiaBiasa/domains/manusiabiasa
     <title>Test BL 04</title>
 </programme>
 <programme start="20260401103000 +0000" stop="20260401123000 +0000" channel="Sky Sport Bundesliga 4 HD.skyde">
-    <title>BL: FC Bayern München - 1. FC Union Berlin, 27. Spieltag</title>
+    <title>TEST BL04</title>
 </programme>
 <programme start="20260401123000 +0000" stop="20260401143000 +0000" channel="Sky Sport Bundesliga 4 HD.skyde">
-    <title>BL: FC Bayern München - 1. FC Union Berlin, 27. Spieltag</title>
+    <title>TEST BL04</title>
 </programme>
 <programme start="20260401143000 +0000" stop="20260401163000 +0000" channel="Sky Sport Bundesliga 4 HD.skyde">
-    <title>BL: FC Bayern München - 1. FC Union Berlin, 27. Spieltag</title>
+    <title>TEST BL04</title>
 </programme>
 <programme start="20260401163000 +0000" stop="20260401170000 +0000" channel="Sky Sport Bundesliga 4 HD.skyde">
-    <title>BL: FC Bayern München - 1. FC Union Berlin, 27. Spieltag</title>
+    <title>TEST BL04</title>
 </programme>
 <programme start="20260401091000 +0000" stop="20260401101000 +0000" channel="Sky Sport Bundesliga 5 HD.skyde">
     <title>Test BL 05</title>
 </programme>
 <programme start="20260401103000 +0000" stop="20260401123000 +0000" channel="Sky Sport Bundesliga 6 HD.skyde">
-    <title>BL: FC St. Pauli - SC Freiburg, 27. Spieltag</title>
+    <title>Test BL 06</title>
 </programme>
 <programme start="20260401123000 +0000" stop="20260401143000 +0000" channel="Sky Sport Bundesliga 6 HD.skyde">
-    <title>BL: FC St. Pauli - SC Freiburg, 27. Spieltag</title>
+    <title>Test BL 06</title>
 </programme>
 <programme start="20260401143000 +0000" stop="20260401163000 +0000" channel="Sky Sport Bundesliga 6 HD.skyde">
-    <title>BL: FC St. Pauli - SC Freiburg, 27. Spieltag</title>
+    <title>Test BL 06</title>
 </programme>
 <programme start="20260401163000 +0000" stop="20260401170000 +0000" channel="Sky Sport Bundesliga 6 HD.skyde">
-    <title>BL: FC St. Pauli - SC Freiburg, 27. Spieltag</title>
+    <title>Test BL 06</title>
 </programme>
 <programme start="20260331220000 +0000" stop="20260331230000 +0000" channel="Sky Sport F1 HD.skyde">
     <title>IndyCar: Highlights: Children`s of Alabama Indy Grand Prix</title>
@@ -2902,7 +2902,7 @@ Warning: Undefined array key "et" in /usr/home/ManusiaBiasa/domains/manusiabiasa
     <title>PL: 90in30: WOL - ARS, 31. Spieltag</title>
 </programme>
 <programme start="20260401060000 +0000" stop="20260401061500 +0000" channel="Sky Sport Premier League HD.skyde">
-    <title>PL: Under the Skin (FC Everton)</title>
+    <title>PL: Under the Skin (Newcastle v Sunderland)</title>
 </programme>
 <programme start="20260401061500 +0000" stop="20260401064500 +0000" channel="Sky Sport Premier League HD.skyde">
     <title>PL: 90in30: BRI - LIV, 31. Spieltag</title>
@@ -3007,7 +3007,7 @@ Warning: Undefined array key "et" in /usr/home/ManusiaBiasa/domains/manusiabiasa
     <title>WTA 1000: Review Miami</title>
 </programme>
 <programme start="20260401033000 +0000" stop="20260401053000 +0000" channel="Sky Sport Tennis HD.skyde">
-    <title>WTA 500: Topspiel, Credit One Charleston Open in Charleston (USA), 2. Tag</title>
+    <title>WTA 500: B. Bencic (SUI) - D. Yastremska (UKR) , Credit One Charleston Open in Charleston (USA), 2. Tag</title>
 </programme>
 <programme start="20260401053000 +0000" stop="20260401060000 +0000" channel="Sky Sport Tennis HD.skyde">
     <title>ATP: This Week</title>
@@ -3016,7 +3016,7 @@ Warning: Undefined array key "et" in /usr/home/ManusiaBiasa/domains/manusiabiasa
     <title>ATP 1000: Review Miami</title>
 </programme>
 <programme start="20260401070000 +0000" stop="20260401090000 +0000" channel="Sky Sport Tennis HD.skyde">
-    <title>ATP 250: Topspiel, 2. Tag</title>
+    <title>ATP 250: D. Altmaier (GER) - P. Martinez (ESP), 2. Tag</title>
 </programme>
 <programme start="20260401090000 +0000" stop="20260401093000 +0000" channel="Sky Sport Tennis HD.skyde">
     <title>ATP: This Week</title>
@@ -3074,9 +3074,6 @@ Warning: Undefined array key "et" in /usr/home/ManusiaBiasa/domains/manusiabiasa
 </programme>
 <programme start="20260401080000 +0000" stop="20260401081500 +0000" channel="Sky Sport UHD.skyde">
     <title>Info: UHD</title>
-</programme>
-<programme start="20260331224000 +0000" stop="20260331230000 +0000" channel="Sky Sport 1 HD.skyde">
-    <title>NBA: Es folgt</title>
 </programme>
 <programme start="20260331230000 +0000" stop="20260401000000 +0000" channel="Sky Sport 1 HD.skyde">
     <title>Live NBA: Showtime</title>
