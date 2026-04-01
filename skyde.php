@@ -2916,9 +2916,6 @@ Warning: Undefined array key "et" in /usr/home/ManusiaBiasa/domains/manusiabiasa
 <programme start="20260402200000 +0000" stop="20260402220000 +0000" channel="Sky Sport UHD.skyde">
     <title>F1: Rennen - GP Japan</title>
 </programme>
-<programme start="20260401224000 +0000" stop="20260401230000 +0000" channel="Sky Sport 1 HD.skyde">
-    <title>Es folgt: LIVE NBA</title>
-</programme>
 <programme start="20260401230000 +0000" stop="20260402080000 +0000" channel="Sky Sport 1 HD.skyde">
     <title>Live NBA: Atlanta Hawks @ Orlando Magic</title>
 </programme>
