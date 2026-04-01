@@ -4927,6 +4927,57 @@
   <programme start="20260403215500 +0000" stop="20260403232000 +0000" channel="Nova Sport 2.webtv.sk">
     <title lang="id">Global Champions League 2026 - Miami Beach</title>
   </programme>
+  <programme start="20260402220000 +0000" stop="20260402233000 +0000" channel="Eurosport 1.webtv.sk">
+    <title lang="id">Cyklistika: E3 Classic</title>
+  </programme>
+  <programme start="20260402233000 +0000" stop="20260403010000 +0000" channel="Eurosport 1.webtv.sk">
+    <title lang="id">Snooker: Tour Championship</title>
+  </programme>
+  <programme start="20260403010000 +0000" stop="20260403023000 +0000" channel="Eurosport 1.webtv.sk">
+    <title lang="id">Freestylové lyžování: SP v Gallivare</title>
+  </programme>
+  <programme start="20260403023000 +0000" stop="20260403043000 +0000" channel="Eurosport 1.webtv.sk">
+    <title lang="id">Snooker: Tour Championship</title>
+  </programme>
+  <programme start="20260403043000 +0000" stop="20260403054500 +0000" channel="Eurosport 1.webtv.sk">
+    <title lang="id">Cyklistika: E3 Classic</title>
+  </programme>
+  <programme start="20260403054500 +0000" stop="20260403063000 +0000" channel="Eurosport 1.webtv.sk">
+    <title lang="id">Cyklistika: Napříč Flandry</title>
+  </programme>
+  <programme start="20260403063000 +0000" stop="20260403073000 +0000" channel="Eurosport 1.webtv.sk">
+    <title lang="id">Formule: Formule E v Jaramě</title>
+  </programme>
+  <programme start="20260403073000 +0000" stop="20260403083000 +0000" channel="Eurosport 1.webtv.sk">
+    <title lang="id">Snooker: Tour Championship</title>
+  </programme>
+  <programme start="20260403083000 +0000" stop="20260403093000 +0000" channel="Eurosport 1.webtv.sk">
+    <title lang="id">Snowboarding: SP v Mont-Sainte-Anne</title>
+  </programme>
+  <programme start="20260403093000 +0000" stop="20260403103000 +0000" channel="Eurosport 1.webtv.sk">
+    <title lang="id">Freestylové lyžování: SP v Gallivare</title>
+  </programme>
+  <programme start="20260403103000 +0000" stop="20260403120000 +0000" channel="Eurosport 1.webtv.sk">
+    <title lang="id">Snooker: Tour Championship</title>
+  </programme>
+  <programme start="20260403120000 +0000" stop="20260403150000 +0000" channel="Eurosport 1.webtv.sk">
+    <title lang="id">Snooker: Tour Championship</title>
+  </programme>
+  <programme start="20260403150000 +0000" stop="20260403160000 +0000" channel="Eurosport 1.webtv.sk">
+    <title lang="id">Formule: Formule E v Jaramě</title>
+  </programme>
+  <programme start="20260403160000 +0000" stop="20260403170000 +0000" channel="Eurosport 1.webtv.sk">
+    <title lang="id">Skoky na lyžích: SP v Planici</title>
+  </programme>
+  <programme start="20260403170000 +0000" stop="20260403180000 +0000" channel="Eurosport 1.webtv.sk">
+    <title lang="id">Snooker: Tour Championship</title>
+  </programme>
+  <programme start="20260403180000 +0000" stop="20260403210000 +0000" channel="Eurosport 1.webtv.sk">
+    <title lang="id">Snooker: Tour Championship</title>
+  </programme>
+  <programme start="20260403210000 +0000" stop="20260403223000 +0000" channel="Eurosport 1.webtv.sk">
+    <title lang="id">Cyklistika: In Flanders Fields</title>
+  </programme>
   <programme start="20260402200000 +0000" stop="20260402230000 +0000" channel="Eurosport 2.webtv.sk">
     <title lang="id">Golf: PGA Tour</title>
   </programme>
@@ -6042,6 +6093,105 @@
   </programme>
   <programme start="20260403210000 +0000" stop="20260403220000 +0000" channel="Animal Planet.webtv.sk">
     <title lang="id">Přežili jsme II (3)</title>
+  </programme>
+  <programme start="20260402220000 +0000" stop="20260402224500 +0000" channel="History Channel.webtv.sk">
+    <title lang="id">Prokletí ostrova Oak</title>
+  </programme>
+  <programme start="20260402224500 +0000" stop="20260402233000 +0000" channel="History Channel.webtv.sk">
+    <title lang="id">Nevysvětlitelná tajemství s Williamem Shatnerem</title>
+  </programme>
+  <programme start="20260402233000 +0000" stop="20260403001500 +0000" channel="History Channel.webtv.sk">
+    <title lang="id">Hvězdy zastavárny</title>
+  </programme>
+  <programme start="20260403001500 +0000" stop="20260403010000 +0000" channel="History Channel.webtv.sk">
+    <title lang="id">Hvězdy zastavárny</title>
+  </programme>
+  <programme start="20260403010000 +0000" stop="20260403014500 +0000" channel="History Channel.webtv.sk">
+    <title lang="id">Odhalené záhady s Dannym Trejem</title>
+  </programme>
+  <programme start="20260403014500 +0000" stop="20260403023000 +0000" channel="History Channel.webtv.sk">
+    <title lang="id">Důkaz tam je</title>
+  </programme>
+  <programme start="20260403023000 +0000" stop="20260403031500 +0000" channel="History Channel.webtv.sk">
+    <title lang="id">Vetřelci dávnověku</title>
+  </programme>
+  <programme start="20260403031500 +0000" stop="20260403040000 +0000" channel="History Channel.webtv.sk">
+    <title lang="id">Hvězdy zastavárny</title>
+  </programme>
+  <programme start="20260403040000 +0000" stop="20260403044000 +0000" channel="History Channel.webtv.sk">
+    <title lang="id">Nevysvětlitelná tajemství s Williamem Shatnerem</title>
+  </programme>
+  <programme start="20260403044000 +0000" stop="20260403052500 +0000" channel="History Channel.webtv.sk">
+    <title lang="id">Hvězdy zastavárny</title>
+  </programme>
+  <programme start="20260403052500 +0000" stop="20260403060500 +0000" channel="History Channel.webtv.sk">
+    <title lang="id">Hvězdy zastavárny</title>
+  </programme>
+  <programme start="20260403060500 +0000" stop="20260403065000 +0000" channel="History Channel.webtv.sk">
+    <title lang="id">Vetřelci dávnověku</title>
+  </programme>
+  <programme start="20260403065000 +0000" stop="20260403073000 +0000" channel="History Channel.webtv.sk">
+    <title lang="id">Odhalené záhady s Dannym Trejem</title>
+  </programme>
+  <programme start="20260403073000 +0000" stop="20260403081500 +0000" channel="History Channel.webtv.sk">
+    <title lang="id">Důkaz tam je</title>
+  </programme>
+  <programme start="20260403081500 +0000" stop="20260403090000 +0000" channel="History Channel.webtv.sk">
+    <title lang="id">Vetřelci dávnověku</title>
+  </programme>
+  <programme start="20260403090000 +0000" stop="20260403094500 +0000" channel="History Channel.webtv.sk">
+    <title lang="id">Hvězdy zastavárny</title>
+  </programme>
+  <programme start="20260403094500 +0000" stop="20260403103000 +0000" channel="History Channel.webtv.sk">
+    <title lang="id">Prokletí ostrova Oak</title>
+  </programme>
+  <programme start="20260403103000 +0000" stop="20260403111000 +0000" channel="History Channel.webtv.sk">
+    <title lang="id">Nevysvětlitelná tajemství s Williamem Shatnerem</title>
+  </programme>
+  <programme start="20260403111000 +0000" stop="20260403115500 +0000" channel="History Channel.webtv.sk">
+    <title lang="id">Hvězdy zastavárny</title>
+  </programme>
+  <programme start="20260403115500 +0000" stop="20260403123500 +0000" channel="History Channel.webtv.sk">
+    <title lang="id">Hvězdy zastavárny</title>
+  </programme>
+  <programme start="20260403123500 +0000" stop="20260403131500 +0000" channel="History Channel.webtv.sk">
+    <title lang="id">Vetřelci dávnověku</title>
+  </programme>
+  <programme start="20260403131500 +0000" stop="20260403140000 +0000" channel="History Channel.webtv.sk">
+    <title lang="id">Odhalené záhady s Dannym Trejem</title>
+  </programme>
+  <programme start="20260403140000 +0000" stop="20260403144500 +0000" channel="History Channel.webtv.sk">
+    <title lang="id">Důkaz tam je</title>
+  </programme>
+  <programme start="20260403144500 +0000" stop="20260403152500 +0000" channel="History Channel.webtv.sk">
+    <title lang="id">Důkaz tam je</title>
+  </programme>
+  <programme start="20260403152500 +0000" stop="20260403161000 +0000" channel="History Channel.webtv.sk">
+    <title lang="id">Prokletí ostrova Oak</title>
+  </programme>
+  <programme start="20260403161000 +0000" stop="20260403165000 +0000" channel="History Channel.webtv.sk">
+    <title lang="id">Nevysvětlitelná tajemství s Williamem Shatnerem</title>
+  </programme>
+  <programme start="20260403165000 +0000" stop="20260403173500 +0000" channel="History Channel.webtv.sk">
+    <title lang="id">Hvězdy zastavárny</title>
+  </programme>
+  <programme start="20260403173500 +0000" stop="20260403181500 +0000" channel="History Channel.webtv.sk">
+    <title lang="id">Hvězdy zastavárny</title>
+  </programme>
+  <programme start="20260403181500 +0000" stop="20260403190000 +0000" channel="History Channel.webtv.sk">
+    <title lang="id">Vetřelci dávnověku</title>
+  </programme>
+  <programme start="20260403190000 +0000" stop="20260403194500 +0000" channel="History Channel.webtv.sk">
+    <title lang="id">Z ohnivé výhně</title>
+  </programme>
+  <programme start="20260403194500 +0000" stop="20260403203000 +0000" channel="History Channel.webtv.sk">
+    <title lang="id">Důkaz tam je</title>
+  </programme>
+  <programme start="20260403203000 +0000" stop="20260403211500 +0000" channel="History Channel.webtv.sk">
+    <title lang="id">Vetřelci dávnověku</title>
+  </programme>
+  <programme start="20260403211500 +0000" stop="20260403220000 +0000" channel="History Channel.webtv.sk">
+    <title lang="id">Hvězdy zastavárny</title>
   </programme>
   <programme start="20260402220000 +0000" stop="20260402224500 +0000" channel="History 2.webtv.sk">
     <title lang="id">Doomsday: 10 Ways The World Will End</title>
@@ -16464,6 +16614,120 @@
   </programme>
   <programme start="20260403213000 +0000" stop="20260403220000 +0000" channel="TVP Info.webtv.sk">
     <title lang="id">Rozmowy noca (207)</title>
+  </programme>
+  <programme start="20260402214500 +0000" stop="20260402224000 +0000" channel="TVP Polonia.webtv.sk">
+    <title lang="id">Oprawcy z Katynia (1)</title>
+  </programme>
+  <programme start="20260402224000 +0000" stop="20260402231000 +0000" channel="TVP Polonia.webtv.sk">
+    <title lang="id">Rodzinka.pl XIII (240)</title>
+  </programme>
+  <programme start="20260402231000 +0000" stop="20260402233000 +0000" channel="TVP Polonia.webtv.sk">
+    <title lang="id">Kresowe grody i rody (4)</title>
+  </programme>
+  <programme start="20260402233000 +0000" stop="20260402235500 +0000" channel="TVP Polonia.webtv.sk">
+    <title lang="id">Program informacyjny 19.30</title>
+  </programme>
+  <programme start="20260402235500 +0000" stop="20260403000500 +0000" channel="TVP Polonia.webtv.sk">
+    <title lang="id">Pytanie dnia (641)</title>
+  </programme>
+  <programme start="20260403000500 +0000" stop="20260403001000 +0000" channel="TVP Polonia.webtv.sk">
+    <title lang="id">Sport</title>
+  </programme>
+  <programme start="20260403001000 +0000" stop="20260403001500 +0000" channel="TVP Polonia.webtv.sk">
+    <title lang="id">Pogoda</title>
+  </programme>
+  <programme start="20260403001500 +0000" stop="20260403010000 +0000" channel="TVP Polonia.webtv.sk">
+    <title lang="id">Ojciec Mateusz XXXII (12)</title>
+  </programme>
+  <programme start="20260403010000 +0000" stop="20260403015000 +0000" channel="TVP Polonia.webtv.sk">
+    <title lang="id">Ojciec Mateusz XXXII (13)</title>
+  </programme>
+  <programme start="20260403015000 +0000" stop="20260403020000 +0000" channel="TVP Polonia.webtv.sk">
+    <title lang="id">Polacy Swiatu (54)</title>
+  </programme>
+  <programme start="20260403020000 +0000" stop="20260403030000 +0000" channel="TVP Polonia.webtv.sk">
+    <title lang="id">Polonia 24. Tygodnik (105)</title>
+  </programme>
+  <programme start="20260403030000 +0000" stop="20260403033500 +0000" channel="TVP Polonia.webtv.sk">
+    <title lang="id">Barwy szczescia (3285)</title>
+  </programme>
+  <programme start="20260403033500 +0000" stop="20260403043000 +0000" channel="TVP Polonia.webtv.sk">
+    <title lang="id">Gra słów. Krzyzówka (1109)</title>
+  </programme>
+  <programme start="20260403043000 +0000" stop="20260403050000 +0000" channel="TVP Polonia.webtv.sk">
+    <title lang="id">Mody Polskie (4)</title>
+  </programme>
+  <programme start="20260403050000 +0000" stop="20260403053000 +0000" channel="TVP Polonia.webtv.sk">
+    <title lang="id">Makłowicz w podrózy (150)</title>
+  </programme>
+  <programme start="20260403053000 +0000" stop="20260403055500 +0000" channel="TVP Polonia.webtv.sk">
+    <title lang="id">Pytanie na sniadanie (7513)</title>
+  </programme>
+  <programme start="20260403055500 +0000" stop="20260403093000 +0000" channel="TVP Polonia.webtv.sk">
+    <title lang="id">Pytanie na sniadanie (7513)</title>
+  </programme>
+  <programme start="20260403093000 +0000" stop="20260403101000 +0000" channel="TVP Polonia.webtv.sk">
+    <title lang="id">Słowo dla Libanu (2)</title>
+  </programme>
+  <programme start="20260403101000 +0000" stop="20260403110000 +0000" channel="TVP Polonia.webtv.sk">
+    <title lang="id">M jak miłosc (1911)</title>
+  </programme>
+  <programme start="20260403110000 +0000" stop="20260403115000 +0000" channel="TVP Polonia.webtv.sk">
+    <title lang="id">M jak miłosc (1912)</title>
+  </programme>
+  <programme start="20260403115000 +0000" stop="20260403130000 +0000" channel="TVP Polonia.webtv.sk">
+    <title lang="id">Polonia 24. Tygodnik (105)</title>
+  </programme>
+  <programme start="20260403130000 +0000" stop="20260403131000 +0000" channel="TVP Polonia.webtv.sk">
+    <title lang="id">Serwis Info</title>
+  </programme>
+  <programme start="20260403131000 +0000" stop="20260403134000 +0000" channel="TVP Polonia.webtv.sk">
+    <title lang="id">Wszystko przed nami (80)</title>
+  </programme>
+  <programme start="20260403134000 +0000" stop="20260403140000 +0000" channel="TVP Polonia.webtv.sk">
+    <title lang="id">Turystyczna Jazda (143)</title>
+  </programme>
+  <programme start="20260403140000 +0000" stop="20260403150000 +0000" channel="TVP Polonia.webtv.sk">
+    <title lang="id">Spiewała Ewa Demarczyk</title>
+  </programme>
+  <programme start="20260403150000 +0000" stop="20260403152000 +0000" channel="TVP Polonia.webtv.sk">
+    <title lang="id">Teleexpress</title>
+  </programme>
+  <programme start="20260403152000 +0000" stop="20260403155000 +0000" channel="TVP Polonia.webtv.sk">
+    <title lang="id">Gra słów. Krzyzówka (1110)</title>
+  </programme>
+  <programme start="20260403155000 +0000" stop="20260403161500 +0000" channel="TVP Polonia.webtv.sk">
+    <title lang="id">Teleexpress Extra</title>
+  </programme>
+  <programme start="20260403161500 +0000" stop="20260403164500 +0000" channel="TVP Polonia.webtv.sk">
+    <title lang="id">Koncerty z TVP Bydgoszcz (30)</title>
+  </programme>
+  <programme start="20260403164500 +0000" stop="20260403172000 +0000" channel="TVP Polonia.webtv.sk">
+    <title lang="id">Panorama 18.00</title>
+  </programme>
+  <programme start="20260403172000 +0000" stop="20260403173000 +0000" channel="TVP Polonia.webtv.sk">
+    <title lang="id">Polacy Swiatu (55)</title>
+  </programme>
+  <programme start="20260403173000 +0000" stop="20260403175500 +0000" channel="TVP Polonia.webtv.sk">
+    <title lang="id">Program informacyjny 19.30</title>
+  </programme>
+  <programme start="20260403175500 +0000" stop="20260403180500 +0000" channel="TVP Polonia.webtv.sk">
+    <title lang="id">Pytanie dnia (642)</title>
+  </programme>
+  <programme start="20260403180500 +0000" stop="20260403190000 +0000" channel="TVP Polonia.webtv.sk">
+    <title lang="id">Na dobre i na złe (982)</title>
+  </programme>
+  <programme start="20260403190000 +0000" stop="20260403204500 +0000" channel="TVP Polonia.webtv.sk">
+    <title lang="id">Uroczysta Droga Krzyzowa z rzymskiego Koloseum</title>
+  </programme>
+  <programme start="20260403204500 +0000" stop="20260403211500 +0000" channel="TVP Polonia.webtv.sk">
+    <title lang="id">Czyn co widzisz</title>
+  </programme>
+  <programme start="20260403211500 +0000" stop="20260403214500 +0000" channel="TVP Polonia.webtv.sk">
+    <title lang="id">Na sygnale (625)</title>
+  </programme>
+  <programme start="20260403214500 +0000" stop="20260403221000 +0000" channel="TVP Polonia.webtv.sk">
+    <title lang="id">Na sygnale (626)</title>
   </programme>
   <programme start="20260402215000 +0000" stop="20260402223000 +0000" channel="UA TV.webtv.sk">
     <title lang="id">Деокупація. Шлях Литви</title>
