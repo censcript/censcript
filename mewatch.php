@@ -751,10 +751,10 @@
     <programme start="20260401093500 +0000" stop="20260401103000 +0000" channel="Live 2.mewatch">
         <title>No Programme available now. Next Broadcast on 1st April, Wednesday 06.30pm. FIBA 3x3 Asia Cup 2026</title>
     </programme>
-    <programme start="20260401103000 +0000" stop="20260401131000 +0000" channel="Live 2.mewatch">
+    <programme start="20260401103000 +0000" stop="20260401132000 +0000" channel="Live 2.mewatch">
         <title>FIBA 3x3 Asia Cup 2026</title>
     </programme>
-    <programme start="20260401131000 +0000" stop="20260401160000 +0000" channel="Live 2.mewatch">
+    <programme start="20260401132000 +0000" stop="20260401160000 +0000" channel="Live 2.mewatch">
         <title>No Programme available now. Next Broadcast on 2nd April, Thursday 02.50pm. FIBA 3x3 Asia Cup 2026</title>
     </programme>
     <programme start="20260401160000 +0000" stop="20260402065000 +0000" channel="Live 2.mewatch">

@@ -996,6 +996,66 @@ Warning: Undefined array key "et" in /usr/home/ManusiaBiasa/domains/manusiabiasa
 <programme start="20260401213000 +0000" stop="20260401220000 +0000" channel="DAZN 2 HD.skyde">
     <title>Best of DAZN: Highlights</title>
 </programme>
+<programme start="20260331222500 +0000" stop="20260331231000 +0000" channel="Heimatkanal.skyde">
+    <title>Der Landarzt</title>
+</programme>
+<programme start="20260331231000 +0000" stop="20260331235500 +0000" channel="Heimatkanal.skyde">
+    <title>Der Bergdoktor</title>
+</programme>
+<programme start="20260331235500 +0000" stop="20260401004000 +0000" channel="Heimatkanal.skyde">
+    <title>Die Bergretter</title>
+</programme>
+<programme start="20260401004000 +0000" stop="20260401021000 +0000" channel="Heimatkanal.skyde">
+    <title>Das schöne Fräulein Schragg</title>
+</programme>
+<programme start="20260401021000 +0000" stop="20260401034000 +0000" channel="Heimatkanal.skyde">
+    <title>Der Pfarrer von St. Michael</title>
+</programme>
+<programme start="20260401034000 +0000" stop="20260401051000 +0000" channel="Heimatkanal.skyde">
+    <title>Heimweh nach dir</title>
+</programme>
+<programme start="20260401051000 +0000" stop="20260401064500 +0000" channel="Heimatkanal.skyde">
+    <title>Waldrausch</title>
+</programme>
+<programme start="20260401064500 +0000" stop="20260401073000 +0000" channel="Heimatkanal.skyde">
+    <title>Der Bergdoktor</title>
+</programme>
+<programme start="20260401073000 +0000" stop="20260401082000 +0000" channel="Heimatkanal.skyde">
+    <title>Die Bergretter</title>
+</programme>
+<programme start="20260401082000 +0000" stop="20260401091000 +0000" channel="Heimatkanal.skyde">
+    <title>Da kommt Kalle</title>
+</programme>
+<programme start="20260401091000 +0000" stop="20260401100000 +0000" channel="Heimatkanal.skyde">
+    <title>Der Landarzt</title>
+</programme>
+<programme start="20260401100000 +0000" stop="20260401113000 +0000" channel="Heimatkanal.skyde">
+    <title>Der Ruf der Wildgänse</title>
+</programme>
+<programme start="20260401113000 +0000" stop="20260401130000 +0000" channel="Heimatkanal.skyde">
+    <title>Peter Steiners Theaterstadl</title>
+</programme>
+<programme start="20260401130000 +0000" stop="20260401145000 +0000" channel="Heimatkanal.skyde">
+    <title>Scherben bringen Glück</title>
+</programme>
+<programme start="20260401145000 +0000" stop="20260401163500 +0000" channel="Heimatkanal.skyde">
+    <title>Die Sennerin von St. Kathrein</title>
+</programme>
+<programme start="20260401163500 +0000" stop="20260401172500 +0000" channel="Heimatkanal.skyde">
+    <title>Der Landarzt</title>
+</programme>
+<programme start="20260401172500 +0000" stop="20260401181500 +0000" channel="Heimatkanal.skyde">
+    <title>Da kommt Kalle</title>
+</programme>
+<programme start="20260401181500 +0000" stop="20260401195500 +0000" channel="Heimatkanal.skyde">
+    <title>Im weißen Rössl</title>
+</programme>
+<programme start="20260401195500 +0000" stop="20260401213000 +0000" channel="Heimatkanal.skyde">
+    <title>Der Adler vom Velsatal</title>
+</programme>
+<programme start="20260401213000 +0000" stop="20260401221500 +0000" channel="Heimatkanal.skyde">
+    <title>Da kommt Kalle</title>
+</programme>
 <programme start="20260331222500 +0000" stop="20260331231000 +0000" channel="HISTORY Channel HD.skyde">
     <title>Terra X</title>
 </programme>
@@ -2956,7 +3016,7 @@ Warning: Undefined array key "et" in /usr/home/ManusiaBiasa/domains/manusiabiasa
     <title>ATP 1000: Review Miami</title>
 </programme>
 <programme start="20260401070000 +0000" stop="20260401090000 +0000" channel="Sky Sport Tennis HD.skyde">
-    <title>ATP 250: D. Altmaier (GER) - P. Martinez (ESP), 2. Tag</title>
+    <title>ATP 250: D. Altmaier (GER) - P. Martinez (ESP), Tiriac Open presented by UniCredit Bank (ROM), 2. Tag</title>
 </programme>
 <programme start="20260401090000 +0000" stop="20260401093000 +0000" channel="Sky Sport Tennis HD.skyde">
     <title>ATP: This Week</title>
@@ -2996,6 +3056,24 @@ Warning: Undefined array key "et" in /usr/home/ManusiaBiasa/domains/manusiabiasa
 </programme>
 <programme start="20260401193000 +0000" stop="20260401230000 +0000" channel="Sky Sport Top Event HD.skyde">
     <title>Live ATP &amp; WTA: Die Topspiele des Tages</title>
+</programme>
+<programme start="20260331233000 +0000" stop="20260401011500 +0000" channel="Sky Sport UHD.skyde">
+    <title>Mondo Duplantis: Immer höher</title>
+</programme>
+<programme start="20260401011500 +0000" stop="20260401021500 +0000" channel="Sky Sport UHD.skyde">
+    <title>F1 Academy: 2. Rennen - GP China</title>
+</programme>
+<programme start="20260401021500 +0000" stop="20260401041500 +0000" channel="Sky Sport UHD.skyde">
+    <title>F1: Rennen - GP China</title>
+</programme>
+<programme start="20260401041500 +0000" stop="20260401061500 +0000" channel="Sky Sport UHD.skyde">
+    <title>F1: Rennen - GP Japan</title>
+</programme>
+<programme start="20260401061500 +0000" stop="20260401080000 +0000" channel="Sky Sport UHD.skyde">
+    <title>Mondo Duplantis: Immer höher</title>
+</programme>
+<programme start="20260401080000 +0000" stop="20260401081500 +0000" channel="Sky Sport UHD.skyde">
+    <title>Info: UHD</title>
 </programme>
 <programme start="20260331230000 +0000" stop="20260401000000 +0000" channel="Sky Sport 1 HD.skyde">
     <title>Live NBA: Showtime</title>
