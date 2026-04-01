@@ -8516,7 +8516,7 @@
     <title>2025/26 ALM Mini Match</title>
 </programme>
 <programme start="20260331210000 +0000" stop="20260331233000 +0000" channel="SPOTV 2.mncvision">
-    <title>World Baseball Classic</title>
+    <title>2026 World Baseball Classic</title>
 </programme>
 <programme start="20260331233000 +0000" stop="20260401013000 +0000" channel="SPOTV 2.mncvision">
     <title>A-League Men: PER Vs MCY</title>
@@ -8537,7 +8537,7 @@
     <title>World Baseball Classic Recap</title>
 </programme>
 <programme start="20260401113000 +0000" stop="20260401140000 +0000" channel="SPOTV 2.mncvision">
-    <title>World Baseball Classic</title>
+    <title>2026 World Baseball Classic</title>
 </programme>
 <programme start="20260401140000 +0000" stop="20260401160000 +0000" channel="SPOTV 2.mncvision">
     <title>A-League Men: PER Vs MCY</title>
@@ -8555,7 +8555,7 @@
     <title>2025/26 ALM Mini Match</title>
 </programme>
 <programme start="20260331210000 +0000" stop="20260331233000 +0000" channel="SPOTV 2 HD.mncvision">
-    <title>World Baseball Classic</title>
+    <title>2026 World Baseball Classic</title>
 </programme>
 <programme start="20260331233000 +0000" stop="20260401013000 +0000" channel="SPOTV 2 HD.mncvision">
     <title>A-League Men: PER Vs MCY</title>
@@ -8576,7 +8576,7 @@
     <title>World Baseball Classic Recap</title>
 </programme>
 <programme start="20260401113000 +0000" stop="20260401140000 +0000" channel="SPOTV 2 HD.mncvision">
-    <title>World Baseball Classic</title>
+    <title>2026 World Baseball Classic</title>
 </programme>
 <programme start="20260401140000 +0000" stop="20260401160000 +0000" channel="SPOTV 2 HD.mncvision">
     <title>A-League Men: PER Vs MCY</title>
