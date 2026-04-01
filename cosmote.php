@@ -50,10 +50,6 @@
     <title>Football: Tottenham Hotspur - Club Atletico de Madrid</title>
     <desc>Live: Tidak</desc>
 </programme>
-<programme start="20260402023000 +0700" stop="20260402043000 +0700" channel="COSMOTE Sport 2 HD">
-    <title>Football: ACF Fiorentina - FC Internazionale Milano</title>
-    <desc>Live: Tidak</desc>
-</programme>
 <programme start="20260402043000 +0700" stop="20260402064000 +0700" channel="COSMOTE Sport 2 HD">
     <title>Football: Olympiacos - AEL Novibet</title>
     <desc>Live: Tidak</desc>
@@ -172,10 +168,6 @@
 </programme>
 <programme start="20260403040000 +0700" stop="20260403060000 +0700" channel="COSMOTE Sport 3 HD">
     <title>Football: Sheffield United - Wrexham</title>
-    <desc>Live: Tidak</desc>
-</programme>
-<programme start="20260402014500 +0700" stop="20260402041500 +0700" channel="COSMOTE Sport 4 HD">
-    <title>Basketball: Houston Rockets - New York Knicks</title>
     <desc>Live: Tidak</desc>
 </programme>
 <programme start="20260402041500 +0700" stop="20260402063000 +0700" channel="COSMOTE Sport 4 HD">
@@ -302,8 +294,8 @@
     <title>Highlights: 2025 Extreme H</title>
     <desc>Live: Tidak</desc>
 </programme>
-<programme start="20260402023000 +0700" stop="20260402040500 +0700" channel="COSMOTE Sport 6 HD">
-    <title>Volleyball: Ziraat Bankasi SK Ankara - Developres SkyRes Rzeszow</title>
+<programme start="20260403053000 +0700" stop="20260403064500 +0700" channel="COSMOTE Sport 5 HD">
+    <title>2026 Grand Prix Show</title>
     <desc>Live: Tidak</desc>
 </programme>
 <programme start="20260402040500 +0700" stop="20260402073000 +0700" channel="COSMOTE Sport 6 HD">
@@ -350,12 +342,8 @@
     <title>Tennis: Stefanos Sakellaridis - Fabian Marozsan</title>
     <desc>Live: Tidak</desc>
 </programme>
-<programme start="20260402013000 +0700" stop="20260402043000 +0700" channel="COSMOTE Sport 7 HD">
-    <title>Volleyball: Allianz Powervolley Milano - Aalst (L)</title>
-    <desc>Live: Ya</desc>
-</programme>
-<programme start="20260402043000 +0700" stop="20260402050000 +0700" channel="COSMOTE Sport 7 HD">
-    <title>COSMOTESport7HD</title>
+<programme start="20260403050000 +0700" stop="20260403074000 +0700" channel="COSMOTE Sport 6 HD">
+    <title>Volleyball: Reale Mutua Fenera Chieri - Galatasaray HDI Istanbul</title>
     <desc>Live: Tidak</desc>
 </programme>
 <programme start="20260402050000 +0700" stop="20260402060000 +0700" channel="COSMOTE Sport 7 HD">

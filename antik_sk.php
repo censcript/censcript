@@ -1330,51 +1330,6 @@
   <programme start="20260403195500 +0000" stop="20260403224000 +0000" channel="JOJ Cinema.webtv.sk">
     <title lang="id">Underground</title>
   </programme>
-  <programme start="20260402205500 +0000" stop="20260402225500 +0000" channel="JOJ Cinema +1.webtv.sk">
-    <title lang="id">Zajtra je dnes</title>
-  </programme>
-  <programme start="20260402225500 +0000" stop="20260403003000 +0000" channel="JOJ Cinema +1.webtv.sk">
-    <title lang="id">Jazykové lekcie</title>
-  </programme>
-  <programme start="20260403003000 +0000" stop="20260403015500 +0000" channel="JOJ Cinema +1.webtv.sk">
-    <title lang="id">Prezidentova žena</title>
-  </programme>
-  <programme start="20260403015500 +0000" stop="20260403035500 +0000" channel="JOJ Cinema +1.webtv.sk">
-    <title lang="id">Carmen</title>
-  </programme>
-  <programme start="20260403035500 +0000" stop="20260403045500 +0000" channel="JOJ Cinema +1.webtv.sk">
-    <title lang="id">Zabudnuté duely grófa dArtagnana</title>
-  </programme>
-  <programme start="20260403045500 +0000" stop="20260403065500 +0000" channel="JOJ Cinema +1.webtv.sk">
-    <title lang="id">Rande naslepo</title>
-  </programme>
-  <programme start="20260403065500 +0000" stop="20260403085000 +0000" channel="JOJ Cinema +1.webtv.sk">
-    <title lang="id">Cesta za kráľom trollov</title>
-  </programme>
-  <programme start="20260403085000 +0000" stop="20260403103500 +0000" channel="JOJ Cinema +1.webtv.sk">
-    <title lang="id">Teenosaurus Rex</title>
-  </programme>
-  <programme start="20260403103500 +0000" stop="20260403121500 +0000" channel="JOJ Cinema +1.webtv.sk">
-    <title lang="id">Teória obľúbenosti</title>
-  </programme>
-  <programme start="20260403121500 +0000" stop="20260403135500 +0000" channel="JOJ Cinema +1.webtv.sk">
-    <title lang="id">Amerika</title>
-  </programme>
-  <programme start="20260403135500 +0000" stop="20260403153500 +0000" channel="JOJ Cinema +1.webtv.sk">
-    <title lang="id">Randenie v New Yorku</title>
-  </programme>
-  <programme start="20260403153500 +0000" stop="20260403171000 +0000" channel="JOJ Cinema +1.webtv.sk">
-    <title lang="id">Bardejov</title>
-  </programme>
-  <programme start="20260403171000 +0000" stop="20260403191500 +0000" channel="JOJ Cinema +1.webtv.sk">
-    <title lang="id">Dievča odvedľa</title>
-  </programme>
-  <programme start="20260403191500 +0000" stop="20260403205500 +0000" channel="JOJ Cinema +1.webtv.sk">
-    <title lang="id">Premlčané</title>
-  </programme>
-  <programme start="20260403205500 +0000" stop="20260403234000 +0000" channel="JOJ Cinema +1.webtv.sk">
-    <title lang="id">Underground</title>
-  </programme>
   <programme start="20260402220000 +0000" stop="20260402223000 +0000" channel="TA3.webtv.sk">
     <title lang="id">Téma/Štúdio TA3</title>
   </programme>
@@ -5326,84 +5281,6 @@
   <programme start="20260403190000 +0000" stop="20260403220000 +0000" channel="Golf Channel.webtv.sk">
     <title lang="id">Aramco Championship</title>
   </programme>
-  <programme start="20260402220000 +0000" stop="20260402224500 +0000" channel="National Geographic Channel.webtv.sk">
-    <title lang="id">Hitlerův poslední útok V (4)</title>
-  </programme>
-  <programme start="20260402224500 +0000" stop="20260402233000 +0000" channel="National Geographic Channel.webtv.sk">
-    <title lang="id">Ztracené lodě 2. světové války I (4)</title>
-  </programme>
-  <programme start="20260402233000 +0000" stop="20260403001500 +0000" channel="National Geographic Channel.webtv.sk">
-    <title lang="id">Rekonstrukce leteckých nehod I (4)</title>
-  </programme>
-  <programme start="20260403001500 +0000" stop="20260403010000 +0000" channel="National Geographic Channel.webtv.sk">
-    <title lang="id">Ostrov mimo zákon VI (8)</title>
-  </programme>
-  <programme start="20260403010000 +0000" stop="20260403014500 +0000" channel="National Geographic Channel.webtv.sk">
-    <title lang="id">Zabezpečení letiště: Peru III (10)</title>
-  </programme>
-  <programme start="20260403014500 +0000" stop="20260403023000 +0000" channel="National Geographic Channel.webtv.sk">
-    <title lang="id">Zákulisí letiště Sydney I (9)</title>
-  </programme>
-  <programme start="20260403023000 +0000" stop="20260403031500 +0000" channel="National Geographic Channel.webtv.sk">
-    <title lang="id">Jedinečné letiště v Dubaji III (9)</title>
-  </programme>
-  <programme start="20260403031500 +0000" stop="20260403040000 +0000" channel="National Geographic Channel.webtv.sk">
-    <title lang="id">Čarodějnice: Pravda o procesech I (4)</title>
-  </programme>
-  <programme start="20260403040000 +0000" stop="20260403050000 +0000" channel="National Geographic Channel.webtv.sk">
-    <title lang="id">Evropa z výšky V (1)</title>
-  </programme>
-  <programme start="20260403050000 +0000" stop="20260403060000 +0000" channel="National Geographic Channel.webtv.sk">
-    <title lang="id">Ostrov mimo zákon VI (9)</title>
-  </programme>
-  <programme start="20260403060000 +0000" stop="20260403070000 +0000" channel="National Geographic Channel.webtv.sk">
-    <title lang="id">Pomozte autům XIII (5)</title>
-  </programme>
-  <programme start="20260403070000 +0000" stop="20260403080000 +0000" channel="National Geographic Channel.webtv.sk">
-    <title lang="id">Jak chytit pašeráka V (8)</title>
-  </programme>
-  <programme start="20260403080000 +0000" stop="20260403090000 +0000" channel="National Geographic Channel.webtv.sk">
-    <title lang="id">Vyšetřování leteckých neštěstí XXI (5)</title>
-  </programme>
-  <programme start="20260403090000 +0000" stop="20260403100000 +0000" channel="National Geographic Channel.webtv.sk">
-    <title lang="id">Vyšetřování leteckých neštěstí: Zvláštní vydání IV (7)</title>
-  </programme>
-  <programme start="20260403100000 +0000" stop="20260403103000 +0000" channel="National Geographic Channel.webtv.sk">
-    <title lang="id">Továrna na jídlo: USA I (14)</title>
-  </programme>
-  <programme start="20260403103000 +0000" stop="20260403110000 +0000" channel="National Geographic Channel.webtv.sk">
-    <title lang="id">Továrna na jídlo: USA I (15)</title>
-  </programme>
-  <programme start="20260403110000 +0000" stop="20260403120000 +0000" channel="National Geographic Channel.webtv.sk">
-    <title lang="id">Aljaška: Noví osadníci V (1)</title>
-  </programme>
-  <programme start="20260403120000 +0000" stop="20260403130000 +0000" channel="National Geographic Channel.webtv.sk">
-    <title lang="id">Aljaška: Noví osadníci V (2)</title>
-  </programme>
-  <programme start="20260403130000 +0000" stop="20260403133000 +0000" channel="National Geographic Channel.webtv.sk">
-    <title lang="id">To nejlepší z devadesátek I (16)</title>
-  </programme>
-  <programme start="20260403133000 +0000" stop="20260403150000 +0000" channel="National Geographic Channel.webtv.sk">
-    <title lang="id">Příběh o Siljanovi</title>
-  </programme>
-  <programme start="20260403150000 +0000" stop="20260403170000 +0000" channel="National Geographic Channel.webtv.sk">
-    <title lang="id">Prokletí Tutanchamonovy hrobky</title>
-  </programme>
-  <programme start="20260403170000 +0000" stop="20260403180000 +0000" channel="National Geographic Channel.webtv.sk">
-    <title lang="id">Tajuplná Bible s Albertem Linem: Zapomenutá města Starého zákona (1)</title>
-  </programme>
-  <programme start="20260403180000 +0000" stop="20260403190000 +0000" channel="National Geographic Channel.webtv.sk">
-    <title lang="id">Ztracená města s Albertem Linem: Potopa II (1)</title>
-  </programme>
-  <programme start="20260403190000 +0000" stop="20260403200000 +0000" channel="National Geographic Channel.webtv.sk">
-    <title lang="id">Historická proroctví pod lupou I (8)</title>
-  </programme>
-  <programme start="20260403200000 +0000" stop="20260403210000 +0000" channel="National Geographic Channel.webtv.sk">
-    <title lang="id">Cesta bez hranic I (5)</title>
-  </programme>
-  <programme start="20260403210000 +0000" stop="20260403220000 +0000" channel="National Geographic Channel.webtv.sk">
-    <title lang="id">Stanfordský vězeňský experiment: Hledání pravdy I (2)</title>
-  </programme>
   <programme start="20260402215100 +0000" stop="20260402223600 +0000" channel="National Geographic Wild.webtv.sk">
     <title lang="id">Země zimních zázraků I (1)</title>
   </programme>
@@ -5910,108 +5787,6 @@
   </programme>
   <programme start="20260403210000 +0000" stop="20260403220000 +0000" channel="TLC.webtv.sk">
     <title lang="id">Pomoc! Můj dům je prokletý IV (3)</title>
-  </programme>
-  <programme start="20260402220000 +0000" stop="20260402223000 +0000" channel="Food Network.webtv.sk">
-    <title lang="id">Průkopnice XXVI (11)</title>
-  </programme>
-  <programme start="20260402223000 +0000" stop="20260402230000 +0000" channel="Food Network.webtv.sk">
-    <title lang="id">Průkopnice XXVI (12)</title>
-  </programme>
-  <programme start="20260402230000 +0000" stop="20260403000000 +0000" channel="Food Network.webtv.sk">
-    <title lang="id">Vyřazeni LIX: Legendy LIX (8)</title>
-  </programme>
-  <programme start="20260403000000 +0000" stop="20260403004500 +0000" channel="Food Network.webtv.sk">
-    <title lang="id">Restaurant: Impossible XV (4)</title>
-  </programme>
-  <programme start="20260403004500 +0000" stop="20260403010700 +0000" channel="Food Network.webtv.sk">
-    <title lang="id">Motoresty, drive-iny a bufety XXIV (12)</title>
-  </programme>
-  <programme start="20260403010700 +0000" stop="20260403013000 +0000" channel="Food Network.webtv.sk">
-    <title lang="id">Motoresty, drive-iny a bufety XXIV (13)</title>
-  </programme>
-  <programme start="20260403013000 +0000" stop="20260403015200 +0000" channel="Food Network.webtv.sk">
-    <title lang="id">Porážka Bobbyho Flaye XXVI (3)</title>
-  </programme>
-  <programme start="20260403015200 +0000" stop="20260403021500 +0000" channel="Food Network.webtv.sk">
-    <title lang="id">Porážka Bobbyho Flaye XXVI (4)</title>
-  </programme>
-  <programme start="20260403021500 +0000" stop="20260403030000 +0000" channel="Food Network.webtv.sk">
-    <title lang="id">Velikonoční výzva I (5)</title>
-  </programme>
-  <programme start="20260403030000 +0000" stop="20260403040000 +0000" channel="Food Network.webtv.sk">
-    <title lang="id">Restaurant: Impossible XIV (4)</title>
-  </programme>
-  <programme start="20260403040000 +0000" stop="20260403043000 +0000" channel="Food Network.webtv.sk">
-    <title lang="id">Motoresty, drive-iny a bufety XXV (1)</title>
-  </programme>
-  <programme start="20260403043000 +0000" stop="20260403050000 +0000" channel="Food Network.webtv.sk">
-    <title lang="id">Motoresty, drive-iny a bufety XXV (2)</title>
-  </programme>
-  <programme start="20260403050000 +0000" stop="20260403053000 +0000" channel="Food Network.webtv.sk">
-    <title lang="id">Porážka Bobbyho Flaye XXVI (5)</title>
-  </programme>
-  <programme start="20260403053000 +0000" stop="20260403060000 +0000" channel="Food Network.webtv.sk">
-    <title lang="id">Porážka Bobbyho Flaye XXVI (6)</title>
-  </programme>
-  <programme start="20260403060000 +0000" stop="20260403063000 +0000" channel="Food Network.webtv.sk">
-    <title lang="id">Dívka na farmě XV (7)</title>
-  </programme>
-  <programme start="20260403063000 +0000" stop="20260403070000 +0000" channel="Food Network.webtv.sk">
-    <title lang="id">Dívka na farmě XV (8)</title>
-  </programme>
-  <programme start="20260403070000 +0000" stop="20260403073000 +0000" channel="Food Network.webtv.sk">
-    <title lang="id">Pojďte dál s Inou Garten V (3)</title>
-  </programme>
-  <programme start="20260403073000 +0000" stop="20260403080000 +0000" channel="Food Network.webtv.sk">
-    <title lang="id">Pojďte dál s Inou Garten V (4)</title>
-  </programme>
-  <programme start="20260403080000 +0000" stop="20260403090000 +0000" channel="Food Network.webtv.sk">
-    <title lang="id">Tucet pekařů I (2)</title>
-  </programme>
-  <programme start="20260403090000 +0000" stop="20260403100000 +0000" channel="Food Network.webtv.sk">
-    <title lang="id">Dětská cukrářská soutěž IX (8)</title>
-  </programme>
-  <programme start="20260403100000 +0000" stop="20260403103000 +0000" channel="Food Network.webtv.sk">
-    <title lang="id">Dívka na farmě IV (6)</title>
-  </programme>
-  <programme start="20260403103000 +0000" stop="20260403110000 +0000" channel="Food Network.webtv.sk">
-    <title lang="id">Dívka na farmě IV (7)</title>
-  </programme>
-  <programme start="20260403110000 +0000" stop="20260403120000 +0000" channel="Food Network.webtv.sk">
-    <title lang="id">Velikonoční výzva III: Velikonoce III (1)</title>
-  </programme>
-  <programme start="20260403120000 +0000" stop="20260403130000 +0000" channel="Food Network.webtv.sk">
-    <title lang="id">Jarní cukrářská soutěž III: Velikonoce III (2)</title>
-  </programme>
-  <programme start="20260403130000 +0000" stop="20260403140000 +0000" channel="Food Network.webtv.sk">
-    <title lang="id">Jarní cukrářská soutěž III: Velikonoce III (3)</title>
-  </programme>
-  <programme start="20260403140000 +0000" stop="20260403150000 +0000" channel="Food Network.webtv.sk">
-    <title lang="id">Šampionát v pečení: Nová generace I (6)</title>
-  </programme>
-  <programme start="20260403150000 +0000" stop="20260403160000 +0000" channel="Food Network.webtv.sk">
-    <title lang="id">Tucet pekařů I (5)</title>
-  </programme>
-  <programme start="20260403160000 +0000" stop="20260403170000 +0000" channel="Food Network.webtv.sk">
-    <title lang="id">Velikonoční výzva III: Velikonoce III (1)</title>
-  </programme>
-  <programme start="20260403170000 +0000" stop="20260403173000 +0000" channel="Food Network.webtv.sk">
-    <title lang="id">Bizarní jídla: Lahodné destinace IV (22)</title>
-  </programme>
-  <programme start="20260403173000 +0000" stop="20260403180000 +0000" channel="Food Network.webtv.sk">
-    <title lang="id">Bizarní jídla: Lahodné destinace IV (23)</title>
-  </programme>
-  <programme start="20260403180000 +0000" stop="20260403190000 +0000" channel="Food Network.webtv.sk">
-    <title lang="id">Restaurant: Impossible XV (1)</title>
-  </programme>
-  <programme start="20260403190000 +0000" stop="20260403200000 +0000" channel="Food Network.webtv.sk">
-    <title lang="id">Šampionát v pečení: Nová generace I (6)</title>
-  </programme>
-  <programme start="20260403200000 +0000" stop="20260403210000 +0000" channel="Food Network.webtv.sk">
-    <title lang="id">Tucet pekařů I (5)</title>
-  </programme>
-  <programme start="20260403210000 +0000" stop="20260403220000 +0000" channel="Food Network.webtv.sk">
-    <title lang="id">Alex proti Americe III (8)</title>
   </programme>
   <programme start="20260402220000 +0000" stop="20260402224500 +0000" channel="Animal Planet.webtv.sk">
     <title lang="id">Projekt Grizzly I (1)</title>
@@ -8481,6 +8256,57 @@
   </programme>
   <programme start="20260403214500 +0000" stop="20260403224000 +0000" channel="HBO 3.webtv.sk">
     <title lang="id">Euforie (4)</title>
+  </programme>
+  <programme start="20260402193500 +0000" stop="20260402221000 +0000" channel="Cinemax.webtv.sk">
+    <title lang="id">Tenkrát v Hollywoodu</title>
+  </programme>
+  <programme start="20260402221000 +0000" stop="20260402235500 +0000" channel="Cinemax.webtv.sk">
+    <title lang="id">Mimi - vládce temnot</title>
+  </programme>
+  <programme start="20260402235500 +0000" stop="20260403020000 +0000" channel="Cinemax.webtv.sk">
+    <title lang="id">Sujo</title>
+  </programme>
+  <programme start="20260403020000 +0000" stop="20260403021500 +0000" channel="Cinemax.webtv.sk">
+    <title lang="id">Zástava</title>
+  </programme>
+  <programme start="20260403021500 +0000" stop="20260403040000 +0000" channel="Cinemax.webtv.sk">
+    <title lang="id">Nejkrásnější dar</title>
+  </programme>
+  <programme start="20260403040000 +0000" stop="20260403054500 +0000" channel="Cinemax.webtv.sk">
+    <title lang="id">Odhalení</title>
+  </programme>
+  <programme start="20260403054500 +0000" stop="20260403071000 +0000" channel="Cinemax.webtv.sk">
+    <title lang="id">Od marca do mája</title>
+  </programme>
+  <programme start="20260403071000 +0000" stop="20260403073500 +0000" channel="Cinemax.webtv.sk">
+    <title lang="id">Eina</title>
+  </programme>
+  <programme start="20260403073500 +0000" stop="20260403092500 +0000" channel="Cinemax.webtv.sk">
+    <title lang="id">O rodinných věcech</title>
+  </programme>
+  <programme start="20260403092500 +0000" stop="20260403113000 +0000" channel="Cinemax.webtv.sk">
+    <title lang="id">Teče tudy řeka</title>
+  </programme>
+  <programme start="20260403113000 +0000" stop="20260403132000 +0000" channel="Cinemax.webtv.sk">
+    <title lang="id">Kráska a zvíře</title>
+  </programme>
+  <programme start="20260403132000 +0000" stop="20260403145500 +0000" channel="Cinemax.webtv.sk">
+    <title lang="id">Rekviem</title>
+  </programme>
+  <programme start="20260403145500 +0000" stop="20260403162000 +0000" channel="Cinemax.webtv.sk">
+    <title lang="id">Od marca do mája</title>
+  </programme>
+  <programme start="20260403162000 +0000" stop="20260403180000 +0000" channel="Cinemax.webtv.sk">
+    <title lang="id">Hříšný tanec</title>
+  </programme>
+  <programme start="20260403180000 +0000" stop="20260403192500 +0000" channel="Cinemax.webtv.sk">
+    <title lang="id">Thinestra</title>
+  </programme>
+  <programme start="20260403192500 +0000" stop="20260403210000 +0000" channel="Cinemax.webtv.sk">
+    <title lang="id">Poslední boj Ellen Coleové</title>
+  </programme>
+  <programme start="20260403210000 +0000" stop="20260403223000 +0000" channel="Cinemax.webtv.sk">
+    <title lang="id">Nenávist</title>
   </programme>
   <programme start="20260402203000 +0000" stop="20260402221500 +0000" channel="Cinemax 2.webtv.sk">
     <title lang="id">Nikdo mě nemá rád</title>
@@ -18033,93 +17859,6 @@
   </programme>
   <programme start="20260403210000 +0000" stop="20260403220000 +0000" channel="Al Jazeera English.webtv.sk">
     <title lang="id">Newshour</title>
-  </programme>
-  <programme start="20260402220000 +0000" stop="20260402230000 +0000" channel="Al Jazeera.webtv.sk">
-    <title lang="id">News Bulletin</title>
-  </programme>
-  <programme start="20260402230000 +0000" stop="20260402233000 +0000" channel="Al Jazeera.webtv.sk">
-    <title lang="id">News Bulletin</title>
-  </programme>
-  <programme start="20260402233000 +0000" stop="20260403000000 +0000" channel="Al Jazeera.webtv.sk">
-    <title lang="id">Behind the News</title>
-  </programme>
-  <programme start="20260403000000 +0000" stop="20260403000500 +0000" channel="Al Jazeera.webtv.sk">
-    <title lang="id">News Summary</title>
-  </programme>
-  <programme start="20260403000500 +0000" stop="20260403010000 +0000" channel="Al Jazeera.webtv.sk">
-    <title lang="id">Doc</title>
-  </programme>
-  <programme start="20260403010000 +0000" stop="20260403020000 +0000" channel="Al Jazeera.webtv.sk">
-    <title lang="id">News Bulletin</title>
-  </programme>
-  <programme start="20260403020000 +0000" stop="20260403023000 +0000" channel="Al Jazeera.webtv.sk">
-    <title lang="id">News Bulletin</title>
-  </programme>
-  <programme start="20260403023000 +0000" stop="20260403030000 +0000" channel="Al Jazeera.webtv.sk">
-    <title lang="id">Beyond Authority</title>
-  </programme>
-  <programme start="20260403030000 +0000" stop="20260403040000 +0000" channel="Al Jazeera.webtv.sk">
-    <title lang="id">News Bulletin</title>
-  </programme>
-  <programme start="20260403040000 +0000" stop="20260403050000 +0000" channel="Al Jazeera.webtv.sk">
-    <title lang="id">News Bulletin</title>
-  </programme>
-  <programme start="20260403050000 +0000" stop="20260403060000 +0000" channel="Al Jazeera.webtv.sk">
-    <title lang="id">News Bulletin</title>
-  </programme>
-  <programme start="20260403060000 +0000" stop="20260403070000 +0000" channel="Al Jazeera.webtv.sk">
-    <title lang="id">News Bulletin</title>
-  </programme>
-  <programme start="20260403070000 +0000" stop="20260403080000 +0000" channel="Al Jazeera.webtv.sk">
-    <title lang="id">News Bulletin</title>
-  </programme>
-  <programme start="20260403080000 +0000" stop="20260403090000 +0000" channel="Al Jazeera.webtv.sk">
-    <title lang="id">News Bulletin</title>
-  </programme>
-  <programme start="20260403090000 +0000" stop="20260403100000 +0000" channel="Al Jazeera.webtv.sk">
-    <title lang="id">News Bulletin</title>
-  </programme>
-  <programme start="20260403100000 +0000" stop="20260403110000 +0000" channel="Al Jazeera.webtv.sk">
-    <title lang="id">News Bulletin</title>
-  </programme>
-  <programme start="20260403110000 +0000" stop="20260403120000 +0000" channel="Al Jazeera.webtv.sk">
-    <title lang="id">News Bulletin</title>
-  </programme>
-  <programme start="20260403120000 +0000" stop="20260403130000 +0000" channel="Al Jazeera.webtv.sk">
-    <title lang="id">News Bulletin</title>
-  </programme>
-  <programme start="20260403130000 +0000" stop="20260403140000 +0000" channel="Al Jazeera.webtv.sk">
-    <title lang="id">News Bulletin</title>
-  </programme>
-  <programme start="20260403140000 +0000" stop="20260403150000 +0000" channel="Al Jazeera.webtv.sk">
-    <title lang="id">News Bulletin</title>
-  </programme>
-  <programme start="20260403150000 +0000" stop="20260403160000 +0000" channel="Al Jazeera.webtv.sk">
-    <title lang="id">News Bulletin</title>
-  </programme>
-  <programme start="20260403160000 +0000" stop="20260403163000 +0000" channel="Al Jazeera.webtv.sk">
-    <title lang="id">News Bulletin</title>
-  </programme>
-  <programme start="20260403163000 +0000" stop="20260403170000 +0000" channel="Al Jazeera.webtv.sk">
-    <title lang="id">News Bulletin</title>
-  </programme>
-  <programme start="20260403170000 +0000" stop="20260403173000 +0000" channel="Al Jazeera.webtv.sk">
-    <title lang="id">News Bulletin</title>
-  </programme>
-  <programme start="20260403173000 +0000" stop="20260403180000 +0000" channel="Al Jazeera.webtv.sk">
-    <title lang="id">Behind the News</title>
-  </programme>
-  <programme start="20260403180000 +0000" stop="20260403190000 +0000" channel="Al Jazeera.webtv.sk">
-    <title lang="id">News Bulletin</title>
-  </programme>
-  <programme start="20260403190000 +0000" stop="20260403200000 +0000" channel="Al Jazeera.webtv.sk">
-    <title lang="id">News Bulletin</title>
-  </programme>
-  <programme start="20260403200000 +0000" stop="20260403210000 +0000" channel="Al Jazeera.webtv.sk">
-    <title lang="id">News Bulletin</title>
-  </programme>
-  <programme start="20260403210000 +0000" stop="20260403220000 +0000" channel="Al Jazeera.webtv.sk">
-    <title lang="id">News Bulletin</title>
   </programme>
   <programme start="20260402220000 +0000" stop="20260403000000 +0000" channel="Sky News.webtv.sk">
     <title lang="id">Sky News</title>
