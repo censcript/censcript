@@ -1,11 +1,3 @@
-<programme start="20260402000000 +0700" stop="20260402024000 +0700" channel="COSMOTE Sport 1 HD">
-    <title>Football: AS Roma - Bologna</title>
-    <desc>Live: Tidak</desc>
-</programme>
-<programme start="20260402024000 +0700" stop="20260402030000 +0700" channel="COSMOTE Sport 1 HD">
-    <title>Sports Highlights</title>
-    <desc>Live: Tidak</desc>
-</programme>
 <programme start="20260402030000 +0700" stop="20260402040000 +0700" channel="COSMOTE Sport 1 HD">
     <title>Highlights: UEL &amp; UECL 2025-26</title>
     <desc>Live: Tidak</desc>
@@ -58,10 +50,6 @@
     <title>Football: Arsenal - Bayer 04 Leverkusen</title>
     <desc>Live: Tidak</desc>
 </programme>
-<programme start="20260402002000 +0700" stop="20260402023000 +0700" channel="COSMOTE Sport 2 HD">
-    <title>Football: Panetolikos - Panserraikos</title>
-    <desc>Live: Tidak</desc>
-</programme>
 <programme start="20260402023000 +0700" stop="20260402043000 +0700" channel="COSMOTE Sport 2 HD">
     <title>Football: ACF Fiorentina - FC Internazionale Milano</title>
     <desc>Live: Tidak</desc>
@@ -112,6 +100,10 @@
 </programme>
 <programme start="20260403013000 +0700" stop="20260403033000 +0700" channel="COSMOTE Sport 2 HD">
     <title>Football: AS Roma - Lecce</title>
+    <desc>Live: Tidak</desc>
+</programme>
+<programme start="20260403033000 +0700" stop="20260403040000 +0700" channel="COSMOTE Sport 2 HD">
+    <title>Serie A Full Impact 2025-26 E30</title>
     <desc>Live: Tidak</desc>
 </programme>
 <programme start="20260402020000 +0700" stop="20260402040000 +0700" channel="COSMOTE Sport 3 HD">
@@ -222,6 +214,10 @@
     <title>Basketball: Miami Heat - Boston Celtics</title>
     <desc>Live: Tidak</desc>
 </programme>
+<programme start="20260403033000 +0700" stop="20260403060000 +0700" channel="COSMOTE Sport 4 HD">
+    <title>Basketball: Golden State Warriors - San Antonio Spurs</title>
+    <desc>Live: Tidak</desc>
+</programme>
 <programme start="20260402020000 +0700" stop="20260402040000 +0700" channel="COSMOTE Sport 5 HD">
     <title>Basketball: Tenerife - Galatasaray (L)</title>
     <desc>Live: Ya</desc>
@@ -294,8 +290,8 @@
     <title>MotoGP 2026 - Highlights</title>
     <desc>Live: Tidak</desc>
 </programme>
-<programme start="20260402013000 +0700" stop="20260402023000 +0700" channel="COSMOTE Sport 6 HD">
-    <title>ATP Masters 1000 2026 - Highlights</title>
+<programme start="20260403034000 +0700" stop="20260403043000 +0700" channel="COSMOTE Sport 5 HD">
+    <title>DTM 2025</title>
     <desc>Live: Tidak</desc>
 </programme>
 <programme start="20260402023000 +0700" stop="20260402040500 +0700" channel="COSMOTE Sport 6 HD">
