@@ -8504,7 +8504,7 @@
     <title>2026 WorldSBK: Portuguese</title>
 </programme>
 <programme start="20260401160000 +0000" stop="20260401163000 +0000" channel="SPOTV.mncvision">
-    <title>2026 WorldSBK: Portuguese</title>
+    <title>2026 WorldSBK: Portuguese HL</title>
 </programme>
 <programme start="20260331170000 +0000" stop="20260331180000 +0000" channel="SPOTV 2.mncvision">
     <title>MotoGP Red Bull GP Of The U.S</title>
@@ -8615,7 +8615,7 @@
     <title>2026 WorldSBK: Portuguese</title>
 </programme>
 <programme start="20260401160000 +0000" stop="20260401163000 +0000" channel="SPOTV HD.mncvision">
-    <title>2026 WorldSBK: Portuguese</title>
+    <title>2026 WorldSBK: Portuguese HL</title>
 </programme>
 <programme start="20260331184000 +0000" stop="20260331205500 +0000" channel="Studio Universal.mncvision">
     <title>The Mummy Returns</title>
