@@ -2901,9 +2901,6 @@ Warning: Undefined array key "et" in /usr/home/ManusiaBiasa/domains/manusiabiasa
 <programme start="20260401053000 +0000" stop="20260401060000 +0000" channel="Sky Sport Premier League HD.skyde">
     <title>PL: 90in30: WOL - ARS, 31. Spieltag</title>
 </programme>
-<programme start="20260401060000 +0000" stop="20260401061500 +0000" channel="Sky Sport Premier League HD.skyde">
-    <title>PL: Under the Skin (Newcastle v Sunderland)</title>
-</programme>
 <programme start="20260401061500 +0000" stop="20260401064500 +0000" channel="Sky Sport Premier League HD.skyde">
     <title>PL: 90in30: BRI - LIV, 31. Spieltag</title>
 </programme>
@@ -3027,10 +3024,10 @@ Warning: Undefined array key "et" in /usr/home/ManusiaBiasa/domains/manusiabiasa
 <programme start="20260331230000 +0000" stop="20260401000000 +0000" channel="Sky Sport Top Event HD.skyde">
     <title>Live NBA: Showtime</title>
 </programme>
-<programme start="20260401000000 +0000" stop="20260401030000 +0000" channel="Sky Sport Top Event HD.skyde">
+<programme start="20260401000000 +0000" stop="20260401024500 +0000" channel="Sky Sport Top Event HD.skyde">
     <title>Live NBA: New York Knicks @ Houston Rockets</title>
 </programme>
-<programme start="20260401030000 +0000" stop="20260401060000 +0000" channel="Sky Sport Top Event HD.skyde">
+<programme start="20260401024500 +0000" stop="20260401060000 +0000" channel="Sky Sport Top Event HD.skyde">
     <title>Live NBA: Portland Trail Blazers @ LA Clippers</title>
 </programme>
 <programme start="20260401060000 +0000" stop="20260401070000 +0000" channel="Sky Sport Top Event HD.skyde">
@@ -3074,6 +3071,9 @@ Warning: Undefined array key "et" in /usr/home/ManusiaBiasa/domains/manusiabiasa
 </programme>
 <programme start="20260401080000 +0000" stop="20260401081500 +0000" channel="Sky Sport UHD.skyde">
     <title>Info: UHD</title>
+</programme>
+<programme start="20260331224000 +0000" stop="20260331230000 +0000" channel="Sky Sport 1 HD.skyde">
+    <title>Es folgt: LIVE NBA</title>
 </programme>
 <programme start="20260331230000 +0000" stop="20260401000000 +0000" channel="Sky Sport 1 HD.skyde">
     <title>Live NBA: Showtime</title>
