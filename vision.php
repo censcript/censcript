@@ -610,6 +610,15 @@
 <programme start="20260401023000 +0000" stop="20260401060000 +0000" channel="ANTV.vision">
 <title>Simmba</title>
 </programme>
+<programme start="20260401110000 +0000" stop="20260401130000 +0000" channel="ANTV.vision">
+<title>Bajing Ireng &amp; Jaka Sembung</title>
+</programme>
+<programme start="20260401130000 +0000" stop="20260401143000 +0000" channel="ANTV.vision">
+<title>Santet: Pelebur Nyawa</title>
+</programme>
+<programme start="20260401143000 +0000" stop="20260401163000 +0000" channel="ANTV.vision">
+<title>The Doll 3</title>
+</programme>
 <programme start="20260401163000 +0000" stop="20260401180000 +0000" channel="ANTV.vision">
 <title>Best Of The Best 3</title>
 </programme>
@@ -1488,13 +1497,4 @@
 </programme>
 <programme start="20260401000000 +0000" stop="20260401003000 +0000" channel="DAAI TV.vision">
 <title>Dr. Panda</title>
-</programme>
-<programme start="20260401003000 +0000" stop="20260401010000 +0000" channel="DAAI TV.vision">
-<title>Darwin &amp; Newts</title>
-</programme>
-<programme start="20260401010000 +0000" stop="20260401013000 +0000" channel="DAAI TV.vision">
-<title>Clifford</title>
-</programme>
-<programme start="20260401013000 +0000" stop="20260401020000 +0000" channel="DAAI TV.vision">
-<title>@Indonesia</title>
 </programme>

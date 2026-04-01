@@ -1773,44 +1773,47 @@ Warning: Undefined array key "et" in /usr/home/ManusiaBiasa/domains/manusiabiasa
 <programme start="20260401200000 +0000" stop="20260401221000 +0000" channel="Sky Cinema Action HD.skyde">
     <title>Kap der Angst</title>
 </programme>
-<programme start="20260403230500 +0000" stop="20260404003500 +0000" channel="Sky Cinema Classics HD.skyde">
-    <title>Der weiße Hai - Die Abrechnung</title>
+<programme start="20260331222000 +0000" stop="20260401002000 +0000" channel="Sky Cinema Classics HD.skyde">
+    <title>Jenseits von Eden</title>
 </programme>
-<programme start="20260404003500 +0000" stop="20260404021000 +0000" channel="Sky Cinema Classics HD.skyde">
-    <title>Die Diamantenhölle am Mekong</title>
+<programme start="20260401002000 +0000" stop="20260401020000 +0000" channel="Sky Cinema Classics HD.skyde">
+    <title>Kampf um den Piratenschatz</title>
 </programme>
-<programme start="20260404021000 +0000" stop="20260404034000 +0000" channel="Sky Cinema Classics HD.skyde">
-    <title>Das Geheimnis der Todesinsel</title>
+<programme start="20260401020000 +0000" stop="20260401032500 +0000" channel="Sky Cinema Classics HD.skyde">
+    <title>Todestrommeln am großen Fluß</title>
 </programme>
-<programme start="20260404034000 +0000" stop="20260404053500 +0000" channel="Sky Cinema Classics HD.skyde">
-    <title>Der Tod ritt dienstags</title>
+<programme start="20260401032500 +0000" stop="20260401050500 +0000" channel="Sky Cinema Classics HD.skyde">
+    <title>Bandidos</title>
 </programme>
-<programme start="20260404053500 +0000" stop="20260404064500 +0000" channel="Sky Cinema Classics HD.skyde">
-    <title>Die tätowierte Fremde</title>
+<programme start="20260401050500 +0000" stop="20260401070500 +0000" channel="Sky Cinema Classics HD.skyde">
+    <title>Der Schut</title>
 </programme>
-<programme start="20260404064500 +0000" stop="20260404085000 +0000" channel="Sky Cinema Classics HD.skyde">
-    <title>Vier für ein Ave Maria</title>
+<programme start="20260401070500 +0000" stop="20260401083000 +0000" channel="Sky Cinema Classics HD.skyde">
+    <title>Macao</title>
 </programme>
-<programme start="20260404085000 +0000" stop="20260404105500 +0000" channel="Sky Cinema Classics HD.skyde">
-    <title>El Dorado</title>
+<programme start="20260401083000 +0000" stop="20260401100000 +0000" channel="Sky Cinema Classics HD.skyde">
+    <title>Der Rächer von Texas</title>
 </programme>
-<programme start="20260404105500 +0000" stop="20260404125500 +0000" channel="Sky Cinema Classics HD.skyde">
-    <title>Die Brücke von Remagen</title>
+<programme start="20260401100000 +0000" stop="20260401112500 +0000" channel="Sky Cinema Classics HD.skyde">
+    <title>Der König von Texas</title>
 </programme>
-<programme start="20260404125500 +0000" stop="20260404153000 +0000" channel="Sky Cinema Classics HD.skyde">
-    <title>Die Kanonen von Navarone</title>
+<programme start="20260401112500 +0000" stop="20260401131500 +0000" channel="Sky Cinema Classics HD.skyde">
+    <title>Der verrückte Professor</title>
 </programme>
-<programme start="20260404153000 +0000" stop="20260404181500 +0000" channel="Sky Cinema Classics HD.skyde">
-    <title>Spiel mir das Lied vom Tod</title>
+<programme start="20260401131500 +0000" stop="20260401144000 +0000" channel="Sky Cinema Classics HD.skyde">
+    <title>Das Todesauge von Ceylon</title>
 </programme>
-<programme start="20260404181500 +0000" stop="20260404200500 +0000" channel="Sky Cinema Classics HD.skyde">
-    <title>Arabeske</title>
+<programme start="20260401144000 +0000" stop="20260401163500 +0000" channel="Sky Cinema Classics HD.skyde">
+    <title>... denn sie wissen nicht, was sie tun</title>
 </programme>
-<programme start="20260404200500 +0000" stop="20260404213500 +0000" channel="Sky Cinema Classics HD.skyde">
-    <title>Duell</title>
+<programme start="20260401163500 +0000" stop="20260401181500 +0000" channel="Sky Cinema Classics HD.skyde">
+    <title>Der Fluch des Pharao</title>
 </programme>
-<programme start="20260404213500 +0000" stop="20260405001500 +0000" channel="Sky Cinema Classics HD.skyde">
-    <title>Hatari!</title>
+<programme start="20260401181500 +0000" stop="20260401200500 +0000" channel="Sky Cinema Classics HD.skyde">
+    <title>Schneller als der Tod</title>
+</programme>
+<programme start="20260401200500 +0000" stop="20260401221500 +0000" channel="Sky Cinema Classics HD.skyde">
+    <title>McLintock</title>
 </programme>
 <programme start="20260331235000 +0000" stop="20260401013000 +0000" channel="Sky Cinema Family HD.skyde">
     <title>Paws of Fury - Die Legende von Hank</title>
@@ -2790,10 +2793,10 @@ Warning: Undefined array key "et" in /usr/home/ManusiaBiasa/domains/manusiabiasa
 <programme start="20260401003000 +0000" stop="20260401010000 +0000" channel="Sky Sport Mix HD.skyde">
     <title>NHL: On the Fly</title>
 </programme>
-<programme start="20260401010000 +0000" stop="20260401034000 +0000" channel="Sky Sport Mix HD.skyde">
+<programme start="20260401010000 +0000" stop="20260401040000 +0000" channel="Sky Sport Mix HD.skyde">
     <title>Live NHL: Seattle Kraken @ Edmonton Oilers</title>
 </programme>
-<programme start="20260401034000 +0000" stop="20260401060000 +0000" channel="Sky Sport Mix HD.skyde">
+<programme start="20260401040000 +0000" stop="20260401060000 +0000" channel="Sky Sport Mix HD.skyde">
     <title>Live NBA: Portland Trail Blazers @ LA Clippers</title>
 </programme>
 <programme start="20260401060000 +0000" stop="20260401080000 +0000" channel="Sky Sport Mix HD.skyde">
@@ -3000,6 +3003,9 @@ Warning: Undefined array key "et" in /usr/home/ManusiaBiasa/domains/manusiabiasa
 <programme start="20260401213000 +0000" stop="20260401220000 +0000" channel="Sky Sport Premier League HD.skyde">
     <title>PL: Icons: David Beckham</title>
 </programme>
+<programme start="20260401030000 +0000" stop="20260401033000 +0000" channel="Sky Sport Tennis HD.skyde">
+    <title>WTA 1000: Review Miami</title>
+</programme>
 <programme start="20260401033000 +0000" stop="20260401053000 +0000" channel="Sky Sport Tennis HD.skyde">
     <title>WTA 500: B. Bencic (SUI) - D. Yastremska (UKR) , Credit One Charleston Open in Charleston (USA), 2. Tag</title>
 </programme>
@@ -3015,19 +3021,16 @@ Warning: Undefined array key "et" in /usr/home/ManusiaBiasa/domains/manusiabiasa
 <programme start="20260401090000 +0000" stop="20260401093000 +0000" channel="Sky Sport Tennis HD.skyde">
     <title>ATP: This Week</title>
 </programme>
-<programme start="20260401093000 +0000" stop="20260401100000 +0000" channel="Sky Sport Tennis HD.skyde">
-    <title>ATP: This Week</title>
-</programme>
-<programme start="20260401100000 +0000" stop="20260402030000 +0000" channel="Sky Sport Tennis HD.skyde">
+<programme start="20260401093000 +0000" stop="20260402030000 +0000" channel="Sky Sport Tennis HD.skyde">
     <title>Live ATP &amp; WTA: Die Topspiele des Tages</title>
 </programme>
 <programme start="20260331230000 +0000" stop="20260401000000 +0000" channel="Sky Sport Top Event HD.skyde">
     <title>Live NBA: Showtime</title>
 </programme>
-<programme start="20260401000000 +0000" stop="20260401024500 +0000" channel="Sky Sport Top Event HD.skyde">
+<programme start="20260401000000 +0000" stop="20260401030000 +0000" channel="Sky Sport Top Event HD.skyde">
     <title>Live NBA: New York Knicks @ Houston Rockets</title>
 </programme>
-<programme start="20260401024500 +0000" stop="20260401060000 +0000" channel="Sky Sport Top Event HD.skyde">
+<programme start="20260401030000 +0000" stop="20260401060000 +0000" channel="Sky Sport Top Event HD.skyde">
     <title>Live NBA: Portland Trail Blazers @ LA Clippers</title>
 </programme>
 <programme start="20260401060000 +0000" stop="20260401070000 +0000" channel="Sky Sport Top Event HD.skyde">
@@ -3045,10 +3048,7 @@ Warning: Undefined array key "et" in /usr/home/ManusiaBiasa/domains/manusiabiasa
 <programme start="20260401091500 +0000" stop="20260401093000 +0000" channel="Sky Sport Top Event HD.skyde">
     <title>BL: Torparade 27. Spieltag</title>
 </programme>
-<programme start="20260401093000 +0000" stop="20260401100000 +0000" channel="Sky Sport Top Event HD.skyde">
-    <title>ATP: This Week</title>
-</programme>
-<programme start="20260401100000 +0000" stop="20260401173000 +0000" channel="Sky Sport Top Event HD.skyde">
+<programme start="20260401093000 +0000" stop="20260401173000 +0000" channel="Sky Sport Top Event HD.skyde">
     <title>Live ATP &amp; WTA: Die Topspiele des Tages</title>
 </programme>
 <programme start="20260401173000 +0000" stop="20260401193000 +0000" channel="Sky Sport Top Event HD.skyde">
@@ -3078,10 +3078,10 @@ Warning: Undefined array key "et" in /usr/home/ManusiaBiasa/domains/manusiabiasa
 <programme start="20260331230000 +0000" stop="20260401000000 +0000" channel="Sky Sport 1 HD.skyde">
     <title>Live NBA: Showtime</title>
 </programme>
-<programme start="20260401000000 +0000" stop="20260401024500 +0000" channel="Sky Sport 1 HD.skyde">
+<programme start="20260401000000 +0000" stop="20260401030000 +0000" channel="Sky Sport 1 HD.skyde">
     <title>Live NBA: New York Knicks @ Houston Rockets</title>
 </programme>
-<programme start="20260401024500 +0000" stop="20260401060000 +0000" channel="Sky Sport 1 HD.skyde">
+<programme start="20260401030000 +0000" stop="20260401075000 +0000" channel="Sky Sport 1 HD.skyde">
     <title>Live NBA: Portland Trail Blazers @ LA Clippers</title>
 </programme>
 <programme start="20260401080000 +0000" stop="20260401090000 +0000" channel="Sky Sport 1 HD.skyde">

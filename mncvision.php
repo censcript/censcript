@@ -9091,7 +9091,54 @@
 <programme start="20260402163000 +0000" stop="20260401170000 +0000" channel="Trans 7.mncvision">
     <title>Newstainment</title>
 </programme>
-Error: Unable to fetch data. HTTP Status Code: 500
+<programme start="20260401180000 +0000" stop="20260401220000 +0000" channel="Trans TV.mncvision">
+    <title>CNN Indonesia Connected</title>
+</programme>
+<programme start="20260401220000 +0000" stop="20260401233000 +0000" channel="Trans TV.mncvision">
+    <title>Islam Itu Indah</title>
+</programme>
+<programme start="20260401233000 +0000" stop="20260402003000 +0000" channel="Trans TV.mncvision">
+    <title>Insert Pagi (L)</title>
+</programme>
+<programme start="20260402003000 +0000" stop="20260402013000 +0000" channel="Trans TV.mncvision">
+    <title>CNN Indonesia Good Morning</title>
+</programme>
+<programme start="20260402013000 +0000" stop="20260402033000 +0000" channel="Trans TV.mncvision">
+    <title>Pagi-Pagi Ambyar</title>
+</programme>
+<programme start="20260402033000 +0000" stop="20260402053000 +0000" channel="Trans TV.mncvision">
+    <title>Insert Siang</title>
+</programme>
+<programme start="20260402053000 +0000" stop="20260402070000 +0000" channel="Trans TV.mncvision">
+    <title>Brownis (Obrowlan Manis)</title>
+</programme>
+<programme start="20260402070000 +0000" stop="20260402080000 +0000" channel="Trans TV.mncvision">
+    <title>Rumpi: No Secret</title>
+</programme>
+<programme start="20260402080000 +0000" stop="20260402090000 +0000" channel="Trans TV.mncvision">
+    <title>Insert Today</title>
+</programme>
+<programme start="20260402090000 +0000" stop="20260402093000 +0000" channel="Trans TV.mncvision">
+    <title>CNN Indonesia News Update</title>
+</programme>
+<programme start="20260402093000 +0000" stop="20260402103000 +0000" channel="Trans TV.mncvision">
+    <title>Dream Box Indonesia</title>
+</programme>
+<programme start="20260402103000 +0000" stop="20260402114500 +0000" channel="Trans TV.mncvision">
+    <title>Bikin Laper</title>
+</programme>
+<programme start="20260402114500 +0000" stop="20260402130000 +0000" channel="Trans TV.mncvision">
+    <title>Insert Story</title>
+</programme>
+<programme start="20260402130000 +0000" stop="20260402140000 +0000" channel="Trans TV.mncvision">
+    <title>Dunia Punya Cerita</title>
+</programme>
+<programme start="20260402140000 +0000" stop="20260402160000 +0000" channel="Trans TV.mncvision">
+    <title>Bioskop Trans TV</title>
+</programme>
+<programme start="20260402160000 +0000" stop="20260402163000 +0000" channel="Trans TV.mncvision">
+    <title>Bioskop Trans TV</title>
+</programme>
 <programme start="20260401171500 +0000" stop="20260401181500 +0000" channel="tvN.mncvision">
     <title>Villains, Ep 6</title>
 </programme>
