@@ -1612,6 +1612,87 @@
   <programme start="20260403211500 +0000" stop="20260403220000 +0000" channel="JOJ 24.webtv.sk">
     <title lang="id">Štúdio 24</title>
   </programme>
+  <programme start="20260402215000 +0000" stop="20260402230500 +0000" channel="Kanal1.webtv.sk">
+    <title lang="id">Lesný vrah</title>
+  </programme>
+  <programme start="20260402230500 +0000" stop="20260402235500 +0000" channel="Kanal1.webtv.sk">
+    <title lang="id">Tajomstvá staviteľov katedrály Notre Dame (1)</title>
+  </programme>
+  <programme start="20260402235500 +0000" stop="20260403004500 +0000" channel="Kanal1.webtv.sk">
+    <title lang="id">Tajomstvá staviteľov katedrály Notre Dame (2)</title>
+  </programme>
+  <programme start="20260403004500 +0000" stop="20260403013000 +0000" channel="Kanal1.webtv.sk">
+    <title lang="id">Okres strachu</title>
+  </programme>
+  <programme start="20260403013000 +0000" stop="20260403022000 +0000" channel="Kanal1.webtv.sk">
+    <title lang="id">Hľadači pravdy (5)</title>
+  </programme>
+  <programme start="20260403022000 +0000" stop="20260403025000 +0000" channel="Kanal1.webtv.sk">
+    <title lang="id">Bláznivá skrytá kamera</title>
+  </programme>
+  <programme start="20260403025000 +0000" stop="20260403034000 +0000" channel="Kanal1.webtv.sk">
+    <title lang="id">Extrémne záchranné akcie II (3)</title>
+  </programme>
+  <programme start="20260403034000 +0000" stop="20260403042000 +0000" channel="Kanal1.webtv.sk">
+    <title lang="id">Doslova</title>
+  </programme>
+  <programme start="20260403042000 +0000" stop="20260403051500 +0000" channel="Kanal1.webtv.sk">
+    <title lang="id">Tlačová beseda | Turecko, alebo mocenské pokušenie v stredomorí</title>
+  </programme>
+  <programme start="20260403051500 +0000" stop="20260403055500 +0000" channel="Kanal1.webtv.sk">
+    <title lang="id">Téma s Petrom Bielikom</title>
+  </programme>
+  <programme start="20260403055500 +0000" stop="20260403064500 +0000" channel="Kanal1.webtv.sk">
+    <title lang="id">Poklady z povaly (5)</title>
+  </programme>
+  <programme start="20260403064500 +0000" stop="20260403073000 +0000" channel="Kanal1.webtv.sk">
+    <title lang="id">Extrémne záchranné akcie II (1)</title>
+  </programme>
+  <programme start="20260403073000 +0000" stop="20260403081500 +0000" channel="Kanal1.webtv.sk">
+    <title lang="id">Rodinný seriál: V siedmom nebi (33)</title>
+  </programme>
+  <programme start="20260403081500 +0000" stop="20260403093000 +0000" channel="Kanal1.webtv.sk">
+    <title lang="id">Slovenská klasika: Dosť dobrí chlapi</title>
+  </programme>
+  <programme start="20260403093000 +0000" stop="20260403102500 +0000" channel="Kanal1.webtv.sk">
+    <title lang="id">Bitka o Jeruzalem</title>
+  </programme>
+  <programme start="20260403102500 +0000" stop="20260403111500 +0000" channel="Kanal1.webtv.sk">
+    <title lang="id">Ruská revolúcia</title>
+  </programme>
+  <programme start="20260403111500 +0000" stop="20260403120000 +0000" channel="Kanal1.webtv.sk">
+    <title lang="id">Skutočné zlo (1)</title>
+  </programme>
+  <programme start="20260403120000 +0000" stop="20260403125000 +0000" channel="Kanal1.webtv.sk">
+    <title lang="id">Skutočné zlo (2)</title>
+  </programme>
+  <programme start="20260403125000 +0000" stop="20260403133000 +0000" channel="Kanal1.webtv.sk">
+    <title lang="id">Téma s Petrom Bielikom</title>
+  </programme>
+  <programme start="20260403133000 +0000" stop="20260403141500 +0000" channel="Kanal1.webtv.sk">
+    <title lang="id">Skutočné zlo (3)</title>
+  </programme>
+  <programme start="20260403141500 +0000" stop="20260403150500 +0000" channel="Kanal1.webtv.sk">
+    <title lang="id">Skutočné zlo (5)</title>
+  </programme>
+  <programme start="20260403150500 +0000" stop="20260403162500 +0000" channel="Kanal1.webtv.sk">
+    <title lang="id">Slovenská klasika: Tie malé výlety</title>
+  </programme>
+  <programme start="20260403162500 +0000" stop="20260403170000 +0000" channel="Kanal1.webtv.sk">
+    <title lang="id">Bielik online</title>
+  </programme>
+  <programme start="20260403170000 +0000" stop="20260403174000 +0000" channel="Kanal1.webtv.sk">
+    <title lang="id">V tieni zločinu</title>
+  </programme>
+  <programme start="20260403174000 +0000" stop="20260403182500 +0000" channel="Kanal1.webtv.sk">
+    <title lang="id">Vyšetrovanie I (1)</title>
+  </programme>
+  <programme start="20260403182500 +0000" stop="20260403201000 +0000" channel="Kanal1.webtv.sk">
+    <title lang="id">Všetko alebo nič</title>
+  </programme>
+  <programme start="20260403201000 +0000" stop="20260403221000 +0000" channel="Kanal1.webtv.sk">
+    <title lang="id">Dedičstvo alebo Kurvahošigutntag</title>
+  </programme>
   <programme start="20260402214500 +0000" stop="20260402221000 +0000" channel="Jojko.webtv.sk">
     <title lang="id">Moe a jeho šou III (22)</title>
   </programme>
@@ -8401,57 +8482,6 @@
   <programme start="20260403214500 +0000" stop="20260403224000 +0000" channel="HBO 3.webtv.sk">
     <title lang="id">Euforie (4)</title>
   </programme>
-  <programme start="20260402193500 +0000" stop="20260402221000 +0000" channel="Cinemax.webtv.sk">
-    <title lang="id">Tenkrát v Hollywoodu</title>
-  </programme>
-  <programme start="20260402221000 +0000" stop="20260402235500 +0000" channel="Cinemax.webtv.sk">
-    <title lang="id">Mimi - vládce temnot</title>
-  </programme>
-  <programme start="20260402235500 +0000" stop="20260403020000 +0000" channel="Cinemax.webtv.sk">
-    <title lang="id">Sujo</title>
-  </programme>
-  <programme start="20260403020000 +0000" stop="20260403021500 +0000" channel="Cinemax.webtv.sk">
-    <title lang="id">Zástava</title>
-  </programme>
-  <programme start="20260403021500 +0000" stop="20260403040000 +0000" channel="Cinemax.webtv.sk">
-    <title lang="id">Nejkrásnější dar</title>
-  </programme>
-  <programme start="20260403040000 +0000" stop="20260403054500 +0000" channel="Cinemax.webtv.sk">
-    <title lang="id">Odhalení</title>
-  </programme>
-  <programme start="20260403054500 +0000" stop="20260403071000 +0000" channel="Cinemax.webtv.sk">
-    <title lang="id">Od marca do mája</title>
-  </programme>
-  <programme start="20260403071000 +0000" stop="20260403073500 +0000" channel="Cinemax.webtv.sk">
-    <title lang="id">Eina</title>
-  </programme>
-  <programme start="20260403073500 +0000" stop="20260403092500 +0000" channel="Cinemax.webtv.sk">
-    <title lang="id">O rodinných věcech</title>
-  </programme>
-  <programme start="20260403092500 +0000" stop="20260403113000 +0000" channel="Cinemax.webtv.sk">
-    <title lang="id">Teče tudy řeka</title>
-  </programme>
-  <programme start="20260403113000 +0000" stop="20260403132000 +0000" channel="Cinemax.webtv.sk">
-    <title lang="id">Kráska a zvíře</title>
-  </programme>
-  <programme start="20260403132000 +0000" stop="20260403145500 +0000" channel="Cinemax.webtv.sk">
-    <title lang="id">Rekviem</title>
-  </programme>
-  <programme start="20260403145500 +0000" stop="20260403162000 +0000" channel="Cinemax.webtv.sk">
-    <title lang="id">Od marca do mája</title>
-  </programme>
-  <programme start="20260403162000 +0000" stop="20260403180000 +0000" channel="Cinemax.webtv.sk">
-    <title lang="id">Hříšný tanec</title>
-  </programme>
-  <programme start="20260403180000 +0000" stop="20260403192500 +0000" channel="Cinemax.webtv.sk">
-    <title lang="id">Thinestra</title>
-  </programme>
-  <programme start="20260403192500 +0000" stop="20260403210000 +0000" channel="Cinemax.webtv.sk">
-    <title lang="id">Poslední boj Ellen Coleové</title>
-  </programme>
-  <programme start="20260403210000 +0000" stop="20260403223000 +0000" channel="Cinemax.webtv.sk">
-    <title lang="id">Nenávist</title>
-  </programme>
   <programme start="20260402203000 +0000" stop="20260402221500 +0000" channel="Cinemax 2.webtv.sk">
     <title lang="id">Nikdo mě nemá rád</title>
   </programme>
@@ -9531,6 +9561,78 @@
   </programme>
   <programme start="20260403213000 +0000" stop="20260403220000 +0000" channel="DocuBox.webtv.sk">
     <title lang="id">Nature&apos;s Force I (1)</title>
+  </programme>
+  <programme start="20260402220000 +0000" stop="20260402230000 +0000" channel="360 TuneBox.webtv.sk">
+    <title lang="id">DJ Mixes premiere</title>
+  </programme>
+  <programme start="20260402230000 +0000" stop="20260403000000 +0000" channel="360 TuneBox.webtv.sk">
+    <title lang="id">Bounce &amp; Fun</title>
+  </programme>
+  <programme start="20260403000000 +0000" stop="20260403010000 +0000" channel="360 TuneBox.webtv.sk">
+    <title lang="id">Flow</title>
+  </programme>
+  <programme start="20260403010000 +0000" stop="20260403020000 +0000" channel="360 TuneBox.webtv.sk">
+    <title lang="id">Ultra Mix</title>
+  </programme>
+  <programme start="20260403020000 +0000" stop="20260403030000 +0000" channel="360 TuneBox.webtv.sk">
+    <title lang="id">DJ Mixes premiere</title>
+  </programme>
+  <programme start="20260403030000 +0000" stop="20260403040000 +0000" channel="360 TuneBox.webtv.sk">
+    <title lang="id">Nite Sides</title>
+  </programme>
+  <programme start="20260403040000 +0000" stop="20260403050000 +0000" channel="360 TuneBox.webtv.sk">
+    <title lang="id">Nite Sides</title>
+  </programme>
+  <programme start="20260403050000 +0000" stop="20260403060000 +0000" channel="360 TuneBox.webtv.sk">
+    <title lang="id">Nite Sides</title>
+  </programme>
+  <programme start="20260403060000 +0000" stop="20260403070000 +0000" channel="360 TuneBox.webtv.sk">
+    <title lang="id">DJ Mixes premiere</title>
+  </programme>
+  <programme start="20260403070000 +0000" stop="20260403080000 +0000" channel="360 TuneBox.webtv.sk">
+    <title lang="id">Morning Spin</title>
+  </programme>
+  <programme start="20260403080000 +0000" stop="20260403090000 +0000" channel="360 TuneBox.webtv.sk">
+    <title lang="id">Morning Spin</title>
+  </programme>
+  <programme start="20260403090000 +0000" stop="20260403100000 +0000" channel="360 TuneBox.webtv.sk">
+    <title lang="id">Morning Spin</title>
+  </programme>
+  <programme start="20260403100000 +0000" stop="20260403110000 +0000" channel="360 TuneBox.webtv.sk">
+    <title lang="id">DJ Mixes premiere</title>
+  </programme>
+  <programme start="20260403110000 +0000" stop="20260403120000 +0000" channel="360 TuneBox.webtv.sk">
+    <title lang="id">Artist Breakout</title>
+  </programme>
+  <programme start="20260403120000 +0000" stop="20260403130000 +0000" channel="360 TuneBox.webtv.sk">
+    <title lang="id">Fresh Out The Box</title>
+  </programme>
+  <programme start="20260403130000 +0000" stop="20260403140000 +0000" channel="360 TuneBox.webtv.sk">
+    <title lang="id">Ultra Mix</title>
+  </programme>
+  <programme start="20260403140000 +0000" stop="20260403150000 +0000" channel="360 TuneBox.webtv.sk">
+    <title lang="id">DJ Mixes premiere</title>
+  </programme>
+  <programme start="20260403150000 +0000" stop="20260403160000 +0000" channel="360 TuneBox.webtv.sk">
+    <title lang="id">Bounce &amp; Fun</title>
+  </programme>
+  <programme start="20260403160000 +0000" stop="20260403170000 +0000" channel="360 TuneBox.webtv.sk">
+    <title lang="id">Flow</title>
+  </programme>
+  <programme start="20260403170000 +0000" stop="20260403180000 +0000" channel="360 TuneBox.webtv.sk">
+    <title lang="id">Ultra Mix</title>
+  </programme>
+  <programme start="20260403180000 +0000" stop="20260403190000 +0000" channel="360 TuneBox.webtv.sk">
+    <title lang="id">DJ Mixes premiere</title>
+  </programme>
+  <programme start="20260403190000 +0000" stop="20260403200000 +0000" channel="360 TuneBox.webtv.sk">
+    <title lang="id">Artist Breakout</title>
+  </programme>
+  <programme start="20260403200000 +0000" stop="20260403210000 +0000" channel="360 TuneBox.webtv.sk">
+    <title lang="id">Ultra Mix</title>
+  </programme>
+  <programme start="20260403210000 +0000" stop="20260403220000 +0000" channel="360 TuneBox.webtv.sk">
+    <title lang="id">Fresh Out The Box</title>
   </programme>
   <programme start="20260402215500 +0000" stop="20260402220500 +0000" channel="Disney Channel.webtv.sk">
     <title lang="id">Kluk Holka atd. (45)</title>
@@ -19131,6 +19233,114 @@
   </programme>
   <programme start="20260403213000 +0000" stop="20260403220000 +0000" channel="CGTN.webtv.sk">
     <title lang="id">The Point with Liu Xin</title>
+  </programme>
+  <programme start="20260402220000 +0000" stop="20260402230000 +0000" channel="CGTN Documentary.webtv.sk">
+    <title lang="id">Song of the Yellow River (3)</title>
+  </programme>
+  <programme start="20260402230000 +0000" stop="20260402233000 +0000" channel="CGTN Documentary.webtv.sk">
+    <title lang="id">Timeless Ancient Structures (1)</title>
+  </programme>
+  <programme start="20260402233000 +0000" stop="20260403000000 +0000" channel="CGTN Documentary.webtv.sk">
+    <title lang="id">Dawenkou Culture (3)</title>
+  </programme>
+  <programme start="20260403000000 +0000" stop="20260403010000 +0000" channel="CGTN Documentary.webtv.sk">
+    <title lang="id">Journey of the Chili Pepper 3/4</title>
+  </programme>
+  <programme start="20260403010000 +0000" stop="20260403013000 +0000" channel="CGTN Documentary.webtv.sk">
+    <title lang="id">Insiders (5)</title>
+  </programme>
+  <programme start="20260403013000 +0000" stop="20260403020000 +0000" channel="CGTN Documentary.webtv.sk">
+    <title lang="id">Pixel Collage</title>
+  </programme>
+  <programme start="20260403020000 +0000" stop="20260403030000 +0000" channel="CGTN Documentary.webtv.sk">
+    <title lang="id">Aerial China III (1)</title>
+  </programme>
+  <programme start="20260403030000 +0000" stop="20260403033000 +0000" channel="CGTN Documentary.webtv.sk">
+    <title lang="id">Between Heaven and Earth : Traveling Through Grasslands (3)</title>
+  </programme>
+  <programme start="20260403033000 +0000" stop="20260403040000 +0000" channel="CGTN Documentary.webtv.sk">
+    <title lang="id">Blooming Flowers (3)</title>
+  </programme>
+  <programme start="20260403040000 +0000" stop="20260403050000 +0000" channel="CGTN Documentary.webtv.sk">
+    <title lang="id">Song of the Yellow River (3)</title>
+  </programme>
+  <programme start="20260403050000 +0000" stop="20260403053000 +0000" channel="CGTN Documentary.webtv.sk">
+    <title lang="id">Timeless Ancient Structures (1)</title>
+  </programme>
+  <programme start="20260403053000 +0000" stop="20260403060000 +0000" channel="CGTN Documentary.webtv.sk">
+    <title lang="id">Dawenkou Culture (3)</title>
+  </programme>
+  <programme start="20260403060000 +0000" stop="20260403070000 +0000" channel="CGTN Documentary.webtv.sk">
+    <title lang="id">Journey of the Chili Pepper 3/4</title>
+  </programme>
+  <programme start="20260403070000 +0000" stop="20260403073000 +0000" channel="CGTN Documentary.webtv.sk">
+    <title lang="id">Insiders (5)</title>
+  </programme>
+  <programme start="20260403073000 +0000" stop="20260403080000 +0000" channel="CGTN Documentary.webtv.sk">
+    <title lang="id">Pixel Collage</title>
+  </programme>
+  <programme start="20260403080000 +0000" stop="20260403090000 +0000" channel="CGTN Documentary.webtv.sk">
+    <title lang="id">Aerial China III (1)</title>
+  </programme>
+  <programme start="20260403090000 +0000" stop="20260403093000 +0000" channel="CGTN Documentary.webtv.sk">
+    <title lang="id">Between Heaven and Earth : Traveling Through Grasslands (3)</title>
+  </programme>
+  <programme start="20260403093000 +0000" stop="20260403100000 +0000" channel="CGTN Documentary.webtv.sk">
+    <title lang="id">Blooming Flowers (3)</title>
+  </programme>
+  <programme start="20260403100000 +0000" stop="20260403110000 +0000" channel="CGTN Documentary.webtv.sk">
+    <title lang="id">Song of the Yellow River (3)</title>
+  </programme>
+  <programme start="20260403110000 +0000" stop="20260403113000 +0000" channel="CGTN Documentary.webtv.sk">
+    <title lang="id">Timeless Ancient Structures (1)</title>
+  </programme>
+  <programme start="20260403113000 +0000" stop="20260403120000 +0000" channel="CGTN Documentary.webtv.sk">
+    <title lang="id">Dawenkou Culture (3)</title>
+  </programme>
+  <programme start="20260403120000 +0000" stop="20260403130000 +0000" channel="CGTN Documentary.webtv.sk">
+    <title lang="id">Journey of the Chili Pepper 3/4</title>
+  </programme>
+  <programme start="20260403130000 +0000" stop="20260403133000 +0000" channel="CGTN Documentary.webtv.sk">
+    <title lang="id">Insiders (5)</title>
+  </programme>
+  <programme start="20260403133000 +0000" stop="20260403140000 +0000" channel="CGTN Documentary.webtv.sk">
+    <title lang="id">Pixel Collage</title>
+  </programme>
+  <programme start="20260403140000 +0000" stop="20260403150000 +0000" channel="CGTN Documentary.webtv.sk">
+    <title lang="id">Aerial China III (1)</title>
+  </programme>
+  <programme start="20260403150000 +0000" stop="20260403153000 +0000" channel="CGTN Documentary.webtv.sk">
+    <title lang="id">Between Heaven and Earth : Traveling Through Grasslands (3)</title>
+  </programme>
+  <programme start="20260403153000 +0000" stop="20260403160000 +0000" channel="CGTN Documentary.webtv.sk">
+    <title lang="id">Blooming Flowers (3)</title>
+  </programme>
+  <programme start="20260403160000 +0000" stop="20260403170000 +0000" channel="CGTN Documentary.webtv.sk">
+    <title lang="id">Song of the Yellow River (3)</title>
+  </programme>
+  <programme start="20260403170000 +0000" stop="20260403173000 +0000" channel="CGTN Documentary.webtv.sk">
+    <title lang="id">Timeless Ancient Structures (1)</title>
+  </programme>
+  <programme start="20260403173000 +0000" stop="20260403180000 +0000" channel="CGTN Documentary.webtv.sk">
+    <title lang="id">Dawenkou Culture (3)</title>
+  </programme>
+  <programme start="20260403180000 +0000" stop="20260403190000 +0000" channel="CGTN Documentary.webtv.sk">
+    <title lang="id">Journey of the Chili Pepper 3/4</title>
+  </programme>
+  <programme start="20260403190000 +0000" stop="20260403193000 +0000" channel="CGTN Documentary.webtv.sk">
+    <title lang="id">Insiders (5)</title>
+  </programme>
+  <programme start="20260403193000 +0000" stop="20260403200000 +0000" channel="CGTN Documentary.webtv.sk">
+    <title lang="id">Pixel Collage</title>
+  </programme>
+  <programme start="20260403200000 +0000" stop="20260403210000 +0000" channel="CGTN Documentary.webtv.sk">
+    <title lang="id">Aerial China III (2)</title>
+  </programme>
+  <programme start="20260403210000 +0000" stop="20260403213000 +0000" channel="CGTN Documentary.webtv.sk">
+    <title lang="id">Between Heaven and Earth : Traveling Through Grasslands (4)</title>
+  </programme>
+  <programme start="20260403213000 +0000" stop="20260403220000 +0000" channel="CGTN Documentary.webtv.sk">
+    <title lang="id">Blooming Flowers (4)</title>
   </programme>
   <programme start="20260402213000 +0000" stop="20260403040000 +0000" channel="Óčko.webtv.sk">
     <title lang="id">ÓČKO FLIRT</title>
