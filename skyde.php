@@ -1309,13 +1309,13 @@
 <programme start="20260403211000 +0000" stop="20260403220000 +0000" channel="Motorvision+.skyde">
     <title>UK National Legends Cars Championship 2024</title>
 </programme>
-<programme start="20260402222000 +0000" stop="20260402224000 +0000" channel="Nick Jr..skyde">
+<programme start="20260402221500 +0000" stop="20260402224000 +0000" channel="Nick Jr..skyde">
     <title>Rubble &amp; Crew</title>
 </programme>
-<programme start="20260402224000 +0000" stop="20260402230500 +0000" channel="Nick Jr..skyde">
+<programme start="20260402224000 +0000" stop="20260402230000 +0000" channel="Nick Jr..skyde">
     <title>Rubble &amp; Crew</title>
 </programme>
-<programme start="20260402230500 +0000" stop="20260402232500 +0000" channel="Nick Jr..skyde">
+<programme start="20260402230000 +0000" stop="20260402232500 +0000" channel="Nick Jr..skyde">
     <title>Paw Patrol: Helfer auf vier Pfoten</title>
 </programme>
 <programme start="20260402232500 +0000" stop="20260402235000 +0000" channel="Nick Jr..skyde">
