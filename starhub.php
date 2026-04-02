@@ -2198,10 +2198,10 @@
         <title>Premier Padel 2026: Gijon P2 Day 1 Match 1</title>
     </programme>
     <programme start="20260401223000 +0000" stop="20260402002000 +0000" channel="beIN Sports 2 HD.starhub">
-        <title>TotalEnergies Africa Cup of Nations, Morocco 2025: Uganda vs Nigeria - Group Stage</title>
+        <title>TotalEnergies Africa Cup of Nations, Morocco 2025: Uganda vs Nigeria - Group Sta</title>
     </programme>
     <programme start="20260402002000 +0000" stop="20260402021000 +0000" channel="beIN Sports 2 HD.starhub">
-        <title>TotalEnergies Africa Cup of Nations, Morocco 2025: Mozambique vs Cameroon - Group Stage</title>
+        <title>TotalEnergies Africa Cup of Nations, Morocco 2025: Mozambique vs Cameroon - Grou</title>
     </programme>
     <programme start="20260402021000 +0000" stop="20260402023500 +0000" channel="beIN Sports 2 HD.starhub">
         <title>HSBC SVNS Series 2026: Fiji vs South Africa - New York Day 2, Men</title>
@@ -3274,10 +3274,10 @@
     <programme start="20260402033000 +0000" stop="20260402040000 +0000" channel="DW English HD.starhub">
         <title>Microalgae: A superpower in carbon capture and city cleanup</title>
     </programme>
-    <programme start="20260402040000 +0000" stop="20260402040200 +0000" channel="DW English HD.starhub">
+    <programme start="20260402040000 +0000" stop="20260402040300 +0000" channel="DW English HD.starhub">
         <title>News</title>
     </programme>
-    <programme start="20260402040200 +0000" stop="20260402041500 +0000" channel="DW English HD.starhub">
+    <programme start="20260402040300 +0000" stop="20260402041500 +0000" channel="DW English HD.starhub">
         <title>News</title>
     </programme>
     <programme start="20260402041500 +0000" stop="20260402050000 +0000" channel="DW English HD.starhub">
@@ -3328,26 +3328,17 @@
     <programme start="20260402091500 +0000" stop="20260402100000 +0000" channel="DW English HD.starhub">
         <title>My Near-Death Experience - My New Beginning</title>
     </programme>
-    <programme start="20260402100000 +0000" stop="20260402100200 +0000" channel="DW English HD.starhub">
+    <programme start="20260402100000 +0000" stop="20260402100300 +0000" channel="DW English HD.starhub">
         <title>News</title>
     </programme>
-    <programme start="20260402100200 +0000" stop="20260402101500 +0000" channel="DW English HD.starhub">
+    <programme start="20260402100300 +0000" stop="20260402101500 +0000" channel="DW English HD.starhub">
         <title>News</title>
     </programme>
     <programme start="20260402101500 +0000" stop="20260402110000 +0000" channel="DW English HD.starhub">
         <title>Abolish Prisons? - What Works Better than Incarceration</title>
     </programme>
-    <programme start="20260402110000 +0000" stop="20260402110200 +0000" channel="DW English HD.starhub">
+    <programme start="20260402110000 +0000" stop="20260402120000 +0000" channel="DW English HD.starhub">
         <title>News</title>
-    </programme>
-    <programme start="20260402110200 +0000" stop="20260402111500 +0000" channel="DW English HD.starhub">
-        <title>News</title>
-    </programme>
-    <programme start="20260402111500 +0000" stop="20260402113000 +0000" channel="DW English HD.starhub">
-        <title>Adult Ice Skating - From Pain to Purpose</title>
-    </programme>
-    <programme start="20260402113000 +0000" stop="20260402120000 +0000" channel="DW English HD.starhub">
-        <title>Spotlight on People</title>
     </programme>
     <programme start="20260402120000 +0000" stop="20260402120200 +0000" channel="DW English HD.starhub">
         <title>News</title>
@@ -6824,7 +6815,7 @@
         <title>9th LaLiga FC Futures International Soccer Tournament: Flamengo vs Palmeiras</title>
     </programme>
     <programme start="20260402040000 +0000" stop="20260402043500 +0000" channel="beIN Sports HD.starhub">
-        <title>9th LaLiga FC Futures International Soccer Tournament: Barcelona vs Atletico Madrid</title>
+        <title>9th LaLiga FC Futures International Soccer Tournament: Barcelona vs Atletico Mad</title>
     </programme>
     <programme start="20260402043500 +0000" stop="20260402051000 +0000" channel="beIN Sports HD.starhub">
         <title>9th LaLiga FC Futures International Soccer Tournament: Real Madrid vs Valencia</title>

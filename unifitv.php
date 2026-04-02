@@ -12665,10 +12665,17 @@
     <episode-num system="xmltv_ns">0.1279.</episode-num>
     <episode-num system="onscreen">S1E1280</episode-num>
   </programme>
-  <programme start="20260401180300 +0000" stop="20260401190300 +0000" channel="aljazeera.unifitv">
+  <programme start="20260401180300 +0000" stop="20260401184300 +0000" channel="aljazeera.unifitv">
     <title lang="en">Newshour</title>
     <desc lang="en">Latest news and in-depth analysis from around the world.</desc>
     <category lang="en">News</category>
+  </programme>
+  <programme start="20260401184300 +0000" stop="20260401190300 +0000" channel="aljazeera.unifitv">
+    <title lang="en">Talk to Al Jazeera</title>
+    <desc lang="en">U.S. Secretary of State Marco Rubio discusses ongoing talks with Iran as Washington presses its military campaign.</desc>
+    <category lang="en">News</category>
+    <episode-num system="xmltv_ns">0.462.</episode-num>
+    <episode-num system="onscreen">S1E463</episode-num>
   </programme>
   <programme start="20260401190300 +0000" stop="20260401193300 +0000" channel="aljazeera.unifitv">
     <title lang="en">News Live</title>
@@ -12676,18 +12683,25 @@
     <category lang="en">News</category>
   </programme>
   <programme start="20260401193300 +0000" stop="20260401200300 +0000" channel="aljazeera.unifitv">
-    <title lang="en">101 East</title>
-    <desc lang="en">101 East reveals how across the world, Chinese international students are falling prey to a growing online crime - cyber kidnappings.</desc>
+    <title lang="en">Counting the Cost</title>
+    <desc lang="en">What can countries do to make up for the ongoing energy shortfall?</desc>
     <category lang="en">News</category>
+    <episode-num system="xmltv_ns">0.16.</episode-num>
+    <episode-num system="onscreen">S1E17</episode-num>
   </programme>
   <programme start="20260401200300 +0000" stop="20260401210300 +0000" channel="aljazeera.unifitv">
     <title lang="en">Witness</title>
     <desc lang="en">A Russian filmmaker follows the court case of a teenage girl who is falsely accused of conspiring to overthrow the government.</desc>
     <category lang="en">News</category>
   </programme>
-  <programme start="20260401210300 +0000" stop="20260401220300 +0000" channel="aljazeera.unifitv">
+  <programme start="20260401210300 +0000" stop="20260401213800 +0000" channel="aljazeera.unifitv">
     <title lang="en">Newshour</title>
     <desc lang="en">Latest news and in-depth analysis from around the world.</desc>
+    <category lang="en">News</category>
+  </programme>
+  <programme start="20260401213800 +0000" stop="20260401220300 +0000" channel="aljazeera.unifitv">
+    <title lang="en">Talk to Al Jazeera</title>
+    <desc lang="en">Iranian's Foreign Minister Abbas Araghchi says he receives messages directly from Witkoff but insists this does not mean negotiations with the U.S.</desc>
     <category lang="en">News</category>
   </programme>
   <programme start="20260401220300 +0000" stop="20260401223300 +0000" channel="aljazeera.unifitv">
@@ -12742,11 +12756,9 @@
     <category lang="en">News</category>
   </programme>
   <programme start="20260402033300 +0000" stop="20260402040300 +0000" channel="aljazeera.unifitv">
-    <title lang="en">Making Peace</title>
-    <desc lang="en">Veteran mediator William Ury reflects on decades between enemies and the fragile art of diplomacy holding the world together.</desc>
+    <title lang="en">Talk to Al Jazeera</title>
+    <desc lang="en">Iranian's Foreign Minister Abbas Araghchi says he receives messages directly from Witkoff but insists this does not mean negotiations with the U.S.</desc>
     <category lang="en">News</category>
-    <episode-num system="xmltv_ns">0.7.</episode-num>
-    <episode-num system="onscreen">S1E8</episode-num>
   </programme>
   <programme start="20260402040300 +0000" stop="20260402043300 +0000" channel="aljazeera.unifitv">
     <title lang="en">News Live</title>
@@ -12798,11 +12810,11 @@
     <category lang="en">News</category>
   </programme>
   <programme start="20260402083300 +0000" stop="20260402090300 +0000" channel="aljazeera.unifitv">
-    <title lang="en">The Listening Post</title>
-    <desc lang="en">What is being reported by world media and how? Richard Gizbert guides you through the global news maze.</desc>
+    <title lang="en">Counting the Cost</title>
+    <desc lang="en">What can countries do to make up for the ongoing energy shortfall?</desc>
     <category lang="en">News</category>
-    <episode-num system="xmltv_ns">0.12.</episode-num>
-    <episode-num system="onscreen">S1E13</episode-num>
+    <episode-num system="xmltv_ns">0.16.</episode-num>
+    <episode-num system="onscreen">S1E17</episode-num>
   </programme>
   <programme start="20260402090300 +0000" stop="20260402093300 +0000" channel="aljazeera.unifitv">
     <title lang="en">News Live</title>
@@ -12814,9 +12826,14 @@
     <desc lang="en">Investigative documentary series examining the use and abuse of power.</desc>
     <category lang="en">News</category>
   </programme>
-  <programme start="20260402100300 +0000" stop="20260402110300 +0000" channel="aljazeera.unifitv">
+  <programme start="20260402100300 +0000" stop="20260402103300 +0000" channel="aljazeera.unifitv">
     <title lang="en">Newshour</title>
     <desc lang="en">Latest news and in-depth analysis from around the world.</desc>
+    <category lang="en">News</category>
+  </programme>
+  <programme start="20260402103300 +0000" stop="20260402110300 +0000" channel="aljazeera.unifitv">
+    <title lang="en">Talk to Al Jazeera</title>
+    <desc lang="en">Iranian's Foreign Minister Abbas Araghchi says he receives messages directly from Witkoff but insists this does not mean negotiations with the U.S.</desc>
     <category lang="en">News</category>
   </programme>
   <programme start="20260402110300 +0000" stop="20260402113300 +0000" channel="aljazeera.unifitv">
@@ -12848,10 +12865,8 @@
   </programme>
   <programme start="20260402143300 +0000" stop="20260402150300 +0000" channel="aljazeera.unifitv">
     <title lang="en">Talk to Al Jazeera</title>
-    <desc lang="en">One-on-one conversations with global leaders, icons, influencers and alternative voices shaping our times.</desc>
+    <desc lang="en">As U.S. sanctions restrict fuel to Cuba, blackouts deepen. Cuba's Deputy FM responds to Trump's threat that the island could be next after Iran.</desc>
     <category lang="en">News</category>
-    <episode-num system="xmltv_ns">0.461.</episode-num>
-    <episode-num system="onscreen">S1E462</episode-num>
   </programme>
   <programme start="20260402150300 +0000" stop="20260402160300 +0000" channel="aljazeera.unifitv">
     <title lang="en">Newshour</title>

@@ -97,7 +97,7 @@
 <programme start="20260402160000 +0000" stop="20260402190000 +0000" channel="MNCTV.vision">
 <title>Suparman Reborn</title>
 </programme>
-<programme start="20260402190000 +0000" stop="20260402231500 +0000" channel="MNCTV.vision">
+<programme start="20260401160000 +0000" stop="20260401190000 +0000" channel="MNCTV.vision">
 <title>Suparman Reborn</title>
 </programme>
 <programme start="20260402231500 +0000" stop="20260403000000 +0000" channel="MNCTV.vision">
@@ -115,13 +115,13 @@
 <programme start="20260403043000 +0000" stop="20260403050000 +0000" channel="MNCTV.vision">
 <title>Seleb On News</title>
 </programme>
-<programme start="20260403050000 +0000" stop="20260403070000 +0000" channel="MNCTV.vision">
+<programme start="20260403090000 +0000" stop="20260403110000 +0000" channel="MNCTV.vision">
 <title>Upin &amp; Ipin</title>
 </programme>
 <programme start="20260403070000 +0000" stop="20260403090000 +0000" channel="MNCTV.vision">
 <title>Upin &amp; Ipin</title>
 </programme>
-<programme start="20260403090000 +0000" stop="20260403110000 +0000" channel="MNCTV.vision">
+<programme start="20260403120000 +0000" stop="20260403130000 +0000" channel="MNCTV.vision">
 <title>Upin &amp; Ipin</title>
 </programme>
 <programme start="20260403110000 +0000" stop="20260403120000 +0000" channel="MNCTV.vision">
@@ -790,19 +790,19 @@
 <programme start="20260402134500 +0000" stop="20260402140000 +0000" channel="TVOne.vision">
 <title>Kabar Terkini</title>
 </programme>
-<programme start="20260402140000 +0000" stop="20260402150000 +0000" channel="TVOne.vision">
+<programme start="20260330140000 +0000" stop="20260330150000 +0000" channel="TVOne.vision">
 <title>Kabar Utama 2 (L)</title>
 </programme>
-<programme start="20260402150000 +0000" stop="20260402160000 +0000" channel="TVOne.vision">
+<programme start="20260330150000 +0000" stop="20260330160000 +0000" channel="TVOne.vision">
 <title>Kabar Hari Ini (L)</title>
 </programme>
-<programme start="20260402160000 +0000" stop="20260402173000 +0000" channel="TVOne.vision">
+<programme start="20260330160000 +0000" stop="20260330163000 +0000" channel="TVOne.vision">
 <title>Breaking News</title>
 </programme>
 <programme start="20260402173000 +0000" stop="20260402190000 +0000" channel="TVOne.vision">
 <title>Breaking News</title>
 </programme>
-<programme start="20260402190000 +0000" stop="20260402193000 +0000" channel="TVOne.vision">
+<programme start="20260330180000 +0000" stop="20260330190000 +0000" channel="TVOne.vision">
 <title>Kabar Petang</title>
 </programme>
 <programme start="20260402193000 +0000" stop="20260402203000 +0000" channel="TVOne.vision">
