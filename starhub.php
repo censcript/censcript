@@ -2095,12 +2095,6 @@
     <programme start="20260401200000 +0000" stop="20260401213000 +0000" channel="CNN HD.starhub">
         <title>Quest Means Business (60m)</title>
     </programme>
-    <programme start="20260401213000 +0000" stop="20260401220000 +0000" channel="CNN HD.starhub">
-        <title>World Sport (30m)</title>
-    </programme>
-    <programme start="20260401220000 +0000" stop="20260401230000 +0000" channel="CNN HD.starhub">
-        <title>The Brief with Jim Sciutto</title>
-    </programme>
     <programme start="20260401230000 +0000" stop="20260402000000 +0000" channel="CNN HD.starhub">
         <title>Erin Burnett OutFront</title>
     </programme>
@@ -3242,7 +3236,7 @@
         <title>News in Review</title>
     </programme>
     <programme start="20260402003000 +0000" stop="20260402010000 +0000" channel="DW English HD.starhub">
-        <title>Experiencing and understanding the art world</title>
+        <title>Rilke, Social Media and Empowerment</title>
     </programme>
     <programme start="20260402010000 +0000" stop="20260402010200 +0000" channel="DW English HD.starhub">
         <title>News</title>
@@ -3260,7 +3254,7 @@
         <title>News in Review</title>
     </programme>
     <programme start="20260402023000 +0000" stop="20260402030000 +0000" channel="DW English HD.starhub">
-        <title>Your Business Magazine</title>
+        <title>Abandoned fish farms turn into plastic traps underwater</title>
     </programme>
     <programme start="20260402030000 +0000" stop="20260402030200 +0000" channel="DW English HD.starhub">
         <title>News</title>
@@ -3269,10 +3263,10 @@
         <title>News</title>
     </programme>
     <programme start="20260402031500 +0000" stop="20260402033000 +0000" channel="DW English HD.starhub">
-        <title>Best of DW-online Content</title>
+        <title>Mercedes profits collapse 57 % - What went wrong?</title>
     </programme>
     <programme start="20260402033000 +0000" stop="20260402040000 +0000" channel="DW English HD.starhub">
-        <title>The Environment Magazine</title>
+        <title>Microalgae: A superpower in carbon capture and city cleanup</title>
     </programme>
     <programme start="20260402040000 +0000" stop="20260402040200 +0000" channel="DW English HD.starhub">
         <title>News</title>
@@ -3299,22 +3293,22 @@
         <title>News</title>
     </programme>
     <programme start="20260402061500 +0000" stop="20260402063000 +0000" channel="DW English HD.starhub">
-        <title>Best of DW-online Content</title>
+        <title>Mercedes profits collapse 57 % - What went wrong?</title>
     </programme>
     <programme start="20260402063000 +0000" stop="20260402070000 +0000" channel="DW English HD.starhub">
         <title>Relative or Foe? - Neanderthals and Us</title>
     </programme>
-    <programme start="20260402070000 +0000" stop="20260402070300 +0000" channel="DW English HD.starhub">
+    <programme start="20260402070000 +0000" stop="20260402070200 +0000" channel="DW English HD.starhub">
         <title>News</title>
     </programme>
-    <programme start="20260402070300 +0000" stop="20260402080000 +0000" channel="DW English HD.starhub">
+    <programme start="20260402070200 +0000" stop="20260402080000 +0000" channel="DW English HD.starhub">
         <title>The Da Vinci Code - Myth or Truth?</title>
     </programme>
     <programme start="20260402080000 +0000" stop="20260402080200 +0000" channel="DW English HD.starhub">
         <title>News</title>
     </programme>
     <programme start="20260402080200 +0000" stop="20260402083000 +0000" channel="DW English HD.starhub">
-        <title>Your Business Magazine</title>
+        <title>Abandoned fish farms turn into plastic traps underwater</title>
     </programme>
     <programme start="20260402083000 +0000" stop="20260402090000 +0000" channel="DW English HD.starhub">
         <title>Spotlight on People</title>
@@ -3344,15 +3338,15 @@
         <title>News</title>
     </programme>
     <programme start="20260402111500 +0000" stop="20260402113000 +0000" channel="DW English HD.starhub">
-        <title>Overcoming Challenges with Sports</title>
+        <title>Adult Ice Skating - From Pain to Purpose</title>
     </programme>
     <programme start="20260402113000 +0000" stop="20260402120000 +0000" channel="DW English HD.starhub">
         <title>Spotlight on People</title>
     </programme>
-    <programme start="20260402120000 +0000" stop="20260402120300 +0000" channel="DW English HD.starhub">
+    <programme start="20260402120000 +0000" stop="20260402120200 +0000" channel="DW English HD.starhub">
         <title>News</title>
     </programme>
-    <programme start="20260402120300 +0000" stop="20260402130000 +0000" channel="DW English HD.starhub">
+    <programme start="20260402120200 +0000" stop="20260402130000 +0000" channel="DW English HD.starhub">
         <title>The Da Vinci Code - Myth or Truth?</title>
     </programme>
     <programme start="20260402130000 +0000" stop="20260402130200 +0000" channel="DW English HD.starhub">
@@ -3362,10 +3356,10 @@
         <title>News</title>
     </programme>
     <programme start="20260402131500 +0000" stop="20260402133000 +0000" channel="DW English HD.starhub">
-        <title>Best of DW-online Content</title>
+        <title>Explore abandoned spas and death-defying cable cars in Georgia</title>
     </programme>
     <programme start="20260402133000 +0000" stop="20260402140000 +0000" channel="DW English HD.starhub">
-        <title>The Global Auto and Mobility Show</title>
+        <title>How can we prevent animals ending up as roadkill?</title>
     </programme>
     <programme start="20260402140000 +0000" stop="20260402140200 +0000" channel="DW English HD.starhub">
         <title>News</title>
@@ -3380,7 +3374,7 @@
         <title>News</title>
     </programme>
     <programme start="20260402153000 +0000" stop="20260402160000 +0000" channel="DW English HD.starhub">
-        <title>The Health Show</title>
+        <title>Why how we chew our food matters for our health</title>
     </programme>
     <programme start="20260401160000 +0000" stop="20260401220000 +0000" channel="Preview Channel.starhub">
         <title>Preview Channel</title>
@@ -7376,25 +7370,25 @@
         <title>BBC News</title>
     </programme>
     <programme start="20260401233000 +0000" stop="20260402000000 +0000" channel="BBC World News HD.starhub">
-        <title>Newscast</title>
+        <title>BBC News</title>
     </programme>
     <programme start="20260402000000 +0000" stop="20260402003000 +0000" channel="BBC World News HD.starhub">
         <title>BBC News</title>
     </programme>
     <programme start="20260402003000 +0000" stop="20260402010000 +0000" channel="BBC World News HD.starhub">
-        <title>AI Decoded</title>
+        <title>BBC News</title>
     </programme>
     <programme start="20260402010000 +0000" stop="20260402013000 +0000" channel="BBC World News HD.starhub">
-        <title>Newsday</title>
+        <title>BBC News</title>
     </programme>
     <programme start="20260402013000 +0000" stop="20260402014500 +0000" channel="BBC World News HD.starhub">
-        <title>Business Today</title>
+        <title>BBC News</title>
     </programme>
     <programme start="20260402014500 +0000" stop="20260402020000 +0000" channel="BBC World News HD.starhub">
-        <title>BBC Sport</title>
+        <title>BBC News</title>
     </programme>
     <programme start="20260402020000 +0000" stop="20260402023000 +0000" channel="BBC World News HD.starhub">
-        <title>Newsday</title>
+        <title>BBC News</title>
     </programme>
     <programme start="20260402023000 +0000" stop="20260402024500 +0000" channel="BBC World News HD.starhub">
         <title>Business Today</title>

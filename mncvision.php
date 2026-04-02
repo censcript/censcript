@@ -125,7 +125,7 @@
     <title>News (L)</title>
 </programme>
 <programme start="20260402033000 +0000" stop="20260402040000 +0000" channel="Al Jazeera English.mncvision">
-    <title>Making Peace: The Possibilist</title>
+    <title>Talk To Al Jazeera: A. Araghchi</title>
 </programme>
 <programme start="20260402040000 +0000" stop="20260402043000 +0000" channel="Al Jazeera English.mncvision">
     <title>News (L)</title>
@@ -163,8 +163,11 @@
 <programme start="20260402093000 +0000" stop="20260402100000 +0000" channel="Al Jazeera English.mncvision">
     <title>People &amp; Power</title>
 </programme>
-<programme start="20260402100000 +0000" stop="20260402110000 +0000" channel="Al Jazeera English.mncvision">
+<programme start="20260402100000 +0000" stop="20260402103000 +0000" channel="Al Jazeera English.mncvision">
     <title>NewsHour</title>
+</programme>
+<programme start="20260402103000 +0000" stop="20260402110000 +0000" channel="Al Jazeera English.mncvision">
+    <title>Talk To Al Jazeera: A. Araghchi</title>
 </programme>
 <programme start="20260402110000 +0000" stop="20260402113000 +0000" channel="Al Jazeera English.mncvision">
     <title>News (L)</title>
@@ -724,84 +727,7 @@
 <programme start="20260402163000 +0000" stop="20260401170000 +0000" channel="AXN HD.mncvision">
     <title>Elsbeth S3, Ep 5</title>
 </programme>
-<programme start="20260401173000 +0000" stop="20260401182500 +0000" channel="BBC Earth.mncvision">
-    <title>The Last Overland S1, Ep 3</title>
-</programme>
-<programme start="20260401182500 +0000" stop="20260401191500 +0000" channel="BBC Earth.mncvision">
-    <title>Portillo&#039;s Long Weekends, Ep 10</title>
-</programme>
-<programme start="20260401191500 +0000" stop="20260401201500 +0000" channel="BBC Earth.mncvision">
-    <title>Primates S1, Ep 1</title>
-</programme>
-<programme start="20260401201500 +0000" stop="20260401211000 +0000" channel="BBC Earth.mncvision">
-    <title>Extreme Treks S2, Ep 3</title>
-</programme>
-<programme start="20260401211000 +0000" stop="20260401220000 +0000" channel="BBC Earth.mncvision">
-    <title>Portillo&#039;s Andalucia S1, Ep 6</title>
-</programme>
-<programme start="20260401220000 +0000" stop="20260401225500 +0000" channel="BBC Earth.mncvision">
-    <title>The Last Overland S1, Ep 3</title>
-</programme>
-<programme start="20260401225500 +0000" stop="20260401235500 +0000" channel="BBC Earth.mncvision">
-    <title>Primates S1, Ep 1</title>
-</programme>
-<programme start="20260401235500 +0000" stop="20260402004500 +0000" channel="BBC Earth.mncvision">
-    <title>Portillo&#039;s Long Weekends, Ep 10</title>
-</programme>
-<programme start="20260402004500 +0000" stop="20260402014000 +0000" channel="BBC Earth.mncvision">
-    <title>Where Wild Men Are S10, Ep 7</title>
-</programme>
-<programme start="20260402014000 +0000" stop="20260402023500 +0000" channel="BBC Earth.mncvision">
-    <title>Secret Life Of Trees S1, Ep 3</title>
-</programme>
-<programme start="20260402023500 +0000" stop="20260402033500 +0000" channel="BBC Earth.mncvision">
-    <title>The Last Overland S1, Ep 3</title>
-</programme>
-<programme start="20260402033500 +0000" stop="20260402043000 +0000" channel="BBC Earth.mncvision">
-    <title>Portillo&#039;s Andalucia S1, Ep 6</title>
-</programme>
-<programme start="20260402043000 +0000" stop="20260402053000 +0000" channel="BBC Earth.mncvision">
-    <title>Dynasties S1, Ep 3</title>
-</programme>
-<programme start="20260402053000 +0000" stop="20260402062500 +0000" channel="BBC Earth.mncvision">
-    <title>Big Adv.: Thailand S1, Ep 1</title>
-</programme>
-<programme start="20260402062500 +0000" stop="20260402072500 +0000" channel="BBC Earth.mncvision">
-    <title>The Last Overland S1, Ep 3</title>
-</programme>
-<programme start="20260402072500 +0000" stop="20260402082000 +0000" channel="BBC Earth.mncvision">
-    <title>Where Wild Men Are S10, Ep 7</title>
-</programme>
-<programme start="20260402082000 +0000" stop="20260402091500 +0000" channel="BBC Earth.mncvision">
-    <title>Portillo&#039;s Long Weekends, Ep 10</title>
-</programme>
-<programme start="20260402091500 +0000" stop="20260402101000 +0000" channel="BBC Earth.mncvision">
-    <title>Big Adv.: Thailand S1, Ep 1</title>
-</programme>
-<programme start="20260402101000 +0000" stop="20260402110500 +0000" channel="BBC Earth.mncvision">
-    <title>Portillo&#039;s Andalucia S1, Ep 6</title>
-</programme>
-<programme start="20260402110500 +0000" stop="20260402115500 +0000" channel="BBC Earth.mncvision">
-    <title>Portillo&#039;s Long Weekends, Ep 11</title>
-</programme>
-<programme start="20260402115500 +0000" stop="20260402125500 +0000" channel="BBC Earth.mncvision">
-    <title>Mad About Seafood S1, Ep 2</title>
-</programme>
-<programme start="20260402125500 +0000" stop="20260402135500 +0000" channel="BBC Earth.mncvision">
-    <title>Deep Dive Korea S1, Ep 3</title>
-</programme>
-<programme start="20260402135500 +0000" stop="20260402145000 +0000" channel="BBC Earth.mncvision">
-    <title>Secrets Of Superagers S1, Ep 3</title>
-</programme>
-<programme start="20260402145000 +0000" stop="20260402154000 +0000" channel="BBC Earth.mncvision">
-    <title>Portillo&#039;s Long Weekends, Ep 11</title>
-</programme>
-<programme start="20260402154000 +0000" stop="20260402163500 +0000" channel="BBC Earth.mncvision">
-    <title>Mad About Seafood S1, Ep 2</title>
-</programme>
-<programme start="20260402163500 +0000" stop="20260401170500 +0000" channel="BBC Earth.mncvision">
-    <title>Deep Dive Korea S1, Ep 3</title>
-</programme>
+Error: Unable to fetch data. HTTP Status Code: 500
 <programme start="20260401173000 +0000" stop="20260401182500 +0000" channel="BBC Earth HD.mncvision">
     <title>The Last Overland S1, Ep 3</title>
 </programme>
@@ -2056,186 +1982,8 @@
 <programme start="20260402163000 +0000" stop="20260401170000 +0000" channel="Celebrities TV.mncvision">
     <title>Obrolan Seputar Selebriti</title>
 </programme>
-<programme start="20260401175500 +0000" stop="20260401193500 +0000" channel="Celestial Movies.mncvision">
-    <title>Doubles Cause Troubles</title>
-</programme>
-<programme start="20260401193500 +0000" stop="20260401212000 +0000" channel="Celestial Movies.mncvision">
-    <title>Blind War</title>
-</programme>
-<programme start="20260401212000 +0000" stop="20260401223500 +0000" channel="Celestial Movies.mncvision">
-    <title>Munitions Hijacking Case</title>
-</programme>
-<programme start="20260401223500 +0000" stop="20260401235500 +0000" channel="Celestial Movies.mncvision">
-    <title>Zombie Island</title>
-</programme>
-<programme start="20260401235500 +0000" stop="20260402013500 +0000" channel="Celestial Movies.mncvision">
-    <title>Fight Back To School</title>
-</programme>
-<programme start="20260402013500 +0000" stop="20260402031000 +0000" channel="Celestial Movies.mncvision">
-    <title>Ghost Wedding</title>
-</programme>
-<programme start="20260402031000 +0000" stop="20260402044000 +0000" channel="Celestial Movies.mncvision">
-    <title>The Monkey Is Back</title>
-</programme>
-<programme start="20260402044000 +0000" stop="20260402062500 +0000" channel="Celestial Movies.mncvision">
-    <title>The Grey Men 2</title>
-</programme>
-<programme start="20260402062500 +0000" stop="20260402080500 +0000" channel="Celestial Movies.mncvision">
-    <title>Love In A Fallen City</title>
-</programme>
-<programme start="20260402080500 +0000" stop="20260402095500 +0000" channel="Celestial Movies.mncvision">
-    <title>Nezha</title>
-</programme>
-<programme start="20260402095500 +0000" stop="20260402113000 +0000" channel="Celestial Movies.mncvision">
-    <title>Hong Kong, Hong Kong</title>
-</programme>
-<programme start="20260402113000 +0000" stop="20260402130000 +0000" channel="Celestial Movies.mncvision">
-    <title>The Mad Monk</title>
-</programme>
-<programme start="20260402130000 +0000" stop="20260402143000 +0000" channel="Celestial Movies.mncvision">
-    <title>The Bare-Footed Kid</title>
-</programme>
-<programme start="20260402143000 +0000" stop="20260402161000 +0000" channel="Celestial Movies.mncvision">
-    <title>Behind The Yellow Line</title>
-</programme>
-<programme start="20260402161000 +0000" stop="20260402164000 +0000" channel="Celestial Movies.mncvision">
-    <title>Iceman: The Time Traveler</title>
-</programme>
-<programme start="20260401170000 +0000" stop="20260401180000 +0000" channel="CGTN.mncvision">
-    <title>Africa Live</title>
-</programme>
-<programme start="20260401180000 +0000" stop="20260401190000 +0000" channel="CGTN.mncvision">
-    <title>Global Business</title>
-</programme>
-<programme start="20260401190000 +0000" stop="20260401193000 +0000" channel="CGTN.mncvision">
-    <title>The World Today</title>
-</programme>
-<programme start="20260401193000 +0000" stop="20260401200000 +0000" channel="CGTN.mncvision">
-    <title>World Insight With Tian Wei</title>
-</programme>
-<programme start="20260401200000 +0000" stop="20260401203000 +0000" channel="CGTN.mncvision">
-    <title>The World Today</title>
-</programme>
-<programme start="20260401203000 +0000" stop="20260401210000 +0000" channel="CGTN.mncvision">
-    <title>Dialogue</title>
-</programme>
-<programme start="20260401210000 +0000" stop="20260401213000 +0000" channel="CGTN.mncvision">
-    <title>Global Business</title>
-</programme>
-<programme start="20260401213000 +0000" stop="20260401220000 +0000" channel="CGTN.mncvision">
-    <title>The Point With Liu Xin</title>
-</programme>
-<programme start="20260401220000 +0000" stop="20260401223000 +0000" channel="CGTN.mncvision">
-    <title>The World Today</title>
-</programme>
-<programme start="20260401223000 +0000" stop="20260401230000 +0000" channel="CGTN.mncvision">
-    <title>Rediscovering China</title>
-</programme>
-<programme start="20260401230000 +0000" stop="20260401233000 +0000" channel="CGTN.mncvision">
-    <title>The Heat</title>
-</programme>
-<programme start="20260401233000 +0000" stop="20260402000000 +0000" channel="CGTN.mncvision">
-    <title>The World Today</title>
-</programme>
-<programme start="20260402000000 +0000" stop="20260402010000 +0000" channel="CGTN.mncvision">
-    <title>Global Business</title>
-</programme>
-<programme start="20260402010000 +0000" stop="20260402013000 +0000" channel="CGTN.mncvision">
-    <title>The World Today</title>
-</programme>
-<programme start="20260402013000 +0000" stop="20260402020000 +0000" channel="CGTN.mncvision">
-    <title>China 24</title>
-</programme>
-<programme start="20260402020000 +0000" stop="20260402023000 +0000" channel="CGTN.mncvision">
-    <title>The World Today</title>
-</programme>
-<programme start="20260402023000 +0000" stop="20260402030000 +0000" channel="CGTN.mncvision">
-    <title>World Insight With Tian Wei</title>
-</programme>
-<programme start="20260402030000 +0000" stop="20260402031500 +0000" channel="CGTN.mncvision">
-    <title>The World Today</title>
-</programme>
-<programme start="20260402031500 +0000" stop="20260402033000 +0000" channel="CGTN.mncvision">
-    <title>Sports Scene</title>
-</programme>
-<programme start="20260402033000 +0000" stop="20260402040000 +0000" channel="CGTN.mncvision">
-    <title>The Hub With Wang Guan</title>
-</programme>
-<programme start="20260402040000 +0000" stop="20260402050000 +0000" channel="CGTN.mncvision">
-    <title>Global Watch</title>
-</programme>
-<programme start="20260402050000 +0000" stop="20260402051500 +0000" channel="CGTN.mncvision">
-    <title>The World Today</title>
-</programme>
-<programme start="20260402051500 +0000" stop="20260402053000 +0000" channel="CGTN.mncvision">
-    <title>Sports Scene</title>
-</programme>
-<programme start="20260402053000 +0000" stop="20260402060000 +0000" channel="CGTN.mncvision">
-    <title>Rediscovering China</title>
-</programme>
-<programme start="20260402060000 +0000" stop="20260402063000 +0000" channel="CGTN.mncvision">
-    <title>The World Today</title>
-</programme>
-<programme start="20260402063000 +0000" stop="20260402070000 +0000" channel="CGTN.mncvision">
-    <title>The Heat</title>
-</programme>
-<programme start="20260402070000 +0000" stop="20260402073000 +0000" channel="CGTN.mncvision">
-    <title>The World Today</title>
-</programme>
-<programme start="20260402073000 +0000" stop="20260402080000 +0000" channel="CGTN.mncvision">
-    <title>Sports Scene</title>
-</programme>
-<programme start="20260402080000 +0000" stop="20260402081500 +0000" channel="CGTN.mncvision">
-    <title>The World Today</title>
-</programme>
-<programme start="20260402081500 +0000" stop="20260402090000 +0000" channel="CGTN.mncvision">
-    <title>Global Business</title>
-</programme>
-<programme start="20260402090000 +0000" stop="20260402093000 +0000" channel="CGTN.mncvision">
-    <title>The World Today</title>
-</programme>
-<programme start="20260402093000 +0000" stop="20260402100000 +0000" channel="CGTN.mncvision">
-    <title>The Vibe</title>
-</programme>
-<programme start="20260402100000 +0000" stop="20260402101500 +0000" channel="CGTN.mncvision">
-    <title>The World Today</title>
-</programme>
-<programme start="20260402101500 +0000" stop="20260402110000 +0000" channel="CGTN.mncvision">
-    <title>Africa Live</title>
-</programme>
-<programme start="20260402110000 +0000" stop="20260402113000 +0000" channel="CGTN.mncvision">
-    <title>Asia Today</title>
-</programme>
-<programme start="20260402113000 +0000" stop="20260402120000 +0000" channel="CGTN.mncvision">
-    <title>Dialogue</title>
-</programme>
-<programme start="20260402120000 +0000" stop="20260402121500 +0000" channel="CGTN.mncvision">
-    <title>The World Today</title>
-</programme>
-<programme start="20260402121500 +0000" stop="20260402130000 +0000" channel="CGTN.mncvision">
-    <title>China 24</title>
-</programme>
-<programme start="20260402130000 +0000" stop="20260402133000 +0000" channel="CGTN.mncvision">
-    <title>Global Business</title>
-</programme>
-<programme start="20260402133000 +0000" stop="20260402140000 +0000" channel="CGTN.mncvision">
-    <title>The Hub With Wang Guan</title>
-</programme>
-<programme start="20260402140000 +0000" stop="20260402143000 +0000" channel="CGTN.mncvision">
-    <title>The World Today</title>
-</programme>
-<programme start="20260402143000 +0000" stop="20260402150000 +0000" channel="CGTN.mncvision">
-    <title>World Insight With Tian Wei</title>
-</programme>
-<programme start="20260402150000 +0000" stop="20260402153000 +0000" channel="CGTN.mncvision">
-    <title>The World Today</title>
-</programme>
-<programme start="20260402153000 +0000" stop="20260402160000 +0000" channel="CGTN.mncvision">
-    <title>The Vibe</title>
-</programme>
-<programme start="20260402160000 +0000" stop="20260402163000 +0000" channel="CGTN.mncvision">
-    <title>Global Business</title>
-</programme>
+Error: Unable to fetch data. HTTP Status Code: 500
+Error: Unable to fetch data. HTTP Status Code: 500
 <programme start="20260401170000 +0000" stop="20260401180000 +0000" channel="CGTN Documentary.mncvision">
     <title>CGTN Documentary</title>
 </programme>
