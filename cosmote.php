@@ -1,7 +1,3 @@
-<programme start="20260403024000 +0700" stop="20260403044000 +0700" channel="COSMOTE Sport 1 HD">
-    <title>Football: Arsenal - Bayer 04 Leverkusen</title>
-    <desc>Live: Tidak</desc>
-</programme>
 <programme start="20260403044000 +0700" stop="20260403064000 +0700" channel="COSMOTE Sport 1 HD">
     <title>Football: Tottenham Hotspur - Club Atletico de Madrid</title>
     <desc>Live: Tidak</desc>
@@ -70,8 +66,12 @@
     <title>Game R1 S6 E32</title>
     <desc>Live: Tidak</desc>
 </programme>
-<programme start="20260403040000 +0700" stop="20260403043000 +0700" channel="COSMOTE Sport 2 HD">
-    <title>Sports Classics: Ultimate Rush S5 E2</title>
+<programme start="20260404050000 +0700" stop="20260404053000 +0700" channel="COSMOTE Sport 1 HD">
+    <title>UEFA Champions League Highlights 2025-26</title>
+    <desc>Live: Tidak</desc>
+</programme>
+<programme start="20260404053000 +0700" stop="20260404060000 +0700" channel="COSMOTE Sport 1 HD">
+    <title>UEFA Champions League Highlights 2025-26</title>
     <desc>Live: Tidak</desc>
 </programme>
 <programme start="20260403043000 +0700" stop="20260403064000 +0700" channel="COSMOTE Sport 2 HD">
@@ -202,6 +202,14 @@
     <title>Emirates FA Cup 2025-26 - Highlights</title>
     <desc>Live: Tidak</desc>
 </programme>
+<programme start="20260404050000 +0700" stop="20260404053000 +0700" channel="COSMOTE Sport 3 HD">
+    <title>Sports Classics: My Sporting Moment</title>
+    <desc>Live: Tidak</desc>
+</programme>
+<programme start="20260404053000 +0700" stop="20260404060000 +0700" channel="COSMOTE Sport 3 HD">
+    <title>Sports Classics: My Sporting Moment</title>
+    <desc>Live: Tidak</desc>
+</programme>
 <programme start="20260403035000 +0700" stop="20260403061500 +0700" channel="COSMOTE Sport 4 HD">
     <title>Basketball: Golden State Warriors - San Antonio Spurs</title>
     <desc>Live: Tidak</desc>
@@ -262,8 +270,8 @@
     <title>ACB Liga Endesa 2024-25 - Fifth Quarter E24</title>
     <desc>Live: Tidak</desc>
 </programme>
-<programme start="20260403034000 +0700" stop="20260403043000 +0700" channel="COSMOTE Sport 5 HD">
-    <title>DTM 2025</title>
+<programme start="20260404050000 +0700" stop="20260404060000 +0700" channel="COSMOTE Sport 4 HD">
+    <title>NBA Specials: Basketball Stories</title>
     <desc>Live: Tidak</desc>
 </programme>
 <programme start="20260403043000 +0700" stop="20260403053000 +0700" channel="COSMOTE Sport 5 HD">
@@ -362,8 +370,8 @@
     <title>Highlights: 2026 FIA World Championship</title>
     <desc>Live: Tidak</desc>
 </programme>
-<programme start="20260403023000 +0700" stop="20260403050000 +0700" channel="COSMOTE Sport 6 HD">
-    <title>Tennis: Luca Van Assche - Tallon Griekspoor</title>
+<programme start="20260404055000 +0700" stop="20260404062000 +0700" channel="COSMOTE Sport 5 HD">
+    <title>WRC Magazine 2026</title>
     <desc>Live: Tidak</desc>
 </programme>
 <programme start="20260403050000 +0700" stop="20260403064000 +0700" channel="COSMOTE Sport 6 HD">
@@ -491,6 +499,10 @@
     <desc>Live: Tidak</desc>
 </programme>
 <programme start="20260404043000 +0700" stop="20260404050000 +0700" channel="COSMOTE Sport 7 HD">
+    <title>COSMOTESport7HD</title>
+    <desc>Live: Tidak</desc>
+</programme>
+<programme start="20260404050000 +0700" stop="20260404060000 +0700" channel="COSMOTE Sport 7 HD">
     <title>COSMOTESport7HD</title>
     <desc>Live: Tidak</desc>
 </programme>
