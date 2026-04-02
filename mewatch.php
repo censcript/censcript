@@ -754,3 +754,9 @@
     <programme start="20260402160000 +0000" stop="20260403160000 +0000" channel="Live 6.mewatch">
         <title>No programmes streaming LIVE at this moment</title>
     </programme>
+    <programme start="20260401160000 +0000" stop="20260402160000 +0000" channel="Live 7.mewatch">
+        <title>No programmes streaming LIVE at this moment</title>
+    </programme>
+    <programme start="20260402160000 +0000" stop="20260403160000 +0000" channel="Live 7.mewatch">
+        <title>No programmes streaming LIVE at this moment</title>
+    </programme>

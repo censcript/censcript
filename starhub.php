@@ -3962,16 +3962,19 @@
         <title>One Battle After Another</title>
     </programme>
     <programme start="20260401175000 +0000" stop="20260401185000 +0000" channel="HBO HD.starhub">
-        <title>Dtf St. Louis S1</title>
+        <title>Amphezyne</title>
     </programme>
     <programme start="20260401185000 +0000" stop="20260401192000 +0000" channel="HBO HD.starhub">
-        <title>Rooster S1</title>
+        <title>Angry, Like An Angry Person</title>
     </programme>
     <programme start="20260401192000 +0000" stop="20260401195000 +0000" channel="HBO HD.starhub">
-        <title>The Comeback S3</title>
+        <title>Valerie Has A Secret</title>
     </programme>
     <programme start="20260401195000 +0000" stop="20260401215000 +0000" channel="HBO HD.starhub">
         <title>American Beauty</title>
+    </programme>
+    <programme start="20260401215000 +0000" stop="20260401233000 +0000" channel="HBO HD.starhub">
+        <title>The Wedding Singer</title>
     </programme>
     <programme start="20260401233000 +0000" stop="20260402000000 +0000" channel="HBO HD.starhub">
         <title>Hollywood On Set S1</title>

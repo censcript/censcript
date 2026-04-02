@@ -13829,7 +13829,7 @@
   </programme>
   <programme start="20260401172000 +0000" stop="20260401173500 +0000" channel="abcaustralia.unifitv">
     <title lang="en">Media Watch</title>
-    <desc lang="en">Australia's leading forum for media analysis and comment. Host Linton Besser, a four-time Walkley award-winning investigative reporter and former foreign correspondent, brings you a fearless critique of the week's journalism.</desc>
+    <desc lang="en">Algorithm addiction: Court finds Google and Meta apps were like drugs of addiction. Predators online: US court finds Facebook distributed child sexual material. Australian Story puffs up a discredited orthopaedic surgeon.</desc>
     <category lang="en">Factual</category>
     <episode-num system="xmltv_ns">2025.8.</episode-num>
     <episode-num system="onscreen">S2026E9</episode-num>
@@ -13843,7 +13843,7 @@
   </programme>
   <programme start="20260401180500 +0000" stop="20260401190500 +0000" channel="abcaustralia.unifitv">
     <title lang="en">The World</title>
-    <desc lang="en">There's never been a more important time to stay in touch with what's happening in our world. Girish Sawlani presents the latest international news from ABC News correspondents as well as interviews with experts and guests.</desc>
+    <desc lang="en">Girish Sawlani brings you the latest news from around the globe. Tonight: Donald Trump says the US will leave Iran "very soon", plus Indonesia introduces fuel rationing amid a global energy crisis.</desc>
     <category lang="en">News</category>
     <episode-num system="xmltv_ns">2025.50.</episode-num>
     <episode-num system="onscreen">S2026E51</episode-num>
@@ -13869,12 +13869,19 @@
     <episode-num system="xmltv_ns">2025.65.</episode-num>
     <episode-num system="onscreen">S2026E66</episode-num>
   </programme>
-  <programme start="20260402010500 +0000" stop="20260402020500 +0000" channel="abcaustralia.unifitv">
+  <programme start="20260402010500 +0000" stop="20260402013500 +0000" channel="abcaustralia.unifitv">
     <title lang="en">ABC News At Noon</title>
-    <desc lang="en">The leading news at lunchtime. Ros Childs brings you the day's top stories and the latest news as it unfolds, with reporters in the community across Australia and around the world reporting on the issues that matter to you.</desc>
+    <desc lang="en">Ros Childs brings you the day's top stories and the latest news as it unfolds, including President Trump's Address to the Nation, the Artemis II mission launch and the countdown to Anthony Albanese's Press Club address.</desc>
     <category lang="en">News</category>
     <episode-num system="xmltv_ns">2025.65.</episode-num>
     <episode-num system="onscreen">S2026E66</episode-num>
+  </programme>
+  <programme start="20260402013500 +0000" stop="20260402020500 +0000" channel="abcaustralia.unifitv">
+    <title lang="en">The Breakfast Couch</title>
+    <desc lang="en">Stephanie Alexander joins James and Emma, movie critic Zak Hepburn chats to Cillian Murphy about the Peaky Blinders movie, Alice Zaslavsky shares some seafood secrets, plus the composer behind the Bluey soundtrack Joff Bush.</desc>
+    <category lang="en">Current Affairs</category>
+    <episode-num system="xmltv_ns">2025.7.</episode-num>
+    <episode-num system="onscreen">S2026E8</episode-num>
   </programme>
   <programme start="20260402020500 +0000" stop="20260402033500 +0000" channel="abcaustralia.unifitv">
     <title lang="en">The Pool</title>
@@ -13892,24 +13899,24 @@
   </programme>
   <programme start="20260402041000 +0000" stop="20260402044000 +0000" channel="abcaustralia.unifitv">
     <title lang="en">Planet America</title>
-    <desc lang="en">Chas and John cover the latest on the war with Iran, Trump finally agrees to pay TSA agents amid airport chaos, plus a Democrat has won a special election for the Florida state House district that includes Trump's Mar-a-Lago.</desc>
+    <desc lang="en">As more US troops head to the Middle East, is a ground war next? We ask Ambassador Dan Shapiro, former Deputy Asst Secretary of Defense for the Middle East. And is Trump using the war with Iran to manipulate the stock market?</desc>
     <category lang="en">Current Affairs</category>
     <episode-num system="xmltv_ns">2025.8.</episode-num>
     <episode-num system="onscreen">S2026E9</episode-num>
   </programme>
-  <programme start="20260402044000 +0000" stop="20260402050000 +0000" channel="abcaustralia.unifitv">
+  <programme start="20260402044000 +0000" stop="20260402045500 +0000" channel="abcaustralia.unifitv">
     <title lang="en">Media Watch</title>
-    <desc lang="en">Australia's leading forum for media analysis and comment. Host Linton Besser, a four-time Walkley award-winning investigative reporter and former foreign correspondent, brings you a fearless critique of the week's journalism.</desc>
+    <desc lang="en">Algorithm addiction: Court finds Google and Meta apps were like drugs of addiction. Predators online: US court finds Facebook distributed child sexual material. Australian Story puffs up a discredited orthopaedic surgeon.</desc>
     <category lang="en">Factual</category>
     <episode-num system="xmltv_ns">2025.8.</episode-num>
     <episode-num system="onscreen">S2026E9</episode-num>
   </programme>
-  <programme start="20260402050000 +0000" stop="20260402060500 +0000" channel="abcaustralia.unifitv">
-    <title lang="en">National Press Club Address - Dr Martin Parkinson and Violet Roumeliotis</title>
-    <desc lang="en">Martin Parkinson, Chancellor of Macquarie University and former Treasury Secretary joins Violet Roumeliotis, Chief Executive Officer of SSI on the topic "The productivity boost we're missing: Activating Australia's skills".</desc>
+  <programme start="20260402045500 +0000" stop="20260402060500 +0000" channel="abcaustralia.unifitv">
+    <title lang="en">National Press Club Address - Anthony Albanese - Prime Minister</title>
+    <desc lang="en">Anthony Albanese, Prime Minister of Australia, addresses the National Press Club.</desc>
     <category lang="en">Current Affairs</category>
-    <episode-num system="xmltv_ns">2025.9.</episode-num>
-    <episode-num system="onscreen">S2026E10</episode-num>
+    <episode-num system="xmltv_ns">2025.0.</episode-num>
+    <episode-num system="onscreen">S2026E1</episode-num>
   </programme>
   <programme start="20260402060500 +0000" stop="20260402070500 +0000" channel="abcaustralia.unifitv">
     <title lang="en">ABC News with Joe O'Brien</title>
@@ -13919,27 +13926,34 @@
     <episode-num system="onscreen">S2026E66</episode-num>
   </programme>
   <programme start="20260402070500 +0000" stop="20260402073500 +0000" channel="abcaustralia.unifitv">
-    <title lang="en">A Bite To Eat With Alice - Pia Miranda</title>
-    <desc lang="en">Actress Pia Miranda gifts Alice with jarred artichokes - will their efforts in the kitchen be a culinary triumph?</desc>
-    <category lang="en">Factual</category>
-    <episode-num system="xmltv_ns">0.3.</episode-num>
-    <episode-num system="onscreen">S1E4</episode-num>
+    <title lang="en">ABC News Live - Opposition Leader's Address to the Nation</title>
+    <desc lang="en">Opposition Leader Angus Taylor delivers an Address to the Nation in response to the Prime Minister's statement on the impacts of the fuel crisis and the Iran war. Plus Jade Macmillian brings you the latest news.</desc>
+    <category lang="en">News</category>
+    <episode-num system="xmltv_ns">2025.1.</episode-num>
+    <episode-num system="onscreen">S2026E2</episode-num>
   </programme>
-  <programme start="20260402073500 +0000" stop="20260402082000 +0000" channel="abcaustralia.unifitv">
-    <title lang="en">The Pacific</title>
-    <desc lang="en">The Pacific region is rich with culture, people and stories. Johnson Raela and Alice Lolohea bring you the stories that matter to the Pacific and the most up-to-date information, from journalists with deep regional expertise.</desc>
+  <programme start="20260402073500 +0000" stop="20260402080000 +0000" channel="abcaustralia.unifitv">
+    <title lang="en">The Pacific - Guam - America's War Shield</title>
+    <desc lang="en">Guam faces a massive U.S. military buildup aimed at deterring China, but the expansion is driving up costs, threatening ecosystems and raising questions about sovereignty for the island's Indigenous people.</desc>
     <category lang="en">Current Affairs</category>
     <episode-num system="xmltv_ns">2025.2.</episode-num>
     <episode-num system="onscreen">S2026E3</episode-num>
   </programme>
-  <programme start="20260402082000 +0000" stop="20260402112000 +0000" channel="abcaustralia.unifitv">
+  <programme start="20260402080000 +0000" stop="20260402082000 +0000" channel="abcaustralia.unifitv">
+    <title lang="en">Pacific Break Live from Samoa 2025: - Solo Set: Chris Rohoimae</title>
+    <desc lang="en">Pacific Break returns in 2025 with a special concert in Samoa.</desc>
+    <category lang="en">Entertainment</category>
+    <episode-num system="xmltv_ns">0.0.</episode-num>
+    <episode-num system="onscreen">S1E1</episode-num>
+  </programme>
+  <programme start="20260402082000 +0000" stop="20260402112500 +0000" channel="abcaustralia.unifitv">
     <title lang="en">AFL Premiership Season - Round 4 - Brisbane Lions v Collingwood</title>
     <desc lang="en">ABC Australia brings you Australian Rules football live in your lounge room every week with coverage of the 2026 AFL Premiership Season.</desc>
     <category lang="en">Sports</category>
     <episode-num system="xmltv_ns">2025.24.</episode-num>
     <episode-num system="onscreen">S2026E25</episode-num>
   </programme>
-  <programme start="20260402112000 +0000" stop="20260402130500 +0000" channel="abcaustralia.unifitv">
+  <programme start="20260402112500 +0000" stop="20260402130500 +0000" channel="abcaustralia.unifitv">
     <title lang="en">The Pool</title>
     <desc lang="en">Bondi Icebergs is the most photographed pool in the world. For nearly a century this spectacular 50 metre stretch of sparkling blue at the southern end of Bondi Beach has occupied a special corner in the hearts of millions._x000D_</desc>
     <category lang="en">Documentary</category>
@@ -13948,28 +13962,28 @@
   </programme>
   <programme start="20260402130500 +0000" stop="20260402132000 +0000" channel="abcaustralia.unifitv">
     <title lang="en">ABC Late News</title>
-    <desc lang="en">End your day with the latest on the day's top stories. ABC News has reporters across Australia and around the globe to uncover what's happening and why it matters. Presented by Jade Barker.</desc>
+    <desc lang="en">End your day with the latest on the day's top stories. ABC News has reporters across Australia and around the globe to uncover what's happening and why it matters. Presented by Michael Tetlow.</desc>
     <category lang="en">News</category>
     <episode-num system="xmltv_ns">2025.65.</episode-num>
     <episode-num system="onscreen">S2026E66</episode-num>
   </programme>
   <programme start="20260402132000 +0000" stop="20260402133500 +0000" channel="abcaustralia.unifitv">
     <title lang="en">The Business</title>
-    <desc lang="en">Australia's leading daily business and finance show, bringing you up to date on market moves, economic trends and the forces affecting consumers, investors, employees and businesses big and small. Presented by Alicia Barry.</desc>
+    <desc lang="en">As the Middle East conflict drags on, we explore how high the oil price could go. Plus calls grow for an immediate windfall tax on Australia gas exports.</desc>
     <category lang="en">Current Affairs</category>
     <episode-num system="xmltv_ns">2025.35.</episode-num>
     <episode-num system="onscreen">S2026E36</episode-num>
   </programme>
   <programme start="20260402133500 +0000" stop="20260402140500 +0000" channel="abcaustralia.unifitv">
-    <title lang="en">7.3</title>
-    <desc lang="en">Sarah Ferguson presents Australia's premier daily current affairs program, delivering agenda-setting public affairs journalism and interviews that hold the powerful to account. Plus political analysis from Jacob Greber.</desc>
+    <title lang="en">7.30</title>
+    <desc lang="en">Donald Trump promises the end of the Iran war is near. Fears food prices will go up due to the rising cost of fuel and fertiliser. Plus victims say the COVID vaccine injury scheme is making their lives worse.</desc>
     <category lang="en">Current Affairs</category>
     <episode-num system="xmltv_ns">2025.51.</episode-num>
     <episode-num system="onscreen">S2026E52</episode-num>
   </programme>
   <programme start="20260402140500 +0000" stop="20260402150500 +0000" channel="abcaustralia.unifitv">
     <title lang="en">The World</title>
-    <desc lang="en">There's never been a more important time to stay in touch with what's happening in our world. Girish Sawlani presents the latest international news from ABC News correspondents as well as interviews with experts and guests.</desc>
+    <desc lang="en">Girish Sawlani presents the latest world news: Iran launches missiles at Israel after Trump's speech touting 'swift, overwhelming' victories, plus Australia and NZ assess helping Pacific nations amid the global energy crisis.</desc>
     <category lang="en">News</category>
     <episode-num system="xmltv_ns">2025.51.</episode-num>
     <episode-num system="onscreen">S2026E52</episode-num>
