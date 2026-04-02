@@ -40,13 +40,16 @@
 <programme start="20260402070000 +0000" stop="20260402073000 +0000" channel="ABC Australia.mncvision">
     <title>A Bite To Eat With Alice</title>
 </programme>
-<programme start="20260402073000 +0000" stop="20260402081500 +0000" channel="ABC Australia.mncvision">
+<programme start="20260402073000 +0000" stop="20260402075500 +0000" channel="ABC Australia.mncvision">
     <title>The Pacific</title>
 </programme>
-<programme start="20260402081500 +0000" stop="20260402111500 +0000" channel="ABC Australia.mncvision">
+<programme start="20260402075500 +0000" stop="20260402081500 +0000" channel="ABC Australia.mncvision">
+    <title>Pacific Break Live From Samoa</title>
+</programme>
+<programme start="20260402081500 +0000" stop="20260402112000 +0000" channel="ABC Australia.mncvision">
     <title>AFL: Lions Vs Collingwood</title>
 </programme>
-<programme start="20260402111500 +0000" stop="20260402130000 +0000" channel="ABC Australia.mncvision">
+<programme start="20260402112000 +0000" stop="20260402130000 +0000" channel="ABC Australia.mncvision">
     <title>The Pool</title>
 </programme>
 <programme start="20260402130000 +0000" stop="20260402131500 +0000" channel="ABC Australia.mncvision">
@@ -4157,57 +4160,6 @@
     <title>Radio</title>
 </programme>
 <programme start="20260402160000 +0000" stop="20260402163000 +0000" channel="GTV.mncvision">
-    <title>Kisah Viral</title>
-</programme>
-<programme start="20260401170000 +0000" stop="20260401180000 +0000" channel="GTV HD.mncvision">
-    <title>Jelajah Mitos</title>
-</programme>
-<programme start="20260401180000 +0000" stop="20260401190000 +0000" channel="GTV HD.mncvision">
-    <title>Crime KV</title>
-</programme>
-<programme start="20260401190000 +0000" stop="20260401200000 +0000" channel="GTV HD.mncvision">
-    <title>Naik Enak Turun Ogah</title>
-</programme>
-<programme start="20260401200000 +0000" stop="20260401220000 +0000" channel="GTV HD.mncvision">
-    <title>Awas Ada Sule</title>
-</programme>
-<programme start="20260401220000 +0000" stop="20260401230000 +0000" channel="GTV HD.mncvision">
-    <title>Ragam Pagi</title>
-</programme>
-<programme start="20260401230000 +0000" stop="20260402010000 +0000" channel="GTV HD.mncvision">
-    <title>SpongeBob SquarePants</title>
-</programme>
-<programme start="20260402010000 +0000" stop="20260402020000 +0000" channel="GTV HD.mncvision">
-    <title>Obrolan Seputar Selebriti</title>
-</programme>
-<programme start="20260402020000 +0000" stop="20260402023000 +0000" channel="GTV HD.mncvision">
-    <title>Buletin iNews Pagi</title>
-</programme>
-<programme start="20260402023000 +0000" stop="20260402030000 +0000" channel="GTV HD.mncvision">
-    <title>CoComelon Dan Sahabat</title>
-</programme>
-<programme start="20260402030000 +0000" stop="20260402050000 +0000" channel="GTV HD.mncvision">
-    <title>SpongeBob SquarePants</title>
-</programme>
-<programme start="20260402050000 +0000" stop="20260402073000 +0000" channel="GTV HD.mncvision">
-    <title>SpongeBob SquarePants</title>
-</programme>
-<programme start="20260402073000 +0000" stop="20260402093000 +0000" channel="GTV HD.mncvision">
-    <title>SpongeBob SquarePants</title>
-</programme>
-<programme start="20260402093000 +0000" stop="20260402110000 +0000" channel="GTV HD.mncvision">
-    <title>SpongeBob SquarePants</title>
-</programme>
-<programme start="20260402110000 +0000" stop="20260402123000 +0000" channel="GTV HD.mncvision">
-    <title>New Family 100</title>
-</programme>
-<programme start="20260402123000 +0000" stop="20260402150000 +0000" channel="GTV HD.mncvision">
-    <title>Special Police &amp; Snake Revenge</title>
-</programme>
-<programme start="20260402150000 +0000" stop="20260402160000 +0000" channel="GTV HD.mncvision">
-    <title>Radio</title>
-</programme>
-<programme start="20260402160000 +0000" stop="20260402163000 +0000" channel="GTV HD.mncvision">
     <title>Kisah Viral</title>
 </programme>
 <programme start="20260401173000 +0000" stop="20260401180000 +0000" channel="Hanacaraka TV.mncvision">
@@ -9329,79 +9281,70 @@
     <title>Tazza: The Hidden Card</title>
 </programme>
 <programme start="20260401180000 +0000" stop="20260401190000 +0000" channel="tvOne.mncvision">
-    <title>tvOne</title>
+    <title>Breaking News</title>
 </programme>
-<programme start="20260401190000 +0000" stop="20260401193000 +0000" channel="tvOne.mncvision">
-    <title>tvOne</title>
-</programme>
-<programme start="20260401193000 +0000" stop="20260401200000 +0000" channel="tvOne.mncvision">
-    <title>tvOne</title>
+<programme start="20260401190000 +0000" stop="20260401200000 +0000" channel="tvOne.mncvision">
+    <title>Kabar Petang</title>
 </programme>
 <programme start="20260401200000 +0000" stop="20260401203000 +0000" channel="tvOne.mncvision">
-    <title>tvOne</title>
+    <title>Kabar Utama</title>
 </programme>
 <programme start="20260401203000 +0000" stop="20260401213000 +0000" channel="tvOne.mncvision">
-    <title>tvOne</title>
+    <title>Breaking News</title>
 </programme>
 <programme start="20260401213000 +0000" stop="20260401230000 +0000" channel="tvOne.mncvision">
-    <title>tvOne</title>
+    <title>Kabar Pagi (L)</title>
 </programme>
 <programme start="20260401230000 +0000" stop="20260401233000 +0000" channel="tvOne.mncvision">
-    <title>tvOne</title>
+    <title>Kabar Arena Pagi 2 (L)</title>
 </programme>
-<programme start="20260401233000 +0000" stop="20260402013000 +0000" channel="tvOne.mncvision">
-    <title>tvOne</title>
+<programme start="20260401233000 +0000" stop="20260402011500 +0000" channel="tvOne.mncvision">
+    <title>Apa Kabar Indonesia Pagi (L)</title>
 </programme>
-<programme start="20260402013000 +0000" stop="20260402020000 +0000" channel="tvOne.mncvision">
-    <title>tvOne</title>
+<programme start="20260402011500 +0000" stop="20260402013000 +0000" channel="tvOne.mncvision">
+    <title>Kabar Terkini</title>
 </programme>
-<programme start="20260402020000 +0000" stop="20260402023000 +0000" channel="tvOne.mncvision">
-    <title>tvOne</title>
+<programme start="20260402013000 +0000" stop="20260402023000 +0000" channel="tvOne.mncvision">
+    <title>Breaking News</title>
 </programme>
-<programme start="20260402023000 +0000" stop="20260402030000 +0000" channel="tvOne.mncvision">
-    <title>tvOne</title>
+<programme start="20260402023000 +0000" stop="20260402033000 +0000" channel="tvOne.mncvision">
+    <title>Pagi-Pagi Seru (L)</title>
 </programme>
-<programme start="20260402030000 +0000" stop="20260402040000 +0000" channel="tvOne.mncvision">
-    <title>tvOne</title>
+<programme start="20260402033000 +0000" stop="20260402040000 +0000" channel="tvOne.mncvision">
+    <title>Metropolitan (L)</title>
 </programme>
-<programme start="20260402040000 +0000" stop="20260402053000 +0000" channel="tvOne.mncvision">
-    <title>tvOne</title>
+<programme start="20260402040000 +0000" stop="20260402060000 +0000" channel="tvOne.mncvision">
+    <title>Kabar Siang (L)</title>
 </programme>
-<programme start="20260402053000 +0000" stop="20260402063000 +0000" channel="tvOne.mncvision">
-    <title>tvOne</title>
+<programme start="20260402060000 +0000" stop="20260402073000 +0000" channel="tvOne.mncvision">
+    <title>Apa Kabar Indonesia Siang (L)</title>
 </programme>
-<programme start="20260402063000 +0000" stop="20260402070000 +0000" channel="tvOne.mncvision">
-    <title>tvOne</title>
+<programme start="20260402073000 +0000" stop="20260402083000 +0000" channel="tvOne.mncvision">
+    <title>Kabar Merah Putih (L)</title>
 </programme>
-<programme start="20260402070000 +0000" stop="20260402073000 +0000" channel="tvOne.mncvision">
-    <title>tvOne</title>
+<programme start="20260402083000 +0000" stop="20260402090000 +0000" channel="tvOne.mncvision">
+    <title>Berita Utama Kriminal (L)</title>
 </programme>
-<programme start="20260402073000 +0000" stop="20260402090000 +0000" channel="tvOne.mncvision">
-    <title>tvOne</title>
-</programme>
-<programme start="20260402090000 +0000" stop="20260402104500 +0000" channel="tvOne.mncvision">
-    <title>tvOne</title>
-</programme>
-<programme start="20260402104500 +0000" stop="20260402110000 +0000" channel="tvOne.mncvision">
-    <title>tvOne</title>
+<programme start="20260402090000 +0000" stop="20260402110000 +0000" channel="tvOne.mncvision">
+    <title>Kabar Petang (L)</title>
 </programme>
 <programme start="20260402110000 +0000" stop="20260402130000 +0000" channel="tvOne.mncvision">
-    <title>tvOne</title>
+    <title>Apa Kabar Indonesia Malam (L)</title>
 </programme>
-<programme start="20260402130000 +0000" stop="20260402140000 +0000" channel="tvOne.mncvision">
-    <title>tvOne</title>
+<programme start="20260402130000 +0000" stop="20260402134500 +0000" channel="tvOne.mncvision">
+    <title>Dua Sisi</title>
+</programme>
+<programme start="20260402134500 +0000" stop="20260402140000 +0000" channel="tvOne.mncvision">
+    <title>Kabar Terkini</title>
 </programme>
 <programme start="20260402140000 +0000" stop="20260402150000 +0000" channel="tvOne.mncvision">
-    <title>tvOne</title>
+    <title>Kabar Utama 2 (L)</title>
 </programme>
 <programme start="20260402150000 +0000" stop="20260402160000 +0000" channel="tvOne.mncvision">
-    <title>tvOne</title>
+    <title>Kabar Hari Ini (L)</title>
 </programme>
 <programme start="20260402160000 +0000" stop="20260402163000 +0000" channel="tvOne.mncvision">
-    <title>tvOne</title>
-</programme>
-<programme start="20260402163000 +0000" stop="20260401170000 +0000" channel="tvOne.mncvision">
-    <title>tvOne</title>
+    <title>Breaking News</title>
 </programme>
 <programme start="20260401170000 +0000" stop="20260401190000 +0000" channel="TVRI.mncvision">
     <title>TVRI</title>

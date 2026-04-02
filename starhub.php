@@ -3985,8 +3985,8 @@
     <programme start="20260401195000 +0000" stop="20260401215000 +0000" channel="HBO HD.starhub">
         <title>American Beauty</title>
     </programme>
-    <programme start="20260401215000 +0000" stop="20260402000000 +0000" channel="HBO HD.starhub">
-        <title>The Wedding Singer</title>
+    <programme start="20260401233000 +0000" stop="20260402000000 +0000" channel="HBO HD.starhub">
+        <title>Hollywood On Set S1</title>
     </programme>
     <programme start="20260402000000 +0000" stop="20260402014500 +0000" channel="HBO HD.starhub">
         <title>What A Girl Wants</title>
@@ -7894,8 +7894,11 @@
     <programme start="20260401220000 +0000" stop="20260402010000 +0000" channel="ABC Australia HD.starhub">
         <title>ABC News Mornings (2026)</title>
     </programme>
-    <programme start="20260402010000 +0000" stop="20260402020000 +0000" channel="ABC Australia HD.starhub">
+    <programme start="20260402010000 +0000" stop="20260402013000 +0000" channel="ABC Australia HD.starhub">
         <title>ABC News At Noon (2026)</title>
+    </programme>
+    <programme start="20260402013000 +0000" stop="20260402020000 +0000" channel="ABC Australia HD.starhub">
+        <title>The Breakfast Couch (2026)</title>
     </programme>
     <programme start="20260402020000 +0000" stop="20260402033000 +0000" channel="ABC Australia HD.starhub">
         <title>The Pool</title>
@@ -7906,25 +7909,28 @@
     <programme start="20260402040500 +0000" stop="20260402043500 +0000" channel="ABC Australia HD.starhub">
         <title>Planet America (2026)</title>
     </programme>
-    <programme start="20260402043500 +0000" stop="20260402045500 +0000" channel="ABC Australia HD.starhub">
+    <programme start="20260402043500 +0000" stop="20260402045000 +0000" channel="ABC Australia HD.starhub">
         <title>Media Watch (2026)</title>
     </programme>
-    <programme start="20260402045500 +0000" stop="20260402060000 +0000" channel="ABC Australia HD.starhub">
-        <title>Dr Martin Parkinson and Violet Roumeliotis</title>
+    <programme start="20260402045000 +0000" stop="20260402060000 +0000" channel="ABC Australia HD.starhub">
+        <title>Anthony Albanese - Prime Minister</title>
     </programme>
     <programme start="20260402060000 +0000" stop="20260402070000 +0000" channel="ABC Australia HD.starhub">
         <title>ABC News with Joe O&#039;Brien (2026)</title>
     </programme>
     <programme start="20260402070000 +0000" stop="20260402073000 +0000" channel="ABC Australia HD.starhub">
-        <title>Pia Miranda</title>
+        <title>Opposition Leader&#039;s Address to the Nation</title>
     </programme>
-    <programme start="20260402073000 +0000" stop="20260402081500 +0000" channel="ABC Australia HD.starhub">
-        <title>The Pacific (2026)</title>
+    <programme start="20260402073000 +0000" stop="20260402075500 +0000" channel="ABC Australia HD.starhub">
+        <title>America&#039;s War Shield</title>
     </programme>
-    <programme start="20260402081500 +0000" stop="20260402111500 +0000" channel="ABC Australia HD.starhub">
+    <programme start="20260402075500 +0000" stop="20260402081500 +0000" channel="ABC Australia HD.starhub">
+        <title>Solo Set: Chris Rohoimae</title>
+    </programme>
+    <programme start="20260402081500 +0000" stop="20260402112000 +0000" channel="ABC Australia HD.starhub">
         <title>Round 4 - Brisbane Lions v Collingwood</title>
     </programme>
-    <programme start="20260402111500 +0000" stop="20260402130000 +0000" channel="ABC Australia HD.starhub">
+    <programme start="20260402112000 +0000" stop="20260402130000 +0000" channel="ABC Australia HD.starhub">
         <title>The Pool</title>
     </programme>
     <programme start="20260402130000 +0000" stop="20260402131500 +0000" channel="ABC Australia HD.starhub">

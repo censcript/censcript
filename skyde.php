@@ -3108,7 +3108,7 @@ Warning: Undefined array key "et" in /usr/home/ManusiaBiasa/domains/manusiabiasa
 <programme start="20260402210000 +0000" stop="20260402220000 +0000" channel="Sky Sport Premier League HD.skyde">
     <title>PL: PL Moments: Robert Pires</title>
 </programme>
-<programme start="20260402030000 +0000" stop="20260402050000 +0000" channel="Sky Sport Tennis HD.skyde">
+<programme start="20260402032500 +0000" stop="20260402050000 +0000" channel="Sky Sport Tennis HD.skyde">
     <title>ATP 250: Y. Hanfmann (GER) - K. Bennani (MAR), 3. Tag</title>
 </programme>
 <programme start="20260402050000 +0000" stop="20260402070000 +0000" channel="Sky Sport Tennis HD.skyde">
@@ -3181,6 +3181,9 @@ Warning: Undefined array key "et" in /usr/home/ManusiaBiasa/domains/manusiabiasa
     <title>F1: 2. Freies Training - GP Japan</title>
 </programme>
 <programme start="20260402183000 +0000" stop="20260402200000 +0000" channel="Sky Sport UHD.skyde">
+    <title>F1: 1. Freies Training - GP Japan</title>
+</programme>
+<programme start="20260402183000 +0000" stop="20260402200000 +0000" channel="Sky Sport UHD.skyde">
     <title>F1: Qualifying - GP Japan</title>
 </programme>
 <programme start="20260402183000 +0000" stop="20260402200000 +0000" channel="Sky Sport UHD.skyde">
@@ -3189,10 +3192,7 @@ Warning: Undefined array key "et" in /usr/home/ManusiaBiasa/domains/manusiabiasa
 <programme start="20260402200000 +0000" stop="20260402220000 +0000" channel="Sky Sport UHD.skyde">
     <title>F1: Rennen - GP Japan</title>
 </programme>
-<programme start="20260401224000 +0000" stop="20260401230000 +0000" channel="Sky Sport 1 HD.skyde">
-    <title>Es folgt: LIVE NBA</title>
-</programme>
-<programme start="20260401230000 +0000" stop="20260402080000 +0000" channel="Sky Sport 1 HD.skyde">
+<programme start="20260401230000 +0000" stop="20260402040000 +0000" channel="Sky Sport 1 HD.skyde">
     <title>Live NBA: Atlanta Hawks @ Orlando Magic</title>
 </programme>
 <programme start="20260401223500 +0000" stop="20260401232000 +0000" channel="SYFY HD.skyde">
