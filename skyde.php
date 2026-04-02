@@ -3126,10 +3126,10 @@ Warning: Undefined array key "et" in /usr/home/ManusiaBiasa/domains/manusiabiasa
 <programme start="20260402100000 +0000" stop="20260403030000 +0000" channel="Sky Sport Tennis HD.skyde">
     <title>Live ATP &amp; WTA: Die Topspiele des Tages</title>
 </programme>
-<programme start="20260401230000 +0000" stop="20260402013000 +0000" channel="Sky Sport Top Event HD.skyde">
+<programme start="20260401230000 +0000" stop="20260402014500 +0000" channel="Sky Sport Top Event HD.skyde">
     <title>Live NBA: Atlanta Hawks @ Orlando Magic</title>
 </programme>
-<programme start="20260402013000 +0000" stop="20260402033000 +0000" channel="Sky Sport Top Event HD.skyde">
+<programme start="20260402014500 +0000" stop="20260402033000 +0000" channel="Sky Sport Top Event HD.skyde">
     <title>Live NHL: Vancouver Canucks @ Colorado Avalanche</title>
 </programme>
 <programme start="20260402033000 +0000" stop="20260402040000 +0000" channel="Sky Sport Top Event HD.skyde">
@@ -3147,7 +3147,10 @@ Warning: Undefined array key "et" in /usr/home/ManusiaBiasa/domains/manusiabiasa
 <programme start="20260402090000 +0000" stop="20260402093000 +0000" channel="Sky Sport Top Event HD.skyde">
     <title>2. BL: Dein Zweitligatalk - HvK &amp; Tusche</title>
 </programme>
-<programme start="20260402093000 +0000" stop="20260402173000 +0000" channel="Sky Sport Top Event HD.skyde">
+<programme start="20260402093000 +0000" stop="20260402100000 +0000" channel="Sky Sport Top Event HD.skyde">
+    <title>ATP: This Week</title>
+</programme>
+<programme start="20260402100000 +0000" stop="20260402173000 +0000" channel="Sky Sport Top Event HD.skyde">
     <title>Live ATP &amp; WTA: Die Topspiele des Tages</title>
 </programme>
 <programme start="20260402173000 +0000" stop="20260402193000 +0000" channel="Sky Sport Top Event HD.skyde">
