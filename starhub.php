@@ -3826,20 +3826,14 @@
     <programme start="20260401230000 +0000" stop="20260401231500 +0000" channel="NHK World Premium HD.starhub">
         <title>Drama Serial &quot;The Scent of the Wind&quot; Ep. 4</title>
     </programme>
-    <programme start="20260401231500 +0000" stop="20260402005400 +0000" channel="NHK World Premium HD.starhub">
+    <programme start="20260401231500 +0000" stop="20260402005500 +0000" channel="NHK World Premium HD.starhub">
         <title>asaichi</title>
     </programme>
-    <programme start="20260402005400 +0000" stop="20260402005500 +0000" channel="NHK World Premium HD.starhub">
-        <title>World Weather</title>
+    <programme start="20260402005500 +0000" stop="20260402014000 +0000" channel="NHK World Premium HD.starhub">
+        <title>News (B)</title>
     </programme>
-    <programme start="20260402005500 +0000" stop="20260402010000 +0000" channel="NHK World Premium HD.starhub">
-        <title>Exercise for Everyone</title>
-    </programme>
-    <programme start="20260402010000 +0000" stop="20260402010500 +0000" channel="NHK World Premium HD.starhub">
-        <title>News &amp; Weather</title>
-    </programme>
-    <programme start="20260402010500 +0000" stop="20260402015000 +0000" channel="NHK World Premium HD.starhub">
-        <title>Hidden Doors! Exploring the Unknown World (New) (R)</title>
+    <programme start="20260402014000 +0000" stop="20260402015000 +0000" channel="NHK World Premium HD.starhub">
+        <title>Darwin&#039;s Amazing Animals 10min.</title>
     </programme>
     <programme start="20260402015000 +0000" stop="20260402021700 +0000" channel="NHK World Premium HD.starhub">
         <title>Today&#039;s Close-up (R)</title>
@@ -3946,8 +3940,11 @@
     <programme start="20260402120000 +0000" stop="20260402130000 +0000" channel="NHK World Premium HD.starhub">
         <title>News Watch 9 (B)</title>
     </programme>
-    <programme start="20260402130000 +0000" stop="20260402134500 +0000" channel="NHK World Premium HD.starhub">
+    <programme start="20260402130000 +0000" stop="20260402134300 +0000" channel="NHK World Premium HD.starhub">
         <title>Songs of Our Generation</title>
+    </programme>
+    <programme start="20260402134300 +0000" stop="20260402134500 +0000" channel="NHK World Premium HD.starhub">
+        <title>Mini Program</title>
     </programme>
     <programme start="20260402134500 +0000" stop="20260402140000 +0000" channel="NHK World Premium HD.starhub">
         <title>Night Drama Serial &quot;Radio Star&quot; Ep. 4</title>

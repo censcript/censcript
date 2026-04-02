@@ -4162,6 +4162,57 @@
 <programme start="20260402160000 +0000" stop="20260402163000 +0000" channel="GTV.mncvision">
     <title>Kisah Viral</title>
 </programme>
+<programme start="20260401170000 +0000" stop="20260401180000 +0000" channel="GTV HD.mncvision">
+    <title>Jelajah Mitos</title>
+</programme>
+<programme start="20260401180000 +0000" stop="20260401190000 +0000" channel="GTV HD.mncvision">
+    <title>Crime KV</title>
+</programme>
+<programme start="20260401190000 +0000" stop="20260401200000 +0000" channel="GTV HD.mncvision">
+    <title>Naik Enak Turun Ogah</title>
+</programme>
+<programme start="20260401200000 +0000" stop="20260401220000 +0000" channel="GTV HD.mncvision">
+    <title>Awas Ada Sule</title>
+</programme>
+<programme start="20260401220000 +0000" stop="20260401230000 +0000" channel="GTV HD.mncvision">
+    <title>Ragam Pagi</title>
+</programme>
+<programme start="20260401230000 +0000" stop="20260402010000 +0000" channel="GTV HD.mncvision">
+    <title>SpongeBob SquarePants</title>
+</programme>
+<programme start="20260402010000 +0000" stop="20260402020000 +0000" channel="GTV HD.mncvision">
+    <title>Obrolan Seputar Selebriti</title>
+</programme>
+<programme start="20260402020000 +0000" stop="20260402023000 +0000" channel="GTV HD.mncvision">
+    <title>Buletin iNews Pagi</title>
+</programme>
+<programme start="20260402023000 +0000" stop="20260402030000 +0000" channel="GTV HD.mncvision">
+    <title>CoComelon Dan Sahabat</title>
+</programme>
+<programme start="20260402030000 +0000" stop="20260402050000 +0000" channel="GTV HD.mncvision">
+    <title>SpongeBob SquarePants</title>
+</programme>
+<programme start="20260402050000 +0000" stop="20260402073000 +0000" channel="GTV HD.mncvision">
+    <title>SpongeBob SquarePants</title>
+</programme>
+<programme start="20260402073000 +0000" stop="20260402093000 +0000" channel="GTV HD.mncvision">
+    <title>SpongeBob SquarePants</title>
+</programme>
+<programme start="20260402093000 +0000" stop="20260402110000 +0000" channel="GTV HD.mncvision">
+    <title>SpongeBob SquarePants</title>
+</programme>
+<programme start="20260402110000 +0000" stop="20260402123000 +0000" channel="GTV HD.mncvision">
+    <title>New Family 100</title>
+</programme>
+<programme start="20260402123000 +0000" stop="20260402150000 +0000" channel="GTV HD.mncvision">
+    <title>Special Police &amp; Snake Revenge</title>
+</programme>
+<programme start="20260402150000 +0000" stop="20260402160000 +0000" channel="GTV HD.mncvision">
+    <title>Radio</title>
+</programme>
+<programme start="20260402160000 +0000" stop="20260402163000 +0000" channel="GTV HD.mncvision">
+    <title>Kisah Viral</title>
+</programme>
 <programme start="20260401173000 +0000" stop="20260401180000 +0000" channel="Hanacaraka TV.mncvision">
     <title>Dagelan Mbah Minto</title>
 </programme>
@@ -5963,7 +6014,7 @@
     <title>Upin &amp; Ipin</title>
 </programme>
 <programme start="20260402130000 +0000" stop="20260402160000 +0000" channel="MNCTV.mncvision">
-    <title>DMD Panggung Rezeki</title>
+    <title>DMD Panggung Rezeki (L)</title>
 </programme>
 <programme start="20260402160000 +0000" stop="20260402163000 +0000" channel="MNCTV.mncvision">
     <title>Suparman Reborn</title>
@@ -6011,7 +6062,7 @@
     <title>Upin &amp; Ipin</title>
 </programme>
 <programme start="20260402130000 +0000" stop="20260402160000 +0000" channel="MNCTV HD.mncvision">
-    <title>DMD Panggung Rezeki</title>
+    <title>DMD Panggung Rezeki (L)</title>
 </programme>
 <programme start="20260402160000 +0000" stop="20260402163000 +0000" channel="MNCTV HD.mncvision">
     <title>Suparman Reborn</title>

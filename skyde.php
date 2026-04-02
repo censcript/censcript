@@ -2559,10 +2559,10 @@ Warning: Undefined array key "et" in /usr/home/ManusiaBiasa/domains/manusiabiasa
 <programme start="20260402042500 +0000" stop="20260402045500 +0000" channel="Sky Sport Austria 1 HD.skyde">
     <title>Admiral BL: Torparade XXL (Runden 17-20)</title>
 </programme>
-<programme start="20260402045500 +0000" stop="20260402052500 +0000" channel="Sky Sport Austria 1 HD.skyde">
+<programme start="20260402045500 +0000" stop="20260402052000 +0000" channel="Sky Sport Austria 1 HD.skyde">
     <title>Admiral BL: Torparade XXL (Runden 21-24)</title>
 </programme>
-<programme start="20260402052500 +0000" stop="20260402064000 +0000" channel="Sky Sport Austria 1 HD.skyde">
+<programme start="20260402052000 +0000" stop="20260402064000 +0000" channel="Sky Sport Austria 1 HD.skyde">
     <title>Fußball: DAB - Der Audiobeweis</title>
 </programme>
 <programme start="20260402064000 +0000" stop="20260402070500 +0000" channel="Sky Sport Austria 1 HD.skyde">
@@ -2625,10 +2625,10 @@ Warning: Undefined array key "et" in /usr/home/ManusiaBiasa/domains/manusiabiasa
 <programme start="20260402153000 +0000" stop="20260402160000 +0000" channel="Sky Sport Austria 1 HD.skyde">
     <title>Admiral BL: 100% Sturm Graz (Runden 21-24)</title>
 </programme>
-<programme start="20260402160000 +0000" stop="20260402163000 +0000" channel="Sky Sport Austria 1 HD.skyde">
+<programme start="20260402160000 +0000" stop="20260402162500 +0000" channel="Sky Sport Austria 1 HD.skyde">
     <title>UEFA CL: Magazin</title>
 </programme>
-<programme start="20260402163000 +0000" stop="20260402174500 +0000" channel="Sky Sport Austria 1 HD.skyde">
+<programme start="20260402162500 +0000" stop="20260402174500 +0000" channel="Sky Sport Austria 1 HD.skyde">
     <title>Fußball: DAB - Der Audiobeweis</title>
 </programme>
 <programme start="20260402174500 +0000" stop="20260402181000 +0000" channel="Sky Sport Austria 1 HD.skyde">
@@ -3108,11 +3108,11 @@ Warning: Undefined array key "et" in /usr/home/ManusiaBiasa/domains/manusiabiasa
 <programme start="20260402210000 +0000" stop="20260402220000 +0000" channel="Sky Sport Premier League HD.skyde">
     <title>PL: PL Moments: Robert Pires</title>
 </programme>
-<programme start="20260402032500 +0000" stop="20260402050000 +0000" channel="Sky Sport Tennis HD.skyde">
+<programme start="20260402030000 +0000" stop="20260402050000 +0000" channel="Sky Sport Tennis HD.skyde">
     <title>ATP 250: Y. Hanfmann (GER) - K. Bennani (MAR), 3. Tag</title>
 </programme>
 <programme start="20260402050000 +0000" stop="20260402070000 +0000" channel="Sky Sport Tennis HD.skyde">
-    <title>WTA 500: M. Keys (USA) - D. Vekic (HRV), Credit One Charleston Open in Charleston (USA), 3. Tag</title>
+    <title>WTA 500: J. Pegula (USA) - Y. Putintseva (KAZ), Credit One Charleston Open in Charleston (USA), 3. Tag</title>
 </programme>
 <programme start="20260402070000 +0000" stop="20260402073000 +0000" channel="Sky Sport Tennis HD.skyde">
     <title>ATP: This Week</title>
@@ -3192,7 +3192,10 @@ Warning: Undefined array key "et" in /usr/home/ManusiaBiasa/domains/manusiabiasa
 <programme start="20260402200000 +0000" stop="20260402220000 +0000" channel="Sky Sport UHD.skyde">
     <title>F1: Rennen - GP Japan</title>
 </programme>
-<programme start="20260401230000 +0000" stop="20260402040000 +0000" channel="Sky Sport 1 HD.skyde">
+<programme start="20260401224000 +0000" stop="20260401230000 +0000" channel="Sky Sport 1 HD.skyde">
+    <title>Es folgt: LIVE NBA</title>
+</programme>
+<programme start="20260401230000 +0000" stop="20260402080000 +0000" channel="Sky Sport 1 HD.skyde">
     <title>Live NBA: Atlanta Hawks @ Orlando Magic</title>
 </programme>
 <programme start="20260401223500 +0000" stop="20260401232000 +0000" channel="SYFY HD.skyde">
