@@ -3112,7 +3112,7 @@ Warning: Undefined array key "et" in /usr/home/ManusiaBiasa/domains/manusiabiasa
     <title>ATP 250: Y. Hanfmann (GER) - K. Bennani (MAR), 3. Tag</title>
 </programme>
 <programme start="20260402050000 +0000" stop="20260402070000 +0000" channel="Sky Sport Tennis HD.skyde">
-    <title>WTA 500: J. Pegula (USA) - Y. Putintseva (KAZ), Credit One Charleston Open in Charleston (USA), 3. Tag</title>
+    <title>WTA 500: M. Keys (USA) - D. Vekic (HRV), Credit One Charleston Open in Charleston (USA), 3. Tag</title>
 </programme>
 <programme start="20260402070000 +0000" stop="20260402073000 +0000" channel="Sky Sport Tennis HD.skyde">
     <title>ATP: This Week</title>

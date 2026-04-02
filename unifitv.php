@@ -651,9 +651,11 @@
     <category lang="en">Drama</category>
   </programme>
   <programme start="20260401220200 +0000" stop="20260401230000 +0000" channel="tv1.unifitv">
-    <title lang="en">Fikrah</title>
-    <desc lang="en">Saksikan diskusi mengenai permasalahan dan isu-isu mengenai agama.</desc>
+    <title lang="en">Fikrah 2025</title>
+    <desc lang="en">Bersama pengacara dan tetamu undangan membincangkan isu-isu semasa.</desc>
     <category lang="en">Drama</category>
+    <episode-num system="xmltv_ns">0.16.</episode-num>
+    <episode-num system="onscreen">S1E17</episode-num>
   </programme>
   <programme start="20260401230000 +0000" stop="20260401234400 +0000" channel="tv1.unifitv">
     <title lang="en">BERITA PAGI</title>
@@ -675,22 +677,22 @@
     <desc lang="en">Berita Dunia</desc>
     <category lang="en">Drama</category>
   </programme>
-  <programme start="20260402020500 +0000" stop="20260402023700 +0000" channel="tv1.unifitv">
-    <title lang="en">Desapreneur Muda</title>
+  <programme start="20260402020500 +0000" stop="20260402023000 +0000" channel="tv1.unifitv">
+    <title lang="en">Desapreneur Muda (Ulangan)</title>
     <desc lang="en">Sebuah majalah travelog mendekati usahawan belia yang memilih kerjaya di desa atau kampung.</desc>
     <category lang="en">Drama</category>
     <episode-num system="xmltv_ns">0.10.</episode-num>
     <episode-num system="onscreen">S1E11</episode-num>
   </programme>
-  <programme start="20260402023700 +0000" stop="20260402030000 +0000" channel="tv1.unifitv">
+  <programme start="20260402023000 +0000" stop="20260402030000 +0000" channel="tv1.unifitv">
     <title lang="en">Solusi Alam</title>
-    <desc lang="en">Menampilkan hos Ah Fad, program ini mengetengahkan kelebihan herba sebagai rawatan alternatif dalam kehidupan moden sekarang.</desc>
+    <desc lang="en">Bersama pengacara mencari khazanah alam dan melihat khasiat dan impak tumbuhan semula jadi dalam dunia kesihatan moden.</desc>
     <category lang="en">Drama</category>
     <episode-num system="xmltv_ns">0.5.</episode-num>
     <episode-num system="onscreen">S1E6</episode-num>
   </programme>
   <programme start="20260402030000 +0000" stop="20260402033000 +0000" channel="tv1.unifitv">
-    <title lang="en">Bisikan Dari Kota Pusaka</title>
+    <title lang="en">Bisikan Dari Kota Pusaka (Ulangan)</title>
     <desc lang="en">Sebuah dokumentari sejarah yang memaparkan kisah sejarah kota-kota pusaka di Malaysia.</desc>
     <category lang="en">Drama</category>
     <episode-num system="xmltv_ns">0.3.</episode-num>
@@ -709,7 +711,7 @@
     <category lang="en">Drama</category>
   </programme>
   <programme start="20260402040500 +0000" stop="20260402050000 +0000" channel="tv1.unifitv">
-    <title lang="en">Orang Utan Jungle School</title>
+    <title lang="en">Orangutan Jungle School</title>
     <desc lang="en">Kisah-kisah menyentuh hati dari pusat penyelamatan orang utan terbesar di dunia, di mana para petugas penuh dedikasi membantu anak-anak orang utan menyesuaikan diri, membesar dan akhirnya kembali ke hutan.</desc>
     <category lang="en">Drama</category>
     <episode-num system="xmltv_ns">0.2.</episode-num>
@@ -722,17 +724,14 @@
   </programme>
   <programme start="20260402053000 +0000" stop="20260402063000 +0000" channel="tv1.unifitv">
     <title lang="en">Ketika Masa Terhenti</title>
-    <desc lang="en">Hairie, usahawan berjaya beristeri dua, diuji apabila kemalangan hingga koma. Isteri pertama, Hawa setia menjaga, manakala Haizie dibelenggu cemburu dan konflik. Selepas sedar, Hairie hilang ingatan dan tidak mengenali isteri serta anak-anaknya. Dalam masa sama, perniagaan keluarga disabotaj rakan sendiri. Mampukah ingatan Hairie kembali dan rumah tangganya pulih?
-Pelakon : Jue Aziz, Julia Ziegler, Arja Lee, Qazem Nor, Abby Nadzri, Laila Nasir, Farzana Latiff dan Nik Adam Adly.</desc>
+    <desc lang="en">Saksikan lakonan Jue Aziz, Julia Ziegler, Arja Lee, Qazem Nor, Abby Nadzri, Laila Nasir, Farzana Latiff dan Nik Adam Adly.</desc>
     <category lang="en">Drama</category>
     <episode-num system="xmltv_ns">0.9.</episode-num>
     <episode-num system="onscreen">S1E10</episode-num>
   </programme>
   <programme start="20260402063000 +0000" stop="20260402070000 +0000" channel="tv1.unifitv">
     <title lang="en">Kami Budak Flat</title>
-    <desc lang="en">Drama sitkom tentang kehidupan remaja di sebuah flat yang berdepan pelbagai isu, namun turut membantu menyelesaikan masalah penduduk melalui Lepak Horizon,
-ruang komuniti anjuran NGO tempatan.
-Pelakon : Syamim Razi, Afea Deanna, Kimberly Chuah, Robin Micheal, Chew Kim Wah, Razali Ridzuan, Yem, Khairol Anuar, Shahrul Izlan, Fazira Syafinaz, Wahid Senario</desc>
+    <desc lang="en">Drama sitcom kehidupan remaja di sebuah flat yang menimbulkan pelbagai isu dan masalah namun mereka juga penyumbang idea dan membantu menyelesaikan masalah di kalangan penduduk flat. Di flat itu juga diadakan kawasan lepak yang dinamakan Lepak Horizon yang ditubuhkan oleh NGO setempat.</desc>
     <category lang="en">Drama</category>
     <episode-num system="xmltv_ns">0.9.</episode-num>
     <episode-num system="onscreen">S1E10</episode-num>
@@ -743,9 +742,11 @@ Pelakon : Syamim Razi, Afea Deanna, Kimberly Chuah, Robin Micheal, Chew Kim Wah,
     <category lang="en">Drama</category>
   </programme>
   <programme start="20260402070500 +0000" stop="20260402080000 +0000" channel="tv1.unifitv">
-    <title lang="en">Diari Rawat</title>
+    <title lang="en">Diari Rawat 2026</title>
     <desc lang="en">Saksikan perbincangan bersama pakar kesihatan dengan isu-isu kesihatan terkini dalam Diari Rawat.</desc>
     <category lang="en">Drama</category>
+    <episode-num system="xmltv_ns">0.0.</episode-num>
+    <episode-num system="onscreen">S1E1</episode-num>
   </programme>
   <programme start="20260402080000 +0000" stop="20260402080500 +0000" channel="tv1.unifitv">
     <title lang="en">LIVE : BERITA SEMASA</title>
@@ -753,16 +754,18 @@ Pelakon : Syamim Razi, Afea Deanna, Kimberly Chuah, Robin Micheal, Chew Kim Wah,
     <category lang="en">Drama</category>
   </programme>
   <programme start="20260402080500 +0000" stop="20260402083000 +0000" channel="tv1.unifitv">
-    <title lang="en">Redah</title>
+    <title lang="en">Redah (Ulangan)</title>
     <desc lang="en">Redah membawa anda menyelusuri perjalanan survival yang dialami oleh mangsa sesebuah keadaan atau situasi dan bagaimana untuk mencari jalan keluar dari situasi tersebut.</desc>
     <category lang="en">Drama</category>
     <episode-num system="xmltv_ns">0.13.</episode-num>
     <episode-num system="onscreen">S1E14</episode-num>
   </programme>
   <programme start="20260402083000 +0000" stop="20260402090000 +0000" channel="tv1.unifitv">
-    <title lang="en">BIZ MALAYSIA</title>
+    <title lang="en">Biz Malaysia 2026</title>
     <desc lang="en">Saksikan perkembangan terkini dunia ekonomi Malaysia dalam Biz Malaysia.</desc>
     <category lang="en">Drama</category>
+    <episode-num system="xmltv_ns">0.17.</episode-num>
+    <episode-num system="onscreen">S1E18</episode-num>
   </programme>
   <programme start="20260402090000 +0000" stop="20260402100000 +0000" channel="tv1.unifitv">
     <title lang="en">BERITA WILAYAH</title>
@@ -770,9 +773,11 @@ Pelakon : Syamim Razi, Afea Deanna, Kimberly Chuah, Robin Micheal, Chew Kim Wah,
     <category lang="en">Drama</category>
   </programme>
   <programme start="20260402100000 +0000" stop="20260402104500 +0000" channel="tv1.unifitv">
-    <title lang="en">Usrati Jannati</title>
+    <title lang="en">Usrati Jannati 2025</title>
     <desc lang="en">Kupasan tajuk menarik bersama pengacara dan tetamu undangan.</desc>
     <category lang="en">Drama</category>
+    <episode-num system="xmltv_ns">0.19.</episode-num>
+    <episode-num system="onscreen">S1E20</episode-num>
   </programme>
   <programme start="20260402104500 +0000" stop="20260402114400 +0000" channel="tv1.unifitv">
     <title lang="en">Aku Pilih Bahagia</title>
@@ -797,8 +802,8 @@ Pelakon : Syamim Razi, Afea Deanna, Kimberly Chuah, Robin Micheal, Chew Kim Wah,
     <category lang="en">Drama</category>
   </programme>
   <programme start="20260402130000 +0000" stop="20260402140000 +0000" channel="tv1.unifitv">
-    <title lang="en">Siaran Langsung : Forum Perdana Ehwal Islam</title>
-    <desc lang="en">Forum bersama tetamu jemputan membincangkan isu-isu berkaitan syariat Islam.</desc>
+    <title lang="en">LIVE : FORUM PERDANA EHWAL ISLAM</title>
+    <desc lang="en">Ikuti perbincangan mengenai permasalahan berkaitan agama dan isu semasa.</desc>
     <category lang="en">Drama</category>
   </programme>
   <programme start="20260402140000 +0000" stop="20260402141500 +0000" channel="tv1.unifitv">
@@ -812,17 +817,15 @@ Pelakon : Syamim Razi, Afea Deanna, Kimberly Chuah, Robin Micheal, Chew Kim Wah,
     <category lang="en">Drama</category>
   </programme>
   <programme start="20260402143000 +0000" stop="20260402153000 +0000" channel="tv1.unifitv">
-    <title lang="en">Cinta Nasi Ambang Siri 2</title>
-    <desc lang="en">Dilema percintaan Hani antara Adam dan Remy, konflik keluarga, serta persaingan masakan.
-Pelakon : Cristina Suzanne Stockstill, Erwin Dawson, Alif Hadi, Elfira Loy, Liza Abdullah</desc>
+    <title lang="en">Tasbih Rindu</title>
+    <desc lang="en">Drama lakonan Shah Jaszle, Mardiana Alwi, Hafidzuddin Fazil, Hendon Faeizah, Josiah Hogan, Fieyna Tajudin.</desc>
     <category lang="en">Drama</category>
-    <episode-num system="xmltv_ns">1.1.</episode-num>
-    <episode-num system="onscreen">S2E2</episode-num>
+    <episode-num system="xmltv_ns">0.1.</episode-num>
+    <episode-num system="onscreen">S1E2</episode-num>
   </programme>
   <programme start="20260402153000 +0000" stop="20260402160000 +0000" channel="tv1.unifitv">
-    <title lang="en">Voice From The Roof Of The World</title>
-    <desc lang="en">Sebuah program dokumentari berbahasa Inggeris yang mengupas isu alam sekitar di
-kawasan pergunungan tertinggi dunia, dari Banjaran Himalaya hingga Tian Shan. Ia menyorot konflik akibat aktiviti manusia serta keperluan kesedaran ke arah penyelesaian mampan.</desc>
+    <title lang="en">Voices From The Roof Of The World</title>
+    <desc lang="en">Sebuah program dokumentari berbahasa Inggeris yang mengupas isu alam sekitar di kawasan pergunungan tertinggi dunia, dari Banjaran Himalaya hingga Tian Shan. Ia menyorot konflik akibat aktiviti manusia serta keperluan kesedaran ke arah penyelesaian mampan.</desc>
     <category lang="en">Drama</category>
     <episode-num system="xmltv_ns">0.20.</episode-num>
     <episode-num system="onscreen">S1E21</episode-num>
