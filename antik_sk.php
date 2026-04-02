@@ -4168,93 +4168,6 @@
   <programme start="20260404212000 +0000" stop="20260404233500 +0000" channel="Seznam.cz TV.webtv.sk">
     <title lang="id">Vraždy podle Jidáše</title>
   </programme>
-  <programme start="20260403203000 +0000" stop="20260403221500 +0000" channel="Barrandov.webtv.sk">
-    <title lang="id">Tajemné doteky (4)</title>
-  </programme>
-  <programme start="20260403221500 +0000" stop="20260403231500 +0000" channel="Barrandov.webtv.sk">
-    <title lang="id">SeXoňa</title>
-  </programme>
-  <programme start="20260403231500 +0000" stop="20260403232500 +0000" channel="Barrandov.webtv.sk">
-    <title lang="id">Naše zprávy</title>
-  </programme>
-  <programme start="20260403232500 +0000" stop="20260403233500 +0000" channel="Barrandov.webtv.sk">
-    <title lang="id">VIP svět</title>
-  </programme>
-  <programme start="20260403233500 +0000" stop="20260404005500 +0000" channel="Barrandov.webtv.sk">
-    <title lang="id">Exkluziv!</title>
-  </programme>
-  <programme start="20260404005500 +0000" stop="20260404012000 +0000" channel="Barrandov.webtv.sk">
-    <title lang="id">Na plac!</title>
-  </programme>
-  <programme start="20260404012000 +0000" stop="20260404022500 +0000" channel="Barrandov.webtv.sk">
-    <title lang="id">Ostříháno</title>
-  </programme>
-  <programme start="20260404022500 +0000" stop="20260404035500 +0000" channel="Barrandov.webtv.sk">
-    <title lang="id">Nebezpečné vztahy</title>
-  </programme>
-  <programme start="20260404035500 +0000" stop="20260404040500 +0000" channel="Barrandov.webtv.sk">
-    <title lang="id">Co bude dnes k večeři?</title>
-  </programme>
-  <programme start="20260404040500 +0000" stop="20260404050000 +0000" channel="Barrandov.webtv.sk">
-    <title lang="id">Nebezpečné vztahy live</title>
-  </programme>
-  <programme start="20260404050000 +0000" stop="20260404060000 +0000" channel="Barrandov.webtv.sk">
-    <title lang="id">Nebezpečné vztahy</title>
-  </programme>
-  <programme start="20260404060000 +0000" stop="20260404073000 +0000" channel="Barrandov.webtv.sk">
-    <title lang="id">Jak to dopadlo!?</title>
-  </programme>
-  <programme start="20260404073000 +0000" stop="20260404083500 +0000" channel="Barrandov.webtv.sk">
-    <title lang="id">Klenot TV</title>
-  </programme>
-  <programme start="20260404083500 +0000" stop="20260404093000 +0000" channel="Barrandov.webtv.sk">
-    <title lang="id">Babica vs. Sapík</title>
-  </programme>
-  <programme start="20260404093000 +0000" stop="20260404095000 +0000" channel="Barrandov.webtv.sk">
-    <title lang="id">Co bude dnes k večeři?</title>
-  </programme>
-  <programme start="20260404095000 +0000" stop="20260404102000 +0000" channel="Barrandov.webtv.sk">
-    <title lang="id">Kašpárku, vař!</title>
-  </programme>
-  <programme start="20260404102000 +0000" stop="20260404111500 +0000" channel="Barrandov.webtv.sk">
-    <title lang="id">Filmové šlágry</title>
-  </programme>
-  <programme start="20260404111500 +0000" stop="20260404130500 +0000" channel="Barrandov.webtv.sk">
-    <title lang="id">Katie Fforde: Láska na vysočině I (1)</title>
-  </programme>
-  <programme start="20260404130500 +0000" stop="20260404140500 +0000" channel="Barrandov.webtv.sk">
-    <title lang="id">Nebezpečné vztahy</title>
-  </programme>
-  <programme start="20260404140500 +0000" stop="20260404152000 +0000" channel="Barrandov.webtv.sk">
-    <title lang="id">Vím, že nic nevím</title>
-  </programme>
-  <programme start="20260404152000 +0000" stop="20260404161000 +0000" channel="Barrandov.webtv.sk">
-    <title lang="id">Babica vs. Sapík</title>
-  </programme>
-  <programme start="20260404161000 +0000" stop="20260404164500 +0000" channel="Barrandov.webtv.sk">
-    <title lang="id">Vaříme s Jirkou Babicou</title>
-  </programme>
-  <programme start="20260404164500 +0000" stop="20260404165500 +0000" channel="Barrandov.webtv.sk">
-    <title lang="id">Naše zprávy</title>
-  </programme>
-  <programme start="20260404165500 +0000" stop="20260404175500 +0000" channel="Barrandov.webtv.sk">
-    <title lang="id">Nebezpečné vztahy</title>
-  </programme>
-  <programme start="20260404175500 +0000" stop="20260404180500 +0000" channel="Barrandov.webtv.sk">
-    <title lang="id">VIP svět</title>
-  </programme>
-  <programme start="20260404180500 +0000" stop="20260404191000 +0000" channel="Barrandov.webtv.sk">
-    <title lang="id">Sejdeme se na Cibulce</title>
-  </programme>
-  <programme start="20260404191000 +0000" stop="20260404203500 +0000" channel="Barrandov.webtv.sk">
-    <title lang="id">Sejdeme se na Cibulce</title>
-  </programme>
-  <programme start="20260404203500 +0000" stop="20260404213000 +0000" channel="Barrandov.webtv.sk">
-    <title lang="id">SeXoňa</title>
-  </programme>
-  <programme start="20260404213000 +0000" stop="20260404231500 +0000" channel="Barrandov.webtv.sk">
-    <title lang="id">Tajemné doteky (4)</title>
-  </programme>
   <programme start="20260403212000 +0000" stop="20260403230500 +0000" channel="Kino Barrandov.webtv.sk">
     <title lang="id">To byl náš hit</title>
   </programme>
@@ -5139,6 +5052,39 @@
   </programme>
   <programme start="20260404204500 +0000" stop="20260404224500 +0000" channel="Sport 1.webtv.sk">
     <title lang="id">Tenis</title>
+  </programme>
+  <programme start="20260403220000 +0000" stop="20260404000000 +0000" channel="Sport 2.webtv.sk">
+    <title lang="id">Tenis</title>
+  </programme>
+  <programme start="20260404000000 +0000" stop="20260404040000 +0000" channel="Sport 2.webtv.sk">
+    <title lang="id">Šipky</title>
+  </programme>
+  <programme start="20260404040000 +0000" stop="20260404041500 +0000" channel="Sport 2.webtv.sk">
+    <title lang="id">Fotbal, Made in Italy, Darko Lazović</title>
+  </programme>
+  <programme start="20260404041500 +0000" stop="20260404061500 +0000" channel="Sport 2.webtv.sk">
+    <title lang="id">Fotbal</title>
+  </programme>
+  <programme start="20260404061500 +0000" stop="20260404071500 +0000" channel="Sport 2.webtv.sk">
+    <title lang="id">Poker</title>
+  </programme>
+  <programme start="20260404071500 +0000" stop="20260404100000 +0000" channel="Sport 2.webtv.sk">
+    <title lang="id">Fotbal</title>
+  </programme>
+  <programme start="20260404100000 +0000" stop="20260404110000 +0000" channel="Sport 2.webtv.sk">
+    <title lang="id">Poker</title>
+  </programme>
+  <programme start="20260404110000 +0000" stop="20260404150000 +0000" channel="Sport 2.webtv.sk">
+    <title lang="id">Šipky</title>
+  </programme>
+  <programme start="20260404150000 +0000" stop="20260404170000 +0000" channel="Sport 2.webtv.sk">
+    <title lang="id">Lední hokej</title>
+  </programme>
+  <programme start="20260404170000 +0000" stop="20260404210000 +0000" channel="Sport 2.webtv.sk">
+    <title lang="id">Šipky</title>
+  </programme>
+  <programme start="20260404210000 +0000" stop="20260404230000 +0000" channel="Sport 2.webtv.sk">
+    <title lang="id">Lední hokej</title>
   </programme>
   <programme start="20260403214500 +0000" stop="20260403221500 +0000" channel="Auto Motor und Sport.webtv.sk">
     <title lang="id">100 mil</title>
@@ -9321,6 +9267,150 @@
   </programme>
   <programme start="20260404213000 +0000" stop="20260404220000 +0000" channel="FashionBox.webtv.sk">
     <title lang="id">Swim Week 2023 (18)</title>
+  </programme>
+  <programme start="20260403220000 +0000" stop="20260403223000 +0000" channel="Fast and Funbox.webtv.sk">
+    <title lang="id">Kite Masters 2019 (10)</title>
+  </programme>
+  <programme start="20260403223000 +0000" stop="20260403230000 +0000" channel="Fast and Funbox.webtv.sk">
+    <title lang="id">Kite Masters 2019 (11)</title>
+  </programme>
+  <programme start="20260403230000 +0000" stop="20260403233000 +0000" channel="Fast and Funbox.webtv.sk">
+    <title lang="id">Fia Pure Motorsport 2022 I (9)</title>
+  </programme>
+  <programme start="20260403233000 +0000" stop="20260404000000 +0000" channel="Fast and Funbox.webtv.sk">
+    <title lang="id">Fia Pure Motorsport 2022 (10)</title>
+  </programme>
+  <programme start="20260404000000 +0000" stop="20260404003000 +0000" channel="Fast and Funbox.webtv.sk">
+    <title lang="id">Wild Spirits H20, Ep 3 I (3)</title>
+  </programme>
+  <programme start="20260404003000 +0000" stop="20260404010000 +0000" channel="Fast and Funbox.webtv.sk">
+    <title lang="id">Wild Spirits H20, Ep 4 I (4)</title>
+  </programme>
+  <programme start="20260404010000 +0000" stop="20260404013000 +0000" channel="Fast and Funbox.webtv.sk">
+    <title lang="id">Better Than Four 2016, Ep 13 I (13)</title>
+  </programme>
+  <programme start="20260404013000 +0000" stop="20260404020000 +0000" channel="Fast and Funbox.webtv.sk">
+    <title lang="id">Better Than Four 2016, Ep 14 I (14)</title>
+  </programme>
+  <programme start="20260404020000 +0000" stop="20260404023000 +0000" channel="Fast and Funbox.webtv.sk">
+    <title lang="id">Autospeed 2022, (20)</title>
+  </programme>
+  <programme start="20260404023000 +0000" stop="20260404030000 +0000" channel="Fast and Funbox.webtv.sk">
+    <title lang="id">Autospeed 2022, (21)</title>
+  </programme>
+  <programme start="20260404030000 +0000" stop="20260404033000 +0000" channel="Fast and Funbox.webtv.sk">
+    <title lang="id">Inside Sailing 2021 (11)</title>
+  </programme>
+  <programme start="20260404033000 +0000" stop="20260404040000 +0000" channel="Fast and Funbox.webtv.sk">
+    <title lang="id">Inside Sailing 2021 (12)</title>
+  </programme>
+  <programme start="20260404040000 +0000" stop="20260404043000 +0000" channel="Fast and Funbox.webtv.sk">
+    <title lang="id">Cape Epic 2019 I (8)</title>
+  </programme>
+  <programme start="20260404043000 +0000" stop="20260404050000 +0000" channel="Fast and Funbox.webtv.sk">
+    <title lang="id">Cape Epic 2019 I (9)</title>
+  </programme>
+  <programme start="20260404050000 +0000" stop="20260404053000 +0000" channel="Fast and Funbox.webtv.sk">
+    <title lang="id">Fia Pure Motorsport 2022 I (8)</title>
+  </programme>
+  <programme start="20260404053000 +0000" stop="20260404060000 +0000" channel="Fast and Funbox.webtv.sk">
+    <title lang="id">Fia Pure Motorsport 2022 I (9)</title>
+  </programme>
+  <programme start="20260404060000 +0000" stop="20260404063000 +0000" channel="Fast and Funbox.webtv.sk">
+    <title lang="id">Speed Catamarans Gc32 2019 I (2)</title>
+  </programme>
+  <programme start="20260404063000 +0000" stop="20260404070000 +0000" channel="Fast and Funbox.webtv.sk">
+    <title lang="id">Speed Catamarans Gc32 2019 I (3)</title>
+  </programme>
+  <programme start="20260404070000 +0000" stop="20260404073000 +0000" channel="Fast and Funbox.webtv.sk">
+    <title lang="id">Kite Masters 2019 (10)</title>
+  </programme>
+  <programme start="20260404073000 +0000" stop="20260404080000 +0000" channel="Fast and Funbox.webtv.sk">
+    <title lang="id">Kite Masters 2019 (11)</title>
+  </programme>
+  <programme start="20260404080000 +0000" stop="20260404083000 +0000" channel="Fast and Funbox.webtv.sk">
+    <title lang="id">Autospeed 2022, (21)</title>
+  </programme>
+  <programme start="20260404083000 +0000" stop="20260404090000 +0000" channel="Fast and Funbox.webtv.sk">
+    <title lang="id">Autospeed 2022, (22)</title>
+  </programme>
+  <programme start="20260404090000 +0000" stop="20260404093000 +0000" channel="Fast and Funbox.webtv.sk">
+    <title lang="id">Inside Sailing 2021 (11)</title>
+  </programme>
+  <programme start="20260404093000 +0000" stop="20260404100000 +0000" channel="Fast and Funbox.webtv.sk">
+    <title lang="id">Inside Sailing 2021 (12)</title>
+  </programme>
+  <programme start="20260404100000 +0000" stop="20260404103000 +0000" channel="Fast and Funbox.webtv.sk">
+    <title lang="id">Cape Epic 2019 I (8)</title>
+  </programme>
+  <programme start="20260404103000 +0000" stop="20260404110000 +0000" channel="Fast and Funbox.webtv.sk">
+    <title lang="id">Cape Epic 2019 I (9)</title>
+  </programme>
+  <programme start="20260404110000 +0000" stop="20260404113000 +0000" channel="Fast and Funbox.webtv.sk">
+    <title lang="id">Fia Pure Motorsport 2022 I (9)</title>
+  </programme>
+  <programme start="20260404113000 +0000" stop="20260404120000 +0000" channel="Fast and Funbox.webtv.sk">
+    <title lang="id">Fia Pure Motorsport 2022 (10)</title>
+  </programme>
+  <programme start="20260404120000 +0000" stop="20260404123000 +0000" channel="Fast and Funbox.webtv.sk">
+    <title lang="id">Boat Show 4K VII (6)</title>
+  </programme>
+  <programme start="20260404123000 +0000" stop="20260404130000 +0000" channel="Fast and Funbox.webtv.sk">
+    <title lang="id">Boat Show 4K VII (7)</title>
+  </programme>
+  <programme start="20260404130000 +0000" stop="20260404133000 +0000" channel="Fast and Funbox.webtv.sk">
+    <title lang="id">Fia Pure Motorsport 2022 (10)</title>
+  </programme>
+  <programme start="20260404133000 +0000" stop="20260404140000 +0000" channel="Fast and Funbox.webtv.sk">
+    <title lang="id">Fia Pure Motorsport 2022 (11)</title>
+  </programme>
+  <programme start="20260404140000 +0000" stop="20260404143000 +0000" channel="Fast and Funbox.webtv.sk">
+    <title lang="id">Racemax Motorsports, (28)</title>
+  </programme>
+  <programme start="20260404143000 +0000" stop="20260404150000 +0000" channel="Fast and Funbox.webtv.sk">
+    <title lang="id">Racemax Motorsports, (29)</title>
+  </programme>
+  <programme start="20260404150000 +0000" stop="20260404153000 +0000" channel="Fast and Funbox.webtv.sk">
+    <title lang="id">Rolex New York Yacht Club Invitational Cup, Ep 1 I (1)</title>
+  </programme>
+  <programme start="20260404153000 +0000" stop="20260404160000 +0000" channel="Fast and Funbox.webtv.sk">
+    <title lang="id">Rolex New York Yacht Club Invitational Cup, Ep 2 I (2)</title>
+  </programme>
+  <programme start="20260404160000 +0000" stop="20260404163000 +0000" channel="Fast and Funbox.webtv.sk">
+    <title lang="id">World Of Freesports 2021, (49)</title>
+  </programme>
+  <programme start="20260404163000 +0000" stop="20260404170000 +0000" channel="Fast and Funbox.webtv.sk">
+    <title lang="id">World Of Freesports 2021, (50)</title>
+  </programme>
+  <programme start="20260404170000 +0000" stop="20260404173000 +0000" channel="Fast and Funbox.webtv.sk">
+    <title lang="id">Hispania Rally 2020</title>
+  </programme>
+  <programme start="20260404173000 +0000" stop="20260404180000 +0000" channel="Fast and Funbox.webtv.sk">
+    <title lang="id">Panafrica Rally 2019 #1</title>
+  </programme>
+  <programme start="20260404180000 +0000" stop="20260404183000 +0000" channel="Fast and Funbox.webtv.sk">
+    <title lang="id">Sailing to Tokyo 2019 (11)</title>
+  </programme>
+  <programme start="20260404183000 +0000" stop="20260404190000 +0000" channel="Fast and Funbox.webtv.sk">
+    <title lang="id">Sailing to Tokyo 2019 (12)</title>
+  </programme>
+  <programme start="20260404190000 +0000" stop="20260404194500 +0000" channel="Fast and Funbox.webtv.sk">
+    <title lang="id">Sports Max (15)</title>
+  </programme>
+  <programme start="20260404194500 +0000" stop="20260404200000 +0000" channel="Fast and Funbox.webtv.sk">
+    <title lang="id">Salomon/ Paragliding/Andalucia</title>
+  </programme>
+  <programme start="20260404200000 +0000" stop="20260404203000 +0000" channel="Fast and Funbox.webtv.sk">
+    <title lang="id">Gp Racing 2022, (27)</title>
+  </programme>
+  <programme start="20260404203000 +0000" stop="20260404210000 +0000" channel="Fast and Funbox.webtv.sk">
+    <title lang="id">Gp Racing 2022, (28)</title>
+  </programme>
+  <programme start="20260404210000 +0000" stop="20260404213000 +0000" channel="Fast and Funbox.webtv.sk">
+    <title lang="id">Wild Spirits H20, Ep 3 I (3)</title>
+  </programme>
+  <programme start="20260404213000 +0000" stop="20260404220000 +0000" channel="Fast and Funbox.webtv.sk">
+    <title lang="id">Wild Spirits H20, Ep 4 I (4)</title>
   </programme>
   <programme start="20260403220000 +0000" stop="20260403223000 +0000" channel="DocuBox.webtv.sk">
     <title lang="id">Everyday Elements I (1)</title>
@@ -16569,120 +16659,6 @@
   </programme>
   <programme start="20260404215000 +0000" stop="20260404224000 +0000" channel="TVP Polonia.webtv.sk">
     <title lang="id">Laskowik &amp; Malicki Niedziela Wieczór (4)</title>
-  </programme>
-  <programme start="20260403210100 +0000" stop="20260403223000 +0000" channel="UA TV.webtv.sk">
-    <title lang="id">Інформаційні сюжети</title>
-  </programme>
-  <programme start="20260403223000 +0000" stop="20260404010000 +0000" channel="UA TV.webtv.sk">
-    <title lang="id">FreeДОМ</title>
-  </programme>
-  <programme start="20260404010000 +0000" stop="20260404030000 +0000" channel="UA TV.webtv.sk">
-    <title lang="id">Інформаційні сюжети</title>
-  </programme>
-  <programme start="20260404030000 +0000" stop="20260404031000 +0000" channel="UA TV.webtv.sk">
-    <title lang="id">Наш час</title>
-  </programme>
-  <programme start="20260404031000 +0000" stop="20260404034000 +0000" channel="UA TV.webtv.sk">
-    <title lang="id">Люди доброї волі</title>
-  </programme>
-  <programme start="20260404034000 +0000" stop="20260404040000 +0000" channel="UA TV.webtv.sk">
-    <title lang="id">Інформаційні сюжети</title>
-  </programme>
-  <programme start="20260404040000 +0000" stop="20260404043000 +0000" channel="UA TV.webtv.sk">
-    <title lang="id">Наш час</title>
-  </programme>
-  <programme start="20260404043000 +0000" stop="20260404050000 +0000" channel="UA TV.webtv.sk">
-    <title lang="id">Інформаційні сюжети</title>
-  </programme>
-  <programme start="20260404050000 +0000" stop="20260404051000 +0000" channel="UA TV.webtv.sk">
-    <title lang="id">Наш час</title>
-  </programme>
-  <programme start="20260404051000 +0000" stop="20260404070000 +0000" channel="UA TV.webtv.sk">
-    <title lang="id">FreeДОМ</title>
-  </programme>
-  <programme start="20260404070000 +0000" stop="20260404073000 +0000" channel="UA TV.webtv.sk">
-    <title lang="id">ФронтNews</title>
-  </programme>
-  <programme start="20260404073000 +0000" stop="20260404080000 +0000" channel="UA TV.webtv.sk">
-    <title lang="id">Інформаційні сюжети</title>
-  </programme>
-  <programme start="20260404080000 +0000" stop="20260404081500 +0000" channel="UA TV.webtv.sk">
-    <title lang="id">Деколонізація</title>
-  </programme>
-  <programme start="20260404081500 +0000" stop="20260404083000 +0000" channel="UA TV.webtv.sk">
-    <title lang="id">Інформаційні сюжети</title>
-  </programme>
-  <programme start="20260404083000 +0000" stop="20260404090000 +0000" channel="UA TV.webtv.sk">
-    <title lang="id">Спеціальний репортаж</title>
-  </programme>
-  <programme start="20260404090000 +0000" stop="20260404091000 +0000" channel="UA TV.webtv.sk">
-    <title lang="id">Наш час</title>
-  </programme>
-  <programme start="20260404091000 +0000" stop="20260404100000 +0000" channel="UA TV.webtv.sk">
-    <title lang="id">FreeДОМ</title>
-  </programme>
-  <programme start="20260404100000 +0000" stop="20260404113000 +0000" channel="UA TV.webtv.sk">
-    <title lang="id">Воїни науки</title>
-  </programme>
-  <programme start="20260404113000 +0000" stop="20260404120000 +0000" channel="UA TV.webtv.sk">
-    <title lang="id">Інформаційні сюжети</title>
-  </programme>
-  <programme start="20260404120000 +0000" stop="20260404121500 +0000" channel="UA TV.webtv.sk">
-    <title lang="id">Антизомбі</title>
-  </programme>
-  <programme start="20260404121500 +0000" stop="20260404123000 +0000" channel="UA TV.webtv.sk">
-    <title lang="id">Громадянська оборона</title>
-  </programme>
-  <programme start="20260404123000 +0000" stop="20260404130000 +0000" channel="UA TV.webtv.sk">
-    <title lang="id">Інформаційні сюжети</title>
-  </programme>
-  <programme start="20260404130000 +0000" stop="20260404133000 +0000" channel="UA TV.webtv.sk">
-    <title lang="id">Наш час</title>
-  </programme>
-  <programme start="20260404133000 +0000" stop="20260404140000 +0000" channel="UA TV.webtv.sk">
-    <title lang="id">FreeДОМ</title>
-  </programme>
-  <programme start="20260404140000 +0000" stop="20260404141000 +0000" channel="UA TV.webtv.sk">
-    <title lang="id">Федя, дичина!</title>
-  </programme>
-  <programme start="20260404141000 +0000" stop="20260404150000 +0000" channel="UA TV.webtv.sk">
-    <title lang="id">FreeДОМ</title>
-  </programme>
-  <programme start="20260404150000 +0000" stop="20260404151500 +0000" channel="UA TV.webtv.sk">
-    <title lang="id">Антизомбі</title>
-  </programme>
-  <programme start="20260404151500 +0000" stop="20260404153000 +0000" channel="UA TV.webtv.sk">
-    <title lang="id">Громадянська оборона</title>
-  </programme>
-  <programme start="20260404153000 +0000" stop="20260404164000 +0000" channel="UA TV.webtv.sk">
-    <title lang="id">FreeДОМ</title>
-  </programme>
-  <programme start="20260404164000 +0000" stop="20260404170000 +0000" channel="UA TV.webtv.sk">
-    <title lang="id">Історичні факти</title>
-  </programme>
-  <programme start="20260404170000 +0000" stop="20260404180000 +0000" channel="UA TV.webtv.sk">
-    <title lang="id">FreeДОМ</title>
-  </programme>
-  <programme start="20260404180000 +0000" stop="20260404183000 +0000" channel="UA TV.webtv.sk">
-    <title lang="id">Наш час</title>
-  </programme>
-  <programme start="20260404183000 +0000" stop="20260404193000 +0000" channel="UA TV.webtv.sk">
-    <title lang="id">FreeДОМ</title>
-  </programme>
-  <programme start="20260404193000 +0000" stop="20260404194000 +0000" channel="UA TV.webtv.sk">
-    <title lang="id">Наш час</title>
-  </programme>
-  <programme start="20260404194000 +0000" stop="20260404204000 +0000" channel="UA TV.webtv.sk">
-    <title lang="id">Курсанти. Гостомельський рубіж</title>
-  </programme>
-  <programme start="20260404204000 +0000" stop="20260404210000 +0000" channel="UA TV.webtv.sk">
-    <title lang="id">Інформаційні сюжети</title>
-  </programme>
-  <programme start="20260404210000 +0000" stop="20260404210100 +0000" channel="UA TV.webtv.sk">
-    <title lang="id">Гімн України</title>
-  </programme>
-  <programme start="20260404210100 +0000" stop="20260404223000 +0000" channel="UA TV.webtv.sk">
-    <title lang="id">Інформаційні сюжети</title>
   </programme>
   <programme start="20260403220000 +0000" stop="20260403230000 +0000" channel="Espreso TV.webtv.sk">
     <title lang="id">Євроінтеграція з Юрієм Фізером</title>
