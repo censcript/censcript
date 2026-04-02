@@ -6544,8 +6544,306 @@
 <programme start="20260402140000 +0000" stop="20260402143000 +0000" channel="NHK World.mncvision">
     <title>NHK Newsline</title>
 </programme>
-Error: Unable to fetch data. HTTP Status Code: 500
-Error: Unable to fetch data. HTTP Status Code: 500
+<programme start="20260401170500 +0000" stop="20260401171000 +0000" channel="NHK World Premium.mncvision">
+    <title>Natural Grandeur Of The East</title>
+</programme>
+<programme start="20260401171000 +0000" stop="20260401173000 +0000" channel="NHK World Premium.mncvision">
+    <title>Spanish In A Happy Mood</title>
+</programme>
+<programme start="20260401173000 +0000" stop="20260401174000 +0000" channel="NHK World Premium.mncvision">
+    <title>Real-Life Travel English</title>
+</programme>
+<programme start="20260401174000 +0000" stop="20260401174500 +0000" channel="NHK World Premium.mncvision">
+    <title>World Weather</title>
+</programme>
+<programme start="20260401174500 +0000" stop="20260401180000 +0000" channel="NHK World Premium.mncvision">
+    <title>Kid&#039;s Discovery</title>
+</programme>
+<programme start="20260401180000 +0000" stop="20260401182500 +0000" channel="NHK World Premium.mncvision">
+    <title>With Mother</title>
+</programme>
+<programme start="20260401182500 +0000" stop="20260401183000 +0000" channel="NHK World Premium.mncvision">
+    <title>100 Beautiful Mountains Of JPN</title>
+</programme>
+<programme start="20260401183000 +0000" stop="20260401184500 +0000" channel="NHK World Premium.mncvision">
+    <title>The Scent Of The Wind, Ep 3</title>
+</programme>
+<programme start="20260401184500 +0000" stop="20260401191200 +0000" channel="NHK World Premium.mncvision">
+    <title>Today&#039;s Close-Up</title>
+</programme>
+<programme start="20260401191200 +0000" stop="20260401191500 +0000" channel="NHK World Premium.mncvision">
+    <title>World Weather</title>
+</programme>
+<programme start="20260401191500 +0000" stop="20260401200000 +0000" channel="NHK World Premium.mncvision">
+    <title>Hidden Doors! Exploring...</title>
+</programme>
+<programme start="20260401200000 +0000" stop="20260401201000 +0000" channel="NHK World Premium.mncvision">
+    <title>TV Exercise</title>
+</programme>
+<programme start="20260401201000 +0000" stop="20260401202500 +0000" channel="NHK World Premium.mncvision">
+    <title>Health For Today</title>
+</programme>
+<programme start="20260401202500 +0000" stop="20260401205500 +0000" channel="NHK World Premium.mncvision">
+    <title>Exciting New World</title>
+</programme>
+<programme start="20260401205500 +0000" stop="20260401210000 +0000" channel="NHK World Premium.mncvision">
+    <title>World Weather</title>
+</programme>
+<programme start="20260401210000 +0000" stop="20260401220000 +0000" channel="NHK World Premium.mncvision">
+    <title>News: Good Morning, Japan</title>
+</programme>
+<programme start="20260401220000 +0000" stop="20260401230000 +0000" channel="NHK World Premium.mncvision">
+    <title>News: Good Morning, Japan</title>
+</programme>
+<programme start="20260401230000 +0000" stop="20260401231500 +0000" channel="NHK World Premium.mncvision">
+    <title>The Scent Of The Wind, Ep 4</title>
+</programme>
+<programme start="20260401231500 +0000" stop="20260402005400 +0000" channel="NHK World Premium.mncvision">
+    <title>Asaichi</title>
+</programme>
+<programme start="20260402005400 +0000" stop="20260402005500 +0000" channel="NHK World Premium.mncvision">
+    <title>World Weather</title>
+</programme>
+<programme start="20260402005500 +0000" stop="20260402010000 +0000" channel="NHK World Premium.mncvision">
+    <title>Exercise For Everyone</title>
+</programme>
+<programme start="20260402010000 +0000" stop="20260402010500 +0000" channel="NHK World Premium.mncvision">
+    <title>News &amp; Weather</title>
+</programme>
+<programme start="20260402010500 +0000" stop="20260402015000 +0000" channel="NHK World Premium.mncvision">
+    <title>Hidden Doors! Exploring...</title>
+</programme>
+<programme start="20260402015000 +0000" stop="20260402021700 +0000" channel="NHK World Premium.mncvision">
+    <title>Today&#039;s Close-Up</title>
+</programme>
+<programme start="20260402021700 +0000" stop="20260402022000 +0000" channel="NHK World Premium.mncvision">
+    <title>Mini Program</title>
+</programme>
+<programme start="20260402022000 +0000" stop="20260402025000 +0000" channel="NHK World Premium.mncvision">
+    <title>Still, We Create: Futon</title>
+</programme>
+<programme start="20260402025000 +0000" stop="20260402025500 +0000" channel="NHK World Premium.mncvision">
+    <title>Songs For Everyone</title>
+</programme>
+<programme start="20260402025500 +0000" stop="20260402030000 +0000" channel="NHK World Premium.mncvision">
+    <title>World Weather</title>
+</programme>
+<programme start="20260402030000 +0000" stop="20260402032000 +0000" channel="NHK World Premium.mncvision">
+    <title>News</title>
+</programme>
+<programme start="20260402032000 +0000" stop="20260402032800 +0000" channel="NHK World Premium.mncvision">
+    <title>Information Worth Knowing...</title>
+</programme>
+<programme start="20260402032800 +0000" stop="20260402033000 +0000" channel="NHK World Premium.mncvision">
+    <title>Mini Program</title>
+</programme>
+<programme start="20260402033000 +0000" stop="20260402034500 +0000" channel="NHK World Premium.mncvision">
+    <title>Massan, Ep 68</title>
+</programme>
+<programme start="20260402034500 +0000" stop="20260402040000 +0000" channel="NHK World Premium.mncvision">
+    <title>The Scent Of The Wind, Ep 4</title>
+</programme>
+<programme start="20260402040000 +0000" stop="20260402040500 +0000" channel="NHK World Premium.mncvision">
+    <title>News</title>
+</programme>
+<programme start="20260402040500 +0000" stop="20260402055000 +0000" channel="NHK World Premium.mncvision">
+    <title>News Around Japan</title>
+</programme>
+<programme start="20260402055000 +0000" stop="20260402055500 +0000" channel="NHK World Premium.mncvision">
+    <title>World Weather</title>
+</programme>
+<programme start="20260402055500 +0000" stop="20260402060000 +0000" channel="NHK World Premium.mncvision">
+    <title>World Music Album</title>
+</programme>
+<programme start="20260402060000 +0000" stop="20260402061000 +0000" channel="NHK World Premium.mncvision">
+    <title>News &amp; Weather</title>
+</programme>
+<programme start="20260402061000 +0000" stop="20260402062500 +0000" channel="NHK World Premium.mncvision">
+    <title>Health For Today</title>
+</programme>
+<programme start="20260402062500 +0000" stop="20260402064000 +0000" channel="NHK World Premium.mncvision">
+    <title>Radio Star, Ep 3</title>
+</programme>
+<programme start="20260402064000 +0000" stop="20260402065000 +0000" channel="NHK World Premium.mncvision">
+    <title>Points At Issue</title>
+</programme>
+<programme start="20260402065000 +0000" stop="20260402071500 +0000" channel="NHK World Premium.mncvision">
+    <title>Dear Japan</title>
+</programme>
+<programme start="20260402071500 +0000" stop="20260402074500 +0000" channel="NHK World Premium.mncvision">
+    <title>Science Zero</title>
+</programme>
+<programme start="20260402074500 +0000" stop="20260402075000 +0000" channel="NHK World Premium.mncvision">
+    <title>See, Learn, Explore: Tohoku</title>
+</programme>
+<programme start="20260402075000 +0000" stop="20260402082000 +0000" channel="NHK World Premium.mncvision">
+    <title>Welcome To Special Zoo Tour</title>
+</programme>
+<programme start="20260402082000 +0000" stop="20260402083500 +0000" channel="NHK World Premium.mncvision">
+    <title>Peek-A-Boo</title>
+</programme>
+<programme start="20260402083500 +0000" stop="20260402085900 +0000" channel="NHK World Premium.mncvision">
+    <title>With Mother</title>
+</programme>
+<programme start="20260402085900 +0000" stop="20260402090000 +0000" channel="NHK World Premium.mncvision">
+    <title>1-Minute Anime: Songs For SDGs</title>
+</programme>
+<programme start="20260402090000 +0000" stop="20260402091000 +0000" channel="NHK World Premium.mncvision">
+    <title>News</title>
+</programme>
+<programme start="20260402091000 +0000" stop="20260402094000 +0000" channel="NHK World Premium.mncvision">
+    <title>Kid&#039;s Discovery</title>
+</programme>
+<programme start="20260401172000 +0000" stop="20260401173000 +0000" channel="Nick Jr. HD.mncvision">
+    <title>Barbapapa: Big Happy Family!</title>
+</programme>
+<programme start="20260401173000 +0000" stop="20260401174000 +0000" channel="Nick Jr. HD.mncvision">
+    <title>Tim Rex In Space</title>
+</programme>
+<programme start="20260401174000 +0000" stop="20260401174500 +0000" channel="Nick Jr. HD.mncvision">
+    <title>Tim Rex In Space</title>
+</programme>
+<programme start="20260401174500 +0000" stop="20260401175000 +0000" channel="Nick Jr. HD.mncvision">
+    <title>Tim Rex In Space</title>
+</programme>
+<programme start="20260401175000 +0000" stop="20260401180500 +0000" channel="Nick Jr. HD.mncvision">
+    <title>Tim Rex In Space</title>
+</programme>
+<programme start="20260401180500 +0000" stop="20260401181000 +0000" channel="Nick Jr. HD.mncvision">
+    <title>Peppa Pig</title>
+</programme>
+<programme start="20260401181000 +0000" stop="20260401181500 +0000" channel="Nick Jr. HD.mncvision">
+    <title>Peppa Pig</title>
+</programme>
+<programme start="20260401181500 +0000" stop="20260401182000 +0000" channel="Nick Jr. HD.mncvision">
+    <title>Peppa Pig</title>
+</programme>
+<programme start="20260401182000 +0000" stop="20260401182500 +0000" channel="Nick Jr. HD.mncvision">
+    <title>Peppa Pig</title>
+</programme>
+<programme start="20260401182500 +0000" stop="20260401183000 +0000" channel="Nick Jr. HD.mncvision">
+    <title>Peppa Pig</title>
+</programme>
+<programme start="20260401183000 +0000" stop="20260401185000 +0000" channel="Nick Jr. HD.mncvision">
+    <title>Barbapapa: Big Happy Family!</title>
+</programme>
+<programme start="20260401185000 +0000" stop="20260401192500 +0000" channel="Nick Jr. HD.mncvision">
+    <title>Barbapapa: Big Happy Family!</title>
+</programme>
+<programme start="20260401192500 +0000" stop="20260401194500 +0000" channel="Nick Jr. HD.mncvision">
+    <title>PAW Patrol</title>
+</programme>
+<programme start="20260401194500 +0000" stop="20260401202000 +0000" channel="Nick Jr. HD.mncvision">
+    <title>PAW Patrol</title>
+</programme>
+<programme start="20260401202000 +0000" stop="20260401204500 +0000" channel="Nick Jr. HD.mncvision">
+    <title>Rubble &amp; Crew</title>
+</programme>
+<programme start="20260401204500 +0000" stop="20260401210500 +0000" channel="Nick Jr. HD.mncvision">
+    <title>Dora</title>
+</programme>
+<programme start="20260401210500 +0000" stop="20260401212500 +0000" channel="Nick Jr. HD.mncvision">
+    <title>Dora</title>
+</programme>
+<programme start="20260401212500 +0000" stop="20260401215000 +0000" channel="Nick Jr. HD.mncvision">
+    <title>Barbapapa: Big Happy Family!</title>
+</programme>
+<programme start="20260401215000 +0000" stop="20260401221000 +0000" channel="Nick Jr. HD.mncvision">
+    <title>Barbapapa: Big Happy Family!</title>
+</programme>
+<programme start="20260401221000 +0000" stop="20260401223500 +0000" channel="Nick Jr. HD.mncvision">
+    <title>Barbapapa: Big Happy Family!</title>
+</programme>
+<programme start="20260401223500 +0000" stop="20260401225500 +0000" channel="Nick Jr. HD.mncvision">
+    <title>Barbapapa: Big Happy Family!</title>
+</programme>
+<programme start="20260401225500 +0000" stop="20260401232000 +0000" channel="Nick Jr. HD.mncvision">
+    <title>Barbapapa: Big Happy Family!</title>
+</programme>
+<programme start="20260401232000 +0000" stop="20260401234000 +0000" channel="Nick Jr. HD.mncvision">
+    <title>Rubble &amp; Crew</title>
+</programme>
+<programme start="20260401234000 +0000" stop="20260402000500 +0000" channel="Nick Jr. HD.mncvision">
+    <title>Rubble &amp; Crew</title>
+</programme>
+<programme start="20260402000500 +0000" stop="20260402002500 +0000" channel="Nick Jr. HD.mncvision">
+    <title>PAW Patrol</title>
+</programme>
+<programme start="20260402002500 +0000" stop="20260402005000 +0000" channel="Nick Jr. HD.mncvision">
+    <title>PAW Patrol</title>
+</programme>
+<programme start="20260402005000 +0000" stop="20260402011000 +0000" channel="Nick Jr. HD.mncvision">
+    <title>Barbapapa: Big Happy Family!</title>
+</programme>
+<programme start="20260402011000 +0000" stop="20260402013500 +0000" channel="Nick Jr. HD.mncvision">
+    <title>Barbapapa: Big Happy Family!</title>
+</programme>
+<programme start="20260402013500 +0000" stop="20260402014000 +0000" channel="Nick Jr. HD.mncvision">
+    <title>Tim Rex In Space</title>
+</programme>
+<programme start="20260402014000 +0000" stop="20260402015000 +0000" channel="Nick Jr. HD.mncvision">
+    <title>Tim Rex In Space</title>
+</programme>
+<programme start="20260402015000 +0000" stop="20260402015500 +0000" channel="Nick Jr. HD.mncvision">
+    <title>Tim Rex In Space</title>
+</programme>
+<programme start="20260402015500 +0000" stop="20260402022000 +0000" channel="Nick Jr. HD.mncvision">
+    <title>Rubble &amp; Crew</title>
+</programme>
+<programme start="20260402022000 +0000" stop="20260402024500 +0000" channel="Nick Jr. HD.mncvision">
+    <title>Rubble &amp; Crew</title>
+</programme>
+<programme start="20260402024500 +0000" stop="20260402030500 +0000" channel="Nick Jr. HD.mncvision">
+    <title>Dora</title>
+</programme>
+<programme start="20260402030500 +0000" stop="20260402033000 +0000" channel="Nick Jr. HD.mncvision">
+    <title>Blaze &amp; The Monster Machines</title>
+</programme>
+<programme start="20260402033000 +0000" stop="20260402035000 +0000" channel="Nick Jr. HD.mncvision">
+    <title>Mr. Crocodile</title>
+</programme>
+<programme start="20260402035000 +0000" stop="20260402041500 +0000" channel="Nick Jr. HD.mncvision">
+    <title>Barbapapa: Big Happy Family!</title>
+</programme>
+<programme start="20260402041500 +0000" stop="20260402043500 +0000" channel="Nick Jr. HD.mncvision">
+    <title>Barbapapa: Big Happy Family!</title>
+</programme>
+<programme start="20260402043500 +0000" stop="20260402052000 +0000" channel="Nick Jr. HD.mncvision">
+    <title>Tim Rex In Space</title>
+</programme>
+<programme start="20260402052000 +0000" stop="20260402054500 +0000" channel="Nick Jr. HD.mncvision">
+    <title>Blaze &amp; The Monster Machines</title>
+</programme>
+<programme start="20260402054500 +0000" stop="20260402060500 +0000" channel="Nick Jr. HD.mncvision">
+    <title>Rubble &amp; Crew</title>
+</programme>
+<programme start="20260402060500 +0000" stop="20260402063000 +0000" channel="Nick Jr. HD.mncvision">
+    <title>Rubble &amp; Crew</title>
+</programme>
+<programme start="20260402063000 +0000" stop="20260402065000 +0000" channel="Nick Jr. HD.mncvision">
+    <title>PAW Patrol</title>
+</programme>
+<programme start="20260402065000 +0000" stop="20260402071500 +0000" channel="Nick Jr. HD.mncvision">
+    <title>PAW Patrol</title>
+</programme>
+<programme start="20260402071500 +0000" stop="20260402073500 +0000" channel="Nick Jr. HD.mncvision">
+    <title>Dora</title>
+</programme>
+<programme start="20260402073500 +0000" stop="20260402075000 +0000" channel="Nick Jr. HD.mncvision">
+    <title>Dora</title>
+</programme>
+<programme start="20260402075000 +0000" stop="20260402075500 +0000" channel="Nick Jr. HD.mncvision">
+    <title>Tim Rex In Space</title>
+</programme>
+<programme start="20260402075500 +0000" stop="20260402080500 +0000" channel="Nick Jr. HD.mncvision">
+    <title>Tim Rex In Space</title>
+</programme>
+<programme start="20260402080500 +0000" stop="20260402081000 +0000" channel="Nick Jr. HD.mncvision">
+    <title>Tim Rex In Space</title>
+</programme>
+<programme start="20260402081000 +0000" stop="20260402084000 +0000" channel="Nick Jr. HD.mncvision">
+    <title>Peppa Pig</title>
+</programme>
 <programme start="20260401170000 +0000" stop="20260401172500 +0000" channel="Nickelodeon.mncvision">
     <title>The Thundermans: Undercover</title>
 </programme>
@@ -8004,8 +8302,78 @@ Error: Unable to fetch data. HTTP Status Code: 500
 <programme start="20260402150000 +0000" stop="20260402153000 +0000" channel="Sportstars 3.mncvision">
     <title>Timnas Special</title>
 </programme>
-Error: Unable to fetch data. HTTP Status Code: 500
-Error: Unable to fetch data. HTTP Status Code: 500
+<programme start="20260401170000 +0000" stop="20260401190000 +0000" channel="sportstars 3 HD.mncvision">
+    <title>BRI Liga 1</title>
+</programme>
+<programme start="20260401190000 +0000" stop="20260401210000 +0000" channel="sportstars 3 HD.mncvision">
+    <title>V-League</title>
+</programme>
+<programme start="20260401210000 +0000" stop="20260401230000 +0000" channel="sportstars 3 HD.mncvision">
+    <title>Timnas Special</title>
+</programme>
+<programme start="20260401230000 +0000" stop="20260402010000 +0000" channel="sportstars 3 HD.mncvision">
+    <title>Bundesliga</title>
+</programme>
+<programme start="20260402010000 +0000" stop="20260402030000 +0000" channel="sportstars 3 HD.mncvision">
+    <title>V-League</title>
+</programme>
+<programme start="20260402030000 +0000" stop="20260402050000 +0000" channel="sportstars 3 HD.mncvision">
+    <title>BRI Liga 1</title>
+</programme>
+<programme start="20260402050000 +0000" stop="20260402070000 +0000" channel="sportstars 3 HD.mncvision">
+    <title>Bundesliga</title>
+</programme>
+<programme start="20260402070000 +0000" stop="20260402090000 +0000" channel="sportstars 3 HD.mncvision">
+    <title>Timnas Special</title>
+</programme>
+<programme start="20260402090000 +0000" stop="20260402110000 +0000" channel="sportstars 3 HD.mncvision">
+    <title>V-League</title>
+</programme>
+<programme start="20260402110000 +0000" stop="20260402130000 +0000" channel="sportstars 3 HD.mncvision">
+    <title>BRI Liga 1</title>
+</programme>
+<programme start="20260402130000 +0000" stop="20260402150000 +0000" channel="sportstars 3 HD.mncvision">
+    <title>Bundesliga</title>
+</programme>
+<programme start="20260402150000 +0000" stop="20260402153000 +0000" channel="sportstars 3 HD.mncvision">
+    <title>Timnas Special</title>
+</programme>
+<programme start="20260401170000 +0000" stop="20260401190000 +0000" channel="Sportstars 4.mncvision">
+    <title>BRI Liga 1</title>
+</programme>
+<programme start="20260401190000 +0000" stop="20260401210000 +0000" channel="Sportstars 4.mncvision">
+    <title>V-League</title>
+</programme>
+<programme start="20260401210000 +0000" stop="20260401230000 +0000" channel="Sportstars 4.mncvision">
+    <title>Timnas Special</title>
+</programme>
+<programme start="20260401230000 +0000" stop="20260402010000 +0000" channel="Sportstars 4.mncvision">
+    <title>Bundesliga</title>
+</programme>
+<programme start="20260402010000 +0000" stop="20260402030000 +0000" channel="Sportstars 4.mncvision">
+    <title>V-League</title>
+</programme>
+<programme start="20260402030000 +0000" stop="20260402050000 +0000" channel="Sportstars 4.mncvision">
+    <title>BRI Liga 1</title>
+</programme>
+<programme start="20260402050000 +0000" stop="20260402070000 +0000" channel="Sportstars 4.mncvision">
+    <title>Bundesliga</title>
+</programme>
+<programme start="20260402070000 +0000" stop="20260402090000 +0000" channel="Sportstars 4.mncvision">
+    <title>Timnas Special</title>
+</programme>
+<programme start="20260402090000 +0000" stop="20260402110000 +0000" channel="Sportstars 4.mncvision">
+    <title>AFC U20 WAC &#039;26: AUS Vs TPE (L)</title>
+</programme>
+<programme start="20260402110000 +0000" stop="20260402130000 +0000" channel="Sportstars 4.mncvision">
+    <title>V-League Women</title>
+</programme>
+<programme start="20260402130000 +0000" stop="20260402150000 +0000" channel="Sportstars 4.mncvision">
+    <title>AFC U20 WAC &#039;26: JPN Vs IND (L)</title>
+</programme>
+<programme start="20260402150000 +0000" stop="20260402153000 +0000" channel="Sportstars 4.mncvision">
+    <title>Timnas Special</title>
+</programme>
 <programme start="20260401170000 +0000" stop="20260401190000 +0000" channel="Sportstars 4 HD.mncvision">
     <title>BRI Liga 1</title>
 </programme>
@@ -8471,7 +8839,135 @@ Error: Unable to fetch data. HTTP Status Code: 500
 <programme start="20260402152400 +0000" stop="20260402155400 +0000" channel="Superrix HD.mncvision">
     <title>Equals</title>
 </programme>
-Error: Unable to fetch data. HTTP Status Code: 500
+<programme start="20260401170000 +0000" stop="20260401173000 +0000" channel="Tawaf TV.mncvision">
+    <title>DMI TV</title>
+</programme>
+<programme start="20260401173000 +0000" stop="20260401183000 +0000" channel="Tawaf TV.mncvision">
+    <title>DMI TV</title>
+</programme>
+<programme start="20260401183000 +0000" stop="20260401190000 +0000" channel="Tawaf TV.mncvision">
+    <title>DMI TV</title>
+</programme>
+<programme start="20260401190000 +0000" stop="20260401193000 +0000" channel="Tawaf TV.mncvision">
+    <title>DMI TV</title>
+</programme>
+<programme start="20260401193000 +0000" stop="20260401200000 +0000" channel="Tawaf TV.mncvision">
+    <title>DMI TV</title>
+</programme>
+<programme start="20260401200000 +0000" stop="20260401203000 +0000" channel="Tawaf TV.mncvision">
+    <title>DMI TV</title>
+</programme>
+<programme start="20260401203000 +0000" stop="20260401210000 +0000" channel="Tawaf TV.mncvision">
+    <title>DMI TV</title>
+</programme>
+<programme start="20260401210000 +0000" stop="20260401213000 +0000" channel="Tawaf TV.mncvision">
+    <title>DMI TV</title>
+</programme>
+<programme start="20260401213000 +0000" stop="20260401220000 +0000" channel="Tawaf TV.mncvision">
+    <title>DMI TV</title>
+</programme>
+<programme start="20260401220000 +0000" stop="20260401223000 +0000" channel="Tawaf TV.mncvision">
+    <title>DMI TV</title>
+</programme>
+<programme start="20260401223000 +0000" stop="20260401230000 +0000" channel="Tawaf TV.mncvision">
+    <title>DMI TV</title>
+</programme>
+<programme start="20260401230000 +0000" stop="20260402000000 +0000" channel="Tawaf TV.mncvision">
+    <title>DMI TV</title>
+</programme>
+<programme start="20260402000000 +0000" stop="20260402003000 +0000" channel="Tawaf TV.mncvision">
+    <title>DMI TV</title>
+</programme>
+<programme start="20260402003000 +0000" stop="20260402010000 +0000" channel="Tawaf TV.mncvision">
+    <title>DMI TV</title>
+</programme>
+<programme start="20260402010000 +0000" stop="20260402020000 +0000" channel="Tawaf TV.mncvision">
+    <title>DMI TV</title>
+</programme>
+<programme start="20260402020000 +0000" stop="20260402023000 +0000" channel="Tawaf TV.mncvision">
+    <title>DMI TV</title>
+</programme>
+<programme start="20260402023000 +0000" stop="20260402030000 +0000" channel="Tawaf TV.mncvision">
+    <title>DMI TV</title>
+</programme>
+<programme start="20260402030000 +0000" stop="20260402033000 +0000" channel="Tawaf TV.mncvision">
+    <title>DMI TV</title>
+</programme>
+<programme start="20260402033000 +0000" stop="20260402040000 +0000" channel="Tawaf TV.mncvision">
+    <title>DMI TV</title>
+</programme>
+<programme start="20260402040000 +0000" stop="20260402043000 +0000" channel="Tawaf TV.mncvision">
+    <title>DMI TV</title>
+</programme>
+<programme start="20260402043000 +0000" stop="20260402050000 +0000" channel="Tawaf TV.mncvision">
+    <title>DMI TV</title>
+</programme>
+<programme start="20260402050000 +0000" stop="20260402053000 +0000" channel="Tawaf TV.mncvision">
+    <title>DMI TV</title>
+</programme>
+<programme start="20260402053000 +0000" stop="20260402060000 +0000" channel="Tawaf TV.mncvision">
+    <title>DMI TV</title>
+</programme>
+<programme start="20260402060000 +0000" stop="20260402070000 +0000" channel="Tawaf TV.mncvision">
+    <title>DMI TV</title>
+</programme>
+<programme start="20260402070000 +0000" stop="20260402073000 +0000" channel="Tawaf TV.mncvision">
+    <title>DMI TV</title>
+</programme>
+<programme start="20260402073000 +0000" stop="20260402080000 +0000" channel="Tawaf TV.mncvision">
+    <title>DMI TV</title>
+</programme>
+<programme start="20260402080000 +0000" stop="20260402090000 +0000" channel="Tawaf TV.mncvision">
+    <title>DMI TV</title>
+</programme>
+<programme start="20260402090000 +0000" stop="20260402093000 +0000" channel="Tawaf TV.mncvision">
+    <title>DMI TV</title>
+</programme>
+<programme start="20260402093000 +0000" stop="20260402100000 +0000" channel="Tawaf TV.mncvision">
+    <title>DMI TV</title>
+</programme>
+<programme start="20260402100000 +0000" stop="20260402103000 +0000" channel="Tawaf TV.mncvision">
+    <title>DMI TV</title>
+</programme>
+<programme start="20260402103000 +0000" stop="20260402110000 +0000" channel="Tawaf TV.mncvision">
+    <title>DMI TV</title>
+</programme>
+<programme start="20260402110000 +0000" stop="20260402113000 +0000" channel="Tawaf TV.mncvision">
+    <title>DMI TV</title>
+</programme>
+<programme start="20260402113000 +0000" stop="20260402120000 +0000" channel="Tawaf TV.mncvision">
+    <title>DMI TV</title>
+</programme>
+<programme start="20260402120000 +0000" stop="20260402123000 +0000" channel="Tawaf TV.mncvision">
+    <title>DMI TV</title>
+</programme>
+<programme start="20260402123000 +0000" stop="20260402130000 +0000" channel="Tawaf TV.mncvision">
+    <title>DMI TV</title>
+</programme>
+<programme start="20260402130000 +0000" stop="20260402133000 +0000" channel="Tawaf TV.mncvision">
+    <title>DMI TV</title>
+</programme>
+<programme start="20260402133000 +0000" stop="20260402140000 +0000" channel="Tawaf TV.mncvision">
+    <title>DMI TV</title>
+</programme>
+<programme start="20260402140000 +0000" stop="20260402143000 +0000" channel="Tawaf TV.mncvision">
+    <title>DMI TV</title>
+</programme>
+<programme start="20260402143000 +0000" stop="20260402150000 +0000" channel="Tawaf TV.mncvision">
+    <title>DMI TV</title>
+</programme>
+<programme start="20260402150000 +0000" stop="20260402153000 +0000" channel="Tawaf TV.mncvision">
+    <title>DMI TV</title>
+</programme>
+<programme start="20260402153000 +0000" stop="20260402160000 +0000" channel="Tawaf TV.mncvision">
+    <title>DMI TV</title>
+</programme>
+<programme start="20260402160000 +0000" stop="20260402163000 +0000" channel="Tawaf TV.mncvision">
+    <title>DMI TV</title>
+</programme>
+<programme start="20260402163000 +0000" stop="20260401170000 +0000" channel="Tawaf TV.mncvision">
+    <title>DMI TV</title>
+</programme>
 <programme start="20260401180500 +0000" stop="20260401193500 +0000" channel="Thrill.mncvision">
     <title>Endless Love</title>
 </programme>

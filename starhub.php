@@ -2092,8 +2092,14 @@
     <programme start="20260401190000 +0000" stop="20260401200000 +0000" channel="CNN HD.starhub">
         <title>What We Know with Max Foster</title>
     </programme>
-    <programme start="20260401200000 +0000" stop="20260401213000 +0000" channel="CNN HD.starhub">
+    <programme start="20260401200000 +0000" stop="20260401210000 +0000" channel="CNN HD.starhub">
         <title>Quest Means Business (60m)</title>
+    </programme>
+    <programme start="20260401210000 +0000" stop="20260401220000 +0000" channel="CNN HD.starhub">
+        <title>The Lead with Jake Tapper</title>
+    </programme>
+    <programme start="20260401220000 +0000" stop="20260401230000 +0000" channel="CNN HD.starhub">
+        <title>The Lead with Jake Tapper</title>
     </programme>
     <programme start="20260401230000 +0000" stop="20260402000000 +0000" channel="CNN HD.starhub">
         <title>Erin Burnett OutFront</title>
@@ -3167,16 +3173,16 @@
         <title>News</title>
     </programme>
     <programme start="20260401163000 +0000" stop="20260401170000 +0000" channel="DW English HD.starhub">
-        <title>Your Business Magazine</title>
+        <title>Abandoned fish farms turn into plastic traps underwater</title>
     </programme>
     <programme start="20260401170000 +0000" stop="20260401171500 +0000" channel="DW English HD.starhub">
         <title>News</title>
     </programme>
     <programme start="20260401171500 +0000" stop="20260401173000 +0000" channel="DW English HD.starhub">
-        <title>Best of DW-online Content</title>
+        <title>Mercedes profits collapse 57 % - What went wrong?</title>
     </programme>
     <programme start="20260401173000 +0000" stop="20260401180000 +0000" channel="DW English HD.starhub">
-        <title>The Current Affairs Documentary</title>
+        <title>Slovakia at the Crossroads - The Politics of Division</title>
     </programme>
     <programme start="20260401180000 +0000" stop="20260401183000 +0000" channel="DW English HD.starhub">
         <title>News</title>
@@ -3191,10 +3197,10 @@
         <title>News</title>
     </programme>
     <programme start="20260401191500 +0000" stop="20260401193000 +0000" channel="DW English HD.starhub">
-        <title>Best of DW-online Content</title>
+        <title>Mercedes profits collapse 57 % - What went wrong?</title>
     </programme>
     <programme start="20260401193000 +0000" stop="20260401200000 +0000" channel="DW English HD.starhub">
-        <title>The Magazine for Africa&#039;s Youth</title>
+        <title>Street Debate: Did Kaluma Boy expose Kenya&#039;s broken and corrupt system?</title>
     </programme>
     <programme start="20260401200000 +0000" stop="20260401203000 +0000" channel="DW English HD.starhub">
         <title>News</title>
@@ -3202,10 +3208,10 @@
     <programme start="20260401203000 +0000" stop="20260401210000 +0000" channel="DW English HD.starhub">
         <title>News in Review</title>
     </programme>
-    <programme start="20260401210000 +0000" stop="20260401210300 +0000" channel="DW English HD.starhub">
+    <programme start="20260401210000 +0000" stop="20260401210200 +0000" channel="DW English HD.starhub">
         <title>News</title>
     </programme>
-    <programme start="20260401210300 +0000" stop="20260401220000 +0000" channel="DW English HD.starhub">
+    <programme start="20260401210200 +0000" stop="20260401220000 +0000" channel="DW English HD.starhub">
         <title>The Da Vinci Code - Myth or Truth?</title>
     </programme>
     <programme start="20260401220000 +0000" stop="20260401220200 +0000" channel="DW English HD.starhub">
@@ -3215,7 +3221,7 @@
         <title>News in Review</title>
     </programme>
     <programme start="20260401223000 +0000" stop="20260401230000 +0000" channel="DW English HD.starhub">
-        <title>Your Business Magazine</title>
+        <title>Abandoned fish farms turn into plastic traps underwater</title>
     </programme>
     <programme start="20260401230000 +0000" stop="20260401230200 +0000" channel="DW English HD.starhub">
         <title>News</title>
@@ -3224,7 +3230,7 @@
         <title>News</title>
     </programme>
     <programme start="20260401231500 +0000" stop="20260401233000 +0000" channel="DW English HD.starhub">
-        <title>Best of DW-online Content</title>
+        <title>Mercedes profits collapse 57 % - What went wrong?</title>
     </programme>
     <programme start="20260401233000 +0000" stop="20260402000000 +0000" channel="DW English HD.starhub">
         <title>Spotlight on People</title>
@@ -7361,7 +7367,7 @@
         <title>BBC World News America</title>
     </programme>
     <programme start="20260401213000 +0000" stop="20260401220000 +0000" channel="BBC World News HD.starhub">
-        <title>Newsnight</title>
+        <title>BBC World News America</title>
     </programme>
     <programme start="20260401220000 +0000" stop="20260401230000 +0000" channel="BBC World News HD.starhub">
         <title>BBC World News America</title>

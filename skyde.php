@@ -2559,10 +2559,10 @@ Warning: Undefined array key "et" in /usr/home/ManusiaBiasa/domains/manusiabiasa
 <programme start="20260402042500 +0000" stop="20260402045500 +0000" channel="Sky Sport Austria 1 HD.skyde">
     <title>Admiral BL: Torparade XXL (Runden 17-20)</title>
 </programme>
-<programme start="20260402045500 +0000" stop="20260402052000 +0000" channel="Sky Sport Austria 1 HD.skyde">
+<programme start="20260402045500 +0000" stop="20260402052500 +0000" channel="Sky Sport Austria 1 HD.skyde">
     <title>Admiral BL: Torparade XXL (Runden 21-24)</title>
 </programme>
-<programme start="20260402052000 +0000" stop="20260402064000 +0000" channel="Sky Sport Austria 1 HD.skyde">
+<programme start="20260402052500 +0000" stop="20260402064000 +0000" channel="Sky Sport Austria 1 HD.skyde">
     <title>Fußball: DAB - Der Audiobeweis</title>
 </programme>
 <programme start="20260402064000 +0000" stop="20260402070500 +0000" channel="Sky Sport Austria 1 HD.skyde">
@@ -2625,10 +2625,10 @@ Warning: Undefined array key "et" in /usr/home/ManusiaBiasa/domains/manusiabiasa
 <programme start="20260402153000 +0000" stop="20260402160000 +0000" channel="Sky Sport Austria 1 HD.skyde">
     <title>Admiral BL: 100% Sturm Graz (Runden 21-24)</title>
 </programme>
-<programme start="20260402160000 +0000" stop="20260402162500 +0000" channel="Sky Sport Austria 1 HD.skyde">
+<programme start="20260402160000 +0000" stop="20260402163000 +0000" channel="Sky Sport Austria 1 HD.skyde">
     <title>UEFA CL: Magazin</title>
 </programme>
-<programme start="20260402162500 +0000" stop="20260402174500 +0000" channel="Sky Sport Austria 1 HD.skyde">
+<programme start="20260402163000 +0000" stop="20260402174500 +0000" channel="Sky Sport Austria 1 HD.skyde">
     <title>Fußball: DAB - Der Audiobeweis</title>
 </programme>
 <programme start="20260402174500 +0000" stop="20260402181000 +0000" channel="Sky Sport Austria 1 HD.skyde">
@@ -3179,9 +3179,6 @@ Warning: Undefined array key "et" in /usr/home/ManusiaBiasa/domains/manusiabiasa
 </programme>
 <programme start="20260402170000 +0000" stop="20260402183000 +0000" channel="Sky Sport UHD.skyde">
     <title>F1: 2. Freies Training - GP Japan</title>
-</programme>
-<programme start="20260402183000 +0000" stop="20260402200000 +0000" channel="Sky Sport UHD.skyde">
-    <title>F1: 1. Freies Training - GP Japan</title>
 </programme>
 <programme start="20260402183000 +0000" stop="20260402200000 +0000" channel="Sky Sport UHD.skyde">
     <title>F1: Qualifying - GP Japan</title>
