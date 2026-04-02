@@ -1967,7 +1967,7 @@
         <title>UCL Classic Matches Barcelona vs Lyon (2001/02)</title>
     </programme>
     <programme start="20260402164000 +0000" stop="20260402184500 +0000" channel="beIN Sports 3.starhub">
-        <title>UEFA Women&#039;s Champions League 2025/26: Barcelona vs Real Madrid - QF, 2nd Leg (L</title>
+        <title>UEFA Women&#039;s Champions League 2025/26: Barcelona vs Real Madrid - QF, 2nd Leg (Live)</title>
     </programme>
     <programme start="20260402184500 +0000" stop="20260402190000 +0000" channel="beIN Sports 3.starhub">
         <title>Parma 1990s</title>
