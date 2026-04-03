@@ -40,11 +40,8 @@
 <programme start="20260403230000 +0000" stop="20260404010000 +0000" channel="RCTI.vision">
 <title>Upin Ipin</title>
 </programme>
-<programme start="20260404010000 +0000" stop="20260404023000 +0000" channel="RCTI.vision">
+<programme start="20260404010000 +0000" stop="20260404033000 +0000" channel="RCTI.vision">
 <title>Entong (RCTI)</title>
-</programme>
-<programme start="20260404023000 +0000" stop="20260404033000 +0000" channel="RCTI.vision">
-<title>Captain Tsubasa S2</title>
 </programme>
 <programme start="20260404033000 +0000" stop="20260404043000 +0000" channel="RCTI.vision">
 <title>Go Spot (RCTI)</title>
@@ -56,7 +53,7 @@
 <title>Dunia Masih Terbalik</title>
 </programme>
 <programme start="20260404063000 +0000" stop="20260404090000 +0000" channel="RCTI.vision">
-<title>Si Doel Anak Sekolahan S3</title>
+<title>Si Doel Anak Sekolahan S2</title>
 </programme>
 <programme start="20260404090000 +0000" stop="20260404103000 +0000" channel="RCTI.vision">
 <title>My Dear Guardian</title>
@@ -610,6 +607,9 @@
 <programme start="20260403003000 +0000" stop="20260403023000 +0000" channel="ANTV.vision">
 <title>Janji Cinta Inspektur Virat</title>
 </programme>
+<programme start="20260403023000 +0000" stop="20260403060000 +0000" channel="ANTV.vision">
+<title>Dilwale</title>
+</programme>
 <programme start="20260403060000 +0000" stop="20260403080000 +0000" channel="ANTV.vision">
 <title>Jhanak</title>
 </programme>
@@ -618,6 +618,18 @@
 </programme>
 <programme start="20260403090000 +0000" stop="20260403110000 +0000" channel="ANTV.vision">
 <title>Vasudha</title>
+</programme>
+<programme start="20260403110000 +0000" stop="20260403130000 +0000" channel="ANTV.vision">
+<title>Jin Galunggung</title>
+</programme>
+<programme start="20260403130000 +0000" stop="20260403143000 +0000" channel="ANTV.vision">
+<title>Petualangan Cinta Nyi Blorong</title>
+</programme>
+<programme start="20260403143000 +0000" stop="20260403163000 +0000" channel="ANTV.vision">
+<title>Mata Batin 2</title>
+</programme>
+<programme start="20260403163000 +0000" stop="20260403180000 +0000" channel="ANTV.vision">
+<title>No Holds Barred</title>
 </programme>
 <programme start="20260403180000 +0000" stop="20260403193000 +0000" channel="ANTV.vision">
 <title>Colic</title>
@@ -1485,16 +1497,4 @@
 </programme>
 <programme start="20260403050000 +0000" stop="20260403060000 +0000" channel="DAAI TV.vision">
 <title>Halo Indonesia</title>
-</programme>
-<programme start="20260403060000 +0000" stop="20260403063000 +0000" channel="DAAI TV.vision">
-<title>Potret</title>
-</programme>
-<programme start="20260403063000 +0000" stop="20260403070000 +0000" channel="DAAI TV.vision">
-<title>Tek Tok</title>
-</programme>
-<programme start="20260403070000 +0000" stop="20260403073000 +0000" channel="DAAI TV.vision">
-<title>Bingkai Sumatera</title>
-</programme>
-<programme start="20260403073000 +0000" stop="20260403080000 +0000" channel="DAAI TV.vision">
-<title>Bumiku Satu</title>
 </programme>
