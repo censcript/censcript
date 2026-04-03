@@ -278,7 +278,7 @@
     <episode-num system="onscreen">S1E22</episode-num>
   </programme>
   <programme start="20260402160000 +0000" stop="20260402170000 +0000" channel="sensasi.unifitv">
-    <title lang="en">Memori Cinta #3</title>
+    <title lang="en">Memori Cinta 3</title>
     <desc lang="en">ELIZA membatalkan niatnya hendak menjual kameranya. Dia berterus terus kepada ROS yang dia hendak menjual kamera itu semata-mata untuk membiayai tiket perjalanan pulang mereka bertiga. ROS tidak mahu ELIZA dan WAWA terlalu berkorban untuk dirinya. Dia merelakan ELIZA dan WAWA pulang beraya ke Malaysia.</desc>
     <category lang="en">Drama</category>
     <episode-num system="xmltv_ns">0.4.</episode-num>
@@ -297,7 +297,7 @@
     <episode-num system="onscreen">S1E6</episode-num>
   </programme>
   <programme start="20260402200000 +0000" stop="20260402210000 +0000" channel="sensasi.unifitv">
-    <title lang="en">Memori Cinta #3</title>
+    <title lang="en">Memori Cinta 3</title>
     <desc lang="en">ELIZA membatalkan niatnya hendak menjual kameranya. Dia berterus terus kepada ROS yang dia hendak menjual kamera itu semata-mata untuk membiayai tiket perjalanan pulang mereka bertiga. ROS tidak mahu ELIZA dan WAWA terlalu berkorban untuk dirinya. Dia merelakan ELIZA dan WAWA pulang beraya ke Malaysia.</desc>
     <category lang="en">Drama</category>
     <episode-num system="xmltv_ns">0.4.</episode-num>
@@ -344,7 +344,7 @@
     <episode-num system="onscreen">S1E6</episode-num>
   </programme>
   <programme start="20260403030000 +0000" stop="20260403040000 +0000" channel="sensasi.unifitv">
-    <title lang="en">Memori Cinta #3</title>
+    <title lang="en">Memori Cinta 3</title>
     <desc lang="en">ELIZA membatalkan niatnya hendak menjual kameranya. Dia berterus terus kepada ROS yang dia hendak menjual kamera itu semata-mata untuk membiayai tiket perjalanan pulang mereka bertiga. ROS tidak mahu ELIZA dan WAWA terlalu berkorban untuk dirinya. Dia merelakan ELIZA dan WAWA pulang beraya ke Malaysia.</desc>
     <category lang="en">Drama</category>
     <episode-num system="xmltv_ns">0.4.</episode-num>
@@ -746,8 +746,8 @@
     <episode-num system="onscreen">S1E12</episode-num>
   </programme>
   <programme start="20260403080000 +0000" stop="20260403080500 +0000" channel="tv1.unifitv">
-    <title lang="en">LIVE : BERITA SEMASA</title>
-    <desc lang="en">Berita Semasa dalam dan luar negara</desc>
+    <title lang="en">Taklimat Krisis Tenaga Global</title>
+    <desc lang="en">Taklimat Krisis Tenaga Global</desc>
     <category lang="en">Drama</category>
   </programme>
   <programme start="20260403080500 +0000" stop="20260403083000 +0000" channel="tv1.unifitv">
@@ -14088,7 +14088,7 @@
   </channel>
   <programme start="20260402153300 +0000" stop="20260402160300 +0000" channel="dw.unifitv">
     <title lang="en">In Good Shape</title>
-    <desc lang="en">In Good Shape</desc>
+    <desc lang="en">It's not only what we eat or when we eat it — how we chew matters too. Discover the latest research on how eating habits shape digestion, metabolism and overall health.</desc>
     <category lang="en">Magazine</category>
     <episode-num system="xmltv_ns">0.0.</episode-num>
     <episode-num system="onscreen">S1E1</episode-num>
@@ -14102,7 +14102,7 @@
   </programme>
   <programme start="20260402163300 +0000" stop="20260402170300 +0000" channel="dw.unifitv">
     <title lang="en">Focus on Europe</title>
-    <desc lang="en">Focus on Europe</desc>
+    <desc lang="en">In Georgia, the mothers of imprisoned pro-EU demonstrators are fighting for justice with a newspaper of their own. +++ How safe is London? A nighttime tour of the city.</desc>
     <category lang="en">Magazine</category>
     <episode-num system="xmltv_ns">0.0.</episode-num>
     <episode-num system="onscreen">S1E1</episode-num>
@@ -14115,8 +14115,8 @@
     <episode-num system="onscreen">S1E1</episode-num>
   </programme>
   <programme start="20260402171800 +0000" stop="20260402173300 +0000" channel="dw.unifitv">
-    <title lang="en">Best of DW-online Content</title>
-    <desc lang="en">Best of DW-online Content</desc>
+    <title lang="en">Travel</title>
+    <desc lang="en">If you love urban exploration, forgotten architecture, and the stories hidden in decay, then Georgia should be your next adventure destination. DW's Anja Koch takes you to two of the country's most haunting lost places: Tskaltubo, a once-grand Soviet spa town with abandoned sanatoriums, and Chiatura, a former mining city where eerie, rusting cable cars cling to the cliffs.</desc>
     <category lang="en">Documentary</category>
     <episode-num system="xmltv_ns">0.0.</episode-num>
     <episode-num system="onscreen">S1E1</episode-num>
@@ -14137,7 +14137,7 @@
   </programme>
   <programme start="20260402183300 +0000" stop="20260402190300 +0000" channel="dw.unifitv">
     <title lang="en">Global Us</title>
-    <desc lang="en">Global Us</desc>
+    <desc lang="en">How creative citizen initiatives in Germany's capital are making the city more livable, and inspiring cities elsewhere. In Zambia, lead pollution from old mines is devastating the lives of those living there today.</desc>
     <category lang="en">Magazine</category>
     <episode-num system="xmltv_ns">0.0.</episode-num>
     <episode-num system="onscreen">S1E1</episode-num>
@@ -14157,8 +14157,8 @@
     <episode-num system="onscreen">S1E1</episode-num>
   </programme>
   <programme start="20260402191800 +0000" stop="20260402193300 +0000" channel="dw.unifitv">
-    <title lang="en">Best of DW-online Content</title>
-    <desc lang="en">Best of DW-online Content</desc>
+    <title lang="en">Travel</title>
+    <desc lang="en">If you love urban exploration, forgotten architecture, and the stories hidden in decay, then Georgia should be your next adventure destination. DW's Anja Koch takes you to two of the country's most haunting lost places: Tskaltubo, a once-grand Soviet spa town with abandoned sanatoriums, and Chiatura, a former mining city where eerie, rusting cable cars cling to the cliffs.</desc>
     <category lang="en">Documentary</category>
     <episode-num system="xmltv_ns">0.0.</episode-num>
     <episode-num system="onscreen">S1E1</episode-num>
@@ -14241,8 +14241,8 @@
     <episode-num system="onscreen">S1E1</episode-num>
   </programme>
   <programme start="20260402231800 +0000" stop="20260402233300 +0000" channel="dw.unifitv">
-    <title lang="en">Best of DW-online Content</title>
-    <desc lang="en">Best of DW-online Content</desc>
+    <title lang="en">Travel</title>
+    <desc lang="en">If you love urban exploration, forgotten architecture, and the stories hidden in decay, then Georgia should be your next adventure destination. DW's Anja Koch takes you to two of the country's most haunting lost places: Tskaltubo, a once-grand Soviet spa town with abandoned sanatoriums, and Chiatura, a former mining city where eerie, rusting cable cars cling to the cliffs.</desc>
     <category lang="en">Documentary</category>
     <episode-num system="xmltv_ns">0.0.</episode-num>
     <episode-num system="onscreen">S1E1</episode-num>
@@ -14312,7 +14312,7 @@
   </programme>
   <programme start="20260403023300 +0000" stop="20260403030300 +0000" channel="dw.unifitv">
     <title lang="en">Focus on Europe</title>
-    <desc lang="en">Focus on Europe</desc>
+    <desc lang="en">In Georgia, the mothers of imprisoned pro-EU demonstrators are fighting for justice with a newspaper of their own. +++ How safe is London? A nighttime tour of the city.</desc>
     <category lang="en">Magazine</category>
     <episode-num system="xmltv_ns">0.0.</episode-num>
     <episode-num system="onscreen">S1E1</episode-num>
@@ -14332,15 +14332,15 @@
     <episode-num system="onscreen">S1E1</episode-num>
   </programme>
   <programme start="20260403031800 +0000" stop="20260403033300 +0000" channel="dw.unifitv">
-    <title lang="en">Best of DW-online Content</title>
-    <desc lang="en">Best of DW-online Content</desc>
+    <title lang="en">Travel</title>
+    <desc lang="en">If you love urban exploration, forgotten architecture, and the stories hidden in decay, then Georgia should be your next adventure destination. DW's Anja Koch takes you to two of the country's most haunting lost places: Tskaltubo, a once-grand Soviet spa town with abandoned sanatoriums, and Chiatura, a former mining city where eerie, rusting cable cars cling to the cliffs.</desc>
     <category lang="en">Documentary</category>
     <episode-num system="xmltv_ns">0.0.</episode-num>
     <episode-num system="onscreen">S1E1</episode-num>
   </programme>
   <programme start="20260403033300 +0000" stop="20260403040300 +0000" channel="dw.unifitv">
     <title lang="en">Made in Germany</title>
-    <desc lang="en">Made in Germany</desc>
+    <desc lang="en">Below the surface, collapsing fish farms turn nets and cages into deadly plastic traps. Divers reveal how risky and complex the cleanup really is.</desc>
     <category lang="en">Magazine</category>
     <episode-num system="xmltv_ns">0.0.</episode-num>
     <episode-num system="onscreen">S1E1</episode-num>
@@ -14402,8 +14402,8 @@
     <episode-num system="onscreen">S1E1</episode-num>
   </programme>
   <programme start="20260403061800 +0000" stop="20260403063300 +0000" channel="dw.unifitv">
-    <title lang="en">Best of DW-online Content</title>
-    <desc lang="en">Best of DW-online Content</desc>
+    <title lang="en">Travel</title>
+    <desc lang="en">If you love urban exploration, forgotten architecture, and the stories hidden in decay, then Georgia should be your next adventure destination. DW's Anja Koch takes you to two of the country's most haunting lost places: Tskaltubo, a once-grand Soviet spa town with abandoned sanatoriums, and Chiatura, a former mining city where eerie, rusting cable cars cling to the cliffs.</desc>
     <category lang="en">Documentary</category>
     <episode-num system="xmltv_ns">0.0.</episode-num>
     <episode-num system="onscreen">S1E1</episode-num>
@@ -14556,15 +14556,15 @@
     <episode-num system="onscreen">S1E1</episode-num>
   </programme>
   <programme start="20260403131800 +0000" stop="20260403133300 +0000" channel="dw.unifitv">
-    <title lang="en">Best of DW-online Content</title>
-    <desc lang="en">Best of DW-online Content</desc>
+    <title lang="en">Euromaxx</title>
+    <desc lang="en">Dario is 25, Swiss, and has just sworn to protect the Pope — even if it costs him his life. In this rare behind-the-scenes look, we follow him through Vatican City, past tourists and tradition, and into the inner workings of one of the world's oldest military units.</desc>
     <category lang="en">Documentary</category>
     <episode-num system="xmltv_ns">0.0.</episode-num>
     <episode-num system="onscreen">S1E1</episode-num>
   </programme>
   <programme start="20260403133300 +0000" stop="20260403140300 +0000" channel="dw.unifitv">
     <title lang="en">In Good Shape</title>
-    <desc lang="en">In Good Shape</desc>
+    <desc lang="en">Is a lack of concentration a sign of ADHD? Is a spell of feeling down actually depression? In Good Shape looks at mental health and neurodiversity.</desc>
     <category lang="en">Magazine</category>
     <episode-num system="xmltv_ns">0.0.</episode-num>
     <episode-num system="onscreen">S1E1</episode-num>

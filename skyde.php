@@ -2969,7 +2969,7 @@
     <title>EFL: Oxford United - Hull City, 40. Spieltag</title>
 </programme>
 <programme start="20260403030000 +0000" stop="20260403050000 +0000" channel="Sky Sport Tennis HD.skyde">
-    <title>ATP 250: R. Jodar (ESP) - T. Machac (CZE), 4. Tag</title>
+    <title>ATP 250: S. Baez (ARG) - T. Droguet (FRA), 4. Tag</title>
 </programme>
 <programme start="20260403050000 +0000" stop="20260403053000 +0000" channel="Sky Sport Tennis HD.skyde">
     <title>WTA 1000: Review Miami</title>
@@ -2978,7 +2978,7 @@
     <title>WTA 500: A. Kalinskaya - P. Badosa (ESP), Credit One Charleston Open in Charleston (USA), 4. Tag</title>
 </programme>
 <programme start="20260403073000 +0000" stop="20260403093000 +0000" channel="Sky Sport Tennis HD.skyde">
-    <title>ATP 250: R. Jodar (ESP) - T. Machac (CZE), 4. Tag</title>
+    <title>ATP 250: S. Baez (ARG) - T. Droguet (FRA), 4. Tag</title>
 </programme>
 <programme start="20260403093000 +0000" stop="20260404030000 +0000" channel="Sky Sport Tennis HD.skyde">
     <title>Live ATP &amp; WTA: Die Topspiele des Tages</title>
