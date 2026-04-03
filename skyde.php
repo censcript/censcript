@@ -1309,13 +1309,13 @@
 <programme start="20260403211000 +0000" stop="20260403220000 +0000" channel="Motorvision+.skyde">
     <title>UK National Legends Cars Championship 2024</title>
 </programme>
-<programme start="20260402221500 +0000" stop="20260402224000 +0000" channel="Nick Jr..skyde">
+<programme start="20260402222000 +0000" stop="20260402224000 +0000" channel="Nick Jr..skyde">
     <title>Rubble &amp; Crew</title>
 </programme>
-<programme start="20260402224000 +0000" stop="20260402230000 +0000" channel="Nick Jr..skyde">
+<programme start="20260402224000 +0000" stop="20260402230500 +0000" channel="Nick Jr..skyde">
     <title>Rubble &amp; Crew</title>
 </programme>
-<programme start="20260402230000 +0000" stop="20260402232500 +0000" channel="Nick Jr..skyde">
+<programme start="20260402230500 +0000" stop="20260402232500 +0000" channel="Nick Jr..skyde">
     <title>Paw Patrol: Helfer auf vier Pfoten</title>
 </programme>
 <programme start="20260402232500 +0000" stop="20260402235000 +0000" channel="Nick Jr..skyde">
@@ -2796,87 +2796,6 @@
 </programme>
 <programme start="20260403200000 +0000" stop="20260403220000 +0000" channel="Sky Sport Mix HD.skyde">
     <title>NHL: Chicago Blackhawks @ Edmonton Oilers</title>
-</programme>
-<programme start="20260402220000 +0000" stop="20260402230000 +0000" channel="Sky Sport News HD.skyde">
-    <title>Sky Sport News: Nightline</title>
-</programme>
-<programme start="20260402230000 +0000" stop="20260402233000 +0000" channel="Sky Sport News HD.skyde">
-    <title>Transfer Update: Die Show</title>
-</programme>
-<programme start="20260402233000 +0000" stop="20260403000000 +0000" channel="Sky Sport News HD.skyde">
-    <title>Sky Sport News: Nightline</title>
-</programme>
-<programme start="20260403000000 +0000" stop="20260403010000 +0000" channel="Sky Sport News HD.skyde">
-    <title>BL: Matchplan: VFB - BVB, 28. Spieltag</title>
-</programme>
-<programme start="20260403010000 +0000" stop="20260403040000 +0000" channel="Sky Sport News HD.skyde">
-    <title>Sky Sport News: Nightline</title>
-</programme>
-<programme start="20260403040000 +0000" stop="20260403050000 +0000" channel="Sky Sport News HD.skyde">
-    <title>Sky Sport News: Der Morgen</title>
-</programme>
-<programme start="20260403050000 +0000" stop="20260403060000 +0000" channel="Sky Sport News HD.skyde">
-    <title>BL: Matchplan: VFB - BVB, 28. Spieltag</title>
-</programme>
-<programme start="20260403060000 +0000" stop="20260403080000 +0000" channel="Sky Sport News HD.skyde">
-    <title>Sky Sport News: Der Morgen</title>
-</programme>
-<programme start="20260403080000 +0000" stop="20260403083000 +0000" channel="Sky Sport News HD.skyde">
-    <title>Live Sky Sport News: FCB-PK</title>
-</programme>
-<programme start="20260403083000 +0000" stop="20260403093000 +0000" channel="Sky Sport News HD.skyde">
-    <title>Sky Sport News: Der Morgen</title>
-</programme>
-<programme start="20260403093000 +0000" stop="20260403100000 +0000" channel="Sky Sport News HD.skyde">
-    <title>Transfer Update: Die Show</title>
-</programme>
-<programme start="20260403100000 +0000" stop="20260403130000 +0000" channel="Sky Sport News HD.skyde">
-    <title>Live Sky Sport News: Pressekonferenzen live</title>
-</programme>
-<programme start="20260403130000 +0000" stop="20260403133000 +0000" channel="Sky Sport News HD.skyde">
-    <title>BL: Neuers Kronprinz: Jonas Urbig exklusiv</title>
-</programme>
-<programme start="20260403133000 +0000" stop="20260403143000 +0000" channel="Sky Sport News HD.skyde">
-    <title>Live TGIF: Die Bundesliga-Vorschau</title>
-</programme>
-<programme start="20260403143000 +0000" stop="20260403144500 +0000" channel="Sky Sport News HD.skyde">
-    <title>Live Sky Sport News: Erste 11 meets Sky Sport Fantasy</title>
-</programme>
-<programme start="20260403144500 +0000" stop="20260403150000 +0000" channel="Sky Sport News HD.skyde">
-    <title>Live TGIF: Die Bundesliga-Vorschau</title>
-</programme>
-<programme start="20260403150000 +0000" stop="20260403153000 +0000" channel="Sky Sport News HD.skyde">
-    <title>Live TGIF: Die Bundesliga-Vorschau</title>
-</programme>
-<programme start="20260403153000 +0000" stop="20260403160000 +0000" channel="Sky Sport News HD.skyde">
-    <title>Live Gesagt. Gemeint: Mit Cramer und Köhler</title>
-</programme>
-<programme start="20260403160000 +0000" stop="20260403163000 +0000" channel="Sky Sport News HD.skyde">
-    <title>Live Sky Sport News: Primetime Spezial - Start zum Bundesliga-Endspurt</title>
-</programme>
-<programme start="20260403163000 +0000" stop="20260403164500 +0000" channel="Sky Sport News HD.skyde">
-    <title>Sky Sport News: Erste 11 meets Sky Sport Fantasy</title>
-</programme>
-<programme start="20260403164500 +0000" stop="20260403170000 +0000" channel="Sky Sport News HD.skyde">
-    <title>Live Sky Sport News: Primetime</title>
-</programme>
-<programme start="20260403170000 +0000" stop="20260403183000 +0000" channel="Sky Sport News HD.skyde">
-    <title>Live Sky Sport News: Primetime</title>
-</programme>
-<programme start="20260403183000 +0000" stop="20260403190000 +0000" channel="Sky Sport News HD.skyde">
-    <title>BL: Neuers Kronprinz: Jonas Urbig exklusiv</title>
-</programme>
-<programme start="20260403190000 +0000" stop="20260403200000 +0000" channel="Sky Sport News HD.skyde">
-    <title>Live Sky Sport News: Guten Abend Fans!</title>
-</programme>
-<programme start="20260403200000 +0000" stop="20260403203000 +0000" channel="Sky Sport News HD.skyde">
-    <title>Live Sky Sport News: Top News</title>
-</programme>
-<programme start="20260403203000 +0000" stop="20260403210000 +0000" channel="Sky Sport News HD.skyde">
-    <title>Gesagt. Gemeint: Mit Cramer und Köhler</title>
-</programme>
-<programme start="20260403210000 +0000" stop="20260403220000 +0000" channel="Sky Sport News HD.skyde">
-    <title>Live Sky Sport News: Deine Vorschau</title>
 </programme>
 <programme start="20260402220000 +0000" stop="20260402230000 +0000" channel="Sky Sport Premier League HD.skyde">
     <title>PL: PL Moments: Thierry Henry&#039;s Top 10</title>

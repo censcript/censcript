@@ -889,6 +889,93 @@
   <programme start="20260405193000 +0000" stop="20260405223500 +0000" channel="Doma.webtv.sk">
     <title lang="id">Liečiteľ</title>
   </programme>
+  <programme start="20260404215000 +0000" stop="20260404223000 +0000" channel="Markíza Krimi.webtv.sk">
+    <title lang="id">Polícia Chicago V (15)</title>
+  </programme>
+  <programme start="20260404223000 +0000" stop="20260404231000 +0000" channel="Markíza Krimi.webtv.sk">
+    <title lang="id">Polícia Chicago V (16)</title>
+  </programme>
+  <programme start="20260404231000 +0000" stop="20260405000500 +0000" channel="Markíza Krimi.webtv.sk">
+    <title lang="id">Špecialisti II (4)</title>
+  </programme>
+  <programme start="20260405000500 +0000" stop="20260405005500 +0000" channel="Markíza Krimi.webtv.sk">
+    <title lang="id">Špecialisti II (5)</title>
+  </programme>
+  <programme start="20260405005500 +0000" stop="20260405013500 +0000" channel="Markíza Krimi.webtv.sk">
+    <title lang="id">Zmiznutí a zabití I (1)</title>
+  </programme>
+  <programme start="20260405013500 +0000" stop="20260405022500 +0000" channel="Markíza Krimi.webtv.sk">
+    <title lang="id">112 (23)</title>
+  </programme>
+  <programme start="20260405022500 +0000" stop="20260405031500 +0000" channel="Markíza Krimi.webtv.sk">
+    <title lang="id">Policajné prípady (11)</title>
+  </programme>
+  <programme start="20260405031500 +0000" stop="20260405040000 +0000" channel="Markíza Krimi.webtv.sk">
+    <title lang="id">Policajné prípady (9)</title>
+  </programme>
+  <programme start="20260405040000 +0000" stop="20260405044500 +0000" channel="Markíza Krimi.webtv.sk">
+    <title lang="id">Policajné prípady (10)</title>
+  </programme>
+  <programme start="20260405044500 +0000" stop="20260405053000 +0000" channel="Markíza Krimi.webtv.sk">
+    <title lang="id">Policajné prípady (11)</title>
+  </programme>
+  <programme start="20260405053000 +0000" stop="20260405062000 +0000" channel="Markíza Krimi.webtv.sk">
+    <title lang="id">Policajné prípady (12)</title>
+  </programme>
+  <programme start="20260405062000 +0000" stop="20260405074000 +0000" channel="Markíza Krimi.webtv.sk">
+    <title lang="id">V mene zákona (2)</title>
+  </programme>
+  <programme start="20260405074000 +0000" stop="20260405082000 +0000" channel="Markíza Krimi.webtv.sk">
+    <title lang="id">Zmiznutí a zabití I (1)</title>
+  </programme>
+  <programme start="20260405082000 +0000" stop="20260405090500 +0000" channel="Markíza Krimi.webtv.sk">
+    <title lang="id">Kosti II (17)</title>
+  </programme>
+  <programme start="20260405090500 +0000" stop="20260405094500 +0000" channel="Markíza Krimi.webtv.sk">
+    <title lang="id">Kosti II (18)</title>
+  </programme>
+  <programme start="20260405094500 +0000" stop="20260405103500 +0000" channel="Markíza Krimi.webtv.sk">
+    <title lang="id">Špecialisti II (4)</title>
+  </programme>
+  <programme start="20260405103500 +0000" stop="20260405112500 +0000" channel="Markíza Krimi.webtv.sk">
+    <title lang="id">Špecialisti II (5)</title>
+  </programme>
+  <programme start="20260405112500 +0000" stop="20260405122000 +0000" channel="Markíza Krimi.webtv.sk">
+    <title lang="id">NCIS - Námorný vyšetrovací úrad IX (13)</title>
+  </programme>
+  <programme start="20260405122000 +0000" stop="20260405132000 +0000" channel="Markíza Krimi.webtv.sk">
+    <title lang="id">NCIS - Námorný vyšetrovací úrad IX (14)</title>
+  </programme>
+  <programme start="20260405132000 +0000" stop="20260405141500 +0000" channel="Markíza Krimi.webtv.sk">
+    <title lang="id">NCIS - Námorný vyšetrovací úrad IX (15)</title>
+  </programme>
+  <programme start="20260405141500 +0000" stop="20260405150000 +0000" channel="Markíza Krimi.webtv.sk">
+    <title lang="id">NCIS - Námorný vyšetrovací úrad IX (16)</title>
+  </programme>
+  <programme start="20260405150000 +0000" stop="20260405160500 +0000" channel="Markíza Krimi.webtv.sk">
+    <title lang="id">Polícia Chicago V (19)</title>
+  </programme>
+  <programme start="20260405160500 +0000" stop="20260405170000 +0000" channel="Markíza Krimi.webtv.sk">
+    <title lang="id">Polícia Chicago V (20)</title>
+  </programme>
+  <programme start="20260405170000 +0000" stop="20260405175500 +0000" channel="Markíza Krimi.webtv.sk">
+    <title lang="id">Bostonské vraždy IV (7)</title>
+  </programme>
+  <programme start="20260405175500 +0000" stop="20260405185500 +0000" channel="Markíza Krimi.webtv.sk">
+    <title lang="id">Bostonské vraždy IV (8)</title>
+  </programme>
+  <programme start="20260405185500 +0000" stop="20260405195500 +0000" channel="Markíza Krimi.webtv.sk">
+    <title lang="id">Špecialisti II (6)</title>
+  </programme>
+  <programme start="20260405195500 +0000" stop="20260405210000 +0000" channel="Markíza Krimi.webtv.sk">
+    <title lang="id">Špecialisti II (7)</title>
+  </programme>
+  <programme start="20260405210000 +0000" stop="20260405215500 +0000" channel="Markíza Krimi.webtv.sk">
+    <title lang="id">Zmiznutí a zabití I (2)</title>
+  </programme>
+  <programme start="20260405215500 +0000" stop="20260405223000 +0000" channel="Markíza Krimi.webtv.sk">
+    <title lang="id">Polícia Chicago V (17)</title>
+  </programme>
   <programme start="20260404204000 +0000" stop="20260404233000 +0000" channel="JOJ Plus.webtv.sk">
     <title lang="id">Noe</title>
   </programme>
@@ -2565,6 +2652,114 @@
   </programme>
   <programme start="20260405200000 +0000" stop="20260405220000 +0000" channel="Šláger Muzika.webtv.sk">
     <title lang="id">Z DECHOVKY DO DECHOVKY</title>
+  </programme>
+  <programme start="20260404205500 +0000" stop="20260404220400 +0000" channel="Skvelé TV.webtv.sk">
+    <title lang="id">V Rukách vyrobené</title>
+  </programme>
+  <programme start="20260404220400 +0000" stop="20260404223500 +0000" channel="Skvelé TV.webtv.sk">
+    <title lang="id">V Remesle</title>
+  </programme>
+  <programme start="20260404223500 +0000" stop="20260404231400 +0000" channel="Skvelé TV.webtv.sk">
+    <title lang="id">V Remesle</title>
+  </programme>
+  <programme start="20260404231400 +0000" stop="20260405000500 +0000" channel="Skvelé TV.webtv.sk">
+    <title lang="id">Zimný špeciál</title>
+  </programme>
+  <programme start="20260405000500 +0000" stop="20260405005800 +0000" channel="Skvelé TV.webtv.sk">
+    <title lang="id">V Remesle</title>
+  </programme>
+  <programme start="20260405005800 +0000" stop="20260405011500 +0000" channel="Skvelé TV.webtv.sk">
+    <title lang="id">V Rukách vyrobené</title>
+  </programme>
+  <programme start="20260405011500 +0000" stop="20260405021500 +0000" channel="Skvelé TV.webtv.sk">
+    <title lang="id">V Rukách vyrobené</title>
+  </programme>
+  <programme start="20260405021500 +0000" stop="20260405025800 +0000" channel="Skvelé TV.webtv.sk">
+    <title lang="id">V Kuchyni</title>
+  </programme>
+  <programme start="20260405025800 +0000" stop="20260405033000 +0000" channel="Skvelé TV.webtv.sk">
+    <title lang="id">V Remesle</title>
+  </programme>
+  <programme start="20260405033000 +0000" stop="20260405041000 +0000" channel="Skvelé TV.webtv.sk">
+    <title lang="id">V Remesle</title>
+  </programme>
+  <programme start="20260405041000 +0000" stop="20260405050000 +0000" channel="Skvelé TV.webtv.sk">
+    <title lang="id">Zimný špeciál</title>
+  </programme>
+  <programme start="20260405050000 +0000" stop="20260405053000 +0000" channel="Skvelé TV.webtv.sk">
+    <title lang="id">V Remesle</title>
+  </programme>
+  <programme start="20260405053000 +0000" stop="20260405062800 +0000" channel="Skvelé TV.webtv.sk">
+    <title lang="id">V Remesle</title>
+  </programme>
+  <programme start="20260405062800 +0000" stop="20260405064400 +0000" channel="Skvelé TV.webtv.sk">
+    <title lang="id">V Rukách vyrobené</title>
+  </programme>
+  <programme start="20260405064400 +0000" stop="20260405074500 +0000" channel="Skvelé TV.webtv.sk">
+    <title lang="id">V Rukách vyrobené</title>
+  </programme>
+  <programme start="20260405074500 +0000" stop="20260405082800 +0000" channel="Skvelé TV.webtv.sk">
+    <title lang="id">V Kuchyni</title>
+  </programme>
+  <programme start="20260405082800 +0000" stop="20260405090000 +0000" channel="Skvelé TV.webtv.sk">
+    <title lang="id">V Remesle</title>
+  </programme>
+  <programme start="20260405090000 +0000" stop="20260405094000 +0000" channel="Skvelé TV.webtv.sk">
+    <title lang="id">V Remesle</title>
+  </programme>
+  <programme start="20260405094000 +0000" stop="20260405103000 +0000" channel="Skvelé TV.webtv.sk">
+    <title lang="id">Zimný špeciál</title>
+  </programme>
+  <programme start="20260405103000 +0000" stop="20260405110000 +0000" channel="Skvelé TV.webtv.sk">
+    <title lang="id">V Remesle</title>
+  </programme>
+  <programme start="20260405110000 +0000" stop="20260405115800 +0000" channel="Skvelé TV.webtv.sk">
+    <title lang="id">V Remesle</title>
+  </programme>
+  <programme start="20260405115800 +0000" stop="20260405121400 +0000" channel="Skvelé TV.webtv.sk">
+    <title lang="id">V Rukách vyrobené</title>
+  </programme>
+  <programme start="20260405121400 +0000" stop="20260405131500 +0000" channel="Skvelé TV.webtv.sk">
+    <title lang="id">V Rukách vyrobené</title>
+  </programme>
+  <programme start="20260405131500 +0000" stop="20260405135800 +0000" channel="Skvelé TV.webtv.sk">
+    <title lang="id">V Kuchyni</title>
+  </programme>
+  <programme start="20260405135800 +0000" stop="20260405143000 +0000" channel="Skvelé TV.webtv.sk">
+    <title lang="id">V Remesle</title>
+  </programme>
+  <programme start="20260405143000 +0000" stop="20260405151000 +0000" channel="Skvelé TV.webtv.sk">
+    <title lang="id">V Remesle</title>
+  </programme>
+  <programme start="20260405151000 +0000" stop="20260405160000 +0000" channel="Skvelé TV.webtv.sk">
+    <title lang="id">Zimný špeciál</title>
+  </programme>
+  <programme start="20260405160000 +0000" stop="20260405163000 +0000" channel="Skvelé TV.webtv.sk">
+    <title lang="id">V Remesle</title>
+  </programme>
+  <programme start="20260405163000 +0000" stop="20260405173000 +0000" channel="Skvelé TV.webtv.sk">
+    <title lang="id">V Remesle</title>
+  </programme>
+  <programme start="20260405173000 +0000" stop="20260405174500 +0000" channel="Skvelé TV.webtv.sk">
+    <title lang="id">V Rukách vyrobené</title>
+  </programme>
+  <programme start="20260405174500 +0000" stop="20260405184500 +0000" channel="Skvelé TV.webtv.sk">
+    <title lang="id">V Rukách vyrobené</title>
+  </programme>
+  <programme start="20260405184500 +0000" stop="20260405193000 +0000" channel="Skvelé TV.webtv.sk">
+    <title lang="id">V Kuchyni</title>
+  </programme>
+  <programme start="20260405193000 +0000" stop="20260405200000 +0000" channel="Skvelé TV.webtv.sk">
+    <title lang="id">V Remesle</title>
+  </programme>
+  <programme start="20260405200000 +0000" stop="20260405204000 +0000" channel="Skvelé TV.webtv.sk">
+    <title lang="id">V Remesle</title>
+  </programme>
+  <programme start="20260405204000 +0000" stop="20260405213200 +0000" channel="Skvelé TV.webtv.sk">
+    <title lang="id">Zimný špeciál</title>
+  </programme>
+  <programme start="20260405213200 +0000" stop="20260405221000 +0000" channel="Skvelé TV.webtv.sk">
+    <title lang="id">V Remesle</title>
   </programme>
   <programme start="20260404214500 +0000" stop="20260404220500 +0000" channel="TV LUX.webtv.sk">
     <title lang="id">Litánie Loretánske</title>
@@ -5796,6 +5991,96 @@
   </programme>
   <programme start="20260405210000 +0000" stop="20260405220000 +0000" channel="Food Network.webtv.sk">
     <title lang="id">Na ostří nože: Nože ven! I (5)</title>
+  </programme>
+  <programme start="20260404220000 +0000" stop="20260404224500 +0000" channel="Animal Planet.webtv.sk">
+    <title lang="id">Žraloci z podsvětí</title>
+  </programme>
+  <programme start="20260404224500 +0000" stop="20260404233000 +0000" channel="Animal Planet.webtv.sk">
+    <title lang="id">Záchrana statku III (13)</title>
+  </programme>
+  <programme start="20260404233000 +0000" stop="20260404235300 +0000" channel="Animal Planet.webtv.sk">
+    <title lang="id">Seznamte se s lenochody I (1)</title>
+  </programme>
+  <programme start="20260404235300 +0000" stop="20260405001500 +0000" channel="Animal Planet.webtv.sk">
+    <title lang="id">Seznamte se s lenochody I (2)</title>
+  </programme>
+  <programme start="20260405001500 +0000" stop="20260405010000 +0000" channel="Animal Planet.webtv.sk">
+    <title lang="id">Zvířecí obydlí I (9)</title>
+  </programme>
+  <programme start="20260405010000 +0000" stop="20260405014500 +0000" channel="Animal Planet.webtv.sk">
+    <title lang="id">Zákon v Texasu V (2)</title>
+  </programme>
+  <programme start="20260405014500 +0000" stop="20260405023000 +0000" channel="Animal Planet.webtv.sk">
+    <title lang="id">Lidé z aljašských lesů II (12)</title>
+  </programme>
+  <programme start="20260405023000 +0000" stop="20260405031500 +0000" channel="Animal Planet.webtv.sk">
+    <title lang="id">Lidé z aljašských lesů II (13)</title>
+  </programme>
+  <programme start="20260405031500 +0000" stop="20260405033800 +0000" channel="Animal Planet.webtv.sk">
+    <title lang="id">Jak to zvířata dokážou I (24)</title>
+  </programme>
+  <programme start="20260405033800 +0000" stop="20260405040000 +0000" channel="Animal Planet.webtv.sk">
+    <title lang="id">Jak to zvířata dokážou I (25)</title>
+  </programme>
+  <programme start="20260405040000 +0000" stop="20260405045000 +0000" channel="Animal Planet.webtv.sk">
+    <title lang="id">Veterinární policie Houston VII (2)</title>
+  </programme>
+  <programme start="20260405045000 +0000" stop="20260405054000 +0000" channel="Animal Planet.webtv.sk">
+    <title lang="id">Veterinární policie Houston VII (3)</title>
+  </programme>
+  <programme start="20260405054000 +0000" stop="20260405063000 +0000" channel="Animal Planet.webtv.sk">
+    <title lang="id">Veterinární policie Houston VII (4)</title>
+  </programme>
+  <programme start="20260405063000 +0000" stop="20260405072500 +0000" channel="Animal Planet.webtv.sk">
+    <title lang="id">Národ tukanů</title>
+  </programme>
+  <programme start="20260405072500 +0000" stop="20260405075300 +0000" channel="Animal Planet.webtv.sk">
+    <title lang="id">Malí obři I (15)</title>
+  </programme>
+  <programme start="20260405075300 +0000" stop="20260405082000 +0000" channel="Animal Planet.webtv.sk">
+    <title lang="id">Malí obři I (16)</title>
+  </programme>
+  <programme start="20260405082000 +0000" stop="20260405091500 +0000" channel="Animal Planet.webtv.sk">
+    <title lang="id">Dr. Jeff: Veterinář ze Skalnatých hor I (2)</title>
+  </programme>
+  <programme start="20260405091500 +0000" stop="20260405101000 +0000" channel="Animal Planet.webtv.sk">
+    <title lang="id">Dr. Jeff: Veterinář ze Skalnatých hor I (3)</title>
+  </programme>
+  <programme start="20260405101000 +0000" stop="20260405110500 +0000" channel="Animal Planet.webtv.sk">
+    <title lang="id">No nazdar! Irwinovi zasahují III (3)</title>
+  </programme>
+  <programme start="20260405110500 +0000" stop="20260405120000 +0000" channel="Animal Planet.webtv.sk">
+    <title lang="id">No nazdar! Irwinovi zasahují III (4)</title>
+  </programme>
+  <programme start="20260405120000 +0000" stop="20260405130000 +0000" channel="Animal Planet.webtv.sk">
+    <title lang="id">Akvárium II (9)</title>
+  </programme>
+  <programme start="20260405130000 +0000" stop="20260405140000 +0000" channel="Animal Planet.webtv.sk">
+    <title lang="id">Pitbulové a propuštění trestanci IX (17)</title>
+  </programme>
+  <programme start="20260405140000 +0000" stop="20260405150000 +0000" channel="Animal Planet.webtv.sk">
+    <title lang="id">Má pekelná kočka V (5)</title>
+  </programme>
+  <programme start="20260405150000 +0000" stop="20260405160000 +0000" channel="Animal Planet.webtv.sk">
+    <title lang="id">Odborník na bazény I (10)</title>
+  </programme>
+  <programme start="20260405160000 +0000" stop="20260405170000 +0000" channel="Animal Planet.webtv.sk">
+    <title lang="id">Odborník na bazény I (11)</title>
+  </programme>
+  <programme start="20260405170000 +0000" stop="20260405180000 +0000" channel="Animal Planet.webtv.sk">
+    <title lang="id">Vymřeli či žijí II (4)</title>
+  </programme>
+  <programme start="20260405180000 +0000" stop="20260405190000 +0000" channel="Animal Planet.webtv.sk">
+    <title lang="id">Akvária na míru II (14)</title>
+  </programme>
+  <programme start="20260405190000 +0000" stop="20260405200000 +0000" channel="Animal Planet.webtv.sk">
+    <title lang="id">Akvária na míru V (7)</title>
+  </programme>
+  <programme start="20260405200000 +0000" stop="20260405210000 +0000" channel="Animal Planet.webtv.sk">
+    <title lang="id">Akvária na míru V (8)</title>
+  </programme>
+  <programme start="20260405210000 +0000" stop="20260405220000 +0000" channel="Animal Planet.webtv.sk">
+    <title lang="id">Poslední obyvatelé Aljašky I (5)</title>
   </programme>
   <programme start="20260404220000 +0000" stop="20260404224500 +0000" channel="History Channel.webtv.sk">
     <title lang="id">Prokletí ostrova Oak</title>
