@@ -8081,7 +8081,7 @@
         <title>Western Sydney Wanderers FC vs Adelaide United</title>
     </programme>
     <programme start="20260403040000 +0000" stop="20260403043000 +0000" channel="SPOTV2.starhub">
-        <title>Day 4 Tie 1 Rajasthan vs Chennai</title>
+        <title>WPBL S2, Mumbai Highlights Day 4 Tie 1 Rajasthan vs Chennai</title>
     </programme>
     <programme start="20260403043000 +0000" stop="20260403073000 +0000" channel="SPOTV2.starhub">
         <title>Panama vs Canada</title>
@@ -8090,7 +8090,7 @@
         <title>Brisbane Roar FC vs Wellington Phoenix</title>
     </programme>
     <programme start="20260403080000 +0000" stop="20260403103000 +0000" channel="SPOTV2.starhub">
-        <title>Seattle Mariners vs New York Yankees</title>
+        <title>2/4 2026 MLB Regular Season Seattle Mariners vs New York Yankees</title>
     </programme>
     <programme start="20260403103000 +0000" stop="20260403110000 +0000" channel="SPOTV2.starhub">
         <title>Auckland FC vs Macarthur FC</title>

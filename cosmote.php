@@ -1,11 +1,3 @@
-<programme start="20260403183000 +0700" stop="20260403203000 +0700" channel="COSMOTE Sport 1 HD">
-    <title>Football: Middlesbrough - Millwall (L)</title>
-    <desc>Live: Ya</desc>
-</programme>
-<programme start="20260403203000 +0700" stop="20260403210000 +0700" channel="COSMOTE Sport 1 HD">
-    <title>UEFA Champions League Magazine 2024-25 E26</title>
-    <desc>Live: Tidak</desc>
-</programme>
 <programme start="20260403210000 +0700" stop="20260403230000 +0700" channel="COSMOTE Sport 1 HD">
     <title>Football: Leicester City FC - Preston North End (L)</title>
     <desc>Live: Ya</desc>
@@ -174,10 +166,6 @@
     <title>Football: Sassuolo - Cagliari (L)</title>
     <desc>Live: Ya</desc>
 </programme>
-<programme start="20260403184500 +0700" stop="20260403210000 +0700" channel="COSMOTE Sport 3 HD">
-    <title>Football: Mansfield Town F.C. - Arsenal</title>
-    <desc>Live: Tidak</desc>
-</programme>
 <programme start="20260403210000 +0700" stop="20260403230000 +0700" channel="COSMOTE Sport 3 HD">
     <title>Football: Oxford United F.C. - Hull City (L)</title>
     <desc>Live: Ya</desc>
@@ -254,10 +242,6 @@
     <title>Football: Middlesbrough - Millwall</title>
     <desc>Live: Tidak</desc>
 </programme>
-<programme start="20260403184000 +0700" stop="20260403204000 +0700" channel="COSMOTE Sport 4 HD">
-    <title>Basketball: Girona - Real Madrid</title>
-    <desc>Live: Tidak</desc>
-</programme>
 <programme start="20260403204000 +0700" stop="20260403224000 +0700" channel="COSMOTE Sport 4 HD">
     <title>Basketball: Anadolu Efes - Tofas</title>
     <desc>Live: Tidak</desc>
@@ -328,10 +312,6 @@
 </programme>
 <programme start="20260404204000 +0700" stop="20260404224000 +0700" channel="COSMOTE Sport 4 HD">
     <title>Basketball: Tenerife - Galatasaray</title>
-    <desc>Live: Tidak</desc>
-</programme>
-<programme start="20260403192500 +0700" stop="20260403210000 +0700" channel="COSMOTE Sport 5 HD">
-    <title>WRC 2026</title>
     <desc>Live: Tidak</desc>
 </programme>
 <programme start="20260403210000 +0700" stop="20260403220000 +0700" channel="COSMOTE Sport 5 HD">
@@ -430,9 +410,9 @@
     <title>DTM 2025</title>
     <desc>Live: Tidak</desc>
 </programme>
-<programme start="20260403190000 +0700" stop="20260403210000 +0700" channel="COSMOTE Sport 6 HD">
-    <title>Tennis: Alexandre Muller - Rafael Jodar (L)</title>
-    <desc>Live: Ya</desc>
+<programme start="20260404210000 +0700" stop="20260404220000 +0700" channel="COSMOTE Sport 5 HD">
+    <title>Highlights: 2025 Extreme H</title>
+    <desc>Live: Tidak</desc>
 </programme>
 <programme start="20260403210000 +0700" stop="20260403230000 +0700" channel="COSMOTE Sport 6 HD">
     <title>Tennis: Camilo Ugo Carabelli - Luca Van Assche (L)</title>
@@ -482,8 +462,8 @@
     <title>Tennis: ATP 250 2026 (L)</title>
     <desc>Live: Ya</desc>
 </programme>
-<programme start="20260403193000 +0700" stop="20260403204000 +0700" channel="COSMOTE Sport 7 HD">
-    <title>Tennis: Felix Auger-Aliassime - Grigor Dimitrov (L)</title>
+<programme start="20260404210000 +0700" stop="20260404233000 +0700" channel="COSMOTE Sport 6 HD">
+    <title>Tennis: ATP 250 2026 (L)</title>
     <desc>Live: Ya</desc>
 </programme>
 <programme start="20260403204000 +0700" stop="20260403214000 +0700" channel="COSMOTE Sport 7 HD">
@@ -571,6 +551,10 @@
     <desc>Live: Ya</desc>
 </programme>
 <programme start="20260404200000 +0700" stop="20260404211500 +0700" channel="COSMOTE Sport 7 HD">
+    <title>Tennis: UTS (L)</title>
+    <desc>Live: Ya</desc>
+</programme>
+<programme start="20260404211500 +0700" stop="20260404223000 +0700" channel="COSMOTE Sport 7 HD">
     <title>Tennis: UTS (L)</title>
     <desc>Live: Ya</desc>
 </programme>

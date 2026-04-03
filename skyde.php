@@ -2989,16 +2989,7 @@
 <programme start="20260403040000 +0000" stop="20260403080000 +0000" channel="Sky Sport Top Event HD.skyde">
     <title>Live Asian Tour: International Series Japan, 2. Tag in Chiba (Japan)</title>
 </programme>
-<programme start="20260403080000 +0000" stop="20260403083000 +0000" channel="Sky Sport Top Event HD.skyde">
-    <title>NBA: Action</title>
-</programme>
-<programme start="20260403083000 +0000" stop="20260403090000 +0000" channel="Sky Sport Top Event HD.skyde">
-    <title>BL: Bundesliga Weekly</title>
-</programme>
-<programme start="20260403090000 +0000" stop="20260403093000 +0000" channel="Sky Sport Top Event HD.skyde">
-    <title>BL: Best of März</title>
-</programme>
-<programme start="20260403093000 +0000" stop="20260403230000 +0000" channel="Sky Sport Top Event HD.skyde">
+<programme start="20260403080000 +0000" stop="20260403230000 +0000" channel="Sky Sport Top Event HD.skyde">
     <title>Live ATP &amp; WTA: Die Topspiele des Tages</title>
 </programme>
 <programme start="20260402220000 +0000" stop="20260403000000 +0000" channel="Sky Sport UHD.skyde">
