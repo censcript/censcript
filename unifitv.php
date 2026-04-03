@@ -746,8 +746,8 @@
     <episode-num system="onscreen">S1E12</episode-num>
   </programme>
   <programme start="20260403080000 +0000" stop="20260403080500 +0000" channel="tv1.unifitv">
-    <title lang="en">Taklimat Krisis Tenaga Global</title>
-    <desc lang="en">Taklimat Krisis Tenaga Global</desc>
+    <title lang="en">LIVE : BERITA SEMASA</title>
+    <desc lang="en">Berita Semasa dalam dan luar negara</desc>
     <category lang="en">Drama</category>
   </programme>
   <programme start="20260403080500 +0000" stop="20260403083000 +0000" channel="tv1.unifitv">
@@ -799,7 +799,7 @@
     <category lang="en">Drama</category>
   </programme>
   <programme start="20260403130000 +0000" stop="20260403140000 +0000" channel="tv1.unifitv">
-    <title lang="en">BICARA NARATIF KHAS</title>
+    <title lang="en">NARATIF KHAS</title>
     <desc lang="en">Saksikan rancangan Naratif Khas mengupas topik bersama pengacara dan tetamu undangan.</desc>
     <category lang="en">Drama</category>
   </programme>
