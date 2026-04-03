@@ -1,15 +1,3 @@
-<programme start="20260404015000 +0700" stop="20260404021000 +0700" channel="COSMOTE Sport 1 HD">
-    <title>Sports Classics: Worldies E19</title>
-    <desc>Live: Tidak</desc>
-</programme>
-<programme start="20260404021000 +0700" stop="20260404023000 +0700" channel="COSMOTE Sport 1 HD">
-    <title>Sports Classics: Worldies E20</title>
-    <desc>Live: Tidak</desc>
-</programme>
-<programme start="20260404023000 +0700" stop="20260404030000 +0700" channel="COSMOTE Sport 1 HD">
-    <title>Game R1 S6 E32</title>
-    <desc>Live: Tidak</desc>
-</programme>
 <programme start="20260404030000 +0700" stop="20260404033000 +0700" channel="COSMOTE Sport 1 HD">
     <title>UEFA Champions League Magazine 2024-25 E27</title>
     <desc>Live: Tidak</desc>
@@ -94,9 +82,9 @@
     <title>UEL &amp; UECL Magazine 2025-26 E16</title>
     <desc>Live: Tidak</desc>
 </programme>
-<programme start="20260404010000 +0700" stop="20260404030000 +0700" channel="COSMOTE Sport 2 HD">
-    <title>Football: Al Nassr - Al Najma (L)</title>
-    <desc>Live: Ya</desc>
+<programme start="20260405032500 +0700" stop="20260405053000 +0700" channel="COSMOTE Sport 1 HD">
+    <title>Football: Panetolikos - Atromitos</title>
+    <desc>Live: Tidak</desc>
 </programme>
 <programme start="20260404030000 +0700" stop="20260404033000 +0700" channel="COSMOTE Sport 2 HD">
     <title>Serie A Full Impact 2025-26 E30</title>
@@ -182,8 +170,8 @@
     <title>Football: SS Lazio - Parma (L)</title>
     <desc>Live: Ya</desc>
 </programme>
-<programme start="20260404020000 +0700" stop="20260404023000 +0700" channel="COSMOTE Sport 3 HD">
-    <title>William Hill Scottish Premiership - Highlights</title>
+<programme start="20260405034500 +0700" stop="20260405060000 +0700" channel="COSMOTE Sport 2 HD">
+    <title>Football: Kifisia - Panserraikos</title>
     <desc>Live: Tidak</desc>
 </programme>
 <programme start="20260404023000 +0700" stop="20260404043000 +0700" channel="COSMOTE Sport 3 HD">
@@ -330,10 +318,6 @@
     <title>Basketball: Philadelphia 76ers - Minnesota Timberwolves</title>
     <desc>Live: Tidak</desc>
 </programme>
-<programme start="20260404014500 +0700" stop="20260404021500 +0700" channel="COSMOTE Sport 5 HD">
-    <title>WRC Magazine 2026</title>
-    <desc>Live: Tidak</desc>
-</programme>
 <programme start="20260404021500 +0700" stop="20260404032000 +0700" channel="COSMOTE Sport 5 HD">
     <title>Motorsports: MotoGP 2026</title>
     <desc>Live: Tidak</desc>
@@ -430,8 +414,8 @@
     <title>Football: Al Hilal - Al Taawon (L)</title>
     <desc>Live: Ya</desc>
 </programme>
-<programme start="20260404010000 +0700" stop="20260404030000 +0700" channel="COSMOTE Sport 6 HD">
-    <title>Tennis: ATP 250 2026</title>
+<programme start="20260405030000 +0700" stop="20260405041500 +0700" channel="COSMOTE Sport 5 HD">
+    <title>2026 Grand Prix Show</title>
     <desc>Live: Tidak</desc>
 </programme>
 <programme start="20260404030000 +0700" stop="20260404070000 +0700" channel="COSMOTE Sport 6 HD">
@@ -472,6 +456,10 @@
 </programme>
 <programme start="20260404233000 +0700" stop="20260405033000 +0700" channel="COSMOTE Sport 6 HD">
     <title>Tennis: ATP 250 2026</title>
+    <desc>Live: Tidak</desc>
+</programme>
+<programme start="20260405033000 +0700" stop="20260405040000 +0700" channel="COSMOTE Sport 6 HD">
+    <title>Sports Classics: 2025 Outdoor Specials</title>
     <desc>Live: Tidak</desc>
 </programme>
 <programme start="20260404020000 +0700" stop="20260404040000 +0700" channel="COSMOTE Sport 7 HD">
