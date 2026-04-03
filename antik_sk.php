@@ -2623,36 +2623,6 @@
   <programme start="20260405181500 +0000" stop="20260405220000 +0000" channel="Šláger Originál.webtv.sk">
     <title lang="id">VEČER PLNÝ VELIKONOČNÍ POMLÁZKY</title>
   </programme>
-  <programme start="20260404220000 +0000" stop="20260405060000 +0000" channel="Šláger Muzika.webtv.sk">
-    <title lang="id">LIDOVÝ ŠLÁGR MIŠMAŠ</title>
-  </programme>
-  <programme start="20260405060000 +0000" stop="20260405080000 +0000" channel="Šláger Muzika.webtv.sk">
-    <title lang="id">Z DECHOVKY DO DECHOVKY</title>
-  </programme>
-  <programme start="20260405080000 +0000" stop="20260405100000 +0000" channel="Šláger Muzika.webtv.sk">
-    <title lang="id">Z DECHOVKY DO DECHOVKY</title>
-  </programme>
-  <programme start="20260405100000 +0000" stop="20260405120000 +0000" channel="Šláger Muzika.webtv.sk">
-    <title lang="id">Z DECHOVKY DO DECHOVKY</title>
-  </programme>
-  <programme start="20260405120000 +0000" stop="20260405140000 +0000" channel="Šláger Muzika.webtv.sk">
-    <title lang="id">VANDROVNICKÝM CHODNÍČKOM</title>
-  </programme>
-  <programme start="20260405140000 +0000" stop="20260405160000 +0000" channel="Šláger Muzika.webtv.sk">
-    <title lang="id">Z DECHOVKY DO DECHOVKY</title>
-  </programme>
-  <programme start="20260405160000 +0000" stop="20260405172000 +0000" channel="Šláger Muzika.webtv.sk">
-    <title lang="id">PÍSNIČKY NA PŘÁNÍ</title>
-  </programme>
-  <programme start="20260405172000 +0000" stop="20260405183500 +0000" channel="Šláger Muzika.webtv.sk">
-    <title lang="id">PÍSNIČKY NA PŘÁNÍ</title>
-  </programme>
-  <programme start="20260405183500 +0000" stop="20260405200000 +0000" channel="Šláger Muzika.webtv.sk">
-    <title lang="id">NEJŽÁDANĚJŠÍ PÍSNIČKY</title>
-  </programme>
-  <programme start="20260405200000 +0000" stop="20260405220000 +0000" channel="Šláger Muzika.webtv.sk">
-    <title lang="id">Z DECHOVKY DO DECHOVKY</title>
-  </programme>
   <programme start="20260404205500 +0000" stop="20260404220400 +0000" channel="Skvelé TV.webtv.sk">
     <title lang="id">V Rukách vyrobené</title>
   </programme>
@@ -4051,23 +4021,23 @@
   <programme start="20260405215000 +0000" stop="20260405223000 +0000" channel="Prima Krimi SK.webtv.sk">
     <title lang="id">Prvních 48 hodin XIX (5)</title>
   </programme>
-  <programme start="20260404212000 +0000" stop="20260404233500 +0000" channel="Seznam.cz TV.webtv.sk">
+  <programme start="20260404212000 +0000" stop="20260404232000 +0000" channel="Seznam.cz TV.webtv.sk">
     <title lang="id">Vraždy podle Jidáše</title>
   </programme>
-  <programme start="20260404233500 +0000" stop="20260405013000 +0000" channel="Seznam.cz TV.webtv.sk">
+  <programme start="20260404232000 +0000" stop="20260405010000 +0000" channel="Seznam.cz TV.webtv.sk">
     <title lang="id">Ve stínu Fukušimy</title>
   </programme>
-  <programme start="20260405013000 +0000" stop="20260405031000 +0000" channel="Seznam.cz TV.webtv.sk">
-    <title lang="id">Policejní mafie</title>
+  <programme start="20260405010000 +0000" stop="20260405014500 +0000" channel="Seznam.cz TV.webtv.sk">
+    <title lang="id">Moje místa: Karel Vágner</title>
   </programme>
-  <programme start="20260405031000 +0000" stop="20260405034000 +0000" channel="Seznam.cz TV.webtv.sk">
+  <programme start="20260405014500 +0000" stop="20260405021500 +0000" channel="Seznam.cz TV.webtv.sk">
     <title lang="id">Ušák Jaromíra Bosáka (174)</title>
   </programme>
-  <programme start="20260405034000 +0000" stop="20260405035000 +0000" channel="Seznam.cz TV.webtv.sk">
-    <title lang="id">Ze dvora II (1)</title>
-  </programme>
-  <programme start="20260405035000 +0000" stop="20260405040000 +0000" channel="Seznam.cz TV.webtv.sk">
+  <programme start="20260405021500 +0000" stop="20260405022500 +0000" channel="Seznam.cz TV.webtv.sk">
     <title lang="id">U stánku I (7)</title>
+  </programme>
+  <programme start="20260405022500 +0000" stop="20260405040000 +0000" channel="Seznam.cz TV.webtv.sk">
+    <title lang="id">Policejní mafie</title>
   </programme>
   <programme start="20260405040000 +0000" stop="20260405041000 +0000" channel="Seznam.cz TV.webtv.sk">
     <title lang="id">Ve dvou se to lépe vaří (recepty) (17)</title>
@@ -8043,90 +8013,6 @@
   </programme>
   <programme start="20260405215500 +0000" stop="20260405224500 +0000" channel="Spektrum.webtv.sk">
     <title lang="id">Zakázané zóny II (1)</title>
-  </programme>
-  <programme start="20260404214500 +0000" stop="20260404224500 +0000" channel="Spektrum Home.webtv.sk">
-    <title lang="id">Šije celá Británie VI (7)</title>
-  </programme>
-  <programme start="20260404224500 +0000" stop="20260404233000 +0000" channel="Spektrum Home.webtv.sk">
-    <title lang="id">Velkolepé plány - Nový Zéland VIII (1)</title>
-  </programme>
-  <programme start="20260404233000 +0000" stop="20260405001500 +0000" channel="Spektrum Home.webtv.sk">
-    <title lang="id">Velkolepé plány - Nový Zéland VIII (2)</title>
-  </programme>
-  <programme start="20260405001500 +0000" stop="20260405014500 +0000" channel="Spektrum Home.webtv.sk">
-    <title lang="id">Cizinka s mou tváří</title>
-  </programme>
-  <programme start="20260405014500 +0000" stop="20260405031000 +0000" channel="Spektrum Home.webtv.sk">
-    <title lang="id">Smrtelné setkání</title>
-  </programme>
-  <programme start="20260405031000 +0000" stop="20260405040000 +0000" channel="Spektrum Home.webtv.sk">
-    <title lang="id">Mistři dřeva III (5)</title>
-  </programme>
-  <programme start="20260405040000 +0000" stop="20260405045000 +0000" channel="Spektrum Home.webtv.sk">
-    <title lang="id">Dům snů V (20)</title>
-  </programme>
-  <programme start="20260405045000 +0000" stop="20260405054000 +0000" channel="Spektrum Home.webtv.sk">
-    <title lang="id">Dům snů V (21)</title>
-  </programme>
-  <programme start="20260405054000 +0000" stop="20260405055500 +0000" channel="Spektrum Home.webtv.sk">
-    <title lang="id">River Cottage: Průvodce I (5)</title>
-  </programme>
-  <programme start="20260405055500 +0000" stop="20260405064500 +0000" channel="Spektrum Home.webtv.sk">
-    <title lang="id">Velkolepé plány - Nový Zéland VIII (1)</title>
-  </programme>
-  <programme start="20260405064500 +0000" stop="20260405073500 +0000" channel="Spektrum Home.webtv.sk">
-    <title lang="id">Velkolepé plány - Nový Zéland VIII (2)</title>
-  </programme>
-  <programme start="20260405073500 +0000" stop="20260405084000 +0000" channel="Spektrum Home.webtv.sk">
-    <title lang="id">Šije celá Británie VI (7)</title>
-  </programme>
-  <programme start="20260405084000 +0000" stop="20260405093000 +0000" channel="Spektrum Home.webtv.sk">
-    <title lang="id">Klub mistrů zahradníků II (4)</title>
-  </programme>
-  <programme start="20260405093000 +0000" stop="20260405102500 +0000" channel="Spektrum Home.webtv.sk">
-    <title lang="id">Jít nebo zůstat? VI (1)</title>
-  </programme>
-  <programme start="20260405102500 +0000" stop="20260405112000 +0000" channel="Spektrum Home.webtv.sk">
-    <title lang="id">Jít nebo zůstat? VI (2)</title>
-  </programme>
-  <programme start="20260405112000 +0000" stop="20260405115500 +0000" channel="Spektrum Home.webtv.sk">
-    <title lang="id">Clive Myrie: Toulky v Karibiku I (6)</title>
-  </programme>
-  <programme start="20260405115500 +0000" stop="20260405123000 +0000" channel="Spektrum Home.webtv.sk">
-    <title lang="id">Clive Myrie: Toulky v Karibiku I (7)</title>
-  </programme>
-  <programme start="20260405123000 +0000" stop="20260405124500 +0000" channel="Spektrum Home.webtv.sk">
-    <title lang="id">River Cottage: Průvodce I (9)</title>
-  </programme>
-  <programme start="20260405124500 +0000" stop="20260405133500 +0000" channel="Spektrum Home.webtv.sk">
-    <title lang="id">Mistři dřeva III (6)</title>
-  </programme>
-  <programme start="20260405133500 +0000" stop="20260405144000 +0000" channel="Spektrum Home.webtv.sk">
-    <title lang="id">Šije celá Británie VI (8)</title>
-  </programme>
-  <programme start="20260405144000 +0000" stop="20260405153000 +0000" channel="Spektrum Home.webtv.sk">
-    <title lang="id">Dům snů V (22)</title>
-  </programme>
-  <programme start="20260405153000 +0000" stop="20260405162000 +0000" channel="Spektrum Home.webtv.sk">
-    <title lang="id">Dům snů V (23)</title>
-  </programme>
-  <programme start="20260405162000 +0000" stop="20260405171000 +0000" channel="Spektrum Home.webtv.sk">
-    <title lang="id">Velkolepé plány - Nový Zéland VIII (3)</title>
-  </programme>
-  <programme start="20260405171000 +0000" stop="20260405180000 +0000" channel="Spektrum Home.webtv.sk">
-    <title lang="id">Velkolepé plány - Nový Zéland VIII (4)</title>
-  </programme>
-  <programme start="20260405180000 +0000" stop="20260405193000 +0000" channel="Spektrum Home.webtv.sk">
-    <title lang="id">Doly krále Šalamouna I (1)</title>
-  </programme>
-  <programme start="20260405193000 +0000" stop="20260405210000 +0000" channel="Spektrum Home.webtv.sk">
-    <title lang="id">Doly krále Šalamouna I (2)</title>
-  </programme>
-  <programme start="20260405210000 +0000" stop="20260405215000 +0000" channel="Spektrum Home.webtv.sk">
-    <title lang="id">Klub mistrů zahradníků II (4)</title>
-  </programme>
-  <programme start="20260405215000 +0000" stop="20260405225000 +0000" channel="Spektrum Home.webtv.sk">
-    <title lang="id">Šije celá Británie VI (8)</title>
   </programme>
   <programme start="20260404220000 +0000" stop="20260404223000 +0000" channel="Fishing&Hunting.webtv.sk">
     <title lang="id">SEDO Fishing - Lov kaprů z dlouhého náhozu</title>
@@ -19431,39 +19317,6 @@
   </programme>
   <programme start="20260405215000 +0000" stop="20260406005000 +0000" channel="Óčko.webtv.sk">
     <title lang="id">ÓČKO FLIRT</title>
-  </programme>
-  <programme start="20260404190000 +0000" stop="20260404230000 +0000" channel="Óčko Black.webtv.sk">
-    <title lang="id">JUMPIN’</title>
-  </programme>
-  <programme start="20260404230000 +0000" stop="20260405050000 +0000" channel="Óčko Black.webtv.sk">
-    <title lang="id">SLEEPIN’</title>
-  </programme>
-  <programme start="20260405050000 +0000" stop="20260405090000 +0000" channel="Óčko Black.webtv.sk">
-    <title lang="id">MORNIN’</title>
-  </programme>
-  <programme start="20260405090000 +0000" stop="20260405100000 +0000" channel="Óčko Black.webtv.sk">
-    <title lang="id">CZECH SPOTIFY LIST</title>
-  </programme>
-  <programme start="20260405100000 +0000" stop="20260405120000 +0000" channel="Óčko Black.webtv.sk">
-    <title lang="id">WORKIN’</title>
-  </programme>
-  <programme start="20260405120000 +0000" stop="20260405130000 +0000" channel="Óčko Black.webtv.sk">
-    <title lang="id">O BLACK LIST</title>
-  </programme>
-  <programme start="20260405130000 +0000" stop="20260405160000 +0000" channel="Óčko Black.webtv.sk">
-    <title lang="id">CHILLIN’</title>
-  </programme>
-  <programme start="20260405160000 +0000" stop="20260405170000 +0000" channel="Óčko Black.webtv.sk">
-    <title lang="id">B-DAY LIST: JUICY J</title>
-  </programme>
-  <programme start="20260405170000 +0000" stop="20260405180000 +0000" channel="Óčko Black.webtv.sk">
-    <title lang="id">CZ&amp;SK</title>
-  </programme>
-  <programme start="20260405180000 +0000" stop="20260405210000 +0000" channel="Óčko Black.webtv.sk">
-    <title lang="id">CHILLIN’</title>
-  </programme>
-  <programme start="20260405210000 +0000" stop="20260405220000 +0000" channel="Óčko Black.webtv.sk">
-    <title lang="id">ROOTS</title>
   </programme>
   <programme start="20260404210000 +0000" stop="20260405000000 +0000" channel="Óčko Expres.webtv.sk">
     <title lang="id">Expres NITE</title>

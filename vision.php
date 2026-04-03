@@ -619,9 +619,6 @@
 <programme start="20260403090000 +0000" stop="20260403110000 +0000" channel="ANTV.vision">
 <title>Vasudha</title>
 </programme>
-<programme start="20260403110000 +0000" stop="20260403130000 +0000" channel="ANTV.vision">
-<title>Jin Galunggung</title>
-</programme>
 <programme start="20260403130000 +0000" stop="20260403143000 +0000" channel="ANTV.vision">
 <title>Petualangan Cinta Nyi Blorong</title>
 </programme>
@@ -1497,4 +1494,7 @@
 </programme>
 <programme start="20260403050000 +0000" stop="20260403060000 +0000" channel="DAAI TV.vision">
 <title>Halo Indonesia</title>
+</programme>
+<programme start="20260403060000 +0000" stop="20260403063000 +0000" channel="DAAI TV.vision">
+<title>Potret</title>
 </programme>

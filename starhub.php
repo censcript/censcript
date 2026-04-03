@@ -8066,10 +8066,10 @@
         <title>Practice</title>
     </programme>
     <programme start="20260402173000 +0000" stop="20260402180000 +0000" channel="SPOTV2.starhub">
-        <title>2025/26 ALM Mini Match Rd 22 Auckland FC vs Macarthur FC</title>
+        <title>Auckland FC vs Macarthur FC</title>
     </programme>
     <programme start="20260402180000 +0000" stop="20260402184500 +0000" channel="SPOTV2.starhub">
-        <title>2025/26 ALM Mini Match Rd 22 Melbourne Victory vs Central Coast Mariners FC</title>
+        <title>Melbourne Victory vs Central Coast Mariners FC</title>
     </programme>
     <programme start="20260402184500 +0000" stop="20260402220000 +0000" channel="SPOTV2.starhub">
         <title>Qualifying/Sprint</title>
