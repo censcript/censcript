@@ -2397,10 +2397,10 @@ Warning: Undefined array key "et" in /usr/home/ManusiaBiasa/domains/manusiabiasa
 <programme start="20260404214000 +0000" stop="20260404222500 +0000" channel="Sky Showcase HD.skyde">
     <title>Snapped: Behind Bars</title>
 </programme>
-<programme start="20260403223000 +0000" stop="20260404001500 +0000" channel="Sky Sport Austria 1 HD.skyde">
-    <title>Fußball: Klassiker der Woche: SCR - STU (2007/08)</title>
+<programme start="20260403224000 +0000" stop="20260404002000 +0000" channel="Sky Sport Austria 1 HD.skyde">
+    <title>Fußball: Klassiker der Woche: RBS - STU (2009/10)</title>
 </programme>
-<programme start="20260404001500 +0000" stop="20260404004500 +0000" channel="Sky Sport Austria 1 HD.skyde">
+<programme start="20260404002000 +0000" stop="20260404004500 +0000" channel="Sky Sport Austria 1 HD.skyde">
     <title>UEFA CL: Magazin</title>
 </programme>
 <programme start="20260404004500 +0000" stop="20260404024500 +0000" channel="Sky Sport Austria 1 HD.skyde">
@@ -2631,7 +2631,7 @@ Warning: Undefined array key "et" in /usr/home/ManusiaBiasa/domains/manusiabiasa
 <programme start="20260404180000 +0000" stop="20260404210000 +0000" channel="Sky Sport Bundesliga 2 HD.skyde">
     <title>Live 2. BL: Dynamo Dresden - Hertha BSC, tipico Topspiel der Woche, 28. Spieltag</title>
 </programme>
-<programme start="20260404210000 +0000" stop="20260404220000 +0000" channel="Sky Sport Bundesliga 2 HD.skyde">
+<programme start="20260404210000 +0000" stop="20260404223000 +0000" channel="Sky Sport Bundesliga 2 HD.skyde">
     <title>2. BL Alle Spiele, alle Tore: Die Vodafone Highlight-Show, 28. Spieltag, Samstag komplett</title>
 </programme>
 <programme start="20260404101000 +0000" stop="20260404103000 +0000" channel="Sky Sport Bundesliga 3 HD.skyde">
@@ -2658,7 +2658,7 @@ Warning: Undefined array key "et" in /usr/home/ManusiaBiasa/domains/manusiabiasa
 <programme start="20260404130000 +0000" stop="20260404131500 +0000" channel="Sky Sport Bundesliga 4 HD.skyde">
     <title>Live BL: BMG - FCH: tipico Countdown, 28. Spieltag</title>
 </programme>
-<programme start="20260404131500 +0000" stop="20260404154500 +0000" channel="Sky Sport Bundesliga 4 HD.skyde">
+<programme start="20260404131500 +0000" stop="20260404161500 +0000" channel="Sky Sport Bundesliga 4 HD.skyde">
     <title>Live BL: Borussia M&#039;gladbach - 1. FC Heidenheim, 28. Spieltag</title>
 </programme>
 <programme start="20260404101000 +0000" stop="20260404103000 +0000" channel="Sky Sport Bundesliga 5 HD.skyde">
@@ -2691,7 +2691,7 @@ Warning: Undefined array key "et" in /usr/home/ManusiaBiasa/domains/manusiabiasa
 <programme start="20260404103000 +0000" stop="20260404130000 +0000" channel="Sky Sport Bundesliga 7 HD.skyde">
     <title>Live 2. BL: Multiview 28. Spieltag, Samstag</title>
 </programme>
-<programme start="20260404130000 +0000" stop="20260404153000 +0000" channel="Sky Sport Bundesliga 7 HD.skyde">
+<programme start="20260404130000 +0000" stop="20260404161500 +0000" channel="Sky Sport Bundesliga 7 HD.skyde">
     <title>Live BL: Multiview 28. Spieltag</title>
 </programme>
 <programme start="20260404101000 +0000" stop="20260404103000 +0000" channel="Sky Sport Bundesliga 8 HD.skyde">
@@ -3094,12 +3094,12 @@ Warning: Undefined array key "et" in /usr/home/ManusiaBiasa/domains/manusiabiasa
     <title>Live NHL: Boston Bruins @ Tampa Bay Lightning</title>
 </programme>
 <programme start="20260404184000 +0000" stop="20260404190000 +0000" channel="Sky Sport 4 HD.skyde">
-    <title>Es folgt: ATP World Tour</title>
+    <title>Es folgt: LIVE ATP World Tour</title>
 </programme>
 <programme start="20260404190000 +0000" stop="20260404210000 +0000" channel="Sky Sport 4 HD.skyde">
     <title>Live ATP 250: HF1, Fayez Sarofim &amp; Co U.S. Men&#039;s Clay Court Championship in Houston (USA), Halbfinale 1</title>
 </programme>
-<programme start="20260404210000 +0000" stop="20260404230000 +0000" channel="Sky Sport 4 HD.skyde">
+<programme start="20260404210000 +0000" stop="20260405080000 +0000" channel="Sky Sport 4 HD.skyde">
     <title>Live ATP 250: HF2, Fayez Sarofim &amp; Co U.S. Men&#039;s Clay Court Championship in Houston (USA), Halbfinale 2</title>
 </programme>
 <programme start="20260403220000 +0000" stop="20260403224500 +0000" channel="SYFY HD.skyde">
