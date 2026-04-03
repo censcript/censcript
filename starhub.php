@@ -6875,7 +6875,7 @@
         <title>9th LaLiga FC Futures International Soccer Tournament: Flamengo vs Inter Miami</title>
     </programme>
     <programme start="20260403041500 +0000" stop="20260403045500 +0000" channel="beIN Sports HD.starhub">
-        <title>9th LaLiga FC Futures International Soccer Tournament: Atletico Madrid vs Valenc</title>
+        <title>9th LaLiga FC Futures International Soccer Tournament: Atletico Madrid vs Valencia</title>
     </programme>
     <programme start="20260403045500 +0000" stop="20260403054000 +0000" channel="beIN Sports HD.starhub">
         <title>9th LaLiga FC Futures International Soccer Tournament: Palmeiras vs Flamengo</title>

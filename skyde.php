@@ -2833,7 +2833,10 @@
 <programme start="20260403100000 +0000" stop="20260403130000 +0000" channel="Sky Sport News HD.skyde">
     <title>Live Sky Sport News: Pressekonferenzen live</title>
 </programme>
-<programme start="20260403130000 +0000" stop="20260403143000 +0000" channel="Sky Sport News HD.skyde">
+<programme start="20260403130000 +0000" stop="20260403133000 +0000" channel="Sky Sport News HD.skyde">
+    <title>BL: Neuers Kronprinz: Jonas Urbig exklusiv</title>
+</programme>
+<programme start="20260403133000 +0000" stop="20260403143000 +0000" channel="Sky Sport News HD.skyde">
     <title>Live TGIF: Die Bundesliga-Vorschau</title>
 </programme>
 <programme start="20260403143000 +0000" stop="20260403144500 +0000" channel="Sky Sport News HD.skyde">
@@ -2849,7 +2852,7 @@
     <title>Live Gesagt. Gemeint: Mit Cramer und Köhler</title>
 </programme>
 <programme start="20260403160000 +0000" stop="20260403163000 +0000" channel="Sky Sport News HD.skyde">
-    <title>Live Sky Sport News: Primetime</title>
+    <title>Live Sky Sport News: Primetime Spezial - Start zum Bundesliga-Endspurt</title>
 </programme>
 <programme start="20260403163000 +0000" stop="20260403164500 +0000" channel="Sky Sport News HD.skyde">
     <title>Sky Sport News: Erste 11 meets Sky Sport Fantasy</title>
@@ -2860,7 +2863,10 @@
 <programme start="20260403170000 +0000" stop="20260403183000 +0000" channel="Sky Sport News HD.skyde">
     <title>Live Sky Sport News: Primetime</title>
 </programme>
-<programme start="20260403183000 +0000" stop="20260403200000 +0000" channel="Sky Sport News HD.skyde">
+<programme start="20260403183000 +0000" stop="20260403190000 +0000" channel="Sky Sport News HD.skyde">
+    <title>BL: Neuers Kronprinz: Jonas Urbig exklusiv</title>
+</programme>
+<programme start="20260403190000 +0000" stop="20260403200000 +0000" channel="Sky Sport News HD.skyde">
     <title>Live Sky Sport News: Guten Abend Fans!</title>
 </programme>
 <programme start="20260403200000 +0000" stop="20260403203000 +0000" channel="Sky Sport News HD.skyde">
@@ -2963,16 +2969,16 @@
     <title>EFL: Oxford United - Hull City, 40. Spieltag</title>
 </programme>
 <programme start="20260403030000 +0000" stop="20260403050000 +0000" channel="Sky Sport Tennis HD.skyde">
-    <title>ATP 250: Topspiel, 4. Tag</title>
+    <title>ATP 250: R. Jodar (ESP) - T. Machac (CZE), 4. Tag</title>
 </programme>
 <programme start="20260403050000 +0000" stop="20260403053000 +0000" channel="Sky Sport Tennis HD.skyde">
     <title>WTA 1000: Review Miami</title>
 </programme>
 <programme start="20260403053000 +0000" stop="20260403073000 +0000" channel="Sky Sport Tennis HD.skyde">
-    <title>WTA 500: Topspiel, Credit One Charleston Open in Charleston (USA), 4. Tag</title>
+    <title>WTA 500: A. Kalinskaya - P. Badosa (ESP), Credit One Charleston Open in Charleston (USA), 4. Tag</title>
 </programme>
 <programme start="20260403073000 +0000" stop="20260403093000 +0000" channel="Sky Sport Tennis HD.skyde">
-    <title>ATP 250: Topspiel, 4. Tag</title>
+    <title>ATP 250: R. Jodar (ESP) - T. Machac (CZE), 4. Tag</title>
 </programme>
 <programme start="20260403093000 +0000" stop="20260404030000 +0000" channel="Sky Sport Tennis HD.skyde">
     <title>Live ATP &amp; WTA: Die Topspiele des Tages</title>

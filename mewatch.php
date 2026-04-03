@@ -491,7 +491,7 @@
         <title>CNA Tech Challenge - EP 2</title>
     </programme>
     <programme start="20260402200000 +0000" stop="20260402210000 +0000" channel="CNA.mewatch">
-        <title>Asia Tonight 2026/2027</title>
+        <title>Asia Tonight</title>
     </programme>
     <programme start="20260402210000 +0000" stop="20260402220000 +0000" channel="CNA.mewatch">
         <title>When Titans Clash 11: Why US Allies Are Hedging Their Bets</title>
@@ -533,7 +533,7 @@
         <title>CNA Tech Challenge - EP 4</title>
     </programme>
     <programme start="20260403120000 +0000" stop="20260403130000 +0000" channel="CNA.mewatch">
-        <title>(Live) Asia Tonight 2026/2027</title>
+        <title>(Live) Asia Tonight</title>
     </programme>
     <programme start="20260403130000 +0000" stop="20260403140000 +0000" channel="CNA.mewatch">
         <title>Japan Hour [English Subtitles] - EP 13</title>
