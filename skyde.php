@@ -1,3 +1,5 @@
+
+Warning: Undefined array key "et" in /usr/home/ManusiaBiasa/domains/manusiabiasa.serv00.net/public_html/cen/epg/skyde.php on line 135
 <programme start="20260402220000 +0000" stop="20260402224000 +0000" channel="13th Street HD.skyde">
     <title>Law &amp; Order: Special Victims Unit</title>
 </programme>
@@ -2110,62 +2112,56 @@
 <programme start="20260403214000 +0000" stop="20260403222500 +0000" channel="Sky Documentaries HD.skyde">
     <title>Air Warriors</title>
 </programme>
-<programme start="20260402221000 +0000" stop="20260402225500 +0000" channel="Sky Krimi HD.skyde">
-    <title>SOKO Leipzig</title>
+<programme start="20260403225500 +0000" stop="20260404002500 +0000" channel="Sky Krimi HD.skyde">
+    <title>Ein starkes Team: Im Namen des Volkes</title>
 </programme>
-<programme start="20260402225500 +0000" stop="20260402234000 +0000" channel="Sky Krimi HD.skyde">
-    <title>SOKO Leipzig</title>
+<programme start="20260404002500 +0000" stop="20260404011000 +0000" channel="Sky Krimi HD.skyde">
+    <title>Die Rosenheim-Cops</title>
 </programme>
-<programme start="20260402234000 +0000" stop="20260403002500 +0000" channel="Sky Krimi HD.skyde">
-    <title>SOKO Leipzig</title>
+<programme start="20260404002525 +0000" stop="20260404002838 +0000" channel="Sky Krimi HD.skyde">
+    <title></title>
 </programme>
-<programme start="20260403002500 +0000" stop="20260403011000 +0000" channel="Sky Krimi HD.skyde">
-    <title>SOKO Leipzig</title>
-</programme>
-<programme start="20260403011000 +0000" stop="20260403015500 +0000" channel="Sky Krimi HD.skyde">
-    <title>SOKO Leipzig</title>
-</programme>
-<programme start="20260403015500 +0000" stop="20260403024000 +0000" channel="Sky Krimi HD.skyde">
-    <title>SOKO Leipzig</title>
-</programme>
-<programme start="20260403024000 +0000" stop="20260403041000 +0000" channel="Sky Krimi HD.skyde">
-    <title>Unter anderen Umständen: Dämonen</title>
-</programme>
-<programme start="20260403041000 +0000" stop="20260403054500 +0000" channel="Sky Krimi HD.skyde">
-    <title>Unter anderen Umständen: Mütter und Söhne</title>
-</programme>
-<programme start="20260403054500 +0000" stop="20260403071500 +0000" channel="Sky Krimi HD.skyde">
-    <title>Erzgebirgskrimi: Der Tote im Burggraben</title>
-</programme>
-<programme start="20260403071500 +0000" stop="20260403085000 +0000" channel="Sky Krimi HD.skyde">
-    <title>Erzgebirgskrimi: Der letzte Bissen</title>
-</programme>
-<programme start="20260403085000 +0000" stop="20260403102500 +0000" channel="Sky Krimi HD.skyde">
-    <title>Erzgebirgskrimi: Ein Mord zu Weihnachten</title>
-</programme>
-<programme start="20260403102500 +0000" stop="20260403120000 +0000" channel="Sky Krimi HD.skyde">
+<programme start="20260404011000 +0000" stop="20260404024000 +0000" channel="Sky Krimi HD.skyde">
     <title>Erzgebirgskrimi: Verhängnisvolle Recherche</title>
 </programme>
-<programme start="20260403120000 +0000" stop="20260403133000 +0000" channel="Sky Krimi HD.skyde">
+<programme start="20260404024000 +0000" stop="20260404041500 +0000" channel="Sky Krimi HD.skyde">
     <title>Erzgebirgskrimi: Tödliche Abrechnung</title>
 </programme>
-<programme start="20260403133000 +0000" stop="20260403150500 +0000" channel="Sky Krimi HD.skyde">
+<programme start="20260404041500 +0000" stop="20260404054500 +0000" channel="Sky Krimi HD.skyde">
     <title>Erzgebirgskrimi: Familienband</title>
 </programme>
-<programme start="20260403150500 +0000" stop="20260403164000 +0000" channel="Sky Krimi HD.skyde">
-    <title>Ein starkes Team: Verdammt lang her</title>
+<programme start="20260404054500 +0000" stop="20260404072000 +0000" channel="Sky Krimi HD.skyde">
+    <title>Wilsberg: Aus heiterem Himmel</title>
 </programme>
-<programme start="20260403164000 +0000" stop="20260403181500 +0000" channel="Sky Krimi HD.skyde">
-    <title>Ein starkes Team: Die letzte Runde</title>
+<programme start="20260404072000 +0000" stop="20260404085000 +0000" channel="Sky Krimi HD.skyde">
+    <title>Wilsberg: Einer von uns</title>
 </programme>
-<programme start="20260403181500 +0000" stop="20260403194500 +0000" channel="Sky Krimi HD.skyde">
-    <title>Ein starkes Team: Abgestürzt</title>
+<programme start="20260404085000 +0000" stop="20260404102500 +0000" channel="Sky Krimi HD.skyde">
+    <title>Wilsberg: Gene lügen nicht</title>
 </programme>
-<programme start="20260403194500 +0000" stop="20260403212000 +0000" channel="Sky Krimi HD.skyde">
-    <title>Ein starkes Team: Die letzte Reise</title>
+<programme start="20260404102500 +0000" stop="20260404120000 +0000" channel="Sky Krimi HD.skyde">
+    <title>Wilsberg: Ungebetene Gäste</title>
 </programme>
-<programme start="20260403212000 +0000" stop="20260403225500 +0000" channel="Sky Krimi HD.skyde">
-    <title>Ein starkes Team: Schulzeit</title>
+<programme start="20260404120000 +0000" stop="20260404133000 +0000" channel="Sky Krimi HD.skyde">
+    <title>Wilsberg: Schmeckt nach Mord</title>
+</programme>
+<programme start="20260404133000 +0000" stop="20260404150500 +0000" channel="Sky Krimi HD.skyde">
+    <title>Wilsberg: Fette Beute</title>
+</programme>
+<programme start="20260404150500 +0000" stop="20260404164000 +0000" channel="Sky Krimi HD.skyde">
+    <title>Friesland: Unter der Oberfläche</title>
+</programme>
+<programme start="20260404164000 +0000" stop="20260404181500 +0000" channel="Sky Krimi HD.skyde">
+    <title>Friesland: Prima Klima</title>
+</programme>
+<programme start="20260404181500 +0000" stop="20260404194500 +0000" channel="Sky Krimi HD.skyde">
+    <title>Friesland: Fundsachen</title>
+</programme>
+<programme start="20260404194500 +0000" stop="20260404212000 +0000" channel="Sky Krimi HD.skyde">
+    <title>Friesland: Artenvielfalt</title>
+</programme>
+<programme start="20260404212000 +0000" stop="20260404225000 +0000" channel="Sky Krimi HD.skyde">
+    <title>Friesland: Landfluchten</title>
 </programme>
 <programme start="20260402224500 +0000" stop="20260402233000 +0000" channel="Sky Nature HD.skyde">
     <title>Terra X: Kielings wilde Welt</title>
@@ -2989,16 +2985,7 @@
 <programme start="20260403040000 +0000" stop="20260403080000 +0000" channel="Sky Sport Top Event HD.skyde">
     <title>Live Asian Tour: International Series Japan, 2. Tag in Chiba (Japan)</title>
 </programme>
-<programme start="20260403080000 +0000" stop="20260403083000 +0000" channel="Sky Sport Top Event HD.skyde">
-    <title>NBA: Action</title>
-</programme>
-<programme start="20260403083000 +0000" stop="20260403090000 +0000" channel="Sky Sport Top Event HD.skyde">
-    <title>BL: Bundesliga Weekly</title>
-</programme>
-<programme start="20260403090000 +0000" stop="20260403093000 +0000" channel="Sky Sport Top Event HD.skyde">
-    <title>BL: Best of März</title>
-</programme>
-<programme start="20260403093000 +0000" stop="20260403230000 +0000" channel="Sky Sport Top Event HD.skyde">
+<programme start="20260403080000 +0000" stop="20260403230000 +0000" channel="Sky Sport Top Event HD.skyde">
     <title>Live ATP &amp; WTA: Die Topspiele des Tages</title>
 </programme>
 <programme start="20260402220000 +0000" stop="20260403000000 +0000" channel="Sky Sport UHD.skyde">
