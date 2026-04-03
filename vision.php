@@ -40,8 +40,11 @@
 <programme start="20260403230000 +0000" stop="20260404010000 +0000" channel="RCTI.vision">
 <title>Upin Ipin</title>
 </programme>
-<programme start="20260404010000 +0000" stop="20260404033000 +0000" channel="RCTI.vision">
+<programme start="20260404010000 +0000" stop="20260404023000 +0000" channel="RCTI.vision">
 <title>Entong (RCTI)</title>
+</programme>
+<programme start="20260404023000 +0000" stop="20260404033000 +0000" channel="RCTI.vision">
+<title>Captain Tsubasa S2</title>
 </programme>
 <programme start="20260404033000 +0000" stop="20260404043000 +0000" channel="RCTI.vision">
 <title>Go Spot (RCTI)</title>
@@ -53,7 +56,7 @@
 <title>Dunia Masih Terbalik</title>
 </programme>
 <programme start="20260404063000 +0000" stop="20260404090000 +0000" channel="RCTI.vision">
-<title>Si Doel Anak Sekolahan S2</title>
+<title>Si Doel Anak Sekolahan S3</title>
 </programme>
 <programme start="20260404090000 +0000" stop="20260404103000 +0000" channel="RCTI.vision">
 <title>My Dear Guardian</title>
@@ -606,9 +609,6 @@
 </programme>
 <programme start="20260403003000 +0000" stop="20260403023000 +0000" channel="ANTV.vision">
 <title>Janji Cinta Inspektur Virat</title>
-</programme>
-<programme start="20260403023000 +0000" stop="20260403060000 +0000" channel="ANTV.vision">
-<title>Dilwale</title>
 </programme>
 <programme start="20260403060000 +0000" stop="20260403080000 +0000" channel="ANTV.vision">
 <title>Jhanak</title>

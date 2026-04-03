@@ -5228,7 +5228,7 @@
         <title>Round 2</title>
     </programme>
     <programme start="20260403083000 +0000" stop="20260403103000 +0000" channel="SPOTV.starhub">
-        <title>25/26 A-League Men Round 23 Adelaide United vs Auckland FC (Live)</title>
+        <title>Adelaide United vs Auckland FC</title>
     </programme>
     <programme start="20260403103000 +0000" stop="20260403114500 +0000" channel="SPOTV.starhub">
         <title>Free Practice 1</title>
