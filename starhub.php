@@ -8078,22 +8078,22 @@
         <title>Day 1</title>
     </programme>
     <programme start="20260403020000 +0000" stop="20260403040000 +0000" channel="SPOTV2.starhub">
-        <title>25/26 A-League Men Round 22 Western Sydney Wanderers FC vs Adelaide United</title>
+        <title>Western Sydney Wanderers FC vs Adelaide United</title>
     </programme>
     <programme start="20260403040000 +0000" stop="20260403043000 +0000" channel="SPOTV2.starhub">
-        <title>WPBL S2, Mumbai Highlights Day 4 Tie 1 Rajasthan vs Chennai</title>
+        <title>Day 4 Tie 1 Rajasthan vs Chennai</title>
     </programme>
     <programme start="20260403043000 +0000" stop="20260403073000 +0000" channel="SPOTV2.starhub">
-        <title>2026 World Baseball Classic: Pool A Panama vs Canada</title>
+        <title>Panama vs Canada</title>
     </programme>
     <programme start="20260403073000 +0000" stop="20260403080000 +0000" channel="SPOTV2.starhub">
-        <title>2025/26 ALM Mini Match Rd 22 Brisbane Roar FC vs Wellington Phoenix</title>
+        <title>Brisbane Roar FC vs Wellington Phoenix</title>
     </programme>
     <programme start="20260403080000 +0000" stop="20260403103000 +0000" channel="SPOTV2.starhub">
-        <title>2/4 2026 MLB Regular Season Seattle Mariners vs New York Yankees</title>
+        <title>Seattle Mariners vs New York Yankees</title>
     </programme>
     <programme start="20260403103000 +0000" stop="20260403110000 +0000" channel="SPOTV2.starhub">
-        <title>2025/26 ALM Mini Match Rd 22 Auckland FC vs Macarthur FC</title>
+        <title>Auckland FC vs Macarthur FC</title>
     </programme>
     <programme start="20260403110000 +0000" stop="20260403141500 +0000" channel="SPOTV2.starhub">
         <title>Free Practice 2/Qualifying</title>
