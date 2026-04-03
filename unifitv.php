@@ -14607,72 +14607,334 @@
   <channel id="nhkworldjapan.unifitv">
     <display-name>NHK WORLD-JAPAN</display-name>
   </channel>
-  <programme start="20260402153500 +0000" stop="20260402183300 +0000" channel="nhkworldjapan.unifitv">
+  <programme start="20260402153500 +0000" stop="20260402160500 +0000" channel="nhkworldjapan.unifitv">
     <title lang="en">Today's Close-Up</title>
-    <desc lang="en">Dig deeper into current affairs. Cutting-edge information and critical analysis on important issues confronting Japanese lives.</desc>
+    <desc lang="en">Fifteen years after the Fukushima accident, NHK revisits the account of the man who led the battle to contain the disaster and considers the lessons it holds for Japan today.</desc>
     <category lang="en">News</category>
     <episode-num system="xmltv_ns">0.4047.</episode-num>
     <episode-num system="onscreen">S1E4048</episode-num>
+  </programme>
+  <programme start="20260402160500 +0000" stop="20260402163500 +0000" channel="nhkworldjapan.unifitv">
+    <title lang="en">NHK NEWSLINE</title>
+    <desc lang="en">NHK NEWSLINE brings you up to date with the latest from Japan, Asia and around the world. Our team covers breaking news and major developments, with trusted anchors to tie it all together.</desc>
+    <category lang="en">News</category>
+  </programme>
+  <programme start="20260402163500 +0000" stop="20260402170500 +0000" channel="nhkworldjapan.unifitv">
+    <title lang="en">Backstage Japan</title>
+    <desc lang="en">We explore the Tokyo Skytree, from its dazzling heights to its hidden depths. Discover the role this iconic structure plays in advancing scientific research.</desc>
+    <category lang="en">News</category>
+    <episode-num system="xmltv_ns">0.5143.</episode-num>
+    <episode-num system="onscreen">S1E5144</episode-num>
+  </programme>
+  <programme start="20260402170500 +0000" stop="20260402173500 +0000" channel="nhkworldjapan.unifitv">
+    <title lang="en">NHK NEWSLINE</title>
+    <desc lang="en">NHK NEWSLINE brings you up to date with the latest from Japan, Asia and around the world. Our team covers breaking news and major developments, with trusted anchors to tie it all together.</desc>
+    <category lang="en">News</category>
+  </programme>
+  <programme start="20260402173500 +0000" stop="20260402180500 +0000" channel="nhkworldjapan.unifitv">
+    <title lang="en">Core Kyoto</title>
+    <desc lang="en">Fermenting soybeans, Koji mold, and salt produces richly flavored, aromatic Miso. Types vary by region, but the white, mellow Miso first made 1000 years ago in the imperial court is favored in Kyoto.</desc>
+    <category lang="en">News</category>
+    <episode-num system="xmltv_ns">0.2028.</episode-num>
+    <episode-num system="onscreen">S1E2029</episode-num>
+  </programme>
+  <programme start="20260402180500 +0000" stop="20260402183300 +0000" channel="nhkworldjapan.unifitv">
+    <title lang="en">NEWSROOM TOKYO</title>
+    <desc lang="en">NEWSROOM TOKYO dives deeper into the day's news with insight and analysis, from the perspective of Japan and the rest of Asia. We put a spotlight on what you need to know to understand the issues.</desc>
+    <category lang="en">News</category>
   </programme>
   <programme start="20260402183300 +0000" stop="20260402184800 +0000" channel="nhkworldjapan.unifitv">
     <title lang="en">Direct Talk</title>
-    <desc lang="en">Direct and in-depth. Interviews exploring the minds and motivations of the leaders, visionaries, artists and entrepreneurs who are changing our world.</desc>
+    <desc lang="en">Kimura Masahiko is a legend of the bonsai world who has won the Prime Minister's Award, one of the industry's highest honors, 27 times. He talks about creating original works that break the mold.</desc>
     <category lang="en">News</category>
     <episode-num system="xmltv_ns">0.2104.</episode-num>
     <episode-num system="onscreen">S1E2105</episode-num>
   </programme>
-  <programme start="20260402184800 +0000" stop="20260402213500 +0000" channel="nhkworldjapan.unifitv">
-    <title lang="en">NHK WORLD SELECTION</title>
-    <desc lang="en">A selection of acclaimed programs from NHK's domestic channels dubbed into English.</desc>
+  <programme start="20260402184800 +0000" stop="20260402190000 +0000" channel="nhkworldjapan.unifitv">
+    <title lang="en">Trails to Oishii Tokyo 10min.</title>
+    <desc lang="en">Unique Japanese egg dishes like raw egg over rice are a hit with inbound tourists. Visit farms that produce eggs safe to eat raw, and savor a variety of dishes at a long-established Kyoto restaurant.</desc>
     <category lang="en">News</category>
-    <episode-num system="xmltv_ns">0.4012.</episode-num>
-    <episode-num system="onscreen">S1E4013</episode-num>
+    <episode-num system="xmltv_ns">0.6118.</episode-num>
+    <episode-num system="onscreen">S1E6119</episode-num>
   </programme>
-  <programme start="20260402213500 +0000" stop="20260403003500 +0000" channel="nhkworldjapan.unifitv">
+  <programme start="20260402190000 +0000" stop="20260402190500 +0000" channel="nhkworldjapan.unifitv">
+    <title lang="en">Ukiyoe EDO-LIFE(3)</title>
+    <desc lang="en">At dusk in summer, a woman is absorbed in reading a letter. This chic lady is actually an advertisement model for Mitsui Echigoya, one of the top kimono fabric stores in Edo.</desc>
+    <category lang="en">News</category>
+    <episode-num system="xmltv_ns">0.6029.</episode-num>
+    <episode-num system="onscreen">S1E6030</episode-num>
+  </programme>
+  <programme start="20260402190500 +0000" stop="20260402193200 +0000" channel="nhkworldjapan.unifitv">
+    <title lang="en">Hometown Stories</title>
+    <desc lang="en">More than a decade after the Great East Japan Earthquake, two women who lost their daughters ask a painter to portray them as grown ups. Will the portraits bring solace to the bereaved families?</desc>
+    <category lang="en">News</category>
+    <episode-num system="xmltv_ns">0.5002.</episode-num>
+    <episode-num system="onscreen">S1E5003</episode-num>
+  </programme>
+  <programme start="20260402193200 +0000" stop="20260402193500 +0000" channel="nhkworldjapan.unifitv">
+    <title lang="en">Satoyama Kitchen Spring #1</title>
+    <desc lang="en">At the Satoyama Kitchen guesthouse in Hida Takayama, chef Nobuko, her cameraman husband Makoto and their cat Tama take us on a tasty journey of local cuisine served with a side of seasonal scenery.</desc>
+    <category lang="en">News</category>
+    <episode-num system="xmltv_ns">0.6050.</episode-num>
+    <episode-num system="onscreen">S1E6051</episode-num>
+  </programme>
+  <programme start="20260402193500 +0000" stop="20260402200500 +0000" channel="nhkworldjapan.unifitv">
+    <title lang="en">Japanology Plus</title>
+    <desc lang="en">Roughly 90% of Japan's plastic models are made in Shizuoka, an area whose manufacturing roots date back to shogun Tokugawa Ieyasu. We explore the latest developments for Japan's superb plastic models.</desc>
+    <category lang="en">News</category>
+    <episode-num system="xmltv_ns">0.2031.</episode-num>
+    <episode-num system="onscreen">S1E2032</episode-num>
+  </programme>
+  <programme start="20260402200500 +0000" stop="20260402203500 +0000" channel="nhkworldjapan.unifitv">
+    <title lang="en">NHK NEWSLINE</title>
+    <desc lang="en">NHK NEWSLINE brings you up to date with the latest from Japan, Asia and around the world. Our team covers breaking news and major developments, with trusted anchors to tie it all together.</desc>
+    <category lang="en">News</category>
+  </programme>
+  <programme start="20260402203500 +0000" stop="20260402210500 +0000" channel="nhkworldjapan.unifitv">
+    <title lang="en">Japan Railway Journal</title>
+    <desc lang="en">A unique project along Tokyo's JR Ome Line is turning the area's empty homes into hotel rooms with one station currently acting as the front desk. See how tourism is revitalizing the community.</desc>
+    <category lang="en">News</category>
+    <episode-num system="xmltv_ns">0.2048.</episode-num>
+    <episode-num system="onscreen">S1E2049</episode-num>
+  </programme>
+  <programme start="20260402210500 +0000" stop="20260402213500 +0000" channel="nhkworldjapan.unifitv">
+    <title lang="en">NHK NEWSLINE</title>
+    <desc lang="en">NHK NEWSLINE brings you up to date with the latest from Japan, Asia and around the world. Our team covers breaking news and major developments, with trusted anchors to tie it all together.</desc>
+    <category lang="en">News</category>
+  </programme>
+  <programme start="20260402213500 +0000" stop="20260402220500 +0000" channel="nhkworldjapan.unifitv">
     <title lang="en">Today's Close-Up</title>
-    <desc lang="en">Dig deeper into current affairs. Cutting-edge information and critical analysis on important issues confronting Japanese lives.</desc>
+    <desc lang="en">Fifteen years after the Fukushima accident, NHK revisits the account of the man who led the battle to contain the disaster and considers the lessons it holds for Japan today.</desc>
     <category lang="en">News</category>
     <episode-num system="xmltv_ns">0.4047.</episode-num>
     <episode-num system="onscreen">S1E4048</episode-num>
   </programme>
-  <programme start="20260403003500 +0000" stop="20260403053500 +0000" channel="nhkworldjapan.unifitv">
+  <programme start="20260402220500 +0000" stop="20260402223500 +0000" channel="nhkworldjapan.unifitv">
+    <title lang="en">NHK NEWSLINE</title>
+    <desc lang="en">NHK NEWSLINE brings you up to date with the latest from Japan, Asia and around the world. Our team covers breaking news and major developments, with trusted anchors to tie it all together.</desc>
+    <category lang="en">News</category>
+  </programme>
+  <programme start="20260402223500 +0000" stop="20260402230500 +0000" channel="nhkworldjapan.unifitv">
+    <title lang="en">Core Kyoto</title>
+    <desc lang="en">Fermenting soybeans, Koji mold, and salt produces richly flavored, aromatic Miso. Types vary by region, but the white, mellow Miso first made 1000 years ago in the imperial court is favored in Kyoto.</desc>
+    <category lang="en">News</category>
+    <episode-num system="xmltv_ns">0.2028.</episode-num>
+    <episode-num system="onscreen">S1E2029</episode-num>
+  </programme>
+  <programme start="20260402230500 +0000" stop="20260402233500 +0000" channel="nhkworldjapan.unifitv">
+    <title lang="en">NHK NEWSLINE</title>
+    <desc lang="en">NHK NEWSLINE brings you up to date with the latest from Japan, Asia and around the world. Our team covers breaking news and major developments, with trusted anchors to tie it all together.</desc>
+    <category lang="en">News</category>
+  </programme>
+  <programme start="20260402233500 +0000" stop="20260403000500 +0000" channel="nhkworldjapan.unifitv">
+    <title lang="en">Backstage Japan</title>
+    <desc lang="en">We explore the Tokyo Skytree, from its dazzling heights to its hidden depths. Discover the role this iconic structure plays in advancing scientific research.</desc>
+    <category lang="en">News</category>
+    <episode-num system="xmltv_ns">0.5143.</episode-num>
+    <episode-num system="onscreen">S1E5144</episode-num>
+  </programme>
+  <programme start="20260403000500 +0000" stop="20260403003500 +0000" channel="nhkworldjapan.unifitv">
+    <title lang="en">NHK NEWSLINE</title>
+    <desc lang="en">NHK NEWSLINE brings you up to date with the latest from Japan, Asia and around the world. Our team covers breaking news and major developments, with trusted anchors to tie it all together.</desc>
+    <category lang="en">News</category>
+  </programme>
+  <programme start="20260403003500 +0000" stop="20260403010500 +0000" channel="nhkworldjapan.unifitv">
     <title lang="en">Today's Close-Up</title>
-    <desc lang="en">Dig deeper into current affairs. Cutting-edge information and critical analysis on important issues confronting Japanese lives.</desc>
+    <desc lang="en">A scramble for rare earth elements is reshaping global power, as the US, China and Japan race to secure the minerals vital to advanced industry, economic security and future technologies.</desc>
     <category lang="en">News</category>
     <episode-num system="xmltv_ns">0.4047.</episode-num>
     <episode-num system="onscreen">S1E4048</episode-num>
   </programme>
-  <programme start="20260403053500 +0000" stop="20260403103500 +0000" channel="nhkworldjapan.unifitv">
+  <programme start="20260403010500 +0000" stop="20260403013500 +0000" channel="nhkworldjapan.unifitv">
+    <title lang="en">NHK NEWSLINE</title>
+    <desc lang="en">NHK NEWSLINE brings you up to date with the latest from Japan, Asia and around the world. Our team covers breaking news and major developments, with trusted anchors to tie it all together.</desc>
+    <category lang="en">News</category>
+  </programme>
+  <programme start="20260403013500 +0000" stop="20260403020500 +0000" channel="nhkworldjapan.unifitv">
+    <title lang="en">Asia Insight</title>
+    <desc lang="en">In Bangkok's largest slum, children of migrant families are taking up musical instruments to play in an orchestra in hopes of having a better future.</desc>
+    <category lang="en">News</category>
+    <episode-num system="xmltv_ns">0.2021.</episode-num>
+    <episode-num system="onscreen">S1E2022</episode-num>
+  </programme>
+  <programme start="20260403020500 +0000" stop="20260403023500 +0000" channel="nhkworldjapan.unifitv">
+    <title lang="en">NHK NEWSLINE</title>
+    <desc lang="en">NHK NEWSLINE brings you up to date with the latest from Japan, Asia and around the world. Our team covers breaking news and major developments, with trusted anchors to tie it all together.</desc>
+    <category lang="en">News</category>
+  </programme>
+  <programme start="20260403023500 +0000" stop="20260403030500 +0000" channel="nhkworldjapan.unifitv">
+    <title lang="en">Trailblazers</title>
+    <desc lang="en">Edo Kiriko is characterized by colored glass with intricate patterns cut into it. Shiina Takayuki is drawing on his father and brother's exceptional skills to produce new kaleidoscopes of beauty.</desc>
+    <category lang="en">News</category>
+    <episode-num system="xmltv_ns">0.6999.</episode-num>
+    <episode-num system="onscreen">S1E7000</episode-num>
+  </programme>
+  <programme start="20260403030500 +0000" stop="20260403033500 +0000" channel="nhkworldjapan.unifitv">
+    <title lang="en">NHK NEWSLINE</title>
+    <desc lang="en">NHK NEWSLINE brings you up to date with the latest from Japan, Asia and around the world. Our team covers breaking news and major developments, with trusted anchors to tie it all together.</desc>
+    <category lang="en">News</category>
+  </programme>
+  <programme start="20260403033500 +0000" stop="20260403040500 +0000" channel="nhkworldjapan.unifitv">
+    <title lang="en">Japan Railway Journal</title>
+    <desc lang="en">A unique project along Tokyo's JR Ome Line is turning the area's empty homes into hotel rooms with one station currently acting as the front desk. See how tourism is revitalizing the community.</desc>
+    <category lang="en">News</category>
+    <episode-num system="xmltv_ns">0.2048.</episode-num>
+    <episode-num system="onscreen">S1E2049</episode-num>
+  </programme>
+  <programme start="20260403040500 +0000" stop="20260403043500 +0000" channel="nhkworldjapan.unifitv">
+    <title lang="en">NHK NEWSLINE</title>
+    <desc lang="en">NHK NEWSLINE brings you up to date with the latest from Japan, Asia and around the world. Our team covers breaking news and major developments, with trusted anchors to tie it all together.</desc>
+    <category lang="en">News</category>
+  </programme>
+  <programme start="20260403043500 +0000" stop="20260403050500 +0000" channel="nhkworldjapan.unifitv">
+    <title lang="en">Seasoning the Seasons</title>
+    <desc lang="en">This program visits places across Japan to introduce the charms of their local daily life and festivals fostered by the nation's long history.</desc>
+    <category lang="en">News</category>
+    <episode-num system="xmltv_ns">0.2023.</episode-num>
+    <episode-num system="onscreen">S1E2024</episode-num>
+  </programme>
+  <programme start="20260403050500 +0000" stop="20260403053500 +0000" channel="nhkworldjapan.unifitv">
+    <title lang="en">NHK NEWSLINE</title>
+    <desc lang="en">NHK NEWSLINE brings you up to date with the latest from Japan, Asia and around the world. Our team covers breaking news and major developments, with trusted anchors to tie it all together.</desc>
+    <category lang="en">News</category>
+  </programme>
+  <programme start="20260403053500 +0000" stop="20260403060500 +0000" channel="nhkworldjapan.unifitv">
     <title lang="en">Today's Close-Up</title>
-    <desc lang="en">Dig deeper into current affairs. Cutting-edge information and critical analysis on important issues confronting Japanese lives.</desc>
+    <desc lang="en">A scramble for rare earth elements is reshaping global power, as the US, China and Japan race to secure the minerals vital to advanced industry, economic security and future technologies.</desc>
     <category lang="en">News</category>
     <episode-num system="xmltv_ns">0.4047.</episode-num>
     <episode-num system="onscreen">S1E4048</episode-num>
   </programme>
-  <programme start="20260403103500 +0000" stop="20260403113300 +0000" channel="nhkworldjapan.unifitv">
+  <programme start="20260403060500 +0000" stop="20260403063500 +0000" channel="nhkworldjapan.unifitv">
+    <title lang="en">NEWSLINE ASIA 24</title>
+    <desc lang="en">NHK NEWSLINE brings you up to date with the latest from Japan, Asia and around the world. Our team covers breaking news and major developments, with trusted anchors to tie it all together.</desc>
+    <category lang="en">News</category>
+  </programme>
+  <programme start="20260403063500 +0000" stop="20260403070500 +0000" channel="nhkworldjapan.unifitv">
+    <title lang="en">Asia Insight</title>
+    <desc lang="en">In Bangkok's largest slum, children of migrant families are taking up musical instruments to play in an orchestra in hopes of having a better future.</desc>
+    <category lang="en">News</category>
+    <episode-num system="xmltv_ns">0.2021.</episode-num>
+    <episode-num system="onscreen">S1E2022</episode-num>
+  </programme>
+  <programme start="20260403070500 +0000" stop="20260403073500 +0000" channel="nhkworldjapan.unifitv">
+    <title lang="en">NEWSLINE ASIA 24</title>
+    <desc lang="en">NHK NEWSLINE brings you up to date with the latest from Japan, Asia and around the world. Our team covers breaking news and major developments, with trusted anchors to tie it all together.</desc>
+    <category lang="en">News</category>
+  </programme>
+  <programme start="20260403073500 +0000" stop="20260403080500 +0000" channel="nhkworldjapan.unifitv">
+    <title lang="en">Trailblazers</title>
+    <desc lang="en">Edo Kiriko is characterized by colored glass with intricate patterns cut into it. Shiina Takayuki is drawing on his father and brother's exceptional skills to produce new kaleidoscopes of beauty.</desc>
+    <category lang="en">News</category>
+    <episode-num system="xmltv_ns">0.6999.</episode-num>
+    <episode-num system="onscreen">S1E7000</episode-num>
+  </programme>
+  <programme start="20260403080500 +0000" stop="20260403083500 +0000" channel="nhkworldjapan.unifitv">
+    <title lang="en">NHK NEWSLINE</title>
+    <desc lang="en">NHK NEWSLINE brings you up to date with the latest from Japan, Asia and around the world. Our team covers breaking news and major developments, with trusted anchors to tie it all together.</desc>
+    <category lang="en">News</category>
+  </programme>
+  <programme start="20260403083500 +0000" stop="20260403090500 +0000" channel="nhkworldjapan.unifitv">
+    <title lang="en">Document 72 hours</title>
+    <desc lang="en">An amusement arcade near Tokyo has row after row of token-operated games. For three days, we asked people about the appeal of games that offer no cash or prizes, no matter how many tokens are won.</desc>
+    <category lang="en">News</category>
+    <episode-num system="xmltv_ns">0.4025.</episode-num>
+    <episode-num system="onscreen">S1E4026</episode-num>
+  </programme>
+  <programme start="20260403090500 +0000" stop="20260403093500 +0000" channel="nhkworldjapan.unifitv">
+    <title lang="en">NHK NEWSLINE</title>
+    <desc lang="en">NHK NEWSLINE brings you up to date with the latest from Japan, Asia and around the world. Our team covers breaking news and major developments, with trusted anchors to tie it all together.</desc>
+    <category lang="en">News</category>
+  </programme>
+  <programme start="20260403093500 +0000" stop="20260403100500 +0000" channel="nhkworldjapan.unifitv">
+    <title lang="en">Japan Railway Journal</title>
+    <desc lang="en">A unique project along Tokyo's JR Ome Line is turning the area's empty homes into hotel rooms with one station currently acting as the front desk. See how tourism is revitalizing the community.</desc>
+    <category lang="en">News</category>
+    <episode-num system="xmltv_ns">0.2048.</episode-num>
+    <episode-num system="onscreen">S1E2049</episode-num>
+  </programme>
+  <programme start="20260403100500 +0000" stop="20260403103500 +0000" channel="nhkworldjapan.unifitv">
+    <title lang="en">NHK NEWS 7</title>
+    <desc lang="en">NEWS 7 is NHK's flagship domestic evening news program, bringing you the latest from our Tokyo studio. It's presented with English audio on NHK World for our international viewers.</desc>
+    <category lang="en">News</category>
+  </programme>
+  <programme start="20260403103500 +0000" stop="20260403110500 +0000" channel="nhkworldjapan.unifitv">
     <title lang="en">Today's Close-Up</title>
-    <desc lang="en">Dig deeper into current affairs. Cutting-edge information and critical analysis on important issues confronting Japanese lives.</desc>
+    <desc lang="en">A scramble for rare earth elements is reshaping global power, as the US, China and Japan race to secure the minerals vital to advanced industry, economic security and future technologies.</desc>
     <category lang="en">News</category>
     <episode-num system="xmltv_ns">0.4047.</episode-num>
     <episode-num system="onscreen">S1E4048</episode-num>
+  </programme>
+  <programme start="20260403110500 +0000" stop="20260403113300 +0000" channel="nhkworldjapan.unifitv">
+    <title lang="en">NEWSROOM TOKYO</title>
+    <desc lang="en">NEWSROOM TOKYO dives deeper into the day's news with insight and analysis, from the perspective of Japan and the rest of Asia. We put a spotlight on what you need to know to understand the issues.</desc>
+    <category lang="en">News</category>
   </programme>
   <programme start="20260403113300 +0000" stop="20260403114800 +0000" channel="nhkworldjapan.unifitv">
     <title lang="en">Direct Talk</title>
-    <desc lang="en">Direct and in-depth. Interviews exploring the minds and motivations of the leaders, visionaries, artists and entrepreneurs who are changing our world.</desc>
+    <desc lang="en">Yoshida Miyako performed around the world as a Royal Ballet principal dancer, and is now a top artistic director in Japan. She explains the challenges Japanese ballet faces on the international stage.</desc>
     <category lang="en">News</category>
     <episode-num system="xmltv_ns">0.2104.</episode-num>
     <episode-num system="onscreen">S1E2105</episode-num>
   </programme>
-  <programme start="20260403114800 +0000" stop="20260403153500 +0000" channel="nhkworldjapan.unifitv">
+  <programme start="20260403114800 +0000" stop="20260403120000 +0000" channel="nhkworldjapan.unifitv">
     <title lang="en">IMPACTS: Climates Change the World</title>
-    <desc lang="en">The entire Earth is affected by climate change, occurring with a greater speed and scale than ever before. This program uses scientific data and the latest findings to raise awareness on its impact.</desc>
+    <desc lang="en">The world is too divided to unite and tackle the issue of the Earth getting hotter every year. Alongside the COP30 discussions, we will explore possible ways to overcome this harsh reality.</desc>
     <category lang="en">News</category>
     <episode-num system="xmltv_ns">0.6127.</episode-num>
     <episode-num system="onscreen">S1E6128</episode-num>
   </programme>
-  <programme start="20260403153500 +0000" stop="20260403163500 +0000" channel="nhkworldjapan.unifitv">
+  <programme start="20260403120000 +0000" stop="20260403120500 +0000" channel="nhkworldjapan.unifitv">
+    <title lang="en">MY ECO-FRIENDLY FARM</title>
+    <desc lang="en">A woman from France is now an organic farmer in Okuma Town, Fukushima Prefecture. The town was affected by the 2011 nuclear accident. She is working to change that image.</desc>
+    <category lang="en">News</category>
+    <episode-num system="xmltv_ns">0.6048.</episode-num>
+    <episode-num system="onscreen">S1E6049</episode-num>
+  </programme>
+  <programme start="20260403120500 +0000" stop="20260403123500 +0000" channel="nhkworldjapan.unifitv">
+    <title lang="en">NEWSROOM TOKYO</title>
+    <desc lang="en">NEWSROOM TOKYO dives deeper into the day's news with insight and analysis, from the perspective of Japan and the rest of Asia. We put a spotlight on what you need to know to understand the issues.</desc>
+    <category lang="en">News</category>
+  </programme>
+  <programme start="20260403123500 +0000" stop="20260403130500 +0000" channel="nhkworldjapan.unifitv">
+    <title lang="en">Asia Insight</title>
+    <desc lang="en">In Bangkok's largest slum, children of migrant families are taking up musical instruments to play in an orchestra in hopes of having a better future.</desc>
+    <category lang="en">News</category>
+    <episode-num system="xmltv_ns">0.2021.</episode-num>
+    <episode-num system="onscreen">S1E2022</episode-num>
+  </programme>
+  <programme start="20260403130500 +0000" stop="20260403133500 +0000" channel="nhkworldjapan.unifitv">
+    <title lang="en">NHK NEWSLINE</title>
+    <desc lang="en">NHK NEWSLINE brings you up to date with the latest from Japan, Asia and around the world. Our team covers breaking news and major developments, with trusted anchors to tie it all together.</desc>
+    <category lang="en">News</category>
+  </programme>
+  <programme start="20260403133500 +0000" stop="20260403140500 +0000" channel="nhkworldjapan.unifitv">
+    <title lang="en">Trailblazers</title>
+    <desc lang="en">Edo Kiriko is characterized by colored glass with intricate patterns cut into it. Shiina Takayuki is drawing on his father and brother's exceptional skills to produce new kaleidoscopes of beauty.</desc>
+    <category lang="en">News</category>
+    <episode-num system="xmltv_ns">0.6999.</episode-num>
+    <episode-num system="onscreen">S1E7000</episode-num>
+  </programme>
+  <programme start="20260403140500 +0000" stop="20260403143500 +0000" channel="nhkworldjapan.unifitv">
+    <title lang="en">NHK NEWSLINE</title>
+    <desc lang="en">NHK NEWSLINE brings you up to date with the latest from Japan, Asia and around the world. Our team covers breaking news and major developments, with trusted anchors to tie it all together.</desc>
+    <category lang="en">News</category>
+  </programme>
+  <programme start="20260403143500 +0000" stop="20260403150500 +0000" channel="nhkworldjapan.unifitv">
+    <title lang="en">Design X Stories</title>
+    <desc lang="en">Today's theme: Parody. In an era of overwhelming, and often fake, information, parody dissects its subject through humor, and breathes new value into the familiar. Explore design through parody.</desc>
+    <category lang="en">News</category>
+    <episode-num system="xmltv_ns">0.2100.</episode-num>
+    <episode-num system="onscreen">S1E2101</episode-num>
+  </programme>
+  <programme start="20260403150500 +0000" stop="20260403153500 +0000" channel="nhkworldjapan.unifitv">
+    <title lang="en">NHK NEWSLINE</title>
+    <desc lang="en">NHK NEWSLINE brings you up to date with the latest from Japan, Asia and around the world. Our team covers breaking news and major developments, with trusted anchors to tie it all together.</desc>
+    <category lang="en">News</category>
+  </programme>
+  <programme start="20260403153500 +0000" stop="20260403160500 +0000" channel="nhkworldjapan.unifitv">
     <title lang="en">Today's Close-Up</title>
-    <desc lang="en">Dig deeper into current affairs. Cutting-edge information and critical analysis on important issues confronting Japanese lives.</desc>
+    <desc lang="en">A scramble for rare earth elements is reshaping global power, as the US, China and Japan race to secure the minerals vital to advanced industry, economic security and future technologies.</desc>
     <category lang="en">News</category>
     <episode-num system="xmltv_ns">0.4047.</episode-num>
     <episode-num system="onscreen">S1E4048</episode-num>
