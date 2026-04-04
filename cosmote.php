@@ -58,6 +58,10 @@
     <title>Sportshow (L)</title>
     <desc>Live: Ya</desc>
 </programme>
+<programme start="20260406053000 +0700" stop="20260406080000 +0700" channel="COSMOTE Sport 1 HD">
+    <title>Sportshow</title>
+    <desc>Live: Tidak</desc>
+</programme>
 <programme start="20260405034500 +0700" stop="20260405060000 +0700" channel="COSMOTE Sport 2 HD">
     <title>Football: Kifisia - Panserraikos</title>
     <desc>Live: Tidak</desc>
@@ -250,12 +254,8 @@
     <title>Basketball: Boston Celtics - Toronto Raptors (L)</title>
     <desc>Live: Ya</desc>
 </programme>
-<programme start="20260405030000 +0700" stop="20260405041500 +0700" channel="COSMOTE Sport 5 HD">
-    <title>2026 Grand Prix Show</title>
-    <desc>Live: Tidak</desc>
-</programme>
-<programme start="20260405041500 +0700" stop="20260405044500 +0700" channel="COSMOTE Sport 5 HD">
-    <title>WRC Magazine 2026</title>
+<programme start="20260406053000 +0700" stop="20260406060000 +0700" channel="COSMOTE Sport 4 HD">
+    <title>NBA On Fire 2025-26 E23</title>
     <desc>Live: Tidak</desc>
 </programme>
 <programme start="20260405044500 +0700" stop="20260405054000 +0700" channel="COSMOTE Sport 5 HD">
@@ -414,9 +414,9 @@
     <title>Tennis: ATP 250 2026 (L)</title>
     <desc>Live: Ya</desc>
 </programme>
-<programme start="20260405023000 +0700" stop="20260405043000 +0700" channel="COSMOTE Sport 7 HD">
-    <title>Football: FC Porto - Famalicao (L)</title>
-    <desc>Live: Ya</desc>
+<programme start="20260406050000 +0700" stop="20260406073000 +0700" channel="COSMOTE Sport 6 HD">
+    <title>Tennis: Mariano Navone - Daniel Merida</title>
+    <desc>Live: Tidak</desc>
 </programme>
 <programme start="20260405043000 +0700" stop="20260405053000 +0700" channel="COSMOTE Sport 7 HD">
     <title>COSMOTESport7HD</title>
@@ -492,10 +492,6 @@
 </programme>
 <programme start="20260406040000 +0700" stop="20260406060000 +0700" channel="COSMOTE Sport 7 HD">
     <title>COSMOTESport7HD</title>
-    <desc>Live: Tidak</desc>
-</programme>
-<programme start="20260405040000 +0700" stop="20260405050000 +0700" channel="COSMOTE Sport 8 HD">
-    <title>COSMOTESport8HD</title>
     <desc>Live: Tidak</desc>
 </programme>
 <programme start="20260405050000 +0700" stop="20260405060000 +0700" channel="COSMOTE Sport 8 HD">
