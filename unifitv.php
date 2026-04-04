@@ -2639,24 +2639,10 @@
     <desc lang="en">TVS Ringkas brings the latest breaking news, offering quick and essential updates from both within the country and around the globe.</desc>
     <category lang="en">News</category>
   </programme>
-  <programme start="20260404080500 +0000" stop="20260404081500 +0000" channel="tvs.unifitv">
-    <title lang="en">TVS Music</title>
-    <desc lang="en">TVS Music is a compilation of songs that celebrates the rich and diverse musical talents of the region, featuring a mix of contemporary hits and culturally inspired tracks from local artists.</desc>
-    <category lang="en">Pop Culture</category>
-  </programme>
-  <programme start="20260404081500 +0000" stop="20260404083000 +0000" channel="tvs.unifitv">
-    <title lang="en">Dialog TVS Plus</title>
-    <desc lang="en">Dialog TVS Plus membincangkan topik-topik menarik dengan lebih ringkas dan padat</desc>
-    <category lang="en">Culture</category>
-    <episode-num system="xmltv_ns">0.123.</episode-num>
-    <episode-num system="onscreen">S1E124</episode-num>
-  </programme>
-  <programme start="20260404083000 +0000" stop="20260404090000 +0000" channel="tvs.unifitv">
-    <title lang="en">From Malaysia With Love</title>
-    <desc lang="en">Tiga Pengacara, Chef Adu Amran, Fiza Frizzy dan Kelvin Yap akan menyelami dan merasai pengalaman kehidupan masyarakat lokal dari pelbagai etnik.</desc>
-    <category lang="en">Documentary</category>
-    <episode-num system="xmltv_ns">0.11.</episode-num>
-    <episode-num system="onscreen">S1E12</episode-num>
+  <programme start="20260404080500 +0000" stop="20260404090000 +0000" channel="tvs.unifitv">
+    <title lang="en">(L) Majlis Perasmian Program MADANI Rakyat 2026</title>
+    <desc lang="en">Siaran langsung Majlis Perasmian Program MADANI Rakyat 2026 Perak.</desc>
+    <category lang="en">News</category>
   </programme>
   <programme start="20260404090000 +0000" stop="20260404093000 +0000" channel="tvs.unifitv">
     <title lang="en">(L) Berita Wilayah TVS</title>

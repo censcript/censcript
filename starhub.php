@@ -6743,7 +6743,7 @@
         <title>ATX Open (250) Final</title>
     </programme>
     <programme start="20260403230000 +0000" stop="20260404030000 +0000" channel="Hub Sports 1  HD.starhub">
-        <title>U.S. Men&#039;s Clay Court C&#039;ship (250) QF 3 &amp; 4</title>
+        <title>U.S. Men&#039;s Clay Court C&#039;ship (250) QF 4</title>
     </programme>
     <programme start="20260404030000 +0000" stop="20260404033000 +0000" channel="Hub Sports 1  HD.starhub">
         <title>Episode 12</title>
@@ -6752,7 +6752,7 @@
         <title>Copa Colsanitas Colsubsidio (250) QF 1 &amp; 2</title>
     </programme>
     <programme start="20260404063000 +0000" stop="20260404093000 +0000" channel="Hub Sports 1  HD.starhub">
-        <title>U.S. Men&#039;s Clay Court C&#039;ship (250) QF 1 &amp; 2</title>
+        <title>U.S. Men&#039;s Clay Court C&#039;ship (250) QF 1 &amp; 2 &amp; 3</title>
     </programme>
     <programme start="20260404093000 +0000" stop="20260404100000 +0000" channel="Hub Sports 1  HD.starhub">
         <title>Miami Open presented by Itau</title>
@@ -6766,8 +6766,8 @@
     <programme start="20260404140000 +0000" stop="20260404143000 +0000" channel="Hub Sports 1  HD.starhub">
         <title>Episode 39</title>
     </programme>
-    <programme start="20260404143000 +0000" stop="20260404173000 +0000" channel="Hub Sports 1  HD.starhub">
-        <title>U.S. Men&#039;s Clay Court C&#039;ship (250) QF 3 &amp; 4</title>
+    <programme start="20260404143000 +0000" stop="20260404160000 +0000" channel="Hub Sports 1  HD.starhub">
+        <title>U.S. Men&#039;s Clay Court C&#039;ship (250) QF 4</title>
     </programme>
     <programme start="20260403150000 +0000" stop="20260403180000 +0000" channel="SONY MAX.starhub">
         <title>Marjaavan</title>
@@ -7978,10 +7978,10 @@
     <programme start="20260404043000 +0000" stop="20260404073000 +0000" channel="Asianet Movies.starhub">
         <title>Adi Kapyare Koottamani</title>
     </programme>
-    <programme start="20260404073000 +0000" stop="20260404103000 +0000" channel="Asianet Movies.starhub">
+    <programme start="20260404073000 +0000" stop="20260404102000 +0000" channel="Asianet Movies.starhub">
         <title>Keshu Ee Veedinte Nadhan</title>
     </programme>
-    <programme start="20260404103000 +0000" stop="20260404133000 +0000" channel="Asianet Movies.starhub">
+    <programme start="20260404102000 +0000" stop="20260404133000 +0000" channel="Asianet Movies.starhub">
         <title>Oru Yamandan Premakadha</title>
     </programme>
     <programme start="20260404133000 +0000" stop="20260404163000 +0000" channel="Asianet Movies.starhub">
