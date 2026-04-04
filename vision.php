@@ -787,6 +787,9 @@
 <programme start="20260404011500 +0000" stop="20260404020000 +0000" channel="TVOne.vision">
 <title>Inspirasi Pagi</title>
 </programme>
+<programme start="20260404020000 +0000" stop="20260404023000 +0000" channel="TVOne.vision">
+<title>Pesona Indonesia</title>
+</programme>
 <programme start="20260404023000 +0000" stop="20260404030000 +0000" channel="TVOne.vision">
 <title>Xpose</title>
 </programme>
@@ -1494,7 +1497,4 @@
 </programme>
 <programme start="20260404000000 +0000" stop="20260404003000 +0000" channel="DAAI TV.vision">
 <title>Dr. Panda</title>
-</programme>
-<programme start="20260404003000 +0000" stop="20260404010000 +0000" channel="DAAI TV.vision">
-<title>Darwin &amp; Newts</title>
 </programme>
