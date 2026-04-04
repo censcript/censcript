@@ -2583,10 +2583,10 @@ Warning: Undefined array key "et" in /usr/home/ManusiaBiasa/domains/manusiabiasa
 <programme start="20260404120000 +0000" stop="20260404131500 +0000" channel="Sky Sport Bundesliga UHD.skyde">
     <title>Live BL: tipico Countdown, 28. Spieltag</title>
 </programme>
-<programme start="20260404131500 +0000" stop="20260404153500 +0000" channel="Sky Sport Bundesliga UHD.skyde">
+<programme start="20260404131500 +0000" stop="20260404153000 +0000" channel="Sky Sport Bundesliga UHD.skyde">
     <title>Live BL: SC Freiburg - FC Bayern München, 28. Spieltag</title>
 </programme>
-<programme start="20260404153500 +0000" stop="20260404182500 +0000" channel="Sky Sport Bundesliga UHD.skyde">
+<programme start="20260404153000 +0000" stop="20260404182500 +0000" channel="Sky Sport Bundesliga UHD.skyde">
     <title>Live BL: VfB Stuttgart - Borussia Dortmund, tipico Topspiel der Woche, 28. Spieltag</title>
 </programme>
 <programme start="20260404182500 +0000" stop="20260404210000 +0000" channel="Sky Sport Bundesliga UHD.skyde">
@@ -2658,7 +2658,7 @@ Warning: Undefined array key "et" in /usr/home/ManusiaBiasa/domains/manusiabiasa
 <programme start="20260404130000 +0000" stop="20260404131500 +0000" channel="Sky Sport Bundesliga 4 HD.skyde">
     <title>Live BL: BMG - FCH: tipico Countdown, 28. Spieltag</title>
 </programme>
-<programme start="20260404131500 +0000" stop="20260404161500 +0000" channel="Sky Sport Bundesliga 4 HD.skyde">
+<programme start="20260404131500 +0000" stop="20260404154500 +0000" channel="Sky Sport Bundesliga 4 HD.skyde">
     <title>Live BL: Borussia M&#039;gladbach - 1. FC Heidenheim, 28. Spieltag</title>
 </programme>
 <programme start="20260404101000 +0000" stop="20260404103000 +0000" channel="Sky Sport Bundesliga 5 HD.skyde">
@@ -2763,16 +2763,16 @@ Warning: Undefined array key "et" in /usr/home/ManusiaBiasa/domains/manusiabiasa
 <programme start="20260404020000 +0000" stop="20260404030000 +0000" channel="Sky Sport Golf HD.skyde">
     <title>The Open: Duel - Golf&#039;s Greatest Showdown</title>
 </programme>
-<programme start="20260404030000 +0000" stop="20260404070000 +0000" channel="Sky Sport Golf HD.skyde">
+<programme start="20260404030000 +0000" stop="20260404071500 +0000" channel="Sky Sport Golf HD.skyde">
     <title>Live Asian Tour: International Series Japan, 3. Tag in Chiba (Japan)</title>
 </programme>
-<programme start="20260404070000 +0000" stop="20260404080000 +0000" channel="Sky Sport Golf HD.skyde">
+<programme start="20260404071500 +0000" stop="20260404081000 +0000" channel="Sky Sport Golf HD.skyde">
     <title>The Masters: Official Film 1997 (Tiger Woods)</title>
 </programme>
-<programme start="20260404080000 +0000" stop="20260404120000 +0000" channel="Sky Sport Golf HD.skyde">
-    <title>LPGA: Aramco Championship, 2. Tag in Las Vegas, NV (USA)</title>
+<programme start="20260404081000 +0000" stop="20260404121000 +0000" channel="Sky Sport Golf HD.skyde">
+    <title>LPGA: Aramco Championship, 1. Tag in Las Vegas, NV (USA)</title>
 </programme>
-<programme start="20260404120000 +0000" stop="20260404150000 +0000" channel="Sky Sport Golf HD.skyde">
+<programme start="20260404121000 +0000" stop="20260404150000 +0000" channel="Sky Sport Golf HD.skyde">
     <title>Asian Tour: International Series Japan, 3. Tag in Chiba (Japan)</title>
 </programme>
 <programme start="20260404150000 +0000" stop="20260404160000 +0000" channel="Sky Sport Golf HD.skyde">
@@ -3052,10 +3052,10 @@ Warning: Undefined array key "et" in /usr/home/ManusiaBiasa/domains/manusiabiasa
     <title>Live WTA 500: J. Pegula (USA) - I. Jovic (USA), Credit One Charleston Open in Charleston (USA), Halbfinale 1</title>
 </programme>
 <programme start="20260404190000 +0000" stop="20260404210000 +0000" channel="Sky Sport Tennis HD.skyde">
-    <title>Live WTA 500: HF2, Credit One Charleston Open in Charleston (USA), Halbfinale 2</title>
+    <title>Live WTA 500: M. Keys (USA) - Y. Starodubtseva (UKR), Credit One Charleston Open in Charleston (USA), Halbfinale 2</title>
 </programme>
 <programme start="20260404210000 +0000" stop="20260404230000 +0000" channel="Sky Sport Tennis HD.skyde">
-    <title>Live ATP 250: HF2, Fayez Sarofim &amp; Co U.S. Men&#039;s Clay Court Championship in Houston (USA), Halbfinale 2</title>
+    <title>Live ATP 250: T. Paul (USA) -  F. Tiafoe (USA), Fayez Sarofim &amp; Co U.S. Men&#039;s Clay Court Championship in Houston (USA), Halbfinale 2</title>
 </programme>
 <programme start="20260403230000 +0000" stop="20260404020000 +0000" channel="Sky Sport Top Event HD.skyde">
     <title>Live NHL: Philadelphia Flyers @ New York Islanders</title>
@@ -3100,7 +3100,7 @@ Warning: Undefined array key "et" in /usr/home/ManusiaBiasa/domains/manusiabiasa
     <title>Live ATP 250: T. Tirante (ARG) - R. Burruchaga (ARG), Fayez Sarofim &amp; Co U.S. Men&#039;s Clay Court Championship in Houston (USA), Halbfinale 1</title>
 </programme>
 <programme start="20260404210000 +0000" stop="20260405080000 +0000" channel="Sky Sport 4 HD.skyde">
-    <title>Live ATP 250: HF2, Fayez Sarofim &amp; Co U.S. Men&#039;s Clay Court Championship in Houston (USA), Halbfinale 2</title>
+    <title>Live ATP 250: T. Paul (USA) -  F. Tiafoe (USA), Fayez Sarofim &amp; Co U.S. Men&#039;s Clay Court Championship in Houston (USA), Halbfinale 2</title>
 </programme>
 <programme start="20260403220000 +0000" stop="20260403224500 +0000" channel="SYFY HD.skyde">
     <title>Raumschiff Enterprise - Das nächste Jahrhundert</title>
