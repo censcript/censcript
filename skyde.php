@@ -2398,7 +2398,7 @@ Warning: Undefined array key "et" in /usr/home/ManusiaBiasa/domains/manusiabiasa
     <title>Snapped: Behind Bars</title>
 </programme>
 <programme start="20260403223000 +0000" stop="20260404001500 +0000" channel="Sky Sport Austria 1 HD.skyde">
-    <title>Fußball: Klassiker der Woche: SCR - STU (2004/05)</title>
+    <title>Fußball: Klassiker der Woche: SCR - STU (2007/08)</title>
 </programme>
 <programme start="20260404001500 +0000" stop="20260404004500 +0000" channel="Sky Sport Austria 1 HD.skyde">
     <title>UEFA CL: Magazin</title>
@@ -2476,15 +2476,15 @@ Warning: Undefined array key "et" in /usr/home/ManusiaBiasa/domains/manusiabiasa
     <title>Live Admiral BL: WSG Tirol - RZ Pellets WAC, 25. Runde</title>
 </programme>
 <programme start="20260404143000 +0000" stop="20260404145000 +0000" channel="Sky Sport Austria 3 HD.skyde">
-    <title>Es folgt: Admiral BL</title>
+    <title>Es folgt: LIVE Admiral BL</title>
 </programme>
-<programme start="20260404145000 +0000" stop="20260404170000 +0000" channel="Sky Sport Austria 3 HD.skyde">
+<programme start="20260404145000 +0000" stop="20260404173000 +0000" channel="Sky Sport Austria 3 HD.skyde">
     <title>Live Admiral BL: Grazer AK 1902 - FC Blau-Weiß Linz, 25. Runde</title>
 </programme>
 <programme start="20260404161000 +0000" stop="20260404163000 +0000" channel="Sky Sport Austria 4 HD.skyde">
-    <title>Es folgt: NHL</title>
+    <title>Es folgt: LIVE NHL</title>
 </programme>
-<programme start="20260404163000 +0000" stop="20260404193000 +0000" channel="Sky Sport Austria 4 HD.skyde">
+<programme start="20260404163000 +0000" stop="20260404213000 +0000" channel="Sky Sport Austria 4 HD.skyde">
     <title>Live NHL: Detroit Red Wings @ New York Rangers</title>
 </programme>
 <programme start="20260403224500 +0000" stop="20260403231500 +0000" channel="Sky Sport Bundesliga HD.skyde">
@@ -2631,7 +2631,7 @@ Warning: Undefined array key "et" in /usr/home/ManusiaBiasa/domains/manusiabiasa
 <programme start="20260404180000 +0000" stop="20260404210000 +0000" channel="Sky Sport Bundesliga 2 HD.skyde">
     <title>Live 2. BL: Dynamo Dresden - Hertha BSC, tipico Topspiel der Woche, 28. Spieltag</title>
 </programme>
-<programme start="20260404210000 +0000" stop="20260404220000 +0000" channel="Sky Sport Bundesliga 2 HD.skyde">
+<programme start="20260404210000 +0000" stop="20260404223000 +0000" channel="Sky Sport Bundesliga 2 HD.skyde">
     <title>2. BL Alle Spiele, alle Tore: Die Vodafone Highlight-Show, 28. Spieltag, Samstag komplett</title>
 </programme>
 <programme start="20260404101000 +0000" stop="20260404103000 +0000" channel="Sky Sport Bundesliga 3 HD.skyde">
@@ -2646,7 +2646,7 @@ Warning: Undefined array key "et" in /usr/home/ManusiaBiasa/domains/manusiabiasa
 <programme start="20260404131500 +0000" stop="20260404154500 +0000" channel="Sky Sport Bundesliga 3 HD.skyde">
     <title>Live BL: Werder Bremen - RB Leipzig. 28. Spieltag</title>
 </programme>
-<programme start="20260404154500 +0000" stop="20260404191500 +0000" channel="Sky Sport Bundesliga 3 HD.skyde">
+<programme start="20260404154500 +0000" stop="20260404194500 +0000" channel="Sky Sport Bundesliga 3 HD.skyde">
     <title>Live BL: Tactical Feed: VFB - BVB, 28. Spieltag</title>
 </programme>
 <programme start="20260404101000 +0000" stop="20260404103000 +0000" channel="Sky Sport Bundesliga 4 HD.skyde">
@@ -2658,20 +2658,8 @@ Warning: Undefined array key "et" in /usr/home/ManusiaBiasa/domains/manusiabiasa
 <programme start="20260404130000 +0000" stop="20260404131500 +0000" channel="Sky Sport Bundesliga 4 HD.skyde">
     <title>Live BL: BMG - FCH: tipico Countdown, 28. Spieltag</title>
 </programme>
-<programme start="20260404131500 +0000" stop="20260404161500 +0000" channel="Sky Sport Bundesliga 4 HD.skyde">
+<programme start="20260404131500 +0000" stop="20260404154500 +0000" channel="Sky Sport Bundesliga 4 HD.skyde">
     <title>Live BL: Borussia M&#039;gladbach - 1. FC Heidenheim, 28. Spieltag</title>
-</programme>
-<programme start="20260404101000 +0000" stop="20260404103000 +0000" channel="Sky Sport Bundesliga 5 HD.skyde">
-    <title>Es folgt: Live 2. Bundesliga</title>
-</programme>
-<programme start="20260404103000 +0000" stop="20260404130000 +0000" channel="Sky Sport Bundesliga 5 HD.skyde">
-    <title>Live 2. BL: 1. FC Magdeburg - VfL Bochum, 28. Spieltag</title>
-</programme>
-<programme start="20260404130000 +0000" stop="20260404131500 +0000" channel="Sky Sport Bundesliga 5 HD.skyde">
-    <title>Live BL: HSV - FCA: tipico Countdown, 28. Spieltag</title>
-</programme>
-<programme start="20260404131500 +0000" stop="20260404154500 +0000" channel="Sky Sport Bundesliga 5 HD.skyde">
-    <title>Live BL: Hamburger SV - FC Augsburg, 28. Spieltag</title>
 </programme>
 <programme start="20260404101000 +0000" stop="20260404103000 +0000" channel="Sky Sport Bundesliga 6 HD.skyde">
     <title>Es folgt: Live 2. Bundesliga</title>
@@ -2682,7 +2670,7 @@ Warning: Undefined array key "et" in /usr/home/ManusiaBiasa/domains/manusiabiasa
 <programme start="20260404130000 +0000" stop="20260404131500 +0000" channel="Sky Sport Bundesliga 6 HD.skyde">
     <title>Live BL: TSG - M05: tipico Countdown, 28. Spieltag</title>
 </programme>
-<programme start="20260404131500 +0000" stop="20260404161500 +0000" channel="Sky Sport Bundesliga 6 HD.skyde">
+<programme start="20260404131500 +0000" stop="20260404154500 +0000" channel="Sky Sport Bundesliga 6 HD.skyde">
     <title>Live BL: TSG Hoffenheim - 1. FSV Mainz 05, 28. Spieltag</title>
 </programme>
 <programme start="20260404101000 +0000" stop="20260404103000 +0000" channel="Sky Sport Bundesliga 7 HD.skyde">
@@ -3100,7 +3088,7 @@ Warning: Undefined array key "et" in /usr/home/ManusiaBiasa/domains/manusiabiasa
     <title>Live ATP 250: T. Tirante (ARG) - R. Burruchaga (ARG), Fayez Sarofim &amp; Co U.S. Men&#039;s Clay Court Championship in Houston (USA), Halbfinale 1</title>
 </programme>
 <programme start="20260404210000 +0000" stop="20260405080000 +0000" channel="Sky Sport 4 HD.skyde">
-    <title>Live ATP 250: HF2, Fayez Sarofim &amp; Co U.S. Men&#039;s Clay Court Championship in Houston (USA), Halbfinale 2</title>
+    <title>Live ATP 250: T. Paul (USA) -  F. Tiafoe (USA), Fayez Sarofim &amp; Co U.S. Men&#039;s Clay Court Championship in Houston (USA), Halbfinale 2</title>
 </programme>
 <programme start="20260403220000 +0000" stop="20260403224500 +0000" channel="SYFY HD.skyde">
     <title>Raumschiff Enterprise - Das nächste Jahrhundert</title>

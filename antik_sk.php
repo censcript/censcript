@@ -238,108 +238,6 @@
   <programme start="20260406212800 +0000" stop="20260406221500 +0000" channel=":24.webtv.sk">
     <title lang="id">Správy</title>
   </programme>
-  <programme start="20260405204500 +0000" stop="20260405221600 +0000" channel=":Šport.webtv.sk">
-    <title lang="id">Cyklistika - Okolo Flámska 2026</title>
-  </programme>
-  <programme start="20260405221600 +0000" stop="20260405221800 +0000" channel=":Šport.webtv.sk">
-    <title lang="id">Hymna SR</title>
-  </programme>
-  <programme start="20260405221800 +0000" stop="20260405222500 +0000" channel=":Šport.webtv.sk">
-    <title lang="id">Góly - body - sekundy</title>
-  </programme>
-  <programme start="20260405222500 +0000" stop="20260405231500 +0000" channel=":Šport.webtv.sk">
-    <title lang="id">Správy</title>
-  </programme>
-  <programme start="20260405231500 +0000" stop="20260405232500 +0000" channel=":Šport.webtv.sk">
-    <title lang="id">Góly - body - sekundy</title>
-  </programme>
-  <programme start="20260405232500 +0000" stop="20260406002000 +0000" channel=":Šport.webtv.sk">
-    <title lang="id">Správy</title>
-  </programme>
-  <programme start="20260406002000 +0000" stop="20260406003000 +0000" channel=":Šport.webtv.sk">
-    <title lang="id">Góly - body - sekundy</title>
-  </programme>
-  <programme start="20260406003000 +0000" stop="20260406012000 +0000" channel=":Šport.webtv.sk">
-    <title lang="id">Správy</title>
-  </programme>
-  <programme start="20260406012000 +0000" stop="20260406013000 +0000" channel=":Šport.webtv.sk">
-    <title lang="id">Góly - body - sekundy</title>
-  </programme>
-  <programme start="20260406013000 +0000" stop="20260406022000 +0000" channel=":Šport.webtv.sk">
-    <title lang="id">Správy</title>
-  </programme>
-  <programme start="20260406022000 +0000" stop="20260406023000 +0000" channel=":Šport.webtv.sk">
-    <title lang="id">Góly - body - sekundy</title>
-  </programme>
-  <programme start="20260406023000 +0000" stop="20260406032000 +0000" channel=":Šport.webtv.sk">
-    <title lang="id">Správy</title>
-  </programme>
-  <programme start="20260406032000 +0000" stop="20260406033000 +0000" channel=":Šport.webtv.sk">
-    <title lang="id">Góly - body - sekundy</title>
-  </programme>
-  <programme start="20260406033000 +0000" stop="20260406042500 +0000" channel=":Šport.webtv.sk">
-    <title lang="id">Správy</title>
-  </programme>
-  <programme start="20260406042500 +0000" stop="20260406043500 +0000" channel=":Šport.webtv.sk">
-    <title lang="id">Góly - body - sekundy</title>
-  </programme>
-  <programme start="20260406043500 +0000" stop="20260406052500 +0000" channel=":Šport.webtv.sk">
-    <title lang="id">Správy</title>
-  </programme>
-  <programme start="20260406052500 +0000" stop="20260406060000 +0000" channel=":Šport.webtv.sk">
-    <title lang="id">ZOH Miláno - Cortina 2026</title>
-  </programme>
-  <programme start="20260406060000 +0000" stop="20260406063000 +0000" channel=":Šport.webtv.sk">
-    <title lang="id">ZOH Miláno - Cortina 2026</title>
-  </programme>
-  <programme start="20260406063000 +0000" stop="20260406072500 +0000" channel=":Šport.webtv.sk">
-    <title lang="id">ZOH Miláno - Cortina 2026</title>
-  </programme>
-  <programme start="20260406072500 +0000" stop="20260406081500 +0000" channel=":Šport.webtv.sk">
-    <title lang="id">ZOH Miláno - Cortina 2026</title>
-  </programme>
-  <programme start="20260406081500 +0000" stop="20260406092000 +0000" channel=":Šport.webtv.sk">
-    <title lang="id">ZOH Miláno - Cortina 2026</title>
-  </programme>
-  <programme start="20260406092000 +0000" stop="20260406095000 +0000" channel=":Šport.webtv.sk">
-    <title lang="id">ZOH Miláno - Cortina 2026</title>
-  </programme>
-  <programme start="20260406095000 +0000" stop="20260406103000 +0000" channel=":Šport.webtv.sk">
-    <title lang="id">ZOH Miláno - Cortina 2026</title>
-  </programme>
-  <programme start="20260406103000 +0000" stop="20260406121500 +0000" channel=":Šport.webtv.sk">
-    <title lang="id">ZOH Miláno - Cortina 2026</title>
-  </programme>
-  <programme start="20260406121500 +0000" stop="20260406140000 +0000" channel=":Šport.webtv.sk">
-    <title lang="id">Futbal - III. liga 2025/26 - III. liga 2025/26 (18. kolo Východ): MFK Snina - Futbalový klub Spišská Nová Ves</title>
-  </programme>
-  <programme start="20260406140000 +0000" stop="20260406153000 +0000" channel=":Šport.webtv.sk">
-    <title lang="id">Cyklistika - Okolo Flámska 2026</title>
-  </programme>
-  <programme start="20260406153000 +0000" stop="20260406163000 +0000" channel=":Šport.webtv.sk">
-    <title lang="id">Futbal - Highlighty Niké liga 2026</title>
-  </programme>
-  <programme start="20260406163000 +0000" stop="20260406170000 +0000" channel=":Šport.webtv.sk">
-    <title lang="id">Hokej - Magazín NHL</title>
-  </programme>
-  <programme start="20260406170000 +0000" stop="20260406184500 +0000" channel=":Šport.webtv.sk">
-    <title lang="id">Futbal - MONACObet liga 2025/26 - MONACObet liga 2025/26 (23. kolo): OFK Baník Lehota pod Vtáčnikom - Stará Ľubovňa Redfox Football Club</title>
-  </programme>
-  <programme start="20260406184500 +0000" stop="20260406192500 +0000" channel=":Šport.webtv.sk">
-    <title lang="id">Športové ozveny</title>
-  </programme>
-  <programme start="20260406192500 +0000" stop="20260406195000 +0000" channel=":Šport.webtv.sk">
-    <title lang="id">Mestá MS 2026 vo futbale</title>
-  </programme>
-  <programme start="20260406195000 +0000" stop="20260406200000 +0000" channel=":Šport.webtv.sk">
-    <title lang="id">Góly - body - sekundy</title>
-  </programme>
-  <programme start="20260406200000 +0000" stop="20260406215000 +0000" channel=":Šport.webtv.sk">
-    <title lang="id">Futbal: Ženy - I. liga 2025/26 - Ženy - I. liga 2025/26 (nadstavbová časť 2. kolo): ŠK Slovan Bratislava - FC TATRAN Prešov</title>
-  </programme>
-  <programme start="20260406215000 +0000" stop="20260406232000 +0000" channel=":Šport.webtv.sk">
-    <title lang="id">Hymna SR</title>
-  </programme>
   <programme start="20260405215500 +0000" stop="20260405235000 +0000" channel="Markíza.webtv.sk">
     <title lang="id">Kráska z Manhattanu</title>
   </programme>
@@ -4321,6 +4219,210 @@
   <programme start="20260406210000 +0000" stop="20260406230500 +0000" channel="A11.webtv.sk">
     <title lang="id">Dobrý večer s A11</title>
   </programme>
+  <programme start="20260405220000 +0000" stop="20260405223000 +0000" channel="Fashion TV Czech & Slovak.webtv.sk">
+    <title lang="id">Lingerie</title>
+  </programme>
+  <programme start="20260405223000 +0000" stop="20260405225500 +0000" channel="Fashion TV Czech & Slovak.webtv.sk">
+    <title lang="id">Lingerie</title>
+  </programme>
+  <programme start="20260405225500 +0000" stop="20260405230000 +0000" channel="Fashion TV Czech & Slovak.webtv.sk">
+    <title lang="id">F-people</title>
+  </programme>
+  <programme start="20260405230000 +0000" stop="20260405233000 +0000" channel="Fashion TV Czech & Slovak.webtv.sk">
+    <title lang="id">Fashion Lifestyle</title>
+  </programme>
+  <programme start="20260405233000 +0000" stop="20260405235500 +0000" channel="Fashion TV Czech & Slovak.webtv.sk">
+    <title lang="id">Paris Couture Fashion Week</title>
+  </programme>
+  <programme start="20260405235500 +0000" stop="20260406000000 +0000" channel="Fashion TV Czech & Slovak.webtv.sk">
+    <title lang="id">Red Carpet</title>
+  </programme>
+  <programme start="20260406000000 +0000" stop="20260406003000 +0000" channel="Fashion TV Czech & Slovak.webtv.sk">
+    <title lang="id">Fashion Trends</title>
+  </programme>
+  <programme start="20260406003000 +0000" stop="20260406005500 +0000" channel="Fashion TV Czech & Slovak.webtv.sk">
+    <title lang="id">Fashion Trends</title>
+  </programme>
+  <programme start="20260406005500 +0000" stop="20260406010000 +0000" channel="Fashion TV Czech & Slovak.webtv.sk">
+    <title lang="id">F-people</title>
+  </programme>
+  <programme start="20260406010000 +0000" stop="20260406013000 +0000" channel="Fashion TV Czech & Slovak.webtv.sk">
+    <title lang="id">Victoria&apos;s Secret</title>
+  </programme>
+  <programme start="20260406013000 +0000" stop="20260406015500 +0000" channel="Fashion TV Czech & Slovak.webtv.sk">
+    <title lang="id">Victoria&apos;s Secret</title>
+  </programme>
+  <programme start="20260406015500 +0000" stop="20260406020000 +0000" channel="Fashion TV Czech & Slovak.webtv.sk">
+    <title lang="id">Red Carpet</title>
+  </programme>
+  <programme start="20260406020000 +0000" stop="20260406023000 +0000" channel="Fashion TV Czech & Slovak.webtv.sk">
+    <title lang="id">Global Fashion</title>
+  </programme>
+  <programme start="20260406023000 +0000" stop="20260406025500 +0000" channel="Fashion TV Czech & Slovak.webtv.sk">
+    <title lang="id">Global Fashion</title>
+  </programme>
+  <programme start="20260406025500 +0000" stop="20260406030000 +0000" channel="Fashion TV Czech & Slovak.webtv.sk">
+    <title lang="id">F-people</title>
+  </programme>
+  <programme start="20260406030000 +0000" stop="20260406033000 +0000" channel="Fashion TV Czech & Slovak.webtv.sk">
+    <title lang="id">Fashion Trends</title>
+  </programme>
+  <programme start="20260406033000 +0000" stop="20260406035500 +0000" channel="Fashion TV Czech & Slovak.webtv.sk">
+    <title lang="id">Fashion Trends</title>
+  </programme>
+  <programme start="20260406035500 +0000" stop="20260406040000 +0000" channel="Fashion TV Czech & Slovak.webtv.sk">
+    <title lang="id">Red Carpet</title>
+  </programme>
+  <programme start="20260406040000 +0000" stop="20260406043000 +0000" channel="Fashion TV Czech & Slovak.webtv.sk">
+    <title lang="id">Model Talks</title>
+  </programme>
+  <programme start="20260406043000 +0000" stop="20260406045500 +0000" channel="Fashion TV Czech & Slovak.webtv.sk">
+    <title lang="id">Model Talks</title>
+  </programme>
+  <programme start="20260406045500 +0000" stop="20260406050000 +0000" channel="Fashion TV Czech & Slovak.webtv.sk">
+    <title lang="id">Top Names</title>
+  </programme>
+  <programme start="20260406050000 +0000" stop="20260406053000 +0000" channel="Fashion TV Czech & Slovak.webtv.sk">
+    <title lang="id">Masterpieces</title>
+  </programme>
+  <programme start="20260406053000 +0000" stop="20260406055500 +0000" channel="Fashion TV Czech & Slovak.webtv.sk">
+    <title lang="id">Masterpieces</title>
+  </programme>
+  <programme start="20260406055500 +0000" stop="20260406060000 +0000" channel="Fashion TV Czech & Slovak.webtv.sk">
+    <title lang="id">Red Carpet</title>
+  </programme>
+  <programme start="20260406060000 +0000" stop="20260406063000 +0000" channel="Fashion TV Czech & Slovak.webtv.sk">
+    <title lang="id">Fashion Trends</title>
+  </programme>
+  <programme start="20260406063000 +0000" stop="20260406065500 +0000" channel="Fashion TV Czech & Slovak.webtv.sk">
+    <title lang="id">Fashion Trends</title>
+  </programme>
+  <programme start="20260406065500 +0000" stop="20260406070000 +0000" channel="Fashion TV Czech & Slovak.webtv.sk">
+    <title lang="id">F-people</title>
+  </programme>
+  <programme start="20260406070000 +0000" stop="20260406073000 +0000" channel="Fashion TV Czech & Slovak.webtv.sk">
+    <title lang="id">The Story Of</title>
+  </programme>
+  <programme start="20260406073000 +0000" stop="20260406080000 +0000" channel="Fashion TV Czech & Slovak.webtv.sk">
+    <title lang="id">The Story Of</title>
+  </programme>
+  <programme start="20260406080000 +0000" stop="20260406083000 +0000" channel="Fashion TV Czech & Slovak.webtv.sk">
+    <title lang="id">Fashion Backstage</title>
+  </programme>
+  <programme start="20260406083000 +0000" stop="20260406085500 +0000" channel="Fashion TV Czech & Slovak.webtv.sk">
+    <title lang="id">New York Fashion Week</title>
+  </programme>
+  <programme start="20260406085500 +0000" stop="20260406090000 +0000" channel="Fashion TV Czech & Slovak.webtv.sk">
+    <title lang="id">Red Carpet</title>
+  </programme>
+  <programme start="20260406090000 +0000" stop="20260406093000 +0000" channel="Fashion TV Czech & Slovak.webtv.sk">
+    <title lang="id">Fashion VIP</title>
+  </programme>
+  <programme start="20260406093000 +0000" stop="20260406095500 +0000" channel="Fashion TV Czech & Slovak.webtv.sk">
+    <title lang="id">London Fashion Week</title>
+  </programme>
+  <programme start="20260406095500 +0000" stop="20260406100000 +0000" channel="Fashion TV Czech & Slovak.webtv.sk">
+    <title lang="id">F-people</title>
+  </programme>
+  <programme start="20260406100000 +0000" stop="20260406103000 +0000" channel="Fashion TV Czech & Slovak.webtv.sk">
+    <title lang="id">Fashion Event</title>
+  </programme>
+  <programme start="20260406103000 +0000" stop="20260406105500 +0000" channel="Fashion TV Czech & Slovak.webtv.sk">
+    <title lang="id">Milan Fashion Week</title>
+  </programme>
+  <programme start="20260406105500 +0000" stop="20260406110000 +0000" channel="Fashion TV Czech & Slovak.webtv.sk">
+    <title lang="id">Red Carpet</title>
+  </programme>
+  <programme start="20260406110000 +0000" stop="20260406113000 +0000" channel="Fashion TV Czech & Slovak.webtv.sk">
+    <title lang="id">Fashion VIP</title>
+  </programme>
+  <programme start="20260406113000 +0000" stop="20260406115500 +0000" channel="Fashion TV Czech & Slovak.webtv.sk">
+    <title lang="id">Paris Fashion Week</title>
+  </programme>
+  <programme start="20260406115500 +0000" stop="20260406120000 +0000" channel="Fashion TV Czech & Slovak.webtv.sk">
+    <title lang="id">F-people</title>
+  </programme>
+  <programme start="20260406120000 +0000" stop="20260406123000 +0000" channel="Fashion TV Czech & Slovak.webtv.sk">
+    <title lang="id">Fashion Backstage</title>
+  </programme>
+  <programme start="20260406123000 +0000" stop="20260406125500 +0000" channel="Fashion TV Czech & Slovak.webtv.sk">
+    <title lang="id">F-men</title>
+  </programme>
+  <programme start="20260406125500 +0000" stop="20260406130000 +0000" channel="Fashion TV Czech & Slovak.webtv.sk">
+    <title lang="id">Red Carpet</title>
+  </programme>
+  <programme start="20260406130000 +0000" stop="20260406133000 +0000" channel="Fashion TV Czech & Slovak.webtv.sk">
+    <title lang="id">Fashion Lifestyle</title>
+  </programme>
+  <programme start="20260406133000 +0000" stop="20260406135500 +0000" channel="Fashion TV Czech & Slovak.webtv.sk">
+    <title lang="id">Hair &amp; Make Up</title>
+  </programme>
+  <programme start="20260406135500 +0000" stop="20260406140000 +0000" channel="Fashion TV Czech & Slovak.webtv.sk">
+    <title lang="id">F-people</title>
+  </programme>
+  <programme start="20260406140000 +0000" stop="20260406143000 +0000" channel="Fashion TV Czech & Slovak.webtv.sk">
+    <title lang="id">Fashion Event</title>
+  </programme>
+  <programme start="20260406143000 +0000" stop="20260406145500 +0000" channel="Fashion TV Czech & Slovak.webtv.sk">
+    <title lang="id">Paris Couture Fashion Week</title>
+  </programme>
+  <programme start="20260406145500 +0000" stop="20260406150000 +0000" channel="Fashion TV Czech & Slovak.webtv.sk">
+    <title lang="id">Red Carpet</title>
+  </programme>
+  <programme start="20260406150000 +0000" stop="20260406153000 +0000" channel="Fashion TV Czech & Slovak.webtv.sk">
+    <title lang="id">Fashion Backstage</title>
+  </programme>
+  <programme start="20260406153000 +0000" stop="20260406155500 +0000" channel="Fashion TV Czech & Slovak.webtv.sk">
+    <title lang="id">Global Fashion</title>
+  </programme>
+  <programme start="20260406155500 +0000" stop="20260406160000 +0000" channel="Fashion TV Czech & Slovak.webtv.sk">
+    <title lang="id">F-people</title>
+  </programme>
+  <programme start="20260406160000 +0000" stop="20260406163000 +0000" channel="Fashion TV Czech & Slovak.webtv.sk">
+    <title lang="id">Fashion VIP</title>
+  </programme>
+  <programme start="20260406163000 +0000" stop="20260406165500 +0000" channel="Fashion TV Czech & Slovak.webtv.sk">
+    <title lang="id">Global Fashion</title>
+  </programme>
+  <programme start="20260406165500 +0000" stop="20260406170000 +0000" channel="Fashion TV Czech & Slovak.webtv.sk">
+    <title lang="id">Red Carpet</title>
+  </programme>
+  <programme start="20260406170000 +0000" stop="20260406173000 +0000" channel="Fashion TV Czech & Slovak.webtv.sk">
+    <title lang="id">Fashion Lifestyle</title>
+  </programme>
+  <programme start="20260406173000 +0000" stop="20260406175500 +0000" channel="Fashion TV Czech & Slovak.webtv.sk">
+    <title lang="id">New York Fashion Week</title>
+  </programme>
+  <programme start="20260406175500 +0000" stop="20260406180000 +0000" channel="Fashion TV Czech & Slovak.webtv.sk">
+    <title lang="id">F-people</title>
+  </programme>
+  <programme start="20260406180000 +0000" stop="20260406183000 +0000" channel="Fashion TV Czech & Slovak.webtv.sk">
+    <title lang="id">Fashion VIP</title>
+  </programme>
+  <programme start="20260406183000 +0000" stop="20260406185500 +0000" channel="Fashion TV Czech & Slovak.webtv.sk">
+    <title lang="id">London Fashion Week</title>
+  </programme>
+  <programme start="20260406185500 +0000" stop="20260406190000 +0000" channel="Fashion TV Czech & Slovak.webtv.sk">
+    <title lang="id">Red Carpet</title>
+  </programme>
+  <programme start="20260406190000 +0000" stop="20260406193000 +0000" channel="Fashion TV Czech & Slovak.webtv.sk">
+    <title lang="id">Fashion Backstage</title>
+  </programme>
+  <programme start="20260406193000 +0000" stop="20260406200000 +0000" channel="Fashion TV Czech & Slovak.webtv.sk">
+    <title lang="id">The Story Of</title>
+  </programme>
+  <programme start="20260406200000 +0000" stop="20260406203000 +0000" channel="Fashion TV Czech & Slovak.webtv.sk">
+    <title lang="id">Fashion Lifestyle</title>
+  </programme>
+  <programme start="20260406203000 +0000" stop="20260406205500 +0000" channel="Fashion TV Czech & Slovak.webtv.sk">
+    <title lang="id">Paris Fashion Week</title>
+  </programme>
+  <programme start="20260406205500 +0000" stop="20260406210000 +0000" channel="Fashion TV Czech & Slovak.webtv.sk">
+    <title lang="id">Red Carpet</title>
+  </programme>
+  <programme start="20260406210000 +0000" stop="20260406220000 +0000" channel="Fashion TV Czech & Slovak.webtv.sk">
+    <title lang="id">Fashion Event</title>
+  </programme>
   <programme start="20260405220000 +0000" stop="20260405230000 +0000" channel="Arena Sport 1.webtv.sk">
     <title lang="id">Naša Garáž</title>
   </programme>
@@ -4500,72 +4602,6 @@
   </programme>
   <programme start="20260406201500 +0000" stop="20260406220000 +0000" channel="Arena Sport 2.webtv.sk">
     <title lang="id">PSV Eindhoven - FC Utrecht</title>
-  </programme>
-  <programme start="20260405212000 +0000" stop="20260405230500 +0000" channel="Nova Sport 1.webtv.sk">
-    <title lang="id">New Jersey Devils - Montreal Canadiens</title>
-  </programme>
-  <programme start="20260405230500 +0000" stop="20260406013500 +0000" channel="Nova Sport 1.webtv.sk">
-    <title lang="id">Montreal Canadiens - New Jersey Devils</title>
-  </programme>
-  <programme start="20260406013500 +0000" stop="20260406042000 +0000" channel="Nova Sport 1.webtv.sk">
-    <title lang="id">Colorado Avalanche - St. Louis Blues</title>
-  </programme>
-  <programme start="20260406042000 +0000" stop="20260406050000 +0000" channel="Nova Sport 1.webtv.sk">
-    <title lang="id">Noční program</title>
-  </programme>
-  <programme start="20260406050000 +0000" stop="20260406050500 +0000" channel="Nova Sport 1.webtv.sk">
-    <title lang="id">Sportovní noviny</title>
-  </programme>
-  <programme start="20260406050500 +0000" stop="20260406064500 +0000" channel="Nova Sport 1.webtv.sk">
-    <title lang="id">Detroit Red Wings - Minnesota Wild</title>
-  </programme>
-  <programme start="20260406064500 +0000" stop="20260406083000 +0000" channel="Nova Sport 1.webtv.sk">
-    <title lang="id">Montreal Canadiens - New Jersey Devils</title>
-  </programme>
-  <programme start="20260406083000 +0000" stop="20260406103000 +0000" channel="Nova Sport 1.webtv.sk">
-    <title lang="id">Colorado Avalanche - St. Louis Blues</title>
-  </programme>
-  <programme start="20260406103000 +0000" stop="20260406110000 +0000" channel="Nova Sport 1.webtv.sk">
-    <title lang="id">SpadePoker Show 2026 (12)</title>
-  </programme>
-  <programme start="20260406110000 +0000" stop="20260406123000 +0000" channel="Nova Sport 1.webtv.sk">
-    <title lang="id">Füchse Berlin - SC DHfK Leipzig</title>
-  </programme>
-  <programme start="20260406123000 +0000" stop="20260406140000 +0000" channel="Nova Sport 1.webtv.sk">
-    <title lang="id">Bergischer HC - VfL Gummersbach</title>
-  </programme>
-  <programme start="20260406140000 +0000" stop="20260406150000 +0000" channel="Nova Sport 1.webtv.sk">
-    <title lang="id">Stalo se v NHL (5)</title>
-  </programme>
-  <programme start="20260406150000 +0000" stop="20260406164500 +0000" channel="Nova Sport 1.webtv.sk">
-    <title lang="id">Detroit Red Wings - Minnesota Wild</title>
-  </programme>
-  <programme start="20260406164500 +0000" stop="20260406170000 +0000" channel="Nova Sport 1.webtv.sk">
-    <title lang="id">NHL News</title>
-  </programme>
-  <programme start="20260406170000 +0000" stop="20260406180000 +0000" channel="Nova Sport 1.webtv.sk">
-    <title lang="id">King&apos;s Resort Events (13)</title>
-  </programme>
-  <programme start="20260406180000 +0000" stop="20260406183000 +0000" channel="Nova Sport 1.webtv.sk">
-    <title lang="id">Brunato Talks (6)</title>
-  </programme>
-  <programme start="20260406183000 +0000" stop="20260406190000 +0000" channel="Nova Sport 1.webtv.sk">
-    <title lang="id">GKA Kite-Surf World Cup - Cape Verde</title>
-  </programme>
-  <programme start="20260406190000 +0000" stop="20260406190500 +0000" channel="Nova Sport 1.webtv.sk">
-    <title lang="id">Sportovní noviny</title>
-  </programme>
-  <programme start="20260406190500 +0000" stop="20260406210000 +0000" channel="Nova Sport 1.webtv.sk">
-    <title lang="id">Colorado Avalanche - St. Louis Blues</title>
-  </programme>
-  <programme start="20260406210000 +0000" stop="20260406210500 +0000" channel="Nova Sport 1.webtv.sk">
-    <title lang="id">Sportovní noviny</title>
-  </programme>
-  <programme start="20260406210500 +0000" stop="20260406212000 +0000" channel="Nova Sport 1.webtv.sk">
-    <title lang="id">NHL News</title>
-  </programme>
-  <programme start="20260406212000 +0000" stop="20260406230500 +0000" channel="Nova Sport 1.webtv.sk">
-    <title lang="id">Montreal Canadiens - New Jersey Devils</title>
   </programme>
   <programme start="20260405193500 +0000" stop="20260405220500 +0000" channel="Nova Sport 2.webtv.sk">
     <title lang="id">Milwaukee Bucks - Memphis Grizzlies</title>
@@ -10065,6 +10101,222 @@
   </programme>
   <programme start="20260406214500 +0000" stop="20260406221000 +0000" channel="Nickelodeon.webtv.sk">
     <title lang="id">Spongebob v kalhotách XI (226)</title>
+  </programme>
+  <programme start="20260405214500 +0000" stop="20260405220500 +0000" channel="Nicktoons.webtv.sk">
+    <title lang="id">Příběy Želv ninja I (4)</title>
+  </programme>
+  <programme start="20260405220500 +0000" stop="20260405223000 +0000" channel="Nicktoons.webtv.sk">
+    <title lang="id">Podivný časoprostor Sammyho a Rádže I (9)</title>
+  </programme>
+  <programme start="20260405223000 +0000" stop="20260405225000 +0000" channel="Nicktoons.webtv.sk">
+    <title lang="id">Tučňáci z Madagaskaru III (2)</title>
+  </programme>
+  <programme start="20260405225000 +0000" stop="20260405231000 +0000" channel="Nicktoons.webtv.sk">
+    <title lang="id">Nej a Nejnejka I (8)</title>
+  </programme>
+  <programme start="20260405231000 +0000" stop="20260405233500 +0000" channel="Nicktoons.webtv.sk">
+    <title lang="id">Nej a Nejnejka I (9)</title>
+  </programme>
+  <programme start="20260405233500 +0000" stop="20260405235500 +0000" channel="Nicktoons.webtv.sk">
+    <title lang="id">Nej a Nejnejka I (10)</title>
+  </programme>
+  <programme start="20260405235500 +0000" stop="20260406001500 +0000" channel="Nicktoons.webtv.sk">
+    <title lang="id">Nej a Nejnejka I (11)</title>
+  </programme>
+  <programme start="20260406001500 +0000" stop="20260406003500 +0000" channel="Nicktoons.webtv.sk">
+    <title lang="id">Nej a Nejnejka I (12)</title>
+  </programme>
+  <programme start="20260406003500 +0000" stop="20260406010000 +0000" channel="Nicktoons.webtv.sk">
+    <title lang="id">Želvy Ninja III (1)</title>
+  </programme>
+  <programme start="20260406010000 +0000" stop="20260406012000 +0000" channel="Nicktoons.webtv.sk">
+    <title lang="id">Sanjay a Craig I (13)</title>
+  </programme>
+  <programme start="20260406012000 +0000" stop="20260406014000 +0000" channel="Nicktoons.webtv.sk">
+    <title lang="id">Spongebob v kalhotách IX (181)</title>
+  </programme>
+  <programme start="20260406014000 +0000" stop="20260406020500 +0000" channel="Nicktoons.webtv.sk">
+    <title lang="id">Spongebob v kalhotách IX (182)</title>
+  </programme>
+  <programme start="20260406020500 +0000" stop="20260406022500 +0000" channel="Nicktoons.webtv.sk">
+    <title lang="id">Spongebob v kalhotách IX (183)</title>
+  </programme>
+  <programme start="20260406022500 +0000" stop="20260406025000 +0000" channel="Nicktoons.webtv.sk">
+    <title lang="id">Spongebob v kalhotách IX (184)</title>
+  </programme>
+  <programme start="20260406025000 +0000" stop="20260406030000 +0000" channel="Nicktoons.webtv.sk">
+    <title lang="id">Spongebob v kalhotách VI (101)</title>
+  </programme>
+  <programme start="20260406030000 +0000" stop="20260406032000 +0000" channel="Nicktoons.webtv.sk">
+    <title lang="id">Spongebob v kalhotách IX (186)</title>
+  </programme>
+  <programme start="20260406032000 +0000" stop="20260406034500 +0000" channel="Nicktoons.webtv.sk">
+    <title lang="id">Spongebob v kalhotách IX (188)</title>
+  </programme>
+  <programme start="20260406034500 +0000" stop="20260406040500 +0000" channel="Nicktoons.webtv.sk">
+    <title lang="id">Spongebob v kalhotách IX (190)</title>
+  </programme>
+  <programme start="20260406040500 +0000" stop="20260406042000 +0000" channel="Nicktoons.webtv.sk">
+    <title lang="id">Spongebob v kalhotách IX (196)</title>
+  </programme>
+  <programme start="20260406042000 +0000" stop="20260406044000 +0000" channel="Nicktoons.webtv.sk">
+    <title lang="id">Spongebob v kalhotách IX (188)</title>
+  </programme>
+  <programme start="20260406044000 +0000" stop="20260406050000 +0000" channel="Nicktoons.webtv.sk">
+    <title lang="id">Korálový tábor: Spongebob na dně mládí I (14)</title>
+  </programme>
+  <programme start="20260406050000 +0000" stop="20260406051500 +0000" channel="Nicktoons.webtv.sk">
+    <title lang="id">Korálový tábor: Spongebob na dně mládí II (1)</title>
+  </programme>
+  <programme start="20260406051500 +0000" stop="20260406053500 +0000" channel="Nicktoons.webtv.sk">
+    <title lang="id">Supr čupr králíčci II (1)</title>
+  </programme>
+  <programme start="20260406053500 +0000" stop="20260406060000 +0000" channel="Nicktoons.webtv.sk">
+    <title lang="id">Casagrandovi III (20)</title>
+  </programme>
+  <programme start="20260406060000 +0000" stop="20260406062000 +0000" channel="Nicktoons.webtv.sk">
+    <title lang="id">Casagrandovi I (1)</title>
+  </programme>
+  <programme start="20260406062000 +0000" stop="20260406064500 +0000" channel="Nicktoons.webtv.sk">
+    <title lang="id">Hlasiťákovi III (1)</title>
+  </programme>
+  <programme start="20260406064500 +0000" stop="20260406070500 +0000" channel="Nicktoons.webtv.sk">
+    <title lang="id">Hlasiťákovi III (3)</title>
+  </programme>
+  <programme start="20260406070500 +0000" stop="20260406072500 +0000" channel="Nicktoons.webtv.sk">
+    <title lang="id">Hlasiťákovi III (4)</title>
+  </programme>
+  <programme start="20260406072500 +0000" stop="20260406075000 +0000" channel="Nicktoons.webtv.sk">
+    <title lang="id">Příběhy želv ninja II (8)</title>
+  </programme>
+  <programme start="20260406075000 +0000" stop="20260406081000 +0000" channel="Nicktoons.webtv.sk">
+    <title lang="id">Kouzelní kmotříčci VII (1)</title>
+  </programme>
+  <programme start="20260406081000 +0000" stop="20260406082500 +0000" channel="Nicktoons.webtv.sk">
+    <title lang="id">Kouzelní kmotříčci X (2)</title>
+  </programme>
+  <programme start="20260406082500 +0000" stop="20260406084500 +0000" channel="Nicktoons.webtv.sk">
+    <title lang="id">Korálový tábor: Spongebob na dně mládí I (7)</title>
+  </programme>
+  <programme start="20260406084500 +0000" stop="20260406091000 +0000" channel="Nicktoons.webtv.sk">
+    <title lang="id">Korálový tábor: Spongebob na dně mládí I (8)</title>
+  </programme>
+  <programme start="20260406091000 +0000" stop="20260406093000 +0000" channel="Nicktoons.webtv.sk">
+    <title lang="id">Hlasiťákovi VI (1)</title>
+  </programme>
+  <programme start="20260406093000 +0000" stop="20260406095000 +0000" channel="Nicktoons.webtv.sk">
+    <title lang="id">Hlasiťákovi VI (3)</title>
+  </programme>
+  <programme start="20260406095000 +0000" stop="20260406101500 +0000" channel="Nicktoons.webtv.sk">
+    <title lang="id">Hlasiťákovi III (22)</title>
+  </programme>
+  <programme start="20260406101500 +0000" stop="20260406103000 +0000" channel="Nicktoons.webtv.sk">
+    <title lang="id">Spongebob v kalhotách IX (201)</title>
+  </programme>
+  <programme start="20260406103000 +0000" stop="20260406105000 +0000" channel="Nicktoons.webtv.sk">
+    <title lang="id">Spongebob v kalhotách VI (122)</title>
+  </programme>
+  <programme start="20260406105000 +0000" stop="20260406111500 +0000" channel="Nicktoons.webtv.sk">
+    <title lang="id">Patrikova hvězdná show IV (4)</title>
+  </programme>
+  <programme start="20260406111500 +0000" stop="20260406113500 +0000" channel="Nicktoons.webtv.sk">
+    <title lang="id">Show Patricka Hvězdice I (1)</title>
+  </programme>
+  <programme start="20260406113500 +0000" stop="20260406115500 +0000" channel="Nicktoons.webtv.sk">
+    <title lang="id">Casagrandovi III (2)</title>
+  </programme>
+  <programme start="20260406115500 +0000" stop="20260406120500 +0000" channel="Nicktoons.webtv.sk">
+    <title lang="id">Casagrandovi II (1)</title>
+  </programme>
+  <programme start="20260406120500 +0000" stop="20260406123000 +0000" channel="Nicktoons.webtv.sk">
+    <title lang="id">Supr čupr králíčci I (1)</title>
+  </programme>
+  <programme start="20260406123000 +0000" stop="20260406125000 +0000" channel="Nicktoons.webtv.sk">
+    <title lang="id">Korálový tábor: Spongebob na dně mládí I (4)</title>
+  </programme>
+  <programme start="20260406125000 +0000" stop="20260406130000 +0000" channel="Nicktoons.webtv.sk">
+    <title lang="id">Korálový tábor: Spongebob na dně mládí II (3)</title>
+  </programme>
+  <programme start="20260406130000 +0000" stop="20260406131500 +0000" channel="Nicktoons.webtv.sk">
+    <title lang="id">Spongebob v kalhotách XV (319)</title>
+  </programme>
+  <programme start="20260406131500 +0000" stop="20260406132500 +0000" channel="Nicktoons.webtv.sk">
+    <title lang="id">Spongebob v kalhotách XV (318)</title>
+  </programme>
+  <programme start="20260406132500 +0000" stop="20260406135000 +0000" channel="Nicktoons.webtv.sk">
+    <title lang="id">Patrikova hvězdná show II (7)</title>
+  </programme>
+  <programme start="20260406135000 +0000" stop="20260406140000 +0000" channel="Nicktoons.webtv.sk">
+    <title lang="id">Show Patricka Hvězdice I (3)</title>
+  </programme>
+  <programme start="20260406140000 +0000" stop="20260406142000 +0000" channel="Nicktoons.webtv.sk">
+    <title lang="id">Příběhy Želv Ninja II (6)</title>
+  </programme>
+  <programme start="20260406142000 +0000" stop="20260406144500 +0000" channel="Nicktoons.webtv.sk">
+    <title lang="id">Kouzelní kmotříčci: Nové přání I (9)</title>
+  </programme>
+  <programme start="20260406144500 +0000" stop="20260406150500 +0000" channel="Nicktoons.webtv.sk">
+    <title lang="id">Hlasiťákovi V (13)</title>
+  </programme>
+  <programme start="20260406150500 +0000" stop="20260406153000 +0000" channel="Nicktoons.webtv.sk">
+    <title lang="id">Hlasiťákovi V (15)</title>
+  </programme>
+  <programme start="20260406153000 +0000" stop="20260406155000 +0000" channel="Nicktoons.webtv.sk">
+    <title lang="id">Patrikova hvězdná show I (24)</title>
+  </programme>
+  <programme start="20260406155000 +0000" stop="20260406160000 +0000" channel="Nicktoons.webtv.sk">
+    <title lang="id">Show Patricka Hvězdice II (1)</title>
+  </programme>
+  <programme start="20260406160000 +0000" stop="20260406161500 +0000" channel="Nicktoons.webtv.sk">
+    <title lang="id">Spongebob v kalhotách XV (319)</title>
+  </programme>
+  <programme start="20260406161500 +0000" stop="20260406162500 +0000" channel="Nicktoons.webtv.sk">
+    <title lang="id">Spongebob v kalhotách XV (318)</title>
+  </programme>
+  <programme start="20260406162500 +0000" stop="20260406165000 +0000" channel="Nicktoons.webtv.sk">
+    <title lang="id">Spongebob v kalhotách VII (147)</title>
+  </programme>
+  <programme start="20260406165000 +0000" stop="20260406171500 +0000" channel="Nicktoons.webtv.sk">
+    <title lang="id">Spongebob v kalhotách VII (148)</title>
+  </programme>
+  <programme start="20260406171500 +0000" stop="20260406173500 +0000" channel="Nicktoons.webtv.sk">
+    <title lang="id">Spongebob v kalhotách VII (149)</title>
+  </programme>
+  <programme start="20260406173500 +0000" stop="20260406180000 +0000" channel="Nicktoons.webtv.sk">
+    <title lang="id">Příhody Děsného kluka I (9)</title>
+  </programme>
+  <programme start="20260406180000 +0000" stop="20260406182500 +0000" channel="Nicktoons.webtv.sk">
+    <title lang="id">Příběhy Želv Ninja II (6)</title>
+  </programme>
+  <programme start="20260406182500 +0000" stop="20260406184500 +0000" channel="Nicktoons.webtv.sk">
+    <title lang="id">Kouzelní kmotříčci X (5)</title>
+  </programme>
+  <programme start="20260406184500 +0000" stop="20260406190500 +0000" channel="Nicktoons.webtv.sk">
+    <title lang="id">Kouzelní kmotříčci X (6)</title>
+  </programme>
+  <programme start="20260406190500 +0000" stop="20260406193000 +0000" channel="Nicktoons.webtv.sk">
+    <title lang="id">Tučňáci z Madagaskaru III (4)</title>
+  </programme>
+  <programme start="20260406193000 +0000" stop="20260406195500 +0000" channel="Nicktoons.webtv.sk">
+    <title lang="id">Tučňáci z Madagaskaru III (5)</title>
+  </programme>
+  <programme start="20260406195500 +0000" stop="20260406201500 +0000" channel="Nicktoons.webtv.sk">
+    <title lang="id">Kung Fu Panda: Legendy o mazáctví II (8)</title>
+  </programme>
+  <programme start="20260406201500 +0000" stop="20260406204000 +0000" channel="Nicktoons.webtv.sk">
+    <title lang="id">Avatar: Legenda o Aangovi I (9)</title>
+  </programme>
+  <programme start="20260406204000 +0000" stop="20260406210000 +0000" channel="Nicktoons.webtv.sk">
+    <title lang="id">Spongebob v kalhotách VI (101)</title>
+  </programme>
+  <programme start="20260406210000 +0000" stop="20260406212500 +0000" channel="Nicktoons.webtv.sk">
+    <title lang="id">Spongebob v kalhotách VI (102)</title>
+  </programme>
+  <programme start="20260406212500 +0000" stop="20260406215000 +0000" channel="Nicktoons.webtv.sk">
+    <title lang="id">Příběhy Želv Ninja II (3)</title>
+  </programme>
+  <programme start="20260406215000 +0000" stop="20260406221000 +0000" channel="Nicktoons.webtv.sk">
+    <title lang="id">Příběhy Želv Ninja II (4)</title>
   </programme>
   <programme start="20260405215500 +0000" stop="20260405222000 +0000" channel="Nick Jr.webtv.sk">
     <title lang="id">Barbapapa a jeho rodinka I (23)</title>
