@@ -74,10 +74,6 @@
     <title>Football: FC Midtjylland - Nottingham F.</title>
     <desc>Live: Tidak</desc>
 </programme>
-<programme start="20260404134000 +0700" stop="20260404141000 +0700" channel="COSMOTE Sport 2 HD">
-    <title>Serie A Inside Serie A 2025-26 E31</title>
-    <desc>Live: Tidak</desc>
-</programme>
 <programme start="20260404141000 +0700" stop="20260404162000 +0700" channel="COSMOTE Sport 2 HD">
     <title>Football: AEK - Kifisia</title>
     <desc>Live: Tidak</desc>
@@ -148,6 +144,14 @@
 </programme>
 <programme start="20260405130000 +0700" stop="20260405151000 +0700" channel="COSMOTE Sport 2 HD">
     <title>Football: SS Lazio - Parma</title>
+    <desc>Live: Tidak</desc>
+</programme>
+<programme start="20260405151000 +0700" stop="20260405154000 +0700" channel="COSMOTE Sport 2 HD">
+    <title>Sports Classics: Ultimate Rush S5 E2</title>
+    <desc>Live: Tidak</desc>
+</programme>
+<programme start="20260405154000 +0700" stop="20260405174500 +0700" channel="COSMOTE Sport 2 HD">
+    <title>Football: Kifisia - Panserraikos</title>
     <desc>Live: Tidak</desc>
 </programme>
 <programme start="20260404140000 +0700" stop="20260404160000 +0700" channel="COSMOTE Sport 3 HD">
@@ -282,10 +286,6 @@
     <title>Basketball: Tenerife - Galatasaray</title>
     <desc>Live: Tidak</desc>
 </programme>
-<programme start="20260404133500 +0700" stop="20260404140500 +0700" channel="COSMOTE Sport 5 HD">
-    <title>Extreme E - Highlights 2025</title>
-    <desc>Live: Tidak</desc>
-</programme>
 <programme start="20260404140500 +0700" stop="20260404152500 +0700" channel="COSMOTE Sport 5 HD">
     <title>Motorsports: Moto3 2026</title>
     <desc>Live: Tidak</desc>
@@ -378,8 +378,8 @@
     <title>WRC 2026</title>
     <desc>Live: Tidak</desc>
 </programme>
-<programme start="20260404140000 +0700" stop="20260404150000 +0700" channel="COSMOTE Sport 6 HD">
-    <title>ATP Masters 1000 2026 - Highlights</title>
+<programme start="20260405152500 +0700" stop="20260405161000 +0700" channel="COSMOTE Sport 5 HD">
+    <title>WRC 2026</title>
     <desc>Live: Tidak</desc>
 </programme>
 <programme start="20260404150000 +0700" stop="20260404153000 +0700" channel="COSMOTE Sport 6 HD">
