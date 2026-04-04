@@ -4258,8 +4258,17 @@
     <programme start="20260404100000 +0000" stop="20260404130000 +0000" channel="Hub Sports 3 HD.starhub">
         <title>Aramco Championship Round 2</title>
     </programme>
-    <programme start="20260404130000 +0000" stop="20260404160000 +0000" channel="Hub Sports 3 HD.starhub">
-        <title>Valero Texas Open Round 2</title>
+    <programme start="20260404130000 +0000" stop="20260404140000 +0000" channel="Hub Sports 3 HD.starhub">
+        <title>Hoag Classic</title>
+    </programme>
+    <programme start="20260404140000 +0000" stop="20260404143000 +0000" channel="Hub Sports 3 HD.starhub">
+        <title>Hero Indian Open</title>
+    </programme>
+    <programme start="20260404143000 +0000" stop="20260404150000 +0000" channel="Hub Sports 3 HD.starhub">
+        <title>Episode 11</title>
+    </programme>
+    <programme start="20260404150000 +0000" stop="20260404200000 +0000" channel="Hub Sports 3 HD.starhub">
+        <title>Valero Texas Open Round 3</title>
     </programme>
     <programme start="20260403160000 +0000" stop="20260403162000 +0000" channel="France24.starhub">
         <title>News</title>
@@ -7957,16 +7966,13 @@
     <programme start="20260404145000 +0000" stop="20260404160000 +0000" channel="ABC Australia HD.starhub">
         <title>Solo Set: Mr Cowboy</title>
     </programme>
-    <programme start="20260403133000 +0000" stop="20260403163000 +0000" channel="Asianet Movies.starhub">
-        <title>One</title>
-    </programme>
-    <programme start="20260403163000 +0000" stop="20260403193000 +0000" channel="Asianet Movies.starhub">
+    <programme start="20260403163000 +0000" stop="20260403192000 +0000" channel="Asianet Movies.starhub">
         <title>Minnal Murali</title>
     </programme>
-    <programme start="20260403193000 +0000" stop="20260403213000 +0000" channel="Asianet Movies.starhub">
+    <programme start="20260403192000 +0000" stop="20260403215000 +0000" channel="Asianet Movies.starhub">
         <title>Jai Sulthan</title>
     </programme>
-    <programme start="20260403213000 +0000" stop="20260403233000 +0000" channel="Asianet Movies.starhub">
+    <programme start="20260403215000 +0000" stop="20260403233000 +0000" channel="Asianet Movies.starhub">
         <title>Cheriya Kallnum Valiya Polisum</title>
     </programme>
     <programme start="20260403233000 +0000" stop="20260404013000 +0000" channel="Asianet Movies.starhub">
