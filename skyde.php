@@ -3052,10 +3052,10 @@ Warning: Undefined array key "et" in /usr/home/ManusiaBiasa/domains/manusiabiasa
     <title>Live WTA 500: J. Pegula (USA) - I. Jovic (USA), Credit One Charleston Open in Charleston (USA), Halbfinale 1</title>
 </programme>
 <programme start="20260404190000 +0000" stop="20260404210000 +0000" channel="Sky Sport Tennis HD.skyde">
-    <title>Live WTA 500: M. Keys (USA) - Y. Starodubtseva (UKR), Credit One Charleston Open in Charleston (USA), Halbfinale 2</title>
+    <title>Live WTA 500: HF2, Credit One Charleston Open in Charleston (USA), Halbfinale 2</title>
 </programme>
 <programme start="20260404210000 +0000" stop="20260404230000 +0000" channel="Sky Sport Tennis HD.skyde">
-    <title>Live ATP 250: T. Paul (USA) -  F. Tiafoe (USA), Fayez Sarofim &amp; Co U.S. Men&#039;s Clay Court Championship in Houston (USA), Halbfinale 2</title>
+    <title>Live ATP 250: HF2, Fayez Sarofim &amp; Co U.S. Men&#039;s Clay Court Championship in Houston (USA), Halbfinale 2</title>
 </programme>
 <programme start="20260403230000 +0000" stop="20260404020000 +0000" channel="Sky Sport Top Event HD.skyde">
     <title>Live NHL: Philadelphia Flyers @ New York Islanders</title>

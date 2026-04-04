@@ -1,3 +1,81 @@
+  <programme start="20260405210500 +0000" stop="20260405225500 +0000" channel="Jednotka.webtv.sk">
+    <title lang="id">Cartouche</title>
+  </programme>
+  <programme start="20260405225500 +0000" stop="20260405230000 +0000" channel="Jednotka.webtv.sk">
+    <title lang="id">Hymna SR</title>
+  </programme>
+  <programme start="20260405230000 +0000" stop="20260405235000 +0000" channel="Jednotka.webtv.sk">
+    <title lang="id">Správy</title>
+  </programme>
+  <programme start="20260405235000 +0000" stop="20260406001500 +0000" channel="Jednotka.webtv.sk">
+    <title lang="id">Góly - body - sekundy</title>
+  </programme>
+  <programme start="20260406001500 +0000" stop="20260406002000 +0000" channel="Jednotka.webtv.sk">
+    <title lang="id">Počasie</title>
+  </programme>
+  <programme start="20260406002000 +0000" stop="20260406011500 +0000" channel="Jednotka.webtv.sk">
+    <title lang="id">Gróf Monte Christo (5/8)</title>
+  </programme>
+  <programme start="20260406011500 +0000" stop="20260406021000 +0000" channel="Jednotka.webtv.sk">
+    <title lang="id">Gróf Monte Christo (6/8)</title>
+  </programme>
+  <programme start="20260406021000 +0000" stop="20260406030000 +0000" channel="Jednotka.webtv.sk">
+    <title lang="id">Správy</title>
+  </programme>
+  <programme start="20260406030000 +0000" stop="20260406042500 +0000" channel="Jednotka.webtv.sk">
+    <title lang="id">Sladké starosti</title>
+  </programme>
+  <programme start="20260406042500 +0000" stop="20260406052500 +0000" channel="Jednotka.webtv.sk">
+    <title lang="id">Popoluška</title>
+  </programme>
+  <programme start="20260406052500 +0000" stop="20260406063500 +0000" channel="Jednotka.webtv.sk">
+    <title lang="id">Cesta za pokladom</title>
+  </programme>
+  <programme start="20260406063500 +0000" stop="20260406074500 +0000" channel="Jednotka.webtv.sk">
+    <title lang="id">Kovladov dar</title>
+  </programme>
+  <programme start="20260406074500 +0000" stop="20260406084000 +0000" channel="Jednotka.webtv.sk">
+    <title lang="id">Husiarka a kráľ</title>
+  </programme>
+  <programme start="20260406084000 +0000" stop="20260406101000 +0000" channel="Jednotka.webtv.sk">
+    <title lang="id">Páni kluci</title>
+  </programme>
+  <programme start="20260406101000 +0000" stop="20260406114000 +0000" channel="Jednotka.webtv.sk">
+    <title lang="id">Falošný princ</title>
+  </programme>
+  <programme start="20260406114000 +0000" stop="20260406124000 +0000" channel="Jednotka.webtv.sk">
+    <title lang="id">Princezná Mahuliena</title>
+  </programme>
+  <programme start="20260406124000 +0000" stop="20260406134000 +0000" channel="Jednotka.webtv.sk">
+    <title lang="id">Husia princezná</title>
+  </programme>
+  <programme start="20260406134000 +0000" stop="20260406151000 +0000" channel="Jednotka.webtv.sk">
+    <title lang="id">Stratená dolina</title>
+  </programme>
+  <programme start="20260406151000 +0000" stop="20260406160500 +0000" channel="Jednotka.webtv.sk">
+    <title lang="id">Gróf Monte Christo (7/8)</title>
+  </programme>
+  <programme start="20260406160500 +0000" stop="20260406170000 +0000" channel="Jednotka.webtv.sk">
+    <title lang="id">Gróf Monte Christo (8/8)</title>
+  </programme>
+  <programme start="20260406170000 +0000" stop="20260406175500 +0000" channel="Jednotka.webtv.sk">
+    <title lang="id">Správy</title>
+  </programme>
+  <programme start="20260406175500 +0000" stop="20260406181500 +0000" channel="Jednotka.webtv.sk">
+    <title lang="id">Góly - body - sekundy</title>
+  </programme>
+  <programme start="20260406181500 +0000" stop="20260406183000 +0000" channel="Jednotka.webtv.sk">
+    <title lang="id">Počasie</title>
+  </programme>
+  <programme start="20260406183000 +0000" stop="20260406195000 +0000" channel="Jednotka.webtv.sk">
+    <title lang="id">Pásla kone na betóne</title>
+  </programme>
+  <programme start="20260406195000 +0000" stop="20260406212500 +0000" channel="Jednotka.webtv.sk">
+    <title lang="id">...kone na betóne</title>
+  </programme>
+  <programme start="20260406212500 +0000" stop="20260406230000 +0000" channel="Jednotka.webtv.sk">
+    <title lang="id">Veselá Veľká noc</title>
+  </programme>
   <programme start="20260405205500 +0000" stop="20260405220500 +0000" channel="Dvojka.webtv.sk">
     <title lang="id">ICONITO - 10 ro(c)kov na scéne</title>
   </programme>
@@ -3822,6 +3900,90 @@
   </programme>
   <programme start="20260406211000 +0000" stop="20260406223500 +0000" channel="Prima Cool SK.webtv.sk">
     <title lang="id">Top Gear XII (8)</title>
+  </programme>
+  <programme start="20260405211500 +0000" stop="20260405221500 +0000" channel="Prima Love SK.webtv.sk">
+    <title lang="id">Velmi křehké vztahy III (59)</title>
+  </programme>
+  <programme start="20260405221500 +0000" stop="20260405231000 +0000" channel="Prima Love SK.webtv.sk">
+    <title lang="id">Velmi křehké vztahy III (60)</title>
+  </programme>
+  <programme start="20260405231000 +0000" stop="20260405235500 +0000" channel="Prima Love SK.webtv.sk">
+    <title lang="id">Dvojí tvář lásky (26)</title>
+  </programme>
+  <programme start="20260405235500 +0000" stop="20260406004000 +0000" channel="Prima Love SK.webtv.sk">
+    <title lang="id">Dvojí tvář lásky (27)</title>
+  </programme>
+  <programme start="20260406004000 +0000" stop="20260406012500 +0000" channel="Prima Love SK.webtv.sk">
+    <title lang="id">Doktor z hor: Nové příběhy IX (11)</title>
+  </programme>
+  <programme start="20260406012500 +0000" stop="20260406021000 +0000" channel="Prima Love SK.webtv.sk">
+    <title lang="id">Doktor z hor: Nové příběhy IX (12)</title>
+  </programme>
+  <programme start="20260406021000 +0000" stop="20260406030000 +0000" channel="Prima Love SK.webtv.sk">
+    <title lang="id">Gondíci s. r. o.</title>
+  </programme>
+  <programme start="20260406030000 +0000" stop="20260406040000 +0000" channel="Prima Love SK.webtv.sk">
+    <title lang="id">Jak se staví sen - extra</title>
+  </programme>
+  <programme start="20260406040000 +0000" stop="20260406041500 +0000" channel="Prima Love SK.webtv.sk">
+    <title lang="id">Slow TV</title>
+  </programme>
+  <programme start="20260406041500 +0000" stop="20260406044000 +0000" channel="Prima Love SK.webtv.sk">
+    <title lang="id">Karolína, domácí kuchařka</title>
+  </programme>
+  <programme start="20260406044000 +0000" stop="20260406051000 +0000" channel="Prima Love SK.webtv.sk">
+    <title lang="id">Šéfem za pár minut</title>
+  </programme>
+  <programme start="20260406051000 +0000" stop="20260406054500 +0000" channel="Prima Love SK.webtv.sk">
+    <title lang="id">Šéfem za pár minut</title>
+  </programme>
+  <programme start="20260406054500 +0000" stop="20260406070000 +0000" channel="Prima Love SK.webtv.sk">
+    <title lang="id">Ano, šéfe!</title>
+  </programme>
+  <programme start="20260406070000 +0000" stop="20260406080500 +0000" channel="Prima Love SK.webtv.sk">
+    <title lang="id">Velmi křehké vztahy III (59)</title>
+  </programme>
+  <programme start="20260406080500 +0000" stop="20260406091500 +0000" channel="Prima Love SK.webtv.sk">
+    <title lang="id">Velmi křehké vztahy III (60)</title>
+  </programme>
+  <programme start="20260406091500 +0000" stop="20260406101500 +0000" channel="Prima Love SK.webtv.sk">
+    <title lang="id">Dvojí tvář lásky (26)</title>
+  </programme>
+  <programme start="20260406101500 +0000" stop="20260406111000 +0000" channel="Prima Love SK.webtv.sk">
+    <title lang="id">Dvojí tvář lásky (27)</title>
+  </programme>
+  <programme start="20260406111000 +0000" stop="20260406120500 +0000" channel="Prima Love SK.webtv.sk">
+    <title lang="id">Doktor z hor: Nové příběhy IX (11)</title>
+  </programme>
+  <programme start="20260406120500 +0000" stop="20260406130000 +0000" channel="Prima Love SK.webtv.sk">
+    <title lang="id">Doktor z hor: Nové příběhy IX (12)</title>
+  </programme>
+  <programme start="20260406130000 +0000" stop="20260406141000 +0000" channel="Prima Love SK.webtv.sk">
+    <title lang="id">Velmi křehké vztahy III (61)</title>
+  </programme>
+  <programme start="20260406141000 +0000" stop="20260406151500 +0000" channel="Prima Love SK.webtv.sk">
+    <title lang="id">Velmi křehké vztahy III (62)</title>
+  </programme>
+  <programme start="20260406151500 +0000" stop="20260406162000 +0000" channel="Prima Love SK.webtv.sk">
+    <title lang="id">Ano, šéfe!</title>
+  </programme>
+  <programme start="20260406162000 +0000" stop="20260406171500 +0000" channel="Prima Love SK.webtv.sk">
+    <title lang="id">Dvojí tvář lásky (28)</title>
+  </programme>
+  <programme start="20260406171500 +0000" stop="20260406181500 +0000" channel="Prima Love SK.webtv.sk">
+    <title lang="id">Dvojí tvář lásky (29)</title>
+  </programme>
+  <programme start="20260406181500 +0000" stop="20260406191000 +0000" channel="Prima Love SK.webtv.sk">
+    <title lang="id">Doktor z hor: Nové příběhy IX (13)</title>
+  </programme>
+  <programme start="20260406191000 +0000" stop="20260406200000 +0000" channel="Prima Love SK.webtv.sk">
+    <title lang="id">Doktor z hor: Nové příběhy IX (14)</title>
+  </programme>
+  <programme start="20260406200000 +0000" stop="20260406211500 +0000" channel="Prima Love SK.webtv.sk">
+    <title lang="id">Ano, šéfe!</title>
+  </programme>
+  <programme start="20260406211500 +0000" stop="20260406221500 +0000" channel="Prima Love SK.webtv.sk">
+    <title lang="id">Velmi křehké vztahy III (61)</title>
   </programme>
   <programme start="20260405215000 +0000" stop="20260405223000 +0000" channel="Prima Krimi SK.webtv.sk">
     <title lang="id">Prvních 48 hodin XIX (5)</title>
@@ -18759,6 +18921,108 @@
   </programme>
   <programme start="20260406215100 +0000" stop="20260406220000 +0000" channel="France 24.webtv.sk">
     <title lang="id">FOCUS</title>
+  </programme>
+  <programme start="20260405214500 +0000" stop="20260405225500 +0000" channel="Rai Uno.webtv.sk">
+    <title lang="id">Speciale Tg1</title>
+  </programme>
+  <programme start="20260405225500 +0000" stop="20260405230000 +0000" channel="Rai Uno.webtv.sk">
+    <title lang="id">Che tempo fa</title>
+  </programme>
+  <programme start="20260405230000 +0000" stop="20260406003000 +0000" channel="Rai Uno.webtv.sk">
+    <title lang="id">Sottovoce</title>
+  </programme>
+  <programme start="20260406003000 +0000" stop="20260406014500 +0000" channel="Rai Uno.webtv.sk">
+    <title lang="id">Da noi... a ruota libera</title>
+  </programme>
+  <programme start="20260406014500 +0000" stop="20260406023000 +0000" channel="Rai Uno.webtv.sk">
+    <title lang="id">Il commissario Rex V (13)</title>
+  </programme>
+  <programme start="20260406023000 +0000" stop="20260406033000 +0000" channel="Rai Uno.webtv.sk">
+    <title lang="id">RaiNews</title>
+  </programme>
+  <programme start="20260406033000 +0000" stop="20260406040000 +0000" channel="Rai Uno.webtv.sk">
+    <title lang="id">Parlamento Punto Europa</title>
+  </programme>
+  <programme start="20260406040000 +0000" stop="20260406042800 +0000" channel="Rai Uno.webtv.sk">
+    <title lang="id">1mattina News</title>
+  </programme>
+  <programme start="20260406042800 +0000" stop="20260406043000 +0000" channel="Rai Uno.webtv.sk">
+    <title lang="id">CCISS - Viaggiare informati</title>
+  </programme>
+  <programme start="20260406043000 +0000" stop="20260406043300 +0000" channel="Rai Uno.webtv.sk">
+    <title lang="id">Tg1</title>
+  </programme>
+  <programme start="20260406043300 +0000" stop="20260406045800 +0000" channel="Rai Uno.webtv.sk">
+    <title lang="id">1mattina News</title>
+  </programme>
+  <programme start="20260406045800 +0000" stop="20260406050000 +0000" channel="Rai Uno.webtv.sk">
+    <title lang="id">Che tempo fa</title>
+  </programme>
+  <programme start="20260406050000 +0000" stop="20260406051000 +0000" channel="Rai Uno.webtv.sk">
+    <title lang="id">Tg1</title>
+  </programme>
+  <programme start="20260406051000 +0000" stop="20260406060000 +0000" channel="Rai Uno.webtv.sk">
+    <title lang="id">1mattina News</title>
+  </programme>
+  <programme start="20260406060000 +0000" stop="20260406063000 +0000" channel="Rai Uno.webtv.sk">
+    <title lang="id">Tg1</title>
+  </programme>
+  <programme start="20260406063000 +0000" stop="20260406063500 +0000" channel="Rai Uno.webtv.sk">
+    <title lang="id">Che tempo fa</title>
+  </programme>
+  <programme start="20260406063500 +0000" stop="20260406065500 +0000" channel="Rai Uno.webtv.sk">
+    <title lang="id">Unomattina</title>
+  </programme>
+  <programme start="20260406065500 +0000" stop="20260406070000 +0000" channel="Rai Uno.webtv.sk">
+    <title lang="id">Tg Parlamento</title>
+  </programme>
+  <programme start="20260406070000 +0000" stop="20260406070300 +0000" channel="Rai Uno.webtv.sk">
+    <title lang="id">TG1 LIS</title>
+  </programme>
+  <programme start="20260406070300 +0000" stop="20260406075000 +0000" channel="Rai Uno.webtv.sk">
+    <title lang="id">Unomattina</title>
+  </programme>
+  <programme start="20260406075000 +0000" stop="20260406095500 +0000" channel="Rai Uno.webtv.sk">
+    <title lang="id">Storie italiane</title>
+  </programme>
+  <programme start="20260406095500 +0000" stop="20260406113000 +0000" channel="Rai Uno.webtv.sk">
+    <title lang="id">E sempre mezzogiorno!</title>
+  </programme>
+  <programme start="20260406113000 +0000" stop="20260406120500 +0000" channel="Rai Uno.webtv.sk">
+    <title lang="id">Tg1</title>
+  </programme>
+  <programme start="20260406120500 +0000" stop="20260406140000 +0000" channel="Rai Uno.webtv.sk">
+    <title lang="id">La volta buona</title>
+  </programme>
+  <programme start="20260406140000 +0000" stop="20260406144500 +0000" channel="Rai Uno.webtv.sk">
+    <title lang="id">La volta buona</title>
+  </programme>
+  <programme start="20260406144500 +0000" stop="20260406145500 +0000" channel="Rai Uno.webtv.sk">
+    <title lang="id">Tg1</title>
+  </programme>
+  <programme start="20260406145500 +0000" stop="20260406163600 +0000" channel="Rai Uno.webtv.sk">
+    <title lang="id">Vita in diretta</title>
+  </programme>
+  <programme start="20260406163600 +0000" stop="20260406164000 +0000" channel="Rai Uno.webtv.sk">
+    <title lang="id">Che tempo fa</title>
+  </programme>
+  <programme start="20260406164000 +0000" stop="20260406180000 +0000" channel="Rai Uno.webtv.sk">
+    <title lang="id">L&apos;Eredita</title>
+  </programme>
+  <programme start="20260406180000 +0000" stop="20260406183000 +0000" channel="Rai Uno.webtv.sk">
+    <title lang="id">Tg1</title>
+  </programme>
+  <programme start="20260406183000 +0000" stop="20260406193000 +0000" channel="Rai Uno.webtv.sk">
+    <title lang="id">Affari tuoi</title>
+  </programme>
+  <programme start="20260406193000 +0000" stop="20260406213000 +0000" channel="Rai Uno.webtv.sk">
+    <title lang="id">Io e te dobbiamo parlare</title>
+  </programme>
+  <programme start="20260406213000 +0000" stop="20260406215500 +0000" channel="Rai Uno.webtv.sk">
+    <title lang="id">XXI Secolo</title>
+  </programme>
+  <programme start="20260406215500 +0000" stop="20260406220000 +0000" channel="Rai Uno.webtv.sk">
+    <title lang="id">Tg1</title>
   </programme>
   <programme start="20260405211000 +0000" stop="20260405223500 +0000" channel="Rai Tre.webtv.sk">
     <title lang="id">Ferdinando Scianna - Il fotografo dell&apos;ombra</title>
