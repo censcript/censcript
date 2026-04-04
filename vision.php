@@ -622,9 +622,6 @@
 <programme start="20260404003000 +0000" stop="20260404023000 +0000" channel="ANTV.vision">
 <title>Janji Cinta Inspektur Virat</title>
 </programme>
-<programme start="20260404023000 +0000" stop="20260404060000 +0000" channel="ANTV.vision">
-<title>Asoka</title>
-</programme>
 <programme start="20260404060000 +0000" stop="20260404080000 +0000" channel="ANTV.vision">
 <title>Jhanak</title>
 </programme>
@@ -633,15 +630,6 @@
 </programme>
 <programme start="20260404090000 +0000" stop="20260404110000 +0000" channel="ANTV.vision">
 <title>Vasudha</title>
-</programme>
-<programme start="20260404110000 +0000" stop="20260404123000 +0000" channel="ANTV.vision">
-<title>Menumpas Teroris</title>
-</programme>
-<programme start="20260404123000 +0000" stop="20260404140000 +0000" channel="ANTV.vision">
-<title>Titisan Dewi Ular</title>
-</programme>
-<programme start="20260404140000 +0000" stop="20260404153000 +0000" channel="ANTV.vision">
-<title>Menjelang Ajal</title>
 </programme>
 <programme start="20260404153000 +0000" stop="20260404180000 +0000" channel="ANTV.vision">
 <title>Serie A Liga Italia</title>
@@ -787,9 +775,6 @@
 <programme start="20260404011500 +0000" stop="20260404020000 +0000" channel="TVOne.vision">
 <title>Inspirasi Pagi</title>
 </programme>
-<programme start="20260404020000 +0000" stop="20260404023000 +0000" channel="TVOne.vision">
-<title>Pesona Indonesia</title>
-</programme>
 <programme start="20260404023000 +0000" stop="20260404030000 +0000" channel="TVOne.vision">
 <title>Xpose</title>
 </programme>
@@ -801,9 +786,6 @@
 </programme>
 <programme start="20260404040000 +0000" stop="20260404053000 +0000" channel="TVOne.vision">
 <title>Kabar Siang (L)</title>
-</programme>
-<programme start="20260404053000 +0000" stop="20260404070000 +0000" channel="TVOne.vision">
-<title>Damai Indonesiaku</title>
 </programme>
 <programme start="20260404070000 +0000" stop="20260404073000 +0000" channel="TVOne.vision">
 <title>Selalu Ada Hikmah</title>
@@ -820,9 +802,6 @@
 <programme start="20260404110000 +0000" stop="20260404130000 +0000" channel="TVOne.vision">
 <title>Apa Kabar Indonesia Malam (L)</title>
 </programme>
-<programme start="20260404130000 +0000" stop="20260404134500 +0000" channel="TVOne.vision">
-<title>Kabar Utama 2</title>
-</programme>
 <programme start="20260404134500 +0000" stop="20260404140000 +0000" channel="TVOne.vision">
 <title>Kabar Terkini</title>
 </programme>
@@ -831,9 +810,6 @@
 </programme>
 <programme start="20260404150000 +0000" stop="20260404160000 +0000" channel="TVOne.vision">
 <title>Kabar Hari Ini</title>
-</programme>
-<programme start="20260404160000 +0000" stop="20260404163000 +0000" channel="TVOne.vision">
-<title>Sport Style</title>
 </programme>
 <programme start="20260404163000 +0000" stop="20260404180000 +0000" channel="TVOne.vision">
 <title>Apa Kabar Indonesia Malam</title>
@@ -1497,4 +1473,28 @@
 </programme>
 <programme start="20260404000000 +0000" stop="20260404003000 +0000" channel="DAAI TV.vision">
 <title>Dr. Panda</title>
+</programme>
+<programme start="20260404003000 +0000" stop="20260404010000 +0000" channel="DAAI TV.vision">
+<title>Darwin &amp; Newts</title>
+</programme>
+<programme start="20260404010000 +0000" stop="20260404013000 +0000" channel="DAAI TV.vision">
+<title>Clifford</title>
+</programme>
+<programme start="20260404013000 +0000" stop="20260404020000 +0000" channel="DAAI TV.vision">
+<title>@Indonesia</title>
+</programme>
+<programme start="20260404020000 +0000" stop="20260404021500 +0000" channel="DAAI TV.vision">
+<title>Narasi Nusantara</title>
+</programme>
+<programme start="20260404021500 +0000" stop="20260404023000 +0000" channel="DAAI TV.vision">
+<title>Tzu Chi Inside</title>
+</programme>
+<programme start="20260404023000 +0000" stop="20260404030000 +0000" channel="DAAI TV.vision">
+<title>Hati Bicara</title>
+</programme>
+<programme start="20260404030000 +0000" stop="20260404033000 +0000" channel="DAAI TV.vision">
+<title>Hati Ke Hati</title>
+</programme>
+<programme start="20260404033000 +0000" stop="20260404040000 +0000" channel="DAAI TV.vision">
+<title>Vegetarian Kitchen</title>
 </programme>
