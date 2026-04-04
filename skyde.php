@@ -2691,7 +2691,7 @@ Warning: Undefined array key "et" in /usr/home/ManusiaBiasa/domains/manusiabiasa
 <programme start="20260404103000 +0000" stop="20260404130000 +0000" channel="Sky Sport Bundesliga 7 HD.skyde">
     <title>Live 2. BL: Multiview 28. Spieltag, Samstag</title>
 </programme>
-<programme start="20260404130000 +0000" stop="20260404161500 +0000" channel="Sky Sport Bundesliga 7 HD.skyde">
+<programme start="20260404130000 +0000" stop="20260404154500 +0000" channel="Sky Sport Bundesliga 7 HD.skyde">
     <title>Live BL: Multiview 28. Spieltag</title>
 </programme>
 <programme start="20260404101000 +0000" stop="20260404103000 +0000" channel="Sky Sport Bundesliga 8 HD.skyde">
@@ -3097,10 +3097,10 @@ Warning: Undefined array key "et" in /usr/home/ManusiaBiasa/domains/manusiabiasa
     <title>Es folgt: LIVE ATP World Tour</title>
 </programme>
 <programme start="20260404190000 +0000" stop="20260404210000 +0000" channel="Sky Sport 4 HD.skyde">
-    <title>Live ATP 250: T. Tirante (ARG) - R. Burruchaga (ARG), Fayez Sarofim &amp; Co U.S. Men&#039;s Clay Court Championship in Houston (USA), Halbfinale 1</title>
+    <title>Live ATP 250: HF1, Fayez Sarofim &amp; Co U.S. Men&#039;s Clay Court Championship in Houston (USA), Halbfinale 1</title>
 </programme>
 <programme start="20260404210000 +0000" stop="20260405080000 +0000" channel="Sky Sport 4 HD.skyde">
-    <title>Live ATP 250: T. Paul (USA) -  F. Tiafoe (USA), Fayez Sarofim &amp; Co U.S. Men&#039;s Clay Court Championship in Houston (USA), Halbfinale 2</title>
+    <title>Live ATP 250: HF2, Fayez Sarofim &amp; Co U.S. Men&#039;s Clay Court Championship in Houston (USA), Halbfinale 2</title>
 </programme>
 <programme start="20260403220000 +0000" stop="20260403224500 +0000" channel="SYFY HD.skyde">
     <title>Raumschiff Enterprise - Das nächste Jahrhundert</title>

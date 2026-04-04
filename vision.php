@@ -631,21 +631,6 @@
 <programme start="20260404090000 +0000" stop="20260404110000 +0000" channel="ANTV.vision">
 <title>Vasudha</title>
 </programme>
-<programme start="20260404110000 +0000" stop="20260404123000 +0000" channel="ANTV.vision">
-<title>Menumpas Teroris</title>
-</programme>
-<programme start="20260404123000 +0000" stop="20260404140000 +0000" channel="ANTV.vision">
-<title>Titisan Dewi Ular</title>
-</programme>
-<programme start="20260404140000 +0000" stop="20260404153000 +0000" channel="ANTV.vision">
-<title>Menjelang Ajal</title>
-</programme>
-<programme start="20260404153000 +0000" stop="20260404180000 +0000" channel="ANTV.vision">
-<title>Serie A Liga Italia</title>
-</programme>
-<programme start="20260404180000 +0000" stop="20260404203000 +0000" channel="ANTV.vision">
-<title>Serie A Liga Italia</title>
-</programme>
 <programme start="20260404203000 +0000" stop="20260404230000 +0000" channel="ANTV.vision">
 <title>Swades</title>
 </programme>
@@ -811,9 +796,6 @@
 <programme start="20260404110000 +0000" stop="20260404130000 +0000" channel="TVOne.vision">
 <title>Apa Kabar Indonesia Malam (L)</title>
 </programme>
-<programme start="20260404130000 +0000" stop="20260404134500 +0000" channel="TVOne.vision">
-<title>Kabar Utama 2</title>
-</programme>
 <programme start="20260404134500 +0000" stop="20260404140000 +0000" channel="TVOne.vision">
 <title>Kabar Terkini</title>
 </programme>
@@ -822,9 +804,6 @@
 </programme>
 <programme start="20260404150000 +0000" stop="20260404160000 +0000" channel="TVOne.vision">
 <title>Kabar Hari Ini</title>
-</programme>
-<programme start="20260404160000 +0000" stop="20260404163000 +0000" channel="TVOne.vision">
-<title>Sport Style</title>
 </programme>
 <programme start="20260404163000 +0000" stop="20260404180000 +0000" channel="TVOne.vision">
 <title>Apa Kabar Indonesia Malam</title>
@@ -1497,4 +1476,25 @@
 </programme>
 <programme start="20260404013000 +0000" stop="20260404020000 +0000" channel="DAAI TV.vision">
 <title>@Indonesia</title>
+</programme>
+<programme start="20260404020000 +0000" stop="20260404021500 +0000" channel="DAAI TV.vision">
+<title>Narasi Nusantara</title>
+</programme>
+<programme start="20260404021500 +0000" stop="20260404023000 +0000" channel="DAAI TV.vision">
+<title>Tzu Chi Inside</title>
+</programme>
+<programme start="20260404023000 +0000" stop="20260404030000 +0000" channel="DAAI TV.vision">
+<title>Hati Bicara</title>
+</programme>
+<programme start="20260404030000 +0000" stop="20260404033000 +0000" channel="DAAI TV.vision">
+<title>Hati Ke Hati</title>
+</programme>
+<programme start="20260404033000 +0000" stop="20260404040000 +0000" channel="DAAI TV.vision">
+<title>Vegetarian Kitchen</title>
+</programme>
+<programme start="20260404040000 +0000" stop="20260404050000 +0000" channel="DAAI TV.vision">
+<title>Selalu Ada Untukku</title>
+</programme>
+<programme start="20260404050000 +0000" stop="20260404053000 +0000" channel="DAAI TV.vision">
+<title>DAAI Mandarin</title>
 </programme>
