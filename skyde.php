@@ -2476,9 +2476,9 @@ Warning: Undefined array key "et" in /usr/home/ManusiaBiasa/domains/manusiabiasa
     <title>Live Admiral BL: WSG Tirol - RZ Pellets WAC, 25. Runde</title>
 </programme>
 <programme start="20260404143000 +0000" stop="20260404145000 +0000" channel="Sky Sport Austria 3 HD.skyde">
-    <title>Es folgt: Admiral BL</title>
+    <title>Es folgt: LIVE Admiral BL</title>
 </programme>
-<programme start="20260404145000 +0000" stop="20260404170000 +0000" channel="Sky Sport Austria 3 HD.skyde">
+<programme start="20260404145000 +0000" stop="20260404173000 +0000" channel="Sky Sport Austria 3 HD.skyde">
     <title>Live Admiral BL: Grazer AK 1902 - FC Blau-Weiß Linz, 25. Runde</title>
 </programme>
 <programme start="20260404161000 +0000" stop="20260404163000 +0000" channel="Sky Sport Austria 4 HD.skyde">
@@ -2631,7 +2631,7 @@ Warning: Undefined array key "et" in /usr/home/ManusiaBiasa/domains/manusiabiasa
 <programme start="20260404180000 +0000" stop="20260404210000 +0000" channel="Sky Sport Bundesliga 2 HD.skyde">
     <title>Live 2. BL: Dynamo Dresden - Hertha BSC, tipico Topspiel der Woche, 28. Spieltag</title>
 </programme>
-<programme start="20260404210000 +0000" stop="20260404223000 +0000" channel="Sky Sport Bundesliga 2 HD.skyde">
+<programme start="20260404210000 +0000" stop="20260404220000 +0000" channel="Sky Sport Bundesliga 2 HD.skyde">
     <title>2. BL Alle Spiele, alle Tore: Die Vodafone Highlight-Show, 28. Spieltag, Samstag komplett</title>
 </programme>
 <programme start="20260404101000 +0000" stop="20260404103000 +0000" channel="Sky Sport Bundesliga 3 HD.skyde">
@@ -2670,7 +2670,7 @@ Warning: Undefined array key "et" in /usr/home/ManusiaBiasa/domains/manusiabiasa
 <programme start="20260404130000 +0000" stop="20260404131500 +0000" channel="Sky Sport Bundesliga 5 HD.skyde">
     <title>Live BL: HSV - FCA: tipico Countdown, 28. Spieltag</title>
 </programme>
-<programme start="20260404131500 +0000" stop="20260404161500 +0000" channel="Sky Sport Bundesliga 5 HD.skyde">
+<programme start="20260404131500 +0000" stop="20260404154500 +0000" channel="Sky Sport Bundesliga 5 HD.skyde">
     <title>Live BL: Hamburger SV - FC Augsburg, 28. Spieltag</title>
 </programme>
 <programme start="20260404101000 +0000" stop="20260404103000 +0000" channel="Sky Sport Bundesliga 6 HD.skyde">
@@ -3031,16 +3031,16 @@ Warning: Undefined array key "et" in /usr/home/ManusiaBiasa/domains/manusiabiasa
     <title>EFL: FC Middlesbrough - FC Millwall, 40. Spieltag</title>
 </programme>
 <programme start="20260404030000 +0000" stop="20260404050000 +0000" channel="Sky Sport Tennis HD.skyde">
-    <title>ATP 250: D.Dzumhur (BIH) - B. van de Zandschulp (NED), Tiriac Open presented by UniCredit Bank, 5. Tag</title>
+    <title>ATP 250: Topspiel, 5. Tag</title>
 </programme>
 <programme start="20260404050000 +0000" stop="20260404060000 +0000" channel="Sky Sport Tennis HD.skyde">
     <title>ATP 1000: Review Miami</title>
 </programme>
 <programme start="20260404060000 +0000" stop="20260404080000 +0000" channel="Sky Sport Tennis HD.skyde">
-    <title>WTA 500: B. Bencic (SUI) - M. Keys (USA), Credit One Charleston Open in Charleston (USA), 5. Tag</title>
+    <title>WTA 500: Topspiel, Credit One Charleston Open in Charleston (USA), 5. Tag</title>
 </programme>
 <programme start="20260404080000 +0000" stop="20260404100000 +0000" channel="Sky Sport Tennis HD.skyde">
-    <title>ATP 250: D.Dzumhur (BIH) - B. van de Zandschulp (NED), Tiriac Open presented by UniCredit Bank, 5. Tag</title>
+    <title>ATP 250: Topspiel, 5. Tag</title>
 </programme>
 <programme start="20260404100000 +0000" stop="20260404160000 +0000" channel="Sky Sport Tennis HD.skyde">
     <title>Live ATP 250: Halbfinal-Konferenz aus Bukarest &amp; Marrakesch</title>
@@ -3049,7 +3049,7 @@ Warning: Undefined array key "et" in /usr/home/ManusiaBiasa/domains/manusiabiasa
     <title>ATP 1000: Review Miami</title>
 </programme>
 <programme start="20260404170000 +0000" stop="20260404190000 +0000" channel="Sky Sport Tennis HD.skyde">
-    <title>Live WTA 500: J. Pegula (USA) - I. Jovic (USA), Credit One Charleston Open in Charleston (USA), Halbfinale 1</title>
+    <title>Live WTA 500: HF1, Credit One Charleston Open in Charleston (USA), Halbfinale 1</title>
 </programme>
 <programme start="20260404190000 +0000" stop="20260404210000 +0000" channel="Sky Sport Tennis HD.skyde">
     <title>Live WTA 500: HF2, Credit One Charleston Open in Charleston (USA), Halbfinale 2</title>
