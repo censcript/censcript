@@ -712,10 +712,10 @@
     <programme start="20260405091700 +0000" stop="20260405095500 +0000" channel="Live 2.mewatch">
         <title>No Programme available now. Next Broadcast on 5th April, Sunday 5.55pm. FIBA 3x3 Asia Cup 2026</title>
     </programme>
-    <programme start="20260405095500 +0000" stop="20260405143000 +0000" channel="Live 2.mewatch">
+    <programme start="20260405095500 +0000" stop="20260405141900 +0000" channel="Live 2.mewatch">
         <title>FIBA 3x3 Asia Cup 2026</title>
     </programme>
-    <programme start="20260405143000 +0000" stop="20260405160000 +0000" channel="Live 2.mewatch">
+    <programme start="20260405141900 +0000" stop="20260405160000 +0000" channel="Live 2.mewatch">
         <title>No Programme available now. Next Broadcast on 8th April, Wednesday 9.00am. Bank of Ningbo Badminton Asia Championships 2026</title>
     </programme>
     <programme start="20260405160000 +0000" stop="20260406160000 +0000" channel="Live 2.mewatch">
