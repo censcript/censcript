@@ -109,7 +109,123 @@
 <programme start="20260405163500 +0000" stop="20260404170500 +0000" channel="ABC Australia.mncvision">
     <title>A Brief History Of Cricket...</title>
 </programme>
-Error: Unable to fetch data. HTTP Status Code: 500
+<programme start="20260404170000 +0000" stop="20260404173000 +0000" channel="Al Jazeera English.mncvision">
+    <title>News (L)</title>
+</programme>
+<programme start="20260404173000 +0000" stop="20260404180000 +0000" channel="Al Jazeera English.mncvision">
+    <title>Inside Story</title>
+</programme>
+<programme start="20260404180000 +0000" stop="20260404190000 +0000" channel="Al Jazeera English.mncvision">
+    <title>NewsHour</title>
+</programme>
+<programme start="20260404190000 +0000" stop="20260404193000 +0000" channel="Al Jazeera English.mncvision">
+    <title>News (L)</title>
+</programme>
+<programme start="20260404193000 +0000" stop="20260404200000 +0000" channel="Al Jazeera English.mncvision">
+    <title>The Listening Post</title>
+</programme>
+<programme start="20260404200000 +0000" stop="20260404210000 +0000" channel="Al Jazeera English.mncvision">
+    <title>Witness: New Greatness Case</title>
+</programme>
+<programme start="20260404210000 +0000" stop="20260404220000 +0000" channel="Al Jazeera English.mncvision">
+    <title>NewsHour</title>
+</programme>
+<programme start="20260404220000 +0000" stop="20260404223000 +0000" channel="Al Jazeera English.mncvision">
+    <title>News (L)</title>
+</programme>
+<programme start="20260404223000 +0000" stop="20260404230000 +0000" channel="Al Jazeera English.mncvision">
+    <title>The Bottom Line</title>
+</programme>
+<programme start="20260404230000 +0000" stop="20260404233000 +0000" channel="Al Jazeera English.mncvision">
+    <title>News (L)</title>
+</programme>
+<programme start="20260404233000 +0000" stop="20260405000000 +0000" channel="Al Jazeera English.mncvision">
+    <title>Inside Story</title>
+</programme>
+<programme start="20260405000000 +0000" stop="20260405010000 +0000" channel="Al Jazeera English.mncvision">
+    <title>NewsHour</title>
+</programme>
+<programme start="20260405010000 +0000" stop="20260405020000 +0000" channel="Al Jazeera English.mncvision">
+    <title>Al Jazeera World: Last Doctor</title>
+</programme>
+<programme start="20260405020000 +0000" stop="20260405023000 +0000" channel="Al Jazeera English.mncvision">
+    <title>News (L)</title>
+</programme>
+<programme start="20260405023000 +0000" stop="20260405030000 +0000" channel="Al Jazeera English.mncvision">
+    <title>The Stream</title>
+</programme>
+<programme start="20260405030000 +0000" stop="20260405033000 +0000" channel="Al Jazeera English.mncvision">
+    <title>News (L)</title>
+</programme>
+<programme start="20260405033000 +0000" stop="20260405040000 +0000" channel="Al Jazeera English.mncvision">
+    <title>Counting The Cost</title>
+</programme>
+<programme start="20260405040000 +0000" stop="20260405043000 +0000" channel="Al Jazeera English.mncvision">
+    <title>News (L)</title>
+</programme>
+<programme start="20260405043000 +0000" stop="20260405050000 +0000" channel="Al Jazeera English.mncvision">
+    <title>The Listening Post</title>
+</programme>
+<programme start="20260405050000 +0000" stop="20260405053000 +0000" channel="Al Jazeera English.mncvision">
+    <title>News (L)</title>
+</programme>
+<programme start="20260405053000 +0000" stop="20260405060000 +0000" channel="Al Jazeera English.mncvision">
+    <title>Inside Story</title>
+</programme>
+<programme start="20260405060000 +0000" stop="20260405063000 +0000" channel="Al Jazeera English.mncvision">
+    <title>News (L)</title>
+</programme>
+<programme start="20260405063000 +0000" stop="20260405070000 +0000" channel="Al Jazeera English.mncvision">
+    <title>Making Peace: The Possibilist</title>
+</programme>
+<programme start="20260405070000 +0000" stop="20260405073000 +0000" channel="Al Jazeera English.mncvision">
+    <title>News (L)</title>
+</programme>
+<programme start="20260405073000 +0000" stop="20260405080000 +0000" channel="Al Jazeera English.mncvision">
+    <title>101 East: Fighting TB In...</title>
+</programme>
+<programme start="20260405080000 +0000" stop="20260405083000 +0000" channel="Al Jazeera English.mncvision">
+    <title>News (L)</title>
+</programme>
+<programme start="20260405083000 +0000" stop="20260405090000 +0000" channel="Al Jazeera English.mncvision">
+    <title>UpFront</title>
+</programme>
+<programme start="20260405090000 +0000" stop="20260405093000 +0000" channel="Al Jazeera English.mncvision">
+    <title>News (L)</title>
+</programme>
+<programme start="20260405093000 +0000" stop="20260405100000 +0000" channel="Al Jazeera English.mncvision">
+    <title>The Bottom Line</title>
+</programme>
+<programme start="20260405100000 +0000" stop="20260405110000 +0000" channel="Al Jazeera English.mncvision">
+    <title>NewsHour</title>
+</programme>
+<programme start="20260405110000 +0000" stop="20260405113000 +0000" channel="Al Jazeera English.mncvision">
+    <title>News (L)</title>
+</programme>
+<programme start="20260405113000 +0000" stop="20260405120000 +0000" channel="Al Jazeera English.mncvision">
+    <title>Inside Story</title>
+</programme>
+<programme start="20260405120000 +0000" stop="20260405130000 +0000" channel="Al Jazeera English.mncvision">
+    <title>Witness: New Greatness Case</title>
+</programme>
+<programme start="20260405130000 +0000" stop="20260405140000 +0000" channel="Al Jazeera English.mncvision">
+    <title>NewsHour</title>
+</programme>
+<programme start="20260405140000 +0000" stop="20260405143000 +0000" channel="Al Jazeera English.mncvision">
+    <title>News (L)</title>
+</programme>
+<programme start="20260405143000 +0000" stop="20260405150000 +0000" channel="Al Jazeera English.mncvision">
+    <title>The Listening Post</title>
+</programme>
+<programme start="20260405150000 +0000" stop="20260405160000 +0000" channel="Al Jazeera English.mncvision">
+    <title>NewsHour</title>
+</programme>
+<programme start="20260405160000 +0000" stop="20260405163000 +0000" channel="Al Jazeera English.mncvision">
+    <title>News (L)</title>
+</programme>
+<programme start="20260405163000 +0000" stop="20260404170000 +0000" channel="Al Jazeera English.mncvision">
+    <title>People &amp; Power</title>
+</programme>
 <programme start="20260404170000 +0000" stop="20260404190000 +0000" channel="Al Quran Al Kareem.mncvision">
     <title>Live From Mekkah</title>
 </programme>
@@ -290,7 +406,42 @@ Error: Unable to fetch data. HTTP Status Code: 500
 <programme start="20260405163000 +0000" stop="20260404170000 +0000" channel="Animax.mncvision">
     <title>One Piece: Marineford, Ep 486</title>
 </programme>
-Error: Unable to fetch data. HTTP Status Code: 500
+<programme start="20260404180000 +0000" stop="20260404203000 +0000" channel="ANTV.mncvision">
+    <title>Serie A Liga Italia</title>
+</programme>
+<programme start="20260404203000 +0000" stop="20260404230000 +0000" channel="ANTV.mncvision">
+    <title>Swades</title>
+</programme>
+<programme start="20260404230000 +0000" stop="20260405003000 +0000" channel="ANTV.mncvision">
+    <title>Kasautii</title>
+</programme>
+<programme start="20260405003000 +0000" stop="20260405023000 +0000" channel="ANTV.mncvision">
+    <title>Janji Cinta Inspektur Virat</title>
+</programme>
+<programme start="20260405023000 +0000" stop="20260405060000 +0000" channel="ANTV.mncvision">
+    <title>Ra One</title>
+</programme>
+<programme start="20260405060000 +0000" stop="20260405080000 +0000" channel="ANTV.mncvision">
+    <title>Jhanak</title>
+</programme>
+<programme start="20260405080000 +0000" stop="20260405090000 +0000" channel="ANTV.mncvision">
+    <title>Teri Meri Doriyaann</title>
+</programme>
+<programme start="20260405090000 +0000" stop="20260405110000 +0000" channel="ANTV.mncvision">
+    <title>Vasudha</title>
+</programme>
+<programme start="20260405110000 +0000" stop="20260405130000 +0000" channel="ANTV.mncvision">
+    <title>Serbuan Halilintar</title>
+</programme>
+<programme start="20260405130000 +0000" stop="20260405143000 +0000" channel="ANTV.mncvision">
+    <title>Perjanjian Malam Keramat</title>
+</programme>
+<programme start="20260405143000 +0000" stop="20260405163000 +0000" channel="ANTV.mncvision">
+    <title>Rumah Kentang: The Beginning</title>
+</programme>
+<programme start="20260405163000 +0000" stop="20260404170000 +0000" channel="ANTV.mncvision">
+    <title>The Minion</title>
+</programme>
 <programme start="20260404170000 +0000" stop="20260404173000 +0000" channel="Arirang.mncvision">
     <title>Premium Collection</title>
 </programme>
@@ -870,8 +1021,102 @@ Error: Unable to fetch data. HTTP Status Code: 500
 <programme start="20260405160000 +0000" stop="20260405163000 +0000" channel="BBC World News.mncvision">
     <title>BBC News</title>
 </programme>
-Error: Unable to fetch data. HTTP Status Code: 500
-Error: Unable to fetch data. HTTP Status Code: 500
+<programme start="20260404184000 +0000" stop="20260404185500 +0000" channel="beIN Sports 1.mncvision">
+    <title>LaLiga Match HL: ATM Vs LPM</title>
+</programme>
+<programme start="20260404185500 +0000" stop="20260404210000 +0000" channel="beIN Sports 1.mncvision">
+    <title>LaLiga 2025/26: ATM Vs BAR (L)</title>
+</programme>
+<programme start="20260404210000 +0000" stop="20260404225000 +0000" channel="beIN Sports 1.mncvision">
+    <title>LaLiga 2025/26: RSO Vs LEV</title>
+</programme>
+<programme start="20260404225000 +0000" stop="20260405004000 +0000" channel="beIN Sports 1.mncvision">
+    <title>LaLiga 2025/26: BET Vs ESP</title>
+</programme>
+<programme start="20260405004000 +0000" stop="20260405023000 +0000" channel="beIN Sports 1.mncvision">
+    <title>LaLiga 2 2025/26: CAD Vs COR</title>
+</programme>
+<programme start="20260405023000 +0000" stop="20260405042000 +0000" channel="beIN Sports 1.mncvision">
+    <title>LaLiga 2 2025/26: DEP Vs MAL</title>
+</programme>
+<programme start="20260405042000 +0000" stop="20260405044000 +0000" channel="beIN Sports 1.mncvision">
+    <title>LaLiga Goals Galore 2024/25</title>
+</programme>
+<programme start="20260405044000 +0000" stop="20260405051000 +0000" channel="beIN Sports 1.mncvision">
+    <title>FIA World Rally Magazine Show</title>
+</programme>
+<programme start="20260405051000 +0000" stop="20260405070000 +0000" channel="beIN Sports 1.mncvision">
+    <title>LaLiga 2025/26: MLL Vs RMA</title>
+</programme>
+<programme start="20260405070000 +0000" stop="20260405084500 +0000" channel="beIN Sports 1.mncvision">
+    <title>LFCTV 2025/26: MCI Vs LIV</title>
+</programme>
+<programme start="20260405084500 +0000" stop="20260405094500 +0000" channel="beIN Sports 1.mncvision">
+    <title>LFC Trending 2025/26, Ep 35</title>
+</programme>
+<programme start="20260405094500 +0000" stop="20260405100000 +0000" channel="beIN Sports 1.mncvision">
+    <title>LaLiga Goals Galore 2024/25</title>
+</programme>
+<programme start="20260405100000 +0000" stop="20260405115500 +0000" channel="beIN Sports 1.mncvision">
+    <title>LaLiga 2025/26: ATM Vs BAR</title>
+</programme>
+<programme start="20260405115500 +0000" stop="20260405141000 +0000" channel="beIN Sports 1.mncvision">
+    <title>LaLiga 2025/26: GET Vs ATH (L)</title>
+</programme>
+<programme start="20260405141000 +0000" stop="20260405162500 +0000" channel="beIN Sports 1.mncvision">
+    <title>LaLiga 2025/26: VAL Vs CEL (L)</title>
+</programme>
+<programme start="20260405162500 +0000" stop="20260405165500 +0000" channel="beIN Sports 1.mncvision">
+    <title>LaLiga 2025/26: OVI Vs SEV (L)</title>
+</programme>
+<programme start="20260404184000 +0000" stop="20260404185500 +0000" channel="beIN Sports 1 HD.mncvision">
+    <title>LaLiga Match HL: ATM Vs LPM</title>
+</programme>
+<programme start="20260404185500 +0000" stop="20260404210000 +0000" channel="beIN Sports 1 HD.mncvision">
+    <title>LaLiga 2025/26: ATM Vs BAR (L)</title>
+</programme>
+<programme start="20260404210000 +0000" stop="20260404225000 +0000" channel="beIN Sports 1 HD.mncvision">
+    <title>LaLiga 2025/26: RSO Vs LEV</title>
+</programme>
+<programme start="20260404225000 +0000" stop="20260405004000 +0000" channel="beIN Sports 1 HD.mncvision">
+    <title>LaLiga 2025/26: BET Vs ESP</title>
+</programme>
+<programme start="20260405004000 +0000" stop="20260405023000 +0000" channel="beIN Sports 1 HD.mncvision">
+    <title>LaLiga 2 2025/26: CAD Vs COR</title>
+</programme>
+<programme start="20260405023000 +0000" stop="20260405042000 +0000" channel="beIN Sports 1 HD.mncvision">
+    <title>LaLiga 2 2025/26: DEP Vs MAL</title>
+</programme>
+<programme start="20260405042000 +0000" stop="20260405044000 +0000" channel="beIN Sports 1 HD.mncvision">
+    <title>LaLiga Goals Galore 2024/25</title>
+</programme>
+<programme start="20260405044000 +0000" stop="20260405051000 +0000" channel="beIN Sports 1 HD.mncvision">
+    <title>FIA World Rally Magazine Show</title>
+</programme>
+<programme start="20260405051000 +0000" stop="20260405070000 +0000" channel="beIN Sports 1 HD.mncvision">
+    <title>LaLiga 2025/26: MLL Vs RMA</title>
+</programme>
+<programme start="20260405070000 +0000" stop="20260405084500 +0000" channel="beIN Sports 1 HD.mncvision">
+    <title>LFCTV 2025/26: MCI Vs LIV</title>
+</programme>
+<programme start="20260405084500 +0000" stop="20260405094500 +0000" channel="beIN Sports 1 HD.mncvision">
+    <title>LFC Trending 2025/26, Ep 35</title>
+</programme>
+<programme start="20260405094500 +0000" stop="20260405100000 +0000" channel="beIN Sports 1 HD.mncvision">
+    <title>LaLiga Goals Galore 2024/25</title>
+</programme>
+<programme start="20260405100000 +0000" stop="20260405115500 +0000" channel="beIN Sports 1 HD.mncvision">
+    <title>LaLiga 2025/26: ATM Vs BAR</title>
+</programme>
+<programme start="20260405115500 +0000" stop="20260405141000 +0000" channel="beIN Sports 1 HD.mncvision">
+    <title>LaLiga 2025/26: GET Vs ATH (L)</title>
+</programme>
+<programme start="20260405141000 +0000" stop="20260405162500 +0000" channel="beIN Sports 1 HD.mncvision">
+    <title>LaLiga 2025/26: VAL Vs CEL (L)</title>
+</programme>
+<programme start="20260405162500 +0000" stop="20260405165500 +0000" channel="beIN Sports 1 HD.mncvision">
+    <title>LaLiga 2025/26: OVI Vs SEV (L)</title>
+</programme>
 <programme start="20260404190000 +0000" stop="20260404192500 +0000" channel="beIN Sports 2.mncvision">
     <title>HSBC SVNS Series 2026</title>
 </programme>
@@ -7160,8 +7405,174 @@ Error: Unable to fetch data. HTTP Status Code: 500
 <programme start="20260405163000 +0000" stop="20260404170000 +0000" channel="Outdoor Channel.mncvision">
     <title>Viral Outdoors S1, Ep 6</title>
 </programme>
-Error: Unable to fetch data. HTTP Status Code: 500
-Error: Unable to fetch data. HTTP Status Code: 500
+<programme start="20260404170000 +0000" stop="20260404173000 +0000" channel="Outdoor channel HD.mncvision">
+    <title>Hollywood Weapons S1, Ep 5</title>
+</programme>
+<programme start="20260404173000 +0000" stop="20260404180000 +0000" channel="Outdoor channel HD.mncvision">
+    <title>Hollywood Weapons S1, Ep 6</title>
+</programme>
+<programme start="20260404180000 +0000" stop="20260404183000 +0000" channel="Outdoor channel HD.mncvision">
+    <title>Hollywood Weapons S1, Ep 7</title>
+</programme>
+<programme start="20260404183000 +0000" stop="20260404190000 +0000" channel="Outdoor channel HD.mncvision">
+    <title>Hollywood Weapons S1, Ep 8</title>
+</programme>
+<programme start="20260404190000 +0000" stop="20260404200000 +0000" channel="Outdoor channel HD.mncvision">
+    <title>Diamond River Hunters S1, Ep 4</title>
+</programme>
+<programme start="20260404200000 +0000" stop="20260404210000 +0000" channel="Outdoor channel HD.mncvision">
+    <title>Facing Forces Of Nature, Ep 4</title>
+</programme>
+<programme start="20260404210000 +0000" stop="20260404213000 +0000" channel="Outdoor channel HD.mncvision">
+    <title>Bear Grylls: The Wild S1, Ep 4</title>
+</programme>
+<programme start="20260404213000 +0000" stop="20260404220000 +0000" channel="Outdoor channel HD.mncvision">
+    <title>Wildlife Heroes S1, Ep 4</title>
+</programme>
+<programme start="20260404220000 +0000" stop="20260404223000 +0000" channel="Outdoor channel HD.mncvision">
+    <title>My Second Restaurant..., Ep 1</title>
+</programme>
+<programme start="20260404223000 +0000" stop="20260404230000 +0000" channel="Outdoor channel HD.mncvision">
+    <title>My Second Restaurant..., Ep 2</title>
+</programme>
+<programme start="20260404230000 +0000" stop="20260405000000 +0000" channel="Outdoor channel HD.mncvision">
+    <title>Down To Earth S2, Ep 1</title>
+</programme>
+<programme start="20260405000000 +0000" stop="20260405010000 +0000" channel="Outdoor channel HD.mncvision">
+    <title>Down To Earth S2, Ep 2</title>
+</programme>
+<programme start="20260405010000 +0000" stop="20260405020000 +0000" channel="Outdoor channel HD.mncvision">
+    <title>Diamond River Hunters S1, Ep 4</title>
+</programme>
+<programme start="20260405020000 +0000" stop="20260405030000 +0000" channel="Outdoor channel HD.mncvision">
+    <title>Facing Forces Of Nature, Ep 4</title>
+</programme>
+<programme start="20260405030000 +0000" stop="20260405033000 +0000" channel="Outdoor channel HD.mncvision">
+    <title>Hollywood Weapons S1, Ep 1</title>
+</programme>
+<programme start="20260405033000 +0000" stop="20260405040000 +0000" channel="Outdoor channel HD.mncvision">
+    <title>Hollywood Weapons S1, Ep 2</title>
+</programme>
+<programme start="20260405040000 +0000" stop="20260405043000 +0000" channel="Outdoor channel HD.mncvision">
+    <title>Hollywood Weapons S1, Ep 3</title>
+</programme>
+<programme start="20260405043000 +0000" stop="20260405050000 +0000" channel="Outdoor channel HD.mncvision">
+    <title>Hollywood Weapons S1, Ep 4</title>
+</programme>
+<programme start="20260405050000 +0000" stop="20260405053000 +0000" channel="Outdoor channel HD.mncvision">
+    <title>Hollywood Weapons S1, Ep 5</title>
+</programme>
+<programme start="20260405053000 +0000" stop="20260405060000 +0000" channel="Outdoor channel HD.mncvision">
+    <title>Hollywood Weapons S1, Ep 6</title>
+</programme>
+<programme start="20260405060000 +0000" stop="20260405063000 +0000" channel="Outdoor channel HD.mncvision">
+    <title>Hollywood Weapons S1, Ep 7</title>
+</programme>
+<programme start="20260405063000 +0000" stop="20260405070000 +0000" channel="Outdoor channel HD.mncvision">
+    <title>Hollywood Weapons S1, Ep 8</title>
+</programme>
+<programme start="20260405070000 +0000" stop="20260405073000 +0000" channel="Outdoor channel HD.mncvision">
+    <title>Hardcore Carnivore S1, Ep 9</title>
+</programme>
+<programme start="20260405073000 +0000" stop="20260405080000 +0000" channel="Outdoor channel HD.mncvision">
+    <title>Hardcore Carnivore S1, Ep 10</title>
+</programme>
+<programme start="20260405080000 +0000" stop="20260405090000 +0000" channel="Outdoor channel HD.mncvision">
+    <title>Mega Makeover S1, Ep 1</title>
+</programme>
+<programme start="20260405090000 +0000" stop="20260405100000 +0000" channel="Outdoor channel HD.mncvision">
+    <title>Showdown Of Unbeatables, Ep 3</title>
+</programme>
+<programme start="20260405100000 +0000" stop="20260405103000 +0000" channel="Outdoor channel HD.mncvision">
+    <title>Hardcore Carnivore S1, Ep 9</title>
+</programme>
+<programme start="20260405103000 +0000" stop="20260405110000 +0000" channel="Outdoor channel HD.mncvision">
+    <title>Hardcore Carnivore S1, Ep 10</title>
+</programme>
+<programme start="20260405110000 +0000" stop="20260405113000 +0000" channel="Outdoor channel HD.mncvision">
+    <title>Viral Outdoors S1, Ep 5</title>
+</programme>
+<programme start="20260405113000 +0000" stop="20260405120000 +0000" channel="Outdoor channel HD.mncvision">
+    <title>Viral Outdoors S1, Ep 6</title>
+</programme>
+<programme start="20260405120000 +0000" stop="20260405123000 +0000" channel="Outdoor channel HD.mncvision">
+    <title>Hardcore Carnivore S1, Ep 9</title>
+</programme>
+<programme start="20260405123000 +0000" stop="20260405130000 +0000" channel="Outdoor channel HD.mncvision">
+    <title>Hardcore Carnivore S1, Ep 10</title>
+</programme>
+<programme start="20260405130000 +0000" stop="20260405140000 +0000" channel="Outdoor channel HD.mncvision">
+    <title>Mega Makeover S1, Ep 1</title>
+</programme>
+<programme start="20260405140000 +0000" stop="20260405150000 +0000" channel="Outdoor channel HD.mncvision">
+    <title>Showdown Of Unbeatables, Ep 3</title>
+</programme>
+<programme start="20260405150000 +0000" stop="20260405153000 +0000" channel="Outdoor channel HD.mncvision">
+    <title>Hardcore Carnivore S1, Ep 9</title>
+</programme>
+<programme start="20260405153000 +0000" stop="20260405160000 +0000" channel="Outdoor channel HD.mncvision">
+    <title>Hardcore Carnivore S1, Ep 10</title>
+</programme>
+<programme start="20260405160000 +0000" stop="20260405163000 +0000" channel="Outdoor channel HD.mncvision">
+    <title>Viral Outdoors S1, Ep 5</title>
+</programme>
+<programme start="20260405163000 +0000" stop="20260404170000 +0000" channel="Outdoor channel HD.mncvision">
+    <title>Viral Outdoors S1, Ep 6</title>
+</programme>
+<programme start="20260404183000 +0000" stop="20260404193000 +0000" channel="RCTI.mncvision">
+    <title>Kompleks Pengabdi Istri</title>
+</programme>
+<programme start="20260404193000 +0000" stop="20260404200000 +0000" channel="RCTI.mncvision">
+    <title>Preman Pensiun S9</title>
+</programme>
+<programme start="20260404200000 +0000" stop="20260404203000 +0000" channel="RCTI.mncvision">
+    <title>Mujizat Itu Nyata</title>
+</programme>
+<programme start="20260404203000 +0000" stop="20260404230000 +0000" channel="RCTI.mncvision">
+    <title>Preman Pensiun S9</title>
+</programme>
+<programme start="20260404230000 +0000" stop="20260405003000 +0000" channel="RCTI.mncvision">
+    <title>Upin Ipin</title>
+</programme>
+<programme start="20260405003000 +0000" stop="20260405010000 +0000" channel="RCTI.mncvision">
+    <title>Titus The Detective</title>
+</programme>
+<programme start="20260405010000 +0000" stop="20260405013000 +0000" channel="RCTI.mncvision">
+    <title>Kiko S4</title>
+</programme>
+<programme start="20260405013000 +0000" stop="20260405020000 +0000" channel="RCTI.mncvision">
+    <title>Entong</title>
+</programme>
+<programme start="20260405020000 +0000" stop="20260405033000 +0000" channel="RCTI.mncvision">
+    <title>Dahsyat (L)</title>
+</programme>
+<programme start="20260405033000 +0000" stop="20260405043000 +0000" channel="RCTI.mncvision">
+    <title>Pandora</title>
+</programme>
+<programme start="20260405043000 +0000" stop="20260405050000 +0000" channel="RCTI.mncvision">
+    <title>Seputar iNews Siang</title>
+</programme>
+<programme start="20260405050000 +0000" stop="20260405063000 +0000" channel="RCTI.mncvision">
+    <title>Dunia Masih Terbalik</title>
+</programme>
+<programme start="20260405063000 +0000" stop="20260405090000 +0000" channel="RCTI.mncvision">
+    <title>Si Doel Anak Sekolahan S3</title>
+</programme>
+<programme start="20260405090000 +0000" stop="20260405103000 +0000" channel="RCTI.mncvision">
+    <title>My Dear Guardian</title>
+</programme>
+<programme start="20260405103000 +0000" stop="20260405120000 +0000" channel="RCTI.mncvision">
+    <title>Preman Pensiun Deui</title>
+</programme>
+<programme start="20260405120000 +0000" stop="20260405133000 +0000" channel="RCTI.mncvision">
+    <title>99 Nama Cinta</title>
+</programme>
+<programme start="20260405133000 +0000" stop="20260405150000 +0000" channel="RCTI.mncvision">
+    <title>Mencintai Ipar Sendiri</title>
+</programme>
+<programme start="20260405150000 +0000" stop="20260405153000 +0000" channel="RCTI.mncvision">
+    <title>Equilibrium</title>
+</programme>
 <programme start="20260404183000 +0000" stop="20260404193000 +0000" channel="RCTI HD.mncvision">
     <title>Kompleks Pengabdi Istri</title>
 </programme>
@@ -7384,7 +7795,66 @@ Error: Unable to fetch data. HTTP Status Code: 500
 <programme start="20260405162000 +0000" stop="20260405165000 +0000" channel="Rock Entertainment.mncvision">
     <title>Cobra Kai S4, Ep 7</title>
 </programme>
-Error: Unable to fetch data. HTTP Status Code: 500
+<programme start="20260404174500 +0000" stop="20260404190000 +0000" channel="SCTV.mncvision">
+    <title>Ada Cinta Di Atas Bakwan</title>
+</programme>
+<programme start="20260404190000 +0000" stop="20260404200000 +0000" channel="SCTV.mncvision">
+    <title>Sinema Malam</title>
+</programme>
+<programme start="20260404200000 +0000" stop="20260404210000 +0000" channel="SCTV.mncvision">
+    <title>Sinema Dini Hari</title>
+</programme>
+<programme start="20260404210000 +0000" stop="20260404213000 +0000" channel="SCTV.mncvision">
+    <title>Barakallah</title>
+</programme>
+<programme start="20260404213000 +0000" stop="20260404220000 +0000" channel="SCTV.mncvision">
+    <title>Buser</title>
+</programme>
+<programme start="20260404220000 +0000" stop="20260404230000 +0000" channel="SCTV.mncvision">
+    <title>Liputan 6 Pagi (L)</title>
+</programme>
+<programme start="20260404230000 +0000" stop="20260404233000 +0000" channel="SCTV.mncvision">
+    <title>Point Of View</title>
+</programme>
+<programme start="20260404233000 +0000" stop="20260405000000 +0000" channel="SCTV.mncvision">
+    <title>Halo Selebriti</title>
+</programme>
+<programme start="20260405000000 +0000" stop="20260405010000 +0000" channel="SCTV.mncvision">
+    <title>Tiba-Tiba Kuis</title>
+</programme>
+<programme start="20260405010000 +0000" stop="20260405030000 +0000" channel="SCTV.mncvision">
+    <title>Kang Latto-Latto Bikin Auto...</title>
+</programme>
+<programme start="20260405030000 +0000" stop="20260405050000 +0000" channel="SCTV.mncvision">
+    <title>FTV Pagi</title>
+</programme>
+<programme start="20260405050000 +0000" stop="20260405053000 +0000" channel="SCTV.mncvision">
+    <title>Liputan 6 Siang (L)</title>
+</programme>
+<programme start="20260405053000 +0000" stop="20260405070000 +0000" channel="SCTV.mncvision">
+    <title>Cinta Cenat-Cenut Di Angkringan</title>
+</programme>
+<programme start="20260405070000 +0000" stop="20260405083000 +0000" channel="SCTV.mncvision">
+    <title>Cintaku Di Share Location Ke...</title>
+</programme>
+<programme start="20260405083000 +0000" stop="20260405100000 +0000" channel="SCTV.mncvision">
+    <title>Berdomba-Domba Mengejar Cinta</title>
+</programme>
+<programme start="20260405100000 +0000" stop="20260405111500 +0000" channel="SCTV.mncvision">
+    <title>Asmara Gen Z</title>
+</programme>
+<programme start="20260405111500 +0000" stop="20260405130000 +0000" channel="SCTV.mncvision">
+    <title>Istiqomah Cinta</title>
+</programme>
+<programme start="20260405130000 +0000" stop="20260405143000 +0000" channel="SCTV.mncvision">
+    <title>Beri Cinta Waktu</title>
+</programme>
+<programme start="20260405143000 +0000" stop="20260405160000 +0000" channel="SCTV.mncvision">
+    <title>Jejak Duka Diandra</title>
+</programme>
+<programme start="20260405160000 +0000" stop="20260405163000 +0000" channel="SCTV.mncvision">
+    <title>Supir Cantik Anak Geng Motor</title>
+</programme>
 <programme start="20260404174500 +0000" stop="20260404190000 +0000" channel="SCTV HD.mncvision">
     <title>Ada Cinta Di Atas Bakwan</title>
 </programme>
