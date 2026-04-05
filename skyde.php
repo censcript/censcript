@@ -2615,9 +2615,6 @@ Warning: Undefined array key "et" in /usr/home/ManusiaBiasa/domains/manusiabiasa
 <programme start="20260405103000 +0000" stop="20260405140000 +0000" channel="Sky Sport Bundesliga 2 HD.skyde">
     <title>Live 2. BL: FC Schalke 04 - Karlsruher SC, 28. Spieltag</title>
 </programme>
-<programme start="20260405140000 +0000" stop="20260405153000 +0000" channel="Sky Sport Bundesliga 2 HD.skyde">
-    <title>Es folgt: Bundesliga</title>
-</programme>
 <programme start="20260405153000 +0000" stop="20260405173000 +0000" channel="Sky Sport Bundesliga 2 HD.skyde">
     <title>BL: 1. FC Union Berlin - FC St. Pauli, 28. Spieltag</title>
 </programme>
@@ -3110,19 +3107,19 @@ Warning: Undefined array key "et" in /usr/home/ManusiaBiasa/domains/manusiabiasa
 <programme start="20260404220000 +0000" stop="20260404230000 +0000" channel="Sky Sport 1 HD.skyde">
     <title>Es folgt: LIVE NBA</title>
 </programme>
-<programme start="20260404230000 +0000" stop="20260405030000 +0000" channel="Sky Sport 1 HD.skyde">
+<programme start="20260404230000 +0000" stop="20260405014000 +0000" channel="Sky Sport 1 HD.skyde">
     <title>Live NBA: Detroit Pistons @ Philadelphia 76ers</title>
 </programme>
 <programme start="20260405191000 +0000" stop="20260405193000 +0000" channel="Sky Sport 1 HD.skyde">
     <title>Es folgt: LIVE ATP World Tour</title>
 </programme>
 <programme start="20260405193000 +0000" stop="20260406000000 +0000" channel="Sky Sport 1 HD.skyde">
-    <title>Live ATP 250: tba - R. Burruchaga (ARG), Fayez Sarofim &amp; Co U.S. Men&#039;s Clay Court Championship in Houston (USA), Finale</title>
+    <title>Live ATP 250: T. Paul (USA) - R. Burruchaga (ARG), Fayez Sarofim &amp; Co U.S. Men&#039;s Clay Court Championship in Houston (USA), Finale</title>
 </programme>
 <programme start="20260405135500 +0000" stop="20260405140000 +0000" channel="Sky Sport 3 HD.skyde">
     <title>Es folgt: LIVE ATP World Tour</title>
 </programme>
-<programme start="20260405140000 +0000" stop="20260405183000 +0000" channel="Sky Sport 3 HD.skyde">
+<programme start="20260405140000 +0000" stop="20260405160000 +0000" channel="Sky Sport 3 HD.skyde">
     <title>Live ATP 250: M. Trungeliti (ARG) - R. Jodar (ESP), Grand Prix Hassan II in Marrakesch (MAR), Finale</title>
 </programme>
 <programme start="20260405164000 +0000" stop="20260405170000 +0000" channel="Sky Sport 4 HD.skyde">
@@ -3134,8 +3131,14 @@ Warning: Undefined array key "et" in /usr/home/ManusiaBiasa/domains/manusiabiasa
 <programme start="20260405104000 +0000" stop="20260405110000 +0000" channel="Sky Sport 8 HD.skyde">
     <title>Es folgt: LIVE ATP World Tour</title>
 </programme>
-<programme start="20260405110000 +0000" stop="20260405153000 +0000" channel="Sky Sport 8 HD.skyde">
+<programme start="20260405110000 +0000" stop="20260405141500 +0000" channel="Sky Sport 8 HD.skyde">
     <title>Live ATP 250: D. Merida (ESP) - M. Navone (ARG), Tiriac Open in Bukarest (ROM), Finale</title>
+</programme>
+<programme start="20260405141500 +0000" stop="20260405170000 +0000" channel="Sky Sport 8 HD.skyde">
+    <title>Es folgt: ab 19:00: Live Tennis WTA Tour</title>
+</programme>
+<programme start="20260405170000 +0000" stop="20260405213000 +0000" channel="Sky Sport 8 HD.skyde">
+    <title>Live WTA 500: J. Pegula (USA), -  Y. Starodubtseva (UKR), Credit One Charleston Open in Charleston (USA), Finale</title>
 </programme>
 <programme start="20260404223000 +0000" stop="20260404231500 +0000" channel="SYFY HD.skyde">
     <title>Stargate SG-1</title>

@@ -2383,45 +2383,6 @@
   <programme start="20260407214000 +0000" stop="20260407222000 +0000" channel="RiK TV.webtv.sk">
     <title lang="id">Flopyho veselé príbehy</title>
   </programme>
-  <programme start="20260406220000 +0000" stop="20260407030000 +0000" channel="LALA TV.webtv.sk">
-    <title lang="id">Spíva celá rodina</title>
-  </programme>
-  <programme start="20260407030000 +0000" stop="20260407050000 +0000" channel="LALA TV.webtv.sk">
-    <title lang="id">Ranní ptáčata</title>
-  </programme>
-  <programme start="20260407050000 +0000" stop="20260407060000 +0000" channel="LALA TV.webtv.sk">
-    <title lang="id">Já jsem budík budíček</title>
-  </programme>
-  <programme start="20260407060000 +0000" stop="20260407070000 +0000" channel="LALA TV.webtv.sk">
-    <title lang="id">Spíva celá rodina</title>
-  </programme>
-  <programme start="20260407070000 +0000" stop="20260407100000 +0000" channel="LALA TV.webtv.sk">
-    <title lang="id">Pějme písně dokola</title>
-  </programme>
-  <programme start="20260407100000 +0000" stop="20260407110000 +0000" channel="LALA TV.webtv.sk">
-    <title lang="id">Hvězdy a hvězdičky</title>
-  </programme>
-  <programme start="20260407110000 +0000" stop="20260407140000 +0000" channel="LALA TV.webtv.sk">
-    <title lang="id">Pějme písně dokola</title>
-  </programme>
-  <programme start="20260407140000 +0000" stop="20260407150000 +0000" channel="LALA TV.webtv.sk">
-    <title lang="id">Hvězdy a hvězdičky</title>
-  </programme>
-  <programme start="20260407150000 +0000" stop="20260407160000 +0000" channel="LALA TV.webtv.sk">
-    <title lang="id">Spíva celá rodina</title>
-  </programme>
-  <programme start="20260407160000 +0000" stop="20260407170000 +0000" channel="LALA TV.webtv.sk">
-    <title lang="id">Pějme písně dokola</title>
-  </programme>
-  <programme start="20260407170000 +0000" stop="20260407180000 +0000" channel="LALA TV.webtv.sk">
-    <title lang="id">Hvězdy a hvězdičky</title>
-  </programme>
-  <programme start="20260407180000 +0000" stop="20260407200000 +0000" channel="LALA TV.webtv.sk">
-    <title lang="id">Pějme písně dokola</title>
-  </programme>
-  <programme start="20260407200000 +0000" stop="20260407220000 +0000" channel="LALA TV.webtv.sk">
-    <title lang="id">Malí nezbedníci</title>
-  </programme>
   <programme start="20260406220000 +0000" stop="20260407040000 +0000" channel="Turbo TV.webtv.sk">
     <title lang="id">Zajko Turbo spinká. Prajeme Vám dobrú noc.</title>
   </programme>
@@ -6693,108 +6654,6 @@
   </programme>
   <programme start="20260407211500 +0000" stop="20260407220000 +0000" channel="History 2.webtv.sk">
     <title lang="id">The Universe</title>
-  </programme>
-  <programme start="20260406213000 +0000" stop="20260406221500 +0000" channel="Crime & Investigation.webtv.sk">
-    <title lang="id">Výslech v syrové podobě</title>
-  </programme>
-  <programme start="20260406221500 +0000" stop="20260406230000 +0000" channel="Crime & Investigation.webtv.sk">
-    <title lang="id">Lovec vražd</title>
-  </programme>
-  <programme start="20260406230000 +0000" stop="20260406234500 +0000" channel="Crime & Investigation.webtv.sk">
-    <title lang="id">Prvních 48 hodin</title>
-  </programme>
-  <programme start="20260406234500 +0000" stop="20260407003000 +0000" channel="Crime & Investigation.webtv.sk">
-    <title lang="id">Výslech v syrové podobě</title>
-  </programme>
-  <programme start="20260407003000 +0000" stop="20260407005500 +0000" channel="Crime & Investigation.webtv.sk">
-    <title lang="id">Moje podivné zatčení</title>
-  </programme>
-  <programme start="20260407005500 +0000" stop="20260407012500 +0000" channel="Crime & Investigation.webtv.sk">
-    <title lang="id">Moje podivné zatčení</title>
-  </programme>
-  <programme start="20260407012500 +0000" stop="20260407021000 +0000" channel="Crime & Investigation.webtv.sk">
-    <title lang="id">Žárliví vrazi</title>
-  </programme>
-  <programme start="20260407021000 +0000" stop="20260407030500 +0000" channel="Crime & Investigation.webtv.sk">
-    <title lang="id">Hodina na vraždu</title>
-  </programme>
-  <programme start="20260407030500 +0000" stop="20260407040000 +0000" channel="Crime & Investigation.webtv.sk">
-    <title lang="id">Vraždy lékařů</title>
-  </programme>
-  <programme start="20260407040000 +0000" stop="20260407045000 +0000" channel="Crime & Investigation.webtv.sk">
-    <title lang="id">Žárliví vrazi</title>
-  </programme>
-  <programme start="20260407045000 +0000" stop="20260407054000 +0000" channel="Crime & Investigation.webtv.sk">
-    <title lang="id">Žárliví vrazi</title>
-  </programme>
-  <programme start="20260407054000 +0000" stop="20260407063000 +0000" channel="Crime & Investigation.webtv.sk">
-    <title lang="id">Nedokonalá vražda</title>
-  </programme>
-  <programme start="20260407063000 +0000" stop="20260407071500 +0000" channel="Crime & Investigation.webtv.sk">
-    <title lang="id">Hodina na vraždu</title>
-  </programme>
-  <programme start="20260407071500 +0000" stop="20260407080000 +0000" channel="Crime & Investigation.webtv.sk">
-    <title lang="id">Vražda: Poslední hodiny</title>
-  </programme>
-  <programme start="20260407080000 +0000" stop="20260407082500 +0000" channel="Crime & Investigation.webtv.sk">
-    <title lang="id">Moje podivné zatčení</title>
-  </programme>
-  <programme start="20260407082500 +0000" stop="20260407084500 +0000" channel="Crime & Investigation.webtv.sk">
-    <title lang="id">Moje podivné zatčení</title>
-  </programme>
-  <programme start="20260407084500 +0000" stop="20260407093000 +0000" channel="Crime & Investigation.webtv.sk">
-    <title lang="id">Výslech v syrové podobě</title>
-  </programme>
-  <programme start="20260407093000 +0000" stop="20260407101500 +0000" channel="Crime & Investigation.webtv.sk">
-    <title lang="id">Britští vrazi s Dermotem Murnaghanem</title>
-  </programme>
-  <programme start="20260407101500 +0000" stop="20260407110000 +0000" channel="Crime & Investigation.webtv.sk">
-    <title lang="id">Policisté, kteří zabili</title>
-  </programme>
-  <programme start="20260407110000 +0000" stop="20260407115000 +0000" channel="Crime & Investigation.webtv.sk">
-    <title lang="id">Vraždy lékařů</title>
-  </programme>
-  <programme start="20260407115000 +0000" stop="20260407123000 +0000" channel="Crime & Investigation.webtv.sk">
-    <title lang="id">Nedokonalá vražda</title>
-  </programme>
-  <programme start="20260407123000 +0000" stop="20260407131500 +0000" channel="Crime & Investigation.webtv.sk">
-    <title lang="id">Nedokonalá vražda</title>
-  </programme>
-  <programme start="20260407131500 +0000" stop="20260407140000 +0000" channel="Crime & Investigation.webtv.sk">
-    <title lang="id">Někdo něco skrývá</title>
-  </programme>
-  <programme start="20260407140000 +0000" stop="20260407144500 +0000" channel="Crime & Investigation.webtv.sk">
-    <title lang="id">Někdo něco skrývá</title>
-  </programme>
-  <programme start="20260407144500 +0000" stop="20260407153000 +0000" channel="Crime & Investigation.webtv.sk">
-    <title lang="id">Někdo něco skrývá</title>
-  </programme>
-  <programme start="20260407153000 +0000" stop="20260407161500 +0000" channel="Crime & Investigation.webtv.sk">
-    <title lang="id">Někdo něco skrývá</title>
-  </programme>
-  <programme start="20260407161500 +0000" stop="20260407170000 +0000" channel="Crime & Investigation.webtv.sk">
-    <title lang="id">Někdo něco skrývá</title>
-  </programme>
-  <programme start="20260407170000 +0000" stop="20260407174500 +0000" channel="Crime & Investigation.webtv.sk">
-    <title lang="id">Výslech v syrové podobě</title>
-  </programme>
-  <programme start="20260407174500 +0000" stop="20260407183000 +0000" channel="Crime & Investigation.webtv.sk">
-    <title lang="id">Lovec vražd</title>
-  </programme>
-  <programme start="20260407183000 +0000" stop="20260407191500 +0000" channel="Crime & Investigation.webtv.sk">
-    <title lang="id">Lovec vražd</title>
-  </programme>
-  <programme start="20260407191500 +0000" stop="20260407200000 +0000" channel="Crime & Investigation.webtv.sk">
-    <title lang="id">Oddělení vražd: New Orleans</title>
-  </programme>
-  <programme start="20260407200000 +0000" stop="20260407204500 +0000" channel="Crime & Investigation.webtv.sk">
-    <title lang="id">Někdo něco skrývá</title>
-  </programme>
-  <programme start="20260407204500 +0000" stop="20260407213000 +0000" channel="Crime & Investigation.webtv.sk">
-    <title lang="id">Manželství s vraždou</title>
-  </programme>
-  <programme start="20260407213000 +0000" stop="20260407221500 +0000" channel="Crime & Investigation.webtv.sk">
-    <title lang="id">Výslech v syrové podobě</title>
   </programme>
   <programme start="20260406214000 +0000" stop="20260406223500 +0000" channel="Love Nature.webtv.sk">
     <title lang="id">Neuvěřitelná přátelství v říši zvířat (5)</title>
@@ -11755,6 +11614,285 @@
   <programme start="20260407215000 +0000" stop="20260407220100 +0000" channel="JimJam.webtv.sk">
     <title lang="id">Moje kamarádka Conni II (11)</title>
   </programme>
+  <programme start="20260406220000 +0000" stop="20260406221000 +0000" channel="Minimax.webtv.sk">
+    <title lang="id">To je Joey I (19)</title>
+  </programme>
+  <programme start="20260406221000 +0000" stop="20260406222000 +0000" channel="Minimax.webtv.sk">
+    <title lang="id">To je Joey I (20)</title>
+  </programme>
+  <programme start="20260406222000 +0000" stop="20260406223000 +0000" channel="Minimax.webtv.sk">
+    <title lang="id">To je Joey I (21)</title>
+  </programme>
+  <programme start="20260406223000 +0000" stop="20260406224500 +0000" channel="Minimax.webtv.sk">
+    <title lang="id">To je Joey I (22)</title>
+  </programme>
+  <programme start="20260406224500 +0000" stop="20260406225500 +0000" channel="Minimax.webtv.sk">
+    <title lang="id">Malí zvířecí detektivové I (25)</title>
+  </programme>
+  <programme start="20260406225500 +0000" stop="20260406230500 +0000" channel="Minimax.webtv.sk">
+    <title lang="id">Malí zvířecí detektivové I (26)</title>
+  </programme>
+  <programme start="20260406230500 +0000" stop="20260406231500 +0000" channel="Minimax.webtv.sk">
+    <title lang="id">Malí zvířecí detektivové I (27)</title>
+  </programme>
+  <programme start="20260406231500 +0000" stop="20260406233000 +0000" channel="Minimax.webtv.sk">
+    <title lang="id">Malí zvířecí detektivové I (28)</title>
+  </programme>
+  <programme start="20260406233000 +0000" stop="20260406234000 +0000" channel="Minimax.webtv.sk">
+    <title lang="id">Příhody bílého delfína I (31)</title>
+  </programme>
+  <programme start="20260406234000 +0000" stop="20260406235500 +0000" channel="Minimax.webtv.sk">
+    <title lang="id">Příhody bílého delfína I (32)</title>
+  </programme>
+  <programme start="20260406235500 +0000" stop="20260407002000 +0000" channel="Minimax.webtv.sk">
+    <title lang="id">Lexi a Lotka - věrná dvojčata detektivky I (14)</title>
+  </programme>
+  <programme start="20260407002000 +0000" stop="20260407004500 +0000" channel="Minimax.webtv.sk">
+    <title lang="id">Geronimo Stilton I (16)</title>
+  </programme>
+  <programme start="20260407004500 +0000" stop="20260407010500 +0000" channel="Minimax.webtv.sk">
+    <title lang="id">Geronimo Stilton I (15)</title>
+  </programme>
+  <programme start="20260407010500 +0000" stop="20260407012500 +0000" channel="Minimax.webtv.sk">
+    <title lang="id">Ulička záhad I (14)</title>
+  </programme>
+  <programme start="20260407012500 +0000" stop="20260407013000 +0000" channel="Minimax.webtv.sk">
+    <title lang="id">Byla jednou jedna… Věc I (6)</title>
+  </programme>
+  <programme start="20260407013000 +0000" stop="20260407014000 +0000" channel="Minimax.webtv.sk">
+    <title lang="id">Byla jednou jedna… Věc I (7)</title>
+  </programme>
+  <programme start="20260407014000 +0000" stop="20260407015000 +0000" channel="Minimax.webtv.sk">
+    <title lang="id">To je Joey I (14)</title>
+  </programme>
+  <programme start="20260407015000 +0000" stop="20260407020000 +0000" channel="Minimax.webtv.sk">
+    <title lang="id">To je Joey I (15)</title>
+  </programme>
+  <programme start="20260407020000 +0000" stop="20260407021000 +0000" channel="Minimax.webtv.sk">
+    <title lang="id">Sestry III (18)</title>
+  </programme>
+  <programme start="20260407021000 +0000" stop="20260407022000 +0000" channel="Minimax.webtv.sk">
+    <title lang="id">Sestry III (19)</title>
+  </programme>
+  <programme start="20260407022000 +0000" stop="20260407023000 +0000" channel="Minimax.webtv.sk">
+    <title lang="id">Příhody bílého delfína III (19)</title>
+  </programme>
+  <programme start="20260407023000 +0000" stop="20260407024500 +0000" channel="Minimax.webtv.sk">
+    <title lang="id">Příhody bílého delfína III (20)</title>
+  </programme>
+  <programme start="20260407024500 +0000" stop="20260407025500 +0000" channel="Minimax.webtv.sk">
+    <title lang="id">Malí zvířecí detektivové I (16)</title>
+  </programme>
+  <programme start="20260407025500 +0000" stop="20260407031000 +0000" channel="Minimax.webtv.sk">
+    <title lang="id">Malí zvířecí detektivové I (17)</title>
+  </programme>
+  <programme start="20260407031000 +0000" stop="20260407032000 +0000" channel="Minimax.webtv.sk">
+    <title lang="id">Idefix a smečka Nepoddajných I (35)</title>
+  </programme>
+  <programme start="20260407032000 +0000" stop="20260407033500 +0000" channel="Minimax.webtv.sk">
+    <title lang="id">Idefix a smečka Nepoddajných I (36)</title>
+  </programme>
+  <programme start="20260407033500 +0000" stop="20260407034000 +0000" channel="Minimax.webtv.sk">
+    <title lang="id">Bing I (1)</title>
+  </programme>
+  <programme start="20260407034000 +0000" stop="20260407034500 +0000" channel="Minimax.webtv.sk">
+    <title lang="id">Bing I (2)</title>
+  </programme>
+  <programme start="20260407034500 +0000" stop="20260407040000 +0000" channel="Minimax.webtv.sk">
+    <title lang="id">Bing I (3)</title>
+  </programme>
+  <programme start="20260407040000 +0000" stop="20260407040500 +0000" channel="Minimax.webtv.sk">
+    <title lang="id">Bing I (7)</title>
+  </programme>
+  <programme start="20260407040500 +0000" stop="20260407041000 +0000" channel="Minimax.webtv.sk">
+    <title lang="id">Bing I (8)</title>
+  </programme>
+  <programme start="20260407041000 +0000" stop="20260407042500 +0000" channel="Minimax.webtv.sk">
+    <title lang="id">Bing I (9)</title>
+  </programme>
+  <programme start="20260407042500 +0000" stop="20260407043000 +0000" channel="Minimax.webtv.sk">
+    <title lang="id">Psík jménem Pat I (52)</title>
+  </programme>
+  <programme start="20260407043000 +0000" stop="20260407043500 +0000" channel="Minimax.webtv.sk">
+    <title lang="id">Psík jménem Pat I (53)</title>
+  </programme>
+  <programme start="20260407043500 +0000" stop="20260407045000 +0000" channel="Minimax.webtv.sk">
+    <title lang="id">Psík jménem Pat I (54)</title>
+  </programme>
+  <programme start="20260407045000 +0000" stop="20260407045500 +0000" channel="Minimax.webtv.sk">
+    <title lang="id">Byla jednou jedna… Věc I (4)</title>
+  </programme>
+  <programme start="20260407045500 +0000" stop="20260407050000 +0000" channel="Minimax.webtv.sk">
+    <title lang="id">Byla jednou jedna… Věc I (5)</title>
+  </programme>
+  <programme start="20260407050000 +0000" stop="20260407051500 +0000" channel="Minimax.webtv.sk">
+    <title lang="id">Byla jednou jedna… Věc I (6)</title>
+  </programme>
+  <programme start="20260407051500 +0000" stop="20260407052000 +0000" channel="Minimax.webtv.sk">
+    <title lang="id">Byla jednou jedna… Věc I (7)</title>
+  </programme>
+  <programme start="20260407052000 +0000" stop="20260407052500 +0000" channel="Minimax.webtv.sk">
+    <title lang="id">Byla jednou jedna… Věc I (8)</title>
+  </programme>
+  <programme start="20260407052500 +0000" stop="20260407054000 +0000" channel="Minimax.webtv.sk">
+    <title lang="id">Byla jednou jedna… Věc I (9)</title>
+  </programme>
+  <programme start="20260407054000 +0000" stop="20260407055000 +0000" channel="Minimax.webtv.sk">
+    <title lang="id">Idefix a smečka Nepoddajných I (7)</title>
+  </programme>
+  <programme start="20260407055000 +0000" stop="20260407060000 +0000" channel="Minimax.webtv.sk">
+    <title lang="id">Idefix a smečka Nepoddajných I (8)</title>
+  </programme>
+  <programme start="20260407060000 +0000" stop="20260407062000 +0000" channel="Minimax.webtv.sk">
+    <title lang="id">Idefix a smečka Nepoddajných I (9)</title>
+  </programme>
+  <programme start="20260407062000 +0000" stop="20260407064500 +0000" channel="Minimax.webtv.sk">
+    <title lang="id">Ulička záhad I (13)</title>
+  </programme>
+  <programme start="20260407064500 +0000" stop="20260407070500 +0000" channel="Minimax.webtv.sk">
+    <title lang="id">Barbie a dotek kouzla I (14)</title>
+  </programme>
+  <programme start="20260407070500 +0000" stop="20260407073000 +0000" channel="Minimax.webtv.sk">
+    <title lang="id">Barbie a dotek kouzla I (15)</title>
+  </programme>
+  <programme start="20260407073000 +0000" stop="20260407085000 +0000" channel="Minimax.webtv.sk">
+    <title lang="id">Barbie - Príbeh Morské Panny</title>
+  </programme>
+  <programme start="20260407085000 +0000" stop="20260407090000 +0000" channel="Minimax.webtv.sk">
+    <title lang="id">Život s tátou I (15)</title>
+  </programme>
+  <programme start="20260407090000 +0000" stop="20260407091000 +0000" channel="Minimax.webtv.sk">
+    <title lang="id">Příhody bílého delfína I (35)</title>
+  </programme>
+  <programme start="20260407091000 +0000" stop="20260407092000 +0000" channel="Minimax.webtv.sk">
+    <title lang="id">Příhody bílého delfína I (36)</title>
+  </programme>
+  <programme start="20260407092000 +0000" stop="20260407093000 +0000" channel="Minimax.webtv.sk">
+    <title lang="id">Příhody bílého delfína I (37)</title>
+  </programme>
+  <programme start="20260407093000 +0000" stop="20260407095000 +0000" channel="Minimax.webtv.sk">
+    <title lang="id">Příhody bílého delfína I (38)</title>
+  </programme>
+  <programme start="20260407095000 +0000" stop="20260407095500 +0000" channel="Minimax.webtv.sk">
+    <title lang="id">Bing I (10)</title>
+  </programme>
+  <programme start="20260407095500 +0000" stop="20260407100000 +0000" channel="Minimax.webtv.sk">
+    <title lang="id">Bing I (11)</title>
+  </programme>
+  <programme start="20260407100000 +0000" stop="20260407101500 +0000" channel="Minimax.webtv.sk">
+    <title lang="id">Bing I (12)</title>
+  </programme>
+  <programme start="20260407101500 +0000" stop="20260407103500 +0000" channel="Minimax.webtv.sk">
+    <title lang="id">Zvědavý George VI (9)</title>
+  </programme>
+  <programme start="20260407103500 +0000" stop="20260407110500 +0000" channel="Minimax.webtv.sk">
+    <title lang="id">Zvědavý George VI (10)</title>
+  </programme>
+  <programme start="20260407110500 +0000" stop="20260407111500 +0000" channel="Minimax.webtv.sk">
+    <title lang="id">ALVINNN!!! A Chipmunkové III (52)</title>
+  </programme>
+  <programme start="20260407111500 +0000" stop="20260407112500 +0000" channel="Minimax.webtv.sk">
+    <title lang="id">ALVINNN!!! A Chipmunkové IV (1)</title>
+  </programme>
+  <programme start="20260407112500 +0000" stop="20260407114000 +0000" channel="Minimax.webtv.sk">
+    <title lang="id">ALVINNN!!! A Chipmunkové IV (2)</title>
+  </programme>
+  <programme start="20260407114000 +0000" stop="20260407120500 +0000" channel="Minimax.webtv.sk">
+    <title lang="id">Inspektor Šikula II (19)</title>
+  </programme>
+  <programme start="20260407120500 +0000" stop="20260407121000 +0000" channel="Minimax.webtv.sk">
+    <title lang="id">Psík jménem Pat I (58)</title>
+  </programme>
+  <programme start="20260407121000 +0000" stop="20260407121500 +0000" channel="Minimax.webtv.sk">
+    <title lang="id">Psík jménem Pat I (59)</title>
+  </programme>
+  <programme start="20260407121500 +0000" stop="20260407123000 +0000" channel="Minimax.webtv.sk">
+    <title lang="id">Psík jménem Pat I (60)</title>
+  </programme>
+  <programme start="20260407123000 +0000" stop="20260407125000 +0000" channel="Minimax.webtv.sk">
+    <title lang="id">Mimi šéf: Zpátky v kolébce III (14)</title>
+  </programme>
+  <programme start="20260407125000 +0000" stop="20260407132000 +0000" channel="Minimax.webtv.sk">
+    <title lang="id">Mimi šéf: Zpátky v kolébce III (15)</title>
+  </programme>
+  <programme start="20260407132000 +0000" stop="20260407133000 +0000" channel="Minimax.webtv.sk">
+    <title lang="id">ALVINNN!!! A Chipmunkové III (43)</title>
+  </programme>
+  <programme start="20260407133000 +0000" stop="20260407134000 +0000" channel="Minimax.webtv.sk">
+    <title lang="id">ALVINNN!!! A Chipmunkové III (44)</title>
+  </programme>
+  <programme start="20260407134000 +0000" stop="20260407135500 +0000" channel="Minimax.webtv.sk">
+    <title lang="id">ALVINNN!!! A Chipmunkové III (45)</title>
+  </programme>
+  <programme start="20260407135500 +0000" stop="20260407142000 +0000" channel="Minimax.webtv.sk">
+    <title lang="id">Poznáváme přírodu III (18)</title>
+  </programme>
+  <programme start="20260407142000 +0000" stop="20260407143000 +0000" channel="Minimax.webtv.sk">
+    <title lang="id">Příhody bílého delfína I (34)</title>
+  </programme>
+  <programme start="20260407143000 +0000" stop="20260407144000 +0000" channel="Minimax.webtv.sk">
+    <title lang="id">Příhody bílého delfína I (35)</title>
+  </programme>
+  <programme start="20260407144000 +0000" stop="20260407150000 +0000" channel="Minimax.webtv.sk">
+    <title lang="id">Příhody bílého delfína I (36)</title>
+  </programme>
+  <programme start="20260407150000 +0000" stop="20260407160500 +0000" channel="Minimax.webtv.sk">
+    <title lang="id">Barbie a Stacie zachraňují</title>
+  </programme>
+  <programme start="20260407160500 +0000" stop="20260407161500 +0000" channel="Minimax.webtv.sk">
+    <title lang="id">ALVINNN!!! A Chipmunkové IV (3)</title>
+  </programme>
+  <programme start="20260407161500 +0000" stop="20260407163000 +0000" channel="Minimax.webtv.sk">
+    <title lang="id">ALVINNN!!! A Chipmunkové IV (4)</title>
+  </programme>
+  <programme start="20260407163000 +0000" stop="20260407163500 +0000" channel="Minimax.webtv.sk">
+    <title lang="id">Psík jménem Pat I (9)</title>
+  </programme>
+  <programme start="20260407163500 +0000" stop="20260407164500 +0000" channel="Minimax.webtv.sk">
+    <title lang="id">Psík jménem Pat I (10)</title>
+  </programme>
+  <programme start="20260407164500 +0000" stop="20260407165000 +0000" channel="Minimax.webtv.sk">
+    <title lang="id">Bing I (13)</title>
+  </programme>
+  <programme start="20260407165000 +0000" stop="20260407165500 +0000" channel="Minimax.webtv.sk">
+    <title lang="id">Bing I (14)</title>
+  </programme>
+  <programme start="20260407165500 +0000" stop="20260407170500 +0000" channel="Minimax.webtv.sk">
+    <title lang="id">Bing I (15)</title>
+  </programme>
+  <programme start="20260407170500 +0000" stop="20260407173000 +0000" channel="Minimax.webtv.sk">
+    <title lang="id">Molly z Denali I (11)</title>
+  </programme>
+  <programme start="20260407173000 +0000" stop="20260407180000 +0000" channel="Minimax.webtv.sk">
+    <title lang="id">Molly z Denali I (12)</title>
+  </programme>
+  <programme start="20260407180000 +0000" stop="20260407192000 +0000" channel="Minimax.webtv.sk">
+    <title lang="id">Americký ocásek - Fievel na divokém západě</title>
+  </programme>
+  <programme start="20260407192000 +0000" stop="20260407193000 +0000" channel="Minimax.webtv.sk">
+    <title lang="id">Malí zvířecí detektivové I (24)</title>
+  </programme>
+  <programme start="20260407193000 +0000" stop="20260407195000 +0000" channel="Minimax.webtv.sk">
+    <title lang="id">Geronimo Stilton II (8)</title>
+  </programme>
+  <programme start="20260407195000 +0000" stop="20260407201000 +0000" channel="Minimax.webtv.sk">
+    <title lang="id">Geronimo Stilton II (9)</title>
+  </programme>
+  <programme start="20260407201000 +0000" stop="20260407204500 +0000" channel="Minimax.webtv.sk">
+    <title lang="id">Geronimo Stilton II (10)</title>
+  </programme>
+  <programme start="20260407204500 +0000" stop="20260407205500 +0000" channel="Minimax.webtv.sk">
+    <title lang="id">Idefix a smečka Nepoddajných I (9)</title>
+  </programme>
+  <programme start="20260407205500 +0000" stop="20260407211500 +0000" channel="Minimax.webtv.sk">
+    <title lang="id">Idefix a smečka Nepoddajných I (10)</title>
+  </programme>
+  <programme start="20260407211500 +0000" stop="20260407213500 +0000" channel="Minimax.webtv.sk">
+    <title lang="id">Inspektor Šikula II (17)</title>
+  </programme>
+  <programme start="20260407213500 +0000" stop="20260407220000 +0000" channel="Minimax.webtv.sk">
+    <title lang="id">Inspektor Šikula II (18)</title>
+  </programme>
   <programme start="20260406220000 +0000" stop="20260406220200 +0000" channel="Duck TV.webtv.sk">
     <title lang="id">Teraz sa hráme</title>
   </programme>
@@ -14991,6 +15129,63 @@
   </programme>
   <programme start="20260407215900 +0000" stop="20260407220200 +0000" channel="Duck TV Plus.webtv.sk">
     <title lang="id">Teraz sa hráme</title>
+  </programme>
+  <programme start="20260406210000 +0000" stop="20260407031000 +0000" channel="Life TV.webtv.sk">
+    <title lang="id">Program z Domu modlitieb a chvál v Kansas City</title>
+  </programme>
+  <programme start="20260407031000 +0000" stop="20260407041500 +0000" channel="Life TV.webtv.sk">
+    <title lang="id">Dokument: Gróf Zinzendorf II.</title>
+  </programme>
+  <programme start="20260407041500 +0000" stop="20260407050000 +0000" channel="Life TV.webtv.sk">
+    <title lang="id">Slovo viery - BJB Aš: Alois Boháček - Svedectvo vzkriesenia</title>
+  </programme>
+  <programme start="20260407050000 +0000" stop="20260407051500 +0000" channel="Life TV.webtv.sk">
+    <title lang="id">Dokument: Mňa sa to netýka</title>
+  </programme>
+  <programme start="20260407051500 +0000" stop="20260407060000 +0000" channel="Life TV.webtv.sk">
+    <title lang="id">Worship s Tiborom Dudom a kapelou</title>
+  </programme>
+  <programme start="20260407060000 +0000" stop="20260407081500 +0000" channel="Life TV.webtv.sk">
+    <title lang="id">Film: Evanjelium podľa Marka</title>
+  </programme>
+  <programme start="20260407081500 +0000" stop="20260407091000 +0000" channel="Life TV.webtv.sk">
+    <title lang="id">Dokument: Campfest 2018</title>
+  </programme>
+  <programme start="20260407091000 +0000" stop="20260407101500 +0000" channel="Life TV.webtv.sk">
+    <title lang="id">Dokument: Gróf Zinzendorf I.</title>
+  </programme>
+  <programme start="20260407101500 +0000" stop="20260407110000 +0000" channel="Life TV.webtv.sk">
+    <title lang="id">Slovo viery - City Church Bratislava: Ján Tóth - Bláznivá viera</title>
+  </programme>
+  <programme start="20260407110000 +0000" stop="20260407120000 +0000" channel="Life TV.webtv.sk">
+    <title lang="id">Worship s kapelou Homecoming</title>
+  </programme>
+  <programme start="20260407120000 +0000" stop="20260407151000 +0000" channel="Life TV.webtv.sk">
+    <title lang="id">Film: Evanjelium podľa Jána</title>
+  </programme>
+  <programme start="20260407151000 +0000" stop="20260407153000 +0000" channel="Life TV.webtv.sk">
+    <title lang="id">Biblia za rok: 365 Biblických povzbudení</title>
+  </programme>
+  <programme start="20260407153000 +0000" stop="20260407164500 +0000" channel="Life TV.webtv.sk">
+    <title lang="id">Slovo viery - Slovo Života Brno</title>
+  </programme>
+  <programme start="20260407164500 +0000" stop="20260407171500 +0000" channel="Life TV.webtv.sk">
+    <title lang="id">Noeland</title>
+  </programme>
+  <programme start="20260407171500 +0000" stop="20260407180000 +0000" channel="Life TV.webtv.sk">
+    <title lang="id">Slovo viery - BJB Aš</title>
+  </programme>
+  <programme start="20260407180000 +0000" stop="20260407183000 +0000" channel="Life TV.webtv.sk">
+    <title lang="id">Relácia DNES</title>
+  </programme>
+  <programme start="20260407183000 +0000" stop="20260407200000 +0000" channel="Life TV.webtv.sk">
+    <title lang="id">Konvokácia</title>
+  </programme>
+  <programme start="20260407200000 +0000" stop="20260407210000 +0000" channel="Life TV.webtv.sk">
+    <title lang="id">Cirkev bez hraníc</title>
+  </programme>
+  <programme start="20260407210000 +0000" stop="20260408031000 +0000" channel="Life TV.webtv.sk">
+    <title lang="id">Program z Domu modlitieb a chvál v Kansas City</title>
   </programme>
   <programme start="20260406213500 +0000" stop="20260406230300 +0000" channel="TV Zemplín.webtv.sk">
     <title lang="id">Záznam z rokovania zastupiteľstva KSK - 15.12.2025</title>
