@@ -613,9 +613,6 @@
 <programme start="20260405003000 +0000" stop="20260405023000 +0000" channel="ANTV.vision">
 <title>Janji Cinta Inspektur Virat</title>
 </programme>
-<programme start="20260405023000 +0000" stop="20260405060000 +0000" channel="ANTV.vision">
-<title>Ra One</title>
-</programme>
 <programme start="20260405060000 +0000" stop="20260405080000 +0000" channel="ANTV.vision">
 <title>Jhanak</title>
 </programme>
@@ -1497,4 +1494,7 @@
 </programme>
 <programme start="20260406110000 +0000" stop="20260406130000 +0000" channel="TVRI.vision">
 <title>TVRI</title>
+</programme>
+<programme start="20260405000000 +0000" stop="20260405003000 +0000" channel="DAAI TV.vision">
+<title>Dr. Panda</title>
 </programme>

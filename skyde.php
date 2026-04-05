@@ -2552,19 +2552,19 @@ Warning: Undefined array key "et" in /usr/home/ManusiaBiasa/domains/manusiabiasa
 <programme start="20260405210000 +0000" stop="20260405220000 +0000" channel="Sky Sport Bundesliga HD.skyde">
     <title>3. Liga: Alle Spiele, alle Tore, 31. Spieltag komplett</title>
 </programme>
-<programme start="20260404230000 +0000" stop="20260405010000 +0000" channel="Sky Sport Bundesliga UHD.skyde">
+<programme start="20260404232500 +0000" stop="20260405012000 +0000" channel="Sky Sport Bundesliga UHD.skyde">
     <title>BL: SC Freiburg - FC Bayern München, 28. Spieltag</title>
 </programme>
-<programme start="20260405010000 +0000" stop="20260405030000 +0000" channel="Sky Sport Bundesliga UHD.skyde">
+<programme start="20260405012000 +0000" stop="20260405031500 +0000" channel="Sky Sport Bundesliga UHD.skyde">
     <title>2. BL: Dynamo Dresden - Hertha BSC, tipico Topspiel der Woche, 28. Spieltag</title>
 </programme>
-<programme start="20260405030000 +0000" stop="20260405050000 +0000" channel="Sky Sport Bundesliga UHD.skyde">
+<programme start="20260405031500 +0000" stop="20260405051000 +0000" channel="Sky Sport Bundesliga UHD.skyde">
     <title>BL: VfB Stuttgart - Borussia Dortmund, tipico Topspiel der Woche, 28. Spieltag</title>
 </programme>
-<programme start="20260405050000 +0000" stop="20260405070000 +0000" channel="Sky Sport Bundesliga UHD.skyde">
+<programme start="20260405051000 +0000" stop="20260405070500 +0000" channel="Sky Sport Bundesliga UHD.skyde">
     <title>BL: SC Freiburg - FC Bayern München, 28. Spieltag</title>
 </programme>
-<programme start="20260405070000 +0000" stop="20260405090000 +0000" channel="Sky Sport Bundesliga UHD.skyde">
+<programme start="20260405070500 +0000" stop="20260405090000 +0000" channel="Sky Sport Bundesliga UHD.skyde">
     <title>2. BL: Dynamo Dresden - Hertha BSC, tipico Topspiel der Woche, 28. Spieltag</title>
 </programme>
 <programme start="20260405090000 +0000" stop="20260405110000 +0000" channel="Sky Sport Bundesliga UHD.skyde">
@@ -3026,22 +3026,22 @@ Warning: Undefined array key "et" in /usr/home/ManusiaBiasa/domains/manusiabiasa
 <programme start="20260405010000 +0000" stop="20260405020000 +0000" channel="Sky Sport Tennis HD.skyde">
     <title>ATP 1000: Review Miami</title>
 </programme>
-<programme start="20260405020000 +0000" stop="20260405040000 +0000" channel="Sky Sport Tennis HD.skyde">
+<programme start="20260405020000 +0000" stop="20260405044500 +0000" channel="Sky Sport Tennis HD.skyde">
     <title>WTA 500: J. Pegula (USA) - I. Jovic (USA), Credit One Charleston Open in Charleston (USA), Halbfinale 1</title>
 </programme>
-<programme start="20260405040000 +0000" stop="20260405060000 +0000" channel="Sky Sport Tennis HD.skyde">
+<programme start="20260405044500 +0000" stop="20260405061500 +0000" channel="Sky Sport Tennis HD.skyde">
     <title>WTA 500: M. Keys (USA) - Y. Starodubtseva (UKR), Credit One Charleston Open in Charleston (USA), Halbfinale 2</title>
 </programme>
-<programme start="20260405060000 +0000" stop="20260405063000 +0000" channel="Sky Sport Tennis HD.skyde">
+<programme start="20260405061500 +0000" stop="20260405064500 +0000" channel="Sky Sport Tennis HD.skyde">
     <title>WTA 1000: Review Miami</title>
 </programme>
-<programme start="20260405063000 +0000" stop="20260405073000 +0000" channel="Sky Sport Tennis HD.skyde">
+<programme start="20260405064500 +0000" stop="20260405074500 +0000" channel="Sky Sport Tennis HD.skyde">
     <title>ATP 1000: Review Miami</title>
 </programme>
-<programme start="20260405073000 +0000" stop="20260405093000 +0000" channel="Sky Sport Tennis HD.skyde">
+<programme start="20260405074500 +0000" stop="20260405090500 +0000" channel="Sky Sport Tennis HD.skyde">
     <title>ATP 250: T. Tirante (ARG) - R. Burruchaga (ARG), Fayez Sarofim &amp; Co U.S. Men&#039;s Clay Court Championship in Houston (USA), Halbfinale 1</title>
 </programme>
-<programme start="20260405093000 +0000" stop="20260405113000 +0000" channel="Sky Sport Tennis HD.skyde">
+<programme start="20260405090500 +0000" stop="20260405113000 +0000" channel="Sky Sport Tennis HD.skyde">
     <title>ATP 250: T. Paul (USA) -  F. Tiafoe (USA), Fayez Sarofim &amp; Co U.S. Men&#039;s Clay Court Championship in Houston (USA), Halbfinale 2</title>
 </programme>
 <programme start="20260405113000 +0000" stop="20260405173000 +0000" channel="Sky Sport Tennis HD.skyde">
@@ -3110,14 +3110,14 @@ Warning: Undefined array key "et" in /usr/home/ManusiaBiasa/domains/manusiabiasa
 <programme start="20260404220000 +0000" stop="20260404230000 +0000" channel="Sky Sport 1 HD.skyde">
     <title>Es folgt: LIVE NBA</title>
 </programme>
-<programme start="20260404230000 +0000" stop="20260405014000 +0000" channel="Sky Sport 1 HD.skyde">
+<programme start="20260404230000 +0000" stop="20260405030000 +0000" channel="Sky Sport 1 HD.skyde">
     <title>Live NBA: Detroit Pistons @ Philadelphia 76ers</title>
 </programme>
 <programme start="20260405191000 +0000" stop="20260405193000 +0000" channel="Sky Sport 1 HD.skyde">
     <title>Es folgt: LIVE ATP World Tour</title>
 </programme>
 <programme start="20260405193000 +0000" stop="20260406000000 +0000" channel="Sky Sport 1 HD.skyde">
-    <title>Live ATP 250: T. Paul (USA) - R. Burruchaga (ARG), Fayez Sarofim &amp; Co U.S. Men&#039;s Clay Court Championship in Houston (USA), Finale</title>
+    <title>Live ATP 250: tba - R. Burruchaga (ARG), Fayez Sarofim &amp; Co U.S. Men&#039;s Clay Court Championship in Houston (USA), Finale</title>
 </programme>
 <programme start="20260405135500 +0000" stop="20260405140000 +0000" channel="Sky Sport 3 HD.skyde">
     <title>Es folgt: LIVE ATP World Tour</title>
