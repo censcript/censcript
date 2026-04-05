@@ -7033,6 +7033,78 @@
   <programme start="20260407215000 +0000" stop="20260407220000 +0000" channel="Doktor TV.webtv.sk">
     <title lang="id">Diagnóza</title>
   </programme>
+  <programme start="20260406220000 +0000" stop="20260406230000 +0000" channel="PARK TV.webtv.sk">
+    <title lang="id">RELAX S PARK TV</title>
+  </programme>
+  <programme start="20260406230000 +0000" stop="20260407000000 +0000" channel="PARK TV.webtv.sk">
+    <title lang="id">RELAX S PARK TV</title>
+  </programme>
+  <programme start="20260407000000 +0000" stop="20260407010000 +0000" channel="PARK TV.webtv.sk">
+    <title lang="id">RELAX S PARK TV</title>
+  </programme>
+  <programme start="20260407010000 +0000" stop="20260407020000 +0000" channel="PARK TV.webtv.sk">
+    <title lang="id">RELAX S PARK TV</title>
+  </programme>
+  <programme start="20260407020000 +0000" stop="20260407030000 +0000" channel="PARK TV.webtv.sk">
+    <title lang="id">RELAX S PARK TV</title>
+  </programme>
+  <programme start="20260407030000 +0000" stop="20260407040000 +0000" channel="PARK TV.webtv.sk">
+    <title lang="id">RELAX S PARK TV</title>
+  </programme>
+  <programme start="20260407040000 +0000" stop="20260407050000 +0000" channel="PARK TV.webtv.sk">
+    <title lang="id">RELAX S PARK TV</title>
+  </programme>
+  <programme start="20260407050000 +0000" stop="20260407060000 +0000" channel="PARK TV.webtv.sk">
+    <title lang="id">RELAX S PARK TV</title>
+  </programme>
+  <programme start="20260407060000 +0000" stop="20260407070000 +0000" channel="PARK TV.webtv.sk">
+    <title lang="id">Divočina s Park TV</title>
+  </programme>
+  <programme start="20260407070000 +0000" stop="20260407080000 +0000" channel="PARK TV.webtv.sk">
+    <title lang="id">Divočina s Park TV</title>
+  </programme>
+  <programme start="20260407080000 +0000" stop="20260407090000 +0000" channel="PARK TV.webtv.sk">
+    <title lang="id">Zvieratá pod drobnohľadom</title>
+  </programme>
+  <programme start="20260407090000 +0000" stop="20260407100000 +0000" channel="PARK TV.webtv.sk">
+    <title lang="id">Zvieratá pod drobnohľadom</title>
+  </programme>
+  <programme start="20260407100000 +0000" stop="20260407110000 +0000" channel="PARK TV.webtv.sk">
+    <title lang="id">Každodenný život zvierat</title>
+  </programme>
+  <programme start="20260407110000 +0000" stop="20260407120000 +0000" channel="PARK TV.webtv.sk">
+    <title lang="id">Každodenný život zvierat</title>
+  </programme>
+  <programme start="20260407120000 +0000" stop="20260407130000 +0000" channel="PARK TV.webtv.sk">
+    <title lang="id">Zvieratá v pohybe</title>
+  </programme>
+  <programme start="20260407130000 +0000" stop="20260407140000 +0000" channel="PARK TV.webtv.sk">
+    <title lang="id">Zvieratá v pohybe</title>
+  </programme>
+  <programme start="20260407140000 +0000" stop="20260407150000 +0000" channel="PARK TV.webtv.sk">
+    <title lang="id">Zvieratá v pohybe</title>
+  </programme>
+  <programme start="20260407150000 +0000" stop="20260407160000 +0000" channel="PARK TV.webtv.sk">
+    <title lang="id">Všedný a nevšedný život zvierat</title>
+  </programme>
+  <programme start="20260407160000 +0000" stop="20260407170000 +0000" channel="PARK TV.webtv.sk">
+    <title lang="id">Všedný a nevšedný život zvierat</title>
+  </programme>
+  <programme start="20260407170000 +0000" stop="20260407180000 +0000" channel="PARK TV.webtv.sk">
+    <title lang="id">Všedný a nevšedný život zvierat</title>
+  </programme>
+  <programme start="20260407180000 +0000" stop="20260407190000 +0000" channel="PARK TV.webtv.sk">
+    <title lang="id">Neobyčajný svet zvierat</title>
+  </programme>
+  <programme start="20260407190000 +0000" stop="20260407200000 +0000" channel="PARK TV.webtv.sk">
+    <title lang="id">Neobyčajný svet zvierat</title>
+  </programme>
+  <programme start="20260407200000 +0000" stop="20260407210000 +0000" channel="PARK TV.webtv.sk">
+    <title lang="id">Neobyčajný svet zvierat</title>
+  </programme>
+  <programme start="20260407210000 +0000" stop="20260407220000 +0000" channel="PARK TV.webtv.sk">
+    <title lang="id">RELAX S PARK TV</title>
+  </programme>
   <programme start="20260406220000 +0000" stop="20260406220500 +0000" channel="English Club TV.webtv.sk">
     <title lang="id">Wrong&amp;right (55)</title>
   </programme>
