@@ -62,13 +62,9 @@
     <title>UEFA Champions League Highlights 2025-26</title>
     <desc>Live: Tidak</desc>
 </programme>
-<programme start="20260405220000 +0700" stop="20260405222000 +0700" channel="COSMOTE Sport 2 HD">
-    <title>Sports Classics: Worldies E19</title>
-    <desc>Live: Tidak</desc>
-</programme>
-<programme start="20260405222000 +0700" stop="20260405230000 +0700" channel="COSMOTE Sport 2 HD">
-    <title>Sports Classics: Ultimate Rush S5 E4</title>
-    <desc>Live: Tidak</desc>
+<programme start="20260406230000 +0700" stop="20260407010000 +0700" channel="COSMOTE Sport 1 HD">
+    <title>Football: Juventus Football Club - Genoa (L)</title>
+    <desc>Live: Ya</desc>
 </programme>
 <programme start="20260405230000 +0700" stop="20260406010000 +0700" channel="COSMOTE Sport 2 HD">
     <title>Football: Pisa - Torino (L)</title>
@@ -138,9 +134,13 @@
     <title>Football: Ipswich Town - Birmingham City (L)</title>
     <desc>Live: Ya</desc>
 </programme>
-<programme start="20260405220000 +0700" stop="20260405223000 +0700" channel="COSMOTE Sport 3 HD">
-    <title>Sports Classics: My Sporting Moment</title>
+<programme start="20260406230000 +0700" stop="20260406233000 +0700" channel="COSMOTE Sport 2 HD">
+    <title>Sports Classics: Worldies E2</title>
     <desc>Live: Tidak</desc>
+</programme>
+<programme start="20260406233000 +0700" stop="20260407013000 +0700" channel="COSMOTE Sport 2 HD">
+    <title>Football: Swansea City - Middlesbrough (L)</title>
+    <desc>Live: Ya</desc>
 </programme>
 <programme start="20260405223000 +0700" stop="20260406003000 +0700" channel="COSMOTE Sport 3 HD">
     <title>Football: West Ham United FC - Leeds United (L)</title>
@@ -218,6 +218,10 @@
     <title>Football: Watford - Charlton Athletic  (L)</title>
     <desc>Live: Ya</desc>
 </programme>
+<programme start="20260406230000 +0700" stop="20260407010000 +0700" channel="COSMOTE Sport 3 HD">
+    <title>Football: Al Nassr - Al Najma</title>
+    <desc>Live: Tidak</desc>
+</programme>
 <programme start="20260405220000 +0700" stop="20260406000000 +0700" channel="COSMOTE Sport 4 HD">
     <title>Basketball: Armani Milano - Bon Reggio Emilia (L)</title>
     <desc>Live: Ya</desc>
@@ -273,10 +277,6 @@
 <programme start="20260406220000 +0700" stop="20260407000000 +0700" channel="COSMOTE Sport 4 HD">
     <title>Basketball: Turk Telekom - Erokspor (L)</title>
     <desc>Live: Ya</desc>
-</programme>
-<programme start="20260405220000 +0700" stop="20260405223000 +0700" channel="COSMOTE Sport 5 HD">
-    <title>Sports Highlights</title>
-    <desc>Live: Tidak</desc>
 </programme>
 <programme start="20260405223000 +0700" stop="20260406003000 +0700" channel="COSMOTE Sport 5 HD">
     <title>Football: Dundee - Celtic FC (L)</title>
@@ -370,6 +370,10 @@
     <title>Harley-Davidson Bagger World Cup 2026</title>
     <desc>Live: Tidak</desc>
 </programme>
+<programme start="20260406230000 +0700" stop="20260407000000 +0700" channel="COSMOTE Sport 5 HD">
+    <title>Highlights: 2025 Extreme H</title>
+    <desc>Live: Tidak</desc>
+</programme>
 <programme start="20260405210000 +0700" stop="20260405233000 +0700" channel="COSMOTE Sport 6 HD">
     <title>Tennis: Marco Trungelliti - Rafael Jodar (L)</title>
     <desc>Live: Ya</desc>
@@ -437,6 +441,10 @@
 <programme start="20260406223000 +0700" stop="20260406230000 +0700" channel="COSMOTE Sport 6 HD">
     <title>Sports Classics: 2026 Outdoor Specials</title>
     <desc>Live: Tidak</desc>
+</programme>
+<programme start="20260406230000 +0700" stop="20260407003000 +0700" channel="COSMOTE Sport 6 HD">
+    <title>Topspin (L)</title>
+    <desc>Live: Ya</desc>
 </programme>
 <programme start="20260405220000 +0700" stop="20260406000000 +0700" channel="COSMOTE Sport 7 HD">
     <title>Basketball: Real Madrid - Andorra (L)</title>
@@ -565,10 +573,6 @@
 <programme start="20260406220000 +0700" stop="20260407000000 +0700" channel="COSMOTE Sport 8 HD">
     <title>COSMOTESport8HD</title>
     <desc>Live: Tidak</desc>
-</programme>
-<programme start="20260405210000 +0700" stop="20260405230000 +0700" channel="COSMOTE Sport 9 HD">
-    <title>Football: APOEL - Aris Limassol (L)</title>
-    <desc>Live: Ya</desc>
 </programme>
 <programme start="20260405230000 +0700" stop="20260406000000 +0700" channel="COSMOTE Sport 9 HD">
     <title>COSMOTESport9HD</title>
