@@ -66,6 +66,10 @@
     <title>Football: Manchester City FC - Real Madrid CF</title>
     <desc>Live: Tidak</desc>
 </programme>
+<programme start="20260407054500 +0700" stop="20260407074500 +0700" channel="COSMOTE Sport 1 HD">
+    <title>Football: FC Barcelona - Newcastle United</title>
+    <desc>Live: Tidak</desc>
+</programme>
 <programme start="20260406034500 +0700" stop="20260406060000 +0700" channel="COSMOTE Sport 2 HD">
     <title>Football: Olympiacos - AEK</title>
     <desc>Live: Tidak</desc>
@@ -278,10 +282,6 @@
     <title>Basketball: Minnesota Timberwolves - Charlotte Hornets</title>
     <desc>Live: Tidak</desc>
 </programme>
-<programme start="20260406033000 +0700" stop="20260406043500 +0700" channel="COSMOTE Sport 5 HD">
-    <title>Motorsports: Extreme E 2025</title>
-    <desc>Live: Tidak</desc>
-</programme>
 <programme start="20260406043500 +0700" stop="20260406064500 +0700" channel="COSMOTE Sport 5 HD">
     <title>Motorsports: Extreme E 2025</title>
     <desc>Live: Tidak</desc>
@@ -382,9 +382,13 @@
     <title>2026 Grand Prix Show</title>
     <desc>Live: Tidak</desc>
 </programme>
-<programme start="20260406023000 +0700" stop="20260406050000 +0700" channel="COSMOTE Sport 6 HD">
-    <title>Tennis: Roman Andres Burruchaga - Tommy Paul (L)</title>
-    <desc>Live: Ya</desc>
+<programme start="20260407053000 +0700" stop="20260407054500 +0700" channel="COSMOTE Sport 5 HD">
+    <title>Sports Highlights</title>
+    <desc>Live: Tidak</desc>
+</programme>
+<programme start="20260407054500 +0700" stop="20260407063000 +0700" channel="COSMOTE Sport 5 HD">
+    <title>ERC 2025</title>
+    <desc>Live: Tidak</desc>
 </programme>
 <programme start="20260406050000 +0700" stop="20260406073000 +0700" channel="COSMOTE Sport 6 HD">
     <title>Tennis: Mariano Navone - Daniel Merida</title>
@@ -503,6 +507,10 @@
     <desc>Live: Ya</desc>
 </programme>
 <programme start="20260407044500 +0700" stop="20260407054500 +0700" channel="COSMOTE Sport 7 HD">
+    <title>COSMOTESport7HD</title>
+    <desc>Live: Tidak</desc>
+</programme>
+<programme start="20260407054500 +0700" stop="20260407060000 +0700" channel="COSMOTE Sport 7 HD">
     <title>COSMOTESport7HD</title>
     <desc>Live: Tidak</desc>
 </programme>
