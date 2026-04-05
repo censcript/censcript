@@ -6499,7 +6499,10 @@
     <programme start="20260405150200 +0000" stop="20260405170100 +0000" channel="TV5MONDE HD.starhub">
         <title>Envoye Special</title>
     </programme>
-    <programme start="20260404160000 +0000" stop="20260404200000 +0000" channel="Hub Sports 1  HD.starhub">
+    <programme start="20260404135100 +0000" stop="20260404160900 +0000" channel="Hub Sports 1  HD.starhub">
+        <title>Tiriac Open p/b Unicredit Bank (250) SF 2</title>
+    </programme>
+    <programme start="20260404160900 +0000" stop="20260404200000 +0000" channel="Hub Sports 1  HD.starhub">
         <title>U.S. Men&#039;s Clay Court C&#039;ship (250) SF 1 &amp; 2</title>
     </programme>
     <programme start="20260404200000 +0000" stop="20260404213000 +0000" channel="Hub Sports 1  HD.starhub">
