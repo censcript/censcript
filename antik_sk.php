@@ -17209,102 +17209,6 @@
   <programme start="20260407214500 +0000" stop="20260407224000 +0000" channel="TVP Polonia.webtv.sk">
     <title lang="id">Szansa na sukces. Opole 2026 (18)</title>
   </programme>
-  <programme start="20260406220000 +0000" stop="20260406230000 +0000" channel="Current Time.webtv.sk">
-    <title lang="id">Грани времени</title>
-  </programme>
-  <programme start="20260406230000 +0000" stop="20260406233000 +0000" channel="Current Time.webtv.sk">
-    <title lang="id">Азия</title>
-  </programme>
-  <programme start="20260406233000 +0000" stop="20260407000000 +0000" channel="Current Time.webtv.sk">
-    <title lang="id">DW. Будущее сегодня</title>
-  </programme>
-  <programme start="20260407000000 +0000" stop="20260407020000 +0000" channel="Current Time.webtv.sk">
-    <title lang="id">Pеальное кино</title>
-  </programme>
-  <programme start="20260407020000 +0000" stop="20260407023000 +0000" channel="Current Time.webtv.sk">
-    <title lang="id">Что же получается</title>
-  </programme>
-  <programme start="20260407023000 +0000" stop="20260407030000 +0000" channel="Current Time.webtv.sk">
-    <title lang="id">#ВУкраине</title>
-  </programme>
-  <programme start="20260407030000 +0000" stop="20260407040000 +0000" channel="Current Time.webtv.sk">
-    <title lang="id">Грани времени</title>
-  </programme>
-  <programme start="20260407040000 +0000" stop="20260407050000 +0000" channel="Current Time.webtv.sk">
-    <title lang="id">Настоящий сериал</title>
-  </programme>
-  <programme start="20260407050000 +0000" stop="20260407070000 +0000" channel="Current Time.webtv.sk">
-    <title lang="id">Pеальное кино</title>
-  </programme>
-  <programme start="20260407070000 +0000" stop="20260407073000 +0000" channel="Current Time.webtv.sk">
-    <title lang="id">Утро</title>
-  </programme>
-  <programme start="20260407073000 +0000" stop="20260407080000 +0000" channel="Current Time.webtv.sk">
-    <title lang="id">Лицом к событию</title>
-  </programme>
-  <programme start="20260407080000 +0000" stop="20260407083000 +0000" channel="Current Time.webtv.sk">
-    <title lang="id">Pеальная история</title>
-  </programme>
-  <programme start="20260407083000 +0000" stop="20260407090000 +0000" channel="Current Time.webtv.sk">
-    <title lang="id">#ВУкраине</title>
-  </programme>
-  <programme start="20260407090000 +0000" stop="20260407100000 +0000" channel="Current Time.webtv.sk">
-    <title lang="id">Настоящий сериал</title>
-  </programme>
-  <programme start="20260407100000 +0000" stop="20260407103000 +0000" channel="Current Time.webtv.sk">
-    <title lang="id">Что же получается</title>
-  </programme>
-  <programme start="20260407103000 +0000" stop="20260407110000 +0000" channel="Current Time.webtv.sk">
-    <title lang="id">DW. В отличной форме</title>
-  </programme>
-  <programme start="20260407110000 +0000" stop="20260407113000 +0000" channel="Current Time.webtv.sk">
-    <title lang="id">Азия</title>
-  </programme>
-  <programme start="20260407113000 +0000" stop="20260407120000 +0000" channel="Current Time.webtv.sk">
-    <title lang="id">#ВУкраине</title>
-  </programme>
-  <programme start="20260407120000 +0000" stop="20260407140000 +0000" channel="Current Time.webtv.sk">
-    <title lang="id">Pеальное кино</title>
-  </programme>
-  <programme start="20260407140000 +0000" stop="20260407143000 +0000" channel="Current Time.webtv.sk">
-    <title lang="id">Главное</title>
-  </programme>
-  <programme start="20260407143000 +0000" stop="20260407150000 +0000" channel="Current Time.webtv.sk">
-    <title lang="id">Наизнанку</title>
-  </programme>
-  <programme start="20260407150000 +0000" stop="20260407153000 +0000" channel="Current Time.webtv.sk">
-    <title lang="id">Поваренная книга журналиста</title>
-  </programme>
-  <programme start="20260407153000 +0000" stop="20260407160000 +0000" channel="Current Time.webtv.sk">
-    <title lang="id">Азия</title>
-  </programme>
-  <programme start="20260407160000 +0000" stop="20260407163000 +0000" channel="Current Time.webtv.sk">
-    <title lang="id">Лицом к событию</title>
-  </programme>
-  <programme start="20260407163000 +0000" stop="20260407170000 +0000" channel="Current Time.webtv.sk">
-    <title lang="id">Неизвестная Pоссия</title>
-  </programme>
-  <programme start="20260407170000 +0000" stop="20260407173000 +0000" channel="Current Time.webtv.sk">
-    <title lang="id">Главное</title>
-  </programme>
-  <programme start="20260407173000 +0000" stop="20260407180000 +0000" channel="Current Time.webtv.sk">
-    <title lang="id">Детали</title>
-  </programme>
-  <programme start="20260407180000 +0000" stop="20260407200000 +0000" channel="Current Time.webtv.sk">
-    <title lang="id">Pеальное кино</title>
-  </programme>
-  <programme start="20260407200000 +0000" stop="20260407203000 +0000" channel="Current Time.webtv.sk">
-    <title lang="id">Лицом к событию</title>
-  </programme>
-  <programme start="20260407203000 +0000" stop="20260407210000 +0000" channel="Current Time.webtv.sk">
-    <title lang="id">DW. В отличной форме</title>
-  </programme>
-  <programme start="20260407210000 +0000" stop="20260407213000 +0000" channel="Current Time.webtv.sk">
-    <title lang="id">Неизвестная Pоссия</title>
-  </programme>
-  <programme start="20260407213000 +0000" stop="20260407220000 +0000" channel="Current Time.webtv.sk">
-    <title lang="id">Поваренная книга журналиста</title>
-  </programme>
   <programme start="20260406213500 +0000" stop="20260406222500 +0000" channel="Armenia 1 TV.webtv.sk">
     <title lang="id">Differently</title>
   </programme>
@@ -19563,33 +19467,6 @@
   </programme>
   <programme start="20260407205000 +0000" stop="20260408040000 +0000" channel="Óčko.webtv.sk">
     <title lang="id">ÓČKO FLIRT</title>
-  </programme>
-  <programme start="20260406220000 +0000" stop="20260407050000 +0000" channel="Óčko Black.webtv.sk">
-    <title lang="id">SLEEPIN’</title>
-  </programme>
-  <programme start="20260407050000 +0000" stop="20260407090000 +0000" channel="Óčko Black.webtv.sk">
-    <title lang="id">MORNIN’</title>
-  </programme>
-  <programme start="20260407090000 +0000" stop="20260407100000 +0000" channel="Óčko Black.webtv.sk">
-    <title lang="id">TRUESCHOOL</title>
-  </programme>
-  <programme start="20260407100000 +0000" stop="20260407170000 +0000" channel="Óčko Black.webtv.sk">
-    <title lang="id">WORKIN’</title>
-  </programme>
-  <programme start="20260407170000 +0000" stop="20260407180000 +0000" channel="Óčko Black.webtv.sk">
-    <title lang="id">CZ&amp;SK</title>
-  </programme>
-  <programme start="20260407180000 +0000" stop="20260407190000 +0000" channel="Óčko Black.webtv.sk">
-    <title lang="id">GRIME TIME</title>
-  </programme>
-  <programme start="20260407190000 +0000" stop="20260407200000 +0000" channel="Óčko Black.webtv.sk">
-    <title lang="id">O BLACK LIST</title>
-  </programme>
-  <programme start="20260407200000 +0000" stop="20260407210000 +0000" channel="Óčko Black.webtv.sk">
-    <title lang="id">REWIND! 5. ELEMENT</title>
-  </programme>
-  <programme start="20260407210000 +0000" stop="20260407220000 +0000" channel="Óčko Black.webtv.sk">
-    <title lang="id">CHILLIN’</title>
   </programme>
   <programme start="20260406200000 +0000" stop="20260406230000 +0000" channel="Óčko Expres.webtv.sk">
     <title lang="id">Expres NITE</title>

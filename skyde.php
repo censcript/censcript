@@ -2463,9 +2463,9 @@ Warning: Undefined array key "et" in /usr/home/ManusiaBiasa/domains/manusiabiasa
     <title>Live Admiral BL: TSV Egger Glas Hartberg - FC Red Bull Salzburg, 25. Runde</title>
 </programme>
 <programme start="20260405111000 +0000" stop="20260405113000 +0000" channel="Sky Sport Austria 4 HD.skyde">
-    <title>Es folgt: ATP World Tour</title>
+    <title>Es folgt: LIVE ATP World Tour</title>
 </programme>
-<programme start="20260405113000 +0000" stop="20260405173000 +0000" channel="Sky Sport Austria 4 HD.skyde">
+<programme start="20260405113000 +0000" stop="20260405193000 +0000" channel="Sky Sport Austria 4 HD.skyde">
     <title>Live ATP 1000: Rolex Monte-Carlo Masters in Monte-Carlo, 1. Tag</title>
 </programme>
 <programme start="20260404224500 +0000" stop="20260404234500 +0000" channel="Sky Sport Bundesliga HD.skyde">
@@ -2631,27 +2631,27 @@ Warning: Undefined array key "et" in /usr/home/ManusiaBiasa/domains/manusiabiasa
     <title>Live 2. BL: Hannover 96 - SV Elversberg, 28. Spieltag</title>
 </programme>
 <programme start="20260405101000 +0000" stop="20260405103000 +0000" channel="Sky Sport Bundesliga 4 HD.skyde">
-    <title>Es folgt: LIVE 2. Bundesliga</title>
+    <title>Es folgt: 2. Bundesliga</title>
 </programme>
-<programme start="20260405103000 +0000" stop="20260405140000 +0000" channel="Sky Sport Bundesliga 4 HD.skyde">
+<programme start="20260405103000 +0000" stop="20260405133000 +0000" channel="Sky Sport Bundesliga 4 HD.skyde">
     <title>Live 2. BL: Eintracht Braunschweig - 1. FC Nürnberg, 28. Spieltag</title>
 </programme>
 <programme start="20260405101000 +0000" stop="20260405103000 +0000" channel="Sky Sport Bundesliga 5 HD.skyde">
-    <title>Es folgt: 2. Bundesliga</title>
+    <title>Es folgt: LIVE 2. Bundesliga</title>
 </programme>
-<programme start="20260405103000 +0000" stop="20260405133000 +0000" channel="Sky Sport Bundesliga 5 HD.skyde">
+<programme start="20260405103000 +0000" stop="20260405140000 +0000" channel="Sky Sport Bundesliga 5 HD.skyde">
     <title>Live 2. BL: Holstein Kiel - Preußen Münster, 28. Spieltag</title>
 </programme>
 <programme start="20260405101000 +0000" stop="20260405103000 +0000" channel="Sky Sport Bundesliga 6 HD.skyde">
-    <title>Es folgt: 2. Bundesliga</title>
+    <title>Es folgt: LIVE 2. Bundesliga</title>
 </programme>
-<programme start="20260405103000 +0000" stop="20260405133000 +0000" channel="Sky Sport Bundesliga 6 HD.skyde">
+<programme start="20260405103000 +0000" stop="20260405140000 +0000" channel="Sky Sport Bundesliga 6 HD.skyde">
     <title>Live 2. BL: SpVgg Greuther Fürth  - SC Paderborn 07, 28. Spieltag</title>
 </programme>
 <programme start="20260405101000 +0000" stop="20260405103000 +0000" channel="Sky Sport Bundesliga 7 HD.skyde">
-    <title>Es folgt: LIVE 2. Bundesliga</title>
+    <title>Es folgt: 2. Bundesliga</title>
 </programme>
-<programme start="20260405103000 +0000" stop="20260405140000 +0000" channel="Sky Sport Bundesliga 7 HD.skyde">
+<programme start="20260405103000 +0000" stop="20260405133000 +0000" channel="Sky Sport Bundesliga 7 HD.skyde">
     <title>Live 2. BL: Multiview 28. Spieltag, Sonntag</title>
 </programme>
 <programme start="20260404220000 +0000" stop="20260404223000 +0000" channel="Sky Sport F1 HD.skyde">
@@ -2810,84 +2810,6 @@ Warning: Undefined array key "et" in /usr/home/ManusiaBiasa/domains/manusiabiasa
 <programme start="20260405210000 +0000" stop="20260405220000 +0000" channel="Sky Sport Mix HD.skyde">
     <title>3. Liga: Alle Spiele, alle Tore, 31. Spieltag komplett</title>
 </programme>
-<programme start="20260404220000 +0000" stop="20260405000000 +0000" channel="Sky Sport News HD.skyde">
-    <title>Sky Sport News: Nightline</title>
-</programme>
-<programme start="20260405000000 +0000" stop="20260405020000 +0000" channel="Sky Sport News HD.skyde">
-    <title>BL: VfB Stuttgart - Borussia Dortmund, tipico Topspiel der Woche, 28. Spieltag</title>
-</programme>
-<programme start="20260405020000 +0000" stop="20260405040000 +0000" channel="Sky Sport News HD.skyde">
-    <title>Sky Sport News: Nightline</title>
-</programme>
-<programme start="20260405040000 +0000" stop="20260405070000 +0000" channel="Sky Sport News HD.skyde">
-    <title>Sky Sport News: Der Morgen</title>
-</programme>
-<programme start="20260405070000 +0000" stop="20260405080000 +0000" channel="Sky Sport News HD.skyde">
-    <title>Live Sky Sport News: Guten Morgen Fans!</title>
-</programme>
-<programme start="20260405080000 +0000" stop="20260405090000 +0000" channel="Sky Sport News HD.skyde">
-    <title>Sky Sport News: Guten Morgen Fans!</title>
-</programme>
-<programme start="20260405090000 +0000" stop="20260405093000 +0000" channel="Sky Sport News HD.skyde">
-    <title>Live Sky Sport News: Guten Morgen Fans!</title>
-</programme>
-<programme start="20260405093000 +0000" stop="20260405100000 +0000" channel="Sky Sport News HD.skyde">
-    <title>Sky Sport News: Skylights</title>
-</programme>
-<programme start="20260405100000 +0000" stop="20260405103000 +0000" channel="Sky Sport News HD.skyde">
-    <title>Live Sky Sport News: Guten Morgen Fans!</title>
-</programme>
-<programme start="20260405103000 +0000" stop="20260405113000 +0000" channel="Sky Sport News HD.skyde">
-    <title>Live 2. BL: Vorbericht: Sonntags-Konferenz, 28. Spieltag</title>
-</programme>
-<programme start="20260405113000 +0000" stop="20260405120000 +0000" channel="Sky Sport News HD.skyde">
-    <title>Sky Sport News: Skylights</title>
-</programme>
-<programme start="20260405120000 +0000" stop="20260405123000 +0000" channel="Sky Sport News HD.skyde">
-    <title>Meine Geschichte: Das Leben von Franziska van Almsick (Teil 1)</title>
-</programme>
-<programme start="20260405123000 +0000" stop="20260405133000 +0000" channel="Sky Sport News HD.skyde">
-    <title>Sky Sport News: Skylights</title>
-</programme>
-<programme start="20260405133000 +0000" stop="20260405150000 +0000" channel="Sky Sport News HD.skyde">
-    <title>Live 2. BL Alle Spiele, alle Tore: Die Vodafone Highlight-Show, 28. Spieltag, Sonntag</title>
-</programme>
-<programme start="20260405150000 +0000" stop="20260405153000 +0000" channel="Sky Sport News HD.skyde">
-    <title>Live BL: Skylights: Die #SkySportShow</title>
-</programme>
-<programme start="20260405153000 +0000" stop="20260405160000 +0000" channel="Sky Sport News HD.skyde">
-    <title>Live BL: Highlights XXL: FCU - STP, 28. Spieltag</title>
-</programme>
-<programme start="20260405160000 +0000" stop="20260405173000 +0000" channel="Sky Sport News HD.skyde">
-    <title>Live BL: Sky90 - Die Fußballdebatte</title>
-</programme>
-<programme start="20260405173000 +0000" stop="20260405180000 +0000" channel="Sky Sport News HD.skyde">
-    <title>Live BL: Highlights XXL: SGE - KOE, 28. Spieltag</title>
-</programme>
-<programme start="20260405180000 +0000" stop="20260405183000 +0000" channel="Sky Sport News HD.skyde">
-    <title>Sky Sport News: Skylights</title>
-</programme>
-<programme start="20260405183000 +0000" stop="20260405190000 +0000" channel="Sky Sport News HD.skyde">
-    <title>Live Sky Sport News: Top News</title>
-</programme>
-<programme start="20260405190000 +0000" stop="20260405193000 +0000" channel="Sky Sport News HD.skyde">
-    <title>Sky Sport News: Skylights</title>
-</programme>
-<programme start="20260405193000 +0000" stop="20260405200000 +0000" channel="Sky Sport News HD.skyde">
-    <title>Live Sky Sport News: Top News</title>
-</programme>
-<programme start="20260405200000 +0000" stop="20260405203000 +0000" channel="Sky Sport News HD.skyde">
-    <title>Sky Sport News: Skylights</title>
-</programme>
-<programme start="20260405203000 +0000" stop="20260405210000 +0000" channel="Sky Sport News HD.skyde">
-    <title>Live Sky Sport News: Top News</title>
-</programme>
-<programme start="20260405210000 +0000" stop="20260405213000 +0000" channel="Sky Sport News HD.skyde">
-    <title>Sky Sport News: Skylights</title>
-</programme>
-<programme start="20260405213000 +0000" stop="20260405220000 +0000" channel="Sky Sport News HD.skyde">
-    <title>Sky Sport News: Nightline</title>
-</programme>
 <programme start="20260404220000 +0000" stop="20260404223000 +0000" channel="Sky Sport Premier League HD.skyde">
     <title>PL: 90in30: ARS - LIV, 21. Spieltag</title>
 </programme>
@@ -3020,28 +2942,28 @@ Warning: Undefined array key "et" in /usr/home/ManusiaBiasa/domains/manusiabiasa
 <programme start="20260405213000 +0000" stop="20260405220000 +0000" channel="Sky Sport Premier League HD.skyde">
     <title>PL: Netbusters, 23. Spieltag</title>
 </programme>
-<programme start="20260404230000 +0000" stop="20260405010000 +0000" channel="Sky Sport Tennis HD.skyde">
+<programme start="20260404220500 +0000" stop="20260405010000 +0000" channel="Sky Sport Tennis HD.skyde">
     <title>ATP 250: T. Tirante (ARG) - R. Burruchaga (ARG), Fayez Sarofim &amp; Co U.S. Men&#039;s Clay Court Championship in Houston (USA), Halbfinale 1</title>
 </programme>
 <programme start="20260405010000 +0000" stop="20260405020000 +0000" channel="Sky Sport Tennis HD.skyde">
     <title>ATP 1000: Review Miami</title>
 </programme>
-<programme start="20260405020000 +0000" stop="20260405040000 +0000" channel="Sky Sport Tennis HD.skyde">
+<programme start="20260405020000 +0000" stop="20260405044500 +0000" channel="Sky Sport Tennis HD.skyde">
     <title>WTA 500: J. Pegula (USA) - I. Jovic (USA), Credit One Charleston Open in Charleston (USA), Halbfinale 1</title>
 </programme>
-<programme start="20260405040000 +0000" stop="20260405060000 +0000" channel="Sky Sport Tennis HD.skyde">
+<programme start="20260405044500 +0000" stop="20260405061500 +0000" channel="Sky Sport Tennis HD.skyde">
     <title>WTA 500: M. Keys (USA) - Y. Starodubtseva (UKR), Credit One Charleston Open in Charleston (USA), Halbfinale 2</title>
 </programme>
-<programme start="20260405060000 +0000" stop="20260405063000 +0000" channel="Sky Sport Tennis HD.skyde">
+<programme start="20260405061500 +0000" stop="20260405064500 +0000" channel="Sky Sport Tennis HD.skyde">
     <title>WTA 1000: Review Miami</title>
 </programme>
-<programme start="20260405063000 +0000" stop="20260405073000 +0000" channel="Sky Sport Tennis HD.skyde">
+<programme start="20260405064500 +0000" stop="20260405074500 +0000" channel="Sky Sport Tennis HD.skyde">
     <title>ATP 1000: Review Miami</title>
 </programme>
-<programme start="20260405073000 +0000" stop="20260405093000 +0000" channel="Sky Sport Tennis HD.skyde">
+<programme start="20260405074500 +0000" stop="20260405090500 +0000" channel="Sky Sport Tennis HD.skyde">
     <title>ATP 250: T. Tirante (ARG) - R. Burruchaga (ARG), Fayez Sarofim &amp; Co U.S. Men&#039;s Clay Court Championship in Houston (USA), Halbfinale 1</title>
 </programme>
-<programme start="20260405093000 +0000" stop="20260405113000 +0000" channel="Sky Sport Tennis HD.skyde">
+<programme start="20260405090500 +0000" stop="20260405113000 +0000" channel="Sky Sport Tennis HD.skyde">
     <title>ATP 250: T. Paul (USA) -  F. Tiafoe (USA), Fayez Sarofim &amp; Co U.S. Men&#039;s Clay Court Championship in Houston (USA), Halbfinale 2</title>
 </programme>
 <programme start="20260405113000 +0000" stop="20260405173000 +0000" channel="Sky Sport Tennis HD.skyde">
@@ -3054,10 +2976,10 @@ Warning: Undefined array key "et" in /usr/home/ManusiaBiasa/domains/manusiabiasa
     <title>WTA 1000: Review Miami</title>
 </programme>
 <programme start="20260405183000 +0000" stop="20260405210000 +0000" channel="Sky Sport Tennis HD.skyde">
-    <title>Live WTA 500: Finale, Credit One Charleston Open in Charleston (USA), Finale</title>
+    <title>Live WTA 500: J. Pegula (USA), -  Y. Starodubtseva (UKR), Credit One Charleston Open in Charleston (USA), Finale</title>
 </programme>
 <programme start="20260405210000 +0000" stop="20260405220000 +0000" channel="Sky Sport Tennis HD.skyde">
-    <title>Live ATP 250: Finale, Fayez Sarofim &amp; Co U.S. Men&#039;s Clay Court Championship in Houston (USA), Finale</title>
+    <title>Live ATP 250: T. Paul (USA) - R. Burruchaga (ARG), Fayez Sarofim &amp; Co U.S. Men&#039;s Clay Court Championship in Houston (USA), Finale</title>
 </programme>
 <programme start="20260405000000 +0000" stop="20260405020000 +0000" channel="Sky Sport Top Event HD.skyde">
     <title>Live NBA: Detroit Pistons @ Philadelphia 76ers</title>
@@ -3102,10 +3024,10 @@ Warning: Undefined array key "et" in /usr/home/ManusiaBiasa/domains/manusiabiasa
     <title>Live NHL: Minnesota Wild @ Detroit Red Wings</title>
 </programme>
 <programme start="20260405200000 +0000" stop="20260405210000 +0000" channel="Sky Sport Top Event HD.skyde">
-    <title>Live WTA 500: Finale, Credit One Charleston Open in Charleston (USA), Finale</title>
+    <title>Live WTA 500: J. Pegula (USA), -  Y. Starodubtseva (UKR), Credit One Charleston Open in Charleston (USA), Finale</title>
 </programme>
 <programme start="20260405210000 +0000" stop="20260405220000 +0000" channel="Sky Sport Top Event HD.skyde">
-    <title>Live ATP 250: Finale, Fayez Sarofim &amp; Co U.S. Men&#039;s Clay Court Championship in Houston (USA), Finale</title>
+    <title>Live ATP 250: T. Paul (USA) - R. Burruchaga (ARG), Fayez Sarofim &amp; Co U.S. Men&#039;s Clay Court Championship in Houston (USA), Finale</title>
 </programme>
 <programme start="20260404220000 +0000" stop="20260404230000 +0000" channel="Sky Sport 1 HD.skyde">
     <title>Es folgt: LIVE NBA</title>
@@ -3117,25 +3039,25 @@ Warning: Undefined array key "et" in /usr/home/ManusiaBiasa/domains/manusiabiasa
     <title>Es folgt: LIVE ATP World Tour</title>
 </programme>
 <programme start="20260405193000 +0000" stop="20260406000000 +0000" channel="Sky Sport 1 HD.skyde">
-    <title>Live ATP 250: T. Paul (USA) - R. Burruchaga (ARG), Fayez Sarofim &amp; Co U.S. Men&#039;s Clay Court Championship in Houston (USA), Finale</title>
+    <title>Live ATP 250: tba - R. Burruchaga (ARG), Fayez Sarofim &amp; Co U.S. Men&#039;s Clay Court Championship in Houston (USA), Finale</title>
 </programme>
 <programme start="20260405135500 +0000" stop="20260405140000 +0000" channel="Sky Sport 3 HD.skyde">
     <title>Es folgt: LIVE ATP World Tour</title>
 </programme>
 <programme start="20260405140000 +0000" stop="20260405183000 +0000" channel="Sky Sport 3 HD.skyde">
-    <title>Live ATP 250: M. Trungeliti (ARG) - R. Jodar (ESP)  Grand Prix Hassan II in Marrakesch (MAR), Finale</title>
+    <title>Live ATP 250: M. Trungeliti (ARG) - R. Jodar (ESP), Grand Prix Hassan II in Marrakesch (MAR), Finale</title>
 </programme>
 <programme start="20260405164000 +0000" stop="20260405170000 +0000" channel="Sky Sport 4 HD.skyde">
     <title>Es folgt: LIVE NHL</title>
 </programme>
-<programme start="20260405170000 +0000" stop="20260405200000 +0000" channel="Sky Sport 4 HD.skyde">
+<programme start="20260405170000 +0000" stop="20260405220000 +0000" channel="Sky Sport 4 HD.skyde">
     <title>Live NHL: Minnesota Wild @ Detroit Red Wings</title>
 </programme>
 <programme start="20260405104000 +0000" stop="20260405110000 +0000" channel="Sky Sport 8 HD.skyde">
-    <title>Es folgt: ATP World Tour</title>
+    <title>Es folgt: LIVE ATP World Tour</title>
 </programme>
-<programme start="20260405110000 +0000" stop="20260405133000 +0000" channel="Sky Sport 8 HD.skyde">
-    <title>Live ATP 250: Finale, Tiriac Open in Bukarest (ROM), Finale</title>
+<programme start="20260405110000 +0000" stop="20260405153000 +0000" channel="Sky Sport 8 HD.skyde">
+    <title>Live ATP 250: D. Merida (ESP) - M. Navone (ARG), Tiriac Open in Bukarest (ROM), Finale</title>
 </programme>
 <programme start="20260404223000 +0000" stop="20260404231500 +0000" channel="SYFY HD.skyde">
     <title>Stargate SG-1</title>
@@ -3568,91 +3490,4 @@ Warning: Undefined array key "et" in /usr/home/ManusiaBiasa/domains/manusiabiasa
 </programme>
 <programme start="20260405202500 +0000" stop="20260405222000 +0000" channel="Warner TV Film HD.skyde">
     <title>Top Gun</title>
-</programme>
-<programme start="20260404220000 +0000" stop="20260405000000 +0000" channel="Warner TV Serie HD.skyde">
-    <title>Pacific Rim</title>
-</programme>
-<programme start="20260405000000 +0000" stop="20260405012500 +0000" channel="Warner TV Serie HD.skyde">
-    <title>Judge Dredd</title>
-</programme>
-<programme start="20260405012500 +0000" stop="20260405021000 +0000" channel="Warner TV Serie HD.skyde">
-    <title>NCIS: Los Angeles</title>
-</programme>
-<programme start="20260405021000 +0000" stop="20260405025000 +0000" channel="Warner TV Serie HD.skyde">
-    <title>NCIS: Los Angeles</title>
-</programme>
-<programme start="20260405025000 +0000" stop="20260405034000 +0000" channel="Warner TV Serie HD.skyde">
-    <title>Daktari</title>
-</programme>
-<programme start="20260405034000 +0000" stop="20260405043500 +0000" channel="Warner TV Serie HD.skyde">
-    <title>Daktari</title>
-</programme>
-<programme start="20260405043500 +0000" stop="20260405052000 +0000" channel="Warner TV Serie HD.skyde">
-    <title>Hudson &amp; Rex</title>
-</programme>
-<programme start="20260405052000 +0000" stop="20260405061000 +0000" channel="Warner TV Serie HD.skyde">
-    <title>Hudson &amp; Rex</title>
-</programme>
-<programme start="20260405061000 +0000" stop="20260405065500 +0000" channel="Warner TV Serie HD.skyde">
-    <title>Hudson &amp; Rex</title>
-</programme>
-<programme start="20260405065500 +0000" stop="20260405074000 +0000" channel="Warner TV Serie HD.skyde">
-    <title>NCIS</title>
-</programme>
-<programme start="20260405074000 +0000" stop="20260405082500 +0000" channel="Warner TV Serie HD.skyde">
-    <title>NCIS</title>
-</programme>
-<programme start="20260405082500 +0000" stop="20260405091000 +0000" channel="Warner TV Serie HD.skyde">
-    <title>NCIS</title>
-</programme>
-<programme start="20260405091000 +0000" stop="20260405095500 +0000" channel="Warner TV Serie HD.skyde">
-    <title>NCIS</title>
-</programme>
-<programme start="20260405095500 +0000" stop="20260405104500 +0000" channel="Warner TV Serie HD.skyde">
-    <title>NCIS</title>
-</programme>
-<programme start="20260405104500 +0000" stop="20260405112500 +0000" channel="Warner TV Serie HD.skyde">
-    <title>NCIS</title>
-</programme>
-<programme start="20260405112500 +0000" stop="20260405121500 +0000" channel="Warner TV Serie HD.skyde">
-    <title>NCIS</title>
-</programme>
-<programme start="20260405121500 +0000" stop="20260405125500 +0000" channel="Warner TV Serie HD.skyde">
-    <title>NCIS</title>
-</programme>
-<programme start="20260405125500 +0000" stop="20260405134000 +0000" channel="Warner TV Serie HD.skyde">
-    <title>NCIS</title>
-</programme>
-<programme start="20260405134000 +0000" stop="20260405143000 +0000" channel="Warner TV Serie HD.skyde">
-    <title>NCIS</title>
-</programme>
-<programme start="20260405143000 +0000" stop="20260405151500 +0000" channel="Warner TV Serie HD.skyde">
-    <title>Rizzoli and Isles</title>
-</programme>
-<programme start="20260405151500 +0000" stop="20260405160000 +0000" channel="Warner TV Serie HD.skyde">
-    <title>Rizzoli and Isles</title>
-</programme>
-<programme start="20260405160000 +0000" stop="20260405164500 +0000" channel="Warner TV Serie HD.skyde">
-    <title>Rizzoli and Isles</title>
-</programme>
-<programme start="20260405164500 +0000" stop="20260405173000 +0000" channel="Warner TV Serie HD.skyde">
-    <title>Rizzoli and Isles</title>
-</programme>
-<programme start="20260405173000 +0000" stop="20260405181500 +0000" channel="Warner TV Serie HD.skyde">
-    <title>Rizzoli and Isles</title>
-</programme>
-<programme start="20260405181500 +0000" stop="20260405190000 +0000" channel="Warner TV Serie HD.skyde">
-    <title>Rizzoli and Isles</title>
-</programme>
-<programme start="20260405190000 +0000" stop="20260405194500 +0000" channel="Warner TV Serie HD.skyde">
-    <title>Rizzoli and Isles</title>
-</programme>
-<programme start="20260405194500 +0000" stop="20260405203000 +0000" channel="Warner TV Serie HD.skyde">
-    <title>Rizzoli and Isles</title>
-</programme>
-<programme start="20260405203000 +0000" stop="20260405211500 +0000" channel="Warner TV Serie HD.skyde">
-    <title>Rizzoli and Isles</title>
-</programme>
-<programme start="20260405211500 +0000" stop="20260405220000 +0000" channel="Warner TV Serie HD.skyde">
-    <title>Rizzoli and Isles</title>
 </programme>
