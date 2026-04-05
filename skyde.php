@@ -3020,7 +3020,7 @@ Warning: Undefined array key "et" in /usr/home/ManusiaBiasa/domains/manusiabiasa
 <programme start="20260405213000 +0000" stop="20260405220000 +0000" channel="Sky Sport Premier League HD.skyde">
     <title>PL: Netbusters, 23. Spieltag</title>
 </programme>
-<programme start="20260404230000 +0000" stop="20260405010000 +0000" channel="Sky Sport Tennis HD.skyde">
+<programme start="20260404220500 +0000" stop="20260405010000 +0000" channel="Sky Sport Tennis HD.skyde">
     <title>ATP 250: T. Tirante (ARG) - R. Burruchaga (ARG), Fayez Sarofim &amp; Co U.S. Men&#039;s Clay Court Championship in Houston (USA), Halbfinale 1</title>
 </programme>
 <programme start="20260405010000 +0000" stop="20260405020000 +0000" channel="Sky Sport Tennis HD.skyde">
@@ -3054,10 +3054,10 @@ Warning: Undefined array key "et" in /usr/home/ManusiaBiasa/domains/manusiabiasa
     <title>WTA 1000: Review Miami</title>
 </programme>
 <programme start="20260405183000 +0000" stop="20260405210000 +0000" channel="Sky Sport Tennis HD.skyde">
-    <title>Live WTA 500: Finale, Credit One Charleston Open in Charleston (USA), Finale</title>
+    <title>Live WTA 500: J. Pegula (USA), -  Y. Starodubtseva (UKR), Credit One Charleston Open in Charleston (USA), Finale</title>
 </programme>
 <programme start="20260405210000 +0000" stop="20260405220000 +0000" channel="Sky Sport Tennis HD.skyde">
-    <title>Live ATP 250: Finale, Fayez Sarofim &amp; Co U.S. Men&#039;s Clay Court Championship in Houston (USA), Finale</title>
+    <title>Live ATP 250: T. Paul (USA) - R. Burruchaga (ARG), Fayez Sarofim &amp; Co U.S. Men&#039;s Clay Court Championship in Houston (USA), Finale</title>
 </programme>
 <programme start="20260405000000 +0000" stop="20260405020000 +0000" channel="Sky Sport Top Event HD.skyde">
     <title>Live NBA: Detroit Pistons @ Philadelphia 76ers</title>
@@ -3102,10 +3102,10 @@ Warning: Undefined array key "et" in /usr/home/ManusiaBiasa/domains/manusiabiasa
     <title>Live NHL: Minnesota Wild @ Detroit Red Wings</title>
 </programme>
 <programme start="20260405200000 +0000" stop="20260405210000 +0000" channel="Sky Sport Top Event HD.skyde">
-    <title>Live WTA 500: Finale, Credit One Charleston Open in Charleston (USA), Finale</title>
+    <title>Live WTA 500: J. Pegula (USA), -  Y. Starodubtseva (UKR), Credit One Charleston Open in Charleston (USA), Finale</title>
 </programme>
 <programme start="20260405210000 +0000" stop="20260405220000 +0000" channel="Sky Sport Top Event HD.skyde">
-    <title>Live ATP 250: tba - R. Burruchaga (ARG), Fayez Sarofim &amp; Co U.S. Men&#039;s Clay Court Championship in Houston (USA), Finale</title>
+    <title>Live ATP 250: T. Paul (USA) - R. Burruchaga (ARG), Fayez Sarofim &amp; Co U.S. Men&#039;s Clay Court Championship in Houston (USA), Finale</title>
 </programme>
 <programme start="20260404220000 +0000" stop="20260404230000 +0000" channel="Sky Sport 1 HD.skyde">
     <title>Es folgt: LIVE NBA</title>
@@ -3134,14 +3134,8 @@ Warning: Undefined array key "et" in /usr/home/ManusiaBiasa/domains/manusiabiasa
 <programme start="20260405104000 +0000" stop="20260405110000 +0000" channel="Sky Sport 8 HD.skyde">
     <title>Es folgt: LIVE ATP World Tour</title>
 </programme>
-<programme start="20260405110000 +0000" stop="20260405141500 +0000" channel="Sky Sport 8 HD.skyde">
+<programme start="20260405110000 +0000" stop="20260405153000 +0000" channel="Sky Sport 8 HD.skyde">
     <title>Live ATP 250: D. Merida (ESP) - M. Navone (ARG), Tiriac Open in Bukarest (ROM), Finale</title>
-</programme>
-<programme start="20260405141500 +0000" stop="20260405170000 +0000" channel="Sky Sport 8 HD.skyde">
-    <title>Es folgt Live Tennis WTA Tour ab 19:00</title>
-</programme>
-<programme start="20260405170000 +0000" stop="20260405213000 +0000" channel="Sky Sport 8 HD.skyde">
-    <title>Live WTA 500: J. Pegula (USA), -  Y. Starodubtseva (UKR), Credit One Charleston Open in Charleston (USA), Finale</title>
 </programme>
 <programme start="20260404223000 +0000" stop="20260404231500 +0000" channel="SYFY HD.skyde">
     <title>Stargate SG-1</title>
