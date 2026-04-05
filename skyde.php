@@ -2467,11 +2467,65 @@ Warning: Undefined array key "et" in /usr/home/ManusiaBiasa/domains/manusiabiasa
 <programme start="20260406212500 +0000" stop="20260406221500 +0000" channel="Sky Showcase HD.skyde">
     <title>Hubert und Staller</title>
 </programme>
-<programme start="20260404143000 +0000" stop="20260404145000 +0000" channel="Sky Sport Austria 2 HD.skyde">
-    <title>Es folgt: LIVE Admiral BL</title>
+<programme start="20260405220000 +0000" stop="20260405223000 +0000" channel="Sky Sport Austria 1 HD.skyde">
+    <title>Fußball: Querfeld. Eine Sky Sport Austria Dokumentation</title>
 </programme>
-<programme start="20260404145000 +0000" stop="20260404173000 +0000" channel="Sky Sport Austria 2 HD.skyde">
-    <title>Live Admiral BL: WSG Tirol - RZ Pellets WAC, 25. Runde</title>
+<programme start="20260405223000 +0000" stop="20260405230000 +0000" channel="Sky Sport Austria 1 HD.skyde">
+    <title>UEFA CL: Magazin</title>
+</programme>
+<programme start="20260405230000 +0000" stop="20260406010000 +0000" channel="Sky Sport Austria 1 HD.skyde">
+    <title>Admiral BL: TSV Egger Glas Hartberg - FC Red Bull Salzburg, 25. Runde</title>
+</programme>
+<programme start="20260406010000 +0000" stop="20260406030000 +0000" channel="Sky Sport Austria 1 HD.skyde">
+    <title>Admiral BL: LASK - FK Austria Wien, 25. Runde</title>
+</programme>
+<programme start="20260406030000 +0000" stop="20260406050000 +0000" channel="Sky Sport Austria 1 HD.skyde">
+    <title>Admiral BL: SK Rapid - SK Puntigamer Sturm Graz, 25. Runde</title>
+</programme>
+<programme start="20260406050000 +0000" stop="20260406053000 +0000" channel="Sky Sport Austria 1 HD.skyde">
+    <title>Admiral BL: ASAT Kompakt, 25. Runde</title>
+</programme>
+<programme start="20260406053000 +0000" stop="20260406060000 +0000" channel="Sky Sport Austria 1 HD.skyde">
+    <title>Fußball: Querfeld. Eine Sky Sport Austria Dokumentation</title>
+</programme>
+<programme start="20260406060000 +0000" stop="20260406063000 +0000" channel="Sky Sport Austria 1 HD.skyde">
+    <title>UEFA CL: Magazin</title>
+</programme>
+<programme start="20260406063000 +0000" stop="20260406070000 +0000" channel="Sky Sport Austria 1 HD.skyde">
+    <title>Admiral BL: ASAT Kompakt, 25. Runde</title>
+</programme>
+<programme start="20260406070000 +0000" stop="20260406080000 +0000" channel="Sky Sport Austria 1 HD.skyde">
+    <title>UEFA EL: UEL &amp; UECL Magazin</title>
+</programme>
+<programme start="20260406080000 +0000" stop="20260406083000 +0000" channel="Sky Sport Austria 1 HD.skyde">
+    <title>Admiral BL: ASAT Kompakt, 25. Runde</title>
+</programme>
+<programme start="20260406083000 +0000" stop="20260406090000 +0000" channel="Sky Sport Austria 1 HD.skyde">
+    <title>UEFA CL: Magazin</title>
+</programme>
+<programme start="20260406090000 +0000" stop="20260406170000 +0000" channel="Sky Sport Austria 1 HD.skyde">
+    <title>Live ATP 1000: Rolex Monte-Carlo Masters in Monte-Carlo, 2. Tag</title>
+</programme>
+<programme start="20260406170000 +0000" stop="20260406173000 +0000" channel="Sky Sport Austria 1 HD.skyde">
+    <title>Admiral BL: 90in30: SCR - STU, 25. Runde</title>
+</programme>
+<programme start="20260406173000 +0000" stop="20260406184500 +0000" channel="Sky Sport Austria 1 HD.skyde">
+    <title>Talk &amp; Tore: Fußball-Talk</title>
+</programme>
+<programme start="20260406184500 +0000" stop="20260406185500 +0000" channel="Sky Sport Austria 1 HD.skyde">
+    <title>Admiral BL: Pitchside: SCR - STU, 25. Runde</title>
+</programme>
+<programme start="20260406185500 +0000" stop="20260406192500 +0000" channel="Sky Sport Austria 1 HD.skyde">
+    <title>Admiral BL: ASAT Kompakt, 25. Runde</title>
+</programme>
+<programme start="20260406192500 +0000" stop="20260406202500 +0000" channel="Sky Sport Austria 1 HD.skyde">
+    <title>UEFA EL: UEL &amp; UECL Magazin</title>
+</programme>
+<programme start="20260406202500 +0000" stop="20260406205500 +0000" channel="Sky Sport Austria 1 HD.skyde">
+    <title>Fußball: Querfeld. Eine Sky Sport Austria Dokumentation</title>
+</programme>
+<programme start="20260406205500 +0000" stop="20260406221000 +0000" channel="Sky Sport Austria 1 HD.skyde">
+    <title>Talk &amp; Tore: Fußball-Talk</title>
 </programme>
 <programme start="20260405220000 +0000" stop="20260405230000 +0000" channel="Sky Sport Bundesliga HD.skyde">
     <title>BL Kompakt: 28.Spieltag</title>
@@ -2578,6 +2632,54 @@ Warning: Undefined array key "et" in /usr/home/ManusiaBiasa/domains/manusiabiasa
 <programme start="20260406070000 +0000" stop="20260406071500 +0000" channel="Sky Sport Bundesliga UHD.skyde">
     <title>Info: UHD</title>
 </programme>
+<programme start="20260405220000 +0000" stop="20260405230000 +0000" channel="Sky Sport F1 HD.skyde">
+    <title>F3: 1. Rennen - GP Australien</title>
+</programme>
+<programme start="20260405230000 +0000" stop="20260406000000 +0000" channel="Sky Sport F1 HD.skyde">
+    <title>F3: 2. Rennen - GP Australien</title>
+</programme>
+<programme start="20260406000000 +0000" stop="20260406010000 +0000" channel="Sky Sport F1 HD.skyde">
+    <title>F1 Academy: 1. Rennen - GP China</title>
+</programme>
+<programme start="20260406010000 +0000" stop="20260406020000 +0000" channel="Sky Sport F1 HD.skyde">
+    <title>F1 Academy: 2. Rennen - GP China</title>
+</programme>
+<programme start="20260406020000 +0000" stop="20260406040000 +0000" channel="Sky Sport F1 HD.skyde">
+    <title>F1: Rennen - GP China</title>
+</programme>
+<programme start="20260406040000 +0000" stop="20260406050000 +0000" channel="Sky Sport F1 HD.skyde">
+    <title>WRC: Highlights: Safari Rally Kenia</title>
+</programme>
+<programme start="20260406050000 +0000" stop="20260406070000 +0000" channel="Sky Sport F1 HD.skyde">
+    <title>IndyCar: Java House Grand Prix of Arlington</title>
+</programme>
+<programme start="20260406070000 +0000" stop="20260406090000 +0000" channel="Sky Sport F1 HD.skyde">
+    <title>F1: Rennen - GP Australien</title>
+</programme>
+<programme start="20260406090000 +0000" stop="20260406100000 +0000" channel="Sky Sport F1 HD.skyde">
+    <title>F1: Sprint - GP China</title>
+</programme>
+<programme start="20260406100000 +0000" stop="20260406120000 +0000" channel="Sky Sport F1 HD.skyde">
+    <title>F1: Rennen - GP China</title>
+</programme>
+<programme start="20260406120000 +0000" stop="20260406140000 +0000" channel="Sky Sport F1 HD.skyde">
+    <title>F1: Rennen - GP Japan</title>
+</programme>
+<programme start="20260406140000 +0000" stop="20260406160000 +0000" channel="Sky Sport F1 HD.skyde">
+    <title>IndyCar: Java House Grand Prix of Arlington</title>
+</programme>
+<programme start="20260406160000 +0000" stop="20260406170000 +0000" channel="Sky Sport F1 HD.skyde">
+    <title>F3: 1. Rennen - GP Australien</title>
+</programme>
+<programme start="20260406170000 +0000" stop="20260406180000 +0000" channel="Sky Sport F1 HD.skyde">
+    <title>F3: 2. Rennen - GP Australien</title>
+</programme>
+<programme start="20260406180000 +0000" stop="20260406200000 +0000" channel="Sky Sport F1 HD.skyde">
+    <title>F1: Rennen - GP Japan</title>
+</programme>
+<programme start="20260406200000 +0000" stop="20260406220000 +0000" channel="Sky Sport F1 HD.skyde">
+    <title>IndyCar: Java House Grand Prix of Arlington</title>
+</programme>
 <programme start="20260406010000 +0000" stop="20260406012500 +0000" channel="Sky Sport Golf HD.skyde">
     <title>LIV Golf: Highlights Finaltag Riad 2026</title>
 </programme>
@@ -2674,98 +2776,59 @@ Warning: Undefined array key "et" in /usr/home/ManusiaBiasa/domains/manusiabiasa
 <programme start="20260406200000 +0000" stop="20260406220000 +0000" channel="Sky Sport Mix HD.skyde">
     <title>DFB-Pokal Frauen: FC Bayern München - SGS Essen, Halbfinale</title>
 </programme>
-<programme start="20260403220000 +0000" stop="20260403230000 +0000" channel="Sky Sport News HD.skyde">
+<programme start="20260405220000 +0000" stop="20260405233000 +0000" channel="Sky Sport News HD.skyde">
+    <title>BL: Sky90 - Die Fußballdebatte</title>
+</programme>
+<programme start="20260405233000 +0000" stop="20260406000000 +0000" channel="Sky Sport News HD.skyde">
     <title>Sky Sport News: Nightline</title>
 </programme>
-<programme start="20260403230000 +0000" stop="20260403233000 +0000" channel="Sky Sport News HD.skyde">
-    <title>Meine Geschichte: Das Leben von Franziska van Almsick (Teil 1)</title>
+<programme start="20260406000000 +0000" stop="20260406010000 +0000" channel="Sky Sport News HD.skyde">
+    <title>BL Kompakt: 28.Spieltag</title>
 </programme>
-<programme start="20260403233000 +0000" stop="20260404003000 +0000" channel="Sky Sport News HD.skyde">
+<programme start="20260406010000 +0000" stop="20260406040000 +0000" channel="Sky Sport News HD.skyde">
     <title>Sky Sport News: Nightline</title>
 </programme>
-<programme start="20260404003000 +0000" stop="20260404010000 +0000" channel="Sky Sport News HD.skyde">
-    <title>Gesagt. Gemeint: Mit Cramer und Köhler</title>
-</programme>
-<programme start="20260404010000 +0000" stop="20260404040000 +0000" channel="Sky Sport News HD.skyde">
-    <title>Sky Sport News: Nightline</title>
-</programme>
-<programme start="20260404040000 +0000" stop="20260404060000 +0000" channel="Sky Sport News HD.skyde">
+<programme start="20260406040000 +0000" stop="20260406060000 +0000" channel="Sky Sport News HD.skyde">
     <title>Sky Sport News: Der Morgen</title>
 </programme>
-<programme start="20260404060000 +0000" stop="20260404070000 +0000" channel="Sky Sport News HD.skyde">
-    <title>BL: Matchplan: VFB - BVB, 28. Spieltag</title>
+<programme start="20260406060000 +0000" stop="20260406070000 +0000" channel="Sky Sport News HD.skyde">
+    <title>BL Kompakt: 28.Spieltag</title>
 </programme>
-<programme start="20260404070000 +0000" stop="20260404080000 +0000" channel="Sky Sport News HD.skyde">
-    <title>Live Sky Sport News: Guten Morgen Fans!</title>
+<programme start="20260406070000 +0000" stop="20260406083000 +0000" channel="Sky Sport News HD.skyde">
+    <title>BL: Sky90 - Die Fußballdebatte</title>
 </programme>
-<programme start="20260404080000 +0000" stop="20260404083000 +0000" channel="Sky Sport News HD.skyde">
-    <title>Sky Sport News: Primetime Spezial - Start zum Bundesliga-Endspurt</title>
+<programme start="20260406083000 +0000" stop="20260406090000 +0000" channel="Sky Sport News HD.skyde">
+    <title>Sky Sport News: Der Morgen</title>
 </programme>
-<programme start="20260404083000 +0000" stop="20260404090000 +0000" channel="Sky Sport News HD.skyde">
-    <title>Sky Sport News: Guten Morgen Fans!</title>
+<programme start="20260406090000 +0000" stop="20260406100000 +0000" channel="Sky Sport News HD.skyde">
+    <title>Live Sky Sport News: Bayern-Abschlusstraining vor Real</title>
 </programme>
-<programme start="20260404090000 +0000" stop="20260404103000 +0000" channel="Sky Sport News HD.skyde">
-    <title>Live Sky Sport News: Guten Morgen Fans!</title>
+<programme start="20260406100000 +0000" stop="20260406130000 +0000" channel="Sky Sport News HD.skyde">
+    <title>Live Sky Sport News: Der Mittag</title>
 </programme>
-<programme start="20260404103000 +0000" stop="20260404110000 +0000" channel="Sky Sport News HD.skyde">
-    <title>Live 2. BL: Vorbericht: Samstags-Konferenz, 28. Spieltag</title>
+<programme start="20260406130000 +0000" stop="20260406160000 +0000" channel="Sky Sport News HD.skyde">
+    <title>Live Sky Sport News: Der Nachmittag</title>
 </programme>
-<programme start="20260404110000 +0000" stop="20260404120000 +0000" channel="Sky Sport News HD.skyde">
-    <title>BL: Matchplan: VFB - BVB, 28. Spieltag</title>
+<programme start="20260406160000 +0000" stop="20260406170000 +0000" channel="Sky Sport News HD.skyde">
+    <title>Live Transfer Update: Die Show XXL</title>
 </programme>
-<programme start="20260404120000 +0000" stop="20260404130000 +0000" channel="Sky Sport News HD.skyde">
-    <title>Live BL: tipico Countdown, 28. Spieltag</title>
+<programme start="20260406170000 +0000" stop="20260406180000 +0000" channel="Sky Sport News HD.skyde">
+    <title>Live BL: Glanzparade - Die Show mit Buschmann, Fuss und Wagner</title>
 </programme>
-<programme start="20260404130000 +0000" stop="20260404134500 +0000" channel="Sky Sport News HD.skyde">
-    <title>Live 2. BL Alle Spiele, alle Tore: Die Vodafone Highlight-Show, 28. Spieltag, Samstag</title>
+<programme start="20260406180000 +0000" stop="20260406183000 +0000" channel="Sky Sport News HD.skyde">
+    <title>Live Sky Sport News: Primetime</title>
 </programme>
-<programme start="20260404134500 +0000" stop="20260404141500 +0000" channel="Sky Sport News HD.skyde">
-    <title>Sky Sport News: Skylights</title>
+<programme start="20260406183000 +0000" stop="20260406200000 +0000" channel="Sky Sport News HD.skyde">
+    <title>Live Sky Sport News: Guten Abend Fans!</title>
 </programme>
-<programme start="20260404141500 +0000" stop="20260404150000 +0000" channel="Sky Sport News HD.skyde">
-    <title>2. BL Alle Spiele, alle Tore: Die Vodafone Highlight-Show, 28. Spieltag, Samstag</title>
-</programme>
-<programme start="20260404150000 +0000" stop="20260404153000 +0000" channel="Sky Sport News HD.skyde">
-    <title>Sky Sport News: Skylights</title>
-</programme>
-<programme start="20260404153000 +0000" stop="20260404160000 +0000" channel="Sky Sport News HD.skyde">
-    <title>Live BL: Kompakt - Alles in 30</title>
-</programme>
-<programme start="20260404160000 +0000" stop="20260404163000 +0000" channel="Sky Sport News HD.skyde">
-    <title>Live BL: Vorbericht: VFB - BVB, tipico Topspiel der Woche, 28. Spieltag</title>
-</programme>
-<programme start="20260404163000 +0000" stop="20260404170000 +0000" channel="Sky Sport News HD.skyde">
-    <title>Sky Sport News: Skylights</title>
-</programme>
-<programme start="20260404170000 +0000" stop="20260404173000 +0000" channel="Sky Sport News HD.skyde">
-    <title>BL: Kompakt - Alles in 30</title>
-</programme>
-<programme start="20260404173000 +0000" stop="20260404180000 +0000" channel="Sky Sport News HD.skyde">
+<programme start="20260406200000 +0000" stop="20260406203000 +0000" channel="Sky Sport News HD.skyde">
     <title>Live Sky Sport News: Top News</title>
 </programme>
-<programme start="20260404180000 +0000" stop="20260404183000 +0000" channel="Sky Sport News HD.skyde">
-    <title>Live 2. BL: Vorbericht: SGD - BSC, tipico Topspiel der Woche, 28. Spieltag</title>
+<programme start="20260406203000 +0000" stop="20260406213000 +0000" channel="Sky Sport News HD.skyde">
+    <title>Transfer Update: Die Show XXL</title>
 </programme>
-<programme start="20260404183000 +0000" stop="20260404190000 +0000" channel="Sky Sport News HD.skyde">
-    <title>Live Sky Sport News: Top News</title>
-</programme>
-<programme start="20260404190000 +0000" stop="20260404193000 +0000" channel="Sky Sport News HD.skyde">
-    <title>Sky Sport News: Skylights</title>
-</programme>
-<programme start="20260404193000 +0000" stop="20260404200000 +0000" channel="Sky Sport News HD.skyde">
-    <title>Live Sky Sport News: Top News</title>
-</programme>
-<programme start="20260404200000 +0000" stop="20260404203000 +0000" channel="Sky Sport News HD.skyde">
-    <title>Sky Sport News: Skylights</title>
-</programme>
-<programme start="20260404203000 +0000" stop="20260404210000 +0000" channel="Sky Sport News HD.skyde">
-    <title>Live Sky Sport News: Top News</title>
-</programme>
-<programme start="20260404210000 +0000" stop="20260404213000 +0000" channel="Sky Sport News HD.skyde">
-    <title>Sky Sport News: Skylights</title>
-</programme>
-<programme start="20260404213000 +0000" stop="20260404220000 +0000" channel="Sky Sport News HD.skyde">
-    <title>Sky Sport News: Nightline</title>
+<programme start="20260406213000 +0000" stop="20260406220000 +0000" channel="Sky Sport News HD.skyde">
+    <title>Live Sky Sport News: Late Night News</title>
 </programme>
 <programme start="20260405220000 +0000" stop="20260405223000 +0000" channel="Sky Sport Premier League HD.skyde">
     <title>PL: Netbusters, 24. Spieltag</title>
@@ -2897,7 +2960,7 @@ Warning: Undefined array key "et" in /usr/home/ManusiaBiasa/domains/manusiabiasa
     <title>ATP 1000: Review Miami</title>
 </programme>
 <programme start="20260406040000 +0000" stop="20260406063000 +0000" channel="Sky Sport Tennis HD.skyde">
-    <title>WTA 500: J. Pegula (USA) -  Y. Starodubtseva (UKR), Credit One Charleston Open in Charleston (USA), Finale</title>
+    <title>WTA 500: J. Pegula (USA), -  Y. Starodubtseva (UKR), Credit One Charleston Open in Charleston (USA), Finale</title>
 </programme>
 <programme start="20260406063000 +0000" stop="20260406090000 +0000" channel="Sky Sport Tennis HD.skyde">
     <title>ATP 250: T. Paul (USA) - R. Burruchaga (ARG), Fayez Sarofim &amp; Co U.S. Men&#039;s Clay Court Championship in Houston (USA), Finale</title>
@@ -2909,7 +2972,7 @@ Warning: Undefined array key "et" in /usr/home/ManusiaBiasa/domains/manusiabiasa
     <title>ATP 1000: Review Miami</title>
 </programme>
 <programme start="20260406180000 +0000" stop="20260406200000 +0000" channel="Sky Sport Tennis HD.skyde">
-    <title>ATP 1000: D. Altmaier (GER) - T. Machac (CZE), Rolex Monte-Carlo Masters in Monte-Carlo, 2. Tag</title>
+    <title>ATP 1000: Topspiel, Rolex Monte-Carlo Masters in Monte-Carlo, 2. Tag</title>
 </programme>
 <programme start="20260406200000 +0000" stop="20260406220000 +0000" channel="Sky Sport Tennis HD.skyde">
     <title>WTA 500: Topspiel, Upper Austria Ladies Linz in Linz (AUT), 1. Tag</title>
