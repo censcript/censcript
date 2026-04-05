@@ -2589,7 +2589,7 @@ Warning: Undefined array key "et" in /usr/home/ManusiaBiasa/domains/manusiabiasa
     <title>BL: SC Freiburg - FC Bayern München, 28. Spieltag</title>
 </programme>
 <programme start="20260405101000 +0000" stop="20260405103000 +0000" channel="Sky Sport Bundesliga 1 HD.skyde">
-    <title>Es folgt: 2. Bundesliga</title>
+    <title>Es folgt: LIVE 2. Bundesliga</title>
 </programme>
 <programme start="20260405103000 +0000" stop="20260405133000 +0000" channel="Sky Sport Bundesliga 1 HD.skyde">
     <title>Live 2. BL: Sonntags-Konferenz, 28. Spieltag</title>
@@ -2606,7 +2606,7 @@ Warning: Undefined array key "et" in /usr/home/ManusiaBiasa/domains/manusiabiasa
 <programme start="20260405160000 +0000" stop="20260405173000 +0000" channel="Sky Sport Bundesliga 1 HD.skyde">
     <title>Live BL: Sky90 - Die Fußballdebatte</title>
 </programme>
-<programme start="20260405173000 +0000" stop="20260405181500 +0000" channel="Sky Sport Bundesliga 1 HD.skyde">
+<programme start="20260405173000 +0000" stop="20260405184500 +0000" channel="Sky Sport Bundesliga 1 HD.skyde">
     <title>Live BL: Highlights XXL: SGE - KOE, 28. Spieltag</title>
 </programme>
 <programme start="20260405101000 +0000" stop="20260405103000 +0000" channel="Sky Sport Bundesliga 2 HD.skyde">

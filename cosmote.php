@@ -1,7 +1,3 @@
-<programme start="20260405120000 +0700" stop="20260405144000 +0700" channel="COSMOTE Sport 1 HD">
-    <title>Football: AS Roma - Bologna</title>
-    <desc>Live: Tidak</desc>
-</programme>
 <programme start="20260405144000 +0700" stop="20260405173000 +0700" channel="COSMOTE Sport 1 HD">
     <title>Football: FC Midtjylland - Nottingham F.</title>
     <desc>Live: Tidak</desc>
@@ -126,6 +122,10 @@
     <title>Football: SS Lazio - Parma</title>
     <desc>Live: Tidak</desc>
 </programme>
+<programme start="20260406151000 +0700" stop="20260406171000 +0700" channel="COSMOTE Sport 2 HD">
+    <title>Football: Cremonese - Bologna</title>
+    <desc>Live: Tidak</desc>
+</programme>
 <programme start="20260405140000 +0700" stop="20260405160000 +0700" channel="COSMOTE Sport 3 HD">
     <title>Football: FC Porto - Famalicao</title>
     <desc>Live: Tidak</desc>
@@ -198,8 +198,8 @@
     <title>Football: Al Ettifaq FC - Al-Qadsiah</title>
     <desc>Live: Tidak</desc>
 </programme>
-<programme start="20260405120000 +0700" stop="20260405142500 +0700" channel="COSMOTE Sport 4 HD">
-    <title>Basketball: AEK - Badalona</title>
+<programme start="20260406153000 +0700" stop="20260406173000 +0700" channel="COSMOTE Sport 3 HD">
+    <title>Football: Dundee - Celtic FC</title>
     <desc>Live: Tidak</desc>
 </programme>
 <programme start="20260405142500 +0700" stop="20260405162500 +0700" channel="COSMOTE Sport 4 HD">
@@ -260,10 +260,6 @@
 </programme>
 <programme start="20260406140000 +0700" stop="20260406162500 +0700" channel="COSMOTE Sport 4 HD">
     <title>Basketball: AEK - Badalona</title>
-    <desc>Live: Tidak</desc>
-</programme>
-<programme start="20260405131500 +0700" stop="20260405142000 +0700" channel="COSMOTE Sport 5 HD">
-    <title>WRC 2026</title>
     <desc>Live: Tidak</desc>
 </programme>
 <programme start="20260405142000 +0700" stop="20260405152500 +0700" channel="COSMOTE Sport 5 HD">
@@ -350,8 +346,8 @@
     <title>WRC 2026</title>
     <desc>Live: Tidak</desc>
 </programme>
-<programme start="20260405121000 +0700" stop="20260405143000 +0700" channel="COSMOTE Sport 6 HD">
-    <title>Premier Padel Tour 2025</title>
+<programme start="20260406154500 +0700" stop="20260406163000 +0700" channel="COSMOTE Sport 5 HD">
+    <title>WRC 2026</title>
     <desc>Live: Tidak</desc>
 </programme>
 <programme start="20260405143000 +0700" stop="20260405160000 +0700" channel="COSMOTE Sport 6 HD">
