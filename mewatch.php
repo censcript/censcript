@@ -497,7 +497,7 @@
         <title>End of Transmission</title>
     </programme>
     <programme start="20260405160000 +0000" stop="20260405160300 +0000" channel="CNA.mewatch">
-        <title>Headline News 2026/2027</title>
+        <title>Headline News</title>
     </programme>
     <programme start="20260405160300 +0000" stop="20260405170000 +0000" channel="CNA.mewatch">
         <title>CNA Tech Challenge - EP 3</title>
@@ -539,19 +539,19 @@
         <title>The Earthquake Detectives</title>
     </programme>
     <programme start="20260406030000 +0000" stop="20260406050000 +0000" channel="CNA.mewatch">
-        <title>(Live) Asia Now 2026/2027</title>
+        <title>(Live) Asia Now</title>
     </programme>
     <programme start="20260406050000 +0000" stop="20260406060000 +0000" channel="CNA.mewatch">
         <title>Concorde: The Untold Story - EP 1</title>
     </programme>
     <programme start="20260406060000 +0000" stop="20260406080000 +0000" channel="CNA.mewatch">
-        <title>(Live) Asia Now 2026/2027</title>
+        <title>(Live) Asia Now</title>
     </programme>
     <programme start="20260406080000 +0000" stop="20260406090000 +0000" channel="CNA.mewatch">
         <title>CNA Tech Challenge - EP 4</title>
     </programme>
     <programme start="20260406090000 +0000" stop="20260406090200 +0000" channel="CNA.mewatch">
-        <title>(Live) Headline News 2026/2027</title>
+        <title>(Live) Headline News</title>
     </programme>
     <programme start="20260406090200 +0000" stop="20260406100000 +0000" channel="CNA.mewatch">
         <title>When Titans Clash 11: Why US Allies Are Hedging Their Bets</title>
@@ -578,7 +578,7 @@
         <title>The Earthquake Detectives</title>
     </programme>
     <programme start="20260406160000 +0000" stop="20260406160300 +0000" channel="CNA.mewatch">
-        <title>Headline News 2026/2027</title>
+        <title>Headline News</title>
     </programme>
     <programme start="20260405160000 +0000" stop="20260406112000 +0000" channel="spl01.mewatch">
         <title>No Programme available now. Next Broadcast on 6th April, Monday 7.20pm. Singapore Premier League 2025/2026</title>

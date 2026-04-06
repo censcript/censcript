@@ -2383,13 +2383,10 @@
     <programme start="20260406080000 +0000" stop="20260406103000 +0000" channel="Hub Sports 2 HD.starhub">
         <title>Zuffa 05: Prelims: Cortes vs Garcia</title>
     </programme>
-    <programme start="20260406103000 +0000" stop="20260406123000 +0000" channel="Hub Sports 2 HD.starhub">
+    <programme start="20260406103000 +0000" stop="20260406133000 +0000" channel="Hub Sports 2 HD.starhub">
         <title>QF: West Ham United vs Leeds United AFC</title>
     </programme>
-    <programme start="20260406123000 +0000" stop="20260406130000 +0000" channel="Hub Sports 2 HD.starhub">
-        <title>#582</title>
-    </programme>
-    <programme start="20260406130000 +0000" stop="20260406160000 +0000" channel="Hub Sports 2 HD.starhub">
+    <programme start="20260406133000 +0000" stop="20260406160000 +0000" channel="Hub Sports 2 HD.starhub">
         <title>Zuffa 05: Cortes vs Garcia</title>
     </programme>
     <programme start="20260405151500 +0000" stop="20260405161500 +0000" channel="The Filipino Channel HD.starhub">
