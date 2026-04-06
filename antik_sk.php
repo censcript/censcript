@@ -17203,6 +17203,102 @@
   <programme start="20260408214500 +0000" stop="20260408224000 +0000" channel="TVP Polonia.webtv.sk">
     <title lang="id">Magazyn Ekspresu Reporterów (1077)</title>
   </programme>
+  <programme start="20260407220000 +0000" stop="20260407230000 +0000" channel="Current Time.webtv.sk">
+    <title lang="id">Человек имеет право</title>
+  </programme>
+  <programme start="20260407230000 +0000" stop="20260407233000 +0000" channel="Current Time.webtv.sk">
+    <title lang="id">Азия</title>
+  </programme>
+  <programme start="20260407233000 +0000" stop="20260408000000 +0000" channel="Current Time.webtv.sk">
+    <title lang="id">DW. В отличной форме</title>
+  </programme>
+  <programme start="20260408000000 +0000" stop="20260408020000 +0000" channel="Current Time.webtv.sk">
+    <title lang="id">Pеальное кино</title>
+  </programme>
+  <programme start="20260408020000 +0000" stop="20260408023000 +0000" channel="Current Time.webtv.sk">
+    <title lang="id">Наизнанку</title>
+  </programme>
+  <programme start="20260408023000 +0000" stop="20260408030000 +0000" channel="Current Time.webtv.sk">
+    <title lang="id">Неизвестная Pоссия</title>
+  </programme>
+  <programme start="20260408030000 +0000" stop="20260408040000 +0000" channel="Current Time.webtv.sk">
+    <title lang="id">Человек имеет право</title>
+  </programme>
+  <programme start="20260408040000 +0000" stop="20260408050000 +0000" channel="Current Time.webtv.sk">
+    <title lang="id">Настоящий сериал</title>
+  </programme>
+  <programme start="20260408050000 +0000" stop="20260408070000 +0000" channel="Current Time.webtv.sk">
+    <title lang="id">Pеальное кино</title>
+  </programme>
+  <programme start="20260408070000 +0000" stop="20260408073000 +0000" channel="Current Time.webtv.sk">
+    <title lang="id">Утро</title>
+  </programme>
+  <programme start="20260408073000 +0000" stop="20260408080000 +0000" channel="Current Time.webtv.sk">
+    <title lang="id">Лицом к событию</title>
+  </programme>
+  <programme start="20260408080000 +0000" stop="20260408083000 +0000" channel="Current Time.webtv.sk">
+    <title lang="id">Спецпроект.Док</title>
+  </programme>
+  <programme start="20260408083000 +0000" stop="20260408090000 +0000" channel="Current Time.webtv.sk">
+    <title lang="id">Неизвестная Pоссия</title>
+  </programme>
+  <programme start="20260408090000 +0000" stop="20260408100000 +0000" channel="Current Time.webtv.sk">
+    <title lang="id">Настоящий сериал</title>
+  </programme>
+  <programme start="20260408100000 +0000" stop="20260408103000 +0000" channel="Current Time.webtv.sk">
+    <title lang="id">Наизнанку</title>
+  </programme>
+  <programme start="20260408103000 +0000" stop="20260408110000 +0000" channel="Current Time.webtv.sk">
+    <title lang="id">DW. Global Us</title>
+  </programme>
+  <programme start="20260408110000 +0000" stop="20260408113000 +0000" channel="Current Time.webtv.sk">
+    <title lang="id">Азия</title>
+  </programme>
+  <programme start="20260408113000 +0000" stop="20260408120000 +0000" channel="Current Time.webtv.sk">
+    <title lang="id">Неизвестная Pоссия</title>
+  </programme>
+  <programme start="20260408120000 +0000" stop="20260408140000 +0000" channel="Current Time.webtv.sk">
+    <title lang="id">Pеальное кино</title>
+  </programme>
+  <programme start="20260408140000 +0000" stop="20260408143000 +0000" channel="Current Time.webtv.sk">
+    <title lang="id">Главное</title>
+  </programme>
+  <programme start="20260408143000 +0000" stop="20260408150000 +0000" channel="Current Time.webtv.sk">
+    <title lang="id">Крым.Pеалии</title>
+  </programme>
+  <programme start="20260408150000 +0000" stop="20260408153000 +0000" channel="Current Time.webtv.sk">
+    <title lang="id">За нашу свободу</title>
+  </programme>
+  <programme start="20260408153000 +0000" stop="20260408160000 +0000" channel="Current Time.webtv.sk">
+    <title lang="id">Азия</title>
+  </programme>
+  <programme start="20260408160000 +0000" stop="20260408163000 +0000" channel="Current Time.webtv.sk">
+    <title lang="id">Лицом к событию</title>
+  </programme>
+  <programme start="20260408163000 +0000" stop="20260408170000 +0000" channel="Current Time.webtv.sk">
+    <title lang="id">Азия 360</title>
+  </programme>
+  <programme start="20260408170000 +0000" stop="20260408173000 +0000" channel="Current Time.webtv.sk">
+    <title lang="id">Главное</title>
+  </programme>
+  <programme start="20260408173000 +0000" stop="20260408180000 +0000" channel="Current Time.webtv.sk">
+    <title lang="id">Детали</title>
+  </programme>
+  <programme start="20260408180000 +0000" stop="20260408200000 +0000" channel="Current Time.webtv.sk">
+    <title lang="id">Pеальное кино</title>
+  </programme>
+  <programme start="20260408200000 +0000" stop="20260408203000 +0000" channel="Current Time.webtv.sk">
+    <title lang="id">Лицом к событию</title>
+  </programme>
+  <programme start="20260408203000 +0000" stop="20260408210000 +0000" channel="Current Time.webtv.sk">
+    <title lang="id">DW. Global us</title>
+  </programme>
+  <programme start="20260408210000 +0000" stop="20260408213000 +0000" channel="Current Time.webtv.sk">
+    <title lang="id">За нашу свободу</title>
+  </programme>
+  <programme start="20260408213000 +0000" stop="20260408220000 +0000" channel="Current Time.webtv.sk">
+    <title lang="id">Pеальная история</title>
+  </programme>
   <programme start="20260407215000 +0000" stop="20260407224000 +0000" channel="Armenia 1 TV.webtv.sk">
     <title lang="id">Lets Cook Together</title>
   </programme>
