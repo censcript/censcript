@@ -677,103 +677,115 @@
 <title>ANTV</title>
 </programme>
 <programme start="20260405230000 +0000" stop="20260406010000 +0000" channel="RTV.vision">
-<title>Bread Barbershop</title>
+<title>RTV</title>
 </programme>
 <programme start="20260406010000 +0000" stop="20260406023000 +0000" channel="RTV.vision">
-<title>Grizzy And The Lemmings</title>
+<title>RTV</title>
 </programme>
 <programme start="20260406023000 +0000" stop="20260406033000 +0000" channel="RTV.vision">
-<title>BOBOIBOY</title>
+<title>RTV</title>
 </programme>
 <programme start="20260406033000 +0000" stop="20260406043000 +0000" channel="RTV.vision">
-<title>Blox Buster</title>
+<title>RTV</title>
 </programme>
 <programme start="20260406043000 +0000" stop="20260406050000 +0000" channel="RTV.vision">
-<title>Tawa Satwa</title>
+<title>RTV</title>
 </programme>
 <programme start="20260406050000 +0000" stop="20260406063000 +0000" channel="RTV.vision">
-<title>Smurfs</title>
+<title>RTV</title>
 </programme>
 <programme start="20260406063000 +0000" stop="20260406080000 +0000" channel="RTV.vision">
-<title>SUPER WINGS</title>
+<title>RTV</title>
 </programme>
-<programme start="20260406080000 +0000" stop="20260406100000 +0000" channel="RTV.vision">
-<title>EJEN ALI</title>
+<programme start="20260406080000 +0000" stop="20260406093000 +0000" channel="RTV.vision">
+<title>RTV</title>
 </programme>
-<programme start="20260406100000 +0000" stop="20260406103000 +0000" channel="RTV.vision">
-<title>Cabeon</title>
+<programme start="20260406093000 +0000" stop="20260406110000 +0000" channel="RTV.vision">
+<title>RTV</title>
 </programme>
-<programme start="20260406103000 +0000" stop="20260406123000 +0000" channel="RTV.vision">
-<title>BoBoiBoy Galaxy</title>
+<programme start="20260406110000 +0000" stop="20260406120000 +0000" channel="RTV.vision">
+<title>RTV</title>
 </programme>
-<programme start="20260406123000 +0000" stop="20260406143000 +0000" channel="RTV.vision">
-<title>Mechamato</title>
+<programme start="20260406120000 +0000" stop="20260406143000 +0000" channel="RTV.vision">
+<title>RTV</title>
 </programme>
 <programme start="20260406143000 +0000" stop="20260406150000 +0000" channel="RTV.vision">
-<title>Blox Buster</title>
+<title>RTV</title>
 </programme>
 <programme start="20260406150000 +0000" stop="20260406153000 +0000" channel="RTV.vision">
-<title>Terkepo-Kepo</title>
+<title>RTV</title>
 </programme>
 <programme start="20260406153000 +0000" stop="20260406160000 +0000" channel="RTV.vision">
-<title>Lensa Indonesia Malam</title>
+<title>RTV</title>
 </programme>
 <programme start="20260406160000 +0000" stop="20260406163000 +0000" channel="RTV.vision">
-<title>Ijin, Ndan!</title>
+<title>RTV</title>
 </programme>
 <programme start="20260406163000 +0000" stop="20260406170000 +0000" channel="RTV.vision">
-<title>STB (Sangat Tidak Biasa)</title>
+<title>RTV</title>
 </programme>
-<programme start="20260406170000 +0000" stop="20260406180000 +0000" channel="RTV.vision">
-<title>Di Ujung Rindu</title>
+<programme start="20260406170000 +0000" stop="20260406173000 +0000" channel="RTV.vision">
+<title>RTV</title>
+</programme>
+<programme start="20260406173000 +0000" stop="20260406180000 +0000" channel="RTV.vision">
+<title>RTV</title>
 </programme>
 <programme start="20260406180000 +0000" stop="20260406183000 +0000" channel="RTV.vision">
-<title>Cahaya Bagi Negeri</title>
+<title>RTV</title>
 </programme>
-<programme start="20260406183000 +0000" stop="20260406200000 +0000" channel="RTV.vision">
-<title>Movinesia</title>
+<programme start="20260406183000 +0000" stop="20260406190000 +0000" channel="RTV.vision">
+<title>RTV</title>
+</programme>
+<programme start="20260406190000 +0000" stop="20260406200000 +0000" channel="RTV.vision">
+<title>RTV</title>
 </programme>
 <programme start="20260406200000 +0000" stop="20260406203000 +0000" channel="RTV.vision">
-<title>Ustadz On The Road</title>
+<title>RTV</title>
 </programme>
-<programme start="20260406203000 +0000" stop="20260406213000 +0000" channel="RTV.vision">
-<title>Riko The Series</title>
+<programme start="20260406203000 +0000" stop="20260406210000 +0000" channel="RTV.vision">
+<title>RTV</title>
 </programme>
-<programme start="20260406213000 +0000" stop="20260406220000 +0000" channel="RTV.vision">
-<title>I&#039;m The Best Muslim!</title>
+<programme start="20260406210000 +0000" stop="20260406220000 +0000" channel="RTV.vision">
+<title>RTV</title>
 </programme>
 <programme start="20260406220000 +0000" stop="20260406230000 +0000" channel="RTV.vision">
-<title>MARSUPILAMI</title>
+<title>RTV</title>
 </programme>
-<programme start="20260406230000 +0000" stop="20260407010000 +0000" channel="RTV.vision">
-<title>Bread Barbershop</title>
+<programme start="20260406230000 +0000" stop="20260407003000 +0000" channel="RTV.vision">
+<title>RTV</title>
 </programme>
-<programme start="20260407010000 +0000" stop="20260407023000 +0000" channel="RTV.vision">
-<title>Grizzy And The Lemmings</title>
+<programme start="20260407003000 +0000" stop="20260407010000 +0000" channel="RTV.vision">
+<title>RTV</title>
 </programme>
-<programme start="20260407023000 +0000" stop="20260407033000 +0000" channel="RTV.vision">
-<title>BOBOIBOY</title>
+<programme start="20260407010000 +0000" stop="20260407013000 +0000" channel="RTV.vision">
+<title>RTV</title>
 </programme>
-<programme start="20260407033000 +0000" stop="20260407043000 +0000" channel="RTV.vision">
-<title>Blox Buster</title>
+<programme start="20260407013000 +0000" stop="20260407020000 +0000" channel="RTV.vision">
+<title>RTV</title>
 </programme>
-<programme start="20260407043000 +0000" stop="20260407050000 +0000" channel="RTV.vision">
-<title>Tawa Satwa</title>
+<programme start="20260407020000 +0000" stop="20260407023000 +0000" channel="RTV.vision">
+<title>RTV</title>
 </programme>
-<programme start="20260407050000 +0000" stop="20260407063000 +0000" channel="RTV.vision">
-<title>Smurfs</title>
+<programme start="20260407023000 +0000" stop="20260407043000 +0000" channel="RTV.vision">
+<title>RTV</title>
+</programme>
+<programme start="20260407043000 +0000" stop="20260407063000 +0000" channel="RTV.vision">
+<title>RTV</title>
 </programme>
 <programme start="20260407063000 +0000" stop="20260407080000 +0000" channel="RTV.vision">
-<title>SUPER WINGS</title>
+<title>RTV</title>
 </programme>
-<programme start="20260407080000 +0000" stop="20260407100000 +0000" channel="RTV.vision">
-<title>EJEN ALI</title>
+<programme start="20260407080000 +0000" stop="20260407090000 +0000" channel="RTV.vision">
+<title>RTV</title>
 </programme>
-<programme start="20260407100000 +0000" stop="20260407103000 +0000" channel="RTV.vision">
-<title>Cabeon</title>
+<programme start="20260407090000 +0000" stop="20260407093000 +0000" channel="RTV.vision">
+<title>RTV</title>
 </programme>
-<programme start="20260407103000 +0000" stop="20260407123000 +0000" channel="RTV.vision">
-<title>BoBoiBoy Galaxy</title>
+<programme start="20260407093000 +0000" stop="20260407110000 +0000" channel="RTV.vision">
+<title>RTV</title>
+</programme>
+<programme start="20260407110000 +0000" stop="20260407123000 +0000" channel="RTV.vision">
+<title>RTV</title>
 </programme>
 <programme start="20260405233000 +0000" stop="20260406013000 +0000" channel="TVOne.vision">
 <title>TV One</title>
@@ -1484,17 +1496,5 @@
 <title>TVRI</title>
 </programme>
 <programme start="20260406090000 +0000" stop="20260406110000 +0000" channel="TVRI.vision">
-<title>TVRI</title>
-</programme>
-<programme start="20260406110000 +0000" stop="20260406130000 +0000" channel="TVRI.vision">
-<title>TVRI</title>
-</programme>
-<programme start="20260406130000 +0000" stop="20260406150000 +0000" channel="TVRI.vision">
-<title>TVRI</title>
-</programme>
-<programme start="20260406150000 +0000" stop="20260406170000 +0000" channel="TVRI.vision">
-<title>TVRI</title>
-</programme>
-<programme start="20260406170000 +0000" stop="20260406190000 +0000" channel="TVRI.vision">
 <title>TVRI</title>
 </programme>

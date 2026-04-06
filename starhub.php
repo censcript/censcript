@@ -3935,13 +3935,13 @@
         <title>Space Jam</title>
     </programme>
     <programme start="20260406010000 +0000" stop="20260406020000 +0000" channel="HBO HD.starhub">
-        <title>Dtf St. Louis S1</title>
+        <title>The Denny’s Plan</title>
     </programme>
     <programme start="20260406020000 +0000" stop="20260406023000 +0000" channel="HBO HD.starhub">
-        <title>Rooster S1</title>
+        <title>Mr. Razzles</title>
     </programme>
     <programme start="20260406023000 +0000" stop="20260406030000 +0000" channel="HBO HD.starhub">
-        <title>The Comeback S3</title>
+        <title>Valerie Faces Reality</title>
     </programme>
     <programme start="20260406030000 +0000" stop="20260406045500 +0000" channel="HBO HD.starhub">
         <title>Hustle &amp; Flow</title>
@@ -3959,13 +3959,13 @@
         <title>A Minecraft Movie</title>
     </programme>
     <programme start="20260406130000 +0000" stop="20260406140000 +0000" channel="HBO HD.starhub">
-        <title>Dtf St. Louis S1</title>
+        <title>The Denny’s Plan</title>
     </programme>
     <programme start="20260406140000 +0000" stop="20260406143000 +0000" channel="HBO HD.starhub">
-        <title>Rooster S1</title>
+        <title>Mr. Razzles</title>
     </programme>
     <programme start="20260406143000 +0000" stop="20260406150000 +0000" channel="HBO HD.starhub">
-        <title>The Comeback S3</title>
+        <title>Valerie Faces Reality</title>
     </programme>
     <programme start="20260406150000 +0000" stop="20260406165500 +0000" channel="HBO HD.starhub">
         <title>American Made</title>
