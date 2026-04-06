@@ -6305,7 +6305,7 @@
     <title>Catatan Hati Seorang Istri</title>
 </programme>
 <programme start="20260406160000 +0000" stop="20260406163000 +0000" channel="Muslim TV.mncvision">
-    <title>Dilarang Menyanyi Di Kamar...</title>
+    <title>Ketika Ibu Harus Memilih</title>
 </programme>
 <programme start="20260405170000 +0000" stop="20260405171000 +0000" channel="NHK World.mncvision">
     <title>NHK Newsline</title>

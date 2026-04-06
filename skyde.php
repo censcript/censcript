@@ -2719,28 +2719,28 @@ Warning: Undefined array key "et" in /usr/home/ManusiaBiasa/domains/manusiabiasa
 <programme start="20260406180000 +0000" stop="20260406230000 +0000" channel="Sky Sport Golf HD.skyde">
     <title>The Masters: 4. Tag 2019 in Augusta, Georgia (USA)</title>
 </programme>
-<programme start="20260405220000 +0000" stop="20260405230000 +0000" channel="Sky Sport Mix HD.skyde">
-    <title>MotoGP: Highlights: GP USA</title>
-</programme>
-<programme start="20260405230000 +0000" stop="20260405233000 +0000" channel="Sky Sport Mix HD.skyde">
+<programme start="20260405220000 +0000" stop="20260405223000 +0000" channel="Sky Sport Mix HD.skyde">
     <title>NBA: On Fire</title>
 </programme>
-<programme start="20260405233000 +0000" stop="20260406021500 +0000" channel="Sky Sport Mix HD.skyde">
+<programme start="20260405223000 +0000" stop="20260405233000 +0000" channel="Sky Sport Mix HD.skyde">
+    <title>Live NBA: Showtime</title>
+</programme>
+<programme start="20260405233000 +0000" stop="20260406020000 +0000" channel="Sky Sport Mix HD.skyde">
     <title>Live NBA: LA Lakers @ Dallas Mavericks</title>
 </programme>
-<programme start="20260406021500 +0000" stop="20260406044000 +0000" channel="Sky Sport Mix HD.skyde">
+<programme start="20260406020000 +0000" stop="20260406043000 +0000" channel="Sky Sport Mix HD.skyde">
     <title>Live NBA: Houston Rockets @ Golden State Warriors</title>
 </programme>
-<programme start="20260406044000 +0000" stop="20260406051500 +0000" channel="Sky Sport Mix HD.skyde">
+<programme start="20260406043000 +0000" stop="20260406050000 +0000" channel="Sky Sport Mix HD.skyde">
     <title>NBA: Action</title>
 </programme>
-<programme start="20260406051500 +0000" stop="20260406071500 +0000" channel="Sky Sport Mix HD.skyde">
+<programme start="20260406050000 +0000" stop="20260406070000 +0000" channel="Sky Sport Mix HD.skyde">
     <title>NHL: Minnesota Wild @ Detroit Red Wings</title>
 </programme>
-<programme start="20260406071500 +0000" stop="20260406080500 +0000" channel="Sky Sport Mix HD.skyde">
+<programme start="20260406070000 +0000" stop="20260406080000 +0000" channel="Sky Sport Mix HD.skyde">
     <title>3. Liga: Alle Spiele, alle Tore, 31. Spieltag komplett</title>
 </programme>
-<programme start="20260406080500 +0000" stop="20260406090000 +0000" channel="Sky Sport Mix HD.skyde">
+<programme start="20260406080000 +0000" stop="20260406090000 +0000" channel="Sky Sport Mix HD.skyde">
     <title>MotoGP: Highlights: GP USA</title>
 </programme>
 <programme start="20260406090000 +0000" stop="20260406091500 +0000" channel="Sky Sport Mix HD.skyde">
@@ -2766,6 +2766,9 @@ Warning: Undefined array key "et" in /usr/home/ManusiaBiasa/domains/manusiabiasa
 </programme>
 <programme start="20260406160000 +0000" stop="20260406163000 +0000" channel="Sky Sport Mix HD.skyde">
     <title>NHL: On the Fly</title>
+</programme>
+<programme start="20260406163000 +0000" stop="20260406173000 +0000" channel="Sky Sport Mix HD.skyde">
+    <title>NBA: Showtime</title>
 </programme>
 <programme start="20260406173000 +0000" stop="20260406200000 +0000" channel="Sky Sport Mix HD.skyde">
     <title>NBA: LA Lakers @ Dallas Mavericks</title>
@@ -2794,13 +2797,13 @@ Warning: Undefined array key "et" in /usr/home/ManusiaBiasa/domains/manusiabiasa
 <programme start="20260406070000 +0000" stop="20260406083000 +0000" channel="Sky Sport News HD.skyde">
     <title>BL: Sky90 - Die Fußballdebatte</title>
 </programme>
-<programme start="20260406083000 +0000" stop="20260406100000 +0000" channel="Sky Sport News HD.skyde">
+<programme start="20260406083000 +0000" stop="20260406090000 +0000" channel="Sky Sport News HD.skyde">
     <title>Sky Sport News: Der Morgen</title>
 </programme>
-<programme start="20260406100000 +0000" stop="20260406110000 +0000" channel="Sky Sport News HD.skyde">
-    <title>Sky Sport News: Bayern-Abschlusstraining vor Real</title>
+<programme start="20260406090000 +0000" stop="20260406100000 +0000" channel="Sky Sport News HD.skyde">
+    <title>Live Sky Sport News: Bayern-Abschlusstraining vor Real</title>
 </programme>
-<programme start="20260406110000 +0000" stop="20260406130000 +0000" channel="Sky Sport News HD.skyde">
+<programme start="20260406100000 +0000" stop="20260406130000 +0000" channel="Sky Sport News HD.skyde">
     <title>Live Sky Sport News: Der Mittag</title>
 </programme>
 <programme start="20260406130000 +0000" stop="20260406160000 +0000" channel="Sky Sport News HD.skyde">
@@ -2956,7 +2959,7 @@ Warning: Undefined array key "et" in /usr/home/ManusiaBiasa/domains/manusiabiasa
 <programme start="20260406030000 +0000" stop="20260406040000 +0000" channel="Sky Sport Tennis HD.skyde">
     <title>ATP 1000: Review Miami</title>
 </programme>
-<programme start="20260406040000 +0000" stop="20260406063000 +0000" channel="Sky Sport Tennis HD.skyde">
+<programme start="20260406040000 +0000" stop="20260406055500 +0000" channel="Sky Sport Tennis HD.skyde">
     <title>WTA 500: J. Pegula (USA) -  Y. Starodubtseva (UKR), Credit One Charleston Open in Charleston (USA), Finale</title>
 </programme>
 <programme start="20260406063000 +0000" stop="20260406090000 +0000" channel="Sky Sport Tennis HD.skyde">
@@ -2974,19 +2977,19 @@ Warning: Undefined array key "et" in /usr/home/ManusiaBiasa/domains/manusiabiasa
 <programme start="20260406200000 +0000" stop="20260406220000 +0000" channel="Sky Sport Tennis HD.skyde">
     <title>WTA 500: Topspiel, Upper Austria Ladies Linz in Linz (AUT), 1. Tag</title>
 </programme>
-<programme start="20260405220000 +0000" stop="20260406010000 +0000" channel="Sky Sport Top Event HD.skyde">
+<programme start="20260405224500 +0000" stop="20260406010000 +0000" channel="Sky Sport Top Event HD.skyde">
     <title>Live LPGA: Aramco Championship, 4. Tag in Las Vegas, NV (USA)</title>
 </programme>
-<programme start="20260406010000 +0000" stop="20260406020000 +0000" channel="Sky Sport Top Event HD.skyde">
+<programme start="20260406010000 +0000" stop="20260406021500 +0000" channel="Sky Sport Top Event HD.skyde">
     <title>Live NBA: LA Lakers @ Dallas Mavericks</title>
 </programme>
-<programme start="20260406020000 +0000" stop="20260406043000 +0000" channel="Sky Sport Top Event HD.skyde">
+<programme start="20260406021500 +0000" stop="20260406044000 +0000" channel="Sky Sport Top Event HD.skyde">
     <title>Live NBA: Houston Rockets @ Golden State Warriors</title>
 </programme>
-<programme start="20260406043000 +0000" stop="20260406053000 +0000" channel="Sky Sport Top Event HD.skyde">
+<programme start="20260406044000 +0000" stop="20260406053500 +0000" channel="Sky Sport Top Event HD.skyde">
     <title>3. Liga: Alle Spiele, alle Tore, 31. Spieltag komplett</title>
 </programme>
-<programme start="20260406053000 +0000" stop="20260406054500 +0000" channel="Sky Sport Top Event HD.skyde">
+<programme start="20260406053500 +0000" stop="20260406054500 +0000" channel="Sky Sport Top Event HD.skyde">
     <title>2. BL: Dein Spieltags-Sprint (28)</title>
 </programme>
 <programme start="20260406054500 +0000" stop="20260406060000 +0000" channel="Sky Sport Top Event HD.skyde">
