@@ -238,10 +238,6 @@
     <title>Basketball: Atlanta Hawks - New York Knicks</title>
     <desc>Live: Tidak</desc>
 </programme>
-<programme start="20260407010000 +0700" stop="20260407021500 +0700" channel="COSMOTE Sport 5 HD">
-    <title>2026 Grand Prix Show (L)</title>
-    <desc>Live: Ya</desc>
-</programme>
 <programme start="20260407021500 +0700" stop="20260407031500 +0700" channel="COSMOTE Sport 5 HD">
     <title>MotoGP 2026 - Highlights</title>
     <desc>Live: Tidak</desc>
@@ -346,12 +342,12 @@
     <title>Highlights: 2026 FIA World Championship</title>
     <desc>Live: Tidak</desc>
 </programme>
-<programme start="20260407003000 +0700" stop="20260407020500 +0700" channel="COSMOTE Sport 6 HD">
-    <title>Handball: Bergischer HC - VfL Gummersbach</title>
+<programme start="20260408030000 +0700" stop="20260408034500 +0700" channel="COSMOTE Sport 5 HD">
+    <title>WRC 2026</title>
     <desc>Live: Tidak</desc>
 </programme>
-<programme start="20260407020500 +0700" stop="20260407023500 +0700" channel="COSMOTE Sport 6 HD">
-    <title>Sports Classics: 2025 Outdoor Specials</title>
+<programme start="20260408034500 +0700" stop="20260408051500 +0700" channel="COSMOTE Sport 5 HD">
+    <title>WRC 2026</title>
     <desc>Live: Tidak</desc>
 </programme>
 <programme start="20260407023500 +0700" stop="20260407050500 +0700" channel="COSMOTE Sport 6 HD">
@@ -400,10 +396,6 @@
 </programme>
 <programme start="20260408010000 +0700" stop="20260408050000 +0700" channel="COSMOTE Sport 6 HD">
     <title>Tennis: ATP Masters 1000 2026</title>
-    <desc>Live: Tidak</desc>
-</programme>
-<programme start="20260407020000 +0700" stop="20260407024500 +0700" channel="COSMOTE Sport 7 HD">
-    <title>COSMOTESport7HD</title>
     <desc>Live: Tidak</desc>
 </programme>
 <programme start="20260407024500 +0700" stop="20260407044500 +0700" channel="COSMOTE Sport 7 HD">
