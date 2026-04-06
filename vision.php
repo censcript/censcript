@@ -628,9 +628,6 @@
 <programme start="20260406090000 +0000" stop="20260406110000 +0000" channel="ANTV.vision">
 <title>Vasudha</title>
 </programme>
-<programme start="20260406110000 +0000" stop="20260406123000 +0000" channel="ANTV.vision">
-<title>Perempuan Bergairah</title>
-</programme>
 <programme start="20260406123000 +0000" stop="20260406140000 +0000" channel="ANTV.vision">
 <title>Ratu Buaya Putih</title>
 </programme>
@@ -1497,4 +1494,7 @@
 </programme>
 <programme start="20260406113000 +0000" stop="20260406120000 +0000" channel="DAAI TV.vision">
 <title>Cerita Dan Rasa</title>
+</programme>
+<programme start="20260406120000 +0000" stop="20260406123000 +0000" channel="DAAI TV.vision">
+<title>Citraloka</title>
 </programme>
