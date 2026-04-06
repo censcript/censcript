@@ -2728,19 +2728,19 @@ Warning: Undefined array key "et" in /usr/home/ManusiaBiasa/domains/manusiabiasa
 <programme start="20260405233000 +0000" stop="20260406021500 +0000" channel="Sky Sport Mix HD.skyde">
     <title>Live NBA: LA Lakers @ Dallas Mavericks</title>
 </programme>
-<programme start="20260406021500 +0000" stop="20260406044000 +0000" channel="Sky Sport Mix HD.skyde">
+<programme start="20260406021500 +0000" stop="20260406043000 +0000" channel="Sky Sport Mix HD.skyde">
     <title>Live NBA: Houston Rockets @ Golden State Warriors</title>
 </programme>
-<programme start="20260406044000 +0000" stop="20260406051500 +0000" channel="Sky Sport Mix HD.skyde">
+<programme start="20260406043000 +0000" stop="20260406050000 +0000" channel="Sky Sport Mix HD.skyde">
     <title>NBA: Action</title>
 </programme>
-<programme start="20260406051500 +0000" stop="20260406071500 +0000" channel="Sky Sport Mix HD.skyde">
+<programme start="20260406050000 +0000" stop="20260406070000 +0000" channel="Sky Sport Mix HD.skyde">
     <title>NHL: Minnesota Wild @ Detroit Red Wings</title>
 </programme>
-<programme start="20260406071500 +0000" stop="20260406080500 +0000" channel="Sky Sport Mix HD.skyde">
+<programme start="20260406070000 +0000" stop="20260406080000 +0000" channel="Sky Sport Mix HD.skyde">
     <title>3. Liga: Alle Spiele, alle Tore, 31. Spieltag komplett</title>
 </programme>
-<programme start="20260406080500 +0000" stop="20260406090000 +0000" channel="Sky Sport Mix HD.skyde">
+<programme start="20260406080000 +0000" stop="20260406090000 +0000" channel="Sky Sport Mix HD.skyde">
     <title>MotoGP: Highlights: GP USA</title>
 </programme>
 <programme start="20260406090000 +0000" stop="20260406091500 +0000" channel="Sky Sport Mix HD.skyde">
@@ -2766,6 +2766,9 @@ Warning: Undefined array key "et" in /usr/home/ManusiaBiasa/domains/manusiabiasa
 </programme>
 <programme start="20260406160000 +0000" stop="20260406163000 +0000" channel="Sky Sport Mix HD.skyde">
     <title>NHL: On the Fly</title>
+</programme>
+<programme start="20260406163000 +0000" stop="20260406173000 +0000" channel="Sky Sport Mix HD.skyde">
+    <title>NBA: Showtime</title>
 </programme>
 <programme start="20260406173000 +0000" stop="20260406200000 +0000" channel="Sky Sport Mix HD.skyde">
     <title>NBA: LA Lakers @ Dallas Mavericks</title>
@@ -2975,9 +2978,9 @@ Warning: Undefined array key "et" in /usr/home/ManusiaBiasa/domains/manusiabiasa
     <title>ATP 1000: D. Altmaier (GER) - T. Machac (CZE), Rolex Monte-Carlo Masters in Monte-Carlo, 2. Tag</title>
 </programme>
 <programme start="20260406200000 +0000" stop="20260406220000 +0000" channel="Sky Sport Tennis HD.skyde">
-    <title>WTA 500: Topspiel, Upper Austria Ladies Linz in Linz (AUT), 1. Tag</title>
+    <title>WTA 500: T. Maria (GER) - S. Stephens (USA), Upper Austria Ladies Linz in Linz (AUT), 1. Tag</title>
 </programme>
-<programme start="20260405220000 +0000" stop="20260406010000 +0000" channel="Sky Sport Top Event HD.skyde">
+<programme start="20260405224500 +0000" stop="20260406010000 +0000" channel="Sky Sport Top Event HD.skyde">
     <title>Live LPGA: Aramco Championship, 4. Tag in Las Vegas, NV (USA)</title>
 </programme>
 <programme start="20260406010000 +0000" stop="20260406020000 +0000" channel="Sky Sport Top Event HD.skyde">
