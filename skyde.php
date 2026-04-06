@@ -1161,29 +1161,32 @@ Warning: Undefined array key "et" in /usr/home/ManusiaBiasa/domains/manusiabiasa
 <programme start="20260407213000 +0000" stop="20260407222500 +0000" channel="HISTORY Channel HD.skyde">
     <title>Terra X: Ein Tag in ...</title>
 </programme>
-<programme start="20260405220000 +0000" stop="20260405230000 +0000" channel="Jukebox.skyde">
-    <title>LOGOUT</title>
+<programme start="20260406220000 +0000" stop="20260407000000 +0000" channel="Jukebox.skyde">
+    <title>BACK TO ... 2013</title>
 </programme>
-<programme start="20260405230000 +0000" stop="20260406040000 +0000" channel="Jukebox.skyde">
+<programme start="20260407000000 +0000" stop="20260407010000 +0000" channel="Jukebox.skyde">
+    <title>SINGER SONGWRITER</title>
+</programme>
+<programme start="20260407010000 +0000" stop="20260407040000 +0000" channel="Jukebox.skyde">
     <title>NIGHTSHIFT</title>
 </programme>
-<programme start="20260406040000 +0000" stop="20260406100000 +0000" channel="Jukebox.skyde">
+<programme start="20260407040000 +0000" stop="20260407100000 +0000" channel="Jukebox.skyde">
     <title>MORNING GLORY</title>
 </programme>
-<programme start="20260406100000 +0000" stop="20260406120000 +0000" channel="Jukebox.skyde">
-    <title>JUKEBOX NEWS</title>
+<programme start="20260407100000 +0000" stop="20260407120000 +0000" channel="Jukebox.skyde">
+    <title>JUKEBOX GROOVE</title>
 </programme>
-<programme start="20260406120000 +0000" stop="20260406160000 +0000" channel="Jukebox.skyde">
+<programme start="20260407120000 +0000" stop="20260407160000 +0000" channel="Jukebox.skyde">
     <title>JUKEBOX TRENDS</title>
 </programme>
-<programme start="20260406160000 +0000" stop="20260406180000 +0000" channel="Jukebox.skyde">
+<programme start="20260407160000 +0000" stop="20260407180000 +0000" channel="Jukebox.skyde">
     <title>LOGOUT</title>
 </programme>
-<programme start="20260406180000 +0000" stop="20260406200000 +0000" channel="Jukebox.skyde">
+<programme start="20260407180000 +0000" stop="20260407200000 +0000" channel="Jukebox.skyde">
     <title>JUKEBOX TOP 50 MIX</title>
 </programme>
-<programme start="20260406200000 +0000" stop="20260406220000 +0000" channel="Jukebox.skyde">
-    <title>JUKEBOX TOP 25</title>
+<programme start="20260407200000 +0000" stop="20260407220000 +0000" channel="Jukebox.skyde">
+    <title>JUKEBOX DANCE</title>
 </programme>
 <programme start="20260406222000 +0000" stop="20260406230000 +0000" channel="Motorvision+.skyde">
     <title>FIM Enduro World Championship 2025</title>
@@ -2601,7 +2604,7 @@ Warning: Undefined array key "et" in /usr/home/ManusiaBiasa/domains/manusiabiasa
 <programme start="20260407084000 +0000" stop="20260407090000 +0000" channel="Sky Sport Austria 4 HD.skyde">
     <title>Es folgt: LIVE ATP World Tour</title>
 </programme>
-<programme start="20260407090000 +0000" stop="20260407190000 +0000" channel="Sky Sport Austria 4 HD.skyde">
+<programme start="20260407090000 +0000" stop="20260407170000 +0000" channel="Sky Sport Austria 4 HD.skyde">
     <title>Live ATP 1000: Rolex Monte-Carlo Masters in Monte-Carlo, 3. Tag</title>
 </programme>
 <programme start="20260406220000 +0000" stop="20260406223000 +0000" channel="Sky Sport Bundesliga HD.skyde">
@@ -3027,22 +3030,25 @@ Warning: Undefined array key "et" in /usr/home/ManusiaBiasa/domains/manusiabiasa
 <programme start="20260407210000 +0000" stop="20260407220000 +0000" channel="Sky Sport Premier League HD.skyde">
     <title>PL: 1 to 11 (Thomas Hitzlsperger)</title>
 </programme>
-<programme start="20260406230000 +0000" stop="20260407010000 +0000" channel="Sky Sport Tennis HD.skyde">
+<programme start="20260406220000 +0000" stop="20260407003000 +0000" channel="Sky Sport Tennis HD.skyde">
     <title>WTA 500: J. Pegula (USA) -  Y. Starodubtseva (UKR), Credit One Charleston Open in Charleston (USA), Finale</title>
 </programme>
-<programme start="20260407010000 +0000" stop="20260407013000 +0000" channel="Sky Sport Tennis HD.skyde">
+<programme start="20260407003000 +0000" stop="20260407013000 +0000" channel="Sky Sport Tennis HD.skyde">
+    <title>ATP 1000: Review Miami</title>
+</programme>
+<programme start="20260407013000 +0000" stop="20260407020000 +0000" channel="Sky Sport Tennis HD.skyde">
     <title>Tennis: Andrey Rublev - Breaking Back</title>
 </programme>
-<programme start="20260407013000 +0000" stop="20260407040000 +0000" channel="Sky Sport Tennis HD.skyde">
+<programme start="20260407020000 +0000" stop="20260407043000 +0000" channel="Sky Sport Tennis HD.skyde">
     <title>ATP 250: D. Merida (ESP) - M. Navone (ARG), Tiriac Open in Bukarest (ROM), Finale</title>
 </programme>
-<programme start="20260407040000 +0000" stop="20260407060000 +0000" channel="Sky Sport Tennis HD.skyde">
-    <title>WTA 500: T. Maria (GER) - S. Stephens (USA), Upper Austria Ladies Linz in Linz (AUT), 1. Tag</title>
+<programme start="20260407043000 +0000" stop="20260407063000 +0000" channel="Sky Sport Tennis HD.skyde">
+    <title>WTA 500: Topspiel, Upper Austria Ladies Linz in Linz (AUT), 1. Tag</title>
 </programme>
-<programme start="20260407060000 +0000" stop="20260407063000 +0000" channel="Sky Sport Tennis HD.skyde">
+<programme start="20260407063000 +0000" stop="20260407070000 +0000" channel="Sky Sport Tennis HD.skyde">
     <title>WTA 1000: Review Miami</title>
 </programme>
-<programme start="20260407063000 +0000" stop="20260407083000 +0000" channel="Sky Sport Tennis HD.skyde">
+<programme start="20260407070000 +0000" stop="20260407090000 +0000" channel="Sky Sport Tennis HD.skyde">
     <title>ATP 1000: D. Altmaier (GER) - T. Machac (CZE), Rolex Monte-Carlo Masters in Monte-Carlo, 2. Tag</title>
 </programme>
 <programme start="20260407090000 +0000" stop="20260407170000 +0000" channel="Sky Sport Tennis HD.skyde">
@@ -3052,7 +3058,7 @@ Warning: Undefined array key "et" in /usr/home/ManusiaBiasa/domains/manusiabiasa
     <title>Live WTA 500: Upper Austria Ladies Linz in Linz (AUT), 2. Tag</title>
 </programme>
 <programme start="20260407200000 +0000" stop="20260407220000 +0000" channel="Sky Sport Tennis HD.skyde">
-    <title>ATP 1000: C. Alcaraz (ESP) - S. Baez (ARG), Rolex Monte-Carlo Masters in Monte-Carlo, 3. Tag</title>
+    <title>ATP 1000: Topspiel, Rolex Monte-Carlo Masters in Monte-Carlo, 3. Tag</title>
 </programme>
 <programme start="20260406220000 +0000" stop="20260406230000 +0000" channel="Sky Sport Top Event HD.skyde">
     <title>Live NBA: Showtime</title>
@@ -3565,6 +3571,45 @@ Warning: Undefined array key "et" in /usr/home/ManusiaBiasa/domains/manusiabiasa
     <title>Ring</title>
 </programme>
 <programme start="20260407201000 +0000" stop="20260407220500 +0000" channel="Warner TV Film.skyde">
+    <title>Ring 2</title>
+</programme>
+<programme start="20260406222500 +0000" stop="20260407001000 +0000" channel="Warner TV Film HD.skyde">
+    <title>Sweet Home Alabama - Liebe auf Umwegen</title>
+</programme>
+<programme start="20260407001000 +0000" stop="20260407021500 +0000" channel="Warner TV Film HD.skyde">
+    <title>Sideways</title>
+</programme>
+<programme start="20260407021500 +0000" stop="20260407040000 +0000" channel="Warner TV Film HD.skyde">
+    <title>The Drop - Bargeld</title>
+</programme>
+<programme start="20260407040000 +0000" stop="20260407053000 +0000" channel="Warner TV Film HD.skyde">
+    <title>Police Academy 2 - Jetzt geht&#039;s erst richtig los</title>
+</programme>
+<programme start="20260407053000 +0000" stop="20260407073500 +0000" channel="Warner TV Film HD.skyde">
+    <title>The Best Exotic Marigold Hotel</title>
+</programme>
+<programme start="20260407073500 +0000" stop="20260407094000 +0000" channel="Warner TV Film HD.skyde">
+    <title>The Best Exotic Marigold Hotel 2</title>
+</programme>
+<programme start="20260407094000 +0000" stop="20260407111000 +0000" channel="Warner TV Film HD.skyde">
+    <title>Police Academy 6 - Widerstand zwecklos</title>
+</programme>
+<programme start="20260407111000 +0000" stop="20260407123500 +0000" channel="Warner TV Film HD.skyde">
+    <title>Police Academy 7 - Mission in Moskau</title>
+</programme>
+<programme start="20260407123500 +0000" stop="20260407144500 +0000" channel="Warner TV Film HD.skyde">
+    <title>Sideways</title>
+</programme>
+<programme start="20260407144500 +0000" stop="20260407163000 +0000" channel="Warner TV Film HD.skyde">
+    <title>Demolition - Lieben und Leben</title>
+</programme>
+<programme start="20260407163000 +0000" stop="20260407181500 +0000" channel="Warner TV Film HD.skyde">
+    <title>Der Morgen danach</title>
+</programme>
+<programme start="20260407181500 +0000" stop="20260407201000 +0000" channel="Warner TV Film HD.skyde">
+    <title>Ring</title>
+</programme>
+<programme start="20260407201000 +0000" stop="20260407220500 +0000" channel="Warner TV Film HD.skyde">
     <title>Ring 2</title>
 </programme>
 <programme start="20260406221500 +0000" stop="20260407000000 +0000" channel="Warner TV Serie HD.skyde">
