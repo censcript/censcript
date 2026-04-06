@@ -2527,96 +2527,6 @@ Warning: Undefined array key "et" in /usr/home/ManusiaBiasa/domains/manusiabiasa
 <programme start="20260406205500 +0000" stop="20260406221000 +0000" channel="Sky Sport Austria 1 HD.skyde">
     <title>Talk &amp; Tore: Fußball-Talk</title>
 </programme>
-<programme start="20260405220000 +0000" stop="20260405230000 +0000" channel="Sky Sport Bundesliga HD.skyde">
-    <title>BL Kompakt: 28.Spieltag</title>
-</programme>
-<programme start="20260405230000 +0000" stop="20260406000000 +0000" channel="Sky Sport Bundesliga HD.skyde">
-    <title>2. BL Kompakt: 28. Spieltag</title>
-</programme>
-<programme start="20260406000000 +0000" stop="20260406001500 +0000" channel="Sky Sport Bundesliga HD.skyde">
-    <title>BL: Dein Spieltags-Sprint (28)</title>
-</programme>
-<programme start="20260406001500 +0000" stop="20260406003000 +0000" channel="Sky Sport Bundesliga HD.skyde">
-    <title>2. BL: Dein Spieltags-Sprint (28)</title>
-</programme>
-<programme start="20260406003000 +0000" stop="20260406023000 +0000" channel="Sky Sport Bundesliga HD.skyde">
-    <title>2. BL: Holstein Kiel - Preußen Münster, 28. Spieltag</title>
-</programme>
-<programme start="20260406023000 +0000" stop="20260406024500 +0000" channel="Sky Sport Bundesliga HD.skyde">
-    <title>2. BL: Dein Spieltags-Sprint (28)</title>
-</programme>
-<programme start="20260406024500 +0000" stop="20260406030000 +0000" channel="Sky Sport Bundesliga HD.skyde">
-    <title>BL: Dein Spieltags-Sprint (28)</title>
-</programme>
-<programme start="20260406030000 +0000" stop="20260406040000 +0000" channel="Sky Sport Bundesliga HD.skyde">
-    <title>2. BL Kompakt: 28. Spieltag</title>
-</programme>
-<programme start="20260406040000 +0000" stop="20260406041500 +0000" channel="Sky Sport Bundesliga HD.skyde">
-    <title>BL: Dein Spieltags-Sprint (28)</title>
-</programme>
-<programme start="20260406041500 +0000" stop="20260406043000 +0000" channel="Sky Sport Bundesliga HD.skyde">
-    <title>2. BL: Dein Spieltags-Sprint (28)</title>
-</programme>
-<programme start="20260406043000 +0000" stop="20260406044500 +0000" channel="Sky Sport Bundesliga HD.skyde">
-    <title>BL: Highlights XXL: FCU - STP, 28. Spieltag</title>
-</programme>
-<programme start="20260406044500 +0000" stop="20260406050000 +0000" channel="Sky Sport Bundesliga HD.skyde">
-    <title>BL: Highlights XXL: SGE - KOE, 28. Spieltag</title>
-</programme>
-<programme start="20260406050000 +0000" stop="20260406070000 +0000" channel="Sky Sport Bundesliga HD.skyde">
-    <title>BL: 1. FC Union Berlin - FC St. Pauli, 28. Spieltag</title>
-</programme>
-<programme start="20260406070000 +0000" stop="20260406080000 +0000" channel="Sky Sport Bundesliga HD.skyde">
-    <title>2. BL: Alle Spiele, alle Stimmen, 28. Spieltag</title>
-</programme>
-<programme start="20260406080000 +0000" stop="20260406081500 +0000" channel="Sky Sport Bundesliga HD.skyde">
-    <title>BL: Highlights XXL: FCU - STP, 28. Spieltag</title>
-</programme>
-<programme start="20260406081500 +0000" stop="20260406083000 +0000" channel="Sky Sport Bundesliga HD.skyde">
-    <title>BL: Highlights XXL: SGE - KOE, 28. Spieltag</title>
-</programme>
-<programme start="20260406083000 +0000" stop="20260406100000 +0000" channel="Sky Sport Bundesliga HD.skyde">
-    <title>BL: Sky90 - Die Fußballdebatte</title>
-</programme>
-<programme start="20260406100000 +0000" stop="20260406120000 +0000" channel="Sky Sport Bundesliga HD.skyde">
-    <title>BL: Eintracht Frankfurt - 1. FC Köln, 28. Spieltag</title>
-</programme>
-<programme start="20260406120000 +0000" stop="20260406130000 +0000" channel="Sky Sport Bundesliga HD.skyde">
-    <title>BL Kompakt: 28.Spieltag</title>
-</programme>
-<programme start="20260406130000 +0000" stop="20260406150000 +0000" channel="Sky Sport Bundesliga HD.skyde">
-    <title>BL: Hamburger SV - FC Augsburg, 28. Spieltag</title>
-</programme>
-<programme start="20260406150000 +0000" stop="20260406153000 +0000" channel="Sky Sport Bundesliga HD.skyde">
-    <title>2. BL: 90in30: SGD - BSC, 28.Spieltag</title>
-</programme>
-<programme start="20260406153000 +0000" stop="20260406160000 +0000" channel="Sky Sport Bundesliga HD.skyde">
-    <title>BL: 90in30: VFB - BVB, 28. Spieltag</title>
-</programme>
-<programme start="20260406160000 +0000" stop="20260406163000 +0000" channel="Sky Sport Bundesliga HD.skyde">
-    <title>Meine Geschichte: Das Leben von Franziska van Almsick (Teil 1)</title>
-</programme>
-<programme start="20260406163000 +0000" stop="20260406173000 +0000" channel="Sky Sport Bundesliga HD.skyde">
-    <title>BL Kompakt: 28.Spieltag</title>
-</programme>
-<programme start="20260406173000 +0000" stop="20260406174500 +0000" channel="Sky Sport Bundesliga HD.skyde">
-    <title>2. BL: Torparade 28. Spieltag</title>
-</programme>
-<programme start="20260406174500 +0000" stop="20260406180000 +0000" channel="Sky Sport Bundesliga HD.skyde">
-    <title>BL: Torparade 28. Spieltag</title>
-</programme>
-<programme start="20260406180000 +0000" stop="20260406190000 +0000" channel="Sky Sport Bundesliga HD.skyde">
-    <title>Transfer Update: Die Show XXL</title>
-</programme>
-<programme start="20260406190000 +0000" stop="20260406200000 +0000" channel="Sky Sport Bundesliga HD.skyde">
-    <title>BL: Glanzparade - Die Show mit Buschmann, Fuss und Wagner</title>
-</programme>
-<programme start="20260406200000 +0000" stop="20260406210000 +0000" channel="Sky Sport Bundesliga HD.skyde">
-    <title>BL Kompakt: 28.Spieltag</title>
-</programme>
-<programme start="20260406210000 +0000" stop="20260406220000 +0000" channel="Sky Sport Bundesliga HD.skyde">
-    <title>BL: Glanzparade - Die Show mit Buschmann, Fuss und Wagner</title>
-</programme>
 <programme start="20260405230000 +0000" stop="20260406010000 +0000" channel="Sky Sport Bundesliga UHD.skyde">
     <title>BL: VfB Stuttgart - Borussia Dortmund, tipico Topspiel der Woche, 28. Spieltag</title>
 </programme>
@@ -2725,10 +2635,10 @@ Warning: Undefined array key "et" in /usr/home/ManusiaBiasa/domains/manusiabiasa
 <programme start="20260405230000 +0000" stop="20260405233000 +0000" channel="Sky Sport Mix HD.skyde">
     <title>NBA: On Fire</title>
 </programme>
-<programme start="20260405233000 +0000" stop="20260406021500 +0000" channel="Sky Sport Mix HD.skyde">
+<programme start="20260405233000 +0000" stop="20260406020000 +0000" channel="Sky Sport Mix HD.skyde">
     <title>Live NBA: LA Lakers @ Dallas Mavericks</title>
 </programme>
-<programme start="20260406021500 +0000" stop="20260406043000 +0000" channel="Sky Sport Mix HD.skyde">
+<programme start="20260406020000 +0000" stop="20260406043000 +0000" channel="Sky Sport Mix HD.skyde">
     <title>Live NBA: Houston Rockets @ Golden State Warriors</title>
 </programme>
 <programme start="20260406043000 +0000" stop="20260406050000 +0000" channel="Sky Sport Mix HD.skyde">
@@ -2978,7 +2888,7 @@ Warning: Undefined array key "et" in /usr/home/ManusiaBiasa/domains/manusiabiasa
     <title>ATP 1000: D. Altmaier (GER) - T. Machac (CZE), Rolex Monte-Carlo Masters in Monte-Carlo, 2. Tag</title>
 </programme>
 <programme start="20260406200000 +0000" stop="20260406220000 +0000" channel="Sky Sport Tennis HD.skyde">
-    <title>WTA 500: T. Maria (GER) - S. Stephens (USA), Upper Austria Ladies Linz in Linz (AUT), 1. Tag</title>
+    <title>WTA 500: Topspiel, Upper Austria Ladies Linz in Linz (AUT), 1. Tag</title>
 </programme>
 <programme start="20260405224500 +0000" stop="20260406010000 +0000" channel="Sky Sport Top Event HD.skyde">
     <title>Live LPGA: Aramco Championship, 4. Tag in Las Vegas, NV (USA)</title>
