@@ -6604,20 +6604,8 @@
     <programme start="20260406152600 +0000" stop="20260406170300 +0000" channel="TV5MONDE HD.starhub">
         <title>Riverboom</title>
     </programme>
-    <programme start="20260405160000 +0000" stop="20260405170000 +0000" channel="Hub Sports 1  HD.starhub">
-        <title>UCI Pro Series - Alula Tour Final H/Ls</title>
-    </programme>
-    <programme start="20260405170000 +0000" stop="20260405173000 +0000" channel="Hub Sports 1  HD.starhub">
-        <title>Season 3 Episode 1</title>
-    </programme>
-    <programme start="20260405173000 +0000" stop="20260405180000 +0000" channel="Hub Sports 1  HD.starhub">
-        <title>Season 3 Episode 2</title>
-    </programme>
-    <programme start="20260405180000 +0000" stop="20260405183000 +0000" channel="Hub Sports 1  HD.starhub">
-        <title>Season 3 Episode 3</title>
-    </programme>
-    <programme start="20260405183000 +0000" stop="20260405193000 +0000" channel="Hub Sports 1  HD.starhub">
-        <title>Dallas Open</title>
+    <programme start="20260405113000 +0000" stop="20260405193000 +0000" channel="Hub Sports 1  HD.starhub">
+        <title>Rolex Monte-Carlo Masters (1000) Day 1 Round 1</title>
     </programme>
     <programme start="20260405193000 +0000" stop="20260405213000 +0000" channel="Hub Sports 1  HD.starhub">
         <title>U.S. Men&#039;s Clay Court C&#039;ship (250) Final</title>
@@ -7918,10 +7906,10 @@
     <programme start="20260405193000 +0000" stop="20260405213000 +0000" channel="Asianet Movies.starhub">
         <title>Helen</title>
     </programme>
-    <programme start="20260405213000 +0000" stop="20260405233000 +0000" channel="Asianet Movies.starhub">
+    <programme start="20260405213000 +0000" stop="20260405231000 +0000" channel="Asianet Movies.starhub">
         <title>Kilipoyi</title>
     </programme>
-    <programme start="20260405233000 +0000" stop="20260406013000 +0000" channel="Asianet Movies.starhub">
+    <programme start="20260405231000 +0000" stop="20260406013000 +0000" channel="Asianet Movies.starhub">
         <title>Oh! Baby</title>
     </programme>
     <programme start="20260406013000 +0000" stop="20260406043000 +0000" channel="Asianet Movies.starhub">

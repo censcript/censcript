@@ -15187,7 +15187,7 @@
     <desc lang="en">Goals, saves and other superhuman feats that have graced the Bundesliga. Since inception in 1963, who stands atop the Bundesliga charts?</desc>
     <category lang="en">Sports</category>
   </programme>
-  <programme start="20260406140000 +0000" stop="20260406195500 +0000" channel="unifisports1.unifitv">
+  <programme start="20260406140000 +0000" stop="20260406193000 +0000" channel="unifisports1.unifitv">
     <title lang="en">UFC Fight Night: Moicano vs. Duncan - Prelims</title>
     <desc lang="en">As UFC returns to the Meta APEX to begin the second quarter on Saturday, April 5, it does so with a Fight Night event headlined by a lightweight matchup carrying a high potential for fireworks as Renato Moicano squares off with Chris “The Problem” Duncan. Currently stationed at No. 10 in the rankings, Moicano has crafted a reputation as an all-action fighter and notoriously tough out for anyone in the division.</desc>
     <category lang="en">Sports</category>
