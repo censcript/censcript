@@ -2797,13 +2797,13 @@ Warning: Undefined array key "et" in /usr/home/ManusiaBiasa/domains/manusiabiasa
 <programme start="20260406070000 +0000" stop="20260406083000 +0000" channel="Sky Sport News HD.skyde">
     <title>BL: Sky90 - Die Fußballdebatte</title>
 </programme>
-<programme start="20260406083000 +0000" stop="20260406090000 +0000" channel="Sky Sport News HD.skyde">
+<programme start="20260406083000 +0000" stop="20260406100000 +0000" channel="Sky Sport News HD.skyde">
     <title>Sky Sport News: Der Morgen</title>
 </programme>
-<programme start="20260406090000 +0000" stop="20260406100000 +0000" channel="Sky Sport News HD.skyde">
-    <title>Live Sky Sport News: Bayern-Abschlusstraining vor Real</title>
+<programme start="20260406100000 +0000" stop="20260406110000 +0000" channel="Sky Sport News HD.skyde">
+    <title>Sky Sport News: Bayern-Abschlusstraining vor Real</title>
 </programme>
-<programme start="20260406100000 +0000" stop="20260406130000 +0000" channel="Sky Sport News HD.skyde">
+<programme start="20260406110000 +0000" stop="20260406130000 +0000" channel="Sky Sport News HD.skyde">
     <title>Live Sky Sport News: Der Mittag</title>
 </programme>
 <programme start="20260406130000 +0000" stop="20260406160000 +0000" channel="Sky Sport News HD.skyde">
@@ -2950,16 +2950,16 @@ Warning: Undefined array key "et" in /usr/home/ManusiaBiasa/domains/manusiabiasa
 <programme start="20260406213000 +0000" stop="20260406233000 +0000" channel="Sky Sport Premier League HD.skyde">
     <title>EFL: Hull City - Coventry City, 41. Spieltag</title>
 </programme>
-<programme start="20260405224500 +0000" stop="20260406011000 +0000" channel="Sky Sport Tennis HD.skyde">
+<programme start="20260405220000 +0000" stop="20260406003000 +0000" channel="Sky Sport Tennis HD.skyde">
     <title>ATP 250: D. Merida (ESP) - M. Navone (ARG), Tiriac Open in Bukarest (ROM), Finale</title>
 </programme>
-<programme start="20260406011000 +0000" stop="20260406030000 +0000" channel="Sky Sport Tennis HD.skyde">
+<programme start="20260406003000 +0000" stop="20260406030000 +0000" channel="Sky Sport Tennis HD.skyde">
     <title>ATP 250: M. Trungeliti (ARG) - R. Jodar (ESP), Grand Prix Hassan II in Marrakesch (MAR), Finale</title>
 </programme>
 <programme start="20260406030000 +0000" stop="20260406040000 +0000" channel="Sky Sport Tennis HD.skyde">
     <title>ATP 1000: Review Miami</title>
 </programme>
-<programme start="20260406040000 +0000" stop="20260406055500 +0000" channel="Sky Sport Tennis HD.skyde">
+<programme start="20260406040000 +0000" stop="20260406063000 +0000" channel="Sky Sport Tennis HD.skyde">
     <title>WTA 500: J. Pegula (USA) -  Y. Starodubtseva (UKR), Credit One Charleston Open in Charleston (USA), Finale</title>
 </programme>
 <programme start="20260406063000 +0000" stop="20260406090000 +0000" channel="Sky Sport Tennis HD.skyde">
@@ -2972,7 +2972,7 @@ Warning: Undefined array key "et" in /usr/home/ManusiaBiasa/domains/manusiabiasa
     <title>ATP 1000: Review Miami</title>
 </programme>
 <programme start="20260406180000 +0000" stop="20260406200000 +0000" channel="Sky Sport Tennis HD.skyde">
-    <title>ATP 1000: D. Altmaier (GER) - T. Machac (CZE), Rolex Monte-Carlo Masters in Monte-Carlo, 2. Tag</title>
+    <title>ATP 1000: Topspiel, Rolex Monte-Carlo Masters in Monte-Carlo, 2. Tag</title>
 </programme>
 <programme start="20260406200000 +0000" stop="20260406220000 +0000" channel="Sky Sport Tennis HD.skyde">
     <title>WTA 500: Topspiel, Upper Austria Ladies Linz in Linz (AUT), 1. Tag</title>
