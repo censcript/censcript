@@ -50,6 +50,10 @@
     <title>UEFA Champions League Show 2025-26 (L)</title>
     <desc>Live: Ya</desc>
 </programme>
+<programme start="20260408053000 +0700" stop="20260408073000 +0700" channel="COSMOTE Sport 1 HD">
+    <title>Football: Rakow Czestochowa - ACF Fiorentina</title>
+    <desc>Live: Tidak</desc>
+</programme>
 <programme start="20260407034500 +0700" stop="20260407060000 +0700" channel="COSMOTE Sport 2 HD">
     <title>Football: Kifisia - Panserraikos</title>
     <desc>Live: Tidak</desc>
@@ -234,8 +238,8 @@
     <title>Basketball: Atlanta Hawks - New York Knicks</title>
     <desc>Live: Tidak</desc>
 </programme>
-<programme start="20260407034500 +0700" stop="20260407041500 +0700" channel="COSMOTE Sport 5 HD">
-    <title>WRC Magazine 2026</title>
+<programme start="20260408050500 +0700" stop="20260408063000 +0700" channel="COSMOTE Sport 4 HD">
+    <title>Pick n&#039; Roll</title>
     <desc>Live: Tidak</desc>
 </programme>
 <programme start="20260407041500 +0700" stop="20260407053000 +0700" channel="COSMOTE Sport 5 HD">
@@ -338,6 +342,10 @@
     <title>WRC 2026</title>
     <desc>Live: Tidak</desc>
 </programme>
+<programme start="20260408051500 +0700" stop="20260408062000 +0700" channel="COSMOTE Sport 5 HD">
+    <title>WRC</title>
+    <desc>Live: Tidak</desc>
+</programme>
 <programme start="20260407023500 +0700" stop="20260407050500 +0700" channel="COSMOTE Sport 6 HD">
     <title>Tennis: Francisco Cerundolo - Stefanos Tsitsipas</title>
     <desc>Live: Tidak</desc>
@@ -386,9 +394,9 @@
     <title>Tennis: ATP Masters 1000 2026</title>
     <desc>Live: Tidak</desc>
 </programme>
-<programme start="20260407024500 +0700" stop="20260407044500 +0700" channel="COSMOTE Sport 7 HD">
-    <title>Football: Casa Pia - SL Benfica (L)</title>
-    <desc>Live: Ya</desc>
+<programme start="20260408050000 +0700" stop="20260408091000 +0700" channel="COSMOTE Sport 6 HD">
+    <title>Tennis: ATP Masters 1000 2026</title>
+    <desc>Live: Tidak</desc>
 </programme>
 <programme start="20260407044500 +0700" stop="20260407054500 +0700" channel="COSMOTE Sport 7 HD">
     <title>COSMOTESport7HD</title>
