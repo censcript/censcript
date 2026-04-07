@@ -734,10 +734,10 @@
         <title>No Programme available now. Next Broadcast on 11th April, Saturday 3.10pm. FIBA 3x3 World Cup Qualifier 2026</title>
     </programme>
     <programme start="20260406160000 +0000" stop="20260407160000 +0000" channel="Live 6.mewatch">
-        <title>No programmes streaming LIVE at this moment</title>
+        <title>No Programme available now. Next Broadcast on 8th April, Wednesday 9.00am. Bank of Ningbo Badminton Asia Championships 2026</title>
     </programme>
-    <programme start="20260407160000 +0000" stop="20260408160000 +0000" channel="Live 6.mewatch">
-        <title>No programmes streaming LIVE at this moment</title>
+    <programme start="20260407160000 +0000" stop="20260408010000 +0000" channel="Live 6.mewatch">
+        <title>No Programme available now. Next Broadcast on 8th April, Wednesday 9.00am. Bank of Ningbo Badminton Asia Championships 2026</title>
     </programme>
     <programme start="20260406160000 +0000" stop="20260407160000 +0000" channel="Live 7.mewatch">
         <title>No programmes streaming LIVE at this moment</title>

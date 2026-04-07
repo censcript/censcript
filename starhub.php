@@ -2527,6 +2527,9 @@
     <programme start="20260407100000 +0000" stop="20260407160000 +0000" channel="Hub Premier 2 HD.starhub">
         <title>End of Transmission</title>
     </programme>
+    <programme start="20260406160000 +0000" stop="20260406220000 +0000" channel="Hub Sports 5 HD.starhub">
+        <title>End of Transmission</title>
+    </programme>
     <programme start="20260406220000 +0000" stop="20260407040000 +0000" channel="Hub Sports 5 HD.starhub">
         <title>End of Transmission</title>
     </programme>
@@ -3070,26 +3073,50 @@
     <programme start="20260407153000 +0000" stop="20260407164500 +0000" channel="Karisma.starhub">
         <title>ENERGI CINTA CINDERELLA MATRE</title>
     </programme>
-    <programme start="20260406160000 +0000" stop="20260406180000 +0000" channel="Bloomberg Originals.starhub">
-        <title>Balance of Power</title>
+    <programme start="20260406160000 +0000" stop="20260406163000 +0000" channel="Bloomberg Originals.starhub">
+        <title>How Liquid Death Turned Advertising on Its Head</title>
     </programme>
-    <programme start="20260406180000 +0000" stop="20260406210000 +0000" channel="Bloomberg Originals.starhub">
-        <title>Bloomberg BusinessWeek</title>
+    <programme start="20260406163000 +0000" stop="20260406170000 +0000" channel="Bloomberg Originals.starhub">
+        <title>How Marketers are Trying to Read Your Mind</title>
+    </programme>
+    <programme start="20260406170000 +0000" stop="20260406173000 +0000" channel="Bloomberg Originals.starhub">
+        <title>How Mattel Turned Decades-Old Toys Into Gold</title>
+    </programme>
+    <programme start="20260406173000 +0000" stop="20260406180000 +0000" channel="Bloomberg Originals.starhub">
+        <title>How McLaren Racing&#039;s CEO Runs a Top Formula 1 Team</title>
+    </programme>
+    <programme start="20260406180000 +0000" stop="20260406183000 +0000" channel="Bloomberg Originals.starhub">
+        <title>How AI Could Change the Advertising Business</title>
+    </programme>
+    <programme start="20260406183000 +0000" stop="20260406190000 +0000" channel="Bloomberg Originals.starhub">
+        <title>How an Underdog Sports League Got Millions Watching</title>
+    </programme>
+    <programme start="20260406190000 +0000" stop="20260406191000 +0000" channel="Bloomberg Originals.starhub">
+        <title>How Chinese Brands Are Going Global</title>
+    </programme>
+    <programme start="20260406191000 +0000" stop="20260406193000 +0000" channel="Bloomberg Originals.starhub">
+        <title>Tesla&#039;s Dangerous Doors</title>
+    </programme>
+    <programme start="20260406193000 +0000" stop="20260406200000 +0000" channel="Bloomberg Originals.starhub">
+        <title>A Dangerous Corner of the Global Shipping Industry</title>
+    </programme>
+    <programme start="20260406200000 +0000" stop="20260406203000 +0000" channel="Bloomberg Originals.starhub">
+        <title>Alexander Stubb, President of Finland</title>
+    </programme>
+    <programme start="20260406203000 +0000" stop="20260406210000 +0000" channel="Bloomberg Originals.starhub">
+        <title>Ray Dalio, Founder of Bridgewater Associates</title>
     </programme>
     <programme start="20260406210000 +0000" stop="20260406213000 +0000" channel="Bloomberg Originals.starhub">
-        <title>How New Magnets Could Power the Future</title>
+        <title>How to Run Your Family&#039;s $1.6 Trillion Empire</title>
     </programme>
     <programme start="20260406213000 +0000" stop="20260406220000 +0000" channel="Bloomberg Originals.starhub">
-        <title>Can Living Human Brain Cells Power AI?</title>
+        <title>Theresa May and the Brutality of Politics</title>
     </programme>
     <programme start="20260406220000 +0000" stop="20260406223000 +0000" channel="Bloomberg Originals.starhub">
-        <title>The Big Business of Drilling Deep Into the Earth</title>
+        <title>Inside Europe&#039;s Economic Crises With Christine Lagarde</title>
     </programme>
     <programme start="20260406223000 +0000" stop="20260406230000 +0000" channel="Bloomberg Originals.starhub">
-        <title>Why Money Is Flowing Into Geoengineering</title>
-    </programme>
-    <programme start="20260406230000 +0000" stop="20260406233000 +0000" channel="Bloomberg Originals.starhub">
-        <title>How Flying Cars Became a Billion-Dollar Bet</title>
+        <title>Ajay Banga on India, Migration and a Youth Jobs Time Bomb</title>
     </programme>
     <programme start="20260406230000 +0000" stop="20260407020000 +0000" channel="Bloomberg Originals.starhub">
         <title>Bloomberg Surveillance Radio</title>
@@ -3788,7 +3815,7 @@
         <title>World Weather</title>
     </programme>
     <programme start="20260406191500 +0000" stop="20260406200000 +0000" channel="NHK World Premium HD.starhub">
-        <title>Tsurube&#039;s Salute to Families &quot;Hakase Taro in Nagasaki City, Nagasaki Prefecture&quot;</title>
+        <title>Tsurube&#039;s Salute to Families &quot;Hakase Taro in Nagasaki City, Nagasaki Prefecture&quot;Part 2(R)</title>
     </programme>
     <programme start="20260406200000 +0000" stop="20260406201000 +0000" channel="NHK World Premium HD.starhub">
         <title>TV Exercise</title>
