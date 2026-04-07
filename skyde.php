@@ -969,54 +969,6 @@ Warning: Undefined array key "et" in /usr/home/ManusiaBiasa/domains/manusiabiasa
 <programme start="20260407213000 +0000" stop="20260407220000 +0000" channel="DAZN 1 HD.skyde">
     <title>Best of DAZN: Highlights</title>
 </programme>
-<programme start="20260406220000 +0000" stop="20260407060000 +0000" channel="DAZN 2 HD.skyde">
-    <title>Sendepause</title>
-</programme>
-<programme start="20260407060000 +0000" stop="20260407080000 +0000" channel="DAZN 2 HD.skyde">
-    <title>Bundesliga 25/26: SC Freiburg - FC Bayern München</title>
-</programme>
-<programme start="20260407080000 +0000" stop="20260407095500 +0000" channel="DAZN 2 HD.skyde">
-    <title>LaLiga 25/26: Atlético Madrid - FC Barcelona</title>
-</programme>
-<programme start="20260407095500 +0000" stop="20260407103500 +0000" channel="DAZN 2 HD.skyde">
-    <title>Darts Features: World Cup of Darts 2025 I Deutschland - England</title>
-</programme>
-<programme start="20260407103500 +0000" stop="20260407113000 +0000" channel="DAZN 2 HD.skyde">
-    <title>Darts Features: Darts-WM 2026 I Gabriel Clemens - Luke Humphries (3. Runde)</title>
-</programme>
-<programme start="20260407113000 +0000" stop="20260407133000 +0000" channel="DAZN 2 HD.skyde">
-    <title>Bundesliga 25/26: SC Freiburg - FC Bayern München</title>
-</programme>
-<programme start="20260407133000 +0000" stop="20260407152500 +0000" channel="DAZN 2 HD.skyde">
-    <title>FA Cup 25/26: Manchester City - FC Liverpool</title>
-</programme>
-<programme start="20260407152500 +0000" stop="20260407160000 +0000" channel="DAZN 2 HD.skyde">
-    <title>Best of DAZN: Highlights</title>
-</programme>
-<programme start="20260407160000 +0000" stop="20260407162500 +0000" channel="DAZN 2 HD.skyde">
-    <title>Let&#039;s go Ballin&#039;: Episode 1</title>
-</programme>
-<programme start="20260407162500 +0000" stop="20260407165000 +0000" channel="DAZN 2 HD.skyde">
-    <title>Let&#039;s go Ballin&#039;: Episode 2</title>
-</programme>
-<programme start="20260407165000 +0000" stop="20260407170500 +0000" channel="DAZN 2 HD.skyde">
-    <title>Best of DAZN: Highlights</title>
-</programme>
-<programme start="20260407170500 +0000" stop="20260407172500 +0000" channel="DAZN 2 HD.skyde">
-    <title>Let&#039;s go Ballin&#039;: Episode 3</title>
-</programme>
-<programme start="20260407172500 +0000" stop="20260407180000 +0000" channel="DAZN 2 HD.skyde">
-    <title>Best of DAZN: Highlights</title>
-</programme>
-<programme start="20260407180000 +0000" stop="20260407183500 +0000" channel="DAZN 2 HD.skyde">
-    <title>Google Pixel Frauen-Bundesliga Highlightshow 25/26: 22. Spieltag</title>
-</programme>
-<programme start="20260407183500 +0000" stop="20260407202500 +0000" channel="DAZN 2 HD.skyde">
-    <title>EHF European League 25/26: MT Melsungen - Fredericia HK</title>
-</programme>
-<programme start="20260407202500 +0000" stop="20260407220000 +0000" channel="DAZN 2 HD.skyde">
-    <title>VfB in Team: Folge 10 - Das Saisonfinale</title>
-</programme>
 <programme start="20260406230000 +0000" stop="20260407004000 +0000" channel="Heimatkanal.skyde">
     <title>Solange noch die Rosen blühn</title>
 </programme>
@@ -3633,10 +3585,10 @@ Warning: Undefined array key "et" in /usr/home/ManusiaBiasa/domains/manusiabiasa
 <programme start="20260407033500 +0000" stop="20260407035000 +0000" channel="Warner TV Serie HD.skyde">
     <title>Robot Chicken</title>
 </programme>
-<programme start="20260407035000 +0000" stop="20260407044000 +0000" channel="Warner TV Serie HD.skyde">
+<programme start="20260407035000 +0000" stop="20260407043500 +0000" channel="Warner TV Serie HD.skyde">
     <title>Daktari</title>
 </programme>
-<programme start="20260407044000 +0000" stop="20260407053500 +0000" channel="Warner TV Serie HD.skyde">
+<programme start="20260407043500 +0000" stop="20260407053500 +0000" channel="Warner TV Serie HD.skyde">
     <title>Daktari</title>
 </programme>
 <programme start="20260407053500 +0000" stop="20260407062500 +0000" channel="Warner TV Serie HD.skyde">
@@ -3669,16 +3621,16 @@ Warning: Undefined array key "et" in /usr/home/ManusiaBiasa/domains/manusiabiasa
 <programme start="20260407125500 +0000" stop="20260407134000 +0000" channel="Warner TV Serie HD.skyde">
     <title>NCIS</title>
 </programme>
-<programme start="20260407134000 +0000" stop="20260407142500 +0000" channel="Warner TV Serie HD.skyde">
+<programme start="20260407134000 +0000" stop="20260407143000 +0000" channel="Warner TV Serie HD.skyde">
     <title>NCIS</title>
 </programme>
-<programme start="20260407142500 +0000" stop="20260407151000 +0000" channel="Warner TV Serie HD.skyde">
+<programme start="20260407143000 +0000" stop="20260407151000 +0000" channel="Warner TV Serie HD.skyde">
     <title>NCIS</title>
 </programme>
-<programme start="20260407151000 +0000" stop="20260407155500 +0000" channel="Warner TV Serie HD.skyde">
+<programme start="20260407151000 +0000" stop="20260407160000 +0000" channel="Warner TV Serie HD.skyde">
     <title>NCIS</title>
 </programme>
-<programme start="20260407155500 +0000" stop="20260407164500 +0000" channel="Warner TV Serie HD.skyde">
+<programme start="20260407160000 +0000" stop="20260407164500 +0000" channel="Warner TV Serie HD.skyde">
     <title>NCIS</title>
 </programme>
 <programme start="20260407164500 +0000" stop="20260407173000 +0000" channel="Warner TV Serie HD.skyde">
@@ -3693,10 +3645,10 @@ Warning: Undefined array key "et" in /usr/home/ManusiaBiasa/domains/manusiabiasa
 <programme start="20260407190000 +0000" stop="20260407194500 +0000" channel="Warner TV Serie HD.skyde">
     <title>Hudson &amp; Rex</title>
 </programme>
-<programme start="20260407194500 +0000" stop="20260407203500 +0000" channel="Warner TV Serie HD.skyde">
+<programme start="20260407194500 +0000" stop="20260407203000 +0000" channel="Warner TV Serie HD.skyde">
     <title>Hudson &amp; Rex</title>
 </programme>
-<programme start="20260407203500 +0000" stop="20260407212000 +0000" channel="Warner TV Serie HD.skyde">
+<programme start="20260407203000 +0000" stop="20260407212000 +0000" channel="Warner TV Serie HD.skyde">
     <title>NCIS: Los Angeles</title>
 </programme>
 <programme start="20260407212000 +0000" stop="20260407220500 +0000" channel="Warner TV Serie HD.skyde">

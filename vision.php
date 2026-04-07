@@ -622,6 +622,12 @@
 <programme start="20260407090000 +0000" stop="20260407110000 +0000" channel="ANTV.vision">
 <title>Vasudha</title>
 </programme>
+<programme start="20260407163000 +0000" stop="20260407180000 +0000" channel="ANTV.vision">
+<title>Middle Man</title>
+</programme>
+<programme start="20260407180000 +0000" stop="20260407193000 +0000" channel="ANTV.vision">
+<title>Mercury Man</title>
+</programme>
 <programme start="20260407193000 +0000" stop="20260407210000 +0000" channel="ANTV.vision">
 <title>Out Of Inferno</title>
 </programme>
@@ -1491,10 +1497,4 @@
 </programme>
 <programme start="20260407090000 +0000" stop="20260407093000 +0000" channel="DAAI TV.vision">
 <title>Keliling Dunia Anak</title>
-</programme>
-<programme start="20260407093000 +0000" stop="20260407094500 +0000" channel="DAAI TV.vision">
-<title>Pinocchio &amp; Friends</title>
-</programme>
-<programme start="20260407094500 +0000" stop="20260407100000 +0000" channel="DAAI TV.vision">
-<title>Pinocchio &amp; Friends</title>
 </programme>
