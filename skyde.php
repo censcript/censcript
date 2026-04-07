@@ -525,16 +525,16 @@ Warning: Undefined array key "et" in /usr/home/ManusiaBiasa/domains/manusiabiasa
 <programme start="20260406234500 +0000" stop="20260406235000 +0000" channel="Cartoonito.skyde">
     <title>Grizzy und die Lemminge</title>
 </programme>
-<programme start="20260406235000 +0000" stop="20260406235500 +0000" channel="Cartoonito.skyde">
+<programme start="20260406235000 +0000" stop="20260407000000 +0000" channel="Cartoonito.skyde">
     <title>Grizzy und die Lemminge</title>
 </programme>
-<programme start="20260406235500 +0000" stop="20260407001000 +0000" channel="Cartoonito.skyde">
+<programme start="20260407000000 +0000" stop="20260407001000 +0000" channel="Cartoonito.skyde">
     <title>Grizzy und die Lemminge</title>
 </programme>
-<programme start="20260407001000 +0000" stop="20260407001500 +0000" channel="Cartoonito.skyde">
+<programme start="20260407001000 +0000" stop="20260407002000 +0000" channel="Cartoonito.skyde">
     <title>Grizzy und die Lemminge</title>
 </programme>
-<programme start="20260407001500 +0000" stop="20260407002500 +0000" channel="Cartoonito.skyde">
+<programme start="20260407002000 +0000" stop="20260407002500 +0000" channel="Cartoonito.skyde">
     <title>Grizzy und die Lemminge</title>
 </programme>
 <programme start="20260407002500 +0000" stop="20260407003000 +0000" channel="Cartoonito.skyde">
@@ -675,10 +675,10 @@ Warning: Undefined array key "et" in /usr/home/ManusiaBiasa/domains/manusiabiasa
 <programme start="20260407102500 +0000" stop="20260407104000 +0000" channel="Cartoonito.skyde">
     <title>Mr. Bean - Die Cartoon-Serie</title>
 </programme>
-<programme start="20260407104000 +0000" stop="20260407105000 +0000" channel="Cartoonito.skyde">
+<programme start="20260407104000 +0000" stop="20260407105500 +0000" channel="Cartoonito.skyde">
     <title>Mr. Bean - Die Cartoon-Serie</title>
 </programme>
-<programme start="20260407105000 +0000" stop="20260407111000 +0000" channel="Cartoonito.skyde">
+<programme start="20260407105500 +0000" stop="20260407111000 +0000" channel="Cartoonito.skyde">
     <title>Mr. Bean - Die Cartoon-Serie</title>
 </programme>
 <programme start="20260407111000 +0000" stop="20260407112000 +0000" channel="Cartoonito.skyde">
@@ -726,10 +726,10 @@ Warning: Undefined array key "et" in /usr/home/ManusiaBiasa/domains/manusiabiasa
 <programme start="20260407142000 +0000" stop="20260407143500 +0000" channel="Cartoonito.skyde">
     <title>Mr. Bean - Die Cartoon-Serie</title>
 </programme>
-<programme start="20260407143500 +0000" stop="20260407144500 +0000" channel="Cartoonito.skyde">
+<programme start="20260407143500 +0000" stop="20260407145000 +0000" channel="Cartoonito.skyde">
     <title>Mr. Bean - Die Cartoon-Serie</title>
 </programme>
-<programme start="20260407144500 +0000" stop="20260407145500 +0000" channel="Cartoonito.skyde">
+<programme start="20260407145000 +0000" stop="20260407145500 +0000" channel="Cartoonito.skyde">
     <title>Mr. Bean - Die Cartoon-Serie</title>
 </programme>
 <programme start="20260407145500 +0000" stop="20260407151500 +0000" channel="Cartoonito.skyde">
@@ -774,13 +774,13 @@ Warning: Undefined array key "et" in /usr/home/ManusiaBiasa/domains/manusiabiasa
 <programme start="20260407175500 +0000" stop="20260407181000 +0000" channel="Cartoonito.skyde">
     <title>Mr. Bean - Die Cartoon-Serie</title>
 </programme>
-<programme start="20260407181000 +0000" stop="20260407182000 +0000" channel="Cartoonito.skyde">
+<programme start="20260407181000 +0000" stop="20260407182500 +0000" channel="Cartoonito.skyde">
     <title>Mr. Bean - Die Cartoon-Serie</title>
 </programme>
-<programme start="20260407182000 +0000" stop="20260407183000 +0000" channel="Cartoonito.skyde">
+<programme start="20260407182500 +0000" stop="20260407183500 +0000" channel="Cartoonito.skyde">
     <title>Mr. Bean - Die Cartoon-Serie</title>
 </programme>
-<programme start="20260407183000 +0000" stop="20260407184500 +0000" channel="Cartoonito.skyde">
+<programme start="20260407183500 +0000" stop="20260407184500 +0000" channel="Cartoonito.skyde">
     <title>Mr. Bean - Die Cartoon-Serie</title>
 </programme>
 <programme start="20260407184500 +0000" stop="20260407185500 +0000" channel="Cartoonito.skyde">
@@ -807,10 +807,10 @@ Warning: Undefined array key "et" in /usr/home/ManusiaBiasa/domains/manusiabiasa
 <programme start="20260407194500 +0000" stop="20260407195500 +0000" channel="Cartoonito.skyde">
     <title>Grizzy und die Lemminge</title>
 </programme>
-<programme start="20260407195500 +0000" stop="20260407200500 +0000" channel="Cartoonito.skyde">
+<programme start="20260407195500 +0000" stop="20260407201000 +0000" channel="Cartoonito.skyde">
     <title>Batwheels</title>
 </programme>
-<programme start="20260407200500 +0000" stop="20260407202500 +0000" channel="Cartoonito.skyde">
+<programme start="20260407201000 +0000" stop="20260407202500 +0000" channel="Cartoonito.skyde">
     <title>Batwheels</title>
 </programme>
 <programme start="20260407202500 +0000" stop="20260407203500 +0000" channel="Cartoonito.skyde">
@@ -3147,10 +3147,10 @@ Warning: Undefined array key "et" in /usr/home/ManusiaBiasa/domains/manusiabiasa
 <programme start="20260406220000 +0000" stop="20260406230000 +0000" channel="Sky Sport 1 HD.skyde">
     <title>Live NBA: Showtime</title>
 </programme>
-<programme start="20260406230000 +0000" stop="20260407013000 +0000" channel="Sky Sport 1 HD.skyde">
+<programme start="20260406230000 +0000" stop="20260407014500 +0000" channel="Sky Sport 1 HD.skyde">
     <title>Live NBA: New York Knicks @ Atlanta Hawks</title>
 </programme>
-<programme start="20260407013000 +0000" stop="20260407080000 +0000" channel="Sky Sport 1 HD.skyde">
+<programme start="20260407014500 +0000" stop="20260407080000 +0000" channel="Sky Sport 1 HD.skyde">
     <title>Live NBA: Showtime - Post Show</title>
 </programme>
 <programme start="20260406220000 +0000" stop="20260406224500 +0000" channel="SYFY HD.skyde">
@@ -3633,10 +3633,10 @@ Warning: Undefined array key "et" in /usr/home/ManusiaBiasa/domains/manusiabiasa
 <programme start="20260407033500 +0000" stop="20260407035000 +0000" channel="Warner TV Serie HD.skyde">
     <title>Robot Chicken</title>
 </programme>
-<programme start="20260407035000 +0000" stop="20260407043500 +0000" channel="Warner TV Serie HD.skyde">
+<programme start="20260407035000 +0000" stop="20260407044000 +0000" channel="Warner TV Serie HD.skyde">
     <title>Daktari</title>
 </programme>
-<programme start="20260407043500 +0000" stop="20260407053500 +0000" channel="Warner TV Serie HD.skyde">
+<programme start="20260407044000 +0000" stop="20260407053500 +0000" channel="Warner TV Serie HD.skyde">
     <title>Daktari</title>
 </programme>
 <programme start="20260407053500 +0000" stop="20260407062500 +0000" channel="Warner TV Serie HD.skyde">
@@ -3669,16 +3669,16 @@ Warning: Undefined array key "et" in /usr/home/ManusiaBiasa/domains/manusiabiasa
 <programme start="20260407125500 +0000" stop="20260407134000 +0000" channel="Warner TV Serie HD.skyde">
     <title>NCIS</title>
 </programme>
-<programme start="20260407134000 +0000" stop="20260407143000 +0000" channel="Warner TV Serie HD.skyde">
+<programme start="20260407134000 +0000" stop="20260407142500 +0000" channel="Warner TV Serie HD.skyde">
     <title>NCIS</title>
 </programme>
-<programme start="20260407143000 +0000" stop="20260407151000 +0000" channel="Warner TV Serie HD.skyde">
+<programme start="20260407142500 +0000" stop="20260407151000 +0000" channel="Warner TV Serie HD.skyde">
     <title>NCIS</title>
 </programme>
-<programme start="20260407151000 +0000" stop="20260407160000 +0000" channel="Warner TV Serie HD.skyde">
+<programme start="20260407151000 +0000" stop="20260407155500 +0000" channel="Warner TV Serie HD.skyde">
     <title>NCIS</title>
 </programme>
-<programme start="20260407160000 +0000" stop="20260407164500 +0000" channel="Warner TV Serie HD.skyde">
+<programme start="20260407155500 +0000" stop="20260407164500 +0000" channel="Warner TV Serie HD.skyde">
     <title>NCIS</title>
 </programme>
 <programme start="20260407164500 +0000" stop="20260407173000 +0000" channel="Warner TV Serie HD.skyde">
@@ -3693,10 +3693,10 @@ Warning: Undefined array key "et" in /usr/home/ManusiaBiasa/domains/manusiabiasa
 <programme start="20260407190000 +0000" stop="20260407194500 +0000" channel="Warner TV Serie HD.skyde">
     <title>Hudson &amp; Rex</title>
 </programme>
-<programme start="20260407194500 +0000" stop="20260407203000 +0000" channel="Warner TV Serie HD.skyde">
+<programme start="20260407194500 +0000" stop="20260407203500 +0000" channel="Warner TV Serie HD.skyde">
     <title>Hudson &amp; Rex</title>
 </programme>
-<programme start="20260407203000 +0000" stop="20260407212000 +0000" channel="Warner TV Serie HD.skyde">
+<programme start="20260407203500 +0000" stop="20260407212000 +0000" channel="Warner TV Serie HD.skyde">
     <title>NCIS: Los Angeles</title>
 </programme>
 <programme start="20260407212000 +0000" stop="20260407220500 +0000" channel="Warner TV Serie HD.skyde">
