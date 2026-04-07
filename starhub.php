@@ -3818,7 +3818,7 @@
         <title>World Weather</title>
     </programme>
     <programme start="20260406191500 +0000" stop="20260406200000 +0000" channel="NHK World Premium HD.starhub">
-        <title>Tsurube&#039;s Salute to Families &quot;Hakase Taro in Nagasaki City, Nagasaki Prefecture&quot; Part 2 (R)</title>
+        <title>Tsurube&#039;s Salute to Families &quot;Hakase Taro in Nagasaki City, Nagasaki Prefecture&quot;</title>
     </programme>
     <programme start="20260406200000 +0000" stop="20260406201000 +0000" channel="NHK World Premium HD.starhub">
         <title>TV Exercise</title>
@@ -3857,7 +3857,7 @@
         <title>News &amp; Weather</title>
     </programme>
     <programme start="20260407010500 +0000" stop="20260407015000 +0000" channel="NHK World Premium HD.starhub">
-        <title>Tsurube&#039;s Salute to Families &quot;Hakase Taro in Nagasaki City, Nagasaki Prefecture&quot; Part 2 (R)</title>
+        <title>Tsurube&#039;s Salute to Families &quot;Hakase Taro in Nagasaki City, Nagasaki Prefecture&quot;</title>
     </programme>
     <programme start="20260407015000 +0000" stop="20260407021700 +0000" channel="NHK World Premium HD.starhub">
         <title>Today&#039;s Close-up (R)</title>
