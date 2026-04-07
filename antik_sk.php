@@ -4486,89 +4486,65 @@
   <programme start="20260409214000 +0000" stop="20260409225000 +0000" channel="Seznam.cz TV.webtv.sk">
     <title lang="id">Profesionálové III (11)</title>
   </programme>
-  <programme start="20260408212500 +0000" stop="20260408224000 +0000" channel="Barrandov.webtv.sk">
-    <title lang="id">Poklad z půdy</title>
+  <programme start="20260408212000 +0000" stop="20260408221500 +0000" channel="Kino Barrandov.webtv.sk">
+    <title lang="id">Nebezpečné vztahy</title>
   </programme>
-  <programme start="20260408224000 +0000" stop="20260408225000 +0000" channel="Barrandov.webtv.sk">
-    <title lang="id">Naše zprávy</title>
+  <programme start="20260408221500 +0000" stop="20260408225000 +0000" channel="Kino Barrandov.webtv.sk">
+    <title lang="id">Co mi nedá spát s Veronikou Žilkovou</title>
   </programme>
-  <programme start="20260408225000 +0000" stop="20260408230000 +0000" channel="Barrandov.webtv.sk">
-    <title lang="id">VIP svět</title>
-  </programme>
-  <programme start="20260408230000 +0000" stop="20260408234000 +0000" channel="Barrandov.webtv.sk">
-    <title lang="id">Exkluziv!</title>
-  </programme>
-  <programme start="20260408234000 +0000" stop="20260409012500 +0000" channel="Barrandov.webtv.sk">
-    <title lang="id">Na plac!</title>
-  </programme>
-  <programme start="20260409012500 +0000" stop="20260409022500 +0000" channel="Barrandov.webtv.sk">
+  <programme start="20260408225000 +0000" stop="20260408235500 +0000" channel="Kino Barrandov.webtv.sk">
     <title lang="id">Ostříháno</title>
   </programme>
-  <programme start="20260409022500 +0000" stop="20260409035500 +0000" channel="Barrandov.webtv.sk">
+  <programme start="20260408235500 +0000" stop="20260409002500 +0000" channel="Kino Barrandov.webtv.sk">
+    <title lang="id">Na plac!</title>
+  </programme>
+  <programme start="20260409002500 +0000" stop="20260409021500 +0000" channel="Kino Barrandov.webtv.sk">
+    <title lang="id">Exkluziv!</title>
+  </programme>
+  <programme start="20260409021500 +0000" stop="20260409034500 +0000" channel="Kino Barrandov.webtv.sk">
     <title lang="id">Nebezpečné vztahy</title>
   </programme>
-  <programme start="20260409035500 +0000" stop="20260409040500 +0000" channel="Barrandov.webtv.sk">
+  <programme start="20260409034500 +0000" stop="20260409035500 +0000" channel="Kino Barrandov.webtv.sk">
     <title lang="id">Co bude dnes k večeři?</title>
   </programme>
-  <programme start="20260409040500 +0000" stop="20260409050000 +0000" channel="Barrandov.webtv.sk">
-    <title lang="id">Nebezpečné vztahy live</title>
+  <programme start="20260409035500 +0000" stop="20260409050500 +0000" channel="Kino Barrandov.webtv.sk">
+    <title lang="id">Kurňa, co to je?</title>
   </programme>
-  <programme start="20260409050000 +0000" stop="20260409060000 +0000" channel="Barrandov.webtv.sk">
-    <title lang="id">Nebezpečné vztahy</title>
+  <programme start="20260409050500 +0000" stop="20260409062000 +0000" channel="Kino Barrandov.webtv.sk">
+    <title lang="id">Poklad z půdy</title>
   </programme>
-  <programme start="20260409060000 +0000" stop="20260409065500 +0000" channel="Barrandov.webtv.sk">
-    <title lang="id">Jak to dopadlo!?</title>
+  <programme start="20260409062000 +0000" stop="20260409072000 +0000" channel="Kino Barrandov.webtv.sk">
+    <title lang="id">Česká tajenka</title>
   </programme>
-  <programme start="20260409065500 +0000" stop="20260409074500 +0000" channel="Barrandov.webtv.sk">
-    <title lang="id">Nebezpečné vztahy s Honzou Musilem</title>
+  <programme start="20260409072000 +0000" stop="20260409081500 +0000" channel="Kino Barrandov.webtv.sk">
+    <title lang="id">Dvě tváře lásky (54)</title>
   </programme>
-  <programme start="20260409074500 +0000" stop="20260409105500 +0000" channel="Barrandov.webtv.sk">
+  <programme start="20260409081500 +0000" stop="20260409092500 +0000" channel="Kino Barrandov.webtv.sk">
+    <title lang="id">Popelka</title>
+  </programme>
+  <programme start="20260409092500 +0000" stop="20260409135000 +0000" channel="Kino Barrandov.webtv.sk">
     <title lang="id">Klenot TV</title>
   </programme>
-  <programme start="20260409105500 +0000" stop="20260409115500 +0000" channel="Barrandov.webtv.sk">
+  <programme start="20260409135000 +0000" stop="20260409144500 +0000" channel="Kino Barrandov.webtv.sk">
+    <title lang="id">Dvě tváře lásky (55)</title>
+  </programme>
+  <programme start="20260409144500 +0000" stop="20260409154500 +0000" channel="Kino Barrandov.webtv.sk">
     <title lang="id">Popelka</title>
   </programme>
-  <programme start="20260409115500 +0000" stop="20260409125000 +0000" channel="Barrandov.webtv.sk">
-    <title lang="id">Policie Delta</title>
+  <programme start="20260409154500 +0000" stop="20260409170000 +0000" channel="Kino Barrandov.webtv.sk">
+    <title lang="id">Kurňa, co to je?</title>
   </programme>
-  <programme start="20260409125000 +0000" stop="20260409135500 +0000" channel="Barrandov.webtv.sk">
-    <title lang="id">Záchranáři</title>
+  <programme start="20260409170000 +0000" stop="20260409181500 +0000" channel="Kino Barrandov.webtv.sk">
+    <title lang="id">Poklad z půdy</title>
   </programme>
-  <programme start="20260409135500 +0000" stop="20260409145500 +0000" channel="Barrandov.webtv.sk">
-    <title lang="id">Šťastná 7</title>
+  <programme start="20260409181500 +0000" stop="20260409200000 +0000" channel="Kino Barrandov.webtv.sk">
+    <title lang="id">Dinosauři útočí</title>
   </programme>
-  <programme start="20260409145500 +0000" stop="20260409155000 +0000" channel="Barrandov.webtv.sk">
-    <title lang="id">Policie Delta</title>
+  <programme start="20260409200000 +0000" stop="20260409210500 +0000" channel="Kino Barrandov.webtv.sk">
+    <title lang="id">Vtip za stovku!</title>
   </programme>
-  <programme start="20260409155000 +0000" stop="20260409164500 +0000" channel="Barrandov.webtv.sk">
-    <title lang="id">Popelka</title>
-  </programme>
-  <programme start="20260409164500 +0000" stop="20260409165500 +0000" channel="Barrandov.webtv.sk">
-    <title lang="id">Naše zprávy</title>
-  </programme>
-  <programme start="20260409165500 +0000" stop="20260409175500 +0000" channel="Barrandov.webtv.sk">
+  <programme start="20260409210500 +0000" stop="20260409220000 +0000" channel="Kino Barrandov.webtv.sk">
     <title lang="id">Nebezpečné vztahy</title>
-  </programme>
-  <programme start="20260409175500 +0000" stop="20260409180500 +0000" channel="Barrandov.webtv.sk">
-    <title lang="id">VIP svět</title>
-  </programme>
-  <programme start="20260409180500 +0000" stop="20260409190500 +0000" channel="Barrandov.webtv.sk">
-    <title lang="id">Josef Klíma: Jak jsem přežil devadesátky</title>
-  </programme>
-  <programme start="20260409190500 +0000" stop="20260409194000 +0000" channel="Barrandov.webtv.sk">
-    <title lang="id">Cyranův poloostrov (13)</title>
-  </programme>
-  <programme start="20260409194000 +0000" stop="20260409202000 +0000" channel="Barrandov.webtv.sk">
-    <title lang="id">Cyranův poloostrov (14)</title>
-  </programme>
-  <programme start="20260409202000 +0000" stop="20260409205500 +0000" channel="Barrandov.webtv.sk">
-    <title lang="id">Badatelé</title>
-  </programme>
-  <programme start="20260409205500 +0000" stop="20260409213500 +0000" channel="Barrandov.webtv.sk">
-    <title lang="id">Badatelé</title>
-  </programme>
-  <programme start="20260409213500 +0000" stop="20260409223500 +0000" channel="Barrandov.webtv.sk">
-    <title lang="id">Policie Delta</title>
   </programme>
   <programme start="20260408215500 +0000" stop="20260409015000 +0000" channel="Barrandov Krimi.webtv.sk">
     <title lang="id">Badatelé</title>
@@ -6757,168 +6733,6 @@
   <programme start="20260409214000 +0000" stop="20260409223500 +0000" channel="Love Nature.webtv.sk">
     <title lang="id">Zvířata a jejich komunikace (2)</title>
   </programme>
-  <programme start="20260408220000 +0000" stop="20260408221500 +0000" channel="Doktor TV.webtv.sk">
-    <title lang="id">Medi noviny</title>
-  </programme>
-  <programme start="20260408221500 +0000" stop="20260408223000 +0000" channel="Doktor TV.webtv.sk">
-    <title lang="id">Diagnóza</title>
-  </programme>
-  <programme start="20260408223000 +0000" stop="20260408230000 +0000" channel="Doktor TV.webtv.sk">
-    <title lang="id">Spravodajský blok</title>
-  </programme>
-  <programme start="20260408230000 +0000" stop="20260408233000 +0000" channel="Doktor TV.webtv.sk">
-    <title lang="id">Medzi nami mamami</title>
-  </programme>
-  <programme start="20260408233000 +0000" stop="20260409000000 +0000" channel="Doktor TV.webtv.sk">
-    <title lang="id">Terapia</title>
-  </programme>
-  <programme start="20260409000000 +0000" stop="20260409002500 +0000" channel="Doktor TV.webtv.sk">
-    <title lang="id">Geniálny život s Michaelou</title>
-  </programme>
-  <programme start="20260409002500 +0000" stop="20260409004500 +0000" channel="Doktor TV.webtv.sk">
-    <title lang="id">Dr. Labka</title>
-  </programme>
-  <programme start="20260409004500 +0000" stop="20260409010000 +0000" channel="Doktor TV.webtv.sk">
-    <title lang="id">Doktor online</title>
-  </programme>
-  <programme start="20260409010000 +0000" stop="20260409013000 +0000" channel="Doktor TV.webtv.sk">
-    <title lang="id">Curricullum v</title>
-  </programme>
-  <programme start="20260409013000 +0000" stop="20260409014500 +0000" channel="Doktor TV.webtv.sk">
-    <title lang="id">Rodinná poradňa</title>
-  </programme>
-  <programme start="20260409014500 +0000" stop="20260409020000 +0000" channel="Doktor TV.webtv.sk">
-    <title lang="id">Ako na to</title>
-  </programme>
-  <programme start="20260409020000 +0000" stop="20260409021500 +0000" channel="Doktor TV.webtv.sk">
-    <title lang="id">Medi noviny</title>
-  </programme>
-  <programme start="20260409021500 +0000" stop="20260409023000 +0000" channel="Doktor TV.webtv.sk">
-    <title lang="id">Zdravo s Kelom</title>
-  </programme>
-  <programme start="20260409023000 +0000" stop="20260409030000 +0000" channel="Doktor TV.webtv.sk">
-    <title lang="id">Spravodajský blok</title>
-  </programme>
-  <programme start="20260409030000 +0000" stop="20260409040000 +0000" channel="Doktor TV.webtv.sk">
-    <title lang="id">Medzi nami mamami</title>
-  </programme>
-  <programme start="20260409040000 +0000" stop="20260409044500 +0000" channel="Doktor TV.webtv.sk">
-    <title lang="id">Cesty pomoci</title>
-  </programme>
-  <programme start="20260409044500 +0000" stop="20260409050000 +0000" channel="Doktor TV.webtv.sk">
-    <title lang="id">Doktor online</title>
-  </programme>
-  <programme start="20260409050000 +0000" stop="20260409055000 +0000" channel="Doktor TV.webtv.sk">
-    <title lang="id">Ordinácia s MUDr. Eliškou</title>
-  </programme>
-  <programme start="20260409055000 +0000" stop="20260409060000 +0000" channel="Doktor TV.webtv.sk">
-    <title lang="id">Diagnóza</title>
-  </programme>
-  <programme start="20260409060000 +0000" stop="20260409061500 +0000" channel="Doktor TV.webtv.sk">
-    <title lang="id">Medi noviny</title>
-  </programme>
-  <programme start="20260409061500 +0000" stop="20260409063000 +0000" channel="Doktor TV.webtv.sk">
-    <title lang="id">Zdravo s Kelom</title>
-  </programme>
-  <programme start="20260409063000 +0000" stop="20260409070000 +0000" channel="Doktor TV.webtv.sk">
-    <title lang="id">Spravodajský blok</title>
-  </programme>
-  <programme start="20260409070000 +0000" stop="20260409080000 +0000" channel="Doktor TV.webtv.sk">
-    <title lang="id">Medzi nami mamami</title>
-  </programme>
-  <programme start="20260409080000 +0000" stop="20260409084500 +0000" channel="Doktor TV.webtv.sk">
-    <title lang="id">Cesty pomoci</title>
-  </programme>
-  <programme start="20260409084500 +0000" stop="20260409090000 +0000" channel="Doktor TV.webtv.sk">
-    <title lang="id">Doktor online</title>
-  </programme>
-  <programme start="20260409090000 +0000" stop="20260409095000 +0000" channel="Doktor TV.webtv.sk">
-    <title lang="id">Ordinácia s MUDr. Eliškou</title>
-  </programme>
-  <programme start="20260409095000 +0000" stop="20260409100000 +0000" channel="Doktor TV.webtv.sk">
-    <title lang="id">Diagnóza</title>
-  </programme>
-  <programme start="20260409100000 +0000" stop="20260409101500 +0000" channel="Doktor TV.webtv.sk">
-    <title lang="id">Medi noviny</title>
-  </programme>
-  <programme start="20260409101500 +0000" stop="20260409103500 +0000" channel="Doktor TV.webtv.sk">
-    <title lang="id">Doktor online</title>
-  </programme>
-  <programme start="20260409103500 +0000" stop="20260409104500 +0000" channel="Doktor TV.webtv.sk">
-    <title lang="id">Terapia</title>
-  </programme>
-  <programme start="20260409104500 +0000" stop="20260409110000 +0000" channel="Doktor TV.webtv.sk">
-    <title lang="id">Ako na to</title>
-  </programme>
-  <programme start="20260409110000 +0000" stop="20260409113000 +0000" channel="Doktor TV.webtv.sk">
-    <title lang="id">Medzi nami mamami</title>
-  </programme>
-  <programme start="20260409113000 +0000" stop="20260409120000 +0000" channel="Doktor TV.webtv.sk">
-    <title lang="id">Nezávislosť</title>
-  </programme>
-  <programme start="20260409120000 +0000" stop="20260409123000 +0000" channel="Doktor TV.webtv.sk">
-    <title lang="id">Mikrosvety v nás</title>
-  </programme>
-  <programme start="20260409123000 +0000" stop="20260409130000 +0000" channel="Doktor TV.webtv.sk">
-    <title lang="id">O menopauze</title>
-  </programme>
-  <programme start="20260409130000 +0000" stop="20260409140000 +0000" channel="Doktor TV.webtv.sk">
-    <title lang="id">Ordinácia s MUDr. Romanom</title>
-  </programme>
-  <programme start="20260409140000 +0000" stop="20260409141500 +0000" channel="Doktor TV.webtv.sk">
-    <title lang="id">Medi noviny</title>
-  </programme>
-  <programme start="20260409141500 +0000" stop="20260409143000 +0000" channel="Doktor TV.webtv.sk">
-    <title lang="id">Zdravo s Kelom</title>
-  </programme>
-  <programme start="20260409143000 +0000" stop="20260409150000 +0000" channel="Doktor TV.webtv.sk">
-    <title lang="id">Spravodajský blok</title>
-  </programme>
-  <programme start="20260409150000 +0000" stop="20260409153000 +0000" channel="Doktor TV.webtv.sk">
-    <title lang="id">Medzi nami mamami</title>
-  </programme>
-  <programme start="20260409153000 +0000" stop="20260409155000 +0000" channel="Doktor TV.webtv.sk">
-    <title lang="id">Dr. Labka</title>
-  </programme>
-  <programme start="20260409155000 +0000" stop="20260409160000 +0000" channel="Doktor TV.webtv.sk">
-    <title lang="id">Ako na to</title>
-  </programme>
-  <programme start="20260409160000 +0000" stop="20260409170000 +0000" channel="Doktor TV.webtv.sk">
-    <title lang="id">Moja diéta</title>
-  </programme>
-  <programme start="20260409170000 +0000" stop="20260409175000 +0000" channel="Doktor TV.webtv.sk">
-    <title lang="id">Ordinácia s MUDr. Minou</title>
-  </programme>
-  <programme start="20260409175000 +0000" stop="20260409180000 +0000" channel="Doktor TV.webtv.sk">
-    <title lang="id">Diagnóza</title>
-  </programme>
-  <programme start="20260409180000 +0000" stop="20260409181500 +0000" channel="Doktor TV.webtv.sk">
-    <title lang="id">Medi noviny</title>
-  </programme>
-  <programme start="20260409181500 +0000" stop="20260409183000 +0000" channel="Doktor TV.webtv.sk">
-    <title lang="id">Zdravo s Kelom</title>
-  </programme>
-  <programme start="20260409183000 +0000" stop="20260409190000 +0000" channel="Doktor TV.webtv.sk">
-    <title lang="id">Spravodajský blok</title>
-  </programme>
-  <programme start="20260409190000 +0000" stop="20260409193000 +0000" channel="Doktor TV.webtv.sk">
-    <title lang="id">Medzi nami mamami</title>
-  </programme>
-  <programme start="20260409193000 +0000" stop="20260409195000 +0000" channel="Doktor TV.webtv.sk">
-    <title lang="id">Dr. Labka</title>
-  </programme>
-  <programme start="20260409195000 +0000" stop="20260409200000 +0000" channel="Doktor TV.webtv.sk">
-    <title lang="id">Ako na to</title>
-  </programme>
-  <programme start="20260409200000 +0000" stop="20260409210000 +0000" channel="Doktor TV.webtv.sk">
-    <title lang="id">Moja diéta</title>
-  </programme>
-  <programme start="20260409210000 +0000" stop="20260409215000 +0000" channel="Doktor TV.webtv.sk">
-    <title lang="id">Ordinácia s MUDr. Minou</title>
-  </programme>
-  <programme start="20260409215000 +0000" stop="20260409220000 +0000" channel="Doktor TV.webtv.sk">
-    <title lang="id">Diagnóza</title>
-  </programme>
   <programme start="20260408220000 +0000" stop="20260408230000 +0000" channel="PARK TV.webtv.sk">
     <title lang="id">RELAX S PARK TV</title>
   </programme>
@@ -8785,6 +8599,51 @@
   <programme start="20260409200000 +0000" stop="20260409224500 +0000" channel="Cinemax.webtv.sk">
     <title lang="id">Nespoutaný Django</title>
   </programme>
+  <programme start="20260408204500 +0000" stop="20260408225500 +0000" channel="Cinemax 2.webtv.sk">
+    <title lang="id">Foxcatcher</title>
+  </programme>
+  <programme start="20260408225500 +0000" stop="20260409004000 +0000" channel="Cinemax 2.webtv.sk">
+    <title lang="id">Grindhouse: Planeta Teror</title>
+  </programme>
+  <programme start="20260409004000 +0000" stop="20260409023500 +0000" channel="Cinemax 2.webtv.sk">
+    <title lang="id">Grindhouse: Auto zabiják</title>
+  </programme>
+  <programme start="20260409023500 +0000" stop="20260409033000 +0000" channel="Cinemax 2.webtv.sk">
+    <title lang="id">Matrix Generation</title>
+  </programme>
+  <programme start="20260409033000 +0000" stop="20260409040000 +0000" channel="Cinemax 2.webtv.sk">
+    <title lang="id">Doprovázení</title>
+  </programme>
+  <programme start="20260409040000 +0000" stop="20260409054000 +0000" channel="Cinemax 2.webtv.sk">
+    <title lang="id">Jak být normální</title>
+  </programme>
+  <programme start="20260409054000 +0000" stop="20260409073500 +0000" channel="Cinemax 2.webtv.sk">
+    <title lang="id">Devět královen</title>
+  </programme>
+  <programme start="20260409073500 +0000" stop="20260409090000 +0000" channel="Cinemax 2.webtv.sk">
+    <title lang="id">Potrestání</title>
+  </programme>
+  <programme start="20260409090000 +0000" stop="20260409104500 +0000" channel="Cinemax 2.webtv.sk">
+    <title lang="id">Správci osudu</title>
+  </programme>
+  <programme start="20260409104500 +0000" stop="20260409130000 +0000" channel="Cinemax 2.webtv.sk">
+    <title lang="id">Jerry Maguire</title>
+  </programme>
+  <programme start="20260409130000 +0000" stop="20260409151000 +0000" channel="Cinemax 2.webtv.sk">
+    <title lang="id">Opičí park</title>
+  </programme>
+  <programme start="20260409151000 +0000" stop="20260409170500 +0000" channel="Cinemax 2.webtv.sk">
+    <title lang="id">Devět královen</title>
+  </programme>
+  <programme start="20260409170500 +0000" stop="20260409183000 +0000" channel="Cinemax 2.webtv.sk">
+    <title lang="id">Nula od Nuly pojde</title>
+  </programme>
+  <programme start="20260409183000 +0000" stop="20260409203500 +0000" channel="Cinemax 2.webtv.sk">
+    <title lang="id">Kingsman: Tajná služba</title>
+  </programme>
+  <programme start="20260409203500 +0000" stop="20260409222500 +0000" channel="Cinemax 2.webtv.sk">
+    <title lang="id">21 Jump Street</title>
+  </programme>
   <programme start="20260408212500 +0000" stop="20260408224000 +0000" channel="AMC.webtv.sk">
     <title lang="id">Temný úplněk</title>
   </programme>
@@ -9477,6 +9336,102 @@
   </programme>
   <programme start="20260409213000 +0000" stop="20260409223500 +0000" channel="Filmbox Arthouse.webtv.sk">
     <title lang="id">Career Girl</title>
+  </programme>
+  <programme start="20260408220000 +0000" stop="20260408223000 +0000" channel="FashionBox.webtv.sk">
+    <title lang="id">World Of Luxury I (39)</title>
+  </programme>
+  <programme start="20260408223000 +0000" stop="20260408230000 +0000" channel="FashionBox.webtv.sk">
+    <title lang="id">World Of Luxury I (40)</title>
+  </programme>
+  <programme start="20260408230000 +0000" stop="20260408233000 +0000" channel="FashionBox.webtv.sk">
+    <title lang="id">Ready To Wear - 2018 Spring Summer</title>
+  </programme>
+  <programme start="20260408233000 +0000" stop="20260409000000 +0000" channel="FashionBox.webtv.sk">
+    <title lang="id">Ready To Wear - 2018 Spring Summer</title>
+  </programme>
+  <programme start="20260409000000 +0000" stop="20260409010000 +0000" channel="FashionBox.webtv.sk">
+    <title lang="id">Miami Fall 2021 XXII (6)</title>
+  </programme>
+  <programme start="20260409010000 +0000" stop="20260409020000 +0000" channel="FashionBox.webtv.sk">
+    <title lang="id">Homme I (1)</title>
+  </programme>
+  <programme start="20260409020000 +0000" stop="20260409030000 +0000" channel="FashionBox.webtv.sk">
+    <title lang="id">Femme III (1)</title>
+  </programme>
+  <programme start="20260409030000 +0000" stop="20260409040000 +0000" channel="FashionBox.webtv.sk">
+    <title lang="id">Cities I (1)</title>
+  </programme>
+  <programme start="20260409040000 +0000" stop="20260409050000 +0000" channel="FashionBox.webtv.sk">
+    <title lang="id">Look I (1)</title>
+  </programme>
+  <programme start="20260409050000 +0000" stop="20260409060000 +0000" channel="FashionBox.webtv.sk">
+    <title lang="id">Homme I (1)</title>
+  </programme>
+  <programme start="20260409060000 +0000" stop="20260409070000 +0000" channel="FashionBox.webtv.sk">
+    <title lang="id">Femme III (1)</title>
+  </programme>
+  <programme start="20260409070000 +0000" stop="20260409080000 +0000" channel="FashionBox.webtv.sk">
+    <title lang="id">Cities I (1)</title>
+  </programme>
+  <programme start="20260409080000 +0000" stop="20260409090000 +0000" channel="FashionBox.webtv.sk">
+    <title lang="id">Look I (1)</title>
+  </programme>
+  <programme start="20260409090000 +0000" stop="20260409100000 +0000" channel="FashionBox.webtv.sk">
+    <title lang="id">Cities I (1)</title>
+  </programme>
+  <programme start="20260409100000 +0000" stop="20260409110000 +0000" channel="FashionBox.webtv.sk">
+    <title lang="id">Look I (1)</title>
+  </programme>
+  <programme start="20260409110000 +0000" stop="20260409120000 +0000" channel="FashionBox.webtv.sk">
+    <title lang="id">Homme I (1)</title>
+  </programme>
+  <programme start="20260409120000 +0000" stop="20260409130000 +0000" channel="FashionBox.webtv.sk">
+    <title lang="id">Femme III (1)</title>
+  </programme>
+  <programme start="20260409130000 +0000" stop="20260409140000 +0000" channel="FashionBox.webtv.sk">
+    <title lang="id">Cities I (1)</title>
+  </programme>
+  <programme start="20260409140000 +0000" stop="20260409150000 +0000" channel="FashionBox.webtv.sk">
+    <title lang="id">Look I (1)</title>
+  </programme>
+  <programme start="20260409150000 +0000" stop="20260409160000 +0000" channel="FashionBox.webtv.sk">
+    <title lang="id">Cities I (1)</title>
+  </programme>
+  <programme start="20260409160000 +0000" stop="20260409170000 +0000" channel="FashionBox.webtv.sk">
+    <title lang="id">Couture Fall Winter 2018</title>
+  </programme>
+  <programme start="20260409170000 +0000" stop="20260409172000 +0000" channel="FashionBox.webtv.sk">
+    <title lang="id">Here Comes The Bride - Claire Pettibone</title>
+  </programme>
+  <programme start="20260409172000 +0000" stop="20260409174000 +0000" channel="FashionBox.webtv.sk">
+    <title lang="id">Here Comes The Bride - Inbal Dror</title>
+  </programme>
+  <programme start="20260409174000 +0000" stop="20260409180000 +0000" channel="FashionBox.webtv.sk">
+    <title lang="id">Here Comes The Bride - Ines Di Santo</title>
+  </programme>
+  <programme start="20260409180000 +0000" stop="20260409183000 +0000" channel="FashionBox.webtv.sk">
+    <title lang="id">The Hollywood Glow (1)</title>
+  </programme>
+  <programme start="20260409183000 +0000" stop="20260409190000 +0000" channel="FashionBox.webtv.sk">
+    <title lang="id">World Of Fashion II (31)</title>
+  </programme>
+  <programme start="20260409190000 +0000" stop="20260409193000 +0000" channel="FashionBox.webtv.sk">
+    <title lang="id">New York Fashionweek - Spring Summer 2019 (10)</title>
+  </programme>
+  <programme start="20260409193000 +0000" stop="20260409200000 +0000" channel="FashionBox.webtv.sk">
+    <title lang="id">New York Fashionweek - Spring Summer 2019 (11)</title>
+  </programme>
+  <programme start="20260409200000 +0000" stop="20260409203000 +0000" channel="FashionBox.webtv.sk">
+    <title lang="id">World Of Celebrities I (31)</title>
+  </programme>
+  <programme start="20260409203000 +0000" stop="20260409210000 +0000" channel="FashionBox.webtv.sk">
+    <title lang="id">World Of Celebrities I (32)</title>
+  </programme>
+  <programme start="20260409210000 +0000" stop="20260409213000 +0000" channel="FashionBox.webtv.sk">
+    <title lang="id">Swim Week 2023 (7)</title>
+  </programme>
+  <programme start="20260409213000 +0000" stop="20260409220000 +0000" channel="FashionBox.webtv.sk">
+    <title lang="id">Swim Week 2023 (8)</title>
   </programme>
   <programme start="20260408220000 +0000" stop="20260408223000 +0000" channel="Fast and Funbox.webtv.sk">
     <title lang="id">Cape Epic 2019 I (8)</title>
@@ -11034,450 +10989,6 @@
   </programme>
   <programme start="20260409215500 +0000" stop="20260409222000 +0000" channel="Nick Jr.webtv.sk">
     <title lang="id">Barbapapa a jeho rodinka II (17)</title>
-  </programme>
-  <programme start="20260408215000 +0000" stop="20260408220100 +0000" channel="JimJam.webtv.sk">
-    <title lang="id">Moje kamarádka Conni II (13)</title>
-  </programme>
-  <programme start="20260408220100 +0000" stop="20260408221300 +0000" channel="JimJam.webtv.sk">
-    <title lang="id">Moje kamarádka Conni II (16)</title>
-  </programme>
-  <programme start="20260408221300 +0000" stop="20260408222300 +0000" channel="JimJam.webtv.sk">
-    <title lang="id">Messyho skvělá dobrodružství I (13)</title>
-  </programme>
-  <programme start="20260408222300 +0000" stop="20260408223700 +0000" channel="JimJam.webtv.sk">
-    <title lang="id">Messyho skvělá dobrodružství I (14)</title>
-  </programme>
-  <programme start="20260408223700 +0000" stop="20260408224900 +0000" channel="JimJam.webtv.sk">
-    <title lang="id">Hádej, jak moc tě mám rád II (20)</title>
-  </programme>
-  <programme start="20260408224900 +0000" stop="20260408230100 +0000" channel="JimJam.webtv.sk">
-    <title lang="id">Hádej, jak moc tě mám rád II (21)</title>
-  </programme>
-  <programme start="20260408230100 +0000" stop="20260408231200 +0000" channel="JimJam.webtv.sk">
-    <title lang="id">Hádej, jak moc tě mám rád II (22)</title>
-  </programme>
-  <programme start="20260408231200 +0000" stop="20260408232100 +0000" channel="JimJam.webtv.sk">
-    <title lang="id">Účíme se s kamarádem Timmym I (21)</title>
-  </programme>
-  <programme start="20260408232100 +0000" stop="20260408234500 +0000" channel="JimJam.webtv.sk">
-    <title lang="id">Hurá za hádankou II (26)</title>
-  </programme>
-  <programme start="20260408234500 +0000" stop="20260408235600 +0000" channel="JimJam.webtv.sk">
-    <title lang="id">Leo, ochránce divočiny II (15)</title>
-  </programme>
-  <programme start="20260408235600 +0000" stop="20260409000900 +0000" channel="JimJam.webtv.sk">
-    <title lang="id">Leo, ochránce divočiny II (16)</title>
-  </programme>
-  <programme start="20260409000900 +0000" stop="20260409003200 +0000" channel="JimJam.webtv.sk">
-    <title lang="id">Jahůdka: Dobrodružství z Bobulkova III (2)</title>
-  </programme>
-  <programme start="20260409003200 +0000" stop="20260409004300 +0000" channel="JimJam.webtv.sk">
-    <title lang="id">Harry a jeho dinosauři I (26)</title>
-  </programme>
-  <programme start="20260409004300 +0000" stop="20260409005500 +0000" channel="JimJam.webtv.sk">
-    <title lang="id">Harry a jeho dinosauři I (27)</title>
-  </programme>
-  <programme start="20260409005500 +0000" stop="20260409010700 +0000" channel="JimJam.webtv.sk">
-    <title lang="id">Pan Jezevec a paní Liška II (46)</title>
-  </programme>
-  <programme start="20260409010700 +0000" stop="20260409011800 +0000" channel="JimJam.webtv.sk">
-    <title lang="id">Lokomotiva Tomáš XXIV (6)</title>
-  </programme>
-  <programme start="20260409011800 +0000" stop="20260409013000 +0000" channel="JimJam.webtv.sk">
-    <title lang="id">Lokomotiva Tomáš XXIV (7)</title>
-  </programme>
-  <programme start="20260409013000 +0000" stop="20260409014200 +0000" channel="JimJam.webtv.sk">
-    <title lang="id">Grisu I (23)</title>
-  </programme>
-  <programme start="20260409014200 +0000" stop="20260409015700 +0000" channel="JimJam.webtv.sk">
-    <title lang="id">Grisu I (24)</title>
-  </programme>
-  <programme start="20260409015700 +0000" stop="20260409020900 +0000" channel="JimJam.webtv.sk">
-    <title lang="id">Hádej, jak moc tě mám rád I (25)</title>
-  </programme>
-  <programme start="20260409020900 +0000" stop="20260409022100 +0000" channel="JimJam.webtv.sk">
-    <title lang="id">Hádej, jak moc tě mám rád I (26)</title>
-  </programme>
-  <programme start="20260409022100 +0000" stop="20260409022500 +0000" channel="JimJam.webtv.sk">
-    <title lang="id">Chuggington - velké úkoly II (13)</title>
-  </programme>
-  <programme start="20260409022500 +0000" stop="20260409023800 +0000" channel="JimJam.webtv.sk">
-    <title lang="id">Pan Jezevec a paní Liška II (8)</title>
-  </programme>
-  <programme start="20260409023800 +0000" stop="20260409024800 +0000" channel="JimJam.webtv.sk">
-    <title lang="id">Messyho skvělá dobrodružství I (13)</title>
-  </programme>
-  <programme start="20260409024800 +0000" stop="20260409030100 +0000" channel="JimJam.webtv.sk">
-    <title lang="id">Messyho skvělá dobrodružství I (14)</title>
-  </programme>
-  <programme start="20260409030100 +0000" stop="20260409032600 +0000" channel="JimJam.webtv.sk">
-    <title lang="id">Hurá za hádankou II (6)</title>
-  </programme>
-  <programme start="20260409032600 +0000" stop="20260409033700 +0000" channel="JimJam.webtv.sk">
-    <title lang="id">Leo, ochránce divočiny III (20)</title>
-  </programme>
-  <programme start="20260409033700 +0000" stop="20260409035000 +0000" channel="JimJam.webtv.sk">
-    <title lang="id">Leo, ochránce divočiny III (21)</title>
-  </programme>
-  <programme start="20260409035000 +0000" stop="20260409040000 +0000" channel="JimJam.webtv.sk">
-    <title lang="id">Simon I (35)</title>
-  </programme>
-  <programme start="20260409040000 +0000" stop="20260409040500 +0000" channel="JimJam.webtv.sk">
-    <title lang="id">Berry a Dolly VI (3)</title>
-  </programme>
-  <programme start="20260409040500 +0000" stop="20260409041000 +0000" channel="JimJam.webtv.sk">
-    <title lang="id">Berry a Dolly VI (4)</title>
-  </programme>
-  <programme start="20260409041000 +0000" stop="20260409041500 +0000" channel="JimJam.webtv.sk">
-    <title lang="id">Berry a Dolly VI (5)</title>
-  </programme>
-  <programme start="20260409041500 +0000" stop="20260409042000 +0000" channel="JimJam.webtv.sk">
-    <title lang="id">Berry a Dolly VI (6)</title>
-  </programme>
-  <programme start="20260409042000 +0000" stop="20260409042500 +0000" channel="JimJam.webtv.sk">
-    <title lang="id">Berry a Dolly VI (7)</title>
-  </programme>
-  <programme start="20260409042500 +0000" stop="20260409043000 +0000" channel="JimJam.webtv.sk">
-    <title lang="id">Berry a Dolly VI (8)</title>
-  </programme>
-  <programme start="20260409043000 +0000" stop="20260409043700 +0000" channel="JimJam.webtv.sk">
-    <title lang="id">Berry a Dolly VI (9)</title>
-  </programme>
-  <programme start="20260409043700 +0000" stop="20260409044400 +0000" channel="JimJam.webtv.sk">
-    <title lang="id">Bing I (36)</title>
-  </programme>
-  <programme start="20260409044400 +0000" stop="20260409045100 +0000" channel="JimJam.webtv.sk">
-    <title lang="id">Bing I (37)</title>
-  </programme>
-  <programme start="20260409045100 +0000" stop="20260409045800 +0000" channel="JimJam.webtv.sk">
-    <title lang="id">Bing I (38)</title>
-  </programme>
-  <programme start="20260409045800 +0000" stop="20260409050700 +0000" channel="JimJam.webtv.sk">
-    <title lang="id">Bing I (39)</title>
-  </programme>
-  <programme start="20260409050700 +0000" stop="20260409051400 +0000" channel="JimJam.webtv.sk">
-    <title lang="id">Tilda II (19)</title>
-  </programme>
-  <programme start="20260409051400 +0000" stop="20260409052100 +0000" channel="JimJam.webtv.sk">
-    <title lang="id">Tilda II (20)</title>
-  </programme>
-  <programme start="20260409052100 +0000" stop="20260409053000 +0000" channel="JimJam.webtv.sk">
-    <title lang="id">Tilda II (21)</title>
-  </programme>
-  <programme start="20260409053000 +0000" stop="20260409054100 +0000" channel="JimJam.webtv.sk">
-    <title lang="id">Hádej, jak moc tě mám rád I (29)</title>
-  </programme>
-  <programme start="20260409054100 +0000" stop="20260409055200 +0000" channel="JimJam.webtv.sk">
-    <title lang="id">Hádej, jak moc tě mám rád I (30)</title>
-  </programme>
-  <programme start="20260409055200 +0000" stop="20260409060500 +0000" channel="JimJam.webtv.sk">
-    <title lang="id">Hádej, jak moc tě mám rád I (31)</title>
-  </programme>
-  <programme start="20260409060500 +0000" stop="20260409061900 +0000" channel="JimJam.webtv.sk">
-    <title lang="id">Pettson a Fiškus IV (1)</title>
-  </programme>
-  <programme start="20260409061900 +0000" stop="20260409063300 +0000" channel="JimJam.webtv.sk">
-    <title lang="id">Leo, ochránce divočiny III (39)</title>
-  </programme>
-  <programme start="20260409063300 +0000" stop="20260409064000 +0000" channel="JimJam.webtv.sk">
-    <title lang="id">Charley miluje přírodu I (42)</title>
-  </programme>
-  <programme start="20260409064000 +0000" stop="20260409064700 +0000" channel="JimJam.webtv.sk">
-    <title lang="id">Charley miluje přírodu I (43)</title>
-  </programme>
-  <programme start="20260409064700 +0000" stop="20260409065600 +0000" channel="JimJam.webtv.sk">
-    <title lang="id">Charley miluje přírodu I (44)</title>
-  </programme>
-  <programme start="20260409065600 +0000" stop="20260409070400 +0000" channel="JimJam.webtv.sk">
-    <title lang="id">Charley jde do školy I (5)</title>
-  </programme>
-  <programme start="20260409070400 +0000" stop="20260409071100 +0000" channel="JimJam.webtv.sk">
-    <title lang="id">Sam a Julie I (6)</title>
-  </programme>
-  <programme start="20260409071100 +0000" stop="20260409071800 +0000" channel="JimJam.webtv.sk">
-    <title lang="id">Sam a Julie I (7)</title>
-  </programme>
-  <programme start="20260409071800 +0000" stop="20260409073000 +0000" channel="JimJam.webtv.sk">
-    <title lang="id">Sam a Julie I (8)</title>
-  </programme>
-  <programme start="20260409073000 +0000" stop="20260409074100 +0000" channel="JimJam.webtv.sk">
-    <title lang="id">Lokomotiva Tomáš XVIII (19)</title>
-  </programme>
-  <programme start="20260409074100 +0000" stop="20260409075300 +0000" channel="JimJam.webtv.sk">
-    <title lang="id">Lokomotiva Tomáš XVIII (20)</title>
-  </programme>
-  <programme start="20260409075300 +0000" stop="20260409075800 +0000" channel="JimJam.webtv.sk">
-    <title lang="id">Woozle a Pip I (17)</title>
-  </programme>
-  <programme start="20260409075800 +0000" stop="20260409080500 +0000" channel="JimJam.webtv.sk">
-    <title lang="id">Woozle a Pip I (18)</title>
-  </programme>
-  <programme start="20260409080500 +0000" stop="20260409081000 +0000" channel="JimJam.webtv.sk">
-    <title lang="id">Doodleboo I (17)</title>
-  </programme>
-  <programme start="20260409081000 +0000" stop="20260409081700 +0000" channel="JimJam.webtv.sk">
-    <title lang="id">Doodleboo I (18)</title>
-  </programme>
-  <programme start="20260409081700 +0000" stop="20260409083000 +0000" channel="JimJam.webtv.sk">
-    <title lang="id">Hádej, hádej s kocourkem I (9)</title>
-  </programme>
-  <programme start="20260409083000 +0000" stop="20260409083900 +0000" channel="JimJam.webtv.sk">
-    <title lang="id">Opičiny skopičiny I (24)</title>
-  </programme>
-  <programme start="20260409083900 +0000" stop="20260409085200 +0000" channel="JimJam.webtv.sk">
-    <title lang="id">Harry a jeho dinosauři I (9)</title>
-  </programme>
-  <programme start="20260409085200 +0000" stop="20260409085900 +0000" channel="JimJam.webtv.sk">
-    <title lang="id">Daisy a Ollie III (15)</title>
-  </programme>
-  <programme start="20260409085900 +0000" stop="20260409090800 +0000" channel="JimJam.webtv.sk">
-    <title lang="id">Daisy a Ollie III (16)</title>
-  </programme>
-  <programme start="20260409090800 +0000" stop="20260409091900 +0000" channel="JimJam.webtv.sk">
-    <title lang="id">Moje kamarádka Conni II (15)</title>
-  </programme>
-  <programme start="20260409091900 +0000" stop="20260409093400 +0000" channel="JimJam.webtv.sk">
-    <title lang="id">Moje kamarádka Conni II (16)</title>
-  </programme>
-  <programme start="20260409093400 +0000" stop="20260409094700 +0000" channel="JimJam.webtv.sk">
-    <title lang="id">Pan Jezevec a paní Liška II (9)</title>
-  </programme>
-  <programme start="20260409094700 +0000" stop="20260409095200 +0000" channel="JimJam.webtv.sk">
-    <title lang="id">Caillou: Nová dobrodružství I (25)</title>
-  </programme>
-  <programme start="20260409095200 +0000" stop="20260409095700 +0000" channel="JimJam.webtv.sk">
-    <title lang="id">Caillou: Nová dobrodružství I (26)</title>
-  </programme>
-  <programme start="20260409095700 +0000" stop="20260409100700 +0000" channel="JimJam.webtv.sk">
-    <title lang="id">Caillou: Nová dobrodružství I (27)</title>
-  </programme>
-  <programme start="20260409100700 +0000" stop="20260409101800 +0000" channel="JimJam.webtv.sk">
-    <title lang="id">Kate a Mim-Mim I (41)</title>
-  </programme>
-  <programme start="20260409101800 +0000" stop="20260409103000 +0000" channel="JimJam.webtv.sk">
-    <title lang="id">Kate a Mim-Mim I (42)</title>
-  </programme>
-  <programme start="20260409103000 +0000" stop="20260409104100 +0000" channel="JimJam.webtv.sk">
-    <title lang="id">Hádej, jak moc tě mám rád I (46)</title>
-  </programme>
-  <programme start="20260409104100 +0000" stop="20260409105300 +0000" channel="JimJam.webtv.sk">
-    <title lang="id">Hádej, jak moc tě mám rád I (47)</title>
-  </programme>
-  <programme start="20260409105300 +0000" stop="20260409110600 +0000" channel="JimJam.webtv.sk">
-    <title lang="id">Hádej, jak moc tě mám rád I (48)</title>
-  </programme>
-  <programme start="20260409110600 +0000" stop="20260409111300 +0000" channel="JimJam.webtv.sk">
-    <title lang="id">Bing I (6)</title>
-  </programme>
-  <programme start="20260409111300 +0000" stop="20260409112000 +0000" channel="JimJam.webtv.sk">
-    <title lang="id">Bing I (7)</title>
-  </programme>
-  <programme start="20260409112000 +0000" stop="20260409112800 +0000" channel="JimJam.webtv.sk">
-    <title lang="id">Bing I (8)</title>
-  </programme>
-  <programme start="20260409112800 +0000" stop="20260409113500 +0000" channel="JimJam.webtv.sk">
-    <title lang="id">Bing I (9)</title>
-  </programme>
-  <programme start="20260409113500 +0000" stop="20260409114400 +0000" channel="JimJam.webtv.sk">
-    <title lang="id">Bing I (10)</title>
-  </programme>
-  <programme start="20260409114400 +0000" stop="20260409114900 +0000" channel="JimJam.webtv.sk">
-    <title lang="id">Berry a Dolly IV (8)</title>
-  </programme>
-  <programme start="20260409114900 +0000" stop="20260409115400 +0000" channel="JimJam.webtv.sk">
-    <title lang="id">Berry a Dolly IV (9)</title>
-  </programme>
-  <programme start="20260409115400 +0000" stop="20260409115900 +0000" channel="JimJam.webtv.sk">
-    <title lang="id">Berry a Dolly IV (10)</title>
-  </programme>
-  <programme start="20260409115900 +0000" stop="20260409120600 +0000" channel="JimJam.webtv.sk">
-    <title lang="id">Berry a Dolly IV (11)</title>
-  </programme>
-  <programme start="20260409120600 +0000" stop="20260409123100 +0000" channel="JimJam.webtv.sk">
-    <title lang="id">Hurá za hádankou II (20)</title>
-  </programme>
-  <programme start="20260409123100 +0000" stop="20260409123900 +0000" channel="JimJam.webtv.sk">
-    <title lang="id">Opičiny skopičiny II (13)</title>
-  </programme>
-  <programme start="20260409123900 +0000" stop="20260409124700 +0000" channel="JimJam.webtv.sk">
-    <title lang="id">Opičiny skopičiny II (14)</title>
-  </programme>
-  <programme start="20260409124700 +0000" stop="20260409125400 +0000" channel="JimJam.webtv.sk">
-    <title lang="id">Mumfie I (13)</title>
-  </programme>
-  <programme start="20260409125400 +0000" stop="20260409130200 +0000" channel="JimJam.webtv.sk">
-    <title lang="id">Mumfie I (14)</title>
-  </programme>
-  <programme start="20260409130200 +0000" stop="20260409131200 +0000" channel="JimJam.webtv.sk">
-    <title lang="id">Kate a Mim-Mim I (7)</title>
-  </programme>
-  <programme start="20260409131200 +0000" stop="20260409132200 +0000" channel="JimJam.webtv.sk">
-    <title lang="id">Kate a Mim-Mim I (8)</title>
-  </programme>
-  <programme start="20260409132200 +0000" stop="20260409132900 +0000" channel="JimJam.webtv.sk">
-    <title lang="id">Charley miluje přírodu I (13)</title>
-  </programme>
-  <programme start="20260409132900 +0000" stop="20260409133800 +0000" channel="JimJam.webtv.sk">
-    <title lang="id">Charley miluje přírodu I (14)</title>
-  </programme>
-  <programme start="20260409133800 +0000" stop="20260409134500 +0000" channel="JimJam.webtv.sk">
-    <title lang="id">Sam a Julie I (50)</title>
-  </programme>
-  <programme start="20260409134500 +0000" stop="20260409135300 +0000" channel="JimJam.webtv.sk">
-    <title lang="id">Sam a Julie I (51)</title>
-  </programme>
-  <programme start="20260409135300 +0000" stop="20260409140100 +0000" channel="JimJam.webtv.sk">
-    <title lang="id">Tilda II (9)</title>
-  </programme>
-  <programme start="20260409140100 +0000" stop="20260409140800 +0000" channel="JimJam.webtv.sk">
-    <title lang="id">Trojčata I (35)</title>
-  </programme>
-  <programme start="20260409140800 +0000" stop="20260409141600 +0000" channel="JimJam.webtv.sk">
-    <title lang="id">Trojčata I (36)</title>
-  </programme>
-  <programme start="20260409141600 +0000" stop="20260409143000 +0000" channel="JimJam.webtv.sk">
-    <title lang="id">Pan Jezevec a paní Liška II (49)</title>
-  </programme>
-  <programme start="20260409143000 +0000" stop="20260409143500 +0000" channel="JimJam.webtv.sk">
-    <title lang="id">Účíme se s kamarádem Timmym I (25)</title>
-  </programme>
-  <programme start="20260409143500 +0000" stop="20260409144200 +0000" channel="JimJam.webtv.sk">
-    <title lang="id">Účíme se s kamarádem Timmym I (26)</title>
-  </programme>
-  <programme start="20260409144200 +0000" stop="20260409145400 +0000" channel="JimJam.webtv.sk">
-    <title lang="id">Lokomotiva Tomáš XX (11)</title>
-  </programme>
-  <programme start="20260409145400 +0000" stop="20260409150400 +0000" channel="JimJam.webtv.sk">
-    <title lang="id">Chuggington II (5)</title>
-  </programme>
-  <programme start="20260409150400 +0000" stop="20260409151500 +0000" channel="JimJam.webtv.sk">
-    <title lang="id">Chuggington II (6)</title>
-  </programme>
-  <programme start="20260409151500 +0000" stop="20260409152700 +0000" channel="JimJam.webtv.sk">
-    <title lang="id">Kipper IV (9)</title>
-  </programme>
-  <programme start="20260409152700 +0000" stop="20260409153900 +0000" channel="JimJam.webtv.sk">
-    <title lang="id">Ruff Ruff, Tweet a Dave I (41)</title>
-  </programme>
-  <programme start="20260409153900 +0000" stop="20260409154700 +0000" channel="JimJam.webtv.sk">
-    <title lang="id">Doodleboo I (36)</title>
-  </programme>
-  <programme start="20260409154700 +0000" stop="20260409160000 +0000" channel="JimJam.webtv.sk">
-    <title lang="id">Leo, ochránce divočiny III (1)</title>
-  </programme>
-  <programme start="20260409160000 +0000" stop="20260409160500 +0000" channel="JimJam.webtv.sk">
-    <title lang="id">Berry a Dolly V (4)</title>
-  </programme>
-  <programme start="20260409160500 +0000" stop="20260409161000 +0000" channel="JimJam.webtv.sk">
-    <title lang="id">Berry a Dolly V (5)</title>
-  </programme>
-  <programme start="20260409161000 +0000" stop="20260409161500 +0000" channel="JimJam.webtv.sk">
-    <title lang="id">Berry a Dolly V (6)</title>
-  </programme>
-  <programme start="20260409161500 +0000" stop="20260409162000 +0000" channel="JimJam.webtv.sk">
-    <title lang="id">Berry a Dolly V (7)</title>
-  </programme>
-  <programme start="20260409162000 +0000" stop="20260409162700 +0000" channel="JimJam.webtv.sk">
-    <title lang="id">Berry a Dolly V (8)</title>
-  </programme>
-  <programme start="20260409162700 +0000" stop="20260409163500 +0000" channel="JimJam.webtv.sk">
-    <title lang="id">Bing I (24)</title>
-  </programme>
-  <programme start="20260409163500 +0000" stop="20260409164300 +0000" channel="JimJam.webtv.sk">
-    <title lang="id">Bing I (25)</title>
-  </programme>
-  <programme start="20260409164300 +0000" stop="20260409165100 +0000" channel="JimJam.webtv.sk">
-    <title lang="id">Bing I (26)</title>
-  </programme>
-  <programme start="20260409165100 +0000" stop="20260409165900 +0000" channel="JimJam.webtv.sk">
-    <title lang="id">Bing I (27)</title>
-  </programme>
-  <programme start="20260409165900 +0000" stop="20260409170800 +0000" channel="JimJam.webtv.sk">
-    <title lang="id">Bing I (28)</title>
-  </programme>
-  <programme start="20260409170800 +0000" stop="20260409172100 +0000" channel="JimJam.webtv.sk">
-    <title lang="id">Pettson a Fiškus III (1)</title>
-  </programme>
-  <programme start="20260409172100 +0000" stop="20260409173100 +0000" channel="JimJam.webtv.sk">
-    <title lang="id">Pan Jezevec a paní Liška II (17)</title>
-  </programme>
-  <programme start="20260409173100 +0000" stop="20260409174300 +0000" channel="JimJam.webtv.sk">
-    <title lang="id">Pan Jezevec a paní Liška II (18)</title>
-  </programme>
-  <programme start="20260409174300 +0000" stop="20260409175500 +0000" channel="JimJam.webtv.sk">
-    <title lang="id">Hádej, jak moc tě mám rád II (12)</title>
-  </programme>
-  <programme start="20260409175500 +0000" stop="20260409180700 +0000" channel="JimJam.webtv.sk">
-    <title lang="id">Hádej, jak moc tě mám rád II (13)</title>
-  </programme>
-  <programme start="20260409180700 +0000" stop="20260409181300 +0000" channel="JimJam.webtv.sk">
-    <title lang="id">Simon I (9)</title>
-  </programme>
-  <programme start="20260409181300 +0000" stop="20260409182000 +0000" channel="JimJam.webtv.sk">
-    <title lang="id">Sam a Julie I (42)</title>
-  </programme>
-  <programme start="20260409182000 +0000" stop="20260409182800 +0000" channel="JimJam.webtv.sk">
-    <title lang="id">Sam a Julie I (43)</title>
-  </programme>
-  <programme start="20260409182800 +0000" stop="20260409183500 +0000" channel="JimJam.webtv.sk">
-    <title lang="id">Trojčata I (54)</title>
-  </programme>
-  <programme start="20260409183500 +0000" stop="20260409184400 +0000" channel="JimJam.webtv.sk">
-    <title lang="id">Trojčata I (55)</title>
-  </programme>
-  <programme start="20260409184400 +0000" stop="20260409185500 +0000" channel="JimJam.webtv.sk">
-    <title lang="id">Chuggington VI (43)</title>
-  </programme>
-  <programme start="20260409185500 +0000" stop="20260409190500 +0000" channel="JimJam.webtv.sk">
-    <title lang="id">Požárník Sam IX (4)</title>
-  </programme>
-  <programme start="20260409190500 +0000" stop="20260409191500 +0000" channel="JimJam.webtv.sk">
-    <title lang="id">Požárník Sam IX (5)</title>
-  </programme>
-  <programme start="20260409191500 +0000" stop="20260409192500 +0000" channel="JimJam.webtv.sk">
-    <title lang="id">Kate a Mim-Mim I (11)</title>
-  </programme>
-  <programme start="20260409192500 +0000" stop="20260409193500 +0000" channel="JimJam.webtv.sk">
-    <title lang="id">Kate a Mim-Mim I (12)</title>
-  </programme>
-  <programme start="20260409193500 +0000" stop="20260409194600 +0000" channel="JimJam.webtv.sk">
-    <title lang="id">Caillou I (21)</title>
-  </programme>
-  <programme start="20260409194600 +0000" stop="20260409195800 +0000" channel="JimJam.webtv.sk">
-    <title lang="id">Caillou I (22)</title>
-  </programme>
-  <programme start="20260409195800 +0000" stop="20260409201000 +0000" channel="JimJam.webtv.sk">
-    <title lang="id">Lokomotiva Tomáš XXIII (2)</title>
-  </programme>
-  <programme start="20260409201000 +0000" stop="20260409202100 +0000" channel="JimJam.webtv.sk">
-    <title lang="id">Leo, ochránce divočiny III (15)</title>
-  </programme>
-  <programme start="20260409202100 +0000" stop="20260409203300 +0000" channel="JimJam.webtv.sk">
-    <title lang="id">Leo, ochránce divočiny III (16)</title>
-  </programme>
-  <programme start="20260409203300 +0000" stop="20260409204800 +0000" channel="JimJam.webtv.sk">
-    <title lang="id">Pošťák Pat - Zvláštní zásilková služba III (6)</title>
-  </programme>
-  <programme start="20260409204800 +0000" stop="20260409210500 +0000" channel="JimJam.webtv.sk">
-    <title lang="id">Pošťák Pat - Zvláštní zásilková služba III (7)</title>
-  </programme>
-  <programme start="20260409210500 +0000" stop="20260409211200 +0000" channel="JimJam.webtv.sk">
-    <title lang="id">Bing I (52)</title>
-  </programme>
-  <programme start="20260409211200 +0000" stop="20260409212000 +0000" channel="JimJam.webtv.sk">
-    <title lang="id">Bing I (53)</title>
-  </programme>
-  <programme start="20260409212000 +0000" stop="20260409212700 +0000" channel="JimJam.webtv.sk">
-    <title lang="id">Bing I (54)</title>
-  </programme>
-  <programme start="20260409212700 +0000" stop="20260409213500 +0000" channel="JimJam.webtv.sk">
-    <title lang="id">Bing I (55)</title>
-  </programme>
-  <programme start="20260409213500 +0000" stop="20260409215000 +0000" channel="JimJam.webtv.sk">
-    <title lang="id">Bing I (56)</title>
-  </programme>
-  <programme start="20260409215000 +0000" stop="20260409220100 +0000" channel="JimJam.webtv.sk">
-    <title lang="id">Moje kamarádka Conni II (15)</title>
   </programme>
   <programme start="20260408220000 +0000" stop="20260408221000 +0000" channel="Minimax.webtv.sk">
     <title lang="id">To je Joey I (23)</title>
@@ -17500,9 +17011,6 @@
   <programme start="20260409214600 +0000" stop="20260409220000 +0000" channel="Euronews.webtv.sk">
     <title lang="id">News</title>
   </programme>
-  <programme start="20260408215800 +0000" stop="20260409005800 +0000" channel="NHK World Japan.webtv.sk">
-    <title lang="id">INFO</title>
-  </programme>
   <programme start="20260408220000 +0000" stop="20260408223000 +0000" channel="Arirang TV.webtv.sk">
     <title lang="id">Decoded: The Ai Conversations</title>
   </programme>
@@ -18753,6 +18261,114 @@
   </programme>
   <programme start="20260409215500 +0000" stop="20260410005500 +0000" channel="Rai Uno.webtv.sk">
     <title lang="id">Tg1</title>
+  </programme>
+  <programme start="20260408220000 +0000" stop="20260408230000 +0000" channel="Rai Tre.webtv.sk">
+    <title lang="id">Tg3 Linea Notte</title>
+  </programme>
+  <programme start="20260408230000 +0000" stop="20260408230500 +0000" channel="Rai Tre.webtv.sk">
+    <title lang="id">Meteo 3</title>
+  </programme>
+  <programme start="20260408230500 +0000" stop="20260408231500 +0000" channel="Rai Tre.webtv.sk">
+    <title lang="id">Parlamento Magazine</title>
+  </programme>
+  <programme start="20260408231500 +0000" stop="20260408232500 +0000" channel="Rai Tre.webtv.sk">
+    <title lang="id">SVista</title>
+  </programme>
+  <programme start="20260408232500 +0000" stop="20260408235500 +0000" channel="Rai Tre.webtv.sk">
+    <title lang="id">Sorgente di vita</title>
+  </programme>
+  <programme start="20260408235500 +0000" stop="20260409003000 +0000" channel="Rai Tre.webtv.sk">
+    <title lang="id">Sulla via di Damasco</title>
+  </programme>
+  <programme start="20260409003000 +0000" stop="20260409040000 +0000" channel="Rai Tre.webtv.sk">
+    <title lang="id">RaiNews</title>
+  </programme>
+  <programme start="20260409040000 +0000" stop="20260409050000 +0000" channel="Rai Tre.webtv.sk">
+    <title lang="id">RaiNews</title>
+  </programme>
+  <programme start="20260409050000 +0000" stop="20260409053000 +0000" channel="Rai Tre.webtv.sk">
+    <title lang="id">TGR Buongiorno Italia</title>
+  </programme>
+  <programme start="20260409053000 +0000" stop="20260409060000 +0000" channel="Rai Tre.webtv.sk">
+    <title lang="id">TGR Buongiorno Regione</title>
+  </programme>
+  <programme start="20260409060000 +0000" stop="20260409074500 +0000" channel="Rai Tre.webtv.sk">
+    <title lang="id">Agora</title>
+  </programme>
+  <programme start="20260409074500 +0000" stop="20260409085000 +0000" channel="Rai Tre.webtv.sk">
+    <title lang="id">Re Start</title>
+  </programme>
+  <programme start="20260409085000 +0000" stop="20260409095500 +0000" channel="Rai Tre.webtv.sk">
+    <title lang="id">Elisir</title>
+  </programme>
+  <programme start="20260409095500 +0000" stop="20260409100000 +0000" channel="Rai Tre.webtv.sk">
+    <title lang="id">Meteo 3</title>
+  </programme>
+  <programme start="20260409100000 +0000" stop="20260409102500 +0000" channel="Rai Tre.webtv.sk">
+    <title lang="id">Tg3</title>
+  </programme>
+  <programme start="20260409102500 +0000" stop="20260409105000 +0000" channel="Rai Tre.webtv.sk">
+    <title lang="id">TG3 Fuori TG</title>
+  </programme>
+  <programme start="20260409105000 +0000" stop="20260409112000 +0000" channel="Rai Tre.webtv.sk">
+    <title lang="id">Quante storie</title>
+  </programme>
+  <programme start="20260409112000 +0000" stop="20260409120000 +0000" channel="Rai Tre.webtv.sk">
+    <title lang="id">Passato e Presente</title>
+  </programme>
+  <programme start="20260409120000 +0000" stop="20260409121900 +0000" channel="Rai Tre.webtv.sk">
+    <title lang="id">Tg Regione</title>
+  </programme>
+  <programme start="20260409121900 +0000" stop="20260409122000 +0000" channel="Rai Tre.webtv.sk">
+    <title lang="id">Tg Regione Meteo</title>
+  </programme>
+  <programme start="20260409122000 +0000" stop="20260409124900 +0000" channel="Rai Tre.webtv.sk">
+    <title lang="id">Tg3</title>
+  </programme>
+  <programme start="20260409124900 +0000" stop="20260409125000 +0000" channel="Rai Tre.webtv.sk">
+    <title lang="id">Meteo 3</title>
+  </programme>
+  <programme start="20260409125000 +0000" stop="20260409130500 +0000" channel="Rai Tre.webtv.sk">
+    <title lang="id">TGR Leonardo</title>
+  </programme>
+  <programme start="20260409130500 +0000" stop="20260409131500 +0000" channel="Rai Tre.webtv.sk">
+    <title lang="id">TGR Piazza Affari</title>
+  </programme>
+  <programme start="20260409131500 +0000" stop="20260409132000 +0000" channel="Rai Tre.webtv.sk">
+    <title lang="id">TG3 LIS</title>
+  </programme>
+  <programme start="20260409132000 +0000" stop="20260409132500 +0000" channel="Rai Tre.webtv.sk">
+    <title lang="id">Tg Parlamento</title>
+  </programme>
+  <programme start="20260409132500 +0000" stop="20260409141500 +0000" channel="Rai Tre.webtv.sk">
+    <title lang="id">Il commissario Rex</title>
+  </programme>
+  <programme start="20260409141500 +0000" stop="20260409170000 +0000" channel="Rai Tre.webtv.sk">
+    <title lang="id">Geo</title>
+  </programme>
+  <programme start="20260409170000 +0000" stop="20260409173000 +0000" channel="Rai Tre.webtv.sk">
+    <title lang="id">Tg3</title>
+  </programme>
+  <programme start="20260409173000 +0000" stop="20260409175100 +0000" channel="Rai Tre.webtv.sk">
+    <title lang="id">Tg Regione</title>
+  </programme>
+  <programme start="20260409175100 +0000" stop="20260409180000 +0000" channel="Rai Tre.webtv.sk">
+    <title lang="id">Tg Regione Meteo</title>
+  </programme>
+  <programme start="20260409180000 +0000" stop="20260409181000 +0000" channel="Rai Tre.webtv.sk">
+    <title lang="id">Blob</title>
+  </programme>
+  <programme start="20260409181000 +0000" stop="20260409184000 +0000" channel="Rai Tre.webtv.sk">
+    <title lang="id">Vita da Artista (14)</title>
+  </programme>
+  <programme start="20260409184000 +0000" stop="20260409185000 +0000" channel="Rai Tre.webtv.sk">
+    <title lang="id">Il cavallo e la torre</title>
+  </programme>
+  <programme start="20260409185000 +0000" stop="20260409192000 +0000" channel="Rai Tre.webtv.sk">
+    <title lang="id">Un posto al sole XXX</title>
+  </programme>
+  <programme start="20260409192000 +0000" stop="20260409222000 +0000" channel="Rai Tre.webtv.sk">
+    <title lang="id">Splendida Cornice V</title>
   </programme>
   <programme start="20260408212000 +0000" stop="20260409040000 +0000" channel="Óčko.webtv.sk">
     <title lang="id">ÓČKO FLIRT</title>
