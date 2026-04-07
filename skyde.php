@@ -3060,13 +3060,13 @@ Warning: Undefined array key "et" in /usr/home/ManusiaBiasa/domains/manusiabiasa
 <programme start="20260406220000 +0000" stop="20260406230000 +0000" channel="Sky Sport Top Event HD.skyde">
     <title>Live NBA: Showtime</title>
 </programme>
-<programme start="20260406230000 +0000" stop="20260407013000 +0000" channel="Sky Sport Top Event HD.skyde">
+<programme start="20260406230000 +0000" stop="20260407014500 +0000" channel="Sky Sport Top Event HD.skyde">
     <title>Live NBA: New York Knicks @ Atlanta Hawks</title>
 </programme>
-<programme start="20260407013000 +0000" stop="20260407020000 +0000" channel="Sky Sport Top Event HD.skyde">
+<programme start="20260407014500 +0000" stop="20260407021500 +0000" channel="Sky Sport Top Event HD.skyde">
     <title>Live NBA: Showtime - Post Show</title>
 </programme>
-<programme start="20260407020000 +0000" stop="20260407040000 +0000" channel="Sky Sport Top Event HD.skyde">
+<programme start="20260407020500 +0000" stop="20260407040000 +0000" channel="Sky Sport Top Event HD.skyde">
     <title>ATP 1000: D. Altmaier (GER) - T. Machac (CZE), Rolex Monte-Carlo Masters in Monte-Carlo, 2. Tag</title>
 </programme>
 <programme start="20260407040000 +0000" stop="20260407043000 +0000" channel="Sky Sport Top Event HD.skyde">
