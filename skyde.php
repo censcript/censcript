@@ -2598,13 +2598,13 @@ Warning: Undefined array key "et" in /usr/home/ManusiaBiasa/domains/manusiabiasa
 <programme start="20260407180000 +0000" stop="20260407185000 +0000" channel="Sky Sport Austria 3 HD.skyde">
     <title>Live Die UEFA CL am Dienstag: Vorbericht</title>
 </programme>
-<programme start="20260407185000 +0000" stop="20260407213000 +0000" channel="Sky Sport Austria 3 HD.skyde">
+<programme start="20260407185000 +0000" stop="20260407210000 +0000" channel="Sky Sport Austria 3 HD.skyde">
     <title>Live UEFA CL: Sporting Lissabon - FC Arsenal, Viertelfinale Hinspiel</title>
 </programme>
 <programme start="20260407084000 +0000" stop="20260407090000 +0000" channel="Sky Sport Austria 4 HD.skyde">
     <title>Es folgt: LIVE ATP World Tour</title>
 </programme>
-<programme start="20260407090000 +0000" stop="20260407190000 +0000" channel="Sky Sport Austria 4 HD.skyde">
+<programme start="20260407090000 +0000" stop="20260407170000 +0000" channel="Sky Sport Austria 4 HD.skyde">
     <title>Live ATP 1000: Rolex Monte-Carlo Masters in Monte-Carlo, 3. Tag</title>
 </programme>
 <programme start="20260406220000 +0000" stop="20260406223000 +0000" channel="Sky Sport Bundesliga HD.skyde">
@@ -3030,22 +3030,25 @@ Warning: Undefined array key "et" in /usr/home/ManusiaBiasa/domains/manusiabiasa
 <programme start="20260407210000 +0000" stop="20260407220000 +0000" channel="Sky Sport Premier League HD.skyde">
     <title>PL: 1 to 11 (Thomas Hitzlsperger)</title>
 </programme>
-<programme start="20260406230000 +0000" stop="20260407010000 +0000" channel="Sky Sport Tennis HD.skyde">
+<programme start="20260406220000 +0000" stop="20260407003000 +0000" channel="Sky Sport Tennis HD.skyde">
     <title>WTA 500: J. Pegula (USA) -  Y. Starodubtseva (UKR), Credit One Charleston Open in Charleston (USA), Finale</title>
 </programme>
-<programme start="20260407010000 +0000" stop="20260407013000 +0000" channel="Sky Sport Tennis HD.skyde">
+<programme start="20260407003000 +0000" stop="20260407013000 +0000" channel="Sky Sport Tennis HD.skyde">
+    <title>ATP 1000: Review Miami</title>
+</programme>
+<programme start="20260407013000 +0000" stop="20260407020000 +0000" channel="Sky Sport Tennis HD.skyde">
     <title>Tennis: Andrey Rublev - Breaking Back</title>
 </programme>
-<programme start="20260407013000 +0000" stop="20260407040000 +0000" channel="Sky Sport Tennis HD.skyde">
+<programme start="20260407020000 +0000" stop="20260407043000 +0000" channel="Sky Sport Tennis HD.skyde">
     <title>ATP 250: D. Merida (ESP) - M. Navone (ARG), Tiriac Open in Bukarest (ROM), Finale</title>
 </programme>
-<programme start="20260407040000 +0000" stop="20260407060000 +0000" channel="Sky Sport Tennis HD.skyde">
+<programme start="20260407043000 +0000" stop="20260407063000 +0000" channel="Sky Sport Tennis HD.skyde">
     <title>WTA 500: T. Maria (GER) - S. Stephens (USA), Upper Austria Ladies Linz in Linz (AUT), 1. Tag</title>
 </programme>
-<programme start="20260407060000 +0000" stop="20260407063000 +0000" channel="Sky Sport Tennis HD.skyde">
+<programme start="20260407063000 +0000" stop="20260407070000 +0000" channel="Sky Sport Tennis HD.skyde">
     <title>WTA 1000: Review Miami</title>
 </programme>
-<programme start="20260407063000 +0000" stop="20260407083000 +0000" channel="Sky Sport Tennis HD.skyde">
+<programme start="20260407070000 +0000" stop="20260407090000 +0000" channel="Sky Sport Tennis HD.skyde">
     <title>ATP 1000: D. Altmaier (GER) - T. Machac (CZE), Rolex Monte-Carlo Masters in Monte-Carlo, 2. Tag</title>
 </programme>
 <programme start="20260407090000 +0000" stop="20260407170000 +0000" channel="Sky Sport Tennis HD.skyde">
@@ -3055,7 +3058,7 @@ Warning: Undefined array key "et" in /usr/home/ManusiaBiasa/domains/manusiabiasa
     <title>Live WTA 500: Upper Austria Ladies Linz in Linz (AUT), 2. Tag</title>
 </programme>
 <programme start="20260407200000 +0000" stop="20260407220000 +0000" channel="Sky Sport Tennis HD.skyde">
-    <title>ATP 1000: C. Alcaraz (ESP) - S. Baez (ARG), Rolex Monte-Carlo Masters in Monte-Carlo, 3. Tag</title>
+    <title>ATP 1000: Topspiel, Rolex Monte-Carlo Masters in Monte-Carlo, 3. Tag</title>
 </programme>
 <programme start="20260406220000 +0000" stop="20260406230000 +0000" channel="Sky Sport Top Event HD.skyde">
     <title>Live NBA: Showtime</title>
