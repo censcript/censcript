@@ -2527,7 +2527,7 @@
     <programme start="20260407100000 +0000" stop="20260407160000 +0000" channel="Hub Premier 2 HD.starhub">
         <title>End of Transmission</title>
     </programme>
-    <programme start="20260406160000 +0000" stop="20260407040000 +0000" channel="Hub Sports 5 HD.starhub">
+    <programme start="20260406220000 +0000" stop="20260407040000 +0000" channel="Hub Sports 5 HD.starhub">
         <title>End of Transmission</title>
     </programme>
     <programme start="20260407040000 +0000" stop="20260407100000 +0000" channel="Hub Sports 5 HD.starhub">
@@ -5180,19 +5180,19 @@
         <title>Day 1</title>
     </programme>
     <programme start="20260406180000 +0000" stop="20260406183000 +0000" channel="SPOTV.starhub">
-        <title>Brisbane Roar FC vs Sydney FC</title>
+        <title>2025/26 ALM Mini Match Rd 23 Brisbane Roar FC vs Sydney FC</title>
     </programme>
     <programme start="20260406183000 +0000" stop="20260406190000 +0000" channel="SPOTV.starhub">
-        <title>Central Coast Mariners FC vs Perth Glory</title>
+        <title>2025/26 ALM Mini Match Rd 23 Central Coast Mariners FC vs Perth Glory</title>
     </programme>
     <programme start="20260406190000 +0000" stop="20260406210000 +0000" channel="SPOTV.starhub">
-        <title>Al Nassr vs Al Najmah</title>
+        <title>25/26 ROSHN Saudi League MW 27 Al Nassr vs Al Najmah</title>
     </programme>
     <programme start="20260406210000 +0000" stop="20260407010000 +0000" channel="SPOTV.starhub">
         <title>Day 1</title>
     </programme>
     <programme start="20260407010000 +0000" stop="20260407030000 +0000" channel="SPOTV.starhub">
-        <title>Al Ettifaq vs Al Qadsiah</title>
+        <title>25/26 ROSHN Saudi League MW 27 Al Ettifaq vs Al Qadsiah</title>
     </programme>
     <programme start="20260407030000 +0000" stop="20260407033000 +0000" channel="SPOTV.starhub">
         <title>Highlights</title>
@@ -5204,7 +5204,7 @@
         <title>Ep 1 Jeddah</title>
     </programme>
     <programme start="20260407060000 +0000" stop="20260407080000 +0000" channel="SPOTV.starhub">
-        <title>Livingston vs Heart of Midlothian</title>
+        <title>25/26 Scottish Premiership Round 32 Livingston vs Heart of Midlothian</title>
     </programme>
     <programme start="20260407080000 +0000" stop="20260407103500 +0000" channel="SPOTV.starhub">
         <title>CSI 5 with Jump off</title>
