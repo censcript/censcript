@@ -197,7 +197,7 @@
     <title>News (L)</title>
 </programme>
 <programme start="20260407143000 +0000" stop="20260407150000 +0000" channel="Al Jazeera English.mncvision">
-    <title>The Stream</title>
+    <title>The Stream: Code &amp; Conduct</title>
 </programme>
 <programme start="20260407150000 +0000" stop="20260407160000 +0000" channel="Al Jazeera English.mncvision">
     <title>NewsHour</title>
@@ -5071,8 +5071,20 @@
 <programme start="20260407073000 +0000" stop="20260407083000 +0000" channel="Kids TV.mncvision">
     <title>SpongeBob SquarePants</title>
 </programme>
-<programme start="20260407083000 +0000" stop="20260407113000 +0000" channel="Kids TV.mncvision">
+<programme start="20260407083000 +0000" stop="20260407090000 +0000" channel="Kids TV.mncvision">
+    <title>Penguins Of Madagascar</title>
+</programme>
+<programme start="20260407090000 +0000" stop="20260407093000 +0000" channel="Kids TV.mncvision">
+    <title>Backkom S4</title>
+</programme>
+<programme start="20260407093000 +0000" stop="20260407100000 +0000" channel="Kids TV.mncvision">
+    <title>Thomas &amp; Friends S20</title>
+</programme>
+<programme start="20260407100000 +0000" stop="20260407110000 +0000" channel="Kids TV.mncvision">
     <title>Upin &amp; Ipin Bermula</title>
+</programme>
+<programme start="20260407110000 +0000" stop="20260407113000 +0000" channel="Kids TV.mncvision">
+    <title>Kung Fu Panda</title>
 </programme>
 <programme start="20260407113000 +0000" stop="20260407120000 +0000" channel="Kids TV.mncvision">
     <title>Titus The Detective</title>
@@ -5170,8 +5182,20 @@
 <programme start="20260407073000 +0000" stop="20260407083000 +0000" channel="Kids TV HD.mncvision">
     <title>SpongeBob SquarePants</title>
 </programme>
-<programme start="20260407083000 +0000" stop="20260407113000 +0000" channel="Kids TV HD.mncvision">
+<programme start="20260407083000 +0000" stop="20260407090000 +0000" channel="Kids TV HD.mncvision">
+    <title>Penguins Of Madagascar</title>
+</programme>
+<programme start="20260407090000 +0000" stop="20260407093000 +0000" channel="Kids TV HD.mncvision">
+    <title>Backkom S4</title>
+</programme>
+<programme start="20260407093000 +0000" stop="20260407100000 +0000" channel="Kids TV HD.mncvision">
+    <title>Thomas &amp; Friends S20</title>
+</programme>
+<programme start="20260407100000 +0000" stop="20260407110000 +0000" channel="Kids TV HD.mncvision">
     <title>Upin &amp; Ipin Bermula</title>
+</programme>
+<programme start="20260407110000 +0000" stop="20260407113000 +0000" channel="Kids TV HD.mncvision">
+    <title>Kung Fu Panda</title>
 </programme>
 <programme start="20260407113000 +0000" stop="20260407120000 +0000" channel="Kids TV HD.mncvision">
     <title>Titus The Detective</title>
