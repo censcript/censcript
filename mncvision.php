@@ -7481,7 +7481,7 @@
     <title>Diamond River Hunters S1, Ep 5</title>
 </programme>
 <programme start="20260406193000 +0000" stop="20260406230000 +0000" channel="RCTI.mncvision">
-    <title>Preman Pensiun S9</title>
+    <title>Preman Pensiun X</title>
 </programme>
 <programme start="20260406230000 +0000" stop="20260407010000 +0000" channel="RCTI.mncvision">
     <title>Upin Ipin</title>
@@ -7517,7 +7517,7 @@
     <title>Bundadari</title>
 </programme>
 <programme start="20260406193000 +0000" stop="20260406230000 +0000" channel="RCTI HD.mncvision">
-    <title>Preman Pensiun S9</title>
+    <title>Preman Pensiun X</title>
 </programme>
 <programme start="20260406230000 +0000" stop="20260407010000 +0000" channel="RCTI HD.mncvision">
     <title>Upin Ipin</title>

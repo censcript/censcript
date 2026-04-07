@@ -3091,80 +3091,50 @@
     <programme start="20260406230000 +0000" stop="20260406233000 +0000" channel="Bloomberg Originals.starhub">
         <title>How Flying Cars Became a Billion-Dollar Bet</title>
     </programme>
-    <programme start="20260406233000 +0000" stop="20260407000000 +0000" channel="Bloomberg Originals.starhub">
-        <title>Why a Lunar Ecosystem Could Be Worth Billions</title>
-    </programme>
-    <programme start="20260407000000 +0000" stop="20260407010000 +0000" channel="Bloomberg Originals.starhub">
-        <title>Keeping Up With the Newsoms, California&#039;s First Couple</title>
-    </programme>
-    <programme start="20260407010000 +0000" stop="20260407013000 +0000" channel="Bloomberg Originals.starhub">
-        <title>Snap CEO Evan Spiegel</title>
-    </programme>
-    <programme start="20260407013000 +0000" stop="20260407020000 +0000" channel="Bloomberg Originals.starhub">
-        <title>Reddit Co-Founder Alexis Ohanian</title>
-    </programme>
-    <programme start="20260407020000 +0000" stop="20260407023000 +0000" channel="Bloomberg Originals.starhub">
-        <title>Reese Witherspoon</title>
-    </programme>
-    <programme start="20260407023000 +0000" stop="20260407030000 +0000" channel="Bloomberg Originals.starhub">
-        <title>Disney Entertainment Co-Chair Dana Walden</title>
-    </programme>
-    <programme start="20260407030000 +0000" stop="20260407033000 +0000" channel="Bloomberg Originals.starhub">
-        <title>Inside Stargate: OpenAI&#039;s $500 Billion AI Factory (Part 1)</title>
-    </programme>
-    <programme start="20260407033000 +0000" stop="20260407040000 +0000" channel="Bloomberg Originals.starhub">
-        <title>Inside Stargate: OpenAI&#039;s $500 Billion AI Factory (Part 2)</title>
-    </programme>
-    <programme start="20260407040000 +0000" stop="20260407043000 +0000" channel="Bloomberg Originals.starhub">
-        <title>How Liquid Death Turned Advertising on Its Head</title>
-    </programme>
-    <programme start="20260407043000 +0000" stop="20260407050000 +0000" channel="Bloomberg Originals.starhub">
-        <title>How Marketers are Trying to Read Your Mind</title>
-    </programme>
-    <programme start="20260407050000 +0000" stop="20260407053000 +0000" channel="Bloomberg Originals.starhub">
-        <title>How Mattel Turned Decades-Old Toys Into Gold</title>
-    </programme>
-    <programme start="20260407053000 +0000" stop="20260407060000 +0000" channel="Bloomberg Originals.starhub">
-        <title>How McLaren Racing&#039;s CEO Runs a Top Formula 1 Team</title>
-    </programme>
-    <programme start="20260407060000 +0000" stop="20260407063000 +0000" channel="Bloomberg Originals.starhub">
-        <title>How AI Could Change the Advertising Business</title>
-    </programme>
-    <programme start="20260407063000 +0000" stop="20260407070000 +0000" channel="Bloomberg Originals.starhub">
-        <title>How an Underdog Sports League Got Millions Watching</title>
-    </programme>
-    <programme start="20260407070000 +0000" stop="20260407071000 +0000" channel="Bloomberg Originals.starhub">
-        <title>How Chinese Brands Are Going Global</title>
-    </programme>
-    <programme start="20260407071000 +0000" stop="20260407073000 +0000" channel="Bloomberg Originals.starhub">
-        <title>Tesla&#039;s Dangerous Doors</title>
-    </programme>
-    <programme start="20260407073000 +0000" stop="20260407080000 +0000" channel="Bloomberg Originals.starhub">
-        <title>A Dangerous Corner of the Global Shipping Industry</title>
-    </programme>
-    <programme start="20260407080000 +0000" stop="20260407083000 +0000" channel="Bloomberg Originals.starhub">
-        <title>Alexander Stubb, President of Finland</title>
-    </programme>
-    <programme start="20260407083000 +0000" stop="20260407090000 +0000" channel="Bloomberg Originals.starhub">
-        <title>Ray Dalio, Founder of Bridgewater Associates</title>
-    </programme>
-    <programme start="20260407090000 +0000" stop="20260407093000 +0000" channel="Bloomberg Originals.starhub">
-        <title>How to Run Your Family&#039;s $1.6 Trillion Empire</title>
-    </programme>
-    <programme start="20260407093000 +0000" stop="20260407100000 +0000" channel="Bloomberg Originals.starhub">
-        <title>Theresa May and the Brutality of Politics</title>
-    </programme>
-    <programme start="20260407100000 +0000" stop="20260407103000 +0000" channel="Bloomberg Originals.starhub">
-        <title>Inside Europe&#039;s Economic Crises With Christine Lagarde</title>
-    </programme>
-    <programme start="20260407103000 +0000" stop="20260407110000 +0000" channel="Bloomberg Originals.starhub">
-        <title>Ajay Banga on India, Migration and a Youth Jobs Time Bomb</title>
-    </programme>
-    <programme start="20260407110000 +0000" stop="20260407140000 +0000" channel="Bloomberg Originals.starhub">
+    <programme start="20260406230000 +0000" stop="20260407020000 +0000" channel="Bloomberg Originals.starhub">
         <title>Bloomberg Surveillance Radio</title>
     </programme>
-    <programme start="20260407140000 +0000" stop="20260407160000 +0000" channel="Bloomberg Originals.starhub">
+    <programme start="20260407020000 +0000" stop="20260407040000 +0000" channel="Bloomberg Originals.starhub">
         <title>Bloomberg Intelligence</title>
+    </programme>
+    <programme start="20260407040000 +0000" stop="20260407060000 +0000" channel="Bloomberg Originals.starhub">
+        <title>Balance of Power</title>
+    </programme>
+    <programme start="20260407060000 +0000" stop="20260407090000 +0000" channel="Bloomberg Originals.starhub">
+        <title>Bloomberg BusinessWeek</title>
+    </programme>
+    <programme start="20260407090000 +0000" stop="20260407093000 +0000" channel="Bloomberg Originals.starhub">
+        <title>Week in the Life of an F1 Driver</title>
+    </programme>
+    <programme start="20260407093000 +0000" stop="20260407100000 +0000" channel="Bloomberg Originals.starhub">
+        <title>The Future of Ferrari</title>
+    </programme>
+    <programme start="20260407100000 +0000" stop="20260407103000 +0000" channel="Bloomberg Originals.starhub">
+        <title>Inside the Miami Grand Prix</title>
+    </programme>
+    <programme start="20260407103000 +0000" stop="20260407110000 +0000" channel="Bloomberg Originals.starhub">
+        <title>Inside Motorsport Valley&#039;s High-Tech Future</title>
+    </programme>
+    <programme start="20260407110000 +0000" stop="20260407113000 +0000" channel="Bloomberg Originals.starhub">
+        <title>Corruption as Cancer</title>
+    </programme>
+    <programme start="20260407113000 +0000" stop="20260407120000 +0000" channel="Bloomberg Originals.starhub">
+        <title>The Making of a Chinese Spy</title>
+    </programme>
+    <programme start="20260407120000 +0000" stop="20260407124000 +0000" channel="Bloomberg Originals.starhub">
+        <title>The Secret Kingpin Behind Iran&#039;s Oil Empire</title>
+    </programme>
+    <programme start="20260407124000 +0000" stop="20260407134000 +0000" channel="Bloomberg Originals.starhub">
+        <title>North Korea&#039;s Hidden Remote IT Scheme</title>
+    </programme>
+    <programme start="20260407134000 +0000" stop="20260407144000 +0000" channel="Bloomberg Originals.starhub">
+        <title>The Zombie Debts Making Wall Street Rich</title>
+    </programme>
+    <programme start="20260407144000 +0000" stop="20260407154000 +0000" channel="Bloomberg Originals.starhub">
+        <title>The Scandal That Rocked the Philippines</title>
+    </programme>
+    <programme start="20260407154000 +0000" stop="20260407160000 +0000" channel="Bloomberg Originals.starhub">
+        <title>Tesla&#039;s Dangerous Doors</title>
     </programme>
     <programme start="20260406135000 +0000" stop="20260406180000 +0000" channel="Hub Sports 4 HD.starhub">
         <title>M12: Kolkata Knight Riders vs Punjab Kings</title>
@@ -8284,7 +8254,7 @@
     <programme start="20260407142900 +0000" stop="20260407150400 +0000" channel="Dragon TV.starhub">
         <title>CARE ON THE WAY</title>
     </programme>
-    <programme start="20260407150400 +0000" stop="20260407160000 +0000" channel="Dragon TV.starhub">
+    <programme start="20260407150400 +0000" stop="20260407170000 +0000" channel="Dragon TV.starhub">
         <title>THE CITY OF MUSICALS</title>
     </programme>
     <programme start="20260406160000 +0000" stop="20260406163000 +0000" channel="Travelxp HD.starhub">

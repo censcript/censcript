@@ -722,10 +722,10 @@
         <title>No programme available now. Next broadcast on 8th April, Wednesday 7pm. The Wonder Shop Home Shopping</title>
     </programme>
     <programme start="20260406160000 +0000" stop="20260407160000 +0000" channel="Live 2.mewatch">
-        <title>No Programme available now. Next Broadcast on 8th April, Wednesday 9.00am. Bank of Ningbo Badminton Asia Championships 2026</title>
+        <title>No Programme available now. Next Broadcast on 8th April, Wednesday 9.00am. Bank of Ningbo Badminton Asia Championships 2026 : Round of 32</title>
     </programme>
     <programme start="20260407160000 +0000" stop="20260408010000 +0000" channel="Live 2.mewatch">
-        <title>No Programme available now. Next Broadcast on 8th April, Wednesday 9.00am. Bank of Ningbo Badminton Asia Championships 2026</title>
+        <title>No Programme available now. Next Broadcast on 8th April, Wednesday 9.00am. Bank of Ningbo Badminton Asia Championships 2026 : Round of 32</title>
     </programme>
     <programme start="20260406160000 +0000" stop="20260407160000 +0000" channel="Live 5.mewatch">
         <title>No Programme available now. Next Broadcast on 11th April, Saturday 3.10pm. FIBA 3x3 World Cup Qualifier 2026</title>
