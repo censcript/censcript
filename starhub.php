@@ -7969,16 +7969,16 @@
     <programme start="20260407133000 +0000" stop="20260407163000 +0000" channel="Asianet Movies.starhub">
         <title>Geetha Govindam</title>
     </programme>
-    <programme start="20260407163000 +0000" stop="20260407193000 +0000" channel="Asianet Movies.starhub">
+    <programme start="20260407163000 +0000" stop="20260407184000 +0000" channel="Asianet Movies.starhub">
         <title>Seelabathi</title>
     </programme>
-    <programme start="20260407193000 +0000" stop="20260407213000 +0000" channel="Asianet Movies.starhub">
+    <programme start="20260407184000 +0000" stop="20260407210000 +0000" channel="Asianet Movies.starhub">
         <title>Heaven</title>
     </programme>
-    <programme start="20260407213000 +0000" stop="20260407233000 +0000" channel="Asianet Movies.starhub">
+    <programme start="20260407210000 +0000" stop="20260407234500 +0000" channel="Asianet Movies.starhub">
         <title>Arjun Reddy</title>
     </programme>
-    <programme start="20260407233000 +0000" stop="20260408013000 +0000" channel="Asianet Movies.starhub">
+    <programme start="20260407234500 +0000" stop="20260408013000 +0000" channel="Asianet Movies.starhub">
         <title>Aabhaasam</title>
     </programme>
     <programme start="20260408013000 +0000" stop="20260408043000 +0000" channel="Asianet Movies.starhub">
