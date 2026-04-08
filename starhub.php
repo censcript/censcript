@@ -2083,9 +2083,6 @@
     <programme start="20260407200000 +0000" stop="20260407213000 +0000" channel="CNN HD.starhub">
         <title>Quest Means Business (45m)</title>
     </programme>
-    <programme start="20260407213000 +0000" stop="20260407220000 +0000" channel="CNN HD.starhub">
-        <title>World Sport (30m)</title>
-    </programme>
     <programme start="20260407220000 +0000" stop="20260407230000 +0000" channel="CNN HD.starhub">
         <title>The Brief with Jim Sciutto</title>
     </programme>
@@ -2093,10 +2090,10 @@
         <title>Erin Burnett OutFront</title>
     </programme>
     <programme start="20260408000000 +0000" stop="20260408010000 +0000" channel="CNN HD.starhub">
-        <title>Anderson Cooper 360</title>
+        <title>CNN Global Report: War With Iran</title>
     </programme>
     <programme start="20260408010000 +0000" stop="20260408020000 +0000" channel="CNN HD.starhub">
-        <title>The Source with Kaitlan Collins</title>
+        <title>CNN Global Report: War With Iran</title>
     </programme>
     <programme start="20260408020000 +0000" stop="20260408030000 +0000" channel="CNN HD.starhub">
         <title>CNN NewsNight</title>
@@ -2104,14 +2101,17 @@
     <programme start="20260408030000 +0000" stop="20260408040000 +0000" channel="CNN HD.starhub">
         <title>Laura Coates Live</title>
     </programme>
-    <programme start="20260408040000 +0000" stop="20260408060000 +0000" channel="CNN HD.starhub">
+    <programme start="20260408040000 +0000" stop="20260408050000 +0000" channel="CNN HD.starhub">
+        <title>The Story Is With Elex Michaelson</title>
+    </programme>
+    <programme start="20260408050000 +0000" stop="20260408060000 +0000" channel="CNN HD.starhub">
         <title>The Story Is With Elex Michaelson</title>
     </programme>
     <programme start="20260408060000 +0000" stop="20260408070000 +0000" channel="CNN HD.starhub">
         <title>CNN Newsroom (CNNI) (60m)</title>
     </programme>
     <programme start="20260408070000 +0000" stop="20260408090000 +0000" channel="CNN HD.starhub">
-        <title>CNN Newsroom (CNNI) (45m)</title>
+        <title>CNN Newsroom (CNNI) (60m)</title>
     </programme>
     <programme start="20260408090000 +0000" stop="20260408100000 +0000" channel="CNN HD.starhub">
         <title>Early Start with Rahel Solomon</title>
@@ -2132,7 +2132,7 @@
         <title>World Sport (15m)</title>
     </programme>
     <programme start="20260408140000 +0000" stop="20260408150000 +0000" channel="CNN HD.starhub">
-        <title>Connect the World (45m)</title>
+        <title>Connect the World (60m)</title>
     </programme>
     <programme start="20260408150000 +0000" stop="20260408160000 +0000" channel="CNN HD.starhub">
         <title>One World (60m)</title>
