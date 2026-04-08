@@ -2500,82 +2500,79 @@
 <programme start="20260408211000 +0000" stop="20260408220000 +0000" channel="Sky Showcase HD.skyde">
     <title>The Copenhagen Test</title>
 </programme>
-<programme start="20260403224000 +0000" stop="20260404002000 +0000" channel="Sky Sport Austria 1 HD.skyde">
-    <title>Fußball: Klassiker der Woche: RBS - STU (2009/10)</title>
+<programme start="20260407220000 +0000" stop="20260407221500 +0000" channel="Sky Sport Austria 1 HD.skyde">
+    <title>Die UEFA CL am Dienstag: Alle Spiele, alle Tore, Viertelfinale, Hinspiele</title>
 </programme>
-<programme start="20260404002000 +0000" stop="20260404004500 +0000" channel="Sky Sport Austria 1 HD.skyde">
-    <title>UEFA CL: Magazin</title>
+<programme start="20260407221500 +0000" stop="20260408001500 +0000" channel="Sky Sport Austria 1 HD.skyde">
+    <title>UEFA CL: Real Madrid - FC Bayern München, Viertelfinale Hinspiel</title>
 </programme>
-<programme start="20260404004500 +0000" stop="20260404024500 +0000" channel="Sky Sport Austria 1 HD.skyde">
-    <title>Admiral BL: SV Oberbank Ried - SCR Altach, 25. Runde</title>
+<programme start="20260408001500 +0000" stop="20260408021500 +0000" channel="Sky Sport Austria 1 HD.skyde">
+    <title>UEFA CL: Sporting Lissabon - FC Arsenal, Viertelfinale Hinspiel</title>
 </programme>
-<programme start="20260404024500 +0000" stop="20260404033000 +0000" channel="Sky Sport Austria 1 HD.skyde">
-    <title>Fußball: Herzog gegen Herzig - Die Next Generation Show (USV Pressbaum)</title>
+<programme start="20260408021500 +0000" stop="20260408023000 +0000" channel="Sky Sport Austria 1 HD.skyde">
+    <title>Die UEFA CL am Dienstag: Alle Spiele, alle Tore, Viertelfinale, Hinspiele</title>
 </programme>
-<programme start="20260404033000 +0000" stop="20260404040000 +0000" channel="Sky Sport Austria 1 HD.skyde">
-    <title>Admiral BL: 90in30: STU - RBS, 24. Runde</title>
+<programme start="20260408023000 +0000" stop="20260408033000 +0000" channel="Sky Sport Austria 1 HD.skyde">
+    <title>UEFA EL: UEL &amp; UECL Magazin</title>
 </programme>
-<programme start="20260404040000 +0000" stop="20260404043000 +0000" channel="Sky Sport Austria 1 HD.skyde">
-    <title>UEFA CL: Magazin</title>
+<programme start="20260408033000 +0000" stop="20260408053000 +0000" channel="Sky Sport Austria 1 HD.skyde">
+    <title>UEFA CL: Real Madrid - FC Bayern München, Viertelfinale Hinspiel</title>
 </programme>
-<programme start="20260404043000 +0000" stop="20260404063000 +0000" channel="Sky Sport Austria 1 HD.skyde">
-    <title>Admiral BL: SV Oberbank Ried - SCR Altach, 25. Runde</title>
+<programme start="20260408053000 +0000" stop="20260408054500 +0000" channel="Sky Sport Austria 1 HD.skyde">
+    <title>Die UEFA CL am Dienstag: Alle Spiele, alle Tore, Viertelfinale, Hinspiele</title>
 </programme>
-<programme start="20260404063000 +0000" stop="20260404070000 +0000" channel="Sky Sport Austria 1 HD.skyde">
-    <title>Admiral BL: 100% LASK (Runden 21-24)</title>
+<programme start="20260408054500 +0000" stop="20260408074500 +0000" channel="Sky Sport Austria 1 HD.skyde">
+    <title>UEFA CL: Sporting Lissabon - FC Arsenal, Viertelfinale Hinspiel</title>
 </programme>
-<programme start="20260404070000 +0000" stop="20260404073000 +0000" channel="Sky Sport Austria 1 HD.skyde">
-    <title>Admiral BL: 100% RB Salzburg (Runden 21-24)</title>
+<programme start="20260408074500 +0000" stop="20260408083000 +0000" channel="Sky Sport Austria 1 HD.skyde">
+    <title>Die UEFA CL am Dienstag: Analyse</title>
 </programme>
-<programme start="20260404073000 +0000" stop="20260404080000 +0000" channel="Sky Sport Austria 1 HD.skyde">
-    <title>Admiral BL: 100% Sturm Graz (Runden 21-24)</title>
+<programme start="20260408083000 +0000" stop="20260408093000 +0000" channel="Sky Sport Austria 1 HD.skyde">
+    <title>UEFA EL: UEL &amp; UECL Magazin</title>
 </programme>
-<programme start="20260404080000 +0000" stop="20260404083000 +0000" channel="Sky Sport Austria 1 HD.skyde">
-    <title>Admiral BL: 100% Rapid (Runden 21-24)</title>
+<programme start="20260408093000 +0000" stop="20260408113000 +0000" channel="Sky Sport Austria 1 HD.skyde">
+    <title>UEFA CL: Real Madrid - FC Bayern München, Viertelfinale Hinspiel</title>
 </programme>
-<programme start="20260404083000 +0000" stop="20260404090000 +0000" channel="Sky Sport Austria 1 HD.skyde">
-    <title>Admiral BL: 100% Austria Wien (Runden 21-24)</title>
+<programme start="20260408113000 +0000" stop="20260408114500 +0000" channel="Sky Sport Austria 1 HD.skyde">
+    <title>Die UEFA CL am Dienstag: Alle Spiele, alle Tore, Viertelfinale, Hinspiele</title>
 </programme>
-<programme start="20260404090000 +0000" stop="20260404093000 +0000" channel="Sky Sport Austria 1 HD.skyde">
-    <title>UEFA CL: Magazin</title>
+<programme start="20260408114500 +0000" stop="20260408123000 +0000" channel="Sky Sport Austria 1 HD.skyde">
+    <title>Die UEFA CL am Dienstag: Analyse</title>
 </programme>
-<programme start="20260404093000 +0000" stop="20260404113000 +0000" channel="Sky Sport Austria 1 HD.skyde">
-    <title>Admiral BL: SV Oberbank Ried - SCR Altach, 25. Runde</title>
+<programme start="20260408123000 +0000" stop="20260408143000 +0000" channel="Sky Sport Austria 1 HD.skyde">
+    <title>UEFA CL: Sporting Lissabon - FC Arsenal, Viertelfinale Hinspiel</title>
 </programme>
-<programme start="20260404113000 +0000" stop="20260404120000 +0000" channel="Sky Sport Austria 1 HD.skyde">
-    <title>RIESENrad: Sportgrößen im Waggon 28 (Gast: Benjamin Karl)</title>
+<programme start="20260408143000 +0000" stop="20260408144500 +0000" channel="Sky Sport Austria 1 HD.skyde">
+    <title>Die UEFA CL am Dienstag: Alle Spiele, alle Tore, Viertelfinale, Hinspiele</title>
 </programme>
-<programme start="20260404120000 +0000" stop="20260404123000 +0000" channel="Sky Sport Austria 1 HD.skyde">
-    <title>UEFA CL: Magazin</title>
+<programme start="20260408144500 +0000" stop="20260408153000 +0000" channel="Sky Sport Austria 1 HD.skyde">
+    <title>Die UEFA CL am Dienstag: Analyse</title>
 </programme>
-<programme start="20260404123000 +0000" stop="20260404143000 +0000" channel="Sky Sport Austria 1 HD.skyde">
-    <title>Admiral BL: SV Oberbank Ried - SCR Altach, 25. Runde</title>
+<programme start="20260408153000 +0000" stop="20260408162500 +0000" channel="Sky Sport Austria 1 HD.skyde">
+    <title>UEFA EL: UEL &amp; UECL Magazin</title>
 </programme>
-<programme start="20260404143000 +0000" stop="20260404170000 +0000" channel="Sky Sport Austria 1 HD.skyde">
-    <title>Live Admiral BL: Samstags-Konferenz, 25. Runde</title>
+<programme start="20260408162500 +0000" stop="20260408164000 +0000" channel="Sky Sport Austria 1 HD.skyde">
+    <title>Die UEFA CL am Dienstag: Alle Spiele, alle Tore, Viertelfinale, Hinspiele</title>
 </programme>
-<programme start="20260404170000 +0000" stop="20260404180000 +0000" channel="Sky Sport Austria 1 HD.skyde">
-    <title>Live Admiral BL: Alle Spiele, alle Tore 25. Runde (Samstag)</title>
+<programme start="20260408164000 +0000" stop="20260408180000 +0000" channel="Sky Sport Austria 1 HD.skyde">
+    <title>Live UEFA EL: SC Braga - Real Betis, Viertelfinale Hinspiel</title>
 </programme>
-<programme start="20260404180000 +0000" stop="20260404183000 +0000" channel="Sky Sport Austria 1 HD.skyde">
-    <title>Fußball: Querfeld. Eine Sky Sport Austria Dokumentation</title>
+<programme start="20260408180000 +0000" stop="20260408185000 +0000" channel="Sky Sport Austria 1 HD.skyde">
+    <title>Live Die UEFA CL am Mittwoch: Vorbericht</title>
 </programme>
-<programme start="20260404183000 +0000" stop="20260404193000 +0000" channel="Sky Sport Austria 1 HD.skyde">
-    <title>Admiral BL: Alle Spiele, alle Tore 25. Runde (Samstag)</title>
+<programme start="20260408185000 +0000" stop="20260408211500 +0000" channel="Sky Sport Austria 1 HD.skyde">
+    <title>Live UEFA CL: FC Barcelona - Atletico Madrid, Viertelfinale Hinspiel</title>
 </programme>
-<programme start="20260404193000 +0000" stop="20260404200000 +0000" channel="Sky Sport Austria 1 HD.skyde">
-    <title>UEFA CL: Magazin</title>
+<programme start="20260408211500 +0000" stop="20260408213000 +0000" channel="Sky Sport Austria 1 HD.skyde">
+    <title>Die UEFA CL am Dienstag: Alle Spiele, alle Tore, Viertelfinale, Hinspiele</title>
 </programme>
-<programme start="20260404200000 +0000" stop="20260404210000 +0000" channel="Sky Sport Austria 1 HD.skyde">
-    <title>Admiral BL: Alle Spiele, alle Tore 25. Runde (Samstag)</title>
+<programme start="20260408213000 +0000" stop="20260408233000 +0000" channel="Sky Sport Austria 1 HD.skyde">
+    <title>UEFA CL: Sporting Lissabon - FC Arsenal, Viertelfinale Hinspiel</title>
 </programme>
-<programme start="20260404210000 +0000" stop="20260404230000 +0000" channel="Sky Sport Austria 1 HD.skyde">
-    <title>Admiral BL: Grazer AK 1902 - FC Blau-Weiß Linz, 25. Runde</title>
-</programme>
-<programme start="20260408162000 +0000" stop="20260408163500 +0000" channel="Sky Sport Austria 2 HD.skyde">
+<programme start="20260408162000 +0000" stop="20260408164000 +0000" channel="Sky Sport Austria 2 HD.skyde">
     <title>Es folgt: LIVE UEFA EL</title>
 </programme>
-<programme start="20260408163500 +0000" stop="20260408193000 +0000" channel="Sky Sport Austria 2 HD.skyde">
+<programme start="20260408164000 +0000" stop="20260408193000 +0000" channel="Sky Sport Austria 2 HD.skyde">
     <title>Live UEFA EL: SC Braga - Real Betis, Viertelfinale Hinspiel</title>
 </programme>
 <programme start="20260408084000 +0000" stop="20260408090000 +0000" channel="Sky Sport Austria 3 HD.skyde">
@@ -2854,10 +2851,10 @@
 <programme start="20260407223000 +0000" stop="20260407230000 +0000" channel="Sky Sport Mix HD.skyde">
     <title>NHL: On the Fly</title>
 </programme>
-<programme start="20260407230000 +0000" stop="20260408020000 +0000" channel="Sky Sport Mix HD.skyde">
+<programme start="20260407230000 +0000" stop="20260408013500 +0000" channel="Sky Sport Mix HD.skyde">
     <title>Live NHL: Philadelphia Flyers @ New Jersey Devils</title>
 </programme>
-<programme start="20260408020000 +0000" stop="20260408030000 +0000" channel="Sky Sport Mix HD.skyde">
+<programme start="20260408013500 +0000" stop="20260408030000 +0000" channel="Sky Sport Mix HD.skyde">
     <title>Live NBA: Charlotte Hornets @ Boston Celtics</title>
 </programme>
 <programme start="20260408030000 +0000" stop="20260408060000 +0000" channel="Sky Sport Mix HD.skyde">
