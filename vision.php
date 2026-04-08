@@ -628,6 +628,9 @@
 <programme start="20260408003000 +0000" stop="20260408023000 +0000" channel="ANTV.vision">
 <title>Janji Cinta Inspektur Virat</title>
 </programme>
+<programme start="20260408023000 +0000" stop="20260408060000 +0000" channel="ANTV.vision">
+<title>Karan Arjun</title>
+</programme>
 <programme start="20260408060000 +0000" stop="20260408080000 +0000" channel="ANTV.vision">
 <title>Jhanak</title>
 </programme>
@@ -1494,7 +1497,4 @@
 </programme>
 <programme start="20260408013000 +0000" stop="20260408020000 +0000" channel="DAAI TV.vision">
 <title>@Indonesia</title>
-</programme>
-<programme start="20260408020000 +0000" stop="20260408030000 +0000" channel="DAAI TV.vision">
-<title>Bincang Sehati</title>
 </programme>

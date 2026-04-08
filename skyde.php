@@ -2128,90 +2128,6 @@
 <programme start="20260408213000 +0000" stop="20260408222000 +0000" channel="Sky Documentaries HD.skyde">
     <title>Ancient Apocalypse</title>
 </programme>
-<programme start="20260407222000 +0000" stop="20260407230000 +0000" channel="Sky Krimi HD.skyde">
-    <title>SOKO Potsdam</title>
-</programme>
-<programme start="20260407230000 +0000" stop="20260407235000 +0000" channel="Sky Krimi HD.skyde">
-    <title>Professor T</title>
-</programme>
-<programme start="20260407235000 +0000" stop="20260408003500 +0000" channel="Sky Krimi HD.skyde">
-    <title>Professor T</title>
-</programme>
-<programme start="20260408003500 +0000" stop="20260408012000 +0000" channel="Sky Krimi HD.skyde">
-    <title>SOKO Köln</title>
-</programme>
-<programme start="20260408012000 +0000" stop="20260408020500 +0000" channel="Sky Krimi HD.skyde">
-    <title>SOKO Köln</title>
-</programme>
-<programme start="20260408020500 +0000" stop="20260408024500 +0000" channel="Sky Krimi HD.skyde">
-    <title>Die Rosenheim-Cops</title>
-</programme>
-<programme start="20260408024500 +0000" stop="20260408033000 +0000" channel="Sky Krimi HD.skyde">
-    <title>Die Rosenheim-Cops</title>
-</programme>
-<programme start="20260408033000 +0000" stop="20260408041500 +0000" channel="Sky Krimi HD.skyde">
-    <title>SOKO Hamburg</title>
-</programme>
-<programme start="20260408041500 +0000" stop="20260408050500 +0000" channel="Sky Krimi HD.skyde">
-    <title>SOKO Potsdam</title>
-</programme>
-<programme start="20260408050500 +0000" stop="20260408055000 +0000" channel="Sky Krimi HD.skyde">
-    <title>SOKO Köln</title>
-</programme>
-<programme start="20260408055000 +0000" stop="20260408063500 +0000" channel="Sky Krimi HD.skyde">
-    <title>SOKO Köln</title>
-</programme>
-<programme start="20260408063500 +0000" stop="20260408081000 +0000" channel="Sky Krimi HD.skyde">
-    <title>Nord bei Nordwest: Der Ring</title>
-</programme>
-<programme start="20260408081000 +0000" stop="20260408090500 +0000" channel="Sky Krimi HD.skyde">
-    <title>Watzmann ermittelt</title>
-</programme>
-<programme start="20260408090500 +0000" stop="20260408095500 +0000" channel="Sky Krimi HD.skyde">
-    <title>Watzmann ermittelt</title>
-</programme>
-<programme start="20260408095500 +0000" stop="20260408104500 +0000" channel="Sky Krimi HD.skyde">
-    <title>Die Rosenheim-Cops</title>
-</programme>
-<programme start="20260408104500 +0000" stop="20260408113500 +0000" channel="Sky Krimi HD.skyde">
-    <title>Die Rosenheim-Cops</title>
-</programme>
-<programme start="20260408113500 +0000" stop="20260408122000 +0000" channel="Sky Krimi HD.skyde">
-    <title>SOKO Hamburg</title>
-</programme>
-<programme start="20260408122000 +0000" stop="20260408131000 +0000" channel="Sky Krimi HD.skyde">
-    <title>SOKO Potsdam</title>
-</programme>
-<programme start="20260408131000 +0000" stop="20260408140000 +0000" channel="Sky Krimi HD.skyde">
-    <title>Professor T</title>
-</programme>
-<programme start="20260408140000 +0000" stop="20260408145000 +0000" channel="Sky Krimi HD.skyde">
-    <title>Professor T</title>
-</programme>
-<programme start="20260408145000 +0000" stop="20260408154000 +0000" channel="Sky Krimi HD.skyde">
-    <title>SOKO Köln</title>
-</programme>
-<programme start="20260408154000 +0000" stop="20260408163000 +0000" channel="Sky Krimi HD.skyde">
-    <title>SOKO Köln</title>
-</programme>
-<programme start="20260408163000 +0000" stop="20260408172000 +0000" channel="Sky Krimi HD.skyde">
-    <title>Watzmann ermittelt</title>
-</programme>
-<programme start="20260408172000 +0000" stop="20260408181500 +0000" channel="Sky Krimi HD.skyde">
-    <title>Watzmann ermittelt</title>
-</programme>
-<programme start="20260408181500 +0000" stop="20260408194500 +0000" channel="Sky Krimi HD.skyde">
-    <title>Katharina Tempel: Was wir verbergen</title>
-</programme>
-<programme start="20260408194500 +0000" stop="20260408203500 +0000" channel="Sky Krimi HD.skyde">
-    <title>Die Rosenheim-Cops</title>
-</programme>
-<programme start="20260408203500 +0000" stop="20260408212000 +0000" channel="Sky Krimi HD.skyde">
-    <title>Die Rosenheim-Cops</title>
-</programme>
-<programme start="20260408212000 +0000" stop="20260408221000 +0000" channel="Sky Krimi HD.skyde">
-    <title>SOKO Hamburg</title>
-</programme>
 <programme start="20260407224500 +0000" stop="20260407233000 +0000" channel="Sky Nature HD.skyde">
     <title>Into the Blue - Indonesiens Unterwasserparadiese</title>
 </programme>
@@ -2548,10 +2464,10 @@
 <programme start="20260408144500 +0000" stop="20260408153000 +0000" channel="Sky Sport Austria 1 HD.skyde">
     <title>Die UEFA CL am Dienstag: Analyse</title>
 </programme>
-<programme start="20260408153000 +0000" stop="20260408162500 +0000" channel="Sky Sport Austria 1 HD.skyde">
+<programme start="20260408153000 +0000" stop="20260408162000 +0000" channel="Sky Sport Austria 1 HD.skyde">
     <title>UEFA EL: UEL &amp; UECL Magazin</title>
 </programme>
-<programme start="20260408162500 +0000" stop="20260408164000 +0000" channel="Sky Sport Austria 1 HD.skyde">
+<programme start="20260408162000 +0000" stop="20260408164000 +0000" channel="Sky Sport Austria 1 HD.skyde">
     <title>Die UEFA CL am Dienstag: Alle Spiele, alle Tore, Viertelfinale, Hinspiele</title>
 </programme>
 <programme start="20260408164000 +0000" stop="20260408180000 +0000" channel="Sky Sport Austria 1 HD.skyde">
@@ -2578,7 +2494,7 @@
 <programme start="20260408084000 +0000" stop="20260408090000 +0000" channel="Sky Sport Austria 3 HD.skyde">
     <title>Es folgt: LIVE ATP World Tour</title>
 </programme>
-<programme start="20260408090000 +0000" stop="20260408170000 +0000" channel="Sky Sport Austria 3 HD.skyde">
+<programme start="20260408090000 +0000" stop="20260408190000 +0000" channel="Sky Sport Austria 3 HD.skyde">
     <title>Live ATP 1000: Rolex Monte-Carlo Masters in Monte-Carlo, 4. Tag</title>
 </programme>
 <programme start="20260407220000 +0000" stop="20260407230000 +0000" channel="Sky Sport Bundesliga HD.skyde">
@@ -2824,17 +2740,17 @@
 <programme start="20260408130000 +0000" stop="20260408150000 +0000" channel="Sky Sport Golf HD.skyde">
     <title>Live The Masters: On The Range (Mittwoch)</title>
 </programme>
-<programme start="20260408150000 +0000" stop="20260408155500 +0000" channel="Sky Sport Golf HD.skyde">
+<programme start="20260408150000 +0000" stop="20260408160000 +0000" channel="Sky Sport Golf HD.skyde">
     <title>The Masters: 1986</title>
 </programme>
-<programme start="20260408155500 +0000" stop="20260408164500 +0000" channel="Sky Sport Golf HD.skyde">
+<programme start="20260408160000 +0000" stop="20260408170000 +0000" channel="Sky Sport Golf HD.skyde">
     <title>The Masters: McIlroy&#039;s Masterpiece</title>
 </programme>
-<programme start="20260408164500 +0000" stop="20260408173000 +0000" channel="Sky Sport Golf HD.skyde">
-    <title>The Masters: The Legend of Bernhard Langer</title>
+<programme start="20260408170000 +0000" stop="20260408173000 +0000" channel="Sky Sport Golf HD.skyde">
+    <title>Golf: Spezial - The Masters in Augusta</title>
 </programme>
 <programme start="20260408173000 +0000" stop="20260408180000 +0000" channel="Sky Sport Golf HD.skyde">
-    <title>Golf: Spezial - The Masters in Augusta</title>
+    <title>The Masters: Official Film 1986 (Jack Nicklaus)</title>
 </programme>
 <programme start="20260408180000 +0000" stop="20260408200000 +0000" channel="Sky Sport Golf HD.skyde">
     <title>Live The Masters: Par 3 Contest</title>
@@ -3091,28 +3007,31 @@
 <programme start="20260408213000 +0000" stop="20260408220000 +0000" channel="Sky Sport Premier League HD.skyde">
     <title>PL: PL Stories (John Terry)</title>
 </programme>
-<programme start="20260407220000 +0000" stop="20260408000000 +0000" channel="Sky Sport Tennis HD.skyde">
+<programme start="20260407220000 +0000" stop="20260408003000 +0000" channel="Sky Sport Tennis HD.skyde">
     <title>WTA 500: L. Tagger (AUT) - P. Badosa (ESP) , Upper Austria Ladies Linz in Linz (AUT), 2. Tag</title>
 </programme>
-<programme start="20260408000000 +0000" stop="20260408010000 +0000" channel="Sky Sport Tennis HD.skyde">
+<programme start="20260408003000 +0000" stop="20260408013000 +0000" channel="Sky Sport Tennis HD.skyde">
     <title>ATP 1000: Review Miami</title>
 </programme>
-<programme start="20260408010000 +0000" stop="20260408013000 +0000" channel="Sky Sport Tennis HD.skyde">
+<programme start="20260408013000 +0000" stop="20260408020000 +0000" channel="Sky Sport Tennis HD.skyde">
     <title>WTA 1000: Review Miami</title>
 </programme>
-<programme start="20260408013000 +0000" stop="20260408033000 +0000" channel="Sky Sport Tennis HD.skyde">
+<programme start="20260408020000 +0000" stop="20260408031500 +0000" channel="Sky Sport Tennis HD.skyde">
     <title>ATP 1000: C. Alcaraz (ESP) - S. Baez (ARG), Rolex Monte-Carlo Masters in Monte-Carlo, 3. Tag</title>
 </programme>
-<programme start="20260408033000 +0000" stop="20260408040000 +0000" channel="Sky Sport Tennis HD.skyde">
+<programme start="20260408031500 +0000" stop="20260408034500 +0000" channel="Sky Sport Tennis HD.skyde">
     <title>ATP: This Week</title>
 </programme>
-<programme start="20260408040000 +0000" stop="20260408060000 +0000" channel="Sky Sport Tennis HD.skyde">
+<programme start="20260408034500 +0000" stop="20260408061500 +0000" channel="Sky Sport Tennis HD.skyde">
     <title>WTA 500: L. Tagger (AUT) - P. Badosa (ESP) , Upper Austria Ladies Linz in Linz (AUT), 2. Tag</title>
 </programme>
-<programme start="20260408060000 +0000" stop="20260408063000 +0000" channel="Sky Sport Tennis HD.skyde">
+<programme start="20260408061500 +0000" stop="20260408064500 +0000" channel="Sky Sport Tennis HD.skyde">
     <title>WTA 1000: Review Miami</title>
 </programme>
-<programme start="20260408063000 +0000" stop="20260408083000 +0000" channel="Sky Sport Tennis HD.skyde">
+<programme start="20260408064500 +0000" stop="20260408071000 +0000" channel="Sky Sport Tennis HD.skyde">
+    <title>ATP: This Week</title>
+</programme>
+<programme start="20260408071000 +0000" stop="20260408083000 +0000" channel="Sky Sport Tennis HD.skyde">
     <title>ATP 1000: C. Alcaraz (ESP) - S. Baez (ARG), Rolex Monte-Carlo Masters in Monte-Carlo, 3. Tag</title>
 </programme>
 <programme start="20260408083000 +0000" stop="20260408090000 +0000" channel="Sky Sport Tennis HD.skyde">
@@ -3128,7 +3047,7 @@
     <title>ATP: This Week</title>
 </programme>
 <programme start="20260408203000 +0000" stop="20260408223000 +0000" channel="Sky Sport Tennis HD.skyde">
-    <title>ATP 1000: Topspiel, Rolex Monte-Carlo Masters in Monte-Carlo, 4. Tag</title>
+    <title>ATP 1000: A. Zverev (GER) - C. Garin (CHI), Rolex Monte-Carlo Masters in Monte-Carlo, 4. Tag</title>
 </programme>
 <programme start="20260407221500 +0000" stop="20260407223000 +0000" channel="Sky Sport Top Event HD.skyde">
     <title>2. BL: Torparade 28. Spieltag</title>
@@ -3190,7 +3109,7 @@
 <programme start="20260407230000 +0000" stop="20260408000000 +0000" channel="Sky Sport 1 HD.skyde">
     <title>Live NBA: Showtime</title>
 </programme>
-<programme start="20260408000000 +0000" stop="20260408030000 +0000" channel="Sky Sport 1 HD.skyde">
+<programme start="20260408000000 +0000" stop="20260408080000 +0000" channel="Sky Sport 1 HD.skyde">
     <title>Live NBA: Charlotte Hornets @ Boston Celtics</title>
 </programme>
 <programme start="20260407220000 +0000" stop="20260407224500 +0000" channel="SYFY HD.skyde">
@@ -3651,4 +3570,97 @@
 </programme>
 <programme start="20260408213000 +0000" stop="20260408231000 +0000" channel="Warner TV Film HD.skyde">
     <title>Mad Max 2 - Der Vollstrecker</title>
+</programme>
+<programme start="20260407220500 +0000" stop="20260407225000 +0000" channel="Warner TV Serie HD.skyde">
+    <title>NCIS: Los Angeles</title>
+</programme>
+<programme start="20260407225000 +0000" stop="20260407233500 +0000" channel="Warner TV Serie HD.skyde">
+    <title>Hudson &amp; Rex</title>
+</programme>
+<programme start="20260407233500 +0000" stop="20260408002000 +0000" channel="Warner TV Serie HD.skyde">
+    <title>Hudson &amp; Rex</title>
+</programme>
+<programme start="20260408002000 +0000" stop="20260408010000 +0000" channel="Warner TV Serie HD.skyde">
+    <title>Hudson &amp; Rex</title>
+</programme>
+<programme start="20260408010000 +0000" stop="20260408014000 +0000" channel="Warner TV Serie HD.skyde">
+    <title>NCIS</title>
+</programme>
+<programme start="20260408014000 +0000" stop="20260408022000 +0000" channel="Warner TV Serie HD.skyde">
+    <title>NCIS</title>
+</programme>
+<programme start="20260408022000 +0000" stop="20260408030500 +0000" channel="Warner TV Serie HD.skyde">
+    <title>NCIS</title>
+</programme>
+<programme start="20260408030500 +0000" stop="20260408035000 +0000" channel="Warner TV Serie HD.skyde">
+    <title>Daktari</title>
+</programme>
+<programme start="20260408035000 +0000" stop="20260408044000 +0000" channel="Warner TV Serie HD.skyde">
+    <title>Daktari</title>
+</programme>
+<programme start="20260408044000 +0000" stop="20260408053500 +0000" channel="Warner TV Serie HD.skyde">
+    <title>Daktari</title>
+</programme>
+<programme start="20260408053500 +0000" stop="20260408063000 +0000" channel="Warner TV Serie HD.skyde">
+    <title>Daktari</title>
+</programme>
+<programme start="20260408063000 +0000" stop="20260408072000 +0000" channel="Warner TV Serie HD.skyde">
+    <title>Daktari</title>
+</programme>
+<programme start="20260408072000 +0000" stop="20260408081000 +0000" channel="Warner TV Serie HD.skyde">
+    <title>Mord ist ihr Hobby</title>
+</programme>
+<programme start="20260408081000 +0000" stop="20260408090000 +0000" channel="Warner TV Serie HD.skyde">
+    <title>Mord ist ihr Hobby</title>
+</programme>
+<programme start="20260408090000 +0000" stop="20260408095000 +0000" channel="Warner TV Serie HD.skyde">
+    <title>Mord ist ihr Hobby</title>
+</programme>
+<programme start="20260408095000 +0000" stop="20260408104000 +0000" channel="Warner TV Serie HD.skyde">
+    <title>Mord ist ihr Hobby</title>
+</programme>
+<programme start="20260408104000 +0000" stop="20260408112500 +0000" channel="Warner TV Serie HD.skyde">
+    <title>Rizzoli and Isles</title>
+</programme>
+<programme start="20260408112500 +0000" stop="20260408121000 +0000" channel="Warner TV Serie HD.skyde">
+    <title>Rizzoli and Isles</title>
+</programme>
+<programme start="20260408121000 +0000" stop="20260408125500 +0000" channel="Warner TV Serie HD.skyde">
+    <title>NCIS</title>
+</programme>
+<programme start="20260408125500 +0000" stop="20260408134500 +0000" channel="Warner TV Serie HD.skyde">
+    <title>NCIS</title>
+</programme>
+<programme start="20260408134500 +0000" stop="20260408143000 +0000" channel="Warner TV Serie HD.skyde">
+    <title>NCIS</title>
+</programme>
+<programme start="20260408143000 +0000" stop="20260408151500 +0000" channel="Warner TV Serie HD.skyde">
+    <title>NCIS</title>
+</programme>
+<programme start="20260408151500 +0000" stop="20260408160000 +0000" channel="Warner TV Serie HD.skyde">
+    <title>NCIS</title>
+</programme>
+<programme start="20260408160000 +0000" stop="20260408164500 +0000" channel="Warner TV Serie HD.skyde">
+    <title>NCIS</title>
+</programme>
+<programme start="20260408164500 +0000" stop="20260408173000 +0000" channel="Warner TV Serie HD.skyde">
+    <title>Rizzoli and Isles</title>
+</programme>
+<programme start="20260408173000 +0000" stop="20260408181500 +0000" channel="Warner TV Serie HD.skyde">
+    <title>Rizzoli and Isles</title>
+</programme>
+<programme start="20260408181500 +0000" stop="20260408190000 +0000" channel="Warner TV Serie HD.skyde">
+    <title>Alert: Missing Persons Unit</title>
+</programme>
+<programme start="20260408190000 +0000" stop="20260408195000 +0000" channel="Warner TV Serie HD.skyde">
+    <title>Alert: Missing Persons Unit</title>
+</programme>
+<programme start="20260408195000 +0000" stop="20260408203500 +0000" channel="Warner TV Serie HD.skyde">
+    <title>Rizzoli and Isles</title>
+</programme>
+<programme start="20260408203500 +0000" stop="20260408212000 +0000" channel="Warner TV Serie HD.skyde">
+    <title>Rizzoli and Isles</title>
+</programme>
+<programme start="20260408212000 +0000" stop="20260408220500 +0000" channel="Warner TV Serie HD.skyde">
+    <title>Rizzoli and Isles</title>
 </programme>
