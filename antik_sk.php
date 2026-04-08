@@ -3253,13 +3253,13 @@
   <programme start="20260410075500 +0000" stop="20260410082500 +0000" channel="ČT1.webtv.sk">
     <title lang="id">Buchty po ránu</title>
   </programme>
-  <programme start="20260410082500 +0000" stop="20260410083500 +0000" channel="ČT1.webtv.sk">
+  <programme start="20260410082500 +0000" stop="20260410083800 +0000" channel="ČT1.webtv.sk">
     <title lang="id">Písničky na zítra</title>
   </programme>
-  <programme start="20260410083500 +0000" stop="20260410093000 +0000" channel="ČT1.webtv.sk">
+  <programme start="20260410083800 +0000" stop="20260410093100 +0000" channel="ČT1.webtv.sk">
     <title lang="id">Vyprávěj II (1)</title>
   </programme>
-  <programme start="20260410093000 +0000" stop="20260410100000 +0000" channel="ČT1.webtv.sk">
+  <programme start="20260410093100 +0000" stop="20260410100000 +0000" channel="ČT1.webtv.sk">
     <title lang="id">AZ-kvíz</title>
   </programme>
   <programme start="20260410100000 +0000" stop="20260410102000 +0000" channel="ČT1.webtv.sk">
@@ -3271,10 +3271,10 @@
   <programme start="20260410103000 +0000" stop="20260410120000 +0000" channel="ČT1.webtv.sk">
     <title lang="id">Sama doma</title>
   </programme>
-  <programme start="20260410120000 +0000" stop="20260410122000 +0000" channel="ČT1.webtv.sk">
+  <programme start="20260410120000 +0000" stop="20260410122200 +0000" channel="ČT1.webtv.sk">
     <title lang="id">V novém světle</title>
   </programme>
-  <programme start="20260410122000 +0000" stop="20260410124500 +0000" channel="ČT1.webtv.sk">
+  <programme start="20260410122200 +0000" stop="20260410124500 +0000" channel="ČT1.webtv.sk">
     <title lang="id">Na stopě</title>
   </programme>
   <programme start="20260410124500 +0000" stop="20260410133000 +0000" channel="ČT1.webtv.sk">
@@ -3283,13 +3283,13 @@
   <programme start="20260410133000 +0000" stop="20260410141500 +0000" channel="ČT1.webtv.sk">
     <title lang="id">Úsměvy Zdenky Procházkové</title>
   </programme>
-  <programme start="20260410141500 +0000" stop="20260410143500 +0000" channel="ČT1.webtv.sk">
+  <programme start="20260410141500 +0000" stop="20260410143700 +0000" channel="ČT1.webtv.sk">
     <title lang="id">Setkání s Waldemarem a jeho hosty</title>
   </programme>
-  <programme start="20260410143500 +0000" stop="20260410153000 +0000" channel="ČT1.webtv.sk">
+  <programme start="20260410143700 +0000" stop="20260410153100 +0000" channel="ČT1.webtv.sk">
     <title lang="id">Polopatě</title>
   </programme>
-  <programme start="20260410153000 +0000" stop="20260410160000 +0000" channel="ČT1.webtv.sk">
+  <programme start="20260410153100 +0000" stop="20260410160000 +0000" channel="ČT1.webtv.sk">
     <title lang="id">AZ-kvíz</title>
   </programme>
   <programme start="20260410160000 +0000" stop="20260410162500 +0000" channel="ČT1.webtv.sk">
@@ -3304,25 +3304,25 @@
   <programme start="20260410170000 +0000" stop="20260410175600 +0000" channel="ČT1.webtv.sk">
     <title lang="id">Události</title>
   </programme>
-  <programme start="20260410175600 +0000" stop="20260410180500 +0000" channel="ČT1.webtv.sk">
+  <programme start="20260410175600 +0000" stop="20260410180600 +0000" channel="ČT1.webtv.sk">
     <title lang="id">Branky, body, vteřiny</title>
   </programme>
-  <programme start="20260410180500 +0000" stop="20260410181000 +0000" channel="ČT1.webtv.sk">
+  <programme start="20260410180600 +0000" stop="20260410181000 +0000" channel="ČT1.webtv.sk">
     <title lang="id">Losování Sportky a Šance</title>
   </programme>
   <programme start="20260410181000 +0000" stop="20260410190500 +0000" channel="ČT1.webtv.sk">
     <title lang="id">Vyprávěj II (2)</title>
   </programme>
-  <programme start="20260410190500 +0000" stop="20260410195900 +0000" channel="ČT1.webtv.sk">
+  <programme start="20260410190500 +0000" stop="20260410200000 +0000" channel="ČT1.webtv.sk">
     <title lang="id">Všechnopárty</title>
   </programme>
-  <programme start="20260410195900 +0000" stop="20260410200000 +0000" channel="ČT1.webtv.sk">
+  <programme start="20260410200000 +0000" stop="20260410200300 +0000" channel="ČT1.webtv.sk">
     <title lang="id">Výsledky losování Šťastných 10</title>
   </programme>
-  <programme start="20260410200000 +0000" stop="20260410205000 +0000" channel="ČT1.webtv.sk">
+  <programme start="20260410200300 +0000" stop="20260410205400 +0000" channel="ČT1.webtv.sk">
     <title lang="id">Hercule Poirot V (5)</title>
   </programme>
-  <programme start="20260410205000 +0000" stop="20260410214500 +0000" channel="ČT1.webtv.sk">
+  <programme start="20260410205400 +0000" stop="20260410214500 +0000" channel="ČT1.webtv.sk">
     <title lang="id">Hercule Poirot V (6)</title>
   </programme>
   <programme start="20260410214500 +0000" stop="20260410224000 +0000" channel="ČT1.webtv.sk">
@@ -9060,63 +9060,6 @@
   </programme>
   <programme start="20260410214000 +0000" stop="20260410234500 +0000" channel="AMC.webtv.sk">
     <title lang="id">Terminátor 2: Den zúčtování</title>
-  </programme>
-  <programme start="20260409213500 +0000" stop="20260409225500 +0000" channel="Film +.webtv.sk">
-    <title lang="id">Kořist</title>
-  </programme>
-  <programme start="20260409225500 +0000" stop="20260410005500 +0000" channel="Film +.webtv.sk">
-    <title lang="id">Miami Vice</title>
-  </programme>
-  <programme start="20260410005500 +0000" stop="20260410024000 +0000" channel="Film +.webtv.sk">
-    <title lang="id">Doživotí</title>
-  </programme>
-  <programme start="20260410024000 +0000" stop="20260410030500 +0000" channel="Film +.webtv.sk">
-    <title lang="id">Close Up I (1)</title>
-  </programme>
-  <programme start="20260410030500 +0000" stop="20260410033000 +0000" channel="Film +.webtv.sk">
-    <title lang="id">Close Up I (9)</title>
-  </programme>
-  <programme start="20260410033000 +0000" stop="20260410040000 +0000" channel="Film +.webtv.sk">
-    <title lang="id">Close Up I (17)</title>
-  </programme>
-  <programme start="20260410040000 +0000" stop="20260410041000 +0000" channel="Film +.webtv.sk">
-    <title lang="id">Zoom In (184)</title>
-  </programme>
-  <programme start="20260410041000 +0000" stop="20260410042000 +0000" channel="Film +.webtv.sk">
-    <title lang="id">Zoom In (199)</title>
-  </programme>
-  <programme start="20260410042000 +0000" stop="20260410062500 +0000" channel="Film +.webtv.sk">
-    <title lang="id">Ip Man 2</title>
-  </programme>
-  <programme start="20260410062500 +0000" stop="20260410080000 +0000" channel="Film +.webtv.sk">
-    <title lang="id">Trosečníci</title>
-  </programme>
-  <programme start="20260410080000 +0000" stop="20260410093500 +0000" channel="Film +.webtv.sk">
-    <title lang="id">Trosečníci</title>
-  </programme>
-  <programme start="20260410093500 +0000" stop="20260410111500 +0000" channel="Film +.webtv.sk">
-    <title lang="id">Mortdecai: Grandiózní případ</title>
-  </programme>
-  <programme start="20260410111500 +0000" stop="20260410124500 +0000" channel="Film +.webtv.sk">
-    <title lang="id">Druhý muž</title>
-  </programme>
-  <programme start="20260410124500 +0000" stop="20260410142500 +0000" channel="Film +.webtv.sk">
-    <title lang="id">Sněhurka</title>
-  </programme>
-  <programme start="20260410142500 +0000" stop="20260410160500 +0000" channel="Film +.webtv.sk">
-    <title lang="id">Veselé Velikonoce</title>
-  </programme>
-  <programme start="20260410160500 +0000" stop="20260410181000 +0000" channel="Film +.webtv.sk">
-    <title lang="id">Stážisti</title>
-  </programme>
-  <programme start="20260410181000 +0000" stop="20260410200000 +0000" channel="Film +.webtv.sk">
-    <title lang="id">Výplata</title>
-  </programme>
-  <programme start="20260410200000 +0000" stop="20260410213500 +0000" channel="Film +.webtv.sk">
-    <title lang="id">Replikant</title>
-  </programme>
-  <programme start="20260410213500 +0000" stop="20260410230000 +0000" channel="Film +.webtv.sk">
-    <title lang="id">Divoká karta</title>
   </programme>
   <programme start="20260409220000 +0000" stop="20260409224000 +0000" channel="AXN.webtv.sk">
     <title lang="id">Vzpomínky I (3)</title>
@@ -16909,131 +16852,227 @@
   <programme start="20260410214500 +0000" stop="20260410220000 +0000" channel="TVP World.webtv.sk">
     <title lang="id">World Talks (1764)</title>
   </programme>
-  <programme start="20260409214500 +0000" stop="20260409224000 +0000" channel="TVP Polonia.webtv.sk">
-    <title lang="id">Oprawcy z Katynia (2)</title>
+  <programme start="20260409220000 +0000" stop="20260409221500 +0000" channel="TVP Info.webtv.sk">
+    <title lang="id">Serwis Info Wieczór</title>
   </programme>
-  <programme start="20260409224000 +0000" stop="20260409231000 +0000" channel="TVP Polonia.webtv.sk">
-    <title lang="id">Rodzinka.pl XIII (242)</title>
+  <programme start="20260409221500 +0000" stop="20260409222700 +0000" channel="TVP Info.webtv.sk">
+    <title lang="id">Pogoda Info</title>
   </programme>
-  <programme start="20260409231000 +0000" stop="20260409233000 +0000" channel="TVP Polonia.webtv.sk">
-    <title lang="id">Kresowe grody i rody (5)</title>
-  </programme>
-  <programme start="20260409233000 +0000" stop="20260409235500 +0000" channel="TVP Polonia.webtv.sk">
+  <programme start="20260409222700 +0000" stop="20260409225500 +0000" channel="TVP Info.webtv.sk">
     <title lang="id">Program informacyjny 19.30</title>
   </programme>
-  <programme start="20260409235500 +0000" stop="20260410000500 +0000" channel="TVP Polonia.webtv.sk">
+  <programme start="20260409225500 +0000" stop="20260409231500 +0000" channel="TVP Info.webtv.sk">
     <title lang="id">Pytanie dnia (648)</title>
   </programme>
-  <programme start="20260410000500 +0000" stop="20260410001000 +0000" channel="TVP Polonia.webtv.sk">
-    <title lang="id">Sport</title>
+  <programme start="20260409231500 +0000" stop="20260409235800 +0000" channel="TVP Info.webtv.sk">
+    <title lang="id">Niebezpieczne zwiazki (97)</title>
   </programme>
-  <programme start="20260410001000 +0000" stop="20260410001500 +0000" channel="TVP Polonia.webtv.sk">
-    <title lang="id">Pogoda</title>
+  <programme start="20260409235800 +0000" stop="20260410000500 +0000" channel="TVP Info.webtv.sk">
+    <title lang="id">Pogoda Info</title>
   </programme>
-  <programme start="20260410001500 +0000" stop="20260410010500 +0000" channel="TVP Polonia.webtv.sk">
-    <title lang="id">Ojciec Mateusz XXXIII (1)</title>
+  <programme start="20260410000500 +0000" stop="20260410003500 +0000" channel="TVP Info.webtv.sk">
+    <title lang="id">Oko na Swiat (720)</title>
   </programme>
-  <programme start="20260410010500 +0000" stop="20260410020000 +0000" channel="TVP Polonia.webtv.sk">
-    <title lang="id">Ojciec Mateusz XXXIII (2)</title>
+  <programme start="20260410003500 +0000" stop="20260410005000 +0000" channel="TVP Info.webtv.sk">
+    <title lang="id">112. Magazyn kryminalny</title>
   </programme>
-  <programme start="20260410020000 +0000" stop="20260410030000 +0000" channel="TVP Polonia.webtv.sk">
-    <title lang="id">Polonia 24. Tygodnik (106)</title>
+  <programme start="20260410005000 +0000" stop="20260410012000 +0000" channel="TVP Info.webtv.sk">
+    <title lang="id">Panorama Dnia</title>
   </programme>
-  <programme start="20260410030000 +0000" stop="20260410033500 +0000" channel="TVP Polonia.webtv.sk">
-    <title lang="id">Barwy szczescia (3288)</title>
+  <programme start="20260410012000 +0000" stop="20260410012200 +0000" channel="TVP Info.webtv.sk">
+    <title lang="id">Pogoda Info</title>
   </programme>
-  <programme start="20260410033500 +0000" stop="20260410043000 +0000" channel="TVP Polonia.webtv.sk">
-    <title lang="id">Gra słów. Krzyzówka (1113)</title>
+  <programme start="20260410012200 +0000" stop="20260410014500 +0000" channel="TVP Info.webtv.sk">
+    <title lang="id">Wykrywacz kłamstw (156)</title>
   </programme>
-  <programme start="20260410043000 +0000" stop="20260410050000 +0000" channel="TVP Polonia.webtv.sk">
-    <title lang="id">Mody Polskie (5)</title>
+  <programme start="20260410014500 +0000" stop="20260410022200 +0000" channel="TVP Info.webtv.sk">
+    <title lang="id">Podróze z historia III (28)</title>
   </programme>
-  <programme start="20260410050000 +0000" stop="20260410053000 +0000" channel="TVP Polonia.webtv.sk">
-    <title lang="id">Makłowicz w podrózy (151)</title>
+  <programme start="20260410022200 +0000" stop="20260410025500 +0000" channel="TVP Info.webtv.sk">
+    <title lang="id">Stacja Arktyka (1)</title>
   </programme>
-  <programme start="20260410053000 +0000" stop="20260410055500 +0000" channel="TVP Polonia.webtv.sk">
-    <title lang="id">Pytanie na sniadanie (7519)</title>
+  <programme start="20260410025500 +0000" stop="20260410034500 +0000" channel="TVP Info.webtv.sk">
+    <title lang="id">Kwiatki polskie (398)</title>
   </programme>
-  <programme start="20260410055500 +0000" stop="20260410093500 +0000" channel="TVP Polonia.webtv.sk">
-    <title lang="id">Pytanie na sniadanie (7519)</title>
+  <programme start="20260410034500 +0000" stop="20260410034700 +0000" channel="TVP Info.webtv.sk">
+    <title lang="id">Info Poranek</title>
   </programme>
-  <programme start="20260410093500 +0000" stop="20260410095000 +0000" channel="TVP Polonia.webtv.sk">
-    <title lang="id">Kresowe grody i rody (5)</title>
+  <programme start="20260410034700 +0000" stop="20260410035000 +0000" channel="TVP Info.webtv.sk">
+    <title lang="id">Serwis Info Poranek</title>
   </programme>
-  <programme start="20260410095000 +0000" stop="20260410100000 +0000" channel="TVP Polonia.webtv.sk">
-    <title lang="id">Przepis dnia (233)</title>
+  <programme start="20260410035000 +0000" stop="20260410035200 +0000" channel="TVP Info.webtv.sk">
+    <title lang="id">Pogoda Info</title>
   </programme>
-  <programme start="20260410100000 +0000" stop="20260410101000 +0000" channel="TVP Polonia.webtv.sk">
-    <title lang="id">Serwis Info</title>
+  <programme start="20260410035200 +0000" stop="20260410040000 +0000" channel="TVP Info.webtv.sk">
+    <title lang="id">Info Poranek</title>
   </programme>
-  <programme start="20260410101000 +0000" stop="20260410110000 +0000" channel="TVP Polonia.webtv.sk">
-    <title lang="id">M jak miłosc (1913)</title>
+  <programme start="20260410040000 +0000" stop="20260410040700 +0000" channel="TVP Info.webtv.sk">
+    <title lang="id">Serwis Info Poranek</title>
   </programme>
-  <programme start="20260410110000 +0000" stop="20260410115000 +0000" channel="TVP Polonia.webtv.sk">
-    <title lang="id">25 lat miłosci: Jubileusz M jak miłosc (1)</title>
+  <programme start="20260410040700 +0000" stop="20260410041300 +0000" channel="TVP Info.webtv.sk">
+    <title lang="id">Info Poranek</title>
   </programme>
-  <programme start="20260410115000 +0000" stop="20260410130000 +0000" channel="TVP Polonia.webtv.sk">
-    <title lang="id">Polonia 24. Tygodnik (106)</title>
+  <programme start="20260410041300 +0000" stop="20260410041500 +0000" channel="TVP Info.webtv.sk">
+    <title lang="id">Pogoda Info</title>
   </programme>
-  <programme start="20260410130000 +0000" stop="20260410131000 +0000" channel="TVP Polonia.webtv.sk">
-    <title lang="id">Serwis Info</title>
+  <programme start="20260410041500 +0000" stop="20260410043000 +0000" channel="TVP Info.webtv.sk">
+    <title lang="id">Info Poranek</title>
   </programme>
-  <programme start="20260410131000 +0000" stop="20260410134000 +0000" channel="TVP Polonia.webtv.sk">
-    <title lang="id">Wszystko przed nami (81)</title>
+  <programme start="20260410043000 +0000" stop="20260410043300 +0000" channel="TVP Info.webtv.sk">
+    <title lang="id">Serwis Info Poranek</title>
   </programme>
-  <programme start="20260410134000 +0000" stop="20260410140000 +0000" channel="TVP Polonia.webtv.sk">
-    <title lang="id">Turystyczna Jazda (154)</title>
+  <programme start="20260410043300 +0000" stop="20260410044000 +0000" channel="TVP Info.webtv.sk">
+    <title lang="id">Info Poranek</title>
   </programme>
-  <programme start="20260410140000 +0000" stop="20260410150000 +0000" channel="TVP Polonia.webtv.sk">
-    <title lang="id">Józef Czapski - swiadek wieku 1896 - 1993 (1993)</title>
+  <programme start="20260410044000 +0000" stop="20260410044500 +0000" channel="TVP Info.webtv.sk">
+    <title lang="id">Pogoda Info</title>
   </programme>
-  <programme start="20260410150000 +0000" stop="20260410152000 +0000" channel="TVP Polonia.webtv.sk">
+  <programme start="20260410044500 +0000" stop="20260410045000 +0000" channel="TVP Info.webtv.sk">
+    <title lang="id">Info Poranek</title>
+  </programme>
+  <programme start="20260410045000 +0000" stop="20260410045500 +0000" channel="TVP Info.webtv.sk">
+    <title lang="id">Agrobiznes Info 6:50</title>
+  </programme>
+  <programme start="20260410045500 +0000" stop="20260410045700 +0000" channel="TVP Info.webtv.sk">
+    <title lang="id">Agropogoda Info</title>
+  </programme>
+  <programme start="20260410045700 +0000" stop="20260410045900 +0000" channel="TVP Info.webtv.sk">
+    <title lang="id">Info Poranek</title>
+  </programme>
+  <programme start="20260410045900 +0000" stop="20260410050000 +0000" channel="TVP Info.webtv.sk">
+    <title lang="id">Info Poranek</title>
+  </programme>
+  <programme start="20260410050000 +0000" stop="20260410050500 +0000" channel="TVP Info.webtv.sk">
+    <title lang="id">Serwis Info Poranek</title>
+  </programme>
+  <programme start="20260410050500 +0000" stop="20260410053000 +0000" channel="TVP Info.webtv.sk">
+    <title lang="id">Polska o Poranku</title>
+  </programme>
+  <programme start="20260410053000 +0000" stop="20260410054200 +0000" channel="TVP Info.webtv.sk">
+    <title lang="id">Agrobiznes Info</title>
+  </programme>
+  <programme start="20260410054200 +0000" stop="20260410054500 +0000" channel="TVP Info.webtv.sk">
+    <title lang="id">Agropogoda Info</title>
+  </programme>
+  <programme start="20260410054500 +0000" stop="20260410060000 +0000" channel="TVP Info.webtv.sk">
+    <title lang="id">Gosc Poranka (561)</title>
+  </programme>
+  <programme start="20260410060000 +0000" stop="20260410070000 +0000" channel="TVP Info.webtv.sk">
+    <title lang="id">Serwis Info Poranek</title>
+  </programme>
+  <programme start="20260410070000 +0000" stop="20260410080000 +0000" channel="TVP Info.webtv.sk">
+    <title lang="id">Serwis Info Poranek</title>
+  </programme>
+  <programme start="20260410080000 +0000" stop="20260410082200 +0000" channel="TVP Info.webtv.sk">
+    <title lang="id">Serwis Info Dzien</title>
+  </programme>
+  <programme start="20260410082200 +0000" stop="20260410083000 +0000" channel="TVP Info.webtv.sk">
+    <title lang="id">Pogoda Info</title>
+  </programme>
+  <programme start="20260410083000 +0000" stop="20260410090000 +0000" channel="TVP Info.webtv.sk">
+    <title lang="id">Serwis Info Dzien</title>
+  </programme>
+  <programme start="20260410090000 +0000" stop="20260410092200 +0000" channel="TVP Info.webtv.sk">
+    <title lang="id">Serwis Info Dzien</title>
+  </programme>
+  <programme start="20260410092200 +0000" stop="20260410093000 +0000" channel="TVP Info.webtv.sk">
+    <title lang="id">Pogoda Info</title>
+  </programme>
+  <programme start="20260410093000 +0000" stop="20260410095500 +0000" channel="TVP Info.webtv.sk">
+    <title lang="id">Serwis Info Dzien</title>
+  </programme>
+  <programme start="20260410095500 +0000" stop="20260410110000 +0000" channel="TVP Info.webtv.sk">
+    <title lang="id">Za piec dwunasta</title>
+  </programme>
+  <programme start="20260410110000 +0000" stop="20260410112200 +0000" channel="TVP Info.webtv.sk">
+    <title lang="id">Serwis Info Dzien</title>
+  </programme>
+  <programme start="20260410112200 +0000" stop="20260410113000 +0000" channel="TVP Info.webtv.sk">
+    <title lang="id">Pogoda Info</title>
+  </programme>
+  <programme start="20260410113000 +0000" stop="20260410120000 +0000" channel="TVP Info.webtv.sk">
+    <title lang="id">Serwis Info Dzien</title>
+  </programme>
+  <programme start="20260410120000 +0000" stop="20260410122200 +0000" channel="TVP Info.webtv.sk">
+    <title lang="id">Serwis Info Dzien</title>
+  </programme>
+  <programme start="20260410122200 +0000" stop="20260410123000 +0000" channel="TVP Info.webtv.sk">
+    <title lang="id">Pogoda Info</title>
+  </programme>
+  <programme start="20260410123000 +0000" stop="20260410125200 +0000" channel="TVP Info.webtv.sk">
+    <title lang="id">Program informacyjny 14.30</title>
+  </programme>
+  <programme start="20260410125200 +0000" stop="20260410130000 +0000" channel="TVP Info.webtv.sk">
+    <title lang="id">Pogoda Info</title>
+  </programme>
+  <programme start="20260410130000 +0000" stop="20260410132200 +0000" channel="TVP Info.webtv.sk">
+    <title lang="id">Serwis Info Dzien</title>
+  </programme>
+  <programme start="20260410132200 +0000" stop="20260410133000 +0000" channel="TVP Info.webtv.sk">
+    <title lang="id">Pogoda Info</title>
+  </programme>
+  <programme start="20260410133000 +0000" stop="20260410134500 +0000" channel="TVP Info.webtv.sk">
+    <title lang="id">Serwis Info Dzien</title>
+  </programme>
+  <programme start="20260410134500 +0000" stop="20260410140000 +0000" channel="TVP Info.webtv.sk">
+    <title lang="id">Panorama 15.45</title>
+  </programme>
+  <programme start="20260410140000 +0000" stop="20260410150000 +0000" channel="TVP Info.webtv.sk">
+    <title lang="id">Dzien w godzine</title>
+  </programme>
+  <programme start="20260410150000 +0000" stop="20260410151500 +0000" channel="TVP Info.webtv.sk">
     <title lang="id">Teleexpress</title>
   </programme>
-  <programme start="20260410152000 +0000" stop="20260410155000 +0000" channel="TVP Polonia.webtv.sk">
-    <title lang="id">Gra słów. Krzyzówka (1114)</title>
-  </programme>
-  <programme start="20260410155000 +0000" stop="20260410161500 +0000" channel="TVP Polonia.webtv.sk">
+  <programme start="20260410151500 +0000" stop="20260410153500 +0000" channel="TVP Info.webtv.sk">
     <title lang="id">Teleexpress Extra</title>
   </programme>
-  <programme start="20260410161500 +0000" stop="20260410164500 +0000" channel="TVP Polonia.webtv.sk">
-    <title lang="id">Górna półka smaku II (14)</title>
+  <programme start="20260410153500 +0000" stop="20260410154200 +0000" channel="TVP Info.webtv.sk">
+    <title lang="id">Panorama 17.35</title>
   </programme>
-  <programme start="20260410164500 +0000" stop="20260410172000 +0000" channel="TVP Polonia.webtv.sk">
+  <programme start="20260410154200 +0000" stop="20260410160000 +0000" channel="TVP Info.webtv.sk">
+    <title lang="id">Wykrywacz kłamstw (157)</title>
+  </programme>
+  <programme start="20260410160000 +0000" stop="20260410163000 +0000" channel="TVP Info.webtv.sk">
     <title lang="id">Panorama 18.00</title>
   </programme>
-  <programme start="20260410172000 +0000" stop="20260410173000 +0000" channel="TVP Polonia.webtv.sk">
-    <title lang="id">Polacy Swiatu (59)</title>
+  <programme start="20260410163000 +0000" stop="20260410171000 +0000" channel="TVP Info.webtv.sk">
+    <title lang="id">Forum (1467)</title>
   </programme>
-  <programme start="20260410173000 +0000" stop="20260410175500 +0000" channel="TVP Polonia.webtv.sk">
+  <programme start="20260410171000 +0000" stop="20260410173000 +0000" channel="TVP Info.webtv.sk">
+    <title lang="id">Serwis Info Wieczór</title>
+  </programme>
+  <programme start="20260410173000 +0000" stop="20260410175800 +0000" channel="TVP Info.webtv.sk">
     <title lang="id">Program informacyjny 19.30</title>
   </programme>
-  <programme start="20260410175500 +0000" stop="20260410181000 +0000" channel="TVP Polonia.webtv.sk">
+  <programme start="20260410175800 +0000" stop="20260410181800 +0000" channel="TVP Info.webtv.sk">
     <title lang="id">Pytanie dnia (649)</title>
   </programme>
-  <programme start="20260410181000 +0000" stop="20260410181500 +0000" channel="TVP Polonia.webtv.sk">
-    <title lang="id">Sport</title>
+  <programme start="20260410181800 +0000" stop="20260410185700 +0000" channel="TVP Info.webtv.sk">
+    <title lang="id">Kłamstwo nie przejdzie (5)</title>
   </programme>
-  <programme start="20260410181500 +0000" stop="20260410182500 +0000" channel="TVP Polonia.webtv.sk">
-    <title lang="id">Pogoda</title>
+  <programme start="20260410185700 +0000" stop="20260410190000 +0000" channel="TVP Info.webtv.sk">
+    <title lang="id">Serwis Info Wieczór</title>
   </programme>
-  <programme start="20260410182500 +0000" stop="20260410191500 +0000" channel="TVP Polonia.webtv.sk">
-    <title lang="id">Na dobre i na złe (983)</title>
+  <programme start="20260410190000 +0000" stop="20260410194500 +0000" channel="TVP Info.webtv.sk">
+    <title lang="id">Kwiatki polskie (399)</title>
   </programme>
-  <programme start="20260410191500 +0000" stop="20260410194500 +0000" channel="TVP Polonia.webtv.sk">
-    <title lang="id">Na sygnale (627)</title>
-  </programme>
-  <programme start="20260410194500 +0000" stop="20260410201500 +0000" channel="TVP Polonia.webtv.sk">
-    <title lang="id">Na sygnale (628)</title>
-  </programme>
-  <programme start="20260410201500 +0000" stop="20260410211500 +0000" channel="TVP Polonia.webtv.sk">
-    <title lang="id">Szansa na sukces. Opole 2026 (6)</title>
-  </programme>
-  <programme start="20260410211500 +0000" stop="20260410214500 +0000" channel="TVP Polonia.webtv.sk">
+  <programme start="20260410194500 +0000" stop="20260410201000 +0000" channel="TVP Info.webtv.sk">
     <title lang="id">Panorama</title>
   </programme>
-  <programme start="20260410214500 +0000" stop="20260410224000 +0000" channel="TVP Polonia.webtv.sk">
-    <title lang="id">Matki, zony i kochanki (5/22)</title>
+  <programme start="20260410201000 +0000" stop="20260410203000 +0000" channel="TVP Info.webtv.sk">
+    <title lang="id">Oko na Swiat (721)</title>
+  </programme>
+  <programme start="20260410203000 +0000" stop="20260410204500 +0000" channel="TVP Info.webtv.sk">
+    <title lang="id">Program informacyjny 22.30</title>
+  </programme>
+  <programme start="20260410204500 +0000" stop="20260410210000 +0000" channel="TVP Info.webtv.sk">
+    <title lang="id">112. Magazyn kryminalny</title>
+  </programme>
+  <programme start="20260410210000 +0000" stop="20260410213000 +0000" channel="TVP Info.webtv.sk">
+    <title lang="id">Panorama Dnia</title>
+  </programme>
+  <programme start="20260410213000 +0000" stop="20260410220000 +0000" channel="TVP Info.webtv.sk">
+    <title lang="id">Rozmowy noca (212)</title>
   </programme>
   <programme start="20260409215000 +0000" stop="20260409223000 +0000" channel="UA TV.webtv.sk">
     <title lang="id">Обличчя війни</title>
@@ -19713,6 +19752,81 @@
   </programme>
   <programme start="20260410213000 +0000" stop="20260410220000 +0000" channel="CGTN Documentary.webtv.sk">
     <title lang="id">Northward (2)</title>
+  </programme>
+  <programme start="20260409213000 +0000" stop="20260410040000 +0000" channel="Óčko.webtv.sk">
+    <title lang="id">ÓČKO FLIRT</title>
+  </programme>
+  <programme start="20260410040000 +0000" stop="20260410070000 +0000" channel="Óčko.webtv.sk">
+    <title lang="id">RANNÍ FRESH</title>
+  </programme>
+  <programme start="20260410070000 +0000" stop="20260410073000 +0000" channel="Óčko.webtv.sk">
+    <title lang="id">CENY ANDĚL 2025: RAP</title>
+  </programme>
+  <programme start="20260410073000 +0000" stop="20260410080000 +0000" channel="Óčko.webtv.sk">
+    <title lang="id">RANNÍ FRESH</title>
+  </programme>
+  <programme start="20260410080000 +0000" stop="20260410081500 +0000" channel="Óčko.webtv.sk">
+    <title lang="id">TEREZA MAŠKOVÁ WEEK: TOP 3 COVERY</title>
+  </programme>
+  <programme start="20260410081500 +0000" stop="20260410090000 +0000" channel="Óčko.webtv.sk">
+    <title lang="id">ÓČKO HITY</title>
+  </programme>
+  <programme start="20260410090000 +0000" stop="20260410092000 +0000" channel="Óčko.webtv.sk">
+    <title lang="id">TOP 4 ÓČKO CHART</title>
+  </programme>
+  <programme start="20260410092000 +0000" stop="20260410100000 +0000" channel="Óčko.webtv.sk">
+    <title lang="id">ÓČKO HITY</title>
+  </programme>
+  <programme start="20260410100000 +0000" stop="20260410101500 +0000" channel="Óčko.webtv.sk">
+    <title lang="id">TEREZA MAŠKOVÁ WEEK: TOP 3 HITY</title>
+  </programme>
+  <programme start="20260410101500 +0000" stop="20260410110000 +0000" channel="Óčko.webtv.sk">
+    <title lang="id">ÓČKO HITY</title>
+  </programme>
+  <programme start="20260410110000 +0000" stop="20260410120000 +0000" channel="Óčko.webtv.sk">
+    <title lang="id">SOUNDTRACKY</title>
+  </programme>
+  <programme start="20260410120000 +0000" stop="20260410121500 +0000" channel="Óčko.webtv.sk">
+    <title lang="id">TEREZA MAŠKOVÁ WEEK: TOP 3 DEBUTY</title>
+  </programme>
+  <programme start="20260410121500 +0000" stop="20260410130000 +0000" channel="Óčko.webtv.sk">
+    <title lang="id">ÓČKO HITY</title>
+  </programme>
+  <programme start="20260410130000 +0000" stop="20260410140000 +0000" channel="Óčko.webtv.sk">
+    <title lang="id">1CHARTED</title>
+  </programme>
+  <programme start="20260410140000 +0000" stop="20260410143000 +0000" channel="Óčko.webtv.sk">
+    <title lang="id">NEW MUSIC RADAR</title>
+  </programme>
+  <programme start="20260410143000 +0000" stop="20260410150000 +0000" channel="Óčko.webtv.sk">
+    <title lang="id">ÓČKO HITY</title>
+  </programme>
+  <programme start="20260410150000 +0000" stop="20260410151500 +0000" channel="Óčko.webtv.sk">
+    <title lang="id">TEREZA MAŠKOVÁ WEEK: TOP 3 FEATY</title>
+  </programme>
+  <programme start="20260410151500 +0000" stop="20260410160000 +0000" channel="Óčko.webtv.sk">
+    <title lang="id">ÓČKO HITY</title>
+  </programme>
+  <programme start="20260410160000 +0000" stop="20260410163000 +0000" channel="Óčko.webtv.sk">
+    <title lang="id">CENY ANDĚL 2025: RAP</title>
+  </programme>
+  <programme start="20260410163000 +0000" stop="20260410170000 +0000" channel="Óčko.webtv.sk">
+    <title lang="id">CZ &amp; SK</title>
+  </programme>
+  <programme start="20260410170000 +0000" stop="20260410171500 +0000" channel="Óčko.webtv.sk">
+    <title lang="id">TEREZA MAŠKOVÁ WEEK: TOP 3 ŽIVÁKY</title>
+  </programme>
+  <programme start="20260410171500 +0000" stop="20260410180000 +0000" channel="Óčko.webtv.sk">
+    <title lang="id">ÓČKO HITY</title>
+  </programme>
+  <programme start="20260410180000 +0000" stop="20260410200000 +0000" channel="Óčko.webtv.sk">
+    <title lang="id">PARTY RIDE</title>
+  </programme>
+  <programme start="20260410200000 +0000" stop="20260410210000 +0000" channel="Óčko.webtv.sk">
+    <title lang="id">O BLACK PARTY</title>
+  </programme>
+  <programme start="20260410210000 +0000" stop="20260410220000 +0000" channel="Óčko.webtv.sk">
+    <title lang="id">PARTY RIDE D&amp;B</title>
   </programme>
   <programme start="20260409220000 +0000" stop="20260410050000 +0000" channel="Óčko Black.webtv.sk">
     <title lang="id">SLEEPIN’</title>

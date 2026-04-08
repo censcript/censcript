@@ -2128,6 +2128,90 @@
 <programme start="20260408213000 +0000" stop="20260408222000 +0000" channel="Sky Documentaries HD.skyde">
     <title>Ancient Apocalypse</title>
 </programme>
+<programme start="20260407222000 +0000" stop="20260407230000 +0000" channel="Sky Krimi HD.skyde">
+    <title>SOKO Potsdam</title>
+</programme>
+<programme start="20260407230000 +0000" stop="20260407235000 +0000" channel="Sky Krimi HD.skyde">
+    <title>Professor T</title>
+</programme>
+<programme start="20260407235000 +0000" stop="20260408003500 +0000" channel="Sky Krimi HD.skyde">
+    <title>Professor T</title>
+</programme>
+<programme start="20260408003500 +0000" stop="20260408012000 +0000" channel="Sky Krimi HD.skyde">
+    <title>SOKO Köln</title>
+</programme>
+<programme start="20260408012000 +0000" stop="20260408020500 +0000" channel="Sky Krimi HD.skyde">
+    <title>SOKO Köln</title>
+</programme>
+<programme start="20260408020500 +0000" stop="20260408024500 +0000" channel="Sky Krimi HD.skyde">
+    <title>Die Rosenheim-Cops</title>
+</programme>
+<programme start="20260408024500 +0000" stop="20260408033000 +0000" channel="Sky Krimi HD.skyde">
+    <title>Die Rosenheim-Cops</title>
+</programme>
+<programme start="20260408033000 +0000" stop="20260408041500 +0000" channel="Sky Krimi HD.skyde">
+    <title>SOKO Hamburg</title>
+</programme>
+<programme start="20260408041500 +0000" stop="20260408050500 +0000" channel="Sky Krimi HD.skyde">
+    <title>SOKO Potsdam</title>
+</programme>
+<programme start="20260408050500 +0000" stop="20260408055000 +0000" channel="Sky Krimi HD.skyde">
+    <title>SOKO Köln</title>
+</programme>
+<programme start="20260408055000 +0000" stop="20260408063500 +0000" channel="Sky Krimi HD.skyde">
+    <title>SOKO Köln</title>
+</programme>
+<programme start="20260408063500 +0000" stop="20260408081000 +0000" channel="Sky Krimi HD.skyde">
+    <title>Nord bei Nordwest: Der Ring</title>
+</programme>
+<programme start="20260408081000 +0000" stop="20260408090500 +0000" channel="Sky Krimi HD.skyde">
+    <title>Watzmann ermittelt</title>
+</programme>
+<programme start="20260408090500 +0000" stop="20260408095500 +0000" channel="Sky Krimi HD.skyde">
+    <title>Watzmann ermittelt</title>
+</programme>
+<programme start="20260408095500 +0000" stop="20260408104500 +0000" channel="Sky Krimi HD.skyde">
+    <title>Die Rosenheim-Cops</title>
+</programme>
+<programme start="20260408104500 +0000" stop="20260408113500 +0000" channel="Sky Krimi HD.skyde">
+    <title>Die Rosenheim-Cops</title>
+</programme>
+<programme start="20260408113500 +0000" stop="20260408122000 +0000" channel="Sky Krimi HD.skyde">
+    <title>SOKO Hamburg</title>
+</programme>
+<programme start="20260408122000 +0000" stop="20260408131000 +0000" channel="Sky Krimi HD.skyde">
+    <title>SOKO Potsdam</title>
+</programme>
+<programme start="20260408131000 +0000" stop="20260408140000 +0000" channel="Sky Krimi HD.skyde">
+    <title>Professor T</title>
+</programme>
+<programme start="20260408140000 +0000" stop="20260408145000 +0000" channel="Sky Krimi HD.skyde">
+    <title>Professor T</title>
+</programme>
+<programme start="20260408145000 +0000" stop="20260408154000 +0000" channel="Sky Krimi HD.skyde">
+    <title>SOKO Köln</title>
+</programme>
+<programme start="20260408154000 +0000" stop="20260408163000 +0000" channel="Sky Krimi HD.skyde">
+    <title>SOKO Köln</title>
+</programme>
+<programme start="20260408163000 +0000" stop="20260408172000 +0000" channel="Sky Krimi HD.skyde">
+    <title>Watzmann ermittelt</title>
+</programme>
+<programme start="20260408172000 +0000" stop="20260408181500 +0000" channel="Sky Krimi HD.skyde">
+    <title>Watzmann ermittelt</title>
+</programme>
+<programme start="20260408181500 +0000" stop="20260408194500 +0000" channel="Sky Krimi HD.skyde">
+    <title>Katharina Tempel: Was wir verbergen</title>
+</programme>
+<programme start="20260408194500 +0000" stop="20260408203500 +0000" channel="Sky Krimi HD.skyde">
+    <title>Die Rosenheim-Cops</title>
+</programme>
+<programme start="20260408203500 +0000" stop="20260408212000 +0000" channel="Sky Krimi HD.skyde">
+    <title>Die Rosenheim-Cops</title>
+</programme>
+<programme start="20260408212000 +0000" stop="20260408221000 +0000" channel="Sky Krimi HD.skyde">
+    <title>SOKO Hamburg</title>
+</programme>
 <programme start="20260407224500 +0000" stop="20260407233000 +0000" channel="Sky Nature HD.skyde">
     <title>Into the Blue - Indonesiens Unterwasserparadiese</title>
 </programme>
@@ -2464,10 +2548,10 @@
 <programme start="20260408144500 +0000" stop="20260408153000 +0000" channel="Sky Sport Austria 1 HD.skyde">
     <title>Die UEFA CL am Dienstag: Analyse</title>
 </programme>
-<programme start="20260408153000 +0000" stop="20260408162000 +0000" channel="Sky Sport Austria 1 HD.skyde">
+<programme start="20260408153000 +0000" stop="20260408162500 +0000" channel="Sky Sport Austria 1 HD.skyde">
     <title>UEFA EL: UEL &amp; UECL Magazin</title>
 </programme>
-<programme start="20260408162000 +0000" stop="20260408164000 +0000" channel="Sky Sport Austria 1 HD.skyde">
+<programme start="20260408162500 +0000" stop="20260408164000 +0000" channel="Sky Sport Austria 1 HD.skyde">
     <title>Die UEFA CL am Dienstag: Alle Spiele, alle Tore, Viertelfinale, Hinspiele</title>
 </programme>
 <programme start="20260408164000 +0000" stop="20260408180000 +0000" channel="Sky Sport Austria 1 HD.skyde">
@@ -2740,17 +2824,17 @@
 <programme start="20260408130000 +0000" stop="20260408150000 +0000" channel="Sky Sport Golf HD.skyde">
     <title>Live The Masters: On The Range (Mittwoch)</title>
 </programme>
-<programme start="20260408150000 +0000" stop="20260408160000 +0000" channel="Sky Sport Golf HD.skyde">
+<programme start="20260408150000 +0000" stop="20260408155500 +0000" channel="Sky Sport Golf HD.skyde">
     <title>The Masters: 1986</title>
 </programme>
-<programme start="20260408160000 +0000" stop="20260408170000 +0000" channel="Sky Sport Golf HD.skyde">
+<programme start="20260408155500 +0000" stop="20260408164500 +0000" channel="Sky Sport Golf HD.skyde">
     <title>The Masters: McIlroy&#039;s Masterpiece</title>
 </programme>
-<programme start="20260408170000 +0000" stop="20260408173000 +0000" channel="Sky Sport Golf HD.skyde">
-    <title>Golf: Spezial - The Masters in Augusta</title>
+<programme start="20260408164500 +0000" stop="20260408173000 +0000" channel="Sky Sport Golf HD.skyde">
+    <title>The Masters: The Legend of Bernhard Langer</title>
 </programme>
 <programme start="20260408173000 +0000" stop="20260408180000 +0000" channel="Sky Sport Golf HD.skyde">
-    <title>The Masters: Official Film 1986 (Jack Nicklaus)</title>
+    <title>Golf: Spezial - The Masters in Augusta</title>
 </programme>
 <programme start="20260408180000 +0000" stop="20260408200000 +0000" channel="Sky Sport Golf HD.skyde">
     <title>Live The Masters: Par 3 Contest</title>

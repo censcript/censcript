@@ -3254,7 +3254,7 @@
         <title>News in Review</title>
     </programme>
     <programme start="20260408003000 +0000" stop="20260408010000 +0000" channel="DW English HD.starhub">
-        <title>Your Business Magazine</title>
+        <title>Young people between jobs crisis and a new beginning</title>
     </programme>
     <programme start="20260408010000 +0000" stop="20260408010200 +0000" channel="DW English HD.starhub">
         <title>News</title>
@@ -3302,7 +3302,7 @@
         <title>News in Review</title>
     </programme>
     <programme start="20260408053000 +0000" stop="20260408060000 +0000" channel="DW English HD.starhub">
-        <title>Your Business Magazine</title>
+        <title>Young people between jobs crisis and a new beginning</title>
     </programme>
     <programme start="20260408060000 +0000" stop="20260408060200 +0000" channel="DW English HD.starhub">
         <title>News</title>
@@ -3337,11 +3337,11 @@
     <programme start="20260408083000 +0000" stop="20260408090000 +0000" channel="DW English HD.starhub">
         <title>Build resilience: Climate-conscious cities, homes and coasts</title>
     </programme>
-    <programme start="20260408090000 +0000" stop="20260408090300 +0000" channel="DW English HD.starhub">
+    <programme start="20260408090000 +0000" stop="20260408094500 +0000" channel="DW English HD.starhub">
         <title>News</title>
     </programme>
-    <programme start="20260408090300 +0000" stop="20260408100000 +0000" channel="DW English HD.starhub">
-        <title>*smiles and kisses you* - In Love with an AI-Powered Doll</title>
+    <programme start="20260408094500 +0000" stop="20260408100000 +0000" channel="DW English HD.starhub">
+        <title>What happens when a town creates its own currency?</title>
     </programme>
     <programme start="20260408100000 +0000" stop="20260408100200 +0000" channel="DW English HD.starhub">
         <title>News</title>
@@ -3362,7 +3362,7 @@
         <title>Nour Graduates from School - A Young Syrian Woman in Eastern Germany</title>
     </programme>
     <programme start="20260408113000 +0000" stop="20260408120000 +0000" channel="DW English HD.starhub">
-        <title>Your Business Magazine</title>
+        <title>The Taiwan scenario that could outfox the U.S.</title>
     </programme>
     <programme start="20260408120000 +0000" stop="20260408120200 +0000" channel="DW English HD.starhub">
         <title>News</title>
@@ -3373,10 +3373,10 @@
     <programme start="20260408121500 +0000" stop="20260408130000 +0000" channel="DW English HD.starhub">
         <title>The Gothic Mystery - When Cathedrals Reached up to the Heavens</title>
     </programme>
-    <programme start="20260408130000 +0000" stop="20260408130200 +0000" channel="DW English HD.starhub">
+    <programme start="20260408130000 +0000" stop="20260408130300 +0000" channel="DW English HD.starhub">
         <title>News</title>
     </programme>
-    <programme start="20260408130200 +0000" stop="20260408131500 +0000" channel="DW English HD.starhub">
+    <programme start="20260408130300 +0000" stop="20260408131500 +0000" channel="DW English HD.starhub">
         <title>News</title>
     </programme>
     <programme start="20260408131500 +0000" stop="20260408133000 +0000" channel="DW English HD.starhub">
@@ -8134,8 +8134,20 @@
     <programme start="20260407150400 +0000" stop="20260407170000 +0000" channel="Dragon TV.starhub">
         <title>THE CITY OF MUSICALS</title>
     </programme>
-    <programme start="20260407170000 +0000" stop="20260407220000 +0000" channel="Dragon TV.starhub">
+    <programme start="20260407170000 +0000" stop="20260407180000 +0000" channel="Dragon TV.starhub">
         <title>Dragon TV Primetime News</title>
+    </programme>
+    <programme start="20260407180000 +0000" stop="20260407190000 +0000" channel="Dragon TV.starhub">
+        <title>Future China</title>
+    </programme>
+    <programme start="20260407190000 +0000" stop="20260407210000 +0000" channel="Dragon TV.starhub">
+        <title>Overtime No More</title>
+    </programme>
+    <programme start="20260407210000 +0000" stop="20260407220000 +0000" channel="Dragon TV.starhub">
+        <title>A Green Trip</title>
+    </programme>
+    <programme start="20260407220000 +0000" stop="20260407223000 +0000" channel="Dragon TV.starhub">
+        <title>CHINA Now</title>
     </programme>
     <programme start="20260407223000 +0000" stop="20260407230000 +0000" channel="Dragon TV.starhub">
         <title>CARE ON THE WAY</title>
