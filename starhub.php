@@ -3076,89 +3076,77 @@
     <programme start="20260408153000 +0000" stop="20260408164500 +0000" channel="Karisma.starhub">
         <title>DISERUDUK CINTA KONGLOMERAT KW</title>
     </programme>
-    <programme start="20260407160000 +0000" stop="20260407170000 +0000" channel="Bloomberg Originals.starhub">
-        <title>South Korea</title>
-    </programme>
-    <programme start="20260407170000 +0000" stop="20260407180000 +0000" channel="Bloomberg Originals.starhub">
-        <title>Ancient Greece</title>
-    </programme>
-    <programme start="20260407180000 +0000" stop="20260407190000 +0000" channel="Bloomberg Originals.starhub">
-        <title>Ireland</title>
-    </programme>
-    <programme start="20260407190000 +0000" stop="20260407200000 +0000" channel="Bloomberg Originals.starhub">
-        <title>Iceland</title>
-    </programme>
-    <programme start="20260407200000 +0000" stop="20260407210000 +0000" channel="Bloomberg Originals.starhub">
-        <title>Vietnam&#039;s Rise as a Modern Success Story</title>
-    </programme>
-    <programme start="20260407210000 +0000" stop="20260407220000 +0000" channel="Bloomberg Originals.starhub">
-        <title>Spain&#039;s Complex Culture</title>
-    </programme>
-    <programme start="20260407220000 +0000" stop="20260407221000 +0000" channel="Bloomberg Originals.starhub">
-        <title>The Hospitals That Won&#039;t Let Patients Go Home</title>
-    </programme>
-    <programme start="20260407221000 +0000" stop="20260407223000 +0000" channel="Bloomberg Originals.starhub">
-        <title>Tesla&#039;s Dangerous Doors</title>
-    </programme>
-    <programme start="20260407223000 +0000" stop="20260407230000 +0000" channel="Bloomberg Originals.starhub">
-        <title>Inside the Deaths That Rocked India&#039;s Relations With the West</title>
-    </programme>
-    <programme start="20260407230000 +0000" stop="20260408020000 +0000" channel="Bloomberg Originals.starhub">
-        <title>Bloomberg Surveillance Radio</title>
-    </programme>
-    <programme start="20260408020000 +0000" stop="20260408040000 +0000" channel="Bloomberg Originals.starhub">
-        <title>Bloomberg Intelligence</title>
-    </programme>
-    <programme start="20260408040000 +0000" stop="20260408060000 +0000" channel="Bloomberg Originals.starhub">
+    <programme start="20260407160000 +0000" stop="20260407180000 +0000" channel="Bloomberg Originals.starhub">
         <title>Balance of Power</title>
     </programme>
-    <programme start="20260408060000 +0000" stop="20260408090000 +0000" channel="Bloomberg Originals.starhub">
+    <programme start="20260407180000 +0000" stop="20260407210000 +0000" channel="Bloomberg Originals.starhub">
         <title>Bloomberg BusinessWeek</title>
     </programme>
-    <programme start="20260408090000 +0000" stop="20260408093000 +0000" channel="Bloomberg Originals.starhub">
-        <title>How New Magnets Could Power the Future</title>
+    <programme start="20260407210000 +0000" stop="20260407213000 +0000" channel="Bloomberg Originals.starhub">
+        <title>Week in the Life of an F1 Driver</title>
     </programme>
-    <programme start="20260408093000 +0000" stop="20260408100000 +0000" channel="Bloomberg Originals.starhub">
-        <title>Can Living Human Brain Cells Power AI?</title>
+    <programme start="20260407213000 +0000" stop="20260407220000 +0000" channel="Bloomberg Originals.starhub">
+        <title>The Future of Ferrari</title>
     </programme>
-    <programme start="20260408100000 +0000" stop="20260408103000 +0000" channel="Bloomberg Originals.starhub">
-        <title>The Big Business of Drilling Deep Into the Earth</title>
+    <programme start="20260407220000 +0000" stop="20260407223000 +0000" channel="Bloomberg Originals.starhub">
+        <title>Inside the Miami Grand Prix</title>
     </programme>
-    <programme start="20260408103000 +0000" stop="20260408110000 +0000" channel="Bloomberg Originals.starhub">
-        <title>Why Money Is Flowing Into Geoengineering</title>
+    <programme start="20260407223000 +0000" stop="20260407230000 +0000" channel="Bloomberg Originals.starhub">
+        <title>Inside Motorsport Valley&#039;s High-Tech Future</title>
     </programme>
-    <programme start="20260408110000 +0000" stop="20260408113000 +0000" channel="Bloomberg Originals.starhub">
-        <title>How Flying Cars Became a Billion-Dollar Bet</title>
+    <programme start="20260407230000 +0000" stop="20260407233000 +0000" channel="Bloomberg Originals.starhub">
+        <title>Corruption as Cancer</title>
     </programme>
-    <programme start="20260408113000 +0000" stop="20260408120000 +0000" channel="Bloomberg Originals.starhub">
-        <title>Why a Lunar Ecosystem Could Be Worth Billions</title>
+    <programme start="20260407233000 +0000" stop="20260408000000 +0000" channel="Bloomberg Originals.starhub">
+        <title>The Making of a Chinese Spy</title>
     </programme>
-    <programme start="20260408120000 +0000" stop="20260408123000 +0000" channel="Bloomberg Originals.starhub">
-        <title>How Liquid Death Turned Advertising on Its Head</title>
+    <programme start="20260408000000 +0000" stop="20260408004000 +0000" channel="Bloomberg Originals.starhub">
+        <title>The Secret Kingpin Behind Iran&#039;s Oil Empire</title>
     </programme>
-    <programme start="20260408123000 +0000" stop="20260408130000 +0000" channel="Bloomberg Originals.starhub">
-        <title>How Marketers are Trying to Read Your Mind</title>
+    <programme start="20260408004000 +0000" stop="20260408014000 +0000" channel="Bloomberg Originals.starhub">
+        <title>North Korea&#039;s Hidden Remote IT Scheme</title>
     </programme>
-    <programme start="20260408130000 +0000" stop="20260408133000 +0000" channel="Bloomberg Originals.starhub">
-        <title>How Mattel Turned Decades-Old Toys Into Gold</title>
+    <programme start="20260408014000 +0000" stop="20260408024000 +0000" channel="Bloomberg Originals.starhub">
+        <title>The Zombie Debts Making Wall Street Rich</title>
     </programme>
-    <programme start="20260408133000 +0000" stop="20260408140000 +0000" channel="Bloomberg Originals.starhub">
-        <title>How McLaren Racing&#039;s CEO Runs a Top Formula 1 Team</title>
+    <programme start="20260408024000 +0000" stop="20260408034000 +0000" channel="Bloomberg Originals.starhub">
+        <title>The Scandal That Rocked the Philippines</title>
     </programme>
-    <programme start="20260408140000 +0000" stop="20260408143000 +0000" channel="Bloomberg Originals.starhub">
-        <title>How AI Could Change the Advertising Business</title>
+    <programme start="20260408034000 +0000" stop="20260408040000 +0000" channel="Bloomberg Originals.starhub">
+        <title>Tesla&#039;s Dangerous Doors</title>
     </programme>
-    <programme start="20260408143000 +0000" stop="20260408150000 +0000" channel="Bloomberg Originals.starhub">
-        <title>How an Underdog Sports League Got Millions Watching</title>
+    <programme start="20260408040000 +0000" stop="20260408050000 +0000" channel="Bloomberg Originals.starhub">
+        <title>South Korea</title>
     </programme>
-    <programme start="20260408150000 +0000" stop="20260408153000 +0000" channel="Bloomberg Originals.starhub">
-        <title>The Rise of America&#039;s ICE Towns</title>
+    <programme start="20260408050000 +0000" stop="20260408060000 +0000" channel="Bloomberg Originals.starhub">
+        <title>Ancient Greece</title>
     </programme>
-    <programme start="20260408153000 +0000" stop="20260408154000 +0000" channel="Bloomberg Originals.starhub">
+    <programme start="20260408060000 +0000" stop="20260408070000 +0000" channel="Bloomberg Originals.starhub">
+        <title>Ireland</title>
+    </programme>
+    <programme start="20260408070000 +0000" stop="20260408080000 +0000" channel="Bloomberg Originals.starhub">
+        <title>Iceland</title>
+    </programme>
+    <programme start="20260408080000 +0000" stop="20260408090000 +0000" channel="Bloomberg Originals.starhub">
+        <title>Vietnam&#039;s Rise as a Modern Success Story</title>
+    </programme>
+    <programme start="20260408090000 +0000" stop="20260408100000 +0000" channel="Bloomberg Originals.starhub">
+        <title>Spain&#039;s Complex Culture</title>
+    </programme>
+    <programme start="20260408100000 +0000" stop="20260408101000 +0000" channel="Bloomberg Originals.starhub">
         <title>The Hospitals That Won&#039;t Let Patients Go Home</title>
     </programme>
-    <programme start="20260408154000 +0000" stop="20260408160000 +0000" channel="Bloomberg Originals.starhub">
-        <title>China&#039;s Controversial $167 Billion Mega-Dam</title>
+    <programme start="20260408101000 +0000" stop="20260408103000 +0000" channel="Bloomberg Originals.starhub">
+        <title>Tesla&#039;s Dangerous Doors</title>
+    </programme>
+    <programme start="20260408103000 +0000" stop="20260408110000 +0000" channel="Bloomberg Originals.starhub">
+        <title>Inside the Deaths That Rocked India&#039;s Relations With the West</title>
+    </programme>
+    <programme start="20260408110000 +0000" stop="20260408140000 +0000" channel="Bloomberg Originals.starhub">
+        <title>Bloomberg Surveillance Radio</title>
+    </programme>
+    <programme start="20260408140000 +0000" stop="20260408160000 +0000" channel="Bloomberg Originals.starhub">
+        <title>Bloomberg Intelligence</title>
     </programme>
     <programme start="20260407135000 +0000" stop="20260407180000 +0000" channel="Hub Sports 4 HD.starhub">
         <title>M13: Rajasthan Royals vs Mumbai Indians</title>
@@ -7019,7 +7007,7 @@
         <title>Direct Talk</title>
     </programme>
     <programme start="20260407184300 +0000" stop="20260407185500 +0000" channel="NHK WORLD - JAPAN HD.starhub">
-        <title>NHK World Selection</title>
+        <title>Brown Gold</title>
     </programme>
     <programme start="20260407185500 +0000" stop="20260407190000 +0000" channel="NHK WORLD - JAPAN HD.starhub">
         <title>Ukiyo-e Edo-Life</title>
@@ -7136,7 +7124,7 @@
         <title>Impacts: Climates Change the World</title>
     </programme>
     <programme start="20260408105500 +0000" stop="20260408110000 +0000" channel="NHK WORLD - JAPAN HD.starhub">
-        <title>Time-Lapse Japan: Izumo</title>
+        <title>Time-Lapse Japan</title>
     </programme>
     <programme start="20260408110000 +0000" stop="20260408112800 +0000" channel="NHK WORLD - JAPAN HD.starhub">
         <title>Newsroom Tokyo</title>
@@ -7145,7 +7133,7 @@
         <title>Direct Talk</title>
     </programme>
     <programme start="20260408114300 +0000" stop="20260408115500 +0000" channel="NHK WORLD - JAPAN HD.starhub">
-        <title>NHK World Selection</title>
+        <title>Living Through Fire</title>
     </programme>
     <programme start="20260408115500 +0000" stop="20260408120000 +0000" channel="NHK WORLD - JAPAN HD.starhub">
         <title>Ukiyo-e Edo-Life</title>
@@ -7981,16 +7969,19 @@
     <programme start="20260407234500 +0000" stop="20260408013000 +0000" channel="Asianet Movies.starhub">
         <title>Aabhaasam</title>
     </programme>
-    <programme start="20260408013000 +0000" stop="20260408043000 +0000" channel="Asianet Movies.starhub">
+    <programme start="20260408013000 +0000" stop="20260408015000 +0000" channel="Asianet Movies.starhub">
+        <title>Filler:Chirikkum Thalika II</title>
+    </programme>
+    <programme start="20260408015000 +0000" stop="20260408043500 +0000" channel="Asianet Movies.starhub">
         <title>Janamaithri</title>
     </programme>
-    <programme start="20260408043000 +0000" stop="20260408073000 +0000" channel="Asianet Movies.starhub">
+    <programme start="20260408043500 +0000" stop="20260408073000 +0000" channel="Asianet Movies.starhub">
         <title>Oru Indian Pranayakadha</title>
     </programme>
-    <programme start="20260408073000 +0000" stop="20260408103000 +0000" channel="Asianet Movies.starhub">
-        <title>RRR</title>
+    <programme start="20260408073000 +0000" stop="20260408104000 +0000" channel="Asianet Movies.starhub">
+        <title>RRR Rudhiram Ranam Roudram</title>
     </programme>
-    <programme start="20260408103000 +0000" stop="20260408133000 +0000" channel="Asianet Movies.starhub">
+    <programme start="20260408104000 +0000" stop="20260408133000 +0000" channel="Asianet Movies.starhub">
         <title>Swarna Kaduva</title>
     </programme>
     <programme start="20260408133000 +0000" stop="20260408163000 +0000" channel="Asianet Movies.starhub">

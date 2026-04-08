@@ -262,9 +262,6 @@
     <programme start="20260408151500 +0000" stop="20260408161500 +0000" channel="Channel 8.mewatch">
         <title>Legend of the Female General - EP 22</title>
     </programme>
-    <programme start="20260408160000 +0000" stop="20260408170000 +0000" channel="Channel 8.mewatch">
-        <title>Joy of Life 2 - EP 23</title>
-    </programme>
     <programme start="20260407154500 +0000" stop="20260407164000 +0000" channel="Channel U.mewatch">
         <title>Have A Nice Dream 2025 - EP 3</title>
     </programme>
@@ -748,17 +745,17 @@
     <programme start="20260408160000 +0000" stop="20260409110000 +0000" channel="Live 1.mewatch">
         <title>No programme available now. Next broadcast on 9th April, Thursday 7pm. The Wonder Shop Home Shopping</title>
     </programme>
-    <programme start="20260407160000 +0000" stop="20260408010000 +0000" channel="Live 2.mewatch">
-        <title>No Programme available now. Next Broadcast on 8th April, Wednesday 9.00am. Bank of Ningbo Badminton Asia Championships 2026 : Round of 32</title>
+    <programme start="20260407160000 +0000" stop="20260408005500 +0000" channel="Live 2.mewatch">
+        <title>No Programme available now. Next Broadcast on 8th April, Wednesday 8.55am. Bank of Ningbo Badminton Asia Championships 2026 : Round of 32</title>
     </programme>
-    <programme start="20260408010000 +0000" stop="20260408130000 +0000" channel="Live 2.mewatch">
+    <programme start="20260408005500 +0000" stop="20260408150000 +0000" channel="Live 2.mewatch">
         <title>Bank of Ningbo Badminton Asia Championships 2026 : Round of 32</title>
     </programme>
-    <programme start="20260408130000 +0000" stop="20260408160000 +0000" channel="Live 2.mewatch">
-        <title>No Programme available now. Next Broadcast on 9th April, Thursday 11.00am. Bank of Ningbo Badminton Asia Championships 2026</title>
+    <programme start="20260408150000 +0000" stop="20260408160000 +0000" channel="Live 2.mewatch">
+        <title>No Programme available now. Next Broadcast on 9th April, Thursday 10.55am. Bank of Ningbo Badminton Asia Championships 2026</title>
     </programme>
-    <programme start="20260408160000 +0000" stop="20260409030000 +0000" channel="Live 2.mewatch">
-        <title>No Programme available now. Next Broadcast on 9th April, Thursday 11.00am. Bank of Ningbo Badminton Asia Championships 2026</title>
+    <programme start="20260408160000 +0000" stop="20260409025500 +0000" channel="Live 2.mewatch">
+        <title>No Programme available now. Next Broadcast on 9th April, Thursday 10.55am. Bank of Ningbo Badminton Asia Championships 2026</title>
     </programme>
     <programme start="20260407160000 +0000" stop="20260408160000 +0000" channel="Live 5.mewatch">
         <title>No Programme available now. Next Broadcast on 11th April, Saturday 3.10pm. FIBA 3x3 World Cup Qualifier 2026</title>
@@ -766,13 +763,13 @@
     <programme start="20260408160000 +0000" stop="20260409160000 +0000" channel="Live 5.mewatch">
         <title>No Programme available now. Next Broadcast on 11th April, Saturday 3.10pm. FIBA 3x3 World Cup Qualifier 2026</title>
     </programme>
-    <programme start="20260407160000 +0000" stop="20260408010000 +0000" channel="Live 6.mewatch">
-        <title>No Programme available now. Next Broadcast on 8th April, Wednesday 9.00am. Bank of Ningbo Badminton Asia Championships 2026</title>
+    <programme start="20260407160000 +0000" stop="20260408005500 +0000" channel="Live 6.mewatch">
+        <title>No Programme available now. Next Broadcast on 8th April, Wednesday 8.55am. Bank of Ningbo Badminton Asia Championships 2026</title>
     </programme>
-    <programme start="20260408010000 +0000" stop="20260408130000 +0000" channel="Live 6.mewatch">
+    <programme start="20260408005500 +0000" stop="20260408150000 +0000" channel="Live 6.mewatch">
         <title>Bank of Ningbo Badminton Asia Championships 2026 : Round of 32</title>
     </programme>
-    <programme start="20260408130000 +0000" stop="20260408160000 +0000" channel="Live 6.mewatch">
+    <programme start="20260408150000 +0000" stop="20260408160000 +0000" channel="Live 6.mewatch">
         <title>No programmes streaming LIVE at this moment</title>
     </programme>
     <programme start="20260408160000 +0000" stop="20260409160000 +0000" channel="Live 6.mewatch">

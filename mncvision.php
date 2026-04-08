@@ -7591,7 +7591,87 @@
 <programme start="20260408165500 +0000" stop="20260407172500 +0000" channel="Rock Action.mncvision">
     <title>The Hunger Games</title>
 </programme>
-Error: Unable to fetch data. HTTP Status Code: 500
+<programme start="20260407173000 +0000" stop="20260407183500 +0000" channel="Rock Entertainment.mncvision">
+    <title>The Wheel Of Time, Ep 5</title>
+</programme>
+<programme start="20260407183500 +0000" stop="20260407194000 +0000" channel="Rock Entertainment.mncvision">
+    <title>The Wheel Of Time, Ep 6</title>
+</programme>
+<programme start="20260407194000 +0000" stop="20260407203000 +0000" channel="Rock Entertainment.mncvision">
+    <title>NCIS S21, Ep 3</title>
+</programme>
+<programme start="20260407203000 +0000" stop="20260407211500 +0000" channel="Rock Entertainment.mncvision">
+    <title>NCIS S21, Ep 4</title>
+</programme>
+<programme start="20260407211500 +0000" stop="20260407220000 +0000" channel="Rock Entertainment.mncvision">
+    <title>NCIS S21, Ep 5</title>
+</programme>
+<programme start="20260407220000 +0000" stop="20260407224500 +0000" channel="Rock Entertainment.mncvision">
+    <title>Late Night With... S13, Ep 78</title>
+</programme>
+<programme start="20260407224500 +0000" stop="20260407233000 +0000" channel="Rock Entertainment.mncvision">
+    <title>The Tonight Show S13, Ep 83</title>
+</programme>
+<programme start="20260407233000 +0000" stop="20260408003000 +0000" channel="Rock Entertainment.mncvision">
+    <title>The Wheel Of Time, Ep 5</title>
+</programme>
+<programme start="20260408003000 +0000" stop="20260408013000 +0000" channel="Rock Entertainment.mncvision">
+    <title>The Wheel Of Time, Ep 6</title>
+</programme>
+<programme start="20260408013000 +0000" stop="20260408023000 +0000" channel="Rock Entertainment.mncvision">
+    <title>The Wheel Of Time, Ep 5</title>
+</programme>
+<programme start="20260408023000 +0000" stop="20260408033000 +0000" channel="Rock Entertainment.mncvision">
+    <title>The Wheel Of Time, Ep 6</title>
+</programme>
+<programme start="20260408033000 +0000" stop="20260408041500 +0000" channel="Rock Entertainment.mncvision">
+    <title>Below Deck Mediterranean, Ep 14</title>
+</programme>
+<programme start="20260408041500 +0000" stop="20260408050000 +0000" channel="Rock Entertainment.mncvision">
+    <title>The Tonight Show S13, Ep 83</title>
+</programme>
+<programme start="20260408050000 +0000" stop="20260408054500 +0000" channel="Rock Entertainment.mncvision">
+    <title>Late Night With... S13, Ep 78</title>
+</programme>
+<programme start="20260408054500 +0000" stop="20260408065000 +0000" channel="Rock Entertainment.mncvision">
+    <title>The Wheel Of Time, Ep 5</title>
+</programme>
+<programme start="20260408065000 +0000" stop="20260408073500 +0000" channel="Rock Entertainment.mncvision">
+    <title>NCIS S21, Ep 5</title>
+</programme>
+<programme start="20260408073500 +0000" stop="20260408082000 +0000" channel="Rock Entertainment.mncvision">
+    <title>NCIS S21, Ep 6</title>
+</programme>
+<programme start="20260408082000 +0000" stop="20260408090500 +0000" channel="Rock Entertainment.mncvision">
+    <title>NCIS S21, Ep 7</title>
+</programme>
+<programme start="20260408090500 +0000" stop="20260408104000 +0000" channel="Rock Entertainment.mncvision">
+    <title>Spy Kids: All Time In The World</title>
+</programme>
+<programme start="20260408104000 +0000" stop="20260408113500 +0000" channel="Rock Entertainment.mncvision">
+    <title>DOC: In Your Hands S3, Ep 12</title>
+</programme>
+<programme start="20260408113500 +0000" stop="20260408123500 +0000" channel="Rock Entertainment.mncvision">
+    <title>DOC: In Your Hands S3, Ep 13</title>
+</programme>
+<programme start="20260408123500 +0000" stop="20260408133000 +0000" channel="Rock Entertainment.mncvision">
+    <title>DOC: In Your Hands S3, Ep 12</title>
+</programme>
+<programme start="20260408133000 +0000" stop="20260408143000 +0000" channel="Rock Entertainment.mncvision">
+    <title>DOC: In Your Hands S3, Ep 13</title>
+</programme>
+<programme start="20260408143000 +0000" stop="20260408151500 +0000" channel="Rock Entertainment.mncvision">
+    <title>Buried In The Backyard S6, Ep 4</title>
+</programme>
+<programme start="20260408151500 +0000" stop="20260408160000 +0000" channel="Rock Entertainment.mncvision">
+    <title>The Tonight Show S13, Ep 84</title>
+</programme>
+<programme start="20260408160000 +0000" stop="20260408164500 +0000" channel="Rock Entertainment.mncvision">
+    <title>Late Night With... S13, Ep 79</title>
+</programme>
+<programme start="20260408164500 +0000" stop="20260407171500 +0000" channel="Rock Entertainment.mncvision">
+    <title>Buried In The Backyard S6, Ep 4</title>
+</programme>
 <programme start="20260407173000 +0000" stop="20260407184500 +0000" channel="SCTV.mncvision">
     <title>Hansip Penjaga Cinta</title>
 </programme>
@@ -7706,7 +7786,6 @@ Error: Unable to fetch data. HTTP Status Code: 500
 <programme start="20260408160000 +0000" stop="20260408163000 +0000" channel="SCTV HD.mncvision">
     <title>Dangdut Is The Music Of My...</title>
 </programme>
-Error: Unable to fetch data. HTTP Status Code: 500
 <programme start="20260407170000 +0000" stop="20260407173000 +0000" channel="Sindo News TV.mncvision">
     <title>iNews Sport</title>
 </programme>

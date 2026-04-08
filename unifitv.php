@@ -6532,47 +6532,40 @@ Pelakon : Shah Jaszle, Mardiana Alwi, Josiah Hogan,Hafidzuddin Fazil.</desc>
   <channel id="hitsnow.unifitv">
     <display-name>HITS NOW</display-name>
   </channel>
-  <programme start="20260407153500 +0000" stop="20260407163500 +0000" channel="hitsnow.unifitv">
+  <programme start="20260407155000 +0000" stop="20260407165000 +0000" channel="hitsnow.unifitv">
     <title lang="en">Project Runway</title>
     <desc lang="en">Heidi Klum returns to Project Runway! Twelve hopeful new designers are divided into two competing fashion houses and must create a look inspired by Disney princesses and villains.</desc>
     <category lang="en">Reality</category>
     <episode-num system="xmltv_ns">19.0.</episode-num>
     <episode-num system="onscreen">S20E1</episode-num>
   </programme>
-  <programme start="20260407163500 +0000" stop="20260407173500 +0000" channel="hitsnow.unifitv">
+  <programme start="20260407165000 +0000" stop="20260407175000 +0000" channel="hitsnow.unifitv">
     <title lang="en">Sheriff Country</title>
-    <desc lang="en">Mickey Fox, a sheriff in Edgewater and stepsister of Cal Fire's division chief Sharon Leone, must balance the demands of law enforcement with the complexities of motherhood, politics and a past that won't stay buried.</desc>
+    <desc lang="en">After a mysterious school bus explosion leaves nine students missing, Sheriff Mickey Fox and Cal Fire Division Chief Sharon Leone must set aside their personal conflicts and unite their departments to try and crack the case.</desc>
     <category lang="en">Drama</category>
     <episode-num system="xmltv_ns">0.12.</episode-num>
     <episode-num system="onscreen">S1E13</episode-num>
   </programme>
-  <programme start="20260407173500 +0000" stop="20260407183500 +0000" channel="hitsnow.unifitv">
+  <programme start="20260407175000 +0000" stop="20260407185000 +0000" channel="hitsnow.unifitv">
     <title lang="en">Fire Country</title>
-    <desc lang="en">Bode Leone works alongside elite firefighters from Cal Fire and former friends, battling large-scale wildfires while navigating his complex past and personal relationships.</desc>
+    <desc lang="en">With the clock ticking and the fate of nine missing students on the line, firefighter Bode Leone and Deputy Nathan Boone must risk it all in order to save innocent lives.</desc>
     <category lang="en">Drama</category>
     <episode-num system="xmltv_ns">3.12.</episode-num>
     <episode-num system="onscreen">S4E13</episode-num>
   </programme>
-  <programme start="20260407183500 +0000" stop="20260407193500 +0000" channel="hitsnow.unifitv">
+  <programme start="20260407185000 +0000" stop="20260407200500 +0000" channel="hitsnow.unifitv">
     <title lang="en">The Guest</title>
     <desc lang="en">When cleaner Ria is hired by mysterious businesswoman Fran, an unlikely friendship is formed. But when Fran's advice leads to tragedy, Ria's life is changed forever.</desc>
     <category lang="en">Drama</category>
     <episode-num system="xmltv_ns">0.0.</episode-num>
     <episode-num system="onscreen">S1E1</episode-num>
   </programme>
-  <programme start="20260407193500 +0000" stop="20260407210500 +0000" channel="hitsnow.unifitv">
+  <programme start="20260407200500 +0000" stop="20260407213500 +0000" channel="hitsnow.unifitv">
     <title lang="en">Britain's Got Talent</title>
     <desc lang="en">The nation's most beloved talent competition continues with a new set of thrilling acts performing for the judges and the golden opportunity to perform for the Royal Family</desc>
     <category lang="en">Talent Show</category>
     <episode-num system="xmltv_ns">18.5.</episode-num>
     <episode-num system="onscreen">S19E6</episode-num>
-  </programme>
-  <programme start="20260407210500 +0000" stop="20260407213500 +0000" channel="hitsnow.unifitv">
-    <title lang="en">Ghosts</title>
-    <desc lang="en">The story continues for Sam and Jay as they run their Woodstone B&amp;B and restaurant, navigate the ghosts' day-to-day antics, and deal with new life challenges.</desc>
-    <category lang="en">Comedy</category>
-    <episode-num system="xmltv_ns">4.13.</episode-num>
-    <episode-num system="onscreen">S5E14</episode-num>
   </programme>
   <programme start="20260407213500 +0000" stop="20260407223500 +0000" channel="hitsnow.unifitv">
     <title lang="en">Matlock</title>
@@ -6602,66 +6595,59 @@ Pelakon : Shah Jaszle, Mardiana Alwi, Josiah Hogan,Hafidzuddin Fazil.</desc>
     <episode-num system="xmltv_ns">3.12.</episode-num>
     <episode-num system="onscreen">S4E13</episode-num>
   </programme>
-  <programme start="20260408010500 +0000" stop="20260408020500 +0000" channel="hitsnow.unifitv">
+  <programme start="20260408010500 +0000" stop="20260408022000 +0000" channel="hitsnow.unifitv">
     <title lang="en">The Guest</title>
     <desc lang="en">When cleaner Ria is hired by mysterious businesswoman Fran, an unlikely friendship is formed. But when Fran's advice leads to tragedy, Ria's life is changed forever.</desc>
     <category lang="en">Drama</category>
     <episode-num system="xmltv_ns">0.0.</episode-num>
     <episode-num system="onscreen">S1E1</episode-num>
   </programme>
-  <programme start="20260408020500 +0000" stop="20260408030500 +0000" channel="hitsnow.unifitv">
+  <programme start="20260408022000 +0000" stop="20260408032000 +0000" channel="hitsnow.unifitv">
     <title lang="en">Project Runway</title>
     <desc lang="en">Heidi Klum returns to Project Runway! Twelve hopeful new designers are divided into two competing fashion houses and must create a look inspired by Disney princesses and villains.</desc>
     <category lang="en">Reality</category>
     <episode-num system="xmltv_ns">19.0.</episode-num>
     <episode-num system="onscreen">S20E1</episode-num>
   </programme>
-  <programme start="20260408030500 +0000" stop="20260408040500 +0000" channel="hitsnow.unifitv">
+  <programme start="20260408032000 +0000" stop="20260408042000 +0000" channel="hitsnow.unifitv">
     <title lang="en">Matlock</title>
-    <desc lang="en">Follow Madeline Matlock as she rejoins the work force at a prestigious law firm, where she uses her wily tactics to win cases and expose wrongdoing.</desc>
+    <desc lang="en">The stakes are high when Matty represents one of Jacobson Moore's own on trial amidst her and Edwin's 50th wedding anniversary. Meanwhile, Olympia and Julian track down a scientist from the Wellbrexa lab.</desc>
     <category lang="en">Drama</category>
     <episode-num system="xmltv_ns">1.11.</episode-num>
     <episode-num system="onscreen">S2E12</episode-num>
   </programme>
-  <programme start="20260408040500 +0000" stop="20260408043500 +0000" channel="hitsnow.unifitv">
+  <programme start="20260408042000 +0000" stop="20260408045000 +0000" channel="hitsnow.unifitv">
     <title lang="en">Entertainment Tonight</title>
     <desc lang="en">The foremost authority on breaking entertainment news since its debut, ENTERTAINMENT TONIGHT is the No. 1 syndicated entertainment newsmagazine in the world.</desc>
     <category lang="en">Chat show</category>
     <episode-num system="xmltv_ns">44.11625.</episode-num>
     <episode-num system="onscreen">S45E11626</episode-num>
   </programme>
-  <programme start="20260408043500 +0000" stop="20260408053500 +0000" channel="hitsnow.unifitv">
+  <programme start="20260408045000 +0000" stop="20260408055000 +0000" channel="hitsnow.unifitv">
     <title lang="en">Sheriff Country</title>
-    <desc lang="en">Mickey Fox, a sheriff in Edgewater and stepsister of Cal Fire's division chief Sharon Leone, must balance the demands of law enforcement with the complexities of motherhood, politics and a past that won't stay buried.</desc>
+    <desc lang="en">After a mysterious school bus explosion leaves nine students missing, Sheriff Mickey Fox and Cal Fire Division Chief Sharon Leone must set aside their personal conflicts and unite their departments to try and crack the case.</desc>
     <category lang="en">Drama</category>
     <episode-num system="xmltv_ns">0.12.</episode-num>
     <episode-num system="onscreen">S1E13</episode-num>
   </programme>
-  <programme start="20260408053500 +0000" stop="20260408063500 +0000" channel="hitsnow.unifitv">
+  <programme start="20260408055000 +0000" stop="20260408065000 +0000" channel="hitsnow.unifitv">
     <title lang="en">Fire Country</title>
-    <desc lang="en">Bode Leone works alongside elite firefighters from Cal Fire and former friends, battling large-scale wildfires while navigating his complex past and personal relationships.</desc>
+    <desc lang="en">With the clock ticking and the fate of nine missing students on the line, firefighter Bode Leone and Deputy Nathan Boone must risk it all in order to save innocent lives.</desc>
     <category lang="en">Drama</category>
     <episode-num system="xmltv_ns">3.12.</episode-num>
     <episode-num system="onscreen">S4E13</episode-num>
   </programme>
-  <programme start="20260408063500 +0000" stop="20260408090500 +0000" channel="hitsnow.unifitv">
+  <programme start="20260408065000 +0000" stop="20260408092000 +0000" channel="hitsnow.unifitv">
     <title lang="en">Ad Astra</title>
     <desc lang="en">Astronaut Roy McBride travels to the outer edges of the solar system to find his missing father and unravel a mystery that threatens the survival of our planet.</desc>
     <category lang="en">Movie</category>
   </programme>
-  <programme start="20260408090500 +0000" stop="20260408100500 +0000" channel="hitsnow.unifitv">
+  <programme start="20260408092000 +0000" stop="20260408103500 +0000" channel="hitsnow.unifitv">
     <title lang="en">The Guest</title>
     <desc lang="en">When cleaner Ria is hired by mysterious businesswoman Fran, an unlikely friendship is formed. But when Fran's advice leads to tragedy, Ria's life is changed forever.</desc>
     <category lang="en">Drama</category>
     <episode-num system="xmltv_ns">0.0.</episode-num>
     <episode-num system="onscreen">S1E1</episode-num>
-  </programme>
-  <programme start="20260408100500 +0000" stop="20260408103500 +0000" channel="hitsnow.unifitv">
-    <title lang="en">Ghosts</title>
-    <desc lang="en">The story continues for Sam and Jay as they run their Woodstone B&amp;B and restaurant, navigate the ghosts' day-to-day antics, and deal with new life challenges.</desc>
-    <category lang="en">Comedy</category>
-    <episode-num system="xmltv_ns">4.13.</episode-num>
-    <episode-num system="onscreen">S5E14</episode-num>
   </programme>
   <programme start="20260408103500 +0000" stop="20260408113500 +0000" channel="hitsnow.unifitv">
     <title lang="en">Project Runway</title>
