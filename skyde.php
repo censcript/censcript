@@ -2779,10 +2779,10 @@
 <programme start="20260407223000 +0000" stop="20260407230000 +0000" channel="Sky Sport Mix HD.skyde">
     <title>NHL: On the Fly</title>
 </programme>
-<programme start="20260407230000 +0000" stop="20260408020000 +0000" channel="Sky Sport Mix HD.skyde">
+<programme start="20260407230000 +0000" stop="20260408013500 +0000" channel="Sky Sport Mix HD.skyde">
     <title>Live NHL: Philadelphia Flyers @ New Jersey Devils</title>
 </programme>
-<programme start="20260408020000 +0000" stop="20260408030000 +0000" channel="Sky Sport Mix HD.skyde">
+<programme start="20260408013500 +0000" stop="20260408030000 +0000" channel="Sky Sport Mix HD.skyde">
     <title>Live NBA: Charlotte Hornets @ Boston Celtics</title>
 </programme>
 <programme start="20260408030000 +0000" stop="20260408060000 +0000" channel="Sky Sport Mix HD.skyde">

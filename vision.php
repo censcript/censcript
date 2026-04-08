@@ -631,21 +631,6 @@
 <programme start="20260408090000 +0000" stop="20260408110000 +0000" channel="ANTV.vision">
 <title>Vasudha</title>
 </programme>
-<programme start="20260408130000 +0000" stop="20260408143000 +0000" channel="ANTV.vision">
-<title>Bangunnya Nyi Roro Kidul</title>
-</programme>
-<programme start="20260408143000 +0000" stop="20260408163000 +0000" channel="ANTV.vision">
-<title>Pengabdi Setan</title>
-</programme>
-<programme start="20260408163000 +0000" stop="20260408180000 +0000" channel="ANTV.vision">
-<title>Sea Wolves</title>
-</programme>
-<programme start="20260408180000 +0000" stop="20260408193000 +0000" channel="ANTV.vision">
-<title>13</title>
-</programme>
-<programme start="20260408193000 +0000" stop="20260408210000 +0000" channel="ANTV.vision">
-<title>The Detective</title>
-</programme>
 <programme start="20260408210000 +0000" stop="20260408230000 +0000" channel="ANTV.vision">
 <title>Total Dhamaal</title>
 </programme>
@@ -805,9 +790,6 @@
 <programme start="20260408110000 +0000" stop="20260408130000 +0000" channel="TVOne.vision">
 <title>Apa Kabar Indonesia Malam (L)</title>
 </programme>
-<programme start="20260408130000 +0000" stop="20260408134500 +0000" channel="TVOne.vision">
-<title>Indonesia Business Forum</title>
-</programme>
 <programme start="20260408134500 +0000" stop="20260408140000 +0000" channel="TVOne.vision">
 <title>Kabar Terkini</title>
 </programme>
@@ -816,9 +798,6 @@
 </programme>
 <programme start="20260408150000 +0000" stop="20260408160000 +0000" channel="TVOne.vision">
 <title>Kabar Hari Ini</title>
-</programme>
-<programme start="20260408160000 +0000" stop="20260408163000 +0000" channel="TVOne.vision">
-<title>Kabar Arena Malam</title>
 </programme>
 <programme start="20260408163000 +0000" stop="20260408180000 +0000" channel="TVOne.vision">
 <title>Apa Kabar Indonesia Malam</title>
@@ -1497,4 +1476,25 @@
 </programme>
 <programme start="20260408040000 +0000" stop="20260408050000 +0000" channel="DAAI TV.vision">
 <title>Selalu Ada Untukku</title>
+</programme>
+<programme start="20260408050000 +0000" stop="20260408060000 +0000" channel="DAAI TV.vision">
+<title>Halo Indonesia</title>
+</programme>
+<programme start="20260408060000 +0000" stop="20260408063000 +0000" channel="DAAI TV.vision">
+<title>Potret</title>
+</programme>
+<programme start="20260408063000 +0000" stop="20260408070000 +0000" channel="DAAI TV.vision">
+<title>Tek Tok</title>
+</programme>
+<programme start="20260408070000 +0000" stop="20260408073000 +0000" channel="DAAI TV.vision">
+<title>Bingkai Sumatera</title>
+</programme>
+<programme start="20260408073000 +0000" stop="20260408080000 +0000" channel="DAAI TV.vision">
+<title>Bumiku Satu</title>
+</programme>
+<programme start="20260408080000 +0000" stop="20260408090000 +0000" channel="DAAI TV.vision">
+<title>Saat Takdir Memelukku</title>
+</programme>
+<programme start="20260408090000 +0000" stop="20260408093000 +0000" channel="DAAI TV.vision">
+<title>Cerita Sahabat</title>
 </programme>
