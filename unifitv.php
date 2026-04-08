@@ -550,7 +550,7 @@
     <episode-num system="onscreen">S1E12</episode-num>
   </programme>
   <programme start="20260407173000 +0000" stop="20260407180000 +0000" channel="tv1.unifitv">
-    <title lang="en">Limitasi</title>
+    <title lang="en">Awal / Limitasi</title>
     <desc lang="en">Dokumentari kesihatan yang mengupas pelbagai varian penyakit yang kerap menyerang peringkat awal kanak-kanak. Turut dipaparkan cara-cara mengenali simptom dan rawatan serta cara melatih pesakit.</desc>
     <category lang="en">Drama</category>
     <episode-num system="xmltv_ns">0.2.</episode-num>
@@ -558,24 +558,21 @@
   </programme>
   <programme start="20260407180000 +0000" stop="20260407190000 +0000" channel="tv1.unifitv">
     <title lang="en">Tasbih Rindu</title>
-    <desc lang="en">Perjalanan hidup seorang pemuda bernama Ryan yang berubah secara drastik selepas melalui pengalaman pahit apabila dia telah diculik dan diancam bunuh.
-
-Pelakon : Shah Jaszle, Mardiana Alwi, Josiah Hogan,Hafidzuddin Fazil.</desc>
+    <desc lang="en">Drama lakonan Shah Jaszle, Mardiana Alwi, Hafidzuddin Fazil, Hendon Faeizah, Josiah Hogan, Fieyna Tajudin.</desc>
     <category lang="en">Drama</category>
     <episode-num system="xmltv_ns">0.3.</episode-num>
     <episode-num system="onscreen">S1E4</episode-num>
   </programme>
   <programme start="20260407190000 +0000" stop="20260407193000 +0000" channel="tv1.unifitv">
     <title lang="en">Pentas Seni</title>
-    <desc lang="en">Saksikan program bual bicara tentang dunia hiburan, topik-topik terkini,gosip, kejayaan dan lain-lain bersama pengacara Fikry Ibrahim.</desc>
+    <desc lang="en">Sebuah program bicarawara yang mengupas isu semasa dunia hiburan Malaysia, dengan temubual eksklusif bersama selebriti dan penggiat industri berkaitan tajuk hangat.</desc>
     <category lang="en">Drama</category>
     <episode-num system="xmltv_ns">0.4.</episode-num>
     <episode-num system="onscreen">S1E5</episode-num>
   </programme>
   <programme start="20260407193000 +0000" stop="20260407203000 +0000" channel="tv1.unifitv">
-    <title lang="en">Kampung Semarah Padi</title>
-    <desc lang="en">Kisah penduduk Kampung Semarah Padi yang disumpah menjadi lembut selembutnya oleh Kassim selepas difitnah dan dihalau kerana menyukai Meriam, anak gadis Penghulu Siak.
-Pelakon : Sabri Yunus, Khir Rahman, Johan A’sari, Shiela Mambo, Intan Ladyana, Zain Hamid, Azmi Bahron, Rosca, Fauzuly Hamdan Tahir.</desc>
+    <title lang="en">Kampung Semarah Padi (Ulangan)</title>
+    <desc lang="en">Kisah penduduk Kampung Semarah Padi yang disumpah menjadi lembut-selembutnya oleh Kassim selepas difitnah dan dihalau kerana menyukai Meriam, anak gadis Penghulu Siak.</desc>
     <category lang="en">Drama</category>
     <episode-num system="xmltv_ns">0.1.</episode-num>
     <episode-num system="onscreen">S1E2</episode-num>
@@ -589,7 +586,7 @@ Pelakon : Sabri Yunus, Khir Rahman, Johan A’sari, Shiela Mambo, Intan Ladyana,
   </programme>
   <programme start="20260407210000 +0000" stop="20260407212500 +0000" channel="tv1.unifitv">
     <title lang="en">Dimensi Teknologi</title>
-    <desc lang="en">Program yang memaparkan teknologi pintar yang memberikan definisi baru kepada kehidupan moden.</desc>
+    <desc lang="en">Dimensi Teknologi adalah sebuah rancangan yang memaparkan perkembangan teknologi terkini di dalam pelbagai bidang di Malaysia.</desc>
     <category lang="en">Drama</category>
     <episode-num system="xmltv_ns">0.0.</episode-num>
     <episode-num system="onscreen">S1E1</episode-num>
@@ -600,19 +597,16 @@ Pelakon : Sabri Yunus, Khir Rahman, Johan A’sari, Shiela Mambo, Intan Ladyana,
     <category lang="en">Drama</category>
   </programme>
   <programme start="20260407213000 +0000" stop="20260407220200 +0000" channel="tv1.unifitv">
-    <title lang="en">Bacaan Ar Rahman/ Al Mulk/ Yassin/ Al Waqiah</title>
-    <desc lang="en">Bacaan Ar Rahman/ Al Mulk/ Yassin/ Al Waqiah</desc>
+    <title lang="en">Surah Al Mulk (2023)</title>
+    <desc lang="en">Bacaan surah Al Mulk.</desc>
     <category lang="en">Drama</category>
   </programme>
-  <programme start="20260407220200 +0000" stop="20260407225700 +0000" channel="tv1.unifitv">
+  <programme start="20260407220200 +0000" stop="20260407230000 +0000" channel="tv1.unifitv">
     <title lang="en">Bismillah 2025</title>
     <desc lang="en">Saksikan Bismillah menghayati Tilawah &amp; Tadabbur surah al-fatihah yang menceritakan tentang kebesaran Allah dan pedoman hidup manusia dalam damaikan jiwamu dengan bismillah.</desc>
     <category lang="en">Drama</category>
-  </programme>
-  <programme start="20260407225700 +0000" stop="20260407230000 +0000" channel="tv1.unifitv">
-    <title lang="en">Hello Dunia</title>
-    <desc lang="en">Hello Dunia</desc>
-    <category lang="en">Drama</category>
+    <episode-num system="xmltv_ns">0.12.</episode-num>
+    <episode-num system="onscreen">S1E13</episode-num>
   </programme>
   <programme start="20260407230000 +0000" stop="20260407234400 +0000" channel="tv1.unifitv">
     <title lang="en">BERITA PAGI</title>
@@ -635,7 +629,7 @@ Pelakon : Sabri Yunus, Khir Rahman, Johan A’sari, Shiela Mambo, Intan Ladyana,
     <category lang="en">Drama</category>
   </programme>
   <programme start="20260408020500 +0000" stop="20260408023000 +0000" channel="tv1.unifitv">
-    <title lang="en">Desapreneur Muda</title>
+    <title lang="en">Desapreneur Muda (Ulangan)</title>
     <desc lang="en">Sebuah majalah travelog mendekati usahawan belia yang memilih kerjaya di desa atau kampung.</desc>
     <category lang="en">Drama</category>
     <episode-num system="xmltv_ns">0.11.</episode-num>
@@ -643,13 +637,13 @@ Pelakon : Sabri Yunus, Khir Rahman, Johan A’sari, Shiela Mambo, Intan Ladyana,
   </programme>
   <programme start="20260408023000 +0000" stop="20260408030000 +0000" channel="tv1.unifitv">
     <title lang="en">Solusi Alam</title>
-    <desc lang="en">Menampilkan hos Ah Fad, program ini mengetengahkan kelebihan herba sebagai rawatan alternatif dalam kehidupan moden sekarang.</desc>
+    <desc lang="en">Bersama pengacara mencari khazanah alam dan melihat khasiat dan impak tumbuhan semula jadi dalam dunia kesihatan moden.</desc>
     <category lang="en">Drama</category>
     <episode-num system="xmltv_ns">0.6.</episode-num>
     <episode-num system="onscreen">S1E7</episode-num>
   </programme>
   <programme start="20260408030000 +0000" stop="20260408033000 +0000" channel="tv1.unifitv">
-    <title lang="en">Bisikan Dari Kota Pusaka</title>
+    <title lang="en">Bisikan Dari Kota Pusaka (Ulangan)</title>
     <desc lang="en">Sebuah dokumentari sejarah yang memaparkan kisah sejarah kota-kota pusaka di Malaysia.</desc>
     <category lang="en">Drama</category>
     <episode-num system="xmltv_ns">0.4.</episode-num>
@@ -679,12 +673,7 @@ Pelakon : Sabri Yunus, Khir Rahman, Johan A’sari, Shiela Mambo, Intan Ladyana,
     <desc lang="en">Saksikan perkembangan berita terkini, isu-isu semasa dalam dan luar negara</desc>
     <category lang="en">Drama</category>
   </programme>
-  <programme start="20260408053000 +0000" stop="20260408053300 +0000" channel="tv1.unifitv">
-    <title lang="en">Hello Dunia</title>
-    <desc lang="en">Hello Dunia</desc>
-    <category lang="en">Drama</category>
-  </programme>
-  <programme start="20260408053300 +0000" stop="20260408063000 +0000" channel="tv1.unifitv">
+  <programme start="20260408053000 +0000" stop="20260408063000 +0000" channel="tv1.unifitv">
     <title lang="en">Ketika Masa Terhenti</title>
     <desc lang="en">Saksikan lakonan Jue Aziz, Julia Ziegler, Arja Lee, Qazem Nor, Abby Nadzri, Laila Nasir, Farzana Latiff dan Nik Adam Adly.</desc>
     <category lang="en">Drama</category>
@@ -704,53 +693,44 @@ Pelakon : Sabri Yunus, Khir Rahman, Johan A’sari, Shiela Mambo, Intan Ladyana,
     <category lang="en">Drama</category>
   </programme>
   <programme start="20260408070500 +0000" stop="20260408080000 +0000" channel="tv1.unifitv">
-    <title lang="en">Cuit Sikit, Jangan Sentap</title>
-    <desc lang="en">Rancangan ini mengetengahkan isu golongan muda yang menyentuh nilai-nilai murni dan kerohanian bersama pengacara Hafiz Dolson, Irfan Syahmi dan Syairul Islam dalam #CuitSikitJanganSentap</desc>
+    <title lang="en">Cuit Sikit Jangan Sentap 2026</title>
+    <desc lang="en">Rancangan ini mengetengahkan isu golongan muda yang menyentuh nilai-nilai murni dan kerohanian.</desc>
+    <category lang="en">Drama</category>
+    <episode-num system="xmltv_ns">0.0.</episode-num>
+    <episode-num system="onscreen">S1E1</episode-num>
+  </programme>
+  <programme start="20260408080000 +0000" stop="20260408080500 +0000" channel="tv1.unifitv">
+    <title lang="en">LIVE : BERITA SEMASA</title>
+    <desc lang="en">Berita Semasa dalam dan luar negara</desc>
     <category lang="en">Drama</category>
   </programme>
-  <programme start="20260408080000 +0000" stop="20260408081000 +0000" channel="tv1.unifitv">
-    <title lang="en">Taklimat Krisis Tenaga Global</title>
-    <desc lang="en">Taklimat Krisis Tenaga Global</desc>
-    <category lang="en">Drama</category>
-  </programme>
-  <programme start="20260408081000 +0000" stop="20260408083000 +0000" channel="tv1.unifitv">
-    <title lang="en">Redah</title>
+  <programme start="20260408080500 +0000" stop="20260408083000 +0000" channel="tv1.unifitv">
+    <title lang="en">Redah (Ulangan)</title>
     <desc lang="en">Redah membawa anda menyelusuri perjalanan survival yang dialami oleh mangsa sesebuah keadaan atau situasi dan bagaimana untuk mencari jalan keluar dari situasi tersebut.</desc>
     <category lang="en">Drama</category>
     <episode-num system="xmltv_ns">0.16.</episode-num>
     <episode-num system="onscreen">S1E17</episode-num>
   </programme>
   <programme start="20260408083000 +0000" stop="20260408090000 +0000" channel="tv1.unifitv">
-    <title lang="en">Biz Malaysia 2026</title>
+    <title lang="en">LIVE : BIZ MALAYSIA</title>
     <desc lang="en">Saksikan perkembangan terkini dunia ekonomi Malaysia dalam Biz Malaysia.</desc>
     <category lang="en">Drama</category>
-    <episode-num system="xmltv_ns">0.16.</episode-num>
-    <episode-num system="onscreen">S1E17</episode-num>
   </programme>
   <programme start="20260408090000 +0000" stop="20260408100000 +0000" channel="tv1.unifitv">
     <title lang="en">BERITA WILAYAH</title>
     <desc lang="en">Saksikan laporan perkembangan terkini dari wilayah-wilayah semenanjung Malaysia dalam rangkuman berita terkini.</desc>
     <category lang="en">Drama</category>
   </programme>
-  <programme start="20260408100000 +0000" stop="20260408100300 +0000" channel="tv1.unifitv">
-    <title lang="en">Hello Dunia</title>
-    <desc lang="en">Hello Dunia</desc>
+  <programme start="20260408100000 +0000" stop="20260408104500 +0000" channel="tv1.unifitv">
+    <title lang="en">Fikrah 2025</title>
+    <desc lang="en">Bersama pengacara dan tetamu undangan membincangkan isu-isu semasa.</desc>
     <category lang="en">Drama</category>
-  </programme>
-  <programme start="20260408100300 +0000" stop="20260408103000 +0000" channel="tv1.unifitv">
-    <title lang="en">Fikrah</title>
-    <desc lang="en">Diskusi mengenai permasalahan dan isu-isu mengenai agama.</desc>
-    <category lang="en">Drama</category>
-  </programme>
-  <programme start="20260408103000 +0000" stop="20260408104500 +0000" channel="tv1.unifitv">
-    <title lang="en">Promo / PSA / Kapsul</title>
-    <desc lang="en">Promo / PSA / Kapsul</desc>
-    <category lang="en">Drama</category>
+    <episode-num system="xmltv_ns">0.13.</episode-num>
+    <episode-num system="onscreen">S1E14</episode-num>
   </programme>
   <programme start="20260408104500 +0000" stop="20260408114400 +0000" channel="tv1.unifitv">
-    <title lang="en">Kampung Semarah Padi</title>
-    <desc lang="en">Kisah penduduk Kampung Semarah Padi yang disumpah menjadi lembut selembutnya oleh Kassim selepas difitnah dan dihalau kerana menyukai Meriam, anak gadis Penghulu Siak.
-Pelakon : Sabri Yunus, Khir Rahman, Johan A’sari, Shiela Mambo, Intan Ladyana, Zain Hamid, Azmi Bahron, Rosca, Fauzuly Hamdan Tahir.</desc>
+    <title lang="en">Kampung Semarah Padi (Ulangan)</title>
+    <desc lang="en">Kisah penduduk Kampung Semarah Padi yang disumpah menjadi lembut-selembutnya oleh Kassim selepas difitnah dan dihalau kerana menyukai Meriam, anak gadis Penghulu Siak.</desc>
     <category lang="en">Drama</category>
     <episode-num system="xmltv_ns">0.2.</episode-num>
     <episode-num system="onscreen">S1E3</episode-num>
@@ -772,8 +752,7 @@ Pelakon : Sabri Yunus, Khir Rahman, Johan A’sari, Shiela Mambo, Intan Ladyana,
   </programme>
   <programme start="20260408130000 +0000" stop="20260408140000 +0000" channel="tv1.unifitv">
     <title lang="en">Destinasi Ukhuwah</title>
-    <desc lang="en">Empat sahabat, Suhaimi, Hakimi, Erwan dan Hasif, yang terpisah selepas tamat pengajian dan bertemu semula, mengimbau persahabatan lama dan erti setia persahabatan.
-Pelakon : Amerul Affendi, Fendi Bakry, Zalif Sidek, AdamShahz</desc>
+    <desc lang="en">Hasrat empat orang rakan karib menimba pengalaman dengan merantau sambil melakukan kerja-kerja amal.</desc>
     <category lang="en">Drama</category>
     <episode-num system="xmltv_ns">0.7.</episode-num>
     <episode-num system="onscreen">S1E8</episode-num>
@@ -790,9 +769,7 @@ Pelakon : Amerul Affendi, Fendi Bakry, Zalif Sidek, AdamShahz</desc>
   </programme>
   <programme start="20260408143000 +0000" stop="20260408153000 +0000" channel="tv1.unifitv">
     <title lang="en">Tasbih Rindu</title>
-    <desc lang="en">Perjalanan hidup seorang pemuda bernama Ryan yang berubah secara drastik selepas melalui pengalaman pahit apabila dia telah diculik dan diancam bunuh.
-
-Pelakon : Shah Jaszle, Mardiana Alwi, Josiah Hogan,Hafidzuddin Fazil.</desc>
+    <desc lang="en">Drama lakonan Shah Jaszle, Mardiana Alwi, Hafidzuddin Fazil, Hendon Faeizah, Josiah Hogan, Fieyna Tajudin.</desc>
     <category lang="en">Drama</category>
     <episode-num system="xmltv_ns">0.4.</episode-num>
     <episode-num system="onscreen">S1E5</episode-num>
@@ -12553,7 +12530,7 @@ Pelakon : Shah Jaszle, Mardiana Alwi, Josiah Hogan,Hafidzuddin Fazil.</desc>
     <category lang="en">News</category>
   </programme>
   <programme start="20260407223300 +0000" stop="20260407230300 +0000" channel="aljazeera.unifitv">
-    <title lang="en">The Global Population</title>
+    <title lang="en">The Global Population Bust : Baby Boomers</title>
     <desc lang="en">As birthrates crash worldwide, the hidden forces reshaping family, fertility, and the future of humanity are explored.</desc>
     <category lang="en">News</category>
   </programme>
@@ -12663,7 +12640,7 @@ Pelakon : Shah Jaszle, Mardiana Alwi, Josiah Hogan,Hafidzuddin Fazil.</desc>
     <category lang="en">News</category>
   </programme>
   <programme start="20260408093300 +0000" stop="20260408100300 +0000" channel="aljazeera.unifitv">
-    <title lang="en">The Global Population</title>
+    <title lang="en">The Global Population Bust : Baby Boomers</title>
     <desc lang="en">As birthrates crash worldwide, the hidden forces reshaping family, fertility, and the future of humanity are explored.</desc>
     <category lang="en">News</category>
   </programme>
