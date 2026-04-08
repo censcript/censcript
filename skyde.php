@@ -3084,11 +3084,8 @@ Warning: Undefined array key "et" in /usr/home/ManusiaBiasa/domains/manusiabiasa
 <programme start="20260409210000 +0000" stop="20260409230000 +0000" channel="Sky Sport Premier League HD.skyde">
     <title>PL: Tottenham Hotspur - Nottingham Forest, 31. Spieltag</title>
 </programme>
-<programme start="20260408223000 +0000" stop="20260409003000 +0000" channel="Sky Sport Tennis HD.skyde">
-    <title>WTA 500: Topspiel, Upper Austria Ladies Linz in Linz (AUT), 3. Tag</title>
-</programme>
-<programme start="20260409003000 +0000" stop="20260409010000 +0000" channel="Sky Sport Tennis HD.skyde">
-    <title>ATP: This Week</title>
+<programme start="20260408230000 +0000" stop="20260409010000 +0000" channel="Sky Sport Tennis HD.skyde">
+    <title>ATP 1000: A. Zverev (GER) - C. Garin (CHI), Rolex Monte-Carlo Masters in Monte-Carlo, 4. Tag</title>
 </programme>
 <programme start="20260409010000 +0000" stop="20260409033000 +0000" channel="Sky Sport Tennis HD.skyde">
     <title>ATP 250: T. Paul (USA) - R. Burruchaga (ARG), Fayez Sarofim &amp; Co U.S. Men&#039;s Clay Court Championship in Houston (USA), Finale</title>
@@ -3099,8 +3096,8 @@ Warning: Undefined array key "et" in /usr/home/ManusiaBiasa/domains/manusiabiasa
 <programme start="20260409043000 +0000" stop="20260409050000 +0000" channel="Sky Sport Tennis HD.skyde">
     <title>ATP: This Week</title>
 </programme>
-<programme start="20260409050000 +0000" stop="20260409070000 +0000" channel="Sky Sport Tennis HD.skyde">
-    <title>WTA 500: Topspiel, Upper Austria Ladies Linz in Linz (AUT), 3. Tag</title>
+<programme start="20260409051500 +0000" stop="20260409065500 +0000" channel="Sky Sport Tennis HD.skyde">
+    <title>WTA 500: M. Andreeva - S. Stephens (USA), Upper Austria Ladies Linz in Linz (AUT), 3. Tag</title>
 </programme>
 <programme start="20260409070000 +0000" stop="20260409090000 +0000" channel="Sky Sport Tennis HD.skyde">
     <title>ATP 1000: A. Zverev (GER) - C. Garin (CHI), Rolex Monte-Carlo Masters in Monte-Carlo, 4. Tag</title>
