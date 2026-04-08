@@ -766,14 +766,8 @@
     <programme start="20260407160000 +0000" stop="20260408005500 +0000" channel="Live 6.mewatch">
         <title>No Programme available now. Next Broadcast on 8th April, Wednesday 8.55am. Bank of Ningbo Badminton Asia Championships 2026 : Round of 32</title>
     </programme>
-    <programme start="20260408005500 +0000" stop="20260408150000 +0000" channel="Live 6.mewatch">
+    <programme start="20260408005500 +0000" stop="20260408170000 +0000" channel="Live 6.mewatch">
         <title>Bank of Ningbo Badminton Asia Championships 2026 : Round of 32</title>
-    </programme>
-    <programme start="20260408150000 +0000" stop="20260408160000 +0000" channel="Live 6.mewatch">
-        <title>No programmes streaming LIVE at this moment</title>
-    </programme>
-    <programme start="20260408160000 +0000" stop="20260409160000 +0000" channel="Live 6.mewatch">
-        <title>No programmes streaming LIVE at this moment</title>
     </programme>
     <programme start="20260407160000 +0000" stop="20260408160000 +0000" channel="Live 7.mewatch">
         <title>No programmes streaming LIVE at this moment</title>
