@@ -16009,6 +16009,48 @@
   <programme start="20260410214500 +0000" stop="20260410220000 +0000" channel="CETV.webtv.sk">
     <title lang="id">Spravodajstvo</title>
   </programme>
+  <programme start="20260409220000 +0000" stop="20260410030000 +0000" channel="TV8.webtv.sk">
+    <title lang="id">Nočné vysielanie pre pánov</title>
+  </programme>
+  <programme start="20260410030000 +0000" stop="20260410033000 +0000" channel="TV8.webtv.sk">
+    <title lang="id">Dobré rady starej mamy</title>
+  </programme>
+  <programme start="20260410033000 +0000" stop="20260410034500 +0000" channel="TV8.webtv.sk">
+    <title lang="id">HOROSKOPY</title>
+  </programme>
+  <programme start="20260410034500 +0000" stop="20260410040000 +0000" channel="TV8.webtv.sk">
+    <title lang="id">Cvičíme pre zdravie</title>
+  </programme>
+  <programme start="20260410040000 +0000" stop="20260410053000 +0000" channel="TV8.webtv.sk">
+    <title lang="id">Veštenie repríza</title>
+  </programme>
+  <programme start="20260410053000 +0000" stop="20260410063000 +0000" channel="TV8.webtv.sk">
+    <title lang="id">Spiatočka</title>
+  </programme>
+  <programme start="20260410063000 +0000" stop="20260410064500 +0000" channel="TV8.webtv.sk">
+    <title lang="id">Cvičíme pre zdravie</title>
+  </programme>
+  <programme start="20260410064500 +0000" stop="20260410070000 +0000" channel="TV8.webtv.sk">
+    <title lang="id">HOROSKOPY</title>
+  </programme>
+  <programme start="20260410070000 +0000" stop="20260410125500 +0000" channel="TV8.webtv.sk">
+    <title lang="id">Prvá pomoc s Annou</title>
+  </programme>
+  <programme start="20260410125500 +0000" stop="20260410130000 +0000" channel="TV8.webtv.sk">
+    <title lang="id">HOROSKOPY</title>
+  </programme>
+  <programme start="20260410130000 +0000" stop="20260410144000 +0000" channel="TV8.webtv.sk">
+    <title lang="id">Prvá pomoc</title>
+  </programme>
+  <programme start="20260410144000 +0000" stop="20260410164500 +0000" channel="TV8.webtv.sk">
+    <title lang="id">Cvičíme pre zdravie</title>
+  </programme>
+  <programme start="20260410164500 +0000" stop="20260410180000 +0000" channel="TV8.webtv.sk">
+    <title lang="id">HOROSKOPY</title>
+  </programme>
+  <programme start="20260410180000 +0000" stop="20260410220000 +0000" channel="TV8.webtv.sk">
+    <title lang="id">Televeštiareň s Marciou</title>
+  </programme>
   <programme start="20260409220000 +0000" stop="20260409221000 +0000" channel="Polar TV.webtv.sk">
     <title lang="id">Regionální zprávy POLAR</title>
   </programme>

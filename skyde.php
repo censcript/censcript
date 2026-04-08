@@ -2548,10 +2548,10 @@
 <programme start="20260408144500 +0000" stop="20260408153000 +0000" channel="Sky Sport Austria 1 HD.skyde">
     <title>Die UEFA CL am Dienstag: Analyse</title>
 </programme>
-<programme start="20260408153000 +0000" stop="20260408162500 +0000" channel="Sky Sport Austria 1 HD.skyde">
+<programme start="20260408153000 +0000" stop="20260408162000 +0000" channel="Sky Sport Austria 1 HD.skyde">
     <title>UEFA EL: UEL &amp; UECL Magazin</title>
 </programme>
-<programme start="20260408162500 +0000" stop="20260408164000 +0000" channel="Sky Sport Austria 1 HD.skyde">
+<programme start="20260408162000 +0000" stop="20260408164000 +0000" channel="Sky Sport Austria 1 HD.skyde">
     <title>Die UEFA CL am Dienstag: Alle Spiele, alle Tore, Viertelfinale, Hinspiele</title>
 </programme>
 <programme start="20260408164000 +0000" stop="20260408180000 +0000" channel="Sky Sport Austria 1 HD.skyde">
@@ -2773,88 +2773,16 @@
 <programme start="20260408210000 +0000" stop="20260408220000 +0000" channel="Sky Sport F1 HD.skyde">
     <title>F3: 2. Rennen - GP Australien</title>
 </programme>
-<programme start="20260407220000 +0000" stop="20260407224500 +0000" channel="Sky Sport Golf HD.skyde">
-    <title>The Masters: The Legend of Bernhard Langer</title>
-</programme>
-<programme start="20260407224500 +0000" stop="20260407233000 +0000" channel="Sky Sport Golf HD.skyde">
-    <title>The Masters: A Champion&#039;s Dream - Jordan Spieth</title>
-</programme>
-<programme start="20260407233000 +0000" stop="20260408003000 +0000" channel="Sky Sport Golf HD.skyde">
-    <title>The Masters: 13 Green Jackets</title>
-</programme>
-<programme start="20260408003000 +0000" stop="20260408010000 +0000" channel="Sky Sport Golf HD.skyde">
-    <title>The Masters: Official Film 1986 (Jack Nicklaus)</title>
-</programme>
-<programme start="20260408010000 +0000" stop="20260408020000 +0000" channel="Sky Sport Golf HD.skyde">
-    <title>The Masters: Official Film 1997 (Tiger Woods)</title>
-</programme>
-<programme start="20260408020000 +0000" stop="20260408030000 +0000" channel="Sky Sport Golf HD.skyde">
-    <title>The Masters: Official Film 2017 (Sergio Garcia)</title>
-</programme>
-<programme start="20260408030000 +0000" stop="20260408040000 +0000" channel="Sky Sport Golf HD.skyde">
-    <title>The Masters: Official Film 2018 (Patrick Reed)</title>
-</programme>
-<programme start="20260408040000 +0000" stop="20260408050000 +0000" channel="Sky Sport Golf HD.skyde">
-    <title>The Masters: Official Film 2019 (Tiger Woods)</title>
-</programme>
-<programme start="20260408050000 +0000" stop="20260408060000 +0000" channel="Sky Sport Golf HD.skyde">
-    <title>The Masters: Official Film 2020 (Dustin Johnson)</title>
-</programme>
-<programme start="20260408060000 +0000" stop="20260408070000 +0000" channel="Sky Sport Golf HD.skyde">
-    <title>The Masters: Official Film 2021 (Hideki Matsuyama)</title>
-</programme>
-<programme start="20260408070000 +0000" stop="20260408080000 +0000" channel="Sky Sport Golf HD.skyde">
-    <title>The Masters: Official Film 2022 (Scottie Scheffler)</title>
-</programme>
-<programme start="20260408080000 +0000" stop="20260408090000 +0000" channel="Sky Sport Golf HD.skyde">
-    <title>The Masters: Official Film 2023 (Jon Rahm)</title>
-</programme>
-<programme start="20260408090000 +0000" stop="20260408100000 +0000" channel="Sky Sport Golf HD.skyde">
-    <title>The Masters: Official Film 2024 (Scottie Scheffler)</title>
-</programme>
-<programme start="20260408100000 +0000" stop="20260408110000 +0000" channel="Sky Sport Golf HD.skyde">
-    <title>The Masters: Official Film 2025 (Rory McIllroy)</title>
-</programme>
-<programme start="20260408110000 +0000" stop="20260408120000 +0000" channel="Sky Sport Golf HD.skyde">
-    <title>The Masters: The Spanish Inspiration</title>
-</programme>
-<programme start="20260408120000 +0000" stop="20260408130000 +0000" channel="Sky Sport Golf HD.skyde">
-    <title>The Masters: A Look Back at 2019</title>
-</programme>
-<programme start="20260408130000 +0000" stop="20260408150000 +0000" channel="Sky Sport Golf HD.skyde">
-    <title>Live The Masters: On The Range (Mittwoch)</title>
-</programme>
-<programme start="20260408150000 +0000" stop="20260408155500 +0000" channel="Sky Sport Golf HD.skyde">
-    <title>The Masters: 1986</title>
-</programme>
-<programme start="20260408155500 +0000" stop="20260408164500 +0000" channel="Sky Sport Golf HD.skyde">
-    <title>The Masters: McIlroy&#039;s Masterpiece</title>
-</programme>
-<programme start="20260408164500 +0000" stop="20260408173000 +0000" channel="Sky Sport Golf HD.skyde">
-    <title>The Masters: The Legend of Bernhard Langer</title>
-</programme>
-<programme start="20260408173000 +0000" stop="20260408180000 +0000" channel="Sky Sport Golf HD.skyde">
-    <title>Golf: Spezial - The Masters in Augusta</title>
-</programme>
-<programme start="20260408180000 +0000" stop="20260408200000 +0000" channel="Sky Sport Golf HD.skyde">
-    <title>Live The Masters: Par 3 Contest</title>
-</programme>
-<programme start="20260408200000 +0000" stop="20260408203000 +0000" channel="Sky Sport Golf HD.skyde">
-    <title>Golf: Spezial - The Masters in Augusta</title>
-</programme>
-<programme start="20260408203000 +0000" stop="20260408233000 +0000" channel="Sky Sport Golf HD.skyde">
-    <title>The Masters: 4. Tag 2025 in Augusta, GA (USA)</title>
-</programme>
 <programme start="20260407220000 +0000" stop="20260407223000 +0000" channel="Sky Sport Mix HD.skyde">
     <title>NBA: On Fire</title>
 </programme>
 <programme start="20260407223000 +0000" stop="20260407230000 +0000" channel="Sky Sport Mix HD.skyde">
     <title>NHL: On the Fly</title>
 </programme>
-<programme start="20260407230000 +0000" stop="20260408013500 +0000" channel="Sky Sport Mix HD.skyde">
+<programme start="20260407230000 +0000" stop="20260408020000 +0000" channel="Sky Sport Mix HD.skyde">
     <title>Live NHL: Philadelphia Flyers @ New Jersey Devils</title>
 </programme>
-<programme start="20260408013500 +0000" stop="20260408030000 +0000" channel="Sky Sport Mix HD.skyde">
+<programme start="20260408020000 +0000" stop="20260408030000 +0000" channel="Sky Sport Mix HD.skyde">
     <title>Live NBA: Charlotte Hornets @ Boston Celtics</title>
 </programme>
 <programme start="20260408030000 +0000" stop="20260408060000 +0000" channel="Sky Sport Mix HD.skyde">
@@ -3193,7 +3121,7 @@
 <programme start="20260407230000 +0000" stop="20260408000000 +0000" channel="Sky Sport 1 HD.skyde">
     <title>Live NBA: Showtime</title>
 </programme>
-<programme start="20260408000000 +0000" stop="20260408080000 +0000" channel="Sky Sport 1 HD.skyde">
+<programme start="20260408000000 +0000" stop="20260408030000 +0000" channel="Sky Sport 1 HD.skyde">
     <title>Live NBA: Charlotte Hornets @ Boston Celtics</title>
 </programme>
 <programme start="20260407220000 +0000" stop="20260407224500 +0000" channel="SYFY HD.skyde">

@@ -31,23 +31,17 @@
 <programme start="20260408150000 +0000" stop="20260408170000 +0000" channel="RCTI.vision">
 <title>Obsession</title>
 </programme>
-<programme start="20260408170000 +0000" stop="20260408190000 +0000" channel="RCTI.vision">
+<programme start="20260408170000 +0000" stop="20260408193000 +0000" channel="RCTI.vision">
 <title>Kompleks Pengabdi Istri</title>
 </programme>
-<programme start="20260408190000 +0000" stop="20260408223000 +0000" channel="RCTI.vision">
-<title>Preman Pensiun</title>
+<programme start="20260408193000 +0000" stop="20260408230000 +0000" channel="RCTI.vision">
+<title>Preman Pensiun X</title>
 </programme>
-<programme start="20260408223000 +0000" stop="20260408233000 +0000" channel="RCTI.vision">
-<title>Penyejuk Hati</title>
-</programme>
-<programme start="20260408233000 +0000" stop="20260409010000 +0000" channel="RCTI.vision">
+<programme start="20260408230000 +0000" stop="20260409010000 +0000" channel="RCTI.vision">
 <title>Upin Ipin</title>
 </programme>
-<programme start="20260409010000 +0000" stop="20260409021500 +0000" channel="RCTI.vision">
+<programme start="20260409010000 +0000" stop="20260409033000 +0000" channel="RCTI.vision">
 <title>Entong (RCTI)</title>
-</programme>
-<programme start="20260409021500 +0000" stop="20260409033000 +0000" channel="RCTI.vision">
-<title>Mega Film TV</title>
 </programme>
 <programme start="20260409033000 +0000" stop="20260409043000 +0000" channel="RCTI.vision">
 <title>Go Spot (RCTI)</title>
@@ -59,7 +53,7 @@
 <title>Dunia Masih Terbalik</title>
 </programme>
 <programme start="20260409063000 +0000" stop="20260409090000 +0000" channel="RCTI.vision">
-<title>Si Doel Anak Sekolahan S2</title>
+<title>Si Doel Anak Sekolahan S3</title>
 </programme>
 <programme start="20260409090000 +0000" stop="20260409103000 +0000" channel="RCTI.vision">
 <title>My Dear Guardian</title>
@@ -628,9 +622,6 @@
 <programme start="20260408003000 +0000" stop="20260408023000 +0000" channel="ANTV.vision">
 <title>Janji Cinta Inspektur Virat</title>
 </programme>
-<programme start="20260408023000 +0000" stop="20260408060000 +0000" channel="ANTV.vision">
-<title>Karan Arjun</title>
-</programme>
 <programme start="20260408060000 +0000" stop="20260408080000 +0000" channel="ANTV.vision">
 <title>Jhanak</title>
 </programme>
@@ -639,9 +630,6 @@
 </programme>
 <programme start="20260408090000 +0000" stop="20260408110000 +0000" channel="ANTV.vision">
 <title>Vasudha</title>
-</programme>
-<programme start="20260408110000 +0000" stop="20260408130000 +0000" channel="ANTV.vision">
-<title>Saur Sepuh 2</title>
 </programme>
 <programme start="20260408130000 +0000" stop="20260408143000 +0000" channel="ANTV.vision">
 <title>Bangunnya Nyi Roro Kidul</title>
@@ -1497,4 +1485,16 @@
 </programme>
 <programme start="20260408013000 +0000" stop="20260408020000 +0000" channel="DAAI TV.vision">
 <title>@Indonesia</title>
+</programme>
+<programme start="20260408020000 +0000" stop="20260408030000 +0000" channel="DAAI TV.vision">
+<title>Bincang Sehati</title>
+</programme>
+<programme start="20260408030000 +0000" stop="20260408033000 +0000" channel="DAAI TV.vision">
+<title>Sehat Ala Timur</title>
+</programme>
+<programme start="20260408033000 +0000" stop="20260408040000 +0000" channel="DAAI TV.vision">
+<title>Vegetarian Kitchen</title>
+</programme>
+<programme start="20260408040000 +0000" stop="20260408050000 +0000" channel="DAAI TV.vision">
+<title>Selalu Ada Untukku</title>
 </programme>
