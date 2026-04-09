@@ -2192,7 +2192,7 @@
         <title>TotalEnergies Africa Cup of Nations, Morocco 2025: Mali vs Tunisia - Rd of 16</title>
     </programme>
     <programme start="20260409010000 +0000" stop="20260409025000 +0000" channel="beIN Sports 2 HD.starhub">
-        <title>TotalEnergies Africa Cup of Nations, Morocco 2025: Morocco vs Tanzania - Rd of 16</title>
+        <title>TotalEnergies Africa Cup of Nations, Morocco 2025: Morocco vs Tanzania - Rd of 1</title>
     </programme>
     <programme start="20260409025000 +0000" stop="20260409031500 +0000" channel="beIN Sports 2 HD.starhub">
         <title>HSBC SVNS2 2026: USA vs Kenya - Brazil Day 2, Men</title>
@@ -2768,7 +2768,7 @@
         <title>Malli</title>
     </programme>
     <programme start="20260409153000 +0000" stop="20260409160000 +0000" channel="Sun TV.starhub">
-        <title>ANANDARAGAM - Serial</title>
+        <title>IRU MALARGAL</title>
     </programme>
     <programme start="20260408160000 +0000" stop="20260408163000 +0000" channel="Zee Tamil.starhub">
         <title>Veera</title>
@@ -7972,13 +7972,13 @@
     <programme start="20260409043000 +0000" stop="20260409073000 +0000" channel="Asianet Movies.starhub">
         <title>Kilichundan Mambazham</title>
     </programme>
-    <programme start="20260409073000 +0000" stop="20260409103000 +0000" channel="Asianet Movies.starhub">
+    <programme start="20260409073000 +0000" stop="20260409104000 +0000" channel="Asianet Movies.starhub">
         <title>Bahubali 2: The Conclusion</title>
     </programme>
-    <programme start="20260409103000 +0000" stop="20260409133000 +0000" channel="Asianet Movies.starhub">
+    <programme start="20260409104000 +0000" stop="20260409133000 +0000" channel="Asianet Movies.starhub">
         <title>Chunkzz</title>
     </programme>
-    <programme start="20260409133000 +0000" stop="20260409170000 +0000" channel="Asianet Movies.starhub">
+    <programme start="20260409133000 +0000" stop="20260409165500 +0000" channel="Asianet Movies.starhub">
         <title>Vettam</title>
     </programme>
     <programme start="20260408160000 +0000" stop="20260408170000 +0000" channel="Astro Warna HD.starhub">
