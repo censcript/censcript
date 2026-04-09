@@ -2563,7 +2563,7 @@ Warning: Undefined array key "et" in /usr/home/ManusiaBiasa/domains/manusiabiasa
     <title>UEFA EL: UEL &amp; UECL Magazin</title>
 </programme>
 <programme start="20260409163000 +0000" stop="20260409181500 +0000" channel="Sky Sport Austria 1 HD.skyde">
-    <title>Live UEFA EL: Rayo Vallecano - AEK Athen, Viertelfinale Hinspiel</title>
+    <title>Live UEFA ECL: Rayo Vallecano - AEK Athen, Viertelfinale Hinspiel</title>
 </programme>
 <programme start="20260409181500 +0000" stop="20260409185000 +0000" channel="Sky Sport Austria 1 HD.skyde">
     <title>Live Der UEFA Super Donnerstag: Vorbericht</title>
@@ -2853,25 +2853,31 @@ Warning: Undefined array key "et" in /usr/home/ManusiaBiasa/domains/manusiabiasa
 <programme start="20260409100000 +0000" stop="20260409120000 +0000" channel="Sky Sport Mix HD.skyde">
     <title>NHL: Edmonton Oilers @ San Jose Sharks</title>
 </programme>
-<programme start="20260409120000 +0000" stop="20260409130000 +0000" channel="Sky Sport Mix HD.skyde">
+<programme start="20260409120000 +0000" stop="20260409123000 +0000" channel="Sky Sport Mix HD.skyde">
     <title>NHL: On the Fly</title>
 </programme>
-<programme start="20260409130000 +0000" stop="20260409133000 +0000" channel="Sky Sport Mix HD.skyde">
+<programme start="20260409123000 +0000" stop="20260409130000 +0000" channel="Sky Sport Mix HD.skyde">
     <title>NBA: Action</title>
 </programme>
-<programme start="20260409133000 +0000" stop="20260409143000 +0000" channel="Sky Sport Mix HD.skyde">
+<programme start="20260409130000 +0000" stop="20260409140000 +0000" channel="Sky Sport Mix HD.skyde">
     <title>3. Liga: Alle Spiele, alle Tore, 32. Spieltag komplett</title>
 </programme>
-<programme start="20260409143000 +0000" stop="20260409150000 +0000" channel="Sky Sport Mix HD.skyde">
+<programme start="20260409140000 +0000" stop="20260409143000 +0000" channel="Sky Sport Mix HD.skyde">
     <title>Fußball: scooore Portugal! Alle Tore</title>
+</programme>
+<programme start="20260409143000 +0000" stop="20260409150000 +0000" channel="Sky Sport Mix HD.skyde">
+    <title>Fußball: scooore Polen! Alle Tore</title>
 </programme>
 <programme start="20260409150000 +0000" stop="20260409153000 +0000" channel="Sky Sport Mix HD.skyde">
     <title>Fußball: scooore Argentinien! Alle Tore</title>
 </programme>
-<programme start="20260409153000 +0000" stop="20260409162000 +0000" channel="Sky Sport Mix HD.skyde">
+<programme start="20260409153000 +0000" stop="20260409160000 +0000" channel="Sky Sport Mix HD.skyde">
     <title>NHL: On the Fly</title>
 </programme>
-<programme start="20260409162000 +0000" stop="20260409163500 +0000" channel="Sky Sport Mix HD.skyde">
+<programme start="20260409160000 +0000" stop="20260409161500 +0000" channel="Sky Sport Mix HD.skyde">
+    <title>NHL: Highlights TBL@OTT</title>
+</programme>
+<programme start="20260409161500 +0000" stop="20260409163500 +0000" channel="Sky Sport Mix HD.skyde">
     <title>NHL: Highlights EDM@SJS</title>
 </programme>
 <programme start="20260409163500 +0000" stop="20260409185000 +0000" channel="Sky Sport Mix HD.skyde">

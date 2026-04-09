@@ -22,16 +22,16 @@
 <programme start="20260409103000 +0000" stop="20260409120000 +0000" channel="RCTI.vision">
 <title>Preman Pensiun Deui</title>
 </programme>
-<programme start="20260409120000 +0000" stop="20260409131500 +0000" channel="RCTI.vision">
+<programme start="20260409120000 +0000" stop="20260409133000 +0000" channel="RCTI.vision">
 <title>Terikat Janji (RCTI)</title>
 </programme>
-<programme start="20260409131500 +0000" stop="20260409143000 +0000" channel="RCTI.vision">
+<programme start="20260409133000 +0000" stop="20260409150000 +0000" channel="RCTI.vision">
 <title>Turun Ranjang (RCTI)</title>
 </programme>
-<programme start="20260409143000 +0000" stop="20260409163000 +0000" channel="RCTI.vision">
+<programme start="20260409150000 +0000" stop="20260409170000 +0000" channel="RCTI.vision">
 <title>Menantu Penguras Harta</title>
 </programme>
-<programme start="20260409163000 +0000" stop="20260409193000 +0000" channel="RCTI.vision">
+<programme start="20260409170000 +0000" stop="20260409193000 +0000" channel="RCTI.vision">
 <title>Kompleks Pengabdi Istri</title>
 </programme>
 <programme start="20260409193000 +0000" stop="20260409230000 +0000" channel="RCTI.vision">
@@ -485,142 +485,136 @@
 <title>Insert Story</title>
 </programme>
 <programme start="20260408233000 +0000" stop="20260409003000 +0000" channel="Trans 7.vision">
-<title>Spotlite</title>
+<title>Trans 7</title>
 </programme>
 <programme start="20260409003000 +0000" stop="20260409013000 +0000" channel="Trans 7.vision">
-<title>Selebrita Pagi</title>
+<title>Trans 7</title>
 </programme>
 <programme start="20260409013000 +0000" stop="20260409023000 +0000" channel="Trans 7.vision">
-<title>FYP (For Your Pagi)</title>
+<title>Trans 7</title>
 </programme>
 <programme start="20260409023000 +0000" stop="20260409031500 +0000" channel="Trans 7.vision">
-<title>Selebrita Heits</title>
+<title>Trans 7</title>
 </programme>
 <programme start="20260409031500 +0000" stop="20260409041500 +0000" channel="Trans 7.vision">
-<title>Big-Bang!</title>
+<title>Trans 7</title>
 </programme>
 <programme start="20260409041500 +0000" stop="20260409050000 +0000" channel="Trans 7.vision">
-<title>Enah Bikin Enak</title>
+<title>Trans 7</title>
 </programme>
 <programme start="20260409050000 +0000" stop="20260409054500 +0000" channel="Trans 7.vision">
-<title>Jejak Si Gundul</title>
+<title>Trans 7</title>
 </programme>
 <programme start="20260409054500 +0000" stop="20260409063000 +0000" channel="Trans 7.vision">
-<title>Bocah Petualang</title>
+<title>Trans 7</title>
 </programme>
 <programme start="20260409063000 +0000" stop="20260409071500 +0000" channel="Trans 7.vision">
-<title>Kepo</title>
+<title>Trans 7</title>
 </programme>
 <programme start="20260409071500 +0000" stop="20260409080000 +0000" channel="Trans 7.vision">
-<title>Redaksi</title>
+<title>Trans 7</title>
 </programme>
 <programme start="20260409080000 +0000" stop="20260409090000 +0000" channel="Trans 7.vision">
-<title>Speak Up!</title>
+<title>Trans 7</title>
 </programme>
-<programme start="20260409090000 +0000" stop="20260409100000 +0000" channel="Trans 7.vision">
-<title>Makan Receh</title>
+<programme start="20260409090000 +0000" stop="20260409111500 +0000" channel="Trans 7.vision">
+<title>Trans 7</title>
 </programme>
-<programme start="20260409100000 +0000" stop="20260409110000 +0000" channel="Trans 7.vision">
-<title>Selebrita Update</title>
-</programme>
-<programme start="20260409110000 +0000" stop="20260409114500 +0000" channel="Trans 7.vision">
-<title>On The Spot</title>
+<programme start="20260409111500 +0000" stop="20260409114500 +0000" channel="Trans 7.vision">
+<title>Trans 7</title>
 </programme>
 <programme start="20260409114500 +0000" stop="20260409121500 +0000" channel="Trans 7.vision">
-<title>Secret Story</title>
+<title>Trans 7</title>
 </programme>
 <programme start="20260409121500 +0000" stop="20260409130000 +0000" channel="Trans 7.vision">
-<title>POV (Pasti Obrolan Viral)</title>
+<title>Trans 7</title>
 </programme>
 <programme start="20260409130000 +0000" stop="20260409143000 +0000" channel="Trans 7.vision">
-<title>Arisan</title>
+<title>Trans 7</title>
 </programme>
 <programme start="20260409143000 +0000" stop="20260409154500 +0000" channel="Trans 7.vision">
-<title>Lapor Pak!</title>
+<title>Trans 7</title>
 </programme>
 <programme start="20260409154500 +0000" stop="20260409163000 +0000" channel="Trans 7.vision">
-<title>The Police</title>
+<title>Trans 7</title>
 </programme>
 <programme start="20260409163000 +0000" stop="20260409171500 +0000" channel="Trans 7.vision">
-<title>Misteri Dunia</title>
+<title>Trans 7</title>
 </programme>
 <programme start="20260409171500 +0000" stop="20260409174500 +0000" channel="Trans 7.vision">
-<title>Redaksi Malam</title>
+<title>Trans 7</title>
 </programme>
 <programme start="20260409174500 +0000" stop="20260409183000 +0000" channel="Trans 7.vision">
-<title>Sport7</title>
+<title>Trans 7</title>
 </programme>
 <programme start="20260409183000 +0000" stop="20260409190000 +0000" channel="Trans 7.vision">
-<title>Dracin</title>
+<title>Trans 7</title>
 </programme>
 <programme start="20260409190000 +0000" stop="20260409193000 +0000" channel="Trans 7.vision">
-<title>Best Fishing</title>
+<title>Trans 7</title>
 </programme>
-<programme start="20260409193000 +0000" stop="20260409200000 +0000" channel="Trans 7.vision">
-<title>Enaknya Mantul</title>
+<programme start="20260409193000 +0000" stop="20260409213000 +0000" channel="Trans 7.vision">
+<title>Trans 7</title>
 </programme>
-<programme start="20260409200000 +0000" stop="20260409210000 +0000" channel="Trans 7.vision">
-<title>Lebih Segerr</title>
+<programme start="20260409213000 +0000" stop="20260409221500 +0000" channel="Trans 7.vision">
+<title>Trans 7</title>
 </programme>
-<programme start="20260409210000 +0000" stop="20260409214500 +0000" channel="Trans 7.vision">
-<title>POV (Pasti Obrolan Viral)</title>
+<programme start="20260409221500 +0000" stop="20260409230000 +0000" channel="Trans 7.vision">
+<title>Trans 7</title>
 </programme>
-<programme start="20260409214500 +0000" stop="20260409223000 +0000" channel="Trans 7.vision">
-<title>Pesantrend</title>
-</programme>
-<programme start="20260409223000 +0000" stop="20260409233000 +0000" channel="Trans 7.vision">
-<title>Redaksi Pagi</title>
+<programme start="20260409230000 +0000" stop="20260409233000 +0000" channel="Trans 7.vision">
+<title>Trans 7</title>
 </programme>
 <programme start="20260409233000 +0000" stop="20260410003000 +0000" channel="Trans 7.vision">
-<title>Spotlite</title>
+<title>Trans 7</title>
 </programme>
 <programme start="20260410003000 +0000" stop="20260410013000 +0000" channel="Trans 7.vision">
-<title>Selebrita Pagi</title>
+<title>Trans 7</title>
 </programme>
 <programme start="20260410013000 +0000" stop="20260410023000 +0000" channel="Trans 7.vision">
-<title>FYP (For Your Pagi)</title>
+<title>Trans 7</title>
 </programme>
 <programme start="20260410023000 +0000" stop="20260410031500 +0000" channel="Trans 7.vision">
-<title>Selebrita Heits</title>
+<title>Trans 7</title>
 </programme>
 <programme start="20260410031500 +0000" stop="20260410041500 +0000" channel="Trans 7.vision">
-<title>Big-Bang!</title>
+<title>Trans 7</title>
 </programme>
 <programme start="20260410041500 +0000" stop="20260410050000 +0000" channel="Trans 7.vision">
-<title>Enah Bikin Enak</title>
+<title>Trans 7</title>
 </programme>
 <programme start="20260410050000 +0000" stop="20260410054500 +0000" channel="Trans 7.vision">
-<title>Jejak Si Gundul</title>
+<title>Trans 7</title>
 </programme>
 <programme start="20260410054500 +0000" stop="20260410063000 +0000" channel="Trans 7.vision">
-<title>Bocah Petualang</title>
+<title>Trans 7</title>
 </programme>
 <programme start="20260410063000 +0000" stop="20260410071500 +0000" channel="Trans 7.vision">
-<title>Kepo</title>
+<title>Trans 7</title>
 </programme>
 <programme start="20260410071500 +0000" stop="20260410080000 +0000" channel="Trans 7.vision">
-<title>Redaksi</title>
+<title>Trans 7</title>
 </programme>
 <programme start="20260410080000 +0000" stop="20260410090000 +0000" channel="Trans 7.vision">
-<title>Speak Up!</title>
+<title>Trans 7</title>
 </programme>
-<programme start="20260410090000 +0000" stop="20260410100000 +0000" channel="Trans 7.vision">
-<title>Makan Receh</title>
+<programme start="20260410090000 +0000" stop="20260410111500 +0000" channel="Trans 7.vision">
+<title>Trans 7</title>
 </programme>
-<programme start="20260410100000 +0000" stop="20260410110000 +0000" channel="Trans 7.vision">
-<title>Selebrita Update</title>
-</programme>
-<programme start="20260410110000 +0000" stop="20260410114500 +0000" channel="Trans 7.vision">
-<title>On The Spot</title>
+<programme start="20260410111500 +0000" stop="20260410114500 +0000" channel="Trans 7.vision">
+<title>Trans 7</title>
 </programme>
 <programme start="20260410114500 +0000" stop="20260410121500 +0000" channel="Trans 7.vision">
-<title>Secret Story</title>
+<title>Trans 7</title>
 </programme>
 <programme start="20260408230000 +0000" stop="20260409003000 +0000" channel="ANTV.vision">
 <title>Kasautii</title>
 </programme>
 <programme start="20260409003000 +0000" stop="20260409023000 +0000" channel="ANTV.vision">
 <title>Janji Cinta Inspektur Virat</title>
+</programme>
+<programme start="20260409023000 +0000" stop="20260409060000 +0000" channel="ANTV.vision">
+<title>Yaadein</title>
 </programme>
 <programme start="20260409060000 +0000" stop="20260409080000 +0000" channel="ANTV.vision">
 <title>Jhanak</title>
@@ -630,6 +624,9 @@
 </programme>
 <programme start="20260409090000 +0000" stop="20260409110000 +0000" channel="ANTV.vision">
 <title>Vasudha</title>
+</programme>
+<programme start="20260409110000 +0000" stop="20260409130000 +0000" channel="ANTV.vision">
+<title>Saur Sepuh 3</title>
 </programme>
 <programme start="20260409130000 +0000" stop="20260409143000 +0000" channel="ANTV.vision">
 <title>Ratu Sakti Calon Arang</title>
@@ -1497,4 +1494,7 @@
 </programme>
 <programme start="20260409003000 +0000" stop="20260409010000 +0000" channel="DAAI TV.vision">
 <title>Darwin &amp; Newts</title>
+</programme>
+<programme start="20260409010000 +0000" stop="20260409013000 +0000" channel="DAAI TV.vision">
+<title>Clifford</title>
 </programme>
