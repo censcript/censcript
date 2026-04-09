@@ -1099,8 +1099,132 @@
 <programme start="20260410165000 +0000" stop="20260409172000 +0000" channel="beIN Sports 1.mncvision">
     <title>LaLiga Goals Galore 2024/25</title>
 </programme>
-Error: Unable to fetch data. HTTP Status Code: 500
-Error: Unable to fetch data. HTTP Status Code: 500
+<programme start="20260409182500 +0000" stop="20260409185500 +0000" channel="beIN Sports 1 HD.mncvision">
+    <title>FIA World Rally Magazine Show</title>
+</programme>
+<programme start="20260409185500 +0000" stop="20260409210000 +0000" channel="beIN Sports 1 HD.mncvision">
+    <title>UEL 2025/26: BOL Vs AVL (L)</title>
+</programme>
+<programme start="20260409210000 +0000" stop="20260409213500 +0000" channel="beIN Sports 1 HD.mncvision">
+    <title>LaLiga Highlights 2025/26</title>
+</programme>
+<programme start="20260409213500 +0000" stop="20260409233000 +0000" channel="beIN Sports 1 HD.mncvision">
+    <title>LaLiga 2025/26: VAL Vs CEL</title>
+</programme>
+<programme start="20260409233000 +0000" stop="20260410012500 +0000" channel="beIN Sports 1 HD.mncvision">
+    <title>LaLiga 2025/26: ALA Vs OSA</title>
+</programme>
+<programme start="20260410012500 +0000" stop="20260410020000 +0000" channel="beIN Sports 1 HD.mncvision">
+    <title>LaLiga Highlights 2025/26</title>
+</programme>
+<programme start="20260410020000 +0000" stop="20260410023000 +0000" channel="beIN Sports 1 HD.mncvision">
+    <title>Mini Match LaLiga: BET Vs ESP</title>
+</programme>
+<programme start="20260410023000 +0000" stop="20260410030000 +0000" channel="beIN Sports 1 HD.mncvision">
+    <title>Mini Match LaLiga: ATM Vs BAR</title>
+</programme>
+<programme start="20260410030000 +0000" stop="20260410033000 +0000" channel="beIN Sports 1 HD.mncvision">
+    <title>Gearing Up 2026: April</title>
+</programme>
+<programme start="20260410033000 +0000" stop="20260410053000 +0000" channel="beIN Sports 1 HD.mncvision">
+    <title>UYL 2025/26: CHE Vs PSV</title>
+</programme>
+<programme start="20260410053000 +0000" stop="20260410072500 +0000" channel="beIN Sports 1 HD.mncvision">
+    <title>LaLiga 2 2025/26: SPO Vs RSO</title>
+</programme>
+<programme start="20260410072500 +0000" stop="20260410080000 +0000" channel="beIN Sports 1 HD.mncvision">
+    <title>LaLiga Highlights 2025/26</title>
+</programme>
+<programme start="20260410080000 +0000" stop="20260410095000 +0000" channel="beIN Sports 1 HD.mncvision">
+    <title>LaLiga 2025/26: MLL Vs RMA</title>
+</programme>
+<programme start="20260410095000 +0000" stop="20260410102000 +0000" channel="beIN Sports 1 HD.mncvision">
+    <title>Going Pro 2026, Ep 7</title>
+</programme>
+<programme start="20260410102000 +0000" stop="20260410121000 +0000" channel="beIN Sports 1 HD.mncvision">
+    <title>LaLiga 2025/26: BET Vs ESP</title>
+</programme>
+<programme start="20260410121000 +0000" stop="20260410122500 +0000" channel="beIN Sports 1 HD.mncvision">
+    <title>LaLiga Goals Galore 2024/25</title>
+</programme>
+<programme start="20260410122500 +0000" stop="20260410142500 +0000" channel="beIN Sports 1 HD.mncvision">
+    <title>UCI World Tour 2026 (L)</title>
+</programme>
+<programme start="20260410142500 +0000" stop="20260410144500 +0000" channel="beIN Sports 1 HD.mncvision">
+    <title>LaLiga Goals Galore 2024/25</title>
+</programme>
+<programme start="20260410144500 +0000" stop="20260410151500 +0000" channel="beIN Sports 1 HD.mncvision">
+    <title>The Sports Rundown 2026</title>
+</programme>
+<programme start="20260410151500 +0000" stop="20260410155000 +0000" channel="beIN Sports 1 HD.mncvision">
+    <title>LaLiga Highlights 2025/26</title>
+</programme>
+<programme start="20260410155000 +0000" stop="20260410162000 +0000" channel="beIN Sports 1 HD.mncvision">
+    <title>FIA World Rally Magazine Show</title>
+</programme>
+<programme start="20260410162000 +0000" stop="20260410165000 +0000" channel="beIN Sports 1 HD.mncvision">
+    <title>The Sports Rundown 2026</title>
+</programme>
+<programme start="20260410165000 +0000" stop="20260409172000 +0000" channel="beIN Sports 1 HD.mncvision">
+    <title>LaLiga Goals Galore 2024/25</title>
+</programme>
+<programme start="20260409174000 +0000" stop="20260409185500 +0000" channel="beIN Sports 2.mncvision">
+    <title>Premier Padel 2026: Gijon</title>
+</programme>
+<programme start="20260409185500 +0000" stop="20260409210000 +0000" channel="beIN Sports 2.mncvision">
+    <title>UECL 2025/26: CRY Vs FIO (L)</title>
+</programme>
+<programme start="20260409210000 +0000" stop="20260409223000 +0000" channel="beIN Sports 2.mncvision">
+    <title>Premier Padel 2026: Gijon</title>
+</programme>
+<programme start="20260409223000 +0000" stop="20260410000000 +0000" channel="beIN Sports 2.mncvision">
+    <title>Premier Padel 2026: Gijon</title>
+</programme>
+<programme start="20260410000000 +0000" stop="20260410013000 +0000" channel="beIN Sports 2.mncvision">
+    <title>Premier Padel 2026: Gijon</title>
+</programme>
+<programme start="20260410013000 +0000" stop="20260410032000 +0000" channel="beIN Sports 2.mncvision">
+    <title>AFCON 2025: RSA Vs CMR</title>
+</programme>
+<programme start="20260410032000 +0000" stop="20260410034500 +0000" channel="beIN Sports 2.mncvision">
+    <title>HSBC SVNS2 2026: USA Vs GER</title>
+</programme>
+<programme start="20260410034500 +0000" stop="20260410041000 +0000" channel="beIN Sports 2.mncvision">
+    <title>HSBC SVNS2 2026: RSA Vs CHN</title>
+</programme>
+<programme start="20260410041000 +0000" stop="20260410043500 +0000" channel="beIN Sports 2.mncvision">
+    <title>HSBC SVNS2 2026: ARG Vs ESP</title>
+</programme>
+<programme start="20260410043500 +0000" stop="20260410050500 +0000" channel="beIN Sports 2.mncvision">
+    <title>HSBC SVNS2 2026: BRA Vs KEN</title>
+</programme>
+<programme start="20260410050500 +0000" stop="20260410065500 +0000" channel="beIN Sports 2.mncvision">
+    <title>UECL 2025/26: SHK Vs AZA</title>
+</programme>
+<programme start="20260410065500 +0000" stop="20260410084500 +0000" channel="beIN Sports 2.mncvision">
+    <title>UEL 2025/26: BRA Vs BET</title>
+</programme>
+<programme start="20260410084500 +0000" stop="20260410103500 +0000" channel="beIN Sports 2.mncvision">
+    <title>UECL 2025/26: RAY Vs AEK</title>
+</programme>
+<programme start="20260410103500 +0000" stop="20260410123500 +0000" channel="beIN Sports 2.mncvision">
+    <title>PSG TV 2025/26: PSG Vs TFC</title>
+</programme>
+<programme start="20260410123500 +0000" stop="20260410143000 +0000" channel="beIN Sports 2.mncvision">
+    <title>UECL 2025/26: CRY Vs FIO</title>
+</programme>
+<programme start="20260410143000 +0000" stop="20260410162000 +0000" channel="beIN Sports 2.mncvision">
+    <title>UEL 2025/26: BOL Vs AVL</title>
+</programme>
+<programme start="20260410162000 +0000" stop="20260410163000 +0000" channel="beIN Sports 2.mncvision">
+    <title>Premier Padel Match HL 2026</title>
+</programme>
+<programme start="20260410163000 +0000" stop="20260410165500 +0000" channel="beIN Sports 2.mncvision">
+    <title>HSBC SVNS Series 2026</title>
+</programme>
+<programme start="20260410165500 +0000" stop="20260409172500 +0000" channel="beIN Sports 2.mncvision">
+    <title>Super Lig 25/26: BJK Vs ANT (L)</title>
+</programme>
 <programme start="20260409174000 +0000" stop="20260409185500 +0000" channel="beIN Sports 2 HD.mncvision">
     <title>Premier Padel 2026: Gijon</title>
 </programme>
@@ -1272,7 +1396,42 @@ Error: Unable to fetch data. HTTP Status Code: 500
 <programme start="20260410163000 +0000" stop="20260409170000 +0000" channel="beIN Sports 3 HD.mncvision">
     <title>AFCON 2025: ALG Vs BFA</title>
 </programme>
-Error: Unable to fetch data. HTTP Status Code: 500
+<programme start="20260409170000 +0000" stop="20260409190000 +0000" channel="beIN SPORTS 4.mncvision">
+    <title>beIN Sports 4</title>
+</programme>
+<programme start="20260409190000 +0000" stop="20260409210000 +0000" channel="beIN SPORTS 4.mncvision">
+    <title>UEL 2025/26: SCF Vs CEL (L)</title>
+</programme>
+<programme start="20260409210000 +0000" stop="20260409230000 +0000" channel="beIN SPORTS 4.mncvision">
+    <title>beIN Sports 4</title>
+</programme>
+<programme start="20260409230000 +0000" stop="20260410010000 +0000" channel="beIN SPORTS 4.mncvision">
+    <title>beIN Sports 4</title>
+</programme>
+<programme start="20260410010000 +0000" stop="20260410030000 +0000" channel="beIN SPORTS 4.mncvision">
+    <title>beIN Sports 4</title>
+</programme>
+<programme start="20260410030000 +0000" stop="20260410050000 +0000" channel="beIN SPORTS 4.mncvision">
+    <title>beIN Sports 4</title>
+</programme>
+<programme start="20260410050000 +0000" stop="20260410070000 +0000" channel="beIN SPORTS 4.mncvision">
+    <title>beIN Sports 4</title>
+</programme>
+<programme start="20260410070000 +0000" stop="20260410090000 +0000" channel="beIN SPORTS 4.mncvision">
+    <title>beIN Sports 4</title>
+</programme>
+<programme start="20260410090000 +0000" stop="20260410110000 +0000" channel="beIN SPORTS 4.mncvision">
+    <title>beIN Sports 4</title>
+</programme>
+<programme start="20260410110000 +0000" stop="20260410130000 +0000" channel="beIN SPORTS 4.mncvision">
+    <title>beIN Sports 4</title>
+</programme>
+<programme start="20260410130000 +0000" stop="20260410150000 +0000" channel="beIN SPORTS 4.mncvision">
+    <title>beIN Sports 4</title>
+</programme>
+<programme start="20260410150000 +0000" stop="20260410153000 +0000" channel="beIN SPORTS 4.mncvision">
+    <title>beIN Sports 4</title>
+</programme>
 <programme start="20260409170000 +0000" stop="20260409190000 +0000" channel="beIN SPORTS 5.mncvision">
     <title>beIN Sports 5</title>
 </programme>
@@ -1465,8 +1624,90 @@ Error: Unable to fetch data. HTTP Status Code: 500
 <programme start="20260410163000 +0000" stop="20260409170000 +0000" channel="BTV.mncvision">
     <title>ONE Vault</title>
 </programme>
-Error: Unable to fetch data. HTTP Status Code: 500
-Error: Unable to fetch data. HTTP Status Code: 500
+<programme start="20260409170200 +0000" stop="20260409185600 +0000" channel="BUDDY STARS.mncvision">
+    <title>Lena And Snowball</title>
+</programme>
+<programme start="20260409185600 +0000" stop="20260409203400 +0000" channel="BUDDY STARS.mncvision">
+    <title>Atomic Kids</title>
+</programme>
+<programme start="20260409203400 +0000" stop="20260409222000 +0000" channel="BUDDY STARS.mncvision">
+    <title>Dragon Girl</title>
+</programme>
+<programme start="20260409222000 +0000" stop="20260410000900 +0000" channel="BUDDY STARS.mncvision">
+    <title>Valley Of Dreams</title>
+</programme>
+<programme start="20260410000900 +0000" stop="20260410014800 +0000" channel="BUDDY STARS.mncvision">
+    <title>Twelve</title>
+</programme>
+<programme start="20260410014800 +0000" stop="20260410032100 +0000" channel="BUDDY STARS.mncvision">
+    <title>Atomic Kids</title>
+</programme>
+<programme start="20260410032100 +0000" stop="20260410044800 +0000" channel="BUDDY STARS.mncvision">
+    <title>Mees Kees langs de lijn</title>
+</programme>
+<programme start="20260410044800 +0000" stop="20260410065600 +0000" channel="BUDDY STARS.mncvision">
+    <title>Valley Of Dreams</title>
+</programme>
+<programme start="20260410065600 +0000" stop="20260410082900 +0000" channel="BUDDY STARS.mncvision">
+    <title>Dreambuilders</title>
+</programme>
+<programme start="20260410082900 +0000" stop="20260410101400 +0000" channel="BUDDY STARS.mncvision">
+    <title>Atomic Kids</title>
+</programme>
+<programme start="20260410101400 +0000" stop="20260410120400 +0000" channel="BUDDY STARS.mncvision">
+    <title>Escape From Planet Earth</title>
+</programme>
+<programme start="20260410120400 +0000" stop="20260410134000 +0000" channel="BUDDY STARS.mncvision">
+    <title>Valley Of Dreams</title>
+</programme>
+<programme start="20260410134000 +0000" stop="20260410151200 +0000" channel="BUDDY STARS.mncvision">
+    <title>Elf-Man</title>
+</programme>
+<programme start="20260410151200 +0000" stop="20260410154200 +0000" channel="BUDDY STARS.mncvision">
+    <title>Atomic Kids</title>
+</programme>
+<programme start="20260409170200 +0000" stop="20260409185600 +0000" channel="BUDDY STARS HD.mncvision">
+    <title>Lena And Snowball</title>
+</programme>
+<programme start="20260409185600 +0000" stop="20260409203400 +0000" channel="BUDDY STARS HD.mncvision">
+    <title>Atomic Kids</title>
+</programme>
+<programme start="20260409203400 +0000" stop="20260409222000 +0000" channel="BUDDY STARS HD.mncvision">
+    <title>Dragon Girl</title>
+</programme>
+<programme start="20260409222000 +0000" stop="20260410000900 +0000" channel="BUDDY STARS HD.mncvision">
+    <title>Valley Of Dreams</title>
+</programme>
+<programme start="20260410000900 +0000" stop="20260410014800 +0000" channel="BUDDY STARS HD.mncvision">
+    <title>Twelve</title>
+</programme>
+<programme start="20260410014800 +0000" stop="20260410032100 +0000" channel="BUDDY STARS HD.mncvision">
+    <title>Atomic Kids</title>
+</programme>
+<programme start="20260410032100 +0000" stop="20260410044800 +0000" channel="BUDDY STARS HD.mncvision">
+    <title>Mees Kees langs de lijn</title>
+</programme>
+<programme start="20260410044800 +0000" stop="20260410065600 +0000" channel="BUDDY STARS HD.mncvision">
+    <title>Valley Of Dreams</title>
+</programme>
+<programme start="20260410065600 +0000" stop="20260410082900 +0000" channel="BUDDY STARS HD.mncvision">
+    <title>Dreambuilders</title>
+</programme>
+<programme start="20260410082900 +0000" stop="20260410101400 +0000" channel="BUDDY STARS HD.mncvision">
+    <title>Atomic Kids</title>
+</programme>
+<programme start="20260410101400 +0000" stop="20260410120400 +0000" channel="BUDDY STARS HD.mncvision">
+    <title>Escape From Planet Earth</title>
+</programme>
+<programme start="20260410120400 +0000" stop="20260410134000 +0000" channel="BUDDY STARS HD.mncvision">
+    <title>Valley Of Dreams</title>
+</programme>
+<programme start="20260410134000 +0000" stop="20260410151200 +0000" channel="BUDDY STARS HD.mncvision">
+    <title>Elf-Man</title>
+</programme>
+<programme start="20260410151200 +0000" stop="20260410154200 +0000" channel="BUDDY STARS HD.mncvision">
+    <title>Atomic Kids</title>
+</programme>
 <programme start="20260409170000 +0000" stop="20260409170700 +0000" channel="CBeebies.mncvision">
     <title>Hey Duggee S5, Ep 4</title>
 </programme>
@@ -3699,8 +3940,156 @@ Error: Unable to fetch data. HTTP Status Code: 500
 <programme start="20260410165000 +0000" stop="20260409172000 +0000" channel="Global Trekker.mncvision">
     <title>Aerial Italy, Ep 1</title>
 </programme>
-Error: Unable to fetch data. HTTP Status Code: 500
-Error: Unable to fetch data. HTTP Status Code: 500
+<programme start="20260409171000 +0000" stop="20260409175500 +0000" channel="Global Trekker HD.mncvision">
+    <title>Air Warriors S10, Ep 6</title>
+</programme>
+<programme start="20260409175500 +0000" stop="20260409184000 +0000" channel="Global Trekker HD.mncvision">
+    <title>Aerial Italy, Ep 1</title>
+</programme>
+<programme start="20260409184000 +0000" stop="20260409190000 +0000" channel="Global Trekker HD.mncvision">
+    <title>Taiwan Top 5, Ep 13</title>
+</programme>
+<programme start="20260409190000 +0000" stop="20260409194500 +0000" channel="Global Trekker HD.mncvision">
+    <title>Cheese: A Love Story, Ep 3</title>
+</programme>
+<programme start="20260409194500 +0000" stop="20260409203000 +0000" channel="Global Trekker HD.mncvision">
+    <title>Cheese: A Love Story, Ep 4</title>
+</programme>
+<programme start="20260409203000 +0000" stop="20260409211500 +0000" channel="Global Trekker HD.mncvision">
+    <title>Cheese: A Love Story, Ep 5</title>
+</programme>
+<programme start="20260409211500 +0000" stop="20260409220000 +0000" channel="Global Trekker HD.mncvision">
+    <title>Cheese: A Love Story, Ep 6</title>
+</programme>
+<programme start="20260409220000 +0000" stop="20260409221500 +0000" channel="Global Trekker HD.mncvision">
+    <title>Prawn Noodles And A Dream</title>
+</programme>
+<programme start="20260409221500 +0000" stop="20260409224500 +0000" channel="Global Trekker HD.mncvision">
+    <title>New Zealand Food Story S4, Ep 1</title>
+</programme>
+<programme start="20260409224500 +0000" stop="20260409231000 +0000" channel="Global Trekker HD.mncvision">
+    <title>New Zealand Food Story S4, Ep 2</title>
+</programme>
+<programme start="20260409231000 +0000" stop="20260409233500 +0000" channel="Global Trekker HD.mncvision">
+    <title>New Zealand Food Story S4, Ep 3</title>
+</programme>
+<programme start="20260409233500 +0000" stop="20260410000000 +0000" channel="Global Trekker HD.mncvision">
+    <title>New Zealand Food Story S4, Ep 4</title>
+</programme>
+<programme start="20260410000000 +0000" stop="20260410002500 +0000" channel="Global Trekker HD.mncvision">
+    <title>New Zealand Food Story S4, Ep 5</title>
+</programme>
+<programme start="20260410002500 +0000" stop="20260410005000 +0000" channel="Global Trekker HD.mncvision">
+    <title>New Zealand Food Story S4, Ep 6</title>
+</programme>
+<programme start="20260410005000 +0000" stop="20260410011500 +0000" channel="Global Trekker HD.mncvision">
+    <title>New Zealand Food Story S4, Ep 1</title>
+</programme>
+<programme start="20260410011500 +0000" stop="20260410014000 +0000" channel="Global Trekker HD.mncvision">
+    <title>New Zealand Food Story S4, Ep 2</title>
+</programme>
+<programme start="20260410014000 +0000" stop="20260410023000 +0000" channel="Global Trekker HD.mncvision">
+    <title>Wildest Survival, Ep 5</title>
+</programme>
+<programme start="20260410023000 +0000" stop="20260410032000 +0000" channel="Global Trekker HD.mncvision">
+    <title>Wildest Survival, Ep 6</title>
+</programme>
+<programme start="20260410032000 +0000" stop="20260410041000 +0000" channel="Global Trekker HD.mncvision">
+    <title>Wildest Survival, Ep 7</title>
+</programme>
+<programme start="20260410041000 +0000" stop="20260410050000 +0000" channel="Global Trekker HD.mncvision">
+    <title>Wildest Survival, Ep 8</title>
+</programme>
+<programme start="20260410050000 +0000" stop="20260410055000 +0000" channel="Global Trekker HD.mncvision">
+    <title>Ainsley Eats The Streets, Ep 5</title>
+</programme>
+<programme start="20260410055000 +0000" stop="20260410063500 +0000" channel="Global Trekker HD.mncvision">
+    <title>Ainsley Eats The Streets, Ep 6</title>
+</programme>
+<programme start="20260410063500 +0000" stop="20260410072500 +0000" channel="Global Trekker HD.mncvision">
+    <title>Ainsley Eats The Streets, Ep 7</title>
+</programme>
+<programme start="20260410072500 +0000" stop="20260410081000 +0000" channel="Global Trekker HD.mncvision">
+    <title>Space Disasters, Ep 2</title>
+</programme>
+<programme start="20260410081000 +0000" stop="20260410085500 +0000" channel="Global Trekker HD.mncvision">
+    <title>Space Disasters, Ep 3</title>
+</programme>
+<programme start="20260410085500 +0000" stop="20260410094000 +0000" channel="Global Trekker HD.mncvision">
+    <title>Space Disasters, Ep 4</title>
+</programme>
+<programme start="20260410094000 +0000" stop="20260410103000 +0000" channel="Global Trekker HD.mncvision">
+    <title>Building The Impossible, Ep 3</title>
+</programme>
+<programme start="20260410103000 +0000" stop="20260410112000 +0000" channel="Global Trekker HD.mncvision">
+    <title>Visionaries Ft. Reeves, Ep 1</title>
+</programme>
+<programme start="20260410112000 +0000" stop="20260410121000 +0000" channel="Global Trekker HD.mncvision">
+    <title>Visionaries Ft. Reeves, Ep 2</title>
+</programme>
+<programme start="20260410121000 +0000" stop="20260410125000 +0000" channel="Global Trekker HD.mncvision">
+    <title>Visionaries Ft. Reeves, Ep 3</title>
+</programme>
+<programme start="20260410125000 +0000" stop="20260410134000 +0000" channel="Global Trekker HD.mncvision">
+    <title>Visionaries Ft. Reeves, Ep 4</title>
+</programme>
+<programme start="20260410134000 +0000" stop="20260410143000 +0000" channel="Global Trekker HD.mncvision">
+    <title>Visionaries Ft. Reeves, Ep 5</title>
+</programme>
+<programme start="20260410143000 +0000" stop="20260410152000 +0000" channel="Global Trekker HD.mncvision">
+    <title>Janet Jackson: Art Of Seduction</title>
+</programme>
+<programme start="20260410152000 +0000" stop="20260410165000 +0000" channel="Global Trekker HD.mncvision">
+    <title>Barbie Uncovered: Dream House</title>
+</programme>
+<programme start="20260410165000 +0000" stop="20260409172000 +0000" channel="Global Trekker HD.mncvision">
+    <title>Aerial Italy, Ep 1</title>
+</programme>
+<programme start="20260409180000 +0000" stop="20260409190000 +0000" channel="GTV.mncvision">
+    <title>Crime KV</title>
+</programme>
+<programme start="20260409190000 +0000" stop="20260409200000 +0000" channel="GTV.mncvision">
+    <title>Naik Enak Turun Ogah</title>
+</programme>
+<programme start="20260409200000 +0000" stop="20260409220000 +0000" channel="GTV.mncvision">
+    <title>Awas Ada Sule</title>
+</programme>
+<programme start="20260409220000 +0000" stop="20260409230000 +0000" channel="GTV.mncvision">
+    <title>Ragam Pagi</title>
+</programme>
+<programme start="20260409230000 +0000" stop="20260410010000 +0000" channel="GTV.mncvision">
+    <title>SpongeBob SquarePants</title>
+</programme>
+<programme start="20260410010000 +0000" stop="20260410013000 +0000" channel="GTV.mncvision">
+    <title>TV Champion</title>
+</programme>
+<programme start="20260410013000 +0000" stop="20260410023000 +0000" channel="GTV.mncvision">
+    <title>Obrolan Seputar Selebriti</title>
+</programme>
+<programme start="20260410023000 +0000" stop="20260410030000 +0000" channel="GTV.mncvision">
+    <title>Buletin iNews Pagi</title>
+</programme>
+<programme start="20260410030000 +0000" stop="20260410050000 +0000" channel="GTV.mncvision">
+    <title>SpongeBob SquarePants</title>
+</programme>
+<programme start="20260410050000 +0000" stop="20260410073000 +0000" channel="GTV.mncvision">
+    <title>SpongeBob SquarePants</title>
+</programme>
+<programme start="20260410073000 +0000" stop="20260410110000 +0000" channel="GTV.mncvision">
+    <title>SpongeBob SquarePants</title>
+</programme>
+<programme start="20260410110000 +0000" stop="20260410120000 +0000" channel="GTV.mncvision">
+    <title>SpongeBob SquarePants</title>
+</programme>
+<programme start="20260410120000 +0000" stop="20260410133000 +0000" channel="GTV.mncvision">
+    <title>New Family 100</title>
+</programme>
+<programme start="20260410133000 +0000" stop="20260410153000 +0000" channel="GTV.mncvision">
+    <title>Operation Delta Force 2</title>
+</programme>
+<programme start="20260410153000 +0000" stop="20260410160000 +0000" channel="GTV.mncvision">
+    <title>Ingin Kaya Sesat Didapat</title>
+</programme>
 <programme start="20260409180000 +0000" stop="20260409190000 +0000" channel="GTV HD.mncvision">
     <title>Crime KV</title>
 </programme>
