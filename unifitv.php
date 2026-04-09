@@ -2721,10 +2721,21 @@ Pelakon : Shah Jaszle, Mardiana Alwi, Josiah Hogan,Hafidzuddin Fazil.</desc>
     <desc lang="en">TVS Tengahari presents a comprehensive look at domestic and international news stories, providing viewers with an in-depth understanding of current affairs during the midday broadcast.</desc>
     <category lang="en">News</category>
   </programme>
-  <programme start="20260409041500 +0000" stop="20260409100000 +0000" channel="tvs.unifitv">
+  <programme start="20260409041500 +0000" stop="20260409090000 +0000" channel="tvs.unifitv">
     <title lang="en">(L) Badminton Asia Championships</title>
     <desc lang="en">Catch live of Ningbo Of Bank Badminton Asia Championships 2026, Ningbo, China. Top Asian players battle for titles in singles, doubles, and mixed events.</desc>
     <category lang="en">Badminton</category>
+  </programme>
+  <programme start="20260409090000 +0000" stop="20260409093000 +0000" channel="tvs.unifitv">
+    <title lang="en">(L) Berita Wilayah TVS</title>
+    <desc lang="en">Berita Wilayah TVS membawakan berita dari negeri-negeri di seluruh negara.</desc>
+    <category lang="en">News</category>
+  </programme>
+  <programme start="20260409093000 +0000" stop="20260409100000 +0000" channel="tvs.unifitv">
+    <title lang="en">Aroma Malaysia</title>
+    <desc lang="en">Aroma Malaysia menampilkan eksplorasi kulinari yang memperkenalkan hidangan tradisional dan tempatan, diperkaya dengan pengalaman pengembaraan merentasi pelbagai destinasi budaya</desc>
+    <episode-num system="xmltv_ns">0.12.</episode-num>
+    <episode-num system="onscreen">S1E13</episode-num>
   </programme>
   <programme start="20260409100000 +0000" stop="20260409101500 +0000" channel="tvs.unifitv">
     <title lang="en">(L) Re Bao</title>
