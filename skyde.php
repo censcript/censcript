@@ -2547,7 +2547,7 @@ Warning: Undefined array key "et" in /usr/home/ManusiaBiasa/domains/manusiabiasa
 <programme start="20260410183000 +0000" stop="20260410185000 +0000" channel="Sky Sport Austria 3 HD.skyde">
     <title>PL: Es folgt</title>
 </programme>
-<programme start="20260410185000 +0000" stop="20260410213000 +0000" channel="Sky Sport Austria 3 HD.skyde">
+<programme start="20260410185000 +0000" stop="20260410210000 +0000" channel="Sky Sport Austria 3 HD.skyde">
     <title>Live PL: West Ham United - Wolverhampton Wanderers, 32. Spieltag</title>
 </programme>
 <programme start="20260409220000 +0000" stop="20260409223000 +0000" channel="Sky Sport Bundesliga HD.skyde">
@@ -2661,7 +2661,7 @@ Warning: Undefined array key "et" in /usr/home/ManusiaBiasa/domains/manusiabiasa
 <programme start="20260410173000 +0000" stop="20260410181500 +0000" channel="Sky Sport Bundesliga 1 HD.skyde">
     <title>Live BL: FCA - TSG: tipico Countdown, Flutlicht-Freitag, 29. Spieltag</title>
 </programme>
-<programme start="20260410181500 +0000" stop="20260410214500 +0000" channel="Sky Sport Bundesliga 1 HD.skyde">
+<programme start="20260410181500 +0000" stop="20260410211500 +0000" channel="Sky Sport Bundesliga 1 HD.skyde">
     <title>Live BL: FC Augsburg - TSG Hoffenheim, Flutlicht-Freitag, 29. Spieltag</title>
 </programme>
 <programme start="20260410154000 +0000" stop="20260410160000 +0000" channel="Sky Sport Bundesliga 2 HD.skyde">
@@ -2670,7 +2670,7 @@ Warning: Undefined array key "et" in /usr/home/ManusiaBiasa/domains/manusiabiasa
 <programme start="20260410160000 +0000" stop="20260410183000 +0000" channel="Sky Sport Bundesliga 2 HD.skyde">
     <title>Live 2. BL: Freitags-Konferenz, 29. Spieltag</title>
 </programme>
-<programme start="20260410183000 +0000" stop="20260410194500 +0000" channel="Sky Sport Bundesliga 2 HD.skyde">
+<programme start="20260410183000 +0000" stop="20260410191500 +0000" channel="Sky Sport Bundesliga 2 HD.skyde">
     <title>Live 2. BL Alle Spiele, alle Tore: Die Vodafone Highlight-Show, 29. Spieltag, Freitag</title>
 </programme>
 <programme start="20260410154000 +0000" stop="20260410160000 +0000" channel="Sky Sport Bundesliga 3 HD.skyde">
@@ -2679,7 +2679,7 @@ Warning: Undefined array key "et" in /usr/home/ManusiaBiasa/domains/manusiabiasa
 <programme start="20260410160000 +0000" stop="20260410183000 +0000" channel="Sky Sport Bundesliga 3 HD.skyde">
     <title>Live 2. BL: Fortuna Düsseldorf - Holstein Kiel, 29. Spieltag</title>
 </programme>
-<programme start="20260410183000 +0000" stop="20260410210000 +0000" channel="Sky Sport Bundesliga 3 HD.skyde">
+<programme start="20260410183000 +0000" stop="20260410203000 +0000" channel="Sky Sport Bundesliga 3 HD.skyde">
     <title>Live BL: Sky Sport Fantasy: FCA - TSG, 29. Spieltag</title>
 </programme>
 <programme start="20260410154000 +0000" stop="20260410160000 +0000" channel="Sky Sport Bundesliga 4 HD.skyde">
