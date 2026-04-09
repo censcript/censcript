@@ -1792,6 +1792,72 @@
   <programme start="20260411211500 +0000" stop="20260411220000 +0000" channel="JOJ 24.webtv.sk">
     <title lang="id">Štúdio 24</title>
   </programme>
+  <programme start="20260410213500 +0000" stop="20260410234500 +0000" channel="Kanal1.webtv.sk">
+    <title lang="id">Sila presvedčenia</title>
+  </programme>
+  <programme start="20260410234500 +0000" stop="20260411004000 +0000" channel="Kanal1.webtv.sk">
+    <title lang="id">Mafia a banky I (1)</title>
+  </programme>
+  <programme start="20260411004000 +0000" stop="20260411013500 +0000" channel="Kanal1.webtv.sk">
+    <title lang="id">Mafia a banky (2)</title>
+  </programme>
+  <programme start="20260411013500 +0000" stop="20260411023000 +0000" channel="Kanal1.webtv.sk">
+    <title lang="id">Ikea: Požierač lesa</title>
+  </programme>
+  <programme start="20260411023000 +0000" stop="20260411034000 +0000" channel="Kanal1.webtv.sk">
+    <title lang="id">Ja, národ</title>
+  </programme>
+  <programme start="20260411034000 +0000" stop="20260411043500 +0000" channel="Kanal1.webtv.sk">
+    <title lang="id">Záchrana raja (9)</title>
+  </programme>
+  <programme start="20260411043500 +0000" stop="20260411052000 +0000" channel="Kanal1.webtv.sk">
+    <title lang="id">Vlaky, ktoré zmenili svet (4)</title>
+  </programme>
+  <programme start="20260411052000 +0000" stop="20260411070000 +0000" channel="Kanal1.webtv.sk">
+    <title lang="id">Kliatba mesačného rodu</title>
+  </programme>
+  <programme start="20260411070000 +0000" stop="20260411082000 +0000" channel="Kanal1.webtv.sk">
+    <title lang="id">Pán účtovník sa nevzdáva</title>
+  </programme>
+  <programme start="20260411082000 +0000" stop="20260411084500 +0000" channel="Kanal1.webtv.sk">
+    <title lang="id">Cestujeme bez batožiny: Maldivy - Meedhupparu (13)</title>
+  </programme>
+  <programme start="20260411084500 +0000" stop="20260411094000 +0000" channel="Kanal1.webtv.sk">
+    <title lang="id">Henry Ford, ikona amerického storočia</title>
+  </programme>
+  <programme start="20260411094000 +0000" stop="20260411103500 +0000" channel="Kanal1.webtv.sk">
+    <title lang="id">Egypt: Chrámy zachránené pred Nílom</title>
+  </programme>
+  <programme start="20260411103500 +0000" stop="20260411112000 +0000" channel="Kanal1.webtv.sk">
+    <title lang="id">Kultový seriál: Melrose Place (47)</title>
+  </programme>
+  <programme start="20260411112000 +0000" stop="20260411121000 +0000" channel="Kanal1.webtv.sk">
+    <title lang="id">Lietajúca upratovacia čata</title>
+  </programme>
+  <programme start="20260411121000 +0000" stop="20260411130500 +0000" channel="Kanal1.webtv.sk">
+    <title lang="id">Severné Írsko: Hranica plná nebezpečenstiev</title>
+  </programme>
+  <programme start="20260411130500 +0000" stop="20260411135500 +0000" channel="Kanal1.webtv.sk">
+    <title lang="id">Poklady z povaly (9)</title>
+  </programme>
+  <programme start="20260411135500 +0000" stop="20260411142500 +0000" channel="Kanal1.webtv.sk">
+    <title lang="id">Cestujeme bez batožiny: Maldivy - Male a Vaadhoo (14)</title>
+  </programme>
+  <programme start="20260411142500 +0000" stop="20260411155500 +0000" channel="Kanal1.webtv.sk">
+    <title lang="id">Rana dáždnikom</title>
+  </programme>
+  <programme start="20260411155500 +0000" stop="20260411173500 +0000" channel="Kanal1.webtv.sk">
+    <title lang="id">Slovenská klasika: Priehrada</title>
+  </programme>
+  <programme start="20260411173500 +0000" stop="20260411183500 +0000" channel="Kanal1.webtv.sk">
+    <title lang="id">Politický príbeh Borisa Johnsona</title>
+  </programme>
+  <programme start="20260411183500 +0000" stop="20260411202000 +0000" channel="Kanal1.webtv.sk">
+    <title lang="id">J. P. Belmondo: Gašparko</title>
+  </programme>
+  <programme start="20260411202000 +0000" stop="20260411232000 +0000" channel="Kanal1.webtv.sk">
+    <title lang="id">Záhada diamantov</title>
+  </programme>
   <programme start="20260410220000 +0000" stop="20260410221500 +0000" channel="Jojko.webtv.sk">
     <title lang="id">Zabi nudu! II (1, 2/30)</title>
   </programme>
@@ -8818,78 +8884,6 @@
   <programme start="20260411200000 +0000" stop="20260411220000 +0000" channel="Film +.webtv.sk">
     <title lang="id">Hannibal</title>
   </programme>
-  <programme start="20260410220000 +0000" stop="20260410223500 +0000" channel="AXN.webtv.sk">
-    <title lang="id">Vzpomínky I (4)</title>
-  </programme>
-  <programme start="20260410223500 +0000" stop="20260410232000 +0000" channel="AXN.webtv.sk">
-    <title lang="id">Lucifer VI (4)</title>
-  </programme>
-  <programme start="20260410232000 +0000" stop="20260411001000 +0000" channel="AXN.webtv.sk">
-    <title lang="id">Spartakus I (2)</title>
-  </programme>
-  <programme start="20260411001000 +0000" stop="20260411005000 +0000" channel="AXN.webtv.sk">
-    <title lang="id">Námořní vyšetřovací služba: Havaj III (10)</title>
-  </programme>
-  <programme start="20260411005000 +0000" stop="20260411013000 +0000" channel="AXN.webtv.sk">
-    <title lang="id">Bosch VII (1)</title>
-  </programme>
-  <programme start="20260411013000 +0000" stop="20260411021500 +0000" channel="AXN.webtv.sk">
-    <title lang="id">Lucifer VI (4)</title>
-  </programme>
-  <programme start="20260411021500 +0000" stop="20260411030500 +0000" channel="AXN.webtv.sk">
-    <title lang="id">Spartakus I (2)</title>
-  </programme>
-  <programme start="20260411030500 +0000" stop="20260411040000 +0000" channel="AXN.webtv.sk">
-    <title lang="id">Ztracený svět I (10)</title>
-  </programme>
-  <programme start="20260411040000 +0000" stop="20260411052500 +0000" channel="AXN.webtv.sk">
-    <title lang="id">The Amazing Race XXXV (3)</title>
-  </programme>
-  <programme start="20260411052500 +0000" stop="20260411062500 +0000" channel="AXN.webtv.sk">
-    <title lang="id">A-Tým I (5)</title>
-  </programme>
-  <programme start="20260411062500 +0000" stop="20260411073000 +0000" channel="AXN.webtv.sk">
-    <title lang="id">A-Tým I (6)</title>
-  </programme>
-  <programme start="20260411073000 +0000" stop="20260411083000 +0000" channel="AXN.webtv.sk">
-    <title lang="id">A-Tým I (7)</title>
-  </programme>
-  <programme start="20260411083000 +0000" stop="20260411094500 +0000" channel="AXN.webtv.sk">
-    <title lang="id">Profil zločinu VIII (3)</title>
-  </programme>
-  <programme start="20260411094500 +0000" stop="20260411105000 +0000" channel="AXN.webtv.sk">
-    <title lang="id">Profil zločinu VIII (4)</title>
-  </programme>
-  <programme start="20260411105000 +0000" stop="20260411120000 +0000" channel="AXN.webtv.sk">
-    <title lang="id">Profil zločinu VIII (5)</title>
-  </programme>
-  <programme start="20260411120000 +0000" stop="20260411130500 +0000" channel="AXN.webtv.sk">
-    <title lang="id">Profil zločinu VIII (6)</title>
-  </programme>
-  <programme start="20260411130500 +0000" stop="20260411140000 +0000" channel="AXN.webtv.sk">
-    <title lang="id">Nemocnice Hope III (18)</title>
-  </programme>
-  <programme start="20260411140000 +0000" stop="20260411145500 +0000" channel="AXN.webtv.sk">
-    <title lang="id">Nemocnice Hope IV (1)</title>
-  </programme>
-  <programme start="20260411145500 +0000" stop="20260411155500 +0000" channel="AXN.webtv.sk">
-    <title lang="id">A-Tým I (5)</title>
-  </programme>
-  <programme start="20260411155500 +0000" stop="20260411165500 +0000" channel="AXN.webtv.sk">
-    <title lang="id">A-Tým I (6)</title>
-  </programme>
-  <programme start="20260411165500 +0000" stop="20260411180000 +0000" channel="AXN.webtv.sk">
-    <title lang="id">A-Tým I (7)</title>
-  </programme>
-  <programme start="20260411180000 +0000" stop="20260411195500 +0000" channel="AXN.webtv.sk">
-    <title lang="id">Policajt ze sámošky</title>
-  </programme>
-  <programme start="20260411195500 +0000" stop="20260411215000 +0000" channel="AXN.webtv.sk">
-    <title lang="id">Buchty a klobásy</title>
-  </programme>
-  <programme start="20260411215000 +0000" stop="20260411234000 +0000" channel="AXN.webtv.sk">
-    <title lang="id">Tajemství dračí pečeti</title>
-  </programme>
   <programme start="20260410215500 +0000" stop="20260410225500 +0000" channel="AXN White.webtv.sk">
     <title lang="id">Profil zločinu VIII (10)</title>
   </programme>
@@ -15529,53 +15523,149 @@
   <programme start="20260411200000 +0000" stop="20260411220000 +0000" channel="TV Považie.webtv.sk">
     <title lang="id">Záznam</title>
   </programme>
-  <programme start="20260410220000 +0000" stop="20260411030000 +0000" channel="TV8.webtv.sk">
-    <title lang="id">Nočné vysielanie pre pánov</title>
+  <programme start="20260410220000 +0000" stop="20260410224500 +0000" channel="CETV.webtv.sk">
+    <title lang="id">Talkshow</title>
   </programme>
-  <programme start="20260411030000 +0000" stop="20260411033000 +0000" channel="TV8.webtv.sk">
-    <title lang="id">Dobré rady starej mamy</title>
+  <programme start="20260410224500 +0000" stop="20260410230000 +0000" channel="CETV.webtv.sk">
+    <title lang="id">Spravodajstvo</title>
   </programme>
-  <programme start="20260411033000 +0000" stop="20260411034500 +0000" channel="TV8.webtv.sk">
-    <title lang="id">HOROSKOPY</title>
+  <programme start="20260410230000 +0000" stop="20260410234500 +0000" channel="CETV.webtv.sk">
+    <title lang="id">Talkshow</title>
   </programme>
-  <programme start="20260411034500 +0000" stop="20260411040000 +0000" channel="TV8.webtv.sk">
-    <title lang="id">Cvičíme pre zdravie</title>
+  <programme start="20260410234500 +0000" stop="20260411000000 +0000" channel="CETV.webtv.sk">
+    <title lang="id">Spravodajstvo</title>
   </programme>
-  <programme start="20260411040000 +0000" stop="20260411063000 +0000" channel="TV8.webtv.sk">
-    <title lang="id">Veštenie repríza</title>
+  <programme start="20260411000000 +0000" stop="20260411004500 +0000" channel="CETV.webtv.sk">
+    <title lang="id">Relácia</title>
   </programme>
-  <programme start="20260411063000 +0000" stop="20260411064500 +0000" channel="TV8.webtv.sk">
-    <title lang="id">Cvičíme pre zdravie</title>
+  <programme start="20260411004500 +0000" stop="20260411010000 +0000" channel="CETV.webtv.sk">
+    <title lang="id">Spravodajstvo</title>
   </programme>
-  <programme start="20260411064500 +0000" stop="20260411070000 +0000" channel="TV8.webtv.sk">
-    <title lang="id">HOROSKOPY</title>
+  <programme start="20260411010000 +0000" stop="20260411014500 +0000" channel="CETV.webtv.sk">
+    <title lang="id">Región – publicistický blok</title>
   </programme>
-  <programme start="20260411070000 +0000" stop="20260411125500 +0000" channel="TV8.webtv.sk">
-    <title lang="id">Veštenie repríza</title>
+  <programme start="20260411014500 +0000" stop="20260411020000 +0000" channel="CETV.webtv.sk">
+    <title lang="id">Spravodajstvo</title>
   </programme>
-  <programme start="20260411125500 +0000" stop="20260411130000 +0000" channel="TV8.webtv.sk">
-    <title lang="id">HOROSKOPY</title>
+  <programme start="20260411020000 +0000" stop="20260411024500 +0000" channel="CETV.webtv.sk">
+    <title lang="id">Relácia</title>
   </programme>
-  <programme start="20260411130000 +0000" stop="20260411144500 +0000" channel="TV8.webtv.sk">
-    <title lang="id">Veštenie repríza</title>
+  <programme start="20260411024500 +0000" stop="20260411030000 +0000" channel="CETV.webtv.sk">
+    <title lang="id">Spravodajstvo</title>
   </programme>
-  <programme start="20260411144500 +0000" stop="20260411150000 +0000" channel="TV8.webtv.sk">
-    <title lang="id">Cvičíme pre zdravie</title>
+  <programme start="20260411030000 +0000" stop="20260411034500 +0000" channel="CETV.webtv.sk">
+    <title lang="id">Talkshow</title>
   </programme>
-  <programme start="20260411150000 +0000" stop="20260411164500 +0000" channel="TV8.webtv.sk">
-    <title lang="id">Veštenie repríza</title>
+  <programme start="20260411034500 +0000" stop="20260411040000 +0000" channel="CETV.webtv.sk">
+    <title lang="id">Spravodajstvo</title>
   </programme>
-  <programme start="20260411164500 +0000" stop="20260411180000 +0000" channel="TV8.webtv.sk">
-    <title lang="id">HOROSKOPY</title>
+  <programme start="20260411040000 +0000" stop="20260411044500 +0000" channel="CETV.webtv.sk">
+    <title lang="id">Relácia</title>
   </programme>
-  <programme start="20260411180000 +0000" stop="20260411193000 +0000" channel="TV8.webtv.sk">
-    <title lang="id">Veštenie repríza</title>
+  <programme start="20260411044500 +0000" stop="20260411050000 +0000" channel="CETV.webtv.sk">
+    <title lang="id">Spravodajstvo</title>
   </programme>
-  <programme start="20260411193000 +0000" stop="20260411200000 +0000" channel="TV8.webtv.sk">
-    <title lang="id">O Zdraví</title>
+  <programme start="20260411050000 +0000" stop="20260411054500 +0000" channel="CETV.webtv.sk">
+    <title lang="id">Región – publicistický blok</title>
   </programme>
-  <programme start="20260411200000 +0000" stop="20260411220000 +0000" channel="TV8.webtv.sk">
-    <title lang="id">Veštenie repríza</title>
+  <programme start="20260411054500 +0000" stop="20260411060000 +0000" channel="CETV.webtv.sk">
+    <title lang="id">Spravodajstvo</title>
+  </programme>
+  <programme start="20260411060000 +0000" stop="20260411064500 +0000" channel="CETV.webtv.sk">
+    <title lang="id">Talkshow</title>
+  </programme>
+  <programme start="20260411064500 +0000" stop="20260411070000 +0000" channel="CETV.webtv.sk">
+    <title lang="id">Spravodajstvo</title>
+  </programme>
+  <programme start="20260411070000 +0000" stop="20260411074500 +0000" channel="CETV.webtv.sk">
+    <title lang="id">Región – publicistický blok</title>
+  </programme>
+  <programme start="20260411074500 +0000" stop="20260411080000 +0000" channel="CETV.webtv.sk">
+    <title lang="id">Spravodajstvo</title>
+  </programme>
+  <programme start="20260411080000 +0000" stop="20260411084500 +0000" channel="CETV.webtv.sk">
+    <title lang="id">Relácia</title>
+  </programme>
+  <programme start="20260411084500 +0000" stop="20260411090000 +0000" channel="CETV.webtv.sk">
+    <title lang="id">Spravodajstvo</title>
+  </programme>
+  <programme start="20260411090000 +0000" stop="20260411094500 +0000" channel="CETV.webtv.sk">
+    <title lang="id">Región – publicistický blok</title>
+  </programme>
+  <programme start="20260411094500 +0000" stop="20260411100000 +0000" channel="CETV.webtv.sk">
+    <title lang="id">Spravodajstvo</title>
+  </programme>
+  <programme start="20260411100000 +0000" stop="20260411104500 +0000" channel="CETV.webtv.sk">
+    <title lang="id">Talkshow</title>
+  </programme>
+  <programme start="20260411104500 +0000" stop="20260411110000 +0000" channel="CETV.webtv.sk">
+    <title lang="id">Spravodajstvo</title>
+  </programme>
+  <programme start="20260411110000 +0000" stop="20260411114500 +0000" channel="CETV.webtv.sk">
+    <title lang="id">Región – publicistický blok</title>
+  </programme>
+  <programme start="20260411114500 +0000" stop="20260411120000 +0000" channel="CETV.webtv.sk">
+    <title lang="id">Spravodajstvo</title>
+  </programme>
+  <programme start="20260411120000 +0000" stop="20260411124500 +0000" channel="CETV.webtv.sk">
+    <title lang="id">Relácia</title>
+  </programme>
+  <programme start="20260411124500 +0000" stop="20260411130000 +0000" channel="CETV.webtv.sk">
+    <title lang="id">Spravodajstvo</title>
+  </programme>
+  <programme start="20260411130000 +0000" stop="20260411134500 +0000" channel="CETV.webtv.sk">
+    <title lang="id">Región – publicistický blok</title>
+  </programme>
+  <programme start="20260411134500 +0000" stop="20260411140000 +0000" channel="CETV.webtv.sk">
+    <title lang="id">Spravodajstvo</title>
+  </programme>
+  <programme start="20260411140000 +0000" stop="20260411144500 +0000" channel="CETV.webtv.sk">
+    <title lang="id">Talkshow</title>
+  </programme>
+  <programme start="20260411144500 +0000" stop="20260411150000 +0000" channel="CETV.webtv.sk">
+    <title lang="id">Spravodajstvo</title>
+  </programme>
+  <programme start="20260411150000 +0000" stop="20260411154500 +0000" channel="CETV.webtv.sk">
+    <title lang="id">Región – publicistický blok</title>
+  </programme>
+  <programme start="20260411154500 +0000" stop="20260411160000 +0000" channel="CETV.webtv.sk">
+    <title lang="id">Spravodajstvo</title>
+  </programme>
+  <programme start="20260411160000 +0000" stop="20260411164500 +0000" channel="CETV.webtv.sk">
+    <title lang="id">Relácia</title>
+  </programme>
+  <programme start="20260411164500 +0000" stop="20260411170000 +0000" channel="CETV.webtv.sk">
+    <title lang="id">Spravodajstvo</title>
+  </programme>
+  <programme start="20260411170000 +0000" stop="20260411174500 +0000" channel="CETV.webtv.sk">
+    <title lang="id">Región – publicistický blok</title>
+  </programme>
+  <programme start="20260411174500 +0000" stop="20260411180000 +0000" channel="CETV.webtv.sk">
+    <title lang="id">Spravodajstvo</title>
+  </programme>
+  <programme start="20260411180000 +0000" stop="20260411184500 +0000" channel="CETV.webtv.sk">
+    <title lang="id">Talkshow</title>
+  </programme>
+  <programme start="20260411184500 +0000" stop="20260411190000 +0000" channel="CETV.webtv.sk">
+    <title lang="id">Spravodajstvo</title>
+  </programme>
+  <programme start="20260411190000 +0000" stop="20260411194500 +0000" channel="CETV.webtv.sk">
+    <title lang="id">Región – publicistický blok</title>
+  </programme>
+  <programme start="20260411194500 +0000" stop="20260411200000 +0000" channel="CETV.webtv.sk">
+    <title lang="id">Spravodajstvo</title>
+  </programme>
+  <programme start="20260411200000 +0000" stop="20260411204500 +0000" channel="CETV.webtv.sk">
+    <title lang="id">Relácia</title>
+  </programme>
+  <programme start="20260411204500 +0000" stop="20260411210000 +0000" channel="CETV.webtv.sk">
+    <title lang="id">Spravodajstvo</title>
+  </programme>
+  <programme start="20260411210000 +0000" stop="20260411214500 +0000" channel="CETV.webtv.sk">
+    <title lang="id">Región – publicistický blok</title>
+  </programme>
+  <programme start="20260411214500 +0000" stop="20260411220000 +0000" channel="CETV.webtv.sk">
+    <title lang="id">Spravodajstvo</title>
   </programme>
   <programme start="20260410220000 +0000" stop="20260410221000 +0000" channel="Polar TV.webtv.sk">
     <title lang="id">Regionální zprávy POLAR</title>
