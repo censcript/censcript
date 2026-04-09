@@ -2569,7 +2569,7 @@ Warning: Undefined array key "et" in /usr/home/ManusiaBiasa/domains/manusiabiasa
     <title>Live Der UEFA Super Donnerstag: Vorbericht</title>
 </programme>
 <programme start="20260409185000 +0000" stop="20260409210000 +0000" channel="Sky Sport Austria 1 HD.skyde">
-    <title>Live Der UEFA Super Donnerstag: Donnerstags-Konferenz II, Viertelfinale Hinspiele</title>
+    <title>Live Der UEFA Super Donnerstag: Donnerstags-Konferenz, Viertelfinale Hinspiele</title>
 </programme>
 <programme start="20260409210000 +0000" stop="20260409220000 +0000" channel="Sky Sport Austria 1 HD.skyde">
     <title>Live Der UEFA Super Donnerstag: Analyse</title>
@@ -2631,7 +2631,7 @@ Warning: Undefined array key "et" in /usr/home/ManusiaBiasa/domains/manusiabiasa
 <programme start="20260409084000 +0000" stop="20260409090000 +0000" channel="Sky Sport Austria 8 HD.skyde">
     <title>Es folgt: LIVE ATP World Tour</title>
 </programme>
-<programme start="20260409090000 +0000" stop="20260409190000 +0000" channel="Sky Sport Austria 8 HD.skyde">
+<programme start="20260409090000 +0000" stop="20260409170000 +0000" channel="Sky Sport Austria 8 HD.skyde">
     <title>Live ATP 1000: Rolex Monte-Carlo Masters in Monte-Carlo, 5. Tag</title>
 </programme>
 <programme start="20260408220000 +0000" stop="20260408223000 +0000" channel="Sky Sport Bundesliga HD.skyde">
@@ -3084,11 +3084,8 @@ Warning: Undefined array key "et" in /usr/home/ManusiaBiasa/domains/manusiabiasa
 <programme start="20260409210000 +0000" stop="20260409230000 +0000" channel="Sky Sport Premier League HD.skyde">
     <title>PL: Tottenham Hotspur - Nottingham Forest, 31. Spieltag</title>
 </programme>
-<programme start="20260408223000 +0000" stop="20260409003000 +0000" channel="Sky Sport Tennis HD.skyde">
-    <title>WTA 500: Topspiel, Upper Austria Ladies Linz in Linz (AUT), 3. Tag</title>
-</programme>
-<programme start="20260409003000 +0000" stop="20260409010000 +0000" channel="Sky Sport Tennis HD.skyde">
-    <title>ATP: This Week</title>
+<programme start="20260408230000 +0000" stop="20260409010000 +0000" channel="Sky Sport Tennis HD.skyde">
+    <title>ATP 1000: A. Zverev (GER) - C. Garin (CHI), Rolex Monte-Carlo Masters in Monte-Carlo, 4. Tag</title>
 </programme>
 <programme start="20260409010000 +0000" stop="20260409033000 +0000" channel="Sky Sport Tennis HD.skyde">
     <title>ATP 250: T. Paul (USA) - R. Burruchaga (ARG), Fayez Sarofim &amp; Co U.S. Men&#039;s Clay Court Championship in Houston (USA), Finale</title>
@@ -3099,8 +3096,8 @@ Warning: Undefined array key "et" in /usr/home/ManusiaBiasa/domains/manusiabiasa
 <programme start="20260409043000 +0000" stop="20260409050000 +0000" channel="Sky Sport Tennis HD.skyde">
     <title>ATP: This Week</title>
 </programme>
-<programme start="20260409050000 +0000" stop="20260409070000 +0000" channel="Sky Sport Tennis HD.skyde">
-    <title>WTA 500: Topspiel, Upper Austria Ladies Linz in Linz (AUT), 3. Tag</title>
+<programme start="20260409051500 +0000" stop="20260409065500 +0000" channel="Sky Sport Tennis HD.skyde">
+    <title>WTA 500: M. Andreeva - S. Stephens (USA), Upper Austria Ladies Linz in Linz (AUT), 3. Tag</title>
 </programme>
 <programme start="20260409070000 +0000" stop="20260409090000 +0000" channel="Sky Sport Tennis HD.skyde">
     <title>ATP 1000: A. Zverev (GER) - C. Garin (CHI), Rolex Monte-Carlo Masters in Monte-Carlo, 4. Tag</title>
@@ -3115,7 +3112,7 @@ Warning: Undefined array key "et" in /usr/home/ManusiaBiasa/domains/manusiabiasa
     <title>ATP 1000: Topspiel, Rolex Monte-Carlo Masters in Monte-Carlo, 5. Tag</title>
 </programme>
 <programme start="20260408220000 +0000" stop="20260409000000 +0000" channel="Sky Sport Top Event HD.skyde">
-    <title>BL: Klassiker der Woche: BVB - HSV (2013/14)</title>
+    <title>BL: Klassiker der Woche</title>
 </programme>
 <programme start="20260409000000 +0000" stop="20260409010000 +0000" channel="Sky Sport Top Event HD.skyde">
     <title>3. Liga: Alle Spiele, alle Tore, 32. Spieltag komplett</title>

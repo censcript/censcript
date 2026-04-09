@@ -14989,14 +14989,69 @@ Pelakon : Shah Jaszle, Mardiana Alwi, Josiah Hogan,Hafidzuddin Fazil.</desc>
     <desc lang="en">Goals, saves and other superhuman feats that have graced the Bundesliga. Since inception in 1963, who stands atop the Bundesliga charts?</desc>
     <category lang="en">Sports</category>
   </programme>
-  <programme start="20260409020000 +0000" stop="20260409055500 +0000" channel="unifisports1.unifitv">
-    <title lang="en">ASTAF Sepaktakraw AsianCup Kuala Lumpur 2025 - Final (Thailand vs Malaysia) - Team Regu</title>
+  <programme start="20260409020000 +0000" stop="20260409033000 +0000" channel="unifisports1.unifitv">
+    <title lang="en">ASTAF Sepaktakraw AsianCup Kuala Lumpur 2025 - Final (Malaysia vs Thailand) - Regu</title>
+    <desc lang="en">The ASTAF Sepaktakraw Asian Cup 2025 is set to take place from May 10 to May 18, 2025, at the prestigious Titiwangsa Indoor Stadium in Kuala Lumpur, Malaysia. This exciting tournament will showcase the best Sepaktakraw talent from across Asia, bringing together top teams and athletes to compete in a vibrant and dynamic environment.</desc>
+    <category lang="en">Sports</category>
+  </programme>
+  <programme start="20260409033000 +0000" stop="20260409043000 +0000" channel="unifisports1.unifitv">
+    <title lang="en">UFC Main Event - UFC 306: O'Malley vs Dvalishvili</title>
+    <desc lang="en">For the first time ever, Sphere Las Vegas hosts the UFC, as devastating striker “Suga” Sean O'Malley defends his title for the second time against the indomitable wrestler Merab “The Machine” Dvalishvili.</desc>
+    <category lang="en">Sports</category>
+  </programme>
+  <programme start="20260409043000 +0000" stop="20260409055500 +0000" channel="unifisports1.unifitv">
+    <title lang="en">ASTAF Sepaktakraw AsianCup Kuala Lumpur 2025 - Semi-Final (Malaysia vs India) - Team Regu</title>
     <desc lang="en">The ASTAF Sepaktakraw Asian Cup 2025 is set to take place from May 10 to May 18, 2025, at the prestigious Titiwangsa Indoor Stadium in Kuala Lumpur, Malaysia. This exciting tournament will showcase the best Sepaktakraw talent from across Asia, bringing together top teams and athletes to compete in a vibrant and dynamic environment.</desc>
     <category lang="en">Sports</category>
   </programme>
   <programme start="20260409055500 +0000" stop="20260409060000 +0000" channel="unifisports1.unifitv">
     <title lang="en">BUNDESLIGA 60 YEARS RECORDS COMPILATION - BUNDESLIGA 60 YEARS RECORDS COMPILATION</title>
     <desc lang="en">Goals, saves and other superhuman feats that have graced the Bundesliga. Since inception in 1963, who stands atop the Bundesliga charts?</desc>
+    <category lang="en">Sports</category>
+  </programme>
+  <programme start="20260409060000 +0000" stop="20260409083000 +0000" channel="unifisports1.unifitv">
+    <title lang="en">UFC Reloaded - UFC 311: Makhachev vs Moicano</title>
+    <desc lang="en">Champion Islam Makhachev looks to break the record for the most consecutive UFC Lightweight title defenses as he faces fan favorite Renato Moicano in the main event of UFC 311, while Bantamweight Champion Merab Dvalishvili defends his belt for the first time against undefeated Umar Nurmagomedov in the co-main. Plus much more action on UFC Reloaded.</desc>
+    <category lang="en">Sports</category>
+  </programme>
+  <programme start="20260409083000 +0000" stop="20260409090000 +0000" channel="unifisports1.unifitv">
+    <title lang="en">Mencari Ramli Musim Ke - 3 - 7</title>
+    <desc lang="en">Mencari Ramli adalah program pencarian bakat bola sepak yang hebat. Program ini memberi peluang kepada bakat muda untuk merealisasikan impian mereka menjadi pemain bola sepak terbaik di peringkat kebangsaan dan antarabangsa. Program ini mencungkil bakat bola sepak anak-anak muda berusia bawah 14 tahun dan bawah 16 tahun.</desc>
+    <category lang="en">Sports</category>
+  </programme>
+  <programme start="20260409090000 +0000" stop="20260409093000 +0000" channel="unifisports1.unifitv">
+    <title lang="en">Sensasi Bola - 2</title>
+    <desc lang="en">Sensasi Bola merupakan satu program bual bicara berdurasi setengah jam bersama pemain bola sepak, selebriti, jurulatih dan peminat sebagai tetamu undangan setiap minggu. Antara topik menarik yang akan dikupas adalah isu mengenai bola sepak tempatan dan antarabangsa, temubual ekslusif bersama lagenda bola sepak, tips kesihatan serta isu semasa yang menjadi perbualan masa kini.</desc>
+    <category lang="en">Sports</category>
+  </programme>
+  <programme start="20260409093000 +0000" stop="20260409100000 +0000" channel="unifisports1.unifitv">
+    <title lang="en">UFC Fight Flashback - UFC Fight Flashback 1001 "Volkanovski vs Ortega</title>
+    <desc lang="en">At UFC 266, The Ultimate Fighter coaching rivalry between featherweight champion Alexander Volkanovski and Brian Ortega came to a head. Relive the action like never before with enhanced replays and angles, new footage, and exclusive audio.</desc>
+    <category lang="en">Sports</category>
+  </programme>
+  <programme start="20260409100000 +0000" stop="20260409123000 +0000" channel="unifisports1.unifitv">
+    <title lang="en">UFC Reloaded - UFC 311: Makhachev vs Moicano</title>
+    <desc lang="en">Champion Islam Makhachev looks to break the record for the most consecutive UFC Lightweight title defenses as he faces fan favorite Renato Moicano in the main event of UFC 311, while Bantamweight Champion Merab Dvalishvili defends his belt for the first time against undefeated Umar Nurmagomedov in the co-main. Plus much more action on UFC Reloaded.</desc>
+    <category lang="en">Sports</category>
+  </programme>
+  <programme start="20260409123000 +0000" stop="20260409130000 +0000" channel="unifisports1.unifitv">
+    <title lang="en">UFC Ultimate Knockouts - Dana White's Contender Series Alum</title>
+    <desc lang="en">UFC Ultimate Knockouts delivers jaw-dropping finishes from fighters who earned their spots through Dana White's Contender Series. See rising stars and future champions like Jack Della Maddalena, Carlos Prates, Sean O'Malley, and more.</desc>
+    <category lang="en">Sports</category>
+  </programme>
+  <programme start="20260409130000 +0000" stop="20260409135500 +0000" channel="unifisports1.unifitv">
+    <title lang="en">UFC Countdown - UFC 319: Du Plessis vs Chimaev</title>
+    <desc lang="en">UFC 319 Countdown previews the promotion's return to Chicago, where middleweight king Dricus du Plessis looks to defend his crown against Khamzat Chimaev. Plus, featherweights collide as Lerone Murphy welcomes newcomer Aaron Pico to the division</desc>
+    <category lang="en">Sports</category>
+  </programme>
+  <programme start="20260409135500 +0000" stop="20260409140000 +0000" channel="unifisports1.unifitv">
+    <title lang="en">BUNDESLIGA 60 YEARS RECORDS COMPILATION - BUNDESLIGA 60 YEARS RECORDS COMPILATION</title>
+    <desc lang="en">Goals, saves and other superhuman feats that have graced the Bundesliga. Since inception in 1963, who stands atop the Bundesliga charts?</desc>
+    <category lang="en">Sports</category>
+  </programme>
+  <programme start="20260409140000 +0000" stop="20260409193000 +0000" channel="unifisports1.unifitv">
+    <title lang="en">UFC Fight Night: Moicano vs. Duncan - Prelims</title>
+    <desc lang="en">As UFC returns to the Meta APEX to begin the second quarter on Saturday, April 5, it does so with a Fight Night event headlined by a lightweight matchup carrying a high potential for fireworks as Renato Moicano squares off with Chris “The Problem” Duncan. Currently stationed at No. 10 in the rankings, Moicano has crafted a reputation as an all-action fighter and notoriously tough out for anyone in the division.</desc>
     <category lang="en">Sports</category>
   </programme>
   <channel id="spotv.unifitv">

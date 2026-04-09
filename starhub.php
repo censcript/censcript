@@ -2192,7 +2192,7 @@
         <title>TotalEnergies Africa Cup of Nations, Morocco 2025: Mali vs Tunisia - Rd of 16</title>
     </programme>
     <programme start="20260409010000 +0000" stop="20260409025000 +0000" channel="beIN Sports 2 HD.starhub">
-        <title>TotalEnergies Africa Cup of Nations, Morocco 2025: Morocco vs Tanzania - Rd of 1</title>
+        <title>TotalEnergies Africa Cup of Nations, Morocco 2025: Morocco vs Tanzania - Rd of 16</title>
     </programme>
     <programme start="20260409025000 +0000" stop="20260409031500 +0000" channel="beIN Sports 2 HD.starhub">
         <title>HSBC SVNS2 2026: USA vs Kenya - Brazil Day 2, Men</title>
@@ -8203,7 +8203,7 @@
     <programme start="20260409153000 +0000" stop="20260409155500 +0000" channel="Dragon TV.starhub">
         <title>CARE ON THE WAY</title>
     </programme>
-    <programme start="20260409155500 +0000" stop="20260409160000 +0000" channel="Dragon TV.starhub">
+    <programme start="20260409155500 +0000" stop="20260409170000 +0000" channel="Dragon TV.starhub">
         <title>Cheer up!small shops</title>
     </programme>
     <programme start="20260408160000 +0000" stop="20260408163000 +0000" channel="Travelxp HD.starhub">
@@ -8852,7 +8852,7 @@
         <title>Global Citizens</title>
     </programme>
     <programme start="20260409030000 +0000" stop="20260409040000 +0000" channel="TVB Jade HD.starhub">
-        <title>Themis</title>
+        <title>Holistic Way+Ninjiom - Themis</title>
     </programme>
     <programme start="20260409040000 +0000" stop="20260409043000 +0000" channel="TVB Jade HD.starhub">
         <title>Scoop 2026</title>
@@ -8897,7 +8897,7 @@
         <title>Lo And Behold</title>
     </programme>
     <programme start="20260409123000 +0000" stop="20260409133000 +0000" channel="TVB Jade HD.starhub">
-        <title>Themis</title>
+        <title>Holistic Way+Ninjiom - Themis</title>
     </programme>
     <programme start="20260409133000 +0000" stop="20260409143000 +0000" channel="TVB Jade HD.starhub">
         <title>The Imperial Coroner (II)</title>

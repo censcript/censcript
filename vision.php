@@ -22,16 +22,16 @@
 <programme start="20260409103000 +0000" stop="20260409120000 +0000" channel="RCTI.vision">
 <title>Preman Pensiun Deui</title>
 </programme>
-<programme start="20260409120000 +0000" stop="20260409133000 +0000" channel="RCTI.vision">
+<programme start="20260409120000 +0000" stop="20260409131500 +0000" channel="RCTI.vision">
 <title>Terikat Janji (RCTI)</title>
 </programme>
-<programme start="20260409133000 +0000" stop="20260409150000 +0000" channel="RCTI.vision">
+<programme start="20260409131500 +0000" stop="20260409143000 +0000" channel="RCTI.vision">
 <title>Turun Ranjang (RCTI)</title>
 </programme>
-<programme start="20260409150000 +0000" stop="20260409170000 +0000" channel="RCTI.vision">
+<programme start="20260409143000 +0000" stop="20260409163000 +0000" channel="RCTI.vision">
 <title>Menantu Penguras Harta</title>
 </programme>
-<programme start="20260409170000 +0000" stop="20260409193000 +0000" channel="RCTI.vision">
+<programme start="20260409163000 +0000" stop="20260409193000 +0000" channel="RCTI.vision">
 <title>Kompleks Pengabdi Istri</title>
 </programme>
 <programme start="20260409193000 +0000" stop="20260409230000 +0000" channel="RCTI.vision">
@@ -612,9 +612,6 @@
 </programme>
 <programme start="20260409003000 +0000" stop="20260409023000 +0000" channel="ANTV.vision">
 <title>Janji Cinta Inspektur Virat</title>
-</programme>
-<programme start="20260409023000 +0000" stop="20260409060000 +0000" channel="ANTV.vision">
-<title>Yaadein</title>
 </programme>
 <programme start="20260409060000 +0000" stop="20260409080000 +0000" channel="ANTV.vision">
 <title>Jhanak</title>
@@ -1497,4 +1494,7 @@
 </programme>
 <programme start="20260409010000 +0000" stop="20260409013000 +0000" channel="DAAI TV.vision">
 <title>Clifford</title>
+</programme>
+<programme start="20260409013000 +0000" stop="20260409020000 +0000" channel="DAAI TV.vision">
+<title>@Indonesia</title>
 </programme>
