@@ -3347,7 +3347,7 @@
     <title>Ada Tamu Gokil</title>
 </programme>
 <programme start="20260408233000 +0000" stop="20260409000000 +0000" channel="FOOD TRAVEL.mncvision">
-    <title>https://www.mncvision.id/schedule/detail/2026040906300095//1</title>
+    <title>Around The World</title>
 </programme>
 <programme start="20260409000000 +0000" stop="20260409010000 +0000" channel="FOOD TRAVEL.mncvision">
     <title>Dapur Ngebor</title>
@@ -3464,7 +3464,7 @@
     <title>Ada Tamu Gokil</title>
 </programme>
 <programme start="20260408233000 +0000" stop="20260409000000 +0000" channel="Food Travel HD.mncvision">
-    <title>https://www.mncvision.id/schedule/detail/20260409063000459//1</title>
+    <title>Around The World</title>
 </programme>
 <programme start="20260409000000 +0000" stop="20260409010000 +0000" channel="Food Travel HD.mncvision">
     <title>Dapur Ngebor</title>
@@ -4094,7 +4094,7 @@
     <title>New Family 100</title>
 </programme>
 <programme start="20260409133000 +0000" stop="20260409153000 +0000" channel="GTV.mncvision">
-    <title>Monster Hunter</title>
+    <title>Operation Delta Force</title>
 </programme>
 <programme start="20260409153000 +0000" stop="20260409163000 +0000" channel="GTV.mncvision">
     <title>Radio</title>
@@ -4142,7 +4142,7 @@
     <title>New Family 100</title>
 </programme>
 <programme start="20260409133000 +0000" stop="20260409153000 +0000" channel="GTV HD.mncvision">
-    <title>Monster Hunter</title>
+    <title>Operation Delta Force</title>
 </programme>
 <programme start="20260409153000 +0000" stop="20260409163000 +0000" channel="GTV HD.mncvision">
     <title>Radio</title>
@@ -5680,71 +5680,74 @@
 <programme start="20260409163500 +0000" stop="20260408170500 +0000" channel="Love Nature HD.mncvision">
     <title>Mysteries Of Mekong S1, Ep 4</title>
 </programme>
-<programme start="20260408170500 +0000" stop="20260408183500 +0000" channel="MDTV.mncvision">
-    <title>MDTV</title>
+<programme start="20260408181000 +0000" stop="20260408190000 +0000" channel="MDTV.mncvision">
+    <title>RT 5</title>
 </programme>
-<programme start="20260408183500 +0000" stop="20260408194000 +0000" channel="MDTV.mncvision">
-    <title>MDTV</title>
+<programme start="20260408190000 +0000" stop="20260408201500 +0000" channel="MDTV.mncvision">
+    <title>Tawa-Tawa Santai</title>
 </programme>
-<programme start="20260408194000 +0000" stop="20260408203500 +0000" channel="MDTV.mncvision">
-    <title>MDTV</title>
+<programme start="20260408201500 +0000" stop="20260408210000 +0000" channel="MDTV.mncvision">
+    <title>Keajaiban Dunia</title>
 </programme>
-<programme start="20260408203500 +0000" stop="20260408212500 +0000" channel="MDTV.mncvision">
-    <title>MDTV</title>
+<programme start="20260408210000 +0000" stop="20260408221500 +0000" channel="MDTV.mncvision">
+    <title>Top Spot</title>
 </programme>
-<programme start="20260408212500 +0000" stop="20260408222000 +0000" channel="MDTV.mncvision">
-    <title>MDTV</title>
+<programme start="20260408221500 +0000" stop="20260408230500 +0000" channel="MDTV.mncvision">
+    <title>Risalah</title>
 </programme>
-<programme start="20260408222000 +0000" stop="20260408235000 +0000" channel="MDTV.mncvision">
-    <title>MDTV</title>
+<programme start="20260408230500 +0000" stop="20260408235000 +0000" channel="MDTV.mncvision">
+    <title>Menjemput Berkah</title>
 </programme>
 <programme start="20260408235000 +0000" stop="20260409010500 +0000" channel="MDTV.mncvision">
-    <title>MDTV</title>
+    <title>AADD: Ada Apa Dengan Dunia</title>
 </programme>
-<programme start="20260409010500 +0000" stop="20260409015500 +0000" channel="MDTV.mncvision">
-    <title>MDTV</title>
+<programme start="20260409010500 +0000" stop="20260409020000 +0000" channel="MDTV.mncvision">
+    <title>Fakta +62</title>
 </programme>
-<programme start="20260409015500 +0000" stop="20260409025500 +0000" channel="MDTV.mncvision">
-    <title>MDTV</title>
+<programme start="20260409020000 +0000" stop="20260409030000 +0000" channel="MDTV.mncvision">
+    <title>SensasiHot</title>
 </programme>
-<programme start="20260409025500 +0000" stop="20260409035000 +0000" channel="MDTV.mncvision">
-    <title>MDTV</title>
+<programme start="20260409030000 +0000" stop="20260409044500 +0000" channel="MDTV.mncvision">
+    <title>Terlanjur Indah</title>
 </programme>
-<programme start="20260409035000 +0000" stop="20260409051000 +0000" channel="MDTV.mncvision">
-    <title>MDTV</title>
+<programme start="20260409044500 +0000" stop="20260409061500 +0000" channel="MDTV.mncvision">
+    <title>Cinta Fitri S7</title>
 </programme>
-<programme start="20260409051000 +0000" stop="20260409064500 +0000" channel="MDTV.mncvision">
-    <title>MDTV</title>
+<programme start="20260409061500 +0000" stop="20260409073000 +0000" channel="MDTV.mncvision">
+    <title>Makan Enak</title>
 </programme>
-<programme start="20260409064500 +0000" stop="20260409080500 +0000" channel="MDTV.mncvision">
-    <title>MDTV</title>
+<programme start="20260409073000 +0000" stop="20260409084500 +0000" channel="MDTV.mncvision">
+    <title>Masak Gesss!!!</title>
 </programme>
-<programme start="20260409080500 +0000" stop="20260409091500 +0000" channel="MDTV.mncvision">
-    <title>MDTV</title>
+<programme start="20260409084500 +0000" stop="20260409091500 +0000" channel="MDTV.mncvision">
+    <title>Adit Sopo Jarwo</title>
 </programme>
-<programme start="20260409091500 +0000" stop="20260409100500 +0000" channel="MDTV.mncvision">
-    <title>MDTV</title>
+<programme start="20260409091500 +0000" stop="20260409101500 +0000" channel="MDTV.mncvision">
+    <title>SensasiSeleb</title>
 </programme>
-<programme start="20260409100500 +0000" stop="20260409110000 +0000" channel="MDTV.mncvision">
-    <title>MDTV</title>
+<programme start="20260409101500 +0000" stop="20260409111000 +0000" channel="MDTV.mncvision">
+    <title>Amigos X Siempre</title>
 </programme>
-<programme start="20260409110000 +0000" stop="20260409120000 +0000" channel="MDTV.mncvision">
-    <title>MDTV</title>
+<programme start="20260409111000 +0000" stop="20260409120000 +0000" channel="MDTV.mncvision">
+    <title>Esmeralda</title>
 </programme>
-<programme start="20260409120000 +0000" stop="20260409130000 +0000" channel="MDTV.mncvision">
-    <title>MDTV</title>
+<programme start="20260409120000 +0000" stop="20260409125500 +0000" channel="MDTV.mncvision">
+    <title>Cinta Fitri</title>
 </programme>
-<programme start="20260409130000 +0000" stop="20260409140000 +0000" channel="MDTV.mncvision">
-    <title>MDTV</title>
+<programme start="20260409125500 +0000" stop="20260409134500 +0000" channel="MDTV.mncvision">
+    <title>Keluarga Yang Tak Dirindukan</title>
 </programme>
-<programme start="20260409140000 +0000" stop="20260409145000 +0000" channel="MDTV.mncvision">
-    <title>MDTV</title>
+<programme start="20260409134500 +0000" stop="20260409143500 +0000" channel="MDTV.mncvision">
+    <title>The Return Of Condor Heroes</title>
 </programme>
-<programme start="20260409145000 +0000" stop="20260409161500 +0000" channel="MDTV.mncvision">
-    <title>MDTV</title>
+<programme start="20260409143500 +0000" stop="20260409160000 +0000" channel="MDTV.mncvision">
+    <title>Jatanras</title>
 </programme>
-<programme start="20260409161500 +0000" stop="20260409164500 +0000" channel="MDTV.mncvision">
-    <title>MDTV</title>
+<programme start="20260409160000 +0000" stop="20260409165500 +0000" channel="MDTV.mncvision">
+    <title>86</title>
+</programme>
+<programme start="20260409165500 +0000" stop="20260408172500 +0000" channel="MDTV.mncvision">
+    <title>Malam-Malam</title>
 </programme>
 <programme start="20260408170000 +0000" stop="20260408170500 +0000" channel="Metro TV.mncvision">
     <title>Headline News</title>

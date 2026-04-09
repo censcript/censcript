@@ -799,10 +799,10 @@
     <programme start="20260409160000 +0000" stop="20260410160000 +0000" channel="Live 6.mewatch">
         <title>No programmes streaming LIVE at this moment</title>
     </programme>
-    <programme start="20260408160000 +0000" stop="20260409100000 +0000" channel="Live 7.mewatch">
-        <title>No Programme available now. Next Broadcast on 9th April, Thursday 06.00pm. Bank of Ningbo Badminton Asia Championships 2026 : Round of 16</title>
+    <programme start="20260408160000 +0000" stop="20260409095000 +0000" channel="Live 7.mewatch">
+        <title>No Programme available now. Next Broadcast on 9th April, Thursday 05.50pm. Bank of Ningbo Badminton Asia Championships 2026 : Round of 16</title>
     </programme>
-    <programme start="20260409100000 +0000" stop="20260409140000 +0000" channel="Live 7.mewatch">
+    <programme start="20260409095000 +0000" stop="20260409140000 +0000" channel="Live 7.mewatch">
         <title>Bank of Ningbo Badminton Asia Championships 2026 : Round of 16</title>
     </programme>
     <programme start="20260409140000 +0000" stop="20260409160000 +0000" channel="Live 7.mewatch">

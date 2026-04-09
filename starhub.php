@@ -3349,14 +3349,11 @@
     <programme start="20260409091500 +0000" stop="20260409100000 +0000" channel="DW English HD.starhub">
         <title>Stumbling Stones - Lest We Forget</title>
     </programme>
-    <programme start="20260409100000 +0000" stop="20260409100200 +0000" channel="DW English HD.starhub">
+    <programme start="20260409100000 +0000" stop="20260409104700 +0000" channel="DW English HD.starhub">
         <title>News</title>
     </programme>
-    <programme start="20260409100200 +0000" stop="20260409101500 +0000" channel="DW English HD.starhub">
+    <programme start="20260409104700 +0000" stop="20260409110000 +0000" channel="DW English HD.starhub">
         <title>News</title>
-    </programme>
-    <programme start="20260409101500 +0000" stop="20260409110000 +0000" channel="DW English HD.starhub">
-        <title>My Holy Car - An Obsession made in Germany - Part 1</title>
     </programme>
     <programme start="20260409110000 +0000" stop="20260409110200 +0000" channel="DW English HD.starhub">
         <title>News</title>
@@ -3881,7 +3878,7 @@
         <title>Mini Program</title>
     </programme>
     <programme start="20260409033000 +0000" stop="20260409034500 +0000" channel="NHK World Premium HD.starhub">
-        <title>Drama Serial &quot;Massan&quot; Encore Ep. 73</title>
+        <title>Drama Serial &quot;Massan&quot; Encore Ep. 72</title>
     </programme>
     <programme start="20260409034500 +0000" stop="20260409040000 +0000" channel="NHK World Premium HD.starhub">
         <title>Drama Serial &quot;The Scent of the Wind&quot; Ep. 9 (R)</title>
@@ -3917,7 +3914,7 @@
         <title>SCIENCE ZERO (R)</title>
     </programme>
     <programme start="20260409074500 +0000" stop="20260409075000 +0000" channel="NHK World Premium HD.starhub">
-        <title>See, Learn, Explore--A Deep Travelogue in Tohoku (R)</title>
+        <title>See, Learn, Explore--A Deep Travelogue in Tohoku</title>
     </programme>
     <programme start="20260409075000 +0000" stop="20260409082000 +0000" channel="NHK World Premium HD.starhub">
         <title>Fish Masters (R)</title>
