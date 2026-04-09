@@ -1411,7 +1411,42 @@
 <programme start="20260409164000 +0000" stop="20260408171000 +0000" channel="beIN Sports 3 HD.mncvision">
     <title>UECL 2025/26: RAY Vs AEK (L)</title>
 </programme>
-Error: Unable to fetch data. HTTP Status Code: 500
+<programme start="20260408170000 +0000" stop="20260408190000 +0000" channel="beIN SPORTS 4.mncvision">
+    <title>beIN Sports 4</title>
+</programme>
+<programme start="20260408190000 +0000" stop="20260408210000 +0000" channel="beIN SPORTS 4.mncvision">
+    <title>beIN Sports 4</title>
+</programme>
+<programme start="20260408210000 +0000" stop="20260408230000 +0000" channel="beIN SPORTS 4.mncvision">
+    <title>beIN Sports 4</title>
+</programme>
+<programme start="20260408230000 +0000" stop="20260409010000 +0000" channel="beIN SPORTS 4.mncvision">
+    <title>beIN Sports 4</title>
+</programme>
+<programme start="20260409010000 +0000" stop="20260409030000 +0000" channel="beIN SPORTS 4.mncvision">
+    <title>beIN Sports 4</title>
+</programme>
+<programme start="20260409030000 +0000" stop="20260409050000 +0000" channel="beIN SPORTS 4.mncvision">
+    <title>beIN Sports 4</title>
+</programme>
+<programme start="20260409050000 +0000" stop="20260409070000 +0000" channel="beIN SPORTS 4.mncvision">
+    <title>beIN Sports 4</title>
+</programme>
+<programme start="20260409070000 +0000" stop="20260409090000 +0000" channel="beIN SPORTS 4.mncvision">
+    <title>beIN Sports 4</title>
+</programme>
+<programme start="20260409090000 +0000" stop="20260409110000 +0000" channel="beIN SPORTS 4.mncvision">
+    <title>beIN Sports 4</title>
+</programme>
+<programme start="20260409110000 +0000" stop="20260409130000 +0000" channel="beIN SPORTS 4.mncvision">
+    <title>beIN Sports 4</title>
+</programme>
+<programme start="20260409130000 +0000" stop="20260409150000 +0000" channel="beIN SPORTS 4.mncvision">
+    <title>beIN Sports 4</title>
+</programme>
+<programme start="20260409150000 +0000" stop="20260409153000 +0000" channel="beIN SPORTS 4.mncvision">
+    <title>beIN Sports 4</title>
+</programme>
 <programme start="20260408170000 +0000" stop="20260408190000 +0000" channel="beIN SPORTS 5.mncvision">
     <title>beIN Sports 5</title>
 </programme>
@@ -3821,7 +3856,105 @@ Error: Unable to fetch data. HTTP Status Code: 500
 <programme start="20260409160000 +0000" stop="20260409163000 +0000" channel="Galaxy Premium.mncvision">
     <title>Jumanji: Welcome To The Jungle</title>
 </programme>
-Error: Unable to fetch data. HTTP Status Code: 500
+<programme start="20260408170000 +0000" stop="20260408174500 +0000" channel="Global Trekker.mncvision">
+    <title>Air Warriors S10, Ep 5</title>
+</programme>
+<programme start="20260408174500 +0000" stop="20260408183000 +0000" channel="Global Trekker.mncvision">
+    <title>Air Warriors S10, Ep 6</title>
+</programme>
+<programme start="20260408183000 +0000" stop="20260408191500 +0000" channel="Global Trekker.mncvision">
+    <title>Air Warriors S10, Ep 5</title>
+</programme>
+<programme start="20260408191500 +0000" stop="20260408201000 +0000" channel="Global Trekker.mncvision">
+    <title>Bruce Lee: Way Of The Warrior</title>
+</programme>
+<programme start="20260408201000 +0000" stop="20260408210500 +0000" channel="Global Trekker.mncvision">
+    <title>Zero To Macao, Ep 1</title>
+</programme>
+<programme start="20260408210500 +0000" stop="20260408220000 +0000" channel="Global Trekker.mncvision">
+    <title>Zero To Macao, Ep 2</title>
+</programme>
+<programme start="20260408220000 +0000" stop="20260408224500 +0000" channel="Global Trekker.mncvision">
+    <title>Reframed: Marilyn Monroe, Ep 1</title>
+</programme>
+<programme start="20260408224500 +0000" stop="20260408233000 +0000" channel="Global Trekker.mncvision">
+    <title>Reframed: Marilyn Monroe, Ep 2</title>
+</programme>
+<programme start="20260408233000 +0000" stop="20260409002000 +0000" channel="Global Trekker.mncvision">
+    <title>Reframed: Marilyn Monroe, Ep 3</title>
+</programme>
+<programme start="20260409002000 +0000" stop="20260409010500 +0000" channel="Global Trekker.mncvision">
+    <title>Reframed: Marilyn Monroe, Ep 1</title>
+</programme>
+<programme start="20260409010500 +0000" stop="20260409015000 +0000" channel="Global Trekker.mncvision">
+    <title>Reframed: Marilyn Monroe, Ep 2</title>
+</programme>
+<programme start="20260409015000 +0000" stop="20260409024000 +0000" channel="Global Trekker.mncvision">
+    <title>Reframed: Marilyn Monroe, Ep 3</title>
+</programme>
+<programme start="20260409024000 +0000" stop="20260409033000 +0000" channel="Global Trekker.mncvision">
+    <title>Yorkshire: A Year In..., Ep 1</title>
+</programme>
+<programme start="20260409033000 +0000" stop="20260409042000 +0000" channel="Global Trekker.mncvision">
+    <title>Yorkshire: A Year In..., Ep 2</title>
+</programme>
+<programme start="20260409042000 +0000" stop="20260409050500 +0000" channel="Global Trekker.mncvision">
+    <title>Yorkshire: A Year In..., Ep 3</title>
+</programme>
+<programme start="20260409050500 +0000" stop="20260409055500 +0000" channel="Global Trekker.mncvision">
+    <title>Ainsley Eats The Streets, Ep 3</title>
+</programme>
+<programme start="20260409055500 +0000" stop="20260409064500 +0000" channel="Global Trekker.mncvision">
+    <title>Ainsley Eats The Streets, Ep 4</title>
+</programme>
+<programme start="20260409064500 +0000" stop="20260409073500 +0000" channel="Global Trekker.mncvision">
+    <title>Ainsley Eats The Streets, Ep 5</title>
+</programme>
+<programme start="20260409073500 +0000" stop="20260409082500 +0000" channel="Global Trekker.mncvision">
+    <title>Shuttle Discovery&#039;s Last...</title>
+</programme>
+<programme start="20260409082500 +0000" stop="20260409091000 +0000" channel="Global Trekker.mncvision">
+    <title>Space Disasters, Ep 1</title>
+</programme>
+<programme start="20260409091000 +0000" stop="20260409095500 +0000" channel="Global Trekker.mncvision">
+    <title>Space Disasters, Ep 2</title>
+</programme>
+<programme start="20260409095500 +0000" stop="20260409104000 +0000" channel="Global Trekker.mncvision">
+    <title>Cheese: A Love Story, Ep 4</title>
+</programme>
+<programme start="20260409104000 +0000" stop="20260409112500 +0000" channel="Global Trekker.mncvision">
+    <title>Cheese: A Love Story, Ep 5</title>
+</programme>
+<programme start="20260409112500 +0000" stop="20260409121000 +0000" channel="Global Trekker.mncvision">
+    <title>Cheese: A Love Story, Ep 6</title>
+</programme>
+<programme start="20260409121000 +0000" stop="20260409123500 +0000" channel="Global Trekker.mncvision">
+    <title>New Zealand Food Story S4, Ep 1</title>
+</programme>
+<programme start="20260409123500 +0000" stop="20260409130000 +0000" channel="Global Trekker.mncvision">
+    <title>New Zealand Food Story S4, Ep 2</title>
+</programme>
+<programme start="20260409130000 +0000" stop="20260409132500 +0000" channel="Global Trekker.mncvision">
+    <title>New Zealand Food Story S4, Ep 3</title>
+</programme>
+<programme start="20260409132500 +0000" stop="20260409135000 +0000" channel="Global Trekker.mncvision">
+    <title>New Zealand Food Story S4, Ep 4</title>
+</programme>
+<programme start="20260409135000 +0000" stop="20260409141500 +0000" channel="Global Trekker.mncvision">
+    <title>New Zealand Food Story S4, Ep 5</title>
+</programme>
+<programme start="20260409141500 +0000" stop="20260409144000 +0000" channel="Global Trekker.mncvision">
+    <title>New Zealand Food Story S4, Ep 6</title>
+</programme>
+<programme start="20260409144000 +0000" stop="20260409153000 +0000" channel="Global Trekker.mncvision">
+    <title>The Barbie Story</title>
+</programme>
+<programme start="20260409153000 +0000" stop="20260409162000 +0000" channel="Global Trekker.mncvision">
+    <title>ABBA: 50 Years Since Eurovision</title>
+</programme>
+<programme start="20260409162000 +0000" stop="20260409165000 +0000" channel="Global Trekker.mncvision">
+    <title>Janet Jackson: Art Of Seduction</title>
+</programme>
 <programme start="20260408170000 +0000" stop="20260408174500 +0000" channel="Global Trekker HD.mncvision">
     <title>Air Warriors S10, Ep 5</title>
 </programme>
