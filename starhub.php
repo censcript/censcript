@@ -8132,7 +8132,7 @@
         <title>Next Station</title>
     </programme>
     <programme start="20260408193000 +0000" stop="20260408210000 +0000" channel="Dragon TV.starhub">
-        <title>THE CITY OF MUSICALS</title>
+        <title>the city of musicals</title>
     </programme>
     <programme start="20260408210000 +0000" stop="20260408220000 +0000" channel="Dragon TV.starhub">
         <title>A Green Trip</title>
@@ -8804,7 +8804,7 @@
         <title>TAKE MY WORD FOR IT</title>
     </programme>
     <programme start="20260408173000 +0000" stop="20260408183000 +0000" channel="TVB Jade HD.starhub">
-        <title>Themis &amp; What&#039;s On Today</title>
+        <title>Holistic Way+Ninjiom - Themis &amp; What&#039;s On Today</title>
     </programme>
     <programme start="20260408183000 +0000" stop="20260408190000 +0000" channel="TVB Jade HD.starhub">
         <title>Lo And Behold</title>

@@ -2631,7 +2631,7 @@ Warning: Undefined array key "et" in /usr/home/ManusiaBiasa/domains/manusiabiasa
 <programme start="20260409084000 +0000" stop="20260409090000 +0000" channel="Sky Sport Austria 8 HD.skyde">
     <title>Es folgt: LIVE ATP World Tour</title>
 </programme>
-<programme start="20260409090000 +0000" stop="20260409190000 +0000" channel="Sky Sport Austria 8 HD.skyde">
+<programme start="20260409090000 +0000" stop="20260409170000 +0000" channel="Sky Sport Austria 8 HD.skyde">
     <title>Live ATP 1000: Rolex Monte-Carlo Masters in Monte-Carlo, 5. Tag</title>
 </programme>
 <programme start="20260408220000 +0000" stop="20260408223000 +0000" channel="Sky Sport Bundesliga HD.skyde">
