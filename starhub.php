@@ -3932,10 +3932,10 @@
         <title>Historical Drama &quot;BROTHERS IN ARMS&quot; Ep. 13 (R)</title>
     </programme>
     <programme start="20260411045000 +0000" stop="20260411053500 +0000" channel="NHK World Premium HD.starhub">
-        <title>Rokkaku Seiji&#039;s Nomitetsu Railroad Trip:Sangi Railway, Kintetsu Railway &amp; Yokkai</title>
+        <title>Rokkaku Seiji&#039;s Nomitetsu Railroad Trip:Sangi Railway, Kintetsu Railway &amp; Yokkaichi Asunarou Railwa</title>
     </programme>
     <programme start="20260411053500 +0000" stop="20260411062000 +0000" channel="NHK World Premium HD.starhub">
-        <title>Rokkaku Seiji&#039;s Nomitetsu Railroad Trip: Kintetsu Railway Yamada Line, Toba Line</title>
+        <title>Rokkaku Seiji&#039;s Nomitetsu Railroad Trip: Kintetsu Railway Yamada Line, Toba Line &amp; Shima Line</title>
     </programme>
     <programme start="20260411062000 +0000" stop="20260411075000 +0000" channel="NHK World Premium HD.starhub">
         <title>Solo Trip to Hot Springs &quot;Hokkaido&quot;</title>
@@ -6929,7 +6929,7 @@
         <title>Rally Croatia</title>
     </programme>
     <programme start="20260411090000 +0000" stop="20260411100000 +0000" channel="beIN Sports HD.starhub">
-        <title>FIA World Rally Championship 2026: Rally Croatia SS11 Generalski Stol - Zdihovo</title>
+        <title>FIA World Rally Championship 2026: Rally Croatia SS11 Generalski Stol - Zdihovo 1 (Live)</title>
     </programme>
     <programme start="20260411100000 +0000" stop="20260411102500 +0000" channel="beIN Sports HD.starhub">
         <title>Kylian Mbappe</title>
@@ -6944,7 +6944,7 @@
         <title>Ligier European Series 2026: Barcelona Race 2 (Live)</title>
     </programme>
     <programme start="20260411130000 +0000" stop="20260411135500 +0000" channel="beIN Sports HD.starhub">
-        <title>FIA World Rally Championship 2026: Rally Croatia SS14 Generalski Stol - Zdihovo</title>
+        <title>FIA World Rally Championship 2026: Rally Croatia SS14 Generalski Stol - Zdihovo 2 (Live)</title>
     </programme>
     <programme start="20260411135500 +0000" stop="20260411160000 +0000" channel="beIN Sports HD.starhub">
         <title>Super Lig 2025/26: Alanyaspor vs Trabzonspor (Live)</title>
