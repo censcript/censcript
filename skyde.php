@@ -1,102 +1,102 @@
 
 Warning: Undefined array key "et" in /usr/home/ManusiaBiasa/domains/manusiabiasa.serv00.net/public_html/cen/epg/skyde.php on line 135
-<programme start="20260409224000 +0000" stop="20260409232000 +0000" channel="13th Street HD.skyde">
+<programme start="20260413220000 +0000" stop="20260413224500 +0000" channel="13th Street HD.skyde">
+    <title>Law &amp; Order: Special Victims Unit</title>
+</programme>
+<programme start="20260413224500 +0000" stop="20260413232500 +0000" channel="13th Street HD.skyde">
     <title>FBI: Special Crime Unit</title>
 </programme>
-<programme start="20260409232000 +0000" stop="20260410000000 +0000" channel="13th Street HD.skyde">
+<programme start="20260413232500 +0000" stop="20260414001000 +0000" channel="13th Street HD.skyde">
     <title>FBI: Special Crime Unit</title>
 </programme>
-<programme start="20260410000000 +0000" stop="20260410004000 +0000" channel="13th Street HD.skyde">
+<programme start="20260414001000 +0000" stop="20260414005000 +0000" channel="13th Street HD.skyde">
     <title>FBI: Special Crime Unit</title>
 </programme>
-<programme start="20260410004000 +0000" stop="20260410012500 +0000" channel="13th Street HD.skyde">
+<programme start="20260414005000 +0000" stop="20260414013500 +0000" channel="13th Street HD.skyde">
     <title>Navy CIS: Origins</title>
 </programme>
-<programme start="20260410012500 +0000" stop="20260410021000 +0000" channel="13th Street HD.skyde">
+<programme start="20260414013500 +0000" stop="20260414021500 +0000" channel="13th Street HD.skyde">
     <title>Navy CIS: Origins</title>
 </programme>
-<programme start="20260410021000 +0000" stop="20260410025000 +0000" channel="13th Street HD.skyde">
+<programme start="20260414021500 +0000" stop="20260414030000 +0000" channel="13th Street HD.skyde">
     <title>FBI: Most Wanted</title>
 </programme>
-<programme start="20260410025000 +0000" stop="20260410033000 +0000" channel="13th Street HD.skyde">
+<programme start="20260414030000 +0000" stop="20260414034000 +0000" channel="13th Street HD.skyde">
     <title>FBI: Most Wanted</title>
 </programme>
-<programme start="20260410033000 +0000" stop="20260410034500 +0000" channel="13th Street HD.skyde">
-    <title>Superhero</title>
-</programme>
-<programme start="20260410034500 +0000" stop="20260410043000 +0000" channel="13th Street HD.skyde">
+<programme start="20260414034000 +0000" stop="20260414042500 +0000" channel="13th Street HD.skyde">
     <title>Criminal Intent - Verbrechen im Visier</title>
 </programme>
-<programme start="20260410043000 +0000" stop="20260410052000 +0000" channel="13th Street HD.skyde">
+<programme start="20260414042500 +0000" stop="20260414051000 +0000" channel="13th Street HD.skyde">
     <title>Criminal Intent - Verbrechen im Visier</title>
 </programme>
-<programme start="20260410052000 +0000" stop="20260410060500 +0000" channel="13th Street HD.skyde">
+<programme start="20260414051000 +0000" stop="20260414060000 +0000" channel="13th Street HD.skyde">
     <title>Law &amp; Order: Special Victims Unit</title>
 </programme>
-<programme start="20260410060500 +0000" stop="20260410065000 +0000" channel="13th Street HD.skyde">
+<programme start="20260414060000 +0000" stop="20260414064500 +0000" channel="13th Street HD.skyde">
     <title>Law &amp; Order: Special Victims Unit</title>
 </programme>
-<programme start="20260410065000 +0000" stop="20260410073500 +0000" channel="13th Street HD.skyde">
+<programme start="20260414064500 +0000" stop="20260414073000 +0000" channel="13th Street HD.skyde">
     <title>Law &amp; Order: Special Victims Unit</title>
 </programme>
-<programme start="20260410073500 +0000" stop="20260410082000 +0000" channel="13th Street HD.skyde">
+<programme start="20260414073000 +0000" stop="20260414081500 +0000" channel="13th Street HD.skyde">
     <title>Criminal Intent - Verbrechen im Visier</title>
 </programme>
-<programme start="20260410082000 +0000" stop="20260410091000 +0000" channel="13th Street HD.skyde">
+<programme start="20260414081500 +0000" stop="20260414090500 +0000" channel="13th Street HD.skyde">
     <title>Criminal Intent - Verbrechen im Visier</title>
 </programme>
-<programme start="20260410091000 +0000" stop="20260410095500 +0000" channel="13th Street HD.skyde">
+<programme start="20260414090500 +0000" stop="20260414095000 +0000" channel="13th Street HD.skyde">
     <title>Law &amp; Order: Organized Crime</title>
 </programme>
-<programme start="20260410095500 +0000" stop="20260410104000 +0000" channel="13th Street HD.skyde">
+<programme start="20260414095000 +0000" stop="20260414103500 +0000" channel="13th Street HD.skyde">
     <title>Law &amp; Order: Organized Crime</title>
 </programme>
-<programme start="20260410104000 +0000" stop="20260410112500 +0000" channel="13th Street HD.skyde">
+<programme start="20260414103500 +0000" stop="20260414112000 +0000" channel="13th Street HD.skyde">
     <title>Law &amp; Order: Special Victims Unit</title>
 </programme>
-<programme start="20260410112500 +0000" stop="20260410121000 +0000" channel="13th Street HD.skyde">
+<programme start="20260414112000 +0000" stop="20260414120500 +0000" channel="13th Street HD.skyde">
     <title>Law &amp; Order: Special Victims Unit</title>
 </programme>
-<programme start="20260410121000 +0000" stop="20260410125500 +0000" channel="13th Street HD.skyde">
+<programme start="20260414120500 +0000" stop="20260414125000 +0000" channel="13th Street HD.skyde">
     <title>Law &amp; Order: Special Victims Unit</title>
 </programme>
-<programme start="20260410125500 +0000" stop="20260410134000 +0000" channel="13th Street HD.skyde">
+<programme start="20260414125000 +0000" stop="20260414133500 +0000" channel="13th Street HD.skyde">
     <title>Navy CIS</title>
 </programme>
-<programme start="20260410134000 +0000" stop="20260410142500 +0000" channel="13th Street HD.skyde">
+<programme start="20260414133500 +0000" stop="20260414142500 +0000" channel="13th Street HD.skyde">
     <title>Navy CIS</title>
 </programme>
-<programme start="20260410142500 +0000" stop="20260410151000 +0000" channel="13th Street HD.skyde">
+<programme start="20260414142500 +0000" stop="20260414151000 +0000" channel="13th Street HD.skyde">
     <title>Navy CIS</title>
 </programme>
-<programme start="20260410151000 +0000" stop="20260410155500 +0000" channel="13th Street HD.skyde">
+<programme start="20260414151000 +0000" stop="20260414155500 +0000" channel="13th Street HD.skyde">
     <title>Navy CIS: Origins</title>
 </programme>
-<programme start="20260410155500 +0000" stop="20260410164500 +0000" channel="13th Street HD.skyde">
+<programme start="20260414155500 +0000" stop="20260414164000 +0000" channel="13th Street HD.skyde">
     <title>Navy CIS: Origins</title>
 </programme>
-<programme start="20260410164500 +0000" stop="20260410173000 +0000" channel="13th Street HD.skyde">
+<programme start="20260414164000 +0000" stop="20260414172500 +0000" channel="13th Street HD.skyde">
     <title>FBI: Most Wanted</title>
 </programme>
-<programme start="20260410173000 +0000" stop="20260410181500 +0000" channel="13th Street HD.skyde">
+<programme start="20260414172500 +0000" stop="20260414181500 +0000" channel="13th Street HD.skyde">
     <title>FBI: Most Wanted</title>
 </programme>
-<programme start="20260410181500 +0000" stop="20260410185500 +0000" channel="13th Street HD.skyde">
+<programme start="20260414181500 +0000" stop="20260414190000 +0000" channel="13th Street HD.skyde">
     <title>FBI: Special Crime Unit</title>
 </programme>
-<programme start="20260410185500 +0000" stop="20260410194000 +0000" channel="13th Street HD.skyde">
+<programme start="20260414190000 +0000" stop="20260414194000 +0000" channel="13th Street HD.skyde">
     <title>FBI: Special Crime Unit</title>
 </programme>
-<programme start="20260410194000 +0000" stop="20260410202500 +0000" channel="13th Street HD.skyde">
+<programme start="20260414194000 +0000" stop="20260414202500 +0000" channel="13th Street HD.skyde">
     <title>FBI: Special Crime Unit</title>
 </programme>
-<programme start="20260410202500 +0000" stop="20260410211000 +0000" channel="13th Street HD.skyde">
+<programme start="20260414202500 +0000" stop="20260414211000 +0000" channel="13th Street HD.skyde">
     <title>Law &amp; Order: Special Victims Unit</title>
 </programme>
-<programme start="20260410211000 +0000" stop="20260410215500 +0000" channel="13th Street HD.skyde">
+<programme start="20260414211000 +0000" stop="20260414215500 +0000" channel="13th Street HD.skyde">
     <title>Law &amp; Order: Special Victims Unit</title>
 </programme>
-<programme start="20260410215500 +0000" stop="20260410224000 +0000" channel="13th Street HD.skyde">
+<programme start="20260414215500 +0000" stop="20260414224000 +0000" channel="13th Street HD.skyde">
     <title>Law &amp; Order: Special Victims Unit</title>
 </programme>
 <programme start="20260409221000 +0000" stop="20260409223500 +0000" channel="Beate Uhse HD.skyde">
@@ -2289,118 +2289,121 @@ Warning: Undefined array key "et" in /usr/home/ManusiaBiasa/domains/manusiabiasa
 <programme start="20260410214500 +0000" stop="20260410222000 +0000" channel="Sky Nature HD.skyde">
     <title>Deadly 60 - Die gefährlichsten Tiere der Welt</title>
 </programme>
-<programme start="20260409221000 +0000" stop="20260409225500 +0000" channel="Sky One HD.skyde">
+<programme start="20260416221000 +0000" stop="20260416225500 +0000" channel="Sky One HD.skyde">
     <title>Navy CIS</title>
 </programme>
-<programme start="20260409225500 +0000" stop="20260409233500 +0000" channel="Sky One HD.skyde">
+<programme start="20260416225500 +0000" stop="20260416234000 +0000" channel="Sky One HD.skyde">
     <title>S.W.A.T.</title>
 </programme>
-<programme start="20260409233500 +0000" stop="20260410001500 +0000" channel="Sky One HD.skyde">
+<programme start="20260416234000 +0000" stop="20260417002000 +0000" channel="Sky One HD.skyde">
     <title>S.W.A.T.</title>
 </programme>
-<programme start="20260410001500 +0000" stop="20260410010000 +0000" channel="Sky One HD.skyde">
+<programme start="20260417002000 +0000" stop="20260417010500 +0000" channel="Sky One HD.skyde">
     <title>Navy CIS</title>
 </programme>
-<programme start="20260410010000 +0000" stop="20260410014000 +0000" channel="Sky One HD.skyde">
+<programme start="20260417010500 +0000" stop="20260417014500 +0000" channel="Sky One HD.skyde">
     <title>Navy CIS</title>
 </programme>
-<programme start="20260410014000 +0000" stop="20260410022500 +0000" channel="Sky One HD.skyde">
+<programme start="20260417014500 +0000" stop="20260417023000 +0000" channel="Sky One HD.skyde">
     <title>Navy CIS</title>
 </programme>
-<programme start="20260410022500 +0000" stop="20260410030500 +0000" channel="Sky One HD.skyde">
+<programme start="20260417023000 +0000" stop="20260417031000 +0000" channel="Sky One HD.skyde">
     <title>Navy CIS</title>
 </programme>
-<programme start="20260410030500 +0000" stop="20260410032500 +0000" channel="Sky One HD.skyde">
-    <title>Diese Ochsenknechts 4: Matteos Geburt</title>
+<programme start="20260417031000 +0000" stop="20260417032000 +0000" channel="Sky One HD.skyde">
+    <title>Diese Ochsenknechts 4: Jodeln</title>
 </programme>
-<programme start="20260410032500 +0000" stop="20260410041000 +0000" channel="Sky One HD.skyde">
-    <title>Poker Face</title>
+<programme start="20260417032000 +0000" stop="20260417032500 +0000" channel="Sky One HD.skyde">
+    <title>Diese Ochsenknechts 4: Natascha und Jimi</title>
 </programme>
-<programme start="20260410041000 +0000" stop="20260410050000 +0000" channel="Sky One HD.skyde">
-    <title>Poker Face</title>
+<programme start="20260417032500 +0000" stop="20260417041000 +0000" channel="Sky One HD.skyde">
+    <title>The Rookie: Feds</title>
 </programme>
-<programme start="20260410050000 +0000" stop="20260410054500 +0000" channel="Sky One HD.skyde">
+<programme start="20260417041000 +0000" stop="20260417045500 +0000" channel="Sky One HD.skyde">
+    <title>The Rookie: Feds</title>
+</programme>
+<programme start="20260417045500 +0000" stop="20260417054000 +0000" channel="Sky One HD.skyde">
     <title>Navy CIS</title>
 </programme>
-<programme start="20260410054500 +0000" stop="20260410063000 +0000" channel="Sky One HD.skyde">
+<programme start="20260417054000 +0000" stop="20260417062500 +0000" channel="Sky One HD.skyde">
     <title>Navy CIS</title>
 </programme>
-<programme start="20260410063000 +0000" stop="20260410071500 +0000" channel="Sky One HD.skyde">
+<programme start="20260417062500 +0000" stop="20260417071000 +0000" channel="Sky One HD.skyde">
     <title>Navy CIS</title>
 </programme>
-<programme start="20260410071500 +0000" stop="20260410080500 +0000" channel="Sky One HD.skyde">
+<programme start="20260417071000 +0000" stop="20260417080000 +0000" channel="Sky One HD.skyde">
     <title>The Equalizer</title>
 </programme>
-<programme start="20260410080500 +0000" stop="20260410085000 +0000" channel="Sky One HD.skyde">
+<programme start="20260417080000 +0000" stop="20260417084500 +0000" channel="Sky One HD.skyde">
     <title>The Equalizer</title>
 </programme>
-<programme start="20260410085000 +0000" stop="20260410091500 +0000" channel="Sky One HD.skyde">
+<programme start="20260417084500 +0000" stop="20260417091000 +0000" channel="Sky One HD.skyde">
     <title>Modern Family</title>
 </programme>
-<programme start="20260410091500 +0000" stop="20260410094000 +0000" channel="Sky One HD.skyde">
+<programme start="20260417091000 +0000" stop="20260417093500 +0000" channel="Sky One HD.skyde">
     <title>Modern Family</title>
 </programme>
-<programme start="20260410094000 +0000" stop="20260410100500 +0000" channel="Sky One HD.skyde">
+<programme start="20260417093500 +0000" stop="20260417100000 +0000" channel="Sky One HD.skyde">
     <title>Modern Family</title>
 </programme>
-<programme start="20260410100500 +0000" stop="20260410103000 +0000" channel="Sky One HD.skyde">
+<programme start="20260417100000 +0000" stop="20260417102500 +0000" channel="Sky One HD.skyde">
     <title>Modern Family</title>
 </programme>
-<programme start="20260410103000 +0000" stop="20260410111500 +0000" channel="Sky One HD.skyde">
+<programme start="20260417102500 +0000" stop="20260417111000 +0000" channel="Sky One HD.skyde">
     <title>The Rookie</title>
 </programme>
-<programme start="20260410111500 +0000" stop="20260410120500 +0000" channel="Sky One HD.skyde">
+<programme start="20260417111000 +0000" stop="20260417120000 +0000" channel="Sky One HD.skyde">
     <title>The Rookie</title>
 </programme>
-<programme start="20260410120500 +0000" stop="20260410125000 +0000" channel="Sky One HD.skyde">
+<programme start="20260417120000 +0000" stop="20260417124500 +0000" channel="Sky One HD.skyde">
     <title>S.W.A.T.</title>
 </programme>
-<programme start="20260410125000 +0000" stop="20260410133500 +0000" channel="Sky One HD.skyde">
+<programme start="20260417124500 +0000" stop="20260417133000 +0000" channel="Sky One HD.skyde">
     <title>S.W.A.T.</title>
 </programme>
-<programme start="20260410133500 +0000" stop="20260410142000 +0000" channel="Sky One HD.skyde">
+<programme start="20260417133000 +0000" stop="20260417141500 +0000" channel="Sky One HD.skyde">
     <title>Navy CIS</title>
 </programme>
-<programme start="20260410142000 +0000" stop="20260410150500 +0000" channel="Sky One HD.skyde">
+<programme start="20260417141500 +0000" stop="20260417150000 +0000" channel="Sky One HD.skyde">
     <title>Navy CIS</title>
 </programme>
-<programme start="20260410150500 +0000" stop="20260410155000 +0000" channel="Sky One HD.skyde">
+<programme start="20260417150000 +0000" stop="20260417155000 +0000" channel="Sky One HD.skyde">
     <title>Navy CIS</title>
 </programme>
-<programme start="20260410155000 +0000" stop="20260410161500 +0000" channel="Sky One HD.skyde">
+<programme start="20260417155000 +0000" stop="20260417161500 +0000" channel="Sky One HD.skyde">
     <title>Modern Family</title>
 </programme>
-<programme start="20260410161500 +0000" stop="20260410164000 +0000" channel="Sky One HD.skyde">
+<programme start="20260417161500 +0000" stop="20260417164000 +0000" channel="Sky One HD.skyde">
     <title>Modern Family</title>
 </programme>
-<programme start="20260410164000 +0000" stop="20260410170500 +0000" channel="Sky One HD.skyde">
+<programme start="20260417164000 +0000" stop="20260417170000 +0000" channel="Sky One HD.skyde">
     <title>Modern Family</title>
 </programme>
-<programme start="20260410170500 +0000" stop="20260410173000 +0000" channel="Sky One HD.skyde">
+<programme start="20260417170000 +0000" stop="20260417172500 +0000" channel="Sky One HD.skyde">
     <title>Modern Family</title>
 </programme>
-<programme start="20260410173000 +0000" stop="20260410181500 +0000" channel="Sky One HD.skyde">
+<programme start="20260417172500 +0000" stop="20260417181500 +0000" channel="Sky One HD.skyde">
     <title>The Rookie</title>
 </programme>
-<programme start="20260410181500 +0000" stop="20260410190500 +0000" channel="Sky One HD.skyde">
+<programme start="20260417181500 +0000" stop="20260417190000 +0000" channel="Sky One HD.skyde">
     <title>The Rookie</title>
 </programme>
-<programme start="20260410190500 +0000" stop="20260410192500 +0000" channel="Sky One HD.skyde">
+<programme start="20260417190000 +0000" stop="20260417192500 +0000" channel="Sky One HD.skyde">
     <title>Modern Family</title>
 </programme>
-<programme start="20260410192500 +0000" stop="20260410195000 +0000" channel="Sky One HD.skyde">
+<programme start="20260417192500 +0000" stop="20260417194500 +0000" channel="Sky One HD.skyde">
     <title>Modern Family</title>
 </programme>
-<programme start="20260410195000 +0000" stop="20260410201500 +0000" channel="Sky One HD.skyde">
+<programme start="20260417194500 +0000" stop="20260417201000 +0000" channel="Sky One HD.skyde">
     <title>Modern Family</title>
 </programme>
-<programme start="20260410201500 +0000" stop="20260410204000 +0000" channel="Sky One HD.skyde">
+<programme start="20260417201000 +0000" stop="20260417203500 +0000" channel="Sky One HD.skyde">
     <title>Modern Family</title>
 </programme>
-<programme start="20260410204000 +0000" stop="20260410212500 +0000" channel="Sky One HD.skyde">
+<programme start="20260417203500 +0000" stop="20260417212500 +0000" channel="Sky One HD.skyde">
     <title>Navy CIS</title>
 </programme>
-<programme start="20260410212500 +0000" stop="20260410221000 +0000" channel="Sky One HD.skyde">
+<programme start="20260417212500 +0000" stop="20260417221000 +0000" channel="Sky One HD.skyde">
     <title>Navy CIS</title>
 </programme>
 <programme start="20260409221000 +0000" stop="20260409230000 +0000" channel="Sky Showcase HD.skyde">
@@ -2679,7 +2682,7 @@ Warning: Undefined array key "et" in /usr/home/ManusiaBiasa/domains/manusiabiasa
 <programme start="20260410160000 +0000" stop="20260410183000 +0000" channel="Sky Sport Bundesliga 3 HD.skyde">
     <title>Live 2. BL: Fortuna Düsseldorf - Holstein Kiel, 29. Spieltag</title>
 </programme>
-<programme start="20260410183000 +0000" stop="20260410203000 +0000" channel="Sky Sport Bundesliga 3 HD.skyde">
+<programme start="20260410183000 +0000" stop="20260410210000 +0000" channel="Sky Sport Bundesliga 3 HD.skyde">
     <title>Live BL: Sky Sport Fantasy: FCA - TSG, 29. Spieltag</title>
 </programme>
 <programme start="20260410154000 +0000" stop="20260410160000 +0000" channel="Sky Sport Bundesliga 4 HD.skyde">

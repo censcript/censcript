@@ -2189,7 +2189,7 @@
         <title>Premier Padel 2026: Gijon P2 Day 5 SF 2 - Men</title>
     </programme>
     <programme start="20260410013000 +0000" stop="20260410032000 +0000" channel="beIN Sports 2 HD.starhub">
-        <title>TotalEnergies Africa Cup of Nations, Morocco 2025: South Africa vs Cameroon - Rd of 16</title>
+        <title>TotalEnergies Africa Cup of Nations, Morocco 2025: South Africa vs Cameroon - Rd</title>
     </programme>
     <programme start="20260410032000 +0000" stop="20260410034500 +0000" channel="beIN Sports 2 HD.starhub">
         <title>HSBC SVNS2 2026: USA vs Germany - Brazil Day 2, Men</title>

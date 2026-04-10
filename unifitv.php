@@ -2756,39 +2756,10 @@ Pelakon : Charlie Numan, Zarina Zainuddin, Adi Afendi, Nas Adila, Aidil Zamri, P
     <desc lang="en">Siaran langsung liputan khas Jelajah Sarawakku Sayang 2026, menjelajah 12 bahagian Sarawak dengan perkhidmatan, hiburan, dan aktiviti budaya.</desc>
     <category lang="en">News</category>
   </programme>
-  <programme start="20260410090000 +0000" stop="20260410100000 +0000" channel="tvs.unifitv">
+  <programme start="20260410090000 +0000" stop="20260410114000 +0000" channel="tvs.unifitv">
     <title lang="en">(L) Badminton Asia Championships</title>
     <desc lang="en">Catch live of Ningbo Of Bank Badminton Asia Championships 2026, Ningbo, China. Top Asian players battle for titles in singles, doubles, and mixed events.</desc>
     <category lang="en">Badminton</category>
-  </programme>
-  <programme start="20260410100000 +0000" stop="20260410101500 +0000" channel="tvs.unifitv">
-    <title lang="en">(L) Re Bao</title>
-    <desc lang="en">Re Bao memaparkan berita-berita terkini di seluruh Malaysia dalam bahasa Mandarin</desc>
-    <category lang="en">News</category>
-  </programme>
-  <programme start="20260410101500 +0000" stop="20260410103000 +0000" channel="tvs.unifitv">
-    <title lang="en">Sarawak Panorama</title>
-    <desc lang="en">Sarawak Panorama is a short story to discover beautiful places in Sarawak.</desc>
-    <category lang="en">Documentary</category>
-    <episode-num system="xmltv_ns">0.8.</episode-num>
-    <episode-num system="onscreen">S1E9</episode-num>
-  </programme>
-  <programme start="20260410103000 +0000" stop="20260410110000 +0000" channel="tvs.unifitv">
-    <title lang="en">Setenang Mata Memandang</title>
-    <desc lang="en">Travelogue program that follows two hosts on their journey to discover hidden gems in Sarawak's natural beauty, including national parks, mountains, valleys, lakes, rivers, waterfalls, and islands.</desc>
-    <category lang="en">Documentary</category>
-    <episode-num system="xmltv_ns">0.0.</episode-num>
-    <episode-num system="onscreen">S1E1</episode-num>
-  </programme>
-  <programme start="20260410110000 +0000" stop="20260410113000 +0000" channel="tvs.unifitv">
-    <title lang="en">(L) Berita Iban TVS</title>
-    <desc lang="en">Berita Iban memaparkan berita-berita terkini di seluruh Malaysia dalam bahasa Iban</desc>
-    <category lang="en">News</category>
-  </programme>
-  <programme start="20260410113000 +0000" stop="20260410114000 +0000" channel="tvs.unifitv">
-    <title lang="en">(DL) Menarik Sepuluh</title>
-    <desc lang="en">Menarik Sepuluh mengumpulkan 10 kisah unik dan menarik berlaku di mana sahaja</desc>
-    <category lang="en">News</category>
   </programme>
   <programme start="20260410114000 +0000" stop="20260410121500 +0000" channel="tvs.unifitv">
     <title lang="en">(L) UTAMA 740</title>
