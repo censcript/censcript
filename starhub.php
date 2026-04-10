@@ -2177,7 +2177,7 @@
         <title>Premier Padel 2026: Gijon P2 Day 4 QF Match 6</title>
     </programme>
     <programme start="20260409185500 +0000" stop="20260409210000 +0000" channel="beIN Sports 2 HD.starhub">
-        <title>UEFA Conference League 2025/26: Crystal Palace vs Fiorentina - QF, 1st Leg (Live)</title>
+        <title>Crystal Palace vs Fiorentina - QF, 1st Leg (Live) UEFA Conference League 2025/26</title>
     </programme>
     <programme start="20260409210000 +0000" stop="20260409223000 +0000" channel="beIN Sports 2 HD.starhub">
         <title>Premier Padel 2026: Gijon P2 Day 5 SF 1 - Men</title>
