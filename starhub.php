@@ -2126,7 +2126,7 @@
         <title>Super Lig 2025/26: Besiktas vs Antalyaspor (Live)</title>
     </programme>
     <programme start="20260410190000 +0000" stop="20260410210000 +0000" channel="beIN Sports 2 HD.starhub">
-        <title>TotalEnergies CAF Confederation Cup 2025/26: CR Belouizdad vs Zamalek - SF 1st L</title>
+        <title>TotalEnergies CAF Confederation Cup 2025/26: CR Belouizdad vs Zamalek - SF 1st Leg (Live)</title>
     </programme>
     <programme start="20260410210000 +0000" stop="20260410220000 +0000" channel="beIN Sports 2 HD.starhub">
         <title>Matchday 19</title>

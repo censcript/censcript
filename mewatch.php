@@ -704,7 +704,7 @@
         <title>No Programme available now. Next Broadcast on 12th April, Sunday 1.55pm. Bank of Ningbo Badminton Asia Championships 2026 : Finals</title>
     </programme>
     <programme start="20260411160000 +0000" stop="20260412055500 +0000" channel="Live 2.mewatch">
-        <title>No Programme available now. Next Broadcast on 12th April, Sunday 1.55pm. Bank of Ningbo Badminton Asia Championships 2026</title>
+        <title>No Programme available now. Next Broadcast on 12th April, Sunday 1.55pm. Bank of Ningbo Badminton Asia Championships 2026 : Finals</title>
     </programme>
     <programme start="20260410160000 +0000" stop="20260411071000 +0000" channel="Live 5.mewatch">
         <title>No Programme available now. Next Broadcast on 11th April, Saturday 3.10pm. FIBA 3x3 World Cup Qualifier 2026</title>
