@@ -2670,7 +2670,7 @@ Warning: Undefined array key "et" in /usr/home/ManusiaBiasa/domains/manusiabiasa
 <programme start="20260410160000 +0000" stop="20260410183000 +0000" channel="Sky Sport Bundesliga 2 HD.skyde">
     <title>Live 2. BL: Freitags-Konferenz, 29. Spieltag</title>
 </programme>
-<programme start="20260410183000 +0000" stop="20260410191500 +0000" channel="Sky Sport Bundesliga 2 HD.skyde">
+<programme start="20260410183000 +0000" stop="20260410194500 +0000" channel="Sky Sport Bundesliga 2 HD.skyde">
     <title>Live 2. BL Alle Spiele, alle Tore: Die Vodafone Highlight-Show, 29. Spieltag, Freitag</title>
 </programme>
 <programme start="20260410154000 +0000" stop="20260410160000 +0000" channel="Sky Sport Bundesliga 3 HD.skyde">

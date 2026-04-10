@@ -986,7 +986,7 @@ Pelakon : Charlie Numan, Zarina Zainuddin, Adi Afendi, Nas Adila, Aidil Zamri, P
   </programme>
   <programme start="20260410070500 +0000" stop="20260410090000 +0000" channel="tv2.unifitv">
     <title lang="en">Yang Mana Satu</title>
-    <desc lang="en">Drama kemasyarakatan yang memaparkan hubungan kekeluargaan, persahabatan dan percintaan.</desc>
+    <desc lang="en">Hassan seorang lelaki yang berperwatakan lembut dan terpaksa membuat pilihan antara Sarah dan Aisah.Siapakah yang menjadi pilihan Hassan?</desc>
     <category lang="en">Drama</category>
   </programme>
   <programme start="20260410090000 +0000" stop="20260410100000 +0000" channel="tv2.unifitv">
@@ -3302,7 +3302,7 @@ Pelakon : Charlie Numan, Zarina Zainuddin, Adi Afendi, Nas Adila, Aidil Zamri, P
   </programme>
   <programme start="20260409173500 +0000" stop="20260409183500 +0000" channel="tvbjade.unifitv">
     <title lang="en">Themis &amp; What's On Today</title>
-    <desc lang="en">After presiding over a tragic case where a teen is acquitted of a child's death, High Court Judge Yin Wai-chi (Charmaine Sheh) discovers the boy was a repeat offender who slipped through the legal cracks. Realizing the system fails to rehabilitate at-risk youth before they become "devils," she makes the shocking choice to voluntarily demote herself to the Juvenile Court. There, she aims to tackle the root of delinquency and save troubled kids before it's too late.</desc>
+    <desc lang="en">At the peak of her career, High Court Acting Judge Yin Wai-chi (Charmaine Sheh) astonishingly offers to be demoted to serve as a juvenile court magistrate due to a case handled by defense counsel Ko Shuk-wah (Alice Chan). And she divorces Yau Kwong-ching (Patrick Tam), who works in the Department of Justice, because of this. Wai-chi's judicial style is highly respected by everyone in the magistrates' courts, including Chief Magistrate Hung Sze-yee (Benz Hui). Meanwhile, Magistrate Cheng Siu-man (Kalok Chow), whose aim is to become the youngest High Court judge on record, runs into obstacles on the path to promotion due to Wai-chi's arrival. Faced with a series of appalling juvenile cases, Wai-chi is on a mission to uphold justice and not allow the crooks to get off the hook or the innocent to suffer. She is determined to redeem the lives of teenagers who have gone astray!</desc>
     <category lang="en">Drama Series</category>
     <episode-num system="xmltv_ns">0.8.</episode-num>
     <episode-num system="onscreen">S1E9</episode-num>
@@ -3405,7 +3405,7 @@ Pelakon : Charlie Numan, Zarina Zainuddin, Adi Afendi, Nas Adila, Aidil Zamri, P
   </programme>
   <programme start="20260410030500 +0000" stop="20260410040500 +0000" channel="tvbjade.unifitv">
     <title lang="en">Themis</title>
-    <desc lang="en">After presiding over a tragic case where a teen is acquitted of a child's death, High Court Judge Yin Wai-chi (Charmaine Sheh) discovers the boy was a repeat offender who slipped through the legal cracks. Realizing the system fails to rehabilitate at-risk youth before they become "devils," she makes the shocking choice to voluntarily demote herself to the Juvenile Court. There, she aims to tackle the root of delinquency and save troubled kids before it's too late.</desc>
+    <desc lang="en">At the peak of her career, High Court Acting Judge Yin Wai-chi (Charmaine Sheh) astonishingly offers to be demoted to serve as a juvenile court magistrate due to a case handled by defense counsel Ko Shuk-wah (Alice Chan). And she divorces Yau Kwong-ching (Patrick Tam), who works in the Department of Justice, because of this. Wai-chi's judicial style is highly respected by everyone in the magistrates' courts, including Chief Magistrate Hung Sze-yee (Benz Hui). Meanwhile, Magistrate Cheng Siu-man (Kalok Chow), whose aim is to become the youngest High Court judge on record, runs into obstacles on the path to promotion due to Wai-chi's arrival. Faced with a series of appalling juvenile cases, Wai-chi is on a mission to uphold justice and not allow the crooks to get off the hook or the innocent to suffer. She is determined to redeem the lives of teenagers who have gone astray!</desc>
     <category lang="en">Drama Series</category>
     <episode-num system="xmltv_ns">0.8.</episode-num>
     <episode-num system="onscreen">S1E9</episode-num>
@@ -3508,7 +3508,7 @@ Pelakon : Charlie Numan, Zarina Zainuddin, Adi Afendi, Nas Adila, Aidil Zamri, P
   </programme>
   <programme start="20260410123500 +0000" stop="20260410133500 +0000" channel="tvbjade.unifitv">
     <title lang="en">Themis</title>
-    <desc lang="en">After presiding over a tragic case where a teen is acquitted of a child's death, High Court Judge Yin Wai-chi (Charmaine Sheh) discovers the boy was a repeat offender who slipped through the legal cracks. Realizing the system fails to rehabilitate at-risk youth before they become "devils," she makes the shocking choice to voluntarily demote herself to the Juvenile Court. There, she aims to tackle the root of delinquency and save troubled kids before it's too late.</desc>
+    <desc lang="en">At the peak of her career, High Court Acting Judge Yin Wai-chi (Charmaine Sheh) astonishingly offers to be demoted to serve as a juvenile court magistrate due to a case handled by defense counsel Ko Shuk-wah (Alice Chan). And she divorces Yau Kwong-ching (Patrick Tam), who works in the Department of Justice, because of this. Wai-chi's judicial style is highly respected by everyone in the magistrates' courts, including Chief Magistrate Hung Sze-yee (Benz Hui). Meanwhile, Magistrate Cheng Siu-man (Kalok Chow), whose aim is to become the youngest High Court judge on record, runs into obstacles on the path to promotion due to Wai-chi's arrival. Faced with a series of appalling juvenile cases, Wai-chi is on a mission to uphold justice and not allow the crooks to get off the hook or the innocent to suffer. She is determined to redeem the lives of teenagers who have gone astray!</desc>
     <category lang="en">Drama Series</category>
     <episode-num system="xmltv_ns">0.9.</episode-num>
     <episode-num system="onscreen">S1E10</episode-num>

@@ -796,9 +796,6 @@
 <programme start="20260410020000 +0000" stop="20260410023000 +0000" channel="TVOne.vision">
 <title>Inspirasi Pagi</title>
 </programme>
-<programme start="20260410023000 +0000" stop="20260410033000 +0000" channel="TVOne.vision">
-<title>Pagi-Pagi Seru</title>
-</programme>
 <programme start="20260410033000 +0000" stop="20260410040000 +0000" channel="TVOne.vision">
 <title>Metropolitan</title>
 </programme>
@@ -1496,5 +1493,8 @@
 <title>TVRI</title>
 </programme>
 <programme start="20260410210000 +0000" stop="20260410230000 +0000" channel="TVRI.vision">
+<title>TVRI</title>
+</programme>
+<programme start="20260410230000 +0000" stop="20260411010000 +0000" channel="TVRI.vision">
 <title>TVRI</title>
 </programme>
