@@ -170,7 +170,7 @@
 <title>New Family 100 (GTV)</title>
 </programme>
 <programme start="20260410133000 +0000" stop="20260410153000 +0000" channel="GTV.vision">
-<title>Operation Delta Force 2</title>
+<title>King Of The New Beggars</title>
 </programme>
 <programme start="20260410153000 +0000" stop="20260410170000 +0000" channel="GTV.vision">
 <title>Ingin Kaya Sesat Didapat</title>
@@ -196,11 +196,11 @@
 <programme start="20260410234500 +0000" stop="20260411003000 +0000" channel="GTV.vision">
 <title>Bernard Bear</title>
 </programme>
-<programme start="20260411030000 +0000" stop="20260411053000 +0000" channel="GTV.vision">
-<title>SpongeBob SquarePants</title>
-</programme>
 <programme start="20260411003000 +0000" stop="20260411030000 +0000" channel="GTV.vision">
 <title>Spongebob Squarepants (GTV)</title>
+</programme>
+<programme start="20260411030000 +0000" stop="20260411053000 +0000" channel="GTV.vision">
+<title>SpongeBob SquarePants</title>
 </programme>
 <programme start="20260411053000 +0000" stop="20260411063000 +0000" channel="GTV.vision">
 <title>Bleach: The Sorrowful Reunion</title>
@@ -274,10 +274,7 @@
 <programme start="20260410230200 +0000" stop="20260411000000 +0000" channel="iNews.vision">
 <title>Special Report</title>
 </programme>
-<programme start="20260411000000 +0000" stop="20260411003000 +0000" channel="iNews.vision">
-<title>iBreak: The One Entrepreneur</title>
-</programme>
-<programme start="20260411003000 +0000" stop="20260411023000 +0000" channel="iNews.vision">
+<programme start="20260411000000 +0000" stop="20260411023000 +0000" channel="iNews.vision">
 <title>Breaking News</title>
 </programme>
 <programme start="20260411023000 +0000" stop="20260411033000 +0000" channel="iNews.vision">
@@ -289,10 +286,10 @@
 <programme start="20260411053000 +0000" stop="20260411070000 +0000" channel="iNews.vision">
 <title>Cahaya Hati Indonesia (L)</title>
 </programme>
-<programme start="20260411070000 +0000" stop="20260411090000 +0000" channel="iNews.vision">
+<programme start="20260411070000 +0000" stop="20260411083000 +0000" channel="iNews.vision">
 <title>Konflik Timur Tengah (L)</title>
 </programme>
-<programme start="20260411090000 +0000" stop="20260411100000 +0000" channel="iNews.vision">
+<programme start="20260411083000 +0000" stop="20260411100000 +0000" channel="iNews.vision">
 <title>Realita (L)</title>
 </programme>
 <programme start="20260411100000 +0000" stop="20260411120000 +0000" channel="iNews.vision">
@@ -631,6 +628,9 @@
 <programme start="20260410003000 +0000" stop="20260410023000 +0000" channel="ANTV.vision">
 <title>Janji Cinta Inspektur Virat</title>
 </programme>
+<programme start="20260410023000 +0000" stop="20260410060000 +0000" channel="ANTV.vision">
+<title>Kaho Naa Pyaar Hai</title>
+</programme>
 <programme start="20260410060000 +0000" stop="20260410080000 +0000" channel="ANTV.vision">
 <title>Jhanak</title>
 </programme>
@@ -795,6 +795,9 @@
 </programme>
 <programme start="20260410020000 +0000" stop="20260410023000 +0000" channel="TVOne.vision">
 <title>Inspirasi Pagi</title>
+</programme>
+<programme start="20260410023000 +0000" stop="20260410033000 +0000" channel="TVOne.vision">
+<title>Pagi-Pagi Seru</title>
 </programme>
 <programme start="20260410033000 +0000" stop="20260410040000 +0000" channel="TVOne.vision">
 <title>Metropolitan</title>
@@ -1493,8 +1496,5 @@
 <title>TVRI</title>
 </programme>
 <programme start="20260410210000 +0000" stop="20260410230000 +0000" channel="TVRI.vision">
-<title>TVRI</title>
-</programme>
-<programme start="20260410230000 +0000" stop="20260411010000 +0000" channel="TVRI.vision">
 <title>TVRI</title>
 </programme>
