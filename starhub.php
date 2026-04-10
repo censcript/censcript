@@ -6658,16 +6658,10 @@
     <programme start="20260411153000 +0000" stop="20260411170000 +0000" channel="TV5MONDE HD.starhub">
         <title>Meurtres A Mont-De-Marsan</title>
     </programme>
-    <programme start="20260410130000 +0000" stop="20260410170000 +0000" channel="Hub Sports 1  HD.starhub">
+    <programme start="20260410135700 +0000" stop="20260410181000 +0000" channel="Hub Sports 1  HD.starhub">
         <title>Rolex Monte-Carlo Masters (1000) QF 3 &amp; 4</title>
     </programme>
-    <programme start="20260410170000 +0000" stop="20260410173000 +0000" channel="Hub Sports 1  HD.starhub">
-        <title>Season 3 Episode 4</title>
-    </programme>
-    <programme start="20260410173000 +0000" stop="20260410180000 +0000" channel="Hub Sports 1  HD.starhub">
-        <title>Season 3 Episode 5</title>
-    </programme>
-    <programme start="20260410180000 +0000" stop="20260410220000 +0000" channel="Hub Sports 1  HD.starhub">
+    <programme start="20260410181000 +0000" stop="20260410220000 +0000" channel="Hub Sports 1  HD.starhub">
         <title>ASB Classic (250) SF 1 &amp; 2</title>
     </programme>
     <programme start="20260410220000 +0000" stop="20260410233000 +0000" channel="Hub Sports 1  HD.starhub">
