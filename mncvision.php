@@ -9097,25 +9097,22 @@
 <programme start="20260410090000 +0000" stop="20260410093000 +0000" channel="Trans TV.mncvision">
     <title>CNN Indonesia News Update</title>
 </programme>
-<programme start="20260410093000 +0000" stop="20260410101500 +0000" channel="Trans TV.mncvision">
+<programme start="20260410093000 +0000" stop="20260410103000 +0000" channel="Trans TV.mncvision">
     <title>Dream Box Indonesia</title>
 </programme>
-<programme start="20260410101500 +0000" stop="20260410113000 +0000" channel="Trans TV.mncvision">
+<programme start="20260410103000 +0000" stop="20260410114500 +0000" channel="Trans TV.mncvision">
     <title>Bikin Laper</title>
 </programme>
-<programme start="20260410113000 +0000" stop="20260410123000 +0000" channel="Trans TV.mncvision">
+<programme start="20260410114500 +0000" stop="20260410133000 +0000" channel="Trans TV.mncvision">
     <title>Insert Story</title>
 </programme>
-<programme start="20260410123000 +0000" stop="20260410133000 +0000" channel="Trans TV.mncvision">
-    <title>Monitor Ketua</title>
-</programme>
-<programme start="20260410133000 +0000" stop="20260410143000 +0000" channel="Trans TV.mncvision">
+<programme start="20260410133000 +0000" stop="20260410140000 +0000" channel="Trans TV.mncvision">
     <title>Dunia Punya Cerita</title>
 </programme>
-<programme start="20260410143000 +0000" stop="20260410163000 +0000" channel="Trans TV.mncvision">
+<programme start="20260410140000 +0000" stop="20260410160000 +0000" channel="Trans TV.mncvision">
     <title>Bioskop Trans TV</title>
 </programme>
-<programme start="20260410163000 +0000" stop="20260409170000 +0000" channel="Trans TV.mncvision">
+<programme start="20260410160000 +0000" stop="20260410163000 +0000" channel="Trans TV.mncvision">
     <title>Bioskop Trans TV</title>
 </programme>
 <programme start="20260409171000 +0000" stop="20260409182500 +0000" channel="tvN.mncvision">

@@ -1946,7 +1946,7 @@
         <title>UEFA Conference League 2025/26: Rayo Vallecano vs AEK Athens - QF, 1st Leg (Live)</title>
     </programme>
     <programme start="20260409185500 +0000" stop="20260409210000 +0000" channel="beIN Sports 3.starhub">
-        <title>UEFA Europa League 2025/26: Porto vs Nottingham Forest - QF, 1st Leg (Live)</title>
+        <title>Porto vs Nottingham Forest - QF, 1st Leg (Live)</title>
     </programme>
     <programme start="20260409210000 +0000" stop="20260409213000 +0000" channel="beIN Sports 3.starhub">
         <title>Bundesliga Weekly 2025/26</title>
@@ -6337,8 +6337,11 @@
     <programme start="20260410090500 +0000" stop="20260410110000 +0000" channel="HBO Signature HD.starhub">
         <title>Save The Last Dance</title>
     </programme>
-    <programme start="20260410110000 +0000" stop="20260410140000 +0000" channel="HBO Signature HD.starhub">
+    <programme start="20260410110000 +0000" stop="20260410121000 +0000" channel="HBO Signature HD.starhub">
         <title>Living With Lincoln</title>
+    </programme>
+    <programme start="20260410121000 +0000" stop="20260410140000 +0000" channel="HBO Signature HD.starhub">
+        <title>Juror #2</title>
     </programme>
     <programme start="20260410140000 +0000" stop="20260410153000 +0000" channel="HBO Signature HD.starhub">
         <title>Shoot &#039;Em Up</title>
@@ -6625,7 +6628,7 @@
     <programme start="20260410150000 +0000" stop="20260410162900 +0000" channel="TV5MONDE HD.starhub">
         <title>Le Grand Blanc De Lambarene</title>
     </programme>
-    <programme start="20260409130000 +0000" stop="20260409170000 +0000" channel="Hub Sports 1  HD.starhub">
+    <programme start="20260409133000 +0000" stop="20260409170000 +0000" channel="Hub Sports 1  HD.starhub">
         <title>Rolex Monte-Carlo Masters (1000) Day 5 R16 Session 2</title>
     </programme>
     <programme start="20260409170000 +0000" stop="20260409190000 +0000" channel="Hub Sports 1  HD.starhub">
@@ -6836,7 +6839,7 @@
         <title>Rally Croatia</title>
     </programme>
     <programme start="20260409185500 +0000" stop="20260409210000 +0000" channel="beIN Sports HD.starhub">
-        <title>UEFA Europa League 2025/26: Bologna vs Aston Villa - QF, 1st Leg (Live)</title>
+        <title>Bologna vs Aston Villa - QF, 1st Leg (Live)</title>
     </programme>
     <programme start="20260409210000 +0000" stop="20260409213500 +0000" channel="beIN Sports HD.starhub">
         <title>Matchday 30</title>
@@ -8059,13 +8062,13 @@
     <programme start="20260410010000 +0000" stop="20260410014000 +0000" channel="SPOTV2.starhub">
         <title>2025/26 ALM Mini Match Rd 23 Macarthur FC vs Newcastle Jets FC</title>
     </programme>
-    <programme start="20260410014000 +0000" stop="20260410050000 +0000" channel="SPOTV2.starhub">
+    <programme start="20260410014000 +0000" stop="20260410053900 +0000" channel="SPOTV2.starhub">
         <title>10/4 2026 MLB Regular Season San Diego Padres vs Colorado Rockies (Live)</title>
     </programme>
-    <programme start="20260410050000 +0000" stop="20260410070000 +0000" channel="SPOTV2.starhub">
+    <programme start="20260410053900 +0000" stop="20260410072600 +0000" channel="SPOTV2.starhub">
         <title>25/26 A-League Men Round 17 Melbourne City FC vs Central Coast Mariners FC</title>
     </programme>
-    <programme start="20260410070000 +0000" stop="20260410090000 +0000" channel="SPOTV2.starhub">
+    <programme start="20260410072600 +0000" stop="20260410090000 +0000" channel="SPOTV2.starhub">
         <title>2026 World Baseball Classic: Pool D Venezuela vs Nicaragua</title>
     </programme>
     <programme start="20260410090000 +0000" stop="20260410113000 +0000" channel="SPOTV2.starhub">
