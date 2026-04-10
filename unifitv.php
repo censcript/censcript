@@ -576,15 +576,13 @@
   </programme>
   <programme start="20260409163000 +0000" stop="20260409173000 +0000" channel="tv1.unifitv">
     <title lang="en">Mencari Mel &amp; Ayu</title>
-    <desc lang="en">Azimah mencintai sepupunya Zainuddin dan cemburu apabila dia berkahwin dengan Catherine. Demi memisahkan mereka, Azimah merancang fitnah hingga Catherine
-diceraikan. Namun perbuatannya membawa kifarah apabila hidupnya terus dihantui rahsia dan ugutan Ghazali selama bertahun-tahun.
-Pelakon : Syafiq Kyle, Shiqin Kamal, Mimi Ernida, Anne Abdullah, Mimi Lana, Iera Hazali, Kuza, Aman Nassim, Haeriyanto Hassan, Rahim Omar, Noryati Taib, Shuhanty. Rashdan Baba, Rafe Sumantri, Amirul Faqeem, Nadia Aqilah, Azzam Zamani</desc>
+    <desc lang="en">Azimah mencintai sepupunya Zainuddin dan cemburu apabila dia berkahwin dengan Catherine. Demi memisahkan mereka, Azimah merancang fitnah hingga Catherine diceraikan. Namun perbuatannya membawa kifarah apabila hidupnya terus dihantui rahsia dan ugutan Ghazali selama bertahun-tahun.</desc>
     <category lang="en">Drama</category>
     <episode-num system="xmltv_ns">0.0.</episode-num>
     <episode-num system="onscreen">S1E1</episode-num>
   </programme>
   <programme start="20260409173000 +0000" stop="20260409180000 +0000" channel="tv1.unifitv">
-    <title lang="en">Desapreneur Muda</title>
+    <title lang="en">Desapreneur Muda (Ulangan)</title>
     <desc lang="en">Sebuah majalah travelog mendekati usahawan belia yang memilih kerjaya di desa atau kampung.</desc>
     <category lang="en">Drama</category>
     <episode-num system="xmltv_ns">0.12.</episode-num>
@@ -592,9 +590,7 @@ Pelakon : Syafiq Kyle, Shiqin Kamal, Mimi Ernida, Anne Abdullah, Mimi Lana, Iera
   </programme>
   <programme start="20260409180000 +0000" stop="20260409190000 +0000" channel="tv1.unifitv">
     <title lang="en">Tasbih Rindu</title>
-    <desc lang="en">Perjalanan hidup seorang pemuda bernama Ryan yang berubah secara drastik selepas melalui pengalaman pahit apabila dia telah diculik dan diancam bunuh.
-
-Pelakon : Shah Jaszle, Mardiana Alwi, Josiah Hogan,Hafidzuddin Fazil.</desc>
+    <desc lang="en">Drama lakonan Shah Jaszle, Mardiana Alwi, Hafidzuddin Fazil, Hendon Faeizah, Josiah Hogan, Fieyna Tajudin.</desc>
     <category lang="en">Drama</category>
     <episode-num system="xmltv_ns">0.5.</episode-num>
     <episode-num system="onscreen">S1E6</episode-num>
@@ -607,17 +603,15 @@ Pelakon : Shah Jaszle, Mardiana Alwi, Josiah Hogan,Hafidzuddin Fazil.</desc>
     <episode-num system="onscreen">S1E6</episode-num>
   </programme>
   <programme start="20260409193000 +0000" stop="20260409203000 +0000" channel="tv1.unifitv">
-    <title lang="en">Kampung Semarah Padi</title>
-    <desc lang="en">Kisah penduduk Kampung Semarah Padi yang disumpah menjadi lembut selembutnya oleh Kassim selepas difitnah dan dihalau kerana menyukai Meriam, anak gadis Penghulu Siak.
-Pelakon : Sabri Yunus, Khir Rahman, Johan A’sari, Shiela Mambo, Intan Ladyana, Zain Hamid, Azmi Bahron, Rosca, Fauzuly Hamdan Tahir.</desc>
+    <title lang="en">Kampung Semarah Padi (Ulangan)</title>
+    <desc lang="en">Kisah penduduk Kampung Semarah Padi yang disumpah menjadi lembut-selembutnya oleh Kassim selepas difitnah dan dihalau kerana menyukai Meriam, anak gadis Penghulu Siak.</desc>
     <category lang="en">Drama</category>
     <episode-num system="xmltv_ns">0.3.</episode-num>
     <episode-num system="onscreen">S1E4</episode-num>
   </programme>
   <programme start="20260409203000 +0000" stop="20260409210000 +0000" channel="tv1.unifitv">
     <title lang="en">Kelas IT Kampung Ampas</title>
-    <desc lang="en">Cikgu Nina, seorang guru yang dilantik oleh JKKK Kampung Ampas untuk mengajar penduduk mengenai IT yang merupakan keperluan pada masa kini.
-Pelakon : Charlie Numan, Zarina Zainuddin, Adi Afendi, Nas Adila, Aidil Zamri, Pasha, Aliff Razali,Amanda Tan, Balan Kash, Dira Diandra.</desc>
+    <desc lang="en">Cikgu Nina, seorang guru yang dilantik oleh JKKK Kampung Ampas untuk mengajar penduduk mengenai IT yang merupakan keperluan pada masa kini.</desc>
     <category lang="en">Drama</category>
     <episode-num system="xmltv_ns">0.0.</episode-num>
     <episode-num system="onscreen">S1E1</episode-num>
@@ -635,21 +629,16 @@ Pelakon : Charlie Numan, Zarina Zainuddin, Adi Afendi, Nas Adila, Aidil Zamri, P
     <category lang="en">Drama</category>
   </programme>
   <programme start="20260409213000 +0000" stop="20260409220200 +0000" channel="tv1.unifitv">
-    <title lang="en">Bacaan Ar Rahman/ Al Mulk/ Yassin/ Al Waqiah</title>
-    <desc lang="en">Bacaan Ar Rahman/ Al Mulk/ Yassin/ Al Waqiah</desc>
+    <title lang="en">Surah Yassin (2023)</title>
+    <desc lang="en">Bacaan Yasin</desc>
     <category lang="en">Drama</category>
   </programme>
-  <programme start="20260409220200 +0000" stop="20260409225700 +0000" channel="tv1.unifitv">
+  <programme start="20260409220200 +0000" stop="20260409230000 +0000" channel="tv1.unifitv">
     <title lang="en">Usrati Jannati 2025</title>
     <desc lang="en">Kupasan tajuk menarik bersama pengacara dan tetamu undangan.</desc>
     <category lang="en">Drama</category>
-    <episode-num system="xmltv_ns">0.19.</episode-num>
-    <episode-num system="onscreen">S1E20</episode-num>
-  </programme>
-  <programme start="20260409225700 +0000" stop="20260409230000 +0000" channel="tv1.unifitv">
-    <title lang="en">Hello Dunia</title>
-    <desc lang="en">Hello Dunia</desc>
-    <category lang="en">Drama</category>
+    <episode-num system="xmltv_ns">0.12.</episode-num>
+    <episode-num system="onscreen">S1E13</episode-num>
   </programme>
   <programme start="20260409230000 +0000" stop="20260409234400 +0000" channel="tv1.unifitv">
     <title lang="en">BERITA PAGI</title>
@@ -675,8 +664,8 @@ Pelakon : Charlie Numan, Zarina Zainuddin, Adi Afendi, Nas Adila, Aidil Zamri, P
     <title lang="en">Sipadan 2</title>
     <desc lang="en">Siri animasi berkisarkan kisah pengembaraan anak penyu bernama Sipadan bersama rakan-rakannya.</desc>
     <category lang="en">Drama</category>
-    <episode-num system="xmltv_ns">1.0.</episode-num>
-    <episode-num system="onscreen">S2E1</episode-num>
+    <episode-num system="xmltv_ns">0.0.</episode-num>
+    <episode-num system="onscreen">S1E1</episode-num>
   </programme>
   <programme start="20260410023000 +0000" stop="20260410030000 +0000" channel="tv1.unifitv">
     <title lang="en">Squared Zebra</title>
@@ -687,15 +676,17 @@ Pelakon : Charlie Numan, Zarina Zainuddin, Adi Afendi, Nas Adila, Aidil Zamri, P
   </programme>
   <programme start="20260410030000 +0000" stop="20260410033000 +0000" channel="tv1.unifitv">
     <title lang="en">Usratun Nisa</title>
-    <desc lang="en">Saksikan program majalah wanita islamik yang menarik ini khas untuk anda</desc>
+    <desc lang="en">Keberanian wanita untuk berkata tidak untuk menghalang dari terus terpendam dalam masalah rumahtangga</desc>
     <category lang="en">Drama</category>
-    <episode-num system="xmltv_ns">0.0.</episode-num>
-    <episode-num system="onscreen">S1E1</episode-num>
+    <episode-num system="xmltv_ns">0.1.</episode-num>
+    <episode-num system="onscreen">S1E2</episode-num>
   </programme>
   <programme start="20260410033000 +0000" stop="20260410040000 +0000" channel="tv1.unifitv">
-    <title lang="en">Agrotek</title>
+    <title lang="en">Agrotek 2025</title>
     <desc lang="en">Saksikan dokumentari yang memaparkan pelbagai teknologi terkini yang digunakan dalam sektor peladangan mahupun penternakan bagi menyumbang kepada hasil yang lebih baik.</desc>
     <category lang="en">Drama</category>
+    <episode-num system="xmltv_ns">0.5.</episode-num>
+    <episode-num system="onscreen">S1E6</episode-num>
   </programme>
   <programme start="20260410040000 +0000" stop="20260410041500 +0000" channel="tv1.unifitv">
     <title lang="en">LIVE : BERITA SEMASA</title>
@@ -709,8 +700,10 @@ Pelakon : Charlie Numan, Zarina Zainuddin, Adi Afendi, Nas Adila, Aidil Zamri, P
   </programme>
   <programme start="20260410043000 +0000" stop="20260410050000 +0000" channel="tv1.unifitv">
     <title lang="en">Lisanul Haq 2025</title>
-    <desc lang="en">Saksikan Lisanul Haq Dakwah dengan gaya jalanan secara santai kepada ornag awam.</desc>
+    <desc lang="en">Saksikan Lisanul Haq Dakwah dengan gaya jalanan secara santai kepada orang awam.</desc>
     <category lang="en">Drama</category>
+    <episode-num system="xmltv_ns">0.13.</episode-num>
+    <episode-num system="onscreen">S1E14</episode-num>
   </programme>
   <programme start="20260410050000 +0000" stop="20260410051800 +0000" channel="tv1.unifitv">
     <title lang="en">Promo / PSA / Kapsul</title>
@@ -731,6 +724,8 @@ Pelakon : Charlie Numan, Zarina Zainuddin, Adi Afendi, Nas Adila, Aidil Zamri, P
     <title lang="en">Forum Perdana Ehwal Islam 2026</title>
     <desc lang="en">Ikuti perbincangan mengenai permasalahan berkaitan agama dan isu semasa.</desc>
     <category lang="en">Drama</category>
+    <episode-num system="xmltv_ns">0.14.</episode-num>
+    <episode-num system="onscreen">S1E15</episode-num>
   </programme>
   <programme start="20260410070000 +0000" stop="20260410070500 +0000" channel="tv1.unifitv">
     <title lang="en">LIVE : BERITA SEMASA</title>
@@ -741,38 +736,41 @@ Pelakon : Charlie Numan, Zarina Zainuddin, Adi Afendi, Nas Adila, Aidil Zamri, P
     <title lang="en">Forum Perdana Ehwal Islam 2026</title>
     <desc lang="en">Ikuti perbincangan mengenai permasalahan berkaitan agama dan isu semasa.</desc>
     <category lang="en">Drama</category>
+    <episode-num system="xmltv_ns">0.14.</episode-num>
+    <episode-num system="onscreen">S1E15</episode-num>
   </programme>
   <programme start="20260410073000 +0000" stop="20260410080000 +0000" channel="tv1.unifitv">
     <title lang="en">Kalam Wahyu (MTHQA) 2024</title>
     <desc lang="en">Saksikan kompilasi bacaan peserta-peserta hafazan dalam pertandingan Majlis Tilawah &amp; Hafazan Al-Quran Peringkat Antarabangsa. Hayati bacaan Al-Quran.</desc>
     <category lang="en">Drama</category>
+    <episode-num system="xmltv_ns">0.12.</episode-num>
+    <episode-num system="onscreen">S1E13</episode-num>
   </programme>
   <programme start="20260410080000 +0000" stop="20260410080500 +0000" channel="tv1.unifitv">
-    <title lang="en">Taklimat Krisis Tenaga Global</title>
-    <desc lang="en">Taklimat Krisis Tenaga Global</desc>
+    <title lang="en">LIVE : BERITA SEMASA</title>
+    <desc lang="en">Berita Semasa dalam dan luar negara</desc>
     <category lang="en">Drama</category>
   </programme>
   <programme start="20260410080500 +0000" stop="20260410083000 +0000" channel="tv1.unifitv">
     <title lang="en">Kalam Wahyu (MTHQA) 2024</title>
     <desc lang="en">Saksikan kompilasi bacaan peserta-peserta hafazan dalam pertandingan Majlis Tilawah &amp; Hafazan Al-Quran Peringkat Antarabangsa. Hayati bacaan Al-Quran.</desc>
     <category lang="en">Drama</category>
+    <episode-num system="xmltv_ns">0.12.</episode-num>
+    <episode-num system="onscreen">S1E13</episode-num>
   </programme>
   <programme start="20260410083000 +0000" stop="20260410090000 +0000" channel="tv1.unifitv">
     <title lang="en">Persada Jurnal 2025</title>
     <desc lang="en">Ikuti pengacara melihat perkembangan Islam di seluruh dunia.</desc>
     <category lang="en">Drama</category>
+    <episode-num system="xmltv_ns">0.23.</episode-num>
+    <episode-num system="onscreen">S1E24</episode-num>
   </programme>
   <programme start="20260410090000 +0000" stop="20260410100000 +0000" channel="tv1.unifitv">
     <title lang="en">BERITA WILAYAH</title>
     <desc lang="en">Saksikan laporan perkembangan terkini dari wilayah-wilayah semenanjung Malaysia dalam rangkuman berita terkini.</desc>
     <category lang="en">Drama</category>
   </programme>
-  <programme start="20260410100000 +0000" stop="20260410100300 +0000" channel="tv1.unifitv">
-    <title lang="en">Hello Dunia</title>
-    <desc lang="en">Hello Dunia</desc>
-    <category lang="en">Drama</category>
-  </programme>
-  <programme start="20260410100300 +0000" stop="20260410104500 +0000" channel="tv1.unifitv">
+  <programme start="20260410100000 +0000" stop="20260410104500 +0000" channel="tv1.unifitv">
     <title lang="en">Podcase Syariah</title>
     <desc lang="en">Podcase Syariah mengupas isu-isu semasa berkaitan hukum Islam secara santai dan ilmiah. Menampilkan pakar untuk memberi penjelasan jelas, relevan dan mudah difahami oleh semua lapisan masyakarat.</desc>
     <category lang="en">Drama</category>
@@ -802,14 +800,16 @@ Pelakon : Charlie Numan, Zarina Zainuddin, Adi Afendi, Nas Adila, Aidil Zamri, P
     <category lang="en">Drama</category>
   </programme>
   <programme start="20260410130000 +0000" stop="20260410133000 +0000" channel="tv1.unifitv">
-    <title lang="en">Cerita Antara Kita : Rentak Singa Timur</title>
-    <desc lang="en">Cerita Antara Kita : Rentak Singa Timur</desc>
+    <title lang="en">Cerita Antara Kita</title>
+    <desc lang="en">Dua penari Sabah, Sani dan Mike ke Foshan China, mempelajari tarian singa asli. Mereka berlatih bersama kumpulan tempatan, menampilkan semangat juang, teknik autentik dan pertukaran budaya Malaysia-China.</desc>
     <category lang="en">Drama</category>
   </programme>
   <programme start="20260410133000 +0000" stop="20260410140000 +0000" channel="tv1.unifitv">
-    <title lang="en">KOPIeKONOMI</title>
+    <title lang="en">KOPIeKONOMI 2025</title>
     <desc lang="en">Program bual bicara ekonomi santai yang menampilkan panel jemputan di ruang kopi sambil mengopi bagi membincangkan pelbagai isu semasa ekonomi, kewangan mahupun perniagaan bersama pengacara Hazel Desmond, Faiz Syahirah Nizam, Akmal Hafiz Ruslan dan Izzamil Nasir.</desc>
     <category lang="en">Drama</category>
+    <episode-num system="xmltv_ns">0.11.</episode-num>
+    <episode-num system="onscreen">S1E12</episode-num>
   </programme>
   <programme start="20260410140000 +0000" stop="20260410141500 +0000" channel="tv1.unifitv">
     <title lang="en">DUNIA 10</title>

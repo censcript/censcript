@@ -22,10 +22,10 @@
 <programme start="20260410103000 +0000" stop="20260410120000 +0000" channel="RCTI.vision">
 <title>Preman Pensiun Deui</title>
 </programme>
-<programme start="20260407120000 +0000" stop="20260407133000 +0000" channel="RCTI.vision">
+<programme start="20260410120000 +0000" stop="20260410131500 +0000" channel="RCTI.vision">
 <title>Terikat Janji (RCTI)</title>
 </programme>
-<programme start="20260407133000 +0000" stop="20260407150000 +0000" channel="RCTI.vision">
+<programme start="20260410131500 +0000" stop="20260410143000 +0000" channel="RCTI.vision">
 <title>Turun Ranjang (RCTI)</title>
 </programme>
 <programme start="20260410143000 +0000" stop="20260410163000 +0000" channel="RCTI.vision">
@@ -37,10 +37,10 @@
 <programme start="20260410180000 +0000" stop="20260410203000 +0000" channel="RCTI.vision">
 <title>RCTI</title>
 </programme>
-<programme start="20260409193000 +0000" stop="20260409230000 +0000" channel="RCTI.vision">
+<programme start="20260410203000 +0000" stop="20260410230000 +0000" channel="RCTI.vision">
 <title>Preman Pensiun X</title>
 </programme>
-<programme start="20260409230000 +0000" stop="20260410010000 +0000" channel="RCTI.vision">
+<programme start="20260410230000 +0000" stop="20260411000000 +0000" channel="RCTI.vision">
 <title>Upin Ipin</title>
 </programme>
 <programme start="20260411000000 +0000" stop="20260411013000 +0000" channel="RCTI.vision">
@@ -133,11 +133,14 @@
 <programme start="20260411070000 +0000" stop="20260411090000 +0000" channel="MNCTV.vision">
 <title>Upin &amp; Ipin</title>
 </programme>
-<programme start="20260411090000 +0000" stop="20260411110000 +0000" channel="MNCTV.vision">
+<programme start="20260411090000 +0000" stop="20260411103000 +0000" channel="MNCTV.vision">
 <title>Upin &amp; Ipin</title>
 </programme>
-<programme start="20260411110000 +0000" stop="20260411120000 +0000" channel="MNCTV.vision">
+<programme start="20260411103000 +0000" stop="20260411113000 +0000" channel="MNCTV.vision">
 <title>Entong</title>
+</programme>
+<programme start="20260411113000 +0000" stop="20260411123000 +0000" channel="MNCTV.vision">
+<title>Upin &amp; Ipin</title>
 </programme>
 <programme start="20260409230000 +0000" stop="20260410010000 +0000" channel="GTV.vision">
 <title>SpongeBob SquarePants</title>
@@ -193,10 +196,10 @@
 <programme start="20260410234500 +0000" stop="20260411003000 +0000" channel="GTV.vision">
 <title>Bernard Bear</title>
 </programme>
-<programme start="20260411003000 +0000" stop="20260411030000 +0000" channel="GTV.vision">
+<programme start="20260411030000 +0000" stop="20260411053000 +0000" channel="GTV.vision">
 <title>SpongeBob SquarePants</title>
 </programme>
-<programme start="20260411030000 +0000" stop="20260411053000 +0000" channel="GTV.vision">
+<programme start="20260411003000 +0000" stop="20260411030000 +0000" channel="GTV.vision">
 <title>Spongebob Squarepants (GTV)</title>
 </programme>
 <programme start="20260411053000 +0000" stop="20260411063000 +0000" channel="GTV.vision">
@@ -433,22 +436,25 @@
 <programme start="20260410093000 +0000" stop="20260410101500 +0000" channel="Trans TV.vision">
 <title>Dream Box Indonesia</title>
 </programme>
-<programme start="20260410103000 +0000" stop="20260410114500 +0000" channel="Trans TV.vision">
+<programme start="20260410101500 +0000" stop="20260410113000 +0000" channel="Trans TV.vision">
 <title>Bikin Laper</title>
 </programme>
-<programme start="20260410114500 +0000" stop="20260410133000 +0000" channel="Trans TV.vision">
+<programme start="20260410113000 +0000" stop="20260410123000 +0000" channel="Trans TV.vision">
 <title>Insert Story</title>
 </programme>
-<programme start="20260410133000 +0000" stop="20260410140000 +0000" channel="Trans TV.vision">
+<programme start="20260410123000 +0000" stop="20260410133000 +0000" channel="Trans TV.vision">
+<title>Monitor Ketua</title>
+</programme>
+<programme start="20260410133000 +0000" stop="20260410143000 +0000" channel="Trans TV.vision">
 <title>Dunia Punya Cerita</title>
 </programme>
-<programme start="20260410140000 +0000" stop="20260410160000 +0000" channel="Trans TV.vision">
+<programme start="20260410143000 +0000" stop="20260410163000 +0000" channel="Trans TV.vision">
 <title>Bioskop Trans TV</title>
 </programme>
-<programme start="20260410160000 +0000" stop="20260410180000 +0000" channel="Trans TV.vision">
+<programme start="20260410163000 +0000" stop="20260410183000 +0000" channel="Trans TV.vision">
 <title>Bioskop Trans TV</title>
 </programme>
-<programme start="20260410180000 +0000" stop="20260410220000 +0000" channel="Trans TV.vision">
+<programme start="20260410183000 +0000" stop="20260410220000 +0000" channel="Trans TV.vision">
 <title>Pilihan Indonesia: Debat Capres</title>
 </programme>
 <programme start="20260410220000 +0000" stop="20260410233000 +0000" channel="Trans TV.vision">
@@ -475,16 +481,16 @@
 <programme start="20260411070000 +0000" stop="20260411080000 +0000" channel="Trans TV.vision">
 <title>Rumpi Hot Of The Week</title>
 </programme>
-<programme start="20260411080000 +0000" stop="20260411090000 +0000" channel="Trans TV.vision">
+<programme start="20260411080000 +0000" stop="20260411093000 +0000" channel="Trans TV.vision">
 <title>Insert Investigasi</title>
 </programme>
-<programme start="20260411090000 +0000" stop="20260411100000 +0000" channel="Trans TV.vision">
-<title>Peek Me</title>
+<programme start="20260411093000 +0000" stop="20260411101500 +0000" channel="Trans TV.vision">
+<title>HaHa HiHi</title>
 </programme>
-<programme start="20260411100000 +0000" stop="20260411111500 +0000" channel="Trans TV.vision">
-<title>Bikin Laper</title>
+<programme start="20260411101500 +0000" stop="20260411113000 +0000" channel="Trans TV.vision">
+<title>Bikin Laper Weekend</title>
 </programme>
-<programme start="20260411111500 +0000" stop="20260411123000 +0000" channel="Trans TV.vision">
+<programme start="20260411113000 +0000" stop="20260411123000 +0000" channel="Trans TV.vision">
 <title>Insert Story</title>
 </programme>
 <programme start="20260409233000 +0000" stop="20260410003000 +0000" channel="Trans 7.vision">
@@ -1490,11 +1496,5 @@
 <title>TVRI</title>
 </programme>
 <programme start="20260410230000 +0000" stop="20260411010000 +0000" channel="TVRI.vision">
-<title>TVRI</title>
-</programme>
-<programme start="20260411010000 +0000" stop="20260411030000 +0000" channel="TVRI.vision">
-<title>TVRI</title>
-</programme>
-<programme start="20260411030000 +0000" stop="20260411050000 +0000" channel="TVRI.vision">
 <title>TVRI</title>
 </programme>

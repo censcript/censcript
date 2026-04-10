@@ -1594,14 +1594,8 @@
 <programme start="20260410080000 +0000" stop="20260410083000 +0000" channel="BTV.mncvision">
     <title>Berita Merah Putih</title>
 </programme>
-<programme start="20260410083000 +0000" stop="20260410090000 +0000" channel="BTV.mncvision">
-    <title>Berita Satu Sore</title>
-</programme>
-<programme start="20260410090000 +0000" stop="20260410090500 +0000" channel="BTV.mncvision">
-    <title>Berita Satu Terkini</title>
-</programme>
-<programme start="20260410090500 +0000" stop="20260410102500 +0000" channel="BTV.mncvision">
-    <title>Berita Satu Sore</title>
+<programme start="20260410083000 +0000" stop="20260410102500 +0000" channel="BTV.mncvision">
+    <title>Breaking News</title>
 </programme>
 <programme start="20260410102500 +0000" stop="20260410105000 +0000" channel="BTV.mncvision">
     <title>Berita Kriminal</title>
@@ -1612,17 +1606,11 @@
 <programme start="20260410124500 +0000" stop="20260410134000 +0000" channel="BTV.mncvision">
     <title>Berita Satu Malam</title>
 </programme>
-<programme start="20260410134000 +0000" stop="20260410150000 +0000" channel="BTV.mncvision">
+<programme start="20260410134000 +0000" stop="20260410140000 +0000" channel="BTV.mncvision">
     <title>Berita Viral</title>
 </programme>
-<programme start="20260410150000 +0000" stop="20260410160000 +0000" channel="BTV.mncvision">
-    <title>Spot On</title>
-</programme>
-<programme start="20260410160000 +0000" stop="20260410163000 +0000" channel="BTV.mncvision">
-    <title>Mitos Tengah Malam</title>
-</programme>
-<programme start="20260410163000 +0000" stop="20260409170000 +0000" channel="BTV.mncvision">
-    <title>ONE Vault</title>
+<programme start="20260410140000 +0000" stop="20260410143000 +0000" channel="BTV.mncvision">
+    <title>UIPM 2026</title>
 </programme>
 <programme start="20260409170200 +0000" stop="20260409185600 +0000" channel="BUDDY STARS.mncvision">
     <title>Lena And Snowball</title>
