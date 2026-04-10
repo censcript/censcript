@@ -865,14 +865,8 @@
     <programme start="20260410013000 +0000" stop="20260410020000 +0000" channel="Phoenix Chinese Channel HD.starhub">
         <title>Phoenix Panorama</title>
     </programme>
-    <programme start="20260410020000 +0000" stop="20260410030000 +0000" channel="Phoenix Chinese Channel HD.starhub">
-        <title>News On The Hour (10/4/26)</title>
-    </programme>
-    <programme start="20260410030000 +0000" stop="20260410033000 +0000" channel="Phoenix Chinese Channel HD.starhub">
-        <title>Zoom In</title>
-    </programme>
-    <programme start="20260410033000 +0000" stop="20260410040000 +0000" channel="Phoenix Chinese Channel HD.starhub">
-        <title>Summary Of Press (10/4/26)</title>
+    <programme start="20260410020000 +0000" stop="20260410040000 +0000" channel="Phoenix Chinese Channel HD.starhub">
+        <title>[Include: Xi-Cheng Meeting 2026]</title>
     </programme>
     <programme start="20260410040000 +0000" stop="20260410050000 +0000" channel="Phoenix Chinese Channel HD.starhub">
         <title>Phoenix Midday Express (10/4/26)</title>
@@ -3436,16 +3430,10 @@
     <programme start="20260410013000 +0000" stop="20260410020000 +0000" channel="Phoenix InfoNews Channel HD.starhub">
         <title>Financial Journal (9/4/26)</title>
     </programme>
-    <programme start="20260410020000 +0000" stop="20260410030000 +0000" channel="Phoenix InfoNews Channel HD.starhub">
-        <title>News On The Hour (10/4/26)</title>
+    <programme start="20260410020000 +0000" stop="20260410043000 +0000" channel="Phoenix InfoNews Channel HD.starhub">
+        <title>News On The Hour (10/4/26) [Includes: Xi-Zheng meeting]</title>
     </programme>
-    <programme start="20260410030000 +0000" stop="20260410033000 +0000" channel="Phoenix InfoNews Channel HD.starhub">
-        <title>News On The Hour (10/4/26)</title>
-    </programme>
-    <programme start="20260410033000 +0000" stop="20260410040000 +0000" channel="Phoenix InfoNews Channel HD.starhub">
-        <title>Chief Editor&#039;s Time (9/4/26)</title>
-    </programme>
-    <programme start="20260410040000 +0000" stop="20260410050000 +0000" channel="Phoenix InfoNews Channel HD.starhub">
+    <programme start="20260410043000 +0000" stop="20260410050000 +0000" channel="Phoenix InfoNews Channel HD.starhub">
         <title>Phoenix Midday Express (10/4/26)</title>
     </programme>
     <programme start="20260410050000 +0000" stop="20260410053000 +0000" channel="Phoenix InfoNews Channel HD.starhub">
@@ -3482,7 +3470,7 @@
         <title>China News Live (10/4/26)</title>
     </programme>
     <programme start="20260410120000 +0000" stop="20260410123000 +0000" channel="Phoenix InfoNews Channel HD.starhub">
-        <title>Phoenix Focus (10/4/26)</title>
+        <title>Phoenix Focus (10/4/26) [Include: Xi-Cheng Meeting 2026]</title>
     </programme>
     <programme start="20260410123000 +0000" stop="20260410130000 +0000" channel="Phoenix InfoNews Channel HD.starhub">
         <title>Phoenix Financial Daily Report (10/4/26)</title>
@@ -7406,7 +7394,7 @@
         <title>BBC News</title>
     </programme>
     <programme start="20260410003000 +0000" stop="20260410010000 +0000" channel="BBC World News HD.starhub">
-        <title>The Media Show</title>
+        <title>How Far Should Reporters go With AI?</title>
     </programme>
     <programme start="20260410010000 +0000" stop="20260410013000 +0000" channel="BBC World News HD.starhub">
         <title>Newsday</title>
@@ -7948,10 +7936,10 @@
     <programme start="20260409234000 +0000" stop="20260410013000 +0000" channel="Asianet Movies.starhub">
         <title>Vikrithi</title>
     </programme>
-    <programme start="20260410013000 +0000" stop="20260410043000 +0000" channel="Asianet Movies.starhub">
+    <programme start="20260410013000 +0000" stop="20260410044000 +0000" channel="Asianet Movies.starhub">
         <title>ABCD: Any Body Can Dance</title>
     </programme>
-    <programme start="20260410043000 +0000" stop="20260410073000 +0000" channel="Asianet Movies.starhub">
+    <programme start="20260410044000 +0000" stop="20260410073000 +0000" channel="Asianet Movies.starhub">
         <title>Mannar Mathai Speaking - 2</title>
     </programme>
     <programme start="20260410073000 +0000" stop="20260410103000 +0000" channel="Asianet Movies.starhub">
@@ -7960,7 +7948,7 @@
     <programme start="20260410103000 +0000" stop="20260410133000 +0000" channel="Asianet Movies.starhub">
         <title>Kannum Kannum Kollaiyadithaal</title>
     </programme>
-    <programme start="20260410133000 +0000" stop="20260410163000 +0000" channel="Asianet Movies.starhub">
+    <programme start="20260410133000 +0000" stop="20260410164000 +0000" channel="Asianet Movies.starhub">
         <title>Barroz 3D</title>
     </programme>
     <programme start="20260409160000 +0000" stop="20260409170000 +0000" channel="Astro Warna HD.starhub">

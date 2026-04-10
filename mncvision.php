@@ -2537,10 +2537,10 @@
     <title>The Braemar Hill Murders</title>
 </programme>
 <programme start="20260410094500 +0000" stop="20260410103500 +0000" channel="Crime Investigation.mncvision">
-    <title>Lie Detector: Truth, Ep 6</title>
+    <title>Lie Detector: Truth Or..., Ep 6</title>
 </programme>
 <programme start="20260410103500 +0000" stop="20260410112500 +0000" channel="Crime Investigation.mncvision">
-    <title>Lie Detector: Truth, Ep 7</title>
+    <title>Lie Detector: Truth Or..., Ep 7</title>
 </programme>
 <programme start="20260410112500 +0000" stop="20260410121500 +0000" channel="Crime Investigation.mncvision">
     <title>Beyond The Headlines, Ep 4</title>
