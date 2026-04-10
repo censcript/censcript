@@ -2670,7 +2670,7 @@ Warning: Undefined array key "et" in /usr/home/ManusiaBiasa/domains/manusiabiasa
 <programme start="20260410160000 +0000" stop="20260410183000 +0000" channel="Sky Sport Bundesliga 2 HD.skyde">
     <title>Live 2. BL: Freitags-Konferenz, 29. Spieltag</title>
 </programme>
-<programme start="20260410183000 +0000" stop="20260410194500 +0000" channel="Sky Sport Bundesliga 2 HD.skyde">
+<programme start="20260410183000 +0000" stop="20260410191500 +0000" channel="Sky Sport Bundesliga 2 HD.skyde">
     <title>Live 2. BL Alle Spiele, alle Tore: Die Vodafone Highlight-Show, 29. Spieltag, Freitag</title>
 </programme>
 <programme start="20260410154000 +0000" stop="20260410160000 +0000" channel="Sky Sport Bundesliga 3 HD.skyde">
@@ -2685,7 +2685,7 @@ Warning: Undefined array key "et" in /usr/home/ManusiaBiasa/domains/manusiabiasa
 <programme start="20260410154000 +0000" stop="20260410160000 +0000" channel="Sky Sport Bundesliga 4 HD.skyde">
     <title>Es folgt: LIVE 2. Liga</title>
 </programme>
-<programme start="20260410160000 +0000" stop="20260410190000 +0000" channel="Sky Sport Bundesliga 4 HD.skyde">
+<programme start="20260410160000 +0000" stop="20260410183000 +0000" channel="Sky Sport Bundesliga 4 HD.skyde">
     <title>Live 2. BL: Karlsruher SC - Arminia Bielefeld, 29. Spieltag</title>
 </programme>
 <programme start="20260410154000 +0000" stop="20260410160000 +0000" channel="Sky Sport Bundesliga 5 HD.skyde">
@@ -2787,7 +2787,10 @@ Warning: Undefined array key "et" in /usr/home/ManusiaBiasa/domains/manusiabiasa
 <programme start="20260410101500 +0000" stop="20260410131500 +0000" channel="Sky Sport Golf HD.skyde">
     <title>The Masters: 1. Tag in Augusta, GA (USA)</title>
 </programme>
-<programme start="20260410131500 +0000" stop="20260410170000 +0000" channel="Sky Sport Golf HD.skyde">
+<programme start="20260410131500 +0000" stop="20260410135000 +0000" channel="Sky Sport Golf HD.skyde">
+    <title>The Masters: Official Film 1986 (Jack Nicklaus)</title>
+</programme>
+<programme start="20260410135000 +0000" stop="20260410170000 +0000" channel="Sky Sport Golf HD.skyde">
     <title>Live The Masters: 2. Tag in Augusta (Early Coverage)</title>
 </programme>
 <programme start="20260410170000 +0000" stop="20260410233000 +0000" channel="Sky Sport Golf HD.skyde">
