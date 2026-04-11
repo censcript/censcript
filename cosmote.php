@@ -1,7 +1,3 @@
-<programme start="20260411230000 +0700" stop="20260412010000 +0700" channel="COSMOTE Sport 1 HD">
-    <title>Football: AC Milan - Udinese (L)</title>
-    <desc>Live: Ya</desc>
-</programme>
 <programme start="20260412010000 +0700" stop="20260412014500 +0700" channel="COSMOTE Sport 1 HD">
     <title>UEFA Champions League Highlights 2025-26</title>
     <desc>Live: Tidak</desc>
@@ -82,9 +78,13 @@
     <title>Football: Bologna - Lecce (L)</title>
     <desc>Live: Ya</desc>
 </programme>
-<programme start="20260411224500 +0700" stop="20260412010000 +0700" channel="COSMOTE Sport 2 HD">
-    <title>Football: Olympiacos - AEK</title>
+<programme start="20260413010000 +0700" stop="20260413014500 +0700" channel="COSMOTE Sport 1 HD">
+    <title>UEFA Champions League Highlights 2025-26</title>
     <desc>Live: Tidak</desc>
+</programme>
+<programme start="20260413014500 +0700" stop="20260413034500 +0700" channel="COSMOTE Sport 1 HD">
+    <title>Football: Como - FC Internazionale Milano (L)</title>
+    <desc>Live: Ya</desc>
 </programme>
 <programme start="20260412010000 +0700" stop="20260412013000 +0700" channel="COSMOTE Sport 2 HD">
     <title>Sports Classics: My Sporting Moment</title>
@@ -165,14 +165,6 @@
 <programme start="20260413000000 +0700" stop="20260413020000 +0700" channel="COSMOTE Sport 2 HD">
     <title>Football: SL Benfica - Nacional (L)</title>
     <desc>Live: Ya</desc>
-</programme>
-<programme start="20260412000000 +0700" stop="20260412003000 +0700" channel="COSMOTE Sport 3 HD">
-    <title>Emirates FA Cup 2025-26 - Highlights</title>
-    <desc>Live: Tidak</desc>
-</programme>
-<programme start="20260412003000 +0700" stop="20260412010000 +0700" channel="COSMOTE Sport 3 HD">
-    <title>William Hill Scottish Premiership - Highlights</title>
-    <desc>Live: Tidak</desc>
 </programme>
 <programme start="20260412010000 +0700" stop="20260412030000 +0700" channel="COSMOTE Sport 3 HD">
     <title>Football: Al-Okhdood Club - Al Nassr (L)</title>
@@ -402,6 +394,10 @@
     <title>Highlights: 2026 FIA World Championship</title>
     <desc>Live: Tidak</desc>
 </programme>
+<programme start="20260413011500 +0700" stop="20260413021000 +0700" channel="COSMOTE Sport 5 HD">
+    <title>DTM</title>
+    <desc>Live: Tidak</desc>
+</programme>
 <programme start="20260412000000 +0700" stop="20260412040000 +0700" channel="COSMOTE Sport 6 HD">
     <title>Tennis: ATP Masters 1000 2026</title>
     <desc>Live: Tidak</desc>
@@ -545,6 +541,10 @@
 <programme start="20260413003000 +0700" stop="20260413010000 +0700" channel="COSMOTE Sport 7 HD">
     <title>COSMOTESport7HD</title>
     <desc>Live: Tidak</desc>
+</programme>
+<programme start="20260413010000 +0700" stop="20260413020000 +0700" channel="COSMOTE Sport 7 HD">
+    <title>Beach Volley: Pro Tour Elite 16 2026 (L)</title>
+    <desc>Live: Ya</desc>
 </programme>
 <programme start="20260412000000 +0700" stop="20260412020000 +0700" channel="COSMOTE Sport 8 HD">
     <title>COSMOTESport8HD</title>
