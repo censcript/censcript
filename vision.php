@@ -616,9 +616,6 @@
 <programme start="20260411003000 +0000" stop="20260411023000 +0000" channel="ANTV.vision">
 <title>Janji Cinta Inspektur Virat</title>
 </programme>
-<programme start="20260411023000 +0000" stop="20260411060000 +0000" channel="ANTV.vision">
-<title>Awara Paagal Deewana</title>
-</programme>
 <programme start="20260411060000 +0000" stop="20260411080000 +0000" channel="ANTV.vision">
 <title>Jhanak</title>
 </programme>
@@ -798,9 +795,6 @@
 </programme>
 <programme start="20260411070000 +0000" stop="20260411073000 +0000" channel="TVOne.vision">
 <title>Selalu Ada Hikmah</title>
-</programme>
-<programme start="20260411073000 +0000" stop="20260411083000 +0000" channel="TVOne.vision">
-<title>Satria Biru</title>
 </programme>
 <programme start="20260411083000 +0000" stop="20260411090000 +0000" channel="TVOne.vision">
 <title>Apa Kabar Indonesia Akhir Pekan</title>
@@ -1497,4 +1491,10 @@
 </programme>
 <programme start="20260411030000 +0000" stop="20260411033000 +0000" channel="JAK TV.vision">
 <title>Rev</title>
+</programme>
+<programme start="20260411033000 +0000" stop="20260411040000 +0000" channel="JAK TV.vision">
+<title>Otomotif Tips</title>
+</programme>
+<programme start="20260411040000 +0000" stop="20260411043000 +0000" channel="JAK TV.vision">
+<title>IBL Best Shoot</title>
 </programme>

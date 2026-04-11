@@ -2680,7 +2680,7 @@
 <programme start="20260411131500 +0000" stop="20260411154500 +0000" channel="Sky Sport Bundesliga 3 HD.skyde">
     <title>Live BL: VfL Wolfsburg - Eintracht Frankfurt, 29. Spieltag</title>
 </programme>
-<programme start="20260411154500 +0000" stop="20260411194500 +0000" channel="Sky Sport Bundesliga 3 HD.skyde">
+<programme start="20260411154500 +0000" stop="20260411191500 +0000" channel="Sky Sport Bundesliga 3 HD.skyde">
     <title>Live BL: Tactical Feed: STP - FCB, 29. Spieltag</title>
 </programme>
 <programme start="20260411101000 +0000" stop="20260411103000 +0000" channel="Sky Sport Bundesliga 4 HD.skyde">
@@ -2692,7 +2692,7 @@
 <programme start="20260411130000 +0000" stop="20260411131500 +0000" channel="Sky Sport Bundesliga 4 HD.skyde">
     <title>Live BL: FCH - FCU: tipico Countdown, 29. Spieltag</title>
 </programme>
-<programme start="20260411131500 +0000" stop="20260411161500 +0000" channel="Sky Sport Bundesliga 4 HD.skyde">
+<programme start="20260411131500 +0000" stop="20260411154500 +0000" channel="Sky Sport Bundesliga 4 HD.skyde">
     <title>Live BL: 1. FC Heidenheim - 1. FC Union Berlin, 29. Spieltag</title>
 </programme>
 <programme start="20260411101000 +0000" stop="20260411103000 +0000" channel="Sky Sport Bundesliga 5 HD.skyde">
@@ -2701,7 +2701,7 @@
 <programme start="20260411103000 +0000" stop="20260411130000 +0000" channel="Sky Sport Bundesliga 5 HD.skyde">
     <title>Live 2. BL: Hertha BSC - 1. FC Kaiserslautern, 29. Spieltag</title>
 </programme>
-<programme start="20260411130000 +0000" stop="20260411161500 +0000" channel="Sky Sport Bundesliga 5 HD.skyde">
+<programme start="20260411130000 +0000" stop="20260411154500 +0000" channel="Sky Sport Bundesliga 5 HD.skyde">
     <title>BL: Hinweis Multiview</title>
 </programme>
 <programme start="20260411101000 +0000" stop="20260411103000 +0000" channel="Sky Sport Bundesliga 6 HD.skyde">
@@ -2710,7 +2710,7 @@
 <programme start="20260411103000 +0000" stop="20260411130000 +0000" channel="Sky Sport Bundesliga 6 HD.skyde">
     <title>Live 2. BL: Multiview 29. Spieltag, Samstag</title>
 </programme>
-<programme start="20260411130000 +0000" stop="20260411161500 +0000" channel="Sky Sport Bundesliga 6 HD.skyde">
+<programme start="20260411130000 +0000" stop="20260411154500 +0000" channel="Sky Sport Bundesliga 6 HD.skyde">
     <title>Live BL: Multiview 29. Spieltag</title>
 </programme>
 <programme start="20260411101000 +0000" stop="20260411103000 +0000" channel="Sky Sport Bundesliga 7 HD.skyde">
@@ -2719,7 +2719,7 @@
 <programme start="20260411103000 +0000" stop="20260411130000 +0000" channel="Sky Sport Bundesliga 7 HD.skyde">
     <title>Live 2. BL: Samstags-Konferenz, 29. Spieltag</title>
 </programme>
-<programme start="20260411130000 +0000" stop="20260411141500 +0000" channel="Sky Sport Bundesliga 7 HD.skyde">
+<programme start="20260411130000 +0000" stop="20260411134500 +0000" channel="Sky Sport Bundesliga 7 HD.skyde">
     <title>Live 2. BL Alle Spiele, alle Tore: Die Vodafone Highlight-Show, 29. Spieltag, Samstag</title>
 </programme>
 <programme start="20260410220000 +0000" stop="20260411000000 +0000" channel="Sky Sport F1 HD.skyde">
@@ -3103,7 +3103,7 @@
 <programme start="20260411133000 +0000" stop="20260411135000 +0000" channel="Sky Sport 8 HD.skyde">
     <title>Es folgt: LIVE PL</title>
 </programme>
-<programme start="20260411135000 +0000" stop="20260411163000 +0000" channel="Sky Sport 8 HD.skyde">
+<programme start="20260411135000 +0000" stop="20260411160000 +0000" channel="Sky Sport 8 HD.skyde">
     <title>Live PL: FC Burnley - Brighton &amp; Hove Albion, 32. Spieltag</title>
 </programme>
 <programme start="20260410220000 +0000" stop="20260410224500 +0000" channel="SYFY HD.skyde">

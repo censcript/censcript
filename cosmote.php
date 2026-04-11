@@ -1,11 +1,3 @@
-<programme start="20260411140000 +0700" stop="20260411143000 +0700" channel="COSMOTE Sport 1 HD">
-    <title>UEFA Champions League Magazine 2024-25 E28</title>
-    <desc>Live: Tidak</desc>
-</programme>
-<programme start="20260411143000 +0700" stop="20260411150000 +0700" channel="COSMOTE Sport 1 HD">
-    <title>Game R1 S6 E33</title>
-    <desc>Live: Tidak</desc>
-</programme>
 <programme start="20260411150000 +0700" stop="20260411170000 +0700" channel="COSMOTE Sport 1 HD">
     <title>Football: Real Madrid CF - FC Bayern Munchen</title>
     <desc>Live: Tidak</desc>
@@ -76,6 +68,10 @@
 </programme>
 <programme start="20260412133000 +0700" stop="20260412153000 +0700" channel="COSMOTE Sport 1 HD">
     <title>Football: Paris Saint Germain - Liverpool FC</title>
+    <desc>Live: Tidak</desc>
+</programme>
+<programme start="20260412153000 +0700" stop="20260412160000 +0700" channel="COSMOTE Sport 1 HD">
+    <title>UEFA Champions League Magazine 2024-25 E28</title>
     <desc>Live: Tidak</desc>
 </programme>
 <programme start="20260411134000 +0700" stop="20260411155500 +0700" channel="COSMOTE Sport 2 HD">
@@ -226,10 +222,6 @@
     <title>Football: Al-Okhdood Club - Al Nassr</title>
     <desc>Live: Tidak</desc>
 </programme>
-<programme start="20260411140000 +0700" stop="20260411142500 +0700" channel="COSMOTE Sport 4 HD">
-    <title>ACB Liga Endesa 2024-25 - Fifth Quarter E25</title>
-    <desc>Live: Tidak</desc>
-</programme>
 <programme start="20260411142500 +0700" stop="20260411154000 +0700" channel="COSMOTE Sport 4 HD">
     <title>Pick n&#039; Roll</title>
     <desc>Live: Tidak</desc>
@@ -306,12 +298,8 @@
     <title>Basketball: Besiktas - Bahcesehir</title>
     <desc>Live: Tidak</desc>
 </programme>
-<programme start="20260411134000 +0700" stop="20260411142500 +0700" channel="COSMOTE Sport 5 HD">
-    <title>WRC 2026 (L)</title>
-    <desc>Live: Ya</desc>
-</programme>
-<programme start="20260411142500 +0700" stop="20260411144000 +0700" channel="COSMOTE Sport 5 HD">
-    <title>Sports Highlights</title>
+<programme start="20260412153000 +0700" stop="20260412173000 +0700" channel="COSMOTE Sport 4 HD">
+    <title>Basketball: Reyer Venezia - Brescia</title>
     <desc>Live: Tidak</desc>
 </programme>
 <programme start="20260411144000 +0700" stop="20260411153500 +0700" channel="COSMOTE Sport 5 HD">
@@ -414,12 +402,8 @@
     <title>WRC 2026</title>
     <desc>Live: Tidak</desc>
 </programme>
-<programme start="20260411140000 +0700" stop="20260411143000 +0700" channel="COSMOTE Sport 6 HD">
-    <title>Watersports: Inside Sailing 2026 E3</title>
-    <desc>Live: Tidak</desc>
-</programme>
-<programme start="20260411143000 +0700" stop="20260411144500 +0700" channel="COSMOTE Sport 6 HD">
-    <title>Tennis: Felix Auger-Aliassime - Jannik Sinner</title>
+<programme start="20260412152000 +0700" stop="20260412161000 +0700" channel="COSMOTE Sport 5 HD">
+    <title>WRC 2026</title>
     <desc>Live: Tidak</desc>
 </programme>
 <programme start="20260411144500 +0700" stop="20260411155500 +0700" channel="COSMOTE Sport 6 HD">
