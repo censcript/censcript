@@ -2655,25 +2655,25 @@ Warning: Undefined array key "et" in /usr/home/ManusiaBiasa/domains/manusiabiasa
 <programme start="20260412173000 +0000" stop="20260412193000 +0000" channel="Sky Sport Bundesliga 2 HD.skyde">
     <title>BL: VfB Stuttgart - Hamburger SV, 29. Spieltag</title>
 </programme>
-<programme start="20260412193000 +0000" stop="20260412220000 +0000" channel="Sky Sport Bundesliga 2 HD.skyde">
+<programme start="20260412193000 +0000" stop="20260412213000 +0000" channel="Sky Sport Bundesliga 2 HD.skyde">
     <title>BL: 1. FSV Mainz 05 - SC Freiburg, 29. Spieltag</title>
 </programme>
 <programme start="20260412104000 +0000" stop="20260412110000 +0000" channel="Sky Sport Bundesliga 3 HD.skyde">
     <title>Es folgt: LIVE 2. Liga</title>
 </programme>
-<programme start="20260412110000 +0000" stop="20260412133000 +0000" channel="Sky Sport Bundesliga 3 HD.skyde">
+<programme start="20260412110000 +0000" stop="20260412140000 +0000" channel="Sky Sport Bundesliga 3 HD.skyde">
     <title>Live 2. BL: SC Paderborn 07 - 1. FC Magdeburg, 29. Spieltag</title>
 </programme>
 <programme start="20260412104000 +0000" stop="20260412110000 +0000" channel="Sky Sport Bundesliga 4 HD.skyde">
     <title>Es folgt: LIVE 2. Liga</title>
 </programme>
-<programme start="20260412110000 +0000" stop="20260412133000 +0000" channel="Sky Sport Bundesliga 4 HD.skyde">
+<programme start="20260412110000 +0000" stop="20260412140000 +0000" channel="Sky Sport Bundesliga 4 HD.skyde">
     <title>Live 2. BL: VfL Bochum - Eintracht Braunschweig, 29. Spieltag</title>
 </programme>
 <programme start="20260412104000 +0000" stop="20260412110000 +0000" channel="Sky Sport Bundesliga 5 HD.skyde">
     <title>Es folgt: LIVE 2. Liga</title>
 </programme>
-<programme start="20260412110000 +0000" stop="20260412133000 +0000" channel="Sky Sport Bundesliga 5 HD.skyde">
+<programme start="20260412110000 +0000" stop="20260412140000 +0000" channel="Sky Sport Bundesliga 5 HD.skyde">
     <title>Live 2. BL: Multiview 29. Spieltag, Sonntag</title>
 </programme>
 <programme start="20260411223000 +0000" stop="20260411233000 +0000" channel="Sky Sport F1 HD.skyde">
@@ -3031,13 +3031,13 @@ Warning: Undefined array key "et" in /usr/home/ManusiaBiasa/domains/manusiabiasa
     <title>ATP 1000: C. Alcaraz (ESP) - V. Vacherot (MON), Rolex Monte-Carlo Masters in Monte-Carlo, Halbfinale 2</title>
 </programme>
 <programme start="20260412100000 +0000" stop="20260412123000 +0000" channel="Sky Sport Tennis HD.skyde">
-    <title>Live ATP 1000: Finale, Rolex Monte-Carlo Masters in Monte-Carlo, Doppelfinale</title>
+    <title>Live ATP 1000: K. Krawietz (GER) / T. Puetz (GER) - M. Arevalo (ESA) / M. Pavic (CRO), Rolex Monte-Carlo Masters in Monte-Carlo, Doppelfinale</title>
 </programme>
 <programme start="20260412123000 +0000" stop="20260412125000 +0000" channel="Sky Sport Tennis HD.skyde">
     <title>ATP &amp; WTA: Best Shots 2025</title>
 </programme>
 <programme start="20260412125000 +0000" stop="20260412153000 +0000" channel="Sky Sport Tennis HD.skyde">
-    <title>Live ATP 1000: Finale, Rolex Monte-Carlo Masters in Monte-Carlo, Finale</title>
+    <title>Live ATP 1000: J. Sinner (ITA) - C. Alcaraz (ESP), Rolex Monte-Carlo Masters in Monte-Carlo, Finale</title>
 </programme>
 <programme start="20260412153000 +0000" stop="20260412163000 +0000" channel="Sky Sport Tennis HD.skyde">
     <title>ATP 1000: Review Miami</title>
@@ -3046,10 +3046,10 @@ Warning: Undefined array key "et" in /usr/home/ManusiaBiasa/domains/manusiabiasa
     <title>WTA: All Access Magazine Show</title>
 </programme>
 <programme start="20260412170000 +0000" stop="20260412193000 +0000" channel="Sky Sport Tennis HD.skyde">
-    <title>WTA 500: Finale, Upper Austria Ladies Linz in Linz (AUT), Finale</title>
+    <title>WTA 500: A. Potapova (AUT) - M. Andreeva, Upper Austria Ladies Linz in Linz (AUT), Finale</title>
 </programme>
 <programme start="20260412193000 +0000" stop="20260412220000 +0000" channel="Sky Sport Tennis HD.skyde">
-    <title>ATP 1000: Finale, Rolex Monte-Carlo Masters in Monte-Carlo, Finale</title>
+    <title>ATP 1000: J. Sinner (ITA) - C. Alcaraz (ESP), Rolex Monte-Carlo Masters in Monte-Carlo, Finale</title>
 </programme>
 <programme start="20260411230000 +0000" stop="20260412020000 +0000" channel="Sky Sport Top Event HD.skyde">
     <title>Live NHL: Florida Panthers @ Toronto Maple Leafs</title>
@@ -3076,7 +3076,7 @@ Warning: Undefined array key "et" in /usr/home/ManusiaBiasa/domains/manusiabiasa
     <title>BL: Alle Spiele, alle Stimmen, 29. Spieltag</title>
 </programme>
 <programme start="20260412100000 +0000" stop="20260412110000 +0000" channel="Sky Sport Top Event HD.skyde">
-    <title>Live ATP 1000: K. Krawietz (GER) / T. Puetz (GER) - M. Arevalo (ESA) / M. Pavic (CRO), Rolex Monte-Carlo Masters in Monte-Carlo, Doppelfinale</title>
+    <title>Live ATP 1000: tba - M. Arevalo (ESA) / M. Pavic (CRO), Rolex Monte-Carlo Masters in Monte-Carlo, Doppelfinale</title>
 </programme>
 <programme start="20260412110000 +0000" stop="20260412133000 +0000" channel="Sky Sport Top Event HD.skyde">
     <title>Live 2. BL: Sonntags-Konferenz, 29. Spieltag</title>
@@ -3523,6 +3523,45 @@ Warning: Undefined array key "et" in /usr/home/ManusiaBiasa/domains/manusiabiasa
     <title>Der schmale Grat</title>
 </programme>
 <programme start="20260412210500 +0000" stop="20260412225000 +0000" channel="Warner TV Film.skyde">
+    <title>Ruf der Wildnis</title>
+</programme>
+<programme start="20260411223500 +0000" stop="20260412010000 +0000" channel="Warner TV Film HD.skyde">
+    <title>Transformers - Die Rache</title>
+</programme>
+<programme start="20260412010000 +0000" stop="20260412022500 +0000" channel="Warner TV Film HD.skyde">
+    <title>Approaching The Unknown</title>
+</programme>
+<programme start="20260412022500 +0000" stop="20260412040000 +0000" channel="Warner TV Film HD.skyde">
+    <title>Mad Max 2 - Der Vollstrecker</title>
+</programme>
+<programme start="20260412040000 +0000" stop="20260412053000 +0000" channel="Warner TV Film HD.skyde">
+    <title>Highlander: Endgame</title>
+</programme>
+<programme start="20260412053000 +0000" stop="20260412071500 +0000" channel="Warner TV Film HD.skyde">
+    <title>Der Morgen danach</title>
+</programme>
+<programme start="20260412071500 +0000" stop="20260412090000 +0000" channel="Warner TV Film HD.skyde">
+    <title>Haben und Nichthaben</title>
+</programme>
+<programme start="20260412090000 +0000" stop="20260412105000 +0000" channel="Warner TV Film HD.skyde">
+    <title>Die Katze auf dem heißen Blechdach</title>
+</programme>
+<programme start="20260412105000 +0000" stop="20260412111000 +0000" channel="Warner TV Film HD.skyde">
+    <title>Hinter den Kulissen - Peter Fonda</title>
+</programme>
+<programme start="20260412111000 +0000" stop="20260412132000 +0000" channel="Warner TV Film HD.skyde">
+    <title>The Verdict - Die Wahrheit und nichts als die Wahrheit</title>
+</programme>
+<programme start="20260412132000 +0000" stop="20260412153500 +0000" channel="Warner TV Film HD.skyde">
+    <title>Die Bücherdiebin</title>
+</programme>
+<programme start="20260412153500 +0000" stop="20260412181500 +0000" channel="Warner TV Film HD.skyde">
+    <title>Insider</title>
+</programme>
+<programme start="20260412181500 +0000" stop="20260412210500 +0000" channel="Warner TV Film HD.skyde">
+    <title>Der schmale Grat</title>
+</programme>
+<programme start="20260412210500 +0000" stop="20260412225000 +0000" channel="Warner TV Film HD.skyde">
     <title>Ruf der Wildnis</title>
 </programme>
 <programme start="20260411220000 +0000" stop="20260412000000 +0000" channel="Warner TV Serie HD.skyde">
