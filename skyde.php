@@ -2641,7 +2641,7 @@
 <programme start="20260411131500 +0000" stop="20260411154500 +0000" channel="Sky Sport Bundesliga 1 HD.skyde">
     <title>Live BL: Borussia Dortmund - Bayer Leverkusen, 29. Spieltag</title>
 </programme>
-<programme start="20260411154500 +0000" stop="20260411191500 +0000" channel="Sky Sport Bundesliga 1 HD.skyde">
+<programme start="20260411154500 +0000" stop="20260411194500 +0000" channel="Sky Sport Bundesliga 1 HD.skyde">
     <title>Live BL: FC St. Pauli - FC Bayern München, tipico Topspiel der Woche, 29. Spieltag</title>
 </programme>
 <programme start="20260411101000 +0000" stop="20260411103000 +0000" channel="Sky Sport Bundesliga 2 HD.skyde">
@@ -2680,7 +2680,7 @@
 <programme start="20260411131500 +0000" stop="20260411154500 +0000" channel="Sky Sport Bundesliga 3 HD.skyde">
     <title>Live BL: VfL Wolfsburg - Eintracht Frankfurt, 29. Spieltag</title>
 </programme>
-<programme start="20260411154500 +0000" stop="20260411191500 +0000" channel="Sky Sport Bundesliga 3 HD.skyde">
+<programme start="20260411154500 +0000" stop="20260411194500 +0000" channel="Sky Sport Bundesliga 3 HD.skyde">
     <title>Live BL: Tactical Feed: STP - FCB, 29. Spieltag</title>
 </programme>
 <programme start="20260411101000 +0000" stop="20260411103000 +0000" channel="Sky Sport Bundesliga 4 HD.skyde">
@@ -2692,7 +2692,7 @@
 <programme start="20260411130000 +0000" stop="20260411131500 +0000" channel="Sky Sport Bundesliga 4 HD.skyde">
     <title>Live BL: FCH - FCU: tipico Countdown, 29. Spieltag</title>
 </programme>
-<programme start="20260411131500 +0000" stop="20260411154500 +0000" channel="Sky Sport Bundesliga 4 HD.skyde">
+<programme start="20260411131500 +0000" stop="20260411161500 +0000" channel="Sky Sport Bundesliga 4 HD.skyde">
     <title>Live BL: 1. FC Heidenheim - 1. FC Union Berlin, 29. Spieltag</title>
 </programme>
 <programme start="20260411101000 +0000" stop="20260411103000 +0000" channel="Sky Sport Bundesliga 5 HD.skyde">
@@ -2953,118 +2953,64 @@
 <programme start="20260411213000 +0000" stop="20260411220000 +0000" channel="Sky Sport News HD.skyde">
     <title>Sky Sport News: Nightline</title>
 </programme>
-<programme start="20260412220000 +0000" stop="20260412223000 +0000" channel="Sky Sport Premier League HD.skyde">
-    <title>PL: 90in30: SUN - TOT, 32. Spieltag</title>
+<programme start="20260410233000 +0000" stop="20260411000000 +0000" channel="Sky Sport Premier League HD.skyde">
+    <title>PL: My Season: Luis Suarez (2013/2014)</title>
 </programme>
-<programme start="20260412223000 +0000" stop="20260412230000 +0000" channel="Sky Sport Premier League HD.skyde">
-    <title>PL: All Goals: Die Highlight-Show, 32. Spieltag</title>
+<programme start="20260411000000 +0000" stop="20260411003000 +0000" channel="Sky Sport Premier League HD.skyde">
+    <title>PL: My Season: Mo Salah (2017/2018)</title>
 </programme>
-<programme start="20260412230000 +0000" stop="20260412233000 +0000" channel="Sky Sport Premier League HD.skyde">
-    <title>PL: 90in30: CRY - NEW, 32. Spieltag</title>
+<programme start="20260411003000 +0000" stop="20260411010000 +0000" channel="Sky Sport Premier League HD.skyde">
+    <title>PL: My Season: Jamie Vardy (2015/2016)</title>
 </programme>
-<programme start="20260412233000 +0000" stop="20260413000000 +0000" channel="Sky Sport Premier League HD.skyde">
-    <title>PL: 90in30: LIV - FUL, 32. Spieltag</title>
+<programme start="20260411010000 +0000" stop="20260411030000 +0000" channel="Sky Sport Premier League HD.skyde">
+    <title>PL: West Ham United - Wolverhampton Wanderers, 32. Spieltag</title>
 </programme>
-<programme start="20260413000000 +0000" stop="20260413020000 +0000" channel="Sky Sport Premier League HD.skyde">
-    <title>PL: AFC Sunderland - Tottenham Hotspur, 32. Spieltag</title>
+<programme start="20260411030000 +0000" stop="20260411040000 +0000" channel="Sky Sport Premier League HD.skyde">
+    <title>PL: PL Moments: Robert Pires</title>
 </programme>
-<programme start="20260413020000 +0000" stop="20260413040000 +0000" channel="Sky Sport Premier League HD.skyde">
-    <title>PL: Goal Rush, SUN - TOT, Premier League Konferenz, 32. Spieltag</title>
+<programme start="20260411040000 +0000" stop="20260411050000 +0000" channel="Sky Sport Premier League HD.skyde">
+    <title>PL: Best Volleys</title>
 </programme>
-<programme start="20260413040000 +0000" stop="20260413050000 +0000" channel="Sky Sport Premier League HD.skyde">
-    <title>PL: 1 to 11 (Dwight Yorke)</title>
+<programme start="20260411050000 +0000" stop="20260411070000 +0000" channel="Sky Sport Premier League HD.skyde">
+    <title>PL: West Ham United - Wolverhampton Wanderers, 32. Spieltag</title>
 </programme>
-<programme start="20260413050000 +0000" stop="20260413053000 +0000" channel="Sky Sport Premier League HD.skyde">
-    <title>PL: 90in30: SUN - TOT, 32. Spieltag</title>
+<programme start="20260411070000 +0000" stop="20260411080000 +0000" channel="Sky Sport Premier League HD.skyde">
+    <title>PL: Rivalries: Manchester City - FC Chelsea</title>
 </programme>
-<programme start="20260413053000 +0000" stop="20260413060000 +0000" channel="Sky Sport Premier League HD.skyde">
-    <title>PL: 90in30: CHE - MCI, 32. Spieltag</title>
+<programme start="20260411080000 +0000" stop="20260411083000 +0000" channel="Sky Sport Premier League HD.skyde">
+    <title>PL: PL Stories (Didier Drogba)</title>
 </programme>
-<programme start="20260413060000 +0000" stop="20260413063000 +0000" channel="Sky Sport Premier League HD.skyde">
-    <title>PL: Match of the Week: Die Analyse, CHE - MCI, 32. Spieltag</title>
+<programme start="20260411083000 +0000" stop="20260411084500 +0000" channel="Sky Sport Premier League HD.skyde">
+    <title>PL: Under the Skin (West Ham United)</title>
 </programme>
-<programme start="20260413063000 +0000" stop="20260413070000 +0000" channel="Sky Sport Premier League HD.skyde">
-    <title>PL: All Goals: Die Highlight-Show, 32. Spieltag</title>
+<programme start="20260411084500 +0000" stop="20260411105000 +0000" channel="Sky Sport Premier League HD.skyde">
+    <title>PL: West Ham United - Wolverhampton Wanderers, 32. Spieltag</title>
 </programme>
-<programme start="20260413070000 +0000" stop="20260413080000 +0000" channel="Sky Sport Premier League HD.skyde">
-    <title>PL: 1 to 11 (Thomas Hitzlsperger)</title>
+<programme start="20260411105000 +0000" stop="20260411112000 +0000" channel="Sky Sport Premier League HD.skyde">
+    <title>PL: Preview, 32. Spieltag</title>
 </programme>
-<programme start="20260413080000 +0000" stop="20260413083000 +0000" channel="Sky Sport Premier League HD.skyde">
-    <title>PL: 90in30: CRY - NEW, 32. Spieltag</title>
+<programme start="20260411112000 +0000" stop="20260411135000 +0000" channel="Sky Sport Premier League HD.skyde">
+    <title>Live PL: FC Arsenal - AFC Bournemouth, 32. Spieltag</title>
 </programme>
-<programme start="20260413083000 +0000" stop="20260413093000 +0000" channel="Sky Sport Premier League HD.skyde">
-    <title>PL: PL Moments: Leicester City 2015/16</title>
+<programme start="20260411135000 +0000" stop="20260411162000 +0000" channel="Sky Sport Premier League HD.skyde">
+    <title>Live PL: FC Brentford - FC Everton, 32. Spieltag</title>
 </programme>
-<programme start="20260413093000 +0000" stop="20260413100000 +0000" channel="Sky Sport Premier League HD.skyde">
-    <title>PL: All Goals: Die Highlight-Show, 32. Spieltag</title>
+<programme start="20260411162000 +0000" stop="20260411183000 +0000" channel="Sky Sport Premier League HD.skyde">
+    <title>Live PL: FC Liverpool - FC Fulham, 32. Spieltag</title>
 </programme>
-<programme start="20260413100000 +0000" stop="20260413103000 +0000" channel="Sky Sport Premier League HD.skyde">
-    <title>PL: PL Rewind: MCI vs. QPR 2011/12</title>
+<programme start="20260411183000 +0000" stop="20260411185000 +0000" channel="Sky Sport Premier League HD.skyde">
+    <title>PL: Highlights Samstag, 32. Spieltag</title>
 </programme>
-<programme start="20260413103000 +0000" stop="20260413110000 +0000" channel="Sky Sport Premier League HD.skyde">
-    <title>PL: 90in30: SUN - TOT, 32. Spieltag</title>
+<programme start="20260411185000 +0000" stop="20260411205000 +0000" channel="Sky Sport Premier League HD.skyde">
+    <title>PL: FC Arsenal - AFC Bournemouth, 32. Spieltag</title>
 </programme>
-<programme start="20260413110000 +0000" stop="20260413113000 +0000" channel="Sky Sport Premier League HD.skyde">
-    <title>PL: PL Stories (Manager Rivalries)</title>
+<programme start="20260411205000 +0000" stop="20260411211000 +0000" channel="Sky Sport Premier League HD.skyde">
+    <title>PL: Highlights Samstag, 32. Spieltag</title>
 </programme>
-<programme start="20260413113000 +0000" stop="20260413120000 +0000" channel="Sky Sport Premier League HD.skyde">
-    <title>PL: 90in30: LIV - FUL, 32. Spieltag</title>
+<programme start="20260411211000 +0000" stop="20260411231000 +0000" channel="Sky Sport Premier League HD.skyde">
+    <title>PL: FC Liverpool - FC Fulham, 32. Spieltag</title>
 </programme>
-<programme start="20260413120000 +0000" stop="20260413123000 +0000" channel="Sky Sport Premier League HD.skyde">
-    <title>PL: Icons: Eric Cantona</title>
-</programme>
-<programme start="20260413123000 +0000" stop="20260413130000 +0000" channel="Sky Sport Premier League HD.skyde">
-    <title>PL: All Goals: Die Highlight-Show, 32. Spieltag</title>
-</programme>
-<programme start="20260413130000 +0000" stop="20260413133000 +0000" channel="Sky Sport Premier League HD.skyde">
-    <title>PL: PL Stories (Micky van de Ven)</title>
-</programme>
-<programme start="20260413133000 +0000" stop="20260413140000 +0000" channel="Sky Sport Premier League HD.skyde">
-    <title>PL: 90in30: ARS - BOU, 32. Spieltag</title>
-</programme>
-<programme start="20260413140000 +0000" stop="20260413141500 +0000" channel="Sky Sport Premier League HD.skyde">
-    <title>PL: Under the Skin (Crystal Palace)</title>
-</programme>
-<programme start="20260413141500 +0000" stop="20260413144500 +0000" channel="Sky Sport Premier League HD.skyde">
-    <title>PL: 90in30: CHE - MCI, 32. Spieltag</title>
-</programme>
-<programme start="20260413144500 +0000" stop="20260413150000 +0000" channel="Sky Sport Premier League HD.skyde">
-    <title>PL: Best Freekicks</title>
-</programme>
-<programme start="20260413150000 +0000" stop="20260413153000 +0000" channel="Sky Sport Premier League HD.skyde">
-    <title>PL: PL Rewind: Dimitar Berbatov (Man United 2010/11)</title>
-</programme>
-<programme start="20260413153000 +0000" stop="20260413160000 +0000" channel="Sky Sport Premier League HD.skyde">
-    <title>PL: PL Stories (Fabian Hürzeler)</title>
-</programme>
-<programme start="20260413160000 +0000" stop="20260413163000 +0000" channel="Sky Sport Premier League HD.skyde">
-    <title>PL: 90in30: LIV - FUL, 32. Spieltag</title>
-</programme>
-<programme start="20260413163000 +0000" stop="20260413170000 +0000" channel="Sky Sport Premier League HD.skyde">
-    <title>PL: 90in30: CHE - MCI, 32. Spieltag</title>
-</programme>
-<programme start="20260413170000 +0000" stop="20260413173000 +0000" channel="Sky Sport Premier League HD.skyde">
-    <title>PL: All Goals: Die Highlight-Show, 32. Spieltag</title>
-</programme>
-<programme start="20260413173000 +0000" stop="20260413185000 +0000" channel="Sky Sport Premier League HD.skyde">
-    <title>Live PL: Monday Night Football</title>
-</programme>
-<programme start="20260413185000 +0000" stop="20260413210000 +0000" channel="Sky Sport Premier League HD.skyde">
-    <title>Live PL: Manchester United - Leeds United, 32. Spieltag</title>
-</programme>
-<programme start="20260413210000 +0000" stop="20260413211500 +0000" channel="Sky Sport Premier League HD.skyde">
-    <title>EFL: Highlights XXL: Coventry City - Sheffield Wednesday, 42. Spieltag</title>
-</programme>
-<programme start="20260413211500 +0000" stop="20260413213000 +0000" channel="Sky Sport Premier League HD.skyde">
-    <title>EFL: Highlights XXL: Birmingham City - AFC Wrexham, 42. Spieltag</title>
-</programme>
-<programme start="20260413213000 +0000" stop="20260413214500 +0000" channel="Sky Sport Premier League HD.skyde">
-    <title>EFL: Highlights XXL: FC Middlesbrough - FC Portsmouth, 42. Spieltag</title>
-</programme>
-<programme start="20260413214500 +0000" stop="20260413220000 +0000" channel="Sky Sport Premier League HD.skyde">
-    <title>EFL: Highlights XXL: Norwich City - Ipswich Town, 42. Spieltag</title>
-</programme>
-<programme start="20260410230000 +0000" stop="20260411010000 +0000" channel="Sky Sport Tennis HD.skyde">
+<programme start="20260410234000 +0000" stop="20260411010000 +0000" channel="Sky Sport Tennis HD.skyde">
     <title>ATP 1000: C. Alcaraz (ESP) - A. Bublik (KAZ), Rolex Monte-Carlo Masters in Monte-Carlo, Viertelfinale 3</title>
 </programme>
 <programme start="20260411010000 +0000" stop="20260411030000 +0000" channel="Sky Sport Tennis HD.skyde">
@@ -3086,28 +3032,28 @@
     <title>ATP 1000: A. de Minaur (AUS) - V. Vacherot (MON) , Rolex Monte-Carlo Masters in Monte-Carlo, Viertelfinale 4</title>
 </programme>
 <programme start="20260411090000 +0000" stop="20260411110000 +0000" channel="Sky Sport Tennis HD.skyde">
-    <title>Live ATP 1000: HF1, Rolex Monte-Carlo Masters in Monte-Carlo, Doppel-Halbfinale 1</title>
+    <title>Live ATP 1000: G. Andreozzi (ARG) / M. Guinard (FRA) - M. Arevalo (ESA) / M. Pavic (CRO), Rolex Monte-Carlo Masters in Monte-Carlo, Doppel-Halbfinale 1</title>
 </programme>
 <programme start="20260411110000 +0000" stop="20260411112500 +0000" channel="Sky Sport Tennis HD.skyde">
     <title>ATP: The Impossible Shot - Behind The Scenes</title>
 </programme>
 <programme start="20260411112500 +0000" stop="20260411133000 +0000" channel="Sky Sport Tennis HD.skyde">
-    <title>Live ATP 1000: HF1, Rolex Monte-Carlo Masters in Monte-Carlo, Halbfinale 1</title>
+    <title>Live ATP 1000: A. Zverev (GER) - J. Sinner (ITA), Rolex Monte-Carlo Masters in Monte-Carlo, Halbfinale 1</title>
 </programme>
 <programme start="20260411133000 +0000" stop="20260411153000 +0000" channel="Sky Sport Tennis HD.skyde">
-    <title>Live ATP 1000: HF2, Rolex Monte-Carlo Masters in Monte-Carlo, Halbfinale 2</title>
+    <title>Live ATP 1000: C. Alcaraz (ESP) - V. Vacherot (MON), Rolex Monte-Carlo Masters in Monte-Carlo, Halbfinale 2</title>
 </programme>
 <programme start="20260411153000 +0000" stop="20260411173000 +0000" channel="Sky Sport Tennis HD.skyde">
-    <title>Live ATP 1000: HF2, Rolex Monte-Carlo Masters in Monte-Carlo, Doppel-Halbfinale 2</title>
+    <title>Live ATP 1000: K. Krawietz (GER) / T. Puetz (GER) - H. Nys (MON) / E. Roger-Vasselin (FRA), HF2, Rolex Monte-Carlo Masters in Monte-Carlo, Doppel-Halbfinale 2</title>
 </programme>
 <programme start="20260411173000 +0000" stop="20260411180000 +0000" channel="Sky Sport Tennis HD.skyde">
     <title>WTA: All Access Magazine Show</title>
 </programme>
 <programme start="20260411180000 +0000" stop="20260411200000 +0000" channel="Sky Sport Tennis HD.skyde">
-    <title>WTA 500: HF1, Upper Austria Ladies Linz in Linz (AUT), Halbfinale 1</title>
+    <title>WTA 500: M. Andreeva - E. Ruse (ROU), Upper Austria Ladies Linz in Linz (AUT), Halbfinale 1</title>
 </programme>
 <programme start="20260411200000 +0000" stop="20260411220000 +0000" channel="Sky Sport Tennis HD.skyde">
-    <title>WTA 500: HF2, Upper Austria Ladies Linz in Linz (AUT), Halbfinale 2</title>
+    <title>WTA 500: A. Potapova (AUT) - D. Vekic (CRO), Upper Austria Ladies Linz in Linz (AUT), Halbfinale 2</title>
 </programme>
 <programme start="20260410233000 +0000" stop="20260411013000 +0000" channel="Sky Sport Top Event HD.skyde">
     <title>PL: West Ham United - Wolverhampton Wanderers, 32. Spieltag</title>
@@ -3250,100 +3196,100 @@
 <programme start="20260411214000 +0000" stop="20260411222500 +0000" channel="SYFY HD.skyde">
     <title>Stargate SG-1</title>
 </programme>
-<programme start="20260410224500 +0000" stop="20260410232500 +0000" channel="Universal TV HD.skyde">
+<programme start="20260403224000 +0000" stop="20260403232500 +0000" channel="Universal TV HD.skyde">
     <title>Hawaii Five-0</title>
 </programme>
-<programme start="20260410232500 +0000" stop="20260411000500 +0000" channel="Universal TV HD.skyde">
-    <title>Hawaii Five-0</title>
-</programme>
-<programme start="20260411000500 +0000" stop="20260411003000 +0000" channel="Universal TV HD.skyde">
+<programme start="20260403232500 +0000" stop="20260403234500 +0000" channel="Universal TV HD.skyde">
     <title>Modern Family</title>
 </programme>
-<programme start="20260411003000 +0000" stop="20260411011000 +0000" channel="Universal TV HD.skyde">
+<programme start="20260403234500 +0000" stop="20260404002500 +0000" channel="Universal TV HD.skyde">
     <title>Chicago Med</title>
 </programme>
-<programme start="20260411011000 +0000" stop="20260411015000 +0000" channel="Universal TV HD.skyde">
+<programme start="20260404002500 +0000" stop="20260404011000 +0000" channel="Universal TV HD.skyde">
     <title>Chicago Med</title>
 </programme>
-<programme start="20260411015000 +0000" stop="20260411023000 +0000" channel="Universal TV HD.skyde">
+<programme start="20260404011000 +0000" stop="20260404015000 +0000" channel="Universal TV HD.skyde">
+    <title>Chicago P.D.</title>
+</programme>
+<programme start="20260404015000 +0000" stop="20260404023000 +0000" channel="Universal TV HD.skyde">
+    <title>Chicago P.D.</title>
+</programme>
+<programme start="20260404023000 +0000" stop="20260404031500 +0000" channel="Universal TV HD.skyde">
     <title>Chicago Fire</title>
 </programme>
-<programme start="20260411023000 +0000" stop="20260411031000 +0000" channel="Universal TV HD.skyde">
+<programme start="20260404031500 +0000" stop="20260404035500 +0000" channel="Universal TV HD.skyde">
     <title>Chicago Fire</title>
 </programme>
-<programme start="20260411031000 +0000" stop="20260411035000 +0000" channel="Universal TV HD.skyde">
+<programme start="20260404035500 +0000" stop="20260404044000 +0000" channel="Universal TV HD.skyde">
     <title>Chicago Fire</title>
 </programme>
-<programme start="20260411035000 +0000" stop="20260411043500 +0000" channel="Universal TV HD.skyde">
+<programme start="20260404044000 +0000" stop="20260404052500 +0000" channel="Universal TV HD.skyde">
+    <title>Chicago Med</title>
+</programme>
+<programme start="20260404052500 +0000" stop="20260404061500 +0000" channel="Universal TV HD.skyde">
+    <title>Hawaii Five-0</title>
+</programme>
+<programme start="20260404061500 +0000" stop="20260404070000 +0000" channel="Universal TV HD.skyde">
+    <title>Hawaii Five-0</title>
+</programme>
+<programme start="20260404070000 +0000" stop="20260404074000 +0000" channel="Universal TV HD.skyde">
+    <title>Hawaii Five-0</title>
+</programme>
+<programme start="20260404074000 +0000" stop="20260404082500 +0000" channel="Universal TV HD.skyde">
+    <title>Hawaii Five-0</title>
+</programme>
+<programme start="20260404082500 +0000" stop="20260404091000 +0000" channel="Universal TV HD.skyde">
+    <title>Hawaii Five-0</title>
+</programme>
+<programme start="20260404091000 +0000" stop="20260404095500 +0000" channel="Universal TV HD.skyde">
     <title>Bones - Die Knochenjägerin</title>
 </programme>
-<programme start="20260411043500 +0000" stop="20260411052000 +0000" channel="Universal TV HD.skyde">
-    <title>Chicago Med</title>
-</programme>
-<programme start="20260411052000 +0000" stop="20260411060500 +0000" channel="Universal TV HD.skyde">
-    <title>Hawaii Five-0</title>
-</programme>
-<programme start="20260411060500 +0000" stop="20260411065000 +0000" channel="Universal TV HD.skyde">
-    <title>Hawaii Five-0</title>
-</programme>
-<programme start="20260411065000 +0000" stop="20260411074000 +0000" channel="Universal TV HD.skyde">
-    <title>Hawaii Five-0</title>
-</programme>
-<programme start="20260411074000 +0000" stop="20260411082500 +0000" channel="Universal TV HD.skyde">
-    <title>Hawaii Five-0</title>
-</programme>
-<programme start="20260411082500 +0000" stop="20260411091000 +0000" channel="Universal TV HD.skyde">
-    <title>Hawaii Five-0</title>
-</programme>
-<programme start="20260411091000 +0000" stop="20260411095500 +0000" channel="Universal TV HD.skyde">
+<programme start="20260404095500 +0000" stop="20260404104500 +0000" channel="Universal TV HD.skyde">
     <title>Bones - Die Knochenjägerin</title>
 </programme>
-<programme start="20260411095500 +0000" stop="20260411104500 +0000" channel="Universal TV HD.skyde">
-    <title>Bones - Die Knochenjägerin</title>
-</programme>
-<programme start="20260411104500 +0000" stop="20260411113000 +0000" channel="Universal TV HD.skyde">
+<programme start="20260404104500 +0000" stop="20260404113000 +0000" channel="Universal TV HD.skyde">
     <title>Chicago Med</title>
 </programme>
-<programme start="20260411113000 +0000" stop="20260411121500 +0000" channel="Universal TV HD.skyde">
+<programme start="20260404113000 +0000" stop="20260404121500 +0000" channel="Universal TV HD.skyde">
     <title>Chicago Med</title>
 </programme>
-<programme start="20260411121500 +0000" stop="20260411125500 +0000" channel="Universal TV HD.skyde">
+<programme start="20260404121500 +0000" stop="20260404130000 +0000" channel="Universal TV HD.skyde">
     <title>Chicago Fire</title>
 </programme>
-<programme start="20260411125500 +0000" stop="20260411134000 +0000" channel="Universal TV HD.skyde">
+<programme start="20260404130000 +0000" stop="20260404134500 +0000" channel="Universal TV HD.skyde">
     <title>Chicago Fire</title>
 </programme>
-<programme start="20260411134000 +0000" stop="20260411142500 +0000" channel="Universal TV HD.skyde">
+<programme start="20260404134500 +0000" stop="20260404143000 +0000" channel="Universal TV HD.skyde">
     <title>Chicago Fire</title>
 </programme>
-<programme start="20260411142500 +0000" stop="20260411151000 +0000" channel="Universal TV HD.skyde">
+<programme start="20260404143000 +0000" stop="20260404151000 +0000" channel="Universal TV HD.skyde">
     <title>S.W.A.T.</title>
 </programme>
-<programme start="20260411151000 +0000" stop="20260411155500 +0000" channel="Universal TV HD.skyde">
+<programme start="20260404151000 +0000" stop="20260404155500 +0000" channel="Universal TV HD.skyde">
     <title>S.W.A.T.</title>
 </programme>
-<programme start="20260411155500 +0000" stop="20260411164000 +0000" channel="Universal TV HD.skyde">
+<programme start="20260404155500 +0000" stop="20260404164000 +0000" channel="Universal TV HD.skyde">
     <title>Bones - Die Knochenjägerin</title>
 </programme>
-<programme start="20260411164000 +0000" stop="20260411173000 +0000" channel="Universal TV HD.skyde">
+<programme start="20260404164000 +0000" stop="20260404173000 +0000" channel="Universal TV HD.skyde">
     <title>Bones - Die Knochenjägerin</title>
 </programme>
-<programme start="20260411173000 +0000" stop="20260411181500 +0000" channel="Universal TV HD.skyde">
+<programme start="20260404173000 +0000" stop="20260404181500 +0000" channel="Universal TV HD.skyde">
     <title>Bones - Die Knochenjägerin</title>
 </programme>
-<programme start="20260411181500 +0000" stop="20260411185500 +0000" channel="Universal TV HD.skyde">
+<programme start="20260404181500 +0000" stop="20260404190000 +0000" channel="Universal TV HD.skyde">
     <title>S.W.A.T.</title>
 </programme>
-<programme start="20260411185500 +0000" stop="20260411194000 +0000" channel="Universal TV HD.skyde">
+<programme start="20260404190000 +0000" stop="20260404194000 +0000" channel="Universal TV HD.skyde">
     <title>S.W.A.T.</title>
 </programme>
-<programme start="20260411194000 +0000" stop="20260411202500 +0000" channel="Universal TV HD.skyde">
+<programme start="20260404194000 +0000" stop="20260404203000 +0000" channel="Universal TV HD.skyde">
     <title>Bones - Die Knochenjägerin</title>
 </programme>
-<programme start="20260411202500 +0000" stop="20260411211500 +0000" channel="Universal TV HD.skyde">
+<programme start="20260404203000 +0000" stop="20260404211500 +0000" channel="Universal TV HD.skyde">
     <title>Bones - Die Knochenjägerin</title>
 </programme>
-<programme start="20260411211500 +0000" stop="20260411220000 +0000" channel="Universal TV HD.skyde">
+<programme start="20260404211500 +0000" stop="20260404220000 +0000" channel="Universal TV HD.skyde">
     <title>Bones - Die Knochenjägerin</title>
 </programme>
 <programme start="20260410222000 +0000" stop="20260410224000 +0000" channel="Warner TV Comedy HD.skyde">
