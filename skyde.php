@@ -2512,26 +2512,26 @@
 <programme start="20260411143000 +0000" stop="20260411145000 +0000" channel="Sky Sport Austria 3 HD.skyde">
     <title>Es folgt: LIVE Admiral BL</title>
 </programme>
-<programme start="20260411145000 +0000" stop="20260411171500 +0000" channel="Sky Sport Austria 3 HD.skyde">
+<programme start="20260411145000 +0000" stop="20260411174500 +0000" channel="Sky Sport Austria 3 HD.skyde">
     <title>Live Admiral BL: SCR Altach - Grazer AK 1902, 26. Runde</title>
 </programme>
 <programme start="20260411084000 +0000" stop="20260411090000 +0000" channel="Sky Sport Austria 4 HD.skyde">
     <title>Es folgt: LIVE ATP World Tour</title>
 </programme>
 <programme start="20260411090000 +0000" stop="20260411110000 +0000" channel="Sky Sport Austria 4 HD.skyde">
-    <title>Live ATP 1000: G. Andreozzi (ARG) / M. Guinard (FRA) - M. Arevalo (ESA) / M. Pavic (CRO), Rolex Monte-Carlo Masters in Monte-Carlo, Doppel-Halbfinale 1</title>
+    <title>Live ATP 1000: HF1, Rolex Monte-Carlo Masters in Monte-Carlo, Doppel-Halbfinale 1</title>
 </programme>
 <programme start="20260411110000 +0000" stop="20260411112500 +0000" channel="Sky Sport Austria 4 HD.skyde">
     <title>ATP: The Impossible Shot - Behind The Scenes</title>
 </programme>
 <programme start="20260411112500 +0000" stop="20260411133000 +0000" channel="Sky Sport Austria 4 HD.skyde">
-    <title>Live ATP 1000: A. Zverev (GER) - J. Sinner (ITA), Rolex Monte-Carlo Masters in Monte-Carlo, Halbfinale 1</title>
+    <title>Live ATP 1000: HF1, Rolex Monte-Carlo Masters in Monte-Carlo, Halbfinale 1</title>
 </programme>
 <programme start="20260411133000 +0000" stop="20260411153000 +0000" channel="Sky Sport Austria 4 HD.skyde">
-    <title>Live ATP 1000: C. Alcaraz (ESP) - V. Vacherot (MON), Rolex Monte-Carlo Masters in Monte-Carlo, Halbfinale 2</title>
+    <title>Live ATP 1000: HF2, Rolex Monte-Carlo Masters in Monte-Carlo, Halbfinale 2</title>
 </programme>
-<programme start="20260411153000 +0000" stop="20260411193000 +0000" channel="Sky Sport Austria 4 HD.skyde">
-    <title>Live ATP 1000: K. Krawietz (GER) / T. Puetz (GER) - H. Nys (MON) / E. Roger-Vasselin (FRA), HF2, Rolex Monte-Carlo Masters in Monte-Carlo, Doppel-Halbfinale 2</title>
+<programme start="20260411153000 +0000" stop="20260411173000 +0000" channel="Sky Sport Austria 4 HD.skyde">
+    <title>Live ATP 1000: HF2, Rolex Monte-Carlo Masters in Monte-Carlo, Doppel-Halbfinale 2</title>
 </programme>
 <programme start="20260410223000 +0000" stop="20260411003000 +0000" channel="Sky Sport Bundesliga HD.skyde">
     <title>BL: FC Augsburg - TSG Hoffenheim, Flutlicht-Freitag, 29. Spieltag</title>
@@ -2641,7 +2641,7 @@
 <programme start="20260411131500 +0000" stop="20260411154500 +0000" channel="Sky Sport Bundesliga 1 HD.skyde">
     <title>Live BL: Borussia Dortmund - Bayer Leverkusen, 29. Spieltag</title>
 </programme>
-<programme start="20260411154500 +0000" stop="20260411194500 +0000" channel="Sky Sport Bundesliga 1 HD.skyde">
+<programme start="20260411154500 +0000" stop="20260411191500 +0000" channel="Sky Sport Bundesliga 1 HD.skyde">
     <title>Live BL: FC St. Pauli - FC Bayern München, tipico Topspiel der Woche, 29. Spieltag</title>
 </programme>
 <programme start="20260411101000 +0000" stop="20260411103000 +0000" channel="Sky Sport Bundesliga 2 HD.skyde">
@@ -2665,7 +2665,7 @@
 <programme start="20260411180000 +0000" stop="20260411210000 +0000" channel="Sky Sport Bundesliga 2 HD.skyde">
     <title>Live 2. BL: SV Darmstadt 98 - Hannover 96, tipico Topspiel der Woche, 29. Spieltag</title>
 </programme>
-<programme start="20260411210000 +0000" stop="20260411223000 +0000" channel="Sky Sport Bundesliga 2 HD.skyde">
+<programme start="20260411210000 +0000" stop="20260411220000 +0000" channel="Sky Sport Bundesliga 2 HD.skyde">
     <title>2. BL Alle Spiele, alle Tore: Die Vodafone Highlight-Show, 29. Spieltag, Samstag komplett</title>
 </programme>
 <programme start="20260411101000 +0000" stop="20260411103000 +0000" channel="Sky Sport Bundesliga 3 HD.skyde">
@@ -2692,7 +2692,7 @@
 <programme start="20260411130000 +0000" stop="20260411131500 +0000" channel="Sky Sport Bundesliga 4 HD.skyde">
     <title>Live BL: FCH - FCU: tipico Countdown, 29. Spieltag</title>
 </programme>
-<programme start="20260411131500 +0000" stop="20260411161500 +0000" channel="Sky Sport Bundesliga 4 HD.skyde">
+<programme start="20260411131500 +0000" stop="20260411154500 +0000" channel="Sky Sport Bundesliga 4 HD.skyde">
     <title>Live BL: 1. FC Heidenheim - 1. FC Union Berlin, 29. Spieltag</title>
 </programme>
 <programme start="20260411101000 +0000" stop="20260411103000 +0000" channel="Sky Sport Bundesliga 5 HD.skyde">
@@ -2710,7 +2710,7 @@
 <programme start="20260411103000 +0000" stop="20260411130000 +0000" channel="Sky Sport Bundesliga 6 HD.skyde">
     <title>Live 2. BL: Multiview 29. Spieltag, Samstag</title>
 </programme>
-<programme start="20260411130000 +0000" stop="20260411161500 +0000" channel="Sky Sport Bundesliga 6 HD.skyde">
+<programme start="20260411130000 +0000" stop="20260411154500 +0000" channel="Sky Sport Bundesliga 6 HD.skyde">
     <title>Live BL: Multiview 29. Spieltag</title>
 </programme>
 <programme start="20260411101000 +0000" stop="20260411103000 +0000" channel="Sky Sport Bundesliga 7 HD.skyde">
@@ -3011,10 +3011,10 @@
     <title>PL: FC Liverpool - FC Fulham, 32. Spieltag</title>
 </programme>
 <programme start="20260410230000 +0000" stop="20260411010000 +0000" channel="Sky Sport Tennis HD.skyde">
-    <title>ATP 1000: VF3, Rolex Monte-Carlo Masters in Monte-Carlo, Viertelfinale 3</title>
+    <title>ATP 1000: C. Alcaraz (ESP) - A. Bublik (KAZ), Rolex Monte-Carlo Masters in Monte-Carlo, Viertelfinale 3</title>
 </programme>
 <programme start="20260411010000 +0000" stop="20260411030000 +0000" channel="Sky Sport Tennis HD.skyde">
-    <title>ATP 1000: VF4, Rolex Monte-Carlo Masters in Monte-Carlo, Viertelfinale 4</title>
+    <title>ATP 1000: A. de Minaur (AUS) - V. Vacherot (MON) , Rolex Monte-Carlo Masters in Monte-Carlo, Viertelfinale 4</title>
 </programme>
 <programme start="20260411030000 +0000" stop="20260411040000 +0000" channel="Sky Sport Tennis HD.skyde">
     <title>ATP 1000: Review Miami</title>
@@ -3023,34 +3023,34 @@
     <title>ATP: This Week</title>
 </programme>
 <programme start="20260411043000 +0000" stop="20260411063000 +0000" channel="Sky Sport Tennis HD.skyde">
-    <title>WTA 500: Topspiel, Upper Austria Ladies Linz in Linz (AUT), 5. Tag</title>
+    <title>WTA 500: A. Potapova (AUT) - L. Tagger (AUT), Upper Austria Ladies Linz in Linz (AUT), 5. Tag</title>
 </programme>
 <programme start="20260411063000 +0000" stop="20260411070000 +0000" channel="Sky Sport Tennis HD.skyde">
     <title>WTA: All Access Magazine Show</title>
 </programme>
 <programme start="20260411070000 +0000" stop="20260411090000 +0000" channel="Sky Sport Tennis HD.skyde">
-    <title>ATP 1000: VF4, Rolex Monte-Carlo Masters in Monte-Carlo, Viertelfinale 4</title>
+    <title>ATP 1000: A. de Minaur (AUS) - V. Vacherot (MON) , Rolex Monte-Carlo Masters in Monte-Carlo, Viertelfinale 4</title>
 </programme>
 <programme start="20260411090000 +0000" stop="20260411110000 +0000" channel="Sky Sport Tennis HD.skyde">
-    <title>Live ATP 1000: HF1, Rolex Monte-Carlo Masters in Monte-Carlo, Doppel-Halbfinale 1</title>
+    <title>Live ATP 1000: G. Andreozzi (ARG) / M. Guinard (FRA) - M. Arevalo (ESA) / M. Pavic (CRO), Rolex Monte-Carlo Masters in Monte-Carlo, Doppel-Halbfinale 1</title>
 </programme>
 <programme start="20260411110000 +0000" stop="20260411112500 +0000" channel="Sky Sport Tennis HD.skyde">
     <title>ATP: The Impossible Shot - Behind The Scenes</title>
 </programme>
 <programme start="20260411112500 +0000" stop="20260411133000 +0000" channel="Sky Sport Tennis HD.skyde">
-    <title>Live ATP 1000: HF1, Rolex Monte-Carlo Masters in Monte-Carlo, Halbfinale 1</title>
+    <title>Live ATP 1000: A. Zverev (GER) - J. Sinner (ITA), Rolex Monte-Carlo Masters in Monte-Carlo, Halbfinale 1</title>
 </programme>
 <programme start="20260411133000 +0000" stop="20260411153000 +0000" channel="Sky Sport Tennis HD.skyde">
-    <title>Live ATP 1000: HF2, Rolex Monte-Carlo Masters in Monte-Carlo, Halbfinale 2</title>
+    <title>Live ATP 1000: tba - C. Alcaraz (ESP), Rolex Monte-Carlo Masters in Monte-Carlo, Halbfinale 2</title>
 </programme>
 <programme start="20260411153000 +0000" stop="20260411173000 +0000" channel="Sky Sport Tennis HD.skyde">
-    <title>Live ATP 1000: HF2, Rolex Monte-Carlo Masters in Monte-Carlo, Doppel-Halbfinale 2</title>
+    <title>Live ATP 1000: K. Krawietz (GER) / T. Puetz (GER) - H. Nys (MON) / E. Roger-Vasselin (FRA), HF2, Rolex Monte-Carlo Masters in Monte-Carlo, Doppel-Halbfinale 2</title>
 </programme>
 <programme start="20260411173000 +0000" stop="20260411180000 +0000" channel="Sky Sport Tennis HD.skyde">
     <title>WTA: All Access Magazine Show</title>
 </programme>
 <programme start="20260411180000 +0000" stop="20260411200000 +0000" channel="Sky Sport Tennis HD.skyde">
-    <title>WTA 500: HF1, Upper Austria Ladies Linz in Linz (AUT), Halbfinale 1</title>
+    <title>WTA 500: M. Andreeva - E. Ruse (ROU), Upper Austria Ladies Linz in Linz (AUT), Halbfinale 1</title>
 </programme>
 <programme start="20260411200000 +0000" stop="20260411220000 +0000" channel="Sky Sport Tennis HD.skyde">
     <title>WTA 500: HF2, Upper Austria Ladies Linz in Linz (AUT), Halbfinale 2</title>
@@ -3103,7 +3103,7 @@
 <programme start="20260411133000 +0000" stop="20260411135000 +0000" channel="Sky Sport 8 HD.skyde">
     <title>Es folgt: LIVE PL</title>
 </programme>
-<programme start="20260411135000 +0000" stop="20260411160000 +0000" channel="Sky Sport 8 HD.skyde">
+<programme start="20260411135000 +0000" stop="20260411163000 +0000" channel="Sky Sport 8 HD.skyde">
     <title>Live PL: FC Burnley - Brighton &amp; Hove Albion, 32. Spieltag</title>
 </programme>
 <programme start="20260410220000 +0000" stop="20260410224500 +0000" channel="SYFY HD.skyde">
