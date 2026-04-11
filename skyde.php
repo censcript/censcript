@@ -2791,16 +2791,16 @@
 <programme start="20260411084000 +0000" stop="20260411093500 +0000" channel="Sky Sport Golf HD.skyde">
     <title>The Masters: Official Film 2019 (Tiger Woods)</title>
 </programme>
-<programme start="20260411093500 +0000" stop="20260411100500 +0000" channel="Sky Sport Golf HD.skyde">
-    <title>The Masters: Official Film 1985 (Bernhard Langer)</title>
+<programme start="20260411093500 +0000" stop="20260411103000 +0000" channel="Sky Sport Golf HD.skyde">
+    <title>The Masters: Official Film 2022 (Scottie Scheffler)</title>
 </programme>
-<programme start="20260411100500 +0000" stop="20260411105000 +0000" channel="Sky Sport Golf HD.skyde">
+<programme start="20260411103000 +0000" stop="20260411111500 +0000" channel="Sky Sport Golf HD.skyde">
     <title>The Masters: McIlroy&#039;s Masterpiece</title>
 </programme>
-<programme start="20260411105000 +0000" stop="20260411135000 +0000" channel="Sky Sport Golf HD.skyde">
+<programme start="20260411111500 +0000" stop="20260411141500 +0000" channel="Sky Sport Golf HD.skyde">
     <title>The Masters: 2. Tag in Augusta, GA (USA)</title>
 </programme>
-<programme start="20260411135000 +0000" stop="20260411160000 +0000" channel="Sky Sport Golf HD.skyde">
+<programme start="20260411141500 +0000" stop="20260411160000 +0000" channel="Sky Sport Golf HD.skyde">
     <title>Live The Masters: 3. Tag in Augusta (Early Coverage)</title>
 </programme>
 <programme start="20260411160000 +0000" stop="20260411230000 +0000" channel="Sky Sport Golf HD.skyde">
@@ -3103,7 +3103,7 @@
 <programme start="20260411133000 +0000" stop="20260411135000 +0000" channel="Sky Sport 8 HD.skyde">
     <title>Es folgt: LIVE PL</title>
 </programme>
-<programme start="20260411135000 +0000" stop="20260411160000 +0000" channel="Sky Sport 8 HD.skyde">
+<programme start="20260411135000 +0000" stop="20260411163000 +0000" channel="Sky Sport 8 HD.skyde">
     <title>Live PL: FC Burnley - Brighton &amp; Hove Albion, 32. Spieltag</title>
 </programme>
 <programme start="20260410220000 +0000" stop="20260410224500 +0000" channel="SYFY HD.skyde">
