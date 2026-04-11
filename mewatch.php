@@ -715,10 +715,10 @@
     <programme start="20260411095500 +0000" stop="20260411104500 +0000" channel="Live 5.mewatch">
         <title>No Programme available now. Next Broadcast on 11th April, Saturday 6.45pm. FIBA 3x3 World Cup Qualifier 2026</title>
     </programme>
-    <programme start="20260411104500 +0000" stop="20260411133000 +0000" channel="Live 5.mewatch">
+    <programme start="20260411104500 +0000" stop="20260411134000 +0000" channel="Live 5.mewatch">
         <title>FIBA 3x3 World Cup Qualifier 2026</title>
     </programme>
-    <programme start="20260411133000 +0000" stop="20260411160000 +0000" channel="Live 5.mewatch">
+    <programme start="20260411134000 +0000" stop="20260411160000 +0000" channel="Live 5.mewatch">
         <title>No Programme available now. Next Broadcast on 12th April, Sunday 5.50pm. FIBA 3x3 World Cup Qualifier 2026</title>
     </programme>
     <programme start="20260411160000 +0000" stop="20260412095000 +0000" channel="Live 5.mewatch">

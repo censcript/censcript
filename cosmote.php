@@ -82,10 +82,6 @@
     <title>Football: Parma - SSC Napoli (L)</title>
     <desc>Live: Ya</desc>
 </programme>
-<programme start="20260411183000 +0700" stop="20260411203000 +0700" channel="COSMOTE Sport 2 HD">
-    <title>Football: Norwich City - Ipswich Town (L)</title>
-    <desc>Live: Ya</desc>
-</programme>
 <programme start="20260411203000 +0700" stop="20260411224500 +0700" channel="COSMOTE Sport 2 HD">
     <title>Football: Volos NPS - OFI</title>
     <desc>Live: Tidak</desc>
@@ -158,8 +154,8 @@
     <title>Sports Classics: My Sporting Moment</title>
     <desc>Live: Tidak</desc>
 </programme>
-<programme start="20260411190000 +0700" stop="20260411210000 +0700" channel="COSMOTE Sport 3 HD">
-    <title>Football: Famalicao - Moreirense</title>
+<programme start="20260412210000 +0700" stop="20260412231000 +0700" channel="COSMOTE Sport 2 HD">
+    <title>Football: AEL Novibet - Panetolikos</title>
     <desc>Live: Tidak</desc>
 </programme>
 <programme start="20260411210000 +0700" stop="20260411230000 +0700" channel="COSMOTE Sport 3 HD">
@@ -310,8 +306,8 @@
     <title>NBA Specials</title>
     <desc>Live: Tidak</desc>
 </programme>
-<programme start="20260411194500 +0700" stop="20260411203500 +0700" channel="COSMOTE Sport 5 HD">
-    <title>WRC 2026</title>
+<programme start="20260412211000 +0700" stop="20260412220000 +0700" channel="COSMOTE Sport 4 HD">
+    <title>NBA Specials: Basketball Stories</title>
     <desc>Live: Tidak</desc>
 </programme>
 <programme start="20260411203500 +0700" stop="20260411214000 +0700" channel="COSMOTE Sport 5 HD">
@@ -406,9 +402,13 @@
     <title>2026 Grand Prix Show</title>
     <desc>Live: Tidak</desc>
 </programme>
-<programme start="20260411183000 +0700" stop="20260411203000 +0700" channel="COSMOTE Sport 6 HD">
-    <title>Tennis: Alexander Zverev - Jannik Sinner (L)</title>
-    <desc>Live: Ya</desc>
+<programme start="20260412210500 +0700" stop="20260412213500 +0700" channel="COSMOTE Sport 5 HD">
+    <title>FIA Championship Middle East 2026</title>
+    <desc>Live: Tidak</desc>
+</programme>
+<programme start="20260412213500 +0700" stop="20260412224000 +0700" channel="COSMOTE Sport 5 HD">
+    <title>Highlights: 2026 FIA World Championship</title>
+    <desc>Live: Tidak</desc>
 </programme>
 <programme start="20260411203000 +0700" stop="20260411230000 +0700" channel="COSMOTE Sport 6 HD">
     <title>Tennis: Carlos Alcaraz - Valentin Vacherot (L)</title>
