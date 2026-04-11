@@ -781,9 +781,6 @@
 <programme start="20260411010000 +0000" stop="20260411020000 +0000" channel="TVOne.vision">
 <title>Inspirasi Pagi</title>
 </programme>
-<programme start="20260411020000 +0000" stop="20260411023000 +0000" channel="TVOne.vision">
-<title>Pesona Nusantara</title>
-</programme>
 <programme start="20260411023000 +0000" stop="20260411030000 +0000" channel="TVOne.vision">
 <title>Xpose</title>
 </programme>
@@ -1497,4 +1494,7 @@
 </programme>
 <programme start="20260411020000 +0000" stop="20260411030000 +0000" channel="JAK TV.vision">
 <title>Lejel</title>
+</programme>
+<programme start="20260411030000 +0000" stop="20260411033000 +0000" channel="JAK TV.vision">
+<title>Rev</title>
 </programme>

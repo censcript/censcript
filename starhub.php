@@ -7463,7 +7463,7 @@
         <title>BBC News</title>
     </programme>
     <programme start="20260411053000 +0000" stop="20260411060000 +0000" channel="BBC World News HD.starhub">
-        <title>AI Decoded</title>
+        <title>The Climate Question: How do the Oceans Shape Our World?</title>
     </programme>
     <programme start="20260411060000 +0000" stop="20260411063000 +0000" channel="BBC World News HD.starhub">
         <title>BBC News</title>
@@ -7508,7 +7508,7 @@
         <title>BBC News</title>
     </programme>
     <programme start="20260411133000 +0000" stop="20260411140000 +0000" channel="BBC World News HD.starhub">
-        <title>AI Decoded</title>
+        <title>The Climate Question: How do the Oceans Shape Our World?</title>
     </programme>
     <programme start="20260411140000 +0000" stop="20260411143000 +0000" channel="BBC World News HD.starhub">
         <title>BBC News</title>
@@ -7924,10 +7924,10 @@
     <programme start="20260410232000 +0000" stop="20260411013000 +0000" channel="Asianet Movies.starhub">
         <title>Thinkal Muthal Velli Vare</title>
     </programme>
-    <programme start="20260411013000 +0000" stop="20260411043000 +0000" channel="Asianet Movies.starhub">
+    <programme start="20260411013000 +0000" stop="20260411042500 +0000" channel="Asianet Movies.starhub">
         <title>Thejabhai &amp; Family</title>
     </programme>
-    <programme start="20260411043000 +0000" stop="20260411073000 +0000" channel="Asianet Movies.starhub">
+    <programme start="20260411042500 +0000" stop="20260411073000 +0000" channel="Asianet Movies.starhub">
         <title>Chandrolsavam</title>
     </programme>
     <programme start="20260411073000 +0000" stop="20260411103000 +0000" channel="Asianet Movies.starhub">
@@ -7936,7 +7936,7 @@
     <programme start="20260411103000 +0000" stop="20260411133000 +0000" channel="Asianet Movies.starhub">
         <title>Asuran</title>
     </programme>
-    <programme start="20260411133000 +0000" stop="20260411163000 +0000" channel="Asianet Movies.starhub">
+    <programme start="20260411133000 +0000" stop="20260411160500 +0000" channel="Asianet Movies.starhub">
         <title>Narivetta</title>
     </programme>
     <programme start="20260410160000 +0000" stop="20260410170000 +0000" channel="Astro Warna HD.starhub">
@@ -8059,11 +8059,11 @@
     <programme start="20260411065500 +0000" stop="20260411090000 +0000" channel="SPOTV2.starhub">
         <title>25/26 A-League Men Round 24 Newcastle Jets FC vs Adelaide United (Live)</title>
     </programme>
-    <programme start="20260411090000 +0000" stop="20260411114500 +0000" channel="SPOTV2.starhub">
-        <title>10/4 2026 MLB Regular Season San Diego Padres vs Colorado Rockies</title>
+    <programme start="20260411090000 +0000" stop="20260411153000 +0000" channel="SPOTV2.starhub">
+        <title>Round 2</title>
     </programme>
-    <programme start="20260411114500 +0000" stop="20260411161500 +0000" channel="SPOTV2.starhub">
-        <title>Randox Grand National 2026 (Live)</title>
+    <programme start="20260411153000 +0000" stop="20260411161500 +0000" channel="SPOTV2.starhub">
+        <title>World Baseball Classic -2017 Recap</title>
     </programme>
     <programme start="20260410153000 +0000" stop="20260410170000 +0000" channel="Dragon TV.starhub">
         <title>go fighting</title>
