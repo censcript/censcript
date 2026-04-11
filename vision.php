@@ -625,9 +625,6 @@
 <programme start="20260411090000 +0000" stop="20260411110000 +0000" channel="ANTV.vision">
 <title>Vasudha</title>
 </programme>
-<programme start="20260411110000 +0000" stop="20260411130000 +0000" channel="ANTV.vision">
-<title>Primitif</title>
-</programme>
 <programme start="20260411130000 +0000" stop="20260411143000 +0000" channel="ANTV.vision">
 <title>Bernapas Dalam Lumpur</title>
 </programme>
@@ -1497,4 +1494,7 @@
 </programme>
 <programme start="20260411040000 +0000" stop="20260411043000 +0000" channel="JAK TV.vision">
 <title>IBL Best Shoot</title>
+</programme>
+<programme start="20260411043000 +0000" stop="20260411050000 +0000" channel="JAK TV.vision">
+<title>Aroma Puncak Borneo</title>
 </programme>

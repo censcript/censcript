@@ -487,25 +487,25 @@
   <programme start="20260413040000 +0000" stop="20260413062500 +0000" channel="Markíza.webtv.sk">
     <title lang="id">Teleráno</title>
   </programme>
-  <programme start="20260413062500 +0000" stop="20260413074500 +0000" channel="Markíza.webtv.sk">
+  <programme start="20260413062500 +0000" stop="20260413075000 +0000" channel="Markíza.webtv.sk">
     <title lang="id">Zámena manželiek</title>
   </programme>
-  <programme start="20260413074500 +0000" stop="20260413085000 +0000" channel="Markíza.webtv.sk">
+  <programme start="20260413075000 +0000" stop="20260413085500 +0000" channel="Markíza.webtv.sk">
     <title lang="id">Sľub III (52)</title>
   </programme>
-  <programme start="20260413085000 +0000" stop="20260413095500 +0000" channel="Markíza.webtv.sk">
+  <programme start="20260413085500 +0000" stop="20260413100000 +0000" channel="Markíza.webtv.sk">
     <title lang="id">Rodinné prípady (19)</title>
   </programme>
-  <programme start="20260413095500 +0000" stop="20260413105500 +0000" channel="Markíza.webtv.sk">
+  <programme start="20260413100000 +0000" stop="20260413110000 +0000" channel="Markíza.webtv.sk">
     <title lang="id">Rodinné prípady (10)</title>
   </programme>
-  <programme start="20260413105500 +0000" stop="20260413115500 +0000" channel="Markíza.webtv.sk">
+  <programme start="20260413110000 +0000" stop="20260413120000 +0000" channel="Markíza.webtv.sk">
     <title lang="id">Mentalista I (9)</title>
   </programme>
-  <programme start="20260413115500 +0000" stop="20260413125500 +0000" channel="Markíza.webtv.sk">
+  <programme start="20260413120000 +0000" stop="20260413130000 +0000" channel="Markíza.webtv.sk">
     <title lang="id">Mentalista I (10)</title>
   </programme>
-  <programme start="20260413125500 +0000" stop="20260413140000 +0000" channel="Markíza.webtv.sk">
+  <programme start="20260413130000 +0000" stop="20260413140000 +0000" channel="Markíza.webtv.sk">
     <title lang="id">Susedské prípady (22)</title>
   </programme>
   <programme start="20260413140000 +0000" stop="20260413150000 +0000" channel="Markíza.webtv.sk">

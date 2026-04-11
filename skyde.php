@@ -2680,7 +2680,7 @@
 <programme start="20260411131500 +0000" stop="20260411154500 +0000" channel="Sky Sport Bundesliga 3 HD.skyde">
     <title>Live BL: VfL Wolfsburg - Eintracht Frankfurt, 29. Spieltag</title>
 </programme>
-<programme start="20260411154500 +0000" stop="20260411194500 +0000" channel="Sky Sport Bundesliga 3 HD.skyde">
+<programme start="20260411154500 +0000" stop="20260411191500 +0000" channel="Sky Sport Bundesliga 3 HD.skyde">
     <title>Live BL: Tactical Feed: STP - FCB, 29. Spieltag</title>
 </programme>
 <programme start="20260411101000 +0000" stop="20260411103000 +0000" channel="Sky Sport Bundesliga 4 HD.skyde">
