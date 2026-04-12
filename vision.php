@@ -622,6 +622,9 @@
 <programme start="20260412090000 +0000" stop="20260412110000 +0000" channel="ANTV.vision">
 <title>Vasudha</title>
 </programme>
+<programme start="20260412110000 +0000" stop="20260412130000 +0000" channel="ANTV.vision">
+<title>Golok Setan</title>
+</programme>
 <programme start="20260412130000 +0000" stop="20260412143000 +0000" channel="ANTV.vision">
 <title>Nyi Ageng Ratu Pemikat</title>
 </programme>
@@ -1493,8 +1496,5 @@
 <title>Malam-Malam</title>
 </programme>
 <programme start="20260412170500 +0000" stop="20260412183500 +0000" channel="MDTV.vision">
-<title>MDTV</title>
-</programme>
-<programme start="20260412183500 +0000" stop="20260412194000 +0000" channel="MDTV.vision">
 <title>MDTV</title>
 </programme>

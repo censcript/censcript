@@ -2553,10 +2553,10 @@ Warning: Undefined array key "et" in /usr/home/ManusiaBiasa/domains/manusiabiasa
 <programme start="20260412100000 +0000" stop="20260412110000 +0000" channel="Sky Sport Bundesliga HD.skyde">
     <title>BL: Alle Spiele, alle Stimmen, 29. Spieltag</title>
 </programme>
-<programme start="20260412110000 +0000" stop="20260412133500 +0000" channel="Sky Sport Bundesliga HD.skyde">
+<programme start="20260412110000 +0000" stop="20260412133000 +0000" channel="Sky Sport Bundesliga HD.skyde">
     <title>Live 2. BL: Sonntags-Konferenz, 29. Spieltag</title>
 </programme>
-<programme start="20260412133500 +0000" stop="20260412143000 +0000" channel="Sky Sport Bundesliga HD.skyde">
+<programme start="20260412133000 +0000" stop="20260412143000 +0000" channel="Sky Sport Bundesliga HD.skyde">
     <title>Live 2. BL Alle Spiele, alle Tore: Die Vodafone Highlight-Show, 29. Spieltag, Sonntag</title>
 </programme>
 <programme start="20260412143000 +0000" stop="20260412153000 +0000" channel="Sky Sport Bundesliga HD.skyde">
@@ -2622,10 +2622,10 @@ Warning: Undefined array key "et" in /usr/home/ManusiaBiasa/domains/manusiabiasa
 <programme start="20260412104000 +0000" stop="20260412110000 +0000" channel="Sky Sport Bundesliga 1 HD.skyde">
     <title>Es folgt: LIVE 2. Liga</title>
 </programme>
-<programme start="20260412110000 +0000" stop="20260412133500 +0000" channel="Sky Sport Bundesliga 1 HD.skyde">
+<programme start="20260412110000 +0000" stop="20260412133000 +0000" channel="Sky Sport Bundesliga 1 HD.skyde">
     <title>Live 2. BL: Sonntags-Konferenz, 29. Spieltag</title>
 </programme>
-<programme start="20260412133500 +0000" stop="20260412143000 +0000" channel="Sky Sport Bundesliga 1 HD.skyde">
+<programme start="20260412133000 +0000" stop="20260412143000 +0000" channel="Sky Sport Bundesliga 1 HD.skyde">
     <title>Live 2. BL Alle Spiele, alle Tore: Die Vodafone Highlight-Show, 29. Spieltag, Sonntag</title>
 </programme>
 <programme start="20260412143000 +0000" stop="20260412153000 +0000" channel="Sky Sport Bundesliga 1 HD.skyde">
@@ -2643,10 +2643,10 @@ Warning: Undefined array key "et" in /usr/home/ManusiaBiasa/domains/manusiabiasa
 <programme start="20260412104000 +0000" stop="20260412110000 +0000" channel="Sky Sport Bundesliga 2 HD.skyde">
     <title>Es folgt: LIVE 2. Liga</title>
 </programme>
-<programme start="20260412110000 +0000" stop="20260412140000 +0000" channel="Sky Sport Bundesliga 2 HD.skyde">
+<programme start="20260412110000 +0000" stop="20260412133000 +0000" channel="Sky Sport Bundesliga 2 HD.skyde">
     <title>Live 2. BL: SV Elversberg - FC Schalke 04, 29. Spieltag</title>
 </programme>
-<programme start="20260412140000 +0000" stop="20260412153000 +0000" channel="Sky Sport Bundesliga 2 HD.skyde">
+<programme start="20260412133000 +0000" stop="20260412153000 +0000" channel="Sky Sport Bundesliga 2 HD.skyde">
     <title>Es folgt: BL Re-Live</title>
 </programme>
 <programme start="20260412153000 +0000" stop="20260412173000 +0000" channel="Sky Sport Bundesliga 2 HD.skyde">
