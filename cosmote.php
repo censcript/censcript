@@ -62,12 +62,12 @@
     <title>Football: SC Braga - Real Betis Balompie</title>
     <desc>Live: Tidak</desc>
 </programme>
-<programme start="20260412200000 +0700" stop="20260412203000 +0700" channel="COSMOTE Sport 2 HD">
-    <title>Sports Classics: My Sporting Moment</title>
+<programme start="20260413210000 +0700" stop="20260413213000 +0700" channel="COSMOTE Sport 1 HD">
+    <title>UEFA Champions League Magazine 2024-25 E28</title>
     <desc>Live: Tidak</desc>
 </programme>
-<programme start="20260412203000 +0700" stop="20260412210000 +0700" channel="COSMOTE Sport 2 HD">
-    <title>Sports Classics: My Sporting Moment</title>
+<programme start="20260413213000 +0700" stop="20260413233000 +0700" channel="COSMOTE Sport 1 HD">
+    <title>Football: Real Madrid CF - FC Bayern Munchen</title>
     <desc>Live: Tidak</desc>
 </programme>
 <programme start="20260412210000 +0700" stop="20260412231000 +0700" channel="COSMOTE Sport 2 HD">
@@ -128,6 +128,10 @@
 </programme>
 <programme start="20260413192000 +0700" stop="20260413212000 +0700" channel="COSMOTE Sport 2 HD">
     <title>Football: AS Roma - Pisa</title>
+    <desc>Live: Tidak</desc>
+</programme>
+<programme start="20260413212000 +0700" stop="20260413232000 +0700" channel="COSMOTE Sport 2 HD">
+    <title>Football: Atalanta - Juventus Football Club</title>
     <desc>Live: Tidak</desc>
 </programme>
 <programme start="20260412200000 +0700" stop="20260412220000 +0700" channel="COSMOTE Sport 3 HD">
@@ -194,14 +198,6 @@
     <title>Football: Estoril - FC Porto</title>
     <desc>Live: Tidak</desc>
 </programme>
-<programme start="20260412193000 +0700" stop="20260412200500 +0700" channel="COSMOTE Sport 4 HD">
-    <title>NBA Action 2025-26 E3525</title>
-    <desc>Live: Tidak</desc>
-</programme>
-<programme start="20260412200500 +0700" stop="20260412204000 +0700" channel="COSMOTE Sport 4 HD">
-    <title>NBA On Fire 2025-26 E24</title>
-    <desc>Live: Tidak</desc>
-</programme>
 <programme start="20260412204000 +0700" stop="20260412211000 +0700" channel="COSMOTE Sport 4 HD">
     <title>NBA Specials</title>
     <desc>Live: Tidak</desc>
@@ -259,6 +255,10 @@
     <desc>Live: Tidak</desc>
 </programme>
 <programme start="20260413205500 +0700" stop="20260413214500 +0700" channel="COSMOTE Sport 4 HD">
+    <title>NBA Specials</title>
+    <desc>Live: Tidak</desc>
+</programme>
+<programme start="20260413214500 +0700" stop="20260413223000 +0700" channel="COSMOTE Sport 4 HD">
     <title>NBA Specials</title>
     <desc>Live: Tidak</desc>
 </programme>
@@ -359,6 +359,10 @@
     <desc>Live: Tidak</desc>
 </programme>
 <programme start="20260413204000 +0700" stop="20260413214500 +0700" channel="COSMOTE Sport 5 HD">
+    <title>WRC 2026</title>
+    <desc>Live: Tidak</desc>
+</programme>
+<programme start="20260413214500 +0700" stop="20260413223000 +0700" channel="COSMOTE Sport 5 HD">
     <title>WRC 2026</title>
     <desc>Live: Tidak</desc>
 </programme>

@@ -7990,13 +7990,288 @@
 <programme start="20260412153000 +0000" stop="20260412160000 +0000" channel="Sportstars 2.mncvision">
     <title>Tinju</title>
 </programme>
-Error: Unable to fetch data. HTTP Status Code: 500
-Error: Unable to fetch data. HTTP Status Code: 500
-Error: Unable to fetch data. HTTP Status Code: 500
-Error: Unable to fetch data. HTTP Status Code: 500
-Error: Unable to fetch data. HTTP Status Code: 500
-Error: Unable to fetch data. HTTP Status Code: 500
-Error: Unable to fetch data. HTTP Status Code: 500
+<programme start="20260411170000 +0000" stop="20260411190000 +0000" channel="Sportstars 2 HD.mncvision">
+    <title>V-League</title>
+</programme>
+<programme start="20260411190000 +0000" stop="20260411210000 +0000" channel="Sportstars 2 HD.mncvision">
+    <title>ACL Two</title>
+</programme>
+<programme start="20260411210000 +0000" stop="20260411233000 +0000" channel="Sportstars 2 HD.mncvision">
+    <title>Best Of Badminton</title>
+</programme>
+<programme start="20260411233000 +0000" stop="20260412000000 +0000" channel="Sportstars 2 HD.mncvision">
+    <title>Golden Fit</title>
+</programme>
+<programme start="20260412000000 +0000" stop="20260412003000 +0000" channel="Sportstars 2 HD.mncvision">
+    <title>iNews Sport</title>
+</programme>
+<programme start="20260412003000 +0000" stop="20260412023000 +0000" channel="Sportstars 2 HD.mncvision">
+    <title>ACL Two</title>
+</programme>
+<programme start="20260412023000 +0000" stop="20260412030000 +0000" channel="Sportstars 2 HD.mncvision">
+    <title>Sport Today</title>
+</programme>
+<programme start="20260412030000 +0000" stop="20260412050000 +0000" channel="Sportstars 2 HD.mncvision">
+    <title>Padel Hexagon Cup</title>
+</programme>
+<programme start="20260412050000 +0000" stop="20260412070000 +0000" channel="Sportstars 2 HD.mncvision">
+    <title>V-League</title>
+</programme>
+<programme start="20260412070000 +0000" stop="20260412083000 +0000" channel="Sportstars 2 HD.mncvision">
+    <title>Tinju</title>
+</programme>
+<programme start="20260412083000 +0000" stop="20260412103000 +0000" channel="Sportstars 2 HD.mncvision">
+    <title>Padel Hexagon Cup</title>
+</programme>
+<programme start="20260412103000 +0000" stop="20260412130000 +0000" channel="Sportstars 2 HD.mncvision">
+    <title>Best Of Badminton</title>
+</programme>
+<programme start="20260412130000 +0000" stop="20260412150000 +0000" channel="Sportstars 2 HD.mncvision">
+    <title>ACL Two</title>
+</programme>
+<programme start="20260412150000 +0000" stop="20260412153000 +0000" channel="Sportstars 2 HD.mncvision">
+    <title>World Classic Soccer</title>
+</programme>
+<programme start="20260412153000 +0000" stop="20260412160000 +0000" channel="Sportstars 2 HD.mncvision">
+    <title>Tinju</title>
+</programme>
+<programme start="20260411170000 +0000" stop="20260411190000 +0000" channel="Sportstars 3.mncvision">
+    <title>BRI Liga 1</title>
+</programme>
+<programme start="20260411190000 +0000" stop="20260411210000 +0000" channel="Sportstars 3.mncvision">
+    <title>V-League</title>
+</programme>
+<programme start="20260411210000 +0000" stop="20260411230000 +0000" channel="Sportstars 3.mncvision">
+    <title>European Qualifiers</title>
+</programme>
+<programme start="20260411230000 +0000" stop="20260412010000 +0000" channel="Sportstars 3.mncvision">
+    <title>Bundesliga</title>
+</programme>
+<programme start="20260412010000 +0000" stop="20260412030000 +0000" channel="Sportstars 3.mncvision">
+    <title>V-League</title>
+</programme>
+<programme start="20260412030000 +0000" stop="20260412050000 +0000" channel="Sportstars 3.mncvision">
+    <title>BRI Liga 1</title>
+</programme>
+<programme start="20260412050000 +0000" stop="20260412070000 +0000" channel="Sportstars 3.mncvision">
+    <title>Bundesliga</title>
+</programme>
+<programme start="20260412070000 +0000" stop="20260412090000 +0000" channel="Sportstars 3.mncvision">
+    <title>Timnas Special</title>
+</programme>
+<programme start="20260412090000 +0000" stop="20260412110000 +0000" channel="Sportstars 3.mncvision">
+    <title>V-League</title>
+</programme>
+<programme start="20260412110000 +0000" stop="20260412130000 +0000" channel="Sportstars 3.mncvision">
+    <title>BRI Liga 1</title>
+</programme>
+<programme start="20260412130000 +0000" stop="20260412150000 +0000" channel="Sportstars 3.mncvision">
+    <title>Bundesliga</title>
+</programme>
+<programme start="20260412150000 +0000" stop="20260412153000 +0000" channel="Sportstars 3.mncvision">
+    <title>Timnas Special</title>
+</programme>
+<programme start="20260411170000 +0000" stop="20260411190000 +0000" channel="sportstars 3 HD.mncvision">
+    <title>BRI Liga 1</title>
+</programme>
+<programme start="20260411190000 +0000" stop="20260411210000 +0000" channel="sportstars 3 HD.mncvision">
+    <title>V-League</title>
+</programme>
+<programme start="20260411210000 +0000" stop="20260411230000 +0000" channel="sportstars 3 HD.mncvision">
+    <title>European Qualifiers</title>
+</programme>
+<programme start="20260411230000 +0000" stop="20260412010000 +0000" channel="sportstars 3 HD.mncvision">
+    <title>Bundesliga</title>
+</programme>
+<programme start="20260412010000 +0000" stop="20260412030000 +0000" channel="sportstars 3 HD.mncvision">
+    <title>V-League</title>
+</programme>
+<programme start="20260412030000 +0000" stop="20260412050000 +0000" channel="sportstars 3 HD.mncvision">
+    <title>BRI Liga 1</title>
+</programme>
+<programme start="20260412050000 +0000" stop="20260412070000 +0000" channel="sportstars 3 HD.mncvision">
+    <title>Bundesliga</title>
+</programme>
+<programme start="20260412070000 +0000" stop="20260412090000 +0000" channel="sportstars 3 HD.mncvision">
+    <title>Timnas Special</title>
+</programme>
+<programme start="20260412090000 +0000" stop="20260412110000 +0000" channel="sportstars 3 HD.mncvision">
+    <title>V-League</title>
+</programme>
+<programme start="20260412110000 +0000" stop="20260412130000 +0000" channel="sportstars 3 HD.mncvision">
+    <title>BRI Liga 1</title>
+</programme>
+<programme start="20260412130000 +0000" stop="20260412150000 +0000" channel="sportstars 3 HD.mncvision">
+    <title>Bundesliga</title>
+</programme>
+<programme start="20260412150000 +0000" stop="20260412153000 +0000" channel="sportstars 3 HD.mncvision">
+    <title>Timnas Special</title>
+</programme>
+<programme start="20260411170000 +0000" stop="20260411190000 +0000" channel="Sportstars 4.mncvision">
+    <title>BRI Liga 1</title>
+</programme>
+<programme start="20260411190000 +0000" stop="20260411210000 +0000" channel="Sportstars 4.mncvision">
+    <title>V-League</title>
+</programme>
+<programme start="20260411210000 +0000" stop="20260411230000 +0000" channel="Sportstars 4.mncvision">
+    <title>Timnas Special</title>
+</programme>
+<programme start="20260411230000 +0000" stop="20260412010000 +0000" channel="Sportstars 4.mncvision">
+    <title>Bundesliga</title>
+</programme>
+<programme start="20260412010000 +0000" stop="20260412030000 +0000" channel="Sportstars 4.mncvision">
+    <title>V-League</title>
+</programme>
+<programme start="20260412030000 +0000" stop="20260412050000 +0000" channel="Sportstars 4.mncvision">
+    <title>BRI Liga 1</title>
+</programme>
+<programme start="20260412050000 +0000" stop="20260412070000 +0000" channel="Sportstars 4.mncvision">
+    <title>Bundesliga</title>
+</programme>
+<programme start="20260412070000 +0000" stop="20260412090000 +0000" channel="Sportstars 4.mncvision">
+    <title>Timnas Special</title>
+</programme>
+<programme start="20260412090000 +0000" stop="20260412110000 +0000" channel="Sportstars 4.mncvision">
+    <title>AFC U20 WAC &#039;26: PRK Vs AUS (L)</title>
+</programme>
+<programme start="20260412110000 +0000" stop="20260412130000 +0000" channel="Sportstars 4.mncvision">
+    <title>BRI Liga 1</title>
+</programme>
+<programme start="20260412130000 +0000" stop="20260412150000 +0000" channel="Sportstars 4.mncvision">
+    <title>AFC U20 WAC &#039;26: THA Vs KOR (L)</title>
+</programme>
+<programme start="20260412150000 +0000" stop="20260412153000 +0000" channel="Sportstars 4.mncvision">
+    <title>Timnas Special</title>
+</programme>
+<programme start="20260411170000 +0000" stop="20260411190000 +0000" channel="Sportstars 4 HD.mncvision">
+    <title>BRI Liga 1</title>
+</programme>
+<programme start="20260411190000 +0000" stop="20260411210000 +0000" channel="Sportstars 4 HD.mncvision">
+    <title>V-League</title>
+</programme>
+<programme start="20260411210000 +0000" stop="20260411230000 +0000" channel="Sportstars 4 HD.mncvision">
+    <title>Timnas Special</title>
+</programme>
+<programme start="20260411230000 +0000" stop="20260412010000 +0000" channel="Sportstars 4 HD.mncvision">
+    <title>Bundesliga</title>
+</programme>
+<programme start="20260412010000 +0000" stop="20260412030000 +0000" channel="Sportstars 4 HD.mncvision">
+    <title>V-League</title>
+</programme>
+<programme start="20260412030000 +0000" stop="20260412050000 +0000" channel="Sportstars 4 HD.mncvision">
+    <title>BRI Liga 1</title>
+</programme>
+<programme start="20260412050000 +0000" stop="20260412070000 +0000" channel="Sportstars 4 HD.mncvision">
+    <title>Bundesliga</title>
+</programme>
+<programme start="20260412070000 +0000" stop="20260412090000 +0000" channel="Sportstars 4 HD.mncvision">
+    <title>Timnas Special</title>
+</programme>
+<programme start="20260412090000 +0000" stop="20260412110000 +0000" channel="Sportstars 4 HD.mncvision">
+    <title>AFC U20 WAC &#039;26: PRK Vs AUS (L)</title>
+</programme>
+<programme start="20260412110000 +0000" stop="20260412130000 +0000" channel="Sportstars 4 HD.mncvision">
+    <title>BRI Liga 1</title>
+</programme>
+<programme start="20260412130000 +0000" stop="20260412150000 +0000" channel="Sportstars 4 HD.mncvision">
+    <title>AFC U20 WAC &#039;26: THA Vs KOR (L)</title>
+</programme>
+<programme start="20260412150000 +0000" stop="20260412153000 +0000" channel="Sportstars 4 HD.mncvision">
+    <title>Timnas Special</title>
+</programme>
+<programme start="20260411173000 +0000" stop="20260411200000 +0000" channel="Sportstars HD.mncvision">
+    <title>Best Of Badminton</title>
+</programme>
+<programme start="20260411200000 +0000" stop="20260411203000 +0000" channel="Sportstars HD.mncvision">
+    <title>Sports Today</title>
+</programme>
+<programme start="20260411203000 +0000" stop="20260411210000 +0000" channel="Sportstars HD.mncvision">
+    <title>iNews Sport</title>
+</programme>
+<programme start="20260411210000 +0000" stop="20260411230000 +0000" channel="Sportstars HD.mncvision">
+    <title>Proliga</title>
+</programme>
+<programme start="20260411230000 +0000" stop="20260411233000 +0000" channel="Sportstars HD.mncvision">
+    <title>Sports Today</title>
+</programme>
+<programme start="20260411233000 +0000" stop="20260412000000 +0000" channel="Sportstars HD.mncvision">
+    <title>30 Minutes Extreme</title>
+</programme>
+<programme start="20260412000000 +0000" stop="20260412003000 +0000" channel="Sportstars HD.mncvision">
+    <title>Golden Fit</title>
+</programme>
+<programme start="20260412003000 +0000" stop="20260412023000 +0000" channel="Sportstars HD.mncvision">
+    <title>V-League 2025-2026: Men</title>
+</programme>
+<programme start="20260412023000 +0000" stop="20260412043000 +0000" channel="Sportstars HD.mncvision">
+    <title>V-League 2025-2026: Women</title>
+</programme>
+<programme start="20260412043000 +0000" stop="20260412050000 +0000" channel="Sportstars HD.mncvision">
+    <title>Sports Today</title>
+</programme>
+<programme start="20260412050000 +0000" stop="20260412053000 +0000" channel="Sportstars HD.mncvision">
+    <title>iNews Sport</title>
+</programme>
+<programme start="20260412053000 +0000" stop="20260412080000 +0000" channel="Sportstars HD.mncvision">
+    <title>Best Of Badminton</title>
+</programme>
+<programme start="20260412080000 +0000" stop="20260412083000 +0000" channel="Sportstars HD.mncvision">
+    <title>30 Minutes Extreme</title>
+</programme>
+<programme start="20260412083000 +0000" stop="20260412090000 +0000" channel="Sportstars HD.mncvision">
+    <title>Golden Fit</title>
+</programme>
+<programme start="20260412090000 +0000" stop="20260412110000 +0000" channel="Sportstars HD.mncvision">
+    <title>Proliga</title>
+</programme>
+<programme start="20260412110000 +0000" stop="20260412130000 +0000" channel="Sportstars HD.mncvision">
+    <title>Padel Hexagon Cup</title>
+</programme>
+<programme start="20260412130000 +0000" stop="20260412133000 +0000" channel="Sportstars HD.mncvision">
+    <title>Golden Fit</title>
+</programme>
+<programme start="20260412133000 +0000" stop="20260412153000 +0000" channel="Sportstars HD.mncvision">
+    <title>Bundesliga (L)</title>
+</programme>
+<programme start="20260412153000 +0000" stop="20260412160000 +0000" channel="Sportstars HD.mncvision">
+    <title>V-League 2025-2026: Men</title>
+</programme>
+<programme start="20260411190000 +0000" stop="20260411230000 +0000" channel="SPOTV.mncvision">
+    <title>2026 Masters Tournament (L)</title>
+</programme>
+<programme start="20260411230000 +0000" stop="20260411233000 +0000" channel="SPOTV.mncvision">
+    <title>2026 Gold Coast T100 HL</title>
+</programme>
+<programme start="20260411233000 +0000" stop="20260412013000 +0000" channel="SPOTV.mncvision">
+    <title>2026 Masters Tournament</title>
+</programme>
+<programme start="20260412013000 +0000" stop="20260412030000 +0000" channel="SPOTV.mncvision">
+    <title>Global Champions League: Miami</title>
+</programme>
+<programme start="20260412030000 +0000" stop="20260412043000 +0000" channel="SPOTV.mncvision">
+    <title>2026 LIV Golf: South Africa HL</title>
+</programme>
+<programme start="20260412043000 +0000" stop="20260412090000 +0000" channel="SPOTV.mncvision">
+    <title>FIM ARRC: Sepang, Malaysia (L)</title>
+</programme>
+<programme start="20260412090000 +0000" stop="20260412105500 +0000" channel="SPOTV.mncvision">
+    <title>25/26 ROSHN Saudi League</title>
+</programme>
+<programme start="20260412105500 +0000" stop="20260412130000 +0000" channel="SPOTV.mncvision">
+    <title>25/26 Scottish Premiership (L)</title>
+</programme>
+<programme start="20260412130000 +0000" stop="20260412133000 +0000" channel="SPOTV.mncvision">
+    <title>2026 LGCT: Miami HL</title>
+</programme>
+<programme start="20260412133000 +0000" stop="20260412140000 +0000" channel="SPOTV.mncvision">
+    <title>Global Champions League: Miami</title>
+</programme>
+<programme start="20260412140000 +0000" stop="20260412160000 +0000" channel="SPOTV.mncvision">
+    <title>2026 Masters Tournament (L)</title>
+</programme>
+<programme start="20260412160000 +0000" stop="20260412163000 +0000" channel="SPOTV.mncvision">
+    <title>2026 Masters Tournament (L)</title>
+</programme>
 <programme start="20260411180000 +0000" stop="20260411193000 +0000" channel="SPOTV 2.mncvision">
     <title>SailGP S6: Enel Rio Sail GP (L)</title>
 </programme>
