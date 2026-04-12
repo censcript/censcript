@@ -703,10 +703,10 @@
     <programme start="20260411160000 +0000" stop="20260412055500 +0000" channel="Live 2.mewatch">
         <title>No Programme available now. Next Broadcast on 12th April, Sunday 1.55pm. Bank of Ningbo Badminton Asia Championships 2026 : Finals</title>
     </programme>
-    <programme start="20260412055500 +0000" stop="20260412150000 +0000" channel="Live 2.mewatch">
+    <programme start="20260412055500 +0000" stop="20260412105200 +0000" channel="Live 2.mewatch">
         <title>Bank of Ningbo Badminton Asia Championships 2026 : Finals</title>
     </programme>
-    <programme start="20260412150000 +0000" stop="20260412160000 +0000" channel="Live 2.mewatch">
+    <programme start="20260412105200 +0000" stop="20260412160000 +0000" channel="Live 2.mewatch">
         <title>No programmes streaming LIVE at this moment</title>
     </programme>
     <programme start="20260412160000 +0000" stop="20260413160000 +0000" channel="Live 2.mewatch">
