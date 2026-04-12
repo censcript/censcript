@@ -2643,10 +2643,10 @@ Warning: Undefined array key "et" in /usr/home/ManusiaBiasa/domains/manusiabiasa
 <programme start="20260412104000 +0000" stop="20260412110000 +0000" channel="Sky Sport Bundesliga 2 HD.skyde">
     <title>Es folgt: LIVE 2. Liga</title>
 </programme>
-<programme start="20260412110000 +0000" stop="20260412140000 +0000" channel="Sky Sport Bundesliga 2 HD.skyde">
+<programme start="20260412110000 +0000" stop="20260412133000 +0000" channel="Sky Sport Bundesliga 2 HD.skyde">
     <title>Live 2. BL: SV Elversberg - FC Schalke 04, 29. Spieltag</title>
 </programme>
-<programme start="20260412140000 +0000" stop="20260412153000 +0000" channel="Sky Sport Bundesliga 2 HD.skyde">
+<programme start="20260412133000 +0000" stop="20260412153000 +0000" channel="Sky Sport Bundesliga 2 HD.skyde">
     <title>Es folgt: BL Re-Live</title>
 </programme>
 <programme start="20260412153000 +0000" stop="20260412173000 +0000" channel="Sky Sport Bundesliga 2 HD.skyde">
@@ -3036,10 +3036,10 @@ Warning: Undefined array key "et" in /usr/home/ManusiaBiasa/domains/manusiabiasa
 <programme start="20260412123000 +0000" stop="20260412125000 +0000" channel="Sky Sport Tennis HD.skyde">
     <title>ATP &amp; WTA: Best Shots 2025</title>
 </programme>
-<programme start="20260412125000 +0000" stop="20260412153000 +0000" channel="Sky Sport Tennis HD.skyde">
+<programme start="20260412125000 +0000" stop="20260412160000 +0000" channel="Sky Sport Tennis HD.skyde">
     <title>Live ATP 1000: J. Sinner (ITA) - C. Alcaraz (ESP), Rolex Monte-Carlo Masters in Monte-Carlo, Finale</title>
 </programme>
-<programme start="20260412153000 +0000" stop="20260412163000 +0000" channel="Sky Sport Tennis HD.skyde">
+<programme start="20260412160000 +0000" stop="20260412163000 +0000" channel="Sky Sport Tennis HD.skyde">
     <title>ATP 1000: Review Miami</title>
 </programme>
 <programme start="20260412163000 +0000" stop="20260412170000 +0000" channel="Sky Sport Tennis HD.skyde">
