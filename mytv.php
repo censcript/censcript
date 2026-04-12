@@ -1,7 +1,10 @@
     <programme start="20260412000000 +0000" stop="19700101020000 +0000" channel="VTV1 HD.mytv">
+        <title> Tiếp tục chương trình </title>
+    </programme>
+    <programme start="20260412000000 +0000" stop="20260412000100 +0000" channel="VTV1 HD.mytv">
         <title> Phim truyện : Dịu dàng màu nắng - Tập 25 </title>
     </programme>
-    <programme start="20260412000000 +0000" stop="20260412003000 +0000" channel="VTV1 HD.mytv">
+    <programme start="20260412000100 +0000" stop="20260412003000 +0000" channel="VTV1 HD.mytv">
         <title> Học và làm theo Bác : Học Bác từ việc làm sáng tạo </title>
     </programme>
     <programme start="20260412003000 +0000" stop="20260412004300 +0000" channel="VTV1 HD.mytv">
@@ -46,10 +49,10 @@
     <programme start="20260412053000 +0000" stop="20260412070000 +0000" channel="VTV1 HD.mytv">
         <title> Báo chí toàn cảnh </title>
     </programme>
-    <programme start="20260412070000 +0000" stop="20260412073000 +0000" channel="VTV1 HD.mytv">
+    <programme start="20260412070000 +0000" stop="20260412072900 +0000" channel="VTV1 HD.mytv">
         <title> Phim tài liệu : Những viên ngọc sáng </title>
     </programme>
-    <programme start="20260412073000 +0000" stop="20260412080000 +0000" channel="VTV1 HD.mytv">
+    <programme start="20260412072900 +0000" stop="20260412080000 +0000" channel="VTV1 HD.mytv">
         <title> Sống mới </title>
     </programme>
     <programme start="20260412080000 +0000" stop="20260412084000 +0000" channel="VTV1 HD.mytv">

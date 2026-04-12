@@ -1366,9 +1366,6 @@
     <programme start="20260411203000 +0000" stop="20260411213000 +0000" channel="COLORS Tamil HD.starhub">
         <title>Veera Hanuman</title>
     </programme>
-    <programme start="20260411213000 +0000" stop="20260411220000 +0000" channel="COLORS Tamil HD.starhub">
-        <title>Adhe Kangal</title>
-    </programme>
     <programme start="20260411220000 +0000" stop="20260411223000 +0000" channel="COLORS Tamil HD.starhub">
         <title>Muthazhagu</title>
     </programme>
@@ -1456,13 +1453,13 @@
     <programme start="20260412140000 +0000" stop="20260412143000 +0000" channel="COLORS Tamil HD.starhub">
         <title>Adhe Kangal</title>
     </programme>
-    <programme start="20260412143000 +0000" stop="20260412150000 +0000" channel="COLORS Tamil HD.starhub">
+    <programme start="20260412143000 +0000" stop="20260412151000 +0000" channel="COLORS Tamil HD.starhub">
         <title>Perazhagi</title>
     </programme>
-    <programme start="20260412150000 +0000" stop="20260412153000 +0000" channel="COLORS Tamil HD.starhub">
+    <programme start="20260412151000 +0000" stop="20260412155000 +0000" channel="COLORS Tamil HD.starhub">
         <title>Perazhagi</title>
     </programme>
-    <programme start="20260412153000 +0000" stop="20260412160000 +0000" channel="COLORS Tamil HD.starhub">
+    <programme start="20260412155000 +0000" stop="20260412160000 +0000" channel="COLORS Tamil HD.starhub">
         <title>Perazhagi</title>
     </programme>
     <programme start="20260411160000 +0000" stop="20260411170000 +0000" channel="TVBS Asia.starhub">
@@ -7744,16 +7741,13 @@
     <programme start="20260411221000 +0000" stop="20260412010000 +0000" channel="SPOTV2.starhub">
         <title>12/4 2026 MLB Regular Season Tampa Bay Rays vs New York Yankees (Live)</title>
     </programme>
-    <programme start="20260412010000 +0000" stop="20260412013000 +0000" channel="SPOTV2.starhub">
-        <title>2025/26 ALM Mini Match Rd 23 Melbourne Victory vs Wellington Phoenix</title>
-    </programme>
-    <programme start="20260412013000 +0000" stop="20260412030000 +0000" channel="SPOTV2.starhub">
+    <programme start="20260412010000 +0000" stop="20260412030000 +0000" channel="SPOTV2.starhub">
         <title>Race 9</title>
     </programme>
-    <programme start="20260412030000 +0000" stop="20260412051000 +0000" channel="SPOTV2.starhub">
-        <title>Race 10</title>
+    <programme start="20260412030000 +0000" stop="20260412045500 +0000" channel="SPOTV2.starhub">
+        <title>25/26 A-League Men Round 24 Newcastle Jets FC vs Adelaide United</title>
     </programme>
-    <programme start="20260412051000 +0000" stop="20260412070000 +0000" channel="SPOTV2.starhub">
+    <programme start="20260412045500 +0000" stop="20260412070000 +0000" channel="SPOTV2.starhub">
         <title>25/26 A-League Men Round 24 Melbourne City FC vs Wellington Phoenix (Live)</title>
     </programme>
     <programme start="20260412070000 +0000" stop="20260412093000 +0000" channel="SPOTV2.starhub">

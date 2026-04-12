@@ -2509,13 +2509,13 @@ Warning: Undefined array key "et" in /usr/home/ManusiaBiasa/domains/manusiabiasa
     <title>Es folgt: LIVE ATP World Tour</title>
 </programme>
 <programme start="20260412100000 +0000" stop="20260412123000 +0000" channel="Sky Sport Austria 3 HD.skyde">
-    <title>Live ATP 1000: Finale, Rolex Monte-Carlo Masters in Monte-Carlo, Doppelfinale</title>
+    <title>Live ATP 1000: K. Krawietz (GER) / T. Puetz (GER) - M. Arevalo (ESA) / M. Pavic (CRO), Rolex Monte-Carlo Masters in Monte-Carlo, Doppelfinale</title>
 </programme>
 <programme start="20260412123000 +0000" stop="20260412125000 +0000" channel="Sky Sport Austria 3 HD.skyde">
     <title>ATP &amp; WTA: Best Shots 2025</title>
 </programme>
-<programme start="20260412125000 +0000" stop="20260412153000 +0000" channel="Sky Sport Austria 3 HD.skyde">
-    <title>Live ATP 1000: Finale, Rolex Monte-Carlo Masters in Monte-Carlo, Finale</title>
+<programme start="20260412125000 +0000" stop="20260412173000 +0000" channel="Sky Sport Austria 3 HD.skyde">
+    <title>Live ATP 1000: J. Sinner (ITA) - C. Alcaraz (ESP), Rolex Monte-Carlo Masters in Monte-Carlo, Finale</title>
 </programme>
 <programme start="20260411220000 +0000" stop="20260411230000 +0000" channel="Sky Sport Bundesliga HD.skyde">
     <title>BL: Alle Spiele, alle Stimmen, 29. Spieltag</title>
@@ -2637,7 +2637,7 @@ Warning: Undefined array key "et" in /usr/home/ManusiaBiasa/domains/manusiabiasa
 <programme start="20260412160000 +0000" stop="20260412173000 +0000" channel="Sky Sport Bundesliga 1 HD.skyde">
     <title>Live BL: Sky90 - Die Fußballdebatte</title>
 </programme>
-<programme start="20260412173000 +0000" stop="20260412181500 +0000" channel="Sky Sport Bundesliga 1 HD.skyde">
+<programme start="20260412173000 +0000" stop="20260412184500 +0000" channel="Sky Sport Bundesliga 1 HD.skyde">
     <title>Live BL: Highlights XXL: VFB - HSV, 29. Spieltag</title>
 </programme>
 <programme start="20260412104000 +0000" stop="20260412110000 +0000" channel="Sky Sport Bundesliga 2 HD.skyde">
@@ -2655,13 +2655,13 @@ Warning: Undefined array key "et" in /usr/home/ManusiaBiasa/domains/manusiabiasa
 <programme start="20260412173000 +0000" stop="20260412193000 +0000" channel="Sky Sport Bundesliga 2 HD.skyde">
     <title>BL: VfB Stuttgart - Hamburger SV, 29. Spieltag</title>
 </programme>
-<programme start="20260412193000 +0000" stop="20260412213000 +0000" channel="Sky Sport Bundesliga 2 HD.skyde">
+<programme start="20260412193000 +0000" stop="20260412220000 +0000" channel="Sky Sport Bundesliga 2 HD.skyde">
     <title>BL: 1. FSV Mainz 05 - SC Freiburg, 29. Spieltag</title>
 </programme>
 <programme start="20260412104000 +0000" stop="20260412110000 +0000" channel="Sky Sport Bundesliga 3 HD.skyde">
     <title>Es folgt: LIVE 2. Liga</title>
 </programme>
-<programme start="20260412110000 +0000" stop="20260412140000 +0000" channel="Sky Sport Bundesliga 3 HD.skyde">
+<programme start="20260412110000 +0000" stop="20260412133000 +0000" channel="Sky Sport Bundesliga 3 HD.skyde">
     <title>Live 2. BL: SC Paderborn 07 - 1. FC Magdeburg, 29. Spieltag</title>
 </programme>
 <programme start="20260412104000 +0000" stop="20260412110000 +0000" channel="Sky Sport Bundesliga 4 HD.skyde">
@@ -2673,7 +2673,7 @@ Warning: Undefined array key "et" in /usr/home/ManusiaBiasa/domains/manusiabiasa
 <programme start="20260412104000 +0000" stop="20260412110000 +0000" channel="Sky Sport Bundesliga 5 HD.skyde">
     <title>Es folgt: LIVE 2. Liga</title>
 </programme>
-<programme start="20260412110000 +0000" stop="20260412140000 +0000" channel="Sky Sport Bundesliga 5 HD.skyde">
+<programme start="20260412110000 +0000" stop="20260412133000 +0000" channel="Sky Sport Bundesliga 5 HD.skyde">
     <title>Live 2. BL: Multiview 29. Spieltag, Sonntag</title>
 </programme>
 <programme start="20260411223000 +0000" stop="20260411233000 +0000" channel="Sky Sport F1 HD.skyde">
@@ -3031,13 +3031,13 @@ Warning: Undefined array key "et" in /usr/home/ManusiaBiasa/domains/manusiabiasa
     <title>ATP 1000: C. Alcaraz (ESP) - V. Vacherot (MON), Rolex Monte-Carlo Masters in Monte-Carlo, Halbfinale 2</title>
 </programme>
 <programme start="20260412100000 +0000" stop="20260412123000 +0000" channel="Sky Sport Tennis HD.skyde">
-    <title>Live ATP 1000: K. Krawietz (GER) / T. Puetz (GER) - M. Arevalo (ESA) / M. Pavic (CRO), Rolex Monte-Carlo Masters in Monte-Carlo, Doppelfinale</title>
+    <title>Live ATP 1000: Finale, Rolex Monte-Carlo Masters in Monte-Carlo, Doppelfinale</title>
 </programme>
 <programme start="20260412123000 +0000" stop="20260412125000 +0000" channel="Sky Sport Tennis HD.skyde">
     <title>ATP &amp; WTA: Best Shots 2025</title>
 </programme>
 <programme start="20260412125000 +0000" stop="20260412153000 +0000" channel="Sky Sport Tennis HD.skyde">
-    <title>Live ATP 1000: J. Sinner (ITA) - C. Alcaraz (ESP), Rolex Monte-Carlo Masters in Monte-Carlo, Finale</title>
+    <title>Live ATP 1000: Finale, Rolex Monte-Carlo Masters in Monte-Carlo, Finale</title>
 </programme>
 <programme start="20260412153000 +0000" stop="20260412163000 +0000" channel="Sky Sport Tennis HD.skyde">
     <title>ATP 1000: Review Miami</title>
@@ -3046,12 +3046,12 @@ Warning: Undefined array key "et" in /usr/home/ManusiaBiasa/domains/manusiabiasa
     <title>WTA: All Access Magazine Show</title>
 </programme>
 <programme start="20260412170000 +0000" stop="20260412193000 +0000" channel="Sky Sport Tennis HD.skyde">
-    <title>WTA 500: A. Potapova (AUT) - M. Andreeva, Upper Austria Ladies Linz in Linz (AUT), Finale</title>
+    <title>WTA 500: Finale, Upper Austria Ladies Linz in Linz (AUT), Finale</title>
 </programme>
 <programme start="20260412193000 +0000" stop="20260412220000 +0000" channel="Sky Sport Tennis HD.skyde">
-    <title>ATP 1000: J. Sinner (ITA) - C. Alcaraz (ESP), Rolex Monte-Carlo Masters in Monte-Carlo, Finale</title>
+    <title>ATP 1000: Finale, Rolex Monte-Carlo Masters in Monte-Carlo, Finale</title>
 </programme>
-<programme start="20260411230000 +0000" stop="20260412020000 +0000" channel="Sky Sport Top Event HD.skyde">
+<programme start="20260411231000 +0000" stop="20260412020000 +0000" channel="Sky Sport Top Event HD.skyde">
     <title>Live NHL: Florida Panthers @ Toronto Maple Leafs</title>
 </programme>
 <programme start="20260412020000 +0000" stop="20260412023000 +0000" channel="Sky Sport Top Event HD.skyde">
@@ -3076,7 +3076,7 @@ Warning: Undefined array key "et" in /usr/home/ManusiaBiasa/domains/manusiabiasa
     <title>BL: Alle Spiele, alle Stimmen, 29. Spieltag</title>
 </programme>
 <programme start="20260412100000 +0000" stop="20260412110000 +0000" channel="Sky Sport Top Event HD.skyde">
-    <title>Live ATP 1000: tba - M. Arevalo (ESA) / M. Pavic (CRO), Rolex Monte-Carlo Masters in Monte-Carlo, Doppelfinale</title>
+    <title>Live ATP 1000: K. Krawietz (GER) / T. Puetz (GER) - M. Arevalo (ESA) / M. Pavic (CRO), Rolex Monte-Carlo Masters in Monte-Carlo, Doppelfinale</title>
 </programme>
 <programme start="20260412110000 +0000" stop="20260412133000 +0000" channel="Sky Sport Top Event HD.skyde">
     <title>Live 2. BL: Sonntags-Konferenz, 29. Spieltag</title>
@@ -3117,7 +3117,7 @@ Warning: Undefined array key "et" in /usr/home/ManusiaBiasa/domains/manusiabiasa
 <programme start="20260412212500 +0000" stop="20260412214500 +0000" channel="Sky Sport 1 HD.skyde">
     <title>Es folgt: LIVE NBA</title>
 </programme>
-<programme start="20260412214500 +0000" stop="20260413010000 +0000" channel="Sky Sport 1 HD.skyde">
+<programme start="20260412214500 +0000" stop="20260413080000 +0000" channel="Sky Sport 1 HD.skyde">
     <title>Live NBA: Orlando Magic @ Boston Celtics</title>
 </programme>
 <programme start="20260412133000 +0000" stop="20260412135000 +0000" channel="Sky Sport 7 HD.skyde">
@@ -3129,7 +3129,7 @@ Warning: Undefined array key "et" in /usr/home/ManusiaBiasa/domains/manusiabiasa
 <programme start="20260412123000 +0000" stop="20260412125000 +0000" channel="Sky Sport 8 HD.skyde">
     <title>Es folgt: LIVE PL</title>
 </programme>
-<programme start="20260412125000 +0000" stop="20260412150000 +0000" channel="Sky Sport 8 HD.skyde">
+<programme start="20260412125000 +0000" stop="20260412153000 +0000" channel="Sky Sport 8 HD.skyde">
     <title>Live PL: Crystal Palace - Newcastle United, 32. Spieltag</title>
 </programme>
 <programme start="20260411222500 +0000" stop="20260411231000 +0000" channel="SYFY HD.skyde">

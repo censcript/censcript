@@ -15139,22 +15139,17 @@
     <desc lang="en">Major League Baseball is the most historic professional sports league consists of 30 member clubs in the U.S. and Canada, representing the highest level of professional baseball.</desc>
     <category lang="en">Baseball</category>
   </programme>
-  <programme start="20260412010000 +0000" stop="20260412013000 +0000" channel="spotv2.unifitv">
-    <title lang="en">2025/26 ALM Mini Match Rd 23 - Melbourne Victory vs Wellington Phoenix</title>
-    <desc lang="en">Top flight men's soccer returns in the ISUZU UTE A-League Men. Catch every moment on SPOTV NOW as 12 teams compete in the regular season with top 4 advancing to a single-game knockout.</desc>
-    <category lang="en">Football</category>
-  </programme>
-  <programme start="20260412013000 +0000" stop="20260412030000 +0000" channel="spotv2.unifitv">
+  <programme start="20260412010000 +0000" stop="20260412030000 +0000" channel="spotv2.unifitv">
     <title lang="en">2026 Supercars: ITM Taupo Super 440 - Race 9</title>
     <desc lang="en">Supercars delivers exhilarating and accessible motorsports-led entertainment to engaged and passionate fans.</desc>
     <category lang="en">Motorsports</category>
   </programme>
-  <programme start="20260412030000 +0000" stop="20260412051000 +0000" channel="spotv2.unifitv">
-    <title lang="en">(L) 2026 Supercars: ITM Taupo Super 440 - Race 10</title>
-    <desc lang="en">Supercars delivers exhilarating and accessible motorsports-led entertainment to engaged and passionate fans.</desc>
-    <category lang="en">Motorsports</category>
+  <programme start="20260412030000 +0000" stop="20260412045500 +0000" channel="spotv2.unifitv">
+    <title lang="en">25/26 A-League Men Round 24 - Newcastle Jets FC vs Adelaide United</title>
+    <desc lang="en">Top flight men's soccer returns in the ISUZU UTE A-League Men. Catch every moment on SPOTV NOW as 12 teams compete in the regular season with top 4 advancing to a single-game knockout.</desc>
+    <category lang="en">Football</category>
   </programme>
-  <programme start="20260412051000 +0000" stop="20260412070000 +0000" channel="spotv2.unifitv">
+  <programme start="20260412045500 +0000" stop="20260412070000 +0000" channel="spotv2.unifitv">
     <title lang="en">(L) 25/26 A-League Men Round 24 - Melbourne City FC vs Wellington Phoenix</title>
     <desc lang="en">Top flight men's soccer returns in the ISUZU UTE A-League Men. Catch every moment on SPOTV NOW as 12 teams compete in the regular season with top 4 advancing to a single-game knockout.</desc>
     <category lang="en">Football</category>
