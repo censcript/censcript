@@ -2772,10 +2772,7 @@ Warning: Undefined array key "et" in /usr/home/ManusiaBiasa/domains/manusiabiasa
 <programme start="20260412125500 +0000" stop="20260412132500 +0000" channel="Sky Sport Golf HD.skyde">
     <title>The Masters: Official Film 1985 (Bernhard Langer)</title>
 </programme>
-<programme start="20260412132500 +0000" stop="20260412141500 +0000" channel="Sky Sport Golf HD.skyde">
-    <title>The Masters: Official Film 1993 (Bernhard Langer)</title>
-</programme>
-<programme start="20260412141500 +0000" stop="20260412160000 +0000" channel="Sky Sport Golf HD.skyde">
+<programme start="20260412132500 +0000" stop="20260412160000 +0000" channel="Sky Sport Golf HD.skyde">
     <title>Live The Masters: 4. Tag in Augusta (Early Coverage)</title>
 </programme>
 <programme start="20260412160000 +0000" stop="20260412230000 +0000" channel="Sky Sport Golf HD.skyde">
@@ -3051,7 +3048,7 @@ Warning: Undefined array key "et" in /usr/home/ManusiaBiasa/domains/manusiabiasa
 <programme start="20260412193000 +0000" stop="20260412220000 +0000" channel="Sky Sport Tennis HD.skyde">
     <title>ATP 1000: J. Sinner (ITA) - C. Alcaraz (ESP), Rolex Monte-Carlo Masters in Monte-Carlo, Finale</title>
 </programme>
-<programme start="20260411231000 +0000" stop="20260412020000 +0000" channel="Sky Sport Top Event HD.skyde">
+<programme start="20260411230000 +0000" stop="20260412020000 +0000" channel="Sky Sport Top Event HD.skyde">
     <title>Live NHL: Florida Panthers @ Toronto Maple Leafs</title>
 </programme>
 <programme start="20260412020000 +0000" stop="20260412023000 +0000" channel="Sky Sport Top Event HD.skyde">
@@ -3523,45 +3520,6 @@ Warning: Undefined array key "et" in /usr/home/ManusiaBiasa/domains/manusiabiasa
     <title>Der schmale Grat</title>
 </programme>
 <programme start="20260412210500 +0000" stop="20260412225000 +0000" channel="Warner TV Film.skyde">
-    <title>Ruf der Wildnis</title>
-</programme>
-<programme start="20260411223500 +0000" stop="20260412010000 +0000" channel="Warner TV Film HD.skyde">
-    <title>Transformers - Die Rache</title>
-</programme>
-<programme start="20260412010000 +0000" stop="20260412022500 +0000" channel="Warner TV Film HD.skyde">
-    <title>Approaching The Unknown</title>
-</programme>
-<programme start="20260412022500 +0000" stop="20260412040000 +0000" channel="Warner TV Film HD.skyde">
-    <title>Mad Max 2 - Der Vollstrecker</title>
-</programme>
-<programme start="20260412040000 +0000" stop="20260412053000 +0000" channel="Warner TV Film HD.skyde">
-    <title>Highlander: Endgame</title>
-</programme>
-<programme start="20260412053000 +0000" stop="20260412071500 +0000" channel="Warner TV Film HD.skyde">
-    <title>Der Morgen danach</title>
-</programme>
-<programme start="20260412071500 +0000" stop="20260412090000 +0000" channel="Warner TV Film HD.skyde">
-    <title>Haben und Nichthaben</title>
-</programme>
-<programme start="20260412090000 +0000" stop="20260412105000 +0000" channel="Warner TV Film HD.skyde">
-    <title>Die Katze auf dem heißen Blechdach</title>
-</programme>
-<programme start="20260412105000 +0000" stop="20260412111000 +0000" channel="Warner TV Film HD.skyde">
-    <title>Hinter den Kulissen - Peter Fonda</title>
-</programme>
-<programme start="20260412111000 +0000" stop="20260412132000 +0000" channel="Warner TV Film HD.skyde">
-    <title>The Verdict - Die Wahrheit und nichts als die Wahrheit</title>
-</programme>
-<programme start="20260412132000 +0000" stop="20260412153500 +0000" channel="Warner TV Film HD.skyde">
-    <title>Die Bücherdiebin</title>
-</programme>
-<programme start="20260412153500 +0000" stop="20260412181500 +0000" channel="Warner TV Film HD.skyde">
-    <title>Insider</title>
-</programme>
-<programme start="20260412181500 +0000" stop="20260412210500 +0000" channel="Warner TV Film HD.skyde">
-    <title>Der schmale Grat</title>
-</programme>
-<programme start="20260412210500 +0000" stop="20260412225000 +0000" channel="Warner TV Film HD.skyde">
     <title>Ruf der Wildnis</title>
 </programme>
 <programme start="20260411220000 +0000" stop="20260412000000 +0000" channel="Warner TV Serie HD.skyde">
