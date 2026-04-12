@@ -3097,15 +3097,15 @@ Warning: Undefined array key "et" in /usr/home/ManusiaBiasa/domains/manusiabiasa
     <title>Live WTA 500: Porsche Tennis Grand Prix in Stuttgart, 1. Tag</title>
 </programme>
 <programme start="20260413084000 +0000" stop="20260413090000 +0000" channel="Sky Sport 2 HD.skyde">
-    <title>Es folgt: Live ATP Tour</title>
+    <title>Es folgt: LIVE ATP Tour</title>
 </programme>
-<programme start="20260413090000 +0000" stop="20260413130000 +0000" channel="Sky Sport 2 HD.skyde">
+<programme start="20260413090000 +0000" stop="20260413134000 +0000" channel="Sky Sport 2 HD.skyde">
     <title>Live ATP 500: Barcelona Open BancSabadell in Barcelona (ESP), 1. Tag</title>
 </programme>
-<programme start="20260413130000 +0000" stop="20260413140000 +0000" channel="Sky Sport 2 HD.skyde">
-    <title>Es folgt: Live ATP Tour</title>
+<programme start="20260413134000 +0000" stop="20260413140000 +0000" channel="Sky Sport 2 HD.skyde">
+    <title>Es folgt: LIVE ATP Tour</title>
 </programme>
-<programme start="20260413140000 +0000" stop="20260413180000 +0000" channel="Sky Sport 2 HD.skyde">
+<programme start="20260413140000 +0000" stop="20260413200000 +0000" channel="Sky Sport 2 HD.skyde">
     <title>Live ATP 500: Barcelona Open BancSabadell in Barcelona (ESP), 1. Tag</title>
 </programme>
 <programme start="20260412222500 +0000" stop="20260412231000 +0000" channel="SYFY HD.skyde">
