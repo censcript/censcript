@@ -1878,83 +1878,95 @@ Warning: Undefined array key "et" in /usr/home/ManusiaBiasa/domains/manusiabiasa
 <programme start="20260412215000 +0000" stop="20260412235000 +0000" channel="Sky Cinema Premiere HD.skyde">
     <title>Konklave</title>
 </programme>
-<programme start="20260411223500 +0000" stop="20260411232000 +0000" channel="Sky Crime HD.skyde">
-    <title>Buried in the Backyard - Mord verjährt nicht</title>
+<programme start="20260421222000 +0000" stop="20260421230500 +0000" channel="Sky Crime HD.skyde">
+    <title>Whistleblower - Der Preis der Wahrheit</title>
 </programme>
-<programme start="20260411232000 +0000" stop="20260412000000 +0000" channel="Sky Crime HD.skyde">
-    <title>Buried in the Backyard - Mord verjährt nicht</title>
+<programme start="20260421230500 +0000" stop="20260421235500 +0000" channel="Sky Crime HD.skyde">
+    <title>Crime Scene Cleaners</title>
 </programme>
-<programme start="20260412000000 +0000" stop="20260412004500 +0000" channel="Sky Crime HD.skyde">
-    <title>Buried in the Backyard - Mord verjährt nicht</title>
+<programme start="20260421235500 +0000" stop="20260422004000 +0000" channel="Sky Crime HD.skyde">
+    <title>Crime Scene Cleaners</title>
 </programme>
-<programme start="20260412004500 +0000" stop="20260412020500 +0000" channel="Sky Crime HD.skyde">
-    <title>Buried in the Backyard - Mord verjährt nicht</title>
+<programme start="20260422004000 +0000" stop="20260422012500 +0000" channel="Sky Crime HD.skyde">
+    <title>Hours to Kill - Zeitachse des Todes</title>
 </programme>
-<programme start="20260412020500 +0000" stop="20260412023000 +0000" channel="Sky Crime HD.skyde">
+<programme start="20260422012500 +0000" stop="20260422020500 +0000" channel="Sky Crime HD.skyde">
+    <title>Hours to Kill - Zeitachse des Todes</title>
+</programme>
+<programme start="20260422020500 +0000" stop="20260422023000 +0000" channel="Sky Crime HD.skyde">
     <title>Police Ten 7 - Auf Streife in Down Under</title>
 </programme>
-<programme start="20260412023000 +0000" stop="20260412033000 +0000" channel="Sky Crime HD.skyde">
-    <title>The Real Manhunter</title>
+<programme start="20260422023000 +0000" stop="20260422032500 +0000" channel="Sky Crime HD.skyde">
+    <title>Murdered At First Sight</title>
 </programme>
-<programme start="20260412033000 +0000" stop="20260412042000 +0000" channel="Sky Crime HD.skyde">
-    <title>The Real Manhunter</title>
+<programme start="20260422032500 +0000" stop="20260422041500 +0000" channel="Sky Crime HD.skyde">
+    <title>Murdered At First Sight</title>
 </programme>
-<programme start="20260412042000 +0000" stop="20260412050500 +0000" channel="Sky Crime HD.skyde">
-    <title>The Real Manhunter</title>
+<programme start="20260422041500 +0000" stop="20260422050500 +0000" channel="Sky Crime HD.skyde">
+    <title>Murdered At First Sight</title>
 </programme>
-<programme start="20260412050500 +0000" stop="20260412055000 +0000" channel="Sky Crime HD.skyde">
-    <title>The Real Manhunter</title>
-</programme>
-<programme start="20260412055000 +0000" stop="20260412072500 +0000" channel="Sky Crime HD.skyde">
-    <title>The Real Manhunter</title>
-</programme>
-<programme start="20260412072500 +0000" stop="20260412090000 +0000" channel="Sky Crime HD.skyde">
-    <title>The Real Manhunter</title>
-</programme>
-<programme start="20260412090000 +0000" stop="20260412095000 +0000" channel="Sky Crime HD.skyde">
-    <title>The Real Manhunter</title>
-</programme>
-<programme start="20260412095000 +0000" stop="20260412103500 +0000" channel="Sky Crime HD.skyde">
-    <title>The Real Manhunter</title>
-</programme>
-<programme start="20260412103500 +0000" stop="20260412112500 +0000" channel="Sky Crime HD.skyde">
+<programme start="20260422050500 +0000" stop="20260422055500 +0000" channel="Sky Crime HD.skyde">
     <title>Murder by Medic - Tödliche Behandlung</title>
 </programme>
-<programme start="20260412112500 +0000" stop="20260412121500 +0000" channel="Sky Crime HD.skyde">
+<programme start="20260422055500 +0000" stop="20260422064500 +0000" channel="Sky Crime HD.skyde">
     <title>Murder by Medic - Tödliche Behandlung</title>
 </programme>
-<programme start="20260412121500 +0000" stop="20260412130500 +0000" channel="Sky Crime HD.skyde">
+<programme start="20260422064500 +0000" stop="20260422073500 +0000" channel="Sky Crime HD.skyde">
+    <title>Holly Jolly Homicides</title>
+</programme>
+<programme start="20260422073500 +0000" stop="20260422082500 +0000" channel="Sky Crime HD.skyde">
+    <title>Holly Jolly Homicides</title>
+</programme>
+<programme start="20260422082500 +0000" stop="20260422091500 +0000" channel="Sky Crime HD.skyde">
+    <title>Forensik: Dem Mörder auf der Spur</title>
+</programme>
+<programme start="20260422091500 +0000" stop="20260422100500 +0000" channel="Sky Crime HD.skyde">
+    <title>Forensik: Dem Mörder auf der Spur</title>
+</programme>
+<programme start="20260422100500 +0000" stop="20260422105000 +0000" channel="Sky Crime HD.skyde">
+    <title>Hours to Kill - Zeitachse des Todes</title>
+</programme>
+<programme start="20260422105000 +0000" stop="20260422113500 +0000" channel="Sky Crime HD.skyde">
+    <title>Hours to Kill - Zeitachse des Todes</title>
+</programme>
+<programme start="20260422113500 +0000" stop="20260422122500 +0000" channel="Sky Crime HD.skyde">
     <title>Murder by Medic - Tödliche Behandlung</title>
 </programme>
-<programme start="20260412130500 +0000" stop="20260412135000 +0000" channel="Sky Crime HD.skyde">
+<programme start="20260422122500 +0000" stop="20260422131500 +0000" channel="Sky Crime HD.skyde">
     <title>Murder by Medic - Tödliche Behandlung</title>
 </programme>
-<programme start="20260412135000 +0000" stop="20260412144000 +0000" channel="Sky Crime HD.skyde">
+<programme start="20260422131500 +0000" stop="20260422140500 +0000" channel="Sky Crime HD.skyde">
+    <title>Crime Scene Cleaners</title>
+</programme>
+<programme start="20260422140500 +0000" stop="20260422145500 +0000" channel="Sky Crime HD.skyde">
+    <title>Crime Scene Cleaners</title>
+</programme>
+<programme start="20260422145500 +0000" stop="20260422154500 +0000" channel="Sky Crime HD.skyde">
+    <title>Forensik: Dem Mörder auf der Spur</title>
+</programme>
+<programme start="20260422154500 +0000" stop="20260422163500 +0000" channel="Sky Crime HD.skyde">
+    <title>Forensik: Dem Mörder auf der Spur</title>
+</programme>
+<programme start="20260422163500 +0000" stop="20260422172500 +0000" channel="Sky Crime HD.skyde">
     <title>Murder by Medic - Tödliche Behandlung</title>
 </programme>
-<programme start="20260412144000 +0000" stop="20260412153000 +0000" channel="Sky Crime HD.skyde">
+<programme start="20260422172500 +0000" stop="20260422181500 +0000" channel="Sky Crime HD.skyde">
     <title>Murder by Medic - Tödliche Behandlung</title>
 </programme>
-<programme start="20260412153000 +0000" stop="20260412162000 +0000" channel="Sky Crime HD.skyde">
-    <title>Murder by Medic - Tödliche Behandlung</title>
+<programme start="20260422181500 +0000" stop="20260422190500 +0000" channel="Sky Crime HD.skyde">
+    <title>Murdered or Missing? - Die ausgelöschte Familie</title>
 </programme>
-<programme start="20260412162000 +0000" stop="20260412170500 +0000" channel="Sky Crime HD.skyde">
-    <title>Murder by Medic - Tödliche Behandlung</title>
+<programme start="20260422190500 +0000" stop="20260422195500 +0000" channel="Sky Crime HD.skyde">
+    <title>Murdered or Missing? - Die ausgelöschte Familie</title>
 </programme>
-<programme start="20260412170500 +0000" stop="20260412175500 +0000" channel="Sky Crime HD.skyde">
-    <title>Murder by Medic - Tödliche Behandlung</title>
+<programme start="20260422195500 +0000" stop="20260422204500 +0000" channel="Sky Crime HD.skyde">
+    <title>Crime Scene Cleaners</title>
 </programme>
-<programme start="20260412175500 +0000" stop="20260412184500 +0000" channel="Sky Crime HD.skyde">
-    <title>Murder by Medic - Tödliche Behandlung</title>
+<programme start="20260422204500 +0000" stop="20260422213500 +0000" channel="Sky Crime HD.skyde">
+    <title>Crime Scene Cleaners</title>
 </programme>
-<programme start="20260412184500 +0000" stop="20260412193500 +0000" channel="Sky Crime HD.skyde">
-    <title>Geständnis eines Killers</title>
-</programme>
-<programme start="20260412193500 +0000" stop="20260412202500 +0000" channel="Sky Crime HD.skyde">
-    <title>Geständnis eines Killers</title>
-</programme>
-<programme start="20260412202500 +0000" stop="20260412220000 +0000" channel="Sky Crime HD.skyde">
-    <title>23 - Der mysteriöse Tod eines Hackers</title>
+<programme start="20260422213500 +0000" stop="20260422223000 +0000" channel="Sky Crime HD.skyde">
+    <title>The Body: Spuren des Bösen</title>
 </programme>
 <programme start="20260411221000 +0000" stop="20260411224000 +0000" channel="Sky Documentaries HD.skyde">
     <title>Meine Geschichte</title>
@@ -2467,7 +2479,7 @@ Warning: Undefined array key "et" in /usr/home/ManusiaBiasa/domains/manusiabiasa
     <title>Admiral BL: Alle Spiele, alle Tore 26. Runde (Samstag)</title>
 </programme>
 <programme start="20260412110000 +0000" stop="20260412120000 +0000" channel="Sky Sport Austria 1 HD.skyde">
-    <title>Fußball: UEL &amp; UECL Magazin</title>
+    <title>UEFA EL: UEL &amp; UECL Magazin</title>
 </programme>
 <programme start="20260412120000 +0000" stop="20260412143000 +0000" channel="Sky Sport Austria 1 HD.skyde">
     <title>Live Admiral BL: SK Puntigamer Sturm Graz - TSV Egger Glas Hartberg, 26. Runde</title>
@@ -2491,7 +2503,7 @@ Warning: Undefined array key "et" in /usr/home/ManusiaBiasa/domains/manusiabiasa
     <title>Admiral BL: ASAT Kompakt, 26. Runde</title>
 </programme>
 <programme start="20260412213000 +0000" stop="20260412223000 +0000" channel="Sky Sport Austria 1 HD.skyde">
-    <title>Fußball: UEL &amp; UECL Magazin</title>
+    <title>UEFA EL: UEL &amp; UECL Magazin</title>
 </programme>
 <programme start="20260412114000 +0000" stop="20260412120000 +0000" channel="Sky Sport Austria 2 HD.skyde">
     <title>Es folgt: LIVE Admiral BL</title>
@@ -3031,13 +3043,13 @@ Warning: Undefined array key "et" in /usr/home/ManusiaBiasa/domains/manusiabiasa
     <title>ATP 1000: C. Alcaraz (ESP) - V. Vacherot (MON), Rolex Monte-Carlo Masters in Monte-Carlo, Halbfinale 2</title>
 </programme>
 <programme start="20260412100000 +0000" stop="20260412123000 +0000" channel="Sky Sport Tennis HD.skyde">
-    <title>Live ATP 1000: Finale, Rolex Monte-Carlo Masters in Monte-Carlo, Doppelfinale</title>
+    <title>Live ATP 1000: K. Krawietz (GER) / T. Puetz (GER) - M. Arevalo (ESA) / M. Pavic (CRO), Rolex Monte-Carlo Masters in Monte-Carlo, Doppelfinale</title>
 </programme>
 <programme start="20260412123000 +0000" stop="20260412125000 +0000" channel="Sky Sport Tennis HD.skyde">
     <title>ATP &amp; WTA: Best Shots 2025</title>
 </programme>
 <programme start="20260412125000 +0000" stop="20260412153000 +0000" channel="Sky Sport Tennis HD.skyde">
-    <title>Live ATP 1000: Finale, Rolex Monte-Carlo Masters in Monte-Carlo, Finale</title>
+    <title>Live ATP 1000: J. Sinner (ITA) - C. Alcaraz (ESP), Rolex Monte-Carlo Masters in Monte-Carlo, Finale</title>
 </programme>
 <programme start="20260412153000 +0000" stop="20260412163000 +0000" channel="Sky Sport Tennis HD.skyde">
     <title>ATP 1000: Review Miami</title>
@@ -3046,10 +3058,10 @@ Warning: Undefined array key "et" in /usr/home/ManusiaBiasa/domains/manusiabiasa
     <title>WTA: All Access Magazine Show</title>
 </programme>
 <programme start="20260412170000 +0000" stop="20260412193000 +0000" channel="Sky Sport Tennis HD.skyde">
-    <title>WTA 500: Finale, Upper Austria Ladies Linz in Linz (AUT), Finale</title>
+    <title>WTA 500: A. Potapova (AUT) - M. Andreeva, Upper Austria Ladies Linz in Linz (AUT), Finale</title>
 </programme>
 <programme start="20260412193000 +0000" stop="20260412220000 +0000" channel="Sky Sport Tennis HD.skyde">
-    <title>ATP 1000: Finale, Rolex Monte-Carlo Masters in Monte-Carlo, Finale</title>
+    <title>ATP 1000: J. Sinner (ITA) - C. Alcaraz (ESP), Rolex Monte-Carlo Masters in Monte-Carlo, Finale</title>
 </programme>
 <programme start="20260411231000 +0000" stop="20260412020000 +0000" channel="Sky Sport Top Event HD.skyde">
     <title>Live NHL: Florida Panthers @ Toronto Maple Leafs</title>
@@ -3117,11 +3129,11 @@ Warning: Undefined array key "et" in /usr/home/ManusiaBiasa/domains/manusiabiasa
 <programme start="20260412212500 +0000" stop="20260412214500 +0000" channel="Sky Sport 1 HD.skyde">
     <title>Es folgt: LIVE NBA</title>
 </programme>
-<programme start="20260412214500 +0000" stop="20260413010000 +0000" channel="Sky Sport 1 HD.skyde">
+<programme start="20260412214500 +0000" stop="20260413080000 +0000" channel="Sky Sport 1 HD.skyde">
     <title>Live NBA: Orlando Magic @ Boston Celtics</title>
 </programme>
 <programme start="20260412133000 +0000" stop="20260412135000 +0000" channel="Sky Sport 7 HD.skyde">
-    <title>Es folgt: LIVE EFL Trophy Final</title>
+    <title>Es folgt: LIVE EFL Trophy</title>
 </programme>
 <programme start="20260412135000 +0000" stop="20260412173000 +0000" channel="Sky Sport 7 HD.skyde">
     <title>Live EFL: Stockport County - Luton Town, Vertu Trophy Final in Wembley</title>
