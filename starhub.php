@@ -1354,16 +1354,16 @@
     <programme start="20260412153500 +0000" stop="20260412171000 +0000" channel="Lifetime HD.starhub">
         <title>Smart Home Killer</title>
     </programme>
-    <programme start="20260411143000 +0000" stop="20260411173000 +0000" channel="COLORS Tamil HD.starhub">
+    <programme start="20260411160000 +0000" stop="20260411173000 +0000" channel="COLORS Tamil HD.starhub">
         <title>Netrikann</title>
     </programme>
     <programme start="20260411173000 +0000" stop="20260411180000 +0000" channel="COLORS Tamil HD.starhub">
         <title>Muthazhagu</title>
     </programme>
-    <programme start="20260411180000 +0000" stop="20260411203000 +0000" channel="COLORS Tamil HD.starhub">
+    <programme start="20260411180000 +0000" stop="20260411210000 +0000" channel="COLORS Tamil HD.starhub">
         <title>Inidhu Inidhu</title>
     </programme>
-    <programme start="20260411203000 +0000" stop="20260411213000 +0000" channel="COLORS Tamil HD.starhub">
+    <programme start="20260411210000 +0000" stop="20260411220000 +0000" channel="COLORS Tamil HD.starhub">
         <title>Veera Hanuman</title>
     </programme>
     <programme start="20260411220000 +0000" stop="20260411223000 +0000" channel="COLORS Tamil HD.starhub">
