@@ -502,9 +502,6 @@
 <programme start="20260412041500 +0000" stop="20260412050000 +0000" channel="Trans 7.vision">
 <title>Enaknya Mantul</title>
 </programme>
-<programme start="20260412050000 +0000" stop="20260412054500 +0000" channel="Trans 7.vision">
-<title>Jejak Petualangan</title>
-</programme>
 <programme start="20260412054500 +0000" stop="20260412063000 +0000" channel="Trans 7.vision">
 <title>The Explorer</title>
 </programme>
@@ -616,9 +613,6 @@
 <programme start="20260412003000 +0000" stop="20260412023000 +0000" channel="ANTV.vision">
 <title>Janji Cinta Inspektur Virat</title>
 </programme>
-<programme start="20260412023000 +0000" stop="20260412060000 +0000" channel="ANTV.vision">
-<title>Taarzan: The Wonder Car</title>
-</programme>
 <programme start="20260412060000 +0000" stop="20260412080000 +0000" channel="ANTV.vision">
 <title>Jhanak</title>
 </programme>
@@ -627,9 +621,6 @@
 </programme>
 <programme start="20260412090000 +0000" stop="20260412110000 +0000" channel="ANTV.vision">
 <title>Vasudha</title>
-</programme>
-<programme start="20260412110000 +0000" stop="20260412130000 +0000" channel="ANTV.vision">
-<title>Golok Setan</title>
 </programme>
 <programme start="20260412130000 +0000" stop="20260412143000 +0000" channel="ANTV.vision">
 <title>Nyi Ageng Ratu Pemikat</title>
@@ -1497,4 +1488,13 @@
 </programme>
 <programme start="20260412153500 +0000" stop="20260412162000 +0000" channel="MDTV.vision">
 <title>86</title>
+</programme>
+<programme start="20260412162000 +0000" stop="20260412170500 +0000" channel="MDTV.vision">
+<title>Malam-Malam</title>
+</programme>
+<programme start="20260412170500 +0000" stop="20260412183500 +0000" channel="MDTV.vision">
+<title>MDTV</title>
+</programme>
+<programme start="20260412183500 +0000" stop="20260412194000 +0000" channel="MDTV.vision">
+<title>MDTV</title>
 </programme>

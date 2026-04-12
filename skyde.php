@@ -3051,7 +3051,7 @@ Warning: Undefined array key "et" in /usr/home/ManusiaBiasa/domains/manusiabiasa
 <programme start="20260412193000 +0000" stop="20260412220000 +0000" channel="Sky Sport Tennis HD.skyde">
     <title>ATP 1000: J. Sinner (ITA) - C. Alcaraz (ESP), Rolex Monte-Carlo Masters in Monte-Carlo, Finale</title>
 </programme>
-<programme start="20260411230000 +0000" stop="20260412020000 +0000" channel="Sky Sport Top Event HD.skyde">
+<programme start="20260411231000 +0000" stop="20260412020000 +0000" channel="Sky Sport Top Event HD.skyde">
     <title>Live NHL: Florida Panthers @ Toronto Maple Leafs</title>
 </programme>
 <programme start="20260412020000 +0000" stop="20260412023000 +0000" channel="Sky Sport Top Event HD.skyde">
@@ -3076,7 +3076,7 @@ Warning: Undefined array key "et" in /usr/home/ManusiaBiasa/domains/manusiabiasa
     <title>BL: Alle Spiele, alle Stimmen, 29. Spieltag</title>
 </programme>
 <programme start="20260412100000 +0000" stop="20260412110000 +0000" channel="Sky Sport Top Event HD.skyde">
-    <title>Live ATP 1000: tba - M. Arevalo (ESA) / M. Pavic (CRO), Rolex Monte-Carlo Masters in Monte-Carlo, Doppelfinale</title>
+    <title>Live ATP 1000: K. Krawietz (GER) / T. Puetz (GER) - M. Arevalo (ESA) / M. Pavic (CRO), Rolex Monte-Carlo Masters in Monte-Carlo, Doppelfinale</title>
 </programme>
 <programme start="20260412110000 +0000" stop="20260412133000 +0000" channel="Sky Sport Top Event HD.skyde">
     <title>Live 2. BL: Sonntags-Konferenz, 29. Spieltag</title>
