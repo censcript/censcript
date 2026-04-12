@@ -3121,9 +3121,9 @@ Warning: Undefined array key "et" in /usr/home/ManusiaBiasa/domains/manusiabiasa
     <title>Live NBA: Orlando Magic @ Boston Celtics</title>
 </programme>
 <programme start="20260412133000 +0000" stop="20260412135000 +0000" channel="Sky Sport 7 HD.skyde">
-    <title>Es folgt: LIVE EFL League One</title>
+    <title>Es folgt: LIVE EFL Trophy</title>
 </programme>
-<programme start="20260412135000 +0000" stop="20260412163000 +0000" channel="Sky Sport 7 HD.skyde">
+<programme start="20260412135000 +0000" stop="20260412173000 +0000" channel="Sky Sport 7 HD.skyde">
     <title>Live EFL: Stockport County - Luton Town, Vertu Trophy Final in Wembley</title>
 </programme>
 <programme start="20260412123000 +0000" stop="20260412125000 +0000" channel="Sky Sport 8 HD.skyde">
