@@ -351,39 +351,39 @@
     <desc>Live: Tidak</desc>
 </programme>
 <programme start="20260413003000 +0700" stop="20260413030000 +0700" channel="COSMOTE Sport 6 HD">
-    <title>Tennis: ATP Masters 1000 2026</title>
+    <title>Tennis: Carlos Alcaraz - Jannik Sinner</title>
     <desc>Live: Tidak</desc>
 </programme>
-<programme start="20260413030000 +0700" stop="20260413070000 +0700" channel="COSMOTE Sport 6 HD">
+<programme start="20260413030000 +0700" stop="20260413065000 +0700" channel="COSMOTE Sport 6 HD">
     <title>Fight Sports: UFC Fight Night 2026</title>
     <desc>Live: Tidak</desc>
 </programme>
-<programme start="20260413070000 +0700" stop="20260413100000 +0700" channel="COSMOTE Sport 6 HD">
+<programme start="20260413065000 +0700" stop="20260413094000 +0700" channel="COSMOTE Sport 6 HD">
     <title>Fight Sports: Oktagon 2026</title>
     <desc>Live: Tidak</desc>
 </programme>
-<programme start="20260413100000 +0700" stop="20260413113000 +0700" channel="COSMOTE Sport 6 HD">
+<programme start="20260413094000 +0700" stop="20260413113000 +0700" channel="COSMOTE Sport 6 HD">
     <title>Handball: ThSV Eisenach - TSV Hannover-Burgdorf</title>
     <desc>Live: Tidak</desc>
 </programme>
-<programme start="20260413113000 +0700" stop="20260413133000 +0700" channel="COSMOTE Sport 6 HD">
-    <title>Tennis: ATP Masters 1000 2026</title>
+<programme start="20260413113000 +0700" stop="20260413131500 +0700" channel="COSMOTE Sport 6 HD">
+    <title>Tennis: Marcelo Arevalo/Mate Pavic - Kevin Krawietz/Tim Puetz</title>
     <desc>Live: Tidak</desc>
 </programme>
-<programme start="20260413133000 +0700" stop="20260413160000 +0700" channel="COSMOTE Sport 6 HD">
-    <title>Tennis: ATP Masters 1000 2026</title>
+<programme start="20260413131500 +0700" stop="20260413160000 +0700" channel="COSMOTE Sport 6 HD">
+    <title>Tennis: Carlos Alcaraz - Jannik Sinner</title>
     <desc>Live: Tidak</desc>
 </programme>
 <programme start="20260413160000 +0700" stop="20260413180000 +0700" channel="COSMOTE Sport 6 HD">
-    <title>Tennis: ATP 500 2026 (L)</title>
+    <title>Tennis: Arthur Rinderknech - Alex Michelsen (L)</title>
     <desc>Live: Ya</desc>
 </programme>
 <programme start="20260413180000 +0700" stop="20260413200000 +0700" channel="COSMOTE Sport 6 HD">
-    <title>Tennis: ATP 500 2026 (L)</title>
+    <title>Tennis: Jan Lennard Struff - Juan Manuel Cerundolo (L)</title>
     <desc>Live: Ya</desc>
 </programme>
 <programme start="20260413200000 +0700" stop="20260413220000 +0700" channel="COSMOTE Sport 6 HD">
-    <title>Tennis: ATP 500 2026 (L)</title>
+    <title>Tennis: Emilio Nava - Ben Shelton (L)</title>
     <desc>Live: Ya</desc>
 </programme>
 <programme start="20260413220000 +0700" stop="20260414003000 +0700" channel="COSMOTE Sport 6 HD">
@@ -443,7 +443,7 @@
     <desc>Live: Tidak</desc>
 </programme>
 <programme start="20260413160000 +0700" stop="20260413183000 +0700" channel="COSMOTE Sport 7 HD">
-    <title>Tennis: ATP 500 2026 (L)</title>
+    <title>Tennis: Ignacio Buse - Corentin Moutet (L)</title>
     <desc>Live: Ya</desc>
 </programme>
 <programme start="20260413183000 +0700" stop="20260413190000 +0700" channel="COSMOTE Sport 7 HD">
