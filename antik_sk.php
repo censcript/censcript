@@ -490,10 +490,10 @@
   <programme start="20260413230000 +0000" stop="20260413235000 +0000" channel="Markíza.webtv.sk">
     <title lang="id">Mentalista I (10)</title>
   </programme>
-  <programme start="20260413235000 +0000" stop="20260414010000 +0000" channel="Markíza.webtv.sk">
+  <programme start="20260413235000 +0000" stop="20260414005500 +0000" channel="Markíza.webtv.sk">
     <title lang="id">Zámena manželiek</title>
   </programme>
-  <programme start="20260414010000 +0000" stop="20260414014500 +0000" channel="Markíza.webtv.sk">
+  <programme start="20260414005500 +0000" stop="20260414014500 +0000" channel="Markíza.webtv.sk">
     <title lang="id">Susedské prípady (22)</title>
   </programme>
   <programme start="20260414014500 +0000" stop="20260414030000 +0000" channel="Markíza.webtv.sk">

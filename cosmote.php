@@ -70,9 +70,9 @@
     <title>UEFA Champions League Highlights 2025-26</title>
     <desc>Live: Tidak</desc>
 </programme>
-<programme start="20260413023000 +0700" stop="20260413043000 +0700" channel="COSMOTE Sport 2 HD">
-    <title>Football: Estoril - FC Porto (L)</title>
-    <desc>Live: Ya</desc>
+<programme start="20260414050000 +0700" stop="20260414060000 +0700" channel="COSMOTE Sport 1 HD">
+    <title>Highlights: UEL &amp; UECL 2025-26</title>
+    <desc>Live: Tidak</desc>
 </programme>
 <programme start="20260413043000 +0700" stop="20260413063000 +0700" channel="COSMOTE Sport 2 HD">
     <title>Football: Parma - SSC Napoli</title>
@@ -126,12 +126,8 @@
     <title>Football: AEL Novibet - Panetolikos</title>
     <desc>Live: Tidak</desc>
 </programme>
-<programme start="20260413040000 +0700" stop="20260413043000 +0700" channel="COSMOTE Sport 3 HD">
-    <title>William Hill Scottish Premiership - Highlights</title>
-    <desc>Live: Tidak</desc>
-</programme>
-<programme start="20260413043000 +0700" stop="20260413050000 +0700" channel="COSMOTE Sport 3 HD">
-    <title>Emirates FA Cup 2025-26 - Highlights</title>
+<programme start="20260414054000 +0700" stop="20260414061000 +0700" channel="COSMOTE Sport 2 HD">
+    <title>Sports Classics: Football Countdowns E1</title>
     <desc>Live: Tidak</desc>
 </programme>
 <programme start="20260413050000 +0700" stop="20260413053000 +0700" channel="COSMOTE Sport 3 HD">
@@ -198,10 +194,6 @@
     <title>Football: West Ham United FC - Leeds United</title>
     <desc>Live: Tidak</desc>
 </programme>
-<programme start="20260413030000 +0700" stop="20260413050000 +0700" channel="COSMOTE Sport 4 HD">
-    <title>Basketball: Unicaja - Valencia Basket Club</title>
-    <desc>Live: Tidak</desc>
-</programme>
 <programme start="20260413050000 +0700" stop="20260413080000 +0700" channel="COSMOTE Sport 4 HD">
     <title>Basketball: New York Knicks - Charlotte Hornets (L)</title>
     <desc>Live: Ya</desc>
@@ -252,10 +244,6 @@
 </programme>
 <programme start="20260414033000 +0700" stop="20260414060000 +0700" channel="COSMOTE Sport 4 HD">
     <title>Basketball: Los Angeles Clippers - Golden State Warriors</title>
-    <desc>Live: Tidak</desc>
-</programme>
-<programme start="20260413031500 +0700" stop="20260413042000 +0700" channel="COSMOTE Sport 5 HD">
-    <title>2025 Extreme H</title>
     <desc>Live: Tidak</desc>
 </programme>
 <programme start="20260413042000 +0700" stop="20260413052500 +0700" channel="COSMOTE Sport 5 HD">
@@ -358,6 +346,10 @@
     <title>DTM 2025</title>
     <desc>Live: Tidak</desc>
 </programme>
+<programme start="20260414052000 +0700" stop="20260414065500 +0700" channel="COSMOTE Sport 5 HD">
+    <title>DTM 2025</title>
+    <desc>Live: Tidak</desc>
+</programme>
 <programme start="20260413030000 +0700" stop="20260413065000 +0700" channel="COSMOTE Sport 6 HD">
     <title>Fight Sports: UFC Fight Night 2026</title>
     <desc>Live: Tidak</desc>
@@ -399,6 +391,10 @@
     <desc>Live: Tidak</desc>
 </programme>
 <programme start="20260414010000 +0700" stop="20260414050000 +0700" channel="COSMOTE Sport 6 HD">
+    <title>Tennis: ATP 500 2026</title>
+    <desc>Live: Tidak</desc>
+</programme>
+<programme start="20260414050000 +0700" stop="20260414090000 +0700" channel="COSMOTE Sport 6 HD">
     <title>Tennis: ATP 500 2026</title>
     <desc>Live: Tidak</desc>
 </programme>
