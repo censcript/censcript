@@ -1,7 +1,3 @@
-<programme start="20260412160000 +0700" stop="20260412163000 +0700" channel="COSMOTE Sport 1 HD">
-    <title>Game R1 S6 E33</title>
-    <desc>Live: Tidak</desc>
-</programme>
 <programme start="20260412163000 +0700" stop="20260412173000 +0700" channel="COSMOTE Sport 1 HD">
     <title>UEL &amp; UECL Magazine 2025-26 E17</title>
     <desc>Live: Tidak</desc>
@@ -132,6 +128,10 @@
 </programme>
 <programme start="20260413151000 +0700" stop="20260413171000 +0700" channel="COSMOTE Sport 2 HD">
     <title>Football: Bologna - Lecce</title>
+    <desc>Live: Tidak</desc>
+</programme>
+<programme start="20260413171000 +0700" stop="20260413192000 +0700" channel="COSMOTE Sport 2 HD">
+    <title>Football: AEL Novibet - Panetolikos</title>
     <desc>Live: Tidak</desc>
 </programme>
 <programme start="20260412160000 +0700" stop="20260412180000 +0700" channel="COSMOTE Sport 3 HD">
@@ -266,10 +266,6 @@
     <title>Basketball: New York Knicks - Charlotte Hornets</title>
     <desc>Live: Tidak</desc>
 </programme>
-<programme start="20260412152000 +0700" stop="20260412161000 +0700" channel="COSMOTE Sport 5 HD">
-    <title>WRC 2026</title>
-    <desc>Live: Tidak</desc>
-</programme>
 <programme start="20260412161000 +0700" stop="20260412171500 +0700" channel="COSMOTE Sport 5 HD">
     <title>WRC 2026</title>
     <desc>Live: Tidak</desc>
@@ -366,8 +362,8 @@
     <title>DTM</title>
     <desc>Live: Tidak</desc>
 </programme>
-<programme start="20260412130000 +0700" stop="20260412170000 +0700" channel="COSMOTE Sport 6 HD">
-    <title>Tennis: ATP Masters 1000 2026</title>
+<programme start="20260413172500 +0700" stop="20260413181500 +0700" channel="COSMOTE Sport 5 HD">
+    <title>WRC 2026</title>
     <desc>Live: Tidak</desc>
 </programme>
 <programme start="20260412170000 +0700" stop="20260412193000 +0700" channel="COSMOTE Sport 6 HD">

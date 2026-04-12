@@ -2496,26 +2496,26 @@ Warning: Undefined array key "et" in /usr/home/ManusiaBiasa/domains/manusiabiasa
 <programme start="20260412114000 +0000" stop="20260412120000 +0000" channel="Sky Sport Austria 2 HD.skyde">
     <title>Es folgt: LIVE Admiral BL</title>
 </programme>
-<programme start="20260412120000 +0000" stop="20260412144500 +0000" channel="Sky Sport Austria 2 HD.skyde">
+<programme start="20260412120000 +0000" stop="20260412151500 +0000" channel="Sky Sport Austria 2 HD.skyde">
     <title>Live Admiral BL: SK Puntigamer Sturm Graz - TSV Egger Glas Hartberg, 26. Runde</title>
 </programme>
 <programme start="20260412184000 +0000" stop="20260412190000 +0000" channel="Sky Sport Austria 2 HD.skyde">
     <title>Es folgt: LIVE NHL</title>
 </programme>
-<programme start="20260412190000 +0000" stop="20260412220000 +0000" channel="Sky Sport Austria 2 HD.skyde">
+<programme start="20260412190000 +0000" stop="20260412230000 +0000" channel="Sky Sport Austria 2 HD.skyde">
     <title>Live NHL: Pittsburgh Penguins @ Washington Capitals</title>
 </programme>
 <programme start="20260412094000 +0000" stop="20260412100000 +0000" channel="Sky Sport Austria 3 HD.skyde">
     <title>Es folgt: LIVE ATP World Tour</title>
 </programme>
 <programme start="20260412100000 +0000" stop="20260412123000 +0000" channel="Sky Sport Austria 3 HD.skyde">
-    <title>Live ATP 1000: Finale, Rolex Monte-Carlo Masters in Monte-Carlo, Doppelfinale</title>
+    <title>Live ATP 1000: tba - M. Arevalo (ESA) / M. Pavic (CRO), Rolex Monte-Carlo Masters in Monte-Carlo, Doppelfinale</title>
 </programme>
 <programme start="20260412123000 +0000" stop="20260412125000 +0000" channel="Sky Sport Austria 3 HD.skyde">
     <title>ATP &amp; WTA: Best Shots 2025</title>
 </programme>
-<programme start="20260412125000 +0000" stop="20260412153000 +0000" channel="Sky Sport Austria 3 HD.skyde">
-    <title>Live ATP 1000: Finale, Rolex Monte-Carlo Masters in Monte-Carlo, Finale</title>
+<programme start="20260412125000 +0000" stop="20260412173000 +0000" channel="Sky Sport Austria 3 HD.skyde">
+    <title>Live ATP 1000: J. Sinner (ITA) - C. Alcaraz (ESP), Rolex Monte-Carlo Masters in Monte-Carlo, Finale</title>
 </programme>
 <programme start="20260411220000 +0000" stop="20260411230000 +0000" channel="Sky Sport Bundesliga HD.skyde">
     <title>BL: Alle Spiele, alle Stimmen, 29. Spieltag</title>
@@ -2745,13 +2745,13 @@ Warning: Undefined array key "et" in /usr/home/ManusiaBiasa/domains/manusiabiasa
 <programme start="20260412200000 +0000" stop="20260412223000 +0000" channel="Sky Sport F1 HD.skyde">
     <title>F1: Rennen 2011 in Monte Carlo</title>
 </programme>
-<programme start="20260411231000 +0000" stop="20260411235500 +0000" channel="Sky Sport Golf HD.skyde">
+<programme start="20260411230000 +0000" stop="20260411235000 +0000" channel="Sky Sport Golf HD.skyde">
     <title>The Masters: 1986</title>
 </programme>
-<programme start="20260411235500 +0000" stop="20260412005500 +0000" channel="Sky Sport Golf HD.skyde">
+<programme start="20260411235000 +0000" stop="20260412005000 +0000" channel="Sky Sport Golf HD.skyde">
     <title>The Masters: Official Film 2023 (Jon Rahm)</title>
 </programme>
-<programme start="20260412005500 +0000" stop="20260412035000 +0000" channel="Sky Sport Golf HD.skyde">
+<programme start="20260412005000 +0000" stop="20260412035000 +0000" channel="Sky Sport Golf HD.skyde">
     <title>The Masters: 3. Tag in Augusta, GA (USA)</title>
 </programme>
 <programme start="20260412035000 +0000" stop="20260412045500 +0000" channel="Sky Sport Golf HD.skyde">
@@ -3051,7 +3051,7 @@ Warning: Undefined array key "et" in /usr/home/ManusiaBiasa/domains/manusiabiasa
 <programme start="20260412193000 +0000" stop="20260412220000 +0000" channel="Sky Sport Tennis HD.skyde">
     <title>ATP 1000: J. Sinner (ITA) - C. Alcaraz (ESP), Rolex Monte-Carlo Masters in Monte-Carlo, Finale</title>
 </programme>
-<programme start="20260411230000 +0000" stop="20260412020000 +0000" channel="Sky Sport Top Event HD.skyde">
+<programme start="20260411231000 +0000" stop="20260412020000 +0000" channel="Sky Sport Top Event HD.skyde">
     <title>Live NHL: Florida Panthers @ Toronto Maple Leafs</title>
 </programme>
 <programme start="20260412020000 +0000" stop="20260412023000 +0000" channel="Sky Sport Top Event HD.skyde">
@@ -3076,13 +3076,13 @@ Warning: Undefined array key "et" in /usr/home/ManusiaBiasa/domains/manusiabiasa
     <title>BL: Alle Spiele, alle Stimmen, 29. Spieltag</title>
 </programme>
 <programme start="20260412100000 +0000" stop="20260412110000 +0000" channel="Sky Sport Top Event HD.skyde">
-    <title>Live ATP 1000: Finale, Rolex Monte-Carlo Masters in Monte-Carlo, Doppelfinale</title>
+    <title>Live ATP 1000: K. Krawietz (GER) / T. Puetz (GER) - M. Arevalo (ESA) / M. Pavic (CRO), Rolex Monte-Carlo Masters in Monte-Carlo, Doppelfinale</title>
 </programme>
 <programme start="20260412110000 +0000" stop="20260412133000 +0000" channel="Sky Sport Top Event HD.skyde">
     <title>Live 2. BL: Sonntags-Konferenz, 29. Spieltag</title>
 </programme>
 <programme start="20260412133000 +0000" stop="20260412153000 +0000" channel="Sky Sport Top Event HD.skyde">
-    <title>Live ATP 1000: Finale, Rolex Monte-Carlo Masters in Monte-Carlo, Finale</title>
+    <title>Live ATP 1000: J. Sinner (ITA) - C. Alcaraz (ESP), Rolex Monte-Carlo Masters in Monte-Carlo, Finale</title>
 </programme>
 <programme start="20260412153000 +0000" stop="20260412173000 +0000" channel="Sky Sport Top Event HD.skyde">
     <title>Live PL: FC Chelsea - Manchester City, Match of the Week, 32. Spieltag</title>
@@ -3117,13 +3117,13 @@ Warning: Undefined array key "et" in /usr/home/ManusiaBiasa/domains/manusiabiasa
 <programme start="20260412212500 +0000" stop="20260412214500 +0000" channel="Sky Sport 1 HD.skyde">
     <title>Es folgt: LIVE NBA</title>
 </programme>
-<programme start="20260412214500 +0000" stop="20260413080000 +0000" channel="Sky Sport 1 HD.skyde">
+<programme start="20260412214500 +0000" stop="20260413010000 +0000" channel="Sky Sport 1 HD.skyde">
     <title>Live NBA: Orlando Magic @ Boston Celtics</title>
 </programme>
 <programme start="20260412133000 +0000" stop="20260412135000 +0000" channel="Sky Sport 7 HD.skyde">
-    <title>Es folgt: LIVE EFL League One</title>
+    <title>Es folgt: LIVE EFL Trophy</title>
 </programme>
-<programme start="20260412135000 +0000" stop="20260412163000 +0000" channel="Sky Sport 7 HD.skyde">
+<programme start="20260412135000 +0000" stop="20260412173000 +0000" channel="Sky Sport 7 HD.skyde">
     <title>Live EFL: Stockport County - Luton Town, Vertu Trophy Final in Wembley</title>
 </programme>
 <programme start="20260412123000 +0000" stop="20260412125000 +0000" channel="Sky Sport 8 HD.skyde">
