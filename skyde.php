@@ -2772,7 +2772,10 @@ Warning: Undefined array key "et" in /usr/home/ManusiaBiasa/domains/manusiabiasa
 <programme start="20260412125500 +0000" stop="20260412132500 +0000" channel="Sky Sport Golf HD.skyde">
     <title>The Masters: Official Film 1985 (Bernhard Langer)</title>
 </programme>
-<programme start="20260412132500 +0000" stop="20260412160000 +0000" channel="Sky Sport Golf HD.skyde">
+<programme start="20260412132500 +0000" stop="20260412141500 +0000" channel="Sky Sport Golf HD.skyde">
+    <title>The Masters: Official Film 1993 (Bernhard Langer)</title>
+</programme>
+<programme start="20260412141500 +0000" stop="20260412160000 +0000" channel="Sky Sport Golf HD.skyde">
     <title>Live The Masters: 4. Tag in Augusta (Early Coverage)</title>
 </programme>
 <programme start="20260412160000 +0000" stop="20260412230000 +0000" channel="Sky Sport Golf HD.skyde">
@@ -3048,7 +3051,7 @@ Warning: Undefined array key "et" in /usr/home/ManusiaBiasa/domains/manusiabiasa
 <programme start="20260412193000 +0000" stop="20260412220000 +0000" channel="Sky Sport Tennis HD.skyde">
     <title>ATP 1000: J. Sinner (ITA) - C. Alcaraz (ESP), Rolex Monte-Carlo Masters in Monte-Carlo, Finale</title>
 </programme>
-<programme start="20260411230000 +0000" stop="20260412020000 +0000" channel="Sky Sport Top Event HD.skyde">
+<programme start="20260411231000 +0000" stop="20260412020000 +0000" channel="Sky Sport Top Event HD.skyde">
     <title>Live NHL: Florida Panthers @ Toronto Maple Leafs</title>
 </programme>
 <programme start="20260412020000 +0000" stop="20260412023000 +0000" channel="Sky Sport Top Event HD.skyde">
@@ -3120,7 +3123,7 @@ Warning: Undefined array key "et" in /usr/home/ManusiaBiasa/domains/manusiabiasa
 <programme start="20260412133000 +0000" stop="20260412135000 +0000" channel="Sky Sport 7 HD.skyde">
     <title>Es folgt: LIVE EFL Trophy</title>
 </programme>
-<programme start="20260412135000 +0000" stop="20260412173000 +0000" channel="Sky Sport 7 HD.skyde">
+<programme start="20260412135000 +0000" stop="20260412163000 +0000" channel="Sky Sport 7 HD.skyde">
     <title>Live EFL: Stockport County - Luton Town, Vertu Trophy Final in Wembley</title>
 </programme>
 <programme start="20260412123000 +0000" stop="20260412125000 +0000" channel="Sky Sport 8 HD.skyde">

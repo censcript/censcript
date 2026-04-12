@@ -62,8 +62,8 @@
     <title>Football: ACF Fiorentina - SS Lazio (L)</title>
     <desc>Live: Ya</desc>
 </programme>
-<programme start="20260413020000 +0700" stop="20260413023000 +0700" channel="COSMOTE Sport 2 HD">
-    <title>Sports Classics: Worldies E9</title>
+<programme start="20260414034500 +0700" stop="20260414040000 +0700" channel="COSMOTE Sport 1 HD">
+    <title>Sports Highlights</title>
     <desc>Live: Tidak</desc>
 </programme>
 <programme start="20260413023000 +0700" stop="20260413043000 +0700" channel="COSMOTE Sport 2 HD">
@@ -116,6 +116,10 @@
 </programme>
 <programme start="20260414013000 +0700" stop="20260414033000 +0700" channel="COSMOTE Sport 2 HD">
     <title>Football: Como - FC Internazionale Milano</title>
+    <desc>Live: Tidak</desc>
+</programme>
+<programme start="20260414033000 +0700" stop="20260414054000 +0700" channel="COSMOTE Sport 2 HD">
+    <title>Football: AEL Novibet - Panetolikos</title>
     <desc>Live: Tidak</desc>
 </programme>
 <programme start="20260413020000 +0700" stop="20260413040000 +0700" channel="COSMOTE Sport 3 HD">
@@ -190,14 +194,6 @@
     <title>Football: Sheffield United - Hull City</title>
     <desc>Live: Tidak</desc>
 </programme>
-<programme start="20260413020000 +0700" stop="20260413023000 +0700" channel="COSMOTE Sport 4 HD">
-    <title>NBA Specials</title>
-    <desc>Live: Tidak</desc>
-</programme>
-<programme start="20260413023000 +0700" stop="20260413030000 +0700" channel="COSMOTE Sport 4 HD">
-    <title>NBA Specials</title>
-    <desc>Live: Tidak</desc>
-</programme>
 <programme start="20260413030000 +0700" stop="20260413050000 +0700" channel="COSMOTE Sport 4 HD">
     <title>Basketball: Unicaja - Valencia Basket Club</title>
     <desc>Live: Tidak</desc>
@@ -246,8 +242,12 @@
     <title>Basketball: Virtus Bologna - Cantu (L)</title>
     <desc>Live: Ya</desc>
 </programme>
-<programme start="20260413011500 +0700" stop="20260413021000 +0700" channel="COSMOTE Sport 5 HD">
-    <title>DTM</title>
+<programme start="20260414030000 +0700" stop="20260414033000 +0700" channel="COSMOTE Sport 4 HD">
+    <title>NBA Specials</title>
+    <desc>Live: Tidak</desc>
+</programme>
+<programme start="20260414033000 +0700" stop="20260414060000 +0700" channel="COSMOTE Sport 4 HD">
+    <title>Basketball: Los Angeles Clippers - Golden State Warriors</title>
     <desc>Live: Tidak</desc>
 </programme>
 <programme start="20260413021000 +0700" stop="20260413031500 +0700" channel="COSMOTE Sport 5 HD">
@@ -350,8 +350,8 @@
     <title>WRC</title>
     <desc>Live: Tidak</desc>
 </programme>
-<programme start="20260413003000 +0700" stop="20260413030000 +0700" channel="COSMOTE Sport 6 HD">
-    <title>Tennis: Carlos Alcaraz - Jannik Sinner</title>
+<programme start="20260414033000 +0700" stop="20260414040000 +0700" channel="COSMOTE Sport 5 HD">
+    <title>ERC 2025</title>
     <desc>Live: Tidak</desc>
 </programme>
 <programme start="20260413030000 +0700" stop="20260413065000 +0700" channel="COSMOTE Sport 6 HD">
@@ -397,10 +397,6 @@
 <programme start="20260414010000 +0700" stop="20260414050000 +0700" channel="COSMOTE Sport 6 HD">
     <title>Tennis: ATP 500 2026</title>
     <desc>Live: Tidak</desc>
-</programme>
-<programme start="20260413020000 +0700" stop="20260413030000 +0700" channel="COSMOTE Sport 7 HD">
-    <title>Beach Volley: Pro Tour Elite 16 2026 (L)</title>
-    <desc>Live: Ya</desc>
 </programme>
 <programme start="20260413030000 +0700" stop="20260413040000 +0700" channel="COSMOTE Sport 7 HD">
     <title>Beach Volley: Pro Tour Elite 16 2026 (L)</title>
