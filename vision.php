@@ -502,9 +502,6 @@
 <programme start="20260412041500 +0000" stop="20260412050000 +0000" channel="Trans 7.vision">
 <title>Enaknya Mantul</title>
 </programme>
-<programme start="20260412050000 +0000" stop="20260412054500 +0000" channel="Trans 7.vision">
-<title>Jejak Petualangan</title>
-</programme>
 <programme start="20260412054500 +0000" stop="20260412063000 +0000" channel="Trans 7.vision">
 <title>The Explorer</title>
 </programme>
@@ -1497,4 +1494,7 @@
 </programme>
 <programme start="20260412153500 +0000" stop="20260412162000 +0000" channel="MDTV.vision">
 <title>86</title>
+</programme>
+<programme start="20260412162000 +0000" stop="20260412170500 +0000" channel="MDTV.vision">
+<title>Malam-Malam</title>
 </programme>
