@@ -15433,12 +15433,12 @@
     <desc lang="id">Eps 23</desc>
     <icon src="https://thumbor.prod.vidiocdn.com/nY0aFklpYf6yONLaFJjxhiSuthc=/287x162/filters:strip_icc():quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/image/6786/champions-tv-3-76ca7c.jpg"/>
   </programme>
-  <programme channel="6786" start="20260413183000 +0000" stop="20260413205000 +0000">
+  <programme channel="6786" start="20260413183000 +0000" stop="20260413204900 +0000">
     <title lang="id">FIORENTINA vs LAZIO : Serie A 2025/26</title>
     <desc lang="id">FIORENTINA vs LAZIO</desc>
     <icon src="https://thumbor.prod.vidiocdn.com/nY0aFklpYf6yONLaFJjxhiSuthc=/287x162/filters:strip_icc():quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/image/6786/champions-tv-3-76ca7c.jpg"/>
   </programme>
-  <programme channel="6786" start="20260413205000 +0000" stop="20260413210000 +0000">
+  <programme channel="6786" start="20260413204900 +0000" stop="20260413210000 +0000">
     <title lang="id">Filler</title>
     <icon src="https://thumbor.prod.vidiocdn.com/nY0aFklpYf6yONLaFJjxhiSuthc=/287x162/filters:strip_icc():quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/image/6786/champions-tv-3-76ca7c.jpg"/>
   </programme>
@@ -20378,12 +20378,12 @@
     <desc lang="id">Show 27 Matchweek 32</desc>
     <icon src="https://thumbor.prod.vidiocdn.com/r_QaZubFaj9Ht_TI2kDgdImcRqY=/287x162/filters:strip_icc():quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/image/9182/champions-tv-5-e0dd48.jpg"/>
   </programme>
-  <programme channel="9182" start="20260413183000 +0000" stop="20260413210000 +0000">
+  <programme channel="9182" start="20260413183000 +0000" stop="20260413210200 +0000">
     <title lang="id">Man United vs Leeds United - Premier League</title>
     <desc lang="id">Nonton streaming pertandingan seru Man United vs Leeds United - Premier League. Saksikan aksi-aksi terbaik dari tim yang bersaing ketat untuk meraih kemenangan. Dapatkan informasi lengkap mengenai jadwal pertandingan dan hasil pertandingan terbaru hanya di Vidio.</desc>
     <icon src="https://thumbor.prod.vidiocdn.com/DxfPvj0vcdVq15-lYB4SE4aANOw=/287x162/filters:strip_icc():quality(70)/vidio-media-production/uploads/livestreaming/schedule/thumbnail/5013052/02c381.jpg"/>
   </programme>
-  <programme channel="9182" start="20260413210000 +0000" stop="20260413230000 +0000">
+  <programme channel="9182" start="20260413210200 +0000" stop="20260413230000 +0000">
     <title lang="id">BURNLEY vs BRIGHTON AND HOVE ALBION : Premier League 2025/26</title>
     <desc lang="id">BURNLEY vs BRIGHTON AND HOVE ALBION</desc>
     <icon src="https://thumbor.prod.vidiocdn.com/r_QaZubFaj9Ht_TI2kDgdImcRqY=/287x162/filters:strip_icc():quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/image/9182/champions-tv-5-e0dd48.jpg"/>
