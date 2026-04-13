@@ -99,6 +99,9 @@
   <channel id="9182">
     <display-name>Champions TV 5</display-name>
   </channel>
+  <channel id="9183">
+    <display-name>Champions TV 6</display-name>
+  </channel>
   <channel id="7150">
     <display-name>ABC Australia</display-name>
   </channel>
@@ -15223,50 +15226,6 @@
     <desc lang="id">Nonton streaming pertandingan seru Day 2 - WTA 500: Porsche Tennis Grand Prix 2026. Saksikan aksi-aksi terbaik dari tim yang bersaing ketat untuk meraih kemenangan. Dapatkan informasi lengkap mengenai jadwal pertandingan dan hasil pertandingan terbaru hanya di Vidio.</desc>
     <icon src="https://thumbor.prod.vidiocdn.com/-Km5fV4rfdANJTwZPQRJnvGm7-s=/287x162/filters:strip_icc():quality(70)/vidio-media-production/uploads/livestreaming/schedule/thumbnail/5014089/148b2b.jpg"/>
   </programme>
-  <programme channel="6786" start="20260415150000 +0000" stop="20260415210000 +0000">
-    <title lang="id">Day 2 - WTA 500: Porsche Tennis Grand Prix 2026</title>
-    <desc lang="id">Nonton streaming pertandingan seru Day 2 - WTA 500: Porsche Tennis Grand Prix 2026. Saksikan aksi-aksi terbaik dari tim yang bersaing ketat untuk meraih kemenangan. Dapatkan informasi lengkap mengenai jadwal pertandingan dan hasil pertandingan terbaru hanya di Vidio.</desc>
-    <icon src="https://thumbor.prod.vidiocdn.com/-Km5fV4rfdANJTwZPQRJnvGm7-s=/287x162/filters:strip_icc():quality(70)/vidio-media-production/uploads/livestreaming/schedule/thumbnail/5014089/148b2b.jpg"/>
-  </programme>
-  <programme channel="6786" start="20260415210000 +0000" stop="20260415213000 +0000">
-    <title lang="id">Eps 1 : Billie Jane King Cup 2025</title>
-    <desc lang="id">Eps 1</desc>
-    <icon src="https://thumbor.prod.vidiocdn.com/nY0aFklpYf6yONLaFJjxhiSuthc=/287x162/filters:strip_icc():quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/image/6786/champions-tv-3-76ca7c.jpg"/>
-  </programme>
-  <programme channel="6786" start="20260415213000 +0000" stop="20260416033000 +0000">
-    <title lang="id">Poland vs Ukraine : Billie Jean King Cup 2026 Qualifiers</title>
-    <desc lang="id">Poland vs Ukraine</desc>
-    <icon src="https://thumbor.prod.vidiocdn.com/nY0aFklpYf6yONLaFJjxhiSuthc=/287x162/filters:strip_icc():quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/image/6786/champions-tv-3-76ca7c.jpg"/>
-  </programme>
-  <programme channel="6786" start="20260416033000 +0000" stop="20260416040000 +0000">
-    <title lang="id">Full Impact - Round 32 : Serie A 2025/26 - Highlight Show</title>
-    <desc lang="id">Full Impact - Round 32</desc>
-    <icon src="https://thumbor.prod.vidiocdn.com/nY0aFklpYf6yONLaFJjxhiSuthc=/287x162/filters:strip_icc():quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/image/6786/champions-tv-3-76ca7c.jpg"/>
-  </programme>
-  <programme channel="6786" start="20260416040000 +0000" stop="20260416100000 +0000">
-    <title lang="id">Belgium vs USA : Billie Jean King Cup 2026 Qualifiers</title>
-    <desc lang="id">Belgium vs USA</desc>
-    <icon src="https://thumbor.prod.vidiocdn.com/nY0aFklpYf6yONLaFJjxhiSuthc=/287x162/filters:strip_icc():quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/image/6786/champions-tv-3-76ca7c.jpg"/>
-  </programme>
-  <programme channel="6786" start="20260416100000 +0000" stop="20260416103000 +0000">
-    <title lang="id">Week 23 : NFL Extra</title>
-    <desc lang="id">Week 23</desc>
-    <icon src="https://thumbor.prod.vidiocdn.com/nY0aFklpYf6yONLaFJjxhiSuthc=/287x162/filters:strip_icc():quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/image/6786/champions-tv-3-76ca7c.jpg"/>
-  </programme>
-  <programme channel="6786" start="20260416103000 +0000" stop="20260416143000 +0000">
-    <title lang="id">Day 3 - WTA 500: Porsche Tennis Grand Prix 2026</title>
-    <desc lang="id">Nonton streaming pertandingan seru Day 3 - WTA 500: Porsche Tennis Grand Prix 2026. Saksikan aksi-aksi terbaik dari tim yang bersaing ketat untuk meraih kemenangan. Dapatkan informasi lengkap mengenai jadwal pertandingan dan hasil pertandingan terbaru hanya di Vidio.</desc>
-    <icon src="https://thumbor.prod.vidiocdn.com/00Uuw2IeE9KbR0-zrM3_8SqbhDM=/287x162/filters:strip_icc():quality(70)/vidio-media-production/uploads/livestreaming/schedule/thumbnail/5014337/cb52d4.jpg"/>
-  </programme>
-  <programme channel="6786" start="20260416143000 +0000" stop="20260416150000 +0000">
-    <title lang="id">WTA my Story</title>
-    <icon src="https://thumbor.prod.vidiocdn.com/nY0aFklpYf6yONLaFJjxhiSuthc=/287x162/filters:strip_icc():quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/image/6786/champions-tv-3-76ca7c.jpg"/>
-  </programme>
-  <programme channel="6786" start="20260416150000 +0000" stop="20260416210000 +0000">
-    <title lang="id">Day 3 - WTA 500: Porsche Tennis Grand Prix 2026</title>
-    <desc lang="id">Nonton streaming pertandingan seru Day 3 - WTA 500: Porsche Tennis Grand Prix 2026. Saksikan aksi-aksi terbaik dari tim yang bersaing ketat untuk meraih kemenangan. Dapatkan informasi lengkap mengenai jadwal pertandingan dan hasil pertandingan terbaru hanya di Vidio.</desc>
-    <icon src="https://thumbor.prod.vidiocdn.com/4ePsIE33sCSnR24FHt8ZYJIp7jY=/287x162/filters:strip_icc():quality(70)/vidio-media-production/uploads/livestreaming/schedule/thumbnail/5014338/98a5a8.jpg"/>
-  </programme>
   <programme channel="6786" start="20260416150000 +0000" stop="20260416210000 +0000">
     <title lang="id">Day 3 - WTA 500: Porsche Tennis Grand Prix 2026</title>
     <desc lang="id">Nonton streaming pertandingan seru Day 3 - WTA 500: Porsche Tennis Grand Prix 2026. Saksikan aksi-aksi terbaik dari tim yang bersaing ketat untuk meraih kemenangan. Dapatkan informasi lengkap mengenai jadwal pertandingan dan hasil pertandingan terbaru hanya di Vidio.</desc>
@@ -19734,6 +19693,626 @@
     <title lang="id">[LIVE] MANCHESTER CITY vs ARSENAL : [LIVE] PREMIER LEAGUE 2025/26</title>
     <desc lang="id">MANCHESTER CITY vs ARSENAL</desc>
     <icon src="https://thumbor.prod.vidiocdn.com/r_QaZubFaj9Ht_TI2kDgdImcRqY=/287x162/filters:strip_icc():quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/image/9182/champions-tv-5-e0dd48.jpg"/>
+  </programme>
+  <programme channel="9183" start="20260412152000 +0000" stop="20260412173000 +0000">
+    <title lang="id">(Data Zone) Chelsea vs Man City - Premier League</title>
+    <desc lang="id">Nonton streaming pertandingan seru (Data Zone) Chelsea vs Man City - Premier League. Saksikan aksi-aksi terbaik dari tim yang bersaing ketat untuk meraih kemenangan. Dapatkan informasi lengkap mengenai jadwal pertandingan dan hasil pertandingan terbaru hanya di Vidio.</desc>
+    <icon src="https://thumbor.prod.vidiocdn.com/Bie-yQw0MtdvtKq1oujDPrw2Wnc=/287x162/filters:strip_icc():quality(70)/vidio-media-production/uploads/livestreaming/schedule/thumbnail/5008079/83589c.jpg"/>
+  </programme>
+  <programme channel="9183" start="20260412173000 +0000" stop="20260412183000 +0000">
+    <title lang="id">EPS 33 : THE CATCH UP SHOW 2025-26</title>
+    <desc lang="id">EPS 33</desc>
+    <icon src="https://thumbor.prod.vidiocdn.com/_8JaTGtU2WYTw0ylulYg_dmz37Y=/287x162/filters:strip_icc():quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/image/9183/champions-tv-6-8a049a.jpg"/>
+  </programme>
+  <programme channel="9183" start="20260412183000 +0000" stop="20260412190000 +0000">
+    <title lang="id">Eps 31 : PL NETBUSTERS 2025-26</title>
+    <desc lang="id">Eps 31</desc>
+    <icon src="https://thumbor.prod.vidiocdn.com/_8JaTGtU2WYTw0ylulYg_dmz37Y=/287x162/filters:strip_icc():quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/image/9183/champions-tv-6-8a049a.jpg"/>
+  </programme>
+  <programme channel="9183" start="20260412190000 +0000" stop="20260412200000 +0000">
+    <title lang="id">EPS 37 : FANZONE 2025-2026</title>
+    <desc lang="id">EPS 37</desc>
+    <icon src="https://thumbor.prod.vidiocdn.com/_8JaTGtU2WYTw0ylulYg_dmz37Y=/287x162/filters:strip_icc():quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/image/9183/champions-tv-6-8a049a.jpg"/>
+  </programme>
+  <programme channel="9183" start="20260412200000 +0000" stop="20260412220000 +0000">
+    <title lang="id">Sunderland vs Tottenham Hotspur : Premiere League 2025/2026</title>
+    <desc lang="id">Sunderland vs Tottenham Hotspur</desc>
+    <icon src="https://thumbor.prod.vidiocdn.com/_8JaTGtU2WYTw0ylulYg_dmz37Y=/287x162/filters:strip_icc():quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/image/9183/champions-tv-6-8a049a.jpg"/>
+  </programme>
+  <programme channel="9183" start="20260412220000 +0000" stop="20260413000000 +0000">
+    <title lang="id">Chelsea vs Manchester City : Premiere League 2025/2026</title>
+    <desc lang="id">Chelsea vs Manchester City</desc>
+    <icon src="https://thumbor.prod.vidiocdn.com/_8JaTGtU2WYTw0ylulYg_dmz37Y=/287x162/filters:strip_icc():quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/image/9183/champions-tv-6-8a049a.jpg"/>
+  </programme>
+  <programme channel="9183" start="20260413000000 +0000" stop="20260413020000 +0000">
+    <title lang="id">Nottingham Forest vs Aston Villa : Premiere League 2025/2026</title>
+    <desc lang="id">Nottingham Forest vs Aston Villa</desc>
+    <icon src="https://thumbor.prod.vidiocdn.com/_8JaTGtU2WYTw0ylulYg_dmz37Y=/287x162/filters:strip_icc():quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/image/9183/champions-tv-6-8a049a.jpg"/>
+  </programme>
+  <programme channel="9183" start="20260413020000 +0000" stop="20260413030000 +0000">
+    <title lang="id">EPS 37 : FANZONE 2025-2026</title>
+    <desc lang="id">EPS 37</desc>
+    <icon src="https://thumbor.prod.vidiocdn.com/_8JaTGtU2WYTw0ylulYg_dmz37Y=/287x162/filters:strip_icc():quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/image/9183/champions-tv-6-8a049a.jpg"/>
+  </programme>
+  <programme channel="9183" start="20260413030000 +0000" stop="20260413050000 +0000">
+    <title lang="id">Brentford vs Everton : Premiere League 2025/2026</title>
+    <desc lang="id">Brentford vs Everton</desc>
+    <icon src="https://thumbor.prod.vidiocdn.com/_8JaTGtU2WYTw0ylulYg_dmz37Y=/287x162/filters:strip_icc():quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/image/9183/champions-tv-6-8a049a.jpg"/>
+  </programme>
+  <programme channel="9183" start="20260413050000 +0000" stop="20260413070000 +0000">
+    <title lang="id">Crystal Palace vs Newcastle United : Premiere League 2025/2026</title>
+    <desc lang="id">Crystal Palace vs Newcastle United</desc>
+    <icon src="https://thumbor.prod.vidiocdn.com/_8JaTGtU2WYTw0ylulYg_dmz37Y=/287x162/filters:strip_icc():quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/image/9183/champions-tv-6-8a049a.jpg"/>
+  </programme>
+  <programme channel="9183" start="20260413070000 +0000" stop="20260413090000 +0000">
+    <title lang="id">Sunderland vs Tottenham Hotspur : Premiere League 2025/2026</title>
+    <desc lang="id">Sunderland vs Tottenham Hotspur</desc>
+    <icon src="https://thumbor.prod.vidiocdn.com/_8JaTGtU2WYTw0ylulYg_dmz37Y=/287x162/filters:strip_icc():quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/image/9183/champions-tv-6-8a049a.jpg"/>
+  </programme>
+  <programme channel="9183" start="20260413090000 +0000" stop="20260413093000 +0000">
+    <title lang="id">Eps 45 : PL STORIES 2025-26</title>
+    <desc lang="id">Eps 45</desc>
+    <icon src="https://thumbor.prod.vidiocdn.com/_8JaTGtU2WYTw0ylulYg_dmz37Y=/287x162/filters:strip_icc():quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/image/9183/champions-tv-6-8a049a.jpg"/>
+  </programme>
+  <programme channel="9183" start="20260413093000 +0000" stop="20260413100000 +0000">
+    <title lang="id">Eps 35 : THE BIG INTERVIEW 2025-26</title>
+    <desc lang="id">Eps 35</desc>
+    <icon src="https://thumbor.prod.vidiocdn.com/_8JaTGtU2WYTw0ylulYg_dmz37Y=/287x162/filters:strip_icc():quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/image/9183/champions-tv-6-8a049a.jpg"/>
+  </programme>
+  <programme channel="9183" start="20260413100000 +0000" stop="20260413120000 +0000">
+    <title lang="id">Liverpool vs Fulham : Premiere League 2025/2026</title>
+    <desc lang="id">Liverpool vs Fulham</desc>
+    <icon src="https://thumbor.prod.vidiocdn.com/_8JaTGtU2WYTw0ylulYg_dmz37Y=/287x162/filters:strip_icc():quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/image/9183/champions-tv-6-8a049a.jpg"/>
+  </programme>
+  <programme channel="9183" start="20260413130000 +0000" stop="20260413133000 +0000">
+    <title lang="id">Eps 35 : THE BIG INTERVIEW 2025-26</title>
+    <desc lang="id">Eps 35</desc>
+    <icon src="https://thumbor.prod.vidiocdn.com/_8JaTGtU2WYTw0ylulYg_dmz37Y=/287x162/filters:strip_icc():quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/image/9183/champions-tv-6-8a049a.jpg"/>
+  </programme>
+  <programme channel="9183" start="20260413133000 +0000" stop="20260413140000 +0000">
+    <title lang="id">Eps 45 : PL STORIES 2025-26</title>
+    <desc lang="id">Eps 45</desc>
+    <icon src="https://thumbor.prod.vidiocdn.com/_8JaTGtU2WYTw0ylulYg_dmz37Y=/287x162/filters:strip_icc():quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/image/9183/champions-tv-6-8a049a.jpg"/>
+  </programme>
+  <programme channel="9183" start="20260413140000 +0000" stop="20260413160000 +0000">
+    <title lang="id">Chelsea vs Manchester City : Premiere League 2025/2026</title>
+    <desc lang="id">Chelsea vs Manchester City</desc>
+    <icon src="https://thumbor.prod.vidiocdn.com/_8JaTGtU2WYTw0ylulYg_dmz37Y=/287x162/filters:strip_icc():quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/image/9183/champions-tv-6-8a049a.jpg"/>
+  </programme>
+  <programme channel="9183" start="20260413160000 +0000" stop="20260413163000 +0000">
+    <title lang="id">Eps 31 : PL NETBUSTERS 2025-26</title>
+    <desc lang="id">Eps 31</desc>
+    <icon src="https://thumbor.prod.vidiocdn.com/_8JaTGtU2WYTw0ylulYg_dmz37Y=/287x162/filters:strip_icc():quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/image/9183/champions-tv-6-8a049a.jpg"/>
+  </programme>
+  <programme channel="9183" start="20260413163000 +0000" stop="20260413170000 +0000">
+    <title lang="id">Show 16 - Jimmy Floyd Hasselbaink : PL REWIND 2025-26</title>
+    <desc lang="id">Show 16 Jimmy Floyd Hasselbaink</desc>
+    <icon src="https://thumbor.prod.vidiocdn.com/_8JaTGtU2WYTw0ylulYg_dmz37Y=/287x162/filters:strip_icc():quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/image/9183/champions-tv-6-8a049a.jpg"/>
+  </programme>
+  <programme channel="9183" start="20260413163000 +0000" stop="20260413170000 +0000">
+    <title lang="id">Show 16 - Jimmy Floyd Hasselbaink : PL REWIND 2025-26</title>
+    <desc lang="id">Show 16 Jimmy Floyd Hasselbaink</desc>
+    <icon src="https://thumbor.prod.vidiocdn.com/_8JaTGtU2WYTw0ylulYg_dmz37Y=/287x162/filters:strip_icc():quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/image/9183/champions-tv-6-8a049a.jpg"/>
+  </programme>
+  <programme channel="9183" start="20260413170000 +0000" stop="20260413190000 +0000">
+    <title lang="id">Liverpool vs Fulham : Premiere League 2025/2026</title>
+    <desc lang="id">Liverpool vs Fulham</desc>
+    <icon src="https://thumbor.prod.vidiocdn.com/_8JaTGtU2WYTw0ylulYg_dmz37Y=/287x162/filters:strip_icc():quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/image/9183/champions-tv-6-8a049a.jpg"/>
+  </programme>
+  <programme channel="9183" start="20260413190000 +0000" stop="20260413200000 +0000">
+    <title lang="id">EPS 34 : THE CATCH UP SHOW 2025-26</title>
+    <desc lang="id">EPS 34</desc>
+    <icon src="https://thumbor.prod.vidiocdn.com/_8JaTGtU2WYTw0ylulYg_dmz37Y=/287x162/filters:strip_icc():quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/image/9183/champions-tv-6-8a049a.jpg"/>
+  </programme>
+  <programme channel="9183" start="20260413200000 +0000" stop="20260413220000 +0000">
+    <title lang="id">Burnley vs Brighton and Hove Albion : Premiere League 2025/2026</title>
+    <desc lang="id">Burnley vs Brighton and Hove Albion</desc>
+    <icon src="https://thumbor.prod.vidiocdn.com/_8JaTGtU2WYTw0ylulYg_dmz37Y=/287x162/filters:strip_icc():quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/image/9183/champions-tv-6-8a049a.jpg"/>
+  </programme>
+  <programme channel="9183" start="20260413220000 +0000" stop="20260414000000 +0000">
+    <title lang="id">Brentford vs Everton : Premiere League 2025/2026</title>
+    <desc lang="id">Brentford vs Everton</desc>
+    <icon src="https://thumbor.prod.vidiocdn.com/_8JaTGtU2WYTw0ylulYg_dmz37Y=/287x162/filters:strip_icc():quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/image/9183/champions-tv-6-8a049a.jpg"/>
+  </programme>
+  <programme channel="9183" start="20260414000000 +0000" stop="20260414020000 +0000">
+    <title lang="id">Chelsea vs Manchester City : Premiere League 2025/2026</title>
+    <desc lang="id">Chelsea vs Manchester City</desc>
+    <icon src="https://thumbor.prod.vidiocdn.com/_8JaTGtU2WYTw0ylulYg_dmz37Y=/287x162/filters:strip_icc():quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/image/9183/champions-tv-6-8a049a.jpg"/>
+  </programme>
+  <programme channel="9183" start="20260414020000 +0000" stop="20260414030000 +0000">
+    <title lang="id">Matchweek 32 : PL MATCH HIGHLIGHT 2025/26</title>
+    <desc lang="id">Matchweek 32</desc>
+    <icon src="https://thumbor.prod.vidiocdn.com/_8JaTGtU2WYTw0ylulYg_dmz37Y=/287x162/filters:strip_icc():quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/image/9183/champions-tv-6-8a049a.jpg"/>
+  </programme>
+  <programme channel="9183" start="20260414030000 +0000" stop="20260414050000 +0000">
+    <title lang="id">West Ham United vs Wolverhampton Wanderers : Premiere League 2025/2026</title>
+    <desc lang="id">West Ham United vs Wolverhampton Wanderers</desc>
+    <icon src="https://thumbor.prod.vidiocdn.com/_8JaTGtU2WYTw0ylulYg_dmz37Y=/287x162/filters:strip_icc():quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/image/9183/champions-tv-6-8a049a.jpg"/>
+  </programme>
+  <programme channel="9183" start="20260414050000 +0000" stop="20260414070000 +0000">
+    <title lang="id">Manchester United vs Leeds United : Premiere League 2025/2026</title>
+    <desc lang="id">Manchester United vs Leeds United</desc>
+    <icon src="https://thumbor.prod.vidiocdn.com/_8JaTGtU2WYTw0ylulYg_dmz37Y=/287x162/filters:strip_icc():quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/image/9183/champions-tv-6-8a049a.jpg"/>
+  </programme>
+  <programme channel="9183" start="20260414070000 +0000" stop="20260414090000 +0000">
+    <title lang="id">Crystal Palace vs Newcastle United : Premiere League 2025/2026</title>
+    <desc lang="id">Crystal Palace vs Newcastle United</desc>
+    <icon src="https://thumbor.prod.vidiocdn.com/_8JaTGtU2WYTw0ylulYg_dmz37Y=/287x162/filters:strip_icc():quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/image/9183/champions-tv-6-8a049a.jpg"/>
+  </programme>
+  <programme channel="9183" start="20260414090000 +0000" stop="20260414100000 +0000">
+    <title lang="id">Matchweek 32 : PL REVIEW 2025/26</title>
+    <desc lang="id">Matchweek 32</desc>
+    <icon src="https://thumbor.prod.vidiocdn.com/_8JaTGtU2WYTw0ylulYg_dmz37Y=/287x162/filters:strip_icc():quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/image/9183/champions-tv-6-8a049a.jpg"/>
+  </programme>
+  <programme channel="9183" start="20260414100000 +0000" stop="20260414120000 +0000">
+    <title lang="id">Chelsea vs Manchester City : Premiere League 2025/2026</title>
+    <desc lang="id">Chelsea vs Manchester City</desc>
+    <icon src="https://thumbor.prod.vidiocdn.com/_8JaTGtU2WYTw0ylulYg_dmz37Y=/287x162/filters:strip_icc():quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/image/9183/champions-tv-6-8a049a.jpg"/>
+  </programme>
+  <programme channel="9183" start="20260414120000 +0000" stop="20260414130000 +0000">
+    <title lang="id">Matchweek 32 : PL REVIEW 2025/26</title>
+    <desc lang="id">Matchweek 32</desc>
+    <icon src="https://thumbor.prod.vidiocdn.com/_8JaTGtU2WYTw0ylulYg_dmz37Y=/287x162/filters:strip_icc():quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/image/9183/champions-tv-6-8a049a.jpg"/>
+  </programme>
+  <programme channel="9183" start="20260414130000 +0000" stop="20260414140000 +0000">
+    <title lang="id">Matchweek 32 : PL MATCH HIGHLIGHT 2025/26</title>
+    <desc lang="id">Matchweek 32</desc>
+    <icon src="https://thumbor.prod.vidiocdn.com/_8JaTGtU2WYTw0ylulYg_dmz37Y=/287x162/filters:strip_icc():quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/image/9183/champions-tv-6-8a049a.jpg"/>
+  </programme>
+  <programme channel="9183" start="20260414140000 +0000" stop="20260414160000 +0000">
+    <title lang="id">Arsenal vs Bournemouth : Premiere League 2025/2026</title>
+    <desc lang="id">Arsenal vs Bournemouth</desc>
+    <icon src="https://thumbor.prod.vidiocdn.com/_8JaTGtU2WYTw0ylulYg_dmz37Y=/287x162/filters:strip_icc():quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/image/9183/champions-tv-6-8a049a.jpg"/>
+  </programme>
+  <programme channel="9183" start="20260414160000 +0000" stop="20260414170000 +0000">
+    <title lang="id">Matchweek 32 : PL MATCH HIGHLIGHT 2025/26</title>
+    <desc lang="id">Matchweek 32</desc>
+    <icon src="https://thumbor.prod.vidiocdn.com/_8JaTGtU2WYTw0ylulYg_dmz37Y=/287x162/filters:strip_icc():quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/image/9183/champions-tv-6-8a049a.jpg"/>
+  </programme>
+  <programme channel="9183" start="20260414160000 +0000" stop="20260414170000 +0000">
+    <title lang="id">Matchweek 32 : PL MATCH HIGHLIGHT 2025/26</title>
+    <desc lang="id">Matchweek 32</desc>
+    <icon src="https://thumbor.prod.vidiocdn.com/_8JaTGtU2WYTw0ylulYg_dmz37Y=/287x162/filters:strip_icc():quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/image/9183/champions-tv-6-8a049a.jpg"/>
+  </programme>
+  <programme channel="9183" start="20260414170000 +0000" stop="20260414190000 +0000">
+    <title lang="id">Brentford vs Everton : Premiere League 2025/2026</title>
+    <desc lang="id">Brentford vs Everton</desc>
+    <icon src="https://thumbor.prod.vidiocdn.com/_8JaTGtU2WYTw0ylulYg_dmz37Y=/287x162/filters:strip_icc():quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/image/9183/champions-tv-6-8a049a.jpg"/>
+  </programme>
+  <programme channel="9183" start="20260414190000 +0000" stop="20260414200000 +0000">
+    <title lang="id">Matchweek 32 : PL REVIEW 2025/26</title>
+    <desc lang="id">Matchweek 32</desc>
+    <icon src="https://thumbor.prod.vidiocdn.com/_8JaTGtU2WYTw0ylulYg_dmz37Y=/287x162/filters:strip_icc():quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/image/9183/champions-tv-6-8a049a.jpg"/>
+  </programme>
+  <programme channel="9183" start="20260414200000 +0000" stop="20260414220000 +0000">
+    <title lang="id">Crystal Palace vs Newcastle United : Premiere League 2025/2026</title>
+    <desc lang="id">Crystal Palace vs Newcastle United</desc>
+    <icon src="https://thumbor.prod.vidiocdn.com/_8JaTGtU2WYTw0ylulYg_dmz37Y=/287x162/filters:strip_icc():quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/image/9183/champions-tv-6-8a049a.jpg"/>
+  </programme>
+  <programme channel="9183" start="20260414220000 +0000" stop="20260415000000 +0000">
+    <title lang="id">Nottingham Forest vs Aston Villa : Premiere League 2025/2026</title>
+    <desc lang="id">Nottingham Forest vs Aston Villa</desc>
+    <icon src="https://thumbor.prod.vidiocdn.com/_8JaTGtU2WYTw0ylulYg_dmz37Y=/287x162/filters:strip_icc():quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/image/9183/champions-tv-6-8a049a.jpg"/>
+  </programme>
+  <programme channel="9183" start="20260415000000 +0000" stop="20260415020000 +0000">
+    <title lang="id">Arsenal vs Bournemouth : Premiere League 2025/2026</title>
+    <desc lang="id">Arsenal vs Bournemouth</desc>
+    <icon src="https://thumbor.prod.vidiocdn.com/_8JaTGtU2WYTw0ylulYg_dmz37Y=/287x162/filters:strip_icc():quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/image/9183/champions-tv-6-8a049a.jpg"/>
+  </programme>
+  <programme channel="9183" start="20260415020000 +0000" stop="20260415023000 +0000">
+    <title lang="id">Eps 31 : PL NETBUSTERS 2025-26</title>
+    <desc lang="id">Eps 31</desc>
+    <icon src="https://thumbor.prod.vidiocdn.com/_8JaTGtU2WYTw0ylulYg_dmz37Y=/287x162/filters:strip_icc():quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/image/9183/champions-tv-6-8a049a.jpg"/>
+  </programme>
+  <programme channel="9183" start="20260415023000 +0000" stop="20260415030000 +0000">
+    <title lang="id">Show 16 - Jimmy Floyd Hasselbaink : PL REWIND 2025-26</title>
+    <desc lang="id">Show 16 Jimmy Floyd Hasselbaink</desc>
+    <icon src="https://thumbor.prod.vidiocdn.com/_8JaTGtU2WYTw0ylulYg_dmz37Y=/287x162/filters:strip_icc():quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/image/9183/champions-tv-6-8a049a.jpg"/>
+  </programme>
+  <programme channel="9183" start="20260415030000 +0000" stop="20260415050000 +0000">
+    <title lang="id">Burnley vs Brighton and Hove Albion : Premiere League 2025/2026</title>
+    <desc lang="id">Burnley vs Brighton and Hove Albion</desc>
+    <icon src="https://thumbor.prod.vidiocdn.com/_8JaTGtU2WYTw0ylulYg_dmz37Y=/287x162/filters:strip_icc():quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/image/9183/champions-tv-6-8a049a.jpg"/>
+  </programme>
+  <programme channel="9183" start="20260415050000 +0000" stop="20260415070000 +0000">
+    <title lang="id">Sunderland vs Tottenham Hotspur : Premiere League 2025/2026</title>
+    <desc lang="id">Sunderland vs Tottenham Hotspur</desc>
+    <icon src="https://thumbor.prod.vidiocdn.com/_8JaTGtU2WYTw0ylulYg_dmz37Y=/287x162/filters:strip_icc():quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/image/9183/champions-tv-6-8a049a.jpg"/>
+  </programme>
+  <programme channel="9183" start="20260415070000 +0000" stop="20260415090000 +0000">
+    <title lang="id">Arsenal vs Bournemouth : Premiere League 2025/2026</title>
+    <desc lang="id">Arsenal vs Bournemouth</desc>
+    <icon src="https://thumbor.prod.vidiocdn.com/_8JaTGtU2WYTw0ylulYg_dmz37Y=/287x162/filters:strip_icc():quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/image/9183/champions-tv-6-8a049a.jpg"/>
+  </programme>
+  <programme channel="9183" start="20260415090000 +0000" stop="20260415093000 +0000">
+    <title lang="id">Eps 32 : PL NETBUSTERS 2025-26</title>
+    <desc lang="id">Eps 32</desc>
+    <icon src="https://thumbor.prod.vidiocdn.com/_8JaTGtU2WYTw0ylulYg_dmz37Y=/287x162/filters:strip_icc():quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/image/9183/champions-tv-6-8a049a.jpg"/>
+  </programme>
+  <programme channel="9183" start="20260415093000 +0000" stop="20260415100000 +0000">
+    <title lang="id">Show 17 - Gary Cahill : PL REWIND 2025-26</title>
+    <desc lang="id">Show 17 Gary Cahill</desc>
+    <icon src="https://thumbor.prod.vidiocdn.com/_8JaTGtU2WYTw0ylulYg_dmz37Y=/287x162/filters:strip_icc():quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/image/9183/champions-tv-6-8a049a.jpg"/>
+  </programme>
+  <programme channel="9183" start="20260415100000 +0000" stop="20260415120000 +0000">
+    <title lang="id">Manchester United vs Leeds United : Premiere League 2025/2026</title>
+    <desc lang="id">Manchester United vs Leeds United</desc>
+    <icon src="https://thumbor.prod.vidiocdn.com/_8JaTGtU2WYTw0ylulYg_dmz37Y=/287x162/filters:strip_icc():quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/image/9183/champions-tv-6-8a049a.jpg"/>
+  </programme>
+  <programme channel="9183" start="20260415120000 +0000" stop="20260415130000 +0000">
+    <title lang="id">EPS 34 : THE CATCH UP SHOW 2025-26</title>
+    <desc lang="id">EPS 34</desc>
+    <icon src="https://thumbor.prod.vidiocdn.com/_8JaTGtU2WYTw0ylulYg_dmz37Y=/287x162/filters:strip_icc():quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/image/9183/champions-tv-6-8a049a.jpg"/>
+  </programme>
+  <programme channel="9183" start="20260415130000 +0000" stop="20260415133000 +0000">
+    <title lang="id">Show 16 - Jimmy Floyd Hasselbaink : PL REWIND 2025-26</title>
+    <desc lang="id">Show 16 Jimmy Floyd Hasselbaink</desc>
+    <icon src="https://thumbor.prod.vidiocdn.com/_8JaTGtU2WYTw0ylulYg_dmz37Y=/287x162/filters:strip_icc():quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/image/9183/champions-tv-6-8a049a.jpg"/>
+  </programme>
+  <programme channel="9183" start="20260415133000 +0000" stop="20260415140000 +0000">
+    <title lang="id">Eps 32 : PL NETBUSTERS 2025-26</title>
+    <desc lang="id">Eps 32</desc>
+    <icon src="https://thumbor.prod.vidiocdn.com/_8JaTGtU2WYTw0ylulYg_dmz37Y=/287x162/filters:strip_icc():quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/image/9183/champions-tv-6-8a049a.jpg"/>
+  </programme>
+  <programme channel="9183" start="20260415140000 +0000" stop="20260415160000 +0000">
+    <title lang="id">Liverpool vs Fulham : Premiere League 2025/2026</title>
+    <desc lang="id">Liverpool vs Fulham</desc>
+    <icon src="https://thumbor.prod.vidiocdn.com/_8JaTGtU2WYTw0ylulYg_dmz37Y=/287x162/filters:strip_icc():quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/image/9183/champions-tv-6-8a049a.jpg"/>
+  </programme>
+  <programme channel="9183" start="20260415160000 +0000" stop="20260415170000 +0000">
+    <title lang="id">EPS 37 : FANZONE 2025-2026</title>
+    <desc lang="id">EPS 37</desc>
+    <icon src="https://thumbor.prod.vidiocdn.com/_8JaTGtU2WYTw0ylulYg_dmz37Y=/287x162/filters:strip_icc():quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/image/9183/champions-tv-6-8a049a.jpg"/>
+  </programme>
+  <programme channel="9183" start="20260415160000 +0000" stop="20260415170000 +0000">
+    <title lang="id">EPS 37 : FANZONE 2025-2026</title>
+    <desc lang="id">EPS 37</desc>
+    <icon src="https://thumbor.prod.vidiocdn.com/_8JaTGtU2WYTw0ylulYg_dmz37Y=/287x162/filters:strip_icc():quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/image/9183/champions-tv-6-8a049a.jpg"/>
+  </programme>
+  <programme channel="9183" start="20260415170000 +0000" stop="20260415190000 +0000">
+    <title lang="id">Burnley vs Brighton and Hove Albion : Premiere League 2025/2026</title>
+    <desc lang="id">Burnley vs Brighton and Hove Albion</desc>
+    <icon src="https://thumbor.prod.vidiocdn.com/_8JaTGtU2WYTw0ylulYg_dmz37Y=/287x162/filters:strip_icc():quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/image/9183/champions-tv-6-8a049a.jpg"/>
+  </programme>
+  <programme channel="9183" start="20260415190000 +0000" stop="20260415193000 +0000">
+    <title lang="id">Eps 32 : PL NETBUSTERS 2025-26</title>
+    <desc lang="id">Eps 32</desc>
+    <icon src="https://thumbor.prod.vidiocdn.com/_8JaTGtU2WYTw0ylulYg_dmz37Y=/287x162/filters:strip_icc():quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/image/9183/champions-tv-6-8a049a.jpg"/>
+  </programme>
+  <programme channel="9183" start="20260415193000 +0000" stop="20260415200000 +0000">
+    <title lang="id">Eps 45 : PL STORIES 2025-26</title>
+    <desc lang="id">Eps 45</desc>
+    <icon src="https://thumbor.prod.vidiocdn.com/_8JaTGtU2WYTw0ylulYg_dmz37Y=/287x162/filters:strip_icc():quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/image/9183/champions-tv-6-8a049a.jpg"/>
+  </programme>
+  <programme channel="9183" start="20260415200000 +0000" stop="20260415220000 +0000">
+    <title lang="id">Nottingham Forest vs Aston Villa : Premiere League 2025/2026</title>
+    <desc lang="id">Nottingham Forest vs Aston Villa</desc>
+    <icon src="https://thumbor.prod.vidiocdn.com/_8JaTGtU2WYTw0ylulYg_dmz37Y=/287x162/filters:strip_icc():quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/image/9183/champions-tv-6-8a049a.jpg"/>
+  </programme>
+  <programme channel="9183" start="20260415220000 +0000" stop="20260416000000 +0000">
+    <title lang="id">Crystal Palace vs Newcastle United : Premiere League 2025/2026</title>
+    <desc lang="id">Crystal Palace vs Newcastle United</desc>
+    <icon src="https://thumbor.prod.vidiocdn.com/_8JaTGtU2WYTw0ylulYg_dmz37Y=/287x162/filters:strip_icc():quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/image/9183/champions-tv-6-8a049a.jpg"/>
+  </programme>
+  <programme channel="9183" start="20260416000000 +0000" stop="20260416020000 +0000">
+    <title lang="id">West Ham United vs Wolverhampton Wanderers : Premiere League 2025/2026</title>
+    <desc lang="id">West Ham United vs Wolverhampton Wanderers</desc>
+    <icon src="https://thumbor.prod.vidiocdn.com/_8JaTGtU2WYTw0ylulYg_dmz37Y=/287x162/filters:strip_icc():quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/image/9183/champions-tv-6-8a049a.jpg"/>
+  </programme>
+  <programme channel="9183" start="20260416020000 +0000" stop="20260416023000 +0000">
+    <title lang="id">Eps 46 : PL STORIES 2025-26</title>
+    <desc lang="id">Eps 46</desc>
+    <icon src="https://thumbor.prod.vidiocdn.com/_8JaTGtU2WYTw0ylulYg_dmz37Y=/287x162/filters:strip_icc():quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/image/9183/champions-tv-6-8a049a.jpg"/>
+  </programme>
+  <programme channel="9183" start="20260416023000 +0000" stop="20260416030000 +0000">
+    <title lang="id">Eps 32 : PL NETBUSTERS 2025-26</title>
+    <desc lang="id">Eps 32</desc>
+    <icon src="https://thumbor.prod.vidiocdn.com/_8JaTGtU2WYTw0ylulYg_dmz37Y=/287x162/filters:strip_icc():quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/image/9183/champions-tv-6-8a049a.jpg"/>
+  </programme>
+  <programme channel="9183" start="20260416030000 +0000" stop="20260416050000 +0000">
+    <title lang="id">Arsenal vs Bournemouth : Premiere League 2025/2026</title>
+    <desc lang="id">Arsenal vs Bournemouth</desc>
+    <icon src="https://thumbor.prod.vidiocdn.com/_8JaTGtU2WYTw0ylulYg_dmz37Y=/287x162/filters:strip_icc():quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/image/9183/champions-tv-6-8a049a.jpg"/>
+  </programme>
+  <programme channel="9183" start="20260416050000 +0000" stop="20260416070000 +0000">
+    <title lang="id">Liverpool vs Fulham : Premiere League 2025/2026</title>
+    <desc lang="id">Liverpool vs Fulham</desc>
+    <icon src="https://thumbor.prod.vidiocdn.com/_8JaTGtU2WYTw0ylulYg_dmz37Y=/287x162/filters:strip_icc():quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/image/9183/champions-tv-6-8a049a.jpg"/>
+  </programme>
+  <programme channel="9183" start="20260416070000 +0000" stop="20260416090000 +0000">
+    <title lang="id">Brentford vs Everton : Premiere League 2025/2026</title>
+    <desc lang="id">Brentford vs Everton</desc>
+    <icon src="https://thumbor.prod.vidiocdn.com/_8JaTGtU2WYTw0ylulYg_dmz37Y=/287x162/filters:strip_icc():quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/image/9183/champions-tv-6-8a049a.jpg"/>
+  </programme>
+  <programme channel="9183" start="20260416090000 +0000" stop="20260416100000 +0000">
+    <title lang="id">EPS 38 : FANZONE 2025-2026</title>
+    <desc lang="id">EPS 38</desc>
+    <icon src="https://thumbor.prod.vidiocdn.com/_8JaTGtU2WYTw0ylulYg_dmz37Y=/287x162/filters:strip_icc():quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/image/9183/champions-tv-6-8a049a.jpg"/>
+  </programme>
+  <programme channel="9183" start="20260416100000 +0000" stop="20260416120000 +0000">
+    <title lang="id">Sunderland vs Tottenham Hotspur : Premiere League 2025/2026</title>
+    <desc lang="id">Sunderland vs Tottenham Hotspur</desc>
+    <icon src="https://thumbor.prod.vidiocdn.com/_8JaTGtU2WYTw0ylulYg_dmz37Y=/287x162/filters:strip_icc():quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/image/9183/champions-tv-6-8a049a.jpg"/>
+  </programme>
+  <programme channel="9183" start="20260416120000 +0000" stop="20260416123000 +0000">
+    <title lang="id">Eps 46 : PL STORIES 2025-26</title>
+    <desc lang="id">Eps 46</desc>
+    <icon src="https://thumbor.prod.vidiocdn.com/_8JaTGtU2WYTw0ylulYg_dmz37Y=/287x162/filters:strip_icc():quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/image/9183/champions-tv-6-8a049a.jpg"/>
+  </programme>
+  <programme channel="9183" start="20260416123000 +0000" stop="20260416130000 +0000">
+    <title lang="id">Eps 32 : PL NETBUSTERS 2025-26</title>
+    <desc lang="id">Eps 32</desc>
+    <icon src="https://thumbor.prod.vidiocdn.com/_8JaTGtU2WYTw0ylulYg_dmz37Y=/287x162/filters:strip_icc():quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/image/9183/champions-tv-6-8a049a.jpg"/>
+  </programme>
+  <programme channel="9183" start="20260416130000 +0000" stop="20260416140000 +0000">
+    <title lang="id">EPS 35 : THE CATCH UP SHOW 2025-26</title>
+    <desc lang="id">EPS 35</desc>
+    <icon src="https://thumbor.prod.vidiocdn.com/_8JaTGtU2WYTw0ylulYg_dmz37Y=/287x162/filters:strip_icc():quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/image/9183/champions-tv-6-8a049a.jpg"/>
+  </programme>
+  <programme channel="9183" start="20260416140000 +0000" stop="20260416160000 +0000">
+    <title lang="id">Chelsea vs Manchester City : Premiere League 2025/2026</title>
+    <desc lang="id">Chelsea vs Manchester City</desc>
+    <icon src="https://thumbor.prod.vidiocdn.com/_8JaTGtU2WYTw0ylulYg_dmz37Y=/287x162/filters:strip_icc():quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/image/9183/champions-tv-6-8a049a.jpg"/>
+  </programme>
+  <programme channel="9183" start="20260416160000 +0000" stop="20260416170000 +0000">
+    <title lang="id">EPS 34 : THE CATCH UP SHOW 2025-26</title>
+    <desc lang="id">EPS 34</desc>
+    <icon src="https://thumbor.prod.vidiocdn.com/_8JaTGtU2WYTw0ylulYg_dmz37Y=/287x162/filters:strip_icc():quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/image/9183/champions-tv-6-8a049a.jpg"/>
+  </programme>
+  <programme channel="9183" start="20260416160000 +0000" stop="20260416170000 +0000">
+    <title lang="id">EPS 34 : THE CATCH UP SHOW 2025-26</title>
+    <desc lang="id">EPS 34</desc>
+    <icon src="https://thumbor.prod.vidiocdn.com/_8JaTGtU2WYTw0ylulYg_dmz37Y=/287x162/filters:strip_icc():quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/image/9183/champions-tv-6-8a049a.jpg"/>
+  </programme>
+  <programme channel="9183" start="20260416170000 +0000" stop="20260416190000 +0000">
+    <title lang="id">Nottingham Forest vs Aston Villa : Premiere League 2025/2026</title>
+    <desc lang="id">Nottingham Forest vs Aston Villa</desc>
+    <icon src="https://thumbor.prod.vidiocdn.com/_8JaTGtU2WYTw0ylulYg_dmz37Y=/287x162/filters:strip_icc():quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/image/9183/champions-tv-6-8a049a.jpg"/>
+  </programme>
+  <programme channel="9183" start="20260416190000 +0000" stop="20260416193000 +0000">
+    <title lang="id">Show 17 - Gary Cahill : PL REWIND 2025-26</title>
+    <desc lang="id">Show 17 Gary Cahill</desc>
+    <icon src="https://thumbor.prod.vidiocdn.com/_8JaTGtU2WYTw0ylulYg_dmz37Y=/287x162/filters:strip_icc():quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/image/9183/champions-tv-6-8a049a.jpg"/>
+  </programme>
+  <programme channel="9183" start="20260416193000 +0000" stop="20260416200000 +0000">
+    <title lang="id">Eps 35 : THE BIG INTERVIEW 2025-26</title>
+    <desc lang="id">Eps 35</desc>
+    <icon src="https://thumbor.prod.vidiocdn.com/_8JaTGtU2WYTw0ylulYg_dmz37Y=/287x162/filters:strip_icc():quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/image/9183/champions-tv-6-8a049a.jpg"/>
+  </programme>
+  <programme channel="9183" start="20260416200000 +0000" stop="20260416220000 +0000">
+    <title lang="id">Crystal Palace vs Newcastle United : Premiere League 2025/2026</title>
+    <desc lang="id">Crystal Palace vs Newcastle United</desc>
+    <icon src="https://thumbor.prod.vidiocdn.com/_8JaTGtU2WYTw0ylulYg_dmz37Y=/287x162/filters:strip_icc():quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/image/9183/champions-tv-6-8a049a.jpg"/>
+  </programme>
+  <programme channel="9183" start="20260416220000 +0000" stop="20260417000000 +0000">
+    <title lang="id">West Ham United vs Wolverhampton Wanderers : Premiere League 2025/2026</title>
+    <desc lang="id">West Ham United vs Wolverhampton Wanderers</desc>
+    <icon src="https://thumbor.prod.vidiocdn.com/_8JaTGtU2WYTw0ylulYg_dmz37Y=/287x162/filters:strip_icc():quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/image/9183/champions-tv-6-8a049a.jpg"/>
+  </programme>
+  <programme channel="9183" start="20260417000000 +0000" stop="20260417020000 +0000">
+    <title lang="id">Liverpool vs Fulham : Premiere League 2025/2026</title>
+    <desc lang="id">Liverpool vs Fulham</desc>
+    <icon src="https://thumbor.prod.vidiocdn.com/_8JaTGtU2WYTw0ylulYg_dmz37Y=/287x162/filters:strip_icc():quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/image/9183/champions-tv-6-8a049a.jpg"/>
+  </programme>
+  <programme channel="9183" start="20260417020000 +0000" stop="20260417023000 +0000">
+    <title lang="id">Eps 36 : THE BIG INTERVIEW 2025-26</title>
+    <desc lang="id">Eps 36</desc>
+    <icon src="https://thumbor.prod.vidiocdn.com/_8JaTGtU2WYTw0ylulYg_dmz37Y=/287x162/filters:strip_icc():quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/image/9183/champions-tv-6-8a049a.jpg"/>
+  </programme>
+  <programme channel="9183" start="20260417023000 +0000" stop="20260417030000 +0000">
+    <title lang="id">Show 17 - Gary Cahill : PL REWIND 2025-26</title>
+    <desc lang="id">Show 17 Gary Cahill</desc>
+    <icon src="https://thumbor.prod.vidiocdn.com/_8JaTGtU2WYTw0ylulYg_dmz37Y=/287x162/filters:strip_icc():quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/image/9183/champions-tv-6-8a049a.jpg"/>
+  </programme>
+  <programme channel="9183" start="20260417030000 +0000" stop="20260417050000 +0000">
+    <title lang="id">Brentford vs Everton : Premiere League 2025/2026</title>
+    <desc lang="id">Brentford vs Everton</desc>
+    <icon src="https://thumbor.prod.vidiocdn.com/_8JaTGtU2WYTw0ylulYg_dmz37Y=/287x162/filters:strip_icc():quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/image/9183/champions-tv-6-8a049a.jpg"/>
+  </programme>
+  <programme channel="9183" start="20260417050000 +0000" stop="20260417070000 +0000">
+    <title lang="id">Burnley vs Brighton and Hove Albion : Premiere League 2025/2026</title>
+    <desc lang="id">Burnley vs Brighton and Hove Albion</desc>
+    <icon src="https://thumbor.prod.vidiocdn.com/_8JaTGtU2WYTw0ylulYg_dmz37Y=/287x162/filters:strip_icc():quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/image/9183/champions-tv-6-8a049a.jpg"/>
+  </programme>
+  <programme channel="9183" start="20260417070000 +0000" stop="20260417090000 +0000">
+    <title lang="id">Chelsea vs Manchester City : Premiere League 2025/2026</title>
+    <desc lang="id">Chelsea vs Manchester City</desc>
+    <icon src="https://thumbor.prod.vidiocdn.com/_8JaTGtU2WYTw0ylulYg_dmz37Y=/287x162/filters:strip_icc():quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/image/9183/champions-tv-6-8a049a.jpg"/>
+  </programme>
+  <programme channel="9183" start="20260417090000 +0000" stop="20260417100000 +0000">
+    <title lang="id">Eps 35 : THE CATCH UP SHOW 2025-26</title>
+    <desc lang="id">Eps 35</desc>
+    <icon src="https://thumbor.prod.vidiocdn.com/_8JaTGtU2WYTw0ylulYg_dmz37Y=/287x162/filters:strip_icc():quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/image/9183/champions-tv-6-8a049a.jpg"/>
+  </programme>
+  <programme channel="9183" start="20260417100000 +0000" stop="20260417120000 +0000">
+    <title lang="id">Arsenal vs Bournemouth : Premiere League 2025/2026</title>
+    <desc lang="id">Arsenal vs Bournemouth</desc>
+    <icon src="https://thumbor.prod.vidiocdn.com/_8JaTGtU2WYTw0ylulYg_dmz37Y=/287x162/filters:strip_icc():quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/image/9183/champions-tv-6-8a049a.jpg"/>
+  </programme>
+  <programme channel="9183" start="20260417120000 +0000" stop="20260417123000 +0000">
+    <title lang="id">Eps 36 : THE BIG INTERVIEW 2025-26</title>
+    <desc lang="id">Eps 36</desc>
+    <icon src="https://thumbor.prod.vidiocdn.com/_8JaTGtU2WYTw0ylulYg_dmz37Y=/287x162/filters:strip_icc():quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/image/9183/champions-tv-6-8a049a.jpg"/>
+  </programme>
+  <programme channel="9183" start="20260417123000 +0000" stop="20260417130000 +0000">
+    <title lang="id">Show 17 - Gary Cahill : PL REWIND 2025-26</title>
+    <desc lang="id">Show 17 Gary Cahill</desc>
+    <icon src="https://thumbor.prod.vidiocdn.com/_8JaTGtU2WYTw0ylulYg_dmz37Y=/287x162/filters:strip_icc():quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/image/9183/champions-tv-6-8a049a.jpg"/>
+  </programme>
+  <programme channel="9183" start="20260417130000 +0000" stop="20260417140000 +0000">
+    <title lang="id">Eps 38 : FANZONE 2025-2026</title>
+    <desc lang="id">Eps 38</desc>
+    <icon src="https://thumbor.prod.vidiocdn.com/_8JaTGtU2WYTw0ylulYg_dmz37Y=/287x162/filters:strip_icc():quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/image/9183/champions-tv-6-8a049a.jpg"/>
+  </programme>
+  <programme channel="9183" start="20260417140000 +0000" stop="20260417160000 +0000">
+    <title lang="id">Manchester United vs Leeds United : Premiere League 2025/2026</title>
+    <desc lang="id">Manchester United vs Leeds United</desc>
+    <icon src="https://thumbor.prod.vidiocdn.com/_8JaTGtU2WYTw0ylulYg_dmz37Y=/287x162/filters:strip_icc():quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/image/9183/champions-tv-6-8a049a.jpg"/>
+  </programme>
+  <programme channel="9183" start="20260417160000 +0000" stop="20260417170000 +0000">
+    <title lang="id">Matchweek 32 : PL REVIEW 2025/26</title>
+    <desc lang="id">Matchweek 32</desc>
+    <icon src="https://thumbor.prod.vidiocdn.com/_8JaTGtU2WYTw0ylulYg_dmz37Y=/287x162/filters:strip_icc():quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/image/9183/champions-tv-6-8a049a.jpg"/>
+  </programme>
+  <programme channel="9183" start="20260417160000 +0000" stop="20260417170000 +0000">
+    <title lang="id">Matchweek 32 : PL REVIEW 2025/26</title>
+    <desc lang="id">Matchweek 32</desc>
+    <icon src="https://thumbor.prod.vidiocdn.com/_8JaTGtU2WYTw0ylulYg_dmz37Y=/287x162/filters:strip_icc():quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/image/9183/champions-tv-6-8a049a.jpg"/>
+  </programme>
+  <programme channel="9183" start="20260417170000 +0000" stop="20260417190000 +0000">
+    <title lang="id">Crystal Palace vs Newcastle United : Premiere League 2025/2026</title>
+    <desc lang="id">Crystal Palace vs Newcastle United</desc>
+    <icon src="https://thumbor.prod.vidiocdn.com/_8JaTGtU2WYTw0ylulYg_dmz37Y=/287x162/filters:strip_icc():quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/image/9183/champions-tv-6-8a049a.jpg"/>
+  </programme>
+  <programme channel="9183" start="20260417190000 +0000" stop="20260417200000 +0000">
+    <title lang="id">Matchweek 32 : PL MATCH HIGHLIGHT 2025/26</title>
+    <desc lang="id">Matchweek 32</desc>
+    <icon src="https://thumbor.prod.vidiocdn.com/_8JaTGtU2WYTw0ylulYg_dmz37Y=/287x162/filters:strip_icc():quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/image/9183/champions-tv-6-8a049a.jpg"/>
+  </programme>
+  <programme channel="9183" start="20260417200000 +0000" stop="20260417220000 +0000">
+    <title lang="id">West Ham United vs Wolverhampton Wanderers : Premiere League 2025/2026</title>
+    <desc lang="id">West Ham United vs Wolverhampton Wanderers</desc>
+    <icon src="https://thumbor.prod.vidiocdn.com/_8JaTGtU2WYTw0ylulYg_dmz37Y=/287x162/filters:strip_icc():quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/image/9183/champions-tv-6-8a049a.jpg"/>
+  </programme>
+  <programme channel="9183" start="20260417220000 +0000" stop="20260418000000 +0000">
+    <title lang="id">Sunderland vs Tottenham Hotspur : Premiere League 2025/2026</title>
+    <desc lang="id">Sunderland vs Tottenham Hotspur</desc>
+    <icon src="https://thumbor.prod.vidiocdn.com/_8JaTGtU2WYTw0ylulYg_dmz37Y=/287x162/filters:strip_icc():quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/image/9183/champions-tv-6-8a049a.jpg"/>
+  </programme>
+  <programme channel="9183" start="20260418000000 +0000" stop="20260418020000 +0000">
+    <title lang="id">Brentford vs Everton : Premiere League 2025/2026</title>
+    <desc lang="id">Brentford vs Everton</desc>
+    <icon src="https://thumbor.prod.vidiocdn.com/_8JaTGtU2WYTw0ylulYg_dmz37Y=/287x162/filters:strip_icc():quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/image/9183/champions-tv-6-8a049a.jpg"/>
+  </programme>
+  <programme channel="9183" start="20260418020000 +0000" stop="20260418023000 +0000">
+    <title lang="id">Eps 32 : PL NETBUSTERS 2025-26</title>
+    <desc lang="id">Eps 32</desc>
+    <icon src="https://thumbor.prod.vidiocdn.com/_8JaTGtU2WYTw0ylulYg_dmz37Y=/287x162/filters:strip_icc():quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/image/9183/champions-tv-6-8a049a.jpg"/>
+  </programme>
+  <programme channel="9183" start="20260418023000 +0000" stop="20260418043000 +0000">
+    <title lang="id">Arsenal vs Bournemouth : Premiere League 2025/2026</title>
+    <desc lang="id">Arsenal vs Bournemouth</desc>
+    <icon src="https://thumbor.prod.vidiocdn.com/_8JaTGtU2WYTw0ylulYg_dmz37Y=/287x162/filters:strip_icc():quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/image/9183/champions-tv-6-8a049a.jpg"/>
+  </programme>
+  <programme channel="9183" start="20260418043000 +0000" stop="20260418063000 +0000">
+    <title lang="id">Burnley vs Brighton and Hove Albion : Premiere League 2025/2026</title>
+    <desc lang="id">Burnley vs Brighton and Hove Albion</desc>
+    <icon src="https://thumbor.prod.vidiocdn.com/_8JaTGtU2WYTw0ylulYg_dmz37Y=/287x162/filters:strip_icc():quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/image/9183/champions-tv-6-8a049a.jpg"/>
+  </programme>
+  <programme channel="9183" start="20260418063000 +0000" stop="20260418083000 +0000">
+    <title lang="id">Manchester United vs Leeds United : Premiere League 2025/2026</title>
+    <desc lang="id">Manchester United vs Leeds United</desc>
+    <icon src="https://thumbor.prod.vidiocdn.com/_8JaTGtU2WYTw0ylulYg_dmz37Y=/287x162/filters:strip_icc():quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/image/9183/champions-tv-6-8a049a.jpg"/>
+  </programme>
+  <programme channel="9183" start="20260418083000 +0000" stop="20260418090000 +0000">
+    <title lang="id">Show 17 - Gary Cahill : PL REWIND 2025-26</title>
+    <desc lang="id">Show 17 Gary Cahill</desc>
+    <icon src="https://thumbor.prod.vidiocdn.com/_8JaTGtU2WYTw0ylulYg_dmz37Y=/287x162/filters:strip_icc():quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/image/9183/champions-tv-6-8a049a.jpg"/>
+  </programme>
+  <programme channel="9183" start="20260418090000 +0000" stop="20260418110000 +0000">
+    <title lang="id">Liverpool vs Fulham : Premiere League 2025/2026</title>
+    <desc lang="id">Liverpool vs Fulham</desc>
+    <icon src="https://thumbor.prod.vidiocdn.com/_8JaTGtU2WYTw0ylulYg_dmz37Y=/287x162/filters:strip_icc():quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/image/9183/champions-tv-6-8a049a.jpg"/>
+  </programme>
+  <programme channel="9183" start="20260418110000 +0000" stop="20260418130000 +0000">
+    <title lang="id">Chelsea vs Manchester City : Premiere League 2025/2026</title>
+    <desc lang="id">Chelsea vs Manchester City</desc>
+    <icon src="https://thumbor.prod.vidiocdn.com/_8JaTGtU2WYTw0ylulYg_dmz37Y=/287x162/filters:strip_icc():quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/image/9183/champions-tv-6-8a049a.jpg"/>
+  </programme>
+  <programme channel="9183" start="20260418130000 +0000" stop="20260418133000 +0000">
+    <title lang="id">Show 28 - Matchweek 33 : PL PREVIEW 2025/26</title>
+    <desc lang="id">Show 28 Matchweek 33</desc>
+    <icon src="https://thumbor.prod.vidiocdn.com/_8JaTGtU2WYTw0ylulYg_dmz37Y=/287x162/filters:strip_icc():quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/image/9183/champions-tv-6-8a049a.jpg"/>
+  </programme>
+  <programme channel="9183" start="20260418133000 +0000" stop="20260418160000 +0000">
+    <title lang="id">[LIVE] Leeds United vs Wolverhampton Wanderers : [LIVE] Premier League 2025/26</title>
+    <desc lang="id">Leeds United vs Wolverhampton Wanderers</desc>
+    <icon src="https://thumbor.prod.vidiocdn.com/_8JaTGtU2WYTw0ylulYg_dmz37Y=/287x162/filters:strip_icc():quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/image/9183/champions-tv-6-8a049a.jpg"/>
+  </programme>
+  <programme channel="9183" start="20260418160000 +0000" stop="20260418170000 +0000">
+    <title lang="id">Matchweek 32 : PL MATCH HIGHLIGHT 2025/26</title>
+    <desc lang="id">Matchweek 32</desc>
+    <icon src="https://thumbor.prod.vidiocdn.com/_8JaTGtU2WYTw0ylulYg_dmz37Y=/287x162/filters:strip_icc():quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/image/9183/champions-tv-6-8a049a.jpg"/>
+  </programme>
+  <programme channel="9183" start="20260418160000 +0000" stop="20260418170000 +0000">
+    <title lang="id">Matchweek 32 : PL MATCH HIGHLIGHT 2025/26</title>
+    <desc lang="id">Matchweek 32</desc>
+    <icon src="https://thumbor.prod.vidiocdn.com/_8JaTGtU2WYTw0ylulYg_dmz37Y=/287x162/filters:strip_icc():quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/image/9183/champions-tv-6-8a049a.jpg"/>
+  </programme>
+  <programme channel="9183" start="20260418170000 +0000" stop="20260418190000 +0000">
+    <title lang="id">Arsenal vs Bournemouth : Premiere League 2025/2026</title>
+    <desc lang="id">Arsenal vs Bournemouth</desc>
+    <icon src="https://thumbor.prod.vidiocdn.com/_8JaTGtU2WYTw0ylulYg_dmz37Y=/287x162/filters:strip_icc():quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/image/9183/champions-tv-6-8a049a.jpg"/>
+  </programme>
+  <programme channel="9183" start="20260418190000 +0000" stop="20260418200000 +0000">
+    <title lang="id">Eps 35 : THE CATCH UP SHOW 2025-26</title>
+    <desc lang="id">Eps 35</desc>
+    <icon src="https://thumbor.prod.vidiocdn.com/_8JaTGtU2WYTw0ylulYg_dmz37Y=/287x162/filters:strip_icc():quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/image/9183/champions-tv-6-8a049a.jpg"/>
+  </programme>
+  <programme channel="9183" start="20260418200000 +0000" stop="20260418220000 +0000">
+    <title lang="id">Liverpool vs Fulham : Premiere League 2025/2026</title>
+    <desc lang="id">Liverpool vs Fulham</desc>
+    <icon src="https://thumbor.prod.vidiocdn.com/_8JaTGtU2WYTw0ylulYg_dmz37Y=/287x162/filters:strip_icc():quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/image/9183/champions-tv-6-8a049a.jpg"/>
+  </programme>
+  <programme channel="9183" start="20260418220000 +0000" stop="20260419000000 +0000">
+    <title lang="id">Chelsea vs Manchester City : Premiere League 2025/2026</title>
+    <desc lang="id">Chelsea vs Manchester City</desc>
+    <icon src="https://thumbor.prod.vidiocdn.com/_8JaTGtU2WYTw0ylulYg_dmz37Y=/287x162/filters:strip_icc():quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/image/9183/champions-tv-6-8a049a.jpg"/>
+  </programme>
+  <programme channel="9183" start="20260419000000 +0000" stop="20260419020000 +0000">
+    <title lang="id">Newcastle United vs Bournemouth : Premiere League 2025/2026</title>
+    <desc lang="id">Newcastle United vs Bournemouth</desc>
+    <icon src="https://thumbor.prod.vidiocdn.com/_8JaTGtU2WYTw0ylulYg_dmz37Y=/287x162/filters:strip_icc():quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/image/9183/champions-tv-6-8a049a.jpg"/>
+  </programme>
+  <programme channel="9183" start="20260419020000 +0000" stop="20260419030000 +0000">
+    <title lang="id">Matchweek 32 : PL MATCH HIGHLIGHT 2025/26</title>
+    <desc lang="id">Matchweek 32</desc>
+    <icon src="https://thumbor.prod.vidiocdn.com/_8JaTGtU2WYTw0ylulYg_dmz37Y=/287x162/filters:strip_icc():quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/image/9183/champions-tv-6-8a049a.jpg"/>
+  </programme>
+  <programme channel="9183" start="20260419030000 +0000" stop="20260419050000 +0000">
+    <title lang="id">Tottenham Hotspur vs Brighton and Hove Albion : Premiere League 2025/2026</title>
+    <desc lang="id">Tottenham Hotspur vs Brighton and Hove Albion</desc>
+    <icon src="https://thumbor.prod.vidiocdn.com/_8JaTGtU2WYTw0ylulYg_dmz37Y=/287x162/filters:strip_icc():quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/image/9183/champions-tv-6-8a049a.jpg"/>
+  </programme>
+  <programme channel="9183" start="20260419050000 +0000" stop="20260419070000 +0000">
+    <title lang="id">Leeds United vs Wolverhampton Wanderers : Premiere League 2025/2026</title>
+    <desc lang="id">Leeds United vs Wolverhampton Wanderers</desc>
+    <icon src="https://thumbor.prod.vidiocdn.com/_8JaTGtU2WYTw0ylulYg_dmz37Y=/287x162/filters:strip_icc():quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/image/9183/champions-tv-6-8a049a.jpg"/>
+  </programme>
+  <programme channel="9183" start="20260419070000 +0000" stop="20260419090000 +0000">
+    <title lang="id">Brentford vs Fulham : Premiere League 2025/2026</title>
+    <desc lang="id">Brentford vs Fulham</desc>
+    <icon src="https://thumbor.prod.vidiocdn.com/_8JaTGtU2WYTw0ylulYg_dmz37Y=/287x162/filters:strip_icc():quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/image/9183/champions-tv-6-8a049a.jpg"/>
+  </programme>
+  <programme channel="9183" start="20260419090000 +0000" stop="20260419093000 +0000">
+    <title lang="id">Eps 32 : PL NETBUSTERS 2025-26</title>
+    <desc lang="id">Eps 32</desc>
+    <icon src="https://thumbor.prod.vidiocdn.com/_8JaTGtU2WYTw0ylulYg_dmz37Y=/287x162/filters:strip_icc():quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/image/9183/champions-tv-6-8a049a.jpg"/>
+  </programme>
+  <programme channel="9183" start="20260419093000 +0000" stop="20260419100000 +0000">
+    <title lang="id">Eps 36 : THE BIG INTERVIEW 2025-26</title>
+    <desc lang="id">Eps 36</desc>
+    <icon src="https://thumbor.prod.vidiocdn.com/_8JaTGtU2WYTw0ylulYg_dmz37Y=/287x162/filters:strip_icc():quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/image/9183/champions-tv-6-8a049a.jpg"/>
+  </programme>
+  <programme channel="9183" start="20260419100000 +0000" stop="20260419120000 +0000">
+    <title lang="id">Newcastle United vs Bournemouth : Premiere League 2025/2026</title>
+    <desc lang="id">Newcastle United vs Bournemouth</desc>
+    <icon src="https://thumbor.prod.vidiocdn.com/_8JaTGtU2WYTw0ylulYg_dmz37Y=/287x162/filters:strip_icc():quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/image/9183/champions-tv-6-8a049a.jpg"/>
+  </programme>
+  <programme channel="9183" start="20260419120000 +0000" stop="20260419123000 +0000">
+    <title lang="id">Show 28 - Matchweek 33 : PL PREVIEW 2025/26</title>
+    <desc lang="id">Show 28 Matchweek 33</desc>
+    <icon src="https://thumbor.prod.vidiocdn.com/_8JaTGtU2WYTw0ylulYg_dmz37Y=/287x162/filters:strip_icc():quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/image/9183/champions-tv-6-8a049a.jpg"/>
+  </programme>
+  <programme channel="9183" start="20260419123000 +0000" stop="20260419150000 +0000">
+    <title lang="id">[LIVE] Aston Villa vs Sunderland : [LIVE] Premier League 2025/26</title>
+    <desc lang="id">Aston Villa vs Sunderland</desc>
+    <icon src="https://thumbor.prod.vidiocdn.com/_8JaTGtU2WYTw0ylulYg_dmz37Y=/287x162/filters:strip_icc():quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/image/9183/champions-tv-6-8a049a.jpg"/>
+  </programme>
+  <programme channel="9183" start="20260419150000 +0000" stop="20260419170000 +0000">
+    <title lang="id">[LIVE] Manchester City vs Arsenal : [LIVE] Premier League 2025/26</title>
+    <desc lang="id">Manchester City vs Arsenal</desc>
+    <icon src="https://thumbor.prod.vidiocdn.com/_8JaTGtU2WYTw0ylulYg_dmz37Y=/287x162/filters:strip_icc():quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/image/9183/champions-tv-6-8a049a.jpg"/>
   </programme>
   <programme channel="7150" start="20260412163500 +0000" stop="20260412173000 +0000">
     <title lang="id">A Brief History Of Cricket Down Under: The 80s</title>
