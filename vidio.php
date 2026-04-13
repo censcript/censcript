@@ -208,17 +208,17 @@
     <desc lang="id">Sinetron romansa tentang perjalanan Trian (Yesaya Abraham) mencari keadilan dan mengungkap kejahatan pasca Adila, istrinya meninggal dunia, dengan bantuan Rama (Rayn Wijaya) dan Asmara (Angela Gilsha). Tayang setiap hari pukul 20.10 WIB</desc>
     <icon src="https://thumbor.prod.vidiocdn.com/SGu1Ct1B41zdysunMju3zN4Qweo=/287x162/filters:strip_icc():quality(70)/vidio-media-production/uploads/livestreaming/schedule/thumbnail/5013865/105468.jpg"/>
   </programme>
-  <programme channel="204" start="20260413135900 +0000" stop="20260413172000 +0000">
+  <programme channel="204" start="20260413135900 +0000" stop="20260413171000 +0000">
     <title lang="id">The Icon Indonesia The Duel : Top 24 Grup A - Live</title>
     <desc lang="id">sebagai talent search bernyanyi yang tidak hanya mencari suara terbaik, tetapi juga sosok dengan karakter kuat yang layak menjadi ikon pop baru Tanah Air.tayang setiap Senin dan Selasa pukul 21.00 WIB di SCTV</desc>
     <icon src="https://thumbor.prod.vidiocdn.com/RzaHX_54CutRJGxUae8fpEf3QuQ=/287x162/filters:strip_icc():quality(70)/vidio-media-production/uploads/livestreaming/schedule/thumbnail/5013872/e0071e.jpg"/>
   </programme>
-  <programme channel="204" start="20260413135900 +0000" stop="20260413172000 +0000">
+  <programme channel="204" start="20260413135900 +0000" stop="20260413171000 +0000">
     <title lang="id">The Icon Indonesia The Duel : Top 24 Grup A - Live</title>
     <desc lang="id">sebagai talent search bernyanyi yang tidak hanya mencari suara terbaik, tetapi juga sosok dengan karakter kuat yang layak menjadi ikon pop baru Tanah Air.tayang setiap Senin dan Selasa pukul 21.00 WIB di SCTV</desc>
     <icon src="https://thumbor.prod.vidiocdn.com/RzaHX_54CutRJGxUae8fpEf3QuQ=/287x162/filters:strip_icc():quality(70)/vidio-media-production/uploads/livestreaming/schedule/thumbnail/5013872/e0071e.jpg"/>
   </programme>
-  <programme channel="204" start="20260413172000 +0000" stop="20260413182500 +0000">
+  <programme channel="204" start="20260413171000 +0000" stop="20260413182500 +0000">
     <title lang="id">Ftv Utama Resep Rahasia Gado Gado Cinta</title>
     <desc lang="id">Film televisi yang mengangkat kisah romantisme kehidupan dengan konflik yang menarik. Tayang setiap hari.</desc>
     <icon src="https://thumbor.prod.vidiocdn.com/N99E8BD1OJ5vvymwPBj0c-BU5J4=/287x162/filters:strip_icc():quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/image/204/sctv-5ef966.jpg"/>
@@ -20378,7 +20378,7 @@
     <desc lang="id">Show 27 Matchweek 32</desc>
     <icon src="https://thumbor.prod.vidiocdn.com/r_QaZubFaj9Ht_TI2kDgdImcRqY=/287x162/filters:strip_icc():quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/image/9182/champions-tv-5-e0dd48.jpg"/>
   </programme>
-  <programme channel="9182" start="20260413190000 +0000" stop="20260413210000 +0000">
+  <programme channel="9182" start="20260413183000 +0000" stop="20260413210000 +0000">
     <title lang="id">Man United vs Leeds United - Premier League</title>
     <desc lang="id">Nonton streaming pertandingan seru Man United vs Leeds United - Premier League. Saksikan aksi-aksi terbaik dari tim yang bersaing ketat untuk meraih kemenangan. Dapatkan informasi lengkap mengenai jadwal pertandingan dan hasil pertandingan terbaru hanya di Vidio.</desc>
     <icon src="https://thumbor.prod.vidiocdn.com/DxfPvj0vcdVq15-lYB4SE4aANOw=/287x162/filters:strip_icc():quality(70)/vidio-media-production/uploads/livestreaming/schedule/thumbnail/5013052/02c381.jpg"/>
