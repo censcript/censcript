@@ -3709,10 +3709,10 @@
 <programme start="20260414030500 +0000" stop="20260414035500 +0000" channel="Warner TV Serie HD.skyde">
     <title>Daktari</title>
 </programme>
-<programme start="20260414035500 +0000" stop="20260414044500 +0000" channel="Warner TV Serie HD.skyde">
+<programme start="20260414035500 +0000" stop="20260414044000 +0000" channel="Warner TV Serie HD.skyde">
     <title>Daktari</title>
 </programme>
-<programme start="20260414044500 +0000" stop="20260414054000 +0000" channel="Warner TV Serie HD.skyde">
+<programme start="20260414044000 +0000" stop="20260414054000 +0000" channel="Warner TV Serie HD.skyde">
     <title>Daktari</title>
 </programme>
 <programme start="20260414054000 +0000" stop="20260414063000 +0000" channel="Warner TV Serie HD.skyde">
@@ -3772,9 +3772,9 @@
 <programme start="20260414194500 +0000" stop="20260414203500 +0000" channel="Warner TV Serie HD.skyde">
     <title>Hudson &amp; Rex</title>
 </programme>
-<programme start="20260414203500 +0000" stop="20260414211500 +0000" channel="Warner TV Serie HD.skyde">
+<programme start="20260414203500 +0000" stop="20260414212000 +0000" channel="Warner TV Serie HD.skyde">
     <title>NCIS: Los Angeles</title>
 </programme>
-<programme start="20260414211500 +0000" stop="20260414220500 +0000" channel="Warner TV Serie HD.skyde">
+<programme start="20260414212000 +0000" stop="20260414220500 +0000" channel="Warner TV Serie HD.skyde">
     <title>NCIS: Los Angeles</title>
 </programme>
