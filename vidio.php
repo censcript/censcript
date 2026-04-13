@@ -223,11 +223,11 @@
     <desc lang="id">Film televisi yang mengangkat kisah romantisme kehidupan dengan konflik yang menarik. Tayang setiap hari.</desc>
     <icon src="https://thumbor.prod.vidiocdn.com/N99E8BD1OJ5vvymwPBj0c-BU5J4=/287x162/filters:strip_icc():quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/image/204/sctv-5ef966.jpg"/>
   </programme>
-  <programme channel="204" start="20260413182500 +0000" stop="20260413210600 +0000">
+  <programme channel="204" start="20260413182500 +0000" stop="20260413210200 +0000">
     <title lang="id">Man United Vs Leeds - Liga Inggris - Live</title>
     <icon src="https://thumbor.prod.vidiocdn.com/N99E8BD1OJ5vvymwPBj0c-BU5J4=/287x162/filters:strip_icc():quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/image/204/sctv-5ef966.jpg"/>
   </programme>
-  <programme channel="204" start="20260413210600 +0000" stop="20260413213000 +0000">
+  <programme channel="204" start="20260413210200 +0000" stop="20260413213000 +0000">
     <title lang="id">Barakallah</title>
     <desc lang="id">Ceramah islami penuh makna. Tayang setiap selasa - minggu, mulai pukul 04.00 WIB</desc>
     <icon src="https://thumbor.prod.vidiocdn.com/N99E8BD1OJ5vvymwPBj0c-BU5J4=/287x162/filters:strip_icc():quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/image/204/sctv-5ef966.jpg"/>
@@ -855,12 +855,12 @@
     <desc lang="id">Mega Film Asia Adalah Program Yang Memutarkan Film-Film Asia Yang Ditayangkan Di Indosiar. Acara Ini Ditayangkan Perdana Pada Tahun 1996 Silam.</desc>
     <icon src="https://thumbor.prod.vidiocdn.com/0ikiJmwG2ml0oRrwTQNXQCBhbSs=/287x162/filters:strip_icc():quality(70)/vidio-media-production/uploads/livestreaming/schedule/thumbnail/5013988/00d10a.jpg"/>
   </programme>
-  <programme channel="205" start="20260413200000 +0000" stop="20260413213000 +0000">
+  <programme channel="205" start="20260413200000 +0000" stop="20260413212100 +0000">
     <title lang="id">Mega Film Asia : The Man With The Iron Fists</title>
     <desc lang="id">Mega Film Asia Adalah Program Yang Memutarkan Film-Film Asia Yang Ditayangkan Di Indosiar. Acara Ini Ditayangkan Perdana Pada Tahun 1996 Silam.</desc>
     <icon src="https://thumbor.prod.vidiocdn.com/wmU4-oe8YsJJsCrh7YjwsChJoTk=/287x162/filters:strip_icc():quality(70)/vidio-media-production/uploads/livestreaming/schedule/thumbnail/5013989/d2a1d4.jpg"/>
   </programme>
-  <programme channel="205" start="20260413213000 +0000" stop="20260413230000 +0000">
+  <programme channel="205" start="20260413212100 +0000" stop="20260413230000 +0000">
     <title lang="id">Fokus Pagi</title>
     <desc lang="id">Berita Lengkap dan Terkini Dari Dalam dan Luar Negeri Seputar Isu Politik, Ekonomi, Hukum, Kriminal, Sosial Budaya, Olahraga, dan Lain-Lain.</desc>
     <icon src="https://thumbor.prod.vidiocdn.com/cBZL7ITaJCof6cqtayFee2uJCX8=/287x162/filters:strip_icc():quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/image/205/indosiar-d9a3d0.jpg"/>
@@ -7843,12 +7843,12 @@
     <desc lang="id">Celta Vigo vs Real Oviedo</desc>
     <icon src="https://thumbor.prod.vidiocdn.com/5yUHYfv_b1sZi7kdFElm8JqF2RY=/287x162/filters:strip_icc():quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/image/6299/bein-1-4bd997.jpg"/>
   </programme>
-  <programme channel="6299" start="20260413190000 +0000" stop="20260413210000 +0000">
+  <programme channel="6299" start="20260413190000 +0000" stop="20260413210700 +0000">
     <title lang="id">Levante vs Getafe - LaLiga</title>
     <desc lang="id">Nonton streaming pertandingan seru Levante vs Getafe - LaLiga. Saksikan aksi-aksi terbaik dari tim yang bersaing ketat untuk meraih kemenangan. Dapatkan informasi lengkap mengenai jadwal pertandingan dan hasil pertandingan terbaru hanya di Vidio.</desc>
     <icon src="https://thumbor.prod.vidiocdn.com/xe_uxpafar7d4yqeJRmn0JM_BLw=/287x162/filters:strip_icc():quality(70)/vidio-media-production/uploads/livestreaming/schedule/thumbnail/5013051/e17da2.jpg"/>
   </programme>
-  <programme channel="6299" start="20260413210000 +0000" stop="20260413213000 +0000">
+  <programme channel="6299" start="20260413210700 +0000" stop="20260413213000 +0000">
     <title lang="id">Sevilla vs Atletico Madrid : Mini Match - LaLiga 2025/26</title>
     <desc lang="id">Sevilla vs Atletico Madrid</desc>
     <icon src="https://thumbor.prod.vidiocdn.com/5yUHYfv_b1sZi7kdFElm8JqF2RY=/287x162/filters:strip_icc():quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/image/6299/bein-1-4bd997.jpg"/>
@@ -9438,9 +9438,13 @@
     <desc lang="id">BOLOGNA vs LECCE</desc>
     <icon src="https://thumbor.prod.vidiocdn.com/edoqRinFCRhrRwQ2ngcXacb_q74=/287x162/filters:strip_icc():quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/image/6685/champions-tv-1-54e282.jpg"/>
   </programme>
-  <programme channel="6685" start="20260413193000 +0000" stop="20260413213000 +0000">
+  <programme channel="6685" start="20260413193000 +0000" stop="20260413212100 +0000">
     <title lang="id">GENOA vs SASSUOLO : Serie A 2025/26</title>
     <desc lang="id">GENOA vs SASSUOLO</desc>
+    <icon src="https://thumbor.prod.vidiocdn.com/edoqRinFCRhrRwQ2ngcXacb_q74=/287x162/filters:strip_icc():quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/image/6685/champions-tv-1-54e282.jpg"/>
+  </programme>
+  <programme channel="6685" start="20260413212100 +0000" stop="20260413213000 +0000">
+    <title lang="id">Filler</title>
     <icon src="https://thumbor.prod.vidiocdn.com/edoqRinFCRhrRwQ2ngcXacb_q74=/287x162/filters:strip_icc():quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/image/6685/champions-tv-1-54e282.jpg"/>
   </programme>
   <programme channel="6685" start="20260413213000 +0000" stop="20260413220000 +0000">
