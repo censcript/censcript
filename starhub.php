@@ -3149,7 +3149,7 @@
         <title>How the Martial Art Khomlainai Brings Bodo and Santhal Communities Together</title>
     </programme>
     <programme start="20260412173000 +0000" stop="20260412180000 +0000" channel="DW English HD.starhub">
-        <title>Lifestyle Europe</title>
+        <title>Germany’s Favourite Street Food: The Döner</title>
     </programme>
     <programme start="20260412180000 +0000" stop="20260412181500 +0000" channel="DW English HD.starhub">
         <title>News</title>
@@ -3194,7 +3194,7 @@
         <title>Africa Reinvented</title>
     </programme>
     <programme start="20260412223000 +0000" stop="20260412230000 +0000" channel="DW English HD.starhub">
-        <title>Best of DW Podcasts</title>
+        <title>Is Morocco emerging as a major power in Africa?</title>
     </programme>
     <programme start="20260412230000 +0000" stop="20260412230200 +0000" channel="DW English HD.starhub">
         <title>News</title>
@@ -3212,7 +3212,7 @@
         <title>News</title>
     </programme>
     <programme start="20260413000200 +0000" stop="20260413003000 +0000" channel="DW English HD.starhub">
-        <title>Lifestyle Europe</title>
+        <title>Germany’s Favourite Street Food: The Döner</title>
     </programme>
     <programme start="20260413003000 +0000" stop="20260413010000 +0000" channel="DW English HD.starhub">
         <title>The Forest Makers of the Mata Atlantica</title>
@@ -3242,10 +3242,10 @@
         <title>News</title>
     </programme>
     <programme start="20260413030200 +0000" stop="20260413033000 +0000" channel="DW English HD.starhub">
-        <title>Best of DW Podcasts</title>
+        <title>Is Morocco emerging as a major power in Africa?</title>
     </programme>
     <programme start="20260413033000 +0000" stop="20260413040000 +0000" channel="DW English HD.starhub">
-        <title>Lifestyle Europe</title>
+        <title>Germany’s Favourite Street Food: The Döner</title>
     </programme>
     <programme start="20260413040000 +0000" stop="20260413040200 +0000" channel="DW English HD.starhub">
         <title>News</title>
@@ -3296,7 +3296,7 @@
         <title>Norway at its Limit - Tourists Flood the North</title>
     </programme>
     <programme start="20260413083000 +0000" stop="20260413090000 +0000" channel="DW English HD.starhub">
-        <title>Best of DW Podcasts</title>
+        <title>Is Morocco emerging as a major power in Africa?</title>
     </programme>
     <programme start="20260413090000 +0000" stop="20260413090200 +0000" channel="DW English HD.starhub">
         <title>News</title>
@@ -3341,7 +3341,7 @@
         <title>News</title>
     </programme>
     <programme start="20260413131500 +0000" stop="20260413133000 +0000" channel="DW English HD.starhub">
-        <title>The business case for space and why small modular reactors could change everything</title>
+        <title>The business case for space - and which country will get there first?</title>
     </programme>
     <programme start="20260413133000 +0000" stop="20260413140000 +0000" channel="DW English HD.starhub">
         <title>Ghana’s returnees Long street debate</title>
@@ -5086,10 +5086,10 @@
     <programme start="20260413080000 +0000" stop="20260413083000 +0000" channel="SPOTV.starhub">
         <title>Highlights</title>
     </programme>
-    <programme start="20260413083000 +0000" stop="20260413150000 +0000" channel="SPOTV.starhub">
-        <title>Round 1</title>
+    <programme start="20260413083000 +0000" stop="20260413153000 +0000" channel="SPOTV.starhub">
+        <title>Final Round</title>
     </programme>
-    <programme start="20260413150000 +0000" stop="20260413160000 +0000" channel="SPOTV.starhub">
+    <programme start="20260413153000 +0000" stop="20260413162000 +0000" channel="SPOTV.starhub">
         <title>Jim Nantz Remembers: Rory McIlroy&#039;s Masterpiece</title>
     </programme>
     <programme start="20260412154500 +0000" stop="20260412171500 +0000" channel="KBS World HD.starhub">
