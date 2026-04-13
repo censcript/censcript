@@ -2694,12 +2694,12 @@
     <desc lang="id">American Ninja Warrior Season 14</desc>
     <icon src="https://thumbor.prod.vidiocdn.com/PHRIVGrw3dMNlehDQ0sB7L0zs0s=/287x162/filters:strip_icc():quality(70)/vidio-media-production/uploads/livestreaming/schedule/thumbnail/5012060/e3ccaf.jpg"/>
   </programme>
-  <programme channel="206" start="20260413120300 +0000" stop="20260413140000 +0000">
+  <programme channel="206" start="20260413120300 +0000" stop="20260413150000 +0000">
     <title lang="id">Rerun Proliga 2026</title>
     <desc lang="id">Rerun Proliga 2026</desc>
     <icon src="https://thumbor.prod.vidiocdn.com/NdmzqkxqnWVnlngtk_ObYNT-wiY=/287x162/filters:strip_icc():quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/image/206/moji-a5bd3e.jpg"/>
   </programme>
-  <programme channel="206" start="20260413140000 +0000" stop="20260413161900 +0000">
+  <programme channel="206" start="20260413150000 +0000" stop="20260413161900 +0000">
     <title lang="id">Rerun Ucl</title>
     <desc lang="id">Rerun Ucl</desc>
     <icon src="https://thumbor.prod.vidiocdn.com/NdmzqkxqnWVnlngtk_ObYNT-wiY=/287x162/filters:strip_icc():quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/image/206/moji-a5bd3e.jpg"/>
