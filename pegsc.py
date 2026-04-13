@@ -8,7 +8,7 @@ def download_epg(urls):
         # Mengirim permintaan GET ke URL
         response = requests.get(url)
         
-        # Memeriksa apakah permintaan berhasil
+        # Memeriksa apakah permintaan berhasill
         if response.status_code == 200:
             # Menyimpan konten ke file
             with open(file_name, 'wb') as file:
