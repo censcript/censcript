@@ -643,9 +643,6 @@
 <programme start="20260413090000 +0000" stop="20260413110000 +0000" channel="ANTV.vision">
 <title>Vasudha</title>
 </programme>
-<programme start="20260413143000 +0000" stop="20260413163000 +0000" channel="ANTV.vision">
-<title>The Doll 3</title>
-</programme>
 <programme start="20260413163000 +0000" stop="20260413181500 +0000" channel="ANTV.vision">
 <title>The Storm Warriors</title>
 </programme>
@@ -1496,5 +1493,8 @@
 <title>DAAI TV</title>
 </programme>
 <programme start="20260413090000 +0000" stop="20260413120000 +0000" channel="DAAI TV.vision">
+<title>DAAI TV</title>
+</programme>
+<programme start="20260413120000 +0000" stop="20260413150000 +0000" channel="DAAI TV.vision">
 <title>DAAI TV</title>
 </programme>

@@ -208,17 +208,17 @@
     <desc lang="id">Sinetron romansa tentang perjalanan Trian (Yesaya Abraham) mencari keadilan dan mengungkap kejahatan pasca Adila, istrinya meninggal dunia, dengan bantuan Rama (Rayn Wijaya) dan Asmara (Angela Gilsha). Tayang setiap hari pukul 20.10 WIB</desc>
     <icon src="https://thumbor.prod.vidiocdn.com/SGu1Ct1B41zdysunMju3zN4Qweo=/287x162/filters:strip_icc():quality(70)/vidio-media-production/uploads/livestreaming/schedule/thumbnail/5013865/105468.jpg"/>
   </programme>
-  <programme channel="204" start="20260413135900 +0000" stop="20260413170300 +0000">
+  <programme channel="204" start="20260413135900 +0000" stop="20260413172000 +0000">
     <title lang="id">The Icon Indonesia The Duel : Top 24 Grup A - Live</title>
     <desc lang="id">sebagai talent search bernyanyi yang tidak hanya mencari suara terbaik, tetapi juga sosok dengan karakter kuat yang layak menjadi ikon pop baru Tanah Air.tayang setiap Senin dan Selasa pukul 21.00 WIB di SCTV</desc>
     <icon src="https://thumbor.prod.vidiocdn.com/RzaHX_54CutRJGxUae8fpEf3QuQ=/287x162/filters:strip_icc():quality(70)/vidio-media-production/uploads/livestreaming/schedule/thumbnail/5013872/e0071e.jpg"/>
   </programme>
-  <programme channel="204" start="20260413135900 +0000" stop="20260413170300 +0000">
+  <programme channel="204" start="20260413135900 +0000" stop="20260413172000 +0000">
     <title lang="id">The Icon Indonesia The Duel : Top 24 Grup A - Live</title>
     <desc lang="id">sebagai talent search bernyanyi yang tidak hanya mencari suara terbaik, tetapi juga sosok dengan karakter kuat yang layak menjadi ikon pop baru Tanah Air.tayang setiap Senin dan Selasa pukul 21.00 WIB di SCTV</desc>
     <icon src="https://thumbor.prod.vidiocdn.com/RzaHX_54CutRJGxUae8fpEf3QuQ=/287x162/filters:strip_icc():quality(70)/vidio-media-production/uploads/livestreaming/schedule/thumbnail/5013872/e0071e.jpg"/>
   </programme>
-  <programme channel="204" start="20260413170300 +0000" stop="20260413182500 +0000">
+  <programme channel="204" start="20260413172000 +0000" stop="20260413182500 +0000">
     <title lang="id">Ftv Utama Resep Rahasia Gado Gado Cinta</title>
     <desc lang="id">Film televisi yang mengangkat kisah romantisme kehidupan dengan konflik yang menarik. Tayang setiap hari.</desc>
     <icon src="https://thumbor.prod.vidiocdn.com/N99E8BD1OJ5vvymwPBj0c-BU5J4=/287x162/filters:strip_icc():quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/image/204/sctv-5ef966.jpg"/>
@@ -250,7 +250,7 @@
     <icon src="https://thumbor.prod.vidiocdn.com/9lqkgOZ3mYBtuaGR00BvlcGaq68=/287x162/filters:strip_icc():quality(70)/vidio-media-production/uploads/livestreaming/schedule/thumbnail/5013834/14fde2.jpg"/>
   </programme>
   <programme channel="204" start="20260414010000 +0000" stop="20260414030000 +0000">
-    <title lang="id">Ftv Pagi Spesial Karier, Cinta &amp; Pak Satpam</title>
+    <title lang="id">Ftv Pagi Spesial Jodoh Direview Cinta Yang Viral</title>
     <desc lang="id">Film televisi yang mengangkat kisah romantisme kehidupan dengan konflik yang menarik. Tayang setiap hari.</desc>
     <icon src="https://thumbor.prod.vidiocdn.com/JjbYDU0HDRqoybeYihcp2bfAPac=/287x162/filters:strip_icc():quality(70)/vidio-media-production/uploads/livestreaming/schedule/thumbnail/5013881/410bc9.jpg"/>
   </programme>
@@ -269,12 +269,12 @@
     <icon src="https://thumbor.prod.vidiocdn.com/XfPe_fjFGVXCi7o4LQVznmLH8Jk=/287x162/filters:strip_icc():quality(70)/vidio-media-production/uploads/livestreaming/schedule/thumbnail/5013883/89b663.jpg"/>
   </programme>
   <programme channel="204" start="20260414071500 +0000" stop="20260414084500 +0000">
-    <title lang="id">Ftv Siang Si Paling Renang Pantas Banyak Gaya</title>
+    <title lang="id">Ftv Siang Kalo Es Krimnya Rame Hubungan Kita Lanjut Part II</title>
     <desc lang="id">Film televisi yang mengangkat kisah romantisme kehidupan dengan konflik yang menarik. Tayang setiap hari.</desc>
     <icon src="https://thumbor.prod.vidiocdn.com/eegZ1bwKnL4g6DOdIN4mvGcUheo=/287x162/filters:strip_icc():quality(70)/vidio-media-production/uploads/livestreaming/schedule/thumbnail/5013885/7ace92.jpg"/>
   </programme>
   <programme channel="204" start="20260414084500 +0000" stop="20260414100000 +0000">
-    <title lang="id">Ftv Sore Tutorial Ajak Nikah Jalur Express</title>
+    <title lang="id">Ftv Sore Mencintai Lewat Jalur Langit YGY</title>
     <desc lang="id">Film televisi yang mengangkat kisah romantisme kehidupan dengan konflik yang menarik. Tayang setiap hari.</desc>
     <icon src="https://thumbor.prod.vidiocdn.com/6WHk9seHgR_Ham3MAUoVs5clxRY=/287x162/filters:strip_icc():quality(70)/vidio-media-production/uploads/livestreaming/schedule/thumbnail/5013886/5810c2.jpg"/>
   </programme>
@@ -837,9 +837,8 @@
     <icon src="https://thumbor.prod.vidiocdn.com/cBZL7ITaJCof6cqtayFee2uJCX8=/287x162/filters:strip_icc():quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/image/205/indosiar-d9a3d0.jpg"/>
   </programme>
   <programme channel="205" start="20260413143000 +0000" stop="20260413163000 +0000">
-    <title lang="id">Mega Film Asia Prime : Island Of Fire</title>
-    <desc lang="id">Mega Film Asia Adalah Program Yang Memutarkan Film-Film Asia Yang Ditayangkan Di Indosiar. Acara Ini Ditayangkan Perdana Pada Tahun 1996 Silam.</desc>
-    <icon src="https://thumbor.prod.vidiocdn.com/cBZL7ITaJCof6cqtayFee2uJCX8=/287x162/filters:strip_icc():quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/image/205/indosiar-d9a3d0.jpg"/>
+    <title lang="id">D'Academy 7</title>
+    <icon src="https://thumbor.prod.vidiocdn.com/u_I4Kh51jYI2yS5nAiJce_Cd2gc=/287x162/filters:strip_icc():quality(70)/vidio-media-production/uploads/livestreaming/schedule/thumbnail/5014767/eaceb2.jpg"/>
   </programme>
   <programme channel="205" start="20260413163000 +0000" stop="20260413183000 +0000">
     <title lang="id">Mega Series Action Asia : Heroes</title>
@@ -2699,17 +2698,17 @@
     <desc lang="id">Rerun Proliga 2026</desc>
     <icon src="https://thumbor.prod.vidiocdn.com/NdmzqkxqnWVnlngtk_ObYNT-wiY=/287x162/filters:strip_icc():quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/image/206/moji-a5bd3e.jpg"/>
   </programme>
-  <programme channel="206" start="20260413150000 +0000" stop="20260413161900 +0000">
+  <programme channel="206" start="20260413150000 +0000" stop="20260413173000 +0000">
     <title lang="id">Rerun Ucl</title>
     <desc lang="id">Rerun Ucl</desc>
     <icon src="https://thumbor.prod.vidiocdn.com/NdmzqkxqnWVnlngtk_ObYNT-wiY=/287x162/filters:strip_icc():quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/image/206/moji-a5bd3e.jpg"/>
   </programme>
-  <programme channel="206" start="20260413161900 +0000" stop="20260413181300 +0000">
-    <title lang="id">Rerun Proliga 2026</title>
-    <desc lang="id">Rerun Proliga 2026</desc>
+  <programme channel="206" start="20260413150000 +0000" stop="20260413173000 +0000">
+    <title lang="id">Rerun Ucl</title>
+    <desc lang="id">Rerun Ucl</desc>
     <icon src="https://thumbor.prod.vidiocdn.com/NdmzqkxqnWVnlngtk_ObYNT-wiY=/287x162/filters:strip_icc():quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/image/206/moji-a5bd3e.jpg"/>
   </programme>
-  <programme channel="206" start="20260413161900 +0000" stop="20260413181300 +0000">
+  <programme channel="206" start="20260413173000 +0000" stop="20260413181300 +0000">
     <title lang="id">Rerun Proliga 2026</title>
     <desc lang="id">Rerun Proliga 2026</desc>
     <icon src="https://thumbor.prod.vidiocdn.com/NdmzqkxqnWVnlngtk_ObYNT-wiY=/287x162/filters:strip_icc():quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/image/206/moji-a5bd3e.jpg"/>
