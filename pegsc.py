@@ -43,6 +43,7 @@ urls = [
     "https://manusiabiasa.serv00.net/cen/epg/cosmote.php",
     "https://manusiabiasa.serv00.net/cen/epg/cgates.php",
     "https://manusiabiasa.serv00.net/cen/epg/unifitv.php",
+    "https://astvstreamingpro.my.id/epg/vidio/vidio.php",
     #"https://cindo.mra.my.id/epg/sky.php",
     #"https://cindo.mra.my.id/epg/mytv.php",
 ]
