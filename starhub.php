@@ -8011,10 +8011,10 @@
     <programme start="20260413053000 +0000" stop="20260413073000 +0000" channel="SPOTV2.starhub">
         <title>Compound Team Finals</title>
     </programme>
-    <programme start="20260413073000 +0000" stop="20260413094500 +0000" channel="SPOTV2.starhub">
+    <programme start="20260413073000 +0000" stop="20260413102000 +0000" channel="SPOTV2.starhub">
         <title>Compound Individual Semifinals &amp; Finals</title>
     </programme>
-    <programme start="20260413094500 +0000" stop="20260413150000 +0000" channel="SPOTV2.starhub">
+    <programme start="20260413102000 +0000" stop="20260413150000 +0000" channel="SPOTV2.starhub">
         <title>Day 2 Session 1</title>
     </programme>
     <programme start="20260413150000 +0000" stop="20260413170000 +0000" channel="SPOTV2.starhub">

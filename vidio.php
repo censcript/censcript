@@ -3335,7 +3335,7 @@
   </programme>
   <programme channel="777" start="20260413173000 +0000" stop="20260413180500 +0000">
     <title lang="id">Primetime News</title>
-    <icon src="https://thumbor.prod.vidiocdn.com/oA2ryXzO_k7kOcAhTdtU8c0_5DY=/287x162/filters:strip_icc():quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/image/777/metro-tv-2eba56.jpg"/>
+    <icon src="https://thumbor.prod.vidiocdn.com/NV6IjDNs9eLwui6K_9YGJkvWqBY=/287x162/filters:strip_icc():quality(70)/vidio-media-production/uploads/livestreaming/schedule/thumbnail/5002155/b798c9.jpg"/>
   </programme>
   <programme channel="777" start="20260413180500 +0000" stop="20260413183000 +0000">
     <title lang="id">Primetime News</title>
@@ -3367,7 +3367,7 @@
   </programme>
   <programme channel="777" start="20260413213000 +0000" stop="20260413220500 +0000">
     <title lang="id">Top News</title>
-    <icon src="https://thumbor.prod.vidiocdn.com/oA2ryXzO_k7kOcAhTdtU8c0_5DY=/287x162/filters:strip_icc():quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/image/777/metro-tv-2eba56.jpg"/>
+    <icon src="https://thumbor.prod.vidiocdn.com/rFqmz8_T-chKHtFxvWE2j4hhz4A=/287x162/filters:strip_icc():quality(70)/vidio-media-production/uploads/livestreaming/schedule/thumbnail/5002214/c21c45.jpg"/>
   </programme>
   <programme channel="777" start="20260413220500 +0000" stop="20260413223000 +0000">
     <title lang="id">Metro Pagi Primetime</title>
@@ -3471,7 +3471,7 @@
   </programme>
   <programme channel="777" start="20260414103000 +0000" stop="20260414110000 +0000">
     <title lang="id">Primetime News</title>
-    <icon src="https://thumbor.prod.vidiocdn.com/oA2ryXzO_k7kOcAhTdtU8c0_5DY=/287x162/filters:strip_icc():quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/image/777/metro-tv-2eba56.jpg"/>
+    <icon src="https://thumbor.prod.vidiocdn.com/JN0nOYpAYsj4yCkxxZ_h-ZxWD3w=/287x162/filters:strip_icc():quality(70)/vidio-media-production/uploads/livestreaming/schedule/thumbnail/5002158/4e056f.jpg"/>
   </programme>
   <programme channel="777" start="20260414110000 +0000" stop="20260414113000 +0000">
     <title lang="id">Primetime News</title>
@@ -3491,7 +3491,7 @@
   </programme>
   <programme channel="777" start="20260414130500 +0000" stop="20260414133000 +0000">
     <title lang="id">Top News</title>
-    <icon src="https://thumbor.prod.vidiocdn.com/oA2ryXzO_k7kOcAhTdtU8c0_5DY=/287x162/filters:strip_icc():quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/image/777/metro-tv-2eba56.jpg"/>
+    <icon src="https://thumbor.prod.vidiocdn.com/TImKbKkJGon-vB9DSzDTB4e_GZY=/287x162/filters:strip_icc():quality(70)/vidio-media-production/uploads/livestreaming/schedule/thumbnail/5002215/004089.jpg"/>
   </programme>
   <programme channel="777" start="20260414133000 +0000" stop="20260414140500 +0000">
     <title lang="id">Top News</title>
@@ -4669,7 +4669,7 @@
   <programme channel="874" start="20260414000000 +0000" stop="20260414023000 +0000">
     <title lang="id">Sapa Indonesia Pagi</title>
     <desc lang="id">Berita dan laporan sejumlah peristiwa terhangat di berbagai belahan dunia</desc>
-    <icon src="https://thumbor.prod.vidiocdn.com/jj9luSHlZk2jbvjSgqs3OHK1LOc=/287x162/filters:strip_icc():quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/image/874/kompas-tv-98863c.jpg"/>
+    <icon src="https://thumbor.prod.vidiocdn.com/tZFKQ3HXIfgDwkT8ueyktdk4478=/287x162/filters:strip_icc():quality(70)/vidio-media-production/uploads/livestreaming/schedule/thumbnail/5008620/2e0ee3.jpg"/>
   </programme>
   <programme channel="874" start="20260414023000 +0000" stop="20260414033000 +0000">
     <title lang="id">Berita Utama</title>
@@ -4719,7 +4719,7 @@
   <programme channel="874" start="20260414103000 +0000" stop="20260414123000 +0000">
     <title lang="id">Sapa Indonesia Malam</title>
     <desc lang="id">Informasi terkini seputar dunia politik, ekonomi, kriminal, olahraga, serta hiburan dari dalam dan luar negeri.</desc>
-    <icon src="https://thumbor.prod.vidiocdn.com/PT3ZyAFAXsGjZMBMz76qgRItqyA=/287x162/filters:strip_icc():quality(70)/vidio-media-production/uploads/tv_program/thumbnail/380294/8f6926.jpg"/>
+    <icon src="https://thumbor.prod.vidiocdn.com/neTXljp5pJL8OJnHVx93FpnB8t8=/287x162/filters:strip_icc():quality(70)/vidio-media-production/uploads/livestreaming/schedule/thumbnail/5008652/45acee.jpg"/>
   </programme>
   <programme channel="874" start="20260414123000 +0000" stop="20260414133000 +0000">
     <title lang="id">Berita Utama</title>
@@ -10111,12 +10111,12 @@
   <programme channel="782" start="20260413204500 +0000" stop="20260413224500 +0000">
     <title lang="id">Mega Bollywood</title>
     <desc lang="id">Menghadirkan deretan film Bollywood menarik yang dibintangi aktor dan aktris ternama.</desc>
-    <icon src="https://thumbor.prod.vidiocdn.com/20tRQaK9Gps_wFQL5rY-XgRbrs4=/287x162/filters:strip_icc():quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/image/782/antv-de8530.jpg"/>
+    <icon src="https://thumbor.prod.vidiocdn.com/Lm_3NkPB9Dp5RZIr5HFoo5orlv8=/287x162/filters:strip_icc():quality(70)/vidio-media-production/uploads/livestreaming/schedule/thumbnail/5012464/2e43f2.jpg"/>
   </programme>
   <programme channel="782" start="20260413224500 +0000" stop="20260414003000 +0000">
     <title lang="id">Kasautii</title>
     <desc lang="id">Anurag dan Prerna kuliah di universitas yang sama, dan akhirnya menjalin hubungan erat. Namun, mereka harus menghadapi orang-orang yang ingin memisahkan keduanya, karena perbedaan status sosial.</desc>
-    <icon src="https://thumbor.prod.vidiocdn.com/rqNYtJjfBifjR0_p0GbdGGqfy-w=/287x162/filters:strip_icc():quality(70)/vidio-web-prod-film/uploads/film/image_landscape/8121/kasautii-6ef8ae.png"/>
+    <icon src="https://thumbor.prod.vidiocdn.com/GdLhYQORgSOvvAbB0Rd56QbUF9k=/287x162/filters:strip_icc():quality(70)/vidio-media-production/uploads/livestreaming/schedule/thumbnail/5012449/822e2f.jpg"/>
   </programme>
   <programme channel="782" start="20260414003000 +0000" stop="20260414023000 +0000">
     <title lang="id">Janji Cinta Inspektur Virat</title>
@@ -10126,21 +10126,21 @@
   <programme channel="782" start="20260414023000 +0000" stop="20260414060000 +0000">
     <title lang="id">Mega Bollywood</title>
     <desc lang="id">Menghadirkan deretan film Bollywood menarik yang dibintangi aktor dan aktris ternama.</desc>
-    <icon src="https://thumbor.prod.vidiocdn.com/20tRQaK9Gps_wFQL5rY-XgRbrs4=/287x162/filters:strip_icc():quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/image/782/antv-de8530.jpg"/>
+    <icon src="https://thumbor.prod.vidiocdn.com/tL7lngcaV14lvpozle30yLu5H-8=/287x162/filters:strip_icc():quality(70)/vidio-media-production/uploads/livestreaming/schedule/thumbnail/5012465/e0f17e.jpg"/>
   </programme>
   <programme channel="782" start="20260414060000 +0000" stop="20260414080000 +0000">
     <title lang="id">Jhanak</title>
     <desc lang="id">Seorang wanita muda yang bersemangat memulai perjalanan untuk memenuhi janji seorang ibu demi kehidupan yang lebih baik sambil mengatasi tantangan dan kehilangan.</desc>
-    <icon src="https://thumbor.prod.vidiocdn.com/20tRQaK9Gps_wFQL5rY-XgRbrs4=/287x162/filters:strip_icc():quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/image/782/antv-de8530.jpg"/>
+    <icon src="https://thumbor.prod.vidiocdn.com/-ZtSmCV-pkgtr3uQ5oFdmtt_s0Y=/287x162/filters:strip_icc():quality(70)/vidio-media-production/uploads/livestreaming/schedule/thumbnail/5012453/36c833.jpg"/>
   </programme>
   <programme channel="782" start="20260414080000 +0000" stop="20260414090000 +0000">
     <title lang="id">Teri Meri Doriyaann</title>
-    <icon src="https://thumbor.prod.vidiocdn.com/20tRQaK9Gps_wFQL5rY-XgRbrs4=/287x162/filters:strip_icc():quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/image/782/antv-de8530.jpg"/>
+    <icon src="https://thumbor.prod.vidiocdn.com/cL5sX2eJCPEol96k5gPWQc66xW0=/287x162/filters:strip_icc():quality(70)/vidio-media-production/uploads/livestreaming/schedule/thumbnail/5012455/c09a7b.jpg"/>
   </programme>
   <programme channel="782" start="20260414090000 +0000" stop="20260414110000 +0000">
     <title lang="id">Vasudha</title>
     <desc lang="id">Vasudha yang periang bergabung dengan rumah pemimpin bisnis Chandrika sebagai pembantu dan mendambakan persetujuannya meskipun ada perbedaan ideologis di antara mereka.</desc>
-    <icon src="https://thumbor.prod.vidiocdn.com/20tRQaK9Gps_wFQL5rY-XgRbrs4=/287x162/filters:strip_icc():quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/image/782/antv-de8530.jpg"/>
+    <icon src="https://thumbor.prod.vidiocdn.com/0lHfH2N5KXACr7rJCXSqwIUpglw=/287x162/filters:strip_icc():quality(70)/vidio-media-production/uploads/livestreaming/schedule/thumbnail/5012457/137c9a.jpg"/>
   </programme>
   <programme channel="782" start="20260414110000 +0000" stop="20260414130000 +0000">
     <title lang="id">Sinema Laga Klasik</title>
@@ -10272,7 +10272,7 @@
   </programme>
   <programme channel="783" start="20260413180000 +0000" stop="20260413193000 +0000">
     <title lang="id">Kabar Petang</title>
-    <icon src="https://thumbor.prod.vidiocdn.com/TyXbaZqF_g2hn94imFJllHzaz_Q=/287x162/filters:strip_icc():quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/image/783/tvone-bb42ce.jpg"/>
+    <icon src="https://thumbor.prod.vidiocdn.com/wtPb9jvOyCueDU3w1u4AIH6slro=/287x162/filters:strip_icc():quality(70)/vidio-media-production/uploads/livestreaming/schedule/thumbnail/5012532/54e46b.jpg"/>
   </programme>
   <programme channel="783" start="20260413193000 +0000" stop="20260413200000 +0000">
     <title lang="id">Kabar Utama</title>
@@ -10300,7 +10300,7 @@
   </programme>
   <programme channel="783" start="20260413233000 +0000" stop="20260414013000 +0000">
     <title lang="id">Apa Kabar Indonesia Pagi</title>
-    <icon src="https://thumbor.prod.vidiocdn.com/TyXbaZqF_g2hn94imFJllHzaz_Q=/287x162/filters:strip_icc():quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/image/783/tvone-bb42ce.jpg"/>
+    <icon src="https://thumbor.prod.vidiocdn.com/FHT09TWH1Db8a6_p-rwiOgVIn88=/287x162/filters:strip_icc():quality(70)/vidio-media-production/uploads/livestreaming/schedule/thumbnail/5012553/ccb08d.jpg"/>
   </programme>
   <programme channel="783" start="20260414013000 +0000" stop="20260414020000 +0000">
     <title lang="id">Hidup Sehat</title>
@@ -10336,11 +10336,11 @@
   </programme>
   <programme channel="783" start="20260414090000 +0000" stop="20260414110000 +0000">
     <title lang="id">Kabar Petang</title>
-    <icon src="https://thumbor.prod.vidiocdn.com/TyXbaZqF_g2hn94imFJllHzaz_Q=/287x162/filters:strip_icc():quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/image/783/tvone-bb42ce.jpg"/>
+    <icon src="https://thumbor.prod.vidiocdn.com/4cJJrmrnLHeWm2jCM5iZNwJg6w8=/287x162/filters:strip_icc():quality(70)/vidio-media-production/uploads/livestreaming/schedule/thumbnail/5012533/13cd2b.jpg"/>
   </programme>
   <programme channel="783" start="20260414110000 +0000" stop="20260414130000 +0000">
     <title lang="id">Apa Kabar Indonesia Malam</title>
-    <icon src="https://thumbor.prod.vidiocdn.com/TyXbaZqF_g2hn94imFJllHzaz_Q=/287x162/filters:strip_icc():quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/image/783/tvone-bb42ce.jpg"/>
+    <icon src="https://thumbor.prod.vidiocdn.com/FfZ57otjvLCcVzp685XPq8uix4M=/287x162/filters:strip_icc():quality(70)/vidio-media-production/uploads/livestreaming/schedule/thumbnail/5012528/19a6b7.jpg"/>
   </programme>
   <programme channel="783" start="20260414130000 +0000" stop="20260414143000 +0000">
     <title lang="id">Catatan Demokrasi</title>
@@ -15225,6 +15225,50 @@
     <title lang="id">Day 2 - WTA 500: Porsche Tennis Grand Prix 2026</title>
     <desc lang="id">Nonton streaming pertandingan seru Day 2 - WTA 500: Porsche Tennis Grand Prix 2026. Saksikan aksi-aksi terbaik dari tim yang bersaing ketat untuk meraih kemenangan. Dapatkan informasi lengkap mengenai jadwal pertandingan dan hasil pertandingan terbaru hanya di Vidio.</desc>
     <icon src="https://thumbor.prod.vidiocdn.com/-Km5fV4rfdANJTwZPQRJnvGm7-s=/287x162/filters:strip_icc():quality(70)/vidio-media-production/uploads/livestreaming/schedule/thumbnail/5014089/148b2b.jpg"/>
+  </programme>
+  <programme channel="6786" start="20260415150000 +0000" stop="20260415210000 +0000">
+    <title lang="id">Day 2 - WTA 500: Porsche Tennis Grand Prix 2026</title>
+    <desc lang="id">Nonton streaming pertandingan seru Day 2 - WTA 500: Porsche Tennis Grand Prix 2026. Saksikan aksi-aksi terbaik dari tim yang bersaing ketat untuk meraih kemenangan. Dapatkan informasi lengkap mengenai jadwal pertandingan dan hasil pertandingan terbaru hanya di Vidio.</desc>
+    <icon src="https://thumbor.prod.vidiocdn.com/-Km5fV4rfdANJTwZPQRJnvGm7-s=/287x162/filters:strip_icc():quality(70)/vidio-media-production/uploads/livestreaming/schedule/thumbnail/5014089/148b2b.jpg"/>
+  </programme>
+  <programme channel="6786" start="20260415210000 +0000" stop="20260415213000 +0000">
+    <title lang="id">Eps 1 : Billie Jane King Cup 2025</title>
+    <desc lang="id">Eps 1</desc>
+    <icon src="https://thumbor.prod.vidiocdn.com/nY0aFklpYf6yONLaFJjxhiSuthc=/287x162/filters:strip_icc():quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/image/6786/champions-tv-3-76ca7c.jpg"/>
+  </programme>
+  <programme channel="6786" start="20260415213000 +0000" stop="20260416033000 +0000">
+    <title lang="id">Poland vs Ukraine : Billie Jean King Cup 2026 Qualifiers</title>
+    <desc lang="id">Poland vs Ukraine</desc>
+    <icon src="https://thumbor.prod.vidiocdn.com/nY0aFklpYf6yONLaFJjxhiSuthc=/287x162/filters:strip_icc():quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/image/6786/champions-tv-3-76ca7c.jpg"/>
+  </programme>
+  <programme channel="6786" start="20260416033000 +0000" stop="20260416040000 +0000">
+    <title lang="id">Full Impact - Round 32 : Serie A 2025/26 - Highlight Show</title>
+    <desc lang="id">Full Impact - Round 32</desc>
+    <icon src="https://thumbor.prod.vidiocdn.com/nY0aFklpYf6yONLaFJjxhiSuthc=/287x162/filters:strip_icc():quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/image/6786/champions-tv-3-76ca7c.jpg"/>
+  </programme>
+  <programme channel="6786" start="20260416040000 +0000" stop="20260416100000 +0000">
+    <title lang="id">Belgium vs USA : Billie Jean King Cup 2026 Qualifiers</title>
+    <desc lang="id">Belgium vs USA</desc>
+    <icon src="https://thumbor.prod.vidiocdn.com/nY0aFklpYf6yONLaFJjxhiSuthc=/287x162/filters:strip_icc():quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/image/6786/champions-tv-3-76ca7c.jpg"/>
+  </programme>
+  <programme channel="6786" start="20260416100000 +0000" stop="20260416103000 +0000">
+    <title lang="id">Week 23 : NFL Extra</title>
+    <desc lang="id">Week 23</desc>
+    <icon src="https://thumbor.prod.vidiocdn.com/nY0aFklpYf6yONLaFJjxhiSuthc=/287x162/filters:strip_icc():quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/image/6786/champions-tv-3-76ca7c.jpg"/>
+  </programme>
+  <programme channel="6786" start="20260416103000 +0000" stop="20260416143000 +0000">
+    <title lang="id">Day 3 - WTA 500: Porsche Tennis Grand Prix 2026</title>
+    <desc lang="id">Nonton streaming pertandingan seru Day 3 - WTA 500: Porsche Tennis Grand Prix 2026. Saksikan aksi-aksi terbaik dari tim yang bersaing ketat untuk meraih kemenangan. Dapatkan informasi lengkap mengenai jadwal pertandingan dan hasil pertandingan terbaru hanya di Vidio.</desc>
+    <icon src="https://thumbor.prod.vidiocdn.com/00Uuw2IeE9KbR0-zrM3_8SqbhDM=/287x162/filters:strip_icc():quality(70)/vidio-media-production/uploads/livestreaming/schedule/thumbnail/5014337/cb52d4.jpg"/>
+  </programme>
+  <programme channel="6786" start="20260416143000 +0000" stop="20260416150000 +0000">
+    <title lang="id">WTA my Story</title>
+    <icon src="https://thumbor.prod.vidiocdn.com/nY0aFklpYf6yONLaFJjxhiSuthc=/287x162/filters:strip_icc():quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/image/6786/champions-tv-3-76ca7c.jpg"/>
+  </programme>
+  <programme channel="6786" start="20260416150000 +0000" stop="20260416210000 +0000">
+    <title lang="id">Day 3 - WTA 500: Porsche Tennis Grand Prix 2026</title>
+    <desc lang="id">Nonton streaming pertandingan seru Day 3 - WTA 500: Porsche Tennis Grand Prix 2026. Saksikan aksi-aksi terbaik dari tim yang bersaing ketat untuk meraih kemenangan. Dapatkan informasi lengkap mengenai jadwal pertandingan dan hasil pertandingan terbaru hanya di Vidio.</desc>
+    <icon src="https://thumbor.prod.vidiocdn.com/4ePsIE33sCSnR24FHt8ZYJIp7jY=/287x162/filters:strip_icc():quality(70)/vidio-media-production/uploads/livestreaming/schedule/thumbnail/5014338/98a5a8.jpg"/>
   </programme>
   <programme channel="6786" start="20260416150000 +0000" stop="20260416210000 +0000">
     <title lang="id">Day 3 - WTA 500: Porsche Tennis Grand Prix 2026</title>
