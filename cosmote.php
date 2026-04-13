@@ -70,10 +70,6 @@
     <title>Football: Crystal Palace - ACF Fiorentina</title>
     <desc>Live: Tidak</desc>
 </programme>
-<programme start="20260413090000 +0700" stop="20260413110000 +0700" channel="COSMOTE Sport 2 HD">
-    <title>Football: Genoa - Sassuolo</title>
-    <desc>Live: Tidak</desc>
-</programme>
 <programme start="20260413110000 +0700" stop="20260413131000 +0700" channel="COSMOTE Sport 2 HD">
     <title>Football: Volos NPS - OFI</title>
     <desc>Live: Tidak</desc>
@@ -128,6 +124,10 @@
 </programme>
 <programme start="20260414090000 +0700" stop="20260414110000 +0700" channel="COSMOTE Sport 2 HD">
     <title>Football: Torino - Hellas Verona</title>
+    <desc>Live: Tidak</desc>
+</programme>
+<programme start="20260414110000 +0700" stop="20260414131000 +0700" channel="COSMOTE Sport 2 HD">
+    <title>Football: AEL Novibet - Panetolikos</title>
     <desc>Live: Tidak</desc>
 </programme>
 <programme start="20260413100000 +0700" stop="20260413120000 +0700" channel="COSMOTE Sport 3 HD">
@@ -240,10 +240,6 @@
 </programme>
 <programme start="20260414100000 +0700" stop="20260414120000 +0700" channel="COSMOTE Sport 4 HD">
     <title>Basketball: Reyer Venezia - Brescia</title>
-    <desc>Live: Tidak</desc>
-</programme>
-<programme start="20260413100000 +0700" stop="20260413105000 +0700" channel="COSMOTE Sport 5 HD">
-    <title>DTM</title>
     <desc>Live: Tidak</desc>
 </programme>
 <programme start="20260413105000 +0700" stop="20260413115000 +0700" channel="COSMOTE Sport 5 HD">
@@ -360,6 +356,10 @@
 </programme>
 <programme start="20260414103000 +0700" stop="20260414113000 +0700" channel="COSMOTE Sport 5 HD">
     <title>Highlights: 2025 Extreme H</title>
+    <desc>Live: Tidak</desc>
+</programme>
+<programme start="20260414113000 +0700" stop="20260414123000 +0700" channel="COSMOTE Sport 5 HD">
+    <title>WRC</title>
     <desc>Live: Tidak</desc>
 </programme>
 <programme start="20260413094000 +0700" stop="20260413113000 +0700" channel="COSMOTE Sport 6 HD">

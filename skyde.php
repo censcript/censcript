@@ -2536,9 +2536,9 @@ Warning: Undefined array key "et" in /usr/home/ManusiaBiasa/domains/manusiabiasa
     <title>Live PL: Manchester United - Leeds United, 32. Spieltag</title>
 </programme>
 <programme start="20260413111000 +0000" stop="20260413113000 +0000" channel="Sky Sport Austria 3 HD.skyde">
-    <title>Es folgt: LIVE WTA Tour</title>
+    <title>WTA: Es folgt</title>
 </programme>
-<programme start="20260413113000 +0000" stop="20260413213000 +0000" channel="Sky Sport Austria 3 HD.skyde">
+<programme start="20260413113000 +0000" stop="20260413193000 +0000" channel="Sky Sport Austria 3 HD.skyde">
     <title>Live WTA 250: Open Capfinances Rouen Metropole in Rouen (FRA), 1. Tag</title>
 </programme>
 <programme start="20260412220000 +0000" stop="20260412230000 +0000" channel="Sky Sport Bundesliga HD.skyde">
@@ -3093,19 +3093,19 @@ Warning: Undefined array key "et" in /usr/home/ManusiaBiasa/domains/manusiabiasa
 <programme start="20260413161000 +0000" stop="20260413163000 +0000" channel="Sky Sport 1 HD.skyde">
     <title>Es folgt: LIVE Tennis WTA Tour</title>
 </programme>
-<programme start="20260413163000 +0000" stop="20260413223000 +0000" channel="Sky Sport 1 HD.skyde">
+<programme start="20260413163000 +0000" stop="20260413203000 +0000" channel="Sky Sport 1 HD.skyde">
     <title>Live WTA 500: Porsche Tennis Grand Prix in Stuttgart, 1. Tag</title>
 </programme>
 <programme start="20260413084000 +0000" stop="20260413090000 +0000" channel="Sky Sport 2 HD.skyde">
-    <title>Es folgt: LIVE ATP Tour</title>
+    <title>Es folgt: Live ATP Tour</title>
 </programme>
-<programme start="20260413090000 +0000" stop="20260413134000 +0000" channel="Sky Sport 2 HD.skyde">
+<programme start="20260413090000 +0000" stop="20260413130000 +0000" channel="Sky Sport 2 HD.skyde">
     <title>Live ATP 500: Barcelona Open BancSabadell in Barcelona (ESP), 1. Tag</title>
 </programme>
-<programme start="20260413134000 +0000" stop="20260413140000 +0000" channel="Sky Sport 2 HD.skyde">
-    <title>Es folgt: LIVE ATP Tour</title>
+<programme start="20260413130000 +0000" stop="20260413140000 +0000" channel="Sky Sport 2 HD.skyde">
+    <title>Es folgt: Live ATP Tour</title>
 </programme>
-<programme start="20260413140000 +0000" stop="20260413200000 +0000" channel="Sky Sport 2 HD.skyde">
+<programme start="20260413140000 +0000" stop="20260413180000 +0000" channel="Sky Sport 2 HD.skyde">
     <title>Live ATP 500: Barcelona Open BancSabadell in Barcelona (ESP), 1. Tag</title>
 </programme>
 <programme start="20260412222500 +0000" stop="20260412231000 +0000" channel="SYFY HD.skyde">

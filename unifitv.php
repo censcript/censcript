@@ -15368,14 +15368,9 @@
     <desc lang="en">Elite teams of top riders compete across iconic global venues, delivering tactical battles, precision jumping, and thrilling team-based equestrian action.</desc>
     <category lang="en">Extreme Sports</category>
   </programme>
-  <programme start="20260413083000 +0000" stop="20260413153000 +0000" channel="spotv.unifitv">
+  <programme start="20260413083000 +0000" stop="20260413162000 +0000" channel="spotv.unifitv">
     <title lang="en">2026 Masters Tournament - Final Round</title>
     <desc lang="en">The world's top golfers compete at Augusta National in one of the sport's most prestigious events, delivering iconic moments, precision play, and championship drama.</desc>
-    <category lang="en">Golf</category>
-  </programme>
-  <programme start="20260413153000 +0000" stop="20260413162000 +0000" channel="spotv.unifitv">
-    <title lang="en">Jim Nantz Remembers: Rory McIlroy's Masterpiece</title>
-    <desc lang="en">A look back at Rory McIlroy's historic Masters victory and career Grand Slam, featuring exclusive insights and a sit-down interview with Jim Nantz.</desc>
     <category lang="en">Golf</category>
   </programme>
   <channel id="spotv2.unifitv">
@@ -15416,22 +15411,22 @@
     <desc lang="en">Top flight men's soccer returns in the ISUZU UTE A-League Men. Catch every moment on SPOTV NOW as 12 teams compete in the regular season with top 4 advancing to a single-game knockout.</desc>
     <category lang="en">Football</category>
   </programme>
-  <programme start="20260413043000 +0000" stop="20260413053000 +0000" channel="spotv2.unifitv">
+  <programme start="20260413043000 +0000" stop="20260413052500 +0000" channel="spotv2.unifitv">
     <title lang="en">2026 Asian Tour Highlights - International Series Japan</title>
     <desc lang="en">Launched in 2022, The International Series is a set of 10 elevated events that form an Asian Tour-sanctioned pathway onto the lucrative LIV Golf League.</desc>
     <category lang="en">Golf</category>
   </programme>
-  <programme start="20260413053000 +0000" stop="20260413073000 +0000" channel="spotv2.unifitv">
+  <programme start="20260413052500 +0000" stop="20260413073000 +0000" channel="spotv2.unifitv">
     <title lang="en">2026 Hyundai Archery World Cup, Stage 1 Puebla (MEX) - Compound Team Finals</title>
     <desc lang="en">Consisting of four stages and a grand final, the Hyundai Archery World Cup features international elite recurve and compound archers shooting for the title of Hyundai Archery World Cup Champion.</desc>
     <category lang="en">Archery</category>
   </programme>
-  <programme start="20260413073000 +0000" stop="20260413094500 +0000" channel="spotv2.unifitv">
+  <programme start="20260413073000 +0000" stop="20260413102000 +0000" channel="spotv2.unifitv">
     <title lang="en">2026 Hyundai Archery World Cup, Stage 1 Puebla (MEX) - Compound Individual Semifinals &amp; Finals</title>
     <desc lang="en">Consisting of four stages and a grand final, the Hyundai Archery World Cup features international elite recurve and compound archers shooting for the title of Hyundai Archery World Cup Champion.</desc>
     <category lang="en">Archery</category>
   </programme>
-  <programme start="20260413094500 +0000" stop="20260413150000 +0000" channel="spotv2.unifitv">
+  <programme start="20260413102000 +0000" stop="20260413150000 +0000" channel="spotv2.unifitv">
     <title lang="en">WTT Singapore Smash 2026 - Day 2 Session 1</title>
     <desc lang="en">WTT Singapore Smash 2026 brings the world's elite table tennis players together for one of the sport's premier events, delivering high-intensity matches and unforgettable moments on the global stage.</desc>
     <category lang="en">Table Tennis</category>

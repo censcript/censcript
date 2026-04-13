@@ -8362,10 +8362,10 @@
 <programme start="20260413053000 +0000" stop="20260413073000 +0000" channel="SPOTV 2.mncvision">
     <title>2026 Hyundai Archery World Cup</title>
 </programme>
-<programme start="20260413073000 +0000" stop="20260413094500 +0000" channel="SPOTV 2.mncvision">
+<programme start="20260413073000 +0000" stop="20260413102000 +0000" channel="SPOTV 2.mncvision">
     <title>2026 Hyundai Archery World Cup</title>
 </programme>
-<programme start="20260413094500 +0000" stop="20260413150000 +0000" channel="SPOTV 2.mncvision">
+<programme start="20260413102000 +0000" stop="20260413150000 +0000" channel="SPOTV 2.mncvision">
     <title>WTT Singapore Smash 2026</title>
 </programme>
 <programme start="20260413150000 +0000" stop="20260413153000 +0000" channel="SPOTV 2.mncvision">
@@ -8392,10 +8392,10 @@
 <programme start="20260413053000 +0000" stop="20260413073000 +0000" channel="SPOTV 2 HD.mncvision">
     <title>2026 Hyundai Archery World Cup</title>
 </programme>
-<programme start="20260413073000 +0000" stop="20260413094500 +0000" channel="SPOTV 2 HD.mncvision">
+<programme start="20260413073000 +0000" stop="20260413102000 +0000" channel="SPOTV 2 HD.mncvision">
     <title>2026 Hyundai Archery World Cup</title>
 </programme>
-<programme start="20260413094500 +0000" stop="20260413150000 +0000" channel="SPOTV 2 HD.mncvision">
+<programme start="20260413102000 +0000" stop="20260413150000 +0000" channel="SPOTV 2 HD.mncvision">
     <title>WTT Singapore Smash 2026</title>
 </programme>
 <programme start="20260413150000 +0000" stop="20260413153000 +0000" channel="SPOTV 2 HD.mncvision">
