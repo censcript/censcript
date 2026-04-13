@@ -2536,9 +2536,9 @@ Warning: Undefined array key "et" in /usr/home/ManusiaBiasa/domains/manusiabiasa
     <title>Live PL: Manchester United - Leeds United, 32. Spieltag</title>
 </programme>
 <programme start="20260413111000 +0000" stop="20260413113000 +0000" channel="Sky Sport Austria 3 HD.skyde">
-    <title>WTA: Es folgt</title>
+    <title>Es folgt: LIVE WTA Tour</title>
 </programme>
-<programme start="20260413113000 +0000" stop="20260413193000 +0000" channel="Sky Sport Austria 3 HD.skyde">
+<programme start="20260413113000 +0000" stop="20260413213000 +0000" channel="Sky Sport Austria 3 HD.skyde">
     <title>Live WTA 250: Open Capfinances Rouen Metropole in Rouen (FRA), 1. Tag</title>
 </programme>
 <programme start="20260412220000 +0000" stop="20260412230000 +0000" channel="Sky Sport Bundesliga HD.skyde">
@@ -2703,13 +2703,13 @@ Warning: Undefined array key "et" in /usr/home/ManusiaBiasa/domains/manusiabiasa
 <programme start="20260413201500 +0000" stop="20260413221500 +0000" channel="Sky Sport F1 HD.skyde">
     <title>F1: Rennen 2004 in Spa-Francorchamps</title>
 </programme>
-<programme start="20260412230000 +0000" stop="20260412235000 +0000" channel="Sky Sport Golf HD.skyde">
+<programme start="20260412232000 +0000" stop="20260413000500 +0000" channel="Sky Sport Golf HD.skyde">
     <title>The Masters: McIlroy&#039;s Masterpiece</title>
 </programme>
-<programme start="20260412235000 +0000" stop="20260413004000 +0000" channel="Sky Sport Golf HD.skyde">
+<programme start="20260413000500 +0000" stop="20260413005500 +0000" channel="Sky Sport Golf HD.skyde">
     <title>The Masters: 1986</title>
 </programme>
-<programme start="20260413004000 +0000" stop="20260413034000 +0000" channel="Sky Sport Golf HD.skyde">
+<programme start="20260413005500 +0000" stop="20260413034000 +0000" channel="Sky Sport Golf HD.skyde">
     <title>The Masters: 4. Tag in Augusta, GA (USA)</title>
 </programme>
 <programme start="20260413034000 +0000" stop="20260413041000 +0000" channel="Sky Sport Golf HD.skyde">
@@ -2967,7 +2967,7 @@ Warning: Undefined array key "et" in /usr/home/ManusiaBiasa/domains/manusiabiasa
 <programme start="20260413214500 +0000" stop="20260413220000 +0000" channel="Sky Sport Premier League HD.skyde">
     <title>EFL: Highlights XXL: Norwich City - Ipswich Town, 42. Spieltag</title>
 </programme>
-<programme start="20260412220000 +0000" stop="20260413003000 +0000" channel="Sky Sport Tennis HD.skyde">
+<programme start="20260412221500 +0000" stop="20260413001500 +0000" channel="Sky Sport Tennis HD.skyde">
     <title>ATP 1000: K. Krawietz (GER) / T. Puetz (GER) - M. Arevalo (ESA) / M. Pavic (CRO), Rolex Monte-Carlo Masters in Monte-Carlo, Doppelfinale</title>
 </programme>
 <programme start="20260413003000 +0000" stop="20260413030000 +0000" channel="Sky Sport Tennis HD.skyde">
@@ -2976,8 +2976,11 @@ Warning: Undefined array key "et" in /usr/home/ManusiaBiasa/domains/manusiabiasa
 <programme start="20260413030000 +0000" stop="20260413040000 +0000" channel="Sky Sport Tennis HD.skyde">
     <title>ATP 1000: Review Miami</title>
 </programme>
-<programme start="20260413040000 +0000" stop="20260413063000 +0000" channel="Sky Sport Tennis HD.skyde">
+<programme start="20260413040000 +0000" stop="20260413055500 +0000" channel="Sky Sport Tennis HD.skyde">
     <title>ATP 1000: K. Krawietz (GER) / T. Puetz (GER) - M. Arevalo (ESA) / M. Pavic (CRO), Rolex Monte-Carlo Masters in Monte-Carlo, Doppelfinale</title>
+</programme>
+<programme start="20260413055500 +0000" stop="20260413063000 +0000" channel="Sky Sport Tennis HD.skyde">
+    <title>WTA: All Access Magazine Show</title>
 </programme>
 <programme start="20260413063000 +0000" stop="20260413090000 +0000" channel="Sky Sport Tennis HD.skyde">
     <title>ATP 1000: J. Sinner (ITA) - C. Alcaraz (ESP), Rolex Monte-Carlo Masters in Monte-Carlo, Finale</title>
@@ -2992,9 +2995,9 @@ Warning: Undefined array key "et" in /usr/home/ManusiaBiasa/domains/manusiabiasa
     <title>ATP 1000: Review Monte-Carlo</title>
 </programme>
 <programme start="20260413213000 +0000" stop="20260413233000 +0000" channel="Sky Sport Tennis HD.skyde">
-    <title>ATP 500: Topspiel, BMW Open in München, 1. Tag</title>
+    <title>ATP 500: J.-L. Struff (GER) - F. Cerundulo (ARG), BMW Open in München, 1. Tag</title>
 </programme>
-<programme start="20260412233000 +0000" stop="20260413010000 +0000" channel="Sky Sport Top Event HD.skyde">
+<programme start="20260412232000 +0000" stop="20260413010000 +0000" channel="Sky Sport Top Event HD.skyde">
     <title>Live NBA: Orlando Magic @ Boston Celtics</title>
 </programme>
 <programme start="20260413010000 +0000" stop="20260413013000 +0000" channel="Sky Sport Top Event HD.skyde">
@@ -3093,7 +3096,7 @@ Warning: Undefined array key "et" in /usr/home/ManusiaBiasa/domains/manusiabiasa
 <programme start="20260413161000 +0000" stop="20260413163000 +0000" channel="Sky Sport 1 HD.skyde">
     <title>Es folgt: LIVE Tennis WTA Tour</title>
 </programme>
-<programme start="20260413163000 +0000" stop="20260413203000 +0000" channel="Sky Sport 1 HD.skyde">
+<programme start="20260413163000 +0000" stop="20260413223000 +0000" channel="Sky Sport 1 HD.skyde">
     <title>Live WTA 500: Porsche Tennis Grand Prix in Stuttgart, 1. Tag</title>
 </programme>
 <programme start="20260413084000 +0000" stop="20260413090000 +0000" channel="Sky Sport 2 HD.skyde">

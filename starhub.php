@@ -8089,7 +8089,7 @@
     <programme start="20260413133000 +0000" stop="20260413140000 +0000" channel="Dragon TV.starhub">
         <title>CARE ON THE WAY</title>
     </programme>
-    <programme start="20260413140000 +0000" stop="20260413163000 +0000" channel="Dragon TV.starhub">
+    <programme start="20260413140000 +0000" stop="20260413160000 +0000" channel="Dragon TV.starhub">
         <title>Overtime no more</title>
     </programme>
     <programme start="20260412160000 +0000" stop="20260412163000 +0000" channel="Travelxp HD.starhub">
@@ -8777,7 +8777,7 @@
         <title>The Imperial Coroner (II)</title>
     </programme>
     <programme start="20260413143000 +0000" stop="20260413150000 +0000" channel="TVB Jade HD.starhub">
-        <title>Good Value for Money</title>
+        <title>Try It? Really?</title>
     </programme>
     <programme start="20260413150000 +0000" stop="20260413151500 +0000" channel="TVB Jade HD.starhub">
         <title>EXTRA</title>
