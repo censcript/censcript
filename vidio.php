@@ -211,12 +211,12 @@
     <title lang="id">The Icon Indonesia</title>
     <icon src="https://thumbor.prod.vidiocdn.com/qUo-eYYi_cJ0W5ZCL9RIYv1JK8A=/287x162/filters:strip_icc():quality(70)/vidio-media-production/uploads/livestreaming/schedule/thumbnail/5015524/6aae85.jpg"/>
   </programme>
-  <programme channel="204" start="20260414170100 +0000" stop="20260414182100 +0000">
+  <programme channel="204" start="20260414170100 +0000" stop="20260414181600 +0000">
     <title lang="id">FTV Utama: Cinta Bersemi Di Boutique No.23</title>
     <desc lang="id">Film televisi yang mengangkat kisah romantisme kehidupan dengan konflik yang menarik. Tayang setiap hari.</desc>
     <icon src="https://thumbor.prod.vidiocdn.com/N99E8BD1OJ5vvymwPBj0c-BU5J4=/287x162/filters:strip_icc():quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/image/204/sctv-5ef966.jpg"/>
   </programme>
-  <programme channel="204" start="20260414182100 +0000" stop="20260414210600 +0000">
+  <programme channel="204" start="20260414181600 +0000" stop="20260414210600 +0000">
     <title lang="id">Liverpool Vs Psg - Uefa Champions League Quarter Final - Live</title>
     <icon src="https://thumbor.prod.vidiocdn.com/N99E8BD1OJ5vvymwPBj0c-BU5J4=/287x162/filters:strip_icc():quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/image/204/sctv-5ef966.jpg"/>
   </programme>
