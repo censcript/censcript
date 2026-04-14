@@ -204,8 +204,8 @@
     <icon src="https://thumbor.prod.vidiocdn.com/_PMnTnt_YI3XRO3dd0Udc-LMCg4=/287x162/filters:strip_icc():quality(70)/vidio-media-production/uploads/livestreaming/schedule/thumbnail/5013866/d88c7a.jpg"/>
   </programme>
   <programme channel="204" start="20260414140000 +0000" stop="20260414170000 +0000">
-    <title lang="id">THE ICON INDONESIA THE DUEL - TOP 24 GRUP B</title>
-    <icon src="https://thumbor.prod.vidiocdn.com/N99E8BD1OJ5vvymwPBj0c-BU5J4=/287x162/filters:strip_icc():quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/image/204/sctv-5ef966.jpg"/>
+    <title lang="id">The Icon Indonesia</title>
+    <icon src="https://thumbor.prod.vidiocdn.com/qUo-eYYi_cJ0W5ZCL9RIYv1JK8A=/287x162/filters:strip_icc():quality(70)/vidio-media-production/uploads/livestreaming/schedule/thumbnail/5015524/6aae85.jpg"/>
   </programme>
   <programme channel="204" start="20260414140000 +0000" stop="20260414170000 +0000">
     <title lang="id">The Icon Indonesia</title>
@@ -2364,21 +2364,22 @@
     <desc lang="id">American Ninja Warrior Season 14</desc>
     <icon src="https://thumbor.prod.vidiocdn.com/NdmzqkxqnWVnlngtk_ObYNT-wiY=/287x162/filters:strip_icc():quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/image/206/moji-a5bd3e.jpg"/>
   </programme>
-  <programme channel="206" start="20260414120000 +0000" stop="20260414150000 +0000">
+  <programme channel="206" start="20260414120000 +0000" stop="20260414150300 +0000">
     <title lang="id">Rerun Proliga 2026</title>
     <desc lang="id">Rerun Proliga 2026</desc>
     <icon src="https://thumbor.prod.vidiocdn.com/NdmzqkxqnWVnlngtk_ObYNT-wiY=/287x162/filters:strip_icc():quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/image/206/moji-a5bd3e.jpg"/>
   </programme>
-  <programme channel="206" start="20260414150000 +0000" stop="20260414160000 +0000">
+  <programme channel="206" start="20260414150300 +0000" stop="20260414170000 +0000">
     <title lang="id">Rerun Ucl</title>
     <desc lang="id">Rerun Ucl</desc>
     <icon src="https://thumbor.prod.vidiocdn.com/NdmzqkxqnWVnlngtk_ObYNT-wiY=/287x162/filters:strip_icc():quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/image/206/moji-a5bd3e.jpg"/>
   </programme>
-  <programme channel="206" start="20260414160000 +0000" stop="20260414173000 +0000">
-    <title lang="id">HARTA TAHTA CINTA</title>
+  <programme channel="206" start="20260414150300 +0000" stop="20260414170000 +0000">
+    <title lang="id">Rerun Ucl</title>
+    <desc lang="id">Rerun Ucl</desc>
     <icon src="https://thumbor.prod.vidiocdn.com/NdmzqkxqnWVnlngtk_ObYNT-wiY=/287x162/filters:strip_icc():quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/image/206/moji-a5bd3e.jpg"/>
   </programme>
-  <programme channel="206" start="20260414160000 +0000" stop="20260414173000 +0000">
+  <programme channel="206" start="20260414170000 +0000" stop="20260414173000 +0000">
     <title lang="id">HARTA TAHTA CINTA</title>
     <icon src="https://thumbor.prod.vidiocdn.com/NdmzqkxqnWVnlngtk_ObYNT-wiY=/287x162/filters:strip_icc():quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/image/206/moji-a5bd3e.jpg"/>
   </programme>

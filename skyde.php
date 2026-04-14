@@ -2626,13 +2626,13 @@
 <programme start="20260414180000 +0000" stop="20260414185000 +0000" channel="Sky Sport Austria 3 HD.skyde">
     <title>Live Die UEFA CL am Dienstag: Vorbericht</title>
 </programme>
-<programme start="20260414185000 +0000" stop="20260414210000 +0000" channel="Sky Sport Austria 3 HD.skyde">
+<programme start="20260414185000 +0000" stop="20260414220000 +0000" channel="Sky Sport Austria 3 HD.skyde">
     <title>Live UEFA CL: Atletico Madrid - FC Barcelona, Viertelfinale Rückspiel</title>
 </programme>
 <programme start="20260414084000 +0000" stop="20260414090000 +0000" channel="Sky Sport Austria 4 HD.skyde">
-    <title>Es folgt: Live ATP Tour</title>
+    <title>Es folgt: LIVE ATP Tour</title>
 </programme>
-<programme start="20260414090000 +0000" stop="20260414170000 +0000" channel="Sky Sport Austria 4 HD.skyde">
+<programme start="20260414090000 +0000" stop="20260414190000 +0000" channel="Sky Sport Austria 4 HD.skyde">
     <title>Live ATP 500: BMW Open in München, 2. Tag</title>
 </programme>
 <programme start="20260414091000 +0000" stop="20260414093000 +0000" channel="Sky Sport Austria 5 HD.skyde">
@@ -3139,23 +3139,26 @@
 <programme start="20260414210000 +0000" stop="20260414220000 +0000" channel="Sky Sport Premier League HD.skyde">
     <title>PL: Generation xG</title>
 </programme>
-<programme start="20260413233000 +0000" stop="20260414013000 +0000" channel="Sky Sport Tennis HD.skyde">
+<programme start="20260413220000 +0000" stop="20260413234500 +0000" channel="Sky Sport Tennis HD.skyde">
+    <title>ATP 500: Y. Hanfmann (GER) - A. Blockx (BEL), BMW Open in München, 1. Tag</title>
+</programme>
+<programme start="20260413234500 +0000" stop="20260414014000 +0000" channel="Sky Sport Tennis HD.skyde">
     <title>WTA 500: L. Siegemund (GER) - V. Tomova (BUL) Porsche Tennis Grand Prix in Stuttgart, 1. Tag</title>
 </programme>
-<programme start="20260414013000 +0000" stop="20260414040000 +0000" channel="Sky Sport Tennis HD.skyde">
+<programme start="20260414014000 +0000" stop="20260414041000 +0000" channel="Sky Sport Tennis HD.skyde">
     <title>ATP 1000: J. Sinner (ITA) - C. Alcaraz (ESP), Rolex Monte-Carlo Masters in Monte-Carlo, Finale</title>
 </programme>
-<programme start="20260414040000 +0000" stop="20260414043000 +0000" channel="Sky Sport Tennis HD.skyde">
+<programme start="20260414041000 +0000" stop="20260414044000 +0000" channel="Sky Sport Tennis HD.skyde">
     <title>WTA 1000: Review Miami</title>
 </programme>
-<programme start="20260414043000 +0000" stop="20260414063000 +0000" channel="Sky Sport Tennis HD.skyde">
+<programme start="20260414044000 +0000" stop="20260414063500 +0000" channel="Sky Sport Tennis HD.skyde">
     <title>WTA 500: L. Siegemund (GER) - V. Tomova (BUL) Porsche Tennis Grand Prix in Stuttgart, 1. Tag</title>
 </programme>
-<programme start="20260414063000 +0000" stop="20260414070000 +0000" channel="Sky Sport Tennis HD.skyde">
+<programme start="20260414063500 +0000" stop="20260414070500 +0000" channel="Sky Sport Tennis HD.skyde">
     <title>WTA: All Access Magazine Show</title>
 </programme>
-<programme start="20260414070000 +0000" stop="20260414090000 +0000" channel="Sky Sport Tennis HD.skyde">
-    <title>ATP 500: J.-L. Struff (GER) - F. Cerundulo (ARG), BMW Open in München, 1. Tag</title>
+<programme start="20260414070500 +0000" stop="20260414090000 +0000" channel="Sky Sport Tennis HD.skyde">
+    <title>ATP 500: Y. Hanfmann (GER) - A. Blockx (BEL), BMW Open in München, 1. Tag</title>
 </programme>
 <programme start="20260414090000 +0000" stop="20260414170000 +0000" channel="Sky Sport Tennis HD.skyde">
     <title>Live ATP 500: BMW Open in München, 2. Tag</title>
@@ -3166,14 +3169,14 @@
 <programme start="20260414210000 +0000" stop="20260414220000 +0000" channel="Sky Sport Tennis HD.skyde">
     <title>ATP 1000: Review Monte-Carlo</title>
 </programme>
-<programme start="20260413220000 +0000" stop="20260413230000 +0000" channel="Sky Sport Top Event HD.skyde">
+<programme start="20260413220500 +0000" stop="20260413230000 +0000" channel="Sky Sport Top Event HD.skyde">
     <title>ATP 1000: Review Monte-Carlo</title>
 </programme>
 <programme start="20260413230000 +0000" stop="20260414020000 +0000" channel="Sky Sport Top Event HD.skyde">
     <title>Live NHL: Detroit Red Wings @ Tampa Bay Lightning</title>
 </programme>
 <programme start="20260414020000 +0000" stop="20260414040000 +0000" channel="Sky Sport Top Event HD.skyde">
-    <title>ATP 500: J.-L. Struff (GER) - F. Cerundulo (ARG), BMW Open in München, 1. Tag</title>
+    <title>ATP 500: Y. Hanfmann (GER) - A. Blockx (BEL), BMW Open in München, 1. Tag</title>
 </programme>
 <programme start="20260414040000 +0000" stop="20260414050000 +0000" channel="Sky Sport Top Event HD.skyde">
     <title>3. Liga: Alle Spiele, alle Tore, 33. Spieltag komplett</title>
@@ -3182,7 +3185,7 @@
     <title>BL: Glanzparade - Die Show mit Buschmann, Fuss und Wagner</title>
 </programme>
 <programme start="20260414060000 +0000" stop="20260414070000 +0000" channel="Sky Sport Top Event HD.skyde">
-    <title>Fußball: Nachspielzeit - Das Beste vom Fußball-Wochenende</title>
+    <title>3. Liga: Alle Spiele, alle Tore, 33. Spieltag komplett</title>
 </programme>
 <programme start="20260414070000 +0000" stop="20260414073000 +0000" channel="Sky Sport Top Event HD.skyde">
     <title>EFL: Highlights, 43. Spieltag</title>

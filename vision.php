@@ -634,6 +634,9 @@
 <programme start="20260414110000 +0000" stop="20260414130000 +0000" channel="ANTV.vision">
 <title>Membakar Matahari</title>
 </programme>
+<programme start="20260414130000 +0000" stop="20260414143000 +0000" channel="ANTV.vision">
+<title>Bumi Makin Panas</title>
+</programme>
 <programme start="20260414143000 +0000" stop="20260414163000 +0000" channel="ANTV.vision">
 <title>Teenage Mutant Ninja Turtles</title>
 </programme>
@@ -1493,8 +1496,5 @@
 <title>DAAI TV</title>
 </programme>
 <programme start="20260415030000 +0000" stop="20260415060000 +0000" channel="DAAI TV.vision">
-<title>DAAI TV</title>
-</programme>
-<programme start="20260415060000 +0000" stop="20260415090000 +0000" channel="DAAI TV.vision">
 <title>DAAI TV</title>
 </programme>
