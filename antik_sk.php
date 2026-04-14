@@ -4090,14 +4090,17 @@
   <programme start="20260416113000 +0000" stop="20260416120000 +0000" channel="CNN Prima News.webtv.sk">
     <title lang="id">Zprávy PLUS</title>
   </programme>
-  <programme start="20260416120000 +0000" stop="20260416121500 +0000" channel="CNN Prima News.webtv.sk">
+  <programme start="20260416120000 +0000" stop="20260416122500 +0000" channel="CNN Prima News.webtv.sk">
     <title lang="id">Zprávy</title>
   </programme>
-  <programme start="20260416121500 +0000" stop="20260416124000 +0000" channel="CNN Prima News.webtv.sk">
+  <programme start="20260416122500 +0000" stop="20260416124000 +0000" channel="CNN Prima News.webtv.sk">
     <title lang="id">Prima SVĚT</title>
   </programme>
-  <programme start="20260416124000 +0000" stop="20260416130000 +0000" channel="CNN Prima News.webtv.sk">
+  <programme start="20260416124000 +0000" stop="20260416125000 +0000" channel="CNN Prima News.webtv.sk">
     <title lang="id">Prima HISTORIE</title>
+  </programme>
+  <programme start="20260416125000 +0000" stop="20260416130000 +0000" channel="CNN Prima News.webtv.sk">
+    <title lang="id">Prima CUP</title>
   </programme>
   <programme start="20260416130000 +0000" stop="20260416131400 +0000" channel="CNN Prima News.webtv.sk">
     <title lang="id">Zprávy</title>
