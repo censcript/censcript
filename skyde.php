@@ -616,10 +616,10 @@
 <programme start="20260414044000 +0000" stop="20260414045500 +0000" channel="Cartoonito.skyde">
     <title>SuperThings: Rivalen von Kaboom - Kazoom-Power</title>
 </programme>
-<programme start="20260414045500 +0000" stop="20260414050000 +0000" channel="Cartoonito.skyde">
+<programme start="20260414045500 +0000" stop="20260414050500 +0000" channel="Cartoonito.skyde">
     <title>Grizzy und die Lemminge</title>
 </programme>
-<programme start="20260414050000 +0000" stop="20260414051000 +0000" channel="Cartoonito.skyde">
+<programme start="20260414050500 +0000" stop="20260414051000 +0000" channel="Cartoonito.skyde">
     <title>Grizzy und die Lemminge</title>
 </programme>
 <programme start="20260414051000 +0000" stop="20260414052500 +0000" channel="Cartoonito.skyde">
@@ -712,10 +712,10 @@
 <programme start="20260414110500 +0000" stop="20260414112000 +0000" channel="Cartoonito.skyde">
     <title>Mr. Bean - Die Cartoon-Serie</title>
 </programme>
-<programme start="20260414112000 +0000" stop="20260414113000 +0000" channel="Cartoonito.skyde">
+<programme start="20260414112000 +0000" stop="20260414113500 +0000" channel="Cartoonito.skyde">
     <title>Mr. Bean - Die Cartoon-Serie</title>
 </programme>
-<programme start="20260414113000 +0000" stop="20260414115000 +0000" channel="Cartoonito.skyde">
+<programme start="20260414113500 +0000" stop="20260414115000 +0000" channel="Cartoonito.skyde">
     <title>Mr. Bean - Die Cartoon-Serie</title>
 </programme>
 <programme start="20260414115000 +0000" stop="20260414120000 +0000" channel="Cartoonito.skyde">
@@ -769,13 +769,13 @@
 <programme start="20260414153000 +0000" stop="20260414154500 +0000" channel="Cartoonito.skyde">
     <title>Mr. Bean - Die Cartoon-Serie</title>
 </programme>
-<programme start="20260414154500 +0000" stop="20260414155400 +0000" channel="Cartoonito.skyde">
+<programme start="20260414154500 +0000" stop="20260414155500 +0000" channel="Cartoonito.skyde">
     <title>Tom und Jerry Gokko</title>
 </programme>
-<programme start="20260414155400 +0000" stop="20260414155800 +0000" channel="Cartoonito.skyde">
+<programme start="20260414155500 +0000" stop="20260414160000 +0000" channel="Cartoonito.skyde">
     <title>Lamput</title>
 </programme>
-<programme start="20260414155800 +0000" stop="20260414161000 +0000" channel="Cartoonito.skyde">
+<programme start="20260414160000 +0000" stop="20260414161000 +0000" channel="Cartoonito.skyde">
     <title>Lamput</title>
 </programme>
 <programme start="20260414161000 +0000" stop="20260414162000 +0000" channel="Cartoonito.skyde">
@@ -787,10 +787,10 @@
 <programme start="20260414163000 +0000" stop="20260414163500 +0000" channel="Cartoonito.skyde">
     <title>Lamput</title>
 </programme>
-<programme start="20260414163500 +0000" stop="20260414164000 +0000" channel="Cartoonito.skyde">
+<programme start="20260414163500 +0000" stop="20260414164500 +0000" channel="Cartoonito.skyde">
     <title>Lamput</title>
 </programme>
-<programme start="20260414164000 +0000" stop="20260414170000 +0000" channel="Cartoonito.skyde">
+<programme start="20260414164500 +0000" stop="20260414170000 +0000" channel="Cartoonito.skyde">
     <title>SuperThings: Rivalen von Kaboom - Kazoom-Power</title>
 </programme>
 <programme start="20260414170000 +0000" stop="20260414171000 +0000" channel="Cartoonito.skyde">
@@ -811,10 +811,10 @@
 <programme start="20260414182500 +0000" stop="20260414183500 +0000" channel="Cartoonito.skyde">
     <title>Mr. Bean - Die Cartoon-Serie</title>
 </programme>
-<programme start="20260414183500 +0000" stop="20260414185500 +0000" channel="Cartoonito.skyde">
+<programme start="20260414183500 +0000" stop="20260414185000 +0000" channel="Cartoonito.skyde">
     <title>Mr. Bean - Die Cartoon-Serie</title>
 </programme>
-<programme start="20260414185500 +0000" stop="20260414190000 +0000" channel="Cartoonito.skyde">
+<programme start="20260414185000 +0000" stop="20260414190000 +0000" channel="Cartoonito.skyde">
     <title>Grizzy und die Lemminge</title>
 </programme>
 <programme start="20260414190000 +0000" stop="20260414190500 +0000" channel="Cartoonito.skyde">
@@ -823,10 +823,10 @@
 <programme start="20260414190500 +0000" stop="20260414192000 +0000" channel="Cartoonito.skyde">
     <title>Grizzy und die Lemminge</title>
 </programme>
-<programme start="20260414192000 +0000" stop="20260414193000 +0000" channel="Cartoonito.skyde">
+<programme start="20260414192000 +0000" stop="20260414192500 +0000" channel="Cartoonito.skyde">
     <title>Grizzy und die Lemminge</title>
 </programme>
-<programme start="20260414193000 +0000" stop="20260414193500 +0000" channel="Cartoonito.skyde">
+<programme start="20260414192500 +0000" stop="20260414193500 +0000" channel="Cartoonito.skyde">
     <title>Grizzy und die Lemminge</title>
 </programme>
 <programme start="20260414193500 +0000" stop="20260414194000 +0000" channel="Cartoonito.skyde">
@@ -841,19 +841,19 @@
 <programme start="20260414200500 +0000" stop="20260414202000 +0000" channel="Cartoonito.skyde">
     <title>Batwheels</title>
 </programme>
-<programme start="20260414202000 +0000" stop="20260414203500 +0000" channel="Cartoonito.skyde">
+<programme start="20260414202000 +0000" stop="20260414203000 +0000" channel="Cartoonito.skyde">
     <title>Batwheels</title>
 </programme>
-<programme start="20260414203500 +0000" stop="20260414204500 +0000" channel="Cartoonito.skyde">
+<programme start="20260414203000 +0000" stop="20260414204500 +0000" channel="Cartoonito.skyde">
     <title>Batwheels</title>
 </programme>
 <programme start="20260414204500 +0000" stop="20260414205000 +0000" channel="Cartoonito.skyde">
     <title>Hier kommen die Batwheels</title>
 </programme>
-<programme start="20260414205000 +0000" stop="20260414210500 +0000" channel="Cartoonito.skyde">
+<programme start="20260414205000 +0000" stop="20260414210000 +0000" channel="Cartoonito.skyde">
     <title>Bugs Bunnys Baumeister</title>
 </programme>
-<programme start="20260414210500 +0000" stop="20260414212000 +0000" channel="Cartoonito.skyde">
+<programme start="20260414210000 +0000" stop="20260414212000 +0000" channel="Cartoonito.skyde">
     <title>Bugs Bunnys Baumeister</title>
 </programme>
 <programme start="20260414212000 +0000" stop="20260414213000 +0000" channel="Cartoonito.skyde">
@@ -2617,7 +2617,7 @@
 <programme start="20260414180000 +0000" stop="20260414185000 +0000" channel="Sky Sport Austria 2 HD.skyde">
     <title>Live Die UEFA CL am Dienstag: Vorbericht</title>
 </programme>
-<programme start="20260414185000 +0000" stop="20260414220000 +0000" channel="Sky Sport Austria 2 HD.skyde">
+<programme start="20260414185000 +0000" stop="20260414210000 +0000" channel="Sky Sport Austria 2 HD.skyde">
     <title>Live UEFA CL: FC Liverpool - Paris Saint-Germain, Viertelfinale Rückspiel</title>
 </programme>
 <programme start="20260414174000 +0000" stop="20260414180000 +0000" channel="Sky Sport Austria 3 HD.skyde">
@@ -2626,17 +2626,14 @@
 <programme start="20260414180000 +0000" stop="20260414185000 +0000" channel="Sky Sport Austria 3 HD.skyde">
     <title>Live Die UEFA CL am Dienstag: Vorbericht</title>
 </programme>
-<programme start="20260414185000 +0000" stop="20260414210000 +0000" channel="Sky Sport Austria 3 HD.skyde">
+<programme start="20260414185000 +0000" stop="20260414220000 +0000" channel="Sky Sport Austria 3 HD.skyde">
     <title>Live UEFA CL: Atletico Madrid - FC Barcelona, Viertelfinale Rückspiel</title>
 </programme>
 <programme start="20260414084000 +0000" stop="20260414090000 +0000" channel="Sky Sport Austria 4 HD.skyde">
-    <title>Es folgt: LIVE ATP Tour</title>
+    <title>Es folgt: Live ATP Tour</title>
 </programme>
-<programme start="20260414090000 +0000" stop="20260414190000 +0000" channel="Sky Sport Austria 4 HD.skyde">
+<programme start="20260414090000 +0000" stop="20260414170000 +0000" channel="Sky Sport Austria 4 HD.skyde">
     <title>Live ATP 500: BMW Open in München, 2. Tag</title>
-</programme>
-<programme start="20260414091000 +0000" stop="20260414093000 +0000" channel="Sky Sport Austria 5 HD.skyde">
-    <title>Es folgt: Live Tennis WTA Tour</title>
 </programme>
 <programme start="20260414093000 +0000" stop="20260414213000 +0000" channel="Sky Sport Austria 5 HD.skyde">
     <title>Live WTA 250: Open Capfinances Rouen Metropole in Rouen (FRA), 2. Tag</title>
@@ -3139,26 +3136,23 @@
 <programme start="20260414210000 +0000" stop="20260414220000 +0000" channel="Sky Sport Premier League HD.skyde">
     <title>PL: Generation xG</title>
 </programme>
-<programme start="20260413220000 +0000" stop="20260413234500 +0000" channel="Sky Sport Tennis HD.skyde">
-    <title>ATP 500: Y. Hanfmann (GER) - A. Blockx (BEL), BMW Open in München, 1. Tag</title>
-</programme>
-<programme start="20260413234500 +0000" stop="20260414014000 +0000" channel="Sky Sport Tennis HD.skyde">
+<programme start="20260413233000 +0000" stop="20260414013000 +0000" channel="Sky Sport Tennis HD.skyde">
     <title>WTA 500: L. Siegemund (GER) - V. Tomova (BUL) Porsche Tennis Grand Prix in Stuttgart, 1. Tag</title>
 </programme>
-<programme start="20260414014000 +0000" stop="20260414041000 +0000" channel="Sky Sport Tennis HD.skyde">
+<programme start="20260414013000 +0000" stop="20260414040000 +0000" channel="Sky Sport Tennis HD.skyde">
     <title>ATP 1000: J. Sinner (ITA) - C. Alcaraz (ESP), Rolex Monte-Carlo Masters in Monte-Carlo, Finale</title>
 </programme>
-<programme start="20260414041000 +0000" stop="20260414044000 +0000" channel="Sky Sport Tennis HD.skyde">
+<programme start="20260414040000 +0000" stop="20260414043000 +0000" channel="Sky Sport Tennis HD.skyde">
     <title>WTA 1000: Review Miami</title>
 </programme>
-<programme start="20260414044000 +0000" stop="20260414063500 +0000" channel="Sky Sport Tennis HD.skyde">
+<programme start="20260414043000 +0000" stop="20260414063000 +0000" channel="Sky Sport Tennis HD.skyde">
     <title>WTA 500: L. Siegemund (GER) - V. Tomova (BUL) Porsche Tennis Grand Prix in Stuttgart, 1. Tag</title>
 </programme>
-<programme start="20260414063500 +0000" stop="20260414070500 +0000" channel="Sky Sport Tennis HD.skyde">
+<programme start="20260414063000 +0000" stop="20260414070000 +0000" channel="Sky Sport Tennis HD.skyde">
     <title>WTA: All Access Magazine Show</title>
 </programme>
-<programme start="20260414070500 +0000" stop="20260414090000 +0000" channel="Sky Sport Tennis HD.skyde">
-    <title>ATP 500: Y. Hanfmann (GER) - A. Blockx (BEL), BMW Open in München, 1. Tag</title>
+<programme start="20260414070000 +0000" stop="20260414090000 +0000" channel="Sky Sport Tennis HD.skyde">
+    <title>ATP 500: J.-L. Struff (GER) - F. Cerundulo (ARG), BMW Open in München, 1. Tag</title>
 </programme>
 <programme start="20260414090000 +0000" stop="20260414170000 +0000" channel="Sky Sport Tennis HD.skyde">
     <title>Live ATP 500: BMW Open in München, 2. Tag</title>
@@ -3230,21 +3224,15 @@
     <title>Info: UHD</title>
 </programme>
 <programme start="20260414101000 +0000" stop="20260414103000 +0000" channel="Sky Sport 1 HD.skyde">
-    <title>Es folgt: LIVE WTA Tour</title>
+    <title>Es folgt: Live Tennis WTA Tour</title>
 </programme>
-<programme start="20260414103000 +0000" stop="20260414230000 +0000" channel="Sky Sport 1 HD.skyde">
+<programme start="20260414103000 +0000" stop="20260414210000 +0000" channel="Sky Sport 1 HD.skyde">
     <title>Live WTA 500: Porsche Tennis Grand Prix in Stuttgart, 2. Tag</title>
 </programme>
 <programme start="20260414084000 +0000" stop="20260414090000 +0000" channel="Sky Sport 2 HD.skyde">
     <title>Es folgt: Live ATP Tour</title>
 </programme>
-<programme start="20260414090000 +0000" stop="20260414130000 +0000" channel="Sky Sport 2 HD.skyde">
-    <title>Live ATP 500: Barcelona Open BancSabadell in Barcelona (ESP), 2. Tag</title>
-</programme>
-<programme start="20260414130000 +0000" stop="20260414140000 +0000" channel="Sky Sport 2 HD.skyde">
-    <title>Es folgt: Live ATP Tour</title>
-</programme>
-<programme start="20260414140000 +0000" stop="20260414180000 +0000" channel="Sky Sport 2 HD.skyde">
+<programme start="20260414090000 +0000" stop="20260414180000 +0000" channel="Sky Sport 2 HD.skyde">
     <title>Live ATP 500: Barcelona Open BancSabadell in Barcelona (ESP), 2. Tag</title>
 </programme>
 <programme start="20260413221500 +0000" stop="20260413230000 +0000" channel="SYFY HD.skyde">
@@ -3487,10 +3475,10 @@
 <programme start="20260414033000 +0000" stop="20260414035500 +0000" channel="Warner TV Comedy HD.skyde">
     <title>Die Nanny</title>
 </programme>
-<programme start="20260414035500 +0000" stop="20260414042000 +0000" channel="Warner TV Comedy HD.skyde">
+<programme start="20260414035500 +0000" stop="20260414041500 +0000" channel="Warner TV Comedy HD.skyde">
     <title>Friends</title>
 </programme>
-<programme start="20260414042000 +0000" stop="20260414044500 +0000" channel="Warner TV Comedy HD.skyde">
+<programme start="20260414041500 +0000" stop="20260414044500 +0000" channel="Warner TV Comedy HD.skyde">
     <title>Friends</title>
 </programme>
 <programme start="20260414044500 +0000" stop="20260414051000 +0000" channel="Warner TV Comedy HD.skyde">
@@ -3505,49 +3493,49 @@
 <programme start="20260414060000 +0000" stop="20260414062500 +0000" channel="Warner TV Comedy HD.skyde">
     <title>Friends</title>
 </programme>
-<programme start="20260414062500 +0000" stop="20260414065500 +0000" channel="Warner TV Comedy HD.skyde">
+<programme start="20260414062500 +0000" stop="20260414065000 +0000" channel="Warner TV Comedy HD.skyde">
     <title>Die Nanny</title>
 </programme>
-<programme start="20260414065500 +0000" stop="20260414072000 +0000" channel="Warner TV Comedy HD.skyde">
+<programme start="20260414065000 +0000" stop="20260414072000 +0000" channel="Warner TV Comedy HD.skyde">
     <title>Die Nanny</title>
 </programme>
-<programme start="20260414072000 +0000" stop="20260414075000 +0000" channel="Warner TV Comedy HD.skyde">
+<programme start="20260414072000 +0000" stop="20260414074500 +0000" channel="Warner TV Comedy HD.skyde">
     <title>Die Nanny</title>
 </programme>
-<programme start="20260414075000 +0000" stop="20260414081500 +0000" channel="Warner TV Comedy HD.skyde">
+<programme start="20260414074500 +0000" stop="20260414081000 +0000" channel="Warner TV Comedy HD.skyde">
     <title>The Middle</title>
 </programme>
-<programme start="20260414081500 +0000" stop="20260414084000 +0000" channel="Warner TV Comedy HD.skyde">
+<programme start="20260414081000 +0000" stop="20260414083500 +0000" channel="Warner TV Comedy HD.skyde">
     <title>The Middle</title>
 </programme>
-<programme start="20260414084000 +0000" stop="20260414090500 +0000" channel="Warner TV Comedy HD.skyde">
+<programme start="20260414083500 +0000" stop="20260414090000 +0000" channel="Warner TV Comedy HD.skyde">
     <title>The Middle</title>
 </programme>
-<programme start="20260414090500 +0000" stop="20260414093000 +0000" channel="Warner TV Comedy HD.skyde">
+<programme start="20260414090000 +0000" stop="20260414092500 +0000" channel="Warner TV Comedy HD.skyde">
     <title>The Middle</title>
 </programme>
 <programme start="20260414093000 +0000" stop="20260414095500 +0000" channel="Warner TV Comedy HD.skyde">
     <title>The Middle</title>
 </programme>
-<programme start="20260414095500 +0000" stop="20260414102000 +0000" channel="Warner TV Comedy HD.skyde">
+<programme start="20260414095000 +0000" stop="20260414101500 +0000" channel="Warner TV Comedy HD.skyde">
     <title>The Middle</title>
 </programme>
-<programme start="20260414102000 +0000" stop="20260414104500 +0000" channel="Warner TV Comedy HD.skyde">
+<programme start="20260414101500 +0000" stop="20260414104000 +0000" channel="Warner TV Comedy HD.skyde">
     <title>The Middle</title>
 </programme>
-<programme start="20260414104500 +0000" stop="20260414111000 +0000" channel="Warner TV Comedy HD.skyde">
+<programme start="20260414104000 +0000" stop="20260414110500 +0000" channel="Warner TV Comedy HD.skyde">
     <title>The Middle</title>
 </programme>
-<programme start="20260414111000 +0000" stop="20260414113500 +0000" channel="Warner TV Comedy HD.skyde">
+<programme start="20260414110500 +0000" stop="20260414113500 +0000" channel="Warner TV Comedy HD.skyde">
     <title>King of Queens</title>
 </programme>
 <programme start="20260414113500 +0000" stop="20260414120000 +0000" channel="Warner TV Comedy HD.skyde">
     <title>King of Queens</title>
 </programme>
-<programme start="20260414120000 +0000" stop="20260414123000 +0000" channel="Warner TV Comedy HD.skyde">
+<programme start="20260414120000 +0000" stop="20260414122500 +0000" channel="Warner TV Comedy HD.skyde">
     <title>King of Queens</title>
 </programme>
-<programme start="20260414123000 +0000" stop="20260414125500 +0000" channel="Warner TV Comedy HD.skyde">
+<programme start="20260414122500 +0000" stop="20260414125500 +0000" channel="Warner TV Comedy HD.skyde">
     <title>King of Queens</title>
 </programme>
 <programme start="20260414125500 +0000" stop="20260414132000 +0000" channel="Warner TV Comedy HD.skyde">
@@ -3556,16 +3544,16 @@
 <programme start="20260414132000 +0000" stop="20260414134500 +0000" channel="Warner TV Comedy HD.skyde">
     <title>King of Queens</title>
 </programme>
-<programme start="20260414134500 +0000" stop="20260414141500 +0000" channel="Warner TV Comedy HD.skyde">
+<programme start="20260414134500 +0000" stop="20260414141000 +0000" channel="Warner TV Comedy HD.skyde">
     <title>King of Queens</title>
 </programme>
-<programme start="20260414141500 +0000" stop="20260414144000 +0000" channel="Warner TV Comedy HD.skyde">
+<programme start="20260414141000 +0000" stop="20260414143500 +0000" channel="Warner TV Comedy HD.skyde">
     <title>King of Queens</title>
 </programme>
-<programme start="20260414144000 +0000" stop="20260414150500 +0000" channel="Warner TV Comedy HD.skyde">
+<programme start="20260414143500 +0000" stop="20260414150000 +0000" channel="Warner TV Comedy HD.skyde">
     <title>Two and a Half Men</title>
 </programme>
-<programme start="20260414150500 +0000" stop="20260414152500 +0000" channel="Warner TV Comedy HD.skyde">
+<programme start="20260414150000 +0000" stop="20260414152500 +0000" channel="Warner TV Comedy HD.skyde">
     <title>Two and a Half Men</title>
 </programme>
 <programme start="20260414152500 +0000" stop="20260414155000 +0000" channel="Warner TV Comedy HD.skyde">
@@ -3604,19 +3592,19 @@
 <programme start="20260414195000 +0000" stop="20260414201500 +0000" channel="Warner TV Comedy HD.skyde">
     <title>2 Broke Girls</title>
 </programme>
-<programme start="20260414201500 +0000" stop="20260414202500 +0000" channel="Warner TV Comedy HD.skyde">
+<programme start="20260414201500 +0000" stop="20260414203000 +0000" channel="Warner TV Comedy HD.skyde">
     <title>Robot Chicken</title>
 </programme>
-<programme start="20260414202500 +0000" stop="20260414204000 +0000" channel="Warner TV Comedy HD.skyde">
+<programme start="20260414203000 +0000" stop="20260414204500 +0000" channel="Warner TV Comedy HD.skyde">
     <title>Robot Chicken</title>
 </programme>
-<programme start="20260414204000 +0000" stop="20260414205500 +0000" channel="Warner TV Comedy HD.skyde">
+<programme start="20260414204500 +0000" stop="20260414205500 +0000" channel="Warner TV Comedy HD.skyde">
     <title>Robot Chicken</title>
 </programme>
-<programme start="20260414205500 +0000" stop="20260414210500 +0000" channel="Warner TV Comedy HD.skyde">
+<programme start="20260414205500 +0000" stop="20260414211000 +0000" channel="Warner TV Comedy HD.skyde">
     <title>Robot Chicken</title>
 </programme>
-<programme start="20260414210500 +0000" stop="20260414213000 +0000" channel="Warner TV Comedy HD.skyde">
+<programme start="20260414211000 +0000" stop="20260414213000 +0000" channel="Warner TV Comedy HD.skyde">
     <title>American Dad</title>
 </programme>
 <programme start="20260414213000 +0000" stop="20260414215500 +0000" channel="Warner TV Comedy HD.skyde">
@@ -3718,10 +3706,10 @@
 <programme start="20260414030500 +0000" stop="20260414035500 +0000" channel="Warner TV Serie HD.skyde">
     <title>Daktari</title>
 </programme>
-<programme start="20260414035500 +0000" stop="20260414044500 +0000" channel="Warner TV Serie HD.skyde">
+<programme start="20260414035500 +0000" stop="20260414044000 +0000" channel="Warner TV Serie HD.skyde">
     <title>Daktari</title>
 </programme>
-<programme start="20260414044500 +0000" stop="20260414054000 +0000" channel="Warner TV Serie HD.skyde">
+<programme start="20260414044000 +0000" stop="20260414054000 +0000" channel="Warner TV Serie HD.skyde">
     <title>Daktari</title>
 </programme>
 <programme start="20260414054000 +0000" stop="20260414063000 +0000" channel="Warner TV Serie HD.skyde">
@@ -3781,9 +3769,9 @@
 <programme start="20260414194500 +0000" stop="20260414203500 +0000" channel="Warner TV Serie HD.skyde">
     <title>Hudson &amp; Rex</title>
 </programme>
-<programme start="20260414203500 +0000" stop="20260414211500 +0000" channel="Warner TV Serie HD.skyde">
+<programme start="20260414203500 +0000" stop="20260414212000 +0000" channel="Warner TV Serie HD.skyde">
     <title>NCIS: Los Angeles</title>
 </programme>
-<programme start="20260414211500 +0000" stop="20260414220500 +0000" channel="Warner TV Serie HD.skyde">
+<programme start="20260414212000 +0000" stop="20260414220500 +0000" channel="Warner TV Serie HD.skyde">
     <title>NCIS: Los Angeles</title>
 </programme>

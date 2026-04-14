@@ -3806,7 +3806,7 @@
         <title>News &amp; Weather</title>
     </programme>
     <programme start="20260414010500 +0000" stop="20260414015000 +0000" channel="NHK World Premium HD.starhub">
-        <title>Tsurube&#039;s Salute to Families &quot;Shiraishi Sei in Nagoya City, Aichi Prefecture&quot; Pa</title>
+        <title>Tsurube&#039;s Salute to Families &quot;Shiraishi Sei in Nagoya City, Aichi Prefecture&quot; Part 1(R)</title>
     </programme>
     <programme start="20260414015000 +0000" stop="20260414021700 +0000" channel="NHK World Premium HD.starhub">
         <title>Today&#039;s Close-up (R)</title>

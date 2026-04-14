@@ -203,25 +203,16 @@
     <desc lang="id">Sinetron romansa tentang perjalanan Trian (Yesaya Abraham) mencari keadilan dan mengungkap kejahatan pasca Adila, istrinya meninggal dunia, dengan bantuan Rama (Rayn Wijaya) dan Asmara (Angela Gilsha). Tayang setiap hari pukul 20.10 WIB</desc>
     <icon src="https://thumbor.prod.vidiocdn.com/_PMnTnt_YI3XRO3dd0Udc-LMCg4=/287x162/filters:strip_icc():quality(70)/vidio-media-production/uploads/livestreaming/schedule/thumbnail/5013866/d88c7a.jpg"/>
   </programme>
-  <programme channel="204" start="20260414140000 +0000" stop="20260414170300 +0000">
-    <title lang="id">The Icon Indonesia</title>
-    <desc lang="id">Program pencarian bakat menyanyi pop terbaru yang menyaring talenta muda berbakat melalui audisi langsung dan daring, yang dinilai oleh juri papan atas seperti Ahmad Dhani, Titi DJ, Isyana Sarasvati, Afgan, Andien, Ardhito Pramono, Adrian Khalif, dan Uan Kaisar.</desc>
-    <icon src="https://thumbor.prod.vidiocdn.com/P-ImVMGM3p3R_SrVDnzTqYuY7KU=/287x162/filters:strip_icc():quality(70)/vidio-media-production/uploads/livestreaming/schedule/thumbnail/5014330/33699c.jpg"/>
-  </programme>
-  <programme channel="204" start="20260414140000 +0000" stop="20260414170300 +0000">
-    <title lang="id">The Icon Indonesia</title>
-    <desc lang="id">Program pencarian bakat menyanyi pop terbaru yang menyaring talenta muda berbakat melalui audisi langsung dan daring, yang dinilai oleh juri papan atas seperti Ahmad Dhani, Titi DJ, Isyana Sarasvati, Afgan, Andien, Ardhito Pramono, Adrian Khalif, dan Uan Kaisar.</desc>
-    <icon src="https://thumbor.prod.vidiocdn.com/P-ImVMGM3p3R_SrVDnzTqYuY7KU=/287x162/filters:strip_icc():quality(70)/vidio-media-production/uploads/livestreaming/schedule/thumbnail/5014330/33699c.jpg"/>
-  </programme>
-  <programme channel="204" start="20260414170300 +0000" stop="20260414190000 +0000">
-    <title lang="id">SCTV Program</title>
+  <programme channel="204" start="20260414170100 +0000" stop="20260414182100 +0000">
+    <title lang="id">FTV Utama: Cinta Bersemi Di Boutique No.23</title>
+    <desc lang="id">Film televisi yang mengangkat kisah romantisme kehidupan dengan konflik yang menarik. Tayang setiap hari.</desc>
     <icon src="https://thumbor.prod.vidiocdn.com/N99E8BD1OJ5vvymwPBj0c-BU5J4=/287x162/filters:strip_icc():quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/image/204/sctv-5ef966.jpg"/>
   </programme>
-  <programme channel="204" start="20260414190000 +0000" stop="20260414210000 +0000">
+  <programme channel="204" start="20260414182100 +0000" stop="20260414210600 +0000">
     <title lang="id">Liverpool Vs Psg - Uefa Champions League Quarter Final - Live</title>
     <icon src="https://thumbor.prod.vidiocdn.com/N99E8BD1OJ5vvymwPBj0c-BU5J4=/287x162/filters:strip_icc():quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/image/204/sctv-5ef966.jpg"/>
   </programme>
-  <programme channel="204" start="20260414210000 +0000" stop="20260414213000 +0000">
+  <programme channel="204" start="20260414210600 +0000" stop="20260414213000 +0000">
     <title lang="id">Barakallah</title>
     <desc lang="id">Ceramah islami penuh makna. Tayang setiap selasa - minggu, mulai pukul 04.00 WIB</desc>
     <icon src="https://thumbor.prod.vidiocdn.com/N99E8BD1OJ5vvymwPBj0c-BU5J4=/287x162/filters:strip_icc():quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/image/204/sctv-5ef966.jpg"/>
@@ -246,31 +237,31 @@
   <programme channel="204" start="20260415010000 +0000" stop="20260415030000 +0000">
     <title lang="id">FTV Pagi Spesial: Menggandakan Cinta Kamu Gak Bahaya Tah</title>
     <desc lang="id">Film televisi yang mengangkat kisah romantisme kehidupan dengan konflik yang menarik. Tayang setiap hari.</desc>
-    <icon src="https://thumbor.prod.vidiocdn.com/JXVb5KzZ2lV8APEbZk0gjLcB6xU=/287x162/filters:strip_icc():quality(70)/vidio-media-production/uploads/livestreaming/schedule/thumbnail/5013890/6be776.jpg"/>
+    <icon src="https://thumbor.prod.vidiocdn.com/7J8ChbnPBt4x6azi9SukegkB99c=/287x162/filters:strip_icc():quality(70)/vidio-media-production/uploads/livestreaming/schedule/thumbnail/5015468/6fb80d.jpg"/>
   </programme>
   <programme channel="204" start="20260415030000 +0000" stop="20260415050000 +0000">
     <title lang="id">FTV Pagi: Gara Gara Gecko No Jomblo Jomblo</title>
     <desc lang="id">Film televisi yang mengangkat kisah romantisme kehidupan dengan konflik yang menarik. Tayang setiap hari.</desc>
-    <icon src="https://thumbor.prod.vidiocdn.com/amEV5kB2ods9rk8LOA8SbUnWQgY=/287x162/filters:strip_icc():quality(70)/vidio-media-production/uploads/livestreaming/schedule/thumbnail/5013891/fc5551.jpg"/>
+    <icon src="https://thumbor.prod.vidiocdn.com/aMMnFGOJwAPMuM6b-bnOB23oocY=/287x162/filters:strip_icc():quality(70)/vidio-media-production/uploads/livestreaming/schedule/thumbnail/5015469/e2121a.jpg"/>
   </programme>
   <programme channel="204" start="20260415050000 +0000" stop="20260415053000 +0000">
     <title lang="id">Liputan 6 Siang - Live</title>
     <icon src="https://thumbor.prod.vidiocdn.com/wmky8QV89aX1NaxM9UFvruuFqRs=/287x162/filters:strip_icc():quality(70)/vidio-media-production/uploads/livestreaming/schedule/thumbnail/5014074/aaae1f.jpg"/>
   </programme>
   <programme channel="204" start="20260415053000 +0000" stop="20260415071500 +0000">
-    <title lang="id">Arafta : Terbelenggu Takdir</title>
-    <desc lang="id">Sebuah serial televisi Turki. Cerita berfokus pada kisah Mercan, seorang wanita yang terjebak antara bertahan hidup dan pengorbanan, dan Ates, seorang pria kaya yang dihantui oleh rahasia dari masa lalunya. Serial ini mengeksplorasi garis tipis antara cinta dan balas dendam. Disutradarai oleh Oguzhan Denizhan dan Erdal Sari serta dibintangi oleh Ilsu Demirci, Emin Gunenc, dan Pervin Mert.</desc>
-    <icon src="https://thumbor.prod.vidiocdn.com/5w3Qoay1XJPxeVbrAXAE12laKj8=/287x162/filters:strip_icc():quality(70)/vidio-media-production/uploads/livestreaming/schedule/thumbnail/5014075/79946f.jpg"/>
+    <title lang="id">FTV Siang</title>
+    <desc lang="id">Film televisi yang mengangkat kisah romantisme kehidupan dengan konflik yang menarik. Tayang setiap hari.</desc>
+    <icon src="https://thumbor.prod.vidiocdn.com/-1ap-WTf3QR5P2yFbsiI87sUfwc=/287x162/filters:strip_icc():quality(70)/vidio-media-production/uploads/livestreaming/schedule/thumbnail/5015470/e47f96.jpg"/>
   </programme>
   <programme channel="204" start="20260415071500 +0000" stop="20260415084500 +0000">
     <title lang="id">FTV Siang: Abang Lemper Damagenya Boleh Juga</title>
     <desc lang="id">Film televisi yang mengangkat kisah romantisme kehidupan dengan konflik yang menarik. Tayang setiap hari.</desc>
-    <icon src="https://thumbor.prod.vidiocdn.com/U8jDiO_28ukof5jIB7r_piQgGzA=/287x162/filters:strip_icc():quality(70)/vidio-media-production/uploads/livestreaming/schedule/thumbnail/5013892/332eb0.jpg"/>
+    <icon src="https://thumbor.prod.vidiocdn.com/R2FU2YrR2LdvHWrSqY2hOpL2EN8=/287x162/filters:strip_icc():quality(70)/vidio-media-production/uploads/livestreaming/schedule/thumbnail/5015473/090a2f.jpg"/>
   </programme>
   <programme channel="204" start="20260415084500 +0000" stop="20260415100000 +0000">
     <title lang="id">FTV Sore: Salfok Sama Neng Domba Satu Ini</title>
     <desc lang="id">Film televisi yang mengangkat kisah romantisme kehidupan dengan konflik yang menarik. Tayang setiap hari.</desc>
-    <icon src="https://thumbor.prod.vidiocdn.com/EqJJOvsMk6XiaQIqSmULaD5vhms=/287x162/filters:strip_icc():quality(70)/vidio-media-production/uploads/livestreaming/schedule/thumbnail/5013893/880918.jpg"/>
+    <icon src="https://thumbor.prod.vidiocdn.com/CxQ_xdA1SOVjSTg7yM29d757Sag=/287x162/filters:strip_icc():quality(70)/vidio-media-production/uploads/livestreaming/schedule/thumbnail/5015474/aab3de.jpg"/>
   </programme>
   <programme channel="204" start="20260415100000 +0000" stop="20260415111500 +0000">
     <title lang="id">Asmara Gen Z</title>
@@ -293,26 +284,28 @@
     <icon src="https://thumbor.prod.vidiocdn.com/Z-MQTbsart5nmR5d_s2QqL1vk8w=/287x162/filters:strip_icc():quality(70)/vidio-media-production/uploads/livestreaming/schedule/thumbnail/5013894/5f6fdd.jpg"/>
   </programme>
   <programme channel="204" start="20260415160000 +0000" stop="20260415173000 +0000">
-    <title lang="id">Ftv Primetime Pas Lagi Sayang Sayangnya Malah Ditinggalin</title>
+    <title lang="id">FTV Primetime: Pas Lagi Sayang Sayangnya Malah Ditinggalin</title>
     <desc lang="id">Film televisi yang mengangkat kisah romantisme kehidupan dengan konflik yang menarik. Tayang setiap hari.</desc>
     <icon src="https://thumbor.prod.vidiocdn.com/N99E8BD1OJ5vvymwPBj0c-BU5J4=/287x162/filters:strip_icc():quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/image/204/sctv-5ef966.jpg"/>
   </programme>
   <programme channel="204" start="20260415160000 +0000" stop="20260415173000 +0000">
-    <title lang="id">Ftv Primetime Pas Lagi Sayang Sayangnya Malah Ditinggalin</title>
+    <title lang="id">FTV Primetime: Pas Lagi Sayang Sayangnya Malah Ditinggalin</title>
     <desc lang="id">Film televisi yang mengangkat kisah romantisme kehidupan dengan konflik yang menarik. Tayang setiap hari.</desc>
     <icon src="https://thumbor.prod.vidiocdn.com/N99E8BD1OJ5vvymwPBj0c-BU5J4=/287x162/filters:strip_icc():quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/image/204/sctv-5ef966.jpg"/>
   </programme>
   <programme channel="204" start="20260415173000 +0000" stop="20260415184500 +0000">
-    <title lang="id">Ftv Utama Let'S Get Merit</title>
+    <title lang="id">FTV Utama: Let'S Get Merit</title>
     <desc lang="id">Film televisi yang mengangkat kisah romantisme kehidupan dengan konflik yang menarik. Tayang setiap hari.</desc>
     <icon src="https://thumbor.prod.vidiocdn.com/N99E8BD1OJ5vvymwPBj0c-BU5J4=/287x162/filters:strip_icc():quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/image/204/sctv-5ef966.jpg"/>
   </programme>
   <programme channel="204" start="20260415184500 +0000" stop="20260415200000 +0000">
-    <title lang="id">Sinema Malam</title>
+    <title lang="id">Sinema Malam Bodyguard Cantik Pacarku</title>
+    <desc lang="id">Film televisi yang mengangkat kisah romantisme kehidupan dengan konflik yang menarik. Tayang setiap hari.</desc>
     <icon src="https://thumbor.prod.vidiocdn.com/N99E8BD1OJ5vvymwPBj0c-BU5J4=/287x162/filters:strip_icc():quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/image/204/sctv-5ef966.jpg"/>
   </programme>
   <programme channel="204" start="20260415200000 +0000" stop="20260415210000 +0000">
-    <title lang="id">Sinema Dini Hari</title>
+    <title lang="id">Sinema Dini Hari Cinta Bawa Rejeki</title>
+    <desc lang="id">Film televisi yang mengangkat kisah romantisme kehidupan dengan konflik yang menarik. Tayang setiap hari.</desc>
     <icon src="https://thumbor.prod.vidiocdn.com/N99E8BD1OJ5vvymwPBj0c-BU5J4=/287x162/filters:strip_icc():quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/image/204/sctv-5ef966.jpg"/>
   </programme>
   <programme channel="204" start="20260415210000 +0000" stop="20260415213000 +0000">
@@ -352,8 +345,8 @@
     <icon src="https://thumbor.prod.vidiocdn.com/N99E8BD1OJ5vvymwPBj0c-BU5J4=/287x162/filters:strip_icc():quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/image/204/sctv-5ef966.jpg"/>
   </programme>
   <programme channel="204" start="20260416053000 +0000" stop="20260416071500 +0000">
-    <title lang="id">Arafta : Terbelenggu Takdir 00</title>
-    <desc lang="id">Sebuah serial televisi Turki. Cerita berfokus pada kisah Mercan, seorang wanita yang terjebak antara bertahan hidup dan pengorbanan, dan Ates, seorang pria kaya yang dihantui oleh rahasia dari masa lalunya. Serial ini mengeksplorasi garis tipis antara cinta dan balas dendam. Disutradarai oleh Oguzhan Denizhan dan Erdal Sari serta dibintangi oleh Ilsu Demirci, Emin Gunenc, dan Pervin Mert.</desc>
+    <title lang="id">Ftv Siang</title>
+    <desc lang="id">Film televisi yang mengangkat kisah romantisme kehidupan dengan konflik yang menarik. Tayang setiap hari.</desc>
     <icon src="https://thumbor.prod.vidiocdn.com/N99E8BD1OJ5vvymwPBj0c-BU5J4=/287x162/filters:strip_icc():quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/image/204/sctv-5ef966.jpg"/>
   </programme>
   <programme channel="204" start="20260416071500 +0000" stop="20260416084500 +0000">
@@ -442,8 +435,8 @@
     <icon src="https://thumbor.prod.vidiocdn.com/N99E8BD1OJ5vvymwPBj0c-BU5J4=/287x162/filters:strip_icc():quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/image/204/sctv-5ef966.jpg"/>
   </programme>
   <programme channel="204" start="20260417053000 +0000" stop="20260417071500 +0000">
-    <title lang="id">Arafta : Terbelenggu Takdir</title>
-    <desc lang="id">Sebuah serial televisi Turki. Cerita berfokus pada kisah Mercan, seorang wanita yang terjebak antara bertahan hidup dan pengorbanan, dan Ates, seorang pria kaya yang dihantui oleh rahasia dari masa lalunya. Serial ini mengeksplorasi garis tipis antara cinta dan balas dendam. Disutradarai oleh Oguzhan Denizhan dan Erdal Sari serta dibintangi oleh Ilsu Demirci, Emin Gunenc, dan Pervin Mert.</desc>
+    <title lang="id">Ftv Siang</title>
+    <desc lang="id">Film televisi yang mengangkat kisah romantisme kehidupan dengan konflik yang menarik. Tayang setiap hari.</desc>
     <icon src="https://thumbor.prod.vidiocdn.com/N99E8BD1OJ5vvymwPBj0c-BU5J4=/287x162/filters:strip_icc():quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/image/204/sctv-5ef966.jpg"/>
   </programme>
   <programme channel="204" start="20260417071500 +0000" stop="20260417084500 +0000">
@@ -643,7 +636,7 @@
     <icon src="https://thumbor.prod.vidiocdn.com/N99E8BD1OJ5vvymwPBj0c-BU5J4=/287x162/filters:strip_icc():quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/image/204/sctv-5ef966.jpg"/>
   </programme>
   <programme channel="204" start="20260419073000 +0000" stop="20260419100000 +0000">
-    <title lang="id">Beri Cinta Waktu Love Fest</title>
+    <title lang="id">Beri Cinta Waktu Love Fest - Live</title>
     <icon src="https://thumbor.prod.vidiocdn.com/N99E8BD1OJ5vvymwPBj0c-BU5J4=/287x162/filters:strip_icc():quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/image/204/sctv-5ef966.jpg"/>
   </programme>
   <programme channel="204" start="20260419100000 +0000" stop="20260419111500 +0000">
@@ -656,28 +649,28 @@
     <desc lang="id">Sinetron romansa tentang kisah Khansa (Yasmin Napper), perempuan lembut yang dipenjara 5 tahun karena fitnah Monika (Anjani Dina) untuk menutupi kecelakaan yang menabrak Aryani. Setelah bebas, Khansa berjuang mempertahankan iman dan kejujurannya di tengah teror, pengkhianatan, dan konflik cinta dengan Fathan (Arbani Yasiz) dan Emran (Cakrawala Airawan). Tayang setiap hari pukul 18.25 WIB</desc>
     <icon src="https://thumbor.prod.vidiocdn.com/qhZpHEqYoWbfBrJa0aLRcUb0G7I=/287x162/filters:strip_icc():quality(70)/vidio-media-production/uploads/tv_program/thumbnail/401147/50494f.jpg"/>
   </programme>
-  <programme channel="204" start="20260419130000 +0000" stop="20260419143000 +0000">
+  <programme channel="204" start="20260419130000 +0000" stop="20260419140000 +0000">
     <title lang="id">Beri Cinta Waktu</title>
     <desc lang="id">Sinetron romansa tentang perjalanan Trian (Yesaya Abraham) mencari keadilan dan mengungkap kejahatan pasca Adila, istrinya meninggal dunia, dengan bantuan Rama (Rayn Wijaya) dan Asmara (Angela Gilsha). Tayang setiap hari pukul 20.10 WIB</desc>
     <icon src="https://thumbor.prod.vidiocdn.com/ho2PtWvpg-rvR-RgqS1-Xs_7xWA=/287x162/filters:strip_icc():quality(70)/vidio-media-production/uploads/tv_program/thumbnail/393465/43cc4c.jpg"/>
   </programme>
-  <programme channel="204" start="20260419143000 +0000" stop="20260419160000 +0000">
+  <programme channel="204" start="20260419140000 +0000" stop="20260419150000 +0000">
     <title lang="id">Jejak Duka Diandra</title>
     <desc lang="id">Kisah cinta Diandra (Michelle Ziudith) dan Dimitri (Rio Dewanto) yang semula indah seketika berubah drastis setelah Yunita (Baiti Syaghaf), saudara tiri Diandra mengaku mencintai Dimitri. Dimitri terjebak dalam situasi sulit akibat ulah sang adik, Jupiter (Bizael) yang menuduh Dimitri melecehkan Yunita. Hubungan Dimitri dengan Diandra pun semakin merenggang. Tuduhan lainnya juga harus diterima Dimitri sebagai penyebab insiden kecelakaan seorang wanita. Posisi Dimitri semakin terpojok setelah Diandra yang diminta sebagai saksi justru tidak berpihak kepadanya hingga Dimitri mendapat sanksi mendekam di balik jeruji besi selama lima tahun. Lima tahun berlalu, Dimitri hidup bebas dan melanjutkan usaha sang ayah. Ia pun membuka kisah cinta baru dengan Melissa (Tasya Panggabean). Takdir pun berkata lain, pertemuan Dimitri dan Diandra kembali terjadi. Tayang setiap hari pukul 21.30 WIB</desc>
     <icon src="https://thumbor.prod.vidiocdn.com/oMFhUagHdo4551UBuIvUsG9_qZA=/287x162/filters:strip_icc():quality(70)/vidio-media-production/uploads/tv_program/thumbnail/399305/1d17bf.jpg"/>
   </programme>
-  <programme channel="204" start="20260419160000 +0000" stop="20260419173000 +0000">
-    <title lang="id">Ftv Primetime Cinta Obat Patah Hati</title>
+  <programme channel="204" start="20260419150000 +0000" stop="20260419173000 +0000">
+    <title lang="id">Man City Vs Arsenal - Liga Inggris - Live</title>
     <desc lang="id">Film televisi yang mengangkat kisah romantisme kehidupan dengan konflik yang menarik. Tayang setiap hari.</desc>
     <icon src="https://thumbor.prod.vidiocdn.com/N99E8BD1OJ5vvymwPBj0c-BU5J4=/287x162/filters:strip_icc():quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/image/204/sctv-5ef966.jpg"/>
   </programme>
-  <programme channel="204" start="20260419160000 +0000" stop="20260419173000 +0000">
-    <title lang="id">Ftv Primetime Cinta Obat Patah Hati</title>
+  <programme channel="204" start="20260419150000 +0000" stop="20260419173000 +0000">
+    <title lang="id">Man City Vs Arsenal - Liga Inggris - Live</title>
     <desc lang="id">Film televisi yang mengangkat kisah romantisme kehidupan dengan konflik yang menarik. Tayang setiap hari.</desc>
     <icon src="https://thumbor.prod.vidiocdn.com/N99E8BD1OJ5vvymwPBj0c-BU5J4=/287x162/filters:strip_icc():quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/image/204/sctv-5ef966.jpg"/>
   </programme>
   <programme channel="204" start="20260419173000 +0000" stop="20260419190000 +0000">
-    <title lang="id">Ftv Utama Ukang Kebun Super Model</title>
+    <title lang="id">Ftv Utama Tukang Kebun Super Model</title>
     <desc lang="id">Film televisi yang mengangkat kisah romantisme kehidupan dengan konflik yang menarik. Tayang setiap hari.</desc>
     <icon src="https://thumbor.prod.vidiocdn.com/N99E8BD1OJ5vvymwPBj0c-BU5J4=/287x162/filters:strip_icc():quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/image/204/sctv-5ef966.jpg"/>
   </programme>
@@ -976,15 +969,15 @@
     <desc lang="id">FTV Yang Diambil Dari Kisah Kehidupan Sehari-Hari Pemirsa Yang Penuh Intrik, Konflik dan Pengkhianatan Untuk Memberikan Berbagai Pelajaran Hidup. Saksikan Setiap Hari Pukul 13.30 WIB, Hanya Di Indosiar.</desc>
     <icon src="https://thumbor.prod.vidiocdn.com/cBZL7ITaJCof6cqtayFee2uJCX8=/287x162/filters:strip_icc():quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/image/205/indosiar-d9a3d0.jpg"/>
   </programme>
-  <programme channel="205" start="20260417063000 +0000" stop="20260417080000 +0000">
+  <programme channel="205" start="20260417063000 +0000" stop="20260417083000 +0000">
     <title lang="id">Kisah Nyata : Ambisi Istriku Di Luar Nalar</title>
     <desc lang="id">FTV Yang Diambil Dari Kisah Kehidupan Sehari-Hari Pemirsa Yang Penuh Intrik, Konflik dan Pengkhianatan Untuk Memberikan Berbagai Pelajaran Hidup.</desc>
     <icon src="https://thumbor.prod.vidiocdn.com/cBZL7ITaJCof6cqtayFee2uJCX8=/287x162/filters:strip_icc():quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/image/205/indosiar-d9a3d0.jpg"/>
   </programme>
-  <programme channel="205" start="20260417080000 +0000" stop="20260417103000 +0000">
-    <title lang="id">BRI Superleague 2025/26 - Bhayangkara Presisi Lampung Fc Vs Psim Yogyakarta</title>
-    <desc lang="id">Saksikan! BRI Super League 2025/26 - Is Back!" 18 Klub Terbaik Siap Bertarung Di Kasta Tertinggi Sepak Bola Indonesia! Pertandingan Semakin Seru! Jangan Lewatkan BRI Super League 2025/26 Mulai 8 Agustus 2025, Pkl 15.00 &amp; 18.30 WIB, Live &amp; Eksklusif Hanya Di Indosiar dan Vidio #Indosiarrumahsepakbolaindonesia</desc>
-    <icon src="https://thumbor.prod.vidiocdn.com/cBZL7ITaJCof6cqtayFee2uJCX8=/287x162/filters:strip_icc():quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/image/205/indosiar-d9a3d0.jpg"/>
+  <programme channel="205" start="20260417083000 +0000" stop="20260417103000 +0000">
+    <title lang="id">Bhayangkara Presisi Lampung FC vs PSIM Jogja - BRI Super League</title>
+    <desc lang="id">Nonton streaming pertandingan seru Bhayangkara Presisi Lampung FC vs PSIM Jogja - BRI Super League. Saksikan aksi-aksi terbaik dari tim yang bersaing ketat untuk meraih kemenangan. Dapatkan informasi lengkap mengenai jadwal pertandingan dan hasil pertandingan terbaru hanya di Vidio.</desc>
+    <icon src="https://thumbor.prod.vidiocdn.com/GodseRCBcV4HofR7Y-T3rIyVOV4=/287x162/filters:strip_icc():quality(70)/vidio-media-production/uploads/livestreaming/schedule/thumbnail/5015485/77705d.jpg"/>
   </programme>
   <programme channel="205" start="20260417103000 +0000" stop="20260417113000 +0000">
     <title lang="id">Merangkai Kisah Indah</title>
@@ -7203,9 +7196,9 @@
     <icon src="https://thumbor.prod.vidiocdn.com/5boLxn-uTSM7dpKuEj3K8oHytEo=/287x162/filters:strip_icc():quality(70)/vidio-media-production/uploads/livestreaming/schedule/thumbnail/5014321/ea70e1.jpg"/>
   </programme>
   <programme channel="6299" start="20260416185500 +0000" stop="20260416210000 +0000">
-    <title lang="id">Aston Villa vs Bologna - QF, 2nd Leg : UEFA Europa League 2025/26</title>
-    <desc lang="id">Aston Villa vs Bologna - QF, 2nd Leg</desc>
-    <icon src="https://thumbor.prod.vidiocdn.com/5yUHYfv_b1sZi7kdFElm8JqF2RY=/287x162/filters:strip_icc():quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/image/6299/bein-1-4bd997.jpg"/>
+    <title lang="id">Aston Villa vs Bologna - UEFA Europa League</title>
+    <desc lang="id">Nonton streaming pertandingan seru Aston Villa vs Bologna - UEFA Europa League. Saksikan aksi-aksi terbaik dari tim yang bersaing ketat untuk meraih kemenangan. Dapatkan informasi lengkap mengenai jadwal pertandingan dan hasil pertandingan terbaru hanya di Vidio.</desc>
+    <icon src="https://thumbor.prod.vidiocdn.com/vPMkIL98juItbd6YEsXhJmqgyac=/287x162/filters:strip_icc():quality(70)/vidio-media-production/uploads/livestreaming/schedule/thumbnail/5015443/55abb1.jpg"/>
   </programme>
   <programme channel="6299" start="20260416210000 +0000" stop="20260416213000 +0000">
     <title lang="id">Real Madrid vs Girona : Mini Match - LaLiga 2025/26</title>
@@ -7448,14 +7441,14 @@
     <icon src="https://thumbor.prod.vidiocdn.com/5yUHYfv_b1sZi7kdFElm8JqF2RY=/287x162/filters:strip_icc():quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/image/6299/bein-1-4bd997.jpg"/>
   </programme>
   <programme channel="6299" start="20260418165500 +0000" stop="20260418190000 +0000">
-    <title lang="id">Genclerbirligi vs Galatasaray : Super Lig 2025/26</title>
-    <desc lang="id">Genclerbirligi vs Galatasaray</desc>
-    <icon src="https://thumbor.prod.vidiocdn.com/5yUHYfv_b1sZi7kdFElm8JqF2RY=/287x162/filters:strip_icc():quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/image/6299/bein-1-4bd997.jpg"/>
+    <title lang="id">Genclerbirligi vs Galatasaray - Trendyol Super Lig</title>
+    <desc lang="id">Nonton streaming pertandingan seru Genclerbirligi vs Galatasaray - Trendyol Super Lig. Saksikan aksi-aksi terbaik dari tim yang bersaing ketat untuk meraih kemenangan. Dapatkan informasi lengkap mengenai jadwal pertandingan dan hasil pertandingan terbaru hanya di Vidio.</desc>
+    <icon src="https://thumbor.prod.vidiocdn.com/K_2fp3VHGhsMH_qPHO8aXeTG6m8=/287x162/filters:strip_icc():quality(70)/vidio-media-production/uploads/livestreaming/schedule/thumbnail/5015444/954216.jpg"/>
   </programme>
   <programme channel="6299" start="20260418165500 +0000" stop="20260418190000 +0000">
-    <title lang="id">Genclerbirligi vs Galatasaray : Super Lig 2025/26</title>
-    <desc lang="id">Genclerbirligi vs Galatasaray</desc>
-    <icon src="https://thumbor.prod.vidiocdn.com/5yUHYfv_b1sZi7kdFElm8JqF2RY=/287x162/filters:strip_icc():quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/image/6299/bein-1-4bd997.jpg"/>
+    <title lang="id">Genclerbirligi vs Galatasaray - Trendyol Super Lig</title>
+    <desc lang="id">Nonton streaming pertandingan seru Genclerbirligi vs Galatasaray - Trendyol Super Lig. Saksikan aksi-aksi terbaik dari tim yang bersaing ketat untuk meraih kemenangan. Dapatkan informasi lengkap mengenai jadwal pertandingan dan hasil pertandingan terbaru hanya di Vidio.</desc>
+    <icon src="https://thumbor.prod.vidiocdn.com/K_2fp3VHGhsMH_qPHO8aXeTG6m8=/287x162/filters:strip_icc():quality(70)/vidio-media-production/uploads/livestreaming/schedule/thumbnail/5015444/954216.jpg"/>
   </programme>
   <programme channel="6299" start="20260418190000 +0000" stop="20260418205000 +0000">
     <title lang="id">PSG vs HJK Helsinki - R16 : UEFA Youth League 2025/26</title>
@@ -8889,34 +8882,20 @@
     <desc lang="id">Inside Round 33</desc>
     <icon src="https://thumbor.prod.vidiocdn.com/edoqRinFCRhrRwQ2ngcXacb_q74=/287x162/filters:strip_icc():quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/image/6685/champions-tv-1-54e282.jpg"/>
   </programme>
-  <programme channel="6685" start="20260417150000 +0000" stop="20260417163000 +0000">
-    <title lang="id">Match 16 - Quarterfinal : WTA 500 Porsche Tennis Grand Prix - Stuttgart</title>
-    <desc lang="id">Match 16 Quarterfinal</desc>
-    <icon src="https://thumbor.prod.vidiocdn.com/edoqRinFCRhrRwQ2ngcXacb_q74=/287x162/filters:strip_icc():quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/image/6685/champions-tv-1-54e282.jpg"/>
+  <programme channel="6685" start="20260417150000 +0000" stop="20260417190000 +0000">
+    <title lang="id">Quarterfinals - WTA 500: Porsche Tennis Grand Prix 2026</title>
+    <desc lang="id">Nonton streaming pertandingan seru Quarterfinals - WTA 500: Porsche Tennis Grand Prix 2026. Saksikan aksi-aksi terbaik dari tim yang bersaing ketat untuk meraih kemenangan. Dapatkan informasi lengkap mengenai jadwal pertandingan dan hasil pertandingan terbaru hanya di Vidio.</desc>
+    <icon src="https://thumbor.prod.vidiocdn.com/4M8BcB3UQ26mqxWzVnQX_Sl47C8=/287x162/filters:strip_icc():quality(70)/vidio-media-production/uploads/livestreaming/schedule/thumbnail/5015482/b4e98d.jpg"/>
   </programme>
-  <programme channel="6685" start="20260417163000 +0000" stop="20260417170000 +0000">
-    <title lang="id">Match 17 - Quarterfinal : WTA 500 Porsche Tennis Grand Prix - Stuttgart</title>
-    <desc lang="id">Match 17 Quarterfinal</desc>
-    <icon src="https://thumbor.prod.vidiocdn.com/edoqRinFCRhrRwQ2ngcXacb_q74=/287x162/filters:strip_icc():quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/image/6685/champions-tv-1-54e282.jpg"/>
+  <programme channel="6685" start="20260417150000 +0000" stop="20260417190000 +0000">
+    <title lang="id">Quarterfinals - WTA 500: Porsche Tennis Grand Prix 2026</title>
+    <desc lang="id">Nonton streaming pertandingan seru Quarterfinals - WTA 500: Porsche Tennis Grand Prix 2026. Saksikan aksi-aksi terbaik dari tim yang bersaing ketat untuk meraih kemenangan. Dapatkan informasi lengkap mengenai jadwal pertandingan dan hasil pertandingan terbaru hanya di Vidio.</desc>
+    <icon src="https://thumbor.prod.vidiocdn.com/4M8BcB3UQ26mqxWzVnQX_Sl47C8=/287x162/filters:strip_icc():quality(70)/vidio-media-production/uploads/livestreaming/schedule/thumbnail/5015482/b4e98d.jpg"/>
   </programme>
-  <programme channel="6685" start="20260417163000 +0000" stop="20260417170000 +0000">
-    <title lang="id">Match 17 - Quarterfinal : WTA 500 Porsche Tennis Grand Prix - Stuttgart</title>
-    <desc lang="id">Match 17 Quarterfinal</desc>
-    <icon src="https://thumbor.prod.vidiocdn.com/edoqRinFCRhrRwQ2ngcXacb_q74=/287x162/filters:strip_icc():quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/image/6685/champions-tv-1-54e282.jpg"/>
-  </programme>
-  <programme channel="6685" start="20260417170000 +0000" stop="20260417183000 +0000">
-    <title lang="id">Match 17 - Quarterfinal : WTA 500 Porsche Tennis Grand Prix - Stuttgart</title>
-    <desc lang="id">Match 17 Quarterfinal</desc>
-    <icon src="https://thumbor.prod.vidiocdn.com/edoqRinFCRhrRwQ2ngcXacb_q74=/287x162/filters:strip_icc():quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/image/6685/champions-tv-1-54e282.jpg"/>
-  </programme>
-  <programme channel="6685" start="20260417183000 +0000" stop="20260417185500 +0000">
-    <title lang="id">Filler</title>
-    <icon src="https://thumbor.prod.vidiocdn.com/edoqRinFCRhrRwQ2ngcXacb_q74=/287x162/filters:strip_icc():quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/image/6685/champions-tv-1-54e282.jpg"/>
-  </programme>
-  <programme channel="6685" start="20260417185500 +0000" stop="20260417210000 +0000">
-    <title lang="id">Blackburn Rovers vs Coventry City : EFL 2025/26 Championship</title>
-    <desc lang="id">Blackburn Rovers vs Coventry City</desc>
-    <icon src="https://thumbor.prod.vidiocdn.com/edoqRinFCRhrRwQ2ngcXacb_q74=/287x162/filters:strip_icc():quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/image/6685/champions-tv-1-54e282.jpg"/>
+  <programme channel="6685" start="20260417190000 +0000" stop="20260417210000 +0000">
+    <title lang="id">Blackburn Rovers vs Coventry City - EFL Championship</title>
+    <desc lang="id">Nonton streaming pertandingan seru Blackburn Rovers vs Coventry City - EFL Championship. Saksikan aksi-aksi terbaik dari tim yang bersaing ketat untuk meraih kemenangan. Dapatkan informasi lengkap mengenai jadwal pertandingan dan hasil pertandingan terbaru hanya di Vidio.</desc>
+    <icon src="https://thumbor.prod.vidiocdn.com/uml6bO1Mg-A1_dATorNMORIe2tU=/287x162/filters:strip_icc():quality(70)/vidio-media-production/uploads/livestreaming/schedule/thumbnail/5015483/e12ba7.jpg"/>
   </programme>
   <programme channel="6685" start="20260417210000 +0000" stop="20260417213000 +0000">
     <title lang="id">Eps 42 : PL Story 2023/24 - Subs</title>
@@ -8983,15 +8962,10 @@
     <desc lang="id">Show 33</desc>
     <icon src="https://thumbor.prod.vidiocdn.com/edoqRinFCRhrRwQ2ngcXacb_q74=/287x162/filters:strip_icc():quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/image/6685/champions-tv-1-54e282.jpg"/>
   </programme>
-  <programme channel="6685" start="20260418120000 +0000" stop="20260418140000 +0000">
-    <title lang="id">Match 18 - Semifinal : WTA 500 Porsche Tennis Grand Prix - Stuttgart</title>
-    <desc lang="id">Match 18 Semifinal</desc>
-    <icon src="https://thumbor.prod.vidiocdn.com/edoqRinFCRhrRwQ2ngcXacb_q74=/287x162/filters:strip_icc():quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/image/6685/champions-tv-1-54e282.jpg"/>
-  </programme>
-  <programme channel="6685" start="20260418140000 +0000" stop="20260418160000 +0000">
-    <title lang="id">Match 19 - Semifinal : WTA 500 Porsche Tennis Grand Prix - Stuttgart</title>
-    <desc lang="id">Match 19 Semifinal</desc>
-    <icon src="https://thumbor.prod.vidiocdn.com/edoqRinFCRhrRwQ2ngcXacb_q74=/287x162/filters:strip_icc():quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/image/6685/champions-tv-1-54e282.jpg"/>
+  <programme channel="6685" start="20260418120000 +0000" stop="20260418160000 +0000">
+    <title lang="id">Semifinals - WTA 500: Porsche Tennis Grand Prix 2026</title>
+    <desc lang="id">Nonton streaming pertandingan seru Semifinals - WTA 500: Porsche Tennis Grand Prix 2026. Saksikan aksi-aksi terbaik dari tim yang bersaing ketat untuk meraih kemenangan. Dapatkan informasi lengkap mengenai jadwal pertandingan dan hasil pertandingan terbaru hanya di Vidio.</desc>
+    <icon src="https://thumbor.prod.vidiocdn.com/v3hWCJmb5knEHiJV7rXbFClbzgI=/287x162/filters:strip_icc():quality(70)/vidio-media-production/uploads/livestreaming/schedule/thumbnail/5015484/c4a4bc.jpg"/>
   </programme>
   <programme channel="6685" start="20260418160000 +0000" stop="20260418163000 +0000">
     <title lang="id">Eps 45 : PL Story 2023/24 - Subs</title>
@@ -9074,9 +9048,9 @@
     <icon src="https://thumbor.prod.vidiocdn.com/edoqRinFCRhrRwQ2ngcXacb_q74=/287x162/filters:strip_icc():quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/image/6685/champions-tv-1-54e282.jpg"/>
   </programme>
   <programme channel="6685" start="20260419110000 +0000" stop="20260419130000 +0000">
-    <title lang="id">Match 20 - Final : WTA 500 Porsche Tennis Grand Prix - Stuttgart</title>
-    <desc lang="id">Match 20 Final</desc>
-    <icon src="https://thumbor.prod.vidiocdn.com/edoqRinFCRhrRwQ2ngcXacb_q74=/287x162/filters:strip_icc():quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/image/6685/champions-tv-1-54e282.jpg"/>
+    <title lang="id">Final - WTA 500: Porsche Tennis Grand Prix 2026</title>
+    <desc lang="id">Nonton streaming pertandingan seru Final - WTA 500: Porsche Tennis Grand Prix 2026. Saksikan aksi-aksi terbaik dari tim yang bersaing ketat untuk meraih kemenangan. Dapatkan informasi lengkap mengenai jadwal pertandingan dan hasil pertandingan terbaru hanya di Vidio.</desc>
+    <icon src="https://thumbor.prod.vidiocdn.com/o5_APhmBsyhQIHstiruxTYZQKEo=/287x162/filters:strip_icc():quality(70)/vidio-media-production/uploads/livestreaming/schedule/thumbnail/5015486/386360.jpg"/>
   </programme>
   <programme channel="6685" start="20260419130000 +0000" stop="20260419133000 +0000">
     <title lang="id">Round 1 - Race &amp; Highlight : Snowcross World Championship 2026</title>
@@ -9127,7 +9101,7 @@
     <desc lang="id">Liga Italia Serie A merupakan kompetisi sepak bola profesional tertinggi di sistem liga sepak bola Italia. Sebanyak 20 klub bersaing untuk memperebutkan juara kompetisi ini.</desc>
     <icon src="https://thumbor.prod.vidiocdn.com/20tRQaK9Gps_wFQL5rY-XgRbrs4=/287x162/filters:strip_icc():quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/image/782/antv-de8530.jpg"/>
   </programme>
-  <programme channel="782" start="20260413204500 +0000" stop="20260413224500 +0000">
+  <programme channel="782" start="20260413204500 +0000" stop="20260413231000 +0000">
     <title lang="id">Mega Bollywood</title>
     <desc lang="id">Menghadirkan deretan film Bollywood menarik yang dibintangi aktor dan aktris ternama.</desc>
     <icon src="https://thumbor.prod.vidiocdn.com/Lm_3NkPB9Dp5RZIr5HFoo5orlv8=/287x162/filters:strip_icc():quality(70)/vidio-media-production/uploads/livestreaming/schedule/thumbnail/5012464/2e43f2.jpg"/>
@@ -9147,21 +9121,21 @@
     <desc lang="id">Menghadirkan deretan film Bollywood menarik yang dibintangi aktor dan aktris ternama.</desc>
     <icon src="https://thumbor.prod.vidiocdn.com/tL7lngcaV14lvpozle30yLu5H-8=/287x162/filters:strip_icc():quality(70)/vidio-media-production/uploads/livestreaming/schedule/thumbnail/5012465/e0f17e.jpg"/>
   </programme>
-  <programme channel="782" start="20260414054500 +0000" stop="20260414080000 +0000">
+  <programme channel="782" start="20260414054500 +0000" stop="20260414074600 +0000">
     <title lang="id">Jhanak</title>
     <desc lang="id">Seorang wanita muda yang bersemangat memulai perjalanan untuk memenuhi janji seorang ibu demi kehidupan yang lebih baik sambil mengatasi tantangan dan kehilangan.</desc>
     <icon src="https://thumbor.prod.vidiocdn.com/-ZtSmCV-pkgtr3uQ5oFdmtt_s0Y=/287x162/filters:strip_icc():quality(70)/vidio-media-production/uploads/livestreaming/schedule/thumbnail/5012453/36c833.jpg"/>
   </programme>
-  <programme channel="782" start="20260414080000 +0000" stop="20260414090000 +0000">
+  <programme channel="782" start="20260414074600 +0000" stop="20260414090800 +0000">
     <title lang="id">Teri Meri Doriyaann</title>
     <icon src="https://thumbor.prod.vidiocdn.com/cL5sX2eJCPEol96k5gPWQc66xW0=/287x162/filters:strip_icc():quality(70)/vidio-media-production/uploads/livestreaming/schedule/thumbnail/5012455/c09a7b.jpg"/>
   </programme>
-  <programme channel="782" start="20260414090000 +0000" stop="20260414110000 +0000">
+  <programme channel="782" start="20260414090800 +0000" stop="20260414111700 +0000">
     <title lang="id">Vasudha</title>
     <desc lang="id">Vasudha yang periang bergabung dengan rumah pemimpin bisnis Chandrika sebagai pembantu dan mendambakan persetujuannya meskipun ada perbedaan ideologis di antara mereka.</desc>
     <icon src="https://thumbor.prod.vidiocdn.com/0lHfH2N5KXACr7rJCXSqwIUpglw=/287x162/filters:strip_icc():quality(70)/vidio-media-production/uploads/livestreaming/schedule/thumbnail/5012457/137c9a.jpg"/>
   </programme>
-  <programme channel="782" start="20260414110000 +0000" stop="20260414130000 +0000">
+  <programme channel="782" start="20260414111700 +0000" stop="20260414130000 +0000">
     <title lang="id">Sinema Laga Klasik</title>
     <icon src="https://thumbor.prod.vidiocdn.com/20tRQaK9Gps_wFQL5rY-XgRbrs4=/287x162/filters:strip_icc():quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/image/782/antv-de8530.jpg"/>
   </programme>
@@ -14061,9 +14035,9 @@
     <icon src="https://thumbor.prod.vidiocdn.com/VmoYokSeKr_3SubUXC-rMC-EtQM=/287x162/filters:strip_icc():quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/image/17875/bein-2-25a5f9.jpg"/>
   </programme>
   <programme channel="17875" start="20260416185500 +0000" stop="20260416210000 +0000">
-    <title lang="id">Fiorentina vs Crystal Palace - QF, 2nd Leg : UEFA Conference League 2025/26</title>
-    <desc lang="id">Fiorentina vs Crystal Palace - QF, 2nd Leg</desc>
-    <icon src="https://thumbor.prod.vidiocdn.com/VmoYokSeKr_3SubUXC-rMC-EtQM=/287x162/filters:strip_icc():quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/image/17875/bein-2-25a5f9.jpg"/>
+    <title lang="id">Fiorentina vs Crystal Palace - UEFA Conference League</title>
+    <desc lang="id">Nonton streaming pertandingan seru Fiorentina vs Crystal Palace - UEFA Conference League. Saksikan aksi-aksi terbaik dari tim yang bersaing ketat untuk meraih kemenangan. Dapatkan informasi lengkap mengenai jadwal pertandingan dan hasil pertandingan terbaru hanya di Vidio.</desc>
+    <icon src="https://thumbor.prod.vidiocdn.com/IO8PTTieqsB9qwfYM7jwLGrA8PU=/287x162/filters:strip_icc():quality(70)/vidio-media-production/uploads/livestreaming/schedule/thumbnail/5015445/2a6f9c.jpg"/>
   </programme>
   <programme channel="17875" start="20260416210000 +0000" stop="20260416220000 +0000">
     <title lang="id">Matchday 19 : Women's Super League Highlights 2025/26</title>
@@ -14125,15 +14099,10 @@
     <desc lang="id">New Giza P2 Day 5 SF 2 - Women</desc>
     <icon src="https://thumbor.prod.vidiocdn.com/VmoYokSeKr_3SubUXC-rMC-EtQM=/287x162/filters:strip_icc():quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/image/17875/bein-2-25a5f9.jpg"/>
   </programme>
-  <programme channel="17875" start="20260417143000 +0000" stop="20260417160000 +0000">
-    <title lang="id">New Giza P2 Day 5 SF 2 - Men : Premier Padel 2026</title>
-    <desc lang="id">New Giza P2 Day 5 SF 2 - Men</desc>
-    <icon src="https://thumbor.prod.vidiocdn.com/VmoYokSeKr_3SubUXC-rMC-EtQM=/287x162/filters:strip_icc():quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/image/17875/bein-2-25a5f9.jpg"/>
-  </programme>
-  <programme channel="17875" start="20260417160000 +0000" stop="20260417163000 +0000">
-    <title lang="id">Documentary : FIBA Asia Cup 2025</title>
-    <desc lang="id">Documentary</desc>
-    <icon src="https://thumbor.prod.vidiocdn.com/VmoYokSeKr_3SubUXC-rMC-EtQM=/287x162/filters:strip_icc():quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/image/17875/bein-2-25a5f9.jpg"/>
+  <programme channel="17875" start="20260417143000 +0000" stop="20260417163000 +0000">
+    <title lang="id">Newgiza P2 Premier Padel 2026 - Semifinals</title>
+    <desc lang="id">Nonton streaming pertandingan seru Newgiza P2 Premier Padel 2026 - Semifinals. Saksikan aksi-aksi terbaik dari tim yang bersaing ketat untuk meraih kemenangan. Dapatkan informasi lengkap mengenai jadwal pertandingan dan hasil pertandingan terbaru hanya di Vidio.</desc>
+    <icon src="https://thumbor.prod.vidiocdn.com/NUIVTCm6gqyszZWJpWApMH1peQ4=/287x162/filters:strip_icc():quality(70)/vidio-media-production/uploads/livestreaming/schedule/thumbnail/5015446/87a5a9.jpg"/>
   </programme>
   <programme channel="17875" start="20260417163000 +0000" stop="20260417165500 +0000">
     <title lang="id">Canada vs Japan - Tri-Nations Challenge : HSBC SVNS Series 2026</title>
@@ -14141,14 +14110,14 @@
     <icon src="https://thumbor.prod.vidiocdn.com/VmoYokSeKr_3SubUXC-rMC-EtQM=/287x162/filters:strip_icc():quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/image/17875/bein-2-25a5f9.jpg"/>
   </programme>
   <programme channel="17875" start="20260417165500 +0000" stop="20260417190000 +0000">
-    <title lang="id">Fenerbahce vs Rizespor : Super Lig 2025/26</title>
-    <desc lang="id">Fenerbahce vs Rizespor</desc>
-    <icon src="https://thumbor.prod.vidiocdn.com/VmoYokSeKr_3SubUXC-rMC-EtQM=/287x162/filters:strip_icc():quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/image/17875/bein-2-25a5f9.jpg"/>
+    <title lang="id">Fenerbahce vs Rizespor - Trendyol Super Lig</title>
+    <desc lang="id">Nonton streaming pertandingan seru Fenerbahce vs Rizespor - Trendyol Super Lig. Saksikan aksi-aksi terbaik dari tim yang bersaing ketat untuk meraih kemenangan. Dapatkan informasi lengkap mengenai jadwal pertandingan dan hasil pertandingan terbaru hanya di Vidio.</desc>
+    <icon src="https://thumbor.prod.vidiocdn.com/UIxzyoZOYPUrOIGi6nf2zZgcDhk=/287x162/filters:strip_icc():quality(70)/vidio-media-production/uploads/livestreaming/schedule/thumbnail/5015447/da9aa0.jpg"/>
   </programme>
   <programme channel="17875" start="20260417165500 +0000" stop="20260417190000 +0000">
-    <title lang="id">Fenerbahce vs Rizespor : Super Lig 2025/26</title>
-    <desc lang="id">Fenerbahce vs Rizespor</desc>
-    <icon src="https://thumbor.prod.vidiocdn.com/VmoYokSeKr_3SubUXC-rMC-EtQM=/287x162/filters:strip_icc():quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/image/17875/bein-2-25a5f9.jpg"/>
+    <title lang="id">Fenerbahce vs Rizespor - Trendyol Super Lig</title>
+    <desc lang="id">Nonton streaming pertandingan seru Fenerbahce vs Rizespor - Trendyol Super Lig. Saksikan aksi-aksi terbaik dari tim yang bersaing ketat untuk meraih kemenangan. Dapatkan informasi lengkap mengenai jadwal pertandingan dan hasil pertandingan terbaru hanya di Vidio.</desc>
+    <icon src="https://thumbor.prod.vidiocdn.com/UIxzyoZOYPUrOIGi6nf2zZgcDhk=/287x162/filters:strip_icc():quality(70)/vidio-media-production/uploads/livestreaming/schedule/thumbnail/5015447/da9aa0.jpg"/>
   </programme>
   <programme channel="17875" start="20260417190000 +0000" stop="20260417192500 +0000">
     <title lang="id">Canada vs Japan - Tri-Nation Challenge : HSBC SVNS Series 2026</title>
@@ -14205,20 +14174,15 @@
     <desc lang="id">Sundowns vs ES Tunis - SF 2nd Leg</desc>
     <icon src="https://thumbor.prod.vidiocdn.com/VmoYokSeKr_3SubUXC-rMC-EtQM=/287x162/filters:strip_icc():quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/image/17875/bein-2-25a5f9.jpg"/>
   </programme>
-  <programme channel="17875" start="20260418150000 +0000" stop="20260418163000 +0000">
-    <title lang="id">New Giza P2 Day 6 Final - Men : Premier Padel 2026 [Join in Progress]</title>
-    <desc lang="id">New Giza P2 Day 6 Final - Men</desc>
-    <icon src="https://thumbor.prod.vidiocdn.com/VmoYokSeKr_3SubUXC-rMC-EtQM=/287x162/filters:strip_icc():quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/image/17875/bein-2-25a5f9.jpg"/>
+  <programme channel="17875" start="20260418150000 +0000" stop="20260418170000 +0000">
+    <title lang="id">Newgiza P2 Premier Padel 2026 - Finals</title>
+    <desc lang="id">Nonton streaming pertandingan seru Newgiza P2 Premier Padel 2026 - Finals. Saksikan aksi-aksi terbaik dari tim yang bersaing ketat untuk meraih kemenangan. Dapatkan informasi lengkap mengenai jadwal pertandingan dan hasil pertandingan terbaru hanya di Vidio.</desc>
+    <icon src="https://thumbor.prod.vidiocdn.com/3VybO7v3kSdaduGCwUHDX77_6tg=/287x162/filters:strip_icc():quality(70)/vidio-media-production/uploads/livestreaming/schedule/thumbnail/5015448/ccfa98.jpg"/>
   </programme>
-  <programme channel="17875" start="20260418163000 +0000" stop="20260418170000 +0000">
-    <title lang="id">Documentary : Almaty ATP 250 2025</title>
-    <desc lang="id">Documentary</desc>
-    <icon src="https://thumbor.prod.vidiocdn.com/VmoYokSeKr_3SubUXC-rMC-EtQM=/287x162/filters:strip_icc():quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/image/17875/bein-2-25a5f9.jpg"/>
-  </programme>
-  <programme channel="17875" start="20260418163000 +0000" stop="20260418170000 +0000">
-    <title lang="id">Documentary : Almaty ATP 250 2025</title>
-    <desc lang="id">Documentary</desc>
-    <icon src="https://thumbor.prod.vidiocdn.com/VmoYokSeKr_3SubUXC-rMC-EtQM=/287x162/filters:strip_icc():quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/image/17875/bein-2-25a5f9.jpg"/>
+  <programme channel="17875" start="20260418150000 +0000" stop="20260418170000 +0000">
+    <title lang="id">Newgiza P2 Premier Padel 2026 - Finals</title>
+    <desc lang="id">Nonton streaming pertandingan seru Newgiza P2 Premier Padel 2026 - Finals. Saksikan aksi-aksi terbaik dari tim yang bersaing ketat untuk meraih kemenangan. Dapatkan informasi lengkap mengenai jadwal pertandingan dan hasil pertandingan terbaru hanya di Vidio.</desc>
+    <icon src="https://thumbor.prod.vidiocdn.com/3VybO7v3kSdaduGCwUHDX77_6tg=/287x162/filters:strip_icc():quality(70)/vidio-media-production/uploads/livestreaming/schedule/thumbnail/5015448/ccfa98.jpg"/>
   </programme>
   <programme channel="17875" start="20260418170000 +0000" stop="20260418173000 +0000">
     <title lang="id">Cancun P2 : Premier Padel Highlights 2026</title>
@@ -14291,9 +14255,9 @@
     <icon src="https://thumbor.prod.vidiocdn.com/VmoYokSeKr_3SubUXC-rMC-EtQM=/287x162/filters:strip_icc():quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/image/17875/bein-2-25a5f9.jpg"/>
   </programme>
   <programme channel="17875" start="20260419135500 +0000" stop="20260419160000 +0000">
-    <title lang="id">Samsunspor vs Besiktas : Super Lig 2025/26</title>
-    <desc lang="id">Samsunspor vs Besiktas</desc>
-    <icon src="https://thumbor.prod.vidiocdn.com/VmoYokSeKr_3SubUXC-rMC-EtQM=/287x162/filters:strip_icc():quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/image/17875/bein-2-25a5f9.jpg"/>
+    <title lang="id">Samsunspor vs Besiktas - Trendyol Super Lig</title>
+    <desc lang="id">Nonton streaming pertandingan seru Samsunspor vs Besiktas - Trendyol Super Lig. Saksikan aksi-aksi terbaik dari tim yang bersaing ketat untuk meraih kemenangan. Dapatkan informasi lengkap mengenai jadwal pertandingan dan hasil pertandingan terbaru hanya di Vidio.</desc>
+    <icon src="https://thumbor.prod.vidiocdn.com/Ca0EQtrF8UGE6li_zddCXl9Pd-c=/287x162/filters:strip_icc():quality(70)/vidio-media-production/uploads/livestreaming/schedule/thumbnail/5015449/9438c0.jpg"/>
   </programme>
   <programme channel="17875" start="20260419160000 +0000" stop="20260419162500 +0000">
     <title lang="id">South Africa vs China - Brazil Day 2, Women : HSBC SVNS2 2026</title>
@@ -14494,12 +14458,12 @@
     <desc lang="id">ATALANTA vs JUVENTUS</desc>
     <icon src="https://thumbor.prod.vidiocdn.com/nY0aFklpYf6yONLaFJjxhiSuthc=/287x162/filters:strip_icc():quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/image/6786/champions-tv-3-76ca7c.jpg"/>
   </programme>
-  <programme channel="6786" start="20260414080000 +0000" stop="20260414100000 +0000">
+  <programme channel="6786" start="20260414080000 +0000" stop="20260414100900 +0000">
     <title lang="id">MILAN vs UDINESE : Serie A 2025/26</title>
     <desc lang="id">MILAN vs UDINESE</desc>
     <icon src="https://thumbor.prod.vidiocdn.com/nY0aFklpYf6yONLaFJjxhiSuthc=/287x162/filters:strip_icc():quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/image/6786/champions-tv-3-76ca7c.jpg"/>
   </programme>
-  <programme channel="6786" start="20260414100000 +0000" stop="20260414140000 +0000">
+  <programme channel="6786" start="20260414100900 +0000" stop="20260414140000 +0000">
     <title lang="id">Poland vs Ukraine : Billie Jane King Cup 2026 Qualifiers</title>
     <desc lang="id">Poland vs Ukraine</desc>
     <icon src="https://thumbor.prod.vidiocdn.com/nY0aFklpYf6yONLaFJjxhiSuthc=/287x162/filters:strip_icc():quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/image/6786/champions-tv-3-76ca7c.jpg"/>
@@ -14687,15 +14651,10 @@
     <desc lang="id">Week 23</desc>
     <icon src="https://thumbor.prod.vidiocdn.com/nY0aFklpYf6yONLaFJjxhiSuthc=/287x162/filters:strip_icc():quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/image/6786/champions-tv-3-76ca7c.jpg"/>
   </programme>
-  <programme channel="6786" start="20260417103000 +0000" stop="20260417123000 +0000">
-    <title lang="id">Quarterfinal - Porsche Tennis Grand Prix - Stuttgart : WTA 500</title>
-    <desc lang="id">Quarterfinal - Porsche Tennis Grand Prix - Stuttgart</desc>
-    <icon src="https://thumbor.prod.vidiocdn.com/nY0aFklpYf6yONLaFJjxhiSuthc=/287x162/filters:strip_icc():quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/image/6786/champions-tv-3-76ca7c.jpg"/>
-  </programme>
-  <programme channel="6786" start="20260417123000 +0000" stop="20260417143000 +0000">
-    <title lang="id">Quarterfinal - Porsche Tennis Grand Prix - Stuttgart : WTA 500</title>
-    <desc lang="id">Quarterfinal - Porsche Tennis Grand Prix - Stuttgart</desc>
-    <icon src="https://thumbor.prod.vidiocdn.com/nY0aFklpYf6yONLaFJjxhiSuthc=/287x162/filters:strip_icc():quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/image/6786/champions-tv-3-76ca7c.jpg"/>
+  <programme channel="6786" start="20260417103000 +0000" stop="20260417143000 +0000">
+    <title lang="id">Quarterfinals - WTA 500: Porsche Tennis Grand Prix 2026</title>
+    <desc lang="id">Nonton streaming pertandingan seru Quarterfinals - WTA 500: Porsche Tennis Grand Prix 2026. Saksikan aksi-aksi terbaik dari tim yang bersaing ketat untuk meraih kemenangan. Dapatkan informasi lengkap mengenai jadwal pertandingan dan hasil pertandingan terbaru hanya di Vidio.</desc>
+    <icon src="https://thumbor.prod.vidiocdn.com/8u-ueJPh0DE0vD5OEUTUzTeRsAE=/287x162/filters:strip_icc():quality(70)/vidio-media-production/uploads/livestreaming/schedule/thumbnail/5015460/a36823.jpg"/>
   </programme>
   <programme channel="6786" start="20260417143000 +0000" stop="20260417150000 +0000">
     <title lang="id">WTA my Story</title>
@@ -16846,35 +16805,15 @@
     <desc lang="id">HIGHLIGHT FULL IMPACT ROUND 31</desc>
     <icon src="https://thumbor.prod.vidiocdn.com/xgkik6iws0EJ01bi5cJsIjYWjOM=/287x162/filters:strip_icc():quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/image/6686/champions-tv-2-681a27.jpg"/>
   </programme>
-  <programme channel="6686" start="20260417113000 +0000" stop="20260417133000 +0000">
-    <title lang="id">MATCH 04 - QUARTER FINAL : WTA 250 OPEN CAPFINANCE ROUEN METROPOLE</title>
-    <desc lang="id">MATCH 04 QUARTER FINAL</desc>
-    <icon src="https://thumbor.prod.vidiocdn.com/xgkik6iws0EJ01bi5cJsIjYWjOM=/287x162/filters:strip_icc():quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/image/6686/champions-tv-2-681a27.jpg"/>
+  <programme channel="6686" start="20260417113000 +0000" stop="20260417193000 +0000">
+    <title lang="id">Quarterfinals - WTA 250: Open Capfinances Rouen Metropole 2026</title>
+    <desc lang="id">Nonton streaming pertandingan seru Quarterfinals - WTA 250: Open Capfinances Rouen Metropole 2026. Saksikan aksi-aksi terbaik dari tim yang bersaing ketat untuk meraih kemenangan. Dapatkan informasi lengkap mengenai jadwal pertandingan dan hasil pertandingan terbaru hanya di Vidio.</desc>
+    <icon src="https://thumbor.prod.vidiocdn.com/saPv0DjL1Tuw_jjFL4pRV8wMdak=/287x162/filters:strip_icc():quality(70)/vidio-media-production/uploads/livestreaming/schedule/thumbnail/5015462/70cc43.jpg"/>
   </programme>
-  <programme channel="6686" start="20260417133000 +0000" stop="20260417153000 +0000">
-    <title lang="id">MATCH 05 - QUARTER FINAL : WTA 250 OPEN CAPFINANCE ROUEN METROPOLE</title>
-    <desc lang="id">MATCH 05 QUARTER FINAL</desc>
-    <icon src="https://thumbor.prod.vidiocdn.com/xgkik6iws0EJ01bi5cJsIjYWjOM=/287x162/filters:strip_icc():quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/image/6686/champions-tv-2-681a27.jpg"/>
-  </programme>
-  <programme channel="6686" start="20260417153000 +0000" stop="20260417170000 +0000">
-    <title lang="id">MATCH 06 - QUARTER FINAL : WTA 250 OPEN CAPFINANCE ROUEN METROPOLE</title>
-    <desc lang="id">MATCH 06 QUARTER FINAL</desc>
-    <icon src="https://thumbor.prod.vidiocdn.com/xgkik6iws0EJ01bi5cJsIjYWjOM=/287x162/filters:strip_icc():quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/image/6686/champions-tv-2-681a27.jpg"/>
-  </programme>
-  <programme channel="6686" start="20260417153000 +0000" stop="20260417170000 +0000">
-    <title lang="id">MATCH 06 - QUARTER FINAL : WTA 250 OPEN CAPFINANCE ROUEN METROPOLE</title>
-    <desc lang="id">MATCH 06 QUARTER FINAL</desc>
-    <icon src="https://thumbor.prod.vidiocdn.com/xgkik6iws0EJ01bi5cJsIjYWjOM=/287x162/filters:strip_icc():quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/image/6686/champions-tv-2-681a27.jpg"/>
-  </programme>
-  <programme channel="6686" start="20260417170000 +0000" stop="20260417173000 +0000">
-    <title lang="id">MATCH 06 - QUARTER FINAL : WTA 250 OPEN CAPFINANCE ROUEN METROPOLE</title>
-    <desc lang="id">MATCH 06 QUARTER FINAL</desc>
-    <icon src="https://thumbor.prod.vidiocdn.com/xgkik6iws0EJ01bi5cJsIjYWjOM=/287x162/filters:strip_icc():quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/image/6686/champions-tv-2-681a27.jpg"/>
-  </programme>
-  <programme channel="6686" start="20260417173000 +0000" stop="20260417193000 +0000">
-    <title lang="id">MATCH 07 - QUARTER FINAL : WTA 250 OPEN CAPFINANCE ROUEN METROPOLE</title>
-    <desc lang="id">MATCH 07 QUARTER FINAL</desc>
-    <icon src="https://thumbor.prod.vidiocdn.com/xgkik6iws0EJ01bi5cJsIjYWjOM=/287x162/filters:strip_icc():quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/image/6686/champions-tv-2-681a27.jpg"/>
+  <programme channel="6686" start="20260417113000 +0000" stop="20260417193000 +0000">
+    <title lang="id">Quarterfinals - WTA 250: Open Capfinances Rouen Metropole 2026</title>
+    <desc lang="id">Nonton streaming pertandingan seru Quarterfinals - WTA 250: Open Capfinances Rouen Metropole 2026. Saksikan aksi-aksi terbaik dari tim yang bersaing ketat untuk meraih kemenangan. Dapatkan informasi lengkap mengenai jadwal pertandingan dan hasil pertandingan terbaru hanya di Vidio.</desc>
+    <icon src="https://thumbor.prod.vidiocdn.com/saPv0DjL1Tuw_jjFL4pRV8wMdak=/287x162/filters:strip_icc():quality(70)/vidio-media-production/uploads/livestreaming/schedule/thumbnail/5015462/70cc43.jpg"/>
   </programme>
   <programme channel="6686" start="20260417193000 +0000" stop="20260417200000 +0000">
     <title lang="id">HIGHLIGHT - Show 34 : EFL 2025/26</title>
@@ -17047,9 +16986,9 @@
     <icon src="https://thumbor.prod.vidiocdn.com/xgkik6iws0EJ01bi5cJsIjYWjOM=/287x162/filters:strip_icc():quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/image/6686/champions-tv-2-681a27.jpg"/>
   </programme>
   <programme channel="6686" start="20260419105500 +0000" stop="20260419130000 +0000">
-    <title lang="id">IPSWICH TOWN VS MIDDLESBROUGH : EFL 2025/26 CHAMPIONSHIP</title>
-    <desc lang="id">IPSWICH TOWN VS MIDDLESBROUGH</desc>
-    <icon src="https://thumbor.prod.vidiocdn.com/xgkik6iws0EJ01bi5cJsIjYWjOM=/287x162/filters:strip_icc():quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/image/6686/champions-tv-2-681a27.jpg"/>
+    <title lang="id">Ipswich vs Middlesbrough - EFL Championship</title>
+    <desc lang="id">Nonton streaming pertandingan seru Ipswich vs Middlesbrough - EFL Championship. Saksikan aksi-aksi terbaik dari tim yang bersaing ketat untuk meraih kemenangan. Dapatkan informasi lengkap mengenai jadwal pertandingan dan hasil pertandingan terbaru hanya di Vidio.</desc>
+    <icon src="https://thumbor.prod.vidiocdn.com/hz_cLk29bmUFwfet6rXkOTHw9TA=/287x162/filters:strip_icc():quality(70)/vidio-media-production/uploads/livestreaming/schedule/thumbnail/5015463/4bb030.jpg"/>
   </programme>
   <programme channel="6686" start="20260419130000 +0000" stop="20260419133000 +0000">
     <title lang="id">HIGHLIGHT - Final Leg : CARABAO CUP 2025/26</title>
@@ -17057,9 +16996,9 @@
     <icon src="https://thumbor.prod.vidiocdn.com/xgkik6iws0EJ01bi5cJsIjYWjOM=/287x162/filters:strip_icc():quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/image/6686/champions-tv-2-681a27.jpg"/>
   </programme>
   <programme channel="6686" start="20260419133000 +0000" stop="20260419153000 +0000">
-    <title lang="id">MATCH 10 - FINAL : WTA 250 OPEN CAPFINANCE ROUEN METROPOLE</title>
-    <desc lang="id">MATCH 10 FINAL</desc>
-    <icon src="https://thumbor.prod.vidiocdn.com/xgkik6iws0EJ01bi5cJsIjYWjOM=/287x162/filters:strip_icc():quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/image/6686/champions-tv-2-681a27.jpg"/>
+    <title lang="id">Final - WTA 250: Open Capfinances Rouen Metropole 2026</title>
+    <desc lang="id">Nonton streaming pertandingan seru Final - WTA 250: Open Capfinances Rouen Metropole 2026. Saksikan aksi-aksi terbaik dari tim yang bersaing ketat untuk meraih kemenangan. Dapatkan informasi lengkap mengenai jadwal pertandingan dan hasil pertandingan terbaru hanya di Vidio.</desc>
+    <icon src="https://thumbor.prod.vidiocdn.com/NFPPati0Py_r091wnNOVmTk9CLc=/287x162/filters:strip_icc():quality(70)/vidio-media-production/uploads/livestreaming/schedule/thumbnail/5015464/429f6c.jpg"/>
   </programme>
   <programme channel="6686" start="20260419153000 +0000" stop="20260419163000 +0000">
     <title lang="id">HIGHLIGHT : DUTCH LEAGUE EREDIVISIE 2025/26</title>
@@ -19331,35 +19270,30 @@
     <desc lang="id">Show 28 Matchweek 33</desc>
     <icon src="https://thumbor.prod.vidiocdn.com/r_QaZubFaj9Ht_TI2kDgdImcRqY=/287x162/filters:strip_icc():quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/image/9182/champions-tv-5-e0dd48.jpg"/>
   </programme>
-  <programme channel="9182" start="20260418110000 +0000" stop="20260418134000 +0000">
-    <title lang="id">[LIVE] BRENTFORD vs FULHAM : [LIVE] PREMIER LEAGUE 2025/26</title>
-    <desc lang="id">BRENTFORD vs FULHAM</desc>
-    <icon src="https://thumbor.prod.vidiocdn.com/r_QaZubFaj9Ht_TI2kDgdImcRqY=/287x162/filters:strip_icc():quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/image/9182/champions-tv-5-e0dd48.jpg"/>
+  <programme channel="9182" start="20260418110000 +0000" stop="20260418133000 +0000">
+    <title lang="id">Brentford vs Fulham - Premier League</title>
+    <desc lang="id">Nonton streaming pertandingan seru Brentford vs Fulham - Premier League. Saksikan aksi-aksi terbaik dari tim yang bersaing ketat untuk meraih kemenangan. Dapatkan informasi lengkap mengenai jadwal pertandingan dan hasil pertandingan terbaru hanya di Vidio.</desc>
+    <icon src="https://thumbor.prod.vidiocdn.com/MEInz6f8Eq8Cip5wvyYZV2Jwwxk=/287x162/filters:strip_icc():quality(70)/vidio-media-production/uploads/livestreaming/schedule/thumbnail/5015499/79edb6.jpg"/>
   </programme>
-  <programme channel="9182" start="20260418134000 +0000" stop="20260418161000 +0000">
-    <title lang="id">[LIVE] NEWCASTLE vs BOURNEMOUTH : [LIVE] PREMIER LEAGUE 2025/26</title>
-    <desc lang="id">NEWCASTLE vs BOURNEMOUTH</desc>
-    <icon src="https://thumbor.prod.vidiocdn.com/r_QaZubFaj9Ht_TI2kDgdImcRqY=/287x162/filters:strip_icc():quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/image/9182/champions-tv-5-e0dd48.jpg"/>
+  <programme channel="9182" start="20260418133000 +0000" stop="20260418160000 +0000">
+    <title lang="id">Newcastle vs Bournemouth - Premier League</title>
+    <desc lang="id">Nonton streaming pertandingan seru Newcastle vs Bournemouth - Premier League. Saksikan aksi-aksi terbaik dari tim yang bersaing ketat untuk meraih kemenangan. Dapatkan informasi lengkap mengenai jadwal pertandingan dan hasil pertandingan terbaru hanya di Vidio.</desc>
+    <icon src="https://thumbor.prod.vidiocdn.com/d9PkW6JWdQ-wIllnZO_NbFQo5_M=/287x162/filters:strip_icc():quality(70)/vidio-media-production/uploads/livestreaming/schedule/thumbnail/5015500/4a43ab.jpg"/>
   </programme>
-  <programme channel="9182" start="20260418161000 +0000" stop="20260418170000 +0000">
-    <title lang="id">[LIVE] TOTTENHAM vs BRIGHTON AND HOVE ALBION : [LIVE] PREMIER LEAGUE 2025/26</title>
-    <desc lang="id">TOTTENHAM vs BRIGHTON AND HOVE ALBION</desc>
-    <icon src="https://thumbor.prod.vidiocdn.com/r_QaZubFaj9Ht_TI2kDgdImcRqY=/287x162/filters:strip_icc():quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/image/9182/champions-tv-5-e0dd48.jpg"/>
+  <programme channel="9182" start="20260418160000 +0000" stop="20260418183000 +0000">
+    <title lang="id">Tottenham vs Brighton - Premier League</title>
+    <desc lang="id">Nonton streaming pertandingan seru Tottenham vs Brighton - Premier League. Saksikan aksi-aksi terbaik dari tim yang bersaing ketat untuk meraih kemenangan. Dapatkan informasi lengkap mengenai jadwal pertandingan dan hasil pertandingan terbaru hanya di Vidio.</desc>
+    <icon src="https://thumbor.prod.vidiocdn.com/LJ1SqEcHvLxbMpJ6NTdpaXifAhE=/287x162/filters:strip_icc():quality(70)/vidio-media-production/uploads/livestreaming/schedule/thumbnail/5015501/7e8a9d.jpg"/>
   </programme>
-  <programme channel="9182" start="20260418161000 +0000" stop="20260418170000 +0000">
-    <title lang="id">[LIVE] TOTTENHAM vs BRIGHTON AND HOVE ALBION : [LIVE] PREMIER LEAGUE 2025/26</title>
-    <desc lang="id">TOTTENHAM vs BRIGHTON AND HOVE ALBION</desc>
-    <icon src="https://thumbor.prod.vidiocdn.com/r_QaZubFaj9Ht_TI2kDgdImcRqY=/287x162/filters:strip_icc():quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/image/9182/champions-tv-5-e0dd48.jpg"/>
+  <programme channel="9182" start="20260418160000 +0000" stop="20260418183000 +0000">
+    <title lang="id">Tottenham vs Brighton - Premier League</title>
+    <desc lang="id">Nonton streaming pertandingan seru Tottenham vs Brighton - Premier League. Saksikan aksi-aksi terbaik dari tim yang bersaing ketat untuk meraih kemenangan. Dapatkan informasi lengkap mengenai jadwal pertandingan dan hasil pertandingan terbaru hanya di Vidio.</desc>
+    <icon src="https://thumbor.prod.vidiocdn.com/LJ1SqEcHvLxbMpJ6NTdpaXifAhE=/287x162/filters:strip_icc():quality(70)/vidio-media-production/uploads/livestreaming/schedule/thumbnail/5015501/7e8a9d.jpg"/>
   </programme>
-  <programme channel="9182" start="20260418170000 +0000" stop="20260418184000 +0000">
-    <title lang="id">[LIVE] TOTTENHAM vs BRIGHTON AND HOVE ALBION : [LIVE] PREMIER LEAGUE 2025/26</title>
-    <desc lang="id">TOTTENHAM vs BRIGHTON AND HOVE ALBION</desc>
-    <icon src="https://thumbor.prod.vidiocdn.com/r_QaZubFaj9Ht_TI2kDgdImcRqY=/287x162/filters:strip_icc():quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/image/9182/champions-tv-5-e0dd48.jpg"/>
-  </programme>
-  <programme channel="9182" start="20260418184000 +0000" stop="20260418210000 +0000">
-    <title lang="id">[LIVE] CHELSEA vs MANCHESTER UNITED : [LIVE] PREMIER LEAGUE 2025/26</title>
-    <desc lang="id">CHELSEA vs MANCHESTER UNITED</desc>
-    <icon src="https://thumbor.prod.vidiocdn.com/r_QaZubFaj9Ht_TI2kDgdImcRqY=/287x162/filters:strip_icc():quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/image/9182/champions-tv-5-e0dd48.jpg"/>
+  <programme channel="9182" start="20260418183000 +0000" stop="20260418210000 +0000">
+    <title lang="id">Chelsea vs Man United - Premier League</title>
+    <desc lang="id">Nonton streaming pertandingan seru Chelsea vs Man United - Premier League. Saksikan aksi-aksi terbaik dari tim yang bersaing ketat untuk meraih kemenangan. Dapatkan informasi lengkap mengenai jadwal pertandingan dan hasil pertandingan terbaru hanya di Vidio.</desc>
+    <icon src="https://thumbor.prod.vidiocdn.com/FxxtpSYSLfqX8P_dEB8IPIUJMhg=/287x162/filters:strip_icc():quality(70)/vidio-media-production/uploads/livestreaming/schedule/thumbnail/5015502/b06a99.jpg"/>
   </programme>
   <programme channel="9182" start="20260418210000 +0000" stop="20260418220000 +0000">
     <title lang="id">Matchweek 32 : PL MATCH HIGHLIGHT 2025/26</title>
@@ -19421,20 +19355,15 @@
     <desc lang="id">Show 28 Matchweek 33</desc>
     <icon src="https://thumbor.prod.vidiocdn.com/r_QaZubFaj9Ht_TI2kDgdImcRqY=/287x162/filters:strip_icc():quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/image/9182/champions-tv-5-e0dd48.jpg"/>
   </programme>
-  <programme channel="9182" start="20260419123000 +0000" stop="20260419151000 +0000">
-    <title lang="id">[LIVE] EVERTON vs LIVERPOOL : [LIVE] PREMIER LEAGUE 2025/26</title>
-    <desc lang="id">EVERTON vsRPOOL</desc>
-    <icon src="https://thumbor.prod.vidiocdn.com/r_QaZubFaj9Ht_TI2kDgdImcRqY=/287x162/filters:strip_icc():quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/image/9182/champions-tv-5-e0dd48.jpg"/>
+  <programme channel="9182" start="20260419150000 +0000" stop="20260419173000 +0000">
+    <title lang="id">Man City vs Arsenal - Premier League</title>
+    <desc lang="id">Nonton streaming pertandingan seru Man City vs Arsenal - Premier League. Saksikan aksi-aksi terbaik dari tim yang bersaing ketat untuk meraih kemenangan. Dapatkan informasi lengkap mengenai jadwal pertandingan dan hasil pertandingan terbaru hanya di Vidio.</desc>
+    <icon src="https://thumbor.prod.vidiocdn.com/kAyY3eR2guvv0XnPZvG0MtzzqNg=/287x162/filters:strip_icc():quality(70)/vidio-media-production/uploads/livestreaming/schedule/thumbnail/5015503/ae907b.jpg"/>
   </programme>
-  <programme channel="9182" start="20260419151000 +0000" stop="20260419170000 +0000">
-    <title lang="id">[LIVE] MANCHESTER CITY vs ARSENAL : [LIVE] PREMIER LEAGUE 2025/26</title>
-    <desc lang="id">MANCHESTER CITY vs ARSENAL</desc>
-    <icon src="https://thumbor.prod.vidiocdn.com/r_QaZubFaj9Ht_TI2kDgdImcRqY=/287x162/filters:strip_icc():quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/image/9182/champions-tv-5-e0dd48.jpg"/>
-  </programme>
-  <programme channel="9182" start="20260419151000 +0000" stop="20260419170000 +0000">
-    <title lang="id">[LIVE] MANCHESTER CITY vs ARSENAL : [LIVE] PREMIER LEAGUE 2025/26</title>
-    <desc lang="id">MANCHESTER CITY vs ARSENAL</desc>
-    <icon src="https://thumbor.prod.vidiocdn.com/r_QaZubFaj9Ht_TI2kDgdImcRqY=/287x162/filters:strip_icc():quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/image/9182/champions-tv-5-e0dd48.jpg"/>
+  <programme channel="9182" start="20260419150000 +0000" stop="20260419173000 +0000">
+    <title lang="id">Man City vs Arsenal - Premier League</title>
+    <desc lang="id">Nonton streaming pertandingan seru Man City vs Arsenal - Premier League. Saksikan aksi-aksi terbaik dari tim yang bersaing ketat untuk meraih kemenangan. Dapatkan informasi lengkap mengenai jadwal pertandingan dan hasil pertandingan terbaru hanya di Vidio.</desc>
+    <icon src="https://thumbor.prod.vidiocdn.com/kAyY3eR2guvv0XnPZvG0MtzzqNg=/287x162/filters:strip_icc():quality(70)/vidio-media-production/uploads/livestreaming/schedule/thumbnail/5015503/ae907b.jpg"/>
   </programme>
   <programme channel="9183" start="20260413163000 +0000" stop="20260413170000 +0000">
     <title lang="id">Show 16 - Jimmy Floyd Hasselbaink : PL REWIND 2025-26</title>
@@ -19866,15 +19795,15 @@
     <desc lang="id">Chelsea vs Manchester City</desc>
     <icon src="https://thumbor.prod.vidiocdn.com/_8JaTGtU2WYTw0ylulYg_dmz37Y=/287x162/filters:strip_icc():quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/image/9183/champions-tv-6-8a049a.jpg"/>
   </programme>
-  <programme channel="9183" start="20260418130000 +0000" stop="20260418133000 +0000">
+  <programme channel="9183" start="20260418130000 +0000" stop="20260418135000 +0000">
     <title lang="id">Show 28 - Matchweek 33 : PL PREVIEW 2025/26</title>
     <desc lang="id">Show 28 Matchweek 33</desc>
     <icon src="https://thumbor.prod.vidiocdn.com/_8JaTGtU2WYTw0ylulYg_dmz37Y=/287x162/filters:strip_icc():quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/image/9183/champions-tv-6-8a049a.jpg"/>
   </programme>
-  <programme channel="9183" start="20260418133000 +0000" stop="20260418160000 +0000">
-    <title lang="id">[LIVE] Leeds United vs Wolverhampton Wanderers : [LIVE] Premier League 2025/26</title>
-    <desc lang="id">Leeds United vs Wolverhampton Wanderers</desc>
-    <icon src="https://thumbor.prod.vidiocdn.com/_8JaTGtU2WYTw0ylulYg_dmz37Y=/287x162/filters:strip_icc():quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/image/9183/champions-tv-6-8a049a.jpg"/>
+  <programme channel="9183" start="20260418135000 +0000" stop="20260418160000 +0000">
+    <title lang="id">Leeds United vs Wolves - Premier League</title>
+    <desc lang="id">Nonton streaming pertandingan seru Leeds United vs Wolves - Premier League. Saksikan aksi-aksi terbaik dari tim yang bersaing ketat untuk meraih kemenangan. Dapatkan informasi lengkap mengenai jadwal pertandingan dan hasil pertandingan terbaru hanya di Vidio.</desc>
+    <icon src="https://thumbor.prod.vidiocdn.com/ZrA3UZztoMmBrySQNT3kfkLeCGY=/287x162/filters:strip_icc():quality(70)/vidio-media-production/uploads/livestreaming/schedule/thumbnail/5015509/937272.jpg"/>
   </programme>
   <programme channel="9183" start="20260418160000 +0000" stop="20260418170000 +0000">
     <title lang="id">Matchweek 32 : PL MATCH HIGHLIGHT 2025/26</title>
@@ -19951,20 +19880,20 @@
     <desc lang="id">Show 28 Matchweek 33</desc>
     <icon src="https://thumbor.prod.vidiocdn.com/_8JaTGtU2WYTw0ylulYg_dmz37Y=/287x162/filters:strip_icc():quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/image/9183/champions-tv-6-8a049a.jpg"/>
   </programme>
-  <programme channel="9183" start="20260419123000 +0000" stop="20260419150000 +0000">
-    <title lang="id">[LIVE] Aston Villa vs Sunderland : [LIVE] Premier League 2025/26</title>
-    <desc lang="id">Aston Villa vs Sunderland</desc>
-    <icon src="https://thumbor.prod.vidiocdn.com/_8JaTGtU2WYTw0ylulYg_dmz37Y=/287x162/filters:strip_icc():quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/image/9183/champions-tv-6-8a049a.jpg"/>
+  <programme channel="9183" start="20260419125000 +0000" stop="20260419152000 +0000">
+    <title lang="id">Aston Villa vs Sunderland - Premier League</title>
+    <desc lang="id">Nonton streaming pertandingan seru Aston Villa vs Sunderland - Premier League. Saksikan aksi-aksi terbaik dari tim yang bersaing ketat untuk meraih kemenangan. Dapatkan informasi lengkap mengenai jadwal pertandingan dan hasil pertandingan terbaru hanya di Vidio.</desc>
+    <icon src="https://thumbor.prod.vidiocdn.com/TPk5EYStvd5KTq4AJ5hRgzE1IZY=/287x162/filters:strip_icc():quality(70)/vidio-media-production/uploads/livestreaming/schedule/thumbnail/5015510/c4d001.jpg"/>
   </programme>
-  <programme channel="9183" start="20260419150000 +0000" stop="20260419170000 +0000">
-    <title lang="id">[LIVE] Manchester City vs Arsenal : [LIVE] Premier League 2025/26</title>
-    <desc lang="id">Manchester City vs Arsenal</desc>
-    <icon src="https://thumbor.prod.vidiocdn.com/_8JaTGtU2WYTw0ylulYg_dmz37Y=/287x162/filters:strip_icc():quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/image/9183/champions-tv-6-8a049a.jpg"/>
+  <programme channel="9183" start="20260419152000 +0000" stop="20260419173000 +0000">
+    <title lang="id">(Data Zone) Man City vs Arsenal - Premier League</title>
+    <desc lang="id">Nonton streaming pertandingan seru (Data Zone) Man City vs Arsenal - Premier League. Saksikan aksi-aksi terbaik dari tim yang bersaing ketat untuk meraih kemenangan. Dapatkan informasi lengkap mengenai jadwal pertandingan dan hasil pertandingan terbaru hanya di Vidio.</desc>
+    <icon src="https://thumbor.prod.vidiocdn.com/wsqPQJaeqJ7MDsbGILhdjwx4Tn0=/287x162/filters:strip_icc():quality(70)/vidio-media-production/uploads/livestreaming/schedule/thumbnail/5015511/6bbbf9.jpg"/>
   </programme>
-  <programme channel="9183" start="20260419150000 +0000" stop="20260419170000 +0000">
-    <title lang="id">[LIVE] Manchester City vs Arsenal : [LIVE] Premier League 2025/26</title>
-    <desc lang="id">Manchester City vs Arsenal</desc>
-    <icon src="https://thumbor.prod.vidiocdn.com/_8JaTGtU2WYTw0ylulYg_dmz37Y=/287x162/filters:strip_icc():quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/image/9183/champions-tv-6-8a049a.jpg"/>
+  <programme channel="9183" start="20260419152000 +0000" stop="20260419173000 +0000">
+    <title lang="id">(Data Zone) Man City vs Arsenal - Premier League</title>
+    <desc lang="id">Nonton streaming pertandingan seru (Data Zone) Man City vs Arsenal - Premier League. Saksikan aksi-aksi terbaik dari tim yang bersaing ketat untuk meraih kemenangan. Dapatkan informasi lengkap mengenai jadwal pertandingan dan hasil pertandingan terbaru hanya di Vidio.</desc>
+    <icon src="https://thumbor.prod.vidiocdn.com/wsqPQJaeqJ7MDsbGILhdjwx4Tn0=/287x162/filters:strip_icc():quality(70)/vidio-media-production/uploads/livestreaming/schedule/thumbnail/5015511/6bbbf9.jpg"/>
   </programme>
   <programme channel="7150" start="20260413160000 +0000" stop="20260413170000 +0000">
     <title lang="id">Portrait Artist Of The Year</title>
@@ -24517,9 +24446,9 @@
     <icon src="https://thumbor.prod.vidiocdn.com/YBK8XRc1cWJx0JfM3CWo6PnTfFY=/287x162/filters:strip_icc():quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/image/17139/spotv-c18c69.jpg"/>
   </programme>
   <programme channel="17139" start="20260417081500 +0000" stop="20260417093000 +0000">
-    <title lang="id">SBK FP1 : 2026 WorldSBK: Rd 3 Pirelli Dutch Round</title>
-    <desc lang="id">The FIM Superbike World Championship is the leading production motorcycle racing series in the world with over 100 riders from more than 20 countries competing in various classes over 12 rounds.</desc>
-    <icon src="https://thumbor.prod.vidiocdn.com/YBK8XRc1cWJx0JfM3CWo6PnTfFY=/287x162/filters:strip_icc():quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/image/17139/spotv-c18c69.jpg"/>
+    <title lang="id">WorldSBK Free Practice 1 - WorldSBK Championship 2026 Round 3 Pirelli Dutch Round</title>
+    <desc lang="id">Nonton streaming pertandingan seru WorldSBK Free Practice 1 - WorldSBK Championship 2026 Round 3 Pirelli Dutch Round. Saksikan aksi-aksi terbaik dari tim yang bersaing ketat untuk meraih kemenangan. Dapatkan informasi lengkap mengenai jadwal pertandingan dan hasil pertandingan terbaru hanya di Vidio.</desc>
+    <icon src="https://thumbor.prod.vidiocdn.com/EgmQ3FOnppZIZoREgov93hXBdq4=/287x162/filters:strip_icc():quality(70)/vidio-media-production/uploads/livestreaming/schedule/thumbnail/5015450/e29a66.jpg"/>
   </programme>
   <programme channel="17139" start="20260417093000 +0000" stop="20260417113000 +0000">
     <title lang="id">Melbourne Victory vs Newcastle Jets FC : 25/26 A-League Men Round 25</title>
@@ -24531,15 +24460,25 @@
     <desc lang="id">Elite runners and passionate amateurs take on the fast, scenic course in Ras Al-Khaimah, showcasing speed, stamina, and determination in this world-class half marathon.</desc>
     <icon src="https://thumbor.prod.vidiocdn.com/YBK8XRc1cWJx0JfM3CWo6PnTfFY=/287x162/filters:strip_icc():quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/image/17139/spotv-c18c69.jpg"/>
   </programme>
-  <programme channel="17139" start="20260417120500 +0000" stop="20260417145000 +0000">
-    <title lang="id">SPB Superpole/SBK FP2/SSP Superpole : 2026 WorldSBK: Rd 3 Pirelli Dutch Round</title>
-    <desc lang="id">The FIM Superbike World Championship is the leading production motorcycle racing series in the world with over 100 riders from more than 20 countries competing in various classes over 12 rounds.</desc>
-    <icon src="https://thumbor.prod.vidiocdn.com/YBK8XRc1cWJx0JfM3CWo6PnTfFY=/287x162/filters:strip_icc():quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/image/17139/spotv-c18c69.jpg"/>
+  <programme channel="17139" start="20260417120500 +0000" stop="20260417125500 +0000">
+    <title lang="id">WorldSPB - Superpole - WorldSBK Championship 2026 Round 3 Pirelli Dutch Round</title>
+    <desc lang="id">Nonton streaming pertandingan seru WorldSPB - Superpole - WorldSBK Championship 2026 Round 3 Pirelli Dutch Round. Saksikan aksi-aksi terbaik dari tim yang bersaing ketat untuk meraih kemenangan. Dapatkan informasi lengkap mengenai jadwal pertandingan dan hasil pertandingan terbaru hanya di Vidio.</desc>
+    <icon src="https://thumbor.prod.vidiocdn.com/-hxrtLnoqumo8VlWnR_asLKeyN4=/287x162/filters:strip_icc():quality(70)/vidio-media-production/uploads/livestreaming/schedule/thumbnail/5015451/643900.jpg"/>
+  </programme>
+  <programme channel="17139" start="20260417125500 +0000" stop="20260417135500 +0000">
+    <title lang="id">WorldSBK Free Practice 2 - WorldSBK Championship 2026 Round 3 Pirelli Dutch Round</title>
+    <desc lang="id">Nonton streaming pertandingan seru WorldSBK Free Practice 2 - WorldSBK Championship 2026 Round 3 Pirelli Dutch Round. Saksikan aksi-aksi terbaik dari tim yang bersaing ketat untuk meraih kemenangan. Dapatkan informasi lengkap mengenai jadwal pertandingan dan hasil pertandingan terbaru hanya di Vidio.</desc>
+    <icon src="https://thumbor.prod.vidiocdn.com/QWf0Ny3MCOVeqdrhDOUThAv9HgY=/287x162/filters:strip_icc():quality(70)/vidio-media-production/uploads/livestreaming/schedule/thumbnail/5015452/7920cf.jpg"/>
+  </programme>
+  <programme channel="17139" start="20260417135500 +0000" stop="20260417145000 +0000">
+    <title lang="id">WorldSSP Superpole - WorldSBK Championship 2026 Round 3 Pirelli Dutch Round</title>
+    <desc lang="id">Nonton streaming pertandingan seru WorldSSP Superpole - WorldSBK Championship 2026 Round 3 Pirelli Dutch Round. Saksikan aksi-aksi terbaik dari tim yang bersaing ketat untuk meraih kemenangan. Dapatkan informasi lengkap mengenai jadwal pertandingan dan hasil pertandingan terbaru hanya di Vidio.</desc>
+    <icon src="https://thumbor.prod.vidiocdn.com/pKmuDjbHPUrIZJmMzJrm0lNw7D0=/287x162/filters:strip_icc():quality(70)/vidio-media-production/uploads/livestreaming/schedule/thumbnail/5015453/e2d124.jpg"/>
   </programme>
   <programme channel="17139" start="20260417145000 +0000" stop="20260417153000 +0000">
-    <title lang="id">Tissot Superpole : 2026 WorldWCR: Rd 2 Pirelli Dutch Round</title>
-    <desc lang="id">The FIM Women's Circuit Racing World Championship, with six rounds in 2026, is a pioneering single-make series exclusively for aspiring female riders, featuring the Yamaha R7.</desc>
-    <icon src="https://thumbor.prod.vidiocdn.com/YBK8XRc1cWJx0JfM3CWo6PnTfFY=/287x162/filters:strip_icc():quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/image/17139/spotv-c18c69.jpg"/>
+    <title lang="id">WorldWCR Superpole - WorldSBK Championship 2026 Round 3 Pirelli Dutch Round</title>
+    <desc lang="id">Nonton streaming pertandingan seru WorldWCR Superpole - WorldSBK Championship 2026 Round 3 Pirelli Dutch Round. Saksikan aksi-aksi terbaik dari tim yang bersaing ketat untuk meraih kemenangan. Dapatkan informasi lengkap mengenai jadwal pertandingan dan hasil pertandingan terbaru hanya di Vidio.</desc>
+    <icon src="https://thumbor.prod.vidiocdn.com/EqfNBWY8YWGxD98Akq15k5txaMU=/287x162/filters:strip_icc():quality(70)/vidio-media-production/uploads/livestreaming/schedule/thumbnail/5015456/c965ad.jpg"/>
   </programme>
   <programme channel="17139" start="20260417153000 +0000" stop="20260417173000 +0000">
     <title lang="id">Al Okhdood vs Al Nassr : 25/26 ROSHN Saudi League MW 28</title>
@@ -24582,9 +24521,9 @@
     <icon src="https://thumbor.prod.vidiocdn.com/YBK8XRc1cWJx0JfM3CWo6PnTfFY=/287x162/filters:strip_icc():quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/image/17139/spotv-c18c69.jpg"/>
   </programme>
   <programme channel="17139" start="20260418073500 +0000" stop="20260418081000 +0000">
-    <title lang="id">SBK FP3 : 2026 WorldSBK: Rd 3 Pirelli Dutch Round</title>
-    <desc lang="id">The FIM Superbike World Championship is the leading production motorcycle racing series in the world with over 100 riders from more than 20 countries competing in various classes over 12 rounds.</desc>
-    <icon src="https://thumbor.prod.vidiocdn.com/YBK8XRc1cWJx0JfM3CWo6PnTfFY=/287x162/filters:strip_icc():quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/image/17139/spotv-c18c69.jpg"/>
+    <title lang="id">WorldSBK Free Practice 3 - WorldSBK Championship 2026 Round 3 Pirelli Dutch Round</title>
+    <desc lang="id">Nonton streaming pertandingan seru WorldSBK Free Practice 3 - WorldSBK Championship 2026 Round 3 Pirelli Dutch Round. Saksikan aksi-aksi terbaik dari tim yang bersaing ketat untuk meraih kemenangan. Dapatkan informasi lengkap mengenai jadwal pertandingan dan hasil pertandingan terbaru hanya di Vidio.</desc>
+    <icon src="https://thumbor.prod.vidiocdn.com/Bio8wLHnt-wHinLN6bORgc1uV20=/287x162/filters:strip_icc():quality(70)/vidio-media-production/uploads/livestreaming/schedule/thumbnail/5015489/05b23b.jpg"/>
   </programme>
   <programme channel="17139" start="20260418081000 +0000" stop="20260418090500 +0000">
     <title lang="id">: 2026 Fursan Cup Highlights</title>
@@ -24592,19 +24531,29 @@
     <icon src="https://thumbor.prod.vidiocdn.com/YBK8XRc1cWJx0JfM3CWo6PnTfFY=/287x162/filters:strip_icc():quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/image/17139/spotv-c18c69.jpg"/>
   </programme>
   <programme channel="17139" start="20260418090500 +0000" stop="20260418095000 +0000">
-    <title lang="id">SBK Tissot Superpole : 2026 WorldSBK: Rd 3 Pirelli Dutch Round</title>
-    <desc lang="id">The FIM Superbike World Championship is the leading production motorcycle racing series in the world with over 100 riders from more than 20 countries competing in various classes over 12 rounds.</desc>
-    <icon src="https://thumbor.prod.vidiocdn.com/YBK8XRc1cWJx0JfM3CWo6PnTfFY=/287x162/filters:strip_icc():quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/image/17139/spotv-c18c69.jpg"/>
+    <title lang="id">WorldSBK Tissot Superpole - WorldSBK Championship 2026 Round 3 Pirelli Dutch Round</title>
+    <desc lang="id">Nonton streaming pertandingan seru WorldSBK Tissot Superpole - WorldSBK Championship 2026 Round 3 Pirelli Dutch Round. Saksikan aksi-aksi terbaik dari tim yang bersaing ketat untuk meraih kemenangan. Dapatkan informasi lengkap mengenai jadwal pertandingan dan hasil pertandingan terbaru hanya di Vidio.</desc>
+    <icon src="https://thumbor.prod.vidiocdn.com/Rvf3SHZZfeiQmGPPN7Pdw5Z3bmw=/287x162/filters:strip_icc():quality(70)/vidio-media-production/uploads/livestreaming/schedule/thumbnail/5015491/c1f588.jpg"/>
   </programme>
   <programme channel="17139" start="20260418095000 +0000" stop="20260418105000 +0000">
-    <title lang="id">Race 1 : 2026 WorldWCR: Rd 2 Pirelli Dutch Round</title>
-    <desc lang="id">The FIM Women's Circuit Racing World Championship, with six rounds in 2026, is a pioneering single-make series exclusively for aspiring female riders, featuring the Yamaha R7.</desc>
-    <icon src="https://thumbor.prod.vidiocdn.com/YBK8XRc1cWJx0JfM3CWo6PnTfFY=/287x162/filters:strip_icc():quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/image/17139/spotv-c18c69.jpg"/>
+    <title lang="id">WorldWCR Race 1 - WorldSBK Championship 2026 Round 3 Pirelli Dutch Round</title>
+    <desc lang="id">Nonton streaming pertandingan seru WorldWCR Race 1 - WorldSBK Championship 2026 Round 3 Pirelli Dutch Round. Saksikan aksi-aksi terbaik dari tim yang bersaing ketat untuk meraih kemenangan. Dapatkan informasi lengkap mengenai jadwal pertandingan dan hasil pertandingan terbaru hanya di Vidio.</desc>
+    <icon src="https://thumbor.prod.vidiocdn.com/gSGG7yWNl7PqU8qHOC4K0taBpUQ=/287x162/filters:strip_icc():quality(70)/vidio-media-production/uploads/livestreaming/schedule/thumbnail/5015492/e33dfc.jpg"/>
   </programme>
-  <programme channel="17139" start="20260418105000 +0000" stop="20260418143000 +0000">
-    <title lang="id">SPB/SSP/SBK Race 1 : 2026 WorldSBK: Rd 3 Pirelli Dutch Round</title>
-    <desc lang="id">The FIM Superbike World Championship is the leading production motorcycle racing series in the world with over 100 riders from more than 20 countries competing in various classes over 12 rounds.</desc>
-    <icon src="https://thumbor.prod.vidiocdn.com/YBK8XRc1cWJx0JfM3CWo6PnTfFY=/287x162/filters:strip_icc():quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/image/17139/spotv-c18c69.jpg"/>
+  <programme channel="17139" start="20260418105000 +0000" stop="20260418120000 +0000">
+    <title lang="id">WorldSPB Race 1 - WorldSBK Championship 2026 Round 3 Pirelli Dutch Round</title>
+    <desc lang="id">Nonton streaming pertandingan seru WorldSPB Race 1 - WorldSBK Championship 2026 Round 3 Pirelli Dutch Round. Saksikan aksi-aksi terbaik dari tim yang bersaing ketat untuk meraih kemenangan. Dapatkan informasi lengkap mengenai jadwal pertandingan dan hasil pertandingan terbaru hanya di Vidio.</desc>
+    <icon src="https://thumbor.prod.vidiocdn.com/i-AeXUUBXpN6nW7_wDhE11RKvCE=/287x162/filters:strip_icc():quality(70)/vidio-media-production/uploads/livestreaming/schedule/thumbnail/5015493/7180be.jpg"/>
+  </programme>
+  <programme channel="17139" start="20260418120000 +0000" stop="20260418131000 +0000">
+    <title lang="id">WorldSSP Race 1 - WorldSBK Championship 2026 Round 3 Pirelli Dutch Round</title>
+    <desc lang="id">Nonton streaming pertandingan seru WorldSSP Race 1 - WorldSBK Championship 2026 Round 3 Pirelli Dutch Round. Saksikan aksi-aksi terbaik dari tim yang bersaing ketat untuk meraih kemenangan. Dapatkan informasi lengkap mengenai jadwal pertandingan dan hasil pertandingan terbaru hanya di Vidio.</desc>
+    <icon src="https://thumbor.prod.vidiocdn.com/Wygubt2LltOBRVW9glLJ6pwMKVg=/287x162/filters:strip_icc():quality(70)/vidio-media-production/uploads/livestreaming/schedule/thumbnail/5015495/82a067.jpg"/>
+  </programme>
+  <programme channel="17139" start="20260418131000 +0000" stop="20260418143000 +0000">
+    <title lang="id">WorldSBK Race 1 - WorldSBK Championship 2026 Round 3 Pirelli Dutch Round</title>
+    <desc lang="id">Nonton streaming pertandingan seru WorldSBK Race 1 - WorldSBK Championship 2026 Round 3 Pirelli Dutch Round. Saksikan aksi-aksi terbaik dari tim yang bersaing ketat untuk meraih kemenangan. Dapatkan informasi lengkap mengenai jadwal pertandingan dan hasil pertandingan terbaru hanya di Vidio.</desc>
+    <icon src="https://thumbor.prod.vidiocdn.com/ICnu8iSPXkCUoBH17HW9NLhWZA4=/287x162/filters:strip_icc():quality(70)/vidio-media-production/uploads/livestreaming/schedule/thumbnail/5015496/a85d9b.jpg"/>
   </programme>
   <programme channel="17139" start="20260418143000 +0000" stop="20260418163000 +0000">
     <title lang="id">Al Qadsiah vs Al Shabab : 25/26 ROSHN Saudi League MW 29</title>
@@ -24662,19 +24611,29 @@
     <icon src="https://thumbor.prod.vidiocdn.com/YBK8XRc1cWJx0JfM3CWo6PnTfFY=/287x162/filters:strip_icc():quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/image/17139/spotv-c18c69.jpg"/>
   </programme>
   <programme channel="17139" start="20260419085500 +0000" stop="20260419095000 +0000">
-    <title lang="id">SBK Tissot Superpole Race : 2026 WorldSBK: Rd 3 Pirelli Dutch Round</title>
-    <desc lang="id">The FIM Superbike World Championship is the leading production motorcycle racing series in the world with over 100 riders from more than 20 countries competing in various classes over 12 rounds.</desc>
-    <icon src="https://thumbor.prod.vidiocdn.com/YBK8XRc1cWJx0JfM3CWo6PnTfFY=/287x162/filters:strip_icc():quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/image/17139/spotv-c18c69.jpg"/>
+    <title lang="id">WorldSBK Tissot Superpole Race - WorldSBK Championship 2026 Round 3 Pirelli Dutch Round</title>
+    <desc lang="id">Nonton streaming pertandingan seru WorldSBK Tissot Superpole Race - WorldSBK Championship 2026 Round 3 Pirelli Dutch Round. Saksikan aksi-aksi terbaik dari tim yang bersaing ketat untuk meraih kemenangan. Dapatkan informasi lengkap mengenai jadwal pertandingan dan hasil pertandingan terbaru hanya di Vidio.</desc>
+    <icon src="https://thumbor.prod.vidiocdn.com/-j8a0DENM5132azlXyOk1ky8gXo=/287x162/filters:strip_icc():quality(70)/vidio-media-production/uploads/livestreaming/schedule/thumbnail/5015512/40ae41.jpg"/>
   </programme>
   <programme channel="17139" start="20260419095000 +0000" stop="20260419105000 +0000">
-    <title lang="id">Race 2 : 2026 WorldWCR: Rd 2 Pirelli Dutch Round</title>
-    <desc lang="id">The FIM Women's Circuit Racing World Championship, with six rounds in 2026, is a pioneering single-make series exclusively for aspiring female riders, featuring the Yamaha R7.</desc>
-    <icon src="https://thumbor.prod.vidiocdn.com/YBK8XRc1cWJx0JfM3CWo6PnTfFY=/287x162/filters:strip_icc():quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/image/17139/spotv-c18c69.jpg"/>
+    <title lang="id">WorldWCR Race 2 - WorldSBK Championship 2026 Round 3 Pirelli Dutch Round</title>
+    <desc lang="id">Nonton streaming pertandingan seru WorldWCR Race 2 - WorldSBK Championship 2026 Round 3 Pirelli Dutch Round. Saksikan aksi-aksi terbaik dari tim yang bersaing ketat untuk meraih kemenangan. Dapatkan informasi lengkap mengenai jadwal pertandingan dan hasil pertandingan terbaru hanya di Vidio.</desc>
+    <icon src="https://thumbor.prod.vidiocdn.com/CGeqk9rDgW1tybHkT1QNzuBv100=/287x162/filters:strip_icc():quality(70)/vidio-media-production/uploads/livestreaming/schedule/thumbnail/5015513/70d3d2.jpg"/>
   </programme>
-  <programme channel="17139" start="20260419105000 +0000" stop="20260419143000 +0000">
-    <title lang="id">SPB/SSP/SBK Race 2 : 2026 WorldSBK: Rd 3 Pirelli Dutch Round</title>
-    <desc lang="id">The FIM Superbike World Championship is the leading production motorcycle racing series in the world with over 100 riders from more than 20 countries competing in various classes over 12 rounds.</desc>
-    <icon src="https://thumbor.prod.vidiocdn.com/YBK8XRc1cWJx0JfM3CWo6PnTfFY=/287x162/filters:strip_icc():quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/image/17139/spotv-c18c69.jpg"/>
+  <programme channel="17139" start="20260419105000 +0000" stop="20260419120000 +0000">
+    <title lang="id">WorldSPB Race 2 - WorldSBK Championship 2026 Round 3 Pirelli Dutch Round</title>
+    <desc lang="id">Nonton streaming pertandingan seru WorldSPB Race 2 - WorldSBK Championship 2026 Round 3 Pirelli Dutch Round. Saksikan aksi-aksi terbaik dari tim yang bersaing ketat untuk meraih kemenangan. Dapatkan informasi lengkap mengenai jadwal pertandingan dan hasil pertandingan terbaru hanya di Vidio.</desc>
+    <icon src="https://thumbor.prod.vidiocdn.com/k_GgIopGKdjFeTdm3H7kj1PLWq8=/287x162/filters:strip_icc():quality(70)/vidio-media-production/uploads/livestreaming/schedule/thumbnail/5015514/d93718.jpg"/>
+  </programme>
+  <programme channel="17139" start="20260419120000 +0000" stop="20260419131000 +0000">
+    <title lang="id">WorldSSP Race 2 - WorldSBK Championship 2026 Round 3 Pirelli Dutch Round</title>
+    <desc lang="id">Nonton streaming pertandingan seru WorldSSP Race 2 - WorldSBK Championship 2026 Round 3 Pirelli Dutch Round. Saksikan aksi-aksi terbaik dari tim yang bersaing ketat untuk meraih kemenangan. Dapatkan informasi lengkap mengenai jadwal pertandingan dan hasil pertandingan terbaru hanya di Vidio.</desc>
+    <icon src="https://thumbor.prod.vidiocdn.com/61hOSTQWGRhFcbswU5ohYT72600=/287x162/filters:strip_icc():quality(70)/vidio-media-production/uploads/livestreaming/schedule/thumbnail/5015515/9caa33.jpg"/>
+  </programme>
+  <programme channel="17139" start="20260419131000 +0000" stop="20260419143000 +0000">
+    <title lang="id">WorldSBK Race 2 - WorldSBK Championship 2026 Round 3 Pirelli Dutch Round</title>
+    <desc lang="id">Nonton streaming pertandingan seru WorldSBK Race 2 - WorldSBK Championship 2026 Round 3 Pirelli Dutch Round. Saksikan aksi-aksi terbaik dari tim yang bersaing ketat untuk meraih kemenangan. Dapatkan informasi lengkap mengenai jadwal pertandingan dan hasil pertandingan terbaru hanya di Vidio.</desc>
+    <icon src="https://thumbor.prod.vidiocdn.com/nlfrjeoAixxr-VhvCwDrGRn6IDY=/287x162/filters:strip_icc():quality(70)/vidio-media-production/uploads/livestreaming/schedule/thumbnail/5015516/600cca.jpg"/>
   </programme>
   <programme channel="17139" start="20260419143000 +0000" stop="20260419153000 +0000">
     <title lang="id">: Jim Nantz Remembers: Rory McIlroy's Masterpiece</title>

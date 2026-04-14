@@ -6667,154 +6667,154 @@
 <programme start="20260414090000 +0000" stop="20260414093000 +0000" channel="NHK World Premium.mncvision">
     <title>News</title>
 </programme>
-<programme start="20260413172000 +0000" stop="20260413173000 +0000" channel="Nick Jr. HD.mncvision">
+<programme start="20260413170500 +0000" stop="20260413171000 +0000" channel="Nick Jr. HD.mncvision">
+    <title>Peppa Pig</title>
+</programme>
+<programme start="20260413171000 +0000" stop="20260413171500 +0000" channel="Nick Jr. HD.mncvision">
+    <title>Peppa Pig</title>
+</programme>
+<programme start="20260413171500 +0000" stop="20260413172000 +0000" channel="Nick Jr. HD.mncvision">
+    <title>Peppa Pig</title>
+</programme>
+<programme start="20260413172000 +0000" stop="20260413172500 +0000" channel="Nick Jr. HD.mncvision">
+    <title>Peppa Pig</title>
+</programme>
+<programme start="20260413172500 +0000" stop="20260413173000 +0000" channel="Nick Jr. HD.mncvision">
+    <title>Peppa Pig</title>
+</programme>
+<programme start="20260413173000 +0000" stop="20260413175000 +0000" channel="Nick Jr. HD.mncvision">
     <title>Barbapapa: Big Happy Family!</title>
 </programme>
-<programme start="20260413173000 +0000" stop="20260413174000 +0000" channel="Nick Jr. HD.mncvision">
-    <title>Tim Rex In Space</title>
-</programme>
-<programme start="20260413174000 +0000" stop="20260413174500 +0000" channel="Nick Jr. HD.mncvision">
-    <title>Tim Rex In Space</title>
-</programme>
-<programme start="20260413174500 +0000" stop="20260413175000 +0000" channel="Nick Jr. HD.mncvision">
-    <title>Tim Rex In Space</title>
-</programme>
-<programme start="20260413175000 +0000" stop="20260413180500 +0000" channel="Nick Jr. HD.mncvision">
-    <title>Tim Rex In Space</title>
-</programme>
-<programme start="20260413180500 +0000" stop="20260413181000 +0000" channel="Nick Jr. HD.mncvision">
-    <title>Peppa Pig</title>
-</programme>
-<programme start="20260413181000 +0000" stop="20260413181500 +0000" channel="Nick Jr. HD.mncvision">
-    <title>Peppa Pig</title>
-</programme>
-<programme start="20260413181500 +0000" stop="20260413182000 +0000" channel="Nick Jr. HD.mncvision">
-    <title>Peppa Pig</title>
-</programme>
-<programme start="20260413182000 +0000" stop="20260413182500 +0000" channel="Nick Jr. HD.mncvision">
-    <title>Peppa Pig</title>
-</programme>
-<programme start="20260413182500 +0000" stop="20260413183000 +0000" channel="Nick Jr. HD.mncvision">
-    <title>Peppa Pig</title>
-</programme>
-<programme start="20260413183000 +0000" stop="20260413185000 +0000" channel="Nick Jr. HD.mncvision">
+<programme start="20260413175000 +0000" stop="20260413182500 +0000" channel="Nick Jr. HD.mncvision">
     <title>Barbapapa: Big Happy Family!</title>
 </programme>
-<programme start="20260413185000 +0000" stop="20260413192500 +0000" channel="Nick Jr. HD.mncvision">
-    <title>Barbapapa: Big Happy Family!</title>
-</programme>
-<programme start="20260413192500 +0000" stop="20260413194500 +0000" channel="Nick Jr. HD.mncvision">
+<programme start="20260413182500 +0000" stop="20260413184500 +0000" channel="Nick Jr. HD.mncvision">
     <title>PAW Patrol</title>
 </programme>
-<programme start="20260413194500 +0000" stop="20260413202000 +0000" channel="Nick Jr. HD.mncvision">
+<programme start="20260413184500 +0000" stop="20260413192000 +0000" channel="Nick Jr. HD.mncvision">
     <title>PAW Patrol</title>
 </programme>
-<programme start="20260413202000 +0000" stop="20260413204500 +0000" channel="Nick Jr. HD.mncvision">
+<programme start="20260413192000 +0000" stop="20260413194500 +0000" channel="Nick Jr. HD.mncvision">
     <title>Rubble &amp; Crew</title>
 </programme>
-<programme start="20260413204500 +0000" stop="20260413210500 +0000" channel="Nick Jr. HD.mncvision">
+<programme start="20260413194500 +0000" stop="20260413200500 +0000" channel="Nick Jr. HD.mncvision">
     <title>Dora</title>
 </programme>
-<programme start="20260413210500 +0000" stop="20260413212500 +0000" channel="Nick Jr. HD.mncvision">
+<programme start="20260413200500 +0000" stop="20260413202500 +0000" channel="Nick Jr. HD.mncvision">
     <title>Dora</title>
 </programme>
-<programme start="20260413212500 +0000" stop="20260413215000 +0000" channel="Nick Jr. HD.mncvision">
+<programme start="20260413202500 +0000" stop="20260413205000 +0000" channel="Nick Jr. HD.mncvision">
     <title>Barbapapa: Big Happy Family!</title>
 </programme>
-<programme start="20260413215000 +0000" stop="20260413221000 +0000" channel="Nick Jr. HD.mncvision">
+<programme start="20260413205000 +0000" stop="20260413211000 +0000" channel="Nick Jr. HD.mncvision">
     <title>Barbapapa: Big Happy Family!</title>
 </programme>
-<programme start="20260413221000 +0000" stop="20260413223500 +0000" channel="Nick Jr. HD.mncvision">
+<programme start="20260413211000 +0000" stop="20260413213500 +0000" channel="Nick Jr. HD.mncvision">
     <title>Barbapapa: Big Happy Family!</title>
 </programme>
-<programme start="20260413223500 +0000" stop="20260413225500 +0000" channel="Nick Jr. HD.mncvision">
+<programme start="20260413213500 +0000" stop="20260413215500 +0000" channel="Nick Jr. HD.mncvision">
     <title>Barbapapa: Big Happy Family!</title>
 </programme>
-<programme start="20260413225500 +0000" stop="20260413232000 +0000" channel="Nick Jr. HD.mncvision">
+<programme start="20260413215500 +0000" stop="20260413222000 +0000" channel="Nick Jr. HD.mncvision">
     <title>Barbapapa: Big Happy Family!</title>
 </programme>
-<programme start="20260413232000 +0000" stop="20260413234000 +0000" channel="Nick Jr. HD.mncvision">
+<programme start="20260413222000 +0000" stop="20260413224000 +0000" channel="Nick Jr. HD.mncvision">
     <title>Rubble &amp; Crew</title>
 </programme>
-<programme start="20260413234000 +0000" stop="20260414000500 +0000" channel="Nick Jr. HD.mncvision">
+<programme start="20260413224000 +0000" stop="20260413230500 +0000" channel="Nick Jr. HD.mncvision">
     <title>Rubble &amp; Crew</title>
 </programme>
-<programme start="20260414000500 +0000" stop="20260414002500 +0000" channel="Nick Jr. HD.mncvision">
+<programme start="20260413230500 +0000" stop="20260413232500 +0000" channel="Nick Jr. HD.mncvision">
     <title>PAW Patrol</title>
 </programme>
-<programme start="20260414002500 +0000" stop="20260414005000 +0000" channel="Nick Jr. HD.mncvision">
+<programme start="20260413232500 +0000" stop="20260413235000 +0000" channel="Nick Jr. HD.mncvision">
     <title>PAW Patrol</title>
 </programme>
-<programme start="20260414005000 +0000" stop="20260414011000 +0000" channel="Nick Jr. HD.mncvision">
+<programme start="20260413235000 +0000" stop="20260414001000 +0000" channel="Nick Jr. HD.mncvision">
     <title>Barbapapa: Big Happy Family!</title>
 </programme>
-<programme start="20260414011000 +0000" stop="20260414013500 +0000" channel="Nick Jr. HD.mncvision">
+<programme start="20260414001000 +0000" stop="20260414003500 +0000" channel="Nick Jr. HD.mncvision">
     <title>Barbapapa: Big Happy Family!</title>
 </programme>
-<programme start="20260414013500 +0000" stop="20260414014000 +0000" channel="Nick Jr. HD.mncvision">
+<programme start="20260414003500 +0000" stop="20260414004000 +0000" channel="Nick Jr. HD.mncvision">
     <title>Tim Rex In Space</title>
 </programme>
-<programme start="20260414014000 +0000" stop="20260414015000 +0000" channel="Nick Jr. HD.mncvision">
+<programme start="20260414004000 +0000" stop="20260414005000 +0000" channel="Nick Jr. HD.mncvision">
     <title>Tim Rex In Space</title>
 </programme>
-<programme start="20260414015000 +0000" stop="20260414015500 +0000" channel="Nick Jr. HD.mncvision">
+<programme start="20260414005000 +0000" stop="20260414005500 +0000" channel="Nick Jr. HD.mncvision">
     <title>Tim Rex In Space</title>
 </programme>
-<programme start="20260414015500 +0000" stop="20260414022000 +0000" channel="Nick Jr. HD.mncvision">
+<programme start="20260414005500 +0000" stop="20260414012000 +0000" channel="Nick Jr. HD.mncvision">
     <title>Rubble &amp; Crew</title>
 </programme>
-<programme start="20260414022000 +0000" stop="20260414024500 +0000" channel="Nick Jr. HD.mncvision">
+<programme start="20260414012000 +0000" stop="20260414014500 +0000" channel="Nick Jr. HD.mncvision">
     <title>Rubble &amp; Crew</title>
 </programme>
-<programme start="20260414024500 +0000" stop="20260414030500 +0000" channel="Nick Jr. HD.mncvision">
+<programme start="20260414014500 +0000" stop="20260414020500 +0000" channel="Nick Jr. HD.mncvision">
     <title>Dora</title>
 </programme>
-<programme start="20260414030500 +0000" stop="20260414033000 +0000" channel="Nick Jr. HD.mncvision">
+<programme start="20260414020500 +0000" stop="20260414023000 +0000" channel="Nick Jr. HD.mncvision">
     <title>Blaze &amp; The Monster Machines</title>
 </programme>
-<programme start="20260414033000 +0000" stop="20260414035000 +0000" channel="Nick Jr. HD.mncvision">
+<programme start="20260414023000 +0000" stop="20260414025000 +0000" channel="Nick Jr. HD.mncvision">
     <title>Mr. Crocodile</title>
 </programme>
-<programme start="20260414035000 +0000" stop="20260414041500 +0000" channel="Nick Jr. HD.mncvision">
+<programme start="20260414025000 +0000" stop="20260414031500 +0000" channel="Nick Jr. HD.mncvision">
     <title>Barbapapa: Big Happy Family!</title>
 </programme>
-<programme start="20260414041500 +0000" stop="20260414043500 +0000" channel="Nick Jr. HD.mncvision">
+<programme start="20260414031500 +0000" stop="20260414033500 +0000" channel="Nick Jr. HD.mncvision">
     <title>Barbapapa: Big Happy Family!</title>
 </programme>
-<programme start="20260414043500 +0000" stop="20260414052000 +0000" channel="Nick Jr. HD.mncvision">
+<programme start="20260414033500 +0000" stop="20260414042000 +0000" channel="Nick Jr. HD.mncvision">
     <title>Tim Rex In Space</title>
 </programme>
-<programme start="20260414052000 +0000" stop="20260414054500 +0000" channel="Nick Jr. HD.mncvision">
+<programme start="20260414042000 +0000" stop="20260414044500 +0000" channel="Nick Jr. HD.mncvision">
     <title>Blaze &amp; The Monster Machines</title>
 </programme>
-<programme start="20260414054500 +0000" stop="20260414060500 +0000" channel="Nick Jr. HD.mncvision">
+<programme start="20260414044500 +0000" stop="20260414050500 +0000" channel="Nick Jr. HD.mncvision">
     <title>Rubble &amp; Crew</title>
 </programme>
-<programme start="20260414060500 +0000" stop="20260414063000 +0000" channel="Nick Jr. HD.mncvision">
+<programme start="20260414050500 +0000" stop="20260414053000 +0000" channel="Nick Jr. HD.mncvision">
     <title>Rubble &amp; Crew</title>
 </programme>
-<programme start="20260414063000 +0000" stop="20260414065000 +0000" channel="Nick Jr. HD.mncvision">
+<programme start="20260414053000 +0000" stop="20260414055000 +0000" channel="Nick Jr. HD.mncvision">
     <title>PAW Patrol</title>
 </programme>
-<programme start="20260414065000 +0000" stop="20260414071500 +0000" channel="Nick Jr. HD.mncvision">
+<programme start="20260414055000 +0000" stop="20260414061500 +0000" channel="Nick Jr. HD.mncvision">
     <title>PAW Patrol</title>
 </programme>
-<programme start="20260414071500 +0000" stop="20260414073500 +0000" channel="Nick Jr. HD.mncvision">
+<programme start="20260414061500 +0000" stop="20260414063500 +0000" channel="Nick Jr. HD.mncvision">
     <title>Dora</title>
 </programme>
-<programme start="20260414073500 +0000" stop="20260414075000 +0000" channel="Nick Jr. HD.mncvision">
+<programme start="20260414063500 +0000" stop="20260414065000 +0000" channel="Nick Jr. HD.mncvision">
     <title>Dora</title>
 </programme>
-<programme start="20260414075000 +0000" stop="20260414075500 +0000" channel="Nick Jr. HD.mncvision">
+<programme start="20260414065000 +0000" stop="20260414065500 +0000" channel="Nick Jr. HD.mncvision">
     <title>Tim Rex In Space</title>
 </programme>
-<programme start="20260414075500 +0000" stop="20260414080500 +0000" channel="Nick Jr. HD.mncvision">
+<programme start="20260414065500 +0000" stop="20260414070500 +0000" channel="Nick Jr. HD.mncvision">
     <title>Tim Rex In Space</title>
 </programme>
-<programme start="20260414080500 +0000" stop="20260414081000 +0000" channel="Nick Jr. HD.mncvision">
+<programme start="20260414070500 +0000" stop="20260414071000 +0000" channel="Nick Jr. HD.mncvision">
     <title>Tim Rex In Space</title>
 </programme>
-<programme start="20260414081000 +0000" stop="20260414084000 +0000" channel="Nick Jr. HD.mncvision">
+<programme start="20260414071000 +0000" stop="20260414071500 +0000" channel="Nick Jr. HD.mncvision">
+    <title>Peppa Pig</title>
+</programme>
+<programme start="20260414071500 +0000" stop="20260414072000 +0000" channel="Nick Jr. HD.mncvision">
+    <title>Peppa Pig</title>
+</programme>
+<programme start="20260414072000 +0000" stop="20260414072500 +0000" channel="Nick Jr. HD.mncvision">
+    <title>Peppa Pig</title>
+</programme>
+<programme start="20260414072500 +0000" stop="20260414073000 +0000" channel="Nick Jr. HD.mncvision">
+    <title>Peppa Pig</title>
+</programme>
+<programme start="20260414073000 +0000" stop="20260414073500 +0000" channel="Nick Jr. HD.mncvision">
+    <title>Peppa Pig</title>
+</programme>
+<programme start="20260414073500 +0000" stop="20260414080500 +0000" channel="Nick Jr. HD.mncvision">
     <title>Peppa Pig</title>
 </programme>
 <programme start="20260413170000 +0000" stop="20260413172500 +0000" channel="Nickelodeon.mncvision">
@@ -6967,154 +6967,154 @@
 <programme start="20260414103500 +0000" stop="20260414110500 +0000" channel="Nickelodeon.mncvision">
     <title>Victorious</title>
 </programme>
-<programme start="20260413172000 +0000" stop="20260413173000 +0000" channel="Nickelodeon Jr.mncvision">
+<programme start="20260413170500 +0000" stop="20260413171000 +0000" channel="Nickelodeon Jr.mncvision">
+    <title>Peppa Pig</title>
+</programme>
+<programme start="20260413171000 +0000" stop="20260413171500 +0000" channel="Nickelodeon Jr.mncvision">
+    <title>Peppa Pig</title>
+</programme>
+<programme start="20260413171500 +0000" stop="20260413172000 +0000" channel="Nickelodeon Jr.mncvision">
+    <title>Peppa Pig</title>
+</programme>
+<programme start="20260413172000 +0000" stop="20260413172500 +0000" channel="Nickelodeon Jr.mncvision">
+    <title>Peppa Pig</title>
+</programme>
+<programme start="20260413172500 +0000" stop="20260413173000 +0000" channel="Nickelodeon Jr.mncvision">
+    <title>Peppa Pig</title>
+</programme>
+<programme start="20260413173000 +0000" stop="20260413175000 +0000" channel="Nickelodeon Jr.mncvision">
     <title>Barbapapa: Big Happy Family!</title>
 </programme>
-<programme start="20260413173000 +0000" stop="20260413174000 +0000" channel="Nickelodeon Jr.mncvision">
-    <title>Tim Rex In Space</title>
-</programme>
-<programme start="20260413174000 +0000" stop="20260413174500 +0000" channel="Nickelodeon Jr.mncvision">
-    <title>Tim Rex In Space</title>
-</programme>
-<programme start="20260413174500 +0000" stop="20260413175000 +0000" channel="Nickelodeon Jr.mncvision">
-    <title>Tim Rex In Space</title>
-</programme>
-<programme start="20260413175000 +0000" stop="20260413180500 +0000" channel="Nickelodeon Jr.mncvision">
-    <title>Tim Rex In Space</title>
-</programme>
-<programme start="20260413180500 +0000" stop="20260413181000 +0000" channel="Nickelodeon Jr.mncvision">
-    <title>Peppa Pig</title>
-</programme>
-<programme start="20260413181000 +0000" stop="20260413181500 +0000" channel="Nickelodeon Jr.mncvision">
-    <title>Peppa Pig</title>
-</programme>
-<programme start="20260413181500 +0000" stop="20260413182000 +0000" channel="Nickelodeon Jr.mncvision">
-    <title>Peppa Pig</title>
-</programme>
-<programme start="20260413182000 +0000" stop="20260413182500 +0000" channel="Nickelodeon Jr.mncvision">
-    <title>Peppa Pig</title>
-</programme>
-<programme start="20260413182500 +0000" stop="20260413183000 +0000" channel="Nickelodeon Jr.mncvision">
-    <title>Peppa Pig</title>
-</programme>
-<programme start="20260413183000 +0000" stop="20260413185000 +0000" channel="Nickelodeon Jr.mncvision">
+<programme start="20260413175000 +0000" stop="20260413182500 +0000" channel="Nickelodeon Jr.mncvision">
     <title>Barbapapa: Big Happy Family!</title>
 </programme>
-<programme start="20260413185000 +0000" stop="20260413192500 +0000" channel="Nickelodeon Jr.mncvision">
-    <title>Barbapapa: Big Happy Family!</title>
-</programme>
-<programme start="20260413192500 +0000" stop="20260413194500 +0000" channel="Nickelodeon Jr.mncvision">
+<programme start="20260413182500 +0000" stop="20260413184500 +0000" channel="Nickelodeon Jr.mncvision">
     <title>PAW Patrol</title>
 </programme>
-<programme start="20260413194500 +0000" stop="20260413202000 +0000" channel="Nickelodeon Jr.mncvision">
+<programme start="20260413184500 +0000" stop="20260413192000 +0000" channel="Nickelodeon Jr.mncvision">
     <title>PAW Patrol</title>
 </programme>
-<programme start="20260413202000 +0000" stop="20260413204500 +0000" channel="Nickelodeon Jr.mncvision">
+<programme start="20260413192000 +0000" stop="20260413194500 +0000" channel="Nickelodeon Jr.mncvision">
     <title>Rubble &amp; Crew</title>
 </programme>
-<programme start="20260413204500 +0000" stop="20260413210500 +0000" channel="Nickelodeon Jr.mncvision">
+<programme start="20260413194500 +0000" stop="20260413200500 +0000" channel="Nickelodeon Jr.mncvision">
     <title>Dora</title>
 </programme>
-<programme start="20260413210500 +0000" stop="20260413212500 +0000" channel="Nickelodeon Jr.mncvision">
+<programme start="20260413200500 +0000" stop="20260413202500 +0000" channel="Nickelodeon Jr.mncvision">
     <title>Dora</title>
 </programme>
-<programme start="20260413212500 +0000" stop="20260413215000 +0000" channel="Nickelodeon Jr.mncvision">
+<programme start="20260413202500 +0000" stop="20260413205000 +0000" channel="Nickelodeon Jr.mncvision">
     <title>Barbapapa: Big Happy Family!</title>
 </programme>
-<programme start="20260413215000 +0000" stop="20260413221000 +0000" channel="Nickelodeon Jr.mncvision">
+<programme start="20260413205000 +0000" stop="20260413211000 +0000" channel="Nickelodeon Jr.mncvision">
     <title>Barbapapa: Big Happy Family!</title>
 </programme>
-<programme start="20260413221000 +0000" stop="20260413223500 +0000" channel="Nickelodeon Jr.mncvision">
+<programme start="20260413211000 +0000" stop="20260413213500 +0000" channel="Nickelodeon Jr.mncvision">
     <title>Barbapapa: Big Happy Family!</title>
 </programme>
-<programme start="20260413223500 +0000" stop="20260413225500 +0000" channel="Nickelodeon Jr.mncvision">
+<programme start="20260413213500 +0000" stop="20260413215500 +0000" channel="Nickelodeon Jr.mncvision">
     <title>Barbapapa: Big Happy Family!</title>
 </programme>
-<programme start="20260413225500 +0000" stop="20260413232000 +0000" channel="Nickelodeon Jr.mncvision">
+<programme start="20260413215500 +0000" stop="20260413222000 +0000" channel="Nickelodeon Jr.mncvision">
     <title>Barbapapa: Big Happy Family!</title>
 </programme>
-<programme start="20260413232000 +0000" stop="20260413234000 +0000" channel="Nickelodeon Jr.mncvision">
+<programme start="20260413222000 +0000" stop="20260413224000 +0000" channel="Nickelodeon Jr.mncvision">
     <title>Rubble &amp; Crew</title>
 </programme>
-<programme start="20260413234000 +0000" stop="20260414000500 +0000" channel="Nickelodeon Jr.mncvision">
+<programme start="20260413224000 +0000" stop="20260413230500 +0000" channel="Nickelodeon Jr.mncvision">
     <title>Rubble &amp; Crew</title>
 </programme>
-<programme start="20260414000500 +0000" stop="20260414002500 +0000" channel="Nickelodeon Jr.mncvision">
+<programme start="20260413230500 +0000" stop="20260413232500 +0000" channel="Nickelodeon Jr.mncvision">
     <title>PAW Patrol</title>
 </programme>
-<programme start="20260414002500 +0000" stop="20260414005000 +0000" channel="Nickelodeon Jr.mncvision">
+<programme start="20260413232500 +0000" stop="20260413235000 +0000" channel="Nickelodeon Jr.mncvision">
     <title>PAW Patrol</title>
 </programme>
-<programme start="20260414005000 +0000" stop="20260414011000 +0000" channel="Nickelodeon Jr.mncvision">
+<programme start="20260413235000 +0000" stop="20260414001000 +0000" channel="Nickelodeon Jr.mncvision">
     <title>Barbapapa: Big Happy Family!</title>
 </programme>
-<programme start="20260414011000 +0000" stop="20260414013500 +0000" channel="Nickelodeon Jr.mncvision">
+<programme start="20260414001000 +0000" stop="20260414003500 +0000" channel="Nickelodeon Jr.mncvision">
     <title>Barbapapa: Big Happy Family!</title>
 </programme>
-<programme start="20260414013500 +0000" stop="20260414014000 +0000" channel="Nickelodeon Jr.mncvision">
+<programme start="20260414003500 +0000" stop="20260414004000 +0000" channel="Nickelodeon Jr.mncvision">
     <title>Tim Rex In Space</title>
 </programme>
-<programme start="20260414014000 +0000" stop="20260414015000 +0000" channel="Nickelodeon Jr.mncvision">
+<programme start="20260414004000 +0000" stop="20260414005000 +0000" channel="Nickelodeon Jr.mncvision">
     <title>Tim Rex In Space</title>
 </programme>
-<programme start="20260414015000 +0000" stop="20260414015500 +0000" channel="Nickelodeon Jr.mncvision">
+<programme start="20260414005000 +0000" stop="20260414005500 +0000" channel="Nickelodeon Jr.mncvision">
     <title>Tim Rex In Space</title>
 </programme>
-<programme start="20260414015500 +0000" stop="20260414022000 +0000" channel="Nickelodeon Jr.mncvision">
+<programme start="20260414005500 +0000" stop="20260414012000 +0000" channel="Nickelodeon Jr.mncvision">
     <title>Rubble &amp; Crew</title>
 </programme>
-<programme start="20260414022000 +0000" stop="20260414024500 +0000" channel="Nickelodeon Jr.mncvision">
+<programme start="20260414012000 +0000" stop="20260414014500 +0000" channel="Nickelodeon Jr.mncvision">
     <title>Rubble &amp; Crew</title>
 </programme>
-<programme start="20260414024500 +0000" stop="20260414030500 +0000" channel="Nickelodeon Jr.mncvision">
+<programme start="20260414014500 +0000" stop="20260414020500 +0000" channel="Nickelodeon Jr.mncvision">
     <title>Dora</title>
 </programme>
-<programme start="20260414030500 +0000" stop="20260414033000 +0000" channel="Nickelodeon Jr.mncvision">
+<programme start="20260414020500 +0000" stop="20260414023000 +0000" channel="Nickelodeon Jr.mncvision">
     <title>Blaze &amp; The Monster Machines</title>
 </programme>
-<programme start="20260414033000 +0000" stop="20260414035000 +0000" channel="Nickelodeon Jr.mncvision">
+<programme start="20260414023000 +0000" stop="20260414025000 +0000" channel="Nickelodeon Jr.mncvision">
     <title>Mr. Crocodile</title>
 </programme>
-<programme start="20260414035000 +0000" stop="20260414041500 +0000" channel="Nickelodeon Jr.mncvision">
+<programme start="20260414025000 +0000" stop="20260414031500 +0000" channel="Nickelodeon Jr.mncvision">
     <title>Barbapapa: Big Happy Family!</title>
 </programme>
-<programme start="20260414041500 +0000" stop="20260414043500 +0000" channel="Nickelodeon Jr.mncvision">
+<programme start="20260414031500 +0000" stop="20260414033500 +0000" channel="Nickelodeon Jr.mncvision">
     <title>Barbapapa: Big Happy Family!</title>
 </programme>
-<programme start="20260414043500 +0000" stop="20260414052000 +0000" channel="Nickelodeon Jr.mncvision">
+<programme start="20260414033500 +0000" stop="20260414042000 +0000" channel="Nickelodeon Jr.mncvision">
     <title>Tim Rex In Space</title>
 </programme>
-<programme start="20260414052000 +0000" stop="20260414054500 +0000" channel="Nickelodeon Jr.mncvision">
+<programme start="20260414042000 +0000" stop="20260414044500 +0000" channel="Nickelodeon Jr.mncvision">
     <title>Blaze &amp; The Monster Machines</title>
 </programme>
-<programme start="20260414054500 +0000" stop="20260414060500 +0000" channel="Nickelodeon Jr.mncvision">
+<programme start="20260414044500 +0000" stop="20260414050500 +0000" channel="Nickelodeon Jr.mncvision">
     <title>Rubble &amp; Crew</title>
 </programme>
-<programme start="20260414060500 +0000" stop="20260414063000 +0000" channel="Nickelodeon Jr.mncvision">
+<programme start="20260414050500 +0000" stop="20260414053000 +0000" channel="Nickelodeon Jr.mncvision">
     <title>Rubble &amp; Crew</title>
 </programme>
-<programme start="20260414063000 +0000" stop="20260414065000 +0000" channel="Nickelodeon Jr.mncvision">
+<programme start="20260414053000 +0000" stop="20260414055000 +0000" channel="Nickelodeon Jr.mncvision">
     <title>PAW Patrol</title>
 </programme>
-<programme start="20260414065000 +0000" stop="20260414071500 +0000" channel="Nickelodeon Jr.mncvision">
+<programme start="20260414055000 +0000" stop="20260414061500 +0000" channel="Nickelodeon Jr.mncvision">
     <title>PAW Patrol</title>
 </programme>
-<programme start="20260414071500 +0000" stop="20260414073500 +0000" channel="Nickelodeon Jr.mncvision">
+<programme start="20260414061500 +0000" stop="20260414063500 +0000" channel="Nickelodeon Jr.mncvision">
     <title>Dora</title>
 </programme>
-<programme start="20260414073500 +0000" stop="20260414075000 +0000" channel="Nickelodeon Jr.mncvision">
+<programme start="20260414063500 +0000" stop="20260414065000 +0000" channel="Nickelodeon Jr.mncvision">
     <title>Dora</title>
 </programme>
-<programme start="20260414075000 +0000" stop="20260414075500 +0000" channel="Nickelodeon Jr.mncvision">
+<programme start="20260414065000 +0000" stop="20260414065500 +0000" channel="Nickelodeon Jr.mncvision">
     <title>Tim Rex In Space</title>
 </programme>
-<programme start="20260414075500 +0000" stop="20260414080500 +0000" channel="Nickelodeon Jr.mncvision">
+<programme start="20260414065500 +0000" stop="20260414070500 +0000" channel="Nickelodeon Jr.mncvision">
     <title>Tim Rex In Space</title>
 </programme>
-<programme start="20260414080500 +0000" stop="20260414081000 +0000" channel="Nickelodeon Jr.mncvision">
+<programme start="20260414070500 +0000" stop="20260414071000 +0000" channel="Nickelodeon Jr.mncvision">
     <title>Tim Rex In Space</title>
 </programme>
-<programme start="20260414081000 +0000" stop="20260414084000 +0000" channel="Nickelodeon Jr.mncvision">
+<programme start="20260414071000 +0000" stop="20260414071500 +0000" channel="Nickelodeon Jr.mncvision">
+    <title>Peppa Pig</title>
+</programme>
+<programme start="20260414071500 +0000" stop="20260414072000 +0000" channel="Nickelodeon Jr.mncvision">
+    <title>Peppa Pig</title>
+</programme>
+<programme start="20260414072000 +0000" stop="20260414072500 +0000" channel="Nickelodeon Jr.mncvision">
+    <title>Peppa Pig</title>
+</programme>
+<programme start="20260414072500 +0000" stop="20260414073000 +0000" channel="Nickelodeon Jr.mncvision">
+    <title>Peppa Pig</title>
+</programme>
+<programme start="20260414073000 +0000" stop="20260414073500 +0000" channel="Nickelodeon Jr.mncvision">
+    <title>Peppa Pig</title>
+</programme>
+<programme start="20260414073500 +0000" stop="20260414080500 +0000" channel="Nickelodeon Jr.mncvision">
     <title>Peppa Pig</title>
 </programme>
 <programme start="20260413180000 +0000" stop="20260413191500 +0000" channel="ONE.mncvision">
@@ -7302,6 +7302,108 @@
 </programme>
 <programme start="20260414165600 +0000" stop="20260413172600 +0000" channel="ORIGINALS HD.mncvision">
     <title>A Perfect Plan</title>
+</programme>
+<programme start="20260413170000 +0000" stop="20260413180000 +0000" channel="Outdoor Channel.mncvision">
+    <title>Bear Grylls: Survive S1, Ep 2</title>
+</programme>
+<programme start="20260413180000 +0000" stop="20260413190000 +0000" channel="Outdoor Channel.mncvision">
+    <title>Get Out Alive S1, Ep 3</title>
+</programme>
+<programme start="20260413190000 +0000" stop="20260413193000 +0000" channel="Outdoor Channel.mncvision">
+    <title>Jack Stein: In The Box, Ep 3</title>
+</programme>
+<programme start="20260413193000 +0000" stop="20260413200000 +0000" channel="Outdoor Channel.mncvision">
+    <title>Jack Stein: In The Box, Ep 4</title>
+</programme>
+<programme start="20260413200000 +0000" stop="20260413203000 +0000" channel="Outdoor Channel.mncvision">
+    <title>Jade Fever S6, Ep 1</title>
+</programme>
+<programme start="20260413203000 +0000" stop="20260413210000 +0000" channel="Outdoor Channel.mncvision">
+    <title>Jade Fever S6, Ep 2</title>
+</programme>
+<programme start="20260413210000 +0000" stop="20260413213000 +0000" channel="Outdoor Channel.mncvision">
+    <title>Jade Fever S6, Ep 3</title>
+</programme>
+<programme start="20260413213000 +0000" stop="20260413220000 +0000" channel="Outdoor Channel.mncvision">
+    <title>Jade Fever S6, Ep 4</title>
+</programme>
+<programme start="20260413220000 +0000" stop="20260413230000 +0000" channel="Outdoor Channel.mncvision">
+    <title>Bear Grylls: Survive S1, Ep 1</title>
+</programme>
+<programme start="20260413230000 +0000" stop="20260414000000 +0000" channel="Outdoor Channel.mncvision">
+    <title>Bear Grylls: Survive S1, Ep 2</title>
+</programme>
+<programme start="20260414000000 +0000" stop="20260414010000 +0000" channel="Outdoor Channel.mncvision">
+    <title>Get Out Alive S1, Ep 3</title>
+</programme>
+<programme start="20260414010000 +0000" stop="20260414013000 +0000" channel="Outdoor Channel.mncvision">
+    <title>Jack Stein: In The Box, Ep 3</title>
+</programme>
+<programme start="20260414013000 +0000" stop="20260414020000 +0000" channel="Outdoor Channel.mncvision">
+    <title>Jack Stein: In The Box, Ep 4</title>
+</programme>
+<programme start="20260414020000 +0000" stop="20260414023000 +0000" channel="Outdoor Channel.mncvision">
+    <title>Jade Fever S6, Ep 1</title>
+</programme>
+<programme start="20260414023000 +0000" stop="20260414030000 +0000" channel="Outdoor Channel.mncvision">
+    <title>Jade Fever S6, Ep 2</title>
+</programme>
+<programme start="20260414030000 +0000" stop="20260414033000 +0000" channel="Outdoor Channel.mncvision">
+    <title>Jade Fever S6, Ep 3</title>
+</programme>
+<programme start="20260414033000 +0000" stop="20260414040000 +0000" channel="Outdoor Channel.mncvision">
+    <title>Jade Fever S6, Ep 4</title>
+</programme>
+<programme start="20260414040000 +0000" stop="20260414050000 +0000" channel="Outdoor Channel.mncvision">
+    <title>Bear Grylls: Survive S1, Ep 1</title>
+</programme>
+<programme start="20260414050000 +0000" stop="20260414080000 +0000" channel="Outdoor Channel.mncvision">
+    <title>Bear Grylls: Survive S1, Ep 2</title>
+</programme>
+<programme start="20260414080000 +0000" stop="20260414083000 +0000" channel="Outdoor Channel.mncvision">
+    <title>Bear Grylls: The Wild S1, Ep 6</title>
+</programme>
+<programme start="20260414083000 +0000" stop="20260414090000 +0000" channel="Outdoor Channel.mncvision">
+    <title>Wildlife Heroes S1, Ep 6</title>
+</programme>
+<programme start="20260414090000 +0000" stop="20260414100000 +0000" channel="Outdoor Channel.mncvision">
+    <title>Showdown Of Unbeatables, Ep 4</title>
+</programme>
+<programme start="20260414100000 +0000" stop="20260414103000 +0000" channel="Outdoor Channel.mncvision">
+    <title>Croc College S1, Ep 3</title>
+</programme>
+<programme start="20260414103000 +0000" stop="20260414110000 +0000" channel="Outdoor Channel.mncvision">
+    <title>Croc College S1, Ep 4</title>
+</programme>
+<programme start="20260414110000 +0000" stop="20260414113000 +0000" channel="Outdoor Channel.mncvision">
+    <title>Andy &amp; Ben Eat Australia, Ep 1</title>
+</programme>
+<programme start="20260414113000 +0000" stop="20260414120000 +0000" channel="Outdoor Channel.mncvision">
+    <title>Andy &amp; Ben Eat Australia, Ep 2</title>
+</programme>
+<programme start="20260414120000 +0000" stop="20260414130000 +0000" channel="Outdoor Channel.mncvision">
+    <title>Diamond River Hunters S1, Ep 6</title>
+</programme>
+<programme start="20260414130000 +0000" stop="20260414133000 +0000" channel="Outdoor Channel.mncvision">
+    <title>My Second Restaurant..., Ep 5</title>
+</programme>
+<programme start="20260414133000 +0000" stop="20260414140000 +0000" channel="Outdoor Channel.mncvision">
+    <title>My Second Restaurant..., Ep 6</title>
+</programme>
+<programme start="20260414140000 +0000" stop="20260414143000 +0000" channel="Outdoor Channel.mncvision">
+    <title>Bear Grylls: The Wild S1, Ep 6</title>
+</programme>
+<programme start="20260414143000 +0000" stop="20260414150000 +0000" channel="Outdoor Channel.mncvision">
+    <title>Wildlife Heroes S1, Ep 6</title>
+</programme>
+<programme start="20260414150000 +0000" stop="20260414160000 +0000" channel="Outdoor Channel.mncvision">
+    <title>Showdown Of Unbeatables, Ep 4</title>
+</programme>
+<programme start="20260414160000 +0000" stop="20260414163000 +0000" channel="Outdoor Channel.mncvision">
+    <title>Croc College S1, Ep 3</title>
+</programme>
+<programme start="20260414163000 +0000" stop="20260413170000 +0000" channel="Outdoor Channel.mncvision">
+    <title>Croc College S1, Ep 4</title>
 </programme>
 <programme start="20260413170000 +0000" stop="20260413180000 +0000" channel="Outdoor channel HD.mncvision">
     <title>Bear Grylls: Survive S1, Ep 2</title>
