@@ -2413,10 +2413,10 @@
     <programme start="20260414083000 +0000" stop="20260414090000 +0000" channel="Hub Sports 2 HD.starhub">
         <title>#1350</title>
     </programme>
-    <programme start="20260414090000 +0000" stop="20260414130000 +0000" channel="Hub Sports 2 HD.starhub">
+    <programme start="20260414090000 +0000" stop="20260414132700 +0000" channel="Hub Sports 2 HD.starhub">
         <title>BMW Open by BitPanda (500) Day 2 Round 1</title>
     </programme>
-    <programme start="20260414130000 +0000" stop="20260414133000 +0000" channel="Hub Sports 2 HD.starhub">
+    <programme start="20260414132700 +0000" stop="20260414133000 +0000" channel="Hub Sports 2 HD.starhub">
         <title>#1350</title>
     </programme>
     <programme start="20260414133000 +0000" stop="20260414140000 +0000" channel="Hub Sports 2 HD.starhub">
@@ -3767,7 +3767,7 @@
         <title>World Weather</title>
     </programme>
     <programme start="20260413191500 +0000" stop="20260413200000 +0000" channel="NHK World Premium HD.starhub">
-        <title>Tsurube&#039;s Salute to Families &quot;Shiraishi Sei in Nagoya City, Aichi Prefecture&quot; Pa</title>
+        <title>Tsurube&#039;s Salute to Families &quot;Shiraishi Sei in Nagoya City, Aichi Prefecture&quot; Part 1(R)</title>
     </programme>
     <programme start="20260413200000 +0000" stop="20260413201000 +0000" channel="NHK World Premium HD.starhub">
         <title>TV Exercise</title>
