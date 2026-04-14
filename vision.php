@@ -511,9 +511,6 @@
 <programme start="20260414054500 +0000" stop="20260414063000 +0000" channel="Trans 7.vision">
 <title>Bocah Petualang</title>
 </programme>
-<programme start="20260414063000 +0000" stop="20260414071500 +0000" channel="Trans 7.vision">
-<title>Indonesiaku</title>
-</programme>
 <programme start="20260414071500 +0000" stop="20260414080000 +0000" channel="Trans 7.vision">
 <title>Redaksi</title>
 </programme>
@@ -1496,5 +1493,8 @@
 <title>DAAI TV</title>
 </programme>
 <programme start="20260415000000 +0000" stop="20260415030000 +0000" channel="DAAI TV.vision">
+<title>DAAI TV</title>
+</programme>
+<programme start="20260415030000 +0000" stop="20260415060000 +0000" channel="DAAI TV.vision">
 <title>DAAI TV</title>
 </programme>

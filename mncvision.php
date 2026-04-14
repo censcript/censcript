@@ -172,11 +172,8 @@
 <programme start="20260414083000 +0000" stop="20260414090000 +0000" channel="Al Jazeera English.mncvision">
     <title>Talk To Al Jazeera: Z. Mamdani</title>
 </programme>
-<programme start="20260414090000 +0000" stop="20260414093000 +0000" channel="Al Jazeera English.mncvision">
-    <title>News (L)</title>
-</programme>
-<programme start="20260414093000 +0000" stop="20260414100000 +0000" channel="Al Jazeera English.mncvision">
-    <title>Witness</title>
+<programme start="20260414090000 +0000" stop="20260414100000 +0000" channel="Al Jazeera English.mncvision">
+    <title>NewsHour</title>
 </programme>
 <programme start="20260414100000 +0000" stop="20260414110000 +0000" channel="Al Jazeera English.mncvision">
     <title>NewsHour</title>
@@ -188,7 +185,7 @@
     <title>Inside Story</title>
 </programme>
 <programme start="20260414120000 +0000" stop="20260414130000 +0000" channel="Al Jazeera English.mncvision">
-    <title>Witness: My Maysoon</title>
+    <title>NewsHour</title>
 </programme>
 <programme start="20260414130000 +0000" stop="20260414140000 +0000" channel="Al Jazeera English.mncvision">
     <title>NewsHour</title>
@@ -7306,117 +7303,6 @@
 <programme start="20260414165600 +0000" stop="20260413172600 +0000" channel="ORIGINALS HD.mncvision">
     <title>A Perfect Plan</title>
 </programme>
-<programme start="20260413170000 +0000" stop="20260413180000 +0000" channel="Outdoor Channel.mncvision">
-    <title>Bear Grylls: Survive S1, Ep 2</title>
-</programme>
-<programme start="20260413180000 +0000" stop="20260413190000 +0000" channel="Outdoor Channel.mncvision">
-    <title>Get Out Alive S1, Ep 3</title>
-</programme>
-<programme start="20260413190000 +0000" stop="20260413193000 +0000" channel="Outdoor Channel.mncvision">
-    <title>Jack Stein: In The Box, Ep 3</title>
-</programme>
-<programme start="20260413193000 +0000" stop="20260413200000 +0000" channel="Outdoor Channel.mncvision">
-    <title>Jack Stein: In The Box, Ep 4</title>
-</programme>
-<programme start="20260413200000 +0000" stop="20260413203000 +0000" channel="Outdoor Channel.mncvision">
-    <title>Jade Fever S6, Ep 1</title>
-</programme>
-<programme start="20260413203000 +0000" stop="20260413210000 +0000" channel="Outdoor Channel.mncvision">
-    <title>Jade Fever S6, Ep 2</title>
-</programme>
-<programme start="20260413210000 +0000" stop="20260413213000 +0000" channel="Outdoor Channel.mncvision">
-    <title>Jade Fever S6, Ep 3</title>
-</programme>
-<programme start="20260413213000 +0000" stop="20260413220000 +0000" channel="Outdoor Channel.mncvision">
-    <title>Jade Fever S6, Ep 4</title>
-</programme>
-<programme start="20260413220000 +0000" stop="20260413230000 +0000" channel="Outdoor Channel.mncvision">
-    <title>Bear Grylls: Survive S1, Ep 1</title>
-</programme>
-<programme start="20260413230000 +0000" stop="20260414000000 +0000" channel="Outdoor Channel.mncvision">
-    <title>Bear Grylls: Survive S1, Ep 2</title>
-</programme>
-<programme start="20260414000000 +0000" stop="20260414010000 +0000" channel="Outdoor Channel.mncvision">
-    <title>Get Out Alive S1, Ep 3</title>
-</programme>
-<programme start="20260414010000 +0000" stop="20260414013000 +0000" channel="Outdoor Channel.mncvision">
-    <title>Jack Stein: In The Box, Ep 3</title>
-</programme>
-<programme start="20260414013000 +0000" stop="20260414020000 +0000" channel="Outdoor Channel.mncvision">
-    <title>Jack Stein: In The Box, Ep 4</title>
-</programme>
-<programme start="20260414020000 +0000" stop="20260414023000 +0000" channel="Outdoor Channel.mncvision">
-    <title>Jade Fever S6, Ep 1</title>
-</programme>
-<programme start="20260414023000 +0000" stop="20260414030000 +0000" channel="Outdoor Channel.mncvision">
-    <title>Jade Fever S6, Ep 2</title>
-</programme>
-<programme start="20260414030000 +0000" stop="20260414033000 +0000" channel="Outdoor Channel.mncvision">
-    <title>Jade Fever S6, Ep 3</title>
-</programme>
-<programme start="20260414033000 +0000" stop="20260414040000 +0000" channel="Outdoor Channel.mncvision">
-    <title>Jade Fever S6, Ep 4</title>
-</programme>
-<programme start="20260414040000 +0000" stop="20260414050000 +0000" channel="Outdoor Channel.mncvision">
-    <title>Bear Grylls: Survive S1, Ep 1</title>
-</programme>
-<programme start="20260414050000 +0000" stop="20260414060000 +0000" channel="Outdoor Channel.mncvision">
-    <title>Bear Grylls: Survive S1, Ep 2</title>
-</programme>
-<programme start="20260414060000 +0000" stop="20260414063000 +0000" channel="Outdoor Channel.mncvision">
-    <title>Bear Grylls: The Wild S1, Ep 6</title>
-</programme>
-<programme start="20260414063000 +0000" stop="20260414070000 +0000" channel="Outdoor Channel.mncvision">
-    <title>Wildlife Heroes S1, Ep 6</title>
-</programme>
-<programme start="20260414070000 +0000" stop="20260414080000 +0000" channel="Outdoor Channel.mncvision">
-    <title>Showdown Of Unbeatables, Ep 4</title>
-</programme>
-<programme start="20260414080000 +0000" stop="20260414083000 +0000" channel="Outdoor Channel.mncvision">
-    <title>Croc College S1, Ep 3</title>
-</programme>
-<programme start="20260414083000 +0000" stop="20260414090000 +0000" channel="Outdoor Channel.mncvision">
-    <title>Croc College S1, Ep 4</title>
-</programme>
-<programme start="20260414090000 +0000" stop="20260414093000 +0000" channel="Outdoor Channel.mncvision">
-    <title>Andy &amp; Ben Eat Australia, Ep 1</title>
-</programme>
-<programme start="20260414093000 +0000" stop="20260414100000 +0000" channel="Outdoor Channel.mncvision">
-    <title>Andy &amp; Ben Eat Australia, Ep 2</title>
-</programme>
-<programme start="20260414100000 +0000" stop="20260414110000 +0000" channel="Outdoor Channel.mncvision">
-    <title>Diamond River Hunters S1, Ep 6</title>
-</programme>
-<programme start="20260414110000 +0000" stop="20260414113000 +0000" channel="Outdoor Channel.mncvision">
-    <title>My Second Restaurant..., Ep 5</title>
-</programme>
-<programme start="20260414113000 +0000" stop="20260414120000 +0000" channel="Outdoor Channel.mncvision">
-    <title>My Second Restaurant..., Ep 6</title>
-</programme>
-<programme start="20260414120000 +0000" stop="20260414123000 +0000" channel="Outdoor Channel.mncvision">
-    <title>Bear Grylls: The Wild S1, Ep 6</title>
-</programme>
-<programme start="20260414123000 +0000" stop="20260414130000 +0000" channel="Outdoor Channel.mncvision">
-    <title>Wildlife Heroes S1, Ep 6</title>
-</programme>
-<programme start="20260414130000 +0000" stop="20260414140000 +0000" channel="Outdoor Channel.mncvision">
-    <title>Showdown Of Unbeatables, Ep 4</title>
-</programme>
-<programme start="20260414140000 +0000" stop="20260414143000 +0000" channel="Outdoor Channel.mncvision">
-    <title>Croc College S1, Ep 3</title>
-</programme>
-<programme start="20260414143000 +0000" stop="20260414150000 +0000" channel="Outdoor Channel.mncvision">
-    <title>Croc College S1, Ep 4</title>
-</programme>
-<programme start="20260414150000 +0000" stop="20260414153000 +0000" channel="Outdoor Channel.mncvision">
-    <title>Andy &amp; Ben Eat Australia, Ep 1</title>
-</programme>
-<programme start="20260414153000 +0000" stop="20260414160000 +0000" channel="Outdoor Channel.mncvision">
-    <title>Andy &amp; Ben Eat Australia, Ep 2</title>
-</programme>
-<programme start="20260414160000 +0000" stop="20260414163000 +0000" channel="Outdoor Channel.mncvision">
-    <title>Diamond River Hunters S1, Ep 6</title>
-</programme>
 <programme start="20260413170000 +0000" stop="20260413180000 +0000" channel="Outdoor channel HD.mncvision">
     <title>Bear Grylls: Survive S1, Ep 2</title>
 </programme>
@@ -7471,62 +7357,53 @@
 <programme start="20260414040000 +0000" stop="20260414050000 +0000" channel="Outdoor channel HD.mncvision">
     <title>Bear Grylls: Survive S1, Ep 1</title>
 </programme>
-<programme start="20260414050000 +0000" stop="20260414060000 +0000" channel="Outdoor channel HD.mncvision">
+<programme start="20260414050000 +0000" stop="20260414080000 +0000" channel="Outdoor channel HD.mncvision">
     <title>Bear Grylls: Survive S1, Ep 2</title>
 </programme>
-<programme start="20260414060000 +0000" stop="20260414063000 +0000" channel="Outdoor channel HD.mncvision">
-    <title>Bear Grylls: The Wild S1, Ep 6</title>
-</programme>
-<programme start="20260414063000 +0000" stop="20260414070000 +0000" channel="Outdoor channel HD.mncvision">
-    <title>Wildlife Heroes S1, Ep 6</title>
-</programme>
-<programme start="20260414070000 +0000" stop="20260414080000 +0000" channel="Outdoor channel HD.mncvision">
-    <title>Showdown Of Unbeatables, Ep 4</title>
-</programme>
 <programme start="20260414080000 +0000" stop="20260414083000 +0000" channel="Outdoor channel HD.mncvision">
-    <title>Croc College S1, Ep 3</title>
+    <title>Bear Grylls: The Wild S1, Ep 6</title>
 </programme>
 <programme start="20260414083000 +0000" stop="20260414090000 +0000" channel="Outdoor channel HD.mncvision">
-    <title>Croc College S1, Ep 4</title>
-</programme>
-<programme start="20260414090000 +0000" stop="20260414093000 +0000" channel="Outdoor channel HD.mncvision">
-    <title>Andy &amp; Ben Eat Australia, Ep 1</title>
-</programme>
-<programme start="20260414093000 +0000" stop="20260414100000 +0000" channel="Outdoor channel HD.mncvision">
-    <title>Andy &amp; Ben Eat Australia, Ep 2</title>
-</programme>
-<programme start="20260414100000 +0000" stop="20260414110000 +0000" channel="Outdoor channel HD.mncvision">
-    <title>Diamond River Hunters S1, Ep 6</title>
-</programme>
-<programme start="20260414110000 +0000" stop="20260414113000 +0000" channel="Outdoor channel HD.mncvision">
-    <title>My Second Restaurant..., Ep 5</title>
-</programme>
-<programme start="20260414113000 +0000" stop="20260414120000 +0000" channel="Outdoor channel HD.mncvision">
-    <title>My Second Restaurant..., Ep 6</title>
-</programme>
-<programme start="20260414120000 +0000" stop="20260414123000 +0000" channel="Outdoor channel HD.mncvision">
-    <title>Bear Grylls: The Wild S1, Ep 6</title>
-</programme>
-<programme start="20260414123000 +0000" stop="20260414130000 +0000" channel="Outdoor channel HD.mncvision">
     <title>Wildlife Heroes S1, Ep 6</title>
 </programme>
-<programme start="20260414130000 +0000" stop="20260414140000 +0000" channel="Outdoor channel HD.mncvision">
+<programme start="20260414090000 +0000" stop="20260414100000 +0000" channel="Outdoor channel HD.mncvision">
     <title>Showdown Of Unbeatables, Ep 4</title>
 </programme>
-<programme start="20260414140000 +0000" stop="20260414143000 +0000" channel="Outdoor channel HD.mncvision">
+<programme start="20260414100000 +0000" stop="20260414103000 +0000" channel="Outdoor channel HD.mncvision">
     <title>Croc College S1, Ep 3</title>
 </programme>
-<programme start="20260414143000 +0000" stop="20260414150000 +0000" channel="Outdoor channel HD.mncvision">
+<programme start="20260414103000 +0000" stop="20260414110000 +0000" channel="Outdoor channel HD.mncvision">
     <title>Croc College S1, Ep 4</title>
 </programme>
-<programme start="20260414150000 +0000" stop="20260414153000 +0000" channel="Outdoor channel HD.mncvision">
+<programme start="20260414110000 +0000" stop="20260414113000 +0000" channel="Outdoor channel HD.mncvision">
     <title>Andy &amp; Ben Eat Australia, Ep 1</title>
 </programme>
-<programme start="20260414153000 +0000" stop="20260414160000 +0000" channel="Outdoor channel HD.mncvision">
+<programme start="20260414113000 +0000" stop="20260414120000 +0000" channel="Outdoor channel HD.mncvision">
     <title>Andy &amp; Ben Eat Australia, Ep 2</title>
 </programme>
-<programme start="20260414160000 +0000" stop="20260414163000 +0000" channel="Outdoor channel HD.mncvision">
+<programme start="20260414120000 +0000" stop="20260414130000 +0000" channel="Outdoor channel HD.mncvision">
     <title>Diamond River Hunters S1, Ep 6</title>
+</programme>
+<programme start="20260414130000 +0000" stop="20260414133000 +0000" channel="Outdoor channel HD.mncvision">
+    <title>My Second Restaurant..., Ep 5</title>
+</programme>
+<programme start="20260414133000 +0000" stop="20260414140000 +0000" channel="Outdoor channel HD.mncvision">
+    <title>My Second Restaurant..., Ep 6</title>
+</programme>
+<programme start="20260414140000 +0000" stop="20260414143000 +0000" channel="Outdoor channel HD.mncvision">
+    <title>Bear Grylls: The Wild S1, Ep 6</title>
+</programme>
+<programme start="20260414143000 +0000" stop="20260414150000 +0000" channel="Outdoor channel HD.mncvision">
+    <title>Wildlife Heroes S1, Ep 6</title>
+</programme>
+<programme start="20260414150000 +0000" stop="20260414160000 +0000" channel="Outdoor channel HD.mncvision">
+    <title>Showdown Of Unbeatables, Ep 4</title>
+</programme>
+<programme start="20260414160000 +0000" stop="20260414163000 +0000" channel="Outdoor channel HD.mncvision">
+    <title>Croc College S1, Ep 3</title>
+</programme>
+<programme start="20260414163000 +0000" stop="20260413170000 +0000" channel="Outdoor channel HD.mncvision">
+    <title>Croc College S1, Ep 4</title>
 </programme>
 <programme start="20260413173000 +0000" stop="20260413200000 +0000" channel="RCTI.mncvision">
     <title>ACL Elite: AHL Vs SDD (L)</title>
@@ -7753,43 +7630,43 @@
 <programme start="20260413210600 +0000" stop="20260413213000 +0000" channel="SCTV.mncvision">
     <title>Barakallah</title>
 </programme>
-<programme start="20260413213000 +0000" stop="20260413220000 +0000" channel="SCTV.mncvision">
+<programme start="20260413213000 +0000" stop="20260413215400 +0000" channel="SCTV.mncvision">
     <title>Buser</title>
 </programme>
-<programme start="20260413220000 +0000" stop="20260413230000 +0000" channel="SCTV.mncvision">
+<programme start="20260413215400 +0000" stop="20260413230000 +0000" channel="SCTV.mncvision">
     <title>Liputan 6 Pagi (L)</title>
 </programme>
-<programme start="20260413230000 +0000" stop="20260414000000 +0000" channel="SCTV.mncvision">
+<programme start="20260413230000 +0000" stop="20260414000300 +0000" channel="SCTV.mncvision">
     <title>Hot Shot</title>
 </programme>
-<programme start="20260414000000 +0000" stop="20260414010000 +0000" channel="SCTV.mncvision">
+<programme start="20260414000300 +0000" stop="20260414010200 +0000" channel="SCTV.mncvision">
     <title>Tiba-Tiba Kuis</title>
 </programme>
-<programme start="20260414010000 +0000" stop="20260414030000 +0000" channel="SCTV.mncvision">
-    <title>Karier, Cinta &amp; Pak Satpam</title>
+<programme start="20260414010200 +0000" stop="20260414025000 +0000" channel="SCTV.mncvision">
+    <title>Jodoh Direview Cinta Yang Viral</title>
 </programme>
-<programme start="20260414030000 +0000" stop="20260414050000 +0000" channel="SCTV.mncvision">
+<programme start="20260414025000 +0000" stop="20260414044600 +0000" channel="SCTV.mncvision">
     <title>Pacaran Sama Bos? Bahaya Bos</title>
 </programme>
-<programme start="20260414050000 +0000" stop="20260414053000 +0000" channel="SCTV.mncvision">
+<programme start="20260414044600 +0000" stop="20260414052200 +0000" channel="SCTV.mncvision">
     <title>Liputan 6 Siang (L)</title>
 </programme>
-<programme start="20260414053000 +0000" stop="20260414071500 +0000" channel="SCTV.mncvision">
-    <title>Arafta: Terbelenggu Takdir</title>
+<programme start="20260414052200 +0000" stop="20260414064800 +0000" channel="SCTV.mncvision">
+    <title>Masuk Kuping Kiri Beli...</title>
 </programme>
-<programme start="20260414071500 +0000" stop="20260414084500 +0000" channel="SCTV.mncvision">
-    <title>Si Paling Renang Pantas...</title>
+<programme start="20260414064800 +0000" stop="20260414082200 +0000" channel="SCTV.mncvision">
+    <title>Pangeran Cintaku Pengabdi Bebek</title>
 </programme>
-<programme start="20260414084500 +0000" stop="20260414100000 +0000" channel="SCTV.mncvision">
-    <title>Tutorial Ajak Nikah Jalur...</title>
+<programme start="20260414082200 +0000" stop="20260414100000 +0000" channel="SCTV.mncvision">
+    <title>Mencintai Lewat Jalur Langit</title>
 </programme>
-<programme start="20260414100000 +0000" stop="20260414111500 +0000" channel="SCTV.mncvision">
+<programme start="20260414100000 +0000" stop="20260414111800 +0000" channel="SCTV.mncvision">
     <title>Asmara Gen Z</title>
 </programme>
-<programme start="20260414111500 +0000" stop="20260414130000 +0000" channel="SCTV.mncvision">
+<programme start="20260414111800 +0000" stop="20260414125600 +0000" channel="SCTV.mncvision">
     <title>Istiqomah Cinta</title>
 </programme>
-<programme start="20260414130000 +0000" stop="20260414140000 +0000" channel="SCTV.mncvision">
+<programme start="20260414125600 +0000" stop="20260414140000 +0000" channel="SCTV.mncvision">
     <title>Beri Cinta Waktu</title>
 </programme>
 <programme start="20260414140000 +0000" stop="20260414143000 +0000" channel="SCTV.mncvision">
@@ -7804,43 +7681,43 @@
 <programme start="20260413210600 +0000" stop="20260413213000 +0000" channel="SCTV HD.mncvision">
     <title>Barakallah</title>
 </programme>
-<programme start="20260413213000 +0000" stop="20260413220000 +0000" channel="SCTV HD.mncvision">
+<programme start="20260413213000 +0000" stop="20260413215400 +0000" channel="SCTV HD.mncvision">
     <title>Buser</title>
 </programme>
-<programme start="20260413220000 +0000" stop="20260413230000 +0000" channel="SCTV HD.mncvision">
+<programme start="20260413215400 +0000" stop="20260413230000 +0000" channel="SCTV HD.mncvision">
     <title>Liputan 6 Pagi (L)</title>
 </programme>
-<programme start="20260413230000 +0000" stop="20260414000000 +0000" channel="SCTV HD.mncvision">
+<programme start="20260413230000 +0000" stop="20260414000300 +0000" channel="SCTV HD.mncvision">
     <title>Hot Shot</title>
 </programme>
-<programme start="20260414000000 +0000" stop="20260414010000 +0000" channel="SCTV HD.mncvision">
+<programme start="20260414000300 +0000" stop="20260414010200 +0000" channel="SCTV HD.mncvision">
     <title>Tiba-Tiba Kuis</title>
 </programme>
-<programme start="20260414010000 +0000" stop="20260414030000 +0000" channel="SCTV HD.mncvision">
-    <title>Karier, Cinta &amp; Pak Satpam</title>
+<programme start="20260414010200 +0000" stop="20260414025000 +0000" channel="SCTV HD.mncvision">
+    <title>Jodoh Direview Cinta Yang Viral</title>
 </programme>
-<programme start="20260414030000 +0000" stop="20260414050000 +0000" channel="SCTV HD.mncvision">
+<programme start="20260414025000 +0000" stop="20260414044600 +0000" channel="SCTV HD.mncvision">
     <title>Pacaran Sama Bos? Bahaya Bos</title>
 </programme>
-<programme start="20260414050000 +0000" stop="20260414053000 +0000" channel="SCTV HD.mncvision">
+<programme start="20260414044600 +0000" stop="20260414052200 +0000" channel="SCTV HD.mncvision">
     <title>Liputan 6 Siang (L)</title>
 </programme>
-<programme start="20260414053000 +0000" stop="20260414071500 +0000" channel="SCTV HD.mncvision">
-    <title>Arafta: Terbelenggu Takdir</title>
+<programme start="20260414052200 +0000" stop="20260414064800 +0000" channel="SCTV HD.mncvision">
+    <title>Masuk Kuping Kiri Beli...</title>
 </programme>
-<programme start="20260414071500 +0000" stop="20260414084500 +0000" channel="SCTV HD.mncvision">
-    <title>Si Paling Renang Pantas...</title>
+<programme start="20260414064800 +0000" stop="20260414082200 +0000" channel="SCTV HD.mncvision">
+    <title>Pangeran Cintaku Pengabdi Bebek</title>
 </programme>
-<programme start="20260414084500 +0000" stop="20260414100000 +0000" channel="SCTV HD.mncvision">
-    <title>Tutorial Ajak Nikah Jalur...</title>
+<programme start="20260414082200 +0000" stop="20260414100000 +0000" channel="SCTV HD.mncvision">
+    <title>Mencintai Lewat Jalur Langit</title>
 </programme>
-<programme start="20260414100000 +0000" stop="20260414111500 +0000" channel="SCTV HD.mncvision">
+<programme start="20260414100000 +0000" stop="20260414111800 +0000" channel="SCTV HD.mncvision">
     <title>Asmara Gen Z</title>
 </programme>
-<programme start="20260414111500 +0000" stop="20260414130000 +0000" channel="SCTV HD.mncvision">
+<programme start="20260414111800 +0000" stop="20260414125600 +0000" channel="SCTV HD.mncvision">
     <title>Istiqomah Cinta</title>
 </programme>
-<programme start="20260414130000 +0000" stop="20260414140000 +0000" channel="SCTV HD.mncvision">
+<programme start="20260414125600 +0000" stop="20260414140000 +0000" channel="SCTV HD.mncvision">
     <title>Beri Cinta Waktu</title>
 </programme>
 <programme start="20260414140000 +0000" stop="20260414143000 +0000" channel="SCTV HD.mncvision">

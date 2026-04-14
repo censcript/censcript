@@ -15426,58 +15426,78 @@
     <desc lang="en">beIN SPORTS brings you coverage from the 35th edition of the Africa Cup of Nations hosted by Morocco.</desc>
     <category lang="en">Sports</category>
   </programme>
-  <programme start="20260414011000 +0000" stop="20260414030500 +0000" channel="beinsports2.unifitv">
+  <programme start="20260414011000 +0000" stop="20260414030000 +0000" channel="beinsports2.unifitv">
     <title lang="en">Super Lig - Galatasaray vs Kocaelispor</title>
     <desc lang="en">beIN SPORTS brings you coverage of the Turkish top-flight Super Lig with Fenerbahce battling the defending champion Galatasaray for the title.</desc>
     <category lang="en">Sports</category>
   </programme>
-  <programme start="20260414030500 +0000" stop="20260414032500 +0000" channel="beinsports2.unifitv">
-    <title lang="en">HSBC SVNS Series - Australia vs New Zealand - Singapore Day 2, Women</title>
+  <programme start="20260414030000 +0000" stop="20260414032000 +0000" channel="beinsports2.unifitv">
+    <title lang="en">HSBC SVNS Series - Fiji vs France - Singapore Day 2, Women</title>
     <desc lang="en">Catch the action from the world's very best rugby sevens stars from the top tier of a new three-division global Sevens model, from sunrise to sunset.</desc>
     <category lang="en">Sports</category>
   </programme>
-  <programme start="20260414032500 +0000" stop="20260414035000 +0000" channel="beinsports2.unifitv">
-    <title lang="en">HSBC SVNS Series - Fiji vs France - Singapore Day 2, Men</title>
-    <desc lang="en">Catch the action from the world's very best rugby sevens stars from the top tier of a new three-division global Sevens model, from sunrise to sunset.</desc>
-    <category lang="en">Sports</category>
-  </programme>
-  <programme start="20260414035000 +0000" stop="20260414054000 +0000" channel="beinsports2.unifitv">
+  <programme start="20260414032000 +0000" stop="20260414051000 +0000" channel="beinsports2.unifitv">
     <title lang="en">Super Lig - Kayserispor vs Fenerbahce</title>
     <desc lang="en">beIN SPORTS brings you coverage of the Turkish top-flight Super Lig with Fenerbahce battling the defending champion Galatasaray for the title.</desc>
     <category lang="en">Sports</category>
   </programme>
-  <programme start="20260414054000 +0000" stop="20260414073000 +0000" channel="beinsports2.unifitv">
+  <programme start="20260414051000 +0000" stop="20260414070000 +0000" channel="beinsports2.unifitv">
     <title lang="en">Super Lig - Besiktas vs Antalyaspor</title>
     <desc lang="en">beIN SPORTS brings you coverage of the Turkish top-flight Super Lig with Fenerbahce battling the defending champion Galatasaray for the title.</desc>
     <category lang="en">Sports</category>
   </programme>
-  <programme start="20260414073000 +0000" stop="20260414090000 +0000" channel="beinsports2.unifitv">
+  <programme start="20260414070000 +0000" stop="20260414083000 +0000" channel="beinsports2.unifitv">
     <title lang="en">Premier Padel - New Giza P2 Day 2 Match 1 (L)</title>
     <desc lang="en">The official global Padel tour. Catch world's top players battle it out across the globe.</desc>
     <category lang="en">Sports</category>
   </programme>
-  <programme start="20260414090000 +0000" stop="20260414103000 +0000" channel="beinsports2.unifitv">
+  <programme start="20260414083000 +0000" stop="20260414100000 +0000" channel="beinsports2.unifitv">
     <title lang="en">Premier Padel - New Giza P2 Day 2 Match 2 (L)</title>
     <desc lang="en">The official global Padel tour. Catch world's top players battle it out across the globe.</desc>
     <category lang="en">Sports</category>
   </programme>
-  <programme start="20260414103000 +0000" stop="20260414120000 +0000" channel="beinsports2.unifitv">
+  <programme start="20260414100000 +0000" stop="20260414113000 +0000" channel="beinsports2.unifitv">
     <title lang="en">Premier Padel - New Giza P2 Day 2 Match 3 (L)</title>
     <desc lang="en">The official global Padel tour. Catch world's top players battle it out across the globe.</desc>
     <category lang="en">Sports</category>
   </programme>
-  <programme start="20260414120000 +0000" stop="20260414133000 +0000" channel="beinsports2.unifitv">
+  <programme start="20260414113000 +0000" stop="20260414115500 +0000" channel="beinsports2.unifitv">
+    <title lang="en">HSBC SVNS Series - Spain vs Australia - Singapore Day 2, Men</title>
+    <desc lang="en">Catch the action from the world's very best rugby sevens stars from the top tier of a new three-division global Sevens model, from sunrise to sunset.</desc>
+    <category lang="en">Sports</category>
+  </programme>
+  <programme start="20260414115500 +0000" stop="20260414122000 +0000" channel="beinsports2.unifitv">
+    <title lang="en">HSBC SVNS Series - Canada vs USA - Singapore Day 2, Women</title>
+    <desc lang="en">Catch the action from the world's very best rugby sevens stars from the top tier of a new three-division global Sevens model, from sunrise to sunset.</desc>
+    <category lang="en">Sports</category>
+  </programme>
+  <programme start="20260414122000 +0000" stop="20260414124500 +0000" channel="beinsports2.unifitv">
+    <title lang="en">HSBC SVNS Series - New Zealand vs South Africa - Singapore Day 2, Men</title>
+    <desc lang="en">Catch the action from the world's very best rugby sevens stars from the top tier of a new three-division global Sevens model, from sunrise to sunset.</desc>
+    <category lang="en">Sports</category>
+  </programme>
+  <programme start="20260414124500 +0000" stop="20260414130500 +0000" channel="beinsports2.unifitv">
+    <title lang="en">HSBC SVNS Series - Australia vs New Zealand - Singapore Day 2, Women</title>
+    <desc lang="en">Catch the action from the world's very best rugby sevens stars from the top tier of a new three-division global Sevens model, from sunrise to sunset.</desc>
+    <category lang="en">Sports</category>
+  </programme>
+  <programme start="20260414130500 +0000" stop="20260414133000 +0000" channel="beinsports2.unifitv">
+    <title lang="en">HSBC SVNS Series - Fiji vs France - Singapore Day 2, Men</title>
+    <desc lang="en">Catch the action from the world's very best rugby sevens stars from the top tier of a new three-division global Sevens model, from sunrise to sunset.</desc>
+    <category lang="en">Sports</category>
+  </programme>
+  <programme start="20260414133000 +0000" stop="20260414140000 +0000" channel="beinsports2.unifitv">
+    <title lang="en">Australian Open Mini - Women's Singles Final Sabalenka v Rybakina</title>
+    <desc lang="en">The 1st Grand Slam of the year kick start on beIN Sports as the world's best players battle it out to win the 114th edition of the Australian Open.</desc>
+    <category lang="en">Sports</category>
+  </programme>
+  <programme start="20260414140000 +0000" stop="20260414153000 +0000" channel="beinsports2.unifitv">
     <title lang="en">Premier Padel - New Giza P2 Day 2 Match 4 (L)</title>
     <desc lang="en">The official global Padel tour. Catch world's top players battle it out across the globe.</desc>
     <category lang="en">Sports</category>
   </programme>
-  <programme start="20260414133000 +0000" stop="20260414150000 +0000" channel="beinsports2.unifitv">
+  <programme start="20260414153000 +0000" stop="20260414170000 +0000" channel="beinsports2.unifitv">
     <title lang="en">Premier Padel - New Giza P2 Day 2 Match 5 (L)</title>
-    <desc lang="en">The official global Padel tour. Catch world's top players battle it out across the globe.</desc>
-    <category lang="en">Sports</category>
-  </programme>
-  <programme start="20260414150000 +0000" stop="20260414163000 +0000" channel="beinsports2.unifitv">
-    <title lang="en">Premier Padel - New Giza P2 Day 2 Match 6 (L)</title>
     <desc lang="en">The official global Padel tour. Catch world's top players battle it out across the globe.</desc>
     <category lang="en">Sports</category>
   </programme>
