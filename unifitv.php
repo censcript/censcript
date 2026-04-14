@@ -14615,14 +14615,14 @@
   </channel>
   <programme start="20260413153500 +0000" stop="20260413160000 +0000" channel="nhkworldjapan.unifitv">
     <title lang="en">The Factory Wonders</title>
-    <desc lang="en">A selection of acclaimed programmes from NHK's domestic channels dubbed into English.</desc>
+    <desc lang="en">We visit a factory in Hamamatsu, where they use technology, hand craft, and finely tuned instinct to make keyboard harmonicas (a.k.a. "melodicas") for everyone from schoolchildren to pro musicians.</desc>
     <category lang="en">Infotainment</category>
     <episode-num system="xmltv_ns">0.5142.</episode-num>
     <episode-num system="onscreen">S1E5143</episode-num>
   </programme>
   <programme start="20260413160000 +0000" stop="20260413160500 +0000" channel="nhkworldjapan.unifitv">
-    <title lang="en">Amami</title>
-    <desc lang="en">Biodiversity: Amami Oshima is a World Natural Heritage Site with rare flora and fauna including many endemic species - explore the biodiversity of its lush subtropical forests in time-lapse footage.</desc>
+    <title lang="en">Time-Lapse Japan</title>
+    <desc lang="en">Amami Oshima is a World Natural Heritage Site, with rare flora and fauna including many endemic species. Explore the biodiversity of its lush, subtropical forests in stunning time-lapse footage.</desc>
     <category lang="en">Infotainment</category>
     <episode-num system="xmltv_ns">0.6052.</episode-num>
     <episode-num system="onscreen">S1E6053</episode-num>
@@ -14634,7 +14634,7 @@
   </programme>
   <programme start="20260413163500 +0000" stop="20260413170200 +0000" channel="nhkworldjapan.unifitv">
     <title lang="en">Hometown Stories</title>
-    <desc lang="en">Stories about people, stories about life - intimate portraits of people from around Japan, each leading diverse lives while enriching the lives of others.</desc>
+    <desc lang="en">In winter, seasonal workers arrive at mandarin orange groves for the two-month harvest. While living in communal lodgings, they share their views of the world, and plot new paths in life.</desc>
     <category lang="en">Infotainment</category>
     <episode-num system="xmltv_ns">0.5002.</episode-num>
     <episode-num system="onscreen">S1E5003</episode-num>
@@ -14653,7 +14653,7 @@
   </programme>
   <programme start="20260413173500 +0000" stop="20260413174500 +0000" channel="nhkworldjapan.unifitv">
     <title lang="en">Magical Japanese</title>
-    <desc lang="en">We look at the unique world of the Japanese language accompanied with scenes from Japan - many fascinating aspects of Japanese like onomatopoeia are also introduced.</desc>
+    <desc lang="en">The Japanese language is rich in words and expressions influenced by nature, history, and culture - this episode looks at words related to birds. Explore the unique culture behind them.</desc>
     <category lang="en">Infotainment</category>
     <episode-num system="xmltv_ns">0.2091.</episode-num>
     <episode-num system="onscreen">S1E2092</episode-num>
@@ -14667,14 +14667,14 @@
   </programme>
   <programme start="20260413175000 +0000" stop="20260413180000 +0000" channel="nhkworldjapan.unifitv">
     <title lang="en">Culture Crossroads</title>
-    <desc lang="en">This programme provides information for a multicultural society - we cover interesting topics from various angles such as Japanese local movements for the Tokyo Olympics and disaster preparedness.</desc>
+    <desc lang="en">A Sri Lankan student participates in the Mie Prefecture Youth Police Supporters volunteer programme that works with communities to build a safer society by preventing crimes before they occur.</desc>
     <category lang="en">Infotainment</category>
     <episode-num system="xmltv_ns">0.2083.</episode-num>
     <episode-num system="onscreen">S1E2084</episode-num>
   </programme>
   <programme start="20260413180000 +0000" stop="20260413180500 +0000" channel="nhkworldjapan.unifitv">
     <title lang="en">Hello! NHK World-Japan</title>
-    <desc lang="en">We introduce the contents and activities of NHK World-Japan to make the channel and its programmes known to more people - this is the window of the station to the world!</desc>
+    <desc lang="en">Throughout April, NHK World-Japan marks 10 years since the Kumamoto Earthquake by showing related programs. Learn about efforts to restore Kumamoto Castle, and the Minami-Aso Luna Observatory.</desc>
     <category lang="en">Infotainment</category>
     <episode-num system="xmltv_ns">0.2103.</episode-num>
     <episode-num system="onscreen">S1E2104</episode-num>
@@ -14686,17 +14686,17 @@
   </programme>
   <programme start="20260413183300 +0000" stop="20260413184800 +0000" channel="nhkworldjapan.unifitv">
     <title lang="en">Direct Talk</title>
-    <desc lang="en">Direct and in-depth interviews exploring the minds and motivations of the leaders, visionaries, artists and entrepreneurs who are changing our world.</desc>
+    <desc lang="en">World-class stuntman Obikane Nobuyuki won an Emmy award for his work on the hit historical TV drama series Shogun - he talks about his techniques for achieving realistic and thrilling action.</desc>
     <category lang="en">Infotainment</category>
     <episode-num system="xmltv_ns">0.2104.</episode-num>
     <episode-num system="onscreen">S1E2105</episode-num>
   </programme>
   <programme start="20260413184800 +0000" stop="20260413190000 +0000" channel="nhkworldjapan.unifitv">
-    <title lang="en">NHK World Selection</title>
-    <desc lang="en">A selection of acclaimed programmes from NHK's domestic channels dubbed into English.</desc>
+    <title lang="en">Herbal Symphony</title>
+    <desc lang="en">Discover Japan's oldest private medicinal herb garden in Uda - here the natural landscape from 300 years ago is preserved in a botanical time capsule as a sanctuary of local culture and history.</desc>
     <category lang="en">Infotainment</category>
-    <episode-num system="xmltv_ns">0.4012.</episode-num>
-    <episode-num system="onscreen">S1E4013</episode-num>
+    <episode-num system="xmltv_ns">0.6065.</episode-num>
+    <episode-num system="onscreen">S1E6066</episode-num>
   </programme>
   <programme start="20260413190000 +0000" stop="20260413190500 +0000" channel="nhkworldjapan.unifitv">
     <title lang="en">Ukiyo-e Edo-Life</title>
@@ -14707,7 +14707,7 @@
   </programme>
   <programme start="20260413190500 +0000" stop="20260413193500 +0000" channel="nhkworldjapan.unifitv">
     <title lang="en">Today's Close-Up</title>
-    <desc lang="en">Dig deeper into current affairs with cutting-edge information and critical analysis on important issues confronting Japanese lives.</desc>
+    <desc lang="en">Drug-resistant bacteria are infecting healthy people without being noticed, leading to what the WHO calls a "silent pandemic." We look at what we can do to protect ourselves.</desc>
     <category lang="en">Infotainment</category>
     <episode-num system="xmltv_ns">0.4047.</episode-num>
     <episode-num system="onscreen">S1E4048</episode-num>
@@ -14726,7 +14726,7 @@
   </programme>
   <programme start="20260413203500 +0000" stop="20260413210500 +0000" channel="nhkworldjapan.unifitv">
     <title lang="en">Medical Frontiers</title>
-    <desc lang="en">Japan is a world leader in health care; this programme explores cutting-edge Japanese medical technologies and tips for a healthy lifestyle.</desc>
+    <desc lang="en">Pancreatic disease develops deep inside the body and makes early detection difficult - we report on efforts to find it sooner using endoscopic ultrasound and the doctors working on new treatments.</desc>
     <category lang="en">Infotainment</category>
     <episode-num system="xmltv_ns">0.2049.</episode-num>
     <episode-num system="onscreen">S1E2050</episode-num>
@@ -14738,21 +14738,21 @@
   </programme>
   <programme start="20260413213500 +0000" stop="20260413215000 +0000" channel="nhkworldjapan.unifitv">
     <title lang="en">Bosai: Science That Can Save Your Life</title>
-    <desc lang="en">Japan has a long history of natural disasters - Bosai explores how to overcome them and save lives with the power of science.</desc>
+    <desc lang="en">Phase Free is a disaster preparedness concept that does not distinguish between everyday life and emergency situations - we see how everyday items can be used in times of disaster as well.</desc>
     <category lang="en">Infotainment</category>
     <episode-num system="xmltv_ns">0.2089.</episode-num>
     <episode-num system="onscreen">S1E2090</episode-num>
   </programme>
   <programme start="20260413215000 +0000" stop="20260413220000 +0000" channel="nhkworldjapan.unifitv">
     <title lang="en">Impacts: Climates Change the World</title>
-    <desc lang="en">The entire Earth is affected by climate change occurring with a greater speed and scale than ever before - this programme uses scientific data and the latest findings to raise awareness on its impact.</desc>
+    <desc lang="en">This episode of a series on COP30 in Brazil focuses on Amazon 'dieback' - deforestation has reached 17 per cent and scientists warn that exceeding a figure of 20 per cent may disrupt the water cycle.</desc>
     <category lang="en">Infotainment</category>
     <episode-num system="xmltv_ns">0.6127.</episode-num>
     <episode-num system="onscreen">S1E6128</episode-num>
   </programme>
   <programme start="20260413220000 +0000" stop="20260413220500 +0000" channel="nhkworldjapan.unifitv">
-    <title lang="en">Time-Lapse Japan: Izumo</title>
-    <desc lang="en">Matsue is known as the 'city of water' - it is home to Lake Shinji, which is famous for its shijimi clams. We see the lake's changing colours and expressions through beautiful time-lapse footage.</desc>
+    <title lang="en">Time-Lapse Japan</title>
+    <desc lang="en">Matsue is known as the "city of water." It is home to Lake Shinji, which is famous for its shijimi clams. Through beautiful time-lapse footage, we see the lake's changing colours and expressions.</desc>
     <category lang="en">Infotainment</category>
     <episode-num system="xmltv_ns">0.6052.</episode-num>
     <episode-num system="onscreen">S1E6053</episode-num>
@@ -14764,7 +14764,7 @@
   </programme>
   <programme start="20260413223500 +0000" stop="20260413224500 +0000" channel="nhkworldjapan.unifitv">
     <title lang="en">Magical Japanese</title>
-    <desc lang="en">We look at the unique world of the Japanese language accompanied with scenes from Japan - many fascinating aspects of Japanese like onomatopoeia are also introduced.</desc>
+    <desc lang="en">The Japanese language is rich in words and expressions influenced by nature, history, and culture - this episode looks at words related to birds. Explore the unique culture behind them.</desc>
     <category lang="en">Infotainment</category>
     <episode-num system="xmltv_ns">0.2091.</episode-num>
     <episode-num system="onscreen">S1E2092</episode-num>
@@ -14778,14 +14778,14 @@
   </programme>
   <programme start="20260413225000 +0000" stop="20260413230000 +0000" channel="nhkworldjapan.unifitv">
     <title lang="en">Culture Crossroads</title>
-    <desc lang="en">This programme provides information for a multicultural society - we cover interesting topics from various angles such as Japanese local movements for the Tokyo Olympics and disaster preparedness.</desc>
+    <desc lang="en">A Sri Lankan student participates in the Mie Prefecture Youth Police Supporters volunteer programme that works with communities to build a safer society by preventing crimes before they occur.</desc>
     <category lang="en">Infotainment</category>
     <episode-num system="xmltv_ns">0.2083.</episode-num>
     <episode-num system="onscreen">S1E2084</episode-num>
   </programme>
   <programme start="20260413230000 +0000" stop="20260413230500 +0000" channel="nhkworldjapan.unifitv">
     <title lang="en">Hello! NHK World-Japan</title>
-    <desc lang="en">We introduce the contents and activities of NHK World-Japan to make the channel and its programmes known to more people - this is the window of the station to the world!</desc>
+    <desc lang="en">Throughout April, NHK World-Japan marks 10 years since the Kumamoto Earthquake by showing related programs. Learn about efforts to restore Kumamoto Castle, and the Minami-Aso Luna Observatory.</desc>
     <category lang="en">Infotainment</category>
     <episode-num system="xmltv_ns">0.2103.</episode-num>
     <episode-num system="onscreen">S1E2104</episode-num>
@@ -14797,7 +14797,7 @@
   </programme>
   <programme start="20260413233500 +0000" stop="20260414000200 +0000" channel="nhkworldjapan.unifitv">
     <title lang="en">Hometown Stories</title>
-    <desc lang="en">Stories about people, stories about life - intimate portraits of people from around Japan, each leading diverse lives while enriching the lives of others.</desc>
+    <desc lang="en">In winter, seasonal workers arrive at mandarin orange groves for the two-month harvest. While living in communal lodgings, they share their views of the world, and plot new paths in life.</desc>
     <category lang="en">Infotainment</category>
     <episode-num system="xmltv_ns">0.5002.</episode-num>
     <episode-num system="onscreen">S1E5003</episode-num>
@@ -14816,7 +14816,7 @@
   </programme>
   <programme start="20260414003500 +0000" stop="20260414010500 +0000" channel="nhkworldjapan.unifitv">
     <title lang="en">Journeys in Japan</title>
-    <desc lang="en">Explore a different side of Japan by meeting the locals and discovering traditions and cultures not usually found in guidebooks!</desc>
+    <desc lang="en">Michael Keida explores the deep roots and enduring appeal of artisanal kokuto, the traditional sugar of the Okinawa islands.</desc>
     <category lang="en">Infotainment</category>
     <episode-num system="xmltv_ns">0.2006.</episode-num>
     <episode-num system="onscreen">S1E2007</episode-num>
@@ -14840,7 +14840,7 @@
   </programme>
   <programme start="20260414023500 +0000" stop="20260414030500 +0000" channel="nhkworldjapan.unifitv">
     <title lang="en">Document 72 Hours</title>
-    <desc lang="en">This is an unusual series that explores human dramas through chance encounters with ordinary people at selected locations.</desc>
+    <desc lang="en">A 24-hour bookstore in Tokyo attracts a diverse range of customers. For three days and nights, we asked people what they are buying - and why - in an age of digital books and online shopping.</desc>
     <category lang="en">Infotainment</category>
     <episode-num system="xmltv_ns">0.4025.</episode-num>
     <episode-num system="onscreen">S1E4026</episode-num>
@@ -14852,7 +14852,7 @@
   </programme>
   <programme start="20260414033500 +0000" stop="20260414040500 +0000" channel="nhkworldjapan.unifitv">
     <title lang="en">Medical Frontiers</title>
-    <desc lang="en">Japan is a world leader in health care; this programme explores cutting-edge Japanese medical technologies and tips for a healthy lifestyle.</desc>
+    <desc lang="en">Pancreatic disease develops deep inside the body and makes early detection difficult - we report on efforts to find it sooner using endoscopic ultrasound and the doctors working on new treatments.</desc>
     <category lang="en">Infotainment</category>
     <episode-num system="xmltv_ns">0.2049.</episode-num>
     <episode-num system="onscreen">S1E2050</episode-num>
@@ -14871,7 +14871,7 @@
   </programme>
   <programme start="20260414045000 +0000" stop="20260414050000 +0000" channel="nhkworldjapan.unifitv">
     <title lang="en">Dig More Japan!</title>
-    <desc lang="en">NHK World-Japan presents a variety of short programmes focusing on Japan and Asia.</desc>
+    <desc lang="en">With cherry blossoms in full bloom, there are many tastes only to be found in Spring. Go for a stroll in the soft light and gentle breezes in this beautiful Japanese season.</desc>
     <category lang="en">Infotainment</category>
     <episode-num system="xmltv_ns">0.6121.</episode-num>
     <episode-num system="onscreen">S1E6122</episode-num>
@@ -14890,7 +14890,7 @@
   </programme>
   <programme start="20260414053500 +0000" stop="20260414060500 +0000" channel="nhkworldjapan.unifitv">
     <title lang="en">Journeys in Japan</title>
-    <desc lang="en">Explore a different side of Japan by meeting the locals and discovering traditions and cultures not usually found in guidebooks!</desc>
+    <desc lang="en">Michael Keida explores the deep roots and enduring appeal of artisanal kokuto, the traditional sugar of the Okinawa islands.</desc>
     <category lang="en">Infotainment</category>
     <episode-num system="xmltv_ns">0.2006.</episode-num>
     <episode-num system="onscreen">S1E2007</episode-num>
@@ -14914,7 +14914,7 @@
   </programme>
   <programme start="20260414073500 +0000" stop="20260414080500 +0000" channel="nhkworldjapan.unifitv">
     <title lang="en">Document 72 Hours</title>
-    <desc lang="en">This is an unusual series that explores human dramas through chance encounters with ordinary people at selected locations.</desc>
+    <desc lang="en">A 24-hour bookstore in Tokyo attracts a diverse range of customers. For three days and nights, we asked people what they are buying - and why - in an age of digital books and online shopping.</desc>
     <category lang="en">Infotainment</category>
     <episode-num system="xmltv_ns">0.4025.</episode-num>
     <episode-num system="onscreen">S1E4026</episode-num>
@@ -14933,7 +14933,7 @@
   </programme>
   <programme start="20260414085000 +0000" stop="20260414090500 +0000" channel="nhkworldjapan.unifitv">
     <title lang="en">Bosai: Science That Can Save Your Life</title>
-    <desc lang="en">Japan has a long history of natural disasters - Bosai explores how to overcome them and save lives with the power of science.</desc>
+    <desc lang="en">Phase Free is a disaster preparedness concept that does not distinguish between everyday life and emergency situations - we see how everyday items can be used in times of disaster as well.</desc>
     <category lang="en">Infotainment</category>
     <episode-num system="xmltv_ns">0.2089.</episode-num>
     <episode-num system="onscreen">S1E2090</episode-num>
@@ -14945,7 +14945,7 @@
   </programme>
   <programme start="20260414093500 +0000" stop="20260414100500 +0000" channel="nhkworldjapan.unifitv">
     <title lang="en">Medical Frontiers</title>
-    <desc lang="en">Japan is a world leader in health care; this programme explores cutting-edge Japanese medical technologies and tips for a healthy lifestyle.</desc>
+    <desc lang="en">Pancreatic disease develops deep inside the body and makes early detection difficult - we report on efforts to find it sooner using endoscopic ultrasound and the doctors working on new treatments.</desc>
     <category lang="en">Infotainment</category>
     <episode-num system="xmltv_ns">0.2049.</episode-num>
     <episode-num system="onscreen">S1E2050</episode-num>
@@ -14957,7 +14957,7 @@
   </programme>
   <programme start="20260414103500 +0000" stop="20260414110500 +0000" channel="nhkworldjapan.unifitv">
     <title lang="en">Biz Stream</title>
-    <desc lang="en">This programme focuses on the latest Japanese business trends, corporate strategies and technologies - we look behind the scenes and discuss their global impact from various perspectives.</desc>
+    <desc lang="en">Freight Expectations: This episode examines how agile logistics players are tackling the industry's toughest hurdles by breaking traditional norms and finding efficiency in unexpected places.</desc>
     <category lang="en">Infotainment</category>
     <episode-num system="xmltv_ns">0.2073.</episode-num>
     <episode-num system="onscreen">S1E2074</episode-num>
@@ -14969,14 +14969,14 @@
   </programme>
   <programme start="20260414113300 +0000" stop="20260414114800 +0000" channel="nhkworldjapan.unifitv">
     <title lang="en">Direct Talk</title>
-    <desc lang="en">Direct and in-depth interviews exploring the minds and motivations of the leaders, visionaries, artists and entrepreneurs who are changing our world.</desc>
+    <desc lang="en">Hayashiya Tsuruko is breaking new ground by reinterpreting the Japanese art of classic rakugo comic storytelling from a woman's perspective - she talks about her message for modern audiences.</desc>
     <category lang="en">Infotainment</category>
     <episode-num system="xmltv_ns">0.2104.</episode-num>
     <episode-num system="onscreen">S1E2105</episode-num>
   </programme>
   <programme start="20260414114800 +0000" stop="20260414120000 +0000" channel="nhkworldjapan.unifitv">
     <title lang="en">Magical Japanese</title>
-    <desc lang="en">We look at the unique world of the Japanese language accompanied with scenes from Japan - many fascinating aspects of Japanese like onomatopoeia are also introduced.</desc>
+    <desc lang="en">The Japanese language is rich in words and expressions influenced by nature, history, and culture - this episode looks at words related to birds. Explore the unique culture behind them.</desc>
     <category lang="en">Infotainment</category>
     <episode-num system="xmltv_ns">0.2091.</episode-num>
     <episode-num system="onscreen">S1E2092</episode-num>
@@ -15007,7 +15007,7 @@
   </programme>
   <programme start="20260414133500 +0000" stop="20260414140500 +0000" channel="nhkworldjapan.unifitv">
     <title lang="en">Document 72 Hours</title>
-    <desc lang="en">This is an unusual series that explores human dramas through chance encounters with ordinary people at selected locations.</desc>
+    <desc lang="en">A 24-hour bookstore in Tokyo attracts a diverse range of customers. For three days and nights, we asked people what they are buying - and why - in an age of digital books and online shopping.</desc>
     <category lang="en">Infotainment</category>
     <episode-num system="xmltv_ns">0.4025.</episode-num>
     <episode-num system="onscreen">S1E4026</episode-num>
@@ -15031,7 +15031,7 @@
   </programme>
   <programme start="20260414153500 +0000" stop="20260414160500 +0000" channel="nhkworldjapan.unifitv">
     <title lang="en">Journeys in Japan</title>
-    <desc lang="en">Explore a different side of Japan by meeting the locals and discovering traditions and cultures not usually found in guidebooks!</desc>
+    <desc lang="en">Michael Keida explores the deep roots and enduring appeal of artisanal kokuto, the traditional sugar of the Okinawa islands.</desc>
     <category lang="en">Infotainment</category>
     <episode-num system="xmltv_ns">0.2006.</episode-num>
     <episode-num system="onscreen">S1E2007</episode-num>

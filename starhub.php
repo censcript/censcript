@@ -3767,7 +3767,7 @@
         <title>World Weather</title>
     </programme>
     <programme start="20260413191500 +0000" stop="20260413200000 +0000" channel="NHK World Premium HD.starhub">
-        <title>Tsurube&#039;s Salute to Families &quot;Shiraishi Sei in Nagoya City, Aichi Prefecture&quot; (R)</title>
+        <title>Tsurube&#039;s Salute to Families &quot;Shiraishi Sei in Nagoya City, Aichi Prefecture&quot; Pa</title>
     </programme>
     <programme start="20260413200000 +0000" stop="20260413201000 +0000" channel="NHK World Premium HD.starhub">
         <title>TV Exercise</title>
@@ -3806,7 +3806,7 @@
         <title>News &amp; Weather</title>
     </programme>
     <programme start="20260414010500 +0000" stop="20260414015000 +0000" channel="NHK World Premium HD.starhub">
-        <title>Tsurube&#039;s Salute to Families &quot;Shiraishi Sei in Nagoya City, Aichi Prefecture&quot; (R)</title>
+        <title>Tsurube&#039;s Salute to Families &quot;Shiraishi Sei in Nagoya City, Aichi Prefecture&quot; Pa</title>
     </programme>
     <programme start="20260414015000 +0000" stop="20260414021700 +0000" channel="NHK World Premium HD.starhub">
         <title>Today&#039;s Close-up (R)</title>
@@ -7972,16 +7972,16 @@
     <programme start="20260413133000 +0000" stop="20260413163000 +0000" channel="Asianet Movies.starhub">
         <title>Bro Daddy</title>
     </programme>
-    <programme start="20260413163000 +0000" stop="20260413193000 +0000" channel="Asianet Movies.starhub">
+    <programme start="20260413163000 +0000" stop="20260413190000 +0000" channel="Asianet Movies.starhub">
         <title>Maharaja Talkies</title>
     </programme>
-    <programme start="20260413193000 +0000" stop="20260413213000 +0000" channel="Asianet Movies.starhub">
+    <programme start="20260413190000 +0000" stop="20260413210000 +0000" channel="Asianet Movies.starhub">
         <title>Thelivu</title>
     </programme>
-    <programme start="20260413213000 +0000" stop="20260413233000 +0000" channel="Asianet Movies.starhub">
+    <programme start="20260413210000 +0000" stop="20260413232000 +0000" channel="Asianet Movies.starhub">
         <title>Parayam</title>
     </programme>
-    <programme start="20260413233000 +0000" stop="20260414013000 +0000" channel="Asianet Movies.starhub">
+    <programme start="20260413232000 +0000" stop="20260414013000 +0000" channel="Asianet Movies.starhub">
         <title>Killadiraman</title>
     </programme>
     <programme start="20260414013000 +0000" stop="20260414043000 +0000" channel="Asianet Movies.starhub">

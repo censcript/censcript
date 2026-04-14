@@ -728,10 +728,10 @@
         <title>No programme available now. Next broadcast on 15th April, Wednesday 7pm. The Wonder Shop Home Shopping</title>
     </programme>
     <programme start="20260413160000 +0000" stop="20260414160000 +0000" channel="Live 2.mewatch">
-        <title>No programmes streaming LIVE at this moment</title>
+        <title>No Programme available now. Next Broadcast on 25th April, Saturday 2pm. Singapore T100 2026</title>
     </programme>
     <programme start="20260414160000 +0000" stop="20260415160000 +0000" channel="Live 2.mewatch">
-        <title>No programmes streaming LIVE at this moment</title>
+        <title>No Programme available now. Next Broadcast on 25th April, Saturday 2pm. Singapore T100 2026</title>
     </programme>
     <programme start="20260413160000 +0000" stop="20260414160000 +0000" channel="Live 5.mewatch">
         <title>No programmes streaming LIVE at this moment</title>

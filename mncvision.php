@@ -146,7 +146,7 @@
     <title>News (L)</title>
 </programme>
 <programme start="20260414043000 +0000" stop="20260414050000 +0000" channel="Al Jazeera English.mncvision">
-    <title>The Stream</title>
+    <title>The Stream: US Global Standing</title>
 </programme>
 <programme start="20260414050000 +0000" stop="20260414053000 +0000" channel="Al Jazeera English.mncvision">
     <title>News (L)</title>
@@ -197,7 +197,7 @@
     <title>News (L)</title>
 </programme>
 <programme start="20260414143000 +0000" stop="20260414150000 +0000" channel="Al Jazeera English.mncvision">
-    <title>The Stream</title>
+    <title>The Stream: US Global Standing</title>
 </programme>
 <programme start="20260414150000 +0000" stop="20260414160000 +0000" channel="Al Jazeera English.mncvision">
     <title>NewsHour</title>
@@ -8512,8 +8512,11 @@
 <programme start="20260413233000 +0000" stop="20260414003000 +0000" channel="SPOTV 2.mncvision">
     <title>2026 PBR: Unleash The Beast</title>
 </programme>
-<programme start="20260414003000 +0000" stop="20260414050000 +0000" channel="SPOTV 2.mncvision">
+<programme start="20260414003000 +0000" stop="20260414041000 +0000" channel="SPOTV 2.mncvision">
     <title>2026 NASCAR Food City 500</title>
+</programme>
+<programme start="20260414041000 +0000" stop="20260414050000 +0000" channel="SPOTV 2.mncvision">
+    <title>2026 PBR: Unleash The Beast</title>
 </programme>
 <programme start="20260414050000 +0000" stop="20260414053000 +0000" channel="SPOTV 2.mncvision">
     <title>2025/26 A-League Men HL</title>
@@ -8548,8 +8551,11 @@
 <programme start="20260413233000 +0000" stop="20260414003000 +0000" channel="SPOTV 2 HD.mncvision">
     <title>2026 PBR: Unleash The Beast</title>
 </programme>
-<programme start="20260414003000 +0000" stop="20260414050000 +0000" channel="SPOTV 2 HD.mncvision">
+<programme start="20260414003000 +0000" stop="20260414041000 +0000" channel="SPOTV 2 HD.mncvision">
     <title>2026 NASCAR Food City 500</title>
+</programme>
+<programme start="20260414041000 +0000" stop="20260414050000 +0000" channel="SPOTV 2 HD.mncvision">
+    <title>2026 PBR: Unleash The Beast</title>
 </programme>
 <programme start="20260414050000 +0000" stop="20260414053000 +0000" channel="SPOTV 2 HD.mncvision">
     <title>2025/26 A-League Men HL</title>

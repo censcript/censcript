@@ -616,10 +616,10 @@
 <programme start="20260414044000 +0000" stop="20260414045500 +0000" channel="Cartoonito.skyde">
     <title>SuperThings: Rivalen von Kaboom - Kazoom-Power</title>
 </programme>
-<programme start="20260414045500 +0000" stop="20260414050000 +0000" channel="Cartoonito.skyde">
+<programme start="20260414045500 +0000" stop="20260414050500 +0000" channel="Cartoonito.skyde">
     <title>Grizzy und die Lemminge</title>
 </programme>
-<programme start="20260414050000 +0000" stop="20260414051000 +0000" channel="Cartoonito.skyde">
+<programme start="20260414050500 +0000" stop="20260414051000 +0000" channel="Cartoonito.skyde">
     <title>Grizzy und die Lemminge</title>
 </programme>
 <programme start="20260414051000 +0000" stop="20260414052500 +0000" channel="Cartoonito.skyde">
@@ -712,10 +712,10 @@
 <programme start="20260414110500 +0000" stop="20260414112000 +0000" channel="Cartoonito.skyde">
     <title>Mr. Bean - Die Cartoon-Serie</title>
 </programme>
-<programme start="20260414112000 +0000" stop="20260414113000 +0000" channel="Cartoonito.skyde">
+<programme start="20260414112000 +0000" stop="20260414113500 +0000" channel="Cartoonito.skyde">
     <title>Mr. Bean - Die Cartoon-Serie</title>
 </programme>
-<programme start="20260414113000 +0000" stop="20260414115000 +0000" channel="Cartoonito.skyde">
+<programme start="20260414113500 +0000" stop="20260414115000 +0000" channel="Cartoonito.skyde">
     <title>Mr. Bean - Die Cartoon-Serie</title>
 </programme>
 <programme start="20260414115000 +0000" stop="20260414120000 +0000" channel="Cartoonito.skyde">
@@ -769,13 +769,13 @@
 <programme start="20260414153000 +0000" stop="20260414154500 +0000" channel="Cartoonito.skyde">
     <title>Mr. Bean - Die Cartoon-Serie</title>
 </programme>
-<programme start="20260414154500 +0000" stop="20260414155400 +0000" channel="Cartoonito.skyde">
+<programme start="20260414154500 +0000" stop="20260414155500 +0000" channel="Cartoonito.skyde">
     <title>Tom und Jerry Gokko</title>
 </programme>
-<programme start="20260414155400 +0000" stop="20260414155800 +0000" channel="Cartoonito.skyde">
+<programme start="20260414155500 +0000" stop="20260414160000 +0000" channel="Cartoonito.skyde">
     <title>Lamput</title>
 </programme>
-<programme start="20260414155800 +0000" stop="20260414161000 +0000" channel="Cartoonito.skyde">
+<programme start="20260414160000 +0000" stop="20260414161000 +0000" channel="Cartoonito.skyde">
     <title>Lamput</title>
 </programme>
 <programme start="20260414161000 +0000" stop="20260414162000 +0000" channel="Cartoonito.skyde">
@@ -787,10 +787,10 @@
 <programme start="20260414163000 +0000" stop="20260414163500 +0000" channel="Cartoonito.skyde">
     <title>Lamput</title>
 </programme>
-<programme start="20260414163500 +0000" stop="20260414164000 +0000" channel="Cartoonito.skyde">
+<programme start="20260414163500 +0000" stop="20260414164500 +0000" channel="Cartoonito.skyde">
     <title>Lamput</title>
 </programme>
-<programme start="20260414164000 +0000" stop="20260414170000 +0000" channel="Cartoonito.skyde">
+<programme start="20260414164500 +0000" stop="20260414170000 +0000" channel="Cartoonito.skyde">
     <title>SuperThings: Rivalen von Kaboom - Kazoom-Power</title>
 </programme>
 <programme start="20260414170000 +0000" stop="20260414171000 +0000" channel="Cartoonito.skyde">
@@ -811,10 +811,10 @@
 <programme start="20260414182500 +0000" stop="20260414183500 +0000" channel="Cartoonito.skyde">
     <title>Mr. Bean - Die Cartoon-Serie</title>
 </programme>
-<programme start="20260414183500 +0000" stop="20260414185500 +0000" channel="Cartoonito.skyde">
+<programme start="20260414183500 +0000" stop="20260414185000 +0000" channel="Cartoonito.skyde">
     <title>Mr. Bean - Die Cartoon-Serie</title>
 </programme>
-<programme start="20260414185500 +0000" stop="20260414190000 +0000" channel="Cartoonito.skyde">
+<programme start="20260414185000 +0000" stop="20260414190000 +0000" channel="Cartoonito.skyde">
     <title>Grizzy und die Lemminge</title>
 </programme>
 <programme start="20260414190000 +0000" stop="20260414190500 +0000" channel="Cartoonito.skyde">
@@ -823,10 +823,10 @@
 <programme start="20260414190500 +0000" stop="20260414192000 +0000" channel="Cartoonito.skyde">
     <title>Grizzy und die Lemminge</title>
 </programme>
-<programme start="20260414192000 +0000" stop="20260414193000 +0000" channel="Cartoonito.skyde">
+<programme start="20260414192000 +0000" stop="20260414192500 +0000" channel="Cartoonito.skyde">
     <title>Grizzy und die Lemminge</title>
 </programme>
-<programme start="20260414193000 +0000" stop="20260414193500 +0000" channel="Cartoonito.skyde">
+<programme start="20260414192500 +0000" stop="20260414193500 +0000" channel="Cartoonito.skyde">
     <title>Grizzy und die Lemminge</title>
 </programme>
 <programme start="20260414193500 +0000" stop="20260414194000 +0000" channel="Cartoonito.skyde">
@@ -841,19 +841,19 @@
 <programme start="20260414200500 +0000" stop="20260414202000 +0000" channel="Cartoonito.skyde">
     <title>Batwheels</title>
 </programme>
-<programme start="20260414202000 +0000" stop="20260414203500 +0000" channel="Cartoonito.skyde">
+<programme start="20260414202000 +0000" stop="20260414203000 +0000" channel="Cartoonito.skyde">
     <title>Batwheels</title>
 </programme>
-<programme start="20260414203500 +0000" stop="20260414204500 +0000" channel="Cartoonito.skyde">
+<programme start="20260414203000 +0000" stop="20260414204500 +0000" channel="Cartoonito.skyde">
     <title>Batwheels</title>
 </programme>
 <programme start="20260414204500 +0000" stop="20260414205000 +0000" channel="Cartoonito.skyde">
     <title>Hier kommen die Batwheels</title>
 </programme>
-<programme start="20260414205000 +0000" stop="20260414210500 +0000" channel="Cartoonito.skyde">
+<programme start="20260414205000 +0000" stop="20260414210000 +0000" channel="Cartoonito.skyde">
     <title>Bugs Bunnys Baumeister</title>
 </programme>
-<programme start="20260414210500 +0000" stop="20260414212000 +0000" channel="Cartoonito.skyde">
+<programme start="20260414210000 +0000" stop="20260414212000 +0000" channel="Cartoonito.skyde">
     <title>Bugs Bunnys Baumeister</title>
 </programme>
 <programme start="20260414212000 +0000" stop="20260414213000 +0000" channel="Cartoonito.skyde">
@@ -1039,23 +1039,8 @@
 <programme start="20260414133000 +0000" stop="20260414152500 +0000" channel="DAZN 2 HD.skyde">
     <title>Bundesliga 25/26: FC Augsburg - TSG 1899 Hoffenheim</title>
 </programme>
-<programme start="20260414152500 +0000" stop="20260414155500 +0000" channel="DAZN 2 HD.skyde">
+<programme start="20260414152500 +0000" stop="20260414154000 +0000" channel="DAZN 2 HD.skyde">
     <title>Best of DAZN: Highlights</title>
-</programme>
-<programme start="20260414155500 +0000" stop="20260414175000 +0000" channel="DAZN 2 HD.skyde">
-    <title>Bundesliga 25/26: Borussia Dortmund - Bayer 04 Leverkusen</title>
-</programme>
-<programme start="20260414175000 +0000" stop="20260414182000 +0000" channel="DAZN 2 HD.skyde">
-    <title>Best of DAZN: Highlights</title>
-</programme>
-<programme start="20260414182000 +0000" stop="20260414193500 +0000" channel="DAZN 2 HD.skyde">
-    <title>ALL IN - Die Bundesliga Highlight Show: 29. Spieltag</title>
-</programme>
-<programme start="20260414193500 +0000" stop="20260414200500 +0000" channel="DAZN 2 HD.skyde">
-    <title>Doppelpack Europa - Highlights der Serie A und Ligue 1 25/26: 32./29. Spieltag</title>
-</programme>
-<programme start="20260414200500 +0000" stop="20260414220000 +0000" channel="DAZN 2 HD.skyde">
-    <title>Bundesliga 25/26: FC Augsburg - TSG 1899 Hoffenheim</title>
 </programme>
 <programme start="20260413230000 +0000" stop="20260413235500 +0000" channel="Heimatkanal.skyde">
     <title>Derrick</title>
@@ -2630,13 +2615,13 @@
     <title>Live UEFA CL: Atletico Madrid - FC Barcelona, Viertelfinale Rückspiel</title>
 </programme>
 <programme start="20260414084000 +0000" stop="20260414090000 +0000" channel="Sky Sport Austria 4 HD.skyde">
-    <title>Es folgt: Live ATP Tour</title>
+    <title>Es folgt: LIVE ATP Tour</title>
 </programme>
-<programme start="20260414090000 +0000" stop="20260414170000 +0000" channel="Sky Sport Austria 4 HD.skyde">
+<programme start="20260414090000 +0000" stop="20260414190000 +0000" channel="Sky Sport Austria 4 HD.skyde">
     <title>Live ATP 500: BMW Open in München, 2. Tag</title>
 </programme>
 <programme start="20260414091000 +0000" stop="20260414093000 +0000" channel="Sky Sport Austria 5 HD.skyde">
-    <title>WTA: Es folgt</title>
+    <title>Es folgt: Live Tennis WTA Tour</title>
 </programme>
 <programme start="20260414093000 +0000" stop="20260414213000 +0000" channel="Sky Sport Austria 5 HD.skyde">
     <title>Live WTA 250: Open Capfinances Rouen Metropole in Rouen (FRA), 2. Tag</title>
