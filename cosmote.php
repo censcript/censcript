@@ -1,7 +1,3 @@
-<programme start="20260415040500 +0700" stop="20260415053000 +0700" channel="COSMOTE Sport 1 HD">
-    <title>UEFA Champions League Show 2025-26 (L)</title>
-    <desc>Live: Ya</desc>
-</programme>
 <programme start="20260415053000 +0700" stop="20260415073000 +0700" channel="COSMOTE Sport 1 HD">
     <title>Football: Bologna - Aston Villa</title>
     <desc>Live: Tidak</desc>
@@ -126,6 +122,14 @@
     <title>Football: FC Bayern Munchen - Real Madrid CF</title>
     <desc>Live: Tidak</desc>
 </programme>
+<programme start="20260416061000 +0700" stop="20260416064000 +0700" channel="COSMOTE Sport 2 HD">
+    <title>Serie A Full Impact 2024-25 E32</title>
+    <desc>Live: Tidak</desc>
+</programme>
+<programme start="20260416064000 +0700" stop="20260416083500 +0700" channel="COSMOTE Sport 2 HD">
+    <title>Football: Bologna - Lecce</title>
+    <desc>Live: Tidak</desc>
+</programme>
 <programme start="20260415040500 +0700" stop="20260415060500 +0700" channel="COSMOTE Sport 3 HD">
     <title>Football: Liverpool FC - Paris Saint Germain</title>
     <desc>Live: Tidak</desc>
@@ -186,8 +190,8 @@
     <title>Football: Arsenal - Sporting CP</title>
     <desc>Live: Tidak</desc>
 </programme>
-<programme start="20260415040500 +0700" stop="20260415055000 +0700" channel="COSMOTE Sport 4 HD">
-    <title>Pick n&#039; Roll</title>
+<programme start="20260416060500 +0700" stop="20260416080500 +0700" channel="COSMOTE Sport 3 HD">
+    <title>Football: Chelsea FC - Port Vale</title>
     <desc>Live: Tidak</desc>
 </programme>
 <programme start="20260415055000 +0700" stop="20260415075500 +0700" channel="COSMOTE Sport 4 HD">
@@ -254,8 +258,8 @@
     <title>ACB Liga Endesa 2024-25 - Fifth Quarter E26</title>
     <desc>Live: Tidak</desc>
 </programme>
-<programme start="20260415035500 +0700" stop="20260415053500 +0700" channel="COSMOTE Sport 5 HD">
-    <title>DTM 2025</title>
+<programme start="20260416060000 +0700" stop="20260416080000 +0700" channel="COSMOTE Sport 4 HD">
+    <title>Basketball: Reyer Venezia - Brescia</title>
     <desc>Live: Tidak</desc>
 </programme>
 <programme start="20260415053500 +0700" stop="20260415065500 +0700" channel="COSMOTE Sport 5 HD">
@@ -406,10 +410,6 @@
     <title>Tennis: ATP 500 2026</title>
     <desc>Live: Tidak</desc>
 </programme>
-<programme start="20260415050000 +0700" stop="20260415060000 +0700" channel="COSMOTE Sport 7 HD">
-    <title>COSMOTESport7HD</title>
-    <desc>Live: Tidak</desc>
-</programme>
 <programme start="20260415060000 +0700" stop="20260415080000 +0700" channel="COSMOTE Sport 7 HD">
     <title>COSMOTESport7HD</title>
     <desc>Live: Tidak</desc>
@@ -478,8 +478,8 @@
     <title>COSMOTESport7HD</title>
     <desc>Live: Tidak</desc>
 </programme>
-<programme start="20260415050000 +0700" stop="20260415060000 +0700" channel="COSMOTE Sport 8 HD">
-    <title>COSMOTESport8HD</title>
+<programme start="20260416060000 +0700" stop="20260416080000 +0700" channel="COSMOTE Sport 7 HD">
+    <title>COSMOTESport7HD</title>
     <desc>Live: Tidak</desc>
 </programme>
 <programme start="20260415060000 +0700" stop="20260415080000 +0700" channel="COSMOTE Sport 8 HD">
@@ -538,8 +538,8 @@
     <title>COSMOTESport8HD</title>
     <desc>Live: Tidak</desc>
 </programme>
-<programme start="20260415040000 +0700" stop="20260415060000 +0700" channel="COSMOTE Sport 9 HD">
-    <title>COSMOTESport9HD</title>
+<programme start="20260416060000 +0700" stop="20260416080000 +0700" channel="COSMOTE Sport 8 HD">
+    <title>COSMOTESport8HD</title>
     <desc>Live: Tidak</desc>
 </programme>
 <programme start="20260415060000 +0700" stop="20260415080000 +0700" channel="COSMOTE Sport 9 HD">
@@ -587,6 +587,10 @@
     <desc>Live: Tidak</desc>
 </programme>
 <programme start="20260416040000 +0700" stop="20260416060000 +0700" channel="COSMOTE Sport 9 HD">
+    <title>COSMOTESport9HD</title>
+    <desc>Live: Tidak</desc>
+</programme>
+<programme start="20260416060000 +0700" stop="20260416080000 +0700" channel="COSMOTE Sport 9 HD">
     <title>COSMOTESport9HD</title>
     <desc>Live: Tidak</desc>
 </programme>

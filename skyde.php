@@ -3076,7 +3076,7 @@ Warning: Undefined array key "et" in /usr/home/ManusiaBiasa/domains/manusiabiasa
     <title>F1: Top 20: Spektakuläre Abflüge</title>
 </programme>
 <programme start="20260415040000 +0000" stop="20260415060000 +0000" channel="Sky Sport Top Event HD.skyde">
-    <title>ATP 500: A. Zverev (GER) - M. Kecmanovic (SRB),, BMW Open in München, 2. Tag</title>
+    <title>ATP 500: A. Zverev (GER) - M. Kecmanovic (SRB), BMW Open in München, 2. Tag</title>
 </programme>
 <programme start="20260415060000 +0000" stop="20260415070000 +0000" channel="Sky Sport Top Event HD.skyde">
     <title>WRC: Highlights: Croatia Rally</title>
