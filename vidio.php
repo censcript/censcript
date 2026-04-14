@@ -7839,7 +7839,7 @@
     <desc lang="id">Wembley '77: Que Sera Sera...</desc>
     <icon src="https://thumbor.prod.vidiocdn.com/xiN-u5MIG7jgOVE2tB_TUIynz7k=/287x162/filters:strip_icc():quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/image/6317/bein-3-616b1c.jpg"/>
   </programme>
-  <programme channel="6317" start="20260414190000 +0000" stop="20260414210000 +0000">
+  <programme channel="6317" start="20260414185500 +0000" stop="20260414210000 +0000">
     <title lang="id">Atletico Madrid vs Barcelona - UEFA Champions League</title>
     <desc lang="id">Nonton streaming pertandingan seru Atletico Madrid vs Barcelona - UEFA Champions League. Saksikan aksi-aksi terbaik dari tim yang bersaing ketat untuk meraih kemenangan. Dapatkan informasi lengkap mengenai jadwal pertandingan dan hasil pertandingan terbaru hanya di Vidio.</desc>
     <icon src="https://thumbor.prod.vidiocdn.com/uiHkoM1T8-59EbfA5fSUxf8qhbg=/287x162/filters:strip_icc():quality(70)/vidio-media-production/uploads/livestreaming/schedule/thumbnail/5014091/23f0a1.jpg"/>

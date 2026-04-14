@@ -511,9 +511,6 @@
 <programme start="20260414054500 +0000" stop="20260414063000 +0000" channel="Trans 7.vision">
 <title>Bocah Petualang</title>
 </programme>
-<programme start="20260414063000 +0000" stop="20260414071500 +0000" channel="Trans 7.vision">
-<title>Indonesiaku</title>
-</programme>
 <programme start="20260414071500 +0000" stop="20260414080000 +0000" channel="Trans 7.vision">
 <title>Redaksi</title>
 </programme>
@@ -625,9 +622,6 @@
 <programme start="20260414003000 +0000" stop="20260414023000 +0000" channel="ANTV.vision">
 <title>Janji Inspektur Virat</title>
 </programme>
-<programme start="20260414023000 +0000" stop="20260414060000 +0000" channel="ANTV.vision">
-<title>Tumko Na Bhool Paayenge</title>
-</programme>
 <programme start="20260414060000 +0000" stop="20260414080000 +0000" channel="ANTV.vision">
 <title>Jhanak</title>
 </programme>
@@ -639,18 +633,6 @@
 </programme>
 <programme start="20260414110000 +0000" stop="20260414130000 +0000" channel="ANTV.vision">
 <title>Membakar Matahari</title>
-</programme>
-<programme start="20260414130000 +0000" stop="20260414143000 +0000" channel="ANTV.vision">
-<title>Bumi Makin Panas</title>
-</programme>
-<programme start="20260414143000 +0000" stop="20260414163000 +0000" channel="ANTV.vision">
-<title>Teenage Mutant Ninja Turtles</title>
-</programme>
-<programme start="20260414163000 +0000" stop="20260414183000 +0000" channel="ANTV.vision">
-<title>Detective Dee: Demon Chonchon</title>
-</programme>
-<programme start="20260414183000 +0000" stop="20260414193000 +0000" channel="ANTV.vision">
-<title>Lop Nor Tomb</title>
 </programme>
 <programme start="20260414193000 +0000" stop="20260414220000 +0000" channel="ANTV.vision">
 <title>Love Aaj Kal 2</title>
@@ -1497,4 +1479,22 @@
 </programme>
 <programme start="20260414210000 +0000" stop="20260415000000 +0000" channel="DAAI TV.vision">
 <title>DAAI TV</title>
+</programme>
+<programme start="20260415000000 +0000" stop="20260415030000 +0000" channel="DAAI TV.vision">
+<title>DAAI TV</title>
+</programme>
+<programme start="20260415030000 +0000" stop="20260415060000 +0000" channel="DAAI TV.vision">
+<title>DAAI TV</title>
+</programme>
+<programme start="20260415060000 +0000" stop="20260415090000 +0000" channel="DAAI TV.vision">
+<title>DAAI TV</title>
+</programme>
+<programme start="20260415090000 +0000" stop="20260415120000 +0000" channel="DAAI TV.vision">
+<title>DAAI TV</title>
+</programme>
+<programme start="20260413234500 +0000" stop="20260414010500 +0000" channel="MDTV.vision">
+<title>MDTV</title>
+</programme>
+<programme start="20260414010500 +0000" stop="20260414020000 +0000" channel="MDTV.vision">
+<title>MDTV</title>
 </programme>

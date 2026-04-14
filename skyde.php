@@ -1051,10 +1051,10 @@
 <programme start="20260414183000 +0000" stop="20260414190000 +0000" channel="DAZN 2 HD.skyde">
     <title>Never Talk Alone: Sami Khedira und Michael Ballack. Nur in Deutschland verfügbar!</title>
 </programme>
-<programme start="20260414190000 +0000" stop="20260414211600 +0000" channel="DAZN 2 HD.skyde">
+<programme start="20260414190000 +0000" stop="20260414213000 +0000" channel="DAZN 2 HD.skyde">
     <title>UEFA Champions League Features 25/26: UCL Halbfinale 11/12: FC Bayern - Real Madrid. Nur in Deutschland verfügbar!</title>
 </programme>
-<programme start="20260414211600 +0000" stop="20260414220000 +0000" channel="DAZN 2 HD.skyde">
+<programme start="20260414213000 +0000" stop="20260414220000 +0000" channel="DAZN 2 HD.skyde">
     <title>Best of DAZN: Highlights</title>
 </programme>
 <programme start="20260413230000 +0000" stop="20260413235500 +0000" channel="Heimatkanal.skyde">
@@ -3169,14 +3169,14 @@
 <programme start="20260414210000 +0000" stop="20260414220000 +0000" channel="Sky Sport Tennis HD.skyde">
     <title>ATP 1000: Review Monte-Carlo</title>
 </programme>
-<programme start="20260413220000 +0000" stop="20260413230000 +0000" channel="Sky Sport Top Event HD.skyde">
+<programme start="20260413220500 +0000" stop="20260413230000 +0000" channel="Sky Sport Top Event HD.skyde">
     <title>ATP 1000: Review Monte-Carlo</title>
 </programme>
 <programme start="20260413230000 +0000" stop="20260414020000 +0000" channel="Sky Sport Top Event HD.skyde">
     <title>Live NHL: Detroit Red Wings @ Tampa Bay Lightning</title>
 </programme>
 <programme start="20260414020000 +0000" stop="20260414040000 +0000" channel="Sky Sport Top Event HD.skyde">
-    <title>ATP 500: J.-L. Struff (GER) - F. Cerundulo (ARG), BMW Open in München, 1. Tag</title>
+    <title>ATP 500: Y. Hanfmann (GER) - A. Blockx (BEL), BMW Open in München, 1. Tag</title>
 </programme>
 <programme start="20260414040000 +0000" stop="20260414050000 +0000" channel="Sky Sport Top Event HD.skyde">
     <title>3. Liga: Alle Spiele, alle Tore, 33. Spieltag komplett</title>
@@ -3185,7 +3185,7 @@
     <title>BL: Glanzparade - Die Show mit Buschmann, Fuss und Wagner</title>
 </programme>
 <programme start="20260414060000 +0000" stop="20260414070000 +0000" channel="Sky Sport Top Event HD.skyde">
-    <title>Fußball: Nachspielzeit - Das Beste vom Fußball-Wochenende</title>
+    <title>3. Liga: Alle Spiele, alle Tore, 33. Spieltag komplett</title>
 </programme>
 <programme start="20260414070000 +0000" stop="20260414073000 +0000" channel="Sky Sport Top Event HD.skyde">
     <title>EFL: Highlights, 43. Spieltag</title>
