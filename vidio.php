@@ -216,11 +216,11 @@
     <desc lang="id">Film televisi yang mengangkat kisah romantisme kehidupan dengan konflik yang menarik. Tayang setiap hari.</desc>
     <icon src="https://thumbor.prod.vidiocdn.com/N99E8BD1OJ5vvymwPBj0c-BU5J4=/287x162/filters:strip_icc():quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/image/204/sctv-5ef966.jpg"/>
   </programme>
-  <programme channel="204" start="20260414181600 +0000" stop="20260414210600 +0000">
+  <programme channel="204" start="20260414181600 +0000" stop="20260414210400 +0000">
     <title lang="id">Liverpool Vs Psg - Uefa Champions League Quarter Final - Live</title>
     <icon src="https://thumbor.prod.vidiocdn.com/N99E8BD1OJ5vvymwPBj0c-BU5J4=/287x162/filters:strip_icc():quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/image/204/sctv-5ef966.jpg"/>
   </programme>
-  <programme channel="204" start="20260414210600 +0000" stop="20260414213000 +0000">
+  <programme channel="204" start="20260414210400 +0000" stop="20260414213000 +0000">
     <title lang="id">Barakallah</title>
     <desc lang="id">Ceramah islami penuh makna. Tayang setiap selasa - minggu, mulai pukul 04.00 WIB</desc>
     <icon src="https://thumbor.prod.vidiocdn.com/N99E8BD1OJ5vvymwPBj0c-BU5J4=/287x162/filters:strip_icc():quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/image/204/sctv-5ef966.jpg"/>
@@ -7839,12 +7839,12 @@
     <desc lang="id">Wembley '77: Que Sera Sera...</desc>
     <icon src="https://thumbor.prod.vidiocdn.com/xiN-u5MIG7jgOVE2tB_TUIynz7k=/287x162/filters:strip_icc():quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/image/6317/bein-3-616b1c.jpg"/>
   </programme>
-  <programme channel="6317" start="20260414185500 +0000" stop="20260414210000 +0000">
+  <programme channel="6317" start="20260414185500 +0000" stop="20260414210300 +0000">
     <title lang="id">Atletico Madrid vs Barcelona - UEFA Champions League</title>
     <desc lang="id">Nonton streaming pertandingan seru Atletico Madrid vs Barcelona - UEFA Champions League. Saksikan aksi-aksi terbaik dari tim yang bersaing ketat untuk meraih kemenangan. Dapatkan informasi lengkap mengenai jadwal pertandingan dan hasil pertandingan terbaru hanya di Vidio.</desc>
     <icon src="https://thumbor.prod.vidiocdn.com/uiHkoM1T8-59EbfA5fSUxf8qhbg=/287x162/filters:strip_icc():quality(70)/vidio-media-production/uploads/livestreaming/schedule/thumbnail/5014091/23f0a1.jpg"/>
   </programme>
-  <programme channel="6317" start="20260414210000 +0000" stop="20260414220000 +0000">
+  <programme channel="6317" start="20260414210300 +0000" stop="20260414220000 +0000">
     <title lang="id">QFs,1st Leg : UEFA Europa/Conference League Highlights 2025/26</title>
     <desc lang="id">QFs,1st Leg</desc>
     <icon src="https://thumbor.prod.vidiocdn.com/xiN-u5MIG7jgOVE2tB_TUIynz7k=/287x162/filters:strip_icc():quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/image/6317/bein-3-616b1c.jpg"/>
@@ -8597,12 +8597,12 @@
     <title lang="id">Filler</title>
     <icon src="https://thumbor.prod.vidiocdn.com/edoqRinFCRhrRwQ2ngcXacb_q74=/287x162/filters:strip_icc():quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/image/6685/champions-tv-1-54e282.jpg"/>
   </programme>
-  <programme channel="6685" start="20260414185500 +0000" stop="20260414210000 +0000">
+  <programme channel="6685" start="20260414185500 +0000" stop="20260414205600 +0000">
     <title lang="id">Portsmouth vs Ipswich - EFL Championship</title>
     <desc lang="id">Nonton streaming pertandingan seru Portsmouth vs Ipswich - EFL Championship. Saksikan aksi-aksi terbaik dari tim yang bersaing ketat untuk meraih kemenangan. Dapatkan informasi lengkap mengenai jadwal pertandingan dan hasil pertandingan terbaru hanya di Vidio.</desc>
     <icon src="https://thumbor.prod.vidiocdn.com/BK7hlnr-bLAbekpR2A0wlzXYa_E=/287x162/filters:strip_icc():quality(70)/vidio-media-production/uploads/livestreaming/schedule/thumbnail/5014308/19720e.jpg"/>
   </programme>
-  <programme channel="6685" start="20260414210000 +0000" stop="20260414213000 +0000">
+  <programme channel="6685" start="20260414205600 +0000" stop="20260414213000 +0000">
     <title lang="id">Eps 40 : PL Story 2023/24 - Subs</title>
     <desc lang="id">Eps 40</desc>
     <icon src="https://thumbor.prod.vidiocdn.com/edoqRinFCRhrRwQ2ngcXacb_q74=/287x162/filters:strip_icc():quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/image/6685/champions-tv-1-54e282.jpg"/>
@@ -16569,12 +16569,12 @@
     <desc lang="id">HIGHLIGHT Show 33</desc>
     <icon src="https://thumbor.prod.vidiocdn.com/xgkik6iws0EJ01bi5cJsIjYWjOM=/287x162/filters:strip_icc():quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/image/6686/champions-tv-2-681a27.jpg"/>
   </programme>
-  <programme channel="6686" start="20260414185500 +0000" stop="20260414210000 +0000">
+  <programme channel="6686" start="20260414185500 +0000" stop="20260414205700 +0000">
     <title lang="id">SOUTHAMPTON VS BLACKBURN ROVERS : EFL 2025/26 CHAMPIONSHIP</title>
     <desc lang="id">SOUTHAMPTON VS BLACKBURN ROVERS</desc>
     <icon src="https://thumbor.prod.vidiocdn.com/xgkik6iws0EJ01bi5cJsIjYWjOM=/287x162/filters:strip_icc():quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/image/6686/champions-tv-2-681a27.jpg"/>
   </programme>
-  <programme channel="6686" start="20260414210000 +0000" stop="20260414230000 +0000">
+  <programme channel="6686" start="20260414205700 +0000" stop="20260414230000 +0000">
     <title lang="id">CREMONESE VS FIORENTINA : SERIE A 2025/26</title>
     <desc lang="id">CREMONESE VS FIORENTINA</desc>
     <icon src="https://thumbor.prod.vidiocdn.com/xgkik6iws0EJ01bi5cJsIjYWjOM=/287x162/filters:strip_icc():quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/image/6686/champions-tv-2-681a27.jpg"/>

@@ -1051,10 +1051,10 @@
 <programme start="20260414183000 +0000" stop="20260414190000 +0000" channel="DAZN 2 HD.skyde">
     <title>Never Talk Alone: Sami Khedira und Michael Ballack. Nur in Deutschland verfügbar!</title>
 </programme>
-<programme start="20260414190000 +0000" stop="20260414213000 +0000" channel="DAZN 2 HD.skyde">
+<programme start="20260414190000 +0000" stop="20260414211600 +0000" channel="DAZN 2 HD.skyde">
     <title>UEFA Champions League Features 25/26: UCL Halbfinale 11/12: FC Bayern - Real Madrid. Nur in Deutschland verfügbar!</title>
 </programme>
-<programme start="20260414213000 +0000" stop="20260414220000 +0000" channel="DAZN 2 HD.skyde">
+<programme start="20260414211600 +0000" stop="20260414220000 +0000" channel="DAZN 2 HD.skyde">
     <title>Best of DAZN: Highlights</title>
 </programme>
 <programme start="20260413230000 +0000" stop="20260413235500 +0000" channel="Heimatkanal.skyde">
@@ -2626,7 +2626,7 @@
 <programme start="20260414180000 +0000" stop="20260414185000 +0000" channel="Sky Sport Austria 3 HD.skyde">
     <title>Live Die UEFA CL am Dienstag: Vorbericht</title>
 </programme>
-<programme start="20260414185000 +0000" stop="20260414220000 +0000" channel="Sky Sport Austria 3 HD.skyde">
+<programme start="20260414185000 +0000" stop="20260414211000 +0000" channel="Sky Sport Austria 3 HD.skyde">
     <title>Live UEFA CL: Atletico Madrid - FC Barcelona, Viertelfinale Rückspiel</title>
 </programme>
 <programme start="20260414084000 +0000" stop="20260414090000 +0000" channel="Sky Sport Austria 4 HD.skyde">
@@ -3205,10 +3205,10 @@
 <programme start="20260414084500 +0000" stop="20260414090000 +0000" channel="Sky Sport Top Event HD.skyde">
     <title>EFL: Highlights XXL: Norwich City - Ipswich Town, 42. Spieltag</title>
 </programme>
-<programme start="20260414090000 +0000" stop="20260414170000 +0000" channel="Sky Sport Top Event HD.skyde">
+<programme start="20260414090000 +0000" stop="20260414173000 +0000" channel="Sky Sport Top Event HD.skyde">
     <title>Live ATP 500: BMW Open in München, 2. Tag</title>
 </programme>
-<programme start="20260414170000 +0000" stop="20260414210000 +0000" channel="Sky Sport Top Event HD.skyde">
+<programme start="20260414173000 +0000" stop="20260414210000 +0000" channel="Sky Sport Top Event HD.skyde">
     <title>Live WTA 500: Porsche Tennis Grand Prix in Stuttgart, 2. Tag</title>
 </programme>
 <programme start="20260414210000 +0000" stop="20260414220000 +0000" channel="Sky Sport Top Event HD.skyde">
@@ -3232,13 +3232,13 @@
 <programme start="20260414101000 +0000" stop="20260414103000 +0000" channel="Sky Sport 1 HD.skyde">
     <title>Es folgt: LIVE WTA Tour</title>
 </programme>
-<programme start="20260414103000 +0000" stop="20260414230000 +0000" channel="Sky Sport 1 HD.skyde">
+<programme start="20260414103000 +0000" stop="20260414211500 +0000" channel="Sky Sport 1 HD.skyde">
     <title>Live WTA 500: Porsche Tennis Grand Prix in Stuttgart, 2. Tag</title>
 </programme>
 <programme start="20260414084000 +0000" stop="20260414090000 +0000" channel="Sky Sport 2 HD.skyde">
     <title>Es folgt: LIVE ATP Tour</title>
 </programme>
-<programme start="20260414090000 +0000" stop="20260414200000 +0000" channel="Sky Sport 2 HD.skyde">
+<programme start="20260414090000 +0000" stop="20260414182000 +0000" channel="Sky Sport 2 HD.skyde">
     <title>Live ATP 500: Barcelona Open BancSabadell in Barcelona (ESP), 2. Tag</title>
 </programme>
 <programme start="20260413221500 +0000" stop="20260413230000 +0000" channel="SYFY HD.skyde">
