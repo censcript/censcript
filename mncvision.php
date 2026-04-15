@@ -34,10 +34,10 @@
 <programme start="20260415040500 +0000" stop="20260415043500 +0000" channel="ABC Australia.mncvision">
     <title>Dr. Karl&#039;s How Things Work</title>
 </programme>
-<programme start="20260415043500 +0000" stop="20260415053000 +0000" channel="ABC Australia.mncvision">
+<programme start="20260415043500 +0000" stop="20260415053500 +0000" channel="ABC Australia.mncvision">
     <title>Grand Designs Transformations</title>
 </programme>
-<programme start="20260415053000 +0000" stop="20260415060500 +0000" channel="ABC Australia.mncvision">
+<programme start="20260415053500 +0000" stop="20260415060500 +0000" channel="ABC Australia.mncvision">
     <title>Dream Gardens</title>
 </programme>
 <programme start="20260415060500 +0000" stop="20260415070000 +0000" channel="ABC Australia.mncvision">
@@ -85,8 +85,11 @@
 <programme start="20260415150000 +0000" stop="20260415160000 +0000" channel="ABC Australia.mncvision">
     <title>The World</title>
 </programme>
-<programme start="20260415160000 +0000" stop="20260415163000 +0000" channel="ABC Australia.mncvision">
+<programme start="20260415160000 +0000" stop="20260415165500 +0000" channel="ABC Australia.mncvision">
     <title>Grand Designs Transformations</title>
+</programme>
+<programme start="20260415165500 +0000" stop="20260414172500 +0000" channel="ABC Australia.mncvision">
+    <title>Dream Gardens</title>
 </programme>
 <programme start="20260414170000 +0000" stop="20260414173000 +0000" channel="Al Jazeera English.mncvision">
     <title>News (L)</title>
@@ -416,7 +419,7 @@
     <title>Nyi Blorong</title>
 </programme>
 <programme start="20260415143000 +0000" stop="20260415163000 +0000" channel="ANTV.mncvision">
-    <title>Teenage Mutant Ninja Turtles 2</title>
+    <title>Lukisan Berdarah</title>
 </programme>
 <programme start="20260415163000 +0000" stop="20260414170000 +0000" channel="ANTV.mncvision">
     <title>Star Abyss</title>

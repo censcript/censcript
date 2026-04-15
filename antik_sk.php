@@ -2783,7 +2783,7 @@
     <title lang="id">VSTÁVÁME S DECHOVKOU</title>
   </programme>
   <programme start="20260417050000 +0000" stop="20260417060000 +0000" channel="Šláger Originál.webtv.sk">
-    <title lang="id">ŠLÁGRMIX</title>
+    <title lang="id">HITPANORAMA</title>
   </programme>
   <programme start="20260417060000 +0000" stop="20260417070000 +0000" channel="Šláger Originál.webtv.sk">
     <title lang="id">PÍSNIČKOVÉ DOPOLEDNE</title>
@@ -2794,20 +2794,20 @@
   <programme start="20260417090000 +0000" stop="20260417103000 +0000" channel="Šláger Originál.webtv.sk">
     <title lang="id">DECHOVKA O JEDENÁCTÉ</title>
   </programme>
-  <programme start="20260417103000 +0000" stop="20260417120000 +0000" channel="Šláger Originál.webtv.sk">
+  <programme start="20260417103000 +0000" stop="20260417113500 +0000" channel="Šláger Originál.webtv.sk">
     <title lang="id">PÍSNIČKY NA PŘÁNÍ</title>
   </programme>
-  <programme start="20260417120000 +0000" stop="20260417130000 +0000" channel="Šláger Originál.webtv.sk">
+  <programme start="20260417113500 +0000" stop="20260417130000 +0000" channel="Šláger Originál.webtv.sk">
     <title lang="id">SÁZKA NA HIT</title>
   </programme>
   <programme start="20260417130000 +0000" stop="20260417143000 +0000" channel="Šláger Originál.webtv.sk">
     <title lang="id">ODPOLEDNÍ STUDIO</title>
   </programme>
-  <programme start="20260417143000 +0000" stop="20260417160000 +0000" channel="Šláger Originál.webtv.sk">
+  <programme start="20260417143000 +0000" stop="20260417175000 +0000" channel="Šláger Originál.webtv.sk">
     <title lang="id">LATTÉ O PŮL PÁTÉ</title>
   </programme>
-  <programme start="20260417160000 +0000" stop="20260417182000 +0000" channel="Šláger Originál.webtv.sk">
-    <title lang="id">PODVEČERNÍ ZÁBAVA</title>
+  <programme start="20260417175000 +0000" stop="20260417182000 +0000" channel="Šláger Originál.webtv.sk">
+    <title lang="id">SÁZKA NA HIT</title>
   </programme>
   <programme start="20260417182000 +0000" stop="20260417220000 +0000" channel="Šláger Originál.webtv.sk">
     <title lang="id">VEČERNÍ POŘAD</title>
@@ -4960,8 +4960,35 @@
   <programme start="20260417073000 +0000" stop="20260417080000 +0000" channel="Arena Sport 1.webtv.sk">
     <title lang="id">Autožurnál</title>
   </programme>
-  <programme start="20260417080000 +0000" stop="20260417120000 +0000" channel="Arena Sport 1.webtv.sk">
-    <title lang="id">WTT Feeder Havířov 2025</title>
+  <programme start="20260417080000 +0000" stop="20260417083000 +0000" channel="Arena Sport 1.webtv.sk">
+    <title lang="id">GarazTV</title>
+  </programme>
+  <programme start="20260417083000 +0000" stop="20260417090000 +0000" channel="Arena Sport 1.webtv.sk">
+    <title lang="id">Motoring</title>
+  </programme>
+  <programme start="20260417090000 +0000" stop="20260417093000 +0000" channel="Arena Sport 1.webtv.sk">
+    <title lang="id">DRIVE IT - Ondrej Macko</title>
+  </programme>
+  <programme start="20260417093000 +0000" stop="20260417100000 +0000" channel="Arena Sport 1.webtv.sk">
+    <title lang="id">Motoring</title>
+  </programme>
+  <programme start="20260417100000 +0000" stop="20260417103000 +0000" channel="Arena Sport 1.webtv.sk">
+    <title lang="id">DominicCars</title>
+  </programme>
+  <programme start="20260417103000 +0000" stop="20260417104500 +0000" channel="Arena Sport 1.webtv.sk">
+    <title lang="id">Piok Cars</title>
+  </programme>
+  <programme start="20260417104500 +0000" stop="20260417110000 +0000" channel="Arena Sport 1.webtv.sk">
+    <title lang="id">Martin z Martina</title>
+  </programme>
+  <programme start="20260417110000 +0000" stop="20260417111500 +0000" channel="Arena Sport 1.webtv.sk">
+    <title lang="id">Švihák testuje</title>
+  </programme>
+  <programme start="20260417111500 +0000" stop="20260417113000 +0000" channel="Arena Sport 1.webtv.sk">
+    <title lang="id">GarazTV</title>
+  </programme>
+  <programme start="20260417113000 +0000" stop="20260417120000 +0000" channel="Arena Sport 1.webtv.sk">
+    <title lang="id">GarazTV</title>
   </programme>
   <programme start="20260417120000 +0000" stop="20260417123000 +0000" channel="Arena Sport 1.webtv.sk">
     <title lang="id">DominicCars</title>
@@ -4978,11 +5005,11 @@
   <programme start="20260417141500 +0000" stop="20260417143000 +0000" channel="Arena Sport 1.webtv.sk">
     <title lang="id">ENDURO magazín</title>
   </programme>
-  <programme start="20260417143000 +0000" stop="20260417193000 +0000" channel="Arena Sport 1.webtv.sk">
+  <programme start="20260417143000 +0000" stop="20260417180000 +0000" channel="Arena Sport 1.webtv.sk">
     <title lang="id">WTT Feeder Havířov 2025</title>
   </programme>
-  <programme start="20260417193000 +0000" stop="20260417200000 +0000" channel="Arena Sport 1.webtv.sk">
-    <title lang="id">GarazTV</title>
+  <programme start="20260417180000 +0000" stop="20260417200000 +0000" channel="Arena Sport 1.webtv.sk">
+    <title lang="id">Tatran Prešov futsal - Futsal team Levice</title>
   </programme>
   <programme start="20260417200000 +0000" stop="20260417203000 +0000" channel="Arena Sport 1.webtv.sk">
     <title lang="id">Motoring</title>
@@ -18185,7 +18212,7 @@
     <title lang="id">K-arts Artists</title>
   </programme>
   <programme start="20260417073000 +0000" stop="20260417080000 +0000" channel="Arirang TV.webtv.sk">
-    <title lang="id">Home Explorers 2</title>
+    <title lang="id">Vibe In Action: K-initiative</title>
   </programme>
   <programme start="20260417080000 +0000" stop="20260417083000 +0000" channel="Arirang TV.webtv.sk">
     <title lang="id">The Daily Report</title>
@@ -18200,7 +18227,7 @@
     <title lang="id">Peace Insight</title>
   </programme>
   <programme start="20260417103000 +0000" stop="20260417110000 +0000" channel="Arirang TV.webtv.sk">
-    <title lang="id">Vibe In Action: K-initiative</title>
+    <title lang="id">Home Explorers 2</title>
   </programme>
   <programme start="20260417110000 +0000" stop="20260417113000 +0000" channel="Arirang TV.webtv.sk">
     <title lang="id">Newscenter</title>
@@ -18224,13 +18251,13 @@
     <title lang="id">Korea Travelogue 5</title>
   </programme>
   <programme start="20260417133000 +0000" stop="20260417140000 +0000" channel="Arirang TV.webtv.sk">
-    <title lang="id">Mystory</title>
+    <title lang="id">Vibe In Action: K-initiative</title>
   </programme>
   <programme start="20260417140000 +0000" stop="20260417143000 +0000" channel="Arirang TV.webtv.sk">
     <title lang="id">Press Perspective</title>
   </programme>
   <programme start="20260417143000 +0000" stop="20260417150000 +0000" channel="Arirang TV.webtv.sk">
-    <title lang="id">K-food Class</title>
+    <title lang="id">Mystory</title>
   </programme>
   <programme start="20260417150000 +0000" stop="20260417153000 +0000" channel="Arirang TV.webtv.sk">
     <title lang="id">News Generation</title>

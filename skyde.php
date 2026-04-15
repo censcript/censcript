@@ -3076,7 +3076,7 @@ Warning: Undefined array key "et" in /usr/home/ManusiaBiasa/domains/manusiabiasa
     <title>F1: Top 20: Spektakuläre Abflüge</title>
 </programme>
 <programme start="20260415040000 +0000" stop="20260415060000 +0000" channel="Sky Sport Top Event HD.skyde">
-    <title>ATP 500: A. Zverev (GER) - M. Kecmanovic (SRB),, BMW Open in München, 2. Tag</title>
+    <title>ATP 500: A. Zverev (GER) - M. Kecmanovic (SRB), BMW Open in München, 2. Tag</title>
 </programme>
 <programme start="20260415060000 +0000" stop="20260415070000 +0000" channel="Sky Sport Top Event HD.skyde">
     <title>WRC: Highlights: Croatia Rally</title>
@@ -3099,7 +3099,7 @@ Warning: Undefined array key "et" in /usr/home/ManusiaBiasa/domains/manusiabiasa
 <programme start="20260415101000 +0000" stop="20260415103000 +0000" channel="Sky Sport 1 HD.skyde">
     <title>Es folgt: Live Tennis WTA Tour</title>
 </programme>
-<programme start="20260415103000 +0000" stop="20260415230000 +0000" channel="Sky Sport 1 HD.skyde">
+<programme start="20260415103000 +0000" stop="20260415210000 +0000" channel="Sky Sport 1 HD.skyde">
     <title>Live WTA 500: Porsche Tennis Grand Prix in Stuttgart, 3. Tag</title>
 </programme>
 <programme start="20260415084000 +0000" stop="20260415090000 +0000" channel="Sky Sport 2 HD.skyde">
