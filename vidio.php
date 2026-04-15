@@ -6064,12 +6064,12 @@
     <desc lang="id">Borja Iglesias</desc>
     <icon src="https://thumbor.prod.vidiocdn.com/5yUHYfv_b1sZi7kdFElm8JqF2RY=/287x162/filters:strip_icc():quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/image/6299/bein-1-4bd997.jpg"/>
   </programme>
-  <programme channel="6299" start="20260415180000 +0000" stop="20260415185500 +0000">
+  <programme channel="6299" start="20260415180000 +0000" stop="20260415185400 +0000">
     <title lang="id">Bayern vs Real Madrid - Wed, QF, 2nd Leg : The UCL Preview Show 2025/26</title>
     <desc lang="id">Bayern vs Real Madrid - Wed, QF, 2nd Leg</desc>
     <icon src="https://thumbor.prod.vidiocdn.com/5yUHYfv_b1sZi7kdFElm8JqF2RY=/287x162/filters:strip_icc():quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/image/6299/bein-1-4bd997.jpg"/>
   </programme>
-  <programme channel="6299" start="20260415190000 +0000" stop="20260415210000 +0000">
+  <programme channel="6299" start="20260415185400 +0000" stop="20260415210000 +0000">
     <title lang="id">Bayern vs Real Madrid - UEFA Champions League</title>
     <desc lang="id">Nonton streaming pertandingan seru Bayern vs Real Madrid - UEFA Champions League. Saksikan aksi-aksi terbaik dari tim yang bersaing ketat untuk meraih kemenangan. Dapatkan informasi lengkap mengenai jadwal pertandingan dan hasil pertandingan terbaru hanya di Vidio.</desc>
     <icon src="https://thumbor.prod.vidiocdn.com/PyDpMaHzLlMdyxEuyl6E8uv158Y=/287x162/filters:strip_icc():quality(70)/vidio-media-production/uploads/livestreaming/schedule/thumbnail/5014312/e8ab2f.jpg"/>
@@ -6914,12 +6914,12 @@
     <desc lang="id">Angola vs Egypt - Group Stage</desc>
     <icon src="https://thumbor.prod.vidiocdn.com/xiN-u5MIG7jgOVE2tB_TUIynz7k=/287x162/filters:strip_icc():quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/image/6317/bein-3-616b1c.jpg"/>
   </programme>
-  <programme channel="6317" start="20260415180000 +0000" stop="20260415185500 +0000">
+  <programme channel="6317" start="20260415180000 +0000" stop="20260415185400 +0000">
     <title lang="id">Schmeichel: The Interview : MUTV: Specials</title>
     <desc lang="id">Schmeichel: The Interview</desc>
     <icon src="https://thumbor.prod.vidiocdn.com/xiN-u5MIG7jgOVE2tB_TUIynz7k=/287x162/filters:strip_icc():quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/image/6317/bein-3-616b1c.jpg"/>
   </programme>
-  <programme channel="6317" start="20260415190000 +0000" stop="20260415210000 +0000">
+  <programme channel="6317" start="20260415185400 +0000" stop="20260415210000 +0000">
     <title lang="id">Arsenal vs Sporting - UEFA Champions League</title>
     <desc lang="id">Nonton streaming pertandingan seru Arsenal vs Sporting - UEFA Champions League. Saksikan aksi-aksi terbaik dari tim yang bersaing ketat untuk meraih kemenangan. Dapatkan informasi lengkap mengenai jadwal pertandingan dan hasil pertandingan terbaru hanya di Vidio.</desc>
     <icon src="https://thumbor.prod.vidiocdn.com/RtnzcFrCOZIYzCEBejC6Pj0xAWI=/287x162/filters:strip_icc():quality(70)/vidio-media-production/uploads/livestreaming/schedule/thumbnail/5014311/4ed817.jpg"/>
@@ -12576,24 +12576,19 @@
     <title lang="id">This Is Paris 2025/26</title>
     <icon src="https://thumbor.prod.vidiocdn.com/VmoYokSeKr_3SubUXC-rMC-EtQM=/287x162/filters:strip_icc():quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/image/17875/bein-2-25a5f9.jpg"/>
   </programme>
-  <programme channel="17875" start="20260415140000 +0000" stop="20260415183000 +0000">
+  <programme channel="17875" start="20260415140000 +0000" stop="20260415202500 +0000">
     <title lang="id">Newgiza P2 Premier Padel 2026 - Day 3</title>
     <desc lang="id">Nonton streaming pertandingan seru Newgiza P2 Premier Padel 2026 - Day 3. Saksikan aksi-aksi terbaik dari tim yang bersaing ketat untuk meraih kemenangan. Dapatkan informasi lengkap mengenai jadwal pertandingan dan hasil pertandingan terbaru hanya di Vidio.</desc>
     <icon src="https://thumbor.prod.vidiocdn.com/CNHDHTjeC_YMVzLhDwCda0JMask=/287x162/filters:strip_icc():quality(70)/vidio-media-production/uploads/livestreaming/schedule/thumbnail/5014766/e05d97.jpg"/>
   </programme>
-  <programme channel="17875" start="20260415140000 +0000" stop="20260415183000 +0000">
+  <programme channel="17875" start="20260415140000 +0000" stop="20260415202500 +0000">
     <title lang="id">Newgiza P2 Premier Padel 2026 - Day 3</title>
     <desc lang="id">Nonton streaming pertandingan seru Newgiza P2 Premier Padel 2026 - Day 3. Saksikan aksi-aksi terbaik dari tim yang bersaing ketat untuk meraih kemenangan. Dapatkan informasi lengkap mengenai jadwal pertandingan dan hasil pertandingan terbaru hanya di Vidio.</desc>
     <icon src="https://thumbor.prod.vidiocdn.com/CNHDHTjeC_YMVzLhDwCda0JMask=/287x162/filters:strip_icc():quality(70)/vidio-media-production/uploads/livestreaming/schedule/thumbnail/5014766/e05d97.jpg"/>
   </programme>
-  <programme channel="17875" start="20260415183000 +0000" stop="20260415185500 +0000">
+  <programme channel="17875" start="20260415202500 +0000" stop="20260415204500 +0000">
     <title lang="id">Fiji vs South Africa - New York Day 2, Men : HSBC SVNS Series 2026</title>
     <desc lang="id">Fiji vs South Africa - New York Day 2, Men</desc>
-    <icon src="https://thumbor.prod.vidiocdn.com/VmoYokSeKr_3SubUXC-rMC-EtQM=/287x162/filters:strip_icc():quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/image/17875/bein-2-25a5f9.jpg"/>
-  </programme>
-  <programme channel="17875" start="20260415185500 +0000" stop="20260415204500 +0000">
-    <title lang="id">Paris-Nice - Stage 4 : UCI World Tour 2026</title>
-    <desc lang="id">Paris-Nice - Stage 4</desc>
     <icon src="https://thumbor.prod.vidiocdn.com/VmoYokSeKr_3SubUXC-rMC-EtQM=/287x162/filters:strip_icc():quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/image/17875/bein-2-25a5f9.jpg"/>
   </programme>
   <programme channel="17875" start="20260415204500 +0000" stop="20260415223500 +0000">
