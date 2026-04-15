@@ -2419,10 +2419,10 @@
     <programme start="20260415060000 +0000" stop="20260415090000 +0000" channel="Hub Sports 2 HD.starhub">
         <title>QF: West Ham United vs Leeds United AFC</title>
     </programme>
-    <programme start="20260415090000 +0000" stop="20260415130000 +0000" channel="Hub Sports 2 HD.starhub">
+    <programme start="20260415090000 +0000" stop="20260415132800 +0000" channel="Hub Sports 2 HD.starhub">
         <title>BMW Open by BitPanda (500) Day 3 Round 2</title>
     </programme>
-    <programme start="20260415130000 +0000" stop="20260415160000 +0000" channel="Hub Sports 2 HD.starhub">
+    <programme start="20260415132800 +0000" stop="20260415160000 +0000" channel="Hub Sports 2 HD.starhub">
         <title>UFC 322: Della Maddalena vs Makhachev</title>
     </programme>
     <programme start="20260414141500 +0000" stop="20260414161500 +0000" channel="The Filipino Channel HD.starhub">
