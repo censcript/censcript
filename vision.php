@@ -637,6 +637,12 @@
 <programme start="20260415090000 +0000" stop="20260415110000 +0000" channel="ANTV.vision">
 <title>Vasudha</title>
 </programme>
+<programme start="20260415110000 +0000" stop="20260415130000 +0000" channel="ANTV.vision">
+<title>Pendekar Ilmu Api</title>
+</programme>
+<programme start="20260415130000 +0000" stop="20260415143000 +0000" channel="ANTV.vision">
+<title>Nyi Blorong</title>
+</programme>
 <programme start="20260415143000 +0000" stop="20260415163000 +0000" channel="ANTV.vision">
 <title>Lukisan Berdarah</title>
 </programme>
@@ -1490,11 +1496,5 @@
 <title>DAAI TV</title>
 </programme>
 <programme start="20260415150000 +0000" stop="20260415180000 +0000" channel="DAAI TV.vision">
-<title>DAAI TV</title>
-</programme>
-<programme start="20260415180000 +0000" stop="20260415210000 +0000" channel="DAAI TV.vision">
-<title>DAAI TV</title>
-</programme>
-<programme start="20260415210000 +0000" stop="20260416000000 +0000" channel="DAAI TV.vision">
 <title>DAAI TV</title>
 </programme>
