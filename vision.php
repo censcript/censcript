@@ -625,6 +625,9 @@
 <programme start="20260415003000 +0000" stop="20260415023000 +0000" channel="ANTV.vision">
 <title>Janji Inspektur Virat</title>
 </programme>
+<programme start="20260415023000 +0000" stop="20260415060000 +0000" channel="ANTV.vision">
+<title>Chori Chori Chupke Chupke</title>
+</programme>
 <programme start="20260415060000 +0000" stop="20260415080000 +0000" channel="ANTV.vision">
 <title>Jhanak</title>
 </programme>
@@ -635,13 +638,13 @@
 <title>Vasudha</title>
 </programme>
 <programme start="20260415110000 +0000" stop="20260415130000 +0000" channel="ANTV.vision">
-<title>Pasukan Berani Mati</title>
+<title>Pendekar Ilmu Api</title>
 </programme>
 <programme start="20260415130000 +0000" stop="20260415143000 +0000" channel="ANTV.vision">
 <title>Nyi Blorong</title>
 </programme>
 <programme start="20260415143000 +0000" stop="20260415163000 +0000" channel="ANTV.vision">
-<title>Teenage Mutant Ninja Turtles 2</title>
+<title>Lukisan Berdarah</title>
 </programme>
 <programme start="20260415163000 +0000" stop="20260415183000 +0000" channel="ANTV.vision">
 <title>Star Abyss</title>
@@ -650,7 +653,7 @@
 <title>King Xian&#039;s Worm Valley Of...</title>
 </programme>
 <programme start="20260415193000 +0000" stop="20260415220000 +0000" channel="ANTV.vision">
-<title>Guru</title>
+<title>Love Aaj Kal 2</title>
 </programme>
 <programme start="20260415220000 +0000" stop="20260415230000 +0000" channel="ANTV.vision">
 <title>Ummi</title>
@@ -674,7 +677,7 @@
 <title>Vasudha</title>
 </programme>
 <programme start="20260416110000 +0000" stop="20260416130000 +0000" channel="ANTV.vision">
-<title>Menantang Maut</title>
+<title>Pendekar Mata Satu</title>
 </programme>
 <programme start="20260414230000 +0000" stop="20260415010000 +0000" channel="RTV.vision">
 <title>Bread Barbershop</title>
@@ -1493,8 +1496,5 @@
 <title>DAAI TV</title>
 </programme>
 <programme start="20260415150000 +0000" stop="20260415180000 +0000" channel="DAAI TV.vision">
-<title>DAAI TV</title>
-</programme>
-<programme start="20260415180000 +0000" stop="20260415210000 +0000" channel="DAAI TV.vision">
 <title>DAAI TV</title>
 </programme>

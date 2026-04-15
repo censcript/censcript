@@ -984,24 +984,22 @@
     <episode-num system="xmltv_ns">0.13.</episode-num>
     <episode-num system="onscreen">S1E14</episode-num>
   </programme>
-  <programme start="20260415130000 +0000" stop="20260415150000 +0000" channel="tv2.unifitv">
+  <programme start="20260415130000 +0000" stop="20260415140000 +0000" channel="tv2.unifitv">
+    <title lang="en">[LIVE] Ruang Bicara : Tabayyun Dalam Krisis - Maklumat Sahih Jamin Kestabilan</title>
+    <desc lang="en">Kupasan mendalam mengenai isu bertajuk Tabayyun Dalam Krisis : Maklumat Sahih Jamin Kestabilan bersama hos Ally Iskandar dan tetamu jemputan, YB Datuk Fahmi Fadzil, (Menteri Komunikasi) dan YB Senator Dr. Zulkifli Hasan (Menteri Di Jabatan Perdana Menteri (Hal Ehwal Agama).</desc>
+    <category lang="en">Drama</category>
+  </programme>
+  <programme start="20260415140000 +0000" stop="20260415160000 +0000" channel="tv2.unifitv">
     <title lang="en">Crossing Hearts</title>
     <desc lang="en">Kisah Priya, kanak-kanak India yang dijaga oleh ibu bapa angkatnya yang berbangsa Cina setelah ibu bapa kandungnya terkorban dalam nahas jalan raya.</desc>
     <category lang="en">Drama</category>
   </programme>
-  <programme start="20260415150000 +0000" stop="20260415160000 +0000" channel="tv2.unifitv">
+  <programme start="20260415160000 +0000" stop="20260415170000 +0000" channel="tv2.unifitv">
     <title lang="en">House</title>
     <desc lang="en">Tersebar khabar angin di hospital mengenai hubungan Dr.House dengan Cameron. Selepas Dr.House menegur seorang pesakit klinik, tiba tiba lelaki itu diserang strok misteri.</desc>
     <category lang="en">Drama</category>
     <episode-num system="xmltv_ns">0.19.</episode-num>
     <episode-num system="onscreen">S1E20</episode-num>
-  </programme>
-  <programme start="20260415160000 +0000" stop="20260415163000 +0000" channel="tv2.unifitv">
-    <title lang="en">Life Has No Remote</title>
-    <desc lang="en">Rancangan majalah motivasi yang memberi pembelajaran tentang pengurusan dan motivasi diri kepada remaja masa kini melalui lakonan tentang topik-topik tertentu yang perlu diketahui dan diamalkan untuk mencapai kejayaan.</desc>
-    <category lang="en">Drama</category>
-    <episode-num system="xmltv_ns">0.12.</episode-num>
-    <episode-num system="onscreen">S1E13</episode-num>
   </programme>
   <channel id="tv3.unifitv">
     <display-name>TV3</display-name>
@@ -3267,7 +3265,7 @@
   </programme>
   <programme start="20260414163500 +0000" stop="20260414173500 +0000" channel="tvbjade.unifitv">
     <title lang="en">Time Raiders</title>
-    <desc lang="en">Time Raiders</desc>
+    <desc lang="en">The series follows the story of Wu Xie, an antique shop owner who accidentally discovers a mysterious silk manuscript. Upon closer inspection, his uncle, Wu Sanxing, finds an enigmatic map hidden within the text</desc>
     <category lang="en">Drama Series</category>
     <episode-num system="xmltv_ns">0.0.</episode-num>
     <episode-num system="onscreen">S1E1</episode-num>
@@ -3294,7 +3292,7 @@
     <episode-num system="onscreen">S1E104</episode-num>
   </programme>
   <programme start="20260414193500 +0000" stop="20260414200500 +0000" channel="tvbjade.unifitv">
-    <title lang="en">Good Value for Money</title>
+    <title lang="en">Try It? Really?</title>
     <desc lang="en">Many Hong Kong residents have been traveling north for leisure in recent years, and they've likely gained considerable experience in eating, shopping, playing, and staying. Everyone hopes to find the best value-for-money places to eat, drink, and have fun, gaining a lot of emotional value. Host Kong Mei-yee travels to different places in Guangdong Province, including Shenzhen, Zhuhai, Huizhou, Dongguan, Chaozhou, and Shantou. At each stop, she teams up with two male partners from among Chow Kalok, Chu Man-hon, Tsang Zhanwang, and Ng Yip-kwan, testing various foods as customers to see if they're worth the money, and exploring whether various attractions are worth visiting, providing Hong Kong viewers with a down-to-earth reference index.</desc>
     <category lang="en">Entertainment</category>
     <episode-num system="xmltv_ns">0.1.</episode-num>
@@ -3362,7 +3360,7 @@
     <episode-num system="onscreen">S1E1648</episode-num>
   </programme>
   <programme start="20260415020500 +0000" stop="20260415023500 +0000" channel="tvbjade.unifitv">
-    <title lang="en">Good Value for Money &amp; What's On Today</title>
+    <title lang="en">Try It? Really? &amp; What's On Today</title>
     <desc lang="en">Many Hong Kong residents have been traveling north for leisure in recent years, and they've likely gained considerable experience in eating, shopping, playing, and staying. Everyone hopes to find the best value-for-money places to eat, drink, and have fun, gaining a lot of emotional value. Host Kong Mei-yee travels to different places in Guangdong Province, including Shenzhen, Zhuhai, Huizhou, Dongguan, Chaozhou, and Shantou. At each stop, she teams up with two male partners from among Chow Kalok, Chu Man-hon, Tsang Zhanwang, and Ng Yip-kwan, testing various foods as customers to see if they're worth the money, and exploring whether various attractions are worth visiting, providing Hong Kong viewers with a down-to-earth reference index.</desc>
     <category lang="en">Entertainment</category>
     <episode-num system="xmltv_ns">0.1.</episode-num>
@@ -3419,13 +3417,13 @@
   </programme>
   <programme start="20260415063500 +0000" stop="20260415073500 +0000" channel="tvbjade.unifitv">
     <title lang="en">Time Raiders &amp; What's On Today</title>
-    <desc lang="en">Time Raiders &amp; What's On Today</desc>
+    <desc lang="en">The series follows the story of Wu Xie, an antique shop owner who accidentally discovers a mysterious silk manuscript. Upon closer inspection, his uncle, Wu Sanxing, finds an enigmatic map hidden within the text</desc>
     <category lang="en">Drama Series</category>
     <episode-num system="xmltv_ns">0.0.</episode-num>
     <episode-num system="onscreen">S1E1</episode-num>
   </programme>
   <programme start="20260415073500 +0000" stop="20260415080500 +0000" channel="tvbjade.unifitv">
-    <title lang="en">Good Value for Money</title>
+    <title lang="en">Try It? Really?</title>
     <desc lang="en">Many Hong Kong residents have been traveling north for leisure in recent years, and they've likely gained considerable experience in eating, shopping, playing, and staying. Everyone hopes to find the best value-for-money places to eat, drink, and have fun, gaining a lot of emotional value. Host Kong Mei-yee travels to different places in Guangdong Province, including Shenzhen, Zhuhai, Huizhou, Dongguan, Chaozhou, and Shantou. At each stop, she teams up with two male partners from among Chow Kalok, Chu Man-hon, Tsang Zhanwang, and Ng Yip-kwan, testing various foods as customers to see if they're worth the money, and exploring whether various attractions are worth visiting, providing Hong Kong viewers with a down-to-earth reference index.</desc>
     <category lang="en">Entertainment</category>
     <episode-num system="xmltv_ns">0.1.</episode-num>
@@ -3487,13 +3485,13 @@
   </programme>
   <programme start="20260415133500 +0000" stop="20260415143500 +0000" channel="tvbjade.unifitv">
     <title lang="en">Time Raiders</title>
-    <desc lang="en">Time Raiders</desc>
+    <desc lang="en">The series follows the story of Wu Xie, an antique shop owner who accidentally discovers a mysterious silk manuscript. Upon closer inspection, his uncle, Wu Sanxing, finds an enigmatic map hidden within the text</desc>
     <category lang="en">Drama Series</category>
     <episode-num system="xmltv_ns">0.1.</episode-num>
     <episode-num system="onscreen">S1E2</episode-num>
   </programme>
   <programme start="20260415143500 +0000" stop="20260415150500 +0000" channel="tvbjade.unifitv">
-    <title lang="en">Good Value for Money</title>
+    <title lang="en">Try It? Really?</title>
     <desc lang="en">Many Hong Kong residents have been traveling north for leisure in recent years, and they've likely gained considerable experience in eating, shopping, playing, and staying. Everyone hopes to find the best value-for-money places to eat, drink, and have fun, gaining a lot of emotional value. Host Kong Mei-yee travels to different places in Guangdong Province, including Shenzhen, Zhuhai, Huizhou, Dongguan, Chaozhou, and Shantou. At each stop, she teams up with two male partners from among Chow Kalok, Chu Man-hon, Tsang Zhanwang, and Ng Yip-kwan, testing various foods as customers to see if they're worth the money, and exploring whether various attractions are worth visiting, providing Hong Kong viewers with a down-to-earth reference index.</desc>
     <category lang="en">Entertainment</category>
     <episode-num system="xmltv_ns">0.2.</episode-num>

@@ -8159,12 +8159,12 @@
     <desc lang="id">Seorang wanita muda yang bersemangat memulai perjalanan untuk memenuhi janji seorang ibu demi kehidupan yang lebih baik sambil mengatasi tantangan dan kehilangan.</desc>
     <icon src="https://thumbor.prod.vidiocdn.com/2yFrRcjDalSRnqTvQYYIoBdyoWk=/287x162/filters:strip_icc():quality(70)/vidio-media-production/uploads/livestreaming/schedule/thumbnail/5014853/d4c80d.jpg"/>
   </programme>
-  <programme channel="782" start="20260415080400 +0000" stop="20260415090000 +0000">
+  <programme channel="782" start="20260415080400 +0000" stop="20260415091000 +0000">
     <title lang="id">Teri Meri Doriyaann</title>
     <desc lang="id">Teri Meri Doriyaann</desc>
     <icon src="https://thumbor.prod.vidiocdn.com/20tRQaK9Gps_wFQL5rY-XgRbrs4=/287x162/filters:strip_icc():quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/image/782/antv-de8530.jpg"/>
   </programme>
-  <programme channel="782" start="20260415090000 +0000" stop="20260415111500 +0000">
+  <programme channel="782" start="20260415091000 +0000" stop="20260415111500 +0000">
     <title lang="id">Vasudha</title>
     <desc lang="id">Vasudha yang periang bergabung dengan rumah pemimpin bisnis Chandrika sebagai pembantu dan mendambakan persetujuannya meskipun ada perbedaan ideologis di antara mereka.</desc>
     <icon src="https://thumbor.prod.vidiocdn.com/u_wozAxSd7cXBHs3ha2a1HnNZxI=/287x162/filters:strip_icc():quality(70)/vidio-media-production/uploads/livestreaming/schedule/thumbnail/5014855/e0015b.jpg"/>
