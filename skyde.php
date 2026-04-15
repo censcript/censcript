@@ -942,34 +942,31 @@ Warning: Undefined array key "et" in /usr/home/ManusiaBiasa/domains/manusiabiasa
 <programme start="20260415063000 +0000" stop="20260415070000 +0000" channel="DAZN 1 HD.skyde">
     <title>Doppelpack Europa - Highlights der Serie A und Ligue 1 25/26: 32./29. Spieltag</title>
 </programme>
-<programme start="20260415070000 +0000" stop="20260415085500 +0000" channel="DAZN 1 HD.skyde">
+<programme start="20260415070000 +0000" stop="20260415090000 +0000" channel="DAZN 1 HD.skyde">
     <title>Bundesliga 25/26: 1. FSV Mainz 05 - SC Freiburg</title>
 </programme>
-<programme start="20260415085500 +0000" stop="20260415092000 +0000" channel="DAZN 1 HD.skyde">
+<programme start="20260415090000 +0000" stop="20260415091500 +0000" channel="DAZN 1 HD.skyde">
     <title>Best of DAZN: Highlights</title>
 </programme>
-<programme start="20260415092000 +0000" stop="20260415100500 +0000" channel="DAZN 1 HD.skyde">
+<programme start="20260415091500 +0000" stop="20260415100500 +0000" channel="DAZN 1 HD.skyde">
     <title>3. Liga Highlightshow 25/26: 33. Spieltag</title>
 </programme>
 <programme start="20260415100500 +0000" stop="20260415103500 +0000" channel="DAZN 1 HD.skyde">
     <title>Doppelpack Europa - Highlights der Serie A und Ligue 1 25/26: 32./29. Spieltag</title>
 </programme>
-<programme start="20260415103500 +0000" stop="20260415110500 +0000" channel="DAZN 1 HD.skyde">
+<programme start="20260415103500 +0000" stop="20260415111500 +0000" channel="DAZN 1 HD.skyde">
     <title>Best of DAZN: Highlights</title>
 </programme>
-<programme start="20260415110500 +0000" stop="20260415124500 +0000" channel="DAZN 1 HD.skyde">
+<programme start="20260415111500 +0000" stop="20260415131500 +0000" channel="DAZN 1 HD.skyde">
     <title>Bundesliga 25/26: FC St. Pauli - FC Bayern München</title>
-</programme>
-<programme start="20260415124500 +0000" stop="20260415131500 +0000" channel="DAZN 1 HD.skyde">
-    <title>Best of DAZN: Highlights</title>
 </programme>
 <programme start="20260415131500 +0000" stop="20260415144500 +0000" channel="DAZN 1 HD.skyde">
     <title>UEFA Champions League Features 25/26: UCL Halbfinale 00/01: FC Bayern - Real Madrid. Nur in Deutschland verfügbar!</title>
 </programme>
-<programme start="20260415144500 +0000" stop="20260415172500 +0000" channel="DAZN 1 HD.skyde">
+<programme start="20260415144500 +0000" stop="20260415172000 +0000" channel="DAZN 1 HD.skyde">
     <title>UEFA Champions League Features 25/26: UCL Halbfinale 11/12: FC Bayern - Real Madrid. Nur in Deutschland verfügbar!</title>
 </programme>
-<programme start="20260415172500 +0000" stop="20260415175000 +0000" channel="DAZN 1 HD.skyde">
+<programme start="20260415172000 +0000" stop="20260415175000 +0000" channel="DAZN 1 HD.skyde">
     <title>Never Talk Alone: Sami Khedira und Michael Ballack. Nur in Deutschland verfügbar!</title>
 </programme>
 <programme start="20260415175000 +0000" stop="20260415180000 +0000" channel="DAZN 1 HD.skyde">
@@ -3055,7 +3052,7 @@ Warning: Undefined array key "et" in /usr/home/ManusiaBiasa/domains/manusiabiasa
     <title>Live WTA 500: Porsche Tennis Grand Prix in Stuttgart, 3. Tag</title>
 </programme>
 <programme start="20260415210000 +0000" stop="20260415230000 +0000" channel="Sky Sport Tennis HD.skyde">
-    <title>ATP 500: J. Fonseca (BRA) - A. Rinderknech (FRA), BMW Open in München, 3. Tag</title>
+    <title>ATP 500: Topspiel, BMW Open in München, 3. Tag</title>
 </programme>
 <programme start="20260414220000 +0000" stop="20260414223000 +0000" channel="Sky Sport Top Event HD.skyde">
     <title>Fußball: scooore Niederlande! Alle Tore</title>

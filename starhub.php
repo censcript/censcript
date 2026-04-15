@@ -7957,14 +7957,14 @@
     <programme start="20260416043500 +0000" stop="20260416050500 +0000" channel="ABC Australia HD.starhub">
         <title>The Other Disruptor - USA</title>
     </programme>
-    <programme start="20260416050500 +0000" stop="20260416053500 +0000" channel="ABC Australia HD.starhub">
+    <programme start="20260416050500 +0000" stop="20260416054000 +0000" channel="ABC Australia HD.starhub">
         <title>Planet America (2026)</title>
     </programme>
-    <programme start="20260416053500 +0000" stop="20260416055500 +0000" channel="ABC Australia HD.starhub">
+    <programme start="20260416054000 +0000" stop="20260416055500 +0000" channel="ABC Australia HD.starhub">
         <title>Media Watch (2026)</title>
     </programme>
     <programme start="20260416055500 +0000" stop="20260416070000 +0000" channel="ABC Australia HD.starhub">
-        <title>Dr Danielle McMullen, President of AMA</title>
+        <title>Richard Marles - Deputy Prime Minister and Minister for Defence</title>
     </programme>
     <programme start="20260416070000 +0000" stop="20260416080000 +0000" channel="ABC Australia HD.starhub">
         <title>ABC News with Joe O&#039;Brien (2026)</title>
@@ -7972,14 +7972,17 @@
     <programme start="20260416080000 +0000" stop="20260416083000 +0000" channel="ABC Australia HD.starhub">
         <title>Lehmo</title>
     </programme>
-    <programme start="20260416083000 +0000" stop="20260416091500 +0000" channel="ABC Australia HD.starhub">
+    <programme start="20260416083000 +0000" stop="20260416085500 +0000" channel="ABC Australia HD.starhub">
         <title>The Pacific (2026)</title>
+    </programme>
+    <programme start="20260416085500 +0000" stop="20260416091500 +0000" channel="ABC Australia HD.starhub">
+        <title>What can we learn from the 1970s oil shocks?</title>
     </programme>
     <programme start="20260416091500 +0000" stop="20260416121500 +0000" channel="ABC Australia HD.starhub">
         <title>Round 6 - Carlton v Collingwood</title>
     </programme>
     <programme start="20260416121500 +0000" stop="20260416124500 +0000" channel="ABC Australia HD.starhub">
-        <title>Black Swans - Black Swans (Part 2) The Australian Dream</title>
+        <title>Black Swans (Part 2) The Australian Dream</title>
     </programme>
     <programme start="20260416124500 +0000" stop="20260416133000 +0000" channel="ABC Australia HD.starhub">
         <title>Ambulance Australia S4</title>

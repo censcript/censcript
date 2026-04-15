@@ -634,9 +634,6 @@
 <programme start="20260415090000 +0000" stop="20260415110000 +0000" channel="ANTV.vision">
 <title>Vasudha</title>
 </programme>
-<programme start="20260415183000 +0000" stop="20260415193000 +0000" channel="ANTV.vision">
-<title>King Xian&#039;s Worm Valley Of...</title>
-</programme>
 <programme start="20260415193000 +0000" stop="20260415220000 +0000" channel="ANTV.vision">
 <title>Love Aaj Kal 2</title>
 </programme>
@@ -1496,5 +1493,8 @@
 <title>DAAI TV</title>
 </programme>
 <programme start="20260416060000 +0000" stop="20260416090000 +0000" channel="DAAI TV.vision">
+<title>DAAI TV</title>
+</programme>
+<programme start="20260416090000 +0000" stop="20260416120000 +0000" channel="DAAI TV.vision">
 <title>DAAI TV</title>
 </programme>
