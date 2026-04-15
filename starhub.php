@@ -7838,10 +7838,10 @@
         <title>ABC News At Noon (2026)</title>
     </programme>
     <programme start="20260415023000 +0000" stop="20260415030000 +0000" channel="ABC Australia HD.starhub">
-        <title>Landline (2026)</title>
+        <title>Fighting Waste</title>
     </programme>
     <programme start="20260415030000 +0000" stop="20260415034500 +0000" channel="ABC Australia HD.starhub">
-        <title>Four Corners (2026)</title>
+        <title>Losing Streak</title>
     </programme>
     <programme start="20260415034500 +0000" stop="20260415040500 +0000" channel="ABC Australia HD.starhub">
         <title>Media Watch (2026)</title>
@@ -7849,10 +7849,10 @@
     <programme start="20260415040500 +0000" stop="20260415043500 +0000" channel="ABC Australia HD.starhub">
         <title>Pies</title>
     </programme>
-    <programme start="20260415043500 +0000" stop="20260415053000 +0000" channel="ABC Australia HD.starhub">
+    <programme start="20260415043500 +0000" stop="20260415053500 +0000" channel="ABC Australia HD.starhub">
         <title>Belmont and Oatlands</title>
     </programme>
-    <programme start="20260415053000 +0000" stop="20260415060500 +0000" channel="ABC Australia HD.starhub">
+    <programme start="20260415053500 +0000" stop="20260415060500 +0000" channel="ABC Australia HD.starhub">
         <title>Strath Creek, VIC</title>
     </programme>
     <programme start="20260415060500 +0000" stop="20260415070000 +0000" channel="ABC Australia HD.starhub">
@@ -7880,7 +7880,7 @@
         <title>The World (2026)</title>
     </programme>
     <programme start="20260415115500 +0000" stop="20260415124500 +0000" channel="ABC Australia HD.starhub">
-        <title>Four Corners (2026)</title>
+        <title>Losing Streak</title>
     </programme>
     <programme start="20260415124500 +0000" stop="20260415130500 +0000" channel="ABC Australia HD.starhub">
         <title>Media Watch (2026)</title>
