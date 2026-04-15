@@ -11023,7 +11023,7 @@
   <programme start="20260417215000 +0000" stop="20260417221000 +0000" channel="Nicktoons.webtv.sk">
     <title lang="id">Příběy Želv ninja I (10)</title>
   </programme>
-  <programme start="20260416215500 +0000" stop="20260416222000 +0000" channel="Nick Jr.webtv.sk">
+  <programme start="20260416220000 +0000" stop="20260416222000 +0000" channel="Nick Jr.webtv.sk">
     <title lang="id">Barbapapa a jeho rodinka II (2)</title>
   </programme>
   <programme start="20260416222000 +0000" stop="20260416224000 +0000" channel="Nick Jr.webtv.sk">
@@ -11059,10 +11059,10 @@
   <programme start="20260417012000 +0000" stop="20260417014500 +0000" channel="Nick Jr.webtv.sk">
     <title lang="id">Rubble a jeho parta I (7)</title>
   </programme>
-  <programme start="20260417014500 +0000" stop="20260417020500 +0000" channel="Nick Jr.webtv.sk">
+  <programme start="20260417014500 +0000" stop="20260417021000 +0000" channel="Nick Jr.webtv.sk">
     <title lang="id">DORA III (13)</title>
   </programme>
-  <programme start="20260417020500 +0000" stop="20260417023000 +0000" channel="Nick Jr.webtv.sk">
+  <programme start="20260417021000 +0000" stop="20260417023000 +0000" channel="Nick Jr.webtv.sk">
     <title lang="id">Plamínek a čtyřkoláci IV (11)</title>
   </programme>
   <programme start="20260417023000 +0000" stop="20260417024000 +0000" channel="Nick Jr.webtv.sk">
@@ -11074,10 +11074,10 @@
   <programme start="20260417025000 +0000" stop="20260417031500 +0000" channel="Nick Jr.webtv.sk">
     <title lang="id">Barbapapa a jeho rodinka II (19)</title>
   </programme>
-  <programme start="20260417031500 +0000" stop="20260417033500 +0000" channel="Nick Jr.webtv.sk">
+  <programme start="20260417031500 +0000" stop="20260417034000 +0000" channel="Nick Jr.webtv.sk">
     <title lang="id">Barbapapa a jeho rodinka II (20)</title>
   </programme>
-  <programme start="20260417033500 +0000" stop="20260417040000 +0000" channel="Nick Jr.webtv.sk">
+  <programme start="20260417034000 +0000" stop="20260417040000 +0000" channel="Nick Jr.webtv.sk">
     <title lang="id">Tim Rex ve vesmíru I (5)</title>
   </programme>
   <programme start="20260417040000 +0000" stop="20260417042000 +0000" channel="Nick Jr.webtv.sk">

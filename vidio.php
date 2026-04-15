@@ -8207,10 +8207,14 @@
     <title lang="id">Bioskop Asia : 2002</title>
     <icon src="https://thumbor.prod.vidiocdn.com/20tRQaK9Gps_wFQL5rY-XgRbrs4=/287x162/filters:strip_icc():quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/image/782/antv-de8530.jpg"/>
   </programme>
-  <programme channel="782" start="20260415201900 +0000" stop="20260415230000 +0000">
+  <programme channel="782" start="20260415201900 +0000" stop="20260415220300 +0000">
     <title lang="id">Mega Bollywood: Love Aaj Kal 2</title>
     <desc lang="id">Seorang penduduk desa yang sederhana namun ambisius, bersama dengan istrinya, tiba di Bombay di awal wahun 1958 dan ia berhasil bangkit menjadi seorang konglomerat terbesar dalam sejarah India.</desc>
     <icon src="https://thumbor.prod.vidiocdn.com/i1Uh7-twr5zv2KTSfNGPIKivLsU=/287x162/filters:strip_icc():quality(70)/vidio-media-production/uploads/livestreaming/schedule/thumbnail/5014863/57b994.jpg"/>
+  </programme>
+  <programme channel="782" start="20260415220300 +0000" stop="20260415230000 +0000">
+    <title lang="id">Ummi</title>
+    <icon src="https://thumbor.prod.vidiocdn.com/20tRQaK9Gps_wFQL5rY-XgRbrs4=/287x162/filters:strip_icc():quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/image/782/antv-de8530.jpg"/>
   </programme>
   <programme channel="782" start="20260415230000 +0000" stop="20260416003000 +0000">
     <title lang="id">Kasautii</title>

@@ -2644,13 +2644,13 @@
 <programme start="20260416181500 +0000" stop="20260416185000 +0000" channel="Sky Sport Austria 6 HD.skyde">
     <title>Live Der UEFA Super Donnerstag: Vorbericht</title>
 </programme>
-<programme start="20260416185000 +0000" stop="20260416210000 +0000" channel="Sky Sport Austria 6 HD.skyde">
+<programme start="20260416185000 +0000" stop="20260416220000 +0000" channel="Sky Sport Austria 6 HD.skyde">
     <title>Live UEFA ECL: AEK Athen - Rayo Vallecano, Viertelfinale Rückspiel</title>
 </programme>
 <programme start="20260416161000 +0000" stop="20260416163000 +0000" channel="Sky Sport Austria 7 HD.skyde">
-    <title>Es folgt: UEFA Europa League</title>
+    <title>Es folgt: LIVE UEFA Europa League</title>
 </programme>
-<programme start="20260416163000 +0000" stop="20260416185000 +0000" channel="Sky Sport Austria 7 HD.skyde">
+<programme start="20260416163000 +0000" stop="20260416200000 +0000" channel="Sky Sport Austria 7 HD.skyde">
     <title>Live UEFA EL: Celta Vigo - SC Freiburg, Viertelfinale Rückspiel</title>
 </programme>
 <programme start="20260416161000 +0000" stop="20260416163000 +0000" channel="Sky Sport Austria 8 HD.skyde">
@@ -3125,7 +3125,7 @@
     <title>ATP: This Week</title>
 </programme>
 <programme start="20260416013000 +0000" stop="20260416033000 +0000" channel="Sky Sport Tennis HD.skyde">
-    <title>ATP 500: J. Fonseca (BRA) - A. Rinderknech (FRA), BMW Open in München, 3. Tag</title>
+    <title>ATP 500: Topspiel, BMW Open in München, 3. Tag</title>
 </programme>
 <programme start="20260416033000 +0000" stop="20260416043000 +0000" channel="Sky Sport Tennis HD.skyde">
     <title>ATP 1000: Review Monte-Carlo</title>
@@ -3137,7 +3137,7 @@
     <title>WTA 500: L. Siegemund (GER) - I. Swiatek (POL)l, Porsche Tennis Grand Prix in Stuttgart, 3. Tag</title>
 </programme>
 <programme start="20260416070000 +0000" stop="20260416090000 +0000" channel="Sky Sport Tennis HD.skyde">
-    <title>ATP 500: J. Fonseca (BRA) - A. Rinderknech (FRA), BMW Open in München, 3. Tag</title>
+    <title>ATP 500: Topspiel, BMW Open in München, 3. Tag</title>
 </programme>
 <programme start="20260416090000 +0000" stop="20260416170000 +0000" channel="Sky Sport Tennis HD.skyde">
     <title>Live ATP 500: BMW Open in München, 4. Tag</title>
@@ -3161,7 +3161,7 @@
     <title>Live NHL: Toronto Maple Leafs @ Ottawa Senators</title>
 </programme>
 <programme start="20260416023000 +0000" stop="20260416043000 +0000" channel="Sky Sport Top Event HD.skyde">
-    <title>ATP 500: J. Fonseca (BRA) - A. Rinderknech (FRA), BMW Open in München, 3. Tag</title>
+    <title>ATP 500: Topspiel, BMW Open in München, 3. Tag</title>
 </programme>
 <programme start="20260416043000 +0000" stop="20260416050000 +0000" channel="Sky Sport Top Event HD.skyde">
     <title>PL: PL Stories (Tijjani Reijnders)</title>
@@ -3250,7 +3250,7 @@
 <programme start="20260416183000 +0000" stop="20260416185000 +0000" channel="Sky Sport 2 HD.skyde">
     <title>Es folgt LIVE UEFA Europa League</title>
 </programme>
-<programme start="20260416185000 +0000" stop="20260416220000 +0000" channel="Sky Sport 2 HD.skyde">
+<programme start="20260416185000 +0000" stop="20260416210500 +0000" channel="Sky Sport 2 HD.skyde">
     <title>Live UEFA ECL: AEK Athen - Rayo Vallecano, Viertelfinale Rückspiel</title>
 </programme>
 <programme start="20260415221500 +0000" stop="20260415230000 +0000" channel="SYFY HD.skyde">
