@@ -6758,7 +6758,7 @@
         <title>Liverpool vs PSG - Tue, QF, 2nd Leg</title>
     </programme>
     <programme start="20260414185500 +0000" stop="20260414210000 +0000" channel="beIN Sports HD.starhub">
-        <title>UEFA Champions League 2025/26: Liverpool vs PSG - QF, 2nd Leg (Live)</title>
+        <title>Liverpool vs PSG - QF, 2nd Leg (Live)</title>
     </programme>
     <programme start="20260414210000 +0000" stop="20260414213000 +0000" channel="beIN Sports HD.starhub">
         <title>Liverpool vs PSG - Tue, QF, 2nd Leg</title>
