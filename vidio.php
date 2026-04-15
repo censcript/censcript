@@ -8247,8 +8247,12 @@
     <icon src="https://thumbor.prod.vidiocdn.com/20tRQaK9Gps_wFQL5rY-XgRbrs4=/287x162/filters:strip_icc():quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/image/782/antv-de8530.jpg"/>
   </programme>
   <programme channel="782" start="20260416130000 +0000" stop="20260416143000 +0000">
-    <title lang="id">Sinema Spesial: Pulau Cinta</title>
+    <title lang="id">Sinema Laga Klasik : Pulau Cinta</title>
     <desc lang="id">Maria dan anaknya yang hidup dalam cengkeraman Karto di pulau terpencil, setelah suami Maria dibunuh. Sebuah kapal terdampar di pulau tersebut, sang kapten mengungkap rahasia kejahatan Karto.</desc>
+    <icon src="https://thumbor.prod.vidiocdn.com/20tRQaK9Gps_wFQL5rY-XgRbrs4=/287x162/filters:strip_icc():quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/image/782/antv-de8530.jpg"/>
+  </programme>
+  <programme channel="782" start="20260416143000 +0000" stop="20260416163000 +0000">
+    <title lang="id">Sinema Spesial : Qorin</title>
     <icon src="https://thumbor.prod.vidiocdn.com/20tRQaK9Gps_wFQL5rY-XgRbrs4=/287x162/filters:strip_icc():quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/image/782/antv-de8530.jpg"/>
   </programme>
   <programme channel="782" start="20260416163000 +0000" stop="20260416183000 +0000">
