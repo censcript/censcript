@@ -29,7 +29,7 @@
 <title>Turun Ranjang (RCTI)</title>
 </programme>
 <programme start="20260416143000 +0000" stop="20260416163000 +0000" channel="RCTI.vision">
-<title>Liontin Kirana</title>
+<title>Reuni Adalah Maut</title>
 </programme>
 <programme start="20260416163000 +0000" stop="20260416190000 +0000" channel="RCTI.vision">
 <title>Kesempatan Kedua</title>
@@ -169,44 +169,47 @@
 <programme start="20260416163000 +0000" stop="20260416180000 +0000" channel="GTV.vision">
 <title>Jelajah Mitos</title>
 </programme>
-<programme start="20260416180000 +0000" stop="20260416190000 +0000" channel="GTV.vision">
-<title>Crime KV</title>
+<programme start="20260416190000 +0000" stop="20260416203000 +0000" channel="GTV.vision">
+<title>GTV</title>
 </programme>
-<programme start="20260416190000 +0000" stop="20260416200000 +0000" channel="GTV.vision">
-<title>Abdel Vs Temon Masih Bukan...</title>
-</programme>
-<programme start="20260416200000 +0000" stop="20260416220000 +0000" channel="GTV.vision">
-<title>Awas Ada Sule</title>
+<programme start="20260416203000 +0000" stop="20260416220000 +0000" channel="GTV.vision">
+<title>GTV</title>
 </programme>
 <programme start="20260416220000 +0000" stop="20260416230000 +0000" channel="GTV.vision">
-<title>Ragam Pagi</title>
+<title>GTV</title>
 </programme>
-<programme start="20260416230000 +0000" stop="20260417010000 +0000" channel="GTV.vision">
-<title>SpongeBob SquarePants</title>
+<programme start="20260416230000 +0000" stop="20260417003000 +0000" channel="GTV.vision">
+<title>GTV</title>
 </programme>
-<programme start="20260417010000 +0000" stop="20260417013000 +0000" channel="GTV.vision">
-<title>TV Champion</title>
+<programme start="20260417003000 +0000" stop="20260417011500 +0000" channel="GTV.vision">
+<title>GTV</title>
 </programme>
-<programme start="20260417013000 +0000" stop="20260417023000 +0000" channel="GTV.vision">
-<title>Obrolan Seputar Selebriti (GTV)</title>
+<programme start="20260417011500 +0000" stop="20260417020000 +0000" channel="GTV.vision">
+<title>GTV</title>
 </programme>
-<programme start="20260417023000 +0000" stop="20260417030000 +0000" channel="GTV.vision">
-<title>Buletin iNews Pagi</title>
+<programme start="20260417020000 +0000" stop="20260417021500 +0000" channel="GTV.vision">
+<title>GTV</title>
+</programme>
+<programme start="20260417021500 +0000" stop="20260417030000 +0000" channel="GTV.vision">
+<title>GTV</title>
 </programme>
 <programme start="20260417030000 +0000" stop="20260417050000 +0000" channel="GTV.vision">
-<title>Spongebob Squarepants (GTV)</title>
+<title>GTV</title>
 </programme>
-<programme start="20260417050000 +0000" stop="20260417073000 +0000" channel="GTV.vision">
-<title>SpongeBob SquarePants</title>
+<programme start="20260417050000 +0000" stop="20260417080000 +0000" channel="GTV.vision">
+<title>GTV</title>
 </programme>
-<programme start="20260417073000 +0000" stop="20260417100000 +0000" channel="GTV.vision">
-<title>SpongeBob SquarePants</title>
+<programme start="20260417080000 +0000" stop="20260417093000 +0000" channel="GTV.vision">
+<title>GTV</title>
 </programme>
-<programme start="20260417100000 +0000" stop="20260417110000 +0000" channel="GTV.vision">
-<title>Makan Bareng Chef</title>
+<programme start="20260417093000 +0000" stop="20260417103000 +0000" channel="GTV.vision">
+<title>GTV</title>
 </programme>
-<programme start="20260417110000 +0000" stop="20260417120000 +0000" channel="GTV.vision">
-<title>SpongeBob SquarePants</title>
+<programme start="20260417103000 +0000" stop="20260417110000 +0000" channel="GTV.vision">
+<title>GTV</title>
+</programme>
+<programme start="20260417110000 +0000" stop="20260417123000 +0000" channel="GTV.vision">
+<title>GTV</title>
 </programme>
 <programme start="20260416000000 +0000" stop="20260416003000 +0000" channel="iNews.vision">
 <title>Special Report</title>
@@ -616,6 +619,9 @@
 <programme start="20260416003000 +0000" stop="20260416023000 +0000" channel="ANTV.vision">
 <title>Janji Inspektur Virat</title>
 </programme>
+<programme start="20260416023000 +0000" stop="20260416060000 +0000" channel="ANTV.vision">
+<title>Raja Hindustani</title>
+</programme>
 <programme start="20260416060000 +0000" stop="20260416080000 +0000" channel="ANTV.vision">
 <title>Jhanak</title>
 </programme>
@@ -624,6 +630,15 @@
 </programme>
 <programme start="20260416090000 +0000" stop="20260416110000 +0000" channel="ANTV.vision">
 <title>Vasudha</title>
+</programme>
+<programme start="20260416110000 +0000" stop="20260416130000 +0000" channel="ANTV.vision">
+<title>Pendekar Mata Satu</title>
+</programme>
+<programme start="20260416130000 +0000" stop="20260416143000 +0000" channel="ANTV.vision">
+<title>Pulau Cinta</title>
+</programme>
+<programme start="20260416143000 +0000" stop="20260416163000 +0000" channel="ANTV.vision">
+<title>Qorin</title>
 </programme>
 <programme start="20260416163000 +0000" stop="20260416183000 +0000" channel="ANTV.vision">
 <title>Golden Spider City</title>
@@ -1481,20 +1496,5 @@
 <title>DAAI TV</title>
 </programme>
 <programme start="20260416090000 +0000" stop="20260416120000 +0000" channel="DAAI TV.vision">
-<title>DAAI TV</title>
-</programme>
-<programme start="20260416120000 +0000" stop="20260416150000 +0000" channel="DAAI TV.vision">
-<title>DAAI TV</title>
-</programme>
-<programme start="20260416150000 +0000" stop="20260416180000 +0000" channel="DAAI TV.vision">
-<title>DAAI TV</title>
-</programme>
-<programme start="20260416180000 +0000" stop="20260416210000 +0000" channel="DAAI TV.vision">
-<title>DAAI TV</title>
-</programme>
-<programme start="20260416210000 +0000" stop="20260417000000 +0000" channel="DAAI TV.vision">
-<title>DAAI TV</title>
-</programme>
-<programme start="20260417000000 +0000" stop="20260417030000 +0000" channel="DAAI TV.vision">
 <title>DAAI TV</title>
 </programme>
