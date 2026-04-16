@@ -2665,6 +2665,87 @@
 <programme start="20260416163000 +0000" stop="20260416200000 +0000" channel="Sky Sport Austria 8 HD.skyde">
     <title>Live UEFA ECL: AZ Alkmaar - Schachtar Donezk, Viertelfinale Rückspiel</title>
 </programme>
+<programme start="20260415220000 +0000" stop="20260415223000 +0000" channel="Sky Sport Bundesliga HD.skyde">
+    <title>2. BL: Dein Zweitligatalk - HvK &amp; Tusche</title>
+</programme>
+<programme start="20260415223000 +0000" stop="20260415230000 +0000" channel="Sky Sport Bundesliga HD.skyde">
+    <title>2. BL: 90in30: SVD - H96, 29. Spieltag</title>
+</programme>
+<programme start="20260415230000 +0000" stop="20260416010000 +0000" channel="Sky Sport Bundesliga HD.skyde">
+    <title>2. BL: Samstags-Konferenz, 29. Spieltag</title>
+</programme>
+<programme start="20260416010000 +0000" stop="20260416013000 +0000" channel="Sky Sport Bundesliga HD.skyde">
+    <title>BL: 90in30: STP - FCB, 29. Spieltag</title>
+</programme>
+<programme start="20260416013000 +0000" stop="20260416033000 +0000" channel="Sky Sport Bundesliga HD.skyde">
+    <title>2. BL: Fortuna Düsseldorf - Holstein Kiel, 29. Spieltag</title>
+</programme>
+<programme start="20260416033000 +0000" stop="20260416043000 +0000" channel="Sky Sport Bundesliga HD.skyde">
+    <title>BL Kompakt: 29. Spieltag</title>
+</programme>
+<programme start="20260416043000 +0000" stop="20260416050000 +0000" channel="Sky Sport Bundesliga HD.skyde">
+    <title>2. BL: 90in30: SVD - H96, 29. Spieltag</title>
+</programme>
+<programme start="20260416050000 +0000" stop="20260416070000 +0000" channel="Sky Sport Bundesliga HD.skyde">
+    <title>2. BL: Preußen Münster - SpVgg Greuther Fürth, 29. Spieltag</title>
+</programme>
+<programme start="20260416070000 +0000" stop="20260416090000 +0000" channel="Sky Sport Bundesliga HD.skyde">
+    <title>BL: 1. FC Heidenheim - 1. FC Union Berlin, 29. Spieltag</title>
+</programme>
+<programme start="20260416090000 +0000" stop="20260416093000 +0000" channel="Sky Sport Bundesliga HD.skyde">
+    <title>Meine Geschichte: Das Leben von Franziska van Almsick (Teil 2)</title>
+</programme>
+<programme start="20260416093000 +0000" stop="20260416100000 +0000" channel="Sky Sport Bundesliga HD.skyde">
+    <title>BL: 90in30: STP - FCB, 29. Spieltag</title>
+</programme>
+<programme start="20260416100000 +0000" stop="20260416120000 +0000" channel="Sky Sport Bundesliga HD.skyde">
+    <title>BL: VfL Wolfsburg - Eintracht Frankfurt, 29. Spieltag</title>
+</programme>
+<programme start="20260416120000 +0000" stop="20260416123000 +0000" channel="Sky Sport Bundesliga HD.skyde">
+    <title>BL: Bundesliga Weekly</title>
+</programme>
+<programme start="20260416123000 +0000" stop="20260416141500 +0000" channel="Sky Sport Bundesliga HD.skyde">
+    <title>BL: Klassiker der Woche: SVW - HSV (2010/11)</title>
+</programme>
+<programme start="20260416141500 +0000" stop="20260416143000 +0000" channel="Sky Sport Bundesliga HD.skyde">
+    <title>BL: Torparade 29. Spieltag</title>
+</programme>
+<programme start="20260416143000 +0000" stop="20260416150000 +0000" channel="Sky Sport Bundesliga HD.skyde">
+    <title>2. BL: Dein Zweitligatalk - HvK &amp; Tusche</title>
+</programme>
+<programme start="20260416150000 +0000" stop="20260416160000 +0000" channel="Sky Sport Bundesliga HD.skyde">
+    <title>Live BL: Matchplan: SGE - RBL, 30. Spieltag</title>
+</programme>
+<programme start="20260416160000 +0000" stop="20260416163000 +0000" channel="Sky Sport Bundesliga HD.skyde">
+    <title>BL: Report - The Legacy of Manuel Neuer</title>
+</programme>
+<programme start="20260416163000 +0000" stop="20260416170000 +0000" channel="Sky Sport Bundesliga HD.skyde">
+    <title>BL: Bundesliga Weekly</title>
+</programme>
+<programme start="20260416170000 +0000" stop="20260416173000 +0000" channel="Sky Sport Bundesliga HD.skyde">
+    <title>2. BL: Dein Zweitligatalk - HvK &amp; Tusche</title>
+</programme>
+<programme start="20260416173000 +0000" stop="20260416183000 +0000" channel="Sky Sport Bundesliga HD.skyde">
+    <title>BL: Matchplan: SGE - RBL, 30. Spieltag</title>
+</programme>
+<programme start="20260416183000 +0000" stop="20260416190000 +0000" channel="Sky Sport Bundesliga HD.skyde">
+    <title>BL: Bundesliga Weekly</title>
+</programme>
+<programme start="20260416190000 +0000" stop="20260416193000 +0000" channel="Sky Sport Bundesliga HD.skyde">
+    <title>BL: Report - The Legacy of Manuel Neuer</title>
+</programme>
+<programme start="20260416193000 +0000" stop="20260416200000 +0000" channel="Sky Sport Bundesliga HD.skyde">
+    <title>2. BL: Dein Zweitligatalk - HvK &amp; Tusche</title>
+</programme>
+<programme start="20260416200000 +0000" stop="20260416203000 +0000" channel="Sky Sport Bundesliga HD.skyde">
+    <title>BL: 90in30: STP - FCB, 29. Spieltag</title>
+</programme>
+<programme start="20260416203000 +0000" stop="20260416210000 +0000" channel="Sky Sport Bundesliga HD.skyde">
+    <title>BL: Report - The Legacy of Manuel Neuer</title>
+</programme>
+<programme start="20260416210000 +0000" stop="20260416220000 +0000" channel="Sky Sport Bundesliga HD.skyde">
+    <title>BL: Matchplan: SGE - RBL, 30. Spieltag</title>
+</programme>
 <programme start="20260415233000 +0000" stop="20260416013000 +0000" channel="Sky Sport Bundesliga UHD.skyde">
     <title>BL: FC St. Pauli - FC Bayern München, tipico Topspiel der Woche, 29. Spieltag</title>
 </programme>
