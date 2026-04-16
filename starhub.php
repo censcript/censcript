@@ -1949,7 +1949,7 @@
         <title>Schmeichel: The Interview</title>
     </programme>
     <programme start="20260415185500 +0000" stop="20260415210000 +0000" channel="beIN Sports 3.starhub">
-        <title>UEFA Champions League 2025/26: Arsenal vs Sporting - QF, 2nd Leg (Live)</title>
+        <title>Arsenal vs Sporting - QF, 2nd Leg (Live)</title>
     </programme>
     <programme start="20260415210000 +0000" stop="20260415220000 +0000" channel="beIN Sports 3.starhub">
         <title>Volta Ciclista A Catalunya</title>
@@ -6682,17 +6682,17 @@
     <programme start="20260416083000 +0000" stop="20260416090000 +0000" channel="Hub Sports 1  HD.starhub">
         <title>Episode 2</title>
     </programme>
-    <programme start="20260416090000 +0000" stop="20260416130000 +0000" channel="Hub Sports 1  HD.starhub">
-        <title>Barcelona Open Banc Sabadell (500) Day 4 Round 2</title>
+    <programme start="20260416090000 +0000" stop="20260416110000 +0000" channel="Hub Sports 1  HD.starhub">
+        <title>Rolex Monte-Carlo Masters (1000) Final</title>
     </programme>
-    <programme start="20260416130000 +0000" stop="20260416133000 +0000" channel="Hub Sports 1  HD.starhub">
-        <title>Qatar TotalEnergies Open</title>
-    </programme>
-    <programme start="20260416133000 +0000" stop="20260416140000 +0000" channel="Hub Sports 1  HD.starhub">
+    <programme start="20260416110000 +0000" stop="20260416113000 +0000" channel="Hub Sports 1  HD.starhub">
         <title>Episode 14</title>
     </programme>
-    <programme start="20260416140000 +0000" stop="20260416183000 +0000" channel="Hub Sports 1  HD.starhub">
-        <title>Finals</title>
+    <programme start="20260416113000 +0000" stop="20260416153000 +0000" channel="Hub Sports 1  HD.starhub">
+        <title>Barcelona Open Banc Sabadell (500) Day 4 Round 2</title>
+    </programme>
+    <programme start="20260416153000 +0000" stop="20260416160000 +0000" channel="Hub Sports 1  HD.starhub">
+        <title>Qatar TotalEnergies Open</title>
     </programme>
     <programme start="20260415141800 +0000" stop="20260415162800 +0000" channel="SONY MAX.starhub">
         <title>Laapataa Ladies</title>
@@ -6895,10 +6895,10 @@
     <programme start="20260416031000 +0000" stop="20260416050000 +0000" channel="beIN Sports HD.starhub">
         <title>LaLiga 2025/26: Osasuna vs Real Betis</title>
     </programme>
-    <programme start="20260416050000 +0000" stop="20260416053000 +0000" channel="beIN Sports HD.starhub">
-        <title>Fastzone 2026</title>
+    <programme start="20260416050000 +0000" stop="20260416052100 +0000" channel="beIN Sports HD.starhub">
+        <title>Robert Lewandowski</title>
     </programme>
-    <programme start="20260416053000 +0000" stop="20260416073000 +0000" channel="beIN Sports HD.starhub">
+    <programme start="20260416052100 +0000" stop="20260416073000 +0000" channel="beIN Sports HD.starhub">
         <title>UCI World Tour 2026: Tour of Hainan - Stage 2 (Live)</title>
     </programme>
     <programme start="20260416073000 +0000" stop="20260416093000 +0000" channel="beIN Sports HD.starhub">
@@ -8478,60 +8478,6 @@
     </programme>
     <programme start="20260416153000 +0000" stop="20260416163000 +0000" channel="ADITHYA TV.starhub">
         <title>Vedi Sirippu</title>
-    </programme>
-    <programme start="20260415160000 +0000" stop="20260415170000 +0000" channel="Hub E City HD.starhub">
-        <title>Only For Love</title>
-    </programme>
-    <programme start="20260415170000 +0000" stop="20260415190000 +0000" channel="Hub E City HD.starhub">
-        <title>The Inn 4</title>
-    </programme>
-    <programme start="20260415190000 +0000" stop="20260415200000 +0000" channel="Hub E City HD.starhub">
-        <title>Detective Chinatown 2</title>
-    </programme>
-    <programme start="20260415200000 +0000" stop="20260415220000 +0000" channel="Hub E City HD.starhub">
-        <title>Call Me By Fire 3</title>
-    </programme>
-    <programme start="20260415220000 +0000" stop="20260415230000 +0000" channel="Hub E City HD.starhub">
-        <title>Only For Love</title>
-    </programme>
-    <programme start="20260415230000 +0000" stop="20260416003000 +0000" channel="Hub E City HD.starhub">
-        <title>Perfect Match 12</title>
-    </programme>
-    <programme start="20260416003000 +0000" stop="20260416013000 +0000" channel="Hub E City HD.starhub">
-        <title>Billionaire Story</title>
-    </programme>
-    <programme start="20260416013000 +0000" stop="20260416033000 +0000" channel="Hub E City HD.starhub">
-        <title>The Inn 4</title>
-    </programme>
-    <programme start="20260416033000 +0000" stop="20260416043000 +0000" channel="Hub E City HD.starhub">
-        <title>Destined</title>
-    </programme>
-    <programme start="20260416043000 +0000" stop="20260416053000 +0000" channel="Hub E City HD.starhub">
-        <title>The Line Watchers</title>
-    </programme>
-    <programme start="20260416053000 +0000" stop="20260416070000 +0000" channel="Hub E City HD.starhub">
-        <title>Perfect Match 12</title>
-    </programme>
-    <programme start="20260416070000 +0000" stop="20260416090000 +0000" channel="Hub E City HD.starhub">
-        <title>Genius Go Go Go</title>
-    </programme>
-    <programme start="20260416090000 +0000" stop="20260416100000 +0000" channel="Hub E City HD.starhub">
-        <title>The Line Watchers</title>
-    </programme>
-    <programme start="20260416100000 +0000" stop="20260416110000 +0000" channel="Hub E City HD.starhub">
-        <title>Billionaire Story</title>
-    </programme>
-    <programme start="20260416110000 +0000" stop="20260416120000 +0000" channel="Hub E City HD.starhub">
-        <title>Destined</title>
-    </programme>
-    <programme start="20260416120000 +0000" stop="20260416140000 +0000" channel="Hub E City HD.starhub">
-        <title>Mr Player</title>
-    </programme>
-    <programme start="20260416140000 +0000" stop="20260416150000 +0000" channel="Hub E City HD.starhub">
-        <title>Detective Chinatown 2</title>
-    </programme>
-    <programme start="20260416150000 +0000" stop="20260416160000 +0000" channel="Hub E City HD.starhub">
-        <title>Destined</title>
     </programme>
     <programme start="20260415160000 +0000" stop="20260415172500 +0000" channel="Celestial Movies HD.starhub">
         <title>Loving You</title>

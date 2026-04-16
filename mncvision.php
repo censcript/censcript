@@ -125,7 +125,7 @@
     <title>News (L)</title>
 </programme>
 <programme start="20260416023000 +0000" stop="20260416030000 +0000" channel="Al Jazeera English.mncvision">
-    <title>The Stream: US Global Standing</title>
+    <title>The Listening Post</title>
 </programme>
 <programme start="20260416030000 +0000" stop="20260416033000 +0000" channel="Al Jazeera English.mncvision">
     <title>News (L)</title>
@@ -161,7 +161,7 @@
     <title>News (L)</title>
 </programme>
 <programme start="20260416083000 +0000" stop="20260416090000 +0000" channel="Al Jazeera English.mncvision">
-    <title>The Listening Post</title>
+    <title>Counting The Cost</title>
 </programme>
 <programme start="20260416090000 +0000" stop="20260416093000 +0000" channel="Al Jazeera English.mncvision">
     <title>News (L)</title>
