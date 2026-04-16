@@ -224,13 +224,14 @@
     <desc lang="id">Film televisi yang mengangkat kisah romantisme kehidupan dengan konflik yang menarik. Tayang setiap hari.</desc>
     <icon src="https://thumbor.prod.vidiocdn.com/N99E8BD1OJ5vvymwPBj0c-BU5J4=/287x162/filters:strip_icc():quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/image/204/sctv-5ef966.jpg"/>
   </programme>
-  <programme channel="204" start="20260416173000 +0000" stop="20260416190000 +0000">
+  <programme channel="204" start="20260416173000 +0000" stop="20260416184100 +0000">
     <title lang="id">FTV Utama: I'M Most Wanted</title>
     <desc lang="id">Film televisi yang mengangkat kisah romantisme kehidupan dengan konflik yang menarik. Tayang setiap hari.</desc>
     <icon src="https://thumbor.prod.vidiocdn.com/N99E8BD1OJ5vvymwPBj0c-BU5J4=/287x162/filters:strip_icc():quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/image/204/sctv-5ef966.jpg"/>
   </programme>
-  <programme channel="204" start="20260416190000 +0000" stop="20260416210000 +0000">
-    <title lang="id">Nottingham Forest Vs Fc Porto - Uefa Europa League Quarter Final - Live</title>
+  <programme channel="204" start="20260416184100 +0000" stop="20260416210000 +0000">
+    <title lang="id">Nottingham Forest vs FC Porto : UEFA Europa League 2025/26</title>
+    <desc lang="id">Quarter Final, 2nd Leg.</desc>
     <icon src="https://thumbor.prod.vidiocdn.com/N99E8BD1OJ5vvymwPBj0c-BU5J4=/287x162/filters:strip_icc():quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/image/204/sctv-5ef966.jpg"/>
   </programme>
   <programme channel="204" start="20260416210000 +0000" stop="20260416213000 +0000">
@@ -594,30 +595,31 @@
     <desc lang="id">Saksikan Perjuangan Heroik Garuda Muda Dalam Turnamen Bergengsi ASEAN U17 Boys Championship 2026 Yang Akan Berlaga Di Stadion Gelora Joko Samudro dan Gelora Delta Sidoarjo! Timnas Indonesia Siap Memberikan Segalanya Demi Menjaga Kehormatan Bangsa Menghadapi Tantangan Sengit Dari Timor Leste, Malaysia, dan Vietnam. Jangan Lewatkan Momen Kebangkitan Talenta Masa Depan Sepak Bola Tanah Air Yang Penuh Semangat dan Determinasi Tinggi, Eksklusif Mulai Senin, 13 April Pukul 19.00 WIB, Hanya Di Indosiar!</desc>
     <icon src="https://thumbor.prod.vidiocdn.com/cBZL7ITaJCof6cqtayFee2uJCX8=/287x162/filters:strip_icc():quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/image/205/indosiar-d9a3d0.jpg"/>
   </programme>
-  <programme channel="205" start="20260416144500 +0000" stop="20260416171000 +0000">
+  <programme channel="205" start="20260416144500 +0000" stop="20260416165700 +0000">
     <title lang="id">D'Academy 7 Mega Konser - Gen Z</title>
     <icon src="https://thumbor.prod.vidiocdn.com/kTB7go0FImq9zL2IlPuw3YuK7JY=/287x162/filters:strip_icc():quality(70)/vidio-media-production/uploads/livestreaming/schedule/thumbnail/5015552/2d6d12.jpg"/>
   </programme>
-  <programme channel="205" start="20260416144500 +0000" stop="20260416171000 +0000">
-    <title lang="id">D'Academy 7 Mega Konser - Gen Z</title>
-    <icon src="https://thumbor.prod.vidiocdn.com/kTB7go0FImq9zL2IlPuw3YuK7JY=/287x162/filters:strip_icc():quality(70)/vidio-media-production/uploads/livestreaming/schedule/thumbnail/5015552/2d6d12.jpg"/>
+  <programme channel="205" start="20260416165700 +0000" stop="20260416183000 +0000">
+    <title lang="id">Mega Series Action Asia : Heroes</title>
+    <desc lang="id">Sebuah Kisah Epic Yang Melegenda Perjuangan Sang Master Kungfu: Huo Yuan Jia, Memimipin Perlawanan Bangsanya Dalam Menghadapi Invasi Penjajah. Saksikan Penampilan Memukau: Vincent Zhao, Nikita Mao dan Bintang Laga Lainnya Dalam Mega Series Action Asia: Heroes, Mulai 14 Maret 2025, Pkl 23.00 WIB, Hanya Di Indosiar</desc>
+    <icon src="https://thumbor.prod.vidiocdn.com/0BtybfnBfHhaZ5O40txJghKu7cU=/287x162/filters:strip_icc():quality(70)/vidio-media-production/uploads/livestreaming/schedule/thumbnail/5013984/fa52b6.jpg"/>
   </programme>
-  <programme channel="205" start="20260416171000 +0000" stop="20260416183000 +0000">
+  <programme channel="205" start="20260416165700 +0000" stop="20260416183000 +0000">
     <title lang="id">Mega Series Action Asia : Heroes</title>
     <desc lang="id">Sebuah Kisah Epic Yang Melegenda Perjuangan Sang Master Kungfu: Huo Yuan Jia, Memimipin Perlawanan Bangsanya Dalam Menghadapi Invasi Penjajah. Saksikan Penampilan Memukau: Vincent Zhao, Nikita Mao dan Bintang Laga Lainnya Dalam Mega Series Action Asia: Heroes, Mulai 14 Maret 2025, Pkl 23.00 WIB, Hanya Di Indosiar</desc>
     <icon src="https://thumbor.prod.vidiocdn.com/0BtybfnBfHhaZ5O40txJghKu7cU=/287x162/filters:strip_icc():quality(70)/vidio-media-production/uploads/livestreaming/schedule/thumbnail/5013984/fa52b6.jpg"/>
   </programme>
   <programme channel="205" start="20260416183000 +0000" stop="20260416200000 +0000">
-    <title lang="id">Mega Film Asia : The Wild Blade Of Strangers</title>
+    <title lang="id">Mega Film Asia : Legend of The Wolf</title>
     <desc lang="id">Mega Film Asia Adalah Program Yang Memutarkan Film-Film Asia Yang Ditayangkan Di Indosiar. Acara Ini Ditayangkan Perdana Pada Tahun 1996 Silam.</desc>
     <icon src="https://thumbor.prod.vidiocdn.com/VgjhD5uf1pjlOHJgrNi4elA2gpU=/287x162/filters:strip_icc():quality(70)/vidio-media-production/uploads/livestreaming/schedule/thumbnail/5014016/bb659b.jpg"/>
   </programme>
-  <programme channel="205" start="20260416200000 +0000" stop="20260416213000 +0000">
-    <title lang="id">Mega Film Asia : Legend Of The Wolf</title>
+  <programme channel="205" start="20260416200000 +0000" stop="20260416212000 +0000">
+    <title lang="id">Mega Film Asia : Saving General Yang</title>
     <desc lang="id">Mega Film Asia Adalah Program Yang Memutarkan Film-Film Asia Yang Ditayangkan Di Indosiar. Acara Ini Ditayangkan Perdana Pada Tahun 1996 Silam.</desc>
     <icon src="https://thumbor.prod.vidiocdn.com/VMPuXnphozP2XGJZiulijxDBvys=/287x162/filters:strip_icc():quality(70)/vidio-media-production/uploads/livestreaming/schedule/thumbnail/5014017/f121a6.jpg"/>
   </programme>
-  <programme channel="205" start="20260416213000 +0000" stop="20260416230000 +0000">
+  <programme channel="205" start="20260416212000 +0000" stop="20260416230000 +0000">
     <title lang="id">Fokus Pagi</title>
     <desc lang="id">Berita Lengkap dan Terkini Dari Dalam dan Luar Negeri Seputar Isu Politik, Ekonomi, Hukum, Kriminal, Sosial Budaya, Olahraga, dan Lain-Lain.</desc>
     <icon src="https://thumbor.prod.vidiocdn.com/cBZL7ITaJCof6cqtayFee2uJCX8=/287x162/filters:strip_icc():quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/image/205/indosiar-d9a3d0.jpg"/>
@@ -5750,17 +5752,21 @@
     <desc lang="id">Matchday 31</desc>
     <icon src="https://thumbor.prod.vidiocdn.com/5yUHYfv_b1sZi7kdFElm8JqF2RY=/287x162/filters:strip_icc():quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/image/6299/bein-1-4bd997.jpg"/>
   </programme>
-  <programme channel="6299" start="20260416164000 +0000" stop="20260416185500 +0000">
+  <programme channel="6299" start="20260416164000 +0000" stop="20260416184000 +0000">
     <title lang="id">Celta Vigo vs SC Freiburg - UEFA Europa League</title>
     <desc lang="id">Nonton streaming pertandingan seru Celta Vigo vs SC Freiburg - UEFA Europa League. Saksikan aksi-aksi terbaik dari tim yang bersaing ketat untuk meraih kemenangan. Dapatkan informasi lengkap mengenai jadwal pertandingan dan hasil pertandingan terbaru hanya di Vidio.</desc>
     <icon src="https://thumbor.prod.vidiocdn.com/5boLxn-uTSM7dpKuEj3K8oHytEo=/287x162/filters:strip_icc():quality(70)/vidio-media-production/uploads/livestreaming/schedule/thumbnail/5014321/ea70e1.jpg"/>
   </programme>
-  <programme channel="6299" start="20260416164000 +0000" stop="20260416185500 +0000">
+  <programme channel="6299" start="20260416164000 +0000" stop="20260416184000 +0000">
     <title lang="id">Celta Vigo vs SC Freiburg - UEFA Europa League</title>
     <desc lang="id">Nonton streaming pertandingan seru Celta Vigo vs SC Freiburg - UEFA Europa League. Saksikan aksi-aksi terbaik dari tim yang bersaing ketat untuk meraih kemenangan. Dapatkan informasi lengkap mengenai jadwal pertandingan dan hasil pertandingan terbaru hanya di Vidio.</desc>
     <icon src="https://thumbor.prod.vidiocdn.com/5boLxn-uTSM7dpKuEj3K8oHytEo=/287x162/filters:strip_icc():quality(70)/vidio-media-production/uploads/livestreaming/schedule/thumbnail/5014321/ea70e1.jpg"/>
   </programme>
-  <programme channel="6299" start="20260416185500 +0000" stop="20260416210000 +0000">
+  <programme channel="6299" start="20260416184000 +0000" stop="20260416185400 +0000">
+    <title lang="id">Filler</title>
+    <icon src="https://thumbor.prod.vidiocdn.com/5yUHYfv_b1sZi7kdFElm8JqF2RY=/287x162/filters:strip_icc():quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/image/6299/bein-1-4bd997.jpg"/>
+  </programme>
+  <programme channel="6299" start="20260416185400 +0000" stop="20260416210000 +0000">
     <title lang="id">Aston Villa vs Bologna - UEFA Europa League</title>
     <desc lang="id">Nonton streaming pertandingan seru Aston Villa vs Bologna - UEFA Europa League. Saksikan aksi-aksi terbaik dari tim yang bersaing ketat untuk meraih kemenangan. Dapatkan informasi lengkap mengenai jadwal pertandingan dan hasil pertandingan terbaru hanya di Vidio.</desc>
     <icon src="https://thumbor.prod.vidiocdn.com/vPMkIL98juItbd6YEsXhJmqgyac=/287x162/filters:strip_icc():quality(70)/vidio-media-production/uploads/livestreaming/schedule/thumbnail/5015443/55abb1.jpg"/>
@@ -6609,17 +6615,21 @@
     <desc lang="id">Lifeblood: History</desc>
     <icon src="https://thumbor.prod.vidiocdn.com/xiN-u5MIG7jgOVE2tB_TUIynz7k=/287x162/filters:strip_icc():quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/image/6317/bein-3-616b1c.jpg"/>
   </programme>
-  <programme channel="6317" start="20260416164000 +0000" stop="20260416184500 +0000">
+  <programme channel="6317" start="20260416164000 +0000" stop="20260416184200 +0000">
     <title lang="id">AZ Alkmaar vs Shakhtar Donetsk - UEFA Conference League</title>
     <desc lang="id">Nonton streaming pertandingan seru AZ Alkmaar vs Shakhtar Donetsk - UEFA Conference League. Saksikan aksi-aksi terbaik dari tim yang bersaing ketat untuk meraih kemenangan. Dapatkan informasi lengkap mengenai jadwal pertandingan dan hasil pertandingan terbaru hanya di Vidio.</desc>
     <icon src="https://thumbor.prod.vidiocdn.com/2hsbsCBJ1P6EhlSPjkHjcJSZuho=/287x162/filters:strip_icc():quality(70)/vidio-media-production/uploads/livestreaming/schedule/thumbnail/5014320/15cc4c.jpg"/>
   </programme>
-  <programme channel="6317" start="20260416164000 +0000" stop="20260416184500 +0000">
+  <programme channel="6317" start="20260416164000 +0000" stop="20260416184200 +0000">
     <title lang="id">AZ Alkmaar vs Shakhtar Donetsk - UEFA Conference League</title>
     <desc lang="id">Nonton streaming pertandingan seru AZ Alkmaar vs Shakhtar Donetsk - UEFA Conference League. Saksikan aksi-aksi terbaik dari tim yang bersaing ketat untuk meraih kemenangan. Dapatkan informasi lengkap mengenai jadwal pertandingan dan hasil pertandingan terbaru hanya di Vidio.</desc>
     <icon src="https://thumbor.prod.vidiocdn.com/2hsbsCBJ1P6EhlSPjkHjcJSZuho=/287x162/filters:strip_icc():quality(70)/vidio-media-production/uploads/livestreaming/schedule/thumbnail/5014320/15cc4c.jpg"/>
   </programme>
-  <programme channel="6317" start="20260416185500 +0000" stop="20260416210000 +0000">
+  <programme channel="6317" start="20260416184200 +0000" stop="20260416185400 +0000">
+    <title lang="id">Filler</title>
+    <icon src="https://thumbor.prod.vidiocdn.com/xiN-u5MIG7jgOVE2tB_TUIynz7k=/287x162/filters:strip_icc():quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/image/6317/bein-3-616b1c.jpg"/>
+  </programme>
+  <programme channel="6317" start="20260416185400 +0000" stop="20260416210000 +0000">
     <title lang="id">Nottingham Forest vs Porto - QF, 2nd Leg : UEFA Europa League 2025/26</title>
     <desc lang="id">Nottingham Forest vs Porto - QF, 2nd Leg</desc>
     <icon src="https://thumbor.prod.vidiocdn.com/xiN-u5MIG7jgOVE2tB_TUIynz7k=/287x162/filters:strip_icc():quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/image/6317/bein-3-616b1c.jpg"/>
@@ -7783,12 +7793,16 @@
     <desc lang="id">Penjelajah Sima Cong diperas, oleh seorang pengusaha kaya Thailand, untuk bertualang 10.000 meter di bawah Pegunungan Savage untuk mengetahui lokasi Kota Laba-laba Emas yang terkenal. Namun kota legendaris ini bukannya tidak berpenghuni.</desc>
     <icon src="https://thumbor.prod.vidiocdn.com/20tRQaK9Gps_wFQL5rY-XgRbrs4=/287x162/filters:strip_icc():quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/image/782/antv-de8530.jpg"/>
   </programme>
-  <programme channel="782" start="20260416180000 +0000" stop="20260416193000 +0000">
+  <programme channel="782" start="20260416180000 +0000" stop="20260416191800 +0000">
     <title lang="id">Bioskop Asia: Longling Mystery Grotto</title>
     <desc lang="id">Hu Bayi dan lelaki gemuk itu merupakan sahabat lama Shirley Yang. Mereka berjanji membantu Shirley Yang menemukan Naskah Lunas yang tersembunyi di Gua Long Ling beserta resep rahasia kuno untuk mengobati penyakit aneh bangsa Shirley Yang. Selama proses tersebut, mereka bertemu dengan raja naga berkepala besi. Makamnya penuh dengan pemicu, serigala, dan laba-laba raksasa.</desc>
     <icon src="https://thumbor.prod.vidiocdn.com/20tRQaK9Gps_wFQL5rY-XgRbrs4=/287x162/filters:strip_icc():quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/image/782/antv-de8530.jpg"/>
   </programme>
-  <programme channel="782" start="20260416193000 +0000" stop="20260416220000 +0000">
+  <programme channel="782" start="20260416191800 +0000" stop="20260416204200 +0000">
+    <title lang="id">Bioskop Asia : The Owl vs Bombo</title>
+    <icon src="https://thumbor.prod.vidiocdn.com/20tRQaK9Gps_wFQL5rY-XgRbrs4=/287x162/filters:strip_icc():quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/image/782/antv-de8530.jpg"/>
+  </programme>
+  <programme channel="782" start="20260416204200 +0000" stop="20260416220000 +0000">
     <title lang="id">Mega Bollywood: Jug Jugg Jeeyo</title>
     <desc lang="id">Setelah 5 tahun menikah, Kuku dan Naina harus memberi tahu pihak keluarga tentang rencana perceraian mereka. Namun, Bheem dan Geeta, orangtua Kuku, tidak setuju dan berusaha menyelamatkan keduanya.</desc>
     <icon src="https://thumbor.prod.vidiocdn.com/zQnmK2VlV1qtL-PhadzliWYfswc=/287x162/filters:strip_icc():quality(70)/vidio-media-production/uploads/livestreaming/schedule/thumbnail/5015859/72f42d.jpg"/>
@@ -11933,22 +11947,21 @@
     <title lang="id">HSBC SVNS Series 2026</title>
     <icon src="https://thumbor.prod.vidiocdn.com/VmoYokSeKr_3SubUXC-rMC-EtQM=/287x162/filters:strip_icc():quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/image/17875/bein-2-25a5f9.jpg"/>
   </programme>
-  <programme channel="17875" start="20260416140000 +0000" stop="20260416183500 +0000">
+  <programme channel="17875" start="20260416140000 +0000" stop="20260416185200 +0000">
     <title lang="id">Newgiza P2 Premier Padel 2026 - Quarterfinals</title>
     <desc lang="id">Nonton streaming pertandingan seru Newgiza P2 Premier Padel 2026 - Quarterfinals. Saksikan aksi-aksi terbaik dari tim yang bersaing ketat untuk meraih kemenangan. Dapatkan informasi lengkap mengenai jadwal pertandingan dan hasil pertandingan terbaru hanya di Vidio.</desc>
     <icon src="https://thumbor.prod.vidiocdn.com/jS_ap8p8W21u8-YtsuyGVcrrYoc=/287x162/filters:strip_icc():quality(70)/vidio-media-production/uploads/livestreaming/schedule/thumbnail/5014335/f10fc2.jpg"/>
   </programme>
-  <programme channel="17875" start="20260416140000 +0000" stop="20260416183500 +0000">
+  <programme channel="17875" start="20260416140000 +0000" stop="20260416185200 +0000">
     <title lang="id">Newgiza P2 Premier Padel 2026 - Quarterfinals</title>
     <desc lang="id">Nonton streaming pertandingan seru Newgiza P2 Premier Padel 2026 - Quarterfinals. Saksikan aksi-aksi terbaik dari tim yang bersaing ketat untuk meraih kemenangan. Dapatkan informasi lengkap mengenai jadwal pertandingan dan hasil pertandingan terbaru hanya di Vidio.</desc>
     <icon src="https://thumbor.prod.vidiocdn.com/jS_ap8p8W21u8-YtsuyGVcrrYoc=/287x162/filters:strip_icc():quality(70)/vidio-media-production/uploads/livestreaming/schedule/thumbnail/5014335/f10fc2.jpg"/>
   </programme>
-  <programme channel="17875" start="20260416183500 +0000" stop="20260416185500 +0000">
-    <title lang="id">Australia vs New Zealand - Singapore Day 2, Women : HSBC SVNS Series 2026</title>
-    <desc lang="id">Australia vs New Zealand - Singapore Day 2, Women</desc>
+  <programme channel="17875" start="20260416185200 +0000" stop="20260416185400 +0000">
+    <title lang="id">Filler</title>
     <icon src="https://thumbor.prod.vidiocdn.com/VmoYokSeKr_3SubUXC-rMC-EtQM=/287x162/filters:strip_icc():quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/image/17875/bein-2-25a5f9.jpg"/>
   </programme>
-  <programme channel="17875" start="20260416185500 +0000" stop="20260416210000 +0000">
+  <programme channel="17875" start="20260416185400 +0000" stop="20260416210000 +0000">
     <title lang="id">Fiorentina vs Crystal Palace - UEFA Conference League</title>
     <desc lang="id">Nonton streaming pertandingan seru Fiorentina vs Crystal Palace - UEFA Conference League. Saksikan aksi-aksi terbaik dari tim yang bersaing ketat untuk meraih kemenangan. Dapatkan informasi lengkap mengenai jadwal pertandingan dan hasil pertandingan terbaru hanya di Vidio.</desc>
     <icon src="https://thumbor.prod.vidiocdn.com/IO8PTTieqsB9qwfYM7jwLGrA8PU=/287x162/filters:strip_icc():quality(70)/vidio-media-production/uploads/livestreaming/schedule/thumbnail/5015445/2a6f9c.jpg"/>
