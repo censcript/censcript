@@ -1022,7 +1022,7 @@
   </programme>
   <programme start="20260416130000 +0000" stop="20260416140000 +0000" channel="tv2.unifitv">
     <title lang="en">LIVE : Bicara Naratif Khas</title>
-    <desc lang="en">Kupasan mendalam mengenai Konflik Asia Barat (Survival Ekonomi Negara) bersama hos Ismail Adnan dan tetamu jemputan, YB Dato' Indera Mohd Shahar bin Abdullah (Timbalan Menteri Ekonomi).</desc>
+    <desc lang="en">Kupasan mendalam mengenai Krisis Tenaga Global : Daya Tahan Ekonomi Negara bersama hos Ismail Adnan dan tetamu jemputan, YB Dato' Indera Mohd Shahar bin Abdullah (Timbalan Menteri Ekonomi).</desc>
     <category lang="en">Drama</category>
   </programme>
   <programme start="20260416140000 +0000" stop="20260416160000 +0000" channel="tv2.unifitv">

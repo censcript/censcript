@@ -3838,35 +3838,26 @@
     <programme start="20260416005500 +0000" stop="20260416010000 +0000" channel="NHK World Premium HD.starhub">
         <title>Exercise for Everyone</title>
     </programme>
-    <programme start="20260416010000 +0000" stop="20260416010500 +0000" channel="NHK World Premium HD.starhub">
+    <programme start="20260416010000 +0000" stop="20260416011500 +0000" channel="NHK World Premium HD.starhub">
         <title>News &amp; Weather</title>
     </programme>
-    <programme start="20260416010500 +0000" stop="20260416015000 +0000" channel="NHK World Premium HD.starhub">
+    <programme start="20260416011500 +0000" stop="20260416020000 +0000" channel="NHK World Premium HD.starhub">
         <title>Hidden Doors! Exploring the Unknown World (R)</title>
     </programme>
-    <programme start="20260416015000 +0000" stop="20260416021700 +0000" channel="NHK World Premium HD.starhub">
+    <programme start="20260416020000 +0000" stop="20260416022700 +0000" channel="NHK World Premium HD.starhub">
         <title>Today&#039;s Close-up (R)</title>
     </programme>
-    <programme start="20260416021700 +0000" stop="20260416022000 +0000" channel="NHK World Premium HD.starhub">
+    <programme start="20260416022700 +0000" stop="20260416023000 +0000" channel="NHK World Premium HD.starhub">
         <title>Mini Program</title>
     </programme>
-    <programme start="20260416022000 +0000" stop="20260416025000 +0000" channel="NHK World Premium HD.starhub">
+    <programme start="20260416023000 +0000" stop="20260416030000 +0000" channel="NHK World Premium HD.starhub">
         <title>Sleepless Night Talk with the Singer AI (R)</title>
     </programme>
-    <programme start="20260416025000 +0000" stop="20260416025500 +0000" channel="NHK World Premium HD.starhub">
-        <title>Songs for Everyone</title>
-    </programme>
-    <programme start="20260416025500 +0000" stop="20260416030000 +0000" channel="NHK World Premium HD.starhub">
-        <title>World Weather</title>
-    </programme>
-    <programme start="20260416030000 +0000" stop="20260416032000 +0000" channel="NHK World Premium HD.starhub">
+    <programme start="20260416030000 +0000" stop="20260416032200 +0000" channel="NHK World Premium HD.starhub">
         <title>News</title>
     </programme>
-    <programme start="20260416032000 +0000" stop="20260416032800 +0000" channel="NHK World Premium HD.starhub">
+    <programme start="20260416032200 +0000" stop="20260416033000 +0000" channel="NHK World Premium HD.starhub">
         <title>Information Worth Knowing from the News Commentator Bureau</title>
-    </programme>
-    <programme start="20260416032800 +0000" stop="20260416033000 +0000" channel="NHK World Premium HD.starhub">
-        <title>Mini Program</title>
     </programme>
     <programme start="20260416033000 +0000" stop="20260416034500 +0000" channel="NHK World Premium HD.starhub">
         <title>Drama Serial &quot;Massan&quot; Encore Ep. 77</title>
