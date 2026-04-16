@@ -1240,38 +1240,47 @@
   <programme start="20260418213500 +0000" stop="20260419003500 +0000" channel="JOJ Šport.webtv.sk">
     <title lang="id">Hokej - Tipsport liga</title>
   </programme>
-  <programme start="20260417182500 +0000" stop="20260418000500 +0000" channel="JOJ Šport 2.webtv.sk">
+  <programme start="20260417192000 +0000" stop="20260417222500 +0000" channel="JOJ Šport 2.webtv.sk">
     <title lang="id">Futbal - Európska liga</title>
   </programme>
-  <programme start="20260418000500 +0000" stop="20260418022000 +0000" channel="JOJ Šport 2.webtv.sk">
+  <programme start="20260417222500 +0000" stop="20260418000500 +0000" channel="JOJ Šport 2.webtv.sk">
+    <title lang="id">Skialpinizmus Svetový pohár</title>
+  </programme>
+  <programme start="20260418000500 +0000" stop="20260418013500 +0000" channel="JOJ Šport 2.webtv.sk">
     <title lang="id">FIS Svetový pohár zjazd ženy</title>
   </programme>
-  <programme start="20260418022000 +0000" stop="20260418031500 +0000" channel="JOJ Šport 2.webtv.sk">
+  <programme start="20260418013500 +0000" stop="20260418030000 +0000" channel="JOJ Šport 2.webtv.sk">
     <title lang="id">FIS Svetový pohár Super G ženy</title>
   </programme>
-  <programme start="20260418031500 +0000" stop="20260418050500 +0000" channel="JOJ Šport 2.webtv.sk">
+  <programme start="20260418030000 +0000" stop="20260418043500 +0000" channel="JOJ Šport 2.webtv.sk">
     <title lang="id">FIS Svetový pohár zjazd muži</title>
   </programme>
-  <programme start="20260418050500 +0000" stop="20260418070500 +0000" channel="JOJ Šport 2.webtv.sk">
+  <programme start="20260418043500 +0000" stop="20260418063000 +0000" channel="JOJ Šport 2.webtv.sk">
     <title lang="id">2025 IIHF Majstrovstvá sveta</title>
   </programme>
-  <programme start="20260418070500 +0000" stop="20260418090000 +0000" channel="JOJ Šport 2.webtv.sk">
+  <programme start="20260418063000 +0000" stop="20260418081500 +0000" channel="JOJ Šport 2.webtv.sk">
     <title lang="id">2025 IIHF Majstrovstvá sveta</title>
   </programme>
-  <programme start="20260418090000 +0000" stop="20260418114000 +0000" channel="JOJ Šport 2.webtv.sk">
-    <title lang="id">Squash - PSA World Tour</title>
-  </programme>
-  <programme start="20260418114000 +0000" stop="20260418135000 +0000" channel="JOJ Šport 2.webtv.sk">
-    <title lang="id">Hokej MS ženy 1. divízia 2026</title>
-  </programme>
-  <programme start="20260418135000 +0000" stop="20260418165000 +0000" channel="JOJ Šport 2.webtv.sk">
-    <title lang="id">Volejbal - Niké Extraliga ženy</title>
-  </programme>
-  <programme start="20260418165000 +0000" stop="20260418194000 +0000" channel="JOJ Šport 2.webtv.sk">
+  <programme start="20260418081500 +0000" stop="20260418110500 +0000" channel="JOJ Šport 2.webtv.sk">
     <title lang="id">Volejbal - Niké Extraliga muži</title>
   </programme>
-  <programme start="20260418194000 +0000" stop="20260418221500 +0000" channel="JOJ Šport 2.webtv.sk">
+  <programme start="20260418110500 +0000" stop="20260418134000 +0000" channel="JOJ Šport 2.webtv.sk">
+    <title lang="id">Hokej MS ženy 1. divízia 2026</title>
+  </programme>
+  <programme start="20260418134000 +0000" stop="20260418145000 +0000" channel="JOJ Šport 2.webtv.sk">
+    <title lang="id">Žreb</title>
+  </programme>
+  <programme start="20260418145000 +0000" stop="20260418165000 +0000" channel="JOJ Šport 2.webtv.sk">
+    <title lang="id">Basketbal - Tipos extraliga</title>
+  </programme>
+  <programme start="20260418165000 +0000" stop="20260418193500 +0000" channel="JOJ Šport 2.webtv.sk">
+    <title lang="id">Basketbal - Tipos SBL</title>
+  </programme>
+  <programme start="20260418193500 +0000" stop="20260418215000 +0000" channel="JOJ Šport 2.webtv.sk">
     <title lang="id">Hokej - Reprezentácia</title>
+  </programme>
+  <programme start="20260418215000 +0000" stop="20260419000000 +0000" channel="JOJ Šport 2.webtv.sk">
+    <title lang="id">FIS Svetový pohár Super G ženy</title>
   </programme>
   <programme start="20260417215000 +0000" stop="20260417225000 +0000" channel="WAU.webtv.sk">
     <title lang="id">Kto zastrelil Otta Muellera (2)</title>
