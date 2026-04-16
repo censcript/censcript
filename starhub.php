@@ -3769,26 +3769,23 @@
     <programme start="20260415153000 +0000" stop="20260415161500 +0000" channel="NHK World Premium HD.starhub">
         <title>Choices on How to Deal with Illness</title>
     </programme>
-    <programme start="20260415161500 +0000" stop="20260415164000 +0000" channel="NHK World Premium HD.starhub">
+    <programme start="20260415161500 +0000" stop="20260415163000 +0000" channel="NHK World Premium HD.starhub">
         <title>Today&#039;s Cooking</title>
     </programme>
-    <programme start="20260415164000 +0000" stop="20260415170500 +0000" channel="NHK World Premium HD.starhub">
+    <programme start="20260415163000 +0000" stop="20260415165500 +0000" channel="NHK World Premium HD.starhub">
+        <title>Today&#039;s Cooking</title>
+    </programme>
+    <programme start="20260415165500 +0000" stop="20260415170500 +0000" channel="NHK World Premium HD.starhub">
+        <title>News</title>
+    </programme>
+    <programme start="20260415170500 +0000" stop="20260415173000 +0000" channel="NHK World Premium HD.starhub">
         <title>Haiku Poetry</title>
     </programme>
-    <programme start="20260415170500 +0000" stop="20260415171000 +0000" channel="NHK World Premium HD.starhub">
-        <title>The Great Nature 5min.</title>
-    </programme>
-    <programme start="20260415171000 +0000" stop="20260415173000 +0000" channel="NHK World Premium HD.starhub">
+    <programme start="20260415173000 +0000" stop="20260415175000 +0000" channel="NHK World Premium HD.starhub">
         <title>Spanish in a Happy Mood</title>
     </programme>
-    <programme start="20260415173000 +0000" stop="20260415174000 +0000" channel="NHK World Premium HD.starhub">
+    <programme start="20260415175000 +0000" stop="20260415180000 +0000" channel="NHK World Premium HD.starhub">
         <title>Real-Life Travel English</title>
-    </programme>
-    <programme start="20260415174000 +0000" stop="20260415174500 +0000" channel="NHK World Premium HD.starhub">
-        <title>World Weather</title>
-    </programme>
-    <programme start="20260415174500 +0000" stop="20260415180000 +0000" channel="NHK World Premium HD.starhub">
-        <title>Kid&#039;s Discovery (R)</title>
     </programme>
     <programme start="20260415180000 +0000" stop="20260415182500 +0000" channel="NHK World Premium HD.starhub">
         <title>With Mother (R)</title>

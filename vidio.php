@@ -589,21 +589,20 @@
     <desc lang="id">Mega Series Terbaru Raden Rakha dan Basmalah Gralind Di Indosiar "Merangkai Kisah Indah" Tayang Setiap Hari, Mulai Senin, 14 Juli 2025 Pukul 17:00 WIB. Kisah Derita Mutiara Yang Mencari Orangtua Kandungnya Karena Sewaktu Bayi Ditukar Oleh Ibu Angkatnya. Nasib Membawa Dirinya Bertemu Dengan Keluarga Yang Tanpa Dia Ketahui Adalah Orangtua Kandungnya dan Juga Bertemu Kenzo. Apakah Kenzo dan Mutiara Akan Berjodoh? Dibintangi Raden Rakha, Basmalah Gralind, Panji Saputra, Tsania Marwa, Gita Sinaga, Vayala Maulidina, Washifa, Haura Lathifa, dan Emiliano Cortizo. Saksikan Mega Series Terbaru Indosiar : Merangkai Kisah Indah, Tayang Setiap Hari, Mulai Senin, 14 Juli 2025 Pukul 17:00 WIB Hanya Di Indosiar.</desc>
     <icon src="https://thumbor.prod.vidiocdn.com/WIl2jiaTLEzHnNAo61AGzfdEXh8=/287x162/filters:strip_icc():quality(70)/vidio-media-production/uploads/tv_program/thumbnail/389747/fc3ce1.jpg"/>
   </programme>
-  <programme channel="205" start="20260416120000 +0000" stop="20260416143000 +0000">
+  <programme channel="205" start="20260416120000 +0000" stop="20260416144500 +0000">
     <title lang="id">Asean U17 Boys Championship - Malaysia Vs Indonesia</title>
     <desc lang="id">Saksikan Perjuangan Heroik Garuda Muda Dalam Turnamen Bergengsi ASEAN U17 Boys Championship 2026 Yang Akan Berlaga Di Stadion Gelora Joko Samudro dan Gelora Delta Sidoarjo! Timnas Indonesia Siap Memberikan Segalanya Demi Menjaga Kehormatan Bangsa Menghadapi Tantangan Sengit Dari Timor Leste, Malaysia, dan Vietnam. Jangan Lewatkan Momen Kebangkitan Talenta Masa Depan Sepak Bola Tanah Air Yang Penuh Semangat dan Determinasi Tinggi, Eksklusif Mulai Senin, 13 April Pukul 19.00 WIB, Hanya Di Indosiar!</desc>
     <icon src="https://thumbor.prod.vidiocdn.com/cBZL7ITaJCof6cqtayFee2uJCX8=/287x162/filters:strip_icc():quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/image/205/indosiar-d9a3d0.jpg"/>
   </programme>
-  <programme channel="205" start="20260416143000 +0000" stop="20260416163000 +0000">
+  <programme channel="205" start="20260416144500 +0000" stop="20260416171000 +0000">
     <title lang="id">D'Academy 7 Mega Konser - Gen Z</title>
     <icon src="https://thumbor.prod.vidiocdn.com/kTB7go0FImq9zL2IlPuw3YuK7JY=/287x162/filters:strip_icc():quality(70)/vidio-media-production/uploads/livestreaming/schedule/thumbnail/5015552/2d6d12.jpg"/>
   </programme>
-  <programme channel="205" start="20260416163000 +0000" stop="20260416183000 +0000">
-    <title lang="id">Mega Series Action Asia : Heroes</title>
-    <desc lang="id">Sebuah Kisah Epic Yang Melegenda Perjuangan Sang Master Kungfu: Huo Yuan Jia, Memimipin Perlawanan Bangsanya Dalam Menghadapi Invasi Penjajah. Saksikan Penampilan Memukau: Vincent Zhao, Nikita Mao dan Bintang Laga Lainnya Dalam Mega Series Action Asia: Heroes, Mulai 14 Maret 2025, Pkl 23.00 WIB, Hanya Di Indosiar</desc>
-    <icon src="https://thumbor.prod.vidiocdn.com/0BtybfnBfHhaZ5O40txJghKu7cU=/287x162/filters:strip_icc():quality(70)/vidio-media-production/uploads/livestreaming/schedule/thumbnail/5013984/fa52b6.jpg"/>
+  <programme channel="205" start="20260416144500 +0000" stop="20260416171000 +0000">
+    <title lang="id">D'Academy 7 Mega Konser - Gen Z</title>
+    <icon src="https://thumbor.prod.vidiocdn.com/kTB7go0FImq9zL2IlPuw3YuK7JY=/287x162/filters:strip_icc():quality(70)/vidio-media-production/uploads/livestreaming/schedule/thumbnail/5015552/2d6d12.jpg"/>
   </programme>
-  <programme channel="205" start="20260416163000 +0000" stop="20260416183000 +0000">
+  <programme channel="205" start="20260416171000 +0000" stop="20260416183000 +0000">
     <title lang="id">Mega Series Action Asia : Heroes</title>
     <desc lang="id">Sebuah Kisah Epic Yang Melegenda Perjuangan Sang Master Kungfu: Huo Yuan Jia, Memimipin Perlawanan Bangsanya Dalam Menghadapi Invasi Penjajah. Saksikan Penampilan Memukau: Vincent Zhao, Nikita Mao dan Bintang Laga Lainnya Dalam Mega Series Action Asia: Heroes, Mulai 14 Maret 2025, Pkl 23.00 WIB, Hanya Di Indosiar</desc>
     <icon src="https://thumbor.prod.vidiocdn.com/0BtybfnBfHhaZ5O40txJghKu7cU=/287x162/filters:strip_icc():quality(70)/vidio-media-production/uploads/livestreaming/schedule/thumbnail/5013984/fa52b6.jpg"/>
@@ -1647,21 +1646,20 @@
     <title lang="id">American Ninja Warrior</title>
     <icon src="https://thumbor.prod.vidiocdn.com/NdmzqkxqnWVnlngtk_ObYNT-wiY=/287x162/filters:strip_icc():quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/image/206/moji-a5bd3e.jpg"/>
   </programme>
-  <programme channel="206" start="20260416113000 +0000" stop="20260416140000 +0000">
+  <programme channel="206" start="20260416113000 +0000" stop="20260416142400 +0000">
     <title lang="id">Proliga 2026 First Serve 19:00</title>
     <desc lang="id">Proliga 2026 First Serve 19:00</desc>
     <icon src="https://thumbor.prod.vidiocdn.com/NdmzqkxqnWVnlngtk_ObYNT-wiY=/287x162/filters:strip_icc():quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/image/206/moji-a5bd3e.jpg"/>
   </programme>
-  <programme channel="206" start="20260416140000 +0000" stop="20260416160000 +0000">
-    <title lang="id">Rerun Uel</title>
-    <desc lang="id">Rerun Uel</desc>
+  <programme channel="206" start="20260416142400 +0000" stop="20260416165000 +0000">
+    <title lang="id">AS Roma vs Lille OSC Metropole : UEFA Europa League 2025/26</title>
     <icon src="https://thumbor.prod.vidiocdn.com/NdmzqkxqnWVnlngtk_ObYNT-wiY=/287x162/filters:strip_icc():quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/image/206/moji-a5bd3e.jpg"/>
   </programme>
-  <programme channel="206" start="20260416160000 +0000" stop="20260416173000 +0000">
+  <programme channel="206" start="20260416165000 +0000" stop="20260416173000 +0000">
     <title lang="id">HARTA TAHTA CINTA</title>
     <icon src="https://thumbor.prod.vidiocdn.com/NdmzqkxqnWVnlngtk_ObYNT-wiY=/287x162/filters:strip_icc():quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/image/206/moji-a5bd3e.jpg"/>
   </programme>
-  <programme channel="206" start="20260416160000 +0000" stop="20260416173000 +0000">
+  <programme channel="206" start="20260416165000 +0000" stop="20260416173000 +0000">
     <title lang="id">HARTA TAHTA CINTA</title>
     <icon src="https://thumbor.prod.vidiocdn.com/NdmzqkxqnWVnlngtk_ObYNT-wiY=/287x162/filters:strip_icc():quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/image/206/moji-a5bd3e.jpg"/>
   </programme>
@@ -4654,11 +4652,11 @@
     <title lang="id">MD Drama: Cinta Fitri</title>
     <icon src="https://thumbor.prod.vidiocdn.com/4Czw1-Pd6U37CKeatnuB7yB0wm8=/287x162/filters:strip_icc():quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/image/875/mdtv-ff5756.jpg"/>
   </programme>
-  <programme channel="875" start="20260416125500 +0000" stop="20260416135000 +0000">
+  <programme channel="875" start="20260416125500 +0000" stop="20260416135800 +0000">
     <title lang="id">MD Series: Keluarga Yang Tak Dirindukan</title>
     <icon src="https://thumbor.prod.vidiocdn.com/4Czw1-Pd6U37CKeatnuB7yB0wm8=/287x162/filters:strip_icc():quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/image/875/mdtv-ff5756.jpg"/>
   </programme>
-  <programme channel="875" start="20260416135000 +0000" stop="20260416144000 +0000">
+  <programme channel="875" start="20260416135800 +0000" stop="20260416144000 +0000">
     <title lang="id">Hot Drama</title>
     <icon src="https://thumbor.prod.vidiocdn.com/4Czw1-Pd6U37CKeatnuB7yB0wm8=/287x162/filters:strip_icc():quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/image/875/mdtv-ff5756.jpg"/>
   </programme>
@@ -7752,11 +7750,11 @@
     <desc lang="id">Seorang wanita muda yang bersemangat memulai perjalanan untuk memenuhi janji seorang ibu demi kehidupan yang lebih baik sambil mengatasi tantangan dan kehilangan.</desc>
     <icon src="https://thumbor.prod.vidiocdn.com/uTK_WFGf7AXoJExWRoCTPTiZtxk=/287x162/filters:strip_icc():quality(70)/vidio-media-production/uploads/livestreaming/schedule/thumbnail/5014854/1f1b32.jpg"/>
   </programme>
-  <programme channel="782" start="20260416074900 +0000" stop="20260416091500 +0000">
+  <programme channel="782" start="20260416074900 +0000" stop="20260416090200 +0000">
     <title lang="id">Teri Meri Doriyann</title>
     <icon src="https://thumbor.prod.vidiocdn.com/9ve1oIxJYMKStZSHoJprSmGx95o=/287x162/filters:strip_icc():quality(70)/vidio-media-production/uploads/livestreaming/schedule/thumbnail/5015835/3ea0b1.jpg"/>
   </programme>
-  <programme channel="782" start="20260416091500 +0000" stop="20260416111000 +0000">
+  <programme channel="782" start="20260416090200 +0000" stop="20260416105800 +0000">
     <title lang="id">Vasudha</title>
     <desc lang="id">Vasudha yang periang bergabung dengan rumah pemimpin bisnis Chandrika sebagai pembantu dan mendambakan persetujuannya meskipun ada perbedaan ideologis di antara mereka.</desc>
     <icon src="https://thumbor.prod.vidiocdn.com/KgKtJ4nFpKa420a3a2E6rN-kEZA=/287x162/filters:strip_icc():quality(70)/vidio-media-production/uploads/livestreaming/schedule/thumbnail/5014856/c70f56.jpg"/>
