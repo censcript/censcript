@@ -2816,7 +2816,7 @@
     <title lang="id">PÍSNIČKY NA PŘÁNÍ</title>
   </programme>
   <programme start="20260418182000 +0000" stop="20260418220000 +0000" channel="Šláger Originál.webtv.sk">
-    <title lang="id">VEČERNÍ POŘAD</title>
+    <title lang="id">S HARMONIKOU</title>
   </programme>
   <programme start="20260417220000 +0000" stop="20260418060000 +0000" channel="Šláger Muzika.webtv.sk">
     <title lang="id">LIDOVÝ ŠLÁGR MIŠMAŠ</title>
@@ -5422,8 +5422,11 @@
   <programme start="20260418053000 +0000" stop="20260418060000 +0000" channel="Golf Channel.webtv.sk">
     <title lang="id">The Golf Fix</title>
   </programme>
-  <programme start="20260418060000 +0000" stop="20260418110000 +0000" channel="Golf Channel.webtv.sk">
+  <programme start="20260418060000 +0000" stop="20260418104500 +0000" channel="Golf Channel.webtv.sk">
     <title lang="id">LIV Mexico City</title>
+  </programme>
+  <programme start="20260418104500 +0000" stop="20260418110000 +0000" channel="Golf Channel.webtv.sk">
+    <title lang="id">Na golf chytře</title>
   </programme>
   <programme start="20260418110000 +0000" stop="20260418140000 +0000" channel="Golf Channel.webtv.sk">
     <title lang="id">Senior PGA Championship</title>
@@ -15031,10 +15034,7 @@
   <programme start="20260418210000 +0000" stop="20260419031000 +0000" channel="Life TV.webtv.sk">
     <title lang="id">Program z Domu modlitieb a chvál v Kansas City</title>
   </programme>
-  <programme start="20260417211400 +0000" stop="20260417224200 +0000" channel="TV Zemplín.webtv.sk">
-    <title lang="id">Záznam z rokovania zastupiteľstva KSK - 15.12.2025</title>
-  </programme>
-  <programme start="20260417224200 +0000" stop="20260418015700 +0000" channel="TV Zemplín.webtv.sk">
+  <programme start="20260417215900 +0000" stop="20260418011400 +0000" channel="TV Zemplín.webtv.sk">
     <title lang="id">Záznam z rokovania zastupiteľstva PSK - 9.2.2026</title>
   </programme>
   <programme start="20260418030000 +0000" stop="20260418030500 +0000" channel="TV Zemplín.webtv.sk">
@@ -15046,11 +15046,8 @@
   <programme start="20260418034500 +0000" stop="20260418035800 +0000" channel="TV Zemplín.webtv.sk">
     <title lang="id">Evanjelium na dnes</title>
   </programme>
-  <programme start="20260418035800 +0000" stop="20260418040500 +0000" channel="TV Zemplín.webtv.sk">
-    <title lang="id">Litmanovská Vizionárka Iveta: Aká by mala byť naša modlitba?</title>
-  </programme>
-  <programme start="20260418040500 +0000" stop="20260418041000 +0000" channel="TV Zemplín.webtv.sk">
-    <title lang="id">Varenie v lese - Kurča na ohni</title>
+  <programme start="20260418035800 +0000" stop="20260418041000 +0000" channel="TV Zemplín.webtv.sk">
+    <title lang="id">Litmanovská vizionárka Iveta: Človek vie viac o rozpínavosti vesmíru, než o svojej duši</title>
   </programme>
   <programme start="20260418041000 +0000" stop="20260418041800 +0000" channel="TV Zemplín.webtv.sk">
     <title lang="id">Sobranský magazín</title>
@@ -15070,11 +15067,11 @@
   <programme start="20260418061800 +0000" stop="20260418062000 +0000" channel="TV Zemplín.webtv.sk">
     <title lang="id">Charakterové minútky - Radosť z práce vs. Negativizmus</title>
   </programme>
-  <programme start="20260418062000 +0000" stop="20260418063100 +0000" channel="TV Zemplín.webtv.sk">
+  <programme start="20260418062000 +0000" stop="20260418063300 +0000" channel="TV Zemplín.webtv.sk">
     <title lang="id">Sobranský magazín</title>
   </programme>
-  <programme start="20260418063100 +0000" stop="20260418064000 +0000" channel="TV Zemplín.webtv.sk">
-    <title lang="id">Varenie v lese - Šúľance s orechmi</title>
+  <programme start="20260418063300 +0000" stop="20260418064000 +0000" channel="TV Zemplín.webtv.sk">
+    <title lang="id">Charakterové minútky - Ochota vs. Neochota</title>
   </programme>
   <programme start="20260418064000 +0000" stop="20260418065200 +0000" channel="TV Zemplín.webtv.sk">
     <title lang="id">Evanjelium na dnes</title>
@@ -15103,11 +15100,8 @@
   <programme start="20260418083000 +0000" stop="20260418095900 +0000" channel="TV Zemplín.webtv.sk">
     <title lang="id">Živý prenos - Litmanová - Sv. liturgia</title>
   </programme>
-  <programme start="20260418095900 +0000" stop="20260418101000 +0000" channel="TV Zemplín.webtv.sk">
+  <programme start="20260418095900 +0000" stop="20260418101500 +0000" channel="TV Zemplín.webtv.sk">
     <title lang="id">Slovo - Ako zbaviť dom od zlých duchov</title>
-  </programme>
-  <programme start="20260418101000 +0000" stop="20260418101500 +0000" channel="TV Zemplín.webtv.sk">
-    <title lang="id">Charakterové minútky - Dobroprajnosť vs. Závisť</title>
   </programme>
   <programme start="20260418101500 +0000" stop="20260418105200 +0000" channel="TV Zemplín.webtv.sk">
     <title lang="id">Michalovské správy 9.4.2026</title>
@@ -15139,10 +15133,10 @@
   <programme start="20260418130000 +0000" stop="20260418133200 +0000" channel="TV Zemplín.webtv.sk">
     <title lang="id">Živý prenos - Litmanová - Korunka k Božiemu milosrdenstvu</title>
   </programme>
-  <programme start="20260418133200 +0000" stop="20260418133700 +0000" channel="TV Zemplín.webtv.sk">
+  <programme start="20260418133200 +0000" stop="20260418133600 +0000" channel="TV Zemplín.webtv.sk">
     <title lang="id">Litmanovská vizionárka Iveta: Človek musí ísť niekedy proti tomu, čo sa od neho očakáva</title>
   </programme>
-  <programme start="20260418133700 +0000" stop="20260418140000 +0000" channel="TV Zemplín.webtv.sk">
+  <programme start="20260418133600 +0000" stop="20260418140000 +0000" channel="TV Zemplín.webtv.sk">
     <title lang="id">Litmanovská Vizionárka Ivetka: O depresiách a úzkostiach</title>
   </programme>
   <programme start="20260418140000 +0000" stop="20260418151200 +0000" channel="TV Zemplín.webtv.sk">
@@ -15187,32 +15181,35 @@
   <programme start="20260418185800 +0000" stop="20260418190000 +0000" channel="TV Zemplín.webtv.sk">
     <title lang="id">Charakterové minútky - Aktivita vs. Pasivita</title>
   </programme>
-  <programme start="20260418190000 +0000" stop="20260418190900 +0000" channel="TV Zemplín.webtv.sk">
+  <programme start="20260418190000 +0000" stop="20260418191400 +0000" channel="TV Zemplín.webtv.sk">
     <title lang="id">Sobranský magazín</title>
   </programme>
-  <programme start="20260418190900 +0000" stop="20260418192500 +0000" channel="TV Zemplín.webtv.sk">
+  <programme start="20260418191400 +0000" stop="20260418193000 +0000" channel="TV Zemplín.webtv.sk">
     <title lang="id">Hutorime i bisidujeme - Lekárovce</title>
   </programme>
-  <programme start="20260418192500 +0000" stop="20260418202300 +0000" channel="TV Zemplín.webtv.sk">
-    <title lang="id">Téma na Zemplíne - Veľká noc v minulosti a dnes</title>
-  </programme>
-  <programme start="20260418202300 +0000" stop="20260418202700 +0000" channel="TV Zemplín.webtv.sk">
-    <title lang="id">Charakterové minútky - Ochota vs. Neochota</title>
-  </programme>
-  <programme start="20260418202700 +0000" stop="20260418202900 +0000" channel="TV Zemplín.webtv.sk">
-    <title lang="id">Charakterové minútky - Radosť z práce vs. Negativizmus</title>
-  </programme>
-  <programme start="20260418202900 +0000" stop="20260418210100 +0000" channel="TV Zemplín.webtv.sk">
-    <title lang="id">NA SLOVÍČKO - Viliam Karas - Majú kresťanské strany ešte zmysel?</title>
-  </programme>
-  <programme start="20260418210100 +0000" stop="20260418211600 +0000" channel="TV Zemplín.webtv.sk">
-    <title lang="id">Hutorime i bisidujeme - Bežovce</title>
-  </programme>
-  <programme start="20260418211600 +0000" stop="20260418214000 +0000" channel="TV Zemplín.webtv.sk">
+  <programme start="20260418193000 +0000" stop="20260418200100 +0000" channel="TV Zemplín.webtv.sk">
     <title lang="id">Dnes bez lopty - Cagatay Özkan</title>
   </programme>
-  <programme start="20260418214000 +0000" stop="20260418221600 +0000" channel="TV Zemplín.webtv.sk">
+  <programme start="20260418200100 +0000" stop="20260418200500 +0000" channel="TV Zemplín.webtv.sk">
+    <title lang="id">Charakterové minútky - Ochota vs. Neochota</title>
+  </programme>
+  <programme start="20260418200500 +0000" stop="20260418200700 +0000" channel="TV Zemplín.webtv.sk">
+    <title lang="id">Charakterové minútky - Radosť z práce vs. Negativizmus</title>
+  </programme>
+  <programme start="20260418200700 +0000" stop="20260418203900 +0000" channel="TV Zemplín.webtv.sk">
+    <title lang="id">NA SLOVÍČKO - Viliam Karas - Majú kresťanské strany ešte zmysel?</title>
+  </programme>
+  <programme start="20260418203900 +0000" stop="20260418205500 +0000" channel="TV Zemplín.webtv.sk">
+    <title lang="id">Hutorime i bisidujeme - Bežovce</title>
+  </programme>
+  <programme start="20260418205500 +0000" stop="20260418211800 +0000" channel="TV Zemplín.webtv.sk">
+    <title lang="id">Dnes bez lopty - Cagatay Özkan</title>
+  </programme>
+  <programme start="20260418211800 +0000" stop="20260418215500 +0000" channel="TV Zemplín.webtv.sk">
     <title lang="id">Zemplínska šírava - Príbeh vody I</title>
+  </programme>
+  <programme start="20260418215500 +0000" stop="20260418220300 +0000" channel="TV Zemplín.webtv.sk">
+    <title lang="id">Varenie v lese - Káva v horách</title>
   </programme>
   <programme start="20260417220000 +0000" stop="20260417230000 +0000" channel="TV Poprad.webtv.sk">
     <title lang="id">TV Poprad</title>
@@ -16495,19 +16492,19 @@
   <programme start="20260417220000 +0000" stop="20260417221500 +0000" channel="TVP Info.webtv.sk">
     <title lang="id">Serwis Info Wieczór</title>
   </programme>
-  <programme start="20260417221500 +0000" stop="20260417222700 +0000" channel="TVP Info.webtv.sk">
+  <programme start="20260417221500 +0000" stop="20260417222500 +0000" channel="TVP Info.webtv.sk">
     <title lang="id">Pogoda Info</title>
   </programme>
-  <programme start="20260417222700 +0000" stop="20260417225500 +0000" channel="TVP Info.webtv.sk">
+  <programme start="20260417222500 +0000" stop="20260417225300 +0000" channel="TVP Info.webtv.sk">
     <title lang="id">Program informacyjny 19.30</title>
   </programme>
-  <programme start="20260417225500 +0000" stop="20260417231500 +0000" channel="TVP Info.webtv.sk">
+  <programme start="20260417225300 +0000" stop="20260417231300 +0000" channel="TVP Info.webtv.sk">
     <title lang="id">Pytanie dnia (656)</title>
   </programme>
-  <programme start="20260417231500 +0000" stop="20260417235700 +0000" channel="TVP Info.webtv.sk">
+  <programme start="20260417231300 +0000" stop="20260417235600 +0000" channel="TVP Info.webtv.sk">
     <title lang="id">Kłamstwo nie przejdzie (6)</title>
   </programme>
-  <programme start="20260417235700 +0000" stop="20260418000500 +0000" channel="TVP Info.webtv.sk">
+  <programme start="20260417235600 +0000" stop="20260418000500 +0000" channel="TVP Info.webtv.sk">
     <title lang="id">Pogoda Info</title>
   </programme>
   <programme start="20260418000500 +0000" stop="20260418003500 +0000" channel="TVP Info.webtv.sk">
@@ -16528,10 +16525,10 @@
   <programme start="20260418015200 +0000" stop="20260418021700 +0000" channel="TVP Info.webtv.sk">
     <title lang="id">Z bliska (9)</title>
   </programme>
-  <programme start="20260418021700 +0000" stop="20260418030800 +0000" channel="TVP Info.webtv.sk">
+  <programme start="20260418021700 +0000" stop="20260418030900 +0000" channel="TVP Info.webtv.sk">
     <title lang="id">Po drugiej stronie (5)</title>
   </programme>
-  <programme start="20260418030800 +0000" stop="20260418035800 +0000" channel="TVP Info.webtv.sk">
+  <programme start="20260418030900 +0000" stop="20260418035800 +0000" channel="TVP Info.webtv.sk">
     <title lang="id">Kwiatki polskie (404)</title>
   </programme>
   <programme start="20260418035800 +0000" stop="20260418040000 +0000" channel="TVP Info.webtv.sk">
@@ -16760,7 +16757,7 @@
     <title lang="id">Kulturalni (13)</title>
   </programme>
   <programme start="20260418051500 +0000" stop="20260418053000 +0000" channel="TVP Polonia.webtv.sk">
-    <title lang="id">Turystyczna Jazda</title>
+    <title lang="id">Turystyczna Jazda (164)</title>
   </programme>
   <programme start="20260418053000 +0000" stop="20260418055500 +0000" channel="TVP Polonia.webtv.sk">
     <title lang="id">Pytanie na sniadanie (7527)</title>

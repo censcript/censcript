@@ -962,7 +962,7 @@
     <title>ALL IN - Die Bundesliga Highlight Show: 29. Spieltag</title>
 </programme>
 <programme start="20260416074500 +0000" stop="20260416094500 +0000" channel="DAZN 1 HD.skyde">
-    <title>Fußball 25/26: TBC - TBC</title>
+    <title>Bundesliga 25/26: FC St. Pauli - FC Bayern München</title>
 </programme>
 <programme start="20260416094500 +0000" stop="20260416114000 +0000" channel="DAZN 1 HD.skyde">
     <title>Bundesliga 25/26: 1. FC Köln - SV Werder Bremen</title>
@@ -973,16 +973,16 @@
 <programme start="20260416121000 +0000" stop="20260416124000 +0000" channel="DAZN 1 HD.skyde">
     <title>Das Herz des deutschen Fußballs: Episode 1</title>
 </programme>
-<programme start="20260416124000 +0000" stop="20260416143500 +0000" channel="DAZN 1 HD.skyde">
+<programme start="20260416124000 +0000" stop="20260416144500 +0000" channel="DAZN 1 HD.skyde">
     <title>Bundesliga 25/26: FC Augsburg - TSG 1899 Hoffenheim</title>
 </programme>
-<programme start="20260416143500 +0000" stop="20260416150000 +0000" channel="DAZN 1 HD.skyde">
+<programme start="20260416144500 +0000" stop="20260416152000 +0000" channel="DAZN 1 HD.skyde">
     <title>Best of DAZN: Highlights</title>
 </programme>
-<programme start="20260416150000 +0000" stop="20260416170000 +0000" channel="DAZN 1 HD.skyde">
+<programme start="20260416152000 +0000" stop="20260416172000 +0000" channel="DAZN 1 HD.skyde">
     <title>Bundesliga 25/26: FC St. Pauli - FC Bayern München</title>
 </programme>
-<programme start="20260416170000 +0000" stop="20260416174000 +0000" channel="DAZN 1 HD.skyde">
+<programme start="20260416172000 +0000" stop="20260416174000 +0000" channel="DAZN 1 HD.skyde">
     <title>Best of DAZN: Highlights</title>
 </programme>
 <programme start="20260416174000 +0000" stop="20260416181500 +0000" channel="DAZN 1 HD.skyde">
@@ -1009,29 +1009,35 @@
 <programme start="20260416095500 +0000" stop="20260416102500 +0000" channel="DAZN 2 HD.skyde">
     <title>Best of DAZN: Highlights</title>
 </programme>
-<programme start="20260416102500 +0000" stop="20260416123000 +0000" channel="DAZN 2 HD.skyde">
-    <title>Fußball 25/26: TBC - TBC</title>
-</programme>
-<programme start="20260416123000 +0000" stop="20260416130500 +0000" channel="DAZN 2 HD.skyde">
+<programme start="20260416102500 +0000" stop="20260416110000 +0000" channel="DAZN 2 HD.skyde">
     <title>Doppelpack Europa - Highlights der Serie A und Ligue 1 25/26: 32./29. Spieltag</title>
 </programme>
-<programme start="20260416130500 +0000" stop="20260416140500 +0000" channel="DAZN 2 HD.skyde">
+<programme start="20260416110000 +0000" stop="20260416115500 +0000" channel="DAZN 2 HD.skyde">
     <title>Darts Features: Darts-WM 2026 I Gabriel Clemens - Luke Humphries (3. Runde)</title>
 </programme>
-<programme start="20260416140500 +0000" stop="20260416152100 +0000" channel="DAZN 2 HD.skyde">
-    <title>Darts Features: Martin Schindler - Austrian Darts Open 2025</title>
-</programme>
-<programme start="20260416152100 +0000" stop="20260416160500 +0000" channel="DAZN 2 HD.skyde">
-    <title>3. Liga Highlightshow 25/26: 33. Spieltag</title>
-</programme>
-<programme start="20260416160500 +0000" stop="20260416174500 +0000" channel="DAZN 2 HD.skyde">
-    <title>Hungarian Darts Trophy: Niko Springer - VF, HF &amp; Finale 2025</title>
-</programme>
-<programme start="20260416174500 +0000" stop="20260416180000 +0000" channel="DAZN 2 HD.skyde">
+<programme start="20260416115500 +0000" stop="20260416121500 +0000" channel="DAZN 2 HD.skyde">
     <title>Best of DAZN: Highlights</title>
 </programme>
-<programme start="20260416180000 +0000" stop="20260416213000 +0000" channel="DAZN 2 HD.skyde">
+<programme start="20260416121500 +0000" stop="20260416133000 +0000" channel="DAZN 2 HD.skyde">
+    <title>Darts Features: Martin Schindler - Austrian Darts Open 2025</title>
+</programme>
+<programme start="20260416133000 +0000" stop="20260416142000 +0000" channel="DAZN 2 HD.skyde">
+    <title>3. Liga Highlightshow 25/26: 33. Spieltag</title>
+</programme>
+<programme start="20260416142000 +0000" stop="20260416145000 +0000" channel="DAZN 2 HD.skyde">
+    <title>Best of DAZN: Highlights</title>
+</programme>
+<programme start="20260416145000 +0000" stop="20260416163000 +0000" channel="DAZN 2 HD.skyde">
+    <title>Hungarian Darts Trophy: Niko Springer - VF, HF &amp; Finale 2025</title>
+</programme>
+<programme start="20260416163000 +0000" stop="20260416170000 +0000" channel="DAZN 2 HD.skyde">
+    <title>Best of DAZN: Highlights</title>
+</programme>
+<programme start="20260416170000 +0000" stop="20260416203500 +0000" channel="DAZN 2 HD.skyde">
     <title>Premier League Darts: 11. Spieltag - Rotterdam</title>
+</programme>
+<programme start="20260416203500 +0000" stop="20260416213000 +0000" channel="DAZN 2 HD.skyde">
+    <title>3. Liga Highlightshow 25/26: 33. Spieltag</title>
 </programme>
 <programme start="20260416213000 +0000" stop="20260416220000 +0000" channel="DAZN 2 HD.skyde">
     <title>Best of DAZN: Highlights</title>
@@ -2596,7 +2602,7 @@
 <programme start="20260416084000 +0000" stop="20260416090000 +0000" channel="Sky Sport Austria 2 HD.skyde">
     <title>Es folgt: Live ATP Tour</title>
 </programme>
-<programme start="20260416090000 +0000" stop="20260416170000 +0000" channel="Sky Sport Austria 2 HD.skyde">
+<programme start="20260416090000 +0000" stop="20260416174500 +0000" channel="Sky Sport Austria 2 HD.skyde">
     <title>Live ATP 500: BMW Open in München, 4. Tag</title>
 </programme>
 <programme start="20260416175500 +0000" stop="20260416181500 +0000" channel="Sky Sport Austria 2 HD.skyde">
@@ -2605,28 +2611,28 @@
 <programme start="20260416181500 +0000" stop="20260416185000 +0000" channel="Sky Sport Austria 2 HD.skyde">
     <title>Live Der UEFA Super Donnerstag: Vorbericht</title>
 </programme>
-<programme start="20260416185000 +0000" stop="20260416210000 +0000" channel="Sky Sport Austria 2 HD.skyde">
+<programme start="20260416185000 +0000" stop="20260416220000 +0000" channel="Sky Sport Austria 2 HD.skyde">
     <title>Live UEFA EL: Nottingham Forest - FC Porto, Viertelfinale Rückspiel</title>
 </programme>
 <programme start="20260416091000 +0000" stop="20260416093000 +0000" channel="Sky Sport Austria 3 HD.skyde">
     <title>Es folgt: LIVE WTA Tour</title>
 </programme>
-<programme start="20260416093000 +0000" stop="20260416180500 +0000" channel="Sky Sport Austria 3 HD.skyde">
+<programme start="20260416093000 +0000" stop="20260416180000 +0000" channel="Sky Sport Austria 3 HD.skyde">
     <title>Live WTA 250: Open Capfinances Rouen Metropole in Rouen (FRA), 4. Tag</title>
 </programme>
-<programme start="20260416181500 +0000" stop="20260416185000 +0000" channel="Sky Sport Austria 3 HD.skyde">
+<programme start="20260416181000 +0000" stop="20260416185000 +0000" channel="Sky Sport Austria 3 HD.skyde">
     <title>Live Der UEFA Super Donnerstag: Vorbericht</title>
 </programme>
-<programme start="20260416185000 +0000" stop="20260416210000 +0000" channel="Sky Sport Austria 3 HD.skyde">
+<programme start="20260416185000 +0000" stop="20260416220000 +0000" channel="Sky Sport Austria 3 HD.skyde">
     <title>Live UEFA EL: Aston Villa - FC Bologna, Viertelfinale Rückspiel</title>
 </programme>
 <programme start="20260416175500 +0000" stop="20260416181500 +0000" channel="Sky Sport Austria 4 HD.skyde">
-    <title>Es folgt: UEFA Europa League</title>
+    <title>Es folgt: LIVE UEFA Europa League</title>
 </programme>
 <programme start="20260416181500 +0000" stop="20260416185000 +0000" channel="Sky Sport Austria 4 HD.skyde">
     <title>Live Der UEFA Super Donnerstag: Vorbericht</title>
 </programme>
-<programme start="20260416185000 +0000" stop="20260416210000 +0000" channel="Sky Sport Austria 4 HD.skyde">
+<programme start="20260416185000 +0000" stop="20260416220000 +0000" channel="Sky Sport Austria 4 HD.skyde">
     <title>Live UEFA ECL: AC Florenz - Crystal Palace, Viertelfinale Rückspiel</title>
 </programme>
 <programme start="20260416175500 +0000" stop="20260416181500 +0000" channel="Sky Sport Austria 5 HD.skyde">
@@ -2635,7 +2641,7 @@
 <programme start="20260416181500 +0000" stop="20260416185000 +0000" channel="Sky Sport Austria 5 HD.skyde">
     <title>Live Der UEFA Super Donnerstag: Vorbericht</title>
 </programme>
-<programme start="20260416185000 +0000" stop="20260416210000 +0000" channel="Sky Sport Austria 5 HD.skyde">
+<programme start="20260416185000 +0000" stop="20260416220000 +0000" channel="Sky Sport Austria 5 HD.skyde">
     <title>Live UEFA ECL: RC Straßburg - 1. FSV Mainz 05, Viertelfinale Rückspiel</title>
 </programme>
 <programme start="20260416175500 +0000" stop="20260416181500 +0000" channel="Sky Sport Austria 6 HD.skyde">
@@ -2644,7 +2650,7 @@
 <programme start="20260416181500 +0000" stop="20260416185000 +0000" channel="Sky Sport Austria 6 HD.skyde">
     <title>Live Der UEFA Super Donnerstag: Vorbericht</title>
 </programme>
-<programme start="20260416185000 +0000" stop="20260416210000 +0000" channel="Sky Sport Austria 6 HD.skyde">
+<programme start="20260416185000 +0000" stop="20260416220000 +0000" channel="Sky Sport Austria 6 HD.skyde">
     <title>Live UEFA ECL: AEK Athen - Rayo Vallecano, Viertelfinale Rückspiel</title>
 </programme>
 <programme start="20260416161000 +0000" stop="20260416163000 +0000" channel="Sky Sport Austria 7 HD.skyde">
@@ -3136,8 +3142,11 @@
 <programme start="20260416050000 +0000" stop="20260416070000 +0000" channel="Sky Sport Tennis HD.skyde">
     <title>WTA 500: L. Siegemund (GER) - I. Swiatek (POL)l, Porsche Tennis Grand Prix in Stuttgart, 3. Tag</title>
 </programme>
-<programme start="20260416070000 +0000" stop="20260416090000 +0000" channel="Sky Sport Tennis HD.skyde">
+<programme start="20260416070000 +0000" stop="20260416083000 +0000" channel="Sky Sport Tennis HD.skyde">
     <title>ATP 500: J. Fonseca (BRA) - A. Rinderknech (FRA), BMW Open in München, 3. Tag</title>
+</programme>
+<programme start="20260416083000 +0000" stop="20260416090000 +0000" channel="Sky Sport Tennis HD.skyde">
+    <title>ATP: This Week</title>
 </programme>
 <programme start="20260416090000 +0000" stop="20260416170000 +0000" channel="Sky Sport Tennis HD.skyde">
     <title>Live ATP 500: BMW Open in München, 4. Tag</title>
@@ -3250,7 +3259,7 @@
 <programme start="20260416183000 +0000" stop="20260416185000 +0000" channel="Sky Sport 2 HD.skyde">
     <title>Es folgt LIVE UEFA Europa League</title>
 </programme>
-<programme start="20260416185000 +0000" stop="20260416210500 +0000" channel="Sky Sport 2 HD.skyde">
+<programme start="20260416185000 +0000" stop="20260416220000 +0000" channel="Sky Sport 2 HD.skyde">
     <title>Live UEFA ECL: AEK Athen - Rayo Vallecano, Viertelfinale Rückspiel</title>
 </programme>
 <programme start="20260415221500 +0000" stop="20260415230000 +0000" channel="SYFY HD.skyde">
