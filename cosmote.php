@@ -1,7 +1,3 @@
-<programme start="20260416220000 +0700" stop="20260416223000 +0700" channel="COSMOTE Sport 1 HD">
-    <title>UEFA Champions League Highlights 2025-26</title>
-    <desc>Live: Tidak</desc>
-</programme>
 <programme start="20260416223000 +0700" stop="20260416234500 +0700" channel="COSMOTE Sport 1 HD">
     <title>2025-26 European Football Show (L)</title>
     <desc>Live: Ya</desc>
@@ -58,9 +54,9 @@
     <title>Football: AEK - Rayo Vallecano de Madrid</title>
     <desc>Live: Tidak</desc>
 </programme>
-<programme start="20260416205000 +0700" stop="20260416225000 +0700" channel="COSMOTE Sport 2 HD">
-    <title>Football: AS Roma - Pisa</title>
-    <desc>Live: Tidak</desc>
+<programme start="20260417233000 +0700" stop="20260418013000 +0700" channel="COSMOTE Sport 1 HD">
+    <title>Football: Sassuolo - Como (L)</title>
+    <desc>Live: Ya</desc>
 </programme>
 <programme start="20260416225000 +0700" stop="20260417010000 +0700" channel="COSMOTE Sport 2 HD">
     <title>Football: Olympiacos - AEK</title>
@@ -118,12 +114,12 @@
     <title>Football: AC Milan - Udinese</title>
     <desc>Live: Tidak</desc>
 </programme>
-<programme start="20260416220000 +0700" stop="20260416222000 +0700" channel="COSMOTE Sport 3 HD">
-    <title>William Hill Scottish Premiership - Highlights</title>
+<programme start="20260417230000 +0700" stop="20260417233000 +0700" channel="COSMOTE Sport 2 HD">
+    <title>Serie A Inside Serie A 2025-26 E33</title>
     <desc>Live: Tidak</desc>
 </programme>
-<programme start="20260416222000 +0700" stop="20260416225000 +0700" channel="COSMOTE Sport 3 HD">
-    <title>Emirates FA Cup 2025-26 - Highlights</title>
+<programme start="20260417233000 +0700" stop="20260418014500 +0700" channel="COSMOTE Sport 2 HD">
+    <title>Football: Volos NPS - OFI</title>
     <desc>Live: Tidak</desc>
 </programme>
 <programme start="20260416225000 +0700" stop="20260417005000 +0700" channel="COSMOTE Sport 3 HD">
@@ -190,9 +186,9 @@
     <title>Football: Famalicao - Moreirense</title>
     <desc>Live: Tidak</desc>
 </programme>
-<programme start="20260416201500 +0700" stop="20260416223000 +0700" channel="COSMOTE Sport 4 HD">
-    <title>Basketball: Tenerife - Galatasaray</title>
-    <desc>Live: Tidak</desc>
+<programme start="20260417234500 +0700" stop="20260418014500 +0700" channel="COSMOTE Sport 3 HD">
+    <title>Football: Real Madrid CF - Paris Saint Germain (L)</title>
+    <desc>Live: Ya</desc>
 </programme>
 <programme start="20260416223000 +0700" stop="20260416230500 +0700" channel="COSMOTE Sport 4 HD">
     <title>NBA Action 2025-26 E3525</title>
@@ -256,10 +252,6 @@
 </programme>
 <programme start="20260417224000 +0700" stop="20260418002500 +0700" channel="COSMOTE Sport 4 HD">
     <title>Pick n&#039; Roll</title>
-    <desc>Live: Tidak</desc>
-</programme>
-<programme start="20260416213000 +0700" stop="20260416223000 +0700" channel="COSMOTE Sport 5 HD">
-    <title>Highlights: 2025 Extreme H</title>
     <desc>Live: Tidak</desc>
 </programme>
 <programme start="20260416223000 +0700" stop="20260416234500 +0700" channel="COSMOTE Sport 5 HD">
@@ -356,6 +348,10 @@
 </programme>
 <programme start="20260417214500 +0700" stop="20260417230500 +0700" channel="COSMOTE Sport 5 HD">
     <title>Motorsports: Moto3 2026</title>
+    <desc>Live: Tidak</desc>
+</programme>
+<programme start="20260417230500 +0700" stop="20260418004000 +0700" channel="COSMOTE Sport 5 HD">
+    <title>Motorsports: Moto2 2026</title>
     <desc>Live: Tidak</desc>
 </programme>
 <programme start="20260416220000 +0700" stop="20260417003000 +0700" channel="COSMOTE Sport 6 HD">

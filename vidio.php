@@ -1327,11 +1327,11 @@
     <title lang="id">Arisan</title>
     <icon src="https://thumbor.prod.vidiocdn.com/VyDWgGuvUtZp5M006MXkTEIEpxw=/287x162/filters:strip_icc():quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/image/734/trans7-9dade4.jpg"/>
   </programme>
-  <programme channel="734" start="20260416143000 +0000" stop="20260416154500 +0000">
+  <programme channel="734" start="20260416143000 +0000" stop="20260416154300 +0000">
     <title lang="id">Lapor Pak!</title>
     <icon src="https://thumbor.prod.vidiocdn.com/VyDWgGuvUtZp5M006MXkTEIEpxw=/287x162/filters:strip_icc():quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/image/734/trans7-9dade4.jpg"/>
   </programme>
-  <programme channel="734" start="20260416154500 +0000" stop="20260416163000 +0000">
+  <programme channel="734" start="20260416154300 +0000" stop="20260416163000 +0000">
     <title lang="id">The Police</title>
     <icon src="https://thumbor.prod.vidiocdn.com/HZz-rwFWruDhzHFfuCgQLdnqkmI=/287x162/filters:strip_icc():quality(70)/vidio-web-prod-film/uploads/film/image_landscape/5734/the-police-3840e2.png"/>
   </programme>
@@ -1651,15 +1651,15 @@
     <desc lang="id">Proliga 2026 First Serve 19:00</desc>
     <icon src="https://thumbor.prod.vidiocdn.com/NdmzqkxqnWVnlngtk_ObYNT-wiY=/287x162/filters:strip_icc():quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/image/206/moji-a5bd3e.jpg"/>
   </programme>
-  <programme channel="206" start="20260416142400 +0000" stop="20260416165000 +0000">
+  <programme channel="206" start="20260416142400 +0000" stop="20260416162600 +0000">
     <title lang="id">AS Roma vs Lille OSC Metropole : UEFA Europa League 2025/26</title>
     <icon src="https://thumbor.prod.vidiocdn.com/NdmzqkxqnWVnlngtk_ObYNT-wiY=/287x162/filters:strip_icc():quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/image/206/moji-a5bd3e.jpg"/>
   </programme>
-  <programme channel="206" start="20260416165000 +0000" stop="20260416173000 +0000">
+  <programme channel="206" start="20260416162600 +0000" stop="20260416173000 +0000">
     <title lang="id">HARTA TAHTA CINTA</title>
     <icon src="https://thumbor.prod.vidiocdn.com/NdmzqkxqnWVnlngtk_ObYNT-wiY=/287x162/filters:strip_icc():quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/image/206/moji-a5bd3e.jpg"/>
   </programme>
-  <programme channel="206" start="20260416165000 +0000" stop="20260416173000 +0000">
+  <programme channel="206" start="20260416162600 +0000" stop="20260416173000 +0000">
     <title lang="id">HARTA TAHTA CINTA</title>
     <icon src="https://thumbor.prod.vidiocdn.com/NdmzqkxqnWVnlngtk_ObYNT-wiY=/287x162/filters:strip_icc():quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/image/206/moji-a5bd3e.jpg"/>
   </programme>
@@ -5750,12 +5750,12 @@
     <desc lang="id">Matchday 31</desc>
     <icon src="https://thumbor.prod.vidiocdn.com/5yUHYfv_b1sZi7kdFElm8JqF2RY=/287x162/filters:strip_icc():quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/image/6299/bein-1-4bd997.jpg"/>
   </programme>
-  <programme channel="6299" start="20260416164500 +0000" stop="20260416184500 +0000">
+  <programme channel="6299" start="20260416164000 +0000" stop="20260416185500 +0000">
     <title lang="id">Celta Vigo vs SC Freiburg - UEFA Europa League</title>
     <desc lang="id">Nonton streaming pertandingan seru Celta Vigo vs SC Freiburg - UEFA Europa League. Saksikan aksi-aksi terbaik dari tim yang bersaing ketat untuk meraih kemenangan. Dapatkan informasi lengkap mengenai jadwal pertandingan dan hasil pertandingan terbaru hanya di Vidio.</desc>
     <icon src="https://thumbor.prod.vidiocdn.com/5boLxn-uTSM7dpKuEj3K8oHytEo=/287x162/filters:strip_icc():quality(70)/vidio-media-production/uploads/livestreaming/schedule/thumbnail/5014321/ea70e1.jpg"/>
   </programme>
-  <programme channel="6299" start="20260416164500 +0000" stop="20260416184500 +0000">
+  <programme channel="6299" start="20260416164000 +0000" stop="20260416185500 +0000">
     <title lang="id">Celta Vigo vs SC Freiburg - UEFA Europa League</title>
     <desc lang="id">Nonton streaming pertandingan seru Celta Vigo vs SC Freiburg - UEFA Europa League. Saksikan aksi-aksi terbaik dari tim yang bersaing ketat untuk meraih kemenangan. Dapatkan informasi lengkap mengenai jadwal pertandingan dan hasil pertandingan terbaru hanya di Vidio.</desc>
     <icon src="https://thumbor.prod.vidiocdn.com/5boLxn-uTSM7dpKuEj3K8oHytEo=/287x162/filters:strip_icc():quality(70)/vidio-media-production/uploads/livestreaming/schedule/thumbnail/5014321/ea70e1.jpg"/>
@@ -6609,12 +6609,12 @@
     <desc lang="id">Lifeblood: History</desc>
     <icon src="https://thumbor.prod.vidiocdn.com/xiN-u5MIG7jgOVE2tB_TUIynz7k=/287x162/filters:strip_icc():quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/image/6317/bein-3-616b1c.jpg"/>
   </programme>
-  <programme channel="6317" start="20260416164500 +0000" stop="20260416184500 +0000">
+  <programme channel="6317" start="20260416164000 +0000" stop="20260416184500 +0000">
     <title lang="id">AZ Alkmaar vs Shakhtar Donetsk - UEFA Conference League</title>
     <desc lang="id">Nonton streaming pertandingan seru AZ Alkmaar vs Shakhtar Donetsk - UEFA Conference League. Saksikan aksi-aksi terbaik dari tim yang bersaing ketat untuk meraih kemenangan. Dapatkan informasi lengkap mengenai jadwal pertandingan dan hasil pertandingan terbaru hanya di Vidio.</desc>
     <icon src="https://thumbor.prod.vidiocdn.com/2hsbsCBJ1P6EhlSPjkHjcJSZuho=/287x162/filters:strip_icc():quality(70)/vidio-media-production/uploads/livestreaming/schedule/thumbnail/5014320/15cc4c.jpg"/>
   </programme>
-  <programme channel="6317" start="20260416164500 +0000" stop="20260416184500 +0000">
+  <programme channel="6317" start="20260416164000 +0000" stop="20260416184500 +0000">
     <title lang="id">AZ Alkmaar vs Shakhtar Donetsk - UEFA Conference League</title>
     <desc lang="id">Nonton streaming pertandingan seru AZ Alkmaar vs Shakhtar Donetsk - UEFA Conference League. Saksikan aksi-aksi terbaik dari tim yang bersaing ketat untuk meraih kemenangan. Dapatkan informasi lengkap mengenai jadwal pertandingan dan hasil pertandingan terbaru hanya di Vidio.</desc>
     <icon src="https://thumbor.prod.vidiocdn.com/2hsbsCBJ1P6EhlSPjkHjcJSZuho=/287x162/filters:strip_icc():quality(70)/vidio-media-production/uploads/livestreaming/schedule/thumbnail/5014320/15cc4c.jpg"/>
@@ -7759,21 +7759,26 @@
     <desc lang="id">Vasudha yang periang bergabung dengan rumah pemimpin bisnis Chandrika sebagai pembantu dan mendambakan persetujuannya meskipun ada perbedaan ideologis di antara mereka.</desc>
     <icon src="https://thumbor.prod.vidiocdn.com/KgKtJ4nFpKa420a3a2E6rN-kEZA=/287x162/filters:strip_icc():quality(70)/vidio-media-production/uploads/livestreaming/schedule/thumbnail/5014856/c70f56.jpg"/>
   </programme>
-  <programme channel="782" start="20260416111000 +0000" stop="20260416130000 +0000">
+  <programme channel="782" start="20260416105800 +0000" stop="20260416125500 +0000">
     <title lang="id">Sinema Laga Klasik: Pendekar Mata Satu</title>
     <desc lang="id">Dendam seorang anak yang berusaha mencari pembunuh ayahnya setelah diselamatkan dan dilatih silat oleh seorang guru.</desc>
     <icon src="https://thumbor.prod.vidiocdn.com/20tRQaK9Gps_wFQL5rY-XgRbrs4=/287x162/filters:strip_icc():quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/image/782/antv-de8530.jpg"/>
   </programme>
-  <programme channel="782" start="20260416130000 +0000" stop="20260416143000 +0000">
+  <programme channel="782" start="20260416125500 +0000" stop="20260416143000 +0000">
     <title lang="id">Sinema Laga Klasik : Pulau Cinta</title>
     <desc lang="id">Maria dan anaknya yang hidup dalam cengkeraman Karto di pulau terpencil, setelah suami Maria dibunuh. Sebuah kapal terdampar di pulau tersebut, sang kapten mengungkap rahasia kejahatan Karto.</desc>
     <icon src="https://thumbor.prod.vidiocdn.com/20tRQaK9Gps_wFQL5rY-XgRbrs4=/287x162/filters:strip_icc():quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/image/782/antv-de8530.jpg"/>
   </programme>
-  <programme channel="782" start="20260416143000 +0000" stop="20260416163000 +0000">
+  <programme channel="782" start="20260416143000 +0000" stop="20260416164500 +0000">
     <title lang="id">Sinema Spesial : Qorin</title>
     <icon src="https://thumbor.prod.vidiocdn.com/20tRQaK9Gps_wFQL5rY-XgRbrs4=/287x162/filters:strip_icc():quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/image/782/antv-de8530.jpg"/>
   </programme>
-  <programme channel="782" start="20260416170000 +0000" stop="20260416180000 +0000">
+  <programme channel="782" start="20260416164500 +0000" stop="20260416180000 +0000">
+    <title lang="id">Bioskop Asia: Golden Spider City</title>
+    <desc lang="id">Penjelajah Sima Cong diperas, oleh seorang pengusaha kaya Thailand, untuk bertualang 10.000 meter di bawah Pegunungan Savage untuk mengetahui lokasi Kota Laba-laba Emas yang terkenal. Namun kota legendaris ini bukannya tidak berpenghuni.</desc>
+    <icon src="https://thumbor.prod.vidiocdn.com/20tRQaK9Gps_wFQL5rY-XgRbrs4=/287x162/filters:strip_icc():quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/image/782/antv-de8530.jpg"/>
+  </programme>
+  <programme channel="782" start="20260416164500 +0000" stop="20260416180000 +0000">
     <title lang="id">Bioskop Asia: Golden Spider City</title>
     <desc lang="id">Penjelajah Sima Cong diperas, oleh seorang pengusaha kaya Thailand, untuk bertualang 10.000 meter di bawah Pegunungan Savage untuk mengetahui lokasi Kota Laba-laba Emas yang terkenal. Namun kota legendaris ini bukannya tidak berpenghuni.</desc>
     <icon src="https://thumbor.prod.vidiocdn.com/20tRQaK9Gps_wFQL5rY-XgRbrs4=/287x162/filters:strip_icc():quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/image/782/antv-de8530.jpg"/>
@@ -7784,7 +7789,7 @@
     <icon src="https://thumbor.prod.vidiocdn.com/20tRQaK9Gps_wFQL5rY-XgRbrs4=/287x162/filters:strip_icc():quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/image/782/antv-de8530.jpg"/>
   </programme>
   <programme channel="782" start="20260416193000 +0000" stop="20260416220000 +0000">
-    <title lang="id">Mega Bollywood: Jugjugg Jeeyo</title>
+    <title lang="id">Mega Bollywood: Jug Jugg Jeeyo</title>
     <desc lang="id">Setelah 5 tahun menikah, Kuku dan Naina harus memberi tahu pihak keluarga tentang rencana perceraian mereka. Namun, Bheem dan Geeta, orangtua Kuku, tidak setuju dan berusaha menyelamatkan keduanya.</desc>
     <icon src="https://thumbor.prod.vidiocdn.com/zQnmK2VlV1qtL-PhadzliWYfswc=/287x162/filters:strip_icc():quality(70)/vidio-media-production/uploads/livestreaming/schedule/thumbnail/5015859/72f42d.jpg"/>
   </programme>
@@ -14186,24 +14191,17 @@
     <desc lang="id">MAGAZINE INSIDE ROUND 31</desc>
     <icon src="https://thumbor.prod.vidiocdn.com/xgkik6iws0EJ01bi5cJsIjYWjOM=/287x162/filters:strip_icc():quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/image/6686/champions-tv-2-681a27.jpg"/>
   </programme>
-  <programme channel="6686" start="20260416093000 +0000" stop="20260416153000 +0000">
+  <programme channel="6686" start="20260416093000 +0000" stop="20260416163600 +0000">
     <title lang="id">Round of 16 - WTA 250: Open Capfinances Rouen Metropole 2026</title>
     <desc lang="id">Nonton streaming pertandingan seru Round of 16 - WTA 250: Open Capfinances Rouen Metropole 2026. Saksikan aksi-aksi terbaik dari tim yang bersaing ketat untuk meraih kemenangan. Dapatkan informasi lengkap mengenai jadwal pertandingan dan hasil pertandingan terbaru hanya di Vidio.</desc>
     <icon src="https://thumbor.prod.vidiocdn.com/NpXgtycWcCChi3gZc7s0h8rUNrw=/287x162/filters:strip_icc():quality(70)/vidio-media-production/uploads/livestreaming/schedule/thumbnail/5014336/30e2b7.jpg"/>
   </programme>
-  <programme channel="6686" start="20260416153000 +0000" stop="20260416160000 +0000">
-    <title lang="id">HIGHLIGHT - Final Leg : CARABAO CUP 2025/26</title>
-    <desc lang="id">HIGHLIGHT Final Leg</desc>
+  <programme channel="6686" start="20260416163600 +0000" stop="20260416170000 +0000">
+    <title lang="id">Highlight - Final Leg : Carabao Cup 2025/26</title>
     <icon src="https://thumbor.prod.vidiocdn.com/xgkik6iws0EJ01bi5cJsIjYWjOM=/287x162/filters:strip_icc():quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/image/6686/champions-tv-2-681a27.jpg"/>
   </programme>
-  <programme channel="6686" start="20260416160000 +0000" stop="20260416170000 +0000">
-    <title lang="id">HIGHLIGHT : DUTCH LEAGUE EREDIVISIE 2025/26</title>
-    <desc lang="id">HIGHLIGHT</desc>
-    <icon src="https://thumbor.prod.vidiocdn.com/xgkik6iws0EJ01bi5cJsIjYWjOM=/287x162/filters:strip_icc():quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/image/6686/champions-tv-2-681a27.jpg"/>
-  </programme>
-  <programme channel="6686" start="20260416160000 +0000" stop="20260416170000 +0000">
-    <title lang="id">HIGHLIGHT : DUTCH LEAGUE EREDIVISIE 2025/26</title>
-    <desc lang="id">HIGHLIGHT</desc>
+  <programme channel="6686" start="20260416163600 +0000" stop="20260416170000 +0000">
+    <title lang="id">Highlight - Final Leg : Carabao Cup 2025/26</title>
     <icon src="https://thumbor.prod.vidiocdn.com/xgkik6iws0EJ01bi5cJsIjYWjOM=/287x162/filters:strip_icc():quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/image/6686/champions-tv-2-681a27.jpg"/>
   </programme>
   <programme channel="6686" start="20260416170000 +0000" stop="20260416190000 +0000">

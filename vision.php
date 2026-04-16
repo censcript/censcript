@@ -625,9 +625,6 @@
 <programme start="20260416090000 +0000" stop="20260416110000 +0000" channel="ANTV.vision">
 <title>Vasudha</title>
 </programme>
-<programme start="20260416143000 +0000" stop="20260416163000 +0000" channel="ANTV.vision">
-<title>Qorin</title>
-</programme>
 <programme start="20260416163000 +0000" stop="20260416183000 +0000" channel="ANTV.vision">
 <title>Golden Spider City</title>
 </programme>
@@ -1496,5 +1493,8 @@
 <title>DAAI TV</title>
 </programme>
 <programme start="20260416210000 +0000" stop="20260417000000 +0000" channel="DAAI TV.vision">
+<title>DAAI TV</title>
+</programme>
+<programme start="20260417000000 +0000" stop="20260417030000 +0000" channel="DAAI TV.vision">
 <title>DAAI TV</title>
 </programme>
