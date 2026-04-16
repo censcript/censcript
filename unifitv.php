@@ -14,7 +14,7 @@
   </programme>
   <programme start="20260415160000 +0000" stop="20260415163000 +0000" channel="inspirasi.unifitv">
     <title lang="en">BAKAR</title>
-    <desc lang="en">BAKAR</desc>
+    <desc lang="en">Dihoskan oleh Chef Kim Rashid, beliau akan mengajar tiga menu baru setiap episod yang menggunakan ketuhar. Untuk episod kali ini, beliau akan menunjukkan cara menyediakan Pepes Ayam, Kek Cawan Lobak Merah &amp; Tarlet Pandan bersama Keju.</desc>
     <category lang="en">News</category>
     <episode-num system="xmltv_ns">19.1.</episode-num>
     <episode-num system="onscreen">S20E2</episode-num>
@@ -159,7 +159,7 @@
   </programme>
   <programme start="20260416060000 +0000" stop="20260416063000 +0000" channel="inspirasi.unifitv">
     <title lang="en">BAKAR</title>
-    <desc lang="en">BAKAR</desc>
+    <desc lang="en">Dihoskan oleh Chef Kim Rashid, beliau akan mengajar tiga menu baru setiap episod yang menggunakan ketuhar. Untuk episod kali ini, beliau akan menunjukkan cara menyediakan Pepes Ayam, Kek Cawan Lobak Merah &amp; Tarlet Pandan bersama Keju.</desc>
     <category lang="en">News</category>
     <episode-num system="xmltv_ns">19.1.</episode-num>
     <episode-num system="onscreen">S20E2</episode-num>
@@ -208,7 +208,7 @@
   </programme>
   <programme start="20260416110000 +0000" stop="20260416113000 +0000" channel="inspirasi.unifitv">
     <title lang="en">BAKAR</title>
-    <desc lang="en">BAKAR</desc>
+    <desc lang="en">Dihoskan oleh Chef Kim Rashid, beliau akan mengajar tiga menu baru setiap episod yang menggunakan ketuhar. Untuk episod kali ini, beliau akan menunjukkan cara menyediakan Pepes Ayam, Kek Cawan Lobak Merah &amp; Tarlet Pandan bersama Keju.</desc>
     <category lang="en">News</category>
     <episode-num system="xmltv_ns">19.1.</episode-num>
     <episode-num system="onscreen">S20E2</episode-num>
@@ -2695,11 +2695,9 @@
     <category lang="en">Culture</category>
   </programme>
   <programme start="20260416053000 +0000" stop="20260416060000 +0000" channel="tvs.unifitv">
-    <title lang="en">Kubah Borneo</title>
-    <desc lang="en">“Kubah Borneo” will bring viewers a closer look of mosques located at several districts in Borneo Island. The host will visit a mosque at a different location to learn and share the history of the mosque.</desc>
-    <category lang="en">Documentary</category>
-    <episode-num system="xmltv_ns">0.6.</episode-num>
-    <episode-num system="onscreen">S1E7</episode-num>
+    <title lang="en">(L) Terkini TVS: Pengumuman Khas</title>
+    <desc lang="en">Siaran langsung Terkini TVS: Pengumuman Khas oleh YAB Premier Sarawak, Datuk Patinggi Tan Sri Abang Johari Tun Openg, Bantuan Untuk Rakyat Sarawak 2026.</desc>
+    <category lang="en">News</category>
   </programme>
   <programme start="20260416060000 +0000" stop="20260416060500 +0000" channel="tvs.unifitv">
     <title lang="en">(DL) TVS Ringkas</title>
@@ -14210,7 +14208,7 @@
   </programme>
   <programme start="20260415163300 +0000" stop="20260415170300 +0000" channel="dw.unifitv">
     <title lang="en">Made in Germany</title>
-    <desc lang="en">Made in Germany</desc>
+    <desc lang="en">Munich is emerging as a hub for drone innovation: Bundeswehr University start-ups are building drones that conquer the skies and can also see underground.</desc>
     <category lang="en">Magazine</category>
     <episode-num system="xmltv_ns">0.0.</episode-num>
     <episode-num system="onscreen">S1E1</episode-num>
@@ -14223,15 +14221,15 @@
     <episode-num system="onscreen">S1E1</episode-num>
   </programme>
   <programme start="20260415171800 +0000" stop="20260415173300 +0000" channel="dw.unifitv">
-    <title lang="en">Best of DW-online Content</title>
-    <desc lang="en">Best of DW-online Content</desc>
+    <title lang="en">Mapped Out</title>
+    <desc lang="en">Nationwide blackouts, fuel shortages and food running out: Cuba is in crisis. The US has cut off oil to the Caribbean nation, including from Venezuela and Mexico, previously Cuba's two main oil suppliers.</desc>
     <category lang="en">Documentary</category>
     <episode-num system="xmltv_ns">0.0.</episode-num>
     <episode-num system="onscreen">S1E1</episode-num>
   </programme>
   <programme start="20260415173300 +0000" stop="20260415180300 +0000" channel="dw.unifitv">
     <title lang="en">Close up</title>
-    <desc lang="en">The weekly half-hour program delivers in-depth reporting on topical political issues and newsworthy events. Revealing the story behind the stories, "Close up" is informative, gripping and visually powerful.</desc>
+    <desc lang="en">In the Alps, villages are increasingly threatened by flows of mud and debris. The problem reached new heights in 2025, when the Swiss mountain village of Blatten was nearly completely buried by a huge avalanche.</desc>
     <category lang="en">Documentary</category>
     <episode-num system="xmltv_ns">0.0.</episode-num>
     <episode-num system="onscreen">S1E1</episode-num>
@@ -14265,15 +14263,15 @@
     <episode-num system="onscreen">S1E1</episode-num>
   </programme>
   <programme start="20260415191800 +0000" stop="20260415193300 +0000" channel="dw.unifitv">
-    <title lang="en">Best of DW-online Content</title>
-    <desc lang="en">Best of DW-online Content</desc>
+    <title lang="en">Mapped Out</title>
+    <desc lang="en">Nationwide blackouts, fuel shortages and food running out: Cuba is in crisis. The US has cut off oil to the Caribbean nation, including from Venezuela and Mexico, previously Cuba's two main oil suppliers.</desc>
     <category lang="en">Documentary</category>
     <episode-num system="xmltv_ns">0.0.</episode-num>
     <episode-num system="onscreen">S1E1</episode-num>
   </programme>
   <programme start="20260415193300 +0000" stop="20260415200300 +0000" channel="dw.unifitv">
     <title lang="en">The 77 Percent</title>
-    <desc lang="en">The 77 Percent</desc>
+    <desc lang="en">In this week's show, Edith Kimani meets with Afro-Americans who have relocated to Ghana and locals to explore the challenges and opportunities sparked by the 'Year of Return'.</desc>
     <category lang="en">Magazine</category>
     <episode-num system="xmltv_ns">0.0.</episode-num>
     <episode-num system="onscreen">S1E1</episode-num>
@@ -14292,14 +14290,14 @@
     <episode-num system="xmltv_ns">0.0.</episode-num>
     <episode-num system="onscreen">S1E1</episode-num>
   </programme>
-  <programme start="20260415210300 +0000" stop="20260415210600 +0000" channel="dw.unifitv">
+  <programme start="20260415210300 +0000" stop="20260415210500 +0000" channel="dw.unifitv">
     <title lang="en">DW News</title>
     <desc lang="en">DW News</desc>
     <category lang="en">News</category>
     <episode-num system="xmltv_ns">0.0.</episode-num>
     <episode-num system="onscreen">S1E1</episode-num>
   </programme>
-  <programme start="20260415210600 +0000" stop="20260415220300 +0000" channel="dw.unifitv">
+  <programme start="20260415210500 +0000" stop="20260415220300 +0000" channel="dw.unifitv">
     <title lang="en">DocFilm</title>
     <desc lang="en">All organisms harbor an invisible, omnipresent enemy: plastic. Researchers worldwide have shown that plastic particles can also be detected in humans - in organs and bodily fluids.</desc>
     <category lang="en">Documentary</category>
@@ -14322,7 +14320,7 @@
   </programme>
   <programme start="20260415223300 +0000" stop="20260415230300 +0000" channel="dw.unifitv">
     <title lang="en">Made in Germany</title>
-    <desc lang="en">Made in Germany</desc>
+    <desc lang="en">Munich is emerging as a hub for drone innovation: Bundeswehr University start-ups are building drones that conquer the skies and can also see underground.</desc>
     <category lang="en">Magazine</category>
     <episode-num system="xmltv_ns">0.0.</episode-num>
     <episode-num system="onscreen">S1E1</episode-num>
@@ -14342,15 +14340,15 @@
     <episode-num system="onscreen">S1E1</episode-num>
   </programme>
   <programme start="20260415231800 +0000" stop="20260415233300 +0000" channel="dw.unifitv">
-    <title lang="en">Best of DW-online Content</title>
-    <desc lang="en">Best of DW-online Content</desc>
+    <title lang="en">Mapped Out</title>
+    <desc lang="en">Nationwide blackouts, fuel shortages and food running out: Cuba is in crisis. The US has cut off oil to the Caribbean nation, including from Venezuela and Mexico, previously Cuba's two main oil suppliers.</desc>
     <category lang="en">Documentary</category>
     <episode-num system="xmltv_ns">0.0.</episode-num>
     <episode-num system="onscreen">S1E1</episode-num>
   </programme>
   <programme start="20260415233300 +0000" stop="20260416000300 +0000" channel="dw.unifitv">
     <title lang="en">Focus on Europe</title>
-    <desc lang="en">Focus on Europe</desc>
+    <desc lang="en">More and more women are speaking out about violence in relationships, and are demanding stricter laws, including for deep fakes. +++ Storms are wreaking ever more damage on Italy's coasts. There is often insufficient coastal protection.</desc>
     <category lang="en">Magazine</category>
     <episode-num system="xmltv_ns">0.1425.</episode-num>
     <episode-num system="onscreen">S1E1426</episode-num>
@@ -14413,7 +14411,7 @@
   </programme>
   <programme start="20260416023300 +0000" stop="20260416030300 +0000" channel="dw.unifitv">
     <title lang="en">Made in Germany</title>
-    <desc lang="en">Made in Germany</desc>
+    <desc lang="en">Munich is emerging as a hub for drone innovation: Bundeswehr University start-ups are building drones that conquer the skies and can also see underground.</desc>
     <category lang="en">Magazine</category>
     <episode-num system="xmltv_ns">0.0.</episode-num>
     <episode-num system="onscreen">S1E1</episode-num>
@@ -14433,8 +14431,8 @@
     <episode-num system="onscreen">S1E1</episode-num>
   </programme>
   <programme start="20260416031800 +0000" stop="20260416033300 +0000" channel="dw.unifitv">
-    <title lang="en">Best of DW-online Content</title>
-    <desc lang="en">Best of DW-online Content</desc>
+    <title lang="en">Mapped Out</title>
+    <desc lang="en">Nationwide blackouts, fuel shortages and food running out: Cuba is in crisis. The US has cut off oil to the Caribbean nation, including from Venezuela and Mexico, previously Cuba's two main oil suppliers.</desc>
     <category lang="en">Documentary</category>
     <episode-num system="xmltv_ns">0.0.</episode-num>
     <episode-num system="onscreen">S1E1</episode-num>
@@ -14483,7 +14481,7 @@
   </programme>
   <programme start="20260416053300 +0000" stop="20260416060300 +0000" channel="dw.unifitv">
     <title lang="en">Focus on Europe</title>
-    <desc lang="en">Focus on Europe</desc>
+    <desc lang="en">More and more women are speaking out about violence in relationships, and are demanding stricter laws, including for deep fakes. +++ Storms are wreaking ever more damage on Italy's coasts. There is often insufficient coastal protection.</desc>
     <category lang="en">Magazine</category>
     <episode-num system="xmltv_ns">0.0.</episode-num>
     <episode-num system="onscreen">S1E1</episode-num>
@@ -14503,8 +14501,8 @@
     <episode-num system="onscreen">S1E1</episode-num>
   </programme>
   <programme start="20260416061800 +0000" stop="20260416063300 +0000" channel="dw.unifitv">
-    <title lang="en">Best of DW-online Content</title>
-    <desc lang="en">Best of DW-online Content</desc>
+    <title lang="en">Mapped Out</title>
+    <desc lang="en">Nationwide blackouts, fuel shortages and food running out: Cuba is in crisis. The US has cut off oil to the Caribbean nation, including from Venezuela and Mexico, previously Cuba's two main oil suppliers.</desc>
     <category lang="en">Documentary</category>
     <episode-num system="xmltv_ns">0.0.</episode-num>
     <episode-num system="onscreen">S1E1</episode-num>
@@ -14516,14 +14514,14 @@
     <episode-num system="xmltv_ns">0.0.</episode-num>
     <episode-num system="onscreen">S1E1</episode-num>
   </programme>
-  <programme start="20260416070300 +0000" stop="20260416070600 +0000" channel="dw.unifitv">
+  <programme start="20260416070300 +0000" stop="20260416070500 +0000" channel="dw.unifitv">
     <title lang="en">DW News</title>
     <desc lang="en">DW News</desc>
     <category lang="en">News</category>
     <episode-num system="xmltv_ns">0.0.</episode-num>
     <episode-num system="onscreen">S1E1</episode-num>
   </programme>
-  <programme start="20260416070600 +0000" stop="20260416080300 +0000" channel="dw.unifitv">
+  <programme start="20260416070500 +0000" stop="20260416080300 +0000" channel="dw.unifitv">
     <title lang="en">DocFilm</title>
     <desc lang="en">All organisms harbor an invisible, omnipresent enemy: plastic. Researchers worldwide have shown that plastic particles can also be detected in humans - in organs and bodily fluids.</desc>
     <category lang="en">Documentary</category>
@@ -14539,14 +14537,14 @@
   </programme>
   <programme start="20260416080500 +0000" stop="20260416083300 +0000" channel="dw.unifitv">
     <title lang="en">Made in Germany</title>
-    <desc lang="en">Made in Germany</desc>
+    <desc lang="en">Munich is emerging as a hub for drone innovation: Bundeswehr University start-ups are building drones that conquer the skies and can also see underground.</desc>
     <category lang="en">Magazine</category>
     <episode-num system="xmltv_ns">0.0.</episode-num>
     <episode-num system="onscreen">S1E1</episode-num>
   </programme>
   <programme start="20260416083300 +0000" stop="20260416090300 +0000" channel="dw.unifitv">
     <title lang="en">Focus on Europe</title>
-    <desc lang="en">Focus on Europe</desc>
+    <desc lang="en">More and more women are speaking out about violence in relationships, and are demanding stricter laws, including for deep fakes. +++ Storms are wreaking ever more damage on Italy's coasts. There is often insufficient coastal protection.</desc>
     <category lang="en">Magazine</category>
     <episode-num system="xmltv_ns">0.0.</episode-num>
     <episode-num system="onscreen">S1E1</episode-num>
@@ -14609,26 +14607,26 @@
   </programme>
   <programme start="20260416111800 +0000" stop="20260416113300 +0000" channel="dw.unifitv">
     <title lang="en">Sports Life</title>
-    <desc lang="en">Sports Life</desc>
+    <desc lang="en">In Assam, decades of conflict kept Bodo and Santhal communities apart. Now the traditional martial art Khomlainai is bringing children together, who have never spoken or played with each other before. Mejing Narzary, a former Bodo underground fighter, and Khermu Karmakar, a former general of the Santhal insurgent force, have achieved this miracle.</desc>
     <category lang="en">Sports</category>
     <episode-num system="xmltv_ns">0.0.</episode-num>
     <episode-num system="onscreen">S1E1</episode-num>
   </programme>
   <programme start="20260416113300 +0000" stop="20260416120300 +0000" channel="dw.unifitv">
     <title lang="en">Focus on Europe</title>
-    <desc lang="en">Focus on Europe</desc>
+    <desc lang="en">More and more women are speaking out about violence in relationships, and are demanding stricter laws, including for deep fakes. +++ Storms are wreaking ever more damage on Italy's coasts. There is often insufficient coastal protection.</desc>
     <category lang="en">Magazine</category>
     <episode-num system="xmltv_ns">0.0.</episode-num>
     <episode-num system="onscreen">S1E1</episode-num>
   </programme>
-  <programme start="20260416120300 +0000" stop="20260416120600 +0000" channel="dw.unifitv">
+  <programme start="20260416120300 +0000" stop="20260416120500 +0000" channel="dw.unifitv">
     <title lang="en">DW News</title>
     <desc lang="en">DW News</desc>
     <category lang="en">News</category>
     <episode-num system="xmltv_ns">0.0.</episode-num>
     <episode-num system="onscreen">S1E1</episode-num>
   </programme>
-  <programme start="20260416120600 +0000" stop="20260416130300 +0000" channel="dw.unifitv">
+  <programme start="20260416120500 +0000" stop="20260416130300 +0000" channel="dw.unifitv">
     <title lang="en">DocFilm</title>
     <desc lang="en">All organisms harbor an invisible, omnipresent enemy: plastic. Researchers worldwide have shown that plastic particles can also be detected in humans - in organs and bodily fluids.</desc>
     <category lang="en">Documentary</category>
@@ -14650,15 +14648,15 @@
     <episode-num system="onscreen">S1E1</episode-num>
   </programme>
   <programme start="20260416131800 +0000" stop="20260416133300 +0000" channel="dw.unifitv">
-    <title lang="en">Best of DW-online Content</title>
-    <desc lang="en">Best of DW-online Content</desc>
+    <title lang="en">Business Beyond</title>
+    <desc lang="en">After decades of stalled talks, Europe has reached a trade turning point: It's been on a deal signing spree, inking mammoth pacts with major powers like India, Indonesia, Australia, Brazil and Argentina. This is a story about how the world recalibrates when the US goes rogue, and the race to rely less on China.</desc>
     <category lang="en">Documentary</category>
     <episode-num system="xmltv_ns">0.0.</episode-num>
     <episode-num system="onscreen">S1E1</episode-num>
   </programme>
   <programme start="20260416133300 +0000" stop="20260416140300 +0000" channel="dw.unifitv">
     <title lang="en">REV</title>
-    <desc lang="en">REV</desc>
+    <desc lang="en">In Venezuela, years of halted imports, sky-high tariffs, and economic collapse have left drivers stuck between aging Toyotas and pricey Chinese SUVs in a distorted market. Plus: REV puts the new Mazda 6e to the test.</desc>
     <category lang="en">Magazine</category>
     <episode-num system="xmltv_ns">0.0.</episode-num>
     <episode-num system="onscreen">S1E1</episode-num>
@@ -15049,7 +15047,7 @@
     <category lang="en">Sports</category>
   </programme>
   <programme start="20260415190000 +0000" stop="20260415195500 +0000" channel="unifisports1.unifitv">
-    <title lang="en">UFC Main Event  - UFC297 - Strickland vs Du Plessis</title>
+    <title lang="en">UFC Main Event - UFC297 - Strickland vs Du Plessis</title>
     <desc lang="en">UFC Middleweight Champion Sean Strickland defends his title against South African contender Dricus Du Plessis in a thrilling showdown at UFC 297. Watch the full championship fight on this episode of Main Event.</desc>
     <category lang="en">Sports</category>
   </programme>
@@ -15084,7 +15082,7 @@
     <category lang="en">Sports</category>
   </programme>
   <programme start="20260416040000 +0000" stop="20260416053000 +0000" channel="unifisports1.unifitv">
-    <title lang="en">Kejohanan Piala Emas Khir Johari Edisi Ke-58, 2026 - Perlawanan Akhir  (Regu Wanita)</title>
+    <title lang="en">Kejohanan Piala Emas Khir Johari Edisi Ke-58, 2026 - Perlawanan Akhir (Regu Wanita)</title>
     <desc lang="en">Kejohanan Sepaktakraw Piala Emas Khir Johari Ke-58 Tahun 2026 kembali lagi! 21 pasukan akan berentap untuk merebut kejuaraan. Hanya satu pasukan yang akan dinobatkan sebagai juara. Saksikan aksi penuh segalanya secara langsung di saluran Unifi Sports 1 atau strim melalui aplikasi Unifi TV 2.0.</desc>
     <category lang="en">Sports</category>
   </programme>
@@ -15110,7 +15108,7 @@
   </programme>
   <programme start="20260416090000 +0000" stop="20260416090500 +0000" channel="unifisports1.unifitv">
     <title lang="en">LALIGA TOP GOALS GUAYRE BETANCOR - LALIGA TOP GOALS GUAYRE BETANCOR</title>
-    <desc lang="en">A selection of top goals from Guayre, a leading light for Villarreal in their push to become one of LaLiga’s elite.</desc>
+    <desc lang="en">A selection of top goals from Guayre, a leading light for Villarreal in their push to become one of LaLiga's elite.</desc>
     <category lang="en">Sports</category>
   </programme>
   <programme start="20260416090500 +0000" stop="20260416091000 +0000" channel="unifisports1.unifitv">
@@ -15124,13 +15122,13 @@
     <category lang="en">Sports</category>
   </programme>
   <programme start="20260416091500 +0000" stop="20260416121500 +0000" channel="unifisports1.unifitv">
-    <title lang="en">(L) AFL Premiership Season  - Round 6 - Carlton v Collingwood</title>
+    <title lang="en">(L) AFL Premiership Season - Round 6 - Carlton v Collingwood</title>
     <desc lang="en">ABC Australia brings you Australian Rules football live in your lounge room every week with coverage of the 2026 AFL Premiership Season.</desc>
     <category lang="en">Sports</category>
   </programme>
   <programme start="20260416121500 +0000" stop="20260416122000 +0000" channel="unifisports1.unifitv">
     <title lang="en">LALIGA TOP GOALS GUAYRE BETANCOR - LALIGA TOP GOALS GUAYRE BETANCOR</title>
-    <desc lang="en">A selection of top goals from Guayre, a leading light for Villarreal in their push to become one of LaLiga’s elite.</desc>
+    <desc lang="en">A selection of top goals from Guayre, a leading light for Villarreal in their push to become one of LaLiga's elite.</desc>
     <category lang="en">Sports</category>
   </programme>
   <programme start="20260416122000 +0000" stop="20260416122500 +0000" channel="unifisports1.unifitv">
@@ -15150,12 +15148,12 @@
   </programme>
   <programme start="20260416130000 +0000" stop="20260416135500 +0000" channel="unifisports1.unifitv">
     <title lang="en">UFC Countdown - UFC 321: Aspinall vs Gane</title>
-    <desc lang="en">UFC 321 Countdown takes an inside look at the promotion’s return to Abu Dhabi, where heavyweight king Tom Aspinall battles former interim champion Ciryl Gane. Plus, Virna Jandiroba takes on Mackenzie Dern for the vacant strawweight title.</desc>
+    <desc lang="en">UFC 321 Countdown takes an inside look at the promotion's return to Abu Dhabi, where heavyweight king Tom Aspinall battles former interim champion Ciryl Gane. Plus, Virna Jandiroba takes on Mackenzie Dern for the vacant strawweight title.</desc>
     <category lang="en">Sports</category>
   </programme>
   <programme start="20260416135500 +0000" stop="20260416140000 +0000" channel="unifisports1.unifitv">
     <title lang="en">LALIGA TOP GOALS GUAYRE BETANCOR - LALIGA TOP GOALS GUAYRE BETANCOR</title>
-    <desc lang="en">A selection of top goals from Guayre, a leading light for Villarreal in their push to become one of LaLiga’s elite.</desc>
+    <desc lang="en">A selection of top goals from Guayre, a leading light for Villarreal in their push to become one of LaLiga's elite.</desc>
     <category lang="en">Sports</category>
   </programme>
   <programme start="20260416140000 +0000" stop="20260416190000 +0000" channel="unifisports1.unifitv">
