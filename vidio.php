@@ -1638,9 +1638,13 @@
     <desc lang="id">Tercyduk</desc>
     <icon src="https://thumbor.prod.vidiocdn.com/NdmzqkxqnWVnlngtk_ObYNT-wiY=/287x162/filters:strip_icc():quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/image/206/moji-a5bd3e.jpg"/>
   </programme>
-  <programme channel="206" start="20260416082000 +0000" stop="20260416113000 +0000">
+  <programme channel="206" start="20260416082000 +0000" stop="20260416105000 +0000">
     <title lang="id">Proliga 2026 First Serve 16:00</title>
     <desc lang="id">Proliga 2026 First Serve 16:00</desc>
+    <icon src="https://thumbor.prod.vidiocdn.com/NdmzqkxqnWVnlngtk_ObYNT-wiY=/287x162/filters:strip_icc():quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/image/206/moji-a5bd3e.jpg"/>
+  </programme>
+  <programme channel="206" start="20260416105000 +0000" stop="20260416112000 +0000">
+    <title lang="id">American Ninja Warrior</title>
     <icon src="https://thumbor.prod.vidiocdn.com/NdmzqkxqnWVnlngtk_ObYNT-wiY=/287x162/filters:strip_icc():quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/image/206/moji-a5bd3e.jpg"/>
   </programme>
   <programme channel="206" start="20260416113000 +0000" stop="20260416140000 +0000">
@@ -7748,16 +7752,16 @@
     <desc lang="id">Seorang wanita muda yang bersemangat memulai perjalanan untuk memenuhi janji seorang ibu demi kehidupan yang lebih baik sambil mengatasi tantangan dan kehilangan.</desc>
     <icon src="https://thumbor.prod.vidiocdn.com/uTK_WFGf7AXoJExWRoCTPTiZtxk=/287x162/filters:strip_icc():quality(70)/vidio-media-production/uploads/livestreaming/schedule/thumbnail/5014854/1f1b32.jpg"/>
   </programme>
-  <programme channel="782" start="20260416074900 +0000" stop="20260416090000 +0000">
+  <programme channel="782" start="20260416074900 +0000" stop="20260416091500 +0000">
     <title lang="id">Teri Meri Doriyann</title>
     <icon src="https://thumbor.prod.vidiocdn.com/9ve1oIxJYMKStZSHoJprSmGx95o=/287x162/filters:strip_icc():quality(70)/vidio-media-production/uploads/livestreaming/schedule/thumbnail/5015835/3ea0b1.jpg"/>
   </programme>
-  <programme channel="782" start="20260416090000 +0000" stop="20260416111500 +0000">
+  <programme channel="782" start="20260416091500 +0000" stop="20260416111000 +0000">
     <title lang="id">Vasudha</title>
     <desc lang="id">Vasudha yang periang bergabung dengan rumah pemimpin bisnis Chandrika sebagai pembantu dan mendambakan persetujuannya meskipun ada perbedaan ideologis di antara mereka.</desc>
     <icon src="https://thumbor.prod.vidiocdn.com/KgKtJ4nFpKa420a3a2E6rN-kEZA=/287x162/filters:strip_icc():quality(70)/vidio-media-production/uploads/livestreaming/schedule/thumbnail/5014856/c70f56.jpg"/>
   </programme>
-  <programme channel="782" start="20260416111500 +0000" stop="20260416130000 +0000">
+  <programme channel="782" start="20260416111000 +0000" stop="20260416130000 +0000">
     <title lang="id">Sinema Laga Klasik: Pendekar Mata Satu</title>
     <desc lang="id">Dendam seorang anak yang berusaha mencari pembunuh ayahnya setelah diselamatkan dan dilatih silat oleh seorang guru.</desc>
     <icon src="https://thumbor.prod.vidiocdn.com/20tRQaK9Gps_wFQL5rY-XgRbrs4=/287x162/filters:strip_icc():quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/image/782/antv-de8530.jpg"/>
