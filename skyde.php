@@ -2761,7 +2761,7 @@
 <programme start="20260417160000 +0000" stop="20260417183000 +0000" channel="Sky Sport Bundesliga 3 HD.skyde">
     <title>Live 2. BL: SV Elversberg - Karlsruher SC, 30. Spieltag</title>
 </programme>
-<programme start="20260417183000 +0000" stop="20260417203000 +0000" channel="Sky Sport Bundesliga 3 HD.skyde">
+<programme start="20260417183000 +0000" stop="20260417210000 +0000" channel="Sky Sport Bundesliga 3 HD.skyde">
     <title>Live BL: Sky Sport Fantasy: STP - KOE, 30. Spieltag</title>
 </programme>
 <programme start="20260417154000 +0000" stop="20260417160000 +0000" channel="Sky Sport Bundesliga 4 HD.skyde">

@@ -3872,39 +3872,39 @@
     <episode-num system="onscreen">S1E20260415</episode-num>
   </programme>
   <programme start="20260417050800 +0000" stop="20260417055400 +0000" channel="cctv4hd.unifitv">
-    <title lang="en">Lao Hu Dui</title>
-    <desc lang="en">Set against the backdrop of the Huaihai Campaign—one of the most pivotal military operations in the Chinese Civil War—the story follows the heroic exploits of an elite vanguard unit.</desc>
+    <title lang="en">Wo He Wo De Er Nv Men</title>
+    <desc lang="en">The ridiculous stories that happened in the intricate family of Qian Guang, a retired middle school history teacher, Qian An'an, his adopted daughter, and several other children.</desc>
+    <category lang="en">Drama</category>
+    <episode-num system="xmltv_ns">0.0.</episode-num>
+    <episode-num system="onscreen">S1E1</episode-num>
+  </programme>
+  <programme start="20260417055400 +0000" stop="20260417064200 +0000" channel="cctv4hd.unifitv">
+    <title lang="en">Wo He Wo De Er Nv Men</title>
+    <desc lang="en">The ridiculous stories that happened in the intricate family of Qian Guang, a retired middle school history teacher, Qian An'an, his adopted daughter, and several other children.</desc>
     <category lang="en">Drama</category>
     <episode-num system="xmltv_ns">0.1.</episode-num>
     <episode-num system="onscreen">S1E2</episode-num>
   </programme>
-  <programme start="20260417055400 +0000" stop="20260417064200 +0000" channel="cctv4hd.unifitv">
-    <title lang="en">Lao Hu Dui</title>
-    <desc lang="en">Set against the backdrop of the Huaihai Campaign—one of the most pivotal military operations in the Chinese Civil War—the story follows the heroic exploits of an elite vanguard unit.</desc>
+  <programme start="20260417064200 +0000" stop="20260417072800 +0000" channel="cctv4hd.unifitv">
+    <title lang="en">Wo He Wo De Er Nv Men</title>
+    <desc lang="en">The ridiculous stories that happened in the intricate family of Qian Guang, a retired middle school history teacher, Qian An'an, his adopted daughter, and several other children.</desc>
     <category lang="en">Drama</category>
     <episode-num system="xmltv_ns">0.2.</episode-num>
     <episode-num system="onscreen">S1E3</episode-num>
   </programme>
-  <programme start="20260417064200 +0000" stop="20260417072800 +0000" channel="cctv4hd.unifitv">
-    <title lang="en">Lao Hu Dui</title>
-    <desc lang="en">Set against the backdrop of the Huaihai Campaign—one of the most pivotal military operations in the Chinese Civil War—the story follows the heroic exploits of an elite vanguard unit.</desc>
+  <programme start="20260417072800 +0000" stop="20260417081500 +0000" channel="cctv4hd.unifitv">
+    <title lang="en">Wo He Wo De Er Nv Men</title>
+    <desc lang="en">The ridiculous stories that happened in the intricate family of Qian Guang, a retired middle school history teacher, Qian An'an, his adopted daughter, and several other children.</desc>
     <category lang="en">Drama</category>
     <episode-num system="xmltv_ns">0.3.</episode-num>
     <episode-num system="onscreen">S1E4</episode-num>
   </programme>
-  <programme start="20260417072800 +0000" stop="20260417081500 +0000" channel="cctv4hd.unifitv">
-    <title lang="en">Lao Hu Dui</title>
-    <desc lang="en">Set against the backdrop of the Huaihai Campaign—one of the most pivotal military operations in the Chinese Civil War—the story follows the heroic exploits of an elite vanguard unit.</desc>
+  <programme start="20260417081500 +0000" stop="20260417090200 +0000" channel="cctv4hd.unifitv">
+    <title lang="en">Wo He Wo De Er Nv Men</title>
+    <desc lang="en">The ridiculous stories that happened in the intricate family of Qian Guang, a retired middle school history teacher, Qian An'an, his adopted daughter, and several other children.</desc>
     <category lang="en">Drama</category>
     <episode-num system="xmltv_ns">0.4.</episode-num>
     <episode-num system="onscreen">S1E5</episode-num>
-  </programme>
-  <programme start="20260417081500 +0000" stop="20260417090200 +0000" channel="cctv4hd.unifitv">
-    <title lang="en">Lao Hu Dui</title>
-    <desc lang="en">Set against the backdrop of the Huaihai Campaign—one of the most pivotal military operations in the Chinese Civil War—the story follows the heroic exploits of an elite vanguard unit.</desc>
-    <category lang="en">Drama</category>
-    <episode-num system="xmltv_ns">0.5.</episode-num>
-    <episode-num system="onscreen">S1E6</episode-num>
   </programme>
   <programme start="20260417090200 +0000" stop="20260417090500 +0000" channel="cctv4hd.unifitv">
     <title lang="en">nostalgia</title>

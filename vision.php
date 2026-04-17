@@ -610,6 +610,9 @@
 <programme start="20260417003000 +0000" stop="20260417023000 +0000" channel="ANTV.vision">
 <title>Janji Inspektur Virat</title>
 </programme>
+<programme start="20260417023000 +0000" stop="20260417060000 +0000" channel="ANTV.vision">
+<title>Mann</title>
+</programme>
 <programme start="20260417060000 +0000" stop="20260417080000 +0000" channel="ANTV.vision">
 <title>Jhanak</title>
 </programme>
@@ -1493,8 +1496,5 @@
 <title>DAAI TV</title>
 </programme>
 <programme start="20260417060000 +0000" stop="20260417090000 +0000" channel="DAAI TV.vision">
-<title>DAAI TV</title>
-</programme>
-<programme start="20260417090000 +0000" stop="20260417120000 +0000" channel="DAAI TV.vision">
 <title>DAAI TV</title>
 </programme>

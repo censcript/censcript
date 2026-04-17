@@ -2186,7 +2186,7 @@
         <title>HSBC SVNS Series 2026: Canada vs Chile - Tri-Nations Challenge</title>
     </programme>
     <programme start="20260416185500 +0000" stop="20260416210000 +0000" channel="beIN Sports 2 HD.starhub">
-        <title>UEFA Conference League 2025/26: Fiorentina vs Crystal Palace - QF, 2nd Leg (Live)</title>
+        <title>Fiorentina vs Crystal Palace - QF, 2nd Leg (Live)</title>
     </programme>
     <programme start="20260416210000 +0000" stop="20260416220500 +0000" channel="beIN Sports 2 HD.starhub">
         <title>Matchday 19</title>
@@ -6938,7 +6938,7 @@
         <title>UEFA Europa League 2025/26: Celta Vigo vs Freiburg - QF, 2nd Leg (Live)</title>
     </programme>
     <programme start="20260416185500 +0000" stop="20260416210000 +0000" channel="beIN Sports HD.starhub">
-        <title>UEFA Europa League 2025/26: Aston Villa vs Bologna - QF, 2nd Leg (Live)</title>
+        <title>Aston Villa vs Bologna - QF, 2nd Leg (Live)</title>
     </programme>
     <programme start="20260416210000 +0000" stop="20260416213000 +0000" channel="beIN Sports HD.starhub">
         <title>Mini Match - LaLiga 2025/26: Real Madrid vs Girona</title>
