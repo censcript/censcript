@@ -8170,14 +8170,14 @@
     <programme start="20260417040000 +0000" stop="20260417080000 +0000" channel="SPOTV2.starhub">
         <title>Day 5 Session 1</title>
     </programme>
-    <programme start="20260417080000 +0000" stop="20260417100000 +0000" channel="SPOTV2.starhub">
-        <title>25/26 A-League Men Round 24 Auckland FC vs Melbourne Victory</title>
-    </programme>
-    <programme start="20260417100000 +0000" stop="20260417130000 +0000" channel="SPOTV2.starhub">
+    <programme start="20260417080000 +0000" stop="20260417110000 +0000" channel="SPOTV2.starhub">
         <title>Round 1</title>
     </programme>
-    <programme start="20260417130000 +0000" stop="20260417140000 +0000" channel="SPOTV2.starhub">
+    <programme start="20260417110000 +0000" stop="20260417120000 +0000" channel="SPOTV2.starhub">
         <title>Highlights</title>
+    </programme>
+    <programme start="20260417120000 +0000" stop="20260417140000 +0000" channel="SPOTV2.starhub">
+        <title>25/26 A-League Men Round 24 Auckland FC vs Melbourne Victory</title>
     </programme>
     <programme start="20260417140000 +0000" stop="20260417170000 +0000" channel="SPOTV2.starhub">
         <title>Round 2</title>

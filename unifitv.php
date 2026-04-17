@@ -15217,20 +15217,20 @@
     <desc lang="en">WTT Singapore Smash 2026 brings the world's elite table tennis players together for one of the sport's premier events, delivering high-intensity matches and unforgettable moments on the global stage.</desc>
     <category lang="en">Table Tennis</category>
   </programme>
-  <programme start="20260417080000 +0000" stop="20260417100000 +0000" channel="spotv2.unifitv">
-    <title lang="en">25/26 A-League Men Round 24 - Auckland FC vs Melbourne Victory</title>
-    <desc lang="en">Top flight men's soccer returns in the ISUZU UTE A-League Men. Catch every moment on SPOTV NOW as 12 teams compete in the regular season with top 4 advancing to a single-game knockout.</desc>
-    <category lang="en">Football</category>
+  <programme start="20260417080000 +0000" stop="20260417090000 +0000" channel="spotv2.unifitv">
+    <title lang="en">SailGP S6: ENEL Rio Sail Grand Prix - Highlights</title>
+    <desc lang="en">Adrenaline-fueled races, legendary global locations, rival national teams and record-breaking speeds. SailGP is the most exciting racing on water - Powered By Nature.</desc>
+    <category lang="en">Sailing</category>
   </programme>
-  <programme start="20260417100000 +0000" stop="20260417130000 +0000" channel="spotv2.unifitv">
+  <programme start="20260417090000 +0000" stop="20260417120000 +0000" channel="spotv2.unifitv">
     <title lang="en">2026 Senior PGA Championship - Round 1</title>
     <desc lang="en">Golf's most accomplished senior players compete for major glory, showcasing experience, precision, and competitive excellence on a prestigious stage.</desc>
     <category lang="en">Golf</category>
   </programme>
-  <programme start="20260417130000 +0000" stop="20260417140000 +0000" channel="spotv2.unifitv">
-    <title lang="en">SailGP S6: ENEL Rio Sail Grand Prix - Highlights</title>
-    <desc lang="en">Adrenaline-fueled races, legendary global locations, rival national teams and record-breaking speeds. SailGP is the most exciting racing on water - Powered By Nature.</desc>
-    <category lang="en">Sailing</category>
+  <programme start="20260417120000 +0000" stop="20260417140000 +0000" channel="spotv2.unifitv">
+    <title lang="en">25/26 A-League Men Round 24 - Auckland FC vs Melbourne Victory</title>
+    <desc lang="en">Top flight men's soccer returns in the ISUZU UTE A-League Men. Catch every moment on SPOTV NOW as 12 teams compete in the regular season with top 4 advancing to a single-game knockout.</desc>
+    <category lang="en">Football</category>
   </programme>
   <programme start="20260417140000 +0000" stop="20260417170000 +0000" channel="spotv2.unifitv">
     <title lang="en">(L) 2026 Senior PGA Championship - Round 2</title>

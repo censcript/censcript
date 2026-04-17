@@ -1474,19 +1474,19 @@
 <programme start="20260417075000 +0000" stop="20260417075500 +0000" channel="Nick Jr..skyde">
     <title>Peppa Wutz</title>
 </programme>
-<programme start="20260417075500 +0000" stop="20260417081500 +0000" channel="Nick Jr..skyde">
+<programme start="20260417075500 +0000" stop="20260417082000 +0000" channel="Nick Jr..skyde">
     <title>BARBAPAPA und Familie</title>
 </programme>
-<programme start="20260417081500 +0000" stop="20260417084000 +0000" channel="Nick Jr..skyde">
+<programme start="20260417082000 +0000" stop="20260417084000 +0000" channel="Nick Jr..skyde">
     <title>BARBAPAPA und Familie</title>
 </programme>
 <programme start="20260417084000 +0000" stop="20260417085000 +0000" channel="Nick Jr..skyde">
     <title>Mr. Crocodile</title>
 </programme>
-<programme start="20260417085000 +0000" stop="20260417090000 +0000" channel="Nick Jr..skyde">
+<programme start="20260417085000 +0000" stop="20260417090500 +0000" channel="Nick Jr..skyde">
     <title>Mr. Crocodile</title>
 </programme>
-<programme start="20260417090000 +0000" stop="20260417092500 +0000" channel="Nick Jr..skyde">
+<programme start="20260417090500 +0000" stop="20260417092500 +0000" channel="Nick Jr..skyde">
     <title>Blaze und die Monster-Maschinen</title>
 </programme>
 <programme start="20260417092500 +0000" stop="20260417094500 +0000" channel="Nick Jr..skyde">
@@ -1513,10 +1513,10 @@
 <programme start="20260417120000 +0000" stop="20260417122500 +0000" channel="Nick Jr..skyde">
     <title>Tim Rex im All</title>
 </programme>
-<programme start="20260417122500 +0000" stop="20260417125000 +0000" channel="Nick Jr..skyde">
+<programme start="20260417122500 +0000" stop="20260417124500 +0000" channel="Nick Jr..skyde">
     <title>Tim Rex im All</title>
 </programme>
-<programme start="20260417125000 +0000" stop="20260417131000 +0000" channel="Nick Jr..skyde">
+<programme start="20260417124500 +0000" stop="20260417131000 +0000" channel="Nick Jr..skyde">
     <title>DORA</title>
 </programme>
 <programme start="20260417131000 +0000" stop="20260417133000 +0000" channel="Nick Jr..skyde">
@@ -1546,10 +1546,10 @@
 <programme start="20260417140500 +0000" stop="20260417142500 +0000" channel="Nick Jr..skyde">
     <title>Blaze und die Monster-Maschinen</title>
 </programme>
-<programme start="20260417142500 +0000" stop="20260417145000 +0000" channel="Nick Jr..skyde">
+<programme start="20260417142500 +0000" stop="20260417144500 +0000" channel="Nick Jr..skyde">
     <title>Paw Patrol: Helfer auf vier Pfoten</title>
 </programme>
-<programme start="20260417145000 +0000" stop="20260417150000 +0000" channel="Nick Jr..skyde">
+<programme start="20260417144500 +0000" stop="20260417150000 +0000" channel="Nick Jr..skyde">
     <title>Paw Patrol: Helfer auf vier Pfoten</title>
 </programme>
 <programme start="20260417150000 +0000" stop="20260417152000 +0000" channel="Nick Jr..skyde">
@@ -1558,16 +1558,16 @@
 <programme start="20260417152000 +0000" stop="20260417153000 +0000" channel="Nick Jr..skyde">
     <title>Rubble &amp; Crew</title>
 </programme>
-<programme start="20260417153000 +0000" stop="20260417154500 +0000" channel="Nick Jr..skyde">
+<programme start="20260417153000 +0000" stop="20260417154000 +0000" channel="Nick Jr..skyde">
     <title>Mr. Crocodile</title>
 </programme>
-<programme start="20260417154500 +0000" stop="20260417155500 +0000" channel="Nick Jr..skyde">
+<programme start="20260417154000 +0000" stop="20260417155500 +0000" channel="Nick Jr..skyde">
     <title>Mr. Crocodile</title>
 </programme>
-<programme start="20260417155500 +0000" stop="20260417162000 +0000" channel="Nick Jr..skyde">
+<programme start="20260417155500 +0000" stop="20260417161500 +0000" channel="Nick Jr..skyde">
     <title>BARBAPAPA und Familie</title>
 </programme>
-<programme start="20260417162000 +0000" stop="20260417163000 +0000" channel="Nick Jr..skyde">
+<programme start="20260417161500 +0000" stop="20260417163000 +0000" channel="Nick Jr..skyde">
     <title>BARBAPAPA und Familie</title>
 </programme>
 <programme start="20260417163000 +0000" stop="20260417164000 +0000" channel="Nick Jr..skyde">
@@ -1576,10 +1576,10 @@
 <programme start="20260417164000 +0000" stop="20260417164500 +0000" channel="Nick Jr..skyde">
     <title>Tim Rex im All</title>
 </programme>
-<programme start="20260417164500 +0000" stop="20260417165000 +0000" channel="Nick Jr..skyde">
+<programme start="20260417164500 +0000" stop="20260417165500 +0000" channel="Nick Jr..skyde">
     <title>Tim Rex im All</title>
 </programme>
-<programme start="20260417165000 +0000" stop="20260417170000 +0000" channel="Nick Jr..skyde">
+<programme start="20260417165500 +0000" stop="20260417170000 +0000" channel="Nick Jr..skyde">
     <title>Tim Rex im All</title>
 </programme>
 <programme start="20260417170000 +0000" stop="20260417170500 +0000" channel="Nick Jr..skyde">
@@ -1603,10 +1603,10 @@
 <programme start="20260417173000 +0000" stop="20260417175000 +0000" channel="Nick Jr..skyde">
     <title>BARBAPAPA und Familie</title>
 </programme>
-<programme start="20260417175000 +0000" stop="20260417180000 +0000" channel="Nick Jr..skyde">
+<programme start="20260417175000 +0000" stop="20260417180500 +0000" channel="Nick Jr..skyde">
     <title>BARBAPAPA und Familie</title>
 </programme>
-<programme start="20260417180000 +0000" stop="20260417182500 +0000" channel="Nick Jr..skyde">
+<programme start="20260417180500 +0000" stop="20260417182500 +0000" channel="Nick Jr..skyde">
     <title>Blaze und die Monster-Maschinen</title>
 </programme>
 <programme start="20260417182500 +0000" stop="20260417184500 +0000" channel="Nick Jr..skyde">
@@ -1621,25 +1621,22 @@
 <programme start="20260417192000 +0000" stop="20260417194500 +0000" channel="Nick Jr..skyde">
     <title>Rubble &amp; Crew</title>
 </programme>
-<programme start="20260417194500 +0000" stop="20260417200500 +0000" channel="Nick Jr..skyde">
+<programme start="20260417194500 +0000" stop="20260417201000 +0000" channel="Nick Jr..skyde">
     <title>DORA</title>
 </programme>
-<programme start="20260417200500 +0000" stop="20260417202500 +0000" channel="Nick Jr..skyde">
+<programme start="20260417201000 +0000" stop="20260417203000 +0000" channel="Nick Jr..skyde">
     <title>DORA</title>
 </programme>
-<programme start="20260417202500 +0000" stop="20260417205000 +0000" channel="Nick Jr..skyde">
+<programme start="20260417203000 +0000" stop="20260417205000 +0000" channel="Nick Jr..skyde">
     <title>BARBAPAPA und Familie</title>
 </programme>
-<programme start="20260417205000 +0000" stop="20260417211000 +0000" channel="Nick Jr..skyde">
+<programme start="20260417205000 +0000" stop="20260417211500 +0000" channel="Nick Jr..skyde">
     <title>BARBAPAPA und Familie</title>
 </programme>
-<programme start="20260417211000 +0000" stop="20260417213500 +0000" channel="Nick Jr..skyde">
+<programme start="20260417211500 +0000" stop="20260417213500 +0000" channel="Nick Jr..skyde">
     <title>BARBAPAPA und Familie</title>
 </programme>
-<programme start="20260417213500 +0000" stop="20260417215500 +0000" channel="Nick Jr..skyde">
-    <title>BARBAPAPA und Familie</title>
-</programme>
-<programme start="20260417215500 +0000" stop="20260417222000 +0000" channel="Nick Jr..skyde">
+<programme start="20260417213500 +0000" stop="20260417220000 +0000" channel="Nick Jr..skyde">
     <title>BARBAPAPA und Familie</title>
 </programme>
 <programme start="20260416221000 +0000" stop="20260416234000 +0000" channel="Romance TV HD.skyde">
@@ -2626,13 +2623,13 @@
 <programme start="20260417130000 +0000" stop="20260417150000 +0000" channel="Sky Sport Austria 3 HD.skyde">
     <title>Live ATP 500: VF3, BMW Open in München, Viertelfinale 3</title>
 </programme>
-<programme start="20260417150000 +0000" stop="20260417170000 +0000" channel="Sky Sport Austria 3 HD.skyde">
+<programme start="20260417150000 +0000" stop="20260417190000 +0000" channel="Sky Sport Austria 3 HD.skyde">
     <title>Live ATP 500: VF4, BMW Open in München, Viertelfinale 4</title>
 </programme>
 <programme start="20260417111000 +0000" stop="20260417113000 +0000" channel="Sky Sport Austria 4 HD.skyde">
     <title>WTA: Es folgt</title>
 </programme>
-<programme start="20260417113000 +0000" stop="20260417193000 +0000" channel="Sky Sport Austria 4 HD.skyde">
+<programme start="20260417113000 +0000" stop="20260417213000 +0000" channel="Sky Sport Austria 4 HD.skyde">
     <title>Live WTA 250: Open Capfinances Rouen Metropole in Rouen (FRA), 5. Tag</title>
 </programme>
 <programme start="20260416220000 +0000" stop="20260416223000 +0000" channel="Sky Sport Bundesliga HD.skyde">
@@ -2746,7 +2743,7 @@
 <programme start="20260417173000 +0000" stop="20260417181500 +0000" channel="Sky Sport Bundesliga 1 HD.skyde">
     <title>Live BL: STP - KOE: tipico Countdown, Flutlicht-Freitag, 30. Spieltag</title>
 </programme>
-<programme start="20260417181500 +0000" stop="20260417211500 +0000" channel="Sky Sport Bundesliga 1 HD.skyde">
+<programme start="20260417181500 +0000" stop="20260417214500 +0000" channel="Sky Sport Bundesliga 1 HD.skyde">
     <title>Live BL: FC St. Pauli - 1. FC Köln, Flutlicht-Freitag, 30. Spieltag</title>
 </programme>
 <programme start="20260417154000 +0000" stop="20260417160000 +0000" channel="Sky Sport Bundesliga 2 HD.skyde">
@@ -2755,7 +2752,7 @@
 <programme start="20260417160000 +0000" stop="20260417183000 +0000" channel="Sky Sport Bundesliga 2 HD.skyde">
     <title>Live 2. BL: Freitags-Konferenz, 30. Spieltag</title>
 </programme>
-<programme start="20260417183000 +0000" stop="20260417191500 +0000" channel="Sky Sport Bundesliga 2 HD.skyde">
+<programme start="20260417183000 +0000" stop="20260417194500 +0000" channel="Sky Sport Bundesliga 2 HD.skyde">
     <title>Live 2. BL Alle Spiele, alle Tore: Die Vodafone Highlight-Show, 30. Spieltag, Freitag</title>
 </programme>
 <programme start="20260417154000 +0000" stop="20260417160000 +0000" channel="Sky Sport Bundesliga 3 HD.skyde">
@@ -2770,13 +2767,13 @@
 <programme start="20260417154000 +0000" stop="20260417160000 +0000" channel="Sky Sport Bundesliga 4 HD.skyde">
     <title>Es folgt: Live 2. Bundesliga</title>
 </programme>
-<programme start="20260417160000 +0000" stop="20260417183000 +0000" channel="Sky Sport Bundesliga 4 HD.skyde">
-    <title>Live 2. BL: Holstein Kiel- 1. FC Kaiserlautern, 30. Spieltag</title>
+<programme start="20260417160000 +0000" stop="20260417190000 +0000" channel="Sky Sport Bundesliga 4 HD.skyde">
+    <title>Live 2. BL: Holstein Kiel - 1. FC Kaiserlautern, 30. Spieltag</title>
 </programme>
 <programme start="20260417154000 +0000" stop="20260417160000 +0000" channel="Sky Sport Bundesliga 5 HD.skyde">
     <title>Es folgt: Live 2. Bundesliga</title>
 </programme>
-<programme start="20260417160000 +0000" stop="20260417183000 +0000" channel="Sky Sport Bundesliga 5 HD.skyde">
+<programme start="20260417160000 +0000" stop="20260417190000 +0000" channel="Sky Sport Bundesliga 5 HD.skyde">
     <title>Live 2. BL: Multiview 30. Spieltag, Freitag</title>
 </programme>
 <programme start="20260416220000 +0000" stop="20260416223000 +0000" channel="Sky Sport F1 HD.skyde">
@@ -3115,9 +3112,6 @@
 <programme start="20260417160000 +0000" stop="20260417161500 +0000" channel="Sky Sport Premier League HD.skyde">
     <title>PL: Greatest Games: FC Liverpool - FC Everton (2019)</title>
 </programme>
-<programme start="20260417161500 +0000" stop="20260417163000 +0000" channel="Sky Sport Premier League HD.skyde">
-    <title>PL: Under the Skin (FC Everton)</title>
-</programme>
 <programme start="20260417163000 +0000" stop="20260417170000 +0000" channel="Sky Sport Premier League HD.skyde">
     <title>PL: 90in30: CHE - MCI, 32. Spieltag</title>
 </programme>
@@ -3137,12 +3131,15 @@
     <title>Live EFL: Blackburn Rovers - Coventry City, 43. Spieltag</title>
 </programme>
 <programme start="20260417210000 +0000" stop="20260417213000 +0000" channel="Sky Sport Premier League HD.skyde">
-    <title>PL: The Big Interview (MalickThiaw)</title>
+    <title>PL: The Big Interview (Malick Thiaw)</title>
 </programme>
 <programme start="20260417213000 +0000" stop="20260417233000 +0000" channel="Sky Sport Premier League HD.skyde">
     <title>EFL: Blackburn Rovers - Coventry City, 43. Spieltag</title>
 </programme>
-<programme start="20260416230000 +0000" stop="20260417010000 +0000" channel="Sky Sport Tennis HD.skyde">
+<programme start="20260416220000 +0000" stop="20260416233000 +0000" channel="Sky Sport Tennis HD.skyde">
+    <title>ATP 500: A. Zverev (GER) - G. Diallo (CAN), BMW Open in München, 4. Tag</title>
+</programme>
+<programme start="20260416233000 +0000" stop="20260417010000 +0000" channel="Sky Sport Tennis HD.skyde">
     <title>WTA 500: E. Rybakina (KAZ) - D. Shnaider, Porsche Tennis Grand Prix in Stuttgart, 4. Tag</title>
 </programme>
 <programme start="20260417010000 +0000" stop="20260417013000 +0000" channel="Sky Sport Tennis HD.skyde">
@@ -3154,14 +3151,14 @@
 <programme start="20260417040000 +0000" stop="20260417043000 +0000" channel="Sky Sport Tennis HD.skyde">
     <title>WTA: All Access Magazine Show</title>
 </programme>
-<programme start="20260417043000 +0000" stop="20260417063000 +0000" channel="Sky Sport Tennis HD.skyde">
+<programme start="20260417050000 +0000" stop="20260417063000 +0000" channel="Sky Sport Tennis HD.skyde">
     <title>WTA 500: E. Rybakina (KAZ) - D. Shnaider, Porsche Tennis Grand Prix in Stuttgart, 4. Tag</title>
 </programme>
 <programme start="20260417063000 +0000" stop="20260417070000 +0000" channel="Sky Sport Tennis HD.skyde">
     <title>ATP: This Week</title>
 </programme>
-<programme start="20260417070000 +0000" stop="20260417090000 +0000" channel="Sky Sport Tennis HD.skyde">
-    <title>ATP 500: Topspiel, BMW Open in München, 4. Tag</title>
+<programme start="20260417073000 +0000" stop="20260417090000 +0000" channel="Sky Sport Tennis HD.skyde">
+    <title>ATP 500: A. Zverev (GER) - G. Diallo (CAN), BMW Open in München, 4. Tag</title>
 </programme>
 <programme start="20260417090000 +0000" stop="20260417110000 +0000" channel="Sky Sport Tennis HD.skyde">
     <title>Live ATP 500: VF1, BMW Open in München, Viertelfinale 1</title>
@@ -3265,7 +3262,7 @@
 <programme start="20260417150000 +0000" stop="20260417170000 +0000" channel="Sky Sport 6 HD.skyde">
     <title>Live WTA 500: VF3, Porsche Tennis Grand Prix in Stuttgart, Viertelfinale 3</title>
 </programme>
-<programme start="20260417170000 +0000" stop="20260417190000 +0000" channel="Sky Sport 6 HD.skyde">
+<programme start="20260417170000 +0000" stop="20260417210000 +0000" channel="Sky Sport 6 HD.skyde">
     <title>Live WTA 500: VF4, Porsche Tennis Grand Prix in Stuttgart, Viertelfinale 4</title>
 </programme>
 <programme start="20260416221500 +0000" stop="20260416230000 +0000" channel="SYFY HD.skyde">
@@ -3674,6 +3671,45 @@
     <title>Transformers 3 - Die dunkle Seite des Mondes</title>
 </programme>
 <programme start="20260417205000 +0000" stop="20260417224500 +0000" channel="Warner TV Film.skyde">
+    <title>Auslöschung</title>
+</programme>
+<programme start="20260416221000 +0000" stop="20260417001000 +0000" channel="Warner TV Film HD.skyde">
+    <title>Shooter</title>
+</programme>
+<programme start="20260417001000 +0000" stop="20260417021000 +0000" channel="Warner TV Film HD.skyde">
+    <title>Pat Garrett jagt Billy the Kid</title>
+</programme>
+<programme start="20260417021000 +0000" stop="20260417040000 +0000" channel="Warner TV Film HD.skyde">
+    <title>Scream</title>
+</programme>
+<programme start="20260417040000 +0000" stop="20260417060000 +0000" channel="Warner TV Film HD.skyde">
+    <title>Road to Perdition</title>
+</programme>
+<programme start="20260417060000 +0000" stop="20260417062500 +0000" channel="Warner TV Film HD.skyde">
+    <title>Hinter den Kulissen - Carrie Fisher</title>
+</programme>
+<programme start="20260417062500 +0000" stop="20260417090500 +0000" channel="Warner TV Film HD.skyde">
+    <title>Insider</title>
+</programme>
+<programme start="20260417090500 +0000" stop="20260417112000 +0000" channel="Warner TV Film HD.skyde">
+    <title>Die Bücherdiebin</title>
+</programme>
+<programme start="20260417112000 +0000" stop="20260417124500 +0000" channel="Warner TV Film HD.skyde">
+    <title>Der Wachsblumenstrauß</title>
+</programme>
+<programme start="20260417124500 +0000" stop="20260417141000 +0000" channel="Warner TV Film HD.skyde">
+    <title>Nicht auflegen!</title>
+</programme>
+<programme start="20260417141000 +0000" stop="20260417154500 +0000" channel="Warner TV Film HD.skyde">
+    <title>Approaching The Unknown</title>
+</programme>
+<programme start="20260417154500 +0000" stop="20260417181500 +0000" channel="Warner TV Film HD.skyde">
+    <title>Transformers - Die Rache</title>
+</programme>
+<programme start="20260417181500 +0000" stop="20260417205000 +0000" channel="Warner TV Film HD.skyde">
+    <title>Transformers 3 - Die dunkle Seite des Mondes</title>
+</programme>
+<programme start="20260417205000 +0000" stop="20260417224500 +0000" channel="Warner TV Film HD.skyde">
     <title>Auslöschung</title>
 </programme>
 <programme start="20260416220500 +0000" stop="20260416225000 +0000" channel="Warner TV Serie HD.skyde">

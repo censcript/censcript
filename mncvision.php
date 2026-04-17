@@ -8510,13 +8510,13 @@
     <title>WTT Singapore Smash 2026</title>
 </programme>
 <programme start="20260417080000 +0000" stop="20260417100000 +0000" channel="SPOTV 2.mncvision">
-    <title>A-League Men: AFC Vs MVC</title>
-</programme>
-<programme start="20260417100000 +0000" stop="20260417130000 +0000" channel="SPOTV 2.mncvision">
     <title>2026 Senior PGA C&#039;ship</title>
 </programme>
-<programme start="20260417130000 +0000" stop="20260417140000 +0000" channel="SPOTV 2.mncvision">
+<programme start="20260417100000 +0000" stop="20260417130000 +0000" channel="SPOTV 2.mncvision">
     <title>SailGP S6: Enel Rio Sail GP</title>
+</programme>
+<programme start="20260417130000 +0000" stop="20260417140000 +0000" channel="SPOTV 2.mncvision">
+    <title>A-League Men: AFC Vs MVC</title>
 </programme>
 <programme start="20260417140000 +0000" stop="20260417143000 +0000" channel="SPOTV 2.mncvision">
     <title>2026 Senior PGA C&#039;ship (L)</title>
@@ -8549,13 +8549,13 @@
     <title>WTT Singapore Smash 2026</title>
 </programme>
 <programme start="20260417080000 +0000" stop="20260417100000 +0000" channel="SPOTV 2 HD.mncvision">
-    <title>A-League Men: AFC Vs MVC</title>
-</programme>
-<programme start="20260417100000 +0000" stop="20260417130000 +0000" channel="SPOTV 2 HD.mncvision">
     <title>2026 Senior PGA C&#039;ship</title>
 </programme>
-<programme start="20260417130000 +0000" stop="20260417140000 +0000" channel="SPOTV 2 HD.mncvision">
+<programme start="20260417100000 +0000" stop="20260417130000 +0000" channel="SPOTV 2 HD.mncvision">
     <title>SailGP S6: Enel Rio Sail GP</title>
+</programme>
+<programme start="20260417130000 +0000" stop="20260417140000 +0000" channel="SPOTV 2 HD.mncvision">
+    <title>A-League Men: AFC Vs MVC</title>
 </programme>
 <programme start="20260417140000 +0000" stop="20260417143000 +0000" channel="SPOTV 2 HD.mncvision">
     <title>2026 Senior PGA C&#039;ship (L)</title>
