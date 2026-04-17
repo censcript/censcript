@@ -2608,7 +2608,7 @@
 <programme start="20260417162000 +0000" stop="20260417164000 +0000" channel="Sky Sport Austria 2 HD.skyde">
     <title>Es folgt: Live UEFA Youth League</title>
 </programme>
-<programme start="20260417164000 +0000" stop="20260417184500 +0000" channel="Sky Sport Austria 2 HD.skyde">
+<programme start="20260417164000 +0000" stop="20260417193000 +0000" channel="Sky Sport Austria 2 HD.skyde">
     <title>Live UEFA Youth League: Real Madrid - Paris Saint-Germain, Halbfinale</title>
 </programme>
 <programme start="20260417084000 +0000" stop="20260417090000 +0000" channel="Sky Sport Austria 3 HD.skyde">

@@ -10730,6 +10730,196 @@
     <desc lang="id">ROUND 3</desc>
     <icon src="https://thumbor.prod.vidiocdn.com/IccXQd6EOZjWCT9QQQrsC0nCTZQ=/287x162/filters:strip_icc():quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/image/18190/champions-golf-2-3c2aa9.jpg"/>
   </programme>
+  <programme channel="18190" start="20260419170000 +0000" stop="20260419193000 +0000">
+    <title lang="id">HILTON GRAND VACATIONS TOURNAMENT OF CHAMPIONS</title>
+    <desc lang="id">ROUND 3</desc>
+    <icon src="https://thumbor.prod.vidiocdn.com/IccXQd6EOZjWCT9QQQrsC0nCTZQ=/287x162/filters:strip_icc():quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/image/18190/champions-golf-2-3c2aa9.jpg"/>
+  </programme>
+  <programme channel="18190" start="20260419193000 +0000" stop="20260419220000 +0000">
+    <title lang="id">HILTON GRAND VACATIONS TOURNAMENT OF CHAMPIONS</title>
+    <desc lang="id">FINAL ROUND</desc>
+    <icon src="https://thumbor.prod.vidiocdn.com/IccXQd6EOZjWCT9QQQrsC0nCTZQ=/287x162/filters:strip_icc():quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/image/18190/champions-golf-2-3c2aa9.jpg"/>
+  </programme>
+  <programme channel="18190" start="20260419220000 +0000" stop="20260420010000 +0000">
+    <title lang="id">JM EAGLE LA CHAMPIONSHIP Presented by Plastpro</title>
+    <desc lang="id">FINAL ROUND</desc>
+    <icon src="https://thumbor.prod.vidiocdn.com/IccXQd6EOZjWCT9QQQrsC0nCTZQ=/287x162/filters:strip_icc():quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/image/18190/champions-golf-2-3c2aa9.jpg"/>
+  </programme>
+  <programme channel="18190" start="20260420010000 +0000" stop="20260420023000 +0000">
+    <title lang="id">LPGA 2024</title>
+    <desc lang="id">HIGHLIGHT</desc>
+    <icon src="https://thumbor.prod.vidiocdn.com/IccXQd6EOZjWCT9QQQrsC0nCTZQ=/287x162/filters:strip_icc():quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/image/18190/champions-golf-2-3c2aa9.jpg"/>
+  </programme>
+  <programme channel="18190" start="20260420023000 +0000" stop="20260420060000 +0000">
+    <title lang="id">ARAMCO CHAMPIONSHIP</title>
+    <desc lang="id">FINAL ROUND</desc>
+    <icon src="https://thumbor.prod.vidiocdn.com/IccXQd6EOZjWCT9QQQrsC0nCTZQ=/287x162/filters:strip_icc():quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/image/18190/champions-golf-2-3c2aa9.jpg"/>
+  </programme>
+  <programme channel="18190" start="20260420060000 +0000" stop="20260420090000 +0000">
+    <title lang="id">JM EAGLE LA CHAMPIONSHIP Presented by Plastpro</title>
+    <desc lang="id">FINAL ROUND</desc>
+    <icon src="https://thumbor.prod.vidiocdn.com/IccXQd6EOZjWCT9QQQrsC0nCTZQ=/287x162/filters:strip_icc():quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/image/18190/champions-golf-2-3c2aa9.jpg"/>
+  </programme>
+  <programme channel="18190" start="20260420090000 +0000" stop="20260420100000 +0000">
+    <title lang="id">2022 CME GROUP TOUR CHAMPIONSHIP</title>
+    <desc lang="id">MAGAZINE</desc>
+    <icon src="https://thumbor.prod.vidiocdn.com/IccXQd6EOZjWCT9QQQrsC0nCTZQ=/287x162/filters:strip_icc():quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/image/18190/champions-golf-2-3c2aa9.jpg"/>
+  </programme>
+  <programme channel="18190" start="20260420100000 +0000" stop="20260420110000 +0000">
+    <title lang="id">ISPS HANDA WOMEN'S Scottish Open</title>
+    <desc lang="id">HIGHLIGHT</desc>
+    <icon src="https://thumbor.prod.vidiocdn.com/IccXQd6EOZjWCT9QQQrsC0nCTZQ=/287x162/filters:strip_icc():quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/image/18190/champions-golf-2-3c2aa9.jpg"/>
+  </programme>
+  <programme channel="18190" start="20260420110000 +0000" stop="20260420140000 +0000">
+    <title lang="id">JM EAGLE LA CHAMPIONSHIP Presented by Plastpro</title>
+    <desc lang="id">ROUND 3</desc>
+    <icon src="https://thumbor.prod.vidiocdn.com/IccXQd6EOZjWCT9QQQrsC0nCTZQ=/287x162/filters:strip_icc():quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/image/18190/champions-golf-2-3c2aa9.jpg"/>
+  </programme>
+  <programme channel="18190" start="20260420140000 +0000" stop="20260420170000 +0000">
+    <title lang="id">JM EAGLE LA CHAMPIONSHIP Presented by Plastpro</title>
+    <desc lang="id">FINAL ROUND</desc>
+    <icon src="https://thumbor.prod.vidiocdn.com/IccXQd6EOZjWCT9QQQrsC0nCTZQ=/287x162/filters:strip_icc():quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/image/18190/champions-golf-2-3c2aa9.jpg"/>
+  </programme>
+  <programme channel="18190" start="20260420140000 +0000" stop="20260420170000 +0000">
+    <title lang="id">JM EAGLE LA CHAMPIONSHIP Presented by Plastpro</title>
+    <desc lang="id">FINAL ROUND</desc>
+    <icon src="https://thumbor.prod.vidiocdn.com/IccXQd6EOZjWCT9QQQrsC0nCTZQ=/287x162/filters:strip_icc():quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/image/18190/champions-golf-2-3c2aa9.jpg"/>
+  </programme>
+  <programme channel="18190" start="20260420170000 +0000" stop="20260420200000 +0000">
+    <title lang="id">JM EAGLE LA CHAMPIONSHIP Presented by Plastpro</title>
+    <desc lang="id">ROUND 1</desc>
+    <icon src="https://thumbor.prod.vidiocdn.com/IccXQd6EOZjWCT9QQQrsC0nCTZQ=/287x162/filters:strip_icc():quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/image/18190/champions-golf-2-3c2aa9.jpg"/>
+  </programme>
+  <programme channel="18190" start="20260420200000 +0000" stop="20260420230000 +0000">
+    <title lang="id">FORTINIET FOUNDER'S CUP</title>
+    <desc lang="id">ROUND 1</desc>
+    <icon src="https://thumbor.prod.vidiocdn.com/IccXQd6EOZjWCT9QQQrsC0nCTZQ=/287x162/filters:strip_icc():quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/image/18190/champions-golf-2-3c2aa9.jpg"/>
+  </programme>
+  <programme channel="18190" start="20260420230000 +0000" stop="20260421020000 +0000">
+    <title lang="id">FORD CHAMPIONSHIP presented by Wild Horse Pass</title>
+    <desc lang="id">ROUND 1</desc>
+    <icon src="https://thumbor.prod.vidiocdn.com/IccXQd6EOZjWCT9QQQrsC0nCTZQ=/287x162/filters:strip_icc():quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/image/18190/champions-golf-2-3c2aa9.jpg"/>
+  </programme>
+  <programme channel="18190" start="20260421020000 +0000" stop="20260421033000 +0000">
+    <title lang="id">LPGA 2024</title>
+    <desc lang="id">HIGHLIGHT</desc>
+    <icon src="https://thumbor.prod.vidiocdn.com/IccXQd6EOZjWCT9QQQrsC0nCTZQ=/287x162/filters:strip_icc():quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/image/18190/champions-golf-2-3c2aa9.jpg"/>
+  </programme>
+  <programme channel="18190" start="20260421033000 +0000" stop="20260421090000 +0000">
+    <title lang="id">HSBC WOMEN'S WORLD CHAMPIONSHIP</title>
+    <desc lang="id">ROUND 3</desc>
+    <icon src="https://thumbor.prod.vidiocdn.com/IccXQd6EOZjWCT9QQQrsC0nCTZQ=/287x162/filters:strip_icc():quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/image/18190/champions-golf-2-3c2aa9.jpg"/>
+  </programme>
+  <programme channel="18190" start="20260421090000 +0000" stop="20260421100000 +0000">
+    <title lang="id">ISPS HANDA WOMEN'S Scottish Open</title>
+    <desc lang="id">HIGHLIGHT</desc>
+    <icon src="https://thumbor.prod.vidiocdn.com/IccXQd6EOZjWCT9QQQrsC0nCTZQ=/287x162/filters:strip_icc():quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/image/18190/champions-golf-2-3c2aa9.jpg"/>
+  </programme>
+  <programme channel="18190" start="20260421100000 +0000" stop="20260421130000 +0000">
+    <title lang="id">JM EAGLE LA CHAMPIONSHIP Presented by Plastpro</title>
+    <desc lang="id">ROUND 1</desc>
+    <icon src="https://thumbor.prod.vidiocdn.com/IccXQd6EOZjWCT9QQQrsC0nCTZQ=/287x162/filters:strip_icc():quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/image/18190/champions-golf-2-3c2aa9.jpg"/>
+  </programme>
+  <programme channel="18190" start="20260421130000 +0000" stop="20260421170000 +0000">
+    <title lang="id">ARAMCO CHAMPIONSHIP</title>
+    <desc lang="id">ROUND 2</desc>
+    <icon src="https://thumbor.prod.vidiocdn.com/IccXQd6EOZjWCT9QQQrsC0nCTZQ=/287x162/filters:strip_icc():quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/image/18190/champions-golf-2-3c2aa9.jpg"/>
+  </programme>
+  <programme channel="18190" start="20260421130000 +0000" stop="20260421170000 +0000">
+    <title lang="id">ARAMCO CHAMPIONSHIP</title>
+    <desc lang="id">ROUND 2</desc>
+    <icon src="https://thumbor.prod.vidiocdn.com/IccXQd6EOZjWCT9QQQrsC0nCTZQ=/287x162/filters:strip_icc():quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/image/18190/champions-golf-2-3c2aa9.jpg"/>
+  </programme>
+  <programme channel="18190" start="20260421170000 +0000" stop="20260421200000 +0000">
+    <title lang="id">JM EAGLE LA CHAMPIONSHIP Presented by Plastpro</title>
+    <desc lang="id">ROUND 2</desc>
+    <icon src="https://thumbor.prod.vidiocdn.com/IccXQd6EOZjWCT9QQQrsC0nCTZQ=/287x162/filters:strip_icc():quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/image/18190/champions-golf-2-3c2aa9.jpg"/>
+  </programme>
+  <programme channel="18190" start="20260421200000 +0000" stop="20260421233000 +0000">
+    <title lang="id">FORTINIET FOUNDER'S CUP</title>
+    <desc lang="id">ROUND 2</desc>
+    <icon src="https://thumbor.prod.vidiocdn.com/IccXQd6EOZjWCT9QQQrsC0nCTZQ=/287x162/filters:strip_icc():quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/image/18190/champions-golf-2-3c2aa9.jpg"/>
+  </programme>
+  <programme channel="18190" start="20260421233000 +0000" stop="20260422020000 +0000">
+    <title lang="id">FORD CHAMPIONSHIP presented by Wild Horse Pass</title>
+    <desc lang="id">ROUND 2</desc>
+    <icon src="https://thumbor.prod.vidiocdn.com/IccXQd6EOZjWCT9QQQrsC0nCTZQ=/287x162/filters:strip_icc():quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/image/18190/champions-golf-2-3c2aa9.jpg"/>
+  </programme>
+  <programme channel="18190" start="20260422020000 +0000" stop="20260422033000 +0000">
+    <title lang="id">LPGA 2025</title>
+    <desc lang="id">HIGHLIGHT</desc>
+    <icon src="https://thumbor.prod.vidiocdn.com/IccXQd6EOZjWCT9QQQrsC0nCTZQ=/287x162/filters:strip_icc():quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/image/18190/champions-golf-2-3c2aa9.jpg"/>
+  </programme>
+  <programme channel="18190" start="20260422033000 +0000" stop="20260422090000 +0000">
+    <title lang="id">HSBC WOMEN'S WORLD CHAMPIONSHIP</title>
+    <desc lang="id">FINAL ROUND</desc>
+    <icon src="https://thumbor.prod.vidiocdn.com/IccXQd6EOZjWCT9QQQrsC0nCTZQ=/287x162/filters:strip_icc():quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/image/18190/champions-golf-2-3c2aa9.jpg"/>
+  </programme>
+  <programme channel="18190" start="20260422090000 +0000" stop="20260422093000 +0000">
+    <title lang="id">DRIVE ON: LPGA ALL ACCESS</title>
+    <desc lang="id">EPISODE 5</desc>
+    <icon src="https://thumbor.prod.vidiocdn.com/IccXQd6EOZjWCT9QQQrsC0nCTZQ=/287x162/filters:strip_icc():quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/image/18190/champions-golf-2-3c2aa9.jpg"/>
+  </programme>
+  <programme channel="18190" start="20260422093000 +0000" stop="20260422123000 +0000">
+    <title lang="id">JM EAGLE LA CHAMPIONSHIP Presented by Plastpro</title>
+    <desc lang="id">ROUND 2</desc>
+    <icon src="https://thumbor.prod.vidiocdn.com/IccXQd6EOZjWCT9QQQrsC0nCTZQ=/287x162/filters:strip_icc():quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/image/18190/champions-golf-2-3c2aa9.jpg"/>
+  </programme>
+  <programme channel="18190" start="20260422123000 +0000" stop="20260422170000 +0000">
+    <title lang="id">ARAMCO CHAMPIONSHIP</title>
+    <desc lang="id">ROUND 3</desc>
+    <icon src="https://thumbor.prod.vidiocdn.com/IccXQd6EOZjWCT9QQQrsC0nCTZQ=/287x162/filters:strip_icc():quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/image/18190/champions-golf-2-3c2aa9.jpg"/>
+  </programme>
+  <programme channel="18190" start="20260422123000 +0000" stop="20260422170000 +0000">
+    <title lang="id">ARAMCO CHAMPIONSHIP</title>
+    <desc lang="id">ROUND 3</desc>
+    <icon src="https://thumbor.prod.vidiocdn.com/IccXQd6EOZjWCT9QQQrsC0nCTZQ=/287x162/filters:strip_icc():quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/image/18190/champions-golf-2-3c2aa9.jpg"/>
+  </programme>
+  <programme channel="18190" start="20260422170000 +0000" stop="20260422200000 +0000">
+    <title lang="id">JM EAGLE LA CHAMPIONSHIP Presented by Plastpro</title>
+    <desc lang="id">ROUND 3</desc>
+    <icon src="https://thumbor.prod.vidiocdn.com/IccXQd6EOZjWCT9QQQrsC0nCTZQ=/287x162/filters:strip_icc():quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/image/18190/champions-golf-2-3c2aa9.jpg"/>
+  </programme>
+  <programme channel="18190" start="20260422200000 +0000" stop="20260422230000 +0000">
+    <title lang="id">FORTINIET FOUNDER'S CUP</title>
+    <desc lang="id">ROUND 3</desc>
+    <icon src="https://thumbor.prod.vidiocdn.com/IccXQd6EOZjWCT9QQQrsC0nCTZQ=/287x162/filters:strip_icc():quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/image/18190/champions-golf-2-3c2aa9.jpg"/>
+  </programme>
+  <programme channel="18190" start="20260422230000 +0000" stop="20260423010000 +0000">
+    <title lang="id">FORD CHAMPIONSHIP presented by Wild Horse Pass</title>
+    <desc lang="id">ROUND 3</desc>
+    <icon src="https://thumbor.prod.vidiocdn.com/IccXQd6EOZjWCT9QQQrsC0nCTZQ=/287x162/filters:strip_icc():quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/image/18190/champions-golf-2-3c2aa9.jpg"/>
+  </programme>
+  <programme channel="18190" start="20260423010000 +0000" stop="20260423023000 +0000">
+    <title lang="id">FORD CHAMPIONSHIP presented by Wild Horse Pass</title>
+    <desc lang="id">FINAL ROUND</desc>
+    <icon src="https://thumbor.prod.vidiocdn.com/IccXQd6EOZjWCT9QQQrsC0nCTZQ=/287x162/filters:strip_icc():quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/image/18190/champions-golf-2-3c2aa9.jpg"/>
+  </programme>
+  <programme channel="18190" start="20260423023000 +0000" stop="20260423033000 +0000">
+    <title lang="id">LPGA 2026</title>
+    <desc lang="id">HIGHLIGHT</desc>
+    <icon src="https://thumbor.prod.vidiocdn.com/IccXQd6EOZjWCT9QQQrsC0nCTZQ=/287x162/filters:strip_icc():quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/image/18190/champions-golf-2-3c2aa9.jpg"/>
+  </programme>
+  <programme channel="18190" start="20260423033000 +0000" stop="20260423090000 +0000">
+    <title lang="id">BLUE BAY LPGA</title>
+    <desc lang="id">ROUND 3</desc>
+    <icon src="https://thumbor.prod.vidiocdn.com/IccXQd6EOZjWCT9QQQrsC0nCTZQ=/287x162/filters:strip_icc():quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/image/18190/champions-golf-2-3c2aa9.jpg"/>
+  </programme>
+  <programme channel="18190" start="20260423090000 +0000" stop="20260423103000 +0000">
+    <title lang="id">LPGA 2026</title>
+    <desc lang="id">HIGHLIGHT</desc>
+    <icon src="https://thumbor.prod.vidiocdn.com/IccXQd6EOZjWCT9QQQrsC0nCTZQ=/287x162/filters:strip_icc():quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/image/18190/champions-golf-2-3c2aa9.jpg"/>
+  </programme>
+  <programme channel="18190" start="20260423103000 +0000" stop="20260423133000 +0000">
+    <title lang="id">JM EAGLE LA CHAMPIONSHIP Presented by Plastpro</title>
+    <desc lang="id">ROUND 3</desc>
+    <icon src="https://thumbor.prod.vidiocdn.com/IccXQd6EOZjWCT9QQQrsC0nCTZQ=/287x162/filters:strip_icc():quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/image/18190/champions-golf-2-3c2aa9.jpg"/>
+  </programme>
+  <programme channel="18190" start="20260423133000 +0000" stop="20260423170000 +0000">
+    <title lang="id">ARAMCO CHAMPIONSHIP</title>
+    <desc lang="id">FINAL ROUND</desc>
+    <icon src="https://thumbor.prod.vidiocdn.com/IccXQd6EOZjWCT9QQQrsC0nCTZQ=/287x162/filters:strip_icc():quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/image/18190/champions-golf-2-3c2aa9.jpg"/>
+  </programme>
   <programme channel="18189" start="20260416160000 +0000" stop="20260416170000 +0000">
     <title lang="id">Valero Texas Open</title>
     <desc lang="id">Highlight</desc>
@@ -10877,6 +11067,231 @@
   </programme>
   <programme channel="18189" start="20260419160000 +0000" stop="20260419165900 +0000">
     <title lang="id">Valero Texas Open</title>
+    <desc lang="id">Highlight</desc>
+    <icon src="https://thumbor.prod.vidiocdn.com/84KfVJ1EkCZE1TUxZXNvtr5sNmk=/287x162/filters:strip_icc():quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/image/18189/champions-golf-1-ffdd6c.jpg"/>
+  </programme>
+  <programme channel="18189" start="20260419170000 +0000" stop="20260419220000 +0000">
+    <title lang="id">RBC Heritage</title>
+    <desc lang="id">Round 4</desc>
+    <icon src="https://thumbor.prod.vidiocdn.com/84KfVJ1EkCZE1TUxZXNvtr5sNmk=/287x162/filters:strip_icc():quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/image/18189/champions-golf-1-ffdd6c.jpg"/>
+  </programme>
+  <programme channel="18189" start="20260419220000 +0000" stop="20260419230000 +0000">
+    <title lang="id">Valero Texas Open</title>
+    <desc lang="id">Highlight</desc>
+    <icon src="https://thumbor.prod.vidiocdn.com/84KfVJ1EkCZE1TUxZXNvtr5sNmk=/287x162/filters:strip_icc():quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/image/18189/champions-golf-1-ffdd6c.jpg"/>
+  </programme>
+  <programme channel="18189" start="20260419230000 +0000" stop="20260420003000 +0000">
+    <title lang="id">On The Range 2026</title>
+    <desc lang="id">Eps 06</desc>
+    <icon src="https://thumbor.prod.vidiocdn.com/84KfVJ1EkCZE1TUxZXNvtr5sNmk=/287x162/filters:strip_icc():quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/image/18189/champions-golf-1-ffdd6c.jpg"/>
+  </programme>
+  <programme channel="18189" start="20260420003000 +0000" stop="20260420043000 +0000">
+    <title lang="id">RBC Heritage</title>
+    <desc lang="id">Round 2</desc>
+    <icon src="https://thumbor.prod.vidiocdn.com/84KfVJ1EkCZE1TUxZXNvtr5sNmk=/287x162/filters:strip_icc():quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/image/18189/champions-golf-1-ffdd6c.jpg"/>
+  </programme>
+  <programme channel="18189" start="20260420043000 +0000" stop="20260420050000 +0000">
+    <title lang="id">The CUT 2026</title>
+    <desc lang="id">Eps 11</desc>
+    <icon src="https://thumbor.prod.vidiocdn.com/84KfVJ1EkCZE1TUxZXNvtr5sNmk=/287x162/filters:strip_icc():quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/image/18189/champions-golf-1-ffdd6c.jpg"/>
+  </programme>
+  <programme channel="18189" start="20260420050000 +0000" stop="20260420100000 +0000">
+    <title lang="id">RBC Heritage</title>
+    <desc lang="id">Round 4</desc>
+    <icon src="https://thumbor.prod.vidiocdn.com/84KfVJ1EkCZE1TUxZXNvtr5sNmk=/287x162/filters:strip_icc():quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/image/18189/champions-golf-1-ffdd6c.jpg"/>
+  </programme>
+  <programme channel="18189" start="20260420100000 +0000" stop="20260420110000 +0000">
+    <title lang="id">FedEXCup Playoffs 2025</title>
+    <desc lang="id">Officials Film</desc>
+    <icon src="https://thumbor.prod.vidiocdn.com/84KfVJ1EkCZE1TUxZXNvtr5sNmk=/287x162/filters:strip_icc():quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/image/18189/champions-golf-1-ffdd6c.jpg"/>
+  </programme>
+  <programme channel="18189" start="20260420110000 +0000" stop="20260420160000 +0000">
+    <title lang="id">RBC Heritage</title>
+    <desc lang="id">Round 3</desc>
+    <icon src="https://thumbor.prod.vidiocdn.com/84KfVJ1EkCZE1TUxZXNvtr5sNmk=/287x162/filters:strip_icc():quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/image/18189/champions-golf-1-ffdd6c.jpg"/>
+  </programme>
+  <programme channel="18189" start="20260420160000 +0000" stop="20260420170000 +0000">
+    <title lang="id">RBC Heritage</title>
+    <desc lang="id">Highlight</desc>
+    <icon src="https://thumbor.prod.vidiocdn.com/84KfVJ1EkCZE1TUxZXNvtr5sNmk=/287x162/filters:strip_icc():quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/image/18189/champions-golf-1-ffdd6c.jpg"/>
+  </programme>
+  <programme channel="18189" start="20260420160000 +0000" stop="20260420170000 +0000">
+    <title lang="id">RBC Heritage</title>
+    <desc lang="id">Highlight</desc>
+    <icon src="https://thumbor.prod.vidiocdn.com/84KfVJ1EkCZE1TUxZXNvtr5sNmk=/287x162/filters:strip_icc():quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/image/18189/champions-golf-1-ffdd6c.jpg"/>
+  </programme>
+  <programme channel="18189" start="20260420170000 +0000" stop="20260420200000 +0000">
+    <title lang="id">Valero Texas Open</title>
+    <desc lang="id">Round 1</desc>
+    <icon src="https://thumbor.prod.vidiocdn.com/84KfVJ1EkCZE1TUxZXNvtr5sNmk=/287x162/filters:strip_icc():quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/image/18189/champions-golf-1-ffdd6c.jpg"/>
+  </programme>
+  <programme channel="18189" start="20260420200000 +0000" stop="20260420230000 +0000">
+    <title lang="id">Valero Texas Open</title>
+    <desc lang="id">Round 2</desc>
+    <icon src="https://thumbor.prod.vidiocdn.com/84KfVJ1EkCZE1TUxZXNvtr5sNmk=/287x162/filters:strip_icc():quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/image/18189/champions-golf-1-ffdd6c.jpg"/>
+  </programme>
+  <programme channel="18189" start="20260420230000 +0000" stop="20260421003000 +0000">
+    <title lang="id">On The Range 2026</title>
+    <desc lang="id">Eps 05</desc>
+    <icon src="https://thumbor.prod.vidiocdn.com/84KfVJ1EkCZE1TUxZXNvtr5sNmk=/287x162/filters:strip_icc():quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/image/18189/champions-golf-1-ffdd6c.jpg"/>
+  </programme>
+  <programme channel="18189" start="20260421003000 +0000" stop="20260421043000 +0000">
+    <title lang="id">RBC Heritage</title>
+    <desc lang="id">Round 1</desc>
+    <icon src="https://thumbor.prod.vidiocdn.com/84KfVJ1EkCZE1TUxZXNvtr5sNmk=/287x162/filters:strip_icc():quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/image/18189/champions-golf-1-ffdd6c.jpg"/>
+  </programme>
+  <programme channel="18189" start="20260421043000 +0000" stop="20260421050000 +0000">
+    <title lang="id">The CUT 2026</title>
+    <desc lang="id">Eps 12</desc>
+    <icon src="https://thumbor.prod.vidiocdn.com/84KfVJ1EkCZE1TUxZXNvtr5sNmk=/287x162/filters:strip_icc():quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/image/18189/champions-golf-1-ffdd6c.jpg"/>
+  </programme>
+  <programme channel="18189" start="20260421050000 +0000" stop="20260421060000 +0000">
+    <title lang="id">The PLAYERS Championship 2023</title>
+    <desc lang="id">Officials Film</desc>
+    <icon src="https://thumbor.prod.vidiocdn.com/84KfVJ1EkCZE1TUxZXNvtr5sNmk=/287x162/filters:strip_icc():quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/image/18189/champions-golf-1-ffdd6c.jpg"/>
+  </programme>
+  <programme channel="18189" start="20260421060000 +0000" stop="20260421073000 +0000">
+    <title lang="id">On The Range 2026</title>
+    <desc lang="id">Eps 06</desc>
+    <icon src="https://thumbor.prod.vidiocdn.com/84KfVJ1EkCZE1TUxZXNvtr5sNmk=/287x162/filters:strip_icc():quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/image/18189/champions-golf-1-ffdd6c.jpg"/>
+  </programme>
+  <programme channel="18189" start="20260421073000 +0000" stop="20260421083000 +0000">
+    <title lang="id">RBC Heritage</title>
+    <desc lang="id">Highlight</desc>
+    <icon src="https://thumbor.prod.vidiocdn.com/84KfVJ1EkCZE1TUxZXNvtr5sNmk=/287x162/filters:strip_icc():quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/image/18189/champions-golf-1-ffdd6c.jpg"/>
+  </programme>
+  <programme channel="18189" start="20260421083000 +0000" stop="20260421123000 +0000">
+    <title lang="id">RBC Heritage</title>
+    <desc lang="id">Round 2</desc>
+    <icon src="https://thumbor.prod.vidiocdn.com/84KfVJ1EkCZE1TUxZXNvtr5sNmk=/287x162/filters:strip_icc():quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/image/18189/champions-golf-1-ffdd6c.jpg"/>
+  </programme>
+  <programme channel="18189" start="20260421123000 +0000" stop="20260421153000 +0000">
+    <title lang="id">Valero Texas Open</title>
+    <desc lang="id">Round 2</desc>
+    <icon src="https://thumbor.prod.vidiocdn.com/84KfVJ1EkCZE1TUxZXNvtr5sNmk=/287x162/filters:strip_icc():quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/image/18189/champions-golf-1-ffdd6c.jpg"/>
+  </programme>
+  <programme channel="18189" start="20260421153000 +0000" stop="20260421170000 +0000">
+    <title lang="id">On The Range 2026</title>
+    <desc lang="id">EPs 04</desc>
+    <icon src="https://thumbor.prod.vidiocdn.com/84KfVJ1EkCZE1TUxZXNvtr5sNmk=/287x162/filters:strip_icc():quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/image/18189/champions-golf-1-ffdd6c.jpg"/>
+  </programme>
+  <programme channel="18189" start="20260421153000 +0000" stop="20260421170000 +0000">
+    <title lang="id">On The Range 2026</title>
+    <desc lang="id">EPs 04</desc>
+    <icon src="https://thumbor.prod.vidiocdn.com/84KfVJ1EkCZE1TUxZXNvtr5sNmk=/287x162/filters:strip_icc():quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/image/18189/champions-golf-1-ffdd6c.jpg"/>
+  </programme>
+  <programme channel="18189" start="20260421170000 +0000" stop="20260421223000 +0000">
+    <title lang="id">Valero Texas Open</title>
+    <desc lang="id">Round 4</desc>
+    <icon src="https://thumbor.prod.vidiocdn.com/84KfVJ1EkCZE1TUxZXNvtr5sNmk=/287x162/filters:strip_icc():quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/image/18189/champions-golf-1-ffdd6c.jpg"/>
+  </programme>
+  <programme channel="18189" start="20260421223000 +0000" stop="20260421230000 +0000">
+    <title lang="id">The CUT 2026</title>
+    <desc lang="id">Eps 11</desc>
+    <icon src="https://thumbor.prod.vidiocdn.com/84KfVJ1EkCZE1TUxZXNvtr5sNmk=/287x162/filters:strip_icc():quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/image/18189/champions-golf-1-ffdd6c.jpg"/>
+  </programme>
+  <programme channel="18189" start="20260421230000 +0000" stop="20260422003000 +0000">
+    <title lang="id">On The Range 2026</title>
+    <desc lang="id">EPs 04</desc>
+    <icon src="https://thumbor.prod.vidiocdn.com/84KfVJ1EkCZE1TUxZXNvtr5sNmk=/287x162/filters:strip_icc():quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/image/18189/champions-golf-1-ffdd6c.jpg"/>
+  </programme>
+  <programme channel="18189" start="20260422003000 +0000" stop="20260422053000 +0000">
+    <title lang="id">RBC Heritage</title>
+    <desc lang="id">Round 3</desc>
+    <icon src="https://thumbor.prod.vidiocdn.com/84KfVJ1EkCZE1TUxZXNvtr5sNmk=/287x162/filters:strip_icc():quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/image/18189/champions-golf-1-ffdd6c.jpg"/>
+  </programme>
+  <programme channel="18189" start="20260422053000 +0000" stop="20260422060000 +0000">
+    <title lang="id">The CUT 2026</title>
+    <desc lang="id">Eps 13</desc>
+    <icon src="https://thumbor.prod.vidiocdn.com/84KfVJ1EkCZE1TUxZXNvtr5sNmk=/287x162/filters:strip_icc():quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/image/18189/champions-golf-1-ffdd6c.jpg"/>
+  </programme>
+  <programme channel="18189" start="20260422060000 +0000" stop="20260422070000 +0000">
+    <title lang="id">The PLAYERS Championship 2024</title>
+    <desc lang="id">Officials Film</desc>
+    <icon src="https://thumbor.prod.vidiocdn.com/84KfVJ1EkCZE1TUxZXNvtr5sNmk=/287x162/filters:strip_icc():quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/image/18189/champions-golf-1-ffdd6c.jpg"/>
+  </programme>
+  <programme channel="18189" start="20260422070000 +0000" stop="20260422083000 +0000">
+    <title lang="id">On The Range 2026</title>
+    <desc lang="id">Eps 06</desc>
+    <icon src="https://thumbor.prod.vidiocdn.com/84KfVJ1EkCZE1TUxZXNvtr5sNmk=/287x162/filters:strip_icc():quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/image/18189/champions-golf-1-ffdd6c.jpg"/>
+  </programme>
+  <programme channel="18189" start="20260422083000 +0000" stop="20260422093000 +0000">
+    <title lang="id">Valero Texas Open</title>
+    <desc lang="id">Highlight</desc>
+    <icon src="https://thumbor.prod.vidiocdn.com/84KfVJ1EkCZE1TUxZXNvtr5sNmk=/287x162/filters:strip_icc():quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/image/18189/champions-golf-1-ffdd6c.jpg"/>
+  </programme>
+  <programme channel="18189" start="20260422093000 +0000" stop="20260422143000 +0000">
+    <title lang="id">RBC Heritage</title>
+    <desc lang="id">Round 4</desc>
+    <icon src="https://thumbor.prod.vidiocdn.com/84KfVJ1EkCZE1TUxZXNvtr5sNmk=/287x162/filters:strip_icc():quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/image/18189/champions-golf-1-ffdd6c.jpg"/>
+  </programme>
+  <programme channel="18189" start="20260422143000 +0000" stop="20260422160000 +0000">
+    <title lang="id">On The Range 2026</title>
+    <desc lang="id">Eps 05</desc>
+    <icon src="https://thumbor.prod.vidiocdn.com/84KfVJ1EkCZE1TUxZXNvtr5sNmk=/287x162/filters:strip_icc():quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/image/18189/champions-golf-1-ffdd6c.jpg"/>
+  </programme>
+  <programme channel="18189" start="20260422160000 +0000" stop="20260422170000 +0000">
+    <title lang="id">RBC Heritage</title>
+    <desc lang="id">Highlight</desc>
+    <icon src="https://thumbor.prod.vidiocdn.com/84KfVJ1EkCZE1TUxZXNvtr5sNmk=/287x162/filters:strip_icc():quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/image/18189/champions-golf-1-ffdd6c.jpg"/>
+  </programme>
+  <programme channel="18189" start="20260422160000 +0000" stop="20260422170000 +0000">
+    <title lang="id">RBC Heritage</title>
+    <desc lang="id">Highlight</desc>
+    <icon src="https://thumbor.prod.vidiocdn.com/84KfVJ1EkCZE1TUxZXNvtr5sNmk=/287x162/filters:strip_icc():quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/image/18189/champions-golf-1-ffdd6c.jpg"/>
+  </programme>
+  <programme channel="18189" start="20260422170000 +0000" stop="20260422180000 +0000">
+    <title lang="id">The PLAYERS Championship 2019</title>
+    <desc lang="id">Officials Film</desc>
+    <icon src="https://thumbor.prod.vidiocdn.com/84KfVJ1EkCZE1TUxZXNvtr5sNmk=/287x162/filters:strip_icc():quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/image/18189/champions-golf-1-ffdd6c.jpg"/>
+  </programme>
+  <programme channel="18189" start="20260422180000 +0000" stop="20260422230000 +0000">
+    <title lang="id">Texas Children's Houston Open</title>
+    <desc lang="id">Round 3</desc>
+    <icon src="https://thumbor.prod.vidiocdn.com/84KfVJ1EkCZE1TUxZXNvtr5sNmk=/287x162/filters:strip_icc():quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/image/18189/champions-golf-1-ffdd6c.jpg"/>
+  </programme>
+  <programme channel="18189" start="20260422230000 +0000" stop="20260423003000 +0000">
+    <title lang="id">On The Range 2026</title>
+    <desc lang="id">Eps 06</desc>
+    <icon src="https://thumbor.prod.vidiocdn.com/84KfVJ1EkCZE1TUxZXNvtr5sNmk=/287x162/filters:strip_icc():quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/image/18189/champions-golf-1-ffdd6c.jpg"/>
+  </programme>
+  <programme channel="18189" start="20260423003000 +0000" stop="20260423053000 +0000">
+    <title lang="id">RBC Heritage</title>
+    <desc lang="id">Round 4</desc>
+    <icon src="https://thumbor.prod.vidiocdn.com/84KfVJ1EkCZE1TUxZXNvtr5sNmk=/287x162/filters:strip_icc():quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/image/18189/champions-golf-1-ffdd6c.jpg"/>
+  </programme>
+  <programme channel="18189" start="20260423053000 +0000" stop="20260423060000 +0000">
+    <title lang="id">The CUT 2026</title>
+    <desc lang="id">Eps 13</desc>
+    <icon src="https://thumbor.prod.vidiocdn.com/84KfVJ1EkCZE1TUxZXNvtr5sNmk=/287x162/filters:strip_icc():quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/image/18189/champions-golf-1-ffdd6c.jpg"/>
+  </programme>
+  <programme channel="18189" start="20260423060000 +0000" stop="20260423070000 +0000">
+    <title lang="id">The PLAYERS Championship 2025</title>
+    <desc lang="id">Officials Film</desc>
+    <icon src="https://thumbor.prod.vidiocdn.com/84KfVJ1EkCZE1TUxZXNvtr5sNmk=/287x162/filters:strip_icc():quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/image/18189/champions-golf-1-ffdd6c.jpg"/>
+  </programme>
+  <programme channel="18189" start="20260423070000 +0000" stop="20260423083000 +0000">
+    <title lang="id">On The Range 2026</title>
+    <desc lang="id">Eps 05</desc>
+    <icon src="https://thumbor.prod.vidiocdn.com/84KfVJ1EkCZE1TUxZXNvtr5sNmk=/287x162/filters:strip_icc():quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/image/18189/champions-golf-1-ffdd6c.jpg"/>
+  </programme>
+  <programme channel="18189" start="20260423083000 +0000" stop="20260423093000 +0000">
+    <title lang="id">Hoag Classic</title>
+    <desc lang="id">Highlight</desc>
+    <icon src="https://thumbor.prod.vidiocdn.com/84KfVJ1EkCZE1TUxZXNvtr5sNmk=/287x162/filters:strip_icc():quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/image/18189/champions-golf-1-ffdd6c.jpg"/>
+  </programme>
+  <programme channel="18189" start="20260423093000 +0000" stop="20260423143000 +0000">
+    <title lang="id">Texas Children's Houston Open</title>
+    <desc lang="id">Round 4</desc>
+    <icon src="https://thumbor.prod.vidiocdn.com/84KfVJ1EkCZE1TUxZXNvtr5sNmk=/287x162/filters:strip_icc():quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/image/18189/champions-golf-1-ffdd6c.jpg"/>
+  </programme>
+  <programme channel="18189" start="20260423143000 +0000" stop="20260423160000 +0000">
+    <title lang="id">On The Range 2026</title>
+    <desc lang="id">Eps 04</desc>
+    <icon src="https://thumbor.prod.vidiocdn.com/84KfVJ1EkCZE1TUxZXNvtr5sNmk=/287x162/filters:strip_icc():quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/image/18189/champions-golf-1-ffdd6c.jpg"/>
+  </programme>
+  <programme channel="18189" start="20260423160000 +0000" stop="20260423170000 +0000">
+    <title lang="id">Club Car Championship</title>
     <desc lang="id">Highlight</desc>
     <icon src="https://thumbor.prod.vidiocdn.com/84KfVJ1EkCZE1TUxZXNvtr5sNmk=/287x162/filters:strip_icc():quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/image/18189/champions-golf-1-ffdd6c.jpg"/>
   </programme>

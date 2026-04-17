@@ -9172,10 +9172,10 @@
 <programme start="20260417103000 +0000" stop="20260417114500 +0000" channel="Trans TV.mncvision">
     <title>Bikin Laper</title>
 </programme>
-<programme start="20260417114500 +0000" stop="20260417133000 +0000" channel="Trans TV.mncvision">
+<programme start="20260417114500 +0000" stop="20260417130000 +0000" channel="Trans TV.mncvision">
     <title>Insert Story</title>
 </programme>
-<programme start="20260417133000 +0000" stop="20260417140000 +0000" channel="Trans TV.mncvision">
+<programme start="20260417130000 +0000" stop="20260417140000 +0000" channel="Trans TV.mncvision">
     <title>Dunia Punya Cerita</title>
 </programme>
 <programme start="20260417140000 +0000" stop="20260417160000 +0000" channel="Trans TV.mncvision">
