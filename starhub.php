@@ -3856,6 +3856,210 @@
     <programme start="20260418151500 +0000" stop="20260418160000 +0000" channel="Cartoon Network.starhub">
         <title>Doug Out/The Good Lars/Are You My Dad?</title>
     </programme>
+    <programme start="20260417153000 +0000" stop="20260417161300 +0000" channel="NHK World Premium HD.starhub">
+        <title>Samurai Drama Selections &quot;Moshichi 2&quot; Ep. 9 (R)</title>
+    </programme>
+    <programme start="20260417161300 +0000" stop="20260417161500 +0000" channel="NHK World Premium HD.starhub">
+        <title>Mini Program</title>
+    </programme>
+    <programme start="20260417161500 +0000" stop="20260417164000 +0000" channel="NHK World Premium HD.starhub">
+        <title>My Gardening (R)</title>
+    </programme>
+    <programme start="20260417164000 +0000" stop="20260417171000 +0000" channel="NHK World Premium HD.starhub">
+        <title>Go Focus</title>
+    </programme>
+    <programme start="20260417171000 +0000" stop="20260417173000 +0000" channel="NHK World Premium HD.starhub">
+        <title>Chinese Navi</title>
+    </programme>
+    <programme start="20260417173000 +0000" stop="20260417174000 +0000" channel="NHK World Premium HD.starhub">
+        <title>Mimicries--Natural Science for Kids (R)</title>
+    </programme>
+    <programme start="20260417174000 +0000" stop="20260417174500 +0000" channel="NHK World Premium HD.starhub">
+        <title>World Weather</title>
+    </programme>
+    <programme start="20260417174500 +0000" stop="20260417180000 +0000" channel="NHK World Premium HD.starhub">
+        <title>Kid&#039;s Discovery (R)</title>
+    </programme>
+    <programme start="20260417180000 +0000" stop="20260417182500 +0000" channel="NHK World Premium HD.starhub">
+        <title>With Mother (R)</title>
+    </programme>
+    <programme start="20260417182500 +0000" stop="20260417183000 +0000" channel="NHK World Premium HD.starhub">
+        <title>Fun with Okinawa Dialects (R)</title>
+    </programme>
+    <programme start="20260417183000 +0000" stop="20260417184500 +0000" channel="NHK World Premium HD.starhub">
+        <title>Drama Serial &quot;The Scent of the Wind&quot; Ep. 15 (R)</title>
+    </programme>
+    <programme start="20260417184500 +0000" stop="20260417193000 +0000" channel="NHK World Premium HD.starhub">
+        <title>Saturday Drama &quot;Owakare Hospital 2&quot; Part 2 (Final) (R)</title>
+    </programme>
+    <programme start="20260417193000 +0000" stop="20260417193500 +0000" channel="NHK World Premium HD.starhub">
+        <title>Japan Genesis: Pilgrimage to the Land of the Gods 5min.</title>
+    </programme>
+    <programme start="20260417193500 +0000" stop="20260417195800 +0000" channel="NHK World Premium HD.starhub">
+        <title>Delicious Japan! (R)</title>
+    </programme>
+    <programme start="20260417195800 +0000" stop="20260417200000 +0000" channel="NHK World Premium HD.starhub">
+        <title>World Weather</title>
+    </programme>
+    <programme start="20260417200000 +0000" stop="20260417201000 +0000" channel="NHK World Premium HD.starhub">
+        <title>TV Exercise</title>
+    </programme>
+    <programme start="20260417201000 +0000" stop="20260417202500 +0000" channel="NHK World Premium HD.starhub">
+        <title>Natural Grandeur of the East (R)</title>
+    </programme>
+    <programme start="20260417202500 +0000" stop="20260417205200 +0000" channel="NHK World Premium HD.starhub">
+        <title>NHK Regional Showcases: Kyoto Special</title>
+    </programme>
+    <programme start="20260417205200 +0000" stop="20260417205500 +0000" channel="NHK World Premium HD.starhub">
+        <title>Mini Program</title>
+    </programme>
+    <programme start="20260417205500 +0000" stop="20260417210000 +0000" channel="NHK World Premium HD.starhub">
+        <title>World Weather</title>
+    </programme>
+    <programme start="20260417210000 +0000" stop="20260417220000 +0000" channel="NHK World Premium HD.starhub">
+        <title>News: Good Morning, Japan</title>
+    </programme>
+    <programme start="20260417220000 +0000" stop="20260417225900 +0000" channel="NHK World Premium HD.starhub">
+        <title>News: Good Morning, Japan</title>
+    </programme>
+    <programme start="20260417225900 +0000" stop="20260417230000 +0000" channel="NHK World Premium HD.starhub">
+        <title>World Weather</title>
+    </programme>
+    <programme start="20260417230000 +0000" stop="20260417231500 +0000" channel="NHK World Premium HD.starhub">
+        <title>Drama Serial &quot;The Scent of the Wind&quot; Week 3</title>
+    </programme>
+    <programme start="20260417231500 +0000" stop="20260418000000 +0000" channel="NHK World Premium HD.starhub">
+        <title>Trivia Quizzes--You&#039;ll Get Scolded by Chiko-chan! (R)</title>
+    </programme>
+    <programme start="20260418000000 +0000" stop="20260418002800 +0000" channel="NHK World Premium HD.starhub">
+        <title>Darwin&#039;s Amazing Animals &quot;Wild Boar&quot; (R)</title>
+    </programme>
+    <programme start="20260418002800 +0000" stop="20260418003000 +0000" channel="NHK World Premium HD.starhub">
+        <title>Mini Program</title>
+    </programme>
+    <programme start="20260418003000 +0000" stop="20260418010000 +0000" channel="NHK World Premium HD.starhub">
+        <title>Document 72 Hours (R)</title>
+    </programme>
+    <programme start="20260418010000 +0000" stop="20260418010500 +0000" channel="NHK World Premium HD.starhub">
+        <title>News &amp; Weather</title>
+    </programme>
+    <programme start="20260418010500 +0000" stop="20260418013300 +0000" channel="NHK World Premium HD.starhub">
+        <title>HIMU-BUS! - Pickup Bus Variety Show (R)</title>
+    </programme>
+    <programme start="20260418013300 +0000" stop="20260418020600 +0000" channel="NHK World Premium HD.starhub">
+        <title>The Visualization Entertainment: Go! Kaneo-kun (R)</title>
+    </programme>
+    <programme start="20260418020600 +0000" stop="20260418023000 +0000" channel="NHK World Premium HD.starhub">
+        <title>Delicious Japan!</title>
+    </programme>
+    <programme start="20260418023000 +0000" stop="20260418025000 +0000" channel="NHK World Premium HD.starhub">
+        <title>Documentary: 20 Minutes</title>
+    </programme>
+    <programme start="20260418025000 +0000" stop="20260418025600 +0000" channel="NHK World Premium HD.starhub">
+        <title>Songs for Everyone</title>
+    </programme>
+    <programme start="20260418025600 +0000" stop="20260418030000 +0000" channel="NHK World Premium HD.starhub">
+        <title>World Weather</title>
+    </programme>
+    <programme start="20260418030000 +0000" stop="20260418031500 +0000" channel="NHK World Premium HD.starhub">
+        <title>News</title>
+    </programme>
+    <programme start="20260418031500 +0000" stop="20260418034000 +0000" channel="NHK World Premium HD.starhub">
+        <title>Exploring Factories</title>
+    </programme>
+    <programme start="20260418034000 +0000" stop="20260418034500 +0000" channel="NHK World Premium HD.starhub">
+        <title>Fun with Okinawa Dialects</title>
+    </programme>
+    <programme start="20260418034500 +0000" stop="20260418040000 +0000" channel="NHK World Premium HD.starhub">
+        <title>Drama Serial &quot;The Scent of the Wind&quot; Week 3 (R)</title>
+    </programme>
+    <programme start="20260418040000 +0000" stop="20260418040500 +0000" channel="NHK World Premium HD.starhub">
+        <title>News &amp; Weather</title>
+    </programme>
+    <programme start="20260418040500 +0000" stop="20260418045000 +0000" channel="NHK World Premium HD.starhub">
+        <title>Historical Drama &quot;BROTHERS IN ARMS&quot; Ep. 14 (R)</title>
+    </programme>
+    <programme start="20260418045000 +0000" stop="20260418052000 +0000" channel="NHK World Premium HD.starhub">
+        <title>i&amp;AI (R)</title>
+    </programme>
+    <programme start="20260418052000 +0000" stop="20260418054500 +0000" channel="NHK World Premium HD.starhub">
+        <title>Gretel&#039;s Magical Oven (R)</title>
+    </programme>
+    <programme start="20260418054500 +0000" stop="20260418055500 +0000" channel="NHK World Premium HD.starhub">
+        <title>Darwin&#039;s Amazing Animals 10min.</title>
+    </programme>
+    <programme start="20260418055500 +0000" stop="20260418083000 +0000" channel="NHK World Premium HD.starhub">
+        <title>The 80th National Gymnastics Championships &quot;Women&quot; (End time subject to change.)</title>
+    </programme>
+    <programme start="20260418083000 +0000" stop="20260418083500 +0000" channel="NHK World Premium HD.starhub">
+        <title>Songs for Everyone (R)</title>
+    </programme>
+    <programme start="20260418083500 +0000" stop="20260418085900 +0000" channel="NHK World Premium HD.starhub">
+        <title>With Mother</title>
+    </programme>
+    <programme start="20260418085900 +0000" stop="20260418090000 +0000" channel="NHK World Premium HD.starhub">
+        <title>1-Minute Anime: Songs for SDGs</title>
+    </programme>
+    <programme start="20260418090000 +0000" stop="20260418090500 +0000" channel="NHK World Premium HD.starhub">
+        <title>News (B)</title>
+    </programme>
+    <programme start="20260418090500 +0000" stop="20260418093500 +0000" channel="NHK World Premium HD.starhub">
+        <title>Tokoro-san&#039;s Pursuit of Truth</title>
+    </programme>
+    <programme start="20260418093500 +0000" stop="20260418094500 +0000" channel="NHK World Premium HD.starhub">
+        <title>Fun with Japanese (R)</title>
+    </programme>
+    <programme start="20260418094500 +0000" stop="20260418095500 +0000" channel="NHK World Premium HD.starhub">
+        <title>Let&#039;s Enjoy English and Meets the World (R)</title>
+    </programme>
+    <programme start="20260418095500 +0000" stop="20260418100000 +0000" channel="NHK World Premium HD.starhub">
+        <title>World Weather</title>
+    </programme>
+    <programme start="20260418100000 +0000" stop="20260418103000 +0000" channel="NHK World Premium HD.starhub">
+        <title>NHK News 7 (B)</title>
+    </programme>
+    <programme start="20260418103000 +0000" stop="20260418111500 +0000" channel="NHK World Premium HD.starhub">
+        <title>Train Driver&#039;s Cab View</title>
+    </programme>
+    <programme start="20260418111500 +0000" stop="20260418114500 +0000" channel="NHK World Premium HD.starhub">
+        <title>Transcending Happiness &quot;Whether She is Haramichan or not&quot; (R)</title>
+    </programme>
+    <programme start="20260418114500 +0000" stop="20260418115300 +0000" channel="NHK World Premium HD.starhub">
+        <title>Train Driver&#039;s Cab View Mini</title>
+    </programme>
+    <programme start="20260418115300 +0000" stop="20260418115500 +0000" channel="NHK World Premium HD.starhub">
+        <title>World Weather</title>
+    </programme>
+    <programme start="20260418115500 +0000" stop="20260418120000 +0000" channel="NHK World Premium HD.starhub">
+        <title>News &amp; Weather</title>
+    </programme>
+    <programme start="20260418120000 +0000" stop="20260418130000 +0000" channel="NHK World Premium HD.starhub">
+        <title>Saturday Watch 9 (B)</title>
+    </programme>
+    <programme start="20260418130000 +0000" stop="20260418134500 +0000" channel="NHK World Premium HD.starhub">
+        <title>Saturday Drama &quot;Mary of Magdalene Restaurant&quot; Ep. 1（New）</title>
+    </programme>
+    <programme start="20260418134500 +0000" stop="20260418134900 +0000" channel="NHK World Premium HD.starhub">
+        <title>Mini Program</title>
+    </programme>
+    <programme start="20260418134900 +0000" stop="20260418135500 +0000" channel="NHK World Premium HD.starhub">
+        <title>Camera-eyed Japan</title>
+    </programme>
+    <programme start="20260418135500 +0000" stop="20260418140000 +0000" channel="NHK World Premium HD.starhub">
+        <title>News &amp; Weather</title>
+    </programme>
+    <programme start="20260418140000 +0000" stop="20260418143000 +0000" channel="NHK World Premium HD.starhub">
+        <title>Venue101</title>
+    </programme>
+    <programme start="20260418143000 +0000" stop="20260418150000 +0000" channel="NHK World Premium HD.starhub">
+        <title>Sleepless Night Talk with the Singer AI (R)</title>
+    </programme>
+    <programme start="20260418150000 +0000" stop="20260418153000 +0000" channel="NHK World Premium HD.starhub">
+        <title>With Father</title>
+    </programme>
+    <programme start="20260418153000 +0000" stop="20260418160000 +0000" channel="NHK World Premium HD.starhub">
+        <title>The Great Nature &quot;Wind-Shaped Miraculous Scenery&quot;</title>
+    </programme>
     <programme start="20260417144500 +0000" stop="20260417160500 +0000" channel="HBO HD.starhub">
         <title>Honey Don&#039;t!</title>
     </programme>
