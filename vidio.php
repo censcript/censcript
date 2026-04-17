@@ -8561,25 +8561,15 @@
     <desc lang="id">Inside Round 33</desc>
     <icon src="https://thumbor.prod.vidiocdn.com/edoqRinFCRhrRwQ2ngcXacb_q74=/287x162/filters:strip_icc():quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/image/6685/champions-tv-1-54e282.jpg"/>
   </programme>
-  <programme channel="6685" start="20260417150000 +0000" stop="20260417190000 +0000">
+  <programme channel="6685" start="20260417150000 +0000" stop="20260417213000 +0000">
     <title lang="id">Quarterfinals - WTA 500: Porsche Tennis Grand Prix 2026</title>
     <desc lang="id">Nonton streaming pertandingan seru Quarterfinals - WTA 500: Porsche Tennis Grand Prix 2026. Saksikan aksi-aksi terbaik dari tim yang bersaing ketat untuk meraih kemenangan. Dapatkan informasi lengkap mengenai jadwal pertandingan dan hasil pertandingan terbaru hanya di Vidio.</desc>
     <icon src="https://thumbor.prod.vidiocdn.com/4M8BcB3UQ26mqxWzVnQX_Sl47C8=/287x162/filters:strip_icc():quality(70)/vidio-media-production/uploads/livestreaming/schedule/thumbnail/5015482/b4e98d.jpg"/>
   </programme>
-  <programme channel="6685" start="20260417150000 +0000" stop="20260417190000 +0000">
+  <programme channel="6685" start="20260417150000 +0000" stop="20260417213000 +0000">
     <title lang="id">Quarterfinals - WTA 500: Porsche Tennis Grand Prix 2026</title>
     <desc lang="id">Nonton streaming pertandingan seru Quarterfinals - WTA 500: Porsche Tennis Grand Prix 2026. Saksikan aksi-aksi terbaik dari tim yang bersaing ketat untuk meraih kemenangan. Dapatkan informasi lengkap mengenai jadwal pertandingan dan hasil pertandingan terbaru hanya di Vidio.</desc>
     <icon src="https://thumbor.prod.vidiocdn.com/4M8BcB3UQ26mqxWzVnQX_Sl47C8=/287x162/filters:strip_icc():quality(70)/vidio-media-production/uploads/livestreaming/schedule/thumbnail/5015482/b4e98d.jpg"/>
-  </programme>
-  <programme channel="6685" start="20260417190000 +0000" stop="20260417210000 +0000">
-    <title lang="id">Blackburn Rovers vs Coventry City - EFL Championship</title>
-    <desc lang="id">Nonton streaming pertandingan seru Blackburn Rovers vs Coventry City - EFL Championship. Saksikan aksi-aksi terbaik dari tim yang bersaing ketat untuk meraih kemenangan. Dapatkan informasi lengkap mengenai jadwal pertandingan dan hasil pertandingan terbaru hanya di Vidio.</desc>
-    <icon src="https://thumbor.prod.vidiocdn.com/uml6bO1Mg-A1_dATorNMORIe2tU=/287x162/filters:strip_icc():quality(70)/vidio-media-production/uploads/livestreaming/schedule/thumbnail/5015483/e12ba7.jpg"/>
-  </programme>
-  <programme channel="6685" start="20260417210000 +0000" stop="20260417213000 +0000">
-    <title lang="id">Eps 42 : PL Story 2023/24 - Subs</title>
-    <desc lang="id">Eps 42</desc>
-    <icon src="https://thumbor.prod.vidiocdn.com/edoqRinFCRhrRwQ2ngcXacb_q74=/287x162/filters:strip_icc():quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/image/6685/champions-tv-1-54e282.jpg"/>
   </programme>
   <programme channel="6685" start="20260417213000 +0000" stop="20260417220000 +0000">
     <title lang="id">Eps 2 : MXGP Behind the Gate 2026</title>
