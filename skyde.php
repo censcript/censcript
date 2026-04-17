@@ -2615,16 +2615,16 @@
     <title>Es folgt: Live ATP Tour</title>
 </programme>
 <programme start="20260417090000 +0000" stop="20260417110000 +0000" channel="Sky Sport Austria 3 HD.skyde">
-    <title>Live ATP 500: VF1, BMW Open in München, Viertelfinale 1</title>
+    <title>Live ATP 500: F. Cobolli (ITA) - V. Kopriva (CZE), BMW Open in München, Viertelfinale 1</title>
 </programme>
 <programme start="20260417110000 +0000" stop="20260417130000 +0000" channel="Sky Sport Austria 3 HD.skyde">
-    <title>Live ATP 500: VF2, BMW Open in München, Viertelfinale 2</title>
+    <title>Live ATP 500: A. Zverev (GER) - F. Cerundolo (ARG), BMW Open in München, Viertelfinale 2</title>
 </programme>
 <programme start="20260417130000 +0000" stop="20260417150000 +0000" channel="Sky Sport Austria 3 HD.skyde">
-    <title>Live ATP 500: VF3, BMW Open in München, Viertelfinale 3</title>
+    <title>Live ATP 500: J. Fonseca (BRA) - B. Shelton (USA), BMW Open in München, Viertelfinale 3</title>
 </programme>
 <programme start="20260417150000 +0000" stop="20260417190000 +0000" channel="Sky Sport Austria 3 HD.skyde">
-    <title>Live ATP 500: VF4, BMW Open in München, Viertelfinale 4</title>
+    <title>Live ATP 500: D. Shapovalov (CAN) - A. Molcan (SVK), BMW Open in München, Viertelfinale 4</title>
 </programme>
 <programme start="20260417111000 +0000" stop="20260417113000 +0000" channel="Sky Sport Austria 4 HD.skyde">
     <title>WTA: Es folgt</title>
@@ -3161,25 +3161,25 @@
     <title>ATP 500: A. Zverev (GER) - G. Diallo (CAN), BMW Open in München, 4. Tag</title>
 </programme>
 <programme start="20260417090000 +0000" stop="20260417110000 +0000" channel="Sky Sport Tennis HD.skyde">
-    <title>Live ATP 500: VF1, BMW Open in München, Viertelfinale 1</title>
+    <title>Live ATP 500: F. Cobolli (ITA) - V. Kopriva (CZE), BMW Open in München, Viertelfinale 1</title>
 </programme>
 <programme start="20260417110000 +0000" stop="20260417130000 +0000" channel="Sky Sport Tennis HD.skyde">
-    <title>Live ATP 500: VF2, BMW Open in München, Viertelfinale 2</title>
+    <title>Live ATP 500: A. Zverev (GER) - F. Cerundolo (ARG), BMW Open in München, Viertelfinale 2</title>
 </programme>
 <programme start="20260417130000 +0000" stop="20260417150000 +0000" channel="Sky Sport Tennis HD.skyde">
-    <title>Live ATP 500: VF3, BMW Open in München, Viertelfinale 3</title>
+    <title>Live ATP 500: J. Fonseca (BRA) - B. Shelton (USA), BMW Open in München, Viertelfinale 3</title>
 </programme>
 <programme start="20260417150000 +0000" stop="20260417170000 +0000" channel="Sky Sport Tennis HD.skyde">
-    <title>Live ATP 500: VF4, BMW Open in München, Viertelfinale 4</title>
+    <title>Live ATP 500: D. Shapovalov (CAN) - A. Molcan (SVK), BMW Open in München, Viertelfinale 4</title>
 </programme>
 <programme start="20260417170000 +0000" stop="20260417190000 +0000" channel="Sky Sport Tennis HD.skyde">
     <title>Live WTA 500: VF4, Porsche Tennis Grand Prix in Stuttgart, Viertelfinale 4</title>
 </programme>
 <programme start="20260417190000 +0000" stop="20260417210000 +0000" channel="Sky Sport Tennis HD.skyde">
-    <title>ATP 500: VF1, BMW Open in München, Viertelfinale 1</title>
+    <title>ATP 500: F. Cobolli (ITA) - V. Kopriva (CZE), BMW Open in München, Viertelfinale 1</title>
 </programme>
 <programme start="20260417210000 +0000" stop="20260417230000 +0000" channel="Sky Sport Tennis HD.skyde">
-    <title>ATP 500: VF2, BMW Open in München, Viertelfinale 2</title>
+    <title>ATP 500: A. Zverev (GER) - F. Cerundolo (ARG), BMW Open in München, Viertelfinale 2</title>
 </programme>
 <programme start="20260417000000 +0000" stop="20260417003000 +0000" channel="Sky Sport Top Event HD.skyde">
     <title>PL: PL Stories (Unai Emery)</title>
@@ -3212,16 +3212,16 @@
     <title>ATP: This Week</title>
 </programme>
 <programme start="20260417090000 +0000" stop="20260417110000 +0000" channel="Sky Sport Top Event HD.skyde">
-    <title>Live ATP 500: VF1, BMW Open in München, Viertelfinale 1</title>
+    <title>Live ATP 500: F. Cobolli (ITA) - V. Kopriva (CZE), BMW Open in München, Viertelfinale 1</title>
 </programme>
 <programme start="20260417110000 +0000" stop="20260417130000 +0000" channel="Sky Sport Top Event HD.skyde">
-    <title>Live ATP 500: VF2, BMW Open in München, Viertelfinale 2</title>
+    <title>Live ATP 500: A. Zverev (GER) - F. Cerundolo (ARG), BMW Open in München, Viertelfinale 2</title>
 </programme>
 <programme start="20260417130000 +0000" stop="20260417150000 +0000" channel="Sky Sport Top Event HD.skyde">
-    <title>Live ATP 500: VF3, BMW Open in München, Viertelfinale 3</title>
+    <title>Live ATP 500: J. Fonseca (BRA) - B. Shelton (USA), BMW Open in München, Viertelfinale 3</title>
 </programme>
 <programme start="20260417150000 +0000" stop="20260417160000 +0000" channel="Sky Sport Top Event HD.skyde">
-    <title>Live ATP 500: VF4, BMW Open in München, Viertelfinale 4</title>
+    <title>Live ATP 500: D. Shapovalov (CAN) - A. Molcan (SVK), BMW Open in München, Viertelfinale 4</title>
 </programme>
 <programme start="20260417160000 +0000" stop="20260417182500 +0000" channel="Sky Sport Top Event HD.skyde">
     <title>Live 2. BL: Freitags-Konferenz, 30. Spieltag</title>
