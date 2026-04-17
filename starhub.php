@@ -1943,7 +1943,7 @@
         <title>UEFA Conference League 2025/26: AZ Alkmaar vs Shakhtar - QF, 2nd Leg (Live)</title>
     </programme>
     <programme start="20260416185500 +0000" stop="20260416210000 +0000" channel="beIN Sports 3.starhub">
-        <title>UEFA Europa League 2025/26: Nottingham Forest vs Porto - QF, 2nd Leg (Live)</title>
+        <title>Nottingham Forest vs Porto - QF, 2nd Leg (Live)</title>
     </programme>
     <programme start="20260416210000 +0000" stop="20260416213000 +0000" channel="beIN Sports 3.starhub">
         <title>Bundesliga Weekly 2025/26</title>
@@ -6712,7 +6712,10 @@
     <programme start="20260417150000 +0000" stop="20260417170000 +0000" channel="TV5MONDE HD.starhub">
         <title>Le Mystere De La Chambre Jaune</title>
     </programme>
-    <programme start="20260416160000 +0000" stop="20260416183000 +0000" channel="Hub Sports 1  HD.starhub">
+    <programme start="20260416113000 +0000" stop="20260416160100 +0000" channel="Hub Sports 1  HD.starhub">
+        <title>Barcelona Open Banc Sabadell (500) Day 4 Round 2</title>
+    </programme>
+    <programme start="20260416160100 +0000" stop="20260416183000 +0000" channel="Hub Sports 1  HD.starhub">
         <title>Copa Colsanitas Colsubsidio (250) Final</title>
     </programme>
     <programme start="20260416183000 +0000" stop="20260416190000 +0000" channel="Hub Sports 1  HD.starhub">

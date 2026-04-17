@@ -15178,7 +15178,7 @@
     <category lang="en">Table Tennis</category>
   </programme>
   <programme start="20260416173500 +0000" stop="20260416203000 +0000" channel="spotv2.unifitv">
-    <title lang="en">(L) 17/4 2026 MLB Regular Season - New York Yankees vs Los Angeles Angels</title>
+    <title lang="en">(L) 2026 MLB Regular Season - New York Yankees vs Los Angeles Angels</title>
     <desc lang="en">Major League Baseball is the most historic professional sports league consists of 30 member clubs in the U.S. and Canada, representing the highest level of professional baseball.</desc>
     <category lang="en">Baseball</category>
   </programme>
@@ -15197,10 +15197,15 @@
     <desc lang="en">Top flight men's soccer returns in the ISUZU UTE A-League Men. Catch every moment on SPOTV NOW as 12 teams compete in the regular season with top 4 advancing to a single-game knockout.</desc>
     <category lang="en">Football</category>
   </programme>
-  <programme start="20260417010000 +0000" stop="20260417033000 +0000" channel="spotv2.unifitv">
-    <title lang="en">16/4 2026 MLB Regular Season - New York Yankees vs Los Angeles Angels</title>
+  <programme start="20260417010000 +0000" stop="20260417030000 +0000" channel="spotv2.unifitv">
+    <title lang="en">2026 MLB Regular Season - New York Yankees vs Los Angeles Angels</title>
     <desc lang="en">Major League Baseball is the most historic professional sports league consists of 30 member clubs in the U.S. and Canada, representing the highest level of professional baseball.</desc>
     <category lang="en">Baseball</category>
+  </programme>
+  <programme start="20260417030000 +0000" stop="20260417033000 +0000" channel="spotv2.unifitv">
+    <title lang="en">MotoGP Inside Ducati Lenovo Team -</title>
+    <desc lang="en">INSIDE S2 returns, following the Ducati Lenovo Team through the 2026 MotoGP season with Marc Marquez and Francesco Bagnaia, capturing global races, emotion, unseen moments, and the people behind every result.</desc>
+    <category lang="en">Motorsports</category>
   </programme>
   <programme start="20260417033000 +0000" stop="20260417040000 +0000" channel="spotv2.unifitv">
     <title lang="en">2025/26 ALM Mini Match Rd 24 - Central Coast Mariners FC vs Brisbane Roar FC</title>

@@ -119,19 +119,13 @@
     <title>News (L)</title>
 </programme>
 <programme start="20260417023000 +0000" stop="20260417030000 +0000" channel="Al Jazeera English.mncvision">
-    <title>The Bottom Line</title>
+    <title>Counting The Cost</title>
 </programme>
-<programme start="20260417030000 +0000" stop="20260417033000 +0000" channel="Al Jazeera English.mncvision">
-    <title>News (L)</title>
+<programme start="20260417030000 +0000" stop="20260417040000 +0000" channel="Al Jazeera English.mncvision">
+    <title>NewsHour</title>
 </programme>
-<programme start="20260417033000 +0000" stop="20260417040000 +0000" channel="Al Jazeera English.mncvision">
-    <title>People &amp; Power</title>
-</programme>
-<programme start="20260417040000 +0000" stop="20260417043000 +0000" channel="Al Jazeera English.mncvision">
-    <title>News (L)</title>
-</programme>
-<programme start="20260417043000 +0000" stop="20260417050000 +0000" channel="Al Jazeera English.mncvision">
-    <title>The Stream</title>
+<programme start="20260417040000 +0000" stop="20260417050000 +0000" channel="Al Jazeera English.mncvision">
+    <title>NewsHour</title>
 </programme>
 <programme start="20260417050000 +0000" stop="20260417053000 +0000" channel="Al Jazeera English.mncvision">
     <title>News (L)</title>
@@ -139,17 +133,11 @@
 <programme start="20260417053000 +0000" stop="20260417060000 +0000" channel="Al Jazeera English.mncvision">
     <title>Inside Story</title>
 </programme>
-<programme start="20260417060000 +0000" stop="20260417063000 +0000" channel="Al Jazeera English.mncvision">
-    <title>News (L)</title>
+<programme start="20260417060000 +0000" stop="20260417070000 +0000" channel="Al Jazeera English.mncvision">
+    <title>NewsHour</title>
 </programme>
-<programme start="20260417063000 +0000" stop="20260417070000 +0000" channel="Al Jazeera English.mncvision">
-    <title>Reframe: Silvia Fernandez</title>
-</programme>
-<programme start="20260417070000 +0000" stop="20260417073000 +0000" channel="Al Jazeera English.mncvision">
-    <title>News (L)</title>
-</programme>
-<programme start="20260417073000 +0000" stop="20260417080000 +0000" channel="Al Jazeera English.mncvision">
-    <title>The Global Population Bust</title>
+<programme start="20260417070000 +0000" stop="20260417080000 +0000" channel="Al Jazeera English.mncvision">
+    <title>NewsHour</title>
 </programme>
 <programme start="20260417080000 +0000" stop="20260417083000 +0000" channel="Al Jazeera English.mncvision">
     <title>News (L)</title>
@@ -157,11 +145,8 @@
 <programme start="20260417083000 +0000" stop="20260417090000 +0000" channel="Al Jazeera English.mncvision">
     <title>Talk To Al Jazeera: Z. Mamdani</title>
 </programme>
-<programme start="20260417090000 +0000" stop="20260417093000 +0000" channel="Al Jazeera English.mncvision">
-    <title>News (L)</title>
-</programme>
-<programme start="20260417093000 +0000" stop="20260417100000 +0000" channel="Al Jazeera English.mncvision">
-    <title>101 East</title>
+<programme start="20260417090000 +0000" stop="20260417100000 +0000" channel="Al Jazeera English.mncvision">
+    <title>NewsHour</title>
 </programme>
 <programme start="20260417100000 +0000" stop="20260417110000 +0000" channel="Al Jazeera English.mncvision">
     <title>NewsHour</title>
@@ -173,25 +158,19 @@
     <title>Inside Story</title>
 </programme>
 <programme start="20260417120000 +0000" stop="20260417130000 +0000" channel="Al Jazeera English.mncvision">
-    <title>Global Warning: The Tide</title>
+    <title>NewsHour</title>
 </programme>
 <programme start="20260417130000 +0000" stop="20260417140000 +0000" channel="Al Jazeera English.mncvision">
     <title>NewsHour</title>
 </programme>
-<programme start="20260417140000 +0000" stop="20260417143000 +0000" channel="Al Jazeera English.mncvision">
-    <title>News (L)</title>
-</programme>
-<programme start="20260417143000 +0000" stop="20260417150000 +0000" channel="Al Jazeera English.mncvision">
-    <title>The Stream</title>
+<programme start="20260417140000 +0000" stop="20260417150000 +0000" channel="Al Jazeera English.mncvision">
+    <title>NewsHour</title>
 </programme>
 <programme start="20260417150000 +0000" stop="20260417160000 +0000" channel="Al Jazeera English.mncvision">
     <title>NewsHour</title>
 </programme>
 <programme start="20260417160000 +0000" stop="20260417163000 +0000" channel="Al Jazeera English.mncvision">
-    <title>News (L)</title>
-</programme>
-<programme start="20260417163000 +0000" stop="20260416170000 +0000" channel="Al Jazeera English.mncvision">
-    <title>Witness</title>
+    <title>NewsHour</title>
 </programme>
 <programme start="20260416170000 +0000" stop="20260416190000 +0000" channel="Al Quran Al Kareem.mncvision">
     <title>Live From Mekkah</title>
@@ -4904,9 +4883,12 @@
     <title>iNews Sport Pagi (L)</title>
 </programme>
 <programme start="20260416233000 +0000" stop="20260417000000 +0000" channel="iNews.mncvision">
+    <title>iBreak: The One Entrepreneur</title>
+</programme>
+<programme start="20260417000000 +0000" stop="20260417003000 +0000" channel="iNews.mncvision">
     <title>Special Report</title>
 </programme>
-<programme start="20260417000000 +0000" stop="20260417010000 +0000" channel="iNews.mncvision">
+<programme start="20260417003000 +0000" stop="20260417010000 +0000" channel="iNews.mncvision">
     <title>Morning Update</title>
 </programme>
 <programme start="20260417010000 +0000" stop="20260417030000 +0000" channel="iNews.mncvision">
@@ -4958,9 +4940,12 @@
     <title>iNews Sport Pagi (L)</title>
 </programme>
 <programme start="20260416233000 +0000" stop="20260417000000 +0000" channel="iNews HD.mncvision">
+    <title>iBreak: The One Entrepreneur</title>
+</programme>
+<programme start="20260417000000 +0000" stop="20260417003000 +0000" channel="iNews HD.mncvision">
     <title>Special Report</title>
 </programme>
-<programme start="20260417000000 +0000" stop="20260417010000 +0000" channel="iNews HD.mncvision">
+<programme start="20260417003000 +0000" stop="20260417010000 +0000" channel="iNews HD.mncvision">
     <title>Morning Update</title>
 </programme>
 <programme start="20260417010000 +0000" stop="20260417030000 +0000" channel="iNews HD.mncvision">
