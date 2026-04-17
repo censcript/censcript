@@ -17795,7 +17795,7 @@
     <title lang="id">Performarts Reload</title>
   </programme>
   <programme start="20260419070000 +0000" stop="20260419073000 +0000" channel="Arirang TV.webtv.sk">
-    <title lang="id">Beauty On And Off</title>
+    <title lang="id">Peace Insight</title>
   </programme>
   <programme start="20260419073000 +0000" stop="20260419080000 +0000" channel="Arirang TV.webtv.sk">
     <title lang="id">Diplomat&apos;s Archive: Hidden Stories</title>
@@ -17866,8 +17866,11 @@
   <programme start="20260419200000 +0000" stop="20260419203000 +0000" channel="Arirang TV.webtv.sk">
     <title lang="id">Regional Tastes: Chungcheong</title>
   </programme>
-  <programme start="20260419203000 +0000" stop="20260419210000 +0000" channel="Arirang TV.webtv.sk">
+  <programme start="20260419203000 +0000" stop="20260419205000 +0000" channel="Arirang TV.webtv.sk">
     <title lang="id">Art And The City</title>
+  </programme>
+  <programme start="20260419205000 +0000" stop="20260419210000 +0000" channel="Arirang TV.webtv.sk">
+    <title lang="id">Exploring Korean Literature B</title>
   </programme>
   <programme start="20260419210000 +0000" stop="20260419213000 +0000" channel="Arirang TV.webtv.sk">
     <title lang="id">I&apos;m Live</title>
