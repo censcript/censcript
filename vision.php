@@ -616,9 +616,6 @@
 <programme start="20260417090000 +0000" stop="20260417110000 +0000" channel="ANTV.vision">
 <title>Vasudha</title>
 </programme>
-<programme start="20260417163000 +0000" stop="20260417181500 +0000" channel="ANTV.vision">
-<title>Dragon Chronicles: The Meidens</title>
-</programme>
 <programme start="20260417181500 +0000" stop="20260417203000 +0000" channel="ANTV.vision">
 <title>Serie A Liga Italia</title>
 </programme>
@@ -1497,4 +1494,7 @@
 </programme>
 <programme start="20260418050000 +0000" stop="20260418060000 +0000" channel="JAK TV.vision">
 <title>Lejel</title>
+</programme>
+<programme start="20260418060000 +0000" stop="20260418063000 +0000" channel="JAK TV.vision">
+<title>Cerita Alif</title>
 </programme>

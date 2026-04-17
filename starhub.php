@@ -2144,43 +2144,43 @@
         <title>Premier Padel 2026: New Giza P2 Day 5 SF 2 - Men</title>
     </programme>
     <programme start="20260417233000 +0000" stop="20260418012500 +0000" channel="beIN Sports 2 HD.starhub">
-        <title>TotalEnergies CAF Confederation Cup 2025/26: Zamalek vs CR Belouizdad - SF 2nd L</title>
+        <title>TotalEnergies CAF Confederation Cup 2025/26: Zamalek vs CR Belouizdad - SF 2nd Leg</title>
     </programme>
     <programme start="20260418012500 +0000" stop="20260418015100 +0000" channel="beIN Sports 2 HD.starhub">
-        <title>HSBC SVNS World C&#039;ships 2026: Argentina vs Spain - Pool Stages, Hong Kong - Wome</title>
+        <title>HSBC SVNS World C&#039;ships 2026: Argentina vs Spain - Pool Stages, Hong Kong - Women (Live)</title>
     </programme>
     <programme start="20260418015100 +0000" stop="20260418021400 +0000" channel="beIN Sports 2 HD.starhub">
-        <title>HSBC SVNS World C&#039;ships 2026: USA vs France - Pool Stages, Hong Kong - Women (Li</title>
+        <title>HSBC SVNS World C&#039;ships 2026: USA vs France - Pool Stages, Hong Kong - Women (Live)</title>
     </programme>
     <programme start="20260418021400 +0000" stop="20260418023700 +0000" channel="beIN Sports 2 HD.starhub">
-        <title>HSBC SVNS World C&#039;ships 2026: Spain vs Uruguay - Pool Stages, Hong Kong - Men (L</title>
+        <title>HSBC SVNS World C&#039;ships 2026: Spain vs Uruguay - Pool Stages, Hong Kong - Men (Live)</title>
     </programme>
     <programme start="20260418023700 +0000" stop="20260418030200 +0000" channel="beIN Sports 2 HD.starhub">
-        <title>HSBC SVNS World C&#039;ships 2026: South Africa vs Argentina - Pool Stages, Hong Kong</title>
+        <title>HSBC SVNS World C&#039;ships 2026: South Africa vs Argentina - Pool Stages, Hong Kong - Men (Live)</title>
     </programme>
     <programme start="20260418030200 +0000" stop="20260418032500 +0000" channel="beIN Sports 2 HD.starhub">
-        <title>HSBC SVNS World C&#039;ships 2026: Great Britain vs South Africa - Pool Stages, Hong</title>
+        <title>HSBC SVNS World C&#039;ships 2026: Great Britain vs South Africa - Pool Stages, Hong Kong - Women (Live)</title>
     </programme>
     <programme start="20260418032500 +0000" stop="20260418034800 +0000" channel="beIN Sports 2 HD.starhub">
-        <title>HSBC SVNS World C&#039;ships 2026: Australia vs Canada - Pool Stages, Hong Kong - Wom</title>
+        <title>HSBC SVNS World C&#039;ships 2026: Australia vs Canada - Pool Stages, Hong Kong - Women (Live)</title>
     </programme>
     <programme start="20260418034800 +0000" stop="20260418041100 +0000" channel="beIN Sports 2 HD.starhub">
-        <title>HSBC SVNS World C&#039;ships 2026: Great Britain vs Germany - Pool Stages, Hong Kong</title>
+        <title>HSBC SVNS World C&#039;ships 2026: Great Britain vs Germany - Pool Stages, Hong Kong - Men (Live)</title>
     </programme>
     <programme start="20260418041100 +0000" stop="20260418043600 +0000" channel="beIN Sports 2 HD.starhub">
-        <title>HSBC SVNS World C&#039;ships 2026: Fiji vs France - Pool Stages, Hong Kong - Men (Liv</title>
+        <title>HSBC SVNS World C&#039;ships 2026: Fiji vs France - Pool Stages, Hong Kong - Men (Live)</title>
     </programme>
     <programme start="20260418043600 +0000" stop="20260418045900 +0000" channel="beIN Sports 2 HD.starhub">
-        <title>HSBC SVNS World C&#039;ships 2026: Japan vs Brazil - Pool Stages, Hong Kong - Women (</title>
+        <title>HSBC SVNS World C&#039;ships 2026: Japan vs Brazil - Pool Stages, Hong Kong - Women (Live)</title>
     </programme>
     <programme start="20260418045900 +0000" stop="20260418052200 +0000" channel="beIN Sports 2 HD.starhub">
-        <title>HSBC SVNS World C&#039;ships 2026: New Zealand vs Fiji - Pool Stages, Hong Kong - Wom</title>
+        <title>HSBC SVNS World C&#039;ships 2026: New Zealand vs Fiji - Pool Stages, Hong Kong - Women (Live)</title>
     </programme>
     <programme start="20260418052200 +0000" stop="20260418054500 +0000" channel="beIN Sports 2 HD.starhub">
         <title>HSBC SVNS World C&#039;ships 2026: USA vs Kenya - Pool Stages, Hong Kong - Men (Live)</title>
     </programme>
     <programme start="20260418054500 +0000" stop="20260418061000 +0000" channel="beIN Sports 2 HD.starhub">
-        <title>HSBC SVNS World C&#039;ships 2026: Australia vs New Zealand - Pool Stages, Hong Kong</title>
+        <title>HSBC SVNS World C&#039;ships 2026: Australia vs New Zealand - Pool Stages, Hong Kong - Men (Live)</title>
     </programme>
     <programme start="20260418061000 +0000" stop="20260418064000 +0000" channel="beIN Sports 2 HD.starhub">
         <title>HSBC SVNS World C&#039;ships 2026: Hong Kong vs Thailand - Melrose Claymores (Live)</title>
@@ -2231,7 +2231,7 @@
         <title>HSBC SVNS World C&#039;ships 2026: Cup QF4, Hong Kong - Men (Live)</title>
     </programme>
     <programme start="20260418125500 +0000" stop="20260418150000 +0000" channel="beIN Sports 2 HD.starhub">
-        <title>TotalEnergies CAF Champions League 2025/26: Sundowns vs ES Tunis - SF 2nd Leg (L</title>
+        <title>TotalEnergies CAF Champions League 2025/26: Sundowns vs ES Tunis - SF 2nd Leg (Live)</title>
     </programme>
     <programme start="20260418150000 +0000" stop="20260418153000 +0000" channel="beIN Sports 2 HD.starhub">
         <title>Premier Padel 2026 (Join In Progress): New Giza P2 Day 6 Final - Women (Live)</title>
@@ -7028,7 +7028,7 @@
         <title>Matchday 31</title>
     </programme>
     <programme start="20260418143000 +0000" stop="20260418150000 +0000" channel="beIN Sports HD.starhub">
-        <title>Documentary</title>
+        <title>Barcelona</title>
     </programme>
     <programme start="20260418150000 +0000" stop="20260418153000 +0000" channel="beIN Sports HD.starhub">
         <title>Fastzone 2026</title>

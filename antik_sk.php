@@ -3037,13 +3037,13 @@
   <programme start="20260418225000 +0000" stop="20260418232000 +0000" channel="ČT1.webtv.sk">
     <title lang="id">Banánové rybičky</title>
   </programme>
-  <programme start="20260418232000 +0000" stop="20260419005000 +0000" channel="ČT1.webtv.sk">
+  <programme start="20260418232000 +0000" stop="20260419005100 +0000" channel="ČT1.webtv.sk">
     <title lang="id">Sama doma</title>
   </programme>
-  <programme start="20260419005000 +0000" stop="20260419020100 +0000" channel="ČT1.webtv.sk">
+  <programme start="20260419005100 +0000" stop="20260419020200 +0000" channel="ČT1.webtv.sk">
     <title lang="id">Manéž Bolka Polívky</title>
   </programme>
-  <programme start="20260419020100 +0000" stop="20260419022500 +0000" channel="ČT1.webtv.sk">
+  <programme start="20260419020200 +0000" stop="20260419022500 +0000" channel="ČT1.webtv.sk">
     <title lang="id">Chalupa je hra</title>
   </programme>
   <programme start="20260419022500 +0000" stop="20260419025000 +0000" channel="ČT1.webtv.sk">
@@ -3139,10 +3139,10 @@
   <programme start="20260418234000 +0000" stop="20260419000000 +0000" channel="ČT2.webtv.sk">
     <title lang="id">KON-TIKI expedice</title>
   </programme>
-  <programme start="20260419000000 +0000" stop="20260419002600 +0000" channel="ČT2.webtv.sk">
+  <programme start="20260419000000 +0000" stop="20260419002500 +0000" channel="ČT2.webtv.sk">
     <title lang="id">Frýdlantský výběžek</title>
   </programme>
-  <programme start="20260419002600 +0000" stop="20260419005200 +0000" channel="ČT2.webtv.sk">
+  <programme start="20260419002500 +0000" stop="20260419005200 +0000" channel="ČT2.webtv.sk">
     <title lang="id">Průšvihy první republiky</title>
   </programme>
   <programme start="20260419005200 +0000" stop="20260419010500 +0000" channel="ČT2.webtv.sk">
@@ -3151,10 +3151,10 @@
   <programme start="20260419010500 +0000" stop="20260419015800 +0000" channel="ČT2.webtv.sk">
     <title lang="id">Historie.cs</title>
   </programme>
-  <programme start="20260419015800 +0000" stop="20260419022600 +0000" channel="ČT2.webtv.sk">
+  <programme start="20260419015800 +0000" stop="20260419022500 +0000" channel="ČT2.webtv.sk">
     <title lang="id">Zpátky do Rapotína</title>
   </programme>
-  <programme start="20260419022600 +0000" stop="20260419032000 +0000" channel="ČT2.webtv.sk">
+  <programme start="20260419022500 +0000" stop="20260419032000 +0000" channel="ČT2.webtv.sk">
     <title lang="id">Tajemství 2. sv. války II</title>
   </programme>
   <programme start="20260419032000 +0000" stop="20260419034600 +0000" channel="ČT2.webtv.sk">
