@@ -102,9 +102,9 @@
     <title>Highlights: UEL &amp; UECL 2025-26</title>
     <desc>Live: Tidak</desc>
 </programme>
-<programme start="20260417210500 +0700" stop="20260417230000 +0700" channel="COSMOTE Sport 2 HD">
-    <title>Football: AC Milan - Udinese</title>
-    <desc>Live: Tidak</desc>
+<programme start="20260418233000 +0700" stop="20260419000000 +0700" channel="COSMOTE Sport 1 HD">
+    <title>PreGame (L)</title>
+    <desc>Live: Ya</desc>
 </programme>
 <programme start="20260417230000 +0700" stop="20260417233000 +0700" channel="COSMOTE Sport 2 HD">
     <title>Serie A Inside Serie A 2025-26 E33</title>
@@ -226,9 +226,9 @@
     <title>William Hill Scottish Premiership - Highlights</title>
     <desc>Live: Tidak</desc>
 </programme>
-<programme start="20260417202000 +0700" stop="20260417224000 +0700" channel="COSMOTE Sport 4 HD">
-    <title>Basketball: AEK - Badalona</title>
-    <desc>Live: Tidak</desc>
+<programme start="20260418230000 +0700" stop="20260419010000 +0700" channel="COSMOTE Sport 3 HD">
+    <title>Football: SSC Napoli - SS Lazio (L)</title>
+    <desc>Live: Ya</desc>
 </programme>
 <programme start="20260417224000 +0700" stop="20260418002500 +0700" channel="COSMOTE Sport 4 HD">
     <title>Pick n&#039; Roll</title>
@@ -292,6 +292,14 @@
 </programme>
 <programme start="20260418210000 +0700" stop="20260418230000 +0700" channel="COSMOTE Sport 4 HD">
     <title>Football: Hull City - Birmingham City (L)</title>
+    <desc>Live: Ya</desc>
+</programme>
+<programme start="20260418230000 +0700" stop="20260418231500 +0700" channel="COSMOTE Sport 4 HD">
+    <title>Sports Highlights</title>
+    <desc>Live: Tidak</desc>
+</programme>
+<programme start="20260418231500 +0700" stop="20260419011500 +0700" channel="COSMOTE Sport 4 HD">
+    <title>Basketball: Aquila Basket Trento - Bon Reggio Emilia (L)</title>
     <desc>Live: Ya</desc>
 </programme>
 <programme start="20260417214500 +0700" stop="20260417230500 +0700" channel="COSMOTE Sport 5 HD">
@@ -438,6 +446,14 @@
     <title>Tennis: ATP 500 2026 (L)</title>
     <desc>Live: Ya</desc>
 </programme>
+<programme start="20260418230000 +0700" stop="20260418233000 +0700" channel="COSMOTE Sport 6 HD">
+    <title>Sports Classics: 2025 Outdoor Specials</title>
+    <desc>Live: Tidak</desc>
+</programme>
+<programme start="20260418233000 +0700" stop="20260419033000 +0700" channel="COSMOTE Sport 6 HD">
+    <title>Tennis: ATP 500 2026</title>
+    <desc>Live: Tidak</desc>
+</programme>
 <programme start="20260417220000 +0700" stop="20260418000000 +0700" channel="COSMOTE Sport 7 HD">
     <title>COSMOTESport7HD</title>
     <desc>Live: Tidak</desc>
@@ -506,6 +522,10 @@
     <title>Tennis: ATP 500 2026 (L)</title>
     <desc>Live: Ya</desc>
 </programme>
+<programme start="20260418233000 +0700" stop="20260419000000 +0700" channel="COSMOTE Sport 7 HD">
+    <title>COSMOTESport7HD</title>
+    <desc>Live: Tidak</desc>
+</programme>
 <programme start="20260417220000 +0700" stop="20260418000000 +0700" channel="COSMOTE Sport 8 HD">
     <title>Premier Padel Tour 2026 (L)</title>
     <desc>Live: Ya</desc>
@@ -567,6 +587,10 @@
     <desc>Live: Tidak</desc>
 </programme>
 <programme start="20260418210000 +0700" stop="20260418230000 +0700" channel="COSMOTE Sport 8 HD">
+    <title>Premier Padel Tour 2026 (L)</title>
+    <desc>Live: Ya</desc>
+</programme>
+<programme start="20260418230000 +0700" stop="20260419020000 +0700" channel="COSMOTE Sport 8 HD">
     <title>Premier Padel Tour 2026 (L)</title>
     <desc>Live: Ya</desc>
 </programme>

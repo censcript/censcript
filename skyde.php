@@ -2746,15 +2746,6 @@
 <programme start="20260417181500 +0000" stop="20260417214500 +0000" channel="Sky Sport Bundesliga 1 HD.skyde">
     <title>Live BL: FC St. Pauli - 1. FC Köln, Flutlicht-Freitag, 30. Spieltag</title>
 </programme>
-<programme start="20260417154000 +0000" stop="20260417160000 +0000" channel="Sky Sport Bundesliga 2 HD.skyde">
-    <title>Es folgt: Live 2. Bundesliga</title>
-</programme>
-<programme start="20260417160000 +0000" stop="20260417183000 +0000" channel="Sky Sport Bundesliga 2 HD.skyde">
-    <title>Live 2. BL: Freitags-Konferenz, 30. Spieltag</title>
-</programme>
-<programme start="20260417183000 +0000" stop="20260417194500 +0000" channel="Sky Sport Bundesliga 2 HD.skyde">
-    <title>Live 2. BL Alle Spiele, alle Tore: Die Vodafone Highlight-Show, 30. Spieltag, Freitag</title>
-</programme>
 <programme start="20260417154000 +0000" stop="20260417160000 +0000" channel="Sky Sport Bundesliga 3 HD.skyde">
     <title>Es folgt: Live 2. Bundesliga</title>
 </programme>

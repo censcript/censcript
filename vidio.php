@@ -6913,12 +6913,12 @@
     <desc lang="id">Episode Number 1</desc>
     <icon src="https://thumbor.prod.vidiocdn.com/5yUHYfv_b1sZi7kdFElm8JqF2RY=/287x162/filters:strip_icc():quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/image/6299/bein-1-4bd997.jpg"/>
   </programme>
-  <programme channel="6299" start="20260417164500 +0000" stop="20260417184500 +0000">
+  <programme channel="6299" start="20260417164000 +0000" stop="20260417184500 +0000">
     <title lang="id">Real Madrid vs PSG - UEFA Youth League</title>
     <desc lang="id">Nonton streaming pertandingan seru Real Madrid vs PSG - UEFA Youth League. Saksikan aksi-aksi terbaik dari tim yang bersaing ketat untuk meraih kemenangan. Dapatkan informasi lengkap mengenai jadwal pertandingan dan hasil pertandingan terbaru hanya di Vidio.</desc>
     <icon src="https://thumbor.prod.vidiocdn.com/-UsufVmU4Ay78RJBUx-k4BB7ZiM=/287x162/filters:strip_icc():quality(70)/vidio-media-production/uploads/livestreaming/schedule/thumbnail/5017136/05b020.jpg"/>
   </programme>
-  <programme channel="6299" start="20260417164500 +0000" stop="20260417184500 +0000">
+  <programme channel="6299" start="20260417164000 +0000" stop="20260417184500 +0000">
     <title lang="id">Real Madrid vs PSG - UEFA Youth League</title>
     <desc lang="id">Nonton streaming pertandingan seru Real Madrid vs PSG - UEFA Youth League. Saksikan aksi-aksi terbaik dari tim yang bersaing ketat untuk meraih kemenangan. Dapatkan informasi lengkap mengenai jadwal pertandingan dan hasil pertandingan terbaru hanya di Vidio.</desc>
     <icon src="https://thumbor.prod.vidiocdn.com/-UsufVmU4Ay78RJBUx-k4BB7ZiM=/287x162/filters:strip_icc():quality(70)/vidio-media-production/uploads/livestreaming/schedule/thumbnail/5017136/05b020.jpg"/>
@@ -14085,12 +14085,12 @@
     <desc lang="id">Week 23</desc>
     <icon src="https://thumbor.prod.vidiocdn.com/nY0aFklpYf6yONLaFJjxhiSuthc=/287x162/filters:strip_icc():quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/image/6786/champions-tv-3-76ca7c.jpg"/>
   </programme>
-  <programme channel="6786" start="20260417103000 +0000" stop="20260417153000 +0000">
+  <programme channel="6786" start="20260417103000 +0000" stop="20260417151000 +0000">
     <title lang="id">Quarterfinals - WTA 500: Porsche Tennis Grand Prix 2026</title>
     <desc lang="id">Nonton streaming pertandingan seru Quarterfinals - WTA 500: Porsche Tennis Grand Prix 2026. Saksikan aksi-aksi terbaik dari tim yang bersaing ketat untuk meraih kemenangan. Dapatkan informasi lengkap mengenai jadwal pertandingan dan hasil pertandingan terbaru hanya di Vidio.</desc>
     <icon src="https://thumbor.prod.vidiocdn.com/8u-ueJPh0DE0vD5OEUTUzTeRsAE=/287x162/filters:strip_icc():quality(70)/vidio-media-production/uploads/livestreaming/schedule/thumbnail/5015460/a36823.jpg"/>
   </programme>
-  <programme channel="6786" start="20260417153000 +0000" stop="20260417160000 +0000">
+  <programme channel="6786" start="20260417151000 +0000" stop="20260417160000 +0000">
     <title lang="id">Final Highlight : Billie Jane King Cup 2025</title>
     <desc lang="id">Final Highlight</desc>
     <icon src="https://thumbor.prod.vidiocdn.com/nY0aFklpYf6yONLaFJjxhiSuthc=/287x162/filters:strip_icc():quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/image/6786/champions-tv-3-76ca7c.jpg"/>
@@ -22038,17 +22038,17 @@
     <desc lang="id">Nonton streaming pertandingan seru WorldSSP Superpole - WorldSBK Championship 2026 Round 3 Pirelli Dutch Round. Saksikan aksi-aksi terbaik dari tim yang bersaing ketat untuk meraih kemenangan. Dapatkan informasi lengkap mengenai jadwal pertandingan dan hasil pertandingan terbaru hanya di Vidio.</desc>
     <icon src="https://thumbor.prod.vidiocdn.com/pKmuDjbHPUrIZJmMzJrm0lNw7D0=/287x162/filters:strip_icc():quality(70)/vidio-media-production/uploads/livestreaming/schedule/thumbnail/5015453/e2d124.jpg"/>
   </programme>
-  <programme channel="17139" start="20260417145800 +0000" stop="20260417153000 +0000">
+  <programme channel="17139" start="20260417145800 +0000" stop="20260417154500 +0000">
     <title lang="id">WorldWCR Superpole - WorldSBK Championship 2026 Round 3 Pirelli Dutch Round</title>
     <desc lang="id">Nonton streaming pertandingan seru WorldWCR Superpole - WorldSBK Championship 2026 Round 3 Pirelli Dutch Round. Saksikan aksi-aksi terbaik dari tim yang bersaing ketat untuk meraih kemenangan. Dapatkan informasi lengkap mengenai jadwal pertandingan dan hasil pertandingan terbaru hanya di Vidio.</desc>
     <icon src="https://thumbor.prod.vidiocdn.com/EqfNBWY8YWGxD98Akq15k5txaMU=/287x162/filters:strip_icc():quality(70)/vidio-media-production/uploads/livestreaming/schedule/thumbnail/5015456/c965ad.jpg"/>
   </programme>
-  <programme channel="17139" start="20260417153000 +0000" stop="20260417173000 +0000">
+  <programme channel="17139" start="20260417154500 +0000" stop="20260417173000 +0000">
     <title lang="id">Al Okhdood vs Al Nassr : 25/26 ROSHN Saudi League MW 28</title>
     <desc lang="id">Prominent professional players take centre-stage in the ROSHN Saudi League. Don't miss a moment of these matches every week. Download SPOTV NOW and catch these live matches and highlights.</desc>
     <icon src="https://thumbor.prod.vidiocdn.com/YBK8XRc1cWJx0JfM3CWo6PnTfFY=/287x162/filters:strip_icc():quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/image/17139/spotv-c18c69.jpg"/>
   </programme>
-  <programme channel="17139" start="20260417153000 +0000" stop="20260417173000 +0000">
+  <programme channel="17139" start="20260417154500 +0000" stop="20260417173000 +0000">
     <title lang="id">Al Okhdood vs Al Nassr : 25/26 ROSHN Saudi League MW 28</title>
     <desc lang="id">Prominent professional players take centre-stage in the ROSHN Saudi League. Don't miss a moment of these matches every week. Download SPOTV NOW and catch these live matches and highlights.</desc>
     <icon src="https://thumbor.prod.vidiocdn.com/YBK8XRc1cWJx0JfM3CWo6PnTfFY=/287x162/filters:strip_icc():quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/image/17139/spotv-c18c69.jpg"/>
