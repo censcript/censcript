@@ -1453,9 +1453,6 @@
     <programme start="20260417203000 +0000" stop="20260417210000 +0000" channel="COLORS Tamil HD.starhub">
         <title>Mynaa</title>
     </programme>
-    <programme start="20260417210000 +0000" stop="20260417213000 +0000" channel="COLORS Tamil HD.starhub">
-        <title>Mynaa</title>
-    </programme>
     <programme start="20260417213000 +0000" stop="20260417220000 +0000" channel="COLORS Tamil HD.starhub">
         <title>Adhe Kangal</title>
     </programme>
@@ -1522,7 +1519,7 @@
     <programme start="20260418140000 +0000" stop="20260418143000 +0000" channel="COLORS Tamil HD.starhub">
         <title>Adhe Kangal</title>
     </programme>
-    <programme start="20260418143000 +0000" stop="20260418173000 +0000" channel="COLORS Tamil HD.starhub">
+    <programme start="20260418143000 +0000" stop="20260418160000 +0000" channel="COLORS Tamil HD.starhub">
         <title>Hey Sinamika</title>
     </programme>
     <programme start="20260417160000 +0000" stop="20260417180000 +0000" channel="TVBS Asia.starhub">
