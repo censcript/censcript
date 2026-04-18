@@ -3174,6 +3174,9 @@ Warning: Undefined array key "et" in /usr/home/ManusiaBiasa/domains/manusiabiasa
 <programme start="20260418113000 +0000" stop="20260418133000 +0000" channel="Sky Sport 8 HD.skyde">
     <title>Live ATP 500: A. Rublev - H. Medjedovic (SRB), Barcelona Open BancSabadell in Barcelona (ESP), Halbfinale 1</title>
 </programme>
+<programme start="20260418133000 +0000" stop="20260418140000 +0000" channel="Sky Sport 8 HD.skyde">
+    <title>Es folgt: Live ATP Tour</title>
+</programme>
 <programme start="20260418140000 +0000" stop="20260418180000 +0000" channel="Sky Sport 8 HD.skyde">
     <title>Live ATP 500: R. Jodar (ESP) - A. Fils (FRA), Barcelona Open BancSabadell in Barcelona (ESP), Halbfinale 2</title>
 </programme>
