@@ -2565,23 +2565,23 @@ Warning: Undefined array key "et" in /usr/home/ManusiaBiasa/domains/manusiabiasa
 <programme start="20260418143000 +0000" stop="20260418145000 +0000" channel="Sky Sport Austria 2 HD.skyde">
     <title>Es folgt Fußball: Österreich, Admiral Bundesliga</title>
 </programme>
-<programme start="20260418145000 +0000" stop="20260418170000 +0000" channel="Sky Sport Austria 2 HD.skyde">
+<programme start="20260418145000 +0000" stop="20260418173000 +0000" channel="Sky Sport Austria 2 HD.skyde">
     <title>Live Admiral BL: RZ Pellets WAC - FC Blau-Weiß Linz, 27. Runde</title>
 </programme>
 <programme start="20260418143000 +0000" stop="20260418145000 +0000" channel="Sky Sport Austria 3 HD.skyde">
     <title>Es folgt Fußball: Österreich, Admiral Bundesliga</title>
 </programme>
-<programme start="20260418145000 +0000" stop="20260418170000 +0000" channel="Sky Sport Austria 3 HD.skyde">
+<programme start="20260418145000 +0000" stop="20260418173000 +0000" channel="Sky Sport Austria 3 HD.skyde">
     <title>Live Admiral BL: WSG Tirol - SCR Altach, 27. Runde</title>
 </programme>
 <programme start="20260418111000 +0000" stop="20260418113000 +0000" channel="Sky Sport Austria 4 HD.skyde">
     <title>Es folgt: Live ATP Tour</title>
 </programme>
 <programme start="20260418113000 +0000" stop="20260418133000 +0000" channel="Sky Sport Austria 4 HD.skyde">
-    <title>Live ATP 500: HF1, BMW Open in München, Halbfinale 1</title>
+    <title>Live ATP 500: A. Zverev (GER) - F. Cobolli (ITA), BMW Open in München, Halbfinale 1</title>
 </programme>
-<programme start="20260418133000 +0000" stop="20260418153000 +0000" channel="Sky Sport Austria 4 HD.skyde">
-    <title>Live ATP 500: HF2, BMW Open in München, Halbfinale 2</title>
+<programme start="20260418133000 +0000" stop="20260418173000 +0000" channel="Sky Sport Austria 4 HD.skyde">
+    <title>Live ATP 500: A. Molcan (SVK) - B. Shelton (USA), BMW Open in München, Halbfinale 2</title>
 </programme>
 <programme start="20260417223000 +0000" stop="20260418003000 +0000" channel="Sky Sport Bundesliga HD.skyde">
     <title>BL: FC St. Pauli - 1. FC Köln, Flutlicht-Freitag, 30. Spieltag</title>
@@ -2715,7 +2715,7 @@ Warning: Undefined array key "et" in /usr/home/ManusiaBiasa/domains/manusiabiasa
 <programme start="20260418180000 +0000" stop="20260418210000 +0000" channel="Sky Sport Bundesliga 2 HD.skyde">
     <title>Live 2. BL: Hannover 96 - SC Paderborn 07, tipico Topspiel der Woche, 30. Spieltag</title>
 </programme>
-<programme start="20260418210000 +0000" stop="20260418220000 +0000" channel="Sky Sport Bundesliga 2 HD.skyde">
+<programme start="20260418210000 +0000" stop="20260418223000 +0000" channel="Sky Sport Bundesliga 2 HD.skyde">
     <title>2. BL Alle Spiele, alle Tore: Die Vodafone Highlight-Show, 30. Spieltag, Samstag komplett</title>
 </programme>
 <programme start="20260418101000 +0000" stop="20260418103000 +0000" channel="Sky Sport Bundesliga 3 HD.skyde">
@@ -2730,7 +2730,7 @@ Warning: Undefined array key "et" in /usr/home/ManusiaBiasa/domains/manusiabiasa
 <programme start="20260418131500 +0000" stop="20260418154500 +0000" channel="Sky Sport Bundesliga 3 HD.skyde">
     <title>Live BL: TSG Hoffenheim - Borussia Dortmund, 30. Spieltag</title>
 </programme>
-<programme start="20260418154500 +0000" stop="20260418191500 +0000" channel="Sky Sport Bundesliga 3 HD.skyde">
+<programme start="20260418154500 +0000" stop="20260418194500 +0000" channel="Sky Sport Bundesliga 3 HD.skyde">
     <title>Live BL: Tactical Feed: SGE - RBL, 30. Spieltag</title>
 </programme>
 <programme start="20260418101000 +0000" stop="20260418103000 +0000" channel="Sky Sport Bundesliga 4 HD.skyde">
@@ -2751,7 +2751,7 @@ Warning: Undefined array key "et" in /usr/home/ManusiaBiasa/domains/manusiabiasa
 <programme start="20260418103000 +0000" stop="20260418130000 +0000" channel="Sky Sport Bundesliga 5 HD.skyde">
     <title>Live 2. BL: Arminia Bielefeld - 1. FC Nürnberg, 30. Spieltag</title>
 </programme>
-<programme start="20260418130000 +0000" stop="20260418154500 +0000" channel="Sky Sport Bundesliga 5 HD.skyde">
+<programme start="20260418130000 +0000" stop="20260418161500 +0000" channel="Sky Sport Bundesliga 5 HD.skyde">
     <title>BL: Hinweis Multiview</title>
 </programme>
 <programme start="20260418101000 +0000" stop="20260418103000 +0000" channel="Sky Sport Bundesliga 6 HD.skyde">
@@ -2760,7 +2760,7 @@ Warning: Undefined array key "et" in /usr/home/ManusiaBiasa/domains/manusiabiasa
 <programme start="20260418103000 +0000" stop="20260418130000 +0000" channel="Sky Sport Bundesliga 6 HD.skyde">
     <title>Live 2. BL: Multiview 30. Spieltag, Samstag</title>
 </programme>
-<programme start="20260418130000 +0000" stop="20260418154500 +0000" channel="Sky Sport Bundesliga 6 HD.skyde">
+<programme start="20260418130000 +0000" stop="20260418161500 +0000" channel="Sky Sport Bundesliga 6 HD.skyde">
     <title>Live BL: Multiview 30. Spieltag</title>
 </programme>
 <programme start="20260418101000 +0000" stop="20260418103000 +0000" channel="Sky Sport Bundesliga 7 HD.skyde">
@@ -2769,7 +2769,7 @@ Warning: Undefined array key "et" in /usr/home/ManusiaBiasa/domains/manusiabiasa
 <programme start="20260418103000 +0000" stop="20260418130000 +0000" channel="Sky Sport Bundesliga 7 HD.skyde">
     <title>Live 2. BL: Samstags-Konferenz, 30. Spieltag</title>
 </programme>
-<programme start="20260418130000 +0000" stop="20260418134500 +0000" channel="Sky Sport Bundesliga 7 HD.skyde">
+<programme start="20260418130000 +0000" stop="20260418141500 +0000" channel="Sky Sport Bundesliga 7 HD.skyde">
     <title>Live 2. BL Alle Spiele, alle Tore: Die Vodafone Highlight-Show, 30. Spieltag, Samstag</title>
 </programme>
 <programme start="20260417220000 +0000" stop="20260417233000 +0000" channel="Sky Sport F1 HD.skyde">
@@ -2916,14 +2916,20 @@ Warning: Undefined array key "et" in /usr/home/ManusiaBiasa/domains/manusiabiasa
 <programme start="20260418135000 +0000" stop="20260418160000 +0000" channel="Sky Sport Mix HD.skyde">
     <title>Live PL: Leeds United - Wolverhampton Wanderers, 33. Spieltag</title>
 </programme>
-<programme start="20260418170000 +0000" stop="20260418180000 +0000" channel="Sky Sport Mix HD.skyde">
+<programme start="20260418160000 +0000" stop="20260418164500 +0000" channel="Sky Sport Mix HD.skyde">
+    <title>World Surf League: Replay: Rip Curl Pro Bells Beach Finals Day</title>
+</programme>
+<programme start="20260418164500 +0000" stop="20260418174500 +0000" channel="Sky Sport Mix HD.skyde">
     <title>NHL: Tonight - Western Conference Preview</title>
 </programme>
-<programme start="20260418180000 +0000" stop="20260418190000 +0000" channel="Sky Sport Mix HD.skyde">
+<programme start="20260418174500 +0000" stop="20260418184500 +0000" channel="Sky Sport Mix HD.skyde">
     <title>NHL: Tonight - Eastern Conference Preview</title>
 </programme>
 <programme start="20260418180000 +0000" stop="20260418210000 +0000" channel="Sky Sport Mix HD.skyde">
     <title>Live NHL: Topspiel, Playoffs, 1. Runde, Spiel 1</title>
+</programme>
+<programme start="20260418184500 +0000" stop="20260418190000 +0000" channel="Sky Sport Mix HD.skyde">
+    <title>Sky Sport News: NHL Spezial - Start der Playoffs</title>
 </programme>
 <programme start="20260417220000 +0000" stop="20260417230000 +0000" channel="Sky Sport News HD.skyde">
     <title>Sky Sport News: Nightline</title>
@@ -3075,44 +3081,44 @@ Warning: Undefined array key "et" in /usr/home/ManusiaBiasa/domains/manusiabiasa
 <programme start="20260418212000 +0000" stop="20260418232000 +0000" channel="Sky Sport Premier League HD.skyde">
     <title>PL: FC Chelsea - Manchester United, 33. Spieltag</title>
 </programme>
-<programme start="20260417230000 +0000" stop="20260418010000 +0000" channel="Sky Sport Tennis HD.skyde">
-    <title>WTA 500: VF2, Porsche Tennis Grand Prix in Stuttgart, Viertelfinale 2</title>
+<programme start="20260417230500 +0000" stop="20260418010500 +0000" channel="Sky Sport Tennis HD.skyde">
+    <title>ATP 500: A. Zverev (GER) - F. Cerundolo (ARG), BMW Open in München, Viertelfinale 2</title>
 </programme>
-<programme start="20260418010000 +0000" stop="20260418030000 +0000" channel="Sky Sport Tennis HD.skyde">
+<programme start="20260418010500 +0000" stop="20260418030500 +0000" channel="Sky Sport Tennis HD.skyde">
     <title>ATP 500: J. Fonseca (BRA) - B. Shelton (USA), BMW Open in München, Viertelfinale 3</title>
 </programme>
-<programme start="20260418030000 +0000" stop="20260418050000 +0000" channel="Sky Sport Tennis HD.skyde">
+<programme start="20260418030500 +0000" stop="20260418043000 +0000" channel="Sky Sport Tennis HD.skyde">
     <title>ATP 500: D. Shapovalov (CAN) - A. Molcan (SVK), BMW Open in München, Viertelfinale 4</title>
 </programme>
-<programme start="20260418050000 +0000" stop="20260418053000 +0000" channel="Sky Sport Tennis HD.skyde">
-    <title>ATP: This Week</title>
+<programme start="20260418043000 +0000" stop="20260418063000 +0000" channel="Sky Sport Tennis HD.skyde">
+    <title>WTA 500: I. Swiatek (POL) - M. Andreeva, Porsche Tennis Grand Prix in Stuttgart, Viertelfinale 3</title>
 </programme>
-<programme start="20260418053000 +0000" stop="20260418073000 +0000" channel="Sky Sport Tennis HD.skyde">
-    <title>WTA 500: VF3, Porsche Tennis Grand Prix in Stuttgart, Viertelfinale 3</title>
+<programme start="20260418063000 +0000" stop="20260418080000 +0000" channel="Sky Sport Tennis HD.skyde">
+    <title>ATP 500: D. Shapovalov (CAN) - A. Molcan (SVK), BMW Open in München, Viertelfinale 4</title>
 </programme>
-<programme start="20260418073000 +0000" stop="20260418093000 +0000" channel="Sky Sport Tennis HD.skyde">
+<programme start="20260418080000 +0000" stop="20260418100000 +0000" channel="Sky Sport Tennis HD.skyde">
     <title>ATP 500: J. Fonseca (BRA) - B. Shelton (USA), BMW Open in München, Viertelfinale 3</title>
 </programme>
-<programme start="20260418093000 +0000" stop="20260418113000 +0000" channel="Sky Sport Tennis HD.skyde">
+<programme start="20260418100000 +0000" stop="20260418113000 +0000" channel="Sky Sport Tennis HD.skyde">
     <title>ATP 500: D. Shapovalov (CAN) - A. Molcan (SVK), BMW Open in München, Viertelfinale 4</title>
 </programme>
 <programme start="20260418113000 +0000" stop="20260418133000 +0000" channel="Sky Sport Tennis HD.skyde">
-    <title>Live ATP 500: HF1, BMW Open in München, Halbfinale 1</title>
+    <title>Live ATP 500: A. Zverev (GER) - F. Cobolli (ITA), BMW Open in München, Halbfinale 1</title>
 </programme>
 <programme start="20260418133000 +0000" stop="20260418153000 +0000" channel="Sky Sport Tennis HD.skyde">
-    <title>Live ATP 500: HF2, BMW Open in München, Halbfinale 2</title>
+    <title>Live ATP 500: A. Molcan (SVK) - B. Shelton (USA), BMW Open in München, Halbfinale 2</title>
 </programme>
 <programme start="20260418153000 +0000" stop="20260418173000 +0000" channel="Sky Sport Tennis HD.skyde">
-    <title>ATP 500: HF1, Barcelona Open BancSabadell in Barcelona (ESP), Halbfinale 1</title>
+    <title>ATP 500: A. Rublev - H. Medjedovic (SRB), Barcelona Open BancSabadell in Barcelona (ESP), Halbfinale 1</title>
 </programme>
 <programme start="20260418173000 +0000" stop="20260418193000 +0000" channel="Sky Sport Tennis HD.skyde">
-    <title>ATP 500: HF1, BMW Open in München, Halbfinale 1</title>
+    <title>ATP 500: A. Zverev (GER) - F. Cobolli (ITA), BMW Open in München, Halbfinale 1</title>
 </programme>
 <programme start="20260418193000 +0000" stop="20260418200000 +0000" channel="Sky Sport Tennis HD.skyde">
     <title>ATP: This Week</title>
 </programme>
 <programme start="20260418200000 +0000" stop="20260418220000 +0000" channel="Sky Sport Tennis HD.skyde">
-    <title>WTA 500: HF1, Porsche Tennis Grand Prix in Stuttgart, Halbfinale 1</title>
+    <title>WTA 500: E. Svitolina (UKR) - K. Muchova (CZE), Porsche Tennis Grand Prix in Stuttgart, Halbfinale 1</title>
 </programme>
 <programme start="20260417230000 +0000" stop="20260418010000 +0000" channel="Sky Sport Top Event HD.skyde">
     <title>ATP 500: D. Shapovalov (CAN) - A. Molcan (SVK), BMW Open in München, Viertelfinale 4</title>
@@ -3159,29 +3165,29 @@ Warning: Undefined array key "et" in /usr/home/ManusiaBiasa/domains/manusiabiasa
 <programme start="20260418171000 +0000" stop="20260418173000 +0000" channel="Sky Sport 4 HD.skyde">
     <title>Es folgt LIVE Golf</title>
 </programme>
-<programme start="20260418173000 +0000" stop="20260418223000 +0000" channel="Sky Sport 4 HD.skyde">
+<programme start="20260418173000 +0000" stop="20260419080000 +0000" channel="Sky Sport 4 HD.skyde">
     <title>Live LIV Golf: Mexiko City, 3. Tag in Naucalpan</title>
 </programme>
 <programme start="20260418111000 +0000" stop="20260418113000 +0000" channel="Sky Sport 8 HD.skyde">
     <title>Es folgt: Live ATP Tour</title>
 </programme>
 <programme start="20260418113000 +0000" stop="20260418133000 +0000" channel="Sky Sport 8 HD.skyde">
-    <title>Live ATP 500: HF1, Barcelona Open BancSabadell in Barcelona (ESP), Halbfinale 1</title>
+    <title>Live ATP 500: A. Rublev - H. Medjedovic (SRB), Barcelona Open BancSabadell in Barcelona (ESP), Halbfinale 1</title>
 </programme>
 <programme start="20260418133000 +0000" stop="20260418140000 +0000" channel="Sky Sport 8 HD.skyde">
     <title>Es folgt: Live ATP Tour</title>
 </programme>
-<programme start="20260418140000 +0000" stop="20260418160000 +0000" channel="Sky Sport 8 HD.skyde">
-    <title>Live ATP 500: HF2, Barcelona Open BancSabadell in Barcelona (ESP), Halbfinale 2</title>
+<programme start="20260418140000 +0000" stop="20260418180000 +0000" channel="Sky Sport 8 HD.skyde">
+    <title>Live ATP 500: R. Jodar (ESP) - A. Fils (FRA), Barcelona Open BancSabadell in Barcelona (ESP), Halbfinale 2</title>
 </programme>
 <programme start="20260418114000 +0000" stop="20260418120000 +0000" channel="Sky Sport 9 HD.skyde">
     <title>WTA: Es folgt</title>
 </programme>
 <programme start="20260418120000 +0000" stop="20260418140000 +0000" channel="Sky Sport 9 HD.skyde">
-    <title>Live WTA 500: HF1, Porsche Tennis Grand Prix in Stuttgart, Halbfinale 1</title>
+    <title>Live WTA 500: E. Svitolina (UKR) - K. Muchova (CZE), Porsche Tennis Grand Prix in Stuttgart, Halbfinale 1</title>
 </programme>
-<programme start="20260418140000 +0000" stop="20260418160000 +0000" channel="Sky Sport 9 HD.skyde">
-    <title>Live WTA 500: HF2, Porsche Tennis Grand Prix in Stuttgart, Halbfinale 2</title>
+<programme start="20260418140000 +0000" stop="20260418180000 +0000" channel="Sky Sport 9 HD.skyde">
+    <title>Live WTA 500: E. Rybakina (KAZ) - M. Andreeva, Porsche Tennis Grand Prix in Stuttgart, Halbfinale 2</title>
 </programme>
 <programme start="20260417221500 +0000" stop="20260417230000 +0000" channel="SYFY HD.skyde">
     <title>Raumschiff Enterprise - Das nächste Jahrhundert</title>
