@@ -15084,13 +15084,13 @@
     <category lang="en">Sports</category>
   </programme>
   <programme start="20260417190000 +0000" stop="20260417195500 +0000" channel="unifisports1.unifitv">
-    <title lang="en">UFC Main Event - UFC297 - Strickland vs Du Plessis</title>
+    <title lang="en">UFC Main Event  - UFC297 - Strickland vs Du Plessis</title>
     <desc lang="en">UFC Middleweight Champion Sean Strickland defends his title against South African contender Dricus Du Plessis in a thrilling showdown at UFC 297. Watch the full championship fight on this episode of Main Event.</desc>
     <category lang="en">Sports</category>
   </programme>
   <programme start="20260417195500 +0000" stop="20260417200000 +0000" channel="unifisports1.unifitv">
     <title lang="en">LALIGA TOP GOALS GUAYRE BETANCOR - LALIGA TOP GOALS GUAYRE BETANCOR</title>
-    <desc lang="en">A selection of top goals from Guayre, a leading light for Villarreal in their push to become one of LaLiga's elite.</desc>
+    <desc lang="en">A selection of top goals from Guayre, a leading light for Villarreal in their push to become one of LaLiga’s elite.</desc>
     <category lang="en">Sports</category>
   </programme>
   <programme start="20260417200000 +0000" stop="20260418013000 +0000" channel="unifisports1.unifitv">
@@ -15105,32 +15105,32 @@
   </programme>
   <programme start="20260418015500 +0000" stop="20260418020000 +0000" channel="unifisports1.unifitv">
     <title lang="en">LALIGA TOP GOALS GUAYRE BETANCOR - LALIGA TOP GOALS GUAYRE BETANCOR</title>
-    <desc lang="en">A selection of top goals from Guayre, a leading light for Villarreal in their push to become one of LaLiga's elite.</desc>
+    <desc lang="en">A selection of top goals from Guayre, a leading light for Villarreal in their push to become one of LaLiga’s elite.</desc>
     <category lang="en">Sports</category>
   </programme>
   <programme start="20260418020000 +0000" stop="20260418030000 +0000" channel="unifisports1.unifitv">
-    <title lang="en">Kejohanan Piala Emas Khir Johari Edisi Ke-58, 2026 - Peringkat Separuh Akhir 1 ( Regu Wanita)</title>
+    <title lang="en">Kejohanan Piala Emas Khir Johari Edisi Ke-58, 2026 - Peringkat Separuh Akhir 1  ( Regu Wanita)</title>
     <desc lang="en">Kejohanan Sepaktakraw Piala Emas Khir Johari Ke-58 Tahun 2026 kembali lagi! 21 pasukan akan berentap untuk merebut kejuaraan. Hanya satu pasukan yang akan dinobatkan sebagai juara. Saksikan aksi penuh segalanya secara langsung di saluran Unifi Sports 1 atau strim melalui aplikasi Unifi TV 2.0.</desc>
     <category lang="en">Sports</category>
   </programme>
   <programme start="20260418030000 +0000" stop="20260418055500 +0000" channel="unifisports1.unifitv">
-    <title lang="en">(L) AFL Premiership Season - Round 6 - Gold Coast Suns v Essendon</title>
+    <title lang="en">(L) AFL Premiership Season  - Round 6 - Gold Coast Suns v Essendon</title>
     <desc lang="en">ABC Australia brings you Australian Rules football live in your lounge room every week with coverage of the 2026 AFL Premiership Season.</desc>
     <category lang="en">Sports</category>
   </programme>
   <programme start="20260418055500 +0000" stop="20260418060000 +0000" channel="unifisports1.unifitv">
     <title lang="en">LALIGA TOP GOALS GUAYRE BETANCOR - LALIGA TOP GOALS GUAYRE BETANCOR</title>
-    <desc lang="en">A selection of top goals from Guayre, a leading light for Villarreal in their push to become one of LaLiga's elite.</desc>
+    <desc lang="en">A selection of top goals from Guayre, a leading light for Villarreal in their push to become one of LaLiga’s elite.</desc>
     <category lang="en">Sports</category>
   </programme>
   <programme start="20260418060000 +0000" stop="20260418090000 +0000" channel="unifisports1.unifitv">
-    <title lang="en">(L) AFL Premiership Season - Round 6 - Hawthorn v Port Adelaide</title>
+    <title lang="en">(L) AFL Premiership Season  -  Round 6 - Hawthorn v Port Adelaide</title>
     <desc lang="en">ABC Australia brings you Australian Rules football live in your lounge room every week with coverage of the 2026 AFL Premiership Season.</desc>
     <category lang="en">Sports</category>
   </programme>
   <programme start="20260418090000 +0000" stop="20260418090500 +0000" channel="unifisports1.unifitv">
     <title lang="en">LALIGA TOP GOALS GUAYRE BETANCOR - LALIGA TOP GOALS GUAYRE BETANCOR</title>
-    <desc lang="en">A selection of top goals from Guayre, a leading light for Villarreal in their push to become one of LaLiga's elite.</desc>
+    <desc lang="en">A selection of top goals from Guayre, a leading light for Villarreal in their push to become one of LaLiga’s elite.</desc>
     <category lang="en">Sports</category>
   </programme>
   <programme start="20260418090500 +0000" stop="20260418091000 +0000" channel="unifisports1.unifitv">
@@ -15144,13 +15144,13 @@
     <category lang="en">Sports</category>
   </programme>
   <programme start="20260418091500 +0000" stop="20260418121500 +0000" channel="unifisports1.unifitv">
-    <title lang="en">(L) AFL Premiership Season - Round 6 - Adelaide Crows v St Kilda</title>
+    <title lang="en">(L) AFL Premiership Season  -  Round 6 - Adelaide Crows v St Kilda</title>
     <desc lang="en">ABC Australia brings you Australian Rules football live in your lounge room every week with coverage of the 2026 AFL Premiership Season.</desc>
     <category lang="en">Sports</category>
   </programme>
   <programme start="20260418121500 +0000" stop="20260418122000 +0000" channel="unifisports1.unifitv">
     <title lang="en">LALIGA TOP GOALS GUAYRE BETANCOR - LALIGA TOP GOALS GUAYRE BETANCOR</title>
-    <desc lang="en">A selection of top goals from Guayre, a leading light for Villarreal in their push to become one of LaLiga's elite.</desc>
+    <desc lang="en">A selection of top goals from Guayre, a leading light for Villarreal in their push to become one of LaLiga’s elite.</desc>
     <category lang="en">Sports</category>
   </programme>
   <programme start="20260418122000 +0000" stop="20260418122500 +0000" channel="unifisports1.unifitv">
@@ -15164,13 +15164,13 @@
     <category lang="en">Sports</category>
   </programme>
   <programme start="20260418123000 +0000" stop="20260418135500 +0000" channel="unifisports1.unifitv">
-    <title lang="en">Kejohanan Piala Emas Khir Johari Edisi Ke-58, 2026 - Perlawanan Akhir (Regu Wanita)</title>
+    <title lang="en">Kejohanan Piala Emas Khir Johari Edisi Ke-58, 2026 - Perlawanan Akhir  (Regu Wanita)</title>
     <desc lang="en">Kejohanan Sepaktakraw Piala Emas Khir Johari Ke-58 Tahun 2026 kembali lagi! 21 pasukan akan berentap untuk merebut kejuaraan. Hanya satu pasukan yang akan dinobatkan sebagai juara. Saksikan aksi penuh segalanya secara langsung di saluran Unifi Sports 1 atau strim melalui aplikasi Unifi TV 2.0.</desc>
     <category lang="en">Sports</category>
   </programme>
   <programme start="20260418135500 +0000" stop="20260418140000 +0000" channel="unifisports1.unifitv">
     <title lang="en">LALIGA TOP GOALS GUAYRE BETANCOR - LALIGA TOP GOALS GUAYRE BETANCOR</title>
-    <desc lang="en">A selection of top goals from Guayre, a leading light for Villarreal in their push to become one of LaLiga's elite.</desc>
+    <desc lang="en">A selection of top goals from Guayre, a leading light for Villarreal in their push to become one of LaLiga’s elite.</desc>
     <category lang="en">Sports</category>
   </programme>
   <programme start="20260418140000 +0000" stop="20260418190000 +0000" channel="unifisports1.unifitv">
@@ -15468,8 +15468,8 @@
     <category lang="en">Sports</category>
   </programme>
   <programme start="20260418143000 +0000" stop="20260418150000 +0000" channel="beinsports.unifitv">
-    <title lang="en">Africa Eco Race - Documentary</title>
-    <desc lang="en">17th edition of the rally raid in North Africa Race that follows the historic Paris-Dakar route, emphasizing endurance, navigation, and environmental responsibility</desc>
+    <title lang="en">Le Mans Cup Highlights - Barcelona</title>
+    <desc lang="en">Highlights of the eleventh season of the premier European endurance support series, featuring a record 45-car grid across LMP3 and GT3 classes</desc>
     <category lang="en">Sports</category>
   </programme>
   <programme start="20260418150000 +0000" stop="20260418153000 +0000" channel="beinsports.unifitv">
@@ -15704,8 +15704,8 @@
     <category lang="en">Sports</category>
   </programme>
   <programme start="20260417210000 +0000" stop="20260417213000 +0000" channel="beinsports3.unifitv">
-    <title lang="en">Epic Series - Cape Epic Recap: Prologue - Stage 4</title>
-    <desc lang="en">The Epic Series is more than just racing - it's a battle against the elements, the competition, and more so - yourself. A global test of endurance, skill, and sheer willpower. Now, for the first time ever, Race the World takes you behind the scenes of the world's most iconic mountain bike stage races.</desc>
+    <title lang="en">Kite World Tour - Kite-Surf World Cup Cape Verde</title>
+    <desc lang="en">Kite season set for big year with three new destinations joining old favourites over 11 events on four continents</desc>
     <category lang="en">Sports</category>
   </programme>
   <programme start="20260417213000 +0000" stop="20260417220000 +0000" channel="beinsports3.unifitv">
@@ -15734,8 +15734,8 @@
     <category lang="en">Sports</category>
   </programme>
   <programme start="20260418003000 +0000" stop="20260418010000 +0000" channel="beinsports3.unifitv">
-    <title lang="en">Epic Series - Cape Epic Recap: Prologue - Stage 4</title>
-    <desc lang="en">The Epic Series is more than just racing - it's a battle against the elements, the competition, and more so - yourself. A global test of endurance, skill, and sheer willpower. Now, for the first time ever, Race the World takes you behind the scenes of the world's most iconic mountain bike stage races.</desc>
+    <title lang="en">The Sports Rundown - March</title>
+    <desc lang="en">A dynamic new series highlighting a wide range of team sports, combat sports, and exciting stadium action; delving into the personal narratives of athletes, exploring their journeys, struggles, and triumphant moments.</desc>
     <category lang="en">Sports</category>
   </programme>
   <programme start="20260418010000 +0000" stop="20260418020000 +0000" channel="beinsports3.unifitv">
