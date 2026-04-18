@@ -535,6 +535,9 @@
 <programme start="20260418154500 +0000" stop="20260418163000 +0000" channel="Trans 7.vision">
 <title>The Police</title>
 </programme>
+<programme start="20260418163000 +0000" stop="20260418181500 +0000" channel="Trans 7.vision">
+<title>Deranged</title>
+</programme>
 <programme start="20260418181500 +0000" stop="20260418190000 +0000" channel="Trans 7.vision">
 <title>Best Fishing</title>
 </programme>
@@ -612,6 +615,18 @@
 </programme>
 <programme start="20260418090000 +0000" stop="20260418110000 +0000" channel="ANTV.vision">
 <title>Vasudha</title>
+</programme>
+<programme start="20260418110000 +0000" stop="20260418130000 +0000" channel="ANTV.vision">
+<title>Pendekar Jagad Kelana</title>
+</programme>
+<programme start="20260418130000 +0000" stop="20260418143000 +0000" channel="ANTV.vision">
+<title>Tuan Tanah Kedaung</title>
+</programme>
+<programme start="20260418143000 +0000" stop="20260418163000 +0000" channel="ANTV.vision">
+<title>Sarjana</title>
+</programme>
+<programme start="20260418163000 +0000" stop="20260418181500 +0000" channel="ANTV.vision">
+<title>Young &amp; Dangerous: The Prequel</title>
 </programme>
 <programme start="20260418181500 +0000" stop="20260418203000 +0000" channel="ANTV.vision">
 <title>Serie A Liga Italia</title>
@@ -1482,19 +1497,4 @@
 </programme>
 <programme start="20260419093000 +0000" stop="20260419100000 +0000" channel="JAK TV.vision">
 <title>My Health My Choice</title>
-</programme>
-<programme start="20260419100000 +0000" stop="20260419110000 +0000" channel="JAK TV.vision">
-<title>The Youth Doctor</title>
-</programme>
-<programme start="20260419110000 +0000" stop="20260419113000 +0000" channel="JAK TV.vision">
-<title>Muslimpedia</title>
-</programme>
-<programme start="20260419113000 +0000" stop="20260419120000 +0000" channel="JAK TV.vision">
-<title>The Cloth Story</title>
-</programme>
-<programme start="20260417230000 +0000" stop="20260418010000 +0000" channel="Bali TV.vision">
-<title>Bali TV</title>
-</programme>
-<programme start="20260418010000 +0000" stop="20260418030000 +0000" channel="Bali TV.vision">
-<title>Bali TV</title>
 </programme>
