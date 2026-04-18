@@ -2691,7 +2691,7 @@ Warning: Undefined array key "et" in /usr/home/ManusiaBiasa/domains/manusiabiasa
 <programme start="20260418131500 +0000" stop="20260418154500 +0000" channel="Sky Sport Bundesliga 1 HD.skyde">
     <title>Live BL: Werder Bremen - Hamburger SV, 30. Spieltag</title>
 </programme>
-<programme start="20260418154500 +0000" stop="20260418191500 +0000" channel="Sky Sport Bundesliga 1 HD.skyde">
+<programme start="20260418154500 +0000" stop="20260418194500 +0000" channel="Sky Sport Bundesliga 1 HD.skyde">
     <title>Live BL: Eintracht Frankfurt - RB Leipzig, tipico Topspiel der Woche, 30. Spieltag</title>
 </programme>
 <programme start="20260418101000 +0000" stop="20260418103000 +0000" channel="Sky Sport Bundesliga 2 HD.skyde">
@@ -2742,7 +2742,7 @@ Warning: Undefined array key "et" in /usr/home/ManusiaBiasa/domains/manusiabiasa
 <programme start="20260418130000 +0000" stop="20260418131500 +0000" channel="Sky Sport Bundesliga 4 HD.skyde">
     <title>Live BL: B04 - FCA: tipico Countdown, 30. Spieltag</title>
 </programme>
-<programme start="20260418131500 +0000" stop="20260418154500 +0000" channel="Sky Sport Bundesliga 4 HD.skyde">
+<programme start="20260418131500 +0000" stop="20260418161500 +0000" channel="Sky Sport Bundesliga 4 HD.skyde">
     <title>Live BL: Bayer Leverkusen - FC Augsburg, 30. Spieltag</title>
 </programme>
 <programme start="20260418101000 +0000" stop="20260418103000 +0000" channel="Sky Sport Bundesliga 5 HD.skyde">
@@ -3118,7 +3118,7 @@ Warning: Undefined array key "et" in /usr/home/ManusiaBiasa/domains/manusiabiasa
     <title>ATP 500: D. Shapovalov (CAN) - A. Molcan (SVK), BMW Open in München, Viertelfinale 4</title>
 </programme>
 <programme start="20260418010000 +0000" stop="20260418030000 +0000" channel="Sky Sport Top Event HD.skyde">
-    <title>WTA 500: VF4, Porsche Tennis Grand Prix in Stuttgart, Viertelfinale 4</title>
+    <title>WTA 500: E. Rybkana (KAZ) - L. Fernandez (CAN) , Porsche Tennis Grand Prix in Stuttgart, Viertelfinale 4</title>
 </programme>
 <programme start="20260418030000 +0000" stop="20260418033000 +0000" channel="Sky Sport Top Event HD.skyde">
     <title>NHL: On the Fly</title>
@@ -3152,6 +3152,9 @@ Warning: Undefined array key "et" in /usr/home/ManusiaBiasa/domains/manusiabiasa
 </programme>
 <programme start="20260418182500 +0000" stop="20260418210000 +0000" channel="Sky Sport Top Event HD.skyde">
     <title>Live 2. BL: Hannover 96 - SC Paderborn 07, tipico Topspiel der Woche, 30. Spieltag</title>
+</programme>
+<programme start="20260418210000 +0000" stop="20260418220000 +0000" channel="Sky Sport Top Event HD.skyde">
+    <title>Live NHL: Ottawa Senators @ Carolina Hurricanes, Playoffs, 1. Runde, Spiel 1</title>
 </programme>
 <programme start="20260418171000 +0000" stop="20260418173000 +0000" channel="Sky Sport 4 HD.skyde">
     <title>Es folgt LIVE Golf</title>
