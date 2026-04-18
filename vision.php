@@ -607,6 +607,9 @@
 <programme start="20260418003000 +0000" stop="20260418023000 +0000" channel="ANTV.vision">
 <title>Janji Inspektur Virat</title>
 </programme>
+<programme start="20260418023000 +0000" stop="20260418060000 +0000" channel="ANTV.vision">
+<title>Thugs Of Hindustan</title>
+</programme>
 <programme start="20260418060000 +0000" stop="20260418080000 +0000" channel="ANTV.vision">
 <title>Jhanak</title>
 </programme>
@@ -1494,7 +1497,4 @@
 </programme>
 <programme start="20260419090000 +0000" stop="20260419093000 +0000" channel="JAK TV.vision">
 <title>Cooking Time</title>
-</programme>
-<programme start="20260419093000 +0000" stop="20260419100000 +0000" channel="JAK TV.vision">
-<title>My Health My Choice</title>
 </programme>

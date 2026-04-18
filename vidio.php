@@ -8322,17 +8322,17 @@
     <desc lang="id">Shruti dan Bittoo menjadi mitra dalam "Wedding planning ka bijness" di Delhi dan dalam prosesnya menemukan persahabatan, cinta, dan satu sama lain.</desc>
     <icon src="https://thumbor.prod.vidiocdn.com/20tRQaK9Gps_wFQL5rY-XgRbrs4=/287x162/filters:strip_icc():quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/image/782/antv-de8530.jpg"/>
   </programme>
-  <programme channel="782" start="20260417230000 +0000" stop="20260418003000 +0000">
+  <programme channel="782" start="20260417230000 +0000" stop="20260418003600 +0000">
     <title lang="id">Kasautii</title>
     <desc lang="id">Anurag dan Prerna kuliah di universitas yang sama, dan akhirnya menjalin hubungan erat. Namun, mereka harus menghadapi orang-orang yang ingin memisahkan keduanya, karena perbedaan status sosial.</desc>
     <icon src="https://thumbor.prod.vidiocdn.com/1x3jKsvQjYcryUaVOWsnSQBygP4=/287x162/filters:strip_icc():quality(70)/vidio-media-production/uploads/livestreaming/schedule/thumbnail/5016630/180fd9.jpg"/>
   </programme>
-  <programme channel="782" start="20260418003000 +0000" stop="20260418023000 +0000">
+  <programme channel="782" start="20260418003600 +0000" stop="20260418024200 +0000">
     <title lang="id">Janji Cinta Inspektur Virat</title>
     <desc lang="id">Kisah seorang inspektur yang terlibat dalam kisah percintaan segitiga.</desc>
     <icon src="https://thumbor.prod.vidiocdn.com/VMqJn9jawRecdbw5SSdxxTHN_88=/287x162/filters:strip_icc():quality(70)/vidio-media-production/uploads/tv_program/thumbnail/386704/218ebf.jpg"/>
   </programme>
-  <programme channel="782" start="20260418023000 +0000" stop="20260418060000 +0000">
+  <programme channel="782" start="20260418024200 +0000" stop="20260418060000 +0000">
     <title lang="id">Mega Bollywood: Thugs of Hindostan</title>
     <desc lang="id">Kisah tentang kecintaan seseorang terhadap bangsanya dan kecintaan orang lain terhadap kekuasaan. Petualangan epik yang penuh dengan sensasi menegangkan dan perang di lautan.</desc>
     <icon src="https://thumbor.prod.vidiocdn.com/CrtnNQKaXl0-zmU88rJEUy-L2hI=/287x162/filters:strip_icc():quality(70)/vidio-media-production/uploads/livestreaming/schedule/thumbnail/5016634/84d523.jpg"/>
@@ -11969,9 +11969,9 @@
     <icon src="https://thumbor.prod.vidiocdn.com/IccXQd6EOZjWCT9QQQrsC0nCTZQ=/287x162/filters:strip_icc():quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/image/18190/champions-golf-2-3c2aa9.jpg"/>
   </programme>
   <programme channel="18190" start="20260419220000 +0000" stop="20260420010000 +0000">
-    <title lang="id">JM EAGLE LA CHAMPIONSHIP Presented by Plastpro</title>
-    <desc lang="id">FINAL ROUND</desc>
-    <icon src="https://thumbor.prod.vidiocdn.com/IccXQd6EOZjWCT9QQQrsC0nCTZQ=/287x162/filters:strip_icc():quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/image/18190/champions-golf-2-3c2aa9.jpg"/>
+    <title lang="id">Round 4 - JM Eagle LA Championship presented by Plastpro 2026</title>
+    <desc lang="id">Nonton streaming pertandingan seru Round 4 - JM Eagle LA Championship presented by Plastpro 2026. Saksikan aksi-aksi terbaik dari tim yang bersaing ketat untuk meraih kemenangan. Dapatkan informasi lengkap mengenai jadwal pertandingan dan hasil pertandingan terbaru hanya di Vidio.</desc>
+    <icon src="https://thumbor.prod.vidiocdn.com/eZUCaErAgr14t3JFI-Xgjulollo=/287x162/filters:strip_icc():quality(70)/vidio-media-production/uploads/livestreaming/schedule/thumbnail/5019481/f8ec13.jpg"/>
   </programme>
   <programme channel="18190" start="20260420010000 +0000" stop="20260420023000 +0000">
     <title lang="id">LPGA 2024</title>
@@ -12294,9 +12294,9 @@
     <icon src="https://thumbor.prod.vidiocdn.com/84KfVJ1EkCZE1TUxZXNvtr5sNmk=/287x162/filters:strip_icc():quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/image/18189/champions-golf-1-ffdd6c.jpg"/>
   </programme>
   <programme channel="18189" start="20260419170000 +0000" stop="20260419220000 +0000">
-    <title lang="id">RBC Heritage</title>
-    <desc lang="id">Round 4</desc>
-    <icon src="https://thumbor.prod.vidiocdn.com/84KfVJ1EkCZE1TUxZXNvtr5sNmk=/287x162/filters:strip_icc():quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/image/18189/champions-golf-1-ffdd6c.jpg"/>
+    <title lang="id">RBC Heritage 2026 - Round 4</title>
+    <desc lang="id">Nonton streaming pertandingan seru RBC Heritage 2026 - Round 4. Saksikan aksi-aksi terbaik dari tim yang bersaing ketat untuk meraih kemenangan. Dapatkan informasi lengkap mengenai jadwal pertandingan dan hasil pertandingan terbaru hanya di Vidio.</desc>
+    <icon src="https://thumbor.prod.vidiocdn.com/Km1q6PoKusUKkpNCaUsjuwyJSzU=/287x162/filters:strip_icc():quality(70)/vidio-media-production/uploads/livestreaming/schedule/thumbnail/5019475/c70e84.jpg"/>
   </programme>
   <programme channel="18189" start="20260419220000 +0000" stop="20260419230000 +0000">
     <title lang="id">Valero Texas Open</title>
@@ -12743,15 +12743,10 @@
     <desc lang="id">Brazil vs Kenya - Brazil Day 2, Women</desc>
     <icon src="https://thumbor.prod.vidiocdn.com/VmoYokSeKr_3SubUXC-rMC-EtQM=/287x162/filters:strip_icc():quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/image/17875/bein-2-25a5f9.jpg"/>
   </programme>
-  <programme channel="17875" start="20260419165500 +0000" stop="20260419190000 +0000">
-    <title lang="id">Trabzonspor vs Basaksehir : Super Lig 2025/26</title>
-    <desc lang="id">Trabzonspor vs Basaksehir</desc>
-    <icon src="https://thumbor.prod.vidiocdn.com/VmoYokSeKr_3SubUXC-rMC-EtQM=/287x162/filters:strip_icc():quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/image/17875/bein-2-25a5f9.jpg"/>
-  </programme>
-  <programme channel="17875" start="20260419165500 +0000" stop="20260419190000 +0000">
-    <title lang="id">Trabzonspor vs Basaksehir : Super Lig 2025/26</title>
-    <desc lang="id">Trabzonspor vs Basaksehir</desc>
-    <icon src="https://thumbor.prod.vidiocdn.com/VmoYokSeKr_3SubUXC-rMC-EtQM=/287x162/filters:strip_icc():quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/image/17875/bein-2-25a5f9.jpg"/>
+  <programme channel="17875" start="20260419170000 +0000" stop="20260419190000 +0000">
+    <title lang="id">Trabzonspor vs Istanbul Basaksehir - Trendyol Super Lig</title>
+    <desc lang="id">Nonton streaming pertandingan seru Trabzonspor vs Istanbul Basaksehir - Trendyol Super Lig. Saksikan aksi-aksi terbaik dari tim yang bersaing ketat untuk meraih kemenangan. Dapatkan informasi lengkap mengenai jadwal pertandingan dan hasil pertandingan terbaru hanya di Vidio.</desc>
+    <icon src="https://thumbor.prod.vidiocdn.com/BHD_kZyQqKoyznnMoUkpOrP2K3s=/287x162/filters:strip_icc():quality(70)/vidio-media-production/uploads/livestreaming/schedule/thumbnail/5019478/7e1f96.jpg"/>
   </programme>
   <programme channel="17875" start="20260419190000 +0000" stop="20260419210000 +0000">
     <title lang="id">Olympic Club Safi vs USM Alger - SF 2nd Leg : TotalEnergies CAF Confederation Cup 2025/26</title>
@@ -16164,12 +16159,12 @@
     <desc lang="id">Chelsea vs Manchester City</desc>
     <icon src="https://thumbor.prod.vidiocdn.com/_8JaTGtU2WYTw0ylulYg_dmz37Y=/287x162/filters:strip_icc():quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/image/9183/champions-tv-6-8a049a.jpg"/>
   </programme>
-  <programme channel="9183" start="20260418130000 +0000" stop="20260418135000 +0000">
+  <programme channel="9183" start="20260418130000 +0000" stop="20260418133000 +0000">
     <title lang="id">Show 28 - Matchweek 33 : PL PREVIEW 2025/26</title>
     <desc lang="id">Show 28 Matchweek 33</desc>
     <icon src="https://thumbor.prod.vidiocdn.com/_8JaTGtU2WYTw0ylulYg_dmz37Y=/287x162/filters:strip_icc():quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/image/9183/champions-tv-6-8a049a.jpg"/>
   </programme>
-  <programme channel="9183" start="20260418135000 +0000" stop="20260418160000 +0000">
+  <programme channel="9183" start="20260418133000 +0000" stop="20260418160000 +0000">
     <title lang="id">Leeds United vs Wolves - Premier League</title>
     <desc lang="id">Nonton streaming pertandingan seru Leeds United vs Wolves - Premier League. Saksikan aksi-aksi terbaik dari tim yang bersaing ketat untuk meraih kemenangan. Dapatkan informasi lengkap mengenai jadwal pertandingan dan hasil pertandingan terbaru hanya di Vidio.</desc>
     <icon src="https://thumbor.prod.vidiocdn.com/ZrA3UZztoMmBrySQNT3kfkLeCGY=/287x162/filters:strip_icc():quality(70)/vidio-media-production/uploads/livestreaming/schedule/thumbnail/5015509/937272.jpg"/>
