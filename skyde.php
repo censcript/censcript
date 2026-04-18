@@ -3579,44 +3579,47 @@ Warning: Undefined array key "et" in /usr/home/ManusiaBiasa/domains/manusiabiasa
 <programme start="20260418212500 +0000" stop="20260418235500 +0000" channel="Warner TV Film.skyde">
     <title>Transformers 3 - Die dunkle Seite des Mondes</title>
 </programme>
-<programme start="20260416221000 +0000" stop="20260417001000 +0000" channel="Warner TV Film HD.skyde">
-    <title>Shooter</title>
+<programme start="20260417224500 +0000" stop="20260418002500 +0000" channel="Warner TV Film HD.skyde">
+    <title>Trance - Gefährliche Erinnerung</title>
 </programme>
-<programme start="20260417001000 +0000" stop="20260417021000 +0000" channel="Warner TV Film HD.skyde">
-    <title>Pat Garrett jagt Billy the Kid</title>
-</programme>
-<programme start="20260417021000 +0000" stop="20260417040000 +0000" channel="Warner TV Film HD.skyde">
+<programme start="20260418002500 +0000" stop="20260418020500 +0000" channel="Warner TV Film HD.skyde">
     <title>Scream</title>
 </programme>
-<programme start="20260417040000 +0000" stop="20260417060000 +0000" channel="Warner TV Film HD.skyde">
-    <title>Road to Perdition</title>
+<programme start="20260418020500 +0000" stop="20260418040000 +0000" channel="Warner TV Film HD.skyde">
+    <title>Scream 2</title>
 </programme>
-<programme start="20260417060000 +0000" stop="20260417062500 +0000" channel="Warner TV Film HD.skyde">
-    <title>Hinter den Kulissen - Carrie Fisher</title>
+<programme start="20260418040000 +0000" stop="20260418053000 +0000" channel="Warner TV Film HD.skyde">
+    <title>Alles Routine</title>
 </programme>
-<programme start="20260417062500 +0000" stop="20260417090500 +0000" channel="Warner TV Film HD.skyde">
-    <title>Insider</title>
+<programme start="20260418053000 +0000" stop="20260418071000 +0000" channel="Warner TV Film HD.skyde">
+    <title>Nur 48 Stunden</title>
 </programme>
-<programme start="20260417090500 +0000" stop="20260417112000 +0000" channel="Warner TV Film HD.skyde">
-    <title>Die Bücherdiebin</title>
+<programme start="20260418071000 +0000" stop="20260418085000 +0000" channel="Warner TV Film HD.skyde">
+    <title>Und wieder 48 Stunden</title>
 </programme>
-<programme start="20260417112000 +0000" stop="20260417124500 +0000" channel="Warner TV Film HD.skyde">
-    <title>Der Wachsblumenstrauß</title>
+<programme start="20260418085000 +0000" stop="20260418105500 +0000" channel="Warner TV Film HD.skyde">
+    <title>Air Force One</title>
 </programme>
-<programme start="20260417124500 +0000" stop="20260417141000 +0000" channel="Warner TV Film HD.skyde">
-    <title>Nicht auflegen!</title>
+<programme start="20260418105500 +0000" stop="20260418124000 +0000" channel="Warner TV Film HD.skyde">
+    <title>Die sechs Verdächtigen</title>
 </programme>
-<programme start="20260417141000 +0000" stop="20260417154500 +0000" channel="Warner TV Film HD.skyde">
-    <title>Approaching The Unknown</title>
+<programme start="20260418124000 +0000" stop="20260418142000 +0000" channel="Warner TV Film HD.skyde">
+    <title>Judge Dredd</title>
 </programme>
-<programme start="20260417154500 +0000" stop="20260417181500 +0000" channel="Warner TV Film HD.skyde">
-    <title>Transformers - Die Rache</title>
+<programme start="20260418142000 +0000" stop="20260418160500 +0000" channel="Warner TV Film HD.skyde">
+    <title>Trance - Gefährliche Erinnerung</title>
 </programme>
-<programme start="20260417181500 +0000" stop="20260417205000 +0000" channel="Warner TV Film HD.skyde">
+<programme start="20260418160500 +0000" stop="20260418181500 +0000" channel="Warner TV Film HD.skyde">
+    <title>Déjà Vu - Wettlauf gegen die Zeit</title>
+</programme>
+<programme start="20260418181500 +0000" stop="20260418200000 +0000" channel="Warner TV Film HD.skyde">
+    <title>The Watch - Nachbarn der 3. Art</title>
+</programme>
+<programme start="20260418200000 +0000" stop="20260418212500 +0000" channel="Warner TV Film HD.skyde">
+    <title>Idiocracy</title>
+</programme>
+<programme start="20260418212500 +0000" stop="20260418235500 +0000" channel="Warner TV Film HD.skyde">
     <title>Transformers 3 - Die dunkle Seite des Mondes</title>
-</programme>
-<programme start="20260417205000 +0000" stop="20260417224500 +0000" channel="Warner TV Film HD.skyde">
-    <title>Auslöschung</title>
 </programme>
 <programme start="20260417220500 +0000" stop="20260417225000 +0000" channel="Warner TV Serie HD.skyde">
     <title>Blindspot</title>

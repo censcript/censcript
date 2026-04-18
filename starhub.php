@@ -1441,16 +1441,16 @@
     <programme start="20260418153500 +0000" stop="20260418171000 +0000" channel="Lifetime HD.starhub">
         <title>Cruise Ship Murder</title>
     </programme>
-    <programme start="20260417143000 +0000" stop="20260417173000 +0000" channel="COLORS Tamil HD.starhub">
+    <programme start="20260417160000 +0000" stop="20260417173000 +0000" channel="COLORS Tamil HD.starhub">
         <title>Elaam Mela Irukkuruvan Paathuppan</title>
     </programme>
     <programme start="20260417173000 +0000" stop="20260417180000 +0000" channel="COLORS Tamil HD.starhub">
         <title>Muthazhagu</title>
     </programme>
-    <programme start="20260417180000 +0000" stop="20260417203000 +0000" channel="COLORS Tamil HD.starhub">
+    <programme start="20260417180000 +0000" stop="20260417210000 +0000" channel="COLORS Tamil HD.starhub">
         <title>Aelay</title>
     </programme>
-    <programme start="20260417203000 +0000" stop="20260417210000 +0000" channel="COLORS Tamil HD.starhub">
+    <programme start="20260417210000 +0000" stop="20260417213000 +0000" channel="COLORS Tamil HD.starhub">
         <title>Mynaa</title>
     </programme>
     <programme start="20260417213000 +0000" stop="20260417220000 +0000" channel="COLORS Tamil HD.starhub">
@@ -2383,10 +2383,10 @@
     <programme start="20260418150000 +0000" stop="20260418170000 +0000" channel="Cinema One Global.starhub">
         <title>Muntik Na Kitang Minahal</title>
     </programme>
-    <programme start="20260417130000 +0000" stop="20260417170000 +0000" channel="Hub Sports 2 HD.starhub">
+    <programme start="20260417130000 +0000" stop="20260417171000 +0000" channel="Hub Sports 2 HD.starhub">
         <title>BMW Open by BitPanda (500) QF 3 &amp; 4</title>
     </programme>
-    <programme start="20260417170000 +0000" stop="20260417173000 +0000" channel="Hub Sports 2 HD.starhub">
+    <programme start="20260417171000 +0000" stop="20260417173000 +0000" channel="Hub Sports 2 HD.starhub">
         <title>#1350</title>
     </programme>
     <programme start="20260417173000 +0000" stop="20260417203000 +0000" channel="Hub Sports 2 HD.starhub">
