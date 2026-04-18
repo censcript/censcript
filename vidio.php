@@ -8297,6 +8297,480 @@
     <desc lang="id">Sporting vs Benfica</desc>
     <icon src="https://thumbor.prod.vidiocdn.com/edoqRinFCRhrRwQ2ngcXacb_q74=/287x162/filters:strip_icc():quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/image/6685/champions-tv-1-54e282.jpg"/>
   </programme>
+  <programme channel="6685" start="20260419170000 +0000" stop="20260419190000 +0000">
+    <title lang="id">Sporting vs Benfica : Portuguese League 2025/26</title>
+    <desc lang="id">Sporting vs Benfica</desc>
+    <icon src="https://thumbor.prod.vidiocdn.com/edoqRinFCRhrRwQ2ngcXacb_q74=/287x162/filters:strip_icc():quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/image/6685/champions-tv-1-54e282.jpg"/>
+  </programme>
+  <programme channel="6685" start="20260419190000 +0000" stop="20260419192500 +0000">
+    <title lang="id">Filler</title>
+    <icon src="https://thumbor.prod.vidiocdn.com/edoqRinFCRhrRwQ2ngcXacb_q74=/287x162/filters:strip_icc():quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/image/6685/champions-tv-1-54e282.jpg"/>
+  </programme>
+  <programme channel="6685" start="20260419192500 +0000" stop="20260419213000 +0000">
+    <title lang="id">Porto vs Tondela : Portuguese League 2025/26</title>
+    <desc lang="id">Porto vs Tondela</desc>
+    <icon src="https://thumbor.prod.vidiocdn.com/edoqRinFCRhrRwQ2ngcXacb_q74=/287x162/filters:strip_icc():quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/image/6685/champions-tv-1-54e282.jpg"/>
+  </programme>
+  <programme channel="6685" start="20260419213000 +0000" stop="20260419233000 +0000">
+    <title lang="id">Portsmouth vs Leicester City : EFL 2025/26 Championship</title>
+    <desc lang="id">Portsmouth vs Leicester City</desc>
+    <icon src="https://thumbor.prod.vidiocdn.com/edoqRinFCRhrRwQ2ngcXacb_q74=/287x162/filters:strip_icc():quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/image/6685/champions-tv-1-54e282.jpg"/>
+  </programme>
+  <programme channel="6685" start="20260419233000 +0000" stop="20260420013000 +0000">
+    <title lang="id">Hull City vs Birmingham City : EFL 2025/26 Championship</title>
+    <desc lang="id">Hull City vs Birmingham City</desc>
+    <icon src="https://thumbor.prod.vidiocdn.com/edoqRinFCRhrRwQ2ngcXacb_q74=/287x162/filters:strip_icc():quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/image/6685/champions-tv-1-54e282.jpg"/>
+  </programme>
+  <programme channel="6685" start="20260420013000 +0000" stop="20260420033000 +0000">
+    <title lang="id">Ipswich Town vs Middlesbrough : EFL 2025/26 Championship</title>
+    <desc lang="id">Ipswich Town vs Middlesbrough</desc>
+    <icon src="https://thumbor.prod.vidiocdn.com/edoqRinFCRhrRwQ2ngcXacb_q74=/287x162/filters:strip_icc():quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/image/6685/champions-tv-1-54e282.jpg"/>
+  </programme>
+  <programme channel="6685" start="20260420033000 +0000" stop="20260420053000 +0000">
+    <title lang="id">SASSUOLO vs COMO : Serie A 2025/26</title>
+    <desc lang="id">SASSUOLO vs COMO</desc>
+    <icon src="https://thumbor.prod.vidiocdn.com/edoqRinFCRhrRwQ2ngcXacb_q74=/287x162/filters:strip_icc():quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/image/6685/champions-tv-1-54e282.jpg"/>
+  </programme>
+  <programme channel="6685" start="20260420053000 +0000" stop="20260420063000 +0000">
+    <title lang="id">Highlight - Round 30 : Dutch League 2025/26</title>
+    <desc lang="id">Highlight Round 30</desc>
+    <icon src="https://thumbor.prod.vidiocdn.com/edoqRinFCRhrRwQ2ngcXacb_q74=/287x162/filters:strip_icc():quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/image/6685/champions-tv-1-54e282.jpg"/>
+  </programme>
+  <programme channel="6685" start="20260420063000 +0000" stop="20260420083000 +0000">
+    <title lang="id">Sporting vs Benfica : Portuguese League 2025/26</title>
+    <desc lang="id">Sporting vs Benfica</desc>
+    <icon src="https://thumbor.prod.vidiocdn.com/edoqRinFCRhrRwQ2ngcXacb_q74=/287x162/filters:strip_icc():quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/image/6685/champions-tv-1-54e282.jpg"/>
+  </programme>
+  <programme channel="6685" start="20260420083000 +0000" stop="20260420103000 +0000">
+    <title lang="id">Porto vs Tondela : Portuguese League 2025/26</title>
+    <desc lang="id">Porto vs Tondela</desc>
+    <icon src="https://thumbor.prod.vidiocdn.com/edoqRinFCRhrRwQ2ngcXacb_q74=/287x162/filters:strip_icc():quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/image/6685/champions-tv-1-54e282.jpg"/>
+  </programme>
+  <programme channel="6685" start="20260420103000 +0000" stop="20260420113000 +0000">
+    <title lang="id">Highlight - Round 30 : Portuguese League 2025/26</title>
+    <desc lang="id">Highlight Round 30</desc>
+    <icon src="https://thumbor.prod.vidiocdn.com/edoqRinFCRhrRwQ2ngcXacb_q74=/287x162/filters:strip_icc():quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/image/6685/champions-tv-1-54e282.jpg"/>
+  </programme>
+  <programme channel="6685" start="20260420113000 +0000" stop="20260420120000 +0000">
+    <title lang="id">Show 33 : EFL 2025/26 - Highlight</title>
+    <desc lang="id">Show 33</desc>
+    <icon src="https://thumbor.prod.vidiocdn.com/edoqRinFCRhrRwQ2ngcXacb_q74=/287x162/filters:strip_icc():quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/image/6685/champions-tv-1-54e282.jpg"/>
+  </programme>
+  <programme channel="6685" start="20260420120000 +0000" stop="20260420140000 +0000">
+    <title lang="id">Blackburn Rovers vs Coventry City : EFL 2025/26 Championship</title>
+    <desc lang="id">Blackburn Rovers vs Coventry City</desc>
+    <icon src="https://thumbor.prod.vidiocdn.com/edoqRinFCRhrRwQ2ngcXacb_q74=/287x162/filters:strip_icc():quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/image/6685/champions-tv-1-54e282.jpg"/>
+  </programme>
+  <programme channel="6685" start="20260420160000 +0000" stop="20260420163000 +0000">
+    <title lang="id">Eps 47 : PL Story 2023/24 - Subs</title>
+    <desc lang="id">Eps 47</desc>
+    <icon src="https://thumbor.prod.vidiocdn.com/edoqRinFCRhrRwQ2ngcXacb_q74=/287x162/filters:strip_icc():quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/image/6685/champions-tv-1-54e282.jpg"/>
+  </programme>
+  <programme channel="6685" start="20260420163000 +0000" stop="20260420170000 +0000">
+    <title lang="id">Round 1 - Race &amp; Highlight : Snowcross World Championship 2026</title>
+    <desc lang="id">Round 1 Race &amp; Highlight</desc>
+    <icon src="https://thumbor.prod.vidiocdn.com/edoqRinFCRhrRwQ2ngcXacb_q74=/287x162/filters:strip_icc():quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/image/6685/champions-tv-1-54e282.jpg"/>
+  </programme>
+  <programme channel="6685" start="20260420163000 +0000" stop="20260420170000 +0000">
+    <title lang="id">Round 1 - Race &amp; Highlight : Snowcross World Championship 2026</title>
+    <desc lang="id">Round 1 Race &amp; Highlight</desc>
+    <icon src="https://thumbor.prod.vidiocdn.com/edoqRinFCRhrRwQ2ngcXacb_q74=/287x162/filters:strip_icc():quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/image/6685/champions-tv-1-54e282.jpg"/>
+  </programme>
+  <programme channel="6685" start="20260420170000 +0000" stop="20260420173000 +0000">
+    <title lang="id">Full Impact - Round 30 : Serie A 2025/26 - Highlight Show</title>
+    <desc lang="id">Full Impact Round 30</desc>
+    <icon src="https://thumbor.prod.vidiocdn.com/edoqRinFCRhrRwQ2ngcXacb_q74=/287x162/filters:strip_icc():quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/image/6685/champions-tv-1-54e282.jpg"/>
+  </programme>
+  <programme channel="6685" start="20260420173000 +0000" stop="20260420193000 +0000">
+    <title lang="id">SASSUOLO vs COMO : Serie A 2025/26</title>
+    <desc lang="id">SASSUOLO vs COMO</desc>
+    <icon src="https://thumbor.prod.vidiocdn.com/edoqRinFCRhrRwQ2ngcXacb_q74=/287x162/filters:strip_icc():quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/image/6685/champions-tv-1-54e282.jpg"/>
+  </programme>
+  <programme channel="6685" start="20260420193000 +0000" stop="20260420213000 +0000">
+    <title lang="id">Ipswich Town vs Middlesbrough : EFL 2025/26 Championship</title>
+    <desc lang="id">Ipswich Town vs Middlesbrough</desc>
+    <icon src="https://thumbor.prod.vidiocdn.com/edoqRinFCRhrRwQ2ngcXacb_q74=/287x162/filters:strip_icc():quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/image/6685/champions-tv-1-54e282.jpg"/>
+  </programme>
+  <programme channel="6685" start="20260420213000 +0000" stop="20260420220000 +0000">
+    <title lang="id">Eps 43 : PL Story 2023/24 - Subs</title>
+    <desc lang="id">Eps 43</desc>
+    <icon src="https://thumbor.prod.vidiocdn.com/edoqRinFCRhrRwQ2ngcXacb_q74=/287x162/filters:strip_icc():quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/image/6685/champions-tv-1-54e282.jpg"/>
+  </programme>
+  <programme channel="6685" start="20260420220000 +0000" stop="20260420230000 +0000">
+    <title lang="id">Highlight - Round 30 : Dutch League 2025/26</title>
+    <desc lang="id">Highlight Round 30</desc>
+    <icon src="https://thumbor.prod.vidiocdn.com/edoqRinFCRhrRwQ2ngcXacb_q74=/287x162/filters:strip_icc():quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/image/6685/champions-tv-1-54e282.jpg"/>
+  </programme>
+  <programme channel="6685" start="20260420230000 +0000" stop="20260421010000 +0000">
+    <title lang="id">PISA vs GENOA : Serie A 2025/26</title>
+    <desc lang="id">PISA vs GENOA</desc>
+    <icon src="https://thumbor.prod.vidiocdn.com/edoqRinFCRhrRwQ2ngcXacb_q74=/287x162/filters:strip_icc():quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/image/6685/champions-tv-1-54e282.jpg"/>
+  </programme>
+  <programme channel="6685" start="20260421010000 +0000" stop="20260421025900 +0000">
+    <title lang="id">JUVENTUS vs BOLOGNA : Serie A 2025/26</title>
+    <desc lang="id">JUVENTUS vs BOLOGNA</desc>
+    <icon src="https://thumbor.prod.vidiocdn.com/edoqRinFCRhrRwQ2ngcXacb_q74=/287x162/filters:strip_icc():quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/image/6685/champions-tv-1-54e282.jpg"/>
+  </programme>
+  <programme channel="6685" start="20260421030000 +0000" stop="20260421050000 +0000">
+    <title lang="id">LECCE vs FIORENTINA : Serie A 2025/26</title>
+    <desc lang="id">LECCE vs FIORENTINA</desc>
+    <icon src="https://thumbor.prod.vidiocdn.com/edoqRinFCRhrRwQ2ngcXacb_q74=/287x162/filters:strip_icc():quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/image/6685/champions-tv-1-54e282.jpg"/>
+  </programme>
+  <programme channel="6685" start="20260421050000 +0000" stop="20260421053000 +0000">
+    <title lang="id">Eps 47 : PL Story 2023/24 - Subs</title>
+    <desc lang="id">Eps 47</desc>
+    <icon src="https://thumbor.prod.vidiocdn.com/edoqRinFCRhrRwQ2ngcXacb_q74=/287x162/filters:strip_icc():quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/image/6685/champions-tv-1-54e282.jpg"/>
+  </programme>
+  <programme channel="6685" start="20260421053000 +0000" stop="20260421063000 +0000">
+    <title lang="id">Highlight - Round 30 : Portuguese League 2025/26</title>
+    <desc lang="id">Highlight Round 30</desc>
+    <icon src="https://thumbor.prod.vidiocdn.com/edoqRinFCRhrRwQ2ngcXacb_q74=/287x162/filters:strip_icc():quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/image/6685/champions-tv-1-54e282.jpg"/>
+  </programme>
+  <programme channel="6685" start="20260421063000 +0000" stop="20260421083000 +0000">
+    <title lang="id">Haikou  Danzhou : TOUR OF HAINAN 2026</title>
+    <desc lang="id">Haikou  Danzhou</desc>
+    <icon src="https://thumbor.prod.vidiocdn.com/edoqRinFCRhrRwQ2ngcXacb_q74=/287x162/filters:strip_icc():quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/image/6685/champions-tv-1-54e282.jpg"/>
+  </programme>
+  <programme channel="6685" start="20260421083000 +0000" stop="20260421103000 +0000">
+    <title lang="id">Portsmouth vs Leicester City : EFL 2025/26 Championship</title>
+    <desc lang="id">Portsmouth vs Leicester City</desc>
+    <icon src="https://thumbor.prod.vidiocdn.com/edoqRinFCRhrRwQ2ngcXacb_q74=/287x162/filters:strip_icc():quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/image/6685/champions-tv-1-54e282.jpg"/>
+  </programme>
+  <programme channel="6685" start="20260421113000 +0000" stop="20260421120000 +0000">
+    <title lang="id">Show 34 : EFL 2025/26 - Highlight</title>
+    <desc lang="id">Show 34</desc>
+    <icon src="https://thumbor.prod.vidiocdn.com/edoqRinFCRhrRwQ2ngcXacb_q74=/287x162/filters:strip_icc():quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/image/6685/champions-tv-1-54e282.jpg"/>
+  </programme>
+  <programme channel="6685" start="20260421140000 +0000" stop="20260421160000 +0000">
+    <title lang="id">Heracles Almelo vs AFC Ajax : Dutch League 2025/26</title>
+    <desc lang="id">Heracles Almelo vs AFC Ajax</desc>
+    <icon src="https://thumbor.prod.vidiocdn.com/edoqRinFCRhrRwQ2ngcXacb_q74=/287x162/filters:strip_icc():quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/image/6685/champions-tv-1-54e282.jpg"/>
+  </programme>
+  <programme channel="6685" start="20260421163000 +0000" stop="20260421170000 +0000">
+    <title lang="id">Eps 2 : MXGP Behind the Gate 2026</title>
+    <desc lang="id">Eps 2</desc>
+    <icon src="https://thumbor.prod.vidiocdn.com/edoqRinFCRhrRwQ2ngcXacb_q74=/287x162/filters:strip_icc():quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/image/6685/champions-tv-1-54e282.jpg"/>
+  </programme>
+  <programme channel="6685" start="20260421163000 +0000" stop="20260421170000 +0000">
+    <title lang="id">Eps 2 : MXGP Behind the Gate 2026</title>
+    <desc lang="id">Eps 2</desc>
+    <icon src="https://thumbor.prod.vidiocdn.com/edoqRinFCRhrRwQ2ngcXacb_q74=/287x162/filters:strip_icc():quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/image/6685/champions-tv-1-54e282.jpg"/>
+  </programme>
+  <programme channel="6685" start="20260421170000 +0000" stop="20260421173000 +0000">
+    <title lang="id">Full Impact - Round 31 : Serie A 2025/26 - Highlight Show</title>
+    <desc lang="id">Full Impact Round 31</desc>
+    <icon src="https://thumbor.prod.vidiocdn.com/edoqRinFCRhrRwQ2ngcXacb_q74=/287x162/filters:strip_icc():quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/image/6685/champions-tv-1-54e282.jpg"/>
+  </programme>
+  <programme channel="6685" start="20260421173000 +0000" stop="20260421183000 +0000">
+    <title lang="id">Highlight - Round 30 : Portuguese League 2025/26</title>
+    <desc lang="id">Highlight Round 30</desc>
+    <icon src="https://thumbor.prod.vidiocdn.com/edoqRinFCRhrRwQ2ngcXacb_q74=/287x162/filters:strip_icc():quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/image/6685/champions-tv-1-54e282.jpg"/>
+  </programme>
+  <programme channel="6685" start="20260421183000 +0000" stop="20260421184000 +0000">
+    <title lang="id">Filler</title>
+    <icon src="https://thumbor.prod.vidiocdn.com/edoqRinFCRhrRwQ2ngcXacb_q74=/287x162/filters:strip_icc():quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/image/6685/champions-tv-1-54e282.jpg"/>
+  </programme>
+  <programme channel="6685" start="20260421184000 +0000" stop="20260421205000 +0000">
+    <title lang="id">Leicester City vs Hull City : EFL 2025/26 Championship</title>
+    <desc lang="id">Leicester City vs Hull City</desc>
+    <icon src="https://thumbor.prod.vidiocdn.com/edoqRinFCRhrRwQ2ngcXacb_q74=/287x162/filters:strip_icc():quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/image/6685/champions-tv-1-54e282.jpg"/>
+  </programme>
+  <programme channel="6685" start="20260421205000 +0000" stop="20260421210000 +0000">
+    <title lang="id">Filler</title>
+    <icon src="https://thumbor.prod.vidiocdn.com/edoqRinFCRhrRwQ2ngcXacb_q74=/287x162/filters:strip_icc():quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/image/6685/champions-tv-1-54e282.jpg"/>
+  </programme>
+  <programme channel="6685" start="20260421210000 +0000" stop="20260421213000 +0000">
+    <title lang="id">Eps 2 : MXGP Behind the Gate 2026</title>
+    <desc lang="id">Eps 2</desc>
+    <icon src="https://thumbor.prod.vidiocdn.com/edoqRinFCRhrRwQ2ngcXacb_q74=/287x162/filters:strip_icc():quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/image/6685/champions-tv-1-54e282.jpg"/>
+  </programme>
+  <programme channel="6685" start="20260421213000 +0000" stop="20260421220000 +0000">
+    <title lang="id">Eps 44 : PL Story 2023/24 - Subs</title>
+    <desc lang="id">Eps 44</desc>
+    <icon src="https://thumbor.prod.vidiocdn.com/edoqRinFCRhrRwQ2ngcXacb_q74=/287x162/filters:strip_icc():quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/image/6685/champions-tv-1-54e282.jpg"/>
+  </programme>
+  <programme channel="6685" start="20260421220000 +0000" stop="20260421230000 +0000">
+    <title lang="id">Highlight - Round 30 : Portuguese League 2025/26</title>
+    <desc lang="id">Highlight Round 30</desc>
+    <icon src="https://thumbor.prod.vidiocdn.com/edoqRinFCRhrRwQ2ngcXacb_q74=/287x162/filters:strip_icc():quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/image/6685/champions-tv-1-54e282.jpg"/>
+  </programme>
+  <programme channel="6685" start="20260421230000 +0000" stop="20260422010000 +0000">
+    <title lang="id">INTER vs CAGLIARI : Serie A 2025/26</title>
+    <desc lang="id">INTER vs CAGLIARI</desc>
+    <icon src="https://thumbor.prod.vidiocdn.com/edoqRinFCRhrRwQ2ngcXacb_q74=/287x162/filters:strip_icc():quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/image/6685/champions-tv-1-54e282.jpg"/>
+  </programme>
+  <programme channel="6685" start="20260422010000 +0000" stop="20260422030000 +0000">
+    <title lang="id">UDINESE vs PARMA : Serie A 2025/26</title>
+    <desc lang="id">UDINESE vs PARMA</desc>
+    <icon src="https://thumbor.prod.vidiocdn.com/edoqRinFCRhrRwQ2ngcXacb_q74=/287x162/filters:strip_icc():quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/image/6685/champions-tv-1-54e282.jpg"/>
+  </programme>
+  <programme channel="6685" start="20260422030000 +0000" stop="20260422050000 +0000">
+    <title lang="id">Leicester City vs Hull City : EFL 2025/26 Championship</title>
+    <desc lang="id">Leicester City vs Hull City</desc>
+    <icon src="https://thumbor.prod.vidiocdn.com/edoqRinFCRhrRwQ2ngcXacb_q74=/287x162/filters:strip_icc():quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/image/6685/champions-tv-1-54e282.jpg"/>
+  </programme>
+  <programme channel="6685" start="20260422050000 +0000" stop="20260422053000 +0000">
+    <title lang="id">Eps 48 : PL Story 2023/24 - Subs</title>
+    <desc lang="id">Eps 48</desc>
+    <icon src="https://thumbor.prod.vidiocdn.com/edoqRinFCRhrRwQ2ngcXacb_q74=/287x162/filters:strip_icc():quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/image/6685/champions-tv-1-54e282.jpg"/>
+  </programme>
+  <programme channel="6685" start="20260422053000 +0000" stop="20260422060000 +0000">
+    <title lang="id">Show 33 : EFL 2025/26 - Highlight</title>
+    <desc lang="id">Show 33</desc>
+    <icon src="https://thumbor.prod.vidiocdn.com/edoqRinFCRhrRwQ2ngcXacb_q74=/287x162/filters:strip_icc():quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/image/6685/champions-tv-1-54e282.jpg"/>
+  </programme>
+  <programme channel="6685" start="20260422060000 +0000" stop="20260422063000 +0000">
+    <title lang="id">Eps 4 : MXGP Behind the Gate 2026</title>
+    <desc lang="id">Eps 4</desc>
+    <icon src="https://thumbor.prod.vidiocdn.com/edoqRinFCRhrRwQ2ngcXacb_q74=/287x162/filters:strip_icc():quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/image/6685/champions-tv-1-54e282.jpg"/>
+  </programme>
+  <programme channel="6685" start="20260422063000 +0000" stop="20260422083000 +0000">
+    <title lang="id">Danzhou  Wuzhishan : TOUR OF HAINAN 2026</title>
+    <desc lang="id">Danzhou  Wuzhishan</desc>
+    <icon src="https://thumbor.prod.vidiocdn.com/edoqRinFCRhrRwQ2ngcXacb_q74=/287x162/filters:strip_icc():quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/image/6685/champions-tv-1-54e282.jpg"/>
+  </programme>
+  <programme channel="6685" start="20260422083000 +0000" stop="20260422103000 +0000">
+    <title lang="id">Ipswich Town vs Middlesbrough : EFL 2025/26 Championship</title>
+    <desc lang="id">Ipswich Town vs Middlesbrough</desc>
+    <icon src="https://thumbor.prod.vidiocdn.com/edoqRinFCRhrRwQ2ngcXacb_q74=/287x162/filters:strip_icc():quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/image/6685/champions-tv-1-54e282.jpg"/>
+  </programme>
+  <programme channel="6685" start="20260422103000 +0000" stop="20260422113000 +0000">
+    <title lang="id">Highlight - Round 28 : Portuguese League 2025/26</title>
+    <desc lang="id">Highlight Round 28</desc>
+    <icon src="https://thumbor.prod.vidiocdn.com/edoqRinFCRhrRwQ2ngcXacb_q74=/287x162/filters:strip_icc():quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/image/6685/champions-tv-1-54e282.jpg"/>
+  </programme>
+  <programme channel="6685" start="20260422113000 +0000" stop="20260422120000 +0000">
+    <title lang="id">Full Impact - Round 32 : Serie A 2025/26 - Highlight Show</title>
+    <desc lang="id">Full Impact Round 32</desc>
+    <icon src="https://thumbor.prod.vidiocdn.com/edoqRinFCRhrRwQ2ngcXacb_q74=/287x162/filters:strip_icc():quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/image/6685/champions-tv-1-54e282.jpg"/>
+  </programme>
+  <programme channel="6685" start="20260422120000 +0000" stop="20260422140000 +0000">
+    <title lang="id">INTER vs CAGLIARI : Serie A 2025/26</title>
+    <desc lang="id">INTER vs CAGLIARI</desc>
+    <icon src="https://thumbor.prod.vidiocdn.com/edoqRinFCRhrRwQ2ngcXacb_q74=/287x162/filters:strip_icc():quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/image/6685/champions-tv-1-54e282.jpg"/>
+  </programme>
+  <programme channel="6685" start="20260422140000 +0000" stop="20260422160000 +0000">
+    <title lang="id">NEC vs Feyenoord : Dutch League 2025/26</title>
+    <desc lang="id">NEC vs Feyenoord</desc>
+    <icon src="https://thumbor.prod.vidiocdn.com/edoqRinFCRhrRwQ2ngcXacb_q74=/287x162/filters:strip_icc():quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/image/6685/champions-tv-1-54e282.jpg"/>
+  </programme>
+  <programme channel="6685" start="20260422160000 +0000" stop="20260422163000 +0000">
+    <title lang="id">Eps 48 : PL Story 2023/24 - Subs</title>
+    <desc lang="id">Eps 48</desc>
+    <icon src="https://thumbor.prod.vidiocdn.com/edoqRinFCRhrRwQ2ngcXacb_q74=/287x162/filters:strip_icc():quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/image/6685/champions-tv-1-54e282.jpg"/>
+  </programme>
+  <programme channel="6685" start="20260422163000 +0000" stop="20260422170000 +0000">
+    <title lang="id">Eps 4 : MXGP Behind the Gate 2026</title>
+    <desc lang="id">Eps 4</desc>
+    <icon src="https://thumbor.prod.vidiocdn.com/edoqRinFCRhrRwQ2ngcXacb_q74=/287x162/filters:strip_icc():quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/image/6685/champions-tv-1-54e282.jpg"/>
+  </programme>
+  <programme channel="6685" start="20260422163000 +0000" stop="20260422170000 +0000">
+    <title lang="id">Eps 4 : MXGP Behind the Gate 2026</title>
+    <desc lang="id">Eps 4</desc>
+    <icon src="https://thumbor.prod.vidiocdn.com/edoqRinFCRhrRwQ2ngcXacb_q74=/287x162/filters:strip_icc():quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/image/6685/champions-tv-1-54e282.jpg"/>
+  </programme>
+  <programme channel="6685" start="20260422170000 +0000" stop="20260422173000 +0000">
+    <title lang="id">Full Impact - Round 32 : Serie A 2025/26 - Highlight Show</title>
+    <desc lang="id">Full Impact Round 32</desc>
+    <icon src="https://thumbor.prod.vidiocdn.com/edoqRinFCRhrRwQ2ngcXacb_q74=/287x162/filters:strip_icc():quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/image/6685/champions-tv-1-54e282.jpg"/>
+  </programme>
+  <programme channel="6685" start="20260422173000 +0000" stop="20260422175500 +0000">
+    <title lang="id">Filler</title>
+    <icon src="https://thumbor.prod.vidiocdn.com/edoqRinFCRhrRwQ2ngcXacb_q74=/287x162/filters:strip_icc():quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/image/6685/champions-tv-1-54e282.jpg"/>
+  </programme>
+  <programme channel="6685" start="20260422175500 +0000" stop="20260422200000 +0000">
+    <title lang="id">Telstar vs Sparta Rotterdam : Dutch League 2025/26</title>
+    <desc lang="id">Telstar vs Sparta Rotterdam</desc>
+    <icon src="https://thumbor.prod.vidiocdn.com/edoqRinFCRhrRwQ2ngcXacb_q74=/287x162/filters:strip_icc():quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/image/6685/champions-tv-1-54e282.jpg"/>
+  </programme>
+  <programme channel="6685" start="20260422200000 +0000" stop="20260422220000 +0000">
+    <title lang="id">Sporting vs Benfica : Portuguese League 2025/26</title>
+    <desc lang="id">Sporting vs Benfica</desc>
+    <icon src="https://thumbor.prod.vidiocdn.com/edoqRinFCRhrRwQ2ngcXacb_q74=/287x162/filters:strip_icc():quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/image/6685/champions-tv-1-54e282.jpg"/>
+  </programme>
+  <programme channel="6685" start="20260422220000 +0000" stop="20260422230000 +0000">
+    <title lang="id">Highlight - Round 29 : Portuguese League 2025/26</title>
+    <desc lang="id">Highlight Round 29</desc>
+    <icon src="https://thumbor.prod.vidiocdn.com/edoqRinFCRhrRwQ2ngcXacb_q74=/287x162/filters:strip_icc():quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/image/6685/champions-tv-1-54e282.jpg"/>
+  </programme>
+  <programme channel="6685" start="20260422230000 +0000" stop="20260423010000 +0000">
+    <title lang="id">NAPOLI vs LAZIO : Serie A 2025/26</title>
+    <desc lang="id">NAPOLI vs LAZIO</desc>
+    <icon src="https://thumbor.prod.vidiocdn.com/edoqRinFCRhrRwQ2ngcXacb_q74=/287x162/filters:strip_icc():quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/image/6685/champions-tv-1-54e282.jpg"/>
+  </programme>
+  <programme channel="6685" start="20260423010000 +0000" stop="20260423030000 +0000">
+    <title lang="id">ROMA vs ATALANTA : Serie A 2025/26</title>
+    <desc lang="id">ROMA vs ATALANTA</desc>
+    <icon src="https://thumbor.prod.vidiocdn.com/edoqRinFCRhrRwQ2ngcXacb_q74=/287x162/filters:strip_icc():quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/image/6685/champions-tv-1-54e282.jpg"/>
+  </programme>
+  <programme channel="6685" start="20260423030000 +0000" stop="20260423050000 +0000">
+    <title lang="id">Charlton Athletic vs Ipswich Town : EFL 2025/26</title>
+    <desc lang="id">Charlton Athletic vs Ipswich Town</desc>
+    <icon src="https://thumbor.prod.vidiocdn.com/edoqRinFCRhrRwQ2ngcXacb_q74=/287x162/filters:strip_icc():quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/image/6685/champions-tv-1-54e282.jpg"/>
+  </programme>
+  <programme channel="6685" start="20260423050000 +0000" stop="20260423053000 +0000">
+    <title lang="id">Eps 49 : PL Story 2023/24 - Subs</title>
+    <desc lang="id">Eps 49</desc>
+    <icon src="https://thumbor.prod.vidiocdn.com/edoqRinFCRhrRwQ2ngcXacb_q74=/287x162/filters:strip_icc():quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/image/6685/champions-tv-1-54e282.jpg"/>
+  </programme>
+  <programme channel="6685" start="20260423053000 +0000" stop="20260423060000 +0000">
+    <title lang="id">Show 34 : EFL 2025/26 - Highlight</title>
+    <desc lang="id">Show 34</desc>
+    <icon src="https://thumbor.prod.vidiocdn.com/edoqRinFCRhrRwQ2ngcXacb_q74=/287x162/filters:strip_icc():quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/image/6685/champions-tv-1-54e282.jpg"/>
+  </programme>
+  <programme channel="6685" start="20260423060000 +0000" stop="20260423063000 +0000">
+    <title lang="id">Eps 3 : MXGP Behind the Gate 2026</title>
+    <desc lang="id">Eps 3</desc>
+    <icon src="https://thumbor.prod.vidiocdn.com/edoqRinFCRhrRwQ2ngcXacb_q74=/287x162/filters:strip_icc():quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/image/6685/champions-tv-1-54e282.jpg"/>
+  </programme>
+  <programme channel="6685" start="20260423063000 +0000" stop="20260423083000 +0000">
+    <title lang="id">Wuzhishan  Lingshui : TOUR OF HAINAN 2026</title>
+    <desc lang="id">Wuzhishan  Lingshui</desc>
+    <icon src="https://thumbor.prod.vidiocdn.com/edoqRinFCRhrRwQ2ngcXacb_q74=/287x162/filters:strip_icc():quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/image/6685/champions-tv-1-54e282.jpg"/>
+  </programme>
+  <programme channel="6685" start="20260423083000 +0000" stop="20260423103000 +0000">
+    <title lang="id">Telstar vs Sparta Rotterdam : Dutch League 2025/26</title>
+    <desc lang="id">Telstar vs Sparta Rotterdam</desc>
+    <icon src="https://thumbor.prod.vidiocdn.com/edoqRinFCRhrRwQ2ngcXacb_q74=/287x162/filters:strip_icc():quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/image/6685/champions-tv-1-54e282.jpg"/>
+  </programme>
+  <programme channel="6685" start="20260423103000 +0000" stop="20260423113000 +0000">
+    <title lang="id">Highlight - Round 30 : Dutch League 2025/26</title>
+    <desc lang="id">Highlight Round 30</desc>
+    <icon src="https://thumbor.prod.vidiocdn.com/edoqRinFCRhrRwQ2ngcXacb_q74=/287x162/filters:strip_icc():quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/image/6685/champions-tv-1-54e282.jpg"/>
+  </programme>
+  <programme channel="6685" start="20260423113000 +0000" stop="20260423120000 +0000">
+    <title lang="id">Full Impact - Round 33 : Serie A 2025/26 - Highlight Show</title>
+    <desc lang="id">Full Impact Round 33</desc>
+    <icon src="https://thumbor.prod.vidiocdn.com/edoqRinFCRhrRwQ2ngcXacb_q74=/287x162/filters:strip_icc():quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/image/6685/champions-tv-1-54e282.jpg"/>
+  </programme>
+  <programme channel="6685" start="20260423120000 +0000" stop="20260423140000 +0000">
+    <title lang="id">NAPOLI vs LAZIO : Serie A 2025/26</title>
+    <desc lang="id">NAPOLI vs LAZIO</desc>
+    <icon src="https://thumbor.prod.vidiocdn.com/edoqRinFCRhrRwQ2ngcXacb_q74=/287x162/filters:strip_icc():quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/image/6685/champions-tv-1-54e282.jpg"/>
+  </programme>
+  <programme channel="6685" start="20260423140000 +0000" stop="20260423160000 +0000">
+    <title lang="id">ROMA vs ATALANTA : Serie A 2025/26</title>
+    <desc lang="id">ROMA vs ATALANTA</desc>
+    <icon src="https://thumbor.prod.vidiocdn.com/edoqRinFCRhrRwQ2ngcXacb_q74=/287x162/filters:strip_icc():quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/image/6685/champions-tv-1-54e282.jpg"/>
+  </programme>
+  <programme channel="6685" start="20260423160000 +0000" stop="20260423163000 +0000">
+    <title lang="id">Eps 49 : PL Story 2023/24 - Subs</title>
+    <desc lang="id">Eps 49</desc>
+    <icon src="https://thumbor.prod.vidiocdn.com/edoqRinFCRhrRwQ2ngcXacb_q74=/287x162/filters:strip_icc():quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/image/6685/champions-tv-1-54e282.jpg"/>
+  </programme>
+  <programme channel="6685" start="20260423163000 +0000" stop="20260423164000 +0000">
+    <title lang="id">Filler</title>
+    <icon src="https://thumbor.prod.vidiocdn.com/edoqRinFCRhrRwQ2ngcXacb_q74=/287x162/filters:strip_icc():quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/image/6685/champions-tv-1-54e282.jpg"/>
+  </programme>
+  <programme channel="6685" start="20260423164000 +0000" stop="20260423170000 +0000">
+    <title lang="id">Go Ahead Eagles vs AZ Alkmaar : Dutch League 2025/26</title>
+    <desc lang="id">Go Ahead Eagles vs AZ Alkmaar</desc>
+    <icon src="https://thumbor.prod.vidiocdn.com/edoqRinFCRhrRwQ2ngcXacb_q74=/287x162/filters:strip_icc():quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/image/6685/champions-tv-1-54e282.jpg"/>
+  </programme>
+  <programme channel="6685" start="20260423164000 +0000" stop="20260423170000 +0000">
+    <title lang="id">Go Ahead Eagles vs AZ Alkmaar : Dutch League 2025/26</title>
+    <desc lang="id">Go Ahead Eagles vs AZ Alkmaar</desc>
+    <icon src="https://thumbor.prod.vidiocdn.com/edoqRinFCRhrRwQ2ngcXacb_q74=/287x162/filters:strip_icc():quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/image/6685/champions-tv-1-54e282.jpg"/>
+  </programme>
+  <programme channel="6685" start="20260423170000 +0000" stop="20260423184000 +0000">
+    <title lang="id">Go Ahead Eagles vs AZ Alkmaar : Dutch League 2025/26</title>
+    <desc lang="id">Go Ahead Eagles vs AZ Alkmaar</desc>
+    <icon src="https://thumbor.prod.vidiocdn.com/edoqRinFCRhrRwQ2ngcXacb_q74=/287x162/filters:strip_icc():quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/image/6685/champions-tv-1-54e282.jpg"/>
+  </programme>
+  <programme channel="6685" start="20260423184000 +0000" stop="20260423185500 +0000">
+    <title lang="id">Filler</title>
+    <icon src="https://thumbor.prod.vidiocdn.com/edoqRinFCRhrRwQ2ngcXacb_q74=/287x162/filters:strip_icc():quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/image/6685/champions-tv-1-54e282.jpg"/>
+  </programme>
+  <programme channel="6685" start="20260423185500 +0000" stop="20260423210000 +0000">
+    <title lang="id">PSV Eindhoven vs PEC Zwolle : Dutch League 2025/26</title>
+    <desc lang="id">PSV Eindhoven vs PEC Zwolle</desc>
+    <icon src="https://thumbor.prod.vidiocdn.com/edoqRinFCRhrRwQ2ngcXacb_q74=/287x162/filters:strip_icc():quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/image/6685/champions-tv-1-54e282.jpg"/>
+  </programme>
+  <programme channel="6685" start="20260423210000 +0000" stop="20260423213000 +0000">
+    <title lang="id">Eps 3 : MXGP Behind the Gate 2026</title>
+    <desc lang="id">Eps 3</desc>
+    <icon src="https://thumbor.prod.vidiocdn.com/edoqRinFCRhrRwQ2ngcXacb_q74=/287x162/filters:strip_icc():quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/image/6685/champions-tv-1-54e282.jpg"/>
+  </programme>
+  <programme channel="6685" start="20260423213000 +0000" stop="20260423220000 +0000">
+    <title lang="id">Eps 45 : PL Story 2023/24 - Subs</title>
+    <desc lang="id">Eps 45</desc>
+    <icon src="https://thumbor.prod.vidiocdn.com/edoqRinFCRhrRwQ2ngcXacb_q74=/287x162/filters:strip_icc():quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/image/6685/champions-tv-1-54e282.jpg"/>
+  </programme>
+  <programme channel="6685" start="20260423220000 +0000" stop="20260423230000 +0000">
+    <title lang="id">Highlight - Round 30 : Dutch League 2025/26</title>
+    <desc lang="id">Highlight Round 30</desc>
+    <icon src="https://thumbor.prod.vidiocdn.com/edoqRinFCRhrRwQ2ngcXacb_q74=/287x162/filters:strip_icc():quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/image/6685/champions-tv-1-54e282.jpg"/>
+  </programme>
+  <programme channel="6685" start="20260423230000 +0000" stop="20260424010000 +0000">
+    <title lang="id">CREMONESE vs TORINO : Serie A 2025/26</title>
+    <desc lang="id">CREMONESE vs TORINO</desc>
+    <icon src="https://thumbor.prod.vidiocdn.com/edoqRinFCRhrRwQ2ngcXacb_q74=/287x162/filters:strip_icc():quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/image/6685/champions-tv-1-54e282.jpg"/>
+  </programme>
+  <programme channel="6685" start="20260424010000 +0000" stop="20260424030000 +0000">
+    <title lang="id">HELLAS VERONA vs MILAN : Serie A 2025/26</title>
+    <desc lang="id">HELLAS VERONA vs MILAN</desc>
+    <icon src="https://thumbor.prod.vidiocdn.com/edoqRinFCRhrRwQ2ngcXacb_q74=/287x162/filters:strip_icc():quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/image/6685/champions-tv-1-54e282.jpg"/>
+  </programme>
+  <programme channel="6685" start="20260424030000 +0000" stop="20260424050000 +0000">
+    <title lang="id">Salford City vs Bromley : EFL 2025/26 League Two</title>
+    <desc lang="id">Salford City vs Bromley</desc>
+    <icon src="https://thumbor.prod.vidiocdn.com/edoqRinFCRhrRwQ2ngcXacb_q74=/287x162/filters:strip_icc():quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/image/6685/champions-tv-1-54e282.jpg"/>
+  </programme>
+  <programme channel="6685" start="20260424050000 +0000" stop="20260424053000 +0000">
+    <title lang="id">Eps 50 : PL Story 2023/24 - Subs</title>
+    <desc lang="id">Eps 50</desc>
+    <icon src="https://thumbor.prod.vidiocdn.com/edoqRinFCRhrRwQ2ngcXacb_q74=/287x162/filters:strip_icc():quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/image/6685/champions-tv-1-54e282.jpg"/>
+  </programme>
+  <programme channel="6685" start="20260424053000 +0000" stop="20260424060000 +0000">
+    <title lang="id">Full Impact - Round 33 : Serie A 2025/26 - Highlight Show</title>
+    <desc lang="id">Full Impact Round 33</desc>
+    <icon src="https://thumbor.prod.vidiocdn.com/edoqRinFCRhrRwQ2ngcXacb_q74=/287x162/filters:strip_icc():quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/image/6685/champions-tv-1-54e282.jpg"/>
+  </programme>
+  <programme channel="6685" start="20260424060000 +0000" stop="20260424063000 +0000">
+    <title lang="id">Eps 2 : MXGP Behind the Gate 2026</title>
+    <desc lang="id">Eps 2</desc>
+    <icon src="https://thumbor.prod.vidiocdn.com/edoqRinFCRhrRwQ2ngcXacb_q74=/287x162/filters:strip_icc():quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/image/6685/champions-tv-1-54e282.jpg"/>
+  </programme>
+  <programme channel="6685" start="20260424063000 +0000" stop="20260424083000 +0000">
+    <title lang="id">Lingshui  Baoting : TOUR OF HAINAN 2026</title>
+    <desc lang="id">Lingshui  Baoting</desc>
+    <icon src="https://thumbor.prod.vidiocdn.com/edoqRinFCRhrRwQ2ngcXacb_q74=/287x162/filters:strip_icc():quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/image/6685/champions-tv-1-54e282.jpg"/>
+  </programme>
+  <programme channel="6685" start="20260424083000 +0000" stop="20260424103000 +0000">
+    <title lang="id">PSV Eindhoven vs PEC Zwolle : Dutch League 2025/26</title>
+    <desc lang="id">PSV Eindhoven vs PEC Zwolle</desc>
+    <icon src="https://thumbor.prod.vidiocdn.com/edoqRinFCRhrRwQ2ngcXacb_q74=/287x162/filters:strip_icc():quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/image/6685/champions-tv-1-54e282.jpg"/>
+  </programme>
+  <programme channel="6685" start="20260424103000 +0000" stop="20260424113000 +0000">
+    <title lang="id">Highlight - Round 30 : Portuguese League 2025/26</title>
+    <desc lang="id">Highlight Round 30</desc>
+    <icon src="https://thumbor.prod.vidiocdn.com/edoqRinFCRhrRwQ2ngcXacb_q74=/287x162/filters:strip_icc():quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/image/6685/champions-tv-1-54e282.jpg"/>
+  </programme>
+  <programme channel="6685" start="20260424113000 +0000" stop="20260424120000 +0000">
+    <title lang="id">Inside - Round 34 : Serie A 2025/26 - Magazine</title>
+    <desc lang="id">Inside Round 34</desc>
+    <icon src="https://thumbor.prod.vidiocdn.com/edoqRinFCRhrRwQ2ngcXacb_q74=/287x162/filters:strip_icc():quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/image/6685/champions-tv-1-54e282.jpg"/>
+  </programme>
+  <programme channel="6685" start="20260424120000 +0000" stop="20260424140000 +0000">
+    <title lang="id">HELLAS VERONA vs MILAN : Serie A 2025/26</title>
+    <desc lang="id">HELLAS VERONA vs MILAN</desc>
+    <icon src="https://thumbor.prod.vidiocdn.com/edoqRinFCRhrRwQ2ngcXacb_q74=/287x162/filters:strip_icc():quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/image/6685/champions-tv-1-54e282.jpg"/>
+  </programme>
+  <programme channel="6685" start="20260424140000 +0000" stop="20260424160000 +0000">
+    <title lang="id">Telstar vs Sparta Rotterdam : Dutch League 2025/26</title>
+    <desc lang="id">Telstar vs Sparta Rotterdam</desc>
+    <icon src="https://thumbor.prod.vidiocdn.com/edoqRinFCRhrRwQ2ngcXacb_q74=/287x162/filters:strip_icc():quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/image/6685/champions-tv-1-54e282.jpg"/>
+  </programme>
+  <programme channel="6685" start="20260424160000 +0000" stop="20260424163000 +0000">
+    <title lang="id">Eps 50 : PL Story 2023/24 - Subs</title>
+    <desc lang="id">Eps 50</desc>
+    <icon src="https://thumbor.prod.vidiocdn.com/edoqRinFCRhrRwQ2ngcXacb_q74=/287x162/filters:strip_icc():quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/image/6685/champions-tv-1-54e282.jpg"/>
+  </programme>
+  <programme channel="6685" start="20260424163000 +0000" stop="20260424170000 +0000">
+    <title lang="id">Round 2 - Race &amp; Highlight : Snowcross World Championship 2026</title>
+    <desc lang="id">Round 2 Race &amp; Highlight</desc>
+    <icon src="https://thumbor.prod.vidiocdn.com/edoqRinFCRhrRwQ2ngcXacb_q74=/287x162/filters:strip_icc():quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/image/6685/champions-tv-1-54e282.jpg"/>
+  </programme>
   <programme channel="782" start="20260417163000 +0000" stop="20260417170000 +0000">
     <title lang="id">Bioskop Asia: The Dragon Chronicles: The Maidens of Heavenly Mountains</title>
     <desc lang="id">Legenda mengatakan bahwa di tempat yang jauh di luar ujung bumi, terdapat seorang pria yang patah hati dengan kekuatan tak terbatas. Ditinggalkan oleh orang-orang yang dicintainya, warisan kekuatan chi lelaki tua itu menjadi medan pertempuran bagi pihak luar yang jahat.</desc>
@@ -12795,27 +13269,17 @@
     <desc lang="id">Sundowns vs ES Tunis - SF 2nd Leg</desc>
     <icon src="https://thumbor.prod.vidiocdn.com/VmoYokSeKr_3SubUXC-rMC-EtQM=/287x162/filters:strip_icc():quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/image/17875/bein-2-25a5f9.jpg"/>
   </programme>
-  <programme channel="17875" start="20260418150000 +0000" stop="20260418182500 +0000">
+  <programme channel="17875" start="20260418150000 +0000" stop="20260418200000 +0000">
     <title lang="id">Newgiza P2 Premier Padel 2026 - Finals</title>
     <desc lang="id">Nonton streaming pertandingan seru Newgiza P2 Premier Padel 2026 - Finals. Saksikan aksi-aksi terbaik dari tim yang bersaing ketat untuk meraih kemenangan. Dapatkan informasi lengkap mengenai jadwal pertandingan dan hasil pertandingan terbaru hanya di Vidio.</desc>
     <icon src="https://thumbor.prod.vidiocdn.com/3VybO7v3kSdaduGCwUHDX77_6tg=/287x162/filters:strip_icc():quality(70)/vidio-media-production/uploads/livestreaming/schedule/thumbnail/5015448/ccfa98.jpg"/>
   </programme>
-  <programme channel="17875" start="20260418150000 +0000" stop="20260418180000 +0000">
+  <programme channel="17875" start="20260418150000 +0000" stop="20260418200000 +0000">
     <title lang="id">Newgiza P2 Premier Padel 2026 - Finals</title>
     <desc lang="id">Nonton streaming pertandingan seru Newgiza P2 Premier Padel 2026 - Finals. Saksikan aksi-aksi terbaik dari tim yang bersaing ketat untuk meraih kemenangan. Dapatkan informasi lengkap mengenai jadwal pertandingan dan hasil pertandingan terbaru hanya di Vidio.</desc>
     <icon src="https://thumbor.prod.vidiocdn.com/3VybO7v3kSdaduGCwUHDX77_6tg=/287x162/filters:strip_icc():quality(70)/vidio-media-production/uploads/livestreaming/schedule/thumbnail/5015448/ccfa98.jpg"/>
   </programme>
-  <programme channel="17875" start="20260418180000 +0000" stop="20260418182500 +0000">
-    <title lang="id">Japan vs Chile - Tri-Nations Challenge : HSBC SVNS Series 2026</title>
-    <desc lang="id">Japan vs Chile - Tri-Nations Challenge</desc>
-    <icon src="https://thumbor.prod.vidiocdn.com/VmoYokSeKr_3SubUXC-rMC-EtQM=/287x162/filters:strip_icc():quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/image/17875/bein-2-25a5f9.jpg"/>
-  </programme>
-  <programme channel="17875" start="20260418182500 +0000" stop="20260418185300 +0000">
-    <title lang="id">Canada vs Japan - Tri-Nations Challenge : HSBC SVNS Series 2026</title>
-    <desc lang="id">Canada vs Japan - Tri-Nations Challenge</desc>
-    <icon src="https://thumbor.prod.vidiocdn.com/VmoYokSeKr_3SubUXC-rMC-EtQM=/287x162/filters:strip_icc():quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/image/17875/bein-2-25a5f9.jpg"/>
-  </programme>
-  <programme channel="17875" start="20260418185300 +0000" stop="20260418210000 +0000">
+  <programme channel="17875" start="20260418200000 +0000" stop="20260418210000 +0000">
     <title lang="id">RS Berkane vs AS FAR - SF 2nd Leg : TotalEnergies CAF Champions League 2025/26</title>
     <desc lang="id">RS Berkane vs AS FAR - SF 2nd Leg</desc>
     <icon src="https://thumbor.prod.vidiocdn.com/VmoYokSeKr_3SubUXC-rMC-EtQM=/287x162/filters:strip_icc():quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/image/17875/bein-2-25a5f9.jpg"/>
@@ -15608,6 +16072,494 @@ dan komprehensif mengenai berbagai topik yang relevan dalam kehidupan sehari-har
     <desc lang="id">EPS 03</desc>
     <icon src="https://thumbor.prod.vidiocdn.com/xgkik6iws0EJ01bi5cJsIjYWjOM=/287x162/filters:strip_icc():quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/image/6686/champions-tv-2-681a27.jpg"/>
   </programme>
+  <programme channel="6686" start="20260419170000 +0000" stop="20260419190000 +0000">
+    <title lang="id">SPARTA ROTTERDAM VS PSV EINDHOVEN : DUTCH LEAGUE EREDIVISIE 2025/26</title>
+    <desc lang="id">SPARTA ROTTERDAM VS PSV EINDHOVEN</desc>
+    <icon src="https://thumbor.prod.vidiocdn.com/xgkik6iws0EJ01bi5cJsIjYWjOM=/287x162/filters:strip_icc():quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/image/6686/champions-tv-2-681a27.jpg"/>
+  </programme>
+  <programme channel="6686" start="20260419190000 +0000" stop="20260419192500 +0000">
+    <title lang="id">HIGHLIGHT - Show 34 : EFL 2025/26</title>
+    <desc lang="id">HIGHLIGHT Show 34</desc>
+    <icon src="https://thumbor.prod.vidiocdn.com/xgkik6iws0EJ01bi5cJsIjYWjOM=/287x162/filters:strip_icc():quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/image/6686/champions-tv-2-681a27.jpg"/>
+  </programme>
+  <programme channel="6686" start="20260419192500 +0000" stop="20260419213000 +0000">
+    <title lang="id">PORTO VS TONDELA : PORTUGUESE LEAGUE 2025/26</title>
+    <desc lang="id">PORTO VS TONDELA</desc>
+    <icon src="https://thumbor.prod.vidiocdn.com/xgkik6iws0EJ01bi5cJsIjYWjOM=/287x162/filters:strip_icc():quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/image/6686/champions-tv-2-681a27.jpg"/>
+  </programme>
+  <programme channel="6686" start="20260419213000 +0000" stop="20260419233000 +0000">
+    <title lang="id">IPSWICH TOWN VS MIDDLESBROUGH : EFL 2025/26 CHAMPIONSHIP</title>
+    <desc lang="id">IPSWICH TOWN VS MIDDLESBROUGH</desc>
+    <icon src="https://thumbor.prod.vidiocdn.com/xgkik6iws0EJ01bi5cJsIjYWjOM=/287x162/filters:strip_icc():quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/image/6686/champions-tv-2-681a27.jpg"/>
+  </programme>
+  <programme channel="6686" start="20260419233000 +0000" stop="20260420000000 +0000">
+    <title lang="id">HIGHLIGHT ROUND 01 &amp; ROUND 02 : SNOWCROSS WORLD CHAMPIONSHIP 2026</title>
+    <desc lang="id">HIGHLIGHT ROUND 01 &amp; ROUND 02</desc>
+    <icon src="https://thumbor.prod.vidiocdn.com/xgkik6iws0EJ01bi5cJsIjYWjOM=/287x162/filters:strip_icc():quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/image/6686/champions-tv-2-681a27.jpg"/>
+  </programme>
+  <programme channel="6686" start="20260420000000 +0000" stop="20260420003000 +0000">
+    <title lang="id">MAGAZINE - INSIDE ROUND 32 : SERIE A 2025/26</title>
+    <desc lang="id">MAGAZINE INSIDE ROUND 32</desc>
+    <icon src="https://thumbor.prod.vidiocdn.com/xgkik6iws0EJ01bi5cJsIjYWjOM=/287x162/filters:strip_icc():quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/image/6686/champions-tv-2-681a27.jpg"/>
+  </programme>
+  <programme channel="6686" start="20260420003000 +0000" stop="20260420010000 +0000">
+    <title lang="id">HIGHLIGHT - FULL IMPACT ROUND 32 : SERIE A 2025/26</title>
+    <desc lang="id">HIGHLIGHT FULL IMPACT ROUND 32</desc>
+    <icon src="https://thumbor.prod.vidiocdn.com/xgkik6iws0EJ01bi5cJsIjYWjOM=/287x162/filters:strip_icc():quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/image/6686/champions-tv-2-681a27.jpg"/>
+  </programme>
+  <programme channel="6686" start="20260420010000 +0000" stop="20260420030000 +0000">
+    <title lang="id">HAIKOU DANZHOU : TOUR OF HAINAN 2026</title>
+    <desc lang="id">HAIKOU  DANZHOU</desc>
+    <icon src="https://thumbor.prod.vidiocdn.com/xgkik6iws0EJ01bi5cJsIjYWjOM=/287x162/filters:strip_icc():quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/image/6686/champions-tv-2-681a27.jpg"/>
+  </programme>
+  <programme channel="6686" start="20260420030000 +0000" stop="20260420033000 +0000">
+    <title lang="id">HIGHLIGHT - Final Leg : CARABAO CUP 2025/26</title>
+    <desc lang="id">HIGHLIGHT Final Leg</desc>
+    <icon src="https://thumbor.prod.vidiocdn.com/xgkik6iws0EJ01bi5cJsIjYWjOM=/287x162/filters:strip_icc():quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/image/6686/champions-tv-2-681a27.jpg"/>
+  </programme>
+  <programme channel="6686" start="20260420033000 +0000" stop="20260420053000 +0000">
+    <title lang="id">PORTO VS TONDELA : PORTUGUESE LEAGUE 2025/26</title>
+    <desc lang="id">PORTO VS TONDELA</desc>
+    <icon src="https://thumbor.prod.vidiocdn.com/xgkik6iws0EJ01bi5cJsIjYWjOM=/287x162/filters:strip_icc():quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/image/6686/champions-tv-2-681a27.jpg"/>
+  </programme>
+  <programme channel="6686" start="20260420053000 +0000" stop="20260420073000 +0000">
+    <title lang="id">IPSWICH TOWN VS MIDDLESBROUGH : EFL 2025/26 CHAMPIONSHIP</title>
+    <desc lang="id">IPSWICH TOWN VS MIDDLESBROUGH</desc>
+    <icon src="https://thumbor.prod.vidiocdn.com/xgkik6iws0EJ01bi5cJsIjYWjOM=/287x162/filters:strip_icc():quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/image/6686/champions-tv-2-681a27.jpg"/>
+  </programme>
+  <programme channel="6686" start="20260420073000 +0000" stop="20260420080000 +0000">
+    <title lang="id">HIGHLIGHT ROUND 01 &amp; ROUND 02 : SNOWCROSS WORLD CHAMPIONSHIP 2026</title>
+    <desc lang="id">HIGHLIGHT ROUND 01 &amp; ROUND 02</desc>
+    <icon src="https://thumbor.prod.vidiocdn.com/xgkik6iws0EJ01bi5cJsIjYWjOM=/287x162/filters:strip_icc():quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/image/6686/champions-tv-2-681a27.jpg"/>
+  </programme>
+  <programme channel="6686" start="20260420080000 +0000" stop="20260420083000 +0000">
+    <title lang="id">MAGAZINE - INSIDE ROUND 32 : SERIE A 2025/26</title>
+    <desc lang="id">MAGAZINE INSIDE ROUND 32</desc>
+    <icon src="https://thumbor.prod.vidiocdn.com/xgkik6iws0EJ01bi5cJsIjYWjOM=/287x162/filters:strip_icc():quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/image/6686/champions-tv-2-681a27.jpg"/>
+  </programme>
+  <programme channel="6686" start="20260420083000 +0000" stop="20260420090000 +0000">
+    <title lang="id">HIGHLIGHT - FULL IMPACT ROUND 32 : SERIE A 2025/26</title>
+    <desc lang="id">HIGHLIGHT FULL IMPACT ROUND 32</desc>
+    <icon src="https://thumbor.prod.vidiocdn.com/xgkik6iws0EJ01bi5cJsIjYWjOM=/287x162/filters:strip_icc():quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/image/6686/champions-tv-2-681a27.jpg"/>
+  </programme>
+  <programme channel="6686" start="20260420090000 +0000" stop="20260420110000 +0000">
+    <title lang="id">HAIKOU DANZHOU : TOUR OF HAINAN 2026</title>
+    <desc lang="id">HAIKOU  DANZHOU</desc>
+    <icon src="https://thumbor.prod.vidiocdn.com/xgkik6iws0EJ01bi5cJsIjYWjOM=/287x162/filters:strip_icc():quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/image/6686/champions-tv-2-681a27.jpg"/>
+  </programme>
+  <programme channel="6686" start="20260420110000 +0000" stop="20260420113000 +0000">
+    <title lang="id">HIGHLIGHT - Final Leg : CARABAO CUP 2025/26</title>
+    <desc lang="id">HIGHLIGHT Final Leg</desc>
+    <icon src="https://thumbor.prod.vidiocdn.com/xgkik6iws0EJ01bi5cJsIjYWjOM=/287x162/filters:strip_icc():quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/image/6686/champions-tv-2-681a27.jpg"/>
+  </programme>
+  <programme channel="6686" start="20260420113000 +0000" stop="20260420133000 +0000">
+    <title lang="id">PORTO VS TONDELA : PORTUGUESE LEAGUE 2025/26</title>
+    <desc lang="id">PORTO VS TONDELA</desc>
+    <icon src="https://thumbor.prod.vidiocdn.com/xgkik6iws0EJ01bi5cJsIjYWjOM=/287x162/filters:strip_icc():quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/image/6686/champions-tv-2-681a27.jpg"/>
+  </programme>
+  <programme channel="6686" start="20260420133000 +0000" stop="20260420153000 +0000">
+    <title lang="id">SPARTA ROTTERDAM VS PSV EINDHOVEN : DUTCH LEAGUE EREDIVISIE 2025/26</title>
+    <desc lang="id">SPARTA ROTTERDAM VS PSV EINDHOVEN</desc>
+    <icon src="https://thumbor.prod.vidiocdn.com/xgkik6iws0EJ01bi5cJsIjYWjOM=/287x162/filters:strip_icc():quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/image/6686/champions-tv-2-681a27.jpg"/>
+  </programme>
+  <programme channel="6686" start="20260420153000 +0000" stop="20260420160000 +0000">
+    <title lang="id">HIGHLIGHT ROUND 01 &amp; ROUND 02 : SNOWCROSS WORLD CHAMPIONSHIP 2026</title>
+    <desc lang="id">HIGHLIGHT ROUND 01 &amp; ROUND 02</desc>
+    <icon src="https://thumbor.prod.vidiocdn.com/xgkik6iws0EJ01bi5cJsIjYWjOM=/287x162/filters:strip_icc():quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/image/6686/champions-tv-2-681a27.jpg"/>
+  </programme>
+  <programme channel="6686" start="20260420160000 +0000" stop="20260420163000 +0000">
+    <title lang="id">MAGAZINE - INSIDE ROUND 32 : SERIE A 2025/26</title>
+    <desc lang="id">MAGAZINE INSIDE ROUND 32</desc>
+    <icon src="https://thumbor.prod.vidiocdn.com/xgkik6iws0EJ01bi5cJsIjYWjOM=/287x162/filters:strip_icc():quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/image/6686/champions-tv-2-681a27.jpg"/>
+  </programme>
+  <programme channel="6686" start="20260420163000 +0000" stop="20260420170000 +0000">
+    <title lang="id">HIGHLIGHT - FULL IMPACT ROUND 32 : SERIE A 2025/26</title>
+    <desc lang="id">HIGHLIGHT FULL IMPACT ROUND 32</desc>
+    <icon src="https://thumbor.prod.vidiocdn.com/xgkik6iws0EJ01bi5cJsIjYWjOM=/287x162/filters:strip_icc():quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/image/6686/champions-tv-2-681a27.jpg"/>
+  </programme>
+  <programme channel="6686" start="20260420163000 +0000" stop="20260420170000 +0000">
+    <title lang="id">HIGHLIGHT - FULL IMPACT ROUND 32 : SERIE A 2025/26</title>
+    <desc lang="id">HIGHLIGHT FULL IMPACT ROUND 32</desc>
+    <icon src="https://thumbor.prod.vidiocdn.com/xgkik6iws0EJ01bi5cJsIjYWjOM=/287x162/filters:strip_icc():quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/image/6686/champions-tv-2-681a27.jpg"/>
+  </programme>
+  <programme channel="6686" start="20260420170000 +0000" stop="20260420190000 +0000">
+    <title lang="id">HERACLES ALMELO VS AFC AJAX : DUTCH LEAGUE EREDIVISIE 2025/26</title>
+    <desc lang="id">HERACLES ALMELO VS AFC AJAX</desc>
+    <icon src="https://thumbor.prod.vidiocdn.com/xgkik6iws0EJ01bi5cJsIjYWjOM=/287x162/filters:strip_icc():quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/image/6686/champions-tv-2-681a27.jpg"/>
+  </programme>
+  <programme channel="6686" start="20260420190000 +0000" stop="20260420210000 +0000">
+    <title lang="id">SPORTING VS BENFICA : PORTUGUESE LEAGUE 2025/26</title>
+    <desc lang="id">SPORTING VS BENFICA</desc>
+    <icon src="https://thumbor.prod.vidiocdn.com/xgkik6iws0EJ01bi5cJsIjYWjOM=/287x162/filters:strip_icc():quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/image/6686/champions-tv-2-681a27.jpg"/>
+  </programme>
+  <programme channel="6686" start="20260420210000 +0000" stop="20260420230000 +0000">
+    <title lang="id">SPARTA ROTTERDAM VS PSV EINDHOVEN : DUTCH LEAGUE EREDIVISIE 2025/26</title>
+    <desc lang="id">SPARTA ROTTERDAM VS PSV EINDHOVEN</desc>
+    <icon src="https://thumbor.prod.vidiocdn.com/xgkik6iws0EJ01bi5cJsIjYWjOM=/287x162/filters:strip_icc():quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/image/6686/champions-tv-2-681a27.jpg"/>
+  </programme>
+  <programme channel="6686" start="20260420230000 +0000" stop="20260420233000 +0000">
+    <title lang="id">MATCH ROUND 01 : SNOWCROSS WORLD CHAMPIONSHIP 2026</title>
+    <desc lang="id">MATCH ROUND 01</desc>
+    <icon src="https://thumbor.prod.vidiocdn.com/xgkik6iws0EJ01bi5cJsIjYWjOM=/287x162/filters:strip_icc():quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/image/6686/champions-tv-2-681a27.jpg"/>
+  </programme>
+  <programme channel="6686" start="20260420233000 +0000" stop="20260421000000 +0000">
+    <title lang="id">EPS 01 : MXGP BEHIND THE GATE 2026</title>
+    <desc lang="id">EPS 01</desc>
+    <icon src="https://thumbor.prod.vidiocdn.com/xgkik6iws0EJ01bi5cJsIjYWjOM=/287x162/filters:strip_icc():quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/image/6686/champions-tv-2-681a27.jpg"/>
+  </programme>
+  <programme channel="6686" start="20260421000000 +0000" stop="20260421003000 +0000">
+    <title lang="id">MAGAZINE - INSIDE ROUND 31 : SERIE A 2025/26</title>
+    <desc lang="id">MAGAZINE INSIDE ROUND 31</desc>
+    <icon src="https://thumbor.prod.vidiocdn.com/xgkik6iws0EJ01bi5cJsIjYWjOM=/287x162/filters:strip_icc():quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/image/6686/champions-tv-2-681a27.jpg"/>
+  </programme>
+  <programme channel="6686" start="20260421003000 +0000" stop="20260421010000 +0000">
+    <title lang="id">HIGHLIGHT - FULL IMPACT ROUND 31 : SERIE A 2025/26</title>
+    <desc lang="id">HIGHLIGHT FULL IMPACT ROUND 31</desc>
+    <icon src="https://thumbor.prod.vidiocdn.com/xgkik6iws0EJ01bi5cJsIjYWjOM=/287x162/filters:strip_icc():quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/image/6686/champions-tv-2-681a27.jpg"/>
+  </programme>
+  <programme channel="6686" start="20260421010000 +0000" stop="20260421030000 +0000">
+    <title lang="id">DANZHOU WUZHISHAN : TOUR OF HAINAN 2026</title>
+    <desc lang="id">DANZHOU  WUZHISHAN</desc>
+    <icon src="https://thumbor.prod.vidiocdn.com/xgkik6iws0EJ01bi5cJsIjYWjOM=/287x162/filters:strip_icc():quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/image/6686/champions-tv-2-681a27.jpg"/>
+  </programme>
+  <programme channel="6686" start="20260421030000 +0000" stop="20260421050000 +0000">
+    <title lang="id">HERACLES ALMELO VS AFC AJAX : DUTCH LEAGUE EREDIVISIE 2025/26</title>
+    <desc lang="id">HERACLES ALMELO VS AFC AJAX</desc>
+    <icon src="https://thumbor.prod.vidiocdn.com/xgkik6iws0EJ01bi5cJsIjYWjOM=/287x162/filters:strip_icc():quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/image/6686/champions-tv-2-681a27.jpg"/>
+  </programme>
+  <programme channel="6686" start="20260421050000 +0000" stop="20260421070000 +0000">
+    <title lang="id">SPORTING VS BENFICA : PORTUGUESE LEAGUE 2025/26</title>
+    <desc lang="id">SPORTING VS BENFICA</desc>
+    <icon src="https://thumbor.prod.vidiocdn.com/xgkik6iws0EJ01bi5cJsIjYWjOM=/287x162/filters:strip_icc():quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/image/6686/champions-tv-2-681a27.jpg"/>
+  </programme>
+  <programme channel="6686" start="20260421070000 +0000" stop="20260421073000 +0000">
+    <title lang="id">MATCH ROUND 01 : SNOWCROSS WORLD CHAMPIONSHIP 2026</title>
+    <desc lang="id">MATCH ROUND 01</desc>
+    <icon src="https://thumbor.prod.vidiocdn.com/xgkik6iws0EJ01bi5cJsIjYWjOM=/287x162/filters:strip_icc():quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/image/6686/champions-tv-2-681a27.jpg"/>
+  </programme>
+  <programme channel="6686" start="20260421073000 +0000" stop="20260421080000 +0000">
+    <title lang="id">EPS 01 : MXGP BEHIND THE GATE 2026</title>
+    <desc lang="id">EPS 01</desc>
+    <icon src="https://thumbor.prod.vidiocdn.com/xgkik6iws0EJ01bi5cJsIjYWjOM=/287x162/filters:strip_icc():quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/image/6686/champions-tv-2-681a27.jpg"/>
+  </programme>
+  <programme channel="6686" start="20260421080000 +0000" stop="20260421083000 +0000">
+    <title lang="id">MAGAZINE - INSIDE ROUND 31 : SERIE A 2025/26</title>
+    <desc lang="id">MAGAZINE INSIDE ROUND 31</desc>
+    <icon src="https://thumbor.prod.vidiocdn.com/xgkik6iws0EJ01bi5cJsIjYWjOM=/287x162/filters:strip_icc():quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/image/6686/champions-tv-2-681a27.jpg"/>
+  </programme>
+  <programme channel="6686" start="20260421083000 +0000" stop="20260421090000 +0000">
+    <title lang="id">HIGHLIGHT - FULL IMPACT ROUND 31 : SERIE A 2025/26</title>
+    <desc lang="id">HIGHLIGHT FULL IMPACT ROUND 31</desc>
+    <icon src="https://thumbor.prod.vidiocdn.com/xgkik6iws0EJ01bi5cJsIjYWjOM=/287x162/filters:strip_icc():quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/image/6686/champions-tv-2-681a27.jpg"/>
+  </programme>
+  <programme channel="6686" start="20260421090000 +0000" stop="20260421110000 +0000">
+    <title lang="id">DANZHOU WUZHISHAN : TOUR OF HAINAN 2026</title>
+    <desc lang="id">DANZHOU  WUZHISHAN</desc>
+    <icon src="https://thumbor.prod.vidiocdn.com/xgkik6iws0EJ01bi5cJsIjYWjOM=/287x162/filters:strip_icc():quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/image/6686/champions-tv-2-681a27.jpg"/>
+  </programme>
+  <programme channel="6686" start="20260421110000 +0000" stop="20260421130000 +0000">
+    <title lang="id">HERACLES ALMELO VS AFC AJAX : DUTCH LEAGUE EREDIVISIE 2025/26</title>
+    <desc lang="id">HERACLES ALMELO VS AFC AJAX</desc>
+    <icon src="https://thumbor.prod.vidiocdn.com/xgkik6iws0EJ01bi5cJsIjYWjOM=/287x162/filters:strip_icc():quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/image/6686/champions-tv-2-681a27.jpg"/>
+  </programme>
+  <programme channel="6686" start="20260421130000 +0000" stop="20260421150000 +0000">
+    <title lang="id">SPORTING VS BENFICA : PORTUGUESE LEAGUE 2025/26</title>
+    <desc lang="id">SPORTING VS BENFICA</desc>
+    <icon src="https://thumbor.prod.vidiocdn.com/xgkik6iws0EJ01bi5cJsIjYWjOM=/287x162/filters:strip_icc():quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/image/6686/champions-tv-2-681a27.jpg"/>
+  </programme>
+  <programme channel="6686" start="20260421150000 +0000" stop="20260421153000 +0000">
+    <title lang="id">MATCH ROUND 01 : SNOWCROSS WORLD CHAMPIONSHIP 2026</title>
+    <desc lang="id">MATCH ROUND 01</desc>
+    <icon src="https://thumbor.prod.vidiocdn.com/xgkik6iws0EJ01bi5cJsIjYWjOM=/287x162/filters:strip_icc():quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/image/6686/champions-tv-2-681a27.jpg"/>
+  </programme>
+  <programme channel="6686" start="20260421153000 +0000" stop="20260421160000 +0000">
+    <title lang="id">EPS 01 : MXGP BEHIND THE GATE 2026</title>
+    <desc lang="id">EPS 01</desc>
+    <icon src="https://thumbor.prod.vidiocdn.com/xgkik6iws0EJ01bi5cJsIjYWjOM=/287x162/filters:strip_icc():quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/image/6686/champions-tv-2-681a27.jpg"/>
+  </programme>
+  <programme channel="6686" start="20260421160000 +0000" stop="20260421163000 +0000">
+    <title lang="id">MAGAZINE - INSIDE ROUND 31 : SERIE A 2025/26</title>
+    <desc lang="id">MAGAZINE INSIDE ROUND 31</desc>
+    <icon src="https://thumbor.prod.vidiocdn.com/xgkik6iws0EJ01bi5cJsIjYWjOM=/287x162/filters:strip_icc():quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/image/6686/champions-tv-2-681a27.jpg"/>
+  </programme>
+  <programme channel="6686" start="20260421163000 +0000" stop="20260421170000 +0000">
+    <title lang="id">HIGHLIGHT - FULL IMPACT ROUND 31 : SERIE A 2025/26</title>
+    <desc lang="id">HIGHLIGHT FULL IMPACT ROUND 31</desc>
+    <icon src="https://thumbor.prod.vidiocdn.com/xgkik6iws0EJ01bi5cJsIjYWjOM=/287x162/filters:strip_icc():quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/image/6686/champions-tv-2-681a27.jpg"/>
+  </programme>
+  <programme channel="6686" start="20260421163000 +0000" stop="20260421170000 +0000">
+    <title lang="id">HIGHLIGHT - FULL IMPACT ROUND 31 : SERIE A 2025/26</title>
+    <desc lang="id">HIGHLIGHT FULL IMPACT ROUND 31</desc>
+    <icon src="https://thumbor.prod.vidiocdn.com/xgkik6iws0EJ01bi5cJsIjYWjOM=/287x162/filters:strip_icc():quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/image/6686/champions-tv-2-681a27.jpg"/>
+  </programme>
+  <programme channel="6686" start="20260421170000 +0000" stop="20260421190000 +0000">
+    <title lang="id">NEC VS FEYENOORD : DUTCH LEAGUE EREDIVISIE 2025/26</title>
+    <desc lang="id">NEC VS FEYENOORD</desc>
+    <icon src="https://thumbor.prod.vidiocdn.com/xgkik6iws0EJ01bi5cJsIjYWjOM=/287x162/filters:strip_icc():quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/image/6686/champions-tv-2-681a27.jpg"/>
+  </programme>
+  <programme channel="6686" start="20260421190000 +0000" stop="20260421210000 +0000">
+    <title lang="id">CAGLIARI VS NAPOLI : SERIE A 2025/26</title>
+    <desc lang="id">CAGLIARI VS NAPOLI</desc>
+    <icon src="https://thumbor.prod.vidiocdn.com/xgkik6iws0EJ01bi5cJsIjYWjOM=/287x162/filters:strip_icc():quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/image/6686/champions-tv-2-681a27.jpg"/>
+  </programme>
+  <programme channel="6686" start="20260421210000 +0000" stop="20260421230000 +0000">
+    <title lang="id">HAIKOU DANZHOU : TOUR OF HAINAN 2026</title>
+    <desc lang="id">HAIKOU  DANZHOU</desc>
+    <icon src="https://thumbor.prod.vidiocdn.com/xgkik6iws0EJ01bi5cJsIjYWjOM=/287x162/filters:strip_icc():quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/image/6686/champions-tv-2-681a27.jpg"/>
+  </programme>
+  <programme channel="6686" start="20260421230000 +0000" stop="20260422000000 +0000">
+    <title lang="id">HIGHLIGHT : DUTCH LEAGUE EREDIVISIE 2025/26</title>
+    <desc lang="id">HIGHLIGHT</desc>
+    <icon src="https://thumbor.prod.vidiocdn.com/xgkik6iws0EJ01bi5cJsIjYWjOM=/287x162/filters:strip_icc():quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/image/6686/champions-tv-2-681a27.jpg"/>
+  </programme>
+  <programme channel="6686" start="20260422000000 +0000" stop="20260422010000 +0000">
+    <title lang="id">HIGHLIGHT : PORTUGUESE LEAGUE 2025/26</title>
+    <desc lang="id">HIGHLIGHT</desc>
+    <icon src="https://thumbor.prod.vidiocdn.com/xgkik6iws0EJ01bi5cJsIjYWjOM=/287x162/filters:strip_icc():quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/image/6686/champions-tv-2-681a27.jpg"/>
+  </programme>
+  <programme channel="6686" start="20260422010000 +0000" stop="20260422030000 +0000">
+    <title lang="id">WUZHISHAN LINGSHUI : TOUR OF HAINAN 2026</title>
+    <desc lang="id">WUZHISHAN  LINGSHUI</desc>
+    <icon src="https://thumbor.prod.vidiocdn.com/xgkik6iws0EJ01bi5cJsIjYWjOM=/287x162/filters:strip_icc():quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/image/6686/champions-tv-2-681a27.jpg"/>
+  </programme>
+  <programme channel="6686" start="20260422030000 +0000" stop="20260422050000 +0000">
+    <title lang="id">NEC VS FEYENOORD : DUTCH LEAGUE EREDIVISIE 2025/26</title>
+    <desc lang="id">NEC VS FEYENOORD</desc>
+    <icon src="https://thumbor.prod.vidiocdn.com/xgkik6iws0EJ01bi5cJsIjYWjOM=/287x162/filters:strip_icc():quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/image/6686/champions-tv-2-681a27.jpg"/>
+  </programme>
+  <programme channel="6686" start="20260422050000 +0000" stop="20260422070000 +0000">
+    <title lang="id">CAGLIARI VS NAPOLI : SERIE A 2025/26</title>
+    <desc lang="id">CAGLIARI VS NAPOLI</desc>
+    <icon src="https://thumbor.prod.vidiocdn.com/xgkik6iws0EJ01bi5cJsIjYWjOM=/287x162/filters:strip_icc():quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/image/6686/champions-tv-2-681a27.jpg"/>
+  </programme>
+  <programme channel="6686" start="20260422070000 +0000" stop="20260422080000 +0000">
+    <title lang="id">HIGHLIGHT : DUTCH LEAGUE EREDIVISIE 2025/26</title>
+    <desc lang="id">HIGHLIGHT</desc>
+    <icon src="https://thumbor.prod.vidiocdn.com/xgkik6iws0EJ01bi5cJsIjYWjOM=/287x162/filters:strip_icc():quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/image/6686/champions-tv-2-681a27.jpg"/>
+  </programme>
+  <programme channel="6686" start="20260422080000 +0000" stop="20260422090000 +0000">
+    <title lang="id">HIGHLIGHT : PORTUGUESE LEAGUE 2025/26</title>
+    <desc lang="id">HIGHLIGHT</desc>
+    <icon src="https://thumbor.prod.vidiocdn.com/xgkik6iws0EJ01bi5cJsIjYWjOM=/287x162/filters:strip_icc():quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/image/6686/champions-tv-2-681a27.jpg"/>
+  </programme>
+  <programme channel="6686" start="20260422090000 +0000" stop="20260422110000 +0000">
+    <title lang="id">WUZHISHAN LINGSHUI : TOUR OF HAINAN 2026</title>
+    <desc lang="id">WUZHISHAN  LINGSHUI</desc>
+    <icon src="https://thumbor.prod.vidiocdn.com/xgkik6iws0EJ01bi5cJsIjYWjOM=/287x162/filters:strip_icc():quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/image/6686/champions-tv-2-681a27.jpg"/>
+  </programme>
+  <programme channel="6686" start="20260422110000 +0000" stop="20260422130000 +0000">
+    <title lang="id">NEC VS FEYENOORD : DUTCH LEAGUE EREDIVISIE 2025/26</title>
+    <desc lang="id">NEC VS FEYENOORD</desc>
+    <icon src="https://thumbor.prod.vidiocdn.com/xgkik6iws0EJ01bi5cJsIjYWjOM=/287x162/filters:strip_icc():quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/image/6686/champions-tv-2-681a27.jpg"/>
+  </programme>
+  <programme channel="6686" start="20260422130000 +0000" stop="20260422150000 +0000">
+    <title lang="id">CAGLIARI VS NAPOLI : SERIE A 2025/26</title>
+    <desc lang="id">CAGLIARI VS NAPOLI</desc>
+    <icon src="https://thumbor.prod.vidiocdn.com/xgkik6iws0EJ01bi5cJsIjYWjOM=/287x162/filters:strip_icc():quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/image/6686/champions-tv-2-681a27.jpg"/>
+  </programme>
+  <programme channel="6686" start="20260422150000 +0000" stop="20260422160000 +0000">
+    <title lang="id">HIGHLIGHT : DUTCH LEAGUE EREDIVISIE 2025/26</title>
+    <desc lang="id">HIGHLIGHT</desc>
+    <icon src="https://thumbor.prod.vidiocdn.com/xgkik6iws0EJ01bi5cJsIjYWjOM=/287x162/filters:strip_icc():quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/image/6686/champions-tv-2-681a27.jpg"/>
+  </programme>
+  <programme channel="6686" start="20260422160000 +0000" stop="20260422170000 +0000">
+    <title lang="id">HIGHLIGHT : PORTUGUESE LEAGUE 2025/26</title>
+    <desc lang="id">HIGHLIGHT</desc>
+    <icon src="https://thumbor.prod.vidiocdn.com/xgkik6iws0EJ01bi5cJsIjYWjOM=/287x162/filters:strip_icc():quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/image/6686/champions-tv-2-681a27.jpg"/>
+  </programme>
+  <programme channel="6686" start="20260422160000 +0000" stop="20260422170000 +0000">
+    <title lang="id">HIGHLIGHT : PORTUGUESE LEAGUE 2025/26</title>
+    <desc lang="id">HIGHLIGHT</desc>
+    <icon src="https://thumbor.prod.vidiocdn.com/xgkik6iws0EJ01bi5cJsIjYWjOM=/287x162/filters:strip_icc():quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/image/6686/champions-tv-2-681a27.jpg"/>
+  </programme>
+  <programme channel="6686" start="20260422170000 +0000" stop="20260422173000 +0000">
+    <title lang="id">MATCH ROUND 02 : SNOWCROSS WORLD CHAMPIONSHIP 2026</title>
+    <desc lang="id">MATCH ROUND 02</desc>
+    <icon src="https://thumbor.prod.vidiocdn.com/xgkik6iws0EJ01bi5cJsIjYWjOM=/287x162/filters:strip_icc():quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/image/6686/champions-tv-2-681a27.jpg"/>
+  </programme>
+  <programme channel="6686" start="20260422173000 +0000" stop="20260422180000 +0000">
+    <title lang="id">EPS 02 : MXGP BEHIND THE GATE 2026</title>
+    <desc lang="id">EPS 02</desc>
+    <icon src="https://thumbor.prod.vidiocdn.com/xgkik6iws0EJ01bi5cJsIjYWjOM=/287x162/filters:strip_icc():quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/image/6686/champions-tv-2-681a27.jpg"/>
+  </programme>
+  <programme channel="6686" start="20260422180000 +0000" stop="20260422183000 +0000">
+    <title lang="id">HIGHLIGHT - Show 35 : EFL 2025/26</title>
+    <desc lang="id">HIGHLIGHT Show 35</desc>
+    <icon src="https://thumbor.prod.vidiocdn.com/xgkik6iws0EJ01bi5cJsIjYWjOM=/287x162/filters:strip_icc():quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/image/6686/champions-tv-2-681a27.jpg"/>
+  </programme>
+  <programme channel="6686" start="20260422183000 +0000" stop="20260422184000 +0000">
+    <title lang="id">FILLER</title>
+    <icon src="https://thumbor.prod.vidiocdn.com/xgkik6iws0EJ01bi5cJsIjYWjOM=/287x162/filters:strip_icc():quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/image/6686/champions-tv-2-681a27.jpg"/>
+  </programme>
+  <programme channel="6686" start="20260422184000 +0000" stop="20260422205000 +0000">
+    <title lang="id">CHARLTON ATHLETIC VS IPSWICH TOWN : EFL 2025/26 CHAMPIONSHIP</title>
+    <desc lang="id">CHARLTON ATHLETIC VS IPSWICH TOWN</desc>
+    <icon src="https://thumbor.prod.vidiocdn.com/xgkik6iws0EJ01bi5cJsIjYWjOM=/287x162/filters:strip_icc():quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/image/6686/champions-tv-2-681a27.jpg"/>
+  </programme>
+  <programme channel="6686" start="20260422205000 +0000" stop="20260422210000 +0000">
+    <title lang="id">FILLER</title>
+    <icon src="https://thumbor.prod.vidiocdn.com/xgkik6iws0EJ01bi5cJsIjYWjOM=/287x162/filters:strip_icc():quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/image/6686/champions-tv-2-681a27.jpg"/>
+  </programme>
+  <programme channel="6686" start="20260422210000 +0000" stop="20260422230000 +0000">
+    <title lang="id">DANZHOU WUZHISHAN : TOUR OF HAINAN 2026</title>
+    <desc lang="id">DANZHOU  WUZHISHAN</desc>
+    <icon src="https://thumbor.prod.vidiocdn.com/xgkik6iws0EJ01bi5cJsIjYWjOM=/287x162/filters:strip_icc():quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/image/6686/champions-tv-2-681a27.jpg"/>
+  </programme>
+  <programme channel="6686" start="20260422230000 +0000" stop="20260423010000 +0000">
+    <title lang="id">WEST BROMWICH ALBION VS MILLWALL : EFL 2025/26 CHAMPIONSHIP</title>
+    <desc lang="id">WEST BROMWICH ALBION VS MILLWALL</desc>
+    <icon src="https://thumbor.prod.vidiocdn.com/xgkik6iws0EJ01bi5cJsIjYWjOM=/287x162/filters:strip_icc():quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/image/6686/champions-tv-2-681a27.jpg"/>
+  </programme>
+  <programme channel="6686" start="20260423010000 +0000" stop="20260423030000 +0000">
+    <title lang="id">LINGSHUI BAOTING : TOUR OF HAINAN 2026</title>
+    <desc lang="id">LINGSHUI  BAOTING</desc>
+    <icon src="https://thumbor.prod.vidiocdn.com/xgkik6iws0EJ01bi5cJsIjYWjOM=/287x162/filters:strip_icc():quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/image/6686/champions-tv-2-681a27.jpg"/>
+  </programme>
+  <programme channel="6686" start="20260423030000 +0000" stop="20260423050000 +0000">
+    <title lang="id">AZ ALKMAAR VS SC HEERENVEEN : DUTCH LEAGUE EREDIVISIE 2025/26</title>
+    <desc lang="id">AZ ALKMAAR VS SC HEERENVEEN</desc>
+    <icon src="https://thumbor.prod.vidiocdn.com/xgkik6iws0EJ01bi5cJsIjYWjOM=/287x162/filters:strip_icc():quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/image/6686/champions-tv-2-681a27.jpg"/>
+  </programme>
+  <programme channel="6686" start="20260423050000 +0000" stop="20260423070000 +0000">
+    <title lang="id">CHARLTON ATHLETIC VS IPSWICH TOWN : EFL 2025/26 CHAMPIONSHIP</title>
+    <desc lang="id">CHARLTON ATHLETIC VS IPSWICH TOWN</desc>
+    <icon src="https://thumbor.prod.vidiocdn.com/xgkik6iws0EJ01bi5cJsIjYWjOM=/287x162/filters:strip_icc():quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/image/6686/champions-tv-2-681a27.jpg"/>
+  </programme>
+  <programme channel="6686" start="20260423070000 +0000" stop="20260423073000 +0000">
+    <title lang="id">MATCH ROUND 02 : SNOWCROSS WORLD CHAMPIONSHIP 2026</title>
+    <desc lang="id">MATCH ROUND 02</desc>
+    <icon src="https://thumbor.prod.vidiocdn.com/xgkik6iws0EJ01bi5cJsIjYWjOM=/287x162/filters:strip_icc():quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/image/6686/champions-tv-2-681a27.jpg"/>
+  </programme>
+  <programme channel="6686" start="20260423073000 +0000" stop="20260423080000 +0000">
+    <title lang="id">EPS 02 : MXGP BEHIND THE GATE 2026</title>
+    <desc lang="id">EPS 02</desc>
+    <icon src="https://thumbor.prod.vidiocdn.com/xgkik6iws0EJ01bi5cJsIjYWjOM=/287x162/filters:strip_icc():quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/image/6686/champions-tv-2-681a27.jpg"/>
+  </programme>
+  <programme channel="6686" start="20260423080000 +0000" stop="20260423083000 +0000">
+    <title lang="id">HIGHLIGHT - Show 35 : EFL 2025/26</title>
+    <desc lang="id">HIGHLIGHT Show 35</desc>
+    <icon src="https://thumbor.prod.vidiocdn.com/xgkik6iws0EJ01bi5cJsIjYWjOM=/287x162/filters:strip_icc():quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/image/6686/champions-tv-2-681a27.jpg"/>
+  </programme>
+  <programme channel="6686" start="20260423083000 +0000" stop="20260423090000 +0000">
+    <title lang="id">HIGHLIGHT - Final Leg : CARABAO CUP 2025/26</title>
+    <desc lang="id">HIGHLIGHT Final Leg</desc>
+    <icon src="https://thumbor.prod.vidiocdn.com/xgkik6iws0EJ01bi5cJsIjYWjOM=/287x162/filters:strip_icc():quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/image/6686/champions-tv-2-681a27.jpg"/>
+  </programme>
+  <programme channel="6686" start="20260423090000 +0000" stop="20260423110000 +0000">
+    <title lang="id">LINGSHUI BAOTING : TOUR OF HAINAN 2026</title>
+    <desc lang="id">LINGSHUI  BAOTING</desc>
+    <icon src="https://thumbor.prod.vidiocdn.com/xgkik6iws0EJ01bi5cJsIjYWjOM=/287x162/filters:strip_icc():quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/image/6686/champions-tv-2-681a27.jpg"/>
+  </programme>
+  <programme channel="6686" start="20260423110000 +0000" stop="20260423130000 +0000">
+    <title lang="id">WEST BROMWICH ALBION VS MILLWALL : EFL 2025/26 CHAMPIONSHIP</title>
+    <desc lang="id">WEST BROMWICH ALBION VS MILLWALL</desc>
+    <icon src="https://thumbor.prod.vidiocdn.com/xgkik6iws0EJ01bi5cJsIjYWjOM=/287x162/filters:strip_icc():quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/image/6686/champions-tv-2-681a27.jpg"/>
+  </programme>
+  <programme channel="6686" start="20260423130000 +0000" stop="20260423150000 +0000">
+    <title lang="id">CHARLTON ATHLETIC VS IPSWICH TOWN : EFL 2025/26 CHAMPIONSHIP</title>
+    <desc lang="id">CHARLTON ATHLETIC VS IPSWICH TOWN</desc>
+    <icon src="https://thumbor.prod.vidiocdn.com/xgkik6iws0EJ01bi5cJsIjYWjOM=/287x162/filters:strip_icc():quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/image/6686/champions-tv-2-681a27.jpg"/>
+  </programme>
+  <programme channel="6686" start="20260423150000 +0000" stop="20260423170000 +0000">
+    <title lang="id">AZ ALKMAAR VS SC HEERENVEEN : DUTCH LEAGUE EREDIVISIE 2025/26</title>
+    <desc lang="id">AZ ALKMAAR VS SC HEERENVEEN</desc>
+    <icon src="https://thumbor.prod.vidiocdn.com/xgkik6iws0EJ01bi5cJsIjYWjOM=/287x162/filters:strip_icc():quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/image/6686/champions-tv-2-681a27.jpg"/>
+  </programme>
+  <programme channel="6686" start="20260423150000 +0000" stop="20260423170000 +0000">
+    <title lang="id">AZ ALKMAAR VS SC HEERENVEEN : DUTCH LEAGUE EREDIVISIE 2025/26</title>
+    <desc lang="id">AZ ALKMAAR VS SC HEERENVEEN</desc>
+    <icon src="https://thumbor.prod.vidiocdn.com/xgkik6iws0EJ01bi5cJsIjYWjOM=/287x162/filters:strip_icc():quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/image/6686/champions-tv-2-681a27.jpg"/>
+  </programme>
+  <programme channel="6686" start="20260423170000 +0000" stop="20260423173000 +0000">
+    <title lang="id">EPS 03 : MXGP BEHIND THE GATE 2026</title>
+    <desc lang="id">EPS 03</desc>
+    <icon src="https://thumbor.prod.vidiocdn.com/xgkik6iws0EJ01bi5cJsIjYWjOM=/287x162/filters:strip_icc():quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/image/6686/champions-tv-2-681a27.jpg"/>
+  </programme>
+  <programme channel="6686" start="20260423173000 +0000" stop="20260423180000 +0000">
+    <title lang="id">EPS 04 : MXGP BEHIND THE GATE 2026</title>
+    <desc lang="id">EPS 04</desc>
+    <icon src="https://thumbor.prod.vidiocdn.com/xgkik6iws0EJ01bi5cJsIjYWjOM=/287x162/filters:strip_icc():quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/image/6686/champions-tv-2-681a27.jpg"/>
+  </programme>
+  <programme channel="6686" start="20260423180000 +0000" stop="20260423183000 +0000">
+    <title lang="id">HIGHLIGHT - Final Leg : CARABAO CUP 2025/26</title>
+    <desc lang="id">HIGHLIGHT Final Leg</desc>
+    <icon src="https://thumbor.prod.vidiocdn.com/xgkik6iws0EJ01bi5cJsIjYWjOM=/287x162/filters:strip_icc():quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/image/6686/champions-tv-2-681a27.jpg"/>
+  </programme>
+  <programme channel="6686" start="20260423183000 +0000" stop="20260423185500 +0000">
+    <title lang="id">HIGHLIGHT - Show 35 : EFL 2025/26</title>
+    <desc lang="id">HIGHLIGHT Show 35</desc>
+    <icon src="https://thumbor.prod.vidiocdn.com/xgkik6iws0EJ01bi5cJsIjYWjOM=/287x162/filters:strip_icc():quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/image/6686/champions-tv-2-681a27.jpg"/>
+  </programme>
+  <programme channel="6686" start="20260423185500 +0000" stop="20260423210000 +0000">
+    <title lang="id">SALFORD CITY VS BROMLEY : EFL 2025/26 LEAGUE TWO</title>
+    <desc lang="id">SALFORD CITY VS BROMLEY</desc>
+    <icon src="https://thumbor.prod.vidiocdn.com/xgkik6iws0EJ01bi5cJsIjYWjOM=/287x162/filters:strip_icc():quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/image/6686/champions-tv-2-681a27.jpg"/>
+  </programme>
+  <programme channel="6686" start="20260423210000 +0000" stop="20260423230000 +0000">
+    <title lang="id">WUZHISHAN LINGSHUI : TOUR OF HAINAN 2026</title>
+    <desc lang="id">WUZHISHAN  LINGSHUI</desc>
+    <icon src="https://thumbor.prod.vidiocdn.com/xgkik6iws0EJ01bi5cJsIjYWjOM=/287x162/filters:strip_icc():quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/image/6686/champions-tv-2-681a27.jpg"/>
+  </programme>
+  <programme channel="6686" start="20260423230000 +0000" stop="20260424010000 +0000">
+    <title lang="id">SHEFFIELD UNITED VS HULL CITY : EFL 2025/26 CHAMPIONSHIP</title>
+    <desc lang="id">SHEFFIELD UNITED VS HULL CITY</desc>
+    <icon src="https://thumbor.prod.vidiocdn.com/xgkik6iws0EJ01bi5cJsIjYWjOM=/287x162/filters:strip_icc():quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/image/6686/champions-tv-2-681a27.jpg"/>
+  </programme>
+  <programme channel="6686" start="20260424010000 +0000" stop="20260424030000 +0000">
+    <title lang="id">BAOTING SANYA : TOUR OF HAINAN 2026</title>
+    <desc lang="id">BAOTING  SANYA</desc>
+    <icon src="https://thumbor.prod.vidiocdn.com/xgkik6iws0EJ01bi5cJsIjYWjOM=/287x162/filters:strip_icc():quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/image/6686/champions-tv-2-681a27.jpg"/>
+  </programme>
+  <programme channel="6686" start="20260424030000 +0000" stop="20260424050000 +0000">
+    <title lang="id">COMO VS PISA : SERIE A 2025/26</title>
+    <desc lang="id">COMO VS PISA</desc>
+    <icon src="https://thumbor.prod.vidiocdn.com/xgkik6iws0EJ01bi5cJsIjYWjOM=/287x162/filters:strip_icc():quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/image/6686/champions-tv-2-681a27.jpg"/>
+  </programme>
+  <programme channel="6686" start="20260424050000 +0000" stop="20260424070000 +0000">
+    <title lang="id">SALFORD CITY VS BROMLEY : EFL 2025/26 LEAGUE TWO</title>
+    <desc lang="id">SALFORD CITY VS BROMLEY</desc>
+    <icon src="https://thumbor.prod.vidiocdn.com/xgkik6iws0EJ01bi5cJsIjYWjOM=/287x162/filters:strip_icc():quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/image/6686/champions-tv-2-681a27.jpg"/>
+  </programme>
+  <programme channel="6686" start="20260424070000 +0000" stop="20260424073000 +0000">
+    <title lang="id">EPS 03 : MXGP BEHIND THE GATE 2026</title>
+    <desc lang="id">EPS 03</desc>
+    <icon src="https://thumbor.prod.vidiocdn.com/xgkik6iws0EJ01bi5cJsIjYWjOM=/287x162/filters:strip_icc():quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/image/6686/champions-tv-2-681a27.jpg"/>
+  </programme>
+  <programme channel="6686" start="20260424073000 +0000" stop="20260424080000 +0000">
+    <title lang="id">EPS 04 : MXGP BEHIND THE GATE 2026</title>
+    <desc lang="id">EPS 04</desc>
+    <icon src="https://thumbor.prod.vidiocdn.com/xgkik6iws0EJ01bi5cJsIjYWjOM=/287x162/filters:strip_icc():quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/image/6686/champions-tv-2-681a27.jpg"/>
+  </programme>
+  <programme channel="6686" start="20260424080000 +0000" stop="20260424083000 +0000">
+    <title lang="id">MAGAZINE - INSIDE ROUND 33 : SERIE A 2025/26</title>
+    <desc lang="id">MAGAZINE INSIDE ROUND 33</desc>
+    <icon src="https://thumbor.prod.vidiocdn.com/xgkik6iws0EJ01bi5cJsIjYWjOM=/287x162/filters:strip_icc():quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/image/6686/champions-tv-2-681a27.jpg"/>
+  </programme>
+  <programme channel="6686" start="20260424083000 +0000" stop="20260424090000 +0000">
+    <title lang="id">HIGHLIGHT - FULL IMPACT ROUND 33 : SERIE A 2025/26</title>
+    <desc lang="id">HIGHLIGHT FULL IMPACT ROUND 33</desc>
+    <icon src="https://thumbor.prod.vidiocdn.com/xgkik6iws0EJ01bi5cJsIjYWjOM=/287x162/filters:strip_icc():quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/image/6686/champions-tv-2-681a27.jpg"/>
+  </programme>
+  <programme channel="6686" start="20260424090000 +0000" stop="20260424110000 +0000">
+    <title lang="id">BAOTING SANYA : TOUR OF HAINAN 2026</title>
+    <desc lang="id">BAOTING  SANYA</desc>
+    <icon src="https://thumbor.prod.vidiocdn.com/xgkik6iws0EJ01bi5cJsIjYWjOM=/287x162/filters:strip_icc():quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/image/6686/champions-tv-2-681a27.jpg"/>
+  </programme>
+  <programme channel="6686" start="20260424110000 +0000" stop="20260424130000 +0000">
+    <title lang="id">SHEFFIELD UNITED VS HULL CITY : EFL 2025/26 CHAMPIONSHIP</title>
+    <desc lang="id">SHEFFIELD UNITED VS HULL CITY</desc>
+    <icon src="https://thumbor.prod.vidiocdn.com/xgkik6iws0EJ01bi5cJsIjYWjOM=/287x162/filters:strip_icc():quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/image/6686/champions-tv-2-681a27.jpg"/>
+  </programme>
+  <programme channel="6686" start="20260424130000 +0000" stop="20260424150000 +0000">
+    <title lang="id">SALFORD CITY VS BROMLEY : EFL 2025/26 LEAGUE TWO</title>
+    <desc lang="id">SALFORD CITY VS BROMLEY</desc>
+    <icon src="https://thumbor.prod.vidiocdn.com/xgkik6iws0EJ01bi5cJsIjYWjOM=/287x162/filters:strip_icc():quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/image/6686/champions-tv-2-681a27.jpg"/>
+  </programme>
+  <programme channel="6686" start="20260424150000 +0000" stop="20260424170000 +0000">
+    <title lang="id">COMO VS PISA : SERIE A 2025/26</title>
+    <desc lang="id">COMO VS PISA</desc>
+    <icon src="https://thumbor.prod.vidiocdn.com/xgkik6iws0EJ01bi5cJsIjYWjOM=/287x162/filters:strip_icc():quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/image/6686/champions-tv-2-681a27.jpg"/>
+  </programme>
   <programme channel="7432" start="20260417163000 +0000" stop="20260417170000 +0000">
     <title lang="id">Checkpoint</title>
     <desc lang="id">Program berita mendalam yang menelusuri fakta, memberikan penjelasan latar belakang, serta update lanjutan dari sebuah isu yang sedang berkembang</desc>
@@ -16856,6 +17808,790 @@ dan komprehensif mengenai berbagai topik yang relevan dalam kehidupan sehari-har
     <title lang="id">Ampun Dj</title>
     <icon src="https://thumbor.prod.vidiocdn.com/h2DeMoihCp0rppyPgQWj3lYoavc=/287x162/filters:strip_icc():quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/image/9713/jawa-pos-tv-779e10.jpg"/>
   </programme>
+  <programme channel="9713" start="20260419170000 +0000" stop="20260419170300 +0000">
+    <title lang="id">Lagu Bagimu Negeri</title>
+    <icon src="https://thumbor.prod.vidiocdn.com/h2DeMoihCp0rppyPgQWj3lYoavc=/287x162/filters:strip_icc():quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/image/9713/jawa-pos-tv-779e10.jpg"/>
+  </programme>
+  <programme channel="9713" start="20260419170300 +0000" stop="20260419170800 +0000">
+    <title lang="id">Station ID Jtv</title>
+    <icon src="https://thumbor.prod.vidiocdn.com/h2DeMoihCp0rppyPgQWj3lYoavc=/287x162/filters:strip_icc():quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/image/9713/jawa-pos-tv-779e10.jpg"/>
+  </programme>
+  <programme channel="9713" start="20260419170800 +0000" stop="20260419173000 +0000">
+    <title lang="id">Jurit Malam</title>
+    <icon src="https://thumbor.prod.vidiocdn.com/h2DeMoihCp0rppyPgQWj3lYoavc=/287x162/filters:strip_icc():quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/image/9713/jawa-pos-tv-779e10.jpg"/>
+  </programme>
+  <programme channel="9713" start="20260419173000 +0000" stop="20260419180000 +0000">
+    <title lang="id">Muter Lagu</title>
+    <icon src="https://thumbor.prod.vidiocdn.com/h2DeMoihCp0rppyPgQWj3lYoavc=/287x162/filters:strip_icc():quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/image/9713/jawa-pos-tv-779e10.jpg"/>
+  </programme>
+  <programme channel="9713" start="20260419180000 +0000" stop="20260419190000 +0000">
+    <title lang="id">Napak Tilas</title>
+    <icon src="https://thumbor.prod.vidiocdn.com/h2DeMoihCp0rppyPgQWj3lYoavc=/287x162/filters:strip_icc():quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/image/9713/jawa-pos-tv-779e10.jpg"/>
+  </programme>
+  <programme channel="9713" start="20260419190000 +0000" stop="20260419200000 +0000">
+    <title lang="id">Ampun Digoyang</title>
+    <icon src="https://thumbor.prod.vidiocdn.com/h2DeMoihCp0rppyPgQWj3lYoavc=/287x162/filters:strip_icc():quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/image/9713/jawa-pos-tv-779e10.jpg"/>
+  </programme>
+  <programme channel="9713" start="20260419200000 +0000" stop="20260419210000 +0000">
+    <title lang="id">Stasiun Dangdut</title>
+    <icon src="https://thumbor.prod.vidiocdn.com/h2DeMoihCp0rppyPgQWj3lYoavc=/287x162/filters:strip_icc():quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/image/9713/jawa-pos-tv-779e10.jpg"/>
+  </programme>
+  <programme channel="9713" start="20260419210000 +0000" stop="20260419220000 +0000">
+    <title lang="id">Ilir Ilir</title>
+    <icon src="https://thumbor.prod.vidiocdn.com/h2DeMoihCp0rppyPgQWj3lYoavc=/287x162/filters:strip_icc():quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/image/9713/jawa-pos-tv-779e10.jpg"/>
+  </programme>
+  <programme channel="9713" start="20260419220000 +0000" stop="20260419225700 +0000">
+    <title lang="id">Menek Blimbing</title>
+    <icon src="https://thumbor.prod.vidiocdn.com/h2DeMoihCp0rppyPgQWj3lYoavc=/287x162/filters:strip_icc():quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/image/9713/jawa-pos-tv-779e10.jpg"/>
+  </programme>
+  <programme channel="9713" start="20260419225700 +0000" stop="20260419230000 +0000">
+    <title lang="id">Indonesia Raya</title>
+    <icon src="https://thumbor.prod.vidiocdn.com/h2DeMoihCp0rppyPgQWj3lYoavc=/287x162/filters:strip_icc():quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/image/9713/jawa-pos-tv-779e10.jpg"/>
+  </programme>
+  <programme channel="9713" start="20260419230000 +0000" stop="20260420000000 +0000">
+    <title lang="id">Ngaji Blusukan</title>
+    <icon src="https://thumbor.prod.vidiocdn.com/h2DeMoihCp0rppyPgQWj3lYoavc=/287x162/filters:strip_icc():quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/image/9713/jawa-pos-tv-779e10.jpg"/>
+  </programme>
+  <programme channel="9713" start="20260420000000 +0000" stop="20260420003000 +0000">
+    <title lang="id">Badanamu</title>
+    <icon src="https://thumbor.prod.vidiocdn.com/h2DeMoihCp0rppyPgQWj3lYoavc=/287x162/filters:strip_icc():quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/image/9713/jawa-pos-tv-779e10.jpg"/>
+  </programme>
+  <programme channel="9713" start="20260420003000 +0000" stop="20260420010000 +0000">
+    <title lang="id">Bintang Kecil</title>
+    <icon src="https://thumbor.prod.vidiocdn.com/h2DeMoihCp0rppyPgQWj3lYoavc=/287x162/filters:strip_icc():quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/image/9713/jawa-pos-tv-779e10.jpg"/>
+  </programme>
+  <programme channel="9713" start="20260420010000 +0000" stop="20260420013000 +0000">
+    <title lang="id">Seni Pertunjukan</title>
+    <icon src="https://thumbor.prod.vidiocdn.com/h2DeMoihCp0rppyPgQWj3lYoavc=/287x162/filters:strip_icc():quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/image/9713/jawa-pos-tv-779e10.jpg"/>
+  </programme>
+  <programme channel="9713" start="20260420013000 +0000" stop="20260420020000 +0000">
+    <title lang="id">Alamku Keren</title>
+    <icon src="https://thumbor.prod.vidiocdn.com/h2DeMoihCp0rppyPgQWj3lYoavc=/287x162/filters:strip_icc():quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/image/9713/jawa-pos-tv-779e10.jpg"/>
+  </programme>
+  <programme channel="9713" start="20260420020000 +0000" stop="20260420030000 +0000">
+    <title lang="id">Musica Hits</title>
+    <icon src="https://thumbor.prod.vidiocdn.com/h2DeMoihCp0rppyPgQWj3lYoavc=/287x162/filters:strip_icc():quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/image/9713/jawa-pos-tv-779e10.jpg"/>
+  </programme>
+  <programme channel="9713" start="20260420030000 +0000" stop="20260420040000 +0000">
+    <title lang="id">Nusantara Kini</title>
+    <icon src="https://thumbor.prod.vidiocdn.com/h2DeMoihCp0rppyPgQWj3lYoavc=/287x162/filters:strip_icc():quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/image/9713/jawa-pos-tv-779e10.jpg"/>
+  </programme>
+  <programme channel="9713" start="20260420040000 +0000" stop="20260420043000 +0000">
+    <title lang="id">Mancing Mbois</title>
+    <icon src="https://thumbor.prod.vidiocdn.com/h2DeMoihCp0rppyPgQWj3lYoavc=/287x162/filters:strip_icc():quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/image/9713/jawa-pos-tv-779e10.jpg"/>
+  </programme>
+  <programme channel="9713" start="20260420043000 +0000" stop="20260420050000 +0000">
+    <title lang="id">Indonesiana Tv</title>
+    <icon src="https://thumbor.prod.vidiocdn.com/h2DeMoihCp0rppyPgQWj3lYoavc=/287x162/filters:strip_icc():quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/image/9713/jawa-pos-tv-779e10.jpg"/>
+  </programme>
+  <programme channel="9713" start="20260420050000 +0000" stop="20260420060000 +0000">
+    <title lang="id">Stasiun Dangdut</title>
+    <icon src="https://thumbor.prod.vidiocdn.com/h2DeMoihCp0rppyPgQWj3lYoavc=/287x162/filters:strip_icc():quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/image/9713/jawa-pos-tv-779e10.jpg"/>
+  </programme>
+  <programme channel="9713" start="20260420060000 +0000" stop="20260420063000 +0000">
+    <title lang="id">Goro Goro Kartolo</title>
+    <icon src="https://thumbor.prod.vidiocdn.com/h2DeMoihCp0rppyPgQWj3lYoavc=/287x162/filters:strip_icc():quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/image/9713/jawa-pos-tv-779e10.jpg"/>
+  </programme>
+  <programme channel="9713" start="20260420063000 +0000" stop="20260420063300 +0000">
+    <title lang="id">Berita Gress</title>
+    <icon src="https://thumbor.prod.vidiocdn.com/h2DeMoihCp0rppyPgQWj3lYoavc=/287x162/filters:strip_icc():quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/image/9713/jawa-pos-tv-779e10.jpg"/>
+  </programme>
+  <programme channel="9713" start="20260420063300 +0000" stop="20260420070000 +0000">
+    <title lang="id">Goro Goro Kartolo</title>
+    <icon src="https://thumbor.prod.vidiocdn.com/h2DeMoihCp0rppyPgQWj3lYoavc=/287x162/filters:strip_icc():quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/image/9713/jawa-pos-tv-779e10.jpg"/>
+  </programme>
+  <programme channel="9713" start="20260420070000 +0000" stop="20260420073000 +0000">
+    <title lang="id">Jatim Awan</title>
+    <icon src="https://thumbor.prod.vidiocdn.com/h2DeMoihCp0rppyPgQWj3lYoavc=/287x162/filters:strip_icc():quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/image/9713/jawa-pos-tv-779e10.jpg"/>
+  </programme>
+  <programme channel="9713" start="20260420073000 +0000" stop="20260420080000 +0000">
+    <title lang="id">Pojok Arena</title>
+    <icon src="https://thumbor.prod.vidiocdn.com/h2DeMoihCp0rppyPgQWj3lYoavc=/287x162/filters:strip_icc():quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/image/9713/jawa-pos-tv-779e10.jpg"/>
+  </programme>
+  <programme channel="9713" start="20260420080000 +0000" stop="20260420083000 +0000">
+    <title lang="id">Kanal Budaya</title>
+    <icon src="https://thumbor.prod.vidiocdn.com/h2DeMoihCp0rppyPgQWj3lYoavc=/287x162/filters:strip_icc():quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/image/9713/jawa-pos-tv-779e10.jpg"/>
+  </programme>
+  <programme channel="9713" start="20260420083000 +0000" stop="20260420090000 +0000">
+    <title lang="id">Ngaji Blusukan</title>
+    <icon src="https://thumbor.prod.vidiocdn.com/h2DeMoihCp0rppyPgQWj3lYoavc=/287x162/filters:strip_icc():quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/image/9713/jawa-pos-tv-779e10.jpg"/>
+  </programme>
+  <programme channel="9713" start="20260420090000 +0000" stop="20260420090300 +0000">
+    <title lang="id">Berita Gress</title>
+    <icon src="https://thumbor.prod.vidiocdn.com/h2DeMoihCp0rppyPgQWj3lYoavc=/287x162/filters:strip_icc():quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/image/9713/jawa-pos-tv-779e10.jpg"/>
+  </programme>
+  <programme channel="9713" start="20260420090300 +0000" stop="20260420093000 +0000">
+    <title lang="id">Ngaji Blusukan</title>
+    <icon src="https://thumbor.prod.vidiocdn.com/h2DeMoihCp0rppyPgQWj3lYoavc=/287x162/filters:strip_icc():quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/image/9713/jawa-pos-tv-779e10.jpg"/>
+  </programme>
+  <programme channel="9713" start="20260420093000 +0000" stop="20260420100000 +0000">
+    <title lang="id">Program Kesehatan Prosifa</title>
+    <icon src="https://thumbor.prod.vidiocdn.com/h2DeMoihCp0rppyPgQWj3lYoavc=/287x162/filters:strip_icc():quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/image/9713/jawa-pos-tv-779e10.jpg"/>
+  </programme>
+  <programme channel="9713" start="20260420100000 +0000" stop="20260420103000 +0000">
+    <title lang="id">Program Kesehatan Bio Netra</title>
+    <icon src="https://thumbor.prod.vidiocdn.com/h2DeMoihCp0rppyPgQWj3lYoavc=/287x162/filters:strip_icc():quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/image/9713/jawa-pos-tv-779e10.jpg"/>
+  </programme>
+  <programme channel="9713" start="20260420103000 +0000" stop="20260420110000 +0000">
+    <title lang="id">Program Kesehatan Healtik</title>
+    <icon src="https://thumbor.prod.vidiocdn.com/h2DeMoihCp0rppyPgQWj3lYoavc=/287x162/filters:strip_icc():quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/image/9713/jawa-pos-tv-779e10.jpg"/>
+  </programme>
+  <programme channel="9713" start="20260420110000 +0000" stop="20260420120000 +0000">
+    <title lang="id">Jatim Joss</title>
+    <icon src="https://thumbor.prod.vidiocdn.com/h2DeMoihCp0rppyPgQWj3lYoavc=/287x162/filters:strip_icc():quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/image/9713/jawa-pos-tv-779e10.jpg"/>
+  </programme>
+  <programme channel="9713" start="20260420120000 +0000" stop="20260420130000 +0000">
+    <title lang="id">Pojok Pitu</title>
+    <icon src="https://thumbor.prod.vidiocdn.com/h2DeMoihCp0rppyPgQWj3lYoavc=/287x162/filters:strip_icc():quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/image/9713/jawa-pos-tv-779e10.jpg"/>
+  </programme>
+  <programme channel="9713" start="20260420130000 +0000" stop="20260420133000 +0000">
+    <title lang="id">Blakraan</title>
+    <icon src="https://thumbor.prod.vidiocdn.com/h2DeMoihCp0rppyPgQWj3lYoavc=/287x162/filters:strip_icc():quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/image/9713/jawa-pos-tv-779e10.jpg"/>
+  </programme>
+  <programme channel="9713" start="20260420133000 +0000" stop="20260420140000 +0000">
+    <title lang="id">Ruang Karir</title>
+    <icon src="https://thumbor.prod.vidiocdn.com/h2DeMoihCp0rppyPgQWj3lYoavc=/287x162/filters:strip_icc():quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/image/9713/jawa-pos-tv-779e10.jpg"/>
+  </programme>
+  <programme channel="9713" start="20260420140000 +0000" stop="20260420150000 +0000">
+    <title lang="id">Pojok Kampung</title>
+    <icon src="https://thumbor.prod.vidiocdn.com/h2DeMoihCp0rppyPgQWj3lYoavc=/287x162/filters:strip_icc():quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/image/9713/jawa-pos-tv-779e10.jpg"/>
+  </programme>
+  <programme channel="9713" start="20260420150000 +0000" stop="20260420160000 +0000">
+    <title lang="id">Nusantara Kini</title>
+    <icon src="https://thumbor.prod.vidiocdn.com/h2DeMoihCp0rppyPgQWj3lYoavc=/287x162/filters:strip_icc():quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/image/9713/jawa-pos-tv-779e10.jpg"/>
+  </programme>
+  <programme channel="9713" start="20260420160000 +0000" stop="20260420170000 +0000">
+    <title lang="id">Ampun Dj</title>
+    <icon src="https://thumbor.prod.vidiocdn.com/h2DeMoihCp0rppyPgQWj3lYoavc=/287x162/filters:strip_icc():quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/image/9713/jawa-pos-tv-779e10.jpg"/>
+  </programme>
+  <programme channel="9713" start="20260420160000 +0000" stop="20260420170000 +0000">
+    <title lang="id">Ampun Dj</title>
+    <icon src="https://thumbor.prod.vidiocdn.com/h2DeMoihCp0rppyPgQWj3lYoavc=/287x162/filters:strip_icc():quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/image/9713/jawa-pos-tv-779e10.jpg"/>
+  </programme>
+  <programme channel="9713" start="20260420170000 +0000" stop="20260420170500 +0000">
+    <title lang="id">Lagu Bagimu Negeri</title>
+    <icon src="https://thumbor.prod.vidiocdn.com/h2DeMoihCp0rppyPgQWj3lYoavc=/287x162/filters:strip_icc():quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/image/9713/jawa-pos-tv-779e10.jpg"/>
+  </programme>
+  <programme channel="9713" start="20260420170500 +0000" stop="20260420170800 +0000">
+    <title lang="id">Station ID Jtv</title>
+    <icon src="https://thumbor.prod.vidiocdn.com/h2DeMoihCp0rppyPgQWj3lYoavc=/287x162/filters:strip_icc():quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/image/9713/jawa-pos-tv-779e10.jpg"/>
+  </programme>
+  <programme channel="9713" start="20260420170800 +0000" stop="20260420173000 +0000">
+    <title lang="id">Jurit Malam</title>
+    <icon src="https://thumbor.prod.vidiocdn.com/h2DeMoihCp0rppyPgQWj3lYoavc=/287x162/filters:strip_icc():quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/image/9713/jawa-pos-tv-779e10.jpg"/>
+  </programme>
+  <programme channel="9713" start="20260420173000 +0000" stop="20260420180000 +0000">
+    <title lang="id">Muter Lagu</title>
+    <icon src="https://thumbor.prod.vidiocdn.com/h2DeMoihCp0rppyPgQWj3lYoavc=/287x162/filters:strip_icc():quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/image/9713/jawa-pos-tv-779e10.jpg"/>
+  </programme>
+  <programme channel="9713" start="20260420180000 +0000" stop="20260420190000 +0000">
+    <title lang="id">Napak Tilas</title>
+    <icon src="https://thumbor.prod.vidiocdn.com/h2DeMoihCp0rppyPgQWj3lYoavc=/287x162/filters:strip_icc():quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/image/9713/jawa-pos-tv-779e10.jpg"/>
+  </programme>
+  <programme channel="9713" start="20260420190000 +0000" stop="20260420200000 +0000">
+    <title lang="id">Ampun Digoyang</title>
+    <icon src="https://thumbor.prod.vidiocdn.com/h2DeMoihCp0rppyPgQWj3lYoavc=/287x162/filters:strip_icc():quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/image/9713/jawa-pos-tv-779e10.jpg"/>
+  </programme>
+  <programme channel="9713" start="20260420200000 +0000" stop="20260420210000 +0000">
+    <title lang="id">Stasiun Dangdut</title>
+    <icon src="https://thumbor.prod.vidiocdn.com/h2DeMoihCp0rppyPgQWj3lYoavc=/287x162/filters:strip_icc():quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/image/9713/jawa-pos-tv-779e10.jpg"/>
+  </programme>
+  <programme channel="9713" start="20260420210000 +0000" stop="20260420220000 +0000">
+    <title lang="id">Ilir Ilir</title>
+    <icon src="https://thumbor.prod.vidiocdn.com/h2DeMoihCp0rppyPgQWj3lYoavc=/287x162/filters:strip_icc():quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/image/9713/jawa-pos-tv-779e10.jpg"/>
+  </programme>
+  <programme channel="9713" start="20260420220000 +0000" stop="20260420225700 +0000">
+    <title lang="id">Menek Blimbing</title>
+    <icon src="https://thumbor.prod.vidiocdn.com/h2DeMoihCp0rppyPgQWj3lYoavc=/287x162/filters:strip_icc():quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/image/9713/jawa-pos-tv-779e10.jpg"/>
+  </programme>
+  <programme channel="9713" start="20260420225700 +0000" stop="20260420230000 +0000">
+    <title lang="id">Indonesia Raya</title>
+    <icon src="https://thumbor.prod.vidiocdn.com/h2DeMoihCp0rppyPgQWj3lYoavc=/287x162/filters:strip_icc():quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/image/9713/jawa-pos-tv-779e10.jpg"/>
+  </programme>
+  <programme channel="9713" start="20260420230000 +0000" stop="20260421000000 +0000">
+    <title lang="id">Ngaji Blusukan</title>
+    <icon src="https://thumbor.prod.vidiocdn.com/h2DeMoihCp0rppyPgQWj3lYoavc=/287x162/filters:strip_icc():quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/image/9713/jawa-pos-tv-779e10.jpg"/>
+  </programme>
+  <programme channel="9713" start="20260421000000 +0000" stop="20260421003000 +0000">
+    <title lang="id">Badanamu</title>
+    <icon src="https://thumbor.prod.vidiocdn.com/h2DeMoihCp0rppyPgQWj3lYoavc=/287x162/filters:strip_icc():quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/image/9713/jawa-pos-tv-779e10.jpg"/>
+  </programme>
+  <programme channel="9713" start="20260421003000 +0000" stop="20260421010000 +0000">
+    <title lang="id">Bintang Kecil</title>
+    <icon src="https://thumbor.prod.vidiocdn.com/h2DeMoihCp0rppyPgQWj3lYoavc=/287x162/filters:strip_icc():quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/image/9713/jawa-pos-tv-779e10.jpg"/>
+  </programme>
+  <programme channel="9713" start="20260421010000 +0000" stop="20260421013000 +0000">
+    <title lang="id">Seni Pertunjukan</title>
+    <icon src="https://thumbor.prod.vidiocdn.com/h2DeMoihCp0rppyPgQWj3lYoavc=/287x162/filters:strip_icc():quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/image/9713/jawa-pos-tv-779e10.jpg"/>
+  </programme>
+  <programme channel="9713" start="20260421013000 +0000" stop="20260421020000 +0000">
+    <title lang="id">Alamku Keren</title>
+    <icon src="https://thumbor.prod.vidiocdn.com/h2DeMoihCp0rppyPgQWj3lYoavc=/287x162/filters:strip_icc():quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/image/9713/jawa-pos-tv-779e10.jpg"/>
+  </programme>
+  <programme channel="9713" start="20260421020000 +0000" stop="20260421030000 +0000">
+    <title lang="id">Musica Hits</title>
+    <icon src="https://thumbor.prod.vidiocdn.com/h2DeMoihCp0rppyPgQWj3lYoavc=/287x162/filters:strip_icc():quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/image/9713/jawa-pos-tv-779e10.jpg"/>
+  </programme>
+  <programme channel="9713" start="20260421030000 +0000" stop="20260421040000 +0000">
+    <title lang="id">Nusantara Kini</title>
+    <icon src="https://thumbor.prod.vidiocdn.com/h2DeMoihCp0rppyPgQWj3lYoavc=/287x162/filters:strip_icc():quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/image/9713/jawa-pos-tv-779e10.jpg"/>
+  </programme>
+  <programme channel="9713" start="20260421040000 +0000" stop="20260421043000 +0000">
+    <title lang="id">Mancing Mbois</title>
+    <icon src="https://thumbor.prod.vidiocdn.com/h2DeMoihCp0rppyPgQWj3lYoavc=/287x162/filters:strip_icc():quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/image/9713/jawa-pos-tv-779e10.jpg"/>
+  </programme>
+  <programme channel="9713" start="20260421043000 +0000" stop="20260421050000 +0000">
+    <title lang="id">Indonesiana Tv</title>
+    <icon src="https://thumbor.prod.vidiocdn.com/h2DeMoihCp0rppyPgQWj3lYoavc=/287x162/filters:strip_icc():quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/image/9713/jawa-pos-tv-779e10.jpg"/>
+  </programme>
+  <programme channel="9713" start="20260421050000 +0000" stop="20260421060000 +0000">
+    <title lang="id">Stasiun Dangdut</title>
+    <icon src="https://thumbor.prod.vidiocdn.com/h2DeMoihCp0rppyPgQWj3lYoavc=/287x162/filters:strip_icc():quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/image/9713/jawa-pos-tv-779e10.jpg"/>
+  </programme>
+  <programme channel="9713" start="20260421060000 +0000" stop="20260421063000 +0000">
+    <title lang="id">Goro Goro Kartolo</title>
+    <icon src="https://thumbor.prod.vidiocdn.com/h2DeMoihCp0rppyPgQWj3lYoavc=/287x162/filters:strip_icc():quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/image/9713/jawa-pos-tv-779e10.jpg"/>
+  </programme>
+  <programme channel="9713" start="20260421063000 +0000" stop="20260421063300 +0000">
+    <title lang="id">Berita Gress</title>
+    <icon src="https://thumbor.prod.vidiocdn.com/h2DeMoihCp0rppyPgQWj3lYoavc=/287x162/filters:strip_icc():quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/image/9713/jawa-pos-tv-779e10.jpg"/>
+  </programme>
+  <programme channel="9713" start="20260421063300 +0000" stop="20260421070000 +0000">
+    <title lang="id">Goro Goro Kartolo</title>
+    <icon src="https://thumbor.prod.vidiocdn.com/h2DeMoihCp0rppyPgQWj3lYoavc=/287x162/filters:strip_icc():quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/image/9713/jawa-pos-tv-779e10.jpg"/>
+  </programme>
+  <programme channel="9713" start="20260421070000 +0000" stop="20260421073000 +0000">
+    <title lang="id">Jatim Awan</title>
+    <icon src="https://thumbor.prod.vidiocdn.com/h2DeMoihCp0rppyPgQWj3lYoavc=/287x162/filters:strip_icc():quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/image/9713/jawa-pos-tv-779e10.jpg"/>
+  </programme>
+  <programme channel="9713" start="20260421073000 +0000" stop="20260421080000 +0000">
+    <title lang="id">Pojok Arena</title>
+    <icon src="https://thumbor.prod.vidiocdn.com/h2DeMoihCp0rppyPgQWj3lYoavc=/287x162/filters:strip_icc():quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/image/9713/jawa-pos-tv-779e10.jpg"/>
+  </programme>
+  <programme channel="9713" start="20260421080000 +0000" stop="20260421083000 +0000">
+    <title lang="id">Kanal Budaya</title>
+    <icon src="https://thumbor.prod.vidiocdn.com/h2DeMoihCp0rppyPgQWj3lYoavc=/287x162/filters:strip_icc():quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/image/9713/jawa-pos-tv-779e10.jpg"/>
+  </programme>
+  <programme channel="9713" start="20260421083000 +0000" stop="20260421090000 +0000">
+    <title lang="id">Ngaji Blusukan</title>
+    <icon src="https://thumbor.prod.vidiocdn.com/h2DeMoihCp0rppyPgQWj3lYoavc=/287x162/filters:strip_icc():quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/image/9713/jawa-pos-tv-779e10.jpg"/>
+  </programme>
+  <programme channel="9713" start="20260421090000 +0000" stop="20260421090300 +0000">
+    <title lang="id">Berita Gress</title>
+    <icon src="https://thumbor.prod.vidiocdn.com/h2DeMoihCp0rppyPgQWj3lYoavc=/287x162/filters:strip_icc():quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/image/9713/jawa-pos-tv-779e10.jpg"/>
+  </programme>
+  <programme channel="9713" start="20260421090300 +0000" stop="20260421093000 +0000">
+    <title lang="id">Ngaji Blusukan</title>
+    <icon src="https://thumbor.prod.vidiocdn.com/h2DeMoihCp0rppyPgQWj3lYoavc=/287x162/filters:strip_icc():quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/image/9713/jawa-pos-tv-779e10.jpg"/>
+  </programme>
+  <programme channel="9713" start="20260421093000 +0000" stop="20260421100000 +0000">
+    <title lang="id">Program Kesehatan Pro Sifa</title>
+    <icon src="https://thumbor.prod.vidiocdn.com/h2DeMoihCp0rppyPgQWj3lYoavc=/287x162/filters:strip_icc():quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/image/9713/jawa-pos-tv-779e10.jpg"/>
+  </programme>
+  <programme channel="9713" start="20260421100000 +0000" stop="20260421103000 +0000">
+    <title lang="id">Program Kesehatan Bio Netra</title>
+    <icon src="https://thumbor.prod.vidiocdn.com/h2DeMoihCp0rppyPgQWj3lYoavc=/287x162/filters:strip_icc():quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/image/9713/jawa-pos-tv-779e10.jpg"/>
+  </programme>
+  <programme channel="9713" start="20260421103000 +0000" stop="20260421110000 +0000">
+    <title lang="id">Program Kesehatan Healtik</title>
+    <icon src="https://thumbor.prod.vidiocdn.com/h2DeMoihCp0rppyPgQWj3lYoavc=/287x162/filters:strip_icc():quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/image/9713/jawa-pos-tv-779e10.jpg"/>
+  </programme>
+  <programme channel="9713" start="20260421110000 +0000" stop="20260421120000 +0000">
+    <title lang="id">Dialog Khusus Kominfo Surabaya</title>
+    <icon src="https://thumbor.prod.vidiocdn.com/h2DeMoihCp0rppyPgQWj3lYoavc=/287x162/filters:strip_icc():quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/image/9713/jawa-pos-tv-779e10.jpg"/>
+  </programme>
+  <programme channel="9713" start="20260421120000 +0000" stop="20260421130000 +0000">
+    <title lang="id">Pojok Pitu</title>
+    <icon src="https://thumbor.prod.vidiocdn.com/h2DeMoihCp0rppyPgQWj3lYoavc=/287x162/filters:strip_icc():quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/image/9713/jawa-pos-tv-779e10.jpg"/>
+  </programme>
+  <programme channel="9713" start="20260421130000 +0000" stop="20260421133000 +0000">
+    <title lang="id">Blakraan</title>
+    <icon src="https://thumbor.prod.vidiocdn.com/h2DeMoihCp0rppyPgQWj3lYoavc=/287x162/filters:strip_icc():quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/image/9713/jawa-pos-tv-779e10.jpg"/>
+  </programme>
+  <programme channel="9713" start="20260421133000 +0000" stop="20260421140000 +0000">
+    <title lang="id">Ruang Karir</title>
+    <icon src="https://thumbor.prod.vidiocdn.com/h2DeMoihCp0rppyPgQWj3lYoavc=/287x162/filters:strip_icc():quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/image/9713/jawa-pos-tv-779e10.jpg"/>
+  </programme>
+  <programme channel="9713" start="20260421140000 +0000" stop="20260421150000 +0000">
+    <title lang="id">Pojok Kampung</title>
+    <icon src="https://thumbor.prod.vidiocdn.com/h2DeMoihCp0rppyPgQWj3lYoavc=/287x162/filters:strip_icc():quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/image/9713/jawa-pos-tv-779e10.jpg"/>
+  </programme>
+  <programme channel="9713" start="20260421150000 +0000" stop="20260421160000 +0000">
+    <title lang="id">Nusantara Kini</title>
+    <icon src="https://thumbor.prod.vidiocdn.com/h2DeMoihCp0rppyPgQWj3lYoavc=/287x162/filters:strip_icc():quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/image/9713/jawa-pos-tv-779e10.jpg"/>
+  </programme>
+  <programme channel="9713" start="20260421160000 +0000" stop="20260421170000 +0000">
+    <title lang="id">Ampun Dj</title>
+    <icon src="https://thumbor.prod.vidiocdn.com/h2DeMoihCp0rppyPgQWj3lYoavc=/287x162/filters:strip_icc():quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/image/9713/jawa-pos-tv-779e10.jpg"/>
+  </programme>
+  <programme channel="9713" start="20260421160000 +0000" stop="20260421170000 +0000">
+    <title lang="id">Ampun Dj</title>
+    <icon src="https://thumbor.prod.vidiocdn.com/h2DeMoihCp0rppyPgQWj3lYoavc=/287x162/filters:strip_icc():quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/image/9713/jawa-pos-tv-779e10.jpg"/>
+  </programme>
+  <programme channel="9713" start="20260421170000 +0000" stop="20260421170300 +0000">
+    <title lang="id">Lagu Bagimu Negeri</title>
+    <icon src="https://thumbor.prod.vidiocdn.com/h2DeMoihCp0rppyPgQWj3lYoavc=/287x162/filters:strip_icc():quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/image/9713/jawa-pos-tv-779e10.jpg"/>
+  </programme>
+  <programme channel="9713" start="20260421170300 +0000" stop="20260421170800 +0000">
+    <title lang="id">Station ID Jtv</title>
+    <icon src="https://thumbor.prod.vidiocdn.com/h2DeMoihCp0rppyPgQWj3lYoavc=/287x162/filters:strip_icc():quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/image/9713/jawa-pos-tv-779e10.jpg"/>
+  </programme>
+  <programme channel="9713" start="20260421170800 +0000" stop="20260421173000 +0000">
+    <title lang="id">Jurit Malam</title>
+    <icon src="https://thumbor.prod.vidiocdn.com/h2DeMoihCp0rppyPgQWj3lYoavc=/287x162/filters:strip_icc():quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/image/9713/jawa-pos-tv-779e10.jpg"/>
+  </programme>
+  <programme channel="9713" start="20260421173000 +0000" stop="20260421180000 +0000">
+    <title lang="id">Muter Lagu</title>
+    <icon src="https://thumbor.prod.vidiocdn.com/h2DeMoihCp0rppyPgQWj3lYoavc=/287x162/filters:strip_icc():quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/image/9713/jawa-pos-tv-779e10.jpg"/>
+  </programme>
+  <programme channel="9713" start="20260421180000 +0000" stop="20260421190000 +0000">
+    <title lang="id">Napak Tilas</title>
+    <icon src="https://thumbor.prod.vidiocdn.com/h2DeMoihCp0rppyPgQWj3lYoavc=/287x162/filters:strip_icc():quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/image/9713/jawa-pos-tv-779e10.jpg"/>
+  </programme>
+  <programme channel="9713" start="20260421190000 +0000" stop="20260421200000 +0000">
+    <title lang="id">Ampun Digoyang</title>
+    <icon src="https://thumbor.prod.vidiocdn.com/h2DeMoihCp0rppyPgQWj3lYoavc=/287x162/filters:strip_icc():quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/image/9713/jawa-pos-tv-779e10.jpg"/>
+  </programme>
+  <programme channel="9713" start="20260421200000 +0000" stop="20260421210000 +0000">
+    <title lang="id">Stasiun Dangdut</title>
+    <icon src="https://thumbor.prod.vidiocdn.com/h2DeMoihCp0rppyPgQWj3lYoavc=/287x162/filters:strip_icc():quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/image/9713/jawa-pos-tv-779e10.jpg"/>
+  </programme>
+  <programme channel="9713" start="20260421210000 +0000" stop="20260421220000 +0000">
+    <title lang="id">Ilir Ilir</title>
+    <icon src="https://thumbor.prod.vidiocdn.com/h2DeMoihCp0rppyPgQWj3lYoavc=/287x162/filters:strip_icc():quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/image/9713/jawa-pos-tv-779e10.jpg"/>
+  </programme>
+  <programme channel="9713" start="20260421220000 +0000" stop="20260421225700 +0000">
+    <title lang="id">Menek Blimbing</title>
+    <icon src="https://thumbor.prod.vidiocdn.com/h2DeMoihCp0rppyPgQWj3lYoavc=/287x162/filters:strip_icc():quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/image/9713/jawa-pos-tv-779e10.jpg"/>
+  </programme>
+  <programme channel="9713" start="20260421225700 +0000" stop="20260421230000 +0000">
+    <title lang="id">Indonesia Raya</title>
+    <icon src="https://thumbor.prod.vidiocdn.com/h2DeMoihCp0rppyPgQWj3lYoavc=/287x162/filters:strip_icc():quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/image/9713/jawa-pos-tv-779e10.jpg"/>
+  </programme>
+  <programme channel="9713" start="20260421230000 +0000" stop="20260422000000 +0000">
+    <title lang="id">Ngaji Blusukan</title>
+    <icon src="https://thumbor.prod.vidiocdn.com/h2DeMoihCp0rppyPgQWj3lYoavc=/287x162/filters:strip_icc():quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/image/9713/jawa-pos-tv-779e10.jpg"/>
+  </programme>
+  <programme channel="9713" start="20260422000000 +0000" stop="20260422003000 +0000">
+    <title lang="id">Badanamu</title>
+    <icon src="https://thumbor.prod.vidiocdn.com/h2DeMoihCp0rppyPgQWj3lYoavc=/287x162/filters:strip_icc():quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/image/9713/jawa-pos-tv-779e10.jpg"/>
+  </programme>
+  <programme channel="9713" start="20260422003000 +0000" stop="20260422010000 +0000">
+    <title lang="id">Bintang Kecil</title>
+    <icon src="https://thumbor.prod.vidiocdn.com/h2DeMoihCp0rppyPgQWj3lYoavc=/287x162/filters:strip_icc():quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/image/9713/jawa-pos-tv-779e10.jpg"/>
+  </programme>
+  <programme channel="9713" start="20260422010000 +0000" stop="20260422013000 +0000">
+    <title lang="id">Seni Pertunjukan</title>
+    <icon src="https://thumbor.prod.vidiocdn.com/h2DeMoihCp0rppyPgQWj3lYoavc=/287x162/filters:strip_icc():quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/image/9713/jawa-pos-tv-779e10.jpg"/>
+  </programme>
+  <programme channel="9713" start="20260422013000 +0000" stop="20260422020000 +0000">
+    <title lang="id">Alamku Keren</title>
+    <icon src="https://thumbor.prod.vidiocdn.com/h2DeMoihCp0rppyPgQWj3lYoavc=/287x162/filters:strip_icc():quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/image/9713/jawa-pos-tv-779e10.jpg"/>
+  </programme>
+  <programme channel="9713" start="20260422020000 +0000" stop="20260422030000 +0000">
+    <title lang="id">Musica Hits</title>
+    <icon src="https://thumbor.prod.vidiocdn.com/h2DeMoihCp0rppyPgQWj3lYoavc=/287x162/filters:strip_icc():quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/image/9713/jawa-pos-tv-779e10.jpg"/>
+  </programme>
+  <programme channel="9713" start="20260422030000 +0000" stop="20260422040000 +0000">
+    <title lang="id">Nusantara Kini</title>
+    <icon src="https://thumbor.prod.vidiocdn.com/h2DeMoihCp0rppyPgQWj3lYoavc=/287x162/filters:strip_icc():quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/image/9713/jawa-pos-tv-779e10.jpg"/>
+  </programme>
+  <programme channel="9713" start="20260422040000 +0000" stop="20260422043000 +0000">
+    <title lang="id">Mancing Mbois</title>
+    <icon src="https://thumbor.prod.vidiocdn.com/h2DeMoihCp0rppyPgQWj3lYoavc=/287x162/filters:strip_icc():quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/image/9713/jawa-pos-tv-779e10.jpg"/>
+  </programme>
+  <programme channel="9713" start="20260422043000 +0000" stop="20260422050000 +0000">
+    <title lang="id">Indonesiana Tv</title>
+    <icon src="https://thumbor.prod.vidiocdn.com/h2DeMoihCp0rppyPgQWj3lYoavc=/287x162/filters:strip_icc():quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/image/9713/jawa-pos-tv-779e10.jpg"/>
+  </programme>
+  <programme channel="9713" start="20260422050000 +0000" stop="20260422060000 +0000">
+    <title lang="id">Stasiun Dangdut</title>
+    <icon src="https://thumbor.prod.vidiocdn.com/h2DeMoihCp0rppyPgQWj3lYoavc=/287x162/filters:strip_icc():quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/image/9713/jawa-pos-tv-779e10.jpg"/>
+  </programme>
+  <programme channel="9713" start="20260422060000 +0000" stop="20260422063000 +0000">
+    <title lang="id">Goro Goro Kartolo</title>
+    <icon src="https://thumbor.prod.vidiocdn.com/h2DeMoihCp0rppyPgQWj3lYoavc=/287x162/filters:strip_icc():quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/image/9713/jawa-pos-tv-779e10.jpg"/>
+  </programme>
+  <programme channel="9713" start="20260422063000 +0000" stop="20260422063300 +0000">
+    <title lang="id">Berita Gress</title>
+    <icon src="https://thumbor.prod.vidiocdn.com/h2DeMoihCp0rppyPgQWj3lYoavc=/287x162/filters:strip_icc():quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/image/9713/jawa-pos-tv-779e10.jpg"/>
+  </programme>
+  <programme channel="9713" start="20260422063300 +0000" stop="20260422070000 +0000">
+    <title lang="id">Goro Goro Kartolo</title>
+    <icon src="https://thumbor.prod.vidiocdn.com/h2DeMoihCp0rppyPgQWj3lYoavc=/287x162/filters:strip_icc():quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/image/9713/jawa-pos-tv-779e10.jpg"/>
+  </programme>
+  <programme channel="9713" start="20260422070000 +0000" stop="20260422073000 +0000">
+    <title lang="id">Jatim Awan</title>
+    <icon src="https://thumbor.prod.vidiocdn.com/h2DeMoihCp0rppyPgQWj3lYoavc=/287x162/filters:strip_icc():quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/image/9713/jawa-pos-tv-779e10.jpg"/>
+  </programme>
+  <programme channel="9713" start="20260422073000 +0000" stop="20260422080000 +0000">
+    <title lang="id">Pojok Arena</title>
+    <icon src="https://thumbor.prod.vidiocdn.com/h2DeMoihCp0rppyPgQWj3lYoavc=/287x162/filters:strip_icc():quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/image/9713/jawa-pos-tv-779e10.jpg"/>
+  </programme>
+  <programme channel="9713" start="20260422080000 +0000" stop="20260422083000 +0000">
+    <title lang="id">Kanal Budaya</title>
+    <icon src="https://thumbor.prod.vidiocdn.com/h2DeMoihCp0rppyPgQWj3lYoavc=/287x162/filters:strip_icc():quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/image/9713/jawa-pos-tv-779e10.jpg"/>
+  </programme>
+  <programme channel="9713" start="20260422083000 +0000" stop="20260422090000 +0000">
+    <title lang="id">Ngaji Blusukan</title>
+    <icon src="https://thumbor.prod.vidiocdn.com/h2DeMoihCp0rppyPgQWj3lYoavc=/287x162/filters:strip_icc():quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/image/9713/jawa-pos-tv-779e10.jpg"/>
+  </programme>
+  <programme channel="9713" start="20260422090000 +0000" stop="20260422090300 +0000">
+    <title lang="id">Berita Gress</title>
+    <icon src="https://thumbor.prod.vidiocdn.com/h2DeMoihCp0rppyPgQWj3lYoavc=/287x162/filters:strip_icc():quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/image/9713/jawa-pos-tv-779e10.jpg"/>
+  </programme>
+  <programme channel="9713" start="20260422090300 +0000" stop="20260422093000 +0000">
+    <title lang="id">Ngaji Blusukan</title>
+    <icon src="https://thumbor.prod.vidiocdn.com/h2DeMoihCp0rppyPgQWj3lYoavc=/287x162/filters:strip_icc():quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/image/9713/jawa-pos-tv-779e10.jpg"/>
+  </programme>
+  <programme channel="9713" start="20260422093000 +0000" stop="20260422100000 +0000">
+    <title lang="id">Program Kesehatan Pro Sifa</title>
+    <icon src="https://thumbor.prod.vidiocdn.com/h2DeMoihCp0rppyPgQWj3lYoavc=/287x162/filters:strip_icc():quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/image/9713/jawa-pos-tv-779e10.jpg"/>
+  </programme>
+  <programme channel="9713" start="20260422100000 +0000" stop="20260422103000 +0000">
+    <title lang="id">Program Kesehatan Bio Netra</title>
+    <icon src="https://thumbor.prod.vidiocdn.com/h2DeMoihCp0rppyPgQWj3lYoavc=/287x162/filters:strip_icc():quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/image/9713/jawa-pos-tv-779e10.jpg"/>
+  </programme>
+  <programme channel="9713" start="20260422103000 +0000" stop="20260422110000 +0000">
+    <title lang="id">Mancing Mbois</title>
+    <icon src="https://thumbor.prod.vidiocdn.com/h2DeMoihCp0rppyPgQWj3lYoavc=/287x162/filters:strip_icc():quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/image/9713/jawa-pos-tv-779e10.jpg"/>
+  </programme>
+  <programme channel="9713" start="20260422110000 +0000" stop="20260422120000 +0000">
+    <title lang="id">Jatim Gaspol</title>
+    <icon src="https://thumbor.prod.vidiocdn.com/h2DeMoihCp0rppyPgQWj3lYoavc=/287x162/filters:strip_icc():quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/image/9713/jawa-pos-tv-779e10.jpg"/>
+  </programme>
+  <programme channel="9713" start="20260422120000 +0000" stop="20260422130000 +0000">
+    <title lang="id">Pojok Pitu</title>
+    <icon src="https://thumbor.prod.vidiocdn.com/h2DeMoihCp0rppyPgQWj3lYoavc=/287x162/filters:strip_icc():quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/image/9713/jawa-pos-tv-779e10.jpg"/>
+  </programme>
+  <programme channel="9713" start="20260422130000 +0000" stop="20260422133000 +0000">
+    <title lang="id">Blakraan</title>
+    <icon src="https://thumbor.prod.vidiocdn.com/h2DeMoihCp0rppyPgQWj3lYoavc=/287x162/filters:strip_icc():quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/image/9713/jawa-pos-tv-779e10.jpg"/>
+  </programme>
+  <programme channel="9713" start="20260422133000 +0000" stop="20260422140000 +0000">
+    <title lang="id">Ruang Karir</title>
+    <icon src="https://thumbor.prod.vidiocdn.com/h2DeMoihCp0rppyPgQWj3lYoavc=/287x162/filters:strip_icc():quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/image/9713/jawa-pos-tv-779e10.jpg"/>
+  </programme>
+  <programme channel="9713" start="20260422140000 +0000" stop="20260422150000 +0000">
+    <title lang="id">Pojok Kampung</title>
+    <icon src="https://thumbor.prod.vidiocdn.com/h2DeMoihCp0rppyPgQWj3lYoavc=/287x162/filters:strip_icc():quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/image/9713/jawa-pos-tv-779e10.jpg"/>
+  </programme>
+  <programme channel="9713" start="20260422150000 +0000" stop="20260422160000 +0000">
+    <title lang="id">Nusantara Kini</title>
+    <icon src="https://thumbor.prod.vidiocdn.com/h2DeMoihCp0rppyPgQWj3lYoavc=/287x162/filters:strip_icc():quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/image/9713/jawa-pos-tv-779e10.jpg"/>
+  </programme>
+  <programme channel="9713" start="20260422160000 +0000" stop="20260422170000 +0000">
+    <title lang="id">Ampun Dj</title>
+    <icon src="https://thumbor.prod.vidiocdn.com/h2DeMoihCp0rppyPgQWj3lYoavc=/287x162/filters:strip_icc():quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/image/9713/jawa-pos-tv-779e10.jpg"/>
+  </programme>
+  <programme channel="9713" start="20260422160000 +0000" stop="20260422170000 +0000">
+    <title lang="id">Ampun Dj</title>
+    <icon src="https://thumbor.prod.vidiocdn.com/h2DeMoihCp0rppyPgQWj3lYoavc=/287x162/filters:strip_icc():quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/image/9713/jawa-pos-tv-779e10.jpg"/>
+  </programme>
+  <programme channel="9713" start="20260422170000 +0000" stop="20260422170300 +0000">
+    <title lang="id">Lagu Bagimu Negeri</title>
+    <icon src="https://thumbor.prod.vidiocdn.com/h2DeMoihCp0rppyPgQWj3lYoavc=/287x162/filters:strip_icc():quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/image/9713/jawa-pos-tv-779e10.jpg"/>
+  </programme>
+  <programme channel="9713" start="20260422170300 +0000" stop="20260422170800 +0000">
+    <title lang="id">Station ID Jtv</title>
+    <icon src="https://thumbor.prod.vidiocdn.com/h2DeMoihCp0rppyPgQWj3lYoavc=/287x162/filters:strip_icc():quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/image/9713/jawa-pos-tv-779e10.jpg"/>
+  </programme>
+  <programme channel="9713" start="20260422170800 +0000" stop="20260422173000 +0000">
+    <title lang="id">Jurit Malam</title>
+    <icon src="https://thumbor.prod.vidiocdn.com/h2DeMoihCp0rppyPgQWj3lYoavc=/287x162/filters:strip_icc():quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/image/9713/jawa-pos-tv-779e10.jpg"/>
+  </programme>
+  <programme channel="9713" start="20260422173000 +0000" stop="20260422180000 +0000">
+    <title lang="id">Muter Lagu</title>
+    <icon src="https://thumbor.prod.vidiocdn.com/h2DeMoihCp0rppyPgQWj3lYoavc=/287x162/filters:strip_icc():quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/image/9713/jawa-pos-tv-779e10.jpg"/>
+  </programme>
+  <programme channel="9713" start="20260422180000 +0000" stop="20260422190000 +0000">
+    <title lang="id">Napak Tilas</title>
+    <icon src="https://thumbor.prod.vidiocdn.com/h2DeMoihCp0rppyPgQWj3lYoavc=/287x162/filters:strip_icc():quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/image/9713/jawa-pos-tv-779e10.jpg"/>
+  </programme>
+  <programme channel="9713" start="20260422190000 +0000" stop="20260422200000 +0000">
+    <title lang="id">Ampun Digoyang</title>
+    <icon src="https://thumbor.prod.vidiocdn.com/h2DeMoihCp0rppyPgQWj3lYoavc=/287x162/filters:strip_icc():quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/image/9713/jawa-pos-tv-779e10.jpg"/>
+  </programme>
+  <programme channel="9713" start="20260422200000 +0000" stop="20260422210000 +0000">
+    <title lang="id">Stasiun Dangdut</title>
+    <icon src="https://thumbor.prod.vidiocdn.com/h2DeMoihCp0rppyPgQWj3lYoavc=/287x162/filters:strip_icc():quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/image/9713/jawa-pos-tv-779e10.jpg"/>
+  </programme>
+  <programme channel="9713" start="20260422210000 +0000" stop="20260422220000 +0000">
+    <title lang="id">Ilir Ilir</title>
+    <icon src="https://thumbor.prod.vidiocdn.com/h2DeMoihCp0rppyPgQWj3lYoavc=/287x162/filters:strip_icc():quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/image/9713/jawa-pos-tv-779e10.jpg"/>
+  </programme>
+  <programme channel="9713" start="20260422220000 +0000" stop="20260422225700 +0000">
+    <title lang="id">Menek Blimbing</title>
+    <icon src="https://thumbor.prod.vidiocdn.com/h2DeMoihCp0rppyPgQWj3lYoavc=/287x162/filters:strip_icc():quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/image/9713/jawa-pos-tv-779e10.jpg"/>
+  </programme>
+  <programme channel="9713" start="20260422225700 +0000" stop="20260422230000 +0000">
+    <title lang="id">Indonesia Raya</title>
+    <icon src="https://thumbor.prod.vidiocdn.com/h2DeMoihCp0rppyPgQWj3lYoavc=/287x162/filters:strip_icc():quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/image/9713/jawa-pos-tv-779e10.jpg"/>
+  </programme>
+  <programme channel="9713" start="20260422230000 +0000" stop="20260423000000 +0000">
+    <title lang="id">Ngaji Blusukan</title>
+    <icon src="https://thumbor.prod.vidiocdn.com/h2DeMoihCp0rppyPgQWj3lYoavc=/287x162/filters:strip_icc():quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/image/9713/jawa-pos-tv-779e10.jpg"/>
+  </programme>
+  <programme channel="9713" start="20260423000000 +0000" stop="20260423003000 +0000">
+    <title lang="id">Badanamu</title>
+    <icon src="https://thumbor.prod.vidiocdn.com/h2DeMoihCp0rppyPgQWj3lYoavc=/287x162/filters:strip_icc():quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/image/9713/jawa-pos-tv-779e10.jpg"/>
+  </programme>
+  <programme channel="9713" start="20260423003000 +0000" stop="20260423010000 +0000">
+    <title lang="id">Bintang Kecil</title>
+    <icon src="https://thumbor.prod.vidiocdn.com/h2DeMoihCp0rppyPgQWj3lYoavc=/287x162/filters:strip_icc():quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/image/9713/jawa-pos-tv-779e10.jpg"/>
+  </programme>
+  <programme channel="9713" start="20260423010000 +0000" stop="20260423013000 +0000">
+    <title lang="id">Seni Pertunjukan</title>
+    <icon src="https://thumbor.prod.vidiocdn.com/h2DeMoihCp0rppyPgQWj3lYoavc=/287x162/filters:strip_icc():quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/image/9713/jawa-pos-tv-779e10.jpg"/>
+  </programme>
+  <programme channel="9713" start="20260423013000 +0000" stop="20260423023000 +0000">
+    <title lang="id">Cerita Wastra</title>
+    <icon src="https://thumbor.prod.vidiocdn.com/h2DeMoihCp0rppyPgQWj3lYoavc=/287x162/filters:strip_icc():quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/image/9713/jawa-pos-tv-779e10.jpg"/>
+  </programme>
+  <programme channel="9713" start="20260423023000 +0000" stop="20260423030000 +0000">
+    <title lang="id">Musica Hits</title>
+    <icon src="https://thumbor.prod.vidiocdn.com/h2DeMoihCp0rppyPgQWj3lYoavc=/287x162/filters:strip_icc():quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/image/9713/jawa-pos-tv-779e10.jpg"/>
+  </programme>
+  <programme channel="9713" start="20260423030000 +0000" stop="20260423040000 +0000">
+    <title lang="id">Nusantara Kini</title>
+    <icon src="https://thumbor.prod.vidiocdn.com/h2DeMoihCp0rppyPgQWj3lYoavc=/287x162/filters:strip_icc():quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/image/9713/jawa-pos-tv-779e10.jpg"/>
+  </programme>
+  <programme channel="9713" start="20260423040000 +0000" stop="20260423043000 +0000">
+    <title lang="id">Mancing Mbois</title>
+    <icon src="https://thumbor.prod.vidiocdn.com/h2DeMoihCp0rppyPgQWj3lYoavc=/287x162/filters:strip_icc():quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/image/9713/jawa-pos-tv-779e10.jpg"/>
+  </programme>
+  <programme channel="9713" start="20260423043000 +0000" stop="20260423050000 +0000">
+    <title lang="id">Indonesiana Tv</title>
+    <icon src="https://thumbor.prod.vidiocdn.com/h2DeMoihCp0rppyPgQWj3lYoavc=/287x162/filters:strip_icc():quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/image/9713/jawa-pos-tv-779e10.jpg"/>
+  </programme>
+  <programme channel="9713" start="20260423050000 +0000" stop="20260423060000 +0000">
+    <title lang="id">Stasiun Dangdut</title>
+    <icon src="https://thumbor.prod.vidiocdn.com/h2DeMoihCp0rppyPgQWj3lYoavc=/287x162/filters:strip_icc():quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/image/9713/jawa-pos-tv-779e10.jpg"/>
+  </programme>
+  <programme channel="9713" start="20260423060000 +0000" stop="20260423063000 +0000">
+    <title lang="id">Goro Goro Kartolo</title>
+    <icon src="https://thumbor.prod.vidiocdn.com/h2DeMoihCp0rppyPgQWj3lYoavc=/287x162/filters:strip_icc():quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/image/9713/jawa-pos-tv-779e10.jpg"/>
+  </programme>
+  <programme channel="9713" start="20260423063000 +0000" stop="20260423063300 +0000">
+    <title lang="id">Berita Gress</title>
+    <icon src="https://thumbor.prod.vidiocdn.com/h2DeMoihCp0rppyPgQWj3lYoavc=/287x162/filters:strip_icc():quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/image/9713/jawa-pos-tv-779e10.jpg"/>
+  </programme>
+  <programme channel="9713" start="20260423063300 +0000" stop="20260423070000 +0000">
+    <title lang="id">Goro Goro Kartolo</title>
+    <icon src="https://thumbor.prod.vidiocdn.com/h2DeMoihCp0rppyPgQWj3lYoavc=/287x162/filters:strip_icc():quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/image/9713/jawa-pos-tv-779e10.jpg"/>
+  </programme>
+  <programme channel="9713" start="20260423070000 +0000" stop="20260423073000 +0000">
+    <title lang="id">Jatim Awan</title>
+    <icon src="https://thumbor.prod.vidiocdn.com/h2DeMoihCp0rppyPgQWj3lYoavc=/287x162/filters:strip_icc():quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/image/9713/jawa-pos-tv-779e10.jpg"/>
+  </programme>
+  <programme channel="9713" start="20260423073000 +0000" stop="20260423080000 +0000">
+    <title lang="id">Pojok Arena</title>
+    <icon src="https://thumbor.prod.vidiocdn.com/h2DeMoihCp0rppyPgQWj3lYoavc=/287x162/filters:strip_icc():quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/image/9713/jawa-pos-tv-779e10.jpg"/>
+  </programme>
+  <programme channel="9713" start="20260423080000 +0000" stop="20260423083000 +0000">
+    <title lang="id">Kanal Budaya</title>
+    <icon src="https://thumbor.prod.vidiocdn.com/h2DeMoihCp0rppyPgQWj3lYoavc=/287x162/filters:strip_icc():quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/image/9713/jawa-pos-tv-779e10.jpg"/>
+  </programme>
+  <programme channel="9713" start="20260423083000 +0000" stop="20260423090000 +0000">
+    <title lang="id">Ngaji Blusukan</title>
+    <icon src="https://thumbor.prod.vidiocdn.com/h2DeMoihCp0rppyPgQWj3lYoavc=/287x162/filters:strip_icc():quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/image/9713/jawa-pos-tv-779e10.jpg"/>
+  </programme>
+  <programme channel="9713" start="20260423090000 +0000" stop="20260423090300 +0000">
+    <title lang="id">Berita Gress</title>
+    <icon src="https://thumbor.prod.vidiocdn.com/h2DeMoihCp0rppyPgQWj3lYoavc=/287x162/filters:strip_icc():quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/image/9713/jawa-pos-tv-779e10.jpg"/>
+  </programme>
+  <programme channel="9713" start="20260423090300 +0000" stop="20260423093000 +0000">
+    <title lang="id">Ngaji Blusukan</title>
+    <icon src="https://thumbor.prod.vidiocdn.com/h2DeMoihCp0rppyPgQWj3lYoavc=/287x162/filters:strip_icc():quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/image/9713/jawa-pos-tv-779e10.jpg"/>
+  </programme>
+  <programme channel="9713" start="20260423093000 +0000" stop="20260423100000 +0000">
+    <title lang="id">Program Kesehatan Pro Sifa</title>
+    <icon src="https://thumbor.prod.vidiocdn.com/h2DeMoihCp0rppyPgQWj3lYoavc=/287x162/filters:strip_icc():quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/image/9713/jawa-pos-tv-779e10.jpg"/>
+  </programme>
+  <programme channel="9713" start="20260423100000 +0000" stop="20260423103000 +0000">
+    <title lang="id">Program Kesehatan Bio Netra</title>
+    <icon src="https://thumbor.prod.vidiocdn.com/h2DeMoihCp0rppyPgQWj3lYoavc=/287x162/filters:strip_icc():quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/image/9713/jawa-pos-tv-779e10.jpg"/>
+  </programme>
+  <programme channel="9713" start="20260423103000 +0000" stop="20260423110000 +0000">
+    <title lang="id">Program Kesehatan Healtik</title>
+    <icon src="https://thumbor.prod.vidiocdn.com/h2DeMoihCp0rppyPgQWj3lYoavc=/287x162/filters:strip_icc():quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/image/9713/jawa-pos-tv-779e10.jpg"/>
+  </programme>
+  <programme channel="9713" start="20260423110000 +0000" stop="20260423120000 +0000">
+    <title lang="id">Jelajah Masjid</title>
+    <icon src="https://thumbor.prod.vidiocdn.com/h2DeMoihCp0rppyPgQWj3lYoavc=/287x162/filters:strip_icc():quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/image/9713/jawa-pos-tv-779e10.jpg"/>
+  </programme>
+  <programme channel="9713" start="20260423120000 +0000" stop="20260423130000 +0000">
+    <title lang="id">Pojok Pitu</title>
+    <icon src="https://thumbor.prod.vidiocdn.com/h2DeMoihCp0rppyPgQWj3lYoavc=/287x162/filters:strip_icc():quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/image/9713/jawa-pos-tv-779e10.jpg"/>
+  </programme>
+  <programme channel="9713" start="20260423130000 +0000" stop="20260423140000 +0000">
+    <title lang="id">Infone Warga</title>
+    <icon src="https://thumbor.prod.vidiocdn.com/h2DeMoihCp0rppyPgQWj3lYoavc=/287x162/filters:strip_icc():quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/image/9713/jawa-pos-tv-779e10.jpg"/>
+  </programme>
+  <programme channel="9713" start="20260423140000 +0000" stop="20260423150000 +0000">
+    <title lang="id">Pojok Kampung</title>
+    <icon src="https://thumbor.prod.vidiocdn.com/h2DeMoihCp0rppyPgQWj3lYoavc=/287x162/filters:strip_icc():quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/image/9713/jawa-pos-tv-779e10.jpg"/>
+  </programme>
+  <programme channel="9713" start="20260423150000 +0000" stop="20260423160000 +0000">
+    <title lang="id">Nusantara Kini</title>
+    <icon src="https://thumbor.prod.vidiocdn.com/h2DeMoihCp0rppyPgQWj3lYoavc=/287x162/filters:strip_icc():quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/image/9713/jawa-pos-tv-779e10.jpg"/>
+  </programme>
+  <programme channel="9713" start="20260423160000 +0000" stop="20260423170000 +0000">
+    <title lang="id">Ampun Dj</title>
+    <icon src="https://thumbor.prod.vidiocdn.com/h2DeMoihCp0rppyPgQWj3lYoavc=/287x162/filters:strip_icc():quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/image/9713/jawa-pos-tv-779e10.jpg"/>
+  </programme>
+  <programme channel="9713" start="20260423160000 +0000" stop="20260423170000 +0000">
+    <title lang="id">Ampun Dj</title>
+    <icon src="https://thumbor.prod.vidiocdn.com/h2DeMoihCp0rppyPgQWj3lYoavc=/287x162/filters:strip_icc():quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/image/9713/jawa-pos-tv-779e10.jpg"/>
+  </programme>
+  <programme channel="9713" start="20260423170000 +0000" stop="20260423170500 +0000">
+    <title lang="id">Lagu Bagimu Negeri</title>
+    <icon src="https://thumbor.prod.vidiocdn.com/h2DeMoihCp0rppyPgQWj3lYoavc=/287x162/filters:strip_icc():quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/image/9713/jawa-pos-tv-779e10.jpg"/>
+  </programme>
+  <programme channel="9713" start="20260423170800 +0000" stop="20260423180000 +0000">
+    <title lang="id">Muter Lagu</title>
+    <icon src="https://thumbor.prod.vidiocdn.com/h2DeMoihCp0rppyPgQWj3lYoavc=/287x162/filters:strip_icc():quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/image/9713/jawa-pos-tv-779e10.jpg"/>
+  </programme>
+  <programme channel="9713" start="20260423180000 +0000" stop="20260423190000 +0000">
+    <title lang="id">Napak Tilas</title>
+    <icon src="https://thumbor.prod.vidiocdn.com/h2DeMoihCp0rppyPgQWj3lYoavc=/287x162/filters:strip_icc():quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/image/9713/jawa-pos-tv-779e10.jpg"/>
+  </programme>
+  <programme channel="9713" start="20260423190000 +0000" stop="20260423200000 +0000">
+    <title lang="id">Ampun Digoyang</title>
+    <icon src="https://thumbor.prod.vidiocdn.com/h2DeMoihCp0rppyPgQWj3lYoavc=/287x162/filters:strip_icc():quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/image/9713/jawa-pos-tv-779e10.jpg"/>
+  </programme>
+  <programme channel="9713" start="20260423200000 +0000" stop="20260423210000 +0000">
+    <title lang="id">Stasiun Dangdut</title>
+    <icon src="https://thumbor.prod.vidiocdn.com/h2DeMoihCp0rppyPgQWj3lYoavc=/287x162/filters:strip_icc():quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/image/9713/jawa-pos-tv-779e10.jpg"/>
+  </programme>
+  <programme channel="9713" start="20260423210000 +0000" stop="20260423220000 +0000">
+    <title lang="id">Ilir Ilir</title>
+    <icon src="https://thumbor.prod.vidiocdn.com/h2DeMoihCp0rppyPgQWj3lYoavc=/287x162/filters:strip_icc():quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/image/9713/jawa-pos-tv-779e10.jpg"/>
+  </programme>
+  <programme channel="9713" start="20260423220000 +0000" stop="20260423225700 +0000">
+    <title lang="id">Menek Blimbing</title>
+    <icon src="https://thumbor.prod.vidiocdn.com/h2DeMoihCp0rppyPgQWj3lYoavc=/287x162/filters:strip_icc():quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/image/9713/jawa-pos-tv-779e10.jpg"/>
+  </programme>
+  <programme channel="9713" start="20260423225700 +0000" stop="20260423230000 +0000">
+    <title lang="id">Indonesia Raya</title>
+    <icon src="https://thumbor.prod.vidiocdn.com/h2DeMoihCp0rppyPgQWj3lYoavc=/287x162/filters:strip_icc():quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/image/9713/jawa-pos-tv-779e10.jpg"/>
+  </programme>
+  <programme channel="9713" start="20260423230000 +0000" stop="20260424000000 +0000">
+    <title lang="id">Ngaji Blusukan</title>
+    <icon src="https://thumbor.prod.vidiocdn.com/h2DeMoihCp0rppyPgQWj3lYoavc=/287x162/filters:strip_icc():quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/image/9713/jawa-pos-tv-779e10.jpg"/>
+  </programme>
+  <programme channel="9713" start="20260424000000 +0000" stop="20260424003000 +0000">
+    <title lang="id">Badanamu</title>
+    <icon src="https://thumbor.prod.vidiocdn.com/h2DeMoihCp0rppyPgQWj3lYoavc=/287x162/filters:strip_icc():quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/image/9713/jawa-pos-tv-779e10.jpg"/>
+  </programme>
+  <programme channel="9713" start="20260424003000 +0000" stop="20260424010000 +0000">
+    <title lang="id">Bintang Kecil</title>
+    <icon src="https://thumbor.prod.vidiocdn.com/h2DeMoihCp0rppyPgQWj3lYoavc=/287x162/filters:strip_icc():quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/image/9713/jawa-pos-tv-779e10.jpg"/>
+  </programme>
+  <programme channel="9713" start="20260424010000 +0000" stop="20260424013000 +0000">
+    <title lang="id">Cerita Wastra</title>
+    <icon src="https://thumbor.prod.vidiocdn.com/h2DeMoihCp0rppyPgQWj3lYoavc=/287x162/filters:strip_icc():quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/image/9713/jawa-pos-tv-779e10.jpg"/>
+  </programme>
+  <programme channel="9713" start="20260424013000 +0000" stop="20260424020000 +0000">
+    <title lang="id">Alamku Keren</title>
+    <icon src="https://thumbor.prod.vidiocdn.com/h2DeMoihCp0rppyPgQWj3lYoavc=/287x162/filters:strip_icc():quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/image/9713/jawa-pos-tv-779e10.jpg"/>
+  </programme>
+  <programme channel="9713" start="20260424020000 +0000" stop="20260424030000 +0000">
+    <title lang="id">Musica Hits</title>
+    <icon src="https://thumbor.prod.vidiocdn.com/h2DeMoihCp0rppyPgQWj3lYoavc=/287x162/filters:strip_icc():quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/image/9713/jawa-pos-tv-779e10.jpg"/>
+  </programme>
+  <programme channel="9713" start="20260424030000 +0000" stop="20260424040000 +0000">
+    <title lang="id">Nusantara Kini</title>
+    <icon src="https://thumbor.prod.vidiocdn.com/h2DeMoihCp0rppyPgQWj3lYoavc=/287x162/filters:strip_icc():quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/image/9713/jawa-pos-tv-779e10.jpg"/>
+  </programme>
+  <programme channel="9713" start="20260424040000 +0000" stop="20260424043000 +0000">
+    <title lang="id">Program Kesehatan Takaro</title>
+    <icon src="https://thumbor.prod.vidiocdn.com/h2DeMoihCp0rppyPgQWj3lYoavc=/287x162/filters:strip_icc():quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/image/9713/jawa-pos-tv-779e10.jpg"/>
+  </programme>
+  <programme channel="9713" start="20260424043000 +0000" stop="20260424050000 +0000">
+    <title lang="id">Jelajah Kuliner</title>
+    <icon src="https://thumbor.prod.vidiocdn.com/h2DeMoihCp0rppyPgQWj3lYoavc=/287x162/filters:strip_icc():quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/image/9713/jawa-pos-tv-779e10.jpg"/>
+  </programme>
+  <programme channel="9713" start="20260424050000 +0000" stop="20260424060000 +0000">
+    <title lang="id">Stasiun Dangdut</title>
+    <icon src="https://thumbor.prod.vidiocdn.com/h2DeMoihCp0rppyPgQWj3lYoavc=/287x162/filters:strip_icc():quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/image/9713/jawa-pos-tv-779e10.jpg"/>
+  </programme>
+  <programme channel="9713" start="20260424060000 +0000" stop="20260424063000 +0000">
+    <title lang="id">Goro Goro Kartolo</title>
+    <icon src="https://thumbor.prod.vidiocdn.com/h2DeMoihCp0rppyPgQWj3lYoavc=/287x162/filters:strip_icc():quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/image/9713/jawa-pos-tv-779e10.jpg"/>
+  </programme>
+  <programme channel="9713" start="20260424063000 +0000" stop="20260424063300 +0000">
+    <title lang="id">Berita Gress</title>
+    <icon src="https://thumbor.prod.vidiocdn.com/h2DeMoihCp0rppyPgQWj3lYoavc=/287x162/filters:strip_icc():quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/image/9713/jawa-pos-tv-779e10.jpg"/>
+  </programme>
+  <programme channel="9713" start="20260424063300 +0000" stop="20260424070000 +0000">
+    <title lang="id">Goro Goro Kartolo</title>
+    <icon src="https://thumbor.prod.vidiocdn.com/h2DeMoihCp0rppyPgQWj3lYoavc=/287x162/filters:strip_icc():quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/image/9713/jawa-pos-tv-779e10.jpg"/>
+  </programme>
+  <programme channel="9713" start="20260424070000 +0000" stop="20260424073000 +0000">
+    <title lang="id">Jatim Awan</title>
+    <icon src="https://thumbor.prod.vidiocdn.com/h2DeMoihCp0rppyPgQWj3lYoavc=/287x162/filters:strip_icc():quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/image/9713/jawa-pos-tv-779e10.jpg"/>
+  </programme>
+  <programme channel="9713" start="20260424073000 +0000" stop="20260424080000 +0000">
+    <title lang="id">Pojok Arena</title>
+    <icon src="https://thumbor.prod.vidiocdn.com/h2DeMoihCp0rppyPgQWj3lYoavc=/287x162/filters:strip_icc():quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/image/9713/jawa-pos-tv-779e10.jpg"/>
+  </programme>
+  <programme channel="9713" start="20260424080000 +0000" stop="20260424083000 +0000">
+    <title lang="id">Kanal Budaya</title>
+    <icon src="https://thumbor.prod.vidiocdn.com/h2DeMoihCp0rppyPgQWj3lYoavc=/287x162/filters:strip_icc():quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/image/9713/jawa-pos-tv-779e10.jpg"/>
+  </programme>
+  <programme channel="9713" start="20260424083000 +0000" stop="20260424090000 +0000">
+    <title lang="id">Ngaji Blusukan</title>
+    <icon src="https://thumbor.prod.vidiocdn.com/h2DeMoihCp0rppyPgQWj3lYoavc=/287x162/filters:strip_icc():quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/image/9713/jawa-pos-tv-779e10.jpg"/>
+  </programme>
+  <programme channel="9713" start="20260424090000 +0000" stop="20260424090300 +0000">
+    <title lang="id">Berita Gress</title>
+    <icon src="https://thumbor.prod.vidiocdn.com/h2DeMoihCp0rppyPgQWj3lYoavc=/287x162/filters:strip_icc():quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/image/9713/jawa-pos-tv-779e10.jpg"/>
+  </programme>
+  <programme channel="9713" start="20260424090300 +0000" stop="20260424093000 +0000">
+    <title lang="id">Ngaji Blusukan</title>
+    <icon src="https://thumbor.prod.vidiocdn.com/h2DeMoihCp0rppyPgQWj3lYoavc=/287x162/filters:strip_icc():quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/image/9713/jawa-pos-tv-779e10.jpg"/>
+  </programme>
+  <programme channel="9713" start="20260424093000 +0000" stop="20260424100000 +0000">
+    <title lang="id">Program Kesehatan Pro Sifa</title>
+    <icon src="https://thumbor.prod.vidiocdn.com/h2DeMoihCp0rppyPgQWj3lYoavc=/287x162/filters:strip_icc():quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/image/9713/jawa-pos-tv-779e10.jpg"/>
+  </programme>
+  <programme channel="9713" start="20260424100000 +0000" stop="20260424103000 +0000">
+    <title lang="id">Program Kesehatan Bio Netra</title>
+    <icon src="https://thumbor.prod.vidiocdn.com/h2DeMoihCp0rppyPgQWj3lYoavc=/287x162/filters:strip_icc():quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/image/9713/jawa-pos-tv-779e10.jpg"/>
+  </programme>
+  <programme channel="9713" start="20260424103000 +0000" stop="20260424110000 +0000">
+    <title lang="id">Mancing Mbois</title>
+    <icon src="https://thumbor.prod.vidiocdn.com/h2DeMoihCp0rppyPgQWj3lYoavc=/287x162/filters:strip_icc():quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/image/9713/jawa-pos-tv-779e10.jpg"/>
+  </programme>
+  <programme channel="9713" start="20260424110000 +0000" stop="20260424120000 +0000">
+    <title lang="id">Gak Cumak Cangkruk'An</title>
+    <icon src="https://thumbor.prod.vidiocdn.com/h2DeMoihCp0rppyPgQWj3lYoavc=/287x162/filters:strip_icc():quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/image/9713/jawa-pos-tv-779e10.jpg"/>
+  </programme>
+  <programme channel="9713" start="20260424120000 +0000" stop="20260424130000 +0000">
+    <title lang="id">Pojok Pitu</title>
+    <icon src="https://thumbor.prod.vidiocdn.com/h2DeMoihCp0rppyPgQWj3lYoavc=/287x162/filters:strip_icc():quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/image/9713/jawa-pos-tv-779e10.jpg"/>
+  </programme>
+  <programme channel="9713" start="20260424130000 +0000" stop="20260424133000 +0000">
+    <title lang="id">Blakraan</title>
+    <icon src="https://thumbor.prod.vidiocdn.com/h2DeMoihCp0rppyPgQWj3lYoavc=/287x162/filters:strip_icc():quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/image/9713/jawa-pos-tv-779e10.jpg"/>
+  </programme>
+  <programme channel="9713" start="20260424133000 +0000" stop="20260424140000 +0000">
+    <title lang="id">Program Kesehatan Takaro</title>
+    <icon src="https://thumbor.prod.vidiocdn.com/h2DeMoihCp0rppyPgQWj3lYoavc=/287x162/filters:strip_icc():quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/image/9713/jawa-pos-tv-779e10.jpg"/>
+  </programme>
+  <programme channel="9713" start="20260424140000 +0000" stop="20260424150000 +0000">
+    <title lang="id">Pojok Kampung</title>
+    <icon src="https://thumbor.prod.vidiocdn.com/h2DeMoihCp0rppyPgQWj3lYoavc=/287x162/filters:strip_icc():quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/image/9713/jawa-pos-tv-779e10.jpg"/>
+  </programme>
+  <programme channel="9713" start="20260424150000 +0000" stop="20260424160000 +0000">
+    <title lang="id">Nusantara Kini</title>
+    <icon src="https://thumbor.prod.vidiocdn.com/h2DeMoihCp0rppyPgQWj3lYoavc=/287x162/filters:strip_icc():quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/image/9713/jawa-pos-tv-779e10.jpg"/>
+  </programme>
+  <programme channel="9713" start="20260424160000 +0000" stop="20260424170000 +0000">
+    <title lang="id">Ampun Dj</title>
+    <icon src="https://thumbor.prod.vidiocdn.com/h2DeMoihCp0rppyPgQWj3lYoavc=/287x162/filters:strip_icc():quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/image/9713/jawa-pos-tv-779e10.jpg"/>
+  </programme>
   <programme channel="9182" start="20260417150000 +0000" stop="20260417170000 +0000">
     <title lang="id">MANCHESTER UNITED vs LEEDS UNITED : Premier League 2025/26</title>
     <desc lang="id">MANCHESTER UNITED vs LEEDS UNITED</desc>
@@ -16961,17 +18697,17 @@ dan komprehensif mengenai berbagai topik yang relevan dalam kehidupan sehari-har
     <desc lang="id">Nonton streaming pertandingan seru Newcastle vs Bournemouth - Premier League. Saksikan aksi-aksi terbaik dari tim yang bersaing ketat untuk meraih kemenangan. Dapatkan informasi lengkap mengenai jadwal pertandingan dan hasil pertandingan terbaru hanya di Vidio.</desc>
     <icon src="https://thumbor.prod.vidiocdn.com/d9PkW6JWdQ-wIllnZO_NbFQo5_M=/287x162/filters:strip_icc():quality(70)/vidio-media-production/uploads/livestreaming/schedule/thumbnail/5015500/4a43ab.jpg"/>
   </programme>
-  <programme channel="9182" start="20260418160800 +0000" stop="20260418183000 +0000">
+  <programme channel="9182" start="20260418160800 +0000" stop="20260418184000 +0000">
     <title lang="id">Tottenham vs Brighton - Premier League</title>
     <desc lang="id">Nonton streaming pertandingan seru Tottenham vs Brighton - Premier League. Saksikan aksi-aksi terbaik dari tim yang bersaing ketat untuk meraih kemenangan. Dapatkan informasi lengkap mengenai jadwal pertandingan dan hasil pertandingan terbaru hanya di Vidio.</desc>
     <icon src="https://thumbor.prod.vidiocdn.com/LJ1SqEcHvLxbMpJ6NTdpaXifAhE=/287x162/filters:strip_icc():quality(70)/vidio-media-production/uploads/livestreaming/schedule/thumbnail/5015501/7e8a9d.jpg"/>
   </programme>
-  <programme channel="9182" start="20260418160800 +0000" stop="20260418183000 +0000">
+  <programme channel="9182" start="20260418160800 +0000" stop="20260418184000 +0000">
     <title lang="id">Tottenham vs Brighton - Premier League</title>
     <desc lang="id">Nonton streaming pertandingan seru Tottenham vs Brighton - Premier League. Saksikan aksi-aksi terbaik dari tim yang bersaing ketat untuk meraih kemenangan. Dapatkan informasi lengkap mengenai jadwal pertandingan dan hasil pertandingan terbaru hanya di Vidio.</desc>
     <icon src="https://thumbor.prod.vidiocdn.com/LJ1SqEcHvLxbMpJ6NTdpaXifAhE=/287x162/filters:strip_icc():quality(70)/vidio-media-production/uploads/livestreaming/schedule/thumbnail/5015501/7e8a9d.jpg"/>
   </programme>
-  <programme channel="9182" start="20260418183000 +0000" stop="20260418210000 +0000">
+  <programme channel="9182" start="20260418184000 +0000" stop="20260418210000 +0000">
     <title lang="id">Chelsea vs Man United - Premier League</title>
     <desc lang="id">Nonton streaming pertandingan seru Chelsea vs Man United - Premier League. Saksikan aksi-aksi terbaik dari tim yang bersaing ketat untuk meraih kemenangan. Dapatkan informasi lengkap mengenai jadwal pertandingan dan hasil pertandingan terbaru hanya di Vidio.</desc>
     <icon src="https://thumbor.prod.vidiocdn.com/FxxtpSYSLfqX8P_dEB8IPIUJMhg=/287x162/filters:strip_icc():quality(70)/vidio-media-production/uploads/livestreaming/schedule/thumbnail/5015502/b06a99.jpg"/>

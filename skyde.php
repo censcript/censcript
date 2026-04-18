@@ -102,36 +102,6 @@ Warning: Undefined array key "et" in /usr/home/ManusiaBiasa/domains/manusiabiasa
 <programme start="20260418215000 +0000" stop="20260418224000 +0000" channel="13th Street HD.skyde">
     <title>Criminal Minds</title>
 </programme>
-<programme start="20260417223500 +0000" stop="20260417235000 +0000" channel="Beate Uhse HD.skyde">
-    <title>Coupling</title>
-</programme>
-<programme start="20260417235000 +0000" stop="20260418011000 +0000" channel="Beate Uhse HD.skyde">
-    <title>Mehr Pep, Chérie</title>
-</programme>
-<programme start="20260418011000 +0000" stop="20260418023500 +0000" channel="Beate Uhse HD.skyde">
-    <title>MY SECRET AFFAIR - EIN SEITENSPRUNG MIT FOLGEN</title>
-</programme>
-<programme start="20260418023500 +0000" stop="20260418034500 +0000" channel="Beate Uhse HD.skyde">
-    <title>A Helping Hand</title>
-</programme>
-<programme start="20260418034500 +0000" stop="20260418181500 +0000" channel="Beate Uhse HD.skyde">
-    <title>Programm von 20.15 Uhr bis 05.45 Uhr</title>
-</programme>
-<programme start="20260418181500 +0000" stop="20260418190000 +0000" channel="Beate Uhse HD.skyde">
-    <title>I Really Love...</title>
-</programme>
-<programme start="20260418190000 +0000" stop="20260418193500 +0000" channel="Beate Uhse HD.skyde">
-    <title>A Burlesque Story</title>
-</programme>
-<programme start="20260418193500 +0000" stop="20260418201000 +0000" channel="Beate Uhse HD.skyde">
-    <title>4-Hand Massage</title>
-</programme>
-<programme start="20260418201000 +0000" stop="20260418211500 +0000" channel="Beate Uhse HD.skyde">
-    <title>Spark</title>
-</programme>
-<programme start="20260418211500 +0000" stop="20260418224500 +0000" channel="Beate Uhse HD.skyde">
-    <title>Mountain Crush - No Limits</title>
-</programme>
 <programme start="20260417220000 +0000" stop="20260417222000 +0000" channel="Cartoon Network.skyde">
     <title>Die Powerpuff Girls</title>
 </programme>
