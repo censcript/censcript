@@ -1231,129 +1231,6 @@
 <programme start="20260419200000 +0000" stop="20260419220000 +0000" channel="Jukebox.skyde">
     <title>LOGOUT</title>
 </programme>
-<programme start="20260418221000 +0000" stop="20260418230000 +0000" channel="Motorvision+.skyde">
-    <title>UK Rally Show 2024</title>
-</programme>
-<programme start="20260418230000 +0000" stop="20260418233000 +0000" channel="Motorvision+.skyde">
-    <title>Infomercial</title>
-</programme>
-<programme start="20260418233000 +0000" stop="20260419000000 +0000" channel="Motorvision+.skyde">
-    <title>Infomercial</title>
-</programme>
-<programme start="20260419000000 +0000" stop="20260419003000 +0000" channel="Motorvision+.skyde">
-    <title>Infomercial</title>
-</programme>
-<programme start="20260419003000 +0000" stop="20260419005500 +0000" channel="Motorvision+.skyde">
-    <title>Infomercial</title>
-</programme>
-<programme start="20260419005500 +0000" stop="20260419012000 +0000" channel="Motorvision+.skyde">
-    <title>Gearing Up 2023</title>
-</programme>
-<programme start="20260419012000 +0000" stop="20260419014500 +0000" channel="Motorvision+.skyde">
-    <title>Super Cars</title>
-</programme>
-<programme start="20260419014500 +0000" stop="20260419021000 +0000" channel="Motorvision+.skyde">
-    <title>Top Speed Classic</title>
-</programme>
-<programme start="20260419021000 +0000" stop="20260419024000 +0000" channel="Motorvision+.skyde">
-    <title>FIM World Motocross Championship 2023</title>
-</programme>
-<programme start="20260419024000 +0000" stop="20260419030500 +0000" channel="Motorvision+.skyde">
-    <title>FastZone 2024</title>
-</programme>
-<programme start="20260419030500 +0000" stop="20260419034000 +0000" channel="Motorvision+.skyde">
-    <title>Icelandic Formula Offroad 2024</title>
-</programme>
-<programme start="20260419034000 +0000" stop="20260419040000 +0000" channel="Motorvision+.skyde">
-    <title>Car History</title>
-</programme>
-<programme start="20260419040000 +0000" stop="20260419042500 +0000" channel="Motorvision+.skyde">
-    <title>Fastzone 2025</title>
-</programme>
-<programme start="20260419042500 +0000" stop="20260419045500 +0000" channel="Motorvision+.skyde">
-    <title>Fastzone 2025</title>
-</programme>
-<programme start="20260419045500 +0000" stop="20260419052000 +0000" channel="Motorvision+.skyde">
-    <title>Fastzone 2025</title>
-</programme>
-<programme start="20260419052000 +0000" stop="20260419055000 +0000" channel="Motorvision+.skyde">
-    <title>Fastzone 2025</title>
-</programme>
-<programme start="20260419055000 +0000" stop="20260419061500 +0000" channel="Motorvision+.skyde">
-    <title>Fastzone 2025</title>
-</programme>
-<programme start="20260419061500 +0000" stop="20260419064500 +0000" channel="Motorvision+.skyde">
-    <title>Fastzone 2025</title>
-</programme>
-<programme start="20260419064500 +0000" stop="20260419071500 +0000" channel="Motorvision+.skyde">
-    <title>Fastzone 2025</title>
-</programme>
-<programme start="20260419071500 +0000" stop="20260419074000 +0000" channel="Motorvision+.skyde">
-    <title>Fastzone 2025</title>
-</programme>
-<programme start="20260419074000 +0000" stop="20260419081000 +0000" channel="Motorvision+.skyde">
-    <title>Fastzone 2025</title>
-</programme>
-<programme start="20260419081000 +0000" stop="20260419083500 +0000" channel="Motorvision+.skyde">
-    <title>Fastzone 2025</title>
-</programme>
-<programme start="20260419083500 +0000" stop="20260419090500 +0000" channel="Motorvision+.skyde">
-    <title>Fastzone 2025</title>
-</programme>
-<programme start="20260419090500 +0000" stop="20260419093000 +0000" channel="Motorvision+.skyde">
-    <title>Fastzone 2025</title>
-</programme>
-<programme start="20260419093000 +0000" stop="20260419100000 +0000" channel="Motorvision+.skyde">
-    <title>Fastzone 2025</title>
-</programme>
-<programme start="20260419100000 +0000" stop="20260419102500 +0000" channel="Motorvision+.skyde">
-    <title>Fastzone 2025</title>
-</programme>
-<programme start="20260419102500 +0000" stop="20260419105500 +0000" channel="Motorvision+.skyde">
-    <title>Fastzone 2025</title>
-</programme>
-<programme start="20260419105500 +0000" stop="20260419112500 +0000" channel="Motorvision+.skyde">
-    <title>Fastzone 2025</title>
-</programme>
-<programme start="20260419112500 +0000" stop="20260419115000 +0000" channel="Motorvision+.skyde">
-    <title>Fastzone 2025</title>
-</programme>
-<programme start="20260419115000 +0000" stop="20260419122000 +0000" channel="Motorvision+.skyde">
-    <title>Fastzone 2025</title>
-</programme>
-<programme start="20260419122000 +0000" stop="20260419125000 +0000" channel="Motorvision+.skyde">
-    <title>Fastzone 2025</title>
-</programme>
-<programme start="20260419125000 +0000" stop="20260419131500 +0000" channel="Motorvision+.skyde">
-    <title>Fastzone 2025</title>
-</programme>
-<programme start="20260419131500 +0000" stop="20260419141000 +0000" channel="Motorvision+.skyde">
-    <title>European Le Mans Series 2025</title>
-</programme>
-<programme start="20260419141000 +0000" stop="20260419150500 +0000" channel="Motorvision+.skyde">
-    <title>European Le Mans Series 2025</title>
-</programme>
-<programme start="20260419150500 +0000" stop="20260419160000 +0000" channel="Motorvision+.skyde">
-    <title>European Le Mans Series 2025</title>
-</programme>
-<programme start="20260419160000 +0000" stop="20260419165500 +0000" channel="Motorvision+.skyde">
-    <title>European Le Mans Series 2025</title>
-</programme>
-<programme start="20260419165500 +0000" stop="20260419175000 +0000" channel="Motorvision+.skyde">
-    <title>European Le Mans Series 2025</title>
-</programme>
-<programme start="20260419175000 +0000" stop="20260419184500 +0000" channel="Motorvision+.skyde">
-    <title>European Le Mans Series 2025</title>
-</programme>
-<programme start="20260419184500 +0000" stop="20260419193500 +0000" channel="Motorvision+.skyde">
-    <title>European Le Mans Series 2025</title>
-</programme>
-<programme start="20260419193500 +0000" stop="20260419212500 +0000" channel="Motorvision+.skyde">
-    <title>IMSA WeatherTech SportsCar Championship 2026</title>
-</programme>
-<programme start="20260419212500 +0000" stop="20260420000000 +0000" channel="Motorvision+.skyde">
-    <title>NTT Indycar Series 2026</title>
-</programme>
 <programme start="20260418222000 +0000" stop="20260418224000 +0000" channel="Nick Jr..skyde">
     <title>Rubble &amp; Crew</title>
 </programme>
@@ -2590,17 +2467,17 @@
 <programme start="20260419120000 +0000" stop="20260419122000 +0000" channel="Sky Sport Austria 3 HD.skyde">
     <title>Es folgt Fußball: Österreich, Admiral Bundesliga</title>
 </programme>
-<programme start="20260419122000 +0000" stop="20260419144500 +0000" channel="Sky Sport Austria 3 HD.skyde">
+<programme start="20260419122000 +0000" stop="20260419151500 +0000" channel="Sky Sport Austria 3 HD.skyde">
     <title>Live Admiral BL: TSV Egger Glas Hartberg - SK Rapid, 27. Runde</title>
 </programme>
 <programme start="20260419084000 +0000" stop="20260419090000 +0000" channel="Sky Sport Austria 4 HD.skyde">
     <title>Es folgt: Live ATP Tour</title>
 </programme>
 <programme start="20260419090000 +0000" stop="20260419113000 +0000" channel="Sky Sport Austria 4 HD.skyde">
-    <title>Live ATP 500: Doppelfinale, BMW Open in München, Doppelfinale</title>
+    <title>Live ATP 500: J. Schnaitter (GER) / M. Wallner (GER) - T. Arribage (FRA) / A. Olivetti (FRA), BMW Open in München, Doppelfinale</title>
 </programme>
-<programme start="20260419113000 +0000" stop="20260419140000 +0000" channel="Sky Sport Austria 4 HD.skyde">
-    <title>Live ATP 500: Finale, BMW Open in München, Finale</title>
+<programme start="20260419113000 +0000" stop="20260419143000 +0000" channel="Sky Sport Austria 4 HD.skyde">
+    <title>Live ATP 500: B. Shelton (USA) - F. Cobolli (ITA), BMW Open in München, Finale</title>
 </programme>
 <programme start="20260419121000 +0000" stop="20260419123000 +0000" channel="Sky Sport Austria 5 HD.skyde">
     <title>Es folgt: Live Premier League</title>
@@ -3197,7 +3074,7 @@
     <title>DFB-Pokal: FC Bayern München - RB Leipzig, Viertelfinale</title>
 </programme>
 <programme start="20260419214000 +0000" stop="20260419220000 +0000" channel="Sky Sport 1 HD.skyde">
-    <title>NBA: Es folgt</title>
+    <title>Es folgt: LIVE NBA</title>
 </programme>
 <programme start="20260419162500 +0000" stop="20260419164500 +0000" channel="Sky Sport 4 HD.skyde">
     <title>Es folgt: Live NBA</title>
@@ -3211,7 +3088,7 @@
 <programme start="20260419174000 +0000" stop="20260419180000 +0000" channel="Sky Sport 5 HD.skyde">
     <title>Golf: Es folgt</title>
 </programme>
-<programme start="20260419180000 +0000" stop="20260420080000 +0000" channel="Sky Sport 5 HD.skyde">
+<programme start="20260419180000 +0000" stop="20260419230000 +0000" channel="Sky Sport 5 HD.skyde">
     <title>Live LIV Golf: Mexiko City, 4. Tag in Naucalpan</title>
 </programme>
 <programme start="20260419104000 +0000" stop="20260419110000 +0000" channel="Sky Sport 6 HD.skyde">
@@ -3229,7 +3106,7 @@
 <programme start="20260419123000 +0000" stop="20260419125000 +0000" channel="Sky Sport 7 HD.skyde">
     <title>Es folgt: Live Premier League</title>
 </programme>
-<programme start="20260419125000 +0000" stop="20260419150000 +0000" channel="Sky Sport 7 HD.skyde">
+<programme start="20260419125000 +0000" stop="20260419153000 +0000" channel="Sky Sport 7 HD.skyde">
     <title>Live PL: Nottingham Forest - FC Burnley, 33. Spieltag</title>
 </programme>
 <programme start="20260418222000 +0000" stop="20260418230500 +0000" channel="SYFY HD.skyde">

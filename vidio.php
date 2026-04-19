@@ -237,6 +237,491 @@
     <desc lang="id">Film televisi yang mengangkat kisah romantisme kehidupan dengan konflik yang menarik. Tayang setiap hari.</desc>
     <icon src="https://thumbor.prod.vidiocdn.com/N99E8BD1OJ5vvymwPBj0c-BU5J4=/287x162/filters:strip_icc():quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/image/204/sctv-5ef966.jpg"/>
   </programme>
+  <programme channel="204" start="20260419210600 +0000" stop="20260419213000 +0000">
+    <title lang="id">Indahnya Kebersamaan</title>
+    <desc lang="id">Ceramah islami penuh makna. Tayang setiap senin, mulai pukul 04.00 WIB</desc>
+    <icon src="https://thumbor.prod.vidiocdn.com/N99E8BD1OJ5vvymwPBj0c-BU5J4=/287x162/filters:strip_icc():quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/image/204/sctv-5ef966.jpg"/>
+  </programme>
+  <programme channel="204" start="20260419213000 +0000" stop="20260419215500 +0000">
+    <title lang="id">Buser</title>
+    <icon src="https://thumbor.prod.vidiocdn.com/hqiU7koXgDL4zkxckArkSQHfwWw=/287x162/filters:strip_icc():quality(70)/vidio-media-production/uploads/tv_program/thumbnail/382356/d78201.jpg"/>
+  </programme>
+  <programme channel="204" start="20260419215500 +0000" stop="20260419230000 +0000">
+    <title lang="id">Liputan 6 Pagi - Live</title>
+    <icon src="https://thumbor.prod.vidiocdn.com/IMYmLs5f9BlQF6eqxxAvaUFAwFY=/287x162/filters:strip_icc():quality(70)/vidio-media-production/uploads/livestreaming/schedule/thumbnail/5020885/635134.jpg"/>
+  </programme>
+  <programme channel="204" start="20260419230000 +0000" stop="20260420000300 +0000">
+    <title lang="id">Hot Shot</title>
+    <icon src="https://thumbor.prod.vidiocdn.com/GYmeH7x3PXYQQVxHKcqc4u2C_4k=/287x162/filters:strip_icc():quality(70)/vidio-media-production/uploads/tv_program/thumbnail/382433/e64ad9.jpg"/>
+  </programme>
+  <programme channel="204" start="20260420000300 +0000" stop="20260420010400 +0000">
+    <title lang="id">Tiba-Tiba Kuis</title>
+    <desc lang="id">Program?kuis reality yang dipandu oleh Baim Wong, menemani pemirsa setia?SCTV?Senin - Jumat pkl. 07.00 WIB.</desc>
+    <icon src="https://thumbor.prod.vidiocdn.com/6kuViIDVM6p0idtisIQxGBwichQ=/287x162/filters:strip_icc():quality(70)/vidio-media-production/uploads/livestreaming/schedule/thumbnail/5020895/0ffd60.jpg"/>
+  </programme>
+  <programme channel="204" start="20260420010400 +0000" stop="20260420025200 +0000">
+    <title lang="id">Ftv Pagi Spesial Miss Frozen Food Ala Ala Ajojing</title>
+    <desc lang="id">Film televisi yang mengangkat kisah romantisme kehidupan dengan konflik yang menarik. Tayang setiap hari.</desc>
+    <icon src="https://thumbor.prod.vidiocdn.com/hqvUMJhez4z2D6b6EC8h-WDK64o=/287x162/filters:strip_icc():quality(70)/vidio-media-production/uploads/livestreaming/schedule/thumbnail/5020900/33f6ff.jpg"/>
+  </programme>
+  <programme channel="204" start="20260420025200 +0000" stop="20260420045100 +0000">
+    <title lang="id">Ftv Pagi Pacarable Sekali Kamu Mba Ob</title>
+    <desc lang="id">Film televisi yang mengangkat kisah romantisme kehidupan dengan konflik yang menarik. Tayang setiap hari.</desc>
+    <icon src="https://thumbor.prod.vidiocdn.com/mTWVTsrnc_efXFr73J-nVdfihQA=/287x162/filters:strip_icc():quality(70)/vidio-media-production/uploads/livestreaming/schedule/thumbnail/5020901/5c146e.jpg"/>
+  </programme>
+  <programme channel="204" start="20260420045100 +0000" stop="20260420052200 +0000">
+    <title lang="id">Liputan 6 Siang - Live</title>
+    <icon src="https://thumbor.prod.vidiocdn.com/CPZ1D1SBBfly-MJrDqhd-TqiwJg=/287x162/filters:strip_icc():quality(70)/vidio-media-production/uploads/livestreaming/schedule/thumbnail/5020902/fe9a3e.jpg"/>
+  </programme>
+  <programme channel="204" start="20260420052200 +0000" stop="20260420065600 +0000">
+    <title lang="id">Ftv Siang Emang Boleh Gebetan Segemes Ini</title>
+    <desc lang="id">Film televisi yang mengangkat kisah romantisme kehidupan dengan konflik yang menarik. Tayang setiap hari.</desc>
+    <icon src="https://thumbor.prod.vidiocdn.com/4yvTHkFLiRKSMqG6x5MxSTIAUeM=/287x162/filters:strip_icc():quality(70)/vidio-media-production/uploads/livestreaming/schedule/thumbnail/5020909/416023.jpg"/>
+  </programme>
+  <programme channel="204" start="20260420065600 +0000" stop="20260420082800 +0000">
+    <title lang="id">Ftv Siang Cinta Dewo Disambar Gledek</title>
+    <desc lang="id">Film televisi yang mengangkat kisah romantisme kehidupan dengan konflik yang menarik. Tayang setiap hari.</desc>
+    <icon src="https://thumbor.prod.vidiocdn.com/InamNvj_tQKgguGT3fEITOM5iro=/287x162/filters:strip_icc():quality(70)/vidio-media-production/uploads/livestreaming/schedule/thumbnail/5020910/313f2e.jpg"/>
+  </programme>
+  <programme channel="204" start="20260420082800 +0000" stop="20260420100000 +0000">
+    <title lang="id">Ftv Sore Terjaring Cinta Seorang Nelayan</title>
+    <desc lang="id">Film televisi yang mengangkat kisah romantisme kehidupan dengan konflik yang menarik. Tayang setiap hari.</desc>
+    <icon src="https://thumbor.prod.vidiocdn.com/WXBcDMRC7yBo5gBTMP0Kqv7wWr8=/287x162/filters:strip_icc():quality(70)/vidio-media-production/uploads/livestreaming/schedule/thumbnail/5020911/31d320.jpg"/>
+  </programme>
+  <programme channel="204" start="20260420100000 +0000" stop="20260420112000 +0000">
+    <title lang="id">Asmara Gen Z</title>
+    <desc lang="id">Sinetron yang bercerita tentang persahabatan, cinta dan serunya keseharian para Gen Z. Dibintangi oleh AQEELA CALISTA, FATTAH SYACH, ARYA MOHAN, NICOLE ROSSI, HARRY VAUGHAN dan RAISA MARIE. Tayang setiap hari pukul 17.00 WIB.</desc>
+    <icon src="https://thumbor.prod.vidiocdn.com/bBOx1-eAq0GvefIFPV527rLi1PI=/287x162/filters:strip_icc():quality(70)/vidio-media-production/uploads/tv_program/thumbnail/387307/cd8554.jpg"/>
+  </programme>
+  <programme channel="204" start="20260420112000 +0000" stop="20260420125000 +0000">
+    <title lang="id">Istiqomah Cinta</title>
+    <desc lang="id">Sinetron romansa tentang kisah Khansa (Yasmin Napper), perempuan lembut yang dipenjara 5 tahun karena fitnah Monika (Anjani Dina) untuk menutupi kecelakaan yang menabrak Aryani. Setelah bebas, Khansa berjuang mempertahankan iman dan kejujurannya di tengah teror, pengkhianatan, dan konflik cinta dengan Fathan (Arbani Yasiz) dan Emran (Cakrawala Airawan). Tayang setiap hari pukul 18.25 WIB</desc>
+    <icon src="https://thumbor.prod.vidiocdn.com/f7F2Czb9fr3Ecu9aQRkCfCQl9yM=/287x162/filters:strip_icc():quality(70)/vidio-media-production/uploads/livestreaming/schedule/thumbnail/5020919/550132.jpg"/>
+  </programme>
+  <programme channel="204" start="20260420125000 +0000" stop="20260420140000 +0000">
+    <title lang="id">Beri Cinta Waktu</title>
+    <desc lang="id">Sinetron romansa tentang perjalanan Trian (Yesaya Abraham) mencari keadilan dan mengungkap kejahatan pasca Adila, istrinya meninggal dunia, dengan bantuan Rama (Rayn Wijaya) dan Asmara (Angela Gilsha). Tayang setiap hari pukul 20.10 WIB</desc>
+    <icon src="https://thumbor.prod.vidiocdn.com/4RE6mOnkHhUljZBbHdCemnBJmwc=/287x162/filters:strip_icc():quality(70)/vidio-media-production/uploads/livestreaming/schedule/thumbnail/5020926/73abab.jpg"/>
+  </programme>
+  <programme channel="204" start="20260420140000 +0000" stop="20260420170300 +0000">
+    <title lang="id">The Icon Indonesia The Duel : Top 20 Grup A - Live</title>
+    <desc lang="id">Talent search bernyanyi yang tidak hanya mencari suara terbaik, tetapi juga sosok dengan karakter kuat yang layak menjadi ikon pop baru Tanah Air. Tayang setiap Senin dan Selasa pukul 21.00 WIB di SCTV.</desc>
+    <icon src="https://thumbor.prod.vidiocdn.com/N99E8BD1OJ5vvymwPBj0c-BU5J4=/287x162/filters:strip_icc():quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/image/204/sctv-5ef966.jpg"/>
+  </programme>
+  <programme channel="204" start="20260420140000 +0000" stop="20260420170300 +0000">
+    <title lang="id">The Icon Indonesia The Duel : Top 20 Grup A - Live</title>
+    <desc lang="id">Talent search bernyanyi yang tidak hanya mencari suara terbaik, tetapi juga sosok dengan karakter kuat yang layak menjadi ikon pop baru Tanah Air. Tayang setiap Senin dan Selasa pukul 21.00 WIB di SCTV.</desc>
+    <icon src="https://thumbor.prod.vidiocdn.com/N99E8BD1OJ5vvymwPBj0c-BU5J4=/287x162/filters:strip_icc():quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/image/204/sctv-5ef966.jpg"/>
+  </programme>
+  <programme channel="204" start="20260420170300 +0000" stop="20260420182700 +0000">
+    <title lang="id">Ftv Utama Romantika Supir Cantik</title>
+    <desc lang="id">Film televisi yang mengangkat kisah romantisme kehidupan dengan konflik yang menarik. Tayang setiap hari.</desc>
+    <icon src="https://thumbor.prod.vidiocdn.com/N99E8BD1OJ5vvymwPBj0c-BU5J4=/287x162/filters:strip_icc():quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/image/204/sctv-5ef966.jpg"/>
+  </programme>
+  <programme channel="204" start="20260420182700 +0000" stop="20260420185700 +0000">
+    <title lang="id">Solusi</title>
+    <icon src="https://thumbor.prod.vidiocdn.com/N99E8BD1OJ5vvymwPBj0c-BU5J4=/287x162/filters:strip_icc():quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/image/204/sctv-5ef966.jpg"/>
+  </programme>
+  <programme channel="204" start="20260420185700 +0000" stop="20260420200600 +0000">
+    <title lang="id">Sinema Malam The Wonder Inem</title>
+    <desc lang="id">Film televisi yang mengangkat kisah romantisme kehidupan dengan konflik yang menarik. Tayang setiap hari.</desc>
+    <icon src="https://thumbor.prod.vidiocdn.com/N99E8BD1OJ5vvymwPBj0c-BU5J4=/287x162/filters:strip_icc():quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/image/204/sctv-5ef966.jpg"/>
+  </programme>
+  <programme channel="204" start="20260420200600 +0000" stop="20260420210600 +0000">
+    <title lang="id">Sinema Dini Hari Bukan Roman Picisan Mae</title>
+    <desc lang="id">Film televisi yang mengangkat kisah romantisme kehidupan dengan konflik yang menarik. Tayang setiap hari.</desc>
+    <icon src="https://thumbor.prod.vidiocdn.com/N99E8BD1OJ5vvymwPBj0c-BU5J4=/287x162/filters:strip_icc():quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/image/204/sctv-5ef966.jpg"/>
+  </programme>
+  <programme channel="204" start="20260420210600 +0000" stop="20260420213000 +0000">
+    <title lang="id">Barakallah</title>
+    <desc lang="id">Ceramah islami penuh makna. Tayang setiap selasa - minggu, mulai pukul 04.00 WIB</desc>
+    <icon src="https://thumbor.prod.vidiocdn.com/N99E8BD1OJ5vvymwPBj0c-BU5J4=/287x162/filters:strip_icc():quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/image/204/sctv-5ef966.jpg"/>
+  </programme>
+  <programme channel="204" start="20260420213000 +0000" stop="20260420220000 +0000">
+    <title lang="id">Buser</title>
+    <icon src="https://thumbor.prod.vidiocdn.com/hqiU7koXgDL4zkxckArkSQHfwWw=/287x162/filters:strip_icc():quality(70)/vidio-media-production/uploads/tv_program/thumbnail/382356/d78201.jpg"/>
+  </programme>
+  <programme channel="204" start="20260420220000 +0000" stop="20260420230000 +0000">
+    <title lang="id">Liputan 6 Pagi - Live</title>
+    <icon src="https://thumbor.prod.vidiocdn.com/N99E8BD1OJ5vvymwPBj0c-BU5J4=/287x162/filters:strip_icc():quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/image/204/sctv-5ef966.jpg"/>
+  </programme>
+  <programme channel="204" start="20260420230000 +0000" stop="20260421000000 +0000">
+    <title lang="id">Hot Shot</title>
+    <icon src="https://thumbor.prod.vidiocdn.com/GYmeH7x3PXYQQVxHKcqc4u2C_4k=/287x162/filters:strip_icc():quality(70)/vidio-media-production/uploads/tv_program/thumbnail/382433/e64ad9.jpg"/>
+  </programme>
+  <programme channel="204" start="20260421000000 +0000" stop="20260421010000 +0000">
+    <title lang="id">Tiba-Tiba Kuis</title>
+    <desc lang="id">Program?kuis reality yang dipandu oleh Baim Wong, menemani pemirsa setia?SCTV?Senin - Jumat pkl. 07.00 WIB.</desc>
+    <icon src="https://thumbor.prod.vidiocdn.com/N99E8BD1OJ5vvymwPBj0c-BU5J4=/287x162/filters:strip_icc():quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/image/204/sctv-5ef966.jpg"/>
+  </programme>
+  <programme channel="204" start="20260421010000 +0000" stop="20260421030000 +0000">
+    <title lang="id">Ftv Pagi Spesial My Love My Oppa Batagor Haseyo</title>
+    <desc lang="id">Film televisi yang mengangkat kisah romantisme kehidupan dengan konflik yang menarik. Tayang setiap hari.</desc>
+    <icon src="https://thumbor.prod.vidiocdn.com/N99E8BD1OJ5vvymwPBj0c-BU5J4=/287x162/filters:strip_icc():quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/image/204/sctv-5ef966.jpg"/>
+  </programme>
+  <programme channel="204" start="20260421030000 +0000" stop="20260421050000 +0000">
+    <title lang="id">Ftv Pagi Mak Combalng Cantiknya Terlalu Ke Selatan</title>
+    <desc lang="id">Film televisi yang mengangkat kisah romantisme kehidupan dengan konflik yang menarik. Tayang setiap hari.</desc>
+    <icon src="https://thumbor.prod.vidiocdn.com/N99E8BD1OJ5vvymwPBj0c-BU5J4=/287x162/filters:strip_icc():quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/image/204/sctv-5ef966.jpg"/>
+  </programme>
+  <programme channel="204" start="20260421050000 +0000" stop="20260421053000 +0000">
+    <title lang="id">Liputan 6 Siang - Live</title>
+    <icon src="https://thumbor.prod.vidiocdn.com/N99E8BD1OJ5vvymwPBj0c-BU5J4=/287x162/filters:strip_icc():quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/image/204/sctv-5ef966.jpg"/>
+  </programme>
+  <programme channel="204" start="20260421053000 +0000" stop="20260421070000 +0000">
+    <title lang="id">Ftv Siang Gadis Manis Es Dung Dung</title>
+    <desc lang="id">Film televisi yang mengangkat kisah romantisme kehidupan dengan konflik yang menarik. Tayang setiap hari.</desc>
+    <icon src="https://thumbor.prod.vidiocdn.com/N99E8BD1OJ5vvymwPBj0c-BU5J4=/287x162/filters:strip_icc():quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/image/204/sctv-5ef966.jpg"/>
+  </programme>
+  <programme channel="204" start="20260421070000 +0000" stop="20260421084500 +0000">
+    <title lang="id">Ftv Siang Resep Cintaku Dighosting Tanpa Syarat</title>
+    <desc lang="id">Film televisi yang mengangkat kisah romantisme kehidupan dengan konflik yang menarik. Tayang setiap hari.</desc>
+    <icon src="https://thumbor.prod.vidiocdn.com/N99E8BD1OJ5vvymwPBj0c-BU5J4=/287x162/filters:strip_icc():quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/image/204/sctv-5ef966.jpg"/>
+  </programme>
+  <programme channel="204" start="20260421084500 +0000" stop="20260421100000 +0000">
+    <title lang="id">Ftv Sore Vaksin Kebal Rayuan Mantan</title>
+    <desc lang="id">Film televisi yang mengangkat kisah romantisme kehidupan dengan konflik yang menarik. Tayang setiap hari.</desc>
+    <icon src="https://thumbor.prod.vidiocdn.com/N99E8BD1OJ5vvymwPBj0c-BU5J4=/287x162/filters:strip_icc():quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/image/204/sctv-5ef966.jpg"/>
+  </programme>
+  <programme channel="204" start="20260421100000 +0000" stop="20260421111500 +0000">
+    <title lang="id">Asmara Gen Z</title>
+    <desc lang="id">Sinetron yang bercerita tentang persahabatan, cinta dan serunya keseharian para Gen Z. Dibintangi oleh AQEELA CALISTA, FATTAH SYACH, ARYA MOHAN, NICOLE ROSSI, HARRY VAUGHAN dan RAISA MARIE. Tayang setiap hari pukul 17.00 WIB.</desc>
+    <icon src="https://thumbor.prod.vidiocdn.com/bBOx1-eAq0GvefIFPV527rLi1PI=/287x162/filters:strip_icc():quality(70)/vidio-media-production/uploads/tv_program/thumbnail/387307/cd8554.jpg"/>
+  </programme>
+  <programme channel="204" start="20260421111500 +0000" stop="20260421124500 +0000">
+    <title lang="id">Istiqomah Cinta</title>
+    <desc lang="id">Sinetron romansa tentang kisah Khansa (Yasmin Napper), perempuan lembut yang dipenjara 5 tahun karena fitnah Monika (Anjani Dina) untuk menutupi kecelakaan yang menabrak Aryani. Setelah bebas, Khansa berjuang mempertahankan iman dan kejujurannya di tengah teror, pengkhianatan, dan konflik cinta dengan Fathan (Arbani Yasiz) dan Emran (Cakrawala Airawan). Tayang setiap hari pukul 18.25 WIB</desc>
+    <icon src="https://thumbor.prod.vidiocdn.com/qhZpHEqYoWbfBrJa0aLRcUb0G7I=/287x162/filters:strip_icc():quality(70)/vidio-media-production/uploads/tv_program/thumbnail/401147/50494f.jpg"/>
+  </programme>
+  <programme channel="204" start="20260421124500 +0000" stop="20260421140000 +0000">
+    <title lang="id">Beri Cinta Waktu</title>
+    <desc lang="id">Sinetron romansa tentang perjalanan Trian (Yesaya Abraham) mencari keadilan dan mengungkap kejahatan pasca Adila, istrinya meninggal dunia, dengan bantuan Rama (Rayn Wijaya) dan Asmara (Angela Gilsha). Tayang setiap hari pukul 20.10 WIB</desc>
+    <icon src="https://thumbor.prod.vidiocdn.com/ho2PtWvpg-rvR-RgqS1-Xs_7xWA=/287x162/filters:strip_icc():quality(70)/vidio-media-production/uploads/tv_program/thumbnail/393465/43cc4c.jpg"/>
+  </programme>
+  <programme channel="204" start="20260421170000 +0000" stop="20260421184500 +0000">
+    <title lang="id">Ftv Utama Supir Ganteng Jago Ngibul</title>
+    <desc lang="id">Film televisi yang mengangkat kisah romantisme kehidupan dengan konflik yang menarik. Tayang setiap hari.</desc>
+    <icon src="https://thumbor.prod.vidiocdn.com/N99E8BD1OJ5vvymwPBj0c-BU5J4=/287x162/filters:strip_icc():quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/image/204/sctv-5ef966.jpg"/>
+  </programme>
+  <programme channel="204" start="20260421184500 +0000" stop="20260421200000 +0000">
+    <title lang="id">Sinema Malam Putri Rempong Sejagad</title>
+    <desc lang="id">Film televisi yang mengangkat kisah romantisme kehidupan dengan konflik yang menarik. Tayang setiap hari.</desc>
+    <icon src="https://thumbor.prod.vidiocdn.com/N99E8BD1OJ5vvymwPBj0c-BU5J4=/287x162/filters:strip_icc():quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/image/204/sctv-5ef966.jpg"/>
+  </programme>
+  <programme channel="204" start="20260421200000 +0000" stop="20260421210000 +0000">
+    <title lang="id">Sinema Dini Hari Calo Cantik Idaman Hati</title>
+    <desc lang="id">Film televisi yang mengangkat kisah romantisme kehidupan dengan konflik yang menarik. Tayang setiap hari.</desc>
+    <icon src="https://thumbor.prod.vidiocdn.com/N99E8BD1OJ5vvymwPBj0c-BU5J4=/287x162/filters:strip_icc():quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/image/204/sctv-5ef966.jpg"/>
+  </programme>
+  <programme channel="204" start="20260422010000 +0000" stop="20260422030000 +0000">
+    <title lang="id">Ftv Pagi Spesial Rebut Pacar Sahabat? Asiaaap!</title>
+    <desc lang="id">Film televisi yang mengangkat kisah romantisme kehidupan dengan konflik yang menarik. Tayang setiap hari.</desc>
+    <icon src="https://thumbor.prod.vidiocdn.com/N99E8BD1OJ5vvymwPBj0c-BU5J4=/287x162/filters:strip_icc():quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/image/204/sctv-5ef966.jpg"/>
+  </programme>
+  <programme channel="204" start="20260422030000 +0000" stop="20260422050000 +0000">
+    <title lang="id">Ftv Pagi Hampir Kena Ulti Ayang</title>
+    <desc lang="id">Film televisi yang mengangkat kisah romantisme kehidupan dengan konflik yang menarik. Tayang setiap hari.</desc>
+    <icon src="https://thumbor.prod.vidiocdn.com/N99E8BD1OJ5vvymwPBj0c-BU5J4=/287x162/filters:strip_icc():quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/image/204/sctv-5ef966.jpg"/>
+  </programme>
+  <programme channel="204" start="20260422053000 +0000" stop="20260422070000 +0000">
+    <title lang="id">Ftv Siang Runaway Demi Cinta</title>
+    <desc lang="id">Film televisi yang mengangkat kisah romantisme kehidupan dengan konflik yang menarik. Tayang setiap hari.</desc>
+    <icon src="https://thumbor.prod.vidiocdn.com/N99E8BD1OJ5vvymwPBj0c-BU5J4=/287x162/filters:strip_icc():quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/image/204/sctv-5ef966.jpg"/>
+  </programme>
+  <programme channel="204" start="20260422070000 +0000" stop="20260422084500 +0000">
+    <title lang="id">Ftv Siang Wanted: Abang Duda Sempurna</title>
+    <desc lang="id">Film televisi yang mengangkat kisah romantisme kehidupan dengan konflik yang menarik. Tayang setiap hari.</desc>
+    <icon src="https://thumbor.prod.vidiocdn.com/N99E8BD1OJ5vvymwPBj0c-BU5J4=/287x162/filters:strip_icc():quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/image/204/sctv-5ef966.jpg"/>
+  </programme>
+  <programme channel="204" start="20260422084500 +0000" stop="20260422100000 +0000">
+    <title lang="id">Ftv Sore I Love You 1 Miliar Dibayar Tunai</title>
+    <desc lang="id">Film televisi yang mengangkat kisah romantisme kehidupan dengan konflik yang menarik. Tayang setiap hari.</desc>
+    <icon src="https://thumbor.prod.vidiocdn.com/N99E8BD1OJ5vvymwPBj0c-BU5J4=/287x162/filters:strip_icc():quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/image/204/sctv-5ef966.jpg"/>
+  </programme>
+  <programme channel="204" start="20260422143000 +0000" stop="20260422160000 +0000">
+    <title lang="id">Jejak Duka Diandra</title>
+    <desc lang="id">Kisah cinta Diandra (Michelle Ziudith) dan Dimitri (Rio Dewanto) yang semula indah seketika berubah drastis setelah Yunita (Baiti Syaghaf), saudara tiri Diandra mengaku mencintai Dimitri. Dimitri terjebak dalam situasi sulit akibat ulah sang adik, Jupiter (Bizael) yang menuduh Dimitri melecehkan Yunita. Hubungan Dimitri dengan Diandra pun semakin merenggang. Tuduhan lainnya juga harus diterima Dimitri sebagai penyebab insiden kecelakaan seorang wanita. Posisi Dimitri semakin terpojok setelah Diandra yang diminta sebagai saksi justru tidak berpihak kepadanya hingga Dimitri mendapat sanksi mendekam di balik jeruji besi selama lima tahun. Lima tahun berlalu, Dimitri hidup bebas dan melanjutkan usaha sang ayah. Ia pun membuka kisah cinta baru dengan Melissa (Tasya Panggabean). Takdir pun berkata lain, pertemuan Dimitri dan Diandra kembali terjadi. Tayang setiap hari pukul 21.30 WIB</desc>
+    <icon src="https://thumbor.prod.vidiocdn.com/oMFhUagHdo4551UBuIvUsG9_qZA=/287x162/filters:strip_icc():quality(70)/vidio-media-production/uploads/tv_program/thumbnail/399305/1d17bf.jpg"/>
+  </programme>
+  <programme channel="204" start="20260422160000 +0000" stop="20260422173000 +0000">
+    <title lang="id">Ftv Primetime Preman Sadis Jadi Romantis</title>
+    <desc lang="id">Film televisi yang mengangkat kisah romantisme kehidupan dengan konflik yang menarik. Tayang setiap hari.</desc>
+    <icon src="https://thumbor.prod.vidiocdn.com/N99E8BD1OJ5vvymwPBj0c-BU5J4=/287x162/filters:strip_icc():quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/image/204/sctv-5ef966.jpg"/>
+  </programme>
+  <programme channel="204" start="20260422160000 +0000" stop="20260422173000 +0000">
+    <title lang="id">Ftv Primetime Preman Sadis Jadi Romantis</title>
+    <desc lang="id">Film televisi yang mengangkat kisah romantisme kehidupan dengan konflik yang menarik. Tayang setiap hari.</desc>
+    <icon src="https://thumbor.prod.vidiocdn.com/N99E8BD1OJ5vvymwPBj0c-BU5J4=/287x162/filters:strip_icc():quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/image/204/sctv-5ef966.jpg"/>
+  </programme>
+  <programme channel="204" start="20260422173000 +0000" stop="20260422184500 +0000">
+    <title lang="id">Ftv Utama Cantik Cantik Supir Omprengan</title>
+    <desc lang="id">Film televisi yang mengangkat kisah romantisme kehidupan dengan konflik yang menarik. Tayang setiap hari.</desc>
+    <icon src="https://thumbor.prod.vidiocdn.com/N99E8BD1OJ5vvymwPBj0c-BU5J4=/287x162/filters:strip_icc():quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/image/204/sctv-5ef966.jpg"/>
+  </programme>
+  <programme channel="204" start="20260422184500 +0000" stop="20260422200000 +0000">
+    <title lang="id">Sinema Malam Cantik Cantik Dukun Beranak</title>
+    <desc lang="id">Film televisi yang mengangkat kisah romantisme kehidupan dengan konflik yang menarik. Tayang setiap hari.</desc>
+    <icon src="https://thumbor.prod.vidiocdn.com/N99E8BD1OJ5vvymwPBj0c-BU5J4=/287x162/filters:strip_icc():quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/image/204/sctv-5ef966.jpg"/>
+  </programme>
+  <programme channel="204" start="20260422200000 +0000" stop="20260422210000 +0000">
+    <title lang="id">Sinema Dini Hari Miss Sepatu Roda</title>
+    <desc lang="id">Film televisi yang mengangkat kisah romantisme kehidupan dengan konflik yang menarik. Tayang setiap hari.</desc>
+    <icon src="https://thumbor.prod.vidiocdn.com/N99E8BD1OJ5vvymwPBj0c-BU5J4=/287x162/filters:strip_icc():quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/image/204/sctv-5ef966.jpg"/>
+  </programme>
+  <programme channel="204" start="20260422210000 +0000" stop="20260422213000 +0000">
+    <title lang="id">Barakallah</title>
+    <desc lang="id">Ceramah islami penuh makna. Tayang setiap selasa - minggu, mulai pukul 04.00 WIB</desc>
+    <icon src="https://thumbor.prod.vidiocdn.com/N99E8BD1OJ5vvymwPBj0c-BU5J4=/287x162/filters:strip_icc():quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/image/204/sctv-5ef966.jpg"/>
+  </programme>
+  <programme channel="204" start="20260422213000 +0000" stop="20260422220000 +0000">
+    <title lang="id">Buser</title>
+    <icon src="https://thumbor.prod.vidiocdn.com/hqiU7koXgDL4zkxckArkSQHfwWw=/287x162/filters:strip_icc():quality(70)/vidio-media-production/uploads/tv_program/thumbnail/382356/d78201.jpg"/>
+  </programme>
+  <programme channel="204" start="20260422220000 +0000" stop="20260422230000 +0000">
+    <title lang="id">Liputan 6 Pagi - Live</title>
+    <icon src="https://thumbor.prod.vidiocdn.com/N99E8BD1OJ5vvymwPBj0c-BU5J4=/287x162/filters:strip_icc():quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/image/204/sctv-5ef966.jpg"/>
+  </programme>
+  <programme channel="204" start="20260422230000 +0000" stop="20260423000000 +0000">
+    <title lang="id">Halo Selebriti</title>
+    <icon src="https://thumbor.prod.vidiocdn.com/N99E8BD1OJ5vvymwPBj0c-BU5J4=/287x162/filters:strip_icc():quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/image/204/sctv-5ef966.jpg"/>
+  </programme>
+  <programme channel="204" start="20260423000000 +0000" stop="20260423010000 +0000">
+    <title lang="id">Tiba-Tiba Kuis</title>
+    <desc lang="id">Program?kuis reality yang dipandu oleh Baim Wong, menemani pemirsa setia?SCTV?Senin - Jumat pkl. 07.00 WIB.</desc>
+    <icon src="https://thumbor.prod.vidiocdn.com/N99E8BD1OJ5vvymwPBj0c-BU5J4=/287x162/filters:strip_icc():quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/image/204/sctv-5ef966.jpg"/>
+  </programme>
+  <programme channel="204" start="20260423010000 +0000" stop="20260423030000 +0000">
+    <title lang="id">Ftv Pagi Spesial</title>
+    <desc lang="id">Film televisi yang mengangkat kisah romantisme kehidupan dengan konflik yang menarik. Tayang setiap hari.</desc>
+    <icon src="https://thumbor.prod.vidiocdn.com/N99E8BD1OJ5vvymwPBj0c-BU5J4=/287x162/filters:strip_icc():quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/image/204/sctv-5ef966.jpg"/>
+  </programme>
+  <programme channel="204" start="20260423030000 +0000" stop="20260423050000 +0000">
+    <title lang="id">Ftv Pagi</title>
+    <desc lang="id">Film televisi yang mengangkat kisah romantisme kehidupan dengan konflik yang menarik. Tayang setiap hari.</desc>
+    <icon src="https://thumbor.prod.vidiocdn.com/N99E8BD1OJ5vvymwPBj0c-BU5J4=/287x162/filters:strip_icc():quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/image/204/sctv-5ef966.jpg"/>
+  </programme>
+  <programme channel="204" start="20260423050000 +0000" stop="20260423053000 +0000">
+    <title lang="id">Liputan 6 Siang - Live</title>
+    <icon src="https://thumbor.prod.vidiocdn.com/N99E8BD1OJ5vvymwPBj0c-BU5J4=/287x162/filters:strip_icc():quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/image/204/sctv-5ef966.jpg"/>
+  </programme>
+  <programme channel="204" start="20260423053000 +0000" stop="20260423070000 +0000">
+    <title lang="id">Ftv Siang</title>
+    <desc lang="id">Film televisi yang mengangkat kisah romantisme kehidupan dengan konflik yang menarik. Tayang setiap hari.</desc>
+    <icon src="https://thumbor.prod.vidiocdn.com/N99E8BD1OJ5vvymwPBj0c-BU5J4=/287x162/filters:strip_icc():quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/image/204/sctv-5ef966.jpg"/>
+  </programme>
+  <programme channel="204" start="20260423070000 +0000" stop="20260423084500 +0000">
+    <title lang="id">Ftv Siang</title>
+    <desc lang="id">Film televisi yang mengangkat kisah romantisme kehidupan dengan konflik yang menarik. Tayang setiap hari.</desc>
+    <icon src="https://thumbor.prod.vidiocdn.com/N99E8BD1OJ5vvymwPBj0c-BU5J4=/287x162/filters:strip_icc():quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/image/204/sctv-5ef966.jpg"/>
+  </programme>
+  <programme channel="204" start="20260423084500 +0000" stop="20260423100000 +0000">
+    <title lang="id">Ftv Sore</title>
+    <desc lang="id">Film televisi yang mengangkat kisah romantisme kehidupan dengan konflik yang menarik. Tayang setiap hari.</desc>
+    <icon src="https://thumbor.prod.vidiocdn.com/N99E8BD1OJ5vvymwPBj0c-BU5J4=/287x162/filters:strip_icc():quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/image/204/sctv-5ef966.jpg"/>
+  </programme>
+  <programme channel="204" start="20260423100000 +0000" stop="20260423111500 +0000">
+    <title lang="id">Asmara Gen Z</title>
+    <desc lang="id">Sinetron yang bercerita tentang persahabatan, cinta dan serunya keseharian para Gen Z. Dibintangi oleh AQEELA CALISTA, FATTAH SYACH, ARYA MOHAN, NICOLE ROSSI, HARRY VAUGHAN dan RAISA MARIE. Tayang setiap hari pukul 17.00 WIB.</desc>
+    <icon src="https://thumbor.prod.vidiocdn.com/bBOx1-eAq0GvefIFPV527rLi1PI=/287x162/filters:strip_icc():quality(70)/vidio-media-production/uploads/tv_program/thumbnail/387307/cd8554.jpg"/>
+  </programme>
+  <programme channel="204" start="20260423111500 +0000" stop="20260423130000 +0000">
+    <title lang="id">Istiqomah Cinta</title>
+    <desc lang="id">Sinetron romansa tentang kisah Khansa (Yasmin Napper), perempuan lembut yang dipenjara 5 tahun karena fitnah Monika (Anjani Dina) untuk menutupi kecelakaan yang menabrak Aryani. Setelah bebas, Khansa berjuang mempertahankan iman dan kejujurannya di tengah teror, pengkhianatan, dan konflik cinta dengan Fathan (Arbani Yasiz) dan Emran (Cakrawala Airawan). Tayang setiap hari pukul 18.25 WIB</desc>
+    <icon src="https://thumbor.prod.vidiocdn.com/qhZpHEqYoWbfBrJa0aLRcUb0G7I=/287x162/filters:strip_icc():quality(70)/vidio-media-production/uploads/tv_program/thumbnail/401147/50494f.jpg"/>
+  </programme>
+  <programme channel="204" start="20260423130000 +0000" stop="20260423143000 +0000">
+    <title lang="id">Beri Cinta Waktu 30</title>
+    <desc lang="id">Sinetron romansa tentang perjalanan Trian (Yesaya Abraham) mencari keadilan dan mengungkap kejahatan pasca Adila, istrinya meninggal dunia, dengan bantuan Rama (Rayn Wijaya) dan Asmara (Angela Gilsha). Tayang setiap hari pukul 20.10 WIB</desc>
+    <icon src="https://thumbor.prod.vidiocdn.com/N99E8BD1OJ5vvymwPBj0c-BU5J4=/287x162/filters:strip_icc():quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/image/204/sctv-5ef966.jpg"/>
+  </programme>
+  <programme channel="204" start="20260423143000 +0000" stop="20260423160000 +0000">
+    <title lang="id">Jejak Duka Diandra</title>
+    <desc lang="id">Kisah cinta Diandra (Michelle Ziudith) dan Dimitri (Rio Dewanto) yang semula indah seketika berubah drastis setelah Yunita (Baiti Syaghaf), saudara tiri Diandra mengaku mencintai Dimitri. Dimitri terjebak dalam situasi sulit akibat ulah sang adik, Jupiter (Bizael) yang menuduh Dimitri melecehkan Yunita. Hubungan Dimitri dengan Diandra pun semakin merenggang. Tuduhan lainnya juga harus diterima Dimitri sebagai penyebab insiden kecelakaan seorang wanita. Posisi Dimitri semakin terpojok setelah Diandra yang diminta sebagai saksi justru tidak berpihak kepadanya hingga Dimitri mendapat sanksi mendekam di balik jeruji besi selama lima tahun. Lima tahun berlalu, Dimitri hidup bebas dan melanjutkan usaha sang ayah. Ia pun membuka kisah cinta baru dengan Melissa (Tasya Panggabean). Takdir pun berkata lain, pertemuan Dimitri dan Diandra kembali terjadi. Tayang setiap hari pukul 21.30 WIB</desc>
+    <icon src="https://thumbor.prod.vidiocdn.com/oMFhUagHdo4551UBuIvUsG9_qZA=/287x162/filters:strip_icc():quality(70)/vidio-media-production/uploads/tv_program/thumbnail/399305/1d17bf.jpg"/>
+  </programme>
+  <programme channel="204" start="20260423160000 +0000" stop="20260423180000 +0000">
+    <title lang="id">Film Layar Lebar "Dilan 1990"</title>
+    <desc lang="id">Milea bertemu dengan Dilan di sebuah SMA di Bandung pada tahun 1990. Perkenalan yang tidak biasa membawa Milea mengenal keunikan Dilan yang cerdas, baik hati, dan romantis di matanya.</desc>
+    <icon src="https://thumbor.prod.vidiocdn.com/N99E8BD1OJ5vvymwPBj0c-BU5J4=/287x162/filters:strip_icc():quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/image/204/sctv-5ef966.jpg"/>
+  </programme>
+  <programme channel="204" start="20260423160000 +0000" stop="20260423180000 +0000">
+    <title lang="id">Film Layar Lebar "Dilan 1990"</title>
+    <desc lang="id">Milea bertemu dengan Dilan di sebuah SMA di Bandung pada tahun 1990. Perkenalan yang tidak biasa membawa Milea mengenal keunikan Dilan yang cerdas, baik hati, dan romantis di matanya.</desc>
+    <icon src="https://thumbor.prod.vidiocdn.com/N99E8BD1OJ5vvymwPBj0c-BU5J4=/287x162/filters:strip_icc():quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/image/204/sctv-5ef966.jpg"/>
+  </programme>
+  <programme channel="204" start="20260423180000 +0000" stop="20260423190000 +0000">
+    <title lang="id">Ftv Utama</title>
+    <desc lang="id">Film televisi yang mengangkat kisah romantisme kehidupan dengan konflik yang menarik. Tayang setiap hari.</desc>
+    <icon src="https://thumbor.prod.vidiocdn.com/N99E8BD1OJ5vvymwPBj0c-BU5J4=/287x162/filters:strip_icc():quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/image/204/sctv-5ef966.jpg"/>
+  </programme>
+  <programme channel="204" start="20260423190000 +0000" stop="20260423200000 +0000">
+    <title lang="id">Sinema Malam Kujahit Cinta Buat Si Eneng</title>
+    <desc lang="id">Film televisi yang mengangkat kisah romantisme kehidupan dengan konflik yang menarik. Tayang setiap hari.</desc>
+    <icon src="https://thumbor.prod.vidiocdn.com/N99E8BD1OJ5vvymwPBj0c-BU5J4=/287x162/filters:strip_icc():quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/image/204/sctv-5ef966.jpg"/>
+  </programme>
+  <programme channel="204" start="20260423200000 +0000" stop="20260423210000 +0000">
+    <title lang="id">Sinema Dini Hari</title>
+    <desc lang="id">Film televisi yang mengangkat kisah romantisme kehidupan dengan konflik yang menarik. Tayang setiap hari.</desc>
+    <icon src="https://thumbor.prod.vidiocdn.com/N99E8BD1OJ5vvymwPBj0c-BU5J4=/287x162/filters:strip_icc():quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/image/204/sctv-5ef966.jpg"/>
+  </programme>
+  <programme channel="204" start="20260423210000 +0000" stop="20260423213000 +0000">
+    <title lang="id">Barakallah</title>
+    <desc lang="id">Ceramah islami penuh makna. Tayang setiap selasa - minggu, mulai pukul 04.00 WIB</desc>
+    <icon src="https://thumbor.prod.vidiocdn.com/N99E8BD1OJ5vvymwPBj0c-BU5J4=/287x162/filters:strip_icc():quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/image/204/sctv-5ef966.jpg"/>
+  </programme>
+  <programme channel="204" start="20260423213000 +0000" stop="20260423220000 +0000">
+    <title lang="id">Buser</title>
+    <icon src="https://thumbor.prod.vidiocdn.com/hqiU7koXgDL4zkxckArkSQHfwWw=/287x162/filters:strip_icc():quality(70)/vidio-media-production/uploads/tv_program/thumbnail/382356/d78201.jpg"/>
+  </programme>
+  <programme channel="204" start="20260423220000 +0000" stop="20260423230000 +0000">
+    <title lang="id">Liputan 6 Pagi - Live</title>
+    <icon src="https://thumbor.prod.vidiocdn.com/N99E8BD1OJ5vvymwPBj0c-BU5J4=/287x162/filters:strip_icc():quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/image/204/sctv-5ef966.jpg"/>
+  </programme>
+  <programme channel="204" start="20260423230000 +0000" stop="20260424000000 +0000">
+    <title lang="id">Halo Selebriti</title>
+    <icon src="https://thumbor.prod.vidiocdn.com/N99E8BD1OJ5vvymwPBj0c-BU5J4=/287x162/filters:strip_icc():quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/image/204/sctv-5ef966.jpg"/>
+  </programme>
+  <programme channel="204" start="20260424000000 +0000" stop="20260424010000 +0000">
+    <title lang="id">Tiba-Tiba Kuis</title>
+    <desc lang="id">Program?kuis reality yang dipandu oleh Baim Wong, menemani pemirsa setia?SCTV?Senin - Jumat pkl. 07.00 WIB.</desc>
+    <icon src="https://thumbor.prod.vidiocdn.com/N99E8BD1OJ5vvymwPBj0c-BU5J4=/287x162/filters:strip_icc():quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/image/204/sctv-5ef966.jpg"/>
+  </programme>
+  <programme channel="204" start="20260424010000 +0000" stop="20260424030000 +0000">
+    <title lang="id">Ftv Pagi Spesial</title>
+    <desc lang="id">Film televisi yang mengangkat kisah romantisme kehidupan dengan konflik yang menarik. Tayang setiap hari.</desc>
+    <icon src="https://thumbor.prod.vidiocdn.com/N99E8BD1OJ5vvymwPBj0c-BU5J4=/287x162/filters:strip_icc():quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/image/204/sctv-5ef966.jpg"/>
+  </programme>
+  <programme channel="204" start="20260424030000 +0000" stop="20260424050000 +0000">
+    <title lang="id">Ftv Pagi</title>
+    <desc lang="id">Film televisi yang mengangkat kisah romantisme kehidupan dengan konflik yang menarik. Tayang setiap hari.</desc>
+    <icon src="https://thumbor.prod.vidiocdn.com/N99E8BD1OJ5vvymwPBj0c-BU5J4=/287x162/filters:strip_icc():quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/image/204/sctv-5ef966.jpg"/>
+  </programme>
+  <programme channel="204" start="20260424050000 +0000" stop="20260424053000 +0000">
+    <title lang="id">Liputan 6 Siang - Live</title>
+    <icon src="https://thumbor.prod.vidiocdn.com/N99E8BD1OJ5vvymwPBj0c-BU5J4=/287x162/filters:strip_icc():quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/image/204/sctv-5ef966.jpg"/>
+  </programme>
+  <programme channel="204" start="20260424053000 +0000" stop="20260424070000 +0000">
+    <title lang="id">Ftv Siang</title>
+    <desc lang="id">Film televisi yang mengangkat kisah romantisme kehidupan dengan konflik yang menarik. Tayang setiap hari.</desc>
+    <icon src="https://thumbor.prod.vidiocdn.com/N99E8BD1OJ5vvymwPBj0c-BU5J4=/287x162/filters:strip_icc():quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/image/204/sctv-5ef966.jpg"/>
+  </programme>
+  <programme channel="204" start="20260424070000 +0000" stop="20260424084500 +0000">
+    <title lang="id">Ftv Siang</title>
+    <desc lang="id">Film televisi yang mengangkat kisah romantisme kehidupan dengan konflik yang menarik. Tayang setiap hari.</desc>
+    <icon src="https://thumbor.prod.vidiocdn.com/N99E8BD1OJ5vvymwPBj0c-BU5J4=/287x162/filters:strip_icc():quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/image/204/sctv-5ef966.jpg"/>
+  </programme>
+  <programme channel="204" start="20260424084500 +0000" stop="20260424100000 +0000">
+    <title lang="id">Ftv Sore</title>
+    <desc lang="id">Film televisi yang mengangkat kisah romantisme kehidupan dengan konflik yang menarik. Tayang setiap hari.</desc>
+    <icon src="https://thumbor.prod.vidiocdn.com/N99E8BD1OJ5vvymwPBj0c-BU5J4=/287x162/filters:strip_icc():quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/image/204/sctv-5ef966.jpg"/>
+  </programme>
+  <programme channel="204" start="20260424100000 +0000" stop="20260424111500 +0000">
+    <title lang="id">Asmara Gen Z</title>
+    <desc lang="id">Sinetron yang bercerita tentang persahabatan, cinta dan serunya keseharian para Gen Z. Dibintangi oleh AQEELA CALISTA, FATTAH SYACH, ARYA MOHAN, NICOLE ROSSI, HARRY VAUGHAN dan RAISA MARIE. Tayang setiap hari pukul 17.00 WIB.</desc>
+    <icon src="https://thumbor.prod.vidiocdn.com/bBOx1-eAq0GvefIFPV527rLi1PI=/287x162/filters:strip_icc():quality(70)/vidio-media-production/uploads/tv_program/thumbnail/387307/cd8554.jpg"/>
+  </programme>
+  <programme channel="204" start="20260424111500 +0000" stop="20260424130000 +0000">
+    <title lang="id">Istiqomah Cinta</title>
+    <desc lang="id">Sinetron romansa tentang kisah Khansa (Yasmin Napper), perempuan lembut yang dipenjara 5 tahun karena fitnah Monika (Anjani Dina) untuk menutupi kecelakaan yang menabrak Aryani. Setelah bebas, Khansa berjuang mempertahankan iman dan kejujurannya di tengah teror, pengkhianatan, dan konflik cinta dengan Fathan (Arbani Yasiz) dan Emran (Cakrawala Airawan). Tayang setiap hari pukul 18.25 WIB</desc>
+    <icon src="https://thumbor.prod.vidiocdn.com/qhZpHEqYoWbfBrJa0aLRcUb0G7I=/287x162/filters:strip_icc():quality(70)/vidio-media-production/uploads/tv_program/thumbnail/401147/50494f.jpg"/>
+  </programme>
+  <programme channel="204" start="20260424130000 +0000" stop="20260424160000 +0000">
+    <title lang="id">Malam Puncak Pemilihan Puteri Indonesia 2026 - Live</title>
+    <icon src="https://thumbor.prod.vidiocdn.com/N99E8BD1OJ5vvymwPBj0c-BU5J4=/287x162/filters:strip_icc():quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/image/204/sctv-5ef966.jpg"/>
+  </programme>
+  <programme channel="204" start="20260424160000 +0000" stop="20260424180000 +0000">
+    <title lang="id">Film Layar Lebar Dilan 1991</title>
+    <desc lang="id">Dilan dan Milea resmi berpacaran. Namun Dilan terancam dikeluarkan dari sekolah karena terlibat tawuran. Suatu hari, ketika dia berencana untuk berkelahi lagi, Milea memintanya untuk keluar dari geng motor atau hubungan mereka akan berakhir.</desc>
+    <icon src="https://thumbor.prod.vidiocdn.com/N99E8BD1OJ5vvymwPBj0c-BU5J4=/287x162/filters:strip_icc():quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/image/204/sctv-5ef966.jpg"/>
+  </programme>
+  <programme channel="204" start="20260424160000 +0000" stop="20260424180000 +0000">
+    <title lang="id">Film Layar Lebar Dilan 1991</title>
+    <desc lang="id">Dilan dan Milea resmi berpacaran. Namun Dilan terancam dikeluarkan dari sekolah karena terlibat tawuran. Suatu hari, ketika dia berencana untuk berkelahi lagi, Milea memintanya untuk keluar dari geng motor atau hubungan mereka akan berakhir.</desc>
+    <icon src="https://thumbor.prod.vidiocdn.com/N99E8BD1OJ5vvymwPBj0c-BU5J4=/287x162/filters:strip_icc():quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/image/204/sctv-5ef966.jpg"/>
+  </programme>
+  <programme channel="204" start="20260424180000 +0000" stop="20260424190000 +0000">
+    <title lang="id">Ftv Utama</title>
+    <desc lang="id">Film televisi yang mengangkat kisah romantisme kehidupan dengan konflik yang menarik. Tayang setiap hari.</desc>
+    <icon src="https://thumbor.prod.vidiocdn.com/N99E8BD1OJ5vvymwPBj0c-BU5J4=/287x162/filters:strip_icc():quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/image/204/sctv-5ef966.jpg"/>
+  </programme>
+  <programme channel="204" start="20260424190000 +0000" stop="20260424200000 +0000">
+    <title lang="id">Sinema Malam</title>
+    <desc lang="id">Film televisi yang mengangkat kisah romantisme kehidupan dengan konflik yang menarik. Tayang setiap hari.</desc>
+    <icon src="https://thumbor.prod.vidiocdn.com/N99E8BD1OJ5vvymwPBj0c-BU5J4=/287x162/filters:strip_icc():quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/image/204/sctv-5ef966.jpg"/>
+  </programme>
+  <programme channel="204" start="20260424200000 +0000" stop="20260424210000 +0000">
+    <title lang="id">Sinema Dini Hari</title>
+    <desc lang="id">Film televisi yang mengangkat kisah romantisme kehidupan dengan konflik yang menarik. Tayang setiap hari.</desc>
+    <icon src="https://thumbor.prod.vidiocdn.com/N99E8BD1OJ5vvymwPBj0c-BU5J4=/287x162/filters:strip_icc():quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/image/204/sctv-5ef966.jpg"/>
+  </programme>
+  <programme channel="204" start="20260424210000 +0000" stop="20260424213000 +0000">
+    <title lang="id">Barakallah</title>
+    <desc lang="id">Ceramah islami penuh makna. Tayang setiap selasa - minggu, mulai pukul 04.00 WIB</desc>
+    <icon src="https://thumbor.prod.vidiocdn.com/N99E8BD1OJ5vvymwPBj0c-BU5J4=/287x162/filters:strip_icc():quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/image/204/sctv-5ef966.jpg"/>
+  </programme>
+  <programme channel="204" start="20260424213000 +0000" stop="20260424220000 +0000">
+    <title lang="id">Buser</title>
+    <icon src="https://thumbor.prod.vidiocdn.com/hqiU7koXgDL4zkxckArkSQHfwWw=/287x162/filters:strip_icc():quality(70)/vidio-media-production/uploads/tv_program/thumbnail/382356/d78201.jpg"/>
+  </programme>
+  <programme channel="204" start="20260424220000 +0000" stop="20260424230000 +0000">
+    <title lang="id">Liputan 6 Pagi - Live</title>
+    <icon src="https://thumbor.prod.vidiocdn.com/N99E8BD1OJ5vvymwPBj0c-BU5J4=/287x162/filters:strip_icc():quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/image/204/sctv-5ef966.jpg"/>
+  </programme>
+  <programme channel="204" start="20260424230000 +0000" stop="20260425000000 +0000">
+    <title lang="id">Halo Selebriti</title>
+    <icon src="https://thumbor.prod.vidiocdn.com/N99E8BD1OJ5vvymwPBj0c-BU5J4=/287x162/filters:strip_icc():quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/image/204/sctv-5ef966.jpg"/>
+  </programme>
+  <programme channel="204" start="20260425000000 +0000" stop="20260425010000 +0000">
+    <title lang="id">Ftv Pagi Spesial</title>
+    <desc lang="id">Film televisi yang mengangkat kisah romantisme kehidupan dengan konflik yang menarik. Tayang setiap hari.</desc>
+    <icon src="https://thumbor.prod.vidiocdn.com/N99E8BD1OJ5vvymwPBj0c-BU5J4=/287x162/filters:strip_icc():quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/image/204/sctv-5ef966.jpg"/>
+  </programme>
+  <programme channel="204" start="20260425010000 +0000" stop="20260425021500 +0000">
+    <title lang="id">Ftv Pagi Spesial</title>
+    <desc lang="id">Film televisi yang mengangkat kisah romantisme kehidupan dengan konflik yang menarik. Tayang setiap hari.</desc>
+    <icon src="https://thumbor.prod.vidiocdn.com/N99E8BD1OJ5vvymwPBj0c-BU5J4=/287x162/filters:strip_icc():quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/image/204/sctv-5ef966.jpg"/>
+  </programme>
+  <programme channel="204" start="20260425021500 +0000" stop="20260425040000 +0000">
+    <title lang="id">Ftv Pagi</title>
+    <desc lang="id">Film televisi yang mengangkat kisah romantisme kehidupan dengan konflik yang menarik. Tayang setiap hari.</desc>
+    <icon src="https://thumbor.prod.vidiocdn.com/N99E8BD1OJ5vvymwPBj0c-BU5J4=/287x162/filters:strip_icc():quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/image/204/sctv-5ef966.jpg"/>
+  </programme>
+  <programme channel="204" start="20260425040000 +0000" stop="20260425043000 +0000">
+    <title lang="id">Liputan 6 Siang - Live</title>
+    <icon src="https://thumbor.prod.vidiocdn.com/N99E8BD1OJ5vvymwPBj0c-BU5J4=/287x162/filters:strip_icc():quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/image/204/sctv-5ef966.jpg"/>
+  </programme>
+  <programme channel="204" start="20260425043000 +0000" stop="20260425070000 +0000">
+    <title lang="id">Pengajian &amp; Siraman The Wedding Of El Rumi &amp; Syifa Hadju</title>
+    <icon src="https://thumbor.prod.vidiocdn.com/N99E8BD1OJ5vvymwPBj0c-BU5J4=/287x162/filters:strip_icc():quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/image/204/sctv-5ef966.jpg"/>
+  </programme>
+  <programme channel="204" start="20260425070000 +0000" stop="20260425100000 +0000">
+    <title lang="id">Karnaval - Live</title>
+    <icon src="https://thumbor.prod.vidiocdn.com/N99E8BD1OJ5vvymwPBj0c-BU5J4=/287x162/filters:strip_icc():quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/image/204/sctv-5ef966.jpg"/>
+  </programme>
+  <programme channel="204" start="20260425100000 +0000" stop="20260425111500 +0000">
+    <title lang="id">Asmara Gen Z</title>
+    <desc lang="id">Sinetron yang bercerita tentang persahabatan, cinta dan serunya keseharian para Gen Z. Dibintangi oleh AQEELA CALISTA, FATTAH SYACH, ARYA MOHAN, NICOLE ROSSI, HARRY VAUGHAN dan RAISA MARIE. Tayang setiap hari pukul 17.00 WIB.</desc>
+    <icon src="https://thumbor.prod.vidiocdn.com/bBOx1-eAq0GvefIFPV527rLi1PI=/287x162/filters:strip_icc():quality(70)/vidio-media-production/uploads/tv_program/thumbnail/387307/cd8554.jpg"/>
+  </programme>
+  <programme channel="204" start="20260425111500 +0000" stop="20260425131500 +0000">
+    <title lang="id">Istiqomah Cinta</title>
+    <desc lang="id">Sinetron romansa tentang kisah Khansa (Yasmin Napper), perempuan lembut yang dipenjara 5 tahun karena fitnah Monika (Anjani Dina) untuk menutupi kecelakaan yang menabrak Aryani. Setelah bebas, Khansa berjuang mempertahankan iman dan kejujurannya di tengah teror, pengkhianatan, dan konflik cinta dengan Fathan (Arbani Yasiz) dan Emran (Cakrawala Airawan). Tayang setiap hari pukul 18.25 WIB</desc>
+    <icon src="https://thumbor.prod.vidiocdn.com/qhZpHEqYoWbfBrJa0aLRcUb0G7I=/287x162/filters:strip_icc():quality(70)/vidio-media-production/uploads/tv_program/thumbnail/401147/50494f.jpg"/>
+  </programme>
+  <programme channel="204" start="20260425131500 +0000" stop="20260425143000 +0000">
+    <title lang="id">Beri Cinta Waktu</title>
+    <desc lang="id">Sinetron romansa tentang perjalanan Trian (Yesaya Abraham) mencari keadilan dan mengungkap kejahatan pasca Adila, istrinya meninggal dunia, dengan bantuan Rama (Rayn Wijaya) dan Asmara (Angela Gilsha). Tayang setiap hari pukul 20.10 WIB</desc>
+    <icon src="https://thumbor.prod.vidiocdn.com/ho2PtWvpg-rvR-RgqS1-Xs_7xWA=/287x162/filters:strip_icc():quality(70)/vidio-media-production/uploads/tv_program/thumbnail/393465/43cc4c.jpg"/>
+  </programme>
+  <programme channel="204" start="20260425143000 +0000" stop="20260425163000 +0000">
+    <title lang="id">Jejak Duka Diandra</title>
+    <desc lang="id">Kisah cinta Diandra (Michelle Ziudith) dan Dimitri (Rio Dewanto) yang semula indah seketika berubah drastis setelah Yunita (Baiti Syaghaf), saudara tiri Diandra mengaku mencintai Dimitri. Dimitri terjebak dalam situasi sulit akibat ulah sang adik, Jupiter (Bizael) yang menuduh Dimitri melecehkan Yunita. Hubungan Dimitri dengan Diandra pun semakin merenggang. Tuduhan lainnya juga harus diterima Dimitri sebagai penyebab insiden kecelakaan seorang wanita. Posisi Dimitri semakin terpojok setelah Diandra yang diminta sebagai saksi justru tidak berpihak kepadanya hingga Dimitri mendapat sanksi mendekam di balik jeruji besi selama lima tahun. Lima tahun berlalu, Dimitri hidup bebas dan melanjutkan usaha sang ayah. Ia pun membuka kisah cinta baru dengan Melissa (Tasya Panggabean). Takdir pun berkata lain, pertemuan Dimitri dan Diandra kembali terjadi. Tayang setiap hari pukul 21.30 WIB</desc>
+    <icon src="https://thumbor.prod.vidiocdn.com/oMFhUagHdo4551UBuIvUsG9_qZA=/287x162/filters:strip_icc():quality(70)/vidio-media-production/uploads/tv_program/thumbnail/399305/1d17bf.jpg"/>
+  </programme>
+  <programme channel="204" start="20260425163000 +0000" stop="20260425183000 +0000">
+    <title lang="id">Arsenal Vs Newcastle United - Premier League - Live</title>
+    <icon src="https://thumbor.prod.vidiocdn.com/N99E8BD1OJ5vvymwPBj0c-BU5J4=/287x162/filters:strip_icc():quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/image/204/sctv-5ef966.jpg"/>
+  </programme>
   <programme channel="205" start="20260418162500 +0000" stop="20260418180000 +0000">
     <title lang="id">Mega Series Action Asia : Heroes</title>
     <desc lang="id">Sebuah Kisah Epic Yang Melegenda Perjuangan Sang Master Kungfu: Huo Yuan Jia, Memimipin Perlawanan Bangsanya Dalam Menghadapi Invasi Penjajah. Saksikan Penampilan Memukau: Vincent Zhao, Nikita Mao dan Bintang Laga Lainnya Dalam Mega Series Action Asia: Heroes, Mulai 14 Maret 2025, Pkl 23.00 WIB, Hanya Di Indosiar</desc>
@@ -307,12 +792,12 @@
     <desc lang="id">Mega Series Terbaru Raden Rakha dan Basmalah Gralind Di Indosiar "Merangkai Kisah Indah" Tayang Setiap Hari, Mulai Senin, 14 Juli 2025 Pukul 17:00 WIB. Kisah Derita Mutiara Yang Mencari Orangtua Kandungnya Karena Sewaktu Bayi Ditukar Oleh Ibu Angkatnya. Nasib Membawa Dirinya Bertemu Dengan Keluarga Yang Tanpa Dia Ketahui Adalah Orangtua Kandungnya dan Juga Bertemu Kenzo. Apakah Kenzo dan Mutiara Akan Berjodoh? Dibintangi Raden Rakha, Basmalah Gralind, Panji Saputra, Tsania Marwa, Gita Sinaga, Vayala Maulidina, Washifa, Haura Lathifa, dan Emiliano Cortizo. Saksikan Mega Series Terbaru Indosiar : Merangkai Kisah Indah, Tayang Setiap Hari, Mulai Senin, 14 Juli 2025 Pukul 17:00 WIB Hanya Di Indosiar.</desc>
     <icon src="https://thumbor.prod.vidiocdn.com/WIl2jiaTLEzHnNAo61AGzfdEXh8=/287x162/filters:strip_icc():quality(70)/vidio-media-production/uploads/tv_program/thumbnail/389747/fc3ce1.jpg"/>
   </programme>
-  <programme channel="205" start="20260419120000 +0000" stop="20260419143000 +0000">
+  <programme channel="205" start="20260419120000 +0000" stop="20260419144400 +0000">
     <title lang="id">Asean U17 Boys Championship 2026 : Asean U17 Boys Championshhip - Indonesia Vs Vietnam</title>
     <desc lang="id">Saksikan Perjuangan Heroik Garuda Muda Dalam Turnamen Bergengsi ASEAN U17 Boys Championship 2026 Yang Akan Berlaga Di Stadion Gelora Joko Samudro dan Gelora Delta Sidoarjo! Timnas Indonesia Siap Memberikan Segalanya Demi Menjaga Kehormatan Bangsa Menghadapi Tantangan Sengit Dari Timor Leste, Malaysia, dan Vietnam. Jangan Lewatkan Momen Kebangkitan Talenta Masa Depan Sepak Bola Tanah Air Yang Penuh Semangat dan Determinasi Tinggi, Eksklusif Mulai Senin, 13 April Pukul 19.00 WIB, Hanya Di Indosiar!</desc>
     <icon src="https://thumbor.prod.vidiocdn.com/cBZL7ITaJCof6cqtayFee2uJCX8=/287x162/filters:strip_icc():quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/image/205/indosiar-d9a3d0.jpg"/>
   </programme>
-  <programme channel="205" start="20260419143000 +0000" stop="20260419163000 +0000">
+  <programme channel="205" start="20260419144400 +0000" stop="20260419163000 +0000">
     <title lang="id">BRI Superleague 2025/26 - Bali United Fc Vs Malut United Fc</title>
     <desc lang="id">Saksikan! BRI Super League 2025/26 - Is Back!" 18 Klub Terbaik Siap Bertarung Di Kasta Tertinggi Sepak Bola Indonesia! Pertandingan Semakin Seru! Jangan Lewatkan BRI Super League 2025/26 Mulai 8 Agustus 2025, Pkl 15.00 &amp; 18.30 WIB, Live &amp; Eksklusif Hanya Di Indosiar dan Vidio #Indosiarrumahsepakbolaindonesia</desc>
     <icon src="https://thumbor.prod.vidiocdn.com/cBZL7ITaJCof6cqtayFee2uJCX8=/287x162/filters:strip_icc():quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/image/205/indosiar-d9a3d0.jpg"/>
@@ -336,6 +821,491 @@
     <title lang="id">Mega Film Asia : Cruel War</title>
     <desc lang="id">Mega Film Asia Adalah Program Yang Memutarkan Film-Film Asia Yang Ditayangkan Di Indosiar. Acara Ini Ditayangkan Perdana Pada Tahun 1996 Silam.</desc>
     <icon src="https://thumbor.prod.vidiocdn.com/uy9YY0HiWB1nE1IsV0N4PnUU43g=/287x162/filters:strip_icc():quality(70)/vidio-media-production/uploads/livestreaming/schedule/thumbnail/5014044/72eb44.jpg"/>
+  </programme>
+  <programme channel="205" start="20260419213000 +0000" stop="20260419230000 +0000">
+    <title lang="id">Fokus Pagi</title>
+    <desc lang="id">Berita Lengkap dan Terkini Dari Dalam dan Luar Negeri Seputar Isu Politik, Ekonomi, Hukum, Kriminal, Sosial Budaya, Olahraga, dan Lain-Lain.</desc>
+    <icon src="https://thumbor.prod.vidiocdn.com/cBZL7ITaJCof6cqtayFee2uJCX8=/287x162/filters:strip_icc():quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/image/205/indosiar-d9a3d0.jpg"/>
+  </programme>
+  <programme channel="205" start="20260419230000 +0000" stop="20260420003000 +0000">
+    <title lang="id">Merangkai Kisah Indah</title>
+    <desc lang="id">Mega Series Terbaru Raden Rakha dan Basmalah Gralind Di Indosiar "Merangkai Kisah Indah" Tayang Setiap Hari, Mulai Senin, 14 Juli 2025 Pukul 17:00 WIB. Kisah Derita Mutiara Yang Mencari Orangtua Kandungnya Karena Sewaktu Bayi Ditukar Oleh Ibu Angkatnya. Nasib Membawa Dirinya Bertemu Dengan Keluarga Yang Tanpa Dia Ketahui Adalah Orangtua Kandungnya dan Juga Bertemu Kenzo. Apakah Kenzo dan Mutiara Akan Berjodoh? Dibintangi Raden Rakha, Basmalah Gralind, Panji Saputra, Tsania Marwa, Gita Sinaga, Vayala Maulidina, Washifa, Haura Lathifa, dan Emiliano Cortizo. Saksikan Mega Series Terbaru Indosiar : Merangkai Kisah Indah, Tayang Setiap Hari, Mulai Senin, 14 Juli 2025 Pukul 17:00 WIB Hanya Di Indosiar.</desc>
+    <icon src="https://thumbor.prod.vidiocdn.com/WIl2jiaTLEzHnNAo61AGzfdEXh8=/287x162/filters:strip_icc():quality(70)/vidio-media-production/uploads/tv_program/thumbnail/389747/fc3ce1.jpg"/>
+  </programme>
+  <programme channel="205" start="20260420003000 +0000" stop="20260420020000 +0000">
+    <title lang="id">Kisah Nyata Pagi : Pengkhianatan Di Balik Bilik Dapur</title>
+    <desc lang="id">FTV Yang Diambil Dari Kisah Kehidupan Sehari-Hari Pemirsa Yang Penuh Intrik, Konflik dan Pengkhianatan Untuk Memberikan Berbagai Pelajaran Hidup.</desc>
+    <icon src="https://thumbor.prod.vidiocdn.com/cBZL7ITaJCof6cqtayFee2uJCX8=/287x162/filters:strip_icc():quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/image/205/indosiar-d9a3d0.jpg"/>
+  </programme>
+  <programme channel="205" start="20260420020000 +0000" stop="20260420033000 +0000">
+    <title lang="id">Kisah Nyata Pagi : Dalang Dibalik Hancurnya Pesta Pernikahanku</title>
+    <desc lang="id">FTV Yang Diambil Dari Kisah Kehidupan Sehari-Hari Pemirsa Yang Penuh Intrik, Konflik dan Pengkhianatan Untuk Memberikan Berbagai Pelajaran Hidup.</desc>
+    <icon src="https://thumbor.prod.vidiocdn.com/cBZL7ITaJCof6cqtayFee2uJCX8=/287x162/filters:strip_icc():quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/image/205/indosiar-d9a3d0.jpg"/>
+  </programme>
+  <programme channel="205" start="20260420033000 +0000" stop="20260420040000 +0000">
+    <title lang="id">Kiss Pagi</title>
+    <desc lang="id">Berita Ter-Hot dan Terupdate Seputar Artis Ternama Tanah Air Yang Dikemas Secara Lugas dan Menarik. Saksikan Setiap Hari Senin &amp; Selasa Pukul 08.00-10.30 WIB, Hanya Di Indosiar</desc>
+    <icon src="https://thumbor.prod.vidiocdn.com/cBZL7ITaJCof6cqtayFee2uJCX8=/287x162/filters:strip_icc():quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/image/205/indosiar-d9a3d0.jpg"/>
+  </programme>
+  <programme channel="205" start="20260420040000 +0000" stop="20260420043000 +0000">
+    <title lang="id">Patroli Siang</title>
+    <desc lang="id">Berita Terkini Seputar Peristiwa Kriminal, Tindak Kejahatan, Orang Hilang, Hingga Bencana Alam.</desc>
+    <icon src="https://thumbor.prod.vidiocdn.com/cBZL7ITaJCof6cqtayFee2uJCX8=/287x162/filters:strip_icc():quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/image/205/indosiar-d9a3d0.jpg"/>
+  </programme>
+  <programme channel="205" start="20260420043000 +0000" stop="20260420050000 +0000">
+    <title lang="id">Fokus Siang</title>
+    <desc lang="id">Program Berita Aktual dan Terkini Tentang Berbagai Isu Di Tanah Air, Meliputi Politik, Ekonomi, Hukum, Sosial, Budaya, Olah Raga, dan Lain-Lain.</desc>
+    <icon src="https://thumbor.prod.vidiocdn.com/cBZL7ITaJCof6cqtayFee2uJCX8=/287x162/filters:strip_icc():quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/image/205/indosiar-d9a3d0.jpg"/>
+  </programme>
+  <programme channel="205" start="20260420050000 +0000" stop="20260420063000 +0000">
+    <title lang="id">Kisah Nyata Siang : Tabiat Buruk Wanita Yang Menjadi Duri Dalam Pernikahanku</title>
+    <desc lang="id">FTV Yang Diambil Dari Kisah Kehidupan Sehari-Hari Pemirsa Yang Penuh Intrik, Konflik dan Pengkhianatan Untuk Memberikan Berbagai Pelajaran Hidup. Saksikan Setiap Hari Pukul 13.30 WIB, Hanya Di Indosiar.</desc>
+    <icon src="https://thumbor.prod.vidiocdn.com/cBZL7ITaJCof6cqtayFee2uJCX8=/287x162/filters:strip_icc():quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/image/205/indosiar-d9a3d0.jpg"/>
+  </programme>
+  <programme channel="205" start="20260420063000 +0000" stop="20260420080000 +0000">
+    <title lang="id">Kisah Nyata : Kakak Iparku Adalah Benalu</title>
+    <desc lang="id">FTV Yang Diambil Dari Kisah Kehidupan Sehari-Hari Pemirsa Yang Penuh Intrik, Konflik dan Pengkhianatan Untuk Memberikan Berbagai Pelajaran Hidup.</desc>
+    <icon src="https://thumbor.prod.vidiocdn.com/cBZL7ITaJCof6cqtayFee2uJCX8=/287x162/filters:strip_icc():quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/image/205/indosiar-d9a3d0.jpg"/>
+  </programme>
+  <programme channel="205" start="20260420083000 +0000" stop="20260420103000 +0000">
+    <title lang="id">Semen Padang FC vs PERSIJAP - BRI Super League</title>
+    <desc lang="id">Nonton streaming pertandingan seru Semen Padang FC vs PERSIJAP - BRI Super League. Saksikan aksi-aksi terbaik dari tim yang bersaing ketat untuk meraih kemenangan. Dapatkan informasi lengkap mengenai jadwal pertandingan dan hasil pertandingan terbaru hanya di Vidio.</desc>
+    <icon src="https://thumbor.prod.vidiocdn.com/ejSqUGPQ2CFZV0pqytx_oB5GymE=/287x162/filters:strip_icc():quality(70)/vidio-media-production/uploads/livestreaming/schedule/thumbnail/5020783/19a9ce.jpg"/>
+  </programme>
+  <programme channel="205" start="20260420103000 +0000" stop="20260420113000 +0000">
+    <title lang="id">Merangkai Kisah Indah</title>
+    <desc lang="id">Mega Series Terbaru Raden Rakha dan Basmalah Gralind Di Indosiar "Merangkai Kisah Indah" Tayang Setiap Hari, Mulai Senin, 14 Juli 2025 Pukul 17:00 WIB. Kisah Derita Mutiara Yang Mencari Orangtua Kandungnya Karena Sewaktu Bayi Ditukar Oleh Ibu Angkatnya. Nasib Membawa Dirinya Bertemu Dengan Keluarga Yang Tanpa Dia Ketahui Adalah Orangtua Kandungnya dan Juga Bertemu Kenzo. Apakah Kenzo dan Mutiara Akan Berjodoh? Dibintangi Raden Rakha, Basmalah Gralind, Panji Saputra, Tsania Marwa, Gita Sinaga, Vayala Maulidina, Washifa, Haura Lathifa, dan Emiliano Cortizo. Saksikan Mega Series Terbaru Indosiar : Merangkai Kisah Indah, Tayang Setiap Hari, Mulai Senin, 14 Juli 2025 Pukul 17:00 WIB Hanya Di Indosiar.</desc>
+    <icon src="https://thumbor.prod.vidiocdn.com/0NDGFQzXCQM3FSqNNolED22jqGc=/287x162/filters:strip_icc():quality(70)/vidio-media-production/uploads/livestreaming/schedule/thumbnail/5020681/253d3b.jpg"/>
+  </programme>
+  <programme channel="205" start="20260420113000 +0000" stop="20260420140000 +0000">
+    <title lang="id">BRI Superleague 2025/26 - Dewa United Banten Fc Vs Persib Bandung</title>
+    <desc lang="id">Saksikan! BRI Super League 2025/26 - Is Back!" 18 Klub Terbaik Siap Bertarung Di Kasta Tertinggi Sepak Bola Indonesia! Pertandingan Semakin Seru! Jangan Lewatkan BRI Super League 2025/26 Mulai 8 Agustus 2025, Pkl 15.00 &amp; 18.30 WIB, Live &amp; Eksklusif Hanya Di Indosiar dan Vidio #Indosiarrumahsepakbolaindonesia</desc>
+    <icon src="https://thumbor.prod.vidiocdn.com/cBZL7ITaJCof6cqtayFee2uJCX8=/287x162/filters:strip_icc():quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/image/205/indosiar-d9a3d0.jpg"/>
+  </programme>
+  <programme channel="205" start="20260420140000 +0000" stop="20260420160000 +0000">
+    <title lang="id">D' Academy 7 - Mega Konser</title>
+    <desc lang="id">Panggung Megah Konser D'Academy 7 Siap Digelar! Audisi Online dan Offline Telah Usai! Siapakah Yang Akan Lolos Ke Panggung Megah D'Academy 7? Saksikan D'Academy 7 Mulai Senin, 9 Juni, Setiap Senin-Jumat Live Pkl 20.00 WIB Hanya Di Indosiar. #Indosiarbawadangdutberkelasberkualitas</desc>
+    <icon src="https://thumbor.prod.vidiocdn.com/kCN5xC-HGTB6a0WJ_x10pxLWlZ0=/287x162/filters:strip_icc():quality(70)/vidio-media-production/uploads/livestreaming/schedule/thumbnail/5020716/f7669f.jpg"/>
+  </programme>
+  <programme channel="205" start="20260420160000 +0000" stop="20260420180000 +0000">
+    <title lang="id">Mega Series Action Asia : Heroes</title>
+    <desc lang="id">Sebuah Kisah Epic Yang Melegenda Perjuangan Sang Master Kungfu: Huo Yuan Jia, Memimipin Perlawanan Bangsanya Dalam Menghadapi Invasi Penjajah. Saksikan Penampilan Memukau: Vincent Zhao, Nikita Mao dan Bintang Laga Lainnya Dalam Mega Series Action Asia: Heroes, Mulai 14 Maret 2025, Pkl 23.00 WIB, Hanya Di Indosiar</desc>
+    <icon src="https://thumbor.prod.vidiocdn.com/v7dLsDhmIIqCSgTTWJiOVSYwYtw=/287x162/filters:strip_icc():quality(70)/vidio-media-production/uploads/livestreaming/schedule/thumbnail/5020717/001025.jpg"/>
+  </programme>
+  <programme channel="205" start="20260420160000 +0000" stop="20260420180000 +0000">
+    <title lang="id">Mega Series Action Asia : Heroes</title>
+    <desc lang="id">Sebuah Kisah Epic Yang Melegenda Perjuangan Sang Master Kungfu: Huo Yuan Jia, Memimipin Perlawanan Bangsanya Dalam Menghadapi Invasi Penjajah. Saksikan Penampilan Memukau: Vincent Zhao, Nikita Mao dan Bintang Laga Lainnya Dalam Mega Series Action Asia: Heroes, Mulai 14 Maret 2025, Pkl 23.00 WIB, Hanya Di Indosiar</desc>
+    <icon src="https://thumbor.prod.vidiocdn.com/v7dLsDhmIIqCSgTTWJiOVSYwYtw=/287x162/filters:strip_icc():quality(70)/vidio-media-production/uploads/livestreaming/schedule/thumbnail/5020717/001025.jpg"/>
+  </programme>
+  <programme channel="205" start="20260420180000 +0000" stop="20260420200000 +0000">
+    <title lang="id">Mega Film Asia : Once Upon A Time In China Ii</title>
+    <desc lang="id">Mega Film Asia Adalah Program Yang Memutarkan Film-Film Asia Yang Ditayangkan Di Indosiar. Acara Ini Ditayangkan Perdana Pada Tahun 1996 Silam.</desc>
+    <icon src="https://thumbor.prod.vidiocdn.com/cBZL7ITaJCof6cqtayFee2uJCX8=/287x162/filters:strip_icc():quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/image/205/indosiar-d9a3d0.jpg"/>
+  </programme>
+  <programme channel="205" start="20260420200000 +0000" stop="20260420213000 +0000">
+    <title lang="id">Mega Film Asia : The White Storm 3 - Heaven Of Hell</title>
+    <desc lang="id">Mega Film Asia Adalah Program Yang Memutarkan Film-Film Asia Yang Ditayangkan Di Indosiar. Acara Ini Ditayangkan Perdana Pada Tahun 1996 Silam.</desc>
+    <icon src="https://thumbor.prod.vidiocdn.com/cBZL7ITaJCof6cqtayFee2uJCX8=/287x162/filters:strip_icc():quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/image/205/indosiar-d9a3d0.jpg"/>
+  </programme>
+  <programme channel="205" start="20260420213000 +0000" stop="20260420230000 +0000">
+    <title lang="id">Fokus Pagi</title>
+    <desc lang="id">Berita Lengkap dan Terkini Dari Dalam dan Luar Negeri Seputar Isu Politik, Ekonomi, Hukum, Kriminal, Sosial Budaya, Olahraga, dan Lain-Lain.</desc>
+    <icon src="https://thumbor.prod.vidiocdn.com/cBZL7ITaJCof6cqtayFee2uJCX8=/287x162/filters:strip_icc():quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/image/205/indosiar-d9a3d0.jpg"/>
+  </programme>
+  <programme channel="205" start="20260420230000 +0000" stop="20260421000000 +0000">
+    <title lang="id">Merangkai Kisah Indah</title>
+    <desc lang="id">Mega Series Terbaru Raden Rakha dan Basmalah Gralind Di Indosiar "Merangkai Kisah Indah" Tayang Setiap Hari, Mulai Senin, 14 Juli 2025 Pukul 17:00 WIB. Kisah Derita Mutiara Yang Mencari Orangtua Kandungnya Karena Sewaktu Bayi Ditukar Oleh Ibu Angkatnya. Nasib Membawa Dirinya Bertemu Dengan Keluarga Yang Tanpa Dia Ketahui Adalah Orangtua Kandungnya dan Juga Bertemu Kenzo. Apakah Kenzo dan Mutiara Akan Berjodoh? Dibintangi Raden Rakha, Basmalah Gralind, Panji Saputra, Tsania Marwa, Gita Sinaga, Vayala Maulidina, Washifa, Haura Lathifa, dan Emiliano Cortizo. Saksikan Mega Series Terbaru Indosiar : Merangkai Kisah Indah, Tayang Setiap Hari, Mulai Senin, 14 Juli 2025 Pukul 17:00 WIB Hanya Di Indosiar.</desc>
+    <icon src="https://thumbor.prod.vidiocdn.com/WIl2jiaTLEzHnNAo61AGzfdEXh8=/287x162/filters:strip_icc():quality(70)/vidio-media-production/uploads/tv_program/thumbnail/389747/fc3ce1.jpg"/>
+  </programme>
+  <programme channel="205" start="20260421000000 +0000" stop="20260421013000 +0000">
+    <title lang="id">Kisah Nyata Pagi : Ulah Iparku Menguras Emosiku</title>
+    <desc lang="id">FTV Yang Diambil Dari Kisah Kehidupan Sehari-Hari Pemirsa Yang Penuh Intrik, Konflik dan Pengkhianatan Untuk Memberikan Berbagai Pelajaran Hidup.</desc>
+    <icon src="https://thumbor.prod.vidiocdn.com/cBZL7ITaJCof6cqtayFee2uJCX8=/287x162/filters:strip_icc():quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/image/205/indosiar-d9a3d0.jpg"/>
+  </programme>
+  <programme channel="205" start="20260421013000 +0000" stop="20260421030000 +0000">
+    <title lang="id">Kisah Nyata Pagi : Campur Tangan Orang Ketiga Membuat Pernikahanku Di Ambang Kehancuran</title>
+    <desc lang="id">FTV Yang Diambil Dari Kisah Kehidupan Sehari-Hari Pemirsa Yang Penuh Intrik, Konflik dan Pengkhianatan Untuk Memberikan Berbagai Pelajaran Hidup.</desc>
+    <icon src="https://thumbor.prod.vidiocdn.com/cBZL7ITaJCof6cqtayFee2uJCX8=/287x162/filters:strip_icc():quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/image/205/indosiar-d9a3d0.jpg"/>
+  </programme>
+  <programme channel="205" start="20260421030000 +0000" stop="20260421040000 +0000">
+    <title lang="id">Kiss Pagi</title>
+    <desc lang="id">Berita Ter-Hot dan Terupdate Seputar Artis Ternama Tanah Air Yang Dikemas Secara Lugas dan Menarik. Saksikan Setiap Hari Senin &amp; Selasa Pukul 08.00-10.30 WIB, Hanya Di Indosiar</desc>
+    <icon src="https://thumbor.prod.vidiocdn.com/cBZL7ITaJCof6cqtayFee2uJCX8=/287x162/filters:strip_icc():quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/image/205/indosiar-d9a3d0.jpg"/>
+  </programme>
+  <programme channel="205" start="20260421040000 +0000" stop="20260421043000 +0000">
+    <title lang="id">Patroli Siang</title>
+    <desc lang="id">Berita Terkini Seputar Peristiwa Kriminal, Tindak Kejahatan, Orang Hilang, Hingga Bencana Alam.</desc>
+    <icon src="https://thumbor.prod.vidiocdn.com/cBZL7ITaJCof6cqtayFee2uJCX8=/287x162/filters:strip_icc():quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/image/205/indosiar-d9a3d0.jpg"/>
+  </programme>
+  <programme channel="205" start="20260421043000 +0000" stop="20260421050000 +0000">
+    <title lang="id">Fokus Siang</title>
+    <desc lang="id">Program Berita Aktual dan Terkini Tentang Berbagai Isu Di Tanah Air, Meliputi Politik, Ekonomi, Hukum, Sosial, Budaya, Olah Raga, dan Lain-Lain.</desc>
+    <icon src="https://thumbor.prod.vidiocdn.com/cBZL7ITaJCof6cqtayFee2uJCX8=/287x162/filters:strip_icc():quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/image/205/indosiar-d9a3d0.jpg"/>
+  </programme>
+  <programme channel="205" start="20260421050000 +0000" stop="20260421063000 +0000">
+    <title lang="id">Kisah Nyata Siang : Aku Lumpuh Suamiku Main Gila</title>
+    <desc lang="id">FTV Yang Diambil Dari Kisah Kehidupan Sehari-Hari Pemirsa Yang Penuh Intrik, Konflik dan Pengkhianatan Untuk Memberikan Berbagai Pelajaran Hidup. Saksikan Setiap Hari Pukul 13.30 WIB, Hanya Di Indosiar.</desc>
+    <icon src="https://thumbor.prod.vidiocdn.com/cBZL7ITaJCof6cqtayFee2uJCX8=/287x162/filters:strip_icc():quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/image/205/indosiar-d9a3d0.jpg"/>
+  </programme>
+  <programme channel="205" start="20260421063000 +0000" stop="20260421080000 +0000">
+    <title lang="id">Kisah Nyata : Misteri Surat Beramplop Merah</title>
+    <desc lang="id">FTV Yang Diambil Dari Kisah Kehidupan Sehari-Hari Pemirsa Yang Penuh Intrik, Konflik dan Pengkhianatan Untuk Memberikan Berbagai Pelajaran Hidup.</desc>
+    <icon src="https://thumbor.prod.vidiocdn.com/cBZL7ITaJCof6cqtayFee2uJCX8=/287x162/filters:strip_icc():quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/image/205/indosiar-d9a3d0.jpg"/>
+  </programme>
+  <programme channel="205" start="20260421080000 +0000" stop="20260421100000 +0000">
+    <title lang="id">Kisah Nyata Spesial : Bukti Pengkhianatan Buatan Ai</title>
+    <desc lang="id">FTV Yang Diambil Dari Kisah Kehidupan Sehari-Hari Pemirsa Yang Penuh Intrik, Konflik dan Pengkhianatan Untuk Memberikan Berbagai Pelajaran Hidup.</desc>
+    <icon src="https://thumbor.prod.vidiocdn.com/cBZL7ITaJCof6cqtayFee2uJCX8=/287x162/filters:strip_icc():quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/image/205/indosiar-d9a3d0.jpg"/>
+  </programme>
+  <programme channel="205" start="20260421100000 +0000" stop="20260421120000 +0000">
+    <title lang="id">Merangkai Kisah Indah</title>
+    <desc lang="id">Mega Series Terbaru Raden Rakha dan Basmalah Gralind Di Indosiar "Merangkai Kisah Indah" Tayang Setiap Hari, Mulai Senin, 14 Juli 2025 Pukul 17:00 WIB. Kisah Derita Mutiara Yang Mencari Orangtua Kandungnya Karena Sewaktu Bayi Ditukar Oleh Ibu Angkatnya. Nasib Membawa Dirinya Bertemu Dengan Keluarga Yang Tanpa Dia Ketahui Adalah Orangtua Kandungnya dan Juga Bertemu Kenzo. Apakah Kenzo dan Mutiara Akan Berjodoh? Dibintangi Raden Rakha, Basmalah Gralind, Panji Saputra, Tsania Marwa, Gita Sinaga, Vayala Maulidina, Washifa, Haura Lathifa, dan Emiliano Cortizo. Saksikan Mega Series Terbaru Indosiar : Merangkai Kisah Indah, Tayang Setiap Hari, Mulai Senin, 14 Juli 2025 Pukul 17:00 WIB Hanya Di Indosiar.</desc>
+    <icon src="https://thumbor.prod.vidiocdn.com/WIl2jiaTLEzHnNAo61AGzfdEXh8=/287x162/filters:strip_icc():quality(70)/vidio-media-production/uploads/tv_program/thumbnail/389747/fc3ce1.jpg"/>
+  </programme>
+  <programme channel="205" start="20260421120000 +0000" stop="20260421160000 +0000">
+    <title lang="id">D' Academy 7 - Mega Konser Untuk Perempuan Indonesia</title>
+    <desc lang="id">Panggung Megah Konser D'Academy 7 Siap Digelar! Audisi Online dan Offline Telah Usai! Siapakah Yang Akan Lolos Ke Panggung Megah D'Academy 7? Saksikan D'Academy 7 Mulai Senin, 9 Juni, Setiap Senin-Jumat Live Pkl 20.00 WIB Hanya Di Indosiar. #Indosiarbawadangdutberkelasberkualitas</desc>
+    <icon src="https://thumbor.prod.vidiocdn.com/cBZL7ITaJCof6cqtayFee2uJCX8=/287x162/filters:strip_icc():quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/image/205/indosiar-d9a3d0.jpg"/>
+  </programme>
+  <programme channel="205" start="20260421160000 +0000" stop="20260421180000 +0000">
+    <title lang="id">Mega Series Action Asia : Heroes</title>
+    <desc lang="id">Sebuah Kisah Epic Yang Melegenda Perjuangan Sang Master Kungfu: Huo Yuan Jia, Memimipin Perlawanan Bangsanya Dalam Menghadapi Invasi Penjajah. Saksikan Penampilan Memukau: Vincent Zhao, Nikita Mao dan Bintang Laga Lainnya Dalam Mega Series Action Asia: Heroes, Mulai 14 Maret 2025, Pkl 23.00 WIB, Hanya Di Indosiar</desc>
+    <icon src="https://thumbor.prod.vidiocdn.com/cBZL7ITaJCof6cqtayFee2uJCX8=/287x162/filters:strip_icc():quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/image/205/indosiar-d9a3d0.jpg"/>
+  </programme>
+  <programme channel="205" start="20260421160000 +0000" stop="20260421180000 +0000">
+    <title lang="id">Mega Series Action Asia : Heroes</title>
+    <desc lang="id">Sebuah Kisah Epic Yang Melegenda Perjuangan Sang Master Kungfu: Huo Yuan Jia, Memimipin Perlawanan Bangsanya Dalam Menghadapi Invasi Penjajah. Saksikan Penampilan Memukau: Vincent Zhao, Nikita Mao dan Bintang Laga Lainnya Dalam Mega Series Action Asia: Heroes, Mulai 14 Maret 2025, Pkl 23.00 WIB, Hanya Di Indosiar</desc>
+    <icon src="https://thumbor.prod.vidiocdn.com/cBZL7ITaJCof6cqtayFee2uJCX8=/287x162/filters:strip_icc():quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/image/205/indosiar-d9a3d0.jpg"/>
+  </programme>
+  <programme channel="205" start="20260421180000 +0000" stop="20260421193000 +0000">
+    <title lang="id">Mega Film Asia : Once Upon A Time In China Iii</title>
+    <desc lang="id">Mega Film Asia Adalah Program Yang Memutarkan Film-Film Asia Yang Ditayangkan Di Indosiar. Acara Ini Ditayangkan Perdana Pada Tahun 1996 Silam.</desc>
+    <icon src="https://thumbor.prod.vidiocdn.com/cBZL7ITaJCof6cqtayFee2uJCX8=/287x162/filters:strip_icc():quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/image/205/indosiar-d9a3d0.jpg"/>
+  </programme>
+  <programme channel="205" start="20260421193000 +0000" stop="20260421210000 +0000">
+    <title lang="id">Mega Film Asia : Wolf Warrior</title>
+    <desc lang="id">Mega Film Asia Adalah Program Yang Memutarkan Film-Film Asia Yang Ditayangkan Di Indosiar. Acara Ini Ditayangkan Perdana Pada Tahun 1996 Silam.</desc>
+    <icon src="https://thumbor.prod.vidiocdn.com/cBZL7ITaJCof6cqtayFee2uJCX8=/287x162/filters:strip_icc():quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/image/205/indosiar-d9a3d0.jpg"/>
+  </programme>
+  <programme channel="205" start="20260421210000 +0000" stop="20260421213000 +0000">
+    <title lang="id">Mukjizat Masih Ada</title>
+    <desc lang="id">Program Rohani Kristiani Tentang Kisah Kehidupan, Disajikan Melalui Reka Adegan dan Testimoni Narasumber Serta Khotbah Yang Disampaikan Oleh Pendeta</desc>
+    <icon src="https://thumbor.prod.vidiocdn.com/cBZL7ITaJCof6cqtayFee2uJCX8=/287x162/filters:strip_icc():quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/image/205/indosiar-d9a3d0.jpg"/>
+  </programme>
+  <programme channel="205" start="20260421213000 +0000" stop="20260421230000 +0000">
+    <title lang="id">Fokus Pagi</title>
+    <desc lang="id">Berita Lengkap dan Terkini Dari Dalam dan Luar Negeri Seputar Isu Politik, Ekonomi, Hukum, Kriminal, Sosial Budaya, Olahraga, dan Lain-Lain.</desc>
+    <icon src="https://thumbor.prod.vidiocdn.com/cBZL7ITaJCof6cqtayFee2uJCX8=/287x162/filters:strip_icc():quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/image/205/indosiar-d9a3d0.jpg"/>
+  </programme>
+  <programme channel="205" start="20260421230000 +0000" stop="20260422010000 +0000">
+    <title lang="id">Merangkai Kisah Indah</title>
+    <desc lang="id">Mega Series Terbaru Raden Rakha dan Basmalah Gralind Di Indosiar "Merangkai Kisah Indah" Tayang Setiap Hari, Mulai Senin, 14 Juli 2025 Pukul 17:00 WIB. Kisah Derita Mutiara Yang Mencari Orangtua Kandungnya Karena Sewaktu Bayi Ditukar Oleh Ibu Angkatnya. Nasib Membawa Dirinya Bertemu Dengan Keluarga Yang Tanpa Dia Ketahui Adalah Orangtua Kandungnya dan Juga Bertemu Kenzo. Apakah Kenzo dan Mutiara Akan Berjodoh? Dibintangi Raden Rakha, Basmalah Gralind, Panji Saputra, Tsania Marwa, Gita Sinaga, Vayala Maulidina, Washifa, Haura Lathifa, dan Emiliano Cortizo. Saksikan Mega Series Terbaru Indosiar : Merangkai Kisah Indah, Tayang Setiap Hari, Mulai Senin, 14 Juli 2025 Pukul 17:00 WIB Hanya Di Indosiar.</desc>
+    <icon src="https://thumbor.prod.vidiocdn.com/WIl2jiaTLEzHnNAo61AGzfdEXh8=/287x162/filters:strip_icc():quality(70)/vidio-media-production/uploads/tv_program/thumbnail/389747/fc3ce1.jpg"/>
+  </programme>
+  <programme channel="205" start="20260422010000 +0000" stop="20260422030000 +0000">
+    <title lang="id">Kisah Nyata Pagi : Dosa Yang Disimpan, Istri Dikorbankan</title>
+    <desc lang="id">FTV Yang Diambil Dari Kisah Kehidupan Sehari-Hari Pemirsa Yang Penuh Intrik, Konflik dan Pengkhianatan Untuk Memberikan Berbagai Pelajaran Hidup.</desc>
+    <icon src="https://thumbor.prod.vidiocdn.com/cBZL7ITaJCof6cqtayFee2uJCX8=/287x162/filters:strip_icc():quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/image/205/indosiar-d9a3d0.jpg"/>
+  </programme>
+  <programme channel="205" start="20260422030000 +0000" stop="20260422040000 +0000">
+    <title lang="id">Hot Kiss</title>
+    <desc lang="id">Berita Ter-Hot dan Terupdate Seputar Artis Ternama Tanah Air Yang Dikemas Secara Lugas dan Menarik. Saksikan Setiap Hari Rabu &amp; Kamis Pukul 08.00-10.30 WIB, Hanya Di Indosiar</desc>
+    <icon src="https://thumbor.prod.vidiocdn.com/cBZL7ITaJCof6cqtayFee2uJCX8=/287x162/filters:strip_icc():quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/image/205/indosiar-d9a3d0.jpg"/>
+  </programme>
+  <programme channel="205" start="20260422040000 +0000" stop="20260422043000 +0000">
+    <title lang="id">Patroli Siang</title>
+    <desc lang="id">Berita Terkini Seputar Peristiwa Kriminal, Tindak Kejahatan, Orang Hilang, Hingga Bencana Alam.</desc>
+    <icon src="https://thumbor.prod.vidiocdn.com/cBZL7ITaJCof6cqtayFee2uJCX8=/287x162/filters:strip_icc():quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/image/205/indosiar-d9a3d0.jpg"/>
+  </programme>
+  <programme channel="205" start="20260422043000 +0000" stop="20260422050000 +0000">
+    <title lang="id">Fokus Siang</title>
+    <desc lang="id">Program Berita Aktual dan Terkini Tentang Berbagai Isu Di Tanah Air, Meliputi Politik, Ekonomi, Hukum, Sosial, Budaya, Olah Raga, dan Lain-Lain.</desc>
+    <icon src="https://thumbor.prod.vidiocdn.com/cBZL7ITaJCof6cqtayFee2uJCX8=/287x162/filters:strip_icc():quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/image/205/indosiar-d9a3d0.jpg"/>
+  </programme>
+  <programme channel="205" start="20260422050000 +0000" stop="20260422063000 +0000">
+    <title lang="id">Kisah Nyata Siang : Misteri Kamar Yang Menghancurkan Hidupku</title>
+    <desc lang="id">FTV Yang Diambil Dari Kisah Kehidupan Sehari-Hari Pemirsa Yang Penuh Intrik, Konflik dan Pengkhianatan Untuk Memberikan Berbagai Pelajaran Hidup. Saksikan Setiap Hari Pukul 13.30 WIB, Hanya Di Indosiar.</desc>
+    <icon src="https://thumbor.prod.vidiocdn.com/cBZL7ITaJCof6cqtayFee2uJCX8=/287x162/filters:strip_icc():quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/image/205/indosiar-d9a3d0.jpg"/>
+  </programme>
+  <programme channel="205" start="20260422063000 +0000" stop="20260422080000 +0000">
+    <title lang="id">Kisah Nyata : Teror Penggoda Rumah Tanggaku</title>
+    <desc lang="id">FTV Yang Diambil Dari Kisah Kehidupan Sehari-Hari Pemirsa Yang Penuh Intrik, Konflik dan Pengkhianatan Untuk Memberikan Berbagai Pelajaran Hidup.</desc>
+    <icon src="https://thumbor.prod.vidiocdn.com/cBZL7ITaJCof6cqtayFee2uJCX8=/287x162/filters:strip_icc():quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/image/205/indosiar-d9a3d0.jpg"/>
+  </programme>
+  <programme channel="205" start="20260422080000 +0000" stop="20260422103000 +0000">
+    <title lang="id">BRI Superleague 2025/26 - Psim Yogyakarta Vs Persija Jakarta</title>
+    <desc lang="id">Saksikan! BRI Super League 2025/26 - Is Back!" 18 Klub Terbaik Siap Bertarung Di Kasta Tertinggi Sepak Bola Indonesia! Pertandingan Semakin Seru! Jangan Lewatkan BRI Super League 2025/26 Mulai 8 Agustus 2025, Pkl 15.00 &amp; 18.30 WIB, Live &amp; Eksklusif Hanya Di Indosiar dan Vidio #Indosiarrumahsepakbolaindonesia</desc>
+    <icon src="https://thumbor.prod.vidiocdn.com/cBZL7ITaJCof6cqtayFee2uJCX8=/287x162/filters:strip_icc():quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/image/205/indosiar-d9a3d0.jpg"/>
+  </programme>
+  <programme channel="205" start="20260422103000 +0000" stop="20260422120000 +0000">
+    <title lang="id">Merangkai Kisah Indah</title>
+    <desc lang="id">Mega Series Terbaru Raden Rakha dan Basmalah Gralind Di Indosiar "Merangkai Kisah Indah" Tayang Setiap Hari, Mulai Senin, 14 Juli 2025 Pukul 17:00 WIB. Kisah Derita Mutiara Yang Mencari Orangtua Kandungnya Karena Sewaktu Bayi Ditukar Oleh Ibu Angkatnya. Nasib Membawa Dirinya Bertemu Dengan Keluarga Yang Tanpa Dia Ketahui Adalah Orangtua Kandungnya dan Juga Bertemu Kenzo. Apakah Kenzo dan Mutiara Akan Berjodoh? Dibintangi Raden Rakha, Basmalah Gralind, Panji Saputra, Tsania Marwa, Gita Sinaga, Vayala Maulidina, Washifa, Haura Lathifa, dan Emiliano Cortizo. Saksikan Mega Series Terbaru Indosiar : Merangkai Kisah Indah, Tayang Setiap Hari, Mulai Senin, 14 Juli 2025 Pukul 17:00 WIB Hanya Di Indosiar.</desc>
+    <icon src="https://thumbor.prod.vidiocdn.com/WIl2jiaTLEzHnNAo61AGzfdEXh8=/287x162/filters:strip_icc():quality(70)/vidio-media-production/uploads/tv_program/thumbnail/389747/fc3ce1.jpg"/>
+  </programme>
+  <programme channel="205" start="20260422120000 +0000" stop="20260422160000 +0000">
+    <title lang="id">Band Academy</title>
+    <desc lang="id">Panggung Megah Band Academy Siap Dimulai! Setelah Melalui Proses Seleksi Yang Ketat, Kini 30 Academia Terpilih Siap Berkompetisi Untuk Membuktikan Talenta, dan Aksi Panggung Spektakuler Demi Musik Masa Depan. Siapakah Band Yang Akan Berhasil Lolos Ke Panggung Megah Band Academy? Saksikan Band Academy Mulai Selasa, 7 April 2026, Setiap Rabu - Jumat Pukul 19.00 WIB Live Hanya Di Indosiar.</desc>
+    <icon src="https://thumbor.prod.vidiocdn.com/cBZL7ITaJCof6cqtayFee2uJCX8=/287x162/filters:strip_icc():quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/image/205/indosiar-d9a3d0.jpg"/>
+  </programme>
+  <programme channel="205" start="20260422160000 +0000" stop="20260422180000 +0000">
+    <title lang="id">Mega Series Action Asia : Heroes</title>
+    <desc lang="id">Sebuah Kisah Epic Yang Melegenda Perjuangan Sang Master Kungfu: Huo Yuan Jia, Memimipin Perlawanan Bangsanya Dalam Menghadapi Invasi Penjajah. Saksikan Penampilan Memukau: Vincent Zhao, Nikita Mao dan Bintang Laga Lainnya Dalam Mega Series Action Asia: Heroes, Mulai 14 Maret 2025, Pkl 23.00 WIB, Hanya Di Indosiar</desc>
+    <icon src="https://thumbor.prod.vidiocdn.com/cBZL7ITaJCof6cqtayFee2uJCX8=/287x162/filters:strip_icc():quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/image/205/indosiar-d9a3d0.jpg"/>
+  </programme>
+  <programme channel="205" start="20260422160000 +0000" stop="20260422180000 +0000">
+    <title lang="id">Mega Series Action Asia : Heroes</title>
+    <desc lang="id">Sebuah Kisah Epic Yang Melegenda Perjuangan Sang Master Kungfu: Huo Yuan Jia, Memimipin Perlawanan Bangsanya Dalam Menghadapi Invasi Penjajah. Saksikan Penampilan Memukau: Vincent Zhao, Nikita Mao dan Bintang Laga Lainnya Dalam Mega Series Action Asia: Heroes, Mulai 14 Maret 2025, Pkl 23.00 WIB, Hanya Di Indosiar</desc>
+    <icon src="https://thumbor.prod.vidiocdn.com/cBZL7ITaJCof6cqtayFee2uJCX8=/287x162/filters:strip_icc():quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/image/205/indosiar-d9a3d0.jpg"/>
+  </programme>
+  <programme channel="205" start="20260422180000 +0000" stop="20260422200000 +0000">
+    <title lang="id">Mega Film Asia : Once Upon A Time In China Iv</title>
+    <desc lang="id">Mega Film Asia Adalah Program Yang Memutarkan Film-Film Asia Yang Ditayangkan Di Indosiar. Acara Ini Ditayangkan Perdana Pada Tahun 1996 Silam.</desc>
+    <icon src="https://thumbor.prod.vidiocdn.com/cBZL7ITaJCof6cqtayFee2uJCX8=/287x162/filters:strip_icc():quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/image/205/indosiar-d9a3d0.jpg"/>
+  </programme>
+  <programme channel="205" start="20260422200000 +0000" stop="20260422213000 +0000">
+    <title lang="id">Mega Film Asia : Cruel War</title>
+    <desc lang="id">Mega Film Asia Adalah Program Yang Memutarkan Film-Film Asia Yang Ditayangkan Di Indosiar. Acara Ini Ditayangkan Perdana Pada Tahun 1996 Silam.</desc>
+    <icon src="https://thumbor.prod.vidiocdn.com/cBZL7ITaJCof6cqtayFee2uJCX8=/287x162/filters:strip_icc():quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/image/205/indosiar-d9a3d0.jpg"/>
+  </programme>
+  <programme channel="205" start="20260422213000 +0000" stop="20260422230000 +0000">
+    <title lang="id">Fokus Pagi</title>
+    <desc lang="id">Berita Lengkap dan Terkini Dari Dalam dan Luar Negeri Seputar Isu Politik, Ekonomi, Hukum, Kriminal, Sosial Budaya, Olahraga, dan Lain-Lain.</desc>
+    <icon src="https://thumbor.prod.vidiocdn.com/cBZL7ITaJCof6cqtayFee2uJCX8=/287x162/filters:strip_icc():quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/image/205/indosiar-d9a3d0.jpg"/>
+  </programme>
+  <programme channel="205" start="20260422230000 +0000" stop="20260423003000 +0000">
+    <title lang="id">Merangkai Kisah Indah</title>
+    <desc lang="id">Mega Series Terbaru Raden Rakha dan Basmalah Gralind Di Indosiar "Merangkai Kisah Indah" Tayang Setiap Hari, Mulai Senin, 14 Juli 2025 Pukul 17:00 WIB. Kisah Derita Mutiara Yang Mencari Orangtua Kandungnya Karena Sewaktu Bayi Ditukar Oleh Ibu Angkatnya. Nasib Membawa Dirinya Bertemu Dengan Keluarga Yang Tanpa Dia Ketahui Adalah Orangtua Kandungnya dan Juga Bertemu Kenzo. Apakah Kenzo dan Mutiara Akan Berjodoh? Dibintangi Raden Rakha, Basmalah Gralind, Panji Saputra, Tsania Marwa, Gita Sinaga, Vayala Maulidina, Washifa, Haura Lathifa, dan Emiliano Cortizo. Saksikan Mega Series Terbaru Indosiar : Merangkai Kisah Indah, Tayang Setiap Hari, Mulai Senin, 14 Juli 2025 Pukul 17:00 WIB Hanya Di Indosiar.</desc>
+    <icon src="https://thumbor.prod.vidiocdn.com/WIl2jiaTLEzHnNAo61AGzfdEXh8=/287x162/filters:strip_icc():quality(70)/vidio-media-production/uploads/tv_program/thumbnail/389747/fc3ce1.jpg"/>
+  </programme>
+  <programme channel="205" start="20260423003000 +0000" stop="20260423020000 +0000">
+    <title lang="id">Kisah Nyata Pagi : Permainan Istri Yang Pintar Berdusta</title>
+    <desc lang="id">FTV Yang Diambil Dari Kisah Kehidupan Sehari-Hari Pemirsa Yang Penuh Intrik, Konflik dan Pengkhianatan Untuk Memberikan Berbagai Pelajaran Hidup.</desc>
+    <icon src="https://thumbor.prod.vidiocdn.com/cBZL7ITaJCof6cqtayFee2uJCX8=/287x162/filters:strip_icc():quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/image/205/indosiar-d9a3d0.jpg"/>
+  </programme>
+  <programme channel="205" start="20260423020000 +0000" stop="20260423033000 +0000">
+    <title lang="id">Kisah Nyata Pagi : Petaka Sakit Hati</title>
+    <desc lang="id">FTV Yang Diambil Dari Kisah Kehidupan Sehari-Hari Pemirsa Yang Penuh Intrik, Konflik dan Pengkhianatan Untuk Memberikan Berbagai Pelajaran Hidup.</desc>
+    <icon src="https://thumbor.prod.vidiocdn.com/cBZL7ITaJCof6cqtayFee2uJCX8=/287x162/filters:strip_icc():quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/image/205/indosiar-d9a3d0.jpg"/>
+  </programme>
+  <programme channel="205" start="20260423033000 +0000" stop="20260423040000 +0000">
+    <title lang="id">Hot Kiss</title>
+    <desc lang="id">Berita Ter-Hot dan Terupdate Seputar Artis Ternama Tanah Air Yang Dikemas Secara Lugas dan Menarik. Saksikan Setiap Hari Rabu &amp; Kamis Pukul 08.00-10.30 WIB, Hanya Di Indosiar</desc>
+    <icon src="https://thumbor.prod.vidiocdn.com/cBZL7ITaJCof6cqtayFee2uJCX8=/287x162/filters:strip_icc():quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/image/205/indosiar-d9a3d0.jpg"/>
+  </programme>
+  <programme channel="205" start="20260423040000 +0000" stop="20260423043000 +0000">
+    <title lang="id">Patroli Siang</title>
+    <desc lang="id">Berita Terkini Seputar Peristiwa Kriminal, Tindak Kejahatan, Orang Hilang, Hingga Bencana Alam.</desc>
+    <icon src="https://thumbor.prod.vidiocdn.com/cBZL7ITaJCof6cqtayFee2uJCX8=/287x162/filters:strip_icc():quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/image/205/indosiar-d9a3d0.jpg"/>
+  </programme>
+  <programme channel="205" start="20260423043000 +0000" stop="20260423050000 +0000">
+    <title lang="id">Fokus Siang</title>
+    <desc lang="id">Program Berita Aktual dan Terkini Tentang Berbagai Isu Di Tanah Air, Meliputi Politik, Ekonomi, Hukum, Sosial, Budaya, Olah Raga, dan Lain-Lain.</desc>
+    <icon src="https://thumbor.prod.vidiocdn.com/cBZL7ITaJCof6cqtayFee2uJCX8=/287x162/filters:strip_icc():quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/image/205/indosiar-d9a3d0.jpg"/>
+  </programme>
+  <programme channel="205" start="20260423050000 +0000" stop="20260423063000 +0000">
+    <title lang="id">Kisah Nyata Siang : Tetanggaku Pembawa Petaka</title>
+    <desc lang="id">FTV Yang Diambil Dari Kisah Kehidupan Sehari-Hari Pemirsa Yang Penuh Intrik, Konflik dan Pengkhianatan Untuk Memberikan Berbagai Pelajaran Hidup. Saksikan Setiap Hari Pukul 13.30 WIB, Hanya Di Indosiar.</desc>
+    <icon src="https://thumbor.prod.vidiocdn.com/cBZL7ITaJCof6cqtayFee2uJCX8=/287x162/filters:strip_icc():quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/image/205/indosiar-d9a3d0.jpg"/>
+  </programme>
+  <programme channel="205" start="20260423063000 +0000" stop="20260423080000 +0000">
+    <title lang="id">Kisah Nyata : Saat Suamiku Bermain Api, Aku Pun Ikut Terbakar</title>
+    <desc lang="id">FTV Yang Diambil Dari Kisah Kehidupan Sehari-Hari Pemirsa Yang Penuh Intrik, Konflik dan Pengkhianatan Untuk Memberikan Berbagai Pelajaran Hidup.</desc>
+    <icon src="https://thumbor.prod.vidiocdn.com/cBZL7ITaJCof6cqtayFee2uJCX8=/287x162/filters:strip_icc():quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/image/205/indosiar-d9a3d0.jpg"/>
+  </programme>
+  <programme channel="205" start="20260423080000 +0000" stop="20260423103000 +0000">
+    <title lang="id">BRI Superleague 2025/26 - Persita Vs Bali United Fc</title>
+    <desc lang="id">Saksikan! BRI Super League 2025/26 - Is Back!" 18 Klub Terbaik Siap Bertarung Di Kasta Tertinggi Sepak Bola Indonesia! Pertandingan Semakin Seru! Jangan Lewatkan BRI Super League 2025/26 Mulai 8 Agustus 2025, Pkl 15.00 &amp; 18.30 WIB, Live &amp; Eksklusif Hanya Di Indosiar dan Vidio #Indosiarrumahsepakbolaindonesia</desc>
+    <icon src="https://thumbor.prod.vidiocdn.com/cBZL7ITaJCof6cqtayFee2uJCX8=/287x162/filters:strip_icc():quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/image/205/indosiar-d9a3d0.jpg"/>
+  </programme>
+  <programme channel="205" start="20260423103000 +0000" stop="20260423113000 +0000">
+    <title lang="id">Merangkai Kisah Indah</title>
+    <desc lang="id">Mega Series Terbaru Raden Rakha dan Basmalah Gralind Di Indosiar "Merangkai Kisah Indah" Tayang Setiap Hari, Mulai Senin, 14 Juli 2025 Pukul 17:00 WIB. Kisah Derita Mutiara Yang Mencari Orangtua Kandungnya Karena Sewaktu Bayi Ditukar Oleh Ibu Angkatnya. Nasib Membawa Dirinya Bertemu Dengan Keluarga Yang Tanpa Dia Ketahui Adalah Orangtua Kandungnya dan Juga Bertemu Kenzo. Apakah Kenzo dan Mutiara Akan Berjodoh? Dibintangi Raden Rakha, Basmalah Gralind, Panji Saputra, Tsania Marwa, Gita Sinaga, Vayala Maulidina, Washifa, Haura Lathifa, dan Emiliano Cortizo. Saksikan Mega Series Terbaru Indosiar : Merangkai Kisah Indah, Tayang Setiap Hari, Mulai Senin, 14 Juli 2025 Pukul 17:00 WIB Hanya Di Indosiar.</desc>
+    <icon src="https://thumbor.prod.vidiocdn.com/WIl2jiaTLEzHnNAo61AGzfdEXh8=/287x162/filters:strip_icc():quality(70)/vidio-media-production/uploads/tv_program/thumbnail/389747/fc3ce1.jpg"/>
+  </programme>
+  <programme channel="205" start="20260423113000 +0000" stop="20260423140000 +0000">
+    <title lang="id">BRI Superleague 2025/26 - Malut United Fc Vs Persebaya Surabaya</title>
+    <desc lang="id">Saksikan! BRI Super League 2025/26 - Is Back!" 18 Klub Terbaik Siap Bertarung Di Kasta Tertinggi Sepak Bola Indonesia! Pertandingan Semakin Seru! Jangan Lewatkan BRI Super League 2025/26 Mulai 8 Agustus 2025, Pkl 15.00 &amp; 18.30 WIB, Live &amp; Eksklusif Hanya Di Indosiar dan Vidio #Indosiarrumahsepakbolaindonesia</desc>
+    <icon src="https://thumbor.prod.vidiocdn.com/cBZL7ITaJCof6cqtayFee2uJCX8=/287x162/filters:strip_icc():quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/image/205/indosiar-d9a3d0.jpg"/>
+  </programme>
+  <programme channel="205" start="20260423140000 +0000" stop="20260423160000 +0000">
+    <title lang="id">BRI Superleague 2025/26 - Psm Makassar Vs Persik Kediri</title>
+    <desc lang="id">Saksikan! BRI Super League 2025/26 - Is Back!" 18 Klub Terbaik Siap Bertarung Di Kasta Tertinggi Sepak Bola Indonesia! Pertandingan Semakin Seru! Jangan Lewatkan BRI Super League 2025/26 Mulai 8 Agustus 2025, Pkl 15.00 &amp; 18.30 WIB, Live &amp; Eksklusif Hanya Di Indosiar dan Vidio #Indosiarrumahsepakbolaindonesia</desc>
+    <icon src="https://thumbor.prod.vidiocdn.com/cBZL7ITaJCof6cqtayFee2uJCX8=/287x162/filters:strip_icc():quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/image/205/indosiar-d9a3d0.jpg"/>
+  </programme>
+  <programme channel="205" start="20260423160000 +0000" stop="20260423180000 +0000">
+    <title lang="id">Mega Series Action Asia : Heroes</title>
+    <desc lang="id">Sebuah Kisah Epic Yang Melegenda Perjuangan Sang Master Kungfu: Huo Yuan Jia, Memimipin Perlawanan Bangsanya Dalam Menghadapi Invasi Penjajah. Saksikan Penampilan Memukau: Vincent Zhao, Nikita Mao dan Bintang Laga Lainnya Dalam Mega Series Action Asia: Heroes, Mulai 14 Maret 2025, Pkl 23.00 WIB, Hanya Di Indosiar</desc>
+    <icon src="https://thumbor.prod.vidiocdn.com/cBZL7ITaJCof6cqtayFee2uJCX8=/287x162/filters:strip_icc():quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/image/205/indosiar-d9a3d0.jpg"/>
+  </programme>
+  <programme channel="205" start="20260423160000 +0000" stop="20260423180000 +0000">
+    <title lang="id">Mega Series Action Asia : Heroes</title>
+    <desc lang="id">Sebuah Kisah Epic Yang Melegenda Perjuangan Sang Master Kungfu: Huo Yuan Jia, Memimipin Perlawanan Bangsanya Dalam Menghadapi Invasi Penjajah. Saksikan Penampilan Memukau: Vincent Zhao, Nikita Mao dan Bintang Laga Lainnya Dalam Mega Series Action Asia: Heroes, Mulai 14 Maret 2025, Pkl 23.00 WIB, Hanya Di Indosiar</desc>
+    <icon src="https://thumbor.prod.vidiocdn.com/cBZL7ITaJCof6cqtayFee2uJCX8=/287x162/filters:strip_icc():quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/image/205/indosiar-d9a3d0.jpg"/>
+  </programme>
+  <programme channel="205" start="20260423180000 +0000" stop="20260423200000 +0000">
+    <title lang="id">Mega Film Asia : Once Upon A Time In China V</title>
+    <desc lang="id">Mega Film Asia Adalah Program Yang Memutarkan Film-Film Asia Yang Ditayangkan Di Indosiar. Acara Ini Ditayangkan Perdana Pada Tahun 1996 Silam.</desc>
+    <icon src="https://thumbor.prod.vidiocdn.com/cBZL7ITaJCof6cqtayFee2uJCX8=/287x162/filters:strip_icc():quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/image/205/indosiar-d9a3d0.jpg"/>
+  </programme>
+  <programme channel="205" start="20260423200000 +0000" stop="20260423213000 +0000">
+    <title lang="id">Mega Film Asia : Wing Chun</title>
+    <desc lang="id">Mega Film Asia Adalah Program Yang Memutarkan Film-Film Asia Yang Ditayangkan Di Indosiar. Acara Ini Ditayangkan Perdana Pada Tahun 1996 Silam.</desc>
+    <icon src="https://thumbor.prod.vidiocdn.com/cBZL7ITaJCof6cqtayFee2uJCX8=/287x162/filters:strip_icc():quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/image/205/indosiar-d9a3d0.jpg"/>
+  </programme>
+  <programme channel="205" start="20260423213000 +0000" stop="20260423230000 +0000">
+    <title lang="id">Fokus Pagi</title>
+    <desc lang="id">Berita Lengkap dan Terkini Dari Dalam dan Luar Negeri Seputar Isu Politik, Ekonomi, Hukum, Kriminal, Sosial Budaya, Olahraga, dan Lain-Lain.</desc>
+    <icon src="https://thumbor.prod.vidiocdn.com/cBZL7ITaJCof6cqtayFee2uJCX8=/287x162/filters:strip_icc():quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/image/205/indosiar-d9a3d0.jpg"/>
+  </programme>
+  <programme channel="205" start="20260423230000 +0000" stop="20260424000000 +0000">
+    <title lang="id">Merangkai Kisah Indah</title>
+    <desc lang="id">Mega Series Terbaru Raden Rakha dan Basmalah Gralind Di Indosiar "Merangkai Kisah Indah" Tayang Setiap Hari, Mulai Senin, 14 Juli 2025 Pukul 17:00 WIB. Kisah Derita Mutiara Yang Mencari Orangtua Kandungnya Karena Sewaktu Bayi Ditukar Oleh Ibu Angkatnya. Nasib Membawa Dirinya Bertemu Dengan Keluarga Yang Tanpa Dia Ketahui Adalah Orangtua Kandungnya dan Juga Bertemu Kenzo. Apakah Kenzo dan Mutiara Akan Berjodoh? Dibintangi Raden Rakha, Basmalah Gralind, Panji Saputra, Tsania Marwa, Gita Sinaga, Vayala Maulidina, Washifa, Haura Lathifa, dan Emiliano Cortizo. Saksikan Mega Series Terbaru Indosiar : Merangkai Kisah Indah, Tayang Setiap Hari, Mulai Senin, 14 Juli 2025 Pukul 17:00 WIB Hanya Di Indosiar.</desc>
+    <icon src="https://thumbor.prod.vidiocdn.com/WIl2jiaTLEzHnNAo61AGzfdEXh8=/287x162/filters:strip_icc():quality(70)/vidio-media-production/uploads/tv_program/thumbnail/389747/fc3ce1.jpg"/>
+  </programme>
+  <programme channel="205" start="20260424000000 +0000" stop="20260424013000 +0000">
+    <title lang="id">Kisah Nyata Pagi : Wanita Penuh Drama Yang Terperangkap Obsesinya Sendiri</title>
+    <desc lang="id">FTV Yang Diambil Dari Kisah Kehidupan Sehari-Hari Pemirsa Yang Penuh Intrik, Konflik dan Pengkhianatan Untuk Memberikan Berbagai Pelajaran Hidup.</desc>
+    <icon src="https://thumbor.prod.vidiocdn.com/cBZL7ITaJCof6cqtayFee2uJCX8=/287x162/filters:strip_icc():quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/image/205/indosiar-d9a3d0.jpg"/>
+  </programme>
+  <programme channel="205" start="20260424013000 +0000" stop="20260424030000 +0000">
+    <title lang="id">Kisah Nyata Pagi : Siapa Peneror Hidupku?</title>
+    <desc lang="id">FTV Yang Diambil Dari Kisah Kehidupan Sehari-Hari Pemirsa Yang Penuh Intrik, Konflik dan Pengkhianatan Untuk Memberikan Berbagai Pelajaran Hidup.</desc>
+    <icon src="https://thumbor.prod.vidiocdn.com/cBZL7ITaJCof6cqtayFee2uJCX8=/287x162/filters:strip_icc():quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/image/205/indosiar-d9a3d0.jpg"/>
+  </programme>
+  <programme channel="205" start="20260424030000 +0000" stop="20260424040000 +0000">
+    <title lang="id">Hot Kiss</title>
+    <desc lang="id">Berita Ter-Hot dan Terupdate Seputar Artis Ternama Tanah Air Yang Dikemas Secara Lugas dan Menarik. Saksikan Setiap Hari Rabu &amp; Kamis Pukul 08.00-10.30 WIB, Hanya Di Indosiar</desc>
+    <icon src="https://thumbor.prod.vidiocdn.com/cBZL7ITaJCof6cqtayFee2uJCX8=/287x162/filters:strip_icc():quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/image/205/indosiar-d9a3d0.jpg"/>
+  </programme>
+  <programme channel="205" start="20260424040000 +0000" stop="20260424043000 +0000">
+    <title lang="id">Patroli Siang</title>
+    <desc lang="id">Berita Terkini Seputar Peristiwa Kriminal, Tindak Kejahatan, Orang Hilang, Hingga Bencana Alam.</desc>
+    <icon src="https://thumbor.prod.vidiocdn.com/cBZL7ITaJCof6cqtayFee2uJCX8=/287x162/filters:strip_icc():quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/image/205/indosiar-d9a3d0.jpg"/>
+  </programme>
+  <programme channel="205" start="20260424043000 +0000" stop="20260424050000 +0000">
+    <title lang="id">Fokus Siang</title>
+    <desc lang="id">Program Berita Aktual dan Terkini Tentang Berbagai Isu Di Tanah Air, Meliputi Politik, Ekonomi, Hukum, Sosial, Budaya, Olah Raga, dan Lain-Lain.</desc>
+    <icon src="https://thumbor.prod.vidiocdn.com/cBZL7ITaJCof6cqtayFee2uJCX8=/287x162/filters:strip_icc():quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/image/205/indosiar-d9a3d0.jpg"/>
+  </programme>
+  <programme channel="205" start="20260424050000 +0000" stop="20260424063000 +0000">
+    <title lang="id">Kisah Nyata Siang : Rahasia Yang Harus Aku Sembunyikan</title>
+    <desc lang="id">FTV Yang Diambil Dari Kisah Kehidupan Sehari-Hari Pemirsa Yang Penuh Intrik, Konflik dan Pengkhianatan Untuk Memberikan Berbagai Pelajaran Hidup. Saksikan Setiap Hari Pukul 13.30 WIB, Hanya Di Indosiar.</desc>
+    <icon src="https://thumbor.prod.vidiocdn.com/cBZL7ITaJCof6cqtayFee2uJCX8=/287x162/filters:strip_icc():quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/image/205/indosiar-d9a3d0.jpg"/>
+  </programme>
+  <programme channel="205" start="20260424063000 +0000" stop="20260424080000 +0000">
+    <title lang="id">Kisah Nyata : Aku Imbas Dari Rahasia Masa Lalu</title>
+    <desc lang="id">FTV Yang Diambil Dari Kisah Kehidupan Sehari-Hari Pemirsa Yang Penuh Intrik, Konflik dan Pengkhianatan Untuk Memberikan Berbagai Pelajaran Hidup.</desc>
+    <icon src="https://thumbor.prod.vidiocdn.com/cBZL7ITaJCof6cqtayFee2uJCX8=/287x162/filters:strip_icc():quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/image/205/indosiar-d9a3d0.jpg"/>
+  </programme>
+  <programme channel="205" start="20260424080000 +0000" stop="20260424103000 +0000">
+    <title lang="id">BRI Superleague 2025/26 - Persijap Jepara Vs Psbs Biak</title>
+    <desc lang="id">Saksikan! BRI Super League 2025/26 - Is Back!" 18 Klub Terbaik Siap Bertarung Di Kasta Tertinggi Sepak Bola Indonesia! Pertandingan Semakin Seru! Jangan Lewatkan BRI Super League 2025/26 Mulai 8 Agustus 2025, Pkl 15.00 &amp; 18.30 WIB, Live &amp; Eksklusif Hanya Di Indosiar dan Vidio #Indosiarrumahsepakbolaindonesia</desc>
+    <icon src="https://thumbor.prod.vidiocdn.com/cBZL7ITaJCof6cqtayFee2uJCX8=/287x162/filters:strip_icc():quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/image/205/indosiar-d9a3d0.jpg"/>
+  </programme>
+  <programme channel="205" start="20260424103000 +0000" stop="20260424113000 +0000">
+    <title lang="id">Merangkai Kisah Indah</title>
+    <desc lang="id">Mega Series Terbaru Raden Rakha dan Basmalah Gralind Di Indosiar "Merangkai Kisah Indah" Tayang Setiap Hari, Mulai Senin, 14 Juli 2025 Pukul 17:00 WIB. Kisah Derita Mutiara Yang Mencari Orangtua Kandungnya Karena Sewaktu Bayi Ditukar Oleh Ibu Angkatnya. Nasib Membawa Dirinya Bertemu Dengan Keluarga Yang Tanpa Dia Ketahui Adalah Orangtua Kandungnya dan Juga Bertemu Kenzo. Apakah Kenzo dan Mutiara Akan Berjodoh? Dibintangi Raden Rakha, Basmalah Gralind, Panji Saputra, Tsania Marwa, Gita Sinaga, Vayala Maulidina, Washifa, Haura Lathifa, dan Emiliano Cortizo. Saksikan Mega Series Terbaru Indosiar : Merangkai Kisah Indah, Tayang Setiap Hari, Mulai Senin, 14 Juli 2025 Pukul 17:00 WIB Hanya Di Indosiar.</desc>
+    <icon src="https://thumbor.prod.vidiocdn.com/WIl2jiaTLEzHnNAo61AGzfdEXh8=/287x162/filters:strip_icc():quality(70)/vidio-media-production/uploads/tv_program/thumbnail/389747/fc3ce1.jpg"/>
+  </programme>
+  <programme channel="205" start="20260424113000 +0000" stop="20260424140000 +0000">
+    <title lang="id">BRI Superleague 2025/26 - Persib Bandung Vs Arema Fc</title>
+    <desc lang="id">Saksikan! BRI Super League 2025/26 - Is Back!" 18 Klub Terbaik Siap Bertarung Di Kasta Tertinggi Sepak Bola Indonesia! Pertandingan Semakin Seru! Jangan Lewatkan BRI Super League 2025/26 Mulai 8 Agustus 2025, Pkl 15.00 &amp; 18.30 WIB, Live &amp; Eksklusif Hanya Di Indosiar dan Vidio #Indosiarrumahsepakbolaindonesia</desc>
+    <icon src="https://thumbor.prod.vidiocdn.com/cBZL7ITaJCof6cqtayFee2uJCX8=/287x162/filters:strip_icc():quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/image/205/indosiar-d9a3d0.jpg"/>
+  </programme>
+  <programme channel="205" start="20260424140000 +0000" stop="20260424170000 +0000">
+    <title lang="id">Band Academy</title>
+    <desc lang="id">Panggung Megah Band Academy Siap Dimulai! Setelah Melalui Proses Seleksi Yang Ketat, Kini 30 Academia Terpilih Siap Berkompetisi Untuk Membuktikan Talenta, dan Aksi Panggung Spektakuler Demi Musik Masa Depan. Siapakah Band Yang Akan Berhasil Lolos Ke Panggung Megah Band Academy? Saksikan Band Academy Mulai Selasa, 7 April 2026, Setiap Rabu - Jumat Pukul 19.00 WIB Live Hanya Di Indosiar.</desc>
+    <icon src="https://thumbor.prod.vidiocdn.com/cBZL7ITaJCof6cqtayFee2uJCX8=/287x162/filters:strip_icc():quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/image/205/indosiar-d9a3d0.jpg"/>
+  </programme>
+  <programme channel="205" start="20260424140000 +0000" stop="20260424170000 +0000">
+    <title lang="id">Band Academy</title>
+    <desc lang="id">Panggung Megah Band Academy Siap Dimulai! Setelah Melalui Proses Seleksi Yang Ketat, Kini 30 Academia Terpilih Siap Berkompetisi Untuk Membuktikan Talenta, dan Aksi Panggung Spektakuler Demi Musik Masa Depan. Siapakah Band Yang Akan Berhasil Lolos Ke Panggung Megah Band Academy? Saksikan Band Academy Mulai Selasa, 7 April 2026, Setiap Rabu - Jumat Pukul 19.00 WIB Live Hanya Di Indosiar.</desc>
+    <icon src="https://thumbor.prod.vidiocdn.com/cBZL7ITaJCof6cqtayFee2uJCX8=/287x162/filters:strip_icc():quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/image/205/indosiar-d9a3d0.jpg"/>
+  </programme>
+  <programme channel="205" start="20260424170000 +0000" stop="20260424183000 +0000">
+    <title lang="id">Mega Series Action Asia : Heroes</title>
+    <desc lang="id">Sebuah Kisah Epic Yang Melegenda Perjuangan Sang Master Kungfu: Huo Yuan Jia, Memimipin Perlawanan Bangsanya Dalam Menghadapi Invasi Penjajah. Saksikan Penampilan Memukau: Vincent Zhao, Nikita Mao dan Bintang Laga Lainnya Dalam Mega Series Action Asia: Heroes, Mulai 14 Maret 2025, Pkl 23.00 WIB, Hanya Di Indosiar</desc>
+    <icon src="https://thumbor.prod.vidiocdn.com/cBZL7ITaJCof6cqtayFee2uJCX8=/287x162/filters:strip_icc():quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/image/205/indosiar-d9a3d0.jpg"/>
+  </programme>
+  <programme channel="205" start="20260424183000 +0000" stop="20260424200000 +0000">
+    <title lang="id">Mega Film Asia : Once Upon A Time In And America</title>
+    <desc lang="id">Mega Film Asia Adalah Program Yang Memutarkan Film-Film Asia Yang Ditayangkan Di Indosiar. Acara Ini Ditayangkan Perdana Pada Tahun 1996 Silam.</desc>
+    <icon src="https://thumbor.prod.vidiocdn.com/cBZL7ITaJCof6cqtayFee2uJCX8=/287x162/filters:strip_icc():quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/image/205/indosiar-d9a3d0.jpg"/>
+  </programme>
+  <programme channel="205" start="20260424200000 +0000" stop="20260424213000 +0000">
+    <title lang="id">Mega Film Asia : An Empress And The Warrior</title>
+    <desc lang="id">Mega Film Asia Adalah Program Yang Memutarkan Film-Film Asia Yang Ditayangkan Di Indosiar. Acara Ini Ditayangkan Perdana Pada Tahun 1996 Silam.</desc>
+    <icon src="https://thumbor.prod.vidiocdn.com/cBZL7ITaJCof6cqtayFee2uJCX8=/287x162/filters:strip_icc():quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/image/205/indosiar-d9a3d0.jpg"/>
+  </programme>
+  <programme channel="205" start="20260424213000 +0000" stop="20260424230000 +0000">
+    <title lang="id">Fokus Pagi</title>
+    <desc lang="id">Berita Lengkap dan Terkini Dari Dalam dan Luar Negeri Seputar Isu Politik, Ekonomi, Hukum, Kriminal, Sosial Budaya, Olahraga, dan Lain-Lain.</desc>
+    <icon src="https://thumbor.prod.vidiocdn.com/cBZL7ITaJCof6cqtayFee2uJCX8=/287x162/filters:strip_icc():quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/image/205/indosiar-d9a3d0.jpg"/>
+  </programme>
+  <programme channel="205" start="20260424230000 +0000" stop="20260425000000 +0000">
+    <title lang="id">Merangkai Kisah Indah</title>
+    <desc lang="id">Mega Series Terbaru Raden Rakha dan Basmalah Gralind Di Indosiar "Merangkai Kisah Indah" Tayang Setiap Hari, Mulai Senin, 14 Juli 2025 Pukul 17:00 WIB. Kisah Derita Mutiara Yang Mencari Orangtua Kandungnya Karena Sewaktu Bayi Ditukar Oleh Ibu Angkatnya. Nasib Membawa Dirinya Bertemu Dengan Keluarga Yang Tanpa Dia Ketahui Adalah Orangtua Kandungnya dan Juga Bertemu Kenzo. Apakah Kenzo dan Mutiara Akan Berjodoh? Dibintangi Raden Rakha, Basmalah Gralind, Panji Saputra, Tsania Marwa, Gita Sinaga, Vayala Maulidina, Washifa, Haura Lathifa, dan Emiliano Cortizo. Saksikan Mega Series Terbaru Indosiar : Merangkai Kisah Indah, Tayang Setiap Hari, Mulai Senin, 14 Juli 2025 Pukul 17:00 WIB Hanya Di Indosiar.</desc>
+    <icon src="https://thumbor.prod.vidiocdn.com/WIl2jiaTLEzHnNAo61AGzfdEXh8=/287x162/filters:strip_icc():quality(70)/vidio-media-production/uploads/tv_program/thumbnail/389747/fc3ce1.jpg"/>
+  </programme>
+  <programme channel="205" start="20260425000000 +0000" stop="20260425013000 +0000">
+    <title lang="id">Tetangga Baru Yang Membayangi Hidupku</title>
+    <desc lang="id">FTV Yang Diambil Dari Kisah Kehidupan Sehari-Hari Pemirsa Yang Penuh Intrik, Konflik dan Pengkhianatan Untuk Memberikan Berbagai Pelajaran Hidup.</desc>
+    <icon src="https://thumbor.prod.vidiocdn.com/cBZL7ITaJCof6cqtayFee2uJCX8=/287x162/filters:strip_icc():quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/image/205/indosiar-d9a3d0.jpg"/>
+  </programme>
+  <programme channel="205" start="20260425013000 +0000" stop="20260425030000 +0000">
+    <title lang="id">Pernikahan Tanpa Restu Yang Menjadi Sumber Masalahku</title>
+    <desc lang="id">FTV Yang Diambil Dari Kisah Kehidupan Sehari-Hari Pemirsa Yang Penuh Intrik, Konflik dan Pengkhianatan Untuk Memberikan Berbagai Pelajaran Hidup.</desc>
+    <icon src="https://thumbor.prod.vidiocdn.com/cBZL7ITaJCof6cqtayFee2uJCX8=/287x162/filters:strip_icc():quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/image/205/indosiar-d9a3d0.jpg"/>
+  </programme>
+  <programme channel="205" start="20260425030000 +0000" stop="20260425040000 +0000">
+    <title lang="id">Best Kiss</title>
+    <desc lang="id">Berita Ter-Kiss dan Terupdate Seputar Artis Ternama Tanah Air Yang Dikemas Secara Lugas dan Menarik. Saksikan Setiap Jumat Hingga Minggu Pukul 08.00-10.30 WIB, Hanya Di Indosiar</desc>
+    <icon src="https://thumbor.prod.vidiocdn.com/cBZL7ITaJCof6cqtayFee2uJCX8=/287x162/filters:strip_icc():quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/image/205/indosiar-d9a3d0.jpg"/>
+  </programme>
+  <programme channel="205" start="20260425040000 +0000" stop="20260425043000 +0000">
+    <title lang="id">Patroli Siang</title>
+    <desc lang="id">Berita Terkini Seputar Peristiwa Kriminal, Tindak Kejahatan, Orang Hilang, Hingga Bencana Alam.</desc>
+    <icon src="https://thumbor.prod.vidiocdn.com/cBZL7ITaJCof6cqtayFee2uJCX8=/287x162/filters:strip_icc():quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/image/205/indosiar-d9a3d0.jpg"/>
+  </programme>
+  <programme channel="205" start="20260425043000 +0000" stop="20260425050000 +0000">
+    <title lang="id">Fokus Siang</title>
+    <desc lang="id">Program Berita Aktual dan Terkini Tentang Berbagai Isu Di Tanah Air, Meliputi Politik, Ekonomi, Hukum, Sosial, Budaya, Olah Raga, dan Lain-Lain.</desc>
+    <icon src="https://thumbor.prod.vidiocdn.com/cBZL7ITaJCof6cqtayFee2uJCX8=/287x162/filters:strip_icc():quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/image/205/indosiar-d9a3d0.jpg"/>
+  </programme>
+  <programme channel="205" start="20260425050000 +0000" stop="20260425063000 +0000">
+    <title lang="id">Kisah Nyata Siang : Akibat Suami Posesif</title>
+    <desc lang="id">FTV Yang Diambil Dari Kisah Kehidupan Sehari-Hari Pemirsa Yang Penuh Intrik, Konflik dan Pengkhianatan Untuk Memberikan Berbagai Pelajaran Hidup. Saksikan Setiap Hari Pukul 13.30 WIB, Hanya Di Indosiar.</desc>
+    <icon src="https://thumbor.prod.vidiocdn.com/cBZL7ITaJCof6cqtayFee2uJCX8=/287x162/filters:strip_icc():quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/image/205/indosiar-d9a3d0.jpg"/>
+  </programme>
+  <programme channel="205" start="20260425063000 +0000" stop="20260425080000 +0000">
+    <title lang="id">Kisah Nyata : Wanita Kedua Di Balik Kehancuran Rumah Tanggaku</title>
+    <desc lang="id">FTV Yang Diambil Dari Kisah Kehidupan Sehari-Hari Pemirsa Yang Penuh Intrik, Konflik dan Pengkhianatan Untuk Memberikan Berbagai Pelajaran Hidup.</desc>
+    <icon src="https://thumbor.prod.vidiocdn.com/cBZL7ITaJCof6cqtayFee2uJCX8=/287x162/filters:strip_icc():quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/image/205/indosiar-d9a3d0.jpg"/>
+  </programme>
+  <programme channel="205" start="20260425080000 +0000" stop="20260425103000 +0000">
+    <title lang="id">BRI Superleague 2025/26 - Madura United Fc Vs Dewa United Banten Fc</title>
+    <desc lang="id">Saksikan! BRI Super League 2025/26 - Is Back!" 18 Klub Terbaik Siap Bertarung Di Kasta Tertinggi Sepak Bola Indonesia! Pertandingan Semakin Seru! Jangan Lewatkan BRI Super League 2025/26 Mulai 8 Agustus 2025, Pkl 15.00 &amp; 18.30 WIB, Live &amp; Eksklusif Hanya Di Indosiar dan Vidio #Indosiarrumahsepakbolaindonesia</desc>
+    <icon src="https://thumbor.prod.vidiocdn.com/cBZL7ITaJCof6cqtayFee2uJCX8=/287x162/filters:strip_icc():quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/image/205/indosiar-d9a3d0.jpg"/>
+  </programme>
+  <programme channel="205" start="20260425103000 +0000" stop="20260425113000 +0000">
+    <title lang="id">Merangkai Kisah Indah</title>
+    <desc lang="id">Mega Series Terbaru Raden Rakha dan Basmalah Gralind Di Indosiar "Merangkai Kisah Indah" Tayang Setiap Hari, Mulai Senin, 14 Juli 2025 Pukul 17:00 WIB. Kisah Derita Mutiara Yang Mencari Orangtua Kandungnya Karena Sewaktu Bayi Ditukar Oleh Ibu Angkatnya. Nasib Membawa Dirinya Bertemu Dengan Keluarga Yang Tanpa Dia Ketahui Adalah Orangtua Kandungnya dan Juga Bertemu Kenzo. Apakah Kenzo dan Mutiara Akan Berjodoh? Dibintangi Raden Rakha, Basmalah Gralind, Panji Saputra, Tsania Marwa, Gita Sinaga, Vayala Maulidina, Washifa, Haura Lathifa, dan Emiliano Cortizo. Saksikan Mega Series Terbaru Indosiar : Merangkai Kisah Indah, Tayang Setiap Hari, Mulai Senin, 14 Juli 2025 Pukul 17:00 WIB Hanya Di Indosiar.</desc>
+    <icon src="https://thumbor.prod.vidiocdn.com/WIl2jiaTLEzHnNAo61AGzfdEXh8=/287x162/filters:strip_icc():quality(70)/vidio-media-production/uploads/tv_program/thumbnail/389747/fc3ce1.jpg"/>
+  </programme>
+  <programme channel="205" start="20260425113000 +0000" stop="20260425140000 +0000">
+    <title lang="id">BRI Superleague 2025/26 - Borneo Fc Samarinda Vs Semen Padang Fc</title>
+    <desc lang="id">Saksikan! BRI Super League 2025/26 - Is Back!" 18 Klub Terbaik Siap Bertarung Di Kasta Tertinggi Sepak Bola Indonesia! Pertandingan Semakin Seru! Jangan Lewatkan BRI Super League 2025/26 Mulai 8 Agustus 2025, Pkl 15.00 &amp; 18.30 WIB, Live &amp; Eksklusif Hanya Di Indosiar dan Vidio #Indosiarrumahsepakbolaindonesia</desc>
+    <icon src="https://thumbor.prod.vidiocdn.com/cBZL7ITaJCof6cqtayFee2uJCX8=/287x162/filters:strip_icc():quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/image/205/indosiar-d9a3d0.jpg"/>
+  </programme>
+  <programme channel="205" start="20260425140000 +0000" stop="20260425160000 +0000">
+    <title lang="id">D' Academy 7 - Mega Konser Untuk Perempuan Indonesia</title>
+    <desc lang="id">Panggung Megah Konser D'Academy 7 Siap Digelar! Audisi Online dan Offline Telah Usai! Siapakah Yang Akan Lolos Ke Panggung Megah D'Academy 7? Saksikan D'Academy 7 Mulai Senin, 9 Juni, Setiap Senin-Jumat Live Pkl 20.00 WIB Hanya Di Indosiar. #Indosiarbawadangdutberkelasberkualitas</desc>
+    <icon src="https://thumbor.prod.vidiocdn.com/cBZL7ITaJCof6cqtayFee2uJCX8=/287x162/filters:strip_icc():quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/image/205/indosiar-d9a3d0.jpg"/>
+  </programme>
+  <programme channel="205" start="20260425160000 +0000" stop="20260425180000 +0000">
+    <title lang="id">Mega Series Action Asia : Heroes</title>
+    <desc lang="id">Sebuah Kisah Epic Yang Melegenda Perjuangan Sang Master Kungfu: Huo Yuan Jia, Memimipin Perlawanan Bangsanya Dalam Menghadapi Invasi Penjajah. Saksikan Penampilan Memukau: Vincent Zhao, Nikita Mao dan Bintang Laga Lainnya Dalam Mega Series Action Asia: Heroes, Mulai 14 Maret 2025, Pkl 23.00 WIB, Hanya Di Indosiar</desc>
+    <icon src="https://thumbor.prod.vidiocdn.com/cBZL7ITaJCof6cqtayFee2uJCX8=/287x162/filters:strip_icc():quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/image/205/indosiar-d9a3d0.jpg"/>
   </programme>
   <programme channel="733" start="20260418160000 +0000" stop="20260418180000 +0000">
     <title lang="id">Bioskop Trans TV</title>
@@ -1316,6 +2286,436 @@
   <programme channel="206" start="20260419201600 +0000" stop="20260419220000 +0000">
     <title lang="id">Rerun Proliga 2026</title>
     <desc lang="id">Rerun Proliga 2026</desc>
+    <icon src="https://thumbor.prod.vidiocdn.com/NdmzqkxqnWVnlngtk_ObYNT-wiY=/287x162/filters:strip_icc():quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/image/206/moji-a5bd3e.jpg"/>
+  </programme>
+  <programme channel="206" start="20260419220000 +0000" stop="20260419231500 +0000">
+    <title lang="id">Moji Sport</title>
+    <desc lang="id">Moji Sport</desc>
+    <icon src="https://thumbor.prod.vidiocdn.com/NdmzqkxqnWVnlngtk_ObYNT-wiY=/287x162/filters:strip_icc():quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/image/206/moji-a5bd3e.jpg"/>
+  </programme>
+  <programme channel="206" start="20260419231500 +0000" stop="20260420000000 +0000">
+    <title lang="id">Liputan 6 Pagi Moji</title>
+    <desc lang="id">Liputan 6 Pagi Moji</desc>
+    <icon src="https://thumbor.prod.vidiocdn.com/JjmBBWx6W1DiJvpa5saOzzDe_i4=/287x162/filters:strip_icc():quality(70)/vidio-media-production/uploads/livestreaming/schedule/thumbnail/5020793/1730a0.jpg"/>
+  </programme>
+  <programme channel="206" start="20260420000000 +0000" stop="20260420010400 +0000">
+    <title lang="id">Bisik Pagi</title>
+    <desc lang="id">Bisik Pagi</desc>
+    <icon src="https://thumbor.prod.vidiocdn.com/2D769Miau5Bz076pdTQ0-lKGkQs=/287x162/filters:strip_icc():quality(70)/vidio-media-production/uploads/livestreaming/schedule/thumbnail/5020800/a283ea.jpg"/>
+  </programme>
+  <programme channel="206" start="20260420010400 +0000" stop="20260420020800 +0000">
+    <title lang="id">Ungkap</title>
+    <desc lang="id">Ungkap</desc>
+    <icon src="https://thumbor.prod.vidiocdn.com/bgQZXiEQabsNBxfCVE3wyuQUDaI=/287x162/filters:strip_icc():quality(70)/vidio-media-production/uploads/livestreaming/schedule/thumbnail/5020807/709a44.jpg"/>
+  </programme>
+  <programme channel="206" start="20260420020800 +0000" stop="20260420035700 +0000">
+    <title lang="id">Ungkap</title>
+    <desc lang="id">Ungkap</desc>
+    <icon src="https://thumbor.prod.vidiocdn.com/NdmzqkxqnWVnlngtk_ObYNT-wiY=/287x162/filters:strip_icc():quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/image/206/moji-a5bd3e.jpg"/>
+  </programme>
+  <programme channel="206" start="20260420035700 +0000" stop="20260420054100 +0000">
+    <title lang="id">Tercyduk</title>
+    <desc lang="id">Tercyduk</desc>
+    <icon src="https://thumbor.prod.vidiocdn.com/NdmzqkxqnWVnlngtk_ObYNT-wiY=/287x162/filters:strip_icc():quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/image/206/moji-a5bd3e.jpg"/>
+  </programme>
+  <programme channel="206" start="20260420054100 +0000" stop="20260420102000 +0000">
+    <title lang="id">Tercyduk</title>
+    <desc lang="id">Tercyduk</desc>
+    <icon src="https://thumbor.prod.vidiocdn.com/NdmzqkxqnWVnlngtk_ObYNT-wiY=/287x162/filters:strip_icc():quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/image/206/moji-a5bd3e.jpg"/>
+  </programme>
+  <programme channel="206" start="20260420102000 +0000" stop="20260420120300 +0000">
+    <title lang="id">American Ninja Warrior Season 14</title>
+    <desc lang="id">American Ninja Warrior Season 14</desc>
+    <icon src="https://thumbor.prod.vidiocdn.com/eZwOTz0O9y_4xxz6DLdN_Rv7QwE=/287x162/filters:strip_icc():quality(70)/vidio-media-production/uploads/livestreaming/schedule/thumbnail/5020835/97470a.jpg"/>
+  </programme>
+  <programme channel="206" start="20260420120300 +0000" stop="20260420142900 +0000">
+    <title lang="id">Rerun Proliga 2026</title>
+    <desc lang="id">Rerun Proliga 2026</desc>
+    <icon src="https://thumbor.prod.vidiocdn.com/NdmzqkxqnWVnlngtk_ObYNT-wiY=/287x162/filters:strip_icc():quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/image/206/moji-a5bd3e.jpg"/>
+  </programme>
+  <programme channel="206" start="20260420142900 +0000" stop="20260420164800 +0000">
+    <title lang="id">Rerun Ucl</title>
+    <desc lang="id">Rerun Ucl</desc>
+    <icon src="https://thumbor.prod.vidiocdn.com/NdmzqkxqnWVnlngtk_ObYNT-wiY=/287x162/filters:strip_icc():quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/image/206/moji-a5bd3e.jpg"/>
+  </programme>
+  <programme channel="206" start="20260420164800 +0000" stop="20260420175000 +0000">
+    <title lang="id">Harta Tahta Cinta</title>
+    <desc lang="id">Harta Tahta Cinta</desc>
+    <icon src="https://thumbor.prod.vidiocdn.com/NdmzqkxqnWVnlngtk_ObYNT-wiY=/287x162/filters:strip_icc():quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/image/206/moji-a5bd3e.jpg"/>
+  </programme>
+  <programme channel="206" start="20260420164800 +0000" stop="20260420175000 +0000">
+    <title lang="id">Harta Tahta Cinta</title>
+    <desc lang="id">Harta Tahta Cinta</desc>
+    <icon src="https://thumbor.prod.vidiocdn.com/NdmzqkxqnWVnlngtk_ObYNT-wiY=/287x162/filters:strip_icc():quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/image/206/moji-a5bd3e.jpg"/>
+  </programme>
+  <programme channel="206" start="20260420175000 +0000" stop="20260420202200 +0000">
+    <title lang="id">Rerun Proliga 2026</title>
+    <desc lang="id">Rerun Proliga 2026</desc>
+    <icon src="https://thumbor.prod.vidiocdn.com/NdmzqkxqnWVnlngtk_ObYNT-wiY=/287x162/filters:strip_icc():quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/image/206/moji-a5bd3e.jpg"/>
+  </programme>
+  <programme channel="206" start="20260420202200 +0000" stop="20260420220000 +0000">
+    <title lang="id">Rerun Proliga 2026</title>
+    <desc lang="id">Rerun Proliga 2026</desc>
+    <icon src="https://thumbor.prod.vidiocdn.com/NdmzqkxqnWVnlngtk_ObYNT-wiY=/287x162/filters:strip_icc():quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/image/206/moji-a5bd3e.jpg"/>
+  </programme>
+  <programme channel="206" start="20260420220000 +0000" stop="20260420231500 +0000">
+    <title lang="id">Moji Sport</title>
+    <desc lang="id">Moji Sport</desc>
+    <icon src="https://thumbor.prod.vidiocdn.com/NdmzqkxqnWVnlngtk_ObYNT-wiY=/287x162/filters:strip_icc():quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/image/206/moji-a5bd3e.jpg"/>
+  </programme>
+  <programme channel="206" start="20260420231500 +0000" stop="20260421000000 +0000">
+    <title lang="id">Liputan 6 Pagi Moji</title>
+    <desc lang="id">Liputan 6 Pagi Moji</desc>
+    <icon src="https://thumbor.prod.vidiocdn.com/NdmzqkxqnWVnlngtk_ObYNT-wiY=/287x162/filters:strip_icc():quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/image/206/moji-a5bd3e.jpg"/>
+  </programme>
+  <programme channel="206" start="20260421000000 +0000" stop="20260421010400 +0000">
+    <title lang="id">Bisik Pagi</title>
+    <desc lang="id">Bisik Pagi</desc>
+    <icon src="https://thumbor.prod.vidiocdn.com/NdmzqkxqnWVnlngtk_ObYNT-wiY=/287x162/filters:strip_icc():quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/image/206/moji-a5bd3e.jpg"/>
+  </programme>
+  <programme channel="206" start="20260421010400 +0000" stop="20260421020800 +0000">
+    <title lang="id">Ungkap</title>
+    <desc lang="id">Ungkap</desc>
+    <icon src="https://thumbor.prod.vidiocdn.com/NdmzqkxqnWVnlngtk_ObYNT-wiY=/287x162/filters:strip_icc():quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/image/206/moji-a5bd3e.jpg"/>
+  </programme>
+  <programme channel="206" start="20260421020800 +0000" stop="20260421035700 +0000">
+    <title lang="id">Ungkap</title>
+    <desc lang="id">Ungkap</desc>
+    <icon src="https://thumbor.prod.vidiocdn.com/NdmzqkxqnWVnlngtk_ObYNT-wiY=/287x162/filters:strip_icc():quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/image/206/moji-a5bd3e.jpg"/>
+  </programme>
+  <programme channel="206" start="20260421035700 +0000" stop="20260421060400 +0000">
+    <title lang="id">Tercyduk</title>
+    <desc lang="id">Tercyduk</desc>
+    <icon src="https://thumbor.prod.vidiocdn.com/NdmzqkxqnWVnlngtk_ObYNT-wiY=/287x162/filters:strip_icc():quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/image/206/moji-a5bd3e.jpg"/>
+  </programme>
+  <programme channel="206" start="20260421060400 +0000" stop="20260421082000 +0000">
+    <title lang="id">Tercyduk</title>
+    <desc lang="id">Tercyduk</desc>
+    <icon src="https://thumbor.prod.vidiocdn.com/NdmzqkxqnWVnlngtk_ObYNT-wiY=/287x162/filters:strip_icc():quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/image/206/moji-a5bd3e.jpg"/>
+  </programme>
+  <programme channel="206" start="20260421082000 +0000" stop="20260421112000 +0000">
+    <title lang="id">Proliga 2026 First Serve 16:00</title>
+    <desc lang="id">Proliga 2026 First Serve 16:00</desc>
+    <icon src="https://thumbor.prod.vidiocdn.com/NdmzqkxqnWVnlngtk_ObYNT-wiY=/287x162/filters:strip_icc():quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/image/206/moji-a5bd3e.jpg"/>
+  </programme>
+  <programme channel="206" start="20260421112000 +0000" stop="20260421140000 +0000">
+    <title lang="id">Proliga 2026 First Serve 19:00</title>
+    <desc lang="id">Proliga 2026 First Serve 19:00</desc>
+    <icon src="https://thumbor.prod.vidiocdn.com/NdmzqkxqnWVnlngtk_ObYNT-wiY=/287x162/filters:strip_icc():quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/image/206/moji-a5bd3e.jpg"/>
+  </programme>
+  <programme channel="206" start="20260421140000 +0000" stop="20260421161300 +0000">
+    <title lang="id">Rerun Ucl</title>
+    <desc lang="id">Rerun Ucl</desc>
+    <icon src="https://thumbor.prod.vidiocdn.com/NdmzqkxqnWVnlngtk_ObYNT-wiY=/287x162/filters:strip_icc():quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/image/206/moji-a5bd3e.jpg"/>
+  </programme>
+  <programme channel="206" start="20260421161300 +0000" stop="20260421171900 +0000">
+    <title lang="id">Harta Tahta Cinta</title>
+    <desc lang="id">Harta Tahta Cinta</desc>
+    <icon src="https://thumbor.prod.vidiocdn.com/NdmzqkxqnWVnlngtk_ObYNT-wiY=/287x162/filters:strip_icc():quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/image/206/moji-a5bd3e.jpg"/>
+  </programme>
+  <programme channel="206" start="20260421161300 +0000" stop="20260421171900 +0000">
+    <title lang="id">Harta Tahta Cinta</title>
+    <desc lang="id">Harta Tahta Cinta</desc>
+    <icon src="https://thumbor.prod.vidiocdn.com/NdmzqkxqnWVnlngtk_ObYNT-wiY=/287x162/filters:strip_icc():quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/image/206/moji-a5bd3e.jpg"/>
+  </programme>
+  <programme channel="206" start="20260421171900 +0000" stop="20260421195900 +0000">
+    <title lang="id">Rerun Proliga 2026</title>
+    <desc lang="id">Rerun Proliga 2026</desc>
+    <icon src="https://thumbor.prod.vidiocdn.com/NdmzqkxqnWVnlngtk_ObYNT-wiY=/287x162/filters:strip_icc():quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/image/206/moji-a5bd3e.jpg"/>
+  </programme>
+  <programme channel="206" start="20260421195900 +0000" stop="20260421220000 +0000">
+    <title lang="id">Rerun Proliga 2026</title>
+    <desc lang="id">Rerun Proliga 2026</desc>
+    <icon src="https://thumbor.prod.vidiocdn.com/NdmzqkxqnWVnlngtk_ObYNT-wiY=/287x162/filters:strip_icc():quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/image/206/moji-a5bd3e.jpg"/>
+  </programme>
+  <programme channel="206" start="20260421220000 +0000" stop="20260421231500 +0000">
+    <title lang="id">Moji Sport</title>
+    <desc lang="id">Moji Sport</desc>
+    <icon src="https://thumbor.prod.vidiocdn.com/NdmzqkxqnWVnlngtk_ObYNT-wiY=/287x162/filters:strip_icc():quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/image/206/moji-a5bd3e.jpg"/>
+  </programme>
+  <programme channel="206" start="20260421231500 +0000" stop="20260422000000 +0000">
+    <title lang="id">Liputan 6 Pagi Moji</title>
+    <desc lang="id">Liputan 6 Pagi Moji</desc>
+    <icon src="https://thumbor.prod.vidiocdn.com/NdmzqkxqnWVnlngtk_ObYNT-wiY=/287x162/filters:strip_icc():quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/image/206/moji-a5bd3e.jpg"/>
+  </programme>
+  <programme channel="206" start="20260422000000 +0000" stop="20260422010000 +0000">
+    <title lang="id">Bisik Pagi</title>
+    <desc lang="id">Bisik Pagi</desc>
+    <icon src="https://thumbor.prod.vidiocdn.com/NdmzqkxqnWVnlngtk_ObYNT-wiY=/287x162/filters:strip_icc():quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/image/206/moji-a5bd3e.jpg"/>
+  </programme>
+  <programme channel="206" start="20260422010000 +0000" stop="20260422020000 +0000">
+    <title lang="id">Ungkap</title>
+    <desc lang="id">Ungkap</desc>
+    <icon src="https://thumbor.prod.vidiocdn.com/NdmzqkxqnWVnlngtk_ObYNT-wiY=/287x162/filters:strip_icc():quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/image/206/moji-a5bd3e.jpg"/>
+  </programme>
+  <programme channel="206" start="20260422020000 +0000" stop="20260422035700 +0000">
+    <title lang="id">Ungkap</title>
+    <desc lang="id">Ungkap</desc>
+    <icon src="https://thumbor.prod.vidiocdn.com/NdmzqkxqnWVnlngtk_ObYNT-wiY=/287x162/filters:strip_icc():quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/image/206/moji-a5bd3e.jpg"/>
+  </programme>
+  <programme channel="206" start="20260422035700 +0000" stop="20260422060300 +0000">
+    <title lang="id">Tercyduk</title>
+    <desc lang="id">Tercyduk</desc>
+    <icon src="https://thumbor.prod.vidiocdn.com/NdmzqkxqnWVnlngtk_ObYNT-wiY=/287x162/filters:strip_icc():quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/image/206/moji-a5bd3e.jpg"/>
+  </programme>
+  <programme channel="206" start="20260422060300 +0000" stop="20260422082000 +0000">
+    <title lang="id">Tercyduk</title>
+    <desc lang="id">Tercyduk</desc>
+    <icon src="https://thumbor.prod.vidiocdn.com/NdmzqkxqnWVnlngtk_ObYNT-wiY=/287x162/filters:strip_icc():quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/image/206/moji-a5bd3e.jpg"/>
+  </programme>
+  <programme channel="206" start="20260422082000 +0000" stop="20260422112000 +0000">
+    <title lang="id">Proliga 2026 First Serve 16:00</title>
+    <desc lang="id">Proliga 2026 First Serve 16:00</desc>
+    <icon src="https://thumbor.prod.vidiocdn.com/NdmzqkxqnWVnlngtk_ObYNT-wiY=/287x162/filters:strip_icc():quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/image/206/moji-a5bd3e.jpg"/>
+  </programme>
+  <programme channel="206" start="20260422112000 +0000" stop="20260422140000 +0000">
+    <title lang="id">Proliga 2026 First Serve 19:00</title>
+    <desc lang="id">Proliga 2026 First Serve 19:00</desc>
+    <icon src="https://thumbor.prod.vidiocdn.com/NdmzqkxqnWVnlngtk_ObYNT-wiY=/287x162/filters:strip_icc():quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/image/206/moji-a5bd3e.jpg"/>
+  </programme>
+  <programme channel="206" start="20260422140000 +0000" stop="20260422161300 +0000">
+    <title lang="id">Rerun Ucl</title>
+    <desc lang="id">Rerun Ucl</desc>
+    <icon src="https://thumbor.prod.vidiocdn.com/NdmzqkxqnWVnlngtk_ObYNT-wiY=/287x162/filters:strip_icc():quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/image/206/moji-a5bd3e.jpg"/>
+  </programme>
+  <programme channel="206" start="20260422161300 +0000" stop="20260422171900 +0000">
+    <title lang="id">Harta Tahta Cinta</title>
+    <desc lang="id">Harta Tahta Cinta</desc>
+    <icon src="https://thumbor.prod.vidiocdn.com/NdmzqkxqnWVnlngtk_ObYNT-wiY=/287x162/filters:strip_icc():quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/image/206/moji-a5bd3e.jpg"/>
+  </programme>
+  <programme channel="206" start="20260422161300 +0000" stop="20260422171900 +0000">
+    <title lang="id">Harta Tahta Cinta</title>
+    <desc lang="id">Harta Tahta Cinta</desc>
+    <icon src="https://thumbor.prod.vidiocdn.com/NdmzqkxqnWVnlngtk_ObYNT-wiY=/287x162/filters:strip_icc():quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/image/206/moji-a5bd3e.jpg"/>
+  </programme>
+  <programme channel="206" start="20260422171900 +0000" stop="20260422201700 +0000">
+    <title lang="id">Rerun Proliga 2026</title>
+    <desc lang="id">Rerun Proliga 2026</desc>
+    <icon src="https://thumbor.prod.vidiocdn.com/NdmzqkxqnWVnlngtk_ObYNT-wiY=/287x162/filters:strip_icc():quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/image/206/moji-a5bd3e.jpg"/>
+  </programme>
+  <programme channel="206" start="20260422201700 +0000" stop="20260422220000 +0000">
+    <title lang="id">Rerun Proliga 2026</title>
+    <desc lang="id">Rerun Proliga 2026</desc>
+    <icon src="https://thumbor.prod.vidiocdn.com/NdmzqkxqnWVnlngtk_ObYNT-wiY=/287x162/filters:strip_icc():quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/image/206/moji-a5bd3e.jpg"/>
+  </programme>
+  <programme channel="206" start="20260422220000 +0000" stop="20260422231500 +0000">
+    <title lang="id">Moji Sport</title>
+    <desc lang="id">Moji Sport</desc>
+    <icon src="https://thumbor.prod.vidiocdn.com/NdmzqkxqnWVnlngtk_ObYNT-wiY=/287x162/filters:strip_icc():quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/image/206/moji-a5bd3e.jpg"/>
+  </programme>
+  <programme channel="206" start="20260422231500 +0000" stop="20260423000000 +0000">
+    <title lang="id">Liputan 6 Pagi Moji</title>
+    <desc lang="id">Liputan 6 Pagi Moji</desc>
+    <icon src="https://thumbor.prod.vidiocdn.com/NdmzqkxqnWVnlngtk_ObYNT-wiY=/287x162/filters:strip_icc():quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/image/206/moji-a5bd3e.jpg"/>
+  </programme>
+  <programme channel="206" start="20260423000000 +0000" stop="20260423010000 +0000">
+    <title lang="id">Bisik Pagi</title>
+    <desc lang="id">Bisik Pagi</desc>
+    <icon src="https://thumbor.prod.vidiocdn.com/NdmzqkxqnWVnlngtk_ObYNT-wiY=/287x162/filters:strip_icc():quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/image/206/moji-a5bd3e.jpg"/>
+  </programme>
+  <programme channel="206" start="20260423010000 +0000" stop="20260423020200 +0000">
+    <title lang="id">Ungkap</title>
+    <desc lang="id">Ungkap</desc>
+    <icon src="https://thumbor.prod.vidiocdn.com/NdmzqkxqnWVnlngtk_ObYNT-wiY=/287x162/filters:strip_icc():quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/image/206/moji-a5bd3e.jpg"/>
+  </programme>
+  <programme channel="206" start="20260423020200 +0000" stop="20260423035700 +0000">
+    <title lang="id">Ungkap</title>
+    <desc lang="id">Ungkap</desc>
+    <icon src="https://thumbor.prod.vidiocdn.com/NdmzqkxqnWVnlngtk_ObYNT-wiY=/287x162/filters:strip_icc():quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/image/206/moji-a5bd3e.jpg"/>
+  </programme>
+  <programme channel="206" start="20260423035700 +0000" stop="20260423060300 +0000">
+    <title lang="id">Tercyduk</title>
+    <desc lang="id">Tercyduk</desc>
+    <icon src="https://thumbor.prod.vidiocdn.com/NdmzqkxqnWVnlngtk_ObYNT-wiY=/287x162/filters:strip_icc():quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/image/206/moji-a5bd3e.jpg"/>
+  </programme>
+  <programme channel="206" start="20260423060300 +0000" stop="20260423082000 +0000">
+    <title lang="id">Tercyduk</title>
+    <desc lang="id">Tercyduk</desc>
+    <icon src="https://thumbor.prod.vidiocdn.com/NdmzqkxqnWVnlngtk_ObYNT-wiY=/287x162/filters:strip_icc():quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/image/206/moji-a5bd3e.jpg"/>
+  </programme>
+  <programme channel="206" start="20260423082000 +0000" stop="20260423112000 +0000">
+    <title lang="id">Proliga 2026 First Serve 16:00</title>
+    <desc lang="id">Proliga 2026 First Serve 16:00</desc>
+    <icon src="https://thumbor.prod.vidiocdn.com/NdmzqkxqnWVnlngtk_ObYNT-wiY=/287x162/filters:strip_icc():quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/image/206/moji-a5bd3e.jpg"/>
+  </programme>
+  <programme channel="206" start="20260423112000 +0000" stop="20260423140000 +0000">
+    <title lang="id">Proliga 2026 First Serve 19:00</title>
+    <desc lang="id">Proliga 2026 First Serve 19:00</desc>
+    <icon src="https://thumbor.prod.vidiocdn.com/NdmzqkxqnWVnlngtk_ObYNT-wiY=/287x162/filters:strip_icc():quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/image/206/moji-a5bd3e.jpg"/>
+  </programme>
+  <programme channel="206" start="20260423140000 +0000" stop="20260423143000 +0000">
+    <title lang="id">Awarding Ceremony Bronze Final</title>
+    <desc lang="id">Awarding Ceremony Bronze Final</desc>
+    <icon src="https://thumbor.prod.vidiocdn.com/NdmzqkxqnWVnlngtk_ObYNT-wiY=/287x162/filters:strip_icc():quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/image/206/moji-a5bd3e.jpg"/>
+  </programme>
+  <programme channel="206" start="20260423143000 +0000" stop="20260423164300 +0000">
+    <title lang="id">Rerun Ucl</title>
+    <desc lang="id">Rerun Ucl</desc>
+    <icon src="https://thumbor.prod.vidiocdn.com/NdmzqkxqnWVnlngtk_ObYNT-wiY=/287x162/filters:strip_icc():quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/image/206/moji-a5bd3e.jpg"/>
+  </programme>
+  <programme channel="206" start="20260423164300 +0000" stop="20260423174900 +0000">
+    <title lang="id">Harta Tahta Cinta</title>
+    <desc lang="id">Harta Tahta Cinta</desc>
+    <icon src="https://thumbor.prod.vidiocdn.com/NdmzqkxqnWVnlngtk_ObYNT-wiY=/287x162/filters:strip_icc():quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/image/206/moji-a5bd3e.jpg"/>
+  </programme>
+  <programme channel="206" start="20260423164300 +0000" stop="20260423174900 +0000">
+    <title lang="id">Harta Tahta Cinta</title>
+    <desc lang="id">Harta Tahta Cinta</desc>
+    <icon src="https://thumbor.prod.vidiocdn.com/NdmzqkxqnWVnlngtk_ObYNT-wiY=/287x162/filters:strip_icc():quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/image/206/moji-a5bd3e.jpg"/>
+  </programme>
+  <programme channel="206" start="20260423174900 +0000" stop="20260423201100 +0000">
+    <title lang="id">Rerun Proliga 2026</title>
+    <desc lang="id">Rerun Proliga 2026</desc>
+    <icon src="https://thumbor.prod.vidiocdn.com/NdmzqkxqnWVnlngtk_ObYNT-wiY=/287x162/filters:strip_icc():quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/image/206/moji-a5bd3e.jpg"/>
+  </programme>
+  <programme channel="206" start="20260423201100 +0000" stop="20260423220000 +0000">
+    <title lang="id">Rerun Proliga 2026</title>
+    <desc lang="id">Rerun Proliga 2026</desc>
+    <icon src="https://thumbor.prod.vidiocdn.com/NdmzqkxqnWVnlngtk_ObYNT-wiY=/287x162/filters:strip_icc():quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/image/206/moji-a5bd3e.jpg"/>
+  </programme>
+  <programme channel="206" start="20260423220000 +0000" stop="20260423231500 +0000">
+    <title lang="id">Moji Sport</title>
+    <desc lang="id">Moji Sport</desc>
+    <icon src="https://thumbor.prod.vidiocdn.com/NdmzqkxqnWVnlngtk_ObYNT-wiY=/287x162/filters:strip_icc():quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/image/206/moji-a5bd3e.jpg"/>
+  </programme>
+  <programme channel="206" start="20260423231500 +0000" stop="20260424000000 +0000">
+    <title lang="id">Liputan 6 Pagi Moji</title>
+    <desc lang="id">Liputan 6 Pagi Moji</desc>
+    <icon src="https://thumbor.prod.vidiocdn.com/NdmzqkxqnWVnlngtk_ObYNT-wiY=/287x162/filters:strip_icc():quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/image/206/moji-a5bd3e.jpg"/>
+  </programme>
+  <programme channel="206" start="20260424000000 +0000" stop="20260424010000 +0000">
+    <title lang="id">Bisik Pagi</title>
+    <desc lang="id">Bisik Pagi</desc>
+    <icon src="https://thumbor.prod.vidiocdn.com/NdmzqkxqnWVnlngtk_ObYNT-wiY=/287x162/filters:strip_icc():quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/image/206/moji-a5bd3e.jpg"/>
+  </programme>
+  <programme channel="206" start="20260424010000 +0000" stop="20260424020000 +0000">
+    <title lang="id">Ungkap</title>
+    <desc lang="id">Ungkap</desc>
+    <icon src="https://thumbor.prod.vidiocdn.com/NdmzqkxqnWVnlngtk_ObYNT-wiY=/287x162/filters:strip_icc():quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/image/206/moji-a5bd3e.jpg"/>
+  </programme>
+  <programme channel="206" start="20260424020000 +0000" stop="20260424035400 +0000">
+    <title lang="id">Ungkap</title>
+    <desc lang="id">Ungkap</desc>
+    <icon src="https://thumbor.prod.vidiocdn.com/NdmzqkxqnWVnlngtk_ObYNT-wiY=/287x162/filters:strip_icc():quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/image/206/moji-a5bd3e.jpg"/>
+  </programme>
+  <programme channel="206" start="20260424035400 +0000" stop="20260424055100 +0000">
+    <title lang="id">Tercyduk</title>
+    <desc lang="id">Tercyduk</desc>
+    <icon src="https://thumbor.prod.vidiocdn.com/NdmzqkxqnWVnlngtk_ObYNT-wiY=/287x162/filters:strip_icc():quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/image/206/moji-a5bd3e.jpg"/>
+  </programme>
+  <programme channel="206" start="20260424055100 +0000" stop="20260424070000 +0000">
+    <title lang="id">Tercyduk</title>
+    <desc lang="id">Tercyduk</desc>
+    <icon src="https://thumbor.prod.vidiocdn.com/NdmzqkxqnWVnlngtk_ObYNT-wiY=/287x162/filters:strip_icc():quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/image/206/moji-a5bd3e.jpg"/>
+  </programme>
+  <programme channel="206" start="20260424070000 +0000" stop="20260424073000 +0000">
+    <title lang="id">Road To Grand Final Proliga 2026 Putri</title>
+    <desc lang="id">Road To Grand Final Proliga 2026 Putri</desc>
+    <icon src="https://thumbor.prod.vidiocdn.com/NdmzqkxqnWVnlngtk_ObYNT-wiY=/287x162/filters:strip_icc():quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/image/206/moji-a5bd3e.jpg"/>
+  </programme>
+  <programme channel="206" start="20260424073000 +0000" stop="20260424110000 +0000">
+    <title lang="id">Proliga 2026 First Serve 15:00</title>
+    <desc lang="id">Proliga 2026 First Serve 15:00</desc>
+    <icon src="https://thumbor.prod.vidiocdn.com/NdmzqkxqnWVnlngtk_ObYNT-wiY=/287x162/filters:strip_icc():quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/image/206/moji-a5bd3e.jpg"/>
+  </programme>
+  <programme channel="206" start="20260424110000 +0000" stop="20260424113000 +0000">
+    <title lang="id">Road To Grand Final Proliga 2026 Putri</title>
+    <desc lang="id">Road To Grand Final Proliga 2026 Putri</desc>
+    <icon src="https://thumbor.prod.vidiocdn.com/NdmzqkxqnWVnlngtk_ObYNT-wiY=/287x162/filters:strip_icc():quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/image/206/moji-a5bd3e.jpg"/>
+  </programme>
+  <programme channel="206" start="20260424113000 +0000" stop="20260424140000 +0000">
+    <title lang="id">Proliga 2026 First Serve 19:00</title>
+    <desc lang="id">Proliga 2026 First Serve 19:00</desc>
+    <icon src="https://thumbor.prod.vidiocdn.com/NdmzqkxqnWVnlngtk_ObYNT-wiY=/287x162/filters:strip_icc():quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/image/206/moji-a5bd3e.jpg"/>
+  </programme>
+  <programme channel="206" start="20260424140000 +0000" stop="20260424160900 +0000">
+    <title lang="id">Rerun Uel</title>
+    <desc lang="id">Rerun Uel</desc>
+    <icon src="https://thumbor.prod.vidiocdn.com/NdmzqkxqnWVnlngtk_ObYNT-wiY=/287x162/filters:strip_icc():quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/image/206/moji-a5bd3e.jpg"/>
+  </programme>
+  <programme channel="206" start="20260424160900 +0000" stop="20260424171200 +0000">
+    <title lang="id">Harta Tahta Cinta</title>
+    <desc lang="id">Harta Tahta Cinta</desc>
+    <icon src="https://thumbor.prod.vidiocdn.com/NdmzqkxqnWVnlngtk_ObYNT-wiY=/287x162/filters:strip_icc():quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/image/206/moji-a5bd3e.jpg"/>
+  </programme>
+  <programme channel="206" start="20260424160900 +0000" stop="20260424171200 +0000">
+    <title lang="id">Harta Tahta Cinta</title>
+    <desc lang="id">Harta Tahta Cinta</desc>
+    <icon src="https://thumbor.prod.vidiocdn.com/NdmzqkxqnWVnlngtk_ObYNT-wiY=/287x162/filters:strip_icc():quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/image/206/moji-a5bd3e.jpg"/>
+  </programme>
+  <programme channel="206" start="20260424171200 +0000" stop="20260424184000 +0000">
+    <title lang="id">Rerun Proliga 2026</title>
+    <desc lang="id">Rerun Proliga 2026</desc>
+    <icon src="https://thumbor.prod.vidiocdn.com/NdmzqkxqnWVnlngtk_ObYNT-wiY=/287x162/filters:strip_icc():quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/image/206/moji-a5bd3e.jpg"/>
+  </programme>
+  <programme channel="206" start="20260424184000 +0000" stop="20260424203300 +0000">
+    <title lang="id">Rerun Proliga 2026</title>
+    <desc lang="id">Rerun Proliga 2026</desc>
+    <icon src="https://thumbor.prod.vidiocdn.com/NdmzqkxqnWVnlngtk_ObYNT-wiY=/287x162/filters:strip_icc():quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/image/206/moji-a5bd3e.jpg"/>
+  </programme>
+  <programme channel="206" start="20260424203300 +0000" stop="20260424220000 +0000">
+    <title lang="id">Rerun Proliga 2026</title>
+    <desc lang="id">Rerun Proliga 2026</desc>
+    <icon src="https://thumbor.prod.vidiocdn.com/NdmzqkxqnWVnlngtk_ObYNT-wiY=/287x162/filters:strip_icc():quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/image/206/moji-a5bd3e.jpg"/>
+  </programme>
+  <programme channel="206" start="20260424220000 +0000" stop="20260424231500 +0000">
+    <title lang="id">Moji Sport</title>
+    <desc lang="id">Moji Sport</desc>
+    <icon src="https://thumbor.prod.vidiocdn.com/NdmzqkxqnWVnlngtk_ObYNT-wiY=/287x162/filters:strip_icc():quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/image/206/moji-a5bd3e.jpg"/>
+  </programme>
+  <programme channel="206" start="20260424231500 +0000" stop="20260425000000 +0000">
+    <title lang="id">Liputan 6 Pagi Moji</title>
+    <desc lang="id">Liputan 6 Pagi Moji</desc>
+    <icon src="https://thumbor.prod.vidiocdn.com/NdmzqkxqnWVnlngtk_ObYNT-wiY=/287x162/filters:strip_icc():quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/image/206/moji-a5bd3e.jpg"/>
+  </programme>
+  <programme channel="206" start="20260425000000 +0000" stop="20260425010000 +0000">
+    <title lang="id">Bisik Pagi</title>
+    <desc lang="id">Bisik Pagi</desc>
+    <icon src="https://thumbor.prod.vidiocdn.com/NdmzqkxqnWVnlngtk_ObYNT-wiY=/287x162/filters:strip_icc():quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/image/206/moji-a5bd3e.jpg"/>
+  </programme>
+  <programme channel="206" start="20260425010000 +0000" stop="20260425020400 +0000">
+    <title lang="id">Ungkap</title>
+    <desc lang="id">Ungkap</desc>
+    <icon src="https://thumbor.prod.vidiocdn.com/NdmzqkxqnWVnlngtk_ObYNT-wiY=/287x162/filters:strip_icc():quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/image/206/moji-a5bd3e.jpg"/>
+  </programme>
+  <programme channel="206" start="20260425020400 +0000" stop="20260425035800 +0000">
+    <title lang="id">Ungkap</title>
+    <desc lang="id">Ungkap</desc>
+    <icon src="https://thumbor.prod.vidiocdn.com/NdmzqkxqnWVnlngtk_ObYNT-wiY=/287x162/filters:strip_icc():quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/image/206/moji-a5bd3e.jpg"/>
+  </programme>
+  <programme channel="206" start="20260425035800 +0000" stop="20260425060900 +0000">
+    <title lang="id">Tercyduk</title>
+    <desc lang="id">Tercyduk</desc>
+    <icon src="https://thumbor.prod.vidiocdn.com/NdmzqkxqnWVnlngtk_ObYNT-wiY=/287x162/filters:strip_icc():quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/image/206/moji-a5bd3e.jpg"/>
+  </programme>
+  <programme channel="206" start="20260425060900 +0000" stop="20260425072000 +0000">
+    <title lang="id">Tercyduk</title>
+    <desc lang="id">Tercyduk</desc>
+    <icon src="https://thumbor.prod.vidiocdn.com/NdmzqkxqnWVnlngtk_ObYNT-wiY=/287x162/filters:strip_icc():quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/image/206/moji-a5bd3e.jpg"/>
+  </programme>
+  <programme channel="206" start="20260425072000 +0000" stop="20260425103000 +0000">
+    <title lang="id">Proliga 2026 First Serve 15:00</title>
+    <desc lang="id">Proliga 2026 First Serve 15:00</desc>
+    <icon src="https://thumbor.prod.vidiocdn.com/NdmzqkxqnWVnlngtk_ObYNT-wiY=/287x162/filters:strip_icc():quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/image/206/moji-a5bd3e.jpg"/>
+  </programme>
+  <programme channel="206" start="20260425103000 +0000" stop="20260425112000 +0000">
+    <title lang="id">American Ninja Warrior</title>
+    <desc lang="id">American Ninja Warrior</desc>
+    <icon src="https://thumbor.prod.vidiocdn.com/NdmzqkxqnWVnlngtk_ObYNT-wiY=/287x162/filters:strip_icc():quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/image/206/moji-a5bd3e.jpg"/>
+  </programme>
+  <programme channel="206" start="20260425112000 +0000" stop="20260425140000 +0000">
+    <title lang="id">Proliga 2026 First Serve 19:00</title>
+    <desc lang="id">Proliga 2026 First Serve 19:00</desc>
+    <icon src="https://thumbor.prod.vidiocdn.com/NdmzqkxqnWVnlngtk_ObYNT-wiY=/287x162/filters:strip_icc():quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/image/206/moji-a5bd3e.jpg"/>
+  </programme>
+  <programme channel="206" start="20260425140000 +0000" stop="20260425160900 +0000">
+    <title lang="id">Rerun Uel</title>
+    <desc lang="id">Rerun Uel</desc>
+    <icon src="https://thumbor.prod.vidiocdn.com/NdmzqkxqnWVnlngtk_ObYNT-wiY=/287x162/filters:strip_icc():quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/image/206/moji-a5bd3e.jpg"/>
+  </programme>
+  <programme channel="206" start="20260425160900 +0000" stop="20260425173500 +0000">
+    <title lang="id">One Friday Fights</title>
+    <desc lang="id">One Friday Fights</desc>
     <icon src="https://thumbor.prod.vidiocdn.com/NdmzqkxqnWVnlngtk_ObYNT-wiY=/287x162/filters:strip_icc():quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/image/206/moji-a5bd3e.jpg"/>
   </programme>
   <programme channel="777" start="20260418163000 +0000" stop="20260418170000 +0000">
@@ -6260,15 +7660,15 @@
     <desc lang="id">Ante Budimir</desc>
     <icon src="https://thumbor.prod.vidiocdn.com/5yUHYfv_b1sZi7kdFElm8JqF2RY=/287x162/filters:strip_icc():quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/image/6299/bein-1-4bd997.jpg"/>
   </programme>
-  <programme channel="6299" start="20260420164000 +0000" stop="20260420192000 +0000">
-    <title lang="id">Final : UEFA Youth League 2025/26</title>
-    <desc lang="id">Final</desc>
-    <icon src="https://thumbor.prod.vidiocdn.com/5yUHYfv_b1sZi7kdFElm8JqF2RY=/287x162/filters:strip_icc():quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/image/6299/bein-1-4bd997.jpg"/>
+  <programme channel="6299" start="20260420164500 +0000" stop="20260420184500 +0000">
+    <title lang="id">Final: Club Brugge vs Real Madrid - UEFA Youth League</title>
+    <desc lang="id">Nonton streaming pertandingan seru Final: Club Brugge vs Real Madrid - UEFA Youth League. Saksikan aksi-aksi terbaik dari tim yang bersaing ketat untuk meraih kemenangan. Dapatkan informasi lengkap mengenai jadwal pertandingan dan hasil pertandingan terbaru hanya di Vidio.</desc>
+    <icon src="https://thumbor.prod.vidiocdn.com/zCENTpUZrVugHjgUIPOGvLE033s=/287x162/filters:strip_icc():quality(70)/vidio-media-production/uploads/livestreaming/schedule/thumbnail/5020784/2bdf07.jpg"/>
   </programme>
-  <programme channel="6299" start="20260420164000 +0000" stop="20260420192000 +0000">
-    <title lang="id">Final : UEFA Youth League 2025/26</title>
-    <desc lang="id">Final</desc>
-    <icon src="https://thumbor.prod.vidiocdn.com/5yUHYfv_b1sZi7kdFElm8JqF2RY=/287x162/filters:strip_icc():quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/image/6299/bein-1-4bd997.jpg"/>
+  <programme channel="6299" start="20260420164500 +0000" stop="20260420184500 +0000">
+    <title lang="id">Final: Club Brugge vs Real Madrid - UEFA Youth League</title>
+    <desc lang="id">Nonton streaming pertandingan seru Final: Club Brugge vs Real Madrid - UEFA Youth League. Saksikan aksi-aksi terbaik dari tim yang bersaing ketat untuk meraih kemenangan. Dapatkan informasi lengkap mengenai jadwal pertandingan dan hasil pertandingan terbaru hanya di Vidio.</desc>
+    <icon src="https://thumbor.prod.vidiocdn.com/zCENTpUZrVugHjgUIPOGvLE033s=/287x162/filters:strip_icc():quality(70)/vidio-media-production/uploads/livestreaming/schedule/thumbnail/5020784/2bdf07.jpg"/>
   </programme>
   <programme channel="6299" start="20260420192000 +0000" stop="20260420193000 +0000">
     <title lang="id">Vini Jr : LaLiga Goals Galore 2024/25</title>
@@ -18040,17 +19440,17 @@ dan komprehensif mengenai berbagai topik yang relevan dalam kehidupan sehari-har
     <desc lang="id">Show 28 Matchweek 33</desc>
     <icon src="https://thumbor.prod.vidiocdn.com/r_QaZubFaj9Ht_TI2kDgdImcRqY=/287x162/filters:strip_icc():quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/image/9182/champions-tv-5-e0dd48.jpg"/>
   </programme>
-  <programme channel="9182" start="20260419123000 +0000" stop="20260419150000 +0000">
+  <programme channel="9182" start="20260419123000 +0000" stop="20260419151000 +0000">
     <title lang="id">Everton vs Liverpool - Premier League</title>
     <desc lang="id">Nonton streaming pertandingan seru Everton vs Liverpool - Premier League. Saksikan aksi-aksi terbaik dari tim yang bersaing ketat untuk meraih kemenangan. Dapatkan informasi lengkap mengenai jadwal pertandingan dan hasil pertandingan terbaru hanya di Vidio.</desc>
     <icon src="https://thumbor.prod.vidiocdn.com/inPOjJTkJwt5UNs5rnbJdAD0Px8=/287x162/filters:strip_icc():quality(70)/vidio-media-production/uploads/livestreaming/schedule/thumbnail/5017180/86e292.jpg"/>
   </programme>
-  <programme channel="9182" start="20260419150000 +0000" stop="20260419173000 +0000">
+  <programme channel="9182" start="20260419151000 +0000" stop="20260419173000 +0000">
     <title lang="id">Man City vs Arsenal - Premier League</title>
     <desc lang="id">Nonton streaming pertandingan seru Man City vs Arsenal - Premier League. Saksikan aksi-aksi terbaik dari tim yang bersaing ketat untuk meraih kemenangan. Dapatkan informasi lengkap mengenai jadwal pertandingan dan hasil pertandingan terbaru hanya di Vidio.</desc>
     <icon src="https://thumbor.prod.vidiocdn.com/kAyY3eR2guvv0XnPZvG0MtzzqNg=/287x162/filters:strip_icc():quality(70)/vidio-media-production/uploads/livestreaming/schedule/thumbnail/5015503/ae907b.jpg"/>
   </programme>
-  <programme channel="9182" start="20260419150000 +0000" stop="20260419173000 +0000">
+  <programme channel="9182" start="20260419151000 +0000" stop="20260419173000 +0000">
     <title lang="id">Man City vs Arsenal - Premier League</title>
     <desc lang="id">Nonton streaming pertandingan seru Man City vs Arsenal - Premier League. Saksikan aksi-aksi terbaik dari tim yang bersaing ketat untuk meraih kemenangan. Dapatkan informasi lengkap mengenai jadwal pertandingan dan hasil pertandingan terbaru hanya di Vidio.</desc>
     <icon src="https://thumbor.prod.vidiocdn.com/kAyY3eR2guvv0XnPZvG0MtzzqNg=/287x162/filters:strip_icc():quality(70)/vidio-media-production/uploads/livestreaming/schedule/thumbnail/5015503/ae907b.jpg"/>

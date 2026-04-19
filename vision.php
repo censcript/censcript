@@ -607,9 +607,6 @@
 <programme start="20260419090000 +0000" stop="20260419110000 +0000" channel="ANTV.vision">
 <title>Vasudha</title>
 </programme>
-<programme start="20260419130000 +0000" stop="20260419143000 +0000" channel="ANTV.vision">
-<title>Ratapan Dan Rintihan</title>
-</programme>
 <programme start="20260419143000 +0000" stop="20260419163000 +0000" channel="ANTV.vision">
 <title>Inang</title>
 </programme>
@@ -1497,4 +1494,7 @@
 </programme>
 <programme start="20260419110000 +0000" stop="20260419113000 +0000" channel="JAK TV.vision">
 <title>Muslimpedia</title>
+</programme>
+<programme start="20260419113000 +0000" stop="20260419120000 +0000" channel="JAK TV.vision">
+<title>The Cloth Story</title>
 </programme>
