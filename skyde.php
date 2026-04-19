@@ -3214,18 +3214,6 @@
 <programme start="20260419180000 +0000" stop="20260420080000 +0000" channel="Sky Sport 5 HD.skyde">
     <title>Live LIV Golf: Mexiko City, 4. Tag in Naucalpan</title>
 </programme>
-<programme start="20260419104000 +0000" stop="20260419110000 +0000" channel="Sky Sport 6 HD.skyde">
-    <title>Es folgt: LIVE WTA</title>
-</programme>
-<programme start="20260419110000 +0000" stop="20260419133000 +0000" channel="Sky Sport 6 HD.skyde">
-    <title>Live WTA 500: E. Rybakina (KAZ) - K. Muchova (CZE), Porsche Tennis Grand Prix in Stuttgart, Finale</title>
-</programme>
-<programme start="20260419133000 +0000" stop="20260419140000 +0000" channel="Sky Sport 6 HD.skyde">
-    <title>ATP: This Week</title>
-</programme>
-<programme start="20260419140000 +0000" stop="20260419193000 +0000" channel="Sky Sport 6 HD.skyde">
-    <title>Live ATP 500: A. Fils (FRA) - A. Rublev, Barcelona Open BancSabadell in Barcelona (ESP), Finale</title>
-</programme>
 <programme start="20260419123000 +0000" stop="20260419125000 +0000" channel="Sky Sport 7 HD.skyde">
     <title>Es folgt: Live Premier League</title>
 </programme>
