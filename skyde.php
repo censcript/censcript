@@ -97,39 +97,6 @@
 <programme start="20260419215500 +0000" stop="20260419224000 +0000" channel="13th Street HD.skyde">
     <title>FBI: Special Crime Unit</title>
 </programme>
-<programme start="20260418224500 +0000" stop="20260419002000 +0000" channel="Beate Uhse HD.skyde">
-    <title>Doppeltes Date</title>
-</programme>
-<programme start="20260419002000 +0000" stop="20260419004000 +0000" channel="Beate Uhse HD.skyde">
-    <title>Tat &amp; Wahrheit</title>
-</programme>
-<programme start="20260419004000 +0000" stop="20260419020000 +0000" channel="Beate Uhse HD.skyde">
-    <title>Disco Swingers</title>
-</programme>
-<programme start="20260419020000 +0000" stop="20260419032500 +0000" channel="Beate Uhse HD.skyde">
-    <title>London City Crypto Sex</title>
-</programme>
-<programme start="20260419032500 +0000" stop="20260419034500 +0000" channel="Beate Uhse HD.skyde">
-    <title>Die Dirndljäger</title>
-</programme>
-<programme start="20260419034500 +0000" stop="20260419181500 +0000" channel="Beate Uhse HD.skyde">
-    <title>Programm von 20.15 Uhr bis 05.45 Uhr</title>
-</programme>
-<programme start="20260419181500 +0000" stop="20260419191500 +0000" channel="Beate Uhse HD.skyde">
-    <title>Fesselspiele im Büro - Bitch &amp; Boss</title>
-</programme>
-<programme start="20260419191500 +0000" stop="20260419202000 +0000" channel="Beate Uhse HD.skyde">
-    <title>XConfessions</title>
-</programme>
-<programme start="20260419202000 +0000" stop="20260419212000 +0000" channel="Beate Uhse HD.skyde">
-    <title>Connys Top 5</title>
-</programme>
-<programme start="20260419212000 +0000" stop="20260419214500 +0000" channel="Beate Uhse HD.skyde">
-    <title>Rosetti Casting</title>
-</programme>
-<programme start="20260419214500 +0000" stop="20260419224000 +0000" channel="Beate Uhse HD.skyde">
-    <title>Vlog Uncut</title>
-</programme>
 <programme start="20260418220000 +0000" stop="20260418221000 +0000" channel="Cartoon Network.skyde">
     <title>Regular Show - Völlig abgedreht</title>
 </programme>
@@ -2593,17 +2560,17 @@
 <programme start="20260419120000 +0000" stop="20260419122000 +0000" channel="Sky Sport Austria 3 HD.skyde">
     <title>Es folgt Fußball: Österreich, Admiral Bundesliga</title>
 </programme>
-<programme start="20260419122000 +0000" stop="20260419144500 +0000" channel="Sky Sport Austria 3 HD.skyde">
+<programme start="20260419122000 +0000" stop="20260419151500 +0000" channel="Sky Sport Austria 3 HD.skyde">
     <title>Live Admiral BL: TSV Egger Glas Hartberg - SK Rapid, 27. Runde</title>
 </programme>
 <programme start="20260419084000 +0000" stop="20260419090000 +0000" channel="Sky Sport Austria 4 HD.skyde">
     <title>Es folgt: Live ATP Tour</title>
 </programme>
 <programme start="20260419090000 +0000" stop="20260419113000 +0000" channel="Sky Sport Austria 4 HD.skyde">
-    <title>Live ATP 500: Doppelfinale, BMW Open in München, Doppelfinale</title>
+    <title>Live ATP 500: J. Schnaitter (GER) / M. Wallner (GER) - T. Arribage (FRA) / A. Olivetti (FRA), BMW Open in München, Doppelfinale</title>
 </programme>
-<programme start="20260419113000 +0000" stop="20260419140000 +0000" channel="Sky Sport Austria 4 HD.skyde">
-    <title>Live ATP 500: Finale, BMW Open in München, Finale</title>
+<programme start="20260419113000 +0000" stop="20260419143000 +0000" channel="Sky Sport Austria 4 HD.skyde">
+    <title>Live ATP 500: B. Shelton (USA) - F. Cobolli (ITA), BMW Open in München, Finale</title>
 </programme>
 <programme start="20260419121000 +0000" stop="20260419123000 +0000" channel="Sky Sport Austria 5 HD.skyde">
     <title>Es folgt: Live Premier League</title>
@@ -2777,7 +2744,7 @@
     <title>F1: Rennen - GP Japan</title>
 </programme>
 <programme start="20260419020000 +0000" stop="20260419033000 +0000" channel="Sky Sport F1 HD.skyde">
-    <title>IndyCar: Qualifying in Long Beach (Kalifornien)</title>
+    <title>IndyCar: 1. Training in Long Beach (Kalifornien)</title>
 </programme>
 <programme start="20260419033000 +0000" stop="20260419040000 +0000" channel="Sky Sport F1 HD.skyde">
     <title>F1: 2025: Most Dramatic Moments</title>
