@@ -3211,7 +3211,7 @@
 <programme start="20260419174000 +0000" stop="20260419180000 +0000" channel="Sky Sport 5 HD.skyde">
     <title>Golf: Es folgt</title>
 </programme>
-<programme start="20260419180000 +0000" stop="20260420080000 +0000" channel="Sky Sport 5 HD.skyde">
+<programme start="20260419180000 +0000" stop="20260419230000 +0000" channel="Sky Sport 5 HD.skyde">
     <title>Live LIV Golf: Mexiko City, 4. Tag in Naucalpan</title>
 </programme>
 <programme start="20260419104000 +0000" stop="20260419110000 +0000" channel="Sky Sport 6 HD.skyde">
