@@ -7939,8 +7939,11 @@
     <programme start="20260419052500 +0000" stop="20260419073000 +0000" channel="SPOTV2.starhub">
         <title>25/26 A-League Men Round 25 Adelaide United vs Macarthur FC (Live)</title>
     </programme>
-    <programme start="20260419073000 +0000" stop="20260419100000 +0000" channel="SPOTV2.starhub">
-        <title>Round 1</title>
+    <programme start="20260419073000 +0000" stop="20260419090000 +0000" channel="SPOTV2.starhub">
+        <title>Round 2</title>
+    </programme>
+    <programme start="20260419090000 +0000" stop="20260419100000 +0000" channel="SPOTV2.starhub">
+        <title>International Series Japan</title>
     </programme>
     <programme start="20260419100000 +0000" stop="20260419103000 +0000" channel="SPOTV2.starhub">
         <title>2025/26 ALM Mini Match Rd 24 Newcastle Jets FC vs Adelaide United</title>
