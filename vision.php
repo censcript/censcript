@@ -412,9 +412,6 @@
 <programme start="20260419080000 +0000" stop="20260419090000 +0000" channel="Trans TV.vision">
 <title>Insert Investigasi</title>
 </programme>
-<programme start="20260419090000 +0000" stop="20260419100000 +0000" channel="Trans TV.vision">
-<title>Sehari Jadi Ratu</title>
-</programme>
 <programme start="20260419100000 +0000" stop="20260419110000 +0000" channel="Trans TV.vision">
 <title>Bikin Laper</title>
 </programme>
@@ -526,12 +523,6 @@
 <programme start="20260419154500 +0000" stop="20260419163000 +0000" channel="Trans 7.vision">
 <title>The Police</title>
 </programme>
-<programme start="20260419163000 +0000" stop="20260419174500 +0000" channel="Trans 7.vision">
-<title>Wabah Maut Sang Penari</title>
-</programme>
-<programme start="20260419174500 +0000" stop="20260419183000 +0000" channel="Trans 7.vision">
-<title>Superbike 2026 Netherlands</title>
-</programme>
 <programme start="20260419183000 +0000" stop="20260419193000 +0000" channel="Trans 7.vision">
 <title>Best Fishing</title>
 </programme>
@@ -609,18 +600,6 @@
 </programme>
 <programme start="20260419090000 +0000" stop="20260419110000 +0000" channel="ANTV.vision">
 <title>Vasudha</title>
-</programme>
-<programme start="20260419110000 +0000" stop="20260419130000 +0000" channel="ANTV.vision">
-<title>Pendekar Ksatria</title>
-</programme>
-<programme start="20260419130000 +0000" stop="20260419143000 +0000" channel="ANTV.vision">
-<title>Ratapan Dan Rintihan</title>
-</programme>
-<programme start="20260419143000 +0000" stop="20260419163000 +0000" channel="ANTV.vision">
-<title>Inang</title>
-</programme>
-<programme start="20260419163000 +0000" stop="20260419181500 +0000" channel="ANTV.vision">
-<title>Flaming Brothers</title>
 </programme>
 <programme start="20260419181500 +0000" stop="20260419203000 +0000" channel="ANTV.vision">
 <title>Serie A Liga Italia</title>
@@ -1497,4 +1476,25 @@
 </programme>
 <programme start="20260419093000 +0000" stop="20260419100000 +0000" channel="JAK TV.vision">
 <title>My Health My Choice</title>
+</programme>
+<programme start="20260419100000 +0000" stop="20260419110000 +0000" channel="JAK TV.vision">
+<title>The Youth Doctor</title>
+</programme>
+<programme start="20260419110000 +0000" stop="20260419113000 +0000" channel="JAK TV.vision">
+<title>Muslimpedia</title>
+</programme>
+<programme start="20260419113000 +0000" stop="20260419120000 +0000" channel="JAK TV.vision">
+<title>The Cloth Story</title>
+</programme>
+<programme start="20260419120000 +0000" stop="20260419123000 +0000" channel="JAK TV.vision">
+<title>Khazanah Kenyalang</title>
+</programme>
+<programme start="20260419123000 +0000" stop="20260419130000 +0000" channel="JAK TV.vision">
+<title>Vlogger On The Road</title>
+</programme>
+<programme start="20260419130000 +0000" stop="20260419140000 +0000" channel="JAK TV.vision">
+<title>Three Queens</title>
+</programme>
+<programme start="20260419140000 +0000" stop="20260419150000 +0000" channel="JAK TV.vision">
+<title>Medika Natura</title>
 </programme>

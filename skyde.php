@@ -2521,17 +2521,17 @@
 <programme start="20260419213000 +0000" stop="20260419222000 +0000" channel="Sky Showcase HD.skyde">
     <title>Red Eye</title>
 </programme>
-<programme start="20260418220000 +0000" stop="20260418230000 +0000" channel="Sky Sport Austria 1 HD.skyde">
-    <title>Admiral BL: Alle Spiele, alle Tore 27. Runde (Samstag)</title>
+<programme start="20260418220000 +0000" stop="20260418223000 +0000" channel="Sky Sport Austria 1 HD.skyde">
+    <title>RIESENrad: Sportgrößen im Waggon 28 (Gast: Janine Flock)</title>
+</programme>
+<programme start="20260418223000 +0000" stop="20260418230000 +0000" channel="Sky Sport Austria 1 HD.skyde">
+    <title>UEFA CL: Magazin</title>
 </programme>
 <programme start="20260418230000 +0000" stop="20260419010000 +0000" channel="Sky Sport Austria 1 HD.skyde">
     <title>Admiral BL: WSG Tirol - SCR Altach, 27. Runde</title>
 </programme>
-<programme start="20260419010000 +0000" stop="20260419013000 +0000" channel="Sky Sport Austria 1 HD.skyde">
-    <title>RIESENrad: Sportgrößen im Waggon 28 (Gast: Janine Flock)</title>
-</programme>
-<programme start="20260419013000 +0000" stop="20260419020000 +0000" channel="Sky Sport Austria 1 HD.skyde">
-    <title>RIESENrad: Sportgrößen im Waggon 28 (Gast: Janine Flock)</title>
+<programme start="20260419010000 +0000" stop="20260419020000 +0000" channel="Sky Sport Austria 1 HD.skyde">
+    <title>Admiral BL: Alle Spiele, alle Tore 27. Runde (Samstag)</title>
 </programme>
 <programme start="20260419020000 +0000" stop="20260419040000 +0000" channel="Sky Sport Austria 1 HD.skyde">
     <title>Admiral BL: RZ Pellets WAC - FC Blau-Weiß Linz, 27. Runde</title>
@@ -2542,11 +2542,14 @@
 <programme start="20260419041500 +0000" stop="20260419044500 +0000" channel="Sky Sport Austria 1 HD.skyde">
     <title>RIESENrad: Sportgrößen im Waggon 28 (Gast: Janine Flock)</title>
 </programme>
-<programme start="20260419044500 +0000" stop="20260419064500 +0000" channel="Sky Sport Austria 1 HD.skyde">
+<programme start="20260419044500 +0000" stop="20260419054500 +0000" channel="Sky Sport Austria 1 HD.skyde">
+    <title>Admiral BL: Alle Spiele, alle Tore 27. Runde (Samstag)</title>
+</programme>
+<programme start="20260419054500 +0000" stop="20260419074500 +0000" channel="Sky Sport Austria 1 HD.skyde">
     <title>Admiral BL: RZ Pellets WAC - FC Blau-Weiß Linz, 27. Runde</title>
 </programme>
-<programme start="20260419064500 +0000" stop="20260419084500 +0000" channel="Sky Sport Austria 1 HD.skyde">
-    <title>Admiral BL: RZ Pellets WAC - FC Blau-Weiß Linz, 27. Runde</title>
+<programme start="20260419074500 +0000" stop="20260419084500 +0000" channel="Sky Sport Austria 1 HD.skyde">
+    <title>Admiral BL: Alle Spiele, alle Tore 27. Runde (Samstag)</title>
 </programme>
 <programme start="20260419084500 +0000" stop="20260419091500 +0000" channel="Sky Sport Austria 1 HD.skyde">
     <title>UEFA CL: Magazin</title>
@@ -2584,13 +2587,13 @@
 <programme start="20260419120000 +0000" stop="20260419122000 +0000" channel="Sky Sport Austria 2 HD.skyde">
     <title>Es folgt Fußball: Österreich, Admiral Bundesliga</title>
 </programme>
-<programme start="20260419122000 +0000" stop="20260419151500 +0000" channel="Sky Sport Austria 2 HD.skyde">
+<programme start="20260419122000 +0000" stop="20260419144500 +0000" channel="Sky Sport Austria 2 HD.skyde">
     <title>Live Admiral BL: FK Austria Wien - FC Red Bull Salzburg, 27. Runde</title>
 </programme>
 <programme start="20260419120000 +0000" stop="20260419122000 +0000" channel="Sky Sport Austria 3 HD.skyde">
     <title>Es folgt Fußball: Österreich, Admiral Bundesliga</title>
 </programme>
-<programme start="20260419122000 +0000" stop="20260419151500 +0000" channel="Sky Sport Austria 3 HD.skyde">
+<programme start="20260419122000 +0000" stop="20260419144500 +0000" channel="Sky Sport Austria 3 HD.skyde">
     <title>Live Admiral BL: TSV Egger Glas Hartberg - SK Rapid, 27. Runde</title>
 </programme>
 <programme start="20260419084000 +0000" stop="20260419090000 +0000" channel="Sky Sport Austria 4 HD.skyde">
@@ -2608,7 +2611,7 @@
 <programme start="20260419123000 +0000" stop="20260419150000 +0000" channel="Sky Sport Austria 5 HD.skyde">
     <title>Live PL: FC Everton - FC Liverpool, 33. Spieltag</title>
 </programme>
-<programme start="20260419150000 +0000" stop="20260419180000 +0000" channel="Sky Sport Austria 5 HD.skyde">
+<programme start="20260419150000 +0000" stop="20260419173000 +0000" channel="Sky Sport Austria 5 HD.skyde">
     <title>Live PL: Manchester City - FC Arsenal, Match of the Week, 33. Spieltag</title>
 </programme>
 <programme start="20260418230000 +0000" stop="20260418234500 +0000" channel="Sky Sport Bundesliga HD.skyde">
@@ -3197,7 +3200,7 @@
     <title>DFB-Pokal: FC Bayern München - RB Leipzig, Viertelfinale</title>
 </programme>
 <programme start="20260419214000 +0000" stop="20260419220000 +0000" channel="Sky Sport 1 HD.skyde">
-    <title>NBA: Es folgt</title>
+    <title>Es folgt: LIVE NBA</title>
 </programme>
 <programme start="20260419162500 +0000" stop="20260419164500 +0000" channel="Sky Sport 4 HD.skyde">
     <title>Es folgt: Live NBA</title>
@@ -3211,25 +3214,25 @@
 <programme start="20260419174000 +0000" stop="20260419180000 +0000" channel="Sky Sport 5 HD.skyde">
     <title>Golf: Es folgt</title>
 </programme>
-<programme start="20260419180000 +0000" stop="20260420080000 +0000" channel="Sky Sport 5 HD.skyde">
+<programme start="20260419180000 +0000" stop="20260419230000 +0000" channel="Sky Sport 5 HD.skyde">
     <title>Live LIV Golf: Mexiko City, 4. Tag in Naucalpan</title>
 </programme>
 <programme start="20260419104000 +0000" stop="20260419110000 +0000" channel="Sky Sport 6 HD.skyde">
-    <title>WTA: Es folgt</title>
+    <title>Es folgt: LIVE WTA</title>
 </programme>
 <programme start="20260419110000 +0000" stop="20260419133000 +0000" channel="Sky Sport 6 HD.skyde">
-    <title>Live WTA 500: Finale, Porsche Tennis Grand Prix in Stuttgart, Finale</title>
+    <title>Live WTA 500: E. Rybakina (KAZ) - K. Muchova (CZE), Porsche Tennis Grand Prix in Stuttgart, Finale</title>
 </programme>
 <programme start="20260419133000 +0000" stop="20260419140000 +0000" channel="Sky Sport 6 HD.skyde">
     <title>ATP: This Week</title>
 </programme>
-<programme start="20260419140000 +0000" stop="20260419163000 +0000" channel="Sky Sport 6 HD.skyde">
-    <title>Live ATP 500: Finale, Barcelona Open BancSabadell in Barcelona (ESP), Finale</title>
+<programme start="20260419140000 +0000" stop="20260419193000 +0000" channel="Sky Sport 6 HD.skyde">
+    <title>Live ATP 500: A. Fils (FRA) - A. Rublev, Barcelona Open BancSabadell in Barcelona (ESP), Finale</title>
 </programme>
 <programme start="20260419123000 +0000" stop="20260419125000 +0000" channel="Sky Sport 7 HD.skyde">
     <title>Es folgt: Live Premier League</title>
 </programme>
-<programme start="20260419125000 +0000" stop="20260419153000 +0000" channel="Sky Sport 7 HD.skyde">
+<programme start="20260419125000 +0000" stop="20260419150000 +0000" channel="Sky Sport 7 HD.skyde">
     <title>Live PL: Nottingham Forest - FC Burnley, 33. Spieltag</title>
 </programme>
 <programme start="20260418222000 +0000" stop="20260418230500 +0000" channel="SYFY HD.skyde">
