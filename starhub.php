@@ -6496,7 +6496,10 @@
     <programme start="20260419150000 +0000" stop="20260419170000 +0000" channel="TV5MONDE HD.starhub">
         <title>Envoye Special</title>
     </programme>
-    <programme start="20260418160000 +0000" stop="20260418173000 +0000" channel="Hub Sports 1  HD.starhub">
+    <programme start="20260418140000 +0000" stop="20260418161200 +0000" channel="Hub Sports 1  HD.starhub">
+        <title>Barcelona Open Banc Sabadell (500) SF 2</title>
+    </programme>
+    <programme start="20260418161200 +0000" stop="20260418173000 +0000" channel="Hub Sports 1  HD.starhub">
         <title>Charleston Open (500) Final</title>
     </programme>
     <programme start="20260418173000 +0000" stop="20260418190000 +0000" channel="Hub Sports 1  HD.starhub">
@@ -7810,7 +7813,10 @@
     <programme start="20260418233000 +0000" stop="20260419013000 +0000" channel="Asianet Movies.starhub">
         <title>Changathippoocha</title>
     </programme>
-    <programme start="20260419013000 +0000" stop="20260419043000 +0000" channel="Asianet Movies.starhub">
+    <programme start="20260419013000 +0000" stop="20260419015000 +0000" channel="Asianet Movies.starhub">
+        <title>Filler:Chirikkum Thalika II</title>
+    </programme>
+    <programme start="20260419015000 +0000" stop="20260419043000 +0000" channel="Asianet Movies.starhub">
         <title>Sunday Holiday</title>
     </programme>
     <programme start="20260419043000 +0000" stop="20260419073000 +0000" channel="Asianet Movies.starhub">
