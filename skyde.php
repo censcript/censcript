@@ -97,6 +97,39 @@
 <programme start="20260419215500 +0000" stop="20260419224000 +0000" channel="13th Street HD.skyde">
     <title>FBI: Special Crime Unit</title>
 </programme>
+<programme start="20260418224500 +0000" stop="20260419002000 +0000" channel="Beate Uhse HD.skyde">
+    <title>Doppeltes Date</title>
+</programme>
+<programme start="20260419002000 +0000" stop="20260419004000 +0000" channel="Beate Uhse HD.skyde">
+    <title>Tat &amp; Wahrheit</title>
+</programme>
+<programme start="20260419004000 +0000" stop="20260419020000 +0000" channel="Beate Uhse HD.skyde">
+    <title>Disco Swingers</title>
+</programme>
+<programme start="20260419020000 +0000" stop="20260419032500 +0000" channel="Beate Uhse HD.skyde">
+    <title>London City Crypto Sex</title>
+</programme>
+<programme start="20260419032500 +0000" stop="20260419034500 +0000" channel="Beate Uhse HD.skyde">
+    <title>Die Dirndljäger</title>
+</programme>
+<programme start="20260419034500 +0000" stop="20260419181500 +0000" channel="Beate Uhse HD.skyde">
+    <title>Programm von 20.15 Uhr bis 05.45 Uhr</title>
+</programme>
+<programme start="20260419181500 +0000" stop="20260419191500 +0000" channel="Beate Uhse HD.skyde">
+    <title>Fesselspiele im Büro - Bitch &amp; Boss</title>
+</programme>
+<programme start="20260419191500 +0000" stop="20260419202000 +0000" channel="Beate Uhse HD.skyde">
+    <title>XConfessions</title>
+</programme>
+<programme start="20260419202000 +0000" stop="20260419212000 +0000" channel="Beate Uhse HD.skyde">
+    <title>Connys Top 5</title>
+</programme>
+<programme start="20260419212000 +0000" stop="20260419214500 +0000" channel="Beate Uhse HD.skyde">
+    <title>Rosetti Casting</title>
+</programme>
+<programme start="20260419214500 +0000" stop="20260419224000 +0000" channel="Beate Uhse HD.skyde">
+    <title>Vlog Uncut</title>
+</programme>
 <programme start="20260418220000 +0000" stop="20260418221000 +0000" channel="Cartoon Network.skyde">
     <title>Regular Show - Völlig abgedreht</title>
 </programme>
@@ -2488,17 +2521,17 @@
 <programme start="20260419213000 +0000" stop="20260419222000 +0000" channel="Sky Showcase HD.skyde">
     <title>Red Eye</title>
 </programme>
-<programme start="20260418220000 +0000" stop="20260418223000 +0000" channel="Sky Sport Austria 1 HD.skyde">
-    <title>RIESENrad: Sportgrößen im Waggon 28 (Gast: Janine Flock)</title>
-</programme>
-<programme start="20260418223000 +0000" stop="20260418230000 +0000" channel="Sky Sport Austria 1 HD.skyde">
-    <title>UEFA CL: Magazin</title>
+<programme start="20260418220000 +0000" stop="20260418230000 +0000" channel="Sky Sport Austria 1 HD.skyde">
+    <title>Admiral BL: Alle Spiele, alle Tore 27. Runde (Samstag)</title>
 </programme>
 <programme start="20260418230000 +0000" stop="20260419010000 +0000" channel="Sky Sport Austria 1 HD.skyde">
     <title>Admiral BL: WSG Tirol - SCR Altach, 27. Runde</title>
 </programme>
-<programme start="20260419010000 +0000" stop="20260419020000 +0000" channel="Sky Sport Austria 1 HD.skyde">
-    <title>Admiral BL: Alle Spiele, alle Tore 27. Runde (Samstag)</title>
+<programme start="20260419010000 +0000" stop="20260419013000 +0000" channel="Sky Sport Austria 1 HD.skyde">
+    <title>RIESENrad: Sportgrößen im Waggon 28 (Gast: Janine Flock)</title>
+</programme>
+<programme start="20260419013000 +0000" stop="20260419020000 +0000" channel="Sky Sport Austria 1 HD.skyde">
+    <title>RIESENrad: Sportgrößen im Waggon 28 (Gast: Janine Flock)</title>
 </programme>
 <programme start="20260419020000 +0000" stop="20260419040000 +0000" channel="Sky Sport Austria 1 HD.skyde">
     <title>Admiral BL: RZ Pellets WAC - FC Blau-Weiß Linz, 27. Runde</title>
@@ -2509,14 +2542,11 @@
 <programme start="20260419041500 +0000" stop="20260419044500 +0000" channel="Sky Sport Austria 1 HD.skyde">
     <title>RIESENrad: Sportgrößen im Waggon 28 (Gast: Janine Flock)</title>
 </programme>
-<programme start="20260419044500 +0000" stop="20260419054500 +0000" channel="Sky Sport Austria 1 HD.skyde">
-    <title>Admiral BL: Alle Spiele, alle Tore 27. Runde (Samstag)</title>
-</programme>
-<programme start="20260419054500 +0000" stop="20260419074500 +0000" channel="Sky Sport Austria 1 HD.skyde">
+<programme start="20260419044500 +0000" stop="20260419064500 +0000" channel="Sky Sport Austria 1 HD.skyde">
     <title>Admiral BL: RZ Pellets WAC - FC Blau-Weiß Linz, 27. Runde</title>
 </programme>
-<programme start="20260419074500 +0000" stop="20260419084500 +0000" channel="Sky Sport Austria 1 HD.skyde">
-    <title>Admiral BL: Alle Spiele, alle Tore 27. Runde (Samstag)</title>
+<programme start="20260419064500 +0000" stop="20260419084500 +0000" channel="Sky Sport Austria 1 HD.skyde">
+    <title>Admiral BL: RZ Pellets WAC - FC Blau-Weiß Linz, 27. Runde</title>
 </programme>
 <programme start="20260419084500 +0000" stop="20260419091500 +0000" channel="Sky Sport Austria 1 HD.skyde">
     <title>UEFA CL: Magazin</title>
@@ -2560,17 +2590,17 @@
 <programme start="20260419120000 +0000" stop="20260419122000 +0000" channel="Sky Sport Austria 3 HD.skyde">
     <title>Es folgt Fußball: Österreich, Admiral Bundesliga</title>
 </programme>
-<programme start="20260419122000 +0000" stop="20260419151500 +0000" channel="Sky Sport Austria 3 HD.skyde">
+<programme start="20260419122000 +0000" stop="20260419144500 +0000" channel="Sky Sport Austria 3 HD.skyde">
     <title>Live Admiral BL: TSV Egger Glas Hartberg - SK Rapid, 27. Runde</title>
 </programme>
 <programme start="20260419084000 +0000" stop="20260419090000 +0000" channel="Sky Sport Austria 4 HD.skyde">
     <title>Es folgt: Live ATP Tour</title>
 </programme>
 <programme start="20260419090000 +0000" stop="20260419113000 +0000" channel="Sky Sport Austria 4 HD.skyde">
-    <title>Live ATP 500: J. Schnaitter (GER) / M. Wallner (GER) - T. Arribage (FRA) / A. Olivetti (FRA), BMW Open in München, Doppelfinale</title>
+    <title>Live ATP 500: Doppelfinale, BMW Open in München, Doppelfinale</title>
 </programme>
-<programme start="20260419113000 +0000" stop="20260419143000 +0000" channel="Sky Sport Austria 4 HD.skyde">
-    <title>Live ATP 500: B. Shelton (USA) - F. Cobolli (ITA), BMW Open in München, Finale</title>
+<programme start="20260419113000 +0000" stop="20260419140000 +0000" channel="Sky Sport Austria 4 HD.skyde">
+    <title>Live ATP 500: Finale, BMW Open in München, Finale</title>
 </programme>
 <programme start="20260419121000 +0000" stop="20260419123000 +0000" channel="Sky Sport Austria 5 HD.skyde">
     <title>Es folgt: Live Premier League</title>
@@ -2578,17 +2608,20 @@
 <programme start="20260419123000 +0000" stop="20260419150000 +0000" channel="Sky Sport Austria 5 HD.skyde">
     <title>Live PL: FC Everton - FC Liverpool, 33. Spieltag</title>
 </programme>
-<programme start="20260419150000 +0000" stop="20260419173000 +0000" channel="Sky Sport Austria 5 HD.skyde">
+<programme start="20260419150000 +0000" stop="20260419180000 +0000" channel="Sky Sport Austria 5 HD.skyde">
     <title>Live PL: Manchester City - FC Arsenal, Match of the Week, 33. Spieltag</title>
 </programme>
-<programme start="20260418224500 +0000" stop="20260418234500 +0000" channel="Sky Sport Bundesliga HD.skyde">
+<programme start="20260418230000 +0000" stop="20260418234500 +0000" channel="Sky Sport Bundesliga HD.skyde">
+    <title>3. Liga: Alle Spiele, alle Tore, 34. Spieltag, Samstag</title>
+</programme>
+<programme start="20260418234500 +0000" stop="20260419004500 +0000" channel="Sky Sport Bundesliga HD.skyde">
+    <title>BL: Alle Spiele, alle Stimmen, 30. Spieltag</title>
+</programme>
+<programme start="20260419004500 +0000" stop="20260419014500 +0000" channel="Sky Sport Bundesliga HD.skyde">
     <title>2. BL Alle Spiele, alle Tore: Die Vodafone Highlight-Show, 30. Spieltag, Samstag komplett</title>
 </programme>
-<programme start="20260418234500 +0000" stop="20260419014500 +0000" channel="Sky Sport Bundesliga HD.skyde">
-    <title>BL: Eintracht Frankfurt - RB Leipzig, tipico Topspiel der Woche, 30. Spieltag</title>
-</programme>
 <programme start="20260419014500 +0000" stop="20260419034500 +0000" channel="Sky Sport Bundesliga HD.skyde">
-    <title>2. BL: Hannover 96 - SC Paderborn 07, tipico Topspiel der Woche, 30. Spieltag</title>
+    <title>2. BL: Samstags-Konferenz, 30. Spieltag</title>
 </programme>
 <programme start="20260419034500 +0000" stop="20260419040000 +0000" channel="Sky Sport Bundesliga HD.skyde">
     <title>BL: Highlights XXL: SVW - HSV, 30. Spieltag</title>
@@ -2600,13 +2633,13 @@
     <title>BL: 500. Topspiel - Die Jubiläums-Doku</title>
 </programme>
 <programme start="20260419044000 +0000" stop="20260419064000 +0000" channel="Sky Sport Bundesliga HD.skyde">
-    <title>BL: Eintracht Frankfurt - RB Leipzig, tipico Topspiel der Woche, 30. Spieltag</title>
+    <title>BL: Werder Bremen - Hamburger SV, 30. Spieltag</title>
 </programme>
 <programme start="20260419064000 +0000" stop="20260419065500 +0000" channel="Sky Sport Bundesliga HD.skyde">
     <title>BL: Highlights XXL: SVW - HSV, 30. Spieltag</title>
 </programme>
 <programme start="20260419065500 +0000" stop="20260419080000 +0000" channel="Sky Sport Bundesliga HD.skyde">
-    <title>BL: VfBeats - Track 3</title>
+    <title>BL: VfBeats - Track 3: Melodien aus der Kurve</title>
 </programme>
 <programme start="20260419080000 +0000" stop="20260419085500 +0000" channel="Sky Sport Bundesliga HD.skyde">
     <title>BL: Alle Spiele, alle Stimmen, 30. Spieltag</title>
@@ -2807,16 +2840,16 @@
     <title>Golf: Tee Time Stories (5)</title>
 </programme>
 <programme start="20260419010000 +0000" stop="20260419040000 +0000" channel="Sky Sport Golf HD.skyde">
-    <title>Golf: Senior PGA Championship, 3. Tag in Bradenton, FL (USA)</title>
+    <title>Golf: Senior PGA Championship, 2. Tag in Bradenton, FL (USA)</title>
 </programme>
 <programme start="20260419040000 +0000" stop="20260419043000 +0000" channel="Sky Sport Golf HD.skyde">
     <title>Golf: Tee Time Stories (1)</title>
 </programme>
 <programme start="20260419043000 +0000" stop="20260419073000 +0000" channel="Sky Sport Golf HD.skyde">
-    <title>LIV Golf: Mexiko City, 3. Tag in Naucalpan</title>
+    <title>LIV Golf: Mexiko City, 2. Tag in Naucalpan</title>
 </programme>
 <programme start="20260419073000 +0000" stop="20260419103000 +0000" channel="Sky Sport Golf HD.skyde">
-    <title>LPGA: JM Eagle LA Championship Presented by Plastpro, 3. Tag in Los Angeles, CA (USA)</title>
+    <title>LPGA: JM Eagle LA Championship Presented by Plastpro, 2. Tag in Los Angeles, CA (USA)</title>
 </programme>
 <programme start="20260419103000 +0000" stop="20260419140000 +0000" channel="Sky Sport Golf HD.skyde">
     <title>Live Golf Ladies ET: Joburg Ladies Open, 4. Tag in Johannesburg (Südafrika)</title>
@@ -2849,10 +2882,10 @@
     <title>3. Liga: Alle Spiele, alle Tore, 34. Spieltag, Samstag</title>
 </programme>
 <programme start="20260419050000 +0000" stop="20260419070000 +0000" channel="Sky Sport Mix HD.skyde">
-    <title>NHL: Philadelphia Flyers @ Pittsburgh Penguins, Playoffs, 1. Runde, Spiel 1</title>
+    <title>NHL: Detroit Red Wings @ Tampa Bay Lightning</title>
 </programme>
 <programme start="20260419070000 +0000" stop="20260419090500 +0000" channel="Sky Sport Mix HD.skyde">
-    <title>NHL: Ottawa Senators @ Carolina Hurricanes, Playoffs, 1. Runde, Spiel 1</title>
+    <title>NHL: Detroit Red Wings @ Tampa Bay Lightning</title>
 </programme>
 <programme start="20260419090500 +0000" stop="20260419095000 +0000" channel="Sky Sport Mix HD.skyde">
     <title>3. Liga: Alle Spiele, alle Tore, 34. Spieltag, Samstag</title>
@@ -3104,7 +3137,7 @@
     <title>Live NHL: Philadelphia Flyers @ Pittsburgh Penguins, Playoffs, 1. Runde, Spiel 1</title>
 </programme>
 <programme start="20260419030000 +0000" stop="20260419050000 +0000" channel="Sky Sport Top Event HD.skyde">
-    <title>PL: FC Chelsea - Manchester United, 33. Spieltag</title>
+    <title>PL: Newcastle United - AFC Bournemouth, 33. Spieltag</title>
 </programme>
 <programme start="20260419050000 +0000" stop="20260419070000 +0000" channel="Sky Sport Top Event HD.skyde">
     <title>BL: Werder Bremen - Hamburger SV, 30. Spieltag</title>
@@ -3178,20 +3211,20 @@
 <programme start="20260419174000 +0000" stop="20260419180000 +0000" channel="Sky Sport 5 HD.skyde">
     <title>Golf: Es folgt</title>
 </programme>
-<programme start="20260419180000 +0000" stop="20260419230000 +0000" channel="Sky Sport 5 HD.skyde">
+<programme start="20260419180000 +0000" stop="20260420080000 +0000" channel="Sky Sport 5 HD.skyde">
     <title>Live LIV Golf: Mexiko City, 4. Tag in Naucalpan</title>
 </programme>
 <programme start="20260419104000 +0000" stop="20260419110000 +0000" channel="Sky Sport 6 HD.skyde">
-    <title>WTA: Es folgt</title>
+    <title>Es folgt: LIVE WTA</title>
 </programme>
 <programme start="20260419110000 +0000" stop="20260419133000 +0000" channel="Sky Sport 6 HD.skyde">
-    <title>Live WTA 500: Finale, Porsche Tennis Grand Prix in Stuttgart, Finale</title>
+    <title>Live WTA 500: E. Rybakina (KAZ) - K. Muchova (CZE), Porsche Tennis Grand Prix in Stuttgart, Finale</title>
 </programme>
 <programme start="20260419133000 +0000" stop="20260419140000 +0000" channel="Sky Sport 6 HD.skyde">
     <title>ATP: This Week</title>
 </programme>
-<programme start="20260419140000 +0000" stop="20260419163000 +0000" channel="Sky Sport 6 HD.skyde">
-    <title>Live ATP 500: Finale, Barcelona Open BancSabadell in Barcelona (ESP), Finale</title>
+<programme start="20260419140000 +0000" stop="20260419193000 +0000" channel="Sky Sport 6 HD.skyde">
+    <title>Live ATP 500: A. Fils (FRA) - A. Rublev, Barcelona Open BancSabadell in Barcelona (ESP), Finale</title>
 </programme>
 <programme start="20260419123000 +0000" stop="20260419125000 +0000" channel="Sky Sport 7 HD.skyde">
     <title>Es folgt: Live Premier League</title>
