@@ -412,6 +412,9 @@
 <programme start="20260419080000 +0000" stop="20260419090000 +0000" channel="Trans TV.vision">
 <title>Insert Investigasi</title>
 </programme>
+<programme start="20260419090000 +0000" stop="20260419100000 +0000" channel="Trans TV.vision">
+<title>Sehari Jadi Ratu</title>
+</programme>
 <programme start="20260419100000 +0000" stop="20260419110000 +0000" channel="Trans TV.vision">
 <title>Bikin Laper</title>
 </programme>
@@ -606,6 +609,9 @@
 </programme>
 <programme start="20260419090000 +0000" stop="20260419110000 +0000" channel="ANTV.vision">
 <title>Vasudha</title>
+</programme>
+<programme start="20260419110000 +0000" stop="20260419130000 +0000" channel="ANTV.vision">
+<title>Pendekar Ksatria</title>
 </programme>
 <programme start="20260419130000 +0000" stop="20260419143000 +0000" channel="ANTV.vision">
 <title>Ratapan Dan Rintihan</title>
@@ -1491,10 +1497,4 @@
 </programme>
 <programme start="20260419093000 +0000" stop="20260419100000 +0000" channel="JAK TV.vision">
 <title>My Health My Choice</title>
-</programme>
-<programme start="20260419100000 +0000" stop="20260419110000 +0000" channel="JAK TV.vision">
-<title>The Youth Doctor</title>
-</programme>
-<programme start="20260419110000 +0000" stop="20260419113000 +0000" channel="JAK TV.vision">
-<title>Muslimpedia</title>
 </programme>

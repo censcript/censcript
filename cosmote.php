@@ -110,8 +110,8 @@
     <title>Football: Lecce - ACF Fiorentina (L)</title>
     <desc>Live: Ya</desc>
 </programme>
-<programme start="20260420010000 +0700" stop="20260420030000 +0700" channel="COSMOTE Sport 3 HD">
-    <title>Football: Pafos FC - AEK Larnaca</title>
+<programme start="20260421034500 +0700" stop="20260421060000 +0700" channel="COSMOTE Sport 2 HD">
+    <title>Football: OFI - Levadiakos</title>
     <desc>Live: Tidak</desc>
 </programme>
 <programme start="20260420030000 +0700" stop="20260420033500 +0700" channel="COSMOTE Sport 3 HD">
@@ -178,8 +178,12 @@
     <title>William Hill Scottish Premiership - Highlights</title>
     <desc>Live: Tidak</desc>
 </programme>
-<programme start="20260420020000 +0700" stop="20260420023000 +0700" channel="COSMOTE Sport 4 HD">
-    <title>NBA On Fire 2025-26 E25</title>
+<programme start="20260421030000 +0700" stop="20260421033000 +0700" channel="COSMOTE Sport 3 HD">
+    <title>Emirates FA Cup 2025-26 - Highlights</title>
+    <desc>Live: Tidak</desc>
+</programme>
+<programme start="20260421033000 +0700" stop="20260421060000 +0700" channel="COSMOTE Sport 3 HD">
+    <title>Football: UEFA Youth League 2025-26</title>
     <desc>Live: Tidak</desc>
 </programme>
 <programme start="20260420023000 +0700" stop="20260420053000 +0700" channel="COSMOTE Sport 4 HD">
@@ -233,10 +237,6 @@
 <programme start="20260421013000 +0700" stop="20260421040000 +0700" channel="COSMOTE Sport 4 HD">
     <title>Basketball: Boston Celtics - Philadelphia 76ers</title>
     <desc>Live: Tidak</desc>
-</programme>
-<programme start="20260420012500 +0700" stop="20260420023000 +0700" channel="COSMOTE Sport 5 HD">
-    <title>ERC 2026 (L)</title>
-    <desc>Live: Ya</desc>
 </programme>
 <programme start="20260420023000 +0700" stop="20260420043000 +0700" channel="COSMOTE Sport 5 HD">
     <title>Football: FC Porto - Tondela (L)</title>
@@ -326,6 +326,14 @@
     <title>Extreme E - Highlights 2025</title>
     <desc>Live: Tidak</desc>
 </programme>
+<programme start="20260421031500 +0700" stop="20260421034500 +0700" channel="COSMOTE Sport 5 HD">
+    <title>Sports Classics: Gearing Up 2026 E3</title>
+    <desc>Live: Tidak</desc>
+</programme>
+<programme start="20260421034500 +0700" stop="20260421050000 +0700" channel="COSMOTE Sport 5 HD">
+    <title>2026 Grand Prix Show</title>
+    <desc>Live: Tidak</desc>
+</programme>
 <programme start="20260420013000 +0700" stop="20260420040000 +0700" channel="COSMOTE Sport 6 HD">
     <title>Tennis: Flavio Cobolli - Ben Shelton</title>
     <desc>Live: Tidak</desc>
@@ -386,6 +394,10 @@
     <title>Tennis: Andrey Rublev - Arthur Fils</title>
     <desc>Live: Tidak</desc>
 </programme>
+<programme start="20260421030000 +0700" stop="20260421043000 +0700" channel="COSMOTE Sport 6 HD">
+    <title>Topspin</title>
+    <desc>Live: Tidak</desc>
+</programme>
 <programme start="20260420020000 +0700" stop="20260420040000 +0700" channel="COSMOTE Sport 7 HD">
     <title>COSMOTESport7HD</title>
     <desc>Live: Tidak</desc>
@@ -438,10 +450,6 @@
     <title>COSMOTESport7HD</title>
     <desc>Live: Tidak</desc>
 </programme>
-<programme start="20260420000000 +0700" stop="20260420030000 +0700" channel="COSMOTE Sport 8 HD">
-    <title>Basketball: Boston Celtics - Philadelphia 76ers (L)</title>
-    <desc>Live: Ya</desc>
-</programme>
 <programme start="20260420030000 +0700" stop="20260420040000 +0700" channel="COSMOTE Sport 8 HD">
     <title>COSMOTESport8HD</title>
     <desc>Live: Tidak</desc>
@@ -492,10 +500,6 @@
 </programme>
 <programme start="20260421020000 +0700" stop="20260421040000 +0700" channel="COSMOTE Sport 8 HD">
     <title>COSMOTESport8HD</title>
-    <desc>Live: Tidak</desc>
-</programme>
-<programme start="20260420020000 +0700" stop="20260420023000 +0700" channel="COSMOTE Sport 9 HD">
-    <title>COSMOTESport9HD</title>
     <desc>Live: Tidak</desc>
 </programme>
 <programme start="20260420023000 +0700" stop="20260420043000 +0700" channel="COSMOTE Sport 9 HD">

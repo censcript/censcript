@@ -3197,7 +3197,7 @@
     <title>DFB-Pokal: FC Bayern München - RB Leipzig, Viertelfinale</title>
 </programme>
 <programme start="20260419214000 +0000" stop="20260419220000 +0000" channel="Sky Sport 1 HD.skyde">
-    <title>Es folgt: LIVE NBA</title>
+    <title>NBA: Es folgt</title>
 </programme>
 <programme start="20260419162500 +0000" stop="20260419164500 +0000" channel="Sky Sport 4 HD.skyde">
     <title>Es folgt: Live NBA</title>
@@ -3213,6 +3213,18 @@
 </programme>
 <programme start="20260419180000 +0000" stop="20260420080000 +0000" channel="Sky Sport 5 HD.skyde">
     <title>Live LIV Golf: Mexiko City, 4. Tag in Naucalpan</title>
+</programme>
+<programme start="20260419104000 +0000" stop="20260419110000 +0000" channel="Sky Sport 6 HD.skyde">
+    <title>WTA: Es folgt</title>
+</programme>
+<programme start="20260419110000 +0000" stop="20260419133000 +0000" channel="Sky Sport 6 HD.skyde">
+    <title>Live WTA 500: Finale, Porsche Tennis Grand Prix in Stuttgart, Finale</title>
+</programme>
+<programme start="20260419133000 +0000" stop="20260419140000 +0000" channel="Sky Sport 6 HD.skyde">
+    <title>ATP: This Week</title>
+</programme>
+<programme start="20260419140000 +0000" stop="20260419163000 +0000" channel="Sky Sport 6 HD.skyde">
+    <title>Live ATP 500: Finale, Barcelona Open BancSabadell in Barcelona (ESP), Finale</title>
 </programme>
 <programme start="20260419123000 +0000" stop="20260419125000 +0000" channel="Sky Sport 7 HD.skyde">
     <title>Es folgt: Live Premier League</title>
