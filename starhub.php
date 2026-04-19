@@ -7922,7 +7922,7 @@
         <title>Review Show</title>
     </programme>
     <programme start="20260418183000 +0000" stop="20260418190000 +0000" channel="SPOTV2.starhub">
-        <title>Day 6 Tie 1 Hyderabad vs Delhi</title>
+        <title>WPBL S2, Mumbai Highlights Day 6 Tie 1 Hyderabad vs Delhi</title>
     </programme>
     <programme start="20260418190000 +0000" stop="20260418220000 +0000" channel="SPOTV2.starhub">
         <title>Round 3</title>
