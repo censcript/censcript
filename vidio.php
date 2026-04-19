@@ -8314,12 +8314,12 @@
     <desc lang="id">Kisah seorang inspektur yang terlibat dalam kisah percintaan segitiga.</desc>
     <icon src="https://thumbor.prod.vidiocdn.com/VMqJn9jawRecdbw5SSdxxTHN_88=/287x162/filters:strip_icc():quality(70)/vidio-media-production/uploads/tv_program/thumbnail/386704/218ebf.jpg"/>
   </programme>
-  <programme channel="782" start="20260419023000 +0000" stop="20260419060000 +0000">
+  <programme channel="782" start="20260419023000 +0000" stop="20260419054500 +0000">
     <title lang="id">Mega Bollywood: Baahubali: The Beginning</title>
     <desc lang="id">Di kerajaan Mahishmati, Shivudu jatuh cinta dengan seorang wanita pejuang muda. Saat mencoba merayunya, dia mengetahui tentang masa lalu keluarganya yang penuh konflik dan warisan sejatinya.</desc>
     <icon src="https://thumbor.prod.vidiocdn.com/6KMmakSpTxcFKdkcYVw7dj1XLSI=/287x162/filters:strip_icc():quality(70)/vidio-media-production/uploads/livestreaming/schedule/thumbnail/5016645/fd3d35.jpg"/>
   </programme>
-  <programme channel="782" start="20260419060000 +0000" stop="20260419080000 +0000">
+  <programme channel="782" start="20260419054500 +0000" stop="20260419080000 +0000">
     <title lang="id">Jhanak</title>
     <desc lang="id">Seorang wanita muda yang bersemangat memulai perjalanan untuk memenuhi janji seorang ibu demi kehidupan yang lebih baik sambil mengatasi tantangan dan kehilangan.</desc>
     <icon src="https://thumbor.prod.vidiocdn.com/w27Psn7uXqdIA3o3P-o6C6emVpc=/287x162/filters:strip_icc():quality(70)/vidio-media-production/uploads/livestreaming/schedule/thumbnail/5016636/c6ecb6.jpg"/>

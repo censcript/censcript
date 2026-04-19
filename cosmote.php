@@ -1,7 +1,3 @@
-<programme start="20260419160000 +0700" stop="20260419170000 +0700" channel="COSMOTE Sport 1 HD">
-    <title>Highlights: UEL &amp; UECL 2025-26</title>
-    <desc>Live: Tidak</desc>
-</programme>
 <programme start="20260419170000 +0700" stop="20260419190000 +0700" channel="COSMOTE Sport 1 HD">
     <title>Football: Aston Villa - Bologna</title>
     <desc>Live: Tidak</desc>
@@ -56,6 +52,14 @@
 </programme>
 <programme start="20260420150000 +0700" stop="20260420170000 +0700" channel="COSMOTE Sport 1 HD">
     <title>Football: AEK - Rayo Vallecano de Madrid</title>
+    <desc>Live: Tidak</desc>
+</programme>
+<programme start="20260420170000 +0700" stop="20260420173000 +0700" channel="COSMOTE Sport 1 HD">
+    <title>UEFA Champions League Highlights 2025-26</title>
+    <desc>Live: Tidak</desc>
+</programme>
+<programme start="20260420173000 +0700" stop="20260420200000 +0700" channel="COSMOTE Sport 1 HD">
+    <title>Sportshow</title>
     <desc>Live: Tidak</desc>
 </programme>
 <programme start="20260419151500 +0700" stop="20260419173000 +0700" channel="COSMOTE Sport 2 HD">
@@ -134,6 +138,10 @@
     <title>Football: Pisa - Genoa</title>
     <desc>Live: Tidak</desc>
 </programme>
+<programme start="20260420171000 +0700" stop="20260420192000 +0700" channel="COSMOTE Sport 2 HD">
+    <title>Football: Kifisia - Asteras Aktor</title>
+    <desc>Live: Tidak</desc>
+</programme>
 <programme start="20260419160000 +0700" stop="20260419180000 +0700" channel="COSMOTE Sport 3 HD">
     <title>Football: Hull City - Birmingham City</title>
     <desc>Live: Tidak</desc>
@@ -194,10 +202,6 @@
     <title>Football: Rio Ave - AVS Futebol</title>
     <desc>Live: Tidak</desc>
 </programme>
-<programme start="20260419143000 +0700" stop="20260419170000 +0700" channel="COSMOTE Sport 4 HD">
-    <title>Basketball: Los Angeles Lakers - Houston Rockets</title>
-    <desc>Live: Tidak</desc>
-</programme>
 <programme start="20260419170000 +0700" stop="20260419190000 +0700" channel="COSMOTE Sport 4 HD">
     <title>Basketball: Forca Lleida CE - Barcelona (L)</title>
     <desc>Live: Ya</desc>
@@ -252,10 +256,6 @@
 </programme>
 <programme start="20260420160000 +0700" stop="20260420183000 +0700" channel="COSMOTE Sport 4 HD">
     <title>Basketball: Boston Celtics - Philadelphia 76ers</title>
-    <desc>Live: Tidak</desc>
-</programme>
-<programme start="20260419155000 +0700" stop="20260419162000 +0700" channel="COSMOTE Sport 5 HD">
-    <title>WRC Magazine 2026</title>
     <desc>Live: Tidak</desc>
 </programme>
 <programme start="20260419162000 +0700" stop="20260419171500 +0700" channel="COSMOTE Sport 5 HD">
@@ -355,6 +355,10 @@
     <desc>Live: Tidak</desc>
 </programme>
 <programme start="20260420162000 +0700" stop="20260420173000 +0700" channel="COSMOTE Sport 5 HD">
+    <title>Motorsports: Extreme E 2025</title>
+    <desc>Live: Tidak</desc>
+</programme>
+<programme start="20260420173000 +0700" stop="20260420193500 +0700" channel="COSMOTE Sport 5 HD">
     <title>Motorsports: Extreme E 2025</title>
     <desc>Live: Tidak</desc>
 </programme>

@@ -2587,7 +2587,7 @@
 <programme start="20260419120000 +0000" stop="20260419122000 +0000" channel="Sky Sport Austria 2 HD.skyde">
     <title>Es folgt Fußball: Österreich, Admiral Bundesliga</title>
 </programme>
-<programme start="20260419122000 +0000" stop="20260419151500 +0000" channel="Sky Sport Austria 2 HD.skyde">
+<programme start="20260419122000 +0000" stop="20260419144500 +0000" channel="Sky Sport Austria 2 HD.skyde">
     <title>Live Admiral BL: FK Austria Wien - FC Red Bull Salzburg, 27. Runde</title>
 </programme>
 <programme start="20260419120000 +0000" stop="20260419122000 +0000" channel="Sky Sport Austria 3 HD.skyde">
@@ -3215,21 +3215,21 @@
     <title>Live LIV Golf: Mexiko City, 4. Tag in Naucalpan</title>
 </programme>
 <programme start="20260419104000 +0000" stop="20260419110000 +0000" channel="Sky Sport 6 HD.skyde">
-    <title>Es folgt: LIVE WTA</title>
+    <title>WTA: Es folgt</title>
 </programme>
 <programme start="20260419110000 +0000" stop="20260419133000 +0000" channel="Sky Sport 6 HD.skyde">
-    <title>Live WTA 500: E. Rybakina (KAZ) - K. Muchova (CZE), Porsche Tennis Grand Prix in Stuttgart, Finale</title>
+    <title>Live WTA 500: Finale, Porsche Tennis Grand Prix in Stuttgart, Finale</title>
 </programme>
 <programme start="20260419133000 +0000" stop="20260419140000 +0000" channel="Sky Sport 6 HD.skyde">
     <title>ATP: This Week</title>
 </programme>
-<programme start="20260419140000 +0000" stop="20260419193000 +0000" channel="Sky Sport 6 HD.skyde">
-    <title>Live ATP 500: A. Fils (FRA) - A. Rublev, Barcelona Open BancSabadell in Barcelona (ESP), Finale</title>
+<programme start="20260419140000 +0000" stop="20260419163000 +0000" channel="Sky Sport 6 HD.skyde">
+    <title>Live ATP 500: Finale, Barcelona Open BancSabadell in Barcelona (ESP), Finale</title>
 </programme>
 <programme start="20260419123000 +0000" stop="20260419125000 +0000" channel="Sky Sport 7 HD.skyde">
     <title>Es folgt: Live Premier League</title>
 </programme>
-<programme start="20260419125000 +0000" stop="20260419153000 +0000" channel="Sky Sport 7 HD.skyde">
+<programme start="20260419125000 +0000" stop="20260419150000 +0000" channel="Sky Sport 7 HD.skyde">
     <title>Live PL: Nottingham Forest - FC Burnley, 33. Spieltag</title>
 </programme>
 <programme start="20260418222000 +0000" stop="20260418230500 +0000" channel="SYFY HD.skyde">
