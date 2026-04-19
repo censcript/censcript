@@ -14322,12 +14322,12 @@
     <desc lang="id">Highlight</desc>
     <icon src="https://thumbor.prod.vidiocdn.com/84KfVJ1EkCZE1TUxZXNvtr5sNmk=/287x162/filters:strip_icc():quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/image/18189/champions-golf-1-ffdd6c.jpg"/>
   </programme>
-  <programme channel="18189" start="20260419170000 +0000" stop="20260419220000 +0000">
+  <programme channel="18189" start="20260419170000 +0000" stop="20260419223000 +0000">
     <title lang="id">RBC Heritage 2026 - Round 4</title>
     <desc lang="id">Nonton streaming pertandingan seru RBC Heritage 2026 - Round 4. Saksikan aksi-aksi terbaik dari tim yang bersaing ketat untuk meraih kemenangan. Dapatkan informasi lengkap mengenai jadwal pertandingan dan hasil pertandingan terbaru hanya di Vidio.</desc>
     <icon src="https://thumbor.prod.vidiocdn.com/Km1q6PoKusUKkpNCaUsjuwyJSzU=/287x162/filters:strip_icc():quality(70)/vidio-media-production/uploads/livestreaming/schedule/thumbnail/5019475/c70e84.jpg"/>
   </programme>
-  <programme channel="18189" start="20260419220000 +0000" stop="20260419230000 +0000">
+  <programme channel="18189" start="20260419223000 +0000" stop="20260419230000 +0000">
     <title lang="id">Valero Texas Open</title>
     <desc lang="id">Highlight</desc>
     <icon src="https://thumbor.prod.vidiocdn.com/84KfVJ1EkCZE1TUxZXNvtr5sNmk=/287x162/filters:strip_icc():quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/image/18189/champions-golf-1-ffdd6c.jpg"/>
