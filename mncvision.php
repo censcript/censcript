@@ -4804,6 +4804,54 @@
 <programme start="20260420160000 +0000" stop="20260420163000 +0000" channel="Indosiar.mncvision">
     <title>Heroes</title>
 </programme>
+<programme start="20260419183000 +0000" stop="20260419200000 +0000" channel="Indosiar HD.mncvision">
+    <title>Wolf Warrior</title>
+</programme>
+<programme start="20260419200000 +0000" stop="20260419213000 +0000" channel="Indosiar HD.mncvision">
+    <title>Cruel War</title>
+</programme>
+<programme start="20260419213000 +0000" stop="20260419230000 +0000" channel="Indosiar HD.mncvision">
+    <title>Fokus Pagi</title>
+</programme>
+<programme start="20260419230000 +0000" stop="20260420003000 +0000" channel="Indosiar HD.mncvision">
+    <title>Merangkai Kisah Indah</title>
+</programme>
+<programme start="20260420003000 +0000" stop="20260420020000 +0000" channel="Indosiar HD.mncvision">
+    <title>Pengkhianatan Di Balik Dapur</title>
+</programme>
+<programme start="20260420020000 +0000" stop="20260420033000 +0000" channel="Indosiar HD.mncvision">
+    <title>Dalang Dibalik Hancurnya...</title>
+</programme>
+<programme start="20260420033000 +0000" stop="20260420040000 +0000" channel="Indosiar HD.mncvision">
+    <title>Kiss Pagi</title>
+</programme>
+<programme start="20260420040000 +0000" stop="20260420043000 +0000" channel="Indosiar HD.mncvision">
+    <title>Patroli Siang</title>
+</programme>
+<programme start="20260420043000 +0000" stop="20260420050000 +0000" channel="Indosiar HD.mncvision">
+    <title>Fokus Siang</title>
+</programme>
+<programme start="20260420050000 +0000" stop="20260420063000 +0000" channel="Indosiar HD.mncvision">
+    <title>Tabiat Buruk Wanita Yang...</title>
+</programme>
+<programme start="20260420063000 +0000" stop="20260420080000 +0000" channel="Indosiar HD.mncvision">
+    <title>Kakak Iparku Adalah Benalu</title>
+</programme>
+<programme start="20260420080000 +0000" stop="20260420103000 +0000" channel="Indosiar HD.mncvision">
+    <title>BRI Super League 2025/26</title>
+</programme>
+<programme start="20260420103000 +0000" stop="20260420113000 +0000" channel="Indosiar HD.mncvision">
+    <title>Merangkai Kisah Indah</title>
+</programme>
+<programme start="20260420113000 +0000" stop="20260420140000 +0000" channel="Indosiar HD.mncvision">
+    <title>BRI Super League 2025/26</title>
+</programme>
+<programme start="20260420140000 +0000" stop="20260420160000 +0000" channel="Indosiar HD.mncvision">
+    <title>D&#039;Academy S7</title>
+</programme>
+<programme start="20260420160000 +0000" stop="20260420163000 +0000" channel="Indosiar HD.mncvision">
+    <title>Heroes</title>
+</programme>
 <programme start="20260419183000 +0000" stop="20260419210000 +0000" channel="iNews.mncvision">
     <title>Breaking News</title>
 </programme>

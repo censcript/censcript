@@ -8135,7 +8135,7 @@
         <title>25/26 A-League Men Round 25 Sydney FC vs Perth Glory</title>
     </programme>
     <programme start="20260420090000 +0000" stop="20260420120000 +0000" channel="SPOTV2.starhub">
-        <title>CSI 5*</title>
+        <title>CSI 5</title>
     </programme>
     <programme start="20260420120000 +0000" stop="20260420123000 +0000" channel="SPOTV2.starhub">
         <title>2025/26 ALM Mini Match Rd 24 Western Sydney Wanderers FC vs Sydney FC</title>

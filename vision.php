@@ -145,68 +145,80 @@
 <programme start="20260421110000 +0000" stop="20260421120000 +0000" channel="MNCTV.vision">
 <title>Entong</title>
 </programme>
-<programme start="20260419230000 +0000" stop="20260420023000 +0000" channel="GTV.vision">
-<title>GTV</title>
+<programme start="20260419230000 +0000" stop="20260420010000 +0000" channel="GTV.vision">
+<title>SpongeBob SquarePants</title>
 </programme>
-<programme start="20260420023000 +0000" stop="20260420050000 +0000" channel="GTV.vision">
-<title>GTV</title>
+<programme start="20260420010000 +0000" stop="20260420013000 +0000" channel="GTV.vision">
+<title>CoComelon Dan Sahabat</title>
 </programme>
-<programme start="20260420050000 +0000" stop="20260420080000 +0000" channel="GTV.vision">
-<title>GTV</title>
+<programme start="20260420013000 +0000" stop="20260420023000 +0000" channel="GTV.vision">
+<title>Obrolan Seputar Selebriti (GTV)</title>
 </programme>
-<programme start="20260420080000 +0000" stop="20260420093000 +0000" channel="GTV.vision">
-<title>GTV</title>
+<programme start="20260420023000 +0000" stop="20260420030000 +0000" channel="GTV.vision">
+<title>Buletin iNews Pagi</title>
 </programme>
-<programme start="20260420093000 +0000" stop="20260420120000 +0000" channel="GTV.vision">
-<title>GTV</title>
+<programme start="20260420030000 +0000" stop="20260420050000 +0000" channel="GTV.vision">
+<title>Spongebob Squarepants (GTV)</title>
 </programme>
-<programme start="20260420120000 +0000" stop="20260420123000 +0000" channel="GTV.vision">
-<title>GTV</title>
+<programme start="20260420050000 +0000" stop="20260420073000 +0000" channel="GTV.vision">
+<title>SpongeBob SquarePants</title>
 </programme>
-<programme start="20260420123000 +0000" stop="20260420140000 +0000" channel="GTV.vision">
-<title>GTV</title>
+<programme start="20260420073000 +0000" stop="20260420100000 +0000" channel="GTV.vision">
+<title>SpongeBob SquarePants</title>
 </programme>
-<programme start="20260420140000 +0000" stop="20260420153000 +0000" channel="GTV.vision">
-<title>GTV</title>
+<programme start="20260420100000 +0000" stop="20260420110000 +0000" channel="GTV.vision">
+<title>SpongeBob SquarePants</title>
 </programme>
-<programme start="20260420153000 +0000" stop="20260420170000 +0000" channel="GTV.vision">
-<title>GTV</title>
+<programme start="20260420110000 +0000" stop="20260420120000 +0000" channel="GTV.vision">
+<title>Pada Zaman Dahulu</title>
 </programme>
-<programme start="20260420170000 +0000" stop="20260420180000 +0000" channel="GTV.vision">
-<title>GTV</title>
+<programme start="20260420120000 +0000" stop="20260420133000 +0000" channel="GTV.vision">
+<title>New Family 100 (GTV)</title>
 </programme>
-<programme start="20260420180000 +0000" stop="20260420190000 +0000" channel="GTV.vision">
-<title>GTV</title>
+<programme start="20260420133000 +0000" stop="20260420153000 +0000" channel="GTV.vision">
+<title>Giant Spider</title>
 </programme>
-<programme start="20260420190000 +0000" stop="20260420203000 +0000" channel="GTV.vision">
-<title>GTV</title>
+<programme start="20260420153000 +0000" stop="20260420163000 +0000" channel="GTV.vision">
+<title>Untold Story: Experiment</title>
 </programme>
-<programme start="20260420203000 +0000" stop="20260420220000 +0000" channel="GTV.vision">
-<title>GTV</title>
+<programme start="20260420163000 +0000" stop="20260420170000 +0000" channel="GTV.vision">
+<title>Konon Katanya</title>
+</programme>
+<programme start="20260420170000 +0000" stop="20260420190000 +0000" channel="GTV.vision">
+<title>Tertawa Tengah Malam</title>
+</programme>
+<programme start="20260420190000 +0000" stop="20260420220000 +0000" channel="GTV.vision">
+<title>Tertawa Tengah Malam</title>
 </programme>
 <programme start="20260420220000 +0000" stop="20260420230000 +0000" channel="GTV.vision">
-<title>GTV</title>
+<title>Ragam Pagi</title>
 </programme>
-<programme start="20260420230000 +0000" stop="20260420231500 +0000" channel="GTV.vision">
-<title>GTV</title>
+<programme start="20260420230000 +0000" stop="20260421010000 +0000" channel="GTV.vision">
+<title>SpongeBob SquarePants</title>
 </programme>
-<programme start="20260420231500 +0000" stop="20260421003000 +0000" channel="GTV.vision">
-<title>GTV</title>
+<programme start="20260421010000 +0000" stop="20260421013000 +0000" channel="GTV.vision">
+<title>CoComelon Dan Sahabat</title>
 </programme>
-<programme start="20260421003000 +0000" stop="20260421023000 +0000" channel="GTV.vision">
-<title>GTV</title>
+<programme start="20260421013000 +0000" stop="20260421023000 +0000" channel="GTV.vision">
+<title>Obrolan Seputar Selebriti (GTV)</title>
 </programme>
-<programme start="20260421023000 +0000" stop="20260421050000 +0000" channel="GTV.vision">
-<title>GTV</title>
+<programme start="20260421023000 +0000" stop="20260421030000 +0000" channel="GTV.vision">
+<title>Buletin iNews Pagi</title>
+</programme>
+<programme start="20260421030000 +0000" stop="20260421050000 +0000" channel="GTV.vision">
+<title>Spongebob Squarepants (GTV)</title>
 </programme>
 <programme start="20260421050000 +0000" stop="20260421073000 +0000" channel="GTV.vision">
-<title>GTV</title>
+<title>SpongeBob SquarePants</title>
 </programme>
-<programme start="20260421073000 +0000" stop="20260421093000 +0000" channel="GTV.vision">
-<title>GTV</title>
+<programme start="20260421073000 +0000" stop="20260421100000 +0000" channel="GTV.vision">
+<title>SpongeBob SquarePants</title>
 </programme>
-<programme start="20260421093000 +0000" stop="20260421120000 +0000" channel="GTV.vision">
-<title>GTV</title>
+<programme start="20260421100000 +0000" stop="20260421110000 +0000" channel="GTV.vision">
+<title>SpongeBob SquarePants</title>
+</programme>
+<programme start="20260421110000 +0000" stop="20260421120000 +0000" channel="GTV.vision">
+<title>Pada Zaman Dahulu</title>
 </programme>
 <programme start="20260420000000 +0000" stop="20260420003000 +0000" channel="iNews.vision">
 <title>Special Report</title>
@@ -1485,16 +1497,4 @@
 </programme>
 <programme start="20260420120000 +0000" stop="20260420130000 +0000" channel="MDTV.vision">
 <title>Cinta Fitri</title>
-</programme>
-<programme start="20260420130000 +0000" stop="20260420140000 +0000" channel="MDTV.vision">
-<title>Keluarga Yang Tak Dirindukan</title>
-</programme>
-<programme start="20260420140000 +0000" stop="20260420150000 +0000" channel="MDTV.vision">
-<title>Hot Drama</title>
-</programme>
-<programme start="20260420150000 +0000" stop="20260420163000 +0000" channel="MDTV.vision">
-<title>Jatanras</title>
-</programme>
-<programme start="20260420163000 +0000" stop="20260420172000 +0000" channel="MDTV.vision">
-<title>86</title>
 </programme>

@@ -15433,8 +15433,8 @@
     <display-name>Unifi Sports 1</display-name>
   </channel>
   <programme start="20260419150000 +0000" stop="20260419205500 +0000" channel="unifisports1.unifitv">
-    <title lang="en">UFC Fight Night: Burns vs. Malott - Prelims</title>
-    <desc lang="en">On Saturday, April 19, UFC returns to Canada Life Centre in Winnipeg, Manitoba, Canada for the first time in nearly a decade with a fight card headlined by one of the country’s top contenders as Gilbert “Durinho” Burns takes on “Proper” Mike Malott.</desc>
+    <title lang="en">UFC Fight Night: Adesanya vs. Pyfer</title>
+    <desc lang="en">When the UFC returns to Climate Pledge Arena in Seattle, Washington on Saturday, March 29, it brings with it a combustible middleweight main event pitting two-time former champion Israel “The Last Stylebender” Adesanya against ascending American Joe “Bodybagz” Pyfer.</desc>
     <category lang="en">Sports</category>
   </programme>
   <programme start="20260419205500 +0000" stop="20260419210000 +0000" channel="unifisports1.unifitv">
@@ -15452,8 +15452,13 @@
     <desc lang="en">A selection of top goals from Guayre, a leading light for Villarreal in their push to become one of LaLiga’s elite.</desc>
     <category lang="en">Sports</category>
   </programme>
-  <programme start="20260420020000 +0000" stop="20260420055500 +0000" channel="unifisports1.unifitv">
+  <programme start="20260420020000 +0000" stop="20260420030000 +0000" channel="unifisports1.unifitv">
     <title lang="en">Kejohanan Piala Emas Khir Johari Edisi Ke-58, 2026 - Perlawanan Separuh Akhir 1 (Regu Wanita)</title>
+    <desc lang="en">Kejohanan Sepaktakraw Piala Emas Khir Johari Ke-58 Tahun 2026 kembali lagi! 21 pasukan akan berentap untuk merebut kejuaraan. Hanya satu pasukan yang akan dinobatkan sebagai juara. Saksikan aksi penuh segalanya secara langsung di saluran Unifi Sports 1 atau strim melalui aplikasi Unifi TV 2.0.</desc>
+    <category lang="en">Sports</category>
+  </programme>
+  <programme start="20260420030000 +0000" stop="20260420055500 +0000" channel="unifisports1.unifitv">
+    <title lang="en">Kejohanan Piala Emas Khir Johari Edisi Ke-58, 2026 - Perlawanan  Suku Akhir 1  (Berpasukan Lelaki)</title>
     <desc lang="en">Kejohanan Sepaktakraw Piala Emas Khir Johari Ke-58 Tahun 2026 kembali lagi! 21 pasukan akan berentap untuk merebut kejuaraan. Hanya satu pasukan yang akan dinobatkan sebagai juara. Saksikan aksi penuh segalanya secara langsung di saluran Unifi Sports 1 atau strim melalui aplikasi Unifi TV 2.0.</desc>
     <category lang="en">Sports</category>
   </programme>
@@ -15503,8 +15508,8 @@
     <category lang="en">Sports</category>
   </programme>
   <programme start="20260420140000 +0000" stop="20260420195500 +0000" channel="unifisports1.unifitv">
-    <title lang="en">UFC Fight Night: Burns vs. Malott - Prelims</title>
-    <desc lang="en">On Saturday, April 19, UFC returns to Canada Life Centre in Winnipeg, Manitoba, Canada for the first time in nearly a decade with a fight card headlined by one of the country’s top contenders as Gilbert “Durinho” Burns takes on “Proper” Mike Malott.</desc>
+    <title lang="en">UFC Fight Night: Adesanya vs. Pyfer</title>
+    <desc lang="en">When the UFC returns to Climate Pledge Arena in Seattle, Washington on Saturday, March 29, it brings with it a combustible middleweight main event pitting two-time former champion Israel “The Last Stylebender” Adesanya against ascending American Joe “Bodybagz” Pyfer.</desc>
     <category lang="en">Sports</category>
   </programme>
   <channel id="spotv.unifitv">
