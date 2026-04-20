@@ -2656,17 +2656,15 @@
     <desc lang="id">Knockout Playoffs, 2nd Leg.</desc>
     <icon src="https://thumbor.prod.vidiocdn.com/NdmzqkxqnWVnlngtk_ObYNT-wiY=/287x162/filters:strip_icc():quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/image/206/moji-a5bd3e.jpg"/>
   </programme>
-  <programme channel="206" start="20260420165300 +0000" stop="20260420200000 +0000">
-    <title lang="id">Rerun Proliga 2026</title>
-    <desc lang="id">Rerun Proliga 2026</desc>
+  <programme channel="206" start="20260420165300 +0000" stop="20260420180000 +0000">
+    <title lang="id">Harta Tahta Cinta</title>
     <icon src="https://thumbor.prod.vidiocdn.com/NdmzqkxqnWVnlngtk_ObYNT-wiY=/287x162/filters:strip_icc():quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/image/206/moji-a5bd3e.jpg"/>
   </programme>
-  <programme channel="206" start="20260420165300 +0000" stop="20260420200000 +0000">
-    <title lang="id">Rerun Proliga 2026</title>
-    <desc lang="id">Rerun Proliga 2026</desc>
+  <programme channel="206" start="20260420165300 +0000" stop="20260420180000 +0000">
+    <title lang="id">Harta Tahta Cinta</title>
     <icon src="https://thumbor.prod.vidiocdn.com/NdmzqkxqnWVnlngtk_ObYNT-wiY=/287x162/filters:strip_icc():quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/image/206/moji-a5bd3e.jpg"/>
   </programme>
-  <programme channel="206" start="20260420200000 +0000" stop="20260420220000 +0000">
+  <programme channel="206" start="20260420180000 +0000" stop="20260420220000 +0000">
     <title lang="id">Rerun Proliga 2026</title>
     <desc lang="id">Rerun Proliga 2026</desc>
     <icon src="https://thumbor.prod.vidiocdn.com/NdmzqkxqnWVnlngtk_ObYNT-wiY=/287x162/filters:strip_icc():quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/image/206/moji-a5bd3e.jpg"/>
@@ -7818,17 +7816,17 @@
     <desc lang="id">Ante Budimir</desc>
     <icon src="https://thumbor.prod.vidiocdn.com/5yUHYfv_b1sZi7kdFElm8JqF2RY=/287x162/filters:strip_icc():quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/image/6299/bein-1-4bd997.jpg"/>
   </programme>
-  <programme channel="6299" start="20260420164500 +0000" stop="20260420184500 +0000">
+  <programme channel="6299" start="20260420164500 +0000" stop="20260420191000 +0000">
     <title lang="id">Final: Club Brugge vs Real Madrid - UEFA Youth League</title>
     <desc lang="id">Nonton streaming pertandingan seru Final: Club Brugge vs Real Madrid - UEFA Youth League. Saksikan aksi-aksi terbaik dari tim yang bersaing ketat untuk meraih kemenangan. Dapatkan informasi lengkap mengenai jadwal pertandingan dan hasil pertandingan terbaru hanya di Vidio.</desc>
     <icon src="https://thumbor.prod.vidiocdn.com/zCENTpUZrVugHjgUIPOGvLE033s=/287x162/filters:strip_icc():quality(70)/vidio-media-production/uploads/livestreaming/schedule/thumbnail/5020784/2bdf07.jpg"/>
   </programme>
-  <programme channel="6299" start="20260420164500 +0000" stop="20260420184500 +0000">
+  <programme channel="6299" start="20260420164500 +0000" stop="20260420191000 +0000">
     <title lang="id">Final: Club Brugge vs Real Madrid - UEFA Youth League</title>
     <desc lang="id">Nonton streaming pertandingan seru Final: Club Brugge vs Real Madrid - UEFA Youth League. Saksikan aksi-aksi terbaik dari tim yang bersaing ketat untuk meraih kemenangan. Dapatkan informasi lengkap mengenai jadwal pertandingan dan hasil pertandingan terbaru hanya di Vidio.</desc>
     <icon src="https://thumbor.prod.vidiocdn.com/zCENTpUZrVugHjgUIPOGvLE033s=/287x162/filters:strip_icc():quality(70)/vidio-media-production/uploads/livestreaming/schedule/thumbnail/5020784/2bdf07.jpg"/>
   </programme>
-  <programme channel="6299" start="20260420192000 +0000" stop="20260420193000 +0000">
+  <programme channel="6299" start="20260420191000 +0000" stop="20260420193000 +0000">
     <title lang="id">Vini Jr : LaLiga Goals Galore 2024/25</title>
     <desc lang="id">Vini Jr</desc>
     <icon src="https://thumbor.prod.vidiocdn.com/5yUHYfv_b1sZi7kdFElm8JqF2RY=/287x162/filters:strip_icc():quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/image/6299/bein-1-4bd997.jpg"/>
@@ -15289,12 +15287,12 @@
     <desc lang="id">On her Shoulder Eps 1,2,3</desc>
     <icon src="https://thumbor.prod.vidiocdn.com/nY0aFklpYf6yONLaFJjxhiSuthc=/287x162/filters:strip_icc():quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/image/6786/champions-tv-3-76ca7c.jpg"/>
   </programme>
-  <programme channel="6786" start="20260420183000 +0000" stop="20260420205000 +0000">
+  <programme channel="6786" start="20260420183000 +0000" stop="20260420204700 +0000">
     <title lang="id">LECCE vs FIORENTINA : Serie A 2025/26</title>
     <desc lang="id">LECCE vs FIORENTINA</desc>
     <icon src="https://thumbor.prod.vidiocdn.com/nY0aFklpYf6yONLaFJjxhiSuthc=/287x162/filters:strip_icc():quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/image/6786/champions-tv-3-76ca7c.jpg"/>
   </programme>
-  <programme channel="6786" start="20260420205000 +0000" stop="20260420210000 +0000">
+  <programme channel="6786" start="20260420204700 +0000" stop="20260420210000 +0000">
     <title lang="id">Filler</title>
     <icon src="https://thumbor.prod.vidiocdn.com/nY0aFklpYf6yONLaFJjxhiSuthc=/287x162/filters:strip_icc():quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/image/6786/champions-tv-3-76ca7c.jpg"/>
   </programme>
@@ -17872,10 +17870,10 @@ dan komprehensif mengenai berbagai topik yang relevan dalam kehidupan sehari-har
     <title lang="id">FILLER</title>
     <icon src="https://thumbor.prod.vidiocdn.com/xgkik6iws0EJ01bi5cJsIjYWjOM=/287x162/filters:strip_icc():quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/image/6686/champions-tv-2-681a27.jpg"/>
   </programme>
-  <programme channel="6686" start="20260422184000 +0000" stop="20260422205000 +0000">
-    <title lang="id">CHARLTON ATHLETIC VS IPSWICH TOWN : EFL 2025/26 CHAMPIONSHIP</title>
-    <desc lang="id">CHARLTON ATHLETIC VS IPSWICH TOWN</desc>
-    <icon src="https://thumbor.prod.vidiocdn.com/xgkik6iws0EJ01bi5cJsIjYWjOM=/287x162/filters:strip_icc():quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/image/6686/champions-tv-2-681a27.jpg"/>
+  <programme channel="6686" start="20260422184500 +0000" stop="20260422204500 +0000">
+    <title lang="id">Charlton Athletic vs Ipswich - EFL Championship</title>
+    <desc lang="id">Nonton streaming pertandingan seru Charlton Athletic vs Ipswich - EFL Championship. Saksikan aksi-aksi terbaik dari tim yang bersaing ketat untuk meraih kemenangan. Dapatkan informasi lengkap mengenai jadwal pertandingan dan hasil pertandingan terbaru hanya di Vidio.</desc>
+    <icon src="https://thumbor.prod.vidiocdn.com/JMBetm6dZgpZy1oJRoHz-Z_-fa0=/287x162/filters:strip_icc():quality(70)/vidio-media-production/uploads/livestreaming/schedule/thumbnail/5022003/02034b.jpg"/>
   </programme>
   <programme channel="6686" start="20260422205000 +0000" stop="20260422210000 +0000">
     <title lang="id">FILLER</title>
@@ -20314,7 +20312,7 @@ dan komprehensif mengenai berbagai topik yang relevan dalam kehidupan sehari-har
     <desc lang="id">Show 28 Matchweek 33</desc>
     <icon src="https://thumbor.prod.vidiocdn.com/r_QaZubFaj9Ht_TI2kDgdImcRqY=/287x162/filters:strip_icc():quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/image/9182/champions-tv-5-e0dd48.jpg"/>
   </programme>
-  <programme channel="9182" start="20260420190000 +0000" stop="20260420210000 +0000">
+  <programme channel="9182" start="20260420183000 +0000" stop="20260420210000 +0000">
     <title lang="id">Crystal Palace vs West Ham - Premier League</title>
     <desc lang="id">Nonton streaming pertandingan seru Crystal Palace vs West Ham - Premier League. Saksikan aksi-aksi terbaik dari tim yang bersaing ketat untuk meraih kemenangan. Dapatkan informasi lengkap mengenai jadwal pertandingan dan hasil pertandingan terbaru hanya di Vidio.</desc>
     <icon src="https://thumbor.prod.vidiocdn.com/SI68RmQgGI971Oe4zMVJIbqtYfU=/287x162/filters:strip_icc():quality(70)/vidio-media-production/uploads/livestreaming/schedule/thumbnail/5021430/b9c491.jpg"/>

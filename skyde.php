@@ -971,19 +971,19 @@ Warning: Undefined array key "et" in /usr/home/ManusiaBiasa/domains/manusiabiasa
 <programme start="20260420113000 +0000" stop="20260420114500 +0000" channel="DAZN 1 HD.skyde">
     <title>Best of DAZN: Highlights</title>
 </programme>
-<programme start="20260420114500 +0000" stop="20260420131000 +0000" channel="DAZN 1 HD.skyde">
+<programme start="20260420114500 +0000" stop="20260420130000 +0000" channel="DAZN 1 HD.skyde">
     <title>ALL IN - Die Bundesliga Highlight Show: 30. Spieltag</title>
 </programme>
-<programme start="20260420131000 +0000" stop="20260420151000 +0000" channel="DAZN 1 HD.skyde">
+<programme start="20260420130000 +0000" stop="20260420150000 +0000" channel="DAZN 1 HD.skyde">
     <title>Bundesliga 25/26: FC St. Pauli - 1. FC Köln</title>
 </programme>
-<programme start="20260420151000 +0000" stop="20260420171500 +0000" channel="DAZN 1 HD.skyde">
+<programme start="20260420150000 +0000" stop="20260420170000 +0000" channel="DAZN 1 HD.skyde">
     <title>Bundesliga 25/26: SV Werder Bremen - Hamburger SV</title>
 </programme>
-<programme start="20260420171500 +0000" stop="20260420180500 +0000" channel="DAZN 1 HD.skyde">
+<programme start="20260420173500 +0000" stop="20260420182500 +0000" channel="DAZN 1 HD.skyde">
     <title>Her Element by Laura Wontorra: Episode 1</title>
 </programme>
-<programme start="20260420180500 +0000" stop="20260420184000 +0000" channel="DAZN 1 HD.skyde">
+<programme start="20260420182500 +0000" stop="20260420184000 +0000" channel="DAZN 1 HD.skyde">
     <title>Best of DAZN: Highlights</title>
 </programme>
 <programme start="20260420184000 +0000" stop="20260420205500 +0000" channel="DAZN 1 HD.skyde">
@@ -2580,13 +2580,13 @@ Warning: Undefined array key "et" in /usr/home/ManusiaBiasa/domains/manusiabiasa
     <title>Admiral BL: Pitchside: ASK - STU, 27. Runde</title>
 </programme>
 <programme start="20260420164000 +0000" stop="20260420190000 +0000" channel="Sky Sport Austria 1 HD.skyde">
-    <title>Live UEFA Youth League: Club Brügge - Real Madrid, Finale in Nyon (SUI)</title>
+    <title>Live UEFA Youth League: Topspiel, Finale in Nyon (SUI)</title>
 </programme>
 <programme start="20260420190000 +0000" stop="20260420193000 +0000" channel="Sky Sport Austria 1 HD.skyde">
     <title>Admiral BL: 90in30: FAK - RBS, 27. Runde</title>
 </programme>
 <programme start="20260420193000 +0000" stop="20260420214500 +0000" channel="Sky Sport Austria 1 HD.skyde">
-    <title>UEFA Youth League: Club Brügge - Real Madrid, Finale in Nyon (SUI)</title>
+    <title>UEFA Youth League: Topspiel, Finale in Nyon (SUI)</title>
 </programme>
 <programme start="20260420214500 +0000" stop="20260420221500 +0000" channel="Sky Sport Austria 1 HD.skyde">
     <title>Fußball: Querfeld. Eine Sky Sport Austria Dokumentation</title>
@@ -2831,17 +2831,11 @@ Warning: Undefined array key "et" in /usr/home/ManusiaBiasa/domains/manusiabiasa
 <programme start="20260420190000 +0000" stop="20260420220000 +0000" channel="Sky Sport Golf HD.skyde">
     <title>LIV Golf: Mexiko City, 4. Tag in Naucalpan</title>
 </programme>
-<programme start="20260419220000 +0000" stop="20260420004500 +0000" channel="Sky Sport Mix HD.skyde">
+<programme start="20260419220000 +0000" stop="20260420010500 +0000" channel="Sky Sport Mix HD.skyde">
     <title>Live NHL: Montreal Canadiens @ Tampa Bay Lightning, Playoffs, 1. Runde, Spiel 1</title>
 </programme>
-<programme start="20260420004500 +0000" stop="20260420010000 +0000" channel="Sky Sport Mix HD.skyde">
-    <title>NHL: Highlights OTT@CAR, Playoffs, 1. Runde, Spiel 1</title>
-</programme>
-<programme start="20260420010000 +0000" stop="20260420033000 +0000" channel="Sky Sport Mix HD.skyde">
+<programme start="20260420010500 +0000" stop="20260420033000 +0000" channel="Sky Sport Mix HD.skyde">
     <title>Live NBA: Portland Trail Blazers @ San Antonio Spurs, Playoffs, Runde 1, Spiel 1</title>
-</programme>
-<programme start="20260420033000 +0000" stop="20260420040000 +0000" channel="Sky Sport Mix HD.skyde">
-    <title>Live NBA: Showtime - Post Show</title>
 </programme>
 <programme start="20260420040000 +0000" stop="20260420050000 +0000" channel="Sky Sport Mix HD.skyde">
     <title>3. Liga: Alle Spiele, alle Tore, 34. Spieltag komplett</title>
@@ -3089,7 +3083,7 @@ Warning: Undefined array key "et" in /usr/home/ManusiaBiasa/domains/manusiabiasa
 <programme start="20260420000000 +0000" stop="20260420010500 +0000" channel="Sky Sport Top Event HD.skyde">
     <title>Live NHL: Montreal Canadiens @ Tampa Bay Lightning, Playoffs, 1. Runde, Spiel 1</title>
 </programme>
-<programme start="20260420010500 +0000" stop="20260420040000 +0000" channel="Sky Sport Top Event HD.skyde">
+<programme start="20260420010500 +0000" stop="20260420033000 +0000" channel="Sky Sport Top Event HD.skyde">
     <title>Live NBA: Portland Trail Blazers @ San Antonio Spurs, Playoffs, Runde 1, Spiel 1</title>
 </programme>
 <programme start="20260420040000 +0000" stop="20260420050000 +0000" channel="Sky Sport Top Event HD.skyde">
@@ -3113,13 +3107,10 @@ Warning: Undefined array key "et" in /usr/home/ManusiaBiasa/domains/manusiabiasa
 <programme start="20260420104500 +0000" stop="20260420110000 +0000" channel="Sky Sport Top Event HD.skyde">
     <title>NHL: Highlights UTA@VGK, Playoffs, 1. Runde, Spiel 1</title>
 </programme>
-<programme start="20260420110000 +0000" stop="20260420124500 +0000" channel="Sky Sport Top Event HD.skyde">
+<programme start="20260420110000 +0000" stop="20260420133000 +0000" channel="Sky Sport Top Event HD.skyde">
     <title>WTA 500: E. Rybakina (KAZ) - K. Muchova (CZE), Porsche Tennis Grand Prix in Stuttgart, Finale</title>
 </programme>
-<programme start="20260420124500 +0000" stop="20260420134500 +0000" channel="Sky Sport Top Event HD.skyde">
-    <title>2. BL: Alle Spiele, alle Stimmen, 30. Spieltag</title>
-</programme>
-<programme start="20260420134500 +0000" stop="20260420160000 +0000" channel="Sky Sport Top Event HD.skyde">
+<programme start="20260420133000 +0000" stop="20260420160000 +0000" channel="Sky Sport Top Event HD.skyde">
     <title>ATP 500: B. Shelton (USA) - F. Cobolli (ITA), BMW Open in München, Finale</title>
 </programme>
 <programme start="20260420160000 +0000" stop="20260420163000 +0000" channel="Sky Sport Top Event HD.skyde">
@@ -3176,7 +3167,7 @@ Warning: Undefined array key "et" in /usr/home/ManusiaBiasa/domains/manusiabiasa
 <programme start="20260419220000 +0000" stop="20260419223000 +0000" channel="Sky Sport 1 HD.skyde">
     <title>Live NBA: Showtime</title>
 </programme>
-<programme start="20260419223000 +0000" stop="20260420030500 +0000" channel="Sky Sport 1 HD.skyde">
+<programme start="20260419223000 +0000" stop="20260420080000 +0000" channel="Sky Sport 1 HD.skyde">
     <title>Live NBA: Orlando Magic @ Detroit Pistons, Playoffs, Runde 1, Spiel 1</title>
 </programme>
 <programme start="20260419222000 +0000" stop="20260419230500 +0000" channel="SYFY HD.skyde">

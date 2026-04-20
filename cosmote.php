@@ -106,16 +106,8 @@
     <title>Football: SSC Napoli - SS Lazio</title>
     <desc>Live: Tidak</desc>
 </programme>
-<programme start="20260420234500 +0700" stop="20260421021500 +0700" channel="COSMOTE Sport 3 HD">
-    <title>Football: Club Brugge U19 - Real Madrid U19 (L)</title>
-    <desc>Live: Ya</desc>
-</programme>
-<programme start="20260421021500 +0700" stop="20260421023000 +0700" channel="COSMOTE Sport 3 HD">
-    <title>Sports Highlights</title>
-    <desc>Live: Tidak</desc>
-</programme>
-<programme start="20260421023000 +0700" stop="20260421025000 +0700" channel="COSMOTE Sport 3 HD">
-    <title>William Hill Scottish Premiership - Highlights</title>
+<programme start="20260422033500 +0700" stop="20260422054500 +0700" channel="COSMOTE Sport 2 HD">
+    <title>Football: Panetolikos - Panserraikos</title>
     <desc>Live: Tidak</desc>
 </programme>
 <programme start="20260421025000 +0700" stop="20260421032000 +0700" channel="COSMOTE Sport 3 HD">
@@ -174,6 +166,10 @@
     <title>Football: Leicester City FC - Hull City (L)</title>
     <desc>Live: Ya</desc>
 </programme>
+<programme start="20260422034500 +0700" stop="20260422055000 +0700" channel="COSMOTE Sport 3 HD">
+    <title>Football: FC Porto - Tondela</title>
+    <desc>Live: Tidak</desc>
+</programme>
 <programme start="20260421013000 +0700" stop="20260421040000 +0700" channel="COSMOTE Sport 4 HD">
     <title>Basketball: Boston Celtics - Philadelphia 76ers</title>
     <desc>Live: Tidak</desc>
@@ -226,12 +222,8 @@
     <title>Basketball: New York Knicks - Atlanta Hawks</title>
     <desc>Live: Tidak</desc>
 </programme>
-<programme start="20260421010000 +0700" stop="20260421021500 +0700" channel="COSMOTE Sport 5 HD">
-    <title>2026 Grand Prix Show (L)</title>
-    <desc>Live: Ya</desc>
-</programme>
-<programme start="20260421021500 +0700" stop="20260421024500 +0700" channel="COSMOTE Sport 5 HD">
-    <title>ERC 2026</title>
+<programme start="20260422034500 +0700" stop="20260422060000 +0700" channel="COSMOTE Sport 4 HD">
+    <title>Basketball: AEK - Badalona</title>
     <desc>Live: Tidak</desc>
 </programme>
 <programme start="20260421024500 +0700" stop="20260421031500 +0700" channel="COSMOTE Sport 5 HD">
@@ -322,8 +314,8 @@
     <title>ERC 2026</title>
     <desc>Live: Tidak</desc>
 </programme>
-<programme start="20260421003000 +0700" stop="20260421024500 +0700" channel="COSMOTE Sport 6 HD">
-    <title>Tennis: Andrey Rublev - Arthur Fils</title>
+<programme start="20260422032000 +0700" stop="20260422042000 +0700" channel="COSMOTE Sport 5 HD">
+    <title>Highlights: 2026 FIA World Championship</title>
     <desc>Live: Tidak</desc>
 </programme>
 <programme start="20260421024500 +0700" stop="20260421041500 +0700" channel="COSMOTE Sport 6 HD">
@@ -396,6 +388,14 @@
 </programme>
 <programme start="20260422020000 +0700" stop="20260422030000 +0700" channel="COSMOTE Sport 6 HD">
     <title>ATP 500 2026 - Highlights</title>
+    <desc>Live: Tidak</desc>
+</programme>
+<programme start="20260422030000 +0700" stop="20260422033000 +0700" channel="COSMOTE Sport 6 HD">
+    <title>Sports Classics: 2026 Outdoor Specials</title>
+    <desc>Live: Tidak</desc>
+</programme>
+<programme start="20260422033000 +0700" stop="20260422043000 +0700" channel="COSMOTE Sport 6 HD">
+    <title>Sports Classics: 2025 Outdoor Specials</title>
     <desc>Live: Tidak</desc>
 </programme>
 <programme start="20260421020000 +0700" stop="20260421040000 +0700" channel="COSMOTE Sport 7 HD">
