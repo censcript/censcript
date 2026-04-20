@@ -106,6 +106,10 @@
     <title>Football: Panetolikos - Panserraikos</title>
     <desc>Live: Tidak</desc>
 </programme>
+<programme start="20260422054500 +0700" stop="20260422061500 +0700" channel="COSMOTE Sport 2 HD">
+    <title>Sports Classics: Ultimate Rush S6 E3</title>
+    <desc>Live: Tidak</desc>
+</programme>
 <programme start="20260421032000 +0700" stop="20260421054000 +0700" channel="COSMOTE Sport 3 HD">
     <title>Football: Club Brugge U19 - Real Madrid U19</title>
     <desc>Live: Tidak</desc>
@@ -162,6 +166,10 @@
     <title>Football: FC Porto - Tondela</title>
     <desc>Live: Tidak</desc>
 </programme>
+<programme start="20260422055000 +0700" stop="20260422062500 +0700" channel="COSMOTE Sport 3 HD">
+    <title>Emirates FA Cup 2025-26 - Highlights</title>
+    <desc>Live: Tidak</desc>
+</programme>
 <programme start="20260421040000 +0700" stop="20260421063000 +0700" channel="COSMOTE Sport 4 HD">
     <title>Basketball: Oklahoma City Thunder - Phoenix Suns</title>
     <desc>Live: Tidak</desc>
@@ -212,10 +220,6 @@
 </programme>
 <programme start="20260422034500 +0700" stop="20260422060000 +0700" channel="COSMOTE Sport 4 HD">
     <title>Basketball: AEK - Badalona</title>
-    <desc>Live: Tidak</desc>
-</programme>
-<programme start="20260421034500 +0700" stop="20260421050000 +0700" channel="COSMOTE Sport 5 HD">
-    <title>2026 Grand Prix Show</title>
     <desc>Live: Tidak</desc>
 </programme>
 <programme start="20260421050000 +0700" stop="20260421063000 +0700" channel="COSMOTE Sport 5 HD">
@@ -302,8 +306,8 @@
     <title>WRC</title>
     <desc>Live: Tidak</desc>
 </programme>
-<programme start="20260421024500 +0700" stop="20260421041500 +0700" channel="COSMOTE Sport 6 HD">
-    <title>Topspin</title>
+<programme start="20260422052000 +0700" stop="20260422061500 +0700" channel="COSMOTE Sport 5 HD">
+    <title>DTM</title>
     <desc>Live: Tidak</desc>
 </programme>
 <programme start="20260421041500 +0700" stop="20260421051500 +0700" channel="COSMOTE Sport 6 HD">
@@ -386,8 +390,12 @@
     <title>Watersports: Inside Sailing 2026 E3</title>
     <desc>Live: Tidak</desc>
 </programme>
-<programme start="20260421040000 +0700" stop="20260421050000 +0700" channel="COSMOTE Sport 7 HD">
-    <title>COSMOTESport7HD</title>
+<programme start="20260422050000 +0700" stop="20260422053000 +0700" channel="COSMOTE Sport 6 HD">
+    <title>Sports Classics: The Outdoor Sports Show 2026 E4</title>
+    <desc>Live: Tidak</desc>
+</programme>
+<programme start="20260422053000 +0700" stop="20260422063000 +0700" channel="COSMOTE Sport 6 HD">
+    <title>Beach Volley: Pro Tour Elite 16 2026</title>
     <desc>Live: Tidak</desc>
 </programme>
 <programme start="20260421050000 +0700" stop="20260421080000 +0700" channel="COSMOTE Sport 7 HD">
