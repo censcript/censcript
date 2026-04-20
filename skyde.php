@@ -2600,7 +2600,7 @@ Warning: Undefined array key "et" in /usr/home/ManusiaBiasa/domains/manusiabiasa
 <programme start="20260420173000 +0000" stop="20260420185000 +0000" channel="Sky Sport Austria 2 HD.skyde">
     <title>Live PL: Monday Night Football</title>
 </programme>
-<programme start="20260420185000 +0000" stop="20260420210000 +0000" channel="Sky Sport Austria 2 HD.skyde">
+<programme start="20260420185000 +0000" stop="20260420213000 +0000" channel="Sky Sport Austria 2 HD.skyde">
     <title>Live PL: Crystal Palace - West Ham United, 33. Spieltag</title>
 </programme>
 <programme start="20260419220000 +0000" stop="20260419230000 +0000" channel="Sky Sport Bundesliga HD.skyde">
@@ -2756,10 +2756,10 @@ Warning: Undefined array key "et" in /usr/home/ManusiaBiasa/domains/manusiabiasa
 <programme start="20260420033000 +0000" stop="20260420040000 +0000" channel="Sky Sport F1 HD.skyde">
     <title>F1: Best Team Radio Moments Of 2025</title>
 </programme>
-<programme start="20260420040000 +0000" stop="20260420053000 +0000" channel="Sky Sport F1 HD.skyde">
+<programme start="20260420040000 +0000" stop="20260420053500 +0000" channel="Sky Sport F1 HD.skyde">
     <title>IndyCar: 1. Training in Long Beach (Kalifornien)</title>
 </programme>
-<programme start="20260420053000 +0000" stop="20260420070000 +0000" channel="Sky Sport F1 HD.skyde">
+<programme start="20260420053500 +0000" stop="20260420070000 +0000" channel="Sky Sport F1 HD.skyde">
     <title>IndyCar: 2. Training in Long Beach (Kalifornien)</title>
 </programme>
 <programme start="20260420070000 +0000" stop="20260420083000 +0000" channel="Sky Sport F1 HD.skyde">
@@ -2816,20 +2816,14 @@ Warning: Undefined array key "et" in /usr/home/ManusiaBiasa/domains/manusiabiasa
 <programme start="20260420070000 +0000" stop="20260420100000 +0000" channel="Sky Sport Golf HD.skyde">
     <title>LPGA: JM Eagle LA Championship Presented by Plastpro, 4. Tag in Los Angeles, CA (USA)</title>
 </programme>
-<programme start="20260420100000 +0000" stop="20260420121500 +0000" channel="Sky Sport Golf HD.skyde">
+<programme start="20260420100000 +0000" stop="20260420130000 +0000" channel="Sky Sport Golf HD.skyde">
     <title>Golf: Senior PGA Championship, 4. Tag in Bradenton, FL (USA)</title>
-</programme>
-<programme start="20260420121500 +0000" stop="20260420130000 +0000" channel="Sky Sport Golf HD.skyde">
-    <title>Golf: Tee Time Stories (3)</title>
 </programme>
 <programme start="20260420130000 +0000" stop="20260420160000 +0000" channel="Sky Sport Golf HD.skyde">
     <title>Golf Ladies ET: Joburg Ladies Open, 4. Tag in Johannesburg (Südafrika)</title>
 </programme>
-<programme start="20260420160000 +0000" stop="20260420181500 +0000" channel="Sky Sport Golf HD.skyde">
+<programme start="20260420160000 +0000" stop="20260420190000 +0000" channel="Sky Sport Golf HD.skyde">
     <title>Golf: Senior PGA Championship, 4. Tag in Bradenton, FL (USA)</title>
-</programme>
-<programme start="20260420181500 +0000" stop="20260420190000 +0000" channel="Sky Sport Golf HD.skyde">
-    <title>Golf: Tee Time Stories (3)</title>
 </programme>
 <programme start="20260420190000 +0000" stop="20260420220000 +0000" channel="Sky Sport Golf HD.skyde">
     <title>LIV Golf: Mexiko City, 4. Tag in Naucalpan</title>
@@ -2837,7 +2831,7 @@ Warning: Undefined array key "et" in /usr/home/ManusiaBiasa/domains/manusiabiasa
 <programme start="20260419220000 +0000" stop="20260420010500 +0000" channel="Sky Sport Mix HD.skyde">
     <title>Live NHL: Montreal Canadiens @ Tampa Bay Lightning, Playoffs, 1. Runde, Spiel 1</title>
 </programme>
-<programme start="20260420010500 +0000" stop="20260420033000 +0000" channel="Sky Sport Mix HD.skyde">
+<programme start="20260420010500 +0000" stop="20260420040000 +0000" channel="Sky Sport Mix HD.skyde">
     <title>Live NBA: Portland Trail Blazers @ San Antonio Spurs, Playoffs, Runde 1, Spiel 1</title>
 </programme>
 <programme start="20260420040000 +0000" stop="20260420050000 +0000" channel="Sky Sport Mix HD.skyde">
@@ -2845,9 +2839,6 @@ Warning: Undefined array key "et" in /usr/home/ManusiaBiasa/domains/manusiabiasa
 </programme>
 <programme start="20260420050000 +0000" stop="20260420070000 +0000" channel="Sky Sport Mix HD.skyde">
     <title>NHL: Montreal Canadiens @ Tampa Bay Lightning, Playoffs, 1. Runde, Spiel 1</title>
-</programme>
-<programme start="20260420050000 +0000" stop="20260420070000 +0000" channel="Sky Sport Mix HD.skyde">
-    <title>NHL: Topspiel, Playoffs, 1. Runde, Spiel 1</title>
 </programme>
 <programme start="20260420070000 +0000" stop="20260420093000 +0000" channel="Sky Sport Mix HD.skyde">
     <title>NBA: Philadelphia 76ers @ Boston Celtics, Playoffs, Runde 1, Spiel 1</title>
@@ -2872,6 +2863,9 @@ Warning: Undefined array key "et" in /usr/home/ManusiaBiasa/domains/manusiabiasa
 </programme>
 <programme start="20260420150000 +0000" stop="20260420173000 +0000" channel="Sky Sport Mix HD.skyde">
     <title>NBA: Orlando Magic @ Detroit Pistons, Playoffs, Runde 1, Spiel 1</title>
+</programme>
+<programme start="20260420173000 +0000" stop="20260420193000 +0000" channel="Sky Sport Mix HD.skyde">
+    <title>NHL: Los Angeles Kings @ Colorado Avalanche, Playoffs, 1. Runde, Spiel 1</title>
 </programme>
 <programme start="20260420193000 +0000" stop="20260420220000 +0000" channel="Sky Sport Mix HD.skyde">
     <title>NBA: Portland Trail Blazers @ San Antonio Spurs, Playoffs, Runde 1, Spiel 1</title>
@@ -2903,11 +2897,29 @@ Warning: Undefined array key "et" in /usr/home/ManusiaBiasa/domains/manusiabiasa
 <programme start="20260420090000 +0000" stop="20260420100000 +0000" channel="Sky Sport News HD.skyde">
     <title>2. BL Kompakt: 30. Spieltag</title>
 </programme>
-<programme start="20260420100000 +0000" stop="20260420130000 +0000" channel="Sky Sport News HD.skyde">
+<programme start="20260420100000 +0000" stop="20260420103000 +0000" channel="Sky Sport News HD.skyde">
+    <title>Live Sky Sport News: Bayerns Meisterstück - Eine BL-Saison der Superlative</title>
+</programme>
+<programme start="20260420103000 +0000" stop="20260420113000 +0000" channel="Sky Sport News HD.skyde">
     <title>Live Sky Sport News: Der Mittag</title>
 </programme>
-<programme start="20260420130000 +0000" stop="20260420160000 +0000" channel="Sky Sport News HD.skyde">
+<programme start="20260420113000 +0000" stop="20260420120000 +0000" channel="Sky Sport News HD.skyde">
+    <title>Sky Sport News: Bayerns Meisterstück - Eine BL-Saison der Superlative</title>
+</programme>
+<programme start="20260420120000 +0000" stop="20260420130000 +0000" channel="Sky Sport News HD.skyde">
+    <title>Live Sky Sport News: Der Mittag</title>
+</programme>
+<programme start="20260420130000 +0000" stop="20260420140000 +0000" channel="Sky Sport News HD.skyde">
     <title>Live Sky Sport News: Der Nachmittag</title>
+</programme>
+<programme start="20260420140000 +0000" stop="20260420143000 +0000" channel="Sky Sport News HD.skyde">
+    <title>Sky Sport News: Bayerns Meisterstück - Eine BL-Saison der Superlative</title>
+</programme>
+<programme start="20260420143000 +0000" stop="20260420153000 +0000" channel="Sky Sport News HD.skyde">
+    <title>Live Sky Sport News: Der Nachmittag</title>
+</programme>
+<programme start="20260420153000 +0000" stop="20260420160000 +0000" channel="Sky Sport News HD.skyde">
+    <title>Sky Sport News: Bayerns Meisterstück - Eine BL-Saison der Superlative</title>
 </programme>
 <programme start="20260420160000 +0000" stop="20260420170000 +0000" channel="Sky Sport News HD.skyde">
     <title>Live Transfer Update: Die Show XXL</title>
@@ -3044,50 +3056,47 @@ Warning: Undefined array key "et" in /usr/home/ManusiaBiasa/domains/manusiabiasa
 <programme start="20260420214500 +0000" stop="20260420220000 +0000" channel="Sky Sport Premier League HD.skyde">
     <title>EFL: Highlights XXL: AFC Wrexham - Stoke City, 43. Spieltag</title>
 </programme>
-<programme start="20260420004500 +0000" stop="20260420030000 +0000" channel="Sky Sport Tennis HD.skyde">
-    <title>ATP 500: J. Schnaitter (GER) / M. Wallner (GER) - T. Arribage (FRA) / A. Olivetti (FRA), BMW Open in München, Doppelfinale</title>
+<programme start="20260420000000 +0000" stop="20260420023000 +0000" channel="Sky Sport Tennis HD.skyde">
+    <title>ATP 500: Doppelfinale, BMW Open in München, Doppelfinale</title>
 </programme>
-<programme start="20260420030000 +0000" stop="20260420050000 +0000" channel="Sky Sport Tennis HD.skyde">
+<programme start="20260420023000 +0000" stop="20260420043000 +0000" channel="Sky Sport Tennis HD.skyde">
     <title>WTA 500: E. Svitolina (UKR) - K. Muchova (CZE), Porsche Tennis Grand Prix in Stuttgart, Halbfinale 1</title>
 </programme>
-<programme start="20260420050000 +0000" stop="20260420064000 +0000" channel="Sky Sport Tennis HD.skyde">
+<programme start="20260420043000 +0000" stop="20260420063000 +0000" channel="Sky Sport Tennis HD.skyde">
     <title>WTA 500: E. Rybakina (KAZ) - M. Andreeva, Porsche Tennis Grand Prix in Stuttgart, Halbfinale 2</title>
 </programme>
-<programme start="20260420064000 +0000" stop="20260420083000 +0000" channel="Sky Sport Tennis HD.skyde">
-    <title>WTA 500: E. Rybakina (KAZ) - K. Muchova (CZE), Porsche Tennis Grand Prix in Stuttgart, Finale</title>
+<programme start="20260420063000 +0000" stop="20260420090000 +0000" channel="Sky Sport Tennis HD.skyde">
+    <title>WTA 500: Finale, Porsche Tennis Grand Prix in Stuttgart, Finale</title>
 </programme>
-<programme start="20260420083000 +0000" stop="20260420100000 +0000" channel="Sky Sport Tennis HD.skyde">
+<programme start="20260420090000 +0000" stop="20260420110000 +0000" channel="Sky Sport Tennis HD.skyde">
     <title>ATP 500: A. Zverev (GER) - F. Cobolli (ITA), BMW Open in München, Halbfinale 1</title>
 </programme>
-<programme start="20260420100000 +0000" stop="20260420114000 +0000" channel="Sky Sport Tennis HD.skyde">
+<programme start="20260420110000 +0000" stop="20260420130000 +0000" channel="Sky Sport Tennis HD.skyde">
     <title>ATP 500: A. Molcan (SVK) - B. Shelton (USA), BMW Open in München, Halbfinale 2</title>
 </programme>
-<programme start="20260420114000 +0000" stop="20260420140000 +0000" channel="Sky Sport Tennis HD.skyde">
-    <title>ATP 500: B. Shelton (USA) - F. Cobolli (ITA), BMW Open in München, Finale</title>
+<programme start="20260420130000 +0000" stop="20260420153000 +0000" channel="Sky Sport Tennis HD.skyde">
+    <title>ATP 500: Doppelfinale, BMW Open in München, Doppelfinale</title>
 </programme>
-<programme start="20260420140000 +0000" stop="20260420162000 +0000" channel="Sky Sport Tennis HD.skyde">
-    <title>ATP 500: J. Schnaitter (GER) / M. Wallner (GER) - T. Arribage (FRA) / A. Olivetti (FRA), BMW Open in München, Doppelfinale</title>
+<programme start="20260420153000 +0000" stop="20260420180000 +0000" channel="Sky Sport Tennis HD.skyde">
+    <title>ATP 500: Finale, BMW Open in München, Finale</title>
 </programme>
-<programme start="20260420162000 +0000" stop="20260420184000 +0000" channel="Sky Sport Tennis HD.skyde">
-    <title>ATP 500: B. Shelton (USA) - F. Cobolli (ITA), BMW Open in München, Finale</title>
-</programme>
-<programme start="20260420184000 +0000" stop="20260420194000 +0000" channel="Sky Sport Tennis HD.skyde">
+<programme start="20260420180000 +0000" stop="20260420190000 +0000" channel="Sky Sport Tennis HD.skyde">
     <title>ATP 500: Review Barcelona</title>
 </programme>
-<programme start="20260420194000 +0000" stop="20260420204000 +0000" channel="Sky Sport Tennis HD.skyde">
+<programme start="20260420190000 +0000" stop="20260420200000 +0000" channel="Sky Sport Tennis HD.skyde">
     <title>ATP 500: Review München</title>
 </programme>
-<programme start="20260420204000 +0000" stop="20260420223000 +0000" channel="Sky Sport Tennis HD.skyde">
-    <title>WTA 500: E. Rybakina (KAZ) - K. Muchova (CZE), Porsche Tennis Grand Prix in Stuttgart, Finale</title>
+<programme start="20260420200000 +0000" stop="20260420223000 +0000" channel="Sky Sport Tennis HD.skyde">
+    <title>WTA 500: Finale, Porsche Tennis Grand Prix in Stuttgart, Finale</title>
 </programme>
 <programme start="20260419220000 +0000" stop="20260420000000 +0000" channel="Sky Sport Top Event HD.skyde">
     <title>Live IndyCar: Acura Grand Prix of Long Beach</title>
 </programme>
-<programme start="20260420000000 +0000" stop="20260420010500 +0000" channel="Sky Sport Top Event HD.skyde">
-    <title>Live NHL: Montreal Canadiens @ Tampa Bay Lightning, Playoffs, 1. Runde, Spiel 1</title>
-</programme>
 <programme start="20260420010500 +0000" stop="20260420033000 +0000" channel="Sky Sport Top Event HD.skyde">
     <title>Live NBA: Portland Trail Blazers @ San Antonio Spurs, Playoffs, Runde 1, Spiel 1</title>
+</programme>
+<programme start="20260420033000 +0000" stop="20260420040000 +0000" channel="Sky Sport Top Event HD.skyde">
+    <title>Live NBA: Showtime - Post Show</title>
 </programme>
 <programme start="20260420040000 +0000" stop="20260420050000 +0000" channel="Sky Sport Top Event HD.skyde">
     <title>3. Liga: Alle Spiele, alle Tore, 34. Spieltag komplett</title>
@@ -3170,7 +3179,7 @@ Warning: Undefined array key "et" in /usr/home/ManusiaBiasa/domains/manusiabiasa
 <programme start="20260419220000 +0000" stop="20260419223000 +0000" channel="Sky Sport 1 HD.skyde">
     <title>Live NBA: Showtime</title>
 </programme>
-<programme start="20260419223000 +0000" stop="20260420080000 +0000" channel="Sky Sport 1 HD.skyde">
+<programme start="20260419223000 +0000" stop="20260420030500 +0000" channel="Sky Sport 1 HD.skyde">
     <title>Live NBA: Orlando Magic @ Detroit Pistons, Playoffs, Runde 1, Spiel 1</title>
 </programme>
 <programme start="20260419222000 +0000" stop="20260419230500 +0000" channel="SYFY HD.skyde">
