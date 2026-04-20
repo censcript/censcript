@@ -1243,35 +1243,32 @@
   <programme start="20260421231500 +0000" stop="20260422001000 +0000" channel="JOJ Šport 2.webtv.sk">
     <title lang="id">FIS Svetový pohár slalom ženy</title>
   </programme>
-  <programme start="20260422001000 +0000" stop="20260422013000 +0000" channel="JOJ Šport 2.webtv.sk">
+  <programme start="20260422001000 +0000" stop="20260422020500 +0000" channel="JOJ Šport 2.webtv.sk">
     <title lang="id">FIS Svetový pohár slalom ženy</title>
   </programme>
-  <programme start="20260422013000 +0000" stop="20260422040000 +0000" channel="JOJ Šport 2.webtv.sk">
+  <programme start="20260422020500 +0000" stop="20260422040500 +0000" channel="JOJ Šport 2.webtv.sk">
     <title lang="id">Športové lezenie</title>
   </programme>
-  <programme start="20260422040000 +0000" stop="20260422052500 +0000" channel="JOJ Šport 2.webtv.sk">
-    <title lang="id">FIS Svetový pohár zjazd muži</title>
-  </programme>
-  <programme start="20260422052500 +0000" stop="20260422072000 +0000" channel="JOJ Šport 2.webtv.sk">
+  <programme start="20260422040500 +0000" stop="20260422060000 +0000" channel="JOJ Šport 2.webtv.sk">
     <title lang="id">2025 IIHF Majstrovstvá sveta</title>
   </programme>
-  <programme start="20260422072000 +0000" stop="20260422093500 +0000" channel="JOJ Šport 2.webtv.sk">
+  <programme start="20260422060000 +0000" stop="20260422081000 +0000" channel="JOJ Šport 2.webtv.sk">
     <title lang="id">2025 IIHF Majstrovstvá sveta</title>
   </programme>
-  <programme start="20260422093500 +0000" stop="20260422120500 +0000" channel="JOJ Šport 2.webtv.sk">
+  <programme start="20260422081000 +0000" stop="20260422102500 +0000" channel="JOJ Šport 2.webtv.sk">
     <title lang="id">Futbal - Európska liga</title>
   </programme>
-  <programme start="20260422120500 +0000" stop="20260422145000 +0000" channel="JOJ Šport 2.webtv.sk">
+  <programme start="20260422102500 +0000" stop="20260422131000 +0000" channel="JOJ Šport 2.webtv.sk">
     <title lang="id">Volejbal - Niké Extraliga ženy</title>
   </programme>
-  <programme start="20260422145000 +0000" stop="20260422172000 +0000" channel="JOJ Šport 2.webtv.sk">
-    <title lang="id">Basketbal - Tipos extraliga</title>
+  <programme start="20260422131000 +0000" stop="20260422155000 +0000" channel="JOJ Šport 2.webtv.sk">
+    <title lang="id">Basketbal - Tipos SBL</title>
   </programme>
-  <programme start="20260422172000 +0000" stop="20260422200500 +0000" channel="JOJ Šport 2.webtv.sk">
+  <programme start="20260422155000 +0000" stop="20260422185500 +0000" channel="JOJ Šport 2.webtv.sk">
     <title lang="id">Volejbal - Niké Extraliga ženy</title>
   </programme>
-  <programme start="20260422200500 +0000" stop="20260422225000 +0000" channel="JOJ Šport 2.webtv.sk">
-    <title lang="id">Hokej - Tipsport liga</title>
+  <programme start="20260422185500 +0000" stop="20260423022500 +0000" channel="JOJ Šport 2.webtv.sk">
+    <title lang="id">Automobilové preteky</title>
   </programme>
   <programme start="20260421215500 +0000" stop="20260421225500 +0000" channel="WAU.webtv.sk">
     <title lang="id">Vrahovia na slobode I (5)</title>
@@ -2120,7 +2117,7 @@
     <title lang="id">Moe a jeho šou IV (10)</title>
   </programme>
   <programme start="20260421214000 +0000" stop="20260421222000 +0000" channel="RiK TV.webtv.sk">
-    <title lang="id">Flopyho veselé príbehy</title>
+    <title lang="id">Flopyho veselé príbehy (24)</title>
   </programme>
   <programme start="20260421222000 +0000" stop="20260421224500 +0000" channel="RiK TV.webtv.sk">
     <title lang="id">Malý medvedík I (15)</title>
@@ -2204,7 +2201,7 @@
     <title lang="id">Hot Wheels autíčka II (3)</title>
   </programme>
   <programme start="20260422044500 +0000" stop="20260422050000 +0000" channel="RiK TV.webtv.sk">
-    <title lang="id">Flopy</title>
+    <title lang="id">Flopy (200)</title>
   </programme>
   <programme start="20260422050000 +0000" stop="20260422051500 +0000" channel="RiK TV.webtv.sk">
     <title lang="id">Dobrodružstvá Bolka a Lolka I (17)</title>
@@ -2222,7 +2219,7 @@
     <title lang="id">Prasiatko Peppa I (20)</title>
   </programme>
   <programme start="20260422061000 +0000" stop="20260422070000 +0000" channel="RiK TV.webtv.sk">
-    <title lang="id">Flopyho veselé príbehy</title>
+    <title lang="id">Flopyho veselé príbehy (22)</title>
   </programme>
   <programme start="20260422070000 +0000" stop="20260422072000 +0000" channel="RiK TV.webtv.sk">
     <title lang="id">Drobčekovia III (11)</title>
@@ -2249,7 +2246,7 @@
     <title lang="id">Máša a medveď VI (127)</title>
   </programme>
   <programme start="20260422091500 +0000" stop="20260422093000 +0000" channel="RiK TV.webtv.sk">
-    <title lang="id">Flopy</title>
+    <title lang="id">Flopy (203)</title>
   </programme>
   <programme start="20260422093000 +0000" stop="20260422094000 +0000" channel="RiK TV.webtv.sk">
     <title lang="id">Pingu v meste I (15)</title>
@@ -2270,7 +2267,7 @@
     <title lang="id">Pingu IV (5)</title>
   </programme>
   <programme start="20260422103000 +0000" stop="20260422104500 +0000" channel="RiK TV.webtv.sk">
-    <title lang="id">Flopy</title>
+    <title lang="id">Flopy (201)</title>
   </programme>
   <programme start="20260422104500 +0000" stop="20260422105500 +0000" channel="RiK TV.webtv.sk">
     <title lang="id">Volám sa Caillou II./III. II (26)</title>
@@ -2309,7 +2306,7 @@
     <title lang="id">Požiarnik Sam XIV (24)</title>
   </programme>
   <programme start="20260422135000 +0000" stop="20260422142000 +0000" channel="RiK TV.webtv.sk">
-    <title lang="id">Flopy</title>
+    <title lang="id">Flopy (110)</title>
   </programme>
   <programme start="20260422142000 +0000" stop="20260422144500 +0000" channel="RiK TV.webtv.sk">
     <title lang="id">Krajina fantázie s TintiLinti I (3)</title>
@@ -2339,7 +2336,7 @@
     <title lang="id">Požiarnik Sam XIV (25)</title>
   </programme>
   <programme start="20260422162000 +0000" stop="20260422170500 +0000" channel="RiK TV.webtv.sk">
-    <title lang="id">Flopyho veselé príbehy</title>
+    <title lang="id">Flopyho veselé príbehy (18)</title>
   </programme>
   <programme start="20260422170500 +0000" stop="20260422171000 +0000" channel="RiK TV.webtv.sk">
     <title lang="id">Prasiatko Peppa I (21)</title>
@@ -2366,7 +2363,7 @@
     <title lang="id">Barbie: Dom snov I (7)</title>
   </programme>
   <programme start="20260422190500 +0000" stop="20260422195000 +0000" channel="RiK TV.webtv.sk">
-    <title lang="id">Flopyho veselé príbehy</title>
+    <title lang="id">Flopyho veselé príbehy (46)</title>
   </programme>
   <programme start="20260422195000 +0000" stop="20260422201500 +0000" channel="RiK TV.webtv.sk">
     <title lang="id">Volám sa Caillou I (23)</title>
@@ -2393,7 +2390,7 @@
     <title lang="id">Dobrodružstvá Bolka a Lolka I (20)</title>
   </programme>
   <programme start="20260422214000 +0000" stop="20260422222000 +0000" channel="RiK TV.webtv.sk">
-    <title lang="id">Flopyho veselé príbehy</title>
+    <title lang="id">Flopyho veselé príbehy (48)</title>
   </programme>
   <programme start="20260421220000 +0000" stop="20260422030000 +0000" channel="LALA TV.webtv.sk">
     <title lang="id">Spíva celá rodina</title>
@@ -4946,7 +4943,7 @@
     <title lang="id">GarazTV</title>
   </programme>
   <programme start="20260422070000 +0000" stop="20260422073000 +0000" channel="Arena Sport 1.webtv.sk">
-    <title lang="id">Martin z Martina</title>
+    <title lang="id">Motoride</title>
   </programme>
   <programme start="20260422073000 +0000" stop="20260422080000 +0000" channel="Arena Sport 1.webtv.sk">
     <title lang="id">Autožurnál</title>
@@ -4996,11 +4993,11 @@
   <programme start="20260422141500 +0000" stop="20260422143000 +0000" channel="Arena Sport 1.webtv.sk">
     <title lang="id">Švihák testuje</title>
   </programme>
-  <programme start="20260422143000 +0000" stop="20260422151500 +0000" channel="Arena Sport 1.webtv.sk">
+  <programme start="20260422143000 +0000" stop="20260422153000 +0000" channel="Arena Sport 1.webtv.sk">
     <title lang="id">Autožurnál</title>
   </programme>
-  <programme start="20260422151500 +0000" stop="20260422160000 +0000" channel="Arena Sport 1.webtv.sk">
-    <title lang="id">Autožurnál</title>
+  <programme start="20260422153000 +0000" stop="20260422160000 +0000" channel="Arena Sport 1.webtv.sk">
+    <title lang="id">Motoride</title>
   </programme>
   <programme start="20260422160000 +0000" stop="20260422163000 +0000" channel="Arena Sport 1.webtv.sk">
     <title lang="id">GarazTV</title>
@@ -16780,16 +16777,16 @@
   <programme start="20260422005000 +0000" stop="20260422012000 +0000" channel="TVP Info.webtv.sk">
     <title lang="id">Panorama Dnia</title>
   </programme>
-  <programme start="20260422012000 +0000" stop="20260422012400 +0000" channel="TVP Info.webtv.sk">
+  <programme start="20260422012000 +0000" stop="20260422012300 +0000" channel="TVP Info.webtv.sk">
     <title lang="id">Pogoda Info</title>
   </programme>
-  <programme start="20260422012400 +0000" stop="20260422014300 +0000" channel="TVP Info.webtv.sk">
+  <programme start="20260422012300 +0000" stop="20260422014500 +0000" channel="TVP Info.webtv.sk">
     <title lang="id">Z bliska (9)</title>
   </programme>
-  <programme start="20260422014300 +0000" stop="20260422022100 +0000" channel="TVP Info.webtv.sk">
+  <programme start="20260422014500 +0000" stop="20260422022200 +0000" channel="TVP Info.webtv.sk">
     <title lang="id">Podróze z historia II (22)</title>
   </programme>
-  <programme start="20260422022100 +0000" stop="20260422025600 +0000" channel="TVP Info.webtv.sk">
+  <programme start="20260422022200 +0000" stop="20260422025600 +0000" channel="TVP Info.webtv.sk">
     <title lang="id">Stacja Arktyka (7)</title>
   </programme>
   <programme start="20260422025600 +0000" stop="20260422034500 +0000" channel="TVP Info.webtv.sk">
@@ -16864,10 +16861,10 @@
   <programme start="20260422070000 +0000" stop="20260422080000 +0000" channel="TVP Info.webtv.sk">
     <title lang="id">Serwis Info Poranek</title>
   </programme>
-  <programme start="20260422080000 +0000" stop="20260422082200 +0000" channel="TVP Info.webtv.sk">
+  <programme start="20260422080000 +0000" stop="20260422082100 +0000" channel="TVP Info.webtv.sk">
     <title lang="id">Serwis Info Dzien</title>
   </programme>
-  <programme start="20260422082200 +0000" stop="20260422083000 +0000" channel="TVP Info.webtv.sk">
+  <programme start="20260422082100 +0000" stop="20260422083000 +0000" channel="TVP Info.webtv.sk">
     <title lang="id">Pogoda Info</title>
   </programme>
   <programme start="20260422083000 +0000" stop="20260422090000 +0000" channel="TVP Info.webtv.sk">
@@ -16894,10 +16891,10 @@
   <programme start="20260422113000 +0000" stop="20260422120000 +0000" channel="TVP Info.webtv.sk">
     <title lang="id">Serwis Info Dzien</title>
   </programme>
-  <programme start="20260422120000 +0000" stop="20260422122200 +0000" channel="TVP Info.webtv.sk">
+  <programme start="20260422120000 +0000" stop="20260422122100 +0000" channel="TVP Info.webtv.sk">
     <title lang="id">Serwis Info Dzien</title>
   </programme>
-  <programme start="20260422122200 +0000" stop="20260422123000 +0000" channel="TVP Info.webtv.sk">
+  <programme start="20260422122100 +0000" stop="20260422123000 +0000" channel="TVP Info.webtv.sk">
     <title lang="id">Pogoda Info</title>
   </programme>
   <programme start="20260422123000 +0000" stop="20260422125200 +0000" channel="TVP Info.webtv.sk">
@@ -16906,10 +16903,10 @@
   <programme start="20260422125200 +0000" stop="20260422130000 +0000" channel="TVP Info.webtv.sk">
     <title lang="id">Pogoda Info</title>
   </programme>
-  <programme start="20260422130000 +0000" stop="20260422132200 +0000" channel="TVP Info.webtv.sk">
+  <programme start="20260422130000 +0000" stop="20260422132300 +0000" channel="TVP Info.webtv.sk">
     <title lang="id">Serwis Info Dzien</title>
   </programme>
-  <programme start="20260422132200 +0000" stop="20260422133000 +0000" channel="TVP Info.webtv.sk">
+  <programme start="20260422132300 +0000" stop="20260422133000 +0000" channel="TVP Info.webtv.sk">
     <title lang="id">Pogoda Info</title>
   </programme>
   <programme start="20260422133000 +0000" stop="20260422134500 +0000" channel="TVP Info.webtv.sk">
@@ -18449,7 +18446,7 @@
     <title lang="id">News Live</title>
   </programme>
   <programme start="20260422083000 +0000" stop="20260422090000 +0000" channel="Al Jazeera English.webtv.sk">
-    <title lang="id">The Stream</title>
+    <title lang="id">Al Jazeera Untangles - The Coloniser&apos;s Academy</title>
   </programme>
   <programme start="20260422090000 +0000" stop="20260422093000 +0000" channel="Al Jazeera English.webtv.sk">
     <title lang="id">News Live</title>

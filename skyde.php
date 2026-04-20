@@ -2697,9 +2697,6 @@ Warning: Undefined array key "et" in /usr/home/ManusiaBiasa/domains/manusiabiasa
     <title>BL: Werder Bremen - Hamburger SV, 30. Spieltag</title>
 </programme>
 <programme start="20260420113000 +0000" stop="20260420133000 +0000" channel="Sky Sport Bundesliga UHD.skyde">
-    <title>BL: FC St. Pauli - 1. FC Köln, Flutlicht-Freitag, 30. Spieltag</title>
-</programme>
-<programme start="20260420113000 +0000" stop="20260420133000 +0000" channel="Sky Sport Bundesliga UHD.skyde">
     <title>BL: Eintracht Frankfurt - RB Leipzig, tipico Topspiel der Woche, 30. Spieltag</title>
 </programme>
 <programme start="20260420133000 +0000" stop="20260420153000 +0000" channel="Sky Sport Bundesliga UHD.skyde">
@@ -2713,9 +2710,6 @@ Warning: Undefined array key "et" in /usr/home/ManusiaBiasa/domains/manusiabiasa
 </programme>
 <programme start="20260420193000 +0000" stop="20260420213000 +0000" channel="Sky Sport Bundesliga UHD.skyde">
     <title>BL: Eintracht Frankfurt - RB Leipzig, tipico Topspiel der Woche, 30. Spieltag</title>
-</programme>
-<programme start="20260420193000 +0000" stop="20260420213000 +0000" channel="Sky Sport Bundesliga UHD.skyde">
-    <title>BL: FC St. Pauli - 1. FC Köln, Flutlicht-Freitag, 30. Spieltag</title>
 </programme>
 <programme start="20260420213000 +0000" stop="20260420233000 +0000" channel="Sky Sport Bundesliga UHD.skyde">
     <title>2. BL: Hannover 96 - SC Paderborn 07, tipico Topspiel der Woche, 30. Spieltag</title>
@@ -2837,17 +2831,26 @@ Warning: Undefined array key "et" in /usr/home/ManusiaBiasa/domains/manusiabiasa
 <programme start="20260420190000 +0000" stop="20260420220000 +0000" channel="Sky Sport Golf HD.skyde">
     <title>LIV Golf: Mexiko City, 4. Tag in Naucalpan</title>
 </programme>
-<programme start="20260419220000 +0000" stop="20260420010500 +0000" channel="Sky Sport Mix HD.skyde">
+<programme start="20260419220000 +0000" stop="20260420004500 +0000" channel="Sky Sport Mix HD.skyde">
     <title>Live NHL: Montreal Canadiens @ Tampa Bay Lightning, Playoffs, 1. Runde, Spiel 1</title>
 </programme>
-<programme start="20260420010500 +0000" stop="20260420040000 +0000" channel="Sky Sport Mix HD.skyde">
+<programme start="20260420004500 +0000" stop="20260420010000 +0000" channel="Sky Sport Mix HD.skyde">
+    <title>NHL: Highlights OTT@CAR, Playoffs, 1. Runde, Spiel 1</title>
+</programme>
+<programme start="20260420010000 +0000" stop="20260420033000 +0000" channel="Sky Sport Mix HD.skyde">
     <title>Live NBA: Portland Trail Blazers @ San Antonio Spurs, Playoffs, Runde 1, Spiel 1</title>
+</programme>
+<programme start="20260420033000 +0000" stop="20260420040000 +0000" channel="Sky Sport Mix HD.skyde">
+    <title>Live NBA: Showtime - Post Show</title>
 </programme>
 <programme start="20260420040000 +0000" stop="20260420050000 +0000" channel="Sky Sport Mix HD.skyde">
     <title>3. Liga: Alle Spiele, alle Tore, 34. Spieltag komplett</title>
 </programme>
 <programme start="20260420050000 +0000" stop="20260420070000 +0000" channel="Sky Sport Mix HD.skyde">
     <title>NHL: Montreal Canadiens @ Tampa Bay Lightning, Playoffs, 1. Runde, Spiel 1</title>
+</programme>
+<programme start="20260420050000 +0000" stop="20260420070000 +0000" channel="Sky Sport Mix HD.skyde">
+    <title>NHL: Topspiel, Playoffs, 1. Runde, Spiel 1</title>
 </programme>
 <programme start="20260420070000 +0000" stop="20260420093000 +0000" channel="Sky Sport Mix HD.skyde">
     <title>NBA: Philadelphia 76ers @ Boston Celtics, Playoffs, Runde 1, Spiel 1</title>
@@ -2872,9 +2875,6 @@ Warning: Undefined array key "et" in /usr/home/ManusiaBiasa/domains/manusiabiasa
 </programme>
 <programme start="20260420150000 +0000" stop="20260420173000 +0000" channel="Sky Sport Mix HD.skyde">
     <title>NBA: Orlando Magic @ Detroit Pistons, Playoffs, Runde 1, Spiel 1</title>
-</programme>
-<programme start="20260420173000 +0000" stop="20260420193000 +0000" channel="Sky Sport Mix HD.skyde">
-    <title>NHL: Los Angeles Kings @ Colorado Avalanche, Playoffs, 1. Runde, Spiel 1</title>
 </programme>
 <programme start="20260420193000 +0000" stop="20260420220000 +0000" channel="Sky Sport Mix HD.skyde">
     <title>NBA: Portland Trail Blazers @ San Antonio Spurs, Playoffs, Runde 1, Spiel 1</title>
@@ -2906,29 +2906,11 @@ Warning: Undefined array key "et" in /usr/home/ManusiaBiasa/domains/manusiabiasa
 <programme start="20260420090000 +0000" stop="20260420100000 +0000" channel="Sky Sport News HD.skyde">
     <title>2. BL Kompakt: 30. Spieltag</title>
 </programme>
-<programme start="20260420100000 +0000" stop="20260420103000 +0000" channel="Sky Sport News HD.skyde">
-    <title>Live Sky Sport News: Bayerns Meisterstück - Eine BL-Saison der Superlative</title>
-</programme>
-<programme start="20260420103000 +0000" stop="20260420113000 +0000" channel="Sky Sport News HD.skyde">
+<programme start="20260420100000 +0000" stop="20260420130000 +0000" channel="Sky Sport News HD.skyde">
     <title>Live Sky Sport News: Der Mittag</title>
 </programme>
-<programme start="20260420113000 +0000" stop="20260420120000 +0000" channel="Sky Sport News HD.skyde">
-    <title>Sky Sport News: Bayerns Meisterstück - Eine BL-Saison der Superlative</title>
-</programme>
-<programme start="20260420120000 +0000" stop="20260420130000 +0000" channel="Sky Sport News HD.skyde">
-    <title>Live Sky Sport News: Der Mittag</title>
-</programme>
-<programme start="20260420130000 +0000" stop="20260420140000 +0000" channel="Sky Sport News HD.skyde">
+<programme start="20260420130000 +0000" stop="20260420160000 +0000" channel="Sky Sport News HD.skyde">
     <title>Live Sky Sport News: Der Nachmittag</title>
-</programme>
-<programme start="20260420140000 +0000" stop="20260420143000 +0000" channel="Sky Sport News HD.skyde">
-    <title>Sky Sport News: Bayerns Meisterstück - Eine BL-Saison der Superlative</title>
-</programme>
-<programme start="20260420143000 +0000" stop="20260420153000 +0000" channel="Sky Sport News HD.skyde">
-    <title>Live Sky Sport News: Der Nachmittag</title>
-</programme>
-<programme start="20260420153000 +0000" stop="20260420160000 +0000" channel="Sky Sport News HD.skyde">
-    <title>Sky Sport News: Bayerns Meisterstück - Eine BL-Saison der Superlative</title>
 </programme>
 <programme start="20260420160000 +0000" stop="20260420170000 +0000" channel="Sky Sport News HD.skyde">
     <title>Live Transfer Update: Die Show XXL</title>
@@ -3194,7 +3176,7 @@ Warning: Undefined array key "et" in /usr/home/ManusiaBiasa/domains/manusiabiasa
 <programme start="20260419220000 +0000" stop="20260419223000 +0000" channel="Sky Sport 1 HD.skyde">
     <title>Live NBA: Showtime</title>
 </programme>
-<programme start="20260419223000 +0000" stop="20260420080000 +0000" channel="Sky Sport 1 HD.skyde">
+<programme start="20260419223000 +0000" stop="20260420030500 +0000" channel="Sky Sport 1 HD.skyde">
     <title>Live NBA: Orlando Magic @ Detroit Pistons, Playoffs, Runde 1, Spiel 1</title>
 </programme>
 <programme start="20260419222000 +0000" stop="20260419230500 +0000" channel="SYFY HD.skyde">
