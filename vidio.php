@@ -1983,11 +1983,11 @@
     <title lang="id">Secret Story</title>
     <icon src="https://thumbor.prod.vidiocdn.com/VyDWgGuvUtZp5M006MXkTEIEpxw=/287x162/filters:strip_icc():quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/image/734/trans7-9dade4.jpg"/>
   </programme>
-  <programme channel="734" start="20260420121500 +0000" stop="20260420130000 +0000">
+  <programme channel="734" start="20260420121500 +0000" stop="20260420130500 +0000">
     <title lang="id">POV (Pasti Obrolan Viral)</title>
     <icon src="https://thumbor.prod.vidiocdn.com/5r1GGgjuXB_LJIv9uFb7IonvRxA=/287x162/filters:strip_icc():quality(70)/vidio-media-production/uploads/livestreaming/schedule/thumbnail/5018407/3f33c5.jpg"/>
   </programme>
-  <programme channel="734" start="20260420130000 +0000" stop="20260420143000 +0000">
+  <programme channel="734" start="20260420130500 +0000" stop="20260420143000 +0000">
     <title lang="id">Arisan</title>
     <icon src="https://thumbor.prod.vidiocdn.com/VyDWgGuvUtZp5M006MXkTEIEpxw=/287x162/filters:strip_icc():quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/image/734/trans7-9dade4.jpg"/>
   </programme>
@@ -2646,12 +2646,12 @@
     <desc lang="id">American Ninja Warrior Season 14</desc>
     <icon src="https://thumbor.prod.vidiocdn.com/eZwOTz0O9y_4xxz6DLdN_Rv7QwE=/287x162/filters:strip_icc():quality(70)/vidio-media-production/uploads/livestreaming/schedule/thumbnail/5020835/97470a.jpg"/>
   </programme>
-  <programme channel="206" start="20260420120000 +0000" stop="20260420140000 +0000">
+  <programme channel="206" start="20260420120000 +0000" stop="20260420143000 +0000">
     <title lang="id">Rerun Proliga 2026</title>
     <desc lang="id">Rerun Proliga 2026</desc>
     <icon src="https://thumbor.prod.vidiocdn.com/NdmzqkxqnWVnlngtk_ObYNT-wiY=/287x162/filters:strip_icc():quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/image/206/moji-a5bd3e.jpg"/>
   </programme>
-  <programme channel="206" start="20260420140000 +0000" stop="20260420160000 +0000">
+  <programme channel="206" start="20260420143000 +0000" stop="20260420160000 +0000">
     <title lang="id">FC Internazionale vs Bodo/Glimt : UEFA Champions League 2025/26</title>
     <desc lang="id">Knockout Playoffs, 2nd Leg.</desc>
     <icon src="https://thumbor.prod.vidiocdn.com/NdmzqkxqnWVnlngtk_ObYNT-wiY=/287x162/filters:strip_icc():quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/image/206/moji-a5bd3e.jpg"/>
@@ -9947,12 +9947,12 @@
     <title lang="id">Teri Meri Doriyaann</title>
     <icon src="https://thumbor.prod.vidiocdn.com/mxTYzHb3x9l74jM2OXp-phvdkqA=/287x162/filters:strip_icc():quality(70)/vidio-media-production/uploads/livestreaming/schedule/thumbnail/5021432/b6780d.jpg"/>
   </programme>
-  <programme channel="782" start="20260420091100 +0000" stop="20260420112100 +0000">
+  <programme channel="782" start="20260420091100 +0000" stop="20260420112000 +0000">
     <title lang="id">Vasudha</title>
     <desc lang="id">Vasudha yang periang bergabung dengan rumah pemimpin bisnis Chandrika sebagai pembantu dan mendambakan persetujuannya meskipun ada perbedaan ideologis di antara mereka.</desc>
     <icon src="https://thumbor.prod.vidiocdn.com/Xboj6xMGOJVmszC4k1Zlgj0HsEY=/287x162/filters:strip_icc():quality(70)/vidio-media-production/uploads/livestreaming/schedule/thumbnail/5021150/607d84.jpg"/>
   </programme>
-  <programme channel="782" start="20260420112100 +0000" stop="20260420130000 +0000">
+  <programme channel="782" start="20260420112000 +0000" stop="20260420130000 +0000">
     <title lang="id">Sinema Laga Klasik: Tragedi Bintaro</title>
     <desc lang="id">Impian Minah untuk pindah ke kampung kandas ketika terjadi kecelakaan kereta yang mengakibatkan dirinya tewas beserta 4 cucunya.</desc>
     <icon src="https://thumbor.prod.vidiocdn.com/20tRQaK9Gps_wFQL5rY-XgRbrs4=/287x162/filters:strip_icc():quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/image/782/antv-de8530.jpg"/>
@@ -15264,11 +15264,11 @@
     <title lang="id">Juventus vs Bologna - Serie A 2025/26</title>
     <icon src="https://thumbor.prod.vidiocdn.com/nY0aFklpYf6yONLaFJjxhiSuthc=/287x162/filters:strip_icc():quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/image/6786/champions-tv-3-76ca7c.jpg"/>
   </programme>
-  <programme channel="6786" start="20260420110000 +0000" stop="20260420130000 +0000">
+  <programme channel="6786" start="20260420110000 +0000" stop="20260420125800 +0000">
     <title lang="id">ROMA vs ATALANTA - Serie A 2025/26</title>
     <icon src="https://thumbor.prod.vidiocdn.com/nY0aFklpYf6yONLaFJjxhiSuthc=/287x162/filters:strip_icc():quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/image/6786/champions-tv-3-76ca7c.jpg"/>
   </programme>
-  <programme channel="6786" start="20260420130000 +0000" stop="20260420143000 +0000">
+  <programme channel="6786" start="20260420125800 +0000" stop="20260420143000 +0000">
     <title lang="id">Billie Jane King Cup 2025</title>
     <icon src="https://thumbor.prod.vidiocdn.com/nY0aFklpYf6yONLaFJjxhiSuthc=/287x162/filters:strip_icc():quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/image/6786/champions-tv-3-76ca7c.jpg"/>
   </programme>
