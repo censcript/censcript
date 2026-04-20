@@ -15614,11 +15614,16 @@
     <category lang="en">Baseball</category>
   </programme>
   <programme start="20260420021500 +0000" stop="20260420050000 +0000" channel="spotv2.unifitv">
-    <title lang="en">2026 Global Champions League, Mexico City - Round 1</title>
-    <desc lang="en">Elite teams of top riders compete across iconic global venues, delivering tactical battles, precision jumping, and thrilling team-based equestrian action.</desc>
-    <category lang="en">Extreme Sports</category>
+    <title lang="en">2026 MLB Regular Season - New York Yankees vs Los Angeles Angels</title>
+    <desc lang="en">Major League Baseball is the most historic professional sports league consists of 30 member clubs in the U.S. and Canada, representing the highest level of professional baseball.</desc>
+    <category lang="en">Baseball</category>
   </programme>
-  <programme start="20260420050000 +0000" stop="20260420070000 +0000" channel="spotv2.unifitv">
+  <programme start="20260420050000 +0000" stop="20260420053000 +0000" channel="spotv2.unifitv">
+    <title lang="en">2025/26 ALM Mini Match Rd 24 - Melbourne City vs Wellington Phoenix</title>
+    <desc lang="en">Top flight men's soccer returns in the ISUZU UTE A-League Men. Catch every moment on SPOTV NOW as 12 teams compete in the regular season with top 4 advancing to a single-game knockout.</desc>
+    <category lang="en">Football</category>
+  </programme>
+  <programme start="20260420053000 +0000" stop="20260420070000 +0000" channel="spotv2.unifitv">
     <title lang="en">2026 Global Champions League, Mexico City - Round 2</title>
     <desc lang="en">Elite teams of top riders compete across iconic global venues, delivering tactical battles, precision jumping, and thrilling team-based equestrian action.</desc>
     <category lang="en">Extreme Sports</category>

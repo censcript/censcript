@@ -3191,7 +3191,7 @@
         <title>News</title>
     </programme>
     <programme start="20260419161500 +0000" stop="20260419163000 +0000" channel="DW English HD.starhub">
-        <title>On Location</title>
+        <title>Priced Out of Lisbon: When a Full-Time Job Isn’t Enough</title>
     </programme>
     <programme start="20260419163000 +0000" stop="20260419170000 +0000" channel="DW English HD.starhub">
         <title>Transforming Africa</title>
@@ -3209,7 +3209,7 @@
         <title>News</title>
     </programme>
     <programme start="20260419181500 +0000" stop="20260419183000 +0000" channel="DW English HD.starhub">
-        <title>Living in the Digital Age</title>
+        <title>Can AI help save the environment?</title>
     </programme>
     <programme start="20260419183000 +0000" stop="20260419190000 +0000" channel="DW English HD.starhub">
         <title>Malta’s Heritage on Wheels: The Fight to Save Its Buses</title>
@@ -3236,7 +3236,7 @@
         <title>At the top</title>
     </programme>
     <programme start="20260419211500 +0000" stop="20260419213000 +0000" channel="DW English HD.starhub">
-        <title>On Location</title>
+        <title>Priced Out of Lisbon: When a Full-Time Job Isn’t Enough</title>
     </programme>
     <programme start="20260419213000 +0000" stop="20260419220000 +0000" channel="DW English HD.starhub">
         <title>Women in science - female researcher numbers on the rise</title>
@@ -3248,7 +3248,7 @@
         <title>Transforming Africa</title>
     </programme>
     <programme start="20260419223000 +0000" stop="20260419230000 +0000" channel="DW English HD.starhub">
-        <title>Best of DW Podcasts</title>
+        <title>Who&#039;s to blame for Cameroon&#039;s woes?</title>
     </programme>
     <programme start="20260419230000 +0000" stop="20260419230200 +0000" channel="DW English HD.starhub">
         <title>News</title>
@@ -3257,7 +3257,7 @@
         <title>News</title>
     </programme>
     <programme start="20260419231500 +0000" stop="20260419233000 +0000" channel="DW English HD.starhub">
-        <title>Living in the Digital Age</title>
+        <title>Can AI help save the environment?</title>
     </programme>
     <programme start="20260419233000 +0000" stop="20260420000000 +0000" channel="DW English HD.starhub">
         <title>Malta’s Heritage on Wheels: The Fight to Save Its Buses</title>
@@ -3281,7 +3281,7 @@
         <title>The Last Pole-and-Line Fishermen of the Azores</title>
     </programme>
     <programme start="20260420014500 +0000" stop="20260420020000 +0000" channel="DW English HD.starhub">
-        <title>On Location</title>
+        <title>Priced Out of Lisbon: When a Full-Time Job Isn’t Enough</title>
     </programme>
     <programme start="20260420020000 +0000" stop="20260420020200 +0000" channel="DW English HD.starhub">
         <title>News</title>
@@ -3296,7 +3296,7 @@
         <title>News</title>
     </programme>
     <programme start="20260420030200 +0000" stop="20260420033000 +0000" channel="DW English HD.starhub">
-        <title>Best of DW Podcasts</title>
+        <title>Who&#039;s to blame for Cameroon&#039;s woes?</title>
     </programme>
     <programme start="20260420033000 +0000" stop="20260420040000 +0000" channel="DW English HD.starhub">
         <title>Lifestyle Europe</title>
@@ -3311,7 +3311,7 @@
         <title>What connects us all</title>
     </programme>
     <programme start="20260420044500 +0000" stop="20260420050000 +0000" channel="DW English HD.starhub">
-        <title>On Location</title>
+        <title>Priced Out of Lisbon: When a Full-Time Job Isn’t Enough</title>
     </programme>
     <programme start="20260420050000 +0000" stop="20260420050200 +0000" channel="DW English HD.starhub">
         <title>News</title>
@@ -3329,7 +3329,7 @@
         <title>Can&#039;t walk but I can fly</title>
     </programme>
     <programme start="20260420061500 +0000" stop="20260420063000 +0000" channel="DW English HD.starhub">
-        <title>Living in the Digital Age</title>
+        <title>Can AI help save the environment?</title>
     </programme>
     <programme start="20260420063000 +0000" stop="20260420070000 +0000" channel="DW English HD.starhub">
         <title>Making big cities more livable - Green ideas for urban life</title>
@@ -3350,7 +3350,7 @@
         <title>The Last Pole-and-Line Fishermen of the Azores</title>
     </programme>
     <programme start="20260420083000 +0000" stop="20260420090000 +0000" channel="DW English HD.starhub">
-        <title>Best of DW Podcasts</title>
+        <title>Who&#039;s to blame for Cameroon&#039;s woes?</title>
     </programme>
     <programme start="20260420090000 +0000" stop="20260420090200 +0000" channel="DW English HD.starhub">
         <title>News</title>
@@ -3395,7 +3395,7 @@
         <title>News</title>
     </programme>
     <programme start="20260420131500 +0000" stop="20260420133000 +0000" channel="DW English HD.starhub">
-        <title>Best of DW-online Content</title>
+        <title>How the global economy can navigate the impact of the war in Iran</title>
     </programme>
     <programme start="20260420133000 +0000" stop="20260420140000 +0000" channel="DW English HD.starhub">
         <title>Visa and Travel</title>
@@ -5135,7 +5135,7 @@
         <title>Ep 1 Jeddah</title>
     </programme>
     <programme start="20260419160500 +0000" stop="20260419180000 +0000" channel="SPOTV.starhub">
-        <title>25/26 Scottish Premiership Round 33 Falkirk vs Rangers</title>
+        <title>25/26 A-League Men Round 25 Wellington Phoenix vs Western Sydney Wanderers FC</title>
     </programme>
     <programme start="20260419180000 +0000" stop="20260419230000 +0000" channel="SPOTV.starhub">
         <title>Day 4</title>
@@ -6613,7 +6613,10 @@
     <programme start="20260420151400 +0000" stop="20260420163400 +0000" channel="TV5MONDE HD.starhub">
         <title>Les Harkis</title>
     </programme>
-    <programme start="20260419160000 +0000" stop="20260419170000 +0000" channel="Hub Sports 1  HD.starhub">
+    <programme start="20260419140000 +0000" stop="20260419162000 +0000" channel="Hub Sports 1  HD.starhub">
+        <title>Barcelona Open Banc Sabadell (500) Final</title>
+    </programme>
+    <programme start="20260419162000 +0000" stop="20260419170000 +0000" channel="Hub Sports 1  HD.starhub">
         <title>Abierto Mexicano Telcel p/b HSBC</title>
     </programme>
     <programme start="20260419170000 +0000" stop="20260419230000 +0000" channel="Hub Sports 1  HD.starhub">

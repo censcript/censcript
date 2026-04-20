@@ -2828,13 +2828,10 @@ Warning: Undefined array key "et" in /usr/home/ManusiaBiasa/domains/manusiabiasa
 <programme start="20260420190000 +0000" stop="20260420220000 +0000" channel="Sky Sport Golf HD.skyde">
     <title>LIV Golf: Mexiko City, 4. Tag in Naucalpan</title>
 </programme>
-<programme start="20260419220000 +0000" stop="20260420004500 +0000" channel="Sky Sport Mix HD.skyde">
+<programme start="20260419220000 +0000" stop="20260420010500 +0000" channel="Sky Sport Mix HD.skyde">
     <title>Live NHL: Montreal Canadiens @ Tampa Bay Lightning, Playoffs, 1. Runde, Spiel 1</title>
 </programme>
-<programme start="20260420004500 +0000" stop="20260420010000 +0000" channel="Sky Sport Mix HD.skyde">
-    <title>NHL: Highlights OTT@CAR, Playoffs, 1. Runde, Spiel 1</title>
-</programme>
-<programme start="20260420010000 +0000" stop="20260420033000 +0000" channel="Sky Sport Mix HD.skyde">
+<programme start="20260420010500 +0000" stop="20260420033000 +0000" channel="Sky Sport Mix HD.skyde">
     <title>Live NBA: Portland Trail Blazers @ San Antonio Spurs, Playoffs, Runde 1, Spiel 1</title>
 </programme>
 <programme start="20260420033000 +0000" stop="20260420040000 +0000" channel="Sky Sport Mix HD.skyde">
