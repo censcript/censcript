@@ -3080,7 +3080,10 @@ Warning: Undefined array key "et" in /usr/home/ManusiaBiasa/domains/manusiabiasa
 <programme start="20260419220000 +0000" stop="20260420000000 +0000" channel="Sky Sport Top Event HD.skyde">
     <title>Live IndyCar: Acura Grand Prix of Long Beach</title>
 </programme>
-<programme start="20260420010500 +0000" stop="20260420033000 +0000" channel="Sky Sport Top Event HD.skyde">
+<programme start="20260420000000 +0000" stop="20260420010000 +0000" channel="Sky Sport Top Event HD.skyde">
+    <title>Live NBA: Orlando Magic @ Detroit Pistons, Playoffs, Runde 1, Spiel 1</title>
+</programme>
+<programme start="20260420010000 +0000" stop="20260420033000 +0000" channel="Sky Sport Top Event HD.skyde">
     <title>Live NBA: Portland Trail Blazers @ San Antonio Spurs, Playoffs, Runde 1, Spiel 1</title>
 </programme>
 <programme start="20260420033000 +0000" stop="20260420040000 +0000" channel="Sky Sport Top Event HD.skyde">

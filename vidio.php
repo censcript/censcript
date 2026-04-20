@@ -778,12 +778,12 @@
     <desc lang="id">FTV Yang Diambil Dari Kisah Kehidupan Sehari-Hari Pemirsa Yang Penuh Intrik, Konflik dan Pengkhianatan Untuk Memberikan Berbagai Pelajaran Hidup. Saksikan Setiap Hari Pukul 13.30 WIB, Hanya Di Indosiar.</desc>
     <icon src="https://thumbor.prod.vidiocdn.com/cBZL7ITaJCof6cqtayFee2uJCX8=/287x162/filters:strip_icc():quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/image/205/indosiar-d9a3d0.jpg"/>
   </programme>
-  <programme channel="205" start="20260420063000 +0000" stop="20260420080000 +0000">
+  <programme channel="205" start="20260420063000 +0000" stop="20260420075500 +0000">
     <title lang="id">Kisah Nyata : Kakak Iparku Adalah Benalu</title>
     <desc lang="id">FTV Yang Diambil Dari Kisah Kehidupan Sehari-Hari Pemirsa Yang Penuh Intrik, Konflik dan Pengkhianatan Untuk Memberikan Berbagai Pelajaran Hidup.</desc>
     <icon src="https://thumbor.prod.vidiocdn.com/cBZL7ITaJCof6cqtayFee2uJCX8=/287x162/filters:strip_icc():quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/image/205/indosiar-d9a3d0.jpg"/>
   </programme>
-  <programme channel="205" start="20260420080000 +0000" stop="20260420104000 +0000">
+  <programme channel="205" start="20260420075500 +0000" stop="20260420104000 +0000">
     <title lang="id">Semen Padang FC vs PERSIJAP - BRI Super League</title>
     <desc lang="id">Nonton streaming pertandingan seru Semen Padang FC vs PERSIJAP - BRI Super League. Saksikan aksi-aksi terbaik dari tim yang bersaing ketat untuk meraih kemenangan. Dapatkan informasi lengkap mengenai jadwal pertandingan dan hasil pertandingan terbaru hanya di Vidio.</desc>
     <icon src="https://thumbor.prod.vidiocdn.com/ejSqUGPQ2CFZV0pqytx_oB5GymE=/287x162/filters:strip_icc():quality(70)/vidio-media-production/uploads/livestreaming/schedule/thumbnail/5020783/19a9ce.jpg"/>
@@ -2652,8 +2652,8 @@
     <icon src="https://thumbor.prod.vidiocdn.com/NdmzqkxqnWVnlngtk_ObYNT-wiY=/287x162/filters:strip_icc():quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/image/206/moji-a5bd3e.jpg"/>
   </programme>
   <programme channel="206" start="20260420140000 +0000" stop="20260420160000 +0000">
-    <title lang="id">Rerun Ucl</title>
-    <desc lang="id">Rerun Ucl</desc>
+    <title lang="id">FC Internazionale vs Bodo/Glimt : UEFA Champions League 2025/26</title>
+    <desc lang="id">Knockout Playoffs, 2nd Leg.</desc>
     <icon src="https://thumbor.prod.vidiocdn.com/NdmzqkxqnWVnlngtk_ObYNT-wiY=/287x162/filters:strip_icc():quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/image/206/moji-a5bd3e.jpg"/>
   </programme>
   <programme channel="206" start="20260420160000 +0000" stop="20260420170000 +0000">
@@ -7944,8 +7944,8 @@
     <icon src="https://thumbor.prod.vidiocdn.com/5yUHYfv_b1sZi7kdFElm8JqF2RY=/287x162/filters:strip_icc():quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/image/6299/bein-1-4bd997.jpg"/>
   </programme>
   <programme channel="6299" start="20260421170000 +0000" stop="20260421190000 +0000">
-    <title lang="id">Athletic Club vs Osasuna - LaLiga</title>
-    <desc lang="id">Nonton streaming pertandingan seru Athletic Club vs Osasuna - LaLiga. Saksikan aksi-aksi terbaik dari tim yang bersaing ketat untuk meraih kemenangan. Dapatkan informasi lengkap mengenai jadwal pertandingan dan hasil pertandingan terbaru hanya di Vidio.</desc>
+    <title lang="id">Athletic Club vs Osasuna</title>
+    <desc lang="id">22 APR - 00:00 WIB | Akankah Athletic Club amankan poin penuh kala menghadapi tamu Osasuna?</desc>
     <icon src="https://thumbor.prod.vidiocdn.com/44osmC9UzPV5_VDk8Mtf2SNbwlw=/287x162/filters:strip_icc():quality(70)/vidio-media-production/uploads/livestreaming/schedule/thumbnail/5020465/313e30.jpg"/>
   </programme>
   <programme channel="6299" start="20260421190000 +0000" stop="20260421191500 +0000">
@@ -9938,17 +9938,16 @@
     <desc lang="id">Ketertarikan seorang penyiar radio terhadap seorang wanita misterius membuka pintu bagi gelombang emosi dan hasrat yang kuat.</desc>
     <icon src="https://thumbor.prod.vidiocdn.com/wYsWiVQXrAVfUq5WUCNdGZSQHoQ=/287x162/filters:strip_icc():quality(70)/vidio-media-production/uploads/livestreaming/schedule/thumbnail/5021147/44c336.jpg"/>
   </programme>
-  <programme channel="782" start="20260420055100 +0000" stop="20260420080000 +0000">
+  <programme channel="782" start="20260420055100 +0000" stop="20260420074800 +0000">
     <title lang="id">Jhanak</title>
     <desc lang="id">Seorang wanita muda yang bersemangat memulai perjalanan untuk memenuhi janji seorang ibu demi kehidupan yang lebih baik sambil mengatasi tantangan dan kehilangan.</desc>
     <icon src="https://thumbor.prod.vidiocdn.com/O22D3dRDF6H_uCKmz2olz2hTEaU=/287x162/filters:strip_icc():quality(70)/vidio-media-production/uploads/livestreaming/schedule/thumbnail/5021148/fabcc6.jpg"/>
   </programme>
-  <programme channel="782" start="20260420080000 +0000" stop="20260420090000 +0000">
-    <title lang="id">Teri Medi Doriyaann</title>
-    <desc lang="id">TERI MEDI DORIYAANN</desc>
+  <programme channel="782" start="20260420074800 +0000" stop="20260420092500 +0000">
+    <title lang="id">Teri Meri Doriyaann</title>
     <icon src="https://thumbor.prod.vidiocdn.com/mxTYzHb3x9l74jM2OXp-phvdkqA=/287x162/filters:strip_icc():quality(70)/vidio-media-production/uploads/livestreaming/schedule/thumbnail/5021432/b6780d.jpg"/>
   </programme>
-  <programme channel="782" start="20260420090000 +0000" stop="20260420111500 +0000">
+  <programme channel="782" start="20260420092500 +0000" stop="20260420111500 +0000">
     <title lang="id">Vasudha</title>
     <desc lang="id">Vasudha yang periang bergabung dengan rumah pemimpin bisnis Chandrika sebagai pembantu dan mendambakan persetujuannya meskipun ada perbedaan ideologis di antara mereka.</desc>
     <icon src="https://thumbor.prod.vidiocdn.com/Xboj6xMGOJVmszC4k1Zlgj0HsEY=/287x162/filters:strip_icc():quality(70)/vidio-media-production/uploads/livestreaming/schedule/thumbnail/5021150/607d84.jpg"/>
@@ -10046,6 +10045,64 @@
   <programme channel="782" start="20260421161500 +0000" stop="20260421170000 +0000">
     <title lang="id">Bioskop Asia: Teenage Mutant Ninja Turtles III</title>
     <desc lang="id">Para kura-kura memulai petualangan baru saat mereka kembali ke Jepang untuk menyempurnakan seni menjadi samurai. Mereka juga membantu sebuah desa yang mencoba mengakhiri masa-masa penindasannya.</desc>
+    <icon src="https://thumbor.prod.vidiocdn.com/20tRQaK9Gps_wFQL5rY-XgRbrs4=/287x162/filters:strip_icc():quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/image/782/antv-de8530.jpg"/>
+  </programme>
+  <programme channel="782" start="20260421170000 +0000" stop="20260421174500 +0000">
+    <title lang="id">Bioskop Asia: Teenage Mutant Ninja Turtles III</title>
+    <desc lang="id">Para kura-kura memulai petualangan baru saat mereka kembali ke Jepang untuk menyempurnakan seni menjadi samurai. Mereka juga membantu sebuah desa yang mencoba mengakhiri masa-masa penindasannya.</desc>
+    <icon src="https://thumbor.prod.vidiocdn.com/20tRQaK9Gps_wFQL5rY-XgRbrs4=/287x162/filters:strip_icc():quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/image/782/antv-de8530.jpg"/>
+  </programme>
+  <programme channel="782" start="20260421174500 +0000" stop="20260421183000 +0000">
+    <title lang="id">(ANTV)</title>
+    <icon src="https://thumbor.prod.vidiocdn.com/20tRQaK9Gps_wFQL5rY-XgRbrs4=/287x162/filters:strip_icc():quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/image/782/antv-de8530.jpg"/>
+  </programme>
+  <programme channel="782" start="20260421183000 +0000" stop="20260421210000 +0000">
+    <title lang="id">Coppa Italia 2025/26: Inter vs Como</title>
+    <icon src="https://thumbor.prod.vidiocdn.com/20tRQaK9Gps_wFQL5rY-XgRbrs4=/287x162/filters:strip_icc():quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/image/782/antv-de8530.jpg"/>
+  </programme>
+  <programme channel="782" start="20260421210000 +0000" stop="20260421231500 +0000">
+    <title lang="id">Mega Bollywood: Double Dhamaal</title>
+    <desc lang="id">Empat orang pemalas bangkrut dan menjadi pengangguran usai kehilangan banyak uang karena seorang polisi. Mereka pun berencana untuk membalas penghinaan tersebut dengan membuat si polisi berakhir sendirian tanpa uang.</desc>
+    <icon src="https://thumbor.prod.vidiocdn.com/20tRQaK9Gps_wFQL5rY-XgRbrs4=/287x162/filters:strip_icc():quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/image/782/antv-de8530.jpg"/>
+  </programme>
+  <programme channel="782" start="20260421231500 +0000" stop="20260422003000 +0000">
+    <title lang="id">Kasautii</title>
+    <desc lang="id">Anurag dan Prerna kuliah di universitas yang sama, dan akhirnya menjalin hubungan erat. Namun, mereka harus menghadapi orang-orang yang ingin memisahkan keduanya, karena perbedaan status sosial.</desc>
+    <icon src="https://thumbor.prod.vidiocdn.com/rqNYtJjfBifjR0_p0GbdGGqfy-w=/287x162/filters:strip_icc():quality(70)/vidio-web-prod-film/uploads/film/image_landscape/8121/kasautii-6ef8ae.png"/>
+  </programme>
+  <programme channel="782" start="20260422003000 +0000" stop="20260422023000 +0000">
+    <title lang="id">Janji Cinta Inspektur Virat</title>
+    <desc lang="id">Kisah seorang inspektur yang terlibat dalam kisah percintaan segitiga.</desc>
+    <icon src="https://thumbor.prod.vidiocdn.com/VMqJn9jawRecdbw5SSdxxTHN_88=/287x162/filters:strip_icc():quality(70)/vidio-media-production/uploads/tv_program/thumbnail/386704/218ebf.jpg"/>
+  </programme>
+  <programme channel="782" start="20260422023000 +0000" stop="20260422060000 +0000">
+    <title lang="id">Mega Bollywood: Dil</title>
+    <desc lang="id">Seorang pria berpura-pura menjadi industrialis kaya untuk meningkatkan peluang putranya menikah dengan orang kaya, namun rencananya menjadi bumerang baginya.</desc>
+    <icon src="https://thumbor.prod.vidiocdn.com/20tRQaK9Gps_wFQL5rY-XgRbrs4=/287x162/filters:strip_icc():quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/image/782/antv-de8530.jpg"/>
+  </programme>
+  <programme channel="782" start="20260422060000 +0000" stop="20260422080000 +0000">
+    <title lang="id">Jhanak</title>
+    <desc lang="id">Seorang wanita muda yang bersemangat memulai perjalanan untuk memenuhi janji seorang ibu demi kehidupan yang lebih baik sambil mengatasi tantangan dan kehilangan.</desc>
+    <icon src="https://thumbor.prod.vidiocdn.com/20tRQaK9Gps_wFQL5rY-XgRbrs4=/287x162/filters:strip_icc():quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/image/782/antv-de8530.jpg"/>
+  </programme>
+  <programme channel="782" start="20260422090000 +0000" stop="20260422111500 +0000">
+    <title lang="id">Vasudha</title>
+    <desc lang="id">Vasudha yang periang bergabung dengan rumah pemimpin bisnis Chandrika sebagai pembantu dan mendambakan persetujuannya meskipun ada perbedaan ideologis di antara mereka.</desc>
+    <icon src="https://thumbor.prod.vidiocdn.com/20tRQaK9Gps_wFQL5rY-XgRbrs4=/287x162/filters:strip_icc():quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/image/782/antv-de8530.jpg"/>
+  </programme>
+  <programme channel="782" start="20260422111500 +0000" stop="20260422130000 +0000">
+    <title lang="id">Sinema Laga Klasik: Tutur Tinular: Pedang Naga Puspa</title>
+    <desc lang="id">Perebutan pedang Naga Puspa oleh para pendekar kerajaan Kediri yang berdiri menggantikan kerajaan Singasari. Pembuat pedang tersebut adalah Empu Ranubaya, guru dari Kamandanu, yang berada di Mongolia.</desc>
+    <icon src="https://thumbor.prod.vidiocdn.com/20tRQaK9Gps_wFQL5rY-XgRbrs4=/287x162/filters:strip_icc():quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/image/782/antv-de8530.jpg"/>
+  </programme>
+  <programme channel="782" start="20260422130000 +0000" stop="20260422143000 +0000">
+    <title lang="id">Sinema Spesial: Ajian Ratu Laut Kidul</title>
+    <desc lang="id">Lestari, seorang lurah yang disegani warganya meski ada juga yang tidak menyukai gaya kepemimpinan Lestari. Anggoro berencana merebut kedudukan lurah, Anggoro merasa jika Lestari tidak cocok menduduki jabatan tersebut.</desc>
+    <icon src="https://thumbor.prod.vidiocdn.com/20tRQaK9Gps_wFQL5rY-XgRbrs4=/287x162/filters:strip_icc():quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/image/782/antv-de8530.jpg"/>
+  </programme>
+  <programme channel="782" start="20260422161500 +0000" stop="20260422170000 +0000">
+    <title lang="id">Bioskop Asia: Riki-Oh: The Story of Ricky</title>
+    <desc lang="id">Riki-Oh, seorang pemuda berkekuatan super, dipenjara di penjara swasta, tempat para narapidana diperlakukan bak budak. Ia terpaksa menggunakan ilmu bela dirinya yang tak terhentikan untuk menghancurkan para pejabat korup dan antek-anteknya.</desc>
     <icon src="https://thumbor.prod.vidiocdn.com/20tRQaK9Gps_wFQL5rY-XgRbrs4=/287x162/filters:strip_icc():quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/image/782/antv-de8530.jpg"/>
   </programme>
   <programme channel="782" start="20260422161500 +0000" stop="20260422170000 +0000">
@@ -11713,7 +11770,7 @@
   </programme>
   <programme channel="8237" start="20260421010000 +0000" stop="20260421023000 +0000">
     <title lang="id">Tayo The Little Bus</title>
-    <icon src="https://thumbor.prod.vidiocdn.com/KPjWmmxSknSJevgMdz2APzr4XMQ=/287x162/filters:strip_icc():quality(70)/vidio-media-production/uploads/tv_program/thumbnail/55/622155.jpg"/>
+    <icon src="https://thumbor.prod.vidiocdn.com/Tpxoy84QJ7snalnmYfvHH_y5EDQ=/287x162/filters:strip_icc():quality(70)/vidio-media-production/uploads/livestreaming/schedule/thumbnail/5020650/0221a5.jpg"/>
   </programme>
   <programme channel="8237" start="20260421023000 +0000" stop="20260421040000 +0000">
     <title lang="id">Katuri</title>
@@ -11722,11 +11779,11 @@
   </programme>
   <programme channel="8237" start="20260421040000 +0000" stop="20260421060000 +0000">
     <title lang="id">Pororo The Little Penguin</title>
-    <icon src="https://thumbor.prod.vidiocdn.com/VoA_joxu-XWrR8X0icZBK_QhxaM=/287x162/filters:strip_icc():quality(70)/vidio-media-production/uploads/tv_program/thumbnail/380862/bff933.jpg"/>
+    <icon src="https://thumbor.prod.vidiocdn.com/j6JaVWbwvKaxbSz-_eO20hOA_SQ=/287x162/filters:strip_icc():quality(70)/vidio-media-production/uploads/livestreaming/schedule/thumbnail/5020654/8ec35d.jpg"/>
   </programme>
   <programme channel="8237" start="20260421060000 +0000" stop="20260421073000 +0000">
     <title lang="id">Rainbow Bubblegem</title>
-    <icon src="https://thumbor.prod.vidiocdn.com/nu4JZ42X5vjTXRVwKBy1zyKN3dU=/287x162/filters:strip_icc():quality(70)/vidio-media-production/uploads/tv_program/thumbnail/383650/bd78ed.jpg"/>
+    <icon src="https://thumbor.prod.vidiocdn.com/cFU-qOtoX7RrOEqDnILpGXO5tHM=/287x162/filters:strip_icc():quality(70)/vidio-media-production/uploads/livestreaming/schedule/thumbnail/5020656/b96fe3.jpg"/>
   </programme>
   <programme channel="8237" start="20260421073000 +0000" stop="20260421090000 +0000">
     <title lang="id">Bluey</title>
@@ -11746,15 +11803,19 @@
   </programme>
   <programme channel="8237" start="20260421110000 +0000" stop="20260421120000 +0000">
     <title lang="id">Magic 5 the Animation</title>
-    <icon src="https://thumbor.prod.vidiocdn.com/01IggaPN4sSDILtEw_0MxWGgmO8=/287x162/filters:strip_icc():quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/image/8237/mentari-tv-01d2b0.jpg"/>
+    <icon src="https://thumbor.prod.vidiocdn.com/C4milLqmOSVnEG_W3LZx-Yulxgc=/287x162/filters:strip_icc():quality(70)/vidio-media-production/uploads/livestreaming/schedule/thumbnail/5020666/a06fd1.jpg"/>
+  </programme>
+  <programme channel="8237" start="20260421120000 +0000" stop="20260421130000 +0000">
+    <title lang="id">New Keluarga Somat</title>
+    <icon src="https://thumbor.prod.vidiocdn.com/y8XCZ425-UN1wRIGq3qwLZPjqvg=/287x162/filters:strip_icc():quality(70)/vidio-media-production/uploads/livestreaming/schedule/thumbnail/5021965/d655e1.jpg"/>
   </programme>
   <programme channel="8237" start="20260421130000 +0000" stop="20260421150000 +0000">
     <title lang="id">Bioskop Keluarga Indonesia</title>
-    <icon src="https://thumbor.prod.vidiocdn.com/01IggaPN4sSDILtEw_0MxWGgmO8=/287x162/filters:strip_icc():quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/image/8237/mentari-tv-01d2b0.jpg"/>
+    <icon src="https://thumbor.prod.vidiocdn.com/oTnqC4T0io_PKqveBuNhqdbFGHE=/287x162/filters:strip_icc():quality(70)/vidio-media-production/uploads/livestreaming/schedule/thumbnail/5020668/c52de0.jpg"/>
   </programme>
   <programme channel="8237" start="20260421150000 +0000" stop="20260421160000 +0000">
     <title lang="id">Pokemon</title>
-    <icon src="https://thumbor.prod.vidiocdn.com/01IggaPN4sSDILtEw_0MxWGgmO8=/287x162/filters:strip_icc():quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/image/8237/mentari-tv-01d2b0.jpg"/>
+    <icon src="https://thumbor.prod.vidiocdn.com/0YquibzEGc8TJoPHI4zxDuhMqUU=/287x162/filters:strip_icc():quality(70)/vidio-media-production/uploads/livestreaming/schedule/thumbnail/5020670/2508a8.jpg"/>
   </programme>
   <programme channel="8237" start="20260421160000 +0000" stop="20260421170000 +0000">
     <title lang="id">Keluarga Somat</title>
@@ -11762,6 +11823,93 @@
     <icon src="https://thumbor.prod.vidiocdn.com/01IggaPN4sSDILtEw_0MxWGgmO8=/287x162/filters:strip_icc():quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/image/8237/mentari-tv-01d2b0.jpg"/>
   </programme>
   <programme channel="8237" start="20260421160000 +0000" stop="20260421170000 +0000">
+    <title lang="id">Keluarga Somat</title>
+    <desc lang="id">Cerita kehidupan sehari-hari Pak Somat, seorang kepala keluarga yang sederhana, pekerja keras, dan penuh tingkah kocak bersama istrinya Bu Inah, anak-anaknya Dudung dan Dodi, serta tetangga-tetangganya.</desc>
+    <icon src="https://thumbor.prod.vidiocdn.com/01IggaPN4sSDILtEw_0MxWGgmO8=/287x162/filters:strip_icc():quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/image/8237/mentari-tv-01d2b0.jpg"/>
+  </programme>
+  <programme channel="8237" start="20260421170000 +0000" stop="20260421180000 +0000">
+    <title lang="id">Plentis Kentus</title>
+    <icon src="https://thumbor.prod.vidiocdn.com/01IggaPN4sSDILtEw_0MxWGgmO8=/287x162/filters:strip_icc():quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/image/8237/mentari-tv-01d2b0.jpg"/>
+  </programme>
+  <programme channel="8237" start="20260421180000 +0000" stop="20260421190000 +0000">
+    <title lang="id">Madun</title>
+    <desc lang="id">Perjalanan hidup Madun dalam memperjuangkan cita-citanya untuk menjadi seorang pemain bola. Bapaknya, Syafe'i ingin anaknya menjadi seorang kyai atau ustad (ahli agama).</desc>
+    <icon src="https://thumbor.prod.vidiocdn.com/01IggaPN4sSDILtEw_0MxWGgmO8=/287x162/filters:strip_icc():quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/image/8237/mentari-tv-01d2b0.jpg"/>
+  </programme>
+  <programme channel="8237" start="20260421190000 +0000" stop="20260421200000 +0000">
+    <title lang="id">Oddbods</title>
+    <icon src="https://thumbor.prod.vidiocdn.com/nHpYJq70Bm14vE9Yv6ZAMsCkQzg=/287x162/filters:strip_icc():quality(70)/vidio-media-production/uploads/tv_program/thumbnail/2072/2174e9.jpg"/>
+  </programme>
+  <programme channel="8237" start="20260421200000 +0000" stop="20260421210000 +0000">
+    <title lang="id">Mumfie</title>
+    <icon src="https://thumbor.prod.vidiocdn.com/01IggaPN4sSDILtEw_0MxWGgmO8=/287x162/filters:strip_icc():quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/image/8237/mentari-tv-01d2b0.jpg"/>
+  </programme>
+  <programme channel="8237" start="20260421210000 +0000" stop="20260421213000 +0000">
+    <title lang="id">Little Angel</title>
+    <icon src="https://thumbor.prod.vidiocdn.com/01IggaPN4sSDILtEw_0MxWGgmO8=/287x162/filters:strip_icc():quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/image/8237/mentari-tv-01d2b0.jpg"/>
+  </programme>
+  <programme channel="8237" start="20260421213000 +0000" stop="20260421220000 +0000">
+    <title lang="id">Cocomelon</title>
+    <icon src="https://thumbor.prod.vidiocdn.com/01IggaPN4sSDILtEw_0MxWGgmO8=/287x162/filters:strip_icc():quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/image/8237/mentari-tv-01d2b0.jpg"/>
+  </programme>
+  <programme channel="8237" start="20260421220000 +0000" stop="20260421230000 +0000">
+    <title lang="id">Tayo &amp; Pororo Songs</title>
+    <icon src="https://thumbor.prod.vidiocdn.com/01IggaPN4sSDILtEw_0MxWGgmO8=/287x162/filters:strip_icc():quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/image/8237/mentari-tv-01d2b0.jpg"/>
+  </programme>
+  <programme channel="8237" start="20260421230000 +0000" stop="20260422000000 +0000">
+    <title lang="id">Numberblocks &amp; Alphablocks</title>
+    <icon src="https://thumbor.prod.vidiocdn.com/01IggaPN4sSDILtEw_0MxWGgmO8=/287x162/filters:strip_icc():quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/image/8237/mentari-tv-01d2b0.jpg"/>
+  </programme>
+  <programme channel="8237" start="20260422000000 +0000" stop="20260422010000 +0000">
+    <title lang="id">Pinkfong &amp; Friends</title>
+    <icon src="https://thumbor.prod.vidiocdn.com/01IggaPN4sSDILtEw_0MxWGgmO8=/287x162/filters:strip_icc():quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/image/8237/mentari-tv-01d2b0.jpg"/>
+  </programme>
+  <programme channel="8237" start="20260422010000 +0000" stop="20260422023000 +0000">
+    <title lang="id">Tayo The Little Bus</title>
+    <icon src="https://thumbor.prod.vidiocdn.com/KPjWmmxSknSJevgMdz2APzr4XMQ=/287x162/filters:strip_icc():quality(70)/vidio-media-production/uploads/tv_program/thumbnail/55/622155.jpg"/>
+  </programme>
+  <programme channel="8237" start="20260422023000 +0000" stop="20260422040000 +0000">
+    <title lang="id">Katuri</title>
+    <desc lang="id">Serial edukasi tentang empat anak ayam yang tumbuh di hutan alam di bawah kasih sayang dan kelembutan induknya.</desc>
+    <icon src="https://thumbor.prod.vidiocdn.com/01IggaPN4sSDILtEw_0MxWGgmO8=/287x162/filters:strip_icc():quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/image/8237/mentari-tv-01d2b0.jpg"/>
+  </programme>
+  <programme channel="8237" start="20260422040000 +0000" stop="20260422060000 +0000">
+    <title lang="id">Pororo The Little Penguin</title>
+    <icon src="https://thumbor.prod.vidiocdn.com/VoA_joxu-XWrR8X0icZBK_QhxaM=/287x162/filters:strip_icc():quality(70)/vidio-media-production/uploads/tv_program/thumbnail/380862/bff933.jpg"/>
+  </programme>
+  <programme channel="8237" start="20260422060000 +0000" stop="20260422073000 +0000">
+    <title lang="id">Rainbow Bubblegem</title>
+    <icon src="https://thumbor.prod.vidiocdn.com/nu4JZ42X5vjTXRVwKBy1zyKN3dU=/287x162/filters:strip_icc():quality(70)/vidio-media-production/uploads/tv_program/thumbnail/383650/bd78ed.jpg"/>
+  </programme>
+  <programme channel="8237" start="20260422073000 +0000" stop="20260422090000 +0000">
+    <title lang="id">Bluey</title>
+    <icon src="https://thumbor.prod.vidiocdn.com/01IggaPN4sSDILtEw_0MxWGgmO8=/287x162/filters:strip_icc():quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/image/8237/mentari-tv-01d2b0.jpg"/>
+  </programme>
+  <programme channel="8237" start="20260422090000 +0000" stop="20260422100000 +0000">
+    <title lang="id">TianTian</title>
+    <icon src="https://thumbor.prod.vidiocdn.com/01IggaPN4sSDILtEw_0MxWGgmO8=/287x162/filters:strip_icc():quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/image/8237/mentari-tv-01d2b0.jpg"/>
+  </programme>
+  <programme channel="8237" start="20260422100000 +0000" stop="20260422103000 +0000">
+    <title lang="id">Cipung Abubu</title>
+    <icon src="https://thumbor.prod.vidiocdn.com/01IggaPN4sSDILtEw_0MxWGgmO8=/287x162/filters:strip_icc():quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/image/8237/mentari-tv-01d2b0.jpg"/>
+  </programme>
+  <programme channel="8237" start="20260422103000 +0000" stop="20260422110000 +0000">
+    <title lang="id">Bing</title>
+    <icon src="https://thumbor.prod.vidiocdn.com/01IggaPN4sSDILtEw_0MxWGgmO8=/287x162/filters:strip_icc():quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/image/8237/mentari-tv-01d2b0.jpg"/>
+  </programme>
+  <programme channel="8237" start="20260422110000 +0000" stop="20260422120000 +0000">
+    <title lang="id">Magic 5 the Animation</title>
+    <icon src="https://thumbor.prod.vidiocdn.com/01IggaPN4sSDILtEw_0MxWGgmO8=/287x162/filters:strip_icc():quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/image/8237/mentari-tv-01d2b0.jpg"/>
+  </programme>
+  <programme channel="8237" start="20260422130000 +0000" stop="20260422150000 +0000">
+    <title lang="id">Bioskop Keluarga Indonesia</title>
+    <icon src="https://thumbor.prod.vidiocdn.com/01IggaPN4sSDILtEw_0MxWGgmO8=/287x162/filters:strip_icc():quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/image/8237/mentari-tv-01d2b0.jpg"/>
+  </programme>
+  <programme channel="8237" start="20260422150000 +0000" stop="20260422160000 +0000">
+    <title lang="id">Pokemon</title>
+    <icon src="https://thumbor.prod.vidiocdn.com/01IggaPN4sSDILtEw_0MxWGgmO8=/287x162/filters:strip_icc():quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/image/8237/mentari-tv-01d2b0.jpg"/>
+  </programme>
+  <programme channel="8237" start="20260422160000 +0000" stop="20260422170000 +0000">
     <title lang="id">Keluarga Somat</title>
     <desc lang="id">Cerita kehidupan sehari-hari Pak Somat, seorang kepala keluarga yang sederhana, pekerja keras, dan penuh tingkah kocak bersama istrinya Bu Inah, anak-anaknya Dudung dan Dodi, serta tetangga-tetangganya.</desc>
     <icon src="https://thumbor.prod.vidiocdn.com/01IggaPN4sSDILtEw_0MxWGgmO8=/287x162/filters:strip_icc():quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/image/8237/mentari-tv-01d2b0.jpg"/>
@@ -20563,9 +20711,9 @@ dan komprehensif mengenai berbagai topik yang relevan dalam kehidupan sehari-har
     <icon src="https://thumbor.prod.vidiocdn.com/r_QaZubFaj9Ht_TI2kDgdImcRqY=/287x162/filters:strip_icc():quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/image/9182/champions-tv-5-e0dd48.jpg"/>
   </programme>
   <programme channel="9182" start="20260424183000 +0000" stop="20260424210000 +0000">
-    <title lang="id">[LIVE] SUNDERLAND vs NOTTINGHAM FOREST : [LIVE] PREMIER LEAGUE 2025/26</title>
-    <desc lang="id">SUNDERLAND vs NOTTINGHAM FOREST</desc>
-    <icon src="https://thumbor.prod.vidiocdn.com/r_QaZubFaj9Ht_TI2kDgdImcRqY=/287x162/filters:strip_icc():quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/image/9182/champions-tv-5-e0dd48.jpg"/>
+    <title lang="id">Sunderland vs Nottingham Forest - Premier League</title>
+    <desc lang="id">Nonton streaming pertandingan seru Sunderland vs Nottingham Forest - Premier League. Saksikan aksi-aksi terbaik dari tim yang bersaing ketat untuk meraih kemenangan. Dapatkan informasi lengkap mengenai jadwal pertandingan dan hasil pertandingan terbaru hanya di Vidio.</desc>
+    <icon src="https://thumbor.prod.vidiocdn.com/dtE2M9-sfGU6ykRowP-MhN5ADAw=/287x162/filters:strip_icc():quality(70)/vidio-media-production/uploads/livestreaming/schedule/thumbnail/5021960/86b97f.jpg"/>
   </programme>
   <programme channel="9182" start="20260424210000 +0000" stop="20260424230000 +0000">
     <title lang="id">TOTTENHAM HOTSPUR vs BRIGHTON AND HOVE ALBION : Premier League 2025/26</title>
@@ -20632,30 +20780,25 @@ dan komprehensif mengenai berbagai topik yang relevan dalam kehidupan sehari-har
     <desc lang="id">Show 29 Matchweek 34</desc>
     <icon src="https://thumbor.prod.vidiocdn.com/r_QaZubFaj9Ht_TI2kDgdImcRqY=/287x162/filters:strip_icc():quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/image/9182/champions-tv-5-e0dd48.jpg"/>
   </programme>
-  <programme channel="9182" start="20260425110000 +0000" stop="20260425134000 +0000">
-    <title lang="id">[LIVE] FULHAM vs ASTON VILLA : [LIVE] PREMIER LEAGUE 2025/26</title>
-    <desc lang="id">FULHAM vs ASTON VILLA</desc>
-    <icon src="https://thumbor.prod.vidiocdn.com/r_QaZubFaj9Ht_TI2kDgdImcRqY=/287x162/filters:strip_icc():quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/image/9182/champions-tv-5-e0dd48.jpg"/>
+  <programme channel="9182" start="20260425110000 +0000" stop="20260425133000 +0000">
+    <title lang="id">Fulham vs Aston Villa - Premier League</title>
+    <desc lang="id">Nonton streaming pertandingan seru Fulham vs Aston Villa - Premier League. Saksikan aksi-aksi terbaik dari tim yang bersaing ketat untuk meraih kemenangan. Dapatkan informasi lengkap mengenai jadwal pertandingan dan hasil pertandingan terbaru hanya di Vidio.</desc>
+    <icon src="https://thumbor.prod.vidiocdn.com/qyQYvuUIOifcmjqqsTmMT6QZtdg=/287x162/filters:strip_icc():quality(70)/vidio-media-production/uploads/livestreaming/schedule/thumbnail/5021961/fb608b.jpg"/>
   </programme>
-  <programme channel="9182" start="20260425134000 +0000" stop="20260425161000 +0000">
-    <title lang="id">[LIVE] LIVERPOOL vs CRYSTAL PALACE : [LIVE] PREMIER LEAGUE 2025/26</title>
-    <desc lang="id">RPOOL vs CRYSTAL PALACE</desc>
-    <icon src="https://thumbor.prod.vidiocdn.com/r_QaZubFaj9Ht_TI2kDgdImcRqY=/287x162/filters:strip_icc():quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/image/9182/champions-tv-5-e0dd48.jpg"/>
+  <programme channel="9182" start="20260425133000 +0000" stop="20260425160000 +0000">
+    <title lang="id">Liverpool vs Crystal Palace - Premier League</title>
+    <desc lang="id">Nonton streaming pertandingan seru Liverpool vs Crystal Palace - Premier League. Saksikan aksi-aksi terbaik dari tim yang bersaing ketat untuk meraih kemenangan. Dapatkan informasi lengkap mengenai jadwal pertandingan dan hasil pertandingan terbaru hanya di Vidio.</desc>
+    <icon src="https://thumbor.prod.vidiocdn.com/Ijapv1muY8SZIP92vAix1A4hwTE=/287x162/filters:strip_icc():quality(70)/vidio-media-production/uploads/livestreaming/schedule/thumbnail/5021962/21fb0f.jpg"/>
   </programme>
-  <programme channel="9182" start="20260425161000 +0000" stop="20260425170000 +0000">
-    <title lang="id">[LIVE] ARSENAL vs NEWCASTLE UNITED : [LIVE] PREMIER LEAGUE 2025/26</title>
-    <desc lang="id">ARSENAL vs NEWCASTLE UNITED</desc>
-    <icon src="https://thumbor.prod.vidiocdn.com/r_QaZubFaj9Ht_TI2kDgdImcRqY=/287x162/filters:strip_icc():quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/image/9182/champions-tv-5-e0dd48.jpg"/>
+  <programme channel="9182" start="20260425160000 +0000" stop="20260425183000 +0000">
+    <title lang="id">Arsenal vs Newcastle - Premier League</title>
+    <desc lang="id">Nonton streaming pertandingan seru Arsenal vs Newcastle - Premier League. Saksikan aksi-aksi terbaik dari tim yang bersaing ketat untuk meraih kemenangan. Dapatkan informasi lengkap mengenai jadwal pertandingan dan hasil pertandingan terbaru hanya di Vidio.</desc>
+    <icon src="https://thumbor.prod.vidiocdn.com/6gMrznLfkq55lTsBDGCddofcsqY=/287x162/filters:strip_icc():quality(70)/vidio-media-production/uploads/livestreaming/schedule/thumbnail/5021963/b141dc.jpg"/>
   </programme>
-  <programme channel="9182" start="20260425161000 +0000" stop="20260425170000 +0000">
-    <title lang="id">[LIVE] ARSENAL vs NEWCASTLE UNITED : [LIVE] PREMIER LEAGUE 2025/26</title>
-    <desc lang="id">ARSENAL vs NEWCASTLE UNITED</desc>
-    <icon src="https://thumbor.prod.vidiocdn.com/r_QaZubFaj9Ht_TI2kDgdImcRqY=/287x162/filters:strip_icc():quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/image/9182/champions-tv-5-e0dd48.jpg"/>
-  </programme>
-  <programme channel="9182" start="20260425170000 +0000" stop="20260425183000 +0000">
-    <title lang="id">[LIVE] ARSENAL vs NEWCASTLE UNITED : [LIVE] PREMIER LEAGUE 2025/26</title>
-    <desc lang="id">ARSENAL vs NEWCASTLE UNITED</desc>
-    <icon src="https://thumbor.prod.vidiocdn.com/r_QaZubFaj9Ht_TI2kDgdImcRqY=/287x162/filters:strip_icc():quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/image/9182/champions-tv-5-e0dd48.jpg"/>
+  <programme channel="9182" start="20260425160000 +0000" stop="20260425183000 +0000">
+    <title lang="id">Arsenal vs Newcastle - Premier League</title>
+    <desc lang="id">Nonton streaming pertandingan seru Arsenal vs Newcastle - Premier League. Saksikan aksi-aksi terbaik dari tim yang bersaing ketat untuk meraih kemenangan. Dapatkan informasi lengkap mengenai jadwal pertandingan dan hasil pertandingan terbaru hanya di Vidio.</desc>
+    <icon src="https://thumbor.prod.vidiocdn.com/6gMrznLfkq55lTsBDGCddofcsqY=/287x162/filters:strip_icc():quality(70)/vidio-media-production/uploads/livestreaming/schedule/thumbnail/5021963/b141dc.jpg"/>
   </programme>
   <programme channel="9182" start="20260425183000 +0000" stop="20260425190000 +0000">
     <title lang="id">Eps 47 : PL Stories 2025-26</title>
@@ -25811,12 +25954,12 @@ dan komprehensif mengenai berbagai topik yang relevan dalam kehidupan sehari-har
     <desc lang="id">Top female golfers compete across premier international venues, delivering world-class performances, thrilling finishes, and season-long championship drama.</desc>
     <icon src="https://thumbor.prod.vidiocdn.com/YBK8XRc1cWJx0JfM3CWo6PnTfFY=/287x162/filters:strip_icc():quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/image/17139/spotv-c18c69.jpg"/>
   </programme>
-  <programme channel="17139" start="20260420223000 +0000" stop="20260420233000 +0000">
+  <programme channel="17139" start="20260420223000 +0000" stop="20260420232000 +0000">
     <title lang="id">Tissot Superpole : 2026 WorldWCR: Rd 2 Pirelli Dutch Round</title>
     <desc lang="id">The FIM Women's Circuit Racing World Championship, with six rounds in 2026, is a pioneering single-make series exclusively for aspiring female riders, featuring the Yamaha R7.</desc>
     <icon src="https://thumbor.prod.vidiocdn.com/YBK8XRc1cWJx0JfM3CWo6PnTfFY=/287x162/filters:strip_icc():quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/image/17139/spotv-c18c69.jpg"/>
   </programme>
-  <programme channel="17139" start="20260420233000 +0000" stop="20260421003000 +0000">
+  <programme channel="17139" start="20260420232000 +0000" stop="20260421003000 +0000">
     <title lang="id">Race 1 : 2026 WorldWCR: Rd 2 Pirelli Dutch Round</title>
     <desc lang="id">The FIM Women's Circuit Racing World Championship, with six rounds in 2026, is a pioneering single-make series exclusively for aspiring female riders, featuring the Yamaha R7.</desc>
     <icon src="https://thumbor.prod.vidiocdn.com/YBK8XRc1cWJx0JfM3CWo6PnTfFY=/287x162/filters:strip_icc():quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/image/17139/spotv-c18c69.jpg"/>
@@ -25827,7 +25970,7 @@ dan komprehensif mengenai berbagai topik yang relevan dalam kehidupan sehari-har
     <icon src="https://thumbor.prod.vidiocdn.com/YBK8XRc1cWJx0JfM3CWo6PnTfFY=/287x162/filters:strip_icc():quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/image/17139/spotv-c18c69.jpg"/>
   </programme>
   <programme channel="17139" start="20260421013000 +0000" stop="20260421063000 +0000">
-    <title lang="id">Day 1 : 2026 LIV Golf League, Mexico City</title>
+    <title lang="id">Day 2 : 2026 LIV Golf League, Mexico City</title>
     <desc lang="id">The world's top golfers compete in a bold, fast-paced league format, delivering big drives, dramatic finishes, and non-stop action across iconic global venues.</desc>
     <icon src="https://thumbor.prod.vidiocdn.com/YBK8XRc1cWJx0JfM3CWo6PnTfFY=/287x162/filters:strip_icc():quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/image/17139/spotv-c18c69.jpg"/>
   </programme>
@@ -25881,29 +26024,19 @@ dan komprehensif mengenai berbagai topik yang relevan dalam kehidupan sehari-har
     <desc lang="id">Scotland's elite clubs return for the 2025/26 Premiership campaign, battling for European spots, survival, and the league championship.</desc>
     <icon src="https://thumbor.prod.vidiocdn.com/YBK8XRc1cWJx0JfM3CWo6PnTfFY=/287x162/filters:strip_icc():quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/image/17139/spotv-c18c69.jpg"/>
   </programme>
-  <programme channel="17139" start="20260421210000 +0000" stop="20260422003000 +0000">
+  <programme channel="17139" start="20260421210000 +0000" stop="20260422014500 +0000">
     <title lang="id">Day 2 : 2026 LET: Joburg Ladies Open</title>
     <desc lang="id">Top female golfers compete across premier international venues, delivering world-class performances, thrilling finishes, and season-long championship drama.</desc>
     <icon src="https://thumbor.prod.vidiocdn.com/YBK8XRc1cWJx0JfM3CWo6PnTfFY=/287x162/filters:strip_icc():quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/image/17139/spotv-c18c69.jpg"/>
   </programme>
-  <programme channel="17139" start="20260422003000 +0000" stop="20260422010000 +0000">
-    <title lang="id">Highlights : 2026 Global Champions League, Miami</title>
-    <desc lang="id">Elite teams of top riders compete across iconic global venues, delivering tactical battles, precision jumping, and thrilling team-based equestrian action.</desc>
-    <icon src="https://thumbor.prod.vidiocdn.com/YBK8XRc1cWJx0JfM3CWo6PnTfFY=/287x162/filters:strip_icc():quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/image/17139/spotv-c18c69.jpg"/>
-  </programme>
-  <programme channel="17139" start="20260422010000 +0000" stop="20260422013000 +0000">
+  <programme channel="17139" start="20260422014500 +0000" stop="20260422021500 +0000">
     <title lang="id">Highlights : 2026 Longines Global Champions Tour, Miami</title>
     <desc lang="id">The world's top show jumping riders compete across prestigious international venues, showcasing elite skill, speed, and championship drama throughout the season.</desc>
     <icon src="https://thumbor.prod.vidiocdn.com/YBK8XRc1cWJx0JfM3CWo6PnTfFY=/287x162/filters:strip_icc():quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/image/17139/spotv-c18c69.jpg"/>
   </programme>
-  <programme channel="17139" start="20260422013000 +0000" stop="20260422063000 +0000">
-    <title lang="id">Day 2 : 2026 LIV Golf League, Mexico City</title>
+  <programme channel="17139" start="20260422021500 +0000" stop="20260422073000 +0000">
+    <title lang="id">Day 3 : 2026 LIV Golf League, Mexico City</title>
     <desc lang="id">The world's top golfers compete in a bold, fast-paced league format, delivering big drives, dramatic finishes, and non-stop action across iconic global venues.</desc>
-    <icon src="https://thumbor.prod.vidiocdn.com/YBK8XRc1cWJx0JfM3CWo6PnTfFY=/287x162/filters:strip_icc():quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/image/17139/spotv-c18c69.jpg"/>
-  </programme>
-  <programme channel="17139" start="20260422063000 +0000" stop="20260422073000 +0000">
-    <title lang="id">: Jim Nantz Remembers: Rory McIlroy's Masterpiece</title>
-    <desc lang="id">A look back at Rory McIlroy's historic Masters victory and career Grand Slam, featuring exclusive insights and a sit-down interview with Jim Nantz.</desc>
     <icon src="https://thumbor.prod.vidiocdn.com/YBK8XRc1cWJx0JfM3CWo6PnTfFY=/287x162/filters:strip_icc():quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/image/17139/spotv-c18c69.jpg"/>
   </programme>
   <programme channel="17139" start="20260422073000 +0000" stop="20260422093000 +0000">
@@ -25921,9 +26054,14 @@ dan komprehensif mengenai berbagai topik yang relevan dalam kehidupan sehari-har
     <desc lang="id">Golf's most accomplished senior players compete for major glory, showcasing experience, precision, and competitive excellence on a prestigious stage.</desc>
     <icon src="https://thumbor.prod.vidiocdn.com/YBK8XRc1cWJx0JfM3CWo6PnTfFY=/287x162/filters:strip_icc():quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/image/17139/spotv-c18c69.jpg"/>
   </programme>
-  <programme channel="17139" start="20260422133000 +0000" stop="20260422163000 +0000">
+  <programme channel="17139" start="20260422133000 +0000" stop="20260422160000 +0000">
     <title lang="id">Round 3 : 2026 Senior PGA Championship</title>
     <desc lang="id">Golf's most accomplished senior players compete for major glory, showcasing experience, precision, and competitive excellence on a prestigious stage.</desc>
+    <icon src="https://thumbor.prod.vidiocdn.com/YBK8XRc1cWJx0JfM3CWo6PnTfFY=/287x162/filters:strip_icc():quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/image/17139/spotv-c18c69.jpg"/>
+  </programme>
+  <programme channel="17139" start="20260422160000 +0000" stop="20260422163000 +0000">
+    <title lang="id">Highlights : 2026 Global Champions League, Miami</title>
+    <desc lang="id">Elite teams of top riders compete across iconic global venues, delivering tactical battles, precision jumping, and thrilling team-based equestrian action.</desc>
     <icon src="https://thumbor.prod.vidiocdn.com/YBK8XRc1cWJx0JfM3CWo6PnTfFY=/287x162/filters:strip_icc():quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/image/17139/spotv-c18c69.jpg"/>
   </programme>
   <programme channel="17139" start="20260422163000 +0000" stop="20260422173000 +0000">
@@ -25971,14 +26109,9 @@ dan komprehensif mengenai berbagai topik yang relevan dalam kehidupan sehari-har
     <desc lang="id">E1's third season kicks off in Jeddah, with rivalries renewed and breathtaking racing action. Team Miami owner, Marc Anthony is hoping his two new pilots find their rhythm as they chase down the title.</desc>
     <icon src="https://thumbor.prod.vidiocdn.com/YBK8XRc1cWJx0JfM3CWo6PnTfFY=/287x162/filters:strip_icc():quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/image/17139/spotv-c18c69.jpg"/>
   </programme>
-  <programme channel="17139" start="20260423013000 +0000" stop="20260423063000 +0000">
-    <title lang="id">Day 3 : 2026 LIV Golf League, Mexico City</title>
+  <programme channel="17139" start="20260423013000 +0000" stop="20260423070000 +0000">
+    <title lang="id">Day 4 : 2026 LIV Golf League, Mexico City</title>
     <desc lang="id">The world's top golfers compete in a bold, fast-paced league format, delivering big drives, dramatic finishes, and non-stop action across iconic global venues.</desc>
-    <icon src="https://thumbor.prod.vidiocdn.com/YBK8XRc1cWJx0JfM3CWo6PnTfFY=/287x162/filters:strip_icc():quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/image/17139/spotv-c18c69.jpg"/>
-  </programme>
-  <programme channel="17139" start="20260423063000 +0000" stop="20260423070000 +0000">
-    <title lang="id">Highlights : 2026 Longines Global Champions Tour, Miami</title>
-    <desc lang="id">The world's top show jumping riders compete across prestigious international venues, showcasing elite skill, speed, and championship drama throughout the season.</desc>
     <icon src="https://thumbor.prod.vidiocdn.com/YBK8XRc1cWJx0JfM3CWo6PnTfFY=/287x162/filters:strip_icc():quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/image/17139/spotv-c18c69.jpg"/>
   </programme>
   <programme channel="17139" start="20260423070000 +0000" stop="20260423090000 +0000">
@@ -26026,34 +26159,44 @@ dan komprehensif mengenai berbagai topik yang relevan dalam kehidupan sehari-har
     <desc lang="id">The FIM Superbike World Championship is the leading production motorcycle racing series in the world with over 100 riders from more than 20 countries competing in various classes over 12 rounds.</desc>
     <icon src="https://thumbor.prod.vidiocdn.com/YBK8XRc1cWJx0JfM3CWo6PnTfFY=/287x162/filters:strip_icc():quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/image/17139/spotv-c18c69.jpg"/>
   </programme>
-  <programme channel="17139" start="20260423190000 +0000" stop="20260423220000 +0000">
+  <programme channel="17139" start="20260423190000 +0000" stop="20260423215000 +0000">
     <title lang="id">SPB Superpole/SBK FP2/SSP Superpole : 2026 WorldSBK: Rd 3 Pirelli Dutch Round</title>
     <desc lang="id">The FIM Superbike World Championship is the leading production motorcycle racing series in the world with over 100 riders from more than 20 countries competing in various classes over 12 rounds.</desc>
     <icon src="https://thumbor.prod.vidiocdn.com/YBK8XRc1cWJx0JfM3CWo6PnTfFY=/287x162/filters:strip_icc():quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/image/17139/spotv-c18c69.jpg"/>
   </programme>
-  <programme channel="17139" start="20260423220000 +0000" stop="20260423230000 +0000">
+  <programme channel="17139" start="20260423215000 +0000" stop="20260423222500 +0000">
     <title lang="id">SBK FP3 : 2026 WorldSBK: Rd 3 Pirelli Dutch Round</title>
     <desc lang="id">The FIM Superbike World Championship is the leading production motorcycle racing series in the world with over 100 riders from more than 20 countries competing in various classes over 12 rounds.</desc>
     <icon src="https://thumbor.prod.vidiocdn.com/YBK8XRc1cWJx0JfM3CWo6PnTfFY=/287x162/filters:strip_icc():quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/image/17139/spotv-c18c69.jpg"/>
   </programme>
-  <programme channel="17139" start="20260423230000 +0000" stop="20260424000000 +0000">
+  <programme channel="17139" start="20260423222500 +0000" stop="20260423231000 +0000">
     <title lang="id">SBK Tissot Superpole : 2026 WorldSBK: Rd 3 Pirelli Dutch Round</title>
     <desc lang="id">The FIM Superbike World Championship is the leading production motorcycle racing series in the world with over 100 riders from more than 20 countries competing in various classes over 12 rounds.</desc>
     <icon src="https://thumbor.prod.vidiocdn.com/YBK8XRc1cWJx0JfM3CWo6PnTfFY=/287x162/filters:strip_icc():quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/image/17139/spotv-c18c69.jpg"/>
   </programme>
-  <programme channel="17139" start="20260424000000 +0000" stop="20260424033000 +0000">
+  <programme channel="17139" start="20260423231000 +0000" stop="20260424023000 +0000">
     <title lang="id">SPB/SSP/SBK Race 1 : 2026 WorldSBK: Rd 3 Pirelli Dutch Round</title>
     <desc lang="id">The FIM Superbike World Championship is the leading production motorcycle racing series in the world with over 100 riders from more than 20 countries competing in various classes over 12 rounds.</desc>
     <icon src="https://thumbor.prod.vidiocdn.com/YBK8XRc1cWJx0JfM3CWo6PnTfFY=/287x162/filters:strip_icc():quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/image/17139/spotv-c18c69.jpg"/>
   </programme>
-  <programme channel="17139" start="20260424033000 +0000" stop="20260424083000 +0000">
-    <title lang="id">Day 4 : 2026 LIV Golf League, Mexico City</title>
+  <programme channel="17139" start="20260424023000 +0000" stop="20260424033000 +0000">
+    <title lang="id">Rip Curl Pro Bells Beach Finals Day : 2026 World Surf League Replay</title>
+    <desc lang="id">Be sure to catch the inspirational power of surfing through the 2026 WSL Championship Tour &amp; Challenger Series.</desc>
+    <icon src="https://thumbor.prod.vidiocdn.com/YBK8XRc1cWJx0JfM3CWo6PnTfFY=/287x162/filters:strip_icc():quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/image/17139/spotv-c18c69.jpg"/>
+  </programme>
+  <programme channel="17139" start="20260424033000 +0000" stop="20260424050000 +0000">
+    <title lang="id">Highlights : 2026 LIV Golf League, Mexico City</title>
     <desc lang="id">The world's top golfers compete in a bold, fast-paced league format, delivering big drives, dramatic finishes, and non-stop action across iconic global venues.</desc>
     <icon src="https://thumbor.prod.vidiocdn.com/YBK8XRc1cWJx0JfM3CWo6PnTfFY=/287x162/filters:strip_icc():quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/image/17139/spotv-c18c69.jpg"/>
   </programme>
-  <programme channel="17139" start="20260424083000 +0000" stop="20260424093000 +0000">
-    <title lang="id">Rip Curl Pro Bells Beach Finals Day : 2026 World Surf League Replay</title>
-    <desc lang="id">Be sure to catch the inspirational power of surfing through the 2026 WSL Championship Tour &amp; Challenger Series.</desc>
+  <programme channel="17139" start="20260424050000 +0000" stop="20260424053000 +0000">
+    <title lang="id">Highlights : 2026 Gold Coast T100</title>
+    <desc lang="id">40 of the world's best female and male professional triathletes battle over 8 breakneck 100km races in iconic locations around the globe in a bid to be crowned the T100 World Champions.</desc>
+    <icon src="https://thumbor.prod.vidiocdn.com/YBK8XRc1cWJx0JfM3CWo6PnTfFY=/287x162/filters:strip_icc():quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/image/17139/spotv-c18c69.jpg"/>
+  </programme>
+  <programme channel="17139" start="20260424053000 +0000" stop="20260424093000 +0000">
+    <title lang="id">Day 1 : 2026 LET: Investec South African Women's Open</title>
+    <desc lang="id">Top women golfers compete on the Ladies European Tour in South Africa, showcasing skill, precision, and championship ambition in a prestigious international event.</desc>
     <icon src="https://thumbor.prod.vidiocdn.com/YBK8XRc1cWJx0JfM3CWo6PnTfFY=/287x162/filters:strip_icc():quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/image/17139/spotv-c18c69.jpg"/>
   </programme>
   <programme channel="17139" start="20260424093000 +0000" stop="20260424113000 +0000">

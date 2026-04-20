@@ -8051,7 +8051,7 @@
     <title>Top Goals</title>
 </programme>
 <programme start="20260420161000 +0000" stop="20260420164000 +0000" channel="Soccer Channel.mncvision">
-    <title>AFC Champions League Elite (L)</title>
+    <title>ACL Elite: VIS Vs AHL (L)</title>
 </programme>
 <programme start="20260419173000 +0000" stop="20260419193000 +0000" channel="Soccer Channel HD.mncvision">
     <title>Bundesliga: BMG Vs M05 (L)</title>
@@ -8111,7 +8111,7 @@
     <title>Top Goals</title>
 </programme>
 <programme start="20260420161000 +0000" stop="20260420164000 +0000" channel="Soccer Channel HD.mncvision">
-    <title>AFC Champions League Elite (L)</title>
+    <title>ACL Elite: VIS Vs AHL (L)</title>
 </programme>
 <programme start="20260419180000 +0000" stop="20260419200000 +0000" channel="Sportstars.mncvision">
     <title>WST: World Championship (L)</title>
