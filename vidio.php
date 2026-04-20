@@ -209,17 +209,17 @@
     <desc lang="id">Sinetron romansa tentang perjalanan Trian (Yesaya Abraham) mencari keadilan dan mengungkap kejahatan pasca Adila, istrinya meninggal dunia, dengan bantuan Rama (Rayn Wijaya) dan Asmara (Angela Gilsha). Tayang setiap hari pukul 20.10 WIB</desc>
     <icon src="https://thumbor.prod.vidiocdn.com/4RE6mOnkHhUljZBbHdCemnBJmwc=/287x162/filters:strip_icc():quality(70)/vidio-media-production/uploads/livestreaming/schedule/thumbnail/5020926/73abab.jpg"/>
   </programme>
-  <programme channel="204" start="20260420140000 +0000" stop="20260420170300 +0000">
+  <programme channel="204" start="20260420140000 +0000" stop="20260420164800 +0000">
     <title lang="id">The Icon Indonesia The Duel : Top 20 Grup A - Live</title>
     <desc lang="id">Talent search bernyanyi yang tidak hanya mencari suara terbaik, tetapi juga sosok dengan karakter kuat yang layak menjadi ikon pop baru Tanah Air. Tayang setiap Senin dan Selasa pukul 21.00 WIB di SCTV.</desc>
     <icon src="https://thumbor.prod.vidiocdn.com/2mkk0AN6nOqJXa2XXGrbW9RW650=/287x162/filters:strip_icc():quality(70)/vidio-media-production/uploads/livestreaming/schedule/thumbnail/5020931/24def2.jpg"/>
   </programme>
-  <programme channel="204" start="20260420140000 +0000" stop="20260420170300 +0000">
-    <title lang="id">The Icon Indonesia The Duel : Top 20 Grup A - Live</title>
-    <desc lang="id">Talent search bernyanyi yang tidak hanya mencari suara terbaik, tetapi juga sosok dengan karakter kuat yang layak menjadi ikon pop baru Tanah Air. Tayang setiap Senin dan Selasa pukul 21.00 WIB di SCTV.</desc>
-    <icon src="https://thumbor.prod.vidiocdn.com/2mkk0AN6nOqJXa2XXGrbW9RW650=/287x162/filters:strip_icc():quality(70)/vidio-media-production/uploads/livestreaming/schedule/thumbnail/5020931/24def2.jpg"/>
+  <programme channel="204" start="20260420164800 +0000" stop="20260420182700 +0000">
+    <title lang="id">FTV Utama: Romantika Supir Cantik</title>
+    <desc lang="id">Film televisi yang mengangkat kisah romantisme kehidupan dengan konflik yang menarik. Tayang setiap hari.</desc>
+    <icon src="https://thumbor.prod.vidiocdn.com/N99E8BD1OJ5vvymwPBj0c-BU5J4=/287x162/filters:strip_icc():quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/image/204/sctv-5ef966.jpg"/>
   </programme>
-  <programme channel="204" start="20260420170300 +0000" stop="20260420182700 +0000">
+  <programme channel="204" start="20260420164800 +0000" stop="20260420182700 +0000">
     <title lang="id">FTV Utama: Romantika Supir Cantik</title>
     <desc lang="id">Film televisi yang mengangkat kisah romantisme kehidupan dengan konflik yang menarik. Tayang setiap hari.</desc>
     <icon src="https://thumbor.prod.vidiocdn.com/N99E8BD1OJ5vvymwPBj0c-BU5J4=/287x162/filters:strip_icc():quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/image/204/sctv-5ef966.jpg"/>
@@ -2651,17 +2651,17 @@
     <desc lang="id">Rerun Proliga 2026</desc>
     <icon src="https://thumbor.prod.vidiocdn.com/NdmzqkxqnWVnlngtk_ObYNT-wiY=/287x162/filters:strip_icc():quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/image/206/moji-a5bd3e.jpg"/>
   </programme>
-  <programme channel="206" start="20260420145400 +0000" stop="20260420170000 +0000">
+  <programme channel="206" start="20260420145400 +0000" stop="20260420165300 +0000">
     <title lang="id">FC Internazionale vs Bodo/Glimt : UEFA Champions League 2025/26</title>
     <desc lang="id">Knockout Playoffs, 2nd Leg.</desc>
     <icon src="https://thumbor.prod.vidiocdn.com/NdmzqkxqnWVnlngtk_ObYNT-wiY=/287x162/filters:strip_icc():quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/image/206/moji-a5bd3e.jpg"/>
   </programme>
-  <programme channel="206" start="20260420145400 +0000" stop="20260420170000 +0000">
-    <title lang="id">FC Internazionale vs Bodo/Glimt : UEFA Champions League 2025/26</title>
-    <desc lang="id">Knockout Playoffs, 2nd Leg.</desc>
+  <programme channel="206" start="20260420165300 +0000" stop="20260420200000 +0000">
+    <title lang="id">Rerun Proliga 2026</title>
+    <desc lang="id">Rerun Proliga 2026</desc>
     <icon src="https://thumbor.prod.vidiocdn.com/NdmzqkxqnWVnlngtk_ObYNT-wiY=/287x162/filters:strip_icc():quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/image/206/moji-a5bd3e.jpg"/>
   </programme>
-  <programme channel="206" start="20260420173000 +0000" stop="20260420200000 +0000">
+  <programme channel="206" start="20260420165300 +0000" stop="20260420200000 +0000">
     <title lang="id">Rerun Proliga 2026</title>
     <desc lang="id">Rerun Proliga 2026</desc>
     <icon src="https://thumbor.prod.vidiocdn.com/NdmzqkxqnWVnlngtk_ObYNT-wiY=/287x162/filters:strip_icc():quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/image/206/moji-a5bd3e.jpg"/>
