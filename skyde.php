@@ -980,6 +980,9 @@ Warning: Undefined array key "et" in /usr/home/ManusiaBiasa/domains/manusiabiasa
 <programme start="20260420150000 +0000" stop="20260420170000 +0000" channel="DAZN 1 HD.skyde">
     <title>Bundesliga 25/26: SV Werder Bremen - Hamburger SV</title>
 </programme>
+<programme start="20260420170000 +0000" stop="20260420173500 +0000" channel="DAZN 1 HD.skyde">
+    <title>Best of DAZN: Highlights</title>
+</programme>
 <programme start="20260420173500 +0000" stop="20260420182500 +0000" channel="DAZN 1 HD.skyde">
     <title>Her Element by Laura Wontorra: Episode 1</title>
 </programme>
@@ -2580,13 +2583,13 @@ Warning: Undefined array key "et" in /usr/home/ManusiaBiasa/domains/manusiabiasa
     <title>Admiral BL: Pitchside: ASK - STU, 27. Runde</title>
 </programme>
 <programme start="20260420164000 +0000" stop="20260420190000 +0000" channel="Sky Sport Austria 1 HD.skyde">
-    <title>Live UEFA Youth League: Topspiel, Finale in Nyon (SUI)</title>
+    <title>Live UEFA Youth League: Club Brügge - Real Madridl, Finale in Nyon (SUI)</title>
 </programme>
 <programme start="20260420190000 +0000" stop="20260420193000 +0000" channel="Sky Sport Austria 1 HD.skyde">
     <title>Admiral BL: 90in30: FAK - RBS, 27. Runde</title>
 </programme>
 <programme start="20260420193000 +0000" stop="20260420214500 +0000" channel="Sky Sport Austria 1 HD.skyde">
-    <title>UEFA Youth League: Topspiel, Finale in Nyon (SUI)</title>
+    <title>UEFA Youth League: Club Brügge - Real Madridl, Finale in Nyon (SUI)</title>
 </programme>
 <programme start="20260420214500 +0000" stop="20260420221500 +0000" channel="Sky Sport Austria 1 HD.skyde">
     <title>Fußball: Querfeld. Eine Sky Sport Austria Dokumentation</title>
@@ -2697,6 +2700,9 @@ Warning: Undefined array key "et" in /usr/home/ManusiaBiasa/domains/manusiabiasa
     <title>BL: Werder Bremen - Hamburger SV, 30. Spieltag</title>
 </programme>
 <programme start="20260420113000 +0000" stop="20260420133000 +0000" channel="Sky Sport Bundesliga UHD.skyde">
+    <title>BL: FC St. Pauli - 1. FC Köln, Flutlicht-Freitag, 30. Spieltag</title>
+</programme>
+<programme start="20260420113000 +0000" stop="20260420133000 +0000" channel="Sky Sport Bundesliga UHD.skyde">
     <title>BL: Eintracht Frankfurt - RB Leipzig, tipico Topspiel der Woche, 30. Spieltag</title>
 </programme>
 <programme start="20260420133000 +0000" stop="20260420153000 +0000" channel="Sky Sport Bundesliga UHD.skyde">
@@ -2710,6 +2716,9 @@ Warning: Undefined array key "et" in /usr/home/ManusiaBiasa/domains/manusiabiasa
 </programme>
 <programme start="20260420193000 +0000" stop="20260420213000 +0000" channel="Sky Sport Bundesliga UHD.skyde">
     <title>BL: Eintracht Frankfurt - RB Leipzig, tipico Topspiel der Woche, 30. Spieltag</title>
+</programme>
+<programme start="20260420193000 +0000" stop="20260420213000 +0000" channel="Sky Sport Bundesliga UHD.skyde">
+    <title>BL: FC St. Pauli - 1. FC Köln, Flutlicht-Freitag, 30. Spieltag</title>
 </programme>
 <programme start="20260420213000 +0000" stop="20260420233000 +0000" channel="Sky Sport Bundesliga UHD.skyde">
     <title>2. BL: Hannover 96 - SC Paderborn 07, tipico Topspiel der Woche, 30. Spieltag</title>
@@ -2841,10 +2850,10 @@ Warning: Undefined array key "et" in /usr/home/ManusiaBiasa/domains/manusiabiasa
     <title>3. Liga: Alle Spiele, alle Tore, 34. Spieltag komplett</title>
 </programme>
 <programme start="20260420050000 +0000" stop="20260420070000 +0000" channel="Sky Sport Mix HD.skyde">
-    <title>NHL: Montreal Canadiens @ Tampa Bay Lightning, Playoffs, 1. Runde, Spiel 1</title>
+    <title>NHL: Topspiel, Playoffs, 1. Runde, Spiel 1</title>
 </programme>
 <programme start="20260420050000 +0000" stop="20260420070000 +0000" channel="Sky Sport Mix HD.skyde">
-    <title>NHL: Topspiel, Playoffs, 1. Runde, Spiel 1</title>
+    <title>NHL: Montreal Canadiens @ Tampa Bay Lightning, Playoffs, 1. Runde, Spiel 1</title>
 </programme>
 <programme start="20260420070000 +0000" stop="20260420093000 +0000" channel="Sky Sport Mix HD.skyde">
     <title>NBA: Philadelphia 76ers @ Boston Celtics, Playoffs, Runde 1, Spiel 1</title>
@@ -2900,11 +2909,29 @@ Warning: Undefined array key "et" in /usr/home/ManusiaBiasa/domains/manusiabiasa
 <programme start="20260420090000 +0000" stop="20260420100000 +0000" channel="Sky Sport News HD.skyde">
     <title>2. BL Kompakt: 30. Spieltag</title>
 </programme>
-<programme start="20260420100000 +0000" stop="20260420130000 +0000" channel="Sky Sport News HD.skyde">
+<programme start="20260420100000 +0000" stop="20260420103000 +0000" channel="Sky Sport News HD.skyde">
+    <title>Live Sky Sport News: Bayerns Meisterstück - Eine BL-Saison der Superlative</title>
+</programme>
+<programme start="20260420103000 +0000" stop="20260420113000 +0000" channel="Sky Sport News HD.skyde">
     <title>Live Sky Sport News: Der Mittag</title>
 </programme>
-<programme start="20260420130000 +0000" stop="20260420160000 +0000" channel="Sky Sport News HD.skyde">
+<programme start="20260420113000 +0000" stop="20260420120000 +0000" channel="Sky Sport News HD.skyde">
+    <title>Sky Sport News: Bayerns Meisterstück - Eine BL-Saison der Superlative</title>
+</programme>
+<programme start="20260420120000 +0000" stop="20260420130000 +0000" channel="Sky Sport News HD.skyde">
+    <title>Live Sky Sport News: Der Mittag</title>
+</programme>
+<programme start="20260420130000 +0000" stop="20260420140000 +0000" channel="Sky Sport News HD.skyde">
     <title>Live Sky Sport News: Der Nachmittag</title>
+</programme>
+<programme start="20260420140000 +0000" stop="20260420143000 +0000" channel="Sky Sport News HD.skyde">
+    <title>Sky Sport News: Bayerns Meisterstück - Eine BL-Saison der Superlative</title>
+</programme>
+<programme start="20260420143000 +0000" stop="20260420153000 +0000" channel="Sky Sport News HD.skyde">
+    <title>Live Sky Sport News: Der Nachmittag</title>
+</programme>
+<programme start="20260420153000 +0000" stop="20260420160000 +0000" channel="Sky Sport News HD.skyde">
+    <title>Sky Sport News: Bayerns Meisterstück - Eine BL-Saison der Superlative</title>
 </programme>
 <programme start="20260420160000 +0000" stop="20260420170000 +0000" channel="Sky Sport News HD.skyde">
     <title>Live Transfer Update: Die Show XXL</title>
@@ -3079,9 +3106,6 @@ Warning: Undefined array key "et" in /usr/home/ManusiaBiasa/domains/manusiabiasa
 </programme>
 <programme start="20260419220000 +0000" stop="20260420000000 +0000" channel="Sky Sport Top Event HD.skyde">
     <title>Live IndyCar: Acura Grand Prix of Long Beach</title>
-</programme>
-<programme start="20260420000000 +0000" stop="20260420010500 +0000" channel="Sky Sport Top Event HD.skyde">
-    <title>Live NHL: Montreal Canadiens @ Tampa Bay Lightning, Playoffs, 1. Runde, Spiel 1</title>
 </programme>
 <programme start="20260420010500 +0000" stop="20260420033000 +0000" channel="Sky Sport Top Event HD.skyde">
     <title>Live NBA: Portland Trail Blazers @ San Antonio Spurs, Playoffs, Runde 1, Spiel 1</title>
