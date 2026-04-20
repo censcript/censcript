@@ -783,22 +783,22 @@
     <desc lang="id">FTV Yang Diambil Dari Kisah Kehidupan Sehari-Hari Pemirsa Yang Penuh Intrik, Konflik dan Pengkhianatan Untuk Memberikan Berbagai Pelajaran Hidup.</desc>
     <icon src="https://thumbor.prod.vidiocdn.com/cBZL7ITaJCof6cqtayFee2uJCX8=/287x162/filters:strip_icc():quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/image/205/indosiar-d9a3d0.jpg"/>
   </programme>
-  <programme channel="205" start="20260420075500 +0000" stop="20260420104000 +0000">
+  <programme channel="205" start="20260420075500 +0000" stop="20260420103400 +0000">
     <title lang="id">Semen Padang FC vs PERSIJAP - BRI Super League</title>
     <desc lang="id">Nonton streaming pertandingan seru Semen Padang FC vs PERSIJAP - BRI Super League. Saksikan aksi-aksi terbaik dari tim yang bersaing ketat untuk meraih kemenangan. Dapatkan informasi lengkap mengenai jadwal pertandingan dan hasil pertandingan terbaru hanya di Vidio.</desc>
     <icon src="https://thumbor.prod.vidiocdn.com/ejSqUGPQ2CFZV0pqytx_oB5GymE=/287x162/filters:strip_icc():quality(70)/vidio-media-production/uploads/livestreaming/schedule/thumbnail/5020783/19a9ce.jpg"/>
   </programme>
-  <programme channel="205" start="20260420104000 +0000" stop="20260420113000 +0000">
+  <programme channel="205" start="20260420103400 +0000" stop="20260420113400 +0000">
     <title lang="id">Merangkai Kisah Indah</title>
     <desc lang="id">Mega Series Terbaru Raden Rakha dan Basmalah Gralind Di Indosiar "Merangkai Kisah Indah" Tayang Setiap Hari, Mulai Senin, 14 Juli 2025 Pukul 17:00 WIB. Kisah Derita Mutiara Yang Mencari Orangtua Kandungnya Karena Sewaktu Bayi Ditukar Oleh Ibu Angkatnya. Nasib Membawa Dirinya Bertemu Dengan Keluarga Yang Tanpa Dia Ketahui Adalah Orangtua Kandungnya dan Juga Bertemu Kenzo. Apakah Kenzo dan Mutiara Akan Berjodoh? Dibintangi Raden Rakha, Basmalah Gralind, Panji Saputra, Tsania Marwa, Gita Sinaga, Vayala Maulidina, Washifa, Haura Lathifa, dan Emiliano Cortizo. Saksikan Mega Series Terbaru Indosiar : Merangkai Kisah Indah, Tayang Setiap Hari, Mulai Senin, 14 Juli 2025 Pukul 17:00 WIB Hanya Di Indosiar.</desc>
     <icon src="https://thumbor.prod.vidiocdn.com/0NDGFQzXCQM3FSqNNolED22jqGc=/287x162/filters:strip_icc():quality(70)/vidio-media-production/uploads/livestreaming/schedule/thumbnail/5020681/253d3b.jpg"/>
   </programme>
-  <programme channel="205" start="20260420113000 +0000" stop="20260420140000 +0000">
+  <programme channel="205" start="20260420113400 +0000" stop="20260420141000 +0000">
     <title lang="id">BRI Superleague 2025/26 - Dewa United Banten Fc Vs Persib Bandung</title>
     <desc lang="id">Saksikan! BRI Super League 2025/26 - Is Back!" 18 Klub Terbaik Siap Bertarung Di Kasta Tertinggi Sepak Bola Indonesia! Pertandingan Semakin Seru! Jangan Lewatkan BRI Super League 2025/26 Mulai 8 Agustus 2025, Pkl 15.00 &amp; 18.30 WIB, Live &amp; Eksklusif Hanya Di Indosiar dan Vidio #Indosiarrumahsepakbolaindonesia</desc>
     <icon src="https://thumbor.prod.vidiocdn.com/cBZL7ITaJCof6cqtayFee2uJCX8=/287x162/filters:strip_icc():quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/image/205/indosiar-d9a3d0.jpg"/>
   </programme>
-  <programme channel="205" start="20260420140000 +0000" stop="20260420160000 +0000">
+  <programme channel="205" start="20260420141000 +0000" stop="20260420160000 +0000">
     <title lang="id">D' Academy 7 - Mega Konser</title>
     <desc lang="id">Panggung Megah Konser D'Academy 7 Siap Digelar! Audisi Online dan Offline Telah Usai! Siapakah Yang Akan Lolos Ke Panggung Megah D'Academy 7? Saksikan D'Academy 7 Mulai Senin, 9 Juni, Setiap Senin-Jumat Live Pkl 20.00 WIB Hanya Di Indosiar. #Indosiarbawadangdutberkelasberkualitas</desc>
     <icon src="https://thumbor.prod.vidiocdn.com/kCN5xC-HGTB6a0WJ_x10pxLWlZ0=/287x162/filters:strip_icc():quality(70)/vidio-media-production/uploads/livestreaming/schedule/thumbnail/5020716/f7669f.jpg"/>
@@ -9589,13 +9589,13 @@
     <icon src="https://thumbor.prod.vidiocdn.com/edoqRinFCRhrRwQ2ngcXacb_q74=/287x162/filters:strip_icc():quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/image/6685/champions-tv-1-54e282.jpg"/>
   </programme>
   <programme channel="6685" start="20260423164000 +0000" stop="20260423184500 +0000">
-    <title lang="id">Go Ahead Eagles vs AZ Alkmaar - Eredivisie</title>
-    <desc lang="id">Nonton streaming pertandingan seru Go Ahead Eagles vs AZ Alkmaar - Eredivisie. Saksikan aksi-aksi terbaik dari tim yang bersaing ketat untuk meraih kemenangan. Dapatkan informasi lengkap mengenai jadwal pertandingan dan hasil pertandingan terbaru hanya di Vidio.</desc>
+    <title lang="id">Go Ahead Eagles vs AZ Alkmaar</title>
+    <desc lang="id">23 APR - 23:45 WIB | Mampukah Dean James dkk menghentikan catatan positif AZ Alkmaar dan membuka lebar kesempatan masuk ke kompetisi Eropa?</desc>
     <icon src="https://thumbor.prod.vidiocdn.com/OWsCOEFogZMcGypETwWGEFzqyaQ=/287x162/filters:strip_icc():quality(70)/vidio-media-production/uploads/livestreaming/schedule/thumbnail/5021540/014deb.jpg"/>
   </programme>
   <programme channel="6685" start="20260423164000 +0000" stop="20260423184500 +0000">
-    <title lang="id">Go Ahead Eagles vs AZ Alkmaar - Eredivisie</title>
-    <desc lang="id">Nonton streaming pertandingan seru Go Ahead Eagles vs AZ Alkmaar - Eredivisie. Saksikan aksi-aksi terbaik dari tim yang bersaing ketat untuk meraih kemenangan. Dapatkan informasi lengkap mengenai jadwal pertandingan dan hasil pertandingan terbaru hanya di Vidio.</desc>
+    <title lang="id">Go Ahead Eagles vs AZ Alkmaar</title>
+    <desc lang="id">23 APR - 23:45 WIB | Mampukah Dean James dkk menghentikan catatan positif AZ Alkmaar dan membuka lebar kesempatan masuk ke kompetisi Eropa?</desc>
     <icon src="https://thumbor.prod.vidiocdn.com/OWsCOEFogZMcGypETwWGEFzqyaQ=/287x162/filters:strip_icc():quality(70)/vidio-media-production/uploads/livestreaming/schedule/thumbnail/5021540/014deb.jpg"/>
   </programme>
   <programme channel="6685" start="20260423185500 +0000" stop="20260423210000 +0000">
@@ -9923,17 +9923,17 @@
     <desc lang="id">Ketika Sunder kehilangan segalanya, dia mencari perlindungan di kuburan, tempat dia berteman dengan hantu.</desc>
     <icon src="https://thumbor.prod.vidiocdn.com/20tRQaK9Gps_wFQL5rY-XgRbrs4=/287x162/filters:strip_icc():quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/image/782/antv-de8530.jpg"/>
   </programme>
-  <programme channel="782" start="20260419230100 +0000" stop="20260420003000 +0000">
+  <programme channel="782" start="20260419230100 +0000" stop="20260420002400 +0000">
     <title lang="id">Kasautii</title>
     <desc lang="id">Anurag dan Prerna kuliah di universitas yang sama, dan akhirnya menjalin hubungan erat. Namun, mereka harus menghadapi orang-orang yang ingin memisahkan keduanya, karena perbedaan status sosial.</desc>
     <icon src="https://thumbor.prod.vidiocdn.com/GvV65BcJmNnsVpaMpxfllCre1O0=/287x162/filters:strip_icc():quality(70)/vidio-media-production/uploads/livestreaming/schedule/thumbnail/5021143/d90a89.jpg"/>
   </programme>
-  <programme channel="782" start="20260420003000 +0000" stop="20260420024500 +0000">
+  <programme channel="782" start="20260420002400 +0000" stop="20260420024000 +0000">
     <title lang="id">Janji Cinta Inspektur Virat</title>
     <desc lang="id">Kisah seorang inspektur yang terlibat dalam kisah percintaan segitiga.</desc>
     <icon src="https://thumbor.prod.vidiocdn.com/VMqJn9jawRecdbw5SSdxxTHN_88=/287x162/filters:strip_icc():quality(70)/vidio-media-production/uploads/tv_program/thumbnail/386704/218ebf.jpg"/>
   </programme>
-  <programme channel="782" start="20260420024500 +0000" stop="20260420055100 +0000">
+  <programme channel="782" start="20260420024000 +0000" stop="20260420055100 +0000">
     <title lang="id">Mega Bollywood: Dil Se..</title>
     <desc lang="id">Ketertarikan seorang penyiar radio terhadap seorang wanita misterius membuka pintu bagi gelombang emosi dan hasrat yang kuat.</desc>
     <icon src="https://thumbor.prod.vidiocdn.com/wYsWiVQXrAVfUq5WUCNdGZSQHoQ=/287x162/filters:strip_icc():quality(70)/vidio-media-production/uploads/livestreaming/schedule/thumbnail/5021147/44c336.jpg"/>
@@ -9943,16 +9943,16 @@
     <desc lang="id">Seorang wanita muda yang bersemangat memulai perjalanan untuk memenuhi janji seorang ibu demi kehidupan yang lebih baik sambil mengatasi tantangan dan kehilangan.</desc>
     <icon src="https://thumbor.prod.vidiocdn.com/O22D3dRDF6H_uCKmz2olz2hTEaU=/287x162/filters:strip_icc():quality(70)/vidio-media-production/uploads/livestreaming/schedule/thumbnail/5021148/fabcc6.jpg"/>
   </programme>
-  <programme channel="782" start="20260420074800 +0000" stop="20260420092500 +0000">
+  <programme channel="782" start="20260420074800 +0000" stop="20260420091100 +0000">
     <title lang="id">Teri Meri Doriyaann</title>
     <icon src="https://thumbor.prod.vidiocdn.com/mxTYzHb3x9l74jM2OXp-phvdkqA=/287x162/filters:strip_icc():quality(70)/vidio-media-production/uploads/livestreaming/schedule/thumbnail/5021432/b6780d.jpg"/>
   </programme>
-  <programme channel="782" start="20260420092500 +0000" stop="20260420111500 +0000">
+  <programme channel="782" start="20260420091100 +0000" stop="20260420112100 +0000">
     <title lang="id">Vasudha</title>
     <desc lang="id">Vasudha yang periang bergabung dengan rumah pemimpin bisnis Chandrika sebagai pembantu dan mendambakan persetujuannya meskipun ada perbedaan ideologis di antara mereka.</desc>
     <icon src="https://thumbor.prod.vidiocdn.com/Xboj6xMGOJVmszC4k1Zlgj0HsEY=/287x162/filters:strip_icc():quality(70)/vidio-media-production/uploads/livestreaming/schedule/thumbnail/5021150/607d84.jpg"/>
   </programme>
-  <programme channel="782" start="20260420111500 +0000" stop="20260420130000 +0000">
+  <programme channel="782" start="20260420112100 +0000" stop="20260420130000 +0000">
     <title lang="id">Sinema Laga Klasik: Tragedi Bintaro</title>
     <desc lang="id">Impian Minah untuk pindah ke kampung kandas ketika terjadi kecelakaan kereta yang mengakibatkan dirinya tewas beserta 4 cucunya.</desc>
     <icon src="https://thumbor.prod.vidiocdn.com/20tRQaK9Gps_wFQL5rY-XgRbrs4=/287x162/filters:strip_icc():quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/image/782/antv-de8530.jpg"/>
@@ -10475,7 +10475,7 @@
   <programme channel="6362" start="20260421143000 +0000" stop="20260421161000 +0000">
     <title lang="id">Six Singles Under One Roof</title>
     <desc lang="id">Six single celebrities in their 40s choose co-living in Gugi-dong as "Life Mates," sharing laughter, challenges, and fresh memories while redefining modern family through friendship.</desc>
-    <icon src="https://thumbor.prod.vidiocdn.com/PT0LQo0qQ7O_RDowPb8Uvz6Dtdg=/287x162/filters:strip_icc():quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/image/6362/tvn-40a16d.jpg"/>
+    <icon src="https://thumbor.prod.vidiocdn.com/naPRr4UZNRz_CyrYs54F_Z2-OHE=/287x162/filters:strip_icc():quality(70)/vidio-media-production/uploads/livestreaming/schedule/thumbnail/4972306/eebad9.jpg"/>
   </programme>
   <programme channel="6362" start="20260421161000 +0000" stop="20260421175000 +0000">
     <title lang="id">Handsome Guys</title>
@@ -10570,7 +10570,7 @@
   <programme channel="6362" start="20260422143000 +0000" stop="20260422163000 +0000">
     <title lang="id">Fresh off the Sea in Calape</title>
     <desc lang="id">Yum Jung-ah, Park Jun-myun, Dex, and Kim Hye-yoon team up for a brand-new chemistry you won't want to miss. Get ready for another flavorful adventure!</desc>
-    <icon src="https://thumbor.prod.vidiocdn.com/PT0LQo0qQ7O_RDowPb8Uvz6Dtdg=/287x162/filters:strip_icc():quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/image/6362/tvn-40a16d.jpg"/>
+    <icon src="https://thumbor.prod.vidiocdn.com/M5fMnXexSyRpEPV3PwnpnlFea5w=/287x162/filters:strip_icc():quality(70)/vidio-media-production/uploads/livestreaming/schedule/thumbnail/4972327/493687.jpg"/>
   </programme>
   <programme channel="6362" start="20260422163000 +0000" stop="20260422174000 +0000">
     <title lang="id">Our Universe Ep1</title>
@@ -13720,7 +13720,7 @@
     <icon src="https://thumbor.prod.vidiocdn.com/IccXQd6EOZjWCT9QQQrsC0nCTZQ=/287x162/filters:strip_icc():quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/image/18190/champions-golf-2-3c2aa9.jpg"/>
   </programme>
   <programme channel="18190" start="20260420100000 +0000" stop="20260420110000 +0000">
-    <title lang="id">ISPS HANDA WOMEN'S Scottish Open</title>
+    <title lang="id">LPGA 2024</title>
     <desc lang="id">HIGHLIGHT</desc>
     <icon src="https://thumbor.prod.vidiocdn.com/IccXQd6EOZjWCT9QQQrsC0nCTZQ=/287x162/filters:strip_icc():quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/image/18190/champions-golf-2-3c2aa9.jpg"/>
   </programme>
@@ -13739,9 +13739,14 @@
     <desc lang="id">FINAL ROUND</desc>
     <icon src="https://thumbor.prod.vidiocdn.com/IccXQd6EOZjWCT9QQQrsC0nCTZQ=/287x162/filters:strip_icc():quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/image/18190/champions-golf-2-3c2aa9.jpg"/>
   </programme>
-  <programme channel="18190" start="20260420170000 +0000" stop="20260420200000 +0000">
+  <programme channel="18190" start="20260420170000 +0000" stop="20260420193000 +0000">
     <title lang="id">JM EAGLE LA CHAMPIONSHIP Presented by Plastpro</title>
     <desc lang="id">ROUND 1</desc>
+    <icon src="https://thumbor.prod.vidiocdn.com/IccXQd6EOZjWCT9QQQrsC0nCTZQ=/287x162/filters:strip_icc():quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/image/18190/champions-golf-2-3c2aa9.jpg"/>
+  </programme>
+  <programme channel="18190" start="20260420193000 +0000" stop="20260420200000 +0000">
+    <title lang="id">LPGA 2025</title>
+    <desc lang="id">HIGHLIGHT</desc>
     <icon src="https://thumbor.prod.vidiocdn.com/IccXQd6EOZjWCT9QQQrsC0nCTZQ=/287x162/filters:strip_icc():quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/image/18190/champions-golf-2-3c2aa9.jpg"/>
   </programme>
   <programme channel="18190" start="20260420200000 +0000" stop="20260420230000 +0000">
@@ -13755,7 +13760,7 @@
     <icon src="https://thumbor.prod.vidiocdn.com/IccXQd6EOZjWCT9QQQrsC0nCTZQ=/287x162/filters:strip_icc():quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/image/18190/champions-golf-2-3c2aa9.jpg"/>
   </programme>
   <programme channel="18190" start="20260421020000 +0000" stop="20260421033000 +0000">
-    <title lang="id">LPGA 2024</title>
+    <title lang="id">LPGA 2026</title>
     <desc lang="id">HIGHLIGHT</desc>
     <icon src="https://thumbor.prod.vidiocdn.com/IccXQd6EOZjWCT9QQQrsC0nCTZQ=/287x162/filters:strip_icc():quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/image/18190/champions-golf-2-3c2aa9.jpg"/>
   </programme>
@@ -13769,7 +13774,11 @@
     <desc lang="id">HIGHLIGHT</desc>
     <icon src="https://thumbor.prod.vidiocdn.com/IccXQd6EOZjWCT9QQQrsC0nCTZQ=/287x162/filters:strip_icc():quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/image/18190/champions-golf-2-3c2aa9.jpg"/>
   </programme>
-  <programme channel="18190" start="20260421100000 +0000" stop="20260421130000 +0000">
+  <programme channel="18190" start="20260421100000 +0000" stop="20260421103000 +0000">
+    <title lang="id">Drive On : LPGA All Access</title>
+    <icon src="https://thumbor.prod.vidiocdn.com/IccXQd6EOZjWCT9QQQrsC0nCTZQ=/287x162/filters:strip_icc():quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/image/18190/champions-golf-2-3c2aa9.jpg"/>
+  </programme>
+  <programme channel="18190" start="20260421103000 +0000" stop="20260421130000 +0000">
     <title lang="id">JM EAGLE LA CHAMPIONSHIP Presented by Plastpro</title>
     <desc lang="id">ROUND 1</desc>
     <icon src="https://thumbor.prod.vidiocdn.com/IccXQd6EOZjWCT9QQQrsC0nCTZQ=/287x162/filters:strip_icc():quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/image/18190/champions-golf-2-3c2aa9.jpg"/>
