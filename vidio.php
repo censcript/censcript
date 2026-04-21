@@ -6777,12 +6777,12 @@
     <desc lang="id">Barcelona vs Real Madrid - 2022/23</desc>
     <icon src="https://thumbor.prod.vidiocdn.com/5yUHYfv_b1sZi7kdFElm8JqF2RY=/287x162/filters:strip_icc():quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/image/6299/bein-1-4bd997.jpg"/>
   </programme>
-  <programme channel="6299" start="20260421192500 +0000" stop="20260421213000 +0000">
+  <programme channel="6299" start="20260421192500 +0000" stop="20260421213400 +0000">
     <title lang="id">Real Madrid vs Alaves - LaLiga</title>
     <desc lang="id">Nonton streaming pertandingan seru Real Madrid vs Alaves - LaLiga. Saksikan aksi-aksi terbaik dari tim yang bersaing ketat untuk meraih kemenangan. Dapatkan informasi lengkap mengenai jadwal pertandingan dan hasil pertandingan terbaru hanya di Vidio.</desc>
     <icon src="https://thumbor.prod.vidiocdn.com/buYEvJEk6q7Xu7Y1_ERtUR0wzmA=/287x162/filters:strip_icc():quality(70)/vidio-media-production/uploads/livestreaming/schedule/thumbnail/5020468/494e60.jpg"/>
   </programme>
-  <programme channel="6299" start="20260421213000 +0000" stop="20260421220000 +0000">
+  <programme channel="6299" start="20260421213400 +0000" stop="20260421220000 +0000">
     <title lang="id">Episode Number 9 : Going Pro 2026</title>
     <desc lang="id">Episode Number 9</desc>
     <icon src="https://thumbor.prod.vidiocdn.com/5yUHYfv_b1sZi7kdFElm8JqF2RY=/287x162/filters:strip_icc():quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/image/6299/bein-1-4bd997.jpg"/>
@@ -18612,12 +18612,12 @@ dan komprehensif mengenai berbagai topik yang relevan dalam kehidupan sehari-har
     <desc lang="id">Eps 38 (Subs)</desc>
     <icon src="https://thumbor.prod.vidiocdn.com/r_QaZubFaj9Ht_TI2kDgdImcRqY=/287x162/filters:strip_icc():quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/image/9182/champions-tv-5-e0dd48.jpg"/>
   </programme>
-  <programme channel="9182" start="20260421183000 +0000" stop="20260421210000 +0000">
+  <programme channel="9182" start="20260421183000 +0000" stop="20260421205800 +0000">
     <title lang="id">Brighton vs Chelsea - Premier League</title>
     <desc lang="id">Nonton streaming pertandingan seru Brighton vs Chelsea - Premier League. Saksikan aksi-aksi terbaik dari tim yang bersaing ketat untuk meraih kemenangan. Dapatkan informasi lengkap mengenai jadwal pertandingan dan hasil pertandingan terbaru hanya di Vidio.</desc>
     <icon src="https://thumbor.prod.vidiocdn.com/qWLpxC_35w2pVpjMihA0x23v9E0=/287x162/filters:strip_icc():quality(70)/vidio-media-production/uploads/livestreaming/schedule/thumbnail/5021431/eee9fe.jpg"/>
   </programme>
-  <programme channel="9182" start="20260421210000 +0000" stop="20260421230000 +0000">
+  <programme channel="9182" start="20260421205800 +0000" stop="20260421230000 +0000">
     <title lang="id">ASTON VILLA vs SUNDERLAND : Premier League 2025/26</title>
     <desc lang="id">ASTON VILLA vs SUNDERLAND</desc>
     <icon src="https://thumbor.prod.vidiocdn.com/r_QaZubFaj9Ht_TI2kDgdImcRqY=/287x162/filters:strip_icc():quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/image/9182/champions-tv-5-e0dd48.jpg"/>

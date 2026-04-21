@@ -2634,7 +2634,7 @@ Warning: Undefined array key "et" in /usr/home/ManusiaBiasa/domains/manusiabiasa
 <programme start="20260421084000 +0000" stop="20260421090000 +0000" channel="Sky Sport Austria 5 HD.skyde">
     <title>Es folgt: Live Tennis WTA Tour</title>
 </programme>
-<programme start="20260421090000 +0000" stop="20260421230000 +0000" channel="Sky Sport Austria 5 HD.skyde">
+<programme start="20260421090000 +0000" stop="20260421190500 +0000" channel="Sky Sport Austria 5 HD.skyde">
     <title>Live WTA 1000: Mutua Madrid Open in Madrid (ESP), 1. Tag</title>
 </programme>
 <programme start="20260420220000 +0000" stop="20260420223000 +0000" channel="Sky Sport Bundesliga HD.skyde">
@@ -2719,10 +2719,10 @@ Warning: Undefined array key "et" in /usr/home/ManusiaBiasa/domains/manusiabiasa
     <title>BL Kompakt: 30. Spieltag</title>
 </programme>
 <programme start="20260420233000 +0000" stop="20260421013000 +0000" channel="Sky Sport Bundesliga UHD.skyde">
-    <title>BL: FC St. Pauli - 1. FC Köln, Flutlicht-Freitag, 30. Spieltag</title>
+    <title>BL: Eintracht Frankfurt - RB Leipzig, tipico Topspiel der Woche, 30. Spieltag</title>
 </programme>
 <programme start="20260420233000 +0000" stop="20260421013000 +0000" channel="Sky Sport Bundesliga UHD.skyde">
-    <title>BL: Eintracht Frankfurt - RB Leipzig, tipico Topspiel der Woche, 30. Spieltag</title>
+    <title>BL: FC St. Pauli - 1. FC Köln, Flutlicht-Freitag, 30. Spieltag</title>
 </programme>
 <programme start="20260421013000 +0000" stop="20260421033000 +0000" channel="Sky Sport Bundesliga UHD.skyde">
     <title>BL: Werder Bremen - Hamburger SV, 30. Spieltag</title>
