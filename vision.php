@@ -634,9 +634,6 @@
 <programme start="20260421090000 +0000" stop="20260421110000 +0000" channel="ANTV.vision">
 <title>Vasudha</title>
 </programme>
-<programme start="20260421143000 +0000" stop="20260421163000 +0000" channel="ANTV.vision">
-<title>Rumah Kentang</title>
-</programme>
 <programme start="20260421163000 +0000" stop="20260421183000 +0000" channel="ANTV.vision">
 <title>Teenage Mutant Ninja Turtles 3</title>
 </programme>
@@ -810,9 +807,6 @@
 </programme>
 <programme start="20260421143000 +0000" stop="20260421153000 +0000" channel="TVOne.vision">
 <title>Kabar Utama 2</title>
-</programme>
-<programme start="20260421153000 +0000" stop="20260421163000 +0000" channel="TVOne.vision">
-<title>Kabar Hari Ini (L)</title>
 </programme>
 <programme start="20260421163000 +0000" stop="20260421180000 +0000" channel="TVOne.vision">
 <title>Breaking News (L)</title>
@@ -1497,4 +1491,10 @@
 </programme>
 <programme start="20260421020000 +0000" stop="20260421030000 +0000" channel="MDTV.vision">
 <title>Sensasihot</title>
+</programme>
+<programme start="20260421030000 +0000" stop="20260421044500 +0000" channel="MDTV.vision">
+<title>Terlanjur Indah</title>
+</programme>
+<programme start="20260421044500 +0000" stop="20260421062000 +0000" channel="MDTV.vision">
+<title>Cinta Fitri S7</title>
 </programme>
