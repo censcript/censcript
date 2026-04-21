@@ -2332,12 +2332,12 @@
     <desc lang="id">Tercyduk</desc>
     <icon src="https://thumbor.prod.vidiocdn.com/NdmzqkxqnWVnlngtk_ObYNT-wiY=/287x162/filters:strip_icc():quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/image/206/moji-a5bd3e.jpg"/>
   </programme>
-  <programme channel="206" start="20260421081400 +0000" stop="20260421112000 +0000">
+  <programme channel="206" start="20260421081400 +0000" stop="20260421110800 +0000">
     <title lang="id">Surabaya Samator vs Jakarta Garuda Jaya : Proliga 2026</title>
     <desc lang="id">Bronze Medal, Game 1.</desc>
     <icon src="https://thumbor.prod.vidiocdn.com/NdmzqkxqnWVnlngtk_ObYNT-wiY=/287x162/filters:strip_icc():quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/image/206/moji-a5bd3e.jpg"/>
   </programme>
-  <programme channel="206" start="20260421112000 +0000" stop="20260421140000 +0000">
+  <programme channel="206" start="20260421110800 +0000" stop="20260421140000 +0000">
     <title lang="id">Jakarta Popsivo Polwan vs Jakarta Electric PLN Mobile : Proliga 2026</title>
     <desc lang="id">Bronze Medal, Game 1.</desc>
     <icon src="https://thumbor.prod.vidiocdn.com/NdmzqkxqnWVnlngtk_ObYNT-wiY=/287x162/filters:strip_icc():quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/image/206/moji-a5bd3e.jpg"/>
