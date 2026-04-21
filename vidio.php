@@ -2333,13 +2333,13 @@
     <icon src="https://thumbor.prod.vidiocdn.com/NdmzqkxqnWVnlngtk_ObYNT-wiY=/287x162/filters:strip_icc():quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/image/206/moji-a5bd3e.jpg"/>
   </programme>
   <programme channel="206" start="20260421081400 +0000" stop="20260421112000 +0000">
-    <title lang="id">Proliga 2026 First Serve 16:00</title>
-    <desc lang="id">Proliga 2026 First Serve 16:00</desc>
+    <title lang="id">Surabaya Samator vs Jakarta Garuda Jaya : Proliga 2026</title>
+    <desc lang="id">Bronze Medal, Game 1.</desc>
     <icon src="https://thumbor.prod.vidiocdn.com/NdmzqkxqnWVnlngtk_ObYNT-wiY=/287x162/filters:strip_icc():quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/image/206/moji-a5bd3e.jpg"/>
   </programme>
   <programme channel="206" start="20260421112000 +0000" stop="20260421140000 +0000">
-    <title lang="id">Proliga 2026 First Serve 19:00</title>
-    <desc lang="id">Proliga 2026 First Serve 19:00</desc>
+    <title lang="id">Jakarta Popsivo Polwan vs Jakarta Electric PLN Mobile : Proliga 2026</title>
+    <desc lang="id">Bronze Medal, Game 1.</desc>
     <icon src="https://thumbor.prod.vidiocdn.com/NdmzqkxqnWVnlngtk_ObYNT-wiY=/287x162/filters:strip_icc():quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/image/206/moji-a5bd3e.jpg"/>
   </programme>
   <programme channel="206" start="20260421140000 +0000" stop="20260421160000 +0000">
@@ -6762,9 +6762,14 @@
     <desc lang="id">Matchday 31</desc>
     <icon src="https://thumbor.prod.vidiocdn.com/5yUHYfv_b1sZi7kdFElm8JqF2RY=/287x162/filters:strip_icc():quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/image/6299/bein-1-4bd997.jpg"/>
   </programme>
-  <programme channel="6299" start="20260421170000 +0000" stop="20260421190000 +0000">
-    <title lang="id">Athletic Club vs Osasuna</title>
-    <desc lang="id">22 APR - 00:00 WIB | Akankah Athletic Club amankan poin penuh kala menghadapi tamu Osasuna?</desc>
+  <programme channel="6299" start="20260421165500 +0000" stop="20260421190000 +0000">
+    <title lang="id">Athletic Club vs Osasuna - Laliga</title>
+    <desc lang="id">Nonton streaming pertandingan seru Athletic Club vs Osasuna - LaLiga. Saksikan aksi-aksi terbaik dari tim yang bersaing ketat untuk meraih kemenangan. Dapatkan informasi lengkap mengenai jadwal pertandingan dan hasil pertandingan terbaru hanya di Vidio.</desc>
+    <icon src="https://thumbor.prod.vidiocdn.com/44osmC9UzPV5_VDk8Mtf2SNbwlw=/287x162/filters:strip_icc():quality(70)/vidio-media-production/uploads/livestreaming/schedule/thumbnail/5020465/313e30.jpg"/>
+  </programme>
+  <programme channel="6299" start="20260421165500 +0000" stop="20260421190000 +0000">
+    <title lang="id">Athletic Club vs Osasuna - Laliga</title>
+    <desc lang="id">Nonton streaming pertandingan seru Athletic Club vs Osasuna - LaLiga. Saksikan aksi-aksi terbaik dari tim yang bersaing ketat untuk meraih kemenangan. Dapatkan informasi lengkap mengenai jadwal pertandingan dan hasil pertandingan terbaru hanya di Vidio.</desc>
     <icon src="https://thumbor.prod.vidiocdn.com/44osmC9UzPV5_VDk8Mtf2SNbwlw=/287x162/filters:strip_icc():quality(70)/vidio-media-production/uploads/livestreaming/schedule/thumbnail/5020465/313e30.jpg"/>
   </programme>
   <programme channel="6299" start="20260421190000 +0000" stop="20260421191500 +0000">
@@ -6777,7 +6782,7 @@
     <desc lang="id">Barcelona vs Real Madrid - 2022/23</desc>
     <icon src="https://thumbor.prod.vidiocdn.com/5yUHYfv_b1sZi7kdFElm8JqF2RY=/287x162/filters:strip_icc():quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/image/6299/bein-1-4bd997.jpg"/>
   </programme>
-  <programme channel="6299" start="20260421193000 +0000" stop="20260421213000 +0000">
+  <programme channel="6299" start="20260421192500 +0000" stop="20260421213000 +0000">
     <title lang="id">Real Madrid vs Alaves - LaLiga</title>
     <desc lang="id">Nonton streaming pertandingan seru Real Madrid vs Alaves - LaLiga. Saksikan aksi-aksi terbaik dari tim yang bersaing ketat untuk meraih kemenangan. Dapatkan informasi lengkap mengenai jadwal pertandingan dan hasil pertandingan terbaru hanya di Vidio.</desc>
     <icon src="https://thumbor.prod.vidiocdn.com/buYEvJEk6q7Xu7Y1_ERtUR0wzmA=/287x162/filters:strip_icc():quality(70)/vidio-media-production/uploads/livestreaming/schedule/thumbnail/5020468/494e60.jpg"/>
@@ -6877,8 +6882,13 @@
     <desc lang="id">Rally Islas Canarias</desc>
     <icon src="https://thumbor.prod.vidiocdn.com/5yUHYfv_b1sZi7kdFElm8JqF2RY=/287x162/filters:strip_icc():quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/image/6299/bein-1-4bd997.jpg"/>
   </programme>
-  <programme channel="6299" start="20260422170000 +0000" stop="20260422191500 +0000">
-    <title lang="id">Elche vs Atletico Madrid</title>
+  <programme channel="6299" start="20260422165500 +0000" stop="20260422191500 +0000">
+    <title lang="id">Elche vs Atletico Madrid - LaLiga</title>
+    <desc lang="id">23 APR - 23:00 WIB | Mampukah Elche bendung gempuran Los Colchoneros di Stadion Manuel Martinez Valero?</desc>
+    <icon src="https://thumbor.prod.vidiocdn.com/V-URwMMTw5jHH_f8kBqHMDnoLTE=/287x162/filters:strip_icc():quality(70)/vidio-media-production/uploads/livestreaming/schedule/thumbnail/5021451/f0d943.jpg"/>
+  </programme>
+  <programme channel="6299" start="20260422165500 +0000" stop="20260422191500 +0000">
+    <title lang="id">Elche vs Atletico Madrid - LaLiga</title>
     <desc lang="id">23 APR - 23:00 WIB | Mampukah Elche bendung gempuran Los Colchoneros di Stadion Manuel Martinez Valero?</desc>
     <icon src="https://thumbor.prod.vidiocdn.com/V-URwMMTw5jHH_f8kBqHMDnoLTE=/287x162/filters:strip_icc():quality(70)/vidio-media-production/uploads/livestreaming/schedule/thumbnail/5021451/f0d943.jpg"/>
   </programme>
@@ -6887,7 +6897,7 @@
     <desc lang="id">Barcelona vs Real Madrid - 2018/19</desc>
     <icon src="https://thumbor.prod.vidiocdn.com/5yUHYfv_b1sZi7kdFElm8JqF2RY=/287x162/filters:strip_icc():quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/image/6299/bein-1-4bd997.jpg"/>
   </programme>
-  <programme channel="6299" start="20260422193000 +0000" stop="20260422213000 +0000">
+  <programme channel="6299" start="20260422192500 +0000" stop="20260422213000 +0000">
     <title lang="id">Barcelona vs Celta Vigo - LaLiga</title>
     <desc lang="id">Nonton streaming pertandingan seru Barcelona vs Celta Vigo - LaLiga. Saksikan aksi-aksi terbaik dari tim yang bersaing ketat untuk meraih kemenangan. Dapatkan informasi lengkap mengenai jadwal pertandingan dan hasil pertandingan terbaru hanya di Vidio.</desc>
     <icon src="https://thumbor.prod.vidiocdn.com/RgQ4IHGiAehNWcHirNOkgdEHjqc=/287x162/filters:strip_icc():quality(70)/vidio-media-production/uploads/livestreaming/schedule/thumbnail/5021452/9b7e5d.jpg"/>
@@ -7522,7 +7532,12 @@
     <desc lang="id">Rio de Janeiro , Brazil</desc>
     <icon src="https://thumbor.prod.vidiocdn.com/xiN-u5MIG7jgOVE2tB_TUIynz7k=/287x162/filters:strip_icc():quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/image/6317/bein-3-616b1c.jpg"/>
   </programme>
-  <programme channel="6317" start="20260421170000 +0000" stop="20260421190000 +0000">
+  <programme channel="6317" start="20260421165500 +0000" stop="20260421190000 +0000">
+    <title lang="id">Mallorca vs Valencia - LaLiga</title>
+    <desc lang="id">Nonton streaming pertandingan seru Mallorca vs Valencia - LaLiga. Saksikan aksi-aksi terbaik dari tim yang bersaing ketat untuk meraih kemenangan. Dapatkan informasi lengkap mengenai jadwal pertandingan dan hasil pertandingan terbaru hanya di Vidio.</desc>
+    <icon src="https://thumbor.prod.vidiocdn.com/xts6ekrl_sfIw-1M9_PT4h2Q7tU=/287x162/filters:strip_icc():quality(70)/vidio-media-production/uploads/livestreaming/schedule/thumbnail/5020466/404913.jpg"/>
+  </programme>
+  <programme channel="6317" start="20260421165500 +0000" stop="20260421190000 +0000">
     <title lang="id">Mallorca vs Valencia - LaLiga</title>
     <desc lang="id">Nonton streaming pertandingan seru Mallorca vs Valencia - LaLiga. Saksikan aksi-aksi terbaik dari tim yang bersaing ketat untuk meraih kemenangan. Dapatkan informasi lengkap mengenai jadwal pertandingan dan hasil pertandingan terbaru hanya di Vidio.</desc>
     <icon src="https://thumbor.prod.vidiocdn.com/xts6ekrl_sfIw-1M9_PT4h2Q7tU=/287x162/filters:strip_icc():quality(70)/vidio-media-production/uploads/livestreaming/schedule/thumbnail/5020466/404913.jpg"/>
@@ -7532,7 +7547,7 @@
     <desc lang="id">UCL Every Goal - Karim Benzema</desc>
     <icon src="https://thumbor.prod.vidiocdn.com/xiN-u5MIG7jgOVE2tB_TUIynz7k=/287x162/filters:strip_icc():quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/image/6317/bein-3-616b1c.jpg"/>
   </programme>
-  <programme channel="6317" start="20260421193000 +0000" stop="20260421213000 +0000">
+  <programme channel="6317" start="20260421192500 +0000" stop="20260421213000 +0000">
     <title lang="id">Girona vs Real Betis - LaLiga</title>
     <desc lang="id">Nonton streaming pertandingan seru Girona vs Real Betis - LaLiga. Saksikan aksi-aksi terbaik dari tim yang bersaing ketat untuk meraih kemenangan. Dapatkan informasi lengkap mengenai jadwal pertandingan dan hasil pertandingan terbaru hanya di Vidio.</desc>
     <icon src="https://thumbor.prod.vidiocdn.com/Ng5YM4tpPEaDSP0AhWxV78G5l3I=/287x162/filters:strip_icc():quality(70)/vidio-media-production/uploads/livestreaming/schedule/thumbnail/5020467/393315.jpg"/>
@@ -7617,7 +7632,7 @@
     <desc lang="id">Dennis Viollet: A United Man</desc>
     <icon src="https://thumbor.prod.vidiocdn.com/xiN-u5MIG7jgOVE2tB_TUIynz7k=/287x162/filters:strip_icc():quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/image/6317/bein-3-616b1c.jpg"/>
   </programme>
-  <programme channel="6317" start="20260422180000 +0000" stop="20260422200000 +0000">
+  <programme channel="6317" start="20260422175500 +0000" stop="20260422200000 +0000">
     <title lang="id">Real Sociedad vs Getafe - LaLiga</title>
     <desc lang="id">Nonton streaming pertandingan seru Real Sociedad vs Getafe - LaLiga. Saksikan aksi-aksi terbaik dari tim yang bersaing ketat untuk meraih kemenangan. Dapatkan informasi lengkap mengenai jadwal pertandingan dan hasil pertandingan terbaru hanya di Vidio.</desc>
     <icon src="https://thumbor.prod.vidiocdn.com/mTXG10cFJMl2IMP0tBjcTfXufKY=/287x162/filters:strip_icc():quality(70)/vidio-media-production/uploads/livestreaming/schedule/thumbnail/5021453/4f218b.jpg"/>
@@ -8627,9 +8642,9 @@
     <icon src="https://thumbor.prod.vidiocdn.com/edoqRinFCRhrRwQ2ngcXacb_q74=/287x162/filters:strip_icc():quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/image/6685/champions-tv-1-54e282.jpg"/>
   </programme>
   <programme channel="6685" start="20260425112500 +0000" stop="20260425133000 +0000">
-    <title lang="id">West Bromwich Albion vs Ipswich Town : EFL 2025/26 Championship</title>
-    <desc lang="id">West Bromwich Albion vs Ipswich Town</desc>
-    <icon src="https://thumbor.prod.vidiocdn.com/edoqRinFCRhrRwQ2ngcXacb_q74=/287x162/filters:strip_icc():quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/image/6685/champions-tv-1-54e282.jpg"/>
+    <title lang="id">West Bromwich Albion vs Ipswich - EFL Championship</title>
+    <desc lang="id">Nonton streaming pertandingan seru West Bromwich Albion vs Ipswich - EFL Championship. Saksikan aksi-aksi terbaik dari tim yang bersaing ketat untuk meraih kemenangan. Dapatkan informasi lengkap mengenai jadwal pertandingan dan hasil pertandingan terbaru hanya di Vidio.</desc>
+    <icon src="https://thumbor.prod.vidiocdn.com/UYHAGDa0xa6wrGov4fA7upr7OQ4=/287x162/filters:strip_icc():quality(70)/vidio-media-production/uploads/livestreaming/schedule/thumbnail/5022147/f55521.jpg"/>
   </programme>
   <programme channel="6685" start="20260425133000 +0000" stop="20260425140000 +0000">
     <title lang="id">Eps 4 : MXGP Behind the Gate 2026</title>
@@ -8729,9 +8744,9 @@
     <icon src="https://thumbor.prod.vidiocdn.com/edoqRinFCRhrRwQ2ngcXacb_q74=/287x162/filters:strip_icc():quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/image/6685/champions-tv-1-54e282.jpg"/>
   </programme>
   <programme channel="6685" start="20260426105500 +0000" stop="20260426130000 +0000">
-    <title lang="id">Coventry City vs Wrexham : EFL 2025/26 Championship</title>
-    <desc lang="id">Coventry City vs Wrexham</desc>
-    <icon src="https://thumbor.prod.vidiocdn.com/edoqRinFCRhrRwQ2ngcXacb_q74=/287x162/filters:strip_icc():quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/image/6685/champions-tv-1-54e282.jpg"/>
+    <title lang="id">Coventry City vs Wrexham - EFL Championship</title>
+    <desc lang="id">Nonton streaming pertandingan seru Coventry City vs Wrexham - EFL Championship. Saksikan aksi-aksi terbaik dari tim yang bersaing ketat untuk meraih kemenangan. Dapatkan informasi lengkap mengenai jadwal pertandingan dan hasil pertandingan terbaru hanya di Vidio.</desc>
+    <icon src="https://thumbor.prod.vidiocdn.com/wNwl1EMxXccJmHqv7ib7J0aCBBo=/287x162/filters:strip_icc():quality(70)/vidio-media-production/uploads/livestreaming/schedule/thumbnail/5022148/12580d.jpg"/>
   </programme>
   <programme channel="6685" start="20260426130000 +0000" stop="20260426140000 +0000">
     <title lang="id">Highlight - Round 30 : Portuguese League 2025/26</title>
@@ -8792,16 +8807,16 @@
     <desc lang="id">Seorang wanita muda yang bersemangat memulai perjalanan untuk memenuhi janji seorang ibu demi kehidupan yang lebih baik sambil mengatasi tantangan dan kehilangan.</desc>
     <icon src="https://thumbor.prod.vidiocdn.com/c04px_lGwbVV91PH0cDkOE1lRCU=/287x162/filters:strip_icc():quality(70)/vidio-media-production/uploads/livestreaming/schedule/thumbnail/5021149/fa78ae.jpg"/>
   </programme>
-  <programme channel="782" start="20260421075000 +0000" stop="20260421090000 +0000">
+  <programme channel="782" start="20260421075000 +0000" stop="20260421091100 +0000">
     <title lang="id">Teri Meri Doriyaann</title>
     <icon src="https://thumbor.prod.vidiocdn.com/raPIpaxFP0V4AiUToYdXKoA93WE=/287x162/filters:strip_icc():quality(70)/vidio-media-production/uploads/livestreaming/schedule/thumbnail/5022129/60490d.jpg"/>
   </programme>
-  <programme channel="782" start="20260421090000 +0000" stop="20260421111500 +0000">
+  <programme channel="782" start="20260421091100 +0000" stop="20260421105600 +0000">
     <title lang="id">Vasudha</title>
     <desc lang="id">Vasudha yang periang bergabung dengan rumah pemimpin bisnis Chandrika sebagai pembantu dan mendambakan persetujuannya meskipun ada perbedaan ideologis di antara mereka.</desc>
     <icon src="https://thumbor.prod.vidiocdn.com/OpLihZM7bkscftLUR4hCLYZQJDM=/287x162/filters:strip_icc():quality(70)/vidio-media-production/uploads/livestreaming/schedule/thumbnail/5021151/d1520e.jpg"/>
   </programme>
-  <programme channel="782" start="20260421111500 +0000" stop="20260421130000 +0000">
+  <programme channel="782" start="20260421105600 +0000" stop="20260421130000 +0000">
     <title lang="id">Sinema Laga Klasik: Gadis Bionik</title>
     <desc lang="id">Rita terluka parah dan dioperasi akibat perbuatan komplotan Kontet yang menabraknya. Kejadian itu membuat Rita menjadi gadis bionik dan membantu polisi menumpas kejahatan termasuk komplotan Kontet.</desc>
     <icon src="https://thumbor.prod.vidiocdn.com/20tRQaK9Gps_wFQL5rY-XgRbrs4=/287x162/filters:strip_icc():quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/image/782/antv-de8530.jpg"/>

@@ -7627,48 +7627,6 @@
 <programme start="20260421163000 +0000" stop="20260420170000 +0000" channel="RCTI.mncvision">
     <title>Kesempatan Kedua</title>
 </programme>
-<programme start="20260420173000 +0000" stop="20260420193000 +0000" channel="RCTI HD.mncvision">
-    <title>Kesempatan Kedua</title>
-</programme>
-<programme start="20260420193000 +0000" stop="20260420230000 +0000" channel="RCTI HD.mncvision">
-    <title>Preman Pensiun S8</title>
-</programme>
-<programme start="20260420230000 +0000" stop="20260421010000 +0000" channel="RCTI HD.mncvision">
-    <title>Upin Ipin</title>
-</programme>
-<programme start="20260421010000 +0000" stop="20260421033000 +0000" channel="RCTI HD.mncvision">
-    <title>Entong</title>
-</programme>
-<programme start="20260421033000 +0000" stop="20260421043000 +0000" channel="RCTI HD.mncvision">
-    <title>Silet</title>
-</programme>
-<programme start="20260421043000 +0000" stop="20260421050000 +0000" channel="RCTI HD.mncvision">
-    <title>Seputar iNews Siang</title>
-</programme>
-<programme start="20260421050000 +0000" stop="20260421063000 +0000" channel="RCTI HD.mncvision">
-    <title>Dunia Masih Terbalik</title>
-</programme>
-<programme start="20260421063000 +0000" stop="20260421073000 +0000" channel="RCTI HD.mncvision">
-    <title>TOP: Kisah Cinta Mas Pur</title>
-</programme>
-<programme start="20260421073000 +0000" stop="20260421100000 +0000" channel="RCTI HD.mncvision">
-    <title>Si Doel Anak Sekolahan S4</title>
-</programme>
-<programme start="20260421100000 +0000" stop="20260421120000 +0000" channel="RCTI HD.mncvision">
-    <title>Preman Pensiun Deui</title>
-</programme>
-<programme start="20260421120000 +0000" stop="20260421131500 +0000" channel="RCTI HD.mncvision">
-    <title>Terikat Janji</title>
-</programme>
-<programme start="20260421131500 +0000" stop="20260421143000 +0000" channel="RCTI HD.mncvision">
-    <title>Turun Ranjang</title>
-</programme>
-<programme start="20260421143000 +0000" stop="20260421163000 +0000" channel="RCTI HD.mncvision">
-    <title>Papa Bilang Juga Apa</title>
-</programme>
-<programme start="20260421163000 +0000" stop="20260420170000 +0000" channel="RCTI HD.mncvision">
-    <title>Kesempatan Kedua</title>
-</programme>
 <programme start="20260420175500 +0000" stop="20260420193500 +0000" channel="Rock Action.mncvision">
     <title>Hard Target</title>
 </programme>

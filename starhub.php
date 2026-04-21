@@ -3329,7 +3329,7 @@
         <title>News</title>
     </programme>
     <programme start="20260421031500 +0000" stop="20260421033000 +0000" channel="DW English HD.starhub">
-        <title>How the global economy can navigate the impact of the war in Iran</title>
+        <title>The polycrisis the world is ignoring</title>
     </programme>
     <programme start="20260421033000 +0000" stop="20260421040000 +0000" channel="DW English HD.starhub">
         <title>Of Rhinos and Men</title>
@@ -3356,7 +3356,7 @@
         <title>News</title>
     </programme>
     <programme start="20260421061500 +0000" stop="20260421063000 +0000" channel="DW English HD.starhub">
-        <title>How the global economy can navigate the impact of the war in Iran</title>
+        <title>The polycrisis the world is ignoring</title>
     </programme>
     <programme start="20260421063000 +0000" stop="20260421070000 +0000" channel="DW English HD.starhub">
         <title>Legacies: Michael Jackson, Chernobyl</title>
@@ -3374,7 +3374,7 @@
         <title>News</title>
     </programme>
     <programme start="20260421080200 +0000" stop="20260421083000 +0000" channel="DW English HD.starhub">
-        <title>What connects us all</title>
+        <title>Thailand: Rare earth mining pollutes rivers</title>
     </programme>
     <programme start="20260421083000 +0000" stop="20260421090000 +0000" channel="DW English HD.starhub">
         <title>Making big cities more livable - Green ideas for urban life</title>
@@ -3425,7 +3425,7 @@
         <title>News</title>
     </programme>
     <programme start="20260421131500 +0000" stop="20260421133000 +0000" channel="DW English HD.starhub">
-        <title>Why is there a black market for refrigerants in the EU, and how does it work?</title>
+        <title>The lurking oil spills no one is talking about</title>
     </programme>
     <programme start="20260421133000 +0000" stop="20260421140000 +0000" channel="DW English HD.starhub">
         <title>Making change green, fair and clean</title>
