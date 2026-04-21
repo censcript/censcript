@@ -3869,7 +3869,7 @@
         <title>World Weather</title>
     </programme>
     <programme start="20260420191500 +0000" stop="20260420200000 +0000" channel="NHK World Premium HD.starhub">
-        <title>Tsurube&#039;s Salute to Families &quot;Shiraishi Sei in Nagoya City, Aichi Prefecture&quot;Part 2(R)</title>
+        <title>Tsurube&#039;s Salute to Families&quot;Shiraishi Sei in Nagoya City,Aichi Prefecture&quot;Part</title>
     </programme>
     <programme start="20260420200000 +0000" stop="20260420201000 +0000" channel="NHK World Premium HD.starhub">
         <title>TV Exercise</title>
@@ -3908,7 +3908,7 @@
         <title>News &amp; Weather</title>
     </programme>
     <programme start="20260421010500 +0000" stop="20260421015000 +0000" channel="NHK World Premium HD.starhub">
-        <title>Tsurube&#039;s Salute to Families &quot;Shiraishi Sei in Nagoya City, Aichi Prefecture&quot;Part 2(R)</title>
+        <title>Tsurube&#039;s Salute to Families&quot;Shiraishi Sei in Nagoya City,Aichi Prefecture&quot;Part</title>
     </programme>
     <programme start="20260421015000 +0000" stop="20260421021700 +0000" channel="NHK World Premium HD.starhub">
         <title>Today&#039;s Close-up (R)</title>
@@ -5218,10 +5218,10 @@
     <programme start="20260420190000 +0000" stop="20260420223000 +0000" channel="SPOTV.starhub">
         <title>Day 1</title>
     </programme>
-    <programme start="20260420223000 +0000" stop="20260420233000 +0000" channel="SPOTV.starhub">
+    <programme start="20260420223000 +0000" stop="20260420232000 +0000" channel="SPOTV.starhub">
         <title>Tissot Superpole</title>
     </programme>
-    <programme start="20260420233000 +0000" stop="20260421003000 +0000" channel="SPOTV.starhub">
+    <programme start="20260420232000 +0000" stop="20260421003000 +0000" channel="SPOTV.starhub">
         <title>Race 1</title>
     </programme>
     <programme start="20260421003000 +0000" stop="20260421013000 +0000" channel="SPOTV.starhub">
@@ -7748,7 +7748,7 @@
         <title>Premiership Rugby Sale v Saracens</title>
     </programme>
     <programme start="20260421131000 +0000" stop="20260421150000 +0000" channel="Premier Sports.starhub">
-        <title>NRL Broncos v Bulldogs</title>
+        <title>NRL Dolphins v Panthers</title>
     </programme>
     <programme start="20260421150000 +0000" stop="20260421151000 +0000" channel="Premier Sports.starhub">
         <title>URC Match Highlights Edinburgh v Zebre</title>
@@ -8167,7 +8167,10 @@
     <programme start="20260420233000 +0000" stop="20260421013000 +0000" channel="Asianet Movies.starhub">
         <title>Geetha Govindam</title>
     </programme>
-    <programme start="20260421013000 +0000" stop="20260421043000 +0000" channel="Asianet Movies.starhub">
+    <programme start="20260421013000 +0000" stop="20260421015000 +0000" channel="Asianet Movies.starhub">
+        <title>Filler:Chirikkum Thalika II</title>
+    </programme>
+    <programme start="20260421015000 +0000" stop="20260421043000 +0000" channel="Asianet Movies.starhub">
         <title>Sudani From Nigeria</title>
     </programme>
     <programme start="20260421043000 +0000" stop="20260421073000 +0000" channel="Asianet Movies.starhub">

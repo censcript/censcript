@@ -164,7 +164,7 @@
     <title>News (L)</title>
 </programme>
 <programme start="20260421083000 +0000" stop="20260421090000 +0000" channel="Al Jazeera English.mncvision">
-    <title>Talk To Al Jazeera</title>
+    <title>Talk To Al Jazeera: Bryan Clark</title>
 </programme>
 <programme start="20260421090000 +0000" stop="20260421093000 +0000" channel="Al Jazeera English.mncvision">
     <title>News (L)</title>

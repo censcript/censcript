@@ -15364,12 +15364,12 @@
     <desc lang="en">Top female golfers compete across premier international venues, delivering world-class performances, thrilling finishes, and season-long championship drama.</desc>
     <category lang="en">Golf</category>
   </programme>
-  <programme start="20260420223000 +0000" stop="20260420233000 +0000" channel="spotv.unifitv">
+  <programme start="20260420223000 +0000" stop="20260420232000 +0000" channel="spotv.unifitv">
     <title lang="en">2026 WorldWCR: Rd 2 Pirelli Dutch Round - Tissot Superpole</title>
     <desc lang="en">The FIM Women's Circuit Racing World Championship, with six rounds in 2026, is a pioneering single-make series exclusively for aspiring female riders, featuring the Yamaha R7.</desc>
     <category lang="en">Motorsports</category>
   </programme>
-  <programme start="20260420233000 +0000" stop="20260421003000 +0000" channel="spotv.unifitv">
+  <programme start="20260420232000 +0000" stop="20260421003000 +0000" channel="spotv.unifitv">
     <title lang="en">2026 WorldWCR: Rd 2 Pirelli Dutch Round - Race 1</title>
     <desc lang="en">The FIM Women's Circuit Racing World Championship, with six rounds in 2026, is a pioneering single-make series exclusively for aspiring female riders, featuring the Yamaha R7.</desc>
     <category lang="en">Motorsports</category>
