@@ -6762,22 +6762,17 @@
     <desc lang="id">Matchday 31</desc>
     <icon src="https://thumbor.prod.vidiocdn.com/5yUHYfv_b1sZi7kdFElm8JqF2RY=/287x162/filters:strip_icc():quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/image/6299/bein-1-4bd997.jpg"/>
   </programme>
-  <programme channel="6299" start="20260421165500 +0000" stop="20260421190000 +0000">
+  <programme channel="6299" start="20260421165500 +0000" stop="20260421190300 +0000">
     <title lang="id">Athletic Club vs Osasuna - Laliga</title>
     <desc lang="id">Nonton streaming pertandingan seru Athletic Club vs Osasuna - LaLiga. Saksikan aksi-aksi terbaik dari tim yang bersaing ketat untuk meraih kemenangan. Dapatkan informasi lengkap mengenai jadwal pertandingan dan hasil pertandingan terbaru hanya di Vidio.</desc>
     <icon src="https://thumbor.prod.vidiocdn.com/44osmC9UzPV5_VDk8Mtf2SNbwlw=/287x162/filters:strip_icc():quality(70)/vidio-media-production/uploads/livestreaming/schedule/thumbnail/5020465/313e30.jpg"/>
   </programme>
-  <programme channel="6299" start="20260421165500 +0000" stop="20260421190000 +0000">
+  <programme channel="6299" start="20260421165500 +0000" stop="20260421190300 +0000">
     <title lang="id">Athletic Club vs Osasuna - Laliga</title>
     <desc lang="id">Nonton streaming pertandingan seru Athletic Club vs Osasuna - LaLiga. Saksikan aksi-aksi terbaik dari tim yang bersaing ketat untuk meraih kemenangan. Dapatkan informasi lengkap mengenai jadwal pertandingan dan hasil pertandingan terbaru hanya di Vidio.</desc>
     <icon src="https://thumbor.prod.vidiocdn.com/44osmC9UzPV5_VDk8Mtf2SNbwlw=/287x162/filters:strip_icc():quality(70)/vidio-media-production/uploads/livestreaming/schedule/thumbnail/5020465/313e30.jpg"/>
   </programme>
-  <programme channel="6299" start="20260421190000 +0000" stop="20260421191500 +0000">
-    <title lang="id">Barcelona vs Real Madrid - 2018/19 : LaLiga Club Classic Archive</title>
-    <desc lang="id">Barcelona vs Real Madrid - 2018/19</desc>
-    <icon src="https://thumbor.prod.vidiocdn.com/5yUHYfv_b1sZi7kdFElm8JqF2RY=/287x162/filters:strip_icc():quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/image/6299/bein-1-4bd997.jpg"/>
-  </programme>
-  <programme channel="6299" start="20260421191500 +0000" stop="20260421192500 +0000">
+  <programme channel="6299" start="20260421190300 +0000" stop="20260421192500 +0000">
     <title lang="id">Barcelona vs Real Madrid - 2022/23 : LaLiga Club Classic Archive</title>
     <desc lang="id">Barcelona vs Real Madrid - 2022/23</desc>
     <icon src="https://thumbor.prod.vidiocdn.com/5yUHYfv_b1sZi7kdFElm8JqF2RY=/287x162/filters:strip_icc():quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/image/6299/bein-1-4bd997.jpg"/>
@@ -8830,17 +8825,17 @@
     <desc lang="id">Sebuah keluarga pergi ke rumah kosong di tengah ladang kentang. Adrian dan Sofie, seorang novelis, ingin mencari inspirasi, tetapi hal-hal aneh terjadi ketika mereka tinggal di rumah itu.</desc>
     <icon src="https://thumbor.prod.vidiocdn.com/20tRQaK9Gps_wFQL5rY-XgRbrs4=/287x162/filters:strip_icc():quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/image/782/antv-de8530.jpg"/>
   </programme>
-  <programme channel="782" start="20260421163000 +0000" stop="20260421183000 +0000">
+  <programme channel="782" start="20260421163000 +0000" stop="20260421183500 +0000">
     <title lang="id">Bioskop Asia: Teenage Mutant Ninja Turtles III</title>
     <desc lang="id">Para kura-kura memulai petualangan baru saat mereka kembali ke Jepang untuk menyempurnakan seni menjadi samurai. Mereka juga membantu sebuah desa yang mencoba mengakhiri masa-masa penindasannya.</desc>
     <icon src="https://thumbor.prod.vidiocdn.com/20tRQaK9Gps_wFQL5rY-XgRbrs4=/287x162/filters:strip_icc():quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/image/782/antv-de8530.jpg"/>
   </programme>
-  <programme channel="782" start="20260421163000 +0000" stop="20260421183000 +0000">
+  <programme channel="782" start="20260421163000 +0000" stop="20260421183500 +0000">
     <title lang="id">Bioskop Asia: Teenage Mutant Ninja Turtles III</title>
     <desc lang="id">Para kura-kura memulai petualangan baru saat mereka kembali ke Jepang untuk menyempurnakan seni menjadi samurai. Mereka juga membantu sebuah desa yang mencoba mengakhiri masa-masa penindasannya.</desc>
     <icon src="https://thumbor.prod.vidiocdn.com/20tRQaK9Gps_wFQL5rY-XgRbrs4=/287x162/filters:strip_icc():quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/image/782/antv-de8530.jpg"/>
   </programme>
-  <programme channel="782" start="20260421183000 +0000" stop="20260421210000 +0000">
+  <programme channel="782" start="20260421183500 +0000" stop="20260421210000 +0000">
     <title lang="id">Coppa Italia 2025/26: Inter vs Como</title>
     <icon src="https://thumbor.prod.vidiocdn.com/20tRQaK9Gps_wFQL5rY-XgRbrs4=/287x162/filters:strip_icc():quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/image/782/antv-de8530.jpg"/>
   </programme>

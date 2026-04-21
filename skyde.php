@@ -2728,10 +2728,10 @@ Warning: Undefined array key "et" in /usr/home/ManusiaBiasa/domains/manusiabiasa
     <title>BL: Werder Bremen - Hamburger SV, 30. Spieltag</title>
 </programme>
 <programme start="20260421033000 +0000" stop="20260421053000 +0000" channel="Sky Sport Bundesliga UHD.skyde">
-    <title>BL: Eintracht Frankfurt - RB Leipzig, tipico Topspiel der Woche, 30. Spieltag</title>
+    <title>BL: FC St. Pauli - 1. FC Köln, Flutlicht-Freitag, 30. Spieltag</title>
 </programme>
 <programme start="20260421033000 +0000" stop="20260421053000 +0000" channel="Sky Sport Bundesliga UHD.skyde">
-    <title>BL: FC St. Pauli - 1. FC Köln, Flutlicht-Freitag, 30. Spieltag</title>
+    <title>BL: Eintracht Frankfurt - RB Leipzig, tipico Topspiel der Woche, 30. Spieltag</title>
 </programme>
 <programme start="20260421053000 +0000" stop="20260421073000 +0000" channel="Sky Sport Bundesliga UHD.skyde">
     <title>2. BL: Hannover 96 - SC Paderborn 07, tipico Topspiel der Woche, 30. Spieltag</title>
@@ -2880,11 +2880,8 @@ Warning: Undefined array key "et" in /usr/home/ManusiaBiasa/domains/manusiabiasa
 <programme start="20260420220000 +0000" stop="20260420230000 +0000" channel="Sky Sport Mix HD.skyde">
     <title>Live NBA: Showtime</title>
 </programme>
-<programme start="20260420230000 +0000" stop="20260421013000 +0000" channel="Sky Sport Mix HD.skyde">
+<programme start="20260420230000 +0000" stop="20260421014500 +0000" channel="Sky Sport Mix HD.skyde">
     <title>Live NBA: Toronto Raptors @ Cleveland Cavaliers, Playoffs, Runde 1, Spiel 2</title>
-</programme>
-<programme start="20260421013000 +0000" stop="20260421014500 +0000" channel="Sky Sport Mix HD.skyde">
-    <title>NHL: Highlights BOS@BUF, Playoffs, 1. Runde, Spiel 1</title>
 </programme>
 <programme start="20260421014500 +0000" stop="20260421020000 +0000" channel="Sky Sport Mix HD.skyde">
     <title>NHL: Highlights UTA@VGK, Playoffs, 1. Runde, Spiel 1</title>
@@ -2919,7 +2916,7 @@ Warning: Undefined array key "et" in /usr/home/ManusiaBiasa/domains/manusiabiasa
 <programme start="20260421120000 +0000" stop="20260421130000 +0000" channel="Sky Sport Mix HD.skyde">
     <title>NHL: Tonight - Playoff Edition</title>
 </programme>
-<programme start="20260421130000 +0000" stop="20260421153000 +0000" channel="Sky Sport Mix HD.skyde">
+<programme start="20260421125000 +0000" stop="20260421152000 +0000" channel="Sky Sport Mix HD.skyde">
     <title>NBA: Atlanta Hawks @ New York Knicks, Playoffs, Runde 1, Spiel 2</title>
 </programme>
 <programme start="20260421153000 +0000" stop="20260421180000 +0000" channel="Sky Sport Mix HD.skyde">
@@ -3111,6 +3108,9 @@ Warning: Undefined array key "et" in /usr/home/ManusiaBiasa/domains/manusiabiasa
 <programme start="20260421050000 +0000" stop="20260421060000 +0000" channel="Sky Sport Tennis HD.skyde">
     <title>ATP 500: Review Barcelona</title>
 </programme>
+<programme start="20260421060000 +0000" stop="20260421070000 +0000" channel="Sky Sport Tennis HD.skyde">
+    <title>ATP 500: Review München</title>
+</programme>
 <programme start="20260421070000 +0000" stop="20260421090000 +0000" channel="Sky Sport Tennis HD.skyde">
     <title>WTA 500: E. Rybakina (KAZ) - K. Muchova (CZE), Porsche Tennis Grand Prix in Stuttgart, Finale</title>
 </programme>
@@ -3126,10 +3126,10 @@ Warning: Undefined array key "et" in /usr/home/ManusiaBiasa/domains/manusiabiasa
 <programme start="20260420220000 +0000" stop="20260420230000 +0000" channel="Sky Sport Top Event HD.skyde">
     <title>Live NBA: Showtime</title>
 </programme>
-<programme start="20260420230000 +0000" stop="20260421013000 +0000" channel="Sky Sport Top Event HD.skyde">
+<programme start="20260420230000 +0000" stop="20260421014500 +0000" channel="Sky Sport Top Event HD.skyde">
     <title>Live NBA: Toronto Raptors @ Cleveland Cavaliers, Playoffs, Runde 1, Spiel 2</title>
 </programme>
-<programme start="20260421013000 +0000" stop="20260421023000 +0000" channel="Sky Sport Top Event HD.skyde">
+<programme start="20260421014500 +0000" stop="20260421023000 +0000" channel="Sky Sport Top Event HD.skyde">
     <title>Live NBA: Atlanta Hawks @ New York Knicks, Playoffs, Runde 1, Spiel 2</title>
 </programme>
 <programme start="20260421023000 +0000" stop="20260421050000 +0000" channel="Sky Sport Top Event HD.skyde">
@@ -3171,17 +3171,17 @@ Warning: Undefined array key "et" in /usr/home/ManusiaBiasa/domains/manusiabiasa
 <programme start="20260420234000 +0000" stop="20260421000000 +0000" channel="Sky Sport 1 HD.skyde">
     <title>NBA: Es folgt</title>
 </programme>
-<programme start="20260421000000 +0000" stop="20260421023000 +0000" channel="Sky Sport 1 HD.skyde">
+<programme start="20260421000000 +0000" stop="20260421025000 +0000" channel="Sky Sport 1 HD.skyde">
     <title>Live NBA: Atlanta Hawks @ New York Knicks, Playoffs, Runde 1, Spiel 2</title>
 </programme>
-<programme start="20260421023000 +0000" stop="20260421040000 +0000" channel="Sky Sport 1 HD.skyde">
+<programme start="20260421025000 +0000" stop="20260421060000 +0000" channel="Sky Sport 1 HD.skyde">
     <title>Live NBA: Minnesota Timberwolves @ Denver Nuggets, Playoffs, Runde 1, Spiel 2</title>
-</programme>
-<programme start="20260421050000 +0000" stop="20260421080000 +0000" channel="Sky Sport 1 HD.skyde">
-    <title>Live NBA: Showtime - Post Show</title>
 </programme>
 <programme start="20260421214000 +0000" stop="20260421220000 +0000" channel="Sky Sport 1 HD.skyde">
     <title>NBA: Es folgt</title>
+</programme>
+<programme start="20260421214000 +0000" stop="20260422000000 +0000" channel="Sky Sport 2 HD.skyde">
+    <title>Es folgt: ab 02:00: Live NBA</title>
 </programme>
 <programme start="20260420224000 +0000" stop="20260420232500 +0000" channel="SYFY HD.skyde">
     <title>Raumschiff Enterprise - Das nächste Jahrhundert</title>
