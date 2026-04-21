@@ -748,17 +748,17 @@
     <desc lang="id">Mega Series Terbaru Raden Rakha dan Basmalah Gralind Di Indosiar "Merangkai Kisah Indah" Tayang Setiap Hari, Mulai Senin, 14 Juli 2025 Pukul 17:00 WIB. Kisah Derita Mutiara Yang Mencari Orangtua Kandungnya Karena Sewaktu Bayi Ditukar Oleh Ibu Angkatnya. Nasib Membawa Dirinya Bertemu Dengan Keluarga Yang Tanpa Dia Ketahui Adalah Orangtua Kandungnya dan Juga Bertemu Kenzo. Apakah Kenzo dan Mutiara Akan Berjodoh? Dibintangi Raden Rakha, Basmalah Gralind, Panji Saputra, Tsania Marwa, Gita Sinaga, Vayala Maulidina, Washifa, Haura Lathifa, dan Emiliano Cortizo. Saksikan Mega Series Terbaru Indosiar : Merangkai Kisah Indah, Tayang Setiap Hari, Mulai Senin, 14 Juli 2025 Pukul 17:00 WIB Hanya Di Indosiar.</desc>
     <icon src="https://thumbor.prod.vidiocdn.com/WIl2jiaTLEzHnNAo61AGzfdEXh8=/287x162/filters:strip_icc():quality(70)/vidio-media-production/uploads/tv_program/thumbnail/389747/fc3ce1.jpg"/>
   </programme>
-  <programme channel="205" start="20260421120000 +0000" stop="20260421160000 +0000">
+  <programme channel="205" start="20260421120000 +0000" stop="20260421164000 +0000">
     <title lang="id">D' Academy 7 Mega Konser : Untuk Perempuan Indonesia</title>
     <desc lang="id">Panggung Megah Konser D'Academy 7 Siap Digelar! Audisi Online dan Offline Telah Usai! Siapakah Yang Akan Lolos Ke Panggung Megah D'Academy 7? Saksikan D'Academy 7 Mulai Senin, 9 Juni, Setiap Senin-Jumat Live Pkl 20.00 WIB Hanya Di Indosiar. #Indosiarbawadangdutberkelasberkualitas</desc>
     <icon src="https://thumbor.prod.vidiocdn.com/5vxWLPYJbD0WMPnmCBtuw5L7e64=/287x162/filters:strip_icc():quality(70)/vidio-media-production/uploads/livestreaming/schedule/thumbnail/5020731/713e4a.jpg"/>
   </programme>
-  <programme channel="205" start="20260421160000 +0000" stop="20260421180000 +0000">
+  <programme channel="205" start="20260421164000 +0000" stop="20260421180000 +0000">
     <title lang="id">Mega Series Action Asia : Heroes</title>
     <desc lang="id">Sebuah Kisah Epic Yang Melegenda Perjuangan Sang Master Kungfu: Huo Yuan Jia, Memimipin Perlawanan Bangsanya Dalam Menghadapi Invasi Penjajah. Saksikan Penampilan Memukau: Vincent Zhao, Nikita Mao dan Bintang Laga Lainnya Dalam Mega Series Action Asia: Heroes, Mulai 14 Maret 2025, Pkl 23.00 WIB, Hanya Di Indosiar</desc>
     <icon src="https://thumbor.prod.vidiocdn.com/oqlzhccEfNxcBPYK-05xdXhfQ5g=/287x162/filters:strip_icc():quality(70)/vidio-media-production/uploads/livestreaming/schedule/thumbnail/5020718/706a28.jpg"/>
   </programme>
-  <programme channel="205" start="20260421160000 +0000" stop="20260421180000 +0000">
+  <programme channel="205" start="20260421164000 +0000" stop="20260421180000 +0000">
     <title lang="id">Mega Series Action Asia : Heroes</title>
     <desc lang="id">Sebuah Kisah Epic Yang Melegenda Perjuangan Sang Master Kungfu: Huo Yuan Jia, Memimipin Perlawanan Bangsanya Dalam Menghadapi Invasi Penjajah. Saksikan Penampilan Memukau: Vincent Zhao, Nikita Mao dan Bintang Laga Lainnya Dalam Mega Series Action Asia: Heroes, Mulai 14 Maret 2025, Pkl 23.00 WIB, Hanya Di Indosiar</desc>
     <icon src="https://thumbor.prod.vidiocdn.com/oqlzhccEfNxcBPYK-05xdXhfQ5g=/287x162/filters:strip_icc():quality(70)/vidio-media-production/uploads/livestreaming/schedule/thumbnail/5020718/706a28.jpg"/>
@@ -2337,14 +2337,14 @@
     <desc lang="id">Bronze Medal, Game 1.</desc>
     <icon src="https://thumbor.prod.vidiocdn.com/NdmzqkxqnWVnlngtk_ObYNT-wiY=/287x162/filters:strip_icc():quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/image/206/moji-a5bd3e.jpg"/>
   </programme>
-  <programme channel="206" start="20260421110800 +0000" stop="20260421140000 +0000">
+  <programme channel="206" start="20260421110800 +0000" stop="20260421135900 +0000">
     <title lang="id">Jakarta Popsivo Polwan vs Jakarta Electric PLN Mobile : Proliga 2026</title>
     <desc lang="id">Bronze Medal, Game 1.</desc>
     <icon src="https://thumbor.prod.vidiocdn.com/NdmzqkxqnWVnlngtk_ObYNT-wiY=/287x162/filters:strip_icc():quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/image/206/moji-a5bd3e.jpg"/>
   </programme>
-  <programme channel="206" start="20260421140000 +0000" stop="20260421160000 +0000">
-    <title lang="id">Rerun Ucl</title>
-    <desc lang="id">Rerun Ucl</desc>
+  <programme channel="206" start="20260421135900 +0000" stop="20260421160000 +0000">
+    <title lang="id">Paris Saint-Germain vs AS Monaco : UEFA Champions League 2025/26</title>
+    <desc lang="id">Knockout Playoffs, Leg 2.</desc>
     <icon src="https://thumbor.prod.vidiocdn.com/NdmzqkxqnWVnlngtk_ObYNT-wiY=/287x162/filters:strip_icc():quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/image/206/moji-a5bd3e.jpg"/>
   </programme>
   <programme channel="206" start="20260421160000 +0000" stop="20260421173000 +0000">
@@ -5219,11 +5219,11 @@
     <title lang="id">MD Drama: Cinta Fitri</title>
     <icon src="https://thumbor.prod.vidiocdn.com/4Czw1-Pd6U37CKeatnuB7yB0wm8=/287x162/filters:strip_icc():quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/image/875/mdtv-ff5756.jpg"/>
   </programme>
-  <programme channel="875" start="20260421130000 +0000" stop="20260421140000 +0000">
+  <programme channel="875" start="20260421130000 +0000" stop="20260421135800 +0000">
     <title lang="id">MD Series: Keluarga Yang Tak Dirindukan</title>
     <icon src="https://thumbor.prod.vidiocdn.com/4Czw1-Pd6U37CKeatnuB7yB0wm8=/287x162/filters:strip_icc():quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/image/875/mdtv-ff5756.jpg"/>
   </programme>
-  <programme channel="875" start="20260421140000 +0000" stop="20260421150000 +0000">
+  <programme channel="875" start="20260421135800 +0000" stop="20260421150000 +0000">
     <title lang="id">Hot Drama</title>
     <icon src="https://thumbor.prod.vidiocdn.com/4Czw1-Pd6U37CKeatnuB7yB0wm8=/287x162/filters:strip_icc():quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/image/875/mdtv-ff5756.jpg"/>
   </programme>
@@ -8822,8 +8822,7 @@
     <icon src="https://thumbor.prod.vidiocdn.com/20tRQaK9Gps_wFQL5rY-XgRbrs4=/287x162/filters:strip_icc():quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/image/782/antv-de8530.jpg"/>
   </programme>
   <programme channel="782" start="20260421130000 +0000" stop="20260421143000 +0000">
-    <title lang="id">Sinema Spesial: Samson dan Delilah</title>
-    <desc lang="id">Delilah yang pada awalnya sempat mengkhianati Samson dengan membantu penangkapannya, berbalik mencintainya dan membantu Samson terbebas dari hukuman gantung yang akan dijalankannya.</desc>
+    <title lang="id">Sinema Spesial Suzanna: Permainan Bulan Desember</title>
     <icon src="https://thumbor.prod.vidiocdn.com/20tRQaK9Gps_wFQL5rY-XgRbrs4=/287x162/filters:strip_icc():quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/image/782/antv-de8530.jpg"/>
   </programme>
   <programme channel="782" start="20260421143000 +0000" stop="20260421161500 +0000">

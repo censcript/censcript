@@ -3239,7 +3239,7 @@
         <title>News</title>
     </programme>
     <programme start="20260420171500 +0000" stop="20260420173000 +0000" channel="DW English HD.starhub">
-        <title>How the global economy can navigate the impact of the war in Iran</title>
+        <title>The polycrisis the world is ignoring</title>
     </programme>
     <programme start="20260420173000 +0000" stop="20260420180000 +0000" channel="DW English HD.starhub">
         <title>Legacies: Michael Jackson, Chernobyl</title>
@@ -3257,7 +3257,7 @@
         <title>News</title>
     </programme>
     <programme start="20260420191500 +0000" stop="20260420193000 +0000" channel="DW English HD.starhub">
-        <title>How the global economy can navigate the impact of the war in Iran</title>
+        <title>The polycrisis the world is ignoring</title>
     </programme>
     <programme start="20260420193000 +0000" stop="20260420200000 +0000" channel="DW English HD.starhub">
         <title>Who&#039;s to blame for Cameroon&#039;s woes?</title>
@@ -3293,7 +3293,7 @@
         <title>News</title>
     </programme>
     <programme start="20260420231500 +0000" stop="20260420233000 +0000" channel="DW English HD.starhub">
-        <title>How the global economy can navigate the impact of the war in Iran</title>
+        <title>The polycrisis the world is ignoring</title>
     </programme>
     <programme start="20260420233000 +0000" stop="20260421000000 +0000" channel="DW English HD.starhub">
         <title>Of Rhinos and Men</title>
@@ -3869,7 +3869,7 @@
         <title>World Weather</title>
     </programme>
     <programme start="20260420191500 +0000" stop="20260420200000 +0000" channel="NHK World Premium HD.starhub">
-        <title>Tsurube&#039;s Salute to Families&quot;Shiraishi Sei in Nagoya City,Aichi Prefecture&quot;Part</title>
+        <title>Tsurube&#039;s Salute to Families&quot;Shiraishi Sei in Nagoya City,Aichi Prefecture&quot;Part 2(R)</title>
     </programme>
     <programme start="20260420200000 +0000" stop="20260420201000 +0000" channel="NHK World Premium HD.starhub">
         <title>TV Exercise</title>

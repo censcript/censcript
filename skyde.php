@@ -1008,10 +1008,10 @@ Warning: Undefined array key "et" in /usr/home/ManusiaBiasa/domains/manusiabiasa
 <programme start="20260421190000 +0000" stop="20260421210500 +0000" channel="DAZN 2 HD.skyde">
     <title>Coppa Italia 25/26: Inter Mailand - Como 1907</title>
 </programme>
-<programme start="20260421210500 +0000" stop="20260421213000 +0000" channel="DAZN 2 HD.skyde">
-    <title>Let&#039;s go Ballin&#039;: Episode 2</title>
+<programme start="20260421210500 +0000" stop="20260421214000 +0000" channel="DAZN 2 HD.skyde">
+    <title>Let&#039;s go Ballin&#039;: Episode 4</title>
 </programme>
-<programme start="20260421213000 +0000" stop="20260421220000 +0000" channel="DAZN 2 HD.skyde">
+<programme start="20260421214000 +0000" stop="20260421220000 +0000" channel="DAZN 2 HD.skyde">
     <title>Best of DAZN: Highlights</title>
 </programme>
 <programme start="20260420225500 +0000" stop="20260420235500 +0000" channel="Heimatkanal.skyde">
@@ -3414,10 +3414,10 @@ Warning: Undefined array key "et" in /usr/home/ManusiaBiasa/domains/manusiabiasa
 <programme start="20260421033500 +0000" stop="20260421040000 +0000" channel="Warner TV Comedy HD.skyde">
     <title>Die Nanny</title>
 </programme>
-<programme start="20260421040000 +0000" stop="20260421042500 +0000" channel="Warner TV Comedy HD.skyde">
+<programme start="20260421040000 +0000" stop="20260421042000 +0000" channel="Warner TV Comedy HD.skyde">
     <title>Friends</title>
 </programme>
-<programme start="20260421042500 +0000" stop="20260421045000 +0000" channel="Warner TV Comedy HD.skyde">
+<programme start="20260421042000 +0000" stop="20260421045000 +0000" channel="Warner TV Comedy HD.skyde">
     <title>Friends</title>
 </programme>
 <programme start="20260421045000 +0000" stop="20260421051500 +0000" channel="Warner TV Comedy HD.skyde">
@@ -3444,55 +3444,55 @@ Warning: Undefined array key "et" in /usr/home/ManusiaBiasa/domains/manusiabiasa
 <programme start="20260421075000 +0000" stop="20260421081500 +0000" channel="Warner TV Comedy HD.skyde">
     <title>The Middle</title>
 </programme>
-<programme start="20260421081500 +0000" stop="20260421084000 +0000" channel="Warner TV Comedy HD.skyde">
+<programme start="20260421081500 +0000" stop="20260421083500 +0000" channel="Warner TV Comedy HD.skyde">
     <title>The Middle</title>
 </programme>
-<programme start="20260421084000 +0000" stop="20260421090500 +0000" channel="Warner TV Comedy HD.skyde">
+<programme start="20260421083500 +0000" stop="20260421090000 +0000" channel="Warner TV Comedy HD.skyde">
     <title>The Middle</title>
 </programme>
-<programme start="20260421090500 +0000" stop="20260421093000 +0000" channel="Warner TV Comedy HD.skyde">
+<programme start="20260421090000 +0000" stop="20260421092500 +0000" channel="Warner TV Comedy HD.skyde">
     <title>The Middle</title>
 </programme>
-<programme start="20260421093000 +0000" stop="20260421095500 +0000" channel="Warner TV Comedy HD.skyde">
+<programme start="20260421092500 +0000" stop="20260421095000 +0000" channel="Warner TV Comedy HD.skyde">
     <title>The Middle</title>
 </programme>
-<programme start="20260421095500 +0000" stop="20260421102000 +0000" channel="Warner TV Comedy HD.skyde">
+<programme start="20260421095000 +0000" stop="20260421101500 +0000" channel="Warner TV Comedy HD.skyde">
     <title>The Middle</title>
 </programme>
-<programme start="20260421102000 +0000" stop="20260421104500 +0000" channel="Warner TV Comedy HD.skyde">
+<programme start="20260421101500 +0000" stop="20260421104000 +0000" channel="Warner TV Comedy HD.skyde">
     <title>The Middle</title>
 </programme>
-<programme start="20260421104500 +0000" stop="20260421111000 +0000" channel="Warner TV Comedy HD.skyde">
+<programme start="20260421104000 +0000" stop="20260421110500 +0000" channel="Warner TV Comedy HD.skyde">
     <title>The Middle</title>
 </programme>
-<programme start="20260421111000 +0000" stop="20260421113500 +0000" channel="Warner TV Comedy HD.skyde">
+<programme start="20260421110500 +0000" stop="20260421113000 +0000" channel="Warner TV Comedy HD.skyde">
     <title>King of Queens</title>
 </programme>
-<programme start="20260421113500 +0000" stop="20260421120000 +0000" channel="Warner TV Comedy HD.skyde">
+<programme start="20260421113000 +0000" stop="20260421120000 +0000" channel="Warner TV Comedy HD.skyde">
     <title>King of Queens</title>
 </programme>
-<programme start="20260421120000 +0000" stop="20260421123000 +0000" channel="Warner TV Comedy HD.skyde">
+<programme start="20260421120000 +0000" stop="20260421122500 +0000" channel="Warner TV Comedy HD.skyde">
     <title>King of Queens</title>
 </programme>
-<programme start="20260421123000 +0000" stop="20260421125500 +0000" channel="Warner TV Comedy HD.skyde">
+<programme start="20260421122500 +0000" stop="20260421125000 +0000" channel="Warner TV Comedy HD.skyde">
     <title>King of Queens</title>
 </programme>
-<programme start="20260421125500 +0000" stop="20260421132000 +0000" channel="Warner TV Comedy HD.skyde">
+<programme start="20260421125000 +0000" stop="20260421131500 +0000" channel="Warner TV Comedy HD.skyde">
     <title>King of Queens</title>
 </programme>
-<programme start="20260421132000 +0000" stop="20260421134500 +0000" channel="Warner TV Comedy HD.skyde">
+<programme start="20260421131500 +0000" stop="20260421134500 +0000" channel="Warner TV Comedy HD.skyde">
     <title>King of Queens</title>
 </programme>
-<programme start="20260421134500 +0000" stop="20260421141500 +0000" channel="Warner TV Comedy HD.skyde">
+<programme start="20260421134500 +0000" stop="20260421141000 +0000" channel="Warner TV Comedy HD.skyde">
     <title>King of Queens</title>
 </programme>
-<programme start="20260421141500 +0000" stop="20260421144000 +0000" channel="Warner TV Comedy HD.skyde">
+<programme start="20260421141000 +0000" stop="20260421144000 +0000" channel="Warner TV Comedy HD.skyde">
     <title>King of Queens</title>
 </programme>
-<programme start="20260421144000 +0000" stop="20260421150500 +0000" channel="Warner TV Comedy HD.skyde">
+<programme start="20260421144000 +0000" stop="20260421150000 +0000" channel="Warner TV Comedy HD.skyde">
     <title>Two and a Half Men</title>
 </programme>
-<programme start="20260421150500 +0000" stop="20260421152500 +0000" channel="Warner TV Comedy HD.skyde">
+<programme start="20260421150000 +0000" stop="20260421152500 +0000" channel="Warner TV Comedy HD.skyde">
     <title>Two and a Half Men</title>
 </programme>
 <programme start="20260421152500 +0000" stop="20260421155000 +0000" channel="Warner TV Comedy HD.skyde">
@@ -3507,10 +3507,10 @@ Warning: Undefined array key "et" in /usr/home/ManusiaBiasa/domains/manusiabiasa
 <programme start="20260421164000 +0000" stop="20260421170500 +0000" channel="Warner TV Comedy HD.skyde">
     <title>The Big Bang Theory</title>
 </programme>
-<programme start="20260421170500 +0000" stop="20260421173000 +0000" channel="Warner TV Comedy HD.skyde">
+<programme start="20260421170500 +0000" stop="20260421172500 +0000" channel="Warner TV Comedy HD.skyde">
     <title>The Big Bang Theory</title>
 </programme>
-<programme start="20260421173000 +0000" stop="20260421175000 +0000" channel="Warner TV Comedy HD.skyde">
+<programme start="20260421172500 +0000" stop="20260421175000 +0000" channel="Warner TV Comedy HD.skyde">
     <title>The Big Bang Theory</title>
 </programme>
 <programme start="20260421175000 +0000" stop="20260421181500 +0000" channel="Warner TV Comedy HD.skyde">
@@ -3525,25 +3525,25 @@ Warning: Undefined array key "et" in /usr/home/ManusiaBiasa/domains/manusiabiasa
 <programme start="20260421190500 +0000" stop="20260421193000 +0000" channel="Warner TV Comedy HD.skyde">
     <title>Two and a Half Men</title>
 </programme>
-<programme start="20260421193000 +0000" stop="20260421195000 +0000" channel="Warner TV Comedy HD.skyde">
+<programme start="20260421193000 +0000" stop="20260421195500 +0000" channel="Warner TV Comedy HD.skyde">
     <title>2 Broke Girls</title>
 </programme>
-<programme start="20260421195000 +0000" stop="20260421201500 +0000" channel="Warner TV Comedy HD.skyde">
+<programme start="20260421195500 +0000" stop="20260421202000 +0000" channel="Warner TV Comedy HD.skyde">
     <title>2 Broke Girls</title>
 </programme>
-<programme start="20260421201500 +0000" stop="20260421204500 +0000" channel="Warner TV Comedy HD.skyde">
+<programme start="20260421202000 +0000" stop="20260421204500 +0000" channel="Warner TV Comedy HD.skyde">
     <title>Harley Quinn</title>
 </programme>
-<programme start="20260421204500 +0000" stop="20260421210500 +0000" channel="Warner TV Comedy HD.skyde">
+<programme start="20260421204500 +0000" stop="20260421211000 +0000" channel="Warner TV Comedy HD.skyde">
     <title>Harley Quinn</title>
 </programme>
-<programme start="20260421210500 +0000" stop="20260421213000 +0000" channel="Warner TV Comedy HD.skyde">
+<programme start="20260421211000 +0000" stop="20260421213000 +0000" channel="Warner TV Comedy HD.skyde">
     <title>American Dad</title>
 </programme>
 <programme start="20260421213000 +0000" stop="20260421215500 +0000" channel="Warner TV Comedy HD.skyde">
     <title>American Dad</title>
 </programme>
-<programme start="20260421215500 +0000" stop="20260421221500 +0000" channel="Warner TV Comedy HD.skyde">
+<programme start="20260421215500 +0000" stop="20260421222000 +0000" channel="Warner TV Comedy HD.skyde">
     <title>2 Broke Girls</title>
 </programme>
 <programme start="20260420222500 +0000" stop="20260421002500 +0000" channel="Warner TV Film.skyde">
@@ -3639,16 +3639,16 @@ Warning: Undefined array key "et" in /usr/home/ManusiaBiasa/domains/manusiabiasa
 <programme start="20260421031000 +0000" stop="20260421032500 +0000" channel="Warner TV Serie HD.skyde">
     <title>Robot Chicken</title>
 </programme>
-<programme start="20260421032500 +0000" stop="20260421042000 +0000" channel="Warner TV Serie HD.skyde">
+<programme start="20260421032500 +0000" stop="20260421041000 +0000" channel="Warner TV Serie HD.skyde">
     <title>Daktari</title>
 </programme>
-<programme start="20260421042000 +0000" stop="20260421051000 +0000" channel="Warner TV Serie HD.skyde">
+<programme start="20260421041000 +0000" stop="20260421051000 +0000" channel="Warner TV Serie HD.skyde">
     <title>Daktari</title>
 </programme>
-<programme start="20260421051000 +0000" stop="20260421060500 +0000" channel="Warner TV Serie HD.skyde">
+<programme start="20260421051000 +0000" stop="20260421060000 +0000" channel="Warner TV Serie HD.skyde">
     <title>Daktari</title>
 </programme>
-<programme start="20260421060500 +0000" stop="20260421065500 +0000" channel="Warner TV Serie HD.skyde">
+<programme start="20260421060000 +0000" stop="20260421065500 +0000" channel="Warner TV Serie HD.skyde">
     <title>Daktari</title>
 </programme>
 <programme start="20260421065500 +0000" stop="20260421074500 +0000" channel="Warner TV Serie HD.skyde">
@@ -3657,19 +3657,19 @@ Warning: Undefined array key "et" in /usr/home/ManusiaBiasa/domains/manusiabiasa
 <programme start="20260421074500 +0000" stop="20260421083500 +0000" channel="Warner TV Serie HD.skyde">
     <title>Mord ist ihr Hobby</title>
 </programme>
-<programme start="20260421083500 +0000" stop="20260421095000 +0000" channel="Warner TV Serie HD.skyde">
+<programme start="20260421083500 +0000" stop="20260421094500 +0000" channel="Warner TV Serie HD.skyde">
     <title>Mord ist ihr Hobby</title>
 </programme>
-<programme start="20260421095000 +0000" stop="20260421104000 +0000" channel="Warner TV Serie HD.skyde">
+<programme start="20260421094500 +0000" stop="20260421103500 +0000" channel="Warner TV Serie HD.skyde">
     <title>Mord ist ihr Hobby</title>
 </programme>
-<programme start="20260421104000 +0000" stop="20260421112500 +0000" channel="Warner TV Serie HD.skyde">
+<programme start="20260421103500 +0000" stop="20260421112500 +0000" channel="Warner TV Serie HD.skyde">
     <title>Rizzoli and Isles</title>
 </programme>
-<programme start="20260421112500 +0000" stop="20260421121000 +0000" channel="Warner TV Serie HD.skyde">
+<programme start="20260421112500 +0000" stop="20260421120500 +0000" channel="Warner TV Serie HD.skyde">
     <title>Rizzoli and Isles</title>
 </programme>
-<programme start="20260421121000 +0000" stop="20260421125500 +0000" channel="Warner TV Serie HD.skyde">
+<programme start="20260421120500 +0000" stop="20260421125500 +0000" channel="Warner TV Serie HD.skyde">
     <title>NCIS</title>
 </programme>
 <programme start="20260421125500 +0000" stop="20260421134000 +0000" channel="Warner TV Serie HD.skyde">
