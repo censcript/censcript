@@ -2616,7 +2616,7 @@ Warning: Undefined array key "et" in /usr/home/ManusiaBiasa/domains/manusiabiasa
 <programme start="20260421181500 +0000" stop="20260421203000 +0000" channel="Sky Sport Austria 2 HD.skyde">
     <title>Live Admiral BL: SV Oberbank Ried - Grazer AK 1902, 28. Runde</title>
 </programme>
-<programme start="20260421203000 +0000" stop="20260421213000 +0000" channel="Sky Sport Austria 2 HD.skyde">
+<programme start="20260421203000 +0000" stop="20260421220000 +0000" channel="Sky Sport Austria 2 HD.skyde">
     <title>Live Admiral BL: Alle Spiele, alle Tore 28. Runde (Dienstag)</title>
 </programme>
 <programme start="20260421160000 +0000" stop="20260421162000 +0000" channel="Sky Sport Austria 3 HD.skyde">
@@ -2706,6 +2706,9 @@ Warning: Undefined array key "et" in /usr/home/ManusiaBiasa/domains/manusiabiasa
 <programme start="20260421163000 +0000" stop="20260421164500 +0000" channel="Sky Sport Bundesliga HD.skyde">
     <title>BL: Dein Spieltags-Sprint (30)</title>
 </programme>
+<programme start="20260421164500 +0000" stop="20260421170000 +0000" channel="Sky Sport Bundesliga HD.skyde">
+    <title>Sky Sport News: Pionierin in Europa - Marie-Louise Eta Exklusiv</title>
+</programme>
 <programme start="20260421170000 +0000" stop="20260421190000 +0000" channel="Sky Sport Bundesliga HD.skyde">
     <title>BL: Sky Sport Fantasy: STP - KOE, 30. Spieltag</title>
 </programme>
@@ -2716,19 +2719,19 @@ Warning: Undefined array key "et" in /usr/home/ManusiaBiasa/domains/manusiabiasa
     <title>BL Kompakt: 30. Spieltag</title>
 </programme>
 <programme start="20260420233000 +0000" stop="20260421013000 +0000" channel="Sky Sport Bundesliga UHD.skyde">
-    <title>BL: Eintracht Frankfurt - RB Leipzig, tipico Topspiel der Woche, 30. Spieltag</title>
+    <title>BL: FC St. Pauli - 1. FC Köln, Flutlicht-Freitag, 30. Spieltag</title>
 </programme>
 <programme start="20260420233000 +0000" stop="20260421013000 +0000" channel="Sky Sport Bundesliga UHD.skyde">
-    <title>BL: FC St. Pauli - 1. FC Köln, Flutlicht-Freitag, 30. Spieltag</title>
+    <title>BL: Eintracht Frankfurt - RB Leipzig, tipico Topspiel der Woche, 30. Spieltag</title>
 </programme>
 <programme start="20260421013000 +0000" stop="20260421033000 +0000" channel="Sky Sport Bundesliga UHD.skyde">
     <title>BL: Werder Bremen - Hamburger SV, 30. Spieltag</title>
 </programme>
 <programme start="20260421033000 +0000" stop="20260421053000 +0000" channel="Sky Sport Bundesliga UHD.skyde">
-    <title>BL: FC St. Pauli - 1. FC Köln, Flutlicht-Freitag, 30. Spieltag</title>
+    <title>BL: Eintracht Frankfurt - RB Leipzig, tipico Topspiel der Woche, 30. Spieltag</title>
 </programme>
 <programme start="20260421033000 +0000" stop="20260421053000 +0000" channel="Sky Sport Bundesliga UHD.skyde">
-    <title>BL: Eintracht Frankfurt - RB Leipzig, tipico Topspiel der Woche, 30. Spieltag</title>
+    <title>BL: FC St. Pauli - 1. FC Köln, Flutlicht-Freitag, 30. Spieltag</title>
 </programme>
 <programme start="20260421053000 +0000" stop="20260421073000 +0000" channel="Sky Sport Bundesliga UHD.skyde">
     <title>2. BL: Hannover 96 - SC Paderborn 07, tipico Topspiel der Woche, 30. Spieltag</title>
