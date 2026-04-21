@@ -3908,7 +3908,7 @@
         <title>News &amp; Weather</title>
     </programme>
     <programme start="20260421010500 +0000" stop="20260421015000 +0000" channel="NHK World Premium HD.starhub">
-        <title>Tsurube&#039;s Salute to Families&quot;Shiraishi Sei in Nagoya City,Aichi Prefecture&quot;Part</title>
+        <title>Tsurube&#039;s Salute to Families&quot;Shiraishi Sei in Nagoya City,Aichi Prefecture&quot;Part 2(R)</title>
     </programme>
     <programme start="20260421015000 +0000" stop="20260421021700 +0000" channel="NHK World Premium HD.starhub">
         <title>Today&#039;s Close-up (R)</title>
@@ -8314,7 +8314,10 @@
     <programme start="20260421093000 +0000" stop="20260421100000 +0000" channel="SPOTV2.starhub">
         <title>Ep1</title>
     </programme>
-    <programme start="20260421100000 +0000" stop="20260421133000 +0000" channel="SPOTV2.starhub">
+    <programme start="20260421100000 +0000" stop="20260421103000 +0000" channel="SPOTV2.starhub">
+        <title>2025/26 ALM Mini Match Rd 24 Auckland FC vs Melbourne Victory</title>
+    </programme>
+    <programme start="20260421103000 +0000" stop="20260421133000 +0000" channel="SPOTV2.starhub">
         <title>Grand Prix of Mexico City</title>
     </programme>
     <programme start="20260421133000 +0000" stop="20260421153500 +0000" channel="SPOTV2.starhub">
@@ -8386,7 +8389,7 @@
     <programme start="20260421143000 +0000" stop="20260421150000 +0000" channel="Dragon TV.starhub">
         <title>CARE ON THE WAY</title>
     </programme>
-    <programme start="20260421150000 +0000" stop="20260421160000 +0000" channel="Dragon TV.starhub">
+    <programme start="20260421150000 +0000" stop="20260421170000 +0000" channel="Dragon TV.starhub">
         <title>the city of musicals</title>
     </programme>
     <programme start="20260420160000 +0000" stop="20260420163000 +0000" channel="Travelxp HD.starhub">

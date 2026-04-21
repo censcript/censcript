@@ -5398,7 +5398,7 @@
     <episode-num system="onscreen">S1E189</episode-num>
   </programme>
   <programme start="20260420173000 +0000" stop="20260420180000 +0000" channel="unknown.unifitv">
-    <title lang="en">Parijatham</title>
+    <title lang="en">Parijadam</title>
     <desc lang="en">After losing her parents and hearing in a tragic accident, Isai is forced to marry Vishal when her aunt Rukmini manipulates her horoscope to meet Subadra's strict astrological beliefs.</desc>
     <category lang="en">Romance</category>
     <episode-num system="xmltv_ns">0.180.</episode-num>
@@ -5496,9 +5496,9 @@
     <episode-num system="onscreen">S1E8</episode-num>
   </programme>
   <programme start="20260421003000 +0000" stop="20260421030000 +0000" channel="unknown.unifitv">
-    <title lang="en">Sindhubaadh</title>
+    <title lang="en">MOVIES-Sindhubaadh</title>
     <desc lang="en">Thiru, a deaf crook, falls for Venba. She's sold into the skin trade, so Thiru travels to Thailand to rescue her, battling gangsters and saving others.</desc>
-    <category lang="en">Movies</category>
+    <category lang="en">Entertainment</category>
   </programme>
   <programme start="20260421030000 +0000" stop="20260421033000 +0000" channel="unknown.unifitv">
     <title lang="en">Vaagai Sooda Vaa</title>
@@ -5550,9 +5550,9 @@
     <episode-num system="onscreen">S1E128</episode-num>
   </programme>
   <programme start="20260421063000 +0000" stop="20260421093000 +0000" channel="unknown.unifitv">
-    <title lang="en">Bhajarangi 2</title>
+    <title lang="en">MOVIES-Bhajarangi 2</title>
     <desc lang="en">A ruthless drug lord named Araka enslaves villagers to make drugs. When a forest officer uncovers the crime, he risks everything to rescue them and destroy the operation.</desc>
-    <category lang="en">Movies</category>
+    <category lang="en">Entertainment</category>
   </programme>
   <programme start="20260421093000 +0000" stop="20260421100000 +0000" channel="unknown.unifitv">
     <title lang="en">KCKC - Guna 369</title>
@@ -5597,7 +5597,7 @@
     <episode-num system="onscreen">S1E123</episode-num>
   </programme>
   <programme start="20260421123000 +0000" stop="20260421130000 +0000" channel="unknown.unifitv">
-    <title lang="en">Parijatham</title>
+    <title lang="en">Parijadam</title>
     <desc lang="en">After losing her parents and hearing in a tragic accident, Isai is forced to marry Vishal when her aunt Rukmini manipulates her horoscope to meet Subadra's strict astrological beliefs.</desc>
     <category lang="en">Romance</category>
     <episode-num system="xmltv_ns">0.184.</episode-num>
@@ -5678,32 +5678,32 @@
   <programme start="20260421010000 +0000" stop="20260421040000 +0000" channel="zeecinemahd.unifitv">
     <title lang="en">The Xpose</title>
     <desc lang="en">Rival actresses Zara and Chandni clash publicly. When Zara is found dead, Chandni becomes the main suspect until journalist Ravi tries to uncover the shocking truth.</desc>
-    <category lang="en">Thriller</category>
+    <category lang="en">Entertaiment</category>
   </programme>
   <programme start="20260421040000 +0000" stop="20260421070000 +0000" channel="zeecinemahd.unifitv">
-    <title lang="en">Alone</title>
-    <desc lang="en">Two twin sisters who lived by one promise - 'We will always be together. We will never separate'. Later, the ghost of dead haunt the surviving sister.</desc>
-    <category lang="en">Horror</category>
+    <title lang="en">Spyder</title>
+    <desc lang="en">An intelligence officer uses a tracking app to follow a serial killer's trail, relying on technology, courage, and quick thinking to protect the city from terror.</desc>
+    <category lang="en">Entertaiment</category>
   </programme>
   <programme start="20260421070000 +0000" stop="20260421100000 +0000" channel="zeecinemahd.unifitv">
-    <title lang="en">Insaaf Ki Jung</title>
-    <desc lang="en">Nyaykumar and his wife Pooja are law graduates who firmly believe in honesty. But, there comes a time when Nyaykumar strays from the path of righteousness and falls for the entrapments of easy money.</desc>
-    <category lang="en">Action</category>
+    <title lang="en">Kites</title>
+    <desc lang="en">Wounded and hunted, a man crosses the desert to reunite with his beloved, evading police and killers while clinging to hope for a peaceful life together.</desc>
+    <category lang="en">Entertaiment</category>
   </programme>
   <programme start="20260421100000 +0000" stop="20260421130000 +0000" channel="zeecinemahd.unifitv">
     <title lang="en">Entertainment</title>
     <desc lang="en">Akhil Akshay Kumar finds out that he is the heir of 300 million. However, his life goes Topsy-turvy when he learns that the empire goes to Entertainment a dog. 2014.</desc>
-    <category lang="en">Comedy</category>
+    <category lang="en">Entertaiment</category>
   </programme>
   <programme start="20260421130000 +0000" stop="20260421160000 +0000" channel="zeecinemahd.unifitv">
     <title lang="en">1920 London</title>
     <desc lang="en">After her husband becomes possessed by an evil spirit, a noble woman turns to her former lover to perform an exorcism.</desc>
-    <category lang="en">Horror</category>
+    <category lang="en">Entertaiment</category>
   </programme>
   <programme start="20260421160000 +0000" stop="20260421190000 +0000" channel="zeecinemahd.unifitv">
     <title lang="en">Salaam Venky</title>
-    <desc lang="en">Venky suffers from a rare type of muscular dystrophy and wants to donate his organs. With his mother's support, he petitions for legalising euthanasia. Will his wish be granted in the court of law?</desc>
-    <category lang="en">Family</category>
+    <desc lang="en">Venky suffers from a rare type of muscular dystrophy and wants to donate his organs. With his mEntertaiment's support, he petitions for legalising euthanasia. Will his wish be granted in the court of law?</desc>
+    <category lang="en">Entertaiment</category>
   </programme>
   <channel id="hbohd.unifitv">
     <display-name>HBO</display-name>

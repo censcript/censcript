@@ -166,11 +166,8 @@
 <programme start="20260421083000 +0000" stop="20260421090000 +0000" channel="Al Jazeera English.mncvision">
     <title>Talk To Al Jazeera: Bryan Clark</title>
 </programme>
-<programme start="20260421090000 +0000" stop="20260421093000 +0000" channel="Al Jazeera English.mncvision">
-    <title>News (L)</title>
-</programme>
-<programme start="20260421093000 +0000" stop="20260421100000 +0000" channel="Al Jazeera English.mncvision">
-    <title>Witness</title>
+<programme start="20260421090000 +0000" stop="20260421100000 +0000" channel="Al Jazeera English.mncvision">
+    <title>NewsHour</title>
 </programme>
 <programme start="20260421100000 +0000" stop="20260421110000 +0000" channel="Al Jazeera English.mncvision">
     <title>NewsHour</title>
@@ -182,7 +179,7 @@
     <title>Inside Story</title>
 </programme>
 <programme start="20260421120000 +0000" stop="20260421130000 +0000" channel="Al Jazeera English.mncvision">
-    <title>Witness: No Place Like Home</title>
+    <title>NewsHour</title>
 </programme>
 <programme start="20260421130000 +0000" stop="20260421140000 +0000" channel="Al Jazeera English.mncvision">
     <title>NewsHour</title>
