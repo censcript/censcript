@@ -7645,49 +7645,49 @@
 <programme start="20260421210600 +0000" stop="20260421213000 +0000" channel="SCTV.mncvision">
     <title>Barakallah</title>
 </programme>
-<programme start="20260421213000 +0000" stop="20260421220000 +0000" channel="SCTV.mncvision">
+<programme start="20260421213000 +0000" stop="20260421215400 +0000" channel="SCTV.mncvision">
     <title>Buser</title>
 </programme>
-<programme start="20260421220000 +0000" stop="20260421230000 +0000" channel="SCTV.mncvision">
+<programme start="20260421215400 +0000" stop="20260421230000 +0000" channel="SCTV.mncvision">
     <title>Liputan 6 Pagi (L)</title>
 </programme>
-<programme start="20260421230000 +0000" stop="20260422000000 +0000" channel="SCTV.mncvision">
+<programme start="20260421230000 +0000" stop="20260422000800 +0000" channel="SCTV.mncvision">
     <title>Hot Shot</title>
 </programme>
-<programme start="20260422000000 +0000" stop="20260422010000 +0000" channel="SCTV.mncvision">
+<programme start="20260422000800 +0000" stop="20260422010200 +0000" channel="SCTV.mncvision">
     <title>Tiba-Tiba Kuis</title>
 </programme>
-<programme start="20260422010000 +0000" stop="20260422030000 +0000" channel="SCTV.mncvision">
-    <title>Rebut Pacar Sahabat? Asiaaap!</title>
+<programme start="20260422010200 +0000" stop="20260422024800 +0000" channel="SCTV.mncvision">
+    <title>Kukira Cupu Ternyata Penghulu</title>
 </programme>
-<programme start="20260422030000 +0000" stop="20260422050000 +0000" channel="SCTV.mncvision">
-    <title>Hampir Kena Ulti Ayang</title>
+<programme start="20260422024800 +0000" stop="20260422044600 +0000" channel="SCTV.mncvision">
+    <title>Panggilan Cintanya Diangkat...</title>
 </programme>
-<programme start="20260422050000 +0000" stop="20260422053000 +0000" channel="SCTV.mncvision">
+<programme start="20260422044600 +0000" stop="20260422052200 +0000" channel="SCTV.mncvision">
     <title>Liputan 6 Siang (L)</title>
 </programme>
-<programme start="20260422053000 +0000" stop="20260422070000 +0000" channel="SCTV.mncvision">
+<programme start="20260422052200 +0000" stop="20260422065500 +0000" channel="SCTV.mncvision">
     <title>Runaway Demi Cinta</title>
 </programme>
-<programme start="20260422070000 +0000" stop="20260422084500 +0000" channel="SCTV.mncvision">
+<programme start="20260422065500 +0000" stop="20260422082800 +0000" channel="SCTV.mncvision">
     <title>Wanted: Abang Duda Sempurna</title>
 </programme>
-<programme start="20260422084500 +0000" stop="20260422100000 +0000" channel="SCTV.mncvision">
+<programme start="20260422082800 +0000" stop="20260422100000 +0000" channel="SCTV.mncvision">
     <title>I Love You 1 Miliar Dibayar...</title>
 </programme>
-<programme start="20260422100000 +0000" stop="20260422111500 +0000" channel="SCTV.mncvision">
+<programme start="20260422100000 +0000" stop="20260422112700 +0000" channel="SCTV.mncvision">
     <title>Asmara Gen Z</title>
 </programme>
-<programme start="20260422111500 +0000" stop="20260422130000 +0000" channel="SCTV.mncvision">
+<programme start="20260422112700 +0000" stop="20260422131100 +0000" channel="SCTV.mncvision">
     <title>Istiqomah Cinta</title>
 </programme>
-<programme start="20260422130000 +0000" stop="20260422143000 +0000" channel="SCTV.mncvision">
+<programme start="20260422131100 +0000" stop="20260422143500 +0000" channel="SCTV.mncvision">
     <title>Beri Cinta Waktu</title>
 </programme>
-<programme start="20260422143000 +0000" stop="20260422160000 +0000" channel="SCTV.mncvision">
+<programme start="20260422143500 +0000" stop="20260422160300 +0000" channel="SCTV.mncvision">
     <title>Jejak Duka Diandra</title>
 </programme>
-<programme start="20260422160000 +0000" stop="20260422163000 +0000" channel="SCTV.mncvision">
+<programme start="20260422160300 +0000" stop="20260422163300 +0000" channel="SCTV.mncvision">
     <title>Preman Sadis Jadi Romantis</title>
 </programme>
 <programme start="20260421170400 +0000" stop="20260421182700 +0000" channel="SCTV HD.mncvision">
@@ -7702,49 +7702,49 @@
 <programme start="20260421210600 +0000" stop="20260421213000 +0000" channel="SCTV HD.mncvision">
     <title>Barakallah</title>
 </programme>
-<programme start="20260421213000 +0000" stop="20260421220000 +0000" channel="SCTV HD.mncvision">
+<programme start="20260421213000 +0000" stop="20260421215400 +0000" channel="SCTV HD.mncvision">
     <title>Buser</title>
 </programme>
-<programme start="20260421220000 +0000" stop="20260421230000 +0000" channel="SCTV HD.mncvision">
+<programme start="20260421215400 +0000" stop="20260421230000 +0000" channel="SCTV HD.mncvision">
     <title>Liputan 6 Pagi (L)</title>
 </programme>
-<programme start="20260421230000 +0000" stop="20260422000000 +0000" channel="SCTV HD.mncvision">
+<programme start="20260421230000 +0000" stop="20260422000800 +0000" channel="SCTV HD.mncvision">
     <title>Hot Shot</title>
 </programme>
-<programme start="20260422000000 +0000" stop="20260422010000 +0000" channel="SCTV HD.mncvision">
+<programme start="20260422000800 +0000" stop="20260422010200 +0000" channel="SCTV HD.mncvision">
     <title>Tiba-Tiba Kuis</title>
 </programme>
-<programme start="20260422010000 +0000" stop="20260422030000 +0000" channel="SCTV HD.mncvision">
-    <title>Rebut Pacar Sahabat? Asiaaap!</title>
+<programme start="20260422010200 +0000" stop="20260422024800 +0000" channel="SCTV HD.mncvision">
+    <title>Kukira Cupu Ternyata Penghulu</title>
 </programme>
-<programme start="20260422030000 +0000" stop="20260422050000 +0000" channel="SCTV HD.mncvision">
-    <title>Hampir Kena Ulti Ayang</title>
+<programme start="20260422024800 +0000" stop="20260422044600 +0000" channel="SCTV HD.mncvision">
+    <title>Panggilan Cintanya Diangkat...</title>
 </programme>
-<programme start="20260422050000 +0000" stop="20260422053000 +0000" channel="SCTV HD.mncvision">
+<programme start="20260422044600 +0000" stop="20260422052200 +0000" channel="SCTV HD.mncvision">
     <title>Liputan 6 Siang (L)</title>
 </programme>
-<programme start="20260422053000 +0000" stop="20260422070000 +0000" channel="SCTV HD.mncvision">
+<programme start="20260422052200 +0000" stop="20260422065500 +0000" channel="SCTV HD.mncvision">
     <title>Runaway Demi Cinta</title>
 </programme>
-<programme start="20260422070000 +0000" stop="20260422084500 +0000" channel="SCTV HD.mncvision">
+<programme start="20260422065500 +0000" stop="20260422082800 +0000" channel="SCTV HD.mncvision">
     <title>Wanted: Abang Duda Sempurna</title>
 </programme>
-<programme start="20260422084500 +0000" stop="20260422100000 +0000" channel="SCTV HD.mncvision">
+<programme start="20260422082800 +0000" stop="20260422100000 +0000" channel="SCTV HD.mncvision">
     <title>I Love You 1 Miliar Dibayar...</title>
 </programme>
-<programme start="20260422100000 +0000" stop="20260422111500 +0000" channel="SCTV HD.mncvision">
+<programme start="20260422100000 +0000" stop="20260422112700 +0000" channel="SCTV HD.mncvision">
     <title>Asmara Gen Z</title>
 </programme>
-<programme start="20260422111500 +0000" stop="20260422130000 +0000" channel="SCTV HD.mncvision">
+<programme start="20260422112700 +0000" stop="20260422131100 +0000" channel="SCTV HD.mncvision">
     <title>Istiqomah Cinta</title>
 </programme>
-<programme start="20260422130000 +0000" stop="20260422143000 +0000" channel="SCTV HD.mncvision">
+<programme start="20260422131100 +0000" stop="20260422143500 +0000" channel="SCTV HD.mncvision">
     <title>Beri Cinta Waktu</title>
 </programme>
-<programme start="20260422143000 +0000" stop="20260422160000 +0000" channel="SCTV HD.mncvision">
+<programme start="20260422143500 +0000" stop="20260422160300 +0000" channel="SCTV HD.mncvision">
     <title>Jejak Duka Diandra</title>
 </programme>
-<programme start="20260422160000 +0000" stop="20260422163000 +0000" channel="SCTV HD.mncvision">
+<programme start="20260422160300 +0000" stop="20260422163300 +0000" channel="SCTV HD.mncvision">
     <title>Preman Sadis Jadi Romantis</title>
 </programme>
 <programme start="20260421170000 +0000" stop="20260421180000 +0000" channel="Sindo News TV.mncvision">

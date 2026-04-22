@@ -2568,13 +2568,13 @@ Warning: Undefined array key "et" in /usr/home/ManusiaBiasa/domains/manusiabiasa
 <programme start="20260422181500 +0000" stop="20260422203000 +0000" channel="Sky Sport Austria 2 HD.skyde">
     <title>Live Admiral BL: SK Puntigamer Sturm Graz - LASK, 28. Runde</title>
 </programme>
-<programme start="20260422203000 +0000" stop="20260422220000 +0000" channel="Sky Sport Austria 2 HD.skyde">
+<programme start="20260422203000 +0000" stop="20260422213000 +0000" channel="Sky Sport Austria 2 HD.skyde">
     <title>Live Admiral BL: Alle Spiele, alle Tore 28. Runde (Mittwoch)</title>
 </programme>
 <programme start="20260422160000 +0000" stop="20260422162000 +0000" channel="Sky Sport Austria 3 HD.skyde">
     <title>Es folgt: Live Admiral Bundesliga</title>
 </programme>
-<programme start="20260422162000 +0000" stop="20260422191500 +0000" channel="Sky Sport Austria 3 HD.skyde">
+<programme start="20260422162000 +0000" stop="20260422184500 +0000" channel="Sky Sport Austria 3 HD.skyde">
     <title>Live Admiral BL: FC Red Bull Salzburg - FK Austria Wien, 28. Runde</title>
 </programme>
 <programme start="20260422160000 +0000" stop="20260422162000 +0000" channel="Sky Sport Austria 4 HD.skyde">
@@ -2814,23 +2814,29 @@ Warning: Undefined array key "et" in /usr/home/ManusiaBiasa/domains/manusiabiasa
 <programme start="20260421223000 +0000" stop="20260421233000 +0000" channel="Sky Sport Mix HD.skyde">
     <title>NHL: Tonight - Playoff Edition</title>
 </programme>
-<programme start="20260421233000 +0000" stop="20260422024000 +0000" channel="Sky Sport Mix HD.skyde">
+<programme start="20260421233000 +0000" stop="20260422023000 +0000" channel="Sky Sport Mix HD.skyde">
     <title>Live NHL: Boston Bruins @ Buffalo Sabres, Playoffs, 1. Runde, Spiel 2</title>
 </programme>
-<programme start="20260422024000 +0000" stop="20260422052000 +0000" channel="Sky Sport Mix HD.skyde">
+<programme start="20260422023000 +0000" stop="20260422050000 +0000" channel="Sky Sport Mix HD.skyde">
     <title>Live NBA: Houston Rockets @ LA Lakers, Playoffs, Runde 1, Spiel 2</title>
 </programme>
-<programme start="20260422052000 +0000" stop="20260422061000 +0000" channel="Sky Sport Mix HD.skyde">
+<programme start="20260422050000 +0000" stop="20260422053000 +0000" channel="Sky Sport Mix HD.skyde">
     <title>Live NBA: Showtime - Post Show</title>
 </programme>
-<programme start="20260422061000 +0000" stop="20260422081500 +0000" channel="Sky Sport Mix HD.skyde">
+<programme start="20260422053000 +0000" stop="20260422073000 +0000" channel="Sky Sport Mix HD.skyde">
     <title>NHL: Boston Bruins @ Buffalo Sabres, Playoffs, 1. Runde, Spiel 2</title>
 </programme>
-<programme start="20260422081500 +0000" stop="20260422104500 +0000" channel="Sky Sport Mix HD.skyde">
+<programme start="20260422073000 +0000" stop="20260422100000 +0000" channel="Sky Sport Mix HD.skyde">
     <title>NBA: Philadelphia 76ers @ Boston Celtics, Playoffs, Runde 1, Spiel 2</title>
 </programme>
-<programme start="20260422104500 +0000" stop="20260422110000 +0000" channel="Sky Sport Mix HD.skyde">
+<programme start="20260422100000 +0000" stop="20260422101500 +0000" channel="Sky Sport Mix HD.skyde">
     <title>NHL: Highlights BOS@BUF, Playoffs, 1. Runde, Spiel 2</title>
+</programme>
+<programme start="20260422101500 +0000" stop="20260422103000 +0000" channel="Sky Sport Mix HD.skyde">
+    <title>NHL: Highlights UTA@VGK, Playoffs, 1. Runde, Spiel 2</title>
+</programme>
+<programme start="20260422103000 +0000" stop="20260422113000 +0000" channel="Sky Sport Mix HD.skyde">
+    <title>3. Liga: Alle Spiele, alle Tore, 34. Spieltag komplett</title>
 </programme>
 <programme start="20260422113000 +0000" stop="20260422123000 +0000" channel="Sky Sport Mix HD.skyde">
     <title>NHL: Tonight - Playoff Edition</title>
@@ -2989,7 +2995,7 @@ Warning: Undefined array key "et" in /usr/home/ManusiaBiasa/domains/manusiabiasa
     <title>ATP: This Week</title>
 </programme>
 <programme start="20260422023000 +0000" stop="20260422043000 +0000" channel="Sky Sport Tennis HD.skyde">
-    <title>WTA 1000: L. Siegemund (GER) - I.-C. Begu (ROM), Mutua Madrid Open in Madrid (ESP), 1. Tag</title>
+    <title>WTA 1000: L. Siegemund (GER) - I. Begu (ROM), Mutua Madrid Open in Madrid (ESP), 1. Tag</title>
 </programme>
 <programme start="20260422043000 +0000" stop="20260422050000 +0000" channel="Sky Sport Tennis HD.skyde">
     <title>ATP: This Week</title>
@@ -3001,7 +3007,7 @@ Warning: Undefined array key "et" in /usr/home/ManusiaBiasa/domains/manusiabiasa
     <title>WTA: All Access Magazine Show</title>
 </programme>
 <programme start="20260422063000 +0000" stop="20260422083000 +0000" channel="Sky Sport Tennis HD.skyde">
-    <title>WTA 1000: L. Siegemund (GER) - I.-C. Begu (ROM), Mutua Madrid Open in Madrid (ESP), 1. Tag</title>
+    <title>WTA 1000: L. Siegemund (GER) - I. Begu (ROM), Mutua Madrid Open in Madrid (ESP), 1. Tag</title>
 </programme>
 <programme start="20260422083000 +0000" stop="20260422090000 +0000" channel="Sky Sport Tennis HD.skyde">
     <title>ATP: This Week</title>
