@@ -1659,100 +1659,91 @@ Warning: Undefined array key "et" in /usr/home/ManusiaBiasa/domains/manusiabiasa
 <programme start="20260422212000 +0000" stop="20260422221000 +0000" channel="Romance TV HD.skyde">
     <title>Lena Lorenz</title>
 </programme>
-<programme start="20260422221000 +0000" stop="20260422230500 +0000" channel="Sky Atlantic HD.skyde">
-    <title>Domina</title>
+<programme start="20260421225500 +0000" stop="20260422000500 +0000" channel="Sky Atlantic HD.skyde">
+    <title>House of the Dragon</title>
 </programme>
-<programme start="20260422230500 +0000" stop="20260422235500 +0000" channel="Sky Atlantic HD.skyde">
-    <title>Domina</title>
+<programme start="20260422000500 +0000" stop="20260422002000 +0000" channel="Sky Atlantic HD.skyde">
+    <title>Bonusmaterial Domina - Die Schauspieler</title>
 </programme>
-<programme start="20260422235500 +0000" stop="20260423000500 +0000" channel="Sky Atlantic HD.skyde">
-    <title>Featurette: Victor Aguillar: The Making of a Henchman</title>
-</programme>
-<programme start="20260423000500 +0000" stop="20260423004500 +0000" channel="Sky Atlantic HD.skyde">
+<programme start="20260422002000 +0000" stop="20260422010000 +0000" channel="Sky Atlantic HD.skyde">
     <title>Blue Bloods - Crime Scene New York</title>
 </programme>
-<programme start="20260423004500 +0000" stop="20260423012500 +0000" channel="Sky Atlantic HD.skyde">
+<programme start="20260422010000 +0000" stop="20260422014000 +0000" channel="Sky Atlantic HD.skyde">
     <title>Blue Bloods - Crime Scene New York</title>
 </programme>
-<programme start="20260423012500 +0000" stop="20260423020500 +0000" channel="Sky Atlantic HD.skyde">
+<programme start="20260422014000 +0000" stop="20260422022000 +0000" channel="Sky Atlantic HD.skyde">
     <title>Blue Bloods - Crime Scene New York</title>
 </programme>
-<programme start="20260423020500 +0000" stop="20260423024500 +0000" channel="Sky Atlantic HD.skyde">
+<programme start="20260422022000 +0000" stop="20260422030000 +0000" channel="Sky Atlantic HD.skyde">
     <title>Blue Bloods - Crime Scene New York</title>
 </programme>
-<programme start="20260423024500 +0000" stop="20260423032000 +0000" channel="Sky Atlantic HD.skyde">
+<programme start="20260422030000 +0000" stop="20260422033000 +0000" channel="Sky Atlantic HD.skyde">
     <title>The Chair Company</title>
 </programme>
-<programme start="20260423032000 +0000" stop="20260423035000 +0000" channel="Sky Atlantic HD.skyde">
+<programme start="20260422033000 +0000" stop="20260422035500 +0000" channel="Sky Atlantic HD.skyde">
     <title>The Chair Company</title>
 </programme>
-<programme start="20260423035000 +0000" stop="20260423044500 +0000" channel="Sky Atlantic HD.skyde">
-    <title>The Idol</title>
+<programme start="20260422035500 +0000" stop="20260422043000 +0000" channel="Sky Atlantic HD.skyde">
+    <title>The Chair Company</title>
 </programme>
-<programme start="20260423044500 +0000" stop="20260423051500 +0000" channel="Sky Atlantic HD.skyde">
-    <title>I Love LA</title>
+<programme start="20260422043000 +0000" stop="20260422051000 +0000" channel="Sky Atlantic HD.skyde">
+    <title>The Chair Company</title>
 </programme>
-<programme start="20260423051500 +0000" stop="20260423055000 +0000" channel="Sky Atlantic HD.skyde">
-    <title>I Love LA</title>
+<programme start="20260422051000 +0000" stop="20260422055500 +0000" channel="Sky Atlantic HD.skyde">
+    <title>The Time Traveler&#039;s Wife</title>
 </programme>
-<programme start="20260423055000 +0000" stop="20260423062000 +0000" channel="Sky Atlantic HD.skyde">
-    <title>I Love LA</title>
+<programme start="20260422055500 +0000" stop="20260422065000 +0000" channel="Sky Atlantic HD.skyde">
+    <title>The Time Traveler&#039;s Wife</title>
 </programme>
-<programme start="20260423062000 +0000" stop="20260423065000 +0000" channel="Sky Atlantic HD.skyde">
-    <title>I Love LA</title>
-</programme>
-<programme start="20260423065000 +0000" stop="20260423075500 +0000" channel="Sky Atlantic HD.skyde">
+<programme start="20260422065000 +0000" stop="20260422075500 +0000" channel="Sky Atlantic HD.skyde">
     <title>Industry</title>
 </programme>
-<programme start="20260423075500 +0000" stop="20260423085500 +0000" channel="Sky Atlantic HD.skyde">
+<programme start="20260422075500 +0000" stop="20260422085500 +0000" channel="Sky Atlantic HD.skyde">
     <title>Industry</title>
 </programme>
-<programme start="20260423085500 +0000" stop="20260423094000 +0000" channel="Sky Atlantic HD.skyde">
+<programme start="20260422085500 +0000" stop="20260422094000 +0000" channel="Sky Atlantic HD.skyde">
     <title>The Good Doctor</title>
 </programme>
-<programme start="20260423094000 +0000" stop="20260423103000 +0000" channel="Sky Atlantic HD.skyde">
+<programme start="20260422094000 +0000" stop="20260422103000 +0000" channel="Sky Atlantic HD.skyde">
     <title>The Good Doctor</title>
 </programme>
-<programme start="20260423103000 +0000" stop="20260423111500 +0000" channel="Sky Atlantic HD.skyde">
+<programme start="20260422103000 +0000" stop="20260422111500 +0000" channel="Sky Atlantic HD.skyde">
     <title>The Good Doctor</title>
 </programme>
-<programme start="20260423111500 +0000" stop="20260423120000 +0000" channel="Sky Atlantic HD.skyde">
+<programme start="20260422111500 +0000" stop="20260422120000 +0000" channel="Sky Atlantic HD.skyde">
     <title>Blue Bloods - Crime Scene New York</title>
 </programme>
-<programme start="20260423120000 +0000" stop="20260423124500 +0000" channel="Sky Atlantic HD.skyde">
+<programme start="20260422120000 +0000" stop="20260422124500 +0000" channel="Sky Atlantic HD.skyde">
     <title>Blue Bloods - Crime Scene New York</title>
 </programme>
-<programme start="20260423124500 +0000" stop="20260423133000 +0000" channel="Sky Atlantic HD.skyde">
+<programme start="20260422124500 +0000" stop="20260422133000 +0000" channel="Sky Atlantic HD.skyde">
     <title>Blue Bloods - Crime Scene New York</title>
 </programme>
-<programme start="20260423133000 +0000" stop="20260423141500 +0000" channel="Sky Atlantic HD.skyde">
+<programme start="20260422133000 +0000" stop="20260422141500 +0000" channel="Sky Atlantic HD.skyde">
     <title>Blue Bloods - Crime Scene New York</title>
 </programme>
-<programme start="20260423141500 +0000" stop="20260423151500 +0000" channel="Sky Atlantic HD.skyde">
+<programme start="20260422141500 +0000" stop="20260422151500 +0000" channel="Sky Atlantic HD.skyde">
     <title>Industry</title>
 </programme>
-<programme start="20260423151500 +0000" stop="20260423162000 +0000" channel="Sky Atlantic HD.skyde">
+<programme start="20260422151500 +0000" stop="20260422162000 +0000" channel="Sky Atlantic HD.skyde">
     <title>Industry</title>
 </programme>
-<programme start="20260423162000 +0000" stop="20260423171500 +0000" channel="Sky Atlantic HD.skyde">
+<programme start="20260422162000 +0000" stop="20260422171500 +0000" channel="Sky Atlantic HD.skyde">
     <title>Domina</title>
 </programme>
-<programme start="20260423171500 +0000" stop="20260423181500 +0000" channel="Sky Atlantic HD.skyde">
+<programme start="20260422171500 +0000" stop="20260422181500 +0000" channel="Sky Atlantic HD.skyde">
     <title>Domina</title>
 </programme>
-<programme start="20260423181500 +0000" stop="20260423191000 +0000" channel="Sky Atlantic HD.skyde">
-    <title>Amadeus</title>
+<programme start="20260422181500 +0000" stop="20260422191500 +0000" channel="Sky Atlantic HD.skyde">
+    <title>True Detective</title>
 </programme>
-<programme start="20260423191000 +0000" stop="20260423200500 +0000" channel="Sky Atlantic HD.skyde">
-    <title>Amadeus</title>
+<programme start="20260422191500 +0000" stop="20260422202000 +0000" channel="Sky Atlantic HD.skyde">
+    <title>True Detective</title>
 </programme>
-<programme start="20260423200500 +0000" stop="20260423205000 +0000" channel="Sky Atlantic HD.skyde">
-    <title>Amadeus</title>
-</programme>
-<programme start="20260423205000 +0000" stop="20260423215000 +0000" channel="Sky Atlantic HD.skyde">
+<programme start="20260422202000 +0000" stop="20260422211000 +0000" channel="Sky Atlantic HD.skyde">
     <title>Der Pass</title>
 </programme>
-<programme start="20260423215000 +0000" stop="20260423223500 +0000" channel="Sky Atlantic HD.skyde">
+<programme start="20260422211000 +0000" stop="20260422221000 +0000" channel="Sky Atlantic HD.skyde">
     <title>Der Pass</title>
 </programme>
 <programme start="20260421234500 +0000" stop="20260422015000 +0000" channel="Sky Cinema Action HD.skyde">
@@ -2583,7 +2574,7 @@ Warning: Undefined array key "et" in /usr/home/ManusiaBiasa/domains/manusiabiasa
 <programme start="20260422160000 +0000" stop="20260422162000 +0000" channel="Sky Sport Austria 3 HD.skyde">
     <title>Es folgt: Live Admiral Bundesliga</title>
 </programme>
-<programme start="20260422162000 +0000" stop="20260422184500 +0000" channel="Sky Sport Austria 3 HD.skyde">
+<programme start="20260422162000 +0000" stop="20260422191500 +0000" channel="Sky Sport Austria 3 HD.skyde">
     <title>Live Admiral BL: FC Red Bull Salzburg - FK Austria Wien, 28. Runde</title>
 </programme>
 <programme start="20260422160000 +0000" stop="20260422162000 +0000" channel="Sky Sport Austria 4 HD.skyde">
@@ -2768,6 +2759,57 @@ Warning: Undefined array key "et" in /usr/home/ManusiaBiasa/domains/manusiabiasa
 </programme>
 <programme start="20260422200000 +0000" stop="20260422220000 +0000" channel="Sky Sport F1 HD.skyde">
     <title>IndyCar: Acura Grand Prix of Long Beach</title>
+</programme>
+<programme start="20260421220000 +0000" stop="20260422010000 +0000" channel="Sky Sport Golf HD.skyde">
+    <title>Golf Ladies ET: Joburg Ladies Open, 4. Tag in Johannesburg (Südafrika)</title>
+</programme>
+<programme start="20260422010000 +0000" stop="20260422013000 +0000" channel="Sky Sport Golf HD.skyde">
+    <title>Golf: Greatest Holes (1)</title>
+</programme>
+<programme start="20260422013000 +0000" stop="20260422020000 +0000" channel="Sky Sport Golf HD.skyde">
+    <title>Golf: Greatest Holes (2)</title>
+</programme>
+<programme start="20260422020000 +0000" stop="20260422023000 +0000" channel="Sky Sport Golf HD.skyde">
+    <title>Golf: Greatest Holes (3)</title>
+</programme>
+<programme start="20260422023000 +0000" stop="20260422030000 +0000" channel="Sky Sport Golf HD.skyde">
+    <title>Golf: Greatest Holes (4)</title>
+</programme>
+<programme start="20260422030000 +0000" stop="20260422033000 +0000" channel="Sky Sport Golf HD.skyde">
+    <title>Golf: Greatest Holes (5)</title>
+</programme>
+<programme start="20260422033000 +0000" stop="20260422040000 +0000" channel="Sky Sport Golf HD.skyde">
+    <title>Golf: Greatest Holes (6)</title>
+</programme>
+<programme start="20260422040000 +0000" stop="20260422061500 +0000" channel="Sky Sport Golf HD.skyde">
+    <title>Golf: Senior PGA Championship, 4. Tag in Bradenton, FL (USA)</title>
+</programme>
+<programme start="20260422070000 +0000" stop="20260422100000 +0000" channel="Sky Sport Golf HD.skyde">
+    <title>Golf Ladies ET: Joburg Ladies Open, 4. Tag in Johannesburg (Südafrika)</title>
+</programme>
+<programme start="20260422091500 +0000" stop="20260422095000 +0000" channel="Sky Sport Golf HD.skyde">
+    <title>LIV Golf: Behind the Aces (1)</title>
+</programme>
+<programme start="20260422095000 +0000" stop="20260422103500 +0000" channel="Sky Sport Golf HD.skyde">
+    <title>LIV Golf: Behind the Aces (2)</title>
+</programme>
+<programme start="20260422103500 +0000" stop="20260422104500 +0000" channel="Sky Sport Golf HD.skyde">
+    <title>LIV Golf: Anthony Kim - Redemption</title>
+</programme>
+<programme start="20260422104500 +0000" stop="20260422110000 +0000" channel="Sky Sport Golf HD.skyde">
+    <title>Golf: Tee Time Stories (5)</title>
+</programme>
+<programme start="20260422110000 +0000" stop="20260422130000 +0000" channel="Sky Sport Golf HD.skyde">
+    <title>LIV Golf: Mexiko City, 1. Tag in Naucalpan</title>
+</programme>
+<programme start="20260422130000 +0000" stop="20260422160000 +0000" channel="Sky Sport Golf HD.skyde">
+    <title>LIV Golf: Mexiko City, 2. Tag in Naucalpan</title>
+</programme>
+<programme start="20260422160000 +0000" stop="20260422190000 +0000" channel="Sky Sport Golf HD.skyde">
+    <title>LIV Golf: Mexiko City, 3. Tag in Naucalpan</title>
+</programme>
+<programme start="20260422190000 +0000" stop="20260422220000 +0000" channel="Sky Sport Golf HD.skyde">
+    <title>LIV Golf: Mexiko City, 4. Tag in Naucalpan</title>
 </programme>
 <programme start="20260421223000 +0000" stop="20260421233000 +0000" channel="Sky Sport Mix HD.skyde">
     <title>NHL: Tonight - Playoff Edition</title>
@@ -3057,7 +3099,7 @@ Warning: Undefined array key "et" in /usr/home/ManusiaBiasa/domains/manusiabiasa
 <programme start="20260422174000 +0000" stop="20260422180000 +0000" channel="Sky Sport 2 HD.skyde">
     <title>Es folgt: Live DFB-Pokal</title>
 </programme>
-<programme start="20260422180000 +0000" stop="20260422230000 +0000" channel="Sky Sport 2 HD.skyde">
+<programme start="20260422180000 +0000" stop="20260422213000 +0000" channel="Sky Sport 2 HD.skyde">
     <title>Live DFB-Pokal: Bayer Leverkusen - FC Bayern München, Halbfinale</title>
 </programme>
 <programme start="20260422183000 +0000" stop="20260422185000 +0000" channel="Sky Sport 3 HD.skyde">
