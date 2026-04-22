@@ -664,17 +664,17 @@
     <desc lang="id">Mega Series Terbaru Raden Rakha dan Basmalah Gralind Di Indosiar "Merangkai Kisah Indah" Tayang Setiap Hari, Mulai Senin, 14 Juli 2025 Pukul 17:00 WIB. Kisah Derita Mutiara Yang Mencari Orangtua Kandungnya Karena Sewaktu Bayi Ditukar Oleh Ibu Angkatnya. Nasib Membawa Dirinya Bertemu Dengan Keluarga Yang Tanpa Dia Ketahui Adalah Orangtua Kandungnya dan Juga Bertemu Kenzo. Apakah Kenzo dan Mutiara Akan Berjodoh? Dibintangi Raden Rakha, Basmalah Gralind, Panji Saputra, Tsania Marwa, Gita Sinaga, Vayala Maulidina, Washifa, Haura Lathifa, dan Emiliano Cortizo. Saksikan Mega Series Terbaru Indosiar : Merangkai Kisah Indah, Tayang Setiap Hari, Mulai Senin, 14 Juli 2025 Pukul 17:00 WIB Hanya Di Indosiar.</desc>
     <icon src="https://thumbor.prod.vidiocdn.com/WIl2jiaTLEzHnNAo61AGzfdEXh8=/287x162/filters:strip_icc():quality(70)/vidio-media-production/uploads/tv_program/thumbnail/389747/fc3ce1.jpg"/>
   </programme>
-  <programme channel="205" start="20260422120000 +0000" stop="20260422160000 +0000">
+  <programme channel="205" start="20260422120000 +0000" stop="20260422164800 +0000">
     <title lang="id">Band Academy Group 2 - Top 5</title>
     <desc lang="id">Panggung Megah Band Academy Siap Dimulai! Setelah Melalui Proses Seleksi Yang Ketat, Kini 30 Academia Terpilih Siap Berkompetisi Untuk Membuktikan Talenta, dan Aksi Panggung Spektakuler Demi Musik Masa Depan. Siapakah Band Yang Akan Berhasil Lolos Ke Panggung Megah Band Academy? Saksikan Band Academy Mulai Selasa, 7 April 2026, Setiap Rabu - Jumat Pukul 19.00 WIB Live Hanya Di Indosiar.</desc>
     <icon src="https://thumbor.prod.vidiocdn.com/oVNrWG52y2W7gGOU2P5fhwWmjLE=/287x162/filters:strip_icc():quality(70)/vidio-media-production/uploads/livestreaming/schedule/thumbnail/5020743/9f5073.jpg"/>
   </programme>
-  <programme channel="205" start="20260422160000 +0000" stop="20260422180000 +0000">
+  <programme channel="205" start="20260422164800 +0000" stop="20260422180000 +0000">
     <title lang="id">Mega Series Action Asia : Heroes</title>
     <desc lang="id">Sebuah Kisah Epic Yang Melegenda Perjuangan Sang Master Kungfu: Huo Yuan Jia, Memimipin Perlawanan Bangsanya Dalam Menghadapi Invasi Penjajah. Saksikan Penampilan Memukau: Vincent Zhao, Nikita Mao dan Bintang Laga Lainnya Dalam Mega Series Action Asia: Heroes, Mulai 14 Maret 2025, Pkl 23.00 WIB, Hanya Di Indosiar</desc>
     <icon src="https://thumbor.prod.vidiocdn.com/_KZ0-YL57kjxS6Efi34aZfMnaBM=/287x162/filters:strip_icc():quality(70)/vidio-media-production/uploads/livestreaming/schedule/thumbnail/5020719/3519b4.jpg"/>
   </programme>
-  <programme channel="205" start="20260422160000 +0000" stop="20260422180000 +0000">
+  <programme channel="205" start="20260422164800 +0000" stop="20260422180000 +0000">
     <title lang="id">Mega Series Action Asia : Heroes</title>
     <desc lang="id">Sebuah Kisah Epic Yang Melegenda Perjuangan Sang Master Kungfu: Huo Yuan Jia, Memimipin Perlawanan Bangsanya Dalam Menghadapi Invasi Penjajah. Saksikan Penampilan Memukau: Vincent Zhao, Nikita Mao dan Bintang Laga Lainnya Dalam Mega Series Action Asia: Heroes, Mulai 14 Maret 2025, Pkl 23.00 WIB, Hanya Di Indosiar</desc>
     <icon src="https://thumbor.prod.vidiocdn.com/_KZ0-YL57kjxS6Efi34aZfMnaBM=/287x162/filters:strip_icc():quality(70)/vidio-media-production/uploads/livestreaming/schedule/thumbnail/5020719/3519b4.jpg"/>
@@ -1548,11 +1548,11 @@
     <title lang="id">Secret Story</title>
     <icon src="https://thumbor.prod.vidiocdn.com/VyDWgGuvUtZp5M006MXkTEIEpxw=/287x162/filters:strip_icc():quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/image/734/trans7-9dade4.jpg"/>
   </programme>
-  <programme channel="734" start="20260422121500 +0000" stop="20260422130000 +0000">
+  <programme channel="734" start="20260422121500 +0000" stop="20260422130600 +0000">
     <title lang="id">POV (Pasti Obrolan Viral)</title>
     <icon src="https://thumbor.prod.vidiocdn.com/k7-W0dErMddq_9b3yxwuAYN0oI4=/287x162/filters:strip_icc():quality(70)/vidio-media-production/uploads/livestreaming/schedule/thumbnail/5018411/46f526.jpg"/>
   </programme>
-  <programme channel="734" start="20260422130000 +0000" stop="20260422143000 +0000">
+  <programme channel="734" start="20260422130600 +0000" stop="20260422143000 +0000">
     <title lang="id">Arisan</title>
     <icon src="https://thumbor.prod.vidiocdn.com/VyDWgGuvUtZp5M006MXkTEIEpxw=/287x162/filters:strip_icc():quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/image/734/trans7-9dade4.jpg"/>
   </programme>
@@ -1979,12 +1979,12 @@
     <desc lang="id">Proliga 2026 First Serve 16:00</desc>
     <icon src="https://thumbor.prod.vidiocdn.com/NdmzqkxqnWVnlngtk_ObYNT-wiY=/287x162/filters:strip_icc():quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/image/206/moji-a5bd3e.jpg"/>
   </programme>
-  <programme channel="206" start="20260422112000 +0000" stop="20260422140000 +0000">
+  <programme channel="206" start="20260422112000 +0000" stop="20260422150000 +0000">
     <title lang="id">Proliga 2026 First Serve 19:00</title>
     <desc lang="id">Proliga 2026 First Serve 19:00</desc>
     <icon src="https://thumbor.prod.vidiocdn.com/NdmzqkxqnWVnlngtk_ObYNT-wiY=/287x162/filters:strip_icc():quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/image/206/moji-a5bd3e.jpg"/>
   </programme>
-  <programme channel="206" start="20260422140000 +0000" stop="20260422160000 +0000">
+  <programme channel="206" start="20260422150000 +0000" stop="20260422160000 +0000">
     <title lang="id">Rerun Ucl</title>
     <desc lang="id">Rerun Ucl</desc>
     <icon src="https://thumbor.prod.vidiocdn.com/NdmzqkxqnWVnlngtk_ObYNT-wiY=/287x162/filters:strip_icc():quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/image/206/moji-a5bd3e.jpg"/>
@@ -13019,20 +13019,10 @@
     <desc lang="id">Week 23</desc>
     <icon src="https://thumbor.prod.vidiocdn.com/nY0aFklpYf6yONLaFJjxhiSuthc=/287x162/filters:strip_icc():quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/image/6786/champions-tv-3-76ca7c.jpg"/>
   </programme>
-  <programme channel="6786" start="20260422090000 +0000" stop="20260422130000 +0000">
+  <programme channel="6786" start="20260422090000 +0000" stop="20260422140000 +0000">
     <title lang="id">Day 1 - WTA 1000: Mutua Madrid Open 2026</title>
     <desc lang="id">Nonton streaming pertandingan seru Day 1 - WTA 1000: Mutua Madrid Open 2026. Saksikan aksi-aksi terbaik dari tim yang bersaing ketat untuk meraih kemenangan. Dapatkan informasi lengkap mengenai jadwal pertandingan dan hasil pertandingan terbaru hanya di Vidio.</desc>
     <icon src="https://thumbor.prod.vidiocdn.com/omJHxIproWK7f2KClOCvBTmcVGc=/287x162/filters:strip_icc():quality(70)/vidio-media-production/uploads/livestreaming/schedule/thumbnail/5021677/2d690e.jpg"/>
-  </programme>
-  <programme channel="6786" start="20260422130000 +0000" stop="20260422133000 +0000">
-    <title lang="id">BJKC - Player Features : WTA my Story</title>
-    <desc lang="id">BJKC - Player Features</desc>
-    <icon src="https://thumbor.prod.vidiocdn.com/nY0aFklpYf6yONLaFJjxhiSuthc=/287x162/filters:strip_icc():quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/image/6786/champions-tv-3-76ca7c.jpg"/>
-  </programme>
-  <programme channel="6786" start="20260422133000 +0000" stop="20260422140000 +0000">
-    <title lang="id">Full Impact - Round 32 : Serie A 2025/26 - Highlight Show</title>
-    <desc lang="id">Full Impact - Round 32</desc>
-    <icon src="https://thumbor.prod.vidiocdn.com/nY0aFklpYf6yONLaFJjxhiSuthc=/287x162/filters:strip_icc():quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/image/6786/champions-tv-3-76ca7c.jpg"/>
   </programme>
   <programme channel="6786" start="20260422140000 +0000" stop="20260422143000 +0000">
     <title lang="id">Eps 2 : WTA ALL ACCESS 2026</title>
@@ -14835,12 +14825,12 @@ dan komprehensif mengenai berbagai topik yang relevan dalam kehidupan sehari-har
     <desc lang="id">WUZHISHAN  LINGSHUI</desc>
     <icon src="https://thumbor.prod.vidiocdn.com/xgkik6iws0EJ01bi5cJsIjYWjOM=/287x162/filters:strip_icc():quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/image/6686/champions-tv-2-681a27.jpg"/>
   </programme>
-  <programme channel="6686" start="20260422110000 +0000" stop="20260422130000 +0000">
+  <programme channel="6686" start="20260422110000 +0000" stop="20260422130200 +0000">
     <title lang="id">NEC VS FEYENOORD : DUTCH LEAGUE EREDIVISIE 2025/26</title>
     <desc lang="id">NEC VS FEYENOORD</desc>
     <icon src="https://thumbor.prod.vidiocdn.com/xgkik6iws0EJ01bi5cJsIjYWjOM=/287x162/filters:strip_icc():quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/image/6686/champions-tv-2-681a27.jpg"/>
   </programme>
-  <programme channel="6686" start="20260422130000 +0000" stop="20260422150000 +0000">
+  <programme channel="6686" start="20260422130200 +0000" stop="20260422150000 +0000">
     <title lang="id">CAGLIARI VS NAPOLI : SERIE A 2025/26</title>
     <desc lang="id">CAGLIARI VS NAPOLI</desc>
     <icon src="https://thumbor.prod.vidiocdn.com/xgkik6iws0EJ01bi5cJsIjYWjOM=/287x162/filters:strip_icc():quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/image/6686/champions-tv-2-681a27.jpg"/>

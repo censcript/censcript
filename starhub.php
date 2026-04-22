@@ -2401,13 +2401,13 @@
     <programme start="20260422070000 +0000" stop="20260422090000 +0000" channel="Hub Sports 2 HD.starhub">
         <title>Lion City Sailors vs Young Lions</title>
     </programme>
-    <programme start="20260422090000 +0000" stop="20260422110000 +0000" channel="Hub Sports 2 HD.starhub">
+    <programme start="20260422090000 +0000" stop="20260422113100 +0000" channel="Hub Sports 2 HD.starhub">
         <title>Mutua Madrid Open (1000) Day 1 R1 Session 1</title>
     </programme>
-    <programme start="20260422110000 +0000" stop="20260422130000 +0000" channel="Hub Sports 2 HD.starhub">
+    <programme start="20260422113100 +0000" stop="20260422133200 +0000" channel="Hub Sports 2 HD.starhub">
         <title>Mutua Madrid Open (1000) Day 1 R1 Session 2</title>
     </programme>
-    <programme start="20260422130000 +0000" stop="20260422150000 +0000" channel="Hub Sports 2 HD.starhub">
+    <programme start="20260422133200 +0000" stop="20260422150000 +0000" channel="Hub Sports 2 HD.starhub">
         <title>Mutua Madrid Open (1000) Day 1 R1 Session 3</title>
     </programme>
     <programme start="20260422150000 +0000" stop="20260422170000 +0000" channel="Hub Sports 2 HD.starhub">
