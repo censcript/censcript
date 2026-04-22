@@ -2988,13 +2988,13 @@ Warning: Undefined array key "et" in /usr/home/ManusiaBiasa/domains/manusiabiasa
 <programme start="20260422213000 +0000" stop="20260422233000 +0000" channel="Sky Sport Premier League HD.skyde">
     <title>PL: AFC Bournemouth - Leeds United, 34. Spieltag</title>
 </programme>
-<programme start="20260421233000 +0000" stop="20260422020000 +0000" channel="Sky Sport Tennis HD.skyde">
+<programme start="20260421231500 +0000" stop="20260422014500 +0000" channel="Sky Sport Tennis HD.skyde">
     <title>ATP 500: A. Fils (FRA) - A. Rublev, Barcelona Open BancSabadell in Barcelona (ESP), Finale</title>
 </programme>
 <programme start="20260422020000 +0000" stop="20260422023000 +0000" channel="Sky Sport Tennis HD.skyde">
     <title>ATP: This Week</title>
 </programme>
-<programme start="20260422023000 +0000" stop="20260422043000 +0000" channel="Sky Sport Tennis HD.skyde">
+<programme start="20260422023000 +0000" stop="20260422041500 +0000" channel="Sky Sport Tennis HD.skyde">
     <title>WTA 1000: L. Siegemund (GER) - I. Begu (ROM), Mutua Madrid Open in Madrid (ESP), 1. Tag</title>
 </programme>
 <programme start="20260422043000 +0000" stop="20260422050000 +0000" channel="Sky Sport Tennis HD.skyde">
@@ -3006,7 +3006,7 @@ Warning: Undefined array key "et" in /usr/home/ManusiaBiasa/domains/manusiabiasa
 <programme start="20260422060000 +0000" stop="20260422063000 +0000" channel="Sky Sport Tennis HD.skyde">
     <title>WTA: All Access Magazine Show</title>
 </programme>
-<programme start="20260422063000 +0000" stop="20260422083000 +0000" channel="Sky Sport Tennis HD.skyde">
+<programme start="20260422064500 +0000" stop="20260422083000 +0000" channel="Sky Sport Tennis HD.skyde">
     <title>WTA 1000: L. Siegemund (GER) - I. Begu (ROM), Mutua Madrid Open in Madrid (ESP), 1. Tag</title>
 </programme>
 <programme start="20260422083000 +0000" stop="20260422090000 +0000" channel="Sky Sport Tennis HD.skyde">
@@ -3019,10 +3019,10 @@ Warning: Undefined array key "et" in /usr/home/ManusiaBiasa/domains/manusiabiasa
     <title>ATP: This Week</title>
 </programme>
 <programme start="20260422193000 +0000" stop="20260422213000 +0000" channel="Sky Sport Tennis HD.skyde">
-    <title>WTA 1000: Topspiel, Mutua Madrid Open in Madrid (ESP), 2. Tag</title>
+    <title>WTA 1000: E. Lys (GER) - S. Zhang (CHN), Mutua Madrid Open in Madrid (ESP), 2. Tag</title>
 </programme>
 <programme start="20260422213000 +0000" stop="20260422233000 +0000" channel="Sky Sport Tennis HD.skyde">
-    <title>ATP 1000: Topspiel, Mutua Madrid Open in Madrid (ESP), 2. Tag</title>
+    <title>ATP 1000: J.-L. Struff (GER) - A. Muller (FRA), Mutua Madrid Open in Madrid (ESP), 2. Tag</title>
 </programme>
 <programme start="20260421220000 +0000" stop="20260421230000 +0000" channel="Sky Sport Top Event HD.skyde">
     <title>Live NBA: Showtime</title>
@@ -3099,7 +3099,7 @@ Warning: Undefined array key "et" in /usr/home/ManusiaBiasa/domains/manusiabiasa
 <programme start="20260422174000 +0000" stop="20260422180000 +0000" channel="Sky Sport 2 HD.skyde">
     <title>Es folgt: Live DFB-Pokal</title>
 </programme>
-<programme start="20260422180000 +0000" stop="20260422213000 +0000" channel="Sky Sport 2 HD.skyde">
+<programme start="20260422180000 +0000" stop="20260422230000 +0000" channel="Sky Sport 2 HD.skyde">
     <title>Live DFB-Pokal: Bayer Leverkusen - FC Bayern München, Halbfinale</title>
 </programme>
 <programme start="20260422183000 +0000" stop="20260422185000 +0000" channel="Sky Sport 3 HD.skyde">

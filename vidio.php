@@ -7176,10 +7176,14 @@
     <title lang="id">Filler</title>
     <icon src="https://thumbor.prod.vidiocdn.com/edoqRinFCRhrRwQ2ngcXacb_q74=/287x162/filters:strip_icc():quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/image/6685/champions-tv-1-54e282.jpg"/>
   </programme>
-  <programme channel="6685" start="20260422175500 +0000" stop="20260422200000 +0000">
+  <programme channel="6685" start="20260422175500 +0000" stop="20260422195500 +0000">
     <title lang="id">Telstar vs Sparta Rotterdam</title>
     <desc lang="id">23 APR - 01:00 WIB | Masih belum aman dari zona degradasi, Telstar harus menang atas tamunya Sparta Rotterdam!</desc>
     <icon src="https://thumbor.prod.vidiocdn.com/T8j8uE9Xp66ZyOqR6NgcHYlxGB8=/287x162/filters:strip_icc():quality(70)/vidio-media-production/uploads/livestreaming/schedule/thumbnail/5021454/7929cb.jpg"/>
+  </programme>
+  <programme channel="6685" start="20260422195500 +0000" stop="20260422200000 +0000">
+    <title lang="id">Filler</title>
+    <icon src="https://thumbor.prod.vidiocdn.com/edoqRinFCRhrRwQ2ngcXacb_q74=/287x162/filters:strip_icc():quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/image/6685/champions-tv-1-54e282.jpg"/>
   </programme>
   <programme channel="6685" start="20260422200000 +0000" stop="20260422220000 +0000">
     <title lang="id">Sporting vs Benfica : Portuguese League 2025/26</title>
@@ -7648,11 +7652,11 @@
     <desc lang="id">Riki-Oh, seorang pemuda berkekuatan super, dipenjara di penjara swasta, tempat para narapidana diperlakukan bak budak. Ia terpaksa menggunakan ilmu bela dirinya yang tak terhentikan untuk menghancurkan para pejabat korup dan antek-anteknya.</desc>
     <icon src="https://thumbor.prod.vidiocdn.com/20tRQaK9Gps_wFQL5rY-XgRbrs4=/287x162/filters:strip_icc():quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/image/782/antv-de8530.jpg"/>
   </programme>
-  <programme channel="782" start="20260422174500 +0000" stop="20260422183000 +0000">
+  <programme channel="782" start="20260422174500 +0000" stop="20260422183400 +0000">
     <title lang="id">(Movie)</title>
     <icon src="https://thumbor.prod.vidiocdn.com/20tRQaK9Gps_wFQL5rY-XgRbrs4=/287x162/filters:strip_icc():quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/image/782/antv-de8530.jpg"/>
   </programme>
-  <programme channel="782" start="20260422183000 +0000" stop="20260422210000 +0000">
+  <programme channel="782" start="20260422183400 +0000" stop="20260422210000 +0000">
     <title lang="id">Coppa Italia 2025/26: Atalanta vs Lazio</title>
     <icon src="https://thumbor.prod.vidiocdn.com/20tRQaK9Gps_wFQL5rY-XgRbrs4=/287x162/filters:strip_icc():quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/image/782/antv-de8530.jpg"/>
   </programme>
