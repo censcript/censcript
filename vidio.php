@@ -13045,12 +13045,12 @@
     <desc lang="id">INTER vs CAGLIARI</desc>
     <icon src="https://thumbor.prod.vidiocdn.com/nY0aFklpYf6yONLaFJjxhiSuthc=/287x162/filters:strip_icc():quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/image/6786/champions-tv-3-76ca7c.jpg"/>
   </programme>
-  <programme channel="6786" start="20260422213000 +0000" stop="20260422233000 +0000">
+  <programme channel="6786" start="20260422213000 +0000" stop="20260422233900 +0000">
     <title lang="id">SASSUOLO vs COMO : Serie A 2025/26</title>
     <desc lang="id">SASSUOLO vs COMO</desc>
     <icon src="https://thumbor.prod.vidiocdn.com/nY0aFklpYf6yONLaFJjxhiSuthc=/287x162/filters:strip_icc():quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/image/6786/champions-tv-3-76ca7c.jpg"/>
   </programme>
-  <programme channel="6786" start="20260422233000 +0000" stop="20260423000000 +0000">
+  <programme channel="6786" start="20260422233900 +0000" stop="20260423000000 +0000">
     <title lang="id">Eps 17 : Sport Woman</title>
     <desc lang="id">Eps 17</desc>
     <icon src="https://thumbor.prod.vidiocdn.com/nY0aFklpYf6yONLaFJjxhiSuthc=/287x162/filters:strip_icc():quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/image/6786/champions-tv-3-76ca7c.jpg"/>

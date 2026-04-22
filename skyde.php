@@ -2542,6 +2542,87 @@
 <programme start="20260423213000 +0000" stop="20260423233000 +0000" channel="Sky Sport Austria 1 HD.skyde">
     <title>Admiral BL: SCR Altach - WSG Tirol, 28. Runde</title>
 </programme>
+<programme start="20260422220000 +0000" stop="20260422223000 +0000" channel="Sky Sport Bundesliga HD.skyde">
+    <title>2. BL: Dein Zweitligatalk - HvK &amp; Tusche</title>
+</programme>
+<programme start="20260422223000 +0000" stop="20260422230000 +0000" channel="Sky Sport Bundesliga HD.skyde">
+    <title>2. BL: 90in30: H96 - SCP, 30. Spieltag</title>
+</programme>
+<programme start="20260422230000 +0000" stop="20260423010000 +0000" channel="Sky Sport Bundesliga HD.skyde">
+    <title>2. BL: Samstags-Konferenz, 30. Spieltag</title>
+</programme>
+<programme start="20260423010000 +0000" stop="20260423013000 +0000" channel="Sky Sport Bundesliga HD.skyde">
+    <title>BL: 90in30: SGE - RBL, 30. Spieltag</title>
+</programme>
+<programme start="20260423013000 +0000" stop="20260423033000 +0000" channel="Sky Sport Bundesliga HD.skyde">
+    <title>2. BL: Holstein Kiel - 1. FC Kaiserlautern, 30. Spieltag</title>
+</programme>
+<programme start="20260423033000 +0000" stop="20260423043000 +0000" channel="Sky Sport Bundesliga HD.skyde">
+    <title>BL Kompakt: 30. Spieltag</title>
+</programme>
+<programme start="20260423043000 +0000" stop="20260423050000 +0000" channel="Sky Sport Bundesliga HD.skyde">
+    <title>2. BL: 90in30: H96 - SCP, 30. Spieltag</title>
+</programme>
+<programme start="20260423050000 +0000" stop="20260423070000 +0000" channel="Sky Sport Bundesliga HD.skyde">
+    <title>2. BL: Dynamo Dresden - VfL Bochum, 30. Spieltag</title>
+</programme>
+<programme start="20260423070000 +0000" stop="20260423090000 +0000" channel="Sky Sport Bundesliga HD.skyde">
+    <title>BL: TSG Hoffenheim - Borussia Dortmund, 30. Spieltag</title>
+</programme>
+<programme start="20260423090000 +0000" stop="20260423093000 +0000" channel="Sky Sport Bundesliga HD.skyde">
+    <title>Meine Geschichte: Das Leben von Felix Loch</title>
+</programme>
+<programme start="20260423093000 +0000" stop="20260423094500 +0000" channel="Sky Sport Bundesliga HD.skyde">
+    <title>2. BL: Dein Spieltags-Sprint (30)</title>
+</programme>
+<programme start="20260423094500 +0000" stop="20260423100000 +0000" channel="Sky Sport Bundesliga HD.skyde">
+    <title>Sky Sport News: Pionierin in Europa - Marie-Louise Eta Exklusiv</title>
+</programme>
+<programme start="20260423100000 +0000" stop="20260423120000 +0000" channel="Sky Sport Bundesliga HD.skyde">
+    <title>BL: 1. FC Union Berlin - VfL Wolfsburg, 30. Spieltag</title>
+</programme>
+<programme start="20260423120000 +0000" stop="20260423123000 +0000" channel="Sky Sport Bundesliga HD.skyde">
+    <title>BL: Bundesliga Weekly</title>
+</programme>
+<programme start="20260423123000 +0000" stop="20260423143000 +0000" channel="Sky Sport Bundesliga HD.skyde">
+    <title>BL: Klassiker der Woche: M05 - FCB (2014/15)</title>
+</programme>
+<programme start="20260423143000 +0000" stop="20260423150000 +0000" channel="Sky Sport Bundesliga HD.skyde">
+    <title>2. BL: Dein Zweitligatalk - HvK &amp; Tusche</title>
+</programme>
+<programme start="20260423150000 +0000" stop="20260423160000 +0000" channel="Sky Sport Bundesliga HD.skyde">
+    <title>Live BL: Matchplan: KOE - B04, 31. Spieltag</title>
+</programme>
+<programme start="20260423160000 +0000" stop="20260423163000 +0000" channel="Sky Sport Bundesliga HD.skyde">
+    <title>BL: Bundesliga Weekly</title>
+</programme>
+<programme start="20260423163000 +0000" stop="20260423170000 +0000" channel="Sky Sport Bundesliga HD.skyde">
+    <title>2. BL: 90in30: H96 - SCP, 30. Spieltag</title>
+</programme>
+<programme start="20260423170000 +0000" stop="20260423173000 +0000" channel="Sky Sport Bundesliga HD.skyde">
+    <title>2. BL: Dein Zweitligatalk - HvK &amp; Tusche</title>
+</programme>
+<programme start="20260423173000 +0000" stop="20260423183000 +0000" channel="Sky Sport Bundesliga HD.skyde">
+    <title>BL: Matchplan: KOE - B04, 31. Spieltag</title>
+</programme>
+<programme start="20260423183000 +0000" stop="20260423190000 +0000" channel="Sky Sport Bundesliga HD.skyde">
+    <title>BL: Bundesliga Weekly</title>
+</programme>
+<programme start="20260423190000 +0000" stop="20260423193000 +0000" channel="Sky Sport Bundesliga HD.skyde">
+    <title>BL: 90in30: SGE - RBL, 30. Spieltag</title>
+</programme>
+<programme start="20260423193000 +0000" stop="20260423200000 +0000" channel="Sky Sport Bundesliga HD.skyde">
+    <title>2. BL: Dein Zweitligatalk - HvK &amp; Tusche</title>
+</programme>
+<programme start="20260423200000 +0000" stop="20260423203000 +0000" channel="Sky Sport Bundesliga HD.skyde">
+    <title>Fußball: Spielmacher Podcast von Sports 360 mit Sebastian Hellmann (Gast: Fernando Carro)</title>
+</programme>
+<programme start="20260423203000 +0000" stop="20260423210000 +0000" channel="Sky Sport Bundesliga HD.skyde">
+    <title>BL: 90in30: SGE - RBL, 30. Spieltag</title>
+</programme>
+<programme start="20260423210000 +0000" stop="20260423220000 +0000" channel="Sky Sport Bundesliga HD.skyde">
+    <title>BL: Matchplan: KOE - B04, 31. Spieltag</title>
+</programme>
 <programme start="20260423090000 +0000" stop="20260423110000 +0000" channel="Sky Sport Bundesliga 4 HD.skyde">
     <title>TEST BL04</title>
 </programme>
