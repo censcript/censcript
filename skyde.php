@@ -2814,29 +2814,26 @@ Warning: Undefined array key "et" in /usr/home/ManusiaBiasa/domains/manusiabiasa
 <programme start="20260421223000 +0000" stop="20260421233000 +0000" channel="Sky Sport Mix HD.skyde">
     <title>NHL: Tonight - Playoff Edition</title>
 </programme>
-<programme start="20260421233000 +0000" stop="20260422023000 +0000" channel="Sky Sport Mix HD.skyde">
+<programme start="20260421233000 +0000" stop="20260422024000 +0000" channel="Sky Sport Mix HD.skyde">
     <title>Live NHL: Boston Bruins @ Buffalo Sabres, Playoffs, 1. Runde, Spiel 2</title>
 </programme>
-<programme start="20260422023000 +0000" stop="20260422050000 +0000" channel="Sky Sport Mix HD.skyde">
+<programme start="20260422024000 +0000" stop="20260422052000 +0000" channel="Sky Sport Mix HD.skyde">
     <title>Live NBA: Houston Rockets @ LA Lakers, Playoffs, Runde 1, Spiel 2</title>
 </programme>
-<programme start="20260422050000 +0000" stop="20260422053000 +0000" channel="Sky Sport Mix HD.skyde">
+<programme start="20260422052000 +0000" stop="20260422061000 +0000" channel="Sky Sport Mix HD.skyde">
     <title>Live NBA: Showtime - Post Show</title>
 </programme>
-<programme start="20260422053000 +0000" stop="20260422073000 +0000" channel="Sky Sport Mix HD.skyde">
+<programme start="20260422061000 +0000" stop="20260422081500 +0000" channel="Sky Sport Mix HD.skyde">
     <title>NHL: Boston Bruins @ Buffalo Sabres, Playoffs, 1. Runde, Spiel 2</title>
 </programme>
-<programme start="20260422073000 +0000" stop="20260422100000 +0000" channel="Sky Sport Mix HD.skyde">
+<programme start="20260422081500 +0000" stop="20260422104500 +0000" channel="Sky Sport Mix HD.skyde">
     <title>NBA: Philadelphia 76ers @ Boston Celtics, Playoffs, Runde 1, Spiel 2</title>
 </programme>
-<programme start="20260422100000 +0000" stop="20260422101500 +0000" channel="Sky Sport Mix HD.skyde">
+<programme start="20260422104500 +0000" stop="20260422110000 +0000" channel="Sky Sport Mix HD.skyde">
     <title>NHL: Highlights BOS@BUF, Playoffs, 1. Runde, Spiel 2</title>
 </programme>
-<programme start="20260422101500 +0000" stop="20260422103000 +0000" channel="Sky Sport Mix HD.skyde">
-    <title>NHL: Highlights UTA@VGK, Playoffs, 1. Runde, Spiel 2</title>
-</programme>
-<programme start="20260422103000 +0000" stop="20260422113000 +0000" channel="Sky Sport Mix HD.skyde">
-    <title>3. Liga: Alle Spiele, alle Tore, 34. Spieltag komplett</title>
+<programme start="20260422110000 +0000" stop="20260422113000 +0000" channel="Sky Sport Mix HD.skyde">
+    <title>NHL: Highlights MIN@DAL, Playoffs, 1. Runde, Spiel 2</title>
 </programme>
 <programme start="20260422113000 +0000" stop="20260422123000 +0000" channel="Sky Sport Mix HD.skyde">
     <title>NHL: Tonight - Playoff Edition</title>
@@ -3018,32 +3015,26 @@ Warning: Undefined array key "et" in /usr/home/ManusiaBiasa/domains/manusiabiasa
 <programme start="20260422190000 +0000" stop="20260422193000 +0000" channel="Sky Sport Tennis HD.skyde">
     <title>ATP: This Week</title>
 </programme>
-<programme start="20260422193000 +0000" stop="20260422213000 +0000" channel="Sky Sport Tennis HD.skyde">
+<programme start="20260422210000 +0000" stop="20260422223500 +0000" channel="Sky Sport Tennis HD.skyde">
     <title>WTA 1000: E. Lys (GER) - S. Zhang (CHN), Mutua Madrid Open in Madrid (ESP), 2. Tag</title>
-</programme>
-<programme start="20260422213000 +0000" stop="20260422233000 +0000" channel="Sky Sport Tennis HD.skyde">
-    <title>ATP 1000: J.-L. Struff (GER) - A. Muller (FRA), Mutua Madrid Open in Madrid (ESP), 2. Tag</title>
 </programme>
 <programme start="20260421220000 +0000" stop="20260421230000 +0000" channel="Sky Sport Top Event HD.skyde">
     <title>Live NBA: Showtime</title>
 </programme>
-<programme start="20260421230000 +0000" stop="20260422013000 +0000" channel="Sky Sport Top Event HD.skyde">
+<programme start="20260421230000 +0000" stop="20260422013500 +0000" channel="Sky Sport Top Event HD.skyde">
     <title>Live NBA: Philadelphia 76ers @ Boston Celtics, Playoffs, Runde 1, Spiel 2</title>
 </programme>
-<programme start="20260422013000 +0000" stop="20260422023000 +0000" channel="Sky Sport Top Event HD.skyde">
+<programme start="20260422013500 +0000" stop="20260422024000 +0000" channel="Sky Sport Top Event HD.skyde">
     <title>Live NBA: Portland Trail Blazers @ San Antonio Spurs, Playoffs, Runde 1, Spiel 2</title>
 </programme>
-<programme start="20260422023000 +0000" stop="20260422050000 +0000" channel="Sky Sport Top Event HD.skyde">
+<programme start="20260422024000 +0000" stop="20260422052000 +0000" channel="Sky Sport Top Event HD.skyde">
     <title>Live NBA: Houston Rockets @ LA Lakers, Playoffs, Runde 1, Spiel 2</title>
 </programme>
-<programme start="20260422050000 +0000" stop="20260422053000 +0000" channel="Sky Sport Top Event HD.skyde">
+<programme start="20260422052000 +0000" stop="20260422061000 +0000" channel="Sky Sport Top Event HD.skyde">
     <title>Live NBA: Showtime - Post Show</title>
 </programme>
-<programme start="20260422053000 +0000" stop="20260422080000 +0000" channel="Sky Sport Top Event HD.skyde">
+<programme start="20260422061000 +0000" stop="20260422090000 +0000" channel="Sky Sport Top Event HD.skyde">
     <title>NBA: Portland Trail Blazers @ San Antonio Spurs, Playoffs, Runde 1, Spiel 2</title>
-</programme>
-<programme start="20260422080000 +0000" stop="20260422090000 +0000" channel="Sky Sport Top Event HD.skyde">
-    <title>PL: Review, 33. Spieltag</title>
 </programme>
 <programme start="20260422090000 +0000" stop="20260422180000 +0000" channel="Sky Sport Top Event HD.skyde">
     <title>Live ATP &amp; WTA: Konferenz Mutua Madrid Open in Madrid (ESP), 2. Tag</title>
@@ -3099,7 +3090,7 @@ Warning: Undefined array key "et" in /usr/home/ManusiaBiasa/domains/manusiabiasa
 <programme start="20260422174000 +0000" stop="20260422180000 +0000" channel="Sky Sport 2 HD.skyde">
     <title>Es folgt: Live DFB-Pokal</title>
 </programme>
-<programme start="20260422180000 +0000" stop="20260422230000 +0000" channel="Sky Sport 2 HD.skyde">
+<programme start="20260422180000 +0000" stop="20260422223000 +0000" channel="Sky Sport 2 HD.skyde">
     <title>Live DFB-Pokal: Bayer Leverkusen - FC Bayern München, Halbfinale</title>
 </programme>
 <programme start="20260422183000 +0000" stop="20260422185000 +0000" channel="Sky Sport 3 HD.skyde">

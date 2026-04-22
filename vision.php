@@ -619,9 +619,6 @@
 <programme start="20260422090000 +0000" stop="20260422110000 +0000" channel="ANTV.vision">
 <title>Vasudha</title>
 </programme>
-<programme start="20260422183000 +0000" stop="20260422210000 +0000" channel="ANTV.vision">
-<title>Coppa Italia</title>
-</programme>
 <programme start="20260422210000 +0000" stop="20260422230000 +0000" channel="ANTV.vision">
 <title>Luka Chuppi</title>
 </programme>
@@ -1497,4 +1494,7 @@
 </programme>
 <programme start="20260422030000 +0000" stop="20260422044500 +0000" channel="MDTV.vision">
 <title>Terlanjur Indah</title>
+</programme>
+<programme start="20260422044500 +0000" stop="20260422062000 +0000" channel="MDTV.vision">
+<title>Cinta Fitri S7</title>
 </programme>

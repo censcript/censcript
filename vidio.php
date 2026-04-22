@@ -4362,11 +4362,11 @@
     <title lang="id">Malam Malam</title>
     <icon src="https://thumbor.prod.vidiocdn.com/4Czw1-Pd6U37CKeatnuB7yB0wm8=/287x162/filters:strip_icc():quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/image/875/mdtv-ff5756.jpg"/>
   </programme>
-  <programme channel="875" start="20260422190000 +0000" stop="20260422201500 +0000">
+  <programme channel="875" start="20260422190000 +0000" stop="20260422202000 +0000">
     <title lang="id">Tawa Tawa Santai</title>
     <icon src="https://thumbor.prod.vidiocdn.com/4Czw1-Pd6U37CKeatnuB7yB0wm8=/287x162/filters:strip_icc():quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/image/875/mdtv-ff5756.jpg"/>
   </programme>
-  <programme channel="875" start="20260422201500 +0000" stop="20260422210500 +0000">
+  <programme channel="875" start="20260422202000 +0000" stop="20260422210500 +0000">
     <title lang="id">Keajaiban Dunia</title>
     <icon src="https://thumbor.prod.vidiocdn.com/4Czw1-Pd6U37CKeatnuB7yB0wm8=/287x162/filters:strip_icc():quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/image/875/mdtv-ff5756.jpg"/>
   </programme>
@@ -5669,12 +5669,12 @@
     <desc lang="id">Barcelona vs Real Madrid - 2018/19</desc>
     <icon src="https://thumbor.prod.vidiocdn.com/5yUHYfv_b1sZi7kdFElm8JqF2RY=/287x162/filters:strip_icc():quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/image/6299/bein-1-4bd997.jpg"/>
   </programme>
-  <programme channel="6299" start="20260422192500 +0000" stop="20260422213000 +0000">
+  <programme channel="6299" start="20260422192500 +0000" stop="20260422215000 +0000">
     <title lang="id">Barcelona vs Celta Vigo - LaLiga</title>
     <desc lang="id">Nonton streaming pertandingan seru Barcelona vs Celta Vigo - LaLiga. Saksikan aksi-aksi terbaik dari tim yang bersaing ketat untuk meraih kemenangan. Dapatkan informasi lengkap mengenai jadwal pertandingan dan hasil pertandingan terbaru hanya di Vidio.</desc>
     <icon src="https://thumbor.prod.vidiocdn.com/RgQ4IHGiAehNWcHirNOkgdEHjqc=/287x162/filters:strip_icc():quality(70)/vidio-media-production/uploads/livestreaming/schedule/thumbnail/5021452/9b7e5d.jpg"/>
   </programme>
-  <programme channel="6299" start="20260422213000 +0000" stop="20260422232000 +0000">
+  <programme channel="6299" start="20260422215000 +0000" stop="20260422232000 +0000">
     <title lang="id">PSG vs HJK Helsinki - R16 : UEFA Youth League 2025/26</title>
     <desc lang="id">PSG vs HJK Helsinki - R16</desc>
     <icon src="https://thumbor.prod.vidiocdn.com/5yUHYfv_b1sZi7kdFElm8JqF2RY=/287x162/filters:strip_icc():quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/image/6299/bein-1-4bd997.jpg"/>
@@ -7656,11 +7656,11 @@
     <title lang="id">(Movie)</title>
     <icon src="https://thumbor.prod.vidiocdn.com/20tRQaK9Gps_wFQL5rY-XgRbrs4=/287x162/filters:strip_icc():quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/image/782/antv-de8530.jpg"/>
   </programme>
-  <programme channel="782" start="20260422183400 +0000" stop="20260422210000 +0000">
+  <programme channel="782" start="20260422183400 +0000" stop="20260422214900 +0000">
     <title lang="id">Coppa Italia 2025/26: Atalanta vs Lazio</title>
     <icon src="https://thumbor.prod.vidiocdn.com/20tRQaK9Gps_wFQL5rY-XgRbrs4=/287x162/filters:strip_icc():quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/image/782/antv-de8530.jpg"/>
   </programme>
-  <programme channel="782" start="20260422210000 +0000" stop="20260422230000 +0000">
+  <programme channel="782" start="20260422214900 +0000" stop="20260422230000 +0000">
     <title lang="id">Mega Bollywood: Luka Chuppi</title>
     <desc lang="id">Berpura-pura menikah agar bisa hidup bersama, pasangan dari kota kecil ini terjebak dalam situasi canggung yang tak berujung untuk menyembunyikan kebenaran dari keluarga ortodoks mereka.</desc>
     <icon src="https://thumbor.prod.vidiocdn.com/NMkYav8LH4QGmrRv5Ut7-TeWD8M=/287x162/filters:strip_icc():quality(70)/vidio-media-production/uploads/livestreaming/schedule/thumbnail/5022188/f270c5.jpg"/>
@@ -16746,12 +16746,12 @@ dan komprehensif mengenai berbagai topik yang relevan dalam kehidupan sehari-har
     <desc lang="id">Eps 01 (Subs)</desc>
     <icon src="https://thumbor.prod.vidiocdn.com/r_QaZubFaj9Ht_TI2kDgdImcRqY=/287x162/filters:strip_icc():quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/image/9182/champions-tv-5-e0dd48.jpg"/>
   </programme>
-  <programme channel="9182" start="20260422183000 +0000" stop="20260422211000 +0000">
+  <programme channel="9182" start="20260422183000 +0000" stop="20260422210200 +0000">
     <title lang="id">Burnley vs Man City - Premier League</title>
     <desc lang="id">Nonton streaming pertandingan seru Burnley vs Man City - Premier League. Saksikan aksi-aksi terbaik dari tim yang bersaing ketat untuk meraih kemenangan. Dapatkan informasi lengkap mengenai jadwal pertandingan dan hasil pertandingan terbaru hanya di Vidio.</desc>
     <icon src="https://thumbor.prod.vidiocdn.com/hDqAuxcVvhdBXobWbiEXN4cXMc0=/287x162/filters:strip_icc():quality(70)/vidio-media-production/uploads/livestreaming/schedule/thumbnail/5021455/c050df.jpg"/>
   </programme>
-  <programme channel="9182" start="20260422211000 +0000" stop="20260422230000 +0000">
+  <programme channel="9182" start="20260422210200 +0000" stop="20260422230000 +0000">
     <title lang="id">CHELSEA vs MANCHESTER UNITED : THE BIG INTERVIEW 2025/26</title>
     <desc lang="id">CHELSEA vs MANCHESTER UNITED</desc>
     <icon src="https://thumbor.prod.vidiocdn.com/r_QaZubFaj9Ht_TI2kDgdImcRqY=/287x162/filters:strip_icc():quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/image/9182/champions-tv-5-e0dd48.jpg"/>
