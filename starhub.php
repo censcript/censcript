@@ -2122,14 +2122,29 @@
     <programme start="20260421170000 +0000" stop="20260421200000 +0000" channel="KTV HD.starhub">
         <title>Movie - Tamil Selvanum Thaniyar Anjalum</title>
     </programme>
-    <programme start="20260421200000 +0000" stop="20260422040000 +0000" channel="KTV HD.starhub">
-        <title>Information Not Available</title>
+    <programme start="20260421200000 +0000" stop="20260421223000 +0000" channel="KTV HD.starhub">
+        <title>Movie - Paarthanabagam Illayo</title>
     </programme>
-    <programme start="20260422040000 +0000" stop="20260422100000 +0000" channel="KTV HD.starhub">
-        <title>Information Not Available</title>
+    <programme start="20260421223000 +0000" stop="20260422010000 +0000" channel="KTV HD.starhub">
+        <title>Movie - America America</title>
     </programme>
-    <programme start="20260422100000 +0000" stop="20260422160000 +0000" channel="KTV HD.starhub">
-        <title>Information Not Available</title>
+    <programme start="20260422010000 +0000" stop="20260422013000 +0000" channel="KTV HD.starhub">
+        <title>Fillers</title>
+    </programme>
+    <programme start="20260422013000 +0000" stop="20260422043000 +0000" channel="KTV HD.starhub">
+        <title>Movie - Rishi</title>
+    </programme>
+    <programme start="20260422043000 +0000" stop="20260422073000 +0000" channel="KTV HD.starhub">
+        <title>Movie - Manaivi Oru Manickam</title>
+    </programme>
+    <programme start="20260422073000 +0000" stop="20260422103000 +0000" channel="KTV HD.starhub">
+        <title>Movie - Thaaimaman</title>
+    </programme>
+    <programme start="20260422103000 +0000" stop="20260422133000 +0000" channel="KTV HD.starhub">
+        <title>Movie - Anbe Sivam</title>
+    </programme>
+    <programme start="20260422133000 +0000" stop="20260422170000 +0000" channel="KTV HD.starhub">
+        <title>Movie - Chokka thangam</title>
     </programme>
     <programme start="20260421153000 +0000" stop="20260421170000 +0000" channel="beIN Sports 2 HD.starhub">
         <title>Premier Padel 2026: Brussels P2 Day 1 Match 2 (Live)</title>
@@ -2852,7 +2867,7 @@
         <title>Idhayam</title>
     </programme>
     <programme start="20260422150000 +0000" stop="20260422153000 +0000" channel="Zee Tamil.starhub">
-        <title>Idhayam</title>
+        <title>Aval Varuvala</title>
     </programme>
     <programme start="20260422153000 +0000" stop="20260422160000 +0000" channel="Zee Tamil.starhub">
         <title>Varisu</title>

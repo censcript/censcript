@@ -2574,19 +2574,19 @@ Warning: Undefined array key "et" in /usr/home/ManusiaBiasa/domains/manusiabiasa
 <programme start="20260422160000 +0000" stop="20260422162000 +0000" channel="Sky Sport Austria 3 HD.skyde">
     <title>Es folgt: Live Admiral Bundesliga</title>
 </programme>
-<programme start="20260422162000 +0000" stop="20260422184500 +0000" channel="Sky Sport Austria 3 HD.skyde">
+<programme start="20260422162000 +0000" stop="20260422191500 +0000" channel="Sky Sport Austria 3 HD.skyde">
     <title>Live Admiral BL: FC Red Bull Salzburg - FK Austria Wien, 28. Runde</title>
 </programme>
 <programme start="20260422160000 +0000" stop="20260422162000 +0000" channel="Sky Sport Austria 4 HD.skyde">
     <title>Es folgt: Live Admiral Bundesliga</title>
 </programme>
-<programme start="20260422162000 +0000" stop="20260422184500 +0000" channel="Sky Sport Austria 4 HD.skyde">
+<programme start="20260422162000 +0000" stop="20260422191500 +0000" channel="Sky Sport Austria 4 HD.skyde">
     <title>Live Admiral BL: SK Rapid - TSV Egger Glas Hartberg, 28. Runde</title>
 </programme>
 <programme start="20260422084000 +0000" stop="20260422090000 +0000" channel="Sky Sport Austria 5 HD.skyde">
     <title>Es folgt: LIVE WTA Tour</title>
 </programme>
-<programme start="20260422090000 +0000" stop="20260422190000 +0000" channel="Sky Sport Austria 5 HD.skyde">
+<programme start="20260422090000 +0000" stop="20260422210000 +0000" channel="Sky Sport Austria 5 HD.skyde">
     <title>Live ATP &amp; WTA: Konferenz Mutua Madrid Open in Madrid (ESP), 2. Tag</title>
 </programme>
 <programme start="20260421220000 +0000" stop="20260421230000 +0000" channel="Sky Sport Bundesliga HD.skyde">
@@ -2665,7 +2665,7 @@ Warning: Undefined array key "et" in /usr/home/ManusiaBiasa/domains/manusiabiasa
     <title>Sky Sport News: Pionierin in Europa - Marie-Louise Eta Exklusiv</title>
 </programme>
 <programme start="20260422200000 +0000" stop="20260422220000 +0000" channel="Sky Sport Bundesliga HD.skyde">
-    <title>BL: Klassiker der Woche: M05 - FCB (2014/15)</title>
+    <title>BL: Klassiker der Woche</title>
 </programme>
 <programme start="20260421233000 +0000" stop="20260422013000 +0000" channel="Sky Sport Bundesliga UHD.skyde">
     <title>BL: Eintracht Frankfurt - RB Leipzig, tipico Topspiel der Woche, 30. Spieltag</title>
@@ -2995,7 +2995,7 @@ Warning: Undefined array key "et" in /usr/home/ManusiaBiasa/domains/manusiabiasa
     <title>ATP: This Week</title>
 </programme>
 <programme start="20260422023000 +0000" stop="20260422043000 +0000" channel="Sky Sport Tennis HD.skyde">
-    <title>WTA 1000: L. Siegemund (GER) - I.-C. Begu (ROM), Mutua Madrid Open in Madrid (ESP), 1. Tag</title>
+    <title>WTA 1000: L. Siegemund (GER) - I. Begu (ROM), Mutua Madrid Open in Madrid (ESP), 1. Tag</title>
 </programme>
 <programme start="20260422043000 +0000" stop="20260422050000 +0000" channel="Sky Sport Tennis HD.skyde">
     <title>ATP: This Week</title>
@@ -3007,7 +3007,7 @@ Warning: Undefined array key "et" in /usr/home/ManusiaBiasa/domains/manusiabiasa
     <title>WTA: All Access Magazine Show</title>
 </programme>
 <programme start="20260422063000 +0000" stop="20260422083000 +0000" channel="Sky Sport Tennis HD.skyde">
-    <title>WTA 1000: L. Siegemund (GER) - I.-C. Begu (ROM), Mutua Madrid Open in Madrid (ESP), 1. Tag</title>
+    <title>WTA 1000: L. Siegemund (GER) - I. Begu (ROM), Mutua Madrid Open in Madrid (ESP), 1. Tag</title>
 </programme>
 <programme start="20260422083000 +0000" stop="20260422090000 +0000" channel="Sky Sport Tennis HD.skyde">
     <title>ATP: This Week</title>
@@ -3093,16 +3093,13 @@ Warning: Undefined array key "et" in /usr/home/ManusiaBiasa/domains/manusiabiasa
 <programme start="20260422090000 +0000" stop="20260422190000 +0000" channel="Sky Sport 1 HD.skyde">
     <title>Live WTA 1000: Mutua Madrid Open in Madrid (ESP), 2. Tag</title>
 </programme>
-<programme start="20260421234000 +0000" stop="20260422000000 +0000" channel="Sky Sport 2 HD.skyde">
-    <title>Es folgt: Live NBA</title>
-</programme>
 <programme start="20260422000000 +0000" stop="20260422080000 +0000" channel="Sky Sport 2 HD.skyde">
     <title>Live NBA: Portland Trail Blazers @ San Antonio Spurs, Playoffs, Runde 1, Spiel 2</title>
 </programme>
 <programme start="20260422174000 +0000" stop="20260422180000 +0000" channel="Sky Sport 2 HD.skyde">
     <title>Es folgt: Live DFB-Pokal</title>
 </programme>
-<programme start="20260422180000 +0000" stop="20260422213000 +0000" channel="Sky Sport 2 HD.skyde">
+<programme start="20260422180000 +0000" stop="20260422230000 +0000" channel="Sky Sport 2 HD.skyde">
     <title>Live DFB-Pokal: Bayer Leverkusen - FC Bayern München, Halbfinale</title>
 </programme>
 <programme start="20260422183000 +0000" stop="20260422185000 +0000" channel="Sky Sport 3 HD.skyde">
