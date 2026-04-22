@@ -242,7 +242,7 @@
         <title>Heroes in White - EP 1</title>
     </programme>
     <programme start="20260422120000 +0000" stop="20260422130000 +0000" channel="Channel 8.mewatch">
-        <title>King of Culinary S5 - EP 5</title>
+        <title>King of Culinary: The Comeback - EP 5</title>
     </programme>
     <programme start="20260422130000 +0000" stop="20260422140000 +0000" channel="Channel 8.mewatch">
         <title>Timeless Memories - EP 11</title>

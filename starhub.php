@@ -8290,7 +8290,7 @@
     <programme start="20260422150000 +0000" stop="20260422153000 +0000" channel="Dragon TV.starhub">
         <title>CARE ON THE WAY</title>
     </programme>
-    <programme start="20260422153000 +0000" stop="20260422160000 +0000" channel="Dragon TV.starhub">
+    <programme start="20260422153000 +0000" stop="20260422170000 +0000" channel="Dragon TV.starhub">
         <title>Ai Romance</title>
     </programme>
     <programme start="20260421160000 +0000" stop="20260421163000 +0000" channel="Travelxp HD.starhub">

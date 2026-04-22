@@ -3080,22 +3080,22 @@
     <title>Ngebor Rezeki</title>
 </programme>
 <programme start="20260422080000 +0000" stop="20260422090000 +0000" channel="Entertainment.mncvision">
-    <title>Tamu Dadakan</title>
+    <title>Jangan Baper</title>
 </programme>
 <programme start="20260422090000 +0000" stop="20260422100000 +0000" channel="Entertainment.mncvision">
-    <title>Jangan Baper</title>
+    <title>OB (Office Boy)</title>
 </programme>
 <programme start="20260422100000 +0000" stop="20260422110000 +0000" channel="Entertainment.mncvision">
     <title>Untold Story: Experiment</title>
 </programme>
 <programme start="20260422110000 +0000" stop="20260422123000 +0000" channel="Entertainment.mncvision">
-    <title>Super Deal</title>
+    <title>New Family 100</title>
 </programme>
 <programme start="20260422123000 +0000" stop="20260422133000 +0000" channel="Entertainment.mncvision">
-    <title>OB (Office Boy)</title>
+    <title>Super Deal</title>
 </programme>
 <programme start="20260422133000 +0000" stop="20260422143000 +0000" channel="Entertainment.mncvision">
-    <title>New Family 100</title>
+    <title>Tamu Dadakan</title>
 </programme>
 <programme start="20260422143000 +0000" stop="20260422160000 +0000" channel="Entertainment.mncvision">
     <title>Super Deal Indonesia</title>
