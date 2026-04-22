@@ -1282,28 +1282,28 @@
   <programme start="20260424022500 +0000" stop="20260424041500 +0000" channel="JOJ Šport 2.webtv.sk">
     <title lang="id">FIS Svetový pohár slalom ženy</title>
   </programme>
-  <programme start="20260424041500 +0000" stop="20260424062000 +0000" channel="JOJ Šport 2.webtv.sk">
+  <programme start="20260424041500 +0000" stop="20260424062500 +0000" channel="JOJ Šport 2.webtv.sk">
     <title lang="id">2025 IIHF Majstrovstvá sveta</title>
   </programme>
-  <programme start="20260424062000 +0000" stop="20260424083500 +0000" channel="JOJ Šport 2.webtv.sk">
+  <programme start="20260424062500 +0000" stop="20260424085000 +0000" channel="JOJ Šport 2.webtv.sk">
     <title lang="id">2025 IIHF Majstrovstvá sveta</title>
   </programme>
-  <programme start="20260424083500 +0000" stop="20260424103000 +0000" channel="JOJ Šport 2.webtv.sk">
+  <programme start="20260424085000 +0000" stop="20260424105000 +0000" channel="JOJ Šport 2.webtv.sk">
     <title lang="id">Basketbal - Tipos SBL</title>
   </programme>
-  <programme start="20260424103000 +0000" stop="20260424115000 +0000" channel="JOJ Šport 2.webtv.sk">
+  <programme start="20260424105000 +0000" stop="20260424121000 +0000" channel="JOJ Šport 2.webtv.sk">
     <title lang="id">Skialpinizmus Svetový pohár</title>
   </programme>
-  <programme start="20260424115000 +0000" stop="20260424150000 +0000" channel="JOJ Šport 2.webtv.sk">
+  <programme start="20260424121000 +0000" stop="20260424150000 +0000" channel="JOJ Šport 2.webtv.sk">
     <title lang="id">Hokej - Reprezentácia</title>
   </programme>
-  <programme start="20260424150000 +0000" stop="20260424174000 +0000" channel="JOJ Šport 2.webtv.sk">
+  <programme start="20260424150000 +0000" stop="20260424175000 +0000" channel="JOJ Šport 2.webtv.sk">
     <title lang="id">Atletika - Gold Continental Tour</title>
   </programme>
-  <programme start="20260424174000 +0000" stop="20260424201000 +0000" channel="JOJ Šport 2.webtv.sk">
+  <programme start="20260424175000 +0000" stop="20260424202000 +0000" channel="JOJ Šport 2.webtv.sk">
     <title lang="id">Hokej - Tipsport liga</title>
   </programme>
-  <programme start="20260424201000 +0000" stop="20260424230000 +0000" channel="JOJ Šport 2.webtv.sk">
+  <programme start="20260424202000 +0000" stop="20260424234500 +0000" channel="JOJ Šport 2.webtv.sk">
     <title lang="id">Hokej - Tipsport liga</title>
   </programme>
   <programme start="20260423215500 +0000" stop="20260423230000 +0000" channel="WAU.webtv.sk">
