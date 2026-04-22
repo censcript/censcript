@@ -2144,7 +2144,7 @@
         <title>Movie - Anbe Sivam</title>
     </programme>
     <programme start="20260422133000 +0000" stop="20260422170000 +0000" channel="KTV HD.starhub">
-        <title>Movie - Chokka thangam</title>
+        <title>Movie - Chokka Thangam</title>
     </programme>
     <programme start="20260421153000 +0000" stop="20260421170000 +0000" channel="beIN Sports 2 HD.starhub">
         <title>Premier Padel 2026: Brussels P2 Day 1 Match 2 (Live)</title>

@@ -159,26 +159,26 @@
     <title lang="id">Hot Shot</title>
     <icon src="https://thumbor.prod.vidiocdn.com/N99E8BD1OJ5vvymwPBj0c-BU5J4=/287x162/filters:strip_icc():quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/image/204/sctv-5ef966.jpg"/>
   </programme>
-  <programme channel="204" start="20260422000000 +0000" stop="20260422010000 +0000">
+  <programme channel="204" start="20260422000000 +0000" stop="20260422010400 +0000">
     <title lang="id">Tiba-Tiba Kuis</title>
-    <desc lang="id">Program?kuis reality yang dipandu oleh Baim Wong, menemani pemirsa setia?SCTV?Senin - Jumat pkl. 07.00 WIB.</desc>
+    <desc lang="id">Program kuis reality yang dipandu oleh Baim Wong, menemani pemirsa setia SCTV, Senin - Jumat pkl. 07.00 WIB.</desc>
     <icon src="https://thumbor.prod.vidiocdn.com/9D7qbg6_9Ry3jJoVmniFRu5RX8Y=/287x162/filters:strip_icc():quality(70)/vidio-media-production/uploads/livestreaming/schedule/thumbnail/5022027/216c65.jpg"/>
   </programme>
-  <programme channel="204" start="20260422010000 +0000" stop="20260422030000 +0000">
-    <title lang="id">FTV Pagi Spesial: Rebut Pacar Sahabat? Asiaaap!</title>
+  <programme channel="204" start="20260422010400 +0000" stop="20260422025500 +0000">
+    <title lang="id">FTV Pagi Spesial: Kukira Cupu Ternyata Penghulu Cintaku</title>
     <desc lang="id">Film televisi yang mengangkat kisah romantisme kehidupan dengan konflik yang menarik. Tayang setiap hari.</desc>
     <icon src="https://thumbor.prod.vidiocdn.com/zuuVkbLWGMFblkuAxjdapBvMMrQ=/287x162/filters:strip_icc():quality(70)/vidio-media-production/uploads/livestreaming/schedule/thumbnail/5020951/ccc7a4.jpg"/>
   </programme>
-  <programme channel="204" start="20260422030000 +0000" stop="20260422050000 +0000">
-    <title lang="id">FTV Pagi: Hampir Kena Ulti Ayang</title>
+  <programme channel="204" start="20260422025500 +0000" stop="20260422044600 +0000">
+    <title lang="id">FTV Pagi: Panggilan Cintanya Di Angkat Dong</title>
     <desc lang="id">Film televisi yang mengangkat kisah romantisme kehidupan dengan konflik yang menarik. Tayang setiap hari.</desc>
     <icon src="https://thumbor.prod.vidiocdn.com/5nBVWSUKfPsMqJFDDI-basKkBZw=/287x162/filters:strip_icc():quality(70)/vidio-media-production/uploads/livestreaming/schedule/thumbnail/5020952/430fd0.jpg"/>
   </programme>
-  <programme channel="204" start="20260422050000 +0000" stop="20260422053000 +0000">
+  <programme channel="204" start="20260422044600 +0000" stop="20260422052100 +0000">
     <title lang="id">Liputan 6 Siang</title>
     <icon src="https://thumbor.prod.vidiocdn.com/aWSKrIINMIRbBdz-O1BBCZ8ncJs=/287x162/filters:strip_icc():quality(70)/vidio-media-production/uploads/livestreaming/schedule/thumbnail/5022028/02bb55.jpg"/>
   </programme>
-  <programme channel="204" start="20260422053000 +0000" stop="20260422070000 +0000">
+  <programme channel="204" start="20260422052100 +0000" stop="20260422070000 +0000">
     <title lang="id">FTV Siang: Runaway Demi Cinta</title>
     <desc lang="id">Film televisi yang mengangkat kisah romantisme kehidupan dengan konflik yang menarik. Tayang setiap hari.</desc>
     <icon src="https://thumbor.prod.vidiocdn.com/vIA6RtES5OR7HzltgZHgGRuhO_8=/287x162/filters:strip_icc():quality(70)/vidio-media-production/uploads/livestreaming/schedule/thumbnail/5020953/6b261c.jpg"/>
@@ -214,27 +214,27 @@
     <icon src="https://thumbor.prod.vidiocdn.com/oMFhUagHdo4551UBuIvUsG9_qZA=/287x162/filters:strip_icc():quality(70)/vidio-media-production/uploads/tv_program/thumbnail/399305/1d17bf.jpg"/>
   </programme>
   <programme channel="204" start="20260422160000 +0000" stop="20260422173000 +0000">
-    <title lang="id">Ftv Primetime Preman Sadis Jadi Romantis</title>
+    <title lang="id">FTV Primetime : Preman Sadis Jadi Romantis</title>
     <desc lang="id">Film televisi yang mengangkat kisah romantisme kehidupan dengan konflik yang menarik. Tayang setiap hari.</desc>
     <icon src="https://thumbor.prod.vidiocdn.com/N99E8BD1OJ5vvymwPBj0c-BU5J4=/287x162/filters:strip_icc():quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/image/204/sctv-5ef966.jpg"/>
   </programme>
   <programme channel="204" start="20260422160000 +0000" stop="20260422173000 +0000">
-    <title lang="id">Ftv Primetime Preman Sadis Jadi Romantis</title>
+    <title lang="id">FTV Primetime : Preman Sadis Jadi Romantis</title>
     <desc lang="id">Film televisi yang mengangkat kisah romantisme kehidupan dengan konflik yang menarik. Tayang setiap hari.</desc>
     <icon src="https://thumbor.prod.vidiocdn.com/N99E8BD1OJ5vvymwPBj0c-BU5J4=/287x162/filters:strip_icc():quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/image/204/sctv-5ef966.jpg"/>
   </programme>
   <programme channel="204" start="20260422173000 +0000" stop="20260422184500 +0000">
-    <title lang="id">Ftv Utama Cantik Cantik Supir Omprengan</title>
+    <title lang="id">FTV Utama : Cantik Cantik Supir Omprengan</title>
     <desc lang="id">Film televisi yang mengangkat kisah romantisme kehidupan dengan konflik yang menarik. Tayang setiap hari.</desc>
     <icon src="https://thumbor.prod.vidiocdn.com/N99E8BD1OJ5vvymwPBj0c-BU5J4=/287x162/filters:strip_icc():quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/image/204/sctv-5ef966.jpg"/>
   </programme>
   <programme channel="204" start="20260422184500 +0000" stop="20260422200000 +0000">
-    <title lang="id">Sinema Malam Putri Rempong Sejagad</title>
+    <title lang="id">Sinema Malam : Putri Rempong Sejagad</title>
     <desc lang="id">Film televisi yang mengangkat kisah romantisme kehidupan dengan konflik yang menarik. Tayang setiap hari.</desc>
     <icon src="https://thumbor.prod.vidiocdn.com/N99E8BD1OJ5vvymwPBj0c-BU5J4=/287x162/filters:strip_icc():quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/image/204/sctv-5ef966.jpg"/>
   </programme>
   <programme channel="204" start="20260422200000 +0000" stop="20260422210000 +0000">
-    <title lang="id">Sinema Dini Hari Miss Sepatu Roda</title>
+    <title lang="id">Sinema Dini Hari : Miss Sepatu Roda</title>
     <desc lang="id">Film televisi yang mengangkat kisah romantisme kehidupan dengan konflik yang menarik. Tayang setiap hari.</desc>
     <icon src="https://thumbor.prod.vidiocdn.com/N99E8BD1OJ5vvymwPBj0c-BU5J4=/287x162/filters:strip_icc():quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/image/204/sctv-5ef966.jpg"/>
   </programme>
@@ -248,8 +248,8 @@
     <icon src="https://thumbor.prod.vidiocdn.com/hqiU7koXgDL4zkxckArkSQHfwWw=/287x162/filters:strip_icc():quality(70)/vidio-media-production/uploads/tv_program/thumbnail/382356/d78201.jpg"/>
   </programme>
   <programme channel="204" start="20260422220000 +0000" stop="20260422230000 +0000">
-    <title lang="id">Liputan 6 Pagi - Live</title>
-    <icon src="https://thumbor.prod.vidiocdn.com/N99E8BD1OJ5vvymwPBj0c-BU5J4=/287x162/filters:strip_icc():quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/image/204/sctv-5ef966.jpg"/>
+    <title lang="id">Liputan 6 Pagi</title>
+    <icon src="https://thumbor.prod.vidiocdn.com/KhARJKU6eh4ShSZD8GH2ILp2w_Q=/287x162/filters:strip_icc():quality(70)/vidio-media-production/uploads/livestreaming/schedule/thumbnail/5020888/4479ba.jpg"/>
   </programme>
   <programme channel="204" start="20260422230000 +0000" stop="20260423000000 +0000">
     <title lang="id">Halo Selebriti</title>
@@ -258,36 +258,36 @@
   <programme channel="204" start="20260423000000 +0000" stop="20260423010000 +0000">
     <title lang="id">Tiba-Tiba Kuis</title>
     <desc lang="id">Program?kuis reality yang dipandu oleh Baim Wong, menemani pemirsa setia?SCTV?Senin - Jumat pkl. 07.00 WIB.</desc>
-    <icon src="https://thumbor.prod.vidiocdn.com/N99E8BD1OJ5vvymwPBj0c-BU5J4=/287x162/filters:strip_icc():quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/image/204/sctv-5ef966.jpg"/>
+    <icon src="https://thumbor.prod.vidiocdn.com/368pcuhoq4bWf9kJ8hD-uyMAVBU=/287x162/filters:strip_icc():quality(70)/vidio-media-production/uploads/livestreaming/schedule/thumbnail/5020898/996c56.jpg"/>
   </programme>
   <programme channel="204" start="20260423010000 +0000" stop="20260423030000 +0000">
-    <title lang="id">Ftv Pagi Spesial Kukira Cupu Ternyata Penghulu Cintaku</title>
+    <title lang="id">FTV Pagi Spesial: Rebut Pacar Sahabat? Asiaaap!</title>
     <desc lang="id">Film televisi yang mengangkat kisah romantisme kehidupan dengan konflik yang menarik. Tayang setiap hari.</desc>
-    <icon src="https://thumbor.prod.vidiocdn.com/N99E8BD1OJ5vvymwPBj0c-BU5J4=/287x162/filters:strip_icc():quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/image/204/sctv-5ef966.jpg"/>
+    <icon src="https://thumbor.prod.vidiocdn.com/8fPg5TXKy9RrxnvfNz-jMowJzK8=/287x162/filters:strip_icc():quality(70)/vidio-media-production/uploads/livestreaming/schedule/thumbnail/5022033/27eac6.jpg"/>
   </programme>
   <programme channel="204" start="20260423030000 +0000" stop="20260423050000 +0000">
-    <title lang="id">Ftv Pagi</title>
+    <title lang="id">FTV Pagi: Kalau Sudah Jodoh Bergema Selamanya</title>
     <desc lang="id">Film televisi yang mengangkat kisah romantisme kehidupan dengan konflik yang menarik. Tayang setiap hari.</desc>
-    <icon src="https://thumbor.prod.vidiocdn.com/N99E8BD1OJ5vvymwPBj0c-BU5J4=/287x162/filters:strip_icc():quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/image/204/sctv-5ef966.jpg"/>
+    <icon src="https://thumbor.prod.vidiocdn.com/NrVPVkW_eYwu29UfHOEuSr7PG4k=/287x162/filters:strip_icc():quality(70)/vidio-media-production/uploads/livestreaming/schedule/thumbnail/5020972/2ab5e5.jpg"/>
   </programme>
   <programme channel="204" start="20260423050000 +0000" stop="20260423053000 +0000">
-    <title lang="id">Liputan 6 Siang - Live</title>
-    <icon src="https://thumbor.prod.vidiocdn.com/N99E8BD1OJ5vvymwPBj0c-BU5J4=/287x162/filters:strip_icc():quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/image/204/sctv-5ef966.jpg"/>
+    <title lang="id">Liputan 6 Siang</title>
+    <icon src="https://thumbor.prod.vidiocdn.com/puDd-G1TFhnQ3nVCZzYh6ZTxVjI=/287x162/filters:strip_icc():quality(70)/vidio-media-production/uploads/livestreaming/schedule/thumbnail/5020905/84c2cd.jpg"/>
   </programme>
   <programme channel="204" start="20260423053000 +0000" stop="20260423070000 +0000">
-    <title lang="id">Ftv Siang Miss Duren Lupa Kulitnya</title>
+    <title lang="id">FTV Siang: Miss Duren Lupa Kulitnya</title>
     <desc lang="id">Film televisi yang mengangkat kisah romantisme kehidupan dengan konflik yang menarik. Tayang setiap hari.</desc>
-    <icon src="https://thumbor.prod.vidiocdn.com/N99E8BD1OJ5vvymwPBj0c-BU5J4=/287x162/filters:strip_icc():quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/image/204/sctv-5ef966.jpg"/>
+    <icon src="https://thumbor.prod.vidiocdn.com/9Pv26ShP1uziGAIRBfMyYX3jvsQ=/287x162/filters:strip_icc():quality(70)/vidio-media-production/uploads/livestreaming/schedule/thumbnail/5022034/51931f.jpg"/>
   </programme>
   <programme channel="204" start="20260423070000 +0000" stop="20260423084500 +0000">
-    <title lang="id">Ftv Siang Jelaskan Cintamu Padaku Seyuyur Yuyurnya</title>
+    <title lang="id">FTV Siang 1: Jelaskan Cintamu Padaku Seyuyur Yuyurnya</title>
     <desc lang="id">Film televisi yang mengangkat kisah romantisme kehidupan dengan konflik yang menarik. Tayang setiap hari.</desc>
-    <icon src="https://thumbor.prod.vidiocdn.com/N99E8BD1OJ5vvymwPBj0c-BU5J4=/287x162/filters:strip_icc():quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/image/204/sctv-5ef966.jpg"/>
+    <icon src="https://thumbor.prod.vidiocdn.com/yGHzGVBx9uJYSpohh9-LqYQS8hs=/287x162/filters:strip_icc():quality(70)/vidio-media-production/uploads/livestreaming/schedule/thumbnail/5022035/6d0d6c.jpg"/>
   </programme>
   <programme channel="204" start="20260423084500 +0000" stop="20260423100000 +0000">
-    <title lang="id">Ftv Sore Bumbu Cinta Diracik Oleh Rasa Yang Ada</title>
+    <title lang="id">FTV Sore: Bumbu Cinta Diracik Oleh Rasa Yang Ada</title>
     <desc lang="id">Film televisi yang mengangkat kisah romantisme kehidupan dengan konflik yang menarik. Tayang setiap hari.</desc>
-    <icon src="https://thumbor.prod.vidiocdn.com/N99E8BD1OJ5vvymwPBj0c-BU5J4=/287x162/filters:strip_icc():quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/image/204/sctv-5ef966.jpg"/>
+    <icon src="https://thumbor.prod.vidiocdn.com/xk9tM4fQJ01BM-rdF720vu1gX4s=/287x162/filters:strip_icc():quality(70)/vidio-media-production/uploads/livestreaming/schedule/thumbnail/5022036/a3afa7.jpg"/>
   </programme>
   <programme channel="204" start="20260423100000 +0000" stop="20260423111500 +0000">
     <title lang="id">Asmara Gen Z</title>
@@ -300,9 +300,9 @@
     <icon src="https://thumbor.prod.vidiocdn.com/qhZpHEqYoWbfBrJa0aLRcUb0G7I=/287x162/filters:strip_icc():quality(70)/vidio-media-production/uploads/tv_program/thumbnail/401147/50494f.jpg"/>
   </programme>
   <programme channel="204" start="20260423130000 +0000" stop="20260423143000 +0000">
-    <title lang="id">Beri Cinta Waktu 30</title>
+    <title lang="id">Beri Cinta Waktu</title>
     <desc lang="id">Sinetron romansa tentang perjalanan Trian (Yesaya Abraham) mencari keadilan dan mengungkap kejahatan pasca Adila, istrinya meninggal dunia, dengan bantuan Rama (Rayn Wijaya) dan Asmara (Angela Gilsha). Tayang setiap hari pukul 20.10 WIB</desc>
-    <icon src="https://thumbor.prod.vidiocdn.com/N99E8BD1OJ5vvymwPBj0c-BU5J4=/287x162/filters:strip_icc():quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/image/204/sctv-5ef966.jpg"/>
+    <icon src="https://thumbor.prod.vidiocdn.com/GRxMMd9uqD-K1XrMdUaAQRBa3w4=/287x162/filters:strip_icc():quality(70)/vidio-media-production/uploads/livestreaming/schedule/thumbnail/5020982/943af5.jpg"/>
   </programme>
   <programme channel="204" start="20260423143000 +0000" stop="20260423160000 +0000">
     <title lang="id">Jejak Duka Diandra</title>
@@ -312,12 +312,12 @@
   <programme channel="204" start="20260423160000 +0000" stop="20260423180000 +0000">
     <title lang="id">Film Layar Lebar "Dilan 1990"</title>
     <desc lang="id">Milea bertemu dengan Dilan di sebuah SMA di Bandung pada tahun 1990. Perkenalan yang tidak biasa membawa Milea mengenal keunikan Dilan yang cerdas, baik hati, dan romantis di matanya.</desc>
-    <icon src="https://thumbor.prod.vidiocdn.com/N99E8BD1OJ5vvymwPBj0c-BU5J4=/287x162/filters:strip_icc():quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/image/204/sctv-5ef966.jpg"/>
+    <icon src="https://thumbor.prod.vidiocdn.com/XtagzSm4_TDup634QYIwpkKp2eE=/287x162/filters:strip_icc():quality(70)/vidio-media-production/uploads/livestreaming/schedule/thumbnail/5020983/dd035a.jpg"/>
   </programme>
   <programme channel="204" start="20260423160000 +0000" stop="20260423180000 +0000">
     <title lang="id">Film Layar Lebar "Dilan 1990"</title>
     <desc lang="id">Milea bertemu dengan Dilan di sebuah SMA di Bandung pada tahun 1990. Perkenalan yang tidak biasa membawa Milea mengenal keunikan Dilan yang cerdas, baik hati, dan romantis di matanya.</desc>
-    <icon src="https://thumbor.prod.vidiocdn.com/N99E8BD1OJ5vvymwPBj0c-BU5J4=/287x162/filters:strip_icc():quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/image/204/sctv-5ef966.jpg"/>
+    <icon src="https://thumbor.prod.vidiocdn.com/XtagzSm4_TDup634QYIwpkKp2eE=/287x162/filters:strip_icc():quality(70)/vidio-media-production/uploads/livestreaming/schedule/thumbnail/5020983/dd035a.jpg"/>
   </programme>
   <programme channel="204" start="20260423180000 +0000" stop="20260423190000 +0000">
     <title lang="id">Ftv Utama Rute Cinta No.23</title>
@@ -680,14 +680,14 @@
     <icon src="https://thumbor.prod.vidiocdn.com/_KZ0-YL57kjxS6Efi34aZfMnaBM=/287x162/filters:strip_icc():quality(70)/vidio-media-production/uploads/livestreaming/schedule/thumbnail/5020719/3519b4.jpg"/>
   </programme>
   <programme channel="205" start="20260422180000 +0000" stop="20260422200000 +0000">
-    <title lang="id">Mega Film Asia : Once Upon A Time In China Iv</title>
+    <title lang="id">Mega Film Asia : Once Upon A Time In China IV</title>
     <desc lang="id">Mega Film Asia Adalah Program Yang Memutarkan Film-Film Asia Yang Ditayangkan Di Indosiar. Acara Ini Ditayangkan Perdana Pada Tahun 1996 Silam.</desc>
-    <icon src="https://thumbor.prod.vidiocdn.com/cBZL7ITaJCof6cqtayFee2uJCX8=/287x162/filters:strip_icc():quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/image/205/indosiar-d9a3d0.jpg"/>
+    <icon src="https://thumbor.prod.vidiocdn.com/mJw9FDdCwkrOWklWYLT45zqOPYY=/287x162/filters:strip_icc():quality(70)/vidio-media-production/uploads/livestreaming/schedule/thumbnail/5020746/c37476.jpg"/>
   </programme>
   <programme channel="205" start="20260422200000 +0000" stop="20260422213000 +0000">
     <title lang="id">Mega Film Asia : Cruel War</title>
     <desc lang="id">Mega Film Asia Adalah Program Yang Memutarkan Film-Film Asia Yang Ditayangkan Di Indosiar. Acara Ini Ditayangkan Perdana Pada Tahun 1996 Silam.</desc>
-    <icon src="https://thumbor.prod.vidiocdn.com/cBZL7ITaJCof6cqtayFee2uJCX8=/287x162/filters:strip_icc():quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/image/205/indosiar-d9a3d0.jpg"/>
+    <icon src="https://thumbor.prod.vidiocdn.com/9GK3EcAA0ge3Uk--HN0thvnxscE=/287x162/filters:strip_icc():quality(70)/vidio-media-production/uploads/livestreaming/schedule/thumbnail/5020747/2d6c42.jpg"/>
   </programme>
   <programme channel="205" start="20260422213000 +0000" stop="20260422230000 +0000">
     <title lang="id">Fokus Pagi</title>
@@ -757,12 +757,12 @@
   <programme channel="205" start="20260423160000 +0000" stop="20260423180000 +0000">
     <title lang="id">Mega Series Action Asia : Heroes</title>
     <desc lang="id">Sebuah Kisah Epic Yang Melegenda Perjuangan Sang Master Kungfu: Huo Yuan Jia, Memimipin Perlawanan Bangsanya Dalam Menghadapi Invasi Penjajah. Saksikan Penampilan Memukau: Vincent Zhao, Nikita Mao dan Bintang Laga Lainnya Dalam Mega Series Action Asia: Heroes, Mulai 14 Maret 2025, Pkl 23.00 WIB, Hanya Di Indosiar</desc>
-    <icon src="https://thumbor.prod.vidiocdn.com/cBZL7ITaJCof6cqtayFee2uJCX8=/287x162/filters:strip_icc():quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/image/205/indosiar-d9a3d0.jpg"/>
+    <icon src="https://thumbor.prod.vidiocdn.com/tI_Itm47GZpSSkTL2A8jgknwfmk=/287x162/filters:strip_icc():quality(70)/vidio-media-production/uploads/livestreaming/schedule/thumbnail/5020720/b1c792.jpg"/>
   </programme>
   <programme channel="205" start="20260423160000 +0000" stop="20260423180000 +0000">
     <title lang="id">Mega Series Action Asia : Heroes</title>
     <desc lang="id">Sebuah Kisah Epic Yang Melegenda Perjuangan Sang Master Kungfu: Huo Yuan Jia, Memimipin Perlawanan Bangsanya Dalam Menghadapi Invasi Penjajah. Saksikan Penampilan Memukau: Vincent Zhao, Nikita Mao dan Bintang Laga Lainnya Dalam Mega Series Action Asia: Heroes, Mulai 14 Maret 2025, Pkl 23.00 WIB, Hanya Di Indosiar</desc>
-    <icon src="https://thumbor.prod.vidiocdn.com/cBZL7ITaJCof6cqtayFee2uJCX8=/287x162/filters:strip_icc():quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/image/205/indosiar-d9a3d0.jpg"/>
+    <icon src="https://thumbor.prod.vidiocdn.com/tI_Itm47GZpSSkTL2A8jgknwfmk=/287x162/filters:strip_icc():quality(70)/vidio-media-production/uploads/livestreaming/schedule/thumbnail/5020720/b1c792.jpg"/>
   </programme>
   <programme channel="205" start="20260423180000 +0000" stop="20260423200000 +0000">
     <title lang="id">Mega Film Asia : Once Upon A Time In China V</title>
@@ -7594,12 +7594,12 @@
     <desc lang="id">Kisah seorang inspektur yang terlibat dalam kisah percintaan segitiga.</desc>
     <icon src="https://thumbor.prod.vidiocdn.com/VMqJn9jawRecdbw5SSdxxTHN_88=/287x162/filters:strip_icc():quality(70)/vidio-media-production/uploads/tv_program/thumbnail/386704/218ebf.jpg"/>
   </programme>
-  <programme channel="782" start="20260422023100 +0000" stop="20260422060000 +0000">
+  <programme channel="782" start="20260422023100 +0000" stop="20260422054600 +0000">
     <title lang="id">Mega Bollywood: Dil</title>
     <desc lang="id">Seorang pria berpura-pura menjadi industrialis kaya untuk meningkatkan peluang putranya menikah dengan orang kaya, namun rencananya menjadi bumerang baginya.</desc>
     <icon src="https://thumbor.prod.vidiocdn.com/k1mC2EGgqS5IJ4CmSQW0L5RKuac=/287x162/filters:strip_icc():quality(70)/vidio-media-production/uploads/livestreaming/schedule/thumbnail/5021953/13a215.jpg"/>
   </programme>
-  <programme channel="782" start="20260422060000 +0000" stop="20260422080000 +0000">
+  <programme channel="782" start="20260422054600 +0000" stop="20260422080000 +0000">
     <title lang="id">Jhanak</title>
     <desc lang="id">Seorang wanita muda yang bersemangat memulai perjalanan untuk memenuhi janji seorang ibu demi kehidupan yang lebih baik sambil mengatasi tantangan dan kehilangan.</desc>
     <icon src="https://thumbor.prod.vidiocdn.com/-XceQPBMRkruCllh0jkaAHFos6E=/287x162/filters:strip_icc():quality(70)/vidio-media-production/uploads/livestreaming/schedule/thumbnail/5021947/4751b0.jpg"/>
@@ -9513,24 +9513,28 @@
     <title lang="id">Bing</title>
     <icon src="https://thumbor.prod.vidiocdn.com/01IggaPN4sSDILtEw_0MxWGgmO8=/287x162/filters:strip_icc():quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/image/8237/mentari-tv-01d2b0.jpg"/>
   </programme>
-  <programme channel="8237" start="20260422110000 +0000" stop="20260422120000 +0000">
+  <programme channel="8237" start="20260422110000 +0000" stop="20260422113000 +0000">
     <title lang="id">Magic 5 the Animation</title>
     <icon src="https://thumbor.prod.vidiocdn.com/S8o-1c2O-6EIPfmWblr0TQzECNg=/287x162/filters:strip_icc():quality(70)/vidio-media-production/uploads/livestreaming/schedule/thumbnail/5021941/52d76b.jpg"/>
   </programme>
-  <programme channel="8237" start="20260422130000 +0000" stop="20260422150000 +0000">
+  <programme channel="8237" start="20260422113000 +0000" stop="20260422120000 +0000">
+    <title lang="id">New Keluarga Somat</title>
+    <icon src="https://thumbor.prod.vidiocdn.com/5-HZwGnYpPGdLCNBHyqi94YGWzM=/287x162/filters:strip_icc():quality(70)/vidio-media-production/uploads/livestreaming/schedule/thumbnail/5022261/2e744c.jpg"/>
+  </programme>
+  <programme channel="8237" start="20260422120000 +0000" stop="20260422140000 +0000">
     <title lang="id">Bioskop Keluarga Indonesia</title>
     <icon src="https://thumbor.prod.vidiocdn.com/2sYpT835QeSNybGK97co8usINQI=/287x162/filters:strip_icc():quality(70)/vidio-media-production/uploads/livestreaming/schedule/thumbnail/5021942/48f1a9.jpg"/>
   </programme>
-  <programme channel="8237" start="20260422150000 +0000" stop="20260422160000 +0000">
+  <programme channel="8237" start="20260422140000 +0000" stop="20260422153000 +0000">
     <title lang="id">Pokemon</title>
     <icon src="https://thumbor.prod.vidiocdn.com/0BuOYPy96qNsrOEOYiWNEl0Ohyk=/287x162/filters:strip_icc():quality(70)/vidio-media-production/uploads/livestreaming/schedule/thumbnail/5021943/431c39.jpg"/>
   </programme>
-  <programme channel="8237" start="20260422160000 +0000" stop="20260422170000 +0000">
+  <programme channel="8237" start="20260422153000 +0000" stop="20260422170000 +0000">
     <title lang="id">Keluarga Somat</title>
     <desc lang="id">Cerita kehidupan sehari-hari Pak Somat, seorang kepala keluarga yang sederhana, pekerja keras, dan penuh tingkah kocak bersama istrinya Bu Inah, anak-anaknya Dudung dan Dodi, serta tetangga-tetangganya.</desc>
     <icon src="https://thumbor.prod.vidiocdn.com/01IggaPN4sSDILtEw_0MxWGgmO8=/287x162/filters:strip_icc():quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/image/8237/mentari-tv-01d2b0.jpg"/>
   </programme>
-  <programme channel="8237" start="20260422160000 +0000" stop="20260422170000 +0000">
+  <programme channel="8237" start="20260422153000 +0000" stop="20260422170000 +0000">
     <title lang="id">Keluarga Somat</title>
     <desc lang="id">Cerita kehidupan sehari-hari Pak Somat, seorang kepala keluarga yang sederhana, pekerja keras, dan penuh tingkah kocak bersama istrinya Bu Inah, anak-anaknya Dudung dan Dodi, serta tetangga-tetangganya.</desc>
     <icon src="https://thumbor.prod.vidiocdn.com/01IggaPN4sSDILtEw_0MxWGgmO8=/287x162/filters:strip_icc():quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/image/8237/mentari-tv-01d2b0.jpg"/>
@@ -9605,24 +9609,28 @@
     <title lang="id">Bing</title>
     <icon src="https://thumbor.prod.vidiocdn.com/01IggaPN4sSDILtEw_0MxWGgmO8=/287x162/filters:strip_icc():quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/image/8237/mentari-tv-01d2b0.jpg"/>
   </programme>
-  <programme channel="8237" start="20260423110000 +0000" stop="20260423120000 +0000">
+  <programme channel="8237" start="20260423110000 +0000" stop="20260423113000 +0000">
     <title lang="id">Magic 5 the Animation</title>
     <icon src="https://thumbor.prod.vidiocdn.com/01IggaPN4sSDILtEw_0MxWGgmO8=/287x162/filters:strip_icc():quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/image/8237/mentari-tv-01d2b0.jpg"/>
   </programme>
-  <programme channel="8237" start="20260423130000 +0000" stop="20260423150000 +0000">
+  <programme channel="8237" start="20260423113000 +0000" stop="20260423120000 +0000">
+    <title lang="id">New Keluarga Somat</title>
+    <icon src="https://thumbor.prod.vidiocdn.com/Lcaq62B5QjGSCpTrPPrqensy594=/287x162/filters:strip_icc():quality(70)/vidio-media-production/uploads/livestreaming/schedule/thumbnail/5022271/a500a2.jpg"/>
+  </programme>
+  <programme channel="8237" start="20260423120000 +0000" stop="20260423140000 +0000">
     <title lang="id">Bioskop Keluarga Indonesia</title>
     <icon src="https://thumbor.prod.vidiocdn.com/01IggaPN4sSDILtEw_0MxWGgmO8=/287x162/filters:strip_icc():quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/image/8237/mentari-tv-01d2b0.jpg"/>
   </programme>
-  <programme channel="8237" start="20260423150000 +0000" stop="20260423160000 +0000">
+  <programme channel="8237" start="20260423140000 +0000" stop="20260423153000 +0000">
     <title lang="id">Pokemon</title>
     <icon src="https://thumbor.prod.vidiocdn.com/01IggaPN4sSDILtEw_0MxWGgmO8=/287x162/filters:strip_icc():quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/image/8237/mentari-tv-01d2b0.jpg"/>
   </programme>
-  <programme channel="8237" start="20260423160000 +0000" stop="20260423170000 +0000">
+  <programme channel="8237" start="20260423153000 +0000" stop="20260423170000 +0000">
     <title lang="id">Keluarga Somat</title>
     <desc lang="id">Cerita kehidupan sehari-hari Pak Somat, seorang kepala keluarga yang sederhana, pekerja keras, dan penuh tingkah kocak bersama istrinya Bu Inah, anak-anaknya Dudung dan Dodi, serta tetangga-tetangganya.</desc>
     <icon src="https://thumbor.prod.vidiocdn.com/01IggaPN4sSDILtEw_0MxWGgmO8=/287x162/filters:strip_icc():quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/image/8237/mentari-tv-01d2b0.jpg"/>
   </programme>
-  <programme channel="8237" start="20260423160000 +0000" stop="20260423170000 +0000">
+  <programme channel="8237" start="20260423153000 +0000" stop="20260423170000 +0000">
     <title lang="id">Keluarga Somat</title>
     <desc lang="id">Cerita kehidupan sehari-hari Pak Somat, seorang kepala keluarga yang sederhana, pekerja keras, dan penuh tingkah kocak bersama istrinya Bu Inah, anak-anaknya Dudung dan Dodi, serta tetangga-tetangganya.</desc>
     <icon src="https://thumbor.prod.vidiocdn.com/01IggaPN4sSDILtEw_0MxWGgmO8=/287x162/filters:strip_icc():quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/image/8237/mentari-tv-01d2b0.jpg"/>
