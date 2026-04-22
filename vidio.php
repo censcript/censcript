@@ -1979,22 +1979,19 @@
     <desc lang="id">Proliga 2026 First Serve 16:00</desc>
     <icon src="https://thumbor.prod.vidiocdn.com/NdmzqkxqnWVnlngtk_ObYNT-wiY=/287x162/filters:strip_icc():quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/image/206/moji-a5bd3e.jpg"/>
   </programme>
-  <programme channel="206" start="20260422112000 +0000" stop="20260422150000 +0000">
+  <programme channel="206" start="20260422112000 +0000" stop="20260422153700 +0000">
     <title lang="id">Proliga 2026 First Serve 19:00</title>
     <desc lang="id">Proliga 2026 First Serve 19:00</desc>
     <icon src="https://thumbor.prod.vidiocdn.com/NdmzqkxqnWVnlngtk_ObYNT-wiY=/287x162/filters:strip_icc():quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/image/206/moji-a5bd3e.jpg"/>
   </programme>
-  <programme channel="206" start="20260422150000 +0000" stop="20260422160000 +0000">
+  <programme channel="206" start="20260422153700 +0000" stop="20260422171400 +0000">
     <title lang="id">Rerun Ucl</title>
     <desc lang="id">Rerun Ucl</desc>
     <icon src="https://thumbor.prod.vidiocdn.com/NdmzqkxqnWVnlngtk_ObYNT-wiY=/287x162/filters:strip_icc():quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/image/206/moji-a5bd3e.jpg"/>
   </programme>
-  <programme channel="206" start="20260422160000 +0000" stop="20260422171400 +0000">
-    <title lang="id">HARTA TAHTA CINTA</title>
-    <icon src="https://thumbor.prod.vidiocdn.com/NdmzqkxqnWVnlngtk_ObYNT-wiY=/287x162/filters:strip_icc():quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/image/206/moji-a5bd3e.jpg"/>
-  </programme>
-  <programme channel="206" start="20260422160000 +0000" stop="20260422171400 +0000">
-    <title lang="id">HARTA TAHTA CINTA</title>
+  <programme channel="206" start="20260422153700 +0000" stop="20260422171400 +0000">
+    <title lang="id">Rerun Ucl</title>
+    <desc lang="id">Rerun Ucl</desc>
     <icon src="https://thumbor.prod.vidiocdn.com/NdmzqkxqnWVnlngtk_ObYNT-wiY=/287x162/filters:strip_icc():quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/image/206/moji-a5bd3e.jpg"/>
   </programme>
   <programme channel="206" start="20260422171400 +0000" stop="20260422201300 +0000">
@@ -13019,20 +13016,10 @@
     <desc lang="id">Week 23</desc>
     <icon src="https://thumbor.prod.vidiocdn.com/nY0aFklpYf6yONLaFJjxhiSuthc=/287x162/filters:strip_icc():quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/image/6786/champions-tv-3-76ca7c.jpg"/>
   </programme>
-  <programme channel="6786" start="20260422090000 +0000" stop="20260422140000 +0000">
+  <programme channel="6786" start="20260422090000 +0000" stop="20260422150000 +0000">
     <title lang="id">Day 1 - WTA 1000: Mutua Madrid Open 2026</title>
     <desc lang="id">Nonton streaming pertandingan seru Day 1 - WTA 1000: Mutua Madrid Open 2026. Saksikan aksi-aksi terbaik dari tim yang bersaing ketat untuk meraih kemenangan. Dapatkan informasi lengkap mengenai jadwal pertandingan dan hasil pertandingan terbaru hanya di Vidio.</desc>
     <icon src="https://thumbor.prod.vidiocdn.com/omJHxIproWK7f2KClOCvBTmcVGc=/287x162/filters:strip_icc():quality(70)/vidio-media-production/uploads/livestreaming/schedule/thumbnail/5021677/2d690e.jpg"/>
-  </programme>
-  <programme channel="6786" start="20260422140000 +0000" stop="20260422143000 +0000">
-    <title lang="id">Eps 2 : WTA ALL ACCESS 2026</title>
-    <desc lang="id">Eps 2</desc>
-    <icon src="https://thumbor.prod.vidiocdn.com/nY0aFklpYf6yONLaFJjxhiSuthc=/287x162/filters:strip_icc():quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/image/6786/champions-tv-3-76ca7c.jpg"/>
-  </programme>
-  <programme channel="6786" start="20260422143000 +0000" stop="20260422150000 +0000">
-    <title lang="id">Inside - Round 33 : Serie A 2025/26 - Magazine</title>
-    <desc lang="id">Inside - Round 33</desc>
-    <icon src="https://thumbor.prod.vidiocdn.com/nY0aFklpYf6yONLaFJjxhiSuthc=/287x162/filters:strip_icc():quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/image/6786/champions-tv-3-76ca7c.jpg"/>
   </programme>
   <programme channel="6786" start="20260422150000 +0000" stop="20260422170000 +0000">
     <title lang="id">Day 1 - WTA 1000: Mutua Madrid Open 2026</title>

@@ -123,6 +123,351 @@ Warning: Undefined array key "et" in /usr/home/ManusiaBiasa/domains/manusiabiasa
 <programme start="20260422210500 +0000" stop="20260422222000 +0000" channel="Beate Uhse HD.skyde">
     <title>Love Sex and Robots</title>
 </programme>
+<programme start="20260421222000 +0000" stop="20260421223000 +0000" channel="Cartoon Network.skyde">
+    <title>Steven Universe</title>
+</programme>
+<programme start="20260421223000 +0000" stop="20260421224000 +0000" channel="Cartoon Network.skyde">
+    <title>Steven Universe</title>
+</programme>
+<programme start="20260421224000 +0000" stop="20260421225000 +0000" channel="Cartoon Network.skyde">
+    <title>Steven Universe</title>
+</programme>
+<programme start="20260421225000 +0000" stop="20260421230000 +0000" channel="Cartoon Network.skyde">
+    <title>Steven Universe</title>
+</programme>
+<programme start="20260421230000 +0000" stop="20260421231000 +0000" channel="Cartoon Network.skyde">
+    <title>Die wunderbar schräge Welt von Gumball</title>
+</programme>
+<programme start="20260421231000 +0000" stop="20260421232500 +0000" channel="Cartoon Network.skyde">
+    <title>Die wunderbar schräge Welt von Gumball</title>
+</programme>
+<programme start="20260421232500 +0000" stop="20260421233500 +0000" channel="Cartoon Network.skyde">
+    <title>Die fantastische Welt von Gumball</title>
+</programme>
+<programme start="20260421233500 +0000" stop="20260421234500 +0000" channel="Cartoon Network.skyde">
+    <title>Die fantastische Welt von Gumball</title>
+</programme>
+<programme start="20260421234500 +0000" stop="20260422001000 +0000" channel="Cartoon Network.skyde">
+    <title>Totally Spies!</title>
+</programme>
+<programme start="20260422001000 +0000" stop="20260422002000 +0000" channel="Cartoon Network.skyde">
+    <title>Die heldenhafte Reise des tapferen Prinz Ivandoe</title>
+</programme>
+<programme start="20260422002000 +0000" stop="20260422003500 +0000" channel="Cartoon Network.skyde">
+    <title>Die heldenhafte Reise des tapferen Prinz Ivandoe</title>
+</programme>
+<programme start="20260422003500 +0000" stop="20260422004500 +0000" channel="Cartoon Network.skyde">
+    <title>Die fantastische Welt von Gumball</title>
+</programme>
+<programme start="20260422004500 +0000" stop="20260422005500 +0000" channel="Cartoon Network.skyde">
+    <title>Die fantastische Welt von Gumball</title>
+</programme>
+<programme start="20260422005500 +0000" stop="20260422010500 +0000" channel="Cartoon Network.skyde">
+    <title>Die fantastische Welt von Gumball</title>
+</programme>
+<programme start="20260422010500 +0000" stop="20260422012000 +0000" channel="Cartoon Network.skyde">
+    <title>Die fantastische Welt von Gumball</title>
+</programme>
+<programme start="20260422012000 +0000" stop="20260422014000 +0000" channel="Cartoon Network.skyde">
+    <title>Jade Armor</title>
+</programme>
+<programme start="20260422014000 +0000" stop="20260422015000 +0000" channel="Cartoon Network.skyde">
+    <title>Die heldenhafte Reise des tapferen Prinz Ivandoe</title>
+</programme>
+<programme start="20260422015000 +0000" stop="20260422020500 +0000" channel="Cartoon Network.skyde">
+    <title>Die heldenhafte Reise des tapferen Prinz Ivandoe</title>
+</programme>
+<programme start="20260422020500 +0000" stop="20260422021500 +0000" channel="Cartoon Network.skyde">
+    <title>Die fantastische Welt von Gumball</title>
+</programme>
+<programme start="20260422021500 +0000" stop="20260422022500 +0000" channel="Cartoon Network.skyde">
+    <title>Die fantastische Welt von Gumball</title>
+</programme>
+<programme start="20260422022500 +0000" stop="20260422024000 +0000" channel="Cartoon Network.skyde">
+    <title>Die wunderbar schräge Welt von Gumball</title>
+</programme>
+<programme start="20260422024000 +0000" stop="20260422025000 +0000" channel="Cartoon Network.skyde">
+    <title>Die wunderbar schräge Welt von Gumball</title>
+</programme>
+<programme start="20260422025000 +0000" stop="20260422031500 +0000" channel="Cartoon Network.skyde">
+    <title>Jade Armor</title>
+</programme>
+<programme start="20260422031500 +0000" stop="20260422032500 +0000" channel="Cartoon Network.skyde">
+    <title>Die fantastische Welt von Gumball</title>
+</programme>
+<programme start="20260422032500 +0000" stop="20260422033500 +0000" channel="Cartoon Network.skyde">
+    <title>Die fantastische Welt von Gumball</title>
+</programme>
+<programme start="20260422033500 +0000" stop="20260422034500 +0000" channel="Cartoon Network.skyde">
+    <title>Die fantastische Welt von Gumball</title>
+</programme>
+<programme start="20260422034500 +0000" stop="20260422040000 +0000" channel="Cartoon Network.skyde">
+    <title>Die fantastische Welt von Gumball</title>
+</programme>
+<programme start="20260422040000 +0000" stop="20260422041000 +0000" channel="Cartoon Network.skyde">
+    <title>Die fantastische Welt von Gumball</title>
+</programme>
+<programme start="20260422041000 +0000" stop="20260422042000 +0000" channel="Cartoon Network.skyde">
+    <title>Die fantastische Welt von Gumball</title>
+</programme>
+<programme start="20260422042000 +0000" stop="20260422043500 +0000" channel="Cartoon Network.skyde">
+    <title>Die fantastische Welt von Gumball</title>
+</programme>
+<programme start="20260422043500 +0000" stop="20260422044500 +0000" channel="Cartoon Network.skyde">
+    <title>Die fantastische Welt von Gumball</title>
+</programme>
+<programme start="20260422044500 +0000" stop="20260422045500 +0000" channel="Cartoon Network.skyde">
+    <title>Die fantastische Welt von Gumball</title>
+</programme>
+<programme start="20260422045500 +0000" stop="20260422050500 +0000" channel="Cartoon Network.skyde">
+    <title>Die fantastische Welt von Gumball</title>
+</programme>
+<programme start="20260422050500 +0000" stop="20260422052000 +0000" channel="Cartoon Network.skyde">
+    <title>Die fantastische Welt von Gumball</title>
+</programme>
+<programme start="20260422052000 +0000" stop="20260422053000 +0000" channel="Cartoon Network.skyde">
+    <title>Die fantastische Welt von Gumball</title>
+</programme>
+<programme start="20260422053000 +0000" stop="20260422054000 +0000" channel="Cartoon Network.skyde">
+    <title>Die fantastische Welt von Gumball</title>
+</programme>
+<programme start="20260422054000 +0000" stop="20260422055500 +0000" channel="Cartoon Network.skyde">
+    <title>Die fantastische Welt von Gumball</title>
+</programme>
+<programme start="20260422055500 +0000" stop="20260422060500 +0000" channel="Cartoon Network.skyde">
+    <title>Die wunderbar schräge Welt von Gumball</title>
+</programme>
+<programme start="20260422060500 +0000" stop="20260422061500 +0000" channel="Cartoon Network.skyde">
+    <title>Die wunderbar schräge Welt von Gumball</title>
+</programme>
+<programme start="20260422061500 +0000" stop="20260422063000 +0000" channel="Cartoon Network.skyde">
+    <title>Die fantastische Welt von Gumball</title>
+</programme>
+<programme start="20260422063000 +0000" stop="20260422064500 +0000" channel="Cartoon Network.skyde">
+    <title>Die fantastische Welt von Gumball</title>
+</programme>
+<programme start="20260422064500 +0000" stop="20260422065500 +0000" channel="Cartoon Network.skyde">
+    <title>Looney Tunes Cartoons</title>
+</programme>
+<programme start="20260422065500 +0000" stop="20260422070500 +0000" channel="Cartoon Network.skyde">
+    <title>Looney Tunes Cartoons</title>
+</programme>
+<programme start="20260422070500 +0000" stop="20260422071500 +0000" channel="Cartoon Network.skyde">
+    <title>Looney Tunes Cartoons</title>
+</programme>
+<programme start="20260422071500 +0000" stop="20260422073000 +0000" channel="Cartoon Network.skyde">
+    <title>Looney Tunes Cartoons</title>
+</programme>
+<programme start="20260422073000 +0000" stop="20260422075000 +0000" channel="Cartoon Network.skyde">
+    <title>Tiny Toons Looniversity</title>
+</programme>
+<programme start="20260422075000 +0000" stop="20260422080500 +0000" channel="Cartoon Network.skyde">
+    <title>Goat Girl</title>
+</programme>
+<programme start="20260422080500 +0000" stop="20260422081500 +0000" channel="Cartoon Network.skyde">
+    <title>Goat Girl</title>
+</programme>
+<programme start="20260422081500 +0000" stop="20260422083000 +0000" channel="Cartoon Network.skyde">
+    <title>Die wunderbar schräge Welt von Gumball</title>
+</programme>
+<programme start="20260422083000 +0000" stop="20260422084000 +0000" channel="Cartoon Network.skyde">
+    <title>Die wunderbar schräge Welt von Gumball</title>
+</programme>
+<programme start="20260422084000 +0000" stop="20260422085500 +0000" channel="Cartoon Network.skyde">
+    <title>Die fantastische Welt von Gumball</title>
+</programme>
+<programme start="20260422085500 +0000" stop="20260422090500 +0000" channel="Cartoon Network.skyde">
+    <title>Die fantastische Welt von Gumball</title>
+</programme>
+<programme start="20260422090500 +0000" stop="20260422092000 +0000" channel="Cartoon Network.skyde">
+    <title>Die fantastische Welt von Gumball</title>
+</programme>
+<programme start="20260422092000 +0000" stop="20260422093000 +0000" channel="Cartoon Network.skyde">
+    <title>Die fantastische Welt von Gumball</title>
+</programme>
+<programme start="20260422093000 +0000" stop="20260422094500 +0000" channel="Cartoon Network.skyde">
+    <title>Teen Titans Go!</title>
+</programme>
+<programme start="20260422094500 +0000" stop="20260422095000 +0000" channel="Cartoon Network.skyde">
+    <title>Teen Titans Go!</title>
+</programme>
+<programme start="20260422095000 +0000" stop="20260422100000 +0000" channel="Cartoon Network.skyde">
+    <title>Teen Titans Go!</title>
+</programme>
+<programme start="20260422100000 +0000" stop="20260422101500 +0000" channel="Cartoon Network.skyde">
+    <title>Teen Titans Go!</title>
+</programme>
+<programme start="20260422101500 +0000" stop="20260422102500 +0000" channel="Cartoon Network.skyde">
+    <title>Clarence</title>
+</programme>
+<programme start="20260422102500 +0000" stop="20260422103500 +0000" channel="Cartoon Network.skyde">
+    <title>Clarence</title>
+</programme>
+<programme start="20260422103500 +0000" stop="20260422105000 +0000" channel="Cartoon Network.skyde">
+    <title>Die wunderbar schräge Welt von Gumball</title>
+</programme>
+<programme start="20260422105000 +0000" stop="20260422110000 +0000" channel="Cartoon Network.skyde">
+    <title>Die wunderbar schräge Welt von Gumball</title>
+</programme>
+<programme start="20260422110000 +0000" stop="20260422111000 +0000" channel="Cartoon Network.skyde">
+    <title>Die wunderbar schräge Welt von Gumball</title>
+</programme>
+<programme start="20260422111000 +0000" stop="20260422112500 +0000" channel="Cartoon Network.skyde">
+    <title>Goat Girl</title>
+</programme>
+<programme start="20260422112500 +0000" stop="20260422113500 +0000" channel="Cartoon Network.skyde">
+    <title>Goat Girl</title>
+</programme>
+<programme start="20260422113500 +0000" stop="20260422114500 +0000" channel="Cartoon Network.skyde">
+    <title>Teen Titans Go!</title>
+</programme>
+<programme start="20260422114500 +0000" stop="20260422115500 +0000" channel="Cartoon Network.skyde">
+    <title>Teen Titans Go!</title>
+</programme>
+<programme start="20260422115500 +0000" stop="20260422122000 +0000" channel="Cartoon Network.skyde">
+    <title>Teen Titans Go!</title>
+</programme>
+<programme start="20260422122000 +0000" stop="20260422123000 +0000" channel="Cartoon Network.skyde">
+    <title>Die fantastische Welt von Gumball</title>
+</programme>
+<programme start="20260422123000 +0000" stop="20260422124000 +0000" channel="Cartoon Network.skyde">
+    <title>Die fantastische Welt von Gumball</title>
+</programme>
+<programme start="20260422124000 +0000" stop="20260422125500 +0000" channel="Cartoon Network.skyde">
+    <title>Die fantastische Welt von Gumball</title>
+</programme>
+<programme start="20260422125500 +0000" stop="20260422130500 +0000" channel="Cartoon Network.skyde">
+    <title>Die fantastische Welt von Gumball</title>
+</programme>
+<programme start="20260422130500 +0000" stop="20260422132000 +0000" channel="Cartoon Network.skyde">
+    <title>Die wunderbar schräge Welt von Gumball</title>
+</programme>
+<programme start="20260422132000 +0000" stop="20260422133000 +0000" channel="Cartoon Network.skyde">
+    <title>Die wunderbar schräge Welt von Gumball</title>
+</programme>
+<programme start="20260422133000 +0000" stop="20260422134500 +0000" channel="Cartoon Network.skyde">
+    <title>Looney Tunes Cartoons</title>
+</programme>
+<programme start="20260422134500 +0000" stop="20260422135500 +0000" channel="Cartoon Network.skyde">
+    <title>Looney Tunes Cartoons</title>
+</programme>
+<programme start="20260422135500 +0000" stop="20260422140500 +0000" channel="Cartoon Network.skyde">
+    <title>Looney Tunes Cartoons</title>
+</programme>
+<programme start="20260422140500 +0000" stop="20260422142000 +0000" channel="Cartoon Network.skyde">
+    <title>Craig of the Creek - Im Wald der Abenteuer</title>
+</programme>
+<programme start="20260422142000 +0000" stop="20260422143000 +0000" channel="Cartoon Network.skyde">
+    <title>Craig of the Creek - Im Wald der Abenteuer</title>
+</programme>
+<programme start="20260422143000 +0000" stop="20260422145000 +0000" channel="Cartoon Network.skyde">
+    <title>Ninjago: Aufstieg der Drachen</title>
+</programme>
+<programme start="20260422145000 +0000" stop="20260422150500 +0000" channel="Cartoon Network.skyde">
+    <title>Teen Titans Go!</title>
+</programme>
+<programme start="20260422150500 +0000" stop="20260422151500 +0000" channel="Cartoon Network.skyde">
+    <title>Teen Titans Go!</title>
+</programme>
+<programme start="20260422151500 +0000" stop="20260422153500 +0000" channel="Cartoon Network.skyde">
+    <title>Teen Titans Go!</title>
+</programme>
+<programme start="20260422153500 +0000" stop="20260422155000 +0000" channel="Cartoon Network.skyde">
+    <title>Regular Show - Völlig abgedreht</title>
+</programme>
+<programme start="20260422155000 +0000" stop="20260422160000 +0000" channel="Cartoon Network.skyde">
+    <title>Regular Show - Völlig abgedreht</title>
+</programme>
+<programme start="20260422160000 +0000" stop="20260422161500 +0000" channel="Cartoon Network.skyde">
+    <title>Die fantastische Welt von Gumball</title>
+</programme>
+<programme start="20260422161500 +0000" stop="20260422162500 +0000" channel="Cartoon Network.skyde">
+    <title>Die fantastische Welt von Gumball</title>
+</programme>
+<programme start="20260422162500 +0000" stop="20260422164000 +0000" channel="Cartoon Network.skyde">
+    <title>Die wunderbar schräge Welt von Gumball</title>
+</programme>
+<programme start="20260422164000 +0000" stop="20260422165000 +0000" channel="Cartoon Network.skyde">
+    <title>Die wunderbar schräge Welt von Gumball</title>
+</programme>
+<programme start="20260422165000 +0000" stop="20260422170500 +0000" channel="Cartoon Network.skyde">
+    <title>Uncle Grandpa</title>
+</programme>
+<programme start="20260422170500 +0000" stop="20260422171500 +0000" channel="Cartoon Network.skyde">
+    <title>Uncle Grandpa</title>
+</programme>
+<programme start="20260422171500 +0000" stop="20260422173000 +0000" channel="Cartoon Network.skyde">
+    <title>Adventure Time - Abenteuerzeit mit Finn und Jake</title>
+</programme>
+<programme start="20260422173000 +0000" stop="20260422174000 +0000" channel="Cartoon Network.skyde">
+    <title>Adventure Time - Abenteuerzeit mit Finn und Jake</title>
+</programme>
+<programme start="20260422174000 +0000" stop="20260422175500 +0000" channel="Cartoon Network.skyde">
+    <title>Teen Titans Go!</title>
+</programme>
+<programme start="20260422175500 +0000" stop="20260422180500 +0000" channel="Cartoon Network.skyde">
+    <title>Teen Titans Go!</title>
+</programme>
+<programme start="20260422180500 +0000" stop="20260422181500 +0000" channel="Cartoon Network.skyde">
+    <title>Teen Titans Go!</title>
+</programme>
+<programme start="20260422181500 +0000" stop="20260422182500 +0000" channel="Cartoon Network.skyde">
+    <title>Teen Titans Go!</title>
+</programme>
+<programme start="20260422182500 +0000" stop="20260422184000 +0000" channel="Cartoon Network.skyde">
+    <title>Die wunderbar schräge Welt von Gumball</title>
+</programme>
+<programme start="20260422184000 +0000" stop="20260422185000 +0000" channel="Cartoon Network.skyde">
+    <title>Die wunderbar schräge Welt von Gumball</title>
+</programme>
+<programme start="20260422185000 +0000" stop="20260422190500 +0000" channel="Cartoon Network.skyde">
+    <title>Die fantastische Welt von Gumball</title>
+</programme>
+<programme start="20260422190500 +0000" stop="20260422191500 +0000" channel="Cartoon Network.skyde">
+    <title>Die fantastische Welt von Gumball</title>
+</programme>
+<programme start="20260422191500 +0000" stop="20260422193000 +0000" channel="Cartoon Network.skyde">
+    <title>Die fantastische Welt von Gumball</title>
+</programme>
+<programme start="20260422193000 +0000" stop="20260422194000 +0000" channel="Cartoon Network.skyde">
+    <title>Die fantastische Welt von Gumball</title>
+</programme>
+<programme start="20260422194000 +0000" stop="20260422195500 +0000" channel="Cartoon Network.skyde">
+    <title>Regular Show - Völlig abgedreht</title>
+</programme>
+<programme start="20260422195500 +0000" stop="20260422200500 +0000" channel="Cartoon Network.skyde">
+    <title>Regular Show - Völlig abgedreht</title>
+</programme>
+<programme start="20260422200500 +0000" stop="20260422201500 +0000" channel="Cartoon Network.skyde">
+    <title>Adventure Time - Abenteuerzeit mit Finn und Jake</title>
+</programme>
+<programme start="20260422201500 +0000" stop="20260422202500 +0000" channel="Cartoon Network.skyde">
+    <title>Adventure Time - Abenteuerzeit mit Finn und Jake</title>
+</programme>
+<programme start="20260422202500 +0000" stop="20260422203500 +0000" channel="Cartoon Network.skyde">
+    <title>Adventure Time - Abenteuerzeit mit Finn und Jake</title>
+</programme>
+<programme start="20260422203500 +0000" stop="20260422205000 +0000" channel="Cartoon Network.skyde">
+    <title>Adventure Time - Abenteuerzeit mit Finn und Jake</title>
+</programme>
+<programme start="20260422205000 +0000" stop="20260422210000 +0000" channel="Cartoon Network.skyde">
+    <title>Regular Show - Völlig abgedreht</title>
+</programme>
+<programme start="20260422210000 +0000" stop="20260422211000 +0000" channel="Cartoon Network.skyde">
+    <title>Regular Show - Völlig abgedreht</title>
+</programme>
+<programme start="20260422211000 +0000" stop="20260422212000 +0000" channel="Cartoon Network.skyde">
+    <title>Regular Show - Völlig abgedreht</title>
+</programme>
+<programme start="20260422212000 +0000" stop="20260422213500 +0000" channel="Cartoon Network.skyde">
+    <title>Regular Show - Völlig abgedreht</title>
+</programme>
+<programme start="20260422213500 +0000" stop="20260422215500 +0000" channel="Cartoon Network.skyde">
+    <title>Dexters Labor</title>
+</programme>
+<programme start="20260422215500 +0000" stop="20260422221500 +0000" channel="Cartoon Network.skyde">
+    <title>Die Powerpuff Girls</title>
+</programme>
 <programme start="20260421220000 +0000" stop="20260421221500 +0000" channel="Cartoonito.skyde">
     <title>Die Tom und Jerry Show</title>
 </programme>
@@ -1314,91 +1659,100 @@ Warning: Undefined array key "et" in /usr/home/ManusiaBiasa/domains/manusiabiasa
 <programme start="20260422212000 +0000" stop="20260422221000 +0000" channel="Romance TV HD.skyde">
     <title>Lena Lorenz</title>
 </programme>
-<programme start="20260421225500 +0000" stop="20260422000500 +0000" channel="Sky Atlantic HD.skyde">
-    <title>House of the Dragon</title>
-</programme>
-<programme start="20260422000500 +0000" stop="20260422002000 +0000" channel="Sky Atlantic HD.skyde">
-    <title>Bonusmaterial Domina - Die Schauspieler</title>
-</programme>
-<programme start="20260422002000 +0000" stop="20260422010000 +0000" channel="Sky Atlantic HD.skyde">
-    <title>Blue Bloods - Crime Scene New York</title>
-</programme>
-<programme start="20260422010000 +0000" stop="20260422014000 +0000" channel="Sky Atlantic HD.skyde">
-    <title>Blue Bloods - Crime Scene New York</title>
-</programme>
-<programme start="20260422014000 +0000" stop="20260422022000 +0000" channel="Sky Atlantic HD.skyde">
-    <title>Blue Bloods - Crime Scene New York</title>
-</programme>
-<programme start="20260422022000 +0000" stop="20260422030000 +0000" channel="Sky Atlantic HD.skyde">
-    <title>Blue Bloods - Crime Scene New York</title>
-</programme>
-<programme start="20260422030000 +0000" stop="20260422033000 +0000" channel="Sky Atlantic HD.skyde">
-    <title>The Chair Company</title>
-</programme>
-<programme start="20260422033000 +0000" stop="20260422035500 +0000" channel="Sky Atlantic HD.skyde">
-    <title>The Chair Company</title>
-</programme>
-<programme start="20260422035500 +0000" stop="20260422043000 +0000" channel="Sky Atlantic HD.skyde">
-    <title>The Chair Company</title>
-</programme>
-<programme start="20260422043000 +0000" stop="20260422051000 +0000" channel="Sky Atlantic HD.skyde">
-    <title>The Chair Company</title>
-</programme>
-<programme start="20260422051000 +0000" stop="20260422055500 +0000" channel="Sky Atlantic HD.skyde">
-    <title>The Time Traveler&#039;s Wife</title>
-</programme>
-<programme start="20260422055500 +0000" stop="20260422065000 +0000" channel="Sky Atlantic HD.skyde">
-    <title>The Time Traveler&#039;s Wife</title>
-</programme>
-<programme start="20260422065000 +0000" stop="20260422075500 +0000" channel="Sky Atlantic HD.skyde">
-    <title>Industry</title>
-</programme>
-<programme start="20260422075500 +0000" stop="20260422085500 +0000" channel="Sky Atlantic HD.skyde">
-    <title>Industry</title>
-</programme>
-<programme start="20260422085500 +0000" stop="20260422094000 +0000" channel="Sky Atlantic HD.skyde">
-    <title>The Good Doctor</title>
-</programme>
-<programme start="20260422094000 +0000" stop="20260422103000 +0000" channel="Sky Atlantic HD.skyde">
-    <title>The Good Doctor</title>
-</programme>
-<programme start="20260422103000 +0000" stop="20260422111500 +0000" channel="Sky Atlantic HD.skyde">
-    <title>The Good Doctor</title>
-</programme>
-<programme start="20260422111500 +0000" stop="20260422120000 +0000" channel="Sky Atlantic HD.skyde">
-    <title>Blue Bloods - Crime Scene New York</title>
-</programme>
-<programme start="20260422120000 +0000" stop="20260422124500 +0000" channel="Sky Atlantic HD.skyde">
-    <title>Blue Bloods - Crime Scene New York</title>
-</programme>
-<programme start="20260422124500 +0000" stop="20260422133000 +0000" channel="Sky Atlantic HD.skyde">
-    <title>Blue Bloods - Crime Scene New York</title>
-</programme>
-<programme start="20260422133000 +0000" stop="20260422141500 +0000" channel="Sky Atlantic HD.skyde">
-    <title>Blue Bloods - Crime Scene New York</title>
-</programme>
-<programme start="20260422141500 +0000" stop="20260422151500 +0000" channel="Sky Atlantic HD.skyde">
-    <title>Industry</title>
-</programme>
-<programme start="20260422151500 +0000" stop="20260422162000 +0000" channel="Sky Atlantic HD.skyde">
-    <title>Industry</title>
-</programme>
-<programme start="20260422162000 +0000" stop="20260422171500 +0000" channel="Sky Atlantic HD.skyde">
+<programme start="20260422221000 +0000" stop="20260422230500 +0000" channel="Sky Atlantic HD.skyde">
     <title>Domina</title>
 </programme>
-<programme start="20260422171500 +0000" stop="20260422181500 +0000" channel="Sky Atlantic HD.skyde">
+<programme start="20260422230500 +0000" stop="20260422235500 +0000" channel="Sky Atlantic HD.skyde">
     <title>Domina</title>
 </programme>
-<programme start="20260422181500 +0000" stop="20260422191500 +0000" channel="Sky Atlantic HD.skyde">
-    <title>True Detective</title>
+<programme start="20260422235500 +0000" stop="20260423000500 +0000" channel="Sky Atlantic HD.skyde">
+    <title>Featurette: Victor Aguillar: The Making of a Henchman</title>
 </programme>
-<programme start="20260422191500 +0000" stop="20260422202000 +0000" channel="Sky Atlantic HD.skyde">
-    <title>True Detective</title>
+<programme start="20260423000500 +0000" stop="20260423004500 +0000" channel="Sky Atlantic HD.skyde">
+    <title>Blue Bloods - Crime Scene New York</title>
 </programme>
-<programme start="20260422202000 +0000" stop="20260422211000 +0000" channel="Sky Atlantic HD.skyde">
+<programme start="20260423004500 +0000" stop="20260423012500 +0000" channel="Sky Atlantic HD.skyde">
+    <title>Blue Bloods - Crime Scene New York</title>
+</programme>
+<programme start="20260423012500 +0000" stop="20260423020500 +0000" channel="Sky Atlantic HD.skyde">
+    <title>Blue Bloods - Crime Scene New York</title>
+</programme>
+<programme start="20260423020500 +0000" stop="20260423024500 +0000" channel="Sky Atlantic HD.skyde">
+    <title>Blue Bloods - Crime Scene New York</title>
+</programme>
+<programme start="20260423024500 +0000" stop="20260423032000 +0000" channel="Sky Atlantic HD.skyde">
+    <title>The Chair Company</title>
+</programme>
+<programme start="20260423032000 +0000" stop="20260423035000 +0000" channel="Sky Atlantic HD.skyde">
+    <title>The Chair Company</title>
+</programme>
+<programme start="20260423035000 +0000" stop="20260423044500 +0000" channel="Sky Atlantic HD.skyde">
+    <title>The Idol</title>
+</programme>
+<programme start="20260423044500 +0000" stop="20260423051500 +0000" channel="Sky Atlantic HD.skyde">
+    <title>I Love LA</title>
+</programme>
+<programme start="20260423051500 +0000" stop="20260423055000 +0000" channel="Sky Atlantic HD.skyde">
+    <title>I Love LA</title>
+</programme>
+<programme start="20260423055000 +0000" stop="20260423062000 +0000" channel="Sky Atlantic HD.skyde">
+    <title>I Love LA</title>
+</programme>
+<programme start="20260423062000 +0000" stop="20260423065000 +0000" channel="Sky Atlantic HD.skyde">
+    <title>I Love LA</title>
+</programme>
+<programme start="20260423065000 +0000" stop="20260423075500 +0000" channel="Sky Atlantic HD.skyde">
+    <title>Industry</title>
+</programme>
+<programme start="20260423075500 +0000" stop="20260423085500 +0000" channel="Sky Atlantic HD.skyde">
+    <title>Industry</title>
+</programme>
+<programme start="20260423085500 +0000" stop="20260423094000 +0000" channel="Sky Atlantic HD.skyde">
+    <title>The Good Doctor</title>
+</programme>
+<programme start="20260423094000 +0000" stop="20260423103000 +0000" channel="Sky Atlantic HD.skyde">
+    <title>The Good Doctor</title>
+</programme>
+<programme start="20260423103000 +0000" stop="20260423111500 +0000" channel="Sky Atlantic HD.skyde">
+    <title>The Good Doctor</title>
+</programme>
+<programme start="20260423111500 +0000" stop="20260423120000 +0000" channel="Sky Atlantic HD.skyde">
+    <title>Blue Bloods - Crime Scene New York</title>
+</programme>
+<programme start="20260423120000 +0000" stop="20260423124500 +0000" channel="Sky Atlantic HD.skyde">
+    <title>Blue Bloods - Crime Scene New York</title>
+</programme>
+<programme start="20260423124500 +0000" stop="20260423133000 +0000" channel="Sky Atlantic HD.skyde">
+    <title>Blue Bloods - Crime Scene New York</title>
+</programme>
+<programme start="20260423133000 +0000" stop="20260423141500 +0000" channel="Sky Atlantic HD.skyde">
+    <title>Blue Bloods - Crime Scene New York</title>
+</programme>
+<programme start="20260423141500 +0000" stop="20260423151500 +0000" channel="Sky Atlantic HD.skyde">
+    <title>Industry</title>
+</programme>
+<programme start="20260423151500 +0000" stop="20260423162000 +0000" channel="Sky Atlantic HD.skyde">
+    <title>Industry</title>
+</programme>
+<programme start="20260423162000 +0000" stop="20260423171500 +0000" channel="Sky Atlantic HD.skyde">
+    <title>Domina</title>
+</programme>
+<programme start="20260423171500 +0000" stop="20260423181500 +0000" channel="Sky Atlantic HD.skyde">
+    <title>Domina</title>
+</programme>
+<programme start="20260423181500 +0000" stop="20260423191000 +0000" channel="Sky Atlantic HD.skyde">
+    <title>Amadeus</title>
+</programme>
+<programme start="20260423191000 +0000" stop="20260423200500 +0000" channel="Sky Atlantic HD.skyde">
+    <title>Amadeus</title>
+</programme>
+<programme start="20260423200500 +0000" stop="20260423205000 +0000" channel="Sky Atlantic HD.skyde">
+    <title>Amadeus</title>
+</programme>
+<programme start="20260423205000 +0000" stop="20260423215000 +0000" channel="Sky Atlantic HD.skyde">
     <title>Der Pass</title>
 </programme>
-<programme start="20260422211000 +0000" stop="20260422221000 +0000" channel="Sky Atlantic HD.skyde">
+<programme start="20260423215000 +0000" stop="20260423223500 +0000" channel="Sky Atlantic HD.skyde">
     <title>Der Pass</title>
 </programme>
 <programme start="20260421234500 +0000" stop="20260422015000 +0000" channel="Sky Cinema Action HD.skyde">
@@ -2223,13 +2577,13 @@ Warning: Undefined array key "et" in /usr/home/ManusiaBiasa/domains/manusiabiasa
 <programme start="20260422181500 +0000" stop="20260422203000 +0000" channel="Sky Sport Austria 2 HD.skyde">
     <title>Live Admiral BL: SK Puntigamer Sturm Graz - LASK, 28. Runde</title>
 </programme>
-<programme start="20260422203000 +0000" stop="20260422213000 +0000" channel="Sky Sport Austria 2 HD.skyde">
+<programme start="20260422203000 +0000" stop="20260422220000 +0000" channel="Sky Sport Austria 2 HD.skyde">
     <title>Live Admiral BL: Alle Spiele, alle Tore 28. Runde (Mittwoch)</title>
 </programme>
 <programme start="20260422160000 +0000" stop="20260422162000 +0000" channel="Sky Sport Austria 3 HD.skyde">
     <title>Es folgt: Live Admiral Bundesliga</title>
 </programme>
-<programme start="20260422162000 +0000" stop="20260422191500 +0000" channel="Sky Sport Austria 3 HD.skyde">
+<programme start="20260422162000 +0000" stop="20260422184500 +0000" channel="Sky Sport Austria 3 HD.skyde">
     <title>Live Admiral BL: FC Red Bull Salzburg - FK Austria Wien, 28. Runde</title>
 </programme>
 <programme start="20260422160000 +0000" stop="20260422162000 +0000" channel="Sky Sport Austria 4 HD.skyde">
@@ -2241,7 +2595,7 @@ Warning: Undefined array key "et" in /usr/home/ManusiaBiasa/domains/manusiabiasa
 <programme start="20260422084000 +0000" stop="20260422090000 +0000" channel="Sky Sport Austria 5 HD.skyde">
     <title>Es folgt: LIVE WTA Tour</title>
 </programme>
-<programme start="20260422090000 +0000" stop="20260422190000 +0000" channel="Sky Sport Austria 5 HD.skyde">
+<programme start="20260422090000 +0000" stop="20260422210000 +0000" channel="Sky Sport Austria 5 HD.skyde">
     <title>Live ATP &amp; WTA: Konferenz Mutua Madrid Open in Madrid (ESP), 2. Tag</title>
 </programme>
 <programme start="20260421220000 +0000" stop="20260421230000 +0000" channel="Sky Sport Bundesliga HD.skyde">
@@ -2415,80 +2769,32 @@ Warning: Undefined array key "et" in /usr/home/ManusiaBiasa/domains/manusiabiasa
 <programme start="20260422200000 +0000" stop="20260422220000 +0000" channel="Sky Sport F1 HD.skyde">
     <title>IndyCar: Acura Grand Prix of Long Beach</title>
 </programme>
-<programme start="20260421220000 +0000" stop="20260422010000 +0000" channel="Sky Sport Golf HD.skyde">
-    <title>Golf Ladies ET: Joburg Ladies Open, 4. Tag in Johannesburg (Südafrika)</title>
-</programme>
-<programme start="20260422010000 +0000" stop="20260422013000 +0000" channel="Sky Sport Golf HD.skyde">
-    <title>Golf: Greatest Holes (1)</title>
-</programme>
-<programme start="20260422013000 +0000" stop="20260422020000 +0000" channel="Sky Sport Golf HD.skyde">
-    <title>Golf: Greatest Holes (2)</title>
-</programme>
-<programme start="20260422020000 +0000" stop="20260422023000 +0000" channel="Sky Sport Golf HD.skyde">
-    <title>Golf: Greatest Holes (3)</title>
-</programme>
-<programme start="20260422023000 +0000" stop="20260422030000 +0000" channel="Sky Sport Golf HD.skyde">
-    <title>Golf: Greatest Holes (4)</title>
-</programme>
-<programme start="20260422030000 +0000" stop="20260422033000 +0000" channel="Sky Sport Golf HD.skyde">
-    <title>Golf: Greatest Holes (5)</title>
-</programme>
-<programme start="20260422033000 +0000" stop="20260422040000 +0000" channel="Sky Sport Golf HD.skyde">
-    <title>Golf: Greatest Holes (6)</title>
-</programme>
-<programme start="20260422040000 +0000" stop="20260422061500 +0000" channel="Sky Sport Golf HD.skyde">
-    <title>Golf: Senior PGA Championship, 4. Tag in Bradenton, FL (USA)</title>
-</programme>
-<programme start="20260422070000 +0000" stop="20260422100000 +0000" channel="Sky Sport Golf HD.skyde">
-    <title>Golf Ladies ET: Joburg Ladies Open, 4. Tag in Johannesburg (Südafrika)</title>
-</programme>
-<programme start="20260422091500 +0000" stop="20260422095000 +0000" channel="Sky Sport Golf HD.skyde">
-    <title>LIV Golf: Behind the Aces (1)</title>
-</programme>
-<programme start="20260422095000 +0000" stop="20260422103500 +0000" channel="Sky Sport Golf HD.skyde">
-    <title>LIV Golf: Behind the Aces (2)</title>
-</programme>
-<programme start="20260422103500 +0000" stop="20260422104500 +0000" channel="Sky Sport Golf HD.skyde">
-    <title>LIV Golf: Anthony Kim - Redemption</title>
-</programme>
-<programme start="20260422104500 +0000" stop="20260422110000 +0000" channel="Sky Sport Golf HD.skyde">
-    <title>Golf: Tee Time Stories (5)</title>
-</programme>
-<programme start="20260422110000 +0000" stop="20260422130000 +0000" channel="Sky Sport Golf HD.skyde">
-    <title>LIV Golf: Mexiko City, 1. Tag in Naucalpan</title>
-</programme>
-<programme start="20260422130000 +0000" stop="20260422160000 +0000" channel="Sky Sport Golf HD.skyde">
-    <title>LIV Golf: Mexiko City, 2. Tag in Naucalpan</title>
-</programme>
-<programme start="20260422160000 +0000" stop="20260422190000 +0000" channel="Sky Sport Golf HD.skyde">
-    <title>LIV Golf: Mexiko City, 3. Tag in Naucalpan</title>
-</programme>
-<programme start="20260422190000 +0000" stop="20260422220000 +0000" channel="Sky Sport Golf HD.skyde">
-    <title>LIV Golf: Mexiko City, 4. Tag in Naucalpan</title>
-</programme>
 <programme start="20260421223000 +0000" stop="20260421233000 +0000" channel="Sky Sport Mix HD.skyde">
     <title>NHL: Tonight - Playoff Edition</title>
 </programme>
-<programme start="20260421233000 +0000" stop="20260422024000 +0000" channel="Sky Sport Mix HD.skyde">
+<programme start="20260421233000 +0000" stop="20260422023000 +0000" channel="Sky Sport Mix HD.skyde">
     <title>Live NHL: Boston Bruins @ Buffalo Sabres, Playoffs, 1. Runde, Spiel 2</title>
 </programme>
-<programme start="20260422024000 +0000" stop="20260422052000 +0000" channel="Sky Sport Mix HD.skyde">
+<programme start="20260422023000 +0000" stop="20260422050000 +0000" channel="Sky Sport Mix HD.skyde">
     <title>Live NBA: Houston Rockets @ LA Lakers, Playoffs, Runde 1, Spiel 2</title>
 </programme>
-<programme start="20260422052000 +0000" stop="20260422061000 +0000" channel="Sky Sport Mix HD.skyde">
+<programme start="20260422050000 +0000" stop="20260422053000 +0000" channel="Sky Sport Mix HD.skyde">
     <title>Live NBA: Showtime - Post Show</title>
 </programme>
-<programme start="20260422061000 +0000" stop="20260422081500 +0000" channel="Sky Sport Mix HD.skyde">
+<programme start="20260422053000 +0000" stop="20260422073000 +0000" channel="Sky Sport Mix HD.skyde">
     <title>NHL: Boston Bruins @ Buffalo Sabres, Playoffs, 1. Runde, Spiel 2</title>
 </programme>
-<programme start="20260422081500 +0000" stop="20260422104500 +0000" channel="Sky Sport Mix HD.skyde">
+<programme start="20260422073000 +0000" stop="20260422100000 +0000" channel="Sky Sport Mix HD.skyde">
     <title>NBA: Philadelphia 76ers @ Boston Celtics, Playoffs, Runde 1, Spiel 2</title>
 </programme>
-<programme start="20260422104500 +0000" stop="20260422110000 +0000" channel="Sky Sport Mix HD.skyde">
+<programme start="20260422100000 +0000" stop="20260422101500 +0000" channel="Sky Sport Mix HD.skyde">
     <title>NHL: Highlights BOS@BUF, Playoffs, 1. Runde, Spiel 2</title>
 </programme>
-<programme start="20260422110000 +0000" stop="20260422113000 +0000" channel="Sky Sport Mix HD.skyde">
-    <title>NHL: Highlights MIN@DAL, Playoffs, 1. Runde, Spiel 2</title>
+<programme start="20260422101500 +0000" stop="20260422103000 +0000" channel="Sky Sport Mix HD.skyde">
+    <title>NHL: Highlights UTA@VGK, Playoffs, 1. Runde, Spiel 2</title>
+</programme>
+<programme start="20260422103000 +0000" stop="20260422113000 +0000" channel="Sky Sport Mix HD.skyde">
+    <title>3. Liga: Alle Spiele, alle Tore, 34. Spieltag komplett</title>
 </programme>
 <programme start="20260422113000 +0000" stop="20260422123000 +0000" channel="Sky Sport Mix HD.skyde">
     <title>NHL: Tonight - Playoff Edition</title>
@@ -2647,7 +2953,7 @@ Warning: Undefined array key "et" in /usr/home/ManusiaBiasa/domains/manusiabiasa
     <title>ATP: This Week</title>
 </programme>
 <programme start="20260422023000 +0000" stop="20260422043000 +0000" channel="Sky Sport Tennis HD.skyde">
-    <title>WTA 1000: L. Siegemund (GER) - I.-C. Begu (ROM), Mutua Madrid Open in Madrid (ESP), 1. Tag</title>
+    <title>WTA 1000: L. Siegemund (GER) - I. Begu (ROM), Mutua Madrid Open in Madrid (ESP), 1. Tag</title>
 </programme>
 <programme start="20260422043000 +0000" stop="20260422050000 +0000" channel="Sky Sport Tennis HD.skyde">
     <title>ATP: This Week</title>
@@ -2659,7 +2965,7 @@ Warning: Undefined array key "et" in /usr/home/ManusiaBiasa/domains/manusiabiasa
     <title>WTA: All Access Magazine Show</title>
 </programme>
 <programme start="20260422063000 +0000" stop="20260422083000 +0000" channel="Sky Sport Tennis HD.skyde">
-    <title>WTA 1000: L. Siegemund (GER) - I.-C. Begu (ROM), Mutua Madrid Open in Madrid (ESP), 1. Tag</title>
+    <title>WTA 1000: L. Siegemund (GER) - I. Begu (ROM), Mutua Madrid Open in Madrid (ESP), 1. Tag</title>
 </programme>
 <programme start="20260422083000 +0000" stop="20260422090000 +0000" channel="Sky Sport Tennis HD.skyde">
     <title>ATP: This Week</title>
