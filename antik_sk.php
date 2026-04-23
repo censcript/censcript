@@ -17086,17 +17086,29 @@
   <programme start="20260425213000 +0000" stop="20260425220000 +0000" channel="Current Time.webtv.sk">
     <title lang="id">Балтийский путь: Что происходит с Pигой</title>
   </programme>
-  <programme start="20260424213500 +0000" stop="20260424235500 +0000" channel="Armenia 1 TV.webtv.sk">
+  <programme start="20260424212500 +0000" stop="20260424234500 +0000" channel="Armenia 1 TV.webtv.sk">
     <title lang="id">Documentary film</title>
   </programme>
-  <programme start="20260424235500 +0000" stop="20260425013000 +0000" channel="Armenia 1 TV.webtv.sk">
+  <programme start="20260424234500 +0000" stop="20260425005500 +0000" channel="Armenia 1 TV.webtv.sk">
+    <title lang="id">Classical Concert</title>
+  </programme>
+  <programme start="20260425005500 +0000" stop="20260425022500 +0000" channel="Armenia 1 TV.webtv.sk">
     <title lang="id">Feature film</title>
   </programme>
-  <programme start="20260425013000 +0000" stop="20260425020000 +0000" channel="Armenia 1 TV.webtv.sk">
+  <programme start="20260425022500 +0000" stop="20260425025500 +0000" channel="Armenia 1 TV.webtv.sk">
     <title lang="id">Special Case</title>
   </programme>
-  <programme start="20260425020000 +0000" stop="20260425041500 +0000" channel="Armenia 1 TV.webtv.sk">
-    <title lang="id">Feature film</title>
+  <programme start="20260425025500 +0000" stop="20260425030500 +0000" channel="Armenia 1 TV.webtv.sk">
+    <title lang="id">Documentary film</title>
+  </programme>
+  <programme start="20260425030500 +0000" stop="20260425032500 +0000" channel="Armenia 1 TV.webtv.sk">
+    <title lang="id">General</title>
+  </programme>
+  <programme start="20260425032500 +0000" stop="20260425035000 +0000" channel="Armenia 1 TV.webtv.sk">
+    <title lang="id">For You, Armenia</title>
+  </programme>
+  <programme start="20260425035000 +0000" stop="20260425041500 +0000" channel="Armenia 1 TV.webtv.sk">
+    <title lang="id">Bell and Cotton</title>
   </programme>
   <programme start="20260425041500 +0000" stop="20260425063000 +0000" channel="Armenia 1 TV.webtv.sk">
     <title lang="id">Feature film</title>
@@ -17167,23 +17179,14 @@
   <programme start="20260425175000 +0000" stop="20260425184000 +0000" channel="Armenia 1 TV.webtv.sk">
     <title lang="id">Differently</title>
   </programme>
-  <programme start="20260425184000 +0000" stop="20260425192000 +0000" channel="Armenia 1 TV.webtv.sk">
-    <title lang="id">Documentary film</title>
+  <programme start="20260425184000 +0000" stop="20260425205500 +0000" channel="Armenia 1 TV.webtv.sk">
+    <title lang="id">Feature film</title>
   </programme>
-  <programme start="20260425192000 +0000" stop="20260425201000 +0000" channel="Armenia 1 TV.webtv.sk">
-    <title lang="id">Public Discussion with Tatev Danielyan</title>
-  </programme>
-  <programme start="20260425201000 +0000" stop="20260425203500 +0000" channel="Armenia 1 TV.webtv.sk">
+  <programme start="20260425205500 +0000" stop="20260425212000 +0000" channel="Armenia 1 TV.webtv.sk">
     <title lang="id">Sport Week</title>
   </programme>
-  <programme start="20260425203500 +0000" stop="20260425211000 +0000" channel="Armenia 1 TV.webtv.sk">
-    <title lang="id">Parent Meeting</title>
-  </programme>
-  <programme start="20260425211000 +0000" stop="20260425213500 +0000" channel="Armenia 1 TV.webtv.sk">
-    <title lang="id">People of Armenia</title>
-  </programme>
-  <programme start="20260425213500 +0000" stop="20260425220000 +0000" channel="Armenia 1 TV.webtv.sk">
-    <title lang="id">An Important Task</title>
+  <programme start="20260425212000 +0000" stop="20260425223500 +0000" channel="Armenia 1 TV.webtv.sk">
+    <title lang="id">Classical Concert</title>
   </programme>
   <programme start="20260424220000 +0000" stop="20260424221500 +0000" channel="Euronews.webtv.sk">
     <title lang="id">The European debrief</title>

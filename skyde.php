@@ -2950,22 +2950,28 @@
 <programme start="20260423210000 +0000" stop="20260423220000 +0000" channel="Sky Sport Premier League HD.skyde">
     <title>PL: The Catch-Up Show</title>
 </programme>
-<programme start="20260422233000 +0000" stop="20260423011500 +0000" channel="Sky Sport Tennis HD.skyde">
+<programme start="20260422223500 +0000" stop="20260422235500 +0000" channel="Sky Sport Tennis HD.skyde">
+    <title>ATP 1000: J.-L. Struff (GER) - A. Muller (FRA), Mutua Madrid Open in Madrid (ESP), 2. Tag</title>
+</programme>
+<programme start="20260422235500 +0000" stop="20260423005000 +0000" channel="Sky Sport Tennis HD.skyde">
+    <title>ATP 500: Review München</title>
+</programme>
+<programme start="20260423005000 +0000" stop="20260423021500 +0000" channel="Sky Sport Tennis HD.skyde">
     <title>WTA 500: E. Rybakina (KAZ) - K. Muchova (CZE), Porsche Tennis Grand Prix in Stuttgart, Finale</title>
 </programme>
-<programme start="20260423011500 +0000" stop="20260423021500 +0000" channel="Sky Sport Tennis HD.skyde">
+<programme start="20260423021500 +0000" stop="20260423031500 +0000" channel="Sky Sport Tennis HD.skyde">
     <title>ATP 500: Review Barcelona</title>
 </programme>
-<programme start="20260423021500 +0000" stop="20260423043000 +0000" channel="Sky Sport Tennis HD.skyde">
+<programme start="20260423031500 +0000" stop="20260423053000 +0000" channel="Sky Sport Tennis HD.skyde">
     <title>ATP 500: A. Fils (FRA) - A. Rublev, Barcelona Open BancSabadell in Barcelona (ESP), Finale</title>
 </programme>
-<programme start="20260423043000 +0000" stop="20260423063000 +0000" channel="Sky Sport Tennis HD.skyde">
+<programme start="20260423053000 +0000" stop="20260423070500 +0000" channel="Sky Sport Tennis HD.skyde">
     <title>WTA 1000: E. Lys (GER) - S. Zhang (CHN), Mutua Madrid Open in Madrid (ESP), 2. Tag</title>
 </programme>
-<programme start="20260423063000 +0000" stop="20260423070000 +0000" channel="Sky Sport Tennis HD.skyde">
+<programme start="20260423070500 +0000" stop="20260423073500 +0000" channel="Sky Sport Tennis HD.skyde">
     <title>ATP: This Week</title>
 </programme>
-<programme start="20260423070000 +0000" stop="20260423090000 +0000" channel="Sky Sport Tennis HD.skyde">
+<programme start="20260423073500 +0000" stop="20260423090000 +0000" channel="Sky Sport Tennis HD.skyde">
     <title>ATP 1000: J.-L. Struff (GER) - A. Muller (FRA), Mutua Madrid Open in Madrid (ESP), 2. Tag</title>
 </programme>
 <programme start="20260423090000 +0000" stop="20260423190000 +0000" channel="Sky Sport Tennis HD.skyde">
@@ -2975,7 +2981,7 @@
     <title>ATP 500: Review München</title>
 </programme>
 <programme start="20260423200000 +0000" stop="20260423220000 +0000" channel="Sky Sport Tennis HD.skyde">
-    <title>WTA 1000: Topspiel, Mutua Madrid Open in Madrid (ESP), 3. Tag</title>
+    <title>WTA 1000: L. Siegemund (GER) - J. Paolini (ITA)l, Mutua Madrid Open in Madrid (ESP), 3. Tag</title>
 </programme>
 <programme start="20260422221500 +0000" stop="20260422224500 +0000" channel="Sky Sport Top Event HD.skyde">
     <title>Fußball: scooore Polen! Alle Tore</title>
@@ -3079,7 +3085,7 @@
 <programme start="20260423084000 +0000" stop="20260423090000 +0000" channel="Sky Sport 1 HD.skyde">
     <title>Es folgt: Live Tennis WTA Tour</title>
 </programme>
-<programme start="20260423090000 +0000" stop="20260423190000 +0000" channel="Sky Sport 1 HD.skyde">
+<programme start="20260423090000 +0000" stop="20260423210000 +0000" channel="Sky Sport 1 HD.skyde">
     <title>Live WTA 1000: Mutua Madrid Open in Madrid (ESP), 3. Tag</title>
 </programme>
 <programme start="20260423111000 +0000" stop="20260423113000 +0000" channel="Sky Sport 2 HD.skyde">
