@@ -2201,46 +2201,46 @@
         <title>Premier Padel 2026: Miami P1 Day 7 Final - Men</title>
     </programme>
     <programme start="20260423014000 +0000" stop="20260423034000 +0000" channel="beIN Sports 2 HD.starhub">
-        <title>UCI World Tour 2026: Volta Ciclista A Catalunya - Stage 4</title>
+        <title>Volta Ciclista A Catalunya - Stage 4</title>
     </programme>
     <programme start="20260423034000 +0000" stop="20260423041000 +0000" channel="beIN Sports 2 HD.starhub">
         <title>This Is Paris 2025/26</title>
     </programme>
     <programme start="20260423041000 +0000" stop="20260423061000 +0000" channel="beIN Sports 2 HD.starhub">
-        <title>PSG TV 2025/26: PSG vs Lyon</title>
+        <title>PSG vs Lyon</title>
     </programme>
     <programme start="20260423061000 +0000" stop="20260423080000 +0000" channel="beIN Sports 2 HD.starhub">
-        <title>UCI World Tour 2026: Volta Ciclista A Catalunya - Stage 5</title>
+        <title>Volta Ciclista A Catalunya - Stage 5</title>
     </programme>
-    <programme start="20260423080000 +0000" stop="20260423090000 +0000" channel="beIN Sports 2 HD.starhub">
-        <title>Hong Kong</title>
+    <programme start="20260423080000 +0000" stop="20260423093000 +0000" channel="beIN Sports 2 HD.starhub">
+        <title>Brussels P2 Day 3 Match 1</title>
     </programme>
-    <programme start="20260423090000 +0000" stop="20260423103000 +0000" channel="beIN Sports 2 HD.starhub">
-        <title>Premier Padel 2026: Brussels P2 Day 3 Match 1 (Live)</title>
+    <programme start="20260423093000 +0000" stop="20260423110000 +0000" channel="beIN Sports 2 HD.starhub">
+        <title>Brussels P2 Day 3 Match 2</title>
     </programme>
-    <programme start="20260423103000 +0000" stop="20260423120000 +0000" channel="beIN Sports 2 HD.starhub">
-        <title>Premier Padel 2026: Brussels P2 Day 3 Match 2 (Live)</title>
+    <programme start="20260423110000 +0000" stop="20260423123000 +0000" channel="beIN Sports 2 HD.starhub">
+        <title>Brussels P2 Day 3 Match 3</title>
     </programme>
-    <programme start="20260423120000 +0000" stop="20260423133000 +0000" channel="beIN Sports 2 HD.starhub">
-        <title>Premier Padel 2026: Brussels P2 Day 3 Match 3 (Live)</title>
+    <programme start="20260423123000 +0000" stop="20260423125500 +0000" channel="beIN Sports 2 HD.starhub">
+        <title>Fiji vs Argentina - Cup QF4, Hong Kong - Men</title>
     </programme>
-    <programme start="20260423133000 +0000" stop="20260423135500 +0000" channel="beIN Sports 2 HD.starhub">
-        <title>HSBC SVNS World C&#039;ships 2026: Cup QF4, Hong Kong - Men</title>
+    <programme start="20260423125500 +0000" stop="20260423132000 +0000" channel="beIN Sports 2 HD.starhub">
+        <title>Argentina vs South Africa - 11th Place Play-off, Hong Kong - Women</title>
     </programme>
-    <programme start="20260423135500 +0000" stop="20260423142000 +0000" channel="beIN Sports 2 HD.starhub">
-        <title>HSBC SVNS World C&#039;ships 2026: 11th Place Play-off, Hong Kong - Women</title>
+    <programme start="20260423132000 +0000" stop="20260423134500 +0000" channel="beIN Sports 2 HD.starhub">
+        <title>USA vs Germany - 11th Place Play-off, Hong Kong - Men</title>
     </programme>
-    <programme start="20260423142000 +0000" stop="20260423144500 +0000" channel="beIN Sports 2 HD.starhub">
-        <title>HSBC SVNS World C&#039;ships 2026: 11th Place Play-off, Hong Kong - Men</title>
+    <programme start="20260423134500 +0000" stop="20260423141000 +0000" channel="beIN Sports 2 HD.starhub">
+        <title>Brazil vs Great Britain - 9th Place Play-off, Hong Kong - Women</title>
     </programme>
-    <programme start="20260423144500 +0000" stop="20260423151000 +0000" channel="beIN Sports 2 HD.starhub">
-        <title>HSBC SVNS World C&#039;ships 2026: 9th Place Play-off, Hong Kong - Women</title>
+    <programme start="20260423141000 +0000" stop="20260423143500 +0000" channel="beIN Sports 2 HD.starhub">
+        <title>Great Britain vs Uruguay - 9th Place Play-off, Hong Kong - Men</title>
     </programme>
-    <programme start="20260423151000 +0000" stop="20260423153500 +0000" channel="beIN Sports 2 HD.starhub">
-        <title>HSBC SVNS World C&#039;ships 2026: 9th Place Play-off, Hong Kong - Men</title>
+    <programme start="20260423143500 +0000" stop="20260423150000 +0000" channel="beIN Sports 2 HD.starhub">
+        <title>Fiji vs Spain - 7th Place Play-off, Hong Kong - Women</title>
     </programme>
-    <programme start="20260423153500 +0000" stop="20260423160000 +0000" channel="beIN Sports 2 HD.starhub">
-        <title>HSBC SVNS World C&#039;ships 2026: 7th Place Play-off, Hong Kong - Women</title>
+    <programme start="20260423150000 +0000" stop="20260423163000 +0000" channel="beIN Sports 2 HD.starhub">
+        <title>Brussels P2 Day 3 Match 4</title>
     </programme>
     <programme start="20260422160000 +0000" stop="20260422170000 +0000" channel="TVB Xing He.starhub">
         <title>When a Man Loves a Woman</title>
@@ -8104,25 +8104,25 @@
     <programme start="20260422133000 +0000" stop="20260422163000 +0000" channel="Asianet Movies.starhub">
         <title>Itti Mani made in China</title>
     </programme>
-    <programme start="20260422163000 +0000" stop="20260422193000 +0000" channel="Asianet Movies.starhub">
+    <programme start="20260422163000 +0000" stop="20260422192000 +0000" channel="Asianet Movies.starhub">
         <title>Manassinakkare</title>
     </programme>
-    <programme start="20260422193000 +0000" stop="20260422213000 +0000" channel="Asianet Movies.starhub">
+    <programme start="20260422192000 +0000" stop="20260422214000 +0000" channel="Asianet Movies.starhub">
         <title>Visudhan</title>
     </programme>
-    <programme start="20260422213000 +0000" stop="20260422233000 +0000" channel="Asianet Movies.starhub">
+    <programme start="20260422214000 +0000" stop="20260422233000 +0000" channel="Asianet Movies.starhub">
         <title>Oru Kaattil oru Paayakkappal</title>
     </programme>
     <programme start="20260422233000 +0000" stop="20260423013000 +0000" channel="Asianet Movies.starhub">
         <title>Beware of Dogs</title>
     </programme>
-    <programme start="20260423013000 +0000" stop="20260423043000 +0000" channel="Asianet Movies.starhub">
+    <programme start="20260423013000 +0000" stop="20260423044000 +0000" channel="Asianet Movies.starhub">
         <title>Rasathanthram</title>
     </programme>
-    <programme start="20260423043000 +0000" stop="20260423073000 +0000" channel="Asianet Movies.starhub">
+    <programme start="20260423044000 +0000" stop="20260423073500 +0000" channel="Asianet Movies.starhub">
         <title>Action Hero Biju</title>
     </programme>
-    <programme start="20260423073000 +0000" stop="20260423103000 +0000" channel="Asianet Movies.starhub">
+    <programme start="20260423073500 +0000" stop="20260423103000 +0000" channel="Asianet Movies.starhub">
         <title>Thuruppugulan</title>
     </programme>
     <programme start="20260423103000 +0000" stop="20260423133000 +0000" channel="Asianet Movies.starhub">

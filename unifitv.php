@@ -12864,13 +12864,15 @@
     <category lang="en">News</category>
   </programme>
   <programme start="20260422193300 +0000" stop="20260422200300 +0000" channel="aljazeera.unifitv">
-    <title lang="en">101 East</title>
-    <desc lang="en">101 East reports on the people and events shaping the Asia Pacific region. .</desc>
+    <title lang="en">Counting the Cost</title>
+    <desc lang="en">Is China a winner of the Iran war or facing hidden risks?</desc>
     <category lang="en">News</category>
+    <episode-num system="xmltv_ns">0.22.</episode-num>
+    <episode-num system="onscreen">S1E23</episode-num>
   </programme>
   <programme start="20260422200300 +0000" stop="20260422210300 +0000" channel="aljazeera.unifitv">
-    <title lang="en">Witness</title>
-    <desc lang="en">Inspirational and provocative stories providing a fresh and informative insight into the world's key events as they impact on the lives of ordinary people.</desc>
+    <title lang="en">Newshour</title>
+    <desc lang="en">Latest news and in-depth analysis from around the world.</desc>
     <category lang="en">News</category>
   </programme>
   <programme start="20260422210300 +0000" stop="20260422220300 +0000" channel="aljazeera.unifitv">
@@ -12878,14 +12880,9 @@
     <desc lang="en">Latest news and in-depth analysis from around the world.</desc>
     <category lang="en">News</category>
   </programme>
-  <programme start="20260422220300 +0000" stop="20260422223300 +0000" channel="aljazeera.unifitv">
-    <title lang="en">News Live</title>
-    <desc lang="en">Up-to-date news and analysis from around the world.</desc>
-    <category lang="en">News</category>
-  </programme>
-  <programme start="20260422223300 +0000" stop="20260422230300 +0000" channel="aljazeera.unifitv">
-    <title lang="en">People and Power</title>
-    <desc lang="en">Investigative documentary series examining the use and abuse of power.</desc>
+  <programme start="20260422220300 +0000" stop="20260422230300 +0000" channel="aljazeera.unifitv">
+    <title lang="en">Newshour</title>
+    <desc lang="en">Latest news and in-depth analysis from around the world.</desc>
     <category lang="en">News</category>
   </programme>
   <programme start="20260422230300 +0000" stop="20260422233300 +0000" channel="aljazeera.unifitv">
@@ -12916,8 +12913,8 @@
     <category lang="en">News</category>
   </programme>
   <programme start="20260423023300 +0000" stop="20260423030300 +0000" channel="aljazeera.unifitv">
-    <title lang="en">The Stream</title>
-    <desc lang="en">The Stream is where Al Jazeera's audience becomes a global community.</desc>
+    <title lang="en">Al Jazeera Untangles</title>
+    <desc lang="en">How Britain fused naval dominance with corporate reach to build a global empire of trade and control.</desc>
     <category lang="en">News</category>
   </programme>
   <programme start="20260423030300 +0000" stop="20260423033300 +0000" channel="aljazeera.unifitv">
@@ -12926,9 +12923,11 @@
     <category lang="en">News</category>
   </programme>
   <programme start="20260423033300 +0000" stop="20260423040300 +0000" channel="aljazeera.unifitv">
-    <title lang="en">The Global Population Bust : Baby Boomers</title>
-    <desc lang="en">From tech billionaires to rural Japan, meet the unlikely groups fighting to reverse the global baby bust.</desc>
+    <title lang="en">Al Jazeera World</title>
+    <desc lang="en">Israel's intelligence investigated in a story of spies, moles and blind spots, from early-state betrayals to 7th October 2023 and today's conflict with Iran.</desc>
     <category lang="en">News</category>
+    <episode-num system="xmltv_ns">0.406.</episode-num>
+    <episode-num system="onscreen">S1E407</episode-num>
   </programme>
   <programme start="20260423040300 +0000" stop="20260423043300 +0000" channel="aljazeera.unifitv">
     <title lang="en">News Live</title>
@@ -12936,9 +12935,11 @@
     <category lang="en">News</category>
   </programme>
   <programme start="20260423043300 +0000" stop="20260423050300 +0000" channel="aljazeera.unifitv">
-    <title lang="en">Reframe</title>
-    <desc lang="en">Do China's violations of human rights extend beyond its borders &amp; represent a threat on a global scale? Kenneth Roth interviews journalist &amp; author Emily Feng.</desc>
+    <title lang="en">Al Jazeera World</title>
+    <desc lang="en">A series of one-hour documentaries showcasing films from across the Al Jazeera Network.</desc>
     <category lang="en">News</category>
+    <episode-num system="xmltv_ns">0.407.</episode-num>
+    <episode-num system="onscreen">S1E408</episode-num>
   </programme>
   <programme start="20260423050300 +0000" stop="20260423053300 +0000" channel="aljazeera.unifitv">
     <title lang="en">News Live</title>
@@ -12959,7 +12960,7 @@
   </programme>
   <programme start="20260423063300 +0000" stop="20260423070300 +0000" channel="aljazeera.unifitv">
     <title lang="en">The Bottom Line</title>
-    <desc lang="en">Weekly discussion show on U.S. politics and policies hosted by Steve Clemons.</desc>
+    <desc lang="en">How will Iran-U.S. talks unfold? Host Steve Clemons speaks with political scientist Mohsen Milani.</desc>
     <category lang="en">News</category>
     <episode-num system="xmltv_ns">0.15.</episode-num>
     <episode-num system="onscreen">S1E16</episode-num>
@@ -12980,11 +12981,11 @@
     <category lang="en">News</category>
   </programme>
   <programme start="20260423083300 +0000" stop="20260423090300 +0000" channel="aljazeera.unifitv">
-    <title lang="en">The Listening Post</title>
-    <desc lang="en">What is being reported by world media and how? Richard Gizbert guides you through the global news maze.</desc>
+    <title lang="en">Counting the Cost</title>
+    <desc lang="en">Is China a winner of the Iran war or facing hidden risks?</desc>
     <category lang="en">News</category>
-    <episode-num system="xmltv_ns">0.15.</episode-num>
-    <episode-num system="onscreen">S1E16</episode-num>
+    <episode-num system="xmltv_ns">0.22.</episode-num>
+    <episode-num system="onscreen">S1E23</episode-num>
   </programme>
   <programme start="20260423090300 +0000" stop="20260423093300 +0000" channel="aljazeera.unifitv">
     <title lang="en">News Live</title>
@@ -13030,10 +13031,8 @@
   </programme>
   <programme start="20260423143300 +0000" stop="20260423150300 +0000" channel="aljazeera.unifitv">
     <title lang="en">Talk to Al Jazeera</title>
-    <desc lang="en">One-on-one conversations with global leaders, icons, influencers and alternative voices shaping our times.</desc>
+    <desc lang="en">As fighting pauses in the US-Israel war on Iran, a military strategist examines shifting goals, strategic missteps, and what Washington has really achieved.</desc>
     <category lang="en">News</category>
-    <episode-num system="xmltv_ns">0.466.</episode-num>
-    <episode-num system="onscreen">S1E467</episode-num>
   </programme>
   <programme start="20260423150300 +0000" stop="20260423160300 +0000" channel="aljazeera.unifitv">
     <title lang="en">Newshour</title>
@@ -15206,9 +15205,69 @@
     <desc lang="en">A selection of top goals from Guayre, a leading light for Villarreal in their push to become one of LaLiga’s elite.</desc>
     <category lang="en">Sports</category>
   </programme>
-  <programme start="20260423060000 +0000" stop="20260423153000 +0000" channel="unifisports1.unifitv">
+  <programme start="20260423060000 +0000" stop="20260423083000 +0000" channel="unifisports1.unifitv">
     <title lang="en">UFC Reloaded - UFC 312: Du Plessis vs Strickland</title>
     <desc lang="en">UFC returns down under to Sydney, Austalia, where Middleweight champion Dricus Du Plessis defends his crown against Sean Strickland, the man he took it from, and undefeated TUF 23 winner Tatiana Suarez aims to unseat 2-time champion Zhang Weili for the Women's Strawweight title. Plus more on UFC Reloaded!</desc>
+    <category lang="en">Sports</category>
+  </programme>
+  <programme start="20260423083000 +0000" stop="20260423090000 +0000" channel="unifisports1.unifitv">
+    <title lang="en">Mencari Ramli Musim Ke - 3 - 10</title>
+    <desc lang="en">Mencari Ramli adalah program pencarian bakat bola sepak yang hebat. Program ini memberi peluang kepada bakat muda untuk merealisasikan impian mereka menjadi pemain bola sepak terbaik di peringkat kebangsaan dan antarabangsa. Program ini mencungkil bakat bola sepak anak-anak muda berusia bawah 14 tahun dan bawah 16 tahun.</desc>
+    <category lang="en">Sports</category>
+  </programme>
+  <programme start="20260423090000 +0000" stop="20260423090500 +0000" channel="unifisports1.unifitv">
+    <title lang="en">LALIGA LEGENDS PEP GUARDIOLA - LALIGA LEGENDS PEP GUARDIOLA</title>
+    <desc lang="en">More than a title-winning machine, Pep Guardiola changed the face of football. Trace the evolution of his famed “tiki-taka” style of play that propelled the likes of Messi, Xavi, Iniesta and Busquets to footballing royalty.</desc>
+    <category lang="en">Sports</category>
+  </programme>
+  <programme start="20260423090500 +0000" stop="20260423091000 +0000" channel="unifisports1.unifitv">
+    <title lang="en">LALIGA TOP GOALS ADRIAN LOPEZ - LALIGA TOP GOALS ADRIAN LOPEZ</title>
+    <desc lang="en">Remember Adrian? One of LaLiga’s famed marksmen scored goals aplenty. Here are some of his best, across his time at Atletico Madrid, Villarreal, Deportivo La Coruna and more.</desc>
+    <category lang="en">Sports</category>
+  </programme>
+  <programme start="20260423091000 +0000" stop="20260423091500 +0000" channel="unifisports1.unifitv">
+    <title lang="en">LALIGA TOP GOALS ENRIQUE DE LUCAS - LALIGA TOP GOALS ENRIQUE DE LUCAS</title>
+    <desc lang="en">Predatory finishing &amp; net-busting missiles from long range. A celebration of Quique de Lucas – one of LaLiga’s longest serving attacking talents.</desc>
+    <category lang="en">Sports</category>
+  </programme>
+  <programme start="20260423091500 +0000" stop="20260423121500 +0000" channel="unifisports1.unifitv">
+    <title lang="en">(L) AFL Premiership Season  - Round 7 - Western Bulldogs v Sydney Swans</title>
+    <desc lang="en">ABC Australia brings you Australian Rules football live in your lounge room every week with coverage of the 2026 AFL Premiership Season.</desc>
+    <category lang="en">Sports</category>
+  </programme>
+  <programme start="20260423121500 +0000" stop="20260423122000 +0000" channel="unifisports1.unifitv">
+    <title lang="en">LALIGA LEGENDS PEP GUARDIOLA - LALIGA LEGENDS PEP GUARDIOLA</title>
+    <desc lang="en">More than a title-winning machine, Pep Guardiola changed the face of football. Trace the evolution of his famed “tiki-taka” style of play that propelled the likes of Messi, Xavi, Iniesta and Busquets to footballing royalty.</desc>
+    <category lang="en">Sports</category>
+  </programme>
+  <programme start="20260423122000 +0000" stop="20260423122500 +0000" channel="unifisports1.unifitv">
+    <title lang="en">LALIGA TOP GOALS ADRIAN LOPEZ - LALIGA TOP GOALS ADRIAN LOPEZ</title>
+    <desc lang="en">Remember Adrian? One of LaLiga’s famed marksmen scored goals aplenty. Here are some of his best, across his time at Atletico Madrid, Villarreal, Deportivo La Coruna and more.</desc>
+    <category lang="en">Sports</category>
+  </programme>
+  <programme start="20260423122500 +0000" stop="20260423123000 +0000" channel="unifisports1.unifitv">
+    <title lang="en">LALIGA TOP GOALS ENRIQUE DE LUCAS - LALIGA TOP GOALS ENRIQUE DE LUCAS</title>
+    <desc lang="en">Predatory finishing &amp; net-busting missiles from long range. A celebration of Quique de Lucas – one of LaLiga’s longest serving attacking talents.</desc>
+    <category lang="en">Sports</category>
+  </programme>
+  <programme start="20260423123000 +0000" stop="20260423130000 +0000" channel="unifisports1.unifitv">
+    <title lang="en">UFC Ultimate Knockouts - Dana White's Contender Series Alum</title>
+    <desc lang="en">UFC Ultimate Knockouts delivers jaw-dropping finishes from fighters who earned their spots through Dana White’s Contender Series. See rising stars and future champions like Jack Della Maddalena, Carlos Prates, Sean O’Malley, and more.</desc>
+    <category lang="en">Sports</category>
+  </programme>
+  <programme start="20260423130000 +0000" stop="20260423135500 +0000" channel="unifisports1.unifitv">
+    <title lang="en">UFC Countdown - UFC 322: Della Maddalena vs Makhachev</title>
+    <desc lang="en">UFC 322 Countdown previews a massive title-fight double header as Islam Makhachev moves up to challenge welterweight champ Jack Della Maddalena, and Zhang Weili faces dominant flyweight queen Valentina Shevchenko</desc>
+    <category lang="en">Sports</category>
+  </programme>
+  <programme start="20260423135500 +0000" stop="20260423140000 +0000" channel="unifisports1.unifitv">
+    <title lang="en">LALIGA TOP GOALS ENRIQUE DE LUCAS - LALIGA TOP GOALS ENRIQUE DE LUCAS</title>
+    <desc lang="en">Predatory finishing &amp; net-busting missiles from long range. A celebration of Quique de Lucas – one of LaLiga’s longest serving attacking talents.</desc>
+    <category lang="en">Sports</category>
+  </programme>
+  <programme start="20260423140000 +0000" stop="20260423195500 +0000" channel="unifisports1.unifitv">
+    <title lang="en">UFC Fight Night: Burns vs. Malott - Prelims</title>
+    <desc lang="en">On Saturday, April 19, UFC returns to Canada Life Centre in Winnipeg, Manitoba, Canada for the first time in nearly a decade with a fight card headlined by one of the country’s top contenders as Gilbert “Durinho” Burns takes on “Proper” Mike Malott.</desc>
     <category lang="en">Sports</category>
   </programme>
   <channel id="spotv.unifitv">
@@ -15322,12 +15381,12 @@
     <desc lang="en">Supercars delivers exhilarating and accessible motorsports-led entertainment to engaged and passionate fans.</desc>
     <category lang="en">Motorsports</category>
   </programme>
-  <programme start="20260422220000 +0000" stop="20260423000000 +0000" channel="spotv2.unifitv">
+  <programme start="20260422220000 +0000" stop="20260423000500 +0000" channel="spotv2.unifitv">
     <title lang="en">2026 Supercars: ITM Christchurch Super 440 - Race 13</title>
     <desc lang="en">Supercars delivers exhilarating and accessible motorsports-led entertainment to engaged and passionate fans.</desc>
     <category lang="en">Motorsports</category>
   </programme>
-  <programme start="20260423000000 +0000" stop="20260423004500 +0000" channel="spotv2.unifitv">
+  <programme start="20260423000500 +0000" stop="20260423004500 +0000" channel="spotv2.unifitv">
     <title lang="en">2025/26 ALM Mini Match Rd 24 - Melbourne City FC vs Wellington Phoenix</title>
     <desc lang="en">Top flight men's soccer returns in the ISUZU UTE A-League Men. Catch every moment on SPOTV NOW as 12 teams compete in the regular season with top 4 advancing to a single-game knockout.</desc>
     <category lang="en">Football</category>

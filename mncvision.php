@@ -5402,7 +5402,7 @@
     <title>AnugerahNya</title>
 </programme>
 <programme start="20260423030000 +0000" stop="20260423033000 +0000" channel="LIFE.mncvision">
-    <title>Smoketown</title>
+    <title>Your Best Life Now</title>
 </programme>
 <programme start="20260423033000 +0000" stop="20260423040000 +0000" channel="LIFE.mncvision">
     <title>Bimbingan Rohani: Katolik</title>
@@ -5459,7 +5459,7 @@
     <title>This Is My Song</title>
 </programme>
 <programme start="20260423153000 +0000" stop="20260423160000 +0000" channel="LIFE.mncvision">
-    <title>Smoketown</title>
+    <title>Your Best Life Now</title>
 </programme>
 <programme start="20260423160000 +0000" stop="20260423163000 +0000" channel="LIFE.mncvision">
     <title>Solusi</title>
