@@ -5540,27 +5540,27 @@
     <desc lang="id">Rally Sierra Morena</desc>
     <icon src="https://thumbor.prod.vidiocdn.com/5yUHYfv_b1sZi7kdFElm8JqF2RY=/287x162/filters:strip_icc():quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/image/6299/bein-1-4bd997.jpg"/>
   </programme>
-  <programme channel="6299" start="20260423165500 +0000" stop="20260423190000 +0000">
+  <programme channel="6299" start="20260423165500 +0000" stop="20260423190500 +0000">
     <title lang="id">Levante vs Sevilla - LaLiga</title>
     <desc lang="id">Nonton streaming pertandingan seru Levante vs Sevilla - LaLiga. Saksikan aksi-aksi terbaik dari tim yang bersaing ketat untuk meraih kemenangan. Dapatkan informasi lengkap mengenai jadwal pertandingan dan hasil pertandingan terbaru hanya di Vidio.</desc>
     <icon src="https://thumbor.prod.vidiocdn.com/WN-BrE8_tzlrfcWbMWaHjyucnVA=/287x162/filters:strip_icc():quality(70)/vidio-media-production/uploads/livestreaming/schedule/thumbnail/5021545/a173d9.jpg"/>
   </programme>
-  <programme channel="6299" start="20260423165500 +0000" stop="20260423190000 +0000">
+  <programme channel="6299" start="20260423165500 +0000" stop="20260423190500 +0000">
     <title lang="id">Levante vs Sevilla - LaLiga</title>
     <desc lang="id">Nonton streaming pertandingan seru Levante vs Sevilla - LaLiga. Saksikan aksi-aksi terbaik dari tim yang bersaing ketat untuk meraih kemenangan. Dapatkan informasi lengkap mengenai jadwal pertandingan dan hasil pertandingan terbaru hanya di Vidio.</desc>
     <icon src="https://thumbor.prod.vidiocdn.com/WN-BrE8_tzlrfcWbMWaHjyucnVA=/287x162/filters:strip_icc():quality(70)/vidio-media-production/uploads/livestreaming/schedule/thumbnail/5021545/a173d9.jpg"/>
   </programme>
-  <programme channel="6299" start="20260423190000 +0000" stop="20260423192500 +0000">
+  <programme channel="6299" start="20260423190500 +0000" stop="20260423192500 +0000">
     <title lang="id">Kylian Mbappe : LaLiga Goals Galore 2024/25</title>
     <desc lang="id">Kylian Mbappe</desc>
     <icon src="https://thumbor.prod.vidiocdn.com/5yUHYfv_b1sZi7kdFElm8JqF2RY=/287x162/filters:strip_icc():quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/image/6299/bein-1-4bd997.jpg"/>
   </programme>
-  <programme channel="6299" start="20260423192500 +0000" stop="20260423213000 +0000">
+  <programme channel="6299" start="20260423192500 +0000" stop="20260423213500 +0000">
     <title lang="id">Oviedo vs Villarreal - LaLiga</title>
     <desc lang="id">Nonton streaming pertandingan seru Oviedo vs Villarreal - LaLiga. Saksikan aksi-aksi terbaik dari tim yang bersaing ketat untuk meraih kemenangan. Dapatkan informasi lengkap mengenai jadwal pertandingan dan hasil pertandingan terbaru hanya di Vidio.</desc>
     <icon src="https://thumbor.prod.vidiocdn.com/k84qQU4uUqhsuLHq0n0syf8eHns=/287x162/filters:strip_icc():quality(70)/vidio-media-production/uploads/livestreaming/schedule/thumbnail/5021546/904e39.jpg"/>
   </programme>
-  <programme channel="6299" start="20260423213000 +0000" stop="20260423232000 +0000">
+  <programme channel="6299" start="20260423213500 +0000" stop="20260423232000 +0000">
     <title lang="id">Real Madrid vs Chelsea - R16 : UEFA Youth League 2025/26</title>
     <desc lang="id">Real Madrid vs Chelsea - R16</desc>
     <icon src="https://thumbor.prod.vidiocdn.com/5yUHYfv_b1sZi7kdFElm8JqF2RY=/287x162/filters:strip_icc():quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/image/6299/bein-1-4bd997.jpg"/>
