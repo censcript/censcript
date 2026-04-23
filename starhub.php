@@ -2219,7 +2219,7 @@
         <title>Premier Padel 2026: Brussels P2 Day 4 QF Match 3 (Live)</title>
     </programme>
     <programme start="20260424133000 +0000" stop="20260424135500 +0000" channel="beIN Sports 2 HD.starhub">
-        <title>HSBC SVNS World C&#039;ships 2026: France vs Kenya - 7th Place Play-off, Hong Kong -</title>
+        <title>HSBC SVNS World C&#039;ships 2026: France vs Kenya - 7th Place Play-off, Hong Kong - Men</title>
     </programme>
     <programme start="20260424135500 +0000" stop="20260424142000 +0000" channel="beIN Sports 2 HD.starhub">
         <title>HSBC SVNS World C&#039;ships 2026: Canada vs New Zealand - Cup SF1, Hong Kong - Women</title>
@@ -2228,13 +2228,13 @@
         <title>HSBC SVNS World C&#039;ships 2026: France vs Australia - Cup SF2, Hong Kong - Women</title>
     </programme>
     <programme start="20260424144500 +0000" stop="20260424151000 +0000" channel="beIN Sports 2 HD.starhub">
-        <title>HSBC SVNS World C&#039;ships 2026: New Zealand vs South Africa - Cup SF1, Hong Kong -</title>
+        <title>HSBC SVNS World C&#039;ships 2026: New Zealand vs South Africa - Cup SF1, Hong Kong - Men</title>
     </programme>
     <programme start="20260424151000 +0000" stop="20260424153500 +0000" channel="beIN Sports 2 HD.starhub">
         <title>HSBC SVNS World C&#039;ships 2026: Spain vs Argentina - Cup SF2, Hong Kong - Men</title>
     </programme>
     <programme start="20260424153500 +0000" stop="20260424160000 +0000" channel="beIN Sports 2 HD.starhub">
-        <title>HSBC SVNS World C&#039;ships 2026: USA vs Japan - 5th Place Play-off, Hong Kong - Wom</title>
+        <title>HSBC SVNS World C&#039;ships 2026: USA vs Japan - 5th Place Play-off, Hong Kong - Women</title>
     </programme>
     <programme start="20260423160000 +0000" stop="20260423170000 +0000" channel="TVB Xing He.starhub">
         <title>Recipes To Live By</title>
