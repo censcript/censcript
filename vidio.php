@@ -7009,7 +7009,7 @@
     <icon src="https://thumbor.prod.vidiocdn.com/edoqRinFCRhrRwQ2ngcXacb_q74=/287x162/filters:strip_icc():quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/image/6685/champions-tv-1-54e282.jpg"/>
   </programme>
   <programme channel="6685" start="20260423063000 +0000" stop="20260423083000 +0000">
-    <title lang="id">Wuzhishan  Lingshui : TOUR OF HAINAN 2026</title>
+    <title lang="id">Wuzhishan Lingshui : TOUR OF HAINAN 2026</title>
     <desc lang="id">Wuzhishan  Lingshui</desc>
     <icon src="https://thumbor.prod.vidiocdn.com/edoqRinFCRhrRwQ2ngcXacb_q74=/287x162/filters:strip_icc():quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/image/6685/champions-tv-1-54e282.jpg"/>
   </programme>
@@ -11215,15 +11215,10 @@
     <desc lang="id">ROUND 2 GAME 1</desc>
     <icon src="https://thumbor.prod.vidiocdn.com/IccXQd6EOZjWCT9QQQrsC0nCTZQ=/287x162/filters:strip_icc():quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/image/18190/champions-golf-2-3c2aa9.jpg"/>
   </programme>
-  <programme channel="18190" start="20260425170000 +0000" stop="20260425190000 +0000">
-    <title lang="id">(continue) THE CHEVRON CHAMPIONSHIP</title>
-    <desc lang="id">ROUND 2 GAME 1</desc>
-    <icon src="https://thumbor.prod.vidiocdn.com/IccXQd6EOZjWCT9QQQrsC0nCTZQ=/287x162/filters:strip_icc():quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/image/18190/champions-golf-2-3c2aa9.jpg"/>
-  </programme>
-  <programme channel="18190" start="20260425190000 +0000" stop="20260425220000 +0000">
-    <title lang="id">[LIVE} PGA TOUR CHAMPIONS - MITSUBISHI ELECTRIC CLASSIC</title>
-    <desc lang="id">ROUND 2</desc>
-    <icon src="https://thumbor.prod.vidiocdn.com/IccXQd6EOZjWCT9QQQrsC0nCTZQ=/287x162/filters:strip_icc():quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/image/18190/champions-golf-2-3c2aa9.jpg"/>
+  <programme channel="18190" start="20260425170000 +0000" stop="20260425220000 +0000">
+    <title lang="id">Round 3 - The Chevron Championship 2026</title>
+    <desc lang="id">Nonton streaming pertandingan seru Round 3 - The Chevron Championship 2026. Saksikan aksi-aksi terbaik dari tim yang bersaing ketat untuk meraih kemenangan. Dapatkan informasi lengkap mengenai jadwal pertandingan dan hasil pertandingan terbaru hanya di Vidio.</desc>
+    <icon src="https://thumbor.prod.vidiocdn.com/WjhZ6SVY8aIX7_cMIUAQWFso-Lo=/287x162/filters:strip_icc():quality(70)/vidio-media-production/uploads/livestreaming/schedule/thumbnail/5023066/02743d.jpg"/>
   </programme>
   <programme channel="18190" start="20260425220000 +0000" stop="20260426000000 +0000">
     <title lang="id">THE CHEVRON CHAMPIONSHIP</title>
@@ -11875,27 +11870,17 @@
     <desc lang="id">Episode Number 0</desc>
     <icon src="https://thumbor.prod.vidiocdn.com/VmoYokSeKr_3SubUXC-rMC-EtQM=/287x162/filters:strip_icc():quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/image/17875/bein-2-25a5f9.jpg"/>
   </programme>
-  <programme channel="17875" start="20260423144500 +0000" stop="20260423151000 +0000">
+  <programme channel="17875" start="20260423144500 +0000" stop="20260423150000 +0000">
     <title lang="id">Episode Number 0 : HSBC SVNS World Championships 2026</title>
     <desc lang="id">Episode Number 0</desc>
     <icon src="https://thumbor.prod.vidiocdn.com/VmoYokSeKr_3SubUXC-rMC-EtQM=/287x162/filters:strip_icc():quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/image/17875/bein-2-25a5f9.jpg"/>
   </programme>
-  <programme channel="17875" start="20260423151000 +0000" stop="20260423153500 +0000">
-    <title lang="id">Episode Number 0 : HSBC SVNS World Championships 2026</title>
-    <desc lang="id">Episode Number 0</desc>
-    <icon src="https://thumbor.prod.vidiocdn.com/VmoYokSeKr_3SubUXC-rMC-EtQM=/287x162/filters:strip_icc():quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/image/17875/bein-2-25a5f9.jpg"/>
-  </programme>
-  <programme channel="17875" start="20260423153500 +0000" stop="20260423160000 +0000">
-    <title lang="id">Episode Number 0 : HSBC SVNS World Championships 2026</title>
-    <desc lang="id">Episode Number 0</desc>
-    <icon src="https://thumbor.prod.vidiocdn.com/VmoYokSeKr_3SubUXC-rMC-EtQM=/287x162/filters:strip_icc():quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/image/17875/bein-2-25a5f9.jpg"/>
-  </programme>
-  <programme channel="17875" start="20260423160000 +0000" stop="20260423203000 +0000">
+  <programme channel="17875" start="20260423150000 +0000" stop="20260423203000 +0000">
     <title lang="id">Brussels P2 Premier Padel 2026 - Day 3</title>
     <desc lang="id">Nonton streaming pertandingan seru Brussels P2 Premier Padel 2026 - Day 3. Saksikan aksi-aksi terbaik dari tim yang bersaing ketat untuk meraih kemenangan. Dapatkan informasi lengkap mengenai jadwal pertandingan dan hasil pertandingan terbaru hanya di Vidio.</desc>
     <icon src="https://thumbor.prod.vidiocdn.com/PTAJG6JBgFBjFSL4qmBbIN4ymHo=/287x162/filters:strip_icc():quality(70)/vidio-media-production/uploads/livestreaming/schedule/thumbnail/5021536/df821c.jpg"/>
   </programme>
-  <programme channel="17875" start="20260423160000 +0000" stop="20260423203000 +0000">
+  <programme channel="17875" start="20260423150000 +0000" stop="20260423203000 +0000">
     <title lang="id">Brussels P2 Premier Padel 2026 - Day 3</title>
     <desc lang="id">Nonton streaming pertandingan seru Brussels P2 Premier Padel 2026 - Day 3. Saksikan aksi-aksi terbaik dari tim yang bersaing ketat untuk meraih kemenangan. Dapatkan informasi lengkap mengenai jadwal pertandingan dan hasil pertandingan terbaru hanya di Vidio.</desc>
     <icon src="https://thumbor.prod.vidiocdn.com/PTAJG6JBgFBjFSL4qmBbIN4ymHo=/287x162/filters:strip_icc():quality(70)/vidio-media-production/uploads/livestreaming/schedule/thumbnail/5021536/df821c.jpg"/>
@@ -14920,6 +14905,401 @@ dan komprehensif mengenai berbagai topik yang relevan dalam kehidupan sehari-har
   <programme channel="7432" start="20260426160000 +0000" stop="20260426170000 +0000">
     <title lang="id">Soundcore Dangdut</title>
     <desc lang="id">Program Kompilasi Musik dari bergenre dangdut</desc>
+    <icon src="https://thumbor.prod.vidiocdn.com/jI9paWVBn_95F0l05oSMORf2wPw=/287x162/filters:strip_icc():quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/image/7432/nusantara-tv-b373d0.jpg"/>
+  </programme>
+  <programme channel="7432" start="20260426170000 +0000" stop="20260426180000 +0000">
+    <title lang="id">Soundcore Dangdut</title>
+    <desc lang="id">Program Kompilasi Musik dari bergenre dangdut</desc>
+    <icon src="https://thumbor.prod.vidiocdn.com/jI9paWVBn_95F0l05oSMORf2wPw=/287x162/filters:strip_icc():quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/image/7432/nusantara-tv-b373d0.jpg"/>
+  </programme>
+  <programme channel="7432" start="20260426180000 +0000" stop="20260426190000 +0000">
+    <title lang="id">NTV Toplines</title>
+    <desc lang="id">Sorotan berita ekslusif yang terjadi sepanjang hari</desc>
+    <icon src="https://thumbor.prod.vidiocdn.com/jI9paWVBn_95F0l05oSMORf2wPw=/287x162/filters:strip_icc():quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/image/7432/nusantara-tv-b373d0.jpg"/>
+  </programme>
+  <programme channel="7432" start="20260426190000 +0000" stop="20260426200000 +0000">
+    <title lang="id">Celebrity Fresh</title>
+    <desc lang="id">Program infotainment berdurasi 60 menit yang dipandu oleh dua host, menampilkan beragam informasi seputar selebriti tanah air, serta trend terkini yang terjadi di kalangan selebriti</desc>
+    <icon src="https://thumbor.prod.vidiocdn.com/jI9paWVBn_95F0l05oSMORf2wPw=/287x162/filters:strip_icc():quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/image/7432/nusantara-tv-b373d0.jpg"/>
+  </programme>
+  <programme channel="7432" start="20260426200000 +0000" stop="20260426210000 +0000">
+    <title lang="id">Ooh I See</title>
+    <desc lang="id">Program Informative magazine yang membahas berbagai hal menarik, isu, fenomena serta trend terkini</desc>
+    <icon src="https://thumbor.prod.vidiocdn.com/jI9paWVBn_95F0l05oSMORf2wPw=/287x162/filters:strip_icc():quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/image/7432/nusantara-tv-b373d0.jpg"/>
+  </programme>
+  <programme channel="7432" start="20260426210000 +0000" stop="20260426230000 +0000">
+    <title lang="id">NTV Prime</title>
+    <desc lang="id">Program News Bulletin yang tayang setiap hari, menyajikan berita terpopuler dan dialog eksklusif dengan narasumber</desc>
+    <icon src="https://thumbor.prod.vidiocdn.com/jI9paWVBn_95F0l05oSMORf2wPw=/287x162/filters:strip_icc():quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/image/7432/nusantara-tv-b373d0.jpg"/>
+  </programme>
+  <programme channel="7432" start="20260426230000 +0000" stop="20260427003000 +0000">
+    <title lang="id">NTV Morning</title>
+    <desc lang="id">Program berita pagi yang tayang setiap hari Senin - Jumat, menyajikan informasi terbaru untuk memulai hari</desc>
+    <icon src="https://thumbor.prod.vidiocdn.com/jI9paWVBn_95F0l05oSMORf2wPw=/287x162/filters:strip_icc():quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/image/7432/nusantara-tv-b373d0.jpg"/>
+  </programme>
+  <programme channel="7432" start="20260427003000 +0000" stop="20260427010000 +0000">
+    <title lang="id">LOL</title>
+    <desc lang="id">Program magazine tentang aksi kriminal yang terjadi di masyarakat dengan kejadian lucu dan absurd</desc>
+    <icon src="https://thumbor.prod.vidiocdn.com/jI9paWVBn_95F0l05oSMORf2wPw=/287x162/filters:strip_icc():quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/image/7432/nusantara-tv-b373d0.jpg"/>
+  </programme>
+  <programme channel="7432" start="20260427010000 +0000" stop="20260427020000 +0000">
+    <title lang="id">Celebrity Fresh</title>
+    <desc lang="id">Program infotainment berdurasi 60 menit yang dipandu oleh dua host, menampilkan beragam informasi seputar selebriti tanah air, serta trend terkini yang terjadi di kalangan selebriti</desc>
+    <icon src="https://thumbor.prod.vidiocdn.com/jI9paWVBn_95F0l05oSMORf2wPw=/287x162/filters:strip_icc():quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/image/7432/nusantara-tv-b373d0.jpg"/>
+  </programme>
+  <programme channel="7432" start="20260427020000 +0000" stop="20260427023000 +0000">
+    <title lang="id">Jelajah Rasa</title>
+    <desc lang="id">Mengeksplor kekayaan kuliner nusantara, menyusuri berbagai daerah untuk mencicipi dan mengangkat cerita dibalik makanan tradisional maupun modern</desc>
+    <icon src="https://thumbor.prod.vidiocdn.com/jI9paWVBn_95F0l05oSMORf2wPw=/287x162/filters:strip_icc():quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/image/7432/nusantara-tv-b373d0.jpg"/>
+  </programme>
+  <programme channel="7432" start="20260427023000 +0000" stop="20260427033000 +0000">
+    <title lang="id">Nusantara Economic Updates</title>
+    <desc lang="id">Program yang berfokus pada perkembangan dan isu - isu ekonomi terkini</desc>
+    <icon src="https://thumbor.prod.vidiocdn.com/jI9paWVBn_95F0l05oSMORf2wPw=/287x162/filters:strip_icc():quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/image/7432/nusantara-tv-b373d0.jpg"/>
+  </programme>
+  <programme channel="7432" start="20260427033000 +0000" stop="20260427040000 +0000">
+    <title lang="id">NTV Crime</title>
+    <desc lang="id">Investigatif, membuka tabir tersembunyi berdasar fakta</desc>
+    <icon src="https://thumbor.prod.vidiocdn.com/jI9paWVBn_95F0l05oSMORf2wPw=/287x162/filters:strip_icc():quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/image/7432/nusantara-tv-b373d0.jpg"/>
+  </programme>
+  <programme channel="7432" start="20260427040000 +0000" stop="20260427050000 +0000">
+    <title lang="id">NTV Today</title>
+    <desc lang="id">Program News Bulletin yang tayang Senin - Jumat, menghadirkan berita aktual dari berbagai bidang</desc>
+    <icon src="https://thumbor.prod.vidiocdn.com/jI9paWVBn_95F0l05oSMORf2wPw=/287x162/filters:strip_icc():quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/image/7432/nusantara-tv-b373d0.jpg"/>
+  </programme>
+  <programme channel="7432" start="20260427050000 +0000" stop="20260427053000 +0000">
+    <title lang="id">Asta Cita</title>
+    <desc lang="id">Program kebijakan publik berisi delapan misi strategis pemerintahan Prabowo-Gibran untuk mewujudkan Indonesia yang maju, mandiri, dan berkelanjutan menuju visi Indonesia Emas 2045</desc>
+    <icon src="https://thumbor.prod.vidiocdn.com/jI9paWVBn_95F0l05oSMORf2wPw=/287x162/filters:strip_icc():quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/image/7432/nusantara-tv-b373d0.jpg"/>
+  </programme>
+  <programme channel="7432" start="20260427053000 +0000" stop="20260427060000 +0000">
+    <title lang="id">Kok Bisa Viral</title>
+    <desc lang="id">Program magazine yang mengulik informasi fenomenal dan menarik dari seluruh dunia</desc>
+    <icon src="https://thumbor.prod.vidiocdn.com/jI9paWVBn_95F0l05oSMORf2wPw=/287x162/filters:strip_icc():quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/image/7432/nusantara-tv-b373d0.jpg"/>
+  </programme>
+  <programme channel="7432" start="20260427060000 +0000" stop="20260427070000 +0000">
+    <title lang="id">Celebrity Fresh</title>
+    <desc lang="id">Program infotainment berdurasi 60 menit yang dipandu oleh dua host, menampilkan beragam informasi seputar selebriti tanah air, serta trend terkini yang terjadi di kalangan selebriti</desc>
+    <icon src="https://thumbor.prod.vidiocdn.com/jI9paWVBn_95F0l05oSMORf2wPw=/287x162/filters:strip_icc():quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/image/7432/nusantara-tv-b373d0.jpg"/>
+  </programme>
+  <programme channel="7432" start="20260427070000 +0000" stop="20260427083000 +0000">
+    <title lang="id">Soundcore Dangdut</title>
+    <desc lang="id">Program Kompilasi Musik dari bergenre dangdut</desc>
+    <icon src="https://thumbor.prod.vidiocdn.com/jI9paWVBn_95F0l05oSMORf2wPw=/287x162/filters:strip_icc():quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/image/7432/nusantara-tv-b373d0.jpg"/>
+  </programme>
+  <programme channel="7432" start="20260427083000 +0000" stop="20260427090000 +0000">
+    <title lang="id">Nusantara Business Hour</title>
+    <desc lang="id">Program yang berfokus pada ekonomi, bisnis dan pasar keuangan</desc>
+    <icon src="https://thumbor.prod.vidiocdn.com/jI9paWVBn_95F0l05oSMORf2wPw=/287x162/filters:strip_icc():quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/image/7432/nusantara-tv-b373d0.jpg"/>
+  </programme>
+  <programme channel="7432" start="20260427090000 +0000" stop="20260427093000 +0000">
+    <title lang="id">Celebrity Fresh</title>
+    <desc lang="id">Program infotainment berdurasi 60 menit yang dipandu oleh dua host, menampilkan beragam informasi seputar selebriti tanah air, serta trend terkini yang terjadi di kalangan selebriti</desc>
+    <icon src="https://thumbor.prod.vidiocdn.com/jI9paWVBn_95F0l05oSMORf2wPw=/287x162/filters:strip_icc():quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/image/7432/nusantara-tv-b373d0.jpg"/>
+  </programme>
+  <programme channel="7432" start="20260427093000 +0000" stop="20260427100000 +0000">
+    <title lang="id">NTV Crime</title>
+    <desc lang="id">Investigatif, membuka tabir tersembunyi berdasar fakta</desc>
+    <icon src="https://thumbor.prod.vidiocdn.com/jI9paWVBn_95F0l05oSMORf2wPw=/287x162/filters:strip_icc():quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/image/7432/nusantara-tv-b373d0.jpg"/>
+  </programme>
+  <programme channel="7432" start="20260427100000 +0000" stop="20260427120000 +0000">
+    <title lang="id">NTV Prime</title>
+    <desc lang="id">Program News Bulletin yang tayang setiap hari, menyajikan berita terpopuler dan dialog eksklusif dengan narasumber</desc>
+    <icon src="https://thumbor.prod.vidiocdn.com/jI9paWVBn_95F0l05oSMORf2wPw=/287x162/filters:strip_icc():quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/image/7432/nusantara-tv-b373d0.jpg"/>
+  </programme>
+  <programme channel="7432" start="20260427120000 +0000" stop="20260427130000 +0000">
+    <title lang="id">NTV Toplines</title>
+    <desc lang="id">Sorotan berita ekslusif yang terjadi sepanjang hari</desc>
+    <icon src="https://thumbor.prod.vidiocdn.com/jI9paWVBn_95F0l05oSMORf2wPw=/287x162/filters:strip_icc():quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/image/7432/nusantara-tv-b373d0.jpg"/>
+  </programme>
+  <programme channel="7432" start="20260427130000 +0000" stop="20260427140000 +0000">
+    <title lang="id">Abraham</title>
+    <desc lang="id">Program investigasi mendalam yang tidak hanya memberikan gambaran umum, tetapi juga melakukan penyelidikan menyeluruh untuk mengungkap fakta-fakta tersembunyi di balik peristiwa-peristiwa penting di masyarakat</desc>
+    <icon src="https://thumbor.prod.vidiocdn.com/jI9paWVBn_95F0l05oSMORf2wPw=/287x162/filters:strip_icc():quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/image/7432/nusantara-tv-b373d0.jpg"/>
+  </programme>
+  <programme channel="7432" start="20260427140000 +0000" stop="20260427150000 +0000">
+    <title lang="id">NTV Sport</title>
+    <desc lang="id">Sportainment terkini dan menginspirasi</desc>
+    <icon src="https://thumbor.prod.vidiocdn.com/jI9paWVBn_95F0l05oSMORf2wPw=/287x162/filters:strip_icc():quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/image/7432/nusantara-tv-b373d0.jpg"/>
+  </programme>
+  <programme channel="7432" start="20260427150000 +0000" stop="20260427160000 +0000">
+    <title lang="id">NTV Tonight</title>
+    <desc lang="id">Program berita malam yang menyajikan informasi terkini dan peristiwa penting secara mendalam dan aktual</desc>
+    <icon src="https://thumbor.prod.vidiocdn.com/jI9paWVBn_95F0l05oSMORf2wPw=/287x162/filters:strip_icc():quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/image/7432/nusantara-tv-b373d0.jpg"/>
+  </programme>
+  <programme channel="7432" start="20260427160000 +0000" stop="20260427163000 +0000">
+    <title lang="id">NTV Headlines</title>
+    <desc lang="id">Program berita cepat yang menyajikan rangkuman singkat, padat, dan informatif tentang peristiwa nasional maupun internasional terkini</desc>
+    <icon src="https://thumbor.prod.vidiocdn.com/jI9paWVBn_95F0l05oSMORf2wPw=/287x162/filters:strip_icc():quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/image/7432/nusantara-tv-b373d0.jpg"/>
+  </programme>
+  <programme channel="7432" start="20260427163000 +0000" stop="20260427170000 +0000">
+    <title lang="id">Checkpoint</title>
+    <desc lang="id">Program berita mendalam yang menelusuri fakta, memberikan penjelasan latar belakang, serta update lanjutan dari sebuah isu yang sedang berkembang</desc>
+    <icon src="https://thumbor.prod.vidiocdn.com/jI9paWVBn_95F0l05oSMORf2wPw=/287x162/filters:strip_icc():quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/image/7432/nusantara-tv-b373d0.jpg"/>
+  </programme>
+  <programme channel="7432" start="20260427163000 +0000" stop="20260427170000 +0000">
+    <title lang="id">Checkpoint</title>
+    <desc lang="id">Program berita mendalam yang menelusuri fakta, memberikan penjelasan latar belakang, serta update lanjutan dari sebuah isu yang sedang berkembang</desc>
+    <icon src="https://thumbor.prod.vidiocdn.com/jI9paWVBn_95F0l05oSMORf2wPw=/287x162/filters:strip_icc():quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/image/7432/nusantara-tv-b373d0.jpg"/>
+  </programme>
+  <programme channel="7432" start="20260427170000 +0000" stop="20260427180000 +0000">
+    <title lang="id">Soundcore Dangdut</title>
+    <desc lang="id">Program Kompilasi Musik dari bergenre dangdut</desc>
+    <icon src="https://thumbor.prod.vidiocdn.com/jI9paWVBn_95F0l05oSMORf2wPw=/287x162/filters:strip_icc():quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/image/7432/nusantara-tv-b373d0.jpg"/>
+  </programme>
+  <programme channel="7432" start="20260427180000 +0000" stop="20260427190000 +0000">
+    <title lang="id">NTV Toplines</title>
+    <desc lang="id">Sorotan berita ekslusif yang terjadi sepanjang hari</desc>
+    <icon src="https://thumbor.prod.vidiocdn.com/jI9paWVBn_95F0l05oSMORf2wPw=/287x162/filters:strip_icc():quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/image/7432/nusantara-tv-b373d0.jpg"/>
+  </programme>
+  <programme channel="7432" start="20260427190000 +0000" stop="20260427200000 +0000">
+    <title lang="id">Celebrity Fresh</title>
+    <desc lang="id">Program infotainment berdurasi 60 menit yang dipandu oleh dua host, menampilkan beragam informasi seputar selebriti tanah air, serta trend terkini yang terjadi di kalangan selebriti</desc>
+    <icon src="https://thumbor.prod.vidiocdn.com/jI9paWVBn_95F0l05oSMORf2wPw=/287x162/filters:strip_icc():quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/image/7432/nusantara-tv-b373d0.jpg"/>
+  </programme>
+  <programme channel="7432" start="20260427200000 +0000" stop="20260427210000 +0000">
+    <title lang="id">Ooh I See</title>
+    <desc lang="id">Program Informative magazine yang membahas berbagai hal menarik, isu, fenomena serta trend terkini</desc>
+    <icon src="https://thumbor.prod.vidiocdn.com/jI9paWVBn_95F0l05oSMORf2wPw=/287x162/filters:strip_icc():quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/image/7432/nusantara-tv-b373d0.jpg"/>
+  </programme>
+  <programme channel="7432" start="20260427210000 +0000" stop="20260427230000 +0000">
+    <title lang="id">NTV Prime</title>
+    <desc lang="id">Program News Bulletin yang tayang setiap hari, menyajikan berita terpopuler dan dialog eksklusif dengan narasumber</desc>
+    <icon src="https://thumbor.prod.vidiocdn.com/jI9paWVBn_95F0l05oSMORf2wPw=/287x162/filters:strip_icc():quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/image/7432/nusantara-tv-b373d0.jpg"/>
+  </programme>
+  <programme channel="7432" start="20260427230000 +0000" stop="20260428003000 +0000">
+    <title lang="id">NTV Morning</title>
+    <desc lang="id">Program berita pagi yang tayang setiap hari Senin - Jumat, menyajikan informasi terbaru untuk memulai hari</desc>
+    <icon src="https://thumbor.prod.vidiocdn.com/jI9paWVBn_95F0l05oSMORf2wPw=/287x162/filters:strip_icc():quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/image/7432/nusantara-tv-b373d0.jpg"/>
+  </programme>
+  <programme channel="7432" start="20260428003000 +0000" stop="20260428010000 +0000">
+    <title lang="id">LOL</title>
+    <desc lang="id">Program magazine tentang aksi kriminal yang terjadi di masyarakat dengan kejadian lucu dan absurd</desc>
+    <icon src="https://thumbor.prod.vidiocdn.com/jI9paWVBn_95F0l05oSMORf2wPw=/287x162/filters:strip_icc():quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/image/7432/nusantara-tv-b373d0.jpg"/>
+  </programme>
+  <programme channel="7432" start="20260428010000 +0000" stop="20260428020000 +0000">
+    <title lang="id">Celebrity Fresh</title>
+    <desc lang="id">Program infotainment berdurasi 60 menit yang dipandu oleh dua host, menampilkan beragam informasi seputar selebriti tanah air, serta trend terkini yang terjadi di kalangan selebriti</desc>
+    <icon src="https://thumbor.prod.vidiocdn.com/jI9paWVBn_95F0l05oSMORf2wPw=/287x162/filters:strip_icc():quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/image/7432/nusantara-tv-b373d0.jpg"/>
+  </programme>
+  <programme channel="7432" start="20260428020000 +0000" stop="20260428023000 +0000">
+    <title lang="id">Jelajah Rasa</title>
+    <desc lang="id">Mengeksplor kekayaan kuliner nusantara, menyusuri berbagai daerah untuk mencicipi dan mengangkat cerita dibalik makanan tradisional maupun modern</desc>
+    <icon src="https://thumbor.prod.vidiocdn.com/jI9paWVBn_95F0l05oSMORf2wPw=/287x162/filters:strip_icc():quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/image/7432/nusantara-tv-b373d0.jpg"/>
+  </programme>
+  <programme channel="7432" start="20260428023000 +0000" stop="20260428033000 +0000">
+    <title lang="id">Nusantara Economic Updates</title>
+    <desc lang="id">Program yang berfokus pada perkembangan dan isu - isu ekonomi terkini</desc>
+    <icon src="https://thumbor.prod.vidiocdn.com/jI9paWVBn_95F0l05oSMORf2wPw=/287x162/filters:strip_icc():quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/image/7432/nusantara-tv-b373d0.jpg"/>
+  </programme>
+  <programme channel="7432" start="20260428033000 +0000" stop="20260428040000 +0000">
+    <title lang="id">NTV Crime</title>
+    <desc lang="id">Investigatif, membuka tabir tersembunyi berdasar fakta</desc>
+    <icon src="https://thumbor.prod.vidiocdn.com/jI9paWVBn_95F0l05oSMORf2wPw=/287x162/filters:strip_icc():quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/image/7432/nusantara-tv-b373d0.jpg"/>
+  </programme>
+  <programme channel="7432" start="20260428040000 +0000" stop="20260428050000 +0000">
+    <title lang="id">NTV Today</title>
+    <desc lang="id">Program News Bulletin yang tayang Senin - Jumat, menghadirkan berita aktual dari berbagai bidang</desc>
+    <icon src="https://thumbor.prod.vidiocdn.com/jI9paWVBn_95F0l05oSMORf2wPw=/287x162/filters:strip_icc():quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/image/7432/nusantara-tv-b373d0.jpg"/>
+  </programme>
+  <programme channel="7432" start="20260428050000 +0000" stop="20260428053000 +0000">
+    <title lang="id">Asta Cita</title>
+    <desc lang="id">Program kebijakan publik berisi delapan misi strategis pemerintahan Prabowo-Gibran untuk mewujudkan Indonesia yang maju, mandiri, dan berkelanjutan menuju visi Indonesia Emas 2045</desc>
+    <icon src="https://thumbor.prod.vidiocdn.com/jI9paWVBn_95F0l05oSMORf2wPw=/287x162/filters:strip_icc():quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/image/7432/nusantara-tv-b373d0.jpg"/>
+  </programme>
+  <programme channel="7432" start="20260428053000 +0000" stop="20260428060000 +0000">
+    <title lang="id">Kok Bisa Viral</title>
+    <desc lang="id">Program magazine yang mengulik informasi fenomenal dan menarik dari seluruh dunia</desc>
+    <icon src="https://thumbor.prod.vidiocdn.com/jI9paWVBn_95F0l05oSMORf2wPw=/287x162/filters:strip_icc():quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/image/7432/nusantara-tv-b373d0.jpg"/>
+  </programme>
+  <programme channel="7432" start="20260428060000 +0000" stop="20260428070000 +0000">
+    <title lang="id">Celebrity Fresh</title>
+    <desc lang="id">Program infotainment berdurasi 60 menit yang dipandu oleh dua host, menampilkan beragam informasi seputar selebriti tanah air, serta trend terkini yang terjadi di kalangan selebriti</desc>
+    <icon src="https://thumbor.prod.vidiocdn.com/jI9paWVBn_95F0l05oSMORf2wPw=/287x162/filters:strip_icc():quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/image/7432/nusantara-tv-b373d0.jpg"/>
+  </programme>
+  <programme channel="7432" start="20260428070000 +0000" stop="20260428083000 +0000">
+    <title lang="id">Soundcore Dangdut</title>
+    <desc lang="id">Program Kompilasi Musik dari bergenre dangdut</desc>
+    <icon src="https://thumbor.prod.vidiocdn.com/jI9paWVBn_95F0l05oSMORf2wPw=/287x162/filters:strip_icc():quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/image/7432/nusantara-tv-b373d0.jpg"/>
+  </programme>
+  <programme channel="7432" start="20260428083000 +0000" stop="20260428093000 +0000">
+    <title lang="id">Nusantara Business Hour</title>
+    <desc lang="id">Program yang berfokus pada ekonomi, bisnis dan pasar keuangan</desc>
+    <icon src="https://thumbor.prod.vidiocdn.com/jI9paWVBn_95F0l05oSMORf2wPw=/287x162/filters:strip_icc():quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/image/7432/nusantara-tv-b373d0.jpg"/>
+  </programme>
+  <programme channel="7432" start="20260428093000 +0000" stop="20260428100000 +0000">
+    <title lang="id">NTV Crime</title>
+    <desc lang="id">Investigatif, membuka tabir tersembunyi berdasar fakta</desc>
+    <icon src="https://thumbor.prod.vidiocdn.com/jI9paWVBn_95F0l05oSMORf2wPw=/287x162/filters:strip_icc():quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/image/7432/nusantara-tv-b373d0.jpg"/>
+  </programme>
+  <programme channel="7432" start="20260428100000 +0000" stop="20260428120000 +0000">
+    <title lang="id">NTV Prime</title>
+    <desc lang="id">Program News Bulletin yang tayang setiap hari, menyajikan berita terpopuler dan dialog eksklusif dengan narasumber</desc>
+    <icon src="https://thumbor.prod.vidiocdn.com/jI9paWVBn_95F0l05oSMORf2wPw=/287x162/filters:strip_icc():quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/image/7432/nusantara-tv-b373d0.jpg"/>
+  </programme>
+  <programme channel="7432" start="20260428120000 +0000" stop="20260428130000 +0000">
+    <title lang="id">NTV Toplines</title>
+    <desc lang="id">Sorotan berita ekslusif yang terjadi sepanjang hari</desc>
+    <icon src="https://thumbor.prod.vidiocdn.com/jI9paWVBn_95F0l05oSMORf2wPw=/287x162/filters:strip_icc():quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/image/7432/nusantara-tv-b373d0.jpg"/>
+  </programme>
+  <programme channel="7432" start="20260428130000 +0000" stop="20260428140000 +0000">
+    <title lang="id">Kasipaham</title>
+    <desc lang="id">Program diskusi yang mengupas isu-isu politik, ekonomi, dan kebijakan publik secara ringan namun informatif</desc>
+    <icon src="https://thumbor.prod.vidiocdn.com/jI9paWVBn_95F0l05oSMORf2wPw=/287x162/filters:strip_icc():quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/image/7432/nusantara-tv-b373d0.jpg"/>
+  </programme>
+  <programme channel="7432" start="20260428140000 +0000" stop="20260428150000 +0000">
+    <title lang="id">NTV Sport</title>
+    <desc lang="id">Sportainment terkini dan menginspirasi</desc>
+    <icon src="https://thumbor.prod.vidiocdn.com/jI9paWVBn_95F0l05oSMORf2wPw=/287x162/filters:strip_icc():quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/image/7432/nusantara-tv-b373d0.jpg"/>
+  </programme>
+  <programme channel="7432" start="20260428150000 +0000" stop="20260428160000 +0000">
+    <title lang="id">NTV Tonight</title>
+    <desc lang="id">Program berita malam yang menyajikan informasi terkini dan peristiwa penting secara mendalam dan aktual</desc>
+    <icon src="https://thumbor.prod.vidiocdn.com/jI9paWVBn_95F0l05oSMORf2wPw=/287x162/filters:strip_icc():quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/image/7432/nusantara-tv-b373d0.jpg"/>
+  </programme>
+  <programme channel="7432" start="20260428160000 +0000" stop="20260428163000 +0000">
+    <title lang="id">NTV Headlines</title>
+    <desc lang="id">Program berita cepat yang menyajikan rangkuman singkat, padat, dan informatif tentang peristiwa nasional maupun internasional terkini</desc>
+    <icon src="https://thumbor.prod.vidiocdn.com/jI9paWVBn_95F0l05oSMORf2wPw=/287x162/filters:strip_icc():quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/image/7432/nusantara-tv-b373d0.jpg"/>
+  </programme>
+  <programme channel="7432" start="20260428163000 +0000" stop="20260428170000 +0000">
+    <title lang="id">Checkpoint</title>
+    <desc lang="id">Program berita mendalam yang menelusuri fakta, memberikan penjelasan latar belakang, serta update lanjutan dari sebuah isu yang sedang berkembang</desc>
+    <icon src="https://thumbor.prod.vidiocdn.com/jI9paWVBn_95F0l05oSMORf2wPw=/287x162/filters:strip_icc():quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/image/7432/nusantara-tv-b373d0.jpg"/>
+  </programme>
+  <programme channel="7432" start="20260428163000 +0000" stop="20260428170000 +0000">
+    <title lang="id">Checkpoint</title>
+    <desc lang="id">Program berita mendalam yang menelusuri fakta, memberikan penjelasan latar belakang, serta update lanjutan dari sebuah isu yang sedang berkembang</desc>
+    <icon src="https://thumbor.prod.vidiocdn.com/jI9paWVBn_95F0l05oSMORf2wPw=/287x162/filters:strip_icc():quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/image/7432/nusantara-tv-b373d0.jpg"/>
+  </programme>
+  <programme channel="7432" start="20260428170000 +0000" stop="20260428180000 +0000">
+    <title lang="id">Soundcore Dangdut</title>
+    <desc lang="id">Program Kompilasi Musik dari bergenre dangdut</desc>
+    <icon src="https://thumbor.prod.vidiocdn.com/jI9paWVBn_95F0l05oSMORf2wPw=/287x162/filters:strip_icc():quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/image/7432/nusantara-tv-b373d0.jpg"/>
+  </programme>
+  <programme channel="7432" start="20260428180000 +0000" stop="20260428190000 +0000">
+    <title lang="id">NTV Toplines</title>
+    <desc lang="id">Sorotan berita ekslusif yang terjadi sepanjang hari</desc>
+    <icon src="https://thumbor.prod.vidiocdn.com/jI9paWVBn_95F0l05oSMORf2wPw=/287x162/filters:strip_icc():quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/image/7432/nusantara-tv-b373d0.jpg"/>
+  </programme>
+  <programme channel="7432" start="20260428190000 +0000" stop="20260428200000 +0000">
+    <title lang="id">Celebrity Fresh</title>
+    <desc lang="id">Program infotainment berdurasi 60 menit yang dipandu oleh dua host, menampilkan beragam informasi seputar selebriti tanah air, serta trend terkini yang terjadi di kalangan selebriti</desc>
+    <icon src="https://thumbor.prod.vidiocdn.com/jI9paWVBn_95F0l05oSMORf2wPw=/287x162/filters:strip_icc():quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/image/7432/nusantara-tv-b373d0.jpg"/>
+  </programme>
+  <programme channel="7432" start="20260428200000 +0000" stop="20260428210000 +0000">
+    <title lang="id">Ooh I See</title>
+    <desc lang="id">Program Informative magazine yang membahas berbagai hal menarik, isu, fenomena serta trend terkini</desc>
+    <icon src="https://thumbor.prod.vidiocdn.com/jI9paWVBn_95F0l05oSMORf2wPw=/287x162/filters:strip_icc():quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/image/7432/nusantara-tv-b373d0.jpg"/>
+  </programme>
+  <programme channel="7432" start="20260428210000 +0000" stop="20260428230000 +0000">
+    <title lang="id">NTV Prime</title>
+    <desc lang="id">Program News Bulletin yang tayang setiap hari, menyajikan berita terpopuler dan dialog eksklusif dengan narasumber</desc>
+    <icon src="https://thumbor.prod.vidiocdn.com/jI9paWVBn_95F0l05oSMORf2wPw=/287x162/filters:strip_icc():quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/image/7432/nusantara-tv-b373d0.jpg"/>
+  </programme>
+  <programme channel="7432" start="20260428230000 +0000" stop="20260429003000 +0000">
+    <title lang="id">NTV Morning</title>
+    <desc lang="id">Program berita pagi yang tayang setiap hari Senin - Jumat, menyajikan informasi terbaru untuk memulai hari</desc>
+    <icon src="https://thumbor.prod.vidiocdn.com/jI9paWVBn_95F0l05oSMORf2wPw=/287x162/filters:strip_icc():quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/image/7432/nusantara-tv-b373d0.jpg"/>
+  </programme>
+  <programme channel="7432" start="20260429003000 +0000" stop="20260429010000 +0000">
+    <title lang="id">LOL</title>
+    <desc lang="id">Program magazine tentang aksi kriminal yang terjadi di masyarakat dengan kejadian lucu dan absurd</desc>
+    <icon src="https://thumbor.prod.vidiocdn.com/jI9paWVBn_95F0l05oSMORf2wPw=/287x162/filters:strip_icc():quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/image/7432/nusantara-tv-b373d0.jpg"/>
+  </programme>
+  <programme channel="7432" start="20260429010000 +0000" stop="20260429020000 +0000">
+    <title lang="id">Celebrity Fresh</title>
+    <desc lang="id">Program infotainment berdurasi 60 menit yang dipandu oleh dua host, menampilkan beragam informasi seputar selebriti tanah air, serta trend terkini yang terjadi di kalangan selebriti</desc>
+    <icon src="https://thumbor.prod.vidiocdn.com/jI9paWVBn_95F0l05oSMORf2wPw=/287x162/filters:strip_icc():quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/image/7432/nusantara-tv-b373d0.jpg"/>
+  </programme>
+  <programme channel="7432" start="20260429020000 +0000" stop="20260429023000 +0000">
+    <title lang="id">Jelajah Rasa</title>
+    <desc lang="id">Mengeksplor kekayaan kuliner nusantara, menyusuri berbagai daerah untuk mencicipi dan mengangkat cerita dibalik makanan tradisional maupun modern</desc>
+    <icon src="https://thumbor.prod.vidiocdn.com/jI9paWVBn_95F0l05oSMORf2wPw=/287x162/filters:strip_icc():quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/image/7432/nusantara-tv-b373d0.jpg"/>
+  </programme>
+  <programme channel="7432" start="20260429023000 +0000" stop="20260429033000 +0000">
+    <title lang="id">Nusantara Economic Updates</title>
+    <desc lang="id">Program yang berfokus pada perkembangan dan isu - isu ekonomi terkini</desc>
+    <icon src="https://thumbor.prod.vidiocdn.com/jI9paWVBn_95F0l05oSMORf2wPw=/287x162/filters:strip_icc():quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/image/7432/nusantara-tv-b373d0.jpg"/>
+  </programme>
+  <programme channel="7432" start="20260429033000 +0000" stop="20260429040000 +0000">
+    <title lang="id">NTV Crime</title>
+    <desc lang="id">Investigatif, membuka tabir tersembunyi berdasar fakta</desc>
+    <icon src="https://thumbor.prod.vidiocdn.com/jI9paWVBn_95F0l05oSMORf2wPw=/287x162/filters:strip_icc():quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/image/7432/nusantara-tv-b373d0.jpg"/>
+  </programme>
+  <programme channel="7432" start="20260429040000 +0000" stop="20260429050000 +0000">
+    <title lang="id">NTV Today</title>
+    <desc lang="id">Program News Bulletin yang tayang Senin - Jumat, menghadirkan berita aktual dari berbagai bidang</desc>
+    <icon src="https://thumbor.prod.vidiocdn.com/jI9paWVBn_95F0l05oSMORf2wPw=/287x162/filters:strip_icc():quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/image/7432/nusantara-tv-b373d0.jpg"/>
+  </programme>
+  <programme channel="7432" start="20260429050000 +0000" stop="20260429053000 +0000">
+    <title lang="id">Asta Cita</title>
+    <desc lang="id">Program kebijakan publik berisi delapan misi strategis pemerintahan Prabowo-Gibran untuk mewujudkan Indonesia yang maju, mandiri, dan berkelanjutan menuju visi Indonesia Emas 2045</desc>
+    <icon src="https://thumbor.prod.vidiocdn.com/jI9paWVBn_95F0l05oSMORf2wPw=/287x162/filters:strip_icc():quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/image/7432/nusantara-tv-b373d0.jpg"/>
+  </programme>
+  <programme channel="7432" start="20260429053000 +0000" stop="20260429060000 +0000">
+    <title lang="id">Kok Bisa Viral</title>
+    <desc lang="id">Program magazine yang mengulik informasi fenomenal dan menarik dari seluruh dunia</desc>
+    <icon src="https://thumbor.prod.vidiocdn.com/jI9paWVBn_95F0l05oSMORf2wPw=/287x162/filters:strip_icc():quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/image/7432/nusantara-tv-b373d0.jpg"/>
+  </programme>
+  <programme channel="7432" start="20260429060000 +0000" stop="20260429070000 +0000">
+    <title lang="id">Celebrity Fresh</title>
+    <desc lang="id">Program infotainment berdurasi 60 menit yang dipandu oleh dua host, menampilkan beragam informasi seputar selebriti tanah air, serta trend terkini yang terjadi di kalangan selebriti</desc>
+    <icon src="https://thumbor.prod.vidiocdn.com/jI9paWVBn_95F0l05oSMORf2wPw=/287x162/filters:strip_icc():quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/image/7432/nusantara-tv-b373d0.jpg"/>
+  </programme>
+  <programme channel="7432" start="20260429070000 +0000" stop="20260429083000 +0000">
+    <title lang="id">Soundcore Dangdut</title>
+    <desc lang="id">Program Kompilasi Musik dari bergenre dangdut</desc>
+    <icon src="https://thumbor.prod.vidiocdn.com/jI9paWVBn_95F0l05oSMORf2wPw=/287x162/filters:strip_icc():quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/image/7432/nusantara-tv-b373d0.jpg"/>
+  </programme>
+  <programme channel="7432" start="20260429083000 +0000" stop="20260429090000 +0000">
+    <title lang="id">Nusantara Business Hour</title>
+    <desc lang="id">Program yang berfokus pada ekonomi, bisnis dan pasar keuangan</desc>
+    <icon src="https://thumbor.prod.vidiocdn.com/jI9paWVBn_95F0l05oSMORf2wPw=/287x162/filters:strip_icc():quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/image/7432/nusantara-tv-b373d0.jpg"/>
+  </programme>
+  <programme channel="7432" start="20260429090000 +0000" stop="20260429093000 +0000">
+    <title lang="id">Celebrity Fresh</title>
+    <desc lang="id">Program infotainment berdurasi 60 menit yang dipandu oleh dua host, menampilkan beragam informasi seputar selebriti tanah air, serta trend terkini yang terjadi di kalangan selebriti</desc>
+    <icon src="https://thumbor.prod.vidiocdn.com/jI9paWVBn_95F0l05oSMORf2wPw=/287x162/filters:strip_icc():quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/image/7432/nusantara-tv-b373d0.jpg"/>
+  </programme>
+  <programme channel="7432" start="20260429093000 +0000" stop="20260429100000 +0000">
+    <title lang="id">NTV Crime</title>
+    <desc lang="id">Investigatif, membuka tabir tersembunyi berdasar fakta</desc>
+    <icon src="https://thumbor.prod.vidiocdn.com/jI9paWVBn_95F0l05oSMORf2wPw=/287x162/filters:strip_icc():quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/image/7432/nusantara-tv-b373d0.jpg"/>
+  </programme>
+  <programme channel="7432" start="20260429100000 +0000" stop="20260429120000 +0000">
+    <title lang="id">NTV Prime</title>
+    <desc lang="id">Program News Bulletin yang tayang setiap hari, menyajikan berita terpopuler dan dialog eksklusif dengan narasumber</desc>
+    <icon src="https://thumbor.prod.vidiocdn.com/jI9paWVBn_95F0l05oSMORf2wPw=/287x162/filters:strip_icc():quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/image/7432/nusantara-tv-b373d0.jpg"/>
+  </programme>
+  <programme channel="7432" start="20260429120000 +0000" stop="20260429130000 +0000">
+    <title lang="id">NTV Toplines</title>
+    <desc lang="id">Sorotan berita ekslusif yang terjadi sepanjang hari</desc>
+    <icon src="https://thumbor.prod.vidiocdn.com/jI9paWVBn_95F0l05oSMORf2wPw=/287x162/filters:strip_icc():quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/image/7432/nusantara-tv-b373d0.jpg"/>
+  </programme>
+  <programme channel="7432" start="20260429130000 +0000" stop="20260429140000 +0000">
+    <title lang="id">Merah Putih</title>
+    <desc lang="id">Mengupas tuntas Asta Cita Presiden Prabowo dan langkah nyata Kabinet Merah Putih untuk merealisasikannya</desc>
+    <icon src="https://thumbor.prod.vidiocdn.com/jI9paWVBn_95F0l05oSMORf2wPw=/287x162/filters:strip_icc():quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/image/7432/nusantara-tv-b373d0.jpg"/>
+  </programme>
+  <programme channel="7432" start="20260429140000 +0000" stop="20260429150000 +0000">
+    <title lang="id">NTV Sport</title>
+    <desc lang="id">Sportainment terkini dan menginspirasi</desc>
+    <icon src="https://thumbor.prod.vidiocdn.com/jI9paWVBn_95F0l05oSMORf2wPw=/287x162/filters:strip_icc():quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/image/7432/nusantara-tv-b373d0.jpg"/>
+  </programme>
+  <programme channel="7432" start="20260429150000 +0000" stop="20260429160000 +0000">
+    <title lang="id">NTV Tonight</title>
+    <desc lang="id">Program berita malam yang menyajikan informasi terkini dan peristiwa penting secara mendalam dan aktual</desc>
+    <icon src="https://thumbor.prod.vidiocdn.com/jI9paWVBn_95F0l05oSMORf2wPw=/287x162/filters:strip_icc():quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/image/7432/nusantara-tv-b373d0.jpg"/>
+  </programme>
+  <programme channel="7432" start="20260429160000 +0000" stop="20260429163000 +0000">
+    <title lang="id">NTV Headlines</title>
+    <desc lang="id">Program berita cepat yang menyajikan rangkuman singkat, padat, dan informatif tentang peristiwa nasional maupun internasional terkini</desc>
+    <icon src="https://thumbor.prod.vidiocdn.com/jI9paWVBn_95F0l05oSMORf2wPw=/287x162/filters:strip_icc():quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/image/7432/nusantara-tv-b373d0.jpg"/>
+  </programme>
+  <programme channel="7432" start="20260429163000 +0000" stop="20260429170000 +0000">
+    <title lang="id">Checkpoint</title>
+    <desc lang="id">Program berita mendalam yang menelusuri fakta, memberikan penjelasan latar belakang, serta update lanjutan dari sebuah isu yang sedang berkembang</desc>
     <icon src="https://thumbor.prod.vidiocdn.com/jI9paWVBn_95F0l05oSMORf2wPw=/287x162/filters:strip_icc():quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/image/7432/nusantara-tv-b373d0.jpg"/>
   </programme>
   <programme channel="9713" start="20260422160000 +0000" stop="20260422170000 +0000">

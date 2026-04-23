@@ -2575,7 +2575,7 @@
 <programme start="20260423093000 +0000" stop="20260423094500 +0000" channel="Sky Sport Bundesliga HD.skyde">
     <title>2. BL: Dein Spieltags-Sprint (30)</title>
 </programme>
-<programme start="20260423094500 +0000" stop="20260423100000 +0000" channel="Sky Sport Bundesliga HD.skyde">
+<programme start="20260423094500 +0000" stop="20260423100500 +0000" channel="Sky Sport Bundesliga HD.skyde">
     <title>Sky Sport News: Pionierin in Europa - Marie-Louise Eta Exklusiv</title>
 </programme>
 <programme start="20260423100000 +0000" stop="20260423120000 +0000" channel="Sky Sport Bundesliga HD.skyde">

@@ -14216,8 +14216,8 @@
     <episode-num system="onscreen">S4E3</episode-num>
   </programme>
   <programme start="20260423044000 +0000" stop="20260423052500 +0000" channel="abcaustralia.unifitv">
-    <title lang="en">Foreign Correspondent</title>
-    <desc lang="en">As world news continues to dominate our headlines, Foreign Correspondent continues to bring you an action-packed season of stories reflecting the times in which we live.</desc>
+    <title lang="en">Foreign Correspondent - Cartel Paradise - Fiji</title>
+    <desc lang="en">Fiji is ground zero in the Pacific's drug crisis. Huge quantities of methamphetamine and cocaine are being trafficked through Fiji and on to Australia, fuelling a wave of addiction and corruption in the Fijian community.</desc>
     <category lang="en">Current Affairs</category>
     <episode-num system="xmltv_ns">2025.7.</episode-num>
     <episode-num system="onscreen">S2026E8</episode-num>
@@ -14300,7 +14300,7 @@
     <episode-num system="onscreen">S2026E48</episode-num>
   </programme>
   <programme start="20260423143500 +0000" stop="20260423150500 +0000" channel="abcaustralia.unifitv">
-    <title lang="en">7.30</title>
+    <title lang="en">7.3</title>
     <desc lang="en">Sarah Ferguson presents Australia's premier daily current affairs program, delivering agenda-setting public affairs journalism and interviews that hold the powerful to account. Plus political analysis from Jacob Greber.</desc>
     <category lang="en">Current Affairs</category>
     <episode-num system="xmltv_ns">2025.63.</episode-num>
@@ -15266,7 +15266,7 @@
     <category lang="en">Sports</category>
   </programme>
   <programme start="20260423140000 +0000" stop="20260423195500 +0000" channel="unifisports1.unifitv">
-    <title lang="en">UFC Fight Night: Burns vs. Malott - Prelims</title>
+    <title lang="en">UFC Fight Night: Adesanya vs. Pyfer</title>
     <desc lang="en">On Saturday, April 19, UFC returns to Canada Life Centre in Winnipeg, Manitoba, Canada for the first time in nearly a decade with a fight card headlined by one of the country’s top contenders as Gilbert “Durinho” Burns takes on “Proper” Mike Malott.</desc>
     <category lang="en">Sports</category>
   </programme>
