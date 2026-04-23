@@ -631,9 +631,6 @@
 <programme start="20260423003000 +0000" stop="20260423023000 +0000" channel="ANTV.vision">
 <title>Janji Inspektur Virat</title>
 </programme>
-<programme start="20260423023000 +0000" stop="20260423060000 +0000" channel="ANTV.vision">
-<title>Dil Ka Rishta</title>
-</programme>
 <programme start="20260423060000 +0000" stop="20260423080000 +0000" channel="ANTV.vision">
 <title>Jhanak</title>
 </programme>
@@ -1496,5 +1493,8 @@
 <title>TVRI</title>
 </programme>
 <programme start="20260424050000 +0000" stop="20260424070000 +0000" channel="TVRI.vision">
+<title>TVRI</title>
+</programme>
+<programme start="20260424070000 +0000" stop="20260424090000 +0000" channel="TVRI.vision">
 <title>TVRI</title>
 </programme>

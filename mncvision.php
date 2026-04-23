@@ -1219,37 +1219,34 @@
 <programme start="20260423061000 +0000" stop="20260423080000 +0000" channel="beIN Sports 2.mncvision">
     <title>UCI World Tour 2026</title>
 </programme>
-<programme start="20260423080000 +0000" stop="20260423090000 +0000" channel="beIN Sports 2.mncvision">
-    <title>HSBC SVNS World C&#039;ships HL 2026</title>
-</programme>
-<programme start="20260423090000 +0000" stop="20260423103000 +0000" channel="beIN Sports 2.mncvision">
+<programme start="20260423080000 +0000" stop="20260423093000 +0000" channel="beIN Sports 2.mncvision">
     <title>Premier Padel &#039;26: Brussels (L)</title>
 </programme>
-<programme start="20260423103000 +0000" stop="20260423120000 +0000" channel="beIN Sports 2.mncvision">
+<programme start="20260423093000 +0000" stop="20260423110000 +0000" channel="beIN Sports 2.mncvision">
     <title>Premier Padel &#039;26: Brussels (L)</title>
 </programme>
-<programme start="20260423120000 +0000" stop="20260423133000 +0000" channel="beIN Sports 2.mncvision">
+<programme start="20260423110000 +0000" stop="20260423123000 +0000" channel="beIN Sports 2.mncvision">
     <title>Premier Padel &#039;26: Brussels (L)</title>
 </programme>
-<programme start="20260423133000 +0000" stop="20260423135500 +0000" channel="beIN Sports 2.mncvision">
+<programme start="20260423123000 +0000" stop="20260423125500 +0000" channel="beIN Sports 2.mncvision">
     <title>HSBC SVNS World C&#039;ships 2026</title>
 </programme>
-<programme start="20260423135500 +0000" stop="20260423142000 +0000" channel="beIN Sports 2.mncvision">
+<programme start="20260423125500 +0000" stop="20260423132000 +0000" channel="beIN Sports 2.mncvision">
     <title>HSBC SVNS World C&#039;ships 2026</title>
 </programme>
-<programme start="20260423142000 +0000" stop="20260423144500 +0000" channel="beIN Sports 2.mncvision">
+<programme start="20260423132000 +0000" stop="20260423134500 +0000" channel="beIN Sports 2.mncvision">
     <title>HSBC SVNS World C&#039;ships 2026</title>
 </programme>
-<programme start="20260423144500 +0000" stop="20260423151000 +0000" channel="beIN Sports 2.mncvision">
+<programme start="20260423134500 +0000" stop="20260423141000 +0000" channel="beIN Sports 2.mncvision">
     <title>HSBC SVNS World C&#039;ships 2026</title>
 </programme>
-<programme start="20260423151000 +0000" stop="20260423153500 +0000" channel="beIN Sports 2.mncvision">
+<programme start="20260423141000 +0000" stop="20260423143500 +0000" channel="beIN Sports 2.mncvision">
     <title>HSBC SVNS World C&#039;ships 2026</title>
 </programme>
-<programme start="20260423153500 +0000" stop="20260423160000 +0000" channel="beIN Sports 2.mncvision">
+<programme start="20260423143500 +0000" stop="20260423150000 +0000" channel="beIN Sports 2.mncvision">
     <title>HSBC SVNS World C&#039;ships 2026</title>
 </programme>
-<programme start="20260423160000 +0000" stop="20260423163000 +0000" channel="beIN Sports 2.mncvision">
+<programme start="20260423150000 +0000" stop="20260423153000 +0000" channel="beIN Sports 2.mncvision">
     <title>Premier Padel &#039;26: Brussels (L)</title>
 </programme>
 <programme start="20260422173000 +0000" stop="20260422190000 +0000" channel="beIN Sports 2 HD.mncvision">
@@ -1285,37 +1282,34 @@
 <programme start="20260423061000 +0000" stop="20260423080000 +0000" channel="beIN Sports 2 HD.mncvision">
     <title>UCI World Tour 2026</title>
 </programme>
-<programme start="20260423080000 +0000" stop="20260423090000 +0000" channel="beIN Sports 2 HD.mncvision">
-    <title>HSBC SVNS World C&#039;ships HL 2026</title>
-</programme>
-<programme start="20260423090000 +0000" stop="20260423103000 +0000" channel="beIN Sports 2 HD.mncvision">
+<programme start="20260423080000 +0000" stop="20260423093000 +0000" channel="beIN Sports 2 HD.mncvision">
     <title>Premier Padel &#039;26: Brussels (L)</title>
 </programme>
-<programme start="20260423103000 +0000" stop="20260423120000 +0000" channel="beIN Sports 2 HD.mncvision">
+<programme start="20260423093000 +0000" stop="20260423110000 +0000" channel="beIN Sports 2 HD.mncvision">
     <title>Premier Padel &#039;26: Brussels (L)</title>
 </programme>
-<programme start="20260423120000 +0000" stop="20260423133000 +0000" channel="beIN Sports 2 HD.mncvision">
+<programme start="20260423110000 +0000" stop="20260423123000 +0000" channel="beIN Sports 2 HD.mncvision">
     <title>Premier Padel &#039;26: Brussels (L)</title>
 </programme>
-<programme start="20260423133000 +0000" stop="20260423135500 +0000" channel="beIN Sports 2 HD.mncvision">
+<programme start="20260423123000 +0000" stop="20260423125500 +0000" channel="beIN Sports 2 HD.mncvision">
     <title>HSBC SVNS World C&#039;ships 2026</title>
 </programme>
-<programme start="20260423135500 +0000" stop="20260423142000 +0000" channel="beIN Sports 2 HD.mncvision">
+<programme start="20260423125500 +0000" stop="20260423132000 +0000" channel="beIN Sports 2 HD.mncvision">
     <title>HSBC SVNS World C&#039;ships 2026</title>
 </programme>
-<programme start="20260423142000 +0000" stop="20260423144500 +0000" channel="beIN Sports 2 HD.mncvision">
+<programme start="20260423132000 +0000" stop="20260423134500 +0000" channel="beIN Sports 2 HD.mncvision">
     <title>HSBC SVNS World C&#039;ships 2026</title>
 </programme>
-<programme start="20260423144500 +0000" stop="20260423151000 +0000" channel="beIN Sports 2 HD.mncvision">
+<programme start="20260423134500 +0000" stop="20260423141000 +0000" channel="beIN Sports 2 HD.mncvision">
     <title>HSBC SVNS World C&#039;ships 2026</title>
 </programme>
-<programme start="20260423151000 +0000" stop="20260423153500 +0000" channel="beIN Sports 2 HD.mncvision">
+<programme start="20260423141000 +0000" stop="20260423143500 +0000" channel="beIN Sports 2 HD.mncvision">
     <title>HSBC SVNS World C&#039;ships 2026</title>
 </programme>
-<programme start="20260423153500 +0000" stop="20260423160000 +0000" channel="beIN Sports 2 HD.mncvision">
+<programme start="20260423143500 +0000" stop="20260423150000 +0000" channel="beIN Sports 2 HD.mncvision">
     <title>HSBC SVNS World C&#039;ships 2026</title>
 </programme>
-<programme start="20260423160000 +0000" stop="20260423163000 +0000" channel="beIN Sports 2 HD.mncvision">
+<programme start="20260423150000 +0000" stop="20260423153000 +0000" channel="beIN Sports 2 HD.mncvision">
     <title>Premier Padel &#039;26: Brussels (L)</title>
 </programme>
 <programme start="20260422175500 +0000" stop="20260422200000 +0000" channel="beIN Sports 3.mncvision">
@@ -8929,56 +8923,128 @@
 <programme start="20260423163000 +0000" stop="20260422170000 +0000" channel="Tawaf TV.mncvision">
     <title>DMI TV</title>
 </programme>
-<programme start="20260422180500 +0000" stop="20260422194500 +0000" channel="Thrill.mncvision">
+<programme start="20260422171500 +0000" stop="20260422174500 +0000" channel="Thrill.mncvision">
+    <title>Redaksi Malam</title>
+</programme>
+<programme start="20260422174500 +0000" stop="20260422180500 +0000" channel="Thrill.mncvision">
+    <title>Sport7</title>
+</programme>
+<programme start="20260422180500 +0000" stop="20260422183000 +0000" channel="Thrill.mncvision">
     <title>She Is In Danger</title>
 </programme>
-<programme start="20260422194500 +0000" stop="20260422210000 +0000" channel="Thrill.mncvision">
+<programme start="20260422183000 +0000" stop="20260422193000 +0000" channel="Thrill.mncvision">
+    <title>Enaknya Mantul</title>
+</programme>
+<programme start="20260422193000 +0000" stop="20260422194500 +0000" channel="Thrill.mncvision">
+    <title>Lebih Segerr</title>
+</programme>
+<programme start="20260422194500 +0000" stop="20260422200000 +0000" channel="Thrill.mncvision">
     <title>The Ones You Didn&#039;t Burn</title>
 </programme>
-<programme start="20260422210000 +0000" stop="20260422215500 +0000" channel="Thrill.mncvision">
+<programme start="20260422200000 +0000" stop="20260422210000 +0000" channel="Thrill.mncvision">
+    <title>Dracin</title>
+</programme>
+<programme start="20260422210000 +0000" stop="20260422214500 +0000" channel="Thrill.mncvision">
     <title>3AM, Ep 2</title>
 </programme>
-<programme start="20260422215500 +0000" stop="20260422232000 +0000" channel="Thrill.mncvision">
+<programme start="20260422214500 +0000" stop="20260422215500 +0000" channel="Thrill.mncvision">
+    <title>Jejak Al Qur&#039;an</title>
+</programme>
+<programme start="20260422215500 +0000" stop="20260422223000 +0000" channel="Thrill.mncvision">
     <title>Detrimental</title>
 </programme>
-<programme start="20260422232000 +0000" stop="20260423003500 +0000" channel="Thrill.mncvision">
+<programme start="20260422223000 +0000" stop="20260422232000 +0000" channel="Thrill.mncvision">
+    <title>Redaksi Pagi</title>
+</programme>
+<programme start="20260422232000 +0000" stop="20260422233000 +0000" channel="Thrill.mncvision">
     <title>Night At The Eagle Inn</title>
 </programme>
-<programme start="20260423003500 +0000" stop="20260423020500 +0000" channel="Thrill.mncvision">
+<programme start="20260422233000 +0000" stop="20260423003000 +0000" channel="Thrill.mncvision">
+    <title>Spotlite</title>
+</programme>
+<programme start="20260423003000 +0000" stop="20260423003500 +0000" channel="Thrill.mncvision">
+    <title>Selebrita Pagi</title>
+</programme>
+<programme start="20260423003500 +0000" stop="20260423013000 +0000" channel="Thrill.mncvision">
     <title>Room For Rent</title>
 </programme>
-<programme start="20260423020500 +0000" stop="20260423034500 +0000" channel="Thrill.mncvision">
+<programme start="20260423013000 +0000" stop="20260423020500 +0000" channel="Thrill.mncvision">
+    <title>FYP (For Your Pagi)</title>
+</programme>
+<programme start="20260423020500 +0000" stop="20260423023000 +0000" channel="Thrill.mncvision">
     <title>She Is In Danger</title>
 </programme>
-<programme start="20260423034500 +0000" stop="20260423050000 +0000" channel="Thrill.mncvision">
+<programme start="20260423023000 +0000" stop="20260423031500 +0000" channel="Thrill.mncvision">
+    <title>Selebrita Heits</title>
+</programme>
+<programme start="20260423031500 +0000" stop="20260423034500 +0000" channel="Thrill.mncvision">
+    <title>Big-Bang!</title>
+</programme>
+<programme start="20260423034500 +0000" stop="20260423041500 +0000" channel="Thrill.mncvision">
     <title>The Ones You Didn&#039;t Burn</title>
 </programme>
-<programme start="20260423050000 +0000" stop="20260423055500 +0000" channel="Thrill.mncvision">
+<programme start="20260423041500 +0000" stop="20260423050000 +0000" channel="Thrill.mncvision">
+    <title>Enah Bikin Enak</title>
+</programme>
+<programme start="20260423050000 +0000" stop="20260423054500 +0000" channel="Thrill.mncvision">
     <title>3AM, Ep 2</title>
 </programme>
-<programme start="20260423055500 +0000" stop="20260423072000 +0000" channel="Thrill.mncvision">
+<programme start="20260423054500 +0000" stop="20260423055500 +0000" channel="Thrill.mncvision">
+    <title>Bocah Petualang</title>
+</programme>
+<programme start="20260423055500 +0000" stop="20260423063000 +0000" channel="Thrill.mncvision">
     <title>Detrimental</title>
 </programme>
-<programme start="20260423072000 +0000" stop="20260423083500 +0000" channel="Thrill.mncvision">
+<programme start="20260423063000 +0000" stop="20260423071500 +0000" channel="Thrill.mncvision">
+    <title>Kepo</title>
+</programme>
+<programme start="20260423071500 +0000" stop="20260423072000 +0000" channel="Thrill.mncvision">
+    <title>Redaksi</title>
+</programme>
+<programme start="20260423072000 +0000" stop="20260423080000 +0000" channel="Thrill.mncvision">
     <title>Night At The Eagle Inn</title>
 </programme>
-<programme start="20260423083500 +0000" stop="20260423100500 +0000" channel="Thrill.mncvision">
+<programme start="20260423080000 +0000" stop="20260423083500 +0000" channel="Thrill.mncvision">
+    <title>BTS</title>
+</programme>
+<programme start="20260423083500 +0000" stop="20260423090000 +0000" channel="Thrill.mncvision">
     <title>Room For Rent</title>
 </programme>
-<programme start="20260423100500 +0000" stop="20260423114500 +0000" channel="Thrill.mncvision">
+<programme start="20260423090000 +0000" stop="20260423100000 +0000" channel="Thrill.mncvision">
+    <title>Makan Receh</title>
+</programme>
+<programme start="20260423100000 +0000" stop="20260423100500 +0000" channel="Thrill.mncvision">
+    <title>Selebrita Update</title>
+</programme>
+<programme start="20260423100500 +0000" stop="20260423110000 +0000" channel="Thrill.mncvision">
     <title>She Is In Danger</title>
 </programme>
-<programme start="20260423114500 +0000" stop="20260423130000 +0000" channel="Thrill.mncvision">
+<programme start="20260423110000 +0000" stop="20260423114500 +0000" channel="Thrill.mncvision">
+    <title>On The Spot</title>
+</programme>
+<programme start="20260423114500 +0000" stop="20260423121500 +0000" channel="Thrill.mncvision">
     <title>The Ones You Didn&#039;t Burn</title>
 </programme>
-<programme start="20260423130000 +0000" stop="20260423144500 +0000" channel="Thrill.mncvision">
+<programme start="20260423121500 +0000" stop="20260423130000 +0000" channel="Thrill.mncvision">
+    <title>POV (Pasti Obrolan Viral)</title>
+</programme>
+<programme start="20260423130000 +0000" stop="20260423143000 +0000" channel="Thrill.mncvision">
     <title>Apartment 212</title>
 </programme>
-<programme start="20260423144500 +0000" stop="20260423161500 +0000" channel="Thrill.mncvision">
+<programme start="20260423143000 +0000" stop="20260423144500 +0000" channel="Thrill.mncvision">
+    <title>Lapor Pak!</title>
+</programme>
+<programme start="20260423144500 +0000" stop="20260423154500 +0000" channel="Thrill.mncvision">
     <title>Painted Face</title>
 </programme>
-<programme start="20260423161500 +0000" stop="20260423164500 +0000" channel="Thrill.mncvision">
+<programme start="20260423154500 +0000" stop="20260423161500 +0000" channel="Thrill.mncvision">
+    <title>The Police</title>
+</programme>
+<programme start="20260423161500 +0000" stop="20260423163000 +0000" channel="Thrill.mncvision">
     <title>Hide &amp; Seek</title>
+</programme>
+<programme start="20260423163000 +0000" stop="20260422170000 +0000" channel="Thrill.mncvision">
+    <title>Misteri Dunia</title>
 </programme>
 <programme start="20260422171500 +0000" stop="20260422174500 +0000" channel="Trans 7.mncvision">
     <title>Redaksi Malam</title>
