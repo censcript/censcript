@@ -1246,7 +1246,10 @@
 <programme start="20260423143500 +0000" stop="20260423150000 +0000" channel="beIN Sports 2.mncvision">
     <title>HSBC SVNS World C&#039;ships 2026</title>
 </programme>
-<programme start="20260423150000 +0000" stop="20260423153000 +0000" channel="beIN Sports 2.mncvision">
+<programme start="20260423150000 +0000" stop="20260423163000 +0000" channel="beIN Sports 2.mncvision">
+    <title>Premier Padel &#039;26: Brussels (L)</title>
+</programme>
+<programme start="20260423163000 +0000" stop="20260422170000 +0000" channel="beIN Sports 2.mncvision">
     <title>Premier Padel &#039;26: Brussels (L)</title>
 </programme>
 <programme start="20260422173000 +0000" stop="20260422190000 +0000" channel="beIN Sports 2 HD.mncvision">
@@ -1309,7 +1312,10 @@
 <programme start="20260423143500 +0000" stop="20260423150000 +0000" channel="beIN Sports 2 HD.mncvision">
     <title>HSBC SVNS World C&#039;ships 2026</title>
 </programme>
-<programme start="20260423150000 +0000" stop="20260423153000 +0000" channel="beIN Sports 2 HD.mncvision">
+<programme start="20260423150000 +0000" stop="20260423163000 +0000" channel="beIN Sports 2 HD.mncvision">
+    <title>Premier Padel &#039;26: Brussels (L)</title>
+</programme>
+<programme start="20260423163000 +0000" stop="20260422170000 +0000" channel="beIN Sports 2 HD.mncvision">
     <title>Premier Padel &#039;26: Brussels (L)</title>
 </programme>
 <programme start="20260422175500 +0000" stop="20260422200000 +0000" channel="beIN Sports 3.mncvision">
@@ -7648,43 +7654,43 @@
 <programme start="20260422220000 +0000" stop="20260422230000 +0000" channel="SCTV.mncvision">
     <title>Liputan 6 Pagi (L)</title>
 </programme>
-<programme start="20260422230000 +0000" stop="20260423000000 +0000" channel="SCTV.mncvision">
+<programme start="20260422230000 +0000" stop="20260423000400 +0000" channel="SCTV.mncvision">
     <title>Halo Selebriti</title>
 </programme>
-<programme start="20260423000000 +0000" stop="20260423010000 +0000" channel="SCTV.mncvision">
+<programme start="20260423000400 +0000" stop="20260423010300 +0000" channel="SCTV.mncvision">
     <title>Tiba-Tiba Kuis</title>
 </programme>
-<programme start="20260423010000 +0000" stop="20260423030000 +0000" channel="SCTV.mncvision">
+<programme start="20260423010300 +0000" stop="20260423024900 +0000" channel="SCTV.mncvision">
     <title>Rebut Pacar Sahabat? Asiaaap!</title>
 </programme>
-<programme start="20260423030000 +0000" stop="20260423050000 +0000" channel="SCTV.mncvision">
+<programme start="20260423024900 +0000" stop="20260423044700 +0000" channel="SCTV.mncvision">
     <title>Kalau Sudah Jodoh Bergema...</title>
 </programme>
-<programme start="20260423050000 +0000" stop="20260423053000 +0000" channel="SCTV.mncvision">
+<programme start="20260423044700 +0000" stop="20260423052100 +0000" channel="SCTV.mncvision">
     <title>Liputan 6 Siang (L)</title>
 </programme>
-<programme start="20260423053000 +0000" stop="20260423070000 +0000" channel="SCTV.mncvision">
-    <title>Miss Duren Lupa Kulitnya</title>
+<programme start="20260423052100 +0000" stop="20260423065400 +0000" channel="SCTV.mncvision">
+    <title>Ketika Basreng Kepincut Cendol</title>
 </programme>
-<programme start="20260423070000 +0000" stop="20260423084500 +0000" channel="SCTV.mncvision">
+<programme start="20260423065400 +0000" stop="20260423082800 +0000" channel="SCTV.mncvision">
     <title>Jelaskan Cintamu Padaku...</title>
 </programme>
-<programme start="20260423084500 +0000" stop="20260423100000 +0000" channel="SCTV.mncvision">
-    <title>Bumbu Cinta Diracik Oleh Rasa...</title>
+<programme start="20260423082800 +0000" stop="20260423100000 +0000" channel="SCTV.mncvision">
+    <title>Miss Duren Lupa Kulitnya</title>
 </programme>
-<programme start="20260423100000 +0000" stop="20260423111500 +0000" channel="SCTV.mncvision">
+<programme start="20260423100000 +0000" stop="20260423112700 +0000" channel="SCTV.mncvision">
     <title>Asmara Gen Z</title>
 </programme>
-<programme start="20260423111500 +0000" stop="20260423130000 +0000" channel="SCTV.mncvision">
+<programme start="20260423112700 +0000" stop="20260423131100 +0000" channel="SCTV.mncvision">
     <title>Istiqomah Cinta</title>
 </programme>
-<programme start="20260423130000 +0000" stop="20260423143000 +0000" channel="SCTV.mncvision">
+<programme start="20260423131100 +0000" stop="20260423143500 +0000" channel="SCTV.mncvision">
     <title>Beri Cinta Waktu</title>
 </programme>
-<programme start="20260423143000 +0000" stop="20260423160000 +0000" channel="SCTV.mncvision">
+<programme start="20260423143500 +0000" stop="20260423160200 +0000" channel="SCTV.mncvision">
     <title>Jejak Duka Diandra</title>
 </programme>
-<programme start="20260423160000 +0000" stop="20260423163000 +0000" channel="SCTV.mncvision">
+<programme start="20260423160200 +0000" stop="20260423163200 +0000" channel="SCTV.mncvision">
     <title>Dilan 1990</title>
 </programme>
 <programme start="20260422174200 +0000" stop="20260422185700 +0000" channel="SCTV HD.mncvision">
@@ -7705,43 +7711,43 @@
 <programme start="20260422220000 +0000" stop="20260422230000 +0000" channel="SCTV HD.mncvision">
     <title>Liputan 6 Pagi (L)</title>
 </programme>
-<programme start="20260422230000 +0000" stop="20260423000000 +0000" channel="SCTV HD.mncvision">
+<programme start="20260422230000 +0000" stop="20260423000400 +0000" channel="SCTV HD.mncvision">
     <title>Halo Selebriti</title>
 </programme>
-<programme start="20260423000000 +0000" stop="20260423010000 +0000" channel="SCTV HD.mncvision">
+<programme start="20260423000400 +0000" stop="20260423010300 +0000" channel="SCTV HD.mncvision">
     <title>Tiba-Tiba Kuis</title>
 </programme>
-<programme start="20260423010000 +0000" stop="20260423030000 +0000" channel="SCTV HD.mncvision">
+<programme start="20260423010300 +0000" stop="20260423024900 +0000" channel="SCTV HD.mncvision">
     <title>Rebut Pacar Sahabat? Asiaaap!</title>
 </programme>
-<programme start="20260423030000 +0000" stop="20260423050000 +0000" channel="SCTV HD.mncvision">
+<programme start="20260423024900 +0000" stop="20260423044700 +0000" channel="SCTV HD.mncvision">
     <title>Kalau Sudah Jodoh Bergema...</title>
 </programme>
-<programme start="20260423050000 +0000" stop="20260423053000 +0000" channel="SCTV HD.mncvision">
+<programme start="20260423044700 +0000" stop="20260423052100 +0000" channel="SCTV HD.mncvision">
     <title>Liputan 6 Siang (L)</title>
 </programme>
-<programme start="20260423053000 +0000" stop="20260423070000 +0000" channel="SCTV HD.mncvision">
-    <title>Miss Duren Lupa Kulitnya</title>
+<programme start="20260423052100 +0000" stop="20260423065400 +0000" channel="SCTV HD.mncvision">
+    <title>Ketika Basreng Kepincut Cendol</title>
 </programme>
-<programme start="20260423070000 +0000" stop="20260423084500 +0000" channel="SCTV HD.mncvision">
+<programme start="20260423065400 +0000" stop="20260423082800 +0000" channel="SCTV HD.mncvision">
     <title>Jelaskan Cintamu Padaku...</title>
 </programme>
-<programme start="20260423084500 +0000" stop="20260423100000 +0000" channel="SCTV HD.mncvision">
-    <title>Bumbu Cinta Diracik Oleh Rasa...</title>
+<programme start="20260423082800 +0000" stop="20260423100000 +0000" channel="SCTV HD.mncvision">
+    <title>Miss Duren Lupa Kulitnya</title>
 </programme>
-<programme start="20260423100000 +0000" stop="20260423111500 +0000" channel="SCTV HD.mncvision">
+<programme start="20260423100000 +0000" stop="20260423112700 +0000" channel="SCTV HD.mncvision">
     <title>Asmara Gen Z</title>
 </programme>
-<programme start="20260423111500 +0000" stop="20260423130000 +0000" channel="SCTV HD.mncvision">
+<programme start="20260423112700 +0000" stop="20260423131100 +0000" channel="SCTV HD.mncvision">
     <title>Istiqomah Cinta</title>
 </programme>
-<programme start="20260423130000 +0000" stop="20260423143000 +0000" channel="SCTV HD.mncvision">
+<programme start="20260423131100 +0000" stop="20260423143500 +0000" channel="SCTV HD.mncvision">
     <title>Beri Cinta Waktu</title>
 </programme>
-<programme start="20260423143000 +0000" stop="20260423160000 +0000" channel="SCTV HD.mncvision">
+<programme start="20260423143500 +0000" stop="20260423160200 +0000" channel="SCTV HD.mncvision">
     <title>Jejak Duka Diandra</title>
 </programme>
-<programme start="20260423160000 +0000" stop="20260423163000 +0000" channel="SCTV HD.mncvision">
+<programme start="20260423160200 +0000" stop="20260423163200 +0000" channel="SCTV HD.mncvision">
     <title>Dilan 1990</title>
 </programme>
 <programme start="20260422170000 +0000" stop="20260422180000 +0000" channel="Sindo News TV.mncvision">

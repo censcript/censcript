@@ -2201,7 +2201,7 @@
         <title>Premier Padel 2026: Miami P1 Day 7 Final - Men</title>
     </programme>
     <programme start="20260423014000 +0000" stop="20260423034000 +0000" channel="beIN Sports 2 HD.starhub">
-        <title>Volta Ciclista A Catalunya - Stage 4</title>
+        <title>UCI World Tour 2026: Volta Ciclista A Catalunya - Stage 4</title>
     </programme>
     <programme start="20260423034000 +0000" stop="20260423041000 +0000" channel="beIN Sports 2 HD.starhub">
         <title>This Is Paris 2025/26</title>
@@ -2210,37 +2210,37 @@
         <title>PSG vs Lyon</title>
     </programme>
     <programme start="20260423061000 +0000" stop="20260423080000 +0000" channel="beIN Sports 2 HD.starhub">
-        <title>Volta Ciclista A Catalunya - Stage 5</title>
+        <title>UCI World Tour 2026: Volta Ciclista A Catalunya - Stage 5</title>
     </programme>
     <programme start="20260423080000 +0000" stop="20260423093000 +0000" channel="beIN Sports 2 HD.starhub">
-        <title>Brussels P2 Day 3 Match 1</title>
+        <title>Premier Padel 2026: Brussels P2 Day 3 Match 1 (Live)</title>
     </programme>
     <programme start="20260423093000 +0000" stop="20260423110000 +0000" channel="beIN Sports 2 HD.starhub">
-        <title>Brussels P2 Day 3 Match 2</title>
+        <title>Premier Padel 2026: Brussels P2 Day 3 Match 2 (Live)</title>
     </programme>
     <programme start="20260423110000 +0000" stop="20260423123000 +0000" channel="beIN Sports 2 HD.starhub">
-        <title>Brussels P2 Day 3 Match 3</title>
+        <title>Premier Padel 2026: Brussels P2 Day 3 Match 3 (Live)</title>
     </programme>
     <programme start="20260423123000 +0000" stop="20260423125500 +0000" channel="beIN Sports 2 HD.starhub">
-        <title>Fiji vs Argentina - Cup QF4, Hong Kong - Men</title>
+        <title>HSBC SVNS World C&#039;ships 2026: Fiji vs Argentina - Cup QF4, Hong Kong - Men</title>
     </programme>
     <programme start="20260423125500 +0000" stop="20260423132000 +0000" channel="beIN Sports 2 HD.starhub">
-        <title>Argentina vs South Africa - 11th Place Play-off, Hong Kong - Women</title>
+        <title>HSBC SVNS World C&#039;ships 2026: Argentina vs South Africa - 11th Place Play-off, H</title>
     </programme>
     <programme start="20260423132000 +0000" stop="20260423134500 +0000" channel="beIN Sports 2 HD.starhub">
-        <title>USA vs Germany - 11th Place Play-off, Hong Kong - Men</title>
+        <title>HSBC SVNS World C&#039;ships 2026: USA vs Germany - 11th Place Play-off, Hong Kong -</title>
     </programme>
     <programme start="20260423134500 +0000" stop="20260423141000 +0000" channel="beIN Sports 2 HD.starhub">
-        <title>Brazil vs Great Britain - 9th Place Play-off, Hong Kong - Women</title>
+        <title>HSBC SVNS World C&#039;ships 2026: Brazil vs Great Britain - 9th Place Play-off, Hong</title>
     </programme>
     <programme start="20260423141000 +0000" stop="20260423143500 +0000" channel="beIN Sports 2 HD.starhub">
-        <title>Great Britain vs Uruguay - 9th Place Play-off, Hong Kong - Men</title>
+        <title>HSBC SVNS World C&#039;ships 2026: Great Britain vs Uruguay - 9th Place Play-off, Hon</title>
     </programme>
     <programme start="20260423143500 +0000" stop="20260423150000 +0000" channel="beIN Sports 2 HD.starhub">
-        <title>Fiji vs Spain - 7th Place Play-off, Hong Kong - Women</title>
+        <title>HSBC SVNS World C&#039;ships 2026: Fiji vs Spain - 7th Place Play-off, Hong Kong - Wo</title>
     </programme>
     <programme start="20260423150000 +0000" stop="20260423163000 +0000" channel="beIN Sports 2 HD.starhub">
-        <title>Brussels P2 Day 3 Match 4</title>
+        <title>Premier Padel 2026: Brussels P2 Day 3 Match 4 (Live)</title>
     </programme>
     <programme start="20260422160000 +0000" stop="20260422170000 +0000" channel="TVB Xing He.starhub">
         <title>When a Man Loves a Woman</title>
@@ -3914,7 +3914,7 @@
         <title>Mini Program</title>
     </programme>
     <programme start="20260423022000 +0000" stop="20260423025000 +0000" channel="NHK World Premium HD.starhub">
-        <title>Sleepless Night Talk with the Singer AI (R)</title>
+        <title>Sleepless Night Talk with the Singer AI</title>
     </programme>
     <programme start="20260423025000 +0000" stop="20260423025500 +0000" channel="NHK World Premium HD.starhub">
         <title>Songs for Everyone</title>
@@ -3956,7 +3956,7 @@
         <title>Health for Today (R)</title>
     </programme>
     <programme start="20260423062500 +0000" stop="20260423064000 +0000" channel="NHK World Premium HD.starhub">
-        <title>Night Drama Serial &quot;Radio Star&quot; Ep. 15 (R)</title>
+        <title>Night Drama Serial &quot;Radio Star&quot; Ep. 14 (R)</title>
     </programme>
     <programme start="20260423064000 +0000" stop="20260423065000 +0000" channel="NHK World Premium HD.starhub">
         <title>Points at Issue</title>
@@ -3968,7 +3968,7 @@
         <title>SCIENCE ZERO (R)</title>
     </programme>
     <programme start="20260423074500 +0000" stop="20260423075000 +0000" channel="NHK World Premium HD.starhub">
-        <title>See, Learn, Explore--A Deep Travelogue in Tohoku (R)</title>
+        <title>The Great Nature 5min.</title>
     </programme>
     <programme start="20260423075000 +0000" stop="20260423082000 +0000" channel="NHK World Premium HD.starhub">
         <title>Fish Masters (R)</title>

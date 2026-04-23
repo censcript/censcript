@@ -7400,15 +7400,19 @@
     <desc lang="id">Kisah seorang inspektur yang terlibat dalam kisah percintaan segitiga.</desc>
     <icon src="https://thumbor.prod.vidiocdn.com/VMqJn9jawRecdbw5SSdxxTHN_88=/287x162/filters:strip_icc():quality(70)/vidio-media-production/uploads/tv_program/thumbnail/386704/218ebf.jpg"/>
   </programme>
-  <programme channel="782" start="20260423023000 +0000" stop="20260423060000 +0000">
+  <programme channel="782" start="20260423023000 +0000" stop="20260423054500 +0000">
     <title lang="id">Mega Bollywood: Dil Ka Rishta</title>
     <desc lang="id">Jai tanpa sengaja membunuh suami dari wanita yang dicintainya. Ketika wanita itu didiagnosis menderita amnesia, Jai menghiburnya dan wanita itu jatuh cinta padanya.</desc>
     <icon src="https://thumbor.prod.vidiocdn.com/brodpV3LEDM_9RT5HTXjj1qMV48=/287x162/filters:strip_icc():quality(70)/vidio-media-production/uploads/livestreaming/schedule/thumbnail/5022193/c1e1dd.jpg"/>
   </programme>
-  <programme channel="782" start="20260423060000 +0000" stop="20260423080000 +0000">
+  <programme channel="782" start="20260423054500 +0000" stop="20260423080000 +0000">
     <title lang="id">Jhanak</title>
     <desc lang="id">Seorang wanita muda yang bersemangat memulai perjalanan untuk memenuhi janji seorang ibu demi kehidupan yang lebih baik sambil mengatasi tantangan dan kehilangan.</desc>
     <icon src="https://thumbor.prod.vidiocdn.com/hUXSmui7pgdosWycD03kzlMUpWw=/287x162/filters:strip_icc():quality(70)/vidio-media-production/uploads/livestreaming/schedule/thumbnail/5022194/a598d4.jpg"/>
+  </programme>
+  <programme channel="782" start="20260423080000 +0000" stop="20260423090000 +0000">
+    <title lang="id">TERI DORIYAANN</title>
+    <icon src="https://thumbor.prod.vidiocdn.com/8bLVLiKa2VVsGFGtiFkvrIzHauk=/287x162/filters:strip_icc():quality(70)/vidio-media-production/uploads/livestreaming/schedule/thumbnail/5024518/05cf56.jpg"/>
   </programme>
   <programme channel="782" start="20260423090000 +0000" stop="20260423111500 +0000">
     <title lang="id">Vasudha</title>
@@ -7478,6 +7482,10 @@
     <title lang="id">Jhanak</title>
     <desc lang="id">Seorang wanita muda yang bersemangat memulai perjalanan untuk memenuhi janji seorang ibu demi kehidupan yang lebih baik sambil mengatasi tantangan dan kehilangan.</desc>
     <icon src="https://thumbor.prod.vidiocdn.com/QAXid5vfpKR0jc-41l1qWiSIvUg=/287x162/filters:strip_icc():quality(70)/vidio-media-production/uploads/livestreaming/schedule/thumbnail/5022195/60fcfd.jpg"/>
+  </programme>
+  <programme channel="782" start="20260424080000 +0000" stop="20260424090000 +0000">
+    <title lang="id">TERI DORIYAANN</title>
+    <icon src="https://thumbor.prod.vidiocdn.com/8S2_C9IGEIEKR-DlKGNabBvEwGo=/287x162/filters:strip_icc():quality(70)/vidio-media-production/uploads/livestreaming/schedule/thumbnail/5024519/527d78.jpg"/>
   </programme>
   <programme channel="782" start="20260424090000 +0000" stop="20260424111500 +0000">
     <title lang="id">Vasudha</title>

@@ -14332,7 +14332,7 @@
   </programme>
   <programme start="20260422163300 +0000" stop="20260422170300 +0000" channel="dw.unifitv">
     <title lang="en">Made in Germany</title>
-    <desc lang="en">Made in Germany</desc>
+    <desc lang="en">From livestock AI to textile waste, data center cooling, and solar powered Bitcoin mining: New technologies promise efficiency but reveal growing pressure on water, energy, and resources.</desc>
     <category lang="en">Magazine</category>
     <episode-num system="xmltv_ns">0.0.</episode-num>
     <episode-num system="onscreen">S1E1</episode-num>
@@ -14345,15 +14345,15 @@
     <episode-num system="onscreen">S1E1</episode-num>
   </programme>
   <programme start="20260422171800 +0000" stop="20260422173300 +0000" channel="dw.unifitv">
-    <title lang="en">Best of DW-online Content</title>
-    <desc lang="en">Best of DW-online Content</desc>
+    <title lang="en">Mapped Out</title>
+    <desc lang="en">Japan is shifting from passive defense to active deterrence vis a vis China over Taiwan. It's a gamble to assert itself in the Indo-Pacific and to reshape its relationship with the US, its longtime security guarantor.</desc>
     <category lang="en">Documentary</category>
     <episode-num system="xmltv_ns">0.0.</episode-num>
     <episode-num system="onscreen">S1E1</episode-num>
   </programme>
   <programme start="20260422173300 +0000" stop="20260422180300 +0000" channel="dw.unifitv">
     <title lang="en">Close up</title>
-    <desc lang="en">The weekly half-hour program delivers in-depth reporting on topical political issues and newsworthy events. Revealing the story behind the stories, "Close up" is informative, gripping and visually powerful.</desc>
+    <desc lang="en">A win for wildlife, a loss for humans. African nature reserves are restricting indigenous peoples' access to rivers and forests — and, in doing so, are endangering their very existence.</desc>
     <category lang="en">Documentary</category>
     <episode-num system="xmltv_ns">0.0.</episode-num>
     <episode-num system="onscreen">S1E1</episode-num>
@@ -14387,8 +14387,8 @@
     <episode-num system="onscreen">S1E1</episode-num>
   </programme>
   <programme start="20260422191800 +0000" stop="20260422193300 +0000" channel="dw.unifitv">
-    <title lang="en">Best of DW-online Content</title>
-    <desc lang="en">Best of DW-online Content</desc>
+    <title lang="en">Mapped Out</title>
+    <desc lang="en">Japan is shifting from passive defense to active deterrence vis a vis China over Taiwan. It's a gamble to assert itself in the Indo-Pacific and to reshape its relationship with the US, its longtime security guarantor.</desc>
     <category lang="en">Documentary</category>
     <episode-num system="xmltv_ns">0.0.</episode-num>
     <episode-num system="onscreen">S1E1</episode-num>
@@ -14414,14 +14414,14 @@
     <episode-num system="xmltv_ns">0.0.</episode-num>
     <episode-num system="onscreen">S1E1</episode-num>
   </programme>
-  <programme start="20260422210300 +0000" stop="20260422210600 +0000" channel="dw.unifitv">
+  <programme start="20260422210300 +0000" stop="20260422210500 +0000" channel="dw.unifitv">
     <title lang="en">DW News</title>
     <desc lang="en">DW News</desc>
     <category lang="en">News</category>
     <episode-num system="xmltv_ns">0.0.</episode-num>
     <episode-num system="onscreen">S1E1</episode-num>
   </programme>
-  <programme start="20260422210600 +0000" stop="20260422220300 +0000" channel="dw.unifitv">
+  <programme start="20260422210500 +0000" stop="20260422220300 +0000" channel="dw.unifitv">
     <title lang="en">DocFilm</title>
     <desc lang="en">Three young women from China are struggling to realize their dreams. While Chinese society is undergoing profound change, they are simultaneously feeling the social pressure to start a family and have children.</desc>
     <category lang="en">Documentary</category>
@@ -14444,7 +14444,7 @@
   </programme>
   <programme start="20260422223300 +0000" stop="20260422230300 +0000" channel="dw.unifitv">
     <title lang="en">Made in Germany</title>
-    <desc lang="en">Made in Germany</desc>
+    <desc lang="en">From livestock AI to textile waste, data center cooling, and solar powered Bitcoin mining: New technologies promise efficiency but reveal growing pressure on water, energy, and resources.</desc>
     <category lang="en">Magazine</category>
     <episode-num system="xmltv_ns">0.0.</episode-num>
     <episode-num system="onscreen">S1E1</episode-num>
@@ -14464,15 +14464,15 @@
     <episode-num system="onscreen">S1E1</episode-num>
   </programme>
   <programme start="20260422231800 +0000" stop="20260422233300 +0000" channel="dw.unifitv">
-    <title lang="en">Best of DW-online Content</title>
-    <desc lang="en">Best of DW-online Content</desc>
+    <title lang="en">Mapped Out</title>
+    <desc lang="en">Japan is shifting from passive defense to active deterrence vis a vis China over Taiwan. It's a gamble to assert itself in the Indo-Pacific and to reshape its relationship with the US, its longtime security guarantor.</desc>
     <category lang="en">Documentary</category>
     <episode-num system="xmltv_ns">0.0.</episode-num>
     <episode-num system="onscreen">S1E1</episode-num>
   </programme>
   <programme start="20260422233300 +0000" stop="20260423000300 +0000" channel="dw.unifitv">
     <title lang="en">Focus on Europe</title>
-    <desc lang="en">Focus on Europe</desc>
+    <desc lang="en">No rule of law, no free media, Orban loyalists everywhere — how quickly can change come? +++ The Baltic states fear a war with Russia.</desc>
     <category lang="en">Magazine</category>
     <episode-num system="xmltv_ns">0.1525.</episode-num>
     <episode-num system="onscreen">S1E1526</episode-num>
@@ -14493,7 +14493,7 @@
   </programme>
   <programme start="20260423003300 +0000" stop="20260423010300 +0000" channel="dw.unifitv">
     <title lang="en">Arts Unveiled</title>
-    <desc lang="en">Arts Unveiled</desc>
+    <desc lang="en">The 1980s may seem like the distant past. But some of the decade's historical and pop cultural events were so significant that their effects are still felt today. We go beyond nostalgia to reckon with their legacies.</desc>
     <category lang="en">Magazine</category>
     <episode-num system="xmltv_ns">0.0.</episode-num>
     <episode-num system="onscreen">S1E1</episode-num>
@@ -14535,7 +14535,7 @@
   </programme>
   <programme start="20260423023300 +0000" stop="20260423030300 +0000" channel="dw.unifitv">
     <title lang="en">Made in Germany</title>
-    <desc lang="en">Made in Germany</desc>
+    <desc lang="en">From livestock AI to textile waste, data center cooling, and solar powered Bitcoin mining: New technologies promise efficiency but reveal growing pressure on water, energy, and resources.</desc>
     <category lang="en">Magazine</category>
     <episode-num system="xmltv_ns">0.0.</episode-num>
     <episode-num system="onscreen">S1E1</episode-num>
@@ -14555,8 +14555,8 @@
     <episode-num system="onscreen">S1E1</episode-num>
   </programme>
   <programme start="20260423031800 +0000" stop="20260423033300 +0000" channel="dw.unifitv">
-    <title lang="en">Best of DW-online Content</title>
-    <desc lang="en">Best of DW-online Content</desc>
+    <title lang="en">Mapped Out</title>
+    <desc lang="en">Japan is shifting from passive defense to active deterrence vis a vis China over Taiwan. It's a gamble to assert itself in the Indo-Pacific and to reshape its relationship with the US, its longtime security guarantor.</desc>
     <category lang="en">Documentary</category>
     <episode-num system="xmltv_ns">0.0.</episode-num>
     <episode-num system="onscreen">S1E1</episode-num>
@@ -14605,7 +14605,7 @@
   </programme>
   <programme start="20260423053300 +0000" stop="20260423060300 +0000" channel="dw.unifitv">
     <title lang="en">Focus on Europe</title>
-    <desc lang="en">Focus on Europe</desc>
+    <desc lang="en">No rule of law, no free media, Orban loyalists everywhere — how quickly can change come? +++ The Baltic states fear a war with Russia.</desc>
     <category lang="en">Magazine</category>
     <episode-num system="xmltv_ns">0.0.</episode-num>
     <episode-num system="onscreen">S1E1</episode-num>
@@ -14625,8 +14625,8 @@
     <episode-num system="onscreen">S1E1</episode-num>
   </programme>
   <programme start="20260423061800 +0000" stop="20260423063300 +0000" channel="dw.unifitv">
-    <title lang="en">Best of DW-online Content</title>
-    <desc lang="en">Best of DW-online Content</desc>
+    <title lang="en">Mapped Out</title>
+    <desc lang="en">Japan is shifting from passive defense to active deterrence vis a vis China over Taiwan. It's a gamble to assert itself in the Indo-Pacific and to reshape its relationship with the US, its longtime security guarantor.</desc>
     <category lang="en">Documentary</category>
     <episode-num system="xmltv_ns">0.0.</episode-num>
     <episode-num system="onscreen">S1E1</episode-num>
@@ -14638,14 +14638,14 @@
     <episode-num system="xmltv_ns">0.0.</episode-num>
     <episode-num system="onscreen">S1E1</episode-num>
   </programme>
-  <programme start="20260423070300 +0000" stop="20260423070600 +0000" channel="dw.unifitv">
+  <programme start="20260423070300 +0000" stop="20260423070500 +0000" channel="dw.unifitv">
     <title lang="en">DW News</title>
     <desc lang="en">DW News</desc>
     <category lang="en">News</category>
     <episode-num system="xmltv_ns">0.0.</episode-num>
     <episode-num system="onscreen">S1E1</episode-num>
   </programme>
-  <programme start="20260423070600 +0000" stop="20260423080300 +0000" channel="dw.unifitv">
+  <programme start="20260423070500 +0000" stop="20260423080300 +0000" channel="dw.unifitv">
     <title lang="en">DocFilm</title>
     <desc lang="en">Three young women from China are struggling to realize their dreams. While Chinese society is undergoing profound change, they are simultaneously feeling the social pressure to start a family and have children.</desc>
     <category lang="en">Documentary</category>
@@ -14661,14 +14661,14 @@
   </programme>
   <programme start="20260423080500 +0000" stop="20260423083300 +0000" channel="dw.unifitv">
     <title lang="en">Made in Germany</title>
-    <desc lang="en">Made in Germany</desc>
+    <desc lang="en">From livestock AI to textile waste, data center cooling, and solar powered Bitcoin mining: New technologies promise efficiency but reveal growing pressure on water, energy, and resources.</desc>
     <category lang="en">Magazine</category>
     <episode-num system="xmltv_ns">0.0.</episode-num>
     <episode-num system="onscreen">S1E1</episode-num>
   </programme>
   <programme start="20260423083300 +0000" stop="20260423090300 +0000" channel="dw.unifitv">
     <title lang="en">Focus on Europe</title>
-    <desc lang="en">Focus on Europe</desc>
+    <desc lang="en">No rule of law, no free media, Orban loyalists everywhere — how quickly can change come? +++ The Baltic states fear a war with Russia.</desc>
     <category lang="en">Magazine</category>
     <episode-num system="xmltv_ns">0.0.</episode-num>
     <episode-num system="onscreen">S1E1</episode-num>
@@ -14738,19 +14738,19 @@
   </programme>
   <programme start="20260423113300 +0000" stop="20260423120300 +0000" channel="dw.unifitv">
     <title lang="en">Focus on Europe</title>
-    <desc lang="en">Focus on Europe</desc>
+    <desc lang="en">No rule of law, no free media, Orban loyalists everywhere — how quickly can change come? +++ The Baltic states fear a war with Russia.</desc>
     <category lang="en">Magazine</category>
     <episode-num system="xmltv_ns">0.0.</episode-num>
     <episode-num system="onscreen">S1E1</episode-num>
   </programme>
-  <programme start="20260423120300 +0000" stop="20260423120600 +0000" channel="dw.unifitv">
+  <programme start="20260423120300 +0000" stop="20260423120500 +0000" channel="dw.unifitv">
     <title lang="en">DW News</title>
     <desc lang="en">DW News</desc>
     <category lang="en">News</category>
     <episode-num system="xmltv_ns">0.0.</episode-num>
     <episode-num system="onscreen">S1E1</episode-num>
   </programme>
-  <programme start="20260423120600 +0000" stop="20260423130300 +0000" channel="dw.unifitv">
+  <programme start="20260423120500 +0000" stop="20260423130300 +0000" channel="dw.unifitv">
     <title lang="en">DocFilm</title>
     <desc lang="en">Three young women from China are struggling to realize their dreams. While Chinese society is undergoing profound change, they are simultaneously feeling the social pressure to start a family and have children.</desc>
     <category lang="en">Documentary</category>
@@ -14772,8 +14772,8 @@
     <episode-num system="onscreen">S1E1</episode-num>
   </programme>
   <programme start="20260423131800 +0000" stop="20260423133300 +0000" channel="dw.unifitv">
-    <title lang="en">Best of DW-online Content</title>
-    <desc lang="en">Best of DW-online Content</desc>
+    <title lang="en">Business Beyond</title>
+    <desc lang="en">Low-cost carrier IndiGo dominates Indian skies. But when revised pilot rest rules took effect in late 2025, planning failures left nearly a million passengers stranded, exposing risks in a near-monopoly aviation market.</desc>
     <category lang="en">Documentary</category>
     <episode-num system="xmltv_ns">0.0.</episode-num>
     <episode-num system="onscreen">S1E1</episode-num>
