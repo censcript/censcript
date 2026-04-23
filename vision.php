@@ -622,9 +622,6 @@
 <programme start="20260423090000 +0000" stop="20260423110000 +0000" channel="ANTV.vision">
 <title>Vasudha</title>
 </programme>
-<programme start="20260423143000 +0000" stop="20260423163000 +0000" channel="ANTV.vision">
-<title>Jeritan Malam</title>
-</programme>
 <programme start="20260423163000 +0000" stop="20260423183000 +0000" channel="ANTV.vision">
 <title>The Seventh Curse</title>
 </programme>
@@ -1496,5 +1493,8 @@
 <title>JTV</title>
 </programme>
 <programme start="20260423120000 +0000" stop="20260423140000 +0000" channel="JTV.vision">
+<title>JTV</title>
+</programme>
+<programme start="20260423140000 +0000" stop="20260423160000 +0000" channel="JTV.vision">
 <title>JTV</title>
 </programme>
