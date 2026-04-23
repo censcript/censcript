@@ -2075,22 +2075,28 @@
         <title>Non Stop Hits</title>
     </programme>
     <programme start="20260422160000 +0000" stop="20260422170000 +0000" channel="CNN HD.starhub">
-        <title>One World (60m)</title>
+        <title>One World</title>
     </programme>
     <programme start="20260422170000 +0000" stop="20260422180000 +0000" channel="CNN HD.starhub">
         <title>Amanpour</title>
     </programme>
     <programme start="20260422180000 +0000" stop="20260422190000 +0000" channel="CNN HD.starhub">
-        <title>Isa Soares Tonight (60m)</title>
+        <title>Isa Soares Tonight</title>
     </programme>
     <programme start="20260422190000 +0000" stop="20260422200000 +0000" channel="CNN HD.starhub">
         <title>What We Know with Max Foster</title>
     </programme>
-    <programme start="20260422200000 +0000" stop="20260422213000 +0000" channel="CNN HD.starhub">
-        <title>Quest Means Business (45m)</title>
+    <programme start="20260422200000 +0000" stop="20260422204500 +0000" channel="CNN HD.starhub">
+        <title>Quest Means Business</title>
+    </programme>
+    <programme start="20260422204500 +0000" stop="20260422210000 +0000" channel="CNN HD.starhub">
+        <title>Silicon Valhalla</title>
+    </programme>
+    <programme start="20260422210000 +0000" stop="20260422213000 +0000" channel="CNN HD.starhub">
+        <title>The Lead with Jake Tapper</title>
     </programme>
     <programme start="20260422213000 +0000" stop="20260422220000 +0000" channel="CNN HD.starhub">
-        <title>World Sport (30m)</title>
+        <title>World Sport</title>
     </programme>
     <programme start="20260422220000 +0000" stop="20260422230000 +0000" channel="CNN HD.starhub">
         <title>The Brief with Jim Sciutto</title>
@@ -2110,41 +2116,56 @@
     <programme start="20260423030000 +0000" stop="20260423040000 +0000" channel="CNN HD.starhub">
         <title>Laura Coates Live</title>
     </programme>
-    <programme start="20260423040000 +0000" stop="20260423060000 +0000" channel="CNN HD.starhub">
+    <programme start="20260423040000 +0000" stop="20260423050000 +0000" channel="CNN HD.starhub">
         <title>The Story Is With Elex Michaelson</title>
     </programme>
-    <programme start="20260423060000 +0000" stop="20260423070000 +0000" channel="CNN HD.starhub">
-        <title>CNN Newsroom (CNNI) (60m)</title>
+    <programme start="20260423050000 +0000" stop="20260423054500 +0000" channel="CNN HD.starhub">
+        <title>The Story Is With Elex Michaelson</title>
     </programme>
-    <programme start="20260423070000 +0000" stop="20260423080000 +0000" channel="CNN HD.starhub">
-        <title>CNN Newsroom (CNNI) (45m)</title>
+    <programme start="20260423054500 +0000" stop="20260423060000 +0000" channel="CNN HD.starhub">
+        <title>World Sport</title>
+    </programme>
+    <programme start="20260423060000 +0000" stop="20260423070000 +0000" channel="CNN HD.starhub">
+        <title>CNN Newsroom</title>
+    </programme>
+    <programme start="20260423070000 +0000" stop="20260423074500 +0000" channel="CNN HD.starhub">
+        <title>CNN Newsroom</title>
+    </programme>
+    <programme start="20260423074500 +0000" stop="20260423080000 +0000" channel="CNN HD.starhub">
+        <title>World Sport</title>
     </programme>
     <programme start="20260423080000 +0000" stop="20260423090000 +0000" channel="CNN HD.starhub">
         <title>Amanpour</title>
     </programme>
     <programme start="20260423090000 +0000" stop="20260423100000 +0000" channel="CNN HD.starhub">
-        <title>Early Start with Rahel Solomon</title>
+        <title>Early Start</title>
     </programme>
     <programme start="20260423100000 +0000" stop="20260423110000 +0000" channel="CNN HD.starhub">
         <title>CNN This Morning</title>
     </programme>
-    <programme start="20260423110000 +0000" stop="20260423123000 +0000" channel="CNN HD.starhub">
+    <programme start="20260423110000 +0000" stop="20260423120000 +0000" channel="CNN HD.starhub">
+        <title>CNN News Central</title>
+    </programme>
+    <programme start="20260423120000 +0000" stop="20260423123000 +0000" channel="CNN HD.starhub">
         <title>CNN News Central</title>
     </programme>
     <programme start="20260423123000 +0000" stop="20260423130000 +0000" channel="CNN HD.starhub">
-        <title>World Sport (30m)</title>
+        <title>World Sport</title>
     </programme>
     <programme start="20260423130000 +0000" stop="20260423134500 +0000" channel="CNN HD.starhub">
-        <title>Connect the World (45m)</title>
+        <title>Connect the World</title>
     </programme>
     <programme start="20260423134500 +0000" stop="20260423140000 +0000" channel="CNN HD.starhub">
-        <title>World Sport (15m)</title>
+        <title>World Sport</title>
     </programme>
     <programme start="20260423140000 +0000" stop="20260423150000 +0000" channel="CNN HD.starhub">
-        <title>Connect the World (60m)</title>
+        <title>Connect the World</title>
     </programme>
-    <programme start="20260423150000 +0000" stop="20260423160000 +0000" channel="CNN HD.starhub">
-        <title>One World (30m)</title>
+    <programme start="20260423150000 +0000" stop="20260423153000 +0000" channel="CNN HD.starhub">
+        <title>One World</title>
+    </programme>
+    <programme start="20260423153000 +0000" stop="20260423160000 +0000" channel="CNN HD.starhub">
+        <title>CNN Creators</title>
     </programme>
     <programme start="20260422133000 +0000" stop="20260422170000 +0000" channel="KTV HD.starhub">
         <title>Movie - Chokka Thangam</title>
