@@ -2413,19 +2413,13 @@
     <programme start="20260424080000 +0000" stop="20260424090000 +0000" channel="Hub Sports 2 HD.starhub">
         <title>Semi Finals</title>
     </programme>
-    <programme start="20260424090000 +0000" stop="20260424110000 +0000" channel="Hub Sports 2 HD.starhub">
+    <programme start="20260424090000 +0000" stop="20260424111100 +0000" channel="Hub Sports 2 HD.starhub">
         <title>Mutua Madrid Open (1000) Day 3 R2 Session 1</title>
     </programme>
-    <programme start="20260424110000 +0000" stop="20260424130000 +0000" channel="Hub Sports 2 HD.starhub">
+    <programme start="20260424111100 +0000" stop="20260424142600 +0000" channel="Hub Sports 2 HD.starhub">
         <title>Mutua Madrid Open (1000) Day 3 R2 Session 2</title>
     </programme>
-    <programme start="20260424130000 +0000" stop="20260424133000 +0000" channel="Hub Sports 2 HD.starhub">
-        <title>Hail Baja Rally Final Highlights</title>
-    </programme>
-    <programme start="20260424133000 +0000" stop="20260424140000 +0000" channel="Hub Sports 2 HD.starhub">
-        <title>#585</title>
-    </programme>
-    <programme start="20260424140000 +0000" stop="20260424160000 +0000" channel="Hub Sports 2 HD.starhub">
+    <programme start="20260424142600 +0000" stop="20260424160000 +0000" channel="Hub Sports 2 HD.starhub">
         <title>Mutua Madrid Open (1000) Day 3 R2 Session 3</title>
     </programme>
     <programme start="20260423141500 +0000" stop="20260423161500 +0000" channel="The Filipino Channel HD.starhub">
@@ -5290,32 +5284,26 @@
     <programme start="20260424154000 +0000" stop="20260424165500 +0000" channel="KBS World HD.starhub">
         <title>Sweet Stranger and Me</title>
     </programme>
-    <programme start="20260423152000 +0000" stop="20260423161500 +0000" channel="TestChannel 996.starhub">
-        <title>Golden City (Ep 851-900) VVD Mandarin</title>
+    <programme start="20260423160000 +0000" stop="20260423170000 +0000" channel="TestChannel 996.starhub">
+        <title>Late Night Vision (Live)</title>
     </programme>
-    <programme start="20260423161500 +0000" stop="20260423173000 +0000" channel="TestChannel 996.starhub">
-        <title>Ms Incognito</title>
+    <programme start="20260423170000 +0000" stop="20260423180000 +0000" channel="TestChannel 996.starhub">
+        <title>News Night (Live)</title>
     </programme>
-    <programme start="20260423173000 +0000" stop="20260423183000 +0000" channel="TestChannel 996.starhub">
-        <title>Fight For Love</title>
-    </programme>
-    <programme start="20260423183000 +0000" stop="20260423190000 +0000" channel="TestChannel 996.starhub">
-        <title>Lo And Behold</title>
+    <programme start="20260423180000 +0000" stop="20260423190000 +0000" channel="TestChannel 996.starhub">
+        <title>Late Night Vision (Live)</title>
     </programme>
     <programme start="20260423190000 +0000" stop="20260423200000 +0000" channel="TestChannel 996.starhub">
-        <title>The Queen of Castle</title>
+        <title>Late Night Vision (Live)</title>
     </programme>
     <programme start="20260423200000 +0000" stop="20260423210000 +0000" channel="TestChannel 996.starhub">
-        <title>The Unclouded Soul</title>
+        <title>2100 Hot Topics (Live)</title>
     </programme>
-    <programme start="20260423210000 +0000" stop="20260423213000 +0000" channel="TestChannel 996.starhub">
-        <title>Lo And Behold</title>
+    <programme start="20260423210000 +0000" stop="20260423220000 +0000" channel="TestChannel 996.starhub">
+        <title>News Night (Live)</title>
     </programme>
-    <programme start="20260423213000 +0000" stop="20260423222000 +0000" channel="TestChannel 996.starhub">
-        <title>Shining Just for You</title>
-    </programme>
-    <programme start="20260423222000 +0000" stop="20260423231500 +0000" channel="TestChannel 996.starhub">
-        <title>Golden City (Ep 851-900) VVD Mandarin</title>
+    <programme start="20260423220000 +0000" stop="20260423230000 +0000" channel="TestChannel 996.starhub">
+        <title>Early Morning News (Live)</title>
     </programme>
     <programme start="20260423230000 +0000" stop="20260424000000 +0000" channel="TestChannel 996.starhub">
         <title>Early Morning News (Live)</title>

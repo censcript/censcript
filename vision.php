@@ -631,9 +631,6 @@
 <programme start="20260424090000 +0000" stop="20260424110000 +0000" channel="ANTV.vision">
 <title>Vasudha</title>
 </programme>
-<programme start="20260424130000 +0000" stop="20260424143000 +0000" channel="ANTV.vision">
-<title>Malam Satu Syuro</title>
-</programme>
 <programme start="20260424143000 +0000" stop="20260424163000 +0000" channel="ANTV.vision">
 <title>Indigo</title>
 </programme>
@@ -1496,5 +1493,8 @@
 <title>TVRI</title>
 </programme>
 <programme start="20260424000000 +0000" stop="20260424030000 +0000" channel="DAAI TV.vision">
+<title>DAAI TV</title>
+</programme>
+<programme start="20260424030000 +0000" stop="20260424060000 +0000" channel="DAAI TV.vision">
 <title>DAAI TV</title>
 </programme>
