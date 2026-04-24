@@ -2198,7 +2198,7 @@
         <title>Irish Icons, Racing Royalty &amp; Furry-footed Foals</title>
     </programme>
     <programme start="20260425083000 +0000" stop="20260425093000 +0000" channel="beIN Sports 2 HD.starhub">
-        <title>FIA World Rally C&#039;ship 2026: Rally Islas Canarias SS10 Arucas - Firgas - Teror 1</title>
+        <title>FIA World Rally C&#039;ship 2026: Rally Islas Canarias SS10 Arucas - Firgas - Teror 1 (Live)</title>
     </programme>
     <programme start="20260425093000 +0000" stop="20260425100000 +0000" channel="beIN Sports 2 HD.starhub">
         <title>London City Lionesses</title>
@@ -2222,7 +2222,7 @@
         <title>Australian Open Match H/Ls: 2026 Men&#039;s Singles Final Alcaraz v Djokovic</title>
     </programme>
     <programme start="20260425150000 +0000" stop="20260425160000 +0000" channel="beIN Sports 2 HD.starhub">
-        <title>FIA World Rally C&#039;ship 2026: Rally Islas Canarias SS13 Arucas - Firgas -Teror 2</title>
+        <title>FIA World Rally C&#039;ship 2026: Rally Islas Canarias SS13 Arucas - Firgas -Teror 2 (Live)</title>
     </programme>
     <programme start="20260424160000 +0000" stop="20260424170000 +0000" channel="TVB Xing He.starhub">
         <title>Recipes To Live By</title>
