@@ -121,17 +121,11 @@
 <programme start="20260424023000 +0000" stop="20260424030000 +0000" channel="Al Jazeera English.mncvision">
     <title>Counting The Cost</title>
 </programme>
-<programme start="20260424030000 +0000" stop="20260424033000 +0000" channel="Al Jazeera English.mncvision">
-    <title>News (L)</title>
+<programme start="20260424030000 +0000" stop="20260424040000 +0000" channel="Al Jazeera English.mncvision">
+    <title>NewsHour</title>
 </programme>
-<programme start="20260424033000 +0000" stop="20260424040000 +0000" channel="Al Jazeera English.mncvision">
-    <title>People &amp; Power</title>
-</programme>
-<programme start="20260424040000 +0000" stop="20260424043000 +0000" channel="Al Jazeera English.mncvision">
-    <title>News (L)</title>
-</programme>
-<programme start="20260424043000 +0000" stop="20260424050000 +0000" channel="Al Jazeera English.mncvision">
-    <title>The Stream</title>
+<programme start="20260424040000 +0000" stop="20260424050000 +0000" channel="Al Jazeera English.mncvision">
+    <title>NewsHour</title>
 </programme>
 <programme start="20260424050000 +0000" stop="20260424053000 +0000" channel="Al Jazeera English.mncvision">
     <title>News (L)</title>
@@ -139,17 +133,11 @@
 <programme start="20260424053000 +0000" stop="20260424060000 +0000" channel="Al Jazeera English.mncvision">
     <title>Inside Story</title>
 </programme>
-<programme start="20260424060000 +0000" stop="20260424063000 +0000" channel="Al Jazeera English.mncvision">
-    <title>News (L)</title>
+<programme start="20260424060000 +0000" stop="20260424070000 +0000" channel="Al Jazeera English.mncvision">
+    <title>NewsHour</title>
 </programme>
-<programme start="20260424063000 +0000" stop="20260424070000 +0000" channel="Al Jazeera English.mncvision">
-    <title>Reframe: Emily Feng</title>
-</programme>
-<programme start="20260424070000 +0000" stop="20260424073000 +0000" channel="Al Jazeera English.mncvision">
-    <title>News (L)</title>
-</programme>
-<programme start="20260424073000 +0000" stop="20260424080000 +0000" channel="Al Jazeera English.mncvision">
-    <title>The Global Population Bust</title>
+<programme start="20260424070000 +0000" stop="20260424080000 +0000" channel="Al Jazeera English.mncvision">
+    <title>NewsHour</title>
 </programme>
 <programme start="20260424080000 +0000" stop="20260424083000 +0000" channel="Al Jazeera English.mncvision">
     <title>News (L)</title>
@@ -157,11 +145,8 @@
 <programme start="20260424083000 +0000" stop="20260424090000 +0000" channel="Al Jazeera English.mncvision">
     <title>Talk To Al Jazeera: Bryan Clark</title>
 </programme>
-<programme start="20260424090000 +0000" stop="20260424093000 +0000" channel="Al Jazeera English.mncvision">
-    <title>News (L)</title>
-</programme>
-<programme start="20260424093000 +0000" stop="20260424100000 +0000" channel="Al Jazeera English.mncvision">
-    <title>101 East</title>
+<programme start="20260424090000 +0000" stop="20260424100000 +0000" channel="Al Jazeera English.mncvision">
+    <title>NewsHour</title>
 </programme>
 <programme start="20260424100000 +0000" stop="20260424110000 +0000" channel="Al Jazeera English.mncvision">
     <title>NewsHour</title>
@@ -173,7 +158,7 @@
     <title>Inside Story</title>
 </programme>
 <programme start="20260424120000 +0000" stop="20260424130000 +0000" channel="Al Jazeera English.mncvision">
-    <title>Global Warning: Global Economy</title>
+    <title>NewsHour</title>
 </programme>
 <programme start="20260424130000 +0000" stop="20260424140000 +0000" channel="Al Jazeera English.mncvision">
     <title>NewsHour</title>
@@ -185,10 +170,7 @@
     <title>NewsHour</title>
 </programme>
 <programme start="20260424160000 +0000" stop="20260424163000 +0000" channel="Al Jazeera English.mncvision">
-    <title>News (L)</title>
-</programme>
-<programme start="20260424163000 +0000" stop="20260423170000 +0000" channel="Al Jazeera English.mncvision">
-    <title>Witness</title>
+    <title>NewsHour</title>
 </programme>
 <programme start="20260423170000 +0000" stop="20260423190000 +0000" channel="Al Quran Al Kareem.mncvision">
     <title>Live From Mekkah</title>
@@ -1216,17 +1198,20 @@
 <programme start="20260424103000 +0000" stop="20260424120000 +0000" channel="beIN Sports 2.mncvision">
     <title>Premier Padel &#039;26: Brussels (L)</title>
 </programme>
-<programme start="20260424120000 +0000" stop="20260424133000 +0000" channel="beIN Sports 2.mncvision">
+<programme start="20260424120000 +0000" stop="20260424121000 +0000" channel="beIN Sports 2.mncvision">
+    <title>Premier Padel Match HL 2026</title>
+</programme>
+<programme start="20260424121000 +0000" stop="20260424123500 +0000" channel="beIN Sports 2.mncvision">
+    <title>HSBC SVNS World C&#039;ships 2026</title>
+</programme>
+<programme start="20260424123500 +0000" stop="20260424130000 +0000" channel="beIN Sports 2.mncvision">
+    <title>HSBC SVNS World C&#039;ships 2026</title>
+</programme>
+<programme start="20260424130000 +0000" stop="20260424143000 +0000" channel="beIN Sports 2.mncvision">
     <title>Premier Padel &#039;26: Brussels (L)</title>
 </programme>
-<programme start="20260424133000 +0000" stop="20260424135500 +0000" channel="beIN Sports 2.mncvision">
-    <title>HSBC SVNS World C&#039;ships 2026</title>
-</programme>
-<programme start="20260424135500 +0000" stop="20260424142000 +0000" channel="beIN Sports 2.mncvision">
-    <title>HSBC SVNS World C&#039;ships 2026</title>
-</programme>
-<programme start="20260424142000 +0000" stop="20260424144500 +0000" channel="beIN Sports 2.mncvision">
-    <title>HSBC SVNS World C&#039;ships 2026</title>
+<programme start="20260424143000 +0000" stop="20260424144500 +0000" channel="beIN Sports 2.mncvision">
+    <title>Roland Garros Match HL 2025</title>
 </programme>
 <programme start="20260424144500 +0000" stop="20260424151000 +0000" channel="beIN Sports 2.mncvision">
     <title>HSBC SVNS World C&#039;ships 2026</title>
@@ -1279,17 +1264,20 @@
 <programme start="20260424103000 +0000" stop="20260424120000 +0000" channel="beIN Sports 2 HD.mncvision">
     <title>Premier Padel &#039;26: Brussels (L)</title>
 </programme>
-<programme start="20260424120000 +0000" stop="20260424133000 +0000" channel="beIN Sports 2 HD.mncvision">
+<programme start="20260424120000 +0000" stop="20260424121000 +0000" channel="beIN Sports 2 HD.mncvision">
+    <title>Premier Padel Match HL 2026</title>
+</programme>
+<programme start="20260424121000 +0000" stop="20260424123500 +0000" channel="beIN Sports 2 HD.mncvision">
+    <title>HSBC SVNS World C&#039;ships 2026</title>
+</programme>
+<programme start="20260424123500 +0000" stop="20260424130000 +0000" channel="beIN Sports 2 HD.mncvision">
+    <title>HSBC SVNS World C&#039;ships 2026</title>
+</programme>
+<programme start="20260424130000 +0000" stop="20260424143000 +0000" channel="beIN Sports 2 HD.mncvision">
     <title>Premier Padel &#039;26: Brussels (L)</title>
 </programme>
-<programme start="20260424133000 +0000" stop="20260424135500 +0000" channel="beIN Sports 2 HD.mncvision">
-    <title>HSBC SVNS World C&#039;ships 2026</title>
-</programme>
-<programme start="20260424135500 +0000" stop="20260424142000 +0000" channel="beIN Sports 2 HD.mncvision">
-    <title>HSBC SVNS World C&#039;ships 2026</title>
-</programme>
-<programme start="20260424142000 +0000" stop="20260424144500 +0000" channel="beIN Sports 2 HD.mncvision">
-    <title>HSBC SVNS World C&#039;ships 2026</title>
+<programme start="20260424143000 +0000" stop="20260424144500 +0000" channel="beIN Sports 2 HD.mncvision">
+    <title>Roland Garros Match HL 2025</title>
 </programme>
 <programme start="20260424144500 +0000" stop="20260424151000 +0000" channel="beIN Sports 2 HD.mncvision">
     <title>HSBC SVNS World C&#039;ships 2026</title>
@@ -4102,11 +4090,8 @@
 <programme start="20260424133000 +0000" stop="20260424153000 +0000" channel="GTV.mncvision">
     <title>Battle Of Snakes: King Kong</title>
 </programme>
-<programme start="20260424153000 +0000" stop="20260424163000 +0000" channel="GTV.mncvision">
-    <title>Warisan Sang Penjelma</title>
-</programme>
-<programme start="20260424163000 +0000" stop="20260423170000 +0000" channel="GTV.mncvision">
-    <title>Malam Penuh Teror</title>
+<programme start="20260424153000 +0000" stop="20260424160000 +0000" channel="GTV.mncvision">
+    <title>Big Movies Indonesia</title>
 </programme>
 <programme start="20260423170000 +0000" stop="20260423190000 +0000" channel="GTV HD.mncvision">
     <title>Tertawa Tengah Malam</title>
@@ -4150,11 +4135,8 @@
 <programme start="20260424133000 +0000" stop="20260424153000 +0000" channel="GTV HD.mncvision">
     <title>Battle Of Snakes: King Kong</title>
 </programme>
-<programme start="20260424153000 +0000" stop="20260424163000 +0000" channel="GTV HD.mncvision">
-    <title>Warisan Sang Penjelma</title>
-</programme>
-<programme start="20260424163000 +0000" stop="20260423170000 +0000" channel="GTV HD.mncvision">
-    <title>Malam Penuh Teror</title>
+<programme start="20260424153000 +0000" stop="20260424160000 +0000" channel="GTV HD.mncvision">
+    <title>Big Movies Indonesia</title>
 </programme>
 <programme start="20260423210000 +0000" stop="20260423213000 +0000" channel="Hanacaraka TV.mncvision">
     <title>Ge Bams</title>
@@ -4828,11 +4810,14 @@
 <programme start="20260423210000 +0000" stop="20260423211500 +0000" channel="iNews.mncvision">
     <title>Breaking News</title>
 </programme>
-<programme start="20260423211500 +0000" stop="20260423231300 +0000" channel="iNews.mncvision">
+<programme start="20260423211500 +0000" stop="20260423225000 +0000" channel="iNews.mncvision">
     <title>iNews Pagi (L)</title>
 </programme>
-<programme start="20260423231300 +0000" stop="20260423231500 +0000" channel="iNews.mncvision">
+<programme start="20260423225000 +0000" stop="20260423230000 +0000" channel="iNews.mncvision">
     <title>Indonesia Raya</title>
+</programme>
+<programme start="20260423230000 +0000" stop="20260423231500 +0000" channel="iNews.mncvision">
+    <title>iNews Pagi (L)</title>
 </programme>
 <programme start="20260423231500 +0000" stop="20260423233000 +0000" channel="iNews.mncvision">
     <title>iNews Sport Pagi (L)</title>
@@ -4870,14 +4855,11 @@
 <programme start="20260424130000 +0000" stop="20260424140000 +0000" channel="iNews.mncvision">
     <title>iNews Prime (L)</title>
 </programme>
-<programme start="20260424140000 +0000" stop="20260424150000 +0000" channel="iNews.mncvision">
+<programme start="20260424140000 +0000" stop="20260424160000 +0000" channel="iNews.mncvision">
     <title>Konflik Timur Tengah (L)</title>
 </programme>
-<programme start="20260424150000 +0000" stop="20260424160000 +0000" channel="iNews.mncvision">
-    <title>iNews Files</title>
-</programme>
 <programme start="20260424160000 +0000" stop="20260424163000 +0000" channel="iNews.mncvision">
-    <title>iNews Malam (L)</title>
+    <title>iNews Files</title>
 </programme>
 <programme start="20260423170000 +0000" stop="20260423173000 +0000" channel="iNews HD.mncvision">
     <title>iNews Sport</title>
@@ -4888,11 +4870,14 @@
 <programme start="20260423210000 +0000" stop="20260423211500 +0000" channel="iNews HD.mncvision">
     <title>Breaking News</title>
 </programme>
-<programme start="20260423211500 +0000" stop="20260423231300 +0000" channel="iNews HD.mncvision">
+<programme start="20260423211500 +0000" stop="20260423225000 +0000" channel="iNews HD.mncvision">
     <title>iNews Pagi (L)</title>
 </programme>
-<programme start="20260423231300 +0000" stop="20260423231500 +0000" channel="iNews HD.mncvision">
+<programme start="20260423225000 +0000" stop="20260423230000 +0000" channel="iNews HD.mncvision">
     <title>Indonesia Raya</title>
+</programme>
+<programme start="20260423230000 +0000" stop="20260423231500 +0000" channel="iNews HD.mncvision">
+    <title>iNews Pagi (L)</title>
 </programme>
 <programme start="20260423231500 +0000" stop="20260423233000 +0000" channel="iNews HD.mncvision">
     <title>iNews Sport Pagi (L)</title>
@@ -4930,14 +4915,11 @@
 <programme start="20260424130000 +0000" stop="20260424140000 +0000" channel="iNews HD.mncvision">
     <title>iNews Prime (L)</title>
 </programme>
-<programme start="20260424140000 +0000" stop="20260424150000 +0000" channel="iNews HD.mncvision">
+<programme start="20260424140000 +0000" stop="20260424160000 +0000" channel="iNews HD.mncvision">
     <title>Konflik Timur Tengah (L)</title>
 </programme>
-<programme start="20260424150000 +0000" stop="20260424160000 +0000" channel="iNews HD.mncvision">
-    <title>iNews Files</title>
-</programme>
 <programme start="20260424160000 +0000" stop="20260424163000 +0000" channel="iNews HD.mncvision">
-    <title>iNews Malam (L)</title>
+    <title>iNews Files</title>
 </programme>
 <programme start="20260423220000 +0000" stop="20260423223000 +0000" channel="JAKTV.mncvision">
     <title>Senyum Quran</title>
@@ -6452,7 +6434,7 @@
     <title>NHK News 7</title>
 </programme>
 <programme start="20260424103000 +0000" stop="20260424110000 +0000" channel="NHK World.mncvision">
-    <title>NHK World-Japan Spc. Program</title>
+    <title>Japan In Focus</title>
 </programme>
 <programme start="20260424110000 +0000" stop="20260424112800 +0000" channel="NHK World.mncvision">
     <title>Newsroom Tokyo</title>
@@ -6488,7 +6470,7 @@
     <title>NHK Newsline</title>
 </programme>
 <programme start="20260424153000 +0000" stop="20260424160000 +0000" channel="NHK World.mncvision">
-    <title>NHK World-Japan Spc. Program</title>
+    <title>Japan In Focus</title>
 </programme>
 <programme start="20260423171000 +0000" stop="20260423174000 +0000" channel="NHK World Premium.mncvision">
     <title>Asaichi On ETV</title>
@@ -7519,11 +7501,11 @@
 <programme start="20260424131500 +0000" stop="20260424143000 +0000" channel="RCTI.mncvision">
     <title>Turun Ranjang</title>
 </programme>
-<programme start="20260424143000 +0000" stop="20260424163000 +0000" channel="RCTI.mncvision">
+<programme start="20260424143000 +0000" stop="20260424154500 +0000" channel="RCTI.mncvision">
     <title>Mencari Kambing Hitam</title>
 </programme>
-<programme start="20260424163000 +0000" stop="20260423170000 +0000" channel="RCTI.mncvision">
-    <title>Kesempatan Kedua</title>
+<programme start="20260424154500 +0000" stop="20260424161500 +0000" channel="RCTI.mncvision">
+    <title>Reuni Adalah Maut</title>
 </programme>
 <programme start="20260423193000 +0000" stop="20260423230000 +0000" channel="RCTI HD.mncvision">
     <title>Preman Pensiun S9</title>
@@ -7558,11 +7540,11 @@
 <programme start="20260424131500 +0000" stop="20260424143000 +0000" channel="RCTI HD.mncvision">
     <title>Turun Ranjang</title>
 </programme>
-<programme start="20260424143000 +0000" stop="20260424163000 +0000" channel="RCTI HD.mncvision">
+<programme start="20260424143000 +0000" stop="20260424154500 +0000" channel="RCTI HD.mncvision">
     <title>Mencari Kambing Hitam</title>
 </programme>
-<programme start="20260424163000 +0000" stop="20260423170000 +0000" channel="RCTI HD.mncvision">
-    <title>Kesempatan Kedua</title>
+<programme start="20260424154500 +0000" stop="20260424161500 +0000" channel="RCTI HD.mncvision">
+    <title>Reuni Adalah Maut</title>
 </programme>
 <programme start="20260423173500 +0000" stop="20260423192500 +0000" channel="Rock Action.mncvision">
     <title>Tears Of The Sun</title>
@@ -7714,34 +7696,34 @@
 <programme start="20260424000000 +0000" stop="20260424010000 +0000" channel="SCTV.mncvision">
     <title>Tiba-Tiba Kuis</title>
 </programme>
-<programme start="20260424010000 +0000" stop="20260424030000 +0000" channel="SCTV.mncvision">
+<programme start="20260424010000 +0000" stop="20260424024700 +0000" channel="SCTV.mncvision">
     <title>Katanya Hidup Itu Indah</title>
 </programme>
-<programme start="20260424030000 +0000" stop="20260424050000 +0000" channel="SCTV.mncvision">
+<programme start="20260424024700 +0000" stop="20260424044700 +0000" channel="SCTV.mncvision">
     <title>Pantang Pulang Sebelum...</title>
 </programme>
-<programme start="20260424050000 +0000" stop="20260424053000 +0000" channel="SCTV.mncvision">
+<programme start="20260424044700 +0000" stop="20260424052100 +0000" channel="SCTV.mncvision">
     <title>Liputan 6 Siang (L)</title>
 </programme>
-<programme start="20260424053000 +0000" stop="20260424070000 +0000" channel="SCTV.mncvision">
+<programme start="20260424052100 +0000" stop="20260424065400 +0000" channel="SCTV.mncvision">
     <title>Mendadak Tenar Diluar Nalar</title>
 </programme>
-<programme start="20260424070000 +0000" stop="20260424084500 +0000" channel="SCTV.mncvision">
+<programme start="20260424065400 +0000" stop="20260424082700 +0000" channel="SCTV.mncvision">
     <title>Miss Kinclong Colong Hatiku</title>
 </programme>
-<programme start="20260424084500 +0000" stop="20260424100000 +0000" channel="SCTV.mncvision">
+<programme start="20260424082700 +0000" stop="20260424100000 +0000" channel="SCTV.mncvision">
     <title>Rebutan Hati Miss Cupu</title>
 </programme>
-<programme start="20260424100000 +0000" stop="20260424111500 +0000" channel="SCTV.mncvision">
+<programme start="20260424100000 +0000" stop="20260424112400 +0000" channel="SCTV.mncvision">
     <title>Asmara Gen Z</title>
 </programme>
-<programme start="20260424111500 +0000" stop="20260424130000 +0000" channel="SCTV.mncvision">
+<programme start="20260424112400 +0000" stop="20260424130000 +0000" channel="SCTV.mncvision">
     <title>Istiqomah Cinta</title>
 </programme>
-<programme start="20260424130000 +0000" stop="20260424160000 +0000" channel="SCTV.mncvision">
+<programme start="20260424130000 +0000" stop="20260424163000 +0000" channel="SCTV.mncvision">
     <title>Puteri Indonesia 2026 (L)</title>
 </programme>
-<programme start="20260424160000 +0000" stop="20260424163000 +0000" channel="SCTV.mncvision">
+<programme start="20260424163000 +0000" stop="20260423170000 +0000" channel="SCTV.mncvision">
     <title>Dilan 1991</title>
 </programme>
 <programme start="20260423180500 +0000" stop="20260423191500 +0000" channel="SCTV HD.mncvision">
@@ -7768,34 +7750,34 @@
 <programme start="20260424000000 +0000" stop="20260424010000 +0000" channel="SCTV HD.mncvision">
     <title>Tiba-Tiba Kuis</title>
 </programme>
-<programme start="20260424010000 +0000" stop="20260424030000 +0000" channel="SCTV HD.mncvision">
+<programme start="20260424010000 +0000" stop="20260424024700 +0000" channel="SCTV HD.mncvision">
     <title>Katanya Hidup Itu Indah</title>
 </programme>
-<programme start="20260424030000 +0000" stop="20260424050000 +0000" channel="SCTV HD.mncvision">
+<programme start="20260424024700 +0000" stop="20260424044700 +0000" channel="SCTV HD.mncvision">
     <title>Pantang Pulang Sebelum...</title>
 </programme>
-<programme start="20260424050000 +0000" stop="20260424053000 +0000" channel="SCTV HD.mncvision">
+<programme start="20260424044700 +0000" stop="20260424052100 +0000" channel="SCTV HD.mncvision">
     <title>Liputan 6 Siang (L)</title>
 </programme>
-<programme start="20260424053000 +0000" stop="20260424070000 +0000" channel="SCTV HD.mncvision">
+<programme start="20260424052100 +0000" stop="20260424065400 +0000" channel="SCTV HD.mncvision">
     <title>Mendadak Tenar Diluar Nalar</title>
 </programme>
-<programme start="20260424070000 +0000" stop="20260424084500 +0000" channel="SCTV HD.mncvision">
+<programme start="20260424065400 +0000" stop="20260424082700 +0000" channel="SCTV HD.mncvision">
     <title>Miss Kinclong Colong Hatiku</title>
 </programme>
-<programme start="20260424084500 +0000" stop="20260424100000 +0000" channel="SCTV HD.mncvision">
+<programme start="20260424082700 +0000" stop="20260424100000 +0000" channel="SCTV HD.mncvision">
     <title>Rebutan Hati Miss Cupu</title>
 </programme>
-<programme start="20260424100000 +0000" stop="20260424111500 +0000" channel="SCTV HD.mncvision">
+<programme start="20260424100000 +0000" stop="20260424112400 +0000" channel="SCTV HD.mncvision">
     <title>Asmara Gen Z</title>
 </programme>
-<programme start="20260424111500 +0000" stop="20260424130000 +0000" channel="SCTV HD.mncvision">
+<programme start="20260424112400 +0000" stop="20260424130000 +0000" channel="SCTV HD.mncvision">
     <title>Istiqomah Cinta</title>
 </programme>
-<programme start="20260424130000 +0000" stop="20260424160000 +0000" channel="SCTV HD.mncvision">
+<programme start="20260424130000 +0000" stop="20260424163000 +0000" channel="SCTV HD.mncvision">
     <title>Puteri Indonesia 2026 (L)</title>
 </programme>
-<programme start="20260424160000 +0000" stop="20260424163000 +0000" channel="SCTV HD.mncvision">
+<programme start="20260424163000 +0000" stop="20260423170000 +0000" channel="SCTV HD.mncvision">
     <title>Dilan 1991</title>
 </programme>
 <programme start="20260423170000 +0000" stop="20260423180000 +0000" channel="Sindo News TV.mncvision">

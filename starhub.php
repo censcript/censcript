@@ -2219,25 +2219,25 @@
         <title>New Giza P2 Men</title>
     </programme>
     <programme start="20260424121000 +0000" stop="20260424123500 +0000" channel="beIN Sports 2 HD.starhub">
-        <title>HSBC SVNS World Championships 2026 France vs Kenya - 7th Place Play-off, Hong Ko</title>
+        <title>HSBC SVNS World C&#039;ships 2026: France vs Kenya - 7th Place Play-off, Hong Kong -</title>
     </programme>
     <programme start="20260424123500 +0000" stop="20260424130000 +0000" channel="beIN Sports 2 HD.starhub">
-        <title>HSBC SVNS World Championships 2026 Canada vs New Zealand - Cup SF1, Hong Kong -</title>
+        <title>HSBC SVNS World C&#039;ships 2026: Canada vs New Zealand - Cup SF1, Hong Kong - Women</title>
     </programme>
     <programme start="20260424130000 +0000" stop="20260424143000 +0000" channel="beIN Sports 2 HD.starhub">
-        <title>Brussels P2 Day 4 QF Match 3</title>
+        <title>Premier Padel 2026: Brussels P2 Day 4 QF Match 3 (Live)</title>
     </programme>
     <programme start="20260424143000 +0000" stop="20260424144500 +0000" channel="beIN Sports 2 HD.starhub">
-        <title>Roland Garros Match Highlights 2025 Men&#039;s Singles Final Sinner v Alcaraz</title>
+        <title>Roland Garros Match H/Ls: 2025 Men&#039;s Singles Final Sinner v Alcaraz</title>
     </programme>
     <programme start="20260424144500 +0000" stop="20260424151000 +0000" channel="beIN Sports 2 HD.starhub">
-        <title>HSBC SVNS World Championships 2026 New Zealand vs South Africa - Cup SF1, Hong K</title>
+        <title>HSBC SVNS World C&#039;ships 2026: New Zealand vs South Africa - Cup SF1, Hong Kong -</title>
     </programme>
     <programme start="20260424151000 +0000" stop="20260424153500 +0000" channel="beIN Sports 2 HD.starhub">
-        <title>HSBC SVNS World Championships 2026 Spain vs Argentina - Cup SF2, Hong Kong - Men</title>
+        <title>HSBC SVNS World C&#039;ships 2026: Spain vs Argentina - Cup SF2, Hong Kong - Men</title>
     </programme>
     <programme start="20260424153500 +0000" stop="20260424160000 +0000" channel="beIN Sports 2 HD.starhub">
-        <title>HSBC SVNS World Championships 2026 USA vs Japan - 5th Place Play-off, Hong Kong</title>
+        <title>HSBC SVNS World C&#039;ships 2026: USA vs Japan - 5th Place Play-off, Hong Kong - Wom</title>
     </programme>
     <programme start="20260423160000 +0000" stop="20260423170000 +0000" channel="TVB Xing He.starhub">
         <title>Recipes To Live By</title>

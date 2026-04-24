@@ -453,22 +453,22 @@
     <desc lang="id">FTV Yang Diambil Dari Kisah Kehidupan Sehari-Hari Pemirsa Yang Penuh Intrik, Konflik dan Pengkhianatan Untuk Memberikan Berbagai Pelajaran Hidup. Saksikan Setiap Hari Pukul 13.30 WIB, Hanya Di Indosiar.</desc>
     <icon src="https://thumbor.prod.vidiocdn.com/cBZL7ITaJCof6cqtayFee2uJCX8=/287x162/filters:strip_icc():quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/image/205/indosiar-d9a3d0.jpg"/>
   </programme>
-  <programme channel="205" start="20260424063000 +0000" stop="20260424080000 +0000">
+  <programme channel="205" start="20260424063000 +0000" stop="20260424075900 +0000">
     <title lang="id">Kisah Nyata : Aku Imbas Dari Rahasia Masa Lalu</title>
     <desc lang="id">FTV Yang Diambil Dari Kisah Kehidupan Sehari-Hari Pemirsa Yang Penuh Intrik, Konflik dan Pengkhianatan Untuk Memberikan Berbagai Pelajaran Hidup.</desc>
     <icon src="https://thumbor.prod.vidiocdn.com/cBZL7ITaJCof6cqtayFee2uJCX8=/287x162/filters:strip_icc():quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/image/205/indosiar-d9a3d0.jpg"/>
   </programme>
-  <programme channel="205" start="20260424080000 +0000" stop="20260424103000 +0000">
+  <programme channel="205" start="20260424075900 +0000" stop="20260424103600 +0000">
     <title lang="id">PERSIJAP vs PSBS Biak - BRI Super League</title>
     <desc lang="id">Nonton streaming pertandingan seru PERSIJAP vs PSBS Biak - BRI Super League. Saksikan aksi-aksi terbaik dari tim yang bersaing ketat untuk meraih kemenangan. Dapatkan informasi lengkap mengenai jadwal pertandingan dan hasil pertandingan terbaru hanya di Vidio.</desc>
     <icon src="https://thumbor.prod.vidiocdn.com/mgeEkGshXx2-lbKLprPoKRJSRGc=/287x162/filters:strip_icc():quality(70)/vidio-media-production/uploads/livestreaming/schedule/thumbnail/5022116/3b9f1f.jpg"/>
   </programme>
-  <programme channel="205" start="20260424103000 +0000" stop="20260424113000 +0000">
+  <programme channel="205" start="20260424103600 +0000" stop="20260424114000 +0000">
     <title lang="id">Merangkai Kisah Indah</title>
     <desc lang="id">Mega Series Terbaru Raden Rakha dan Basmalah Gralind Di Indosiar "Merangkai Kisah Indah" Tayang Setiap Hari, Mulai Senin, 14 Juli 2025 Pukul 17:00 WIB. Kisah Derita Mutiara Yang Mencari Orangtua Kandungnya Karena Sewaktu Bayi Ditukar Oleh Ibu Angkatnya. Nasib Membawa Dirinya Bertemu Dengan Keluarga Yang Tanpa Dia Ketahui Adalah Orangtua Kandungnya dan Juga Bertemu Kenzo. Apakah Kenzo dan Mutiara Akan Berjodoh? Dibintangi Raden Rakha, Basmalah Gralind, Panji Saputra, Tsania Marwa, Gita Sinaga, Vayala Maulidina, Washifa, Haura Lathifa, dan Emiliano Cortizo. Saksikan Mega Series Terbaru Indosiar : Merangkai Kisah Indah, Tayang Setiap Hari, Mulai Senin, 14 Juli 2025 Pukul 17:00 WIB Hanya Di Indosiar.</desc>
     <icon src="https://thumbor.prod.vidiocdn.com/WIl2jiaTLEzHnNAo61AGzfdEXh8=/287x162/filters:strip_icc():quality(70)/vidio-media-production/uploads/tv_program/thumbnail/389747/fc3ce1.jpg"/>
   </programme>
-  <programme channel="205" start="20260424113000 +0000" stop="20260424140000 +0000">
+  <programme channel="205" start="20260424114000 +0000" stop="20260424140000 +0000">
     <title lang="id">BRI Superleague 2025/26 - Persib Bandung Vs Arema Fc</title>
     <desc lang="id">Saksikan! BRI Super League 2025/26 - Is Back!" 18 Klub Terbaik Siap Bertarung Di Kasta Tertinggi Sepak Bola Indonesia! Pertandingan Semakin Seru! Jangan Lewatkan BRI Super League 2025/26 Mulai 8 Agustus 2025, Pkl 15.00 &amp; 18.30 WIB, Live &amp; Eksklusif Hanya Di Indosiar dan Vidio #Indosiarrumahsepakbolaindonesia</desc>
     <icon src="https://thumbor.prod.vidiocdn.com/cBZL7ITaJCof6cqtayFee2uJCX8=/287x162/filters:strip_icc():quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/image/205/indosiar-d9a3d0.jpg"/>
@@ -1734,12 +1734,12 @@
     <desc lang="id">Road To Grand Final Proliga 2026 Putri</desc>
     <icon src="https://thumbor.prod.vidiocdn.com/NdmzqkxqnWVnlngtk_ObYNT-wiY=/287x162/filters:strip_icc():quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/image/206/moji-a5bd3e.jpg"/>
   </programme>
-  <programme channel="206" start="20260424073000 +0000" stop="20260424110000 +0000">
+  <programme channel="206" start="20260424073000 +0000" stop="20260424105500 +0000">
     <title lang="id">Proliga 2026 First Serve 15:00</title>
     <desc lang="id">Proliga 2026 First Serve 15:00</desc>
     <icon src="https://thumbor.prod.vidiocdn.com/NdmzqkxqnWVnlngtk_ObYNT-wiY=/287x162/filters:strip_icc():quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/image/206/moji-a5bd3e.jpg"/>
   </programme>
-  <programme channel="206" start="20260424110000 +0000" stop="20260424113000 +0000">
+  <programme channel="206" start="20260424105500 +0000" stop="20260424113000 +0000">
     <title lang="id">Road To Grand Final Proliga 2026 Putri</title>
     <desc lang="id">Road To Grand Final Proliga 2026 Putri</desc>
     <icon src="https://thumbor.prod.vidiocdn.com/NdmzqkxqnWVnlngtk_ObYNT-wiY=/287x162/filters:strip_icc():quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/image/206/moji-a5bd3e.jpg"/>
@@ -3756,6 +3756,471 @@
     <desc lang="id">Kisah Seorang Ronin Bernama Zankuro, Samurai Pengembara Yang Hidup Di Zaman Edo. Meski Dikenal Sebagai Pendekar Pedang Yang Tak Terkalahkan, Zankuro Memiliki Sisi Lembut Dan Menjunjung Tinggi Keadilan. Dalam Perjalanannya, Ia Terlibat Dalam Berbagai Konflik Yang Menguji Prinsip, Harga Diri Dan Tanggung Jawabnya Sebagai Seorang Samurai Tanpa Tuan.</desc>
     <icon src="https://thumbor.prod.vidiocdn.com/t3kH69uTKMJbATwgkOSlzYNI1zA=/287x162/filters:strip_icc():quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/image/1561/rtv-48c719.jpg"/>
   </programme>
+  <programme channel="1561" start="20260426170000 +0000" stop="20260426173000 +0000">
+    <title lang="id">STB (Sangat Tidak Biasa)</title>
+    <desc lang="id">Program Ini Menghadirkan Kompilasi Informasi Berbagai Macam Issue Dan Topik Yang Akan Dibahas Dari Berbagai Sisi Dan Dipaparkan Oleh Penyulih Suara.</desc>
+    <icon src="https://thumbor.prod.vidiocdn.com/t3kH69uTKMJbATwgkOSlzYNI1zA=/287x162/filters:strip_icc():quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/image/1561/rtv-48c719.jpg"/>
+  </programme>
+  <programme channel="1561" start="20260426173000 +0000" stop="20260426180000 +0000">
+    <title lang="id">Kokom (Kompilasi Komedi)</title>
+    <desc lang="id">Program Yang Berisikan Kompilasi Video-Video Lucu Yang Viral Di Sosial Media.</desc>
+    <icon src="https://thumbor.prod.vidiocdn.com/t3kH69uTKMJbATwgkOSlzYNI1zA=/287x162/filters:strip_icc():quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/image/1561/rtv-48c719.jpg"/>
+  </programme>
+  <programme channel="1561" start="20260426180000 +0000" stop="20260426183000 +0000">
+    <title lang="id">Terang Kasih</title>
+    <desc lang="id">Siraman Rohani Kristen Yang Berkaitan Dengan Kehidupan Untuk Mendekatkan Diri Kepada Tuhan Yesus Kristus. Program Ini Akan Dibagi Menjadi Beberapa Bagian, Antara Lain Kesaksian, Renungan, Serta Konseling Yang Akan Dipandu Oleh Dua Orang Host</desc>
+    <icon src="https://thumbor.prod.vidiocdn.com/t3kH69uTKMJbATwgkOSlzYNI1zA=/287x162/filters:strip_icc():quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/image/1561/rtv-48c719.jpg"/>
+  </programme>
+  <programme channel="1561" start="20260426183000 +0000" stop="20260426200000 +0000">
+    <title lang="id">Movinesia</title>
+    <desc lang="id">Sebuah Program Yang Menghadirkan Sederet Film Pilihan Untuk Menemani Aktivitas Anda Dengan Dimeriahkan Oleh Para Pemain &amp; Artis Papan Atas Berbakat, Dengan Cerita Ringan Seputar Kehidupan Remaja.</desc>
+    <icon src="https://thumbor.prod.vidiocdn.com/t3kH69uTKMJbATwgkOSlzYNI1zA=/287x162/filters:strip_icc():quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/image/1561/rtv-48c719.jpg"/>
+  </programme>
+  <programme channel="1561" start="20260426200000 +0000" stop="20260426203000 +0000">
+    <title lang="id">Ustadz On The Road</title>
+    <desc lang="id">Program Religi Yang Dipandu Oleh Seorang Host Dan Ustadz Yang Akan Memberikan Kajian Islami Dengan Treatment On The Road Disertai Dengan Study Kasus. Pembahasan Dilakukan Sepanjang Perjalanan Menuju Lokasi Sesuai Agenda Harian Ustadz. Program Ini Akan Disajikan Secara Ringan Dan Menyenangkan.</desc>
+    <icon src="https://thumbor.prod.vidiocdn.com/t3kH69uTKMJbATwgkOSlzYNI1zA=/287x162/filters:strip_icc():quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/image/1561/rtv-48c719.jpg"/>
+  </programme>
+  <programme channel="1561" start="20260426203000 +0000" stop="20260426213000 +0000">
+    <title lang="id">Marsupilami</title>
+    <desc lang="id">Hector Ikut Dengan Tantenya, Diane, Untuk Menghabiskan Satu Tahun Di Hutan Agar Dia Dapat Mempelajari Flora Dan Fauna. Sebagai Seorang Anak Laki-Laki Yang Senang Akan Petualangan, Ia Berteman Baik Dengan Marsupilami Yang Legendaris. Hector Memiliki Keluarga Baru Yang Menyenangkan Dengan Hidup Di Antara Hewan - Hewan Tersebut. Suatu Hari, Kehidupan Barunya Yang Menyenangkan Di Hutan Tiba-Tiba Terancam Dengan Kedatangan Felicia Devort, Seorang Industrialis Megalomaniak Yang Ingin Merusak Hutan Untuk Membangun Kota Devort Di Lokasi Hutan Itu.</desc>
+    <icon src="https://thumbor.prod.vidiocdn.com/t3kH69uTKMJbATwgkOSlzYNI1zA=/287x162/filters:strip_icc():quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/image/1561/rtv-48c719.jpg"/>
+  </programme>
+  <programme channel="1561" start="20260426213000 +0000" stop="20260426220000 +0000">
+    <title lang="id">Ibra Berkisah</title>
+    <desc lang="id">Ibrahim Atau Ibra Adalah Murid Pesantren Yang Santun Dan Selalu Mengajak Teman-Temannya Untuk Meneladani Nabi Muhammad Saw, Dia Pun Sejak Kecil Sudah Tinggal Di Pesantren. Ibra Memiliki Teman Bernama Tokek Dan Hoho. Tokek Adalah Anak Yang Lucu Dan Periang, Sedangkan Hoho Adalah Seorang Anak Jakarta Yang Dilahirkan Dari Keluarga Kaya Raya, Sifatnya Manja Dan Tidak Mengerti Sama Sekali Tentang Islam. Selama Di Pesantren, Hoho Sekamar Dengan Ibra Yang Mana Di Perkenalan Awal Mereka, Hoho Menganggap Remeh Ibra Yang Dia Anggap Sebagai Anak Kampung. Tapi Ternyata Dari Ibra Lah Hoho Banyak Mendapatkan Pelajaran Hidup Dan Kisah-Kisah Teladan Nabi Muhammad Shalallahu Alaihi Wassalam.</desc>
+    <icon src="https://thumbor.prod.vidiocdn.com/aLFhQklhzRRCXpwI3kUgIUTdzPo=/287x162/filters:strip_icc():quality(70)/vidio-media-production/uploads/tv_program/thumbnail/383737/117866.jpg"/>
+  </programme>
+  <programme channel="1561" start="20260426220000 +0000" stop="20260426233000 +0000">
+    <title lang="id">Teletubbies</title>
+    <desc lang="id">Serial Reboot Atau Seri Baru Yang Diluncurkan Pada Tahun 2015 Di Inggris. Versi Ini Menghadirkan Kembali Karakter Ikonik Tinky Winky, Dipsy, Laa-Laa, Dan Po Di Teletubbyland Dengan Visual Yang Diperbarui, Menyapa Generasi Baru Penonton Prasekolah Dengan Nuansa Yang Lebih Modern.</desc>
+    <icon src="https://thumbor.prod.vidiocdn.com/t3kH69uTKMJbATwgkOSlzYNI1zA=/287x162/filters:strip_icc():quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/image/1561/rtv-48c719.jpg"/>
+  </programme>
+  <programme channel="1561" start="20260426233000 +0000" stop="20260427010000 +0000">
+    <title lang="id">Bread Barbershop</title>
+    <desc lang="id">Bread, Seorang Tukang Cukur Jenius, Memecahkan Masalah Penampilan Dengan Keterampilan Memotong Rambutnya Yang Briliant. Sekarang Dia Hadir Untuk Memecahkan Masalah Para Bintang Di Bakery Town. Bertentangan Dengan Penampilan Mereka Yang Glamor Dan Bersinar, Para Selebriti Ini Menjalani Hari Yang Sangat Suram. Bread Dan Keluarganya Siap Membantu Para Selebriti Untuk Menemukan Lagi Kebahagiaan Mereka.</desc>
+    <icon src="https://thumbor.prod.vidiocdn.com/t3kH69uTKMJbATwgkOSlzYNI1zA=/287x162/filters:strip_icc():quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/image/1561/rtv-48c719.jpg"/>
+  </programme>
+  <programme channel="1561" start="20260427010000 +0000" stop="20260427023000 +0000">
+    <title lang="id">Grizzy And The Lemmings</title>
+    <desc lang="id">Grizzy &amp; The Lemmings Merupakan Animasi Yang Menceritakan Tentang Seekor Beruang Grizzly Yang Bernama Grizzy Dan Sekawanan Leming Yang Selalu Ingin "Bermain" Dengan Grizzy Setiap Harinya Sehingga Banyak Cerita Dan Petualangan Yang Menarik Dari Mereka.</desc>
+    <icon src="https://thumbor.prod.vidiocdn.com/t3kH69uTKMJbATwgkOSlzYNI1zA=/287x162/filters:strip_icc():quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/image/1561/rtv-48c719.jpg"/>
+  </programme>
+  <programme channel="1561" start="20260427023000 +0000" stop="20260427043000 +0000">
+    <title lang="id">Boonie Bears: Fantastica</title>
+    <desc lang="id">Menceritakan Tentang Adanya Tim Elit, Yang Dikirim Oleh Pemburu Harta Karun Terkenal Dari Dunia Nyata Ke Dunia Animasi Untuk Mencuri Barang Paling Berharga Dan Kuat Di Setiap Alam Semesta. Saat Mengetahui Rencana Jahat Yang Akan Menghancurkan Dunia Animasi Ini, Perkumpulan Para Beruang, Bersama Dengan Vick, Bergabung Dengan Robot Arkeologi. Mereka Memulai Perjalanan Untuk Menyelamatkan Dunia Mereka Dan Menemukan Tanduk Emas Legendaris Milik Klan Rusa Sebelum Para Penjahat Menemukannya. Dari Gunung Pohon Pinus Hingga Hutan Klan Rusa Yang Misterius, Kelompok Ini Bertemu Dengan Banyak Makhluk Aneh Dan Menakjubkan, Termasuk Penjaga Hutan, Seorang Gadis Hutan Ajaib Dari Klan Rusa. Waktu Hampir Habis! Siapa Yang Pertama Kali Mencapai Tanduk Emas? Akankah Dunia Boonie Bears Terselamatkan? Ikuti Kami Dalam Petualangan Tak Terlupakan Melalui Dunia Yang Terjerat Ini!</desc>
+    <icon src="https://thumbor.prod.vidiocdn.com/t3kH69uTKMJbATwgkOSlzYNI1zA=/287x162/filters:strip_icc():quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/image/1561/rtv-48c719.jpg"/>
+  </programme>
+  <programme channel="1561" start="20260427043000 +0000" stop="20260427053000 +0000">
+    <title lang="id">Blox Buster</title>
+    <desc lang="id">Blox Buster Adalah Program Entertainment Yang Menghadirkan Keseruan Bermain Di Dunia Roblox, Platform Game Populer Dengan Jutaan Kreasi Dari Komunitas Global, Penonton Diajak Menjelajahi Berbagai Dunia Virtual Yang Penuh Warna, Menantang, Sekaligus Menyenangkan. Tidak Hanya Sekadar Bermain, Main Bareng Blox Juga Menyuguhkan Pengalaman Unik Dari Para Gamers Yang Ikut Serta, Mulai Dari Review Game, Tips Seru, Hingga Momen-Momen Kejutan Yang Terjadi Saat Bermain.</desc>
+    <icon src="https://thumbor.prod.vidiocdn.com/t3kH69uTKMJbATwgkOSlzYNI1zA=/287x162/filters:strip_icc():quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/image/1561/rtv-48c719.jpg"/>
+  </programme>
+  <programme channel="1561" start="20260427053000 +0000" stop="20260427070000 +0000">
+    <title lang="id">Boboiboy</title>
+    <desc lang="id">Animasi Yang Mengisahkan Boboiboy Dan Teman-Temannya Yakni Gopal, Ying, Dan Yaya Yang Masing-Masing Memiliki Kekuatan Super. Dengan Kekuatan Yang Dimiliki Mereka Mencegah Adu Du Mencuri Biji Kakao Tok Aba Yang Digunakan Sebagai Sumber Energi. Selain Itu, Boboiboy Dan Teman-Temannya Menjadi Pahlawan Super Dalam Menumpas Kejahatan Dan Menjaga Kedamaian Bumi.</desc>
+    <icon src="https://thumbor.prod.vidiocdn.com/t3kH69uTKMJbATwgkOSlzYNI1zA=/287x162/filters:strip_icc():quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/image/1561/rtv-48c719.jpg"/>
+  </programme>
+  <programme channel="1561" start="20260427070000 +0000" stop="20260427083000 +0000">
+    <title lang="id">Smurfs</title>
+    <desc lang="id">Sebuah Intro Baru Dibuat Untuk Musim Ini. Pertama, Voltaire Tiba Dan Menjatuhkan Brainy , Papa Smurf , Smurfette , Dan Handy Dari Layar. Ketiganya Menunggangi Punggungnya Saat Ia Melewati Penduduk Desa, Petani , Koki , Dan Hefty . Papa Smurf, Smurfette, Dan Brainy Jatuh Dari Voltaire, Yang Diberi Buah Beri Oleh Lily . Sementara Itu, Baby Dan Monkey Menunggangi Diaper Daddy Dengan Gembira. Kemudian, Adegan Beralih Ke Willow , Yang Sedang Melihat Ke Dalam Bola Kristalnya Dan Merasakan Kehadiran Dua Gadis Smurf , Bubble Dan Firefly , Yang Berada Di Gubuk Gargamel, Salah Satunya Bercahaya Dan Yang Lainnya Memiliki Kepang. Penyihir Jahat Itu Datang Untuk Mencoba Menangkapnya Bersama Azrael , Dwayne, Dan Rowena. Firefly Terjebak, Tetapi Secara Ajaib Berteleportasi Ke Tempat Aman Bersama Bubble. Wild Kemudian Digunakan Sebagai Transisi Ke Desa, Dan Layar Penutup Menampilkan Papa Smurf, Smurfette, Brainy, Jokey , Hefty, Clumsy Dan Dimwitty (Sebagai Anggota Pemadam Kebakaran), Blossom , Storm , Wild, Bubble Dan Firefly.</desc>
+    <icon src="https://thumbor.prod.vidiocdn.com/t3kH69uTKMJbATwgkOSlzYNI1zA=/287x162/filters:strip_icc():quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/image/1561/rtv-48c719.jpg"/>
+  </programme>
+  <programme channel="1561" start="20260427083000 +0000" stop="20260427100000 +0000">
+    <title lang="id">Ejen Ali</title>
+    <desc lang="id">Serial Animasi Dengan Tokoh Utaman Bernama Ali Yang Tidak Sengaja Menjadi Agen Meta Advance Tactical Agency (Mata) Kemudian Dilatih Untuk Menjadi Agen Di Akademi Mata. Ali Membuktikan Diri Bahwa Ia Mampu Menjadi Agen Mata Dan Mengalahkan Musuh Bersama Alicia Dan Paman Bakar.</desc>
+    <icon src="https://thumbor.prod.vidiocdn.com/cNObLtZF_mY6ifeGa_XVEOggOaE=/287x162/filters:strip_icc():quality(70)/vidio-media-production/uploads/tv_program/thumbnail/381795/d9574b.jpg"/>
+  </programme>
+  <programme channel="1561" start="20260427100000 +0000" stop="20260427103000 +0000">
+    <title lang="id">Teletubbies</title>
+    <desc lang="id">Serial Reboot Atau Seri Baru Yang Diluncurkan Pada Tahun 2015 Di Inggris. Versi Ini Menghadirkan Kembali Karakter Ikonik Tinky Winky, Dipsy, Laa-Laa, Dan Po Di Teletubbyland Dengan Visual Yang Diperbarui, Menyapa Generasi Baru Penonton Prasekolah Dengan Nuansa Yang Lebih Modern.</desc>
+    <icon src="https://thumbor.prod.vidiocdn.com/t3kH69uTKMJbATwgkOSlzYNI1zA=/287x162/filters:strip_icc():quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/image/1561/rtv-48c719.jpg"/>
+  </programme>
+  <programme channel="1561" start="20260427103000 +0000" stop="20260427110000 +0000">
+    <title lang="id">Tom &amp; Jerry</title>
+    <desc lang="id">Tom And Jerry Adalah Program Animasi Komedi Yang Berfokus Pada Persaingan Tanpa Henti Antara Seekor Kucing Bernama Tom Dan Seekor Tikus Cerdik Bernama Jerry. Setiap Episode Menampilkan Berbagai Upaya Tom Untuk Menangkap Jerry, Yang Selalu Berakhir Dengan Kegagalan Akibat Kecerdikan Jerry Dan Situasi-Situasi Tak Terduga.</desc>
+    <icon src="https://thumbor.prod.vidiocdn.com/t3kH69uTKMJbATwgkOSlzYNI1zA=/287x162/filters:strip_icc():quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/image/1561/rtv-48c719.jpg"/>
+  </programme>
+  <programme channel="1561" start="20260427110000 +0000" stop="20260427133000 +0000">
+    <title lang="id">Boboiboy Galaxy The Movie</title>
+    <desc lang="id">Boboiboy Galaxy Merupakan Sebuah Kisah Tentang Robot-Robot Power Sphera Yang Dibuat Untuk Memberikan Kekuasaan Besar Kepada Pemiliknya. Namun, Proyek Power Sphera Akhirnya Dianggap Sebagai Proyek Yang Berbahaya Dan Dibatalkan, Sedangkan Power Sphera Yang Lain Melarikan Diri Dan Bersembunyi Di Berbagai Pelosok Galaksi.</desc>
+    <icon src="https://thumbor.prod.vidiocdn.com/t3kH69uTKMJbATwgkOSlzYNI1zA=/287x162/filters:strip_icc():quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/image/1561/rtv-48c719.jpg"/>
+  </programme>
+  <programme channel="1561" start="20260427133000 +0000" stop="20260427143000 +0000">
+    <title lang="id">Mechamato</title>
+    <desc lang="id">Animasi Yang Menceritakan Seorang Anak Laki-Laki Bernama Amato Dalam Menemukan Sebuah Pesawat Ruang Angkasa Penjara Berisi Robot-Robot Jahat Yang Telah Jatuh Ke Bumi. Salah Satu Robot Tersebut Adalah Mechabot Yang Memiliki Kemampuan Untuk Mengubah Objek Sehari-Hari Menjadi Perangkat Berteknologi Tinggi. Amato Berhasil Menginovasi Mechabot Menjadi Master Mechabot. Sejak Itu, Mechabot Dan Amato Mulai Bekerja Sama Untuk Menemukan Dan Menangkap Robot Jahat.</desc>
+    <icon src="https://thumbor.prod.vidiocdn.com/t3kH69uTKMJbATwgkOSlzYNI1zA=/287x162/filters:strip_icc():quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/image/1561/rtv-48c719.jpg"/>
+  </programme>
+  <programme channel="1561" start="20260427143000 +0000" stop="20260427150000 +0000">
+    <title lang="id">Si Paling Trending!</title>
+    <desc lang="id">Program Tv Berjenis Informasi Documentary Yang Mengangkat Suatu Hal Atau Issue Yang Sedang Trending, Dibahas Dari Berbagai Sisi, Dan Dipaparkan Oleh Vo ( Voice Over ). Setiap Segmen Menampilkan Fakta Terunik, Asal Usul, Fenomena Yang Trending.</desc>
+    <icon src="https://thumbor.prod.vidiocdn.com/t3kH69uTKMJbATwgkOSlzYNI1zA=/287x162/filters:strip_icc():quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/image/1561/rtv-48c719.jpg"/>
+  </programme>
+  <programme channel="1561" start="20260427150000 +0000" stop="20260427153000 +0000">
+    <title lang="id">Terkepo-Kepo</title>
+    <desc lang="id">Program Informasi Dokumenter, Menyajikan Berbagai Informasi Yang Dekat Dengan Kehidupan Sehari-Hari Dan Dibahas Dari Berbagai Sudut Pandang Disertai Dengan Pemaparannya. Selain Menghibur, Program Ini Juga Kaya Akan Pengetahuan Sehingga Akan Menambah Banyak Wawasan Bagi Pemirsa.</desc>
+    <icon src="https://thumbor.prod.vidiocdn.com/t3kH69uTKMJbATwgkOSlzYNI1zA=/287x162/filters:strip_icc():quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/image/1561/rtv-48c719.jpg"/>
+  </programme>
+  <programme channel="1561" start="20260427153000 +0000" stop="20260427160000 +0000">
+    <title lang="id">Lensa Indonesia Malam</title>
+    <desc lang="id">Program Berita Yang Menghadirkan Informasi Terkini, Rangkuman Peristiwa Yang Terjadi Dari Malam Hingga Dini Hari Dengan Dua Segmen Khusus, Yaitu Lensa Dunia Dan Lensa Arena Yang Membahas Berbagai Informasi Olahraga Di Indonesia Maupun Mancanegara</desc>
+    <icon src="https://thumbor.prod.vidiocdn.com/t3kH69uTKMJbATwgkOSlzYNI1zA=/287x162/filters:strip_icc():quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/image/1561/rtv-48c719.jpg"/>
+  </programme>
+  <programme channel="1561" start="20260427160000 +0000" stop="20260427163000 +0000">
+    <title lang="id">Ijin, Ndan !</title>
+    <desc lang="id">Ijin, Ndan Adalah Program Crimetainment Yang Menggabungkan Informasi Seputar Kejahatan Dan Kriminalitas Dengan Sketsa Komedi Situasional Yang Berlatar Di Ruang Interogasi Atau Kantor Polisi. Dipandu Oleh Tiga Host Utama Yaitu Komandan Zack, Bro Dim, Dan Miss Binal, Setiap Episodenya Juga Menghadirkan Berbagai Cameo Menarik Seperti Tahanan, Petugas Kebersihan, Hingga Karakter Unik Lainnya Yang Menambah Keseruan. Dengan Gaya Penyajian Yang Ringan, Menghibur, Dan Penuh Humor, Ijin, Ndan Tetap Konsisten Menyampaikan Fakta Aktual Dan Pesan Edukatif Kepada Penonton, Menjadikannya Tontonan Yang Informatif Sekaligus Mengundang Tawa.</desc>
+    <icon src="https://thumbor.prod.vidiocdn.com/t3kH69uTKMJbATwgkOSlzYNI1zA=/287x162/filters:strip_icc():quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/image/1561/rtv-48c719.jpg"/>
+  </programme>
+  <programme channel="1561" start="20260427163000 +0000" stop="20260427165900 +0000">
+    <title lang="id">STB (Sangat Tidak Biasa)</title>
+    <desc lang="id">Program Ini Menghadirkan Kompilasi Informasi Berbagai Macam Issue Dan Topik Yang Akan Dibahas Dari Berbagai Sisi Dan Dipaparkan Oleh Penyulih Suara.</desc>
+    <icon src="https://thumbor.prod.vidiocdn.com/t3kH69uTKMJbATwgkOSlzYNI1zA=/287x162/filters:strip_icc():quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/image/1561/rtv-48c719.jpg"/>
+  </programme>
+  <programme channel="1561" start="20260427170000 +0000" stop="20260427180000 +0000">
+    <title lang="id">Di Ujung Rindu</title>
+    <desc lang="id">Program Reality Show Yang Mengangkat Kisah Seseorang Atas Kerinduannya Terhadap Orang Terkasih Dan Memiliki Harapan Dapat Bertemu Serta Mengenang Moment Indah Kebersamaan Mereka. Program Ini Terbagi Dalam Segmen Curhatan Narsum, Reka Adegan, Dan Satgas Rindu.</desc>
+    <icon src="https://thumbor.prod.vidiocdn.com/t3kH69uTKMJbATwgkOSlzYNI1zA=/287x162/filters:strip_icc():quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/image/1561/rtv-48c719.jpg"/>
+  </programme>
+  <programme channel="1561" start="20260427180000 +0000" stop="20260427183000 +0000">
+    <title lang="id">Cahaya Bagi Negeri</title>
+    <desc lang="id">Sebuah Program Yang Membahas Berbagai Isu Hangat Yang Sedang Ramai Diperbincangkan Masyarakat, Dikupas Dari Sudut Pandang Spiritual Dan Nilai-Nilai Kerohanian.</desc>
+    <icon src="https://thumbor.prod.vidiocdn.com/t3kH69uTKMJbATwgkOSlzYNI1zA=/287x162/filters:strip_icc():quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/image/1561/rtv-48c719.jpg"/>
+  </programme>
+  <programme channel="1561" start="20260427183000 +0000" stop="20260427200000 +0000">
+    <title lang="id">Movinesia</title>
+    <desc lang="id">Sebuah Program Yang Menghadirkan Sederet Film Pilihan Untuk Menemani Aktivitas Anda Dengan Dimeriahkan Oleh Para Pemain &amp; Artis Papan Atas Berbakat, Dengan Cerita Ringan Seputar Kehidupan Remaja.</desc>
+    <icon src="https://thumbor.prod.vidiocdn.com/t3kH69uTKMJbATwgkOSlzYNI1zA=/287x162/filters:strip_icc():quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/image/1561/rtv-48c719.jpg"/>
+  </programme>
+  <programme channel="1561" start="20260427200000 +0000" stop="20260427203000 +0000">
+    <title lang="id">Ustadz On The Road</title>
+    <desc lang="id">Program Religi Yang Dipandu Oleh Seorang Host Dan Ustadz Yang Akan Memberikan Kajian Islami Dengan Treatment On The Road Disertai Dengan Study Kasus. Pembahasan Dilakukan Sepanjang Perjalanan Menuju Lokasi Sesuai Agenda Harian Ustadz. Program Ini Akan Disajikan Secara Ringan Dan Menyenangkan.</desc>
+    <icon src="https://thumbor.prod.vidiocdn.com/t3kH69uTKMJbATwgkOSlzYNI1zA=/287x162/filters:strip_icc():quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/image/1561/rtv-48c719.jpg"/>
+  </programme>
+  <programme channel="1561" start="20260427203000 +0000" stop="20260427213000 +0000">
+    <title lang="id">Marsupilami</title>
+    <desc lang="id">Hector Ikut Dengan Tantenya, Diane, Untuk Menghabiskan Satu Tahun Di Hutan Agar Dia Dapat Mempelajari Flora Dan Fauna. Sebagai Seorang Anak Laki-Laki Yang Senang Akan Petualangan, Ia Berteman Baik Dengan Marsupilami Yang Legendaris. Hector Memiliki Keluarga Baru Yang Menyenangkan Dengan Hidup Di Antara Hewan - Hewan Tersebut. Suatu Hari, Kehidupan Barunya Yang Menyenangkan Di Hutan Tiba-Tiba Terancam Dengan Kedatangan Felicia Devort, Seorang Industrialis Megalomaniak Yang Ingin Merusak Hutan Untuk Membangun Kota Devort Di Lokasi Hutan Itu.</desc>
+    <icon src="https://thumbor.prod.vidiocdn.com/t3kH69uTKMJbATwgkOSlzYNI1zA=/287x162/filters:strip_icc():quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/image/1561/rtv-48c719.jpg"/>
+  </programme>
+  <programme channel="1561" start="20260427213000 +0000" stop="20260427220000 +0000">
+    <title lang="id">Ibra Berkisah</title>
+    <desc lang="id">Ibrahim Atau Ibra Adalah Murid Pesantren Yang Santun Dan Selalu Mengajak Teman-Temannya Untuk Meneladani Nabi Muhammad Saw, Dia Pun Sejak Kecil Sudah Tinggal Di Pesantren. Ibra Memiliki Teman Bernama Tokek Dan Hoho. Tokek Adalah Anak Yang Lucu Dan Periang, Sedangkan Hoho Adalah Seorang Anak Jakarta Yang Dilahirkan Dari Keluarga Kaya Raya, Sifatnya Manja Dan Tidak Mengerti Sama Sekali Tentang Islam. Selama Di Pesantren, Hoho Sekamar Dengan Ibra Yang Mana Di Perkenalan Awal Mereka, Hoho Menganggap Remeh Ibra Yang Dia Anggap Sebagai Anak Kampung. Tapi Ternyata Dari Ibra Lah Hoho Banyak Mendapatkan Pelajaran Hidup Dan Kisah-Kisah Teladan Nabi Muhammad Shalallahu Alaihi Wassalam.</desc>
+    <icon src="https://thumbor.prod.vidiocdn.com/aLFhQklhzRRCXpwI3kUgIUTdzPo=/287x162/filters:strip_icc():quality(70)/vidio-media-production/uploads/tv_program/thumbnail/383737/117866.jpg"/>
+  </programme>
+  <programme channel="1561" start="20260427220000 +0000" stop="20260427233000 +0000">
+    <title lang="id">Teletubbies</title>
+    <desc lang="id">Serial Reboot Atau Seri Baru Yang Diluncurkan Pada Tahun 2015 Di Inggris. Versi Ini Menghadirkan Kembali Karakter Ikonik Tinky Winky, Dipsy, Laa-Laa, Dan Po Di Teletubbyland Dengan Visual Yang Diperbarui, Menyapa Generasi Baru Penonton Prasekolah Dengan Nuansa Yang Lebih Modern.</desc>
+    <icon src="https://thumbor.prod.vidiocdn.com/t3kH69uTKMJbATwgkOSlzYNI1zA=/287x162/filters:strip_icc():quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/image/1561/rtv-48c719.jpg"/>
+  </programme>
+  <programme channel="1561" start="20260427233000 +0000" stop="20260428010000 +0000">
+    <title lang="id">Bread Barbershop</title>
+    <desc lang="id">Bread, Seorang Tukang Cukur Jenius, Memecahkan Masalah Penampilan Dengan Keterampilan Memotong Rambutnya Yang Briliant. Sekarang Dia Hadir Untuk Memecahkan Masalah Para Bintang Di Bakery Town. Bertentangan Dengan Penampilan Mereka Yang Glamor Dan Bersinar, Para Selebriti Ini Menjalani Hari Yang Sangat Suram. Bread Dan Keluarganya Siap Membantu Para Selebriti Untuk Menemukan Lagi Kebahagiaan Mereka.</desc>
+    <icon src="https://thumbor.prod.vidiocdn.com/t3kH69uTKMJbATwgkOSlzYNI1zA=/287x162/filters:strip_icc():quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/image/1561/rtv-48c719.jpg"/>
+  </programme>
+  <programme channel="1561" start="20260428010000 +0000" stop="20260428023000 +0000">
+    <title lang="id">Grizzy And The Lemmings</title>
+    <desc lang="id">Grizzy &amp; The Lemmings Merupakan Animasi Yang Menceritakan Tentang Seekor Beruang Grizzly Yang Bernama Grizzy Dan Sekawanan Leming Yang Selalu Ingin "Bermain" Dengan Grizzy Setiap Harinya Sehingga Banyak Cerita Dan Petualangan Yang Menarik Dari Mereka.</desc>
+    <icon src="https://thumbor.prod.vidiocdn.com/t3kH69uTKMJbATwgkOSlzYNI1zA=/287x162/filters:strip_icc():quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/image/1561/rtv-48c719.jpg"/>
+  </programme>
+  <programme channel="1561" start="20260428023000 +0000" stop="20260428043000 +0000">
+    <title lang="id">Boonie Bears: To The Rescue!</title>
+    <desc lang="id">Briar, Bramble Dan Logger Vick Terkejut Menemukan Bayi Perempuan Mungil Di Rumah Mereka Di Antara Pepohonan Pinus. Untuk Merawatnya. Namun Bagaimana Ketika Mereka Menjalani Kursus Kilat Dalam Perawatan Bayi. Kemudian, Tanpa Mereka Sangka Bahaya Mengintai Dikarenakan Datangnya Bayi Yang Bernama Lola Tanpa Sepengetahuan Mereka, Paman Lola Sendiri Yang Sedang Mengikuti Jejak Bayi Lucu Ini Melalui Anak Buahnya Arnold Dan Maurice, Dan Tidak Akan Berhenti Sampai Mereka Berhasil Menangkapnya. Apakah Lola Berhasil Diselamatkan Dari Ambisi Paman Lola Yang Ingin Menguasai Kekayaan Ayah Lola Yang Telah Meninggal?</desc>
+    <icon src="https://thumbor.prod.vidiocdn.com/t3kH69uTKMJbATwgkOSlzYNI1zA=/287x162/filters:strip_icc():quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/image/1561/rtv-48c719.jpg"/>
+  </programme>
+  <programme channel="1561" start="20260428043000 +0000" stop="20260428053000 +0000">
+    <title lang="id">Blox Buster</title>
+    <desc lang="id">Blox Buster Adalah Program Entertainment Yang Menghadirkan Keseruan Bermain Di Dunia Roblox, Platform Game Populer Dengan Jutaan Kreasi Dari Komunitas Global, Penonton Diajak Menjelajahi Berbagai Dunia Virtual Yang Penuh Warna, Menantang, Sekaligus Menyenangkan. Tidak Hanya Sekadar Bermain, Main Bareng Blox Juga Menyuguhkan Pengalaman Unik Dari Para Gamers Yang Ikut Serta, Mulai Dari Review Game, Tips Seru, Hingga Momen-Momen Kejutan Yang Terjadi Saat Bermain.</desc>
+    <icon src="https://thumbor.prod.vidiocdn.com/t3kH69uTKMJbATwgkOSlzYNI1zA=/287x162/filters:strip_icc():quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/image/1561/rtv-48c719.jpg"/>
+  </programme>
+  <programme channel="1561" start="20260428053000 +0000" stop="20260428070000 +0000">
+    <title lang="id">Boboiboy</title>
+    <desc lang="id">Animasi Yang Mengisahkan Boboiboy Dan Teman-Temannya Yakni Gopal, Ying, Dan Yaya Yang Masing-Masing Memiliki Kekuatan Super. Dengan Kekuatan Yang Dimiliki Mereka Mencegah Adu Du Mencuri Biji Kakao Tok Aba Yang Digunakan Sebagai Sumber Energi. Selain Itu, Boboiboy Dan Teman-Temannya Menjadi Pahlawan Super Dalam Menumpas Kejahatan Dan Menjaga Kedamaian Bumi.</desc>
+    <icon src="https://thumbor.prod.vidiocdn.com/t3kH69uTKMJbATwgkOSlzYNI1zA=/287x162/filters:strip_icc():quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/image/1561/rtv-48c719.jpg"/>
+  </programme>
+  <programme channel="1561" start="20260428070000 +0000" stop="20260428083000 +0000">
+    <title lang="id">Smurfs</title>
+    <desc lang="id">Sebuah Intro Baru Dibuat Untuk Musim Ini. Pertama, Voltaire Tiba Dan Menjatuhkan Brainy , Papa Smurf , Smurfette , Dan Handy Dari Layar. Ketiganya Menunggangi Punggungnya Saat Ia Melewati Penduduk Desa, Petani , Koki , Dan Hefty . Papa Smurf, Smurfette, Dan Brainy Jatuh Dari Voltaire, Yang Diberi Buah Beri Oleh Lily . Sementara Itu, Baby Dan Monkey Menunggangi Diaper Daddy Dengan Gembira. Kemudian, Adegan Beralih Ke Willow , Yang Sedang Melihat Ke Dalam Bola Kristalnya Dan Merasakan Kehadiran Dua Gadis Smurf , Bubble Dan Firefly , Yang Berada Di Gubuk Gargamel, Salah Satunya Bercahaya Dan Yang Lainnya Memiliki Kepang. Penyihir Jahat Itu Datang Untuk Mencoba Menangkapnya Bersama Azrael , Dwayne, Dan Rowena. Firefly Terjebak, Tetapi Secara Ajaib Berteleportasi Ke Tempat Aman Bersama Bubble. Wild Kemudian Digunakan Sebagai Transisi Ke Desa, Dan Layar Penutup Menampilkan Papa Smurf, Smurfette, Brainy, Jokey , Hefty, Clumsy Dan Dimwitty (Sebagai Anggota Pemadam Kebakaran), Blossom , Storm , Wild, Bubble Dan Firefly.</desc>
+    <icon src="https://thumbor.prod.vidiocdn.com/t3kH69uTKMJbATwgkOSlzYNI1zA=/287x162/filters:strip_icc():quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/image/1561/rtv-48c719.jpg"/>
+  </programme>
+  <programme channel="1561" start="20260428083000 +0000" stop="20260428100000 +0000">
+    <title lang="id">Ejen Ali</title>
+    <desc lang="id">Serial Animasi Dengan Tokoh Utaman Bernama Ali Yang Tidak Sengaja Menjadi Agen Meta Advance Tactical Agency (Mata) Kemudian Dilatih Untuk Menjadi Agen Di Akademi Mata. Ali Membuktikan Diri Bahwa Ia Mampu Menjadi Agen Mata Dan Mengalahkan Musuh Bersama Alicia Dan Paman Bakar.</desc>
+    <icon src="https://thumbor.prod.vidiocdn.com/cNObLtZF_mY6ifeGa_XVEOggOaE=/287x162/filters:strip_icc():quality(70)/vidio-media-production/uploads/tv_program/thumbnail/381795/d9574b.jpg"/>
+  </programme>
+  <programme channel="1561" start="20260428100000 +0000" stop="20260428103000 +0000">
+    <title lang="id">Teletubbies</title>
+    <desc lang="id">Serial Reboot Atau Seri Baru Yang Diluncurkan Pada Tahun 2015 Di Inggris. Versi Ini Menghadirkan Kembali Karakter Ikonik Tinky Winky, Dipsy, Laa-Laa, Dan Po Di Teletubbyland Dengan Visual Yang Diperbarui, Menyapa Generasi Baru Penonton Prasekolah Dengan Nuansa Yang Lebih Modern.</desc>
+    <icon src="https://thumbor.prod.vidiocdn.com/t3kH69uTKMJbATwgkOSlzYNI1zA=/287x162/filters:strip_icc():quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/image/1561/rtv-48c719.jpg"/>
+  </programme>
+  <programme channel="1561" start="20260428103000 +0000" stop="20260428110000 +0000">
+    <title lang="id">Tom &amp; Jerry</title>
+    <desc lang="id">Tom And Jerry Adalah Program Animasi Komedi Yang Berfokus Pada Persaingan Tanpa Henti Antara Seekor Kucing Bernama Tom Dan Seekor Tikus Cerdik Bernama Jerry. Setiap Episode Menampilkan Berbagai Upaya Tom Untuk Menangkap Jerry, Yang Selalu Berakhir Dengan Kegagalan Akibat Kecerdikan Jerry Dan Situasi-Situasi Tak Terduga.</desc>
+    <icon src="https://thumbor.prod.vidiocdn.com/t3kH69uTKMJbATwgkOSlzYNI1zA=/287x162/filters:strip_icc():quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/image/1561/rtv-48c719.jpg"/>
+  </programme>
+  <programme channel="1561" start="20260428110000 +0000" stop="20260428133000 +0000">
+    <title lang="id">Boboiboy Galaxy Sori The Movie</title>
+    <desc lang="id">Boboiboy Galaxy Sori Merupakan Sekuel Lanjutan Dari Boboiboy The Movie 2, Dimana Setelah Boboiboy Berhasil Mengalahkan Retak'Ka, Penguasa Elemen Yang Kejam. Boboiboy Dan Teman-Temannya Pulang Ke Bumi Untuk Menunggu Tugas Selanjutnya. Tanpa Diduga, Seorang Musuh Lama Muncul Kembali Dengan Rencana Jahat Yang Baru. Boboiboy Harus Mempelajari Kekuatan Elemen Tahap Ketiga Di Planet Rimbara, Bekas Jajahan King Balakung, Pemilik Asli Kuasa Elemental Balak Yang Tewas Ditangan Retak'Ka.</desc>
+    <icon src="https://thumbor.prod.vidiocdn.com/t3kH69uTKMJbATwgkOSlzYNI1zA=/287x162/filters:strip_icc():quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/image/1561/rtv-48c719.jpg"/>
+  </programme>
+  <programme channel="1561" start="20260428133000 +0000" stop="20260428143000 +0000">
+    <title lang="id">Mechamato</title>
+    <desc lang="id">Animasi Yang Menceritakan Seorang Anak Laki-Laki Bernama Amato Dalam Menemukan Sebuah Pesawat Ruang Angkasa Penjara Berisi Robot-Robot Jahat Yang Telah Jatuh Ke Bumi. Salah Satu Robot Tersebut Adalah Mechabot Yang Memiliki Kemampuan Untuk Mengubah Objek Sehari-Hari Menjadi Perangkat Berteknologi Tinggi. Amato Berhasil Menginovasi Mechabot Menjadi Master Mechabot. Sejak Itu, Mechabot Dan Amato Mulai Bekerja Sama Untuk Menemukan Dan Menangkap Robot Jahat.</desc>
+    <icon src="https://thumbor.prod.vidiocdn.com/t3kH69uTKMJbATwgkOSlzYNI1zA=/287x162/filters:strip_icc():quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/image/1561/rtv-48c719.jpg"/>
+  </programme>
+  <programme channel="1561" start="20260428143000 +0000" stop="20260428150000 +0000">
+    <title lang="id">Blox Buster</title>
+    <desc lang="id">Blox Buster Adalah Program Entertainment Yang Menghadirkan Keseruan Bermain Di Dunia Roblox, Platform Game Populer Dengan Jutaan Kreasi Dari Komunitas Global, Penonton Diajak Menjelajahi Berbagai Dunia Virtual Yang Penuh Warna, Menantang, Sekaligus Menyenangkan. Tidak Hanya Sekadar Bermain, Main Bareng Blox Juga Menyuguhkan Pengalaman Unik Dari Para Gamers Yang Ikut Serta, Mulai Dari Review Game, Tips Seru, Hingga Momen-Momen Kejutan Yang Terjadi Saat Bermain.</desc>
+    <icon src="https://thumbor.prod.vidiocdn.com/t3kH69uTKMJbATwgkOSlzYNI1zA=/287x162/filters:strip_icc():quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/image/1561/rtv-48c719.jpg"/>
+  </programme>
+  <programme channel="1561" start="20260428150000 +0000" stop="20260428153000 +0000">
+    <title lang="id">Terkepo-Kepo</title>
+    <desc lang="id">Program Informasi Dokumenter, Menyajikan Berbagai Informasi Yang Dekat Dengan Kehidupan Sehari-Hari Dan Dibahas Dari Berbagai Sudut Pandang Disertai Dengan Pemaparannya. Selain Menghibur, Program Ini Juga Kaya Akan Pengetahuan Sehingga Akan Menambah Banyak Wawasan Bagi Pemirsa.</desc>
+    <icon src="https://thumbor.prod.vidiocdn.com/t3kH69uTKMJbATwgkOSlzYNI1zA=/287x162/filters:strip_icc():quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/image/1561/rtv-48c719.jpg"/>
+  </programme>
+  <programme channel="1561" start="20260428153000 +0000" stop="20260428160000 +0000">
+    <title lang="id">Lensa Indonesia Malam</title>
+    <desc lang="id">Program Berita Yang Menghadirkan Informasi Terkini, Rangkuman Peristiwa Yang Terjadi Dari Malam Hingga Dini Hari Dengan Dua Segmen Khusus, Yaitu Lensa Dunia Dan Lensa Arena Yang Membahas Berbagai Informasi Olahraga Di Indonesia Maupun Mancanegara</desc>
+    <icon src="https://thumbor.prod.vidiocdn.com/t3kH69uTKMJbATwgkOSlzYNI1zA=/287x162/filters:strip_icc():quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/image/1561/rtv-48c719.jpg"/>
+  </programme>
+  <programme channel="1561" start="20260428160000 +0000" stop="20260428163000 +0000">
+    <title lang="id">Ijin, Ndan !</title>
+    <desc lang="id">Ijin, Ndan Adalah Program Crimetainment Yang Menggabungkan Informasi Seputar Kejahatan Dan Kriminalitas Dengan Sketsa Komedi Situasional Yang Berlatar Di Ruang Interogasi Atau Kantor Polisi. Dipandu Oleh Tiga Host Utama Yaitu Komandan Zack, Bro Dim, Dan Miss Binal, Setiap Episodenya Juga Menghadirkan Berbagai Cameo Menarik Seperti Tahanan, Petugas Kebersihan, Hingga Karakter Unik Lainnya Yang Menambah Keseruan. Dengan Gaya Penyajian Yang Ringan, Menghibur, Dan Penuh Humor, Ijin, Ndan Tetap Konsisten Menyampaikan Fakta Aktual Dan Pesan Edukatif Kepada Penonton, Menjadikannya Tontonan Yang Informatif Sekaligus Mengundang Tawa.</desc>
+    <icon src="https://thumbor.prod.vidiocdn.com/t3kH69uTKMJbATwgkOSlzYNI1zA=/287x162/filters:strip_icc():quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/image/1561/rtv-48c719.jpg"/>
+  </programme>
+  <programme channel="1561" start="20260428163000 +0000" stop="20260428165900 +0000">
+    <title lang="id">STB (Sangat Tidak Biasa)</title>
+    <desc lang="id">Program Ini Menghadirkan Kompilasi Informasi Berbagai Macam Issue Dan Topik Yang Akan Dibahas Dari Berbagai Sisi Dan Dipaparkan Oleh Penyulih Suara.</desc>
+    <icon src="https://thumbor.prod.vidiocdn.com/t3kH69uTKMJbATwgkOSlzYNI1zA=/287x162/filters:strip_icc():quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/image/1561/rtv-48c719.jpg"/>
+  </programme>
+  <programme channel="1561" start="20260428170000 +0000" stop="20260428180000 +0000">
+    <title lang="id">Di Ujung Rindu</title>
+    <desc lang="id">Program Reality Show Yang Mengangkat Kisah Seseorang Atas Kerinduannya Terhadap Orang Terkasih Dan Memiliki Harapan Dapat Bertemu Serta Mengenang Moment Indah Kebersamaan Mereka. Program Ini Terbagi Dalam Segmen Curhatan Narsum, Reka Adegan, Dan Satgas Rindu.</desc>
+    <icon src="https://thumbor.prod.vidiocdn.com/t3kH69uTKMJbATwgkOSlzYNI1zA=/287x162/filters:strip_icc():quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/image/1561/rtv-48c719.jpg"/>
+  </programme>
+  <programme channel="1561" start="20260428180000 +0000" stop="20260428183000 +0000">
+    <title lang="id">Cahaya Bagi Negeri</title>
+    <desc lang="id">Sebuah Program Yang Membahas Berbagai Isu Hangat Yang Sedang Ramai Diperbincangkan Masyarakat, Dikupas Dari Sudut Pandang Spiritual Dan Nilai-Nilai Kerohanian.</desc>
+    <icon src="https://thumbor.prod.vidiocdn.com/t3kH69uTKMJbATwgkOSlzYNI1zA=/287x162/filters:strip_icc():quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/image/1561/rtv-48c719.jpg"/>
+  </programme>
+  <programme channel="1561" start="20260428183000 +0000" stop="20260428200000 +0000">
+    <title lang="id">Movinesia</title>
+    <desc lang="id">Sebuah Program Yang Menghadirkan Sederet Film Pilihan Untuk Menemani Aktivitas Anda Dengan Dimeriahkan Oleh Para Pemain &amp; Artis Papan Atas Berbakat, Dengan Cerita Ringan Seputar Kehidupan Remaja.</desc>
+    <icon src="https://thumbor.prod.vidiocdn.com/t3kH69uTKMJbATwgkOSlzYNI1zA=/287x162/filters:strip_icc():quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/image/1561/rtv-48c719.jpg"/>
+  </programme>
+  <programme channel="1561" start="20260428200000 +0000" stop="20260428203000 +0000">
+    <title lang="id">Ustadz On The Road</title>
+    <desc lang="id">Program Religi Yang Dipandu Oleh Seorang Host Dan Ustadz Yang Akan Memberikan Kajian Islami Dengan Treatment On The Road Disertai Dengan Study Kasus. Pembahasan Dilakukan Sepanjang Perjalanan Menuju Lokasi Sesuai Agenda Harian Ustadz. Program Ini Akan Disajikan Secara Ringan Dan Menyenangkan.</desc>
+    <icon src="https://thumbor.prod.vidiocdn.com/t3kH69uTKMJbATwgkOSlzYNI1zA=/287x162/filters:strip_icc():quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/image/1561/rtv-48c719.jpg"/>
+  </programme>
+  <programme channel="1561" start="20260428203000 +0000" stop="20260428213000 +0000">
+    <title lang="id">Marsupilami</title>
+    <desc lang="id">Hector Ikut Dengan Tantenya, Diane, Untuk Menghabiskan Satu Tahun Di Hutan Agar Dia Dapat Mempelajari Flora Dan Fauna. Sebagai Seorang Anak Laki-Laki Yang Senang Akan Petualangan, Ia Berteman Baik Dengan Marsupilami Yang Legendaris. Hector Memiliki Keluarga Baru Yang Menyenangkan Dengan Hidup Di Antara Hewan - Hewan Tersebut. Suatu Hari, Kehidupan Barunya Yang Menyenangkan Di Hutan Tiba-Tiba Terancam Dengan Kedatangan Felicia Devort, Seorang Industrialis Megalomaniak Yang Ingin Merusak Hutan Untuk Membangun Kota Devort Di Lokasi Hutan Itu.</desc>
+    <icon src="https://thumbor.prod.vidiocdn.com/t3kH69uTKMJbATwgkOSlzYNI1zA=/287x162/filters:strip_icc():quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/image/1561/rtv-48c719.jpg"/>
+  </programme>
+  <programme channel="1561" start="20260428213000 +0000" stop="20260428220000 +0000">
+    <title lang="id">Ibra Berkisah</title>
+    <desc lang="id">Ibrahim Atau Ibra Adalah Murid Pesantren Yang Santun Dan Selalu Mengajak Teman-Temannya Untuk Meneladani Nabi Muhammad Saw, Dia Pun Sejak Kecil Sudah Tinggal Di Pesantren. Ibra Memiliki Teman Bernama Tokek Dan Hoho. Tokek Adalah Anak Yang Lucu Dan Periang, Sedangkan Hoho Adalah Seorang Anak Jakarta Yang Dilahirkan Dari Keluarga Kaya Raya, Sifatnya Manja Dan Tidak Mengerti Sama Sekali Tentang Islam. Selama Di Pesantren, Hoho Sekamar Dengan Ibra Yang Mana Di Perkenalan Awal Mereka, Hoho Menganggap Remeh Ibra Yang Dia Anggap Sebagai Anak Kampung. Tapi Ternyata Dari Ibra Lah Hoho Banyak Mendapatkan Pelajaran Hidup Dan Kisah-Kisah Teladan Nabi Muhammad Shalallahu Alaihi Wassalam.</desc>
+    <icon src="https://thumbor.prod.vidiocdn.com/aLFhQklhzRRCXpwI3kUgIUTdzPo=/287x162/filters:strip_icc():quality(70)/vidio-media-production/uploads/tv_program/thumbnail/383737/117866.jpg"/>
+  </programme>
+  <programme channel="1561" start="20260428220000 +0000" stop="20260428233000 +0000">
+    <title lang="id">Teletubbies</title>
+    <desc lang="id">Serial Reboot Atau Seri Baru Yang Diluncurkan Pada Tahun 2015 Di Inggris. Versi Ini Menghadirkan Kembali Karakter Ikonik Tinky Winky, Dipsy, Laa-Laa, Dan Po Di Teletubbyland Dengan Visual Yang Diperbarui, Menyapa Generasi Baru Penonton Prasekolah Dengan Nuansa Yang Lebih Modern.</desc>
+    <icon src="https://thumbor.prod.vidiocdn.com/t3kH69uTKMJbATwgkOSlzYNI1zA=/287x162/filters:strip_icc():quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/image/1561/rtv-48c719.jpg"/>
+  </programme>
+  <programme channel="1561" start="20260428233000 +0000" stop="20260429010000 +0000">
+    <title lang="id">Bread Barbershop</title>
+    <desc lang="id">Bread, Seorang Tukang Cukur Jenius, Memecahkan Masalah Penampilan Dengan Keterampilan Memotong Rambutnya Yang Briliant. Sekarang Dia Hadir Untuk Memecahkan Masalah Para Bintang Di Bakery Town. Bertentangan Dengan Penampilan Mereka Yang Glamor Dan Bersinar, Para Selebriti Ini Menjalani Hari Yang Sangat Suram. Bread Dan Keluarganya Siap Membantu Para Selebriti Untuk Menemukan Lagi Kebahagiaan Mereka.</desc>
+    <icon src="https://thumbor.prod.vidiocdn.com/t3kH69uTKMJbATwgkOSlzYNI1zA=/287x162/filters:strip_icc():quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/image/1561/rtv-48c719.jpg"/>
+  </programme>
+  <programme channel="1561" start="20260429010000 +0000" stop="20260429023000 +0000">
+    <title lang="id">Grizzy And The Lemmings</title>
+    <desc lang="id">Grizzy &amp; The Lemmings Merupakan Animasi Yang Menceritakan Tentang Seekor Beruang Grizzly Yang Bernama Grizzy Dan Sekawanan Leming Yang Selalu Ingin "Bermain" Dengan Grizzy Setiap Harinya Sehingga Banyak Cerita Dan Petualangan Yang Menarik Dari Mereka.</desc>
+    <icon src="https://thumbor.prod.vidiocdn.com/t3kH69uTKMJbATwgkOSlzYNI1zA=/287x162/filters:strip_icc():quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/image/1561/rtv-48c719.jpg"/>
+  </programme>
+  <programme channel="1561" start="20260429023000 +0000" stop="20260429043000 +0000">
+    <title lang="id">Boonie Bears: Mystical Winter</title>
+    <desc lang="id">Badai Salju Yang Sangat Lebat Di Gunung Pohon Pinus Membuat Segalanya Membeku. Makhluk Aneh Namun Agak Familiar Muncul Dan Menyebabkan Kenangan Masa Muda Bramble Muncul Kembali. Sekelompok Orang Asing Datang Mencoba Memburu Makhluk Misterius Itu, Meninggalkan Tempat Ini Dalam Kekacauan. Dari Teman Bermain Masa Kecil Hingga Sekarang Menjadi Musuh, Ternyata Briar, Bramble Dan Logger Vick Memiliki Sejarah Yang Lebih Dalam Dari Yang Kita Bayangkan. Sekarang Mereka Menghadapi Musim Dingin Paling Keras Yang Pernah Mereka Alami, Bersama Dengan Musuh Jenis Baru Yang Mengancam Untuk Menghancurkan Seluruh Gunung, Akankah Mereka Terus Bermusuhan Satu Sama Lain, Atau Berjabat Tangan Dan Berjuang Bersama Untuk Mempertahankan Tanah Air Mereka?</desc>
+    <icon src="https://thumbor.prod.vidiocdn.com/t3kH69uTKMJbATwgkOSlzYNI1zA=/287x162/filters:strip_icc():quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/image/1561/rtv-48c719.jpg"/>
+  </programme>
+  <programme channel="1561" start="20260429043000 +0000" stop="20260429053000 +0000">
+    <title lang="id">Blox Buster</title>
+    <desc lang="id">Blox Buster Adalah Program Entertainment Yang Menghadirkan Keseruan Bermain Di Dunia Roblox, Platform Game Populer Dengan Jutaan Kreasi Dari Komunitas Global, Penonton Diajak Menjelajahi Berbagai Dunia Virtual Yang Penuh Warna, Menantang, Sekaligus Menyenangkan. Tidak Hanya Sekadar Bermain, Main Bareng Blox Juga Menyuguhkan Pengalaman Unik Dari Para Gamers Yang Ikut Serta, Mulai Dari Review Game, Tips Seru, Hingga Momen-Momen Kejutan Yang Terjadi Saat Bermain.</desc>
+    <icon src="https://thumbor.prod.vidiocdn.com/t3kH69uTKMJbATwgkOSlzYNI1zA=/287x162/filters:strip_icc():quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/image/1561/rtv-48c719.jpg"/>
+  </programme>
+  <programme channel="1561" start="20260429053000 +0000" stop="20260429070000 +0000">
+    <title lang="id">Boboiboy</title>
+    <desc lang="id">Animasi Yang Mengisahkan Boboiboy Dan Teman-Temannya Yakni Gopal, Ying, Dan Yaya Yang Masing-Masing Memiliki Kekuatan Super. Dengan Kekuatan Yang Dimiliki Mereka Mencegah Adu Du Mencuri Biji Kakao Tok Aba Yang Digunakan Sebagai Sumber Energi. Selain Itu, Boboiboy Dan Teman-Temannya Menjadi Pahlawan Super Dalam Menumpas Kejahatan Dan Menjaga Kedamaian Bumi.</desc>
+    <icon src="https://thumbor.prod.vidiocdn.com/t3kH69uTKMJbATwgkOSlzYNI1zA=/287x162/filters:strip_icc():quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/image/1561/rtv-48c719.jpg"/>
+  </programme>
+  <programme channel="1561" start="20260429070000 +0000" stop="20260429083000 +0000">
+    <title lang="id">Smurfs</title>
+    <desc lang="id">Sebuah Intro Baru Dibuat Untuk Musim Ini. Pertama, Voltaire Tiba Dan Menjatuhkan Brainy , Papa Smurf , Smurfette , Dan Handy Dari Layar. Ketiganya Menunggangi Punggungnya Saat Ia Melewati Penduduk Desa, Petani , Koki , Dan Hefty . Papa Smurf, Smurfette, Dan Brainy Jatuh Dari Voltaire, Yang Diberi Buah Beri Oleh Lily . Sementara Itu, Baby Dan Monkey Menunggangi Diaper Daddy Dengan Gembira. Kemudian, Adegan Beralih Ke Willow , Yang Sedang Melihat Ke Dalam Bola Kristalnya Dan Merasakan Kehadiran Dua Gadis Smurf , Bubble Dan Firefly , Yang Berada Di Gubuk Gargamel, Salah Satunya Bercahaya Dan Yang Lainnya Memiliki Kepang. Penyihir Jahat Itu Datang Untuk Mencoba Menangkapnya Bersama Azrael , Dwayne, Dan Rowena. Firefly Terjebak, Tetapi Secara Ajaib Berteleportasi Ke Tempat Aman Bersama Bubble. Wild Kemudian Digunakan Sebagai Transisi Ke Desa, Dan Layar Penutup Menampilkan Papa Smurf, Smurfette, Brainy, Jokey , Hefty, Clumsy Dan Dimwitty (Sebagai Anggota Pemadam Kebakaran), Blossom , Storm , Wild, Bubble Dan Firefly.</desc>
+    <icon src="https://thumbor.prod.vidiocdn.com/t3kH69uTKMJbATwgkOSlzYNI1zA=/287x162/filters:strip_icc():quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/image/1561/rtv-48c719.jpg"/>
+  </programme>
+  <programme channel="1561" start="20260429083000 +0000" stop="20260429100000 +0000">
+    <title lang="id">Ejen Ali</title>
+    <desc lang="id">Serial Animasi Dengan Tokoh Utaman Bernama Ali Yang Tidak Sengaja Menjadi Agen Meta Advance Tactical Agency (Mata) Kemudian Dilatih Untuk Menjadi Agen Di Akademi Mata. Ali Membuktikan Diri Bahwa Ia Mampu Menjadi Agen Mata Dan Mengalahkan Musuh Bersama Alicia Dan Paman Bakar.</desc>
+    <icon src="https://thumbor.prod.vidiocdn.com/cNObLtZF_mY6ifeGa_XVEOggOaE=/287x162/filters:strip_icc():quality(70)/vidio-media-production/uploads/tv_program/thumbnail/381795/d9574b.jpg"/>
+  </programme>
+  <programme channel="1561" start="20260429100000 +0000" stop="20260429103000 +0000">
+    <title lang="id">Teletubbies</title>
+    <desc lang="id">Serial Reboot Atau Seri Baru Yang Diluncurkan Pada Tahun 2015 Di Inggris. Versi Ini Menghadirkan Kembali Karakter Ikonik Tinky Winky, Dipsy, Laa-Laa, Dan Po Di Teletubbyland Dengan Visual Yang Diperbarui, Menyapa Generasi Baru Penonton Prasekolah Dengan Nuansa Yang Lebih Modern.</desc>
+    <icon src="https://thumbor.prod.vidiocdn.com/t3kH69uTKMJbATwgkOSlzYNI1zA=/287x162/filters:strip_icc():quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/image/1561/rtv-48c719.jpg"/>
+  </programme>
+  <programme channel="1561" start="20260429103000 +0000" stop="20260429110000 +0000">
+    <title lang="id">Tom &amp; Jerry</title>
+    <desc lang="id">Tom And Jerry Adalah Program Animasi Komedi Yang Berfokus Pada Persaingan Tanpa Henti Antara Seekor Kucing Bernama Tom Dan Seekor Tikus Cerdik Bernama Jerry. Setiap Episode Menampilkan Berbagai Upaya Tom Untuk Menangkap Jerry, Yang Selalu Berakhir Dengan Kegagalan Akibat Kecerdikan Jerry Dan Situasi-Situasi Tak Terduga.</desc>
+    <icon src="https://thumbor.prod.vidiocdn.com/t3kH69uTKMJbATwgkOSlzYNI1zA=/287x162/filters:strip_icc():quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/image/1561/rtv-48c719.jpg"/>
+  </programme>
+  <programme channel="1561" start="20260429110000 +0000" stop="20260429133000 +0000">
+    <title lang="id">Boboiboy Galaxy Windara The Movie</title>
+    <desc lang="id">Busur Windara Terjadi Di Kerajaan Planet Windara. Seorang Elemental Master Kuputeri Yang Mungkin Sudah Mati Kembali Dan Menuntut Elemental Anginnya Kembali Ke Bahwa Dia Dapat Menyelamatkan Planetnya Yang Telah Jatuh Di Bawah Kekuasaan Seorang Tiran. Boboiboy Dan Teman-Temannya Memutuskan Untuk Membantu Putri Yang Jatuh Untuk Merebut Kembali Tahtanya Dan Menyelamatkan Rakyatnya. Akan Melemparkan Serangkaian Tantangan Dan Pertempuran, Busur Penuh Aksi Ini Diakhiri Dengan Debut Elemen Lapis Ketiga Pertama Boboiboy, Boboiboy Tempest. Busur Ini Menyoroti Nasib Elemental Master Asli Lainnya, Bersama Dengan Akibat Yang Diciptakan Oleh Keserakahan Dan Perbuatan Jahat Retak'Ka.</desc>
+    <icon src="https://thumbor.prod.vidiocdn.com/t3kH69uTKMJbATwgkOSlzYNI1zA=/287x162/filters:strip_icc():quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/image/1561/rtv-48c719.jpg"/>
+  </programme>
+  <programme channel="1561" start="20260429133000 +0000" stop="20260429143000 +0000">
+    <title lang="id">Mechamato</title>
+    <desc lang="id">Animasi Yang Menceritakan Seorang Anak Laki-Laki Bernama Amato Dalam Menemukan Sebuah Pesawat Ruang Angkasa Penjara Berisi Robot-Robot Jahat Yang Telah Jatuh Ke Bumi. Salah Satu Robot Tersebut Adalah Mechabot Yang Memiliki Kemampuan Untuk Mengubah Objek Sehari-Hari Menjadi Perangkat Berteknologi Tinggi. Amato Berhasil Menginovasi Mechabot Menjadi Master Mechabot. Sejak Itu, Mechabot Dan Amato Mulai Bekerja Sama Untuk Menemukan Dan Menangkap Robot Jahat.</desc>
+    <icon src="https://thumbor.prod.vidiocdn.com/t3kH69uTKMJbATwgkOSlzYNI1zA=/287x162/filters:strip_icc():quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/image/1561/rtv-48c719.jpg"/>
+  </programme>
+  <programme channel="1561" start="20260429143000 +0000" stop="20260429150000 +0000">
+    <title lang="id">Blox Buster</title>
+    <desc lang="id">Blox Buster Adalah Program Entertainment Yang Menghadirkan Keseruan Bermain Di Dunia Roblox, Platform Game Populer Dengan Jutaan Kreasi Dari Komunitas Global, Penonton Diajak Menjelajahi Berbagai Dunia Virtual Yang Penuh Warna, Menantang, Sekaligus Menyenangkan. Tidak Hanya Sekadar Bermain, Main Bareng Blox Juga Menyuguhkan Pengalaman Unik Dari Para Gamers Yang Ikut Serta, Mulai Dari Review Game, Tips Seru, Hingga Momen-Momen Kejutan Yang Terjadi Saat Bermain.</desc>
+    <icon src="https://thumbor.prod.vidiocdn.com/t3kH69uTKMJbATwgkOSlzYNI1zA=/287x162/filters:strip_icc():quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/image/1561/rtv-48c719.jpg"/>
+  </programme>
+  <programme channel="1561" start="20260429150000 +0000" stop="20260429153000 +0000">
+    <title lang="id">Terkepo-Kepo</title>
+    <desc lang="id">Program Informasi Dokumenter, Menyajikan Berbagai Informasi Yang Dekat Dengan Kehidupan Sehari-Hari Dan Dibahas Dari Berbagai Sudut Pandang Disertai Dengan Pemaparannya. Selain Menghibur, Program Ini Juga Kaya Akan Pengetahuan Sehingga Akan Menambah Banyak Wawasan Bagi Pemirsa.</desc>
+    <icon src="https://thumbor.prod.vidiocdn.com/t3kH69uTKMJbATwgkOSlzYNI1zA=/287x162/filters:strip_icc():quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/image/1561/rtv-48c719.jpg"/>
+  </programme>
+  <programme channel="1561" start="20260429153000 +0000" stop="20260429160000 +0000">
+    <title lang="id">Lensa Indonesia Malam</title>
+    <desc lang="id">Program Berita Yang Menghadirkan Informasi Terkini, Rangkuman Peristiwa Yang Terjadi Dari Malam Hingga Dini Hari Dengan Dua Segmen Khusus, Yaitu Lensa Dunia Dan Lensa Arena Yang Membahas Berbagai Informasi Olahraga Di Indonesia Maupun Mancanegara</desc>
+    <icon src="https://thumbor.prod.vidiocdn.com/t3kH69uTKMJbATwgkOSlzYNI1zA=/287x162/filters:strip_icc():quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/image/1561/rtv-48c719.jpg"/>
+  </programme>
+  <programme channel="1561" start="20260429160000 +0000" stop="20260429163000 +0000">
+    <title lang="id">Ijin, Ndan !</title>
+    <desc lang="id">Ijin, Ndan Adalah Program Crimetainment Yang Menggabungkan Informasi Seputar Kejahatan Dan Kriminalitas Dengan Sketsa Komedi Situasional Yang Berlatar Di Ruang Interogasi Atau Kantor Polisi. Dipandu Oleh Tiga Host Utama Yaitu Komandan Zack, Bro Dim, Dan Miss Binal, Setiap Episodenya Juga Menghadirkan Berbagai Cameo Menarik Seperti Tahanan, Petugas Kebersihan, Hingga Karakter Unik Lainnya Yang Menambah Keseruan. Dengan Gaya Penyajian Yang Ringan, Menghibur, Dan Penuh Humor, Ijin, Ndan Tetap Konsisten Menyampaikan Fakta Aktual Dan Pesan Edukatif Kepada Penonton, Menjadikannya Tontonan Yang Informatif Sekaligus Mengundang Tawa.</desc>
+    <icon src="https://thumbor.prod.vidiocdn.com/t3kH69uTKMJbATwgkOSlzYNI1zA=/287x162/filters:strip_icc():quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/image/1561/rtv-48c719.jpg"/>
+  </programme>
+  <programme channel="1561" start="20260429163000 +0000" stop="20260429165900 +0000">
+    <title lang="id">STB (Sangat Tidak Biasa)</title>
+    <desc lang="id">Program Ini Menghadirkan Kompilasi Informasi Berbagai Macam Issue Dan Topik Yang Akan Dibahas Dari Berbagai Sisi Dan Dipaparkan Oleh Penyulih Suara.</desc>
+    <icon src="https://thumbor.prod.vidiocdn.com/t3kH69uTKMJbATwgkOSlzYNI1zA=/287x162/filters:strip_icc():quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/image/1561/rtv-48c719.jpg"/>
+  </programme>
+  <programme channel="1561" start="20260429170000 +0000" stop="20260429180000 +0000">
+    <title lang="id">Di Ujung Rindu</title>
+    <desc lang="id">Program Reality Show Yang Mengangkat Kisah Seseorang Atas Kerinduannya Terhadap Orang Terkasih Dan Memiliki Harapan Dapat Bertemu Serta Mengenang Moment Indah Kebersamaan Mereka. Program Ini Terbagi Dalam Segmen Curhatan Narsum, Reka Adegan, Dan Satgas Rindu.</desc>
+    <icon src="https://thumbor.prod.vidiocdn.com/t3kH69uTKMJbATwgkOSlzYNI1zA=/287x162/filters:strip_icc():quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/image/1561/rtv-48c719.jpg"/>
+  </programme>
+  <programme channel="1561" start="20260429180000 +0000" stop="20260429183000 +0000">
+    <title lang="id">Terang Kasih</title>
+    <desc lang="id">Siraman Rohani Kristen Yang Berkaitan Dengan Kehidupan Untuk Mendekatkan Diri Kepada Tuhan Yesus Kristus. Program Ini Akan Dibagi Menjadi Beberapa Bagian, Antara Lain Kesaksian, Renungan, Serta Konseling Yang Akan Dipandu Oleh Dua Orang Host</desc>
+    <icon src="https://thumbor.prod.vidiocdn.com/t3kH69uTKMJbATwgkOSlzYNI1zA=/287x162/filters:strip_icc():quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/image/1561/rtv-48c719.jpg"/>
+  </programme>
+  <programme channel="1561" start="20260429183000 +0000" stop="20260429200000 +0000">
+    <title lang="id">Movinesia</title>
+    <desc lang="id">Sebuah Program Yang Menghadirkan Sederet Film Pilihan Untuk Menemani Aktivitas Anda Dengan Dimeriahkan Oleh Para Pemain &amp; Artis Papan Atas Berbakat, Dengan Cerita Ringan Seputar Kehidupan Remaja.</desc>
+    <icon src="https://thumbor.prod.vidiocdn.com/t3kH69uTKMJbATwgkOSlzYNI1zA=/287x162/filters:strip_icc():quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/image/1561/rtv-48c719.jpg"/>
+  </programme>
+  <programme channel="1561" start="20260429200000 +0000" stop="20260429203000 +0000">
+    <title lang="id">Ustadz On The Road</title>
+    <desc lang="id">Program Religi Yang Dipandu Oleh Seorang Host Dan Ustadz Yang Akan Memberikan Kajian Islami Dengan Treatment On The Road Disertai Dengan Study Kasus. Pembahasan Dilakukan Sepanjang Perjalanan Menuju Lokasi Sesuai Agenda Harian Ustadz. Program Ini Akan Disajikan Secara Ringan Dan Menyenangkan.</desc>
+    <icon src="https://thumbor.prod.vidiocdn.com/t3kH69uTKMJbATwgkOSlzYNI1zA=/287x162/filters:strip_icc():quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/image/1561/rtv-48c719.jpg"/>
+  </programme>
+  <programme channel="1561" start="20260429203000 +0000" stop="20260429213000 +0000">
+    <title lang="id">Marsupilami</title>
+    <desc lang="id">Hector Ikut Dengan Tantenya, Diane, Untuk Menghabiskan Satu Tahun Di Hutan Agar Dia Dapat Mempelajari Flora Dan Fauna. Sebagai Seorang Anak Laki-Laki Yang Senang Akan Petualangan, Ia Berteman Baik Dengan Marsupilami Yang Legendaris. Hector Memiliki Keluarga Baru Yang Menyenangkan Dengan Hidup Di Antara Hewan - Hewan Tersebut. Suatu Hari, Kehidupan Barunya Yang Menyenangkan Di Hutan Tiba-Tiba Terancam Dengan Kedatangan Felicia Devort, Seorang Industrialis Megalomaniak Yang Ingin Merusak Hutan Untuk Membangun Kota Devort Di Lokasi Hutan Itu.</desc>
+    <icon src="https://thumbor.prod.vidiocdn.com/t3kH69uTKMJbATwgkOSlzYNI1zA=/287x162/filters:strip_icc():quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/image/1561/rtv-48c719.jpg"/>
+  </programme>
+  <programme channel="1561" start="20260429213000 +0000" stop="20260429220000 +0000">
+    <title lang="id">Ibra Berkisah</title>
+    <desc lang="id">Ibrahim Atau Ibra Adalah Murid Pesantren Yang Santun Dan Selalu Mengajak Teman-Temannya Untuk Meneladani Nabi Muhammad Saw, Dia Pun Sejak Kecil Sudah Tinggal Di Pesantren. Ibra Memiliki Teman Bernama Tokek Dan Hoho. Tokek Adalah Anak Yang Lucu Dan Periang, Sedangkan Hoho Adalah Seorang Anak Jakarta Yang Dilahirkan Dari Keluarga Kaya Raya, Sifatnya Manja Dan Tidak Mengerti Sama Sekali Tentang Islam. Selama Di Pesantren, Hoho Sekamar Dengan Ibra Yang Mana Di Perkenalan Awal Mereka, Hoho Menganggap Remeh Ibra Yang Dia Anggap Sebagai Anak Kampung. Tapi Ternyata Dari Ibra Lah Hoho Banyak Mendapatkan Pelajaran Hidup Dan Kisah-Kisah Teladan Nabi Muhammad Shalallahu Alaihi Wassalam.</desc>
+    <icon src="https://thumbor.prod.vidiocdn.com/aLFhQklhzRRCXpwI3kUgIUTdzPo=/287x162/filters:strip_icc():quality(70)/vidio-media-production/uploads/tv_program/thumbnail/383737/117866.jpg"/>
+  </programme>
+  <programme channel="1561" start="20260429220000 +0000" stop="20260429233000 +0000">
+    <title lang="id">Teletubbies</title>
+    <desc lang="id">Serial Reboot Atau Seri Baru Yang Diluncurkan Pada Tahun 2015 Di Inggris. Versi Ini Menghadirkan Kembali Karakter Ikonik Tinky Winky, Dipsy, Laa-Laa, Dan Po Di Teletubbyland Dengan Visual Yang Diperbarui, Menyapa Generasi Baru Penonton Prasekolah Dengan Nuansa Yang Lebih Modern.</desc>
+    <icon src="https://thumbor.prod.vidiocdn.com/t3kH69uTKMJbATwgkOSlzYNI1zA=/287x162/filters:strip_icc():quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/image/1561/rtv-48c719.jpg"/>
+  </programme>
+  <programme channel="1561" start="20260429233000 +0000" stop="20260430010000 +0000">
+    <title lang="id">Bread Barbershop</title>
+    <desc lang="id">Bread, Seorang Tukang Cukur Jenius, Memecahkan Masalah Penampilan Dengan Keterampilan Memotong Rambutnya Yang Briliant. Sekarang Dia Hadir Untuk Memecahkan Masalah Para Bintang Di Bakery Town. Bertentangan Dengan Penampilan Mereka Yang Glamor Dan Bersinar, Para Selebriti Ini Menjalani Hari Yang Sangat Suram. Bread Dan Keluarganya Siap Membantu Para Selebriti Untuk Menemukan Lagi Kebahagiaan Mereka.</desc>
+    <icon src="https://thumbor.prod.vidiocdn.com/t3kH69uTKMJbATwgkOSlzYNI1zA=/287x162/filters:strip_icc():quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/image/1561/rtv-48c719.jpg"/>
+  </programme>
+  <programme channel="1561" start="20260430010000 +0000" stop="20260430023000 +0000">
+    <title lang="id">Grizzy And The Lemmings</title>
+    <desc lang="id">Grizzy &amp; The Lemmings Merupakan Animasi Yang Menceritakan Tentang Seekor Beruang Grizzly Yang Bernama Grizzy Dan Sekawanan Leming Yang Selalu Ingin "Bermain" Dengan Grizzy Setiap Harinya Sehingga Banyak Cerita Dan Petualangan Yang Menarik Dari Mereka.</desc>
+    <icon src="https://thumbor.prod.vidiocdn.com/t3kH69uTKMJbATwgkOSlzYNI1zA=/287x162/filters:strip_icc():quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/image/1561/rtv-48c719.jpg"/>
+  </programme>
+  <programme channel="1561" start="20260430023000 +0000" stop="20260430043000 +0000">
+    <title lang="id">Boonie Bears: The Big Top Secret</title>
+    <desc lang="id">Sebuah Kisah Tentang Teman-Teman Lama Dan Baru, Tentang Mereka Yang Hilang Tetapi Yang Paling Penting Ditemukan; The Big Top Secret Mengikuti Briar Saat Dia Dibawa Pergi Dari Rumah Yang Dia Kenal Dan Terjun Ke Dalam Barisan Sirkus Keliling. Sirkus Yang Sedang Berjuang, Dipimpin Oleh Hugo Si Gorila, Berada Pada Tahap Terakhirnya (Tutup) Dan Sangat Membutuhkan Dorongan Dan Perubahan.</desc>
+    <icon src="https://thumbor.prod.vidiocdn.com/t3kH69uTKMJbATwgkOSlzYNI1zA=/287x162/filters:strip_icc():quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/image/1561/rtv-48c719.jpg"/>
+  </programme>
+  <programme channel="1561" start="20260430043000 +0000" stop="20260430053000 +0000">
+    <title lang="id">Blox Buster</title>
+    <desc lang="id">Blox Buster Adalah Program Entertainment Yang Menghadirkan Keseruan Bermain Di Dunia Roblox, Platform Game Populer Dengan Jutaan Kreasi Dari Komunitas Global, Penonton Diajak Menjelajahi Berbagai Dunia Virtual Yang Penuh Warna, Menantang, Sekaligus Menyenangkan. Tidak Hanya Sekadar Bermain, Main Bareng Blox Juga Menyuguhkan Pengalaman Unik Dari Para Gamers Yang Ikut Serta, Mulai Dari Review Game, Tips Seru, Hingga Momen-Momen Kejutan Yang Terjadi Saat Bermain.</desc>
+    <icon src="https://thumbor.prod.vidiocdn.com/t3kH69uTKMJbATwgkOSlzYNI1zA=/287x162/filters:strip_icc():quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/image/1561/rtv-48c719.jpg"/>
+  </programme>
+  <programme channel="1561" start="20260430053000 +0000" stop="20260430070000 +0000">
+    <title lang="id">Boboiboy</title>
+    <desc lang="id">Animasi Yang Mengisahkan Boboiboy Dan Teman-Temannya Yakni Gopal, Ying, Dan Yaya Yang Masing-Masing Memiliki Kekuatan Super. Dengan Kekuatan Yang Dimiliki Mereka Mencegah Adu Du Mencuri Biji Kakao Tok Aba Yang Digunakan Sebagai Sumber Energi. Selain Itu, Boboiboy Dan Teman-Temannya Menjadi Pahlawan Super Dalam Menumpas Kejahatan Dan Menjaga Kedamaian Bumi.</desc>
+    <icon src="https://thumbor.prod.vidiocdn.com/t3kH69uTKMJbATwgkOSlzYNI1zA=/287x162/filters:strip_icc():quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/image/1561/rtv-48c719.jpg"/>
+  </programme>
+  <programme channel="1561" start="20260430070000 +0000" stop="20260430083000 +0000">
+    <title lang="id">Smurfs</title>
+    <desc lang="id">Sebuah Intro Baru Dibuat Untuk Musim Ini. Pertama, Voltaire Tiba Dan Menjatuhkan Brainy , Papa Smurf , Smurfette , Dan Handy Dari Layar. Ketiganya Menunggangi Punggungnya Saat Ia Melewati Penduduk Desa, Petani , Koki , Dan Hefty . Papa Smurf, Smurfette, Dan Brainy Jatuh Dari Voltaire, Yang Diberi Buah Beri Oleh Lily . Sementara Itu, Baby Dan Monkey Menunggangi Diaper Daddy Dengan Gembira. Kemudian, Adegan Beralih Ke Willow , Yang Sedang Melihat Ke Dalam Bola Kristalnya Dan Merasakan Kehadiran Dua Gadis Smurf , Bubble Dan Firefly , Yang Berada Di Gubuk Gargamel, Salah Satunya Bercahaya Dan Yang Lainnya Memiliki Kepang. Penyihir Jahat Itu Datang Untuk Mencoba Menangkapnya Bersama Azrael , Dwayne, Dan Rowena. Firefly Terjebak, Tetapi Secara Ajaib Berteleportasi Ke Tempat Aman Bersama Bubble. Wild Kemudian Digunakan Sebagai Transisi Ke Desa, Dan Layar Penutup Menampilkan Papa Smurf, Smurfette, Brainy, Jokey , Hefty, Clumsy Dan Dimwitty (Sebagai Anggota Pemadam Kebakaran), Blossom , Storm , Wild, Bubble Dan Firefly.</desc>
+    <icon src="https://thumbor.prod.vidiocdn.com/t3kH69uTKMJbATwgkOSlzYNI1zA=/287x162/filters:strip_icc():quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/image/1561/rtv-48c719.jpg"/>
+  </programme>
+  <programme channel="1561" start="20260430083000 +0000" stop="20260430100000 +0000">
+    <title lang="id">Ejen Ali</title>
+    <desc lang="id">Serial Animasi Dengan Tokoh Utaman Bernama Ali Yang Tidak Sengaja Menjadi Agen Meta Advance Tactical Agency (Mata) Kemudian Dilatih Untuk Menjadi Agen Di Akademi Mata. Ali Membuktikan Diri Bahwa Ia Mampu Menjadi Agen Mata Dan Mengalahkan Musuh Bersama Alicia Dan Paman Bakar.</desc>
+    <icon src="https://thumbor.prod.vidiocdn.com/cNObLtZF_mY6ifeGa_XVEOggOaE=/287x162/filters:strip_icc():quality(70)/vidio-media-production/uploads/tv_program/thumbnail/381795/d9574b.jpg"/>
+  </programme>
+  <programme channel="1561" start="20260430100000 +0000" stop="20260430103000 +0000">
+    <title lang="id">Teletubbies</title>
+    <desc lang="id">Serial Reboot Atau Seri Baru Yang Diluncurkan Pada Tahun 2015 Di Inggris. Versi Ini Menghadirkan Kembali Karakter Ikonik Tinky Winky, Dipsy, Laa-Laa, Dan Po Di Teletubbyland Dengan Visual Yang Diperbarui, Menyapa Generasi Baru Penonton Prasekolah Dengan Nuansa Yang Lebih Modern.</desc>
+    <icon src="https://thumbor.prod.vidiocdn.com/t3kH69uTKMJbATwgkOSlzYNI1zA=/287x162/filters:strip_icc():quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/image/1561/rtv-48c719.jpg"/>
+  </programme>
+  <programme channel="1561" start="20260430103000 +0000" stop="20260430110000 +0000">
+    <title lang="id">Tom &amp; Jerry</title>
+    <desc lang="id">Tom And Jerry Adalah Program Animasi Komedi Yang Berfokus Pada Persaingan Tanpa Henti Antara Seekor Kucing Bernama Tom Dan Seekor Tikus Cerdik Bernama Jerry. Setiap Episode Menampilkan Berbagai Upaya Tom Untuk Menangkap Jerry, Yang Selalu Berakhir Dengan Kegagalan Akibat Kecerdikan Jerry Dan Situasi-Situasi Tak Terduga.</desc>
+    <icon src="https://thumbor.prod.vidiocdn.com/t3kH69uTKMJbATwgkOSlzYNI1zA=/287x162/filters:strip_icc():quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/image/1561/rtv-48c719.jpg"/>
+  </programme>
+  <programme channel="1561" start="20260430110000 +0000" stop="20260430133000 +0000">
+    <title lang="id">Boboiboy Galaxy Gentar The Movie</title>
+    <desc lang="id">Dalam Fighting Fearless , Gopal Mendesak Boboiboy Untuk Menggunakan Kekuatan Lain Karena Satu-Satunya Kekuatan Yang Sering Dia Gunakan Adalah Frostfire . Boboiboy Dalam Misi Darurat Tersebut Berhasil Menggabungkan Kekuatan Halilintar Dan Gempa Sehingga Membentuk Boboiboy Gentar. Mereka Pun Berpetualang Bersama-Sama Kembali Untuk Menyelamatkan Probe, Tapi Proses Penyelamatan Itu Tidaklah Mudah.</desc>
+    <icon src="https://thumbor.prod.vidiocdn.com/t3kH69uTKMJbATwgkOSlzYNI1zA=/287x162/filters:strip_icc():quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/image/1561/rtv-48c719.jpg"/>
+  </programme>
+  <programme channel="1561" start="20260430133000 +0000" stop="20260430143000 +0000">
+    <title lang="id">Mechamato</title>
+    <desc lang="id">Animasi Yang Menceritakan Seorang Anak Laki-Laki Bernama Amato Dalam Menemukan Sebuah Pesawat Ruang Angkasa Penjara Berisi Robot-Robot Jahat Yang Telah Jatuh Ke Bumi. Salah Satu Robot Tersebut Adalah Mechabot Yang Memiliki Kemampuan Untuk Mengubah Objek Sehari-Hari Menjadi Perangkat Berteknologi Tinggi. Amato Berhasil Menginovasi Mechabot Menjadi Master Mechabot. Sejak Itu, Mechabot Dan Amato Mulai Bekerja Sama Untuk Menemukan Dan Menangkap Robot Jahat.</desc>
+    <icon src="https://thumbor.prod.vidiocdn.com/t3kH69uTKMJbATwgkOSlzYNI1zA=/287x162/filters:strip_icc():quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/image/1561/rtv-48c719.jpg"/>
+  </programme>
+  <programme channel="1561" start="20260430143000 +0000" stop="20260430150000 +0000">
+    <title lang="id">Boba (Bombastis Banget)</title>
+    <desc lang="id">Boba (Bombastis Banget) Merupakan Program Yang Berisi Informasi Ringan Yang Menyajikan Video-Video Bombastis Yang Viral, Lucu, Dan Unik Dari Sosial Media. Bisa Berupa Video Kejadian Yang Tidak Biasa Ataupun Video Yang Sedang Viral. Video-Video Tersebut Akan Dikomentari Dengan Menggunakan Vo (Voice Over) Dan Dikemas Dengan Editing Yang Kekinian.</desc>
+    <icon src="https://thumbor.prod.vidiocdn.com/t3kH69uTKMJbATwgkOSlzYNI1zA=/287x162/filters:strip_icc():quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/image/1561/rtv-48c719.jpg"/>
+  </programme>
+  <programme channel="1561" start="20260430150000 +0000" stop="20260430153000 +0000">
+    <title lang="id">Terkepo-Kepo</title>
+    <desc lang="id">Program Informasi Dokumenter, Menyajikan Berbagai Informasi Yang Dekat Dengan Kehidupan Sehari-Hari Dan Dibahas Dari Berbagai Sudut Pandang Disertai Dengan Pemaparannya. Selain Menghibur, Program Ini Juga Kaya Akan Pengetahuan Sehingga Akan Menambah Banyak Wawasan Bagi Pemirsa.</desc>
+    <icon src="https://thumbor.prod.vidiocdn.com/t3kH69uTKMJbATwgkOSlzYNI1zA=/287x162/filters:strip_icc():quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/image/1561/rtv-48c719.jpg"/>
+  </programme>
+  <programme channel="1561" start="20260430153000 +0000" stop="20260430160000 +0000">
+    <title lang="id">Lensa Indonesia Malam</title>
+    <desc lang="id">Program Berita Yang Menghadirkan Informasi Terkini, Rangkuman Peristiwa Yang Terjadi Dari Malam Hingga Dini Hari Dengan Dua Segmen Khusus, Yaitu Lensa Dunia Dan Lensa Arena Yang Membahas Berbagai Informasi Olahraga Di Indonesia Maupun Mancanegara</desc>
+    <icon src="https://thumbor.prod.vidiocdn.com/t3kH69uTKMJbATwgkOSlzYNI1zA=/287x162/filters:strip_icc():quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/image/1561/rtv-48c719.jpg"/>
+  </programme>
+  <programme channel="1561" start="20260430160000 +0000" stop="20260430163000 +0000">
+    <title lang="id">Ijin, Ndan !</title>
+    <desc lang="id">Ijin, Ndan Adalah Program Crimetainment Yang Menggabungkan Informasi Seputar Kejahatan Dan Kriminalitas Dengan Sketsa Komedi Situasional Yang Berlatar Di Ruang Interogasi Atau Kantor Polisi. Dipandu Oleh Tiga Host Utama Yaitu Komandan Zack, Bro Dim, Dan Miss Binal, Setiap Episodenya Juga Menghadirkan Berbagai Cameo Menarik Seperti Tahanan, Petugas Kebersihan, Hingga Karakter Unik Lainnya Yang Menambah Keseruan. Dengan Gaya Penyajian Yang Ringan, Menghibur, Dan Penuh Humor, Ijin, Ndan Tetap Konsisten Menyampaikan Fakta Aktual Dan Pesan Edukatif Kepada Penonton, Menjadikannya Tontonan Yang Informatif Sekaligus Mengundang Tawa.</desc>
+    <icon src="https://thumbor.prod.vidiocdn.com/t3kH69uTKMJbATwgkOSlzYNI1zA=/287x162/filters:strip_icc():quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/image/1561/rtv-48c719.jpg"/>
+  </programme>
+  <programme channel="1561" start="20260430163000 +0000" stop="20260430165900 +0000">
+    <title lang="id">STB (Sangat Tidak Biasa)</title>
+    <desc lang="id">Program Ini Menghadirkan Kompilasi Informasi Berbagai Macam Issue Dan Topik Yang Akan Dibahas Dari Berbagai Sisi Dan Dipaparkan Oleh Penyulih Suara.</desc>
+    <icon src="https://thumbor.prod.vidiocdn.com/t3kH69uTKMJbATwgkOSlzYNI1zA=/287x162/filters:strip_icc():quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/image/1561/rtv-48c719.jpg"/>
+  </programme>
   <programme channel="875" start="20260423161000 +0000" stop="20260423170500 +0000">
     <title lang="id">86</title>
     <icon src="https://thumbor.prod.vidiocdn.com/4Czw1-Pd6U37CKeatnuB7yB0wm8=/287x162/filters:strip_icc():quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/image/875/mdtv-ff5756.jpg"/>
@@ -4295,7 +4760,7 @@
   <programme channel="6165" start="20260425033000 +0000" stop="20260425040000 +0000">
     <title lang="id">Dunia Rans</title>
     <desc lang="id">Program yang menyajikan keseharian termasuk aktivitas liburan keluarga besar Raffi Ahmad, termasuk Nagita Slavina, Rafathar, dan Rayyanza atau Cipung</desc>
-    <icon src="https://thumbor.prod.vidiocdn.com/YBcjWHkh9zSqKk0gZ_xL64tsGZc=/287x162/filters:strip_icc():quality(70)/vidio-media-production/uploads/tv_program/thumbnail/386108/6cfea6.jpg"/>
+    <icon src="https://thumbor.prod.vidiocdn.com/8VmW5syZqdHB_Z9XOEj7cHBjfoM=/287x162/filters:strip_icc():quality(70)/vidio-media-production/uploads/livestreaming/schedule/thumbnail/5018056/fda9be.jpg"/>
   </programme>
   <programme channel="6165" start="20260425040000 +0000" stop="20260425060000 +0000">
     <title lang="id">Berita Satu Siang</title>
@@ -4692,14 +5157,16 @@
     <desc lang="id">Matchday 33</desc>
     <icon src="https://thumbor.prod.vidiocdn.com/5yUHYfv_b1sZi7kdFElm8JqF2RY=/287x162/filters:strip_icc():quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/image/6299/bein-1-4bd997.jpg"/>
   </programme>
-  <programme channel="6299" start="20260425022500 +0000" stop="20260425042000 +0000">
-    <title lang="id">Real Betis vs Real Madrid : LaLiga 2025/26</title>
-    <desc lang="id">Real Betis vs Real Madrid</desc>
+  <programme channel="6299" start="20260425022500 +0000" stop="20260425024500 +0000">
+    <title lang="id">LaLiga Goals Galore 2024/25</title>
     <icon src="https://thumbor.prod.vidiocdn.com/5yUHYfv_b1sZi7kdFElm8JqF2RY=/287x162/filters:strip_icc():quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/image/6299/bein-1-4bd997.jpg"/>
   </programme>
-  <programme channel="6299" start="20260425042000 +0000" stop="20260425045000 +0000">
-    <title lang="id">Episode Number 2 : Fastzone 2026</title>
-    <desc lang="id">Episode Number 2</desc>
+  <programme channel="6299" start="20260425024500 +0000" stop="20260425034500 +0000">
+    <title lang="id">DTM Highlights 2026</title>
+    <icon src="https://thumbor.prod.vidiocdn.com/5yUHYfv_b1sZi7kdFElm8JqF2RY=/287x162/filters:strip_icc():quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/image/6299/bein-1-4bd997.jpg"/>
+  </programme>
+  <programme channel="6299" start="20260425034500 +0000" stop="20260425045000 +0000">
+    <title lang="id">Ferrari Challenge Japan 2026</title>
     <icon src="https://thumbor.prod.vidiocdn.com/5yUHYfv_b1sZi7kdFElm8JqF2RY=/287x162/filters:strip_icc():quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/image/6299/bein-1-4bd997.jpg"/>
   </programme>
   <programme channel="6299" start="20260425045000 +0000" stop="20260425052500 +0000">
@@ -4707,14 +5174,13 @@
     <desc lang="id">Episode Number 10</desc>
     <icon src="https://thumbor.prod.vidiocdn.com/5yUHYfv_b1sZi7kdFElm8JqF2RY=/287x162/filters:strip_icc():quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/image/6299/bein-1-4bd997.jpg"/>
   </programme>
-  <programme channel="6299" start="20260425052500 +0000" stop="20260425060000 +0000">
-    <title lang="id">Matchday 33 : LaLiga Highlights 2025/26</title>
-    <desc lang="id">Matchday 33</desc>
+  <programme channel="6299" start="20260425052500 +0000" stop="20260425062500 +0000">
+    <title lang="id">Ferrari Challenge Japan 2026</title>
     <icon src="https://thumbor.prod.vidiocdn.com/5yUHYfv_b1sZi7kdFElm8JqF2RY=/287x162/filters:strip_icc():quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/image/6299/bein-1-4bd997.jpg"/>
   </programme>
-  <programme channel="6299" start="20260425060000 +0000" stop="20260425070000 +0000">
-    <title lang="id">Season Preview : DTM Highlights 2026</title>
-    <desc lang="id">Season Preview</desc>
+  <programme channel="6299" start="20260425062500 +0000" stop="20260425070000 +0000">
+    <title lang="id">Matchday 33 : LaLiga Highlights 2025/26</title>
+    <desc lang="id">Matchday 33</desc>
     <icon src="https://thumbor.prod.vidiocdn.com/5yUHYfv_b1sZi7kdFElm8JqF2RY=/287x162/filters:strip_icc():quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/image/6299/bein-1-4bd997.jpg"/>
   </programme>
   <programme channel="6299" start="20260425070000 +0000" stop="20260425073000 +0000">
@@ -4731,11 +5197,6 @@
     <title lang="id">Elche vs Atletico Madrid : Mini Match - LaLiga 2025/26</title>
     <desc lang="id">Elche vs Atletico Madrid</desc>
     <icon src="https://thumbor.prod.vidiocdn.com/5yUHYfv_b1sZi7kdFElm8JqF2RY=/287x162/filters:strip_icc():quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/image/6299/bein-1-4bd997.jpg"/>
-  </programme>
-  <programme channel="6299" start="20260425083000 +0000" stop="20260425093000 +0000">
-    <title lang="id">Rally Islas Canarias SS9 Arucas - Teror 1 - WRC Rally Islas Canarias 2026</title>
-    <desc lang="id">Nonton streaming pertandingan seru Rally Islas Canarias SS9 Arucas - Teror 1 - WRC Rally Islas Canarias 2026. Saksikan aksi-aksi terbaik dari tim yang bersaing ketat untuk meraih kemenangan. Dapatkan informasi lengkap mengenai jadwal pertandingan dan hasil pertandingan terbaru hanya di Vidio.</desc>
-    <icon src="https://thumbor.prod.vidiocdn.com/noHhlV9u7HWu77eYFXvhrq2dGCA=/287x162/filters:strip_icc():quality(70)/vidio-media-production/uploads/livestreaming/schedule/thumbnail/5022650/345bcc.jpg"/>
   </programme>
   <programme channel="6299" start="20260425093000 +0000" stop="20260425100000 +0000">
     <title lang="id">6 Hours of Imola, ITA : FIA World Endurance Championship Highlights 2026</title>
@@ -4792,40 +5253,41 @@
     <desc lang="id">Coppa Shell Race 1, Mugello</desc>
     <icon src="https://thumbor.prod.vidiocdn.com/5yUHYfv_b1sZi7kdFElm8JqF2RY=/287x162/filters:strip_icc():quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/image/6299/bein-1-4bd997.jpg"/>
   </programme>
-  <programme channel="6299" start="20260426013000 +0000" stop="20260426024000 +0000">
-    <title lang="id">Trofeo Pirelli Race 1, Mugello : Ferrari Challenge Europe Race 2026</title>
-    <desc lang="id">Trofeo Pirelli Race 1, Mugello</desc>
-    <icon src="https://thumbor.prod.vidiocdn.com/5yUHYfv_b1sZi7kdFElm8JqF2RY=/287x162/filters:strip_icc():quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/image/6299/bein-1-4bd997.jpg"/>
-  </programme>
-  <programme channel="6299" start="20260426024000 +0000" stop="20260426040000 +0000">
+  <programme channel="6299" start="20260426013000 +0000" stop="20260426025000 +0000">
     <title lang="id">Red Bull Ring Race 1 : ADAC GT Masters 2026</title>
     <desc lang="id">Red Bull Ring Race 1</desc>
     <icon src="https://thumbor.prod.vidiocdn.com/5yUHYfv_b1sZi7kdFElm8JqF2RY=/287x162/filters:strip_icc():quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/image/6299/bein-1-4bd997.jpg"/>
   </programme>
-  <programme channel="6299" start="20260426040000 +0000" stop="20260426052000 +0000">
-    <title lang="id">Red Bull Ring Race 1 : ADAC GT4 Germany 2026</title>
-    <desc lang="id">Red Bull Ring Race 1</desc>
-    <icon src="https://thumbor.prod.vidiocdn.com/5yUHYfv_b1sZi7kdFElm8JqF2RY=/287x162/filters:strip_icc():quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/image/6299/bein-1-4bd997.jpg"/>
-  </programme>
-  <programme channel="6299" start="20260426052000 +0000" stop="20260426061000 +0000">
+  <programme channel="6299" start="20260426025000 +0000" stop="20260426034500 +0000">
     <title lang="id">Red Bull Ring Race 2 : Formula Regional European Championship Race 2026</title>
     <desc lang="id">Red Bull Ring Race 2</desc>
     <icon src="https://thumbor.prod.vidiocdn.com/5yUHYfv_b1sZi7kdFElm8JqF2RY=/287x162/filters:strip_icc():quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/image/6299/bein-1-4bd997.jpg"/>
   </programme>
-  <programme channel="6299" start="20260426061000 +0000" stop="20260426064000 +0000">
+  <programme channel="6299" start="20260426034500 +0000" stop="20260426044500 +0000">
+    <title lang="id">Ferrari Challenge Japan 2026</title>
+    <icon src="https://thumbor.prod.vidiocdn.com/5yUHYfv_b1sZi7kdFElm8JqF2RY=/287x162/filters:strip_icc():quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/image/6299/bein-1-4bd997.jpg"/>
+  </programme>
+  <programme channel="6299" start="20260426044500 +0000" stop="20260426045500 +0000">
+    <title lang="id">Formula 1 Specials 2026</title>
+    <icon src="https://thumbor.prod.vidiocdn.com/5yUHYfv_b1sZi7kdFElm8JqF2RY=/287x162/filters:strip_icc():quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/image/6299/bein-1-4bd997.jpg"/>
+  </programme>
+  <programme channel="6299" start="20260426045500 +0000" stop="20260426052500 +0000">
     <title lang="id">Episode Number 2 : Fastzone 2026</title>
     <desc lang="id">Episode Number 2</desc>
+    <icon src="https://thumbor.prod.vidiocdn.com/5yUHYfv_b1sZi7kdFElm8JqF2RY=/287x162/filters:strip_icc():quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/image/6299/bein-1-4bd997.jpg"/>
+  </programme>
+  <programme channel="6299" start="20260426052500 +0000" stop="20260426063000 +0000">
+    <title lang="id">Ferrari Challenge Japan 2026</title>
+    <icon src="https://thumbor.prod.vidiocdn.com/5yUHYfv_b1sZi7kdFElm8JqF2RY=/287x162/filters:strip_icc():quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/image/6299/bein-1-4bd997.jpg"/>
+  </programme>
+  <programme channel="6299" start="20260426063000 +0000" stop="20260426064000 +0000">
+    <title lang="id">LaLiga Goals Galore 2024/25</title>
     <icon src="https://thumbor.prod.vidiocdn.com/5yUHYfv_b1sZi7kdFElm8JqF2RY=/287x162/filters:strip_icc():quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/image/6299/bein-1-4bd997.jpg"/>
   </programme>
   <programme channel="6299" start="20260426064000 +0000" stop="20260426071000 +0000">
     <title lang="id">Rally Sierra Morena : FIA European Rally Championship Highlights 2026</title>
     <desc lang="id">Rally Sierra Morena</desc>
     <icon src="https://thumbor.prod.vidiocdn.com/5yUHYfv_b1sZi7kdFElm8JqF2RY=/287x162/filters:strip_icc():quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/image/6299/bein-1-4bd997.jpg"/>
-  </programme>
-  <programme channel="6299" start="20260426080000 +0000" stop="20260426090000 +0000">
-    <title lang="id">Rally Islas Canarias SS16 Santa Lucia - Aguimes 1 - WRC Rally Islas Canarias 2026</title>
-    <desc lang="id">Nonton streaming pertandingan seru Rally Islas Canarias SS16 Santa Lucia - Aguimes 1 - WRC Rally Islas Canarias 2026. Saksikan aksi-aksi terbaik dari tim yang bersaing ketat untuk meraih kemenangan. Dapatkan informasi lengkap mengenai jadwal pertandingan dan hasil pertandingan terbaru hanya di Vidio.</desc>
-    <icon src="https://thumbor.prod.vidiocdn.com/74vZZuIKyIYeNWOVeHridoZZE-A=/287x162/filters:strip_icc():quality(70)/vidio-media-production/uploads/livestreaming/schedule/thumbnail/5024679/5e08e5.jpg"/>
   </programme>
   <programme channel="6299" start="20260426090000 +0000" stop="20260426093000 +0000">
     <title lang="id">Episode Number 10 : Going Pro 2026</title>
@@ -5527,11 +5989,6 @@
     <desc lang="id">Red Bull Ring Race 2</desc>
     <icon src="https://thumbor.prod.vidiocdn.com/xiN-u5MIG7jgOVE2tB_TUIynz7k=/287x162/filters:strip_icc():quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/image/6317/bein-3-616b1c.jpg"/>
   </programme>
-  <programme channel="6317" start="20260425150000 +0000" stop="20260425160000 +0000">
-    <title lang="id">Rally Islas Canarias SS12 Arucas - Teror 2 - WRC Rally Islas Canarias 2026</title>
-    <desc lang="id">Nonton streaming pertandingan seru Rally Islas Canarias SS12 Arucas - Teror 2 - WRC Rally Islas Canarias 2026. Saksikan aksi-aksi terbaik dari tim yang bersaing ketat untuk meraih kemenangan. Dapatkan informasi lengkap mengenai jadwal pertandingan dan hasil pertandingan terbaru hanya di Vidio.</desc>
-    <icon src="https://thumbor.prod.vidiocdn.com/zCOGytzewtcFl7UFmGhvthrfE1I=/287x162/filters:strip_icc():quality(70)/vidio-media-production/uploads/livestreaming/schedule/thumbnail/5022651/c356b5.jpg"/>
-  </programme>
   <programme channel="6317" start="20260425160000 +0000" stop="20260425163000 +0000">
     <title lang="id">Documentary : Africa Eco Race 2026</title>
     <desc lang="id">Documentary</desc>
@@ -6143,7 +6600,7 @@
     <icon src="https://thumbor.prod.vidiocdn.com/edoqRinFCRhrRwQ2ngcXacb_q74=/287x162/filters:strip_icc():quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/image/6685/champions-tv-1-54e282.jpg"/>
   </programme>
   <programme channel="6685" start="20260424063000 +0000" stop="20260424083000 +0000">
-    <title lang="id">Lingshui  Baoting : TOUR OF HAINAN 2026</title>
+    <title lang="id">Lingshui Baoting : TOUR OF HAINAN 2026</title>
     <desc lang="id">Lingshui  Baoting</desc>
     <icon src="https://thumbor.prod.vidiocdn.com/edoqRinFCRhrRwQ2ngcXacb_q74=/287x162/filters:strip_icc():quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/image/6685/champions-tv-1-54e282.jpg"/>
   </programme>
@@ -6427,31 +6884,31 @@
     <desc lang="id">Kisah perjuangan Ummi Marwah, seorang ustazah, dalam menjaga keutuhan rumah tangga dan mendidik anak-anaknya. Abah Asep, suaminya, berperilaku arogan dan selingkuh dengan asisten rumah tangga.</desc>
     <icon src="https://thumbor.prod.vidiocdn.com/20tRQaK9Gps_wFQL5rY-XgRbrs4=/287x162/filters:strip_icc():quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/image/782/antv-de8530.jpg"/>
   </programme>
-  <programme channel="782" start="20260423230000 +0000" stop="20260424003000 +0000">
+  <programme channel="782" start="20260423230500 +0000" stop="20260424003400 +0000">
     <title lang="id">Kasautii</title>
     <desc lang="id">Anurag dan Prerna kuliah di universitas yang sama, dan akhirnya menjalin hubungan erat. Namun, mereka harus menghadapi orang-orang yang ingin memisahkan keduanya, karena perbedaan status sosial.</desc>
     <icon src="https://thumbor.prod.vidiocdn.com/088g3i-Gbk_ercZaMFiNUkN_t54=/287x162/filters:strip_icc():quality(70)/vidio-media-production/uploads/livestreaming/schedule/thumbnail/5022190/6eb192.jpg"/>
   </programme>
-  <programme channel="782" start="20260424003000 +0000" stop="20260424023000 +0000">
+  <programme channel="782" start="20260424003400 +0000" stop="20260424023000 +0000">
     <title lang="id">Janji Cinta Inspektur Virat</title>
     <desc lang="id">Kisah seorang inspektur yang terlibat dalam kisah percintaan segitiga.</desc>
     <icon src="https://thumbor.prod.vidiocdn.com/VMqJn9jawRecdbw5SSdxxTHN_88=/287x162/filters:strip_icc():quality(70)/vidio-media-production/uploads/tv_program/thumbnail/386704/218ebf.jpg"/>
   </programme>
-  <programme channel="782" start="20260424023000 +0000" stop="20260424060000 +0000">
+  <programme channel="782" start="20260424023000 +0000" stop="20260424055000 +0000">
     <title lang="id">Mega Bollywood: Dil To Pagal Hai</title>
     <desc lang="id">Musikal megah tentang tiga karakter yang penuh gairah dan mimpi: Rahul, Pooja, dan Nisha. Akankah impian mereka menjadi kenyataan? Akankah mereka menemukan cinta sejati mereka?</desc>
     <icon src="https://thumbor.prod.vidiocdn.com/fl5u8itunqeFFKzhAKj1ZFV7UN4=/287x162/filters:strip_icc():quality(70)/vidio-media-production/uploads/livestreaming/schedule/thumbnail/5022206/354900.jpg"/>
   </programme>
-  <programme channel="782" start="20260424060000 +0000" stop="20260424080000 +0000">
+  <programme channel="782" start="20260424055000 +0000" stop="20260424075100 +0000">
     <title lang="id">Jhanak</title>
     <desc lang="id">Seorang wanita muda yang bersemangat memulai perjalanan untuk memenuhi janji seorang ibu demi kehidupan yang lebih baik sambil mengatasi tantangan dan kehilangan.</desc>
     <icon src="https://thumbor.prod.vidiocdn.com/QAXid5vfpKR0jc-41l1qWiSIvUg=/287x162/filters:strip_icc():quality(70)/vidio-media-production/uploads/livestreaming/schedule/thumbnail/5022195/60fcfd.jpg"/>
   </programme>
-  <programme channel="782" start="20260424080000 +0000" stop="20260424090000 +0000">
+  <programme channel="782" start="20260424075100 +0000" stop="20260424090800 +0000">
     <title lang="id">TERI DORIYAANN</title>
     <icon src="https://thumbor.prod.vidiocdn.com/8S2_C9IGEIEKR-DlKGNabBvEwGo=/287x162/filters:strip_icc():quality(70)/vidio-media-production/uploads/livestreaming/schedule/thumbnail/5024519/527d78.jpg"/>
   </programme>
-  <programme channel="782" start="20260424090000 +0000" stop="20260424111500 +0000">
+  <programme channel="782" start="20260424090800 +0000" stop="20260424111500 +0000">
     <title lang="id">Vasudha</title>
     <desc lang="id">Vasudha yang periang bergabung dengan rumah pemimpin bisnis Chandrika sebagai pembantu dan mendambakan persetujuannya meskipun ada perbedaan ideologis di antara mereka.</desc>
     <icon src="https://thumbor.prod.vidiocdn.com/1Qtt8QZ19TcVqR501UQ_Oi4DqOc=/287x162/filters:strip_icc():quality(70)/vidio-media-production/uploads/livestreaming/schedule/thumbnail/5022197/161598.jpg"/>
@@ -6464,6 +6921,131 @@
   <programme channel="782" start="20260424130000 +0000" stop="20260424143000 +0000">
     <title lang="id">Sinema Spesial: Malam Satu Suro</title>
     <desc lang="id">Setelah roh pendendam diberi kesempatan kedua untuk menjalani kehidupan normal, keluarganya diserang dan dia terpaksa membalas dendam.</desc>
+    <icon src="https://thumbor.prod.vidiocdn.com/20tRQaK9Gps_wFQL5rY-XgRbrs4=/287x162/filters:strip_icc():quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/image/782/antv-de8530.jpg"/>
+  </programme>
+  <programme channel="782" start="20260424180000 +0000" stop="20260424181500 +0000">
+    <title lang="id">Mr. Bean</title>
+    <icon src="https://thumbor.prod.vidiocdn.com/20tRQaK9Gps_wFQL5rY-XgRbrs4=/287x162/filters:strip_icc():quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/image/782/antv-de8530.jpg"/>
+  </programme>
+  <programme channel="782" start="20260424181500 +0000" stop="20260424204500 +0000">
+    <title lang="id">Serie A 2025/26: Napoli vs Cremonese</title>
+    <desc lang="id">Liga Italia Serie A merupakan kompetisi sepak bola profesional tertinggi di sistem liga sepak bola Italia. Sebanyak 20 klub bersaing untuk memperebutkan juara kompetisi ini.</desc>
+    <icon src="https://thumbor.prod.vidiocdn.com/20tRQaK9Gps_wFQL5rY-XgRbrs4=/287x162/filters:strip_icc():quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/image/782/antv-de8530.jpg"/>
+  </programme>
+  <programme channel="782" start="20260424204500 +0000" stop="20260424230000 +0000">
+    <title lang="id">Mega Bollywood: Oh Darling Yeh Hai India</title>
+    <desc lang="id">Seorang gangster berencana mengambil alih negara dengan mengganti presiden dengan orang yang mirip. Seorang pria dan wanita, yang merupakan orang asing, mengetahui konspirasi ini dan mencoba menyelamatkan negara.</desc>
+    <icon src="https://thumbor.prod.vidiocdn.com/20tRQaK9Gps_wFQL5rY-XgRbrs4=/287x162/filters:strip_icc():quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/image/782/antv-de8530.jpg"/>
+  </programme>
+  <programme channel="782" start="20260424230000 +0000" stop="20260425003000 +0000">
+    <title lang="id">Kasautii</title>
+    <desc lang="id">Anurag dan Prerna kuliah di universitas yang sama, dan akhirnya menjalin hubungan erat. Namun, mereka harus menghadapi orang-orang yang ingin memisahkan keduanya, karena perbedaan status sosial.</desc>
+    <icon src="https://thumbor.prod.vidiocdn.com/ydCjcOQSJ9zq0XaR4nL4gdwMiwo=/287x162/filters:strip_icc():quality(70)/vidio-media-production/uploads/livestreaming/schedule/thumbnail/5025198/dd75a0.jpg"/>
+  </programme>
+  <programme channel="782" start="20260425003000 +0000" stop="20260425023000 +0000">
+    <title lang="id">Janji Cinta Inspektur Virat</title>
+    <desc lang="id">Kisah seorang inspektur yang terlibat dalam kisah percintaan segitiga.</desc>
+    <icon src="https://thumbor.prod.vidiocdn.com/VMqJn9jawRecdbw5SSdxxTHN_88=/287x162/filters:strip_icc():quality(70)/vidio-media-production/uploads/tv_program/thumbnail/386704/218ebf.jpg"/>
+  </programme>
+  <programme channel="782" start="20260425023000 +0000" stop="20260425060000 +0000">
+    <title lang="id">Mega Bollywood: Bas Itna Sa Khwaab Hai</title>
+    <desc lang="id">Surya berasal dari kota kecil dan menganggap Naved Ali sebagai idolanya. Dia masuk perguruan tinggi di Mumbai dan menerima penghargaan dari Naved Ali atas keberaniannya.</desc>
+    <icon src="https://thumbor.prod.vidiocdn.com/QHQbImxBzW0HkFN1oEA2THW1zLU=/287x162/filters:strip_icc():quality(70)/vidio-media-production/uploads/livestreaming/schedule/thumbnail/5025202/f5dd44.jpg"/>
+  </programme>
+  <programme channel="782" start="20260425060000 +0000" stop="20260425080000 +0000">
+    <title lang="id">Jhanak</title>
+    <desc lang="id">Seorang wanita muda yang bersemangat memulai perjalanan untuk memenuhi janji seorang ibu demi kehidupan yang lebih baik sambil mengatasi tantangan dan kehilangan.</desc>
+    <icon src="https://thumbor.prod.vidiocdn.com/X6osQEgxiXC2Uji0PsVlfFEZKu8=/287x162/filters:strip_icc():quality(70)/vidio-media-production/uploads/livestreaming/schedule/thumbnail/5025203/fb464f.jpg"/>
+  </programme>
+  <programme channel="782" start="20260425080000 +0000" stop="20260425090000 +0000">
+    <title lang="id">Teri Meri Doriyaann</title>
+    <icon src="https://thumbor.prod.vidiocdn.com/nh07kF7mgzuUvko04LR-rQtq4ww=/287x162/filters:strip_icc():quality(70)/vidio-media-production/uploads/livestreaming/schedule/thumbnail/5025217/c09545.jpg"/>
+  </programme>
+  <programme channel="782" start="20260425090000 +0000" stop="20260425111500 +0000">
+    <title lang="id">Vasudha</title>
+    <desc lang="id">Vasudha yang periang bergabung dengan rumah pemimpin bisnis Chandrika sebagai pembantu dan mendambakan persetujuannya meskipun ada perbedaan ideologis di antara mereka.</desc>
+    <icon src="https://thumbor.prod.vidiocdn.com/5auS3kPiUGaJ5Ob7y28pZJJRufA=/287x162/filters:strip_icc():quality(70)/vidio-media-production/uploads/livestreaming/schedule/thumbnail/5025205/450f1b.jpg"/>
+  </programme>
+  <programme channel="782" start="20260425111500 +0000" stop="20260425130000 +0000">
+    <title lang="id">Sinema Laga Klasik: Balada Cinta Angling Darma</title>
+    <desc lang="id">Anglingdarma yang memiliki ilmu dan bisa mendengar bahasa binatang, membuat istrinya minta diajari olehnya. Namun Anglingdarma tidak mau. Istrinya beranggapan ia tidak cinta lagi dengan dirinya. Istrinya pun berniat membakar diri dan Anglingdarma pun juga ingin melakukan hal yang sama, namun terdengar suara yang membuat ia berhenti, tapi istrinya sudah membakar diri. Karena merasa bersalah Anglingdarma pun menjelma menjadi belibis. Tapi atas paksaan Batik Madrim ia kembali.</desc>
+    <icon src="https://thumbor.prod.vidiocdn.com/20tRQaK9Gps_wFQL5rY-XgRbrs4=/287x162/filters:strip_icc():quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/image/782/antv-de8530.jpg"/>
+  </programme>
+  <programme channel="782" start="20260425130000 +0000" stop="20260425151500 +0000">
+    <title lang="id">Sinema Spesial: Panggonan Wingit</title>
+    <desc lang="id">Dua orang kakak-beradik bertolak ke Semarang untuk membantu mengelola sebuah hotel yang misterius. Di hotel itu, mereka menemukan suatu rahasia kelam dan kutukan maut.</desc>
+    <icon src="https://thumbor.prod.vidiocdn.com/20tRQaK9Gps_wFQL5rY-XgRbrs4=/287x162/filters:strip_icc():quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/image/782/antv-de8530.jpg"/>
+  </programme>
+  <programme channel="782" start="20260425151500 +0000" stop="20260425153000 +0000">
+    <title lang="id">Mr. Bean</title>
+    <icon src="https://thumbor.prod.vidiocdn.com/20tRQaK9Gps_wFQL5rY-XgRbrs4=/287x162/filters:strip_icc():quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/image/782/antv-de8530.jpg"/>
+  </programme>
+  <programme channel="782" start="20260425153000 +0000" stop="20260425170000 +0000">
+    <title lang="id">Serie A 2025/26: Bologna vs Roma</title>
+    <desc lang="id">Liga Italia Serie A merupakan kompetisi sepak bola profesional tertinggi di sistem liga sepak bola Italia. Sebanyak 20 klub bersaing untuk memperebutkan juara kompetisi ini.</desc>
+    <icon src="https://thumbor.prod.vidiocdn.com/20tRQaK9Gps_wFQL5rY-XgRbrs4=/287x162/filters:strip_icc():quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/image/782/antv-de8530.jpg"/>
+  </programme>
+  <programme channel="782" start="20260425153000 +0000" stop="20260425170000 +0000">
+    <title lang="id">Serie A 2025/26: Bologna vs Roma</title>
+    <desc lang="id">Liga Italia Serie A merupakan kompetisi sepak bola profesional tertinggi di sistem liga sepak bola Italia. Sebanyak 20 klub bersaing untuk memperebutkan juara kompetisi ini.</desc>
+    <icon src="https://thumbor.prod.vidiocdn.com/20tRQaK9Gps_wFQL5rY-XgRbrs4=/287x162/filters:strip_icc():quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/image/782/antv-de8530.jpg"/>
+  </programme>
+  <programme channel="782" start="20260425170000 +0000" stop="20260425180000 +0000">
+    <title lang="id">Serie A 2025/26: Bologna vs Roma</title>
+    <desc lang="id">Liga Italia Serie A merupakan kompetisi sepak bola profesional tertinggi di sistem liga sepak bola Italia. Sebanyak 20 klub bersaing untuk memperebutkan juara kompetisi ini.</desc>
+    <icon src="https://thumbor.prod.vidiocdn.com/20tRQaK9Gps_wFQL5rY-XgRbrs4=/287x162/filters:strip_icc():quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/image/782/antv-de8530.jpg"/>
+  </programme>
+  <programme channel="782" start="20260425180000 +0000" stop="20260425193000 +0000">
+    <title lang="id">Bioskop Asia: Snake Fist</title>
+    <icon src="https://thumbor.prod.vidiocdn.com/20tRQaK9Gps_wFQL5rY-XgRbrs4=/287x162/filters:strip_icc():quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/image/782/antv-de8530.jpg"/>
+  </programme>
+  <programme channel="782" start="20260425193000 +0000" stop="20260425213000 +0000">
+    <title lang="id">Mega Bollywood: Stree</title>
+    <desc lang="id">Di kota kecil Chanderi, kaum pria hidup dalam ketakutan terhadap roh jahat bernama "Stree" yang menculik pria di malam hari. Cerita ini berdasarkan legenda urban "Nale Ba" yang viral di Karnataka pada tahun 1990-an.</desc>
+    <icon src="https://thumbor.prod.vidiocdn.com/20tRQaK9Gps_wFQL5rY-XgRbrs4=/287x162/filters:strip_icc():quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/image/782/antv-de8530.jpg"/>
+  </programme>
+  <programme channel="782" start="20260425213000 +0000" stop="20260425230000 +0000">
+    <title lang="id">Ummi</title>
+    <desc lang="id">Kisah perjuangan Ummi Marwah, seorang ustazah, dalam menjaga keutuhan rumah tangga dan mendidik anak-anaknya. Abah Asep, suaminya, berperilaku arogan dan selingkuh dengan asisten rumah tangga.</desc>
+    <icon src="https://thumbor.prod.vidiocdn.com/20tRQaK9Gps_wFQL5rY-XgRbrs4=/287x162/filters:strip_icc():quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/image/782/antv-de8530.jpg"/>
+  </programme>
+  <programme channel="782" start="20260425230000 +0000" stop="20260426003000 +0000">
+    <title lang="id">Kasautii</title>
+    <desc lang="id">Anurag dan Prerna kuliah di universitas yang sama, dan akhirnya menjalin hubungan erat. Namun, mereka harus menghadapi orang-orang yang ingin memisahkan keduanya, karena perbedaan status sosial.</desc>
+    <icon src="https://thumbor.prod.vidiocdn.com/rqNYtJjfBifjR0_p0GbdGGqfy-w=/287x162/filters:strip_icc():quality(70)/vidio-web-prod-film/uploads/film/image_landscape/8121/kasautii-6ef8ae.png"/>
+  </programme>
+  <programme channel="782" start="20260426003000 +0000" stop="20260426023000 +0000">
+    <title lang="id">Janji Cinta Inspektur Virat</title>
+    <desc lang="id">Kisah seorang inspektur yang terlibat dalam kisah percintaan segitiga.</desc>
+    <icon src="https://thumbor.prod.vidiocdn.com/VMqJn9jawRecdbw5SSdxxTHN_88=/287x162/filters:strip_icc():quality(70)/vidio-media-production/uploads/tv_program/thumbnail/386704/218ebf.jpg"/>
+  </programme>
+  <programme channel="782" start="20260426023000 +0000" stop="20260426060000 +0000">
+    <title lang="id">Mega Bollywood: Chalte Chalte</title>
+    <desc lang="id">Seorang pria mengejar seorang wanita yang sudah bertunangan dan akhirnya menikah dengannya. Perbedaan di antara keduanya berujung pada perpisahan pahit yang mengancam kehancuran hubungan mereka selamanya.</desc>
+    <icon src="https://thumbor.prod.vidiocdn.com/20tRQaK9Gps_wFQL5rY-XgRbrs4=/287x162/filters:strip_icc():quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/image/782/antv-de8530.jpg"/>
+  </programme>
+  <programme channel="782" start="20260426060000 +0000" stop="20260426080000 +0000">
+    <title lang="id">Jhanak</title>
+    <desc lang="id">Seorang wanita muda yang bersemangat memulai perjalanan untuk memenuhi janji seorang ibu demi kehidupan yang lebih baik sambil mengatasi tantangan dan kehilangan.</desc>
+    <icon src="https://thumbor.prod.vidiocdn.com/20tRQaK9Gps_wFQL5rY-XgRbrs4=/287x162/filters:strip_icc():quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/image/782/antv-de8530.jpg"/>
+  </programme>
+  <programme channel="782" start="20260426080000 +0000" stop="20260426090000 +0000">
+    <title lang="id">TERI DORIYAANN</title>
+    <icon src="https://thumbor.prod.vidiocdn.com/20tRQaK9Gps_wFQL5rY-XgRbrs4=/287x162/filters:strip_icc():quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/image/782/antv-de8530.jpg"/>
+  </programme>
+  <programme channel="782" start="20260426090000 +0000" stop="20260426110000 +0000">
+    <title lang="id">Vasudha</title>
+    <desc lang="id">Vasudha yang periang bergabung dengan rumah pemimpin bisnis Chandrika sebagai pembantu dan mendambakan persetujuannya meskipun ada perbedaan ideologis di antara mereka.</desc>
+    <icon src="https://thumbor.prod.vidiocdn.com/20tRQaK9Gps_wFQL5rY-XgRbrs4=/287x162/filters:strip_icc():quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/image/782/antv-de8530.jpg"/>
+  </programme>
+  <programme channel="782" start="20260426110000 +0000" stop="20260426123000 +0000">
+    <title lang="id">Sinema Laga Klasik: Sangkuriang</title>
+    <desc lang="id">Lahir dengan nama Jaka Sona dari Dayang Sumbi dan Lengser. Suatu ketika Dayang Sumbi mengusir Jaka karena memanah Tumang, anjing yang selalu menemaninya yang ternyata adalah ayahnya sendiri. Saat berada di gua, Jaka mendengar suara gaib dan mendapatkan kesaktian serta berubah menjadi Sangkuriang.</desc>
+    <icon src="https://thumbor.prod.vidiocdn.com/20tRQaK9Gps_wFQL5rY-XgRbrs4=/287x162/filters:strip_icc():quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/image/782/antv-de8530.jpg"/>
+  </programme>
+  <programme channel="782" start="20260426123000 +0000" stop="20260426150000 +0000">
+    <title lang="id">Serie A 2025/26: Genoa vs Como</title>
+    <desc lang="id">Liga Italia Serie A merupakan kompetisi sepak bola profesional tertinggi di sistem liga sepak bola Italia. Sebanyak 20 klub bersaing untuk memperebutkan juara kompetisi ini.</desc>
     <icon src="https://thumbor.prod.vidiocdn.com/20tRQaK9Gps_wFQL5rY-XgRbrs4=/287x162/filters:strip_icc():quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/image/782/antv-de8530.jpg"/>
   </programme>
   <programme channel="783" start="20260423160000 +0000" stop="20260423180000 +0000">
@@ -8055,28 +8637,220 @@
     <title lang="id">Bing</title>
     <icon src="https://thumbor.prod.vidiocdn.com/01IggaPN4sSDILtEw_0MxWGgmO8=/287x162/filters:strip_icc():quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/image/8237/mentari-tv-01d2b0.jpg"/>
   </programme>
-  <programme channel="8237" start="20260424110000 +0000" stop="20260424120000 +0000">
+  <programme channel="8237" start="20260424110000 +0000" stop="20260424113000 +0000">
     <title lang="id">Magic 5 the Animation</title>
     <icon src="https://thumbor.prod.vidiocdn.com/cYjJjVFxkejJ7MqfNYD7sVV5MF8=/287x162/filters:strip_icc():quality(70)/vidio-media-production/uploads/livestreaming/schedule/thumbnail/5022254/d5cb84.jpg"/>
   </programme>
-  <programme channel="8237" start="20260424120000 +0000" stop="20260424130000 +0000">
+  <programme channel="8237" start="20260424113000 +0000" stop="20260424120000 +0000">
     <title lang="id">New Keluarga Somat</title>
     <icon src="https://thumbor.prod.vidiocdn.com/5ypnsNmmus1jTBNjn6v-qcePegg=/287x162/filters:strip_icc():quality(70)/vidio-media-production/uploads/livestreaming/schedule/thumbnail/5022683/817920.jpg"/>
   </programme>
-  <programme channel="8237" start="20260424130000 +0000" stop="20260424150000 +0000">
+  <programme channel="8237" start="20260424120000 +0000" stop="20260424140000 +0000">
     <title lang="id">Bioskop Keluarga Indonesia</title>
     <icon src="https://thumbor.prod.vidiocdn.com/UbETGiM8LU2jO4R4GSuRFrr_CPU=/287x162/filters:strip_icc():quality(70)/vidio-media-production/uploads/livestreaming/schedule/thumbnail/5022256/cb5044.jpg"/>
   </programme>
-  <programme channel="8237" start="20260424150000 +0000" stop="20260424160000 +0000">
+  <programme channel="8237" start="20260424140000 +0000" stop="20260424153000 +0000">
     <title lang="id">Pokemon</title>
     <icon src="https://thumbor.prod.vidiocdn.com/62jGbhh366mwovJW_cHLEh8l8kg=/287x162/filters:strip_icc():quality(70)/vidio-media-production/uploads/livestreaming/schedule/thumbnail/5022258/ea4c3f.jpg"/>
   </programme>
-  <programme channel="8237" start="20260424160000 +0000" stop="20260424170000 +0000">
+  <programme channel="8237" start="20260424153000 +0000" stop="20260424170000 +0000">
     <title lang="id">Keluarga Somat</title>
     <desc lang="id">Cerita kehidupan sehari-hari Pak Somat, seorang kepala keluarga yang sederhana, pekerja keras, dan penuh tingkah kocak bersama istrinya Bu Inah, anak-anaknya Dudung dan Dodi, serta tetangga-tetangganya.</desc>
     <icon src="https://thumbor.prod.vidiocdn.com/01IggaPN4sSDILtEw_0MxWGgmO8=/287x162/filters:strip_icc():quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/image/8237/mentari-tv-01d2b0.jpg"/>
   </programme>
-  <programme channel="8237" start="20260424160000 +0000" stop="20260424170000 +0000">
+  <programme channel="8237" start="20260424153000 +0000" stop="20260424170000 +0000">
+    <title lang="id">Keluarga Somat</title>
+    <desc lang="id">Cerita kehidupan sehari-hari Pak Somat, seorang kepala keluarga yang sederhana, pekerja keras, dan penuh tingkah kocak bersama istrinya Bu Inah, anak-anaknya Dudung dan Dodi, serta tetangga-tetangganya.</desc>
+    <icon src="https://thumbor.prod.vidiocdn.com/01IggaPN4sSDILtEw_0MxWGgmO8=/287x162/filters:strip_icc():quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/image/8237/mentari-tv-01d2b0.jpg"/>
+  </programme>
+  <programme channel="8237" start="20260424170000 +0000" stop="20260424180000 +0000">
+    <title lang="id">Plentis Kentus</title>
+    <icon src="https://thumbor.prod.vidiocdn.com/01IggaPN4sSDILtEw_0MxWGgmO8=/287x162/filters:strip_icc():quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/image/8237/mentari-tv-01d2b0.jpg"/>
+  </programme>
+  <programme channel="8237" start="20260424180000 +0000" stop="20260424190000 +0000">
+    <title lang="id">Madun</title>
+    <desc lang="id">Perjalanan hidup Madun dalam memperjuangkan cita-citanya untuk menjadi seorang pemain bola. Bapaknya, Syafe'i ingin anaknya menjadi seorang kyai atau ustad (ahli agama).</desc>
+    <icon src="https://thumbor.prod.vidiocdn.com/01IggaPN4sSDILtEw_0MxWGgmO8=/287x162/filters:strip_icc():quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/image/8237/mentari-tv-01d2b0.jpg"/>
+  </programme>
+  <programme channel="8237" start="20260424190000 +0000" stop="20260424200000 +0000">
+    <title lang="id">Oddbods</title>
+    <icon src="https://thumbor.prod.vidiocdn.com/-tno6zOtmtdCiowty_MDbINB3NU=/287x162/filters:strip_icc():quality(70)/vidio-media-production/uploads/livestreaming/schedule/thumbnail/5025154/696abc.jpg"/>
+  </programme>
+  <programme channel="8237" start="20260424200000 +0000" stop="20260424210000 +0000">
+    <title lang="id">Mumfie</title>
+    <icon src="https://thumbor.prod.vidiocdn.com/01IggaPN4sSDILtEw_0MxWGgmO8=/287x162/filters:strip_icc():quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/image/8237/mentari-tv-01d2b0.jpg"/>
+  </programme>
+  <programme channel="8237" start="20260424210000 +0000" stop="20260424220000 +0000">
+    <title lang="id">TianTian</title>
+    <icon src="https://thumbor.prod.vidiocdn.com/01IggaPN4sSDILtEw_0MxWGgmO8=/287x162/filters:strip_icc():quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/image/8237/mentari-tv-01d2b0.jpg"/>
+  </programme>
+  <programme channel="8237" start="20260424220000 +0000" stop="20260424230000 +0000">
+    <title lang="id">Shimajiro</title>
+    <icon src="https://thumbor.prod.vidiocdn.com/01IggaPN4sSDILtEw_0MxWGgmO8=/287x162/filters:strip_icc():quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/image/8237/mentari-tv-01d2b0.jpg"/>
+  </programme>
+  <programme channel="8237" start="20260424230000 +0000" stop="20260425000000 +0000">
+    <title lang="id">Go Jetters</title>
+    <icon src="https://thumbor.prod.vidiocdn.com/01IggaPN4sSDILtEw_0MxWGgmO8=/287x162/filters:strip_icc():quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/image/8237/mentari-tv-01d2b0.jpg"/>
+  </programme>
+  <programme channel="8237" start="20260425000000 +0000" stop="20260425010000 +0000">
+    <title lang="id">Pinkfong &amp; Friends</title>
+    <icon src="https://thumbor.prod.vidiocdn.com/01IggaPN4sSDILtEw_0MxWGgmO8=/287x162/filters:strip_icc():quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/image/8237/mentari-tv-01d2b0.jpg"/>
+  </programme>
+  <programme channel="8237" start="20260425010000 +0000" stop="20260425013000 +0000">
+    <title lang="id">Wakakibo</title>
+    <icon src="https://thumbor.prod.vidiocdn.com/QUuxtv0AbeDgV9QIhMe-50SB6_8=/287x162/filters:strip_icc():quality(70)/vidio-media-production/uploads/tv_program/thumbnail/383579/5bb89d.jpg"/>
+  </programme>
+  <programme channel="8237" start="20260425013000 +0000" stop="20260425023000 +0000">
+    <title lang="id">Titipo Titipo</title>
+    <icon src="https://thumbor.prod.vidiocdn.com/NdKJ3J-D0k1r6Rulsv_mNNY_hPA=/287x162/filters:strip_icc():quality(70)/vidio-media-production/uploads/livestreaming/schedule/thumbnail/5025170/8d5120.jpg"/>
+  </programme>
+  <programme channel="8237" start="20260425023000 +0000" stop="20260425040000 +0000">
+    <title lang="id">Katuri</title>
+    <desc lang="id">Serial edukasi tentang empat anak ayam yang tumbuh di hutan alam di bawah kasih sayang dan kelembutan induknya.</desc>
+    <icon src="https://thumbor.prod.vidiocdn.com/01IggaPN4sSDILtEw_0MxWGgmO8=/287x162/filters:strip_icc():quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/image/8237/mentari-tv-01d2b0.jpg"/>
+  </programme>
+  <programme channel="8237" start="20260425040000 +0000" stop="20260425060000 +0000">
+    <title lang="id">Pororo The Little Penguin</title>
+    <icon src="https://thumbor.prod.vidiocdn.com/oMPUhfKj8KX7r9Pg5U0oaHMXDtc=/287x162/filters:strip_icc():quality(70)/vidio-media-production/uploads/livestreaming/schedule/thumbnail/5025174/025d4a.jpg"/>
+  </programme>
+  <programme channel="8237" start="20260425060000 +0000" stop="20260425073000 +0000">
+    <title lang="id">Rainbow Bubblegem</title>
+    <icon src="https://thumbor.prod.vidiocdn.com/EC2vmoR_Mk81R75rXPpIoXeBxnI=/287x162/filters:strip_icc():quality(70)/vidio-media-production/uploads/livestreaming/schedule/thumbnail/5025176/482723.jpg"/>
+  </programme>
+  <programme channel="8237" start="20260425073000 +0000" stop="20260425090000 +0000">
+    <title lang="id">Bluey</title>
+    <icon src="https://thumbor.prod.vidiocdn.com/01IggaPN4sSDILtEw_0MxWGgmO8=/287x162/filters:strip_icc():quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/image/8237/mentari-tv-01d2b0.jpg"/>
+  </programme>
+  <programme channel="8237" start="20260425090000 +0000" stop="20260425100000 +0000">
+    <title lang="id">TianTian</title>
+    <icon src="https://thumbor.prod.vidiocdn.com/01IggaPN4sSDILtEw_0MxWGgmO8=/287x162/filters:strip_icc():quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/image/8237/mentari-tv-01d2b0.jpg"/>
+  </programme>
+  <programme channel="8237" start="20260425100000 +0000" stop="20260425103000 +0000">
+    <title lang="id">Abang L The Explorer</title>
+    <icon src="https://thumbor.prod.vidiocdn.com/F2V0y-9jK5_XmvaIkXt7l2y6qso=/287x162/filters:strip_icc():quality(70)/vidio-media-production/uploads/livestreaming/schedule/thumbnail/5025180/e9b441.jpg"/>
+  </programme>
+  <programme channel="8237" start="20260425103000 +0000" stop="20260425110000 +0000">
+    <title lang="id">Bing</title>
+    <icon src="https://thumbor.prod.vidiocdn.com/01IggaPN4sSDILtEw_0MxWGgmO8=/287x162/filters:strip_icc():quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/image/8237/mentari-tv-01d2b0.jpg"/>
+  </programme>
+  <programme channel="8237" start="20260425110000 +0000" stop="20260425113000 +0000">
+    <title lang="id">Magic 5 the Animation</title>
+    <icon src="https://thumbor.prod.vidiocdn.com/grCGHQRIdNANKEw5RUDpbpQqngs=/287x162/filters:strip_icc():quality(70)/vidio-media-production/uploads/livestreaming/schedule/thumbnail/5025184/e43002.jpg"/>
+  </programme>
+  <programme channel="8237" start="20260425113000 +0000" stop="20260425120000 +0000">
+    <title lang="id">New Keluarga Somat</title>
+    <icon src="https://thumbor.prod.vidiocdn.com/JvGJ9PECAp0jLK0iwIuTCZLBV7c=/287x162/filters:strip_icc():quality(70)/vidio-media-production/uploads/livestreaming/schedule/thumbnail/5025192/7b39f9.jpg"/>
+  </programme>
+  <programme channel="8237" start="20260425120000 +0000" stop="20260425140000 +0000">
+    <title lang="id">Bioskop Keluarga Indonesia</title>
+    <icon src="https://thumbor.prod.vidiocdn.com/L4CFp6PyFxzag0fwPFgTPktpIhk=/287x162/filters:strip_icc():quality(70)/vidio-media-production/uploads/livestreaming/schedule/thumbnail/5025186/a10f45.jpg"/>
+  </programme>
+  <programme channel="8237" start="20260425140000 +0000" stop="20260425153000 +0000">
+    <title lang="id">Pokemon</title>
+    <icon src="https://thumbor.prod.vidiocdn.com/7gh__DUqDHcoTVNUOy2nFOmroq0=/287x162/filters:strip_icc():quality(70)/vidio-media-production/uploads/livestreaming/schedule/thumbnail/5025188/a0a7ca.jpg"/>
+  </programme>
+  <programme channel="8237" start="20260425153000 +0000" stop="20260425170000 +0000">
+    <title lang="id">Keluarga Somat</title>
+    <desc lang="id">Cerita kehidupan sehari-hari Pak Somat, seorang kepala keluarga yang sederhana, pekerja keras, dan penuh tingkah kocak bersama istrinya Bu Inah, anak-anaknya Dudung dan Dodi, serta tetangga-tetangganya.</desc>
+    <icon src="https://thumbor.prod.vidiocdn.com/01IggaPN4sSDILtEw_0MxWGgmO8=/287x162/filters:strip_icc():quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/image/8237/mentari-tv-01d2b0.jpg"/>
+  </programme>
+  <programme channel="8237" start="20260425153000 +0000" stop="20260425170000 +0000">
+    <title lang="id">Keluarga Somat</title>
+    <desc lang="id">Cerita kehidupan sehari-hari Pak Somat, seorang kepala keluarga yang sederhana, pekerja keras, dan penuh tingkah kocak bersama istrinya Bu Inah, anak-anaknya Dudung dan Dodi, serta tetangga-tetangganya.</desc>
+    <icon src="https://thumbor.prod.vidiocdn.com/01IggaPN4sSDILtEw_0MxWGgmO8=/287x162/filters:strip_icc():quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/image/8237/mentari-tv-01d2b0.jpg"/>
+  </programme>
+  <programme channel="8237" start="20260425170000 +0000" stop="20260425180000 +0000">
+    <title lang="id">Plentis Kentus</title>
+    <icon src="https://thumbor.prod.vidiocdn.com/01IggaPN4sSDILtEw_0MxWGgmO8=/287x162/filters:strip_icc():quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/image/8237/mentari-tv-01d2b0.jpg"/>
+  </programme>
+  <programme channel="8237" start="20260425180000 +0000" stop="20260425190000 +0000">
+    <title lang="id">Madun</title>
+    <desc lang="id">Perjalanan hidup Madun dalam memperjuangkan cita-citanya untuk menjadi seorang pemain bola. Bapaknya, Syafe'i ingin anaknya menjadi seorang kyai atau ustad (ahli agama).</desc>
+    <icon src="https://thumbor.prod.vidiocdn.com/01IggaPN4sSDILtEw_0MxWGgmO8=/287x162/filters:strip_icc():quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/image/8237/mentari-tv-01d2b0.jpg"/>
+  </programme>
+  <programme channel="8237" start="20260425190000 +0000" stop="20260425200000 +0000">
+    <title lang="id">Oddbods</title>
+    <icon src="https://thumbor.prod.vidiocdn.com/nHpYJq70Bm14vE9Yv6ZAMsCkQzg=/287x162/filters:strip_icc():quality(70)/vidio-media-production/uploads/tv_program/thumbnail/2072/2174e9.jpg"/>
+  </programme>
+  <programme channel="8237" start="20260425200000 +0000" stop="20260425210000 +0000">
+    <title lang="id">Mumfie</title>
+    <icon src="https://thumbor.prod.vidiocdn.com/01IggaPN4sSDILtEw_0MxWGgmO8=/287x162/filters:strip_icc():quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/image/8237/mentari-tv-01d2b0.jpg"/>
+  </programme>
+  <programme channel="8237" start="20260425210000 +0000" stop="20260425220000 +0000">
+    <title lang="id">TianTian</title>
+    <icon src="https://thumbor.prod.vidiocdn.com/01IggaPN4sSDILtEw_0MxWGgmO8=/287x162/filters:strip_icc():quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/image/8237/mentari-tv-01d2b0.jpg"/>
+  </programme>
+  <programme channel="8237" start="20260425220000 +0000" stop="20260425230000 +0000">
+    <title lang="id">Shimajiro</title>
+    <icon src="https://thumbor.prod.vidiocdn.com/01IggaPN4sSDILtEw_0MxWGgmO8=/287x162/filters:strip_icc():quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/image/8237/mentari-tv-01d2b0.jpg"/>
+  </programme>
+  <programme channel="8237" start="20260425230000 +0000" stop="20260426000000 +0000">
+    <title lang="id">Go Jetters</title>
+    <icon src="https://thumbor.prod.vidiocdn.com/01IggaPN4sSDILtEw_0MxWGgmO8=/287x162/filters:strip_icc():quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/image/8237/mentari-tv-01d2b0.jpg"/>
+  </programme>
+  <programme channel="8237" start="20260426000000 +0000" stop="20260426010000 +0000">
+    <title lang="id">Pinkfong &amp; Friends</title>
+    <icon src="https://thumbor.prod.vidiocdn.com/01IggaPN4sSDILtEw_0MxWGgmO8=/287x162/filters:strip_icc():quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/image/8237/mentari-tv-01d2b0.jpg"/>
+  </programme>
+  <programme channel="8237" start="20260426010000 +0000" stop="20260426013000 +0000">
+    <title lang="id">Wakakibo</title>
+    <icon src="https://thumbor.prod.vidiocdn.com/QUuxtv0AbeDgV9QIhMe-50SB6_8=/287x162/filters:strip_icc():quality(70)/vidio-media-production/uploads/tv_program/thumbnail/383579/5bb89d.jpg"/>
+  </programme>
+  <programme channel="8237" start="20260426013000 +0000" stop="20260426023000 +0000">
+    <title lang="id">Titipo Titipo</title>
+    <icon src="https://thumbor.prod.vidiocdn.com/01IggaPN4sSDILtEw_0MxWGgmO8=/287x162/filters:strip_icc():quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/image/8237/mentari-tv-01d2b0.jpg"/>
+  </programme>
+  <programme channel="8237" start="20260426023000 +0000" stop="20260426040000 +0000">
+    <title lang="id">Katuri</title>
+    <desc lang="id">Serial edukasi tentang empat anak ayam yang tumbuh di hutan alam di bawah kasih sayang dan kelembutan induknya.</desc>
+    <icon src="https://thumbor.prod.vidiocdn.com/01IggaPN4sSDILtEw_0MxWGgmO8=/287x162/filters:strip_icc():quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/image/8237/mentari-tv-01d2b0.jpg"/>
+  </programme>
+  <programme channel="8237" start="20260426040000 +0000" stop="20260426060000 +0000">
+    <title lang="id">Pororo The Little Penguin</title>
+    <icon src="https://thumbor.prod.vidiocdn.com/VoA_joxu-XWrR8X0icZBK_QhxaM=/287x162/filters:strip_icc():quality(70)/vidio-media-production/uploads/tv_program/thumbnail/380862/bff933.jpg"/>
+  </programme>
+  <programme channel="8237" start="20260426060000 +0000" stop="20260426073000 +0000">
+    <title lang="id">Rainbow Bubblegem</title>
+    <icon src="https://thumbor.prod.vidiocdn.com/nu4JZ42X5vjTXRVwKBy1zyKN3dU=/287x162/filters:strip_icc():quality(70)/vidio-media-production/uploads/tv_program/thumbnail/383650/bd78ed.jpg"/>
+  </programme>
+  <programme channel="8237" start="20260426073000 +0000" stop="20260426090000 +0000">
+    <title lang="id">Bluey</title>
+    <icon src="https://thumbor.prod.vidiocdn.com/01IggaPN4sSDILtEw_0MxWGgmO8=/287x162/filters:strip_icc():quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/image/8237/mentari-tv-01d2b0.jpg"/>
+  </programme>
+  <programme channel="8237" start="20260426090000 +0000" stop="20260426100000 +0000">
+    <title lang="id">TianTian</title>
+    <icon src="https://thumbor.prod.vidiocdn.com/01IggaPN4sSDILtEw_0MxWGgmO8=/287x162/filters:strip_icc():quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/image/8237/mentari-tv-01d2b0.jpg"/>
+  </programme>
+  <programme channel="8237" start="20260426100000 +0000" stop="20260426103000 +0000">
+    <title lang="id">Abang L The Explorer</title>
+    <icon src="https://thumbor.prod.vidiocdn.com/nqJs3hR569urY-0NTesKpjDomYs=/287x162/filters:strip_icc():quality(70)/vidio-media-production/uploads/tv_program/thumbnail/385494/74b6eb.jpg"/>
+  </programme>
+  <programme channel="8237" start="20260426103000 +0000" stop="20260426110000 +0000">
+    <title lang="id">Bing</title>
+    <icon src="https://thumbor.prod.vidiocdn.com/01IggaPN4sSDILtEw_0MxWGgmO8=/287x162/filters:strip_icc():quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/image/8237/mentari-tv-01d2b0.jpg"/>
+  </programme>
+  <programme channel="8237" start="20260426110000 +0000" stop="20260426113000 +0000">
+    <title lang="id">Magic 5 the Animation</title>
+    <icon src="https://thumbor.prod.vidiocdn.com/01IggaPN4sSDILtEw_0MxWGgmO8=/287x162/filters:strip_icc():quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/image/8237/mentari-tv-01d2b0.jpg"/>
+  </programme>
+  <programme channel="8237" start="20260426113000 +0000" stop="20260426120000 +0000">
+    <title lang="id">New Keluarga Somat</title>
+    <icon src="https://thumbor.prod.vidiocdn.com/01IggaPN4sSDILtEw_0MxWGgmO8=/287x162/filters:strip_icc():quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/image/8237/mentari-tv-01d2b0.jpg"/>
+  </programme>
+  <programme channel="8237" start="20260426120000 +0000" stop="20260426140000 +0000">
+    <title lang="id">Bioskop Keluarga Indonesia</title>
+    <icon src="https://thumbor.prod.vidiocdn.com/01IggaPN4sSDILtEw_0MxWGgmO8=/287x162/filters:strip_icc():quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/image/8237/mentari-tv-01d2b0.jpg"/>
+  </programme>
+  <programme channel="8237" start="20260426150000 +0000" stop="20260426153000 +0000">
+    <title lang="id">Pokemon</title>
+    <icon src="https://thumbor.prod.vidiocdn.com/01IggaPN4sSDILtEw_0MxWGgmO8=/287x162/filters:strip_icc():quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/image/8237/mentari-tv-01d2b0.jpg"/>
+  </programme>
+  <programme channel="8237" start="20260426153000 +0000" stop="20260426170000 +0000">
+    <title lang="id">Keluarga Somat</title>
+    <desc lang="id">Cerita kehidupan sehari-hari Pak Somat, seorang kepala keluarga yang sederhana, pekerja keras, dan penuh tingkah kocak bersama istrinya Bu Inah, anak-anaknya Dudung dan Dodi, serta tetangga-tetangganya.</desc>
+    <icon src="https://thumbor.prod.vidiocdn.com/01IggaPN4sSDILtEw_0MxWGgmO8=/287x162/filters:strip_icc():quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/image/8237/mentari-tv-01d2b0.jpg"/>
+  </programme>
+  <programme channel="8237" start="20260426153000 +0000" stop="20260426170000 +0000">
     <title lang="id">Keluarga Somat</title>
     <desc lang="id">Cerita kehidupan sehari-hari Pak Somat, seorang kepala keluarga yang sederhana, pekerja keras, dan penuh tingkah kocak bersama istrinya Bu Inah, anak-anaknya Dudung dan Dodi, serta tetangga-tetangganya.</desc>
     <icon src="https://thumbor.prod.vidiocdn.com/01IggaPN4sSDILtEw_0MxWGgmO8=/287x162/filters:strip_icc():quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/image/8237/mentari-tv-01d2b0.jpg"/>
@@ -10615,25 +11389,15 @@
     <desc lang="id">PSG vs Nantes</desc>
     <icon src="https://thumbor.prod.vidiocdn.com/VmoYokSeKr_3SubUXC-rMC-EtQM=/287x162/filters:strip_icc():quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/image/17875/bein-2-25a5f9.jpg"/>
   </programme>
-  <programme channel="17875" start="20260424090000 +0000" stop="20260424133000 +0000">
+  <programme channel="17875" start="20260424090000 +0000" stop="20260424130000 +0000">
     <title lang="id">Brussels P2 Premier Padel 2026 - Quarterfinals</title>
     <desc lang="id">Nonton streaming pertandingan seru Brussels P2 Premier Padel 2026 - Quarterfinals. Saksikan aksi-aksi terbaik dari tim yang bersaing ketat untuk meraih kemenangan. Dapatkan informasi lengkap mengenai jadwal pertandingan dan hasil pertandingan terbaru hanya di Vidio.</desc>
     <icon src="https://thumbor.prod.vidiocdn.com/Grt5U4DAch0UFCNJlChuz-WxIrk=/287x162/filters:strip_icc():quality(70)/vidio-media-production/uploads/livestreaming/schedule/thumbnail/5021537/eabe94.jpg"/>
   </programme>
-  <programme channel="17875" start="20260424133000 +0000" stop="20260424135500 +0000">
-    <title lang="id">Episode Number 0 : HSBC SVNS World Championships 2026</title>
-    <desc lang="id">Episode Number 0</desc>
-    <icon src="https://thumbor.prod.vidiocdn.com/VmoYokSeKr_3SubUXC-rMC-EtQM=/287x162/filters:strip_icc():quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/image/17875/bein-2-25a5f9.jpg"/>
-  </programme>
-  <programme channel="17875" start="20260424135500 +0000" stop="20260424142000 +0000">
-    <title lang="id">Episode Number 0 : HSBC SVNS World Championships 2026</title>
-    <desc lang="id">Episode Number 0</desc>
-    <icon src="https://thumbor.prod.vidiocdn.com/VmoYokSeKr_3SubUXC-rMC-EtQM=/287x162/filters:strip_icc():quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/image/17875/bein-2-25a5f9.jpg"/>
-  </programme>
-  <programme channel="17875" start="20260424142000 +0000" stop="20260424144500 +0000">
-    <title lang="id">Episode Number 0 : HSBC SVNS World Championships 2026</title>
-    <desc lang="id">Episode Number 0</desc>
-    <icon src="https://thumbor.prod.vidiocdn.com/VmoYokSeKr_3SubUXC-rMC-EtQM=/287x162/filters:strip_icc():quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/image/17875/bein-2-25a5f9.jpg"/>
+  <programme channel="17875" start="20260424130000 +0000" stop="20260424143000 +0000">
+    <title lang="id">Brussels P2 Premier Padel 2026 - Quarterfinals</title>
+    <desc lang="id">Nonton streaming pertandingan seru Brussels P2 Premier Padel 2026 - Quarterfinals. Saksikan aksi-aksi terbaik dari tim yang bersaing ketat untuk meraih kemenangan. Dapatkan informasi lengkap mengenai jadwal pertandingan dan hasil pertandingan terbaru hanya di Vidio.</desc>
+    <icon src="https://thumbor.prod.vidiocdn.com/qrOA_VxYPX_457xS3uVxEh0EQPY=/287x162/filters:strip_icc():quality(70)/vidio-media-production/uploads/livestreaming/schedule/thumbnail/5024732/570586.jpg"/>
   </programme>
   <programme channel="17875" start="20260424144500 +0000" stop="20260424151000 +0000">
     <title lang="id">Episode Number 0 : HSBC SVNS World Championships 2026</title>
@@ -10650,15 +11414,19 @@
     <desc lang="id">Episode Number 0</desc>
     <icon src="https://thumbor.prod.vidiocdn.com/VmoYokSeKr_3SubUXC-rMC-EtQM=/287x162/filters:strip_icc():quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/image/17875/bein-2-25a5f9.jpg"/>
   </programme>
-  <programme channel="17875" start="20260424160000 +0000" stop="20260424203000 +0000">
+  <programme channel="17875" start="20260424160000 +0000" stop="20260424182200 +0000">
     <title lang="id">Brussels P2 Premier Padel 2026 - Quarterfinals</title>
     <desc lang="id">Nonton streaming pertandingan seru Brussels P2 Premier Padel 2026 - Quarterfinals. Saksikan aksi-aksi terbaik dari tim yang bersaing ketat untuk meraih kemenangan. Dapatkan informasi lengkap mengenai jadwal pertandingan dan hasil pertandingan terbaru hanya di Vidio.</desc>
     <icon src="https://thumbor.prod.vidiocdn.com/mFLh1uW59_oyppq-5t7jENHXmy8=/287x162/filters:strip_icc():quality(70)/vidio-media-production/uploads/livestreaming/schedule/thumbnail/5021539/61d809.jpg"/>
   </programme>
-  <programme channel="17875" start="20260424160000 +0000" stop="20260424203000 +0000">
+  <programme channel="17875" start="20260424160000 +0000" stop="20260424182200 +0000">
     <title lang="id">Brussels P2 Premier Padel 2026 - Quarterfinals</title>
     <desc lang="id">Nonton streaming pertandingan seru Brussels P2 Premier Padel 2026 - Quarterfinals. Saksikan aksi-aksi terbaik dari tim yang bersaing ketat untuk meraih kemenangan. Dapatkan informasi lengkap mengenai jadwal pertandingan dan hasil pertandingan terbaru hanya di Vidio.</desc>
     <icon src="https://thumbor.prod.vidiocdn.com/mFLh1uW59_oyppq-5t7jENHXmy8=/287x162/filters:strip_icc():quality(70)/vidio-media-production/uploads/livestreaming/schedule/thumbnail/5021539/61d809.jpg"/>
+  </programme>
+  <programme channel="17875" start="20260424182200 +0000" stop="20260424203000 +0000">
+    <title lang="id">LaLiga 2 2025/26</title>
+    <icon src="https://thumbor.prod.vidiocdn.com/VmoYokSeKr_3SubUXC-rMC-EtQM=/287x162/filters:strip_icc():quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/image/17875/bein-2-25a5f9.jpg"/>
   </programme>
   <programme channel="17875" start="20260424203000 +0000" stop="20260424210000 +0000">
     <title lang="id">Riyadh P1 : Premier Padel Highlights 2026</title>
@@ -10711,9 +11479,9 @@
     <icon src="https://thumbor.prod.vidiocdn.com/VmoYokSeKr_3SubUXC-rMC-EtQM=/287x162/filters:strip_icc():quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/image/17875/bein-2-25a5f9.jpg"/>
   </programme>
   <programme channel="17875" start="20260425083000 +0000" stop="20260425093000 +0000">
-    <title lang="id">Rally Islas Canarias SS10 Arucas - Firgas - Teror 1 : FIA World Rally Championship 2026</title>
-    <desc lang="id">Rally Islas Canarias SS10 Arucas - Firgas - Teror 1</desc>
-    <icon src="https://thumbor.prod.vidiocdn.com/VmoYokSeKr_3SubUXC-rMC-EtQM=/287x162/filters:strip_icc():quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/image/17875/bein-2-25a5f9.jpg"/>
+    <title lang="id">Rally Islas Canarias SS10 Arucas - Teror 1 - WRC Rally Islas Canarias 2026</title>
+    <desc lang="id">Nonton streaming pertandingan seru Rally Islas Canarias SS10 Arucas - Teror 1 - WRC Rally Islas Canarias 2026. Saksikan aksi-aksi terbaik dari tim yang bersaing ketat untuk meraih kemenangan. Dapatkan informasi lengkap mengenai jadwal pertandingan dan hasil pertandingan terbaru hanya di Vidio.</desc>
+    <icon src="https://thumbor.prod.vidiocdn.com/DJzDooCJ3JjUEpoKrnynwaHG8e8=/287x162/filters:strip_icc():quality(70)/vidio-media-production/uploads/livestreaming/schedule/thumbnail/5025235/a1a14b.jpg"/>
   </programme>
   <programme channel="17875" start="20260425093000 +0000" stop="20260425100000 +0000">
     <title lang="id">London City Lionesses : Women's Super League Unlocked 2025/26</title>
@@ -10751,9 +11519,9 @@
     <icon src="https://thumbor.prod.vidiocdn.com/VmoYokSeKr_3SubUXC-rMC-EtQM=/287x162/filters:strip_icc():quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/image/17875/bein-2-25a5f9.jpg"/>
   </programme>
   <programme channel="17875" start="20260425150000 +0000" stop="20260425160000 +0000">
-    <title lang="id">Rally Islas Canarias SS13 Arucas - Firgas -Teror 2 : FIA World Rally Championship 2026</title>
-    <desc lang="id">Rally Islas Canarias SS13 Arucas - Firgas -Teror 2</desc>
-    <icon src="https://thumbor.prod.vidiocdn.com/VmoYokSeKr_3SubUXC-rMC-EtQM=/287x162/filters:strip_icc():quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/image/17875/bein-2-25a5f9.jpg"/>
+    <title lang="id">Rally Islas Canarias SS13 Arucas - Teror 2 - WRC Rally Islas Canarias 2026</title>
+    <desc lang="id">Nonton streaming pertandingan seru Rally Islas Canarias SS13 Arucas - Teror 2 - WRC Rally Islas Canarias 2026. Saksikan aksi-aksi terbaik dari tim yang bersaing ketat untuk meraih kemenangan. Dapatkan informasi lengkap mengenai jadwal pertandingan dan hasil pertandingan terbaru hanya di Vidio.</desc>
+    <icon src="https://thumbor.prod.vidiocdn.com/8dXqIgWjwoYviZjwaBFTqqaMj8A=/287x162/filters:strip_icc():quality(70)/vidio-media-production/uploads/livestreaming/schedule/thumbnail/5025236/bd3e4e.jpg"/>
   </programme>
   <programme channel="17875" start="20260425160000 +0000" stop="20260425161000 +0000">
     <title lang="id">Cancun P2 Women : Premier Padel Match Highlights 2026</title>
@@ -10831,9 +11599,9 @@
     <icon src="https://thumbor.prod.vidiocdn.com/VmoYokSeKr_3SubUXC-rMC-EtQM=/287x162/filters:strip_icc():quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/image/17875/bein-2-25a5f9.jpg"/>
   </programme>
   <programme channel="17875" start="20260426080000 +0000" stop="20260426090000 +0000">
-    <title lang="id">Rally Islas Canarias SS16 Santa Lucia - Aguimes 1 : FIA World Rally Championship 2026</title>
-    <desc lang="id">Rally Islas Canarias SS16 Santa Lucia - Aguimes 1</desc>
-    <icon src="https://thumbor.prod.vidiocdn.com/VmoYokSeKr_3SubUXC-rMC-EtQM=/287x162/filters:strip_icc():quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/image/17875/bein-2-25a5f9.jpg"/>
+    <title lang="id">Rally Islas Canarias SS16 Santa Lucia - Aguimes 1 - WRC Rally Islas Canarias 2026</title>
+    <desc lang="id">Nonton streaming pertandingan seru Rally Islas Canarias SS16 Santa Lucia - Aguimes 1 - WRC Rally Islas Canarias 2026. Saksikan aksi-aksi terbaik dari tim yang bersaing ketat untuk meraih kemenangan. Dapatkan informasi lengkap mengenai jadwal pertandingan dan hasil pertandingan terbaru hanya di Vidio.</desc>
+    <icon src="https://thumbor.prod.vidiocdn.com/dUlaPoensyK9ggKd7ao9GBYpTAk=/287x162/filters:strip_icc():quality(70)/vidio-media-production/uploads/livestreaming/schedule/thumbnail/5025240/75d197.jpg"/>
   </programme>
   <programme channel="17875" start="20260426090000 +0000" stop="20260426091000 +0000">
     <title lang="id">Miami P1 Men : Premier Padel Match Highlights 2026</title>
@@ -10855,19 +11623,16 @@
     <desc lang="id">London City Lionesses</desc>
     <icon src="https://thumbor.prod.vidiocdn.com/VmoYokSeKr_3SubUXC-rMC-EtQM=/287x162/filters:strip_icc():quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/image/17875/bein-2-25a5f9.jpg"/>
   </programme>
-  <programme channel="17875" start="20260426120000 +0000" stop="20260426133000 +0000">
-    <title lang="id">Rally Islas Canarias SS18 Santa Lucia - Aguimes 2 Wolf PS - WRC Rally Islas Canarias 2026</title>
-    <desc lang="id">Nonton streaming pertandingan seru Rally Islas Canarias SS18 Santa Lucia - Aguimes 2 Wolf PS - WRC Rally Islas Canarias 2026. Saksikan aksi-aksi terbaik dari tim yang bersaing ketat untuk meraih kemenangan. Dapatkan informasi lengkap mengenai jadwal pertandingan dan hasil pertandingan terbaru hanya di Vidio.</desc>
-    <icon src="https://thumbor.prod.vidiocdn.com/fzWQ8MTPQpuobbEUIKv1X5oNxFQ=/287x162/filters:strip_icc():quality(70)/vidio-media-production/uploads/livestreaming/schedule/thumbnail/5024682/fce2a9.jpg"/>
-  </programme>
-  <programme channel="17875" start="20260426133000 +0000" stop="20260426140000 +0000">
-    <title lang="id">5th Place Play-off, Hong Kong - Women : HSBC SVNS World Championships 2026</title>
-    <desc lang="id">5th Place Play-off, Hong Kong - Women</desc>
+  <programme channel="17875" start="20260426120000 +0000" stop="20260426121000 +0000">
+    <title lang="id">Premier Padel Match Highlights 2026</title>
     <icon src="https://thumbor.prod.vidiocdn.com/VmoYokSeKr_3SubUXC-rMC-EtQM=/287x162/filters:strip_icc():quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/image/17875/bein-2-25a5f9.jpg"/>
   </programme>
-  <programme channel="17875" start="20260426140000 +0000" stop="20260426142500 +0000">
-    <title lang="id">5th Place Play-off, Hong Kong - Men : HSBC SVNS World Championships 2026</title>
-    <desc lang="id">5th Place Play-off, Hong Kong - Men</desc>
+  <programme channel="17875" start="20260426121000 +0000" stop="20260426130500 +0000">
+    <title lang="id">HSBC SVNS World Championships 2026</title>
+    <icon src="https://thumbor.prod.vidiocdn.com/VmoYokSeKr_3SubUXC-rMC-EtQM=/287x162/filters:strip_icc():quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/image/17875/bein-2-25a5f9.jpg"/>
+  </programme>
+  <programme channel="17875" start="20260426130500 +0000" stop="20260426142500 +0000">
+    <title lang="id">Red Bull Ring Race 2</title>
     <icon src="https://thumbor.prod.vidiocdn.com/VmoYokSeKr_3SubUXC-rMC-EtQM=/287x162/filters:strip_icc():quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/image/17875/bein-2-25a5f9.jpg"/>
   </programme>
   <programme channel="17875" start="20260426142500 +0000" stop="20260426163000 +0000">

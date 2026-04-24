@@ -2577,6 +2577,9 @@ Warning: Undefined array key "et" in /usr/home/ManusiaBiasa/domains/manusiabiasa
 <programme start="20260424183000 +0000" stop="20260424185000 +0000" channel="Sky Sport Austria 3 HD.skyde">
     <title>Es folgt: Live Premier League</title>
 </programme>
+<programme start="20260424185000 +0000" stop="20260424210000 +0000" channel="Sky Sport Austria 3 HD.skyde">
+    <title>Live PL: AFC Sunderland - Nottingham Forest, 34. Spieltag</title>
+</programme>
 <programme start="20260423220000 +0000" stop="20260423223000 +0000" channel="Sky Sport Bundesliga HD.skyde">
     <title>BL: Bundesliga Weekly</title>
 </programme>
@@ -2808,7 +2811,7 @@ Warning: Undefined array key "et" in /usr/home/ManusiaBiasa/domains/manusiabiasa
 <programme start="20260424190000 +0000" stop="20260424220000 +0000" channel="Sky Sport Golf HD.skyde">
     <title>Asian Tour: Singapore Open, 2. Tag auf Sentosa (Singapur)</title>
 </programme>
-<programme start="20260423223000 +0000" stop="20260423233000 +0000" channel="Sky Sport Mix HD.skyde">
+<programme start="20260423224500 +0000" stop="20260423233000 +0000" channel="Sky Sport Mix HD.skyde">
     <title>NHL: Tonight - Playoff Edition</title>
 </programme>
 <programme start="20260423233000 +0000" stop="20260424023000 +0000" channel="Sky Sport Mix HD.skyde">
@@ -2995,7 +2998,7 @@ Warning: Undefined array key "et" in /usr/home/ManusiaBiasa/domains/manusiabiasa
     <title>PL: 1 to 11 (Yaya Toure)</title>
 </programme>
 <programme start="20260424044500 +0000" stop="20260424050000 +0000" channel="Sky Sport Premier League HD.skyde">
-    <title>PL: Under the Skin (Newcastle v Sunderland)</title>
+    <title>PL: Under the Skin (FC Everton)</title>
 </programme>
 <programme start="20260424050000 +0000" stop="20260424060000 +0000" channel="Sky Sport Premier League HD.skyde">
     <title>PL: The Catch-Up Show</title>
@@ -3090,22 +3093,22 @@ Warning: Undefined array key "et" in /usr/home/ManusiaBiasa/domains/manusiabiasa
 <programme start="20260424213000 +0000" stop="20260424233000 +0000" channel="Sky Sport Premier League HD.skyde">
     <title>PL: AFC Sunderland - Nottingham Forest, 34. Spieltag</title>
 </programme>
-<programme start="20260423220000 +0000" stop="20260424000000 +0000" channel="Sky Sport Tennis HD.skyde">
+<programme start="20260423231500 +0000" stop="20260424002500 +0000" channel="Sky Sport Tennis HD.skyde">
     <title>ATP 1000: D. Altmaier (GER) - J. M. Cerundolo (ARG), Mutua Madrid Open in Madrid (ESP), 3. Tag</title>
 </programme>
-<programme start="20260424000000 +0000" stop="20260424021500 +0000" channel="Sky Sport Tennis HD.skyde">
+<programme start="20260424002500 +0000" stop="20260424024000 +0000" channel="Sky Sport Tennis HD.skyde">
     <title>ATP 500: B. Shelton (USA) - F. Cobolli (ITA), BMW Open in München, Finale</title>
 </programme>
-<programme start="20260424021500 +0000" stop="20260424040000 +0000" channel="Sky Sport Tennis HD.skyde">
+<programme start="20260424024000 +0000" stop="20260424042500 +0000" channel="Sky Sport Tennis HD.skyde">
     <title>WTA 500: E. Rybakina (KAZ) - K. Muchova (CZE), Porsche Tennis Grand Prix in Stuttgart, Finale</title>
 </programme>
-<programme start="20260424040000 +0000" stop="20260424050000 +0000" channel="Sky Sport Tennis HD.skyde">
+<programme start="20260424042500 +0000" stop="20260424052000 +0000" channel="Sky Sport Tennis HD.skyde">
     <title>ATP 500: Review Barcelona</title>
 </programme>
-<programme start="20260424050000 +0000" stop="20260424070000 +0000" channel="Sky Sport Tennis HD.skyde">
+<programme start="20260424052000 +0000" stop="20260424074500 +0000" channel="Sky Sport Tennis HD.skyde">
     <title>WTA 1000: L. Siegemund (GER) - J. Paolini (ITA)l, Mutua Madrid Open in Madrid (ESP), 3. Tag</title>
 </programme>
-<programme start="20260424070000 +0000" stop="20260424090000 +0000" channel="Sky Sport Tennis HD.skyde">
+<programme start="20260424074500 +0000" stop="20260424090000 +0000" channel="Sky Sport Tennis HD.skyde">
     <title>ATP 1000: D. Altmaier (GER) - J. M. Cerundolo (ARG), Mutua Madrid Open in Madrid (ESP), 3. Tag</title>
 </programme>
 <programme start="20260424090000 +0000" stop="20260424220000 +0000" channel="Sky Sport Tennis HD.skyde">

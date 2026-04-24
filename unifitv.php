@@ -821,7 +821,7 @@
     <episode-num system="onscreen">S1E12</episode-num>
   </programme>
   <programme start="20260424133000 +0000" stop="20260424140000 +0000" channel="tv1.unifitv">
-    <title lang="en">Siaran Langsung: KOPIeKONOMI 2026</title>
+    <title lang="en">KOPIeKONOMI 2026</title>
     <desc lang="en">Program bual bicara ekonomi santai yang menampilkan panel jemputan di ruang kopi sambil mengopi bagi membincangkan pelbagai isu semasa ekonomi, kewangan mahupun perniagaan.</desc>
     <category lang="en">Drama</category>
     <episode-num system="xmltv_ns">0.0.</episode-num>
@@ -15494,7 +15494,7 @@
     <desc lang="en">Covering everything from prototypes to endurance racing, karting to airplanes and even some real oddities.</desc>
     <category lang="en">Sports</category>
   </programme>
-  <programme start="20260424155500 +0000" stop="20260424162500 +0000" channel="beinsports.unifitv">
+  <programme start="20260424155500 +0000" stop="20260424164000 +0000" channel="beinsports.unifitv">
     <title lang="en">ERC Highlights - Rally Sierra Morena</title>
     <desc lang="en">Enjoy highlights from the 74th season of the European Rally Championship</desc>
     <category lang="en">Sports</category>
