@@ -944,7 +944,7 @@
     <title>Best of DAZN: Highlights</title>
 </programme>
 <programme start="20260425070000 +0000" stop="20260425085500 +0000" channel="DAZN 1 HD.skyde">
-    <title>Fußball 25/26: TBC - TBC</title>
+    <title>Serie A 25/26: SSC Neapel - US Cremonese</title>
 </programme>
 <programme start="20260425085500 +0000" stop="20260425093000 +0000" channel="DAZN 1 HD.skyde">
     <title>Best of DAZN: Highlights</title>
@@ -967,11 +967,8 @@
 <programme start="20260425184000 +0000" stop="20260425203500 +0000" channel="DAZN 1 HD.skyde">
     <title>Bundesliga 25/26: Hamburger SV - TSG 1899 Hoffenheim</title>
 </programme>
-<programme start="20260425203500 +0000" stop="20260425215000 +0000" channel="DAZN 1 HD.skyde">
+<programme start="20260425203500 +0000" stop="20260425220000 +0000" channel="DAZN 1 HD.skyde">
     <title>ALL IN - Die Bundesliga Highlight Show: 31. Spieltag</title>
-</programme>
-<programme start="20260425215000 +0000" stop="20260425220000 +0000" channel="DAZN 1 HD.skyde">
-    <title>Best of DAZN: Highlights</title>
 </programme>
 <programme start="20260424220500 +0000" stop="20260425060000 +0000" channel="DAZN 2 HD.skyde">
     <title>Sendepause</title>
@@ -997,8 +994,11 @@
 <programme start="20260425141000 +0000" stop="20260425161500 +0000" channel="DAZN 2 HD.skyde">
     <title>LaLiga 25/26: FC Getafe - FC Barcelona</title>
 </programme>
-<programme start="20260425161500 +0000" stop="20260425185500 +0000" channel="DAZN 2 HD.skyde">
+<programme start="20260425161500 +0000" stop="20260425182000 +0000" channel="DAZN 2 HD.skyde">
     <title>FA Cup 25/26: Manchester City - FC Southampton</title>
+</programme>
+<programme start="20260425182000 +0000" stop="20260425185500 +0000" channel="DAZN 2 HD.skyde">
+    <title>Best of DAZN: Highlights</title>
 </programme>
 <programme start="20260425185500 +0000" stop="20260425211000 +0000" channel="DAZN 2 HD.skyde">
     <title>LaLiga 25/26: Atlético Madrid - Athletic Bilbao</title>
@@ -2545,19 +2545,19 @@
 <programme start="20260425143000 +0000" stop="20260425145000 +0000" channel="Sky Sport Austria 2 HD.skyde">
     <title>Es folgt: Live Admiral Bundesliga</title>
 </programme>
-<programme start="20260425145000 +0000" stop="20260425173000 +0000" channel="Sky Sport Austria 2 HD.skyde">
+<programme start="20260425145000 +0000" stop="20260425170000 +0000" channel="Sky Sport Austria 2 HD.skyde">
     <title>Live Admiral BL: RZ Pellets WAC - Grazer AK 1902, 29. Runde</title>
 </programme>
 <programme start="20260425143000 +0000" stop="20260425145000 +0000" channel="Sky Sport Austria 3 HD.skyde">
     <title>Es folgt: Live Admiral Bundesliga</title>
 </programme>
-<programme start="20260425145000 +0000" stop="20260425170000 +0000" channel="Sky Sport Austria 3 HD.skyde">
+<programme start="20260425145000 +0000" stop="20260425173000 +0000" channel="Sky Sport Austria 3 HD.skyde">
     <title>Live Admiral BL: WSG Tirol - SV Oberbank Ried, 29. Runde</title>
 </programme>
 <programme start="20260425084000 +0000" stop="20260425090000 +0000" channel="Sky Sport Austria 4 HD.skyde">
     <title>Es folgt: Live Tennis ATP Tour</title>
 </programme>
-<programme start="20260425090000 +0000" stop="20260426000000 +0000" channel="Sky Sport Austria 4 HD.skyde">
+<programme start="20260425090000 +0000" stop="20260425220000 +0000" channel="Sky Sport Austria 4 HD.skyde">
     <title>Live ATP &amp; WTA: Konferenz Mutua Madrid Open in Madrid (ESP), 5. Tag</title>
 </programme>
 <programme start="20260424223000 +0000" stop="20260425003000 +0000" channel="Sky Sport Bundesliga HD.skyde">
@@ -2710,7 +2710,7 @@
 <programme start="20260425131500 +0000" stop="20260425154500 +0000" channel="Sky Sport Bundesliga 3 HD.skyde">
     <title>Live BL: 1. FC Heidenheim - FC St. Pauli, 31. Spieltag</title>
 </programme>
-<programme start="20260425154500 +0000" stop="20260425191500 +0000" channel="Sky Sport Bundesliga 3 HD.skyde">
+<programme start="20260425154500 +0000" stop="20260425194500 +0000" channel="Sky Sport Bundesliga 3 HD.skyde">
     <title>Live BL: Tactical Feed: HSV - TSG, 31. Spieltag</title>
 </programme>
 <programme start="20260425101000 +0000" stop="20260425103000 +0000" channel="Sky Sport Bundesliga 4 HD.skyde">
@@ -2734,7 +2734,7 @@
 <programme start="20260425130000 +0000" stop="20260425131500 +0000" channel="Sky Sport Bundesliga 5 HD.skyde">
     <title>Live BL: FCA - SGE: tipico Countdown, 31. Spieltag</title>
 </programme>
-<programme start="20260425131500 +0000" stop="20260425154500 +0000" channel="Sky Sport Bundesliga 5 HD.skyde">
+<programme start="20260425131500 +0000" stop="20260425161500 +0000" channel="Sky Sport Bundesliga 5 HD.skyde">
     <title>Live BL: FC Augsburg - Eintracht Frankfurt, 31. Spieltag</title>
 </programme>
 <programme start="20260425101000 +0000" stop="20260425103000 +0000" channel="Sky Sport Bundesliga 6 HD.skyde">
@@ -2752,7 +2752,7 @@
 <programme start="20260425103000 +0000" stop="20260425130000 +0000" channel="Sky Sport Bundesliga 7 HD.skyde">
     <title>Live 2. BL: Samstags-Konferenz, 31. Spieltag</title>
 </programme>
-<programme start="20260425130000 +0000" stop="20260425134500 +0000" channel="Sky Sport Bundesliga 7 HD.skyde">
+<programme start="20260425130000 +0000" stop="20260425141500 +0000" channel="Sky Sport Bundesliga 7 HD.skyde">
     <title>Live 2. BL Alle Spiele, alle Tore: Die Vodafone Highlight-Show, 31. Spieltag, Samstag</title>
 </programme>
 <programme start="20260424220000 +0000" stop="20260424230000 +0000" channel="Sky Sport F1 HD.skyde">
@@ -3178,7 +3178,7 @@
 <programme start="20260425210000 +0000" stop="20260425220000 +0000" channel="Sky Sport Top Event HD.skyde">
     <title>Live NBA: Oklahoma City Thunder @ Phoenix Suns, Playoffs, Runde 1, Spiel 3</title>
 </programme>
-<programme start="20260425154000 +0000" stop="20260425160000 +0000" channel="Sky Sport 6 HD.skyde">
+<programme start="20260425155500 +0000" stop="20260425160000 +0000" channel="Sky Sport 6 HD.skyde">
     <title>Es folgt: Live NBA</title>
 </programme>
 <programme start="20260425160000 +0000" stop="20260425170000 +0000" channel="Sky Sport 6 HD.skyde">
@@ -3199,7 +3199,7 @@
 <programme start="20260425135000 +0000" stop="20260425160000 +0000" channel="Sky Sport 8 HD.skyde">
     <title>Live PL: FC Liverpool - Crystal Palace, 34. Spieltag</title>
 </programme>
-<programme start="20260425160000 +0000" stop="20260425220000 +0000" channel="Sky Sport 8 HD.skyde">
+<programme start="20260425160000 +0000" stop="20260426000000 +0000" channel="Sky Sport 8 HD.skyde">
     <title>Live WTA 1000: Mutua Madrid Open in Madrid (ESP), 5. Tag</title>
 </programme>
 <programme start="20260425133000 +0000" stop="20260425135000 +0000" channel="Sky Sport 9 HD.skyde">
