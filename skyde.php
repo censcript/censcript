@@ -2571,7 +2571,7 @@ Warning: Undefined array key "et" in /usr/home/ManusiaBiasa/domains/manusiabiasa
 <programme start="20260424084000 +0000" stop="20260424090000 +0000" channel="Sky Sport Austria 2 HD.skyde">
     <title>Es folgt: Live Tennis ATP Tour</title>
 </programme>
-<programme start="20260424090000 +0000" stop="20260424220000 +0000" channel="Sky Sport Austria 2 HD.skyde">
+<programme start="20260424090000 +0000" stop="20260425000000 +0000" channel="Sky Sport Austria 2 HD.skyde">
     <title>Live ATP &amp; WTA: Konferenz Mutua Madrid Open in Madrid (ESP), 4. Tag</title>
 </programme>
 <programme start="20260424183000 +0000" stop="20260424185000 +0000" channel="Sky Sport Austria 3 HD.skyde">
@@ -2688,20 +2688,14 @@ Warning: Undefined array key "et" in /usr/home/ManusiaBiasa/domains/manusiabiasa
 <programme start="20260424181500 +0000" stop="20260424211500 +0000" channel="Sky Sport Bundesliga 1 HD.skyde">
     <title>Live BL: RB Leipzig - 1. FC Union Berlin, Flutlicht-Freitag, 31. Spieltag</title>
 </programme>
-<programme start="20260426104000 +0000" stop="20260426110000 +0000" channel="Sky Sport Bundesliga 2 HD.skyde">
+<programme start="20260424154000 +0000" stop="20260424160000 +0000" channel="Sky Sport Bundesliga 2 HD.skyde">
     <title>Es folgt: Live 2. Bundesliga</title>
 </programme>
-<programme start="20260426110000 +0000" stop="20260426133000 +0000" channel="Sky Sport Bundesliga 2 HD.skyde">
-    <title>Live 2. BL: SC Paderborn 07 - FC Schalke 04, 31. Spieltag</title>
+<programme start="20260424160000 +0000" stop="20260424183000 +0000" channel="Sky Sport Bundesliga 2 HD.skyde">
+    <title>Live 2. BL: Freitags-Konferenz, 31. Spieltag</title>
 </programme>
-<programme start="20260426133000 +0000" stop="20260426153000 +0000" channel="Sky Sport Bundesliga 2 HD.skyde">
-    <title>Es folgt: Bundesliga</title>
-</programme>
-<programme start="20260426153000 +0000" stop="20260426173000 +0000" channel="Sky Sport Bundesliga 2 HD.skyde">
-    <title>BL: VfB Stuttgart - Werder Bremen, 31. Spieltag</title>
-</programme>
-<programme start="20260426173000 +0000" stop="20260426193000 +0000" channel="Sky Sport Bundesliga 2 HD.skyde">
-    <title>BL: Borussia Dortmund - SC Freiburg, 31. Spieltag</title>
+<programme start="20260424183000 +0000" stop="20260424191500 +0000" channel="Sky Sport Bundesliga 2 HD.skyde">
+    <title>Live 2. BL Alle Spiele, alle Tore: Die Vodafone Highlight-Show, 31. Spieltag, Freitag</title>
 </programme>
 <programme start="20260424154000 +0000" stop="20260424160000 +0000" channel="Sky Sport Bundesliga 3 HD.skyde">
     <title>Es folgt: Live 2. Bundesliga</title>
@@ -2813,9 +2807,6 @@ Warning: Undefined array key "et" in /usr/home/ManusiaBiasa/domains/manusiabiasa
 </programme>
 <programme start="20260424190000 +0000" stop="20260424220000 +0000" channel="Sky Sport Golf HD.skyde">
     <title>Asian Tour: Singapore Open, 2. Tag auf Sentosa (Singapur)</title>
-</programme>
-<programme start="20260423220000 +0000" stop="20260423223000 +0000" channel="Sky Sport Mix HD.skyde">
-    <title>NBA: Action</title>
 </programme>
 <programme start="20260423223000 +0000" stop="20260423233000 +0000" channel="Sky Sport Mix HD.skyde">
     <title>NHL: Tonight - Playoff Edition</title>
@@ -3004,7 +2995,7 @@ Warning: Undefined array key "et" in /usr/home/ManusiaBiasa/domains/manusiabiasa
     <title>PL: 1 to 11 (Yaya Toure)</title>
 </programme>
 <programme start="20260424044500 +0000" stop="20260424050000 +0000" channel="Sky Sport Premier League HD.skyde">
-    <title>PL: Under the Skin (FC Everton)</title>
+    <title>PL: Under the Skin (Newcastle v Sunderland)</title>
 </programme>
 <programme start="20260424050000 +0000" stop="20260424060000 +0000" channel="Sky Sport Premier League HD.skyde">
     <title>PL: The Catch-Up Show</title>
@@ -3099,22 +3090,22 @@ Warning: Undefined array key "et" in /usr/home/ManusiaBiasa/domains/manusiabiasa
 <programme start="20260424213000 +0000" stop="20260424233000 +0000" channel="Sky Sport Premier League HD.skyde">
     <title>PL: AFC Sunderland - Nottingham Forest, 34. Spieltag</title>
 </programme>
-<programme start="20260423231500 +0000" stop="20260424002500 +0000" channel="Sky Sport Tennis HD.skyde">
+<programme start="20260423220000 +0000" stop="20260424000000 +0000" channel="Sky Sport Tennis HD.skyde">
     <title>ATP 1000: D. Altmaier (GER) - J. M. Cerundolo (ARG), Mutua Madrid Open in Madrid (ESP), 3. Tag</title>
 </programme>
-<programme start="20260424002500 +0000" stop="20260424024000 +0000" channel="Sky Sport Tennis HD.skyde">
+<programme start="20260424000000 +0000" stop="20260424021500 +0000" channel="Sky Sport Tennis HD.skyde">
     <title>ATP 500: B. Shelton (USA) - F. Cobolli (ITA), BMW Open in München, Finale</title>
 </programme>
-<programme start="20260424024000 +0000" stop="20260424042500 +0000" channel="Sky Sport Tennis HD.skyde">
+<programme start="20260424021500 +0000" stop="20260424040000 +0000" channel="Sky Sport Tennis HD.skyde">
     <title>WTA 500: E. Rybakina (KAZ) - K. Muchova (CZE), Porsche Tennis Grand Prix in Stuttgart, Finale</title>
 </programme>
-<programme start="20260424042500 +0000" stop="20260424052000 +0000" channel="Sky Sport Tennis HD.skyde">
+<programme start="20260424040000 +0000" stop="20260424050000 +0000" channel="Sky Sport Tennis HD.skyde">
     <title>ATP 500: Review Barcelona</title>
 </programme>
-<programme start="20260424052000 +0000" stop="20260424074500 +0000" channel="Sky Sport Tennis HD.skyde">
+<programme start="20260424050000 +0000" stop="20260424070000 +0000" channel="Sky Sport Tennis HD.skyde">
     <title>WTA 1000: L. Siegemund (GER) - J. Paolini (ITA)l, Mutua Madrid Open in Madrid (ESP), 3. Tag</title>
 </programme>
-<programme start="20260424074500 +0000" stop="20260424090000 +0000" channel="Sky Sport Tennis HD.skyde">
+<programme start="20260424070000 +0000" stop="20260424090000 +0000" channel="Sky Sport Tennis HD.skyde">
     <title>ATP 1000: D. Altmaier (GER) - J. M. Cerundolo (ARG), Mutua Madrid Open in Madrid (ESP), 3. Tag</title>
 </programme>
 <programme start="20260424090000 +0000" stop="20260424220000 +0000" channel="Sky Sport Tennis HD.skyde">
@@ -3195,7 +3186,10 @@ Warning: Undefined array key "et" in /usr/home/ManusiaBiasa/domains/manusiabiasa
 <programme start="20260424070000 +0000" stop="20260424071500 +0000" channel="Sky Sport UHD.skyde">
     <title>Info: UHD</title>
 </programme>
-<programme start="20260424090000 +0000" stop="20260425000000 +0000" channel="Sky Sport 6 HD.skyde">
+<programme start="20260424084000 +0000" stop="20260424090000 +0000" channel="Sky Sport 6 HD.skyde">
+    <title>Es folgt: Live Tennis WTA Tour</title>
+</programme>
+<programme start="20260424090000 +0000" stop="20260424220000 +0000" channel="Sky Sport 6 HD.skyde">
     <title>Live WTA 1000: Mutua Madrid Open in Madrid (ESP), 4. Tag</title>
 </programme>
 <programme start="20260424111000 +0000" stop="20260424113000 +0000" channel="Sky Sport 7 HD.skyde">

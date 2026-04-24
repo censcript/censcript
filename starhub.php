@@ -2215,26 +2215,29 @@
     <programme start="20260424103000 +0000" stop="20260424120000 +0000" channel="beIN Sports 2 HD.starhub">
         <title>Premier Padel 2026: Brussels P2 Day 4 QF Match 2 (Live)</title>
     </programme>
-    <programme start="20260424120000 +0000" stop="20260424133000 +0000" channel="beIN Sports 2 HD.starhub">
-        <title>Premier Padel 2026: Brussels P2 Day 4 QF Match 3 (Live)</title>
+    <programme start="20260424120000 +0000" stop="20260424121000 +0000" channel="beIN Sports 2 HD.starhub">
+        <title>New Giza P2 Men</title>
     </programme>
-    <programme start="20260424133000 +0000" stop="20260424135500 +0000" channel="beIN Sports 2 HD.starhub">
-        <title>HSBC SVNS World C&#039;ships 2026: France vs Kenya - 7th Place Play-off, Hong Kong - Men</title>
+    <programme start="20260424121000 +0000" stop="20260424123500 +0000" channel="beIN Sports 2 HD.starhub">
+        <title>HSBC SVNS World Championships 2026 France vs Kenya - 7th Place Play-off, Hong Ko</title>
     </programme>
-    <programme start="20260424135500 +0000" stop="20260424142000 +0000" channel="beIN Sports 2 HD.starhub">
-        <title>HSBC SVNS World C&#039;ships 2026: Canada vs New Zealand - Cup SF1, Hong Kong - Women</title>
+    <programme start="20260424123500 +0000" stop="20260424130000 +0000" channel="beIN Sports 2 HD.starhub">
+        <title>HSBC SVNS World Championships 2026 Canada vs New Zealand - Cup SF1, Hong Kong -</title>
     </programme>
-    <programme start="20260424142000 +0000" stop="20260424144500 +0000" channel="beIN Sports 2 HD.starhub">
-        <title>HSBC SVNS World C&#039;ships 2026: France vs Australia - Cup SF2, Hong Kong - Women</title>
+    <programme start="20260424130000 +0000" stop="20260424143000 +0000" channel="beIN Sports 2 HD.starhub">
+        <title>Brussels P2 Day 4 QF Match 3</title>
+    </programme>
+    <programme start="20260424143000 +0000" stop="20260424144500 +0000" channel="beIN Sports 2 HD.starhub">
+        <title>Roland Garros Match Highlights 2025 Men&#039;s Singles Final Sinner v Alcaraz</title>
     </programme>
     <programme start="20260424144500 +0000" stop="20260424151000 +0000" channel="beIN Sports 2 HD.starhub">
-        <title>HSBC SVNS World C&#039;ships 2026: New Zealand vs South Africa - Cup SF1, Hong Kong - Men</title>
+        <title>HSBC SVNS World Championships 2026 New Zealand vs South Africa - Cup SF1, Hong K</title>
     </programme>
     <programme start="20260424151000 +0000" stop="20260424153500 +0000" channel="beIN Sports 2 HD.starhub">
-        <title>HSBC SVNS World C&#039;ships 2026: Spain vs Argentina - Cup SF2, Hong Kong - Men</title>
+        <title>HSBC SVNS World Championships 2026 Spain vs Argentina - Cup SF2, Hong Kong - Men</title>
     </programme>
     <programme start="20260424153500 +0000" stop="20260424160000 +0000" channel="beIN Sports 2 HD.starhub">
-        <title>HSBC SVNS World C&#039;ships 2026: USA vs Japan - 5th Place Play-off, Hong Kong - Women</title>
+        <title>HSBC SVNS World Championships 2026 USA vs Japan - 5th Place Play-off, Hong Kong</title>
     </programme>
     <programme start="20260423160000 +0000" stop="20260423170000 +0000" channel="TVB Xing He.starhub">
         <title>Recipes To Live By</title>
@@ -2380,7 +2383,7 @@
     <programme start="20260424150000 +0000" stop="20260424170000 +0000" channel="Cinema One Global.starhub">
         <title>Sobra Talaga... Over</title>
     </programme>
-    <programme start="20260423150000 +0000" stop="20260423170000 +0000" channel="Hub Sports 2 HD.starhub">
+    <programme start="20260423141100 +0000" stop="20260423170000 +0000" channel="Hub Sports 2 HD.starhub">
         <title>Mutua Madrid Open (1000) Day 2 R1 Session 4</title>
     </programme>
     <programme start="20260423170000 +0000" stop="20260423190000 +0000" channel="Hub Sports 2 HD.starhub">
@@ -2407,10 +2410,7 @@
     <programme start="20260424070000 +0000" stop="20260424080000 +0000" channel="Hub Sports 2 HD.starhub">
         <title>UFC 315: Muhammad vs Della Madelena</title>
     </programme>
-    <programme start="20260424080000 +0000" stop="20260424083000 +0000" channel="Hub Sports 2 HD.starhub">
-        <title>#585</title>
-    </programme>
-    <programme start="20260424083000 +0000" stop="20260424090000 +0000" channel="Hub Sports 2 HD.starhub">
+    <programme start="20260424080000 +0000" stop="20260424090000 +0000" channel="Hub Sports 2 HD.starhub">
         <title>Semi Finals</title>
     </programme>
     <programme start="20260424090000 +0000" stop="20260424110000 +0000" channel="Hub Sports 2 HD.starhub">
@@ -2420,7 +2420,7 @@
         <title>Mutua Madrid Open (1000) Day 3 R2 Session 2</title>
     </programme>
     <programme start="20260424130000 +0000" stop="20260424133000 +0000" channel="Hub Sports 2 HD.starhub">
-        <title>Semi Finals</title>
+        <title>Hail Baja Rally Final Highlights</title>
     </programme>
     <programme start="20260424133000 +0000" stop="20260424140000 +0000" channel="Hub Sports 2 HD.starhub">
         <title>#585</title>

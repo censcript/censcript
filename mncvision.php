@@ -8461,8 +8461,11 @@
 <programme start="20260423220000 +0000" stop="20260424000000 +0000" channel="SPOTV 2.mncvision">
     <title>A-League Men: AFC Vs CCM</title>
 </programme>
-<programme start="20260424000000 +0000" stop="20260424023000 +0000" channel="SPOTV 2.mncvision">
+<programme start="20260424000000 +0000" stop="20260424020000 +0000" channel="SPOTV 2.mncvision">
     <title>2026 MLB: SFG Vs LAD</title>
+</programme>
+<programme start="20260424020000 +0000" stop="20260424023000 +0000" channel="SPOTV 2.mncvision">
+    <title>ALM Mini Match: PER Vs MAC</title>
 </programme>
 <programme start="20260424023000 +0000" stop="20260424055500 +0000" channel="SPOTV 2.mncvision">
     <title>Grand National 2026</title>
@@ -8474,13 +8477,13 @@
     <title>2026 MotoGP Rewind: US</title>
 </programme>
 <programme start="20260424065500 +0000" stop="20260424100000 +0000" channel="SPOTV 2.mncvision">
-    <title>2026 MotoGP Spain (L)</title>
+    <title>2026 MotoGP: ESP (L)</title>
 </programme>
 <programme start="20260424100000 +0000" stop="20260424111000 +0000" channel="SPOTV 2.mncvision">
-    <title>2026 ITM Taupo Super 440 HL</title>
+    <title>2026 ITM Taupo Super 440</title>
 </programme>
 <programme start="20260424111000 +0000" stop="20260424141500 +0000" channel="SPOTV 2.mncvision">
-    <title>2026 MotoGP Spain (L)</title>
+    <title>2026 MotoGP: ESP (L)</title>
 </programme>
 <programme start="20260424141500 +0000" stop="20260424144500 +0000" channel="SPOTV 2.mncvision">
     <title>ALM Mini Match: WEL Vs WSW</title>
@@ -8503,8 +8506,11 @@
 <programme start="20260423220000 +0000" stop="20260424000000 +0000" channel="SPOTV 2 HD.mncvision">
     <title>A-League Men: AFC Vs CCM</title>
 </programme>
-<programme start="20260424000000 +0000" stop="20260424023000 +0000" channel="SPOTV 2 HD.mncvision">
+<programme start="20260424000000 +0000" stop="20260424020000 +0000" channel="SPOTV 2 HD.mncvision">
     <title>2026 MLB: SFG Vs LAD</title>
+</programme>
+<programme start="20260424020000 +0000" stop="20260424023000 +0000" channel="SPOTV 2 HD.mncvision">
+    <title>ALM Mini Match: PER Vs MAC</title>
 </programme>
 <programme start="20260424023000 +0000" stop="20260424055500 +0000" channel="SPOTV 2 HD.mncvision">
     <title>Grand National 2026</title>
@@ -8516,13 +8522,13 @@
     <title>2026 MotoGP Rewind: US</title>
 </programme>
 <programme start="20260424065500 +0000" stop="20260424100000 +0000" channel="SPOTV 2 HD.mncvision">
-    <title>2026 MotoGP Spain (L)</title>
+    <title>2026 MotoGP: ESP (L)</title>
 </programme>
 <programme start="20260424100000 +0000" stop="20260424111000 +0000" channel="SPOTV 2 HD.mncvision">
-    <title>2026 ITM Taupo Super 440 HL</title>
+    <title>2026 ITM Taupo Super 440</title>
 </programme>
 <programme start="20260424111000 +0000" stop="20260424141500 +0000" channel="SPOTV 2 HD.mncvision">
-    <title>2026 MotoGP Spain (L)</title>
+    <title>2026 MotoGP: ESP (L)</title>
 </programme>
 <programme start="20260424141500 +0000" stop="20260424144500 +0000" channel="SPOTV 2 HD.mncvision">
     <title>ALM Mini Match: WEL Vs WSW</title>

@@ -821,7 +821,7 @@
     <episode-num system="onscreen">S1E12</episode-num>
   </programme>
   <programme start="20260424133000 +0000" stop="20260424140000 +0000" channel="tv1.unifitv">
-    <title lang="en">KOPIeKONOMI 2026</title>
+    <title lang="en">Siaran Langsung: KOPIeKONOMI 2026</title>
     <desc lang="en">Program bual bicara ekonomi santai yang menampilkan panel jemputan di ruang kopi sambil mengopi bagi membincangkan pelbagai isu semasa ekonomi, kewangan mahupun perniagaan.</desc>
     <category lang="en">Drama</category>
     <episode-num system="xmltv_ns">0.0.</episode-num>
