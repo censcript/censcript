@@ -2575,9 +2575,12 @@ Warning: Undefined array key "et" in /usr/home/ManusiaBiasa/domains/manusiabiasa
     <title>Live ATP &amp; WTA: Konferenz Mutua Madrid Open in Madrid (ESP), 4. Tag</title>
 </programme>
 <programme start="20260424183000 +0000" stop="20260424185000 +0000" channel="Sky Sport Austria 3 HD.skyde">
+    <title>Es folgt: LIVE PL</title>
+</programme>
+<programme start="20260424183000 +0000" stop="20260424185000 +0000" channel="Sky Sport Austria 3 HD.skyde">
     <title>Es folgt: Live Premier League</title>
 </programme>
-<programme start="20260424185000 +0000" stop="20260424210000 +0000" channel="Sky Sport Austria 3 HD.skyde">
+<programme start="20260424185000 +0000" stop="20260424213000 +0000" channel="Sky Sport Austria 3 HD.skyde">
     <title>Live PL: AFC Sunderland - Nottingham Forest, 34. Spieltag</title>
 </programme>
 <programme start="20260423220000 +0000" stop="20260423223000 +0000" channel="Sky Sport Bundesliga HD.skyde">
@@ -2997,9 +3000,6 @@ Warning: Undefined array key "et" in /usr/home/ManusiaBiasa/domains/manusiabiasa
 <programme start="20260424040000 +0000" stop="20260424044500 +0000" channel="Sky Sport Premier League HD.skyde">
     <title>PL: 1 to 11 (Yaya Toure)</title>
 </programme>
-<programme start="20260424044500 +0000" stop="20260424050000 +0000" channel="Sky Sport Premier League HD.skyde">
-    <title>PL: Under the Skin (Newcastle v Sunderland)</title>
-</programme>
 <programme start="20260424050000 +0000" stop="20260424060000 +0000" channel="Sky Sport Premier League HD.skyde">
     <title>PL: The Catch-Up Show</title>
 </programme>
@@ -3114,10 +3114,10 @@ Warning: Undefined array key "et" in /usr/home/ManusiaBiasa/domains/manusiabiasa
 <programme start="20260424090000 +0000" stop="20260424220000 +0000" channel="Sky Sport Tennis HD.skyde">
     <title>Live ATP &amp; WTA: Konferenz Mutua Madrid Open in Madrid (ESP), 4. Tag</title>
 </programme>
-<programme start="20260423221500 +0000" stop="20260424000000 +0000" channel="Sky Sport Top Event HD.skyde">
+<programme start="20260423221500 +0000" stop="20260424000500 +0000" channel="Sky Sport Top Event HD.skyde">
     <title>Live Golf: The Chevron Championship, 1. Tag (Late Session) in Houston, TX (USA)</title>
 </programme>
-<programme start="20260424000000 +0000" stop="20260424023000 +0000" channel="Sky Sport Top Event HD.skyde">
+<programme start="20260424000500 +0000" stop="20260424023000 +0000" channel="Sky Sport Top Event HD.skyde">
     <title>Live NHL: Carolina Hurricanes @ Ottawa Senators, Playoffs, 1. Runde, Spiel 3</title>
 </programme>
 <programme start="20260424023000 +0000" stop="20260424033000 +0000" channel="Sky Sport Top Event HD.skyde">
@@ -3168,10 +3168,7 @@ Warning: Undefined array key "et" in /usr/home/ManusiaBiasa/domains/manusiabiasa
 <programme start="20260424211500 +0000" stop="20260424220000 +0000" channel="Sky Sport Top Event HD.skyde">
     <title>Live ATP &amp; WTA: Konferenz Mutua Madrid Open in Madrid (ESP), 4. Tag</title>
 </programme>
-<programme start="20260423221500 +0000" stop="20260424001500 +0000" channel="Sky Sport UHD.skyde">
-    <title>DFB-Pokal: Bayer Leverkusen - FC Bayern München, Halbfinale</title>
-</programme>
-<programme start="20260424001500 +0000" stop="20260424030000 +0000" channel="Sky Sport UHD.skyde">
+<programme start="20260423233000 +0000" stop="20260424013000 +0000" channel="Sky Sport UHD.skyde">
     <title>DFB-Pokal: VfB Stuttgart - SC Freiburg, Halbfinale</title>
 </programme>
 <programme start="20260424013000 +0000" stop="20260424020000 +0000" channel="Sky Sport UHD.skyde">
@@ -3192,10 +3189,7 @@ Warning: Undefined array key "et" in /usr/home/ManusiaBiasa/domains/manusiabiasa
 <programme start="20260424070000 +0000" stop="20260424071500 +0000" channel="Sky Sport UHD.skyde">
     <title>Info: UHD</title>
 </programme>
-<programme start="20260424084000 +0000" stop="20260424090000 +0000" channel="Sky Sport 6 HD.skyde">
-    <title>Es folgt: Live Tennis WTA Tour</title>
-</programme>
-<programme start="20260424090000 +0000" stop="20260424220000 +0000" channel="Sky Sport 6 HD.skyde">
+<programme start="20260424090000 +0000" stop="20260425000000 +0000" channel="Sky Sport 6 HD.skyde">
     <title>Live WTA 1000: Mutua Madrid Open in Madrid (ESP), 4. Tag</title>
 </programme>
 <programme start="20260424111000 +0000" stop="20260424113000 +0000" channel="Sky Sport 7 HD.skyde">

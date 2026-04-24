@@ -14668,12 +14668,12 @@ dan komprehensif mengenai berbagai topik yang relevan dalam kehidupan sehari-har
     <desc lang="id">COMO VS PISA</desc>
     <icon src="https://thumbor.prod.vidiocdn.com/xgkik6iws0EJ01bi5cJsIjYWjOM=/287x162/filters:strip_icc():quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/image/6686/champions-tv-2-681a27.jpg"/>
   </programme>
-  <programme channel="6686" start="20260424170000 +0000" stop="20260424210000 +0000">
+  <programme channel="6686" start="20260424170000 +0000" stop="20260424212700 +0000">
     <title lang="id">Day 3 - WTA 1000: Mutua Madrid Open 2026</title>
     <desc lang="id">Nonton streaming pertandingan seru Day 3 - WTA 1000: Mutua Madrid Open 2026. Saksikan aksi-aksi terbaik dari tim yang bersaing ketat untuk meraih kemenangan. Dapatkan informasi lengkap mengenai jadwal pertandingan dan hasil pertandingan terbaru hanya di Vidio.</desc>
     <icon src="https://thumbor.prod.vidiocdn.com/GqUg5ry9wMFu7yenDYxOb46bfaM=/287x162/filters:strip_icc():quality(70)/vidio-media-production/uploads/livestreaming/schedule/thumbnail/5021552/c25cea.jpg"/>
   </programme>
-  <programme channel="6686" start="20260424210000 +0000" stop="20260424230000 +0000">
+  <programme channel="6686" start="20260424212700 +0000" stop="20260424230000 +0000">
     <title lang="id">LINGSHUI BAOTING : TOUR OF HAINAN 2026</title>
     <desc lang="id">LINGSHUI  BAOTING</desc>
     <icon src="https://thumbor.prod.vidiocdn.com/xgkik6iws0EJ01bi5cJsIjYWjOM=/287x162/filters:strip_icc():quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/image/6686/champions-tv-2-681a27.jpg"/>

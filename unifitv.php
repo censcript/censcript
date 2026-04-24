@@ -14566,8 +14566,8 @@
     <display-name>NHK WORLD-JAPAN</display-name>
   </channel>
   <programme start="20260424153500 +0000" stop="20260424160500 +0000" channel="nhkworldjapan.unifitv">
-    <title lang="en">NHK World-Japan Special Programme</title>
-    <desc lang="en">NHK World-Japan presents news, current affairs, and documentaries focusing on Japan and Asia.</desc>
+    <title lang="en">Japan in Focus</title>
+    <desc lang="en">Ten years ago, massive earthquakes struck Kumamoto. We follow the stories of people who, stripped of their former lives by the disaster, found inspiration in the stars to get back on their feet.</desc>
     <category lang="en">Infotainment</category>
     <episode-num system="xmltv_ns">0.3024.</episode-num>
     <episode-num system="onscreen">S1E3025</episode-num>
@@ -14579,7 +14579,7 @@
   </programme>
   <programme start="20260424163500 +0000" stop="20260424170500 +0000" channel="nhkworldjapan.unifitv">
     <title lang="en">Frontrunners</title>
-    <desc lang="en">This programme highlights professionals at the very forefront of their field - we showcase their amazing work, discover their motivations, and learn about the challenges they face in the future.</desc>
+    <desc lang="en">Fukuoka's summer festival Hakata Gion Yamakasa features huge floats decorated with elaborate dolls - we meet Nakamura Hiromine, a fourth-generation doll maker fusing this tradition with modern ideas.</desc>
     <category lang="en">Infotainment</category>
     <episode-num system="xmltv_ns">0.2102.</episode-num>
     <episode-num system="onscreen">S1E2103</episode-num>
@@ -14603,38 +14603,38 @@
   </programme>
   <programme start="20260424183300 +0000" stop="20260424184800 +0000" channel="nhkworldjapan.unifitv">
     <title lang="en">Direct Talk</title>
-    <desc lang="en">Direct and in-depth interviews exploring the minds and motivations of the leaders, visionaries, artists and entrepreneurs who are changing our world.</desc>
+    <desc lang="en">Umemoto Ayaka is captain of the Japan women's national Deaf volleyball team - she and her teammates, who include her twin sister Sayaka, are aiming for gold at the 2025 Tokyo Deaflympics.</desc>
     <category lang="en">Infotainment</category>
     <episode-num system="xmltv_ns">0.2104.</episode-num>
     <episode-num system="onscreen">S1E2105</episode-num>
   </programme>
   <programme start="20260424184800 +0000" stop="20260424190000 +0000" channel="nhkworldjapan.unifitv">
     <title lang="en">Impacts: Climates Change the World</title>
-    <desc lang="en">The entire Earth is affected by climate change occurring with a greater speed and scale than ever before - this programme uses scientific data and the latest findings to raise awareness on its impact.</desc>
+    <desc lang="en">Water researchers have established the term "water bankruptcy," an irreversible condition approached by many regions in which social and environmental factors exhaust the water supply.</desc>
     <category lang="en">Infotainment</category>
     <episode-num system="xmltv_ns">0.6127.</episode-num>
     <episode-num system="onscreen">S1E6128</episode-num>
   </programme>
   <programme start="20260424190000 +0000" stop="20260424190500 +0000" channel="nhkworldjapan.unifitv">
     <title lang="en">Ukiyo-e Edo-Life</title>
-    <desc lang="en">Centuries ago, Tokyo was known as Edo - more than a million people enjoyed life in this city, and they live on in ukiyo-e woodblock prints. Take a deep dive into ukiyo-e and explore old Tokyo's soul.</desc>
+    <desc lang="en">A Fashion Night: Fireworks lit up the skies practically every summer's night for a time during the Edo period; it was a chance for women to dress up, let loose, and grab the attention of male suitors.</desc>
     <category lang="en">Infotainment</category>
     <episode-num system="xmltv_ns">0.6029.</episode-num>
     <episode-num system="onscreen">S1E6030</episode-num>
   </programme>
   <programme start="20260424190500 +0000" stop="20260424193500 +0000" channel="nhkworldjapan.unifitv">
     <title lang="en">Medical Frontiers</title>
-    <desc lang="en">Japan is a world leader in health care; this programme explores cutting-edge Japanese medical technologies and tips for a healthy lifestyle.</desc>
+    <desc lang="en">Japanese researchers have been uncovering previously unknown effects of vitamin C in the body. We report on their latest findings, such as the power to strengthen the bones and prevent dementia.</desc>
     <category lang="en">Infotainment</category>
     <episode-num system="xmltv_ns">0.2049.</episode-num>
     <episode-num system="onscreen">S1E2050</episode-num>
   </programme>
   <programme start="20260424193500 +0000" stop="20260424200500 +0000" channel="nhkworldjapan.unifitv">
-    <title lang="en">Special Programme</title>
-    <desc lang="en">A wide range of topics featuring Japanese culture and society are introduced.</desc>
+    <title lang="en">The Imperial Palace</title>
+    <desc lang="en">Thoughtful preparation and meticulous attention to detail contribute to a warm welcome for distinguished guests at the Imperial Palace - join us as we go behind the scenes.</desc>
     <category lang="en">Infotainment</category>
-    <episode-num system="xmltv_ns">0.6999.</episode-num>
-    <episode-num system="onscreen">S1E7000</episode-num>
+    <episode-num system="xmltv_ns">0.5000.</episode-num>
+    <episode-num system="onscreen">S1E5001</episode-num>
   </programme>
   <programme start="20260424200500 +0000" stop="20260424203500 +0000" channel="nhkworldjapan.unifitv">
     <title lang="en">NHK Newsline</title>
@@ -14654,8 +14654,8 @@
     <category lang="en">Infotainment</category>
   </programme>
   <programme start="20260424213500 +0000" stop="20260424220500 +0000" channel="nhkworldjapan.unifitv">
-    <title lang="en">NHK World-Japan Special Programme</title>
-    <desc lang="en">NHK World-Japan presents news, current affairs, and documentaries focusing on Japan and Asia.</desc>
+    <title lang="en">Japan in Focus</title>
+    <desc lang="en">Ten years ago, massive earthquakes struck Kumamoto. We follow the stories of people who, stripped of their former lives by the disaster, found inspiration in the stars to get back on their feet.</desc>
     <category lang="en">Infotainment</category>
     <episode-num system="xmltv_ns">0.3024.</episode-num>
     <episode-num system="onscreen">S1E3025</episode-num>
@@ -14693,7 +14693,7 @@
   </programme>
   <programme start="20260424233500 +0000" stop="20260425000500 +0000" channel="nhkworldjapan.unifitv">
     <title lang="en">Japanology Plus</title>
-    <desc lang="en">Deep dives into cultural phenomena with Peter Barakan, a bilingual British broadcaster based in Japan since 1974 - Peter discovers something new about Japan in every episode.</desc>
+    <desc lang="en">Our bodies are home to trillions of bacteria that influence our physical health and mental well-being. We explore Japan's relationship with fermented foods and "chokatsu" or gut-related activities.</desc>
     <category lang="en">Infotainment</category>
     <episode-num system="xmltv_ns">0.2031.</episode-num>
     <episode-num system="onscreen">S1E2032</episode-num>
@@ -14705,7 +14705,7 @@
   </programme>
   <programme start="20260425001500 +0000" stop="20260425010500 +0000" channel="nhkworldjapan.unifitv">
     <title lang="en">Documentary 360</title>
-    <desc lang="en">A series of documentaries that feature in-depth examinations of political, economic, and social challenges facing Japan and the world.</desc>
+    <desc lang="en">March 2011.The worst-case scenario for the Fukushima Daiichi nuclear accident involved the evacuation of all of eastern Japan. But a secret plan to contain the crisis was being prepared.</desc>
     <category lang="en">Infotainment</category>
     <episode-num system="xmltv_ns">0.4000.</episode-num>
     <episode-num system="onscreen">S1E4001</episode-num>
@@ -14716,8 +14716,8 @@
     <category lang="en">Infotainment</category>
   </programme>
   <programme start="20260425011500 +0000" stop="20260425020500 +0000" channel="nhkworldjapan.unifitv">
-    <title lang="en">NHK World TV Special Programme</title>
-    <desc lang="en">NHK World-Japan presents news, current affairs, and documentaries focusing on Japan and Asia.</desc>
+    <title lang="en">The Perfect 2-Hour Guide</title>
+    <desc lang="en">A grand shrine built about a century ago to honour Emperor Meiji. Surrounded by a vast forest in the heart of Tokyo, follow the ultimate two-hour route to discover the many charms of Meiji Jingu.</desc>
     <category lang="en">Infotainment</category>
     <episode-num system="xmltv_ns">0.5000.</episode-num>
     <episode-num system="onscreen">S1E5001</episode-num>
@@ -14729,17 +14729,17 @@
   </programme>
   <programme start="20260425021500 +0000" stop="20260425030000 +0000" channel="nhkworldjapan.unifitv">
     <title lang="en">The Professionals</title>
-    <desc lang="en">A documentary series that focuses on first-class professionals from various fields.</desc>
+    <desc lang="en">A doctor can change the future of lung cancer, the cancer that causes the most deaths - we follow him as he pursues new cancer treatment at the head of a team of the world's best in Toronto in Canada.</desc>
     <category lang="en">Infotainment</category>
     <episode-num system="xmltv_ns">0.4002.</episode-num>
     <episode-num system="onscreen">S1E4003</episode-num>
   </programme>
   <programme start="20260425030000 +0000" stop="20260425030500 +0000" channel="nhkworldjapan.unifitv">
-    <title lang="en">Dining with the Chef mini</title>
-    <desc lang="en">Learn about Japanese home cooking with Master Chef Saito, who cooks using traditional Japanese cooking techniques, in five minutes!</desc>
+    <title lang="en">Japan Delish 5min.</title>
+    <desc lang="en">Ever heard of an-pan? From fruit sandwiches to curry-filled delights, Japanese bread is full of delicious surprises!</desc>
     <category lang="en">Infotainment</category>
-    <episode-num system="xmltv_ns">0.6030.</episode-num>
-    <episode-num system="onscreen">S1E6031</episode-num>
+    <episode-num system="xmltv_ns">0.6063.</episode-num>
+    <episode-num system="onscreen">S1E6064</episode-num>
   </programme>
   <programme start="20260425030500 +0000" stop="20260425031500 +0000" channel="nhkworldjapan.unifitv">
     <title lang="en">NHK Newsline</title>
@@ -14753,12 +14753,19 @@
     <episode-num system="xmltv_ns">0.2100.</episode-num>
     <episode-num system="onscreen">S1E2101</episode-num>
   </programme>
-  <programme start="20260425034500 +0000" stop="20260425040500 +0000" channel="nhkworldjapan.unifitv">
-    <title lang="en">Kids Edutainment</title>
-    <desc lang="en">NHK World-Japan presents a variety of programmes focusing on Japan.</desc>
+  <programme start="20260425034500 +0000" stop="20260425035500 +0000" channel="nhkworldjapan.unifitv">
+    <title lang="en">Story Land</title>
+    <desc lang="en">Leading actors take turns as solo storytellers to act and recite traditional folk tales loved in Japan for centuries - watch out for some delightful illustrations too!</desc>
     <category lang="en">Infotainment</category>
-    <episode-num system="xmltv_ns">0.3023.</episode-num>
-    <episode-num system="onscreen">S1E3024</episode-num>
+    <episode-num system="xmltv_ns">0.4039.</episode-num>
+    <episode-num system="onscreen">S1E4040</episode-num>
+  </programme>
+  <programme start="20260425035500 +0000" stop="20260425040500 +0000" channel="nhkworldjapan.unifitv">
+    <title lang="en">Texico</title>
+    <desc lang="en">Learn programming principles without a computer! Animated characters provide fun and lucid explanations of five core processes: analysis, combination, generalisation, abstraction and simulation.</desc>
+    <category lang="en">Infotainment</category>
+    <episode-num system="xmltv_ns">0.4037.</episode-num>
+    <episode-num system="onscreen">S1E4038</episode-num>
   </programme>
   <programme start="20260425040500 +0000" stop="20260425041500 +0000" channel="nhkworldjapan.unifitv">
     <title lang="en">NHK Newsline</title>
@@ -14774,7 +14781,7 @@
   </programme>
   <programme start="20260425044500 +0000" stop="20260425050000 +0000" channel="nhkworldjapan.unifitv">
     <title lang="en">Cinematic Journey</title>
-    <desc lang="en">Kyle Card hikes along a 1000km trail following the Pacific Coast in northern Japan - he discovers local lifestyles, stunning nature, traces of the area's 2011 disaster and resilient people.</desc>
+    <desc lang="en">Endless Beauty: Actor Kyle Card hikes the San'in Kaigan Geopark trail and traces the Earth's memory through Uradome's jagged coast, Tottori's dunes, and Genbudo's hexagonal columns.</desc>
     <category lang="en">Infotainment</category>
     <episode-num system="xmltv_ns">0.6216.</episode-num>
     <episode-num system="onscreen">S1E6217</episode-num>
@@ -14793,14 +14800,14 @@
   </programme>
   <programme start="20260425051500 +0000" stop="20260425053000 +0000" channel="nhkworldjapan.unifitv">
     <title lang="en">Bosai: Science That Can Save Your Life</title>
-    <desc lang="en">Japan has a long history of natural disasters - Bosai explores how to overcome them and save lives with the power of science.</desc>
+    <desc lang="en">A major Tokyo quake could leave many stranded in Marunouchi, one of Japan's leading business districts. We'll examine its vast energy network protecting people from disasters and power outages.</desc>
     <category lang="en">Infotainment</category>
     <episode-num system="xmltv_ns">0.2089.</episode-num>
     <episode-num system="onscreen">S1E2090</episode-num>
   </programme>
   <programme start="20260425053000 +0000" stop="20260425053500 +0000" channel="nhkworldjapan.unifitv">
-    <title lang="en">Clothing That Protects</title>
-    <desc lang="en">Fashion designer Morinaga Kunihiko visits Amami Oshima in Kagoshima - priestesses on Amami wore patchwork robes with triangular butterfly designs intended to protect the wearer from unseen spirits.</desc>
+    <title lang="en">Design Museum Japan</title>
+    <desc lang="en">Morinaga Kunihiko (Fashion designer) visits Amami Oshima, Kagoshima. Priestesses on Amami wore patchwork robes with triangular butterfly designs, intended to protect the wearer from unseen spirits.</desc>
     <category lang="en">Infotainment</category>
     <episode-num system="xmltv_ns">0.6057.</episode-num>
     <episode-num system="onscreen">S1E6058</episode-num>
@@ -14819,7 +14826,7 @@
   </programme>
   <programme start="20260425061500 +0000" stop="20260425070500 +0000" channel="nhkworldjapan.unifitv">
     <title lang="en">Documentary 360</title>
-    <desc lang="en">A series of documentaries that feature in-depth examinations of political, economic, and social challenges facing Japan and the world.</desc>
+    <desc lang="en">March 2011.The worst-case scenario for the Fukushima Daiichi nuclear accident involved the evacuation of all of eastern Japan. But a secret plan to contain the crisis was being prepared.</desc>
     <category lang="en">Infotainment</category>
     <episode-num system="xmltv_ns">0.4000.</episode-num>
     <episode-num system="onscreen">S1E4001</episode-num>
@@ -14830,8 +14837,8 @@
     <category lang="en">Infotainment</category>
   </programme>
   <programme start="20260425071500 +0000" stop="20260425080500 +0000" channel="nhkworldjapan.unifitv">
-    <title lang="en">NHK World TV Special Programme</title>
-    <desc lang="en">NHK World-Japan presents news, current affairs, and documentaries focusing on Japan and Asia.</desc>
+    <title lang="en">The Perfect 2-Hour Guide</title>
+    <desc lang="en">A grand shrine built about a century ago to honour Emperor Meiji. Surrounded by a vast forest in the heart of Tokyo, follow the ultimate two-hour route to discover the many charms of Meiji Jingu.</desc>
     <category lang="en">Infotainment</category>
     <episode-num system="xmltv_ns">0.5000.</episode-num>
     <episode-num system="onscreen">S1E5001</episode-num>
@@ -14850,7 +14857,7 @@
   </programme>
   <programme start="20260425084500 +0000" stop="20260425090000 +0000" channel="nhkworldjapan.unifitv">
     <title lang="en">Cinematic Journey</title>
-    <desc lang="en">Kyle Card hikes along a 1000km trail following the Pacific Coast in northern Japan - he discovers local lifestyles, stunning nature, traces of the area's 2011 disaster and resilient people.</desc>
+    <desc lang="en">Endless Beauty: Actor Kyle Card hikes the San'in Kaigan Geopark trail and traces the Earth's memory through Uradome's jagged coast, Tottori's dunes, and Genbudo's hexagonal columns.</desc>
     <category lang="en">Infotainment</category>
     <episode-num system="xmltv_ns">0.6216.</episode-num>
     <episode-num system="onscreen">S1E6217</episode-num>
@@ -14874,12 +14881,19 @@
     <episode-num system="xmltv_ns">0.2100.</episode-num>
     <episode-num system="onscreen">S1E2101</episode-num>
   </programme>
-  <programme start="20260425094500 +0000" stop="20260425100500 +0000" channel="nhkworldjapan.unifitv">
-    <title lang="en">Kids Edutainment</title>
-    <desc lang="en">NHK World-Japan presents a variety of programmes focusing on Japan.</desc>
+  <programme start="20260425094500 +0000" stop="20260425095500 +0000" channel="nhkworldjapan.unifitv">
+    <title lang="en">Story Land</title>
+    <desc lang="en">Leading actors take turns as solo storytellers to act and recite traditional folk tales loved in Japan for centuries - watch out for some delightful illustrations too!</desc>
     <category lang="en">Infotainment</category>
-    <episode-num system="xmltv_ns">0.3023.</episode-num>
-    <episode-num system="onscreen">S1E3024</episode-num>
+    <episode-num system="xmltv_ns">0.4039.</episode-num>
+    <episode-num system="onscreen">S1E4040</episode-num>
+  </programme>
+  <programme start="20260425095500 +0000" stop="20260425100500 +0000" channel="nhkworldjapan.unifitv">
+    <title lang="en">Texico</title>
+    <desc lang="en">Learn programming principles without a computer! Animated characters provide fun and lucid explanations of five core processes: analysis, combination, generalisation, abstraction and simulation.</desc>
+    <category lang="en">Infotainment</category>
+    <episode-num system="xmltv_ns">0.4037.</episode-num>
+    <episode-num system="onscreen">S1E4038</episode-num>
   </programme>
   <programme start="20260425100500 +0000" stop="20260425101500 +0000" channel="nhkworldjapan.unifitv">
     <title lang="en">NHK Newsline</title>
@@ -14888,17 +14902,17 @@
   </programme>
   <programme start="20260425101500 +0000" stop="20260425110000 +0000" channel="nhkworldjapan.unifitv">
     <title lang="en">The Professionals</title>
-    <desc lang="en">A documentary series that focuses on first-class professionals from various fields.</desc>
+    <desc lang="en">A doctor can change the future of lung cancer, the cancer that causes the most deaths - we follow him as he pursues new cancer treatment at the head of a team of the world's best in Toronto in Canada.</desc>
     <category lang="en">Infotainment</category>
     <episode-num system="xmltv_ns">0.4002.</episode-num>
     <episode-num system="onscreen">S1E4003</episode-num>
   </programme>
   <programme start="20260425110000 +0000" stop="20260425110500 +0000" channel="nhkworldjapan.unifitv">
-    <title lang="en">Dining with the Chef mini</title>
-    <desc lang="en">Learn about Japanese home cooking with Master Chef Saito, who cooks using traditional Japanese cooking techniques, in five minutes!</desc>
+    <title lang="en">Japan Delish 5min.</title>
+    <desc lang="en">Ever heard of an-pan? From fruit sandwiches to curry-filled delights, Japanese bread is full of delicious surprises!</desc>
     <category lang="en">Infotainment</category>
-    <episode-num system="xmltv_ns">0.6030.</episode-num>
-    <episode-num system="onscreen">S1E6031</episode-num>
+    <episode-num system="xmltv_ns">0.6063.</episode-num>
+    <episode-num system="onscreen">S1E6064</episode-num>
   </programme>
   <programme start="20260425110500 +0000" stop="20260425111500 +0000" channel="nhkworldjapan.unifitv">
     <title lang="en">NHK Newsline</title>
@@ -14907,14 +14921,14 @@
   </programme>
   <programme start="20260425111500 +0000" stop="20260425113000 +0000" channel="nhkworldjapan.unifitv">
     <title lang="en">Bosai: Science That Can Save Your Life</title>
-    <desc lang="en">Japan has a long history of natural disasters - Bosai explores how to overcome them and save lives with the power of science.</desc>
+    <desc lang="en">A major Tokyo quake could leave many stranded in Marunouchi, one of Japan's leading business districts. We'll examine its vast energy network protecting people from disasters and power outages.</desc>
     <category lang="en">Infotainment</category>
     <episode-num system="xmltv_ns">0.2089.</episode-num>
     <episode-num system="onscreen">S1E2090</episode-num>
   </programme>
   <programme start="20260425113000 +0000" stop="20260425113500 +0000" channel="nhkworldjapan.unifitv">
-    <title lang="en">Clothing That Protects</title>
-    <desc lang="en">Fashion designer Morinaga Kunihiko visits Amami Oshima in Kagoshima - priestesses on Amami wore patchwork robes with triangular butterfly designs intended to protect the wearer from unseen spirits.</desc>
+    <title lang="en">Design Museum Japan</title>
+    <desc lang="en">Morinaga Kunihiko (Fashion designer) visits Amami Oshima, Kagoshima. Priestesses on Amami wore patchwork robes with triangular butterfly designs, intended to protect the wearer from unseen spirits.</desc>
     <category lang="en">Infotainment</category>
     <episode-num system="xmltv_ns">0.6057.</episode-num>
     <episode-num system="onscreen">S1E6058</episode-num>
@@ -14933,7 +14947,7 @@
   </programme>
   <programme start="20260425121500 +0000" stop="20260425130500 +0000" channel="nhkworldjapan.unifitv">
     <title lang="en">Documentary 360</title>
-    <desc lang="en">A series of documentaries that feature in-depth examinations of political, economic, and social challenges facing Japan and the world.</desc>
+    <desc lang="en">March 2011.The worst-case scenario for the Fukushima Daiichi nuclear accident involved the evacuation of all of eastern Japan. But a secret plan to contain the crisis was being prepared.</desc>
     <category lang="en">Infotainment</category>
     <episode-num system="xmltv_ns">0.4000.</episode-num>
     <episode-num system="onscreen">S1E4001</episode-num>
@@ -14944,8 +14958,8 @@
     <category lang="en">Infotainment</category>
   </programme>
   <programme start="20260425131500 +0000" stop="20260425140500 +0000" channel="nhkworldjapan.unifitv">
-    <title lang="en">NHK World TV Special Programme</title>
-    <desc lang="en">NHK World-Japan presents news, current affairs, and documentaries focusing on Japan and Asia.</desc>
+    <title lang="en">The Perfect 2-Hour Guide</title>
+    <desc lang="en">A grand shrine built about a century ago to honour Emperor Meiji. Surrounded by a vast forest in the heart of Tokyo, follow the ultimate two-hour route to discover the many charms of Meiji Jingu.</desc>
     <category lang="en">Infotainment</category>
     <episode-num system="xmltv_ns">0.5000.</episode-num>
     <episode-num system="onscreen">S1E5001</episode-num>
@@ -14969,12 +14983,19 @@
     <episode-num system="xmltv_ns">0.6047.</episode-num>
     <episode-num system="onscreen">S1E6048</episode-num>
   </programme>
-  <programme start="20260425144500 +0000" stop="20260425150500 +0000" channel="nhkworldjapan.unifitv">
-    <title lang="en">Kids Edutainment</title>
-    <desc lang="en">NHK World-Japan presents a variety of programmes focusing on Japan.</desc>
+  <programme start="20260425144500 +0000" stop="20260425145500 +0000" channel="nhkworldjapan.unifitv">
+    <title lang="en">Story Land</title>
+    <desc lang="en">Leading actors take turns as solo storytellers to act and recite traditional folk tales loved in Japan for centuries - watch out for some delightful illustrations too!</desc>
     <category lang="en">Infotainment</category>
-    <episode-num system="xmltv_ns">0.3023.</episode-num>
-    <episode-num system="onscreen">S1E3024</episode-num>
+    <episode-num system="xmltv_ns">0.4039.</episode-num>
+    <episode-num system="onscreen">S1E4040</episode-num>
+  </programme>
+  <programme start="20260425145500 +0000" stop="20260425150500 +0000" channel="nhkworldjapan.unifitv">
+    <title lang="en">Texico</title>
+    <desc lang="en">Learn programming principles without a computer! Animated characters provide fun and lucid explanations of five core processes: analysis, combination, generalisation, abstraction and simulation.</desc>
+    <category lang="en">Infotainment</category>
+    <episode-num system="xmltv_ns">0.4037.</episode-num>
+    <episode-num system="onscreen">S1E4038</episode-num>
   </programme>
   <programme start="20260425150500 +0000" stop="20260425151500 +0000" channel="nhkworldjapan.unifitv">
     <title lang="en">NHK Newsline</title>
@@ -14983,17 +15004,17 @@
   </programme>
   <programme start="20260425151500 +0000" stop="20260425160000 +0000" channel="nhkworldjapan.unifitv">
     <title lang="en">The Professionals</title>
-    <desc lang="en">A documentary series that focuses on first-class professionals from various fields.</desc>
+    <desc lang="en">A doctor can change the future of lung cancer, the cancer that causes the most deaths - we follow him as he pursues new cancer treatment at the head of a team of the world's best in Toronto in Canada.</desc>
     <category lang="en">Infotainment</category>
     <episode-num system="xmltv_ns">0.4002.</episode-num>
     <episode-num system="onscreen">S1E4003</episode-num>
   </programme>
   <programme start="20260425160000 +0000" stop="20260425160500 +0000" channel="nhkworldjapan.unifitv">
-    <title lang="en">Dining with the Chef mini</title>
-    <desc lang="en">Learn about Japanese home cooking with Master Chef Saito, who cooks using traditional Japanese cooking techniques, in five minutes!</desc>
+    <title lang="en">Japan Delish 5min.</title>
+    <desc lang="en">Ever heard of an-pan? From fruit sandwiches to curry-filled delights, Japanese bread is full of delicious surprises!</desc>
     <category lang="en">Infotainment</category>
-    <episode-num system="xmltv_ns">0.6030.</episode-num>
-    <episode-num system="onscreen">S1E6031</episode-num>
+    <episode-num system="xmltv_ns">0.6063.</episode-num>
+    <episode-num system="onscreen">S1E6064</episode-num>
   </programme>
   <channel id="unifisports1.unifitv">
     <display-name>Unifi Sports 1</display-name>

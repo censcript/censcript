@@ -7133,7 +7133,7 @@
         <title>NHK Newsline</title>
     </programme>
     <programme start="20260425011000 +0000" stop="20260425020000 +0000" channel="NHK WORLD - JAPAN HD.starhub">
-        <title>NHK World TV Special Programme</title>
+        <title>The Perfect 2-Hour Guide</title>
     </programme>
     <programme start="20260425020000 +0000" stop="20260425021000 +0000" channel="NHK WORLD - JAPAN HD.starhub">
         <title>NHK Newsline</title>
@@ -7142,7 +7142,7 @@
         <title>The Professionals</title>
     </programme>
     <programme start="20260425025500 +0000" stop="20260425030000 +0000" channel="NHK WORLD - JAPAN HD.starhub">
-        <title>Dining with the Chef mini</title>
+        <title>Japan Delish 5min.</title>
     </programme>
     <programme start="20260425030000 +0000" stop="20260425031000 +0000" channel="NHK WORLD - JAPAN HD.starhub">
         <title>NHK Newsline</title>
@@ -7190,7 +7190,7 @@
         <title>NHK Newsline</title>
     </programme>
     <programme start="20260425071000 +0000" stop="20260425080000 +0000" channel="NHK WORLD - JAPAN HD.starhub">
-        <title>NHK World TV Special Programme</title>
+        <title>The Perfect 2-Hour Guide</title>
     </programme>
     <programme start="20260425080000 +0000" stop="20260425081000 +0000" channel="NHK WORLD - JAPAN HD.starhub">
         <title>NHK Newsline</title>
@@ -7223,7 +7223,7 @@
         <title>The Professionals</title>
     </programme>
     <programme start="20260425105500 +0000" stop="20260425110000 +0000" channel="NHK WORLD - JAPAN HD.starhub">
-        <title>Dining with the Chef mini</title>
+        <title>Japan Delish 5min.</title>
     </programme>
     <programme start="20260425110000 +0000" stop="20260425111000 +0000" channel="NHK WORLD - JAPAN HD.starhub">
         <title>NHK Newsline</title>
@@ -7247,7 +7247,7 @@
         <title>NHK Newsline</title>
     </programme>
     <programme start="20260425131000 +0000" stop="20260425140000 +0000" channel="NHK WORLD - JAPAN HD.starhub">
-        <title>NHK World TV Special Programme</title>
+        <title>The Perfect 2-Hour Guide</title>
     </programme>
     <programme start="20260425140000 +0000" stop="20260425141000 +0000" channel="NHK WORLD - JAPAN HD.starhub">
         <title>NHK Newsline</title>
@@ -7271,7 +7271,7 @@
         <title>The Professionals</title>
     </programme>
     <programme start="20260425155500 +0000" stop="20260425160000 +0000" channel="NHK WORLD - JAPAN HD.starhub">
-        <title>Dining with the Chef mini</title>
+        <title>Japan Delish 5min.</title>
     </programme>
     <programme start="20260424143000 +0000" stop="20260424162000 +0000" channel="ONE (Malay).starhub">
         <title>Running Man</title>
