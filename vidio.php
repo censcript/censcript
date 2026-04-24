@@ -204,16 +204,15 @@
     <desc lang="id">Sinetron romansa tentang kisah Khansa (Yasmin Napper), perempuan lembut yang dipenjara 5 tahun karena fitnah Monika (Anjani Dina) untuk menutupi kecelakaan yang menabrak Aryani. Setelah bebas, Khansa berjuang mempertahankan iman dan kejujurannya di tengah teror, pengkhianatan, dan konflik cinta dengan Fathan (Arbani Yasiz) dan Emran (Cakrawala Airawan). Tayang setiap hari pukul 18.25 WIB</desc>
     <icon src="https://thumbor.prod.vidiocdn.com/qhZpHEqYoWbfBrJa0aLRcUb0G7I=/287x162/filters:strip_icc():quality(70)/vidio-media-production/uploads/tv_program/thumbnail/401147/50494f.jpg"/>
   </programme>
-  <programme channel="204" start="20260424130000 +0000" stop="20260424160000 +0000">
+  <programme channel="204" start="20260424130000 +0000" stop="20260424170000 +0000">
     <title lang="id">Malam Puncak Pemilihan Puteri Indonesia 2026</title>
     <icon src="https://thumbor.prod.vidiocdn.com/VJepX3_5v0xb9nb0MsFjUlUncH0=/287x162/filters:strip_icc():quality(70)/vidio-media-production/uploads/livestreaming/schedule/thumbnail/5020991/eb4914.jpg"/>
   </programme>
-  <programme channel="204" start="20260424160000 +0000" stop="20260424180000 +0000">
-    <title lang="id">Film Layar Lebar Dilan 1991 Extended</title>
-    <desc lang="id">Dilan dan Milea resmi berpacaran. Namun Dilan terancam dikeluarkan dari sekolah karena terlibat tawuran. Suatu hari, ketika dia berencana untuk berkelahi lagi, Milea memintanya untuk keluar dari geng motor atau hubungan mereka akan berakhir.</desc>
-    <icon src="https://thumbor.prod.vidiocdn.com/oo4YX1Ze8jEDZ8uqnK8MN02xUto=/287x162/filters:strip_icc():quality(70)/vidio-media-production/uploads/livestreaming/schedule/thumbnail/5020992/46a538.jpg"/>
+  <programme channel="204" start="20260424130000 +0000" stop="20260424170000 +0000">
+    <title lang="id">Malam Puncak Pemilihan Puteri Indonesia 2026</title>
+    <icon src="https://thumbor.prod.vidiocdn.com/VJepX3_5v0xb9nb0MsFjUlUncH0=/287x162/filters:strip_icc():quality(70)/vidio-media-production/uploads/livestreaming/schedule/thumbnail/5020991/eb4914.jpg"/>
   </programme>
-  <programme channel="204" start="20260424160000 +0000" stop="20260424180000 +0000">
+  <programme channel="204" start="20260424170000 +0000" stop="20260424180000 +0000">
     <title lang="id">Film Layar Lebar Dilan 1991 Extended</title>
     <desc lang="id">Dilan dan Milea resmi berpacaran. Namun Dilan terancam dikeluarkan dari sekolah karena terlibat tawuran. Suatu hari, ketika dia berencana untuk berkelahi lagi, Milea memintanya untuk keluar dari geng motor atau hubungan mereka akan berakhir.</desc>
     <icon src="https://thumbor.prod.vidiocdn.com/oo4YX1Ze8jEDZ8uqnK8MN02xUto=/287x162/filters:strip_icc():quality(70)/vidio-media-production/uploads/livestreaming/schedule/thumbnail/5020992/46a538.jpg"/>
@@ -473,7 +472,7 @@
     <desc lang="id">Saksikan! BRI Super League 2025/26 - Is Back!" 18 Klub Terbaik Siap Bertarung Di Kasta Tertinggi Sepak Bola Indonesia! Pertandingan Semakin Seru! Jangan Lewatkan BRI Super League 2025/26 Mulai 8 Agustus 2025, Pkl 15.00 &amp; 18.30 WIB, Live &amp; Eksklusif Hanya Di Indosiar dan Vidio #Indosiarrumahsepakbolaindonesia</desc>
     <icon src="https://thumbor.prod.vidiocdn.com/cBZL7ITaJCof6cqtayFee2uJCX8=/287x162/filters:strip_icc():quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/image/205/indosiar-d9a3d0.jpg"/>
   </programme>
-  <programme channel="205" start="20260424141800 +0000" stop="20260424170000 +0000">
+  <programme channel="205" start="20260424141800 +0000" stop="20260424180000 +0000">
     <title lang="id">Band Academy Group 2 Top 4</title>
     <desc lang="id">Panggung Megah Band Academy Siap Dimulai! Setelah Melalui Proses Seleksi Yang Ketat, Kini 30 Academia Terpilih Siap Berkompetisi Untuk Membuktikan Talenta, dan Aksi Panggung Spektakuler Demi Musik Masa Depan. Siapakah Band Yang Akan Berhasil Lolos Ke Panggung Megah Band Academy? Saksikan Band Academy Mulai Selasa, 7 April 2026, Setiap Rabu - Jumat Pukul 19.00 WIB Live Hanya Di Indosiar.</desc>
     <icon src="https://thumbor.prod.vidiocdn.com/hOO6KS0s-zdBr9OT-XFndadTjkI=/287x162/filters:strip_icc():quality(70)/vidio-media-production/uploads/livestreaming/schedule/thumbnail/5020744/30cda3.jpg"/>
@@ -1749,17 +1748,17 @@
     <desc lang="id">Proliga 2026 First Serve 19:00</desc>
     <icon src="https://thumbor.prod.vidiocdn.com/NdmzqkxqnWVnlngtk_ObYNT-wiY=/287x162/filters:strip_icc():quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/image/206/moji-a5bd3e.jpg"/>
   </programme>
-  <programme channel="206" start="20260424144500 +0000" stop="20260424160900 +0000">
+  <programme channel="206" start="20260424144500 +0000" stop="20260424165000 +0000">
     <title lang="id">Rerun Uel</title>
     <desc lang="id">Rerun Uel</desc>
     <icon src="https://thumbor.prod.vidiocdn.com/NdmzqkxqnWVnlngtk_ObYNT-wiY=/287x162/filters:strip_icc():quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/image/206/moji-a5bd3e.jpg"/>
   </programme>
-  <programme channel="206" start="20260424160900 +0000" stop="20260424171200 +0000">
+  <programme channel="206" start="20260424165000 +0000" stop="20260424171200 +0000">
     <title lang="id">Harta Tahta Cinta</title>
     <desc lang="id">Harta Tahta Cinta</desc>
     <icon src="https://thumbor.prod.vidiocdn.com/NdmzqkxqnWVnlngtk_ObYNT-wiY=/287x162/filters:strip_icc():quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/image/206/moji-a5bd3e.jpg"/>
   </programme>
-  <programme channel="206" start="20260424160900 +0000" stop="20260424171200 +0000">
+  <programme channel="206" start="20260424165000 +0000" stop="20260424171200 +0000">
     <title lang="id">Harta Tahta Cinta</title>
     <desc lang="id">Harta Tahta Cinta</desc>
     <icon src="https://thumbor.prod.vidiocdn.com/NdmzqkxqnWVnlngtk_ObYNT-wiY=/287x162/filters:strip_icc():quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/image/206/moji-a5bd3e.jpg"/>
@@ -12644,22 +12643,17 @@
     <desc lang="id">Week 22</desc>
     <icon src="https://thumbor.prod.vidiocdn.com/nY0aFklpYf6yONLaFJjxhiSuthc=/287x162/filters:strip_icc():quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/image/6786/champions-tv-3-76ca7c.jpg"/>
   </programme>
-  <programme channel="6786" start="20260424090000 +0000" stop="20260424153000 +0000">
+  <programme channel="6786" start="20260424090000 +0000" stop="20260424161700 +0000">
     <title lang="id">Day 3 - WTA 1000: Mutua Madrid Open 2026</title>
     <desc lang="id">Nonton streaming pertandingan seru Day 3 - WTA 1000: Mutua Madrid Open 2026. Saksikan aksi-aksi terbaik dari tim yang bersaing ketat untuk meraih kemenangan. Dapatkan informasi lengkap mengenai jadwal pertandingan dan hasil pertandingan terbaru hanya di Vidio.</desc>
     <icon src="https://thumbor.prod.vidiocdn.com/-_86XOfcyNhiV06ChNLameggmgU=/287x162/filters:strip_icc():quality(70)/vidio-media-production/uploads/livestreaming/schedule/thumbnail/5021680/3633a9.jpg"/>
   </programme>
-  <programme channel="6786" start="20260424153000 +0000" stop="20260424170000 +0000">
+  <programme channel="6786" start="20260424161700 +0000" stop="20260424173000 +0000">
     <title lang="id">HELLAS VERONA vs MILAN : Serie A 2025/26</title>
     <desc lang="id">HELLAS VERONA vs MILAN</desc>
     <icon src="https://thumbor.prod.vidiocdn.com/nY0aFklpYf6yONLaFJjxhiSuthc=/287x162/filters:strip_icc():quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/image/6786/champions-tv-3-76ca7c.jpg"/>
   </programme>
-  <programme channel="6786" start="20260424090000 +0000" stop="20260424170000 +0000">
-    <title lang="id">Day 3 - WTA 1000: Mutua Madrid Open 2026</title>
-    <desc lang="id">Nonton streaming pertandingan seru Day 3 - WTA 1000: Mutua Madrid Open 2026. Saksikan aksi-aksi terbaik dari tim yang bersaing ketat untuk meraih kemenangan. Dapatkan informasi lengkap mengenai jadwal pertandingan dan hasil pertandingan terbaru hanya di Vidio.</desc>
-    <icon src="https://thumbor.prod.vidiocdn.com/-_86XOfcyNhiV06ChNLameggmgU=/287x162/filters:strip_icc():quality(70)/vidio-media-production/uploads/livestreaming/schedule/thumbnail/5021680/3633a9.jpg"/>
-  </programme>
-  <programme channel="6786" start="20260424170000 +0000" stop="20260424173000 +0000">
+  <programme channel="6786" start="20260424161700 +0000" stop="20260424173000 +0000">
     <title lang="id">HELLAS VERONA vs MILAN : Serie A 2025/26</title>
     <desc lang="id">HELLAS VERONA vs MILAN</desc>
     <icon src="https://thumbor.prod.vidiocdn.com/nY0aFklpYf6yONLaFJjxhiSuthc=/287x162/filters:strip_icc():quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/image/6786/champions-tv-3-76ca7c.jpg"/>
