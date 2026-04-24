@@ -5317,68 +5317,56 @@
     <programme start="20260423222000 +0000" stop="20260423231500 +0000" channel="TestChannel 996.starhub">
         <title>Golden City (Ep 851-900) VVD Mandarin</title>
     </programme>
-    <programme start="20260423231500 +0000" stop="20260424003000 +0000" channel="TestChannel 996.starhub">
-        <title>Ms Incognito</title>
+    <programme start="20260423230000 +0000" stop="20260424000000 +0000" channel="TestChannel 996.starhub">
+        <title>Early Morning News (Live)</title>
     </programme>
-    <programme start="20260424003000 +0000" stop="20260424013000 +0000" channel="TestChannel 996.starhub">
-        <title>Fight For Love</title>
+    <programme start="20260424000000 +0000" stop="20260424010000 +0000" channel="TestChannel 996.starhub">
+        <title>Early Morning News (Live)</title>
     </programme>
-    <programme start="20260424013000 +0000" stop="20260424020000 +0000" channel="TestChannel 996.starhub">
-        <title>Lo And Behold</title>
+    <programme start="20260424010000 +0000" stop="20260424020000 +0000" channel="TestChannel 996.starhub">
+        <title>0900 Morning News (Live)</title>
     </programme>
-    <programme start="20260424020000 +0000" stop="20260424025500 +0000" channel="TestChannel 996.starhub">
-        <title>Golden City (Ep 851-900) VVD Mandarin</title>
+    <programme start="20260424020000 +0000" stop="20260424030000 +0000" channel="TestChannel 996.starhub">
+        <title>1000 Morning News (Live)</title>
     </programme>
-    <programme start="20260424025500 +0000" stop="20260424035000 +0000" channel="TestChannel 996.starhub">
-        <title>The Queen of Castle</title>
+    <programme start="20260424030000 +0000" stop="20260424040000 +0000" channel="TestChannel 996.starhub">
+        <title>1100 Morning News (Live)</title>
     </programme>
-    <programme start="20260424035000 +0000" stop="20260424044500 +0000" channel="TestChannel 996.starhub">
-        <title>The Unclouded Soul</title>
+    <programme start="20260424040000 +0000" stop="20260424050000 +0000" channel="TestChannel 996.starhub">
+        <title>1200/1300 Noon News (Live)</title>
     </programme>
-    <programme start="20260424044500 +0000" stop="20260424051500 +0000" channel="TestChannel 996.starhub">
-        <title>Lo And Behold</title>
+    <programme start="20260424050000 +0000" stop="20260424060000 +0000" channel="TestChannel 996.starhub">
+        <title>1200/1300 Noon News (Live)</title>
     </programme>
-    <programme start="20260424051500 +0000" stop="20260424060500 +0000" channel="TestChannel 996.starhub">
-        <title>Shining Just for You</title>
+    <programme start="20260424060000 +0000" stop="20260424070000 +0000" channel="TestChannel 996.starhub">
+        <title>News At 1400 (Live)</title>
     </programme>
-    <programme start="20260424060500 +0000" stop="20260424070000 +0000" channel="TestChannel 996.starhub">
-        <title>Golden City (Ep 851-900) VVD Mandarin</title>
+    <programme start="20260424070000 +0000" stop="20260424080000 +0000" channel="TestChannel 996.starhub">
+        <title>1500 Afternoon News (Live)</title>
     </programme>
-    <programme start="20260424070000 +0000" stop="20260424073000 +0000" channel="TestChannel 996.starhub">
-        <title>Vengeance of the Bride</title>
+    <programme start="20260424080000 +0000" stop="20260424090000 +0000" channel="TestChannel 996.starhub">
+        <title>1600 Afternoon News (Live)</title>
     </programme>
-    <programme start="20260424073000 +0000" stop="20260424081000 +0000" channel="TestChannel 996.starhub">
-        <title>Vengeance of the Bride</title>
+    <programme start="20260424090000 +0000" stop="20260424100000 +0000" channel="TestChannel 996.starhub">
+        <title>1700 Afternoon News (Live)</title>
     </programme>
-    <programme start="20260424081000 +0000" stop="20260424090000 +0000" channel="TestChannel 996.starhub">
-        <title>Fight For Love</title>
-    </programme>
-    <programme start="20260424090000 +0000" stop="20260424094500 +0000" channel="TestChannel 996.starhub">
-        <title>Darkside Of The Moon</title>
-    </programme>
-    <programme start="20260424094500 +0000" stop="20260424103500 +0000" channel="TestChannel 996.starhub">
-        <title>Golden City (Ep 851-900) VVD Mandarin</title>
-    </programme>
-    <programme start="20260424103500 +0000" stop="20260424110000 +0000" channel="TestChannel 996.starhub">
-        <title>Lo And Behold</title>
+    <programme start="20260424100000 +0000" stop="20260424110000 +0000" channel="TestChannel 996.starhub">
+        <title>1800/1900 Evening News (Live)</title>
     </programme>
     <programme start="20260424110000 +0000" stop="20260424120000 +0000" channel="TestChannel 996.starhub">
-        <title>Yummy, Yummy? Yummy!</title>
+        <title>1800/1900 Evening News (Live)</title>
     </programme>
     <programme start="20260424120000 +0000" stop="20260424130000 +0000" channel="TestChannel 996.starhub">
-        <title>The Queen of Castle</title>
+        <title>News Frontline (Live)</title>
     </programme>
     <programme start="20260424130000 +0000" stop="20260424140000 +0000" channel="TestChannel 996.starhub">
-        <title>The Unclouded Soul</title>
+        <title>2100 Hot Topics (Live)</title>
     </programme>
-    <programme start="20260424140000 +0000" stop="20260424143000 +0000" channel="TestChannel 996.starhub">
-        <title>Lo And Behold</title>
+    <programme start="20260424140000 +0000" stop="20260424150000 +0000" channel="TestChannel 996.starhub">
+        <title>News Night (Live)</title>
     </programme>
-    <programme start="20260424143000 +0000" stop="20260424152000 +0000" channel="TestChannel 996.starhub">
-        <title>Shining Just for You</title>
-    </programme>
-    <programme start="20260424152000 +0000" stop="20260424161500 +0000" channel="TestChannel 996.starhub">
-        <title>Golden City (Ep 851-900) VVD Mandarin</title>
+    <programme start="20260424150000 +0000" stop="20260424160000 +0000" channel="TestChannel 996.starhub">
+        <title>Late Night Vision (Live)</title>
     </programme>
     <programme start="20260423160000 +0000" stop="20260423161500 +0000" channel="Euronews HD.starhub">
         <title>The European debrief</title>

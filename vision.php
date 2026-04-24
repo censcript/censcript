@@ -28,13 +28,16 @@
 <programme start="20260424131500 +0000" stop="20260424143000 +0000" channel="RCTI.vision">
 <title>Turun Ranjang (RCTI)</title>
 </programme>
-<programme start="20260424143000 +0000" stop="20260424163000 +0000" channel="RCTI.vision">
+<programme start="20260424143000 +0000" stop="20260424154500 +0000" channel="RCTI.vision">
 <title>Mencari Kambing Hitam</title>
 </programme>
-<programme start="20260424163000 +0000" stop="20260424180000 +0000" channel="RCTI.vision">
-<title>Kesempatan Kedua</title>
+<programme start="20260424154500 +0000" stop="20260424170000 +0000" channel="RCTI.vision">
+<title>Reuni Adalah Maut</title>
 </programme>
-<programme start="20260424180000 +0000" stop="20260424203000 +0000" channel="RCTI.vision">
+<programme start="20260424170000 +0000" stop="20260424181500 +0000" channel="RCTI.vision">
+<title>Yang Digeprek Ayam, Yang...</title>
+</programme>
+<programme start="20260424181500 +0000" stop="20260424203000 +0000" channel="RCTI.vision">
 <title>RCTI</title>
 </programme>
 <programme start="20260424203000 +0000" stop="20260424230000 +0000" channel="RCTI.vision">
@@ -65,7 +68,7 @@
 <title>TOP: Goes To Lembang</title>
 </programme>
 <programme start="20260425073000 +0000" stop="20260425100000 +0000" channel="RCTI.vision">
-<title>Si Doel Anak Sekolahan S6</title>
+<title>Si Doel Anak Sekolahan S6 (RCTI)</title>
 </programme>
 <programme start="20260425100000 +0000" stop="20260425120000 +0000" channel="RCTI.vision">
 <title>Preman Pensiun Deui</title>
@@ -627,9 +630,6 @@
 </programme>
 <programme start="20260424090000 +0000" stop="20260424110000 +0000" channel="ANTV.vision">
 <title>Vasudha</title>
-</programme>
-<programme start="20260424110000 +0000" stop="20260424130000 +0000" channel="ANTV.vision">
-<title>Roro Mendut</title>
 </programme>
 <programme start="20260424130000 +0000" stop="20260424143000 +0000" channel="ANTV.vision">
 <title>Malam Satu Syuro</title>
@@ -1328,7 +1328,7 @@
 <title>Berita Merah Putih</title>
 </programme>
 <programme start="20260424083000 +0000" stop="20260424090000 +0000" channel="BTV.vision">
-<title>Berita Satu Sore (L)</title>
+<title>Berita Satu Sore</title>
 </programme>
 <programme start="20260424090000 +0000" stop="20260424090500 +0000" channel="BTV.vision">
 <title>Berita Satu Terkini</title>
@@ -1427,7 +1427,7 @@
 <title>Meja Redaksi</title>
 </programme>
 <programme start="20260425083000 +0000" stop="20260425102500 +0000" channel="BTV.vision">
-<title>Berita Satu Sore (L)</title>
+<title>Berita Satu Sore</title>
 </programme>
 <programme start="20260425102500 +0000" stop="20260425105000 +0000" channel="BTV.vision">
 <title>Berita Kriminal</title>

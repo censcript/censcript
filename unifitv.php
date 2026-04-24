@@ -3411,268 +3411,33 @@
   <channel id="tvbjade.unifitv">
     <display-name>TVB Jade</display-name>
   </channel>
-  <programme start="20260423155500 +0000" stop="20260423160500 +0000" channel="tvbjade.unifitv">
-    <title lang="en">Global View</title>
-    <desc lang="en">" Global View," curated by seasoned journalists, guides you to view the world with a global perspective—broadening your horizons, expanding your understanding of the news, and enriching your knowledge.</desc>
-    <category lang="en">News </category>
-  </programme>
-  <programme start="20260423160500 +0000" stop="20260423163500 +0000" channel="tvbjade.unifitv">
-    <title lang="en">Big Boys Club</title>
-    <desc lang="en">" Big Boys Club" is a youth talk show hosted by a group of close friends—Bob Lam, Oscar Leung, Derek Wong, Philip Fan, and Alan Chan. In each episode, singers, entertainers, or guests from various fields are invited for relaxed interviews, presenting a wide range of topics including current social issues, pop culture, and trending interests. Matters of love, relationships, and even same-sex relationships are endlessly discussed topics for men and women alike. The show invites guests from diverse backgrounds to explore love and relationships, delving into the dynamics between the sexes. The "Other Dimension" segment features guests sharing extraordinary experiences, such as encounters with ghosts, UFOs, and bizarre happenings, bringing thrilling topics to the audience.</desc>
-    <category lang="en">Entertainment</category>
-    <episode-num system="xmltv_ns">0.2118.</episode-num>
-    <episode-num system="onscreen">S1E2119</episode-num>
-  </programme>
-  <programme start="20260423163500 +0000" stop="20260423173500 +0000" channel="tvbjade.unifitv">
+  <programme start="20260423133500 +0000" stop="20260423163500 +0000" channel="tvbjade.unifitv">
     <title lang="en">Time Raiders</title>
     <desc lang="en">The series follows the story of Wu Xie, an antique shop owner who accidentally discovers a mysterious silk manuscript. Upon closer inspection, his uncle, Wu Sanxing, finds an enigmatic map hidden within the text</desc>
     <category lang="en">Drama Series</category>
     <episode-num system="xmltv_ns">0.7.</episode-num>
     <episode-num system="onscreen">S1E8</episode-num>
   </programme>
-  <programme start="20260423173500 +0000" stop="20260423183500 +0000" channel="tvbjade.unifitv">
-    <title lang="en">Themis &amp; What's On Today</title>
-    <desc lang="en">At the peak of her career, High Court Acting Judge Yin Wai-chi (Charmaine Sheh) astonishingly offers to be demoted to serve as a juvenile court magistrate due to a case handled by defense counsel Ko Shuk-wah (Alice Chan). And she divorces Yau Kwong-ching (Patrick Tam), who works in the Department of Justice, because of this. Wai-chi's judicial style is highly respected by everyone in the magistrates' courts, including Chief Magistrate Hung Sze-yee (Benz Hui). Meanwhile, Magistrate Cheng Siu-man (Kalok Chow), whose aim is to become the youngest High Court judge on record, runs into obstacles on the path to promotion due to Wai-chi's arrival. Faced with a series of appalling juvenile cases, Wai-chi is on a mission to uphold justice and not allow the crooks to get off the hook or the innocent to suffer. She is determined to redeem the lives of teenagers who have gone astray!</desc>
+  <programme start="20260423163500 +0000" stop="20260424063500 +0000" channel="tvbjade.unifitv">
+    <title lang="en">Time Raiders</title>
+    <desc lang="en">The series follows the story of Wu Xie, an antique shop owner who accidentally discovers a mysterious silk manuscript. Upon closer inspection, his uncle, Wu Sanxing, finds an enigmatic map hidden within the text</desc>
     <category lang="en">Drama Series</category>
-    <episode-num system="xmltv_ns">0.18.</episode-num>
-    <episode-num system="onscreen">S1E19</episode-num>
+    <episode-num system="xmltv_ns">0.7.</episode-num>
+    <episode-num system="onscreen">S1E8</episode-num>
   </programme>
-  <programme start="20260423183500 +0000" stop="20260423190500 +0000" channel="tvbjade.unifitv">
-    <title lang="en">Lo And Behold</title>
-    <desc lang="en">HUNG SHU-KAN (Lau Dan) built his own logistics business from scratch and now everything is in order. The only thing on his mind is the well-being of his three daughters. His eldest daughter has moved abroad, but his second youngest daughter, HUNG YUEK-SHUI (Koni Lui), is still single. She and her little prodigy sister, HUNG SUM-YUE (Andrea So), often fight over small things, putting their father in dilemmas.</desc>
-    <category lang="en">Drama Series</category>
-    <episode-num system="xmltv_ns">0.2791.</episode-num>
-    <episode-num system="onscreen">S1E2792</episode-num>
-  </programme>
-  <programme start="20260423190500 +0000" stop="20260423193500 +0000" channel="tvbjade.unifitv">
-    <title lang="en">Scoop 2026</title>
-    <desc lang="en">"Scoop" airs from Monday to Sunday, closely following major social events and interesting stories, while also reporting the latest updates in the entertainment industry, celebrity news, as well as drama promotions and behind-the-scenes features. The "Today's Breaking News" segment keeps viewers up to date with the day's hottest stories. The in-depth feature section explores current affairs, social, and livelihood issues that the public cares about, interviewing relevant experts for their insights.</desc>
-    <category lang="en">Entertainment</category>
-    <episode-num system="xmltv_ns">0.112.</episode-num>
-    <episode-num system="onscreen">S1E113</episode-num>
-  </programme>
-  <programme start="20260423193500 +0000" stop="20260423200500 +0000" channel="tvbjade.unifitv">
-    <title lang="en">Try It? Really?</title>
-    <desc lang="en">Many Hong Kong residents have been traveling north for leisure in recent years, and they've likely gained considerable experience in eating, shopping, playing, and staying. Everyone hopes to find the best value-for-money places to eat, drink, and have fun, gaining a lot of emotional value. Host Kong Mei-yee travels to different places in Guangdong Province, including Shenzhen, Zhuhai, Huizhou, Dongguan, Chaozhou, and Shantou. At each stop, she teams up with two male partners from among Chow Kalok, Chu Man-hon, Tsang Zhanwang, and Ng Yip-kwan, testing various foods as customers to see if they're worth the money, and exploring whether various attractions are worth visiting, providing Hong Kong viewers with a down-to-earth reference index.</desc>
-    <category lang="en">Entertainment</category>
-    <episode-num system="xmltv_ns">0.8.</episode-num>
-    <episode-num system="onscreen">S1E9</episode-num>
-  </programme>
-  <programme start="20260423200500 +0000" stop="20260423210500 +0000" channel="tvbjade.unifitv">
-    <title lang="en">Romance of A Twin Flower</title>
-    <desc lang="en">Ji Man, who grew up in Haifang, lost her memory after falling into the water and unexpectedly became the wife of Ning Yuxuan, the Left Minister of the Imperial Court. Upon awakening, Ji Man learned she was the universally hated First Lady of the Marquis's mansion. Hoping to win Ning Yuxuan's favor, she was instead ruthlessly banished to the Repentance Pavilion. Ji Man turned her fortunes around in the Marquis's mansion by selling "Scar-Removing Cream," and later saved her husband before the Emperor, winning his favor and being granted the title of Second-Rank Imperial Lady. Ning Yuxuan brought Ji Man to Haifang to take up his post. Together, they defeated the two villains who ruled Haifang, Shen Liancheng and Wang Jinyao. Under Ning Yuxuan's governance, Haifang took on a new look, and Ji Man also opened a cosmetics shop, Haoxuetang. With the holding of the Imperial Merchants Conference, various forces vied for power, and conspiracies unfolded. Ning Yuxuan and Ji Man joined forces to defeat Prince Tan. Unexpectedly, Ji Man fell off a cliff, and Ning Yuxuan searched for her in vain, falling into a long period of longing. A year later, Haifang was hit by a flood. Ning Yuxuan and Ji Man reunited during the disaster relief efforts. After overcoming numerous hardships, they finally became a couple...</desc>
-    <category lang="en">Drama Series</category>
-    <episode-num system="xmltv_ns">0.22.</episode-num>
-    <episode-num system="onscreen">S1E23</episode-num>
-  </programme>
-  <programme start="20260423210500 +0000" stop="20260423215000 +0000" channel="tvbjade.unifitv">
-    <title lang="en">Big City Shop 2026</title>
-    <desc lang="en">“Big City Shop” introduces viewers to a wide range of timely topics, including seasonal products, health and wellness, fitness activities, skincare and makeup, fashion apparel, infant care, parenting knowledge, local delicacies, and pet care trends. The content is all-encompassing! In addition to hands-on demonstrations, experiences, or tests by the hosts, experts are invited to share their professional insights. In the cooking segment, several skilled culinary experts take turns showcasing simple and delicious healthy dishes and home-style recipes, helping everyone solve their cooking challenges.</desc>
-    <category lang="en">Entertainment</category>
-    <episode-num system="xmltv_ns">0.1963.</episode-num>
-    <episode-num system="onscreen">S1E1964</episode-num>
-  </programme>
-  <programme start="20260423215000 +0000" stop="20260423220500 +0000" channel="tvbjade.unifitv">
-    <title lang="en">Happy Old Buddies</title>
-    <desc lang="en">Many people may think that older adults do not have sexual needs, but surveys have shown that this is not the case—older adults often experience less sexual activity due to various reasons. Clinical psychologist Lin Haoming from the Social Welfare Department explains the World Health Organization's definition of sexuality and offers advice for those hoping to rekindle their sex life with their partner. However, if one partner does not wish to resume sexual activity, how should both sides communicate?</desc>
-    <category lang="en">Entertainment</category>
-    <episode-num system="xmltv_ns">0.17.</episode-num>
-    <episode-num system="onscreen">S1E18</episode-num>
-  </programme>
-  <programme start="20260423220500 +0000" stop="20260423223500 +0000" channel="tvbjade.unifitv">
-    <title lang="en">Dolce Vita 2021</title>
-    <desc lang="en">Hong Kong life is vibrant and diverse, and "Hong Kong Life, Hong Kong Enjoyment" presents both sophisticated and elegant lifestyles and down-to-earth, high-quality experiences. The program combines diverse themes, exploring different areas in each episode and inviting elites from various industries to share their secrets to success.</desc>
-    <category lang="en">Entertainment</category>
-    <episode-num system="xmltv_ns">0.25.</episode-num>
-    <episode-num system="onscreen">S1E26</episode-num>
-  </programme>
-  <programme start="20260423223500 +0000" stop="20260423230500 +0000" channel="tvbjade.unifitv">
-    <title lang="en">Scoop 2026</title>
-    <desc lang="en">"Scoop" airs from Monday to Sunday, closely following major social events and interesting stories, while also reporting the latest updates in the entertainment industry, celebrity news, as well as drama promotions and behind-the-scenes features. The "Today's Breaking News" segment keeps viewers up to date with the day's hottest stories. The in-depth feature section explores current affairs, social, and livelihood issues that the public cares about, interviewing relevant experts for their insights.</desc>
-    <category lang="en">Entertainment</category>
-    <episode-num system="xmltv_ns">0.112.</episode-num>
-    <episode-num system="onscreen">S1E113</episode-num>
-  </programme>
-  <programme start="20260423230500 +0000" stop="20260424000500 +0000" channel="tvbjade.unifitv">
-    <title lang="en">Good Morning Hong Kong and Global View</title>
-    <desc lang="en">Report important news about Hong Kong, cross-strait, and international affairs.</desc>
-    <category lang="en">News </category>
-  </programme>
-  <programme start="20260424000500 +0000" stop="20260424010500 +0000" channel="tvbjade.unifitv">
-    <title lang="en">TAKE MY WORD FOR IT</title>
-    <desc lang="en">TUNG (AU YEUNG CHUN WAH, BOBBY) and KIT (KWOK HO YING, KENIX) are the best team in the Police Negotiation Cadre. Deep down, however, TUNG dislikes KIT's dominant personality. The team recruits some new blood. TUNG chooses CHLOE (MAN CHUNG HAN, ANNIE) while KIT picks KWONG (CHEUNG CHI LAM, JULIAN), who is eloquent. CHLOE was good at her job until someone jumped off a building in front of her. Since then she has been mentally hurt. KWONG has a crush on CHLOE. He forces her to undergo psychological therapy at WU's (CHOY TSZ KIN, ELLESMERE) practice. WU is KWONG's half brother. He regrets taking her to visit WU when he learns that they are dating. KIT's marriage is in trouble. Her husband, CHUNG (CHAN HO, MOSES), is having an affair with TUNG's wife. KIT finds out that she is pregnant when she files for divorce. Meanwhile, TUNG's legs are hurt during an operation. He becomes depressed and wants to discontinue treatment. Fortunately, KIT and KWONG support and encourage him. Slowly, love sparkles between KIT and TUNG.</desc>
-    <category lang="en">Drama Series</category>
-    <episode-num system="xmltv_ns">0.12.</episode-num>
-    <episode-num system="onscreen">S1E13</episode-num>
-  </programme>
-  <programme start="20260424010500 +0000" stop="20260424013500 +0000" channel="tvbjade.unifitv">
-    <title lang="en">Lo And Behold</title>
-    <desc lang="en">HUNG SHU-KAN (Lau Dan) built his own logistics business from scratch and now everything is in order. The only thing on his mind is the well-being of his three daughters. His eldest daughter has moved abroad, but his second youngest daughter, HUNG YUEK-SHUI (Koni Lui), is still single. She and her little prodigy sister, HUNG SUM-YUE (Andrea So), often fight over small things, putting their father in dilemmas.</desc>
-    <category lang="en">Drama Series</category>
-    <episode-num system="xmltv_ns">0.2791.</episode-num>
-    <episode-num system="onscreen">S1E2792</episode-num>
-  </programme>
-  <programme start="20260424013500 +0000" stop="20260424020500 +0000" channel="tvbjade.unifitv">
-    <title lang="en">Hands Up 2026</title>
-    <desc lang="en">The brand-new children's program “Hands Up” encourages kids to ask questions bravely, express themselves, and pursue their goals! Members of the mascot “Sauce Family” join the hosts in performing short skits, accompanying everyone for joyful moments. The show will also feature a variety of children's songs, allowing kids to sing along while learning practical life knowledge.</desc>
-    <category lang="en">Kids</category>
-    <episode-num system="xmltv_ns">0.1656.</episode-num>
-    <episode-num system="onscreen">S1E1657</episode-num>
-  </programme>
-  <programme start="20260424020500 +0000" stop="20260424023500 +0000" channel="tvbjade.unifitv">
-    <title lang="en">Try It? Really? &amp; What's On Today</title>
-    <desc lang="en">Many Hong Kong residents have been traveling north for leisure in recent years, and they've likely gained considerable experience in eating, shopping, playing, and staying. Everyone hopes to find the best value-for-money places to eat, drink, and have fun, gaining a lot of emotional value. Host Kong Mei-yee travels to different places in Guangdong Province, including Shenzhen, Zhuhai, Huizhou, Dongguan, Chaozhou, and Shantou. At each stop, she teams up with two male partners from among Chow Kalok, Chu Man-hon, Tsang Zhanwang, and Ng Yip-kwan, testing various foods as customers to see if they're worth the money, and exploring whether various attractions are worth visiting, providing Hong Kong viewers with a down-to-earth reference index.</desc>
-    <category lang="en">Entertainment</category>
-    <episode-num system="xmltv_ns">0.8.</episode-num>
-    <episode-num system="onscreen">S1E9</episode-num>
-  </programme>
-  <programme start="20260424023500 +0000" stop="20260424030500 +0000" channel="tvbjade.unifitv">
-    <title lang="en">Clash Of Chefs</title>
-    <desc lang="en">When "Master Ding" Li Jiading and "Third Sister" Xiao Xiuxiang, known for their blend of strength and gentleness, meet, a brand new kitchen battle is about to begin! These two star chefs will pull out all the stops, igniting a series of fierce competition! Each episode features guests who present challenges to Master Ding and Third Sister, including renowned chefs and food connoisseurs, requiring them to use the same ingredients or themes to create dishes with distinct styles, competing and sharing their culinary experiences. Guests will critique the dishes blindly, their honest palates offering unbiased judgments based solely on taste. Afterwards, the two will temporarily truce and become judges, handing over the baton to "star apprentices" Chen Wei and Tan Junyan to continue the culinary showdown!</desc>
-    <category lang="en">Entertainment</category>
-    <episode-num system="xmltv_ns">0.1.</episode-num>
-    <episode-num system="onscreen">S1E2</episode-num>
-  </programme>
-  <programme start="20260424030500 +0000" stop="20260424040500 +0000" channel="tvbjade.unifitv">
-    <title lang="en">Themis</title>
-    <desc lang="en">At the peak of her career, High Court Acting Judge Yin Wai-chi (Charmaine Sheh) astonishingly offers to be demoted to serve as a juvenile court magistrate due to a case handled by defense counsel Ko Shuk-wah (Alice Chan). And she divorces Yau Kwong-ching (Patrick Tam), who works in the Department of Justice, because of this. Wai-chi's judicial style is highly respected by everyone in the magistrates' courts, including Chief Magistrate Hung Sze-yee (Benz Hui). Meanwhile, Magistrate Cheng Siu-man (Kalok Chow), whose aim is to become the youngest High Court judge on record, runs into obstacles on the path to promotion due to Wai-chi's arrival. Faced with a series of appalling juvenile cases, Wai-chi is on a mission to uphold justice and not allow the crooks to get off the hook or the innocent to suffer. She is determined to redeem the lives of teenagers who have gone astray!</desc>
-    <category lang="en">Drama Series</category>
-    <episode-num system="xmltv_ns">0.18.</episode-num>
-    <episode-num system="onscreen">S1E19</episode-num>
-  </programme>
-  <programme start="20260424040500 +0000" stop="20260424043500 +0000" channel="tvbjade.unifitv">
-    <title lang="en">Scoop 2026</title>
-    <desc lang="en">"Scoop" airs from Monday to Sunday, closely following major social events and interesting stories, while also reporting the latest updates in the entertainment industry, celebrity news, as well as drama promotions and behind-the-scenes features. The "Today's Breaking News" segment keeps viewers up to date with the day's hottest stories. The in-depth feature section explores current affairs, social, and livelihood issues that the public cares about, interviewing relevant experts for their insights.</desc>
-    <category lang="en">Entertainment</category>
-    <episode-num system="xmltv_ns">0.112.</episode-num>
-    <episode-num system="onscreen">S1E113</episode-num>
-  </programme>
-  <programme start="20260424043500 +0000" stop="20260424050000 +0000" channel="tvbjade.unifitv">
-    <title lang="en">Big Boys Club</title>
-    <desc lang="en">" Big Boys Club" is a youth talk show hosted by a group of close friends—Bob Lam, Oscar Leung, Derek Wong, Philip Fan, and Alan Chan. In each episode, singers, entertainers, or guests from various fields are invited for relaxed interviews, presenting a wide range of topics including current social issues, pop culture, and trending interests. Matters of love, relationships, and even same-sex relationships are endlessly discussed topics for men and women alike. The show invites guests from diverse backgrounds to explore love and relationships, delving into the dynamics between the sexes. The "Other Dimension" segment features guests sharing extraordinary experiences, such as encounters with ghosts, UFOs, and bizarre happenings, bringing thrilling topics to the audience.</desc>
-    <category lang="en">Entertainment</category>
-    <episode-num system="xmltv_ns">0.2118.</episode-num>
-    <episode-num system="onscreen">S1E2119</episode-num>
-  </programme>
-  <programme start="20260424050000 +0000" stop="20260424052500 +0000" channel="tvbjade.unifitv">
-    <title lang="en">Hands Up 2026</title>
-    <desc lang="en">The brand-new children's program “Hands Up” encourages kids to ask questions bravely, express themselves, and pursue their goals! Members of the mascot “Sauce Family” join the hosts in performing short skits, accompanying everyone for joyful moments. The show will also feature a variety of children's songs, allowing kids to sing along while learning practical life knowledge.</desc>
-    <category lang="en">Kids</category>
-    <episode-num system="xmltv_ns">0.1656.</episode-num>
-    <episode-num system="onscreen">S1E1657</episode-num>
-  </programme>
-  <programme start="20260424052500 +0000" stop="20260424061000 +0000" channel="tvbjade.unifitv">
-    <title lang="en">Big City Shop 2026</title>
-    <desc lang="en">“Big City Shop” introduces viewers to a wide range of timely topics, including seasonal products, health and wellness, fitness activities, skincare and makeup, fashion apparel, infant care, parenting knowledge, local delicacies, and pet care trends. The content is all-encompassing! In addition to hands-on demonstrations, experiences, or tests by the hosts, experts are invited to share their professional insights. In the cooking segment, several skilled culinary experts take turns showcasing simple and delicious healthy dishes and home-style recipes, helping everyone solve their cooking challenges.</desc>
-    <category lang="en">Entertainment</category>
-    <episode-num system="xmltv_ns">0.1964.</episode-num>
-    <episode-num system="onscreen">S1E1965</episode-num>
-  </programme>
-  <programme start="20260424061000 +0000" stop="20260424063500 +0000" channel="tvbjade.unifitv">
-    <title lang="en">Lo And Behold</title>
-    <desc lang="en">HUNG SHU-KAN (Lau Dan) built his own logistics business from scratch and now everything is in order. The only thing on his mind is the well-being of his three daughters. His eldest daughter has moved abroad, but his second youngest daughter, HUNG YUEK-SHUI (Koni Lui), is still single. She and her little prodigy sister, HUNG SUM-YUE (Andrea So), often fight over small things, putting their father in dilemmas.</desc>
-    <category lang="en">Drama Series</category>
-    <episode-num system="xmltv_ns">0.2791.</episode-num>
-    <episode-num system="onscreen">S1E2792</episode-num>
-  </programme>
-  <programme start="20260424063500 +0000" stop="20260424073500 +0000" channel="tvbjade.unifitv">
+  <programme start="20260424063500 +0000" stop="20260424133500 +0000" channel="tvbjade.unifitv">
     <title lang="en">Time Raiders &amp; What's On Today</title>
     <desc lang="en">The series follows the story of Wu Xie, an antique shop owner who accidentally discovers a mysterious silk manuscript. Upon closer inspection, his uncle, Wu Sanxing, finds an enigmatic map hidden within the text</desc>
     <category lang="en">Drama Series</category>
     <episode-num system="xmltv_ns">0.7.</episode-num>
     <episode-num system="onscreen">S1E8</episode-num>
   </programme>
-  <programme start="20260424073500 +0000" stop="20260424080500 +0000" channel="tvbjade.unifitv">
-    <title lang="en">Try It? Really?</title>
-    <desc lang="en">Many Hong Kong residents have been traveling north for leisure in recent years, and they've likely gained considerable experience in eating, shopping, playing, and staying. Everyone hopes to find the best value-for-money places to eat, drink, and have fun, gaining a lot of emotional value. Host Kong Mei-yee travels to different places in Guangdong Province, including Shenzhen, Zhuhai, Huizhou, Dongguan, Chaozhou, and Shantou. At each stop, she teams up with two male partners from among Chow Kalok, Chu Man-hon, Tsang Zhanwang, and Ng Yip-kwan, testing various foods as customers to see if they're worth the money, and exploring whether various attractions are worth visiting, providing Hong Kong viewers with a down-to-earth reference index.</desc>
-    <category lang="en">Entertainment</category>
-    <episode-num system="xmltv_ns">0.8.</episode-num>
-    <episode-num system="onscreen">S1E9</episode-num>
-  </programme>
-  <programme start="20260424080500 +0000" stop="20260424083500 +0000" channel="tvbjade.unifitv">
-    <title lang="en">Gourmet Express</title>
-    <desc lang="en">Report important news about Hong Kong, cross-strait, and international affairs.</desc>
-    <category lang="en">Entertainment</category>
-    <episode-num system="xmltv_ns">0.177.</episode-num>
-    <episode-num system="onscreen">S1E178</episode-num>
-  </programme>
-  <programme start="20260424083500 +0000" stop="20260424090500 +0000" channel="tvbjade.unifitv">
-    <title lang="en">Vital Lifeline</title>
-    <desc lang="en">Urban dwellers often experience a hectic pace of life and high levels of stress, making them more susceptible to health problems. "The Strongest Lifeline" helps you unravel the secrets to good health. To start, the program features a four-episode series on common urban pain issues, covering headaches, shoulder and neck pain, back pain, and joint pain. Each episode invites medical experts to explain the causes of these conditions, as well as physical therapists and exercise specialists to teach appropriate exercises. With the growing trend of integrating Eastern and Western medicine, even American swimming champion Michael Phelps uses cupping therapy to relieve pain. Therefore, each episode also includes traditional Chinese medical diagnosis, complemented by treatments such as acupuncture, cupping, and the “Sanfu” herbal patch therapy, which is especially suitable during the hottest days of summer. In addition, Chinese medicine practitioners share recipes for nourishing soups, all of which can help regulate and improve your health.</desc>
-    <category lang="en">Entertainment</category>
-    <episode-num system="xmltv_ns">0.445.</episode-num>
-    <episode-num system="onscreen">S1E446</episode-num>
-  </programme>
-  <programme start="20260424090500 +0000" stop="20260424093500 +0000" channel="tvbjade.unifitv">
-    <title lang="en">Big Boys Club</title>
-    <desc lang="en">" Big Boys Club" is a youth talk show hosted by a group of close friends—Bob Lam, Oscar Leung, Derek Wong, Philip Fan, and Alan Chan. In each episode, singers, entertainers, or guests from various fields are invited for relaxed interviews, presenting a wide range of topics including current social issues, pop culture, and trending interests. Matters of love, relationships, and even same-sex relationships are endlessly discussed topics for men and women alike. The show invites guests from diverse backgrounds to explore love and relationships, delving into the dynamics between the sexes. The "Other Dimension" segment features guests sharing extraordinary experiences, such as encounters with ghosts, UFOs, and bizarre happenings, bringing thrilling topics to the audience.</desc>
-    <category lang="en">Entertainment</category>
-    <episode-num system="xmltv_ns">0.2119.</episode-num>
-    <episode-num system="onscreen">S1E2120</episode-num>
-  </programme>
-  <programme start="20260424093500 +0000" stop="20260424103500 +0000" channel="tvbjade.unifitv">
-    <title lang="en">Romance of A Twin Flower</title>
-    <desc lang="en">Ji Man, who grew up in Haifang, lost her memory after falling into the water and unexpectedly became the wife of Ning Yuxuan, the Left Minister of the Imperial Court. Upon awakening, Ji Man learned she was the universally hated First Lady of the Marquis's mansion. Hoping to win Ning Yuxuan's favor, she was instead ruthlessly banished to the Repentance Pavilion. Ji Man turned her fortunes around in the Marquis's mansion by selling "Scar-Removing Cream," and later saved her husband before the Emperor, winning his favor and being granted the title of Second-Rank Imperial Lady. Ning Yuxuan brought Ji Man to Haifang to take up his post. Together, they defeated the two villains who ruled Haifang, Shen Liancheng and Wang Jinyao. Under Ning Yuxuan's governance, Haifang took on a new look, and Ji Man also opened a cosmetics shop, Haoxuetang. With the holding of the Imperial Merchants Conference, various forces vied for power, and conspiracies unfolded. Ning Yuxuan and Ji Man joined forces to defeat Prince Tan. Unexpectedly, Ji Man fell off a cliff, and Ning Yuxuan searched for her in vain, falling into a long period of longing. A year later, Haifang was hit by a flood. Ning Yuxuan and Ji Man reunited during the disaster relief efforts. After overcoming numerous hardships, they finally became a couple...</desc>
-    <category lang="en">Drama Series</category>
-    <episode-num system="xmltv_ns">0.23.</episode-num>
-    <episode-num system="onscreen">S1E24</episode-num>
-  </programme>
-  <programme start="20260424103500 +0000" stop="20260424114000 +0000" channel="tvbjade.unifitv">
-    <title lang="en">News At 18:30 &amp; Global View &amp; What's On Today</title>
-    <desc lang="en">Jade Channel reports important local, cross-strait, and international news every afternoon at 6:30.</desc>
-    <category lang="en">News </category>
-  </programme>
-  <programme start="20260424114000 +0000" stop="20260424120500 +0000" channel="tvbjade.unifitv">
-    <title lang="en">Scoop 2026</title>
-    <desc lang="en">"Scoop" airs from Monday to Sunday, closely following major social events and interesting stories, while also reporting the latest updates in the entertainment industry, celebrity news, as well as drama promotions and behind-the-scenes features. The "Today's Breaking News" segment keeps viewers up to date with the day's hottest stories. The in-depth feature section explores current affairs, social, and livelihood issues that the public cares about, interviewing relevant experts for their insights.</desc>
-    <category lang="en">Entertainment</category>
-    <episode-num system="xmltv_ns">0.113.</episode-num>
-    <episode-num system="onscreen">S1E114</episode-num>
-  </programme>
-  <programme start="20260424120500 +0000" stop="20260424123500 +0000" channel="tvbjade.unifitv">
-    <title lang="en">Lo And Behold</title>
-    <desc lang="en">HUNG SHU-KAN (Lau Dan) built his own logistics business from scratch and now everything is in order. The only thing on his mind is the well-being of his three daughters. His eldest daughter has moved abroad, but his second youngest daughter, HUNG YUEK-SHUI (Koni Lui), is still single. She and her little prodigy sister, HUNG SUM-YUE (Andrea So), often fight over small things, putting their father in dilemmas.</desc>
-    <category lang="en">Drama Series</category>
-    <episode-num system="xmltv_ns">0.2792.</episode-num>
-    <episode-num system="onscreen">S1E2793</episode-num>
-  </programme>
-  <programme start="20260424123500 +0000" stop="20260424133500 +0000" channel="tvbjade.unifitv">
-    <title lang="en">Themis</title>
-    <desc lang="en">At the peak of her career, High Court Acting Judge Yin Wai-chi (Charmaine Sheh) astonishingly offers to be demoted to serve as a juvenile court magistrate due to a case handled by defense counsel Ko Shuk-wah (Alice Chan). And she divorces Yau Kwong-ching (Patrick Tam), who works in the Department of Justice, because of this. Wai-chi's judicial style is highly respected by everyone in the magistrates' courts, including Chief Magistrate Hung Sze-yee (Benz Hui). Meanwhile, Magistrate Cheng Siu-man (Kalok Chow), whose aim is to become the youngest High Court judge on record, runs into obstacles on the path to promotion due to Wai-chi's arrival. Faced with a series of appalling juvenile cases, Wai-chi is on a mission to uphold justice and not allow the crooks to get off the hook or the innocent to suffer. She is determined to redeem the lives of teenagers who have gone astray!</desc>
-    <category lang="en">Drama Series</category>
-    <episode-num system="xmltv_ns">0.19.</episode-num>
-    <episode-num system="onscreen">S1E20</episode-num>
-  </programme>
-  <programme start="20260424133500 +0000" stop="20260424143500 +0000" channel="tvbjade.unifitv">
+  <programme start="20260424133500 +0000" stop="20260424163500 +0000" channel="tvbjade.unifitv">
     <title lang="en">Time Raiders</title>
     <desc lang="en">The series follows the story of Wu Xie, an antique shop owner who accidentally discovers a mysterious silk manuscript. Upon closer inspection, his uncle, Wu Sanxing, finds an enigmatic map hidden within the text</desc>
     <category lang="en">Drama Series</category>
     <episode-num system="xmltv_ns">0.8.</episode-num>
     <episode-num system="onscreen">S1E9</episode-num>
-  </programme>
-  <programme start="20260424143500 +0000" stop="20260424150500 +0000" channel="tvbjade.unifitv">
-    <title lang="en">Try It? Really?</title>
-    <desc lang="en">Many Hong Kong residents have been traveling north for leisure in recent years, and they've likely gained considerable experience in eating, shopping, playing, and staying. Everyone hopes to find the best value-for-money places to eat, drink, and have fun, gaining a lot of emotional value. Host Kong Mei-yee travels to different places in Guangdong Province, including Shenzhen, Zhuhai, Huizhou, Dongguan, Chaozhou, and Shantou. At each stop, she teams up with two male partners from among Chow Kalok, Chu Man-hon, Tsang Zhanwang, and Ng Yip-kwan, testing various foods as customers to see if they're worth the money, and exploring whether various attractions are worth visiting, providing Hong Kong viewers with a down-to-earth reference index.</desc>
-    <category lang="en">Entertainment</category>
-    <episode-num system="xmltv_ns">0.9.</episode-num>
-    <episode-num system="onscreen">S1E10</episode-num>
-  </programme>
-  <programme start="20260424150500 +0000" stop="20260424152000 +0000" channel="tvbjade.unifitv">
-    <title lang="en">EXTRA</title>
-    <desc lang="en">Report important news about Hong Kong, cross-strait, and international affairs. Stay updated every night with the latest news from Hong Kong's entertainment industry, as well as film and entertainment news from around the world. We report on the newest developments of artists, promotions for TV series and movies, highlights from concerts, and coverage of grand award ceremonies. We even travel abroad to cover major entertainment events, track international movie stars, and conduct exclusive interviews with well-known singers, actors, and television personalities familiar to our audience—ensuring you can instantly grasp the latest happenings and news in the world of film and entertainment.</desc>
-    <category lang="en">Entertainment</category>
-    <episode-num system="xmltv_ns">0.4002.</episode-num>
-    <episode-num system="onscreen">S1E4003</episode-num>
-  </programme>
-  <programme start="20260424152000 +0000" stop="20260424155500 +0000" channel="tvbjade.unifitv">
-    <title lang="en">News Roundup</title>
-    <desc lang="en">Reporting major news from Hong Kong, across the Taiwan Strait, and around the world, as well as sports updates, keeping you informed about important events and trends in the world of sports.</desc>
-    <category lang="en">News </category>
-  </programme>
-  <programme start="20260424155500 +0000" stop="20260424160500 +0000" channel="tvbjade.unifitv">
-    <title lang="en">Global View</title>
-    <desc lang="en">" Global View," curated by seasoned journalists, guides you to view the world with a global perspective—broadening your horizons, expanding your understanding of the news, and enriching your knowledge.</desc>
-    <category lang="en">News </category>
   </programme>
   <channel id="unknown.unifitv">
     <display-name>TVB Xing He</display-name>
@@ -15502,24 +15267,29 @@
   <channel id="beinsports2.unifitv">
     <display-name>beIN SPORTS 2</display-name>
   </channel>
-  <programme start="20260423153500 +0000" stop="20260423160000 +0000" channel="beinsports2.unifitv">
-    <title lang="en">HSBC SVNS World Championships - 7th Place Play-off, Hong Kong - Women</title>
-    <desc lang="en">Catch the action from the world's very best rugby sevens stars from the top tier of a new three-division global Sevens model, from sunrise to sunset.</desc>
-    <category lang="en">Sports</category>
-  </programme>
-  <programme start="20260423160000 +0000" stop="20260423173000 +0000" channel="beinsports2.unifitv">
+  <programme start="20260423150000 +0000" stop="20260423163000 +0000" channel="beinsports2.unifitv">
     <title lang="en">Premier Padel - Brussels P2 Day 3 Match 4 (L)</title>
     <desc lang="en">The official global Padel tour. Catch world's top players battle it out across the globe.</desc>
     <category lang="en">Sports</category>
   </programme>
-  <programme start="20260423173000 +0000" stop="20260423190000 +0000" channel="beinsports2.unifitv">
+  <programme start="20260423163000 +0000" stop="20260423180000 +0000" channel="beinsports2.unifitv">
     <title lang="en">Premier Padel - Brussels P2 Day 3 Match 5 (L)</title>
     <desc lang="en">The official global Padel tour. Catch world's top players battle it out across the globe.</desc>
     <category lang="en">Sports</category>
   </programme>
-  <programme start="20260423190000 +0000" stop="20260423203000 +0000" channel="beinsports2.unifitv">
+  <programme start="20260423180000 +0000" stop="20260423193000 +0000" channel="beinsports2.unifitv">
     <title lang="en">Premier Padel - Brussels P2 Day 3 Match 6 (L)</title>
     <desc lang="en">The official global Padel tour. Catch world's top players battle it out across the globe.</desc>
+    <category lang="en">Sports</category>
+  </programme>
+  <programme start="20260423193000 +0000" stop="20260423200000 +0000" channel="beinsports2.unifitv">
+    <title lang="en">FEI RIDE - Gifted Grooms, Exquisite Exmoors &amp; Para-Dressage Dynamos</title>
+    <desc lang="en">The RIDE FEI Originals series takes a deeper look into the equestrian world and focuses on lifestyle, horse culture and the fascinating bond between humans and horses both inside and outside the arena.</desc>
+    <category lang="en">Sports</category>
+  </programme>
+  <programme start="20260423200000 +0000" stop="20260423203000 +0000" channel="beinsports2.unifitv">
+    <title lang="en">FEI RIDE - Irish Icons, Racing Royalty &amp; Furry-footed Foals</title>
+    <desc lang="en">The RIDE FEI Originals series takes a deeper look into the equestrian world and focuses on lifestyle, horse culture and the fascinating bond between humans and horses both inside and outside the arena.</desc>
     <category lang="en">Sports</category>
   </programme>
   <programme start="20260423203000 +0000" stop="20260423220000 +0000" channel="beinsports2.unifitv">
@@ -15572,38 +15342,43 @@
     <desc lang="en">The official global Padel tour. Catch world's top players battle it out across the globe.</desc>
     <category lang="en">Sports</category>
   </programme>
-  <programme start="20260424120000 +0000" stop="20260424133000 +0000" channel="beinsports2.unifitv">
+  <programme start="20260424120000 +0000" stop="20260424121000 +0000" channel="beinsports2.unifitv">
+    <title lang="en">Premier Padel Match Highlights - New Giza P2 Men</title>
+    <desc lang="en">Men &amp; Women's Final Match Highlights from Premier Padel Tour 2026</desc>
+    <category lang="en">Sports</category>
+  </programme>
+  <programme start="20260424121000 +0000" stop="20260424123500 +0000" channel="beinsports2.unifitv">
+    <title lang="en">HSBC SVNS World Championships - France vs Kenya - 7th Place Play-off, Hong Kong - Men</title>
+    <desc lang="en">Catch the action from the world's very best rugby sevens stars from the top tier of a new three-division global Sevens model, from sunrise to sunset.</desc>
+    <category lang="en">Sports</category>
+  </programme>
+  <programme start="20260424123500 +0000" stop="20260424130000 +0000" channel="beinsports2.unifitv">
+    <title lang="en">HSBC SVNS World Championships - Canada vs New Zealand - Cup SF1, Hong Kong - Women</title>
+    <desc lang="en">Catch the action from the world's very best rugby sevens stars from the top tier of a new three-division global Sevens model, from sunrise to sunset.</desc>
+    <category lang="en">Sports</category>
+  </programme>
+  <programme start="20260424130000 +0000" stop="20260424143000 +0000" channel="beinsports2.unifitv">
     <title lang="en">Premier Padel - Brussels P2 Day 4 QF Match 3 (L)</title>
     <desc lang="en">The official global Padel tour. Catch world's top players battle it out across the globe.</desc>
     <category lang="en">Sports</category>
   </programme>
-  <programme start="20260424133000 +0000" stop="20260424135500 +0000" channel="beinsports2.unifitv">
-    <title lang="en">HSBC SVNS World Championships - 7th Place Play-off, Hong Kong - Men</title>
-    <desc lang="en">Catch the action from the world's very best rugby sevens stars from the top tier of a new three-division global Sevens model, from sunrise to sunset.</desc>
-    <category lang="en">Sports</category>
-  </programme>
-  <programme start="20260424135500 +0000" stop="20260424142000 +0000" channel="beinsports2.unifitv">
-    <title lang="en">HSBC SVNS World Championships - Cup SF1, Hong Kong - Women</title>
-    <desc lang="en">Catch the action from the world's very best rugby sevens stars from the top tier of a new three-division global Sevens model, from sunrise to sunset.</desc>
-    <category lang="en">Sports</category>
-  </programme>
-  <programme start="20260424142000 +0000" stop="20260424144500 +0000" channel="beinsports2.unifitv">
-    <title lang="en">HSBC SVNS World Championships - Cup SF2, Hong Kong - Women</title>
-    <desc lang="en">Catch the action from the world's very best rugby sevens stars from the top tier of a new three-division global Sevens model, from sunrise to sunset.</desc>
+  <programme start="20260424143000 +0000" stop="20260424144500 +0000" channel="beinsports2.unifitv">
+    <title lang="en">Roland Garros Match Highlights - 2025 Men's Singles Final Sinner v Alcaraz</title>
+    <desc lang="en">Review the best actions and moments from the Roland Garros</desc>
     <category lang="en">Sports</category>
   </programme>
   <programme start="20260424144500 +0000" stop="20260424151000 +0000" channel="beinsports2.unifitv">
-    <title lang="en">HSBC SVNS World Championships - Cup SF1, Hong Kong - Men</title>
+    <title lang="en">HSBC SVNS World Championships - New Zealand vs South Africa - Cup SF1, Hong Kong - Men</title>
     <desc lang="en">Catch the action from the world's very best rugby sevens stars from the top tier of a new three-division global Sevens model, from sunrise to sunset.</desc>
     <category lang="en">Sports</category>
   </programme>
   <programme start="20260424151000 +0000" stop="20260424153500 +0000" channel="beinsports2.unifitv">
-    <title lang="en">HSBC SVNS World Championships - Cup SF2, Hong Kong - Men</title>
+    <title lang="en">HSBC SVNS World Championships - Spain vs Argentina - Cup SF2, Hong Kong - Men</title>
     <desc lang="en">Catch the action from the world's very best rugby sevens stars from the top tier of a new three-division global Sevens model, from sunrise to sunset.</desc>
     <category lang="en">Sports</category>
   </programme>
   <programme start="20260424153500 +0000" stop="20260424160000 +0000" channel="beinsports2.unifitv">
-    <title lang="en">HSBC SVNS World Championships - 5th Place Play-off, Hong Kong - Women</title>
+    <title lang="en">HSBC SVNS World Championships - USA vs Japan - 5th Place Play-off, Hong Kong - Women</title>
     <desc lang="en">Catch the action from the world's very best rugby sevens stars from the top tier of a new three-division global Sevens model, from sunrise to sunset.</desc>
     <category lang="en">Sports</category>
   </programme>
