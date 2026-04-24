@@ -3171,7 +3171,7 @@ Warning: Undefined array key "et" in /usr/home/ManusiaBiasa/domains/manusiabiasa
 <programme start="20260423221500 +0000" stop="20260424001500 +0000" channel="Sky Sport UHD.skyde">
     <title>DFB-Pokal: Bayer Leverkusen - FC Bayern München, Halbfinale</title>
 </programme>
-<programme start="20260424001500 +0000" stop="20260424023000 +0000" channel="Sky Sport UHD.skyde">
+<programme start="20260424001500 +0000" stop="20260424030000 +0000" channel="Sky Sport UHD.skyde">
     <title>DFB-Pokal: VfB Stuttgart - SC Freiburg, Halbfinale</title>
 </programme>
 <programme start="20260424013000 +0000" stop="20260424020000 +0000" channel="Sky Sport UHD.skyde">
@@ -3193,9 +3193,9 @@ Warning: Undefined array key "et" in /usr/home/ManusiaBiasa/domains/manusiabiasa
     <title>Info: UHD</title>
 </programme>
 <programme start="20260424084000 +0000" stop="20260424090000 +0000" channel="Sky Sport 6 HD.skyde">
-    <title>Es folgt: LIVE WTA Tour</title>
+    <title>Es folgt: Live Tennis WTA Tour</title>
 </programme>
-<programme start="20260424090000 +0000" stop="20260425000000 +0000" channel="Sky Sport 6 HD.skyde">
+<programme start="20260424090000 +0000" stop="20260424220000 +0000" channel="Sky Sport 6 HD.skyde">
     <title>Live WTA 1000: Mutua Madrid Open in Madrid (ESP), 4. Tag</title>
 </programme>
 <programme start="20260424111000 +0000" stop="20260424113000 +0000" channel="Sky Sport 7 HD.skyde">
