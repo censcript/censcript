@@ -793,10 +793,10 @@
   <programme start="20260426213500 +0000" stop="20260426220500 +0000" channel="Markíza Klasik.webtv.sk">
     <title lang="id">M.A.S.H II (19)</title>
   </programme>
-  <programme start="20260426220500 +0000" stop="20260426224500 +0000" channel="Markíza Klasik.webtv.sk">
+  <programme start="20260426220500 +0000" stop="20260426225000 +0000" channel="Markíza Klasik.webtv.sk">
     <title lang="id">Atletiko Cvernofka I (1)</title>
   </programme>
-  <programme start="20260426224500 +0000" stop="20260426233000 +0000" channel="Markíza Klasik.webtv.sk">
+  <programme start="20260426225000 +0000" stop="20260426233000 +0000" channel="Markíza Klasik.webtv.sk">
     <title lang="id">Atletiko Cvernofka (2)</title>
   </programme>
   <programme start="20260426233000 +0000" stop="20260427015000 +0000" channel="Markíza Klasik.webtv.sk">
@@ -1234,13 +1234,10 @@
   <programme start="20260427192000 +0000" stop="20260427222000 +0000" channel="JOJ Šport.webtv.sk">
     <title lang="id">Volejbal - Niké Extraliga ženy</title>
   </programme>
-  <programme start="20260426193000 +0000" stop="20260426222000 +0000" channel="JOJ Šport 2.webtv.sk">
-    <title lang="id">Hokej - Reprezentácia</title>
-  </programme>
-  <programme start="20260426222000 +0000" stop="20260427004000 +0000" channel="JOJ Šport 2.webtv.sk">
+  <programme start="20260426220000 +0000" stop="20260427003000 +0000" channel="JOJ Šport 2.webtv.sk">
     <title lang="id">Okolo Švajčiarska</title>
   </programme>
-  <programme start="20260427004000 +0000" stop="20260427032000 +0000" channel="JOJ Šport 2.webtv.sk">
+  <programme start="20260427003000 +0000" stop="20260427032000 +0000" channel="JOJ Šport 2.webtv.sk">
     <title lang="id">Okolo Švajčiarska</title>
   </programme>
   <programme start="20260427032000 +0000" stop="20260427054500 +0000" channel="JOJ Šport 2.webtv.sk">
@@ -1252,16 +1249,19 @@
   <programme start="20260427074500 +0000" stop="20260427102500 +0000" channel="JOJ Šport 2.webtv.sk">
     <title lang="id">Hokej - Reprezentácia</title>
   </programme>
-  <programme start="20260427102500 +0000" stop="20260427155500 +0000" channel="JOJ Šport 2.webtv.sk">
+  <programme start="20260427102500 +0000" stop="20260427131000 +0000" channel="JOJ Šport 2.webtv.sk">
     <title lang="id">Hokej - Reprezentácia</title>
   </programme>
-  <programme start="20260427155500 +0000" stop="20260427184000 +0000" channel="JOJ Šport 2.webtv.sk">
-    <title lang="id">Volejbal - Niké Extraliga ženy</title>
+  <programme start="20260427131000 +0000" stop="20260427153500 +0000" channel="JOJ Šport 2.webtv.sk">
+    <title lang="id">Basketbal - Tipos extraliga</title>
   </programme>
-  <programme start="20260427184000 +0000" stop="20260427215000 +0000" channel="JOJ Šport 2.webtv.sk">
+  <programme start="20260427153500 +0000" stop="20260427182000 +0000" channel="JOJ Šport 2.webtv.sk">
+    <title lang="id">Volejbal - Niké Extraliga muži</title>
+  </programme>
+  <programme start="20260427182000 +0000" stop="20260427214000 +0000" channel="JOJ Šport 2.webtv.sk">
     <title lang="id">Hokej - Tipsport liga</title>
   </programme>
-  <programme start="20260427215000 +0000" stop="20260428002500 +0000" channel="JOJ Šport 2.webtv.sk">
+  <programme start="20260427214000 +0000" stop="20260428002500 +0000" channel="JOJ Šport 2.webtv.sk">
     <title lang="id">Okolo Švajčiarska</title>
   </programme>
   <programme start="20260426220000 +0000" stop="20260426230000 +0000" channel="WAU.webtv.sk">
@@ -5294,7 +5294,7 @@
     <title lang="id">Horská kola: Světový pohár</title>
   </programme>
   <programme start="20260427180000 +0000" stop="20260427190000 +0000" channel="Eurosport 2.webtv.sk">
-    <title lang="id">Horskák ola: Světový pohár</title>
+    <title lang="id">Horská kola: Světový pohár</title>
   </programme>
   <programme start="20260427190000 +0000" stop="20260427200000 +0000" channel="Eurosport 2.webtv.sk">
     <title lang="id">Cyklistika: Lutych – Bastogne – Lutych</title>

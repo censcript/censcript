@@ -11090,6 +11090,11 @@
     <desc lang="id">TORINO vs INTER</desc>
     <icon src="https://thumbor.prod.vidiocdn.com/nY0aFklpYf6yONLaFJjxhiSuthc=/287x162/filters:strip_icc():quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/image/6786/champions-tv-3-76ca7c.jpg"/>
   </programme>
+  <programme channel="6786" start="20260427090000 +0000" stop="20260427130000 +0000">
+    <title lang="id">Day 6 - WTA 1000: Mutua Madrid Open 2026</title>
+    <desc lang="id">Nonton streaming pertandingan seru Day 6 - WTA 1000: Mutua Madrid Open 2026. Saksikan aksi-aksi terbaik dari tim yang bersaing ketat untuk meraih kemenangan. Dapatkan informasi lengkap mengenai jadwal pertandingan dan hasil pertandingan terbaru hanya di Vidio.</desc>
+    <icon src="https://thumbor.prod.vidiocdn.com/UKJtX-Amcs_dN2UaFa_xPt06FGg=/287x162/filters:strip_icc():quality(70)/vidio-media-production/uploads/livestreaming/schedule/thumbnail/5026350/e47f2c.jpg"/>
+  </programme>
   <programme channel="18162" start="20260424163000 +0000" stop="20260424170000 +0000">
     <title lang="id">Dibalik Senjata</title>
     <desc lang="id">Di Balik Senjata adalah program informatif dan edukatif yang mengulas berbagai perkembangan, kekuatan, teknologi, dan strategi militer dari berbagai negara di Indonesia. Disajikan dengan pendekatan visual modern dan narasi yang mudah dipahami, program ini mengajak penonton untuk memahami dinamika militer global, baik dari sisi teknologi senjata, taktik perang, dan struktur angkatan bersenjata.</desc>
@@ -12925,6 +12930,11 @@ dan komprehensif mengenai berbagai topik yang relevan dalam kehidupan sehari-har
     <title lang="id">Day 5 - WTA 1000: Mutua Madrid Open 2026</title>
     <desc lang="id">Nonton streaming pertandingan seru Day 5 - WTA 1000: Mutua Madrid Open 2026. Saksikan aksi-aksi terbaik dari tim yang bersaing ketat untuk meraih kemenangan. Dapatkan informasi lengkap mengenai jadwal pertandingan dan hasil pertandingan terbaru hanya di Vidio.</desc>
     <icon src="https://thumbor.prod.vidiocdn.com/VXZ_DmPhebus2EtbK6MQ5GOGWYQ=/287x162/filters:strip_icc():quality(70)/vidio-media-production/uploads/livestreaming/schedule/thumbnail/5026337/6ea210.jpg"/>
+  </programme>
+  <programme channel="6686" start="20260427140000 +0000" stop="20260427160000 +0000">
+    <title lang="id">Day 6 - WTA 1000: Mutua Madrid Open 2026</title>
+    <desc lang="id">Nonton streaming pertandingan seru Day 6 - WTA 1000: Mutua Madrid Open 2026. Saksikan aksi-aksi terbaik dari tim yang bersaing ketat untuk meraih kemenangan. Dapatkan informasi lengkap mengenai jadwal pertandingan dan hasil pertandingan terbaru hanya di Vidio.</desc>
+    <icon src="https://thumbor.prod.vidiocdn.com/tQwQlUfG5JgNS6k6ylqdiffK-gM=/287x162/filters:strip_icc():quality(70)/vidio-media-production/uploads/livestreaming/schedule/thumbnail/5026354/37aead.jpg"/>
   </programme>
   <programme channel="7432" start="20260424163000 +0000" stop="20260424170000 +0000">
     <title lang="id">Checkpoint</title>
