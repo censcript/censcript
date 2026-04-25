@@ -382,12 +382,12 @@
     <desc lang="id">Saksikan! BRI Super League 2025/26 - Is Back!" 18 Klub Terbaik Siap Bertarung Di Kasta Tertinggi Sepak Bola Indonesia! Pertandingan Semakin Seru! Jangan Lewatkan BRI Super League 2025/26 Mulai 8 Agustus 2025, Pkl 15.00 &amp; 18.30 WIB, Live &amp; Eksklusif Hanya Di Indosiar dan Vidio #Indosiarrumahsepakbolaindonesia</desc>
     <icon src="https://thumbor.prod.vidiocdn.com/cBZL7ITaJCof6cqtayFee2uJCX8=/287x162/filters:strip_icc():quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/image/205/indosiar-d9a3d0.jpg"/>
   </programme>
-  <programme channel="205" start="20260425103000 +0000" stop="20260425113000 +0000">
+  <programme channel="205" start="20260425103000 +0000" stop="20260425113800 +0000">
     <title lang="id">Merangkai Kisah Indah</title>
     <desc lang="id">Mega Series Terbaru Raden Rakha dan Basmalah Gralind Di Indosiar "Merangkai Kisah Indah" Tayang Setiap Hari, Mulai Senin, 14 Juli 2025 Pukul 17:00 WIB. Kisah Derita Mutiara Yang Mencari Orangtua Kandungnya Karena Sewaktu Bayi Ditukar Oleh Ibu Angkatnya. Nasib Membawa Dirinya Bertemu Dengan Keluarga Yang Tanpa Dia Ketahui Adalah Orangtua Kandungnya dan Juga Bertemu Kenzo. Apakah Kenzo dan Mutiara Akan Berjodoh? Dibintangi Raden Rakha, Basmalah Gralind, Panji Saputra, Tsania Marwa, Gita Sinaga, Vayala Maulidina, Washifa, Haura Lathifa, dan Emiliano Cortizo. Saksikan Mega Series Terbaru Indosiar : Merangkai Kisah Indah, Tayang Setiap Hari, Mulai Senin, 14 Juli 2025 Pukul 17:00 WIB Hanya Di Indosiar.</desc>
     <icon src="https://thumbor.prod.vidiocdn.com/WIl2jiaTLEzHnNAo61AGzfdEXh8=/287x162/filters:strip_icc():quality(70)/vidio-media-production/uploads/tv_program/thumbnail/389747/fc3ce1.jpg"/>
   </programme>
-  <programme channel="205" start="20260425113000 +0000" stop="20260425140000 +0000">
+  <programme channel="205" start="20260425113800 +0000" stop="20260425140000 +0000">
     <title lang="id">BRI Superleague 2025/26 - Borneo Fc Samarinda Vs Semen Padang Fc</title>
     <desc lang="id">Saksikan! BRI Super League 2025/26 - Is Back!" 18 Klub Terbaik Siap Bertarung Di Kasta Tertinggi Sepak Bola Indonesia! Pertandingan Semakin Seru! Jangan Lewatkan BRI Super League 2025/26 Mulai 8 Agustus 2025, Pkl 15.00 &amp; 18.30 WIB, Live &amp; Eksklusif Hanya Di Indosiar dan Vidio #Indosiarrumahsepakbolaindonesia</desc>
     <icon src="https://thumbor.prod.vidiocdn.com/cBZL7ITaJCof6cqtayFee2uJCX8=/287x162/filters:strip_icc():quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/image/205/indosiar-d9a3d0.jpg"/>
@@ -1497,12 +1497,12 @@
     <desc lang="id">Proliga 2026 First Serve 15:00</desc>
     <icon src="https://thumbor.prod.vidiocdn.com/NdmzqkxqnWVnlngtk_ObYNT-wiY=/287x162/filters:strip_icc():quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/image/206/moji-a5bd3e.jpg"/>
   </programme>
-  <programme channel="206" start="20260425103000 +0000" stop="20260425112000 +0000">
+  <programme channel="206" start="20260425103000 +0000" stop="20260425110000 +0000">
     <title lang="id">American Ninja Warrior</title>
     <desc lang="id">American Ninja Warrior</desc>
     <icon src="https://thumbor.prod.vidiocdn.com/NdmzqkxqnWVnlngtk_ObYNT-wiY=/287x162/filters:strip_icc():quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/image/206/moji-a5bd3e.jpg"/>
   </programme>
-  <programme channel="206" start="20260425112000 +0000" stop="20260425140000 +0000">
+  <programme channel="206" start="20260425110000 +0000" stop="20260425140000 +0000">
     <title lang="id">Proliga 2026 First Serve 19:00</title>
     <desc lang="id">Proliga 2026 First Serve 19:00</desc>
     <icon src="https://thumbor.prod.vidiocdn.com/NdmzqkxqnWVnlngtk_ObYNT-wiY=/287x162/filters:strip_icc():quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/image/206/moji-a5bd3e.jpg"/>
@@ -14424,12 +14424,12 @@ dan komprehensif mengenai berbagai topik yang relevan dalam kehidupan sehari-har
     <desc lang="id">Matchweek 33</desc>
     <icon src="https://thumbor.prod.vidiocdn.com/_8JaTGtU2WYTw0ylulYg_dmz37Y=/287x162/filters:strip_icc():quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/image/9183/champions-tv-6-8a049a.jpg"/>
   </programme>
-  <programme channel="9183" start="20260425130000 +0000" stop="20260425135000 +0000">
+  <programme channel="9183" start="20260425130000 +0000" stop="20260425133000 +0000">
     <title lang="id">Show 29 - Matchweek 34 : PL PREVIEW 2025/26</title>
     <desc lang="id">Show 29 Matchweek 34</desc>
     <icon src="https://thumbor.prod.vidiocdn.com/_8JaTGtU2WYTw0ylulYg_dmz37Y=/287x162/filters:strip_icc():quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/image/9183/champions-tv-6-8a049a.jpg"/>
   </programme>
-  <programme channel="9183" start="20260425135000 +0000" stop="20260425160000 +0000">
+  <programme channel="9183" start="20260425133000 +0000" stop="20260425160000 +0000">
     <title lang="id">Wolves vs Tottenham - Premier League</title>
     <desc lang="id">Nonton streaming pertandingan seru Wolves vs Tottenham - Premier League. Saksikan aksi-aksi terbaik dari tim yang bersaing ketat untuk meraih kemenangan. Dapatkan informasi lengkap mengenai jadwal pertandingan dan hasil pertandingan terbaru hanya di Vidio.</desc>
     <icon src="https://thumbor.prod.vidiocdn.com/gGkYWMf4gBRyXuh5QCPkMzWDb5M=/287x162/filters:strip_icc():quality(70)/vidio-media-production/uploads/livestreaming/schedule/thumbnail/5022120/e6865d.jpg"/>

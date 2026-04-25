@@ -2671,7 +2671,7 @@
 <programme start="20260425131500 +0000" stop="20260425154500 +0000" channel="Sky Sport Bundesliga 1 HD.skyde">
     <title>Live BL: 1. FSV Mainz 05 - FC Bayern München, 31. Spieltag</title>
 </programme>
-<programme start="20260425154500 +0000" stop="20260425194500 +0000" channel="Sky Sport Bundesliga 1 HD.skyde">
+<programme start="20260425154500 +0000" stop="20260425191500 +0000" channel="Sky Sport Bundesliga 1 HD.skyde">
     <title>Live BL: Hamburger SV - TSG Hoffenheim, tipico Topspiel der Woche, 31. Spieltag</title>
 </programme>
 <programme start="20260425101000 +0000" stop="20260425103000 +0000" channel="Sky Sport Bundesliga 2 HD.skyde">
@@ -2722,7 +2722,7 @@
 <programme start="20260425130000 +0000" stop="20260425131500 +0000" channel="Sky Sport Bundesliga 4 HD.skyde">
     <title>Live BL: WOB - BMG: tipico Countdown, 31. Spieltag</title>
 </programme>
-<programme start="20260425131500 +0000" stop="20260425161500 +0000" channel="Sky Sport Bundesliga 4 HD.skyde">
+<programme start="20260425131500 +0000" stop="20260425154500 +0000" channel="Sky Sport Bundesliga 4 HD.skyde">
     <title>Live BL: VfL Wolfsburg - Borussia M&#039;gladbach, 31. Spieltag</title>
 </programme>
 <programme start="20260425101000 +0000" stop="20260425103000 +0000" channel="Sky Sport Bundesliga 5 HD.skyde">
@@ -2734,7 +2734,7 @@
 <programme start="20260425130000 +0000" stop="20260425131500 +0000" channel="Sky Sport Bundesliga 5 HD.skyde">
     <title>Live BL: FCA - SGE: tipico Countdown, 31. Spieltag</title>
 </programme>
-<programme start="20260425131500 +0000" stop="20260425154500 +0000" channel="Sky Sport Bundesliga 5 HD.skyde">
+<programme start="20260425131500 +0000" stop="20260425161500 +0000" channel="Sky Sport Bundesliga 5 HD.skyde">
     <title>Live BL: FC Augsburg - Eintracht Frankfurt, 31. Spieltag</title>
 </programme>
 <programme start="20260425101000 +0000" stop="20260425103000 +0000" channel="Sky Sport Bundesliga 6 HD.skyde">
@@ -2752,7 +2752,7 @@
 <programme start="20260425103000 +0000" stop="20260425130000 +0000" channel="Sky Sport Bundesliga 7 HD.skyde">
     <title>Live 2. BL: Samstags-Konferenz, 31. Spieltag</title>
 </programme>
-<programme start="20260425130000 +0000" stop="20260425141500 +0000" channel="Sky Sport Bundesliga 7 HD.skyde">
+<programme start="20260425130000 +0000" stop="20260425134500 +0000" channel="Sky Sport Bundesliga 7 HD.skyde">
     <title>Live 2. BL Alle Spiele, alle Tore: Die Vodafone Highlight-Show, 31. Spieltag, Samstag</title>
 </programme>
 <programme start="20260424220000 +0000" stop="20260424230000 +0000" channel="Sky Sport F1 HD.skyde">
@@ -2845,10 +2845,10 @@
 <programme start="20260425000000 +0000" stop="20260425030000 +0000" channel="Sky Sport Golf HD.skyde">
     <title>Asian Tour: Singapore Open, 2. Tag auf Sentosa (Singapur)</title>
 </programme>
-<programme start="20260425030000 +0000" stop="20260425070000 +0000" channel="Sky Sport Golf HD.skyde">
+<programme start="20260425030000 +0000" stop="20260425070500 +0000" channel="Sky Sport Golf HD.skyde">
     <title>Live Asian Tour: Singapore Open, 3. Tag auf Sentosa (Singapur)</title>
 </programme>
-<programme start="20260425070000 +0000" stop="20260425090000 +0000" channel="Sky Sport Golf HD.skyde">
+<programme start="20260425070500 +0000" stop="20260425090000 +0000" channel="Sky Sport Golf HD.skyde">
     <title>Golf: The Chevron Championship, 2. Tag (Late Session) in Houston, TX (USA)</title>
 </programme>
 <programme start="20260425090000 +0000" stop="20260425094500 +0000" channel="Sky Sport Golf HD.skyde">
@@ -2899,10 +2899,10 @@
 <programme start="20260425080000 +0000" stop="20260425084500 +0000" channel="Sky Sport Mix HD.skyde">
     <title>Live MotoGP: 2. Freies Training - GP Spanien</title>
 </programme>
-<programme start="20260425084500 +0000" stop="20260425100000 +0000" channel="Sky Sport Mix HD.skyde">
+<programme start="20260425084500 +0000" stop="20260425100500 +0000" channel="Sky Sport Mix HD.skyde">
     <title>Live MotoGP: Qualifying - GP Spanien</title>
 </programme>
-<programme start="20260425100000 +0000" stop="20260425101500 +0000" channel="Sky Sport Mix HD.skyde">
+<programme start="20260425100500 +0000" stop="20260425101500 +0000" channel="Sky Sport Mix HD.skyde">
     <title>NHL: Highlights VGK@UTA, Playoffs, 1. Runde, Spiel 3</title>
 </programme>
 <programme start="20260425101500 +0000" stop="20260425103000 +0000" channel="Sky Sport Mix HD.skyde">
@@ -3106,11 +3106,14 @@
 <programme start="20260425003000 +0000" stop="20260425023000 +0000" channel="Sky Sport Tennis HD.skyde">
     <title>ATP 1000: J.-L. Struff (GER) - A. Michelsen (USA), Mutua Madrid Open in Madrid (ESP), 4. Tag</title>
 </programme>
+<programme start="20260425010500 +0000" stop="20260425031000 +0000" channel="Sky Sport Tennis HD.skyde">
+    <title>WTA 1000: E. Rybakina (KAZ) - E.-G. Ruse (ROU), Mutua Madrid Open in Madrid (ESP), 4. Tag</title>
+</programme>
 <programme start="20260425023000 +0000" stop="20260425050000 +0000" channel="Sky Sport Tennis HD.skyde">
     <title>ATP 500: B. Shelton (USA) - F. Cobolli (ITA), BMW Open in München, Finale</title>
 </programme>
-<programme start="20260425050000 +0000" stop="20260425070000 +0000" channel="Sky Sport Tennis HD.skyde">
-    <title>WTA 1000: E. Rybakina (KAZ) - E.-G. Ruse  (ROU), Mutua Madrid Open in Madrid (ESP), 4. Tag</title>
+<programme start="20260425054500 +0000" stop="20260425075000 +0000" channel="Sky Sport Tennis HD.skyde">
+    <title>WTA 1000: E. Rybakina (KAZ) - E.-G. Ruse (ROU), Mutua Madrid Open in Madrid (ESP), 4. Tag</title>
 </programme>
 <programme start="20260425070000 +0000" stop="20260425090000 +0000" channel="Sky Sport Tennis HD.skyde">
     <title>ATP 1000: J.-L. Struff (GER) - A. Michelsen (USA), Mutua Madrid Open in Madrid (ESP), 4. Tag</title>
@@ -3199,7 +3202,7 @@
 <programme start="20260425135000 +0000" stop="20260425160000 +0000" channel="Sky Sport 8 HD.skyde">
     <title>Live PL: FC Liverpool - Crystal Palace, 34. Spieltag</title>
 </programme>
-<programme start="20260425160000 +0000" stop="20260425220000 +0000" channel="Sky Sport 8 HD.skyde">
+<programme start="20260425160000 +0000" stop="20260426000000 +0000" channel="Sky Sport 8 HD.skyde">
     <title>Live WTA 1000: Mutua Madrid Open in Madrid (ESP), 5. Tag</title>
 </programme>
 <programme start="20260425133000 +0000" stop="20260425135000 +0000" channel="Sky Sport 9 HD.skyde">
