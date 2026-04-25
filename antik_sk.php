@@ -2771,16 +2771,16 @@
     <title lang="id">PÍSNIČKY NA PŘÁNÍ</title>
   </programme>
   <programme start="20260427120000 +0000" stop="20260427130000 +0000" channel="Šláger Originál.webtv.sk">
-    <title lang="id">ČAS NA PĚKNOU PÍSNIČKU</title>
+    <title lang="id">SÁZKA NA HIT</title>
   </programme>
   <programme start="20260427130000 +0000" stop="20260427143000 +0000" channel="Šláger Originál.webtv.sk">
     <title lang="id">ODPOLEDNÍ STUDIO</title>
   </programme>
-  <programme start="20260427143000 +0000" stop="20260427160000 +0000" channel="Šláger Originál.webtv.sk">
+  <programme start="20260427143000 +0000" stop="20260427175000 +0000" channel="Šláger Originál.webtv.sk">
     <title lang="id">LATTÉ O PŮL PÁTÉ</title>
   </programme>
-  <programme start="20260427160000 +0000" stop="20260427182000 +0000" channel="Šláger Originál.webtv.sk">
-    <title lang="id">PODVEČERNÍ ZÁBAVA</title>
+  <programme start="20260427175000 +0000" stop="20260427182000 +0000" channel="Šláger Originál.webtv.sk">
+    <title lang="id">SÁZKA NA HIT</title>
   </programme>
   <programme start="20260427182000 +0000" stop="20260427220000 +0000" channel="Šláger Originál.webtv.sk">
     <title lang="id">VEČERNÍ POŘAD</title>
@@ -16495,8 +16495,11 @@
   <programme start="20260427010000 +0000" stop="20260427013000 +0000" channel="TVP World.webtv.sk">
     <title lang="id">World News</title>
   </programme>
-  <programme start="20260427013000 +0000" stop="20260427020000 +0000" channel="TVP World.webtv.sk">
-    <title lang="id">Document</title>
+  <programme start="20260427013000 +0000" stop="20260427015000 +0000" channel="TVP World.webtv.sk">
+    <title lang="id">Korona Gór Polski (3)</title>
+  </programme>
+  <programme start="20260427015000 +0000" stop="20260427020000 +0000" channel="TVP World.webtv.sk">
+    <title lang="id">Weather</title>
   </programme>
   <programme start="20260427020000 +0000" stop="20260427021500 +0000" channel="TVP World.webtv.sk">
     <title lang="id">World News Flash</title>
@@ -16528,8 +16531,11 @@
   <programme start="20260427040000 +0000" stop="20260427043000 +0000" channel="TVP World.webtv.sk">
     <title lang="id">World News</title>
   </programme>
-  <programme start="20260427043000 +0000" stop="20260427050000 +0000" channel="TVP World.webtv.sk">
-    <title lang="id">Document</title>
+  <programme start="20260427043000 +0000" stop="20260427045000 +0000" channel="TVP World.webtv.sk">
+    <title lang="id">Korona Gór Polski (4)</title>
+  </programme>
+  <programme start="20260427045000 +0000" stop="20260427050000 +0000" channel="TVP World.webtv.sk">
+    <title lang="id">Weather</title>
   </programme>
   <programme start="20260427050000 +0000" stop="20260427051000 +0000" channel="TVP World.webtv.sk">
     <title lang="id">World News Flash</title>
@@ -16678,8 +16684,11 @@
   <programme start="20260427141500 +0000" stop="20260427143000 +0000" channel="TVP World.webtv.sk">
     <title lang="id">World Talks (1781)</title>
   </programme>
-  <programme start="20260427143000 +0000" stop="20260427150000 +0000" channel="TVP World.webtv.sk">
-    <title lang="id">Document</title>
+  <programme start="20260427143000 +0000" stop="20260427145000 +0000" channel="TVP World.webtv.sk">
+    <title lang="id">Korona Gór Polski (4)</title>
+  </programme>
+  <programme start="20260427145000 +0000" stop="20260427150000 +0000" channel="TVP World.webtv.sk">
+    <title lang="id">Weather</title>
   </programme>
   <programme start="20260427150000 +0000" stop="20260427151000 +0000" channel="TVP World.webtv.sk">
     <title lang="id">World News</title>

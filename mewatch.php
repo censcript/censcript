@@ -691,10 +691,10 @@
     <programme start="20260424160000 +0000" stop="20260425060000 +0000" channel="Live 2.mewatch">
         <title>No Programme available now. Next Broadcast on 25th April, Saturday 2pm. Singapore T100 2026</title>
     </programme>
-    <programme start="20260425060000 +0000" stop="20260425100000 +0000" channel="Live 2.mewatch">
+    <programme start="20260425060000 +0000" stop="20260425100200 +0000" channel="Live 2.mewatch">
         <title>Singapore T100 2026</title>
     </programme>
-    <programme start="20260425100000 +0000" stop="20260425160000 +0000" channel="Live 2.mewatch">
+    <programme start="20260425100200 +0000" stop="20260425160000 +0000" channel="Live 2.mewatch">
         <title>No Programme available now. Next Broadcast on 17th May, Sunday 2.05am. AFC Champions League Two 2025/26 Final</title>
     </programme>
     <programme start="20260425160000 +0000" stop="20260426160000 +0000" channel="Live 2.mewatch">
