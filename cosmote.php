@@ -1,7 +1,3 @@
-<programme start="20260426003000 +0700" stop="20260426030000 +0700" channel="COSMOTE Sport 1 HD">
-    <title>Football: PAOK - OFI (L)</title>
-    <desc>Live: Ya</desc>
-</programme>
 <programme start="20260426030000 +0700" stop="20260426043000 +0700" channel="COSMOTE Sport 1 HD">
     <title>Greek Cup Final Time (L)</title>
     <desc>Live: Ya</desc>
@@ -150,8 +146,8 @@
     <title>Football: AC Milan - Juventus Football Club (L)</title>
     <desc>Live: Ya</desc>
 </programme>
-<programme start="20260426020000 +0700" stop="20260426023000 +0700" channel="COSMOTE Sport 3 HD">
-    <title>Sports Classics: My Sporting Moment</title>
+<programme start="20260427034500 +0700" stop="20260427055500 +0700" channel="COSMOTE Sport 2 HD">
+    <title>Football: AEL Novibet - Panserraikos</title>
     <desc>Live: Tidak</desc>
 </programme>
 <programme start="20260426023000 +0700" stop="20260426043000 +0700" channel="COSMOTE Sport 3 HD">
@@ -230,10 +226,6 @@
     <title>Football: AVS Futebol - Sporting CP (L)</title>
     <desc>Live: Ya</desc>
 </programme>
-<programme start="20260426003000 +0700" stop="20260426023000 +0700" channel="COSMOTE Sport 4 HD">
-    <title>Basketball: Napoli - Aquila Basket Trento (L)</title>
-    <desc>Live: Ya</desc>
-</programme>
 <programme start="20260426023000 +0700" stop="20260426053000 +0700" channel="COSMOTE Sport 4 HD">
     <title>Basketball: Phoenix Suns - Oklahoma City Thunder (L)</title>
     <desc>Live: Ya</desc>
@@ -278,9 +270,13 @@
     <title>Basketball: Toronto Raptors - Cleveland Cavaliers (L)</title>
     <desc>Live: Ya</desc>
 </programme>
-<programme start="20260426000000 +0700" stop="20260426030000 +0700" channel="COSMOTE Sport 5 HD">
-    <title>Basketball: Orlando Magic - Detroit Pistons (L)</title>
-    <desc>Live: Ya</desc>
+<programme start="20260427030000 +0700" stop="20260427033000 +0700" channel="COSMOTE Sport 4 HD">
+    <title>NBA Action 2025-26 E3527</title>
+    <desc>Live: Tidak</desc>
+</programme>
+<programme start="20260427033000 +0700" stop="20260427053000 +0700" channel="COSMOTE Sport 4 HD">
+    <title>Basketball: Anadolu Efes - Turk Telekom</title>
+    <desc>Live: Tidak</desc>
 </programme>
 <programme start="20260426030000 +0700" stop="20260426040000 +0700" channel="COSMOTE Sport 5 HD">
     <title>Motorsports: Moto3 2026</title>
@@ -378,9 +374,9 @@
     <title>Motorsports: Moto2 2026</title>
     <desc>Live: Tidak</desc>
 </programme>
-<programme start="20260426010000 +0700" stop="20260426023000 +0700" channel="COSMOTE Sport 6 HD">
-    <title>Tennis: ATP Masters 1000 2026 (L)</title>
-    <desc>Live: Ya</desc>
+<programme start="20260427031000 +0700" stop="20260427045000 +0700" channel="COSMOTE Sport 5 HD">
+    <title>Motorsports: MotoGP 2026</title>
+    <desc>Live: Tidak</desc>
 </programme>
 <programme start="20260426023000 +0700" stop="20260426043000 +0700" channel="COSMOTE Sport 6 HD">
     <title>Tennis: Alexander Bublik - Stefanos Tsitsipas (L)</title>
@@ -420,10 +416,6 @@
 </programme>
 <programme start="20260427010000 +0700" stop="20260427053000 +0700" channel="COSMOTE Sport 6 HD">
     <title>Tennis: ATP Masters 1000 2026 (L)</title>
-    <desc>Live: Ya</desc>
-</programme>
-<programme start="20260426000000 +0700" stop="20260426030000 +0700" channel="COSMOTE Sport 7 HD">
-    <title>Premier Padel Tour 2026 (L)</title>
     <desc>Live: Ya</desc>
 </programme>
 <programme start="20260426030000 +0700" stop="20260426040000 +0700" channel="COSMOTE Sport 7 HD">

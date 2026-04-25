@@ -2743,7 +2743,7 @@
 <programme start="20260425103000 +0000" stop="20260425130000 +0000" channel="Sky Sport Bundesliga 6 HD.skyde">
     <title>Live 2. BL: Multiview 31. Spieltag, Samstag</title>
 </programme>
-<programme start="20260425130000 +0000" stop="20260425153000 +0000" channel="Sky Sport Bundesliga 6 HD.skyde">
+<programme start="20260425130000 +0000" stop="20260425154500 +0000" channel="Sky Sport Bundesliga 6 HD.skyde">
     <title>Live BL: Multiview 31. Spieltag</title>
 </programme>
 <programme start="20260425101000 +0000" stop="20260425103000 +0000" channel="Sky Sport Bundesliga 7 HD.skyde">
@@ -2845,10 +2845,10 @@
 <programme start="20260425000000 +0000" stop="20260425030000 +0000" channel="Sky Sport Golf HD.skyde">
     <title>Asian Tour: Singapore Open, 2. Tag auf Sentosa (Singapur)</title>
 </programme>
-<programme start="20260425030000 +0000" stop="20260425070000 +0000" channel="Sky Sport Golf HD.skyde">
+<programme start="20260425030000 +0000" stop="20260425070500 +0000" channel="Sky Sport Golf HD.skyde">
     <title>Live Asian Tour: Singapore Open, 3. Tag auf Sentosa (Singapur)</title>
 </programme>
-<programme start="20260425070000 +0000" stop="20260425090000 +0000" channel="Sky Sport Golf HD.skyde">
+<programme start="20260425070500 +0000" stop="20260425090000 +0000" channel="Sky Sport Golf HD.skyde">
     <title>Golf: The Chevron Championship, 2. Tag (Late Session) in Houston, TX (USA)</title>
 </programme>
 <programme start="20260425090000 +0000" stop="20260425094500 +0000" channel="Sky Sport Golf HD.skyde">

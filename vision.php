@@ -529,9 +529,6 @@
 <programme start="20260425163000 +0000" stop="20260425174500 +0000" channel="Trans 7.vision">
 <title>Cinta Yang Tersembunyi</title>
 </programme>
-<programme start="20260425174500 +0000" stop="20260425181500 +0000" channel="Trans 7.vision">
-<title>MotoGP Sprint Race 2026 Spain</title>
-</programme>
 <programme start="20260425181500 +0000" stop="20260425190000 +0000" channel="Trans 7.vision">
 <title>Best Fishing</title>
 </programme>
@@ -610,17 +607,8 @@
 <programme start="20260425090000 +0000" stop="20260425110000 +0000" channel="ANTV.vision">
 <title>Vasudha</title>
 </programme>
-<programme start="20260425110000 +0000" stop="20260425130000 +0000" channel="ANTV.vision">
-<title>Balada Cinta Angling Dharma</title>
-</programme>
-<programme start="20260425130000 +0000" stop="20260425153000 +0000" channel="ANTV.vision">
-<title>Panggonan Wingit</title>
-</programme>
 <programme start="20260425153000 +0000" stop="20260425180000 +0000" channel="ANTV.vision">
 <title>Serie A Liga Italia</title>
-</programme>
-<programme start="20260425180000 +0000" stop="20260425193000 +0000" channel="ANTV.vision">
-<title>Snake Fist</title>
 </programme>
 <programme start="20260425193000 +0000" stop="20260425220000 +0000" channel="ANTV.vision">
 <title>Stree</title>
@@ -1497,4 +1485,16 @@
 </programme>
 <programme start="20260425072500 +0000" stop="20260425083500 +0000" channel="MDTV.vision">
 <title>Masak Gesss!!!</title>
+</programme>
+<programme start="20260425083500 +0000" stop="20260425093500 +0000" channel="MDTV.vision">
+<title>Diary Bahagia</title>
+</programme>
+<programme start="20260425093500 +0000" stop="20260425101000 +0000" channel="MDTV.vision">
+<title>Adit Sopo Jarwo</title>
+</programme>
+<programme start="20260425101000 +0000" stop="20260425120000 +0000" channel="MDTV.vision">
+<title>Esmeralda</title>
+</programme>
+<programme start="20260425120000 +0000" stop="20260425130000 +0000" channel="MDTV.vision">
+<title>Cinta Fitri</title>
 </programme>
