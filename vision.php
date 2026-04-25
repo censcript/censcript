@@ -610,6 +610,9 @@
 <programme start="20260425090000 +0000" stop="20260425110000 +0000" channel="ANTV.vision">
 <title>Vasudha</title>
 </programme>
+<programme start="20260425110000 +0000" stop="20260425130000 +0000" channel="ANTV.vision">
+<title>Balada Cinta Angling Dharma</title>
+</programme>
 <programme start="20260425130000 +0000" stop="20260425153000 +0000" channel="ANTV.vision">
 <title>Panggonan Wingit</title>
 </programme>
@@ -1494,7 +1497,4 @@
 </programme>
 <programme start="20260425072500 +0000" stop="20260425083500 +0000" channel="MDTV.vision">
 <title>Masak Gesss!!!</title>
-</programme>
-<programme start="20260425083500 +0000" stop="20260425093500 +0000" channel="MDTV.vision">
-<title>Diary Bahagia</title>
 </programme>
