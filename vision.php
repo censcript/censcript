@@ -601,9 +601,6 @@
 <programme start="20260425003000 +0000" stop="20260425023000 +0000" channel="ANTV.vision">
 <title>Janji Inspektur Virat</title>
 </programme>
-<programme start="20260425023000 +0000" stop="20260425060000 +0000" channel="ANTV.vision">
-<title>Bas Itna Sa Khwaab Hai</title>
-</programme>
 <programme start="20260425060000 +0000" stop="20260425080000 +0000" channel="ANTV.vision">
 <title>Jhanak</title>
 </programme>
@@ -1497,4 +1494,7 @@
 </programme>
 <programme start="20260425062000 +0000" stop="20260425072500 +0000" channel="MDTV.vision">
 <title>Makan Enak</title>
+</programme>
+<programme start="20260425072500 +0000" stop="20260425083500 +0000" channel="MDTV.vision">
+<title>Masak Gesss!!!</title>
 </programme>
