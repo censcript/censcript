@@ -2734,7 +2734,7 @@
 <programme start="20260425130000 +0000" stop="20260425131500 +0000" channel="Sky Sport Bundesliga 5 HD.skyde">
     <title>Live BL: FCA - SGE: tipico Countdown, 31. Spieltag</title>
 </programme>
-<programme start="20260425131500 +0000" stop="20260425154500 +0000" channel="Sky Sport Bundesliga 5 HD.skyde">
+<programme start="20260425131500 +0000" stop="20260425161500 +0000" channel="Sky Sport Bundesliga 5 HD.skyde">
     <title>Live BL: FC Augsburg - Eintracht Frankfurt, 31. Spieltag</title>
 </programme>
 <programme start="20260425101000 +0000" stop="20260425103000 +0000" channel="Sky Sport Bundesliga 6 HD.skyde">
@@ -3106,11 +3106,14 @@
 <programme start="20260425003000 +0000" stop="20260425023000 +0000" channel="Sky Sport Tennis HD.skyde">
     <title>ATP 1000: J.-L. Struff (GER) - A. Michelsen (USA), Mutua Madrid Open in Madrid (ESP), 4. Tag</title>
 </programme>
+<programme start="20260425010500 +0000" stop="20260425031000 +0000" channel="Sky Sport Tennis HD.skyde">
+    <title>WTA 1000: E. Rybakina (KAZ) - E.-G. Ruse (ROU), Mutua Madrid Open in Madrid (ESP), 4. Tag</title>
+</programme>
 <programme start="20260425023000 +0000" stop="20260425050000 +0000" channel="Sky Sport Tennis HD.skyde">
     <title>ATP 500: B. Shelton (USA) - F. Cobolli (ITA), BMW Open in München, Finale</title>
 </programme>
-<programme start="20260425050000 +0000" stop="20260425070000 +0000" channel="Sky Sport Tennis HD.skyde">
-    <title>WTA 1000: E. Rybakina (KAZ) - E.-G. Ruse  (ROU), Mutua Madrid Open in Madrid (ESP), 4. Tag</title>
+<programme start="20260425054500 +0000" stop="20260425075000 +0000" channel="Sky Sport Tennis HD.skyde">
+    <title>WTA 1000: E. Rybakina (KAZ) - E.-G. Ruse (ROU), Mutua Madrid Open in Madrid (ESP), 4. Tag</title>
 </programme>
 <programme start="20260425070000 +0000" stop="20260425090000 +0000" channel="Sky Sport Tennis HD.skyde">
     <title>ATP 1000: J.-L. Struff (GER) - A. Michelsen (USA), Mutua Madrid Open in Madrid (ESP), 4. Tag</title>
