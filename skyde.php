@@ -2710,7 +2710,7 @@
 <programme start="20260425131500 +0000" stop="20260425154500 +0000" channel="Sky Sport Bundesliga 3 HD.skyde">
     <title>Live BL: 1. FC Heidenheim - FC St. Pauli, 31. Spieltag</title>
 </programme>
-<programme start="20260425154500 +0000" stop="20260425194500 +0000" channel="Sky Sport Bundesliga 3 HD.skyde">
+<programme start="20260425154500 +0000" stop="20260425191500 +0000" channel="Sky Sport Bundesliga 3 HD.skyde">
     <title>Live BL: Tactical Feed: HSV - TSG, 31. Spieltag</title>
 </programme>
 <programme start="20260425101000 +0000" stop="20260425103000 +0000" channel="Sky Sport Bundesliga 4 HD.skyde">
@@ -2794,10 +2794,10 @@
 <programme start="20260425100000 +0000" stop="20260425115000 +0000" channel="Sky Sport F1 HD.skyde">
     <title>F1: Rennen 2004 in Magny-Cours</title>
 </programme>
-<programme start="20260425115000 +0000" stop="20260425125000 +0000" channel="Sky Sport F1 HD.skyde">
+<programme start="20260425115000 +0000" stop="20260425125500 +0000" channel="Sky Sport F1 HD.skyde">
     <title>Live Ferrari Challenge Europe: Coppa Shell &amp; Shell AM - 1. Rennen in Mugello</title>
 </programme>
-<programme start="20260425125000 +0000" stop="20260425130500 +0000" channel="Sky Sport F1 HD.skyde">
+<programme start="20260425125500 +0000" stop="20260425130500 +0000" channel="Sky Sport F1 HD.skyde">
     <title>F1: Top 20: Boxenstopp Chaos</title>
 </programme>
 <programme start="20260425130500 +0000" stop="20260425141500 +0000" channel="Sky Sport F1 HD.skyde">
@@ -2845,10 +2845,10 @@
 <programme start="20260425000000 +0000" stop="20260425030000 +0000" channel="Sky Sport Golf HD.skyde">
     <title>Asian Tour: Singapore Open, 2. Tag auf Sentosa (Singapur)</title>
 </programme>
-<programme start="20260425030000 +0000" stop="20260425070500 +0000" channel="Sky Sport Golf HD.skyde">
+<programme start="20260425030000 +0000" stop="20260425070000 +0000" channel="Sky Sport Golf HD.skyde">
     <title>Live Asian Tour: Singapore Open, 3. Tag auf Sentosa (Singapur)</title>
 </programme>
-<programme start="20260425070500 +0000" stop="20260425090000 +0000" channel="Sky Sport Golf HD.skyde">
+<programme start="20260425070000 +0000" stop="20260425090000 +0000" channel="Sky Sport Golf HD.skyde">
     <title>Golf: The Chevron Championship, 2. Tag (Late Session) in Houston, TX (USA)</title>
 </programme>
 <programme start="20260425090000 +0000" stop="20260425094500 +0000" channel="Sky Sport Golf HD.skyde">
@@ -2899,10 +2899,10 @@
 <programme start="20260425080000 +0000" stop="20260425084500 +0000" channel="Sky Sport Mix HD.skyde">
     <title>Live MotoGP: 2. Freies Training - GP Spanien</title>
 </programme>
-<programme start="20260425084500 +0000" stop="20260425100000 +0000" channel="Sky Sport Mix HD.skyde">
+<programme start="20260425084500 +0000" stop="20260425100500 +0000" channel="Sky Sport Mix HD.skyde">
     <title>Live MotoGP: Qualifying - GP Spanien</title>
 </programme>
-<programme start="20260425100000 +0000" stop="20260425101500 +0000" channel="Sky Sport Mix HD.skyde">
+<programme start="20260425100500 +0000" stop="20260425101500 +0000" channel="Sky Sport Mix HD.skyde">
     <title>NHL: Highlights VGK@UTA, Playoffs, 1. Runde, Spiel 3</title>
 </programme>
 <programme start="20260425101500 +0000" stop="20260425103000 +0000" channel="Sky Sport Mix HD.skyde">
@@ -2920,13 +2920,13 @@
 <programme start="20260425123000 +0000" stop="20260425140000 +0000" channel="Sky Sport Mix HD.skyde">
     <title>Live MotoGP: Sprint - GP Spanien</title>
 </programme>
-<programme start="20260425140000 +0000" stop="20260425144500 +0000" channel="Sky Sport Mix HD.skyde">
+<programme start="20260425140000 +0000" stop="20260425151000 +0000" channel="Sky Sport Mix HD.skyde">
     <title>Live RBRC: 1. Rennen - GP Spanien</title>
 </programme>
-<programme start="20260425144500 +0000" stop="20260425150000 +0000" channel="Sky Sport Mix HD.skyde">
+<programme start="20260425151000 +0000" stop="20260425153000 +0000" channel="Sky Sport Mix HD.skyde">
     <title>MotoGP: Best battles 2025</title>
 </programme>
-<programme start="20260425150000 +0000" stop="20260425160000 +0000" channel="Sky Sport Mix HD.skyde">
+<programme start="20260425153000 +0000" stop="20260425160000 +0000" channel="Sky Sport Mix HD.skyde">
     <title>NHL: Tonight - Playoff Edition</title>
 </programme>
 <programme start="20260425160000 +0000" stop="20260425161500 +0000" channel="Sky Sport Mix HD.skyde">
@@ -3106,14 +3106,11 @@
 <programme start="20260425003000 +0000" stop="20260425023000 +0000" channel="Sky Sport Tennis HD.skyde">
     <title>ATP 1000: J.-L. Struff (GER) - A. Michelsen (USA), Mutua Madrid Open in Madrid (ESP), 4. Tag</title>
 </programme>
-<programme start="20260425010500 +0000" stop="20260425031000 +0000" channel="Sky Sport Tennis HD.skyde">
-    <title>WTA 1000: E. Rybakina (KAZ) - E.-G. Ruse (ROU), Mutua Madrid Open in Madrid (ESP), 4. Tag</title>
-</programme>
 <programme start="20260425023000 +0000" stop="20260425050000 +0000" channel="Sky Sport Tennis HD.skyde">
     <title>ATP 500: B. Shelton (USA) - F. Cobolli (ITA), BMW Open in München, Finale</title>
 </programme>
-<programme start="20260425054500 +0000" stop="20260425075000 +0000" channel="Sky Sport Tennis HD.skyde">
-    <title>WTA 1000: E. Rybakina (KAZ) - E.-G. Ruse (ROU), Mutua Madrid Open in Madrid (ESP), 4. Tag</title>
+<programme start="20260425050000 +0000" stop="20260425070000 +0000" channel="Sky Sport Tennis HD.skyde">
+    <title>WTA 1000: E. Rybakina (KAZ) - E.-G. Ruse  (ROU), Mutua Madrid Open in Madrid (ESP), 4. Tag</title>
 </programme>
 <programme start="20260425070000 +0000" stop="20260425090000 +0000" channel="Sky Sport Tennis HD.skyde">
     <title>ATP 1000: J.-L. Struff (GER) - A. Michelsen (USA), Mutua Madrid Open in Madrid (ESP), 4. Tag</title>
