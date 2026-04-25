@@ -3133,10 +3133,10 @@
   <programme start="20260426224000 +0000" stop="20260426231000 +0000" channel="ČT1.webtv.sk">
     <title lang="id">Gejzír</title>
   </programme>
-  <programme start="20260426231000 +0000" stop="20260426233700 +0000" channel="ČT1.webtv.sk">
+  <programme start="20260426231000 +0000" stop="20260426233600 +0000" channel="ČT1.webtv.sk">
     <title lang="id">Hobby naší doby</title>
   </programme>
-  <programme start="20260426233700 +0000" stop="20260427005000 +0000" channel="ČT1.webtv.sk">
+  <programme start="20260426233600 +0000" stop="20260427005000 +0000" channel="ČT1.webtv.sk">
     <title lang="id">Manéž Bolka Polívky</title>
   </programme>
   <programme start="20260427005000 +0000" stop="20260427011500 +0000" channel="ČT1.webtv.sk">
@@ -3496,10 +3496,10 @@
   <programme start="20260427213200 +0000" stop="20260427220000 +0000" channel="ČT24.webtv.sk">
     <title lang="id">Interview ČT24</title>
   </programme>
-  <programme start="20260426215500 +0000" stop="20260426222200 +0000" channel="ČT :D - ČT art.webtv.sk">
+  <programme start="20260426215500 +0000" stop="20260426222100 +0000" channel="ČT :D - ČT art.webtv.sk">
     <title lang="id">Kominského metoda II (8/8)</title>
   </programme>
-  <programme start="20260426222200 +0000" stop="20260426225000 +0000" channel="ČT :D - ČT art.webtv.sk">
+  <programme start="20260426222100 +0000" stop="20260426225000 +0000" channel="ČT :D - ČT art.webtv.sk">
     <title lang="id">HaDivadlo - Padesátka na krku (10/10)</title>
   </programme>
   <programme start="20260426225000 +0000" stop="20260426234500 +0000" channel="ČT :D - ČT art.webtv.sk">
@@ -3508,22 +3508,22 @@
   <programme start="20260426234500 +0000" stop="20260427000000 +0000" channel="ČT :D - ČT art.webtv.sk">
     <title lang="id">Toulky s Ladislavem Smoljakem</title>
   </programme>
-  <programme start="20260427000000 +0000" stop="20260427002200 +0000" channel="ČT :D - ČT art.webtv.sk">
+  <programme start="20260427000000 +0000" stop="20260427002100 +0000" channel="ČT :D - ČT art.webtv.sk">
     <title lang="id">Kanadská soda V (13/14)</title>
   </programme>
-  <programme start="20260427002200 +0000" stop="20260427003100 +0000" channel="ČT :D - ČT art.webtv.sk">
+  <programme start="20260427002100 +0000" stop="20260427003100 +0000" channel="ČT :D - ČT art.webtv.sk">
     <title lang="id">Chaplin obětí nešťastné lásky</title>
   </programme>
   <programme start="20260427003100 +0000" stop="20260427010000 +0000" channel="ČT :D - ČT art.webtv.sk">
     <title lang="id">Náměšť</title>
   </programme>
-  <programme start="20260427010000 +0000" stop="20260427012200 +0000" channel="ČT :D - ČT art.webtv.sk">
+  <programme start="20260427010000 +0000" stop="20260427012300 +0000" channel="ČT :D - ČT art.webtv.sk">
     <title lang="id">Designblok</title>
   </programme>
-  <programme start="20260427012200 +0000" stop="20260427015000 +0000" channel="ČT :D - ČT art.webtv.sk">
+  <programme start="20260427012300 +0000" stop="20260427015100 +0000" channel="ČT :D - ČT art.webtv.sk">
     <title lang="id">Divadlo žije!</title>
   </programme>
-  <programme start="20260427015000 +0000" stop="20260427021800 +0000" channel="ČT :D - ČT art.webtv.sk">
+  <programme start="20260427015100 +0000" stop="20260427021800 +0000" channel="ČT :D - ČT art.webtv.sk">
     <title lang="id">Uchem jehly</title>
   </programme>
   <programme start="20260427021800 +0000" stop="20260427031000 +0000" channel="ČT :D - ČT art.webtv.sk">
@@ -3598,13 +3598,13 @@
   <programme start="20260427075000 +0000" stop="20260427075700 +0000" channel="ČT :D - ČT art.webtv.sk">
     <title lang="id">Anna a kamarádi</title>
   </programme>
-  <programme start="20260427075700 +0000" stop="20260427081000 +0000" channel="ČT :D - ČT art.webtv.sk">
+  <programme start="20260427075700 +0000" stop="20260427081500 +0000" channel="ČT :D - ČT art.webtv.sk">
     <title lang="id">Leo, strážce přírody II</title>
   </programme>
-  <programme start="20260427081000 +0000" stop="20260427081500 +0000" channel="ČT :D - ČT art.webtv.sk">
+  <programme start="20260427081500 +0000" stop="20260427081700 +0000" channel="ČT :D - ČT art.webtv.sk">
     <title lang="id">Velká kniha o zvířátkách II</title>
   </programme>
-  <programme start="20260427081500 +0000" stop="20260427082200 +0000" channel="ČT :D - ČT art.webtv.sk">
+  <programme start="20260427081700 +0000" stop="20260427082200 +0000" channel="ČT :D - ČT art.webtv.sk">
     <title lang="id">Velká kniha o zvířátkách II</title>
   </programme>
   <programme start="20260427082200 +0000" stop="20260427084500 +0000" channel="ČT :D - ČT art.webtv.sk">
