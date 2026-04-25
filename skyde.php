@@ -2695,7 +2695,7 @@
 <programme start="20260425180000 +0000" stop="20260425210000 +0000" channel="Sky Sport Bundesliga 2 HD.skyde">
     <title>Live 2. BL: SV Darmstadt 98 - SV Elversberg, tipico Topspiel der Woche, 31. Spieltag</title>
 </programme>
-<programme start="20260425210000 +0000" stop="20260425220000 +0000" channel="Sky Sport Bundesliga 2 HD.skyde">
+<programme start="20260425210000 +0000" stop="20260425223000 +0000" channel="Sky Sport Bundesliga 2 HD.skyde">
     <title>2. BL Alle Spiele, alle Tore: Die Vodafone Highlight-Show, 31. Spieltag, Samstag komplett</title>
 </programme>
 <programme start="20260425101000 +0000" stop="20260425103000 +0000" channel="Sky Sport Bundesliga 3 HD.skyde">
@@ -2710,7 +2710,7 @@
 <programme start="20260425131500 +0000" stop="20260425154500 +0000" channel="Sky Sport Bundesliga 3 HD.skyde">
     <title>Live BL: 1. FC Heidenheim - FC St. Pauli, 31. Spieltag</title>
 </programme>
-<programme start="20260425154500 +0000" stop="20260425194500 +0000" channel="Sky Sport Bundesliga 3 HD.skyde">
+<programme start="20260425154500 +0000" stop="20260425191500 +0000" channel="Sky Sport Bundesliga 3 HD.skyde">
     <title>Live BL: Tactical Feed: HSV - TSG, 31. Spieltag</title>
 </programme>
 <programme start="20260425101000 +0000" stop="20260425103000 +0000" channel="Sky Sport Bundesliga 4 HD.skyde">
@@ -3142,13 +3142,13 @@
 <programme start="20260425014500 +0000" stop="20260425020000 +0000" channel="Sky Sport Top Event HD.skyde">
     <title>NHL: Highlights CAR@OTT, Playoffs, 1. Runde, Spiel 3</title>
 </programme>
-<programme start="20260425020000 +0000" stop="20260425050000 +0000" channel="Sky Sport Top Event HD.skyde">
+<programme start="20260425020000 +0000" stop="20260425045500 +0000" channel="Sky Sport Top Event HD.skyde">
     <title>Live NHL: Edmonton Oilers @ Anaheim Ducks, Playoffs, 1. Runde, Spiel 3</title>
 </programme>
-<programme start="20260425050000 +0000" stop="20260425070000 +0000" channel="Sky Sport Top Event HD.skyde">
+<programme start="20260425045500 +0000" stop="20260425070500 +0000" channel="Sky Sport Top Event HD.skyde">
     <title>Live Asian Tour: Singapore Open, 3. Tag auf Sentosa (Singapur)</title>
 </programme>
-<programme start="20260425070000 +0000" stop="20260425071500 +0000" channel="Sky Sport Top Event HD.skyde">
+<programme start="20260425070500 +0000" stop="20260425071500 +0000" channel="Sky Sport Top Event HD.skyde">
     <title>Live Moto3: 2. Freies Training - GP Spanien</title>
 </programme>
 <programme start="20260425071500 +0000" stop="20260425080000 +0000" channel="Sky Sport Top Event HD.skyde">

@@ -66,13 +66,9 @@
     <title>UEL &amp; UECL Magazine 2025-26 E18</title>
     <desc>Live: Tidak</desc>
 </programme>
-<programme start="20260425220000 +0700" stop="20260425223000 +0700" channel="COSMOTE Sport 2 HD">
-    <title>Sports Classics: Ultimate Rush S6 E2</title>
-    <desc>Live: Tidak</desc>
-</programme>
-<programme start="20260425223000 +0700" stop="20260425230000 +0700" channel="COSMOTE Sport 2 HD">
-    <title>Sports Classics: Worldies E1</title>
-    <desc>Live: Tidak</desc>
+<programme start="20260426233000 +0700" stop="20260427000000 +0700" channel="COSMOTE Sport 1 HD">
+    <title>PreGame (L)</title>
+    <desc>Live: Ya</desc>
 </programme>
 <programme start="20260425230000 +0700" stop="20260426010000 +0700" channel="COSMOTE Sport 2 HD">
     <title>Football: Bologna - AS Roma (L)</title>
@@ -146,9 +142,9 @@
     <title>Sports Classics: Worldies E4</title>
     <desc>Live: Tidak</desc>
 </programme>
-<programme start="20260425203000 +0700" stop="20260425223500 +0700" channel="COSMOTE Sport 3 HD">
-    <title>Football: Falkirk - Rangers FC</title>
-    <desc>Live: Tidak</desc>
+<programme start="20260426230000 +0700" stop="20260427010000 +0700" channel="COSMOTE Sport 2 HD">
+    <title>Football: Torino - FC Internazionale Milano (L)</title>
+    <desc>Live: Ya</desc>
 </programme>
 <programme start="20260425223500 +0700" stop="20260425231500 +0700" channel="COSMOTE Sport 3 HD">
     <title>Emirates FA Cup 2025-26 - Highlights</title>
@@ -226,8 +222,12 @@
     <title>Football: Chelsea FC - Leeds United (L)</title>
     <desc>Live: Ya</desc>
 </programme>
-<programme start="20260425215500 +0700" stop="20260425222500 +0700" channel="COSMOTE Sport 4 HD">
-    <title>NBA Specials: Basketball Stories</title>
+<programme start="20260426230000 +0700" stop="20260426233000 +0700" channel="COSMOTE Sport 3 HD">
+    <title>Sports Classics: My Sporting Moment</title>
+    <desc>Live: Tidak</desc>
+</programme>
+<programme start="20260426233000 +0700" stop="20260427000000 +0700" channel="COSMOTE Sport 3 HD">
+    <title>Sports Classics: My Sporting Moment</title>
     <desc>Live: Tidak</desc>
 </programme>
 <programme start="20260425222500 +0700" stop="20260426003000 +0700" channel="COSMOTE Sport 4 HD">
@@ -276,18 +276,6 @@
 </programme>
 <programme start="20260426220000 +0700" stop="20260427000000 +0700" channel="COSMOTE Sport 4 HD">
     <title>Basketball: Napoli - Aquila Basket Trento</title>
-    <desc>Live: Tidak</desc>
-</programme>
-<programme start="20260425210000 +0700" stop="20260425220500 +0700" channel="COSMOTE Sport 5 HD">
-    <title>Red Bull MotoGP Rookies Cup 2026 (L)</title>
-    <desc>Live: Ya</desc>
-</programme>
-<programme start="20260425220500 +0700" stop="20260425222500 +0700" channel="COSMOTE Sport 5 HD">
-    <title>Sports Highlights</title>
-    <desc>Live: Tidak</desc>
-</programme>
-<programme start="20260425222500 +0700" stop="20260425230000 +0700" channel="COSMOTE Sport 5 HD">
-    <title>ERC 2026</title>
     <desc>Live: Tidak</desc>
 </programme>
 <programme start="20260425230000 +0700" stop="20260426000000 +0700" channel="COSMOTE Sport 5 HD">
@@ -486,10 +474,6 @@
     <title>Premier Padel Tour 2026 (L)</title>
     <desc>Live: Ya</desc>
 </programme>
-<programme start="20260425210000 +0700" stop="20260425230000 +0700" channel="COSMOTE Sport 8 HD">
-    <title>Football: QPR - Derby County (L)</title>
-    <desc>Live: Ya</desc>
-</programme>
 <programme start="20260425230000 +0700" stop="20260425233000 +0700" channel="COSMOTE Sport 8 HD">
     <title>COSMOTESport8HD</title>
     <desc>Live: Tidak</desc>
@@ -577,6 +561,10 @@
 <programme start="20260426210000 +0700" stop="20260426230000 +0700" channel="COSMOTE Sport 8 HD">
     <title>Football: APOEL - Pafos FC (L)</title>
     <desc>Live: Ya</desc>
+</programme>
+<programme start="20260426230000 +0700" stop="20260427000000 +0700" channel="COSMOTE Sport 8 HD">
+    <title>COSMOTESport8HD</title>
+    <desc>Live: Tidak</desc>
 </programme>
 <programme start="20260425220000 +0700" stop="20260425233000 +0700" channel="COSMOTE Sport 9 HD">
     <title>COSMOTESport9HD</title>

@@ -1502,22 +1502,22 @@
     <desc lang="id">American Ninja Warrior</desc>
     <icon src="https://thumbor.prod.vidiocdn.com/NdmzqkxqnWVnlngtk_ObYNT-wiY=/287x162/filters:strip_icc():quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/image/206/moji-a5bd3e.jpg"/>
   </programme>
-  <programme channel="206" start="20260425110000 +0000" stop="20260425153000 +0000">
+  <programme channel="206" start="20260425110000 +0000" stop="20260425163000 +0000">
     <title lang="id">Proliga 2026 First Serve 19:00</title>
     <desc lang="id">Proliga 2026 First Serve 19:00</desc>
     <icon src="https://thumbor.prod.vidiocdn.com/NdmzqkxqnWVnlngtk_ObYNT-wiY=/287x162/filters:strip_icc():quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/image/206/moji-a5bd3e.jpg"/>
   </programme>
-  <programme channel="206" start="20260425153000 +0000" stop="20260425160900 +0000">
+  <programme channel="206" start="20260425163000 +0000" stop="20260425170000 +0000">
     <title lang="id">Rerun Uel</title>
     <desc lang="id">Rerun Uel</desc>
     <icon src="https://thumbor.prod.vidiocdn.com/NdmzqkxqnWVnlngtk_ObYNT-wiY=/287x162/filters:strip_icc():quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/image/206/moji-a5bd3e.jpg"/>
   </programme>
-  <programme channel="206" start="20260425160900 +0000" stop="20260425173500 +0000">
-    <title lang="id">One Friday Fights</title>
-    <desc lang="id">One Friday Fights</desc>
+  <programme channel="206" start="20260425163000 +0000" stop="20260425170000 +0000">
+    <title lang="id">Rerun Uel</title>
+    <desc lang="id">Rerun Uel</desc>
     <icon src="https://thumbor.prod.vidiocdn.com/NdmzqkxqnWVnlngtk_ObYNT-wiY=/287x162/filters:strip_icc():quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/image/206/moji-a5bd3e.jpg"/>
   </programme>
-  <programme channel="206" start="20260425160900 +0000" stop="20260425173500 +0000">
+  <programme channel="206" start="20260425170000 +0000" stop="20260425173500 +0000">
     <title lang="id">One Friday Fights</title>
     <desc lang="id">One Friday Fights</desc>
     <icon src="https://thumbor.prod.vidiocdn.com/NdmzqkxqnWVnlngtk_ObYNT-wiY=/287x162/filters:strip_icc():quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/image/206/moji-a5bd3e.jpg"/>
@@ -14782,17 +14782,17 @@ dan komprehensif mengenai berbagai topik yang relevan dalam kehidupan sehari-har
     <desc lang="id">Nonton streaming pertandingan seru Fulham vs Aston Villa - Premier League. Saksikan aksi-aksi terbaik dari tim yang bersaing ketat untuk meraih kemenangan. Dapatkan informasi lengkap mengenai jadwal pertandingan dan hasil pertandingan terbaru hanya di Vidio.</desc>
     <icon src="https://thumbor.prod.vidiocdn.com/qyQYvuUIOifcmjqqsTmMT6QZtdg=/287x162/filters:strip_icc():quality(70)/vidio-media-production/uploads/livestreaming/schedule/thumbnail/5021961/fb608b.jpg"/>
   </programme>
-  <programme channel="9182" start="20260425133300 +0000" stop="20260425160000 +0000">
+  <programme channel="9182" start="20260425133300 +0000" stop="20260425161000 +0000">
     <title lang="id">Liverpool vs Crystal Palace - Premier League</title>
     <desc lang="id">Nonton streaming pertandingan seru Liverpool vs Crystal Palace - Premier League. Saksikan aksi-aksi terbaik dari tim yang bersaing ketat untuk meraih kemenangan. Dapatkan informasi lengkap mengenai jadwal pertandingan dan hasil pertandingan terbaru hanya di Vidio.</desc>
     <icon src="https://thumbor.prod.vidiocdn.com/Ijapv1muY8SZIP92vAix1A4hwTE=/287x162/filters:strip_icc():quality(70)/vidio-media-production/uploads/livestreaming/schedule/thumbnail/5021962/21fb0f.jpg"/>
   </programme>
-  <programme channel="9182" start="20260425160000 +0000" stop="20260425183000 +0000">
+  <programme channel="9182" start="20260425161000 +0000" stop="20260425183000 +0000">
     <title lang="id">Arsenal vs Newcastle - Premier League</title>
     <desc lang="id">Nonton streaming pertandingan seru Arsenal vs Newcastle - Premier League. Saksikan aksi-aksi terbaik dari tim yang bersaing ketat untuk meraih kemenangan. Dapatkan informasi lengkap mengenai jadwal pertandingan dan hasil pertandingan terbaru hanya di Vidio.</desc>
     <icon src="https://thumbor.prod.vidiocdn.com/6gMrznLfkq55lTsBDGCddofcsqY=/287x162/filters:strip_icc():quality(70)/vidio-media-production/uploads/livestreaming/schedule/thumbnail/5021963/b141dc.jpg"/>
   </programme>
-  <programme channel="9182" start="20260425160000 +0000" stop="20260425183000 +0000">
+  <programme channel="9182" start="20260425161000 +0000" stop="20260425183000 +0000">
     <title lang="id">Arsenal vs Newcastle - Premier League</title>
     <desc lang="id">Nonton streaming pertandingan seru Arsenal vs Newcastle - Premier League. Saksikan aksi-aksi terbaik dari tim yang bersaing ketat untuk meraih kemenangan. Dapatkan informasi lengkap mengenai jadwal pertandingan dan hasil pertandingan terbaru hanya di Vidio.</desc>
     <icon src="https://thumbor.prod.vidiocdn.com/6gMrznLfkq55lTsBDGCddofcsqY=/287x162/filters:strip_icc():quality(70)/vidio-media-production/uploads/livestreaming/schedule/thumbnail/5021963/b141dc.jpg"/>
@@ -14967,17 +14967,17 @@ dan komprehensif mengenai berbagai topik yang relevan dalam kehidupan sehari-har
     <desc lang="id">Show 29 Matchweek 34</desc>
     <icon src="https://thumbor.prod.vidiocdn.com/_8JaTGtU2WYTw0ylulYg_dmz37Y=/287x162/filters:strip_icc():quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/image/9183/champions-tv-6-8a049a.jpg"/>
   </programme>
-  <programme channel="9183" start="20260425133000 +0000" stop="20260425160000 +0000">
+  <programme channel="9183" start="20260425133000 +0000" stop="20260425160500 +0000">
     <title lang="id">Wolves vs Tottenham - Premier League</title>
     <desc lang="id">Nonton streaming pertandingan seru Wolves vs Tottenham - Premier League. Saksikan aksi-aksi terbaik dari tim yang bersaing ketat untuk meraih kemenangan. Dapatkan informasi lengkap mengenai jadwal pertandingan dan hasil pertandingan terbaru hanya di Vidio.</desc>
     <icon src="https://thumbor.prod.vidiocdn.com/gGkYWMf4gBRyXuh5QCPkMzWDb5M=/287x162/filters:strip_icc():quality(70)/vidio-media-production/uploads/livestreaming/schedule/thumbnail/5022120/e6865d.jpg"/>
   </programme>
-  <programme channel="9183" start="20260425160000 +0000" stop="20260425170000 +0000">
+  <programme channel="9183" start="20260425160500 +0000" stop="20260425170000 +0000">
     <title lang="id">LIVE - Manchester City vs Southampton : LIVE - FA CUP 2025/26</title>
     <desc lang="id">Manchester City vs Southampton</desc>
     <icon src="https://thumbor.prod.vidiocdn.com/_8JaTGtU2WYTw0ylulYg_dmz37Y=/287x162/filters:strip_icc():quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/image/9183/champions-tv-6-8a049a.jpg"/>
   </programme>
-  <programme channel="9183" start="20260425160000 +0000" stop="20260425170000 +0000">
+  <programme channel="9183" start="20260425160500 +0000" stop="20260425170000 +0000">
     <title lang="id">LIVE - Manchester City vs Southampton : LIVE - FA CUP 2025/26</title>
     <desc lang="id">Manchester City vs Southampton</desc>
     <icon src="https://thumbor.prod.vidiocdn.com/_8JaTGtU2WYTw0ylulYg_dmz37Y=/287x162/filters:strip_icc():quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/image/9183/champions-tv-6-8a049a.jpg"/>
