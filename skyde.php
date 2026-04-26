@@ -2630,16 +2630,16 @@ Warning: Undefined array key "et" in /usr/home/ManusiaBiasa/domains/manusiabiasa
 <programme start="20260426104000 +0000" stop="20260426110000 +0000" channel="Sky Sport Bundesliga 2 HD.skyde">
     <title>Es folgt: Live 2. Bundesliga</title>
 </programme>
-<programme start="20260426110000 +0000" stop="20260426140000 +0000" channel="Sky Sport Bundesliga 2 HD.skyde">
+<programme start="20260426110000 +0000" stop="20260426133000 +0000" channel="Sky Sport Bundesliga 2 HD.skyde">
     <title>Live 2. BL: SC Paderborn 07 - FC Schalke 04, 31. Spieltag</title>
 </programme>
-<programme start="20260426140000 +0000" stop="20260426153000 +0000" channel="Sky Sport Bundesliga 2 HD.skyde">
+<programme start="20260426133000 +0000" stop="20260426153000 +0000" channel="Sky Sport Bundesliga 2 HD.skyde">
     <title>Es folgt: Bundesliga</title>
 </programme>
 <programme start="20260426153000 +0000" stop="20260426173000 +0000" channel="Sky Sport Bundesliga 2 HD.skyde">
     <title>BL: VfB Stuttgart - Werder Bremen, 31. Spieltag</title>
 </programme>
-<programme start="20260426173000 +0000" stop="20260426210000 +0000" channel="Sky Sport Bundesliga 2 HD.skyde">
+<programme start="20260426173000 +0000" stop="20260426193000 +0000" channel="Sky Sport Bundesliga 2 HD.skyde">
     <title>BL: Borussia Dortmund - SC Freiburg, 31. Spieltag</title>
 </programme>
 <programme start="20260426104000 +0000" stop="20260426110000 +0000" channel="Sky Sport Bundesliga 3 HD.skyde">
@@ -2951,6 +2951,33 @@ Warning: Undefined array key "et" in /usr/home/ManusiaBiasa/domains/manusiabiasa
 <programme start="20260426214500 +0000" stop="20260426220000 +0000" channel="Sky Sport Premier League HD.skyde">
     <title>PL: Best Freekicks</title>
 </programme>
+<programme start="20260425220000 +0000" stop="20260425230000 +0000" channel="Sky Sport Tennis HD.skyde">
+    <title>ATP 500: Review Barcelona</title>
+</programme>
+<programme start="20260425230000 +0000" stop="20260426010000 +0000" channel="Sky Sport Tennis HD.skyde">
+    <title>WTA 1000: A. Sabalenka - J. Cristian (ROM), Mutua Madrid Open in Madrid (ESP), 5. Tag</title>
+</programme>
+<programme start="20260426010000 +0000" stop="20260426030000 +0000" channel="Sky Sport Tennis HD.skyde">
+    <title>ATP 1000: Topspiel, Mutua Madrid Open in Madrid (ESP), 5. Tag</title>
+</programme>
+<programme start="20260426030000 +0000" stop="20260426033000 +0000" channel="Sky Sport Tennis HD.skyde">
+    <title>ATP: This Week</title>
+</programme>
+<programme start="20260426033000 +0000" stop="20260426040000 +0000" channel="Sky Sport Tennis HD.skyde">
+    <title>WTA: All Access Magazine Show</title>
+</programme>
+<programme start="20260426040000 +0000" stop="20260426050000 +0000" channel="Sky Sport Tennis HD.skyde">
+    <title>ATP 500: Review München</title>
+</programme>
+<programme start="20260426050000 +0000" stop="20260426070000 +0000" channel="Sky Sport Tennis HD.skyde">
+    <title>WTA 1000: A. Sabalenka - J. Cristian (ROM), Mutua Madrid Open in Madrid (ESP), 5. Tag</title>
+</programme>
+<programme start="20260426070000 +0000" stop="20260426090000 +0000" channel="Sky Sport Tennis HD.skyde">
+    <title>ATP 1000: Topspiel, Mutua Madrid Open in Madrid (ESP), 5. Tag</title>
+</programme>
+<programme start="20260426090000 +0000" stop="20260426220000 +0000" channel="Sky Sport Tennis HD.skyde">
+    <title>Live ATP &amp; WTA: Konferenz Mutua Madrid Open in Madrid (ESP), 6. Tag</title>
+</programme>
 <programme start="20260425220000 +0000" stop="20260426003000 +0000" channel="Sky Sport Top Event HD.skyde">
     <title>Live NBA: New York Knicks @ Atlanta Hawks, Playoffs, Runde 1, Spiel 4</title>
 </programme>
@@ -2989,15 +3016,6 @@ Warning: Undefined array key "et" in /usr/home/ManusiaBiasa/domains/manusiabiasa
 </programme>
 <programme start="20260426213000 +0000" stop="20260426233000 +0000" channel="Sky Sport Top Event HD.skyde">
     <title>Live NHL: Colorado Avalanche @ Los Angeles Kings, Playoffs, 1. Runde, Spiel 4</title>
-</programme>
-<programme start="20260426162500 +0000" stop="20260426164500 +0000" channel="Sky Sport 4 HD.skyde">
-    <title>Es folgt: Live NBA</title>
-</programme>
-<programme start="20260426164500 +0000" stop="20260426193000 +0000" channel="Sky Sport 4 HD.skyde">
-    <title>Live NBA: Cleveland Cavaliers @ Toronto Raptors, Playoffs, Runde 1, Spiel 4</title>
-</programme>
-<programme start="20260426193000 +0000" stop="20260426220000 +0000" channel="Sky Sport 4 HD.skyde">
-    <title>Live NBA: San Antonio Spurs @ Portland Trail Blazers, Playoffs, Runde 1, Spiel 4</title>
 </programme>
 <programme start="20260425220000 +0000" stop="20260426003000 +0000" channel="Sky Sport 6 HD.skyde">
     <title>Live NBA: New York Knicks @ Atlanta Hawks, Playoffs, Runde 1, Spiel 4</title>
