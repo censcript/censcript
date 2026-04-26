@@ -2474,7 +2474,7 @@ Warning: Undefined array key "et" in /usr/home/ManusiaBiasa/domains/manusiabiasa
 <programme start="20260426120000 +0000" stop="20260426122000 +0000" channel="Sky Sport Austria 2 HD.skyde">
     <title>Es folgt: Live Admiral Bundesliga</title>
 </programme>
-<programme start="20260426122000 +0000" stop="20260426151500 +0000" channel="Sky Sport Austria 2 HD.skyde">
+<programme start="20260426122000 +0000" stop="20260426144500 +0000" channel="Sky Sport Austria 2 HD.skyde">
     <title>Live Admiral BL: SK Rapid - FC Red Bull Salzburg, 29. Runde</title>
 </programme>
 <programme start="20260426120000 +0000" stop="20260426122000 +0000" channel="Sky Sport Austria 3 HD.skyde">
@@ -2486,10 +2486,10 @@ Warning: Undefined array key "et" in /usr/home/ManusiaBiasa/domains/manusiabiasa
 <programme start="20260426084000 +0000" stop="20260426090000 +0000" channel="Sky Sport Austria 4 HD.skyde">
     <title>Es folgt: LIVE ATP World Tour</title>
 </programme>
-<programme start="20260426090000 +0000" stop="20260426220000 +0000" channel="Sky Sport Austria 4 HD.skyde">
+<programme start="20260426090000 +0000" stop="20260427000000 +0000" channel="Sky Sport Austria 4 HD.skyde">
     <title>Live ATP &amp; WTA: Konferenz Mutua Madrid Open in Madrid (ESP), 6. Tag</title>
 </programme>
-<programme start="20260425224500 +0000" stop="20260425234500 +0000" channel="Sky Sport Bundesliga HD.skyde">
+<programme start="20260425225000 +0000" stop="20260425234500 +0000" channel="Sky Sport Bundesliga HD.skyde">
     <title>2. BL Alle Spiele, alle Tore: Die Vodafone Highlight-Show, 31. Spieltag, Samstag komplett</title>
 </programme>
 <programme start="20260425234500 +0000" stop="20260426014500 +0000" channel="Sky Sport Bundesliga HD.skyde">
@@ -2950,33 +2950,6 @@ Warning: Undefined array key "et" in /usr/home/ManusiaBiasa/domains/manusiabiasa
 </programme>
 <programme start="20260426214500 +0000" stop="20260426220000 +0000" channel="Sky Sport Premier League HD.skyde">
     <title>PL: Best Freekicks</title>
-</programme>
-<programme start="20260425220000 +0000" stop="20260425230000 +0000" channel="Sky Sport Tennis HD.skyde">
-    <title>ATP 500: Review Barcelona</title>
-</programme>
-<programme start="20260425230000 +0000" stop="20260426010000 +0000" channel="Sky Sport Tennis HD.skyde">
-    <title>WTA 1000: A. Sabalenka - J. Cristian (ROM), Mutua Madrid Open in Madrid (ESP), 5. Tag</title>
-</programme>
-<programme start="20260426010000 +0000" stop="20260426030000 +0000" channel="Sky Sport Tennis HD.skyde">
-    <title>ATP 1000: Topspiel, Mutua Madrid Open in Madrid (ESP), 5. Tag</title>
-</programme>
-<programme start="20260426030000 +0000" stop="20260426033000 +0000" channel="Sky Sport Tennis HD.skyde">
-    <title>ATP: This Week</title>
-</programme>
-<programme start="20260426033000 +0000" stop="20260426040000 +0000" channel="Sky Sport Tennis HD.skyde">
-    <title>WTA: All Access Magazine Show</title>
-</programme>
-<programme start="20260426040000 +0000" stop="20260426050000 +0000" channel="Sky Sport Tennis HD.skyde">
-    <title>ATP 500: Review München</title>
-</programme>
-<programme start="20260426050000 +0000" stop="20260426070000 +0000" channel="Sky Sport Tennis HD.skyde">
-    <title>WTA 1000: A. Sabalenka - J. Cristian (ROM), Mutua Madrid Open in Madrid (ESP), 5. Tag</title>
-</programme>
-<programme start="20260426070000 +0000" stop="20260426090000 +0000" channel="Sky Sport Tennis HD.skyde">
-    <title>ATP 1000: Topspiel, Mutua Madrid Open in Madrid (ESP), 5. Tag</title>
-</programme>
-<programme start="20260426090000 +0000" stop="20260426220000 +0000" channel="Sky Sport Tennis HD.skyde">
-    <title>Live ATP &amp; WTA: Konferenz Mutua Madrid Open in Madrid (ESP), 6. Tag</title>
 </programme>
 <programme start="20260425220000 +0000" stop="20260426003000 +0000" channel="Sky Sport Top Event HD.skyde">
     <title>Live NBA: New York Knicks @ Atlanta Hawks, Playoffs, Runde 1, Spiel 4</title>

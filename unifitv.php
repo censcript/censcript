@@ -15199,20 +15199,30 @@
     <desc lang="en">Top flight men's soccer returns in the ISUZU UTE A-League Men. Catch every moment on SPOTV NOW as 12 teams compete in the regular season with top 4 advancing to a single-game knockout.</desc>
     <category lang="en">Football</category>
   </programme>
-  <programme start="20260426093000 +0000" stop="20260426103000 +0000" channel="spotv.unifitv">
-    <title lang="en">Jim Nantz Remembers: Rory McIlroy's Masterpiece</title>
-    <desc lang="en">A look back at Rory McIlroy's historic Masters victory and career Grand Slam, featuring exclusive insights and a sit-down interview with Jim Nantz.</desc>
-    <category lang="en">Golf</category>
-  </programme>
-  <programme start="20260426103000 +0000" stop="20260426143000 +0000" channel="spotv.unifitv">
+  <programme start="20260426093000 +0000" stop="20260426120000 +0000" channel="spotv.unifitv">
     <title lang="en">(L) 2026 LET: Investec South African Women's Open - Day 4</title>
     <desc lang="en">Top women golfers compete on the Ladies European Tour in South Africa, showcasing skill, precision, and championship ambition in a prestigious international event.</desc>
     <category lang="en">Golf</category>
   </programme>
-  <programme start="20260426143000 +0000" stop="20260426153000 +0000" channel="spotv.unifitv">
+  <programme start="20260426120000 +0000" stop="20260426130000 +0000" channel="spotv.unifitv">
+    <title lang="en">Jim Nantz Remembers: Rory McIlroy's Masterpiece</title>
+    <desc lang="en">A look back at Rory McIlroy's historic Masters victory and career Grand Slam, featuring exclusive insights and a sit-down interview with Jim Nantz.</desc>
+    <category lang="en">Golf</category>
+  </programme>
+  <programme start="20260426130000 +0000" stop="20260426133000 +0000" channel="spotv.unifitv">
+    <title lang="en">Ras Al-Khaimah Half Marathon 2026 - Highlights</title>
+    <desc lang="en">Elite runners and passionate amateurs take on the fast, scenic course in Ras Al-Khaimah, showcasing speed, stamina, and determination in this world-class half marathon.</desc>
+    <category lang="en">Athletics </category>
+  </programme>
+  <programme start="20260426133000 +0000" stop="20260426143000 +0000" channel="spotv.unifitv">
     <title lang="en">2026 World Surf League Replay - Rip Curl Pro Bells Beach Finals Day</title>
     <desc lang="en">Be sure to catch the inspirational power of surfing through the 2026 WSL Championship Tour &amp; Challenger Series.</desc>
     <category lang="en">Surfing</category>
+  </programme>
+  <programme start="20260426143000 +0000" stop="20260426153000 +0000" channel="spotv.unifitv">
+    <title lang="en">2026 WorldSBK: Rd 3 Pirelli Dutch Round - Highlights</title>
+    <desc lang="en">The FIM Superbike World Championship is the leading production motorcycle racing series in the world with over 100 riders from more than 20 countries competing in various classes over 12 rounds.</desc>
+    <category lang="en">Motorsports</category>
   </programme>
   <programme start="20260426153000 +0000" stop="20260426170000 +0000" channel="spotv.unifitv">
     <title lang="en">2026 LIV Golf League, Mexico City - Highlights</title>
