@@ -481,6 +481,12 @@
 <programme start="20260426154500 +0000" stop="20260426163000 +0000" channel="Trans 7.vision">
 <title>The Police</title>
 </programme>
+<programme start="20260426163000 +0000" stop="20260426174500 +0000" channel="Trans 7.vision">
+<title>Cinta Yang Tersembunyi</title>
+</programme>
+<programme start="20260426174500 +0000" stop="20260426184500 +0000" channel="Trans 7.vision">
+<title>Moto2 2026 Spain GP</title>
+</programme>
 <programme start="20260426184500 +0000" stop="20260426190000 +0000" channel="Trans 7.vision">
 <title>Best Fishing</title>
 </programme>
@@ -564,6 +570,12 @@
 </programme>
 <programme start="20260426123000 +0000" stop="20260426150000 +0000" channel="ANTV.vision">
 <title>Serie A Liga Italia</title>
+</programme>
+<programme start="20260426150000 +0000" stop="20260426170000 +0000" channel="ANTV.vision">
+<title>Sumala</title>
+</programme>
+<programme start="20260426170000 +0000" stop="20260426183000 +0000" channel="ANTV.vision">
+<title>Kungfu Kids</title>
 </programme>
 <programme start="20260426183000 +0000" stop="20260426210000 +0000" channel="ANTV.vision">
 <title>Looking For Mister Perfect</title>
@@ -1484,17 +1496,5 @@
 <title>MDTV</title>
 </programme>
 <programme start="20260426000000 +0000" stop="20260426020000 +0000" channel="JTV.vision">
-<title>JTV</title>
-</programme>
-<programme start="20260426020000 +0000" stop="20260426040000 +0000" channel="JTV.vision">
-<title>JTV</title>
-</programme>
-<programme start="20260426040000 +0000" stop="20260426060000 +0000" channel="JTV.vision">
-<title>JTV</title>
-</programme>
-<programme start="20260426060000 +0000" stop="20260426080000 +0000" channel="JTV.vision">
-<title>JTV</title>
-</programme>
-<programme start="20260426080000 +0000" stop="20260426100000 +0000" channel="JTV.vision">
 <title>JTV</title>
 </programme>

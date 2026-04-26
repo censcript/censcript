@@ -2693,10 +2693,10 @@ Warning: Undefined array key "et" in /usr/home/ManusiaBiasa/domains/manusiabiasa
 <programme start="20260426110000 +0000" stop="20260426120000 +0000" channel="Sky Sport F1 HD.skyde">
     <title>WRC: Rally Islas Canarias - SS16 Santa Lucia - Agüimes 1</title>
 </programme>
-<programme start="20260426120000 +0000" stop="20260426133000 +0000" channel="Sky Sport F1 HD.skyde">
+<programme start="20260426120000 +0000" stop="20260426134000 +0000" channel="Sky Sport F1 HD.skyde">
     <title>Live WRC: Rally Islas Canarias - SS18 Santa Lucia - Agüimes 2 (Wolf Power Stage)</title>
 </programme>
-<programme start="20260426133000 +0000" stop="20260426141500 +0000" channel="Sky Sport F1 HD.skyde">
+<programme start="20260426134000 +0000" stop="20260426141500 +0000" channel="Sky Sport F1 HD.skyde">
     <title>WRC: More than Machine: Let the games begin</title>
 </programme>
 <programme start="20260426141500 +0000" stop="20260426150000 +0000" channel="Sky Sport F1 HD.skyde">
@@ -2735,7 +2735,7 @@ Warning: Undefined array key "et" in /usr/home/ManusiaBiasa/domains/manusiabiasa
 <programme start="20260426070000 +0000" stop="20260426090000 +0000" channel="Sky Sport Golf HD.skyde">
     <title>Golf: The Chevron Championship, 3. Tag in Houston, TX (USA)</title>
 </programme>
-<programme start="20260426090000 +0000" stop="20260426140000 +0000" channel="Sky Sport Golf HD.skyde">
+<programme start="20260426090000 +0000" stop="20260426120000 +0000" channel="Sky Sport Golf HD.skyde">
     <title>Live Golf Ladies ET: Investec South African Women&#039;s Open, 4. Tag in Kapstadt (Südafrika)</title>
 </programme>
 <programme start="20260426140000 +0000" stop="20260426141000 +0000" channel="Sky Sport Golf HD.skyde">
@@ -2743,9 +2743,6 @@ Warning: Undefined array key "et" in /usr/home/ManusiaBiasa/domains/manusiabiasa
 </programme>
 <programme start="20260426141000 +0000" stop="20260426143000 +0000" channel="Sky Sport Golf HD.skyde">
     <title>LIV Golf: Highlights Finaltag Mexiko City 2026</title>
-</programme>
-<programme start="20260426143000 +0000" stop="20260426173000 +0000" channel="Sky Sport Golf HD.skyde">
-    <title>Asian Tour: Singapore Open, 4. Tag auf Sentosa (Singapur)</title>
 </programme>
 <programme start="20260426173000 +0000" stop="20260426213000 +0000" channel="Sky Sport Golf HD.skyde">
     <title>Live Golf: The Chevron Championship, 4. Tag in Houston, TX (USA)</title>
@@ -2918,17 +2915,14 @@ Warning: Undefined array key "et" in /usr/home/ManusiaBiasa/domains/manusiabiasa
 <programme start="20260426102000 +0000" stop="20260426105000 +0000" channel="Sky Sport Premier League HD.skyde">
     <title>PL: 90in30: ARS - NEW, 34. Spieltag</title>
 </programme>
-<programme start="20260426105000 +0000" stop="20260426130000 +0000" channel="Sky Sport Premier League HD.skyde">
+<programme start="20260426105000 +0000" stop="20260426133500 +0000" channel="Sky Sport Premier League HD.skyde">
     <title>Live EFL: Coventry City - AFC Wrexham, 45. Spieltag</title>
 </programme>
-<programme start="20260426130000 +0000" stop="20260426133000 +0000" channel="Sky Sport Premier League HD.skyde">
+<programme start="20260426133500 +0000" stop="20260426140000 +0000" channel="Sky Sport Premier League HD.skyde">
     <title>PL: 90in30: LIV - CRY, 34. Spieltag</title>
 </programme>
-<programme start="20260426133000 +0000" stop="20260426153000 +0000" channel="Sky Sport Premier League HD.skyde">
+<programme start="20260426140000 +0000" stop="20260426160000 +0000" channel="Sky Sport Premier League HD.skyde">
     <title>EFL: Coventry City - AFC Wrexham, 45. Spieltag</title>
-</programme>
-<programme start="20260426153000 +0000" stop="20260426160000 +0000" channel="Sky Sport Premier League HD.skyde">
-    <title>PL: 90in30: ARS - NEW, 34. Spieltag</title>
 </programme>
 <programme start="20260426160000 +0000" stop="20260426163000 +0000" channel="Sky Sport Premier League HD.skyde">
     <title>PL: 90in30: FUL - AVL, 34. Spieltag</title>

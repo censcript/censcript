@@ -1,7 +1,3 @@
-<programme start="20260427000000 +0700" stop="20260427021000 +0700" channel="COSMOTE Sport 1 HD">
-    <title>Football: AEL Novibet - Panserraikos (L)</title>
-    <desc>Live: Ya</desc>
-</programme>
 <programme start="20260427021000 +0700" stop="20260427042500 +0700" channel="COSMOTE Sport 1 HD">
     <title>Football: Kifisia - Panetolikos</title>
     <desc>Live: Tidak</desc>
@@ -70,6 +66,10 @@
     <title>Football: FC Bayern Munchen - Real Madrid CF</title>
     <desc>Live: Tidak</desc>
 </programme>
+<programme start="20260428033000 +0700" stop="20260428053000 +0700" channel="COSMOTE Sport 1 HD">
+    <title>Football: Arsenal - Sporting CP</title>
+    <desc>Live: Tidak</desc>
+</programme>
 <programme start="20260427014500 +0700" stop="20260427034500 +0700" channel="COSMOTE Sport 2 HD">
     <title>Football: AC Milan - Juventus Football Club (L)</title>
     <desc>Live: Ya</desc>
@@ -126,8 +126,8 @@
     <title>Football: SS Lazio - Udinese (L)</title>
     <desc>Live: Ya</desc>
 </programme>
-<programme start="20260427020000 +0700" stop="20260427023000 +0700" channel="COSMOTE Sport 3 HD">
-    <title>UEFA Champions League Magazine 2024-25 E30</title>
+<programme start="20260428034500 +0700" stop="20260428055500 +0700" channel="COSMOTE Sport 2 HD">
+    <title>Football: OFI - Levadiakos</title>
     <desc>Live: Tidak</desc>
 </programme>
 <programme start="20260427023000 +0700" stop="20260427043000 +0700" channel="COSMOTE Sport 3 HD">
@@ -193,10 +193,6 @@
 <programme start="20260428025500 +0700" stop="20260428045000 +0700" channel="COSMOTE Sport 3 HD">
     <title>Football: Hibernian - Heart of Midlothian</title>
     <desc>Live: Tidak</desc>
-</programme>
-<programme start="20260427000000 +0700" stop="20260427030000 +0700" channel="COSMOTE Sport 4 HD">
-    <title>Basketball: Toronto Raptors - Cleveland Cavaliers (L)</title>
-    <desc>Live: Ya</desc>
 </programme>
 <programme start="20260427030000 +0700" stop="20260427033000 +0700" channel="COSMOTE Sport 4 HD">
     <title>NBA Action 2025-26 E3527</title>
@@ -358,6 +354,10 @@
     <title>WRC 2026</title>
     <desc>Live: Tidak</desc>
 </programme>
+<programme start="20260428031500 +0700" stop="20260428041500 +0700" channel="COSMOTE Sport 5 HD">
+    <title>Highlights: 2026 FIA World Championship</title>
+    <desc>Live: Tidak</desc>
+</programme>
 <programme start="20260427010000 +0700" stop="20260427053000 +0700" channel="COSMOTE Sport 6 HD">
     <title>Tennis: ATP Masters 1000 2026 (L)</title>
     <desc>Live: Ya</desc>
@@ -456,10 +456,6 @@
 </programme>
 <programme start="20260428020000 +0700" stop="20260428040000 +0700" channel="COSMOTE Sport 7 HD">
     <title>COSMOTESport7HD</title>
-    <desc>Live: Tidak</desc>
-</programme>
-<programme start="20260427020000 +0700" stop="20260427023000 +0700" channel="COSMOTE Sport 8 HD">
-    <title>COSMOTESport8HD</title>
     <desc>Live: Tidak</desc>
 </programme>
 <programme start="20260427023000 +0700" stop="20260427053000 +0700" channel="COSMOTE Sport 8 HD">
