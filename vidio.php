@@ -2405,16 +2405,16 @@
     <title lang="id">AVC Women's Champions League</title>
     <icon src="https://thumbor.prod.vidiocdn.com/NdmzqkxqnWVnlngtk_ObYNT-wiY=/287x162/filters:strip_icc():quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/image/206/moji-a5bd3e.jpg"/>
   </programme>
-  <programme channel="206" start="20260426134600 +0000" stop="20260426163000 +0000">
+  <programme channel="206" start="20260426134600 +0000" stop="20260426164700 +0000">
     <title lang="id">Gold Final Proliga 2026 Putra : Bhayangkara Presisi vs Lavani</title>
     <desc lang="id">Gold Final Proliga 2026 Putra : Bhayangkara Presisi vs Lavani</desc>
     <icon src="https://thumbor.prod.vidiocdn.com/NdmzqkxqnWVnlngtk_ObYNT-wiY=/287x162/filters:strip_icc():quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/image/206/moji-a5bd3e.jpg"/>
   </programme>
-  <programme channel="206" start="20260426163000 +0000" stop="20260426173000 +0000">
+  <programme channel="206" start="20260426164700 +0000" stop="20260426173000 +0000">
     <title lang="id">Harta Tahta Cinta</title>
     <icon src="https://thumbor.prod.vidiocdn.com/NdmzqkxqnWVnlngtk_ObYNT-wiY=/287x162/filters:strip_icc():quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/image/206/moji-a5bd3e.jpg"/>
   </programme>
-  <programme channel="206" start="20260426163000 +0000" stop="20260426173000 +0000">
+  <programme channel="206" start="20260426164700 +0000" stop="20260426173000 +0000">
     <title lang="id">Harta Tahta Cinta</title>
     <icon src="https://thumbor.prod.vidiocdn.com/NdmzqkxqnWVnlngtk_ObYNT-wiY=/287x162/filters:strip_icc():quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/image/206/moji-a5bd3e.jpg"/>
   </programme>

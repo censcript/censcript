@@ -2474,22 +2474,22 @@ Warning: Undefined array key "et" in /usr/home/ManusiaBiasa/domains/manusiabiasa
 <programme start="20260426120000 +0000" stop="20260426122000 +0000" channel="Sky Sport Austria 2 HD.skyde">
     <title>Es folgt: Live Admiral Bundesliga</title>
 </programme>
-<programme start="20260426122000 +0000" stop="20260426144500 +0000" channel="Sky Sport Austria 2 HD.skyde">
+<programme start="20260426122000 +0000" stop="20260426151500 +0000" channel="Sky Sport Austria 2 HD.skyde">
     <title>Live Admiral BL: SK Rapid - FC Red Bull Salzburg, 29. Runde</title>
 </programme>
 <programme start="20260426120000 +0000" stop="20260426122000 +0000" channel="Sky Sport Austria 3 HD.skyde">
     <title>Es folgt: Live Admiral Bundesliga</title>
 </programme>
-<programme start="20260426122000 +0000" stop="20260426151500 +0000" channel="Sky Sport Austria 3 HD.skyde">
+<programme start="20260426122000 +0000" stop="20260426144500 +0000" channel="Sky Sport Austria 3 HD.skyde">
     <title>Live Admiral BL: TSV Egger Glas Hartberg - LASK, 29. Runde</title>
 </programme>
 <programme start="20260426084000 +0000" stop="20260426090000 +0000" channel="Sky Sport Austria 4 HD.skyde">
     <title>Es folgt: LIVE ATP World Tour</title>
 </programme>
-<programme start="20260426090000 +0000" stop="20260426220000 +0000" channel="Sky Sport Austria 4 HD.skyde">
+<programme start="20260426090000 +0000" stop="20260427000000 +0000" channel="Sky Sport Austria 4 HD.skyde">
     <title>Live ATP &amp; WTA: Konferenz Mutua Madrid Open in Madrid (ESP), 6. Tag</title>
 </programme>
-<programme start="20260425224500 +0000" stop="20260425234500 +0000" channel="Sky Sport Bundesliga HD.skyde">
+<programme start="20260425225000 +0000" stop="20260425234500 +0000" channel="Sky Sport Bundesliga HD.skyde">
     <title>2. BL Alle Spiele, alle Tore: Die Vodafone Highlight-Show, 31. Spieltag, Samstag komplett</title>
 </programme>
 <programme start="20260425234500 +0000" stop="20260426014500 +0000" channel="Sky Sport Bundesliga HD.skyde">
@@ -2624,34 +2624,34 @@ Warning: Undefined array key "et" in /usr/home/ManusiaBiasa/domains/manusiabiasa
 <programme start="20260426160000 +0000" stop="20260426173000 +0000" channel="Sky Sport Bundesliga 1 HD.skyde">
     <title>Live BL: Sky90 - Die Fußballdebatte</title>
 </programme>
-<programme start="20260426173000 +0000" stop="20260426181500 +0000" channel="Sky Sport Bundesliga 1 HD.skyde">
+<programme start="20260426173000 +0000" stop="20260426184500 +0000" channel="Sky Sport Bundesliga 1 HD.skyde">
     <title>Live BL: Highlights XXL: BVB - SCF, 31. Spieltag</title>
 </programme>
 <programme start="20260426104000 +0000" stop="20260426110000 +0000" channel="Sky Sport Bundesliga 2 HD.skyde">
     <title>Es folgt: Live 2. Bundesliga</title>
 </programme>
-<programme start="20260426110000 +0000" stop="20260426133000 +0000" channel="Sky Sport Bundesliga 2 HD.skyde">
+<programme start="20260426110000 +0000" stop="20260426140000 +0000" channel="Sky Sport Bundesliga 2 HD.skyde">
     <title>Live 2. BL: SC Paderborn 07 - FC Schalke 04, 31. Spieltag</title>
 </programme>
-<programme start="20260426133000 +0000" stop="20260426153000 +0000" channel="Sky Sport Bundesliga 2 HD.skyde">
+<programme start="20260426140000 +0000" stop="20260426153000 +0000" channel="Sky Sport Bundesliga 2 HD.skyde">
     <title>Es folgt: Bundesliga</title>
 </programme>
 <programme start="20260426153000 +0000" stop="20260426173000 +0000" channel="Sky Sport Bundesliga 2 HD.skyde">
     <title>BL: VfB Stuttgart - Werder Bremen, 31. Spieltag</title>
 </programme>
-<programme start="20260426173000 +0000" stop="20260426193000 +0000" channel="Sky Sport Bundesliga 2 HD.skyde">
+<programme start="20260426173000 +0000" stop="20260426210000 +0000" channel="Sky Sport Bundesliga 2 HD.skyde">
     <title>BL: Borussia Dortmund - SC Freiburg, 31. Spieltag</title>
 </programme>
 <programme start="20260426104000 +0000" stop="20260426110000 +0000" channel="Sky Sport Bundesliga 3 HD.skyde">
     <title>Es folgt: Live 2. Bundesliga</title>
 </programme>
-<programme start="20260426110000 +0000" stop="20260426133000 +0000" channel="Sky Sport Bundesliga 3 HD.skyde">
+<programme start="20260426110000 +0000" stop="20260426140000 +0000" channel="Sky Sport Bundesliga 3 HD.skyde">
     <title>Live 2. BL: 1. FC Nürnberg - 1. FC Magdeburg, 31. Spieltag</title>
 </programme>
 <programme start="20260426104000 +0000" stop="20260426110000 +0000" channel="Sky Sport Bundesliga 4 HD.skyde">
     <title>Es folgt: Live 2. Bundesliga</title>
 </programme>
-<programme start="20260426110000 +0000" stop="20260426133000 +0000" channel="Sky Sport Bundesliga 4 HD.skyde">
+<programme start="20260426110000 +0000" stop="20260426140000 +0000" channel="Sky Sport Bundesliga 4 HD.skyde">
     <title>Live 2. BL: VfL Bochum - SpVgg Greuther Fürth, 31. Spieltag</title>
 </programme>
 <programme start="20260426104000 +0000" stop="20260426110000 +0000" channel="Sky Sport Bundesliga 5 HD.skyde">
@@ -2729,23 +2729,26 @@ Warning: Undefined array key "et" in /usr/home/ManusiaBiasa/domains/manusiabiasa
 <programme start="20260426020000 +0000" stop="20260426030000 +0000" channel="Sky Sport Golf HD.skyde">
     <title>PGA Championship: Official Film 2022 (Justin Thomas)</title>
 </programme>
-<programme start="20260426030000 +0000" stop="20260426070000 +0000" channel="Sky Sport Golf HD.skyde">
+<programme start="20260426030000 +0000" stop="20260426100000 +0000" channel="Sky Sport Golf HD.skyde">
     <title>Live Asian Tour: Singapore Open, 4. Tag auf Sentosa (Singapur)</title>
 </programme>
-<programme start="20260426070000 +0000" stop="20260426100000 +0000" channel="Sky Sport Golf HD.skyde">
-    <title>Golf: The Chevron Championship, 3. Tag in Houston, TX (USA)</title>
-</programme>
-<programme start="20260426100000 +0000" stop="20260426101000 +0000" channel="Sky Sport Golf HD.skyde">
-    <title>LIV Golf: Anthony Kim - Redemption</title>
-</programme>
-<programme start="20260426101000 +0000" stop="20260426103000 +0000" channel="Sky Sport Golf HD.skyde">
-    <title>LIV Golf: Highlights Finaltag Mexiko City 2026</title>
-</programme>
-<programme start="20260426103000 +0000" stop="20260426143000 +0000" channel="Sky Sport Golf HD.skyde">
+<programme start="20260426100000 +0000" stop="20260426120000 +0000" channel="Sky Sport Golf HD.skyde">
     <title>Live Golf Ladies ET: Investec South African Women&#039;s Open, 4. Tag in Kapstadt (Südafrika)</title>
 </programme>
+<programme start="20260426120000 +0000" stop="20260426130000 +0000" channel="Sky Sport Golf HD.skyde">
+    <title>PGA Championship: Official Film 2023 (Brooks Koepka)</title>
+</programme>
+<programme start="20260426130000 +0000" stop="20260426140000 +0000" channel="Sky Sport Golf HD.skyde">
+    <title>PGA Championship: Official Film 2024 (Xander Schauffele)</title>
+</programme>
+<programme start="20260426140000 +0000" stop="20260426141000 +0000" channel="Sky Sport Golf HD.skyde">
+    <title>LIV Golf: Anthony Kim - Redemption</title>
+</programme>
+<programme start="20260426141000 +0000" stop="20260426143000 +0000" channel="Sky Sport Golf HD.skyde">
+    <title>LIV Golf: Highlights Finaltag Mexiko City 2026</title>
+</programme>
 <programme start="20260426143000 +0000" stop="20260426173000 +0000" channel="Sky Sport Golf HD.skyde">
-    <title>Asian Tour: Singapore Open, 4. Tag auf Sentosa (Singapur)</title>
+    <title>Asian Tour: Singapore Open, 3. Tag auf Sentosa (Singapur)</title>
 </programme>
 <programme start="20260426173000 +0000" stop="20260426213000 +0000" channel="Sky Sport Golf HD.skyde">
     <title>Live Golf: The Chevron Championship, 4. Tag in Houston, TX (USA)</title>
