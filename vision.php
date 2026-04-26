@@ -397,9 +397,6 @@
 <programme start="20260426120000 +0000" stop="20260426131500 +0000" channel="Trans TV.vision">
 <title>Insert Story</title>
 </programme>
-<programme start="20260426131500 +0000" stop="20260426141500 +0000" channel="Trans TV.vision">
-<title>Highlight</title>
-</programme>
 <programme start="20260426141500 +0000" stop="20260426161500 +0000" channel="Trans TV.vision">
 <title>Bioskop Trans TV</title>
 </programme>
@@ -1497,4 +1494,7 @@
 </programme>
 <programme start="20260427110500 +0000" stop="20260427120000 +0000" channel="MDTV.vision">
 <title>MDTV</title>
+</programme>
+<programme start="20260426000000 +0000" stop="20260426020000 +0000" channel="JTV.vision">
+<title>JTV</title>
 </programme>

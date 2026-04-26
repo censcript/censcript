@@ -2486,7 +2486,7 @@ Warning: Undefined array key "et" in /usr/home/ManusiaBiasa/domains/manusiabiasa
 <programme start="20260426084000 +0000" stop="20260426090000 +0000" channel="Sky Sport Austria 4 HD.skyde">
     <title>Es folgt: LIVE ATP World Tour</title>
 </programme>
-<programme start="20260426090000 +0000" stop="20260427000000 +0000" channel="Sky Sport Austria 4 HD.skyde">
+<programme start="20260426090000 +0000" stop="20260426220000 +0000" channel="Sky Sport Austria 4 HD.skyde">
     <title>Live ATP &amp; WTA: Konferenz Mutua Madrid Open in Madrid (ESP), 6. Tag</title>
 </programme>
 <programme start="20260425224500 +0000" stop="20260425234500 +0000" channel="Sky Sport Bundesliga HD.skyde">
@@ -2657,7 +2657,7 @@ Warning: Undefined array key "et" in /usr/home/ManusiaBiasa/domains/manusiabiasa
 <programme start="20260426104000 +0000" stop="20260426110000 +0000" channel="Sky Sport Bundesliga 5 HD.skyde">
     <title>Es folgt: Live 2. Bundesliga</title>
 </programme>
-<programme start="20260426110000 +0000" stop="20260426133000 +0000" channel="Sky Sport Bundesliga 5 HD.skyde">
+<programme start="20260426110000 +0000" stop="20260426140000 +0000" channel="Sky Sport Bundesliga 5 HD.skyde">
     <title>Live 2. BL: Multiview 31. Spieltag, Sonntag</title>
 </programme>
 <programme start="20260425220000 +0000" stop="20260425230000 +0000" channel="Sky Sport F1 HD.skyde">
@@ -3029,7 +3029,7 @@ Warning: Undefined array key "et" in /usr/home/ManusiaBiasa/domains/manusiabiasa
 <programme start="20260425220000 +0000" stop="20260426003000 +0000" channel="Sky Sport 6 HD.skyde">
     <title>Live NBA: New York Knicks @ Atlanta Hawks, Playoffs, Runde 1, Spiel 4</title>
 </programme>
-<programme start="20260426003000 +0000" stop="20260426080000 +0000" channel="Sky Sport 6 HD.skyde">
+<programme start="20260426003000 +0000" stop="20260426020000 +0000" channel="Sky Sport 6 HD.skyde">
     <title>Live NBA: Showtime - Post Show</title>
 </programme>
 <programme start="20260426084000 +0000" stop="20260426090000 +0000" channel="Sky Sport 6 HD.skyde">

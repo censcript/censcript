@@ -74,6 +74,10 @@
     <title>Football: Real Betis Balompie - SC Braga</title>
     <desc>Live: Tidak</desc>
 </programme>
+<programme start="20260427213000 +0700" stop="20260427233000 +0700" channel="COSMOTE Sport 1 HD">
+    <title>Football: Liverpool FC - Paris Saint Germain</title>
+    <desc>Live: Tidak</desc>
+</programme>
 <programme start="20260426200000 +0700" stop="20260426220000 +0700" channel="COSMOTE Sport 2 HD">
     <title>Football: Genoa - Como (L)</title>
     <desc>Live: Ya</desc>
@@ -138,12 +142,8 @@
     <title>Football: SSC Napoli - Cremonese</title>
     <desc>Live: Tidak</desc>
 </programme>
-<programme start="20260426200000 +0700" stop="20260426203000 +0700" channel="COSMOTE Sport 3 HD">
-    <title>Sports Classics: My Sporting Moment</title>
-    <desc>Live: Tidak</desc>
-</programme>
-<programme start="20260426203000 +0700" stop="20260426210000 +0700" channel="COSMOTE Sport 3 HD">
-    <title>Sports Classics: Worldies E8</title>
+<programme start="20260427212000 +0700" stop="20260427232500 +0700" channel="COSMOTE Sport 2 HD">
+    <title>Football: ACF Fiorentina - Sassuolo</title>
     <desc>Live: Tidak</desc>
 </programme>
 <programme start="20260426210000 +0700" stop="20260426230000 +0700" channel="COSMOTE Sport 3 HD">
@@ -262,12 +262,8 @@
     <title>Basketball: Portland Trail Blazers - San Antonio Spurs</title>
     <desc>Live: Tidak</desc>
 </programme>
-<programme start="20260426183000 +0700" stop="20260426202000 +0700" channel="COSMOTE Sport 5 HD">
-    <title>Motorsports: MotoGP 2026 (L)</title>
-    <desc>Live: Ya</desc>
-</programme>
-<programme start="20260426202000 +0700" stop="20260426205000 +0700" channel="COSMOTE Sport 5 HD">
-    <title>Sports Classics: Worldies E10</title>
+<programme start="20260427210000 +0700" stop="20260427230000 +0700" channel="COSMOTE Sport 4 HD">
+    <title>Basketball: Valencia Basket Club - Real Madrid</title>
     <desc>Live: Tidak</desc>
 </programme>
 <programme start="20260426205000 +0700" stop="20260426212500 +0700" channel="COSMOTE Sport 5 HD">
@@ -374,13 +370,9 @@
     <title>ERC 2026 (L)</title>
     <desc>Live: Ya</desc>
 </programme>
-<programme start="20260426160000 +0700" stop="20260426203000 +0700" channel="COSMOTE Sport 6 HD">
-    <title>Tennis: ATP Masters 1000 2026 (L)</title>
-    <desc>Live: Ya</desc>
-</programme>
-<programme start="20260426203000 +0700" stop="20260426210000 +0700" channel="COSMOTE Sport 6 HD">
-    <title>Tennis: ATP Masters 1000 2026 (L)</title>
-    <desc>Live: Ya</desc>
+<programme start="20260427213000 +0700" stop="20260427220000 +0700" channel="COSMOTE Sport 5 HD">
+    <title>ERC 2026</title>
+    <desc>Live: Tidak</desc>
 </programme>
 <programme start="20260426210000 +0700" stop="20260426233000 +0700" channel="COSMOTE Sport 6 HD">
     <title>Tennis: Jannik Sinner - Elmer Moller (L)</title>
@@ -417,10 +409,6 @@
 <programme start="20260427200000 +0700" stop="20260427223000 +0700" channel="COSMOTE Sport 6 HD">
     <title>Premier Padel Tour 2026</title>
     <desc>Live: Tidak</desc>
-</programme>
-<programme start="20260426190000 +0700" stop="20260426210000 +0700" channel="COSMOTE Sport 7 HD">
-    <title>Premier Padel Tour 2026 (L)</title>
-    <desc>Live: Ya</desc>
 </programme>
 <programme start="20260426210000 +0700" stop="20260427000000 +0700" channel="COSMOTE Sport 7 HD">
     <title>Premier Padel Tour 2026 (L)</title>
@@ -481,14 +469,6 @@
 <programme start="20260427200000 +0700" stop="20260428003000 +0700" channel="COSMOTE Sport 7 HD">
     <title>Tennis: ATP Masters 1000 2026 (L)</title>
     <desc>Live: Ya</desc>
-</programme>
-<programme start="20260426190000 +0700" stop="20260426203500 +0700" channel="COSMOTE Sport 8 HD">
-    <title>WRC 2026 (L)</title>
-    <desc>Live: Ya</desc>
-</programme>
-<programme start="20260426203500 +0700" stop="20260426210000 +0700" channel="COSMOTE Sport 8 HD">
-    <title>COSMOTESport8HD</title>
-    <desc>Live: Tidak</desc>
 </programme>
 <programme start="20260426210000 +0700" stop="20260426230000 +0700" channel="COSMOTE Sport 8 HD">
     <title>Football: APOEL - Pafos FC (L)</title>
