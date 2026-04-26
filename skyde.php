@@ -2480,7 +2480,7 @@ Warning: Undefined array key "et" in /usr/home/ManusiaBiasa/domains/manusiabiasa
 <programme start="20260426120000 +0000" stop="20260426122000 +0000" channel="Sky Sport Austria 3 HD.skyde">
     <title>Es folgt: Live Admiral Bundesliga</title>
 </programme>
-<programme start="20260426122000 +0000" stop="20260426144500 +0000" channel="Sky Sport Austria 3 HD.skyde">
+<programme start="20260426122000 +0000" stop="20260426151500 +0000" channel="Sky Sport Austria 3 HD.skyde">
     <title>Live Admiral BL: TSV Egger Glas Hartberg - LASK, 29. Runde</title>
 </programme>
 <programme start="20260426084000 +0000" stop="20260426090000 +0000" channel="Sky Sport Austria 4 HD.skyde">
@@ -2729,26 +2729,20 @@ Warning: Undefined array key "et" in /usr/home/ManusiaBiasa/domains/manusiabiasa
 <programme start="20260426020000 +0000" stop="20260426030000 +0000" channel="Sky Sport Golf HD.skyde">
     <title>PGA Championship: Official Film 2022 (Justin Thomas)</title>
 </programme>
-<programme start="20260426030000 +0000" stop="20260426100000 +0000" channel="Sky Sport Golf HD.skyde">
+<programme start="20260426030000 +0000" stop="20260426083000 +0000" channel="Sky Sport Golf HD.skyde">
     <title>Live Asian Tour: Singapore Open, 4. Tag auf Sentosa (Singapur)</title>
 </programme>
-<programme start="20260426100000 +0000" stop="20260426120000 +0000" channel="Sky Sport Golf HD.skyde">
+<programme start="20260426083000 +0000" stop="20260426090000 +0000" channel="Sky Sport Golf HD.skyde">
+    <title>Golf: The Chevron Championship, 3. Tag in Houston, TX (USA)</title>
+</programme>
+<programme start="20260426090000 +0000" stop="20260426120000 +0000" channel="Sky Sport Golf HD.skyde">
     <title>Live Golf Ladies ET: Investec South African Women&#039;s Open, 4. Tag in Kapstadt (Südafrika)</title>
-</programme>
-<programme start="20260426120000 +0000" stop="20260426130000 +0000" channel="Sky Sport Golf HD.skyde">
-    <title>PGA Championship: Official Film 2023 (Brooks Koepka)</title>
-</programme>
-<programme start="20260426130000 +0000" stop="20260426140000 +0000" channel="Sky Sport Golf HD.skyde">
-    <title>PGA Championship: Official Film 2024 (Xander Schauffele)</title>
 </programme>
 <programme start="20260426140000 +0000" stop="20260426141000 +0000" channel="Sky Sport Golf HD.skyde">
     <title>LIV Golf: Anthony Kim - Redemption</title>
 </programme>
 <programme start="20260426141000 +0000" stop="20260426143000 +0000" channel="Sky Sport Golf HD.skyde">
     <title>LIV Golf: Highlights Finaltag Mexiko City 2026</title>
-</programme>
-<programme start="20260426143000 +0000" stop="20260426173000 +0000" channel="Sky Sport Golf HD.skyde">
-    <title>Asian Tour: Singapore Open, 3. Tag auf Sentosa (Singapur)</title>
 </programme>
 <programme start="20260426173000 +0000" stop="20260426213000 +0000" channel="Sky Sport Golf HD.skyde">
     <title>Live Golf: The Chevron Championship, 4. Tag in Houston, TX (USA)</title>
@@ -3032,7 +3026,7 @@ Warning: Undefined array key "et" in /usr/home/ManusiaBiasa/domains/manusiabiasa
 <programme start="20260425220000 +0000" stop="20260426003000 +0000" channel="Sky Sport 6 HD.skyde">
     <title>Live NBA: New York Knicks @ Atlanta Hawks, Playoffs, Runde 1, Spiel 4</title>
 </programme>
-<programme start="20260426003000 +0000" stop="20260426080000 +0000" channel="Sky Sport 6 HD.skyde">
+<programme start="20260426003000 +0000" stop="20260426020000 +0000" channel="Sky Sport 6 HD.skyde">
     <title>Live NBA: Showtime - Post Show</title>
 </programme>
 <programme start="20260426084000 +0000" stop="20260426090000 +0000" channel="Sky Sport 6 HD.skyde">
