@@ -2410,14 +2410,21 @@
     <desc lang="id">Gold Final Proliga 2026 Putra : Bhayangkara Presisi vs Lavani</desc>
     <icon src="https://thumbor.prod.vidiocdn.com/NdmzqkxqnWVnlngtk_ObYNT-wiY=/287x162/filters:strip_icc():quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/image/206/moji-a5bd3e.jpg"/>
   </programme>
-  <programme channel="206" start="20260426153500 +0000" stop="20260426181400 +0000">
-    <title lang="id">Delay AVC Women's Champions League 2026</title>
-    <desc lang="id">Delay AVC Women's Champions League 2026</desc>
+  <programme channel="206" start="20260426163000 +0000" stop="20260426173000 +0000">
+    <title lang="id">Harta Tahta Cinta</title>
     <icon src="https://thumbor.prod.vidiocdn.com/NdmzqkxqnWVnlngtk_ObYNT-wiY=/287x162/filters:strip_icc():quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/image/206/moji-a5bd3e.jpg"/>
   </programme>
-  <programme channel="206" start="20260426181400 +0000" stop="20260426195600 +0000">
-    <title lang="id">Rerun Proliga 2026</title>
+  <programme channel="206" start="20260426163000 +0000" stop="20260426173000 +0000">
+    <title lang="id">Harta Tahta Cinta</title>
+    <icon src="https://thumbor.prod.vidiocdn.com/NdmzqkxqnWVnlngtk_ObYNT-wiY=/287x162/filters:strip_icc():quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/image/206/moji-a5bd3e.jpg"/>
+  </programme>
+  <programme channel="206" start="20260426173000 +0000" stop="20260426183000 +0000">
+    <title lang="id">Rerun Proliga 2026 : Lavani vs Garuda Jaya</title>
     <desc lang="id">Rerun Proliga 2026</desc>
+    <icon src="https://thumbor.prod.vidiocdn.com/NdmzqkxqnWVnlngtk_ObYNT-wiY=/287x162/filters:strip_icc():quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/image/206/moji-a5bd3e.jpg"/>
+  </programme>
+  <programme channel="206" start="20260426183000 +0000" stop="20260426195600 +0000">
+    <title lang="id">Rerun Proliga 2026 : BJB vs Phonska</title>
     <icon src="https://thumbor.prod.vidiocdn.com/NdmzqkxqnWVnlngtk_ObYNT-wiY=/287x162/filters:strip_icc():quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/image/206/moji-a5bd3e.jpg"/>
   </programme>
   <programme channel="206" start="20260426195600 +0000" stop="20260426220000 +0000">
@@ -7432,7 +7439,7 @@
     <desc lang="id">Getafe vs Barcelona</desc>
     <icon src="https://thumbor.prod.vidiocdn.com/5yUHYfv_b1sZi7kdFElm8JqF2RY=/287x162/filters:strip_icc():quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/image/6299/bein-1-4bd997.jpg"/>
   </programme>
-  <programme channel="6299" start="20260426115500 +0000" stop="20260426140000 +0000">
+  <programme channel="6299" start="20260426115500 +0000" stop="20260426141000 +0000">
     <title lang="id">Rayo Vallecano vs Real Sociedad - LaLiga</title>
     <desc lang="id">Nonton streaming pertandingan seru Rayo Vallecano vs Real Sociedad - LaLiga. Saksikan aksi-aksi terbaik dari tim yang bersaing ketat untuk meraih kemenangan. Dapatkan informasi lengkap mengenai jadwal pertandingan dan hasil pertandingan terbaru hanya di Vidio.</desc>
     <icon src="https://thumbor.prod.vidiocdn.com/yG_dSQvR8WzSAPGZnhfQsybPsHU=/287x162/filters:strip_icc():quality(70)/vidio-media-production/uploads/livestreaming/schedule/thumbnail/5022126/da88db.jpg"/>
@@ -13152,16 +13159,16 @@
     <desc lang="id">Inside - Round 34</desc>
     <icon src="https://thumbor.prod.vidiocdn.com/nY0aFklpYf6yONLaFJjxhiSuthc=/287x162/filters:strip_icc():quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/image/6786/champions-tv-3-76ca7c.jpg"/>
   </programme>
-  <programme channel="6786" start="20260426153000 +0000" stop="20260426154500 +0000">
+  <programme channel="6786" start="20260426153000 +0000" stop="20260426154400 +0000">
     <title lang="id">Filler</title>
     <icon src="https://thumbor.prod.vidiocdn.com/nY0aFklpYf6yONLaFJjxhiSuthc=/287x162/filters:strip_icc():quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/image/6786/champions-tv-3-76ca7c.jpg"/>
   </programme>
-  <programme channel="6786" start="20260426154500 +0000" stop="20260426170000 +0000">
+  <programme channel="6786" start="20260426154400 +0000" stop="20260426170000 +0000">
     <title lang="id">TORINO vs INTER : Serie A 2025/26</title>
     <desc lang="id">TORINO vs INTER</desc>
     <icon src="https://thumbor.prod.vidiocdn.com/nY0aFklpYf6yONLaFJjxhiSuthc=/287x162/filters:strip_icc():quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/image/6786/champions-tv-3-76ca7c.jpg"/>
   </programme>
-  <programme channel="6786" start="20260426154500 +0000" stop="20260426170000 +0000">
+  <programme channel="6786" start="20260426154400 +0000" stop="20260426170000 +0000">
     <title lang="id">TORINO vs INTER : Serie A 2025/26</title>
     <desc lang="id">TORINO vs INTER</desc>
     <icon src="https://thumbor.prod.vidiocdn.com/nY0aFklpYf6yONLaFJjxhiSuthc=/287x162/filters:strip_icc():quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/image/6786/champions-tv-3-76ca7c.jpg"/>
@@ -15270,12 +15277,12 @@ dan komprehensif mengenai berbagai topik yang relevan dalam kehidupan sehari-har
     <desc lang="id">MATCH ROUND 01 &amp; ROUND 02</desc>
     <icon src="https://thumbor.prod.vidiocdn.com/xgkik6iws0EJ01bi5cJsIjYWjOM=/287x162/filters:strip_icc():quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/image/6686/champions-tv-2-681a27.jpg"/>
   </programme>
-  <programme channel="6686" start="20260426090000 +0000" stop="20260426150000 +0000">
+  <programme channel="6686" start="20260426090000 +0000" stop="20260426150800 +0000">
     <title lang="id">Day 5 - WTA 1000: Mutua Madrid Open 2026</title>
     <desc lang="id">Nonton streaming pertandingan seru Day 5 - WTA 1000: Mutua Madrid Open 2026. Saksikan aksi-aksi terbaik dari tim yang bersaing ketat untuk meraih kemenangan. Dapatkan informasi lengkap mengenai jadwal pertandingan dan hasil pertandingan terbaru hanya di Vidio.</desc>
     <icon src="https://thumbor.prod.vidiocdn.com/R7TEcQB_VtDPvLChcoOL_MTNvC0=/287x162/filters:strip_icc():quality(70)/vidio-media-production/uploads/livestreaming/schedule/thumbnail/5021553/c44826.jpg"/>
   </programme>
-  <programme channel="6686" start="20260426150000 +0000" stop="20260426160000 +0000">
+  <programme channel="6686" start="20260426150800 +0000" stop="20260426160000 +0000">
     <title lang="id">HIGHLIGHT : PORTUGUESE LEAGUE 2025/26</title>
     <desc lang="id">HIGHLIGHT</desc>
     <icon src="https://thumbor.prod.vidiocdn.com/xgkik6iws0EJ01bi5cJsIjYWjOM=/287x162/filters:strip_icc():quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/image/6686/champions-tv-2-681a27.jpg"/>
