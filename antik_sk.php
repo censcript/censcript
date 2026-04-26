@@ -4333,22 +4333,22 @@
   <programme start="20260428211500 +0000" stop="20260428222500 +0000" channel="Prima Love SK.webtv.sk">
     <title lang="id">Velmi křehké vztahy IV (21)</title>
   </programme>
-  <programme start="20260427215500 +0000" stop="20260427224000 +0000" channel="Prima Krimi SK.webtv.sk">
+  <programme start="20260427215000 +0000" stop="20260427223500 +0000" channel="Prima Krimi SK.webtv.sk">
     <title lang="id">Prvních 48 hodin XXII (4)</title>
   </programme>
-  <programme start="20260427224000 +0000" stop="20260427232000 +0000" channel="Prima Krimi SK.webtv.sk">
+  <programme start="20260427223500 +0000" stop="20260427231500 +0000" channel="Prima Krimi SK.webtv.sk">
     <title lang="id">Vraždy v Kitzbühelu IV (6)</title>
   </programme>
-  <programme start="20260427232000 +0000" stop="20260428000500 +0000" channel="Prima Krimi SK.webtv.sk">
+  <programme start="20260427231500 +0000" stop="20260428000000 +0000" channel="Prima Krimi SK.webtv.sk">
     <title lang="id">Vraždy v Kitzbühelu IV (7)</title>
   </programme>
-  <programme start="20260428000500 +0000" stop="20260428004500 +0000" channel="Prima Krimi SK.webtv.sk">
+  <programme start="20260428000000 +0000" stop="20260428004000 +0000" channel="Prima Krimi SK.webtv.sk">
     <title lang="id">Policie v akci</title>
   </programme>
-  <programme start="20260428004500 +0000" stop="20260428013000 +0000" channel="Prima Krimi SK.webtv.sk">
+  <programme start="20260428004000 +0000" stop="20260428012500 +0000" channel="Prima Krimi SK.webtv.sk">
     <title lang="id">Policie v akci</title>
   </programme>
-  <programme start="20260428013000 +0000" stop="20260428040000 +0000" channel="Prima Krimi SK.webtv.sk">
+  <programme start="20260428012500 +0000" stop="20260428040000 +0000" channel="Prima Krimi SK.webtv.sk">
     <title lang="id">Noční Praha</title>
   </programme>
   <programme start="20260428040000 +0000" stop="20260428042000 +0000" channel="Prima Krimi SK.webtv.sk">

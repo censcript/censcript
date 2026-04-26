@@ -2729,13 +2729,13 @@ Warning: Undefined array key "et" in /usr/home/ManusiaBiasa/domains/manusiabiasa
 <programme start="20260426020000 +0000" stop="20260426030000 +0000" channel="Sky Sport Golf HD.skyde">
     <title>PGA Championship: Official Film 2022 (Justin Thomas)</title>
 </programme>
-<programme start="20260426030000 +0000" stop="20260426083000 +0000" channel="Sky Sport Golf HD.skyde">
+<programme start="20260426030000 +0000" stop="20260426070000 +0000" channel="Sky Sport Golf HD.skyde">
     <title>Live Asian Tour: Singapore Open, 4. Tag auf Sentosa (Singapur)</title>
 </programme>
-<programme start="20260426083000 +0000" stop="20260426090000 +0000" channel="Sky Sport Golf HD.skyde">
+<programme start="20260426070000 +0000" stop="20260426090000 +0000" channel="Sky Sport Golf HD.skyde">
     <title>Golf: The Chevron Championship, 3. Tag in Houston, TX (USA)</title>
 </programme>
-<programme start="20260426090000 +0000" stop="20260426120000 +0000" channel="Sky Sport Golf HD.skyde">
+<programme start="20260426090000 +0000" stop="20260426140000 +0000" channel="Sky Sport Golf HD.skyde">
     <title>Live Golf Ladies ET: Investec South African Women&#039;s Open, 4. Tag in Kapstadt (Südafrika)</title>
 </programme>
 <programme start="20260426140000 +0000" stop="20260426141000 +0000" channel="Sky Sport Golf HD.skyde">
@@ -2743,6 +2743,9 @@ Warning: Undefined array key "et" in /usr/home/ManusiaBiasa/domains/manusiabiasa
 </programme>
 <programme start="20260426141000 +0000" stop="20260426143000 +0000" channel="Sky Sport Golf HD.skyde">
     <title>LIV Golf: Highlights Finaltag Mexiko City 2026</title>
+</programme>
+<programme start="20260426143000 +0000" stop="20260426173000 +0000" channel="Sky Sport Golf HD.skyde">
+    <title>Asian Tour: Singapore Open, 4. Tag auf Sentosa (Singapur)</title>
 </programme>
 <programme start="20260426173000 +0000" stop="20260426213000 +0000" channel="Sky Sport Golf HD.skyde">
     <title>Live Golf: The Chevron Championship, 4. Tag in Houston, TX (USA)</title>

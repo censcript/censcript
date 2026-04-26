@@ -7559,20 +7559,15 @@
     <desc lang="id">Valencia vs Girona</desc>
     <icon src="https://thumbor.prod.vidiocdn.com/5yUHYfv_b1sZi7kdFElm8JqF2RY=/287x162/filters:strip_icc():quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/image/6299/bein-1-4bd997.jpg"/>
   </programme>
-  <programme channel="6299" start="20260427165500 +0000" stop="20260427185500 +0000">
-    <title lang="id">Konyaspor vs Trabzonspor : Super Lig 2025/26</title>
-    <desc lang="id">Konyaspor vs Trabzonspor</desc>
-    <icon src="https://thumbor.prod.vidiocdn.com/5yUHYfv_b1sZi7kdFElm8JqF2RY=/287x162/filters:strip_icc():quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/image/6299/bein-1-4bd997.jpg"/>
+  <programme channel="6299" start="20260427170000 +0000" stop="20260427190000 +0000">
+    <title lang="id">Konyaspor vs Trabzonspor - Trendyol Super Lig</title>
+    <desc lang="id">Nonton streaming pertandingan seru Konyaspor vs Trabzonspor - Trendyol Super Lig. Saksikan aksi-aksi terbaik dari tim yang bersaing ketat untuk meraih kemenangan. Dapatkan informasi lengkap mengenai jadwal pertandingan dan hasil pertandingan terbaru hanya di Vidio.</desc>
+    <icon src="https://thumbor.prod.vidiocdn.com/cdurmU5Jf6NOKkI5j5pc17Rfgiw=/287x162/filters:strip_icc():quality(70)/vidio-media-production/uploads/livestreaming/schedule/thumbnail/5029769/d71928.jpg"/>
   </programme>
-  <programme channel="6299" start="20260427165500 +0000" stop="20260427185500 +0000">
-    <title lang="id">Konyaspor vs Trabzonspor : Super Lig 2025/26</title>
-    <desc lang="id">Konyaspor vs Trabzonspor</desc>
-    <icon src="https://thumbor.prod.vidiocdn.com/5yUHYfv_b1sZi7kdFElm8JqF2RY=/287x162/filters:strip_icc():quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/image/6299/bein-1-4bd997.jpg"/>
-  </programme>
-  <programme channel="6299" start="20260427185500 +0000" stop="20260427210000 +0000">
-    <title lang="id">Espanyol vs Levante : LaLiga 2025/26</title>
-    <desc lang="id">Espanyol vs Levante</desc>
-    <icon src="https://thumbor.prod.vidiocdn.com/5yUHYfv_b1sZi7kdFElm8JqF2RY=/287x162/filters:strip_icc():quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/image/6299/bein-1-4bd997.jpg"/>
+  <programme channel="6299" start="20260427190000 +0000" stop="20260427210000 +0000">
+    <title lang="id">Espanyol vs Levante - LaLiga</title>
+    <desc lang="id">Nonton streaming pertandingan seru Espanyol vs Levante - LaLiga. Saksikan aksi-aksi terbaik dari tim yang bersaing ketat untuk meraih kemenangan. Dapatkan informasi lengkap mengenai jadwal pertandingan dan hasil pertandingan terbaru hanya di Vidio.</desc>
+    <icon src="https://thumbor.prod.vidiocdn.com/h-8OHEcWCDDh7D6IK6gKjwrUsxA=/287x162/filters:strip_icc():quality(70)/vidio-media-production/uploads/livestreaming/schedule/thumbnail/5029770/1c7af6.jpg"/>
   </programme>
   <programme channel="6299" start="20260427210000 +0000" stop="20260427230000 +0000">
     <title lang="id">Osasuna vs Sevilla : LaLiga 2025/26</title>
@@ -8114,15 +8109,10 @@
     <desc lang="id">Bayern vs Inter (2010/11)</desc>
     <icon src="https://thumbor.prod.vidiocdn.com/xiN-u5MIG7jgOVE2tB_TUIynz7k=/287x162/filters:strip_icc():quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/image/6317/bein-3-616b1c.jpg"/>
   </programme>
-  <programme channel="6317" start="20260427165500 +0000" stop="20260427190000 +0000">
-    <title lang="id">Besiktas vs Karagumruk : Super Lig 2025/26</title>
-    <desc lang="id">Besiktas vs Karagumruk</desc>
-    <icon src="https://thumbor.prod.vidiocdn.com/xiN-u5MIG7jgOVE2tB_TUIynz7k=/287x162/filters:strip_icc():quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/image/6317/bein-3-616b1c.jpg"/>
-  </programme>
-  <programme channel="6317" start="20260427165500 +0000" stop="20260427190000 +0000">
-    <title lang="id">Besiktas vs Karagumruk : Super Lig 2025/26</title>
-    <desc lang="id">Besiktas vs Karagumruk</desc>
-    <icon src="https://thumbor.prod.vidiocdn.com/xiN-u5MIG7jgOVE2tB_TUIynz7k=/287x162/filters:strip_icc():quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/image/6317/bein-3-616b1c.jpg"/>
+  <programme channel="6317" start="20260427170000 +0000" stop="20260427190000 +0000">
+    <title lang="id">Besiktas vs Fatih Karagumruk - Trendyol Super Lig</title>
+    <desc lang="id">Nonton streaming pertandingan seru Besiktas vs Fatih Karagumruk - Trendyol Super Lig. Saksikan aksi-aksi terbaik dari tim yang bersaing ketat untuk meraih kemenangan. Dapatkan informasi lengkap mengenai jadwal pertandingan dan hasil pertandingan terbaru hanya di Vidio.</desc>
+    <icon src="https://thumbor.prod.vidiocdn.com/FljPsOdaVb20f9-KB9r0YUM9uxA=/287x162/filters:strip_icc():quality(70)/vidio-media-production/uploads/livestreaming/schedule/thumbnail/5029767/a6740e.jpg"/>
   </programme>
   <programme channel="6317" start="20260427190000 +0000" stop="20260427193000 +0000">
     <title lang="id">April : The Outdoor Sports Show 2026</title>
@@ -12727,12 +12717,12 @@
     <desc lang="id">Final - Melrose Claymores</desc>
     <icon src="https://thumbor.prod.vidiocdn.com/VmoYokSeKr_3SubUXC-rMC-EtQM=/287x162/filters:strip_icc():quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/image/17875/bein-2-25a5f9.jpg"/>
   </programme>
-  <programme channel="17875" start="20260426170000 +0000" stop="20260426190000 +0000">
+  <programme channel="17875" start="20260426170000 +0000" stop="20260426191000 +0000">
     <title lang="id">Galatasaray vs Fenerbahce - Trendyol Super Lig</title>
     <desc lang="id">Nonton streaming pertandingan seru Galatasaray vs Fenerbahce - Trendyol Super Lig. Saksikan aksi-aksi terbaik dari tim yang bersaing ketat untuk meraih kemenangan. Dapatkan informasi lengkap mengenai jadwal pertandingan dan hasil pertandingan terbaru hanya di Vidio.</desc>
     <icon src="https://thumbor.prod.vidiocdn.com/DaOVJoQ0V02ahTHJ-69MBGUctBE=/287x162/filters:strip_icc():quality(70)/vidio-media-production/uploads/livestreaming/schedule/thumbnail/5026334/b65a67.jpg"/>
   </programme>
-  <programme channel="17875" start="20260426190000 +0000" stop="20260426193000 +0000">
+  <programme channel="17875" start="20260426191000 +0000" stop="20260426193000 +0000">
     <title lang="id">Miami P1 : Premier Padel Highlights 2026</title>
     <desc lang="id">Miami P1</desc>
     <icon src="https://thumbor.prod.vidiocdn.com/VmoYokSeKr_3SubUXC-rMC-EtQM=/287x162/filters:strip_icc():quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/image/17875/bein-2-25a5f9.jpg"/>
@@ -13163,19 +13153,18 @@
     <title lang="id">Filler</title>
     <icon src="https://thumbor.prod.vidiocdn.com/nY0aFklpYf6yONLaFJjxhiSuthc=/287x162/filters:strip_icc():quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/image/6786/champions-tv-3-76ca7c.jpg"/>
   </programme>
-  <programme channel="6786" start="20260426154400 +0000" stop="20260426170000 +0000">
+  <programme channel="6786" start="20260426154400 +0000" stop="20260426175600 +0000">
     <title lang="id">TORINO vs INTER : Serie A 2025/26</title>
     <desc lang="id">TORINO vs INTER</desc>
     <icon src="https://thumbor.prod.vidiocdn.com/nY0aFklpYf6yONLaFJjxhiSuthc=/287x162/filters:strip_icc():quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/image/6786/champions-tv-3-76ca7c.jpg"/>
   </programme>
-  <programme channel="6786" start="20260426154400 +0000" stop="20260426170000 +0000">
+  <programme channel="6786" start="20260426154400 +0000" stop="20260426175600 +0000">
     <title lang="id">TORINO vs INTER : Serie A 2025/26</title>
     <desc lang="id">TORINO vs INTER</desc>
     <icon src="https://thumbor.prod.vidiocdn.com/nY0aFklpYf6yONLaFJjxhiSuthc=/287x162/filters:strip_icc():quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/image/6786/champions-tv-3-76ca7c.jpg"/>
   </programme>
-  <programme channel="6786" start="20260426170000 +0000" stop="20260426180000 +0000">
-    <title lang="id">TORINO vs INTER : Serie A 2025/26</title>
-    <desc lang="id">TORINO vs INTER</desc>
+  <programme channel="6786" start="20260426175600 +0000" stop="20260426180000 +0000">
+    <title lang="id">Filler</title>
     <icon src="https://thumbor.prod.vidiocdn.com/nY0aFklpYf6yONLaFJjxhiSuthc=/287x162/filters:strip_icc():quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/image/6786/champions-tv-3-76ca7c.jpg"/>
   </programme>
   <programme channel="6786" start="20260426180000 +0000" stop="20260426183000 +0000">
@@ -15377,15 +15366,10 @@ dan komprehensif mengenai berbagai topik yang relevan dalam kehidupan sehari-har
     <desc lang="id">MATCH ROUND 01 &amp; ROUND 02</desc>
     <icon src="https://thumbor.prod.vidiocdn.com/xgkik6iws0EJ01bi5cJsIjYWjOM=/287x162/filters:strip_icc():quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/image/6686/champions-tv-2-681a27.jpg"/>
   </programme>
-  <programme channel="6686" start="20260427170000 +0000" stop="20260427190000 +0000">
-    <title lang="id">MATCH 27 : WTA 1000 MUTUA MADRID OPEN</title>
-    <desc lang="id">MATCH 27</desc>
-    <icon src="https://thumbor.prod.vidiocdn.com/xgkik6iws0EJ01bi5cJsIjYWjOM=/287x162/filters:strip_icc():quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/image/6686/champions-tv-2-681a27.jpg"/>
-  </programme>
-  <programme channel="6686" start="20260427190000 +0000" stop="20260427210000 +0000">
-    <title lang="id">MATCH 28 : WTA 1000 MUTUA MADRID OPEN</title>
-    <desc lang="id">MATCH 28</desc>
-    <icon src="https://thumbor.prod.vidiocdn.com/xgkik6iws0EJ01bi5cJsIjYWjOM=/287x162/filters:strip_icc():quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/image/6686/champions-tv-2-681a27.jpg"/>
+  <programme channel="6686" start="20260427170000 +0000" stop="20260427210000 +0000">
+    <title lang="id">Day 6 - WTA 1000: Mutua Madrid Open 2026</title>
+    <desc lang="id">Nonton streaming pertandingan seru Day 6 - WTA 1000: Mutua Madrid Open 2026. Saksikan aksi-aksi terbaik dari tim yang bersaing ketat untuk meraih kemenangan. Dapatkan informasi lengkap mengenai jadwal pertandingan dan hasil pertandingan terbaru hanya di Vidio.</desc>
+    <icon src="https://thumbor.prod.vidiocdn.com/gW0oWnwbmbmevtNNo3Tad0f0FQM=/287x162/filters:strip_icc():quality(70)/vidio-media-production/uploads/livestreaming/schedule/thumbnail/5029768/4f48e7.jpg"/>
   </programme>
   <programme channel="6686" start="20260427210000 +0000" stop="20260427230000 +0000">
     <title lang="id">ROMA VS LECCE : SERIE A 2025/26</title>
@@ -17957,10 +17941,10 @@ dan komprehensif mengenai berbagai topik yang relevan dalam kehidupan sehari-har
     <desc lang="id">Show 29 Matchweek 34</desc>
     <icon src="https://thumbor.prod.vidiocdn.com/r_QaZubFaj9Ht_TI2kDgdImcRqY=/287x162/filters:strip_icc():quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/image/9182/champions-tv-5-e0dd48.jpg"/>
   </programme>
-  <programme channel="9182" start="20260427183000 +0000" stop="20260427210000 +0000">
-    <title lang="id">[LIVE] MANCHESTER UNITED vs BRENTFORD : [LIVE] PREMIER LEAGUE 2025/26</title>
-    <desc lang="id">MANCHESTER UNITED vs BRENTFORD</desc>
-    <icon src="https://thumbor.prod.vidiocdn.com/r_QaZubFaj9Ht_TI2kDgdImcRqY=/287x162/filters:strip_icc():quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/image/9182/champions-tv-5-e0dd48.jpg"/>
+  <programme channel="9182" start="20260427190000 +0000" stop="20260427210000 +0000">
+    <title lang="id">Man United vs Brentford - Premier League</title>
+    <desc lang="id">Nonton streaming pertandingan seru Man United vs Brentford - Premier League. Saksikan aksi-aksi terbaik dari tim yang bersaing ketat untuk meraih kemenangan. Dapatkan informasi lengkap mengenai jadwal pertandingan dan hasil pertandingan terbaru hanya di Vidio.</desc>
+    <icon src="https://thumbor.prod.vidiocdn.com/tLOVQwGT1AeZFXqt4uC-5BfxFPU=/287x162/filters:strip_icc():quality(70)/vidio-media-production/uploads/livestreaming/schedule/thumbnail/5029766/141696.jpg"/>
   </programme>
   <programme channel="9182" start="20260427210000 +0000" stop="20260427230000 +0000">
     <title lang="id">MANCHESTER CITY vs SOUTHAMPTON : FA CUP 2025/26</title>
@@ -22610,17 +22594,17 @@ dan komprehensif mengenai berbagai topik yang relevan dalam kehidupan sehari-har
     <desc lang="id">Be sure to catch the inspirational power of surfing through the 2026 WSL Championship Tour &amp; Challenger Series.</desc>
     <icon src="https://thumbor.prod.vidiocdn.com/YBK8XRc1cWJx0JfM3CWo6PnTfFY=/287x162/filters:strip_icc():quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/image/17139/spotv-c18c69.jpg"/>
   </programme>
-  <programme channel="17139" start="20260426152500 +0000" stop="20260426173000 +0000">
+  <programme channel="17139" start="20260426152500 +0000" stop="20260426173300 +0000">
     <title lang="id">Hibernian vs Hearts - Scottish Premiership</title>
     <desc lang="id">Nonton streaming pertandingan seru Hibernian vs Hearts - Scottish Premiership. Saksikan aksi-aksi terbaik dari tim yang bersaing ketat untuk meraih kemenangan. Dapatkan informasi lengkap mengenai jadwal pertandingan dan hasil pertandingan terbaru hanya di Vidio.</desc>
     <icon src="https://thumbor.prod.vidiocdn.com/kOOienMjmMm4ZUvTgfudw_xHva4=/287x162/filters:strip_icc():quality(70)/vidio-media-production/uploads/livestreaming/schedule/thumbnail/5022017/f05141.jpg"/>
   </programme>
-  <programme channel="17139" start="20260426152500 +0000" stop="20260426173000 +0000">
+  <programme channel="17139" start="20260426152500 +0000" stop="20260426173300 +0000">
     <title lang="id">Hibernian vs Hearts - Scottish Premiership</title>
     <desc lang="id">Nonton streaming pertandingan seru Hibernian vs Hearts - Scottish Premiership. Saksikan aksi-aksi terbaik dari tim yang bersaing ketat untuk meraih kemenangan. Dapatkan informasi lengkap mengenai jadwal pertandingan dan hasil pertandingan terbaru hanya di Vidio.</desc>
     <icon src="https://thumbor.prod.vidiocdn.com/kOOienMjmMm4ZUvTgfudw_xHva4=/287x162/filters:strip_icc():quality(70)/vidio-media-production/uploads/livestreaming/schedule/thumbnail/5022017/f05141.jpg"/>
   </programme>
-  <programme channel="17139" start="20260426173000 +0000" stop="20260426180000 +0000">
+  <programme channel="17139" start="20260426173300 +0000" stop="20260426180000 +0000">
     <title lang="id">Highlights : Ras Al-Khaimah Half Marathon 2026</title>
     <desc lang="id">Elite runners and passionate amateurs take on the fast, scenic course in Ras Al-Khaimah, showcasing speed, stamina, and determination in this world-class half marathon.</desc>
     <icon src="https://thumbor.prod.vidiocdn.com/YBK8XRc1cWJx0JfM3CWo6PnTfFY=/287x162/filters:strip_icc():quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/image/17139/spotv-c18c69.jpg"/>
