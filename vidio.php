@@ -7963,21 +7963,21 @@
     <desc lang="id">Kisah seorang inspektur yang terlibat dalam kisah percintaan segitiga.</desc>
     <icon src="https://thumbor.prod.vidiocdn.com/VMqJn9jawRecdbw5SSdxxTHN_88=/287x162/filters:strip_icc():quality(70)/vidio-media-production/uploads/tv_program/thumbnail/386704/218ebf.jpg"/>
   </programme>
-  <programme channel="782" start="20260426023000 +0000" stop="20260426060000 +0000">
+  <programme channel="782" start="20260426023000 +0000" stop="20260426054500 +0000">
     <title lang="id">Mega Bollywood: Chalte Chalte</title>
     <desc lang="id">Seorang pria mengejar seorang wanita yang sudah bertunangan dan akhirnya menikah dengannya. Perbedaan di antara keduanya berujung pada perpisahan pahit yang mengancam kehancuran hubungan mereka selamanya.</desc>
     <icon src="https://thumbor.prod.vidiocdn.com/w1Upp9S4GIlHwQsnMvoV4in9g30=/287x162/filters:strip_icc():quality(70)/vidio-media-production/uploads/livestreaming/schedule/thumbnail/5025214/5e186c.jpg"/>
   </programme>
-  <programme channel="782" start="20260426060000 +0000" stop="20260426075100 +0000">
+  <programme channel="782" start="20260426054500 +0000" stop="20260426075000 +0000">
     <title lang="id">Jhanak</title>
     <desc lang="id">Seorang wanita muda yang bersemangat memulai perjalanan untuk memenuhi janji seorang ibu demi kehidupan yang lebih baik sambil mengatasi tantangan dan kehilangan.</desc>
     <icon src="https://thumbor.prod.vidiocdn.com/SUYwxFYyiIA1pTEFUPlZWMFJn2k=/287x162/filters:strip_icc():quality(70)/vidio-media-production/uploads/livestreaming/schedule/thumbnail/5025204/27da60.jpg"/>
   </programme>
-  <programme channel="782" start="20260426075100 +0000" stop="20260426090000 +0000">
+  <programme channel="782" start="20260426075000 +0000" stop="20260426091500 +0000">
     <title lang="id">TERI DORIYAANN</title>
     <icon src="https://thumbor.prod.vidiocdn.com/k9vsqzNvIdcICxKFudiNjoSh3tk=/287x162/filters:strip_icc():quality(70)/vidio-media-production/uploads/livestreaming/schedule/thumbnail/5025218/624ad9.jpg"/>
   </programme>
-  <programme channel="782" start="20260426090000 +0000" stop="20260426110000 +0000">
+  <programme channel="782" start="20260426091500 +0000" stop="20260426110000 +0000">
     <title lang="id">Vasudha</title>
     <desc lang="id">Vasudha yang periang bergabung dengan rumah pemimpin bisnis Chandrika sebagai pembantu dan mendambakan persetujuannya meskipun ada perbedaan ideologis di antara mereka.</desc>
     <icon src="https://thumbor.prod.vidiocdn.com/WEcELFadyfOf2E4Ndret8XHP6OI=/287x162/filters:strip_icc():quality(70)/vidio-media-production/uploads/livestreaming/schedule/thumbnail/5025206/133d64.jpg"/>

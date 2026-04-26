@@ -2474,7 +2474,7 @@ Warning: Undefined array key "et" in /usr/home/ManusiaBiasa/domains/manusiabiasa
 <programme start="20260426120000 +0000" stop="20260426122000 +0000" channel="Sky Sport Austria 2 HD.skyde">
     <title>Es folgt: Live Admiral Bundesliga</title>
 </programme>
-<programme start="20260426122000 +0000" stop="20260426144500 +0000" channel="Sky Sport Austria 2 HD.skyde">
+<programme start="20260426122000 +0000" stop="20260426151500 +0000" channel="Sky Sport Austria 2 HD.skyde">
     <title>Live Admiral BL: SK Rapid - FC Red Bull Salzburg, 29. Runde</title>
 </programme>
 <programme start="20260426120000 +0000" stop="20260426122000 +0000" channel="Sky Sport Austria 3 HD.skyde">
@@ -2486,7 +2486,7 @@ Warning: Undefined array key "et" in /usr/home/ManusiaBiasa/domains/manusiabiasa
 <programme start="20260426084000 +0000" stop="20260426090000 +0000" channel="Sky Sport Austria 4 HD.skyde">
     <title>Es folgt: LIVE ATP World Tour</title>
 </programme>
-<programme start="20260426090000 +0000" stop="20260427000000 +0000" channel="Sky Sport Austria 4 HD.skyde">
+<programme start="20260426090000 +0000" stop="20260426220000 +0000" channel="Sky Sport Austria 4 HD.skyde">
     <title>Live ATP &amp; WTA: Konferenz Mutua Madrid Open in Madrid (ESP), 6. Tag</title>
 </programme>
 <programme start="20260425225000 +0000" stop="20260425234500 +0000" channel="Sky Sport Bundesliga HD.skyde">
@@ -3017,6 +3017,15 @@ Warning: Undefined array key "et" in /usr/home/ManusiaBiasa/domains/manusiabiasa
 <programme start="20260426213000 +0000" stop="20260426233000 +0000" channel="Sky Sport Top Event HD.skyde">
     <title>Live NHL: Colorado Avalanche @ Los Angeles Kings, Playoffs, 1. Runde, Spiel 4</title>
 </programme>
+<programme start="20260426162500 +0000" stop="20260426164500 +0000" channel="Sky Sport 4 HD.skyde">
+    <title>Es folgt: Live NBA</title>
+</programme>
+<programme start="20260426164500 +0000" stop="20260426193000 +0000" channel="Sky Sport 4 HD.skyde">
+    <title>Live NBA: Cleveland Cavaliers @ Toronto Raptors, Playoffs, Runde 1, Spiel 4</title>
+</programme>
+<programme start="20260426193000 +0000" stop="20260426220000 +0000" channel="Sky Sport 4 HD.skyde">
+    <title>Live NBA: San Antonio Spurs @ Portland Trail Blazers, Playoffs, Runde 1, Spiel 4</title>
+</programme>
 <programme start="20260425220000 +0000" stop="20260426003000 +0000" channel="Sky Sport 6 HD.skyde">
     <title>Live NBA: New York Knicks @ Atlanta Hawks, Playoffs, Runde 1, Spiel 4</title>
 </programme>
@@ -3026,7 +3035,7 @@ Warning: Undefined array key "et" in /usr/home/ManusiaBiasa/domains/manusiabiasa
 <programme start="20260426084000 +0000" stop="20260426090000 +0000" channel="Sky Sport 6 HD.skyde">
     <title>Es folgt: Live Tennis WTA Tour</title>
 </programme>
-<programme start="20260426090000 +0000" stop="20260426220000 +0000" channel="Sky Sport 6 HD.skyde">
+<programme start="20260426090000 +0000" stop="20260427000000 +0000" channel="Sky Sport 6 HD.skyde">
     <title>Live WTA 1000: Mutua Madrid Open in Madrid (ESP), 6. Tag</title>
 </programme>
 <programme start="20260425224000 +0000" stop="20260425232500 +0000" channel="SYFY HD.skyde">
