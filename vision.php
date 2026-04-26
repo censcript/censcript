@@ -475,9 +475,6 @@
 <programme start="20260426080000 +0000" stop="20260426090000 +0000" channel="Trans 7.vision">
 <title>Makan Receh</title>
 </programme>
-<programme start="20260426100000 +0000" stop="20260426110000 +0000" channel="Trans 7.vision">
-<title>Selebrita Update Satu Hati (L)</title>
-</programme>
 <programme start="20260426110000 +0000" stop="20260426114500 +0000" channel="Trans 7.vision">
 <title>POV (Pasti Obrolan Viral)</title>
 </programme>
@@ -1496,5 +1493,8 @@
 <title>MDTV</title>
 </programme>
 <programme start="20260427073000 +0000" stop="20260427085000 +0000" channel="MDTV.vision">
+<title>MDTV</title>
+</programme>
+<programme start="20260427085000 +0000" stop="20260427091500 +0000" channel="MDTV.vision">
 <title>MDTV</title>
 </programme>
