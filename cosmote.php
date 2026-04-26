@@ -390,7 +390,15 @@
     <title>Tennis: ATP Masters 1000 2026 (L)</title>
     <desc>Live: Ya</desc>
 </programme>
-<programme start="20260426203000 +0700" stop="20260427010000 +0700" channel="COSMOTE Sport 6 HD">
+<programme start="20260426203000 +0700" stop="20260426210000 +0700" channel="COSMOTE Sport 6 HD">
+    <title>Tennis: ATP Masters 1000 2026 (L)</title>
+    <desc>Live: Ya</desc>
+</programme>
+<programme start="20260426210000 +0700" stop="20260426233000 +0700" channel="COSMOTE Sport 6 HD">
+    <title>Tennis: Jannik Sinner - Elmer Moller (L)</title>
+    <desc>Live: Ya</desc>
+</programme>
+<programme start="20260426233000 +0700" stop="20260427010000 +0700" channel="COSMOTE Sport 6 HD">
     <title>Tennis: ATP Masters 1000 2026 (L)</title>
     <desc>Live: Ya</desc>
 </programme>

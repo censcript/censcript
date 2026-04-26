@@ -388,29 +388,8 @@
 <programme start="20260425233000 +0000" stop="20260426003000 +0000" channel="Trans TV.vision">
 <title>Insert Pagi (L)</title>
 </programme>
-<programme start="20260426003000 +0000" stop="20260426013000 +0000" channel="Trans TV.vision">
-<title>Kajian Hati</title>
-</programme>
-<programme start="20260426013000 +0000" stop="20260426033000 +0000" channel="Trans TV.vision">
-<title>Ambyar In Weekend</title>
-</programme>
 <programme start="20260426033000 +0000" stop="20260426043000 +0000" channel="Trans TV.vision">
 <title>Insert Siang</title>
-</programme>
-<programme start="20260426043000 +0000" stop="20260426053000 +0000" channel="Trans TV.vision">
-<title>Spill DD Tea</title>
-</programme>
-<programme start="20260426053000 +0000" stop="20260426070000 +0000" channel="Trans TV.vision">
-<title>Brownis On The Weekend</title>
-</programme>
-<programme start="20260426070000 +0000" stop="20260426080000 +0000" channel="Trans TV.vision">
-<title>Rumpi Hot Of The Week</title>
-</programme>
-<programme start="20260426080000 +0000" stop="20260426090000 +0000" channel="Trans TV.vision">
-<title>Insert Investigasi</title>
-</programme>
-<programme start="20260426090000 +0000" stop="20260426100000 +0000" channel="Trans TV.vision">
-<title>Sehari Jadi Ratu</title>
 </programme>
 <programme start="20260426100000 +0000" stop="20260426110000 +0000" channel="Trans TV.vision">
 <title>Bikin Laper</title>
@@ -475,9 +454,6 @@
 <programme start="20260426003000 +0000" stop="20260426013000 +0000" channel="Trans 7.vision">
 <title>Selebrita Pagi On The Weekend</title>
 </programme>
-<programme start="20260426013000 +0000" stop="20260426031500 +0000" channel="Trans 7.vision">
-<title>Bikin Seneng</title>
-</programme>
 <programme start="20260426031500 +0000" stop="20260426041500 +0000" channel="Trans 7.vision">
 <title>Obrolan Tiap Waktu</title>
 </programme>
@@ -498,9 +474,6 @@
 </programme>
 <programme start="20260426080000 +0000" stop="20260426090000 +0000" channel="Trans 7.vision">
 <title>Makan Receh</title>
-</programme>
-<programme start="20260426090000 +0000" stop="20260426100000 +0000" channel="Trans 7.vision">
-<title>Moto3 2026 Spain GP (L)</title>
 </programme>
 <programme start="20260426100000 +0000" stop="20260426110000 +0000" channel="Trans 7.vision">
 <title>Selebrita Update Satu Hati (L)</title>
@@ -597,9 +570,6 @@
 </programme>
 <programme start="20260426003000 +0000" stop="20260426023000 +0000" channel="ANTV.vision">
 <title>Janji Inspektur Virat</title>
-</programme>
-<programme start="20260426023000 +0000" stop="20260426060000 +0000" channel="ANTV.vision">
-<title>Chalte Chalte</title>
 </programme>
 <programme start="20260426060000 +0000" stop="20260426080000 +0000" channel="ANTV.vision">
 <title>Jhanak</title>
@@ -1496,5 +1466,35 @@
 <title>MDTV</title>
 </programme>
 <programme start="20260426210500 +0000" stop="20260426221500 +0000" channel="MDTV.vision">
+<title>MDTV</title>
+</programme>
+<programme start="20260426221500 +0000" stop="20260426231000 +0000" channel="MDTV.vision">
+<title>MDTV</title>
+</programme>
+<programme start="20260426231000 +0000" stop="20260426235000 +0000" channel="MDTV.vision">
+<title>MDTV</title>
+</programme>
+<programme start="20260426235000 +0000" stop="20260427010500 +0000" channel="MDTV.vision">
+<title>MDTV</title>
+</programme>
+<programme start="20260427010500 +0000" stop="20260427015500 +0000" channel="MDTV.vision">
+<title>MDTV</title>
+</programme>
+<programme start="20260427015500 +0000" stop="20260427025500 +0000" channel="MDTV.vision">
+<title>MDTV</title>
+</programme>
+<programme start="20260427025500 +0000" stop="20260427044500 +0000" channel="MDTV.vision">
+<title>MDTV</title>
+</programme>
+<programme start="20260427044500 +0000" stop="20260427060000 +0000" channel="MDTV.vision">
+<title>MDTV</title>
+</programme>
+<programme start="20260427060000 +0000" stop="20260427063000 +0000" channel="MDTV.vision">
+<title>MDTV</title>
+</programme>
+<programme start="20260427063000 +0000" stop="20260427073000 +0000" channel="MDTV.vision">
+<title>MDTV</title>
+</programme>
+<programme start="20260427073000 +0000" stop="20260427085000 +0000" channel="MDTV.vision">
 <title>MDTV</title>
 </programme>
