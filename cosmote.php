@@ -1,11 +1,3 @@
-<programme start="20260427021000 +0700" stop="20260427042500 +0700" channel="COSMOTE Sport 1 HD">
-    <title>Football: Kifisia - Panetolikos</title>
-    <desc>Live: Tidak</desc>
-</programme>
-<programme start="20260427042500 +0700" stop="20260427045500 +0700" channel="COSMOTE Sport 1 HD">
-    <title>UEFA Champions League Magazine 2024-25 E30</title>
-    <desc>Live: Tidak</desc>
-</programme>
 <programme start="20260427045500 +0700" stop="20260427070000 +0700" channel="COSMOTE Sport 1 HD">
     <title>Football: FC Bayern Munchen - Real Madrid CF</title>
     <desc>Live: Tidak</desc>
@@ -70,6 +62,10 @@
     <title>Football: Arsenal - Sporting CP</title>
     <desc>Live: Tidak</desc>
 </programme>
+<programme start="20260428053000 +0700" stop="20260428060000 +0700" channel="COSMOTE Sport 1 HD">
+    <title>UEFA Champions League Magazine 2024-25 E30</title>
+    <desc>Live: Tidak</desc>
+</programme>
 <programme start="20260427034500 +0700" stop="20260427055500 +0700" channel="COSMOTE Sport 2 HD">
     <title>Football: AEL Novibet - Panserraikos</title>
     <desc>Live: Tidak</desc>
@@ -126,9 +122,9 @@
     <title>Football: OFI - Levadiakos</title>
     <desc>Live: Tidak</desc>
 </programme>
-<programme start="20260427023000 +0700" stop="20260427043000 +0700" channel="COSMOTE Sport 3 HD">
-    <title>Football: AVS Futebol - Sporting CP (L)</title>
-    <desc>Live: Ya</desc>
+<programme start="20260428055500 +0700" stop="20260428063000 +0700" channel="COSMOTE Sport 2 HD">
+    <title>Sports Classics: Ultimate Rush S2 E3</title>
+    <desc>Live: Tidak</desc>
 </programme>
 <programme start="20260427043000 +0700" stop="20260427053000 +0700" channel="COSMOTE Sport 3 HD">
     <title>UEL &amp; UECL Magazine 2025-26 E18</title>
@@ -194,6 +190,14 @@
     <title>UEFA Youth League Show</title>
     <desc>Live: Tidak</desc>
 </programme>
+<programme start="20260428052000 +0700" stop="20260428054000 +0700" channel="COSMOTE Sport 3 HD">
+    <title>William Hill Scottish Premiership - Highlights</title>
+    <desc>Live: Tidak</desc>
+</programme>
+<programme start="20260428054000 +0700" stop="20260428073500 +0700" channel="COSMOTE Sport 3 HD">
+    <title>Football: Manchester City FC - Southampton</title>
+    <desc>Live: Tidak</desc>
+</programme>
 <programme start="20260427033000 +0700" stop="20260427053000 +0700" channel="COSMOTE Sport 4 HD">
     <title>Basketball: Anadolu Efes - Turk Telekom</title>
     <desc>Live: Tidak</desc>
@@ -244,10 +248,6 @@
 </programme>
 <programme start="20260428040500 +0700" stop="20260428061000 +0700" channel="COSMOTE Sport 4 HD">
     <title>Basketball: Manisa Basket - Fenerbahce</title>
-    <desc>Live: Tidak</desc>
-</programme>
-<programme start="20260427031000 +0700" stop="20260427045000 +0700" channel="COSMOTE Sport 5 HD">
-    <title>Motorsports: MotoGP 2026</title>
     <desc>Live: Tidak</desc>
 </programme>
 <programme start="20260427045000 +0700" stop="20260427053500 +0700" channel="COSMOTE Sport 5 HD">
@@ -356,6 +356,10 @@
 </programme>
 <programme start="20260428041500 +0700" stop="20260428053000 +0700" channel="COSMOTE Sport 5 HD">
     <title>2026 Grand Prix Show</title>
+    <desc>Live: Tidak</desc>
+</programme>
+<programme start="20260428053000 +0700" stop="20260428063000 +0700" channel="COSMOTE Sport 5 HD">
+    <title>WRC 2026</title>
     <desc>Live: Tidak</desc>
 </programme>
 <programme start="20260427010000 +0700" stop="20260427053000 +0700" channel="COSMOTE Sport 6 HD">

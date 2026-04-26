@@ -15627,19 +15627,14 @@ dan komprehensif mengenai berbagai topik yang relevan dalam kehidupan sehari-har
     <desc lang="id">MATCH ROUND 01 &amp; ROUND 02</desc>
     <icon src="https://thumbor.prod.vidiocdn.com/xgkik6iws0EJ01bi5cJsIjYWjOM=/287x162/filters:strip_icc():quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/image/6686/champions-tv-2-681a27.jpg"/>
   </programme>
-  <programme channel="6686" start="20260426180000 +0000" stop="20260426220000 +0000">
+  <programme channel="6686" start="20260426180000 +0000" stop="20260426215700 +0000">
     <title lang="id">Day 5 - WTA 1000: Mutua Madrid Open 2026</title>
     <desc lang="id">Nonton streaming pertandingan seru Day 5 - WTA 1000: Mutua Madrid Open 2026. Saksikan aksi-aksi terbaik dari tim yang bersaing ketat untuk meraih kemenangan. Dapatkan informasi lengkap mengenai jadwal pertandingan dan hasil pertandingan terbaru hanya di Vidio.</desc>
     <icon src="https://thumbor.prod.vidiocdn.com/p0WkehNdmDXeRR4xssV-9Cv1PHs=/287x162/filters:strip_icc():quality(70)/vidio-media-production/uploads/livestreaming/schedule/thumbnail/5027481/89e2c6.jpg"/>
   </programme>
-  <programme channel="6686" start="20260426220000 +0000" stop="20260426233000 +0000">
+  <programme channel="6686" start="20260426215700 +0000" stop="20260427000000 +0000">
     <title lang="id">JUVENTUS VS SASSUOLO : SERIE A 2025/26</title>
     <desc lang="id">JUVENTUS VS SASSUOLO</desc>
-    <icon src="https://thumbor.prod.vidiocdn.com/xgkik6iws0EJ01bi5cJsIjYWjOM=/287x162/filters:strip_icc():quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/image/6686/champions-tv-2-681a27.jpg"/>
-  </programme>
-  <programme channel="6686" start="20260426233000 +0000" stop="20260427000000 +0000">
-    <title lang="id">EPS 02 : MXGP BEHIND THE GATE 2026</title>
-    <desc lang="id">EPS 02</desc>
     <icon src="https://thumbor.prod.vidiocdn.com/xgkik6iws0EJ01bi5cJsIjYWjOM=/287x162/filters:strip_icc():quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/image/6686/champions-tv-2-681a27.jpg"/>
   </programme>
   <programme channel="6686" start="20260427000000 +0000" stop="20260427010000 +0000">
