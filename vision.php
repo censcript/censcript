@@ -394,9 +394,6 @@
 <programme start="20260426100000 +0000" stop="20260426110000 +0000" channel="Trans TV.vision">
 <title>Bikin Laper</title>
 </programme>
-<programme start="20260426110000 +0000" stop="20260426120000 +0000" channel="Trans TV.vision">
-<title>Monitor Ketua</title>
-</programme>
 <programme start="20260426120000 +0000" stop="20260426131500 +0000" channel="Trans TV.vision">
 <title>Insert Story</title>
 </programme>
@@ -477,9 +474,6 @@
 </programme>
 <programme start="20260426110000 +0000" stop="20260426114500 +0000" channel="Trans 7.vision">
 <title>POV (Pasti Obrolan Viral)</title>
-</programme>
-<programme start="20260426114500 +0000" stop="20260426130000 +0000" channel="Trans 7.vision">
-<title>MotoGP 2026 Spain</title>
 </programme>
 <programme start="20260426130000 +0000" stop="20260426143000 +0000" channel="Trans 7.vision">
 <title>Arisan</title>
@@ -576,9 +570,6 @@
 </programme>
 <programme start="20260426090000 +0000" stop="20260426110000 +0000" channel="ANTV.vision">
 <title>Vasudha</title>
-</programme>
-<programme start="20260426110000 +0000" stop="20260426123000 +0000" channel="ANTV.vision">
-<title>Sangkuriang</title>
 </programme>
 <programme start="20260426123000 +0000" stop="20260426150000 +0000" channel="ANTV.vision">
 <title>Serie A Liga Italia</title>
@@ -1496,5 +1487,14 @@
 <title>MDTV</title>
 </programme>
 <programme start="20260427085000 +0000" stop="20260427091500 +0000" channel="MDTV.vision">
+<title>MDTV</title>
+</programme>
+<programme start="20260427091500 +0000" stop="20260427101500 +0000" channel="MDTV.vision">
+<title>MDTV</title>
+</programme>
+<programme start="20260427101500 +0000" stop="20260427110500 +0000" channel="MDTV.vision">
+<title>MDTV</title>
+</programme>
+<programme start="20260427110500 +0000" stop="20260427120000 +0000" channel="MDTV.vision">
 <title>MDTV</title>
 </programme>

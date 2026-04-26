@@ -17041,19 +17041,19 @@
   <programme start="20260428070000 +0000" stop="20260428080000 +0000" channel="TVP Info.webtv.sk">
     <title lang="id">Serwis Info Poranek</title>
   </programme>
-  <programme start="20260428080000 +0000" stop="20260428082200 +0000" channel="TVP Info.webtv.sk">
+  <programme start="20260428080000 +0000" stop="20260428082300 +0000" channel="TVP Info.webtv.sk">
     <title lang="id">Serwis Info Dzien</title>
   </programme>
-  <programme start="20260428082200 +0000" stop="20260428083000 +0000" channel="TVP Info.webtv.sk">
+  <programme start="20260428082300 +0000" stop="20260428083000 +0000" channel="TVP Info.webtv.sk">
     <title lang="id">Pogoda Info</title>
   </programme>
   <programme start="20260428083000 +0000" stop="20260428090000 +0000" channel="TVP Info.webtv.sk">
     <title lang="id">Serwis Info Dzien</title>
   </programme>
-  <programme start="20260428090000 +0000" stop="20260428092300 +0000" channel="TVP Info.webtv.sk">
+  <programme start="20260428090000 +0000" stop="20260428092200 +0000" channel="TVP Info.webtv.sk">
     <title lang="id">Serwis Info Dzien</title>
   </programme>
-  <programme start="20260428092300 +0000" stop="20260428093000 +0000" channel="TVP Info.webtv.sk">
+  <programme start="20260428092200 +0000" stop="20260428093000 +0000" channel="TVP Info.webtv.sk">
     <title lang="id">Pogoda Info</title>
   </programme>
   <programme start="20260428093000 +0000" stop="20260428095500 +0000" channel="TVP Info.webtv.sk">
@@ -17083,10 +17083,10 @@
   <programme start="20260428125300 +0000" stop="20260428130000 +0000" channel="TVP Info.webtv.sk">
     <title lang="id">Pogoda Info</title>
   </programme>
-  <programme start="20260428130000 +0000" stop="20260428132300 +0000" channel="TVP Info.webtv.sk">
+  <programme start="20260428130000 +0000" stop="20260428132200 +0000" channel="TVP Info.webtv.sk">
     <title lang="id">Serwis Info Dzien</title>
   </programme>
-  <programme start="20260428132300 +0000" stop="20260428133000 +0000" channel="TVP Info.webtv.sk">
+  <programme start="20260428132200 +0000" stop="20260428133000 +0000" channel="TVP Info.webtv.sk">
     <title lang="id">Pogoda Info</title>
   </programme>
   <programme start="20260428133000 +0000" stop="20260428134500 +0000" channel="TVP Info.webtv.sk">
