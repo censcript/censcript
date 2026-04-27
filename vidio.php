@@ -812,17 +812,17 @@
     <desc lang="id">Mega Film Asia Adalah Program Yang Memutarkan Film-Film Asia Yang Ditayangkan Di Indosiar. Acara Ini Ditayangkan Perdana Pada Tahun 1996 Silam.</desc>
     <icon src="https://thumbor.prod.vidiocdn.com/Dh1vrcg1dDMP_zMebzqztwwvq1I=/287x162/filters:strip_icc():quality(70)/vidio-media-production/uploads/livestreaming/schedule/thumbnail/5028247/b80c8b.jpg"/>
   </programme>
-  <programme channel="205" start="20260427200000 +0000" stop="20260427213000 +0000">
+  <programme channel="205" start="20260427200000 +0000" stop="20260427212000 +0000">
     <title lang="id">Mega Film Asia : The 36Th Chamber Of Shaolin</title>
     <desc lang="id">Mega Film Asia Adalah Program Yang Memutarkan Film-Film Asia Yang Ditayangkan Di Indosiar. Acara Ini Ditayangkan Perdana Pada Tahun 1996 Silam.</desc>
     <icon src="https://thumbor.prod.vidiocdn.com/zAAlA09D5kMV_Pxe0OE9vm7mHUk=/287x162/filters:strip_icc():quality(70)/vidio-media-production/uploads/livestreaming/schedule/thumbnail/5028248/58142e.jpg"/>
   </programme>
-  <programme channel="205" start="20260427213000 +0000" stop="20260427230000 +0000">
+  <programme channel="205" start="20260427212000 +0000" stop="20260427223200 +0000">
     <title lang="id">Fokus Pagi</title>
     <desc lang="id">Berita Lengkap dan Terkini Dari Dalam dan Luar Negeri Seputar Isu Politik, Ekonomi, Hukum, Kriminal, Sosial Budaya, Olahraga, dan Lain-Lain.</desc>
     <icon src="https://thumbor.prod.vidiocdn.com/cBZL7ITaJCof6cqtayFee2uJCX8=/287x162/filters:strip_icc():quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/image/205/indosiar-d9a3d0.jpg"/>
   </programme>
-  <programme channel="205" start="20260427230000 +0000" stop="20260428000000 +0000">
+  <programme channel="205" start="20260427223200 +0000" stop="20260428000000 +0000">
     <title lang="id">Merangkai Kisah Indah</title>
     <desc lang="id">Mega Series Terbaru Raden Rakha dan Basmalah Gralind Di Indosiar "Merangkai Kisah Indah" Tayang Setiap Hari, Mulai Senin, 14 Juli 2025 Pukul 17:00 WIB. Kisah Derita Mutiara Yang Mencari Orangtua Kandungnya Karena Sewaktu Bayi Ditukar Oleh Ibu Angkatnya. Nasib Membawa Dirinya Bertemu Dengan Keluarga Yang Tanpa Dia Ketahui Adalah Orangtua Kandungnya dan Juga Bertemu Kenzo. Apakah Kenzo dan Mutiara Akan Berjodoh? Dibintangi Raden Rakha, Basmalah Gralind, Panji Saputra, Tsania Marwa, Gita Sinaga, Vayala Maulidina, Washifa, Haura Lathifa, dan Emiliano Cortizo. Saksikan Mega Series Terbaru Indosiar : Merangkai Kisah Indah, Tayang Setiap Hari, Mulai Senin, 14 Juli 2025 Pukul 17:00 WIB Hanya Di Indosiar.</desc>
     <icon src="https://thumbor.prod.vidiocdn.com/WIl2jiaTLEzHnNAo61AGzfdEXh8=/287x162/filters:strip_icc():quality(70)/vidio-media-production/uploads/tv_program/thumbnail/389747/fc3ce1.jpg"/>
@@ -8891,12 +8891,12 @@
     <desc lang="id">TORINO vs INTER</desc>
     <icon src="https://thumbor.prod.vidiocdn.com/edoqRinFCRhrRwQ2ngcXacb_q74=/287x162/filters:strip_icc():quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/image/6685/champions-tv-1-54e282.jpg"/>
   </programme>
-  <programme channel="6685" start="20260427005900 +0000" stop="20260427030000 +0000">
+  <programme channel="6685" start="20260427005900 +0000" stop="20260427025700 +0000">
     <title lang="id">MILAN vs JUVENTUS : Serie A 2025/26</title>
     <desc lang="id">MILAN vs JUVENTUS</desc>
     <icon src="https://thumbor.prod.vidiocdn.com/edoqRinFCRhrRwQ2ngcXacb_q74=/287x162/filters:strip_icc():quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/image/6685/champions-tv-1-54e282.jpg"/>
   </programme>
-  <programme channel="6685" start="20260427030000 +0000" stop="20260427050000 +0000">
+  <programme channel="6685" start="20260427025700 +0000" stop="20260427050000 +0000">
     <title lang="id">AVS vs Sporting : Portuguese League 2025/26</title>
     <desc lang="id">AVS vs Sporting</desc>
     <icon src="https://thumbor.prod.vidiocdn.com/edoqRinFCRhrRwQ2ngcXacb_q74=/287x162/filters:strip_icc():quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/image/6685/champions-tv-1-54e282.jpg"/>
@@ -8979,12 +8979,12 @@
     <desc lang="id">Highlight Round 31</desc>
     <icon src="https://thumbor.prod.vidiocdn.com/edoqRinFCRhrRwQ2ngcXacb_q74=/287x162/filters:strip_icc():quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/image/6685/champions-tv-1-54e282.jpg"/>
   </programme>
-  <programme channel="6685" start="20260427223000 +0000" stop="20260427230000 +0000">
+  <programme channel="6685" start="20260427223000 +0000" stop="20260427225800 +0000">
     <title lang="id">Full Impact - Round 32 : Serie A 2025/26 - Highlight Show</title>
     <desc lang="id">Full Impact Round 32</desc>
     <icon src="https://thumbor.prod.vidiocdn.com/edoqRinFCRhrRwQ2ngcXacb_q74=/287x162/filters:strip_icc():quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/image/6685/champions-tv-1-54e282.jpg"/>
   </programme>
-  <programme channel="6685" start="20260427230000 +0000" stop="20260428010000 +0000">
+  <programme channel="6685" start="20260427225800 +0000" stop="20260428010000 +0000">
     <title lang="id">CAGLIARI vs ATALANTA : Serie A 2025/26</title>
     <desc lang="id">CAGLIARI vs ATALANTA</desc>
     <icon src="https://thumbor.prod.vidiocdn.com/edoqRinFCRhrRwQ2ngcXacb_q74=/287x162/filters:strip_icc():quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/image/6685/champions-tv-1-54e282.jpg"/>
@@ -9628,12 +9628,12 @@
     <desc lang="id">Seorang instruktur tari jatuh cinta pada seorang wanita bertunangan yang mencoba melarikan diri dari perjodohan.</desc>
     <icon src="https://thumbor.prod.vidiocdn.com/20tRQaK9Gps_wFQL5rY-XgRbrs4=/287x162/filters:strip_icc():quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/image/782/antv-de8530.jpg"/>
   </programme>
-  <programme channel="782" start="20260427200000 +0000" stop="20260427220000 +0000">
+  <programme channel="782" start="20260427200000 +0000" stop="20260427220300 +0000">
     <title lang="id">Mega Bollywood: Toilet Ek Prem Katha</title>
     <desc lang="id">Keshav jatuh cinta pada Jaya dan menikah dengannya. Namun, sang istri mengeluh karena tidak ada toilet di rumahnya. Keshav pun berusaha menenangkannya dengan beberapa perjanjian sementara.</desc>
     <icon src="https://thumbor.prod.vidiocdn.com/aRfs_T1aV-Dvasji5ncVo5JDuq8=/287x162/filters:strip_icc():quality(70)/vidio-media-production/uploads/livestreaming/schedule/thumbnail/5027122/d14e9e.jpg"/>
   </programme>
-  <programme channel="782" start="20260427220000 +0000" stop="20260427230000 +0000">
+  <programme channel="782" start="20260427220300 +0000" stop="20260427230000 +0000">
     <title lang="id">Ummi</title>
     <desc lang="id">Kisah perjuangan Ummi Marwah, seorang ustazah, dalam menjaga keutuhan rumah tangga dan mendidik anak-anaknya. Abah Asep, suaminya, berperilaku arogan dan selingkuh dengan asisten rumah tangga.</desc>
     <icon src="https://thumbor.prod.vidiocdn.com/20tRQaK9Gps_wFQL5rY-XgRbrs4=/287x162/filters:strip_icc():quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/image/782/antv-de8530.jpg"/>
@@ -15216,12 +15216,12 @@
     <title lang="id">Filler Serie A</title>
     <icon src="https://thumbor.prod.vidiocdn.com/xgkik6iws0EJ01bi5cJsIjYWjOM=/287x162/filters:strip_icc():quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/image/6686/champions-tv-2-681a27.jpg"/>
   </programme>
-  <programme channel="6686" start="20260427170000 +0000" stop="20260427220000 +0000">
+  <programme channel="6686" start="20260427170000 +0000" stop="20260427221200 +0000">
     <title lang="id">Day 6 - WTA 1000: Mutua Madrid Open 2026</title>
     <desc lang="id">Nonton streaming pertandingan seru Day 6 - WTA 1000: Mutua Madrid Open 2026. Saksikan aksi-aksi terbaik dari tim yang bersaing ketat untuk meraih kemenangan. Dapatkan informasi lengkap mengenai jadwal pertandingan dan hasil pertandingan terbaru hanya di Vidio.</desc>
     <icon src="https://thumbor.prod.vidiocdn.com/gW0oWnwbmbmevtNNo3Tad0f0FQM=/287x162/filters:strip_icc():quality(70)/vidio-media-production/uploads/livestreaming/schedule/thumbnail/5029768/4f48e7.jpg"/>
   </programme>
-  <programme channel="6686" start="20260427220000 +0000" stop="20260428000000 +0000">
+  <programme channel="6686" start="20260427221200 +0000" stop="20260428000000 +0000">
     <title lang="id">ROMA VS LECCE : SERIE A 2025/26</title>
     <desc lang="id">ROMA VS LECCE</desc>
     <icon src="https://thumbor.prod.vidiocdn.com/xgkik6iws0EJ01bi5cJsIjYWjOM=/287x162/filters:strip_icc():quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/image/6686/champions-tv-2-681a27.jpg"/>

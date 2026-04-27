@@ -2559,13 +2559,13 @@ Warning: Undefined array key "et" in /usr/home/ManusiaBiasa/domains/manusiabiasa
 <programme start="20260428213000 +0000" stop="20260428222500 +0000" channel="Sky Showcase HD.skyde">
     <title>Der Mond - Geheimnisvolle Kraft der Natur</title>
 </programme>
-<programme start="20260427220000 +0000" stop="20260427221000 +0000" channel="Sky Sport Austria 1 HD.skyde">
+<programme start="20260427222000 +0000" stop="20260427223000 +0000" channel="Sky Sport Austria 1 HD.skyde">
     <title>Admiral BL: Pitchside: STU - FAK, 29. Runde</title>
 </programme>
-<programme start="20260427221000 +0000" stop="20260427224000 +0000" channel="Sky Sport Austria 1 HD.skyde">
+<programme start="20260427223000 +0000" stop="20260427230000 +0000" channel="Sky Sport Austria 1 HD.skyde">
     <title>Admiral BL: 90in30: SCR - RBS, 29. Runde</title>
 </programme>
-<programme start="20260427224000 +0000" stop="20260428004000 +0000" channel="Sky Sport Austria 1 HD.skyde">
+<programme start="20260427230000 +0000" stop="20260428004000 +0000" channel="Sky Sport Austria 1 HD.skyde">
     <title>Admiral BL: RZ Pellets WAC - Grazer AK 1902, 29. Runde</title>
 </programme>
 <programme start="20260428004000 +0000" stop="20260428005000 +0000" channel="Sky Sport Austria 1 HD.skyde">
@@ -2823,23 +2823,20 @@ Warning: Undefined array key "et" in /usr/home/ManusiaBiasa/domains/manusiabiasa
 <programme start="20260427220000 +0000" stop="20260427230000 +0000" channel="Sky Sport Mix HD.skyde">
     <title>NHL: Tonight - Playoff Edition</title>
 </programme>
-<programme start="20260427230000 +0000" stop="20260428000000 +0000" channel="Sky Sport Mix HD.skyde">
-    <title>3. Liga: Alle Spiele, alle Tore, 35. Spieltag komplett</title>
+<programme start="20260427230000 +0000" stop="20260428020000 +0000" channel="Sky Sport Mix HD.skyde">
+    <title>Live NHL: Topspiel, Playoffs, 1. Runde</title>
 </programme>
-<programme start="20260428000000 +0000" stop="20260428003000 +0000" channel="Sky Sport Mix HD.skyde">
+<programme start="20260428020000 +0000" stop="20260428023000 +0000" channel="Sky Sport Mix HD.skyde">
     <title>Frauen-BL: Alle Spiele, alle Tore, 23. Spieltag komplett</title>
 </programme>
-<programme start="20260428003000 +0000" stop="20260428013000 +0000" channel="Sky Sport Mix HD.skyde">
-    <title>Moto2: Rennen - GP Spanien</title>
+<programme start="20260428023000 +0000" stop="20260428050000 +0000" channel="Sky Sport Mix HD.skyde">
+    <title>Live NBA: Minnesota Timberwolves @ Denver Nuggets, Playoffs, Runde 1, Spiel 5</title>
 </programme>
-<programme start="20260428013000 +0000" stop="20260428043000 +0000" channel="Sky Sport Mix HD.skyde">
-    <title>Live NHL: Vegas Golden Knights @ Utah Mammoth, Playoffs, 1. Runde, Spiel 5</title>
-</programme>
-<programme start="20260428043000 +0000" stop="20260428053000 +0000" channel="Sky Sport Mix HD.skyde">
-    <title>MotoGP: Rennen - GP Spanien</title>
+<programme start="20260428050000 +0000" stop="20260428053000 +0000" channel="Sky Sport Mix HD.skyde">
+    <title>Live NBA: Showtime - Post Show</title>
 </programme>
 <programme start="20260428053000 +0000" stop="20260428073000 +0000" channel="Sky Sport Mix HD.skyde">
-    <title>NHL: Vegas Golden Knights @ Utah Mammoth, Playoffs, 1. Runde, Spiel 5</title>
+    <title>NHL: Topspiel, Playoffs, 1. Runde</title>
 </programme>
 <programme start="20260428073000 +0000" stop="20260428080000 +0000" channel="Sky Sport Mix HD.skyde">
     <title>Frauen-BL: Alle Spiele, alle Tore, 23. Spieltag komplett</title>
@@ -2848,34 +2845,34 @@ Warning: Undefined array key "et" in /usr/home/ManusiaBiasa/domains/manusiabiasa
     <title>NBA: Detroit Pistons @ Orlando Magic, Playoffs, Runde 1, Spiel 4</title>
 </programme>
 <programme start="20260428103000 +0000" stop="20260428104500 +0000" channel="Sky Sport Mix HD.skyde">
-    <title>NHL: Highlights VGK@UTA, Playoffs, 1. Runde, Spiel 4</title>
+    <title>NHL: Highlights, Playoffs, 1. Runde</title>
 </programme>
-<programme start="20260428104500 +0000" stop="20260428114500 +0000" channel="Sky Sport Mix HD.skyde">
+<programme start="20260428104500 +0000" stop="20260428110000 +0000" channel="Sky Sport Mix HD.skyde">
+    <title>NHL: Highlights, Playoffs, 1. Runde</title>
+</programme>
+<programme start="20260428110000 +0000" stop="20260428120000 +0000" channel="Sky Sport Mix HD.skyde">
     <title>WRC: Highlights: Rally Islas Canarias</title>
 </programme>
-<programme start="20260428114500 +0000" stop="20260428124500 +0000" channel="Sky Sport Mix HD.skyde">
+<programme start="20260428120000 +0000" stop="20260428130000 +0000" channel="Sky Sport Mix HD.skyde">
     <title>NHL: Tonight - Playoff Edition</title>
 </programme>
-<programme start="20260428124500 +0000" stop="20260428131500 +0000" channel="Sky Sport Mix HD.skyde">
+<programme start="20260428130000 +0000" stop="20260428133000 +0000" channel="Sky Sport Mix HD.skyde">
     <title>RBRC: 1. Rennen - GP Spanien</title>
 </programme>
-<programme start="20260428131500 +0000" stop="20260428134500 +0000" channel="Sky Sport Mix HD.skyde">
+<programme start="20260428133000 +0000" stop="20260428140000 +0000" channel="Sky Sport Mix HD.skyde">
     <title>RBRC: 2. Rennen - GP Spanien</title>
 </programme>
-<programme start="20260428134500 +0000" stop="20260428144500 +0000" channel="Sky Sport Mix HD.skyde">
+<programme start="20260428140000 +0000" stop="20260428150000 +0000" channel="Sky Sport Mix HD.skyde">
     <title>MotoGP: Rennen - GP Spanien</title>
 </programme>
-<programme start="20260428144500 +0000" stop="20260428151500 +0000" channel="Sky Sport Mix HD.skyde">
+<programme start="20260428150000 +0000" stop="20260428153000 +0000" channel="Sky Sport Mix HD.skyde">
     <title>Fußball: scooore Niederlande! Alle Tore</title>
 </programme>
-<programme start="20260428151500 +0000" stop="20260428174500 +0000" channel="Sky Sport Mix HD.skyde">
+<programme start="20260428153000 +0000" stop="20260428180000 +0000" channel="Sky Sport Mix HD.skyde">
     <title>NBA: Minnesota Timberwolves @ Denver Nuggets, Playoffs, Runde 1, Spiel 5</title>
 </programme>
-<programme start="20260428174500 +0000" stop="20260428201500 +0000" channel="Sky Sport Mix HD.skyde">
+<programme start="20260428180000 +0000" stop="20260428203000 +0000" channel="Sky Sport Mix HD.skyde">
     <title>NBA: Oklahoma City Thunder @ Phoenix Suns, Playoffs, Runde 1, Spiel 4</title>
-</programme>
-<programme start="20260428201500 +0000" stop="20260428203000 +0000" channel="Sky Sport Mix HD.skyde">
-    <title>NHL: Highlights VGK@UTA, Playoffs, 1. Runde, Spiel 4</title>
 </programme>
 <programme start="20260428203000 +0000" stop="20260428213000 +0000" channel="Sky Sport Mix HD.skyde">
     <title>MotoGP: Highlights: GP Spanien</title>
@@ -2934,7 +2931,7 @@ Warning: Undefined array key "et" in /usr/home/ManusiaBiasa/domains/manusiabiasa
 <programme start="20260428210000 +0000" stop="20260428220000 +0000" channel="Sky Sport News HD.skyde">
     <title>Live Sky Sport News: Late Night News</title>
 </programme>
-<programme start="20260427220000 +0000" stop="20260427223000 +0000" channel="Sky Sport Premier League HD.skyde">
+<programme start="20260427220500 +0000" stop="20260427223500 +0000" channel="Sky Sport Premier League HD.skyde">
     <title>EFL: Highlights, 45. Spieltag</title>
 </programme>
 <programme start="20260427223000 +0000" stop="20260427230000 +0000" channel="Sky Sport Premier League HD.skyde">
@@ -3055,19 +3052,19 @@ Warning: Undefined array key "et" in /usr/home/ManusiaBiasa/domains/manusiabiasa
     <title>WTA 500: E. Rybakina (KAZ) - K. Muchova (CZE), Porsche Tennis Grand Prix in Stuttgart, Finale</title>
 </programme>
 <programme start="20260428000000 +0000" stop="20260428020000 +0000" channel="Sky Sport Tennis HD.skyde">
-    <title>WTA 1000: A. Sabalenka - N. Osaka (JPN), Mutua Madrid Open in Madrid (ESP), 7. Tag</title>
+    <title>WTA 1000: Topspiel, Mutua Madrid Open in Madrid (ESP), 7. Tag</title>
 </programme>
 <programme start="20260428020000 +0000" stop="20260428040000 +0000" channel="Sky Sport Tennis HD.skyde">
-    <title>ATP 1000: A. Zverev (GER) - T. Atmane (FRA), Mutua Madrid Open in Madrid (ESP), 7. Tag</title>
+    <title>ATP 1000: Topspiel, Mutua Madrid Open in Madrid (ESP), 7. Tag</title>
 </programme>
 <programme start="20260428040000 +0000" stop="20260428050000 +0000" channel="Sky Sport Tennis HD.skyde">
     <title>ATP 500: Review Barcelona</title>
 </programme>
 <programme start="20260428050000 +0000" stop="20260428070000 +0000" channel="Sky Sport Tennis HD.skyde">
-    <title>WTA 1000: A. Sabalenka - N. Osaka (JPN), Mutua Madrid Open in Madrid (ESP), 7. Tag</title>
+    <title>WTA 1000: Topspiel, Mutua Madrid Open in Madrid (ESP), 7. Tag</title>
 </programme>
 <programme start="20260428070000 +0000" stop="20260428090000 +0000" channel="Sky Sport Tennis HD.skyde">
-    <title>ATP 1000: A. Zverev (GER) - T. Atmane (FRA), Mutua Madrid Open in Madrid (ESP), 7. Tag</title>
+    <title>ATP 1000: Topspiel, Mutua Madrid Open in Madrid (ESP), 7. Tag</title>
 </programme>
 <programme start="20260428090000 +0000" stop="20260428220000 +0000" channel="Sky Sport Tennis HD.skyde">
     <title>Live ATP &amp; WTA: Konferenz Mutua Madrid Open in Madrid (ESP), 8. Tag</title>
