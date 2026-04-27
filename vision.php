@@ -86,7 +86,7 @@
 <title>Upin &amp; Ipin</title>
 </programme>
 <programme start="20260427070000 +0000" stop="20260427090000 +0000" channel="MNCTV.vision">
-<title>Upin &amp; Ipin</title>
+<title>Upin dan Ipin (MNCTV)</title>
 </programme>
 <programme start="20260427090000 +0000" stop="20260427120000 +0000" channel="MNCTV.vision">
 <title>Upin &amp; Ipin</title>
@@ -134,22 +134,22 @@
 <title>Upin &amp; Ipin</title>
 </programme>
 <programme start="20260428070000 +0000" stop="20260428090000 +0000" channel="MNCTV.vision">
-<title>Upin &amp; Ipin</title>
+<title>Upin dan Ipin (MNCTV)</title>
 </programme>
 <programme start="20260428090000 +0000" stop="20260428120000 +0000" channel="MNCTV.vision">
 <title>Upin &amp; Ipin</title>
 </programme>
 <programme start="20260426230000 +0000" stop="20260427020000 +0000" channel="GTV.vision">
-<title>SpongeBob SquarePants</title>
+<title>Spongebob Squarepants (GTV)</title>
 </programme>
 <programme start="20260427020000 +0000" stop="20260427030000 +0000" channel="GTV.vision">
 <title>CoComelon Dan Sahabat</title>
 </programme>
 <programme start="20260427030000 +0000" stop="20260427050000 +0000" channel="GTV.vision">
-<title>Spongebob Squarepants (GTV)</title>
+<title>SpongeBob SquarePants</title>
 </programme>
 <programme start="20260427050000 +0000" stop="20260427080000 +0000" channel="GTV.vision">
-<title>SpongeBob SquarePants</title>
+<title>Spongebob Squarepants (GTV)</title>
 </programme>
 <programme start="20260427080000 +0000" stop="20260427093000 +0000" channel="GTV.vision">
 <title>Super Deal Indonesia</title>
@@ -182,7 +182,7 @@
 <title>Ragam Pagi</title>
 </programme>
 <programme start="20260427230000 +0000" stop="20260428020000 +0000" channel="GTV.vision">
-<title>SpongeBob SquarePants</title>
+<title>Spongebob Squarepants (GTV)</title>
 </programme>
 <programme start="20260428020000 +0000" stop="20260428023000 +0000" channel="GTV.vision">
 <title>CoComelon Dan Sahabat</title>
@@ -191,10 +191,10 @@
 <title>Buletin iNews Pagi</title>
 </programme>
 <programme start="20260428030000 +0000" stop="20260428050000 +0000" channel="GTV.vision">
-<title>Spongebob Squarepants (GTV)</title>
+<title>SpongeBob SquarePants</title>
 </programme>
 <programme start="20260428050000 +0000" stop="20260428080000 +0000" channel="GTV.vision">
-<title>SpongeBob SquarePants</title>
+<title>Spongebob Squarepants (GTV)</title>
 </programme>
 <programme start="20260428080000 +0000" stop="20260428093000 +0000" channel="GTV.vision">
 <title>Super Deal Indonesia</title>
@@ -337,68 +337,59 @@
 <programme start="20260427143000 +0000" stop="20260427153000 +0000" channel="SindoNews.vision">
 <title>One On One</title>
 </programme>
-<programme start="20260427153000 +0000" stop="20260427163000 +0000" channel="SindoNews.vision">
-<title>SINDO Files</title>
-</programme>
-<programme start="20260427163000 +0000" stop="20260427170000 +0000" channel="SindoNews.vision">
-<title>OMG</title>
-</programme>
-<programme start="20260427170000 +0000" stop="20260427180000 +0000" channel="SindoNews.vision">
-<title>iNews Sore</title>
-</programme>
-<programme start="20260427180000 +0000" stop="20260427193000 +0000" channel="SindoNews.vision">
-<title>SINDO Breaking News</title>
+<programme start="20260427153000 +0000" stop="20260427193000 +0000" channel="SindoNews.vision">
+<title>Rakyat Bersuara</title>
 </programme>
 <programme start="20260427193000 +0000" stop="20260427200000 +0000" channel="SindoNews.vision">
 <title>iNews Sport</title>
 </programme>
 <programme start="20260427200000 +0000" stop="20260427210000 +0000" channel="SindoNews.vision">
-<title>iNews Malam</title>
+<title>SINDO Breaking News</title>
 </programme>
 <programme start="20260427210000 +0000" stop="20260427220000 +0000" channel="SindoNews.vision">
-<title>iNews Sore</title>
+<title>SINDO Sore</title>
 </programme>
 <programme start="20260427220000 +0000" stop="20260427230000 +0000" channel="SindoNews.vision">
-<title>SINDO Sore</title>
-</programme>
-<programme start="20260427230000 +0000" stop="20260428000000 +0000" channel="SindoNews.vision">
 <title>SINDO Malam</title>
 </programme>
-<programme start="20260428000000 +0000" stop="20260428010000 +0000" channel="SindoNews.vision">
+<programme start="20260427230000 +0000" stop="20260428000000 +0000" channel="SindoNews.vision">
 <title>SINDO Files</title>
 </programme>
-<programme start="20260428010000 +0000" stop="20260428013000 +0000" channel="SindoNews.vision">
+<programme start="20260428000000 +0000" stop="20260428003000 +0000" channel="SindoNews.vision">
 <title>iNews Today</title>
 </programme>
-<programme start="20260428013000 +0000" stop="20260428030000 +0000" channel="SindoNews.vision">
+<programme start="20260428003000 +0000" stop="20260428020000 +0000" channel="SindoNews.vision">
 <title>SINDO Today</title>
 </programme>
-<programme start="20260428030000 +0000" stop="20260428040000 +0000" channel="SindoNews.vision">
+<programme start="20260428020000 +0000" stop="20260428030000 +0000" channel="SindoNews.vision">
 <title>Special Report</title>
 </programme>
-<programme start="20260428040000 +0000" stop="20260428043000 +0000" channel="SindoNews.vision">
+<programme start="20260428030000 +0000" stop="20260428033000 +0000" channel="SindoNews.vision">
 <title>iNews Sport Pagi</title>
 </programme>
-<programme start="20260428043000 +0000" stop="20260428060000 +0000" channel="SindoNews.vision">
+<programme start="20260428033000 +0000" stop="20260428050000 +0000" channel="SindoNews.vision">
 <title>SINDO Siang</title>
 </programme>
-<programme start="20260428060000 +0000" stop="20260428063000 +0000" channel="SindoNews.vision">
+<programme start="20260428050000 +0000" stop="20260428053000 +0000" channel="SindoNews.vision">
 <title>Lintas iNews Siang</title>
 </programme>
-<programme start="20260428063000 +0000" stop="20260428073000 +0000" channel="SindoNews.vision">
+<programme start="20260428053000 +0000" stop="20260428063000 +0000" channel="SindoNews.vision">
 <title>iNews Today</title>
 </programme>
-<programme start="20260428073000 +0000" stop="20260428080000 +0000" channel="SindoNews.vision">
+<programme start="20260428063000 +0000" stop="20260428070000 +0000" channel="SindoNews.vision">
 <title>Seputar iNews Siang</title>
 </programme>
-<programme start="20260428080000 +0000" stop="20260428093000 +0000" channel="SindoNews.vision">
+<programme start="20260428070000 +0000" stop="20260428083000 +0000" channel="SindoNews.vision">
 <title>iNews Siang</title>
 </programme>
-<programme start="20260428093000 +0000" stop="20260428103000 +0000" channel="SindoNews.vision">
+<programme start="20260428083000 +0000" stop="20260428093000 +0000" channel="SindoNews.vision">
 <title>Special Report</title>
 </programme>
-<programme start="20260428103000 +0000" stop="20260428120000 +0000" channel="SindoNews.vision">
+<programme start="20260428093000 +0000" stop="20260428110000 +0000" channel="SindoNews.vision">
 <title>SINDO Sore</title>
+</programme>
+<programme start="20260428110000 +0000" stop="20260428120000 +0000" channel="SindoNews.vision">
+<title>SINDO Files</title>
 </programme>
 <programme start="20260426233000 +0000" stop="20260427003000 +0000" channel="Trans TV.vision">
 <title>Insert Pagi (L)</title>
@@ -1253,7 +1244,7 @@
 <title>Berita Kriminal</title>
 </programme>
 <programme start="20260427083000 +0000" stop="20260427090000 +0000" channel="BTV.vision">
-<title>Berita Satu Sore</title>
+<title>Berita Satu Sore (L)</title>
 </programme>
 <programme start="20260427090000 +0000" stop="20260427090500 +0000" channel="BTV.vision">
 <title>Berita Satu Terkini</title>
@@ -1361,7 +1352,7 @@
 <title>Berita Kriminal</title>
 </programme>
 <programme start="20260428083000 +0000" stop="20260428090000 +0000" channel="BTV.vision">
-<title>Berita Satu Sore</title>
+<title>Berita Satu Sore (L)</title>
 </programme>
 <programme start="20260428090000 +0000" stop="20260428090500 +0000" channel="BTV.vision">
 <title>Berita Satu Terkini</title>
@@ -1468,33 +1459,42 @@
 <programme start="20260428090000 +0000" stop="20260428120000 +0000" channel="DAAI TV.vision">
 <title>DAAI TV</title>
 </programme>
-<programme start="20260426235000 +0000" stop="20260427010500 +0000" channel="MDTV.vision">
-<title>MDTV</title>
+<programme start="20260426234000 +0000" stop="20260427010000 +0000" channel="MDTV.vision">
+<title>AADD: Ada Apa Dengan Dunia</title>
 </programme>
-<programme start="20260427010500 +0000" stop="20260427015500 +0000" channel="MDTV.vision">
-<title>MDTV</title>
+<programme start="20260427010000 +0000" stop="20260427020000 +0000" channel="MDTV.vision">
+<title>Fakta +62</title>
 </programme>
-<programme start="20260427015500 +0000" stop="20260427025500 +0000" channel="MDTV.vision">
-<title>MDTV</title>
+<programme start="20260427020000 +0000" stop="20260427030000 +0000" channel="MDTV.vision">
+<title>Sensasihot</title>
 </programme>
-<programme start="20260427025500 +0000" stop="20260427044500 +0000" channel="MDTV.vision">
-<title>MDTV</title>
+<programme start="20260427030000 +0000" stop="20260427043500 +0000" channel="MDTV.vision">
+<title>Terlanjur Indah</title>
 </programme>
-<programme start="20260427044500 +0000" stop="20260427060000 +0000" channel="MDTV.vision">
-<title>MDTV</title>
+<programme start="20260427043500 +0000" stop="20260427062000 +0000" channel="MDTV.vision">
+<title>Cinta Fitri S7</title>
 </programme>
-<programme start="20260427060000 +0000" stop="20260427063000 +0000" channel="MDTV.vision">
-<title>MDTV</title>
+<programme start="20260427062000 +0000" stop="20260427073000 +0000" channel="MDTV.vision">
+<title>Makan Enak</title>
 </programme>
-<programme start="20260427063000 +0000" stop="20260427073000 +0000" channel="MDTV.vision">
-<title>MDTV</title>
+<programme start="20260427073000 +0000" stop="20260427083000 +0000" channel="MDTV.vision">
+<title>Masak Gesss!!!</title>
 </programme>
-<programme start="20260427073000 +0000" stop="20260427085000 +0000" channel="MDTV.vision">
-<title>MDTV</title>
+<programme start="20260427083000 +0000" stop="20260427093000 +0000" channel="MDTV.vision">
+<title>SensasiSeleb</title>
 </programme>
-<programme start="20260427085000 +0000" stop="20260427091500 +0000" channel="MDTV.vision">
-<title>MDTV</title>
+<programme start="20260427093000 +0000" stop="20260427100000 +0000" channel="MDTV.vision">
+<title>Adit Sopo Jarwo</title>
 </programme>
-<programme start="20260427091500 +0000" stop="20260427101500 +0000" channel="MDTV.vision">
-<title>MDTV</title>
+<programme start="20260427100000 +0000" stop="20260427115500 +0000" channel="MDTV.vision">
+<title>Esmeralda</title>
+</programme>
+<programme start="20260427115500 +0000" stop="20260427130000 +0000" channel="MDTV.vision">
+<title>Cinta Fitri</title>
+</programme>
+<programme start="20260427130000 +0000" stop="20260427140000 +0000" channel="MDTV.vision">
+<title>Keluarga Yang Tak Dirindukan</title>
+</programme>
+<programme start="20260427140000 +0000" stop="20260427150000 +0000" channel="MDTV.vision">
+<title>Hot Drama</title>
 </programme>

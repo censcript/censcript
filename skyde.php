@@ -2732,10 +2732,10 @@ Warning: Undefined array key "et" in /usr/home/ManusiaBiasa/domains/manusiabiasa
 <programme start="20260427150000 +0000" stop="20260427180000 +0000" channel="Sky Sport Golf HD.skyde">
     <title>Golf: The Chevron Championship, 3. Tag in Houston, TX (USA)</title>
 </programme>
-<programme start="20260427180000 +0000" stop="20260427210000 +0000" channel="Sky Sport Golf HD.skyde">
+<programme start="20260427180000 +0000" stop="20260427213000 +0000" channel="Sky Sport Golf HD.skyde">
     <title>Golf: The Chevron Championship, 4. Tag in Houston, TX (USA)</title>
 </programme>
-<programme start="20260427210000 +0000" stop="20260428010000 +0000" channel="Sky Sport Golf HD.skyde">
+<programme start="20260427213000 +0000" stop="20260428003000 +0000" channel="Sky Sport Golf HD.skyde">
     <title>Golf Ladies ET: Investec South African Women&#039;s Open, 4. Tag in Kapstadt (Südafrika)</title>
 </programme>
 <programme start="20260426233500 +0000" stop="20260427003000 +0000" channel="Sky Sport Mix HD.skyde">
@@ -2750,13 +2750,19 @@ Warning: Undefined array key "et" in /usr/home/ManusiaBiasa/domains/manusiabiasa
 <programme start="20260427011500 +0000" stop="20260427013000 +0000" channel="Sky Sport Mix HD.skyde">
     <title>NHL: Highlights DAL@MIN, Playoffs, 1. Runde, Spiel 4</title>
 </programme>
-<programme start="20260427013000 +0000" stop="20260427050000 +0000" channel="Sky Sport Mix HD.skyde">
+<programme start="20260427013000 +0000" stop="20260427043000 +0000" channel="Sky Sport Mix HD.skyde">
     <title>Live NHL: Edmonton Oilers @ Anaheim Ducks, Playoffs, 1. Runde, Spiel 4</title>
 </programme>
-<programme start="20260427074000 +0000" stop="20260427084000 +0000" channel="Sky Sport Mix HD.skyde">
+<programme start="20260427043000 +0000" stop="20260427053000 +0000" channel="Sky Sport Mix HD.skyde">
+    <title>3. Liga: Alle Spiele, alle Tore, 35. Spieltag komplett</title>
+</programme>
+<programme start="20260427053000 +0000" stop="20260427073000 +0000" channel="Sky Sport Mix HD.skyde">
+    <title>NHL: Buffalo Sabres @ Boston Bruins, Playoffs, 1. Runde, Spiel 4</title>
+</programme>
+<programme start="20260427073000 +0000" stop="20260427083000 +0000" channel="Sky Sport Mix HD.skyde">
     <title>MotoGP: Rennen - GP Spanien</title>
 </programme>
-<programme start="20260427084000 +0000" stop="20260427110000 +0000" channel="Sky Sport Mix HD.skyde">
+<programme start="20260427083000 +0000" stop="20260427110000 +0000" channel="Sky Sport Mix HD.skyde">
     <title>NBA: Cleveland Cavaliers @ Toronto Raptors, Playoffs, Runde 1, Spiel 4</title>
 </programme>
 <programme start="20260427110000 +0000" stop="20260427111500 +0000" channel="Sky Sport Mix HD.skyde">
@@ -2984,26 +2990,23 @@ Warning: Undefined array key "et" in /usr/home/ManusiaBiasa/domains/manusiabiasa
 <programme start="20260426220000 +0000" stop="20260426233500 +0000" channel="Sky Sport Top Event HD.skyde">
     <title>Live NHL: Colorado Avalanche @ Los Angeles Kings, Playoffs, 1. Runde, Spiel 4</title>
 </programme>
-<programme start="20260426233500 +0000" stop="20260427013000 +0000" channel="Sky Sport Top Event HD.skyde">
+<programme start="20260426233500 +0000" stop="20260427013500 +0000" channel="Sky Sport Top Event HD.skyde">
     <title>Live NBA: Boston Celtics @ Philadelphia 76ers, Playoffs, Runde 1, Spiel 4</title>
 </programme>
-<programme start="20260427013500 +0000" stop="20260427043000 +0000" channel="Sky Sport Top Event HD.skyde">
+<programme start="20260427013500 +0000" stop="20260427042000 +0000" channel="Sky Sport Top Event HD.skyde">
     <title>Live NBA: LA Lakers @ Houston Rockets, Playoffs, Runde 1, Spiel 4</title>
 </programme>
-<programme start="20260427043000 +0000" stop="20260427050000 +0000" channel="Sky Sport Top Event HD.skyde">
+<programme start="20260427042000 +0000" stop="20260427045000 +0000" channel="Sky Sport Top Event HD.skyde">
     <title>Live NBA: Showtime - Post Show</title>
 </programme>
-<programme start="20260427050000 +0000" stop="20260427053000 +0000" channel="Sky Sport Top Event HD.skyde">
+<programme start="20260427045000 +0000" stop="20260427060000 +0000" channel="Sky Sport Top Event HD.skyde">
     <title>3. Liga: Alle Spiele, alle Tore, 35. Spieltag komplett</title>
 </programme>
-<programme start="20260427053000 +0000" stop="20260427063000 +0000" channel="Sky Sport Top Event HD.skyde">
+<programme start="20260427060000 +0000" stop="20260427070000 +0000" channel="Sky Sport Top Event HD.skyde">
     <title>2. BL Kompakt: 31. Spieltag</title>
 </programme>
-<programme start="20260427063000 +0000" stop="20260427073000 +0000" channel="Sky Sport Top Event HD.skyde">
+<programme start="20260427070000 +0000" stop="20260427080000 +0000" channel="Sky Sport Top Event HD.skyde">
     <title>BL Kompakt: 31. Spieltag</title>
-</programme>
-<programme start="20260427073000 +0000" stop="20260427080000 +0000" channel="Sky Sport Top Event HD.skyde">
-    <title>Frauen-BL: Alle Spiele, alle Tore, 23. Spieltag, Sonntag</title>
 </programme>
 <programme start="20260427080000 +0000" stop="20260427090000 +0000" channel="Sky Sport Top Event HD.skyde">
     <title>MotoGP: Rennen - GP Spanien</title>
@@ -3047,16 +3050,19 @@ Warning: Undefined array key "et" in /usr/home/ManusiaBiasa/domains/manusiabiasa
 <programme start="20260427090000 +0000" stop="20260428000000 +0000" channel="Sky Sport 2 HD.skyde">
     <title>Live WTA 1000: Mutua Madrid Open in Madrid (ESP), 7. Tag</title>
 </programme>
+<programme start="20260426220000 +0000" stop="20260426223000 +0000" channel="Sky Sport 4 HD.skyde">
+    <title>NBA: On Fire</title>
+</programme>
 <programme start="20260426223000 +0000" stop="20260426230000 +0000" channel="Sky Sport 4 HD.skyde">
     <title>Live NBA: Showtime</title>
 </programme>
-<programme start="20260426230000 +0000" stop="20260427013500 +0000" channel="Sky Sport 4 HD.skyde">
+<programme start="20260426230000 +0000" stop="20260427013000 +0000" channel="Sky Sport 4 HD.skyde">
     <title>Live NBA: Boston Celtics @ Philadelphia 76ers, Playoffs, Runde 1, Spiel 4</title>
 </programme>
-<programme start="20260427013500 +0000" stop="20260427042000 +0000" channel="Sky Sport 4 HD.skyde">
+<programme start="20260427013000 +0000" stop="20260427040000 +0000" channel="Sky Sport 4 HD.skyde">
     <title>Live NBA: LA Lakers @ Houston Rockets, Playoffs, Runde 1, Spiel 4</title>
 </programme>
-<programme start="20260427042000 +0000" stop="20260427051500 +0000" channel="Sky Sport 4 HD.skyde">
+<programme start="20260427040000 +0000" stop="20260427080000 +0000" channel="Sky Sport 4 HD.skyde">
     <title>Live NBA: Showtime - Post Show</title>
 </programme>
 <programme start="20260426224000 +0000" stop="20260426232500 +0000" channel="SYFY HD.skyde">
@@ -3148,6 +3154,102 @@ Warning: Undefined array key "et" in /usr/home/ManusiaBiasa/domains/manusiabiasa
 </programme>
 <programme start="20260427215500 +0000" stop="20260427224000 +0000" channel="SYFY HD.skyde">
     <title>Raumschiff Enterprise - Das nächste Jahrhundert</title>
+</programme>
+<programme start="20260426220000 +0000" stop="20260426224500 +0000" channel="Universal TV HD.skyde">
+    <title>Hawaii Five-0</title>
+</programme>
+<programme start="20260426224500 +0000" stop="20260426233000 +0000" channel="Universal TV HD.skyde">
+    <title>Hawaii Five-0</title>
+</programme>
+<programme start="20260426233000 +0000" stop="20260427001000 +0000" channel="Universal TV HD.skyde">
+    <title>Hawaii Five-0</title>
+</programme>
+<programme start="20260427001000 +0000" stop="20260427005500 +0000" channel="Universal TV HD.skyde">
+    <title>Fire Country</title>
+</programme>
+<programme start="20260427005500 +0000" stop="20260427013500 +0000" channel="Universal TV HD.skyde">
+    <title>Fire Country</title>
+</programme>
+<programme start="20260427013500 +0000" stop="20260427022000 +0000" channel="Universal TV HD.skyde">
+    <title>Hawaii Five-0</title>
+</programme>
+<programme start="20260427022000 +0000" stop="20260427030500 +0000" channel="Universal TV HD.skyde">
+    <title>Hawaii Five-0</title>
+</programme>
+<programme start="20260427030500 +0000" stop="20260427035000 +0000" channel="Universal TV HD.skyde">
+    <title>Hawaii Five-0</title>
+</programme>
+<programme start="20260427035000 +0000" stop="20260427043500 +0000" channel="Universal TV HD.skyde">
+    <title>Fire Country</title>
+</programme>
+<programme start="20260427043500 +0000" stop="20260427052000 +0000" channel="Universal TV HD.skyde">
+    <title>Fire Country</title>
+</programme>
+<programme start="20260427052000 +0000" stop="20260427060500 +0000" channel="Universal TV HD.skyde">
+    <title>Fire Country</title>
+</programme>
+<programme start="20260427060500 +0000" stop="20260427065000 +0000" channel="Universal TV HD.skyde">
+    <title>Hawaii Five-0</title>
+</programme>
+<programme start="20260427065000 +0000" stop="20260427073500 +0000" channel="Universal TV HD.skyde">
+    <title>Hawaii Five-0</title>
+</programme>
+<programme start="20260427073500 +0000" stop="20260427081500 +0000" channel="Universal TV HD.skyde">
+    <title>Hawaii Five-0</title>
+</programme>
+<programme start="20260427081500 +0000" stop="20260427090500 +0000" channel="Universal TV HD.skyde">
+    <title>Bones - Die Knochenjägerin</title>
+</programme>
+<programme start="20260427090500 +0000" stop="20260427095000 +0000" channel="Universal TV HD.skyde">
+    <title>Bones - Die Knochenjägerin</title>
+</programme>
+<programme start="20260427095000 +0000" stop="20260427103500 +0000" channel="Universal TV HD.skyde">
+    <title>Bones - Die Knochenjägerin</title>
+</programme>
+<programme start="20260427103500 +0000" stop="20260427112500 +0000" channel="Universal TV HD.skyde">
+    <title>Fire Country</title>
+</programme>
+<programme start="20260427112500 +0000" stop="20260427121000 +0000" channel="Universal TV HD.skyde">
+    <title>Fire Country</title>
+</programme>
+<programme start="20260427121000 +0000" stop="20260427125500 +0000" channel="Universal TV HD.skyde">
+    <title>Hawaii Five-0</title>
+</programme>
+<programme start="20260427125500 +0000" stop="20260427134000 +0000" channel="Universal TV HD.skyde">
+    <title>Hawaii Five-0</title>
+</programme>
+<programme start="20260427134000 +0000" stop="20260427142500 +0000" channel="Universal TV HD.skyde">
+    <title>Hawaii Five-0</title>
+</programme>
+<programme start="20260427142500 +0000" stop="20260427151000 +0000" channel="Universal TV HD.skyde">
+    <title>S.W.A.T.</title>
+</programme>
+<programme start="20260427151000 +0000" stop="20260427155500 +0000" channel="Universal TV HD.skyde">
+    <title>S.W.A.T.</title>
+</programme>
+<programme start="20260427155500 +0000" stop="20260427164000 +0000" channel="Universal TV HD.skyde">
+    <title>Bones - Die Knochenjägerin</title>
+</programme>
+<programme start="20260427164000 +0000" stop="20260427172500 +0000" channel="Universal TV HD.skyde">
+    <title>Bones - Die Knochenjägerin</title>
+</programme>
+<programme start="20260427172500 +0000" stop="20260427181500 +0000" channel="Universal TV HD.skyde">
+    <title>Bones - Die Knochenjägerin</title>
+</programme>
+<programme start="20260427181500 +0000" stop="20260427190000 +0000" channel="Universal TV HD.skyde">
+    <title>S.W.A.T.</title>
+</programme>
+<programme start="20260427190000 +0000" stop="20260427194500 +0000" channel="Universal TV HD.skyde">
+    <title>S.W.A.T.</title>
+</programme>
+<programme start="20260427194500 +0000" stop="20260427203000 +0000" channel="Universal TV HD.skyde">
+    <title>Bones - Die Knochenjägerin</title>
+</programme>
+<programme start="20260427203000 +0000" stop="20260427211500 +0000" channel="Universal TV HD.skyde">
+    <title>Bones - Die Knochenjägerin</title>
+</programme>
+<programme start="20260427211500 +0000" stop="20260427220000 +0000" channel="Universal TV HD.skyde">
+    <title>Bones - Die Knochenjägerin</title>
 </programme>
 <programme start="20260426221500 +0000" stop="20260426223000 +0000" channel="Warner TV Comedy HD.skyde">
     <title>Young Sheldon</title>

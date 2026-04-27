@@ -7282,12 +7282,17 @@
     <desc lang="id">Valencia vs Girona</desc>
     <icon src="https://thumbor.prod.vidiocdn.com/5yUHYfv_b1sZi7kdFElm8JqF2RY=/287x162/filters:strip_icc():quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/image/6299/bein-1-4bd997.jpg"/>
   </programme>
-  <programme channel="6299" start="20260427170000 +0000" stop="20260427190000 +0000">
+  <programme channel="6299" start="20260427165500 +0000" stop="20260427185600 +0000">
     <title lang="id">Konyaspor vs Trabzonspor - Trendyol Super Lig</title>
     <desc lang="id">Nonton streaming pertandingan seru Konyaspor vs Trabzonspor - Trendyol Super Lig. Saksikan aksi-aksi terbaik dari tim yang bersaing ketat untuk meraih kemenangan. Dapatkan informasi lengkap mengenai jadwal pertandingan dan hasil pertandingan terbaru hanya di Vidio.</desc>
     <icon src="https://thumbor.prod.vidiocdn.com/cdurmU5Jf6NOKkI5j5pc17Rfgiw=/287x162/filters:strip_icc():quality(70)/vidio-media-production/uploads/livestreaming/schedule/thumbnail/5029769/d71928.jpg"/>
   </programme>
-  <programme channel="6299" start="20260427190000 +0000" stop="20260427210000 +0000">
+  <programme channel="6299" start="20260427165500 +0000" stop="20260427185600 +0000">
+    <title lang="id">Konyaspor vs Trabzonspor - Trendyol Super Lig</title>
+    <desc lang="id">Nonton streaming pertandingan seru Konyaspor vs Trabzonspor - Trendyol Super Lig. Saksikan aksi-aksi terbaik dari tim yang bersaing ketat untuk meraih kemenangan. Dapatkan informasi lengkap mengenai jadwal pertandingan dan hasil pertandingan terbaru hanya di Vidio.</desc>
+    <icon src="https://thumbor.prod.vidiocdn.com/cdurmU5Jf6NOKkI5j5pc17Rfgiw=/287x162/filters:strip_icc():quality(70)/vidio-media-production/uploads/livestreaming/schedule/thumbnail/5029769/d71928.jpg"/>
+  </programme>
+  <programme channel="6299" start="20260427185600 +0000" stop="20260427210000 +0000">
     <title lang="id">Espanyol vs Levante - LaLiga</title>
     <desc lang="id">Nonton streaming pertandingan seru Espanyol vs Levante - LaLiga. Saksikan aksi-aksi terbaik dari tim yang bersaing ketat untuk meraih kemenangan. Dapatkan informasi lengkap mengenai jadwal pertandingan dan hasil pertandingan terbaru hanya di Vidio.</desc>
     <icon src="https://thumbor.prod.vidiocdn.com/h-8OHEcWCDDh7D6IK6gKjwrUsxA=/287x162/filters:strip_icc():quality(70)/vidio-media-production/uploads/livestreaming/schedule/thumbnail/5029770/1c7af6.jpg"/>
@@ -8167,12 +8172,17 @@
     <desc lang="id">Bayern vs Inter (2010/11)</desc>
     <icon src="https://thumbor.prod.vidiocdn.com/xiN-u5MIG7jgOVE2tB_TUIynz7k=/287x162/filters:strip_icc():quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/image/6317/bein-3-616b1c.jpg"/>
   </programme>
-  <programme channel="6317" start="20260427170000 +0000" stop="20260427190000 +0000">
+  <programme channel="6317" start="20260427165500 +0000" stop="20260427185400 +0000">
     <title lang="id">Besiktas vs Fatih Karagumruk - Trendyol Super Lig</title>
     <desc lang="id">Nonton streaming pertandingan seru Besiktas vs Fatih Karagumruk - Trendyol Super Lig. Saksikan aksi-aksi terbaik dari tim yang bersaing ketat untuk meraih kemenangan. Dapatkan informasi lengkap mengenai jadwal pertandingan dan hasil pertandingan terbaru hanya di Vidio.</desc>
     <icon src="https://thumbor.prod.vidiocdn.com/FljPsOdaVb20f9-KB9r0YUM9uxA=/287x162/filters:strip_icc():quality(70)/vidio-media-production/uploads/livestreaming/schedule/thumbnail/5029767/a6740e.jpg"/>
   </programme>
-  <programme channel="6317" start="20260427190000 +0000" stop="20260427193000 +0000">
+  <programme channel="6317" start="20260427165500 +0000" stop="20260427185400 +0000">
+    <title lang="id">Besiktas vs Fatih Karagumruk - Trendyol Super Lig</title>
+    <desc lang="id">Nonton streaming pertandingan seru Besiktas vs Fatih Karagumruk - Trendyol Super Lig. Saksikan aksi-aksi terbaik dari tim yang bersaing ketat untuk meraih kemenangan. Dapatkan informasi lengkap mengenai jadwal pertandingan dan hasil pertandingan terbaru hanya di Vidio.</desc>
+    <icon src="https://thumbor.prod.vidiocdn.com/FljPsOdaVb20f9-KB9r0YUM9uxA=/287x162/filters:strip_icc():quality(70)/vidio-media-production/uploads/livestreaming/schedule/thumbnail/5029767/a6740e.jpg"/>
+  </programme>
+  <programme channel="6317" start="20260427185400 +0000" stop="20260427193000 +0000">
     <title lang="id">April : The Outdoor Sports Show 2026</title>
     <desc lang="id">April</desc>
     <icon src="https://thumbor.prod.vidiocdn.com/xiN-u5MIG7jgOVE2tB_TUIynz7k=/287x162/filters:strip_icc():quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/image/6317/bein-3-616b1c.jpg"/>
