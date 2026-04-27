@@ -8440,10 +8440,10 @@
 <programme start="20260427090000 +0000" stop="20260427093000 +0000" channel="SPOTV.mncvision">
     <title>2026 E1 World C&#039;ship: Lake Como</title>
 </programme>
-<programme start="20260427093000 +0000" stop="20260427110000 +0000" channel="SPOTV.mncvision">
+<programme start="20260427093000 +0000" stop="20260427111500 +0000" channel="SPOTV.mncvision">
     <title>2026 E1 World C&#039;ship: Lake Como</title>
 </programme>
-<programme start="20260427110000 +0000" stop="20260427150000 +0000" channel="SPOTV.mncvision">
+<programme start="20260427111500 +0000" stop="20260427150000 +0000" channel="SPOTV.mncvision">
     <title>Investec SA Women&#039;s Open</title>
 </programme>
 <programme start="20260427150000 +0000" stop="20260427153000 +0000" channel="SPOTV.mncvision">
@@ -8545,10 +8545,10 @@
 <programme start="20260427090000 +0000" stop="20260427093000 +0000" channel="SPOTV HD.mncvision">
     <title>2026 E1 World C&#039;ship: Lake Como</title>
 </programme>
-<programme start="20260427093000 +0000" stop="20260427110000 +0000" channel="SPOTV HD.mncvision">
+<programme start="20260427093000 +0000" stop="20260427111500 +0000" channel="SPOTV HD.mncvision">
     <title>2026 E1 World C&#039;ship: Lake Como</title>
 </programme>
-<programme start="20260427110000 +0000" stop="20260427150000 +0000" channel="SPOTV HD.mncvision">
+<programme start="20260427111500 +0000" stop="20260427150000 +0000" channel="SPOTV HD.mncvision">
     <title>Investec SA Women&#039;s Open</title>
 </programme>
 <programme start="20260427150000 +0000" stop="20260427153000 +0000" channel="SPOTV HD.mncvision">

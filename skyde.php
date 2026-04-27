@@ -2537,7 +2537,7 @@ Warning: Undefined array key "et" in /usr/home/ManusiaBiasa/domains/manusiabiasa
 <programme start="20260427173000 +0000" stop="20260427185000 +0000" channel="Sky Sport Austria 2 HD.skyde">
     <title>Live PL: Monday Night Football</title>
 </programme>
-<programme start="20260427185000 +0000" stop="20260427210000 +0000" channel="Sky Sport Austria 2 HD.skyde">
+<programme start="20260427185000 +0000" stop="20260427213000 +0000" channel="Sky Sport Austria 2 HD.skyde">
     <title>Live PL: Manchester United - FC Brentford, 34. Spieltag</title>
 </programme>
 <programme start="20260426220000 +0000" stop="20260426230000 +0000" channel="Sky Sport Bundesliga HD.skyde">
@@ -2978,9 +2978,6 @@ Warning: Undefined array key "et" in /usr/home/ManusiaBiasa/domains/manusiabiasa
 <programme start="20260427090000 +0000" stop="20260427220000 +0000" channel="Sky Sport Tennis HD.skyde">
     <title>Live ATP &amp; WTA: Konferenz Mutua Madrid Open in Madrid (ESP), 7. Tag</title>
 </programme>
-<programme start="20260426220000 +0000" stop="20260426233000 +0000" channel="Sky Sport Top Event HD.skyde">
-    <title>Live NHL: Colorado Avalanche @ Los Angeles Kings, Playoffs, 1. Runde, Spiel 4</title>
-</programme>
 <programme start="20260426233000 +0000" stop="20260427013000 +0000" channel="Sky Sport Top Event HD.skyde">
     <title>Live NBA: Boston Celtics @ Philadelphia 76ers, Playoffs, Runde 1, Spiel 4</title>
 </programme>
@@ -3041,7 +3038,7 @@ Warning: Undefined array key "et" in /usr/home/ManusiaBiasa/domains/manusiabiasa
 <programme start="20260427084000 +0000" stop="20260427090000 +0000" channel="Sky Sport 2 HD.skyde">
     <title>Es folgt: Live Tennis WTA Tour</title>
 </programme>
-<programme start="20260427090000 +0000" stop="20260427220000 +0000" channel="Sky Sport 2 HD.skyde">
+<programme start="20260427090000 +0000" stop="20260428000000 +0000" channel="Sky Sport 2 HD.skyde">
     <title>Live WTA 1000: Mutua Madrid Open in Madrid (ESP), 7. Tag</title>
 </programme>
 <programme start="20260426220000 +0000" stop="20260426223000 +0000" channel="Sky Sport 4 HD.skyde">

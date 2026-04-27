@@ -5089,34 +5089,13 @@
     <programme start="20260426152500 +0000" stop="20260426173000 +0000" channel="SPOTV.starhub">
         <title>25/26 Scottish Premiership Round 34 Hibernian vs Heart of Midlothian (Live)</title>
     </programme>
-    <programme start="20260426173000 +0000" stop="20260426180000 +0000" channel="SPOTV.starhub">
+    <programme start="20260426173000 +0000" stop="20260427093000 +0000" channel="SPOTV.starhub">
         <title>Highlights</title>
     </programme>
-    <programme start="20260426180000 +0000" stop="20260426220000 +0000" channel="SPOTV.starhub">
-        <title>Elite Men&#039;s Race</title>
-    </programme>
-    <programme start="20260426220000 +0000" stop="20260426223000 +0000" channel="SPOTV.starhub">
-        <title>Highlights</title>
-    </programme>
-    <programme start="20260426223000 +0000" stop="20260427023000 +0000" channel="SPOTV.starhub">
-        <title>Day 2</title>
-    </programme>
-    <programme start="20260427023000 +0000" stop="20260427043000 +0000" channel="SPOTV.starhub">
-        <title>Q1</title>
-    </programme>
-    <programme start="20260427043000 +0000" stop="20260427070000 +0000" channel="SPOTV.starhub">
-        <title>Q2/Q3/ Q4</title>
-    </programme>
-    <programme start="20260427070000 +0000" stop="20260427090000 +0000" channel="SPOTV.starhub">
-        <title>Group Stages</title>
-    </programme>
-    <programme start="20260427090000 +0000" stop="20260427093000 +0000" channel="SPOTV.starhub">
-        <title>Race Off</title>
-    </programme>
-    <programme start="20260427093000 +0000" stop="20260427110000 +0000" channel="SPOTV.starhub">
+    <programme start="20260427093000 +0000" stop="20260427111500 +0000" channel="SPOTV.starhub">
         <title>Finals</title>
     </programme>
-    <programme start="20260427110000 +0000" stop="20260427150000 +0000" channel="SPOTV.starhub">
+    <programme start="20260427111500 +0000" stop="20260427150000 +0000" channel="SPOTV.starhub">
         <title>Day 4</title>
     </programme>
     <programme start="20260427150000 +0000" stop="20260427170000 +0000" channel="SPOTV.starhub">
@@ -6581,7 +6560,7 @@
         <title>Mutua Madrid Open (1000) Day 5 R3 Session 4</title>
     </programme>
     <programme start="20260427050000 +0000" stop="20260427063000 +0000" channel="Hub Sports 1  HD.starhub">
-        <title>Mutua Madrid Open (1000) Day 5 R3 Session 5</title>
+        <title>Mutua Madrid Open (1000) Day 5 R3 Session 6</title>
     </programme>
     <programme start="20260427063000 +0000" stop="20260427100000 +0000" channel="Hub Sports 1  HD.starhub">
         <title>Day 4 Session 1 Tie 1: China vs Canada (C1)</title>
@@ -8152,7 +8131,7 @@
     <programme start="20260427133000 +0000" stop="20260427140000 +0000" channel="Dragon TV.starhub">
         <title>CARE ON THE WAY</title>
     </programme>
-    <programme start="20260427140000 +0000" stop="20260427163000 +0000" channel="Dragon TV.starhub">
+    <programme start="20260427140000 +0000" stop="20260427160000 +0000" channel="Dragon TV.starhub">
         <title>Overtime no more</title>
     </programme>
     <programme start="20260426160000 +0000" stop="20260426163000 +0000" channel="Travelxp HD.starhub">
