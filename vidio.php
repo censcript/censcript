@@ -2021,8 +2021,20 @@
     <title lang="id">Arisan</title>
     <icon src="https://thumbor.prod.vidiocdn.com/VyDWgGuvUtZp5M006MXkTEIEpxw=/287x162/filters:strip_icc():quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/image/734/trans7-9dade4.jpg"/>
   </programme>
-  <programme channel="734" start="20260427143000 +0000" stop="20260427154500 +0000">
+  <programme channel="734" start="20260427143000 +0000" stop="20260427154400 +0000">
     <title lang="id">Lapor Pak!</title>
+    <icon src="https://thumbor.prod.vidiocdn.com/VyDWgGuvUtZp5M006MXkTEIEpxw=/287x162/filters:strip_icc():quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/image/734/trans7-9dade4.jpg"/>
+  </programme>
+  <programme channel="734" start="20260427154400 +0000" stop="20260427163000 +0000">
+    <title lang="id">The Police</title>
+    <icon src="https://thumbor.prod.vidiocdn.com/VyDWgGuvUtZp5M006MXkTEIEpxw=/287x162/filters:strip_icc():quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/image/734/trans7-9dade4.jpg"/>
+  </programme>
+  <programme channel="734" start="20260427163000 +0000" stop="20260427171500 +0000">
+    <title lang="id">Newstainment</title>
+    <icon src="https://thumbor.prod.vidiocdn.com/VyDWgGuvUtZp5M006MXkTEIEpxw=/287x162/filters:strip_icc():quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/image/734/trans7-9dade4.jpg"/>
+  </programme>
+  <programme channel="734" start="20260427163000 +0000" stop="20260427171500 +0000">
+    <title lang="id">Newstainment</title>
     <icon src="https://thumbor.prod.vidiocdn.com/VyDWgGuvUtZp5M006MXkTEIEpxw=/287x162/filters:strip_icc():quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/image/734/trans7-9dade4.jpg"/>
   </programme>
   <programme channel="734" start="20260427171500 +0000" stop="20260427174500 +0000">
@@ -13121,29 +13133,23 @@
     <title lang="id">Filler</title>
     <icon src="https://thumbor.prod.vidiocdn.com/nY0aFklpYf6yONLaFJjxhiSuthc=/287x162/filters:strip_icc():quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/image/6786/champions-tv-3-76ca7c.jpg"/>
   </programme>
-  <programme channel="6786" start="20260427140000 +0000" stop="20260427154500 +0000">
+  <programme channel="6786" start="20260427140500 +0000" stop="20260427160500 +0000">
     <title lang="id">MILAN vs JUVENTUS : Serie A 2025/26</title>
     <desc lang="id">MILAN vs JUVENTUS</desc>
     <icon src="https://thumbor.prod.vidiocdn.com/nY0aFklpYf6yONLaFJjxhiSuthc=/287x162/filters:strip_icc():quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/image/6786/champions-tv-3-76ca7c.jpg"/>
   </programme>
-  <programme channel="6786" start="20260427154500 +0000" stop="20260427170000 +0000">
+  <programme channel="6786" start="20260427160500 +0000" stop="20260427161500 +0000">
+    <title lang="id">Filler Serie A</title>
+    <icon src="https://thumbor.prod.vidiocdn.com/nY0aFklpYf6yONLaFJjxhiSuthc=/287x162/filters:strip_icc():quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/image/6786/champions-tv-3-76ca7c.jpg"/>
+  </programme>
+  <programme channel="6786" start="20260427161500 +0000" stop="20260427183000 +0000">
     <title lang="id">CAGLIARI vs ATALANTA : Serie A 2025/26</title>
     <desc lang="id">CAGLIARI vs ATALANTA</desc>
     <icon src="https://thumbor.prod.vidiocdn.com/nY0aFklpYf6yONLaFJjxhiSuthc=/287x162/filters:strip_icc():quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/image/6786/champions-tv-3-76ca7c.jpg"/>
   </programme>
-  <programme channel="6786" start="20260427154500 +0000" stop="20260427170000 +0000">
+  <programme channel="6786" start="20260427161500 +0000" stop="20260427183000 +0000">
     <title lang="id">CAGLIARI vs ATALANTA : Serie A 2025/26</title>
     <desc lang="id">CAGLIARI vs ATALANTA</desc>
-    <icon src="https://thumbor.prod.vidiocdn.com/nY0aFklpYf6yONLaFJjxhiSuthc=/287x162/filters:strip_icc():quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/image/6786/champions-tv-3-76ca7c.jpg"/>
-  </programme>
-  <programme channel="6786" start="20260427170000 +0000" stop="20260427180000 +0000">
-    <title lang="id">CAGLIARI vs ATALANTA : Serie A 2025/26</title>
-    <desc lang="id">CAGLIARI vs ATALANTA</desc>
-    <icon src="https://thumbor.prod.vidiocdn.com/nY0aFklpYf6yONLaFJjxhiSuthc=/287x162/filters:strip_icc():quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/image/6786/champions-tv-3-76ca7c.jpg"/>
-  </programme>
-  <programme channel="6786" start="20260427180000 +0000" stop="20260427183000 +0000">
-    <title lang="id">Week 23 : NFL Game Day</title>
-    <desc lang="id">Week 23</desc>
     <icon src="https://thumbor.prod.vidiocdn.com/nY0aFklpYf6yONLaFJjxhiSuthc=/287x162/filters:strip_icc():quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/image/6786/champions-tv-3-76ca7c.jpg"/>
   </programme>
   <programme channel="6786" start="20260427183000 +0000" stop="20260427205000 +0000">
@@ -15187,19 +15193,17 @@
     <desc lang="id">HIGHLIGHT</desc>
     <icon src="https://thumbor.prod.vidiocdn.com/xgkik6iws0EJ01bi5cJsIjYWjOM=/287x162/filters:strip_icc():quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/image/6686/champions-tv-2-681a27.jpg"/>
   </programme>
-  <programme channel="6686" start="20260427140000 +0000" stop="20260427160000 +0000">
+  <programme channel="6686" start="20260427140000 +0000" stop="20260427163000 +0000">
     <title lang="id">Day 6 - WTA 1000: Mutua Madrid Open 2026</title>
     <desc lang="id">Nonton streaming pertandingan seru Day 6 - WTA 1000: Mutua Madrid Open 2026. Saksikan aksi-aksi terbaik dari tim yang bersaing ketat untuk meraih kemenangan. Dapatkan informasi lengkap mengenai jadwal pertandingan dan hasil pertandingan terbaru hanya di Vidio.</desc>
     <icon src="https://thumbor.prod.vidiocdn.com/_LWKy5EdaKDkOol4TZ30c8-8bHU=/287x162/filters:strip_icc():quality(70)/vidio-media-production/uploads/livestreaming/schedule/thumbnail/5027482/b22716.jpg"/>
   </programme>
-  <programme channel="6686" start="20260427160000 +0000" stop="20260427170000 +0000">
-    <title lang="id">MATCH ROUND 01 &amp; ROUND 02 : SNOWCROSS WORLD CHAMPIONSHIP 2026</title>
-    <desc lang="id">MATCH ROUND 01 &amp; ROUND 02</desc>
+  <programme channel="6686" start="20260427163000 +0000" stop="20260427170000 +0000">
+    <title lang="id">Filler Serie A</title>
     <icon src="https://thumbor.prod.vidiocdn.com/xgkik6iws0EJ01bi5cJsIjYWjOM=/287x162/filters:strip_icc():quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/image/6686/champions-tv-2-681a27.jpg"/>
   </programme>
-  <programme channel="6686" start="20260427160000 +0000" stop="20260427170000 +0000">
-    <title lang="id">MATCH ROUND 01 &amp; ROUND 02 : SNOWCROSS WORLD CHAMPIONSHIP 2026</title>
-    <desc lang="id">MATCH ROUND 01 &amp; ROUND 02</desc>
+  <programme channel="6686" start="20260427163000 +0000" stop="20260427170000 +0000">
+    <title lang="id">Filler Serie A</title>
     <icon src="https://thumbor.prod.vidiocdn.com/xgkik6iws0EJ01bi5cJsIjYWjOM=/287x162/filters:strip_icc():quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/image/6686/champions-tv-2-681a27.jpg"/>
   </programme>
   <programme channel="6686" start="20260427170000 +0000" stop="20260427210000 +0000">
@@ -17795,7 +17799,7 @@
     <desc lang="id">Show 29 Matchweek 34</desc>
     <icon src="https://thumbor.prod.vidiocdn.com/r_QaZubFaj9Ht_TI2kDgdImcRqY=/287x162/filters:strip_icc():quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/image/9182/champions-tv-5-e0dd48.jpg"/>
   </programme>
-  <programme channel="9182" start="20260427190000 +0000" stop="20260427210000 +0000">
+  <programme channel="9182" start="20260427183000 +0000" stop="20260427210000 +0000">
     <title lang="id">Man United vs Brentford - Premier League</title>
     <desc lang="id">Nonton streaming pertandingan seru Man United vs Brentford - Premier League. Saksikan aksi-aksi terbaik dari tim yang bersaing ketat untuk meraih kemenangan. Dapatkan informasi lengkap mengenai jadwal pertandingan dan hasil pertandingan terbaru hanya di Vidio.</desc>
     <icon src="https://thumbor.prod.vidiocdn.com/tLOVQwGT1AeZFXqt4uC-5BfxFPU=/287x162/filters:strip_icc():quality(70)/vidio-media-production/uploads/livestreaming/schedule/thumbnail/5029766/141696.jpg"/>
