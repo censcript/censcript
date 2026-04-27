@@ -2069,7 +2069,7 @@
         <title>Ejatu Shaw</title>
     </programme>
     <programme start="20260427023000 +0000" stop="20260427024500 +0000" channel="CNN HD.starhub">
-        <title>Episode 598</title>
+        <title>Tech for the Deaf Community of Kenya; Joke Bakare​ of MedPlus</title>
     </programme>
     <programme start="20260427024500 +0000" stop="20260427030000 +0000" channel="CNN HD.starhub">
         <title>Silicon Valhalla</title>
@@ -2078,7 +2078,7 @@
         <title>The Ebony Project: Cameroon</title>
     </programme>
     <programme start="20260427033000 +0000" stop="20260427040000 +0000" channel="CNN HD.starhub">
-        <title>Episode 724</title>
+        <title>Kenya&#039;s Creatives</title>
     </programme>
     <programme start="20260427040000 +0000" stop="20260427050000 +0000" channel="CNN HD.starhub">
         <title>CNN Newsroom</title>

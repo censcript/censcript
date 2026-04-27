@@ -86,7 +86,7 @@
 <title>Upin &amp; Ipin</title>
 </programme>
 <programme start="20260427070000 +0000" stop="20260427090000 +0000" channel="MNCTV.vision">
-<title>Upin &amp; Ipin</title>
+<title>Upin dan Ipin (MNCTV)</title>
 </programme>
 <programme start="20260427090000 +0000" stop="20260427120000 +0000" channel="MNCTV.vision">
 <title>Upin &amp; Ipin</title>
@@ -134,13 +134,13 @@
 <title>Upin &amp; Ipin</title>
 </programme>
 <programme start="20260428070000 +0000" stop="20260428090000 +0000" channel="MNCTV.vision">
-<title>Upin &amp; Ipin</title>
+<title>Upin dan Ipin (MNCTV)</title>
 </programme>
 <programme start="20260428090000 +0000" stop="20260428120000 +0000" channel="MNCTV.vision">
 <title>Upin &amp; Ipin</title>
 </programme>
 <programme start="20260426230000 +0000" stop="20260427020000 +0000" channel="GTV.vision">
-<title>SpongeBob SquarePants</title>
+<title>Spongebob Squarepants (GTV)</title>
 </programme>
 <programme start="20260427020000 +0000" stop="20260427030000 +0000" channel="GTV.vision">
 <title>CoComelon Dan Sahabat</title>
@@ -182,7 +182,7 @@
 <title>Ragam Pagi</title>
 </programme>
 <programme start="20260427230000 +0000" stop="20260428020000 +0000" channel="GTV.vision">
-<title>SpongeBob SquarePants</title>
+<title>Spongebob Squarepants (GTV)</title>
 </programme>
 <programme start="20260428020000 +0000" stop="20260428023000 +0000" channel="GTV.vision">
 <title>CoComelon Dan Sahabat</title>
