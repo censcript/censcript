@@ -2495,10 +2495,10 @@ Warning: Undefined array key "et" in /usr/home/ManusiaBiasa/domains/manusiabiasa
 <programme start="20260427213500 +0000" stop="20260427223000 +0000" channel="Sky Showcase HD.skyde">
     <title>Crime Scene Cleaners</title>
 </programme>
-<programme start="20260426221000 +0000" stop="20260427000000 +0000" channel="Sky Sport Austria 1 HD.skyde">
+<programme start="20260426221000 +0000" stop="20260427001000 +0000" channel="Sky Sport Austria 1 HD.skyde">
     <title>Admiral BL: SK Puntigamer Sturm Graz - FK Austria Wien, 29. Runde</title>
 </programme>
-<programme start="20260427000000 +0000" stop="20260427020000 +0000" channel="Sky Sport Austria 1 HD.skyde">
+<programme start="20260427001000 +0000" stop="20260427020000 +0000" channel="Sky Sport Austria 1 HD.skyde">
     <title>Admiral BL: TSV Egger Glas Hartberg - LASK, 29. Runde</title>
 </programme>
 <programme start="20260427020000 +0000" stop="20260427023000 +0000" channel="Sky Sport Austria 1 HD.skyde">
@@ -2984,23 +2984,26 @@ Warning: Undefined array key "et" in /usr/home/ManusiaBiasa/domains/manusiabiasa
 <programme start="20260426220000 +0000" stop="20260426233500 +0000" channel="Sky Sport Top Event HD.skyde">
     <title>Live NHL: Colorado Avalanche @ Los Angeles Kings, Playoffs, 1. Runde, Spiel 4</title>
 </programme>
-<programme start="20260426233500 +0000" stop="20260427013500 +0000" channel="Sky Sport Top Event HD.skyde">
+<programme start="20260426233500 +0000" stop="20260427013000 +0000" channel="Sky Sport Top Event HD.skyde">
     <title>Live NBA: Boston Celtics @ Philadelphia 76ers, Playoffs, Runde 1, Spiel 4</title>
 </programme>
-<programme start="20260427013500 +0000" stop="20260427042000 +0000" channel="Sky Sport Top Event HD.skyde">
+<programme start="20260427013500 +0000" stop="20260427043000 +0000" channel="Sky Sport Top Event HD.skyde">
     <title>Live NBA: LA Lakers @ Houston Rockets, Playoffs, Runde 1, Spiel 4</title>
 </programme>
-<programme start="20260427042000 +0000" stop="20260427045000 +0000" channel="Sky Sport Top Event HD.skyde">
+<programme start="20260427043000 +0000" stop="20260427050000 +0000" channel="Sky Sport Top Event HD.skyde">
     <title>Live NBA: Showtime - Post Show</title>
 </programme>
-<programme start="20260427045000 +0000" stop="20260427060000 +0000" channel="Sky Sport Top Event HD.skyde">
+<programme start="20260427050000 +0000" stop="20260427053000 +0000" channel="Sky Sport Top Event HD.skyde">
     <title>3. Liga: Alle Spiele, alle Tore, 35. Spieltag komplett</title>
 </programme>
-<programme start="20260427060000 +0000" stop="20260427070000 +0000" channel="Sky Sport Top Event HD.skyde">
+<programme start="20260427053000 +0000" stop="20260427063000 +0000" channel="Sky Sport Top Event HD.skyde">
     <title>2. BL Kompakt: 31. Spieltag</title>
 </programme>
-<programme start="20260427070000 +0000" stop="20260427080000 +0000" channel="Sky Sport Top Event HD.skyde">
+<programme start="20260427063000 +0000" stop="20260427073000 +0000" channel="Sky Sport Top Event HD.skyde">
     <title>BL Kompakt: 31. Spieltag</title>
+</programme>
+<programme start="20260427073000 +0000" stop="20260427080000 +0000" channel="Sky Sport Top Event HD.skyde">
+    <title>Frauen-BL: Alle Spiele, alle Tore, 23. Spieltag, Sonntag</title>
 </programme>
 <programme start="20260427080000 +0000" stop="20260427090000 +0000" channel="Sky Sport Top Event HD.skyde">
     <title>MotoGP: Rennen - GP Spanien</title>
@@ -3145,102 +3148,6 @@ Warning: Undefined array key "et" in /usr/home/ManusiaBiasa/domains/manusiabiasa
 </programme>
 <programme start="20260427215500 +0000" stop="20260427224000 +0000" channel="SYFY HD.skyde">
     <title>Raumschiff Enterprise - Das nächste Jahrhundert</title>
-</programme>
-<programme start="20260426220000 +0000" stop="20260426224500 +0000" channel="Universal TV HD.skyde">
-    <title>Hawaii Five-0</title>
-</programme>
-<programme start="20260426224500 +0000" stop="20260426233000 +0000" channel="Universal TV HD.skyde">
-    <title>Hawaii Five-0</title>
-</programme>
-<programme start="20260426233000 +0000" stop="20260427001000 +0000" channel="Universal TV HD.skyde">
-    <title>Hawaii Five-0</title>
-</programme>
-<programme start="20260427001000 +0000" stop="20260427005500 +0000" channel="Universal TV HD.skyde">
-    <title>Fire Country</title>
-</programme>
-<programme start="20260427005500 +0000" stop="20260427013500 +0000" channel="Universal TV HD.skyde">
-    <title>Fire Country</title>
-</programme>
-<programme start="20260427013500 +0000" stop="20260427022000 +0000" channel="Universal TV HD.skyde">
-    <title>Hawaii Five-0</title>
-</programme>
-<programme start="20260427022000 +0000" stop="20260427030500 +0000" channel="Universal TV HD.skyde">
-    <title>Hawaii Five-0</title>
-</programme>
-<programme start="20260427030500 +0000" stop="20260427035000 +0000" channel="Universal TV HD.skyde">
-    <title>Hawaii Five-0</title>
-</programme>
-<programme start="20260427035000 +0000" stop="20260427043500 +0000" channel="Universal TV HD.skyde">
-    <title>Fire Country</title>
-</programme>
-<programme start="20260427043500 +0000" stop="20260427052000 +0000" channel="Universal TV HD.skyde">
-    <title>Fire Country</title>
-</programme>
-<programme start="20260427052000 +0000" stop="20260427060500 +0000" channel="Universal TV HD.skyde">
-    <title>Fire Country</title>
-</programme>
-<programme start="20260427060500 +0000" stop="20260427065000 +0000" channel="Universal TV HD.skyde">
-    <title>Hawaii Five-0</title>
-</programme>
-<programme start="20260427065000 +0000" stop="20260427073500 +0000" channel="Universal TV HD.skyde">
-    <title>Hawaii Five-0</title>
-</programme>
-<programme start="20260427073500 +0000" stop="20260427081500 +0000" channel="Universal TV HD.skyde">
-    <title>Hawaii Five-0</title>
-</programme>
-<programme start="20260427081500 +0000" stop="20260427090500 +0000" channel="Universal TV HD.skyde">
-    <title>Bones - Die Knochenjägerin</title>
-</programme>
-<programme start="20260427090500 +0000" stop="20260427095000 +0000" channel="Universal TV HD.skyde">
-    <title>Bones - Die Knochenjägerin</title>
-</programme>
-<programme start="20260427095000 +0000" stop="20260427103500 +0000" channel="Universal TV HD.skyde">
-    <title>Bones - Die Knochenjägerin</title>
-</programme>
-<programme start="20260427103500 +0000" stop="20260427112500 +0000" channel="Universal TV HD.skyde">
-    <title>Fire Country</title>
-</programme>
-<programme start="20260427112500 +0000" stop="20260427121000 +0000" channel="Universal TV HD.skyde">
-    <title>Fire Country</title>
-</programme>
-<programme start="20260427121000 +0000" stop="20260427125500 +0000" channel="Universal TV HD.skyde">
-    <title>Hawaii Five-0</title>
-</programme>
-<programme start="20260427125500 +0000" stop="20260427134000 +0000" channel="Universal TV HD.skyde">
-    <title>Hawaii Five-0</title>
-</programme>
-<programme start="20260427134000 +0000" stop="20260427142500 +0000" channel="Universal TV HD.skyde">
-    <title>Hawaii Five-0</title>
-</programme>
-<programme start="20260427142500 +0000" stop="20260427151000 +0000" channel="Universal TV HD.skyde">
-    <title>S.W.A.T.</title>
-</programme>
-<programme start="20260427151000 +0000" stop="20260427155500 +0000" channel="Universal TV HD.skyde">
-    <title>S.W.A.T.</title>
-</programme>
-<programme start="20260427155500 +0000" stop="20260427164000 +0000" channel="Universal TV HD.skyde">
-    <title>Bones - Die Knochenjägerin</title>
-</programme>
-<programme start="20260427164000 +0000" stop="20260427172500 +0000" channel="Universal TV HD.skyde">
-    <title>Bones - Die Knochenjägerin</title>
-</programme>
-<programme start="20260427172500 +0000" stop="20260427181500 +0000" channel="Universal TV HD.skyde">
-    <title>Bones - Die Knochenjägerin</title>
-</programme>
-<programme start="20260427181500 +0000" stop="20260427190000 +0000" channel="Universal TV HD.skyde">
-    <title>S.W.A.T.</title>
-</programme>
-<programme start="20260427190000 +0000" stop="20260427194500 +0000" channel="Universal TV HD.skyde">
-    <title>S.W.A.T.</title>
-</programme>
-<programme start="20260427194500 +0000" stop="20260427203000 +0000" channel="Universal TV HD.skyde">
-    <title>Bones - Die Knochenjägerin</title>
-</programme>
-<programme start="20260427203000 +0000" stop="20260427211500 +0000" channel="Universal TV HD.skyde">
-    <title>Bones - Die Knochenjägerin</title>
-</programme>
-<programme start="20260427211500 +0000" stop="20260427220000 +0000" channel="Universal TV HD.skyde">
-    <title>Bones - Die Knochenjägerin</title>
 </programme>
 <programme start="20260426221500 +0000" stop="20260426223000 +0000" channel="Warner TV Comedy HD.skyde">
     <title>Young Sheldon</title>

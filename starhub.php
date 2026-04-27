@@ -3839,7 +3839,7 @@
         <title>World Weather</title>
     </programme>
     <programme start="20260427191500 +0000" stop="20260427200000 +0000" channel="NHK World Premium HD.starhub">
-        <title>Tsurube&#039;s Salute to Families &quot;Shiraishi Sei in Nagoya City,Aichi Prefecture&quot; Par</title>
+        <title>Tsurube&#039;s Salute to Families &quot;Shiraishi Sei in Nagoya City,Aichi Prefecture&quot; Part 2(R)</title>
     </programme>
     <programme start="20260427200000 +0000" stop="20260427201000 +0000" channel="NHK World Premium HD.starhub">
         <title>TV Exercise</title>
