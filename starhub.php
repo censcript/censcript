@@ -3878,7 +3878,7 @@
         <title>News &amp; Weather</title>
     </programme>
     <programme start="20260428010500 +0000" stop="20260428015000 +0000" channel="NHK World Premium HD.starhub">
-        <title>Tsurube&#039;s Salute to Families &quot;Shiraishi Sei in Nagoya City,Aichi Prefecture&quot; Par</title>
+        <title>Tsurube&#039;s Salute to Families &quot;Shiraishi Sei in Nagoya City,Aichi Prefecture&quot; Part 2(R)</title>
     </programme>
     <programme start="20260428015000 +0000" stop="20260428022000 +0000" channel="NHK World Premium HD.starhub">
         <title>The Great Nature &quot;Limestone&quot;</title>

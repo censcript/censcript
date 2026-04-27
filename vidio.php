@@ -13162,16 +13162,16 @@
     <desc lang="id">CAGLIARI vs ATALANTA</desc>
     <icon src="https://thumbor.prod.vidiocdn.com/nY0aFklpYf6yONLaFJjxhiSuthc=/287x162/filters:strip_icc():quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/image/6786/champions-tv-3-76ca7c.jpg"/>
   </programme>
-  <programme channel="6786" start="20260427183000 +0000" stop="20260427205000 +0000">
+  <programme channel="6786" start="20260427183000 +0000" stop="20260427204500 +0000">
     <title lang="id">LAZIO vs UDINESE : Serie A 2025/26</title>
     <desc lang="id">LAZIO vs UDINESE</desc>
     <icon src="https://thumbor.prod.vidiocdn.com/nY0aFklpYf6yONLaFJjxhiSuthc=/287x162/filters:strip_icc():quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/image/6786/champions-tv-3-76ca7c.jpg"/>
   </programme>
-  <programme channel="6786" start="20260427205000 +0000" stop="20260427210000 +0000">
+  <programme channel="6786" start="20260427204500 +0000" stop="20260427220000 +0000">
     <title lang="id">Filler</title>
     <icon src="https://thumbor.prod.vidiocdn.com/nY0aFklpYf6yONLaFJjxhiSuthc=/287x162/filters:strip_icc():quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/image/6786/champions-tv-3-76ca7c.jpg"/>
   </programme>
-  <programme channel="6786" start="20260427210000 +0000" stop="20260428040000 +0000">
+  <programme channel="6786" start="20260427220000 +0000" stop="20260428040000 +0000">
     <title lang="id">Day 2 Round 4-7 : NFL DRAFT 2026</title>
     <desc lang="id">Day 2 Round 4-7</desc>
     <icon src="https://thumbor.prod.vidiocdn.com/nY0aFklpYf6yONLaFJjxhiSuthc=/287x162/filters:strip_icc():quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/image/6786/champions-tv-3-76ca7c.jpg"/>
@@ -15216,24 +15216,14 @@
     <title lang="id">Filler Serie A</title>
     <icon src="https://thumbor.prod.vidiocdn.com/xgkik6iws0EJ01bi5cJsIjYWjOM=/287x162/filters:strip_icc():quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/image/6686/champions-tv-2-681a27.jpg"/>
   </programme>
-  <programme channel="6686" start="20260427170000 +0000" stop="20260427210000 +0000">
+  <programme channel="6686" start="20260427170000 +0000" stop="20260427220000 +0000">
     <title lang="id">Day 6 - WTA 1000: Mutua Madrid Open 2026</title>
     <desc lang="id">Nonton streaming pertandingan seru Day 6 - WTA 1000: Mutua Madrid Open 2026. Saksikan aksi-aksi terbaik dari tim yang bersaing ketat untuk meraih kemenangan. Dapatkan informasi lengkap mengenai jadwal pertandingan dan hasil pertandingan terbaru hanya di Vidio.</desc>
     <icon src="https://thumbor.prod.vidiocdn.com/gW0oWnwbmbmevtNNo3Tad0f0FQM=/287x162/filters:strip_icc():quality(70)/vidio-media-production/uploads/livestreaming/schedule/thumbnail/5029768/4f48e7.jpg"/>
   </programme>
-  <programme channel="6686" start="20260427210000 +0000" stop="20260427230000 +0000">
+  <programme channel="6686" start="20260427220000 +0000" stop="20260428000000 +0000">
     <title lang="id">ROMA VS LECCE : SERIE A 2025/26</title>
     <desc lang="id">ROMA VS LECCE</desc>
-    <icon src="https://thumbor.prod.vidiocdn.com/xgkik6iws0EJ01bi5cJsIjYWjOM=/287x162/filters:strip_icc():quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/image/6686/champions-tv-2-681a27.jpg"/>
-  </programme>
-  <programme channel="6686" start="20260427230000 +0000" stop="20260427233000 +0000">
-    <title lang="id">EPS 03 : MXGP BEHIND THE GATE 2026</title>
-    <desc lang="id">EPS 03</desc>
-    <icon src="https://thumbor.prod.vidiocdn.com/xgkik6iws0EJ01bi5cJsIjYWjOM=/287x162/filters:strip_icc():quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/image/6686/champions-tv-2-681a27.jpg"/>
-  </programme>
-  <programme channel="6686" start="20260427233000 +0000" stop="20260428000000 +0000">
-    <title lang="id">EPS 04 : MXGP BEHIND THE GATE 2026</title>
-    <desc lang="id">EPS 04</desc>
     <icon src="https://thumbor.prod.vidiocdn.com/xgkik6iws0EJ01bi5cJsIjYWjOM=/287x162/filters:strip_icc():quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/image/6686/champions-tv-2-681a27.jpg"/>
   </programme>
   <programme channel="6686" start="20260428000000 +0000" stop="20260428010000 +0000">
