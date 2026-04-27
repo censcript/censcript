@@ -3902,7 +3902,7 @@
         <title>JAPAN DELISH</title>
     </programme>
     <programme start="20260427105700 +0000" stop="20260427114300 +0000" channel="NHK World Premium HD.starhub">
-        <title>Tsurube&#039;s Salute to Families &quot;Shiraishi Sei in Nagoya City, Aichi Prefecture&quot; Part 2</title>
+        <title>Tsurube&#039;s Salute to Families &quot;Shiraishi Sei in Nagoya City, Aichi Prefecture&quot; Pa</title>
     </programme>
     <programme start="20260427114300 +0000" stop="20260427114500 +0000" channel="NHK World Premium HD.starhub">
         <title>World Weather</title>

@@ -2684,12 +2684,12 @@
     <desc lang="id">American Ninja Warrior</desc>
     <icon src="https://thumbor.prod.vidiocdn.com/P3mtAW_Q-uJlID2pMh1ekQMhLUw=/287x162/filters:strip_icc():quality(70)/vidio-media-production/uploads/livestreaming/schedule/thumbnail/5028337/5b265c.jpg"/>
   </programme>
-  <programme channel="206" start="20260427114500 +0000" stop="20260427140000 +0000">
+  <programme channel="206" start="20260427114500 +0000" stop="20260427134300 +0000">
     <title lang="id">AVC Women's Champions League 2026 First Serve 19:00</title>
     <desc lang="id">AVC Women's Champions League 2026 First Serve 19:00</desc>
     <icon src="https://thumbor.prod.vidiocdn.com/NdmzqkxqnWVnlngtk_ObYNT-wiY=/287x162/filters:strip_icc():quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/image/206/moji-a5bd3e.jpg"/>
   </programme>
-  <programme channel="206" start="20260427140000 +0000" stop="20260427161400 +0000">
+  <programme channel="206" start="20260427134300 +0000" stop="20260427161400 +0000">
     <title lang="id">Rerun Proliga 2026</title>
     <desc lang="id">Rerun Proliga 2026</desc>
     <icon src="https://thumbor.prod.vidiocdn.com/NdmzqkxqnWVnlngtk_ObYNT-wiY=/287x162/filters:strip_icc():quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/image/206/moji-a5bd3e.jpg"/>
@@ -9586,7 +9586,7 @@
     <title lang="id">TERI MEDI DORIYAANN</title>
     <icon src="https://thumbor.prod.vidiocdn.com/EQT4ou20oGLrNeVlWn67ayLdCDU=/287x162/filters:strip_icc():quality(70)/vidio-media-production/uploads/livestreaming/schedule/thumbnail/5027126/6e4b4c.jpg"/>
   </programme>
-  <programme channel="782" start="20260427093000 +0000" stop="20260427113000 +0000">
+  <programme channel="782" start="20260427092800 +0000" stop="20260427113000 +0000">
     <title lang="id">Vasudha</title>
     <desc lang="id">Vasudha yang periang bergabung dengan rumah pemimpin bisnis Chandrika sebagai pembantu dan mendambakan persetujuannya meskipun ada perbedaan ideologis di antara mereka.</desc>
     <icon src="https://thumbor.prod.vidiocdn.com/Re7oBGQ2TJJioHRozi9FRJiYLws=/287x162/filters:strip_icc():quality(70)/vidio-media-production/uploads/livestreaming/schedule/thumbnail/5027117/a6debc.jpg"/>
@@ -13112,23 +13112,18 @@
     <desc lang="id">Week 22</desc>
     <icon src="https://thumbor.prod.vidiocdn.com/nY0aFklpYf6yONLaFJjxhiSuthc=/287x162/filters:strip_icc():quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/image/6786/champions-tv-3-76ca7c.jpg"/>
   </programme>
-  <programme channel="6786" start="20260427090000 +0000" stop="20260427130000 +0000">
-    <title lang="id">Day 6 - WTA 1000: Mutua Madrid Open 2026</title>
+  <programme channel="6786" start="20260427090000 +0000" stop="20260427132500 +0000">
+    <title lang="id">Aryna Sabalenka vs Naomi Osaka - Women's Singles Round of 16 | WTA 1000: Mutua Madrid Open 2026</title>
     <desc lang="id">Nonton streaming pertandingan seru Day 6 - WTA 1000: Mutua Madrid Open 2026. Saksikan aksi-aksi terbaik dari tim yang bersaing ketat untuk meraih kemenangan. Dapatkan informasi lengkap mengenai jadwal pertandingan dan hasil pertandingan terbaru hanya di Vidio.</desc>
-    <icon src="https://thumbor.prod.vidiocdn.com/Gr_Ltpf3WRgoazg2A7nxqTczaGQ=/287x162/filters:strip_icc():quality(70)/vidio-media-production/uploads/livestreaming/schedule/thumbnail/5028483/516f79.jpg"/>
+    <icon src="https://thumbor.prod.vidiocdn.com/_WxVCImTP0n7eofqq76Oq5884cM=/287x162/filters:strip_icc():quality(70)/vidio-media-production/uploads/livestreaming/schedule/thumbnail/5028483/9f51c7.jpg"/>
   </programme>
-  <programme channel="6786" start="20260427130000 +0000" stop="20260427133000 +0000">
-    <title lang="id">Eps 20 : Sport Woman</title>
-    <desc lang="id">Eps 20</desc>
+  <programme channel="6786" start="20260427132500 +0000" stop="20260427140000 +0000">
+    <title lang="id">Filler</title>
     <icon src="https://thumbor.prod.vidiocdn.com/nY0aFklpYf6yONLaFJjxhiSuthc=/287x162/filters:strip_icc():quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/image/6786/champions-tv-3-76ca7c.jpg"/>
   </programme>
-  <programme channel="6786" start="20260427133000 +0000" stop="20260427153000 +0000">
+  <programme channel="6786" start="20260427140000 +0000" stop="20260427154500 +0000">
     <title lang="id">MILAN vs JUVENTUS : Serie A 2025/26</title>
     <desc lang="id">MILAN vs JUVENTUS</desc>
-    <icon src="https://thumbor.prod.vidiocdn.com/nY0aFklpYf6yONLaFJjxhiSuthc=/287x162/filters:strip_icc():quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/image/6786/champions-tv-3-76ca7c.jpg"/>
-  </programme>
-  <programme channel="6786" start="20260427153000 +0000" stop="20260427154500 +0000">
-    <title lang="id">Filler</title>
     <icon src="https://thumbor.prod.vidiocdn.com/nY0aFklpYf6yONLaFJjxhiSuthc=/287x162/filters:strip_icc():quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/image/6786/champions-tv-3-76ca7c.jpg"/>
   </programme>
   <programme channel="6786" start="20260427154500 +0000" stop="20260427170000 +0000">

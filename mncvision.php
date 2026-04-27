@@ -5536,8 +5536,168 @@
 <programme start="20260427163500 +0000" stop="20260426170500 +0000" channel="Lifetime.mncvision">
     <title>Meals In Minutes S2, Ep 39</title>
 </programme>
-Error: Unable to fetch data. HTTP Status Code: 500
-Error: Unable to fetch data. HTTP Status Code: 500
+<programme start="20260426172500 +0000" stop="20260426182000 +0000" channel="Love Nature.mncvision">
+    <title>After The Wildfires</title>
+</programme>
+<programme start="20260426182000 +0000" stop="20260426191500 +0000" channel="Love Nature.mncvision">
+    <title>The Kimberley S1, Ep 1</title>
+</programme>
+<programme start="20260426191500 +0000" stop="20260426201000 +0000" channel="Love Nature.mncvision">
+    <title>Kalahari: Land Of... S1, Ep 1</title>
+</programme>
+<programme start="20260426201000 +0000" stop="20260426210500 +0000" channel="Love Nature.mncvision">
+    <title>Kalahari: Land Of... S1, Ep 2</title>
+</programme>
+<programme start="20260426210500 +0000" stop="20260426220000 +0000" channel="Love Nature.mncvision">
+    <title>Kalahari: Land Of... S1, Ep 3</title>
+</programme>
+<programme start="20260426220000 +0000" stop="20260426222500 +0000" channel="Love Nature.mncvision">
+    <title>Wild Dogs: The Pack S1, Ep 6</title>
+</programme>
+<programme start="20260426222500 +0000" stop="20260426232000 +0000" channel="Love Nature.mncvision">
+    <title>Evolution Earth S1, Ep 4</title>
+</programme>
+<programme start="20260426232000 +0000" stop="20260427001500 +0000" channel="Love Nature.mncvision">
+    <title>Evolution Earth S1, Ep 5</title>
+</programme>
+<programme start="20260427001500 +0000" stop="20260427011000 +0000" channel="Love Nature.mncvision">
+    <title>Jaguar Journals S1, Ep 1</title>
+</programme>
+<programme start="20260427011000 +0000" stop="20260427020500 +0000" channel="Love Nature.mncvision">
+    <title>Boss Shark</title>
+</programme>
+<programme start="20260427020500 +0000" stop="20260427030000 +0000" channel="Love Nature.mncvision">
+    <title>Boss Shark: Battle Of The Sexes</title>
+</programme>
+<programme start="20260427030000 +0000" stop="20260427035000 +0000" channel="Love Nature.mncvision">
+    <title>The Living Beach S1, Ep 1</title>
+</programme>
+<programme start="20260427035000 +0000" stop="20260427044000 +0000" channel="Love Nature.mncvision">
+    <title>Survival Of The Beast S1, Ep 6</title>
+</programme>
+<programme start="20260427044000 +0000" stop="20260427053500 +0000" channel="Love Nature.mncvision">
+    <title>Evolution Earth S1, Ep 4</title>
+</programme>
+<programme start="20260427053500 +0000" stop="20260427063000 +0000" channel="Love Nature.mncvision">
+    <title>Evolution Earth S1, Ep 5</title>
+</programme>
+<programme start="20260427063000 +0000" stop="20260427072500 +0000" channel="Love Nature.mncvision">
+    <title>After The Wildfires</title>
+</programme>
+<programme start="20260427072500 +0000" stop="20260427082000 +0000" channel="Love Nature.mncvision">
+    <title>Boss Shark</title>
+</programme>
+<programme start="20260427082000 +0000" stop="20260427091500 +0000" channel="Love Nature.mncvision">
+    <title>Boss Shark: Battle Of The Sexes</title>
+</programme>
+<programme start="20260427091500 +0000" stop="20260427101000 +0000" channel="Love Nature.mncvision">
+    <title>The Living Beach S1, Ep 1</title>
+</programme>
+<programme start="20260427101000 +0000" stop="20260427110500 +0000" channel="Love Nature.mncvision">
+    <title>Survival Of The Beast S1, Ep 6</title>
+</programme>
+<programme start="20260427110500 +0000" stop="20260427120000 +0000" channel="Love Nature.mncvision">
+    <title>Evolution Earth S1, Ep 4</title>
+</programme>
+<programme start="20260427120000 +0000" stop="20260427125500 +0000" channel="Love Nature.mncvision">
+    <title>Evolution Earth S1, Ep 5</title>
+</programme>
+<programme start="20260427125500 +0000" stop="20260427135000 +0000" channel="Love Nature.mncvision">
+    <title>Jaguar Journals S1, Ep 1</title>
+</programme>
+<programme start="20260427135000 +0000" stop="20260427144500 +0000" channel="Love Nature.mncvision">
+    <title>Boss Shark</title>
+</programme>
+<programme start="20260427144500 +0000" stop="20260427154000 +0000" channel="Love Nature.mncvision">
+    <title>Boss Shark: Battle Of The Sexes</title>
+</programme>
+<programme start="20260427154000 +0000" stop="20260427163500 +0000" channel="Love Nature.mncvision">
+    <title>The Living Beach S1, Ep 1</title>
+</programme>
+<programme start="20260427163500 +0000" stop="20260426170500 +0000" channel="Love Nature.mncvision">
+    <title>Survival Of The Beast S1, Ep 6</title>
+</programme>
+<programme start="20260426172500 +0000" stop="20260426182000 +0000" channel="Love Nature HD.mncvision">
+    <title>After The Wildfires</title>
+</programme>
+<programme start="20260426182000 +0000" stop="20260426191500 +0000" channel="Love Nature HD.mncvision">
+    <title>The Kimberley S1, Ep 1</title>
+</programme>
+<programme start="20260426191500 +0000" stop="20260426201000 +0000" channel="Love Nature HD.mncvision">
+    <title>Kalahari: Land Of... S1, Ep 1</title>
+</programme>
+<programme start="20260426201000 +0000" stop="20260426210500 +0000" channel="Love Nature HD.mncvision">
+    <title>Kalahari: Land Of... S1, Ep 2</title>
+</programme>
+<programme start="20260426210500 +0000" stop="20260426220000 +0000" channel="Love Nature HD.mncvision">
+    <title>Kalahari: Land Of... S1, Ep 3</title>
+</programme>
+<programme start="20260426220000 +0000" stop="20260426222500 +0000" channel="Love Nature HD.mncvision">
+    <title>Wild Dogs: The Pack S1, Ep 6</title>
+</programme>
+<programme start="20260426222500 +0000" stop="20260426232000 +0000" channel="Love Nature HD.mncvision">
+    <title>Evolution Earth S1, Ep 4</title>
+</programme>
+<programme start="20260426232000 +0000" stop="20260427001500 +0000" channel="Love Nature HD.mncvision">
+    <title>Evolution Earth S1, Ep 5</title>
+</programme>
+<programme start="20260427001500 +0000" stop="20260427011000 +0000" channel="Love Nature HD.mncvision">
+    <title>Jaguar Journals S1, Ep 1</title>
+</programme>
+<programme start="20260427011000 +0000" stop="20260427020500 +0000" channel="Love Nature HD.mncvision">
+    <title>Boss Shark</title>
+</programme>
+<programme start="20260427020500 +0000" stop="20260427030000 +0000" channel="Love Nature HD.mncvision">
+    <title>Boss Shark: Battle Of The Sexes</title>
+</programme>
+<programme start="20260427030000 +0000" stop="20260427035000 +0000" channel="Love Nature HD.mncvision">
+    <title>The Living Beach S1, Ep 1</title>
+</programme>
+<programme start="20260427035000 +0000" stop="20260427044000 +0000" channel="Love Nature HD.mncvision">
+    <title>Survival Of The Beast S1, Ep 6</title>
+</programme>
+<programme start="20260427044000 +0000" stop="20260427053500 +0000" channel="Love Nature HD.mncvision">
+    <title>Evolution Earth S1, Ep 4</title>
+</programme>
+<programme start="20260427053500 +0000" stop="20260427063000 +0000" channel="Love Nature HD.mncvision">
+    <title>Evolution Earth S1, Ep 5</title>
+</programme>
+<programme start="20260427063000 +0000" stop="20260427072500 +0000" channel="Love Nature HD.mncvision">
+    <title>After The Wildfires</title>
+</programme>
+<programme start="20260427072500 +0000" stop="20260427082000 +0000" channel="Love Nature HD.mncvision">
+    <title>Boss Shark</title>
+</programme>
+<programme start="20260427082000 +0000" stop="20260427091500 +0000" channel="Love Nature HD.mncvision">
+    <title>Boss Shark: Battle Of The Sexes</title>
+</programme>
+<programme start="20260427091500 +0000" stop="20260427101000 +0000" channel="Love Nature HD.mncvision">
+    <title>The Living Beach S1, Ep 1</title>
+</programme>
+<programme start="20260427101000 +0000" stop="20260427110500 +0000" channel="Love Nature HD.mncvision">
+    <title>Survival Of The Beast S1, Ep 6</title>
+</programme>
+<programme start="20260427110500 +0000" stop="20260427120000 +0000" channel="Love Nature HD.mncvision">
+    <title>Evolution Earth S1, Ep 4</title>
+</programme>
+<programme start="20260427120000 +0000" stop="20260427125500 +0000" channel="Love Nature HD.mncvision">
+    <title>Evolution Earth S1, Ep 5</title>
+</programme>
+<programme start="20260427125500 +0000" stop="20260427135000 +0000" channel="Love Nature HD.mncvision">
+    <title>Jaguar Journals S1, Ep 1</title>
+</programme>
+<programme start="20260427135000 +0000" stop="20260427144500 +0000" channel="Love Nature HD.mncvision">
+    <title>Boss Shark</title>
+</programme>
+<programme start="20260427144500 +0000" stop="20260427154000 +0000" channel="Love Nature HD.mncvision">
+    <title>Boss Shark: Battle Of The Sexes</title>
+</programme>
+<programme start="20260427154000 +0000" stop="20260427163500 +0000" channel="Love Nature HD.mncvision">
+    <title>The Living Beach S1, Ep 1</title>
+</programme>
+<programme start="20260427163500 +0000" stop="20260426170500 +0000" channel="Love Nature HD.mncvision">
+    <title>Survival Of The Beast S1, Ep 6</title>
+</programme>
 <programme start="20260426181000 +0000" stop="20260426190000 +0000" channel="MDTV.mncvision">
     <title>MDTV</title>
 </programme>
@@ -5610,7 +5770,156 @@ Error: Unable to fetch data. HTTP Status Code: 500
 <programme start="20260427165500 +0000" stop="20260426172500 +0000" channel="MDTV.mncvision">
     <title>MDTV</title>
 </programme>
-Error: Unable to fetch data. HTTP Status Code: 500
+<programme start="20260426170000 +0000" stop="20260426170500 +0000" channel="Metro TV.mncvision">
+    <title>Headline News</title>
+</programme>
+<programme start="20260426170500 +0000" stop="20260426173000 +0000" channel="Metro TV.mncvision">
+    <title>Primetime News</title>
+</programme>
+<programme start="20260426173000 +0000" stop="20260426180000 +0000" channel="Metro TV.mncvision">
+    <title>Primetime News</title>
+</programme>
+<programme start="20260426180000 +0000" stop="20260426180500 +0000" channel="Metro TV.mncvision">
+    <title>Headline News</title>
+</programme>
+<programme start="20260426180500 +0000" stop="20260426183000 +0000" channel="Metro TV.mncvision">
+    <title>Primetime News</title>
+</programme>
+<programme start="20260426183000 +0000" stop="20260426190000 +0000" channel="Metro TV.mncvision">
+    <title>Primetime News</title>
+</programme>
+<programme start="20260426190000 +0000" stop="20260426190500 +0000" channel="Metro TV.mncvision">
+    <title>Headline News</title>
+</programme>
+<programme start="20260426190500 +0000" stop="20260426193000 +0000" channel="Metro TV.mncvision">
+    <title>Meet Nite Live</title>
+</programme>
+<programme start="20260426193000 +0000" stop="20260426200000 +0000" channel="Metro TV.mncvision">
+    <title>Meet Nite Live</title>
+</programme>
+<programme start="20260426200000 +0000" stop="20260426200500 +0000" channel="Metro TV.mncvision">
+    <title>Headline News</title>
+</programme>
+<programme start="20260426200500 +0000" stop="20260426203000 +0000" channel="Metro TV.mncvision">
+    <title>Metro This Week</title>
+</programme>
+<programme start="20260426203000 +0000" stop="20260426210000 +0000" channel="Metro TV.mncvision">
+    <title>Gaspoll</title>
+</programme>
+<programme start="20260426210000 +0000" stop="20260426210500 +0000" channel="Metro TV.mncvision">
+    <title>Headline News</title>
+</programme>
+<programme start="20260426210500 +0000" stop="20260426213000 +0000" channel="Metro TV.mncvision">
+    <title>Top News</title>
+</programme>
+<programme start="20260426213000 +0000" stop="20260426220000 +0000" channel="Metro TV.mncvision">
+    <title>Top News</title>
+</programme>
+<programme start="20260426220000 +0000" stop="20260426220500 +0000" channel="Metro TV.mncvision">
+    <title>Headline News</title>
+</programme>
+<programme start="20260426220500 +0000" stop="20260426223000 +0000" channel="Metro TV.mncvision">
+    <title>Metro Pagi Primetime</title>
+</programme>
+<programme start="20260426223000 +0000" stop="20260426230000 +0000" channel="Metro TV.mncvision">
+    <title>Metro Pagi Primetime</title>
+</programme>
+<programme start="20260426230000 +0000" stop="20260426233000 +0000" channel="Metro TV.mncvision">
+    <title>Headline News</title>
+</programme>
+<programme start="20260426233000 +0000" stop="20260427000000 +0000" channel="Metro TV.mncvision">
+    <title>Go Healthy</title>
+</programme>
+<programme start="20260427000000 +0000" stop="20260427000500 +0000" channel="Metro TV.mncvision">
+    <title>Headline News</title>
+</programme>
+<programme start="20260427000500 +0000" stop="20260427003000 +0000" channel="Metro TV.mncvision">
+    <title>Editorial Media Indonesia</title>
+</programme>
+<programme start="20260427003000 +0000" stop="20260427010000 +0000" channel="Metro TV.mncvision">
+    <title>Metro Sport</title>
+</programme>
+<programme start="20260427010000 +0000" stop="20260427010500 +0000" channel="Metro TV.mncvision">
+    <title>Headline News</title>
+</programme>
+<programme start="20260427010500 +0000" stop="20260427013000 +0000" channel="Metro TV.mncvision">
+    <title>Selamat Pagi Indonesia</title>
+</programme>
+<programme start="20260427013000 +0000" stop="20260427020000 +0000" channel="Metro TV.mncvision">
+    <title>Selamat Pagi Indonesia</title>
+</programme>
+<programme start="20260427020000 +0000" stop="20260427020500 +0000" channel="Metro TV.mncvision">
+    <title>Headline News</title>
+</programme>
+<programme start="20260427020500 +0000" stop="20260427023000 +0000" channel="Metro TV.mncvision">
+    <title>Selamat Pagi Indonesia</title>
+</programme>
+<programme start="20260427023000 +0000" stop="20260427030000 +0000" channel="Metro TV.mncvision">
+    <title>Zona Bisnis</title>
+</programme>
+<programme start="20260427030000 +0000" stop="20260427030500 +0000" channel="Metro TV.mncvision">
+    <title>Headline News</title>
+</programme>
+<programme start="20260427030500 +0000" stop="20260427033000 +0000" channel="Metro TV.mncvision">
+    <title>Zona Bisnis</title>
+</programme>
+<programme start="20260427033000 +0000" stop="20260427040000 +0000" channel="Metro TV.mncvision">
+    <title>Go Healthy</title>
+</programme>
+<programme start="20260427040000 +0000" stop="20260427040500 +0000" channel="Metro TV.mncvision">
+    <title>Headline News</title>
+</programme>
+<programme start="20260427040500 +0000" stop="20260427043000 +0000" channel="Metro TV.mncvision">
+    <title>Metro Sport</title>
+</programme>
+<programme start="20260427043000 +0000" stop="20260427050000 +0000" channel="Metro TV.mncvision">
+    <title>Metro Siang</title>
+</programme>
+<programme start="20260427050000 +0000" stop="20260427053000 +0000" channel="Metro TV.mncvision">
+    <title>Metro Siang</title>
+</programme>
+<programme start="20260427053000 +0000" stop="20260427060000 +0000" channel="Metro TV.mncvision">
+    <title>Metro Siang</title>
+</programme>
+<programme start="20260427060000 +0000" stop="20260427063000 +0000" channel="Metro TV.mncvision">
+    <title>Metro Siang</title>
+</programme>
+<programme start="20260427063000 +0000" stop="20260427070000 +0000" channel="Metro TV.mncvision">
+    <title>Prioritas Indonesia</title>
+</programme>
+<programme start="20260427070000 +0000" stop="20260427070500 +0000" channel="Metro TV.mncvision">
+    <title>Headline News</title>
+</programme>
+<programme start="20260427070500 +0000" stop="20260427073000 +0000" channel="Metro TV.mncvision">
+    <title>Newsline</title>
+</programme>
+<programme start="20260427073000 +0000" stop="20260427080000 +0000" channel="Metro TV.mncvision">
+    <title>Newsline</title>
+</programme>
+<programme start="20260427080000 +0000" stop="20260427080500 +0000" channel="Metro TV.mncvision">
+    <title>Headline News</title>
+</programme>
+<programme start="20260427080500 +0000" stop="20260427083000 +0000" channel="Metro TV.mncvision">
+    <title>Newsline</title>
+</programme>
+<programme start="20260427083000 +0000" stop="20260427090000 +0000" channel="Metro TV.mncvision">
+    <title>Newsline</title>
+</programme>
+<programme start="20260427090000 +0000" stop="20260427090500 +0000" channel="Metro TV.mncvision">
+    <title>Headline News</title>
+</programme>
+<programme start="20260427090500 +0000" stop="20260427093000 +0000" channel="Metro TV.mncvision">
+    <title>Metro Hari Ini</title>
+</programme>
+<programme start="20260427093000 +0000" stop="20260427100000 +0000" channel="Metro TV.mncvision">
+    <title>Metro Hari Ini</title>
+</programme>
+<programme start="20260427100000 +0000" stop="20260427103000 +0000" channel="Metro TV.mncvision">
+    <title>Metro Hari Ini</title>
+</programme>
+<programme start="20260427103000 +0000" stop="20260427110000 +0000" channel="Metro TV.mncvision">
+    <title>Primetime News</title>
+</programme>
 <programme start="20260426170000 +0000" stop="20260426190000 +0000" channel="MNCTV.mncvision">
     <title>Suparman Reborn</title>
 </programme>
@@ -5659,7 +5968,54 @@ Error: Unable to fetch data. HTTP Status Code: 500
 <programme start="20260427160000 +0000" stop="20260427163000 +0000" channel="MNCTV.mncvision">
     <title>Arab Maklum</title>
 </programme>
-Error: Unable to fetch data. HTTP Status Code: 500
+<programme start="20260426170000 +0000" stop="20260426190000 +0000" channel="MNCTV HD.mncvision">
+    <title>Suparman Reborn</title>
+</programme>
+<programme start="20260426190000 +0000" stop="20260426220000 +0000" channel="MNCTV HD.mncvision">
+    <title>Suparman Reborn</title>
+</programme>
+<programme start="20260426220000 +0000" stop="20260426230000 +0000" channel="MNCTV HD.mncvision">
+    <title>Siraman Qolbu</title>
+</programme>
+<programme start="20260426230000 +0000" stop="20260426231500 +0000" channel="MNCTV HD.mncvision">
+    <title>CoComelon</title>
+</programme>
+<programme start="20260426231500 +0000" stop="20260427000000 +0000" channel="MNCTV HD.mncvision">
+    <title>Kiko</title>
+</programme>
+<programme start="20260427000000 +0000" stop="20260427004500 +0000" channel="MNCTV HD.mncvision">
+    <title>Dora &amp; Sahabat</title>
+</programme>
+<programme start="20260427004500 +0000" stop="20260427010000 +0000" channel="MNCTV HD.mncvision">
+    <title>Pada Zaman Dahulu</title>
+</programme>
+<programme start="20260427010000 +0000" stop="20260427041500 +0000" channel="MNCTV HD.mncvision">
+    <title>Upin &amp; Ipin</title>
+</programme>
+<programme start="20260427041500 +0000" stop="20260427044500 +0000" channel="MNCTV HD.mncvision">
+    <title>Lintas iNews Siang</title>
+</programme>
+<programme start="20260427044500 +0000" stop="20260427051500 +0000" channel="MNCTV HD.mncvision">
+    <title>Seleb On News</title>
+</programme>
+<programme start="20260427051500 +0000" stop="20260427070000 +0000" channel="MNCTV HD.mncvision">
+    <title>Upin &amp; Ipin</title>
+</programme>
+<programme start="20260427070000 +0000" stop="20260427090000 +0000" channel="MNCTV HD.mncvision">
+    <title>Upin &amp; Ipin</title>
+</programme>
+<programme start="20260427090000 +0000" stop="20260427120000 +0000" channel="MNCTV HD.mncvision">
+    <title>Upin &amp; Ipin</title>
+</programme>
+<programme start="20260427120000 +0000" stop="20260427130000 +0000" channel="MNCTV HD.mncvision">
+    <title>Entong</title>
+</programme>
+<programme start="20260427130000 +0000" stop="20260427160000 +0000" channel="MNCTV HD.mncvision">
+    <title>DMD Panggung Rezeki</title>
+</programme>
+<programme start="20260427160000 +0000" stop="20260427163000 +0000" channel="MNCTV HD.mncvision">
+    <title>Arab Maklum</title>
+</programme>
 <programme start="20260426170700 +0000" stop="20260426172900 +0000" channel="Moonbug.mncvision">
     <title>Oddbods</title>
 </programme>
@@ -6140,8 +6496,306 @@ Error: Unable to fetch data. HTTP Status Code: 500
 <programme start="20260427064000 +0000" stop="20260427071000 +0000" channel="NHK World.mncvision">
     <title>Easy Japanese</title>
 </programme>
-Error: Unable to fetch data. HTTP Status Code: 500
-Error: Unable to fetch data. HTTP Status Code: 500
+<programme start="20260426180000 +0000" stop="20260426183000 +0000" channel="NHK World Premium.mncvision">
+    <title>Ninja Art Of Heart, Popomaru!</title>
+</programme>
+<programme start="20260426183000 +0000" stop="20260426190000 +0000" channel="NHK World Premium.mncvision">
+    <title>Science Zero</title>
+</programme>
+<programme start="20260426190000 +0000" stop="20260426193000 +0000" channel="NHK World Premium.mncvision">
+    <title>Welcome To Special Zoo Tour</title>
+</programme>
+<programme start="20260426193000 +0000" stop="20260426195700 +0000" channel="NHK World Premium.mncvision">
+    <title>Tokyo Local Information</title>
+</programme>
+<programme start="20260426195700 +0000" stop="20260426200000 +0000" channel="NHK World Premium.mncvision">
+    <title>World Weather</title>
+</programme>
+<programme start="20260426200000 +0000" stop="20260426204500 +0000" channel="NHK World Premium.mncvision">
+    <title>Brothers In Arms, Ep 16</title>
+</programme>
+<programme start="20260426204500 +0000" stop="20260426205000 +0000" channel="NHK World Premium.mncvision">
+    <title>Ukiyoe Edo-Life</title>
+</programme>
+<programme start="20260426205000 +0000" stop="20260426205500 +0000" channel="NHK World Premium.mncvision">
+    <title>Hello! NHK World-Japan</title>
+</programme>
+<programme start="20260426205500 +0000" stop="20260426210000 +0000" channel="NHK World Premium.mncvision">
+    <title>World Weather</title>
+</programme>
+<programme start="20260426210000 +0000" stop="20260426220000 +0000" channel="NHK World Premium.mncvision">
+    <title>News: Good Morning, Japan</title>
+</programme>
+<programme start="20260426220000 +0000" stop="20260426230000 +0000" channel="NHK World Premium.mncvision">
+    <title>News: Good Morning, Japan</title>
+</programme>
+<programme start="20260426230000 +0000" stop="20260426231500 +0000" channel="NHK World Premium.mncvision">
+    <title>The Scent Of The Wind, Ep 21</title>
+</programme>
+<programme start="20260426231500 +0000" stop="20260426235500 +0000" channel="NHK World Premium.mncvision">
+    <title>Asaichi</title>
+</programme>
+<programme start="20260426235500 +0000" stop="20260427000000 +0000" channel="NHK World Premium.mncvision">
+    <title>News &amp; Weather</title>
+</programme>
+<programme start="20260427000000 +0000" stop="20260427010000 +0000" channel="NHK World Premium.mncvision">
+    <title>Curious World Traveler: Sevilla</title>
+</programme>
+<programme start="20260427010000 +0000" stop="20260427010500 +0000" channel="NHK World Premium.mncvision">
+    <title>Trip To The Origin Of Japan</title>
+</programme>
+<programme start="20260427010500 +0000" stop="20260427015100 +0000" channel="NHK World Premium.mncvision">
+    <title>Project X: The Challengers</title>
+</programme>
+<programme start="20260427015100 +0000" stop="20260427020500 +0000" channel="NHK World Premium.mncvision">
+    <title>Natural Grandeur Of The East</title>
+</programme>
+<programme start="20260427020500 +0000" stop="20260427025000 +0000" channel="NHK World Premium.mncvision">
+    <title>Rosanjin&#039;s Stove, Ep 4</title>
+</programme>
+<programme start="20260427025000 +0000" stop="20260427025500 +0000" channel="NHK World Premium.mncvision">
+    <title>Songs For Everyone</title>
+</programme>
+<programme start="20260427025500 +0000" stop="20260427030000 +0000" channel="NHK World Premium.mncvision">
+    <title>World Weather</title>
+</programme>
+<programme start="20260427030000 +0000" stop="20260427032000 +0000" channel="NHK World Premium.mncvision">
+    <title>News</title>
+</programme>
+<programme start="20260427032000 +0000" stop="20260427032800 +0000" channel="NHK World Premium.mncvision">
+    <title>Information Worth Knowing...</title>
+</programme>
+<programme start="20260427032800 +0000" stop="20260427033000 +0000" channel="NHK World Premium.mncvision">
+    <title>Mini Program</title>
+</programme>
+<programme start="20260427033000 +0000" stop="20260427034500 +0000" channel="NHK World Premium.mncvision">
+    <title>Massan, Ep 84</title>
+</programme>
+<programme start="20260427034500 +0000" stop="20260427040000 +0000" channel="NHK World Premium.mncvision">
+    <title>The Scent Of The Wind, Ep 21</title>
+</programme>
+<programme start="20260427040000 +0000" stop="20260427040500 +0000" channel="NHK World Premium.mncvision">
+    <title>News</title>
+</programme>
+<programme start="20260427040500 +0000" stop="20260427055000 +0000" channel="NHK World Premium.mncvision">
+    <title>News Around Japan</title>
+</programme>
+<programme start="20260427055000 +0000" stop="20260427055500 +0000" channel="NHK World Premium.mncvision">
+    <title>World Weather</title>
+</programme>
+<programme start="20260427055500 +0000" stop="20260427060000 +0000" channel="NHK World Premium.mncvision">
+    <title>Mini Program</title>
+</programme>
+<programme start="20260427060000 +0000" stop="20260427061000 +0000" channel="NHK World Premium.mncvision">
+    <title>News &amp; Weather</title>
+</programme>
+<programme start="20260427061000 +0000" stop="20260427065500 +0000" channel="NHK World Premium.mncvision">
+    <title>Songs Of Our Generation</title>
+</programme>
+<programme start="20260427065500 +0000" stop="20260427074000 +0000" channel="NHK World Premium.mncvision">
+    <title>Fountain Of Ancient Wisdom</title>
+</programme>
+<programme start="20260427074000 +0000" stop="20260427081000 +0000" channel="NHK World Premium.mncvision">
+    <title>Asaichi On ETV</title>
+</programme>
+<programme start="20260427081000 +0000" stop="20260427082000 +0000" channel="NHK World Premium.mncvision">
+    <title>Fun With Japanese</title>
+</programme>
+<programme start="20260427082000 +0000" stop="20260427083500 +0000" channel="NHK World Premium.mncvision">
+    <title>Peek-A-Boo</title>
+</programme>
+<programme start="20260427083500 +0000" stop="20260427085900 +0000" channel="NHK World Premium.mncvision">
+    <title>With Mother</title>
+</programme>
+<programme start="20260427085900 +0000" stop="20260427090000 +0000" channel="NHK World Premium.mncvision">
+    <title>1-Minute Anime: Songs For SDGs</title>
+</programme>
+<programme start="20260427090000 +0000" stop="20260427091000 +0000" channel="NHK World Premium.mncvision">
+    <title>News</title>
+</programme>
+<programme start="20260427091000 +0000" stop="20260427092500 +0000" channel="NHK World Premium.mncvision">
+    <title>Kid&#039;s Discovery</title>
+</programme>
+<programme start="20260427092500 +0000" stop="20260427095500 +0000" channel="NHK World Premium.mncvision">
+    <title>Whiz-Kids TV Grow</title>
+</programme>
+<programme start="20260427095500 +0000" stop="20260427100000 +0000" channel="NHK World Premium.mncvision">
+    <title>World Weather</title>
+</programme>
+<programme start="20260427100000 +0000" stop="20260427103000 +0000" channel="NHK World Premium.mncvision">
+    <title>NHK News 7</title>
+</programme>
+<programme start="20260427103000 +0000" stop="20260427105700 +0000" channel="NHK World Premium.mncvision">
+    <title>Japan Delish</title>
+</programme>
+<programme start="20260427105700 +0000" stop="20260427114300 +0000" channel="NHK World Premium.mncvision">
+    <title>Tsurube&#039;s Salute To Families</title>
+</programme>
+<programme start="20260427114300 +0000" stop="20260427114500 +0000" channel="NHK World Premium.mncvision">
+    <title>World Weather</title>
+</programme>
+<programme start="20260427114500 +0000" stop="20260427120000 +0000" channel="NHK World Premium.mncvision">
+    <title>NHK News</title>
+</programme>
+<programme start="20260427120000 +0000" stop="20260427130000 +0000" channel="NHK World Premium.mncvision">
+    <title>News Watch 9</title>
+</programme>
+<programme start="20260427130000 +0000" stop="20260427134500 +0000" channel="NHK World Premium.mncvision">
+    <title>Fountain Of Ancient Wisdom</title>
+</programme>
+<programme start="20260427134500 +0000" stop="20260427141500 +0000" channel="NHK World Premium.mncvision">
+    <title>Radio Star, Ep 17</title>
+</programme>
+<programme start="20260426171000 +0000" stop="20260426171500 +0000" channel="Nick Jr. HD.mncvision">
+    <title>Peppa Pig</title>
+</programme>
+<programme start="20260426171500 +0000" stop="20260426172000 +0000" channel="Nick Jr. HD.mncvision">
+    <title>Peppa Pig</title>
+</programme>
+<programme start="20260426172000 +0000" stop="20260426172500 +0000" channel="Nick Jr. HD.mncvision">
+    <title>Peppa Pig</title>
+</programme>
+<programme start="20260426172500 +0000" stop="20260426173000 +0000" channel="Nick Jr. HD.mncvision">
+    <title>Peppa Pig</title>
+</programme>
+<programme start="20260426173000 +0000" stop="20260426175000 +0000" channel="Nick Jr. HD.mncvision">
+    <title>Barbapapa: Big Happy Family!</title>
+</programme>
+<programme start="20260426175000 +0000" stop="20260426182500 +0000" channel="Nick Jr. HD.mncvision">
+    <title>Barbapapa: Big Happy Family!</title>
+</programme>
+<programme start="20260426182500 +0000" stop="20260426184500 +0000" channel="Nick Jr. HD.mncvision">
+    <title>PAW Patrol</title>
+</programme>
+<programme start="20260426184500 +0000" stop="20260426192000 +0000" channel="Nick Jr. HD.mncvision">
+    <title>PAW Patrol</title>
+</programme>
+<programme start="20260426192000 +0000" stop="20260426194500 +0000" channel="Nick Jr. HD.mncvision">
+    <title>Rubble &amp; Crew</title>
+</programme>
+<programme start="20260426194500 +0000" stop="20260426200500 +0000" channel="Nick Jr. HD.mncvision">
+    <title>Dora</title>
+</programme>
+<programme start="20260426200500 +0000" stop="20260426202500 +0000" channel="Nick Jr. HD.mncvision">
+    <title>Dora</title>
+</programme>
+<programme start="20260426202500 +0000" stop="20260426205000 +0000" channel="Nick Jr. HD.mncvision">
+    <title>Barbapapa: Big Happy Family!</title>
+</programme>
+<programme start="20260426205000 +0000" stop="20260426211000 +0000" channel="Nick Jr. HD.mncvision">
+    <title>Barbapapa: Big Happy Family!</title>
+</programme>
+<programme start="20260426211000 +0000" stop="20260426213500 +0000" channel="Nick Jr. HD.mncvision">
+    <title>Barbapapa: Big Happy Family!</title>
+</programme>
+<programme start="20260426213500 +0000" stop="20260426215500 +0000" channel="Nick Jr. HD.mncvision">
+    <title>Barbapapa: Big Happy Family!</title>
+</programme>
+<programme start="20260426215500 +0000" stop="20260426222000 +0000" channel="Nick Jr. HD.mncvision">
+    <title>Barbapapa: Big Happy Family!</title>
+</programme>
+<programme start="20260426222000 +0000" stop="20260426224000 +0000" channel="Nick Jr. HD.mncvision">
+    <title>Rubble &amp; Crew</title>
+</programme>
+<programme start="20260426224000 +0000" stop="20260426230500 +0000" channel="Nick Jr. HD.mncvision">
+    <title>Rubble &amp; Crew</title>
+</programme>
+<programme start="20260426230500 +0000" stop="20260426232500 +0000" channel="Nick Jr. HD.mncvision">
+    <title>PAW Patrol</title>
+</programme>
+<programme start="20260426232500 +0000" stop="20260426235000 +0000" channel="Nick Jr. HD.mncvision">
+    <title>PAW Patrol</title>
+</programme>
+<programme start="20260426235000 +0000" stop="20260427001000 +0000" channel="Nick Jr. HD.mncvision">
+    <title>Barbapapa: Big Happy Family!</title>
+</programme>
+<programme start="20260427001000 +0000" stop="20260427003500 +0000" channel="Nick Jr. HD.mncvision">
+    <title>Barbapapa: Big Happy Family!</title>
+</programme>
+<programme start="20260427003500 +0000" stop="20260427004000 +0000" channel="Nick Jr. HD.mncvision">
+    <title>Tim Rex In Space</title>
+</programme>
+<programme start="20260427004000 +0000" stop="20260427005000 +0000" channel="Nick Jr. HD.mncvision">
+    <title>Tim Rex In Space</title>
+</programme>
+<programme start="20260427005000 +0000" stop="20260427005500 +0000" channel="Nick Jr. HD.mncvision">
+    <title>Tim Rex In Space</title>
+</programme>
+<programme start="20260427005500 +0000" stop="20260427012000 +0000" channel="Nick Jr. HD.mncvision">
+    <title>Rubble &amp; Crew</title>
+</programme>
+<programme start="20260427012000 +0000" stop="20260427014500 +0000" channel="Nick Jr. HD.mncvision">
+    <title>Rubble &amp; Crew</title>
+</programme>
+<programme start="20260427014500 +0000" stop="20260427020500 +0000" channel="Nick Jr. HD.mncvision">
+    <title>Dora</title>
+</programme>
+<programme start="20260427020500 +0000" stop="20260427023000 +0000" channel="Nick Jr. HD.mncvision">
+    <title>Blaze &amp; The Monster Machines</title>
+</programme>
+<programme start="20260427023000 +0000" stop="20260427025000 +0000" channel="Nick Jr. HD.mncvision">
+    <title>Mr. Crocodile</title>
+</programme>
+<programme start="20260427025000 +0000" stop="20260427031500 +0000" channel="Nick Jr. HD.mncvision">
+    <title>Barbapapa: Big Happy Family!</title>
+</programme>
+<programme start="20260427031500 +0000" stop="20260427033500 +0000" channel="Nick Jr. HD.mncvision">
+    <title>Barbapapa: Big Happy Family!</title>
+</programme>
+<programme start="20260427033500 +0000" stop="20260427042000 +0000" channel="Nick Jr. HD.mncvision">
+    <title>Tim Rex In Space</title>
+</programme>
+<programme start="20260427042000 +0000" stop="20260427044500 +0000" channel="Nick Jr. HD.mncvision">
+    <title>Blaze &amp; The Monster Machines</title>
+</programme>
+<programme start="20260427044500 +0000" stop="20260427045500 +0000" channel="Nick Jr. HD.mncvision">
+    <title>Rubble &amp; Crew</title>
+</programme>
+<programme start="20260427045500 +0000" stop="20260427050500 +0000" channel="Nick Jr. HD.mncvision">
+    <title>Rubble &amp; Crew</title>
+</programme>
+<programme start="20260427050500 +0000" stop="20260427053000 +0000" channel="Nick Jr. HD.mncvision">
+    <title>Rubble &amp; Crew</title>
+</programme>
+<programme start="20260427053000 +0000" stop="20260427055000 +0000" channel="Nick Jr. HD.mncvision">
+    <title>PAW Patrol</title>
+</programme>
+<programme start="20260427055000 +0000" stop="20260427061500 +0000" channel="Nick Jr. HD.mncvision">
+    <title>PAW Patrol</title>
+</programme>
+<programme start="20260427061500 +0000" stop="20260427063500 +0000" channel="Nick Jr. HD.mncvision">
+    <title>Dora</title>
+</programme>
+<programme start="20260427063500 +0000" stop="20260427065000 +0000" channel="Nick Jr. HD.mncvision">
+    <title>Dora</title>
+</programme>
+<programme start="20260427065000 +0000" stop="20260427065500 +0000" channel="Nick Jr. HD.mncvision">
+    <title>Tim Rex In Space</title>
+</programme>
+<programme start="20260427065500 +0000" stop="20260427070500 +0000" channel="Nick Jr. HD.mncvision">
+    <title>Tim Rex In Space</title>
+</programme>
+<programme start="20260427070500 +0000" stop="20260427071000 +0000" channel="Nick Jr. HD.mncvision">
+    <title>Tim Rex In Space</title>
+</programme>
+<programme start="20260427071000 +0000" stop="20260427071500 +0000" channel="Nick Jr. HD.mncvision">
+    <title>Peppa Pig</title>
+</programme>
+<programme start="20260427071500 +0000" stop="20260427072000 +0000" channel="Nick Jr. HD.mncvision">
+    <title>Peppa Pig</title>
+</programme>
+<programme start="20260427072000 +0000" stop="20260427072500 +0000" channel="Nick Jr. HD.mncvision">
+    <title>Peppa Pig</title>
+</programme>
+<programme start="20260427072500 +0000" stop="20260427073000 +0000" channel="Nick Jr. HD.mncvision">
+    <title>Peppa Pig</title>
+</programme>
+<programme start="20260427073000 +0000" stop="20260427073500 +0000" channel="Nick Jr. HD.mncvision">
+    <title>Peppa Pig</title>
+</programme>
+<programme start="20260427073500 +0000" stop="20260427080500 +0000" channel="Nick Jr. HD.mncvision">
+    <title>Peppa Pig</title>
+</programme>
 <programme start="20260426170000 +0000" stop="20260426172500 +0000" channel="Nickelodeon.mncvision">
     <title>That Girl Lay Lay</title>
 </programme>
@@ -7225,7 +7879,75 @@ Error: Unable to fetch data. HTTP Status Code: 500
 <programme start="20260427153000 +0000" stop="20260427160000 +0000" channel="Sindo News TV.mncvision">
     <title>Rakyat Bersuara</title>
 </programme>
-Error: Unable to fetch data. HTTP Status Code: 500
+<programme start="20260426170000 +0000" stop="20260426180000 +0000" channel="Sindo News TV HD.mncvision">
+    <title>iNews Sore</title>
+</programme>
+<programme start="20260426180000 +0000" stop="20260426193000 +0000" channel="Sindo News TV HD.mncvision">
+    <title>SINDO Breaking News</title>
+</programme>
+<programme start="20260426193000 +0000" stop="20260426200000 +0000" channel="Sindo News TV HD.mncvision">
+    <title>iNews Sport</title>
+</programme>
+<programme start="20260426200000 +0000" stop="20260426210000 +0000" channel="Sindo News TV HD.mncvision">
+    <title>iNews Malam</title>
+</programme>
+<programme start="20260426210000 +0000" stop="20260426220000 +0000" channel="Sindo News TV HD.mncvision">
+    <title>SINDO Sore</title>
+</programme>
+<programme start="20260426220000 +0000" stop="20260426230000 +0000" channel="Sindo News TV HD.mncvision">
+    <title>SINDO Malam</title>
+</programme>
+<programme start="20260426230000 +0000" stop="20260427000000 +0000" channel="Sindo News TV HD.mncvision">
+    <title>SINDO Files</title>
+</programme>
+<programme start="20260427000000 +0000" stop="20260427003000 +0000" channel="Sindo News TV HD.mncvision">
+    <title>iNews Files</title>
+</programme>
+<programme start="20260427003000 +0000" stop="20260427020000 +0000" channel="Sindo News TV HD.mncvision">
+    <title>SINDO Today</title>
+</programme>
+<programme start="20260427020000 +0000" stop="20260427030000 +0000" channel="Sindo News TV HD.mncvision">
+    <title>Special Report</title>
+</programme>
+<programme start="20260427030000 +0000" stop="20260427033000 +0000" channel="Sindo News TV HD.mncvision">
+    <title>iNews Sport Pagi</title>
+</programme>
+<programme start="20260427033000 +0000" stop="20260427050000 +0000" channel="Sindo News TV HD.mncvision">
+    <title>SINDO Siang</title>
+</programme>
+<programme start="20260427050000 +0000" stop="20260427053000 +0000" channel="Sindo News TV HD.mncvision">
+    <title>Lintas iNews Siang</title>
+</programme>
+<programme start="20260427053000 +0000" stop="20260427063000 +0000" channel="Sindo News TV HD.mncvision">
+    <title>iNews Today</title>
+</programme>
+<programme start="20260427063000 +0000" stop="20260427070000 +0000" channel="Sindo News TV HD.mncvision">
+    <title>Seputar iNews Siang</title>
+</programme>
+<programme start="20260427070000 +0000" stop="20260427083000 +0000" channel="Sindo News TV HD.mncvision">
+    <title>iNews Siang</title>
+</programme>
+<programme start="20260427083000 +0000" stop="20260427093000 +0000" channel="Sindo News TV HD.mncvision">
+    <title>Special Report</title>
+</programme>
+<programme start="20260427093000 +0000" stop="20260427110000 +0000" channel="Sindo News TV HD.mncvision">
+    <title>SINDO Sore</title>
+</programme>
+<programme start="20260427110000 +0000" stop="20260427120000 +0000" channel="Sindo News TV HD.mncvision">
+    <title>SINDO Files</title>
+</programme>
+<programme start="20260427120000 +0000" stop="20260427133000 +0000" channel="Sindo News TV HD.mncvision">
+    <title>SINDO Prime</title>
+</programme>
+<programme start="20260427133000 +0000" stop="20260427143000 +0000" channel="Sindo News TV HD.mncvision">
+    <title>SINDO Malam</title>
+</programme>
+<programme start="20260427143000 +0000" stop="20260427153000 +0000" channel="Sindo News TV HD.mncvision">
+    <title>One On One</title>
+</programme>
+<programme start="20260427153000 +0000" stop="20260427160000 +0000" channel="Sindo News TV HD.mncvision">
+    <title>Rakyat Bersuara</title>
+</programme>
 <programme start="20260426173000 +0000" stop="20260426180000 +0000" channel="Soccer Channel.mncvision">
     <title>World Classic Soccer</title>
 </programme>
