@@ -15225,12 +15225,12 @@
   </channel>
   <programme start="20260426140000 +0000" stop="20260426202500 +0000" channel="unifisports1.unifitv">
     <title lang="en">UFC Fight Night: Sterling vs. Zalal - Main</title>
-    <desc lang="en">The month of April wraps with a return to Meta APEX for a UFC Fight Night event capped by a thrilling  clash between Top 10 featherweights Aljamain “Funk Master” Sterling and Youssef “The Moroccan  Devil” Zalal</desc>
+    <desc lang="en">The month of April wraps with a return to Meta APEX for a UFC Fight Night event capped by a thrilling clash between Top 10 featherweights Aljamain “Funk Master” Sterling and Youssef “The Moroccan Devil” Zalal</desc>
     <category lang="en">Sports</category>
   </programme>
   <programme start="20260426202500 +0000" stop="20260426203000 +0000" channel="unifisports1.unifitv">
     <title lang="en">LALIGA TOP GOALS GUAYRE BETANCOR - LALIGA TOP GOALS GUAYRE BETANCOR</title>
-    <desc lang="en">A selection of top goals from Guayre, a leading light for Villarreal in their push to become one of LaLiga’s elite.</desc>
+    <desc lang="en">A selection of top goals from Guayre, a leading light for Villarreal in their push to become one of LaLiga's elite.</desc>
     <category lang="en">Sports</category>
   </programme>
   <programme start="20260426203000 +0000" stop="20260427015500 +0000" channel="unifisports1.unifitv">
@@ -15240,7 +15240,7 @@
   </programme>
   <programme start="20260427015500 +0000" stop="20260427020000 +0000" channel="unifisports1.unifitv">
     <title lang="en">LALIGA TOP GOALS GUAYRE BETANCOR - LALIGA TOP GOALS GUAYRE BETANCOR</title>
-    <desc lang="en">A selection of top goals from Guayre, a leading light for Villarreal in their push to become one of LaLiga’s elite.</desc>
+    <desc lang="en">A selection of top goals from Guayre, a leading light for Villarreal in their push to become one of LaLiga's elite.</desc>
     <category lang="en">Sports</category>
   </programme>
   <programme start="20260427020000 +0000" stop="20260427050000 +0000" channel="unifisports1.unifitv">
@@ -15255,7 +15255,7 @@
   </programme>
   <programme start="20260427055500 +0000" stop="20260427060000 +0000" channel="unifisports1.unifitv">
     <title lang="en">LALIGA TOP GOALS ENRIQUE DE LUCAS - LALIGA TOP GOALS ENRIQUE DE LUCAS</title>
-    <desc lang="en">Predatory finishing &amp; net-busting missiles from long range. A celebration of Quique de Lucas – one of LaLiga’s longest serving attacking talents.</desc>
+    <desc lang="en">Predatory finishing &amp; net-busting missiles from long range. A celebration of Quique de Lucas - one of LaLiga's longest serving attacking talents.</desc>
     <category lang="en">Sports</category>
   </programme>
   <programme start="20260427060000 +0000" stop="20260427083000 +0000" channel="unifisports1.unifitv">
@@ -15275,7 +15275,7 @@
   </programme>
   <programme start="20260427093000 +0000" stop="20260427100000 +0000" channel="unifisports1.unifitv">
     <title lang="en">UFC Fight Flashback - UFC Fight Flashback 1003: Moreno vs Figueiredo 3</title>
-    <desc lang="en">UFC 270 featured the third meeting between flyweight rivals Deiveson Figueiredo and Mexican champion Brandon Moreno. Relive their incredible battle like you’ve never seen it with enhanced replays and angles, new footage, and exclusive audio.</desc>
+    <desc lang="en">UFC 270 featured the third meeting between flyweight rivals Deiveson Figueiredo and Mexican champion Brandon Moreno. Relive their incredible battle like you've never seen it with enhanced replays and angles, new footage, and exclusive audio.</desc>
     <category lang="en">Sports</category>
   </programme>
   <programme start="20260427100000 +0000" stop="20260427123000 +0000" channel="unifisports1.unifitv">
@@ -15290,17 +15290,17 @@
   </programme>
   <programme start="20260427130000 +0000" stop="20260427135500 +0000" channel="unifisports1.unifitv">
     <title lang="en">UFC Countdown - UFC 321: Aspinall vs Gane</title>
-    <desc lang="en">UFC 321 Countdown takes an inside look at the promotion’s return to Abu Dhabi, where heavyweight king Tom Aspinall battles former interim champion Ciryl Gane. Plus, Virna Jandiroba takes on Mackenzie Dern for the vacant strawweight title.</desc>
+    <desc lang="en">UFC 321 Countdown takes an inside look at the promotion's return to Abu Dhabi, where heavyweight king Tom Aspinall battles former interim champion Ciryl Gane. Plus, Virna Jandiroba takes on Mackenzie Dern for the vacant strawweight title.</desc>
     <category lang="en">Sports</category>
   </programme>
   <programme start="20260427135500 +0000" stop="20260427140000 +0000" channel="unifisports1.unifitv">
     <title lang="en">LALIGA TOP GOALS GUAYRE BETANCOR - LALIGA TOP GOALS GUAYRE BETANCOR</title>
-    <desc lang="en">A selection of top goals from Guayre, a leading light for Villarreal in their push to become one of LaLiga’s elite.</desc>
+    <desc lang="en">A selection of top goals from Guayre, a leading light for Villarreal in their push to become one of LaLiga's elite.</desc>
     <category lang="en">Sports</category>
   </programme>
   <programme start="20260427140000 +0000" stop="20260427202500 +0000" channel="unifisports1.unifitv">
     <title lang="en">UFC Fight Night: Sterling vs. Zalal - Main</title>
-    <desc lang="en">The month of April wraps with a return to Meta APEX for a UFC Fight Night event capped by a thrilling  clash between Top 10 featherweights Aljamain “Funk Master” Sterling and Youssef “The Moroccan  Devil” Zalal</desc>
+    <desc lang="en">The month of April wraps with a return to Meta APEX for a UFC Fight Night event capped by a thrilling clash between Top 10 featherweights Aljamain “Funk Master” Sterling and Youssef “The Moroccan Devil” Zalal</desc>
     <category lang="en">Sports</category>
   </programme>
   <channel id="spotv.unifitv">

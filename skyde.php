@@ -2750,6 +2750,12 @@ Warning: Undefined array key "et" in /usr/home/ManusiaBiasa/domains/manusiabiasa
 <programme start="20260427013000 +0000" stop="20260427050000 +0000" channel="Sky Sport Mix HD.skyde">
     <title>Live NHL: Edmonton Oilers @ Anaheim Ducks, Playoffs, 1. Runde, Spiel 4</title>
 </programme>
+<programme start="20260427050000 +0000" stop="20260427055500 +0000" channel="Sky Sport Mix HD.skyde">
+    <title>3. Liga: Alle Spiele, alle Tore, 35. Spieltag komplett</title>
+</programme>
+<programme start="20260427055500 +0000" stop="20260427074000 +0000" channel="Sky Sport Mix HD.skyde">
+    <title>NHL: Buffalo Sabres @ Boston Bruins, Playoffs, 1. Runde, Spiel 4</title>
+</programme>
 <programme start="20260427074000 +0000" stop="20260427084000 +0000" channel="Sky Sport Mix HD.skyde">
     <title>MotoGP: Rennen - GP Spanien</title>
 </programme>
@@ -2957,47 +2963,47 @@ Warning: Undefined array key "et" in /usr/home/ManusiaBiasa/domains/manusiabiasa
 <programme start="20260427214500 +0000" stop="20260427220000 +0000" channel="Sky Sport Premier League HD.skyde">
     <title>EFL: Highlights XXL: West Bromwich Albion - Ipswich Town, 45. Spieltag</title>
 </programme>
-<programme start="20260426220000 +0000" stop="20260427003000 +0000" channel="Sky Sport Tennis HD.skyde">
+<programme start="20260426231500 +0000" stop="20260427012000 +0000" channel="Sky Sport Tennis HD.skyde">
     <title>ATP 500: B. Shelton (USA) - F. Cobolli (ITA), BMW Open in München, Finale</title>
 </programme>
-<programme start="20260427003000 +0000" stop="20260427023000 +0000" channel="Sky Sport Tennis HD.skyde">
+<programme start="20260427012000 +0000" stop="20260427032000 +0000" channel="Sky Sport Tennis HD.skyde">
     <title>WTA 1000: Q. Zheng (CHN) - E. Rybakina (KAZ), Mutua Madrid Open in Madrid (ESP), 6. Tag</title>
 </programme>
-<programme start="20260427023000 +0000" stop="20260427043000 +0000" channel="Sky Sport Tennis HD.skyde">
+<programme start="20260427032000 +0000" stop="20260427045500 +0000" channel="Sky Sport Tennis HD.skyde">
     <title>ATP 1000: J. Sinner (ITA) - E. Moller (DEN), Mutua Madrid Open in Madrid (ESP), 6. Tag</title>
 </programme>
-<programme start="20260427043000 +0000" stop="20260427050000 +0000" channel="Sky Sport Tennis HD.skyde">
+<programme start="20260427045500 +0000" stop="20260427052500 +0000" channel="Sky Sport Tennis HD.skyde">
     <title>ATP: This Week</title>
 </programme>
-<programme start="20260427050000 +0000" stop="20260427070000 +0000" channel="Sky Sport Tennis HD.skyde">
+<programme start="20260427052500 +0000" stop="20260427073000 +0000" channel="Sky Sport Tennis HD.skyde">
     <title>WTA 1000: Q. Zheng (CHN) - E. Rybakina (KAZ), Mutua Madrid Open in Madrid (ESP), 6. Tag</title>
 </programme>
-<programme start="20260427070000 +0000" stop="20260427090000 +0000" channel="Sky Sport Tennis HD.skyde">
+<programme start="20260427073000 +0000" stop="20260427090000 +0000" channel="Sky Sport Tennis HD.skyde">
     <title>ATP 1000: J. Sinner (ITA) - E. Moller (DEN), Mutua Madrid Open in Madrid (ESP), 6. Tag</title>
 </programme>
 <programme start="20260427090000 +0000" stop="20260427220000 +0000" channel="Sky Sport Tennis HD.skyde">
     <title>Live ATP &amp; WTA: Konferenz Mutua Madrid Open in Madrid (ESP), 7. Tag</title>
 </programme>
-<programme start="20260426233000 +0000" stop="20260427013000 +0000" channel="Sky Sport Top Event HD.skyde">
+<programme start="20260426220000 +0000" stop="20260426233500 +0000" channel="Sky Sport Top Event HD.skyde">
+    <title>Live NHL: Colorado Avalanche @ Los Angeles Kings, Playoffs, 1. Runde, Spiel 4</title>
+</programme>
+<programme start="20260426233500 +0000" stop="20260427013500 +0000" channel="Sky Sport Top Event HD.skyde">
     <title>Live NBA: Boston Celtics @ Philadelphia 76ers, Playoffs, Runde 1, Spiel 4</title>
 </programme>
-<programme start="20260427013000 +0000" stop="20260427040000 +0000" channel="Sky Sport Top Event HD.skyde">
+<programme start="20260427013500 +0000" stop="20260427042000 +0000" channel="Sky Sport Top Event HD.skyde">
     <title>Live NBA: LA Lakers @ Houston Rockets, Playoffs, Runde 1, Spiel 4</title>
 </programme>
-<programme start="20260427040000 +0000" stop="20260427043000 +0000" channel="Sky Sport Top Event HD.skyde">
+<programme start="20260427042000 +0000" stop="20260427045000 +0000" channel="Sky Sport Top Event HD.skyde">
     <title>Live NBA: Showtime - Post Show</title>
 </programme>
-<programme start="20260427043000 +0000" stop="20260427053000 +0000" channel="Sky Sport Top Event HD.skyde">
+<programme start="20260427045000 +0000" stop="20260427060000 +0000" channel="Sky Sport Top Event HD.skyde">
     <title>3. Liga: Alle Spiele, alle Tore, 35. Spieltag komplett</title>
 </programme>
-<programme start="20260427053000 +0000" stop="20260427063000 +0000" channel="Sky Sport Top Event HD.skyde">
+<programme start="20260427060000 +0000" stop="20260427070000 +0000" channel="Sky Sport Top Event HD.skyde">
     <title>2. BL Kompakt: 31. Spieltag</title>
 </programme>
-<programme start="20260427063000 +0000" stop="20260427073000 +0000" channel="Sky Sport Top Event HD.skyde">
+<programme start="20260427070000 +0000" stop="20260427080000 +0000" channel="Sky Sport Top Event HD.skyde">
     <title>BL Kompakt: 31. Spieltag</title>
-</programme>
-<programme start="20260427073000 +0000" stop="20260427080000 +0000" channel="Sky Sport Top Event HD.skyde">
-    <title>Frauen-BL: Alle Spiele, alle Tore, 23. Spieltag, Sonntag</title>
 </programme>
 <programme start="20260427080000 +0000" stop="20260427090000 +0000" channel="Sky Sport Top Event HD.skyde">
     <title>MotoGP: Rennen - GP Spanien</title>
@@ -3040,9 +3046,6 @@ Warning: Undefined array key "et" in /usr/home/ManusiaBiasa/domains/manusiabiasa
 </programme>
 <programme start="20260427090000 +0000" stop="20260428000000 +0000" channel="Sky Sport 2 HD.skyde">
     <title>Live WTA 1000: Mutua Madrid Open in Madrid (ESP), 7. Tag</title>
-</programme>
-<programme start="20260426220000 +0000" stop="20260426223000 +0000" channel="Sky Sport 4 HD.skyde">
-    <title>NBA: On Fire</title>
 </programme>
 <programme start="20260426223000 +0000" stop="20260426230000 +0000" channel="Sky Sport 4 HD.skyde">
     <title>Live NBA: Showtime</title>
