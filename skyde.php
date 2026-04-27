@@ -2735,7 +2735,7 @@ Warning: Undefined array key "et" in /usr/home/ManusiaBiasa/domains/manusiabiasa
 <programme start="20260427210000 +0000" stop="20260428010000 +0000" channel="Sky Sport Golf HD.skyde">
     <title>Golf Ladies ET: Investec South African Women&#039;s Open, 4. Tag in Kapstadt (Südafrika)</title>
 </programme>
-<programme start="20260426233000 +0000" stop="20260427003000 +0000" channel="Sky Sport Mix HD.skyde">
+<programme start="20260426233500 +0000" stop="20260427003000 +0000" channel="Sky Sport Mix HD.skyde">
     <title>3. Liga: Alle Spiele, alle Tore, 35. Spieltag komplett</title>
 </programme>
 <programme start="20260427003000 +0000" stop="20260427010000 +0000" channel="Sky Sport Mix HD.skyde">
@@ -2747,19 +2747,13 @@ Warning: Undefined array key "et" in /usr/home/ManusiaBiasa/domains/manusiabiasa
 <programme start="20260427011500 +0000" stop="20260427013000 +0000" channel="Sky Sport Mix HD.skyde">
     <title>NHL: Highlights DAL@MIN, Playoffs, 1. Runde, Spiel 4</title>
 </programme>
-<programme start="20260427013000 +0000" stop="20260427043000 +0000" channel="Sky Sport Mix HD.skyde">
+<programme start="20260427013000 +0000" stop="20260427050000 +0000" channel="Sky Sport Mix HD.skyde">
     <title>Live NHL: Edmonton Oilers @ Anaheim Ducks, Playoffs, 1. Runde, Spiel 4</title>
 </programme>
-<programme start="20260427043000 +0000" stop="20260427053000 +0000" channel="Sky Sport Mix HD.skyde">
-    <title>3. Liga: Alle Spiele, alle Tore, 35. Spieltag komplett</title>
-</programme>
-<programme start="20260427053000 +0000" stop="20260427073000 +0000" channel="Sky Sport Mix HD.skyde">
-    <title>NHL: Buffalo Sabres @ Boston Bruins, Playoffs, 1. Runde, Spiel 4</title>
-</programme>
-<programme start="20260427073000 +0000" stop="20260427083000 +0000" channel="Sky Sport Mix HD.skyde">
+<programme start="20260427074000 +0000" stop="20260427084000 +0000" channel="Sky Sport Mix HD.skyde">
     <title>MotoGP: Rennen - GP Spanien</title>
 </programme>
-<programme start="20260427083000 +0000" stop="20260427110000 +0000" channel="Sky Sport Mix HD.skyde">
+<programme start="20260427084000 +0000" stop="20260427110000 +0000" channel="Sky Sport Mix HD.skyde">
     <title>NBA: Cleveland Cavaliers @ Toronto Raptors, Playoffs, Runde 1, Spiel 4</title>
 </programme>
 <programme start="20260427110000 +0000" stop="20260427111500 +0000" channel="Sky Sport Mix HD.skyde">

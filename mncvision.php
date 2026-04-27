@@ -8464,19 +8464,19 @@
 <programme start="20260427010000 +0000" stop="20260427040000 +0000" channel="SPOTV 2.mncvision">
     <title>2026 WTCS, Samarkand</title>
 </programme>
-<programme start="20260427040000 +0000" stop="20260427070000 +0000" channel="SPOTV 2.mncvision">
+<programme start="20260427040000 +0000" stop="20260427063000 +0000" channel="SPOTV 2.mncvision">
     <title>2026 WTCS, Samarkand</title>
 </programme>
-<programme start="20260427070000 +0000" stop="20260427093000 +0000" channel="SPOTV 2.mncvision">
+<programme start="20260427063000 +0000" stop="20260427092500 +0000" channel="SPOTV 2.mncvision">
     <title>2026 MLB: LAD Vs CHI</title>
 </programme>
-<programme start="20260427093000 +0000" stop="20260427100000 +0000" channel="SPOTV 2.mncvision">
+<programme start="20260427092500 +0000" stop="20260427100000 +0000" channel="SPOTV 2.mncvision">
     <title>ALM Mini Match: MVC Vs NEW</title>
 </programme>
-<programme start="20260427100000 +0000" stop="20260427110000 +0000" channel="SPOTV 2.mncvision">
+<programme start="20260427100000 +0000" stop="20260427104700 +0000" channel="SPOTV 2.mncvision">
     <title>MotoGP Estrella Galicia Spain</title>
 </programme>
-<programme start="20260427110000 +0000" stop="20260427153000 +0000" channel="SPOTV 2.mncvision">
+<programme start="20260427104700 +0000" stop="20260427153000 +0000" channel="SPOTV 2.mncvision">
     <title>MotoGP Estrella Galicia Spain</title>
 </programme>
 <programme start="20260427153000 +0000" stop="20260427160000 +0000" channel="SPOTV 2.mncvision">
@@ -8500,19 +8500,19 @@
 <programme start="20260427010000 +0000" stop="20260427040000 +0000" channel="SPOTV 2 HD.mncvision">
     <title>2026 WTCS, Samarkand</title>
 </programme>
-<programme start="20260427040000 +0000" stop="20260427070000 +0000" channel="SPOTV 2 HD.mncvision">
+<programme start="20260427040000 +0000" stop="20260427063000 +0000" channel="SPOTV 2 HD.mncvision">
     <title>2026 WTCS, Samarkand</title>
 </programme>
-<programme start="20260427070000 +0000" stop="20260427093000 +0000" channel="SPOTV 2 HD.mncvision">
+<programme start="20260427063000 +0000" stop="20260427092500 +0000" channel="SPOTV 2 HD.mncvision">
     <title>2026 MLB: LAD Vs CHI</title>
 </programme>
-<programme start="20260427093000 +0000" stop="20260427100000 +0000" channel="SPOTV 2 HD.mncvision">
+<programme start="20260427092500 +0000" stop="20260427100000 +0000" channel="SPOTV 2 HD.mncvision">
     <title>ALM Mini Match: MVC Vs NEW</title>
 </programme>
-<programme start="20260427100000 +0000" stop="20260427110000 +0000" channel="SPOTV 2 HD.mncvision">
+<programme start="20260427100000 +0000" stop="20260427104700 +0000" channel="SPOTV 2 HD.mncvision">
     <title>MotoGP Estrella Galicia Spain</title>
 </programme>
-<programme start="20260427110000 +0000" stop="20260427153000 +0000" channel="SPOTV 2 HD.mncvision">
+<programme start="20260427104700 +0000" stop="20260427153000 +0000" channel="SPOTV 2 HD.mncvision">
     <title>MotoGP Estrella Galicia Spain</title>
 </programme>
 <programme start="20260427153000 +0000" stop="20260427160000 +0000" channel="SPOTV 2 HD.mncvision">

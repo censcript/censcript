@@ -145,14 +145,26 @@
     <programme start="20260426193000 +0000" stop="20260426220000 +0000" channel="Zee Thirai.starhub">
         <title>Bhajarangi 2</title>
     </programme>
-    <programme start="20260426220000 +0000" stop="20260427040000 +0000" channel="Zee Thirai.starhub">
-        <title>Information Not Available</title>
+    <programme start="20260426220000 +0000" stop="20260427000000 +0000" channel="Zee Thirai.starhub">
+        <title>Radhe Shyam</title>
     </programme>
-    <programme start="20260427040000 +0000" stop="20260427100000 +0000" channel="Zee Thirai.starhub">
-        <title>Information Not Available</title>
+    <programme start="20260427000000 +0000" stop="20260427023000 +0000" channel="Zee Thirai.starhub">
+        <title>Bommai Nayagi</title>
     </programme>
-    <programme start="20260427100000 +0000" stop="20260427160000 +0000" channel="Zee Thirai.starhub">
-        <title>Information Not Available</title>
+    <programme start="20260427023000 +0000" stop="20260427050000 +0000" channel="Zee Thirai.starhub">
+        <title>Ghazi</title>
+    </programme>
+    <programme start="20260427050000 +0000" stop="20260427080000 +0000" channel="Zee Thirai.starhub">
+        <title>Officer On Duty</title>
+    </programme>
+    <programme start="20260427080000 +0000" stop="20260427103000 +0000" channel="Zee Thirai.starhub">
+        <title>Sillu Karupatti</title>
+    </programme>
+    <programme start="20260427103000 +0000" stop="20260427133000 +0000" channel="Zee Thirai.starhub">
+        <title>Balloon</title>
+    </programme>
+    <programme start="20260427133000 +0000" stop="20260427160000 +0000" channel="Zee Thirai.starhub">
+        <title>Biscoth</title>
     </programme>
     <programme start="20260426140000 +0000" stop="20260426170000 +0000" channel="Zee TV.starhub">
         <title>Love Hostel</title>
@@ -8050,22 +8062,22 @@
     <programme start="20260426220000 +0000" stop="20260426230000 +0000" channel="SPOTV2.starhub">
         <title>2005 Jerez</title>
     </programme>
-    <programme start="20260426230000 +0000" stop="20260427010000 +0000" channel="SPOTV2.starhub">
+    <programme start="20260426230000 +0000" stop="20260427011000 +0000" channel="SPOTV2.starhub">
         <title>25/26 A-League Men Round 26 Sydney FC vs Auckland FC</title>
     </programme>
-    <programme start="20260427010000 +0000" stop="20260427070000 +0000" channel="SPOTV2.starhub">
+    <programme start="20260427011000 +0000" stop="20260427063000 +0000" channel="SPOTV2.starhub">
         <title>Elite Women&#039;s and Men&#039;s Race</title>
     </programme>
-    <programme start="20260427070000 +0000" stop="20260427093000 +0000" channel="SPOTV2.starhub">
+    <programme start="20260427063000 +0000" stop="20260427092500 +0000" channel="SPOTV2.starhub">
         <title>26/4 2026 MLB Regular Season Los Angeles Dodgers vs Chicago Cubs</title>
     </programme>
-    <programme start="20260427093000 +0000" stop="20260427100000 +0000" channel="SPOTV2.starhub">
+    <programme start="20260427092500 +0000" stop="20260427100000 +0000" channel="SPOTV2.starhub">
         <title>2025/26 ALM Mini Match Rd 25 Melbourne Victory vs Newcastle Jets FC</title>
     </programme>
-    <programme start="20260427100000 +0000" stop="20260427110000 +0000" channel="SPOTV2.starhub">
+    <programme start="20260427100000 +0000" stop="20260427104700 +0000" channel="SPOTV2.starhub">
         <title>Warm Up</title>
     </programme>
-    <programme start="20260427110000 +0000" stop="20260427153000 +0000" channel="SPOTV2.starhub">
+    <programme start="20260427104700 +0000" stop="20260427153000 +0000" channel="SPOTV2.starhub">
         <title>Race</title>
     </programme>
     <programme start="20260427153000 +0000" stop="20260427160000 +0000" channel="SPOTV2.starhub">

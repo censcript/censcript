@@ -15223,19 +15223,19 @@
   <channel id="unifisports1.unifitv">
     <display-name>Unifi Sports 1</display-name>
   </channel>
-  <programme start="20260426140000 +0000" stop="20260426195500 +0000" channel="unifisports1.unifitv">
+  <programme start="20260426140000 +0000" stop="20260426202500 +0000" channel="unifisports1.unifitv">
     <title lang="en">UFC Fight Night: Sterling vs. Zalal - Main</title>
     <desc lang="en">The month of April wraps with a return to Meta APEX for a UFC Fight Night event capped by a thrilling  clash between Top 10 featherweights Aljamain “Funk Master” Sterling and Youssef “The Moroccan  Devil” Zalal</desc>
     <category lang="en">Sports</category>
   </programme>
-  <programme start="20260426195500 +0000" stop="20260426200000 +0000" channel="unifisports1.unifitv">
+  <programme start="20260426202500 +0000" stop="20260426203000 +0000" channel="unifisports1.unifitv">
     <title lang="en">LALIGA TOP GOALS GUAYRE BETANCOR - LALIGA TOP GOALS GUAYRE BETANCOR</title>
     <desc lang="en">A selection of top goals from Guayre, a leading light for Villarreal in their push to become one of LaLiga’s elite.</desc>
     <category lang="en">Sports</category>
   </programme>
-  <programme start="20260426200000 +0000" stop="20260427015500 +0000" channel="unifisports1.unifitv">
-    <title lang="en">UFC Fight Night: Adesanya vs. Pyfer</title>
-    <desc lang="en">On Saturday, April 19, UFC returns to Canada Life Centre in Winnipeg, Manitoba, Canada for the first time in nearly a decade with a fight card headlined by one of the country’s top contenders as Gilbert “Durinho” Burns takes on “Proper” Mike Malott.</desc>
+  <programme start="20260426203000 +0000" stop="20260427015500 +0000" channel="unifisports1.unifitv">
+    <title lang="en">UFC Fight Night: Moicano vs. Duncan</title>
+    <desc lang="en">As UFC returns to the Meta APEX to begin the second quarter on Saturday, April 5, it does so with a Fight Night event headlined by a lightweight matchup carrying a high potential for fireworks as Renato Moicano squares off with Chris “The Problem” Duncan.</desc>
     <category lang="en">Sports</category>
   </programme>
   <programme start="20260427015500 +0000" stop="20260427020000 +0000" channel="unifisports1.unifitv">
@@ -15298,7 +15298,7 @@
     <desc lang="en">A selection of top goals from Guayre, a leading light for Villarreal in their push to become one of LaLiga’s elite.</desc>
     <category lang="en">Sports</category>
   </programme>
-  <programme start="20260427140000 +0000" stop="20260427195500 +0000" channel="unifisports1.unifitv">
+  <programme start="20260427140000 +0000" stop="20260427202500 +0000" channel="unifisports1.unifitv">
     <title lang="en">UFC Fight Night: Sterling vs. Zalal - Main</title>
     <desc lang="en">The month of April wraps with a return to Meta APEX for a UFC Fight Night event capped by a thrilling  clash between Top 10 featherweights Aljamain “Funk Master” Sterling and Youssef “The Moroccan  Devil” Zalal</desc>
     <category lang="en">Sports</category>
@@ -15351,12 +15351,12 @@
     <desc lang="en">Immerse in the UIM E1 World Championship presented by PIF, a realm where relentless innovation, marine preservation, and exhilarating races converge, unveiling a new chapter in water sports.</desc>
     <category lang="en">Watersports</category>
   </programme>
-  <programme start="20260427093000 +0000" stop="20260427110000 +0000" channel="spotv.unifitv">
+  <programme start="20260427093000 +0000" stop="20260427111500 +0000" channel="spotv.unifitv">
     <title lang="en">2026 E1 World Championship Rd 2 Lake Como GP - Finals</title>
     <desc lang="en">Immerse in the UIM E1 World Championship presented by PIF, a realm where relentless innovation, marine preservation, and exhilarating races converge, unveiling a new chapter in water sports.</desc>
     <category lang="en">Watersports</category>
   </programme>
-  <programme start="20260427110000 +0000" stop="20260427150000 +0000" channel="spotv.unifitv">
+  <programme start="20260427111500 +0000" stop="20260427150000 +0000" channel="spotv.unifitv">
     <title lang="en">2026 LET: Investec South African Women's Open - Day 4</title>
     <desc lang="en">Top women golfers compete on the Ladies European Tour in South Africa, showcasing skill, precision, and championship ambition in a prestigious international event.</desc>
     <category lang="en">Golf</category>
@@ -15399,32 +15399,32 @@
     <desc lang="en">Experience the most memorable MotoGP races from 1992 to 2016. This classic collection revisits legendary battles, dramatic twists, and the riders who defined an era of two-wheeled greatness.</desc>
     <category lang="en">Motorsports</category>
   </programme>
-  <programme start="20260426230000 +0000" stop="20260427010000 +0000" channel="spotv2.unifitv">
+  <programme start="20260426230000 +0000" stop="20260427011000 +0000" channel="spotv2.unifitv">
     <title lang="en">25/26 A-League Men Round 26 - Sydney FC vs Auckland FC</title>
     <desc lang="en">Top flight men's soccer returns in the ISUZU UTE A-League Men. Catch every moment on SPOTV NOW as 12 teams compete in the regular season with top 4 advancing to a single-game knockout.</desc>
     <category lang="en">Football</category>
   </programme>
-  <programme start="20260427010000 +0000" stop="20260427070000 +0000" channel="spotv2.unifitv">
+  <programme start="20260427011000 +0000" stop="20260427063000 +0000" channel="spotv2.unifitv">
     <title lang="en">2026 WTCS, Samarkand - Elite Women's and Men's Race</title>
     <desc lang="en">Elite triathletes push the limits of endurance across swim, bike, and run, battling for supremacy in a demanding global championship series.</desc>
     <category lang="en">Triathlon</category>
   </programme>
-  <programme start="20260427070000 +0000" stop="20260427093000 +0000" channel="spotv2.unifitv">
+  <programme start="20260427063000 +0000" stop="20260427092500 +0000" channel="spotv2.unifitv">
     <title lang="en">26/4 2026 MLB Regular Season - Los Angeles Dodgers vs Chicago Cubs</title>
     <desc lang="en">Major League Baseball is the most historic professional sports league consists of 30 member clubs in the U.S. and Canada, representing the highest level of professional baseball.</desc>
     <category lang="en">Baseball</category>
   </programme>
-  <programme start="20260427093000 +0000" stop="20260427100000 +0000" channel="spotv2.unifitv">
+  <programme start="20260427092500 +0000" stop="20260427100000 +0000" channel="spotv2.unifitv">
     <title lang="en">2025/26 ALM Mini Match Rd 25 - Melbourne Victory vs Newcastle Jets FC</title>
     <desc lang="en">Top flight men's soccer returns in the ISUZU UTE A-League Men. Catch every moment on SPOTV NOW as 12 teams compete in the regular season with top 4 advancing to a single-game knockout.</desc>
     <category lang="en">Football</category>
   </programme>
-  <programme start="20260427100000 +0000" stop="20260427110000 +0000" channel="spotv2.unifitv">
+  <programme start="20260427100000 +0000" stop="20260427104700 +0000" channel="spotv2.unifitv">
     <title lang="en">2026 MotoGP Rd 4 Estrella Galicia 0,0 Grand Prix of Spain - Warm Up</title>
     <desc lang="en">The 2026 MotoGP sees 22 of the world's best riders battle on 1000cc prototype machines, delivering over 250hp and reaching speeds of 360kph across 22 thrilling Grands Prix in 18 countries.</desc>
     <category lang="en">Motorsports</category>
   </programme>
-  <programme start="20260427110000 +0000" stop="20260427153000 +0000" channel="spotv2.unifitv">
+  <programme start="20260427104700 +0000" stop="20260427153000 +0000" channel="spotv2.unifitv">
     <title lang="en">2026 MotoGP Rd 4 Estrella Galicia 0,0 Grand Prix of Spain - Race</title>
     <desc lang="en">The 2026 MotoGP sees 22 of the world's best riders battle on 1000cc prototype machines, delivering over 250hp and reaching speeds of 360kph across 22 thrilling Grands Prix in 18 countries.</desc>
     <category lang="en">Motorsports</category>

@@ -170,11 +170,11 @@
     <desc lang="id">Film televisi yang mengangkat kisah romantisme kehidupan dengan konflik yang menarik. Tayang setiap hari.</desc>
     <icon src="https://thumbor.prod.vidiocdn.com/9avWDtWVbLDw739a2kpjkUgpbJw=/287x162/filters:strip_icc():quality(70)/vidio-media-production/uploads/livestreaming/schedule/thumbnail/5027837/a7a2bc.jpg"/>
   </programme>
-  <programme channel="204" start="20260427042500 +0000" stop="20260427045900 +0000">
+  <programme channel="204" start="20260427042500 +0000" stop="20260427045800 +0000">
     <title lang="id">Liputan 6 Siang</title>
     <icon src="https://thumbor.prod.vidiocdn.com/JrpI-Ibo0nc0ouQDVBrEvtl70qc=/287x162/filters:strip_icc():quality(70)/vidio-media-production/uploads/livestreaming/schedule/thumbnail/5027838/686f55.jpg"/>
   </programme>
-  <programme channel="204" start="20260427045900 +0000" stop="20260427065700 +0000">
+  <programme channel="204" start="20260427045800 +0000" stop="20260427065700 +0000">
     <title lang="id">Akad Nikah The Wedding Of El Rumi &amp; Syifa Hadju</title>
     <icon src="https://thumbor.prod.vidiocdn.com/oebtEH_ggXi6oMUfaaNHRy_8Qgw=/287x162/filters:strip_icc():quality(70)/vidio-media-production/uploads/livestreaming/schedule/thumbnail/5027845/df6b12.jpg"/>
   </programme>
@@ -182,17 +182,17 @@
     <title lang="id">Resepsi The Wedding Of El Rumi &amp; Syifa Hadju</title>
     <icon src="https://thumbor.prod.vidiocdn.com/vhvxZQW1eoQ-f8tzbZPzz6-vDvU=/287x162/filters:strip_icc():quality(70)/vidio-media-production/uploads/livestreaming/schedule/thumbnail/5027846/d1c9d1.jpg"/>
   </programme>
-  <programme channel="204" start="20260427100000 +0000" stop="20260427112700 +0000">
+  <programme channel="204" start="20260427100000 +0000" stop="20260427111500 +0000">
     <title lang="id">Asmara Gen Z</title>
     <desc lang="id">Sinetron yang bercerita tentang persahabatan, cinta dan serunya keseharian para Gen Z. Dibintangi oleh AQEELA CALISTA, FATTAH SYACH, ARYA MOHAN, NICOLE ROSSI, HARRY VAUGHAN dan RAISA MARIE. Tayang setiap hari pukul 17.00 WIB.</desc>
     <icon src="https://thumbor.prod.vidiocdn.com/bBOx1-eAq0GvefIFPV527rLi1PI=/287x162/filters:strip_icc():quality(70)/vidio-media-production/uploads/tv_program/thumbnail/387307/cd8554.jpg"/>
   </programme>
-  <programme channel="204" start="20260427112700 +0000" stop="20260427125300 +0000">
+  <programme channel="204" start="20260427111500 +0000" stop="20260427123000 +0000">
     <title lang="id">Istiqomah Cinta</title>
     <desc lang="id">Sinetron romansa tentang kisah Khansa (Yasmin Napper), perempuan lembut yang dipenjara 5 tahun karena fitnah Monika (Anjani Dina) untuk menutupi kecelakaan yang menabrak Aryani. Setelah bebas, Khansa berjuang mempertahankan iman dan kejujurannya di tengah teror, pengkhianatan, dan konflik cinta dengan Fathan (Arbani Yasiz) dan Emran (Cakrawala Airawan). Tayang setiap hari pukul 18.25 WIB</desc>
     <icon src="https://thumbor.prod.vidiocdn.com/qhZpHEqYoWbfBrJa0aLRcUb0G7I=/287x162/filters:strip_icc():quality(70)/vidio-media-production/uploads/tv_program/thumbnail/401147/50494f.jpg"/>
   </programme>
-  <programme channel="204" start="20260427125300 +0000" stop="20260427141500 +0000">
+  <programme channel="204" start="20260427123000 +0000" stop="20260427141500 +0000">
     <title lang="id">Beri Cinta Waktu</title>
     <desc lang="id">Sinetron romansa tentang perjalanan Trian (Yesaya Abraham) mencari keadilan dan mengungkap kejahatan pasca Adila, istrinya meninggal dunia, dengan bantuan Rama (Rayn Wijaya) dan Asmara (Angela Gilsha). Tayang setiap hari pukul 20.10 WIB</desc>
     <icon src="https://thumbor.prod.vidiocdn.com/ho2PtWvpg-rvR-RgqS1-Xs_7xWA=/287x162/filters:strip_icc():quality(70)/vidio-media-production/uploads/tv_program/thumbnail/393465/43cc4c.jpg"/>
@@ -329,8 +329,8 @@
     <icon src="https://thumbor.prod.vidiocdn.com/N99E8BD1OJ5vvymwPBj0c-BU5J4=/287x162/filters:strip_icc():quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/image/204/sctv-5ef966.jpg"/>
   </programme>
   <programme channel="204" start="20260429073000 +0000" stop="20260429083000 +0000">
-    <title lang="id">Konser Dilan Itb 1997</title>
-    <icon src="https://thumbor.prod.vidiocdn.com/N99E8BD1OJ5vvymwPBj0c-BU5J4=/287x162/filters:strip_icc():quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/image/204/sctv-5ef966.jpg"/>
+    <title lang="id">Konser Dilan ITB 1997</title>
+    <icon src="https://thumbor.prod.vidiocdn.com/INuRNBEv6bYBlwJwkIGx7OFDO2s=/287x162/filters:strip_icc():quality(70)/vidio-media-production/uploads/livestreaming/schedule/thumbnail/5027891/151c4f.jpg"/>
   </programme>
   <programme channel="204" start="20260429083000 +0000" stop="20260429100000 +0000">
     <title lang="id">Ftv Sore Rindu : Suara Dari Pisang Nugget</title>
@@ -8252,15 +8252,10 @@
     <desc lang="id">Full Impact Round 31</desc>
     <icon src="https://thumbor.prod.vidiocdn.com/edoqRinFCRhrRwQ2ngcXacb_q74=/287x162/filters:strip_icc():quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/image/6685/champions-tv-1-54e282.jpg"/>
   </programme>
-  <programme channel="6685" start="20260428180000 +0000" stop="20260428200000 +0000">
-    <title lang="id">GENOA vs COMO : Serie A 2025/26</title>
-    <desc lang="id">GENOA vs COMO</desc>
-    <icon src="https://thumbor.prod.vidiocdn.com/edoqRinFCRhrRwQ2ngcXacb_q74=/287x162/filters:strip_icc():quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/image/6685/champions-tv-1-54e282.jpg"/>
-  </programme>
-  <programme channel="6685" start="20260428200000 +0000" stop="20260428220000 +0000">
-    <title lang="id">FIORENTINA vs SASSUOLO : Serie A 2025/26</title>
-    <desc lang="id">FIORENTINA vs SASSUOLO</desc>
-    <icon src="https://thumbor.prod.vidiocdn.com/edoqRinFCRhrRwQ2ngcXacb_q74=/287x162/filters:strip_icc():quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/image/6685/champions-tv-1-54e282.jpg"/>
+  <programme channel="6685" start="20260428184500 +0000" stop="20260428204500 +0000">
+    <title lang="id">Southampton vs Ipswich - EFL Championship</title>
+    <desc lang="id">Nonton streaming pertandingan seru Southampton vs Ipswich - EFL Championship. Saksikan aksi-aksi terbaik dari tim yang bersaing ketat untuk meraih kemenangan. Dapatkan informasi lengkap mengenai jadwal pertandingan dan hasil pertandingan terbaru hanya di Vidio.</desc>
+    <icon src="https://thumbor.prod.vidiocdn.com/aDUUPOLfkaC-syJVCJX5LqmMrpg=/287x162/filters:strip_icc():quality(70)/vidio-media-production/uploads/livestreaming/schedule/thumbnail/5030183/8c1184.jpg"/>
   </programme>
   <programme channel="6685" start="20260428220000 +0000" stop="20260428223000 +0000">
     <title lang="id">Eps 02 : PL Story 2024/25 - Subs</title>
@@ -8787,12 +8782,12 @@
     <desc lang="id">Kisah seorang inspektur yang terlibat dalam kisah percintaan segitiga.</desc>
     <icon src="https://thumbor.prod.vidiocdn.com/VMqJn9jawRecdbw5SSdxxTHN_88=/287x162/filters:strip_icc():quality(70)/vidio-media-production/uploads/tv_program/thumbnail/386704/218ebf.jpg"/>
   </programme>
-  <programme channel="782" start="20260427023000 +0000" stop="20260427060000 +0000">
+  <programme channel="782" start="20260427023000 +0000" stop="20260427055700 +0000">
     <title lang="id">Mega Bollywood: Har Dil Jo Pyar Karega...</title>
     <desc lang="id">Raj adalah penyanyi yang berjuang dengan impian besar yang masih menunggu terobosan besarnya. Suatu malam dia menyaksikan kecelakaan di mana sebuah mobil berputar di luar kendali dan mendarat di rel kereta api yang melaju. Raj berlari ke reruntuhan dan menyelamatkan penghuninya tepat pada waktunya.</desc>
     <icon src="https://thumbor.prod.vidiocdn.com/ffwsbijn_7QDQabD69wvd6smFyg=/287x162/filters:strip_icc():quality(70)/vidio-media-production/uploads/livestreaming/schedule/thumbnail/5027114/5c72c3.jpg"/>
   </programme>
-  <programme channel="782" start="20260427060000 +0000" stop="20260427080000 +0000">
+  <programme channel="782" start="20260427055700 +0000" stop="20260427080000 +0000">
     <title lang="id">Jhanak</title>
     <desc lang="id">Seorang wanita muda yang bersemangat memulai perjalanan untuk memenuhi janji seorang ibu demi kehidupan yang lebih baik sambil mengatasi tantangan dan kehilangan.</desc>
     <icon src="https://thumbor.prod.vidiocdn.com/P1IbtKdjHzUyr0PmJAKY80rbP1Y=/287x162/filters:strip_icc():quality(70)/vidio-media-production/uploads/livestreaming/schedule/thumbnail/5027115/761c42.jpg"/>
@@ -11085,14 +11080,14 @@
     <icon src="https://thumbor.prod.vidiocdn.com/IccXQd6EOZjWCT9QQQrsC0nCTZQ=/287x162/filters:strip_icc():quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/image/18190/champions-golf-2-3c2aa9.jpg"/>
   </programme>
   <programme channel="18190" start="20260430140000 +0000" stop="20260430170000 +0000">
-    <title lang="id">MEXICO RIVIERA MAYA OPEN AT MAYAKOBA</title>
-    <desc lang="id">ROUND 1</desc>
-    <icon src="https://thumbor.prod.vidiocdn.com/IccXQd6EOZjWCT9QQQrsC0nCTZQ=/287x162/filters:strip_icc():quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/image/18190/champions-golf-2-3c2aa9.jpg"/>
+    <title lang="id">Round 1 - Mexico Riviera Maya Open at Mayakoba 2026</title>
+    <desc lang="id">Nonton streaming pertandingan seru Round 1 - Mexico Riviera Maya Open at Mayakoba 2026. Saksikan aksi-aksi terbaik dari tim yang bersaing ketat untuk meraih kemenangan. Dapatkan informasi lengkap mengenai jadwal pertandingan dan hasil pertandingan terbaru hanya di Vidio.</desc>
+    <icon src="https://thumbor.prod.vidiocdn.com/Wf_qdI9lcr9Xvd9d7mdX4AUakEI=/287x162/filters:strip_icc():quality(70)/vidio-media-production/uploads/livestreaming/schedule/thumbnail/5030182/8f67c7.jpg"/>
   </programme>
   <programme channel="18190" start="20260430140000 +0000" stop="20260430170000 +0000">
-    <title lang="id">MEXICO RIVIERA MAYA OPEN AT MAYAKOBA</title>
-    <desc lang="id">ROUND 1</desc>
-    <icon src="https://thumbor.prod.vidiocdn.com/IccXQd6EOZjWCT9QQQrsC0nCTZQ=/287x162/filters:strip_icc():quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/image/18190/champions-golf-2-3c2aa9.jpg"/>
+    <title lang="id">Round 1 - Mexico Riviera Maya Open at Mayakoba 2026</title>
+    <desc lang="id">Nonton streaming pertandingan seru Round 1 - Mexico Riviera Maya Open at Mayakoba 2026. Saksikan aksi-aksi terbaik dari tim yang bersaing ketat untuk meraih kemenangan. Dapatkan informasi lengkap mengenai jadwal pertandingan dan hasil pertandingan terbaru hanya di Vidio.</desc>
+    <icon src="https://thumbor.prod.vidiocdn.com/Wf_qdI9lcr9Xvd9d7mdX4AUakEI=/287x162/filters:strip_icc():quality(70)/vidio-media-production/uploads/livestreaming/schedule/thumbnail/5030182/8f67c7.jpg"/>
   </programme>
   <programme channel="18189" start="20260426170000 +0000" stop="20260426220000 +0000">
     <title lang="id">Zurich Classic of New Orleans 2026 - Round 4</title>
@@ -11892,17 +11887,17 @@
     <desc lang="id">Match 16 - Mutua Madrid Open</desc>
     <icon src="https://thumbor.prod.vidiocdn.com/nY0aFklpYf6yONLaFJjxhiSuthc=/287x162/filters:strip_icc():quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/image/6786/champions-tv-3-76ca7c.jpg"/>
   </programme>
-  <programme channel="6786" start="20260427033000 +0000" stop="20260427040000 +0000">
+  <programme channel="6786" start="20260427033000 +0000" stop="20260427042800 +0000">
     <title lang="id">Week 19 : NFL Game Day</title>
     <desc lang="id">Week 19</desc>
     <icon src="https://thumbor.prod.vidiocdn.com/nY0aFklpYf6yONLaFJjxhiSuthc=/287x162/filters:strip_icc():quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/image/6786/champions-tv-3-76ca7c.jpg"/>
   </programme>
-  <programme channel="6786" start="20260427040000 +0000" stop="20260427060000 +0000">
+  <programme channel="6786" start="20260427042800 +0000" stop="20260427062500 +0000">
     <title lang="id">TORINO vs INTER : Serie A 2025/26</title>
     <desc lang="id">TORINO vs INTER</desc>
     <icon src="https://thumbor.prod.vidiocdn.com/nY0aFklpYf6yONLaFJjxhiSuthc=/287x162/filters:strip_icc():quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/image/6786/champions-tv-3-76ca7c.jpg"/>
   </programme>
-  <programme channel="6786" start="20260427060000 +0000" stop="20260427080000 +0000">
+  <programme channel="6786" start="20260427062500 +0000" stop="20260427080000 +0000">
     <title lang="id">Match 17 - Mutua Madrid Open : WTA 1000</title>
     <desc lang="id">Match 17 - Mutua Madrid Open</desc>
     <icon src="https://thumbor.prod.vidiocdn.com/nY0aFklpYf6yONLaFJjxhiSuthc=/287x162/filters:strip_icc():quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/image/6786/champions-tv-3-76ca7c.jpg"/>
@@ -13962,17 +13957,17 @@
     <desc lang="id">QPR VS DERBY COUNTY</desc>
     <icon src="https://thumbor.prod.vidiocdn.com/xgkik6iws0EJ01bi5cJsIjYWjOM=/287x162/filters:strip_icc():quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/image/6686/champions-tv-2-681a27.jpg"/>
   </programme>
-  <programme channel="6686" start="20260427030000 +0000" stop="20260427050000 +0000">
+  <programme channel="6686" start="20260427030000 +0000" stop="20260427052000 +0000">
     <title lang="id">STOCKPORT COUNTY VS LUTON TOWN : VERTU TROPHY 2026</title>
     <desc lang="id">STOCKPORT COUNTY VS LUTON TOWN</desc>
     <icon src="https://thumbor.prod.vidiocdn.com/xgkik6iws0EJ01bi5cJsIjYWjOM=/287x162/filters:strip_icc():quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/image/6686/champions-tv-2-681a27.jpg"/>
   </programme>
-  <programme channel="6686" start="20260427050000 +0000" stop="20260427070000 +0000">
+  <programme channel="6686" start="20260427052000 +0000" stop="20260427072000 +0000">
     <title lang="id">ROMA VS LECCE : SERIE A 2025/26</title>
     <desc lang="id">ROMA VS LECCE</desc>
     <icon src="https://thumbor.prod.vidiocdn.com/xgkik6iws0EJ01bi5cJsIjYWjOM=/287x162/filters:strip_icc():quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/image/6686/champions-tv-2-681a27.jpg"/>
   </programme>
-  <programme channel="6686" start="20260427070000 +0000" stop="20260427080000 +0000">
+  <programme channel="6686" start="20260427072000 +0000" stop="20260427080000 +0000">
     <title lang="id">HIGHLIGHT : PORTUGUESE LEAGUE 2025/26</title>
     <desc lang="id">HIGHLIGHT</desc>
     <icon src="https://thumbor.prod.vidiocdn.com/xgkik6iws0EJ01bi5cJsIjYWjOM=/287x162/filters:strip_icc():quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/image/6686/champions-tv-2-681a27.jpg"/>
