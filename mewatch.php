@@ -566,7 +566,7 @@
         <title>(Live) Asia Tonight</title>
     </programme>
     <programme start="20260428130000 +0000" stop="20260428140000 +0000" channel="CNA.mewatch">
-        <title>Chingay : Asia’s Largest Street Performance</title>
+        <title>Chingay: Asia&#039;s Largest Street Performance</title>
     </programme>
     <programme start="20260428140000 +0000" stop="20260428150000 +0000" channel="CNA.mewatch">
         <title>(Live) Singapore Tonight</title>

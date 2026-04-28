@@ -1107,99 +1107,6 @@ Warning: Undefined array key "et" in /usr/home/ManusiaBiasa/domains/manusiabiasa
 <programme start="20260428215500 +0000" stop="20260428224500 +0000" channel="Heimatkanal.skyde">
     <title>Der Landarzt</title>
 </programme>
-<programme start="20260427222500 +0000" stop="20260427231000 +0000" channel="HISTORY Channel HD.skyde">
-    <title>Terra X: Eisige Welten</title>
-</programme>
-<programme start="20260427231000 +0000" stop="20260427235500 +0000" channel="HISTORY Channel HD.skyde">
-    <title>History&#039;s Deadliest mit Ving Rhames</title>
-</programme>
-<programme start="20260427235500 +0000" stop="20260428005000 +0000" channel="HISTORY Channel HD.skyde">
-    <title>Wunderwerke der Weltgeschichte</title>
-</programme>
-<programme start="20260428005000 +0000" stop="20260428013500 +0000" channel="HISTORY Channel HD.skyde">
-    <title>Wunderbauten der Geschichte</title>
-</programme>
-<programme start="20260428013500 +0000" stop="20260428022000 +0000" channel="HISTORY Channel HD.skyde">
-    <title>Wunderbauten der Geschichte</title>
-</programme>
-<programme start="20260428022000 +0000" stop="20260428030000 +0000" channel="HISTORY Channel HD.skyde">
-    <title>Das Geheimnis der Skinwalker Ranch</title>
-</programme>
-<programme start="20260428030000 +0000" stop="20260428034000 +0000" channel="HISTORY Channel HD.skyde">
-    <title>Das Geheimnis der Skinwalker Ranch</title>
-</programme>
-<programme start="20260428034000 +0000" stop="20260428043000 +0000" channel="HISTORY Channel HD.skyde">
-    <title>Das Geheimnis der Skinwalker Ranch</title>
-</programme>
-<programme start="20260428043000 +0000" stop="20260428051500 +0000" channel="HISTORY Channel HD.skyde">
-    <title>Ancient Aliens - Unerklärliche Phänomene</title>
-</programme>
-<programme start="20260428051500 +0000" stop="20260428060000 +0000" channel="HISTORY Channel HD.skyde">
-    <title>Ancient Aliens - Unerklärliche Phänomene</title>
-</programme>
-<programme start="20260428060000 +0000" stop="20260428064500 +0000" channel="HISTORY Channel HD.skyde">
-    <title>Ancient Aliens - Unerklärliche Phänomene</title>
-</programme>
-<programme start="20260428064500 +0000" stop="20260428073000 +0000" channel="HISTORY Channel HD.skyde">
-    <title>Ancient Aliens - Unerklärliche Phänomene</title>
-</programme>
-<programme start="20260428073000 +0000" stop="20260428082000 +0000" channel="HISTORY Channel HD.skyde">
-    <title>The Proof is Out There - Auf den Spuren des Unerklärlichen</title>
-</programme>
-<programme start="20260428082000 +0000" stop="20260428090500 +0000" channel="HISTORY Channel HD.skyde">
-    <title>The Proof is Out There - Auf den Spuren des Unerklärlichen</title>
-</programme>
-<programme start="20260428090500 +0000" stop="20260428095000 +0000" channel="HISTORY Channel HD.skyde">
-    <title>The UnXplained - Mysterien des Universums</title>
-</programme>
-<programme start="20260428095000 +0000" stop="20260428104000 +0000" channel="HISTORY Channel HD.skyde">
-    <title>The UnXplained - Mysterien des Universums</title>
-</programme>
-<programme start="20260428104000 +0000" stop="20260428112500 +0000" channel="HISTORY Channel HD.skyde">
-    <title>History&#039;s Greatest Mysteries</title>
-</programme>
-<programme start="20260428112500 +0000" stop="20260428120500 +0000" channel="HISTORY Channel HD.skyde">
-    <title>History&#039;s Greatest Mysteries</title>
-</programme>
-<programme start="20260428120500 +0000" stop="20260428125500 +0000" channel="HISTORY Channel HD.skyde">
-    <title>The Proof is Out There - Auf den Spuren des Unerklärlichen</title>
-</programme>
-<programme start="20260428125500 +0000" stop="20260428134000 +0000" channel="HISTORY Channel HD.skyde">
-    <title>The Proof is Out There - Auf den Spuren des Unerklärlichen</title>
-</programme>
-<programme start="20260428134000 +0000" stop="20260428142500 +0000" channel="HISTORY Channel HD.skyde">
-    <title>The UnXplained - Mysterien des Universums</title>
-</programme>
-<programme start="20260428142500 +0000" stop="20260428151000 +0000" channel="HISTORY Channel HD.skyde">
-    <title>The UnXplained mit William Shatner</title>
-</programme>
-<programme start="20260428151000 +0000" stop="20260428155500 +0000" channel="HISTORY Channel HD.skyde">
-    <title>Ancient Aliens - Unerklärliche Phänomene</title>
-</programme>
-<programme start="20260428155500 +0000" stop="20260428164000 +0000" channel="HISTORY Channel HD.skyde">
-    <title>Ancient Aliens - Unerklärliche Phänomene</title>
-</programme>
-<programme start="20260428164000 +0000" stop="20260428173000 +0000" channel="HISTORY Channel HD.skyde">
-    <title>Ancient Aliens - Unerklärliche Phänomene</title>
-</programme>
-<programme start="20260428173000 +0000" stop="20260428181500 +0000" channel="HISTORY Channel HD.skyde">
-    <title>Ancient Aliens - Unerklärliche Phänomene</title>
-</programme>
-<programme start="20260428181500 +0000" stop="20260428190000 +0000" channel="HISTORY Channel HD.skyde">
-    <title>Ancient Aliens - Unerklärliche Phänomene</title>
-</programme>
-<programme start="20260428190000 +0000" stop="20260428195000 +0000" channel="HISTORY Channel HD.skyde">
-    <title>Ancient Aliens - Unerklärliche Phänomene</title>
-</programme>
-<programme start="20260428195000 +0000" stop="20260428204000 +0000" channel="HISTORY Channel HD.skyde">
-    <title>Ancient Aliens - Unerklärliche Phänomene</title>
-</programme>
-<programme start="20260428204000 +0000" stop="20260428213000 +0000" channel="HISTORY Channel HD.skyde">
-    <title>Ancient Aliens - Unerklärliche Phänomene</title>
-</programme>
-<programme start="20260428213000 +0000" stop="20260428222500 +0000" channel="HISTORY Channel HD.skyde">
-    <title>Terra X: Eisige Welten</title>
-</programme>
 <programme start="20260427220000 +0000" stop="20260428000000 +0000" channel="Jukebox.skyde">
     <title>BACK TO ... 2013</title>
 </programme>
@@ -2559,22 +2466,19 @@ Warning: Undefined array key "et" in /usr/home/ManusiaBiasa/domains/manusiabiasa
 <programme start="20260428213000 +0000" stop="20260428222500 +0000" channel="Sky Showcase HD.skyde">
     <title>Der Mond - Geheimnisvolle Kraft der Natur</title>
 </programme>
-<programme start="20260427222000 +0000" stop="20260427223000 +0000" channel="Sky Sport Austria 1 HD.skyde">
+<programme start="20260427221000 +0000" stop="20260427223000 +0000" channel="Sky Sport Austria 1 HD.skyde">
     <title>Admiral BL: Pitchside: STU - FAK, 29. Runde</title>
 </programme>
 <programme start="20260427223000 +0000" stop="20260427230000 +0000" channel="Sky Sport Austria 1 HD.skyde">
     <title>Admiral BL: 90in30: SCR - RBS, 29. Runde</title>
 </programme>
-<programme start="20260427230000 +0000" stop="20260428004000 +0000" channel="Sky Sport Austria 1 HD.skyde">
+<programme start="20260427230000 +0000" stop="20260428010000 +0000" channel="Sky Sport Austria 1 HD.skyde">
     <title>Admiral BL: RZ Pellets WAC - Grazer AK 1902, 29. Runde</title>
 </programme>
-<programme start="20260428004000 +0000" stop="20260428005000 +0000" channel="Sky Sport Austria 1 HD.skyde">
+<programme start="20260428010000 +0000" stop="20260428011500 +0000" channel="Sky Sport Austria 1 HD.skyde">
     <title>Admiral BL: Pitchside: STU - FAK, 29. Runde</title>
 </programme>
-<programme start="20260428005000 +0000" stop="20260428012000 +0000" channel="Sky Sport Austria 1 HD.skyde">
-    <title>Admiral BL: 90in30: SCR - RBS, 29. Runde</title>
-</programme>
-<programme start="20260428012000 +0000" stop="20260428013000 +0000" channel="Sky Sport Austria 1 HD.skyde">
+<programme start="20260428011500 +0000" stop="20260428013000 +0000" channel="Sky Sport Austria 1 HD.skyde">
     <title>Admiral BL: Pitchside: STU - FAK, 29. Runde</title>
 </programme>
 <programme start="20260428013000 +0000" stop="20260428020000 +0000" channel="Sky Sport Austria 1 HD.skyde">
@@ -2832,43 +2736,40 @@ Warning: Undefined array key "et" in /usr/home/ManusiaBiasa/domains/manusiabiasa
 <programme start="20260428003000 +0000" stop="20260428013000 +0000" channel="Sky Sport Mix HD.skyde">
     <title>Moto2: Rennen - GP Spanien</title>
 </programme>
-<programme start="20260428013000 +0000" stop="20260428043000 +0000" channel="Sky Sport Mix HD.skyde">
+<programme start="20260428013000 +0000" stop="20260428053000 +0000" channel="Sky Sport Mix HD.skyde">
     <title>Live NHL: Vegas Golden Knights @ Utah Mammoth, Playoffs, 1. Runde, Spiel 5</title>
 </programme>
-<programme start="20260428043000 +0000" stop="20260428053000 +0000" channel="Sky Sport Mix HD.skyde">
+<programme start="20260428053000 +0000" stop="20260428063000 +0000" channel="Sky Sport Mix HD.skyde">
     <title>MotoGP: Rennen - GP Spanien</title>
 </programme>
-<programme start="20260428053000 +0000" stop="20260428073000 +0000" channel="Sky Sport Mix HD.skyde">
+<programme start="20260428063000 +0000" stop="20260428083000 +0000" channel="Sky Sport Mix HD.skyde">
     <title>NHL: Vegas Golden Knights @ Utah Mammoth, Playoffs, 1. Runde, Spiel 5</title>
 </programme>
-<programme start="20260428073000 +0000" stop="20260428080000 +0000" channel="Sky Sport Mix HD.skyde">
+<programme start="20260428083000 +0000" stop="20260428090000 +0000" channel="Sky Sport Mix HD.skyde">
     <title>Frauen-BL: Alle Spiele, alle Tore, 23. Spieltag komplett</title>
 </programme>
-<programme start="20260428080000 +0000" stop="20260428103000 +0000" channel="Sky Sport Mix HD.skyde">
+<programme start="20260428090000 +0000" stop="20260428113000 +0000" channel="Sky Sport Mix HD.skyde">
     <title>NBA: Detroit Pistons @ Orlando Magic, Playoffs, Runde 1, Spiel 4</title>
 </programme>
-<programme start="20260428103000 +0000" stop="20260428104500 +0000" channel="Sky Sport Mix HD.skyde">
+<programme start="20260428113000 +0000" stop="20260428114500 +0000" channel="Sky Sport Mix HD.skyde">
     <title>NHL: Highlights VGK@UTA, Playoffs, 1. Runde, Spiel 4</title>
 </programme>
-<programme start="20260428104500 +0000" stop="20260428114500 +0000" channel="Sky Sport Mix HD.skyde">
+<programme start="20260428114500 +0000" stop="20260428124500 +0000" channel="Sky Sport Mix HD.skyde">
     <title>WRC: Highlights: Rally Islas Canarias</title>
 </programme>
-<programme start="20260428114500 +0000" stop="20260428124500 +0000" channel="Sky Sport Mix HD.skyde">
+<programme start="20260428124500 +0000" stop="20260428134500 +0000" channel="Sky Sport Mix HD.skyde">
     <title>NHL: Tonight - Playoff Edition</title>
 </programme>
-<programme start="20260428124500 +0000" stop="20260428131500 +0000" channel="Sky Sport Mix HD.skyde">
-    <title>RBRC: 1. Rennen - GP Spanien</title>
-</programme>
-<programme start="20260428131500 +0000" stop="20260428134500 +0000" channel="Sky Sport Mix HD.skyde">
+<programme start="20260428134500 +0000" stop="20260428141500 +0000" channel="Sky Sport Mix HD.skyde">
     <title>RBRC: 2. Rennen - GP Spanien</title>
 </programme>
-<programme start="20260428134500 +0000" stop="20260428144500 +0000" channel="Sky Sport Mix HD.skyde">
+<programme start="20260428141500 +0000" stop="20260428151500 +0000" channel="Sky Sport Mix HD.skyde">
     <title>MotoGP: Rennen - GP Spanien</title>
 </programme>
-<programme start="20260428144500 +0000" stop="20260428151500 +0000" channel="Sky Sport Mix HD.skyde">
+<programme start="20260428151500 +0000" stop="20260428154500 +0000" channel="Sky Sport Mix HD.skyde">
     <title>Fußball: scooore Niederlande! Alle Tore</title>
 </programme>
-<programme start="20260428151500 +0000" stop="20260428174500 +0000" channel="Sky Sport Mix HD.skyde">
+<programme start="20260428154500 +0000" stop="20260428174500 +0000" channel="Sky Sport Mix HD.skyde">
     <title>NBA: Minnesota Timberwolves @ Denver Nuggets, Playoffs, Runde 1, Spiel 5</title>
 </programme>
 <programme start="20260428174500 +0000" stop="20260428201500 +0000" channel="Sky Sport Mix HD.skyde">
@@ -3051,46 +2952,52 @@ Warning: Undefined array key "et" in /usr/home/ManusiaBiasa/domains/manusiabiasa
 <programme start="20260428213000 +0000" stop="20260428220000 +0000" channel="Sky Sport Premier League HD.skyde">
     <title>PL: Club 100: Ryan Giggs</title>
 </programme>
-<programme start="20260427220000 +0000" stop="20260428000000 +0000" channel="Sky Sport Tennis HD.skyde">
+<programme start="20260427221500 +0000" stop="20260428001000 +0000" channel="Sky Sport Tennis HD.skyde">
     <title>WTA 500: E. Rybakina (KAZ) - K. Muchova (CZE), Porsche Tennis Grand Prix in Stuttgart, Finale</title>
 </programme>
-<programme start="20260428000000 +0000" stop="20260428020000 +0000" channel="Sky Sport Tennis HD.skyde">
+<programme start="20260428001000 +0000" stop="20260428021000 +0000" channel="Sky Sport Tennis HD.skyde">
     <title>WTA 1000: A. Sabalenka - N. Osaka (JPN), Mutua Madrid Open in Madrid (ESP), 7. Tag</title>
 </programme>
-<programme start="20260428020000 +0000" stop="20260428040000 +0000" channel="Sky Sport Tennis HD.skyde">
+<programme start="20260428021000 +0000" stop="20260428041000 +0000" channel="Sky Sport Tennis HD.skyde">
     <title>ATP 1000: A. Zverev (GER) - T. Atmane (FRA), Mutua Madrid Open in Madrid (ESP), 7. Tag</title>
 </programme>
-<programme start="20260428040000 +0000" stop="20260428050000 +0000" channel="Sky Sport Tennis HD.skyde">
+<programme start="20260428041000 +0000" stop="20260428051000 +0000" channel="Sky Sport Tennis HD.skyde">
     <title>ATP 500: Review Barcelona</title>
 </programme>
-<programme start="20260428050000 +0000" stop="20260428070000 +0000" channel="Sky Sport Tennis HD.skyde">
+<programme start="20260428051000 +0000" stop="20260428065500 +0000" channel="Sky Sport Tennis HD.skyde">
     <title>WTA 1000: A. Sabalenka - N. Osaka (JPN), Mutua Madrid Open in Madrid (ESP), 7. Tag</title>
 </programme>
-<programme start="20260428070000 +0000" stop="20260428090000 +0000" channel="Sky Sport Tennis HD.skyde">
+<programme start="20260428065500 +0000" stop="20260428090000 +0000" channel="Sky Sport Tennis HD.skyde">
     <title>ATP 1000: A. Zverev (GER) - T. Atmane (FRA), Mutua Madrid Open in Madrid (ESP), 7. Tag</title>
 </programme>
 <programme start="20260428090000 +0000" stop="20260428220000 +0000" channel="Sky Sport Tennis HD.skyde">
     <title>Live ATP &amp; WTA: Konferenz Mutua Madrid Open in Madrid (ESP), 8. Tag</title>
 </programme>
-<programme start="20260427223000 +0000" stop="20260427230000 +0000" channel="Sky Sport Top Event HD.skyde">
+<programme start="20260427220000 +0000" stop="20260427223000 +0000" channel="Sky Sport Top Event HD.skyde">
     <title>Frauen-BL: Alle Spiele, alle Tore, 23. Spieltag komplett</title>
+</programme>
+<programme start="20260427223000 +0000" stop="20260427224500 +0000" channel="Sky Sport Top Event HD.skyde">
+    <title>BL: Torparade 31. Spieltag</title>
+</programme>
+<programme start="20260427224500 +0000" stop="20260427230000 +0000" channel="Sky Sport Top Event HD.skyde">
+    <title>2. BL: Torparade 31. Spieltag</title>
 </programme>
 <programme start="20260427230000 +0000" stop="20260428000000 +0000" channel="Sky Sport Top Event HD.skyde">
     <title>Live NBA: Showtime</title>
 </programme>
-<programme start="20260428000000 +0000" stop="20260428030000 +0000" channel="Sky Sport Top Event HD.skyde">
+<programme start="20260428000000 +0000" stop="20260428023000 +0000" channel="Sky Sport Top Event HD.skyde">
     <title>Live NBA: Detroit Pistons @ Orlando Magic, Playoffs, Runde 1, Spiel 4</title>
 </programme>
-<programme start="20260428030000 +0000" stop="20260428042000 +0000" channel="Sky Sport Top Event HD.skyde">
+<programme start="20260428023000 +0000" stop="20260428040000 +0000" channel="Sky Sport Top Event HD.skyde">
     <title>Live NBA: Oklahoma City Thunder @ Phoenix Suns, Playoffs, Runde 1, Spiel 4</title>
 </programme>
-<programme start="20260428042000 +0000" stop="20260428052000 +0000" channel="Sky Sport Top Event HD.skyde">
+<programme start="20260428040000 +0000" stop="20260428050000 +0000" channel="Sky Sport Top Event HD.skyde">
     <title>Live NBA: Minnesota Timberwolves @ Denver Nuggets, Playoffs, Runde 1, Spiel 5</title>
 </programme>
-<programme start="20260428052000 +0000" stop="20260428060000 +0000" channel="Sky Sport Top Event HD.skyde">
+<programme start="20260428050000 +0000" stop="20260428053000 +0000" channel="Sky Sport Top Event HD.skyde">
     <title>Live NBA: Showtime - Post Show</title>
 </programme>
-<programme start="20260428060000 +0000" stop="20260428070000 +0000" channel="Sky Sport Top Event HD.skyde">
+<programme start="20260428053000 +0000" stop="20260428070000 +0000" channel="Sky Sport Top Event HD.skyde">
     <title>WRC: Rally Islas Canarias - SS18 Santa Lucia - Agüimes 2 (Wolf Power Stage)</title>
 </programme>
 <programme start="20260428070000 +0000" stop="20260428073000 +0000" channel="Sky Sport Top Event HD.skyde">
@@ -3168,7 +3075,7 @@ Warning: Undefined array key "et" in /usr/home/ManusiaBiasa/domains/manusiabiasa
 <programme start="20260428180000 +0000" stop="20260428220000 +0000" channel="Sky Sport 1 HD.skyde">
     <title>Live WTA 1000: A. Sabalenka - H. Baptiste (USA), Mutua Madrid Open in Madrid (ESP), Viertelfinale 2</title>
 </programme>
-<programme start="20260428000000 +0000" stop="20260428013000 +0000" channel="Sky Sport 2 HD.skyde">
+<programme start="20260427223000 +0000" stop="20260428013000 +0000" channel="Sky Sport 2 HD.skyde">
     <title>Es folgt: ab 03:30: LIVE NBA</title>
 </programme>
 <programme start="20260428013000 +0000" stop="20260428080000 +0000" channel="Sky Sport 2 HD.skyde">
