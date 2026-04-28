@@ -7780,28 +7780,28 @@
 <programme start="20260428010000 +0000" stop="20260428030000 +0000" channel="SCTV.mncvision">
     <title>My Husband My Enemy</title>
 </programme>
-<programme start="20260428030000 +0000" stop="20260428050000 +0000" channel="SCTV.mncvision">
+<programme start="20260428030000 +0000" stop="20260428044800 +0000" channel="SCTV.mncvision">
     <title>Cinta Di Kamar 32 Emang Lagi...</title>
 </programme>
-<programme start="20260428050000 +0000" stop="20260428053000 +0000" channel="SCTV.mncvision">
+<programme start="20260428044800 +0000" stop="20260428052100 +0000" channel="SCTV.mncvision">
     <title>Liputan 6 Siang (L)</title>
 </programme>
-<programme start="20260428053000 +0000" stop="20260428070000 +0000" channel="SCTV.mncvision">
+<programme start="20260428052100 +0000" stop="20260428065500 +0000" channel="SCTV.mncvision">
     <title>Lovenya Mas-Mas SCBD Gak...</title>
 </programme>
-<programme start="20260428070000 +0000" stop="20260428083000 +0000" channel="SCTV.mncvision">
+<programme start="20260428065500 +0000" stop="20260428082800 +0000" channel="SCTV.mncvision">
     <title>Welcome To Hati Neng Galon</title>
 </programme>
-<programme start="20260428083000 +0000" stop="20260428100000 +0000" channel="SCTV.mncvision">
+<programme start="20260428082800 +0000" stop="20260428100000 +0000" channel="SCTV.mncvision">
     <title>Bos Rempong Bikin Crazy In Love</title>
 </programme>
-<programme start="20260428100000 +0000" stop="20260428111500 +0000" channel="SCTV.mncvision">
+<programme start="20260428100000 +0000" stop="20260428112500 +0000" channel="SCTV.mncvision">
     <title>Asmara Gen Z</title>
 </programme>
-<programme start="20260428111500 +0000" stop="20260428124500 +0000" channel="SCTV.mncvision">
+<programme start="20260428112500 +0000" stop="20260428125500 +0000" channel="SCTV.mncvision">
     <title>Istiqomah Cinta</title>
 </programme>
-<programme start="20260428124500 +0000" stop="20260428141500 +0000" channel="SCTV.mncvision">
+<programme start="20260428125500 +0000" stop="20260428141500 +0000" channel="SCTV.mncvision">
     <title>Beri Cinta Waktu</title>
 </programme>
 <programme start="20260428141500 +0000" stop="20260428144500 +0000" channel="SCTV.mncvision">
@@ -7837,28 +7837,28 @@
 <programme start="20260428010000 +0000" stop="20260428030000 +0000" channel="SCTV HD.mncvision">
     <title>My Husband My Enemy</title>
 </programme>
-<programme start="20260428030000 +0000" stop="20260428050000 +0000" channel="SCTV HD.mncvision">
+<programme start="20260428030000 +0000" stop="20260428044800 +0000" channel="SCTV HD.mncvision">
     <title>Cinta Di Kamar 32 Emang Lagi...</title>
 </programme>
-<programme start="20260428050000 +0000" stop="20260428053000 +0000" channel="SCTV HD.mncvision">
+<programme start="20260428044800 +0000" stop="20260428052100 +0000" channel="SCTV HD.mncvision">
     <title>Liputan 6 Siang (L)</title>
 </programme>
-<programme start="20260428053000 +0000" stop="20260428070000 +0000" channel="SCTV HD.mncvision">
+<programme start="20260428052100 +0000" stop="20260428065500 +0000" channel="SCTV HD.mncvision">
     <title>Lovenya Mas-Mas SCBD Gak...</title>
 </programme>
-<programme start="20260428070000 +0000" stop="20260428083000 +0000" channel="SCTV HD.mncvision">
+<programme start="20260428065500 +0000" stop="20260428082800 +0000" channel="SCTV HD.mncvision">
     <title>Welcome To Hati Neng Galon</title>
 </programme>
-<programme start="20260428083000 +0000" stop="20260428100000 +0000" channel="SCTV HD.mncvision">
+<programme start="20260428082800 +0000" stop="20260428100000 +0000" channel="SCTV HD.mncvision">
     <title>Bos Rempong Bikin Crazy In Love</title>
 </programme>
-<programme start="20260428100000 +0000" stop="20260428111500 +0000" channel="SCTV HD.mncvision">
+<programme start="20260428100000 +0000" stop="20260428112500 +0000" channel="SCTV HD.mncvision">
     <title>Asmara Gen Z</title>
 </programme>
-<programme start="20260428111500 +0000" stop="20260428124500 +0000" channel="SCTV HD.mncvision">
+<programme start="20260428112500 +0000" stop="20260428125500 +0000" channel="SCTV HD.mncvision">
     <title>Istiqomah Cinta</title>
 </programme>
-<programme start="20260428124500 +0000" stop="20260428141500 +0000" channel="SCTV HD.mncvision">
+<programme start="20260428125500 +0000" stop="20260428141500 +0000" channel="SCTV HD.mncvision">
     <title>Beri Cinta Waktu</title>
 </programme>
 <programme start="20260428141500 +0000" stop="20260428144500 +0000" channel="SCTV HD.mncvision">
@@ -9464,73 +9464,73 @@
     <title>tvOne</title>
 </programme>
 <programme start="20260427180000 +0000" stop="20260427190000 +0000" channel="tvOne.mncvision">
-    <title>tvOne</title>
+    <title>Breaking News</title>
 </programme>
-<programme start="20260427190000 +0000" stop="20260427200000 +0000" channel="tvOne.mncvision">
-    <title>tvOne</title>
+<programme start="20260427190000 +0000" stop="20260427203000 +0000" channel="tvOne.mncvision">
+    <title>Breaking News</title>
 </programme>
-<programme start="20260427200000 +0000" stop="20260427203000 +0000" channel="tvOne.mncvision">
-    <title>tvOne</title>
-</programme>
-<programme start="20260427203000 +0000" stop="20260427210000 +0000" channel="tvOne.mncvision">
-    <title>tvOne</title>
-</programme>
-<programme start="20260427210000 +0000" stop="20260427213000 +0000" channel="tvOne.mncvision">
-    <title>tvOne</title>
+<programme start="20260427203000 +0000" stop="20260427213000 +0000" channel="tvOne.mncvision">
+    <title>Breaking News</title>
 </programme>
 <programme start="20260427213000 +0000" stop="20260427230000 +0000" channel="tvOne.mncvision">
-    <title>tvOne</title>
+    <title>Kabar Pagi</title>
 </programme>
 <programme start="20260427230000 +0000" stop="20260427233000 +0000" channel="tvOne.mncvision">
-    <title>tvOne</title>
+    <title>Kabar Arena Pagi 2 (L)</title>
 </programme>
-<programme start="20260427233000 +0000" stop="20260428013000 +0000" channel="tvOne.mncvision">
-    <title>tvOne</title>
+<programme start="20260427233000 +0000" stop="20260428011500 +0000" channel="tvOne.mncvision">
+    <title>Apa Kabar Indonesia Pagi (L)</title>
 </programme>
-<programme start="20260428013000 +0000" stop="20260428020000 +0000" channel="tvOne.mncvision">
-    <title>tvOne</title>
+<programme start="20260428011500 +0000" stop="20260428013000 +0000" channel="tvOne.mncvision">
+    <title>Kabar Terkini</title>
 </programme>
-<programme start="20260428020000 +0000" stop="20260428023000 +0000" channel="tvOne.mncvision">
-    <title>tvOne</title>
+<programme start="20260428013000 +0000" stop="20260428023000 +0000" channel="tvOne.mncvision">
+    <title>Breaking News</title>
 </programme>
 <programme start="20260428023000 +0000" stop="20260428033000 +0000" channel="tvOne.mncvision">
-    <title>tvOne</title>
+    <title>Pagi-Pagi Seru</title>
 </programme>
 <programme start="20260428033000 +0000" stop="20260428040000 +0000" channel="tvOne.mncvision">
-    <title>tvOne</title>
+    <title>Metropolitan</title>
 </programme>
-<programme start="20260428040000 +0000" stop="20260428060000 +0000" channel="tvOne.mncvision">
-    <title>tvOne</title>
+<programme start="20260428040000 +0000" stop="20260428053000 +0000" channel="tvOne.mncvision">
+    <title>Kabar Siang (L)</title>
 </programme>
-<programme start="20260428060000 +0000" stop="20260428080000 +0000" channel="tvOne.mncvision">
-    <title>tvOne</title>
+<programme start="20260428053000 +0000" stop="20260428060000 +0000" channel="tvOne.mncvision">
+    <title>Kabar Haji</title>
+</programme>
+<programme start="20260428060000 +0000" stop="20260428070000 +0000" channel="tvOne.mncvision">
+    <title>Breaking News</title>
+</programme>
+<programme start="20260428070000 +0000" stop="20260428080000 +0000" channel="tvOne.mncvision">
+    <title>Apa Kabar Indonesia Siang</title>
 </programme>
 <programme start="20260428080000 +0000" stop="20260428083000 +0000" channel="tvOne.mncvision">
-    <title>tvOne</title>
+    <title>Kabar Merah Putih</title>
 </programme>
 <programme start="20260428083000 +0000" stop="20260428090000 +0000" channel="tvOne.mncvision">
-    <title>tvOne</title>
+    <title>Berita Utama Kriminal</title>
 </programme>
 <programme start="20260428090000 +0000" stop="20260428110000 +0000" channel="tvOne.mncvision">
-    <title>tvOne</title>
+    <title>Kabar Petang (L)</title>
 </programme>
 <programme start="20260428110000 +0000" stop="20260428130000 +0000" channel="tvOne.mncvision">
-    <title>tvOne</title>
+    <title>Apa Kabar Indonesia Malam (L)</title>
 </programme>
-<programme start="20260428130000 +0000" stop="20260428140000 +0000" channel="tvOne.mncvision">
-    <title>tvOne</title>
+<programme start="20260428130000 +0000" stop="20260428141500 +0000" channel="tvOne.mncvision">
+    <title>Catatan Demokrasi</title>
 </programme>
-<programme start="20260428140000 +0000" stop="20260428150000 +0000" channel="tvOne.mncvision">
-    <title>tvOne</title>
+<programme start="20260428141500 +0000" stop="20260428143000 +0000" channel="tvOne.mncvision">
+    <title>Kabar Terkini</title>
 </programme>
-<programme start="20260428150000 +0000" stop="20260428153000 +0000" channel="tvOne.mncvision">
-    <title>tvOne</title>
+<programme start="20260428143000 +0000" stop="20260428153000 +0000" channel="tvOne.mncvision">
+    <title>Kabar Utama 2</title>
 </programme>
 <programme start="20260428153000 +0000" stop="20260428163000 +0000" channel="tvOne.mncvision">
-    <title>tvOne</title>
+    <title>Kabar Hari Ini (L)</title>
 </programme>
 <programme start="20260428163000 +0000" stop="20260427170000 +0000" channel="tvOne.mncvision">
-    <title>tvOne</title>
+    <title>Breaking News</title>
 </programme>
 <programme start="20260427170000 +0000" stop="20260427190000 +0000" channel="TVRI.mncvision">
     <title>TVRI</title>

@@ -5146,53 +5146,17 @@
   <programme start="20260430080000 +0000" stop="20260430090000 +0000" channel="Arena Sport 2.webtv.sk">
     <title lang="id">Vytuningované jazdy Fínsko</title>
   </programme>
-  <programme start="20260430090000 +0000" stop="20260430093000 +0000" channel="Arena Sport 2.webtv.sk">
-    <title lang="id">CARSHOW</title>
+  <programme start="20260430090000 +0000" stop="20260430110000 +0000" channel="Arena Sport 2.webtv.sk">
+    <title lang="id">Open Aix Provence Crédit Agricole</title>
   </programme>
-  <programme start="20260430093000 +0000" stop="20260430100000 +0000" channel="Arena Sport 2.webtv.sk">
-    <title lang="id">Autožurnál</title>
+  <programme start="20260430110000 +0000" stop="20260430133000 +0000" channel="Arena Sport 2.webtv.sk">
+    <title lang="id">Open Aix Provence Crédit Agricole/Sardegna Open</title>
   </programme>
-  <programme start="20260430100000 +0000" stop="20260430103000 +0000" channel="Arena Sport 2.webtv.sk">
-    <title lang="id">Motoring</title>
+  <programme start="20260430133000 +0000" stop="20260430160000 +0000" channel="Arena Sport 2.webtv.sk">
+    <title lang="id">Open Aix Provence Crédit Agricole/Sardegna Open</title>
   </programme>
-  <programme start="20260430103000 +0000" stop="20260430110000 +0000" channel="Arena Sport 2.webtv.sk">
-    <title lang="id">DRIVE IT - Ondrej Macko</title>
-  </programme>
-  <programme start="20260430110000 +0000" stop="20260430113000 +0000" channel="Arena Sport 2.webtv.sk">
-    <title lang="id">Výběrová auta</title>
-  </programme>
-  <programme start="20260430113000 +0000" stop="20260430121500 +0000" channel="Arena Sport 2.webtv.sk">
-    <title lang="id">Záchrancovia klasických áut</title>
-  </programme>
-  <programme start="20260430121500 +0000" stop="20260430124500 +0000" channel="Arena Sport 2.webtv.sk">
-    <title lang="id">Piok Cars</title>
-  </programme>
-  <programme start="20260430124500 +0000" stop="20260430130000 +0000" channel="Arena Sport 2.webtv.sk">
-    <title lang="id">Švihák testuje</title>
-  </programme>
-  <programme start="20260430130000 +0000" stop="20260430133000 +0000" channel="Arena Sport 2.webtv.sk">
-    <title lang="id">MM Automotive</title>
-  </programme>
-  <programme start="20260430133000 +0000" stop="20260430141500 +0000" channel="Arena Sport 2.webtv.sk">
-    <title lang="id">Vytuningované jazdy Fínsko</title>
-  </programme>
-  <programme start="20260430141500 +0000" stop="20260430150000 +0000" channel="Arena Sport 2.webtv.sk">
-    <title lang="id">DRIVE IT - Ondrej Macko</title>
-  </programme>
-  <programme start="20260430150000 +0000" stop="20260430154500 +0000" channel="Arena Sport 2.webtv.sk">
-    <title lang="id">Naša Garáž</title>
-  </programme>
-  <programme start="20260430154500 +0000" stop="20260430163000 +0000" channel="Arena Sport 2.webtv.sk">
-    <title lang="id">MM Automotive</title>
-  </programme>
-  <programme start="20260430163000 +0000" stop="20260430170000 +0000" channel="Arena Sport 2.webtv.sk">
-    <title lang="id">Martin z Martina</title>
-  </programme>
-  <programme start="20260430170000 +0000" stop="20260430173000 +0000" channel="Arena Sport 2.webtv.sk">
-    <title lang="id">Naša Garáž</title>
-  </programme>
-  <programme start="20260430173000 +0000" stop="20260430180000 +0000" channel="Arena Sport 2.webtv.sk">
-    <title lang="id">Výběrová auta</title>
+  <programme start="20260430160000 +0000" stop="20260430180000 +0000" channel="Arena Sport 2.webtv.sk">
+    <title lang="id">Open Aix Provence Crédit Agricole/Sardegna Open</title>
   </programme>
   <programme start="20260430180000 +0000" stop="20260430183000 +0000" channel="Arena Sport 2.webtv.sk">
     <title lang="id">Piok Cars</title>
@@ -5839,7 +5803,7 @@
   <programme start="20260430200000 +0000" stop="20260430210000 +0000" channel="National Geographic Channel.webtv.sk">
     <title lang="id">Stavební selhání III (1)</title>
   </programme>
-  <programme start="20260430210000 +0000" stop="20260501000000 +0000" channel="National Geographic Channel.webtv.sk">
+  <programme start="20260430210000 +0000" stop="20260430220000 +0000" channel="National Geographic Channel.webtv.sk">
     <title lang="id">Letiště: Ztráty a nálezy I (10)</title>
   </programme>
   <programme start="20260429215400 +0000" stop="20260429223900 +0000" channel="National Geographic Wild.webtv.sk">
@@ -5941,7 +5905,7 @@
   <programme start="20260430210500 +0000" stop="20260430214900 +0000" channel="National Geographic Wild.webtv.sk">
     <title lang="id">Království ledních medvědů I (2)</title>
   </programme>
-  <programme start="20260430214900 +0000" stop="20260501004900 +0000" channel="National Geographic Wild.webtv.sk">
+  <programme start="20260430214900 +0000" stop="20260430223500 +0000" channel="National Geographic Wild.webtv.sk">
     <title lang="id">Anatomie hadího uštknutí</title>
   </programme>
   <programme start="20260429220000 +0000" stop="20260429223000 +0000" channel="Discovery.webtv.sk">
