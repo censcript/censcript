@@ -3613,7 +3613,7 @@
   <programme start="20260430213200 +0000" stop="20260430220000 +0000" channel="ČT24.webtv.sk">
     <title lang="id">Interview ČT24</title>
   </programme>
-  <programme start="20260429215300 +0000" stop="20260429220700 +0000" channel="ČT :D - ČT art.webtv.sk">
+  <programme start="20260429215200 +0000" stop="20260429220700 +0000" channel="ČT :D - ČT art.webtv.sk">
     <title lang="id">Toulky s Ladislavem Smoljakem</title>
   </programme>
   <programme start="20260429220700 +0000" stop="20260429230000 +0000" channel="ČT :D - ČT art.webtv.sk">

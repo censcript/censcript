@@ -212,15 +212,15 @@
     <desc lang="id">Sinetron romansa tentang perjalanan Trian (Yesaya Abraham) mencari keadilan dan mengungkap kejahatan pasca Adila, istrinya meninggal dunia, dengan bantuan Rama (Rayn Wijaya) dan Asmara (Angela Gilsha). Tayang setiap hari pukul 20.10 WIB</desc>
     <icon src="https://thumbor.prod.vidiocdn.com/ho2PtWvpg-rvR-RgqS1-Xs_7xWA=/287x162/filters:strip_icc():quality(70)/vidio-media-production/uploads/tv_program/thumbnail/393465/43cc4c.jpg"/>
   </programme>
-  <programme channel="204" start="20260428141500 +0000" stop="20260428170000 +0000">
+  <programme channel="204" start="20260428141500 +0000" stop="20260428174000 +0000">
     <title lang="id">The Icon Indonesia</title>
     <icon src="https://thumbor.prod.vidiocdn.com/LNl9yG5pXeXYmsjWzLeCxinE7XY=/287x162/filters:strip_icc():quality(70)/vidio-media-production/uploads/livestreaming/schedule/thumbnail/5030168/cdedad.jpg"/>
   </programme>
-  <programme channel="204" start="20260428141500 +0000" stop="20260428170000 +0000">
+  <programme channel="204" start="20260428141500 +0000" stop="20260428174000 +0000">
     <title lang="id">The Icon Indonesia</title>
     <icon src="https://thumbor.prod.vidiocdn.com/LNl9yG5pXeXYmsjWzLeCxinE7XY=/287x162/filters:strip_icc():quality(70)/vidio-media-production/uploads/livestreaming/schedule/thumbnail/5030168/cdedad.jpg"/>
   </programme>
-  <programme channel="204" start="20260428170000 +0000" stop="20260428183000 +0000">
+  <programme channel="204" start="20260428174000 +0000" stop="20260428183000 +0000">
     <title lang="id">Ftv Utama Suka Sukamu Nona Manis</title>
     <desc lang="id">Film televisi yang mengangkat kisah romantisme kehidupan dengan konflik yang menarik. Tayang setiap hari.</desc>
     <icon src="https://thumbor.prod.vidiocdn.com/N99E8BD1OJ5vvymwPBj0c-BU5J4=/287x162/filters:strip_icc():quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/image/204/sctv-5ef966.jpg"/>
@@ -769,12 +769,12 @@
     <desc lang="id">Mega Series Terbaru Raden Rakha dan Basmalah Gralind Di Indosiar "Merangkai Kisah Indah" Tayang Setiap Hari, Mulai Senin, 14 Juli 2025 Pukul 17:00 WIB. Kisah Derita Mutiara Yang Mencari Orangtua Kandungnya Karena Sewaktu Bayi Ditukar Oleh Ibu Angkatnya. Nasib Membawa Dirinya Bertemu Dengan Keluarga Yang Tanpa Dia Ketahui Adalah Orangtua Kandungnya dan Juga Bertemu Kenzo. Apakah Kenzo dan Mutiara Akan Berjodoh? Dibintangi Raden Rakha, Basmalah Gralind, Panji Saputra, Tsania Marwa, Gita Sinaga, Vayala Maulidina, Washifa, Haura Lathifa, dan Emiliano Cortizo. Saksikan Mega Series Terbaru Indosiar : Merangkai Kisah Indah, Tayang Setiap Hari, Mulai Senin, 14 Juli 2025 Pukul 17:00 WIB Hanya Di Indosiar.</desc>
     <icon src="https://thumbor.prod.vidiocdn.com/WIl2jiaTLEzHnNAo61AGzfdEXh8=/287x162/filters:strip_icc():quality(70)/vidio-media-production/uploads/tv_program/thumbnail/389747/fc3ce1.jpg"/>
   </programme>
-  <programme channel="205" start="20260428113500 +0000" stop="20260428151500 +0000">
+  <programme channel="205" start="20260428113500 +0000" stop="20260428150000 +0000">
     <title lang="id">BRI Superleague 2025/26 - Psbs Biak Vs Malut United Fc</title>
     <desc lang="id">Saksikan! BRI Super League 2025/26 - Is Back!" 18 Klub Terbaik Siap Bertarung Di Kasta Tertinggi Sepak Bola Indonesia! Pertandingan Semakin Seru! Jangan Lewatkan BRI Super League 2025/26 Mulai 8 Agustus 2025, Pkl 15.00 &amp; 18.30 WIB, Live &amp; Eksklusif Hanya Di Indosiar dan Vidio #Indosiarrumahsepakbolaindonesia</desc>
     <icon src="https://thumbor.prod.vidiocdn.com/cBZL7ITaJCof6cqtayFee2uJCX8=/287x162/filters:strip_icc():quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/image/205/indosiar-d9a3d0.jpg"/>
   </programme>
-  <programme channel="205" start="20260428151500 +0000" stop="20260428163000 +0000">
+  <programme channel="205" start="20260428150000 +0000" stop="20260428163000 +0000">
     <title lang="id">D' Academy 7 - Mega Konser</title>
     <desc lang="id">Panggung Megah Konser D'Academy 7 Siap Digelar! Audisi Online dan Offline Telah Usai! Siapakah Yang Akan Lolos Ke Panggung Megah D'Academy 7? Saksikan D'Academy 7 Mulai Senin, 9 Juni, Setiap Senin-Jumat Live Pkl 20.00 WIB Hanya Di Indosiar. #Indosiarbawadangdutberkelasberkualitas</desc>
     <icon src="https://thumbor.prod.vidiocdn.com/sq_Qwzc433FuJ6coHlde_jLPVQw=/287x162/filters:strip_icc():quality(70)/vidio-media-production/uploads/livestreaming/schedule/thumbnail/5028239/77587d.jpg"/>
@@ -5181,11 +5181,11 @@
     <title lang="id">MD Series: Istri Paruh Waktu</title>
     <icon src="https://thumbor.prod.vidiocdn.com/4Czw1-Pd6U37CKeatnuB7yB0wm8=/287x162/filters:strip_icc():quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/image/875/mdtv-ff5756.jpg"/>
   </programme>
-  <programme channel="875" start="20260428140000 +0000" stop="20260428150000 +0000">
+  <programme channel="875" start="20260428140000 +0000" stop="20260428145100 +0000">
     <title lang="id">MD Series: Keluarga Yang Tak Dirindukan</title>
     <icon src="https://thumbor.prod.vidiocdn.com/4Czw1-Pd6U37CKeatnuB7yB0wm8=/287x162/filters:strip_icc():quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/image/875/mdtv-ff5756.jpg"/>
   </programme>
-  <programme channel="875" start="20260428150000 +0000" stop="20260428162000 +0000">
+  <programme channel="875" start="20260428145100 +0000" stop="20260428162000 +0000">
     <title lang="id">Jatanras</title>
     <icon src="https://thumbor.prod.vidiocdn.com/mQJh_ddQq5Fbw-mVV-DqbAWR184=/287x162/filters:strip_icc():quality(70)/vidio-media-production/uploads/tv_program/thumbnail/382345/4dcdfe.jpg"/>
   </programme>
@@ -8249,27 +8249,27 @@
     <desc lang="id">Show 35</desc>
     <icon src="https://thumbor.prod.vidiocdn.com/edoqRinFCRhrRwQ2ngcXacb_q74=/287x162/filters:strip_icc():quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/image/6685/champions-tv-1-54e282.jpg"/>
   </programme>
-  <programme channel="6685" start="20260428110000 +0000" stop="20260428120000 +0000">
+  <programme channel="6685" start="20260428110000 +0000" stop="20260428115700 +0000">
     <title lang="id">Highlight - Round 30 : Dutch League 2025/26</title>
     <desc lang="id">Highlight Round 30</desc>
     <icon src="https://thumbor.prod.vidiocdn.com/edoqRinFCRhrRwQ2ngcXacb_q74=/287x162/filters:strip_icc():quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/image/6685/champions-tv-1-54e282.jpg"/>
   </programme>
-  <programme channel="6685" start="20260428120000 +0000" stop="20260428140000 +0000">
+  <programme channel="6685" start="20260428115700 +0000" stop="20260428135300 +0000">
     <title lang="id">NAPOLI vs CREMONESE : Serie A 2025/26</title>
     <desc lang="id">NAPOLI vs CREMONESE</desc>
     <icon src="https://thumbor.prod.vidiocdn.com/edoqRinFCRhrRwQ2ngcXacb_q74=/287x162/filters:strip_icc():quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/image/6685/champions-tv-1-54e282.jpg"/>
   </programme>
-  <programme channel="6685" start="20260428140000 +0000" stop="20260428160000 +0000">
+  <programme channel="6685" start="20260428135300 +0000" stop="20260428155700 +0000">
     <title lang="id">PARMA vs PISA : Serie A 2025/26</title>
     <desc lang="id">PARMA vs PISA</desc>
     <icon src="https://thumbor.prod.vidiocdn.com/edoqRinFCRhrRwQ2ngcXacb_q74=/287x162/filters:strip_icc():quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/image/6685/champions-tv-1-54e282.jpg"/>
   </programme>
-  <programme channel="6685" start="20260428160000 +0000" stop="20260428170000 +0000">
+  <programme channel="6685" start="20260428155700 +0000" stop="20260428170000 +0000">
     <title lang="id">Highlight - Round 30 : Dutch League 2025/26</title>
     <desc lang="id">Highlight Round 30</desc>
     <icon src="https://thumbor.prod.vidiocdn.com/edoqRinFCRhrRwQ2ngcXacb_q74=/287x162/filters:strip_icc():quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/image/6685/champions-tv-1-54e282.jpg"/>
   </programme>
-  <programme channel="6685" start="20260428160000 +0000" stop="20260428170000 +0000">
+  <programme channel="6685" start="20260428155700 +0000" stop="20260428170000 +0000">
     <title lang="id">Highlight - Round 30 : Dutch League 2025/26</title>
     <desc lang="id">Highlight Round 30</desc>
     <icon src="https://thumbor.prod.vidiocdn.com/edoqRinFCRhrRwQ2ngcXacb_q74=/287x162/filters:strip_icc():quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/image/6685/champions-tv-1-54e282.jpg"/>
@@ -8284,10 +8284,28 @@
     <desc lang="id">Full Impact Round 31</desc>
     <icon src="https://thumbor.prod.vidiocdn.com/edoqRinFCRhrRwQ2ngcXacb_q74=/287x162/filters:strip_icc():quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/image/6685/champions-tv-1-54e282.jpg"/>
   </programme>
-  <programme channel="6685" start="20260428184500 +0000" stop="20260428204500 +0000">
+  <programme channel="6685" start="20260428180000 +0000" stop="20260428183000 +0000">
+    <title lang="id">Eps 4 : MXGP Behind The Gate 2026</title>
+    <desc lang="id">Eps 4</desc>
+    <icon src="https://thumbor.prod.vidiocdn.com/edoqRinFCRhrRwQ2ngcXacb_q74=/287x162/filters:strip_icc():quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/image/6685/champions-tv-1-54e282.jpg"/>
+  </programme>
+  <programme channel="6685" start="20260428183000 +0000" stop="20260428184000 +0000">
+    <title lang="id">Filler</title>
+    <icon src="https://thumbor.prod.vidiocdn.com/edoqRinFCRhrRwQ2ngcXacb_q74=/287x162/filters:strip_icc():quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/image/6685/champions-tv-1-54e282.jpg"/>
+  </programme>
+  <programme channel="6685" start="20260428184000 +0000" stop="20260428205500 +0000">
     <title lang="id">Southampton vs Ipswich - EFL Championship</title>
     <desc lang="id">Nonton streaming pertandingan seru Southampton vs Ipswich - EFL Championship. Saksikan aksi-aksi terbaik dari tim yang bersaing ketat untuk meraih kemenangan. Dapatkan informasi lengkap mengenai jadwal pertandingan dan hasil pertandingan terbaru hanya di Vidio.</desc>
     <icon src="https://thumbor.prod.vidiocdn.com/aDUUPOLfkaC-syJVCJX5LqmMrpg=/287x162/filters:strip_icc():quality(70)/vidio-media-production/uploads/livestreaming/schedule/thumbnail/5030183/8c1184.jpg"/>
+  </programme>
+  <programme channel="6685" start="20260428205500 +0000" stop="20260428210000 +0000">
+    <title lang="id">Filler</title>
+    <icon src="https://thumbor.prod.vidiocdn.com/edoqRinFCRhrRwQ2ngcXacb_q74=/287x162/filters:strip_icc():quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/image/6685/champions-tv-1-54e282.jpg"/>
+  </programme>
+  <programme channel="6685" start="20260428210000 +0000" stop="20260428220000 +0000">
+    <title lang="id">Highlight - Round 29 : Portuguese League 2025/26</title>
+    <desc lang="id">Highlight - Round 29</desc>
+    <icon src="https://thumbor.prod.vidiocdn.com/edoqRinFCRhrRwQ2ngcXacb_q74=/287x162/filters:strip_icc():quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/image/6685/champions-tv-1-54e282.jpg"/>
   </programme>
   <programme channel="6685" start="20260428220000 +0000" stop="20260428223000 +0000">
     <title lang="id">Eps 02 : PL Story 2024/25 - Subs</title>
@@ -14784,12 +14802,12 @@
     <desc lang="id">BENFICA VS CD CD NACIONAL</desc>
     <icon src="https://thumbor.prod.vidiocdn.com/xgkik6iws0EJ01bi5cJsIjYWjOM=/287x162/filters:strip_icc():quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/image/6686/champions-tv-2-681a27.jpg"/>
   </programme>
-  <programme channel="6686" start="20260428130000 +0000" stop="20260428150000 +0000">
+  <programme channel="6686" start="20260428130000 +0000" stop="20260428150200 +0000">
     <title lang="id">SASSUOLO VS CAGLIARI : SERIE A 2025/26</title>
     <desc lang="id">SASSUOLO VS CAGLIARI</desc>
     <icon src="https://thumbor.prod.vidiocdn.com/xgkik6iws0EJ01bi5cJsIjYWjOM=/287x162/filters:strip_icc():quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/image/6686/champions-tv-2-681a27.jpg"/>
   </programme>
-  <programme channel="6686" start="20260428150000 +0000" stop="20260428153000 +0000">
+  <programme channel="6686" start="20260428150200 +0000" stop="20260428153000 +0000">
     <title lang="id">EPS 03 : MXGP BEHIND THE GATE 2026</title>
     <desc lang="id">EPS 03</desc>
     <icon src="https://thumbor.prod.vidiocdn.com/xgkik6iws0EJ01bi5cJsIjYWjOM=/287x162/filters:strip_icc():quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/image/6686/champions-tv-2-681a27.jpg"/>
