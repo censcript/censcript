@@ -133,11 +133,8 @@
 <programme start="20260428023000 +0000" stop="20260428030000 +0000" channel="Al Jazeera English.mncvision">
     <title>The Listening Post</title>
 </programme>
-<programme start="20260428030000 +0000" stop="20260428033000 +0000" channel="Al Jazeera English.mncvision">
-    <title>News (L)</title>
-</programme>
-<programme start="20260428033000 +0000" stop="20260428040000 +0000" channel="Al Jazeera English.mncvision">
-    <title>Reframe: Gandikota-Nellutla</title>
+<programme start="20260428030000 +0000" stop="20260428040000 +0000" channel="Al Jazeera English.mncvision">
+    <title>NewsHour</title>
 </programme>
 <programme start="20260428040000 +0000" stop="20260428043000 +0000" channel="Al Jazeera English.mncvision">
     <title>News (L)</title>
@@ -151,11 +148,8 @@
 <programme start="20260428053000 +0000" stop="20260428060000 +0000" channel="Al Jazeera English.mncvision">
     <title>Inside Story</title>
 </programme>
-<programme start="20260428060000 +0000" stop="20260428063000 +0000" channel="Al Jazeera English.mncvision">
-    <title>News (L)</title>
-</programme>
-<programme start="20260428063000 +0000" stop="20260428070000 +0000" channel="Al Jazeera English.mncvision">
-    <title>101 East</title>
+<programme start="20260428060000 +0000" stop="20260428070000 +0000" channel="Al Jazeera English.mncvision">
+    <title>NewsHour</title>
 </programme>
 <programme start="20260428070000 +0000" stop="20260428073000 +0000" channel="Al Jazeera English.mncvision">
     <title>News (L)</title>
@@ -169,11 +163,8 @@
 <programme start="20260428083000 +0000" stop="20260428090000 +0000" channel="Al Jazeera English.mncvision">
     <title>Talk To Al Jazeera</title>
 </programme>
-<programme start="20260428090000 +0000" stop="20260428093000 +0000" channel="Al Jazeera English.mncvision">
-    <title>News (L)</title>
-</programme>
-<programme start="20260428093000 +0000" stop="20260428100000 +0000" channel="Al Jazeera English.mncvision">
-    <title>Witness</title>
+<programme start="20260428090000 +0000" stop="20260428100000 +0000" channel="Al Jazeera English.mncvision">
+    <title>NewsHour</title>
 </programme>
 <programme start="20260428100000 +0000" stop="20260428110000 +0000" channel="Al Jazeera English.mncvision">
     <title>NewsHour</title>
@@ -185,7 +176,7 @@
     <title>Inside Story</title>
 </programme>
 <programme start="20260428120000 +0000" stop="20260428130000 +0000" channel="Al Jazeera English.mncvision">
-    <title>Witness: Control Zone</title>
+    <title>NewsHour</title>
 </programme>
 <programme start="20260428130000 +0000" stop="20260428140000 +0000" channel="Al Jazeera English.mncvision">
     <title>NewsHour</title>

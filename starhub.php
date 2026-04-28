@@ -2108,64 +2108,58 @@
         <title>Erin Burnett OutFront</title>
     </programme>
     <programme start="20260428000000 +0000" stop="20260428010000 +0000" channel="CNN HD.starhub">
-        <title>Anderson Cooper 360</title>
+        <title>Monday, April 27, 2026 8PM</title>
     </programme>
     <programme start="20260428010000 +0000" stop="20260428020000 +0000" channel="CNN HD.starhub">
-        <title>The Source with Kaitlan Collins</title>
+        <title>Monday, April 27, 2026 9PM</title>
     </programme>
     <programme start="20260428020000 +0000" stop="20260428030000 +0000" channel="CNN HD.starhub">
-        <title>CNN NewsNight</title>
+        <title>Monday, April 27, 2026 10PM</title>
     </programme>
     <programme start="20260428030000 +0000" stop="20260428040000 +0000" channel="CNN HD.starhub">
-        <title>Laura Coates Live</title>
+        <title>Monday, April 27, 2026 11PM</title>
     </programme>
     <programme start="20260428040000 +0000" stop="20260428050000 +0000" channel="CNN HD.starhub">
-        <title>The Story Is With Elex Michaelson</title>
+        <title>Tuesday, April 28, 2026 12am ET</title>
     </programme>
-    <programme start="20260428050000 +0000" stop="20260428054500 +0000" channel="CNN HD.starhub">
-        <title>The Story Is With Elex Michaelson</title>
-    </programme>
-    <programme start="20260428054500 +0000" stop="20260428060000 +0000" channel="CNN HD.starhub">
-        <title>World Sport</title>
+    <programme start="20260428050000 +0000" stop="20260428060000 +0000" channel="CNN HD.starhub">
+        <title>Tuesday, April 28, 2026 1am ET</title>
     </programme>
     <programme start="20260428060000 +0000" stop="20260428070000 +0000" channel="CNN HD.starhub">
-        <title>CNN Newsroom</title>
+        <title>Tuesday, April 28, 2026 2am ET</title>
     </programme>
-    <programme start="20260428070000 +0000" stop="20260428074500 +0000" channel="CNN HD.starhub">
-        <title>CNN Newsroom</title>
-    </programme>
-    <programme start="20260428074500 +0000" stop="20260428080000 +0000" channel="CNN HD.starhub">
-        <title>World Sport</title>
+    <programme start="20260428070000 +0000" stop="20260428080000 +0000" channel="CNN HD.starhub">
+        <title>Tuesday, April 28, 2026 3am ET</title>
     </programme>
     <programme start="20260428080000 +0000" stop="20260428090000 +0000" channel="CNN HD.starhub">
-        <title>Amanpour</title>
+        <title>Monday, April 27, 2026 1pm ET</title>
     </programme>
     <programme start="20260428090000 +0000" stop="20260428100000 +0000" channel="CNN HD.starhub">
-        <title>Early Start</title>
+        <title>Tuesday, April 28, 2026 5AM</title>
     </programme>
     <programme start="20260428100000 +0000" stop="20260428110000 +0000" channel="CNN HD.starhub">
-        <title>CNN This Morning</title>
+        <title>Tuesday, April 28, 2026 6AM</title>
     </programme>
     <programme start="20260428110000 +0000" stop="20260428120000 +0000" channel="CNN HD.starhub">
-        <title>CNN News Central</title>
+        <title>Tuesday, April 28, 2026 7am ET</title>
     </programme>
     <programme start="20260428120000 +0000" stop="20260428123000 +0000" channel="CNN HD.starhub">
-        <title>CNN News Central</title>
+        <title>Tuesday, April 28, 2026 8am ET</title>
     </programme>
     <programme start="20260428123000 +0000" stop="20260428130000 +0000" channel="CNN HD.starhub">
-        <title>World Sport</title>
+        <title>Tuesday, April 28, 2026 830am ET</title>
     </programme>
     <programme start="20260428130000 +0000" stop="20260428134500 +0000" channel="CNN HD.starhub">
-        <title>Connect the World</title>
+        <title>Tuesday, April 28, 2026 9am ET</title>
     </programme>
     <programme start="20260428134500 +0000" stop="20260428140000 +0000" channel="CNN HD.starhub">
-        <title>World Sport</title>
+        <title>Tuesday, April 28, 2026 945am ET</title>
     </programme>
     <programme start="20260428140000 +0000" stop="20260428150000 +0000" channel="CNN HD.starhub">
-        <title>Connect the World</title>
+        <title>Tuesday, April 28, 2026 10am ET</title>
     </programme>
     <programme start="20260428150000 +0000" stop="20260428160000 +0000" channel="CNN HD.starhub">
-        <title>One World</title>
+        <title>Tuesday, April 28, 2026 11am ET</title>
     </programme>
     <programme start="20260427133000 +0000" stop="20260427170000 +0000" channel="KTV HD.starhub">
         <title>Movie - Engal Anna</title>
@@ -7315,35 +7309,35 @@
     <programme start="20260428143000 +0000" stop="20260428162000 +0000" channel="ONE (Malay).starhub">
         <title>Adventure By Accident 3</title>
     </programme>
-    <programme start="20260427160000 +0000" stop="20260427163000 +0000" channel="COLORS.starhub">
-        <title>Mangal Lakshmi</title>
-    </programme>
-    <programme start="20260427163000 +0000" stop="20260427170000 +0000" channel="COLORS.starhub">
-        <title>Do Duniya Ek Dil</title>
-    </programme>
-    <programme start="20260427170000 +0000" stop="20260427173000 +0000" channel="COLORS.starhub">
-        <title>Dr. Aarambhi</title>
-    </programme>
-    <programme start="20260427173000 +0000" stop="20260427180000 +0000" channel="COLORS.starhub">
-        <title>Noyontara</title>
-    </programme>
-    <programme start="20260427180000 +0000" stop="20260427183000 +0000" channel="COLORS.starhub">
-        <title>Seher Hone Ko Hai</title>
-    </programme>
-    <programme start="20260427183000 +0000" stop="20260427190000 +0000" channel="COLORS.starhub">
+    <programme start="20260427153500 +0000" stop="20260427160500 +0000" channel="COLORS.starhub">
         <title>Tuu Juliet Jatt Di</title>
     </programme>
-    <programme start="20260427190000 +0000" stop="20260427193000 +0000" channel="COLORS.starhub">
+    <programme start="20260427160500 +0000" stop="20260427163500 +0000" channel="COLORS.starhub">
+        <title>Mangal Lakshmi</title>
+    </programme>
+    <programme start="20260427163500 +0000" stop="20260427171000 +0000" channel="COLORS.starhub">
+        <title>Do Duniya Ek Dil</title>
+    </programme>
+    <programme start="20260427171000 +0000" stop="20260427174000 +0000" channel="COLORS.starhub">
+        <title>Dr. Aarambhi</title>
+    </programme>
+    <programme start="20260427174000 +0000" stop="20260427181500 +0000" channel="COLORS.starhub">
+        <title>Seher Hone Ko Hai</title>
+    </programme>
+    <programme start="20260427181500 +0000" stop="20260427184500 +0000" channel="COLORS.starhub">
+        <title>Tuu Juliet Jatt Di</title>
+    </programme>
+    <programme start="20260427184500 +0000" stop="20260427191500 +0000" channel="COLORS.starhub">
         <title>Mannat Harr Khushi Paane Ki</title>
     </programme>
-    <programme start="20260427193000 +0000" stop="20260427200000 +0000" channel="COLORS.starhub">
+    <programme start="20260427191500 +0000" stop="20260427195500 +0000" channel="COLORS.starhub">
         <title>Mahadev &amp; Sons</title>
     </programme>
-    <programme start="20260427200000 +0000" stop="20260427203000 +0000" channel="COLORS.starhub">
+    <programme start="20260427195500 +0000" stop="20260427203000 +0000" channel="COLORS.starhub">
         <title>Seher Hone Ko Hai</title>
     </programme>
     <programme start="20260427203000 +0000" stop="20260427210000 +0000" channel="COLORS.starhub">
-        <title>Noyontara</title>
+        <title>Dr. Aarambhi</title>
     </programme>
     <programme start="20260427210000 +0000" stop="20260427213000 +0000" channel="COLORS.starhub">
         <title>Mangal Lakshmi</title>
@@ -7352,46 +7346,43 @@
         <title>Do Duniya Ek Dil</title>
     </programme>
     <programme start="20260427220000 +0000" stop="20260427223000 +0000" channel="COLORS.starhub">
-        <title>Noyontara</title>
+        <title>The Legend Of Hanuman</title>
     </programme>
-    <programme start="20260427223000 +0000" stop="20260427230000 +0000" channel="COLORS.starhub">
+    <programme start="20260427223000 +0000" stop="20260427231000 +0000" channel="COLORS.starhub">
         <title>Mahadev &amp; Sons</title>
     </programme>
-    <programme start="20260427230000 +0000" stop="20260427233000 +0000" channel="COLORS.starhub">
+    <programme start="20260427231000 +0000" stop="20260427234000 +0000" channel="COLORS.starhub">
         <title>Mannat Harr Khushi Paane Ki</title>
     </programme>
-    <programme start="20260427233000 +0000" stop="20260428000000 +0000" channel="COLORS.starhub">
+    <programme start="20260427234000 +0000" stop="20260428001000 +0000" channel="COLORS.starhub">
         <title>Tuu Juliet Jatt Di</title>
     </programme>
-    <programme start="20260428000000 +0000" stop="20260428003000 +0000" channel="COLORS.starhub">
+    <programme start="20260428001000 +0000" stop="20260428004000 +0000" channel="COLORS.starhub">
         <title>Mangal Lakshmi</title>
     </programme>
-    <programme start="20260428003000 +0000" stop="20260428010000 +0000" channel="COLORS.starhub">
+    <programme start="20260428004000 +0000" stop="20260428011000 +0000" channel="COLORS.starhub">
         <title>Do Duniya Ek Dil</title>
     </programme>
-    <programme start="20260428010000 +0000" stop="20260428013000 +0000" channel="COLORS.starhub">
-        <title>Noyontara</title>
+    <programme start="20260428011000 +0000" stop="20260428014000 +0000" channel="COLORS.starhub">
+        <title>The Legend Of Hanuman</title>
     </programme>
-    <programme start="20260428013000 +0000" stop="20260428020000 +0000" channel="COLORS.starhub">
-        <title>Mahadev &amp; Sons</title>
-    </programme>
-    <programme start="20260428020000 +0000" stop="20260428023000 +0000" channel="COLORS.starhub">
+    <programme start="20260428014000 +0000" stop="20260428021500 +0000" channel="COLORS.starhub">
         <title>Do Duniya Ek Dil</title>
     </programme>
-    <programme start="20260428023000 +0000" stop="20260428030000 +0000" channel="COLORS.starhub">
+    <programme start="20260428021500 +0000" stop="20260428025000 +0000" channel="COLORS.starhub">
         <title>Seher Hone Ko Hai</title>
     </programme>
-    <programme start="20260428030000 +0000" stop="20260428033000 +0000" channel="COLORS.starhub">
+    <programme start="20260428025000 +0000" stop="20260428032000 +0000" channel="COLORS.starhub">
         <title>Tuu Juliet Jatt Di</title>
     </programme>
-    <programme start="20260428033000 +0000" stop="20260428040000 +0000" channel="COLORS.starhub">
+    <programme start="20260428032000 +0000" stop="20260428035500 +0000" channel="COLORS.starhub">
         <title>Mannat Harr Khushi Paane Ki</title>
     </programme>
-    <programme start="20260428040000 +0000" stop="20260428043000 +0000" channel="COLORS.starhub">
+    <programme start="20260428035500 +0000" stop="20260428043000 +0000" channel="COLORS.starhub">
         <title>Dr. Aarambhi</title>
     </programme>
     <programme start="20260428043000 +0000" stop="20260428050000 +0000" channel="COLORS.starhub">
-        <title>Noyontara</title>
+        <title>The Legend Of Hanuman</title>
     </programme>
     <programme start="20260428050000 +0000" stop="20260428053000 +0000" channel="COLORS.starhub">
         <title>Tuu Juliet Jatt Di</title>
@@ -7427,7 +7418,7 @@
         <title>Dr. Aarambhi</title>
     </programme>
     <programme start="20260428103000 +0000" stop="20260428110000 +0000" channel="COLORS.starhub">
-        <title>Noyontara</title>
+        <title>The Legend Of Hanuman</title>
     </programme>
     <programme start="20260428110000 +0000" stop="20260428113000 +0000" channel="COLORS.starhub">
         <title>Tuu Juliet Jatt Di</title>
@@ -7444,19 +7435,19 @@
     <programme start="20260428130000 +0000" stop="20260428133000 +0000" channel="COLORS.starhub">
         <title>Do Duniya Ek Dil</title>
     </programme>
-    <programme start="20260428133000 +0000" stop="20260428140000 +0000" channel="COLORS.starhub">
+    <programme start="20260428133000 +0000" stop="20260428142000 +0000" channel="COLORS.starhub">
         <title>Mahadev &amp; Sons</title>
     </programme>
-    <programme start="20260428140000 +0000" stop="20260428143000 +0000" channel="COLORS.starhub">
+    <programme start="20260428142000 +0000" stop="20260428145000 +0000" channel="COLORS.starhub">
         <title>Seher Hone Ko Hai</title>
     </programme>
-    <programme start="20260428143000 +0000" stop="20260428150000 +0000" channel="COLORS.starhub">
+    <programme start="20260428145000 +0000" stop="20260428152000 +0000" channel="COLORS.starhub">
         <title>Mannat Harr Khushi Paane Ki</title>
     </programme>
-    <programme start="20260428150000 +0000" stop="20260428153000 +0000" channel="COLORS.starhub">
+    <programme start="20260428152000 +0000" stop="20260428155000 +0000" channel="COLORS.starhub">
         <title>Dr. Aarambhi</title>
     </programme>
-    <programme start="20260428153000 +0000" stop="20260428160000 +0000" channel="COLORS.starhub">
+    <programme start="20260428155000 +0000" stop="20260428162000 +0000" channel="COLORS.starhub">
         <title>Tuu Juliet Jatt Di</title>
     </programme>
     <programme start="20260427160000 +0000" stop="20260427163000 +0000" channel="BBC World News HD.starhub">

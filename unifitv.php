@@ -594,7 +594,7 @@
   </channel>
   <programme start="20260427153000 +0000" stop="20260427160000 +0000" channel="tv1.unifitv">
     <title lang="en">Diari Atlet</title>
-    <desc lang="en">Jaguh sukan negara berkongsi perjalanan kerjaya, cabaran, kejayaan serta sokongan keluarga dan rakan yang menjadi sumber motivasi hingga berjaya mengharumkan nama negara. Atlit wushu negara, Tan Cheong Min berkongsi perjalanan kerjayanya dalam sukan wushu, cabaran latihan serta semangatnya untuk mengharumkan nama negara di pentas antarabangsa.</desc>
+    <desc lang="en">Jaguh sukan negara berkongsi perjalanan kerjaya, cabaran, kejayaan serta sokongan keluarga dan rakan yang menjadi sumber motivasi hingga berjaya mengharumkan nama negara.</desc>
     <category lang="en">Drama</category>
     <episode-num system="xmltv_ns">0.6.</episode-num>
     <episode-num system="onscreen">S1E7</episode-num>
@@ -606,42 +606,42 @@
   </programme>
   <programme start="20260427163000 +0000" stop="20260427173000 +0000" channel="tv1.unifitv">
     <title lang="en">Mencari Mel &amp; Ayu</title>
-    <desc lang="en">Azimah mencintai sepupunya Zainuddin dan cemburu apabila dia berkahwin dengan Catherine. Demi memisahkan mereka, Azimah merancang fitnah hingga Catherine diceraikan. Namun perbuatannya membawa kifarah apabila hidupnya terus dihantui rahsia dan ugutan Ghazali selama bertahun-tahun. Melissa hubungi Zainudin mahu ke Malaysia cari ayahnya. Zainudin baru tahu Katherine telah tiada. Azimah lega namun risau, lalu marah bila hal Melissa tak dibincangkan bersama keluarga.</desc>
+    <desc lang="en">Azimah mencintai sepupunya Zainuddin dan cemburu apabila dia berkahwin dengan Catherine. Demi memisahkan mereka, Azimah merancang fitnah hingga Catherine diceraikan. Namun perbuatannya membawa kifarah apabila hidupnya terus dihantui rahsia dan ugutan Ghazali selama bertahun-tahun.</desc>
     <category lang="en">Drama</category>
     <episode-num system="xmltv_ns">0.9.</episode-num>
     <episode-num system="onscreen">S1E10</episode-num>
   </programme>
   <programme start="20260427173000 +0000" stop="20260427180000 +0000" channel="tv1.unifitv">
     <title lang="en">Awal / Limitasi</title>
-    <desc lang="en">Dokumentari kesihatan yang mengupas pelbagai varian penyakit yang kerap menyerang peringkat awal kanak-kanak. Turut dipaparkan cara-cara mengenali simptom dan rawatan serta cara melatih pesakit. Episod kali ini akan membincangkan mengenai penyakit CEREBAL PALSY, keadaan yang menjejaskan kawalan dan fungsi motor otot</desc>
+    <desc lang="en">Dokumentari kesihatan yang mengupas pelbagai varian penyakit yang kerap menyerang peringkat awal kanak-kanak. Turut dipaparkan cara-cara mengenali simptom dan rawatan serta cara melatih pesakit.</desc>
     <category lang="en">Drama</category>
     <episode-num system="xmltv_ns">0.8.</episode-num>
     <episode-num system="onscreen">S1E9</episode-num>
   </programme>
   <programme start="20260427180000 +0000" stop="20260427190000 +0000" channel="tv1.unifitv">
     <title lang="en">Tasbih Rindu</title>
-    <desc lang="en">Kehidupan Ryan banyak berubah, dia lebih tenang dan banyak melakukan ibadat. Ryan tidak lagi melayan Sarah walaupun Sarah cuba mendekatinya kembali. Drama lakonan Shah Jaszle, Mardiana Alwi, Hafidzuddin Fazil, Hendon Faeizah, Josiah Hogan, Fieyna Tajudin.</desc>
+    <desc lang="en">Drama lakonan Shah Jaszle, Mardiana Alwi, Hafidzuddin Fazil, Hendon Faeizah, Josiah Hogan, Fieyna Tajudin.</desc>
     <category lang="en">Drama</category>
     <episode-num system="xmltv_ns">0.10.</episode-num>
     <episode-num system="onscreen">S1E11</episode-num>
   </programme>
   <programme start="20260427190000 +0000" stop="20260427193000 +0000" channel="tv1.unifitv">
     <title lang="en">Pentas Seni</title>
-    <desc lang="en">Sebuah program bicarawara yang mengupas isu semasa dunia hiburan Malaysia, dengan temubual eksklusif bersama selebriti dan penggiat industri berkaitan tajuk hangat. Panel jemputan episod ini: Raja Azura (pelakon) dan Noraniza Idris (penyanyi) berkongsi pengalaman serta pandangan mereka dalam industri hiburan Malaysia.</desc>
+    <desc lang="en">Sebuah program bicarawara yang mengupas isu semasa dunia hiburan Malaysia, dengan temubual eksklusif bersama selebriti dan penggiat industri berkaitan tajuk hangat.</desc>
     <category lang="en">Drama</category>
     <episode-num system="xmltv_ns">0.9.</episode-num>
     <episode-num system="onscreen">S1E10</episode-num>
   </programme>
   <programme start="20260427193000 +0000" stop="20260427203000 +0000" channel="tv1.unifitv">
     <title lang="en">Kampung Semarah Padi (Ulangan)</title>
-    <desc lang="en">Kisah penduduk Kampung Semarah Padi yang disumpah menjadi lembut-selembutnya oleh Kassim selepas difitnah dan dihalau kerana menyukai Meriam, anak gadis Penghulu Siak. Penghulu Siak kembali dilantik. Kassim kahwin Meriam. Kampung huru-hara bila Musalmah muncul. Penghulu ajak pindah kampung baru, tapi Kassim, Meriam, dan penduduk pengsan. Bila sedar, kampung sunyi sepi dan bisu.</desc>
+    <desc lang="en">Kisah penduduk Kampung Semarah Padi yang disumpah menjadi lembut-selembutnya oleh Kassim selepas difitnah dan dihalau kerana menyukai Meriam, anak gadis Penghulu Siak.</desc>
     <category lang="en">Drama</category>
     <episode-num system="xmltv_ns">0.12.</episode-num>
     <episode-num system="onscreen">S1E13</episode-num>
   </programme>
   <programme start="20260427203000 +0000" stop="20260427210000 +0000" channel="tv1.unifitv">
     <title lang="en">Kelas IT Kampung Ampas</title>
-    <desc lang="en">Cikgu Nina, seorang guru yang dilantik oleh JKKK Kampung Ampas untuk mengajar penduduk mengenai IT yang merupakan keperluan pada masa kini. Dalam episod ini Zack Zambo telah datang ke warung Maya. Hidupnya telah mewah dengan menaiki kereta mewah. Zack menjalankan perniagaan dalam talian. Suzy dan Maya mahu menjadi kaya seperti Zack. Tok Ketua menasihati mereka supaya berhati-hati dengan Zack. Tok Ketua meminta Cikgu Nina siasat perniagaan Zack. Rupanya Zack menipu duit orang. Ramai yang telah terpedaya dengannya.</desc>
+    <desc lang="en">Cikgu Nina, seorang guru yang dilantik oleh JKKK Kampung Ampas untuk mengajar penduduk mengenai IT yang merupakan keperluan pada masa kini.</desc>
     <category lang="en">Drama</category>
     <episode-num system="xmltv_ns">0.9.</episode-num>
     <episode-num system="onscreen">S1E10</episode-num>
@@ -660,13 +660,15 @@
   </programme>
   <programme start="20260427213000 +0000" stop="20260427220200 +0000" channel="tv1.unifitv">
     <title lang="en">Surah Al Mulk (2023)</title>
-    <desc lang="en">Bacaan Surah Al Mulk (2023)</desc>
+    <desc lang="en">Bacaan surah Al Mulk.</desc>
     <category lang="en">Drama</category>
   </programme>
   <programme start="20260427220200 +0000" stop="20260427230000 +0000" channel="tv1.unifitv">
     <title lang="en">Anda Musykil 2025</title>
     <desc lang="en">Saksikan program bual bicara bersama tetamu istimewa dalam Anda Musykil.</desc>
     <category lang="en">Drama</category>
+    <episode-num system="xmltv_ns">0.23.</episode-num>
+    <episode-num system="onscreen">S1E24</episode-num>
   </programme>
   <programme start="20260427230000 +0000" stop="20260427234400 +0000" channel="tv1.unifitv">
     <title lang="en">BERITA PAGI</title>
@@ -756,8 +758,8 @@
     <title lang="en">Kuppa Kopi 2026</title>
     <desc lang="en">Saksikan program bual bicara bersama tetamu istimewa.</desc>
     <category lang="en">Drama</category>
-    <episode-num system="xmltv_ns">0.6.</episode-num>
-    <episode-num system="onscreen">S1E7</episode-num>
+    <episode-num system="xmltv_ns">0.7.</episode-num>
+    <episode-num system="onscreen">S1E8</episode-num>
   </programme>
   <programme start="20260428080000 +0000" stop="20260428080500 +0000" channel="tv1.unifitv">
     <title lang="en">LIVE : BERITA SEMASA</title>
@@ -765,7 +767,7 @@
     <category lang="en">Drama</category>
   </programme>
   <programme start="20260428080500 +0000" stop="20260428083000 +0000" channel="tv1.unifitv">
-    <title lang="en">Terukir Di Langit</title>
+    <title lang="en">Terukir Di Langit (Ulangan)</title>
     <desc lang="en">Dokumentari yang membawa anda menerokai keindahan langit dan objek-objek yang terdapat di angkasa.</desc>
     <category lang="en">Drama</category>
     <episode-num system="xmltv_ns">0.1.</episode-num>
@@ -775,8 +777,8 @@
     <title lang="en">Biz Malaysia 2026</title>
     <desc lang="en">Saksikan perkembangan terkini dunia ekonomi Malaysia dalam Biz Malaysia.</desc>
     <category lang="en">Drama</category>
-    <episode-num system="xmltv_ns">0.22.</episode-num>
-    <episode-num system="onscreen">S1E23</episode-num>
+    <episode-num system="xmltv_ns">0.24.</episode-num>
+    <episode-num system="onscreen">S1E25</episode-num>
   </programme>
   <programme start="20260428090000 +0000" stop="20260428100000 +0000" channel="tv1.unifitv">
     <title lang="en">BERITA WILAYAH</title>
@@ -787,14 +789,12 @@
     <title lang="en">Bismillah 2025</title>
     <desc lang="en">Saksikan Bismillah menghayati Tilawah &amp; Tadabbur surah al-fatihah yang menceritakan tentang kebesaran Allah dan pedoman hidup manusia dalam damaikan jiwamu dengan bismillah.</desc>
     <category lang="en">Drama</category>
-    <episode-num system="xmltv_ns">0.14.</episode-num>
-    <episode-num system="onscreen">S1E15</episode-num>
+    <episode-num system="xmltv_ns">0.15.</episode-num>
+    <episode-num system="onscreen">S1E16</episode-num>
   </programme>
   <programme start="20260428104500 +0000" stop="20260428114400 +0000" channel="tv1.unifitv">
     <title lang="en">Aku Yang Merinduimu</title>
-    <desc lang="en">Husna anak yatim piatu dan dijaga oleh atuknya, Tok Ayah @ Pak Seman. Ibubapa Husna meninggal dalam kemalangan ketika dia berumur 10 tahun. 
-
-Pelakon : Elisya Sandha, Syafie Naswip, Zarul Imran, John Tan, Eleen Arisha, Mior Hashim Manap, Jesse Lim, Datin Aliah Lee, Isaac Iman, Neera Azizi, Rahim Omar, Jeff Saly, Elly Suhaili.</desc>
+    <desc lang="en">Husna anak yatim piatu dan dijaga oleh atuknya, Tok Ayah @ Pak Seman. Ibubapa Husna meninggal dalam kemalangan ketika dia berumur 10 tahun</desc>
     <category lang="en">Drama</category>
     <episode-num system="xmltv_ns">0.0.</episode-num>
     <episode-num system="onscreen">S1E1</episode-num>
@@ -815,8 +815,8 @@ Pelakon : Elisya Sandha, Syafie Naswip, Zarul Imran, John Tan, Eleen Arisha, Mio
     <category lang="en">Drama</category>
   </programme>
   <programme start="20260428130000 +0000" stop="20260428140000 +0000" channel="tv1.unifitv">
-    <title lang="en">Siaran Langsung : Bicara Naratif</title>
-    <desc lang="en">Saksikan diskusi naratif khas bersama pengacara dan tetamu undangan.</desc>
+    <title lang="en">LIVE : BICARA NARATIF</title>
+    <desc lang="en">Program bicarawara bertema Naratif bersama tetamu undangan dan membincangkan isu semasa sebagai topik pilihan.</desc>
     <category lang="en">Drama</category>
   </programme>
   <programme start="20260428140000 +0000" stop="20260428141500 +0000" channel="tv1.unifitv">
@@ -825,8 +825,8 @@ Pelakon : Elisya Sandha, Syafie Naswip, Zarul Imran, John Tan, Eleen Arisha, Mio
     <category lang="en">Drama</category>
   </programme>
   <programme start="20260428141500 +0000" stop="20260428143000 +0000" channel="tv1.unifitv">
-    <title lang="en">MV Salam Baitullah/ Promo/ PSA/ Kapsul</title>
-    <desc lang="en">MV Salam Baitullah/ Promo/ PSA/ Kapsul</desc>
+    <title lang="en">Promo / PSA / Kapsul</title>
+    <desc lang="en">Promo / PSA / Kapsul</desc>
     <category lang="en">Drama</category>
   </programme>
   <programme start="20260428143000 +0000" stop="20260428153000 +0000" channel="tv1.unifitv">
