@@ -337,9 +337,6 @@
 <programme start="20260428153000 +0000" stop="20260428163000 +0000" channel="SindoNews.vision">
 <title>SINDO Files</title>
 </programme>
-<programme start="20260428163000 +0000" stop="20260428170000 +0000" channel="SindoNews.vision">
-<title>OMG</title>
-</programme>
 <programme start="20260428170000 +0000" stop="20260428180000 +0000" channel="SindoNews.vision">
 <title>iNews Sore</title>
 </programme>
@@ -1496,5 +1493,8 @@
 <title>TVRI</title>
 </programme>
 <programme start="20260429090000 +0000" stop="20260429110000 +0000" channel="TVRI.vision">
+<title>TVRI</title>
+</programme>
+<programme start="20260429110000 +0000" stop="20260429130000 +0000" channel="TVRI.vision">
 <title>TVRI</title>
 </programme>

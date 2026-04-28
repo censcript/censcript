@@ -212,16 +212,16 @@
     <desc lang="id">Sinetron romansa tentang perjalanan Trian (Yesaya Abraham) mencari keadilan dan mengungkap kejahatan pasca Adila, istrinya meninggal dunia, dengan bantuan Rama (Rayn Wijaya) dan Asmara (Angela Gilsha). Tayang setiap hari pukul 20.10 WIB</desc>
     <icon src="https://thumbor.prod.vidiocdn.com/ho2PtWvpg-rvR-RgqS1-Xs_7xWA=/287x162/filters:strip_icc():quality(70)/vidio-media-production/uploads/tv_program/thumbnail/393465/43cc4c.jpg"/>
   </programme>
-  <programme channel="204" start="20260428141500 +0000" stop="20260428174000 +0000">
-    <title lang="id">The Icon Indonesia</title>
+  <programme channel="204" start="20260428141500 +0000" stop="20260428171100 +0000">
+    <title lang="id">The Icon Indonesia : The Duel Top 16 Grup B</title>
     <icon src="https://thumbor.prod.vidiocdn.com/LNl9yG5pXeXYmsjWzLeCxinE7XY=/287x162/filters:strip_icc():quality(70)/vidio-media-production/uploads/livestreaming/schedule/thumbnail/5030168/cdedad.jpg"/>
   </programme>
-  <programme channel="204" start="20260428141500 +0000" stop="20260428174000 +0000">
-    <title lang="id">The Icon Indonesia</title>
+  <programme channel="204" start="20260428141500 +0000" stop="20260428171100 +0000">
+    <title lang="id">The Icon Indonesia : The Duel Top 16 Grup B</title>
     <icon src="https://thumbor.prod.vidiocdn.com/LNl9yG5pXeXYmsjWzLeCxinE7XY=/287x162/filters:strip_icc():quality(70)/vidio-media-production/uploads/livestreaming/schedule/thumbnail/5030168/cdedad.jpg"/>
   </programme>
-  <programme channel="204" start="20260428174000 +0000" stop="20260428183000 +0000">
-    <title lang="id">Ftv Utama Suka Sukamu Nona Manis</title>
+  <programme channel="204" start="20260428171100 +0000" stop="20260428183000 +0000">
+    <title lang="id">FTV Utama : Suka Sukamu Nona Manis</title>
     <desc lang="id">Film televisi yang mengangkat kisah romantisme kehidupan dengan konflik yang menarik. Tayang setiap hari.</desc>
     <icon src="https://thumbor.prod.vidiocdn.com/N99E8BD1OJ5vvymwPBj0c-BU5J4=/287x162/filters:strip_icc():quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/image/204/sctv-5ef966.jpg"/>
   </programme>
