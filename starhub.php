@@ -6719,7 +6719,7 @@
         <title>Day 5 Session 1 Tie 1: Chinese Taipei vs Indonesia (C1)</title>
     </programme>
     <programme start="20260428130000 +0000" stop="20260428140000 +0000" channel="Hub Sports 1  HD.starhub">
-        <title>Dubai Duty Free Tennis C&#039;ships</title>
+        <title>Dubai Duty Free Tennis Championships</title>
     </programme>
     <programme start="20260428140000 +0000" stop="20260428150000 +0000" channel="Hub Sports 1  HD.starhub">
         <title>Miami Open presented by Itau</title>

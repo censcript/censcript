@@ -5,10 +5,10 @@
 <title>Entong (RCTI)</title>
 </programme>
 <programme start="20260428023000 +0000" stop="20260428033000 +0000" channel="RCTI.vision">
-<title>Silet (RCTI)</title>
+<title>Realita</title>
 </programme>
 <programme start="20260428033000 +0000" stop="20260428043000 +0000" channel="RCTI.vision">
-<title>Realita</title>
+<title>Silet (RCTI)</title>
 </programme>
 <programme start="20260428043000 +0000" stop="20260428050000 +0000" channel="RCTI.vision">
 <title>Seputar iNews Siang</title>
@@ -50,10 +50,10 @@
 <title>Entong (RCTI)</title>
 </programme>
 <programme start="20260429023000 +0000" stop="20260429033000 +0000" channel="RCTI.vision">
-<title>Silet (RCTI)</title>
+<title>Realita</title>
 </programme>
 <programme start="20260429033000 +0000" stop="20260429043000 +0000" channel="RCTI.vision">
-<title>Realita</title>
+<title>Silet (RCTI)</title>
 </programme>
 <programme start="20260429043000 +0000" stop="20260429050000 +0000" channel="RCTI.vision">
 <title>Seputar iNews Siang</title>

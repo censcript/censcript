@@ -4767,15 +4767,20 @@
   <channel id="zeethirai.unifitv">
     <display-name>Zee Thirai</display-name>
   </channel>
-  <programme start="20260427140000 +0000" stop="20260427163000 +0000" channel="zeethirai.unifitv">
+  <programme start="20260427140300 +0000" stop="20260427163000 +0000" channel="zeethirai.unifitv">
     <title lang="en">Biscoth</title>
     <desc lang="en">After the death of his father, Raja begins to work in his father's company. He, however, finds his life changed when he befriends Janaki who narrates stories that come true for him.</desc>
     <category lang="en">Comedy</category>
   </programme>
-  <programme start="20260427163000 +0000" stop="20260427193000 +0000" channel="zeethirai.unifitv">
+  <programme start="20260427163000 +0000" stop="20260427185700 +0000" channel="zeethirai.unifitv">
     <title lang="en">Saaho</title>
     <desc lang="en">An undercover agent and his partner pursue a thief who stole 2,000 crore rupees, only to discover the case is connected to a crime lord's death and a brewing gang war.</desc>
     <category lang="en">Action</category>
+  </programme>
+  <programme start="20260427185700 +0000" stop="20260427193000 +0000" channel="zeethirai.unifitv">
+    <title lang="en">Fillers</title>
+    <desc lang="en">Catch non-stop promos, music, and fun fillers from your favorite movies and shows-all in one place! Enjoy a seamless entertainment experience like never before!</desc>
+    <category lang="en">Entertainment</category>
   </programme>
   <programme start="20260427193000 +0000" stop="20260427200000 +0000" channel="zeethirai.unifitv">
     <title lang="en">Free Ticket</title>

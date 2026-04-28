@@ -2559,22 +2559,19 @@ Warning: Undefined array key "et" in /usr/home/ManusiaBiasa/domains/manusiabiasa
 <programme start="20260428213000 +0000" stop="20260428222500 +0000" channel="Sky Showcase HD.skyde">
     <title>Der Mond - Geheimnisvolle Kraft der Natur</title>
 </programme>
-<programme start="20260427220000 +0000" stop="20260427221000 +0000" channel="Sky Sport Austria 1 HD.skyde">
+<programme start="20260427221000 +0000" stop="20260427223000 +0000" channel="Sky Sport Austria 1 HD.skyde">
     <title>Admiral BL: Pitchside: STU - FAK, 29. Runde</title>
 </programme>
-<programme start="20260427221000 +0000" stop="20260427224000 +0000" channel="Sky Sport Austria 1 HD.skyde">
+<programme start="20260427223000 +0000" stop="20260427230000 +0000" channel="Sky Sport Austria 1 HD.skyde">
     <title>Admiral BL: 90in30: SCR - RBS, 29. Runde</title>
 </programme>
-<programme start="20260427224000 +0000" stop="20260428004000 +0000" channel="Sky Sport Austria 1 HD.skyde">
+<programme start="20260427230000 +0000" stop="20260428010000 +0000" channel="Sky Sport Austria 1 HD.skyde">
     <title>Admiral BL: RZ Pellets WAC - Grazer AK 1902, 29. Runde</title>
 </programme>
-<programme start="20260428004000 +0000" stop="20260428005000 +0000" channel="Sky Sport Austria 1 HD.skyde">
+<programme start="20260428010000 +0000" stop="20260428011500 +0000" channel="Sky Sport Austria 1 HD.skyde">
     <title>Admiral BL: Pitchside: STU - FAK, 29. Runde</title>
 </programme>
-<programme start="20260428005000 +0000" stop="20260428012000 +0000" channel="Sky Sport Austria 1 HD.skyde">
-    <title>Admiral BL: 90in30: SCR - RBS, 29. Runde</title>
-</programme>
-<programme start="20260428012000 +0000" stop="20260428013000 +0000" channel="Sky Sport Austria 1 HD.skyde">
+<programme start="20260428011500 +0000" stop="20260428013000 +0000" channel="Sky Sport Austria 1 HD.skyde">
     <title>Admiral BL: Pitchside: STU - FAK, 29. Runde</title>
 </programme>
 <programme start="20260428013000 +0000" stop="20260428020000 +0000" channel="Sky Sport Austria 1 HD.skyde">
@@ -2643,7 +2640,7 @@ Warning: Undefined array key "et" in /usr/home/ManusiaBiasa/domains/manusiabiasa
 <programme start="20260428084000 +0000" stop="20260428090000 +0000" channel="Sky Sport Austria 2 HD.skyde">
     <title>Es folgt: Live Tennis ATP Tour</title>
 </programme>
-<programme start="20260428090000 +0000" stop="20260428220000 +0000" channel="Sky Sport Austria 2 HD.skyde">
+<programme start="20260428090000 +0000" stop="20260429033000 +0000" channel="Sky Sport Austria 2 HD.skyde">
     <title>Live ATP &amp; WTA: Konferenz Mutua Madrid Open in Madrid (ESP), 8. Tag</title>
 </programme>
 <programme start="20260427220000 +0000" stop="20260427223000 +0000" channel="Sky Sport Bundesliga HD.skyde">
@@ -2796,7 +2793,7 @@ Warning: Undefined array key "et" in /usr/home/ManusiaBiasa/domains/manusiabiasa
 <programme start="20260428215000 +0000" stop="20260428220000 +0000" channel="Sky Sport F1 HD.skyde">
     <title>F1: Greatest Races: D. Coulthard / Frankreich 2000</title>
 </programme>
-<programme start="20260428010000 +0000" stop="20260428040000 +0000" channel="Sky Sport Golf HD.skyde">
+<programme start="20260428003000 +0000" stop="20260428040000 +0000" channel="Sky Sport Golf HD.skyde">
     <title>Asian Tour: Singapore Open, 4. Tag auf Sentosa (Singapur)</title>
 </programme>
 <programme start="20260428040000 +0000" stop="20260428080000 +0000" channel="Sky Sport Golf HD.skyde">
@@ -2934,7 +2931,7 @@ Warning: Undefined array key "et" in /usr/home/ManusiaBiasa/domains/manusiabiasa
 <programme start="20260428210000 +0000" stop="20260428220000 +0000" channel="Sky Sport News HD.skyde">
     <title>Live Sky Sport News: Late Night News</title>
 </programme>
-<programme start="20260427220000 +0000" stop="20260427223000 +0000" channel="Sky Sport Premier League HD.skyde">
+<programme start="20260427220500 +0000" stop="20260427223500 +0000" channel="Sky Sport Premier League HD.skyde">
     <title>EFL: Highlights, 45. Spieltag</title>
 </programme>
 <programme start="20260427223000 +0000" stop="20260427230000 +0000" channel="Sky Sport Premier League HD.skyde">
@@ -3174,7 +3171,7 @@ Warning: Undefined array key "et" in /usr/home/ManusiaBiasa/domains/manusiabiasa
 <programme start="20260428180000 +0000" stop="20260428200000 +0000" channel="Sky Sport 1 HD.skyde">
     <title>Live WTA 1000: A. Sabalenka - H. Baptiste (USA), Mutua Madrid Open in Madrid (ESP), Viertelfinale 2</title>
 </programme>
-<programme start="20260427223000 +0000" stop="20260428013000 +0000" channel="Sky Sport 2 HD.skyde">
+<programme start="20260428000000 +0000" stop="20260428013000 +0000" channel="Sky Sport 2 HD.skyde">
     <title>Es folgt: ab 03:30: LIVE NBA</title>
 </programme>
 <programme start="20260428013000 +0000" stop="20260428080000 +0000" channel="Sky Sport 2 HD.skyde">
