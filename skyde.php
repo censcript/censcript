@@ -2559,19 +2559,22 @@ Warning: Undefined array key "et" in /usr/home/ManusiaBiasa/domains/manusiabiasa
 <programme start="20260428213000 +0000" stop="20260428222500 +0000" channel="Sky Showcase HD.skyde">
     <title>Der Mond - Geheimnisvolle Kraft der Natur</title>
 </programme>
-<programme start="20260427221000 +0000" stop="20260427223000 +0000" channel="Sky Sport Austria 1 HD.skyde">
+<programme start="20260427222000 +0000" stop="20260427223000 +0000" channel="Sky Sport Austria 1 HD.skyde">
     <title>Admiral BL: Pitchside: STU - FAK, 29. Runde</title>
 </programme>
 <programme start="20260427223000 +0000" stop="20260427230000 +0000" channel="Sky Sport Austria 1 HD.skyde">
     <title>Admiral BL: 90in30: SCR - RBS, 29. Runde</title>
 </programme>
-<programme start="20260427230000 +0000" stop="20260428010000 +0000" channel="Sky Sport Austria 1 HD.skyde">
+<programme start="20260427230000 +0000" stop="20260428004000 +0000" channel="Sky Sport Austria 1 HD.skyde">
     <title>Admiral BL: RZ Pellets WAC - Grazer AK 1902, 29. Runde</title>
 </programme>
-<programme start="20260428010000 +0000" stop="20260428011500 +0000" channel="Sky Sport Austria 1 HD.skyde">
+<programme start="20260428004000 +0000" stop="20260428005000 +0000" channel="Sky Sport Austria 1 HD.skyde">
     <title>Admiral BL: Pitchside: STU - FAK, 29. Runde</title>
 </programme>
-<programme start="20260428011500 +0000" stop="20260428013000 +0000" channel="Sky Sport Austria 1 HD.skyde">
+<programme start="20260428005000 +0000" stop="20260428012000 +0000" channel="Sky Sport Austria 1 HD.skyde">
+    <title>Admiral BL: 90in30: SCR - RBS, 29. Runde</title>
+</programme>
+<programme start="20260428012000 +0000" stop="20260428013000 +0000" channel="Sky Sport Austria 1 HD.skyde">
     <title>Admiral BL: Pitchside: STU - FAK, 29. Runde</title>
 </programme>
 <programme start="20260428013000 +0000" stop="20260428020000 +0000" channel="Sky Sport Austria 1 HD.skyde">
@@ -3069,31 +3072,25 @@ Warning: Undefined array key "et" in /usr/home/ManusiaBiasa/domains/manusiabiasa
 <programme start="20260428090000 +0000" stop="20260428220000 +0000" channel="Sky Sport Tennis HD.skyde">
     <title>Live ATP &amp; WTA: Konferenz Mutua Madrid Open in Madrid (ESP), 8. Tag</title>
 </programme>
-<programme start="20260427220000 +0000" stop="20260427223000 +0000" channel="Sky Sport Top Event HD.skyde">
+<programme start="20260427223000 +0000" stop="20260427230000 +0000" channel="Sky Sport Top Event HD.skyde">
     <title>Frauen-BL: Alle Spiele, alle Tore, 23. Spieltag komplett</title>
-</programme>
-<programme start="20260427223000 +0000" stop="20260427224500 +0000" channel="Sky Sport Top Event HD.skyde">
-    <title>BL: Torparade 31. Spieltag</title>
-</programme>
-<programme start="20260427224500 +0000" stop="20260427230000 +0000" channel="Sky Sport Top Event HD.skyde">
-    <title>2. BL: Torparade 31. Spieltag</title>
 </programme>
 <programme start="20260427230000 +0000" stop="20260428000000 +0000" channel="Sky Sport Top Event HD.skyde">
     <title>Live NBA: Showtime</title>
 </programme>
-<programme start="20260428000000 +0000" stop="20260428023000 +0000" channel="Sky Sport Top Event HD.skyde">
+<programme start="20260428000000 +0000" stop="20260428030000 +0000" channel="Sky Sport Top Event HD.skyde">
     <title>Live NBA: Detroit Pistons @ Orlando Magic, Playoffs, Runde 1, Spiel 4</title>
 </programme>
-<programme start="20260428023000 +0000" stop="20260428040000 +0000" channel="Sky Sport Top Event HD.skyde">
+<programme start="20260428030000 +0000" stop="20260428042000 +0000" channel="Sky Sport Top Event HD.skyde">
     <title>Live NBA: Oklahoma City Thunder @ Phoenix Suns, Playoffs, Runde 1, Spiel 4</title>
 </programme>
-<programme start="20260428040000 +0000" stop="20260428050000 +0000" channel="Sky Sport Top Event HD.skyde">
+<programme start="20260428042000 +0000" stop="20260428052000 +0000" channel="Sky Sport Top Event HD.skyde">
     <title>Live NBA: Minnesota Timberwolves @ Denver Nuggets, Playoffs, Runde 1, Spiel 5</title>
 </programme>
-<programme start="20260428050000 +0000" stop="20260428053000 +0000" channel="Sky Sport Top Event HD.skyde">
+<programme start="20260428052000 +0000" stop="20260428060000 +0000" channel="Sky Sport Top Event HD.skyde">
     <title>Live NBA: Showtime - Post Show</title>
 </programme>
-<programme start="20260428053000 +0000" stop="20260428070000 +0000" channel="Sky Sport Top Event HD.skyde">
+<programme start="20260428060000 +0000" stop="20260428070000 +0000" channel="Sky Sport Top Event HD.skyde">
     <title>WRC: Rally Islas Canarias - SS18 Santa Lucia - Agüimes 2 (Wolf Power Stage)</title>
 </programme>
 <programme start="20260428070000 +0000" stop="20260428073000 +0000" channel="Sky Sport Top Event HD.skyde">
@@ -3162,13 +3159,13 @@ Warning: Undefined array key "et" in /usr/home/ManusiaBiasa/domains/manusiabiasa
 <programme start="20260428104000 +0000" stop="20260428110000 +0000" channel="Sky Sport 1 HD.skyde">
     <title>Es folgt: Live Tennis WTA Tour</title>
 </programme>
-<programme start="20260428110000 +0000" stop="20260428130000 +0000" channel="Sky Sport 1 HD.skyde">
+<programme start="20260428110000 +0000" stop="20260428160000 +0000" channel="Sky Sport 1 HD.skyde">
     <title>Live WTA 1000: tba - L. Fernandez (CAN), Mutua Madrid Open in Madrid (ESP), Viertelfinale 1</title>
 </programme>
 <programme start="20260428174000 +0000" stop="20260428180000 +0000" channel="Sky Sport 1 HD.skyde">
     <title>Es folgt: Live Tennis WTA Tour</title>
 </programme>
-<programme start="20260428180000 +0000" stop="20260428200000 +0000" channel="Sky Sport 1 HD.skyde">
+<programme start="20260428180000 +0000" stop="20260428220000 +0000" channel="Sky Sport 1 HD.skyde">
     <title>Live WTA 1000: A. Sabalenka - H. Baptiste (USA), Mutua Madrid Open in Madrid (ESP), Viertelfinale 2</title>
 </programme>
 <programme start="20260428000000 +0000" stop="20260428013000 +0000" channel="Sky Sport 2 HD.skyde">
