@@ -774,30 +774,25 @@
     <desc lang="id">Saksikan! BRI Super League 2025/26 - Is Back!" 18 Klub Terbaik Siap Bertarung Di Kasta Tertinggi Sepak Bola Indonesia! Pertandingan Semakin Seru! Jangan Lewatkan BRI Super League 2025/26 Mulai 8 Agustus 2025, Pkl 15.00 &amp; 18.30 WIB, Live &amp; Eksklusif Hanya Di Indosiar dan Vidio #Indosiarrumahsepakbolaindonesia</desc>
     <icon src="https://thumbor.prod.vidiocdn.com/cBZL7ITaJCof6cqtayFee2uJCX8=/287x162/filters:strip_icc():quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/image/205/indosiar-d9a3d0.jpg"/>
   </programme>
-  <programme channel="205" start="20260428150000 +0000" stop="20260428163000 +0000">
+  <programme channel="205" start="20260428150000 +0000" stop="20260428173400 +0000">
     <title lang="id">D' Academy 7 - Mega Konser</title>
     <desc lang="id">Panggung Megah Konser D'Academy 7 Siap Digelar! Audisi Online dan Offline Telah Usai! Siapakah Yang Akan Lolos Ke Panggung Megah D'Academy 7? Saksikan D'Academy 7 Mulai Senin, 9 Juni, Setiap Senin-Jumat Live Pkl 20.00 WIB Hanya Di Indosiar. #Indosiarbawadangdutberkelasberkualitas</desc>
     <icon src="https://thumbor.prod.vidiocdn.com/sq_Qwzc433FuJ6coHlde_jLPVQw=/287x162/filters:strip_icc():quality(70)/vidio-media-production/uploads/livestreaming/schedule/thumbnail/5028239/77587d.jpg"/>
   </programme>
-  <programme channel="205" start="20260428163000 +0000" stop="20260428183000 +0000">
+  <programme channel="205" start="20260428150000 +0000" stop="20260428173400 +0000">
+    <title lang="id">D' Academy 7 - Mega Konser</title>
+    <desc lang="id">Panggung Megah Konser D'Academy 7 Siap Digelar! Audisi Online dan Offline Telah Usai! Siapakah Yang Akan Lolos Ke Panggung Megah D'Academy 7? Saksikan D'Academy 7 Mulai Senin, 9 Juni, Setiap Senin-Jumat Live Pkl 20.00 WIB Hanya Di Indosiar. #Indosiarbawadangdutberkelasberkualitas</desc>
+    <icon src="https://thumbor.prod.vidiocdn.com/sq_Qwzc433FuJ6coHlde_jLPVQw=/287x162/filters:strip_icc():quality(70)/vidio-media-production/uploads/livestreaming/schedule/thumbnail/5028239/77587d.jpg"/>
+  </programme>
+  <programme channel="205" start="20260428173400 +0000" stop="20260428190000 +0000">
     <title lang="id">Mega Series Action Asia : Heroes</title>
     <desc lang="id">Sebuah Kisah Epic Yang Melegenda Perjuangan Sang Master Kungfu: Huo Yuan Jia, Memimipin Perlawanan Bangsanya Dalam Menghadapi Invasi Penjajah. Saksikan Penampilan Memukau: Vincent Zhao, Nikita Mao dan Bintang Laga Lainnya Dalam Mega Series Action Asia: Heroes, Mulai 14 Maret 2025, Pkl 23.00 WIB, Hanya Di Indosiar</desc>
     <icon src="https://thumbor.prod.vidiocdn.com/MxMctvuzULfibzkxlCb9hkr2iUE=/287x162/filters:strip_icc():quality(70)/vidio-media-production/uploads/livestreaming/schedule/thumbnail/5028243/d1705d.jpg"/>
   </programme>
-  <programme channel="205" start="20260428163000 +0000" stop="20260428183000 +0000">
-    <title lang="id">Mega Series Action Asia : Heroes</title>
-    <desc lang="id">Sebuah Kisah Epic Yang Melegenda Perjuangan Sang Master Kungfu: Huo Yuan Jia, Memimipin Perlawanan Bangsanya Dalam Menghadapi Invasi Penjajah. Saksikan Penampilan Memukau: Vincent Zhao, Nikita Mao dan Bintang Laga Lainnya Dalam Mega Series Action Asia: Heroes, Mulai 14 Maret 2025, Pkl 23.00 WIB, Hanya Di Indosiar</desc>
-    <icon src="https://thumbor.prod.vidiocdn.com/MxMctvuzULfibzkxlCb9hkr2iUE=/287x162/filters:strip_icc():quality(70)/vidio-media-production/uploads/livestreaming/schedule/thumbnail/5028243/d1705d.jpg"/>
-  </programme>
-  <programme channel="205" start="20260428183000 +0000" stop="20260428200000 +0000">
-    <title lang="id">Mega Film Asia : Warrior Of The Nation</title>
+  <programme channel="205" start="20260428190000 +0000" stop="20260428210000 +0000">
+    <title lang="id">Mega Film Asia : The Warlords</title>
     <desc lang="id">Mega Film Asia Adalah Program Yang Memutarkan Film-Film Asia Yang Ditayangkan Di Indosiar. Acara Ini Ditayangkan Perdana Pada Tahun 1996 Silam.</desc>
     <icon src="https://thumbor.prod.vidiocdn.com/UR8YnLePOc5a8oZnbqffqIHCH9U=/287x162/filters:strip_icc():quality(70)/vidio-media-production/uploads/livestreaming/schedule/thumbnail/5028255/c52c72.jpg"/>
-  </programme>
-  <programme channel="205" start="20260428200000 +0000" stop="20260428210000 +0000">
-    <title lang="id">Mega Film Asia : Hero Among Heroes</title>
-    <desc lang="id">Mega Film Asia Adalah Program Yang Memutarkan Film-Film Asia Yang Ditayangkan Di Indosiar. Acara Ini Ditayangkan Perdana Pada Tahun 1996 Silam.</desc>
-    <icon src="https://thumbor.prod.vidiocdn.com/vvPcOyeOEWMIwv_wwU2MamuEJ-g=/287x162/filters:strip_icc():quality(70)/vidio-media-production/uploads/livestreaming/schedule/thumbnail/5028256/101fb0.jpg"/>
   </programme>
   <programme channel="205" start="20260428210000 +0000" stop="20260428213000 +0000">
     <title lang="id">Mukjizat Masih Ada</title>
@@ -6576,12 +6571,12 @@
     <desc lang="id">Trofeo Pirelli Race 1, Mugello</desc>
     <icon src="https://thumbor.prod.vidiocdn.com/5yUHYfv_b1sZi7kdFElm8JqF2RY=/287x162/filters:strip_icc():quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/image/6299/bein-1-4bd997.jpg"/>
   </programme>
-  <programme channel="6299" start="20260428180000 +0000" stop="20260428185500 +0000">
+  <programme channel="6299" start="20260428180000 +0000" stop="20260428185400 +0000">
     <title lang="id">PSG vs Bayern - Tue, SF, 1st Leg : The UCL Preview Show 2025/26</title>
     <desc lang="id">PSG vs Bayern - Tue, SF, 1st Leg</desc>
     <icon src="https://thumbor.prod.vidiocdn.com/5yUHYfv_b1sZi7kdFElm8JqF2RY=/287x162/filters:strip_icc():quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/image/6299/bein-1-4bd997.jpg"/>
   </programme>
-  <programme channel="6299" start="20260428185500 +0000" stop="20260428210000 +0000">
+  <programme channel="6299" start="20260428185400 +0000" stop="20260428210000 +0000">
     <title lang="id">Semifinals Leg 1: PSG vs Bayern - UEFA Champions League</title>
     <desc lang="id">Nonton streaming pertandingan seru Semifinals Leg 1: PSG vs Bayern - UEFA Champions League. Saksikan aksi-aksi terbaik dari tim yang bersaing ketat untuk meraih kemenangan. Dapatkan informasi lengkap mengenai jadwal pertandingan dan hasil pertandingan terbaru hanya di Vidio.</desc>
     <icon src="https://thumbor.prod.vidiocdn.com/fvLK_Yoo8pL6Vfj6NxWDUDANRGA=/287x162/filters:strip_icc():quality(70)/vidio-media-production/uploads/livestreaming/schedule/thumbnail/5030176/a619f9.jpg"/>
@@ -6826,10 +6821,10 @@
     <desc lang="id">Matchday 32</desc>
     <icon src="https://thumbor.prod.vidiocdn.com/5yUHYfv_b1sZi7kdFElm8JqF2RY=/287x162/filters:strip_icc():quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/image/6299/bein-1-4bd997.jpg"/>
   </programme>
-  <programme channel="6299" start="20260430185500 +0000" stop="20260430210000 +0000">
-    <title lang="id">Nottingham Forest vs Aston Villa - SF, 1st Leg : UEFA Europa League 2025/26</title>
-    <desc lang="id">Nottingham Forest vs Aston Villa - SF, 1st Leg</desc>
-    <icon src="https://thumbor.prod.vidiocdn.com/5yUHYfv_b1sZi7kdFElm8JqF2RY=/287x162/filters:strip_icc():quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/image/6299/bein-1-4bd997.jpg"/>
+  <programme channel="6299" start="20260430190000 +0000" stop="20260430210000 +0000">
+    <title lang="id">Semifinals Leg 1: Nottingham Forest vs Aston Villa - UEFA Europa League</title>
+    <desc lang="id">Nonton streaming pertandingan seru Semifinals Leg 1: Nottingham Forest vs Aston Villa - UEFA Europa League. Saksikan aksi-aksi terbaik dari tim yang bersaing ketat untuk meraih kemenangan. Dapatkan informasi lengkap mengenai jadwal pertandingan dan hasil pertandingan terbaru hanya di Vidio.</desc>
+    <icon src="https://thumbor.prod.vidiocdn.com/zt3pSFVGLvlB9M6Q38iLh64i1qU=/287x162/filters:strip_icc():quality(70)/vidio-media-production/uploads/livestreaming/schedule/thumbnail/5036064/f24cde.jpg"/>
   </programme>
   <programme channel="6299" start="20260430210000 +0000" stop="20260430213000 +0000">
     <title lang="id">Episode Number 3 : Fastzone 2026</title>
@@ -8289,11 +8284,11 @@
     <desc lang="id">Eps 4</desc>
     <icon src="https://thumbor.prod.vidiocdn.com/edoqRinFCRhrRwQ2ngcXacb_q74=/287x162/filters:strip_icc():quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/image/6685/champions-tv-1-54e282.jpg"/>
   </programme>
-  <programme channel="6685" start="20260428183000 +0000" stop="20260428184000 +0000">
+  <programme channel="6685" start="20260428183000 +0000" stop="20260428183900 +0000">
     <title lang="id">Filler</title>
     <icon src="https://thumbor.prod.vidiocdn.com/edoqRinFCRhrRwQ2ngcXacb_q74=/287x162/filters:strip_icc():quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/image/6685/champions-tv-1-54e282.jpg"/>
   </programme>
-  <programme channel="6685" start="20260428184000 +0000" stop="20260428205500 +0000">
+  <programme channel="6685" start="20260428183900 +0000" stop="20260428205500 +0000">
     <title lang="id">Southampton vs Ipswich - EFL Championship</title>
     <desc lang="id">Nonton streaming pertandingan seru Southampton vs Ipswich - EFL Championship. Saksikan aksi-aksi terbaik dari tim yang bersaing ketat untuk meraih kemenangan. Dapatkan informasi lengkap mengenai jadwal pertandingan dan hasil pertandingan terbaru hanya di Vidio.</desc>
     <icon src="https://thumbor.prod.vidiocdn.com/aDUUPOLfkaC-syJVCJX5LqmMrpg=/287x162/filters:strip_icc():quality(70)/vidio-media-production/uploads/livestreaming/schedule/thumbnail/5030183/8c1184.jpg"/>
@@ -13021,12 +13016,12 @@
     <desc lang="id">Match 23, A. Potapova (AUT) vs J. Ostapenko (LAT)</desc>
     <icon src="https://thumbor.prod.vidiocdn.com/nY0aFklpYf6yONLaFJjxhiSuthc=/287x162/filters:strip_icc():quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/image/6786/champions-tv-3-76ca7c.jpg"/>
   </programme>
-  <programme channel="6786" start="20260428010000 +0000" stop="20260428043000 +0000">
+  <programme channel="6786" start="20260428010000 +0000" stop="20260428045600 +0000">
     <title lang="id">Day 2 Round 4-7 : NFL DRAFT 2026</title>
     <desc lang="id">Day 2 Round 4-7</desc>
     <icon src="https://thumbor.prod.vidiocdn.com/nY0aFklpYf6yONLaFJjxhiSuthc=/287x162/filters:strip_icc():quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/image/6786/champions-tv-3-76ca7c.jpg"/>
   </programme>
-  <programme channel="6786" start="20260428043000 +0000" stop="20260428065800 +0000">
+  <programme channel="6786" start="20260428045600 +0000" stop="20260428065800 +0000">
     <title lang="id">CAGLIARI vs ATALANTA : Serie A 2025/26</title>
     <desc lang="id">CAGLIARI vs ATALANTA</desc>
     <icon src="https://thumbor.prod.vidiocdn.com/nY0aFklpYf6yONLaFJjxhiSuthc=/287x162/filters:strip_icc():quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/image/6786/champions-tv-3-76ca7c.jpg"/>
@@ -13044,12 +13039,12 @@
     <title lang="id">WTA 1000</title>
     <icon src="https://thumbor.prod.vidiocdn.com/nY0aFklpYf6yONLaFJjxhiSuthc=/287x162/filters:strip_icc():quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/image/6786/champions-tv-3-76ca7c.jpg"/>
   </programme>
-  <programme channel="6786" start="20260428110000 +0000" stop="20260428130000 +0000">
+  <programme channel="6786" start="20260428110000 +0000" stop="20260428130600 +0000">
     <title lang="id">Quarter Finals - WTA 1000: Mutua Madrid Open 2026</title>
     <desc lang="id">Nonton streaming pertandingan seru Quarter Finals - WTA 1000: Mutua Madrid Open 2026. Saksikan aksi-aksi terbaik dari tim yang bersaing ketat untuk meraih kemenangan. Dapatkan informasi lengkap mengenai jadwal pertandingan dan hasil pertandingan terbaru hanya di Vidio.</desc>
     <icon src="https://thumbor.prod.vidiocdn.com/Be--HX90YSAjP5tnKtQsfKmW9vs=/287x162/filters:strip_icc():quality(70)/vidio-media-production/uploads/livestreaming/schedule/thumbnail/5029934/339609.jpg"/>
   </programme>
-  <programme channel="6786" start="20260428130000 +0000" stop="20260428133000 +0000">
+  <programme channel="6786" start="20260428130600 +0000" stop="20260428133000 +0000">
     <title lang="id">Eps 21 : Sport Woman</title>
     <desc lang="id">Eps 21</desc>
     <icon src="https://thumbor.prod.vidiocdn.com/nY0aFklpYf6yONLaFJjxhiSuthc=/287x162/filters:strip_icc():quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/image/6786/champions-tv-3-76ca7c.jpg"/>
@@ -13074,17 +13069,12 @@
     <desc lang="id">Week 20</desc>
     <icon src="https://thumbor.prod.vidiocdn.com/nY0aFklpYf6yONLaFJjxhiSuthc=/287x162/filters:strip_icc():quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/image/6786/champions-tv-3-76ca7c.jpg"/>
   </programme>
-  <programme channel="6786" start="20260428180000 +0000" stop="20260428200000 +0000">
+  <programme channel="6786" start="20260428180000 +0000" stop="20260428210000 +0000">
     <title lang="id">Quarter Finals - WTA 1000: Mutua Madrid Open 2026</title>
     <desc lang="id">Nonton streaming pertandingan seru Quarter Finals - WTA 1000: Mutua Madrid Open 2026. Saksikan aksi-aksi terbaik dari tim yang bersaing ketat untuk meraih kemenangan. Dapatkan informasi lengkap mengenai jadwal pertandingan dan hasil pertandingan terbaru hanya di Vidio.</desc>
     <icon src="https://thumbor.prod.vidiocdn.com/gMwRejPJr2wS78TrdoBR0_-i-DY=/287x162/filters:strip_icc():quality(70)/vidio-media-production/uploads/livestreaming/schedule/thumbnail/5029945/dcaa53.jpg"/>
   </programme>
-  <programme channel="6786" start="20260428200000 +0000" stop="20260428203000 +0000">
-    <title lang="id">BJKC - Player Features : WTA my Story</title>
-    <desc lang="id">BJKC - Player Features</desc>
-    <icon src="https://thumbor.prod.vidiocdn.com/nY0aFklpYf6yONLaFJjxhiSuthc=/287x162/filters:strip_icc():quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/image/6786/champions-tv-3-76ca7c.jpg"/>
-  </programme>
-  <programme channel="6786" start="20260428203000 +0000" stop="20260428223000 +0000">
+  <programme channel="6786" start="20260428210000 +0000" stop="20260428223000 +0000">
     <title lang="id">NAPOLI vs CREMONESE : Serie A 2025/26</title>
     <desc lang="id">NAPOLI vs CREMONESE</desc>
     <icon src="https://thumbor.prod.vidiocdn.com/nY0aFklpYf6yONLaFJjxhiSuthc=/287x162/filters:strip_icc():quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/image/6786/champions-tv-3-76ca7c.jpg"/>
@@ -14752,12 +14742,12 @@
     <desc lang="id">Nonton streaming pertandingan seru Day 6 - WTA 1000: Mutua Madrid Open 2026. Saksikan aksi-aksi terbaik dari tim yang bersaing ketat untuk meraih kemenangan. Dapatkan informasi lengkap mengenai jadwal pertandingan dan hasil pertandingan terbaru hanya di Vidio.</desc>
     <icon src="https://thumbor.prod.vidiocdn.com/gW0oWnwbmbmevtNNo3Tad0f0FQM=/287x162/filters:strip_icc():quality(70)/vidio-media-production/uploads/livestreaming/schedule/thumbnail/5029768/4f48e7.jpg"/>
   </programme>
-  <programme channel="6686" start="20260427221200 +0000" stop="20260428000000 +0000">
+  <programme channel="6686" start="20260427221200 +0000" stop="20260428001200 +0000">
     <title lang="id">ROMA VS LECCE : SERIE A 2025/26</title>
     <desc lang="id">ROMA VS LECCE</desc>
     <icon src="https://thumbor.prod.vidiocdn.com/xgkik6iws0EJ01bi5cJsIjYWjOM=/287x162/filters:strip_icc():quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/image/6686/champions-tv-2-681a27.jpg"/>
   </programme>
-  <programme channel="6686" start="20260428000000 +0000" stop="20260428010000 +0000">
+  <programme channel="6686" start="20260428001200 +0000" stop="20260428010000 +0000">
     <title lang="id">HIGHLIGHT : PORTUGUESE LEAGUE 2025/26</title>
     <desc lang="id">HIGHLIGHT</desc>
     <icon src="https://thumbor.prod.vidiocdn.com/xgkik6iws0EJ01bi5cJsIjYWjOM=/287x162/filters:strip_icc():quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/image/6686/champions-tv-2-681a27.jpg"/>
@@ -14772,12 +14762,12 @@
     <desc lang="id">BENFICA VS CD CD NACIONAL</desc>
     <icon src="https://thumbor.prod.vidiocdn.com/xgkik6iws0EJ01bi5cJsIjYWjOM=/287x162/filters:strip_icc():quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/image/6686/champions-tv-2-681a27.jpg"/>
   </programme>
-  <programme channel="6686" start="20260428050000 +0000" stop="20260428070000 +0000">
+  <programme channel="6686" start="20260428050000 +0000" stop="20260428070200 +0000">
     <title lang="id">SASSUOLO VS CAGLIARI : SERIE A 2025/26</title>
     <desc lang="id">SASSUOLO VS CAGLIARI</desc>
     <icon src="https://thumbor.prod.vidiocdn.com/xgkik6iws0EJ01bi5cJsIjYWjOM=/287x162/filters:strip_icc():quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/image/6686/champions-tv-2-681a27.jpg"/>
   </programme>
-  <programme channel="6686" start="20260428070000 +0000" stop="20260428073000 +0000">
+  <programme channel="6686" start="20260428070200 +0000" stop="20260428073000 +0000">
     <title lang="id">EPS 03 : MXGP BEHIND THE GATE 2026</title>
     <desc lang="id">EPS 03</desc>
     <icon src="https://thumbor.prod.vidiocdn.com/xgkik6iws0EJ01bi5cJsIjYWjOM=/287x162/filters:strip_icc():quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/image/6686/champions-tv-2-681a27.jpg"/>
@@ -21941,10 +21931,14 @@
     <desc lang="id">Scotland's elite clubs return for the 2025/26 Premiership campaign, battling for European spots, survival, and the league championship.</desc>
     <icon src="https://thumbor.prod.vidiocdn.com/YBK8XRc1cWJx0JfM3CWo6PnTfFY=/287x162/filters:strip_icc():quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/image/17139/spotv-c18c69.jpg"/>
   </programme>
-  <programme channel="17139" start="20260428174500 +0000" stop="20260428200000 +0000">
+  <programme channel="17139" start="20260428174500 +0000" stop="20260428195800 +0000">
     <title lang="id">Al-Hilal vs Damac - ROSHN Saudi League</title>
     <desc lang="id">Nonton streaming pertandingan seru Al-Hilal vs Damac - ROSHN Saudi League. Saksikan aksi-aksi terbaik dari tim yang bersaing ketat untuk meraih kemenangan. Dapatkan informasi lengkap mengenai jadwal pertandingan dan hasil pertandingan terbaru hanya di Vidio.</desc>
     <icon src="https://thumbor.prod.vidiocdn.com/e2ScDZWqWxuWDycoXPuheYzuFlY=/287x162/filters:strip_icc():quality(70)/vidio-media-production/uploads/livestreaming/schedule/thumbnail/5030170/7c19e8.jpg"/>
+  </programme>
+  <programme channel="17139" start="20260428195800 +0000" stop="20260428200000 +0000">
+    <title lang="id">Filler</title>
+    <icon src="https://thumbor.prod.vidiocdn.com/YBK8XRc1cWJx0JfM3CWo6PnTfFY=/287x162/filters:strip_icc():quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/image/17139/spotv-c18c69.jpg"/>
   </programme>
   <programme channel="17139" start="20260428200000 +0000" stop="20260428233000 +0000">
     <title lang="id">Day 4 : 2026 LET: Investec South African Women's Open</title>
