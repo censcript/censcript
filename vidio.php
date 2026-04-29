@@ -666,12 +666,12 @@
     <desc lang="id">FTV Yang Diambil Dari Kisah Kehidupan Sehari-Hari Pemirsa Yang Penuh Intrik, Konflik dan Pengkhianatan Untuk Memberikan Berbagai Pelajaran Hidup. Saksikan Setiap Hari Pukul 13.30 WIB, Hanya Di Indosiar.</desc>
     <icon src="https://thumbor.prod.vidiocdn.com/cBZL7ITaJCof6cqtayFee2uJCX8=/287x162/filters:strip_icc():quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/image/205/indosiar-d9a3d0.jpg"/>
   </programme>
-  <programme channel="205" start="20260429063000 +0000" stop="20260429080000 +0000">
+  <programme channel="205" start="20260429063000 +0000" stop="20260429075700 +0000">
     <title lang="id">Kisah Nyata : Istriku Tak Pernah Berhenti Menuduhku</title>
     <desc lang="id">FTV Yang Diambil Dari Kisah Kehidupan Sehari-Hari Pemirsa Yang Penuh Intrik, Konflik dan Pengkhianatan Untuk Memberikan Berbagai Pelajaran Hidup.</desc>
     <icon src="https://thumbor.prod.vidiocdn.com/cBZL7ITaJCof6cqtayFee2uJCX8=/287x162/filters:strip_icc():quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/image/205/indosiar-d9a3d0.jpg"/>
   </programme>
-  <programme channel="205" start="20260429080000 +0000" stop="20260429103000 +0000">
+  <programme channel="205" start="20260429075700 +0000" stop="20260429103000 +0000">
     <title lang="id">BRI Superleague 2025/26 - Persik Kediri Vs Borneo Fc Samarinda</title>
     <desc lang="id">Saksikan! BRI Super League 2025/26 - Is Back!" 18 Klub Terbaik Siap Bertarung Di Kasta Tertinggi Sepak Bola Indonesia! Pertandingan Semakin Seru! Jangan Lewatkan BRI Super League 2025/26 Mulai 8 Agustus 2025, Pkl 15.00 &amp; 18.30 WIB, Live &amp; Eksklusif Hanya Di Indosiar dan Vidio #Indosiarrumahsepakbolaindonesia</desc>
     <icon src="https://thumbor.prod.vidiocdn.com/cBZL7ITaJCof6cqtayFee2uJCX8=/287x162/filters:strip_icc():quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/image/205/indosiar-d9a3d0.jpg"/>
@@ -7694,30 +7694,34 @@
     <desc lang="id">Ketika sebuah pesawat yang membawa harta karun pencuri jatuh di Janakpur, sekelompok orang eksentrik dan penipu kawakan bersaing satu sama lain untuk menemukannya terlebih dahulu.</desc>
     <icon src="https://thumbor.prod.vidiocdn.com/RWFPVqiGPdZQuGXyAtcCBZTc_Vs=/287x162/filters:strip_icc():quality(70)/vidio-media-production/uploads/livestreaming/schedule/thumbnail/5032281/3dffd3.jpg"/>
   </programme>
-  <programme channel="782" start="20260428220000 +0000" stop="20260428231500 +0000">
+  <programme channel="782" start="20260428220000 +0000" stop="20260428231200 +0000">
     <title lang="id">Ummi</title>
     <desc lang="id">Kisah perjuangan Ummi Marwah, seorang ustazah, dalam menjaga keutuhan rumah tangga dan mendidik anak-anaknya. Abah Asep, suaminya, berperilaku arogan dan selingkuh dengan asisten rumah tangga.</desc>
     <icon src="https://thumbor.prod.vidiocdn.com/20tRQaK9Gps_wFQL5rY-XgRbrs4=/287x162/filters:strip_icc():quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/image/782/antv-de8530.jpg"/>
   </programme>
-  <programme channel="782" start="20260428231500 +0000" stop="20260429004100 +0000">
+  <programme channel="782" start="20260428231200 +0000" stop="20260429003900 +0000">
     <title lang="id">Kasautii</title>
     <desc lang="id">Anurag dan Prerna kuliah di universitas yang sama, dan akhirnya menjalin hubungan erat. Namun, mereka harus menghadapi orang-orang yang ingin memisahkan keduanya, karena perbedaan status sosial.</desc>
     <icon src="https://thumbor.prod.vidiocdn.com/k0alEaFPccMY1J8XaOxiY64ggSg=/287x162/filters:strip_icc():quality(70)/vidio-media-production/uploads/livestreaming/schedule/thumbnail/5032284/79000d.jpg"/>
   </programme>
-  <programme channel="782" start="20260429004100 +0000" stop="20260429023000 +0000">
+  <programme channel="782" start="20260429003900 +0000" stop="20260429024000 +0000">
     <title lang="id">Janji Cinta Inspektur Virat</title>
     <desc lang="id">Kisah seorang inspektur yang terlibat dalam kisah percintaan segitiga.</desc>
     <icon src="https://thumbor.prod.vidiocdn.com/VMqJn9jawRecdbw5SSdxxTHN_88=/287x162/filters:strip_icc():quality(70)/vidio-media-production/uploads/tv_program/thumbnail/386704/218ebf.jpg"/>
   </programme>
-  <programme channel="782" start="20260429023000 +0000" stop="20260429060000 +0000">
+  <programme channel="782" start="20260429024000 +0000" stop="20260429055500 +0000">
     <title lang="id">Mega Bollywood: Gunday</title>
     <desc lang="id">Teman masa kecil Bikram dan Bala bercita-cita mengambil alih mafia batu bara. Namun, mereka jatuh cinta dengan wanita yang sama, Nandita, yang menyebabkan keretakan di antara keduanya.</desc>
     <icon src="https://thumbor.prod.vidiocdn.com/8RMtSDKhaF3Qdsq6BkbVSAA5OVo=/287x162/filters:strip_icc():quality(70)/vidio-media-production/uploads/livestreaming/schedule/thumbnail/5032288/899537.jpg"/>
   </programme>
-  <programme channel="782" start="20260429060000 +0000" stop="20260429080000 +0000">
+  <programme channel="782" start="20260429055500 +0000" stop="20260429080200 +0000">
     <title lang="id">Jhanak</title>
     <desc lang="id">Seorang wanita muda yang bersemangat memulai perjalanan untuk memenuhi janji seorang ibu demi kehidupan yang lebih baik sambil mengatasi tantangan dan kehilangan.</desc>
     <icon src="https://thumbor.prod.vidiocdn.com/hhk7tYVxnZGOoOo5RIHeBotnBdk=/287x162/filters:strip_icc():quality(70)/vidio-media-production/uploads/livestreaming/schedule/thumbnail/5032289/45ec23.jpg"/>
+  </programme>
+  <programme channel="782" start="20260429080200 +0000" stop="20260429093000 +0000">
+    <title lang="id">Teri Meri Doriyaann</title>
+    <icon src="https://thumbor.prod.vidiocdn.com/20tRQaK9Gps_wFQL5rY-XgRbrs4=/287x162/filters:strip_icc():quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/image/782/antv-de8530.jpg"/>
   </programme>
   <programme channel="782" start="20260429093000 +0000" stop="20260429113000 +0000">
     <title lang="id">Vasudha</title>
@@ -10577,9 +10581,9 @@
     <icon src="https://thumbor.prod.vidiocdn.com/84KfVJ1EkCZE1TUxZXNvtr5sNmk=/287x162/filters:strip_icc():quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/image/18189/champions-golf-1-ffdd6c.jpg"/>
   </programme>
   <programme channel="18189" start="20260430190000 +0000" stop="20260430230000 +0000">
-    <title lang="id">Cadillac Championship</title>
-    <desc lang="id">Round 1</desc>
-    <icon src="https://thumbor.prod.vidiocdn.com/84KfVJ1EkCZE1TUxZXNvtr5sNmk=/287x162/filters:strip_icc():quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/image/18189/champions-golf-1-ffdd6c.jpg"/>
+    <title lang="id">Round 1 - Cadillac Championship 2026</title>
+    <desc lang="id">Nonton streaming pertandingan seru Round 1 - Cadillac Championship 2026. Saksikan aksi-aksi terbaik dari tim yang bersaing ketat untuk meraih kemenangan. Dapatkan informasi lengkap mengenai jadwal pertandingan dan hasil pertandingan terbaru hanya di Vidio.</desc>
+    <icon src="https://thumbor.prod.vidiocdn.com/Qr5BCIh9pX2q5nu0pgjZZn7GY2A=/287x162/filters:strip_icc():quality(70)/vidio-media-production/uploads/livestreaming/schedule/thumbnail/5036147/e9a36e.jpg"/>
   </programme>
   <programme channel="18189" start="20260430230000 +0000" stop="20260501020000 +0000">
     <title lang="id">[DELAY] Regions Tradition</title>
@@ -10631,10 +10635,10 @@
     <desc lang="id">Round 2</desc>
     <icon src="https://thumbor.prod.vidiocdn.com/84KfVJ1EkCZE1TUxZXNvtr5sNmk=/287x162/filters:strip_icc():quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/image/18189/champions-golf-1-ffdd6c.jpg"/>
   </programme>
-  <programme channel="18189" start="20260501190000 +0000" stop="20260501225900 +0000">
-    <title lang="id">Cadillac Championship</title>
-    <desc lang="id">Round 2</desc>
-    <icon src="https://thumbor.prod.vidiocdn.com/84KfVJ1EkCZE1TUxZXNvtr5sNmk=/287x162/filters:strip_icc():quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/image/18189/champions-golf-1-ffdd6c.jpg"/>
+  <programme channel="18189" start="20260501190000 +0000" stop="20260501230000 +0000">
+    <title lang="id">Round 2 - Cadillac Championship 2026</title>
+    <desc lang="id">Nonton streaming pertandingan seru Round 2 - Cadillac Championship 2026. Saksikan aksi-aksi terbaik dari tim yang bersaing ketat untuk meraih kemenangan. Dapatkan informasi lengkap mengenai jadwal pertandingan dan hasil pertandingan terbaru hanya di Vidio.</desc>
+    <icon src="https://thumbor.prod.vidiocdn.com/N2xr2l_xke_ferCDAE1NlFF_h6s=/287x162/filters:strip_icc():quality(70)/vidio-media-production/uploads/livestreaming/schedule/thumbnail/5036148/b6cd03.jpg"/>
   </programme>
   <programme channel="18189" start="20260501230000 +0000" stop="20260502002900 +0000">
     <title lang="id">On The Range 2026</title>
@@ -11006,20 +11010,15 @@
     <desc lang="id">Best of Sharapova</desc>
     <icon src="https://thumbor.prod.vidiocdn.com/VmoYokSeKr_3SubUXC-rMC-EtQM=/287x162/filters:strip_icc():quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/image/17875/bein-2-25a5f9.jpg"/>
   </programme>
-  <programme channel="17875" start="20260501165500 +0000" stop="20260501185500 +0000">
-    <title lang="id">Gaziantep vs Besiktas : Super Lig 2025/26</title>
-    <desc lang="id">Gaziantep vs Besiktas</desc>
-    <icon src="https://thumbor.prod.vidiocdn.com/VmoYokSeKr_3SubUXC-rMC-EtQM=/287x162/filters:strip_icc():quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/image/17875/bein-2-25a5f9.jpg"/>
+  <programme channel="17875" start="20260501170000 +0000" stop="20260501190000 +0000">
+    <title lang="id">Gaziantep vs Besiktas - Trendyol Super Lig</title>
+    <desc lang="id">Nonton streaming pertandingan seru Gaziantep vs Besiktas - Trendyol Super Lig. Saksikan aksi-aksi terbaik dari tim yang bersaing ketat untuk meraih kemenangan. Dapatkan informasi lengkap mengenai jadwal pertandingan dan hasil pertandingan terbaru hanya di Vidio.</desc>
+    <icon src="https://thumbor.prod.vidiocdn.com/MEAU-hLs7O7pWjPm_tRHNPULopg=/287x162/filters:strip_icc():quality(70)/vidio-media-production/uploads/livestreaming/schedule/thumbnail/5036154/53a3fe.jpg"/>
   </programme>
-  <programme channel="17875" start="20260501165500 +0000" stop="20260501185500 +0000">
-    <title lang="id">Gaziantep vs Besiktas : Super Lig 2025/26</title>
-    <desc lang="id">Gaziantep vs Besiktas</desc>
-    <icon src="https://thumbor.prod.vidiocdn.com/VmoYokSeKr_3SubUXC-rMC-EtQM=/287x162/filters:strip_icc():quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/image/17875/bein-2-25a5f9.jpg"/>
-  </programme>
-  <programme channel="17875" start="20260501185500 +0000" stop="20260501210000 +0000">
-    <title lang="id">Girona vs Mallorca : LaLiga 2025/26</title>
-    <desc lang="id">Girona vs Mallorca</desc>
-    <icon src="https://thumbor.prod.vidiocdn.com/VmoYokSeKr_3SubUXC-rMC-EtQM=/287x162/filters:strip_icc():quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/image/17875/bein-2-25a5f9.jpg"/>
+  <programme channel="17875" start="20260501190000 +0000" stop="20260501210000 +0000">
+    <title lang="id">Girona vs Mallorca - LaLiga</title>
+    <desc lang="id">Nonton streaming pertandingan seru Girona vs Mallorca - LaLiga. Saksikan aksi-aksi terbaik dari tim yang bersaing ketat untuk meraih kemenangan. Dapatkan informasi lengkap mengenai jadwal pertandingan dan hasil pertandingan terbaru hanya di Vidio.</desc>
+    <icon src="https://thumbor.prod.vidiocdn.com/HwqMW9Oqog7jBO6MggqmElkyE_w=/287x162/filters:strip_icc():quality(70)/vidio-media-production/uploads/livestreaming/schedule/thumbnail/5036155/4fbd47.jpg"/>
   </programme>
   <programme channel="17875" start="20260501210000 +0000" stop="20260501225000 +0000">
     <title lang="id">Sundowns vs Saint-Eloi Lupopo : TotalEnergies CAF Champions League 2025/26</title>
@@ -19462,25 +19461,25 @@
     <desc lang="id">40 of the world's best female and male professional triathletes battle over 8 breakneck 100km races in iconic locations around the globe in a bid to be crowned the T100 World Champions.</desc>
     <icon src="https://thumbor.prod.vidiocdn.com/YBK8XRc1cWJx0JfM3CWo6PnTfFY=/287x162/filters:strip_icc():quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/image/17139/spotv-c18c69.jpg"/>
   </programme>
-  <programme channel="17139" start="20260501081500 +0000" stop="20260501091500 +0000">
-    <title lang="id">SBK FP1 : 2026 WorldSBK: Rd 4 Motul Hungarian Round</title>
-    <desc lang="id">The FIM Superbike World Championship is the leading production motorcycle racing series in the world with over 100 riders from more than 20 countries competing in various classes over 12 rounds.</desc>
-    <icon src="https://thumbor.prod.vidiocdn.com/YBK8XRc1cWJx0JfM3CWo6PnTfFY=/287x162/filters:strip_icc():quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/image/17139/spotv-c18c69.jpg"/>
-  </programme>
-  <programme channel="17139" start="20260501091500 +0000" stop="20260501120500 +0000">
-    <title lang="id">: 2026 World Fencing League Debut</title>
-    <desc lang="id">A new era begins as top fencers from around the world compete in the debut of the World Fencing League, showcasing speed, precision, and intense head-to-head battles.</desc>
-    <icon src="https://thumbor.prod.vidiocdn.com/YBK8XRc1cWJx0JfM3CWo6PnTfFY=/287x162/filters:strip_icc():quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/image/17139/spotv-c18c69.jpg"/>
+  <programme channel="17139" start="20260501081500 +0000" stop="20260501093000 +0000">
+    <title lang="id">WorldSBK Free Practice 1 - WorldSBK Championship 2026 Round 4 Motul Hungarian Round</title>
+    <desc lang="id">Nonton streaming pertandingan seru WorldSBK Free Practice 1 - WorldSBK Championship 2026 Round 4 Motul Hungarian Round. Saksikan aksi-aksi terbaik dari tim yang bersaing ketat untuk meraih kemenangan. Dapatkan informasi lengkap mengenai jadwal pertandingan dan hasil pertandingan terbaru hanya di Vidio.</desc>
+    <icon src="https://thumbor.prod.vidiocdn.com/JiDSAHOjF2P73fyu6J0FlKqZwxQ=/287x162/filters:strip_icc():quality(70)/vidio-media-production/uploads/livestreaming/schedule/thumbnail/5036150/5a4d83.jpg"/>
   </programme>
   <programme channel="17139" start="20260501120500 +0000" stop="20260501125500 +0000">
-    <title lang="id">Tissot Superpole : 2026 WorldWCR: Rd 3 Motul Hungarian Round</title>
-    <desc lang="id">The FIM Women's Circuit Racing World Championship, with six rounds in 2026, is a pioneering single-make series exclusively for aspiring female riders, featuring the Yamaha R7.</desc>
-    <icon src="https://thumbor.prod.vidiocdn.com/YBK8XRc1cWJx0JfM3CWo6PnTfFY=/287x162/filters:strip_icc():quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/image/17139/spotv-c18c69.jpg"/>
+    <title lang="id">WorldWCR Superpole - WorldSBK Championship 2026 Round 4 Motul Hungarian Round</title>
+    <desc lang="id">Nonton streaming pertandingan seru WorldWCR Superpole - WorldSBK Championship 2026 Round 4 Motul Hungarian Round. Saksikan aksi-aksi terbaik dari tim yang bersaing ketat untuk meraih kemenangan. Dapatkan informasi lengkap mengenai jadwal pertandingan dan hasil pertandingan terbaru hanya di Vidio.</desc>
+    <icon src="https://thumbor.prod.vidiocdn.com/IpUnkEavvUqks8e0sIrx01Ro45E=/287x162/filters:strip_icc():quality(70)/vidio-media-production/uploads/livestreaming/schedule/thumbnail/5036151/56df1e.jpg"/>
   </programme>
-  <programme channel="17139" start="20260501125500 +0000" stop="20260501150000 +0000">
-    <title lang="id">SBK FP2/SSP Superpole : 2026 WorldSBK: Rd 4 Motul Hungarian Round</title>
-    <desc lang="id">The FIM Superbike World Championship is the leading production motorcycle racing series in the world with over 100 riders from more than 20 countries competing in various classes over 12 rounds.</desc>
-    <icon src="https://thumbor.prod.vidiocdn.com/YBK8XRc1cWJx0JfM3CWo6PnTfFY=/287x162/filters:strip_icc():quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/image/17139/spotv-c18c69.jpg"/>
+  <programme channel="17139" start="20260501125500 +0000" stop="20260501140000 +0000">
+    <title lang="id">WorldSBK Free Practice 1 - WorldSBK Championship 2026 Round 4 Motul Hungarian Round</title>
+    <desc lang="id">Nonton streaming pertandingan seru WorldSBK Free Practice 1 - WorldSBK Championship 2026 Round 4 Motul Hungarian Round. Saksikan aksi-aksi terbaik dari tim yang bersaing ketat untuk meraih kemenangan. Dapatkan informasi lengkap mengenai jadwal pertandingan dan hasil pertandingan terbaru hanya di Vidio.</desc>
+    <icon src="https://thumbor.prod.vidiocdn.com/Qk040sP1phCydsvBK7fC8ANIhDA=/287x162/filters:strip_icc():quality(70)/vidio-media-production/uploads/livestreaming/schedule/thumbnail/5036152/b9d3ca.jpg"/>
+  </programme>
+  <programme channel="17139" start="20260501140000 +0000" stop="20260501150000 +0000">
+    <title lang="id">WorldSSP Superpole - WorldSBK Championship 2026 Round 4 Motul Hungarian Round</title>
+    <desc lang="id">Nonton streaming pertandingan seru WorldSSP Superpole - WorldSBK Championship 2026 Round 4 Motul Hungarian Round. Saksikan aksi-aksi terbaik dari tim yang bersaing ketat untuk meraih kemenangan. Dapatkan informasi lengkap mengenai jadwal pertandingan dan hasil pertandingan terbaru hanya di Vidio.</desc>
+    <icon src="https://thumbor.prod.vidiocdn.com/nQU_ZH1HdkDu1cBXWrJjMOcOMi0=/287x162/filters:strip_icc():quality(70)/vidio-media-production/uploads/livestreaming/schedule/thumbnail/5036153/075f79.jpg"/>
   </programme>
   <programme channel="17139" start="20260501150000 +0000" stop="20260501170000 +0000">
     <title lang="id">Al Hilal vs Damac : 25/26 ROSHN Saudi League MW 30</title>

@@ -2558,22 +2558,22 @@
     <title>Admiral BL: 90in30: SCR - RBS, 29. Runde</title>
 </programme>
 <programme start="20260429110000 +0000" stop="20260429130000 +0000" channel="Sky Sport Austria 1 HD.skyde">
-    <title>Live WTA 1000: VF3, Mutua Madrid Open in Madrid (ESP), Viertelfinale 3</title>
+    <title>Live WTA 1000: A. Popatova (AUT) - K. Pliskova (CZE), Mutua Madrid Open in Madrid (ESP), Viertelfinale 3</title>
 </programme>
 <programme start="20260429130000 +0000" stop="20260429140000 +0000" channel="Sky Sport Austria 1 HD.skyde">
     <title>ATP 500: Review München</title>
 </programme>
 <programme start="20260429140000 +0000" stop="20260429160000 +0000" channel="Sky Sport Austria 1 HD.skyde">
-    <title>Live ATP 1000: VF1, Mutua Madrid Open in Madrid (ESP), Viertelfinale 1</title>
+    <title>Live ATP 1000: J. Sinner (ITA) - R. Jodar (ESP), Mutua Madrid Open in Madrid (ESP), Viertelfinale 1</title>
 </programme>
 <programme start="20260429160000 +0000" stop="20260429180000 +0000" channel="Sky Sport Austria 1 HD.skyde">
-    <title>WTA 1000: VF3, Mutua Madrid Open in Madrid (ESP), Viertelfinale 3</title>
+    <title>WTA 1000: A. Popatova (AUT) - K. Pliskova (CZE), Mutua Madrid Open in Madrid (ESP), Viertelfinale 3</title>
 </programme>
 <programme start="20260429180000 +0000" stop="20260429200000 +0000" channel="Sky Sport Austria 1 HD.skyde">
-    <title>Live WTA 1000: VF4, Mutua Madrid Open in Madrid (ESP), Viertelfinale 4</title>
+    <title>Live WTA 1000: L. Noskova (CZE) - M. Kostyuk (UKR), Mutua Madrid Open in Madrid (ESP), Viertelfinale 4</title>
 </programme>
 <programme start="20260429200000 +0000" stop="20260429220000 +0000" channel="Sky Sport Austria 1 HD.skyde">
-    <title>Live ATP 1000: VF2, Mutua Madrid Open in Madrid (ESP), Viertelfinale 2</title>
+    <title>Live ATP 1000: A. Fils (FRA) - J. Lehecka (CZE), Mutua Madrid Open in Madrid (ESP), Viertelfinale 2</title>
 </programme>
 <programme start="20260428220000 +0000" stop="20260428230000 +0000" channel="Sky Sport Bundesliga HD.skyde">
     <title>2. BL Kompakt: 31. Spieltag</title>
@@ -3091,47 +3091,41 @@
 <programme start="20260429210000 +0000" stop="20260429220000 +0000" channel="Sky Sport Premier League HD.skyde">
     <title>PL: GOATS (German Stars)</title>
 </programme>
-<programme start="20260428220000 +0000" stop="20260429000000 +0000" channel="Sky Sport Tennis HD.skyde">
-    <title>WTA 1000: tba - L. Fernandez (CAN), Mutua Madrid Open in Madrid (ESP), Viertelfinale 1</title>
+<programme start="20260428233000 +0000" stop="20260429013000 +0000" channel="Sky Sport Tennis HD.skyde">
+    <title>WTA 1000: L. Fernandez (CAN) - M. Andreeva, Mutua Madrid Open in Madrid (ESP), Viertelfinale 1</title>
 </programme>
-<programme start="20260429000000 +0000" stop="20260429020000 +0000" channel="Sky Sport Tennis HD.skyde">
-    <title>ATP 1000: Topspiel, Mutua Madrid Open in Madrid (ESP), 8. Tag</title>
+<programme start="20260429013000 +0000" stop="20260429033000 +0000" channel="Sky Sport Tennis HD.skyde">
+    <title>ATP 1000: A. Zverev (GER) - J. Mensik (CZE), Mutua Madrid Open in Madrid (ESP), 8. Tag</title>
 </programme>
-<programme start="20260429020000 +0000" stop="20260429040000 +0000" channel="Sky Sport Tennis HD.skyde">
+<programme start="20260429033000 +0000" stop="20260429053000 +0000" channel="Sky Sport Tennis HD.skyde">
     <title>WTA 1000: A. Sabalenka - H. Baptiste (USA), Mutua Madrid Open in Madrid (ESP), Viertelfinale 2</title>
-</programme>
-<programme start="20260429040000 +0000" stop="20260429043000 +0000" channel="Sky Sport Tennis HD.skyde">
-    <title>ATP: This Week</title>
-</programme>
-<programme start="20260429043000 +0000" stop="20260429063000 +0000" channel="Sky Sport Tennis HD.skyde">
-    <title>ATP 1000: Topspiel, Mutua Madrid Open in Madrid (ESP), 8. Tag</title>
 </programme>
 <programme start="20260429063000 +0000" stop="20260429070000 +0000" channel="Sky Sport Tennis HD.skyde">
     <title>ATP: This Week</title>
 </programme>
 <programme start="20260429070000 +0000" stop="20260429090000 +0000" channel="Sky Sport Tennis HD.skyde">
-    <title>WTA 1000: tba - L. Fernandez (CAN), Mutua Madrid Open in Madrid (ESP), Viertelfinale 1</title>
+    <title>ATP 1000: A. Zverev (GER) - J. Mensik (CZE), Mutua Madrid Open in Madrid (ESP), 8. Tag</title>
 </programme>
 <programme start="20260429090000 +0000" stop="20260429110000 +0000" channel="Sky Sport Tennis HD.skyde">
     <title>WTA 1000: A. Sabalenka - H. Baptiste (USA), Mutua Madrid Open in Madrid (ESP), Viertelfinale 2</title>
 </programme>
 <programme start="20260429110000 +0000" stop="20260429130000 +0000" channel="Sky Sport Tennis HD.skyde">
-    <title>Live WTA 1000: VF3, Mutua Madrid Open in Madrid (ESP), Viertelfinale 3</title>
+    <title>Live WTA 1000: A. Popatova (AUT) - K. Pliskova (CZE), Mutua Madrid Open in Madrid (ESP), Viertelfinale 3</title>
 </programme>
 <programme start="20260429130000 +0000" stop="20260429140000 +0000" channel="Sky Sport Tennis HD.skyde">
     <title>ATP 500: Review München</title>
 </programme>
 <programme start="20260429140000 +0000" stop="20260429160000 +0000" channel="Sky Sport Tennis HD.skyde">
-    <title>Live ATP 1000: VF1, Mutua Madrid Open in Madrid (ESP), Viertelfinale 1</title>
+    <title>Live ATP 1000: J. Sinner (ITA) - R. Jodar (ESP), Mutua Madrid Open in Madrid (ESP), Viertelfinale 1</title>
 </programme>
 <programme start="20260429160000 +0000" stop="20260429180000 +0000" channel="Sky Sport Tennis HD.skyde">
-    <title>WTA 1000: VF3, Mutua Madrid Open in Madrid (ESP), Viertelfinale 3</title>
+    <title>WTA 1000: A. Popatova (AUT) - K. Pliskova (CZE), Mutua Madrid Open in Madrid (ESP), Viertelfinale 3</title>
 </programme>
 <programme start="20260429180000 +0000" stop="20260429200000 +0000" channel="Sky Sport Tennis HD.skyde">
-    <title>Live WTA 1000: VF4, Mutua Madrid Open in Madrid (ESP), Viertelfinale 4</title>
+    <title>Live WTA 1000: L. Noskova (CZE) - M. Kostyuk (UKR), Mutua Madrid Open in Madrid (ESP), Viertelfinale 4</title>
 </programme>
 <programme start="20260429200000 +0000" stop="20260429220000 +0000" channel="Sky Sport Tennis HD.skyde">
-    <title>Live ATP 1000: VF2, Mutua Madrid Open in Madrid (ESP), Viertelfinale 2</title>
+    <title>Live ATP 1000: A. Fils (FRA) - J. Lehecka (CZE), Mutua Madrid Open in Madrid (ESP), Viertelfinale 2</title>
 </programme>
 <programme start="20260428233000 +0000" stop="20260429000000 +0000" channel="Sky Sport Top Event HD.skyde">
     <title>Live NBA: Showtime</title>
@@ -3181,10 +3175,10 @@
 <programme start="20260428230000 +0000" stop="20260429000000 +0000" channel="Sky Sport 1 HD.skyde">
     <title>Live NBA: Showtime</title>
 </programme>
-<programme start="20260429000000 +0000" stop="20260429030000 +0000" channel="Sky Sport 1 HD.skyde">
+<programme start="20260429000000 +0000" stop="20260429025500 +0000" channel="Sky Sport 1 HD.skyde">
     <title>Live NBA: Atlanta Hawks @ New York Knicks, Playoffs, Runde 1, Spiel 5</title>
 </programme>
-<programme start="20260429030000 +0000" stop="20260429080000 +0000" channel="Sky Sport 1 HD.skyde">
+<programme start="20260429025500 +0000" stop="20260429034500 +0000" channel="Sky Sport 1 HD.skyde">
     <title>Live NBA: Showtime - Post Show</title>
 </programme>
 <programme start="20260428224000 +0000" stop="20260428232500 +0000" channel="SYFY HD.skyde">
@@ -3658,10 +3652,10 @@
 <programme start="20260429031000 +0000" stop="20260429035000 +0000" channel="Warner TV Serie HD.skyde">
     <title>NCIS: Los Angeles</title>
 </programme>
-<programme start="20260429035000 +0000" stop="20260429044500 +0000" channel="Warner TV Serie HD.skyde">
+<programme start="20260429035000 +0000" stop="20260429044000 +0000" channel="Warner TV Serie HD.skyde">
     <title>Daktari</title>
 </programme>
-<programme start="20260429044500 +0000" stop="20260429053500 +0000" channel="Warner TV Serie HD.skyde">
+<programme start="20260429044000 +0000" stop="20260429053500 +0000" channel="Warner TV Serie HD.skyde">
     <title>Daktari</title>
 </programme>
 <programme start="20260429053500 +0000" stop="20260429063000 +0000" channel="Warner TV Serie HD.skyde">
@@ -3700,10 +3694,10 @@
 <programme start="20260429142500 +0000" stop="20260429151000 +0000" channel="Warner TV Serie HD.skyde">
     <title>NCIS</title>
 </programme>
-<programme start="20260429151000 +0000" stop="20260429155500 +0000" channel="Warner TV Serie HD.skyde">
+<programme start="20260429151000 +0000" stop="20260429160000 +0000" channel="Warner TV Serie HD.skyde">
     <title>NCIS</title>
 </programme>
-<programme start="20260429155500 +0000" stop="20260429164500 +0000" channel="Warner TV Serie HD.skyde">
+<programme start="20260429160000 +0000" stop="20260429164500 +0000" channel="Warner TV Serie HD.skyde">
     <title>NCIS</title>
 </programme>
 <programme start="20260429164500 +0000" stop="20260429173000 +0000" channel="Warner TV Serie HD.skyde">
