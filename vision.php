@@ -394,87 +394,6 @@
 <programme start="20260430110000 +0000" stop="20260430120000 +0000" channel="SindoNews.vision">
 <title>SINDO Files</title>
 </programme>
-<programme start="20260428233000 +0000" stop="20260429003000 +0000" channel="Trans TV.vision">
-<title>Insert Pagi (L)</title>
-</programme>
-<programme start="20260429003000 +0000" stop="20260429013000 +0000" channel="Trans TV.vision">
-<title>CNN Indonesia Good Morning</title>
-</programme>
-<programme start="20260429013000 +0000" stop="20260429033000 +0000" channel="Trans TV.vision">
-<title>Pagi-Pagi Ambyar</title>
-</programme>
-<programme start="20260429033000 +0000" stop="20260429053000 +0000" channel="Trans TV.vision">
-<title>Insert Siang</title>
-</programme>
-<programme start="20260429053000 +0000" stop="20260429070000 +0000" channel="Trans TV.vision">
-<title>Brownis (Obrowlan Manis)</title>
-</programme>
-<programme start="20260429070000 +0000" stop="20260429080000 +0000" channel="Trans TV.vision">
-<title>Rumpi: No Secret</title>
-</programme>
-<programme start="20260429080000 +0000" stop="20260429090000 +0000" channel="Trans TV.vision">
-<title>Insert Today</title>
-</programme>
-<programme start="20260429090000 +0000" stop="20260429093000 +0000" channel="Trans TV.vision">
-<title>CNN Indonesia News Update</title>
-</programme>
-<programme start="20260429093000 +0000" stop="20260429103000 +0000" channel="Trans TV.vision">
-<title>Dream Box Indonesia</title>
-</programme>
-<programme start="20260429103000 +0000" stop="20260429114500 +0000" channel="Trans TV.vision">
-<title>Bikin Laper</title>
-</programme>
-<programme start="20260429114500 +0000" stop="20260429130000 +0000" channel="Trans TV.vision">
-<title>Insert Story</title>
-</programme>
-<programme start="20260429130000 +0000" stop="20260429140000 +0000" channel="Trans TV.vision">
-<title>Dunia Punya Cerita</title>
-</programme>
-<programme start="20260429140000 +0000" stop="20260429160000 +0000" channel="Trans TV.vision">
-<title>Bioskop Trans TV</title>
-</programme>
-<programme start="20260429160000 +0000" stop="20260429180000 +0000" channel="Trans TV.vision">
-<title>Bioskop Trans TV</title>
-</programme>
-<programme start="20260429180000 +0000" stop="20260429220000 +0000" channel="Trans TV.vision">
-<title>Pilihan Indonesia: Debat Capres</title>
-</programme>
-<programme start="20260429220000 +0000" stop="20260429233000 +0000" channel="Trans TV.vision">
-<title>Islam Itu Indah</title>
-</programme>
-<programme start="20260429233000 +0000" stop="20260430003000 +0000" channel="Trans TV.vision">
-<title>Insert Pagi (L)</title>
-</programme>
-<programme start="20260430003000 +0000" stop="20260430013000 +0000" channel="Trans TV.vision">
-<title>CNN Indonesia Good Morning</title>
-</programme>
-<programme start="20260430013000 +0000" stop="20260430033000 +0000" channel="Trans TV.vision">
-<title>Pagi-Pagi Ambyar</title>
-</programme>
-<programme start="20260430033000 +0000" stop="20260430053000 +0000" channel="Trans TV.vision">
-<title>Insert Siang</title>
-</programme>
-<programme start="20260430053000 +0000" stop="20260430070000 +0000" channel="Trans TV.vision">
-<title>Brownis (Obrowlan Manis)</title>
-</programme>
-<programme start="20260430070000 +0000" stop="20260430080000 +0000" channel="Trans TV.vision">
-<title>Rumpi: No Secret</title>
-</programme>
-<programme start="20260430080000 +0000" stop="20260430090000 +0000" channel="Trans TV.vision">
-<title>Insert Today</title>
-</programme>
-<programme start="20260430090000 +0000" stop="20260430093000 +0000" channel="Trans TV.vision">
-<title>CNN Indonesia News Update</title>
-</programme>
-<programme start="20260430093000 +0000" stop="20260430103000 +0000" channel="Trans TV.vision">
-<title>Dream Box Indonesia</title>
-</programme>
-<programme start="20260430103000 +0000" stop="20260430114500 +0000" channel="Trans TV.vision">
-<title>Bikin Laper</title>
-</programme>
-<programme start="20260430114500 +0000" stop="20260430130000 +0000" channel="Trans TV.vision">
-<title>Insert Story</title>
-</programme>
 <programme start="20260428233000 +0000" stop="20260429003000 +0000" channel="Trans 7.vision">
 <title>Spotlite</title>
 </programme>
@@ -1267,9 +1186,6 @@
 <programme start="20260428230300 +0000" stop="20260429003000 +0000" channel="BTV.vision">
 <title>Jalan Dakwah</title>
 </programme>
-<programme start="20260429003000 +0000" stop="20260429010000 +0000" channel="BTV.vision">
-<title>Info Seleb</title>
-</programme>
 <programme start="20260429010000 +0000" stop="20260429010500 +0000" channel="BTV.vision">
 <title>Berita Satu Terkini</title>
 </programme>
@@ -1497,4 +1413,88 @@
 </programme>
 <programme start="20260430090000 +0000" stop="20260430110000 +0000" channel="TVRI.vision">
 <title>TVRI</title>
+</programme>
+<programme start="20260430110000 +0000" stop="20260430130000 +0000" channel="TVRI.vision">
+<title>TVRI</title>
+</programme>
+<programme start="20260429000000 +0000" stop="20260429030000 +0000" channel="DAAI TV.vision">
+<title>DAAI TV</title>
+</programme>
+<programme start="20260429030000 +0000" stop="20260429060000 +0000" channel="DAAI TV.vision">
+<title>DAAI TV</title>
+</programme>
+<programme start="20260429060000 +0000" stop="20260429090000 +0000" channel="DAAI TV.vision">
+<title>DAAI TV</title>
+</programme>
+<programme start="20260429090000 +0000" stop="20260429120000 +0000" channel="DAAI TV.vision">
+<title>DAAI TV</title>
+</programme>
+<programme start="20260429120000 +0000" stop="20260429150000 +0000" channel="DAAI TV.vision">
+<title>DAAI TV</title>
+</programme>
+<programme start="20260429150000 +0000" stop="20260429180000 +0000" channel="DAAI TV.vision">
+<title>DAAI TV</title>
+</programme>
+<programme start="20260429180000 +0000" stop="20260429210000 +0000" channel="DAAI TV.vision">
+<title>DAAI TV</title>
+</programme>
+<programme start="20260429210000 +0000" stop="20260430000000 +0000" channel="DAAI TV.vision">
+<title>DAAI TV</title>
+</programme>
+<programme start="20260430000000 +0000" stop="20260430030000 +0000" channel="DAAI TV.vision">
+<title>DAAI TV</title>
+</programme>
+<programme start="20260430030000 +0000" stop="20260430060000 +0000" channel="DAAI TV.vision">
+<title>DAAI TV</title>
+</programme>
+<programme start="20260430060000 +0000" stop="20260430090000 +0000" channel="DAAI TV.vision">
+<title>DAAI TV</title>
+</programme>
+<programme start="20260430090000 +0000" stop="20260430120000 +0000" channel="DAAI TV.vision">
+<title>DAAI TV</title>
+</programme>
+<programme start="20260428234000 +0000" stop="20260429010000 +0000" channel="MDTV.vision">
+<title>AADD: Ada Apa Dengan Dunia</title>
+</programme>
+<programme start="20260429010000 +0000" stop="20260429020000 +0000" channel="MDTV.vision">
+<title>Fakta +62</title>
+</programme>
+<programme start="20260429020000 +0000" stop="20260429030000 +0000" channel="MDTV.vision">
+<title>Sensasihot</title>
+</programme>
+<programme start="20260429030000 +0000" stop="20260429043500 +0000" channel="MDTV.vision">
+<title>Terlanjur Indah</title>
+</programme>
+<programme start="20260429043500 +0000" stop="20260429062000 +0000" channel="MDTV.vision">
+<title>Cinta Fitri S7</title>
+</programme>
+<programme start="20260429062000 +0000" stop="20260429073000 +0000" channel="MDTV.vision">
+<title>Makan Enak</title>
+</programme>
+<programme start="20260429073000 +0000" stop="20260429083000 +0000" channel="MDTV.vision">
+<title>Masak Gesss!!!</title>
+</programme>
+<programme start="20260429083000 +0000" stop="20260429093000 +0000" channel="MDTV.vision">
+<title>SensasiSeleb</title>
+</programme>
+<programme start="20260429093000 +0000" stop="20260429100000 +0000" channel="MDTV.vision">
+<title>Adit Sopo Jarwo</title>
+</programme>
+<programme start="20260429100000 +0000" stop="20260429120000 +0000" channel="MDTV.vision">
+<title>Esmeralda</title>
+</programme>
+<programme start="20260429120000 +0000" stop="20260429140000 +0000" channel="MDTV.vision">
+<title>Istri Paruh Waktu</title>
+</programme>
+<programme start="20260429140000 +0000" stop="20260429150000 +0000" channel="MDTV.vision">
+<title>Keluarga Yang Tak Dirindukan</title>
+</programme>
+<programme start="20260429150000 +0000" stop="20260429162000 +0000" channel="MDTV.vision">
+<title>Jatanras</title>
+</programme>
+<programme start="20260429162000 +0000" stop="20260429171000 +0000" channel="MDTV.vision">
+<title>86</title>
+</programme>
+<programme start="20260429171000 +0000" stop="20260429180000 +0000" channel="MDTV.vision">
+<title>Customs Protection</title>
 </programme>

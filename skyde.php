@@ -1849,6 +1849,48 @@
 <programme start="20260429214500 +0000" stop="20260429231500 +0000" channel="Sky Cinema Classics HD.skyde">
     <title>Sinola</title>
 </programme>
+<programme start="20260428233500 +0000" stop="20260429011000 +0000" channel="Sky Cinema Family HD.skyde">
+    <title>Road Trip</title>
+</programme>
+<programme start="20260429011000 +0000" stop="20260429024500 +0000" channel="Sky Cinema Family HD.skyde">
+    <title>Goodbye, Don Glees! - Wege einer Freundschaft</title>
+</programme>
+<programme start="20260429024500 +0000" stop="20260429040500 +0000" channel="Sky Cinema Family HD.skyde">
+    <title>Heidi - Die Legende vom Luchs</title>
+</programme>
+<programme start="20260429040500 +0000" stop="20260429054500 +0000" channel="Sky Cinema Family HD.skyde">
+    <title>Die Geheimnisse der Spiderwicks</title>
+</programme>
+<programme start="20260429054500 +0000" stop="20260429073500 +0000" channel="Sky Cinema Family HD.skyde">
+    <title>Rango</title>
+</programme>
+<programme start="20260429073500 +0000" stop="20260429090500 +0000" channel="Sky Cinema Family HD.skyde">
+    <title>Manta, Manta</title>
+</programme>
+<programme start="20260429090500 +0000" stop="20260429104500 +0000" channel="Sky Cinema Family HD.skyde">
+    <title>Caveman</title>
+</programme>
+<programme start="20260429104500 +0000" stop="20260429125000 +0000" channel="Sky Cinema Family HD.skyde">
+    <title>JGA: Jasmin. Gina. Anna.</title>
+</programme>
+<programme start="20260429125000 +0000" stop="20260429143500 +0000" channel="Sky Cinema Family HD.skyde">
+    <title>Teenage Mutant Ninja Turtles</title>
+</programme>
+<programme start="20260429143500 +0000" stop="20260429163000 +0000" channel="Sky Cinema Family HD.skyde">
+    <title>Teenage Mutant Ninja Turtles: Out of the Shadows</title>
+</programme>
+<programme start="20260429163000 +0000" stop="20260429181500 +0000" channel="Sky Cinema Family HD.skyde">
+    <title>Die Gangster Gang 2</title>
+</programme>
+<programme start="20260429181500 +0000" stop="20260429200000 +0000" channel="Sky Cinema Family HD.skyde">
+    <title>Meine Braut, ihr Vater und ich</title>
+</programme>
+<programme start="20260429200000 +0000" stop="20260429214500 +0000" channel="Sky Cinema Family HD.skyde">
+    <title>Paul - Ein Alien auf der Flucht</title>
+</programme>
+<programme start="20260429214500 +0000" stop="20260429232000 +0000" channel="Sky Cinema Family HD.skyde">
+    <title>Road Trip</title>
+</programme>
 <programme start="20260428233500 +0000" stop="20260429013500 +0000" channel="Sky Cinema Highlights HD.skyde">
     <title>Rookie - Der Anfänger</title>
 </programme>
@@ -3129,6 +3171,15 @@
 </programme>
 <programme start="20260429200000 +0000" stop="20260429220000 +0000" channel="Sky Sport Top Event HD.skyde">
     <title>Live ATP 1000: A. Fils (FRA) - J. Lehecka (CZE), Mutua Madrid Open in Madrid (ESP), Viertelfinale 2</title>
+</programme>
+<programme start="20260428230000 +0000" stop="20260429000000 +0000" channel="Sky Sport 1 HD.skyde">
+    <title>Live NBA: Showtime</title>
+</programme>
+<programme start="20260429000000 +0000" stop="20260429025500 +0000" channel="Sky Sport 1 HD.skyde">
+    <title>Live NBA: Atlanta Hawks @ New York Knicks, Playoffs, Runde 1, Spiel 5</title>
+</programme>
+<programme start="20260429025500 +0000" stop="20260429034500 +0000" channel="Sky Sport 1 HD.skyde">
+    <title>Live NBA: Showtime - Post Show</title>
 </programme>
 <programme start="20260428224000 +0000" stop="20260428232500 +0000" channel="SYFY HD.skyde">
     <title>Raumschiff Enterprise - Das nächste Jahrhundert</title>

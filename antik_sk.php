@@ -2651,7 +2651,7 @@
     <title lang="id">VSTÁVÁME S DECHOVKOU</title>
   </programme>
   <programme start="20260501050000 +0000" stop="20260501060000 +0000" channel="Šláger Originál.webtv.sk">
-    <title lang="id">ŠLÁGRMIX</title>
+    <title lang="id">HITPANORAMA</title>
   </programme>
   <programme start="20260501060000 +0000" stop="20260501070000 +0000" channel="Šláger Originál.webtv.sk">
     <title lang="id">PÍSNIČKOVÉ DOPOLEDNE</title>
@@ -2671,11 +2671,11 @@
   <programme start="20260501130000 +0000" stop="20260501143000 +0000" channel="Šláger Originál.webtv.sk">
     <title lang="id">ODPOLEDNÍ STUDIO</title>
   </programme>
-  <programme start="20260501143000 +0000" stop="20260501160000 +0000" channel="Šláger Originál.webtv.sk">
+  <programme start="20260501143000 +0000" stop="20260501175000 +0000" channel="Šláger Originál.webtv.sk">
     <title lang="id">LATTÉ O PŮL PÁTÉ</title>
   </programme>
-  <programme start="20260501160000 +0000" stop="20260501182000 +0000" channel="Šláger Originál.webtv.sk">
-    <title lang="id">PODVEČERNÍ ZÁBAVA</title>
+  <programme start="20260501175000 +0000" stop="20260501182000 +0000" channel="Šláger Originál.webtv.sk">
+    <title lang="id">SÁZKA NA HIT</title>
   </programme>
   <programme start="20260501182000 +0000" stop="20260501220000 +0000" channel="Šláger Originál.webtv.sk">
     <title lang="id">VEČERNÍ POŘAD</title>
@@ -4177,23 +4177,26 @@
   <programme start="20260501210500 +0000" stop="20260501220000 +0000" channel="Prima Krimi SK.webtv.sk">
     <title lang="id">Prvních 48 hodin XXII (15)</title>
   </programme>
-  <programme start="20260430211500 +0000" stop="20260430222500 +0000" channel="Seznam.cz TV.webtv.sk">
+  <programme start="20260430211500 +0000" stop="20260430222000 +0000" channel="Seznam.cz TV.webtv.sk">
     <title lang="id">Profesionálové IV (13)</title>
   </programme>
-  <programme start="20260430222500 +0000" stop="20260430232500 +0000" channel="Seznam.cz TV.webtv.sk">
+  <programme start="20260430222000 +0000" stop="20260430231000 +0000" channel="Seznam.cz TV.webtv.sk">
     <title lang="id">Zákon a pořádek: Zločinné úmysly I (21)</title>
   </programme>
-  <programme start="20260430232500 +0000" stop="20260501002000 +0000" channel="Seznam.cz TV.webtv.sk">
+  <programme start="20260430231000 +0000" stop="20260430235500 +0000" channel="Seznam.cz TV.webtv.sk">
     <title lang="id">Zákon a pořádek: Zločinné úmysly I (22)</title>
   </programme>
-  <programme start="20260501002000 +0000" stop="20260501011000 +0000" channel="Seznam.cz TV.webtv.sk">
+  <programme start="20260430235500 +0000" stop="20260501005000 +0000" channel="Seznam.cz TV.webtv.sk">
     <title lang="id">Kojak III (10)</title>
   </programme>
-  <programme start="20260501011000 +0000" stop="20260501020000 +0000" channel="Seznam.cz TV.webtv.sk">
+  <programme start="20260501005000 +0000" stop="20260501013500 +0000" channel="Seznam.cz TV.webtv.sk">
     <title lang="id">Hudson a Rex IV (3)</title>
   </programme>
-  <programme start="20260501020000 +0000" stop="20260501024500 +0000" channel="Seznam.cz TV.webtv.sk">
+  <programme start="20260501013500 +0000" stop="20260501022000 +0000" channel="Seznam.cz TV.webtv.sk">
     <title lang="id">Hudson a Rex IV (4)</title>
+  </programme>
+  <programme start="20260501022000 +0000" stop="20260501024500 +0000" channel="Seznam.cz TV.webtv.sk">
+    <title lang="id">Ušák Jaromíra Bosáka (146)</title>
   </programme>
   <programme start="20260501024500 +0000" stop="20260501031000 +0000" channel="Seznam.cz TV.webtv.sk">
     <title lang="id">Ušák Jaromíra Bosáka (54)</title>
@@ -16061,7 +16064,7 @@
     <title lang="id">World News</title>
   </programme>
   <programme start="20260501061500 +0000" stop="20260501063000 +0000" channel="TVP World.webtv.sk">
-    <title lang="id">World Talks</title>
+    <title lang="id">World Talks (7498)</title>
   </programme>
   <programme start="20260501063000 +0000" stop="20260501064500 +0000" channel="TVP World.webtv.sk">
     <title lang="id">World News Flash</title>
@@ -16073,7 +16076,7 @@
     <title lang="id">World News</title>
   </programme>
   <programme start="20260501071500 +0000" stop="20260501073000 +0000" channel="TVP World.webtv.sk">
-    <title lang="id">World Talks</title>
+    <title lang="id">World Talks (7499)</title>
   </programme>
   <programme start="20260501073000 +0000" stop="20260501074500 +0000" channel="TVP World.webtv.sk">
     <title lang="id">World News Flash</title>
@@ -16091,7 +16094,7 @@
     <title lang="id">Weather</title>
   </programme>
   <programme start="20260501091500 +0000" stop="20260501093000 +0000" channel="TVP World.webtv.sk">
-    <title lang="id">World Talks</title>
+    <title lang="id">World Talks (7500)</title>
   </programme>
   <programme start="20260501093000 +0000" stop="20260501093500 +0000" channel="TVP World.webtv.sk">
     <title lang="id">World News Flash</title>
@@ -16226,7 +16229,7 @@
     <title lang="id">World News Online</title>
   </programme>
   <programme start="20260501191500 +0000" stop="20260501193000 +0000" channel="TVP World.webtv.sk">
-    <title lang="id">World Talks</title>
+    <title lang="id">World Talks (7501)</title>
   </programme>
   <programme start="20260501193000 +0000" stop="20260501193500 +0000" channel="TVP World.webtv.sk">
     <title lang="id">World News Flash</title>
@@ -16291,16 +16294,16 @@
   <programme start="20260501000000 +0000" stop="20260501002400 +0000" channel="TVP Info.webtv.sk">
     <title lang="id">Oko na Swiat (738)</title>
   </programme>
-  <programme start="20260501002400 +0000" stop="20260501004600 +0000" channel="TVP Info.webtv.sk">
+  <programme start="20260501002400 +0000" stop="20260501004500 +0000" channel="TVP Info.webtv.sk">
     <title lang="id">Wykrywacz kłamstw (171)</title>
   </programme>
-  <programme start="20260501004600 +0000" stop="20260501010100 +0000" channel="TVP Info.webtv.sk">
+  <programme start="20260501004500 +0000" stop="20260501010000 +0000" channel="TVP Info.webtv.sk">
     <title lang="id">112. Magazyn kryminalny</title>
   </programme>
-  <programme start="20260501010100 +0000" stop="20260501013100 +0000" channel="TVP Info.webtv.sk">
+  <programme start="20260501010000 +0000" stop="20260501013000 +0000" channel="TVP Info.webtv.sk">
     <title lang="id">Panorama Dnia</title>
   </programme>
-  <programme start="20260501013100 +0000" stop="20260501013500 +0000" channel="TVP Info.webtv.sk">
+  <programme start="20260501013000 +0000" stop="20260501013500 +0000" channel="TVP Info.webtv.sk">
     <title lang="id">Pogoda Info</title>
   </programme>
   <programme start="20260501013500 +0000" stop="20260501015000 +0000" channel="TVP Info.webtv.sk">
@@ -16360,8 +16363,11 @@
   <programme start="20260501050500 +0000" stop="20260501053000 +0000" channel="TVP Info.webtv.sk">
     <title lang="id">Polska o Poranku</title>
   </programme>
-  <programme start="20260501053000 +0000" stop="20260501054500 +0000" channel="TVP Info.webtv.sk">
+  <programme start="20260501053000 +0000" stop="20260501053500 +0000" channel="TVP Info.webtv.sk">
     <title lang="id">Serwis Info Poranek</title>
+  </programme>
+  <programme start="20260501053500 +0000" stop="20260501054500 +0000" channel="TVP Info.webtv.sk">
+    <title lang="id">Info Poranek</title>
   </programme>
   <programme start="20260501054500 +0000" stop="20260501060000 +0000" channel="TVP Info.webtv.sk">
     <title lang="id">Gosc Poranka (576)</title>
@@ -16409,7 +16415,7 @@
     <title lang="id">Pogoda Info</title>
   </programme>
   <programme start="20260501123000 +0000" stop="20260501125200 +0000" channel="TVP Info.webtv.sk">
-    <title lang="id">Program informacyjny 14.30</title>
+    <title lang="id">Serwis Info Dzien</title>
   </programme>
   <programme start="20260501125200 +0000" stop="20260501130000 +0000" channel="TVP Info.webtv.sk">
     <title lang="id">Pogoda Info</title>
@@ -16472,7 +16478,7 @@
     <title lang="id">Oko na Swiat (739)</title>
   </programme>
   <programme start="20260501203000 +0000" stop="20260501204500 +0000" channel="TVP Info.webtv.sk">
-    <title lang="id">Program informacyjny 22.30</title>
+    <title lang="id">Serwis Info Wieczór</title>
   </programme>
   <programme start="20260501204500 +0000" stop="20260501210000 +0000" channel="TVP Info.webtv.sk">
     <title lang="id">112. Magazyn kryminalny</title>
@@ -19106,112 +19112,112 @@
     <title lang="id">The Point with Liu Xin</title>
   </programme>
   <programme start="20260430220000 +0000" stop="20260430230000 +0000" channel="CGTN Documentary.webtv.sk">
-    <title lang="id">Special Edition</title>
+    <title lang="id">Now, Guizhou 6 / The Story of Spring (6)</title>
   </programme>
   <programme start="20260430230000 +0000" stop="20260430233000 +0000" channel="CGTN Documentary.webtv.sk">
-    <title lang="id">Journeys and Discoveries</title>
+    <title lang="id">New Frontiers in Chinese Sci-Fi (1)</title>
   </programme>
   <programme start="20260430233000 +0000" stop="20260501000000 +0000" channel="CGTN Documentary.webtv.sk">
-    <title lang="id">History in the Frame</title>
+    <title lang="id">Ancient China: Discoveries of the Deep (1)</title>
   </programme>
   <programme start="20260501000000 +0000" stop="20260501010000 +0000" channel="CGTN Documentary.webtv.sk">
-    <title lang="id">Best Eats</title>
+    <title lang="id">Snacking away Around China 3/4</title>
   </programme>
   <programme start="20260501010000 +0000" stop="20260501013000 +0000" channel="CGTN Documentary.webtv.sk">
-    <title lang="id">Youthful China</title>
+    <title lang="id">Art in the Field 1/2</title>
   </programme>
   <programme start="20260501013000 +0000" stop="20260501020000 +0000" channel="CGTN Documentary.webtv.sk">
     <title lang="id">Pixel Collage</title>
   </programme>
   <programme start="20260501020000 +0000" stop="20260501030000 +0000" channel="CGTN Documentary.webtv.sk">
-    <title lang="id">Today’s Top Pick</title>
+    <title lang="id">Rails of the Greater Bay Area: The Meizhou-Longchuan High-speed Railway</title>
   </programme>
   <programme start="20260501030000 +0000" stop="20260501033000 +0000" channel="CGTN Documentary.webtv.sk">
-    <title lang="id">Humanities and Geography</title>
+    <title lang="id">Because I Met You (7)</title>
   </programme>
   <programme start="20260501033000 +0000" stop="20260501040000 +0000" channel="CGTN Documentary.webtv.sk">
-    <title lang="id">Living China</title>
+    <title lang="id">Skilled Workers (1)</title>
   </programme>
   <programme start="20260501040000 +0000" stop="20260501050000 +0000" channel="CGTN Documentary.webtv.sk">
-    <title lang="id">Special Edition</title>
+    <title lang="id">Now, Guizhou 6 / The Story of Spring (6)</title>
   </programme>
   <programme start="20260501050000 +0000" stop="20260501053000 +0000" channel="CGTN Documentary.webtv.sk">
-    <title lang="id">Journeys and Discoveries</title>
+    <title lang="id">New Frontiers in Chinese Sci-Fi (1)</title>
   </programme>
   <programme start="20260501053000 +0000" stop="20260501060000 +0000" channel="CGTN Documentary.webtv.sk">
-    <title lang="id">History in the Frame</title>
+    <title lang="id">Ancient China: Discoveries of the Deep (1)</title>
   </programme>
   <programme start="20260501060000 +0000" stop="20260501070000 +0000" channel="CGTN Documentary.webtv.sk">
-    <title lang="id">Best Eats</title>
+    <title lang="id">Snacking away Around China 3/4</title>
   </programme>
   <programme start="20260501070000 +0000" stop="20260501073000 +0000" channel="CGTN Documentary.webtv.sk">
-    <title lang="id">Youthful China</title>
+    <title lang="id">Art in the Field 1/2</title>
   </programme>
   <programme start="20260501073000 +0000" stop="20260501080000 +0000" channel="CGTN Documentary.webtv.sk">
     <title lang="id">Pixel Collage</title>
   </programme>
   <programme start="20260501080000 +0000" stop="20260501090000 +0000" channel="CGTN Documentary.webtv.sk">
-    <title lang="id">Today’s Top Pick</title>
+    <title lang="id">Rails of the Greater Bay Area: The Meizhou-Longchuan High-speed Railway</title>
   </programme>
   <programme start="20260501090000 +0000" stop="20260501093000 +0000" channel="CGTN Documentary.webtv.sk">
-    <title lang="id">Humanities and Geography</title>
+    <title lang="id">Because I Met You (7)</title>
   </programme>
   <programme start="20260501093000 +0000" stop="20260501100000 +0000" channel="CGTN Documentary.webtv.sk">
-    <title lang="id">Living China</title>
+    <title lang="id">Skilled Workers (1)</title>
   </programme>
   <programme start="20260501100000 +0000" stop="20260501110000 +0000" channel="CGTN Documentary.webtv.sk">
-    <title lang="id">Special Edition</title>
+    <title lang="id">Now, Guizhou 6 / The Story of Spring (6)</title>
   </programme>
   <programme start="20260501110000 +0000" stop="20260501113000 +0000" channel="CGTN Documentary.webtv.sk">
-    <title lang="id">Journeys and Discoveries</title>
+    <title lang="id">New Frontiers in Chinese Sci-Fi (1)</title>
   </programme>
   <programme start="20260501113000 +0000" stop="20260501120000 +0000" channel="CGTN Documentary.webtv.sk">
-    <title lang="id">History in the Frame</title>
+    <title lang="id">Ancient China: Discoveries of the Deep (1)</title>
   </programme>
   <programme start="20260501120000 +0000" stop="20260501130000 +0000" channel="CGTN Documentary.webtv.sk">
-    <title lang="id">Best Eats</title>
+    <title lang="id">Snacking away Around China 3/4</title>
   </programme>
   <programme start="20260501130000 +0000" stop="20260501133000 +0000" channel="CGTN Documentary.webtv.sk">
-    <title lang="id">Youthful China</title>
+    <title lang="id">Art in the Field 1/2</title>
   </programme>
   <programme start="20260501133000 +0000" stop="20260501140000 +0000" channel="CGTN Documentary.webtv.sk">
     <title lang="id">Pixel Collage</title>
   </programme>
   <programme start="20260501140000 +0000" stop="20260501150000 +0000" channel="CGTN Documentary.webtv.sk">
-    <title lang="id">Today’s Top Pick</title>
+    <title lang="id">Rails of the Greater Bay Area: The Meizhou-Longchuan High-speed Railway</title>
   </programme>
   <programme start="20260501150000 +0000" stop="20260501153000 +0000" channel="CGTN Documentary.webtv.sk">
-    <title lang="id">Humanities and Geography</title>
+    <title lang="id">Because I Met You (7)</title>
   </programme>
   <programme start="20260501153000 +0000" stop="20260501160000 +0000" channel="CGTN Documentary.webtv.sk">
-    <title lang="id">Living China</title>
+    <title lang="id">Skilled Workers (1)</title>
   </programme>
   <programme start="20260501160000 +0000" stop="20260501170000 +0000" channel="CGTN Documentary.webtv.sk">
-    <title lang="id">Special Edition</title>
+    <title lang="id">Now, Guizhou 6 / The Story of Spring (6)</title>
   </programme>
   <programme start="20260501170000 +0000" stop="20260501173000 +0000" channel="CGTN Documentary.webtv.sk">
-    <title lang="id">Journeys and Discoveries</title>
+    <title lang="id">New Frontiers in Chinese Sci-Fi (1)</title>
   </programme>
   <programme start="20260501173000 +0000" stop="20260501180000 +0000" channel="CGTN Documentary.webtv.sk">
-    <title lang="id">History in the Frame</title>
+    <title lang="id">Ancient China: Discoveries of the Deep (1)</title>
   </programme>
   <programme start="20260501180000 +0000" stop="20260501190000 +0000" channel="CGTN Documentary.webtv.sk">
-    <title lang="id">Best Eats</title>
+    <title lang="id">Snacking away Around China 3/4</title>
   </programme>
   <programme start="20260501190000 +0000" stop="20260501193000 +0000" channel="CGTN Documentary.webtv.sk">
-    <title lang="id">Youthful China</title>
+    <title lang="id">Art in the Field 1/2</title>
   </programme>
   <programme start="20260501193000 +0000" stop="20260501200000 +0000" channel="CGTN Documentary.webtv.sk">
     <title lang="id">Pixel Collage</title>
   </programme>
   <programme start="20260501200000 +0000" stop="20260501210000 +0000" channel="CGTN Documentary.webtv.sk">
-    <title lang="id">Today’s Top Pick</title>
+    <title lang="id">China Flash Forward (1)</title>
   </programme>
   <programme start="20260501210000 +0000" stop="20260501213000 +0000" channel="CGTN Documentary.webtv.sk">
-    <title lang="id">Humanities and Geography</title>
+    <title lang="id">Because I Met You (8)</title>
   </programme>
   <programme start="20260501213000 +0000" stop="20260501220000 +0000" channel="CGTN Documentary.webtv.sk">
-    <title lang="id">Living China</title>
+    <title lang="id">Skilled Workers (2)</title>
   </programme>
   <programme start="20260430213000 +0000" stop="20260501040000 +0000" channel="Óčko.webtv.sk">
     <title lang="id">ÓČKO FLIRT</title>
