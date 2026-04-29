@@ -7693,43 +7693,43 @@
 <programme start="20260428220000 +0000" stop="20260428230000 +0000" channel="SCTV.mncvision">
     <title>Liputan 6 Pagi (L)</title>
 </programme>
-<programme start="20260428230000 +0000" stop="20260429000000 +0000" channel="SCTV.mncvision">
+<programme start="20260428230000 +0000" stop="20260429000600 +0000" channel="SCTV.mncvision">
     <title>Hot Shot</title>
 </programme>
-<programme start="20260429000000 +0000" stop="20260429010000 +0000" channel="SCTV.mncvision">
+<programme start="20260429000600 +0000" stop="20260429010700 +0000" channel="SCTV.mncvision">
     <title>Tiba-Tiba Kuis</title>
 </programme>
-<programme start="20260429010000 +0000" stop="20260429030000 +0000" channel="SCTV.mncvision">
+<programme start="20260429010700 +0000" stop="20260429025500 +0000" channel="SCTV.mncvision">
     <title>Kalo Es Krimnya Rame...</title>
 </programme>
-<programme start="20260429030000 +0000" stop="20260429050000 +0000" channel="SCTV.mncvision">
+<programme start="20260429025500 +0000" stop="20260429044900 +0000" channel="SCTV.mncvision">
     <title>Kehaluan Hakiki Calon Manten</title>
 </programme>
-<programme start="20260429050000 +0000" stop="20260429053000 +0000" channel="SCTV.mncvision">
+<programme start="20260429044900 +0000" stop="20260429052500 +0000" channel="SCTV.mncvision">
     <title>Liputan 6 Siang (L)</title>
 </programme>
-<programme start="20260429053000 +0000" stop="20260429073000 +0000" channel="SCTV.mncvision">
+<programme start="20260429052500 +0000" stop="20260429071000 +0000" channel="SCTV.mncvision">
     <title>Miss Tahu Digejrot Rindu</title>
 </programme>
-<programme start="20260429073000 +0000" stop="20260429083000 +0000" channel="SCTV.mncvision">
+<programme start="20260429071000 +0000" stop="20260429081600 +0000" channel="SCTV.mncvision">
     <title>Konser Dilan ITB 1997</title>
 </programme>
-<programme start="20260429083000 +0000" stop="20260429100000 +0000" channel="SCTV.mncvision">
+<programme start="20260429081600 +0000" stop="20260429100000 +0000" channel="SCTV.mncvision">
     <title>Rindu: Suara Dari Pisang Nugget</title>
 </programme>
-<programme start="20260429100000 +0000" stop="20260429111500 +0000" channel="SCTV.mncvision">
+<programme start="20260429100000 +0000" stop="20260429112600 +0000" channel="SCTV.mncvision">
     <title>Asmara Gen Z</title>
 </programme>
-<programme start="20260429111500 +0000" stop="20260429130000 +0000" channel="SCTV.mncvision">
+<programme start="20260429112600 +0000" stop="20260429130900 +0000" channel="SCTV.mncvision">
     <title>Istiqomah Cinta</title>
 </programme>
-<programme start="20260429130000 +0000" stop="20260429143000 +0000" channel="SCTV.mncvision">
+<programme start="20260429130900 +0000" stop="20260429143500 +0000" channel="SCTV.mncvision">
     <title>Beri Cinta Waktu</title>
 </programme>
-<programme start="20260429143000 +0000" stop="20260429160000 +0000" channel="SCTV.mncvision">
+<programme start="20260429143500 +0000" stop="20260429160200 +0000" channel="SCTV.mncvision">
     <title>Jejak Duka Diandra</title>
 </programme>
-<programme start="20260429160000 +0000" stop="20260429163000 +0000" channel="SCTV.mncvision">
+<programme start="20260429160200 +0000" stop="20260429163200 +0000" channel="SCTV.mncvision">
     <title>Jamu Strong Bikin Cintaku Kuat</title>
 </programme>
 <programme start="20260428171800 +0000" stop="20260428183500 +0000" channel="SCTV HD.mncvision">
@@ -7750,43 +7750,43 @@
 <programme start="20260428220000 +0000" stop="20260428230000 +0000" channel="SCTV HD.mncvision">
     <title>Liputan 6 Pagi (L)</title>
 </programme>
-<programme start="20260428230000 +0000" stop="20260429000000 +0000" channel="SCTV HD.mncvision">
+<programme start="20260428230000 +0000" stop="20260429000600 +0000" channel="SCTV HD.mncvision">
     <title>Hot Shot</title>
 </programme>
-<programme start="20260429000000 +0000" stop="20260429010000 +0000" channel="SCTV HD.mncvision">
+<programme start="20260429000600 +0000" stop="20260429010700 +0000" channel="SCTV HD.mncvision">
     <title>Tiba-Tiba Kuis</title>
 </programme>
-<programme start="20260429010000 +0000" stop="20260429030000 +0000" channel="SCTV HD.mncvision">
+<programme start="20260429010700 +0000" stop="20260429025500 +0000" channel="SCTV HD.mncvision">
     <title>Kalo Es Krimnya Rame...</title>
 </programme>
-<programme start="20260429030000 +0000" stop="20260429050000 +0000" channel="SCTV HD.mncvision">
+<programme start="20260429025500 +0000" stop="20260429044900 +0000" channel="SCTV HD.mncvision">
     <title>Kehaluan Hakiki Calon Manten</title>
 </programme>
-<programme start="20260429050000 +0000" stop="20260429053000 +0000" channel="SCTV HD.mncvision">
+<programme start="20260429044900 +0000" stop="20260429052500 +0000" channel="SCTV HD.mncvision">
     <title>Liputan 6 Siang (L)</title>
 </programme>
-<programme start="20260429053000 +0000" stop="20260429073000 +0000" channel="SCTV HD.mncvision">
+<programme start="20260429052500 +0000" stop="20260429071000 +0000" channel="SCTV HD.mncvision">
     <title>Miss Tahu Digejrot Rindu</title>
 </programme>
-<programme start="20260429073000 +0000" stop="20260429083000 +0000" channel="SCTV HD.mncvision">
+<programme start="20260429071000 +0000" stop="20260429081600 +0000" channel="SCTV HD.mncvision">
     <title>Konser Dilan ITB 1997</title>
 </programme>
-<programme start="20260429083000 +0000" stop="20260429100000 +0000" channel="SCTV HD.mncvision">
+<programme start="20260429081600 +0000" stop="20260429100000 +0000" channel="SCTV HD.mncvision">
     <title>Rindu: Suara Dari Pisang Nugget</title>
 </programme>
-<programme start="20260429100000 +0000" stop="20260429111500 +0000" channel="SCTV HD.mncvision">
+<programme start="20260429100000 +0000" stop="20260429112600 +0000" channel="SCTV HD.mncvision">
     <title>Asmara Gen Z</title>
 </programme>
-<programme start="20260429111500 +0000" stop="20260429130000 +0000" channel="SCTV HD.mncvision">
+<programme start="20260429112600 +0000" stop="20260429130900 +0000" channel="SCTV HD.mncvision">
     <title>Istiqomah Cinta</title>
 </programme>
-<programme start="20260429130000 +0000" stop="20260429143000 +0000" channel="SCTV HD.mncvision">
+<programme start="20260429130900 +0000" stop="20260429143500 +0000" channel="SCTV HD.mncvision">
     <title>Beri Cinta Waktu</title>
 </programme>
-<programme start="20260429143000 +0000" stop="20260429160000 +0000" channel="SCTV HD.mncvision">
+<programme start="20260429143500 +0000" stop="20260429160200 +0000" channel="SCTV HD.mncvision">
     <title>Jejak Duka Diandra</title>
 </programme>
-<programme start="20260429160000 +0000" stop="20260429163000 +0000" channel="SCTV HD.mncvision">
+<programme start="20260429160200 +0000" stop="20260429163200 +0000" channel="SCTV HD.mncvision">
     <title>Jamu Strong Bikin Cintaku Kuat</title>
 </programme>
 <programme start="20260428170000 +0000" stop="20260428180000 +0000" channel="Sindo News TV.mncvision">

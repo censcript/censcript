@@ -964,22 +964,19 @@
   <programme start="20260501210000 +0000" stop="20260501220500 +0000" channel="Doma.webtv.sk">
     <title lang="id">Zachránené životy (167)</title>
   </programme>
-  <programme start="20260430210000 +0000" stop="20260430220500 +0000" channel="Markíza Krimi.webtv.sk">
-    <title lang="id">Kosti IV (23)</title>
-  </programme>
-  <programme start="20260430220500 +0000" stop="20260430224500 +0000" channel="Markíza Krimi.webtv.sk">
+  <programme start="20260430215500 +0000" stop="20260430223500 +0000" channel="Markíza Krimi.webtv.sk">
     <title lang="id">Kosti IV (24)</title>
   </programme>
-  <programme start="20260430224500 +0000" stop="20260430232500 +0000" channel="Markíza Krimi.webtv.sk">
+  <programme start="20260430223500 +0000" stop="20260430232000 +0000" channel="Markíza Krimi.webtv.sk">
     <title lang="id">NCIS - Námorný vyšetrovací úrad XI (5)</title>
   </programme>
-  <programme start="20260430232500 +0000" stop="20260501000500 +0000" channel="Markíza Krimi.webtv.sk">
+  <programme start="20260430232000 +0000" stop="20260430235500 +0000" channel="Markíza Krimi.webtv.sk">
     <title lang="id">NCIS - Námorný vyšetrovací úrad XI (6)</title>
   </programme>
-  <programme start="20260501000500 +0000" stop="20260501014000 +0000" channel="Markíza Krimi.webtv.sk">
+  <programme start="20260430235500 +0000" stop="20260501013500 +0000" channel="Markíza Krimi.webtv.sk">
     <title lang="id">Komisárka Florence VIII (2)</title>
   </programme>
-  <programme start="20260501014000 +0000" stop="20260501025500 +0000" channel="Markíza Krimi.webtv.sk">
+  <programme start="20260501013500 +0000" stop="20260501025500 +0000" channel="Markíza Krimi.webtv.sk">
     <title lang="id">112 (25)</title>
   </programme>
   <programme start="20260501025500 +0000" stop="20260501033000 +0000" channel="Markíza Krimi.webtv.sk">
@@ -1042,8 +1039,11 @@
   <programme start="20260501200000 +0000" stop="20260501210000 +0000" channel="Markíza Krimi.webtv.sk">
     <title lang="id">Špecialisti III (10)</title>
   </programme>
-  <programme start="20260501210000 +0000" stop="20260501220000 +0000" channel="Markíza Krimi.webtv.sk">
+  <programme start="20260501210000 +0000" stop="20260501215000 +0000" channel="Markíza Krimi.webtv.sk">
     <title lang="id">Kosti IV (25)</title>
+  </programme>
+  <programme start="20260501215000 +0000" stop="20260501223000 +0000" channel="Markíza Krimi.webtv.sk">
+    <title lang="id">Kosti IV (26)</title>
   </programme>
   <programme start="20260430213000 +0000" stop="20260501010000 +0000" channel="JOJ Plus.webtv.sk">
     <title lang="id">Kráľovstvo nebeské</title>
@@ -17875,59 +17875,23 @@
   <programme start="20260430233000 +0000" stop="20260501000000 +0000" channel="Al Jazeera English.webtv.sk">
     <title lang="id">Inside Story</title>
   </programme>
-  <programme start="20260501000000 +0000" stop="20260501010000 +0000" channel="Al Jazeera English.webtv.sk">
+  <programme start="20260501000000 +0000" stop="20260501020000 +0000" channel="Al Jazeera English.webtv.sk">
     <title lang="id">Newshour</title>
   </programme>
-  <programme start="20260501010000 +0000" stop="20260501020000 +0000" channel="Al Jazeera English.webtv.sk">
-    <title lang="id">Witness</title>
-  </programme>
-  <programme start="20260501020000 +0000" stop="20260501023000 +0000" channel="Al Jazeera English.webtv.sk">
+  <programme start="20260501020000 +0000" stop="20260501050000 +0000" channel="Al Jazeera English.webtv.sk">
     <title lang="id">News Live</title>
-  </programme>
-  <programme start="20260501023000 +0000" stop="20260501030000 +0000" channel="Al Jazeera English.webtv.sk">
-    <title lang="id">The Bottom Line</title>
-  </programme>
-  <programme start="20260501030000 +0000" stop="20260501033000 +0000" channel="Al Jazeera English.webtv.sk">
-    <title lang="id">News Live</title>
-  </programme>
-  <programme start="20260501033000 +0000" stop="20260501040000 +0000" channel="Al Jazeera English.webtv.sk">
-    <title lang="id">People and Power</title>
-  </programme>
-  <programme start="20260501040000 +0000" stop="20260501043000 +0000" channel="Al Jazeera English.webtv.sk">
-    <title lang="id">News Live</title>
-  </programme>
-  <programme start="20260501043000 +0000" stop="20260501050000 +0000" channel="Al Jazeera English.webtv.sk">
-    <title lang="id">The Stream</title>
   </programme>
   <programme start="20260501050000 +0000" stop="20260501053000 +0000" channel="Al Jazeera English.webtv.sk">
     <title lang="id">News Live</title>
   </programme>
-  <programme start="20260501053000 +0000" stop="20260501060000 +0000" channel="Al Jazeera English.webtv.sk">
+  <programme start="20260501053000 +0000" stop="20260501080000 +0000" channel="Al Jazeera English.webtv.sk">
     <title lang="id">Inside Story</title>
-  </programme>
-  <programme start="20260501060000 +0000" stop="20260501063000 +0000" channel="Al Jazeera English.webtv.sk">
-    <title lang="id">News Live</title>
-  </programme>
-  <programme start="20260501063000 +0000" stop="20260501070000 +0000" channel="Al Jazeera English.webtv.sk">
-    <title lang="id">Reframe</title>
-  </programme>
-  <programme start="20260501070000 +0000" stop="20260501073000 +0000" channel="Al Jazeera English.webtv.sk">
-    <title lang="id">News Live</title>
-  </programme>
-  <programme start="20260501073000 +0000" stop="20260501080000 +0000" channel="Al Jazeera English.webtv.sk">
-    <title lang="id">The Global Population Bust</title>
   </programme>
   <programme start="20260501080000 +0000" stop="20260501083000 +0000" channel="Al Jazeera English.webtv.sk">
     <title lang="id">News Live</title>
   </programme>
-  <programme start="20260501083000 +0000" stop="20260501090000 +0000" channel="Al Jazeera English.webtv.sk">
+  <programme start="20260501083000 +0000" stop="20260501100000 +0000" channel="Al Jazeera English.webtv.sk">
     <title lang="id">Talk to Al Jazeera</title>
-  </programme>
-  <programme start="20260501090000 +0000" stop="20260501093000 +0000" channel="Al Jazeera English.webtv.sk">
-    <title lang="id">News Live</title>
-  </programme>
-  <programme start="20260501093000 +0000" stop="20260501100000 +0000" channel="Al Jazeera English.webtv.sk">
-    <title lang="id">101 East</title>
   </programme>
   <programme start="20260501100000 +0000" stop="20260501110000 +0000" channel="Al Jazeera English.webtv.sk">
     <title lang="id">Newshour</title>
@@ -17941,14 +17905,8 @@
   <programme start="20260501120000 +0000" stop="20260501130000 +0000" channel="Al Jazeera English.webtv.sk">
     <title lang="id">Silenced: The War On Journalism</title>
   </programme>
-  <programme start="20260501130000 +0000" stop="20260501140000 +0000" channel="Al Jazeera English.webtv.sk">
+  <programme start="20260501130000 +0000" stop="20260501150000 +0000" channel="Al Jazeera English.webtv.sk">
     <title lang="id">Newshour</title>
-  </programme>
-  <programme start="20260501140000 +0000" stop="20260501143000 +0000" channel="Al Jazeera English.webtv.sk">
-    <title lang="id">News Live</title>
-  </programme>
-  <programme start="20260501143000 +0000" stop="20260501150000 +0000" channel="Al Jazeera English.webtv.sk">
-    <title lang="id">The Stream</title>
   </programme>
   <programme start="20260501150000 +0000" stop="20260501160000 +0000" channel="Al Jazeera English.webtv.sk">
     <title lang="id">Newshour</title>
@@ -17971,11 +17929,8 @@
   <programme start="20260501190000 +0000" stop="20260501193000 +0000" channel="Al Jazeera English.webtv.sk">
     <title lang="id">News Live</title>
   </programme>
-  <programme start="20260501193000 +0000" stop="20260501200000 +0000" channel="Al Jazeera English.webtv.sk">
+  <programme start="20260501193000 +0000" stop="20260501210000 +0000" channel="Al Jazeera English.webtv.sk">
     <title lang="id">UpFront</title>
-  </programme>
-  <programme start="20260501200000 +0000" stop="20260501210000 +0000" channel="Al Jazeera English.webtv.sk">
-    <title lang="id">Al Jazeera World</title>
   </programme>
   <programme start="20260501210000 +0000" stop="20260501220000 +0000" channel="Al Jazeera English.webtv.sk">
     <title lang="id">Newshour</title>

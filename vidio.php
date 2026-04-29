@@ -267,7 +267,7 @@
     <icon src="https://thumbor.prod.vidiocdn.com/fgS82p5V9th0HaTVtYF1euZIpho=/287x162/filters:strip_icc():quality(70)/vidio-media-production/uploads/livestreaming/schedule/thumbnail/5027841/5e9cc1.jpg"/>
   </programme>
   <programme channel="204" start="20260430053000 +0000" stop="20260430070000 +0000">
-    <title lang="id">FTV Siang: Jodoh Gue No Tipu Tipu</title>
+    <title lang="id">FTV Siang: Miss Tahu Digejrot Rindu</title>
     <desc lang="id">Film televisi yang mengangkat kisah romantisme kehidupan dengan konflik yang menarik. Tayang setiap hari.</desc>
     <icon src="https://thumbor.prod.vidiocdn.com/x0dW8svnPpUTnsGz-btow23IaC4=/287x162/filters:strip_icc():quality(70)/vidio-media-production/uploads/livestreaming/schedule/thumbnail/5027906/8c7d72.jpg"/>
   </programme>
@@ -277,7 +277,7 @@
     <icon src="https://thumbor.prod.vidiocdn.com/NIRRPeO4NOYY5C3nXcHUieEk1cE=/287x162/filters:strip_icc():quality(70)/vidio-media-production/uploads/livestreaming/schedule/thumbnail/5027907/ec0ae4.jpg"/>
   </programme>
   <programme channel="204" start="20260430083000 +0000" stop="20260430100000 +0000">
-    <title lang="id">FTV Sore: 33 Hari Aku Terjebak Rekayasa Cintamu</title>
+    <title lang="id">FTV Sore: Rindu Suara Dari Pisang Nugget</title>
     <desc lang="id">Film televisi yang mengangkat kisah romantisme kehidupan dengan konflik yang menarik. Tayang setiap hari.</desc>
     <icon src="https://thumbor.prod.vidiocdn.com/g3D0oAgH0yd8qn9Cu2dYrcbDNW0=/287x162/filters:strip_icc():quality(70)/vidio-media-production/uploads/livestreaming/schedule/thumbnail/5027908/bf81ad.jpg"/>
   </programme>
@@ -344,7 +344,7 @@
     <icon src="https://thumbor.prod.vidiocdn.com/N99E8BD1OJ5vvymwPBj0c-BU5J4=/287x162/filters:strip_icc():quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/image/204/sctv-5ef966.jpg"/>
   </programme>
   <programme channel="204" start="20260501010000 +0000" stop="20260501030000 +0000">
-    <title lang="id">FTV Pagi Spesial</title>
+    <title lang="id">FTV Pagi Spesial: Kupon Cinta Huoo Huoo Dibuang Sayang</title>
     <desc lang="id">Film televisi yang mengangkat kisah romantisme kehidupan dengan konflik yang menarik. Tayang setiap hari.</desc>
     <icon src="https://thumbor.prod.vidiocdn.com/N99E8BD1OJ5vvymwPBj0c-BU5J4=/287x162/filters:strip_icc():quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/image/204/sctv-5ef966.jpg"/>
   </programme>
@@ -358,17 +358,17 @@
     <icon src="https://thumbor.prod.vidiocdn.com/N99E8BD1OJ5vvymwPBj0c-BU5J4=/287x162/filters:strip_icc():quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/image/204/sctv-5ef966.jpg"/>
   </programme>
   <programme channel="204" start="20260501053000 +0000" stop="20260501070000 +0000">
-    <title lang="id">FTV Siang</title>
+    <title lang="id">FTV Siang: Cewek Pikun So Unforgettable</title>
     <desc lang="id">Film televisi yang mengangkat kisah romantisme kehidupan dengan konflik yang menarik. Tayang setiap hari.</desc>
     <icon src="https://thumbor.prod.vidiocdn.com/N99E8BD1OJ5vvymwPBj0c-BU5J4=/287x162/filters:strip_icc():quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/image/204/sctv-5ef966.jpg"/>
   </programme>
   <programme channel="204" start="20260501070000 +0000" stop="20260501083000 +0000">
-    <title lang="id">FTV Siang</title>
+    <title lang="id">FTV Siang: Cogan Jaksel Vs Eneng Jaktim</title>
     <desc lang="id">Film televisi yang mengangkat kisah romantisme kehidupan dengan konflik yang menarik. Tayang setiap hari.</desc>
     <icon src="https://thumbor.prod.vidiocdn.com/N99E8BD1OJ5vvymwPBj0c-BU5J4=/287x162/filters:strip_icc():quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/image/204/sctv-5ef966.jpg"/>
   </programme>
   <programme channel="204" start="20260501083000 +0000" stop="20260501100000 +0000">
-    <title lang="id">FTV Sore</title>
+    <title lang="id">FTV Sore: Aku Petok Petok Padamu</title>
     <desc lang="id">Film televisi yang mengangkat kisah romantisme kehidupan dengan konflik yang menarik. Tayang setiap hari.</desc>
     <icon src="https://thumbor.prod.vidiocdn.com/N99E8BD1OJ5vvymwPBj0c-BU5J4=/287x162/filters:strip_icc():quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/image/204/sctv-5ef966.jpg"/>
   </programme>
@@ -435,12 +435,12 @@
     <icon src="https://thumbor.prod.vidiocdn.com/N99E8BD1OJ5vvymwPBj0c-BU5J4=/287x162/filters:strip_icc():quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/image/204/sctv-5ef966.jpg"/>
   </programme>
   <programme channel="204" start="20260502000000 +0000" stop="20260502013000 +0000">
-    <title lang="id">Ftv Pagi Special</title>
+    <title lang="id">Ftv Pagi Special: Kalau Sayang Nikahin Aja</title>
     <desc lang="id">Film televisi yang mengangkat kisah romantisme kehidupan dengan konflik yang menarik. Tayang setiap hari.</desc>
     <icon src="https://thumbor.prod.vidiocdn.com/N99E8BD1OJ5vvymwPBj0c-BU5J4=/287x162/filters:strip_icc():quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/image/204/sctv-5ef966.jpg"/>
   </programme>
   <programme channel="204" start="20260502013000 +0000" stop="20260502030000 +0000">
-    <title lang="id">Ftv Pagi Special</title>
+    <title lang="id">Ftv Pagi Special: Sandiwara Cinta Pangeran Agung Sejagad</title>
     <desc lang="id">Film televisi yang mengangkat kisah romantisme kehidupan dengan konflik yang menarik. Tayang setiap hari.</desc>
     <icon src="https://thumbor.prod.vidiocdn.com/N99E8BD1OJ5vvymwPBj0c-BU5J4=/287x162/filters:strip_icc():quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/image/204/sctv-5ef966.jpg"/>
   </programme>
@@ -454,17 +454,17 @@
     <icon src="https://thumbor.prod.vidiocdn.com/N99E8BD1OJ5vvymwPBj0c-BU5J4=/287x162/filters:strip_icc():quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/image/204/sctv-5ef966.jpg"/>
   </programme>
   <programme channel="204" start="20260502053000 +0000" stop="20260502070000 +0000">
-    <title lang="id">Ftv Siang</title>
+    <title lang="id">Ftv Siang: Jodoh Gak Kemana Saingan Di Mana Mana</title>
     <desc lang="id">Film televisi yang mengangkat kisah romantisme kehidupan dengan konflik yang menarik. Tayang setiap hari.</desc>
     <icon src="https://thumbor.prod.vidiocdn.com/N99E8BD1OJ5vvymwPBj0c-BU5J4=/287x162/filters:strip_icc():quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/image/204/sctv-5ef966.jpg"/>
   </programme>
   <programme channel="204" start="20260502070000 +0000" stop="20260502083000 +0000">
-    <title lang="id">Ftv Siang</title>
+    <title lang="id">Ftv Siang: Brondong Caper Bikin Baper</title>
     <desc lang="id">Film televisi yang mengangkat kisah romantisme kehidupan dengan konflik yang menarik. Tayang setiap hari.</desc>
     <icon src="https://thumbor.prod.vidiocdn.com/N99E8BD1OJ5vvymwPBj0c-BU5J4=/287x162/filters:strip_icc():quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/image/204/sctv-5ef966.jpg"/>
   </programme>
   <programme channel="204" start="20260502083000 +0000" stop="20260502100000 +0000">
-    <title lang="id">Ftv Sore</title>
+    <title lang="id">Ftv Sore: Bidadari Em(p)ang Terbaiq</title>
     <desc lang="id">Film televisi yang mengangkat kisah romantisme kehidupan dengan konflik yang menarik. Tayang setiap hari.</desc>
     <icon src="https://thumbor.prod.vidiocdn.com/N99E8BD1OJ5vvymwPBj0c-BU5J4=/287x162/filters:strip_icc():quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/image/204/sctv-5ef966.jpg"/>
   </programme>
@@ -528,12 +528,12 @@
     <icon src="https://thumbor.prod.vidiocdn.com/N99E8BD1OJ5vvymwPBj0c-BU5J4=/287x162/filters:strip_icc():quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/image/204/sctv-5ef966.jpg"/>
   </programme>
   <programme channel="204" start="20260503000000 +0000" stop="20260503013000 +0000">
-    <title lang="id">Ftv Pagi Special</title>
+    <title lang="id">Ftv Pagi Special: Gue Yang Pdkt Nyokap Bokap Yang Pacaran</title>
     <desc lang="id">Film televisi yang mengangkat kisah romantisme kehidupan dengan konflik yang menarik. Tayang setiap hari.</desc>
     <icon src="https://thumbor.prod.vidiocdn.com/N99E8BD1OJ5vvymwPBj0c-BU5J4=/287x162/filters:strip_icc():quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/image/204/sctv-5ef966.jpg"/>
   </programme>
   <programme channel="204" start="20260503013000 +0000" stop="20260503030000 +0000">
-    <title lang="id">Ftv Pagi Special</title>
+    <title lang="id">Ftv Pagi Special: Jodohku Bikin Herman Cintanya Tidak Masuk Haikal</title>
     <desc lang="id">Film televisi yang mengangkat kisah romantisme kehidupan dengan konflik yang menarik. Tayang setiap hari.</desc>
     <icon src="https://thumbor.prod.vidiocdn.com/N99E8BD1OJ5vvymwPBj0c-BU5J4=/287x162/filters:strip_icc():quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/image/204/sctv-5ef966.jpg"/>
   </programme>
@@ -547,17 +547,17 @@
     <icon src="https://thumbor.prod.vidiocdn.com/N99E8BD1OJ5vvymwPBj0c-BU5J4=/287x162/filters:strip_icc():quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/image/204/sctv-5ef966.jpg"/>
   </programme>
   <programme channel="204" start="20260503053000 +0000" stop="20260503070000 +0000">
-    <title lang="id">Ftv Siang</title>
+    <title lang="id">Ftv Siang: Cowok Mreki Bikin Jatuh Hati</title>
     <desc lang="id">Film televisi yang mengangkat kisah romantisme kehidupan dengan konflik yang menarik. Tayang setiap hari.</desc>
     <icon src="https://thumbor.prod.vidiocdn.com/N99E8BD1OJ5vvymwPBj0c-BU5J4=/287x162/filters:strip_icc():quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/image/204/sctv-5ef966.jpg"/>
   </programme>
   <programme channel="204" start="20260503070000 +0000" stop="20260503083000 +0000">
-    <title lang="id">Ftv Siang</title>
+    <title lang="id">Ftv Siang: Bodyguard Pemberantas Kegalauan</title>
     <desc lang="id">Film televisi yang mengangkat kisah romantisme kehidupan dengan konflik yang menarik. Tayang setiap hari.</desc>
     <icon src="https://thumbor.prod.vidiocdn.com/N99E8BD1OJ5vvymwPBj0c-BU5J4=/287x162/filters:strip_icc():quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/image/204/sctv-5ef966.jpg"/>
   </programme>
   <programme channel="204" start="20260503083000 +0000" stop="20260503100000 +0000">
-    <title lang="id">Ftv Sore</title>
+    <title lang="id">Ftv Sore: Jodohku Tertukar Aku Rapopo</title>
     <desc lang="id">Film televisi yang mengangkat kisah romantisme kehidupan dengan konflik yang menarik. Tayang setiap hari.</desc>
     <icon src="https://thumbor.prod.vidiocdn.com/N99E8BD1OJ5vvymwPBj0c-BU5J4=/287x162/filters:strip_icc():quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/image/204/sctv-5ef966.jpg"/>
   </programme>
@@ -3870,12 +3870,12 @@
   <programme channel="1561" start="20260429083000 +0000" stop="20260429100000 +0000">
     <title lang="id">Ejen Ali</title>
     <desc lang="id">Serial Animasi Dengan Tokoh Utaman Bernama Ali Yang Tidak Sengaja Menjadi Agen Meta Advance Tactical Agency (Mata) Kemudian Dilatih Untuk Menjadi Agen Di Akademi Mata. Ali Membuktikan Diri Bahwa Ia Mampu Menjadi Agen Mata Dan Mengalahkan Musuh Bersama Alicia Dan Paman Bakar.</desc>
-    <icon src="https://thumbor.prod.vidiocdn.com/cNObLtZF_mY6ifeGa_XVEOggOaE=/287x162/filters:strip_icc():quality(70)/vidio-media-production/uploads/tv_program/thumbnail/381795/d9574b.jpg"/>
+    <icon src="https://thumbor.prod.vidiocdn.com/YkLeH6VCDlBLWMBJwSwjFi0L4kE=/287x162/filters:strip_icc():quality(70)/vidio-media-production/uploads/livestreaming/schedule/thumbnail/5024813/3ad411.jpg"/>
   </programme>
   <programme channel="1561" start="20260429100000 +0000" stop="20260429103000 +0000">
     <title lang="id">Teletubbies</title>
     <desc lang="id">Serial Reboot Atau Seri Baru Yang Diluncurkan Pada Tahun 2015 Di Inggris. Versi Ini Menghadirkan Kembali Karakter Ikonik Tinky Winky, Dipsy, Laa-Laa, Dan Po Di Teletubbyland Dengan Visual Yang Diperbarui, Menyapa Generasi Baru Penonton Prasekolah Dengan Nuansa Yang Lebih Modern.</desc>
-    <icon src="https://thumbor.prod.vidiocdn.com/t3kH69uTKMJbATwgkOSlzYNI1zA=/287x162/filters:strip_icc():quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/image/1561/rtv-48c719.jpg"/>
+    <icon src="https://thumbor.prod.vidiocdn.com/Ox2EckGfGzdRtkfnk5FTmZlHT8k=/287x162/filters:strip_icc():quality(70)/vidio-media-production/uploads/livestreaming/schedule/thumbnail/5024779/dbb6d8.jpg"/>
   </programme>
   <programme channel="1561" start="20260429103000 +0000" stop="20260429110000 +0000">
     <title lang="id">Tom &amp; Jerry</title>
@@ -10446,6 +10446,16 @@
     <desc lang="id">Nonton streaming pertandingan seru Round 1 - Mexico Riviera Maya Open at Mayakoba 2026. Saksikan aksi-aksi terbaik dari tim yang bersaing ketat untuk meraih kemenangan. Dapatkan informasi lengkap mengenai jadwal pertandingan dan hasil pertandingan terbaru hanya di Vidio.</desc>
     <icon src="https://thumbor.prod.vidiocdn.com/Wf_qdI9lcr9Xvd9d7mdX4AUakEI=/287x162/filters:strip_icc():quality(70)/vidio-media-production/uploads/livestreaming/schedule/thumbnail/5030182/8f67c7.jpg"/>
   </programme>
+  <programme channel="18190" start="20260501140000 +0000" stop="20260501170000 +0000">
+    <title lang="id">Round 2 - Mexico Riviera Maya Open at Mayakoba 2026</title>
+    <desc lang="id">Nonton streaming pertandingan seru Round 2 - Mexico Riviera Maya Open at Mayakoba 2026. Saksikan aksi-aksi terbaik dari tim yang bersaing ketat untuk meraih kemenangan. Dapatkan informasi lengkap mengenai jadwal pertandingan dan hasil pertandingan terbaru hanya di Vidio.</desc>
+    <icon src="https://thumbor.prod.vidiocdn.com/k8kYScc_xYGyR85bxnH9Dj6KTbM=/287x162/filters:strip_icc():quality(70)/vidio-media-production/uploads/livestreaming/schedule/thumbnail/5036143/e41f07.jpg"/>
+  </programme>
+  <programme channel="18190" start="20260501140000 +0000" stop="20260501170000 +0000">
+    <title lang="id">Round 2 - Mexico Riviera Maya Open at Mayakoba 2026</title>
+    <desc lang="id">Nonton streaming pertandingan seru Round 2 - Mexico Riviera Maya Open at Mayakoba 2026. Saksikan aksi-aksi terbaik dari tim yang bersaing ketat untuk meraih kemenangan. Dapatkan informasi lengkap mengenai jadwal pertandingan dan hasil pertandingan terbaru hanya di Vidio.</desc>
+    <icon src="https://thumbor.prod.vidiocdn.com/k8kYScc_xYGyR85bxnH9Dj6KTbM=/287x162/filters:strip_icc():quality(70)/vidio-media-production/uploads/livestreaming/schedule/thumbnail/5036143/e41f07.jpg"/>
+  </programme>
   <programme channel="18189" start="20260428160000 +0000" stop="20260428170000 +0000">
     <title lang="id">Zurich Classic of New Orleans</title>
     <desc lang="id">Highlight</desc>
@@ -11609,7 +11619,7 @@
   <programme channel="6786" start="20260430193000 +0000" stop="20260430213000 +0000">
     <title lang="id">Semifinal - WTA 1000: Mutua Madrid Open 2026</title>
     <desc lang="id">Nonton streaming pertandingan seru Semifinal - WTA 1000: Mutua Madrid Open 2026. Saksikan aksi-aksi terbaik dari tim yang bersaing ketat untuk meraih kemenangan. Dapatkan informasi lengkap mengenai jadwal pertandingan dan hasil pertandingan terbaru hanya di Vidio.</desc>
-    <icon src="https://thumbor.prod.vidiocdn.com/yQ4j4bhcjJv0kmbpkg5JTpeYK88=/287x162/filters:strip_icc():quality(70)/vidio-media-production/uploads/livestreaming/schedule/thumbnail/5036099/d2626e.jpg"/>
+    <icon src="https://thumbor.prod.vidiocdn.com/O8I6tcHj9FqCUSGvbPwjPLA4muY=/287x162/filters:strip_icc():quality(70)/vidio-media-production/uploads/livestreaming/schedule/thumbnail/5036099/5f5f35.jpg"/>
   </programme>
   <programme channel="6786" start="20260430213000 +0000" stop="20260430220000 +0000">
     <title lang="id">BJKC - Player Features : WTA my Story</title>
@@ -13213,14 +13223,14 @@
     <icon src="https://thumbor.prod.vidiocdn.com/xgkik6iws0EJ01bi5cJsIjYWjOM=/287x162/filters:strip_icc():quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/image/6686/champions-tv-2-681a27.jpg"/>
   </programme>
   <programme channel="6686" start="20260502150000 +0000" stop="20260502170000 +0000">
-    <title lang="id">MATCH 35 - FINAL : WTA 1000 MUTUA MADRID OPEN</title>
-    <desc lang="id">MATCH 35 FINAL</desc>
-    <icon src="https://thumbor.prod.vidiocdn.com/xgkik6iws0EJ01bi5cJsIjYWjOM=/287x162/filters:strip_icc():quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/image/6686/champions-tv-2-681a27.jpg"/>
+    <title lang="id">Final - WTA 1000: Mutua Madrid Open 2026</title>
+    <desc lang="id">Nonton streaming pertandingan seru Final - WTA 1000: Mutua Madrid Open 2026. Saksikan aksi-aksi terbaik dari tim yang bersaing ketat untuk meraih kemenangan. Dapatkan informasi lengkap mengenai jadwal pertandingan dan hasil pertandingan terbaru hanya di Vidio.</desc>
+    <icon src="https://thumbor.prod.vidiocdn.com/j5oTflrLD8QYr0nUtuMnsiP1N_k=/287x162/filters:strip_icc():quality(70)/vidio-media-production/uploads/livestreaming/schedule/thumbnail/5036144/cdbe95.jpg"/>
   </programme>
   <programme channel="6686" start="20260502150000 +0000" stop="20260502170000 +0000">
-    <title lang="id">MATCH 35 - FINAL : WTA 1000 MUTUA MADRID OPEN</title>
-    <desc lang="id">MATCH 35 FINAL</desc>
-    <icon src="https://thumbor.prod.vidiocdn.com/xgkik6iws0EJ01bi5cJsIjYWjOM=/287x162/filters:strip_icc():quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/image/6686/champions-tv-2-681a27.jpg"/>
+    <title lang="id">Final - WTA 1000: Mutua Madrid Open 2026</title>
+    <desc lang="id">Nonton streaming pertandingan seru Final - WTA 1000: Mutua Madrid Open 2026. Saksikan aksi-aksi terbaik dari tim yang bersaing ketat untuk meraih kemenangan. Dapatkan informasi lengkap mengenai jadwal pertandingan dan hasil pertandingan terbaru hanya di Vidio.</desc>
+    <icon src="https://thumbor.prod.vidiocdn.com/j5oTflrLD8QYr0nUtuMnsiP1N_k=/287x162/filters:strip_icc():quality(70)/vidio-media-production/uploads/livestreaming/schedule/thumbnail/5036144/cdbe95.jpg"/>
   </programme>
   <programme channel="6686" start="20260502170000 +0000" stop="20260502190000 +0000">
     <title lang="id">FAMALICAO VS BENFICA : PORTUGUESE LEAGUE 2025/26</title>
@@ -15108,25 +15118,20 @@
     <desc lang="id">Show 30 Matchweek 35</desc>
     <icon src="https://thumbor.prod.vidiocdn.com/r_QaZubFaj9Ht_TI2kDgdImcRqY=/287x162/filters:strip_icc():quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/image/9182/champions-tv-5-e0dd48.jpg"/>
   </programme>
-  <programme channel="9182" start="20260502140000 +0000" stop="20260502161000 +0000">
+  <programme channel="9182" start="20260502135000 +0000" stop="20260502160000 +0000">
     <title lang="id">Newcastle vs Brighton - Premier League</title>
     <desc lang="id">Nonton streaming pertandingan seru Newcastle vs Brighton - Premier League. Saksikan aksi-aksi terbaik dari tim yang bersaing ketat untuk meraih kemenangan. Dapatkan informasi lengkap mengenai jadwal pertandingan dan hasil pertandingan terbaru hanya di Vidio.</desc>
-    <icon src="https://thumbor.prod.vidiocdn.com/5Lx5uRO8DrR97eN-gism18FiINg=/287x162/filters:strip_icc():quality(70)/vidio-media-production/uploads/livestreaming/schedule/thumbnail/5036129/73906d.jpg"/>
+    <icon src="https://thumbor.prod.vidiocdn.com/--3FOwoFjrmECXNHsgjI1Mj8Mf4=/287x162/filters:strip_icc():quality(70)/vidio-media-production/uploads/livestreaming/schedule/thumbnail/5036133/341308.jpg"/>
   </programme>
-  <programme channel="9182" start="20260502161000 +0000" stop="20260502170000 +0000">
-    <title lang="id">[LIVE] ARSENAL vs FULHAM : [LIVE] PREMIER LEAGUE 2025/26</title>
-    <desc lang="id">ARSENAL vs FULHAM</desc>
-    <icon src="https://thumbor.prod.vidiocdn.com/r_QaZubFaj9Ht_TI2kDgdImcRqY=/287x162/filters:strip_icc():quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/image/9182/champions-tv-5-e0dd48.jpg"/>
+  <programme channel="9182" start="20260502160000 +0000" stop="20260502183000 +0000">
+    <title lang="id">Arsenal vs Fulham - Premier League</title>
+    <desc lang="id">Nonton streaming pertandingan seru Arsenal vs Fulham - Premier League. Saksikan aksi-aksi terbaik dari tim yang bersaing ketat untuk meraih kemenangan. Dapatkan informasi lengkap mengenai jadwal pertandingan dan hasil pertandingan terbaru hanya di Vidio.</desc>
+    <icon src="https://thumbor.prod.vidiocdn.com/p48Z76ApaUMinsVqpd8AomhjOBc=/287x162/filters:strip_icc():quality(70)/vidio-media-production/uploads/livestreaming/schedule/thumbnail/5036130/ff72ff.jpg"/>
   </programme>
-  <programme channel="9182" start="20260502161000 +0000" stop="20260502170000 +0000">
-    <title lang="id">[LIVE] ARSENAL vs FULHAM : [LIVE] PREMIER LEAGUE 2025/26</title>
-    <desc lang="id">ARSENAL vs FULHAM</desc>
-    <icon src="https://thumbor.prod.vidiocdn.com/r_QaZubFaj9Ht_TI2kDgdImcRqY=/287x162/filters:strip_icc():quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/image/9182/champions-tv-5-e0dd48.jpg"/>
-  </programme>
-  <programme channel="9182" start="20260502170000 +0000" stop="20260502183000 +0000">
-    <title lang="id">[LIVE] ARSENAL vs FULHAM : [LIVE] PREMIER LEAGUE 2025/26</title>
-    <desc lang="id">ARSENAL vs FULHAM</desc>
-    <icon src="https://thumbor.prod.vidiocdn.com/r_QaZubFaj9Ht_TI2kDgdImcRqY=/287x162/filters:strip_icc():quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/image/9182/champions-tv-5-e0dd48.jpg"/>
+  <programme channel="9182" start="20260502160000 +0000" stop="20260502183000 +0000">
+    <title lang="id">Arsenal vs Fulham - Premier League</title>
+    <desc lang="id">Nonton streaming pertandingan seru Arsenal vs Fulham - Premier League. Saksikan aksi-aksi terbaik dari tim yang bersaing ketat untuk meraih kemenangan. Dapatkan informasi lengkap mengenai jadwal pertandingan dan hasil pertandingan terbaru hanya di Vidio.</desc>
+    <icon src="https://thumbor.prod.vidiocdn.com/p48Z76ApaUMinsVqpd8AomhjOBc=/287x162/filters:strip_icc():quality(70)/vidio-media-production/uploads/livestreaming/schedule/thumbnail/5036130/ff72ff.jpg"/>
   </programme>
   <programme channel="9182" start="20260502183000 +0000" stop="20260502190000 +0000">
     <title lang="id">Eps 48 : PL Stories 2025-26</title>
@@ -15209,9 +15214,9 @@
     <icon src="https://thumbor.prod.vidiocdn.com/r_QaZubFaj9Ht_TI2kDgdImcRqY=/287x162/filters:strip_icc():quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/image/9182/champions-tv-5-e0dd48.jpg"/>
   </programme>
   <programme channel="9182" start="20260503140000 +0000" stop="20260503163000 +0000">
-    <title lang="id">[LIVE] MANCHESTER UNITED vs LIVERPOOL : [LIVE] PREMIER LEAGUE 2025/26</title>
-    <desc lang="id">MANCHESTER UNITED vsRPOOL</desc>
-    <icon src="https://thumbor.prod.vidiocdn.com/r_QaZubFaj9Ht_TI2kDgdImcRqY=/287x162/filters:strip_icc():quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/image/9182/champions-tv-5-e0dd48.jpg"/>
+    <title lang="id">Man United vs Liverpool - Premier League</title>
+    <desc lang="id">Nonton streaming pertandingan seru Man United vs Liverpool - Premier League. Saksikan aksi-aksi terbaik dari tim yang bersaing ketat untuk meraih kemenangan. Dapatkan informasi lengkap mengenai jadwal pertandingan dan hasil pertandingan terbaru hanya di Vidio.</desc>
+    <icon src="https://thumbor.prod.vidiocdn.com/LImaT_pMBxVY1YjwYHo1_ExRo7I=/287x162/filters:strip_icc():quality(70)/vidio-media-production/uploads/livestreaming/schedule/thumbnail/5036135/d2c6d2.jpg"/>
   </programme>
   <programme channel="9182" start="20260503163000 +0000" stop="20260503170000 +0000">
     <title lang="id">Eps 38 : THE BIG INTERVIEW 2025/26</title>
@@ -15583,10 +15588,10 @@
     <desc lang="id">Show 30 Matchweek 35</desc>
     <icon src="https://thumbor.prod.vidiocdn.com/_8JaTGtU2WYTw0ylulYg_dmz37Y=/287x162/filters:strip_icc():quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/image/9183/champions-tv-6-8a049a.jpg"/>
   </programme>
-  <programme channel="9183" start="20260502133000 +0000" stop="20260502160000 +0000">
-    <title lang="id">[LIVE] Brentford vs West Ham United : [LIVE] Premier League 2025/26</title>
-    <desc lang="id">Brentford vs West Ham United</desc>
-    <icon src="https://thumbor.prod.vidiocdn.com/_8JaTGtU2WYTw0ylulYg_dmz37Y=/287x162/filters:strip_icc():quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/image/9183/champions-tv-6-8a049a.jpg"/>
+  <programme channel="9183" start="20260502140000 +0000" stop="20260502160000 +0000">
+    <title lang="id">Brentford vs West Ham - Premier League</title>
+    <desc lang="id">Nonton streaming pertandingan seru Brentford vs West Ham - Premier League. Saksikan aksi-aksi terbaik dari tim yang bersaing ketat untuk meraih kemenangan. Dapatkan informasi lengkap mengenai jadwal pertandingan dan hasil pertandingan terbaru hanya di Vidio.</desc>
+    <icon src="https://thumbor.prod.vidiocdn.com/3pRGKTW0FoNLljfuy-1h6xTE9Oo=/287x162/filters:strip_icc():quality(70)/vidio-media-production/uploads/livestreaming/schedule/thumbnail/5036137/f9f6ea.jpg"/>
   </programme>
   <programme channel="9183" start="20260502160000 +0000" stop="20260502170000 +0000">
     <title lang="id">Matchweek 34 : PL REVIEW 2025/26</title>
@@ -15658,10 +15663,10 @@
     <desc lang="id">Show 30 Matchweek 35</desc>
     <icon src="https://thumbor.prod.vidiocdn.com/_8JaTGtU2WYTw0ylulYg_dmz37Y=/287x162/filters:strip_icc():quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/image/9183/champions-tv-6-8a049a.jpg"/>
   </programme>
-  <programme channel="9183" start="20260503123000 +0000" stop="20260503150000 +0000">
-    <title lang="id">[LIVE] Bournemouth vs Crystal Palace : [LIVE] Premier League 2025/26</title>
-    <desc lang="id">Bournemouth vs Crystal Palace</desc>
-    <icon src="https://thumbor.prod.vidiocdn.com/_8JaTGtU2WYTw0ylulYg_dmz37Y=/287x162/filters:strip_icc():quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/image/9183/champions-tv-6-8a049a.jpg"/>
+  <programme channel="9183" start="20260503130000 +0000" stop="20260503150000 +0000">
+    <title lang="id">Bournemouth vs Crystal Palace - Premier League</title>
+    <desc lang="id">Nonton streaming pertandingan seru Bournemouth vs Crystal Palace - Premier League. Saksikan aksi-aksi terbaik dari tim yang bersaing ketat untuk meraih kemenangan. Dapatkan informasi lengkap mengenai jadwal pertandingan dan hasil pertandingan terbaru hanya di Vidio.</desc>
+    <icon src="https://thumbor.prod.vidiocdn.com/XuhDBLSi7dsKpfwz5hTbDgkB_cE=/287x162/filters:strip_icc():quality(70)/vidio-media-production/uploads/livestreaming/schedule/thumbnail/5036140/4fc8f0.jpg"/>
   </programme>
   <programme channel="9183" start="20260503150000 +0000" stop="20260503153000 +0000">
     <title lang="id">HIGHLIGHT SHOW - SEMI FINAL : FA Cup 2025/26</title>
@@ -19497,10 +19502,10 @@
     <desc lang="id">The world's top show jumping riders compete across prestigious international venues, showcasing elite skill, speed, and championship drama throughout the season.</desc>
     <icon src="https://thumbor.prod.vidiocdn.com/YBK8XRc1cWJx0JfM3CWo6PnTfFY=/287x162/filters:strip_icc():quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/image/17139/spotv-c18c69.jpg"/>
   </programme>
-  <programme channel="17139" start="20260501184000 +0000" stop="20260501204500 +0000">
-    <title lang="id">Livingston vs Aberdeen : 25/26 Scottish Premiership Round 35</title>
-    <desc lang="id">Scotland's elite clubs return for the 2025/26 Premiership campaign, battling for European spots, survival, and the league championship.</desc>
-    <icon src="https://thumbor.prod.vidiocdn.com/YBK8XRc1cWJx0JfM3CWo6PnTfFY=/287x162/filters:strip_icc():quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/image/17139/spotv-c18c69.jpg"/>
+  <programme channel="17139" start="20260501184500 +0000" stop="20260501204500 +0000">
+    <title lang="id">Livingston vs Aberdeen - Scottish Premiership</title>
+    <desc lang="id">Nonton streaming pertandingan seru Livingston vs Aberdeen - Scottish Premiership. Saksikan aksi-aksi terbaik dari tim yang bersaing ketat untuk meraih kemenangan. Dapatkan informasi lengkap mengenai jadwal pertandingan dan hasil pertandingan terbaru hanya di Vidio.</desc>
+    <icon src="https://thumbor.prod.vidiocdn.com/eHDn8UGAs6IZZjQoSKl5E8-357Q=/287x162/filters:strip_icc():quality(70)/vidio-media-production/uploads/livestreaming/schedule/thumbnail/5036131/9c174d.jpg"/>
   </programme>
   <programme channel="17139" start="20260501204500 +0000" stop="20260501220000 +0000">
     <title lang="id">Highlights : 2026 LIV Golf League, Mexico City</title>
