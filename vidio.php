@@ -221,12 +221,12 @@
     <desc lang="id">Film televisi yang mengangkat kisah romantisme kehidupan dengan konflik yang menarik. Tayang setiap hari.</desc>
     <icon src="https://thumbor.prod.vidiocdn.com/N99E8BD1OJ5vvymwPBj0c-BU5J4=/287x162/filters:strip_icc():quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/image/204/sctv-5ef966.jpg"/>
   </programme>
-  <programme channel="204" start="20260429173000 +0000" stop="20260429190000 +0000">
+  <programme channel="204" start="20260429173000 +0000" stop="20260429184000 +0000">
     <title lang="id">FTV Utama: 25 Juta Buat Cintamu</title>
     <desc lang="id">Film televisi yang mengangkat kisah romantisme kehidupan dengan konflik yang menarik. Tayang setiap hari.</desc>
     <icon src="https://thumbor.prod.vidiocdn.com/N99E8BD1OJ5vvymwPBj0c-BU5J4=/287x162/filters:strip_icc():quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/image/204/sctv-5ef966.jpg"/>
   </programme>
-  <programme channel="204" start="20260429190000 +0000" stop="20260429210000 +0000">
+  <programme channel="204" start="20260429184000 +0000" stop="20260429210000 +0000">
     <title lang="id">Atletico Madrid Vs Arsenal - Semi Final Uefa Champions League - Live</title>
     <icon src="https://thumbor.prod.vidiocdn.com/N99E8BD1OJ5vvymwPBj0c-BU5J4=/287x162/filters:strip_icc():quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/image/204/sctv-5ef966.jpg"/>
   </programme>
@@ -10844,12 +10844,12 @@
     <desc lang="id">Gijon P2 Men</desc>
     <icon src="https://thumbor.prod.vidiocdn.com/VmoYokSeKr_3SubUXC-rMC-EtQM=/287x162/filters:strip_icc():quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/image/17875/bein-2-25a5f9.jpg"/>
   </programme>
-  <programme channel="17875" start="20260429175000 +0000" stop="20260429200000 +0000">
+  <programme channel="17875" start="20260429175000 +0000" stop="20260429200300 +0000">
     <title lang="id">Arsenal vs Leicester - Women's Super League</title>
     <desc lang="id">Nonton streaming pertandingan seru Arsenal vs Leicester - Women's Super League. Saksikan aksi-aksi terbaik dari tim yang bersaing ketat untuk meraih kemenangan. Dapatkan informasi lengkap mengenai jadwal pertandingan dan hasil pertandingan terbaru hanya di Vidio.</desc>
     <icon src="https://thumbor.prod.vidiocdn.com/brypDkpEogd3wt2QbhN202rU4-Q=/287x162/filters:strip_icc():quality(70)/vidio-media-production/uploads/livestreaming/schedule/thumbnail/5030180/4376d5.jpg"/>
   </programme>
-  <programme channel="17875" start="20260429200000 +0000" stop="20260429213000 +0000">
+  <programme channel="17875" start="20260429200300 +0000" stop="20260429213000 +0000">
     <title lang="id">Cancun P2 Day 4 QF Match 3 : Premier Padel 2026</title>
     <desc lang="id">Cancun P2 Day 4 QF Match 3</desc>
     <icon src="https://thumbor.prod.vidiocdn.com/VmoYokSeKr_3SubUXC-rMC-EtQM=/287x162/filters:strip_icc():quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/image/17875/bein-2-25a5f9.jpg"/>
