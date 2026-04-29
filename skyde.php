@@ -2558,22 +2558,22 @@
     <title>Admiral BL: 90in30: SCR - RBS, 29. Runde</title>
 </programme>
 <programme start="20260429110000 +0000" stop="20260429130000 +0000" channel="Sky Sport Austria 1 HD.skyde">
-    <title>Live WTA 1000: VF3, Mutua Madrid Open in Madrid (ESP), Viertelfinale 3</title>
+    <title>Live WTA 1000: A. Popatova (AUT) - K. Pliskova (CZE), Mutua Madrid Open in Madrid (ESP), Viertelfinale 3</title>
 </programme>
 <programme start="20260429130000 +0000" stop="20260429140000 +0000" channel="Sky Sport Austria 1 HD.skyde">
     <title>ATP 500: Review München</title>
 </programme>
 <programme start="20260429140000 +0000" stop="20260429160000 +0000" channel="Sky Sport Austria 1 HD.skyde">
-    <title>Live ATP 1000: VF1, Mutua Madrid Open in Madrid (ESP), Viertelfinale 1</title>
+    <title>Live ATP 1000: J. Sinner (ITA) - R. Jodar (ESP), Mutua Madrid Open in Madrid (ESP), Viertelfinale 1</title>
 </programme>
 <programme start="20260429160000 +0000" stop="20260429180000 +0000" channel="Sky Sport Austria 1 HD.skyde">
-    <title>WTA 1000: VF3, Mutua Madrid Open in Madrid (ESP), Viertelfinale 3</title>
+    <title>WTA 1000: A. Popatova (AUT) - K. Pliskova (CZE), Mutua Madrid Open in Madrid (ESP), Viertelfinale 3</title>
 </programme>
 <programme start="20260429180000 +0000" stop="20260429200000 +0000" channel="Sky Sport Austria 1 HD.skyde">
-    <title>Live WTA 1000: VF4, Mutua Madrid Open in Madrid (ESP), Viertelfinale 4</title>
+    <title>Live WTA 1000: L. Noskova (CZE) - M. Kostyuk (UKR), Mutua Madrid Open in Madrid (ESP), Viertelfinale 4</title>
 </programme>
 <programme start="20260429200000 +0000" stop="20260429220000 +0000" channel="Sky Sport Austria 1 HD.skyde">
-    <title>Live ATP 1000: VF2, Mutua Madrid Open in Madrid (ESP), Viertelfinale 2</title>
+    <title>Live ATP 1000: A. Fils (FRA) - J. Lehecka (CZE), Mutua Madrid Open in Madrid (ESP), Viertelfinale 2</title>
 </programme>
 <programme start="20260428220000 +0000" stop="20260428230000 +0000" channel="Sky Sport Bundesliga HD.skyde">
     <title>2. BL Kompakt: 31. Spieltag</title>
@@ -2818,26 +2818,35 @@
 <programme start="20260429010000 +0000" stop="20260429040000 +0000" channel="Sky Sport Golf HD.skyde">
     <title>Golf: The Chevron Championship, 4. Tag in Houston, TX (USA)</title>
 </programme>
-<programme start="20260429040000 +0000" stop="20260429060000 +0000" channel="Sky Sport Golf HD.skyde">
+<programme start="20260429040000 +0000" stop="20260429050000 +0000" channel="Sky Sport Golf HD.skyde">
+    <title>PGA Championship: Official Film 2000 (Tiger Woods)</title>
+</programme>
+<programme start="20260429050000 +0000" stop="20260429064500 +0000" channel="Sky Sport Golf HD.skyde">
     <title>Golf: The Chevron Championship, 1. Tag (Late Session) in Houston, TX (USA)</title>
 </programme>
-<programme start="20260429060000 +0000" stop="20260429080000 +0000" channel="Sky Sport Golf HD.skyde">
+<programme start="20260429064500 +0000" stop="20260429083000 +0000" channel="Sky Sport Golf HD.skyde">
     <title>Golf: The Chevron Championship, 1. Tag (Late Session) in Houston, TX (USA)</title>
 </programme>
-<programme start="20260429080000 +0000" stop="20260429110000 +0000" channel="Sky Sport Golf HD.skyde">
+<programme start="20260429083000 +0000" stop="20260429110000 +0000" channel="Sky Sport Golf HD.skyde">
     <title>Golf: The Chevron Championship, 3. Tag in Houston, TX (USA)</title>
 </programme>
 <programme start="20260429110000 +0000" stop="20260429140000 +0000" channel="Sky Sport Golf HD.skyde">
     <title>Golf: The Chevron Championship, 4. Tag in Houston, TX (USA)</title>
 </programme>
-<programme start="20260429140000 +0000" stop="20260429180000 +0000" channel="Sky Sport Golf HD.skyde">
+<programme start="20260429140000 +0000" stop="20260429170000 +0000" channel="Sky Sport Golf HD.skyde">
     <title>Golf Ladies ET: Investec South African Women&#039;s Open, 4. Tag in Kapstadt (Südafrika)</title>
 </programme>
-<programme start="20260429180000 +0000" stop="20260429190000 +0000" channel="Sky Sport Golf HD.skyde">
+<programme start="20260429170000 +0000" stop="20260429180000 +0000" channel="Sky Sport Golf HD.skyde">
     <title>Golf Ladies ET: Highlights Investec South African Women&#039;s Open</title>
 </programme>
-<programme start="20260429190000 +0000" stop="20260429220000 +0000" channel="Sky Sport Golf HD.skyde">
+<programme start="20260429180000 +0000" stop="20260429185500 +0000" channel="Sky Sport Golf HD.skyde">
+    <title>PGA Championship: Official Film 2010 (Martin Kaymer)</title>
+</programme>
+<programme start="20260429185500 +0000" stop="20260429214000 +0000" channel="Sky Sport Golf HD.skyde">
     <title>Asian Tour: Singapore Open, 4. Tag auf Sentosa (Singapur)</title>
+</programme>
+<programme start="20260429214000 +0000" stop="20260429223000 +0000" channel="Sky Sport Golf HD.skyde">
+    <title>Asian Tour: Highlights Singapore Open</title>
 </programme>
 <programme start="20260428220000 +0000" stop="20260429000000 +0000" channel="Sky Sport Mix HD.skyde">
     <title>DFB-Pokal: Bayer Leverkusen - FC Bayern München, Halbfinale</title>
@@ -2908,7 +2917,10 @@
 <programme start="20260429193000 +0000" stop="20260429200000 +0000" channel="Sky Sport Mix HD.skyde">
     <title>Fußball: scooore Portugal! Alle Tore</title>
 </programme>
-<programme start="20260429200000 +0000" stop="20260429220000 +0000" channel="Sky Sport Mix HD.skyde">
+<programme start="20260429200000 +0000" stop="20260429210000 +0000" channel="Sky Sport Mix HD.skyde">
+    <title>MotoGP: Highlights: GP Spanien</title>
+</programme>
+<programme start="20260429210000 +0000" stop="20260429230000 +0000" channel="Sky Sport Mix HD.skyde">
     <title>DFB-Pokal: VfB Stuttgart - SC Freiburg, Halbfinale</title>
 </programme>
 <programme start="20260428220000 +0000" stop="20260428230000 +0000" channel="Sky Sport News HD.skyde">
@@ -3079,55 +3091,49 @@
 <programme start="20260429210000 +0000" stop="20260429220000 +0000" channel="Sky Sport Premier League HD.skyde">
     <title>PL: GOATS (German Stars)</title>
 </programme>
-<programme start="20260428220000 +0000" stop="20260429000000 +0000" channel="Sky Sport Tennis HD.skyde">
-    <title>WTA 1000: tba - L. Fernandez (CAN), Mutua Madrid Open in Madrid (ESP), Viertelfinale 1</title>
+<programme start="20260428233000 +0000" stop="20260429013000 +0000" channel="Sky Sport Tennis HD.skyde">
+    <title>WTA 1000: L. Fernandez (CAN) - M. Andreeva, Mutua Madrid Open in Madrid (ESP), Viertelfinale 1</title>
 </programme>
-<programme start="20260429000000 +0000" stop="20260429020000 +0000" channel="Sky Sport Tennis HD.skyde">
-    <title>ATP 1000: Topspiel, Mutua Madrid Open in Madrid (ESP), 8. Tag</title>
+<programme start="20260429013000 +0000" stop="20260429033000 +0000" channel="Sky Sport Tennis HD.skyde">
+    <title>ATP 1000: A. Zverev (GER) - J. Mensik (CZE), Mutua Madrid Open in Madrid (ESP), 8. Tag</title>
 </programme>
-<programme start="20260429020000 +0000" stop="20260429040000 +0000" channel="Sky Sport Tennis HD.skyde">
+<programme start="20260429033000 +0000" stop="20260429040000 +0000" channel="Sky Sport Tennis HD.skyde">
     <title>WTA 1000: A. Sabalenka - H. Baptiste (USA), Mutua Madrid Open in Madrid (ESP), Viertelfinale 2</title>
 </programme>
 <programme start="20260429040000 +0000" stop="20260429043000 +0000" channel="Sky Sport Tennis HD.skyde">
     <title>ATP: This Week</title>
 </programme>
 <programme start="20260429043000 +0000" stop="20260429063000 +0000" channel="Sky Sport Tennis HD.skyde">
-    <title>ATP 1000: Topspiel, Mutua Madrid Open in Madrid (ESP), 8. Tag</title>
+    <title>ATP 1000: A. Zverev (GER) - J. Mensik (CZE), Mutua Madrid Open in Madrid (ESP), 8. Tag</title>
 </programme>
 <programme start="20260429063000 +0000" stop="20260429070000 +0000" channel="Sky Sport Tennis HD.skyde">
     <title>ATP: This Week</title>
 </programme>
 <programme start="20260429070000 +0000" stop="20260429090000 +0000" channel="Sky Sport Tennis HD.skyde">
-    <title>WTA 1000: tba - L. Fernandez (CAN), Mutua Madrid Open in Madrid (ESP), Viertelfinale 1</title>
+    <title>WTA 1000: L. Fernandez (CAN) - M. Andreeva, Mutua Madrid Open in Madrid (ESP), Viertelfinale 1</title>
 </programme>
 <programme start="20260429090000 +0000" stop="20260429110000 +0000" channel="Sky Sport Tennis HD.skyde">
     <title>WTA 1000: A. Sabalenka - H. Baptiste (USA), Mutua Madrid Open in Madrid (ESP), Viertelfinale 2</title>
 </programme>
 <programme start="20260429110000 +0000" stop="20260429130000 +0000" channel="Sky Sport Tennis HD.skyde">
-    <title>Live WTA 1000: VF3, Mutua Madrid Open in Madrid (ESP), Viertelfinale 3</title>
+    <title>Live WTA 1000: A. Popatova (AUT) - K. Pliskova (CZE), Mutua Madrid Open in Madrid (ESP), Viertelfinale 3</title>
 </programme>
 <programme start="20260429130000 +0000" stop="20260429140000 +0000" channel="Sky Sport Tennis HD.skyde">
     <title>ATP 500: Review München</title>
 </programme>
 <programme start="20260429140000 +0000" stop="20260429160000 +0000" channel="Sky Sport Tennis HD.skyde">
-    <title>Live ATP 1000: VF1, Mutua Madrid Open in Madrid (ESP), Viertelfinale 1</title>
+    <title>Live ATP 1000: J. Sinner (ITA) - R. Jodar (ESP), Mutua Madrid Open in Madrid (ESP), Viertelfinale 1</title>
 </programme>
 <programme start="20260429160000 +0000" stop="20260429180000 +0000" channel="Sky Sport Tennis HD.skyde">
-    <title>WTA 1000: VF3, Mutua Madrid Open in Madrid (ESP), Viertelfinale 3</title>
+    <title>WTA 1000: A. Popatova (AUT) - K. Pliskova (CZE), Mutua Madrid Open in Madrid (ESP), Viertelfinale 3</title>
 </programme>
 <programme start="20260429180000 +0000" stop="20260429200000 +0000" channel="Sky Sport Tennis HD.skyde">
-    <title>Live WTA 1000: VF4, Mutua Madrid Open in Madrid (ESP), Viertelfinale 4</title>
+    <title>Live WTA 1000: L. Noskova (CZE) - M. Kostyuk (UKR), Mutua Madrid Open in Madrid (ESP), Viertelfinale 4</title>
 </programme>
 <programme start="20260429200000 +0000" stop="20260429220000 +0000" channel="Sky Sport Tennis HD.skyde">
-    <title>Live ATP 1000: VF2, Mutua Madrid Open in Madrid (ESP), Viertelfinale 2</title>
+    <title>Live ATP 1000: A. Fils (FRA) - J. Lehecka (CZE), Mutua Madrid Open in Madrid (ESP), Viertelfinale 2</title>
 </programme>
-<programme start="20260428220000 +0000" stop="20260428223000 +0000" channel="Sky Sport Top Event HD.skyde">
-    <title>Fußball: scooore Niederlande! Alle Tore</title>
-</programme>
-<programme start="20260428223000 +0000" stop="20260428230000 +0000" channel="Sky Sport Top Event HD.skyde">
-    <title>PL: Netbusters, 34. Spieltag</title>
-</programme>
-<programme start="20260428230000 +0000" stop="20260429000000 +0000" channel="Sky Sport Top Event HD.skyde">
+<programme start="20260428233000 +0000" stop="20260429000000 +0000" channel="Sky Sport Top Event HD.skyde">
     <title>Live NBA: Showtime</title>
 </programme>
 <programme start="20260429000000 +0000" stop="20260429030000 +0000" channel="Sky Sport Top Event HD.skyde">
@@ -3155,25 +3161,22 @@
     <title>NHL: Highlights BOS@BUF, Playoffs, 1. Runde, Spiel 5</title>
 </programme>
 <programme start="20260429110000 +0000" stop="20260429130000 +0000" channel="Sky Sport Top Event HD.skyde">
-    <title>Live WTA 1000: VF3, Mutua Madrid Open in Madrid (ESP), Viertelfinale 3</title>
+    <title>Live WTA 1000: A. Popatova (AUT) - K. Pliskova (CZE), Mutua Madrid Open in Madrid (ESP), Viertelfinale 3</title>
 </programme>
 <programme start="20260429130000 +0000" stop="20260429140000 +0000" channel="Sky Sport Top Event HD.skyde">
     <title>ATP 500: Review München</title>
 </programme>
 <programme start="20260429140000 +0000" stop="20260429160000 +0000" channel="Sky Sport Top Event HD.skyde">
-    <title>Live ATP 1000: VF1, Mutua Madrid Open in Madrid (ESP), Viertelfinale 1</title>
+    <title>Live ATP 1000: J. Sinner (ITA) - R. Jodar (ESP), Mutua Madrid Open in Madrid (ESP), Viertelfinale 1</title>
 </programme>
 <programme start="20260429160000 +0000" stop="20260429180000 +0000" channel="Sky Sport Top Event HD.skyde">
-    <title>WTA 1000: VF3, Mutua Madrid Open in Madrid (ESP), Viertelfinale 3</title>
+    <title>WTA 1000: A. Popatova (AUT) - K. Pliskova (CZE), Mutua Madrid Open in Madrid (ESP), Viertelfinale 3</title>
 </programme>
 <programme start="20260429180000 +0000" stop="20260429200000 +0000" channel="Sky Sport Top Event HD.skyde">
-    <title>Live WTA 1000: VF4, Mutua Madrid Open in Madrid (ESP), Viertelfinale 4</title>
+    <title>Live WTA 1000: L. Noskova (CZE) - M. Kostyuk (UKR), Mutua Madrid Open in Madrid (ESP), Viertelfinale 4</title>
 </programme>
 <programme start="20260429200000 +0000" stop="20260429220000 +0000" channel="Sky Sport Top Event HD.skyde">
-    <title>Live ATP 1000: VF2, Mutua Madrid Open in Madrid (ESP), Viertelfinale 2</title>
-</programme>
-<programme start="20260428224000 +0000" stop="20260428230000 +0000" channel="Sky Sport 1 HD.skyde">
-    <title>Es folgt: LIVE NBA</title>
+    <title>Live ATP 1000: A. Fils (FRA) - J. Lehecka (CZE), Mutua Madrid Open in Madrid (ESP), Viertelfinale 2</title>
 </programme>
 <programme start="20260428230000 +0000" stop="20260429000000 +0000" channel="Sky Sport 1 HD.skyde">
     <title>Live NBA: Showtime</title>
@@ -3391,10 +3394,10 @@
 <programme start="20260429000500 +0000" stop="20260429002500 +0000" channel="Warner TV Comedy HD.skyde">
     <title>American Dad</title>
 </programme>
-<programme start="20260429002500 +0000" stop="20260429005000 +0000" channel="Warner TV Comedy HD.skyde">
+<programme start="20260429002500 +0000" stop="20260429004500 +0000" channel="Warner TV Comedy HD.skyde">
     <title>American Dad</title>
 </programme>
-<programme start="20260429005000 +0000" stop="20260429010000 +0000" channel="Warner TV Comedy HD.skyde">
+<programme start="20260429004500 +0000" stop="20260429010000 +0000" channel="Warner TV Comedy HD.skyde">
     <title>Robot Chicken</title>
 </programme>
 <programme start="20260429010000 +0000" stop="20260429011000 +0000" channel="Warner TV Comedy HD.skyde">
@@ -3424,10 +3427,10 @@
 <programme start="20260429032000 +0000" stop="20260429034500 +0000" channel="Warner TV Comedy HD.skyde">
     <title>Die Nanny</title>
 </programme>
-<programme start="20260429034500 +0000" stop="20260429041000 +0000" channel="Warner TV Comedy HD.skyde">
+<programme start="20260429034500 +0000" stop="20260429040500 +0000" channel="Warner TV Comedy HD.skyde">
     <title>Die Nanny</title>
 </programme>
-<programme start="20260429041000 +0000" stop="20260429043500 +0000" channel="Warner TV Comedy HD.skyde">
+<programme start="20260429040500 +0000" stop="20260429043500 +0000" channel="Warner TV Comedy HD.skyde">
     <title>Friends</title>
 </programme>
 <programme start="20260429043500 +0000" stop="20260429050000 +0000" channel="Warner TV Comedy HD.skyde">
@@ -3484,40 +3487,40 @@
 <programme start="20260429114000 +0000" stop="20260429120500 +0000" channel="Warner TV Comedy HD.skyde">
     <title>King of Queens</title>
 </programme>
-<programme start="20260429120500 +0000" stop="20260429123500 +0000" channel="Warner TV Comedy HD.skyde">
+<programme start="20260429120500 +0000" stop="20260429123000 +0000" channel="Warner TV Comedy HD.skyde">
     <title>King of Queens</title>
 </programme>
-<programme start="20260429123500 +0000" stop="20260429125500 +0000" channel="Warner TV Comedy HD.skyde">
+<programme start="20260429123000 +0000" stop="20260429125500 +0000" channel="Warner TV Comedy HD.skyde">
     <title>King of Queens</title>
 </programme>
 <programme start="20260429125500 +0000" stop="20260429132000 +0000" channel="Warner TV Comedy HD.skyde">
     <title>King of Queens</title>
 </programme>
-<programme start="20260429132000 +0000" stop="20260429135000 +0000" channel="Warner TV Comedy HD.skyde">
+<programme start="20260429132000 +0000" stop="20260429134500 +0000" channel="Warner TV Comedy HD.skyde">
     <title>King of Queens</title>
 </programme>
-<programme start="20260429135000 +0000" stop="20260429141500 +0000" channel="Warner TV Comedy HD.skyde">
+<programme start="20260429134500 +0000" stop="20260429141500 +0000" channel="Warner TV Comedy HD.skyde">
     <title>King of Queens</title>
 </programme>
 <programme start="20260429141500 +0000" stop="20260429144000 +0000" channel="Warner TV Comedy HD.skyde">
     <title>King of Queens</title>
 </programme>
-<programme start="20260429144000 +0000" stop="20260429150500 +0000" channel="Warner TV Comedy HD.skyde">
+<programme start="20260429144000 +0000" stop="20260429150000 +0000" channel="Warner TV Comedy HD.skyde">
     <title>Two and a Half Men</title>
 </programme>
-<programme start="20260429150500 +0000" stop="20260429152500 +0000" channel="Warner TV Comedy HD.skyde">
+<programme start="20260429150000 +0000" stop="20260429152500 +0000" channel="Warner TV Comedy HD.skyde">
     <title>Two and a Half Men</title>
 </programme>
-<programme start="20260429152500 +0000" stop="20260429155000 +0000" channel="Warner TV Comedy HD.skyde">
+<programme start="20260429152500 +0000" stop="20260429154500 +0000" channel="Warner TV Comedy HD.skyde">
     <title>Two and a Half Men</title>
 </programme>
-<programme start="20260429155000 +0000" stop="20260429161500 +0000" channel="Warner TV Comedy HD.skyde">
+<programme start="20260429154500 +0000" stop="20260429161000 +0000" channel="Warner TV Comedy HD.skyde">
     <title>2 Broke Girls</title>
 </programme>
-<programme start="20260429161500 +0000" stop="20260429164000 +0000" channel="Warner TV Comedy HD.skyde">
+<programme start="20260429161000 +0000" stop="20260429163500 +0000" channel="Warner TV Comedy HD.skyde">
     <title>2 Broke Girls</title>
 </programme>
-<programme start="20260429164000 +0000" stop="20260429170000 +0000" channel="Warner TV Comedy HD.skyde">
+<programme start="20260429163500 +0000" stop="20260429170000 +0000" channel="Warner TV Comedy HD.skyde">
     <title>The Big Bang Theory</title>
 </programme>
 <programme start="20260429170000 +0000" stop="20260429172500 +0000" channel="Warner TV Comedy HD.skyde">
@@ -3547,16 +3550,16 @@
 <programme start="20260429202000 +0000" stop="20260429204500 +0000" channel="Warner TV Comedy HD.skyde">
     <title>American Dad</title>
 </programme>
-<programme start="20260429204500 +0000" stop="20260429210500 +0000" channel="Warner TV Comedy HD.skyde">
+<programme start="20260429204500 +0000" stop="20260429211000 +0000" channel="Warner TV Comedy HD.skyde">
     <title>American Dad</title>
 </programme>
-<programme start="20260429210500 +0000" stop="20260429213000 +0000" channel="Warner TV Comedy HD.skyde">
+<programme start="20260429211000 +0000" stop="20260429213000 +0000" channel="Warner TV Comedy HD.skyde">
     <title>American Dad</title>
 </programme>
-<programme start="20260429213000 +0000" stop="20260429215000 +0000" channel="Warner TV Comedy HD.skyde">
+<programme start="20260429213000 +0000" stop="20260429215500 +0000" channel="Warner TV Comedy HD.skyde">
     <title>American Dad</title>
 </programme>
-<programme start="20260429215000 +0000" stop="20260429221500 +0000" channel="Warner TV Comedy HD.skyde">
+<programme start="20260429215500 +0000" stop="20260429222000 +0000" channel="Warner TV Comedy HD.skyde">
     <title>2 Broke Girls</title>
 </programme>
 <programme start="20260428221000 +0000" stop="20260428234000 +0000" channel="Warner TV Film.skyde">

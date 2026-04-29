@@ -4825,7 +4825,10 @@
 <programme start="20260429040000 +0000" stop="20260429060000 +0000" channel="iNews.mncvision">
     <title>iNews Siang (L)</title>
 </programme>
-<programme start="20260429060000 +0000" stop="20260429083000 +0000" channel="iNews.mncvision">
+<programme start="20260429060000 +0000" stop="20260429063000 +0000" channel="iNews.mncvision">
+    <title>Speak After Lunch</title>
+</programme>
+<programme start="20260429063000 +0000" stop="20260429083000 +0000" channel="iNews.mncvision">
     <title>Konflik Timur Tengah (L)</title>
 </programme>
 <programme start="20260429083000 +0000" stop="20260429093000 +0000" channel="iNews.mncvision">
@@ -4849,8 +4852,11 @@
 <programme start="20260429140000 +0000" stop="20260429150000 +0000" channel="iNews.mncvision">
     <title>iNews Prime (L)</title>
 </programme>
-<programme start="20260429150000 +0000" stop="20260429153000 +0000" channel="iNews.mncvision">
+<programme start="20260429150000 +0000" stop="20260429160000 +0000" channel="iNews.mncvision">
     <title>Konflik Timur Tengah (L)</title>
+</programme>
+<programme start="20260429160000 +0000" stop="20260429163000 +0000" channel="iNews.mncvision">
+    <title>ACL Elite 2025/26: AHL Vs MZE</title>
 </programme>
 <programme start="20260428170000 +0000" stop="20260428173000 +0000" channel="iNews HD.mncvision">
     <title>iNews Sport</title>
@@ -4888,7 +4894,10 @@
 <programme start="20260429040000 +0000" stop="20260429060000 +0000" channel="iNews HD.mncvision">
     <title>iNews Siang (L)</title>
 </programme>
-<programme start="20260429060000 +0000" stop="20260429083000 +0000" channel="iNews HD.mncvision">
+<programme start="20260429060000 +0000" stop="20260429063000 +0000" channel="iNews HD.mncvision">
+    <title>Speak After Lunch</title>
+</programme>
+<programme start="20260429063000 +0000" stop="20260429083000 +0000" channel="iNews HD.mncvision">
     <title>Konflik Timur Tengah (L)</title>
 </programme>
 <programme start="20260429083000 +0000" stop="20260429093000 +0000" channel="iNews HD.mncvision">
@@ -4912,8 +4921,11 @@
 <programme start="20260429140000 +0000" stop="20260429150000 +0000" channel="iNews HD.mncvision">
     <title>iNews Prime (L)</title>
 </programme>
-<programme start="20260429150000 +0000" stop="20260429153000 +0000" channel="iNews HD.mncvision">
+<programme start="20260429150000 +0000" stop="20260429160000 +0000" channel="iNews HD.mncvision">
     <title>Konflik Timur Tengah (L)</title>
+</programme>
+<programme start="20260429160000 +0000" stop="20260429163000 +0000" channel="iNews HD.mncvision">
+    <title>ACL Elite 2025/26: AHL Vs MZE</title>
 </programme>
 <programme start="20260428220000 +0000" stop="20260428223000 +0000" channel="JAKTV.mncvision">
     <title>Senyum Quran</title>
@@ -7537,8 +7549,132 @@
 <programme start="20260429160000 +0000" stop="20260429163000 +0000" channel="RCTI HD.mncvision">
     <title>Love Scam</title>
 </programme>
-Error: Unable to fetch data. HTTP Status Code: 500
-Error: Unable to fetch data. HTTP Status Code: 500
+<programme start="20260428170000 +0000" stop="20260428184000 +0000" channel="Rock Action.mncvision">
+    <title>War</title>
+</programme>
+<programme start="20260428184000 +0000" stop="20260428202500 +0000" channel="Rock Action.mncvision">
+    <title>The Kingdom</title>
+</programme>
+<programme start="20260428202500 +0000" stop="20260428221000 +0000" channel="Rock Action.mncvision">
+    <title>Dante&#039;s Peak</title>
+</programme>
+<programme start="20260428221000 +0000" stop="20260428234000 +0000" channel="Rock Action.mncvision">
+    <title>Pandemic, Pt 1</title>
+</programme>
+<programme start="20260428234000 +0000" stop="20260429011000 +0000" channel="Rock Action.mncvision">
+    <title>Pandemic, Pt 2</title>
+</programme>
+<programme start="20260429011000 +0000" stop="20260429025000 +0000" channel="Rock Action.mncvision">
+    <title>The Librarian: King Solomon</title>
+</programme>
+<programme start="20260429025000 +0000" stop="20260429044000 +0000" channel="Rock Action.mncvision">
+    <title>The Huntsman: Winter&#039;s War</title>
+</programme>
+<programme start="20260429044000 +0000" stop="20260429064000 +0000" channel="Rock Action.mncvision">
+    <title>Jurassic World</title>
+</programme>
+<programme start="20260429064000 +0000" stop="20260429081500 +0000" channel="Rock Action.mncvision">
+    <title>The Librarian: King Solomon</title>
+</programme>
+<programme start="20260429081500 +0000" stop="20260429095500 +0000" channel="Rock Action.mncvision">
+    <title>Get Out</title>
+</programme>
+<programme start="20260429095500 +0000" stop="20260429112500 +0000" channel="Rock Action.mncvision">
+    <title>Pandemic, Pt 1</title>
+</programme>
+<programme start="20260429112500 +0000" stop="20260429125500 +0000" channel="Rock Action.mncvision">
+    <title>Pandemic, Pt 2</title>
+</programme>
+<programme start="20260429125500 +0000" stop="20260429144000 +0000" channel="Rock Action.mncvision">
+    <title>Dante&#039;s Peak</title>
+</programme>
+<programme start="20260429144000 +0000" stop="20260429162500 +0000" channel="Rock Action.mncvision">
+    <title>The Kingdom</title>
+</programme>
+<programme start="20260429162500 +0000" stop="20260429165500 +0000" channel="Rock Action.mncvision">
+    <title>The Huntsman: Winter&#039;s War</title>
+</programme>
+<programme start="20260428173000 +0000" stop="20260428182500 +0000" channel="Rock Entertainment.mncvision">
+    <title>The Wheel Of Time, Ep 3</title>
+</programme>
+<programme start="20260428182500 +0000" stop="20260428193000 +0000" channel="Rock Entertainment.mncvision">
+    <title>The Wheel Of Time, Ep 4</title>
+</programme>
+<programme start="20260428193000 +0000" stop="20260428202000 +0000" channel="Rock Entertainment.mncvision">
+    <title>NCIS S21, Ep 3</title>
+</programme>
+<programme start="20260428202000 +0000" stop="20260428211000 +0000" channel="Rock Entertainment.mncvision">
+    <title>NCIS S21, Ep 4</title>
+</programme>
+<programme start="20260428211000 +0000" stop="20260428220000 +0000" channel="Rock Entertainment.mncvision">
+    <title>NCIS S21, Ep 5</title>
+</programme>
+<programme start="20260428220000 +0000" stop="20260428224500 +0000" channel="Rock Entertainment.mncvision">
+    <title>Late Night With... S13, Ep 90</title>
+</programme>
+<programme start="20260428224500 +0000" stop="20260428233000 +0000" channel="Rock Entertainment.mncvision">
+    <title>The Tonight Show S13, Ep 95</title>
+</programme>
+<programme start="20260428233000 +0000" stop="20260429003000 +0000" channel="Rock Entertainment.mncvision">
+    <title>The Wheel Of Time, Ep 1</title>
+</programme>
+<programme start="20260429003000 +0000" stop="20260429013500 +0000" channel="Rock Entertainment.mncvision">
+    <title>The Wheel Of Time, Ep 2</title>
+</programme>
+<programme start="20260429013500 +0000" stop="20260429023500 +0000" channel="Rock Entertainment.mncvision">
+    <title>The Wheel Of Time, Ep 3</title>
+</programme>
+<programme start="20260429023500 +0000" stop="20260429033500 +0000" channel="Rock Entertainment.mncvision">
+    <title>The Wheel Of Time, Ep 4</title>
+</programme>
+<programme start="20260429033500 +0000" stop="20260429042000 +0000" channel="Rock Entertainment.mncvision">
+    <title>Below Deck Mediterranean, Ep 17</title>
+</programme>
+<programme start="20260429042000 +0000" stop="20260429050500 +0000" channel="Rock Entertainment.mncvision">
+    <title>The Tonight Show S13, Ep 95</title>
+</programme>
+<programme start="20260429050500 +0000" stop="20260429055000 +0000" channel="Rock Entertainment.mncvision">
+    <title>Late Night With... S13, Ep 90</title>
+</programme>
+<programme start="20260429055000 +0000" stop="20260429063500 +0000" channel="Rock Entertainment.mncvision">
+    <title>NCIS S21, Ep 5</title>
+</programme>
+<programme start="20260429063500 +0000" stop="20260429072000 +0000" channel="Rock Entertainment.mncvision">
+    <title>NCIS S21, Ep 6</title>
+</programme>
+<programme start="20260429072000 +0000" stop="20260429080500 +0000" channel="Rock Entertainment.mncvision">
+    <title>NCIS S21, Ep 7</title>
+</programme>
+<programme start="20260429080500 +0000" stop="20260429085000 +0000" channel="Rock Entertainment.mncvision">
+    <title>NCIS S21, Ep 8</title>
+</programme>
+<programme start="20260429085000 +0000" stop="20260429102000 +0000" channel="Rock Entertainment.mncvision">
+    <title>Jack Taylor: Magdalen Martyrs</title>
+</programme>
+<programme start="20260429102000 +0000" stop="20260429112500 +0000" channel="Rock Entertainment.mncvision">
+    <title>DOC: In Your Hands S3, Ep 15</title>
+</programme>
+<programme start="20260429112500 +0000" stop="20260429122500 +0000" channel="Rock Entertainment.mncvision">
+    <title>DOC: In Your Hands S3, Ep 16</title>
+</programme>
+<programme start="20260429122500 +0000" stop="20260429133000 +0000" channel="Rock Entertainment.mncvision">
+    <title>DOC: In Your Hands S3, Ep 15</title>
+</programme>
+<programme start="20260429133000 +0000" stop="20260429143000 +0000" channel="Rock Entertainment.mncvision">
+    <title>DOC: In Your Hands S3, Ep 16</title>
+</programme>
+<programme start="20260429143000 +0000" stop="20260429151500 +0000" channel="Rock Entertainment.mncvision">
+    <title>Buried In The Backyard S6, Ep 7</title>
+</programme>
+<programme start="20260429151500 +0000" stop="20260429160000 +0000" channel="Rock Entertainment.mncvision">
+    <title>The Tonight Show S13, Ep 96</title>
+</programme>
+<programme start="20260429160000 +0000" stop="20260429164500 +0000" channel="Rock Entertainment.mncvision">
+    <title>Late Night With... S13, Ep 91</title>
+</programme>
+<programme start="20260429164500 +0000" stop="20260428171500 +0000" channel="Rock Entertainment.mncvision">
+    <title>Buried In The Backyard S6, Ep 7</title>
+</programme>
 <programme start="20260428171800 +0000" stop="20260428183500 +0000" channel="SCTV.mncvision">
     <title>Suka-Sukamu Nona Manis</title>
 </programme>
@@ -7791,7 +7927,51 @@ Error: Unable to fetch data. HTTP Status Code: 500
 <programme start="20260429163000 +0000" stop="20260428170000 +0000" channel="Sindo News TV HD.mncvision">
     <title>E-Max</title>
 </programme>
-Error: Unable to fetch data. HTTP Status Code: 500
+<programme start="20260428183000 +0000" stop="20260428203000 +0000" channel="Soccer Channel.mncvision">
+    <title>Road To AFF 2026: TLS Vs THA</title>
+</programme>
+<programme start="20260428203000 +0000" stop="20260428210000 +0000" channel="Soccer Channel.mncvision">
+    <title>The Ultimate Goals</title>
+</programme>
+<programme start="20260428210000 +0000" stop="20260428230000 +0000" channel="Soccer Channel.mncvision">
+    <title>Garuda Di Tangan Dingin STY</title>
+</programme>
+<programme start="20260428230000 +0000" stop="20260429010000 +0000" channel="Soccer Channel.mncvision">
+    <title>Road To AFF 2026: MYA Vs IDN</title>
+</programme>
+<programme start="20260429010000 +0000" stop="20260429013000 +0000" channel="Soccer Channel.mncvision">
+    <title>Top Goals</title>
+</programme>
+<programme start="20260429013000 +0000" stop="20260429033000 +0000" channel="Soccer Channel.mncvision">
+    <title>Bundesliga 2025/26: FCB Vs RBL</title>
+</programme>
+<programme start="20260429033000 +0000" stop="20260429040000 +0000" channel="Soccer Channel.mncvision">
+    <title>The Ultimate Goals</title>
+</programme>
+<programme start="20260429040000 +0000" stop="20260429060000 +0000" channel="Soccer Channel.mncvision">
+    <title>ACL Two: BKU Vs PSB</title>
+</programme>
+<programme start="20260429060000 +0000" stop="20260429080000 +0000" channel="Soccer Channel.mncvision">
+    <title>Garuda Di Tangan Dingin STY</title>
+</programme>
+<programme start="20260429080000 +0000" stop="20260429100000 +0000" channel="Soccer Channel.mncvision">
+    <title>Bundesliga 2025/26: LEV Vs TSG</title>
+</programme>
+<programme start="20260429100000 +0000" stop="20260429103000 +0000" channel="Soccer Channel.mncvision">
+    <title>Top Goals</title>
+</programme>
+<programme start="20260429103000 +0000" stop="20260429123000 +0000" channel="Soccer Channel.mncvision">
+    <title>Road To AFF 2026: MYA Vs IDN</title>
+</programme>
+<programme start="20260429123000 +0000" stop="20260429143000 +0000" channel="Soccer Channel.mncvision">
+    <title>Garuda Di Tangan Dingin STY</title>
+</programme>
+<programme start="20260429143000 +0000" stop="20260429163000 +0000" channel="Soccer Channel.mncvision">
+    <title>Bundesliga 2025/26: STP Vs BVB</title>
+</programme>
+<programme start="20260429163000 +0000" stop="20260428170000 +0000" channel="Soccer Channel.mncvision">
+    <title>ACL Two: PSB Vs SEL</title>
+</programme>
 <programme start="20260428183000 +0000" stop="20260428203000 +0000" channel="Soccer Channel HD.mncvision">
     <title>Road To AFF 2026: TLS Vs THA</title>
 </programme>
@@ -9395,7 +9575,7 @@ Error: Unable to fetch data. HTTP Status Code: 500
     <title>Just Wanna Say I Love U</title>
 </programme>
 <programme start="20260429143000 +0000" stop="20260429150000 +0000" channel="Vision Prime.mncvision">
-    <title>Dua Alam: Moseleum Van...</title>
+    <title>Dua Alam: Villa Kaliurang</title>
 </programme>
 <programme start="20260429150000 +0000" stop="20260429153000 +0000" channel="Vision Prime.mncvision">
     <title>99 Nama Cinta</title>
@@ -9470,7 +9650,7 @@ Error: Unable to fetch data. HTTP Status Code: 500
     <title>Just Wanna Say I Love U</title>
 </programme>
 <programme start="20260429143000 +0000" stop="20260429150000 +0000" channel="Vision Prime HD.mncvision">
-    <title>Dua Alam: Moseleum Van...</title>
+    <title>Dua Alam: Villa Kaliurang</title>
 </programme>
 <programme start="20260429150000 +0000" stop="20260429153000 +0000" channel="Vision Prime HD.mncvision">
     <title>99 Nama Cinta</title>
