@@ -2428,6 +2428,96 @@
 <programme start="20260429212500 +0000" stop="20260429221000 +0000" channel="Sky One HD.skyde">
     <title>Navy CIS</title>
 </programme>
+<programme start="20260428222500 +0000" stop="20260428230000 +0000" channel="Sky Showcase HD.skyde">
+    <title>Yeliz &amp; Jimi: We are Family?!</title>
+</programme>
+<programme start="20260428230000 +0000" stop="20260428235000 +0000" channel="Sky Showcase HD.skyde">
+    <title>Mord mit Aussicht</title>
+</programme>
+<programme start="20260428235000 +0000" stop="20260429004000 +0000" channel="Sky Showcase HD.skyde">
+    <title>Mord mit Aussicht</title>
+</programme>
+<programme start="20260429004000 +0000" stop="20260429012500 +0000" channel="Sky Showcase HD.skyde">
+    <title>Die Rosenheim-Cops</title>
+</programme>
+<programme start="20260429012500 +0000" stop="20260429021000 +0000" channel="Sky Showcase HD.skyde">
+    <title>Die Rosenheim-Cops</title>
+</programme>
+<programme start="20260429021000 +0000" stop="20260429025500 +0000" channel="Sky Showcase HD.skyde">
+    <title>SOKO Wien</title>
+</programme>
+<programme start="20260429025500 +0000" stop="20260429034000 +0000" channel="Sky Showcase HD.skyde">
+    <title>SOKO Wien</title>
+</programme>
+<programme start="20260429034000 +0000" stop="20260429043000 +0000" channel="Sky Showcase HD.skyde">
+    <title>Baby-Tiere</title>
+</programme>
+<programme start="20260429043000 +0000" stop="20260429051500 +0000" channel="Sky Showcase HD.skyde">
+    <title>Animal Park: Zoo-Geschichten aus Longleat</title>
+</programme>
+<programme start="20260429051500 +0000" stop="20260429060500 +0000" channel="Sky Showcase HD.skyde">
+    <title>Animal Park: Zoo-Geschichten aus Longleat</title>
+</programme>
+<programme start="20260429060500 +0000" stop="20260429065000 +0000" channel="Sky Showcase HD.skyde">
+    <title>SOKO Wien</title>
+</programme>
+<programme start="20260429065000 +0000" stop="20260429073500 +0000" channel="Sky Showcase HD.skyde">
+    <title>SOKO Wien</title>
+</programme>
+<programme start="20260429073500 +0000" stop="20260429082500 +0000" channel="Sky Showcase HD.skyde">
+    <title>Die Rosenheim-Cops</title>
+</programme>
+<programme start="20260429082500 +0000" stop="20260429091500 +0000" channel="Sky Showcase HD.skyde">
+    <title>Die Rosenheim-Cops</title>
+</programme>
+<programme start="20260429091500 +0000" stop="20260429100000 +0000" channel="Sky Showcase HD.skyde">
+    <title>The Real Murders of Atlanta</title>
+</programme>
+<programme start="20260429100000 +0000" stop="20260429104500 +0000" channel="Sky Showcase HD.skyde">
+    <title>The Real Murders of Atlanta</title>
+</programme>
+<programme start="20260429104500 +0000" stop="20260429113500 +0000" channel="Sky Showcase HD.skyde">
+    <title>In Seenot</title>
+</programme>
+<programme start="20260429113500 +0000" stop="20260429122500 +0000" channel="Sky Showcase HD.skyde">
+    <title>In Seenot</title>
+</programme>
+<programme start="20260429122500 +0000" stop="20260429131500 +0000" channel="Sky Showcase HD.skyde">
+    <title>Mord mit Aussicht</title>
+</programme>
+<programme start="20260429131500 +0000" stop="20260429141000 +0000" channel="Sky Showcase HD.skyde">
+    <title>Mord mit Aussicht</title>
+</programme>
+<programme start="20260429141000 +0000" stop="20260429150500 +0000" channel="Sky Showcase HD.skyde">
+    <title>Mord mit Aussicht</title>
+</programme>
+<programme start="20260429150500 +0000" stop="20260429155500 +0000" channel="Sky Showcase HD.skyde">
+    <title>Mord mit Aussicht</title>
+</programme>
+<programme start="20260429155500 +0000" stop="20260429164000 +0000" channel="Sky Showcase HD.skyde">
+    <title>The Rookie</title>
+</programme>
+<programme start="20260429164000 +0000" stop="20260429172500 +0000" channel="Sky Showcase HD.skyde">
+    <title>The Rookie</title>
+</programme>
+<programme start="20260429172500 +0000" stop="20260429181500 +0000" channel="Sky Showcase HD.skyde">
+    <title>Navy CIS</title>
+</programme>
+<programme start="20260429181500 +0000" stop="20260429190000 +0000" channel="Sky Showcase HD.skyde">
+    <title>The Rookie</title>
+</programme>
+<programme start="20260429190000 +0000" stop="20260429195500 +0000" channel="Sky Showcase HD.skyde">
+    <title>Earth - Die frühe Erde</title>
+</programme>
+<programme start="20260429195500 +0000" stop="20260429205000 +0000" channel="Sky Showcase HD.skyde">
+    <title>Earth - Die frühe Erde</title>
+</programme>
+<programme start="20260429205000 +0000" stop="20260429214500 +0000" channel="Sky Showcase HD.skyde">
+    <title>Earth - Die frühe Erde</title>
+</programme>
+<programme start="20260429214500 +0000" stop="20260429224000 +0000" channel="Sky Showcase HD.skyde">
+    <title>Earth - Die frühe Erde</title>
+</programme>
 <programme start="20260428234500 +0000" stop="20260429001500 +0000" channel="Sky Sport Austria 1 HD.skyde">
     <title>Die UEFA CL am Dienstag: Analyse</title>
 </programme>
@@ -2728,35 +2818,26 @@
 <programme start="20260429010000 +0000" stop="20260429040000 +0000" channel="Sky Sport Golf HD.skyde">
     <title>Golf: The Chevron Championship, 4. Tag in Houston, TX (USA)</title>
 </programme>
-<programme start="20260429040000 +0000" stop="20260429050000 +0000" channel="Sky Sport Golf HD.skyde">
-    <title>PGA Championship: Official Film 2000 (Tiger Woods)</title>
-</programme>
-<programme start="20260429050000 +0000" stop="20260429064500 +0000" channel="Sky Sport Golf HD.skyde">
+<programme start="20260429040000 +0000" stop="20260429060000 +0000" channel="Sky Sport Golf HD.skyde">
     <title>Golf: The Chevron Championship, 1. Tag (Late Session) in Houston, TX (USA)</title>
 </programme>
-<programme start="20260429064500 +0000" stop="20260429083000 +0000" channel="Sky Sport Golf HD.skyde">
+<programme start="20260429060000 +0000" stop="20260429080000 +0000" channel="Sky Sport Golf HD.skyde">
     <title>Golf: The Chevron Championship, 1. Tag (Late Session) in Houston, TX (USA)</title>
 </programme>
-<programme start="20260429083000 +0000" stop="20260429110000 +0000" channel="Sky Sport Golf HD.skyde">
+<programme start="20260429080000 +0000" stop="20260429110000 +0000" channel="Sky Sport Golf HD.skyde">
     <title>Golf: The Chevron Championship, 3. Tag in Houston, TX (USA)</title>
 </programme>
 <programme start="20260429110000 +0000" stop="20260429140000 +0000" channel="Sky Sport Golf HD.skyde">
     <title>Golf: The Chevron Championship, 4. Tag in Houston, TX (USA)</title>
 </programme>
-<programme start="20260429140000 +0000" stop="20260429170000 +0000" channel="Sky Sport Golf HD.skyde">
+<programme start="20260429140000 +0000" stop="20260429180000 +0000" channel="Sky Sport Golf HD.skyde">
     <title>Golf Ladies ET: Investec South African Women&#039;s Open, 4. Tag in Kapstadt (Südafrika)</title>
 </programme>
-<programme start="20260429170000 +0000" stop="20260429180000 +0000" channel="Sky Sport Golf HD.skyde">
+<programme start="20260429180000 +0000" stop="20260429190000 +0000" channel="Sky Sport Golf HD.skyde">
     <title>Golf Ladies ET: Highlights Investec South African Women&#039;s Open</title>
 </programme>
-<programme start="20260429180000 +0000" stop="20260429185500 +0000" channel="Sky Sport Golf HD.skyde">
-    <title>PGA Championship: Official Film 2010 (Martin Kaymer)</title>
-</programme>
-<programme start="20260429185500 +0000" stop="20260429214000 +0000" channel="Sky Sport Golf HD.skyde">
+<programme start="20260429190000 +0000" stop="20260429220000 +0000" channel="Sky Sport Golf HD.skyde">
     <title>Asian Tour: Singapore Open, 4. Tag auf Sentosa (Singapur)</title>
-</programme>
-<programme start="20260429214000 +0000" stop="20260429223000 +0000" channel="Sky Sport Golf HD.skyde">
-    <title>Asian Tour: Highlights Singapore Open</title>
 </programme>
 <programme start="20260428220000 +0000" stop="20260429000000 +0000" channel="Sky Sport Mix HD.skyde">
     <title>DFB-Pokal: Bayer Leverkusen - FC Bayern München, Halbfinale</title>
@@ -2975,7 +3056,7 @@
     <title>PL: 90in30: BRI - CHE, 34. Spieltag</title>
 </programme>
 <programme start="20260429173000 +0000" stop="20260429180000 +0000" channel="Sky Sport Premier League HD.skyde">
-    <title>PL: PL Stories</title>
+    <title>PL: PL Stories (Dimitar Berbatov)</title>
 </programme>
 <programme start="20260429180000 +0000" stop="20260429183000 +0000" channel="Sky Sport Premier League HD.skyde">
     <title>PL: Netbusters, 34. Spieltag</title>
@@ -3062,7 +3143,7 @@
     <title>Fußball: scooore Niederlande! Alle Tore</title>
 </programme>
 <programme start="20260429063000 +0000" stop="20260429083000 +0000" channel="Sky Sport Top Event HD.skyde">
-    <title>ATP 1000: Topspiel, Mutua Madrid Open in Madrid (ESP), 8. Tag</title>
+    <title>ATP 1000: A. Zverev (GER) - J. Mensik (CZE), Mutua Madrid Open in Madrid (ESP), 8. Tag</title>
 </programme>
 <programme start="20260429083000 +0000" stop="20260429103000 +0000" channel="Sky Sport Top Event HD.skyde">
     <title>NHL: Anaheim Ducks @ Edmonton Oilers, Playoffs, 1. Runde, Spiel 5</title>
@@ -3514,7 +3595,7 @@
 <programme start="20260429201000 +0000" stop="20260429222000 +0000" channel="Warner TV Film.skyde">
     <title>Men of Honor</title>
 </programme>
-<programme start="20260428221500 +0000" stop="20260428234000 +0000" channel="Warner TV Film HD.skyde">
+<programme start="20260428221000 +0000" stop="20260428234000 +0000" channel="Warner TV Film HD.skyde">
     <title>Surrogates - Mein zweites Ich</title>
 </programme>
 <programme start="20260428234000 +0000" stop="20260429022000 +0000" channel="Warner TV Film HD.skyde">
@@ -3526,16 +3607,16 @@
 <programme start="20260429040000 +0000" stop="20260429071500 +0000" channel="Warner TV Film HD.skyde">
     <title>Giganten</title>
 </programme>
-<programme start="20260429071500 +0000" stop="20260429085500 +0000" channel="Warner TV Film HD.skyde">
+<programme start="20260429071500 +0000" stop="20260429085000 +0000" channel="Warner TV Film HD.skyde">
     <title>Man nannte ihn Kelly</title>
 </programme>
-<programme start="20260429085500 +0000" stop="20260429105000 +0000" channel="Warner TV Film HD.skyde">
+<programme start="20260429085000 +0000" stop="20260429105000 +0000" channel="Warner TV Film HD.skyde">
     <title>Bullitt</title>
 </programme>
-<programme start="20260429105000 +0000" stop="20260429124000 +0000" channel="Warner TV Film HD.skyde">
+<programme start="20260429105000 +0000" stop="20260429123500 +0000" channel="Warner TV Film HD.skyde">
     <title>Auf der Jagd nach dem grünen Diamanten</title>
 </programme>
-<programme start="20260429124000 +0000" stop="20260429144000 +0000" channel="Warner TV Film HD.skyde">
+<programme start="20260429123500 +0000" stop="20260429144000 +0000" channel="Warner TV Film HD.skyde">
     <title>Blade Runner</title>
 </programme>
 <programme start="20260429144000 +0000" stop="20260429162000 +0000" channel="Warner TV Film HD.skyde">

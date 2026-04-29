@@ -3280,25 +3280,25 @@
   <programme start="20260430103000 +0000" stop="20260430120000 +0000" channel="ČT1.webtv.sk">
     <title lang="id">Sama doma</title>
   </programme>
-  <programme start="20260430120000 +0000" stop="20260430125200 +0000" channel="ČT1.webtv.sk">
+  <programme start="20260430120000 +0000" stop="20260430125300 +0000" channel="ČT1.webtv.sk">
     <title lang="id">Hercule Poirot (2)</title>
   </programme>
-  <programme start="20260430125200 +0000" stop="20260430130600 +0000" channel="ČT1.webtv.sk">
+  <programme start="20260430125300 +0000" stop="20260430130600 +0000" channel="ČT1.webtv.sk">
     <title lang="id">Olympic</title>
   </programme>
-  <programme start="20260430130600 +0000" stop="20260430135400 +0000" channel="ČT1.webtv.sk">
+  <programme start="20260430130600 +0000" stop="20260430135300 +0000" channel="ČT1.webtv.sk">
     <title lang="id">Výborná SHOW</title>
   </programme>
-  <programme start="20260430135400 +0000" stop="20260430144500 +0000" channel="ČT1.webtv.sk">
+  <programme start="20260430135300 +0000" stop="20260430144500 +0000" channel="ČT1.webtv.sk">
     <title lang="id">Hotel na pobřeží (18/31)</title>
   </programme>
   <programme start="20260430144500 +0000" stop="20260430151500 +0000" channel="ČT1.webtv.sk">
     <title lang="id">Rozpleteno</title>
   </programme>
-  <programme start="20260430151500 +0000" stop="20260430154000 +0000" channel="ČT1.webtv.sk">
+  <programme start="20260430151500 +0000" stop="20260430154100 +0000" channel="ČT1.webtv.sk">
     <title lang="id">AZ-kvíz</title>
   </programme>
-  <programme start="20260430154000 +0000" stop="20260430160000 +0000" channel="ČT1.webtv.sk">
+  <programme start="20260430154100 +0000" stop="20260430160000 +0000" channel="ČT1.webtv.sk">
     <title lang="id">Černé ovce</title>
   </programme>
   <programme start="20260430160000 +0000" stop="20260430162500 +0000" channel="ČT1.webtv.sk">
@@ -3319,13 +3319,13 @@
   <programme start="20260430181000 +0000" stop="20260430190500 +0000" channel="ČT1.webtv.sk">
     <title lang="id">Inspektorka Candice Renoirová VII (6)</title>
   </programme>
-  <programme start="20260430190500 +0000" stop="20260430193800 +0000" channel="ČT1.webtv.sk">
+  <programme start="20260430190500 +0000" stop="20260430193700 +0000" channel="ČT1.webtv.sk">
     <title lang="id">Gejzír</title>
   </programme>
-  <programme start="20260430193800 +0000" stop="20260430203600 +0000" channel="ČT1.webtv.sk">
+  <programme start="20260430193700 +0000" stop="20260430203500 +0000" channel="ČT1.webtv.sk">
     <title lang="id">Máte slovo s M. Jílkovou</title>
   </programme>
-  <programme start="20260430203600 +0000" stop="20260430210000 +0000" channel="ČT1.webtv.sk">
+  <programme start="20260430203500 +0000" stop="20260430210000 +0000" channel="ČT1.webtv.sk">
     <title lang="id">Na stopě</title>
   </programme>
   <programme start="20260430210000 +0000" stop="20260430210200 +0000" channel="ČT1.webtv.sk">
@@ -3334,7 +3334,7 @@
   <programme start="20260430210200 +0000" stop="20260430215000 +0000" channel="ČT1.webtv.sk">
     <title lang="id">Případy detektiva Murdocha XVII (3)</title>
   </programme>
-  <programme start="20260430215000 +0000" stop="20260430221900 +0000" channel="ČT1.webtv.sk">
+  <programme start="20260430215000 +0000" stop="20260430222000 +0000" channel="ČT1.webtv.sk">
     <title lang="id">Buchty po ránu</title>
   </programme>
   <programme start="20260429212100 +0000" stop="20260429220800 +0000" channel="ČT2.webtv.sk">
@@ -5186,7 +5186,7 @@
     <title lang="id">Sportovní noviny</title>
   </programme>
   <programme start="20260430050500 +0000" stop="20260430065500 +0000" channel="Nova Sport 1.webtv.sk">
-    <title lang="id">Ženská basketbalová liga</title>
+    <title lang="id">KP Brno - SBŠ Ostrava</title>
   </programme>
   <programme start="20260430065500 +0000" stop="20260430071500 +0000" channel="Nova Sport 1.webtv.sk">
     <title lang="id">Velikonoční regata 2026</title>
