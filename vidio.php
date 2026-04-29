@@ -12936,7 +12936,7 @@
     <icon src="https://thumbor.prod.vidiocdn.com/xgkik6iws0EJ01bi5cJsIjYWjOM=/287x162/filters:strip_icc():quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/image/6686/champions-tv-2-681a27.jpg"/>
   </programme>
   <programme channel="6686" start="20260429190000 +0000" stop="20260429210000 +0000">
-    <title lang="id">WUZHISHAN  LINGSHUI : TOUR OF HAINAN 2026</title>
+    <title lang="id">WUZHISHAN LINGSHUI : TOUR OF HAINAN 2026</title>
     <desc lang="id">WUZHISHAN  LINGSHUI</desc>
     <icon src="https://thumbor.prod.vidiocdn.com/xgkik6iws0EJ01bi5cJsIjYWjOM=/287x162/filters:strip_icc():quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/image/6686/champions-tv-2-681a27.jpg"/>
   </programme>
