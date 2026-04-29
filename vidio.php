@@ -2018,14 +2018,13 @@
     <desc lang="id">American Ninja Warrior</desc>
     <icon src="https://thumbor.prod.vidiocdn.com/NdmzqkxqnWVnlngtk_ObYNT-wiY=/287x162/filters:strip_icc():quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/image/206/moji-a5bd3e.jpg"/>
   </programme>
-  <programme channel="206" start="20260429114500 +0000" stop="20260429140000 +0000">
+  <programme channel="206" start="20260429114500 +0000" stop="20260429144500 +0000">
     <title lang="id">AVC Women's Champions League 2026 First Serve 19:00</title>
     <desc lang="id">AVC Women's Champions League 2026 First Serve 19:00</desc>
     <icon src="https://thumbor.prod.vidiocdn.com/NdmzqkxqnWVnlngtk_ObYNT-wiY=/287x162/filters:strip_icc():quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/image/206/moji-a5bd3e.jpg"/>
   </programme>
-  <programme channel="206" start="20260429140000 +0000" stop="20260429160900 +0000">
-    <title lang="id">Rerun Ucl</title>
-    <desc lang="id">Rerun Ucl</desc>
+  <programme channel="206" start="20260429144500 +0000" stop="20260429160000 +0000">
+    <title lang="id">RERUN PROLIGA 2026: GARUDA JAYA VS SAMATOR</title>
     <icon src="https://thumbor.prod.vidiocdn.com/NdmzqkxqnWVnlngtk_ObYNT-wiY=/287x162/filters:strip_icc():quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/image/206/moji-a5bd3e.jpg"/>
   </programme>
   <programme channel="206" start="20260429160900 +0000" stop="20260429171100 +0000">
@@ -4339,11 +4338,11 @@
     <title lang="id">MD Series: Istri Paruh Waktu</title>
     <icon src="https://thumbor.prod.vidiocdn.com/4Czw1-Pd6U37CKeatnuB7yB0wm8=/287x162/filters:strip_icc():quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/image/875/mdtv-ff5756.jpg"/>
   </programme>
-  <programme channel="875" start="20260429140000 +0000" stop="20260429150000 +0000">
+  <programme channel="875" start="20260429140000 +0000" stop="20260429145500 +0000">
     <title lang="id">MD Series: Keluarga Yang Tak Dirindukan</title>
     <icon src="https://thumbor.prod.vidiocdn.com/4Czw1-Pd6U37CKeatnuB7yB0wm8=/287x162/filters:strip_icc():quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/image/875/mdtv-ff5756.jpg"/>
   </programme>
-  <programme channel="875" start="20260429150000 +0000" stop="20260429162000 +0000">
+  <programme channel="875" start="20260429145500 +0000" stop="20260429162000 +0000">
     <title lang="id">Jatanras</title>
     <icon src="https://thumbor.prod.vidiocdn.com/mQJh_ddQq5Fbw-mVV-DqbAWR184=/287x162/filters:strip_icc():quality(70)/vidio-media-production/uploads/tv_program/thumbnail/382345/4dcdfe.jpg"/>
   </programme>
