@@ -790,13 +790,13 @@
   <programme start="20260501213500 +0000" stop="20260501222500 +0000" channel="Markíza Klasik.webtv.sk">
     <title lang="id">Walker, texaský ranger II (19)</title>
   </programme>
-  <programme start="20260501222500 +0000" stop="20260501231500 +0000" channel="Markíza Klasik.webtv.sk">
+  <programme start="20260501222500 +0000" stop="20260501231000 +0000" channel="Markíza Klasik.webtv.sk">
     <title lang="id">Walker, texaský ranger II (20)</title>
   </programme>
-  <programme start="20260501231500 +0000" stop="20260501234000 +0000" channel="Markíza Klasik.webtv.sk">
+  <programme start="20260501231000 +0000" stop="20260501233500 +0000" channel="Markíza Klasik.webtv.sk">
     <title lang="id">Anderov rebrinák (18)</title>
   </programme>
-  <programme start="20260501234000 +0000" stop="20260502022500 +0000" channel="Markíza Klasik.webtv.sk">
+  <programme start="20260501233500 +0000" stop="20260502022500 +0000" channel="Markíza Klasik.webtv.sk">
     <title lang="id">Sedem s r.o. (33)</title>
   </programme>
   <programme start="20260502022500 +0000" stop="20260502031000 +0000" channel="Markíza Klasik.webtv.sk">
