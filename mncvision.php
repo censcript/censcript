@@ -2458,45 +2458,7 @@
 <programme start="20260430161600 +0000" stop="20260430164600 +0000" channel="CINEEDGE.mncvision">
     <title>Blood Rush</title>
 </programme>
-<programme start="20260429175000 +0000" stop="20260429195700 +0000" channel="CINEEDGE HD.mncvision">
-    <title>Blood Rush</title>
-</programme>
-<programme start="20260429195700 +0000" stop="20260429214200 +0000" channel="CINEEDGE HD.mncvision">
-    <title>The System</title>
-</programme>
-<programme start="20260429214200 +0000" stop="20260429233100 +0000" channel="CINEEDGE HD.mncvision">
-    <title>Bulletstorm</title>
-</programme>
-<programme start="20260429233100 +0000" stop="20260430011500 +0000" channel="CINEEDGE HD.mncvision">
-    <title>Sleepless</title>
-</programme>
-<programme start="20260430011500 +0000" stop="20260430030300 +0000" channel="CINEEDGE HD.mncvision">
-    <title>Blood Rush</title>
-</programme>
-<programme start="20260430030300 +0000" stop="20260430044200 +0000" channel="CINEEDGE HD.mncvision">
-    <title>Deadlock</title>
-</programme>
-<programme start="20260430044200 +0000" stop="20260430065800 +0000" channel="CINEEDGE HD.mncvision">
-    <title>Bulletstorm</title>
-</programme>
-<programme start="20260430065800 +0000" stop="20260430084100 +0000" channel="CINEEDGE HD.mncvision">
-    <title>Deadlock</title>
-</programme>
-<programme start="20260430084100 +0000" stop="20260430102700 +0000" channel="CINEEDGE HD.mncvision">
-    <title>Blood Rush</title>
-</programme>
-<programme start="20260430102700 +0000" stop="20260430123400 +0000" channel="CINEEDGE HD.mncvision">
-    <title>A Most Violent Year</title>
-</programme>
-<programme start="20260430123400 +0000" stop="20260430144100 +0000" channel="CINEEDGE HD.mncvision">
-    <title>Bulletstorm</title>
-</programme>
-<programme start="20260430144100 +0000" stop="20260430161600 +0000" channel="CINEEDGE HD.mncvision">
-    <title>Disturbing The Peace</title>
-</programme>
-<programme start="20260430161600 +0000" stop="20260430164600 +0000" channel="CINEEDGE HD.mncvision">
-    <title>Blood Rush</title>
-</programme>
+Error: Unable to fetch data. HTTP Status Code: 0
 <programme start="20260429170000 +0000" stop="20260429180000 +0000" channel="CNBC.mncvision">
     <title>The Exchange</title>
 </programme>
@@ -4291,84 +4253,7 @@
 <programme start="20260430160000 +0000" stop="20260430163000 +0000" channel="Hanacaraka TV.mncvision">
     <title>Wayang Kulit Special</title>
 </programme>
-<programme start="20260429173500 +0000" stop="20260429183000 +0000" channel="History.mncvision">
-    <title>Curse Of Oak Island S12, Ep 10</title>
-</programme>
-<programme start="20260429183000 +0000" stop="20260429192500 +0000" channel="History.mncvision">
-    <title>Secrets Declassified S1, Ep 1</title>
-</programme>
-<programme start="20260429192500 +0000" stop="20260429202000 +0000" channel="History.mncvision">
-    <title>Holy Marvels S2, Ep 17</title>
-</programme>
-<programme start="20260429202000 +0000" stop="20260429211500 +0000" channel="History.mncvision">
-    <title>The Death Coast, Ep 2</title>
-</programme>
-<programme start="20260429211500 +0000" stop="20260429221000 +0000" channel="History.mncvision">
-    <title>Mountain Men S13, Ep 10</title>
-</programme>
-<programme start="20260429221000 +0000" stop="20260429230500 +0000" channel="History.mncvision">
-    <title>Mountain Men S12, Ep 10</title>
-</programme>
-<programme start="20260429230500 +0000" stop="20260430000000 +0000" channel="History.mncvision">
-    <title>Holy Marvels S2, Ep 17</title>
-</programme>
-<programme start="20260430000000 +0000" stop="20260430005500 +0000" channel="History.mncvision">
-    <title>The Death Coast, Ep 2</title>
-</programme>
-<programme start="20260430005500 +0000" stop="20260430015500 +0000" channel="History.mncvision">
-    <title>Swamp People S15, Ep 3</title>
-</programme>
-<programme start="20260430015500 +0000" stop="20260430025000 +0000" channel="History.mncvision">
-    <title>Mountain Men S13, Ep 10</title>
-</programme>
-<programme start="20260430025000 +0000" stop="20260430034500 +0000" channel="History.mncvision">
-    <title>Curse Of Oak Island S12, Ep 10</title>
-</programme>
-<programme start="20260430034500 +0000" stop="20260430044000 +0000" channel="History.mncvision">
-    <title>Secrets Declassified S1, Ep 1</title>
-</programme>
-<programme start="20260430044000 +0000" stop="20260430053500 +0000" channel="History.mncvision">
-    <title>Mountain Men S12, Ep 10</title>
-</programme>
-<programme start="20260430053500 +0000" stop="20260430063000 +0000" channel="History.mncvision">
-    <title>Holy Marvels S2, Ep 17</title>
-</programme>
-<programme start="20260430063000 +0000" stop="20260430072500 +0000" channel="History.mncvision">
-    <title>Mountain Men S13, Ep 10</title>
-</programme>
-<programme start="20260430072500 +0000" stop="20260430082000 +0000" channel="History.mncvision">
-    <title>Secrets Declassified S1, Ep 1</title>
-</programme>
-<programme start="20260430082000 +0000" stop="20260430092000 +0000" channel="History.mncvision">
-    <title>The Death Coast, Ep 2</title>
-</programme>
-<programme start="20260430092000 +0000" stop="20260430101500 +0000" channel="History.mncvision">
-    <title>Swamp People S15, Ep 3</title>
-</programme>
-<programme start="20260430101500 +0000" stop="20260430111000 +0000" channel="History.mncvision">
-    <title>Mysteries Unearthed S1, Ep 3</title>
-</programme>
-<programme start="20260430111000 +0000" stop="20260430120500 +0000" channel="History.mncvision">
-    <title>Alone S11, Ep 4</title>
-</programme>
-<programme start="20260430120500 +0000" stop="20260430130000 +0000" channel="History.mncvision">
-    <title>Beyond Bars: KL&#039;s Pudu Prison</title>
-</programme>
-<programme start="20260430130000 +0000" stop="20260430135500 +0000" channel="History.mncvision">
-    <title>Food That Built World S5, Ep 7</title>
-</programme>
-<programme start="20260430135500 +0000" stop="20260430145000 +0000" channel="History.mncvision">
-    <title>Food That Built World S5, Ep 8</title>
-</programme>
-<programme start="20260430145000 +0000" stop="20260430154500 +0000" channel="History.mncvision">
-    <title>The UnXplained S3, Ep 24</title>
-</programme>
-<programme start="20260430154500 +0000" stop="20260430164000 +0000" channel="History.mncvision">
-    <title>The UnXplained S3, Ep 25</title>
-</programme>
-<programme start="20260430164000 +0000" stop="20260429171000 +0000" channel="History.mncvision">
-    <title>Beyond Bars: KL&#039;s Pudu Prison</title>
-</programme>
+Error: Unable to fetch data. HTTP Status Code: 0
 <programme start="20260429170000 +0000" stop="20260429180000 +0000" channel="HITS.mncvision">
     <title>The Last Days Of Pompeii, Ep 3</title>
 </programme>

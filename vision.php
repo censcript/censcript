@@ -17,12 +17,9 @@
 <title>Tukang Bubur Naik Haji</title>
 </programme>
 <programme start="20260430063000 +0000" stop="20260430073000 +0000" channel="RCTI.vision">
-<title>TOP: Kisah Cinta Mas Pur</title>
+<title>Tukang Ojek Pengkolan</title>
 </programme>
-<programme start="20260430073000 +0000" stop="20260430084500 +0000" channel="RCTI.vision">
-<title>Si Doel Anak Sekolahan S6 (RCTI)</title>
-</programme>
-<programme start="20260430084500 +0000" stop="20260430100000 +0000" channel="RCTI.vision">
+<programme start="20260430073000 +0000" stop="20260430100000 +0000" channel="RCTI.vision">
 <title>Si Doel Anak Gedongan (RCTI)</title>
 </programme>
 <programme start="20260430100000 +0000" stop="20260430120000 +0000" channel="RCTI.vision">
@@ -37,7 +34,7 @@
 <programme start="20260430143000 +0000" stop="20260430160000 +0000" channel="RCTI.vision">
 <title>Akibat Turun Ranjang</title>
 </programme>
-<programme start="20260430160000 +0000" stop="20260430171500 +0000" channel="RCTI.vision">
+<programme start="20260430160000 +0000" stop="20260430173000 +0000" channel="RCTI.vision">
 <title>Skandal</title>
 </programme>
 <programme start="20260430000000 +0000" stop="20260430004500 +0000" channel="MNCTV.vision">
@@ -121,19 +118,22 @@
 <programme start="20260430060000 +0000" stop="20260430083000 +0000" channel="iNews.vision">
 <title>Breaking News: Konflik Timur Tengah</title>
 </programme>
-<programme start="20260430083000 +0000" stop="20260430083500 +0000" channel="iNews.vision">
-<title>iNews Terkini: Cooltopia (L)</title>
-</programme>
-<programme start="20260430083500 +0000" stop="20260430093000 +0000" channel="iNews.vision">
+<programme start="20260430083000 +0000" stop="20260430093000 +0000" channel="iNews.vision">
 <title>Realita (L)</title>
 </programme>
 <programme start="20260430093000 +0000" stop="20260430120000 +0000" channel="iNews.vision">
 <title>Inews Sore (Live)</title>
 </programme>
-<programme start="20260430120000 +0000" stop="20260430130000 +0000" channel="iNews.vision">
+<programme start="20260430120000 +0000" stop="20260430120500 +0000" channel="iNews.vision">
+<title>iNews Terkini (L)</title>
+</programme>
+<programme start="20260430120500 +0000" stop="20260430130000 +0000" channel="iNews.vision">
 <title>iNews Room (L)</title>
 </programme>
-<programme start="20260430130000 +0000" stop="20260430140000 +0000" channel="iNews.vision">
+<programme start="20260430130000 +0000" stop="20260430130500 +0000" channel="iNews.vision">
+<title>iNews Terkini (L)</title>
+</programme>
+<programme start="20260430130500 +0000" stop="20260430140000 +0000" channel="iNews.vision">
 <title>Interupsi (iNews)</title>
 </programme>
 <programme start="20260430140000 +0000" stop="20260430153000 +0000" channel="iNews.vision">
@@ -421,29 +421,32 @@
 <programme start="20260501114500 +0000" stop="20260501121500 +0000" channel="Trans 7.vision">
 <title>Secret Story</title>
 </programme>
-<programme start="20260429230000 +0000" stop="20260430003000 +0000" channel="ANTV.vision">
-<title>Kasautii</title>
+<programme start="20260429230000 +0000" stop="20260430010000 +0000" channel="ANTV.vision">
+<title>ANTV</title>
 </programme>
-<programme start="20260430003000 +0000" stop="20260430023000 +0000" channel="ANTV.vision">
-<title>Janji Inspektur Virat</title>
+<programme start="20260430010000 +0000" stop="20260430030000 +0000" channel="ANTV.vision">
+<title>ANTV</title>
 </programme>
-<programme start="20260430060000 +0000" stop="20260430080000 +0000" channel="ANTV.vision">
-<title>Jhanak</title>
+<programme start="20260430030000 +0000" stop="20260430050000 +0000" channel="ANTV.vision">
+<title>ANTV</title>
 </programme>
-<programme start="20260430080000 +0000" stop="20260430093000 +0000" channel="ANTV.vision">
-<title>Teri Meri Doriyaann</title>
+<programme start="20260430050000 +0000" stop="20260430070000 +0000" channel="ANTV.vision">
+<title>ANTV</title>
 </programme>
-<programme start="20260430093000 +0000" stop="20260430113000 +0000" channel="ANTV.vision">
-<title>Vasudha</title>
+<programme start="20260430070000 +0000" stop="20260430090000 +0000" channel="ANTV.vision">
+<title>ANTV</title>
 </programme>
-<programme start="20260430113000 +0000" stop="20260430133000 +0000" channel="ANTV.vision">
-<title>Genta Pertarungan</title>
+<programme start="20260430090000 +0000" stop="20260430110000 +0000" channel="ANTV.vision">
+<title>ANTV</title>
 </programme>
-<programme start="20260430133000 +0000" stop="20260430150000 +0000" channel="ANTV.vision">
-<title>Petualangan Cinta Nyi Blorong</title>
+<programme start="20260430110000 +0000" stop="20260430130000 +0000" channel="ANTV.vision">
+<title>ANTV</title>
+</programme>
+<programme start="20260430130000 +0000" stop="20260430150000 +0000" channel="ANTV.vision">
+<title>ANTV</title>
 </programme>
 <programme start="20260430150000 +0000" stop="20260430170000 +0000" channel="ANTV.vision">
-<title>Pembalasan Ratu Laut Selatan</title>
+<title>ANTV</title>
 </programme>
 <programme start="20260430180000 +0000" stop="20260430210000 +0000" channel="ANTV.vision">
 <title>ANTV</title>
@@ -1493,8 +1496,5 @@
 <title>TV 9</title>
 </programme>
 <programme start="20260430110000 +0000" stop="20260430120000 +0000" channel="TV 9.vision">
-<title>TV 9</title>
-</programme>
-<programme start="20260430120000 +0000" stop="20260430130000 +0000" channel="TV 9.vision">
 <title>TV 9</title>
 </programme>
