@@ -3954,39 +3954,39 @@
     <episode-num system="onscreen">S1E20260428</episode-num>
   </programme>
   <programme start="20260430050800 +0000" stop="20260430055400 +0000" channel="cctv4hd.unifitv">
-    <title lang="en">Yu Xue Rong Guang</title>
-    <desc lang="en">The series provides a panoramic view of the formative and most perilous years of the Chinese Red Army, spanning from 1927 to 1935. It captures the desperate struggle for survival and the ideological maturation of the Party's leadership.</desc>
+    <title lang="en">Wo He Wo De Er Nv Men</title>
+    <desc lang="en">The ridiculous stories that happened in the intricate family of Qian Guang, a retired middle school history teacher, Qian An'an, his adopted daughter, and several other children.</desc>
     <category lang="en">Drama</category>
-    <episode-num system="xmltv_ns">0.21.</episode-num>
-    <episode-num system="onscreen">S1E22</episode-num>
+    <episode-num system="xmltv_ns">0.9.</episode-num>
+    <episode-num system="onscreen">S1E10</episode-num>
   </programme>
   <programme start="20260430055400 +0000" stop="20260430064300 +0000" channel="cctv4hd.unifitv">
-    <title lang="en">Yu Xue Rong Guang</title>
-    <desc lang="en">The series provides a panoramic view of the formative and most perilous years of the Chinese Red Army, spanning from 1927 to 1935. It captures the desperate struggle for survival and the ideological maturation of the Party's leadership.</desc>
+    <title lang="en">Wo He Wo De Er Nv Men</title>
+    <desc lang="en">The ridiculous stories that happened in the intricate family of Qian Guang, a retired middle school history teacher, Qian An'an, his adopted daughter, and several other children.</desc>
     <category lang="en">Drama</category>
-    <episode-num system="xmltv_ns">0.22.</episode-num>
-    <episode-num system="onscreen">S1E23</episode-num>
+    <episode-num system="xmltv_ns">0.10.</episode-num>
+    <episode-num system="onscreen">S1E11</episode-num>
   </programme>
   <programme start="20260430064300 +0000" stop="20260430072900 +0000" channel="cctv4hd.unifitv">
-    <title lang="en">Yu Xue Rong Guang</title>
-    <desc lang="en">The series provides a panoramic view of the formative and most perilous years of the Chinese Red Army, spanning from 1927 to 1935. It captures the desperate struggle for survival and the ideological maturation of the Party's leadership.</desc>
+    <title lang="en">Wo He Wo De Er Nv Men</title>
+    <desc lang="en">The ridiculous stories that happened in the intricate family of Qian Guang, a retired middle school history teacher, Qian An'an, his adopted daughter, and several other children.</desc>
     <category lang="en">Drama</category>
-    <episode-num system="xmltv_ns">0.23.</episode-num>
-    <episode-num system="onscreen">S1E24</episode-num>
+    <episode-num system="xmltv_ns">0.11.</episode-num>
+    <episode-num system="onscreen">S1E12</episode-num>
   </programme>
   <programme start="20260430072900 +0000" stop="20260430081500 +0000" channel="cctv4hd.unifitv">
-    <title lang="en">Yu Xue Rong Guang</title>
-    <desc lang="en">The series provides a panoramic view of the formative and most perilous years of the Chinese Red Army, spanning from 1927 to 1935. It captures the desperate struggle for survival and the ideological maturation of the Party's leadership.</desc>
+    <title lang="en">Wo He Wo De Er Nv Men</title>
+    <desc lang="en">The ridiculous stories that happened in the intricate family of Qian Guang, a retired middle school history teacher, Qian An'an, his adopted daughter, and several other children.</desc>
     <category lang="en">Drama</category>
-    <episode-num system="xmltv_ns">0.24.</episode-num>
-    <episode-num system="onscreen">S1E25</episode-num>
+    <episode-num system="xmltv_ns">0.12.</episode-num>
+    <episode-num system="onscreen">S1E13</episode-num>
   </programme>
   <programme start="20260430081500 +0000" stop="20260430090200 +0000" channel="cctv4hd.unifitv">
-    <title lang="en">Yu Xue Rong Guang</title>
-    <desc lang="en">The series provides a panoramic view of the formative and most perilous years of the Chinese Red Army, spanning from 1927 to 1935. It captures the desperate struggle for survival and the ideological maturation of the Party's leadership.</desc>
+    <title lang="en">Wo He Wo De Er Nv Men</title>
+    <desc lang="en">The ridiculous stories that happened in the intricate family of Qian Guang, a retired middle school history teacher, Qian An'an, his adopted daughter, and several other children.</desc>
     <category lang="en">Drama</category>
-    <episode-num system="xmltv_ns">0.25.</episode-num>
-    <episode-num system="onscreen">S1E26</episode-num>
+    <episode-num system="xmltv_ns">0.13.</episode-num>
+    <episode-num system="onscreen">S1E14</episode-num>
   </programme>
   <programme start="20260430090200 +0000" stop="20260430090600 +0000" channel="cctv4hd.unifitv">
     <title lang="en">nostalgia</title>

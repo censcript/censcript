@@ -1066,10 +1066,10 @@
   <programme start="20260501235000 +0000" stop="20260502004000 +0000" channel="Markíza Krimi.webtv.sk">
     <title lang="id">Špecialisti III (9)</title>
   </programme>
-  <programme start="20260502004000 +0000" stop="20260502013000 +0000" channel="Markíza Krimi.webtv.sk">
+  <programme start="20260502004000 +0000" stop="20260502012500 +0000" channel="Markíza Krimi.webtv.sk">
     <title lang="id">Špecialisti III (10)</title>
   </programme>
-  <programme start="20260502013000 +0000" stop="20260502031000 +0000" channel="Markíza Krimi.webtv.sk">
+  <programme start="20260502012500 +0000" stop="20260502031000 +0000" channel="Markíza Krimi.webtv.sk">
     <title lang="id">112 (27)</title>
   </programme>
   <programme start="20260502031000 +0000" stop="20260502040000 +0000" channel="Markíza Krimi.webtv.sk">
