@@ -577,8 +577,14 @@
     <programme start="20260430133000 +0000" stop="20260430160000 +0000" channel="spl01.mewatch">
         <title>No programmes streaming LIVE at this moment</title>
     </programme>
+    <programme start="20260430160000 +0000" stop="20260501160000 +0000" channel="spl01.mewatch">
+        <title>No Programme available now. Next Broadcast on 2nd May, Saturday 7.20pm. Singapore Premier League 2025/2026</title>
+    </programme>
     <programme start="20260429160000 +0000" stop="20260430160000 +0000" channel="spl02.mewatch">
         <title>No programmes streaming LIVE at this moment</title>
+    </programme>
+    <programme start="20260430160000 +0000" stop="20260501160000 +0000" channel="spl02.mewatch">
+        <title>No Programme available now. Next Broadcast on 9th May, Saturday 7.20pm. Singapore Premier League 2025/2026</title>
     </programme>
     <programme start="20260429151000 +0000" stop="20260429164500 +0000" channel="cinemaworld.mewatch">
         <title>Almost Entirely A Slight Disaster</title>

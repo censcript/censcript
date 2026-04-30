@@ -398,7 +398,7 @@
     <title>Petualangan Cinta Nyi Blorong</title>
 </programme>
 <programme start="20260430150000 +0000" stop="20260430153000 +0000" channel="ANTV.mncvision">
-    <title>Misteri Janda Kembang</title>
+    <title>Pembalasan Ratu Laut Selatan</title>
 </programme>
 <programme start="20260429170000 +0000" stop="20260429173000 +0000" channel="Arirang.mncvision">
     <title>I&#039;m Live</title>
@@ -4456,7 +4456,42 @@
 <programme start="20260430163000 +0000" stop="20260429170000 +0000" channel="HITS.mncvision">
     <title>Bewitched S7, Ep 4</title>
 </programme>
-Error: Unable to fetch data. HTTP Status Code: 500
+<programme start="20260429180000 +0000" stop="20260429200000 +0000" channel="HITS MOVIES.mncvision">
+    <title>King Solomon&#039;s Mines</title>
+</programme>
+<programme start="20260429200000 +0000" stop="20260429221500 +0000" channel="HITS MOVIES.mncvision">
+    <title>The Specialist</title>
+</programme>
+<programme start="20260429221500 +0000" stop="20260430001500 +0000" channel="HITS MOVIES.mncvision">
+    <title>She-Devil</title>
+</programme>
+<programme start="20260430001500 +0000" stop="20260430021500 +0000" channel="HITS MOVIES.mncvision">
+    <title>Creature From The Black Lagoon</title>
+</programme>
+<programme start="20260430021500 +0000" stop="20260430040000 +0000" channel="HITS MOVIES.mncvision">
+    <title>Megamind</title>
+</programme>
+<programme start="20260430040000 +0000" stop="20260430060000 +0000" channel="HITS MOVIES.mncvision">
+    <title>King Solomon&#039;s Mines</title>
+</programme>
+<programme start="20260430060000 +0000" stop="20260430081500 +0000" channel="HITS MOVIES.mncvision">
+    <title>The Specialist</title>
+</programme>
+<programme start="20260430081500 +0000" stop="20260430101500 +0000" channel="HITS MOVIES.mncvision">
+    <title>She-Devil</title>
+</programme>
+<programme start="20260430101500 +0000" stop="20260430120000 +0000" channel="HITS MOVIES.mncvision">
+    <title>Megamind</title>
+</programme>
+<programme start="20260430120000 +0000" stop="20260430140000 +0000" channel="HITS MOVIES.mncvision">
+    <title>Pillow Talk</title>
+</programme>
+<programme start="20260430140000 +0000" stop="20260430160000 +0000" channel="HITS MOVIES.mncvision">
+    <title>Along Came Polly</title>
+</programme>
+<programme start="20260430160000 +0000" stop="20260430163000 +0000" channel="HITS MOVIES.mncvision">
+    <title>Megamind</title>
+</programme>
 <programme start="20260429180000 +0000" stop="20260429200000 +0000" channel="HITS MOVIES HD.mncvision">
     <title>King Solomon&#039;s Mines</title>
 </programme>
@@ -6662,9 +6697,456 @@ Error: Unable to fetch data. HTTP Status Code: 500
 <programme start="20260430103000 +0000" stop="20260430110000 +0000" channel="NHK World Premium.mncvision">
     <title>The Instruction Manual Show</title>
 </programme>
-Error: Unable to fetch data. HTTP Status Code: 500
-Error: Unable to fetch data. HTTP Status Code: 500
-Error: Unable to fetch data. HTTP Status Code: 500
+<programme start="20260429170500 +0000" stop="20260429171000 +0000" channel="Nick Jr. HD.mncvision">
+    <title>Peppa Pig</title>
+</programme>
+<programme start="20260429171000 +0000" stop="20260429171500 +0000" channel="Nick Jr. HD.mncvision">
+    <title>Peppa Pig</title>
+</programme>
+<programme start="20260429171500 +0000" stop="20260429172000 +0000" channel="Nick Jr. HD.mncvision">
+    <title>Peppa Pig</title>
+</programme>
+<programme start="20260429172000 +0000" stop="20260429172500 +0000" channel="Nick Jr. HD.mncvision">
+    <title>Peppa Pig</title>
+</programme>
+<programme start="20260429172500 +0000" stop="20260429173000 +0000" channel="Nick Jr. HD.mncvision">
+    <title>Peppa Pig</title>
+</programme>
+<programme start="20260429173000 +0000" stop="20260429175000 +0000" channel="Nick Jr. HD.mncvision">
+    <title>Barbapapa: Big Happy Family!</title>
+</programme>
+<programme start="20260429175000 +0000" stop="20260429182500 +0000" channel="Nick Jr. HD.mncvision">
+    <title>Barbapapa: Big Happy Family!</title>
+</programme>
+<programme start="20260429182500 +0000" stop="20260429184500 +0000" channel="Nick Jr. HD.mncvision">
+    <title>PAW Patrol</title>
+</programme>
+<programme start="20260429184500 +0000" stop="20260429191000 +0000" channel="Nick Jr. HD.mncvision">
+    <title>PAW Patrol</title>
+</programme>
+<programme start="20260429191000 +0000" stop="20260429192000 +0000" channel="Nick Jr. HD.mncvision">
+    <title>Rubble &amp; Crew</title>
+</programme>
+<programme start="20260429192000 +0000" stop="20260429194500 +0000" channel="Nick Jr. HD.mncvision">
+    <title>Rubble &amp; Crew</title>
+</programme>
+<programme start="20260429194500 +0000" stop="20260429200500 +0000" channel="Nick Jr. HD.mncvision">
+    <title>Dora</title>
+</programme>
+<programme start="20260429200500 +0000" stop="20260429202500 +0000" channel="Nick Jr. HD.mncvision">
+    <title>Dora</title>
+</programme>
+<programme start="20260429202500 +0000" stop="20260429205000 +0000" channel="Nick Jr. HD.mncvision">
+    <title>Barbapapa: Big Happy Family!</title>
+</programme>
+<programme start="20260429205000 +0000" stop="20260429211000 +0000" channel="Nick Jr. HD.mncvision">
+    <title>Barbapapa: Big Happy Family!</title>
+</programme>
+<programme start="20260429211000 +0000" stop="20260429213500 +0000" channel="Nick Jr. HD.mncvision">
+    <title>Barbapapa: Big Happy Family!</title>
+</programme>
+<programme start="20260429213500 +0000" stop="20260429215500 +0000" channel="Nick Jr. HD.mncvision">
+    <title>Barbapapa: Big Happy Family!</title>
+</programme>
+<programme start="20260429215500 +0000" stop="20260429222000 +0000" channel="Nick Jr. HD.mncvision">
+    <title>Barbapapa: Big Happy Family!</title>
+</programme>
+<programme start="20260429222000 +0000" stop="20260429224000 +0000" channel="Nick Jr. HD.mncvision">
+    <title>Rubble &amp; Crew</title>
+</programme>
+<programme start="20260429224000 +0000" stop="20260429230500 +0000" channel="Nick Jr. HD.mncvision">
+    <title>Rubble &amp; Crew</title>
+</programme>
+<programme start="20260429230500 +0000" stop="20260429232500 +0000" channel="Nick Jr. HD.mncvision">
+    <title>PAW Patrol</title>
+</programme>
+<programme start="20260429232500 +0000" stop="20260429235000 +0000" channel="Nick Jr. HD.mncvision">
+    <title>PAW Patrol</title>
+</programme>
+<programme start="20260429235000 +0000" stop="20260430001000 +0000" channel="Nick Jr. HD.mncvision">
+    <title>Barbapapa: Big Happy Family!</title>
+</programme>
+<programme start="20260430001000 +0000" stop="20260430003500 +0000" channel="Nick Jr. HD.mncvision">
+    <title>Barbapapa: Big Happy Family!</title>
+</programme>
+<programme start="20260430003500 +0000" stop="20260430004000 +0000" channel="Nick Jr. HD.mncvision">
+    <title>Tim Rex In Space</title>
+</programme>
+<programme start="20260430004000 +0000" stop="20260430005000 +0000" channel="Nick Jr. HD.mncvision">
+    <title>Tim Rex In Space</title>
+</programme>
+<programme start="20260430005000 +0000" stop="20260430005500 +0000" channel="Nick Jr. HD.mncvision">
+    <title>Tim Rex In Space</title>
+</programme>
+<programme start="20260430005500 +0000" stop="20260430012000 +0000" channel="Nick Jr. HD.mncvision">
+    <title>Rubble &amp; Crew</title>
+</programme>
+<programme start="20260430012000 +0000" stop="20260430014500 +0000" channel="Nick Jr. HD.mncvision">
+    <title>Rubble &amp; Crew</title>
+</programme>
+<programme start="20260430014500 +0000" stop="20260430020500 +0000" channel="Nick Jr. HD.mncvision">
+    <title>Dora</title>
+</programme>
+<programme start="20260430020500 +0000" stop="20260430023000 +0000" channel="Nick Jr. HD.mncvision">
+    <title>Blaze &amp; The Monster Machines</title>
+</programme>
+<programme start="20260430023000 +0000" stop="20260430025000 +0000" channel="Nick Jr. HD.mncvision">
+    <title>Mr. Crocodile</title>
+</programme>
+<programme start="20260430025000 +0000" stop="20260430031500 +0000" channel="Nick Jr. HD.mncvision">
+    <title>Barbapapa: Big Happy Family!</title>
+</programme>
+<programme start="20260430031500 +0000" stop="20260430033500 +0000" channel="Nick Jr. HD.mncvision">
+    <title>Barbapapa: Big Happy Family!</title>
+</programme>
+<programme start="20260430033500 +0000" stop="20260430042000 +0000" channel="Nick Jr. HD.mncvision">
+    <title>Tim Rex In Space</title>
+</programme>
+<programme start="20260430042000 +0000" stop="20260430044500 +0000" channel="Nick Jr. HD.mncvision">
+    <title>Blaze &amp; The Monster Machines</title>
+</programme>
+<programme start="20260430044500 +0000" stop="20260430045500 +0000" channel="Nick Jr. HD.mncvision">
+    <title>Rubble &amp; Crew</title>
+</programme>
+<programme start="20260430045500 +0000" stop="20260430050500 +0000" channel="Nick Jr. HD.mncvision">
+    <title>Rubble &amp; Crew</title>
+</programme>
+<programme start="20260430050500 +0000" stop="20260430053000 +0000" channel="Nick Jr. HD.mncvision">
+    <title>Rubble &amp; Crew</title>
+</programme>
+<programme start="20260430053000 +0000" stop="20260430055000 +0000" channel="Nick Jr. HD.mncvision">
+    <title>PAW Patrol</title>
+</programme>
+<programme start="20260430055000 +0000" stop="20260430061500 +0000" channel="Nick Jr. HD.mncvision">
+    <title>PAW Patrol</title>
+</programme>
+<programme start="20260430061500 +0000" stop="20260430063500 +0000" channel="Nick Jr. HD.mncvision">
+    <title>Dora</title>
+</programme>
+<programme start="20260430063500 +0000" stop="20260430065000 +0000" channel="Nick Jr. HD.mncvision">
+    <title>Dora</title>
+</programme>
+<programme start="20260430065000 +0000" stop="20260430065500 +0000" channel="Nick Jr. HD.mncvision">
+    <title>Tim Rex In Space</title>
+</programme>
+<programme start="20260430065500 +0000" stop="20260430070500 +0000" channel="Nick Jr. HD.mncvision">
+    <title>Tim Rex In Space</title>
+</programme>
+<programme start="20260430070500 +0000" stop="20260430071000 +0000" channel="Nick Jr. HD.mncvision">
+    <title>Tim Rex In Space</title>
+</programme>
+<programme start="20260430071000 +0000" stop="20260430071500 +0000" channel="Nick Jr. HD.mncvision">
+    <title>Peppa Pig</title>
+</programme>
+<programme start="20260430071500 +0000" stop="20260430072000 +0000" channel="Nick Jr. HD.mncvision">
+    <title>Peppa Pig</title>
+</programme>
+<programme start="20260430072000 +0000" stop="20260430072500 +0000" channel="Nick Jr. HD.mncvision">
+    <title>Peppa Pig</title>
+</programme>
+<programme start="20260430072500 +0000" stop="20260430075500 +0000" channel="Nick Jr. HD.mncvision">
+    <title>Peppa Pig</title>
+</programme>
+<programme start="20260429170000 +0000" stop="20260429172500 +0000" channel="Nickelodeon.mncvision">
+    <title>That Girl Lay Lay</title>
+</programme>
+<programme start="20260429172500 +0000" stop="20260429175000 +0000" channel="Nickelodeon.mncvision">
+    <title>The Thundermans: Undercover</title>
+</programme>
+<programme start="20260429175000 +0000" stop="20260429181500 +0000" channel="Nickelodeon.mncvision">
+    <title>Henry Danger</title>
+</programme>
+<programme start="20260429181500 +0000" stop="20260429183500 +0000" channel="Nickelodeon.mncvision">
+    <title>Henry Danger</title>
+</programme>
+<programme start="20260429183500 +0000" stop="20260429190000 +0000" channel="Nickelodeon.mncvision">
+    <title>Danger Force</title>
+</programme>
+<programme start="20260429190000 +0000" stop="20260429192500 +0000" channel="Nickelodeon.mncvision">
+    <title>iCarly</title>
+</programme>
+<programme start="20260429192500 +0000" stop="20260429195000 +0000" channel="Nickelodeon.mncvision">
+    <title>iCarly</title>
+</programme>
+<programme start="20260429195000 +0000" stop="20260429201500 +0000" channel="Nickelodeon.mncvision">
+    <title>Victorious</title>
+</programme>
+<programme start="20260429201500 +0000" stop="20260429203500 +0000" channel="Nickelodeon.mncvision">
+    <title>Sam &amp; Cat</title>
+</programme>
+<programme start="20260429203500 +0000" stop="20260429210000 +0000" channel="Nickelodeon.mncvision">
+    <title>Tales Of The Teenage Mutant...</title>
+</programme>
+<programme start="20260429210000 +0000" stop="20260429212000 +0000" channel="Nickelodeon.mncvision">
+    <title>Tales Of The Teenage Mutant...</title>
+</programme>
+<programme start="20260429212000 +0000" stop="20260429214500 +0000" channel="Nickelodeon.mncvision">
+    <title>SpongeBob SquarePants</title>
+</programme>
+<programme start="20260429214500 +0000" stop="20260429221000 +0000" channel="Nickelodeon.mncvision">
+    <title>SpongeBob SquarePants</title>
+</programme>
+<programme start="20260429221000 +0000" stop="20260429223500 +0000" channel="Nickelodeon.mncvision">
+    <title>The Marsupilamis</title>
+</programme>
+<programme start="20260429223500 +0000" stop="20260429225500 +0000" channel="Nickelodeon.mncvision">
+    <title>Best And Bester</title>
+</programme>
+<programme start="20260429225500 +0000" stop="20260429232000 +0000" channel="Nickelodeon.mncvision">
+    <title>Best And Bester</title>
+</programme>
+<programme start="20260429232000 +0000" stop="20260429234000 +0000" channel="Nickelodeon.mncvision">
+    <title>The Patrick Star Show</title>
+</programme>
+<programme start="20260429234000 +0000" stop="20260430000500 +0000" channel="Nickelodeon.mncvision">
+    <title>The Patrick Star Show</title>
+</programme>
+<programme start="20260430000500 +0000" stop="20260430003000 +0000" channel="Nickelodeon.mncvision">
+    <title>SpongeBob SquarePants</title>
+</programme>
+<programme start="20260430003000 +0000" stop="20260430004500 +0000" channel="Nickelodeon.mncvision">
+    <title>SpongeBob SquarePants</title>
+</programme>
+<programme start="20260430004500 +0000" stop="20260430010500 +0000" channel="Nickelodeon.mncvision">
+    <title>The Thundermans: Undercover</title>
+</programme>
+<programme start="20260430010500 +0000" stop="20260430013000 +0000" channel="Nickelodeon.mncvision">
+    <title>Danger Force</title>
+</programme>
+<programme start="20260430013000 +0000" stop="20260430015500 +0000" channel="Nickelodeon.mncvision">
+    <title>Henry Danger</title>
+</programme>
+<programme start="20260430015500 +0000" stop="20260430022000 +0000" channel="Nickelodeon.mncvision">
+    <title>The Loud House</title>
+</programme>
+<programme start="20260430022000 +0000" stop="20260430024000 +0000" channel="Nickelodeon.mncvision">
+    <title>The Loud House</title>
+</programme>
+<programme start="20260430024000 +0000" stop="20260430030000 +0000" channel="Nickelodeon.mncvision">
+    <title>The Loud House</title>
+</programme>
+<programme start="20260430030000 +0000" stop="20260430032500 +0000" channel="Nickelodeon.mncvision">
+    <title>SpongeBob SquarePants</title>
+</programme>
+<programme start="20260430032500 +0000" stop="20260430034500 +0000" channel="Nickelodeon.mncvision">
+    <title>SpongeBob SquarePants</title>
+</programme>
+<programme start="20260430034500 +0000" stop="20260430040000 +0000" channel="Nickelodeon.mncvision">
+    <title>SpongeBob SquarePants</title>
+</programme>
+<programme start="20260430040000 +0000" stop="20260430042000 +0000" channel="Nickelodeon.mncvision">
+    <title>The Marsupilamis</title>
+</programme>
+<programme start="20260430042000 +0000" stop="20260430044500 +0000" channel="Nickelodeon.mncvision">
+    <title>The Patrick Star Show</title>
+</programme>
+<programme start="20260430044500 +0000" stop="20260430045500 +0000" channel="Nickelodeon.mncvision">
+    <title>The Patrick Star Show</title>
+</programme>
+<programme start="20260430045500 +0000" stop="20260430052000 +0000" channel="Nickelodeon.mncvision">
+    <title>The Loud House</title>
+</programme>
+<programme start="20260430052000 +0000" stop="20260430054500 +0000" channel="Nickelodeon.mncvision">
+    <title>The Loud House</title>
+</programme>
+<programme start="20260430054500 +0000" stop="20260430061000 +0000" channel="Nickelodeon.mncvision">
+    <title>The Loud House</title>
+</programme>
+<programme start="20260430061000 +0000" stop="20260430063000 +0000" channel="Nickelodeon.mncvision">
+    <title>The Loud House</title>
+</programme>
+<programme start="20260430063000 +0000" stop="20260430065000 +0000" channel="Nickelodeon.mncvision">
+    <title>Wylde Pak</title>
+</programme>
+<programme start="20260430065000 +0000" stop="20260430070000 +0000" channel="Nickelodeon.mncvision">
+    <title>Wylde Pak</title>
+</programme>
+<programme start="20260430070000 +0000" stop="20260430072500 +0000" channel="Nickelodeon.mncvision">
+    <title>SpongeBob SquarePants</title>
+</programme>
+<programme start="20260430072500 +0000" stop="20260430074000 +0000" channel="Nickelodeon.mncvision">
+    <title>SpongeBob SquarePants</title>
+</programme>
+<programme start="20260430074000 +0000" stop="20260430080500 +0000" channel="Nickelodeon.mncvision">
+    <title>The Marsupilamis</title>
+</programme>
+<programme start="20260430080500 +0000" stop="20260430083000 +0000" channel="Nickelodeon.mncvision">
+    <title>The Loud House</title>
+</programme>
+<programme start="20260430083000 +0000" stop="20260430085000 +0000" channel="Nickelodeon.mncvision">
+    <title>The Loud House</title>
+</programme>
+<programme start="20260430085000 +0000" stop="20260430090000 +0000" channel="Nickelodeon.mncvision">
+    <title>The Loud House</title>
+</programme>
+<programme start="20260430090000 +0000" stop="20260430092500 +0000" channel="Nickelodeon.mncvision">
+    <title>Wylde Pak</title>
+</programme>
+<programme start="20260430092500 +0000" stop="20260430095000 +0000" channel="Nickelodeon.mncvision">
+    <title>The Thundermans: Undercover</title>
+</programme>
+<programme start="20260430095000 +0000" stop="20260430101000 +0000" channel="Nickelodeon.mncvision">
+    <title>Henry Danger</title>
+</programme>
+<programme start="20260430101000 +0000" stop="20260430103500 +0000" channel="Nickelodeon.mncvision">
+    <title>iCarly</title>
+</programme>
+<programme start="20260430103500 +0000" stop="20260430110000 +0000" channel="Nickelodeon.mncvision">
+    <title>Victorious</title>
+</programme>
+<programme start="20260430110000 +0000" stop="20260430113000 +0000" channel="Nickelodeon.mncvision">
+    <title>That Girl Lay Lay</title>
+</programme>
+<programme start="20260429170500 +0000" stop="20260429171000 +0000" channel="Nickelodeon Jr.mncvision">
+    <title>Peppa Pig</title>
+</programme>
+<programme start="20260429171000 +0000" stop="20260429171500 +0000" channel="Nickelodeon Jr.mncvision">
+    <title>Peppa Pig</title>
+</programme>
+<programme start="20260429171500 +0000" stop="20260429172000 +0000" channel="Nickelodeon Jr.mncvision">
+    <title>Peppa Pig</title>
+</programme>
+<programme start="20260429172000 +0000" stop="20260429172500 +0000" channel="Nickelodeon Jr.mncvision">
+    <title>Peppa Pig</title>
+</programme>
+<programme start="20260429172500 +0000" stop="20260429173000 +0000" channel="Nickelodeon Jr.mncvision">
+    <title>Peppa Pig</title>
+</programme>
+<programme start="20260429173000 +0000" stop="20260429175000 +0000" channel="Nickelodeon Jr.mncvision">
+    <title>Barbapapa: Big Happy Family!</title>
+</programme>
+<programme start="20260429175000 +0000" stop="20260429182500 +0000" channel="Nickelodeon Jr.mncvision">
+    <title>Barbapapa: Big Happy Family!</title>
+</programme>
+<programme start="20260429182500 +0000" stop="20260429184500 +0000" channel="Nickelodeon Jr.mncvision">
+    <title>PAW Patrol</title>
+</programme>
+<programme start="20260429184500 +0000" stop="20260429191000 +0000" channel="Nickelodeon Jr.mncvision">
+    <title>PAW Patrol</title>
+</programme>
+<programme start="20260429191000 +0000" stop="20260429192000 +0000" channel="Nickelodeon Jr.mncvision">
+    <title>Rubble &amp; Crew</title>
+</programme>
+<programme start="20260429192000 +0000" stop="20260429194500 +0000" channel="Nickelodeon Jr.mncvision">
+    <title>Rubble &amp; Crew</title>
+</programme>
+<programme start="20260429194500 +0000" stop="20260429200500 +0000" channel="Nickelodeon Jr.mncvision">
+    <title>Dora</title>
+</programme>
+<programme start="20260429200500 +0000" stop="20260429202500 +0000" channel="Nickelodeon Jr.mncvision">
+    <title>Dora</title>
+</programme>
+<programme start="20260429202500 +0000" stop="20260429205000 +0000" channel="Nickelodeon Jr.mncvision">
+    <title>Barbapapa: Big Happy Family!</title>
+</programme>
+<programme start="20260429205000 +0000" stop="20260429211000 +0000" channel="Nickelodeon Jr.mncvision">
+    <title>Barbapapa: Big Happy Family!</title>
+</programme>
+<programme start="20260429211000 +0000" stop="20260429213500 +0000" channel="Nickelodeon Jr.mncvision">
+    <title>Barbapapa: Big Happy Family!</title>
+</programme>
+<programme start="20260429213500 +0000" stop="20260429215500 +0000" channel="Nickelodeon Jr.mncvision">
+    <title>Barbapapa: Big Happy Family!</title>
+</programme>
+<programme start="20260429215500 +0000" stop="20260429222000 +0000" channel="Nickelodeon Jr.mncvision">
+    <title>Barbapapa: Big Happy Family!</title>
+</programme>
+<programme start="20260429222000 +0000" stop="20260429224000 +0000" channel="Nickelodeon Jr.mncvision">
+    <title>Rubble &amp; Crew</title>
+</programme>
+<programme start="20260429224000 +0000" stop="20260429230500 +0000" channel="Nickelodeon Jr.mncvision">
+    <title>Rubble &amp; Crew</title>
+</programme>
+<programme start="20260429230500 +0000" stop="20260429232500 +0000" channel="Nickelodeon Jr.mncvision">
+    <title>PAW Patrol</title>
+</programme>
+<programme start="20260429232500 +0000" stop="20260429235000 +0000" channel="Nickelodeon Jr.mncvision">
+    <title>PAW Patrol</title>
+</programme>
+<programme start="20260429235000 +0000" stop="20260430001000 +0000" channel="Nickelodeon Jr.mncvision">
+    <title>Barbapapa: Big Happy Family!</title>
+</programme>
+<programme start="20260430001000 +0000" stop="20260430003500 +0000" channel="Nickelodeon Jr.mncvision">
+    <title>Barbapapa: Big Happy Family!</title>
+</programme>
+<programme start="20260430003500 +0000" stop="20260430004000 +0000" channel="Nickelodeon Jr.mncvision">
+    <title>Tim Rex In Space</title>
+</programme>
+<programme start="20260430004000 +0000" stop="20260430005000 +0000" channel="Nickelodeon Jr.mncvision">
+    <title>Tim Rex In Space</title>
+</programme>
+<programme start="20260430005000 +0000" stop="20260430005500 +0000" channel="Nickelodeon Jr.mncvision">
+    <title>Tim Rex In Space</title>
+</programme>
+<programme start="20260430005500 +0000" stop="20260430012000 +0000" channel="Nickelodeon Jr.mncvision">
+    <title>Rubble &amp; Crew</title>
+</programme>
+<programme start="20260430012000 +0000" stop="20260430014500 +0000" channel="Nickelodeon Jr.mncvision">
+    <title>Rubble &amp; Crew</title>
+</programme>
+<programme start="20260430014500 +0000" stop="20260430020500 +0000" channel="Nickelodeon Jr.mncvision">
+    <title>Dora</title>
+</programme>
+<programme start="20260430020500 +0000" stop="20260430023000 +0000" channel="Nickelodeon Jr.mncvision">
+    <title>Blaze &amp; The Monster Machines</title>
+</programme>
+<programme start="20260430023000 +0000" stop="20260430025000 +0000" channel="Nickelodeon Jr.mncvision">
+    <title>Mr. Crocodile</title>
+</programme>
+<programme start="20260430025000 +0000" stop="20260430031500 +0000" channel="Nickelodeon Jr.mncvision">
+    <title>Barbapapa: Big Happy Family!</title>
+</programme>
+<programme start="20260430031500 +0000" stop="20260430033500 +0000" channel="Nickelodeon Jr.mncvision">
+    <title>Barbapapa: Big Happy Family!</title>
+</programme>
+<programme start="20260430033500 +0000" stop="20260430042000 +0000" channel="Nickelodeon Jr.mncvision">
+    <title>Tim Rex In Space</title>
+</programme>
+<programme start="20260430042000 +0000" stop="20260430044500 +0000" channel="Nickelodeon Jr.mncvision">
+    <title>Blaze &amp; The Monster Machines</title>
+</programme>
+<programme start="20260430044500 +0000" stop="20260430045500 +0000" channel="Nickelodeon Jr.mncvision">
+    <title>Rubble &amp; Crew</title>
+</programme>
+<programme start="20260430045500 +0000" stop="20260430050500 +0000" channel="Nickelodeon Jr.mncvision">
+    <title>Rubble &amp; Crew</title>
+</programme>
+<programme start="20260430050500 +0000" stop="20260430053000 +0000" channel="Nickelodeon Jr.mncvision">
+    <title>Rubble &amp; Crew</title>
+</programme>
+<programme start="20260430053000 +0000" stop="20260430055000 +0000" channel="Nickelodeon Jr.mncvision">
+    <title>PAW Patrol</title>
+</programme>
+<programme start="20260430055000 +0000" stop="20260430061500 +0000" channel="Nickelodeon Jr.mncvision">
+    <title>PAW Patrol</title>
+</programme>
+<programme start="20260430061500 +0000" stop="20260430063500 +0000" channel="Nickelodeon Jr.mncvision">
+    <title>Dora</title>
+</programme>
+<programme start="20260430063500 +0000" stop="20260430065000 +0000" channel="Nickelodeon Jr.mncvision">
+    <title>Dora</title>
+</programme>
+<programme start="20260430065000 +0000" stop="20260430065500 +0000" channel="Nickelodeon Jr.mncvision">
+    <title>Tim Rex In Space</title>
+</programme>
+<programme start="20260430065500 +0000" stop="20260430070500 +0000" channel="Nickelodeon Jr.mncvision">
+    <title>Tim Rex In Space</title>
+</programme>
+<programme start="20260430070500 +0000" stop="20260430071000 +0000" channel="Nickelodeon Jr.mncvision">
+    <title>Tim Rex In Space</title>
+</programme>
+<programme start="20260430071000 +0000" stop="20260430071500 +0000" channel="Nickelodeon Jr.mncvision">
+    <title>Peppa Pig</title>
+</programme>
+<programme start="20260430071500 +0000" stop="20260430072000 +0000" channel="Nickelodeon Jr.mncvision">
+    <title>Peppa Pig</title>
+</programme>
+<programme start="20260430072000 +0000" stop="20260430072500 +0000" channel="Nickelodeon Jr.mncvision">
+    <title>Peppa Pig</title>
+</programme>
+<programme start="20260430072500 +0000" stop="20260430075500 +0000" channel="Nickelodeon Jr.mncvision">
+    <title>Peppa Pig</title>
+</programme>
 <programme start="20260429175000 +0000" stop="20260429191500 +0000" channel="ONE.mncvision">
     <title>Partners For Justice S2, Ep 12</title>
 </programme>
@@ -7050,9 +7532,12 @@ Error: Unable to fetch data. HTTP Status Code: 500
     <title>Tukang Bubur Naik Haji</title>
 </programme>
 <programme start="20260430063000 +0000" stop="20260430073000 +0000" channel="RCTI.mncvision">
-    <title>Tukang Ojek Pengkolan</title>
+    <title>TOP: Kisah Cinta Mas Pur</title>
 </programme>
-<programme start="20260430073000 +0000" stop="20260430100000 +0000" channel="RCTI.mncvision">
+<programme start="20260430073000 +0000" stop="20260430084500 +0000" channel="RCTI.mncvision">
+    <title>Si Doel Anak Sekolahan S6</title>
+</programme>
+<programme start="20260430084500 +0000" stop="20260430100000 +0000" channel="RCTI.mncvision">
     <title>Si Doel Anak Gedongan</title>
 </programme>
 <programme start="20260430100000 +0000" stop="20260430120000 +0000" channel="RCTI.mncvision">
@@ -7095,9 +7580,12 @@ Error: Unable to fetch data. HTTP Status Code: 500
     <title>Tukang Bubur Naik Haji</title>
 </programme>
 <programme start="20260430063000 +0000" stop="20260430073000 +0000" channel="RCTI HD.mncvision">
-    <title>Tukang Ojek Pengkolan</title>
+    <title>TOP: Kisah Cinta Mas Pur</title>
 </programme>
-<programme start="20260430073000 +0000" stop="20260430100000 +0000" channel="RCTI HD.mncvision">
+<programme start="20260430073000 +0000" stop="20260430084500 +0000" channel="RCTI HD.mncvision">
+    <title>Si Doel Anak Sekolahan S6</title>
+</programme>
+<programme start="20260430084500 +0000" stop="20260430100000 +0000" channel="RCTI HD.mncvision">
     <title>Si Doel Anak Gedongan</title>
 </programme>
 <programme start="20260430100000 +0000" stop="20260430120000 +0000" channel="RCTI HD.mncvision">
@@ -7253,43 +7741,43 @@ Error: Unable to fetch data. HTTP Status Code: 500
 <programme start="20260429220000 +0000" stop="20260429230000 +0000" channel="SCTV.mncvision">
     <title>Liputan 6 Pagi (L)</title>
 </programme>
-<programme start="20260429230000 +0000" stop="20260430000000 +0000" channel="SCTV.mncvision">
+<programme start="20260429230000 +0000" stop="20260430000800 +0000" channel="SCTV.mncvision">
     <title>Halo Selebriti</title>
 </programme>
-<programme start="20260430000000 +0000" stop="20260430010000 +0000" channel="SCTV.mncvision">
+<programme start="20260430000800 +0000" stop="20260430010400 +0000" channel="SCTV.mncvision">
     <title>Tiba-Tiba Kuis</title>
 </programme>
-<programme start="20260430010000 +0000" stop="20260430030000 +0000" channel="SCTV.mncvision">
+<programme start="20260430010400 +0000" stop="20260430025000 +0000" channel="SCTV.mncvision">
     <title>The Best Cowok Romantis Evah</title>
 </programme>
-<programme start="20260430030000 +0000" stop="20260430050000 +0000" channel="SCTV.mncvision">
+<programme start="20260430025000 +0000" stop="20260430044600 +0000" channel="SCTV.mncvision">
     <title>Jodoh Gue Kurir Kece</title>
 </programme>
-<programme start="20260430050000 +0000" stop="20260430053000 +0000" channel="SCTV.mncvision">
+<programme start="20260430044600 +0000" stop="20260430051900 +0000" channel="SCTV.mncvision">
     <title>Liputan 6 Siang (L)</title>
 </programme>
-<programme start="20260430053000 +0000" stop="20260430070000 +0000" channel="SCTV.mncvision">
-    <title>Jodoh Gue No Tipu-Tipu</title>
+<programme start="20260430051900 +0000" stop="20260430065300 +0000" channel="SCTV.mncvision">
+    <title>Miss Tahu Digejrot Rindu</title>
 </programme>
-<programme start="20260430070000 +0000" stop="20260430083000 +0000" channel="SCTV.mncvision">
+<programme start="20260430065300 +0000" stop="20260430082700 +0000" channel="SCTV.mncvision">
     <title>Miss Kumis Bikin Hati...</title>
 </programme>
-<programme start="20260430083000 +0000" stop="20260430100000 +0000" channel="SCTV.mncvision">
-    <title>33 Hari Aku Terjebak...</title>
+<programme start="20260430082700 +0000" stop="20260430100000 +0000" channel="SCTV.mncvision">
+    <title>Suara Dari Pisang Nugget</title>
 </programme>
-<programme start="20260430100000 +0000" stop="20260430111500 +0000" channel="SCTV.mncvision">
+<programme start="20260430100000 +0000" stop="20260430112600 +0000" channel="SCTV.mncvision">
     <title>Asmara Gen Z</title>
 </programme>
-<programme start="20260430111500 +0000" stop="20260430130000 +0000" channel="SCTV.mncvision">
+<programme start="20260430112600 +0000" stop="20260430131300 +0000" channel="SCTV.mncvision">
     <title>Istiqomah Cinta</title>
 </programme>
-<programme start="20260430130000 +0000" stop="20260430143500 +0000" channel="SCTV.mncvision">
+<programme start="20260430131300 +0000" stop="20260430143500 +0000" channel="SCTV.mncvision">
     <title>Beri Cinta Waktu</title>
 </programme>
-<programme start="20260430143500 +0000" stop="20260430160000 +0000" channel="SCTV.mncvision">
+<programme start="20260430143500 +0000" stop="20260430160200 +0000" channel="SCTV.mncvision">
     <title>Jejak Duka Diandra</title>
 </programme>
-<programme start="20260430160000 +0000" stop="20260430163000 +0000" channel="SCTV.mncvision">
+<programme start="20260430160200 +0000" stop="20260430163200 +0000" channel="SCTV.mncvision">
     <title>Jurus Lele Kepatil Cinta</title>
 </programme>
 <programme start="20260429173500 +0000" stop="20260429183500 +0000" channel="SCTV HD.mncvision">
@@ -7307,43 +7795,43 @@ Error: Unable to fetch data. HTTP Status Code: 500
 <programme start="20260429220000 +0000" stop="20260429230000 +0000" channel="SCTV HD.mncvision">
     <title>Liputan 6 Pagi (L)</title>
 </programme>
-<programme start="20260429230000 +0000" stop="20260430000000 +0000" channel="SCTV HD.mncvision">
+<programme start="20260429230000 +0000" stop="20260430000800 +0000" channel="SCTV HD.mncvision">
     <title>Halo Selebriti</title>
 </programme>
-<programme start="20260430000000 +0000" stop="20260430010000 +0000" channel="SCTV HD.mncvision">
+<programme start="20260430000800 +0000" stop="20260430010400 +0000" channel="SCTV HD.mncvision">
     <title>Tiba-Tiba Kuis</title>
 </programme>
-<programme start="20260430010000 +0000" stop="20260430030000 +0000" channel="SCTV HD.mncvision">
+<programme start="20260430010400 +0000" stop="20260430025000 +0000" channel="SCTV HD.mncvision">
     <title>The Best Cowok Romantis Evah</title>
 </programme>
-<programme start="20260430030000 +0000" stop="20260430050000 +0000" channel="SCTV HD.mncvision">
+<programme start="20260430025000 +0000" stop="20260430044600 +0000" channel="SCTV HD.mncvision">
     <title>Jodoh Gue Kurir Kece</title>
 </programme>
-<programme start="20260430050000 +0000" stop="20260430053000 +0000" channel="SCTV HD.mncvision">
+<programme start="20260430044600 +0000" stop="20260430051900 +0000" channel="SCTV HD.mncvision">
     <title>Liputan 6 Siang (L)</title>
 </programme>
-<programme start="20260430053000 +0000" stop="20260430070000 +0000" channel="SCTV HD.mncvision">
-    <title>Jodoh Gue No Tipu-Tipu</title>
+<programme start="20260430051900 +0000" stop="20260430065300 +0000" channel="SCTV HD.mncvision">
+    <title>Miss Tahu Digejrot Rindu</title>
 </programme>
-<programme start="20260430070000 +0000" stop="20260430083000 +0000" channel="SCTV HD.mncvision">
+<programme start="20260430065300 +0000" stop="20260430082700 +0000" channel="SCTV HD.mncvision">
     <title>Miss Kumis Bikin Hati...</title>
 </programme>
-<programme start="20260430083000 +0000" stop="20260430100000 +0000" channel="SCTV HD.mncvision">
-    <title>33 Hari Aku Terjebak...</title>
+<programme start="20260430082700 +0000" stop="20260430100000 +0000" channel="SCTV HD.mncvision">
+    <title>Suara Dari Pisang Nugget</title>
 </programme>
-<programme start="20260430100000 +0000" stop="20260430111500 +0000" channel="SCTV HD.mncvision">
+<programme start="20260430100000 +0000" stop="20260430112600 +0000" channel="SCTV HD.mncvision">
     <title>Asmara Gen Z</title>
 </programme>
-<programme start="20260430111500 +0000" stop="20260430130000 +0000" channel="SCTV HD.mncvision">
+<programme start="20260430112600 +0000" stop="20260430131300 +0000" channel="SCTV HD.mncvision">
     <title>Istiqomah Cinta</title>
 </programme>
-<programme start="20260430130000 +0000" stop="20260430143500 +0000" channel="SCTV HD.mncvision">
+<programme start="20260430131300 +0000" stop="20260430143500 +0000" channel="SCTV HD.mncvision">
     <title>Beri Cinta Waktu</title>
 </programme>
-<programme start="20260430143500 +0000" stop="20260430160000 +0000" channel="SCTV HD.mncvision">
+<programme start="20260430143500 +0000" stop="20260430160200 +0000" channel="SCTV HD.mncvision">
     <title>Jejak Duka Diandra</title>
 </programme>
-<programme start="20260430160000 +0000" stop="20260430163000 +0000" channel="SCTV HD.mncvision">
+<programme start="20260430160200 +0000" stop="20260430163200 +0000" channel="SCTV HD.mncvision">
     <title>Jurus Lele Kepatil Cinta</title>
 </programme>
 <programme start="20260429170000 +0000" stop="20260429180000 +0000" channel="Sindo News TV.mncvision">
@@ -7941,19 +8429,19 @@ Error: Unable to fetch data. HTTP Status Code: 500
     <title>25/26 ROSHN Saudi League</title>
 </programme>
 <programme start="20260430090000 +0000" stop="20260430110500 +0000" channel="SPOTV.mncvision">
-    <title>2026 E1 World C&#039;ship: Lake Como</title>
+    <title>E1 World C&#039;ship: Lake Como GP</title>
 </programme>
 <programme start="20260430110500 +0000" stop="20260430134000 +0000" channel="SPOTV.mncvision">
-    <title>2026 E1 World C&#039;ship: Lake Como</title>
+    <title>E1 World C&#039;ship: Lake Como GP</title>
 </programme>
 <programme start="20260430134000 +0000" stop="20260430154500 +0000" channel="SPOTV.mncvision">
-    <title>2026 E1 World C&#039;ship: Lake Como</title>
+    <title>E1 World C&#039;ship: Lake Como GP</title>
 </programme>
 <programme start="20260430154500 +0000" stop="20260430161500 +0000" channel="SPOTV.mncvision">
-    <title>2026 E1 World C&#039;ship: Lake Como</title>
+    <title>E1 World C&#039;ship: Lake Como GP</title>
 </programme>
 <programme start="20260430161500 +0000" stop="20260430164500 +0000" channel="SPOTV.mncvision">
-    <title>2026 E1 World C&#039;ship: Lake Como</title>
+    <title>E1 World C&#039;ship: Lake Como GP</title>
 </programme>
 <programme start="20260429181000 +0000" stop="20260429190000 +0000" channel="SPOTV 2.mncvision">
     <title>Red Bull MotoGP Rookies Cup</title>
@@ -8052,19 +8540,19 @@ Error: Unable to fetch data. HTTP Status Code: 500
     <title>25/26 ROSHN Saudi League</title>
 </programme>
 <programme start="20260430090000 +0000" stop="20260430110500 +0000" channel="SPOTV HD.mncvision">
-    <title>2026 E1 World C&#039;ship: Lake Como</title>
+    <title>E1 World C&#039;ship: Lake Como GP</title>
 </programme>
 <programme start="20260430110500 +0000" stop="20260430134000 +0000" channel="SPOTV HD.mncvision">
-    <title>2026 E1 World C&#039;ship: Lake Como</title>
+    <title>E1 World C&#039;ship: Lake Como GP</title>
 </programme>
 <programme start="20260430134000 +0000" stop="20260430154500 +0000" channel="SPOTV HD.mncvision">
-    <title>2026 E1 World C&#039;ship: Lake Como</title>
+    <title>E1 World C&#039;ship: Lake Como GP</title>
 </programme>
 <programme start="20260430154500 +0000" stop="20260430161500 +0000" channel="SPOTV HD.mncvision">
-    <title>2026 E1 World C&#039;ship: Lake Como</title>
+    <title>E1 World C&#039;ship: Lake Como GP</title>
 </programme>
 <programme start="20260430161500 +0000" stop="20260430164500 +0000" channel="SPOTV HD.mncvision">
-    <title>2026 E1 World C&#039;ship: Lake Como</title>
+    <title>E1 World C&#039;ship: Lake Como GP</title>
 </programme>
 <programme start="20260429174500 +0000" stop="20260429184000 +0000" channel="Studio Universal.mncvision">
     <title>Defying Gravity: The Curtain...</title>
