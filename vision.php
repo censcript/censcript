@@ -553,9 +553,6 @@
 <programme start="20260430170000 +0000" stop="20260430183000 +0000" channel="ANTV.vision">
 <title>Prince Charming</title>
 </programme>
-<programme start="20260430183000 +0000" stop="20260430200000 +0000" channel="ANTV.vision">
-<title>Bullet In The Head</title>
-</programme>
 <programme start="20260430200000 +0000" stop="20260430220000 +0000" channel="ANTV.vision">
 <title>Kapoor &amp; Sons</title>
 </programme>
@@ -1497,4 +1494,7 @@
 </programme>
 <programme start="20260501060000 +0000" stop="20260501063000 +0000" channel="DAAI TV.vision">
 <title>Potret</title>
+</programme>
+<programme start="20260501063000 +0000" stop="20260501070000 +0000" channel="DAAI TV.vision">
+<title>Tek Tok</title>
 </programme>

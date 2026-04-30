@@ -218,12 +218,12 @@
     <desc lang="id">Film televisi yang mengangkat kisah romantisme kehidupan dengan konflik yang menarik. Tayang setiap hari.</desc>
     <icon src="https://thumbor.prod.vidiocdn.com/N99E8BD1OJ5vvymwPBj0c-BU5J4=/287x162/filters:strip_icc():quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/image/204/sctv-5ef966.jpg"/>
   </programme>
-  <programme channel="204" start="20260430173000 +0000" stop="20260430190000 +0000">
+  <programme channel="204" start="20260430173000 +0000" stop="20260430184200 +0000">
     <title lang="id">FTV Utama: Romantika Di Balik Gempa</title>
     <desc lang="id">Film televisi yang mengangkat kisah romantisme kehidupan dengan konflik yang menarik. Tayang setiap hari.</desc>
     <icon src="https://thumbor.prod.vidiocdn.com/N99E8BD1OJ5vvymwPBj0c-BU5J4=/287x162/filters:strip_icc():quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/image/204/sctv-5ef966.jpg"/>
   </programme>
-  <programme channel="204" start="20260430190000 +0000" stop="20260430210000 +0000">
+  <programme channel="204" start="20260430184200 +0000" stop="20260430210000 +0000">
     <title lang="id">Semi Final Uefa Europa League - Live</title>
     <desc lang="id">BRAGA VS FREIBURG</desc>
     <icon src="https://thumbor.prod.vidiocdn.com/N99E8BD1OJ5vvymwPBj0c-BU5J4=/287x162/filters:strip_icc():quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/image/204/sctv-5ef966.jpg"/>
@@ -13495,17 +13495,16 @@
     <desc lang="id">Week 22</desc>
     <icon src="https://thumbor.prod.vidiocdn.com/nY0aFklpYf6yONLaFJjxhiSuthc=/287x162/filters:strip_icc():quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/image/6786/champions-tv-3-76ca7c.jpg"/>
   </programme>
-  <programme channel="6786" start="20260430193000 +0000" stop="20260430213000 +0000">
+  <programme channel="6786" start="20260430193000 +0000" stop="20260430200000 +0000">
+    <title lang="id">Filler</title>
+    <icon src="https://thumbor.prod.vidiocdn.com/nY0aFklpYf6yONLaFJjxhiSuthc=/287x162/filters:strip_icc():quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/image/6786/champions-tv-3-76ca7c.jpg"/>
+  </programme>
+  <programme channel="6786" start="20260430200000 +0000" stop="20260430223000 +0000">
     <title lang="id">Semifinal - WTA 1000: Mutua Madrid Open 2026</title>
     <desc lang="id">Nonton streaming pertandingan seru Semifinal - WTA 1000: Mutua Madrid Open 2026. Saksikan aksi-aksi terbaik dari tim yang bersaing ketat untuk meraih kemenangan. Dapatkan informasi lengkap mengenai jadwal pertandingan dan hasil pertandingan terbaru hanya di Vidio.</desc>
     <icon src="https://thumbor.prod.vidiocdn.com/O8I6tcHj9FqCUSGvbPwjPLA4muY=/287x162/filters:strip_icc():quality(70)/vidio-media-production/uploads/livestreaming/schedule/thumbnail/5036099/5f5f35.jpg"/>
   </programme>
-  <programme channel="6786" start="20260430213000 +0000" stop="20260430220000 +0000">
-    <title lang="id">BJKC - Player Features : WTA my Story</title>
-    <desc lang="id">BJKC - Player Features</desc>
-    <icon src="https://thumbor.prod.vidiocdn.com/nY0aFklpYf6yONLaFJjxhiSuthc=/287x162/filters:strip_icc():quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/image/6786/champions-tv-3-76ca7c.jpg"/>
-  </programme>
-  <programme channel="6786" start="20260430220000 +0000" stop="20260501020000 +0000">
+  <programme channel="6786" start="20260430223000 +0000" stop="20260501020000 +0000">
     <title lang="id">Day 2 Round 2-3 : NFL DRAFT 2026</title>
     <desc lang="id">Day 2 Round 2-3</desc>
     <icon src="https://thumbor.prod.vidiocdn.com/nY0aFklpYf6yONLaFJjxhiSuthc=/287x162/filters:strip_icc():quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/image/6786/champions-tv-3-76ca7c.jpg"/>
