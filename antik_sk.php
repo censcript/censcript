@@ -4684,14 +4684,17 @@
   <programme start="20260502093000 +0000" stop="20260502100000 +0000" channel="Arena Sport 2.webtv.sk">
     <title lang="id">Autožurnál</title>
   </programme>
-  <programme start="20260502100000 +0000" stop="20260502123000 +0000" channel="Arena Sport 2.webtv.sk">
+  <programme start="20260502100000 +0000" stop="20260502121500 +0000" channel="Arena Sport 2.webtv.sk">
     <title lang="id">Majstrovstvá sveta vo vzpieraní 2026 - juniori - ženy 48kg</title>
   </programme>
-  <programme start="20260502123000 +0000" stop="20260502143000 +0000" channel="Arena Sport 2.webtv.sk">
-    <title lang="id">Open Aix Provence Crédit Agricole/Sardegna Open</title>
+  <programme start="20260502121500 +0000" stop="20260502140000 +0000" channel="Arena Sport 2.webtv.sk">
+    <title lang="id">Open Aix Provence Crédit Agricole</title>
   </programme>
-  <programme start="20260502143000 +0000" stop="20260502170000 +0000" channel="Arena Sport 2.webtv.sk">
-    <title lang="id">Open Aix Provence Crédit Agricole/Sardegna Open</title>
+  <programme start="20260502140000 +0000" stop="20260502160000 +0000" channel="Arena Sport 2.webtv.sk">
+    <title lang="id">Open Aix Provence Crédit Agricole</title>
+  </programme>
+  <programme start="20260502160000 +0000" stop="20260502170000 +0000" channel="Arena Sport 2.webtv.sk">
+    <title lang="id">Sardegna Open</title>
   </programme>
   <programme start="20260502170000 +0000" stop="20260502190000 +0000" channel="Arena Sport 2.webtv.sk">
     <title lang="id">Famalicăo - SL Benfica</title>
@@ -17899,8 +17902,11 @@
   <programme start="20260502213000 +0000" stop="20260502220000 +0000" channel="TRT World.webtv.sk">
     <title lang="id">Roundtable</title>
   </programme>
-  <programme start="20260501220000 +0000" stop="20260501230000 +0000" channel="Al Jazeera English.webtv.sk">
+  <programme start="20260501220000 +0000" stop="20260501223000 +0000" channel="Al Jazeera English.webtv.sk">
     <title lang="id">News Live</title>
+  </programme>
+  <programme start="20260501223000 +0000" stop="20260501230000 +0000" channel="Al Jazeera English.webtv.sk">
+    <title lang="id">Counting the Cost</title>
   </programme>
   <programme start="20260501230000 +0000" stop="20260501233000 +0000" channel="Al Jazeera English.webtv.sk">
     <title lang="id">News Live</title>
@@ -17912,19 +17918,13 @@
     <title lang="id">Newshour</title>
   </programme>
   <programme start="20260502010000 +0000" stop="20260502020000 +0000" channel="Al Jazeera English.webtv.sk">
-    <title lang="id">Silenced: The War On Journalism</title>
+    <title lang="id">Newshour</title>
   </programme>
-  <programme start="20260502020000 +0000" stop="20260502023000 +0000" channel="Al Jazeera English.webtv.sk">
-    <title lang="id">News Live</title>
+  <programme start="20260502020000 +0000" stop="20260502030000 +0000" channel="Al Jazeera English.webtv.sk">
+    <title lang="id">Newshour</title>
   </programme>
-  <programme start="20260502023000 +0000" stop="20260502030000 +0000" channel="Al Jazeera English.webtv.sk">
-    <title lang="id">The Global Population Bust</title>
-  </programme>
-  <programme start="20260502030000 +0000" stop="20260502033000 +0000" channel="Al Jazeera English.webtv.sk">
-    <title lang="id">News Live</title>
-  </programme>
-  <programme start="20260502033000 +0000" stop="20260502040000 +0000" channel="Al Jazeera English.webtv.sk">
-    <title lang="id">101 East</title>
+  <programme start="20260502030000 +0000" stop="20260502040000 +0000" channel="Al Jazeera English.webtv.sk">
+    <title lang="id">Newshour</title>
   </programme>
   <programme start="20260502040000 +0000" stop="20260502043000 +0000" channel="Al Jazeera English.webtv.sk">
     <title lang="id">News Live</title>
@@ -17938,23 +17938,14 @@
   <programme start="20260502053000 +0000" stop="20260502060000 +0000" channel="Al Jazeera English.webtv.sk">
     <title lang="id">Inside Story</title>
   </programme>
-  <programme start="20260502060000 +0000" stop="20260502063000 +0000" channel="Al Jazeera English.webtv.sk">
-    <title lang="id">News Live</title>
+  <programme start="20260502060000 +0000" stop="20260502070000 +0000" channel="Al Jazeera English.webtv.sk">
+    <title lang="id">Newshour</title>
   </programme>
-  <programme start="20260502063000 +0000" stop="20260502070000 +0000" channel="Al Jazeera English.webtv.sk">
-    <title lang="id">Witness</title>
+  <programme start="20260502070000 +0000" stop="20260502080000 +0000" channel="Al Jazeera English.webtv.sk">
+    <title lang="id">Newshour</title>
   </programme>
-  <programme start="20260502070000 +0000" stop="20260502073000 +0000" channel="Al Jazeera English.webtv.sk">
-    <title lang="id">News Live</title>
-  </programme>
-  <programme start="20260502073000 +0000" stop="20260502080000 +0000" channel="Al Jazeera English.webtv.sk">
-    <title lang="id">People and Power</title>
-  </programme>
-  <programme start="20260502080000 +0000" stop="20260502083000 +0000" channel="Al Jazeera English.webtv.sk">
-    <title lang="id">News Live</title>
-  </programme>
-  <programme start="20260502083000 +0000" stop="20260502090000 +0000" channel="Al Jazeera English.webtv.sk">
-    <title lang="id">The Stream</title>
+  <programme start="20260502080000 +0000" stop="20260502090000 +0000" channel="Al Jazeera English.webtv.sk">
+    <title lang="id">Newshour</title>
   </programme>
   <programme start="20260502090000 +0000" stop="20260502093000 +0000" channel="Al Jazeera English.webtv.sk">
     <title lang="id">News Live</title>
@@ -17972,7 +17963,7 @@
     <title lang="id">Inside Story</title>
   </programme>
   <programme start="20260502120000 +0000" stop="20260502130000 +0000" channel="Al Jazeera English.webtv.sk">
-    <title lang="id">Al Jazeera World</title>
+    <title lang="id">Newshour</title>
   </programme>
   <programme start="20260502130000 +0000" stop="20260502140000 +0000" channel="Al Jazeera English.webtv.sk">
     <title lang="id">Newshour</title>
@@ -17986,11 +17977,8 @@
   <programme start="20260502150000 +0000" stop="20260502160000 +0000" channel="Al Jazeera English.webtv.sk">
     <title lang="id">Newshour</title>
   </programme>
-  <programme start="20260502160000 +0000" stop="20260502163000 +0000" channel="Al Jazeera English.webtv.sk">
+  <programme start="20260502160000 +0000" stop="20260502170000 +0000" channel="Al Jazeera English.webtv.sk">
     <title lang="id">News Live</title>
-  </programme>
-  <programme start="20260502163000 +0000" stop="20260502170000 +0000" channel="Al Jazeera English.webtv.sk">
-    <title lang="id">The Global Population Bust</title>
   </programme>
   <programme start="20260502170000 +0000" stop="20260502173000 +0000" channel="Al Jazeera English.webtv.sk">
     <title lang="id">News Live</title>
@@ -18008,7 +17996,7 @@
     <title lang="id">The Listening Post</title>
   </programme>
   <programme start="20260502200000 +0000" stop="20260502210000 +0000" channel="Al Jazeera English.webtv.sk">
-    <title lang="id">Witness</title>
+    <title lang="id">Newshour</title>
   </programme>
   <programme start="20260502210000 +0000" stop="20260502220000 +0000" channel="Al Jazeera English.webtv.sk">
     <title lang="id">Newshour</title>
