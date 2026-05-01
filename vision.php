@@ -592,9 +592,6 @@
 <programme start="20260430230000 +0000" stop="20260501003000 +0000" channel="ANTV.vision">
 <title>Kasautii</title>
 </programme>
-<programme start="20260501003000 +0000" stop="20260501023000 +0000" channel="ANTV.vision">
-<title>Khana</title>
-</programme>
 <programme start="20260501023000 +0000" stop="20260501060000 +0000" channel="ANTV.vision">
 <title>Mujhse Dosti Karoge</title>
 </programme>
@@ -1496,5 +1493,8 @@
 <title>TVRI</title>
 </programme>
 <programme start="20260501030000 +0000" stop="20260501050000 +0000" channel="TVRI.vision">
+<title>TVRI</title>
+</programme>
+<programme start="20260501050000 +0000" stop="20260501070000 +0000" channel="TVRI.vision">
 <title>TVRI</title>
 </programme>

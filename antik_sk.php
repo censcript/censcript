@@ -18868,25 +18868,28 @@
   <programme start="20260503215600 +0000" stop="20260503220000 +0000" channel="France 24.webtv.sk">
     <title lang="id">CULTURE PRIME</title>
   </programme>
-  <programme start="20260502220000 +0000" stop="20260502220500 +0000" channel="Rai Uno.webtv.sk">
-    <title lang="id">Tg1</title>
-  </programme>
-  <programme start="20260502220500 +0000" stop="20260502223000 +0000" channel="Rai Uno.webtv.sk">
+  <programme start="20260502193000 +0000" stop="20260502221500 +0000" channel="Rai Uno.webtv.sk">
     <title lang="id">Dalla strada al palco (4)</title>
   </programme>
-  <programme start="20260502223000 +0000" stop="20260502223500 +0000" channel="Rai Uno.webtv.sk">
+  <programme start="20260502221500 +0000" stop="20260502222000 +0000" channel="Rai Uno.webtv.sk">
+    <title lang="id">Tg1</title>
+  </programme>
+  <programme start="20260502222000 +0000" stop="20260502224500 +0000" channel="Rai Uno.webtv.sk">
+    <title lang="id">Dalla strada al palco (4)</title>
+  </programme>
+  <programme start="20260502224500 +0000" stop="20260502225000 +0000" channel="Rai Uno.webtv.sk">
     <title lang="id">Che tempo fa</title>
   </programme>
-  <programme start="20260502223500 +0000" stop="20260503000500 +0000" channel="Rai Uno.webtv.sk">
+  <programme start="20260502225000 +0000" stop="20260503002000 +0000" channel="Rai Uno.webtv.sk">
     <title lang="id">Sottovoce</title>
   </programme>
-  <programme start="20260503000500 +0000" stop="20260503014000 +0000" channel="Rai Uno.webtv.sk">
+  <programme start="20260503002000 +0000" stop="20260503015500 +0000" channel="Rai Uno.webtv.sk">
     <title lang="id">Ciao Maschio VII</title>
   </programme>
-  <programme start="20260503014000 +0000" stop="20260503022500 +0000" channel="Rai Uno.webtv.sk">
+  <programme start="20260503015500 +0000" stop="20260503024000 +0000" channel="Rai Uno.webtv.sk">
     <title lang="id">Il commissario Rex VI (7)</title>
   </programme>
-  <programme start="20260503022500 +0000" stop="20260503031500 +0000" channel="Rai Uno.webtv.sk">
+  <programme start="20260503024000 +0000" stop="20260503031500 +0000" channel="Rai Uno.webtv.sk">
     <title lang="id">Techetechete</title>
   </programme>
   <programme start="20260503031500 +0000" stop="20260503040000 +0000" channel="Rai Uno.webtv.sk">

@@ -2603,7 +2603,7 @@
     <title>ATP: The Impossible Shot - Behind The Scenes</title>
 </programme>
 <programme start="20260501175500 +0000" stop="20260501200000 +0000" channel="Sky Sport Austria 1 HD.skyde">
-    <title>Live ATP 1000: HF2, Mutua Madrid Open in Madrid (ESP), Halbfinale 2</title>
+    <title>Live ATP 1000: A.Zverev (GER) - A. Blockx (BEL), Mutua Madrid Open in Madrid (ESP), Halbfinale 2</title>
 </programme>
 <programme start="20260501200000 +0000" stop="20260501203000 +0000" channel="Sky Sport Austria 1 HD.skyde">
     <title>UEFA CL: Magazin</title>

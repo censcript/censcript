@@ -15361,9 +15361,19 @@
     <desc lang="en">The best professional youth clubs from LaLiga EA Sports competition and international soccer leagues battle it out in this prestigious football competition.</desc>
     <category lang="en">Sports</category>
   </programme>
-  <programme start="20260501074000 +0000" stop="20260501092500 +0000" channel="beinsports.unifitv">
-    <title lang="en">LaLiga - Rayo Vallecano vs Real Sociedad</title>
-    <desc lang="en">Extensive coverage from every round of the Spanish LaLiga, Spain's top division of football with the World's biggest teams.</desc>
+  <programme start="20260501074000 +0000" stop="20260501084000 +0000" channel="beinsports.unifitv">
+    <title lang="en">European Le Mans Series - Barcelona</title>
+    <desc lang="en">Highlights a record-breaking 47-car grid competing on premier European circuits, showcasing 9 different brands.</desc>
+    <category lang="en">Sports</category>
+  </programme>
+  <programme start="20260501084000 +0000" stop="20260501091000 +0000" channel="beinsports.unifitv">
+    <title lang="en">Le Mans Cup Highlights - Barcelona</title>
+    <desc lang="en">Highlights of the eleventh season of the premier European endurance support series, featuring a record 45-car grid across LMP3 and GT3 classes</desc>
+    <category lang="en">Sports</category>
+  </programme>
+  <programme start="20260501091000 +0000" stop="20260501092500 +0000" channel="beinsports.unifitv">
+    <title lang="en">LaLiga Goals Galore - Raphinha</title>
+    <desc lang="en">Relive every goal from the best players in 2024/25 season.</desc>
     <category lang="en">Sports</category>
   </programme>
   <programme start="20260501092500 +0000" stop="20260501100000 +0000" channel="beinsports.unifitv">
