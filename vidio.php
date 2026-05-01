@@ -12977,12 +12977,12 @@
     <desc lang="id">Full Impact - Round 34</desc>
     <icon src="https://thumbor.prod.vidiocdn.com/nY0aFklpYf6yONLaFJjxhiSuthc=/287x162/filters:strip_icc():quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/image/6786/champions-tv-3-76ca7c.jpg"/>
   </programme>
-  <programme channel="6786" start="20260501183000 +0000" stop="20260501205000 +0000">
+  <programme channel="6786" start="20260501183000 +0000" stop="20260501204500 +0000">
     <title lang="id">PISA vs LECCE : Serie A 2025/26</title>
     <desc lang="id">PISA vs LECCE</desc>
     <icon src="https://thumbor.prod.vidiocdn.com/nY0aFklpYf6yONLaFJjxhiSuthc=/287x162/filters:strip_icc():quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/image/6786/champions-tv-3-76ca7c.jpg"/>
   </programme>
-  <programme channel="6786" start="20260501205000 +0000" stop="20260501210000 +0000">
+  <programme channel="6786" start="20260501204500 +0000" stop="20260501210000 +0000">
     <title lang="id">Filler</title>
     <icon src="https://thumbor.prod.vidiocdn.com/nY0aFklpYf6yONLaFJjxhiSuthc=/287x162/filters:strip_icc():quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/image/6786/champions-tv-3-76ca7c.jpg"/>
   </programme>
@@ -21698,15 +21698,15 @@
     <desc lang="id">40 of the world's best female and male professional triathletes battle over 8 breakneck 100km races in iconic locations around the globe in a bid to be crowned the T100 World Champions.</desc>
     <icon src="https://thumbor.prod.vidiocdn.com/YBK8XRc1cWJx0JfM3CWo6PnTfFY=/287x162/filters:strip_icc():quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/image/17139/spotv-c18c69.jpg"/>
   </programme>
-  <programme channel="17139" start="20260504162500 +0000" stop="20260504183000 +0000">
-    <title lang="id">Heart of Midlothian vs Rangers : 25/26 Scottish Premiership Round 35</title>
-    <desc lang="id">Scotland's elite clubs return for the 2025/26 Premiership campaign, battling for European spots, survival, and the league championship.</desc>
-    <icon src="https://thumbor.prod.vidiocdn.com/YBK8XRc1cWJx0JfM3CWo6PnTfFY=/287x162/filters:strip_icc():quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/image/17139/spotv-c18c69.jpg"/>
+  <programme channel="17139" start="20260504163000 +0000" stop="20260504183000 +0000">
+    <title lang="id">Hearts vs Rangers - Scottish Premiership</title>
+    <desc lang="id">Nonton streaming pertandingan seru Hearts vs Rangers - Scottish Premiership. Saksikan aksi-aksi terbaik dari tim yang bersaing ketat untuk meraih kemenangan. Dapatkan informasi lengkap mengenai jadwal pertandingan dan hasil pertandingan terbaru hanya di Vidio.</desc>
+    <icon src="https://thumbor.prod.vidiocdn.com/CPi9Cyutlq-NIGLEtM_8L5DG2JY=/287x162/filters:strip_icc():quality(70)/vidio-media-production/uploads/livestreaming/schedule/thumbnail/5055878/b0e1b6.jpg"/>
   </programme>
-  <programme channel="17139" start="20260504162500 +0000" stop="20260504183000 +0000">
-    <title lang="id">Heart of Midlothian vs Rangers : 25/26 Scottish Premiership Round 35</title>
-    <desc lang="id">Scotland's elite clubs return for the 2025/26 Premiership campaign, battling for European spots, survival, and the league championship.</desc>
-    <icon src="https://thumbor.prod.vidiocdn.com/YBK8XRc1cWJx0JfM3CWo6PnTfFY=/287x162/filters:strip_icc():quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/image/17139/spotv-c18c69.jpg"/>
+  <programme channel="17139" start="20260504163000 +0000" stop="20260504183000 +0000">
+    <title lang="id">Hearts vs Rangers - Scottish Premiership</title>
+    <desc lang="id">Nonton streaming pertandingan seru Hearts vs Rangers - Scottish Premiership. Saksikan aksi-aksi terbaik dari tim yang bersaing ketat untuk meraih kemenangan. Dapatkan informasi lengkap mengenai jadwal pertandingan dan hasil pertandingan terbaru hanya di Vidio.</desc>
+    <icon src="https://thumbor.prod.vidiocdn.com/CPi9Cyutlq-NIGLEtM_8L5DG2JY=/287x162/filters:strip_icc():quality(70)/vidio-media-production/uploads/livestreaming/schedule/thumbnail/5055878/b0e1b6.jpg"/>
   </programme>
   <programme channel="17139" start="20260504183000 +0000" stop="20260504213000 +0000">
     <title lang="id">Day 1 : 2026 LET: MCB Ladies Classic</title>
