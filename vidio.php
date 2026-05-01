@@ -11761,9 +11761,9 @@
     <icon src="https://thumbor.prod.vidiocdn.com/IccXQd6EOZjWCT9QQQrsC0nCTZQ=/287x162/filters:strip_icc():quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/image/18190/champions-golf-2-3c2aa9.jpg"/>
   </programme>
   <programme channel="18190" start="20260502203000 +0000" stop="20260502233000 +0000">
-    <title lang="id">MEXICO RIVIERA MAYA OPEN AT MAYAKOBA</title>
-    <desc lang="id">ROUND 3</desc>
-    <icon src="https://thumbor.prod.vidiocdn.com/IccXQd6EOZjWCT9QQQrsC0nCTZQ=/287x162/filters:strip_icc():quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/image/18190/champions-golf-2-3c2aa9.jpg"/>
+    <title lang="id">Round 3 - Mexico Riviera Maya Open at Mayakoba 2026</title>
+    <desc lang="id">Nonton streaming pertandingan seru Round 3 - Mexico Riviera Maya Open at Mayakoba 2026. Saksikan aksi-aksi terbaik dari tim yang bersaing ketat untuk meraih kemenangan. Dapatkan informasi lengkap mengenai jadwal pertandingan dan hasil pertandingan terbaru hanya di Vidio.</desc>
+    <icon src="https://thumbor.prod.vidiocdn.com/JM3DMZKj8XoAmOcKmHdLbBwckm4=/287x162/filters:strip_icc():quality(70)/vidio-media-production/uploads/livestreaming/schedule/thumbnail/5055557/4300d6.jpg"/>
   </programme>
   <programme channel="18190" start="20260502233000 +0000" stop="20260503013000 +0000">
     <title lang="id">THE CHEVRON CHAMPIONSHIP</title>
@@ -11805,20 +11805,15 @@
     <desc lang="id">EPISODE 6</desc>
     <icon src="https://thumbor.prod.vidiocdn.com/IccXQd6EOZjWCT9QQQrsC0nCTZQ=/287x162/filters:strip_icc():quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/image/18190/champions-golf-2-3c2aa9.jpg"/>
   </programme>
-  <programme channel="18190" start="20260503160000 +0000" stop="20260503170000 +0000">
-    <title lang="id">MEXICO RIVIERA MAYA OPEN AT MAYAKOBA</title>
-    <desc lang="id">FINAL ROUND</desc>
-    <icon src="https://thumbor.prod.vidiocdn.com/IccXQd6EOZjWCT9QQQrsC0nCTZQ=/287x162/filters:strip_icc():quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/image/18190/champions-golf-2-3c2aa9.jpg"/>
+  <programme channel="18190" start="20260503160000 +0000" stop="20260503190000 +0000">
+    <title lang="id">Round 4 - Mexico Riviera Maya Open at Mayakoba 2026</title>
+    <desc lang="id">Nonton streaming pertandingan seru Round 4 - Mexico Riviera Maya Open at Mayakoba 2026. Saksikan aksi-aksi terbaik dari tim yang bersaing ketat untuk meraih kemenangan. Dapatkan informasi lengkap mengenai jadwal pertandingan dan hasil pertandingan terbaru hanya di Vidio.</desc>
+    <icon src="https://thumbor.prod.vidiocdn.com/f61-Cilb3ITsuXXpYnuyJ9sIV3g=/287x162/filters:strip_icc():quality(70)/vidio-media-production/uploads/livestreaming/schedule/thumbnail/5055563/f43b90.jpg"/>
   </programme>
-  <programme channel="18190" start="20260503160000 +0000" stop="20260503170000 +0000">
-    <title lang="id">MEXICO RIVIERA MAYA OPEN AT MAYAKOBA</title>
-    <desc lang="id">FINAL ROUND</desc>
-    <icon src="https://thumbor.prod.vidiocdn.com/IccXQd6EOZjWCT9QQQrsC0nCTZQ=/287x162/filters:strip_icc():quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/image/18190/champions-golf-2-3c2aa9.jpg"/>
-  </programme>
-  <programme channel="18190" start="20260503170000 +0000" stop="20260503190000 +0000">
-    <title lang="id">(contiue) MEXICO RIVIERA MAYA OPEN AT MAYAKOBA</title>
-    <desc lang="id">FINAL ROUND</desc>
-    <icon src="https://thumbor.prod.vidiocdn.com/IccXQd6EOZjWCT9QQQrsC0nCTZQ=/287x162/filters:strip_icc():quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/image/18190/champions-golf-2-3c2aa9.jpg"/>
+  <programme channel="18190" start="20260503160000 +0000" stop="20260503190000 +0000">
+    <title lang="id">Round 4 - Mexico Riviera Maya Open at Mayakoba 2026</title>
+    <desc lang="id">Nonton streaming pertandingan seru Round 4 - Mexico Riviera Maya Open at Mayakoba 2026. Saksikan aksi-aksi terbaik dari tim yang bersaing ketat untuk meraih kemenangan. Dapatkan informasi lengkap mengenai jadwal pertandingan dan hasil pertandingan terbaru hanya di Vidio.</desc>
+    <icon src="https://thumbor.prod.vidiocdn.com/f61-Cilb3ITsuXXpYnuyJ9sIV3g=/287x162/filters:strip_icc():quality(70)/vidio-media-production/uploads/livestreaming/schedule/thumbnail/5055563/f43b90.jpg"/>
   </programme>
   <programme channel="18190" start="20260503190000 +0000" stop="20260503220000 +0000">
     <title lang="id">PGA TOUR CHAMPIONS - REGIONS TRADITION</title>
@@ -12200,10 +12195,15 @@
     <desc lang="id">Officials Film</desc>
     <icon src="https://thumbor.prod.vidiocdn.com/84KfVJ1EkCZE1TUxZXNvtr5sNmk=/287x162/filters:strip_icc():quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/image/18189/champions-golf-1-ffdd6c.jpg"/>
   </programme>
-  <programme channel="18189" start="20260503160000 +0000" stop="20260503165900 +0000">
-    <title lang="id">Cadillac Championship</title>
-    <desc lang="id">Round 4</desc>
-    <icon src="https://thumbor.prod.vidiocdn.com/84KfVJ1EkCZE1TUxZXNvtr5sNmk=/287x162/filters:strip_icc():quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/image/18189/champions-golf-1-ffdd6c.jpg"/>
+  <programme channel="18189" start="20260503160000 +0000" stop="20260503220000 +0000">
+    <title lang="id">Round 4 - Cadillac Championship 2026</title>
+    <desc lang="id">Nonton streaming pertandingan seru Round 4 - Cadillac Championship 2026. Saksikan aksi-aksi terbaik dari tim yang bersaing ketat untuk meraih kemenangan. Dapatkan informasi lengkap mengenai jadwal pertandingan dan hasil pertandingan terbaru hanya di Vidio.</desc>
+    <icon src="https://thumbor.prod.vidiocdn.com/2kAtrrsqvP9rLk9YOUGmC0whUjA=/287x162/filters:strip_icc():quality(70)/vidio-media-production/uploads/livestreaming/schedule/thumbnail/5055564/ff1a17.jpg"/>
+  </programme>
+  <programme channel="18189" start="20260503160000 +0000" stop="20260503220000 +0000">
+    <title lang="id">Round 4 - Cadillac Championship 2026</title>
+    <desc lang="id">Nonton streaming pertandingan seru Round 4 - Cadillac Championship 2026. Saksikan aksi-aksi terbaik dari tim yang bersaing ketat untuk meraih kemenangan. Dapatkan informasi lengkap mengenai jadwal pertandingan dan hasil pertandingan terbaru hanya di Vidio.</desc>
+    <icon src="https://thumbor.prod.vidiocdn.com/2kAtrrsqvP9rLk9YOUGmC0whUjA=/287x162/filters:strip_icc():quality(70)/vidio-media-production/uploads/livestreaming/schedule/thumbnail/5055564/ff1a17.jpg"/>
   </programme>
   <programme channel="17875" start="20260430163000 +0000" stop="20260430170000 +0000">
     <title lang="id">Irish Icons, Racing Royalty &amp; Furry-footed Foals : RIDE FEI Originals 2025</title>
@@ -12285,7 +12285,12 @@
     <desc lang="id">Best of Sharapova</desc>
     <icon src="https://thumbor.prod.vidiocdn.com/VmoYokSeKr_3SubUXC-rMC-EtQM=/287x162/filters:strip_icc():quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/image/17875/bein-2-25a5f9.jpg"/>
   </programme>
-  <programme channel="17875" start="20260501170000 +0000" stop="20260501190000 +0000">
+  <programme channel="17875" start="20260501165500 +0000" stop="20260501190000 +0000">
+    <title lang="id">Gaziantep vs Besiktas - Trendyol Super Lig</title>
+    <desc lang="id">Nonton streaming pertandingan seru Gaziantep vs Besiktas - Trendyol Super Lig. Saksikan aksi-aksi terbaik dari tim yang bersaing ketat untuk meraih kemenangan. Dapatkan informasi lengkap mengenai jadwal pertandingan dan hasil pertandingan terbaru hanya di Vidio.</desc>
+    <icon src="https://thumbor.prod.vidiocdn.com/MEAU-hLs7O7pWjPm_tRHNPULopg=/287x162/filters:strip_icc():quality(70)/vidio-media-production/uploads/livestreaming/schedule/thumbnail/5036154/53a3fe.jpg"/>
+  </programme>
+  <programme channel="17875" start="20260501165500 +0000" stop="20260501190000 +0000">
     <title lang="id">Gaziantep vs Besiktas - Trendyol Super Lig</title>
     <desc lang="id">Nonton streaming pertandingan seru Gaziantep vs Besiktas - Trendyol Super Lig. Saksikan aksi-aksi terbaik dari tim yang bersaing ketat untuk meraih kemenangan. Dapatkan informasi lengkap mengenai jadwal pertandingan dan hasil pertandingan terbaru hanya di Vidio.</desc>
     <icon src="https://thumbor.prod.vidiocdn.com/MEAU-hLs7O7pWjPm_tRHNPULopg=/287x162/filters:strip_icc():quality(70)/vidio-media-production/uploads/livestreaming/schedule/thumbnail/5036154/53a3fe.jpg"/>
@@ -15858,7 +15863,7 @@
     <desc lang="id">Show 30 Matchweek 35</desc>
     <icon src="https://thumbor.prod.vidiocdn.com/r_QaZubFaj9Ht_TI2kDgdImcRqY=/287x162/filters:strip_icc():quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/image/9182/champions-tv-5-e0dd48.jpg"/>
   </programme>
-  <programme channel="9182" start="20260501185000 +0000" stop="20260501211500 +0000">
+  <programme channel="9182" start="20260501183000 +0000" stop="20260501211500 +0000">
     <title lang="id">Leeds United vs Burnley - Premier League</title>
     <desc lang="id">Nonton streaming pertandingan seru Leeds United vs Burnley - Premier League. Saksikan aksi-aksi terbaik dari tim yang bersaing ketat untuk meraih kemenangan. Dapatkan informasi lengkap mengenai jadwal pertandingan dan hasil pertandingan terbaru hanya di Vidio.</desc>
     <icon src="https://thumbor.prod.vidiocdn.com/0HGKd6BzH3-pdp-KRVimF_VnwRs=/287x162/filters:strip_icc():quality(70)/vidio-media-production/uploads/livestreaming/schedule/thumbnail/5036125/e054de.jpg"/>
