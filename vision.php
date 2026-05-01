@@ -592,6 +592,12 @@
 <programme start="20260430230000 +0000" stop="20260501003000 +0000" channel="ANTV.vision">
 <title>Kasautii</title>
 </programme>
+<programme start="20260501003000 +0000" stop="20260501023000 +0000" channel="ANTV.vision">
+<title>Khana</title>
+</programme>
+<programme start="20260501023000 +0000" stop="20260501060000 +0000" channel="ANTV.vision">
+<title>Mujhse Dosti Karoge</title>
+</programme>
 <programme start="20260501060000 +0000" stop="20260501080000 +0000" channel="ANTV.vision">
 <title>Jhanak</title>
 </programme>
@@ -600,6 +606,15 @@
 </programme>
 <programme start="20260501093000 +0000" stop="20260501113000 +0000" channel="ANTV.vision">
 <title>Vasudha</title>
+</programme>
+<programme start="20260501113000 +0000" stop="20260501133000 +0000" channel="ANTV.vision">
+<title>Rio Sang Juara</title>
+</programme>
+<programme start="20260501133000 +0000" stop="20260501150000 +0000" channel="ANTV.vision">
+<title>Bangunnya Nyi Roro Kidul</title>
+</programme>
+<programme start="20260501150000 +0000" stop="20260501170000 +0000" channel="ANTV.vision">
+<title>Sundel Bolong 2</title>
 </programme>
 <programme start="20260501170000 +0000" stop="20260501183000 +0000" channel="ANTV.vision">
 <title>Millionaires Express</title>
@@ -1481,20 +1496,5 @@
 <title>TVRI</title>
 </programme>
 <programme start="20260501030000 +0000" stop="20260501050000 +0000" channel="TVRI.vision">
-<title>TVRI</title>
-</programme>
-<programme start="20260501050000 +0000" stop="20260501070000 +0000" channel="TVRI.vision">
-<title>TVRI</title>
-</programme>
-<programme start="20260501070000 +0000" stop="20260501090000 +0000" channel="TVRI.vision">
-<title>TVRI</title>
-</programme>
-<programme start="20260501090000 +0000" stop="20260501110000 +0000" channel="TVRI.vision">
-<title>TVRI</title>
-</programme>
-<programme start="20260501110000 +0000" stop="20260501130000 +0000" channel="TVRI.vision">
-<title>TVRI</title>
-</programme>
-<programme start="20260501130000 +0000" stop="20260501150000 +0000" channel="TVRI.vision">
 <title>TVRI</title>
 </programme>
