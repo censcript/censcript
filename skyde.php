@@ -955,6 +955,9 @@
 <programme start="20260501124500 +0000" stop="20260501150500 +0000" channel="DAZN 1 HD.skyde">
     <title>Google Pixel Frauen Bundesliga 25/26: Hamburger SV - 1. FC Union Berlin</title>
 </programme>
+<programme start="20260501150500 +0000" stop="20260501160500 +0000" channel="DAZN 1 HD.skyde">
+    <title>Get Wild: Lange Version</title>
+</programme>
 <programme start="20260501160500 +0000" stop="20260501163500 +0000" channel="DAZN 1 HD.skyde">
     <title>Google Pixel Frauen-Bundesliga Highlightshow 25/26: 23. Spieltag</title>
 </programme>
@@ -994,11 +997,8 @@
 <programme start="20260501113000 +0000" stop="20260501133000 +0000" channel="DAZN 2 HD.skyde">
     <title>FA Cup 25/26: Manchester City - FC Southampton</title>
 </programme>
-<programme start="20260501133000 +0000" stop="20260501152500 +0000" channel="DAZN 2 HD.skyde">
+<programme start="20260501133000 +0000" stop="20260501153000 +0000" channel="DAZN 2 HD.skyde">
     <title>Bundesliga 25/26: Hamburger SV - TSG 1899 Hoffenheim</title>
-</programme>
-<programme start="20260501152500 +0000" stop="20260501153000 +0000" channel="DAZN 2 HD.skyde">
-    <title>Fußball 25/26: TBC - TBC</title>
 </programme>
 <programme start="20260501153000 +0000" stop="20260501173000 +0000" channel="DAZN 2 HD.skyde">
     <title>Bundesliga 25/26: Borussia Dortmund - SC Freiburg</title>
@@ -1006,8 +1006,11 @@
 <programme start="20260501173000 +0000" stop="20260501180000 +0000" channel="DAZN 2 HD.skyde">
     <title>Google Pixel Frauen-Bundesliga Highlightshow 25/26: 23. Spieltag</title>
 </programme>
-<programme start="20260501180000 +0000" stop="20260501184000 +0000" channel="DAZN 2 HD.skyde">
+<programme start="20260501180000 +0000" stop="20260501182000 +0000" channel="DAZN 2 HD.skyde">
     <title>Let&#039;s go Ballin&#039;: Episode 4</title>
+</programme>
+<programme start="20260501182000 +0000" stop="20260501184000 +0000" channel="DAZN 2 HD.skyde">
+    <title>Best of DAZN: Highlights</title>
 </programme>
 <programme start="20260501184000 +0000" stop="20260501210000 +0000" channel="DAZN 2 HD.skyde">
     <title>Serie A 25/26: Pisa Sporting Club - US Lecce</title>
@@ -2600,7 +2603,7 @@
     <title>ATP: The Impossible Shot - Behind The Scenes</title>
 </programme>
 <programme start="20260501175500 +0000" stop="20260501200000 +0000" channel="Sky Sport Austria 1 HD.skyde">
-    <title>Live ATP 1000: A.Zverev (GER) - A. Blockx (BEL), Mutua Madrid Open in Madrid (ESP), Halbfinale 2</title>
+    <title>Live ATP 1000: HF2, Mutua Madrid Open in Madrid (ESP), Halbfinale 2</title>
 </programme>
 <programme start="20260501200000 +0000" stop="20260501203000 +0000" channel="Sky Sport Austria 1 HD.skyde">
     <title>UEFA CL: Magazin</title>
@@ -3238,10 +3241,10 @@
 <programme start="20260430230000 +0000" stop="20260501000000 +0000" channel="Sky Sport 1 HD.skyde">
     <title>Live NBA: Showtime</title>
 </programme>
-<programme start="20260501000000 +0000" stop="20260501023500 +0000" channel="Sky Sport 1 HD.skyde">
+<programme start="20260501000000 +0000" stop="20260501023000 +0000" channel="Sky Sport 1 HD.skyde">
     <title>Live NBA: Boston Celtics @ Philadelphia 76ers, Playoffs, Runde 1, Spiel 6</title>
 </programme>
-<programme start="20260501023500 +0000" stop="20260501033000 +0000" channel="Sky Sport 1 HD.skyde">
+<programme start="20260501023000 +0000" stop="20260501080000 +0000" channel="Sky Sport 1 HD.skyde">
     <title>Live NBA: Showtime - Post Show</title>
 </programme>
 <programme start="20260430224000 +0000" stop="20260430232500 +0000" channel="SYFY HD.skyde">
