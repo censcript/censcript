@@ -601,12 +601,6 @@
 <programme start="20260501093000 +0000" stop="20260501113000 +0000" channel="ANTV.vision">
 <title>Vasudha</title>
 </programme>
-<programme start="20260501133000 +0000" stop="20260501150000 +0000" channel="ANTV.vision">
-<title>Bangunnya Nyi Roro Kidul</title>
-</programme>
-<programme start="20260501150000 +0000" stop="20260501170000 +0000" channel="ANTV.vision">
-<title>Sundel Bolong 2</title>
-</programme>
 <programme start="20260501170000 +0000" stop="20260501183000 +0000" channel="ANTV.vision">
 <title>Millionaires Express</title>
 </programme>
@@ -1496,5 +1490,11 @@
 <title>TVRI</title>
 </programme>
 <programme start="20260501090000 +0000" stop="20260501110000 +0000" channel="TVRI.vision">
+<title>TVRI</title>
+</programme>
+<programme start="20260501110000 +0000" stop="20260501130000 +0000" channel="TVRI.vision">
+<title>TVRI</title>
+</programme>
+<programme start="20260501130000 +0000" stop="20260501150000 +0000" channel="TVRI.vision">
 <title>TVRI</title>
 </programme>

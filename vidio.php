@@ -1820,17 +1820,17 @@
     <desc lang="id">Maria Bellen</desc>
     <icon src="https://thumbor.prod.vidiocdn.com/NdmzqkxqnWVnlngtk_ObYNT-wiY=/287x162/filters:strip_icc():quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/image/206/moji-a5bd3e.jpg"/>
   </programme>
-  <programme channel="206" start="20260501133100 +0000" stop="20260501152900 +0000">
+  <programme channel="206" start="20260501133100 +0000" stop="20260501152000 +0000">
     <title lang="id">Drama Turki Ceylan</title>
     <desc lang="id">Drama Turki Ceylan</desc>
     <icon src="https://thumbor.prod.vidiocdn.com/L9CDLeBldhD9RXFInjhQ9tF-O9Y=/287x162/filters:strip_icc():quality(70)/vidio-media-production/uploads/livestreaming/schedule/thumbnail/5035981/d1246b.jpg"/>
   </programme>
-  <programme channel="206" start="20260501152900 +0000" stop="20260501173600 +0000">
+  <programme channel="206" start="20260501152000 +0000" stop="20260501173600 +0000">
     <title lang="id">Rerun Uel</title>
     <desc lang="id">Rerun Uel</desc>
     <icon src="https://thumbor.prod.vidiocdn.com/NdmzqkxqnWVnlngtk_ObYNT-wiY=/287x162/filters:strip_icc():quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/image/206/moji-a5bd3e.jpg"/>
   </programme>
-  <programme channel="206" start="20260501152900 +0000" stop="20260501173600 +0000">
+  <programme channel="206" start="20260501152000 +0000" stop="20260501173600 +0000">
     <title lang="id">Rerun Uel</title>
     <desc lang="id">Rerun Uel</desc>
     <icon src="https://thumbor.prod.vidiocdn.com/NdmzqkxqnWVnlngtk_ObYNT-wiY=/287x162/filters:strip_icc():quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/image/206/moji-a5bd3e.jpg"/>
@@ -21480,7 +21480,7 @@
     <desc lang="id">The world's top show jumping riders compete across prestigious international venues, showcasing elite skill, speed, and championship drama throughout the season.</desc>
     <icon src="https://thumbor.prod.vidiocdn.com/YBK8XRc1cWJx0JfM3CWo6PnTfFY=/287x162/filters:strip_icc():quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/image/17139/spotv-c18c69.jpg"/>
   </programme>
-  <programme channel="17139" start="20260501184500 +0000" stop="20260501204500 +0000">
+  <programme channel="17139" start="20260501184000 +0000" stop="20260501204500 +0000">
     <title lang="id">Livingston vs Aberdeen - Scottish Premiership</title>
     <desc lang="id">Nonton streaming pertandingan seru Livingston vs Aberdeen - Scottish Premiership. Saksikan aksi-aksi terbaik dari tim yang bersaing ketat untuk meraih kemenangan. Dapatkan informasi lengkap mengenai jadwal pertandingan dan hasil pertandingan terbaru hanya di Vidio.</desc>
     <icon src="https://thumbor.prod.vidiocdn.com/eHDn8UGAs6IZZjQoSKl5E8-357Q=/287x162/filters:strip_icc():quality(70)/vidio-media-production/uploads/livestreaming/schedule/thumbnail/5036131/9c174d.jpg"/>

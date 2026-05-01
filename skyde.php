@@ -2603,7 +2603,7 @@
     <title>ATP: The Impossible Shot - Behind The Scenes</title>
 </programme>
 <programme start="20260501175500 +0000" stop="20260501200000 +0000" channel="Sky Sport Austria 1 HD.skyde">
-    <title>Live ATP 1000: HF2, Mutua Madrid Open in Madrid (ESP), Halbfinale 2</title>
+    <title>Live ATP 1000: A.Zverev (GER) - A. Blockx (BEL), Mutua Madrid Open in Madrid (ESP), Halbfinale 2</title>
 </programme>
 <programme start="20260501200000 +0000" stop="20260501203000 +0000" channel="Sky Sport Austria 1 HD.skyde">
     <title>UEFA CL: Magazin</title>
@@ -2617,7 +2617,7 @@
 <programme start="20260501183000 +0000" stop="20260501185000 +0000" channel="Sky Sport Austria 2 HD.skyde">
     <title>Es folgt: Live Premier League</title>
 </programme>
-<programme start="20260501185000 +0000" stop="20260501210000 +0000" channel="Sky Sport Austria 2 HD.skyde">
+<programme start="20260501185000 +0000" stop="20260501213000 +0000" channel="Sky Sport Austria 2 HD.skyde">
     <title>Live PL: Leeds United - FC Burnley, 35. Spieltag</title>
 </programme>
 <programme start="20260430220000 +0000" stop="20260430223000 +0000" channel="Sky Sport Bundesliga HD.skyde">
@@ -3155,7 +3155,7 @@
     <title>ATP: The Impossible Shot - Behind The Scenes</title>
 </programme>
 <programme start="20260501175500 +0000" stop="20260501200000 +0000" channel="Sky Sport Tennis HD.skyde">
-    <title>Live ATP 1000: HF2, Mutua Madrid Open in Madrid (ESP), Halbfinale 2</title>
+    <title>Live ATP 1000: A.Zverev (GER) - A. Blockx (BEL), Mutua Madrid Open in Madrid (ESP), Halbfinale 2</title>
 </programme>
 <programme start="20260501200000 +0000" stop="20260501220000 +0000" channel="Sky Sport Tennis HD.skyde">
     <title>ATP 1000: J. Sinner (ITA) - A. Fils (FRA), Mutua Madrid Open in Madrid (ESP), Halbfinale 1</title>
@@ -3241,10 +3241,10 @@
 <programme start="20260430230000 +0000" stop="20260501000000 +0000" channel="Sky Sport 1 HD.skyde">
     <title>Live NBA: Showtime</title>
 </programme>
-<programme start="20260501000000 +0000" stop="20260501023000 +0000" channel="Sky Sport 1 HD.skyde">
+<programme start="20260501000000 +0000" stop="20260501023500 +0000" channel="Sky Sport 1 HD.skyde">
     <title>Live NBA: Boston Celtics @ Philadelphia 76ers, Playoffs, Runde 1, Spiel 6</title>
 </programme>
-<programme start="20260501023000 +0000" stop="20260501080000 +0000" channel="Sky Sport 1 HD.skyde">
+<programme start="20260501023500 +0000" stop="20260501033000 +0000" channel="Sky Sport 1 HD.skyde">
     <title>Live NBA: Showtime - Post Show</title>
 </programme>
 <programme start="20260430224000 +0000" stop="20260430232500 +0000" channel="SYFY HD.skyde">
