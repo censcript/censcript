@@ -2758,7 +2758,7 @@
 <programme start="20260502103000 +0000" stop="20260502130000 +0000" channel="Sky Sport Bundesliga 7 HD.skyde">
     <title>Live 2. BL: Samstags-Konferenz, 32. Spieltag</title>
 </programme>
-<programme start="20260502130000 +0000" stop="20260502134500 +0000" channel="Sky Sport Bundesliga 7 HD.skyde">
+<programme start="20260502130000 +0000" stop="20260502141500 +0000" channel="Sky Sport Bundesliga 7 HD.skyde">
     <title>Live 2. BL Alle Spiele, alle Tore: Die Vodafone Highlight-Show, 32. Spieltag, Samstag</title>
 </programme>
 <programme start="20260501224500 +0000" stop="20260501234500 +0000" channel="Sky Sport F1 HD.skyde">

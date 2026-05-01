@@ -469,34 +469,34 @@
   <programme start="20260503201000 +0000" stop="20260503220000 +0000" channel=":Šport.webtv.sk">
     <title lang="id">Atletika - Svetové štafety 2026 (World Athletics Relay; Gaborone)</title>
   </programme>
-  <programme start="20260502205000 +0000" stop="20260502225000 +0000" channel="Markíza.webtv.sk">
+  <programme start="20260502204000 +0000" stop="20260502224500 +0000" channel="Markíza.webtv.sk">
     <title lang="id">Mortal Kombat</title>
   </programme>
-  <programme start="20260502225000 +0000" stop="20260503003000 +0000" channel="Markíza.webtv.sk">
+  <programme start="20260502224500 +0000" stop="20260503002500 +0000" channel="Markíza.webtv.sk">
     <title lang="id">Nebezpečný cieľ</title>
   </programme>
-  <programme start="20260503003000 +0000" stop="20260503020500 +0000" channel="Markíza.webtv.sk">
+  <programme start="20260503002500 +0000" stop="20260503020000 +0000" channel="Markíza.webtv.sk">
     <title lang="id">Mortal Kombat</title>
   </programme>
-  <programme start="20260503020500 +0000" stop="20260503025000 +0000" channel="Markíza.webtv.sk">
+  <programme start="20260503020000 +0000" stop="20260503023500 +0000" channel="Markíza.webtv.sk">
     <title lang="id">Smotánka</title>
   </programme>
-  <programme start="20260503025000 +0000" stop="20260503040000 +0000" channel="Markíza.webtv.sk">
+  <programme start="20260503023500 +0000" stop="20260503040000 +0000" channel="Markíza.webtv.sk">
     <title lang="id">Rodinné prípady (12)</title>
   </programme>
   <programme start="20260503040000 +0000" stop="20260503045500 +0000" channel="Markíza.webtv.sk">
     <title lang="id">Televízne noviny</title>
   </programme>
-  <programme start="20260503045500 +0000" stop="20260503051500 +0000" channel="Markíza.webtv.sk">
+  <programme start="20260503045500 +0000" stop="20260503052000 +0000" channel="Markíza.webtv.sk">
     <title lang="id">Nové dobrodružstvá Toma a Jerryho II</title>
   </programme>
-  <programme start="20260503051500 +0000" stop="20260503054000 +0000" channel="Markíza.webtv.sk">
+  <programme start="20260503052000 +0000" stop="20260503054500 +0000" channel="Markíza.webtv.sk">
     <title lang="id">Tom a Jerry</title>
   </programme>
-  <programme start="20260503054000 +0000" stop="20260503072500 +0000" channel="Markíza.webtv.sk">
+  <programme start="20260503054500 +0000" stop="20260503073000 +0000" channel="Markíza.webtv.sk">
     <title lang="id">Ace Ventura: Volanie divočiny</title>
   </programme>
-  <programme start="20260503072500 +0000" stop="20260503093500 +0000" channel="Markíza.webtv.sk">
+  <programme start="20260503073000 +0000" stop="20260503093500 +0000" channel="Markíza.webtv.sk">
     <title lang="id">Charlie a kengury</title>
   </programme>
   <programme start="20260503093500 +0000" stop="20260503110000 +0000" channel="Markíza.webtv.sk">
@@ -523,10 +523,10 @@
   <programme start="20260503181500 +0000" stop="20260503183000 +0000" channel="Markíza.webtv.sk">
     <title lang="id">Športové noviny</title>
   </programme>
-  <programme start="20260503183000 +0000" stop="20260503215000 +0000" channel="Markíza.webtv.sk">
+  <programme start="20260503183000 +0000" stop="20260503214000 +0000" channel="Markíza.webtv.sk">
     <title lang="id">Let&apos;s Dance XI (9)</title>
   </programme>
-  <programme start="20260503215000 +0000" stop="20260503233000 +0000" channel="Markíza.webtv.sk">
+  <programme start="20260503214000 +0000" stop="20260503232000 +0000" channel="Markíza.webtv.sk">
     <title lang="id">Jak se zbavit nevěsty</title>
   </programme>
   <programme start="20260502204000 +0000" stop="20260502232000 +0000" channel="JOJ.webtv.sk">
@@ -3391,26 +3391,23 @@
   <programme start="20260503211800 +0000" stop="20260503220000 +0000" channel="ČT24.webtv.sk">
     <title lang="id">Duel ČT24</title>
   </programme>
-  <programme start="20260502201000 +0000" stop="20260502224500 +0000" channel="ČT :D - ČT art.webtv.sk">
+  <programme start="20260502202000 +0000" stop="20260502225500 +0000" channel="ČT :D - ČT art.webtv.sk">
     <title lang="id">Prolomit vlny</title>
   </programme>
-  <programme start="20260502224500 +0000" stop="20260503001100 +0000" channel="ČT :D - ČT art.webtv.sk">
+  <programme start="20260502225500 +0000" stop="20260503002000 +0000" channel="ČT :D - ČT art.webtv.sk">
     <title lang="id">Šumařova cesta z pódia na plátno</title>
   </programme>
-  <programme start="20260503001100 +0000" stop="20260503003300 +0000" channel="ČT :D - ČT art.webtv.sk">
+  <programme start="20260503002000 +0000" stop="20260503004200 +0000" channel="ČT :D - ČT art.webtv.sk">
     <title lang="id">Kanadská soda V (14/14)</title>
   </programme>
-  <programme start="20260503003300 +0000" stop="20260503013100 +0000" channel="ČT :D - ČT art.webtv.sk">
+  <programme start="20260503004200 +0000" stop="20260503014000 +0000" channel="ČT :D - ČT art.webtv.sk">
     <title lang="id">Ladí neladí</title>
   </programme>
-  <programme start="20260503013100 +0000" stop="20260503023100 +0000" channel="ČT :D - ČT art.webtv.sk">
+  <programme start="20260503014000 +0000" stop="20260503024200 +0000" channel="ČT :D - ČT art.webtv.sk">
     <title lang="id">Light &amp; Love v 15 Minut music clubu</title>
   </programme>
-  <programme start="20260503023100 +0000" stop="20260503025900 +0000" channel="ČT :D - ČT art.webtv.sk">
+  <programme start="20260503024200 +0000" stop="20260503031000 +0000" channel="ČT :D - ČT art.webtv.sk">
     <title lang="id">Před půlnocí</title>
-  </programme>
-  <programme start="20260503025900 +0000" stop="20260503031000 +0000" channel="ČT :D - ČT art.webtv.sk">
-    <title lang="id">Pi znamená poklad</title>
   </programme>
   <programme start="20260503031000 +0000" stop="20260503040000 +0000" channel="ČT :D - ČT art.webtv.sk">
     <title lang="id">Události v kultuře</title>
@@ -3547,10 +3544,10 @@
   <programme start="20260503181500 +0000" stop="20260503194000 +0000" channel="ČT :D - ČT art.webtv.sk">
     <title lang="id">Gin Game</title>
   </programme>
-  <programme start="20260503194000 +0000" stop="20260503210800 +0000" channel="ČT :D - ČT art.webtv.sk">
+  <programme start="20260503194000 +0000" stop="20260503210700 +0000" channel="ČT :D - ČT art.webtv.sk">
     <title lang="id">ZZ Top, vousáči z Texasu</title>
   </programme>
-  <programme start="20260503210800 +0000" stop="20260503220200 +0000" channel="ČT :D - ČT art.webtv.sk">
+  <programme start="20260503210700 +0000" stop="20260503220100 +0000" channel="ČT :D - ČT art.webtv.sk">
     <title lang="id">Matthew Perry: ten, který odešel bez úsměvu</title>
   </programme>
   <programme start="20260502214000 +0000" stop="20260502221000 +0000" channel="Nova International.webtv.sk">
