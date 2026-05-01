@@ -15871,12 +15871,12 @@
     <desc lang="id">Show 30 Matchweek 35</desc>
     <icon src="https://thumbor.prod.vidiocdn.com/r_QaZubFaj9Ht_TI2kDgdImcRqY=/287x162/filters:strip_icc():quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/image/9182/champions-tv-5-e0dd48.jpg"/>
   </programme>
-  <programme channel="9182" start="20260501183000 +0000" stop="20260501211500 +0000">
+  <programme channel="9182" start="20260501183000 +0000" stop="20260501210500 +0000">
     <title lang="id">Leeds United vs Burnley - Premier League</title>
     <desc lang="id">Nonton streaming pertandingan seru Leeds United vs Burnley - Premier League. Saksikan aksi-aksi terbaik dari tim yang bersaing ketat untuk meraih kemenangan. Dapatkan informasi lengkap mengenai jadwal pertandingan dan hasil pertandingan terbaru hanya di Vidio.</desc>
     <icon src="https://thumbor.prod.vidiocdn.com/0HGKd6BzH3-pdp-KRVimF_VnwRs=/287x162/filters:strip_icc():quality(70)/vidio-media-production/uploads/livestreaming/schedule/thumbnail/5036125/e054de.jpg"/>
   </programme>
-  <programme channel="9182" start="20260501211500 +0000" stop="20260501230000 +0000">
+  <programme channel="9182" start="20260501210500 +0000" stop="20260501230000 +0000">
     <title lang="id">ARSENAL vs NEWCASTLE UNITED : Premier League 2025/26</title>
     <desc lang="id">ARSENAL vs NEWCASTLE UNITED</desc>
     <icon src="https://thumbor.prod.vidiocdn.com/r_QaZubFaj9Ht_TI2kDgdImcRqY=/287x162/filters:strip_icc():quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/image/9182/champions-tv-5-e0dd48.jpg"/>
