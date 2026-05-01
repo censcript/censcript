@@ -940,23 +940,26 @@
 <programme start="20260430220000 +0000" stop="20260501060000 +0000" channel="DAZN 1 HD.skyde">
     <title>Sendepause</title>
 </programme>
-<programme start="20260501060000 +0000" stop="20260501064500 +0000" channel="DAZN 1 HD.skyde">
+<programme start="20260501060000 +0000" stop="20260501063500 +0000" channel="DAZN 1 HD.skyde">
+    <title>Doppelpack Europa - Highlights der Serie A und Ligue 1 25/26: 34./31. Spieltag</title>
+</programme>
+<programme start="20260501063500 +0000" stop="20260501072000 +0000" channel="DAZN 1 HD.skyde">
     <title>3. Liga Highlightshow 25/26: 35. Spieltag</title>
 </programme>
-<programme start="20260501064500 +0000" stop="20260501084500 +0000" channel="DAZN 1 HD.skyde">
+<programme start="20260501072000 +0000" stop="20260501092000 +0000" channel="DAZN 1 HD.skyde">
     <title>Bundesliga 25/26: Hamburger SV - TSG 1899 Hoffenheim</title>
 </programme>
-<programme start="20260501084500 +0000" stop="20260501105000 +0000" channel="DAZN 1 HD.skyde">
+<programme start="20260501092000 +0000" stop="20260501111500 +0000" channel="DAZN 1 HD.skyde">
     <title>Bundesliga 25/26: Borussia Dortmund - SC Freiburg</title>
 </programme>
-<programme start="20260501105000 +0000" stop="20260501124500 +0000" channel="DAZN 1 HD.skyde">
+<programme start="20260501111500 +0000" stop="20260501115000 +0000" channel="DAZN 1 HD.skyde">
+    <title>Best of DAZN: Highlights</title>
+</programme>
+<programme start="20260501115000 +0000" stop="20260501134500 +0000" channel="DAZN 1 HD.skyde">
     <title>Bundesliga 25/26: 1. FC Köln - Bayer 04 Leverkusen</title>
 </programme>
-<programme start="20260501124500 +0000" stop="20260501150500 +0000" channel="DAZN 1 HD.skyde">
+<programme start="20260501134500 +0000" stop="20260501160500 +0000" channel="DAZN 1 HD.skyde">
     <title>Google Pixel Frauen Bundesliga 25/26: Hamburger SV - 1. FC Union Berlin</title>
-</programme>
-<programme start="20260501150500 +0000" stop="20260501160500 +0000" channel="DAZN 1 HD.skyde">
-    <title>Get Wild: Lange Version</title>
 </programme>
 <programme start="20260501160500 +0000" stop="20260501163500 +0000" channel="DAZN 1 HD.skyde">
     <title>Google Pixel Frauen-Bundesliga Highlightshow 25/26: 23. Spieltag</title>
@@ -997,8 +1000,11 @@
 <programme start="20260501113000 +0000" stop="20260501133000 +0000" channel="DAZN 2 HD.skyde">
     <title>FA Cup 25/26: Manchester City - FC Southampton</title>
 </programme>
-<programme start="20260501133000 +0000" stop="20260501153000 +0000" channel="DAZN 2 HD.skyde">
+<programme start="20260501133000 +0000" stop="20260501152500 +0000" channel="DAZN 2 HD.skyde">
     <title>Bundesliga 25/26: Hamburger SV - TSG 1899 Hoffenheim</title>
+</programme>
+<programme start="20260501152500 +0000" stop="20260501153000 +0000" channel="DAZN 2 HD.skyde">
+    <title>Fußball 25/26: TBC - TBC</title>
 </programme>
 <programme start="20260501153000 +0000" stop="20260501173000 +0000" channel="DAZN 2 HD.skyde">
     <title>Bundesliga 25/26: Borussia Dortmund - SC Freiburg</title>
@@ -1006,11 +1012,8 @@
 <programme start="20260501173000 +0000" stop="20260501180000 +0000" channel="DAZN 2 HD.skyde">
     <title>Google Pixel Frauen-Bundesliga Highlightshow 25/26: 23. Spieltag</title>
 </programme>
-<programme start="20260501180000 +0000" stop="20260501182000 +0000" channel="DAZN 2 HD.skyde">
+<programme start="20260501180000 +0000" stop="20260501184000 +0000" channel="DAZN 2 HD.skyde">
     <title>Let&#039;s go Ballin&#039;: Episode 4</title>
-</programme>
-<programme start="20260501182000 +0000" stop="20260501184000 +0000" channel="DAZN 2 HD.skyde">
-    <title>Best of DAZN: Highlights</title>
 </programme>
 <programme start="20260501184000 +0000" stop="20260501210000 +0000" channel="DAZN 2 HD.skyde">
     <title>Serie A 25/26: Pisa Sporting Club - US Lecce</title>
@@ -2617,7 +2620,7 @@
 <programme start="20260501183000 +0000" stop="20260501185000 +0000" channel="Sky Sport Austria 2 HD.skyde">
     <title>Es folgt: Live Premier League</title>
 </programme>
-<programme start="20260501185000 +0000" stop="20260501213000 +0000" channel="Sky Sport Austria 2 HD.skyde">
+<programme start="20260501185000 +0000" stop="20260501210000 +0000" channel="Sky Sport Austria 2 HD.skyde">
     <title>Live PL: Leeds United - FC Burnley, 35. Spieltag</title>
 </programme>
 <programme start="20260430220000 +0000" stop="20260430223000 +0000" channel="Sky Sport Bundesliga HD.skyde">
