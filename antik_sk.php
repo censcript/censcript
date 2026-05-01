@@ -985,19 +985,19 @@
   <programme start="20260501225500 +0000" stop="20260501233500 +0000" channel="Doma.webtv.sk">
     <title lang="id">Esmeralda (122)</title>
   </programme>
-  <programme start="20260501233500 +0000" stop="20260502002000 +0000" channel="Doma.webtv.sk">
+  <programme start="20260501233500 +0000" stop="20260502001500 +0000" channel="Doma.webtv.sk">
     <title lang="id">Esmeralda (123)</title>
   </programme>
-  <programme start="20260502002000 +0000" stop="20260502010000 +0000" channel="Doma.webtv.sk">
+  <programme start="20260502001500 +0000" stop="20260502010000 +0000" channel="Doma.webtv.sk">
     <title lang="id">Keď kvitne láska (3)</title>
   </programme>
   <programme start="20260502010000 +0000" stop="20260502014500 +0000" channel="Doma.webtv.sk">
     <title lang="id">Keď kvitne láska (4)</title>
   </programme>
-  <programme start="20260502014500 +0000" stop="20260502021500 +0000" channel="Doma.webtv.sk">
+  <programme start="20260502014500 +0000" stop="20260502021000 +0000" channel="Doma.webtv.sk">
     <title lang="id">Smotánka</title>
   </programme>
-  <programme start="20260502021500 +0000" stop="20260502031000 +0000" channel="Doma.webtv.sk">
+  <programme start="20260502021000 +0000" stop="20260502031000 +0000" channel="Doma.webtv.sk">
     <title lang="id">Adela show</title>
   </programme>
   <programme start="20260502031000 +0000" stop="20260502040000 +0000" channel="Doma.webtv.sk">
@@ -1006,52 +1006,55 @@
   <programme start="20260502040000 +0000" stop="20260502050000 +0000" channel="Doma.webtv.sk">
     <title lang="id">Zámena manželiek</title>
   </programme>
-  <programme start="20260502050000 +0000" stop="20260502063000 +0000" channel="Doma.webtv.sk">
+  <programme start="20260502050000 +0000" stop="20260502062000 +0000" channel="Doma.webtv.sk">
     <title lang="id">Zámena manželiek</title>
   </programme>
-  <programme start="20260502063000 +0000" stop="20260502065500 +0000" channel="Doma.webtv.sk">
+  <programme start="20260502062000 +0000" stop="20260502065000 +0000" channel="Doma.webtv.sk">
     <title lang="id">Krok za krokom I (5)</title>
   </programme>
-  <programme start="20260502065500 +0000" stop="20260502072500 +0000" channel="Doma.webtv.sk">
+  <programme start="20260502065000 +0000" stop="20260502072000 +0000" channel="Doma.webtv.sk">
     <title lang="id">Krok za krokom I (6)</title>
   </programme>
-  <programme start="20260502072500 +0000" stop="20260502075000 +0000" channel="Doma.webtv.sk">
+  <programme start="20260502072000 +0000" stop="20260502074000 +0000" channel="Doma.webtv.sk">
     <title lang="id">Krok za krokom I (7)</title>
   </programme>
-  <programme start="20260502075000 +0000" stop="20260502082500 +0000" channel="Doma.webtv.sk">
+  <programme start="20260502074000 +0000" stop="20260502081500 +0000" channel="Doma.webtv.sk">
     <title lang="id">Krok za krokom I (8)</title>
   </programme>
-  <programme start="20260502082500 +0000" stop="20260502091000 +0000" channel="Doma.webtv.sk">
+  <programme start="20260502081500 +0000" stop="20260502090500 +0000" channel="Doma.webtv.sk">
     <title lang="id">Bull: Súdny špecialista VI (18)</title>
   </programme>
-  <programme start="20260502091000 +0000" stop="20260502101500 +0000" channel="Doma.webtv.sk">
+  <programme start="20260502090500 +0000" stop="20260502095000 +0000" channel="Doma.webtv.sk">
     <title lang="id">Bull: Súdny špecialista VI (19)</title>
   </programme>
-  <programme start="20260502101500 +0000" stop="20260502113000 +0000" channel="Doma.webtv.sk">
+  <programme start="20260502095000 +0000" stop="20260502105000 +0000" channel="Doma.webtv.sk">
+    <title lang="id">Bull: Súdny špecialista VI (20)</title>
+  </programme>
+  <programme start="20260502105000 +0000" stop="20260502120000 +0000" channel="Doma.webtv.sk">
     <title lang="id">Smotánka</title>
   </programme>
-  <programme start="20260502113000 +0000" stop="20260502124500 +0000" channel="Doma.webtv.sk">
+  <programme start="20260502120000 +0000" stop="20260502131500 +0000" channel="Doma.webtv.sk">
     <title lang="id">Zámena manželiek</title>
   </programme>
-  <programme start="20260502124500 +0000" stop="20260502135000 +0000" channel="Doma.webtv.sk">
+  <programme start="20260502131500 +0000" stop="20260502141000 +0000" channel="Doma.webtv.sk">
     <title lang="id">Sľub III (63)</title>
   </programme>
-  <programme start="20260502135000 +0000" stop="20260502145000 +0000" channel="Doma.webtv.sk">
+  <programme start="20260502141000 +0000" stop="20260502151000 +0000" channel="Doma.webtv.sk">
     <title lang="id">Sľub III (64)</title>
   </programme>
-  <programme start="20260502145000 +0000" stop="20260502155500 +0000" channel="Doma.webtv.sk">
+  <programme start="20260502151000 +0000" stop="20260502160500 +0000" channel="Doma.webtv.sk">
     <title lang="id">Sľub III (65)</title>
   </programme>
-  <programme start="20260502155500 +0000" stop="20260502165500 +0000" channel="Doma.webtv.sk">
+  <programme start="20260502160500 +0000" stop="20260502170500 +0000" channel="Doma.webtv.sk">
     <title lang="id">Sľub III (66)</title>
   </programme>
-  <programme start="20260502165500 +0000" stop="20260502183000 +0000" channel="Doma.webtv.sk">
+  <programme start="20260502170500 +0000" stop="20260502183000 +0000" channel="Doma.webtv.sk">
     <title lang="id">Na nože IV (4)</title>
   </programme>
   <programme start="20260502183000 +0000" stop="20260502203500 +0000" channel="Doma.webtv.sk">
     <title lang="id">Ľadové ostrie 2: Cesta ku sláve</title>
   </programme>
-  <programme start="20260502203500 +0000" stop="20260502223000 +0000" channel="Doma.webtv.sk">
+  <programme start="20260502203500 +0000" stop="20260502222000 +0000" channel="Doma.webtv.sk">
     <title lang="id">Láska pod hviezdami</title>
   </programme>
   <programme start="20260501215000 +0000" stop="20260501223000 +0000" channel="Markíza Krimi.webtv.sk">
