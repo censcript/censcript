@@ -8338,12 +8338,12 @@
     <desc lang="id">Menghadirkan deretan film Bollywood menarik yang dibintangi aktor dan aktris ternama.</desc>
     <icon src="https://thumbor.prod.vidiocdn.com/GGMEsA26qUcqt6CVlKQx3vQwys8=/287x162/filters:strip_icc():quality(70)/vidio-media-production/uploads/livestreaming/schedule/thumbnail/5055528/5f1946.jpg"/>
   </programme>
-  <programme channel="782" start="20260502220000 +0000" stop="20260502230000 +0000">
+  <programme channel="782" start="20260502220000 +0000" stop="20260502232000 +0000">
     <title lang="id">Ummi</title>
     <desc lang="id">Kisah perjuangan Ummi Marwah, seorang ustazah, dalam menjaga keutuhan rumah tangga dan mendidik anak-anaknya. Abah Asep, suaminya, berperilaku arogan dan selingkuh dengan asisten rumah tangga.</desc>
     <icon src="https://thumbor.prod.vidiocdn.com/20tRQaK9Gps_wFQL5rY-XgRbrs4=/287x162/filters:strip_icc():quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/image/782/antv-de8530.jpg"/>
   </programme>
-  <programme channel="782" start="20260502230000 +0000" stop="20260503003000 +0000">
+  <programme channel="782" start="20260502232000 +0000" stop="20260503003000 +0000">
     <title lang="id">Kasautii</title>
     <desc lang="id">Anurag dan Prerna kuliah di universitas yang sama, dan akhirnya menjalin hubungan erat. Namun, mereka harus menghadapi orang-orang yang ingin memisahkan keduanya, karena perbedaan status sosial.</desc>
     <icon src="https://thumbor.prod.vidiocdn.com/tmmE8pBDGtuNwFzb2_UJBOQPHJ0=/287x162/filters:strip_icc():quality(70)/vidio-media-production/uploads/livestreaming/schedule/thumbnail/5055518/1537d9.jpg"/>
