@@ -8297,11 +8297,11 @@
     <desc lang="id">Seorang wanita muda yang bersemangat memulai perjalanan untuk memenuhi janji seorang ibu demi kehidupan yang lebih baik sambil mengatasi tantangan dan kehilangan.</desc>
     <icon src="https://thumbor.prod.vidiocdn.com/pO86qcHJzKu5-d4rp5df47fg34U=/287x162/filters:strip_icc():quality(70)/vidio-media-production/uploads/livestreaming/schedule/thumbnail/5055520/2627b4.jpg"/>
   </programme>
-  <programme channel="782" start="20260502080000 +0000" stop="20260502100000 +0000">
+  <programme channel="782" start="20260502080000 +0000" stop="20260502100100 +0000">
     <title lang="id">TERI MERI DORIYAAN</title>
     <icon src="https://thumbor.prod.vidiocdn.com/D3kCejyg9NkP2-F8FYbtfdKcGlg=/287x162/filters:strip_icc():quality(70)/vidio-media-production/uploads/livestreaming/schedule/thumbnail/5055534/c3f14e.jpg"/>
   </programme>
-  <programme channel="782" start="20260502100000 +0000" stop="20260502120000 +0000">
+  <programme channel="782" start="20260502100100 +0000" stop="20260502120000 +0000">
     <title lang="id">Vasudha</title>
     <desc lang="id">Vasudha yang periang bergabung dengan rumah pemimpin bisnis Chandrika sebagai pembantu dan mendambakan persetujuannya meskipun ada perbedaan ideologis di antara mereka.</desc>
     <icon src="https://thumbor.prod.vidiocdn.com/mkJNmVTzZTAOLkFHRVupOF6BLLg=/287x162/filters:strip_icc():quality(70)/vidio-media-production/uploads/livestreaming/schedule/thumbnail/5055522/32dbe5.jpg"/>
@@ -12370,7 +12370,7 @@
     <desc lang="id">Miami P1 Women</desc>
     <icon src="https://thumbor.prod.vidiocdn.com/VmoYokSeKr_3SubUXC-rMC-EtQM=/287x162/filters:strip_icc():quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/image/17875/bein-2-25a5f9.jpg"/>
   </programme>
-  <programme channel="17875" start="20260502190000 +0000" stop="20260502210000 +0000">
+  <programme channel="17875" start="20260502185500 +0000" stop="20260502210000 +0000">
     <title lang="id">Osasuna vs Barcelona - LaLiga</title>
     <desc lang="id">Nonton streaming pertandingan seru Osasuna vs Barcelona - LaLiga. Saksikan aksi-aksi terbaik dari tim yang bersaing ketat untuk meraih kemenangan. Dapatkan informasi lengkap mengenai jadwal pertandingan dan hasil pertandingan terbaru hanya di Vidio.</desc>
     <icon src="https://thumbor.prod.vidiocdn.com/FMvZVZKgjRGFfR7r8a1dZfKh3GE=/287x162/filters:strip_icc():quality(70)/vidio-media-production/uploads/livestreaming/schedule/thumbnail/5038932/34f774.jpg"/>
@@ -22009,19 +22009,21 @@
     <desc lang="id">A look back at Rory McIlroy's historic Masters victory and career Grand Slam, featuring exclusive insights and a sit-down interview with Jim Nantz.</desc>
     <icon src="https://thumbor.prod.vidiocdn.com/YBK8XRc1cWJx0JfM3CWo6PnTfFY=/287x162/filters:strip_icc():quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/image/17139/spotv-c18c69.jpg"/>
   </programme>
-  <programme channel="17139" start="20260502180000 +0000" stop="20260502200000 +0000">
+  <programme channel="17139" start="20260502174500 +0000" stop="20260502200000 +0000">
     <title lang="id">Al-Hazem vs Al-Hilal - ROSHN Saudi League</title>
     <desc lang="id">Nonton streaming pertandingan seru Al-Hazem vs Al-Hilal - ROSHN Saudi League. Saksikan aksi-aksi terbaik dari tim yang bersaing ketat untuk meraih kemenangan. Dapatkan informasi lengkap mengenai jadwal pertandingan dan hasil pertandingan terbaru hanya di Vidio.</desc>
     <icon src="https://thumbor.prod.vidiocdn.com/fZF2lJGlYEMTScRN4um0H2BD-2M=/287x162/filters:strip_icc():quality(70)/vidio-media-production/uploads/livestreaming/schedule/thumbnail/5038926/94dc28.jpg"/>
   </programme>
-  <programme channel="17139" start="20260502200000 +0000" stop="20260502230000 +0000">
-    <title lang="id">Day 1 : 2026 LET: MCB Ladies Classic</title>
-    <desc lang="id">Set in the stunning surroundings of Mauritius, top women golfers compete on the Ladies European Tour, delivering precision play and championship-level competition.</desc>
+  <programme channel="17139" start="20260502200000 +0000" stop="20260502233000 +0000">
+    <title lang="id">Triple Crown: Kentucky Derby 2026</title>
     <icon src="https://thumbor.prod.vidiocdn.com/YBK8XRc1cWJx0JfM3CWo6PnTfFY=/287x162/filters:strip_icc():quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/image/17139/spotv-c18c69.jpg"/>
   </programme>
-  <programme channel="17139" start="20260502230000 +0000" stop="20260503010000 +0000">
-    <title lang="id">Highlights : 2026 LET: Joburg Ladies Open</title>
-    <desc lang="id">Top female golfers compete across premier international venues, delivering world-class performances, thrilling finishes, and season-long championship drama.</desc>
+  <programme channel="17139" start="20260502233000 +0000" stop="20260503021500 +0000">
+    <title lang="id">2026 LET: MCB Ladies Classic</title>
+    <icon src="https://thumbor.prod.vidiocdn.com/YBK8XRc1cWJx0JfM3CWo6PnTfFY=/287x162/filters:strip_icc():quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/image/17139/spotv-c18c69.jpg"/>
+  </programme>
+  <programme channel="17139" start="20260503021500 +0000" stop="20260503030500 +0000">
+    <title lang="id">E1 World Championship 2026 HLs</title>
     <icon src="https://thumbor.prod.vidiocdn.com/YBK8XRc1cWJx0JfM3CWo6PnTfFY=/287x162/filters:strip_icc():quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/image/17139/spotv-c18c69.jpg"/>
   </programme>
   <programme channel="17139" start="20260503030500 +0000" stop="20260503050000 +0000">
@@ -22063,6 +22065,10 @@
     <title lang="id">WorldSBK Race 2 - WorldSBK Championship 2026 Round 4 Motul Hungarian Round</title>
     <desc lang="id">Nonton streaming pertandingan seru WorldSBK Race 2 - WorldSBK Championship 2026 Round 4 Motul Hungarian Round. Saksikan aksi-aksi terbaik dari tim yang bersaing ketat untuk meraih kemenangan. Dapatkan informasi lengkap mengenai jadwal pertandingan dan hasil pertandingan terbaru hanya di Vidio.</desc>
     <icon src="https://thumbor.prod.vidiocdn.com/KGbLGZNkpSESqHJ_apxHeQeupIw=/287x162/filters:strip_icc():quality(70)/vidio-media-production/uploads/livestreaming/schedule/thumbnail/5038930/f5fe1b.jpg"/>
+  </programme>
+  <programme channel="17139" start="20260503143500 +0000" stop="20260503163000 +0000">
+    <title lang="id">Al Hazem vs Al Hilal - 25/26 ROSHN Saudi League MW 31</title>
+    <icon src="https://thumbor.prod.vidiocdn.com/YBK8XRc1cWJx0JfM3CWo6PnTfFY=/287x162/filters:strip_icc():quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/image/17139/spotv-c18c69.jpg"/>
   </programme>
   <programme channel="17139" start="20260503163000 +0000" stop="20260503174500 +0000">
     <title lang="id">Highlights : 2026 LIV Golf League, Mexico City</title>
