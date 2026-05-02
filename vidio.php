@@ -6078,17 +6078,12 @@
     <desc lang="id">Episode Number 11</desc>
     <icon src="https://thumbor.prod.vidiocdn.com/5yUHYfv_b1sZi7kdFElm8JqF2RY=/287x162/filters:strip_icc():quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/image/6299/bein-1-4bd997.jpg"/>
   </programme>
-  <programme channel="6299" start="20260502135500 +0000" stop="20260502144500 +0000">
+  <programme channel="6299" start="20260502135500 +0000" stop="20260502150100 +0000">
     <title lang="id">Miami, USA : FIA Formula 2 Championship Sprint 2026</title>
     <desc lang="id">Miami, USA</desc>
     <icon src="https://thumbor.prod.vidiocdn.com/5yUHYfv_b1sZi7kdFElm8JqF2RY=/287x162/filters:strip_icc():quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/image/6299/bein-1-4bd997.jpg"/>
   </programme>
-  <programme channel="6299" start="20260502144500 +0000" stop="20260502150000 +0000">
-    <title lang="id">Borja Iglesias : LaLiga Goals Galore 2024/25</title>
-    <desc lang="id">Borja Iglesias</desc>
-    <icon src="https://thumbor.prod.vidiocdn.com/5yUHYfv_b1sZi7kdFElm8JqF2RY=/287x162/filters:strip_icc():quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/image/6299/bein-1-4bd997.jpg"/>
-  </programme>
-  <programme channel="6299" start="20260502150000 +0000" stop="20260502155600 +0000">
+  <programme channel="6299" start="20260502150100 +0000" stop="20260502155600 +0000">
     <title lang="id">FORMULA 1 CRYPTO.COM MIAMI GRAND PRIX 2026 : Formula 1 Sprint Race Pre Show 2026</title>
     <desc lang="id">FORMULA 1 CRYPTO.COM MIAMI GRAND PRIX 2026</desc>
     <icon src="https://thumbor.prod.vidiocdn.com/5yUHYfv_b1sZi7kdFElm8JqF2RY=/287x162/filters:strip_icc():quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/image/6299/bein-1-4bd997.jpg"/>
@@ -6858,12 +6853,12 @@
     <desc lang="id">SFs,1st Leg</desc>
     <icon src="https://thumbor.prod.vidiocdn.com/xiN-u5MIG7jgOVE2tB_TUIynz7k=/287x162/filters:strip_icc():quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/image/6317/bein-3-616b1c.jpg"/>
   </programme>
-  <programme channel="6317" start="20260502125500 +0000" stop="20260502150000 +0000">
+  <programme channel="6317" start="20260502125500 +0000" stop="20260502150500 +0000">
     <title lang="id">Lyon vs Arsenal - UEFA Women's Champions League</title>
     <desc lang="id">Nonton streaming pertandingan seru Lyon vs Arsenal - UEFA Women's Champions League. Saksikan aksi-aksi terbaik dari tim yang bersaing ketat untuk meraih kemenangan. Dapatkan informasi lengkap mengenai jadwal pertandingan dan hasil pertandingan terbaru hanya di Vidio.</desc>
     <icon src="https://thumbor.prod.vidiocdn.com/OgXRzycNTA36EGeqxQ9RaKFY4EE=/287x162/filters:strip_icc():quality(70)/vidio-media-production/uploads/livestreaming/schedule/thumbnail/5055275/c5482d.jpg"/>
   </programme>
-  <programme channel="6317" start="20260502150000 +0000" stop="20260502153000 +0000">
+  <programme channel="6317" start="20260502150500 +0000" stop="20260502153000 +0000">
     <title lang="id">Wed,SFs,1st Leg : UEFA Champions League Highlights 2025/26</title>
     <desc lang="id">Wed,SFs,1st Leg</desc>
     <icon src="https://thumbor.prod.vidiocdn.com/xiN-u5MIG7jgOVE2tB_TUIynz7k=/287x162/filters:strip_icc():quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/image/6317/bein-3-616b1c.jpg"/>

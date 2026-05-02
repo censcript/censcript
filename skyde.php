@@ -2551,7 +2551,7 @@
 <programme start="20260502143000 +0000" stop="20260502145000 +0000" channel="Sky Sport Austria 3 HD.skyde">
     <title>Es folgt: Live Admiral Bundesliga</title>
 </programme>
-<programme start="20260502145000 +0000" stop="20260502173000 +0000" channel="Sky Sport Austria 3 HD.skyde">
+<programme start="20260502145000 +0000" stop="20260502170000 +0000" channel="Sky Sport Austria 3 HD.skyde">
     <title>Live Admiral BL: Grazer AK 1902 - WSG Tirol, 30. Runde</title>
 </programme>
 <programme start="20260502114000 +0000" stop="20260502120000 +0000" channel="Sky Sport Austria 4 HD.skyde">
@@ -2629,6 +2629,42 @@
 <programme start="20260502214500 +0000" stop="20260502224500 +0000" channel="Sky Sport Bundesliga HD.skyde">
     <title>BL: Alle Spiel, alle Stimmen, 31. Spieltag</title>
 </programme>
+<programme start="20260501220000 +0000" stop="20260502000000 +0000" channel="Sky Sport Bundesliga UHD.skyde">
+    <title>2. BL: SV Darmstadt 98 - SV Elversberg, tipico Topspiel der Woche, 31. Spieltag</title>
+</programme>
+<programme start="20260502000000 +0000" stop="20260502020000 +0000" channel="Sky Sport Bundesliga UHD.skyde">
+    <title>BL: RB Leipzig - 1. FC Union Berlin, Flutlicht-Freitag, 31. Spieltag</title>
+</programme>
+<programme start="20260502020000 +0000" stop="20260502040000 +0000" channel="Sky Sport Bundesliga UHD.skyde">
+    <title>BL: Hamburger SV - TSG Hoffenheim, tipico Topspiel der Woche, 31. Spieltag</title>
+</programme>
+<programme start="20260502040000 +0000" stop="20260502060000 +0000" channel="Sky Sport Bundesliga UHD.skyde">
+    <title>BL: RB Leipzig - 1. FC Union Berlin, Flutlicht-Freitag, 31. Spieltag</title>
+</programme>
+<programme start="20260502060000 +0000" stop="20260502080000 +0000" channel="Sky Sport Bundesliga UHD.skyde">
+    <title>2. BL: SV Darmstadt 98 - SV Elversberg, tipico Topspiel der Woche, 31. Spieltag</title>
+</programme>
+<programme start="20260502080000 +0000" stop="20260502100000 +0000" channel="Sky Sport Bundesliga UHD.skyde">
+    <title>BL: 1. FSV Mainz 05 - FC Bayern München, 31. Spieltag</title>
+</programme>
+<programme start="20260502100000 +0000" stop="20260502120000 +0000" channel="Sky Sport Bundesliga UHD.skyde">
+    <title>BL: Hamburger SV - TSG Hoffenheim, tipico Topspiel der Woche, 31. Spieltag</title>
+</programme>
+<programme start="20260502120000 +0000" stop="20260502131500 +0000" channel="Sky Sport Bundesliga UHD.skyde">
+    <title>Live BL: tipico Countdown, 32. Spieltag</title>
+</programme>
+<programme start="20260502131500 +0000" stop="20260502153000 +0000" channel="Sky Sport Bundesliga UHD.skyde">
+    <title>Live BL: FC Bayern München - 1. FC Heidenheim, 32. Spieltag</title>
+</programme>
+<programme start="20260502153000 +0000" stop="20260502182500 +0000" channel="Sky Sport Bundesliga UHD.skyde">
+    <title>Live BL: Bayer Leverkusen - RB Leipzig, tipico Topspiel der Woche, 32. Spieltag</title>
+</programme>
+<programme start="20260502182500 +0000" stop="20260502211500 +0000" channel="Sky Sport Bundesliga UHD.skyde">
+    <title>Live 2. BL: FC Schalke 04 - Fortuna Düsseldorf, tipico Topspiel der Woche, 32. Spieltag</title>
+</programme>
+<programme start="20260502211500 +0000" stop="20260502231500 +0000" channel="Sky Sport Bundesliga UHD.skyde">
+    <title>BL: Bayer Leverkusen - RB Leipzig, tipico Topspiel der Woche, 32. Spieltag</title>
+</programme>
 <programme start="20260502114000 +0000" stop="20260502120000 +0000" channel="Sky Sport Bundesliga 1 HD.skyde">
     <title>Es folgt: Live 2. Bundesliga</title>
 </programme>
@@ -2641,7 +2677,7 @@
 <programme start="20260502131500 +0000" stop="20260502154500 +0000" channel="Sky Sport Bundesliga 1 HD.skyde">
     <title>Live BL: FC Bayern München - 1. FC Heidenheim, 32. Spieltag</title>
 </programme>
-<programme start="20260502154500 +0000" stop="20260502191500 +0000" channel="Sky Sport Bundesliga 1 HD.skyde">
+<programme start="20260502154500 +0000" stop="20260502194500 +0000" channel="Sky Sport Bundesliga 1 HD.skyde">
     <title>Live BL: Bayer Leverkusen - RB Leipzig, tipico Topspiel der Woche, 32. Spieltag</title>
 </programme>
 <programme start="20260502101000 +0000" stop="20260502103000 +0000" channel="Sky Sport Bundesliga 2 HD.skyde">
@@ -2665,7 +2701,7 @@
 <programme start="20260502173000 +0000" stop="20260502211500 +0000" channel="Sky Sport Bundesliga 2 HD.skyde">
     <title>Live 2. BL: FC Schalke 04 - Fortuna Düsseldorf, tipico Topspiel der Woche, 32. Spieltag</title>
 </programme>
-<programme start="20260502211500 +0000" stop="20260502221500 +0000" channel="Sky Sport Bundesliga 2 HD.skyde">
+<programme start="20260502211500 +0000" stop="20260502224500 +0000" channel="Sky Sport Bundesliga 2 HD.skyde">
     <title>2. BL Alle Spiele, alle Tore: Die Vodafone Highlight-Show, 32. Spieltag, Samstag komplett</title>
 </programme>
 <programme start="20260502101000 +0000" stop="20260502103000 +0000" channel="Sky Sport Bundesliga 3 HD.skyde">
@@ -2704,7 +2740,7 @@
 <programme start="20260502130000 +0000" stop="20260502131500 +0000" channel="Sky Sport Bundesliga 5 HD.skyde">
     <title>Live BL: SVW - FCA: tipico Countdown, 32. Spieltag</title>
 </programme>
-<programme start="20260502131500 +0000" stop="20260502154500 +0000" channel="Sky Sport Bundesliga 5 HD.skyde">
+<programme start="20260502131500 +0000" stop="20260502161500 +0000" channel="Sky Sport Bundesliga 5 HD.skyde">
     <title>Live BL: Werder Bremen - FC Augsburg, 32. Spieltag</title>
 </programme>
 <programme start="20260502101000 +0000" stop="20260502103000 +0000" channel="Sky Sport Bundesliga 6 HD.skyde">
@@ -2800,10 +2836,10 @@
 <programme start="20260502024500 +0000" stop="20260502030000 +0000" channel="Sky Sport Golf HD.skyde">
     <title>Golf: Tee Time Stories (4)</title>
 </programme>
-<programme start="20260502030000 +0000" stop="20260502070000 +0000" channel="Sky Sport Golf HD.skyde">
+<programme start="20260502030000 +0000" stop="20260502072000 +0000" channel="Sky Sport Golf HD.skyde">
     <title>Live Asian Tour: Maekyung Open Golf Championship, 3. Tag in Seongnam-si (Südkorea)</title>
 </programme>
-<programme start="20260502070000 +0000" stop="20260502100000 +0000" channel="Sky Sport Golf HD.skyde">
+<programme start="20260502072000 +0000" stop="20260502100000 +0000" channel="Sky Sport Golf HD.skyde">
     <title>LPGA: Riviera Maya Open at Mayakoba, 2. Tag in Quintana Roo (Mexiko)</title>
 </programme>
 <programme start="20260502100000 +0000" stop="20260502130000 +0000" channel="Sky Sport Golf HD.skyde">
@@ -2849,7 +2885,7 @@
     <title>NHL: Highlights BUF@BOS, Playoffs, 1. Runde, Spiel 6</title>
 </programme>
 <programme start="20260502090000 +0000" stop="20260502091500 +0000" channel="Sky Sport Mix HD.skyde">
-    <title>NHL: Highlights, Playoffs, 1. Runde</title>
+    <title>NHL: VGK@UTM Highlights, Playoffs, 1. Runde</title>
 </programme>
 <programme start="20260502091500 +0000" stop="20260502100000 +0000" channel="Sky Sport Mix HD.skyde">
     <title>World Surf League: Replay: Margaret River Pro Finals Day</title>
@@ -2864,7 +2900,7 @@
     <title>NHL: Highlights BUF@BOS, Playoffs, 1. Runde, Spiel 6</title>
 </programme>
 <programme start="20260502111500 +0000" stop="20260502113000 +0000" channel="Sky Sport Mix HD.skyde">
-    <title>NHL: Highlights, Playoffs, 1. Runde</title>
+    <title>NHL: VGK@UTM Highlights, Playoffs, 1. Runde</title>
 </programme>
 <programme start="20260502113000 +0000" stop="20260502133000 +0000" channel="Sky Sport Mix HD.skyde">
     <title>NHL: Buffalo Sabres @ Boston Bruins, Playoffs, 1. Runde, Spiel 6</title>
@@ -3142,7 +3178,7 @@
 <programme start="20260502110000 +0000" stop="20260502112000 +0000" channel="Sky Sport 8 HD.skyde">
     <title>Es folgt: Live Premier League</title>
 </programme>
-<programme start="20260502112000 +0000" stop="20260502133000 +0000" channel="Sky Sport 8 HD.skyde">
+<programme start="20260502112000 +0000" stop="20260502140000 +0000" channel="Sky Sport 8 HD.skyde">
     <title>Live EFL: AFC Wrexham - FC Middlesbrough, 46. Spieltag</title>
 </programme>
 <programme start="20260501224000 +0000" stop="20260501232500 +0000" channel="SYFY HD.skyde">
