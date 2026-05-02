@@ -2563,7 +2563,7 @@
 <programme start="20260502143000 +0000" stop="20260502145000 +0000" channel="Sky Sport Austria 4 HD.skyde">
     <title>WTA: Greatest 50</title>
 </programme>
-<programme start="20260502145000 +0000" stop="20260502173000 +0000" channel="Sky Sport Austria 4 HD.skyde">
+<programme start="20260502145000 +0000" stop="20260502193000 +0000" channel="Sky Sport Austria 4 HD.skyde">
     <title>Live WTA 1000: M. Kostyuk (UKR) - M. Andreeva, Mutua Madrid Open in Madrid (ESP), Finale</title>
 </programme>
 <programme start="20260501221500 +0000" stop="20260501223000 +0000" channel="Sky Sport Bundesliga HD.skyde">
@@ -2692,8 +2692,11 @@
 <programme start="20260502131500 +0000" stop="20260502153000 +0000" channel="Sky Sport Bundesliga 2 HD.skyde">
     <title>Live BL: Eintracht Frankfurt - Hamburger SV, 32. Spieltag</title>
 </programme>
-<programme start="20260502153000 +0000" stop="20260502171500 +0000" channel="Sky Sport Bundesliga 2 HD.skyde">
+<programme start="20260502153000 +0000" stop="20260502170000 +0000" channel="Sky Sport Bundesliga 2 HD.skyde">
     <title>Live BL Alle Spiele, alle Tore: Die Vodafone Highlight-Show, 32. Spieltag, Samstag</title>
+</programme>
+<programme start="20260502170000 +0000" stop="20260502173000 +0000" channel="Sky Sport Bundesliga 2 HD.skyde">
+    <title>BL: Kompakt - Alles in 30</title>
 </programme>
 <programme start="20260502173000 +0000" stop="20260502211500 +0000" channel="Sky Sport Bundesliga 2 HD.skyde">
     <title>Live 2. BL: FC Schalke 04 - Fortuna Düsseldorf, tipico Topspiel der Woche, 32. Spieltag</title>
@@ -2737,7 +2740,7 @@
 <programme start="20260502130000 +0000" stop="20260502131500 +0000" channel="Sky Sport Bundesliga 5 HD.skyde">
     <title>Live BL: SVW - FCA: tipico Countdown, 32. Spieltag</title>
 </programme>
-<programme start="20260502131500 +0000" stop="20260502154500 +0000" channel="Sky Sport Bundesliga 5 HD.skyde">
+<programme start="20260502131500 +0000" stop="20260502161500 +0000" channel="Sky Sport Bundesliga 5 HD.skyde">
     <title>Live BL: Werder Bremen - FC Augsburg, 32. Spieltag</title>
 </programme>
 <programme start="20260502101000 +0000" stop="20260502103000 +0000" channel="Sky Sport Bundesliga 6 HD.skyde">
@@ -2905,14 +2908,14 @@
 <programme start="20260502133000 +0000" stop="20260502135000 +0000" channel="Sky Sport Mix HD.skyde">
     <title>PL: Best Freekicks</title>
 </programme>
-<programme start="20260502135000 +0000" stop="20260502160500 +0000" channel="Sky Sport Mix HD.skyde">
+<programme start="20260502135000 +0000" stop="20260502160000 +0000" channel="Sky Sport Mix HD.skyde">
     <title>Live PL: Newcastle United - Brighton &amp; Hove Albion, 35. Spieltag</title>
 </programme>
-<programme start="20260502160500 +0000" stop="20260502170000 +0000" channel="Sky Sport Mix HD.skyde">
-    <title>Eishockey: NHL Tonight - Playoff Edition</title>
-</programme>
-<programme start="20260502170000 +0000" stop="20260502171500 +0000" channel="Sky Sport Mix HD.skyde">
+<programme start="20260502160000 +0000" stop="20260502161500 +0000" channel="Sky Sport Mix HD.skyde">
     <title>Frauen-BL: Alle Spiele, alle Tore, 24. Spieltag, Samstag</title>
+</programme>
+<programme start="20260502161500 +0000" stop="20260502171500 +0000" channel="Sky Sport Mix HD.skyde">
+    <title>NHL: Tonight - Playoff Edition</title>
 </programme>
 <programme start="20260502171500 +0000" stop="20260502191500 +0000" channel="Sky Sport Mix HD.skyde">
     <title>NHL: Buffalo Sabres @ Boston Bruins, Playoffs, 1. Runde, Spiel 6</title>
@@ -3121,13 +3124,13 @@
 <programme start="20260502143000 +0000" stop="20260502145000 +0000" channel="Sky Sport Tennis HD.skyde">
     <title>WTA: Greatest 50</title>
 </programme>
-<programme start="20260502145000 +0000" stop="20260502170000 +0000" channel="Sky Sport Tennis HD.skyde">
+<programme start="20260502145000 +0000" stop="20260502173000 +0000" channel="Sky Sport Tennis HD.skyde">
     <title>Live WTA 1000: M. Kostyuk (UKR) - M. Andreeva, Mutua Madrid Open in Madrid (ESP), Finale</title>
 </programme>
-<programme start="20260502170000 +0000" stop="20260502190000 +0000" channel="Sky Sport Tennis HD.skyde">
+<programme start="20260502173000 +0000" stop="20260502200000 +0000" channel="Sky Sport Tennis HD.skyde">
     <title>ATP 1000: G. Andreozzi (ARG) / M. Guinard (FRA) - H. Heliovaara (FIN) / H. Patten (GBR), Mutua Madrid Open in Madrid (ESP), Doppelfinale</title>
 </programme>
-<programme start="20260502190000 +0000" stop="20260502223000 +0000" channel="Sky Sport Tennis HD.skyde">
+<programme start="20260502200000 +0000" stop="20260502223000 +0000" channel="Sky Sport Tennis HD.skyde">
     <title>WTA 1000: M. Kostyuk (UKR) - M. Andreeva, Mutua Madrid Open in Madrid (ESP), Finale</title>
 </programme>
 <programme start="20260501224500 +0000" stop="20260501230000 +0000" channel="Sky Sport Top Event HD.skyde">
@@ -3172,10 +3175,28 @@
 <programme start="20260502211500 +0000" stop="20260502233000 +0000" channel="Sky Sport Top Event HD.skyde">
     <title>Live LPGA: Riviera Maya Open at Mayakoba, 3. Tag in Quintana Roo (Mexiko)</title>
 </programme>
-<programme start="20260502110000 +0000" stop="20260502112000 +0000" channel="Sky Sport 8 HD.skyde">
-    <title>Es folgt: Live Premier League</title>
+<programme start="20260502221000 +0000" stop="20260502223000 +0000" channel="Sky Sport 1 HD.skyde">
+    <title>Es folgt: Live NBA</title>
 </programme>
-<programme start="20260502112000 +0000" stop="20260502133000 +0000" channel="Sky Sport 8 HD.skyde">
+<programme start="20260502223000 +0000" stop="20260502233000 +0000" channel="Sky Sport 1 HD.skyde">
+    <title>Live NBA: Showtime</title>
+</programme>
+<programme start="20260502233000 +0000" stop="20260503020000 +0000" channel="Sky Sport 1 HD.skyde">
+    <title>Live NBA: Philadelphia 76ers @ Boston Celtics, Playoffs, Runde 1, Spiel 7</title>
+</programme>
+<programme start="20260503020000 +0000" stop="20260503080000 +0000" channel="Sky Sport 1 HD.skyde">
+    <title>Live NBA: Showtime - Post Show</title>
+</programme>
+<programme start="20260503185500 +0000" stop="20260503191500 +0000" channel="Sky Sport 1 HD.skyde">
+    <title>Es folgt: LIVE NBA</title>
+</programme>
+<programme start="20260503191500 +0000" stop="20260503220000 +0000" channel="Sky Sport 1 HD.skyde">
+    <title>Live NBA: Orlando Magic @ Detroit Pistons, Playoffs, Runde 1, Spiel 7</title>
+</programme>
+<programme start="20260502110000 +0000" stop="20260502112000 +0000" channel="Sky Sport 8 HD.skyde">
+    <title>Es folgt: LIVE EFL</title>
+</programme>
+<programme start="20260502112000 +0000" stop="20260502134500 +0000" channel="Sky Sport 8 HD.skyde">
     <title>Live EFL: AFC Wrexham - FC Middlesbrough, 46. Spieltag</title>
 </programme>
 <programme start="20260501224000 +0000" stop="20260501232500 +0000" channel="SYFY HD.skyde">

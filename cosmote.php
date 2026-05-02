@@ -66,6 +66,10 @@
     <title>Football: Panathinaikos - AEK (L)</title>
     <desc>Live: Ya</desc>
 </programme>
+<programme start="20260504031500 +0700" stop="20260504052500 +0700" channel="COSMOTE Sport 1 HD">
+    <title>Sportshow (L)</title>
+    <desc>Live: Ya</desc>
+</programme>
 <programme start="20260503014500 +0700" stop="20260503034500 +0700" channel="COSMOTE Sport 2 HD">
     <title>Football: Atalanta - Genoa (L)</title>
     <desc>Live: Ya</desc>
@@ -138,8 +142,8 @@
     <title>Football: FC Internazionale Milano - Parma (L)</title>
     <desc>Live: Ya</desc>
 </programme>
-<programme start="20260503020000 +0700" stop="20260503023000 +0700" channel="COSMOTE Sport 3 HD">
-    <title>William Hill Scottish Premiership - Highlights</title>
+<programme start="20260504034500 +0700" stop="20260504060000 +0700" channel="COSMOTE Sport 2 HD">
+    <title>Football: OFI - Aris</title>
     <desc>Live: Tidak</desc>
 </programme>
 <programme start="20260503023000 +0700" stop="20260503043000 +0700" channel="COSMOTE Sport 3 HD">
@@ -278,10 +282,6 @@
     <title>Basketball: Detroit Pistons - Orlando Magic (L)</title>
     <desc>Live: Ya</desc>
 </programme>
-<programme start="20260503010000 +0700" stop="20260503030000 +0700" channel="COSMOTE Sport 5 HD">
-    <title>Football: Al-Hazem FC - Al Hilal (L)</title>
-    <desc>Live: Ya</desc>
-</programme>
 <programme start="20260503030000 +0700" stop="20260503035500 +0700" channel="COSMOTE Sport 5 HD">
     <title>ERC 2026</title>
     <desc>Live: Tidak</desc>
@@ -369,6 +369,10 @@
 <programme start="20260504010000 +0700" stop="20260504030000 +0700" channel="COSMOTE Sport 5 HD">
     <title>Football: Al-Qadsiah - Al Nassr (L)</title>
     <desc>Live: Ya</desc>
+</programme>
+<programme start="20260504030000 +0700" stop="20260504044500 +0700" channel="COSMOTE Sport 5 HD">
+    <title>Motorsports: MotoGP 2026</title>
+    <desc>Live: Tidak</desc>
 </programme>
 <programme start="20260503013000 +0700" stop="20260503055000 +0700" channel="COSMOTE Sport 6 HD">
     <title>Kick Boxing Spartan&#039;s Night VI</title>
@@ -494,12 +498,8 @@
     <title>Football: Al Ahli - Al-Okhdood Club (L)</title>
     <desc>Live: Ya</desc>
 </programme>
-<programme start="20260503000000 +0700" stop="20260503023000 +0700" channel="COSMOTE Sport 8 HD">
-    <title>Volleyball: Eczacibasi Dynavit Istanbul - Savino Del Bene Scandicci (L)</title>
-    <desc>Live: Ya</desc>
-</programme>
-<programme start="20260503023000 +0700" stop="20260503030000 +0700" channel="COSMOTE Sport 8 HD">
-    <title>COSMOTESport8HD</title>
+<programme start="20260504030000 +0700" stop="20260504040000 +0700" channel="COSMOTE Sport 7 HD">
+    <title>COSMOTESport7HD</title>
     <desc>Live: Tidak</desc>
 </programme>
 <programme start="20260503030000 +0700" stop="20260503040000 +0700" channel="COSMOTE Sport 8 HD">
@@ -562,6 +562,10 @@
     <title>COSMOTESport8HD</title>
     <desc>Live: Tidak</desc>
 </programme>
+<programme start="20260504030000 +0700" stop="20260504040000 +0700" channel="COSMOTE Sport 8 HD">
+    <title>COSMOTESport8HD</title>
+    <desc>Live: Tidak</desc>
+</programme>
 <programme start="20260503020000 +0700" stop="20260503040000 +0700" channel="COSMOTE Sport 9 HD">
     <title>COSMOTESport9HD</title>
     <desc>Live: Tidak</desc>
@@ -619,6 +623,10 @@
     <desc>Live: Ya</desc>
 </programme>
 <programme start="20260504020000 +0700" stop="20260504030000 +0700" channel="COSMOTE Sport 9 HD">
+    <title>Beach Volley: Pro Tour Elite 16 2026 (L)</title>
+    <desc>Live: Ya</desc>
+</programme>
+<programme start="20260504030000 +0700" stop="20260504040000 +0700" channel="COSMOTE Sport 9 HD">
     <title>Beach Volley: Pro Tour Elite 16 2026 (L)</title>
     <desc>Live: Ya</desc>
 </programme>

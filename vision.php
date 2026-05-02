@@ -526,6 +526,12 @@
 <programme start="20260502154500 +0000" stop="20260502163000 +0000" channel="Trans 7.vision">
 <title>The Police</title>
 </programme>
+<programme start="20260502163000 +0000" stop="20260502174500 +0000" channel="Trans 7.vision">
+<title>Theater Malam</title>
+</programme>
+<programme start="20260502174500 +0000" stop="20260502183000 +0000" channel="Trans 7.vision">
+<title>Superbike 2026 Hungary</title>
+</programme>
 <programme start="20260502183000 +0000" stop="20260502190000 +0000" channel="Trans 7.vision">
 <title>Best Fishing</title>
 </programme>
@@ -1490,11 +1496,5 @@
 <title>TVRI</title>
 </programme>
 <programme start="20260502130000 +0000" stop="20260502150000 +0000" channel="TVRI.vision">
-<title>TVRI</title>
-</programme>
-<programme start="20260502150000 +0000" stop="20260502170000 +0000" channel="TVRI.vision">
-<title>TVRI</title>
-</programme>
-<programme start="20260502170000 +0000" stop="20260502190000 +0000" channel="TVRI.vision">
 <title>TVRI</title>
 </programme>
