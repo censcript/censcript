@@ -2089,86 +2089,83 @@
 <programme start="20260502213500 +0000" stop="20260502222500 +0000" channel="Sky Documentaries HD.skyde">
     <title>Shaq</title>
 </programme>
-<programme start="20260504222500 +0000" stop="20260504232500 +0000" channel="Sky Krimi HD.skyde">
-    <title>Der Staatsanwalt: Aus der Schusslinie</title>
+<programme start="20260501225500 +0000" stop="20260502002500 +0000" channel="Sky Krimi HD.skyde">
+    <title>Nord Nord Mord: Sievers und der erste Schrei</title>
 </programme>
-<programme start="20260504232500 +0000" stop="20260505005000 +0000" channel="Sky Krimi HD.skyde">
-    <title>Nord bei Nordwest: Käpt&#039;n Hook</title>
-</programme>
-<programme start="20260505005000 +0000" stop="20260505010000 +0000" channel="Sky Krimi HD.skyde">
-    <title>Diese Ochsenknechts 4: Natascha und Jimi</title>
-</programme>
-<programme start="20260505010000 +0000" stop="20260505015000 +0000" channel="Sky Krimi HD.skyde">
-    <title>Morden im Norden</title>
-</programme>
-<programme start="20260505015000 +0000" stop="20260505024000 +0000" channel="Sky Krimi HD.skyde">
-    <title>Morden im Norden</title>
-</programme>
-<programme start="20260505024000 +0000" stop="20260505032000 +0000" channel="Sky Krimi HD.skyde">
+<programme start="20260502002500 +0000" stop="20260502011000 +0000" channel="Sky Krimi HD.skyde">
     <title>Die Rosenheim-Cops</title>
 </programme>
-<programme start="20260505032000 +0000" stop="20260505041000 +0000" channel="Sky Krimi HD.skyde">
+<programme start="20260502011000 +0000" stop="20260502015500 +0000" channel="Sky Krimi HD.skyde">
     <title>Die Rosenheim-Cops</title>
 </programme>
-<programme start="20260505041000 +0000" stop="20260505050000 +0000" channel="Sky Krimi HD.skyde">
-    <title>Morden im Norden</title>
-</programme>
-<programme start="20260505050000 +0000" stop="20260505055500 +0000" channel="Sky Krimi HD.skyde">
-    <title>Morden im Norden</title>
-</programme>
-<programme start="20260505055500 +0000" stop="20260505064500 +0000" channel="Sky Krimi HD.skyde">
-    <title>Hubert und Staller</title>
-</programme>
-<programme start="20260505064500 +0000" stop="20260505074000 +0000" channel="Sky Krimi HD.skyde">
-    <title>Hubert und Staller</title>
-</programme>
-<programme start="20260505074000 +0000" stop="20260505083500 +0000" channel="Sky Krimi HD.skyde">
-    <title>Hubert und Staller</title>
-</programme>
-<programme start="20260505083500 +0000" stop="20260505093500 +0000" channel="Sky Krimi HD.skyde">
-    <title>Der Staatsanwalt: Alles vom Leben</title>
-</programme>
-<programme start="20260505093500 +0000" stop="20260505104000 +0000" channel="Sky Krimi HD.skyde">
-    <title>Der Staatsanwalt: Aus der Schusslinie</title>
-</programme>
-<programme start="20260505104000 +0000" stop="20260505113000 +0000" channel="Sky Krimi HD.skyde">
+<programme start="20260502015500 +0000" stop="20260502024000 +0000" channel="Sky Krimi HD.skyde">
     <title>Die Rosenheim-Cops</title>
 </programme>
-<programme start="20260505113000 +0000" stop="20260505121500 +0000" channel="Sky Krimi HD.skyde">
+<programme start="20260502024000 +0000" stop="20260502032500 +0000" channel="Sky Krimi HD.skyde">
     <title>Die Rosenheim-Cops</title>
 </programme>
-<programme start="20260505121500 +0000" stop="20260505135000 +0000" channel="Sky Krimi HD.skyde">
-    <title>Nord bei Nordwest: Käpt&#039;n Hook</title>
-</programme>
-<programme start="20260505135000 +0000" stop="20260505144500 +0000" channel="Sky Krimi HD.skyde">
-    <title>Morden im Norden</title>
-</programme>
-<programme start="20260505144500 +0000" stop="20260505153500 +0000" channel="Sky Krimi HD.skyde">
-    <title>Morden im Norden</title>
-</programme>
-<programme start="20260505153500 +0000" stop="20260505163000 +0000" channel="Sky Krimi HD.skyde">
-    <title>Hubert und Staller</title>
-</programme>
-<programme start="20260505163000 +0000" stop="20260505172000 +0000" channel="Sky Krimi HD.skyde">
-    <title>Hubert und Staller</title>
-</programme>
-<programme start="20260505172000 +0000" stop="20260505181500 +0000" channel="Sky Krimi HD.skyde">
-    <title>Hubert und Staller</title>
-</programme>
-<programme start="20260505181500 +0000" stop="20260505190000 +0000" channel="Sky Krimi HD.skyde">
-    <title>Adam Dalgliesh, Scotland Yard</title>
-</programme>
-<programme start="20260505190000 +0000" stop="20260505195500 +0000" channel="Sky Krimi HD.skyde">
-    <title>Adam Dalgliesh, Scotland Yard</title>
-</programme>
-<programme start="20260505195500 +0000" stop="20260505204000 +0000" channel="Sky Krimi HD.skyde">
+<programme start="20260502032500 +0000" stop="20260502041000 +0000" channel="Sky Krimi HD.skyde">
     <title>Die Rosenheim-Cops</title>
 </programme>
-<programme start="20260505204000 +0000" stop="20260505213000 +0000" channel="Sky Krimi HD.skyde">
+<programme start="20260502041000 +0000" stop="20260502054500 +0000" channel="Sky Krimi HD.skyde">
     <title>Die Rosenheim-Cops</title>
 </programme>
-<programme start="20260505213000 +0000" stop="20260505223000 +0000" channel="Sky Krimi HD.skyde">
-    <title>Der Staatsanwalt: Schuld und Gewissen</title>
+<programme start="20260502054500 +0000" stop="20260502063000 +0000" channel="Sky Krimi HD.skyde">
+    <title>Die Rosenheim-Cops</title>
+</programme>
+<programme start="20260502063000 +0000" stop="20260502072000 +0000" channel="Sky Krimi HD.skyde">
+    <title>Die Rosenheim-Cops</title>
+</programme>
+<programme start="20260502072000 +0000" stop="20260502080500 +0000" channel="Sky Krimi HD.skyde">
+    <title>Die Rosenheim-Cops</title>
+</programme>
+<programme start="20260502080500 +0000" stop="20260502085500 +0000" channel="Sky Krimi HD.skyde">
+    <title>Die Rosenheim-Cops</title>
+</programme>
+<programme start="20260502085500 +0000" stop="20260502094500 +0000" channel="Sky Krimi HD.skyde">
+    <title>Die Rosenheim-Cops</title>
+</programme>
+<programme start="20260502094500 +0000" stop="20260502103000 +0000" channel="Sky Krimi HD.skyde">
+    <title>Die Rosenheim-Cops</title>
+</programme>
+<programme start="20260502103000 +0000" stop="20260502112000 +0000" channel="Sky Krimi HD.skyde">
+    <title>Die Rosenheim-Cops</title>
+</programme>
+<programme start="20260502112000 +0000" stop="20260502121000 +0000" channel="Sky Krimi HD.skyde">
+    <title>Die Rosenheim-Cops</title>
+</programme>
+<programme start="20260502121000 +0000" stop="20260502125500 +0000" channel="Sky Krimi HD.skyde">
+    <title>SOKO Stuttgart</title>
+</programme>
+<programme start="20260502125500 +0000" stop="20260502134500 +0000" channel="Sky Krimi HD.skyde">
+    <title>SOKO Stuttgart</title>
+</programme>
+<programme start="20260502134500 +0000" stop="20260502143500 +0000" channel="Sky Krimi HD.skyde">
+    <title>SOKO Stuttgart</title>
+</programme>
+<programme start="20260502143500 +0000" stop="20260502160500 +0000" channel="Sky Krimi HD.skyde">
+    <title>Nachtschicht: Cash &amp; Carry</title>
+</programme>
+<programme start="20260502160500 +0000" stop="20260502171000 +0000" channel="Sky Krimi HD.skyde">
+    <title>Die Chefin</title>
+</programme>
+<programme start="20260502171000 +0000" stop="20260502181500 +0000" channel="Sky Krimi HD.skyde">
+    <title>Die Chefin</title>
+</programme>
+<programme start="20260502181500 +0000" stop="20260502191500 +0000" channel="Sky Krimi HD.skyde">
+    <title>Die Chefin</title>
+</programme>
+<programme start="20260502191500 +0000" stop="20260502202000 +0000" channel="Sky Krimi HD.skyde">
+    <title>Die Chefin</title>
+</programme>
+<programme start="20260502202000 +0000" stop="20260502210500 +0000" channel="Sky Krimi HD.skyde">
+    <title>Die Rosenheim-Cops</title>
+</programme>
+<programme start="20260502210500 +0000" stop="20260502215500 +0000" channel="Sky Krimi HD.skyde">
+    <title>Die Rosenheim-Cops</title>
+</programme>
+<programme start="20260502215500 +0000" stop="20260502225500 +0000" channel="Sky Krimi HD.skyde">
+    <title>Der Staatsanwalt: Blutiges Gebot</title>
 </programme>
 <programme start="20260501221500 +0000" stop="20260501230500 +0000" channel="Sky Nature HD.skyde">
     <title>Krokodilen und Flusspferden auf der Spur mit Steve Backshall</title>
@@ -2548,7 +2545,7 @@
 <programme start="20260502143000 +0000" stop="20260502145000 +0000" channel="Sky Sport Austria 2 HD.skyde">
     <title>Es folgt: Live Admiral Bundesliga</title>
 </programme>
-<programme start="20260502145000 +0000" stop="20260502173000 +0000" channel="Sky Sport Austria 2 HD.skyde">
+<programme start="20260502145000 +0000" stop="20260502170000 +0000" channel="Sky Sport Austria 2 HD.skyde">
     <title>Live Admiral BL: SV Oberbank Ried - FC Blau-Weiß Linz, 30. Runde</title>
 </programme>
 <programme start="20260502143000 +0000" stop="20260502145000 +0000" channel="Sky Sport Austria 3 HD.skyde">
@@ -2566,7 +2563,7 @@
 <programme start="20260502143000 +0000" stop="20260502145000 +0000" channel="Sky Sport Austria 4 HD.skyde">
     <title>WTA: Greatest 50</title>
 </programme>
-<programme start="20260502145000 +0000" stop="20260502193000 +0000" channel="Sky Sport Austria 4 HD.skyde">
+<programme start="20260502145000 +0000" stop="20260502173000 +0000" channel="Sky Sport Austria 4 HD.skyde">
     <title>Live WTA 1000: M. Kostyuk (UKR) - M. Andreeva, Mutua Madrid Open in Madrid (ESP), Finale</title>
 </programme>
 <programme start="20260501221500 +0000" stop="20260501223000 +0000" channel="Sky Sport Bundesliga HD.skyde">
@@ -2680,7 +2677,7 @@
 <programme start="20260502131500 +0000" stop="20260502154500 +0000" channel="Sky Sport Bundesliga 1 HD.skyde">
     <title>Live BL: FC Bayern München - 1. FC Heidenheim, 32. Spieltag</title>
 </programme>
-<programme start="20260502154500 +0000" stop="20260502191500 +0000" channel="Sky Sport Bundesliga 1 HD.skyde">
+<programme start="20260502154500 +0000" stop="20260502194500 +0000" channel="Sky Sport Bundesliga 1 HD.skyde">
     <title>Live BL: Bayer Leverkusen - RB Leipzig, tipico Topspiel der Woche, 32. Spieltag</title>
 </programme>
 <programme start="20260502101000 +0000" stop="20260502103000 +0000" channel="Sky Sport Bundesliga 2 HD.skyde">
@@ -2695,11 +2692,8 @@
 <programme start="20260502131500 +0000" stop="20260502153000 +0000" channel="Sky Sport Bundesliga 2 HD.skyde">
     <title>Live BL: Eintracht Frankfurt - Hamburger SV, 32. Spieltag</title>
 </programme>
-<programme start="20260502153000 +0000" stop="20260502170000 +0000" channel="Sky Sport Bundesliga 2 HD.skyde">
+<programme start="20260502153000 +0000" stop="20260502171500 +0000" channel="Sky Sport Bundesliga 2 HD.skyde">
     <title>Live BL Alle Spiele, alle Tore: Die Vodafone Highlight-Show, 32. Spieltag, Samstag</title>
-</programme>
-<programme start="20260502170000 +0000" stop="20260502173000 +0000" channel="Sky Sport Bundesliga 2 HD.skyde">
-    <title>BL: Kompakt - Alles in 30</title>
 </programme>
 <programme start="20260502173000 +0000" stop="20260502211500 +0000" channel="Sky Sport Bundesliga 2 HD.skyde">
     <title>Live 2. BL: FC Schalke 04 - Fortuna Düsseldorf, tipico Topspiel der Woche, 32. Spieltag</title>
@@ -2719,7 +2713,7 @@
 <programme start="20260502131500 +0000" stop="20260502154500 +0000" channel="Sky Sport Bundesliga 3 HD.skyde">
     <title>Live BL: TSG Hoffenheim - VfB Stuttgart, 32. Spieltag</title>
 </programme>
-<programme start="20260502154500 +0000" stop="20260502191500 +0000" channel="Sky Sport Bundesliga 3 HD.skyde">
+<programme start="20260502154500 +0000" stop="20260502194500 +0000" channel="Sky Sport Bundesliga 3 HD.skyde">
     <title>Live BL: Tactical Feed: B04 - RBL, 32. Spieltag</title>
 </programme>
 <programme start="20260502101000 +0000" stop="20260502103000 +0000" channel="Sky Sport Bundesliga 4 HD.skyde">
@@ -2731,7 +2725,7 @@
 <programme start="20260502130000 +0000" stop="20260502131500 +0000" channel="Sky Sport Bundesliga 4 HD.skyde">
     <title>Live BL: FCU - KOE: tipico Countdown, 32. Spieltag</title>
 </programme>
-<programme start="20260502131500 +0000" stop="20260502154500 +0000" channel="Sky Sport Bundesliga 4 HD.skyde">
+<programme start="20260502131500 +0000" stop="20260502161500 +0000" channel="Sky Sport Bundesliga 4 HD.skyde">
     <title>Live BL: 1. FC Union Berlin - 1. FC Köln, 32. Spieltag</title>
 </programme>
 <programme start="20260502101000 +0000" stop="20260502103000 +0000" channel="Sky Sport Bundesliga 5 HD.skyde">
@@ -2752,7 +2746,7 @@
 <programme start="20260502103000 +0000" stop="20260502130000 +0000" channel="Sky Sport Bundesliga 6 HD.skyde">
     <title>Live 2. BL: Multiview 32. Spieltag, Samstag</title>
 </programme>
-<programme start="20260502130000 +0000" stop="20260502153000 +0000" channel="Sky Sport Bundesliga 6 HD.skyde">
+<programme start="20260502130000 +0000" stop="20260502160000 +0000" channel="Sky Sport Bundesliga 6 HD.skyde">
     <title>Live BL: Multiview 32. Spieltag</title>
 </programme>
 <programme start="20260502101000 +0000" stop="20260502103000 +0000" channel="Sky Sport Bundesliga 7 HD.skyde">
@@ -2761,7 +2755,7 @@
 <programme start="20260502103000 +0000" stop="20260502130000 +0000" channel="Sky Sport Bundesliga 7 HD.skyde">
     <title>Live 2. BL: Samstags-Konferenz, 32. Spieltag</title>
 </programme>
-<programme start="20260502130000 +0000" stop="20260502134500 +0000" channel="Sky Sport Bundesliga 7 HD.skyde">
+<programme start="20260502130000 +0000" stop="20260502141500 +0000" channel="Sky Sport Bundesliga 7 HD.skyde">
     <title>Live 2. BL Alle Spiele, alle Tore: Die Vodafone Highlight-Show, 32. Spieltag, Samstag</title>
 </programme>
 <programme start="20260501224500 +0000" stop="20260501234500 +0000" channel="Sky Sport F1 HD.skyde">
@@ -2839,10 +2833,10 @@
 <programme start="20260502024500 +0000" stop="20260502030000 +0000" channel="Sky Sport Golf HD.skyde">
     <title>Golf: Tee Time Stories (4)</title>
 </programme>
-<programme start="20260502030000 +0000" stop="20260502072000 +0000" channel="Sky Sport Golf HD.skyde">
+<programme start="20260502030000 +0000" stop="20260502070000 +0000" channel="Sky Sport Golf HD.skyde">
     <title>Live Asian Tour: Maekyung Open Golf Championship, 3. Tag in Seongnam-si (Südkorea)</title>
 </programme>
-<programme start="20260502072000 +0000" stop="20260502100000 +0000" channel="Sky Sport Golf HD.skyde">
+<programme start="20260502070000 +0000" stop="20260502100000 +0000" channel="Sky Sport Golf HD.skyde">
     <title>LPGA: Riviera Maya Open at Mayakoba, 2. Tag in Quintana Roo (Mexiko)</title>
 </programme>
 <programme start="20260502100000 +0000" stop="20260502130000 +0000" channel="Sky Sport Golf HD.skyde">
@@ -2911,14 +2905,14 @@
 <programme start="20260502133000 +0000" stop="20260502135000 +0000" channel="Sky Sport Mix HD.skyde">
     <title>PL: Best Freekicks</title>
 </programme>
-<programme start="20260502135000 +0000" stop="20260502160000 +0000" channel="Sky Sport Mix HD.skyde">
+<programme start="20260502135000 +0000" stop="20260502160500 +0000" channel="Sky Sport Mix HD.skyde">
     <title>Live PL: Newcastle United - Brighton &amp; Hove Albion, 35. Spieltag</title>
 </programme>
-<programme start="20260502160000 +0000" stop="20260502161500 +0000" channel="Sky Sport Mix HD.skyde">
-    <title>Frauen-BL: Alle Spiele, alle Tore, 24. Spieltag, Samstag</title>
+<programme start="20260502160500 +0000" stop="20260502170000 +0000" channel="Sky Sport Mix HD.skyde">
+    <title>Eishockey: NHL Tonight - Playoff Edition</title>
 </programme>
-<programme start="20260502161500 +0000" stop="20260502171500 +0000" channel="Sky Sport Mix HD.skyde">
-    <title>NHL: Tonight - Playoff Edition</title>
+<programme start="20260502170000 +0000" stop="20260502171500 +0000" channel="Sky Sport Mix HD.skyde">
+    <title>Frauen-BL: Alle Spiele, alle Tore, 24. Spieltag, Samstag</title>
 </programme>
 <programme start="20260502171500 +0000" stop="20260502191500 +0000" channel="Sky Sport Mix HD.skyde">
     <title>NHL: Buffalo Sabres @ Boston Bruins, Playoffs, 1. Runde, Spiel 6</title>
@@ -3127,13 +3121,13 @@
 <programme start="20260502143000 +0000" stop="20260502145000 +0000" channel="Sky Sport Tennis HD.skyde">
     <title>WTA: Greatest 50</title>
 </programme>
-<programme start="20260502145000 +0000" stop="20260502173000 +0000" channel="Sky Sport Tennis HD.skyde">
+<programme start="20260502145000 +0000" stop="20260502170000 +0000" channel="Sky Sport Tennis HD.skyde">
     <title>Live WTA 1000: M. Kostyuk (UKR) - M. Andreeva, Mutua Madrid Open in Madrid (ESP), Finale</title>
 </programme>
-<programme start="20260502173000 +0000" stop="20260502200000 +0000" channel="Sky Sport Tennis HD.skyde">
+<programme start="20260502170000 +0000" stop="20260502190000 +0000" channel="Sky Sport Tennis HD.skyde">
     <title>ATP 1000: G. Andreozzi (ARG) / M. Guinard (FRA) - H. Heliovaara (FIN) / H. Patten (GBR), Mutua Madrid Open in Madrid (ESP), Doppelfinale</title>
 </programme>
-<programme start="20260502200000 +0000" stop="20260502223000 +0000" channel="Sky Sport Tennis HD.skyde">
+<programme start="20260502190000 +0000" stop="20260502223000 +0000" channel="Sky Sport Tennis HD.skyde">
     <title>WTA 1000: M. Kostyuk (UKR) - M. Andreeva, Mutua Madrid Open in Madrid (ESP), Finale</title>
 </programme>
 <programme start="20260501224500 +0000" stop="20260501230000 +0000" channel="Sky Sport Top Event HD.skyde">
