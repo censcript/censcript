@@ -2746,7 +2746,22 @@
   <programme start="20260504182000 +0000" stop="20260504220000 +0000" channel="Šláger Originál.webtv.sk">
     <title lang="id">VEČERNÍ POŘAD</title>
   </programme>
-  <programme start="20260503200000 +0000" stop="20260503230000 +0000" channel="Šláger Muzika.webtv.sk">
+  <programme start="20260503220000 +0000" stop="20260504040000 +0000" channel="Šláger Muzika.webtv.sk">
+    <title lang="id">LIDOVÝ ŠLÁGR MIŠMAŠ</title>
+  </programme>
+  <programme start="20260504150000 +0000" stop="20260504160000 +0000" channel="Šláger Muzika.webtv.sk">
+    <title lang="id">SEDMKRÁT Z KOMPLETU</title>
+  </programme>
+  <programme start="20260504160000 +0000" stop="20260504182000 +0000" channel="Šláger Muzika.webtv.sk">
+    <title lang="id">PÍSNIČKY NA PŘÁNÍ</title>
+  </programme>
+  <programme start="20260504182000 +0000" stop="20260504193000 +0000" channel="Šláger Muzika.webtv.sk">
+    <title lang="id">NEJŽÁDANĚJŠÍ PÍSNIČKY</title>
+  </programme>
+  <programme start="20260504193000 +0000" stop="20260504200000 +0000" channel="Šláger Muzika.webtv.sk">
+    <title lang="id">HARMONIKY</title>
+  </programme>
+  <programme start="20260504200000 +0000" stop="20260504220000 +0000" channel="Šláger Muzika.webtv.sk">
     <title lang="id">Z DECHOVKY DO DECHOVKY</title>
   </programme>
   <programme start="20260503220000 +0000" stop="20260503221500 +0000" channel="Skvelé TV.webtv.sk">

@@ -242,8 +242,8 @@
     <icon src="https://thumbor.prod.vidiocdn.com/hqiU7koXgDL4zkxckArkSQHfwWw=/287x162/filters:strip_icc():quality(70)/vidio-media-production/uploads/tv_program/thumbnail/382356/d78201.jpg"/>
   </programme>
   <programme channel="204" start="20260502220000 +0000" stop="20260502230000 +0000">
-    <title lang="id">Liputan 6 Pagi - Live</title>
-    <icon src="https://thumbor.prod.vidiocdn.com/N99E8BD1OJ5vvymwPBj0c-BU5J4=/287x162/filters:strip_icc():quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/image/204/sctv-5ef966.jpg"/>
+    <title lang="id">Liputan 6 Pagi</title>
+    <icon src="https://thumbor.prod.vidiocdn.com/JUlf1z4JJNBMn0CV5bIvAbGNQOg=/287x162/filters:strip_icc():quality(70)/vidio-media-production/uploads/livestreaming/schedule/thumbnail/5027828/1227cf.jpg"/>
   </programme>
   <programme channel="204" start="20260502230000 +0000" stop="20260502233000 +0000">
     <title lang="id">Point Of View</title>
@@ -254,38 +254,38 @@
     <icon src="https://thumbor.prod.vidiocdn.com/N99E8BD1OJ5vvymwPBj0c-BU5J4=/287x162/filters:strip_icc():quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/image/204/sctv-5ef966.jpg"/>
   </programme>
   <programme channel="204" start="20260503000000 +0000" stop="20260503013000 +0000">
-    <title lang="id">Ftv Pagi Special Gue Yang Pdkt Nyokap Bokap Yang Pacaran</title>
+    <title lang="id">FTV Pagi Special: Gue Yang Pdkt Nyokap Bokap Yang Pacaran</title>
     <desc lang="id">Film televisi yang mengangkat kisah romantisme kehidupan dengan konflik yang menarik. Tayang setiap hari.</desc>
-    <icon src="https://thumbor.prod.vidiocdn.com/N99E8BD1OJ5vvymwPBj0c-BU5J4=/287x162/filters:strip_icc():quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/image/204/sctv-5ef966.jpg"/>
+    <icon src="https://thumbor.prod.vidiocdn.com/8QIlV0f5_fqkbahDd6bzrm1iG58=/287x162/filters:strip_icc():quality(70)/vidio-media-production/uploads/livestreaming/schedule/thumbnail/5038975/3da364.jpg"/>
   </programme>
   <programme channel="204" start="20260503013000 +0000" stop="20260503030000 +0000">
-    <title lang="id">Ftv Pagi Special Jodohku Bikin Herman Cintanya Tidak Masuk Haikal</title>
+    <title lang="id">FTV Pagi Special 1: Jodohku Bikin Herman Cintanya Tidak Masuk Haikal</title>
     <desc lang="id">Film televisi yang mengangkat kisah romantisme kehidupan dengan konflik yang menarik. Tayang setiap hari.</desc>
-    <icon src="https://thumbor.prod.vidiocdn.com/N99E8BD1OJ5vvymwPBj0c-BU5J4=/287x162/filters:strip_icc():quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/image/204/sctv-5ef966.jpg"/>
+    <icon src="https://thumbor.prod.vidiocdn.com/TqN7KztBwlOA5ac4-xUQ7GgMEp4=/287x162/filters:strip_icc():quality(70)/vidio-media-production/uploads/livestreaming/schedule/thumbnail/5038976/e7887b.jpg"/>
   </programme>
   <programme channel="204" start="20260503030000 +0000" stop="20260503050000 +0000">
-    <title lang="id">Ftv Pagi Gara Gara Segelas Air, Rahasia Asistenku Kebongkar</title>
+    <title lang="id">FTV Pagi: Gara Gara Segelas Air, Rahasia Asistenku Kebongkar</title>
     <desc lang="id">Film televisi yang mengangkat kisah romantisme kehidupan dengan konflik yang menarik. Tayang setiap hari.</desc>
-    <icon src="https://thumbor.prod.vidiocdn.com/N99E8BD1OJ5vvymwPBj0c-BU5J4=/287x162/filters:strip_icc():quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/image/204/sctv-5ef966.jpg"/>
+    <icon src="https://thumbor.prod.vidiocdn.com/v9ooRX7PokpWotmsKIdO_V94IkI=/287x162/filters:strip_icc():quality(70)/vidio-media-production/uploads/livestreaming/schedule/thumbnail/5038977/a808b1.jpg"/>
   </programme>
   <programme channel="204" start="20260503050000 +0000" stop="20260503053000 +0000">
-    <title lang="id">Liputan 6 Siang - Live</title>
+    <title lang="id">Liputan 6 Siang</title>
     <icon src="https://thumbor.prod.vidiocdn.com/N99E8BD1OJ5vvymwPBj0c-BU5J4=/287x162/filters:strip_icc():quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/image/204/sctv-5ef966.jpg"/>
   </programme>
   <programme channel="204" start="20260503053000 +0000" stop="20260503070000 +0000">
-    <title lang="id">Ftv Siang Nada Asoy Si Nanny Unyu</title>
+    <title lang="id">FTV Siang: Nada Asoy Si Nanny Unyu</title>
     <desc lang="id">Film televisi yang mengangkat kisah romantisme kehidupan dengan konflik yang menarik. Tayang setiap hari.</desc>
-    <icon src="https://thumbor.prod.vidiocdn.com/N99E8BD1OJ5vvymwPBj0c-BU5J4=/287x162/filters:strip_icc():quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/image/204/sctv-5ef966.jpg"/>
+    <icon src="https://thumbor.prod.vidiocdn.com/nhva7sMtVXXOyONaWJ-b81emlXA=/287x162/filters:strip_icc():quality(70)/vidio-media-production/uploads/livestreaming/schedule/thumbnail/5038978/0466fd.jpg"/>
   </programme>
   <programme channel="204" start="20260503070000 +0000" stop="20260503083000 +0000">
-    <title lang="id">Ftv Siang Dosen Killer Bikin Hati Gemeter</title>
+    <title lang="id">FTV Siang 1: Dosen Killer Bikin Hati Gemeter</title>
     <desc lang="id">Film televisi yang mengangkat kisah romantisme kehidupan dengan konflik yang menarik. Tayang setiap hari.</desc>
-    <icon src="https://thumbor.prod.vidiocdn.com/N99E8BD1OJ5vvymwPBj0c-BU5J4=/287x162/filters:strip_icc():quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/image/204/sctv-5ef966.jpg"/>
+    <icon src="https://thumbor.prod.vidiocdn.com/4yehKMIfX2Q2ppu-4iqNaovrjoY=/287x162/filters:strip_icc():quality(70)/vidio-media-production/uploads/livestreaming/schedule/thumbnail/5038979/349b5a.jpg"/>
   </programme>
   <programme channel="204" start="20260503083000 +0000" stop="20260503100000 +0000">
-    <title lang="id">Ftv Sore Jodohku Tertukar Aku Rapopo</title>
+    <title lang="id">FTV Sore: Jodohku Tertukar Aku Rapopo</title>
     <desc lang="id">Film televisi yang mengangkat kisah romantisme kehidupan dengan konflik yang menarik. Tayang setiap hari.</desc>
-    <icon src="https://thumbor.prod.vidiocdn.com/N99E8BD1OJ5vvymwPBj0c-BU5J4=/287x162/filters:strip_icc():quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/image/204/sctv-5ef966.jpg"/>
+    <icon src="https://thumbor.prod.vidiocdn.com/RdN9_r_i1t6cIbK-fWarKMjfkMs=/287x162/filters:strip_icc():quality(70)/vidio-media-production/uploads/livestreaming/schedule/thumbnail/5038980/6c4c60.jpg"/>
   </programme>
   <programme channel="204" start="20260503100000 +0000" stop="20260503111500 +0000">
     <title lang="id">Asmara Gen Z</title>
@@ -382,27 +382,27 @@
     <desc lang="id">FTV Yang Diambil Dari Kisah Kehidupan Sehari-Hari Pemirsa Yang Penuh Intrik, Konflik dan Pengkhianatan Untuk Memberikan Berbagai Pelajaran Hidup. Saksikan Setiap Hari Pukul 13.30 WIB, Hanya Di Indosiar.</desc>
     <icon src="https://thumbor.prod.vidiocdn.com/cBZL7ITaJCof6cqtayFee2uJCX8=/287x162/filters:strip_icc():quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/image/205/indosiar-d9a3d0.jpg"/>
   </programme>
-  <programme channel="205" start="20260502063000 +0000" stop="20260502080000 +0000">
+  <programme channel="205" start="20260502063000 +0000" stop="20260502075600 +0000">
     <title lang="id">Kisah Nyata : Tamu Tak Di Undang Di Hari Ulang Tahun Anakku</title>
     <desc lang="id">FTV Yang Diambil Dari Kisah Kehidupan Sehari-Hari Pemirsa Yang Penuh Intrik, Konflik dan Pengkhianatan Untuk Memberikan Berbagai Pelajaran Hidup.</desc>
     <icon src="https://thumbor.prod.vidiocdn.com/cBZL7ITaJCof6cqtayFee2uJCX8=/287x162/filters:strip_icc():quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/image/205/indosiar-d9a3d0.jpg"/>
   </programme>
-  <programme channel="205" start="20260502080000 +0000" stop="20260502103000 +0000">
+  <programme channel="205" start="20260502075600 +0000" stop="20260502104000 +0000">
     <title lang="id">BRI Superleague 2025/26 - Persebaya Surabaya Vs Psbs Biak</title>
     <desc lang="id">Saksikan! BRI Super League 2025/26 - Is Back!" 18 Klub Terbaik Siap Bertarung Di Kasta Tertinggi Sepak Bola Indonesia! Pertandingan Semakin Seru! Jangan Lewatkan BRI Super League 2025/26 Mulai 8 Agustus 2025, Pkl 15.00 &amp; 18.30 WIB, Live &amp; Eksklusif Hanya Di Indosiar dan Vidio #Indosiarrumahsepakbolaindonesia</desc>
     <icon src="https://thumbor.prod.vidiocdn.com/cBZL7ITaJCof6cqtayFee2uJCX8=/287x162/filters:strip_icc():quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/image/205/indosiar-d9a3d0.jpg"/>
   </programme>
-  <programme channel="205" start="20260502103000 +0000" stop="20260502113000 +0000">
+  <programme channel="205" start="20260502104000 +0000" stop="20260502113000 +0000">
     <title lang="id">Merangkai Kisah Indah</title>
     <desc lang="id">Mega Series Terbaru Raden Rakha dan Basmalah Gralind Di Indosiar "Merangkai Kisah Indah" Tayang Setiap Hari, Mulai Senin, 14 Juli 2025 Pukul 17:00 WIB. Kisah Derita Mutiara Yang Mencari Orangtua Kandungnya Karena Sewaktu Bayi Ditukar Oleh Ibu Angkatnya. Nasib Membawa Dirinya Bertemu Dengan Keluarga Yang Tanpa Dia Ketahui Adalah Orangtua Kandungnya dan Juga Bertemu Kenzo. Apakah Kenzo dan Mutiara Akan Berjodoh? Dibintangi Raden Rakha, Basmalah Gralind, Panji Saputra, Tsania Marwa, Gita Sinaga, Vayala Maulidina, Washifa, Haura Lathifa, dan Emiliano Cortizo. Saksikan Mega Series Terbaru Indosiar : Merangkai Kisah Indah, Tayang Setiap Hari, Mulai Senin, 14 Juli 2025 Pukul 17:00 WIB Hanya Di Indosiar.</desc>
     <icon src="https://thumbor.prod.vidiocdn.com/pTyoiWGMxYUywY9BL0dhHLIECaw=/287x162/filters:strip_icc():quality(70)/vidio-media-production/uploads/livestreaming/schedule/thumbnail/5028214/1b5c56.jpg"/>
   </programme>
-  <programme channel="205" start="20260502113000 +0000" stop="20260502140000 +0000">
+  <programme channel="205" start="20260502113000 +0000" stop="20260502141000 +0000">
     <title lang="id">BRI Superleague 2025/26 - Malut United Fc Vs Persis Solo</title>
     <desc lang="id">Saksikan! BRI Super League 2025/26 - Is Back!" 18 Klub Terbaik Siap Bertarung Di Kasta Tertinggi Sepak Bola Indonesia! Pertandingan Semakin Seru! Jangan Lewatkan BRI Super League 2025/26 Mulai 8 Agustus 2025, Pkl 15.00 &amp; 18.30 WIB, Live &amp; Eksklusif Hanya Di Indosiar dan Vidio #Indosiarrumahsepakbolaindonesia</desc>
     <icon src="https://thumbor.prod.vidiocdn.com/cBZL7ITaJCof6cqtayFee2uJCX8=/287x162/filters:strip_icc():quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/image/205/indosiar-d9a3d0.jpg"/>
   </programme>
-  <programme channel="205" start="20260502140000 +0000" stop="20260502163000 +0000">
+  <programme channel="205" start="20260502141000 +0000" stop="20260502163000 +0000">
     <title lang="id">D' Academy 7 Mega Konser Bagimu Guru</title>
     <desc lang="id">Panggung Megah Konser D'Academy 7 Siap Digelar! Audisi Online dan Offline Telah Usai! Siapakah Yang Akan Lolos Ke Panggung Megah D'Academy 7? Saksikan D'Academy 7 Mulai Senin, 9 Juni, Setiap Senin-Jumat Live Pkl 20.00 WIB Hanya Di Indosiar. #Indosiarbawadangdutberkelasberkualitas</desc>
     <icon src="https://thumbor.prod.vidiocdn.com/VusYIGjhwUMU4qKWZB5q2h5_MnE=/287x162/filters:strip_icc():quality(70)/vidio-media-production/uploads/livestreaming/schedule/thumbnail/5028240/fd7618.jpg"/>
@@ -420,12 +420,12 @@
   <programme channel="205" start="20260502183000 +0000" stop="20260502200000 +0000">
     <title lang="id">Mega Film Asia : The Bodyguard</title>
     <desc lang="id">Mega Film Asia Adalah Program Yang Memutarkan Film-Film Asia Yang Ditayangkan Di Indosiar. Acara Ini Ditayangkan Perdana Pada Tahun 1996 Silam.</desc>
-    <icon src="https://thumbor.prod.vidiocdn.com/cBZL7ITaJCof6cqtayFee2uJCX8=/287x162/filters:strip_icc():quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/image/205/indosiar-d9a3d0.jpg"/>
+    <icon src="https://thumbor.prod.vidiocdn.com/N7kwwGxHdteNfxdVz6K9PqdWFhk=/287x162/filters:strip_icc():quality(70)/vidio-media-production/uploads/livestreaming/schedule/thumbnail/5028295/b58bb8.jpg"/>
   </programme>
   <programme channel="205" start="20260502200000 +0000" stop="20260502213000 +0000">
     <title lang="id">Mega Film Asia : Tiger Cage Ii</title>
     <desc lang="id">Mega Film Asia Adalah Program Yang Memutarkan Film-Film Asia Yang Ditayangkan Di Indosiar. Acara Ini Ditayangkan Perdana Pada Tahun 1996 Silam.</desc>
-    <icon src="https://thumbor.prod.vidiocdn.com/cBZL7ITaJCof6cqtayFee2uJCX8=/287x162/filters:strip_icc():quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/image/205/indosiar-d9a3d0.jpg"/>
+    <icon src="https://thumbor.prod.vidiocdn.com/98bGR3DCg95eUNZl_FHlRnlyfPk=/287x162/filters:strip_icc():quality(70)/vidio-media-production/uploads/livestreaming/schedule/thumbnail/5028296/897ec9.jpg"/>
   </programme>
   <programme channel="205" start="20260502213000 +0000" stop="20260502230000 +0000">
     <title lang="id">Fokus Pagi</title>
@@ -472,35 +472,35 @@
     <desc lang="id">FTV Yang Diambil Dari Kisah Kehidupan Sehari-Hari Pemirsa Yang Penuh Intrik, Konflik dan Pengkhianatan Untuk Memberikan Berbagai Pelajaran Hidup.</desc>
     <icon src="https://thumbor.prod.vidiocdn.com/cBZL7ITaJCof6cqtayFee2uJCX8=/287x162/filters:strip_icc():quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/image/205/indosiar-d9a3d0.jpg"/>
   </programme>
-  <programme channel="205" start="20260503080000 +0000" stop="20260503103000 +0000">
+  <programme channel="205" start="20260503080000 +0000" stop="20260503104000 +0000">
     <title lang="id">BRI Superleague 2025/26 - Persik Kediri Vs Arema Fc</title>
     <desc lang="id">Saksikan! BRI Super League 2025/26 - Is Back!" 18 Klub Terbaik Siap Bertarung Di Kasta Tertinggi Sepak Bola Indonesia! Pertandingan Semakin Seru! Jangan Lewatkan BRI Super League 2025/26 Mulai 8 Agustus 2025, Pkl 15.00 &amp; 18.30 WIB, Live &amp; Eksklusif Hanya Di Indosiar dan Vidio #Indosiarrumahsepakbolaindonesia</desc>
     <icon src="https://thumbor.prod.vidiocdn.com/cBZL7ITaJCof6cqtayFee2uJCX8=/287x162/filters:strip_icc():quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/image/205/indosiar-d9a3d0.jpg"/>
   </programme>
-  <programme channel="205" start="20260503103000 +0000" stop="20260503113000 +0000">
+  <programme channel="205" start="20260503104000 +0000" stop="20260503113000 +0000">
     <title lang="id">Merangkai Kisah Indah</title>
     <desc lang="id">Mega Series Terbaru Raden Rakha dan Basmalah Gralind Di Indosiar "Merangkai Kisah Indah" Tayang Setiap Hari, Mulai Senin, 14 Juli 2025 Pukul 17:00 WIB. Kisah Derita Mutiara Yang Mencari Orangtua Kandungnya Karena Sewaktu Bayi Ditukar Oleh Ibu Angkatnya. Nasib Membawa Dirinya Bertemu Dengan Keluarga Yang Tanpa Dia Ketahui Adalah Orangtua Kandungnya dan Juga Bertemu Kenzo. Apakah Kenzo dan Mutiara Akan Berjodoh? Dibintangi Raden Rakha, Basmalah Gralind, Panji Saputra, Tsania Marwa, Gita Sinaga, Vayala Maulidina, Washifa, Haura Lathifa, dan Emiliano Cortizo. Saksikan Mega Series Terbaru Indosiar : Merangkai Kisah Indah, Tayang Setiap Hari, Mulai Senin, 14 Juli 2025 Pukul 17:00 WIB Hanya Di Indosiar.</desc>
     <icon src="https://thumbor.prod.vidiocdn.com/WIl2jiaTLEzHnNAo61AGzfdEXh8=/287x162/filters:strip_icc():quality(70)/vidio-media-production/uploads/tv_program/thumbnail/389747/fc3ce1.jpg"/>
   </programme>
-  <programme channel="205" start="20260503113000 +0000" stop="20260503140000 +0000">
+  <programme channel="205" start="20260503113000 +0000" stop="20260503141000 +0000">
     <title lang="id">BRI Superleague 2025/26 - Dewa United Banten Fc Vs Semen Padang Fc</title>
     <desc lang="id">Saksikan! BRI Super League 2025/26 - Is Back!" 18 Klub Terbaik Siap Bertarung Di Kasta Tertinggi Sepak Bola Indonesia! Pertandingan Semakin Seru! Jangan Lewatkan BRI Super League 2025/26 Mulai 8 Agustus 2025, Pkl 15.00 &amp; 18.30 WIB, Live &amp; Eksklusif Hanya Di Indosiar dan Vidio #Indosiarrumahsepakbolaindonesia</desc>
     <icon src="https://thumbor.prod.vidiocdn.com/cBZL7ITaJCof6cqtayFee2uJCX8=/287x162/filters:strip_icc():quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/image/205/indosiar-d9a3d0.jpg"/>
   </programme>
-  <programme channel="205" start="20260503140000 +0000" stop="20260503163000 +0000">
+  <programme channel="205" start="20260503141000 +0000" stop="20260503163000 +0000">
     <title lang="id">D' Academy 7 - Mega Konser</title>
     <desc lang="id">Panggung Megah Konser D'Academy 7 Siap Digelar! Audisi Online dan Offline Telah Usai! Siapakah Yang Akan Lolos Ke Panggung Megah D'Academy 7? Saksikan D'Academy 7 Mulai Senin, 9 Juni, Setiap Senin-Jumat Live Pkl 20.00 WIB Hanya Di Indosiar. #Indosiarbawadangdutberkelasberkualitas</desc>
-    <icon src="https://thumbor.prod.vidiocdn.com/cBZL7ITaJCof6cqtayFee2uJCX8=/287x162/filters:strip_icc():quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/image/205/indosiar-d9a3d0.jpg"/>
+    <icon src="https://thumbor.prod.vidiocdn.com/6aKMELAz2Fw0o_rmRYLpa7k0uRY=/287x162/filters:strip_icc():quality(70)/vidio-media-production/uploads/livestreaming/schedule/thumbnail/5028241/965bdd.jpg"/>
   </programme>
   <programme channel="205" start="20260503163000 +0000" stop="20260503183000 +0000">
     <title lang="id">Mega Film Asia : The Master</title>
     <desc lang="id">Mega Film Asia Adalah Program Yang Memutarkan Film-Film Asia Yang Ditayangkan Di Indosiar. Acara Ini Ditayangkan Perdana Pada Tahun 1996 Silam.</desc>
-    <icon src="https://thumbor.prod.vidiocdn.com/cBZL7ITaJCof6cqtayFee2uJCX8=/287x162/filters:strip_icc():quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/image/205/indosiar-d9a3d0.jpg"/>
+    <icon src="https://thumbor.prod.vidiocdn.com/7g_GbEqFpobTTJQqQSAN0gw51FQ=/287x162/filters:strip_icc():quality(70)/vidio-media-production/uploads/livestreaming/schedule/thumbnail/5028303/75d4a0.jpg"/>
   </programme>
   <programme channel="205" start="20260503163000 +0000" stop="20260503183000 +0000">
     <title lang="id">Mega Film Asia : The Master</title>
     <desc lang="id">Mega Film Asia Adalah Program Yang Memutarkan Film-Film Asia Yang Ditayangkan Di Indosiar. Acara Ini Ditayangkan Perdana Pada Tahun 1996 Silam.</desc>
-    <icon src="https://thumbor.prod.vidiocdn.com/cBZL7ITaJCof6cqtayFee2uJCX8=/287x162/filters:strip_icc():quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/image/205/indosiar-d9a3d0.jpg"/>
+    <icon src="https://thumbor.prod.vidiocdn.com/7g_GbEqFpobTTJQqQSAN0gw51FQ=/287x162/filters:strip_icc():quality(70)/vidio-media-production/uploads/livestreaming/schedule/thumbnail/5028303/75d4a0.jpg"/>
   </programme>
   <programme channel="205" start="20260503183000 +0000" stop="20260503200000 +0000">
     <title lang="id">Mega Film Asia : Flying Sword Of Dragon Gate</title>
@@ -650,11 +650,11 @@
   </programme>
   <programme channel="733" start="20260503053000 +0000" stop="20260503070000 +0000">
     <title lang="id">Brownis On The Weekend</title>
-    <icon src="https://thumbor.prod.vidiocdn.com/eDxnkfbC9tu2_nK1bM0d9sAA8pc=/287x162/filters:strip_icc():quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/image/733/trans-tv-3836a5.jpg"/>
+    <icon src="https://thumbor.prod.vidiocdn.com/GOoCxAObEyZ8w4WXyXkswjJVSqA=/287x162/filters:strip_icc():quality(70)/vidio-media-production/uploads/livestreaming/schedule/thumbnail/5029867/0bc80b.jpg"/>
   </programme>
   <programme channel="733" start="20260503070000 +0000" stop="20260503080000 +0000">
     <title lang="id">Rumpi Hot Of The Week</title>
-    <icon src="https://thumbor.prod.vidiocdn.com/eDxnkfbC9tu2_nK1bM0d9sAA8pc=/287x162/filters:strip_icc():quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/image/733/trans-tv-3836a5.jpg"/>
+    <icon src="https://thumbor.prod.vidiocdn.com/fZ8B0WpLypyWYwj-hauTGMWSjUI=/287x162/filters:strip_icc():quality(70)/vidio-media-production/uploads/livestreaming/schedule/thumbnail/5029869/213a6b.jpg"/>
   </programme>
   <programme channel="733" start="20260503080000 +0000" stop="20260503090000 +0000">
     <title lang="id">Insert Investigasi</title>
@@ -666,15 +666,15 @@
   </programme>
   <programme channel="733" start="20260503100000 +0000" stop="20260503110000 +0000">
     <title lang="id">Bikin Laper</title>
-    <icon src="https://thumbor.prod.vidiocdn.com/KY1aMVPA-vFKcHL8sVGFNbIJwIE=/287x162/filters:strip_icc():quality(70)/vidio-media-production/uploads/tv_program/thumbnail/382649/f6c845.jpg"/>
+    <icon src="https://thumbor.prod.vidiocdn.com/9BCyHQvD9-seMELIaENGzg4fzFM=/287x162/filters:strip_icc():quality(70)/vidio-media-production/uploads/livestreaming/schedule/thumbnail/5029840/e8c0a8.jpg"/>
   </programme>
   <programme channel="733" start="20260503110000 +0000" stop="20260503120000 +0000">
     <title lang="id">Monitor Ketua</title>
-    <icon src="https://thumbor.prod.vidiocdn.com/eDxnkfbC9tu2_nK1bM0d9sAA8pc=/287x162/filters:strip_icc():quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/image/733/trans-tv-3836a5.jpg"/>
+    <icon src="https://thumbor.prod.vidiocdn.com/86bgGNG8Nq2CYYBcK71-19Vh2Zc=/287x162/filters:strip_icc():quality(70)/vidio-media-production/uploads/livestreaming/schedule/thumbnail/5029875/fa3924.jpg"/>
   </programme>
   <programme channel="733" start="20260503120000 +0000" stop="20260503131500 +0000">
     <title lang="id">Insert Story</title>
-    <icon src="https://thumbor.prod.vidiocdn.com/U9KWWTErFNVP3GipxXeE54j5Edw=/287x162/filters:strip_icc():quality(70)/vidio-media-production/uploads/tv_program/thumbnail/382650/4d2630.jpg"/>
+    <icon src="https://thumbor.prod.vidiocdn.com/nNNX0tTe3C7XeTQkCUcrjQseHRA=/287x162/filters:strip_icc():quality(70)/vidio-media-production/uploads/livestreaming/schedule/thumbnail/5029845/1bc894.jpg"/>
   </programme>
   <programme channel="733" start="20260503131500 +0000" stop="20260503141500 +0000">
     <title lang="id">Highlight</title>
@@ -886,7 +886,7 @@
   </programme>
   <programme channel="734" start="20260503090000 +0000" stop="20260503100000 +0000">
     <title lang="id">Makan Receh</title>
-    <icon src="https://thumbor.prod.vidiocdn.com/cTnOrGY7b3x3Z_64XCG5Dt4RKVQ=/287x162/filters:strip_icc():quality(70)/vidio-media-production/uploads/tv_program/thumbnail/380609/7b710c.jpg"/>
+    <icon src="https://thumbor.prod.vidiocdn.com/1DJg9B3qb8kZwf3z-sdITozMxLA=/287x162/filters:strip_icc():quality(70)/vidio-media-production/uploads/livestreaming/schedule/thumbnail/5043758/829428.jpg"/>
   </programme>
   <programme channel="734" start="20260503100000 +0000" stop="20260503110000 +0000">
     <title lang="id">Selebrita On The Weekend</title>
@@ -902,7 +902,7 @@
   </programme>
   <programme channel="734" start="20260503120000 +0000" stop="20260503130000 +0000">
     <title lang="id">POV (Pasti Obrolan Viral)</title>
-    <icon src="https://thumbor.prod.vidiocdn.com/VyDWgGuvUtZp5M006MXkTEIEpxw=/287x162/filters:strip_icc():quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/image/734/trans7-9dade4.jpg"/>
+    <icon src="https://thumbor.prod.vidiocdn.com/TqmjQ-qzJRmlxZyptGZzE0MEnC8=/287x162/filters:strip_icc():quality(70)/vidio-media-production/uploads/livestreaming/schedule/thumbnail/5043776/00f633.jpg"/>
   </programme>
   <programme channel="734" start="20260503130000 +0000" stop="20260503143000 +0000">
     <title lang="id">Arisan</title>
@@ -1540,52 +1540,52 @@
     <desc lang="id">Ungkap</desc>
     <icon src="https://thumbor.prod.vidiocdn.com/NdmzqkxqnWVnlngtk_ObYNT-wiY=/287x162/filters:strip_icc():quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/image/206/moji-a5bd3e.jpg"/>
   </programme>
-  <programme channel="206" start="20260502035700 +0000" stop="20260502055100 +0000">
+  <programme channel="206" start="20260502035700 +0000" stop="20260502060000 +0000">
     <title lang="id">Tercyduk</title>
     <desc lang="id">Tercyduk</desc>
     <icon src="https://thumbor.prod.vidiocdn.com/NdmzqkxqnWVnlngtk_ObYNT-wiY=/287x162/filters:strip_icc():quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/image/206/moji-a5bd3e.jpg"/>
   </programme>
-  <programme channel="206" start="20260502055100 +0000" stop="20260502101700 +0000">
+  <programme channel="206" start="20260502060000 +0000" stop="20260502103000 +0000">
     <title lang="id">Tercyduk</title>
     <desc lang="id">Tercyduk</desc>
     <icon src="https://thumbor.prod.vidiocdn.com/NdmzqkxqnWVnlngtk_ObYNT-wiY=/287x162/filters:strip_icc():quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/image/206/moji-a5bd3e.jpg"/>
   </programme>
-  <programme channel="206" start="20260502101700 +0000" stop="20260502120000 +0000">
+  <programme channel="206" start="20260502103000 +0000" stop="20260502120000 +0000">
     <title lang="id">American Ninja Warrior Season 14</title>
     <desc lang="id">American Ninja Warrior Season 14</desc>
-    <icon src="https://thumbor.prod.vidiocdn.com/NdmzqkxqnWVnlngtk_ObYNT-wiY=/287x162/filters:strip_icc():quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/image/206/moji-a5bd3e.jpg"/>
+    <icon src="https://thumbor.prod.vidiocdn.com/fZx_rQ0dgXVvLWd9JtrIJrWjh90=/287x162/filters:strip_icc():quality(70)/vidio-media-production/uploads/livestreaming/schedule/thumbnail/5035968/09867c.jpg"/>
   </programme>
   <programme channel="206" start="20260502120000 +0000" stop="20260502133000 +0000">
     <title lang="id">Maria Bellen</title>
     <desc lang="id">Maria Bellen</desc>
     <icon src="https://thumbor.prod.vidiocdn.com/NdmzqkxqnWVnlngtk_ObYNT-wiY=/287x162/filters:strip_icc():quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/image/206/moji-a5bd3e.jpg"/>
   </programme>
-  <programme channel="206" start="20260502133000 +0000" stop="20260502152800 +0000">
+  <programme channel="206" start="20260502133000 +0000" stop="20260502153000 +0000">
     <title lang="id">Drama Turki Ceylan</title>
     <desc lang="id">Drama Turki Ceylan</desc>
     <icon src="https://thumbor.prod.vidiocdn.com/gumwm94xsjEjO_yJ2PSozQ6ra0U=/287x162/filters:strip_icc():quality(70)/vidio-media-production/uploads/livestreaming/schedule/thumbnail/5035982/c146e2.jpg"/>
   </programme>
-  <programme channel="206" start="20260502152800 +0000" stop="20260502165900 +0000">
+  <programme channel="206" start="20260502153000 +0000" stop="20260502170000 +0000">
     <title lang="id">One Friday Fights</title>
     <desc lang="id">One Friday Fights</desc>
     <icon src="https://thumbor.prod.vidiocdn.com/NdmzqkxqnWVnlngtk_ObYNT-wiY=/287x162/filters:strip_icc():quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/image/206/moji-a5bd3e.jpg"/>
   </programme>
-  <programme channel="206" start="20260502165900 +0000" stop="20260502184000 +0000">
+  <programme channel="206" start="20260502153000 +0000" stop="20260502170000 +0000">
+    <title lang="id">One Friday Fights</title>
+    <desc lang="id">One Friday Fights</desc>
+    <icon src="https://thumbor.prod.vidiocdn.com/NdmzqkxqnWVnlngtk_ObYNT-wiY=/287x162/filters:strip_icc():quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/image/206/moji-a5bd3e.jpg"/>
+  </programme>
+  <programme channel="206" start="20260502170000 +0000" stop="20260502181500 +0000">
     <title lang="id">Rerun Proliga 2026</title>
     <desc lang="id">Rerun Proliga 2026</desc>
     <icon src="https://thumbor.prod.vidiocdn.com/NdmzqkxqnWVnlngtk_ObYNT-wiY=/287x162/filters:strip_icc():quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/image/206/moji-a5bd3e.jpg"/>
   </programme>
-  <programme channel="206" start="20260502165900 +0000" stop="20260502184000 +0000">
+  <programme channel="206" start="20260502181500 +0000" stop="20260502193000 +0000">
     <title lang="id">Rerun Proliga 2026</title>
     <desc lang="id">Rerun Proliga 2026</desc>
     <icon src="https://thumbor.prod.vidiocdn.com/NdmzqkxqnWVnlngtk_ObYNT-wiY=/287x162/filters:strip_icc():quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/image/206/moji-a5bd3e.jpg"/>
   </programme>
-  <programme channel="206" start="20260502184000 +0000" stop="20260502201600 +0000">
-    <title lang="id">Rerun Proliga 2026</title>
-    <desc lang="id">Rerun Proliga 2026</desc>
-    <icon src="https://thumbor.prod.vidiocdn.com/NdmzqkxqnWVnlngtk_ObYNT-wiY=/287x162/filters:strip_icc():quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/image/206/moji-a5bd3e.jpg"/>
-  </programme>
-  <programme channel="206" start="20260502201600 +0000" stop="20260502220000 +0000">
+  <programme channel="206" start="20260502193000 +0000" stop="20260502220000 +0000">
     <title lang="id">Rerun AVC Women's Champions League 2026</title>
     <desc lang="id">Rerun AVC Women's Champions League 2026</desc>
     <icon src="https://thumbor.prod.vidiocdn.com/NdmzqkxqnWVnlngtk_ObYNT-wiY=/287x162/filters:strip_icc():quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/image/206/moji-a5bd3e.jpg"/>
@@ -1598,37 +1598,37 @@
   <programme channel="206" start="20260502231500 +0000" stop="20260503000000 +0000">
     <title lang="id">Liputan 6 Pagi Moji</title>
     <desc lang="id">Liputan 6 Pagi Moji</desc>
-    <icon src="https://thumbor.prod.vidiocdn.com/NdmzqkxqnWVnlngtk_ObYNT-wiY=/287x162/filters:strip_icc():quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/image/206/moji-a5bd3e.jpg"/>
+    <icon src="https://thumbor.prod.vidiocdn.com/kBwXYRO8tL1IykECw4vUY0lYsEE=/287x162/filters:strip_icc():quality(70)/vidio-media-production/uploads/livestreaming/schedule/thumbnail/5035915/ed5454.jpg"/>
   </programme>
   <programme channel="206" start="20260503000000 +0000" stop="20260503010000 +0000">
     <title lang="id">Bisik Pagi</title>
     <desc lang="id">Bisik Pagi</desc>
     <icon src="https://thumbor.prod.vidiocdn.com/NdmzqkxqnWVnlngtk_ObYNT-wiY=/287x162/filters:strip_icc():quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/image/206/moji-a5bd3e.jpg"/>
   </programme>
-  <programme channel="206" start="20260503010000 +0000" stop="20260503020300 +0000">
+  <programme channel="206" start="20260503010000 +0000" stop="20260503020000 +0000">
     <title lang="id">Ungkap</title>
     <desc lang="id">Ungkap</desc>
     <icon src="https://thumbor.prod.vidiocdn.com/NdmzqkxqnWVnlngtk_ObYNT-wiY=/287x162/filters:strip_icc():quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/image/206/moji-a5bd3e.jpg"/>
   </programme>
-  <programme channel="206" start="20260503020300 +0000" stop="20260503035700 +0000">
+  <programme channel="206" start="20260503020000 +0000" stop="20260503040000 +0000">
     <title lang="id">Ungkap</title>
     <desc lang="id">Ungkap</desc>
     <icon src="https://thumbor.prod.vidiocdn.com/NdmzqkxqnWVnlngtk_ObYNT-wiY=/287x162/filters:strip_icc():quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/image/206/moji-a5bd3e.jpg"/>
   </programme>
-  <programme channel="206" start="20260503035700 +0000" stop="20260503055100 +0000">
+  <programme channel="206" start="20260503040000 +0000" stop="20260503060000 +0000">
     <title lang="id">Tercyduk</title>
     <desc lang="id">Tercyduk</desc>
     <icon src="https://thumbor.prod.vidiocdn.com/NdmzqkxqnWVnlngtk_ObYNT-wiY=/287x162/filters:strip_icc():quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/image/206/moji-a5bd3e.jpg"/>
   </programme>
-  <programme channel="206" start="20260503055100 +0000" stop="20260503101600 +0000">
+  <programme channel="206" start="20260503060000 +0000" stop="20260503103000 +0000">
     <title lang="id">Tercyduk</title>
     <desc lang="id">Tercyduk</desc>
     <icon src="https://thumbor.prod.vidiocdn.com/NdmzqkxqnWVnlngtk_ObYNT-wiY=/287x162/filters:strip_icc():quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/image/206/moji-a5bd3e.jpg"/>
   </programme>
-  <programme channel="206" start="20260503101600 +0000" stop="20260503120000 +0000">
+  <programme channel="206" start="20260503103000 +0000" stop="20260503120000 +0000">
     <title lang="id">American Ninja Warrior Season 14</title>
     <desc lang="id">American Ninja Warrior Season 14</desc>
-    <icon src="https://thumbor.prod.vidiocdn.com/NdmzqkxqnWVnlngtk_ObYNT-wiY=/287x162/filters:strip_icc():quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/image/206/moji-a5bd3e.jpg"/>
+    <icon src="https://thumbor.prod.vidiocdn.com/_NZH1pVEbbWyZc4cxc0knveh-As=/287x162/filters:strip_icc():quality(70)/vidio-media-production/uploads/livestreaming/schedule/thumbnail/5035969/b10923.jpg"/>
   </programme>
   <programme channel="206" start="20260503120000 +0000" stop="20260503133000 +0000">
     <title lang="id">Maria Bellen</title>
@@ -2213,7 +2213,7 @@
   </programme>
   <programme channel="777" start="20260502190500 +0000" stop="20260502193000 +0000">
     <title lang="id">Primetime News</title>
-    <icon src="https://thumbor.prod.vidiocdn.com/oA2ryXzO_k7kOcAhTdtU8c0_5DY=/287x162/filters:strip_icc():quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/image/777/metro-tv-2eba56.jpg"/>
+    <icon src="https://thumbor.prod.vidiocdn.com/psDDbNEs62VC9oDkbJokYV5kH54=/287x162/filters:strip_icc():quality(70)/vidio-media-production/uploads/livestreaming/schedule/thumbnail/5026844/9e0c68.jpg"/>
   </programme>
   <programme channel="777" start="20260502193000 +0000" stop="20260502200500 +0000">
     <title lang="id">Primetime News</title>
@@ -2221,7 +2221,7 @@
   </programme>
   <programme channel="777" start="20260502200500 +0000" stop="20260502203000 +0000">
     <title lang="id">Top News</title>
-    <icon src="https://thumbor.prod.vidiocdn.com/oA2ryXzO_k7kOcAhTdtU8c0_5DY=/287x162/filters:strip_icc():quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/image/777/metro-tv-2eba56.jpg"/>
+    <icon src="https://thumbor.prod.vidiocdn.com/ml_IZWv-3ZK6vhgs8JYrSRUlNF0=/287x162/filters:strip_icc():quality(70)/vidio-media-production/uploads/livestreaming/schedule/thumbnail/5026890/36dfac.jpg"/>
   </programme>
   <programme channel="777" start="20260502203000 +0000" stop="20260502210500 +0000">
     <title lang="id">Top News</title>
@@ -2337,7 +2337,7 @@
   </programme>
   <programme channel="777" start="20260503103000 +0000" stop="20260503110000 +0000">
     <title lang="id">Primetime News</title>
-    <icon src="https://thumbor.prod.vidiocdn.com/oA2ryXzO_k7kOcAhTdtU8c0_5DY=/287x162/filters:strip_icc():quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/image/777/metro-tv-2eba56.jpg"/>
+    <icon src="https://thumbor.prod.vidiocdn.com/pflhQBVDOXxL8uYQri5zmhpjPjs=/287x162/filters:strip_icc():quality(70)/vidio-media-production/uploads/livestreaming/schedule/thumbnail/5026846/0ebea6.jpg"/>
   </programme>
   <programme channel="777" start="20260503110000 +0000" stop="20260503113000 +0000">
     <title lang="id">Primetime News</title>
@@ -2357,7 +2357,7 @@
   </programme>
   <programme channel="777" start="20260503130500 +0000" stop="20260503133000 +0000">
     <title lang="id">Top News</title>
-    <icon src="https://thumbor.prod.vidiocdn.com/oA2ryXzO_k7kOcAhTdtU8c0_5DY=/287x162/filters:strip_icc():quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/image/777/metro-tv-2eba56.jpg"/>
+    <icon src="https://thumbor.prod.vidiocdn.com/8HMCIWGopd250sdo2KOOIg0IMeA=/287x162/filters:strip_icc():quality(70)/vidio-media-production/uploads/livestreaming/schedule/thumbnail/5026894/6d4e41.jpg"/>
   </programme>
   <programme channel="777" start="20260503133000 +0000" stop="20260503140500 +0000">
     <title lang="id">Top News</title>
@@ -2549,7 +2549,7 @@
   <programme channel="874" start="20260503000000 +0000" stop="20260503013000 +0000">
     <title lang="id">Sapa Indonesia Pagi</title>
     <desc lang="id">Berita dan laporan sejumlah peristiwa terhangat di berbagai belahan dunia</desc>
-    <icon src="https://thumbor.prod.vidiocdn.com/jj9luSHlZk2jbvjSgqs3OHK1LOc=/287x162/filters:strip_icc():quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/image/874/kompas-tv-98863c.jpg"/>
+    <icon src="https://thumbor.prod.vidiocdn.com/z5oNYxBQc5VV2sEHIOuJQ1yXkfU=/287x162/filters:strip_icc():quality(70)/vidio-media-production/uploads/livestreaming/schedule/thumbnail/5039079/72b4b3.jpg"/>
   </programme>
   <programme channel="874" start="20260503013000 +0000" stop="20260503033000 +0000">
     <title lang="id">Breaking News</title>
@@ -2599,7 +2599,7 @@
   <programme channel="874" start="20260503113000 +0000" stop="20260503123000 +0000">
     <title lang="id">Sapa Indonesia Malam</title>
     <desc lang="id">Informasi terkini seputar dunia politik, ekonomi, kriminal, olahraga, serta hiburan dari dalam dan luar negeri.</desc>
-    <icon src="https://thumbor.prod.vidiocdn.com/PT3ZyAFAXsGjZMBMz76qgRItqyA=/287x162/filters:strip_icc():quality(70)/vidio-media-production/uploads/tv_program/thumbnail/380294/8f6926.jpg"/>
+    <icon src="https://thumbor.prod.vidiocdn.com/3PDyElvfhsE76d1fddGT20GXnmA=/287x162/filters:strip_icc():quality(70)/vidio-media-production/uploads/livestreaming/schedule/thumbnail/5039106/865372.jpg"/>
   </programme>
   <programme channel="874" start="20260503123000 +0000" stop="20260503133000 +0000">
     <title lang="id">Berita Utama</title>
@@ -3336,6 +3336,115 @@
     <desc lang="id">Kisah Seorang Ronin Bernama Zankuro, Samurai Pengembara Yang Hidup Di Zaman Edo. Meski Dikenal Sebagai Pendekar Pedang Yang Tak Terkalahkan, Zankuro Memiliki Sisi Lembut Dan Menjunjung Tinggi Keadilan. Dalam Perjalanannya, Ia Terlibat Dalam Berbagai Konflik Yang Menguji Prinsip, Harga Diri Dan Tanggung Jawabnya Sebagai Seorang Samurai Tanpa Tuan.</desc>
     <icon src="https://thumbor.prod.vidiocdn.com/t3kH69uTKMJbATwgkOSlzYNI1zA=/287x162/filters:strip_icc():quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/image/1561/rtv-48c719.jpg"/>
   </programme>
+  <programme channel="1561" start="20260502170000 +0000" stop="20260502173000 +0000">
+    <title lang="id">Bioskop Ulang Tahun: Zankuro</title>
+    <desc lang="id">Kisah seorang pengikut shogun berpangkat rendah bernama Matsudaira Zankuro di zaman Edo Jepang. Meskipun berasal dari keluarga bangsawan dan memiliki hubungan darah dengan shogun, ia hidup dalam kemiskinan dan hanya menerima tunjangan yang kecil.</desc>
+    <icon src="https://thumbor.prod.vidiocdn.com/t3kH69uTKMJbATwgkOSlzYNI1zA=/287x162/filters:strip_icc():quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/image/1561/rtv-48c719.jpg"/>
+  </programme>
+  <programme channel="1561" start="20260502173000 +0000" stop="20260502180000 +0000">
+    <title lang="id">Kokom - Kompilasi Komedi</title>
+    <desc lang="id">Program yang berisikan kompilasi video-video lucu yang viral di sosial media.</desc>
+    <icon src="https://thumbor.prod.vidiocdn.com/t3kH69uTKMJbATwgkOSlzYNI1zA=/287x162/filters:strip_icc():quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/image/1561/rtv-48c719.jpg"/>
+  </programme>
+  <programme channel="1561" start="20260502180000 +0000" stop="20260502183000 +0000">
+    <title lang="id">Terang Kasih</title>
+    <desc lang="id">Siraman rohani Kristen yang berkaitan dengan kehidupan untuk mendekatkan diri kepada Tuhan Yesus Kristus. Program ini akan dibagi menjadi beberapa bagian, antara lain kesaksian, renungan, serta konseling yang akan dipandu oleh dua orang host.</desc>
+    <icon src="https://thumbor.prod.vidiocdn.com/t3kH69uTKMJbATwgkOSlzYNI1zA=/287x162/filters:strip_icc():quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/image/1561/rtv-48c719.jpg"/>
+  </programme>
+  <programme channel="1561" start="20260502183000 +0000" stop="20260502200000 +0000">
+    <title lang="id">Movinesia</title>
+    <icon src="https://thumbor.prod.vidiocdn.com/t3kH69uTKMJbATwgkOSlzYNI1zA=/287x162/filters:strip_icc():quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/image/1561/rtv-48c719.jpg"/>
+  </programme>
+  <programme channel="1561" start="20260502200000 +0000" stop="20260502203000 +0000">
+    <title lang="id">Ustadz On The Road</title>
+    <desc lang="id">Menghadirkan tausiyah dan kajian Islam dari berbagai lokasi.</desc>
+    <icon src="https://thumbor.prod.vidiocdn.com/t3kH69uTKMJbATwgkOSlzYNI1zA=/287x162/filters:strip_icc():quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/image/1561/rtv-48c719.jpg"/>
+  </programme>
+  <programme channel="1561" start="20260502203000 +0000" stop="20260502213000 +0000">
+    <title lang="id">Ultraman Omega</title>
+    <desc lang="id">Omega adalah anggota baru Pasukan Luar Angkasa yang dikirim ke Bumi untuk melindunginya dari monster yang muncul secara misterius.</desc>
+    <icon src="https://thumbor.prod.vidiocdn.com/t3kH69uTKMJbATwgkOSlzYNI1zA=/287x162/filters:strip_icc():quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/image/1561/rtv-48c719.jpg"/>
+  </programme>
+  <programme channel="1561" start="20260502213000 +0000" stop="20260502220000 +0000">
+    <title lang="id">Superbook</title>
+    <desc lang="id">Chris, Joy, dan Gizmo masuk ke dalam kitab ajaib. Selama di dalam, mereka mengalami peristiwa-peristiwa yang tertulis di dalamnya dan mempelajari berbagai nilai luhur.</desc>
+    <icon src="https://thumbor.prod.vidiocdn.com/t3kH69uTKMJbATwgkOSlzYNI1zA=/287x162/filters:strip_icc():quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/image/1561/rtv-48c719.jpg"/>
+  </programme>
+  <programme channel="1561" start="20260502220000 +0000" stop="20260502223000 +0000">
+    <title lang="id">New Kongsuni and Friends</title>
+    <desc lang="id">Kongsuni, seorang gadis kecil berusia lima tahun, dan petualangannya bersama teman-temannya di rumah, sekolah, dan taman bermain.</desc>
+    <icon src="https://thumbor.prod.vidiocdn.com/t3kH69uTKMJbATwgkOSlzYNI1zA=/287x162/filters:strip_icc():quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/image/1561/rtv-48c719.jpg"/>
+  </programme>
+  <programme channel="1561" start="20260502223000 +0000" stop="20260503000000 +0000">
+    <title lang="id">Metal Cardbot</title>
+    <desc lang="id">Dahulu kala, terdapat sebuah planet bernama Machina dimana Metal Cardbots tinggal. Suatu ketika, planet ini tiba-tiba meledak dan memaksa semua penghuninya untuk hidup di Bumi.</desc>
+    <icon src="https://thumbor.prod.vidiocdn.com/t3kH69uTKMJbATwgkOSlzYNI1zA=/287x162/filters:strip_icc():quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/image/1561/rtv-48c719.jpg"/>
+  </programme>
+  <programme channel="1561" start="20260503000000 +0000" stop="20260503013000 +0000">
+    <title lang="id">Bioskop Ulang Tahun: Ultraman Blazar the Movie</title>
+    <desc lang="id">Kapten Gento dan tim SKaRD yang menghadapi rentetan serangan kaiju masif di area industri Tokyo. Investigasi mengarah pada Necromass Co., perusahaan kimia yang meneliti kaiju, memaksa Blazar melawan ancaman baru, termasuk monster Gongilgan, demi menyelamatkan kota.</desc>
+    <icon src="https://thumbor.prod.vidiocdn.com/t3kH69uTKMJbATwgkOSlzYNI1zA=/287x162/filters:strip_icc():quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/image/1561/rtv-48c719.jpg"/>
+  </programme>
+  <programme channel="1561" start="20260503013000 +0000" stop="20260503020000 +0000">
+    <title lang="id">Cai Yoo - Cerita Anak Indonesia Yo Yo Yo</title>
+    <desc lang="id">Program edukasi yang menampilkan praktik sains, pertunjukan dongeng, hingga pertunjukan bakat siswa seperti menyanyi, menari, berolahraga, dll.</desc>
+    <icon src="https://thumbor.prod.vidiocdn.com/t3kH69uTKMJbATwgkOSlzYNI1zA=/287x162/filters:strip_icc():quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/image/1561/rtv-48c719.jpg"/>
+  </programme>
+  <programme channel="1561" start="20260503020000 +0000" stop="20260503023000 +0000">
+    <title lang="id">Papa Pipi</title>
+    <desc lang="id">Kisah tentang Papa Zola dan anak perempuannya, Pipi Zola. Bersama-sama mereka menjalani petualangan cilik yang terkadang menjadi lebih menantang dalam kehidupan mereka.</desc>
+    <icon src="https://thumbor.prod.vidiocdn.com/t3kH69uTKMJbATwgkOSlzYNI1zA=/287x162/filters:strip_icc():quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/image/1561/rtv-48c719.jpg"/>
+  </programme>
+  <programme channel="1561" start="20260503023000 +0000" stop="20260503043000 +0000">
+    <title lang="id">Bioskop Ulang Tahun: Boonie Bears: Guardian Code</title>
+    <desc lang="id">Briar dan Bramble kehilangan ibu mereka di usia yang sangat muda karena keadaan yang misterius. Bertahun-tahun kemudian, ketika seekor beruang betina yang lebih tua muncul di tempat kejadian, Bear Brothers bertekad untuk mencari tahu kebenarannya untuk selamanya.</desc>
+    <icon src="https://thumbor.prod.vidiocdn.com/t3kH69uTKMJbATwgkOSlzYNI1zA=/287x162/filters:strip_icc():quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/image/1561/rtv-48c719.jpg"/>
+  </programme>
+  <programme channel="1561" start="20260503043000 +0000" stop="20260503063000 +0000">
+    <title lang="id">Si Kapal Selam Kecil: Penyelamatan Naga Samudra</title>
+    <desc lang="id">Petualangan Dohau menyelamatkan naga Shalom dari serangan monster laut misterius.</desc>
+    <icon src="https://thumbor.prod.vidiocdn.com/t3kH69uTKMJbATwgkOSlzYNI1zA=/287x162/filters:strip_icc():quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/image/1561/rtv-48c719.jpg"/>
+  </programme>
+  <programme channel="1561" start="20260503063000 +0000" stop="20260503073000 +0000">
+    <title lang="id">Grizzy &amp; The Lemmings</title>
+    <desc lang="id">Kisah seekor beruang grizzly yang bernama Grizzy dan sekawanan leming yang selalu ingin bermain dengan Grizzy setiap harinya sehingga banyak cerita dan petualangan yang menarik dari mereka.</desc>
+    <icon src="https://thumbor.prod.vidiocdn.com/t3kH69uTKMJbATwgkOSlzYNI1zA=/287x162/filters:strip_icc():quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/image/1561/rtv-48c719.jpg"/>
+  </programme>
+  <programme channel="1561" start="20260503073000 +0000" stop="20260503100000 +0000">
+    <title lang="id">Bioskop Ulang Tahun: Ejen Ali The Movie</title>
+    <desc lang="id">Setelah secara tidak sengaja direkrut sebagai mata-mata, Ejen Ali yang berusia 12 tahun kini telah tumbuh untuk menyelesaikan tugasnya di badan rahasia Meta Advance Tactical Agency (MATA) untuk melindungi kota dari ancaman dari luar. Ali terkejut mengetahui bahwa ia bukan lagi satu-satunya ahli Sistem Retina Intelektual Infinity (IRIS), karena MATA kini telah ditingkatkan ke IRIS Neo untuk semua agen MATA. Ketika penemuan baru membuat Ali mempertanyakan tempat dan kegunaannya untuk MATA, ia didekati oleh seseorang yang mempunyai niat jahat yang mengaku tahu tentang hubungan pribadi yang mengejutkan Ali. Mempertaruhkan kesetiaannya kepada MATA, Ejen Ali memulai pengejaran mendebarkan untuk mengungkap hal-hal misterius ini.</desc>
+    <icon src="https://thumbor.prod.vidiocdn.com/t3kH69uTKMJbATwgkOSlzYNI1zA=/287x162/filters:strip_icc():quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/image/1561/rtv-48c719.jpg"/>
+  </programme>
+  <programme channel="1561" start="20260503100000 +0000" stop="20260503103000 +0000">
+    <title lang="id">Teletubbies</title>
+    <desc lang="id">Empat makhluk dengan televisi di perut mereka bersenang-senang di dunia magis mereka.</desc>
+    <icon src="https://thumbor.prod.vidiocdn.com/t3kH69uTKMJbATwgkOSlzYNI1zA=/287x162/filters:strip_icc():quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/image/1561/rtv-48c719.jpg"/>
+  </programme>
+  <programme channel="1561" start="20260503103000 +0000" stop="20260503110000 +0000">
+    <title lang="id">Tom &amp; Jerry</title>
+    <desc lang="id">Ketika Jerry pindah ke hotel terbaik di New York pada malam pernikahan abad ini, perencana acara menyewa Tom untuk menyingkirkannya. Namun, pertempuran kucing dan tikus yang terjadi mengancam akan menghancurkan kariernya, pernikahannya, dan mungkin juga hotelnya.</desc>
+    <icon src="https://thumbor.prod.vidiocdn.com/t3kH69uTKMJbATwgkOSlzYNI1zA=/287x162/filters:strip_icc():quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/image/1561/rtv-48c719.jpg"/>
+  </programme>
+  <programme channel="1561" start="20260503110000 +0000" stop="20260503133000 +0000">
+    <title lang="id">Bioskop Ulang Tahun: Boboiboy Movie 2</title>
+    <desc lang="id">BoBoiBoy dan teman-temannya diserang oleh penjahat bernama Retak'ka yang merupakan pengguna asli kekuatan BoBoiBoy.</desc>
+    <icon src="https://thumbor.prod.vidiocdn.com/t3kH69uTKMJbATwgkOSlzYNI1zA=/287x162/filters:strip_icc():quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/image/1561/rtv-48c719.jpg"/>
+  </programme>
+  <programme channel="1561" start="20260503133000 +0000" stop="20260503150000 +0000">
+    <title lang="id">Bioskop Ulang Tahun: Ultraman Arc the Movie</title>
+    <desc lang="id">Yuma Hize yang diuji oleh sesepuh misterius, Sascal, untuk melindungi Kota Hoshimoto dari ancaman, termasuk kembaran gelapnya, "Guil Arc". Yuma harus melampaui batas imajinasinya dalam pertempuran dimensi yang terdistorsi demi melindungi masa depan.</desc>
+    <icon src="https://thumbor.prod.vidiocdn.com/t3kH69uTKMJbATwgkOSlzYNI1zA=/287x162/filters:strip_icc():quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/image/1561/rtv-48c719.jpg"/>
+  </programme>
+  <programme channel="1561" start="20260503150000 +0000" stop="20260503170000 +0000">
+    <title lang="id">Bioskop Ulang Tahun: Wu Kong</title>
+    <desc lang="id">Seorang raksasa memberontak melawan langit. Ia dinyatakan sebagai iblis dan dikalahkan. Hati abadi berevolusi menjadi Sun Wukong. Langit menemukannya, dan menghancurkan rumahnya. Dia memasuki kerajaan surga, menyamar sebagai manusia, mencari pembalasan.</desc>
+    <icon src="https://thumbor.prod.vidiocdn.com/t3kH69uTKMJbATwgkOSlzYNI1zA=/287x162/filters:strip_icc():quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/image/1561/rtv-48c719.jpg"/>
+  </programme>
+  <programme channel="1561" start="20260503150000 +0000" stop="20260503170000 +0000">
+    <title lang="id">Bioskop Ulang Tahun: Wu Kong</title>
+    <desc lang="id">Seorang raksasa memberontak melawan langit. Ia dinyatakan sebagai iblis dan dikalahkan. Hati abadi berevolusi menjadi Sun Wukong. Langit menemukannya, dan menghancurkan rumahnya. Dia memasuki kerajaan surga, menyamar sebagai manusia, mencari pembalasan.</desc>
+    <icon src="https://thumbor.prod.vidiocdn.com/t3kH69uTKMJbATwgkOSlzYNI1zA=/287x162/filters:strip_icc():quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/image/1561/rtv-48c719.jpg"/>
+  </programme>
   <programme channel="1561" start="20260503170000 +0000" stop="20260503173000 +0000">
     <title lang="id">Wu Kong</title>
     <desc lang="id">Film Wukong Menceritakan Kisah Sun Wukong Yang Ingin Membalas Dendam Menghancurkan Destiny Astrolab Yang Berada Di Kerajaan Langit. Astrolab Merupakan Portal Canggih Yang Menentukan Takdir Semua Makhluk Dan Kejadian Di Alam Semesta Yang Dikendalikan Oleh Seorang Dewi Bernama Hua Ji. Di Kerajaan Langit, Wu Kong Terlibat Perkelahian Dengan Erlang Shen Dan Lianpeng, Yang Membuat Mereka Jatuh Ke Bumi Secara Tidak Sengaja Dan Kehilangan Kekuatan Mereka. Di Bumi, Wu Kong Dan Yang Lainnya Berusaha Untuk Mengalahkan Monster Awan Yang Malah Menjadi Tunggangan Wu Kong Saat Kembali Ke Kerajaan Langit.</desc>
@@ -4068,7 +4177,7 @@
   </programme>
   <programme channel="875" start="20260503010500 +0000" stop="20260503020000 +0000">
     <title lang="id">Fakta +62 Weekend</title>
-    <icon src="https://thumbor.prod.vidiocdn.com/4Czw1-Pd6U37CKeatnuB7yB0wm8=/287x162/filters:strip_icc():quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/image/875/mdtv-ff5756.jpg"/>
+    <icon src="https://thumbor.prod.vidiocdn.com/OrdPxrdBdY3Eyntosj-TaHkBb6Q=/287x162/filters:strip_icc():quality(70)/vidio-media-production/uploads/livestreaming/schedule/thumbnail/5048207/838bbf.jpg"/>
   </programme>
   <programme channel="875" start="20260503020000 +0000" stop="20260503030000 +0000">
     <title lang="id">Sensasihot</title>
@@ -4076,11 +4185,11 @@
   </programme>
   <programme channel="875" start="20260503030000 +0000" stop="20260503044000 +0000">
     <title lang="id">Terlanjur Indah</title>
-    <icon src="https://thumbor.prod.vidiocdn.com/sU38iIrJpwpYpe0hhqMbJ9RmqEY=/287x162/filters:strip_icc():quality(70)/vidio-media-production/uploads/tv_program/thumbnail/388195/a97819.jpg"/>
+    <icon src="https://thumbor.prod.vidiocdn.com/2_Pudp1Twzu0kxWarc5-3HTsl4s=/287x162/filters:strip_icc():quality(70)/vidio-media-production/uploads/livestreaming/schedule/thumbnail/5048218/83b4da.jpg"/>
   </programme>
   <programme channel="875" start="20260503044000 +0000" stop="20260503060000 +0000">
     <title lang="id">Cinta Fitri S7</title>
-    <icon src="https://thumbor.prod.vidiocdn.com/4Czw1-Pd6U37CKeatnuB7yB0wm8=/287x162/filters:strip_icc():quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/image/875/mdtv-ff5756.jpg"/>
+    <icon src="https://thumbor.prod.vidiocdn.com/uXjdNG3zDUzWuEeQlIJ5dEK1QIo=/287x162/filters:strip_icc():quality(70)/vidio-media-production/uploads/livestreaming/schedule/thumbnail/5048227/f0693d.jpg"/>
   </programme>
   <programme channel="875" start="20260503060000 +0000" stop="20260503080500 +0000">
     <title lang="id">Makan Enak</title>
@@ -4092,7 +4201,7 @@
   </programme>
   <programme channel="875" start="20260503090500 +0000" stop="20260503093500 +0000">
     <title lang="id">Adit Sopo Jarwo</title>
-    <icon src="https://thumbor.prod.vidiocdn.com/4Czw1-Pd6U37CKeatnuB7yB0wm8=/287x162/filters:strip_icc():quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/image/875/mdtv-ff5756.jpg"/>
+    <icon src="https://thumbor.prod.vidiocdn.com/7PShw9VeWhjvQknnEctwZC93ppg=/287x162/filters:strip_icc():quality(70)/vidio-media-production/uploads/livestreaming/schedule/thumbnail/5048252/354bee.jpg"/>
   </programme>
   <programme channel="875" start="20260503093500 +0000" stop="20260503103500 +0000">
     <title lang="id">Sensasiseleb</title>
@@ -4100,7 +4209,7 @@
   </programme>
   <programme channel="875" start="20260503103500 +0000" stop="20260503123000 +0000">
     <title lang="id">MD Teledrama: Esmeralda</title>
-    <icon src="https://thumbor.prod.vidiocdn.com/4Czw1-Pd6U37CKeatnuB7yB0wm8=/287x162/filters:strip_icc():quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/image/875/mdtv-ff5756.jpg"/>
+    <icon src="https://thumbor.prod.vidiocdn.com/8Jq4O5XRfUvKum7FYujYKlLHOWo=/287x162/filters:strip_icc():quality(70)/vidio-media-production/uploads/livestreaming/schedule/thumbnail/5048270/b0bc6c.jpg"/>
   </programme>
   <programme channel="875" start="20260503123000 +0000" stop="20260503132000 +0000">
     <title lang="id">MD Series: Istri Paruh Waktu</title>
@@ -7213,12 +7322,12 @@
     <desc lang="id">Kisah perjuangan Ummi Marwah, seorang ustazah, dalam menjaga keutuhan rumah tangga dan mendidik anak-anaknya. Abah Asep, suaminya, berperilaku arogan dan selingkuh dengan asisten rumah tangga.</desc>
     <icon src="https://thumbor.prod.vidiocdn.com/20tRQaK9Gps_wFQL5rY-XgRbrs4=/287x162/filters:strip_icc():quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/image/782/antv-de8530.jpg"/>
   </programme>
-  <programme channel="782" start="20260501230000 +0000" stop="20260502003000 +0000">
+  <programme channel="782" start="20260501230000 +0000" stop="20260502005500 +0000">
     <title lang="id">Kasautii</title>
     <desc lang="id">Anurag dan Prerna kuliah di universitas yang sama, dan akhirnya menjalin hubungan erat. Namun, mereka harus menghadapi orang-orang yang ingin memisahkan keduanya, karena perbedaan status sosial.</desc>
     <icon src="https://thumbor.prod.vidiocdn.com/PP66yDBYKBg40vIsWALqSpvtDIo=/287x162/filters:strip_icc():quality(70)/vidio-media-production/uploads/livestreaming/schedule/thumbnail/5055517/9eb2ce.jpg"/>
   </programme>
-  <programme channel="782" start="20260502003000 +0000" stop="20260502023000 +0000">
+  <programme channel="782" start="20260502005500 +0000" stop="20260502023000 +0000">
     <title lang="id">SINEMA SPESIAL COLAK COLEK</title>
     <icon src="https://thumbor.prod.vidiocdn.com/20tRQaK9Gps_wFQL5rY-XgRbrs4=/287x162/filters:strip_icc():quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/image/782/antv-de8530.jpg"/>
   </programme>
@@ -7269,7 +7378,7 @@
   <programme channel="782" start="20260502194500 +0000" stop="20260502220000 +0000">
     <title lang="id">Mega Bollywood: English Babu Desi Mem</title>
     <desc lang="id">Menghadirkan deretan film Bollywood menarik yang dibintangi aktor dan aktris ternama.</desc>
-    <icon src="https://thumbor.prod.vidiocdn.com/20tRQaK9Gps_wFQL5rY-XgRbrs4=/287x162/filters:strip_icc():quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/image/782/antv-de8530.jpg"/>
+    <icon src="https://thumbor.prod.vidiocdn.com/GGMEsA26qUcqt6CVlKQx3vQwys8=/287x162/filters:strip_icc():quality(70)/vidio-media-production/uploads/livestreaming/schedule/thumbnail/5055528/5f1946.jpg"/>
   </programme>
   <programme channel="782" start="20260502220000 +0000" stop="20260502230000 +0000">
     <title lang="id">Ummi</title>
@@ -7279,7 +7388,7 @@
   <programme channel="782" start="20260502230000 +0000" stop="20260503003000 +0000">
     <title lang="id">Kasautii</title>
     <desc lang="id">Anurag dan Prerna kuliah di universitas yang sama, dan akhirnya menjalin hubungan erat. Namun, mereka harus menghadapi orang-orang yang ingin memisahkan keduanya, karena perbedaan status sosial.</desc>
-    <icon src="https://thumbor.prod.vidiocdn.com/rqNYtJjfBifjR0_p0GbdGGqfy-w=/287x162/filters:strip_icc():quality(70)/vidio-web-prod-film/uploads/film/image_landscape/8121/kasautii-6ef8ae.png"/>
+    <icon src="https://thumbor.prod.vidiocdn.com/tmmE8pBDGtuNwFzb2_UJBOQPHJ0=/287x162/filters:strip_icc():quality(70)/vidio-media-production/uploads/livestreaming/schedule/thumbnail/5055518/1537d9.jpg"/>
   </programme>
   <programme channel="782" start="20260503003000 +0000" stop="20260503023000 +0000">
     <title lang="id">Sinema Spesial: Tragedi Bintaro</title>
@@ -7289,21 +7398,21 @@
   <programme channel="782" start="20260503023000 +0000" stop="20260503060000 +0000">
     <title lang="id">Mega Bollywood: Kal Ho Naa Ho</title>
     <desc lang="id">Naina, seorang gadis introvert dan selalu depresi, kehidupannya berubah saat dia bertemu Aman. Namun Aman mempunyai rahasianya sendiri yang mengubah hidup mereka selamanya. Terlibat dalam semua ini adalah Rohit, sahabat Naina yang menyembunyikan cintanya padanya.</desc>
-    <icon src="https://thumbor.prod.vidiocdn.com/20tRQaK9Gps_wFQL5rY-XgRbrs4=/287x162/filters:strip_icc():quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/image/782/antv-de8530.jpg"/>
+    <icon src="https://thumbor.prod.vidiocdn.com/J0hknX7dhu16t6gk8o3FEVUvSIE=/287x162/filters:strip_icc():quality(70)/vidio-media-production/uploads/livestreaming/schedule/thumbnail/5055530/322924.jpg"/>
   </programme>
   <programme channel="782" start="20260503060000 +0000" stop="20260503080000 +0000">
     <title lang="id">Jhanak</title>
     <desc lang="id">Seorang wanita muda yang bersemangat memulai perjalanan untuk memenuhi janji seorang ibu demi kehidupan yang lebih baik sambil mengatasi tantangan dan kehilangan.</desc>
-    <icon src="https://thumbor.prod.vidiocdn.com/20tRQaK9Gps_wFQL5rY-XgRbrs4=/287x162/filters:strip_icc():quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/image/782/antv-de8530.jpg"/>
+    <icon src="https://thumbor.prod.vidiocdn.com/lvqg81IFvQRPZIJgGEUkvywFgYc=/287x162/filters:strip_icc():quality(70)/vidio-media-production/uploads/livestreaming/schedule/thumbnail/5055521/4ab76e.jpg"/>
   </programme>
   <programme channel="782" start="20260503080000 +0000" stop="20260503093000 +0000">
     <title lang="id">TERI MERI DORIYAAN</title>
-    <icon src="https://thumbor.prod.vidiocdn.com/20tRQaK9Gps_wFQL5rY-XgRbrs4=/287x162/filters:strip_icc():quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/image/782/antv-de8530.jpg"/>
+    <icon src="https://thumbor.prod.vidiocdn.com/Ov3WUbcJt4Z2nH9YVNBad90vg4A=/287x162/filters:strip_icc():quality(70)/vidio-media-production/uploads/livestreaming/schedule/thumbnail/5055816/156b03.jpg"/>
   </programme>
   <programme channel="782" start="20260503100000 +0000" stop="20260503120000 +0000">
     <title lang="id">Vasudha</title>
     <desc lang="id">Vasudha yang periang bergabung dengan rumah pemimpin bisnis Chandrika sebagai pembantu dan mendambakan persetujuannya meskipun ada perbedaan ideologis di antara mereka.</desc>
-    <icon src="https://thumbor.prod.vidiocdn.com/20tRQaK9Gps_wFQL5rY-XgRbrs4=/287x162/filters:strip_icc():quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/image/782/antv-de8530.jpg"/>
+    <icon src="https://thumbor.prod.vidiocdn.com/yKrSs-cIlC86QO0cg5_cF65pSWQ=/287x162/filters:strip_icc():quality(70)/vidio-media-production/uploads/livestreaming/schedule/thumbnail/5055523/e8fbec.jpg"/>
   </programme>
   <programme channel="782" start="20260503120000 +0000" stop="20260503140000 +0000">
     <title lang="id">Sinema Laga Klasik: Pancasona</title>
@@ -7430,7 +7539,7 @@
   </programme>
   <programme channel="783" start="20260502233000 +0000" stop="20260503010000 +0000">
     <title lang="id">Apa Kabar Indonesia Pagi</title>
-    <icon src="https://thumbor.prod.vidiocdn.com/TyXbaZqF_g2hn94imFJllHzaz_Q=/287x162/filters:strip_icc():quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/image/783/tvone-bb42ce.jpg"/>
+    <icon src="https://thumbor.prod.vidiocdn.com/k54gdurJGZNmJ9h091cOXDbjcqc=/287x162/filters:strip_icc():quality(70)/vidio-media-production/uploads/livestreaming/schedule/thumbnail/5047095/812209.jpg"/>
   </programme>
   <programme channel="783" start="20260503010000 +0000" stop="20260503013000 +0000">
     <title lang="id">Inspirasi Pagi</title>
@@ -7466,11 +7575,11 @@
   </programme>
   <programme channel="783" start="20260503090000 +0000" stop="20260503110000 +0000">
     <title lang="id">Kabar Petang</title>
-    <icon src="https://thumbor.prod.vidiocdn.com/TyXbaZqF_g2hn94imFJllHzaz_Q=/287x162/filters:strip_icc():quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/image/783/tvone-bb42ce.jpg"/>
+    <icon src="https://thumbor.prod.vidiocdn.com/-OgVRkpM1IbtZkymg9HD3EDVWPk=/287x162/filters:strip_icc():quality(70)/vidio-media-production/uploads/livestreaming/schedule/thumbnail/5047151/14f829.jpg"/>
   </programme>
   <programme channel="783" start="20260503110000 +0000" stop="20260503130000 +0000">
     <title lang="id">Apa Kabar Indonesia Malam</title>
-    <icon src="https://thumbor.prod.vidiocdn.com/TyXbaZqF_g2hn94imFJllHzaz_Q=/287x162/filters:strip_icc():quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/image/783/tvone-bb42ce.jpg"/>
+    <icon src="https://thumbor.prod.vidiocdn.com/voKeGlxmyz9LC-90EbChOX9yiaU=/287x162/filters:strip_icc():quality(70)/vidio-media-production/uploads/livestreaming/schedule/thumbnail/5047160/9c689a.jpg"/>
   </programme>
   <programme channel="783" start="20260503130000 +0000" stop="20260503140000 +0000">
     <title lang="id">Renungan Jiwa</title>
@@ -8302,7 +8411,7 @@
   <programme channel="6362" start="20260505143000 +0000" stop="20260505161000 +0000">
     <title lang="id">Six Singles Under One Roof</title>
     <desc lang="id">Six single celebrities in their 40s choose co-living in Gugi-dong as "Life Mates," sharing laughter, challenges, and fresh memories while redefining modern family through friendship.</desc>
-    <icon src="https://thumbor.prod.vidiocdn.com/PT0LQo0qQ7O_RDowPb8Uvz6Dtdg=/287x162/filters:strip_icc():quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/image/6362/tvn-40a16d.jpg"/>
+    <icon src="https://thumbor.prod.vidiocdn.com/ol0Nc1ZRqiOBRkwt7jXpV3GaxpU=/287x162/filters:strip_icc():quality(70)/vidio-media-production/uploads/livestreaming/schedule/thumbnail/5042109/fe6b12.jpg"/>
   </programme>
   <programme channel="6362" start="20260505161000 +0000" stop="20260505175000 +0000">
     <title lang="id">Handsome Guys</title>
@@ -8841,23 +8950,27 @@
   </programme>
   <programme channel="8237" start="20260503100000 +0000" stop="20260503103000 +0000">
     <title lang="id">Abang L The Explorer</title>
-    <icon src="https://thumbor.prod.vidiocdn.com/nqJs3hR569urY-0NTesKpjDomYs=/287x162/filters:strip_icc():quality(70)/vidio-media-production/uploads/tv_program/thumbnail/385494/74b6eb.jpg"/>
+    <icon src="https://thumbor.prod.vidiocdn.com/hEYvjhEWa-bED31A3sMP0hAkjvI=/287x162/filters:strip_icc():quality(70)/vidio-media-production/uploads/livestreaming/schedule/thumbnail/5055448/cb1250.jpg"/>
   </programme>
   <programme channel="8237" start="20260503103000 +0000" stop="20260503110000 +0000">
     <title lang="id">Bing</title>
     <icon src="https://thumbor.prod.vidiocdn.com/01IggaPN4sSDILtEw_0MxWGgmO8=/287x162/filters:strip_icc():quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/image/8237/mentari-tv-01d2b0.jpg"/>
   </programme>
-  <programme channel="8237" start="20260503110000 +0000" stop="20260503120000 +0000">
+  <programme channel="8237" start="20260503110000 +0000" stop="20260503113000 +0000">
     <title lang="id">Magic 5 the Animation</title>
-    <icon src="https://thumbor.prod.vidiocdn.com/01IggaPN4sSDILtEw_0MxWGgmO8=/287x162/filters:strip_icc():quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/image/8237/mentari-tv-01d2b0.jpg"/>
+    <icon src="https://thumbor.prod.vidiocdn.com/ggxO-ODyjAoYjL1CSpbfVfhmDeU=/287x162/filters:strip_icc():quality(70)/vidio-media-production/uploads/livestreaming/schedule/thumbnail/5055452/afe5b8.jpg"/>
+  </programme>
+  <programme channel="8237" start="20260503113000 +0000" stop="20260503120000 +0000">
+    <title lang="id">New Keluarga Somat</title>
+    <icon src="https://thumbor.prod.vidiocdn.com/X1qkgScQ2S33WjWngQH-QeTS6lo=/287x162/filters:strip_icc():quality(70)/vidio-media-production/uploads/livestreaming/schedule/thumbnail/5055914/06d9bf.jpg"/>
   </programme>
   <programme channel="8237" start="20260503130000 +0000" stop="20260503150000 +0000">
     <title lang="id">Bioskop Keluarga Indonesia</title>
-    <icon src="https://thumbor.prod.vidiocdn.com/01IggaPN4sSDILtEw_0MxWGgmO8=/287x162/filters:strip_icc():quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/image/8237/mentari-tv-01d2b0.jpg"/>
+    <icon src="https://thumbor.prod.vidiocdn.com/fAOTBYMDiCbXPh0PLP6403Vfozg=/287x162/filters:strip_icc():quality(70)/vidio-media-production/uploads/livestreaming/schedule/thumbnail/5055454/503987.jpg"/>
   </programme>
   <programme channel="8237" start="20260503150000 +0000" stop="20260503160000 +0000">
     <title lang="id">Pokemon</title>
-    <icon src="https://thumbor.prod.vidiocdn.com/01IggaPN4sSDILtEw_0MxWGgmO8=/287x162/filters:strip_icc():quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/image/8237/mentari-tv-01d2b0.jpg"/>
+    <icon src="https://thumbor.prod.vidiocdn.com/Qu3FTSp-Jczyh3CABFdW12Xgim4=/287x162/filters:strip_icc():quality(70)/vidio-media-production/uploads/livestreaming/schedule/thumbnail/5055456/757697.jpg"/>
   </programme>
   <programme channel="8237" start="20260503160000 +0000" stop="20260503170000 +0000">
     <title lang="id">Keluarga Somat</title>
@@ -8865,6 +8978,98 @@
     <icon src="https://thumbor.prod.vidiocdn.com/01IggaPN4sSDILtEw_0MxWGgmO8=/287x162/filters:strip_icc():quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/image/8237/mentari-tv-01d2b0.jpg"/>
   </programme>
   <programme channel="8237" start="20260503160000 +0000" stop="20260503170000 +0000">
+    <title lang="id">Keluarga Somat</title>
+    <desc lang="id">Cerita kehidupan sehari-hari Pak Somat, seorang kepala keluarga yang sederhana, pekerja keras, dan penuh tingkah kocak bersama istrinya Bu Inah, anak-anaknya Dudung dan Dodi, serta tetangga-tetangganya.</desc>
+    <icon src="https://thumbor.prod.vidiocdn.com/01IggaPN4sSDILtEw_0MxWGgmO8=/287x162/filters:strip_icc():quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/image/8237/mentari-tv-01d2b0.jpg"/>
+  </programme>
+  <programme channel="8237" start="20260503170000 +0000" stop="20260503180000 +0000">
+    <title lang="id">Plentis Kentus</title>
+    <icon src="https://thumbor.prod.vidiocdn.com/01IggaPN4sSDILtEw_0MxWGgmO8=/287x162/filters:strip_icc():quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/image/8237/mentari-tv-01d2b0.jpg"/>
+  </programme>
+  <programme channel="8237" start="20260503180000 +0000" stop="20260503190000 +0000">
+    <title lang="id">Madun</title>
+    <desc lang="id">Perjalanan hidup Madun dalam memperjuangkan cita-citanya untuk menjadi seorang pemain bola. Bapaknya, Syafe'i ingin anaknya menjadi seorang kyai atau ustad (ahli agama).</desc>
+    <icon src="https://thumbor.prod.vidiocdn.com/01IggaPN4sSDILtEw_0MxWGgmO8=/287x162/filters:strip_icc():quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/image/8237/mentari-tv-01d2b0.jpg"/>
+  </programme>
+  <programme channel="8237" start="20260503190000 +0000" stop="20260503200000 +0000">
+    <title lang="id">Oddbods</title>
+    <icon src="https://thumbor.prod.vidiocdn.com/nHpYJq70Bm14vE9Yv6ZAMsCkQzg=/287x162/filters:strip_icc():quality(70)/vidio-media-production/uploads/tv_program/thumbnail/2072/2174e9.jpg"/>
+  </programme>
+  <programme channel="8237" start="20260503200000 +0000" stop="20260503210000 +0000">
+    <title lang="id">Mumfie</title>
+    <icon src="https://thumbor.prod.vidiocdn.com/01IggaPN4sSDILtEw_0MxWGgmO8=/287x162/filters:strip_icc():quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/image/8237/mentari-tv-01d2b0.jpg"/>
+  </programme>
+  <programme channel="8237" start="20260503210000 +0000" stop="20260503213000 +0000">
+    <title lang="id">Little Angel</title>
+    <icon src="https://thumbor.prod.vidiocdn.com/01IggaPN4sSDILtEw_0MxWGgmO8=/287x162/filters:strip_icc():quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/image/8237/mentari-tv-01d2b0.jpg"/>
+  </programme>
+  <programme channel="8237" start="20260503213000 +0000" stop="20260503220000 +0000">
+    <title lang="id">Cocomelon</title>
+    <icon src="https://thumbor.prod.vidiocdn.com/01IggaPN4sSDILtEw_0MxWGgmO8=/287x162/filters:strip_icc():quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/image/8237/mentari-tv-01d2b0.jpg"/>
+  </programme>
+  <programme channel="8237" start="20260503220000 +0000" stop="20260503230000 +0000">
+    <title lang="id">Tayo &amp; Pororo Songs</title>
+    <icon src="https://thumbor.prod.vidiocdn.com/01IggaPN4sSDILtEw_0MxWGgmO8=/287x162/filters:strip_icc():quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/image/8237/mentari-tv-01d2b0.jpg"/>
+  </programme>
+  <programme channel="8237" start="20260503230000 +0000" stop="20260504000000 +0000">
+    <title lang="id">Numberblocks &amp; Alphablocks</title>
+    <icon src="https://thumbor.prod.vidiocdn.com/01IggaPN4sSDILtEw_0MxWGgmO8=/287x162/filters:strip_icc():quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/image/8237/mentari-tv-01d2b0.jpg"/>
+  </programme>
+  <programme channel="8237" start="20260504000000 +0000" stop="20260504010000 +0000">
+    <title lang="id">Pinkfong &amp; Friends</title>
+    <icon src="https://thumbor.prod.vidiocdn.com/01IggaPN4sSDILtEw_0MxWGgmO8=/287x162/filters:strip_icc():quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/image/8237/mentari-tv-01d2b0.jpg"/>
+  </programme>
+  <programme channel="8237" start="20260504010000 +0000" stop="20260504023000 +0000">
+    <title lang="id">Tayo The Little Bus</title>
+    <icon src="https://thumbor.prod.vidiocdn.com/01IggaPN4sSDILtEw_0MxWGgmO8=/287x162/filters:strip_icc():quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/image/8237/mentari-tv-01d2b0.jpg"/>
+  </programme>
+  <programme channel="8237" start="20260504023000 +0000" stop="20260504040000 +0000">
+    <title lang="id">Katuri</title>
+    <desc lang="id">Serial edukasi tentang empat anak ayam yang tumbuh di hutan alam di bawah kasih sayang dan kelembutan induknya.</desc>
+    <icon src="https://thumbor.prod.vidiocdn.com/01IggaPN4sSDILtEw_0MxWGgmO8=/287x162/filters:strip_icc():quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/image/8237/mentari-tv-01d2b0.jpg"/>
+  </programme>
+  <programme channel="8237" start="20260504040000 +0000" stop="20260504060000 +0000">
+    <title lang="id">Pororo The Little Penguin</title>
+    <icon src="https://thumbor.prod.vidiocdn.com/VoA_joxu-XWrR8X0icZBK_QhxaM=/287x162/filters:strip_icc():quality(70)/vidio-media-production/uploads/tv_program/thumbnail/380862/bff933.jpg"/>
+  </programme>
+  <programme channel="8237" start="20260504060000 +0000" stop="20260504073000 +0000">
+    <title lang="id">Rainbow Bubblegem</title>
+    <icon src="https://thumbor.prod.vidiocdn.com/nu4JZ42X5vjTXRVwKBy1zyKN3dU=/287x162/filters:strip_icc():quality(70)/vidio-media-production/uploads/tv_program/thumbnail/383650/bd78ed.jpg"/>
+  </programme>
+  <programme channel="8237" start="20260504073000 +0000" stop="20260504090000 +0000">
+    <title lang="id">Bluey</title>
+    <icon src="https://thumbor.prod.vidiocdn.com/01IggaPN4sSDILtEw_0MxWGgmO8=/287x162/filters:strip_icc():quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/image/8237/mentari-tv-01d2b0.jpg"/>
+  </programme>
+  <programme channel="8237" start="20260504090000 +0000" stop="20260504100000 +0000">
+    <title lang="id">TianTian</title>
+    <icon src="https://thumbor.prod.vidiocdn.com/01IggaPN4sSDILtEw_0MxWGgmO8=/287x162/filters:strip_icc():quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/image/8237/mentari-tv-01d2b0.jpg"/>
+  </programme>
+  <programme channel="8237" start="20260504100000 +0000" stop="20260504103000 +0000">
+    <title lang="id">Cipung Abubu</title>
+    <icon src="https://thumbor.prod.vidiocdn.com/01IggaPN4sSDILtEw_0MxWGgmO8=/287x162/filters:strip_icc():quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/image/8237/mentari-tv-01d2b0.jpg"/>
+  </programme>
+  <programme channel="8237" start="20260504103000 +0000" stop="20260504110000 +0000">
+    <title lang="id">Bing</title>
+    <icon src="https://thumbor.prod.vidiocdn.com/01IggaPN4sSDILtEw_0MxWGgmO8=/287x162/filters:strip_icc():quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/image/8237/mentari-tv-01d2b0.jpg"/>
+  </programme>
+  <programme channel="8237" start="20260504110000 +0000" stop="20260504120000 +0000">
+    <title lang="id">Magic 5 the Animation</title>
+    <icon src="https://thumbor.prod.vidiocdn.com/01IggaPN4sSDILtEw_0MxWGgmO8=/287x162/filters:strip_icc():quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/image/8237/mentari-tv-01d2b0.jpg"/>
+  </programme>
+  <programme channel="8237" start="20260504130000 +0000" stop="20260504150000 +0000">
+    <title lang="id">Bioskop Keluarga Indonesia</title>
+    <icon src="https://thumbor.prod.vidiocdn.com/01IggaPN4sSDILtEw_0MxWGgmO8=/287x162/filters:strip_icc():quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/image/8237/mentari-tv-01d2b0.jpg"/>
+  </programme>
+  <programme channel="8237" start="20260504150000 +0000" stop="20260504160000 +0000">
+    <title lang="id">Pokemon</title>
+    <icon src="https://thumbor.prod.vidiocdn.com/01IggaPN4sSDILtEw_0MxWGgmO8=/287x162/filters:strip_icc():quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/image/8237/mentari-tv-01d2b0.jpg"/>
+  </programme>
+  <programme channel="8237" start="20260504160000 +0000" stop="20260504170000 +0000">
+    <title lang="id">Keluarga Somat</title>
+    <desc lang="id">Cerita kehidupan sehari-hari Pak Somat, seorang kepala keluarga yang sederhana, pekerja keras, dan penuh tingkah kocak bersama istrinya Bu Inah, anak-anaknya Dudung dan Dodi, serta tetangga-tetangganya.</desc>
+    <icon src="https://thumbor.prod.vidiocdn.com/01IggaPN4sSDILtEw_0MxWGgmO8=/287x162/filters:strip_icc():quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/image/8237/mentari-tv-01d2b0.jpg"/>
+  </programme>
+  <programme channel="8237" start="20260504160000 +0000" stop="20260504170000 +0000">
     <title lang="id">Keluarga Somat</title>
     <desc lang="id">Cerita kehidupan sehari-hari Pak Somat, seorang kepala keluarga yang sederhana, pekerja keras, dan penuh tingkah kocak bersama istrinya Bu Inah, anak-anaknya Dudung dan Dodi, serta tetangga-tetangganya.</desc>
     <icon src="https://thumbor.prod.vidiocdn.com/01IggaPN4sSDILtEw_0MxWGgmO8=/287x162/filters:strip_icc():quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/image/8237/mentari-tv-01d2b0.jpg"/>
@@ -11828,22 +12033,22 @@
     <title lang="id">Filler</title>
     <icon src="https://thumbor.prod.vidiocdn.com/nY0aFklpYf6yONLaFJjxhiSuthc=/287x162/filters:strip_icc():quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/image/6786/champions-tv-3-76ca7c.jpg"/>
   </programme>
-  <programme channel="6786" start="20260501210000 +0000" stop="20260502040000 +0000">
+  <programme channel="6786" start="20260501210000 +0000" stop="20260502041600 +0000">
     <title lang="id">Day 2 Round 4-7 : NFL DRAFT 2026</title>
     <desc lang="id">Day 2 Round 4-7</desc>
     <icon src="https://thumbor.prod.vidiocdn.com/nY0aFklpYf6yONLaFJjxhiSuthc=/287x162/filters:strip_icc():quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/image/6786/champions-tv-3-76ca7c.jpg"/>
   </programme>
-  <programme channel="6786" start="20260502040000 +0000" stop="20260502060000 +0000">
+  <programme channel="6786" start="20260502041600 +0000" stop="20260502061600 +0000">
     <title lang="id">LAZIO vs UDINESE : Serie A 2025/26</title>
     <desc lang="id">LAZIO vs UDINESE</desc>
     <icon src="https://thumbor.prod.vidiocdn.com/nY0aFklpYf6yONLaFJjxhiSuthc=/287x162/filters:strip_icc():quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/image/6786/champions-tv-3-76ca7c.jpg"/>
   </programme>
-  <programme channel="6786" start="20260502060000 +0000" stop="20260502080000 +0000">
+  <programme channel="6786" start="20260502061600 +0000" stop="20260502081600 +0000">
     <title lang="id">TORINO vs INTER : Serie A 2025/26</title>
     <desc lang="id">TORINO vs INTER</desc>
     <icon src="https://thumbor.prod.vidiocdn.com/nY0aFklpYf6yONLaFJjxhiSuthc=/287x162/filters:strip_icc():quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/image/6786/champions-tv-3-76ca7c.jpg"/>
   </programme>
-  <programme channel="6786" start="20260502080000 +0000" stop="20260502083000 +0000">
+  <programme channel="6786" start="20260502081600 +0000" stop="20260502083000 +0000">
     <title lang="id">Inside - Round 35 : Serie A 2025/26 - Magazine</title>
     <desc lang="id">Inside - Round 35</desc>
     <icon src="https://thumbor.prod.vidiocdn.com/nY0aFklpYf6yONLaFJjxhiSuthc=/287x162/filters:strip_icc():quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/image/6786/champions-tv-3-76ca7c.jpg"/>
@@ -12362,7 +12567,7 @@
   <programme channel="8121" start="20260502125500 +0000" stop="20260502144000 +0000">
     <title lang="id">Fist Of Legend</title>
     <desc lang="id">In 1937, a Chinese martial artist returns to Shanghai to find his teacher dead and his school harassed by the Japanese.</desc>
-    <icon src="https://thumbor.prod.vidiocdn.com/oAPRNCCItb9chPxHY8pd0yBgCEg=/287x162/filters:strip_icc():quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/image/8121/rock-action-3cc936.jpg"/>
+    <icon src="https://thumbor.prod.vidiocdn.com/uMfOOpYsXzNiUUZl6wW0NrP0pCk=/287x162/filters:strip_icc():quality(70)/vidio-media-production/uploads/livestreaming/schedule/thumbnail/5043348/65ce14.jpg"/>
   </programme>
   <programme channel="8121" start="20260502144000 +0000" stop="20260502165500 +0000">
     <title lang="id">Terminator 2: Judgement Day</title>

@@ -7963,16 +7963,16 @@
     <programme start="20260502155500 +0000" stop="20260502162500 +0000" channel="ABC Australia HD.starhub">
         <title>Asia News Week (2026)</title>
     </programme>
-    <programme start="20260501133000 +0000" stop="20260501170000 +0000" channel="Asianet Movies.starhub">
+    <programme start="20260501133000 +0000" stop="20260501165500 +0000" channel="Asianet Movies.starhub">
         <title>Christian Brothers</title>
     </programme>
-    <programme start="20260501170000 +0000" stop="20260501193000 +0000" channel="Asianet Movies.starhub">
+    <programme start="20260501165500 +0000" stop="20260501192000 +0000" channel="Asianet Movies.starhub">
         <title>Ranam</title>
     </programme>
-    <programme start="20260501193000 +0000" stop="20260501213000 +0000" channel="Asianet Movies.starhub">
+    <programme start="20260501192000 +0000" stop="20260501214000 +0000" channel="Asianet Movies.starhub">
         <title>Onnum Mindathe</title>
     </programme>
-    <programme start="20260501213000 +0000" stop="20260501233000 +0000" channel="Asianet Movies.starhub">
+    <programme start="20260501214000 +0000" stop="20260501233000 +0000" channel="Asianet Movies.starhub">
         <title>By The People</title>
     </programme>
     <programme start="20260501233000 +0000" stop="20260502013000 +0000" channel="Asianet Movies.starhub">
