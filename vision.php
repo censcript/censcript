@@ -526,12 +526,6 @@
 <programme start="20260502154500 +0000" stop="20260502163000 +0000" channel="Trans 7.vision">
 <title>The Police</title>
 </programme>
-<programme start="20260502163000 +0000" stop="20260502174500 +0000" channel="Trans 7.vision">
-<title>Theater Malam</title>
-</programme>
-<programme start="20260502174500 +0000" stop="20260502183000 +0000" channel="Trans 7.vision">
-<title>Superbike 2026 Hungary</title>
-</programme>
 <programme start="20260502183000 +0000" stop="20260502190000 +0000" channel="Trans 7.vision">
 <title>Best Fishing</title>
 </programme>
@@ -612,9 +606,6 @@
 </programme>
 <programme start="20260502153000 +0000" stop="20260502180000 +0000" channel="ANTV.vision">
 <title>Serie A Liga Italia</title>
-</programme>
-<programme start="20260502180000 +0000" stop="20260502200000 +0000" channel="ANTV.vision">
-<title>Dreadnaught</title>
 </programme>
 <programme start="20260502200000 +0000" stop="20260502220000 +0000" channel="ANTV.vision">
 <title>English Babu Desi Mem</title>
@@ -1496,5 +1487,14 @@
 <title>TVRI</title>
 </programme>
 <programme start="20260502130000 +0000" stop="20260502150000 +0000" channel="TVRI.vision">
+<title>TVRI</title>
+</programme>
+<programme start="20260502150000 +0000" stop="20260502170000 +0000" channel="TVRI.vision">
+<title>TVRI</title>
+</programme>
+<programme start="20260502170000 +0000" stop="20260502190000 +0000" channel="TVRI.vision">
+<title>TVRI</title>
+</programme>
+<programme start="20260502190000 +0000" stop="20260502210000 +0000" channel="TVRI.vision">
 <title>TVRI</title>
 </programme>

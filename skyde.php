@@ -2545,7 +2545,7 @@
 <programme start="20260502143000 +0000" stop="20260502145000 +0000" channel="Sky Sport Austria 2 HD.skyde">
     <title>Es folgt: Live Admiral Bundesliga</title>
 </programme>
-<programme start="20260502145000 +0000" stop="20260502170000 +0000" channel="Sky Sport Austria 2 HD.skyde">
+<programme start="20260502145000 +0000" stop="20260502173000 +0000" channel="Sky Sport Austria 2 HD.skyde">
     <title>Live Admiral BL: SV Oberbank Ried - FC Blau-Weiß Linz, 30. Runde</title>
 </programme>
 <programme start="20260502143000 +0000" stop="20260502145000 +0000" channel="Sky Sport Austria 3 HD.skyde">
@@ -2836,10 +2836,10 @@
 <programme start="20260502024500 +0000" stop="20260502030000 +0000" channel="Sky Sport Golf HD.skyde">
     <title>Golf: Tee Time Stories (4)</title>
 </programme>
-<programme start="20260502030000 +0000" stop="20260502070000 +0000" channel="Sky Sport Golf HD.skyde">
+<programme start="20260502030000 +0000" stop="20260502072000 +0000" channel="Sky Sport Golf HD.skyde">
     <title>Live Asian Tour: Maekyung Open Golf Championship, 3. Tag in Seongnam-si (Südkorea)</title>
 </programme>
-<programme start="20260502070000 +0000" stop="20260502100000 +0000" channel="Sky Sport Golf HD.skyde">
+<programme start="20260502072000 +0000" stop="20260502100000 +0000" channel="Sky Sport Golf HD.skyde">
     <title>LPGA: Riviera Maya Open at Mayakoba, 2. Tag in Quintana Roo (Mexiko)</title>
 </programme>
 <programme start="20260502100000 +0000" stop="20260502130000 +0000" channel="Sky Sport Golf HD.skyde">
@@ -2908,14 +2908,14 @@
 <programme start="20260502133000 +0000" stop="20260502135000 +0000" channel="Sky Sport Mix HD.skyde">
     <title>PL: Best Freekicks</title>
 </programme>
-<programme start="20260502135000 +0000" stop="20260502160000 +0000" channel="Sky Sport Mix HD.skyde">
+<programme start="20260502135000 +0000" stop="20260502160500 +0000" channel="Sky Sport Mix HD.skyde">
     <title>Live PL: Newcastle United - Brighton &amp; Hove Albion, 35. Spieltag</title>
 </programme>
-<programme start="20260502160000 +0000" stop="20260502161500 +0000" channel="Sky Sport Mix HD.skyde">
-    <title>Frauen-BL: Alle Spiele, alle Tore, 24. Spieltag, Samstag</title>
+<programme start="20260502160500 +0000" stop="20260502170000 +0000" channel="Sky Sport Mix HD.skyde">
+    <title>Eishockey: NHL Tonight - Playoff Edition</title>
 </programme>
-<programme start="20260502161500 +0000" stop="20260502171500 +0000" channel="Sky Sport Mix HD.skyde">
-    <title>NHL: Tonight - Playoff Edition</title>
+<programme start="20260502170000 +0000" stop="20260502171500 +0000" channel="Sky Sport Mix HD.skyde">
+    <title>Frauen-BL: Alle Spiele, alle Tore, 24. Spieltag, Samstag</title>
 </programme>
 <programme start="20260502171500 +0000" stop="20260502191500 +0000" channel="Sky Sport Mix HD.skyde">
     <title>NHL: Buffalo Sabres @ Boston Bruins, Playoffs, 1. Runde, Spiel 6</title>
@@ -3175,28 +3175,10 @@
 <programme start="20260502211500 +0000" stop="20260502233000 +0000" channel="Sky Sport Top Event HD.skyde">
     <title>Live LPGA: Riviera Maya Open at Mayakoba, 3. Tag in Quintana Roo (Mexiko)</title>
 </programme>
-<programme start="20260502221000 +0000" stop="20260502223000 +0000" channel="Sky Sport 1 HD.skyde">
-    <title>Es folgt: Live NBA</title>
-</programme>
-<programme start="20260502223000 +0000" stop="20260502233000 +0000" channel="Sky Sport 1 HD.skyde">
-    <title>Live NBA: Showtime</title>
-</programme>
-<programme start="20260502233000 +0000" stop="20260503020000 +0000" channel="Sky Sport 1 HD.skyde">
-    <title>Live NBA: Philadelphia 76ers @ Boston Celtics, Playoffs, Runde 1, Spiel 7</title>
-</programme>
-<programme start="20260503020000 +0000" stop="20260503080000 +0000" channel="Sky Sport 1 HD.skyde">
-    <title>Live NBA: Showtime - Post Show</title>
-</programme>
-<programme start="20260503185500 +0000" stop="20260503191500 +0000" channel="Sky Sport 1 HD.skyde">
-    <title>Es folgt: LIVE NBA</title>
-</programme>
-<programme start="20260503191500 +0000" stop="20260503220000 +0000" channel="Sky Sport 1 HD.skyde">
-    <title>Live NBA: Orlando Magic @ Detroit Pistons, Playoffs, Runde 1, Spiel 7</title>
-</programme>
 <programme start="20260502110000 +0000" stop="20260502112000 +0000" channel="Sky Sport 8 HD.skyde">
     <title>Es folgt: LIVE EFL</title>
 </programme>
-<programme start="20260502112000 +0000" stop="20260502134500 +0000" channel="Sky Sport 8 HD.skyde">
+<programme start="20260502112000 +0000" stop="20260502140000 +0000" channel="Sky Sport 8 HD.skyde">
     <title>Live EFL: AFC Wrexham - FC Middlesbrough, 46. Spieltag</title>
 </programme>
 <programme start="20260501224000 +0000" stop="20260501232500 +0000" channel="SYFY HD.skyde">
