@@ -2545,7 +2545,7 @@
 <programme start="20260502143000 +0000" stop="20260502145000 +0000" channel="Sky Sport Austria 2 HD.skyde">
     <title>Es folgt: Live Admiral Bundesliga</title>
 </programme>
-<programme start="20260502145000 +0000" stop="20260502170000 +0000" channel="Sky Sport Austria 2 HD.skyde">
+<programme start="20260502145000 +0000" stop="20260502173000 +0000" channel="Sky Sport Austria 2 HD.skyde">
     <title>Live Admiral BL: SV Oberbank Ried - FC Blau-Weiß Linz, 30. Runde</title>
 </programme>
 <programme start="20260502143000 +0000" stop="20260502145000 +0000" channel="Sky Sport Austria 3 HD.skyde">
@@ -2558,13 +2558,13 @@
     <title>Es folgt: Live Tennis ATP Tour</title>
 </programme>
 <programme start="20260502120000 +0000" stop="20260502143000 +0000" channel="Sky Sport Austria 4 HD.skyde">
-    <title>Live ATP 1000: Doppelfinale, Mutua Madrid Open in Madrid (ESP), Doppelfinale</title>
+    <title>Live ATP 1000: G. Andreozzi (ARG) / M. Guinard (FRA) - H. Heliovaara (FIN) / H. Patten (GBR), Mutua Madrid Open in Madrid (ESP), Doppelfinale</title>
 </programme>
 <programme start="20260502143000 +0000" stop="20260502145000 +0000" channel="Sky Sport Austria 4 HD.skyde">
     <title>WTA: Greatest 50</title>
 </programme>
 <programme start="20260502145000 +0000" stop="20260502173000 +0000" channel="Sky Sport Austria 4 HD.skyde">
-    <title>Live WTA 1000: Finale, Mutua Madrid Open in Madrid (ESP), Finale</title>
+    <title>Live WTA 1000: M. Kostyuk (UKR) - M. Andreeva, Mutua Madrid Open in Madrid (ESP), Finale</title>
 </programme>
 <programme start="20260501221500 +0000" stop="20260501223000 +0000" channel="Sky Sport Bundesliga HD.skyde">
     <title>BL: Im Herzen von Europa - Das Eintracht Magazin</title>
@@ -2758,7 +2758,7 @@
 <programme start="20260502103000 +0000" stop="20260502130000 +0000" channel="Sky Sport Bundesliga 7 HD.skyde">
     <title>Live 2. BL: Samstags-Konferenz, 32. Spieltag</title>
 </programme>
-<programme start="20260502130000 +0000" stop="20260502141500 +0000" channel="Sky Sport Bundesliga 7 HD.skyde">
+<programme start="20260502130000 +0000" stop="20260502134500 +0000" channel="Sky Sport Bundesliga 7 HD.skyde">
     <title>Live 2. BL Alle Spiele, alle Tore: Die Vodafone Highlight-Show, 32. Spieltag, Samstag</title>
 </programme>
 <programme start="20260501224500 +0000" stop="20260501234500 +0000" channel="Sky Sport F1 HD.skyde">

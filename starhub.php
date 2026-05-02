@@ -4210,14 +4210,17 @@
     <programme start="20260502030000 +0000" stop="20260502070000 +0000" channel="Hub Sports 3 HD.starhub">
         <title>The 45th GS Caltex Maekyung Open Golf C&#039;ship Round 3</title>
     </programme>
-    <programme start="20260502070000 +0000" stop="20260502100000 +0000" channel="Hub Sports 3 HD.starhub">
-        <title>MEXICO Riviera Maya Open at Mayakoba Round 2</title>
+    <programme start="20260502070000 +0000" stop="20260502110000 +0000" channel="Hub Sports 3 HD.starhub">
+        <title>Turkish Airlines Open Day 3 (JIP)</title>
     </programme>
-    <programme start="20260502100000 +0000" stop="20260502103000 +0000" channel="Hub Sports 3 HD.starhub">
+    <programme start="20260502110000 +0000" stop="20260502140000 +0000" channel="Hub Sports 3 HD.starhub">
+        <title>Cadillac Championship Round 2</title>
+    </programme>
+    <programme start="20260502140000 +0000" stop="20260502143000 +0000" channel="Hub Sports 3 HD.starhub">
+        <title>Rory McIlroy’s Ode To The Melbourne Sandbelt</title>
+    </programme>
+    <programme start="20260502143000 +0000" stop="20260502150000 +0000" channel="Hub Sports 3 HD.starhub">
         <title>Episode 14</title>
-    </programme>
-    <programme start="20260502103000 +0000" stop="20260502150000 +0000" channel="Hub Sports 3 HD.starhub">
-        <title>Turkish Airlines Open Day 3</title>
     </programme>
     <programme start="20260502150000 +0000" stop="20260502160000 +0000" channel="Hub Sports 3 HD.starhub">
         <title>Zurich Classic of New Orleans</title>
