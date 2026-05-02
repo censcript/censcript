@@ -601,6 +601,9 @@
 <programme start="20260501230000 +0000" stop="20260502003000 +0000" channel="ANTV.vision">
 <title>Kasautii</title>
 </programme>
+<programme start="20260502023000 +0000" stop="20260502060000 +0000" channel="ANTV.vision">
+<title>Chal Mere Bhai</title>
+</programme>
 <programme start="20260502060000 +0000" stop="20260502080000 +0000" channel="ANTV.vision">
 <title>Jhanak</title>
 </programme>
@@ -609,6 +612,12 @@
 </programme>
 <programme start="20260502100000 +0000" stop="20260502120000 +0000" channel="ANTV.vision">
 <title>Vasudha</title>
+</programme>
+<programme start="20260502120000 +0000" stop="20260502140000 +0000" channel="ANTV.vision">
+<title>Jampang 2</title>
+</programme>
+<programme start="20260502140000 +0000" stop="20260502153000 +0000" channel="ANTV.vision">
+<title>Perjanjian Di Malam Keramat</title>
 </programme>
 <programme start="20260502153000 +0000" stop="20260502180000 +0000" channel="ANTV.vision">
 <title>Serie A Liga Italia</title>
@@ -1487,14 +1496,5 @@
 <title>TVRI</title>
 </programme>
 <programme start="20260502070000 +0000" stop="20260502090000 +0000" channel="TVRI.vision">
-<title>TVRI</title>
-</programme>
-<programme start="20260502090000 +0000" stop="20260502110000 +0000" channel="TVRI.vision">
-<title>TVRI</title>
-</programme>
-<programme start="20260502110000 +0000" stop="20260502130000 +0000" channel="TVRI.vision">
-<title>TVRI</title>
-</programme>
-<programme start="20260502130000 +0000" stop="20260502150000 +0000" channel="TVRI.vision">
 <title>TVRI</title>
 </programme>

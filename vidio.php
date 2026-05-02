@@ -858,30 +858,24 @@
     <desc lang="id">Saksikan! BRI Super League 2025/26 - Is Back!" 18 Klub Terbaik Siap Bertarung Di Kasta Tertinggi Sepak Bola Indonesia! Pertandingan Semakin Seru! Jangan Lewatkan BRI Super League 2025/26 Mulai 8 Agustus 2025, Pkl 15.00 &amp; 18.30 WIB, Live &amp; Eksklusif Hanya Di Indosiar dan Vidio #Indosiarrumahsepakbolaindonesia</desc>
     <icon src="https://thumbor.prod.vidiocdn.com/cBZL7ITaJCof6cqtayFee2uJCX8=/287x162/filters:strip_icc():quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/image/205/indosiar-d9a3d0.jpg"/>
   </programme>
-  <programme channel="205" start="20260502141000 +0000" stop="20260502163000 +0000">
-    <title lang="id">D' Academy 7 Mega Konser Bagimu Guru</title>
+  <programme channel="205" start="20260502141000 +0000" stop="20260502180000 +0000">
+    <title lang="id">D' Academy 7 Mega Konser : Bagimu Guru</title>
     <desc lang="id">Panggung Megah Konser D'Academy 7 Siap Digelar! Audisi Online dan Offline Telah Usai! Siapakah Yang Akan Lolos Ke Panggung Megah D'Academy 7? Saksikan D'Academy 7 Mulai Senin, 9 Juni, Setiap Senin-Jumat Live Pkl 20.00 WIB Hanya Di Indosiar. #Indosiarbawadangdutberkelasberkualitas</desc>
     <icon src="https://thumbor.prod.vidiocdn.com/VusYIGjhwUMU4qKWZB5q2h5_MnE=/287x162/filters:strip_icc():quality(70)/vidio-media-production/uploads/livestreaming/schedule/thumbnail/5028240/fd7618.jpg"/>
   </programme>
-  <programme channel="205" start="20260502163000 +0000" stop="20260502183000 +0000">
+  <programme channel="205" start="20260502141000 +0000" stop="20260502180000 +0000">
+    <title lang="id">D' Academy 7 Mega Konser : Bagimu Guru</title>
+    <desc lang="id">Panggung Megah Konser D'Academy 7 Siap Digelar! Audisi Online dan Offline Telah Usai! Siapakah Yang Akan Lolos Ke Panggung Megah D'Academy 7? Saksikan D'Academy 7 Mulai Senin, 9 Juni, Setiap Senin-Jumat Live Pkl 20.00 WIB Hanya Di Indosiar. #Indosiarbawadangdutberkelasberkualitas</desc>
+    <icon src="https://thumbor.prod.vidiocdn.com/VusYIGjhwUMU4qKWZB5q2h5_MnE=/287x162/filters:strip_icc():quality(70)/vidio-media-production/uploads/livestreaming/schedule/thumbnail/5028240/fd7618.jpg"/>
+  </programme>
+  <programme channel="205" start="20260502180000 +0000" stop="20260502191300 +0000">
+    <title lang="id">Malut United vs PERSIS Solo : BRI Super League 2025/26</title>
+    <icon src="https://thumbor.prod.vidiocdn.com/cBZL7ITaJCof6cqtayFee2uJCX8=/287x162/filters:strip_icc():quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/image/205/indosiar-d9a3d0.jpg"/>
+  </programme>
+  <programme channel="205" start="20260502191300 +0000" stop="20260502213000 +0000">
     <title lang="id">Mega Film Asia : Dragon Blade</title>
     <desc lang="id">Mega Film Asia Adalah Program Yang Memutarkan Film-Film Asia Yang Ditayangkan Di Indosiar. Acara Ini Ditayangkan Perdana Pada Tahun 1996 Silam.</desc>
     <icon src="https://thumbor.prod.vidiocdn.com/JqGXIeTuIfvL0pPQWdQqRTOu288=/287x162/filters:strip_icc():quality(70)/vidio-media-production/uploads/livestreaming/schedule/thumbnail/5028294/6ce183.jpg"/>
-  </programme>
-  <programme channel="205" start="20260502163000 +0000" stop="20260502183000 +0000">
-    <title lang="id">Mega Film Asia : Dragon Blade</title>
-    <desc lang="id">Mega Film Asia Adalah Program Yang Memutarkan Film-Film Asia Yang Ditayangkan Di Indosiar. Acara Ini Ditayangkan Perdana Pada Tahun 1996 Silam.</desc>
-    <icon src="https://thumbor.prod.vidiocdn.com/JqGXIeTuIfvL0pPQWdQqRTOu288=/287x162/filters:strip_icc():quality(70)/vidio-media-production/uploads/livestreaming/schedule/thumbnail/5028294/6ce183.jpg"/>
-  </programme>
-  <programme channel="205" start="20260502183000 +0000" stop="20260502200000 +0000">
-    <title lang="id">Mega Film Asia : The Bodyguard</title>
-    <desc lang="id">Mega Film Asia Adalah Program Yang Memutarkan Film-Film Asia Yang Ditayangkan Di Indosiar. Acara Ini Ditayangkan Perdana Pada Tahun 1996 Silam.</desc>
-    <icon src="https://thumbor.prod.vidiocdn.com/N7kwwGxHdteNfxdVz6K9PqdWFhk=/287x162/filters:strip_icc():quality(70)/vidio-media-production/uploads/livestreaming/schedule/thumbnail/5028295/b58bb8.jpg"/>
-  </programme>
-  <programme channel="205" start="20260502200000 +0000" stop="20260502213000 +0000">
-    <title lang="id">Mega Film Asia : Tiger Cage Ii</title>
-    <desc lang="id">Mega Film Asia Adalah Program Yang Memutarkan Film-Film Asia Yang Ditayangkan Di Indosiar. Acara Ini Ditayangkan Perdana Pada Tahun 1996 Silam.</desc>
-    <icon src="https://thumbor.prod.vidiocdn.com/98bGR3DCg95eUNZl_FHlRnlyfPk=/287x162/filters:strip_icc():quality(70)/vidio-media-production/uploads/livestreaming/schedule/thumbnail/5028296/897ec9.jpg"/>
   </programme>
   <programme channel="205" start="20260502213000 +0000" stop="20260502230000 +0000">
     <title lang="id">Fokus Pagi</title>
@@ -6358,10 +6352,10 @@
     <desc lang="id">TBC v TBC</desc>
     <icon src="https://thumbor.prod.vidiocdn.com/5yUHYfv_b1sZi7kdFElm8JqF2RY=/287x162/filters:strip_icc():quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/image/6299/bein-1-4bd997.jpg"/>
   </programme>
-  <programme channel="6299" start="20260504185500 +0000" stop="20260504210000 +0000">
-    <title lang="id">Sevilla vs Real Sociedad : LaLiga 2025/26</title>
-    <desc lang="id">Sevilla vs Real Sociedad</desc>
-    <icon src="https://thumbor.prod.vidiocdn.com/5yUHYfv_b1sZi7kdFElm8JqF2RY=/287x162/filters:strip_icc():quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/image/6299/bein-1-4bd997.jpg"/>
+  <programme channel="6299" start="20260504190000 +0000" stop="20260504210000 +0000">
+    <title lang="id">Sevilla vs Real Sociedad - LaLiga</title>
+    <desc lang="id">Nonton streaming pertandingan seru Sevilla vs Real Sociedad - LaLiga. Saksikan aksi-aksi terbaik dari tim yang bersaing ketat untuk meraih kemenangan. Dapatkan informasi lengkap mengenai jadwal pertandingan dan hasil pertandingan terbaru hanya di Vidio.</desc>
+    <icon src="https://thumbor.prod.vidiocdn.com/VdHV8bCPCgk1RDrkx0W-MDX9klo=/287x162/filters:strip_icc():quality(70)/vidio-media-production/uploads/livestreaming/schedule/thumbnail/5057807/c3cf2a.jpg"/>
   </programme>
   <programme channel="6299" start="20260504210000 +0000" stop="20260504230000 +0000">
     <title lang="id">FORMULA 1 CRYPTO.COM MIAMI GRAND PRIX 2026 : Formula 1 Main Race 2026</title>
@@ -14926,17 +14920,17 @@
     <desc lang="id">HIGHLIGHT FULL IMPACT ROUND 34</desc>
     <icon src="https://thumbor.prod.vidiocdn.com/xgkik6iws0EJ01bi5cJsIjYWjOM=/287x162/filters:strip_icc():quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/image/6686/champions-tv-2-681a27.jpg"/>
   </programme>
-  <programme channel="6686" start="20260502150000 +0000" stop="20260502170000 +0000">
+  <programme channel="6686" start="20260502150000 +0000" stop="20260502165900 +0000">
     <title lang="id">Final - WTA 1000: Mutua Madrid Open 2026</title>
     <desc lang="id">Nonton streaming pertandingan seru Final - WTA 1000: Mutua Madrid Open 2026. Saksikan aksi-aksi terbaik dari tim yang bersaing ketat untuk meraih kemenangan. Dapatkan informasi lengkap mengenai jadwal pertandingan dan hasil pertandingan terbaru hanya di Vidio.</desc>
     <icon src="https://thumbor.prod.vidiocdn.com/j5oTflrLD8QYr0nUtuMnsiP1N_k=/287x162/filters:strip_icc():quality(70)/vidio-media-production/uploads/livestreaming/schedule/thumbnail/5036144/cdbe95.jpg"/>
   </programme>
-  <programme channel="6686" start="20260502150000 +0000" stop="20260502170000 +0000">
-    <title lang="id">Final - WTA 1000: Mutua Madrid Open 2026</title>
-    <desc lang="id">Nonton streaming pertandingan seru Final - WTA 1000: Mutua Madrid Open 2026. Saksikan aksi-aksi terbaik dari tim yang bersaing ketat untuk meraih kemenangan. Dapatkan informasi lengkap mengenai jadwal pertandingan dan hasil pertandingan terbaru hanya di Vidio.</desc>
-    <icon src="https://thumbor.prod.vidiocdn.com/j5oTflrLD8QYr0nUtuMnsiP1N_k=/287x162/filters:strip_icc():quality(70)/vidio-media-production/uploads/livestreaming/schedule/thumbnail/5036144/cdbe95.jpg"/>
+  <programme channel="6686" start="20260502165900 +0000" stop="20260502190000 +0000">
+    <title lang="id">FAMALICAO VS BENFICA : PORTUGUESE LEAGUE 2025/26</title>
+    <desc lang="id">FAMALICAO VS BENFICA</desc>
+    <icon src="https://thumbor.prod.vidiocdn.com/xgkik6iws0EJ01bi5cJsIjYWjOM=/287x162/filters:strip_icc():quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/image/6686/champions-tv-2-681a27.jpg"/>
   </programme>
-  <programme channel="6686" start="20260502170000 +0000" stop="20260502190000 +0000">
+  <programme channel="6686" start="20260502165900 +0000" stop="20260502190000 +0000">
     <title lang="id">FAMALICAO VS BENFICA : PORTUGUESE LEAGUE 2025/26</title>
     <desc lang="id">FAMALICAO VS BENFICA</desc>
     <icon src="https://thumbor.prod.vidiocdn.com/xgkik6iws0EJ01bi5cJsIjYWjOM=/287x162/filters:strip_icc():quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/image/6686/champions-tv-2-681a27.jpg"/>
