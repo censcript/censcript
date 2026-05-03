@@ -13814,12 +13814,12 @@
     <desc lang="id">Nonton streaming pertandingan seru Real Betis vs Oviedo - LaLiga. Saksikan aksi-aksi terbaik dari tim yang bersaing ketat untuk meraih kemenangan. Dapatkan informasi lengkap mengenai jadwal pertandingan dan hasil pertandingan terbaru hanya di Vidio.</desc>
     <icon src="https://thumbor.prod.vidiocdn.com/COsFcQZOovBSz8cooFypuC0L54U=/287x162/filters:strip_icc():quality(70)/vidio-media-production/uploads/livestreaming/schedule/thumbnail/5038933/5e689e.jpg"/>
   </programme>
-  <programme channel="17875" start="20260503183000 +0000" stop="20260503185500 +0000">
+  <programme channel="17875" start="20260503183000 +0000" stop="20260503185400 +0000">
     <title lang="id">Canada vs Japan - Tri-Nations Challenge : HSBC SVNS Series 2026</title>
     <desc lang="id">Canada vs Japan - Tri-Nations Challenge</desc>
     <icon src="https://thumbor.prod.vidiocdn.com/VmoYokSeKr_3SubUXC-rMC-EtQM=/287x162/filters:strip_icc():quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/image/17875/bein-2-25a5f9.jpg"/>
   </programme>
-  <programme channel="17875" start="20260503190000 +0000" stop="20260503210000 +0000">
+  <programme channel="17875" start="20260503185400 +0000" stop="20260503210000 +0000">
     <title lang="id">Espanyol vs Real Madrid - LaLiga</title>
     <desc lang="id">Nonton streaming pertandingan seru Espanyol vs Real Madrid - LaLiga. Saksikan aksi-aksi terbaik dari tim yang bersaing ketat untuk meraih kemenangan. Dapatkan informasi lengkap mengenai jadwal pertandingan dan hasil pertandingan terbaru hanya di Vidio.</desc>
     <icon src="https://thumbor.prod.vidiocdn.com/zPGeukqJDCCvg2lE-mSlEufogag=/287x162/filters:strip_icc():quality(70)/vidio-media-production/uploads/livestreaming/schedule/thumbnail/5055570/fc2b9f.jpg"/>
@@ -16601,14 +16601,6 @@
     <desc lang="id">NEC VS TELSTAR</desc>
     <icon src="https://thumbor.prod.vidiocdn.com/xgkik6iws0EJ01bi5cJsIjYWjOM=/287x162/filters:strip_icc():quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/image/6686/champions-tv-2-681a27.jpg"/>
   </programme>
-  <programme channel="6686" start="20260503130000 +0000" stop="20260503140000 +0000">
-    <title lang="id">Highlight</title>
-    <icon src="https://thumbor.prod.vidiocdn.com/xgkik6iws0EJ01bi5cJsIjYWjOM=/287x162/filters:strip_icc():quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/image/6686/champions-tv-2-681a27.jpg"/>
-  </programme>
-  <programme channel="6686" start="20260503140000 +0000" stop="20260503143000 +0000">
-    <title lang="id">Filler</title>
-    <icon src="https://thumbor.prod.vidiocdn.com/xgkik6iws0EJ01bi5cJsIjYWjOM=/287x162/filters:strip_icc():quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/image/6686/champions-tv-2-681a27.jpg"/>
-  </programme>
   <programme channel="6686" start="20260503144000 +0000" stop="20260503164500 +0000">
     <title lang="id">DUTCH LEAGUE EREDIVISIE 2025/26</title>
     <icon src="https://thumbor.prod.vidiocdn.com/xgkik6iws0EJ01bi5cJsIjYWjOM=/287x162/filters:strip_icc():quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/image/6686/champions-tv-2-681a27.jpg"/>
@@ -16618,12 +16610,12 @@
     <desc lang="id">HIGHLIGHT FULL IMPACT ROUND 34</desc>
     <icon src="https://thumbor.prod.vidiocdn.com/xgkik6iws0EJ01bi5cJsIjYWjOM=/287x162/filters:strip_icc():quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/image/6686/champions-tv-2-681a27.jpg"/>
   </programme>
-  <programme channel="6686" start="20260503170000 +0000" stop="20260503190000 +0000">
+  <programme channel="6686" start="20260503170000 +0000" stop="20260503185700 +0000">
     <title lang="id">Inter Vs Roma : Serie A 2025/26</title>
     <desc lang="id">INTER vs ROMA</desc>
     <icon src="https://thumbor.prod.vidiocdn.com/xgkik6iws0EJ01bi5cJsIjYWjOM=/287x162/filters:strip_icc():quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/image/6686/champions-tv-2-681a27.jpg"/>
   </programme>
-  <programme channel="6686" start="20260503190000 +0000" stop="20260503210000 +0000">
+  <programme channel="6686" start="20260503185700 +0000" stop="20260503210000 +0000">
     <title lang="id">Leicester City Vs Hull City : EFL 2025/26 Championship</title>
     <desc lang="id">LEICESTER CITY vs HULL CITY</desc>
     <icon src="https://thumbor.prod.vidiocdn.com/xgkik6iws0EJ01bi5cJsIjYWjOM=/287x162/filters:strip_icc():quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/image/6686/champions-tv-2-681a27.jpg"/>

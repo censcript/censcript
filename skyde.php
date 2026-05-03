@@ -2471,7 +2471,7 @@
     <title>Red Eye</title>
 </programme>
 <programme start="20260502231500 +0000" stop="20260503000000 +0000" channel="Sky Sport Austria 1 HD.skyde">
-    <title>Admiral BL: Alle Spiele, alle Tore 30. Runde (Samstag)</title>
+    <title>Live Admiral BL: Alle Spiele, alle Tore 30. Runde (Samstag)</title>
 </programme>
 <programme start="20260503000000 +0000" stop="20260503003000 +0000" channel="Sky Sport Austria 1 HD.skyde">
     <title>UEFA CL: Magazin</title>
@@ -2563,13 +2563,13 @@
 <programme start="20260503051500 +0000" stop="20260503054500 +0000" channel="Sky Sport Bundesliga HD.skyde">
     <title>Meine Geschichte: Das Leben von Patrick Mainka</title>
 </programme>
-<programme start="20260503054500 +0000" stop="20260503074000 +0000" channel="Sky Sport Bundesliga HD.skyde">
+<programme start="20260503054500 +0000" stop="20260503074500 +0000" channel="Sky Sport Bundesliga HD.skyde">
     <title>BL: Bayer Leverkusen - RB Leipzig, tipico Topspiel der Woche, 32. Spieltag</title>
 </programme>
-<programme start="20260503074000 +0000" stop="20260503075500 +0000" channel="Sky Sport Bundesliga HD.skyde">
+<programme start="20260503074500 +0000" stop="20260503080000 +0000" channel="Sky Sport Bundesliga HD.skyde">
     <title>BL: Highlights XXL: FCB - FCH, 32. Spieltag</title>
 </programme>
-<programme start="20260503075500 +0000" stop="20260503085500 +0000" channel="Sky Sport Bundesliga HD.skyde">
+<programme start="20260503080000 +0000" stop="20260503085500 +0000" channel="Sky Sport Bundesliga HD.skyde">
     <title>BL: Alle Spiel, alle Stimmen, 31. Spieltag</title>
 </programme>
 <programme start="20260503085500 +0000" stop="20260503103000 +0000" channel="Sky Sport Bundesliga HD.skyde">
@@ -2593,8 +2593,11 @@
 <programme start="20260503173000 +0000" stop="20260503181500 +0000" channel="Sky Sport Bundesliga HD.skyde">
     <title>Live BL: Highlights XXL: BMG - BVB, 32. Spieltag</title>
 </programme>
-<programme start="20260503181500 +0000" stop="20260503184500 +0000" channel="Sky Sport Bundesliga HD.skyde">
-    <title>2. BL: Schalke - Dein Aufstieg</title>
+<programme start="20260503181500 +0000" stop="20260503183000 +0000" channel="Sky Sport Bundesliga HD.skyde">
+    <title>2. BL: Dein Spieltags-Sprint (32)</title>
+</programme>
+<programme start="20260503183000 +0000" stop="20260503184500 +0000" channel="Sky Sport Bundesliga HD.skyde">
+    <title>BL: Highlights XXL: STP - M05, 32. Spieltag</title>
 </programme>
 <programme start="20260503184500 +0000" stop="20260503190000 +0000" channel="Sky Sport Bundesliga HD.skyde">
     <title>BL: Highlights XXL: BMG - BVB, 32. Spieltag</title>
@@ -2644,10 +2647,10 @@
 <programme start="20260503101000 +0000" stop="20260503103000 +0000" channel="Sky Sport Bundesliga 1 HD.skyde">
     <title>Es folgt: Live 2. Bundesliga</title>
 </programme>
-<programme start="20260503103000 +0000" stop="20260503133000 +0000" channel="Sky Sport Bundesliga 1 HD.skyde">
+<programme start="20260503103000 +0000" stop="20260503133500 +0000" channel="Sky Sport Bundesliga 1 HD.skyde">
     <title>Live 2. BL: Sonntags-Konferenz, 32. Spieltag</title>
 </programme>
-<programme start="20260503133000 +0000" stop="20260503150000 +0000" channel="Sky Sport Bundesliga 1 HD.skyde">
+<programme start="20260503133500 +0000" stop="20260503150000 +0000" channel="Sky Sport Bundesliga 1 HD.skyde">
     <title>Live 2. BL Alle Spiele, alle Tore: Die Vodafone Highlight-Show, 32. Spieltag, Sonntag</title>
 </programme>
 <programme start="20260503150000 +0000" stop="20260503153000 +0000" channel="Sky Sport Bundesliga 1 HD.skyde">
@@ -2779,19 +2782,19 @@
 <programme start="20260503203000 +0000" stop="20260503223000 +0000" channel="Sky Sport F1 HD.skyde">
     <title>F1: Rennen - GP Miami</title>
 </programme>
-<programme start="20260502234000 +0000" stop="20260503023000 +0000" channel="Sky Sport Golf HD.skyde">
+<programme start="20260502233000 +0000" stop="20260503023000 +0000" channel="Sky Sport Golf HD.skyde">
     <title>Asian Tour: Maekyung Open Golf Championship, 3. Tag in Seongnam-si (Südkorea)</title>
 </programme>
 <programme start="20260503023000 +0000" stop="20260503030000 +0000" channel="Sky Sport Golf HD.skyde">
     <title>Golf: Tee Time Stories (1)</title>
 </programme>
-<programme start="20260503030000 +0000" stop="20260503073000 +0000" channel="Sky Sport Golf HD.skyde">
+<programme start="20260503030000 +0000" stop="20260503070000 +0000" channel="Sky Sport Golf HD.skyde">
     <title>Live Asian Tour: Maekyung Open Golf Championship, 4. Tag in Seongnam-si (Südkorea)</title>
 </programme>
-<programme start="20260503073000 +0000" stop="20260503082000 +0000" channel="Sky Sport Golf HD.skyde">
+<programme start="20260503070000 +0000" stop="20260503080000 +0000" channel="Sky Sport Golf HD.skyde">
     <title>The Masters: 1986</title>
 </programme>
-<programme start="20260503082000 +0000" stop="20260503090000 +0000" channel="Sky Sport Golf HD.skyde">
+<programme start="20260503080000 +0000" stop="20260503090000 +0000" channel="Sky Sport Golf HD.skyde">
     <title>The Masters: McIlroy&#039;s Masterpiece</title>
 </programme>
 <programme start="20260503090000 +0000" stop="20260503120000 +0000" channel="Sky Sport Golf HD.skyde">
@@ -2932,26 +2935,20 @@
 <programme start="20260503160000 +0000" stop="20260503173000 +0000" channel="Sky Sport News HD.skyde">
     <title>Live BL: Sky90 - Die Fußballdebatte</title>
 </programme>
-<programme start="20260503173000 +0000" stop="20260503181500 +0000" channel="Sky Sport News HD.skyde">
+<programme start="20260503173000 +0000" stop="20260503180000 +0000" channel="Sky Sport News HD.skyde">
     <title>Live BL: Highlights XXL: BMG - BVB, 32. Spieltag</title>
 </programme>
-<programme start="20260503181500 +0000" stop="20260503183000 +0000" channel="Sky Sport News HD.skyde">
-    <title>Sky Sport News: Skylights</title>
-</programme>
-<programme start="20260503183000 +0000" stop="20260503190000 +0000" channel="Sky Sport News HD.skyde">
+<programme start="20260503180000 +0000" stop="20260503183000 +0000" channel="Sky Sport News HD.skyde">
     <title>Live Sky Sport News: Top News</title>
 </programme>
-<programme start="20260503190000 +0000" stop="20260503193000 +0000" channel="Sky Sport News HD.skyde">
-    <title>2. BL: Schalke - Dein Aufstieg</title>
+<programme start="20260503183000 +0000" stop="20260503195500 +0000" channel="Sky Sport News HD.skyde">
+    <title>Live F1: Vorberichte - GP Miami</title>
 </programme>
-<programme start="20260503193000 +0000" stop="20260503200000 +0000" channel="Sky Sport News HD.skyde">
-    <title>Live BL: Highlights XXL: SCF - WOB, 32. Spieltag</title>
-</programme>
-<programme start="20260503200000 +0000" stop="20260503203000 +0000" channel="Sky Sport News HD.skyde">
+<programme start="20260503195500 +0000" stop="20260503203000 +0000" channel="Sky Sport News HD.skyde">
     <title>Live Sky Sport News: Top News</title>
 </programme>
 <programme start="20260503203000 +0000" stop="20260503210000 +0000" channel="Sky Sport News HD.skyde">
-    <title>F1: Rennen Kompakt - GP Miami</title>
+    <title>Sky Sport News: Skylights</title>
 </programme>
 <programme start="20260503210000 +0000" stop="20260503213000 +0000" channel="Sky Sport News HD.skyde">
     <title>Live Sky Sport News: Top News</title>
@@ -3076,9 +3073,6 @@
 <programme start="20260503213000 +0000" stop="20260503220000 +0000" channel="Sky Sport Premier League HD.skyde">
     <title>PL: 90in30: MUN - LIV, 35. Spieltag</title>
 </programme>
-<programme start="20260502233000 +0000" stop="20260503013000 +0000" channel="Sky Sport Tennis HD.skyde">
-    <title>WTA 1000: M. Kostyuk (UKR) - M. Andreeva, Mutua Madrid Open in Madrid (ESP), Finale</title>
-</programme>
 <programme start="20260503013000 +0000" stop="20260503023000 +0000" channel="Sky Sport Tennis HD.skyde">
     <title>ATP 500: Review München</title>
 </programme>
@@ -3097,13 +3091,13 @@
 <programme start="20260503073000 +0000" stop="20260503093000 +0000" channel="Sky Sport Tennis HD.skyde">
     <title>WTA 1000: M. Kostyuk (UKR) - M. Andreeva, Mutua Madrid Open in Madrid (ESP), Finale</title>
 </programme>
-<programme start="20260503093000 +0000" stop="20260503120000 +0000" channel="Sky Sport Tennis HD.skyde">
+<programme start="20260503093000 +0000" stop="20260503113000 +0000" channel="Sky Sport Tennis HD.skyde">
+    <title>ATP 1000: J. Sinner (ITA) - A. Fils (FRA), Mutua Madrid Open in Madrid (ESP), Halbfinale 1</title>
+</programme>
+<programme start="20260503113000 +0000" stop="20260503135500 +0000" channel="Sky Sport Tennis HD.skyde">
     <title>ATP 1000: A. Zverev (GER) - A. Blockx (BEL), Mutua Madrid Open in Madrid (ESP), Halbfinale 2</title>
 </programme>
-<programme start="20260503120000 +0000" stop="20260503140000 +0000" channel="Sky Sport Tennis HD.skyde">
-    <title>Live WTA 1000: M. Andreeva / D. Shnaider - K. Siniakova (CZE) / T. Townsend (USA), Mutua Madrid Open in Madrid (ESP), Doppelfinale</title>
-</programme>
-<programme start="20260503140000 +0000" stop="20260503142000 +0000" channel="Sky Sport Tennis HD.skyde">
+<programme start="20260503135500 +0000" stop="20260503142000 +0000" channel="Sky Sport Tennis HD.skyde">
     <title>ATP: The Impossible Shot - Behind The Scenes</title>
 </programme>
 <programme start="20260503142000 +0000" stop="20260503145000 +0000" channel="Sky Sport Tennis HD.skyde">
@@ -3118,22 +3112,25 @@
 <programme start="20260503200000 +0000" stop="20260503223000 +0000" channel="Sky Sport Tennis HD.skyde">
     <title>ATP 1000: A. Zverev (GER) - J. Sinner (ITA), Mutua Madrid Open in Madrid (ESP), Finale</title>
 </programme>
-<programme start="20260502234000 +0000" stop="20260503021000 +0000" channel="Sky Sport Top Event HD.skyde">
+<programme start="20260502233000 +0000" stop="20260503020000 +0000" channel="Sky Sport Top Event HD.skyde">
     <title>Live NBA: Philadelphia 76ers @ Boston Celtics, Playoffs, Runde 1, Spiel 7</title>
 </programme>
-<programme start="20260503021000 +0000" stop="20260503030000 +0000" channel="Sky Sport Top Event HD.skyde">
+<programme start="20260503020000 +0000" stop="20260503030000 +0000" channel="Sky Sport Top Event HD.skyde">
     <title>Live NHL: Philadelphia Flyers @ Carolina Hurricanes, Playoffs, 2. Runde, Spiel 1</title>
 </programme>
-<programme start="20260503030000 +0000" stop="20260503073000 +0000" channel="Sky Sport Top Event HD.skyde">
+<programme start="20260503030000 +0000" stop="20260503070000 +0000" channel="Sky Sport Top Event HD.skyde">
     <title>Live Asian Tour: Maekyung Open Golf Championship, 4. Tag in Seongnam-si (Südkorea)</title>
 </programme>
-<programme start="20260503073000 +0000" stop="20260503082500 +0000" channel="Sky Sport Top Event HD.skyde">
+<programme start="20260503070000 +0000" stop="20260503073000 +0000" channel="Sky Sport Top Event HD.skyde">
+    <title>PL: Highlights Samstag, 35. Spieltag</title>
+</programme>
+<programme start="20260503073000 +0000" stop="20260503083000 +0000" channel="Sky Sport Top Event HD.skyde">
     <title>2. BL Alle Spiele, alle Tore: Die Vodafone Highlight-Show, 32. Spieltag, Samstag komplett</title>
 </programme>
-<programme start="20260503082500 +0000" stop="20260503084000 +0000" channel="Sky Sport Top Event HD.skyde">
+<programme start="20260503083000 +0000" stop="20260503084500 +0000" channel="Sky Sport Top Event HD.skyde">
     <title>BL: Highlights XXL: FCB - FCH, 32. Spieltag</title>
 </programme>
-<programme start="20260503084000 +0000" stop="20260503090000 +0000" channel="Sky Sport Top Event HD.skyde">
+<programme start="20260503084500 +0000" stop="20260503090000 +0000" channel="Sky Sport Top Event HD.skyde">
     <title>F1: Qualifying Kompakt - GP Miami</title>
 </programme>
 <programme start="20260503090000 +0000" stop="20260503103000 +0000" channel="Sky Sport Top Event HD.skyde">
@@ -3142,23 +3139,32 @@
 <programme start="20260503103000 +0000" stop="20260503133000 +0000" channel="Sky Sport Top Event HD.skyde">
     <title>Live 2. BL: Sonntags-Konferenz, 32. Spieltag</title>
 </programme>
-<programme start="20260503133000 +0000" stop="20260503140000 +0000" channel="Sky Sport Top Event HD.skyde">
-    <title>Live F2: 2. Rennen - GP Miami</title>
+<programme start="20260503133000 +0000" stop="20260503134500 +0000" channel="Sky Sport Top Event HD.skyde">
+    <title>BL: Highlights XXL: FCB - FCH, 32. Spieltag</title>
+</programme>
+<programme start="20260503134500 +0000" stop="20260503140000 +0000" channel="Sky Sport Top Event HD.skyde">
+    <title>EFL: Highlights XXL: AFC Wrexham - FC Middlesbrough, 46. Spieltag</title>
 </programme>
 <programme start="20260503140000 +0000" stop="20260503163000 +0000" channel="Sky Sport Top Event HD.skyde">
     <title>Live PL: Manchester United - FC Liverpool, Match of the Week, 35. Spieltag</title>
 </programme>
-<programme start="20260503163000 +0000" stop="20260503165500 +0000" channel="Sky Sport Top Event HD.skyde">
+<programme start="20260503163000 +0000" stop="20260503174500 +0000" channel="Sky Sport Top Event HD.skyde">
+    <title>Live F2: 2. Rennen - GP Miami</title>
+</programme>
+<programme start="20260503174500 +0000" stop="20260503180000 +0000" channel="Sky Sport Top Event HD.skyde">
+    <title>F1: Qualifying Kompakt - GP Miami</title>
+</programme>
+<programme start="20260503180000 +0000" stop="20260503183000 +0000" channel="Sky Sport Top Event HD.skyde">
+    <title>Live F1: Fahrerparade - GP Miami</title>
+</programme>
+<programme start="20260503183000 +0000" stop="20260503195500 +0000" channel="Sky Sport Top Event HD.skyde">
     <title>Live F1: Vorberichte - GP Miami</title>
 </programme>
-<programme start="20260503165500 +0000" stop="20260503184500 +0000" channel="Sky Sport Top Event HD.skyde">
+<programme start="20260503195500 +0000" stop="20260503214500 +0000" channel="Sky Sport Top Event HD.skyde">
     <title>Live F1: Rennen - GP Miami</title>
 </programme>
-<programme start="20260503184500 +0000" stop="20260503193000 +0000" channel="Sky Sport Top Event HD.skyde">
+<programme start="20260503214500 +0000" stop="20260503223000 +0000" channel="Sky Sport Top Event HD.skyde">
     <title>Live F1: Analysen &amp; Interviews - GP Miami</title>
-</programme>
-<programme start="20260503193000 +0000" stop="20260503220000 +0000" channel="Sky Sport Top Event HD.skyde">
-    <title>Live NBA: Orlando Magic @ Detroit Pistons, Playoffs, Runde 1, Spiel 7</title>
 </programme>
 <programme start="20260503120000 +0000" stop="20260503140000 +0000" channel="Sky Sport UHD.skyde">
     <title>PL: Manchester United - FC Brentford, 34. Spieltag</title>
@@ -3170,10 +3176,10 @@
     <title>Live PL: Match of the Week: Die Analyse, MUN - LIV, 35. Spieltag</title>
 </programme>
 <programme start="20260503170000 +0000" stop="20260503173000 +0000" channel="Sky Sport UHD.skyde">
-    <title>Live PL: All Goals: Die Highlight-Show, 35. Spieltag</title>
+    <title>Golf: Greatest Holes (6)</title>
 </programme>
 <programme start="20260503170000 +0000" stop="20260503173000 +0000" channel="Sky Sport UHD.skyde">
-    <title>Golf: Greatest Holes (6)</title>
+    <title>Live PL: All Goals: Die Highlight-Show, 35. Spieltag</title>
 </programme>
 <programme start="20260503173000 +0000" stop="20260503180000 +0000" channel="Sky Sport UHD.skyde">
     <title>Golf: Greatest Holes (7)</title>
@@ -3196,10 +3202,10 @@
 <programme start="20260502223000 +0000" stop="20260502233000 +0000" channel="Sky Sport 1 HD.skyde">
     <title>Live NBA: Showtime</title>
 </programme>
-<programme start="20260502233000 +0000" stop="20260503020000 +0000" channel="Sky Sport 1 HD.skyde">
+<programme start="20260502233000 +0000" stop="20260503021000 +0000" channel="Sky Sport 1 HD.skyde">
     <title>Live NBA: Philadelphia 76ers @ Boston Celtics, Playoffs, Runde 1, Spiel 7</title>
 </programme>
-<programme start="20260503020000 +0000" stop="20260503080000 +0000" channel="Sky Sport 1 HD.skyde">
+<programme start="20260503021000 +0000" stop="20260503033000 +0000" channel="Sky Sport 1 HD.skyde">
     <title>Live NBA: Showtime - Post Show</title>
 </programme>
 <programme start="20260503185500 +0000" stop="20260503191500 +0000" channel="Sky Sport 1 HD.skyde">
