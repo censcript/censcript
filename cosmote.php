@@ -62,6 +62,14 @@
     <title>UEL &amp; UECL Magazine 2025-26 E19</title>
     <desc>Live: Tidak</desc>
 </programme>
+<programme start="20260505050000 +0700" stop="20260505053000 +0700" channel="COSMOTE Sport 1 HD">
+    <title>UEFA Champions League Highlights 2025-26</title>
+    <desc>Live: Tidak</desc>
+</programme>
+<programme start="20260505053000 +0700" stop="20260505060000 +0700" channel="COSMOTE Sport 1 HD">
+    <title>UEFA Champions League Highlights 2025-26</title>
+    <desc>Live: Tidak</desc>
+</programme>
 <programme start="20260504034500 +0700" stop="20260504060000 +0700" channel="COSMOTE Sport 2 HD">
     <title>Football: OFI - Aris</title>
     <desc>Live: Tidak</desc>
@@ -117,10 +125,6 @@
 <programme start="20260505034500 +0700" stop="20260505060000 +0700" channel="COSMOTE Sport 2 HD">
     <title>Football: Panetolikos - Kifisia</title>
     <desc>Live: Tidak</desc>
-</programme>
-<programme start="20260504023000 +0700" stop="20260504043000 +0700" channel="COSMOTE Sport 3 HD">
-    <title>Football: Rio Ave - Gil Vicente (L)</title>
-    <desc>Live: Ya</desc>
 </programme>
 <programme start="20260504043000 +0700" stop="20260504063000 +0700" channel="COSMOTE Sport 3 HD">
     <title>Football: Exeter City - Bradford City A.F.C.</title>
@@ -202,6 +206,10 @@
     <title>Football: Heart of Midlothian - Rangers FC</title>
     <desc>Live: Tidak</desc>
 </programme>
+<programme start="20260505054500 +0700" stop="20260505060500 +0700" channel="COSMOTE Sport 3 HD">
+    <title>William Hill Scottish Premiership - Highlights</title>
+    <desc>Live: Tidak</desc>
+</programme>
 <programme start="20260504023000 +0700" stop="20260504053000 +0700" channel="COSMOTE Sport 4 HD">
     <title>Basketball: Detroit Pistons - Orlando Magic (L)</title>
     <desc>Live: Ya</desc>
@@ -256,10 +264,6 @@
 </programme>
 <programme start="20260505040000 +0700" stop="20260505063000 +0700" channel="COSMOTE Sport 4 HD">
     <title>Basketball: Cleveland Cavaliers - Toronto Raptors</title>
-    <desc>Live: Tidak</desc>
-</programme>
-<programme start="20260504030000 +0700" stop="20260504044500 +0700" channel="COSMOTE Sport 5 HD">
-    <title>Motorsports: MotoGP 2026</title>
     <desc>Live: Tidak</desc>
 </programme>
 <programme start="20260504044500 +0700" stop="20260504062000 +0700" channel="COSMOTE Sport 5 HD">
@@ -354,8 +358,8 @@
     <title>2026 Grand Prix Show</title>
     <desc>Live: Tidak</desc>
 </programme>
-<programme start="20260504023000 +0700" stop="20260504050000 +0700" channel="COSMOTE Sport 6 HD">
-    <title>Tennis: Jannik Sinner - Alexander Zverev</title>
+<programme start="20260505050500 +0700" stop="20260505060000 +0700" channel="COSMOTE Sport 5 HD">
+    <title>Highlights: 2026 FIA World Championship</title>
     <desc>Live: Tidak</desc>
 </programme>
 <programme start="20260504050000 +0700" stop="20260504073000 +0700" channel="COSMOTE Sport 6 HD">
@@ -471,6 +475,10 @@
     <desc>Live: Ya</desc>
 </programme>
 <programme start="20260505041500 +0700" stop="20260505050000 +0700" channel="COSMOTE Sport 7 HD">
+    <title>COSMOTESport7HD</title>
+    <desc>Live: Tidak</desc>
+</programme>
+<programme start="20260505050000 +0700" stop="20260505060000 +0700" channel="COSMOTE Sport 7 HD">
     <title>COSMOTESport7HD</title>
     <desc>Live: Tidak</desc>
 </programme>

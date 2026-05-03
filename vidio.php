@@ -873,12 +873,12 @@
     <desc lang="id">Mega Film Asia Adalah Program Yang Memutarkan Film-Film Asia Yang Ditayangkan Di Indosiar. Acara Ini Ditayangkan Perdana Pada Tahun 1996 Silam.</desc>
     <icon src="https://thumbor.prod.vidiocdn.com/tAcXVN6PBiGacK6dTty11wU32ek=/287x162/filters:strip_icc():quality(70)/vidio-media-production/uploads/livestreaming/schedule/thumbnail/5028305/9c807c.jpg"/>
   </programme>
-  <programme channel="205" start="20260503212500 +0000" stop="20260503230000 +0000">
+  <programme channel="205" start="20260503212500 +0000" stop="20260503223700 +0000">
     <title lang="id">Fokus Pagi</title>
     <desc lang="id">Berita Lengkap dan Terkini Dari Dalam dan Luar Negeri Seputar Isu Politik, Ekonomi, Hukum, Kriminal, Sosial Budaya, Olahraga, dan Lain-Lain.</desc>
     <icon src="https://thumbor.prod.vidiocdn.com/cBZL7ITaJCof6cqtayFee2uJCX8=/287x162/filters:strip_icc():quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/image/205/indosiar-d9a3d0.jpg"/>
   </programme>
-  <programme channel="205" start="20260503230000 +0000" stop="20260504000000 +0000">
+  <programme channel="205" start="20260503223700 +0000" stop="20260504000000 +0000">
     <title lang="id">Merangkai Kisah Indah</title>
     <desc lang="id">Mega Series Terbaru Raden Rakha dan Basmalah Gralind Di Indosiar "Merangkai Kisah Indah" Tayang Setiap Hari, Mulai Senin, 14 Juli 2025 Pukul 17:00 WIB. Kisah Derita Mutiara Yang Mencari Orangtua Kandungnya Karena Sewaktu Bayi Ditukar Oleh Ibu Angkatnya. Nasib Membawa Dirinya Bertemu Dengan Keluarga Yang Tanpa Dia Ketahui Adalah Orangtua Kandungnya dan Juga Bertemu Kenzo. Apakah Kenzo dan Mutiara Akan Berjodoh? Dibintangi Raden Rakha, Basmalah Gralind, Panji Saputra, Tsania Marwa, Gita Sinaga, Vayala Maulidina, Washifa, Haura Lathifa, dan Emiliano Cortizo. Saksikan Mega Series Terbaru Indosiar : Merangkai Kisah Indah, Tayang Setiap Hari, Mulai Senin, 14 Juli 2025 Pukul 17:00 WIB Hanya Di Indosiar.</desc>
     <icon src="https://thumbor.prod.vidiocdn.com/WIl2jiaTLEzHnNAo61AGzfdEXh8=/287x162/filters:strip_icc():quality(70)/vidio-media-production/uploads/tv_program/thumbnail/389747/fc3ce1.jpg"/>
@@ -14918,17 +14918,12 @@
     <title lang="id">Filler</title>
     <icon src="https://thumbor.prod.vidiocdn.com/nY0aFklpYf6yONLaFJjxhiSuthc=/287x162/filters:strip_icc():quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/image/6786/champions-tv-3-76ca7c.jpg"/>
   </programme>
-  <programme channel="6786" start="20260503154500 +0000" stop="20260503170000 +0000">
+  <programme channel="6786" start="20260503154500 +0000" stop="20260503180000 +0000">
     <title lang="id">JUVENTUS vs HELLAS VERONA : Serie A 2025/26</title>
     <desc lang="id">JUVENTUS vs HELLAS VERONA</desc>
     <icon src="https://thumbor.prod.vidiocdn.com/nY0aFklpYf6yONLaFJjxhiSuthc=/287x162/filters:strip_icc():quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/image/6786/champions-tv-3-76ca7c.jpg"/>
   </programme>
-  <programme channel="6786" start="20260503154500 +0000" stop="20260503170000 +0000">
-    <title lang="id">JUVENTUS vs HELLAS VERONA : Serie A 2025/26</title>
-    <desc lang="id">JUVENTUS vs HELLAS VERONA</desc>
-    <icon src="https://thumbor.prod.vidiocdn.com/nY0aFklpYf6yONLaFJjxhiSuthc=/287x162/filters:strip_icc():quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/image/6786/champions-tv-3-76ca7c.jpg"/>
-  </programme>
-  <programme channel="6786" start="20260503170000 +0000" stop="20260503180000 +0000">
+  <programme channel="6786" start="20260503154500 +0000" stop="20260503180000 +0000">
     <title lang="id">JUVENTUS vs HELLAS VERONA : Serie A 2025/26</title>
     <desc lang="id">JUVENTUS vs HELLAS VERONA</desc>
     <icon src="https://thumbor.prod.vidiocdn.com/nY0aFklpYf6yONLaFJjxhiSuthc=/287x162/filters:strip_icc():quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/image/6786/champions-tv-3-76ca7c.jpg"/>
@@ -15021,17 +15016,12 @@
     <title lang="id">Filler</title>
     <icon src="https://thumbor.prod.vidiocdn.com/nY0aFklpYf6yONLaFJjxhiSuthc=/287x162/filters:strip_icc():quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/image/6786/champions-tv-3-76ca7c.jpg"/>
   </programme>
-  <programme channel="6786" start="20260504161500 +0000" stop="20260504170000 +0000">
+  <programme channel="6786" start="20260504161500 +0000" stop="20260504183000 +0000">
     <title lang="id">CREMONESE vs LAZIO : Serie A 2025/26</title>
     <desc lang="id">CREMONESE vs LAZIO</desc>
     <icon src="https://thumbor.prod.vidiocdn.com/nY0aFklpYf6yONLaFJjxhiSuthc=/287x162/filters:strip_icc():quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/image/6786/champions-tv-3-76ca7c.jpg"/>
   </programme>
-  <programme channel="6786" start="20260504161500 +0000" stop="20260504170000 +0000">
-    <title lang="id">CREMONESE vs LAZIO : Serie A 2025/26</title>
-    <desc lang="id">CREMONESE vs LAZIO</desc>
-    <icon src="https://thumbor.prod.vidiocdn.com/nY0aFklpYf6yONLaFJjxhiSuthc=/287x162/filters:strip_icc():quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/image/6786/champions-tv-3-76ca7c.jpg"/>
-  </programme>
-  <programme channel="6786" start="20260504170000 +0000" stop="20260504183000 +0000">
+  <programme channel="6786" start="20260504161500 +0000" stop="20260504183000 +0000">
     <title lang="id">CREMONESE vs LAZIO : Serie A 2025/26</title>
     <desc lang="id">CREMONESE vs LAZIO</desc>
     <icon src="https://thumbor.prod.vidiocdn.com/nY0aFklpYf6yONLaFJjxhiSuthc=/287x162/filters:strip_icc():quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/image/6786/champions-tv-3-76ca7c.jpg"/>
