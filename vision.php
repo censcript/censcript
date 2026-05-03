@@ -613,12 +613,6 @@
 <programme start="20260503100000 +0000" stop="20260503120000 +0000" channel="ANTV.vision">
 <title>Vasudha</title>
 </programme>
-<programme start="20260503120000 +0000" stop="20260503140000 +0000" channel="ANTV.vision">
-<title>Pancasona</title>
-</programme>
-<programme start="20260503140000 +0000" stop="20260503153000 +0000" channel="ANTV.vision">
-<title>Telaga Angker</title>
-</programme>
 <programme start="20260503153000 +0000" stop="20260503180000 +0000" channel="ANTV.vision">
 <title>Serie A Liga Italia</title>
 </programme>
@@ -1496,5 +1490,11 @@
 <title>TVRI</title>
 </programme>
 <programme start="20260503110000 +0000" stop="20260503130000 +0000" channel="TVRI.vision">
+<title>TVRI</title>
+</programme>
+<programme start="20260503130000 +0000" stop="20260503150000 +0000" channel="TVRI.vision">
+<title>TVRI</title>
+</programme>
+<programme start="20260503150000 +0000" stop="20260503170000 +0000" channel="TVRI.vision">
 <title>TVRI</title>
 </programme>
