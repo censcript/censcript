@@ -15474,14 +15474,39 @@
     <desc lang="en">Relive every goal from the best players in 2024/25 season.</desc>
     <category lang="en">Sports</category>
   </programme>
-  <programme start="20260503115500 +0000" stop="20260503141000 +0000" channel="beinsports.unifitv">
-    <title lang="en">LaLiga - Celta Vigo vs Elche (L)</title>
-    <desc lang="en">Extensive coverage from every round of the Spanish LaLiga, Spain's top division of football with the World's biggest teams.</desc>
+  <programme start="20260503115500 +0000" stop="20260503122500 +0000" channel="beinsports.unifitv">
+    <title lang="en">My Road To Red Bull: Isack Hadjar - Episode Number 1</title>
+    <desc lang="en">Original content produced by beIN SPORTS.Documenting his journey across the 2025 Formula 1 season, the series highlights French-Algerian driver Isack Hadjar, recognized as the first "Arab" driver in F1. He debuted with Visa Cash App Racing Bulls in 2025. Despite a difficult start—crashing on the formation lap in Australia—he recovered to earn Rookie of the Year 2025, with highlights including a podium finish in the Netherlands (August 2025) and top-10 finishes across races in Saudi Arabia, Monaco, and Qatar.</desc>
     <category lang="en">Sports</category>
   </programme>
-  <programme start="20260503141000 +0000" stop="20260503161500 +0000" channel="beinsports.unifitv">
-    <title lang="en">LaLiga - Getafe vs Rayo Vallecano (L)</title>
-    <desc lang="en">Extensive coverage from every round of the Spanish LaLiga, Spain's top division of football with the World's biggest teams.</desc>
+  <programme start="20260503122500 +0000" stop="20260503125500 +0000" channel="beinsports.unifitv">
+    <title lang="en">My Road To Red Bull: Isack Hadjar - Episode Number 2</title>
+    <desc lang="en">Original content produced by beIN SPORTS.Documenting his journey across the 2025 Formula 1 season, the series highlights French-Algerian driver Isack Hadjar, recognized as the first "Arab" driver in F1. He debuted with Visa Cash App Racing Bulls in 2025. Despite a difficult start—crashing on the formation lap in Australia—he recovered to earn Rookie of the Year 2025, with highlights including a podium finish in the Netherlands (August 2025) and top-10 finishes across races in Saudi Arabia, Monaco, and Qatar.</desc>
+    <category lang="en">Sports</category>
+  </programme>
+  <programme start="20260503125500 +0000" stop="20260503132500 +0000" channel="beinsports.unifitv">
+    <title lang="en">My Road To Red Bull: Isack Hadjar - Episode Number 3</title>
+    <desc lang="en">Original content produced by beIN SPORTS.Documenting his journey across the 2025 Formula 1 season, the series highlights French-Algerian driver Isack Hadjar, recognized as the first "Arab" driver in F1. He debuted with Visa Cash App Racing Bulls in 2025. Despite a difficult start—crashing on the formation lap in Australia—he recovered to earn Rookie of the Year 2025, with highlights including a podium finish in the Netherlands (August 2025) and top-10 finishes across races in Saudi Arabia, Monaco, and Qatar.</desc>
+    <category lang="en">Sports</category>
+  </programme>
+  <programme start="20260503132500 +0000" stop="20260503143500 +0000" channel="beinsports.unifitv">
+    <title lang="en">FIA Formula 2 Championship Feature Race - Miami, USA (L)</title>
+    <desc lang="en">beIN Sports brings you live and exclusive coverage of the 2026 Formula 2 Championship.</desc>
+    <category lang="en">Sports</category>
+  </programme>
+  <programme start="20260503143500 +0000" stop="20260503145000 +0000" channel="beinsports.unifitv">
+    <title lang="en">LaLiga Goals Galore - Ayoze Perez</title>
+    <desc lang="en">Relive every goal from the best players in 2024/25 season.</desc>
+    <category lang="en">Sports</category>
+  </programme>
+  <programme start="20260503145000 +0000" stop="20260503150000 +0000" channel="beinsports.unifitv">
+    <title lang="en">Formula 1 Specials - Episode Number 1</title>
+    <desc lang="en">A special programme focused on Formula 1, exploring the sport's biggest moments, legendary drivers, cutting-edge technology, and behind-the-scenes stories that define the pinnacle of motorsport.</desc>
+    <category lang="en">Sports</category>
+  </programme>
+  <programme start="20260503150000 +0000" stop="20260503165500 +0000" channel="beinsports.unifitv">
+    <title lang="en">Grand Prix Sunday - FORMULA 1 CRYPTO.COM MIAMI GRAND PRIX 2026 (L)</title>
+    <desc lang="en">Join us as we preview the feature race of every F1 Grand Prix.</desc>
     <category lang="en">Sports</category>
   </programme>
   <channel id="beinsports2.unifitv">
