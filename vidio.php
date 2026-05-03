@@ -6492,28 +6492,20 @@
     <title lang="id">My Road To Red Bull: Isack Hadjar</title>
     <icon src="https://thumbor.prod.vidiocdn.com/5yUHYfv_b1sZi7kdFElm8JqF2RY=/287x162/filters:strip_icc():quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/image/6299/bein-1-4bd997.jpg"/>
   </programme>
-  <programme channel="6299" start="20260503132500 +0000" stop="20260503143500 +0000">
-    <title lang="id">FIA Formula 2 Championship Feature Race 2026</title>
-    <icon src="https://thumbor.prod.vidiocdn.com/5yUHYfv_b1sZi7kdFElm8JqF2RY=/287x162/filters:strip_icc():quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/image/6299/bein-1-4bd997.jpg"/>
-  </programme>
-  <programme channel="6299" start="20260503143500 +0000" stop="20260503145000 +0000">
-    <title lang="id">LaLiga Goals Galore 2024/25</title>
-    <icon src="https://thumbor.prod.vidiocdn.com/5yUHYfv_b1sZi7kdFElm8JqF2RY=/287x162/filters:strip_icc():quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/image/6299/bein-1-4bd997.jpg"/>
-  </programme>
-  <programme channel="6299" start="20260503145000 +0000" stop="20260503150000 +0000">
-    <title lang="id">Formula 1 Specials 2026</title>
+  <programme channel="6299" start="20260503132500 +0000" stop="20260503145100 +0000">
+    <title lang="id">Miami, USA : FIA Formula 2 Championship Feature Race 2026</title>
     <icon src="https://thumbor.prod.vidiocdn.com/5yUHYfv_b1sZi7kdFElm8JqF2RY=/287x162/filters:strip_icc():quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/image/6299/bein-1-4bd997.jpg"/>
   </programme>
   <programme channel="6299" start="20260503150000 +0000" stop="20260503165500 +0000">
-    <title lang="id">Grand Prix Sunday 2026</title>
+    <title lang="id">Miami Grand Prix : Grand Prix Sunday 2026</title>
     <icon src="https://thumbor.prod.vidiocdn.com/5yUHYfv_b1sZi7kdFElm8JqF2RY=/287x162/filters:strip_icc():quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/image/6299/bein-1-4bd997.jpg"/>
   </programme>
   <programme channel="6299" start="20260503165500 +0000" stop="20260503190000 +0000">
-    <title lang="id">Formula 1 Main Race 2026</title>
+    <title lang="id">Miami Grand Prix : Formula 1 Main Race 2026</title>
     <icon src="https://thumbor.prod.vidiocdn.com/5yUHYfv_b1sZi7kdFElm8JqF2RY=/287x162/filters:strip_icc():quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/image/6299/bein-1-4bd997.jpg"/>
   </programme>
   <programme channel="6299" start="20260503165500 +0000" stop="20260503190000 +0000">
-    <title lang="id">Formula 1 Main Race 2026</title>
+    <title lang="id">Miami Grand Prix : Formula 1 Main Race 2026</title>
     <icon src="https://thumbor.prod.vidiocdn.com/5yUHYfv_b1sZi7kdFElm8JqF2RY=/287x162/filters:strip_icc():quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/image/6299/bein-1-4bd997.jpg"/>
   </programme>
   <programme channel="6299" start="20260503190000 +0000" stop="20260503200000 +0000">
