@@ -6721,11 +6721,26 @@
     <programme start="20260503113000 +0000" stop="20260503115500 +0000" channel="beIN Sports HD.starhub">
         <title>Kylian Mbappe</title>
     </programme>
-    <programme start="20260503115500 +0000" stop="20260503141000 +0000" channel="beIN Sports HD.starhub">
-        <title>LaLiga 2025/26: Celta Vigo vs Elche (Live)</title>
+    <programme start="20260503115500 +0000" stop="20260503122500 +0000" channel="beIN Sports HD.starhub">
+        <title>My Road To Red Bull: Isack Hadjar</title>
     </programme>
-    <programme start="20260503141000 +0000" stop="20260503161500 +0000" channel="beIN Sports HD.starhub">
-        <title>LaLiga 2025/26: Getafe vs Rayo Vallecano (Live)</title>
+    <programme start="20260503122500 +0000" stop="20260503125500 +0000" channel="beIN Sports HD.starhub">
+        <title>My Road To Red Bull: Isack Hadjar</title>
+    </programme>
+    <programme start="20260503125500 +0000" stop="20260503132500 +0000" channel="beIN Sports HD.starhub">
+        <title>My Road To Red Bull: Isack Hadjar</title>
+    </programme>
+    <programme start="20260503132500 +0000" stop="20260503143500 +0000" channel="beIN Sports HD.starhub">
+        <title>FIA Formula 2 Championship Feature Race 2026: Miami, USA (Live)</title>
+    </programme>
+    <programme start="20260503143500 +0000" stop="20260503145000 +0000" channel="beIN Sports HD.starhub">
+        <title>Ayoze Perez</title>
+    </programme>
+    <programme start="20260503145000 +0000" stop="20260503150000 +0000" channel="beIN Sports HD.starhub">
+        <title>Formula 1 Specials 2026</title>
+    </programme>
+    <programme start="20260503150000 +0000" stop="20260503165500 +0000" channel="beIN Sports HD.starhub">
+        <title>FORMULA 1 CRYPTO.COM MIAMI GRAND PRIX 2026</title>
     </programme>
     <programme start="20260502150000 +0000" stop="20260502161500 +0000" channel="TestChannel2.starhub">
         <title>My Sweet Mobster</title>

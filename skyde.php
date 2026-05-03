@@ -2540,7 +2540,7 @@
     <title>Live Admiral BL: FK Austria Wien - TSV Egger Glas Hartberg, 30. Runde</title>
 </programme>
 <programme start="20260503145000 +0000" stop="20260503173000 +0000" channel="Sky Sport Austria 2 HD.skyde">
-    <title>Live ATP 1000: Finale, Mutua Madrid Open in Madrid (ESP), Finale</title>
+    <title>Live ATP 1000: A. Zverev (GER) - J. Sinner (ITA), Mutua Madrid Open in Madrid (ESP), Finale</title>
 </programme>
 <programme start="20260502224500 +0000" stop="20260502234500 +0000" channel="Sky Sport Bundesliga HD.skyde">
     <title>2. BL Alle Spiele, alle Tore: Die Vodafone Highlight-Show, 32. Spieltag, Samstag komplett</title>
@@ -2593,11 +2593,8 @@
 <programme start="20260503173000 +0000" stop="20260503181500 +0000" channel="Sky Sport Bundesliga HD.skyde">
     <title>Live BL: Highlights XXL: BMG - BVB, 32. Spieltag</title>
 </programme>
-<programme start="20260503181500 +0000" stop="20260503183000 +0000" channel="Sky Sport Bundesliga HD.skyde">
-    <title>2. BL: Dein Spieltags-Sprint (32)</title>
-</programme>
-<programme start="20260503183000 +0000" stop="20260503184500 +0000" channel="Sky Sport Bundesliga HD.skyde">
-    <title>BL: Highlights XXL: STP - M05, 32. Spieltag</title>
+<programme start="20260503181500 +0000" stop="20260503184500 +0000" channel="Sky Sport Bundesliga HD.skyde">
+    <title>2. BL: Schalke - Dein Aufstieg</title>
 </programme>
 <programme start="20260503184500 +0000" stop="20260503190000 +0000" channel="Sky Sport Bundesliga HD.skyde">
     <title>BL: Highlights XXL: BMG - BVB, 32. Spieltag</title>
@@ -2662,16 +2659,16 @@
 <programme start="20260503160000 +0000" stop="20260503173000 +0000" channel="Sky Sport Bundesliga 1 HD.skyde">
     <title>Live BL: Sky90 - Die Fußballdebatte</title>
 </programme>
-<programme start="20260503173000 +0000" stop="20260503184500 +0000" channel="Sky Sport Bundesliga 1 HD.skyde">
+<programme start="20260503173000 +0000" stop="20260503181500 +0000" channel="Sky Sport Bundesliga 1 HD.skyde">
     <title>Live BL: Highlights XXL: BMG - BVB, 32. Spieltag</title>
 </programme>
 <programme start="20260503101000 +0000" stop="20260503103000 +0000" channel="Sky Sport Bundesliga 2 HD.skyde">
     <title>Es folgt: Live 2. Bundesliga</title>
 </programme>
-<programme start="20260503103000 +0000" stop="20260503133000 +0000" channel="Sky Sport Bundesliga 2 HD.skyde">
+<programme start="20260503103000 +0000" stop="20260503140000 +0000" channel="Sky Sport Bundesliga 2 HD.skyde">
     <title>Live 2. BL: Hannover 96 - Preußen Münster, 32. Spieltag</title>
 </programme>
-<programme start="20260503133000 +0000" stop="20260503153000 +0000" channel="Sky Sport Bundesliga 2 HD.skyde">
+<programme start="20260503140000 +0000" stop="20260503153000 +0000" channel="Sky Sport Bundesliga 2 HD.skyde">
     <title>Es folgt: Live Bundesliga</title>
 </programme>
 <programme start="20260503153000 +0000" stop="20260503173000 +0000" channel="Sky Sport Bundesliga 2 HD.skyde">
@@ -2680,7 +2677,7 @@
 <programme start="20260503173000 +0000" stop="20260503193000 +0000" channel="Sky Sport Bundesliga 2 HD.skyde">
     <title>BL: Borussia M&#039;gladbach - Borussia Dortmund, 32. Spieltag</title>
 </programme>
-<programme start="20260503193000 +0000" stop="20260503213000 +0000" channel="Sky Sport Bundesliga 2 HD.skyde">
+<programme start="20260503193000 +0000" stop="20260503220000 +0000" channel="Sky Sport Bundesliga 2 HD.skyde">
     <title>BL: SC Freiburg - VfL Wolfsburg, 32. Spieltag</title>
 </programme>
 <programme start="20260503101000 +0000" stop="20260503103000 +0000" channel="Sky Sport Bundesliga 3 HD.skyde">
@@ -2782,7 +2779,7 @@
 <programme start="20260503214500 +0000" stop="20260503223000 +0000" channel="Sky Sport F1 HD.skyde">
     <title>Live F1: Analysen &amp; Interviews - GP Miami</title>
 </programme>
-<programme start="20260502233000 +0000" stop="20260503023000 +0000" channel="Sky Sport Golf HD.skyde">
+<programme start="20260502234000 +0000" stop="20260503023000 +0000" channel="Sky Sport Golf HD.skyde">
     <title>Asian Tour: Maekyung Open Golf Championship, 3. Tag in Seongnam-si (Südkorea)</title>
 </programme>
 <programme start="20260503023000 +0000" stop="20260503030000 +0000" channel="Sky Sport Golf HD.skyde">
@@ -2948,7 +2945,7 @@
     <title>Live Sky Sport News: Top News</title>
 </programme>
 <programme start="20260503203000 +0000" stop="20260503210000 +0000" channel="Sky Sport News HD.skyde">
-    <title>Sky Sport News: Skylights</title>
+    <title>2. BL: Schalke - Dein Aufstieg</title>
 </programme>
 <programme start="20260503210000 +0000" stop="20260503213000 +0000" channel="Sky Sport News HD.skyde">
     <title>Live Sky Sport News: Top News</title>

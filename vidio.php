@@ -8213,21 +8213,21 @@
     <desc lang="id">Impian Minah untuk pindah ke kampung kandas ketika terjadi kecelakaan kereta yang mengakibatkan dirinya tewas beserta 4 cucunya.</desc>
     <icon src="https://thumbor.prod.vidiocdn.com/20tRQaK9Gps_wFQL5rY-XgRbrs4=/287x162/filters:strip_icc():quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/image/782/antv-de8530.jpg"/>
   </programme>
-  <programme channel="782" start="20260503023000 +0000" stop="20260503060000 +0000">
+  <programme channel="782" start="20260503023000 +0000" stop="20260503055500 +0000">
     <title lang="id">Mega Bollywood: Kal Ho Naa Ho</title>
     <desc lang="id">Naina, seorang gadis introvert dan selalu depresi, kehidupannya berubah saat dia bertemu Aman. Namun Aman mempunyai rahasianya sendiri yang mengubah hidup mereka selamanya. Terlibat dalam semua ini adalah Rohit, sahabat Naina yang menyembunyikan cintanya padanya.</desc>
     <icon src="https://thumbor.prod.vidiocdn.com/J0hknX7dhu16t6gk8o3FEVUvSIE=/287x162/filters:strip_icc():quality(70)/vidio-media-production/uploads/livestreaming/schedule/thumbnail/5055530/322924.jpg"/>
   </programme>
-  <programme channel="782" start="20260503060000 +0000" stop="20260503080000 +0000">
+  <programme channel="782" start="20260503055500 +0000" stop="20260503080200 +0000">
     <title lang="id">Jhanak</title>
     <desc lang="id">Seorang wanita muda yang bersemangat memulai perjalanan untuk memenuhi janji seorang ibu demi kehidupan yang lebih baik sambil mengatasi tantangan dan kehilangan.</desc>
     <icon src="https://thumbor.prod.vidiocdn.com/lvqg81IFvQRPZIJgGEUkvywFgYc=/287x162/filters:strip_icc():quality(70)/vidio-media-production/uploads/livestreaming/schedule/thumbnail/5055521/4ab76e.jpg"/>
   </programme>
-  <programme channel="782" start="20260503080000 +0000" stop="20260503093000 +0000">
+  <programme channel="782" start="20260503080200 +0000" stop="20260503100300 +0000">
     <title lang="id">TERI MERI DORIYAAN</title>
     <icon src="https://thumbor.prod.vidiocdn.com/Ov3WUbcJt4Z2nH9YVNBad90vg4A=/287x162/filters:strip_icc():quality(70)/vidio-media-production/uploads/livestreaming/schedule/thumbnail/5055816/156b03.jpg"/>
   </programme>
-  <programme channel="782" start="20260503100000 +0000" stop="20260503120000 +0000">
+  <programme channel="782" start="20260503100300 +0000" stop="20260503120000 +0000">
     <title lang="id">Vasudha</title>
     <desc lang="id">Vasudha yang periang bergabung dengan rumah pemimpin bisnis Chandrika sebagai pembantu dan mendambakan persetujuannya meskipun ada perbedaan ideologis di antara mereka.</desc>
     <icon src="https://thumbor.prod.vidiocdn.com/yKrSs-cIlC86QO0cg5_cF65pSWQ=/287x162/filters:strip_icc():quality(70)/vidio-media-production/uploads/livestreaming/schedule/thumbnail/5055523/e8fbec.jpg"/>
