@@ -237,43 +237,43 @@
     <desc lang="id">Film televisi yang mengangkat kisah romantisme kehidupan dengan konflik yang menarik. Tayang setiap hari.</desc>
     <icon src="https://thumbor.prod.vidiocdn.com/N99E8BD1OJ5vvymwPBj0c-BU5J4=/287x162/filters:strip_icc():quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/image/204/sctv-5ef966.jpg"/>
   </programme>
-  <programme channel="204" start="20260503210600 +0000" stop="20260503213300 +0000">
+  <programme channel="204" start="20260503210600 +0000" stop="20260503213500 +0000">
     <title lang="id">Indahnya Kebersamaan</title>
     <desc lang="id">Ceramah islami penuh makna. Tayang setiap senin, mulai pukul 04.00 WIB</desc>
     <icon src="https://thumbor.prod.vidiocdn.com/N99E8BD1OJ5vvymwPBj0c-BU5J4=/287x162/filters:strip_icc():quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/image/204/sctv-5ef966.jpg"/>
   </programme>
-  <programme channel="204" start="20260503213300 +0000" stop="20260503215700 +0000">
+  <programme channel="204" start="20260503213500 +0000" stop="20260503215800 +0000">
     <title lang="id">Buser</title>
     <icon src="https://thumbor.prod.vidiocdn.com/hqiU7koXgDL4zkxckArkSQHfwWw=/287x162/filters:strip_icc():quality(70)/vidio-media-production/uploads/tv_program/thumbnail/382356/d78201.jpg"/>
   </programme>
-  <programme channel="204" start="20260503215700 +0000" stop="20260503230000 +0000">
+  <programme channel="204" start="20260503215800 +0000" stop="20260503230000 +0000">
     <title lang="id">Liputan 6 Pagi</title>
     <icon src="https://thumbor.prod.vidiocdn.com/F9znK3zz1DWgv_VRVWR4xdQr5-I=/287x162/filters:strip_icc():quality(70)/vidio-media-production/uploads/livestreaming/schedule/thumbnail/5056356/5ae5a6.jpg"/>
   </programme>
-  <programme channel="204" start="20260503230000 +0000" stop="20260504000600 +0000">
+  <programme channel="204" start="20260503230000 +0000" stop="20260504000000 +0000">
     <title lang="id">Hot Shot</title>
     <icon src="https://thumbor.prod.vidiocdn.com/GYmeH7x3PXYQQVxHKcqc4u2C_4k=/287x162/filters:strip_icc():quality(70)/vidio-media-production/uploads/tv_program/thumbnail/382433/e64ad9.jpg"/>
   </programme>
-  <programme channel="204" start="20260504000600 +0000" stop="20260504010500 +0000">
+  <programme channel="204" start="20260504000000 +0000" stop="20260504010500 +0000">
     <title lang="id">Tiba-Tiba Kuis</title>
-    <desc lang="id">Program?kuis reality yang dipandu oleh Baim Wong, menemani pemirsa setia?SCTV?Senin - Jumat pkl. 07.00 WIB.</desc>
+    <desc lang="id">Program kuis reality yang dipandu oleh Baim Wong, menemani pemirsa setia SCTV, Senin - Jumat pkl. 07.00 WIB.</desc>
     <icon src="https://thumbor.prod.vidiocdn.com/5vpOB-Qb-YFT8oK6YlFqQCiaAcw=/287x162/filters:strip_icc():quality(70)/vidio-media-production/uploads/livestreaming/schedule/thumbnail/5056366/f704c2.jpg"/>
   </programme>
-  <programme channel="204" start="20260504010500 +0000" stop="20260504024600 +0000">
+  <programme channel="204" start="20260504010500 +0000" stop="20260504024500 +0000">
     <title lang="id">FTV Pagi Spesial: Mantan Emang Bertemu Tapi Jodoh Pasti Bertamu</title>
     <desc lang="id">Film televisi yang mengangkat kisah romantisme kehidupan dengan konflik yang menarik. Tayang setiap hari.</desc>
     <icon src="https://thumbor.prod.vidiocdn.com/S3dyZEcVoRwn56mDT3-YQy94iis=/287x162/filters:strip_icc():quality(70)/vidio-media-production/uploads/livestreaming/schedule/thumbnail/5056371/f9b750.jpg"/>
   </programme>
-  <programme channel="204" start="20260504024600 +0000" stop="20260504044300 +0000">
+  <programme channel="204" start="20260504024500 +0000" stop="20260504044000 +0000">
     <title lang="id">FTV Pagi: Ijinkan Aku Mencintai Sendiri</title>
     <desc lang="id">Film televisi yang mengangkat kisah romantisme kehidupan dengan konflik yang menarik. Tayang setiap hari.</desc>
     <icon src="https://thumbor.prod.vidiocdn.com/xVI_c0Xrura7IUaw4UeNcGG8CBo=/287x162/filters:strip_icc():quality(70)/vidio-media-production/uploads/livestreaming/schedule/thumbnail/5056372/a74886.jpg"/>
   </programme>
-  <programme channel="204" start="20260504044300 +0000" stop="20260504051600 +0000">
+  <programme channel="204" start="20260504044000 +0000" stop="20260504051500 +0000">
     <title lang="id">Liputan 6 Siang - Live</title>
     <icon src="https://thumbor.prod.vidiocdn.com/CeeyhOxG-BcZjRMM3kFWOB4sUzk=/287x162/filters:strip_icc():quality(70)/vidio-media-production/uploads/livestreaming/schedule/thumbnail/5056373/d7f567.jpg"/>
   </programme>
-  <programme channel="204" start="20260504051600 +0000" stop="20260504065200 +0000">
+  <programme channel="204" start="20260504051500 +0000" stop="20260504065200 +0000">
     <title lang="id">FTV Siang: Dari Pada Dicubit Iguana, Lebih Baik Dicubit Kamu</title>
     <desc lang="id">Film televisi yang mengangkat kisah romantisme kehidupan dengan konflik yang menarik. Tayang setiap hari.</desc>
     <icon src="https://thumbor.prod.vidiocdn.com/lGmtb6UcG6iPBQZjAOKjcmFqtmM=/287x162/filters:strip_icc():quality(70)/vidio-media-production/uploads/livestreaming/schedule/thumbnail/5056380/ac2a14.jpg"/>
@@ -868,12 +868,12 @@
     <desc lang="id">Mega Film Asia Adalah Program Yang Memutarkan Film-Film Asia Yang Ditayangkan Di Indosiar. Acara Ini Ditayangkan Perdana Pada Tahun 1996 Silam.</desc>
     <icon src="https://thumbor.prod.vidiocdn.com/BLE6UpSAk1xCqmQlmTsZpmuqiDM=/287x162/filters:strip_icc():quality(70)/vidio-media-production/uploads/livestreaming/schedule/thumbnail/5028304/505c2f.jpg"/>
   </programme>
-  <programme channel="205" start="20260503200000 +0000" stop="20260503213000 +0000">
+  <programme channel="205" start="20260503200000 +0000" stop="20260503212500 +0000">
     <title lang="id">Mega Film Asia : Bodyguard 3</title>
     <desc lang="id">Mega Film Asia Adalah Program Yang Memutarkan Film-Film Asia Yang Ditayangkan Di Indosiar. Acara Ini Ditayangkan Perdana Pada Tahun 1996 Silam.</desc>
     <icon src="https://thumbor.prod.vidiocdn.com/tAcXVN6PBiGacK6dTty11wU32ek=/287x162/filters:strip_icc():quality(70)/vidio-media-production/uploads/livestreaming/schedule/thumbnail/5028305/9c807c.jpg"/>
   </programme>
-  <programme channel="205" start="20260503213000 +0000" stop="20260503230000 +0000">
+  <programme channel="205" start="20260503212500 +0000" stop="20260503230000 +0000">
     <title lang="id">Fokus Pagi</title>
     <desc lang="id">Berita Lengkap dan Terkini Dari Dalam dan Luar Negeri Seputar Isu Politik, Ekonomi, Hukum, Kriminal, Sosial Budaya, Olahraga, dan Lain-Lain.</desc>
     <icon src="https://thumbor.prod.vidiocdn.com/cBZL7ITaJCof6cqtayFee2uJCX8=/287x162/filters:strip_icc():quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/image/205/indosiar-d9a3d0.jpg"/>
@@ -9104,12 +9104,16 @@
     <desc lang="id">Liga Italia Serie A merupakan kompetisi sepak bola profesional tertinggi di sistem liga sepak bola Italia. Sebanyak 20 klub bersaing untuk memperebutkan juara kompetisi ini.</desc>
     <icon src="https://thumbor.prod.vidiocdn.com/20tRQaK9Gps_wFQL5rY-XgRbrs4=/287x162/filters:strip_icc():quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/image/782/antv-de8530.jpg"/>
   </programme>
-  <programme channel="782" start="20260503194500 +0000" stop="20260503220000 +0000">
+  <programme channel="782" start="20260503180000 +0000" stop="20260503194500 +0000">
+    <title lang="id">Bioskop Asia : Will of Iron</title>
+    <icon src="https://thumbor.prod.vidiocdn.com/20tRQaK9Gps_wFQL5rY-XgRbrs4=/287x162/filters:strip_icc():quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/image/782/antv-de8530.jpg"/>
+  </programme>
+  <programme channel="782" start="20260503194500 +0000" stop="20260503214000 +0000">
     <title lang="id">Mega Bollywood: Dear Zindagi</title>
     <desc lang="id">Kaira mulai menderita insomnia usai menghadapi serangkaian kemerosotan dalam karier dan percintaan. Ia pun menghubungi seorang psikolog bernama Dr. Jehangir Khan yang menggunakan metode inkonvensional untuk merawatnya.</desc>
     <icon src="https://thumbor.prod.vidiocdn.com/Tu8876gdqVwDDqWaUwpfEG3xYwY=/287x162/filters:strip_icc():quality(70)/vidio-media-production/uploads/livestreaming/schedule/thumbnail/5057825/0a9406.jpg"/>
   </programme>
-  <programme channel="782" start="20260503220000 +0000" stop="20260503230000 +0000">
+  <programme channel="782" start="20260503214000 +0000" stop="20260503230000 +0000">
     <title lang="id">Ummi</title>
     <desc lang="id">Kisah perjuangan Ummi Marwah, seorang ustazah, dalam menjaga keutuhan rumah tangga dan mendidik anak-anaknya. Abah Asep, suaminya, berperilaku arogan dan selingkuh dengan asisten rumah tangga.</desc>
     <icon src="https://thumbor.prod.vidiocdn.com/20tRQaK9Gps_wFQL5rY-XgRbrs4=/287x162/filters:strip_icc():quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/image/782/antv-de8530.jpg"/>
@@ -13706,12 +13710,12 @@
     <desc lang="id">Highlight</desc>
     <icon src="https://thumbor.prod.vidiocdn.com/84KfVJ1EkCZE1TUxZXNvtr5sNmk=/287x162/filters:strip_icc():quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/image/18189/champions-golf-1-ffdd6c.jpg"/>
   </programme>
-  <programme channel="18189" start="20260503150000 +0000" stop="20260503155900 +0000">
+  <programme channel="18189" start="20260503150000 +0000" stop="20260503153300 +0000">
     <title lang="id">FedEXCup Playoffs 2025</title>
     <desc lang="id">Officials Film</desc>
     <icon src="https://thumbor.prod.vidiocdn.com/84KfVJ1EkCZE1TUxZXNvtr5sNmk=/287x162/filters:strip_icc():quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/image/18189/champions-golf-1-ffdd6c.jpg"/>
   </programme>
-  <programme channel="18189" start="20260503160000 +0000" stop="20260503220000 +0000">
+  <programme channel="18189" start="20260503153300 +0000" stop="20260503204900 +0000">
     <title lang="id">Round 4 - Cadillac Championship 2026</title>
     <desc lang="id">Nonton streaming pertandingan seru Round 4 - Cadillac Championship 2026. Saksikan aksi-aksi terbaik dari tim yang bersaing ketat untuk meraih kemenangan. Dapatkan informasi lengkap mengenai jadwal pertandingan dan hasil pertandingan terbaru hanya di Vidio.</desc>
     <icon src="https://thumbor.prod.vidiocdn.com/2kAtrrsqvP9rLk9YOUGmC0whUjA=/287x162/filters:strip_icc():quality(70)/vidio-media-production/uploads/livestreaming/schedule/thumbnail/5055564/ff1a17.jpg"/>
