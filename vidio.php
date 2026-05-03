@@ -9118,12 +9118,12 @@
     <desc lang="id">Kisah perjuangan Ummi Marwah, seorang ustazah, dalam menjaga keutuhan rumah tangga dan mendidik anak-anaknya. Abah Asep, suaminya, berperilaku arogan dan selingkuh dengan asisten rumah tangga.</desc>
     <icon src="https://thumbor.prod.vidiocdn.com/20tRQaK9Gps_wFQL5rY-XgRbrs4=/287x162/filters:strip_icc():quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/image/782/antv-de8530.jpg"/>
   </programme>
-  <programme channel="782" start="20260503230000 +0000" stop="20260504010000 +0000">
+  <programme channel="782" start="20260503230000 +0000" stop="20260504005800 +0000">
     <title lang="id">Kasautii</title>
     <desc lang="id">Anurag dan Prerna kuliah di universitas yang sama, dan akhirnya menjalin hubungan erat. Namun, mereka harus menghadapi orang-orang yang ingin memisahkan keduanya, karena perbedaan status sosial.</desc>
     <icon src="https://thumbor.prod.vidiocdn.com/gatboGqWfWLJc3u5IvZoo4u2wxg=/287x162/filters:strip_icc():quality(70)/vidio-media-production/uploads/livestreaming/schedule/thumbnail/5057827/d513cc.jpg"/>
   </programme>
-  <programme channel="782" start="20260504010000 +0000" stop="20260504023000 +0000">
+  <programme channel="782" start="20260504005800 +0000" stop="20260504023000 +0000">
     <title lang="id">Misteri Sungai Mekong</title>
     <desc lang="id">Dr. Akkanee dan krunya melakukan perjalanan ke sebuah desa yang kuno dan penuh misteri untuk mempelajari fenomena paranormal dan membuktikan bahwa hal itu tidak benar.</desc>
     <icon src="https://thumbor.prod.vidiocdn.com/20tRQaK9Gps_wFQL5rY-XgRbrs4=/287x162/filters:strip_icc():quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/image/782/antv-de8530.jpg"/>
@@ -9139,8 +9139,8 @@
     <icon src="https://thumbor.prod.vidiocdn.com/FJfE7xdzvSs31FByvumi1SevO_s=/287x162/filters:strip_icc():quality(70)/vidio-media-production/uploads/livestreaming/schedule/thumbnail/5057832/644a28.jpg"/>
   </programme>
   <programme channel="782" start="20260504080000 +0000" stop="20260504100000 +0000">
-    <title lang="id">TERI MERI DORIYAAN</title>
-    <icon src="https://thumbor.prod.vidiocdn.com/20tRQaK9Gps_wFQL5rY-XgRbrs4=/287x162/filters:strip_icc():quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/image/782/antv-de8530.jpg"/>
+    <title lang="id">Teri Meri Doriyaann</title>
+    <icon src="https://thumbor.prod.vidiocdn.com/-PCZe5N9ve70wJw2J18TlNQrNdE=/287x162/filters:strip_icc():quality(70)/vidio-media-production/uploads/livestreaming/schedule/thumbnail/5058415/a65fa0.jpg"/>
   </programme>
   <programme channel="782" start="20260504100000 +0000" stop="20260504120000 +0000">
     <title lang="id">Vasudha</title>
