@@ -1432,7 +1432,12 @@
     <title lang="id">Bioskop Trans TV</title>
     <icon src="https://thumbor.prod.vidiocdn.com/jxTIJmZhxDpj_kXDBTQtSU9Bbs4=/287x162/filters:strip_icc():quality(70)/vidio-media-production/uploads/tv_program/thumbnail/382657/b1374a.jpg"/>
   </programme>
-  <programme channel="733" start="20260503170000 +0000" stop="20260503183000 +0000">
+  <programme channel="733" start="20260503161500 +0000" stop="20260503183000 +0000">
+    <title lang="id">Bioskop TransTV: Braven</title>
+    <desc lang="id">Ketika seorang penebang sederhana yang tinggal di sepanjang perbatasan antara Amerika Serikat dan Kanada berhadapan dengan sekelompok penyelundup narkoba kejam, dia harus mengerahkan segala kemampuannya demi melindungi keluarganya.</desc>
+    <icon src="https://thumbor.prod.vidiocdn.com/eDxnkfbC9tu2_nK1bM0d9sAA8pc=/287x162/filters:strip_icc():quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/image/733/trans-tv-3836a5.jpg"/>
+  </programme>
+  <programme channel="733" start="20260503161500 +0000" stop="20260503183000 +0000">
     <title lang="id">Bioskop TransTV: Braven</title>
     <desc lang="id">Ketika seorang penebang sederhana yang tinggal di sepanjang perbatasan antara Amerika Serikat dan Kanada berhadapan dengan sekelompok penyelundup narkoba kejam, dia harus mengerahkan segala kemampuannya demi melindungi keluarganya.</desc>
     <icon src="https://thumbor.prod.vidiocdn.com/eDxnkfbC9tu2_nK1bM0d9sAA8pc=/287x162/filters:strip_icc():quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/image/733/trans-tv-3836a5.jpg"/>
@@ -3721,17 +3726,17 @@
     <desc lang="id">Program berita penutup hari di Kompas TV yang menyajikan rangkuman peristiwa secara reflektif, tenang, namun tetap kritis. Program ini hadir untuk memberikan informasi penting yang terjadi sejak pagi hingga menjelang tengah malam</desc>
     <icon src="https://thumbor.prod.vidiocdn.com/jj9luSHlZk2jbvjSgqs3OHK1LOc=/287x162/filters:strip_icc():quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/image/874/kompas-tv-98863c.jpg"/>
   </programme>
-  <programme channel="874" start="20260503143000 +0000" stop="20260503164500 +0000">
+  <programme channel="874" start="20260503143000 +0000" stop="20260503165000 +0000">
     <title lang="id">Eredivisie 2025/26 Sparta Rotterdam vs Go Ahead Eagles</title>
     <desc lang="id">Khusus pada jam tayang ini, program tidak mendapatkan rights untuk tayang di OTT, Pay TV dan platform digital lainnya (Program hanya tayang di FTA Kompas TV)</desc>
     <icon src="https://thumbor.prod.vidiocdn.com/jj9luSHlZk2jbvjSgqs3OHK1LOc=/287x162/filters:strip_icc():quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/image/874/kompas-tv-98863c.jpg"/>
   </programme>
-  <programme channel="874" start="20260503164500 +0000" stop="20260503170000 +0000">
+  <programme channel="874" start="20260503165000 +0000" stop="20260503170000 +0000">
     <title lang="id">News Or Hoax</title>
     <desc lang="id">Membahas berita tertentu dan mengkategorikannya sebagai berita yang akurat atau hanya rumor</desc>
     <icon src="https://thumbor.prod.vidiocdn.com/jj9luSHlZk2jbvjSgqs3OHK1LOc=/287x162/filters:strip_icc():quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/image/874/kompas-tv-98863c.jpg"/>
   </programme>
-  <programme channel="874" start="20260503164500 +0000" stop="20260503170000 +0000">
+  <programme channel="874" start="20260503165000 +0000" stop="20260503170000 +0000">
     <title lang="id">News Or Hoax</title>
     <desc lang="id">Membahas berita tertentu dan mengkategorikannya sebagai berita yang akurat atau hanya rumor</desc>
     <icon src="https://thumbor.prod.vidiocdn.com/jj9luSHlZk2jbvjSgqs3OHK1LOc=/287x162/filters:strip_icc():quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/image/874/kompas-tv-98863c.jpg"/>
@@ -8039,17 +8044,17 @@
     <title lang="id">Filler</title>
     <icon src="https://thumbor.prod.vidiocdn.com/edoqRinFCRhrRwQ2ngcXacb_q74=/287x162/filters:strip_icc():quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/image/6685/champions-tv-1-54e282.jpg"/>
   </programme>
-  <programme channel="6685" start="20260503144000 +0000" stop="20260503170000 +0000">
+  <programme channel="6685" start="20260503144000 +0000" stop="20260503165000 +0000">
     <title lang="id">AZ Alkmaar vs Twente - Eredivisie</title>
     <desc lang="id">Nonton streaming pertandingan seru AZ Alkmaar vs Twente - Eredivisie. Saksikan aksi-aksi terbaik dari tim yang bersaing ketat untuk meraih kemenangan. Dapatkan informasi lengkap mengenai jadwal pertandingan dan hasil pertandingan terbaru hanya di Vidio.</desc>
     <icon src="https://thumbor.prod.vidiocdn.com/c41B-PjuqbvnXNsc2GxVP4wgG_g=/287x162/filters:strip_icc():quality(70)/vidio-media-production/uploads/livestreaming/schedule/thumbnail/5038923/66166c.jpg"/>
   </programme>
-  <programme channel="6685" start="20260503144000 +0000" stop="20260503170000 +0000">
-    <title lang="id">AZ Alkmaar vs Twente - Eredivisie</title>
-    <desc lang="id">Nonton streaming pertandingan seru AZ Alkmaar vs Twente - Eredivisie. Saksikan aksi-aksi terbaik dari tim yang bersaing ketat untuk meraih kemenangan. Dapatkan informasi lengkap mengenai jadwal pertandingan dan hasil pertandingan terbaru hanya di Vidio.</desc>
-    <icon src="https://thumbor.prod.vidiocdn.com/c41B-PjuqbvnXNsc2GxVP4wgG_g=/287x162/filters:strip_icc():quality(70)/vidio-media-production/uploads/livestreaming/schedule/thumbnail/5038923/66166c.jpg"/>
+  <programme channel="6685" start="20260503165000 +0000" stop="20260503173000 +0000">
+    <title lang="id">Eps 07 : PL Story 2024/25 - Subs</title>
+    <desc lang="id">Eps 07</desc>
+    <icon src="https://thumbor.prod.vidiocdn.com/edoqRinFCRhrRwQ2ngcXacb_q74=/287x162/filters:strip_icc():quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/image/6685/champions-tv-1-54e282.jpg"/>
   </programme>
-  <programme channel="6685" start="20260503170000 +0000" stop="20260503173000 +0000">
+  <programme channel="6685" start="20260503165000 +0000" stop="20260503173000 +0000">
     <title lang="id">Eps 07 : PL Story 2024/25 - Subs</title>
     <desc lang="id">Eps 07</desc>
     <icon src="https://thumbor.prod.vidiocdn.com/edoqRinFCRhrRwQ2ngcXacb_q74=/287x162/filters:strip_icc():quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/image/6685/champions-tv-1-54e282.jpg"/>
@@ -10604,10 +10609,6 @@
     <desc lang="id">Perjalanan hidup Madun dalam memperjuangkan cita-citanya untuk menjadi seorang pemain bola. Bapaknya, Syafe'i ingin anaknya menjadi seorang kyai atau ustad (ahli agama).</desc>
     <icon src="https://thumbor.prod.vidiocdn.com/01IggaPN4sSDILtEw_0MxWGgmO8=/287x162/filters:strip_icc():quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/image/8237/mentari-tv-01d2b0.jpg"/>
   </programme>
-  <programme channel="8237" start="20260502190000 +0000" stop="20260502200000 +0000">
-    <title lang="id">Oddbods</title>
-    <icon src="https://thumbor.prod.vidiocdn.com/nHpYJq70Bm14vE9Yv6ZAMsCkQzg=/287x162/filters:strip_icc():quality(70)/vidio-media-production/uploads/tv_program/thumbnail/2072/2174e9.jpg"/>
-  </programme>
   <programme channel="8237" start="20260502200000 +0000" stop="20260502210000 +0000">
     <title lang="id">Mumfie</title>
     <icon src="https://thumbor.prod.vidiocdn.com/01IggaPN4sSDILtEw_0MxWGgmO8=/287x162/filters:strip_icc():quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/image/8237/mentari-tv-01d2b0.jpg"/>
@@ -10699,10 +10700,6 @@
     <title lang="id">Madun</title>
     <desc lang="id">Perjalanan hidup Madun dalam memperjuangkan cita-citanya untuk menjadi seorang pemain bola. Bapaknya, Syafe'i ingin anaknya menjadi seorang kyai atau ustad (ahli agama).</desc>
     <icon src="https://thumbor.prod.vidiocdn.com/01IggaPN4sSDILtEw_0MxWGgmO8=/287x162/filters:strip_icc():quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/image/8237/mentari-tv-01d2b0.jpg"/>
-  </programme>
-  <programme channel="8237" start="20260503190000 +0000" stop="20260503200000 +0000">
-    <title lang="id">Oddbods</title>
-    <icon src="https://thumbor.prod.vidiocdn.com/nHpYJq70Bm14vE9Yv6ZAMsCkQzg=/287x162/filters:strip_icc():quality(70)/vidio-media-production/uploads/tv_program/thumbnail/2072/2174e9.jpg"/>
   </programme>
   <programme channel="8237" start="20260503200000 +0000" stop="20260503210000 +0000">
     <title lang="id">Mumfie</title>
@@ -13407,17 +13404,17 @@
     <desc lang="id">South Africa vs Argentina - Cup Final, Hong Kong - Men</desc>
     <icon src="https://thumbor.prod.vidiocdn.com/VmoYokSeKr_3SubUXC-rMC-EtQM=/287x162/filters:strip_icc():quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/image/17875/bein-2-25a5f9.jpg"/>
   </programme>
-  <programme channel="17875" start="20260503142500 +0000" stop="20260503163000 +0000">
+  <programme channel="17875" start="20260503142500 +0000" stop="20260503162600 +0000">
     <title lang="id">Barcelona Femeni vs Bayern Munich - UEFA Women's Champions League</title>
     <desc lang="id">Nonton streaming pertandingan seru Barcelona Femeni vs Bayern Munich - UEFA Women's Champions League. Saksikan aksi-aksi terbaik dari tim yang bersaing ketat untuk meraih kemenangan. Dapatkan informasi lengkap mengenai jadwal pertandingan dan hasil pertandingan terbaru hanya di Vidio.</desc>
     <icon src="https://thumbor.prod.vidiocdn.com/Gy7NECSFwOj8VNdx_e8ce8aA7es=/287x162/filters:strip_icc():quality(70)/vidio-media-production/uploads/livestreaming/schedule/thumbnail/5055276/fa9fff.jpg"/>
   </programme>
-  <programme channel="17875" start="20260503163000 +0000" stop="20260503183000 +0000">
+  <programme channel="17875" start="20260503162600 +0000" stop="20260503183000 +0000">
     <title lang="id">Real Betis vs Oviedo - LaLiga</title>
     <desc lang="id">Nonton streaming pertandingan seru Real Betis vs Oviedo - LaLiga. Saksikan aksi-aksi terbaik dari tim yang bersaing ketat untuk meraih kemenangan. Dapatkan informasi lengkap mengenai jadwal pertandingan dan hasil pertandingan terbaru hanya di Vidio.</desc>
     <icon src="https://thumbor.prod.vidiocdn.com/COsFcQZOovBSz8cooFypuC0L54U=/287x162/filters:strip_icc():quality(70)/vidio-media-production/uploads/livestreaming/schedule/thumbnail/5038933/5e689e.jpg"/>
   </programme>
-  <programme channel="17875" start="20260503163000 +0000" stop="20260503183000 +0000">
+  <programme channel="17875" start="20260503162600 +0000" stop="20260503183000 +0000">
     <title lang="id">Real Betis vs Oviedo - LaLiga</title>
     <desc lang="id">Nonton streaming pertandingan seru Real Betis vs Oviedo - LaLiga. Saksikan aksi-aksi terbaik dari tim yang bersaing ketat untuk meraih kemenangan. Dapatkan informasi lengkap mengenai jadwal pertandingan dan hasil pertandingan terbaru hanya di Vidio.</desc>
     <icon src="https://thumbor.prod.vidiocdn.com/COsFcQZOovBSz8cooFypuC0L54U=/287x162/filters:strip_icc():quality(70)/vidio-media-production/uploads/livestreaming/schedule/thumbnail/5038933/5e689e.jpg"/>
@@ -14889,6 +14886,814 @@
   <programme channel="18162" start="20260503163000 +0000" stop="20260503165900 +0000">
     <title lang="id">Dibalik Senjata</title>
     <desc lang="id">Dibalik Senjata adalah program informatif dan edukatif yang mengulas berbagai perkembangan, kekuatan, teknologi, dan strategi militer dari berbagai negara di Indonesia. Disajikan dengan pendekatan visual modern dan narasi yang mudah dipahami, program ini mengajak penonton untuk memahami dinamika militer global, baik dari sisi teknologi senjata, taktik perang, dan struktur angkatan bersenjata.</desc>
+    <icon src="https://thumbor.prod.vidiocdn.com/ddN3lE68JL046lQtz4gIQe03rIQ=/287x162/filters:strip_icc():quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/image/18162/garuda-tv-b27da3.jpg"/>
+  </programme>
+  <programme channel="18162" start="20260503170000 +0000" stop="20260503180000 +0000">
+    <title lang="id">Kriminal +62</title>
+    <icon src="https://thumbor.prod.vidiocdn.com/ddN3lE68JL046lQtz4gIQe03rIQ=/287x162/filters:strip_icc():quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/image/18162/garuda-tv-b27da3.jpg"/>
+  </programme>
+  <programme channel="18162" start="20260503180000 +0000" stop="20260503190000 +0000">
+    <title lang="id">Misteri Hidup</title>
+    <icon src="https://thumbor.prod.vidiocdn.com/ddN3lE68JL046lQtz4gIQe03rIQ=/287x162/filters:strip_icc():quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/image/18162/garuda-tv-b27da3.jpg"/>
+  </programme>
+  <programme channel="18162" start="20260503190000 +0000" stop="20260503200000 +0000">
+    <title lang="id">Amazing Syafaat</title>
+    <icon src="https://thumbor.prod.vidiocdn.com/ddN3lE68JL046lQtz4gIQe03rIQ=/287x162/filters:strip_icc():quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/image/18162/garuda-tv-b27da3.jpg"/>
+  </programme>
+  <programme channel="18162" start="20260503200000 +0000" stop="20260503203000 +0000">
+    <title lang="id">Info Miss Wow</title>
+    <icon src="https://thumbor.prod.vidiocdn.com/ddN3lE68JL046lQtz4gIQe03rIQ=/287x162/filters:strip_icc():quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/image/18162/garuda-tv-b27da3.jpg"/>
+  </programme>
+  <programme channel="18162" start="20260503203000 +0000" stop="20260503210000 +0000">
+    <title lang="id">Orang Baik</title>
+    <icon src="https://thumbor.prod.vidiocdn.com/ddN3lE68JL046lQtz4gIQe03rIQ=/287x162/filters:strip_icc():quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/image/18162/garuda-tv-b27da3.jpg"/>
+  </programme>
+  <programme channel="18162" start="20260503210000 +0000" stop="20260503220000 +0000">
+    <title lang="id">Kampung Geulis</title>
+    <icon src="https://thumbor.prod.vidiocdn.com/ddN3lE68JL046lQtz4gIQe03rIQ=/287x162/filters:strip_icc():quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/image/18162/garuda-tv-b27da3.jpg"/>
+  </programme>
+  <programme channel="18162" start="20260503220000 +0000" stop="20260503230000 +0000">
+    <title lang="id">Serambi Islami</title>
+    <icon src="https://thumbor.prod.vidiocdn.com/ddN3lE68JL046lQtz4gIQe03rIQ=/287x162/filters:strip_icc():quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/image/18162/garuda-tv-b27da3.jpg"/>
+  </programme>
+  <programme channel="18162" start="20260503230000 +0000" stop="20260504000000 +0000">
+    <title lang="id">Laporan 8 Pagi</title>
+    <icon src="https://thumbor.prod.vidiocdn.com/ddN3lE68JL046lQtz4gIQe03rIQ=/287x162/filters:strip_icc():quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/image/18162/garuda-tv-b27da3.jpg"/>
+  </programme>
+  <programme channel="18162" start="20260504000000 +0000" stop="20260504003000 +0000">
+    <title lang="id">Sport 8</title>
+    <icon src="https://thumbor.prod.vidiocdn.com/ddN3lE68JL046lQtz4gIQe03rIQ=/287x162/filters:strip_icc():quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/image/18162/garuda-tv-b27da3.jpg"/>
+  </programme>
+  <programme channel="18162" start="20260504003000 +0000" stop="20260504010000 +0000">
+    <title lang="id">Anak Indonesia</title>
+    <icon src="https://thumbor.prod.vidiocdn.com/ddN3lE68JL046lQtz4gIQe03rIQ=/287x162/filters:strip_icc():quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/image/18162/garuda-tv-b27da3.jpg"/>
+  </programme>
+  <programme channel="18162" start="20260504010000 +0000" stop="20260504013000 +0000">
+    <title lang="id">Pesona Indonesia</title>
+    <icon src="https://thumbor.prod.vidiocdn.com/ddN3lE68JL046lQtz4gIQe03rIQ=/287x162/filters:strip_icc():quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/image/18162/garuda-tv-b27da3.jpg"/>
+  </programme>
+  <programme channel="18162" start="20260504013000 +0000" stop="20260504020000 +0000">
+    <title lang="id">Bt Guru Grooming</title>
+    <icon src="https://thumbor.prod.vidiocdn.com/ddN3lE68JL046lQtz4gIQe03rIQ=/287x162/filters:strip_icc():quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/image/18162/garuda-tv-b27da3.jpg"/>
+  </programme>
+  <programme channel="18162" start="20260504020000 +0000" stop="20260504023000 +0000">
+    <title lang="id">Ekonomi 8</title>
+    <icon src="https://thumbor.prod.vidiocdn.com/ddN3lE68JL046lQtz4gIQe03rIQ=/287x162/filters:strip_icc():quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/image/18162/garuda-tv-b27da3.jpg"/>
+  </programme>
+  <programme channel="18162" start="20260504023000 +0000" stop="20260504030000 +0000">
+    <title lang="id">Kuliner Tanggal Tua</title>
+    <icon src="https://thumbor.prod.vidiocdn.com/ddN3lE68JL046lQtz4gIQe03rIQ=/287x162/filters:strip_icc():quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/image/18162/garuda-tv-b27da3.jpg"/>
+  </programme>
+  <programme channel="18162" start="20260504030000 +0000" stop="20260504033000 +0000">
+    <title lang="id">Gosip Panas Selebriti</title>
+    <icon src="https://thumbor.prod.vidiocdn.com/ddN3lE68JL046lQtz4gIQe03rIQ=/287x162/filters:strip_icc():quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/image/18162/garuda-tv-b27da3.jpg"/>
+  </programme>
+  <programme channel="18162" start="20260504033000 +0000" stop="20260504040000 +0000">
+    <title lang="id">Orang Baik</title>
+    <icon src="https://thumbor.prod.vidiocdn.com/ddN3lE68JL046lQtz4gIQe03rIQ=/287x162/filters:strip_icc():quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/image/18162/garuda-tv-b27da3.jpg"/>
+  </programme>
+  <programme channel="18162" start="20260504040000 +0000" stop="20260504050000 +0000">
+    <title lang="id">Kriminal +62</title>
+    <icon src="https://thumbor.prod.vidiocdn.com/ddN3lE68JL046lQtz4gIQe03rIQ=/287x162/filters:strip_icc():quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/image/18162/garuda-tv-b27da3.jpg"/>
+  </programme>
+  <programme channel="18162" start="20260504050000 +0000" stop="20260504060000 +0000">
+    <title lang="id">Laporan 8 Siang</title>
+    <icon src="https://thumbor.prod.vidiocdn.com/ddN3lE68JL046lQtz4gIQe03rIQ=/287x162/filters:strip_icc():quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/image/18162/garuda-tv-b27da3.jpg"/>
+  </programme>
+  <programme channel="18162" start="20260504060000 +0000" stop="20260504063000 +0000">
+    <title lang="id">Garda Dunia</title>
+    <icon src="https://thumbor.prod.vidiocdn.com/ddN3lE68JL046lQtz4gIQe03rIQ=/287x162/filters:strip_icc():quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/image/18162/garuda-tv-b27da3.jpg"/>
+  </programme>
+  <programme channel="18162" start="20260504063000 +0000" stop="20260504070000 +0000">
+    <title lang="id">In Militer</title>
+    <icon src="https://thumbor.prod.vidiocdn.com/ddN3lE68JL046lQtz4gIQe03rIQ=/287x162/filters:strip_icc():quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/image/18162/garuda-tv-b27da3.jpg"/>
+  </programme>
+  <programme channel="18162" start="20260504070000 +0000" stop="20260504073000 +0000">
+    <title lang="id">Sport 8 Update</title>
+    <icon src="https://thumbor.prod.vidiocdn.com/ddN3lE68JL046lQtz4gIQe03rIQ=/287x162/filters:strip_icc():quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/image/18162/garuda-tv-b27da3.jpg"/>
+  </programme>
+  <programme channel="18162" start="20260504073000 +0000" stop="20260504080000 +0000">
+    <title lang="id">Pejuang Mimpi</title>
+    <icon src="https://thumbor.prod.vidiocdn.com/ddN3lE68JL046lQtz4gIQe03rIQ=/287x162/filters:strip_icc():quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/image/18162/garuda-tv-b27da3.jpg"/>
+  </programme>
+  <programme channel="18162" start="20260504080000 +0000" stop="20260504090000 +0000">
+    <title lang="id">Laporan 8 Update</title>
+    <icon src="https://thumbor.prod.vidiocdn.com/ddN3lE68JL046lQtz4gIQe03rIQ=/287x162/filters:strip_icc():quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/image/18162/garuda-tv-b27da3.jpg"/>
+  </programme>
+  <programme channel="18162" start="20260504090000 +0000" stop="20260504093000 +0000">
+    <title lang="id">Gosip Panas Selebriti</title>
+    <icon src="https://thumbor.prod.vidiocdn.com/ddN3lE68JL046lQtz4gIQe03rIQ=/287x162/filters:strip_icc():quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/image/18162/garuda-tv-b27da3.jpg"/>
+  </programme>
+  <programme channel="18162" start="20260504093000 +0000" stop="20260504100000 +0000">
+    <title lang="id">Kabinet Merah Putih</title>
+    <icon src="https://thumbor.prod.vidiocdn.com/ddN3lE68JL046lQtz4gIQe03rIQ=/287x162/filters:strip_icc():quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/image/18162/garuda-tv-b27da3.jpg"/>
+  </programme>
+  <programme channel="18162" start="20260504100000 +0000" stop="20260504110000 +0000">
+    <title lang="id">Kriminal +62</title>
+    <icon src="https://thumbor.prod.vidiocdn.com/ddN3lE68JL046lQtz4gIQe03rIQ=/287x162/filters:strip_icc():quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/image/18162/garuda-tv-b27da3.jpg"/>
+  </programme>
+  <programme channel="18162" start="20260504110000 +0000" stop="20260504120000 +0000">
+    <title lang="id">Laporan 8 Petang</title>
+    <icon src="https://thumbor.prod.vidiocdn.com/ddN3lE68JL046lQtz4gIQe03rIQ=/287x162/filters:strip_icc():quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/image/18162/garuda-tv-b27da3.jpg"/>
+  </programme>
+  <programme channel="18162" start="20260504120000 +0000" stop="20260504133000 +0000">
+    <title lang="id">Indonesia Kita</title>
+    <icon src="https://thumbor.prod.vidiocdn.com/ddN3lE68JL046lQtz4gIQe03rIQ=/287x162/filters:strip_icc():quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/image/18162/garuda-tv-b27da3.jpg"/>
+  </programme>
+  <programme channel="18162" start="20260504133000 +0000" stop="20260504140000 +0000">
+    <title lang="id">Jendela Istana</title>
+    <icon src="https://thumbor.prod.vidiocdn.com/ddN3lE68JL046lQtz4gIQe03rIQ=/287x162/filters:strip_icc():quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/image/18162/garuda-tv-b27da3.jpg"/>
+  </programme>
+  <programme channel="18162" start="20260504140000 +0000" stop="20260504150000 +0000">
+    <title lang="id">Kriminal +62</title>
+    <icon src="https://thumbor.prod.vidiocdn.com/ddN3lE68JL046lQtz4gIQe03rIQ=/287x162/filters:strip_icc():quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/image/18162/garuda-tv-b27da3.jpg"/>
+  </programme>
+  <programme channel="18162" start="20260504150000 +0000" stop="20260504160000 +0000">
+    <title lang="id">Laporan 8 Malam</title>
+    <icon src="https://thumbor.prod.vidiocdn.com/ddN3lE68JL046lQtz4gIQe03rIQ=/287x162/filters:strip_icc():quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/image/18162/garuda-tv-b27da3.jpg"/>
+  </programme>
+  <programme channel="18162" start="20260504160000 +0000" stop="20260504163000 +0000">
+    <title lang="id">Sport 8</title>
+    <icon src="https://thumbor.prod.vidiocdn.com/ddN3lE68JL046lQtz4gIQe03rIQ=/287x162/filters:strip_icc():quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/image/18162/garuda-tv-b27da3.jpg"/>
+  </programme>
+  <programme channel="18162" start="20260504163000 +0000" stop="20260504170000 +0000">
+    <title lang="id">Dibalik Senjata</title>
+    <icon src="https://thumbor.prod.vidiocdn.com/ddN3lE68JL046lQtz4gIQe03rIQ=/287x162/filters:strip_icc():quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/image/18162/garuda-tv-b27da3.jpg"/>
+  </programme>
+  <programme channel="18162" start="20260504163000 +0000" stop="20260504170000 +0000">
+    <title lang="id">Dibalik Senjata</title>
+    <icon src="https://thumbor.prod.vidiocdn.com/ddN3lE68JL046lQtz4gIQe03rIQ=/287x162/filters:strip_icc():quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/image/18162/garuda-tv-b27da3.jpg"/>
+  </programme>
+  <programme channel="18162" start="20260504170000 +0000" stop="20260504180000 +0000">
+    <title lang="id">Kriminal +62</title>
+    <icon src="https://thumbor.prod.vidiocdn.com/ddN3lE68JL046lQtz4gIQe03rIQ=/287x162/filters:strip_icc():quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/image/18162/garuda-tv-b27da3.jpg"/>
+  </programme>
+  <programme channel="18162" start="20260504180000 +0000" stop="20260504190000 +0000">
+    <title lang="id">Misteri Hidup</title>
+    <icon src="https://thumbor.prod.vidiocdn.com/ddN3lE68JL046lQtz4gIQe03rIQ=/287x162/filters:strip_icc():quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/image/18162/garuda-tv-b27da3.jpg"/>
+  </programme>
+  <programme channel="18162" start="20260504190000 +0000" stop="20260504200000 +0000">
+    <title lang="id">Amazing Syafaat</title>
+    <icon src="https://thumbor.prod.vidiocdn.com/ddN3lE68JL046lQtz4gIQe03rIQ=/287x162/filters:strip_icc():quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/image/18162/garuda-tv-b27da3.jpg"/>
+  </programme>
+  <programme channel="18162" start="20260504200000 +0000" stop="20260504203000 +0000">
+    <title lang="id">Info Miss Wow</title>
+    <icon src="https://thumbor.prod.vidiocdn.com/ddN3lE68JL046lQtz4gIQe03rIQ=/287x162/filters:strip_icc():quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/image/18162/garuda-tv-b27da3.jpg"/>
+  </programme>
+  <programme channel="18162" start="20260504203000 +0000" stop="20260504210000 +0000">
+    <title lang="id">Orang Baik</title>
+    <icon src="https://thumbor.prod.vidiocdn.com/ddN3lE68JL046lQtz4gIQe03rIQ=/287x162/filters:strip_icc():quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/image/18162/garuda-tv-b27da3.jpg"/>
+  </programme>
+  <programme channel="18162" start="20260504210000 +0000" stop="20260504220000 +0000">
+    <title lang="id">Kampung Geulis</title>
+    <icon src="https://thumbor.prod.vidiocdn.com/ddN3lE68JL046lQtz4gIQe03rIQ=/287x162/filters:strip_icc():quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/image/18162/garuda-tv-b27da3.jpg"/>
+  </programme>
+  <programme channel="18162" start="20260504220000 +0000" stop="20260504230000 +0000">
+    <title lang="id">Serambi Islami</title>
+    <icon src="https://thumbor.prod.vidiocdn.com/ddN3lE68JL046lQtz4gIQe03rIQ=/287x162/filters:strip_icc():quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/image/18162/garuda-tv-b27da3.jpg"/>
+  </programme>
+  <programme channel="18162" start="20260504230000 +0000" stop="20260505000000 +0000">
+    <title lang="id">Laporan 8 Pagi</title>
+    <icon src="https://thumbor.prod.vidiocdn.com/ddN3lE68JL046lQtz4gIQe03rIQ=/287x162/filters:strip_icc():quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/image/18162/garuda-tv-b27da3.jpg"/>
+  </programme>
+  <programme channel="18162" start="20260505000000 +0000" stop="20260505003000 +0000">
+    <title lang="id">Sport 8</title>
+    <icon src="https://thumbor.prod.vidiocdn.com/ddN3lE68JL046lQtz4gIQe03rIQ=/287x162/filters:strip_icc():quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/image/18162/garuda-tv-b27da3.jpg"/>
+  </programme>
+  <programme channel="18162" start="20260505003000 +0000" stop="20260505010000 +0000">
+    <title lang="id">Anak Indonesia</title>
+    <icon src="https://thumbor.prod.vidiocdn.com/ddN3lE68JL046lQtz4gIQe03rIQ=/287x162/filters:strip_icc():quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/image/18162/garuda-tv-b27da3.jpg"/>
+  </programme>
+  <programme channel="18162" start="20260505010000 +0000" stop="20260505013000 +0000">
+    <title lang="id">Pesona Indonesia</title>
+    <icon src="https://thumbor.prod.vidiocdn.com/ddN3lE68JL046lQtz4gIQe03rIQ=/287x162/filters:strip_icc():quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/image/18162/garuda-tv-b27da3.jpg"/>
+  </programme>
+  <programme channel="18162" start="20260505013000 +0000" stop="20260505020000 +0000">
+    <title lang="id">Bt Guru Grooming</title>
+    <icon src="https://thumbor.prod.vidiocdn.com/ddN3lE68JL046lQtz4gIQe03rIQ=/287x162/filters:strip_icc():quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/image/18162/garuda-tv-b27da3.jpg"/>
+  </programme>
+  <programme channel="18162" start="20260505020000 +0000" stop="20260505023000 +0000">
+    <title lang="id">Ekonomi 8</title>
+    <icon src="https://thumbor.prod.vidiocdn.com/ddN3lE68JL046lQtz4gIQe03rIQ=/287x162/filters:strip_icc():quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/image/18162/garuda-tv-b27da3.jpg"/>
+  </programme>
+  <programme channel="18162" start="20260505023000 +0000" stop="20260505030000 +0000">
+    <title lang="id">Kuliner Tanggal Tua</title>
+    <icon src="https://thumbor.prod.vidiocdn.com/ddN3lE68JL046lQtz4gIQe03rIQ=/287x162/filters:strip_icc():quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/image/18162/garuda-tv-b27da3.jpg"/>
+  </programme>
+  <programme channel="18162" start="20260505030000 +0000" stop="20260505033000 +0000">
+    <title lang="id">Gosip Panas Selebriti</title>
+    <icon src="https://thumbor.prod.vidiocdn.com/ddN3lE68JL046lQtz4gIQe03rIQ=/287x162/filters:strip_icc():quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/image/18162/garuda-tv-b27da3.jpg"/>
+  </programme>
+  <programme channel="18162" start="20260505033000 +0000" stop="20260505040000 +0000">
+    <title lang="id">Orang Baik</title>
+    <icon src="https://thumbor.prod.vidiocdn.com/ddN3lE68JL046lQtz4gIQe03rIQ=/287x162/filters:strip_icc():quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/image/18162/garuda-tv-b27da3.jpg"/>
+  </programme>
+  <programme channel="18162" start="20260505040000 +0000" stop="20260505050000 +0000">
+    <title lang="id">Kriminal +62</title>
+    <icon src="https://thumbor.prod.vidiocdn.com/ddN3lE68JL046lQtz4gIQe03rIQ=/287x162/filters:strip_icc():quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/image/18162/garuda-tv-b27da3.jpg"/>
+  </programme>
+  <programme channel="18162" start="20260505050000 +0000" stop="20260505060000 +0000">
+    <title lang="id">Laporan 8 Siang</title>
+    <icon src="https://thumbor.prod.vidiocdn.com/ddN3lE68JL046lQtz4gIQe03rIQ=/287x162/filters:strip_icc():quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/image/18162/garuda-tv-b27da3.jpg"/>
+  </programme>
+  <programme channel="18162" start="20260505060000 +0000" stop="20260505063000 +0000">
+    <title lang="id">Garda Dunia</title>
+    <icon src="https://thumbor.prod.vidiocdn.com/ddN3lE68JL046lQtz4gIQe03rIQ=/287x162/filters:strip_icc():quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/image/18162/garuda-tv-b27da3.jpg"/>
+  </programme>
+  <programme channel="18162" start="20260505063000 +0000" stop="20260505070000 +0000">
+    <title lang="id">In Militer</title>
+    <icon src="https://thumbor.prod.vidiocdn.com/ddN3lE68JL046lQtz4gIQe03rIQ=/287x162/filters:strip_icc():quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/image/18162/garuda-tv-b27da3.jpg"/>
+  </programme>
+  <programme channel="18162" start="20260505070000 +0000" stop="20260505073000 +0000">
+    <title lang="id">Sport 8 Update</title>
+    <icon src="https://thumbor.prod.vidiocdn.com/ddN3lE68JL046lQtz4gIQe03rIQ=/287x162/filters:strip_icc():quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/image/18162/garuda-tv-b27da3.jpg"/>
+  </programme>
+  <programme channel="18162" start="20260505073000 +0000" stop="20260505080000 +0000">
+    <title lang="id">Pejuang Mimpi</title>
+    <icon src="https://thumbor.prod.vidiocdn.com/ddN3lE68JL046lQtz4gIQe03rIQ=/287x162/filters:strip_icc():quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/image/18162/garuda-tv-b27da3.jpg"/>
+  </programme>
+  <programme channel="18162" start="20260505080000 +0000" stop="20260505090000 +0000">
+    <title lang="id">Laporan 8 Update</title>
+    <icon src="https://thumbor.prod.vidiocdn.com/ddN3lE68JL046lQtz4gIQe03rIQ=/287x162/filters:strip_icc():quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/image/18162/garuda-tv-b27da3.jpg"/>
+  </programme>
+  <programme channel="18162" start="20260505090000 +0000" stop="20260505093000 +0000">
+    <title lang="id">Gosip Panas Selebriti</title>
+    <icon src="https://thumbor.prod.vidiocdn.com/ddN3lE68JL046lQtz4gIQe03rIQ=/287x162/filters:strip_icc():quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/image/18162/garuda-tv-b27da3.jpg"/>
+  </programme>
+  <programme channel="18162" start="20260505093000 +0000" stop="20260505100000 +0000">
+    <title lang="id">Kabinet Merah Putih</title>
+    <icon src="https://thumbor.prod.vidiocdn.com/ddN3lE68JL046lQtz4gIQe03rIQ=/287x162/filters:strip_icc():quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/image/18162/garuda-tv-b27da3.jpg"/>
+  </programme>
+  <programme channel="18162" start="20260505100000 +0000" stop="20260505110000 +0000">
+    <title lang="id">Kriminal +62</title>
+    <icon src="https://thumbor.prod.vidiocdn.com/ddN3lE68JL046lQtz4gIQe03rIQ=/287x162/filters:strip_icc():quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/image/18162/garuda-tv-b27da3.jpg"/>
+  </programme>
+  <programme channel="18162" start="20260505110000 +0000" stop="20260505120000 +0000">
+    <title lang="id">Laporan 8 Petang</title>
+    <icon src="https://thumbor.prod.vidiocdn.com/ddN3lE68JL046lQtz4gIQe03rIQ=/287x162/filters:strip_icc():quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/image/18162/garuda-tv-b27da3.jpg"/>
+  </programme>
+  <programme channel="18162" start="20260505120000 +0000" stop="20260505133000 +0000">
+    <title lang="id">Indonesia Kita</title>
+    <icon src="https://thumbor.prod.vidiocdn.com/ddN3lE68JL046lQtz4gIQe03rIQ=/287x162/filters:strip_icc():quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/image/18162/garuda-tv-b27da3.jpg"/>
+  </programme>
+  <programme channel="18162" start="20260505133000 +0000" stop="20260505140000 +0000">
+    <title lang="id">Jendela Istana</title>
+    <icon src="https://thumbor.prod.vidiocdn.com/ddN3lE68JL046lQtz4gIQe03rIQ=/287x162/filters:strip_icc():quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/image/18162/garuda-tv-b27da3.jpg"/>
+  </programme>
+  <programme channel="18162" start="20260505140000 +0000" stop="20260505150000 +0000">
+    <title lang="id">Kriminal +62</title>
+    <icon src="https://thumbor.prod.vidiocdn.com/ddN3lE68JL046lQtz4gIQe03rIQ=/287x162/filters:strip_icc():quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/image/18162/garuda-tv-b27da3.jpg"/>
+  </programme>
+  <programme channel="18162" start="20260505150000 +0000" stop="20260505160000 +0000">
+    <title lang="id">Laporan 8 Malam</title>
+    <icon src="https://thumbor.prod.vidiocdn.com/ddN3lE68JL046lQtz4gIQe03rIQ=/287x162/filters:strip_icc():quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/image/18162/garuda-tv-b27da3.jpg"/>
+  </programme>
+  <programme channel="18162" start="20260505160000 +0000" stop="20260505163000 +0000">
+    <title lang="id">Sport 8</title>
+    <icon src="https://thumbor.prod.vidiocdn.com/ddN3lE68JL046lQtz4gIQe03rIQ=/287x162/filters:strip_icc():quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/image/18162/garuda-tv-b27da3.jpg"/>
+  </programme>
+  <programme channel="18162" start="20260505163000 +0000" stop="20260505170000 +0000">
+    <title lang="id">Dibalik Senjata</title>
+    <icon src="https://thumbor.prod.vidiocdn.com/ddN3lE68JL046lQtz4gIQe03rIQ=/287x162/filters:strip_icc():quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/image/18162/garuda-tv-b27da3.jpg"/>
+  </programme>
+  <programme channel="18162" start="20260505163000 +0000" stop="20260505170000 +0000">
+    <title lang="id">Dibalik Senjata</title>
+    <icon src="https://thumbor.prod.vidiocdn.com/ddN3lE68JL046lQtz4gIQe03rIQ=/287x162/filters:strip_icc():quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/image/18162/garuda-tv-b27da3.jpg"/>
+  </programme>
+  <programme channel="18162" start="20260505170000 +0000" stop="20260505180000 +0000">
+    <title lang="id">Kriminal +62</title>
+    <icon src="https://thumbor.prod.vidiocdn.com/ddN3lE68JL046lQtz4gIQe03rIQ=/287x162/filters:strip_icc():quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/image/18162/garuda-tv-b27da3.jpg"/>
+  </programme>
+  <programme channel="18162" start="20260505180000 +0000" stop="20260505190000 +0000">
+    <title lang="id">Misteri Hidup</title>
+    <icon src="https://thumbor.prod.vidiocdn.com/ddN3lE68JL046lQtz4gIQe03rIQ=/287x162/filters:strip_icc():quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/image/18162/garuda-tv-b27da3.jpg"/>
+  </programme>
+  <programme channel="18162" start="20260505190000 +0000" stop="20260505200000 +0000">
+    <title lang="id">Amazing Syafaat</title>
+    <icon src="https://thumbor.prod.vidiocdn.com/ddN3lE68JL046lQtz4gIQe03rIQ=/287x162/filters:strip_icc():quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/image/18162/garuda-tv-b27da3.jpg"/>
+  </programme>
+  <programme channel="18162" start="20260505200000 +0000" stop="20260505203000 +0000">
+    <title lang="id">Info Miss Wow</title>
+    <icon src="https://thumbor.prod.vidiocdn.com/ddN3lE68JL046lQtz4gIQe03rIQ=/287x162/filters:strip_icc():quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/image/18162/garuda-tv-b27da3.jpg"/>
+  </programme>
+  <programme channel="18162" start="20260505203000 +0000" stop="20260505210000 +0000">
+    <title lang="id">Orang Baik</title>
+    <icon src="https://thumbor.prod.vidiocdn.com/ddN3lE68JL046lQtz4gIQe03rIQ=/287x162/filters:strip_icc():quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/image/18162/garuda-tv-b27da3.jpg"/>
+  </programme>
+  <programme channel="18162" start="20260505210000 +0000" stop="20260505220000 +0000">
+    <title lang="id">Kampung Geulis</title>
+    <icon src="https://thumbor.prod.vidiocdn.com/ddN3lE68JL046lQtz4gIQe03rIQ=/287x162/filters:strip_icc():quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/image/18162/garuda-tv-b27da3.jpg"/>
+  </programme>
+  <programme channel="18162" start="20260505220000 +0000" stop="20260505230000 +0000">
+    <title lang="id">Serambi Islami</title>
+    <icon src="https://thumbor.prod.vidiocdn.com/ddN3lE68JL046lQtz4gIQe03rIQ=/287x162/filters:strip_icc():quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/image/18162/garuda-tv-b27da3.jpg"/>
+  </programme>
+  <programme channel="18162" start="20260505230000 +0000" stop="20260506000000 +0000">
+    <title lang="id">Laporan 8 Pagi</title>
+    <icon src="https://thumbor.prod.vidiocdn.com/ddN3lE68JL046lQtz4gIQe03rIQ=/287x162/filters:strip_icc():quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/image/18162/garuda-tv-b27da3.jpg"/>
+  </programme>
+  <programme channel="18162" start="20260506000000 +0000" stop="20260506003000 +0000">
+    <title lang="id">Sport 8</title>
+    <icon src="https://thumbor.prod.vidiocdn.com/ddN3lE68JL046lQtz4gIQe03rIQ=/287x162/filters:strip_icc():quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/image/18162/garuda-tv-b27da3.jpg"/>
+  </programme>
+  <programme channel="18162" start="20260506003000 +0000" stop="20260506010000 +0000">
+    <title lang="id">Anak Indonesia</title>
+    <icon src="https://thumbor.prod.vidiocdn.com/ddN3lE68JL046lQtz4gIQe03rIQ=/287x162/filters:strip_icc():quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/image/18162/garuda-tv-b27da3.jpg"/>
+  </programme>
+  <programme channel="18162" start="20260506010000 +0000" stop="20260506013000 +0000">
+    <title lang="id">Pesona Indonesia</title>
+    <icon src="https://thumbor.prod.vidiocdn.com/ddN3lE68JL046lQtz4gIQe03rIQ=/287x162/filters:strip_icc():quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/image/18162/garuda-tv-b27da3.jpg"/>
+  </programme>
+  <programme channel="18162" start="20260506013000 +0000" stop="20260506020000 +0000">
+    <title lang="id">Bt Guru Grooming</title>
+    <icon src="https://thumbor.prod.vidiocdn.com/ddN3lE68JL046lQtz4gIQe03rIQ=/287x162/filters:strip_icc():quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/image/18162/garuda-tv-b27da3.jpg"/>
+  </programme>
+  <programme channel="18162" start="20260506020000 +0000" stop="20260506023000 +0000">
+    <title lang="id">Ekonomi 8</title>
+    <icon src="https://thumbor.prod.vidiocdn.com/ddN3lE68JL046lQtz4gIQe03rIQ=/287x162/filters:strip_icc():quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/image/18162/garuda-tv-b27da3.jpg"/>
+  </programme>
+  <programme channel="18162" start="20260506023000 +0000" stop="20260506030000 +0000">
+    <title lang="id">Kuliner Tanggal Tua</title>
+    <icon src="https://thumbor.prod.vidiocdn.com/ddN3lE68JL046lQtz4gIQe03rIQ=/287x162/filters:strip_icc():quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/image/18162/garuda-tv-b27da3.jpg"/>
+  </programme>
+  <programme channel="18162" start="20260506030000 +0000" stop="20260506033000 +0000">
+    <title lang="id">Gosip Panas Selebriti</title>
+    <icon src="https://thumbor.prod.vidiocdn.com/ddN3lE68JL046lQtz4gIQe03rIQ=/287x162/filters:strip_icc():quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/image/18162/garuda-tv-b27da3.jpg"/>
+  </programme>
+  <programme channel="18162" start="20260506033000 +0000" stop="20260506040000 +0000">
+    <title lang="id">Orang Baik</title>
+    <icon src="https://thumbor.prod.vidiocdn.com/ddN3lE68JL046lQtz4gIQe03rIQ=/287x162/filters:strip_icc():quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/image/18162/garuda-tv-b27da3.jpg"/>
+  </programme>
+  <programme channel="18162" start="20260506040000 +0000" stop="20260506050000 +0000">
+    <title lang="id">Kriminal +62</title>
+    <icon src="https://thumbor.prod.vidiocdn.com/ddN3lE68JL046lQtz4gIQe03rIQ=/287x162/filters:strip_icc():quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/image/18162/garuda-tv-b27da3.jpg"/>
+  </programme>
+  <programme channel="18162" start="20260506050000 +0000" stop="20260506060000 +0000">
+    <title lang="id">Laporan 8 Siang</title>
+    <icon src="https://thumbor.prod.vidiocdn.com/ddN3lE68JL046lQtz4gIQe03rIQ=/287x162/filters:strip_icc():quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/image/18162/garuda-tv-b27da3.jpg"/>
+  </programme>
+  <programme channel="18162" start="20260506060000 +0000" stop="20260506063000 +0000">
+    <title lang="id">Garda Dunia</title>
+    <icon src="https://thumbor.prod.vidiocdn.com/ddN3lE68JL046lQtz4gIQe03rIQ=/287x162/filters:strip_icc():quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/image/18162/garuda-tv-b27da3.jpg"/>
+  </programme>
+  <programme channel="18162" start="20260506063000 +0000" stop="20260506070000 +0000">
+    <title lang="id">In Militer</title>
+    <icon src="https://thumbor.prod.vidiocdn.com/ddN3lE68JL046lQtz4gIQe03rIQ=/287x162/filters:strip_icc():quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/image/18162/garuda-tv-b27da3.jpg"/>
+  </programme>
+  <programme channel="18162" start="20260506070000 +0000" stop="20260506073000 +0000">
+    <title lang="id">Sport 8 Update</title>
+    <icon src="https://thumbor.prod.vidiocdn.com/ddN3lE68JL046lQtz4gIQe03rIQ=/287x162/filters:strip_icc():quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/image/18162/garuda-tv-b27da3.jpg"/>
+  </programme>
+  <programme channel="18162" start="20260506073000 +0000" stop="20260506080000 +0000">
+    <title lang="id">Pejuang Mimpi</title>
+    <icon src="https://thumbor.prod.vidiocdn.com/ddN3lE68JL046lQtz4gIQe03rIQ=/287x162/filters:strip_icc():quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/image/18162/garuda-tv-b27da3.jpg"/>
+  </programme>
+  <programme channel="18162" start="20260506080000 +0000" stop="20260506090000 +0000">
+    <title lang="id">Laporan 8 Update</title>
+    <icon src="https://thumbor.prod.vidiocdn.com/ddN3lE68JL046lQtz4gIQe03rIQ=/287x162/filters:strip_icc():quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/image/18162/garuda-tv-b27da3.jpg"/>
+  </programme>
+  <programme channel="18162" start="20260506090000 +0000" stop="20260506093000 +0000">
+    <title lang="id">Gosip Panas Selebriti</title>
+    <icon src="https://thumbor.prod.vidiocdn.com/ddN3lE68JL046lQtz4gIQe03rIQ=/287x162/filters:strip_icc():quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/image/18162/garuda-tv-b27da3.jpg"/>
+  </programme>
+  <programme channel="18162" start="20260506093000 +0000" stop="20260506100000 +0000">
+    <title lang="id">Kabinet Merah Putih</title>
+    <icon src="https://thumbor.prod.vidiocdn.com/ddN3lE68JL046lQtz4gIQe03rIQ=/287x162/filters:strip_icc():quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/image/18162/garuda-tv-b27da3.jpg"/>
+  </programme>
+  <programme channel="18162" start="20260506100000 +0000" stop="20260506110000 +0000">
+    <title lang="id">Kriminal +62</title>
+    <icon src="https://thumbor.prod.vidiocdn.com/ddN3lE68JL046lQtz4gIQe03rIQ=/287x162/filters:strip_icc():quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/image/18162/garuda-tv-b27da3.jpg"/>
+  </programme>
+  <programme channel="18162" start="20260506110000 +0000" stop="20260506120000 +0000">
+    <title lang="id">Laporan 8 Petang</title>
+    <icon src="https://thumbor.prod.vidiocdn.com/ddN3lE68JL046lQtz4gIQe03rIQ=/287x162/filters:strip_icc():quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/image/18162/garuda-tv-b27da3.jpg"/>
+  </programme>
+  <programme channel="18162" start="20260506120000 +0000" stop="20260506133000 +0000">
+    <title lang="id">Indonesia Kita</title>
+    <icon src="https://thumbor.prod.vidiocdn.com/ddN3lE68JL046lQtz4gIQe03rIQ=/287x162/filters:strip_icc():quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/image/18162/garuda-tv-b27da3.jpg"/>
+  </programme>
+  <programme channel="18162" start="20260506133000 +0000" stop="20260506140000 +0000">
+    <title lang="id">Jendela Istana</title>
+    <icon src="https://thumbor.prod.vidiocdn.com/ddN3lE68JL046lQtz4gIQe03rIQ=/287x162/filters:strip_icc():quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/image/18162/garuda-tv-b27da3.jpg"/>
+  </programme>
+  <programme channel="18162" start="20260506140000 +0000" stop="20260506150000 +0000">
+    <title lang="id">Kriminal +62</title>
+    <icon src="https://thumbor.prod.vidiocdn.com/ddN3lE68JL046lQtz4gIQe03rIQ=/287x162/filters:strip_icc():quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/image/18162/garuda-tv-b27da3.jpg"/>
+  </programme>
+  <programme channel="18162" start="20260506150000 +0000" stop="20260506160000 +0000">
+    <title lang="id">Laporan 8 Malam</title>
+    <icon src="https://thumbor.prod.vidiocdn.com/ddN3lE68JL046lQtz4gIQe03rIQ=/287x162/filters:strip_icc():quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/image/18162/garuda-tv-b27da3.jpg"/>
+  </programme>
+  <programme channel="18162" start="20260506160000 +0000" stop="20260506163000 +0000">
+    <title lang="id">Sport 8</title>
+    <icon src="https://thumbor.prod.vidiocdn.com/ddN3lE68JL046lQtz4gIQe03rIQ=/287x162/filters:strip_icc():quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/image/18162/garuda-tv-b27da3.jpg"/>
+  </programme>
+  <programme channel="18162" start="20260506163000 +0000" stop="20260506170000 +0000">
+    <title lang="id">Dibalik Senjata</title>
+    <icon src="https://thumbor.prod.vidiocdn.com/ddN3lE68JL046lQtz4gIQe03rIQ=/287x162/filters:strip_icc():quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/image/18162/garuda-tv-b27da3.jpg"/>
+  </programme>
+  <programme channel="18162" start="20260506163000 +0000" stop="20260506170000 +0000">
+    <title lang="id">Dibalik Senjata</title>
+    <icon src="https://thumbor.prod.vidiocdn.com/ddN3lE68JL046lQtz4gIQe03rIQ=/287x162/filters:strip_icc():quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/image/18162/garuda-tv-b27da3.jpg"/>
+  </programme>
+  <programme channel="18162" start="20260506170000 +0000" stop="20260506180000 +0000">
+    <title lang="id">Kriminal +62</title>
+    <icon src="https://thumbor.prod.vidiocdn.com/ddN3lE68JL046lQtz4gIQe03rIQ=/287x162/filters:strip_icc():quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/image/18162/garuda-tv-b27da3.jpg"/>
+  </programme>
+  <programme channel="18162" start="20260506180000 +0000" stop="20260506190000 +0000">
+    <title lang="id">Misteri Hidup</title>
+    <icon src="https://thumbor.prod.vidiocdn.com/ddN3lE68JL046lQtz4gIQe03rIQ=/287x162/filters:strip_icc():quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/image/18162/garuda-tv-b27da3.jpg"/>
+  </programme>
+  <programme channel="18162" start="20260506190000 +0000" stop="20260506200000 +0000">
+    <title lang="id">Amazing Syafaat</title>
+    <icon src="https://thumbor.prod.vidiocdn.com/ddN3lE68JL046lQtz4gIQe03rIQ=/287x162/filters:strip_icc():quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/image/18162/garuda-tv-b27da3.jpg"/>
+  </programme>
+  <programme channel="18162" start="20260506200000 +0000" stop="20260506203000 +0000">
+    <title lang="id">Info Miss Wow</title>
+    <icon src="https://thumbor.prod.vidiocdn.com/ddN3lE68JL046lQtz4gIQe03rIQ=/287x162/filters:strip_icc():quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/image/18162/garuda-tv-b27da3.jpg"/>
+  </programme>
+  <programme channel="18162" start="20260506203000 +0000" stop="20260506210000 +0000">
+    <title lang="id">Orang Baik</title>
+    <icon src="https://thumbor.prod.vidiocdn.com/ddN3lE68JL046lQtz4gIQe03rIQ=/287x162/filters:strip_icc():quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/image/18162/garuda-tv-b27da3.jpg"/>
+  </programme>
+  <programme channel="18162" start="20260506210000 +0000" stop="20260506220000 +0000">
+    <title lang="id">Kampung Geulis</title>
+    <icon src="https://thumbor.prod.vidiocdn.com/ddN3lE68JL046lQtz4gIQe03rIQ=/287x162/filters:strip_icc():quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/image/18162/garuda-tv-b27da3.jpg"/>
+  </programme>
+  <programme channel="18162" start="20260506220000 +0000" stop="20260506230000 +0000">
+    <title lang="id">Serambi Islami</title>
+    <icon src="https://thumbor.prod.vidiocdn.com/ddN3lE68JL046lQtz4gIQe03rIQ=/287x162/filters:strip_icc():quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/image/18162/garuda-tv-b27da3.jpg"/>
+  </programme>
+  <programme channel="18162" start="20260506230000 +0000" stop="20260507000000 +0000">
+    <title lang="id">Laporan 8 Pagi</title>
+    <icon src="https://thumbor.prod.vidiocdn.com/ddN3lE68JL046lQtz4gIQe03rIQ=/287x162/filters:strip_icc():quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/image/18162/garuda-tv-b27da3.jpg"/>
+  </programme>
+  <programme channel="18162" start="20260507000000 +0000" stop="20260507003000 +0000">
+    <title lang="id">Sport 8</title>
+    <icon src="https://thumbor.prod.vidiocdn.com/ddN3lE68JL046lQtz4gIQe03rIQ=/287x162/filters:strip_icc():quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/image/18162/garuda-tv-b27da3.jpg"/>
+  </programme>
+  <programme channel="18162" start="20260507003000 +0000" stop="20260507010000 +0000">
+    <title lang="id">Anak Indonesia</title>
+    <icon src="https://thumbor.prod.vidiocdn.com/ddN3lE68JL046lQtz4gIQe03rIQ=/287x162/filters:strip_icc():quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/image/18162/garuda-tv-b27da3.jpg"/>
+  </programme>
+  <programme channel="18162" start="20260507010000 +0000" stop="20260507013000 +0000">
+    <title lang="id">Pesona Indonesia</title>
+    <icon src="https://thumbor.prod.vidiocdn.com/ddN3lE68JL046lQtz4gIQe03rIQ=/287x162/filters:strip_icc():quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/image/18162/garuda-tv-b27da3.jpg"/>
+  </programme>
+  <programme channel="18162" start="20260507013000 +0000" stop="20260507020000 +0000">
+    <title lang="id">Bt Guru Grooming</title>
+    <icon src="https://thumbor.prod.vidiocdn.com/ddN3lE68JL046lQtz4gIQe03rIQ=/287x162/filters:strip_icc():quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/image/18162/garuda-tv-b27da3.jpg"/>
+  </programme>
+  <programme channel="18162" start="20260507020000 +0000" stop="20260507023000 +0000">
+    <title lang="id">Ekonomi 8</title>
+    <icon src="https://thumbor.prod.vidiocdn.com/ddN3lE68JL046lQtz4gIQe03rIQ=/287x162/filters:strip_icc():quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/image/18162/garuda-tv-b27da3.jpg"/>
+  </programme>
+  <programme channel="18162" start="20260507023000 +0000" stop="20260507030000 +0000">
+    <title lang="id">Kuliner Tanggal Tua</title>
+    <icon src="https://thumbor.prod.vidiocdn.com/ddN3lE68JL046lQtz4gIQe03rIQ=/287x162/filters:strip_icc():quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/image/18162/garuda-tv-b27da3.jpg"/>
+  </programme>
+  <programme channel="18162" start="20260507030000 +0000" stop="20260507033000 +0000">
+    <title lang="id">Gosip Panas Selebriti</title>
+    <icon src="https://thumbor.prod.vidiocdn.com/ddN3lE68JL046lQtz4gIQe03rIQ=/287x162/filters:strip_icc():quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/image/18162/garuda-tv-b27da3.jpg"/>
+  </programme>
+  <programme channel="18162" start="20260507033000 +0000" stop="20260507040000 +0000">
+    <title lang="id">Orang Baik</title>
+    <icon src="https://thumbor.prod.vidiocdn.com/ddN3lE68JL046lQtz4gIQe03rIQ=/287x162/filters:strip_icc():quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/image/18162/garuda-tv-b27da3.jpg"/>
+  </programme>
+  <programme channel="18162" start="20260507040000 +0000" stop="20260507050000 +0000">
+    <title lang="id">Kriminal +62</title>
+    <icon src="https://thumbor.prod.vidiocdn.com/ddN3lE68JL046lQtz4gIQe03rIQ=/287x162/filters:strip_icc():quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/image/18162/garuda-tv-b27da3.jpg"/>
+  </programme>
+  <programme channel="18162" start="20260507050000 +0000" stop="20260507060000 +0000">
+    <title lang="id">Laporan 8 Siang</title>
+    <icon src="https://thumbor.prod.vidiocdn.com/ddN3lE68JL046lQtz4gIQe03rIQ=/287x162/filters:strip_icc():quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/image/18162/garuda-tv-b27da3.jpg"/>
+  </programme>
+  <programme channel="18162" start="20260507060000 +0000" stop="20260507063000 +0000">
+    <title lang="id">Garda Dunia</title>
+    <icon src="https://thumbor.prod.vidiocdn.com/ddN3lE68JL046lQtz4gIQe03rIQ=/287x162/filters:strip_icc():quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/image/18162/garuda-tv-b27da3.jpg"/>
+  </programme>
+  <programme channel="18162" start="20260507063000 +0000" stop="20260507070000 +0000">
+    <title lang="id">In Militer</title>
+    <icon src="https://thumbor.prod.vidiocdn.com/ddN3lE68JL046lQtz4gIQe03rIQ=/287x162/filters:strip_icc():quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/image/18162/garuda-tv-b27da3.jpg"/>
+  </programme>
+  <programme channel="18162" start="20260507070000 +0000" stop="20260507073000 +0000">
+    <title lang="id">Sport 8 Update</title>
+    <icon src="https://thumbor.prod.vidiocdn.com/ddN3lE68JL046lQtz4gIQe03rIQ=/287x162/filters:strip_icc():quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/image/18162/garuda-tv-b27da3.jpg"/>
+  </programme>
+  <programme channel="18162" start="20260507073000 +0000" stop="20260507080000 +0000">
+    <title lang="id">Pejuang Mimpi</title>
+    <icon src="https://thumbor.prod.vidiocdn.com/ddN3lE68JL046lQtz4gIQe03rIQ=/287x162/filters:strip_icc():quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/image/18162/garuda-tv-b27da3.jpg"/>
+  </programme>
+  <programme channel="18162" start="20260507080000 +0000" stop="20260507090000 +0000">
+    <title lang="id">Laporan 8 Update</title>
+    <icon src="https://thumbor.prod.vidiocdn.com/ddN3lE68JL046lQtz4gIQe03rIQ=/287x162/filters:strip_icc():quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/image/18162/garuda-tv-b27da3.jpg"/>
+  </programme>
+  <programme channel="18162" start="20260507090000 +0000" stop="20260507093000 +0000">
+    <title lang="id">Gosip Panas Selebriti</title>
+    <icon src="https://thumbor.prod.vidiocdn.com/ddN3lE68JL046lQtz4gIQe03rIQ=/287x162/filters:strip_icc():quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/image/18162/garuda-tv-b27da3.jpg"/>
+  </programme>
+  <programme channel="18162" start="20260507093000 +0000" stop="20260507100000 +0000">
+    <title lang="id">Kabinet Merah Putih</title>
+    <icon src="https://thumbor.prod.vidiocdn.com/ddN3lE68JL046lQtz4gIQe03rIQ=/287x162/filters:strip_icc():quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/image/18162/garuda-tv-b27da3.jpg"/>
+  </programme>
+  <programme channel="18162" start="20260507100000 +0000" stop="20260507110000 +0000">
+    <title lang="id">Kriminal +62</title>
+    <icon src="https://thumbor.prod.vidiocdn.com/ddN3lE68JL046lQtz4gIQe03rIQ=/287x162/filters:strip_icc():quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/image/18162/garuda-tv-b27da3.jpg"/>
+  </programme>
+  <programme channel="18162" start="20260507110000 +0000" stop="20260507120000 +0000">
+    <title lang="id">Laporan 8 Petang</title>
+    <icon src="https://thumbor.prod.vidiocdn.com/ddN3lE68JL046lQtz4gIQe03rIQ=/287x162/filters:strip_icc():quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/image/18162/garuda-tv-b27da3.jpg"/>
+  </programme>
+  <programme channel="18162" start="20260507120000 +0000" stop="20260507133000 +0000">
+    <title lang="id">Indonesia Kita</title>
+    <icon src="https://thumbor.prod.vidiocdn.com/ddN3lE68JL046lQtz4gIQe03rIQ=/287x162/filters:strip_icc():quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/image/18162/garuda-tv-b27da3.jpg"/>
+  </programme>
+  <programme channel="18162" start="20260507133000 +0000" stop="20260507140000 +0000">
+    <title lang="id">Jendela Istana</title>
+    <icon src="https://thumbor.prod.vidiocdn.com/ddN3lE68JL046lQtz4gIQe03rIQ=/287x162/filters:strip_icc():quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/image/18162/garuda-tv-b27da3.jpg"/>
+  </programme>
+  <programme channel="18162" start="20260507140000 +0000" stop="20260507150000 +0000">
+    <title lang="id">Ordal</title>
+    <icon src="https://thumbor.prod.vidiocdn.com/ddN3lE68JL046lQtz4gIQe03rIQ=/287x162/filters:strip_icc():quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/image/18162/garuda-tv-b27da3.jpg"/>
+  </programme>
+  <programme channel="18162" start="20260507150000 +0000" stop="20260507160000 +0000">
+    <title lang="id">Laporan 8 Malam</title>
+    <icon src="https://thumbor.prod.vidiocdn.com/ddN3lE68JL046lQtz4gIQe03rIQ=/287x162/filters:strip_icc():quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/image/18162/garuda-tv-b27da3.jpg"/>
+  </programme>
+  <programme channel="18162" start="20260507160000 +0000" stop="20260507163000 +0000">
+    <title lang="id">Sport 8</title>
+    <icon src="https://thumbor.prod.vidiocdn.com/ddN3lE68JL046lQtz4gIQe03rIQ=/287x162/filters:strip_icc():quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/image/18162/garuda-tv-b27da3.jpg"/>
+  </programme>
+  <programme channel="18162" start="20260507163000 +0000" stop="20260507170000 +0000">
+    <title lang="id">Dibalik Senjata</title>
+    <icon src="https://thumbor.prod.vidiocdn.com/ddN3lE68JL046lQtz4gIQe03rIQ=/287x162/filters:strip_icc():quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/image/18162/garuda-tv-b27da3.jpg"/>
+  </programme>
+  <programme channel="18162" start="20260507163000 +0000" stop="20260507170000 +0000">
+    <title lang="id">Dibalik Senjata</title>
+    <icon src="https://thumbor.prod.vidiocdn.com/ddN3lE68JL046lQtz4gIQe03rIQ=/287x162/filters:strip_icc():quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/image/18162/garuda-tv-b27da3.jpg"/>
+  </programme>
+  <programme channel="18162" start="20260507170000 +0000" stop="20260507180000 +0000">
+    <title lang="id">Kriminal +62</title>
+    <icon src="https://thumbor.prod.vidiocdn.com/ddN3lE68JL046lQtz4gIQe03rIQ=/287x162/filters:strip_icc():quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/image/18162/garuda-tv-b27da3.jpg"/>
+  </programme>
+  <programme channel="18162" start="20260507180000 +0000" stop="20260507190000 +0000">
+    <title lang="id">Misteri Hidup</title>
+    <icon src="https://thumbor.prod.vidiocdn.com/ddN3lE68JL046lQtz4gIQe03rIQ=/287x162/filters:strip_icc():quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/image/18162/garuda-tv-b27da3.jpg"/>
+  </programme>
+  <programme channel="18162" start="20260507190000 +0000" stop="20260507200000 +0000">
+    <title lang="id">Amazing Syafaat</title>
+    <icon src="https://thumbor.prod.vidiocdn.com/ddN3lE68JL046lQtz4gIQe03rIQ=/287x162/filters:strip_icc():quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/image/18162/garuda-tv-b27da3.jpg"/>
+  </programme>
+  <programme channel="18162" start="20260507200000 +0000" stop="20260507203000 +0000">
+    <title lang="id">Info Miss Wow</title>
+    <icon src="https://thumbor.prod.vidiocdn.com/ddN3lE68JL046lQtz4gIQe03rIQ=/287x162/filters:strip_icc():quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/image/18162/garuda-tv-b27da3.jpg"/>
+  </programme>
+  <programme channel="18162" start="20260507203000 +0000" stop="20260507210000 +0000">
+    <title lang="id">Orang Baik</title>
+    <icon src="https://thumbor.prod.vidiocdn.com/ddN3lE68JL046lQtz4gIQe03rIQ=/287x162/filters:strip_icc():quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/image/18162/garuda-tv-b27da3.jpg"/>
+  </programme>
+  <programme channel="18162" start="20260507210000 +0000" stop="20260507220000 +0000">
+    <title lang="id">Kampung Geulis</title>
+    <icon src="https://thumbor.prod.vidiocdn.com/ddN3lE68JL046lQtz4gIQe03rIQ=/287x162/filters:strip_icc():quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/image/18162/garuda-tv-b27da3.jpg"/>
+  </programme>
+  <programme channel="18162" start="20260507220000 +0000" stop="20260507230000 +0000">
+    <title lang="id">Serambi Islami</title>
+    <icon src="https://thumbor.prod.vidiocdn.com/ddN3lE68JL046lQtz4gIQe03rIQ=/287x162/filters:strip_icc():quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/image/18162/garuda-tv-b27da3.jpg"/>
+  </programme>
+  <programme channel="18162" start="20260507230000 +0000" stop="20260508000000 +0000">
+    <title lang="id">Laporan 8 Pagi</title>
+    <icon src="https://thumbor.prod.vidiocdn.com/ddN3lE68JL046lQtz4gIQe03rIQ=/287x162/filters:strip_icc():quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/image/18162/garuda-tv-b27da3.jpg"/>
+  </programme>
+  <programme channel="18162" start="20260508000000 +0000" stop="20260508003000 +0000">
+    <title lang="id">Sport 8</title>
+    <icon src="https://thumbor.prod.vidiocdn.com/ddN3lE68JL046lQtz4gIQe03rIQ=/287x162/filters:strip_icc():quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/image/18162/garuda-tv-b27da3.jpg"/>
+  </programme>
+  <programme channel="18162" start="20260508003000 +0000" stop="20260508010000 +0000">
+    <title lang="id">Anak Indonesia</title>
+    <icon src="https://thumbor.prod.vidiocdn.com/ddN3lE68JL046lQtz4gIQe03rIQ=/287x162/filters:strip_icc():quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/image/18162/garuda-tv-b27da3.jpg"/>
+  </programme>
+  <programme channel="18162" start="20260508010000 +0000" stop="20260508013000 +0000">
+    <title lang="id">Pesona Indonesia</title>
+    <icon src="https://thumbor.prod.vidiocdn.com/ddN3lE68JL046lQtz4gIQe03rIQ=/287x162/filters:strip_icc():quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/image/18162/garuda-tv-b27da3.jpg"/>
+  </programme>
+  <programme channel="18162" start="20260508013000 +0000" stop="20260508020000 +0000">
+    <title lang="id">Bt Guru Grooming</title>
+    <icon src="https://thumbor.prod.vidiocdn.com/ddN3lE68JL046lQtz4gIQe03rIQ=/287x162/filters:strip_icc():quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/image/18162/garuda-tv-b27da3.jpg"/>
+  </programme>
+  <programme channel="18162" start="20260508020000 +0000" stop="20260508023000 +0000">
+    <title lang="id">Ekonomi 8</title>
+    <icon src="https://thumbor.prod.vidiocdn.com/ddN3lE68JL046lQtz4gIQe03rIQ=/287x162/filters:strip_icc():quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/image/18162/garuda-tv-b27da3.jpg"/>
+  </programme>
+  <programme channel="18162" start="20260508023000 +0000" stop="20260508030000 +0000">
+    <title lang="id">Kuliner Tanggal Tua</title>
+    <icon src="https://thumbor.prod.vidiocdn.com/ddN3lE68JL046lQtz4gIQe03rIQ=/287x162/filters:strip_icc():quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/image/18162/garuda-tv-b27da3.jpg"/>
+  </programme>
+  <programme channel="18162" start="20260508030000 +0000" stop="20260508033000 +0000">
+    <title lang="id">Gosip Panas Selebriti</title>
+    <icon src="https://thumbor.prod.vidiocdn.com/ddN3lE68JL046lQtz4gIQe03rIQ=/287x162/filters:strip_icc():quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/image/18162/garuda-tv-b27da3.jpg"/>
+  </programme>
+  <programme channel="18162" start="20260508033000 +0000" stop="20260508040000 +0000">
+    <title lang="id">Orang Baik</title>
+    <icon src="https://thumbor.prod.vidiocdn.com/ddN3lE68JL046lQtz4gIQe03rIQ=/287x162/filters:strip_icc():quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/image/18162/garuda-tv-b27da3.jpg"/>
+  </programme>
+  <programme channel="18162" start="20260508040000 +0000" stop="20260508050000 +0000">
+    <title lang="id">Kriminal +62</title>
+    <icon src="https://thumbor.prod.vidiocdn.com/ddN3lE68JL046lQtz4gIQe03rIQ=/287x162/filters:strip_icc():quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/image/18162/garuda-tv-b27da3.jpg"/>
+  </programme>
+  <programme channel="18162" start="20260508050000 +0000" stop="20260508060000 +0000">
+    <title lang="id">Laporan 8 Siang</title>
+    <icon src="https://thumbor.prod.vidiocdn.com/ddN3lE68JL046lQtz4gIQe03rIQ=/287x162/filters:strip_icc():quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/image/18162/garuda-tv-b27da3.jpg"/>
+  </programme>
+  <programme channel="18162" start="20260508060000 +0000" stop="20260508063000 +0000">
+    <title lang="id">Garda Dunia</title>
+    <icon src="https://thumbor.prod.vidiocdn.com/ddN3lE68JL046lQtz4gIQe03rIQ=/287x162/filters:strip_icc():quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/image/18162/garuda-tv-b27da3.jpg"/>
+  </programme>
+  <programme channel="18162" start="20260508063000 +0000" stop="20260508070000 +0000">
+    <title lang="id">In Militer</title>
+    <icon src="https://thumbor.prod.vidiocdn.com/ddN3lE68JL046lQtz4gIQe03rIQ=/287x162/filters:strip_icc():quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/image/18162/garuda-tv-b27da3.jpg"/>
+  </programme>
+  <programme channel="18162" start="20260508070000 +0000" stop="20260508073000 +0000">
+    <title lang="id">Sport 8 Update</title>
+    <icon src="https://thumbor.prod.vidiocdn.com/ddN3lE68JL046lQtz4gIQe03rIQ=/287x162/filters:strip_icc():quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/image/18162/garuda-tv-b27da3.jpg"/>
+  </programme>
+  <programme channel="18162" start="20260508073000 +0000" stop="20260508080000 +0000">
+    <title lang="id">Pejuang Mimpi</title>
+    <icon src="https://thumbor.prod.vidiocdn.com/ddN3lE68JL046lQtz4gIQe03rIQ=/287x162/filters:strip_icc():quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/image/18162/garuda-tv-b27da3.jpg"/>
+  </programme>
+  <programme channel="18162" start="20260508080000 +0000" stop="20260508090000 +0000">
+    <title lang="id">Laporan 8 Update</title>
+    <icon src="https://thumbor.prod.vidiocdn.com/ddN3lE68JL046lQtz4gIQe03rIQ=/287x162/filters:strip_icc():quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/image/18162/garuda-tv-b27da3.jpg"/>
+  </programme>
+  <programme channel="18162" start="20260508090000 +0000" stop="20260508093000 +0000">
+    <title lang="id">Gosip Panas Selebriti</title>
+    <icon src="https://thumbor.prod.vidiocdn.com/ddN3lE68JL046lQtz4gIQe03rIQ=/287x162/filters:strip_icc():quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/image/18162/garuda-tv-b27da3.jpg"/>
+  </programme>
+  <programme channel="18162" start="20260508093000 +0000" stop="20260508100000 +0000">
+    <title lang="id">Kabinet Merah Putih</title>
+    <icon src="https://thumbor.prod.vidiocdn.com/ddN3lE68JL046lQtz4gIQe03rIQ=/287x162/filters:strip_icc():quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/image/18162/garuda-tv-b27da3.jpg"/>
+  </programme>
+  <programme channel="18162" start="20260508100000 +0000" stop="20260508110000 +0000">
+    <title lang="id">Kriminal +62</title>
+    <icon src="https://thumbor.prod.vidiocdn.com/ddN3lE68JL046lQtz4gIQe03rIQ=/287x162/filters:strip_icc():quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/image/18162/garuda-tv-b27da3.jpg"/>
+  </programme>
+  <programme channel="18162" start="20260508110000 +0000" stop="20260508120000 +0000">
+    <title lang="id">Laporan 8 Petang</title>
+    <icon src="https://thumbor.prod.vidiocdn.com/ddN3lE68JL046lQtz4gIQe03rIQ=/287x162/filters:strip_icc():quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/image/18162/garuda-tv-b27da3.jpg"/>
+  </programme>
+  <programme channel="18162" start="20260508120000 +0000" stop="20260508133000 +0000">
+    <title lang="id">Indonesia Kita</title>
+    <icon src="https://thumbor.prod.vidiocdn.com/ddN3lE68JL046lQtz4gIQe03rIQ=/287x162/filters:strip_icc():quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/image/18162/garuda-tv-b27da3.jpg"/>
+  </programme>
+  <programme channel="18162" start="20260508133000 +0000" stop="20260508140000 +0000">
+    <title lang="id">Jendela Istana</title>
+    <icon src="https://thumbor.prod.vidiocdn.com/ddN3lE68JL046lQtz4gIQe03rIQ=/287x162/filters:strip_icc():quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/image/18162/garuda-tv-b27da3.jpg"/>
+  </programme>
+  <programme channel="18162" start="20260508140000 +0000" stop="20260508150000 +0000">
+    <title lang="id">Orang Penting</title>
+    <icon src="https://thumbor.prod.vidiocdn.com/ddN3lE68JL046lQtz4gIQe03rIQ=/287x162/filters:strip_icc():quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/image/18162/garuda-tv-b27da3.jpg"/>
+  </programme>
+  <programme channel="18162" start="20260508150000 +0000" stop="20260508160000 +0000">
+    <title lang="id">Laporan 8 Malam</title>
+    <icon src="https://thumbor.prod.vidiocdn.com/ddN3lE68JL046lQtz4gIQe03rIQ=/287x162/filters:strip_icc():quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/image/18162/garuda-tv-b27da3.jpg"/>
+  </programme>
+  <programme channel="18162" start="20260508160000 +0000" stop="20260508163000 +0000">
+    <title lang="id">Sport 8</title>
+    <icon src="https://thumbor.prod.vidiocdn.com/ddN3lE68JL046lQtz4gIQe03rIQ=/287x162/filters:strip_icc():quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/image/18162/garuda-tv-b27da3.jpg"/>
+  </programme>
+  <programme channel="18162" start="20260508163000 +0000" stop="20260508170000 +0000">
+    <title lang="id">Dibalik Senjata</title>
+    <icon src="https://thumbor.prod.vidiocdn.com/ddN3lE68JL046lQtz4gIQe03rIQ=/287x162/filters:strip_icc():quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/image/18162/garuda-tv-b27da3.jpg"/>
+  </programme>
+  <programme channel="18162" start="20260508163000 +0000" stop="20260508170000 +0000">
+    <title lang="id">Dibalik Senjata</title>
+    <icon src="https://thumbor.prod.vidiocdn.com/ddN3lE68JL046lQtz4gIQe03rIQ=/287x162/filters:strip_icc():quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/image/18162/garuda-tv-b27da3.jpg"/>
+  </programme>
+  <programme channel="18162" start="20260508170000 +0000" stop="20260508180000 +0000">
+    <title lang="id">Kriminal +62</title>
+    <icon src="https://thumbor.prod.vidiocdn.com/ddN3lE68JL046lQtz4gIQe03rIQ=/287x162/filters:strip_icc():quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/image/18162/garuda-tv-b27da3.jpg"/>
+  </programme>
+  <programme channel="18162" start="20260508180000 +0000" stop="20260508190000 +0000">
+    <title lang="id">Misteri Hidup</title>
+    <icon src="https://thumbor.prod.vidiocdn.com/ddN3lE68JL046lQtz4gIQe03rIQ=/287x162/filters:strip_icc():quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/image/18162/garuda-tv-b27da3.jpg"/>
+  </programme>
+  <programme channel="18162" start="20260508190000 +0000" stop="20260508200000 +0000">
+    <title lang="id">Amazing Syafaat</title>
+    <icon src="https://thumbor.prod.vidiocdn.com/ddN3lE68JL046lQtz4gIQe03rIQ=/287x162/filters:strip_icc():quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/image/18162/garuda-tv-b27da3.jpg"/>
+  </programme>
+  <programme channel="18162" start="20260508200000 +0000" stop="20260508203000 +0000">
+    <title lang="id">Info Miss Wow</title>
+    <icon src="https://thumbor.prod.vidiocdn.com/ddN3lE68JL046lQtz4gIQe03rIQ=/287x162/filters:strip_icc():quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/image/18162/garuda-tv-b27da3.jpg"/>
+  </programme>
+  <programme channel="18162" start="20260508203000 +0000" stop="20260508210000 +0000">
+    <title lang="id">Orang Baik</title>
+    <icon src="https://thumbor.prod.vidiocdn.com/ddN3lE68JL046lQtz4gIQe03rIQ=/287x162/filters:strip_icc():quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/image/18162/garuda-tv-b27da3.jpg"/>
+  </programme>
+  <programme channel="18162" start="20260508210000 +0000" stop="20260508220000 +0000">
+    <title lang="id">Kampung Geulis</title>
+    <icon src="https://thumbor.prod.vidiocdn.com/ddN3lE68JL046lQtz4gIQe03rIQ=/287x162/filters:strip_icc():quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/image/18162/garuda-tv-b27da3.jpg"/>
+  </programme>
+  <programme channel="18162" start="20260508220000 +0000" stop="20260508230000 +0000">
+    <title lang="id">Serambi Islami</title>
+    <icon src="https://thumbor.prod.vidiocdn.com/ddN3lE68JL046lQtz4gIQe03rIQ=/287x162/filters:strip_icc():quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/image/18162/garuda-tv-b27da3.jpg"/>
+  </programme>
+  <programme channel="18162" start="20260508230000 +0000" stop="20260509000000 +0000">
+    <title lang="id">Laporan 8 Pagi</title>
+    <icon src="https://thumbor.prod.vidiocdn.com/ddN3lE68JL046lQtz4gIQe03rIQ=/287x162/filters:strip_icc():quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/image/18162/garuda-tv-b27da3.jpg"/>
+  </programme>
+  <programme channel="18162" start="20260509000000 +0000" stop="20260509003000 +0000">
+    <title lang="id">Sport 8</title>
+    <icon src="https://thumbor.prod.vidiocdn.com/ddN3lE68JL046lQtz4gIQe03rIQ=/287x162/filters:strip_icc():quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/image/18162/garuda-tv-b27da3.jpg"/>
+  </programme>
+  <programme channel="18162" start="20260509003000 +0000" stop="20260509010000 +0000">
+    <title lang="id">Kick N Rush</title>
+    <icon src="https://thumbor.prod.vidiocdn.com/ddN3lE68JL046lQtz4gIQe03rIQ=/287x162/filters:strip_icc():quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/image/18162/garuda-tv-b27da3.jpg"/>
+  </programme>
+  <programme channel="18162" start="20260509010000 +0000" stop="20260509013000 +0000">
+    <title lang="id">Otomotime</title>
+    <icon src="https://thumbor.prod.vidiocdn.com/ddN3lE68JL046lQtz4gIQe03rIQ=/287x162/filters:strip_icc():quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/image/18162/garuda-tv-b27da3.jpg"/>
+  </programme>
+  <programme channel="18162" start="20260509013000 +0000" stop="20260509020000 +0000">
+    <title lang="id">Hoops Vibes</title>
+    <icon src="https://thumbor.prod.vidiocdn.com/ddN3lE68JL046lQtz4gIQe03rIQ=/287x162/filters:strip_icc():quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/image/18162/garuda-tv-b27da3.jpg"/>
+  </programme>
+  <programme channel="18162" start="20260509020000 +0000" stop="20260509030000 +0000">
+    <title lang="id">Waktu Indonesia Sehat</title>
+    <icon src="https://thumbor.prod.vidiocdn.com/ddN3lE68JL046lQtz4gIQe03rIQ=/287x162/filters:strip_icc():quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/image/18162/garuda-tv-b27da3.jpg"/>
+  </programme>
+  <programme channel="18162" start="20260509030000 +0000" stop="20260509040000 +0000">
+    <title lang="id">Misteri Hidup</title>
+    <icon src="https://thumbor.prod.vidiocdn.com/ddN3lE68JL046lQtz4gIQe03rIQ=/287x162/filters:strip_icc():quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/image/18162/garuda-tv-b27da3.jpg"/>
+  </programme>
+  <programme channel="18162" start="20260509040000 +0000" stop="20260509050000 +0000">
+    <title lang="id">Kriminal +62</title>
+    <icon src="https://thumbor.prod.vidiocdn.com/ddN3lE68JL046lQtz4gIQe03rIQ=/287x162/filters:strip_icc():quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/image/18162/garuda-tv-b27da3.jpg"/>
+  </programme>
+  <programme channel="18162" start="20260509050000 +0000" stop="20260509060000 +0000">
+    <title lang="id">Laporan 8 Siang</title>
+    <icon src="https://thumbor.prod.vidiocdn.com/ddN3lE68JL046lQtz4gIQe03rIQ=/287x162/filters:strip_icc():quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/image/18162/garuda-tv-b27da3.jpg"/>
+  </programme>
+  <programme channel="18162" start="20260509060000 +0000" stop="20260509063000 +0000">
+    <title lang="id">Kick N Rush</title>
+    <icon src="https://thumbor.prod.vidiocdn.com/ddN3lE68JL046lQtz4gIQe03rIQ=/287x162/filters:strip_icc():quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/image/18162/garuda-tv-b27da3.jpg"/>
+  </programme>
+  <programme channel="18162" start="20260509063000 +0000" stop="20260509070000 +0000">
+    <title lang="id">Otomotime</title>
+    <icon src="https://thumbor.prod.vidiocdn.com/ddN3lE68JL046lQtz4gIQe03rIQ=/287x162/filters:strip_icc():quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/image/18162/garuda-tv-b27da3.jpg"/>
+  </programme>
+  <programme channel="18162" start="20260509070000 +0000" stop="20260509073000 +0000">
+    <title lang="id">Hoops Vibes</title>
+    <icon src="https://thumbor.prod.vidiocdn.com/ddN3lE68JL046lQtz4gIQe03rIQ=/287x162/filters:strip_icc():quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/image/18162/garuda-tv-b27da3.jpg"/>
+  </programme>
+  <programme channel="18162" start="20260509073000 +0000" stop="20260509080000 +0000">
+    <title lang="id">Dunia Kita</title>
+    <icon src="https://thumbor.prod.vidiocdn.com/ddN3lE68JL046lQtz4gIQe03rIQ=/287x162/filters:strip_icc():quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/image/18162/garuda-tv-b27da3.jpg"/>
+  </programme>
+  <programme channel="18162" start="20260509080000 +0000" stop="20260509090000 +0000">
+    <title lang="id">Laporan 8 Update</title>
+    <icon src="https://thumbor.prod.vidiocdn.com/ddN3lE68JL046lQtz4gIQe03rIQ=/287x162/filters:strip_icc():quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/image/18162/garuda-tv-b27da3.jpg"/>
+  </programme>
+  <programme channel="18162" start="20260509090000 +0000" stop="20260509100000 +0000">
+    <title lang="id">Nunggu Bedug</title>
+    <icon src="https://thumbor.prod.vidiocdn.com/ddN3lE68JL046lQtz4gIQe03rIQ=/287x162/filters:strip_icc():quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/image/18162/garuda-tv-b27da3.jpg"/>
+  </programme>
+  <programme channel="18162" start="20260509100000 +0000" stop="20260509110000 +0000">
+    <title lang="id">Kriminal +62</title>
+    <icon src="https://thumbor.prod.vidiocdn.com/ddN3lE68JL046lQtz4gIQe03rIQ=/287x162/filters:strip_icc():quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/image/18162/garuda-tv-b27da3.jpg"/>
+  </programme>
+  <programme channel="18162" start="20260509110000 +0000" stop="20260509120000 +0000">
+    <title lang="id">Laporan 8 Petang</title>
+    <icon src="https://thumbor.prod.vidiocdn.com/ddN3lE68JL046lQtz4gIQe03rIQ=/287x162/filters:strip_icc():quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/image/18162/garuda-tv-b27da3.jpg"/>
+  </programme>
+  <programme channel="18162" start="20260509120000 +0000" stop="20260509123000 +0000">
+    <title lang="id">Klik 8</title>
+    <icon src="https://thumbor.prod.vidiocdn.com/ddN3lE68JL046lQtz4gIQe03rIQ=/287x162/filters:strip_icc():quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/image/18162/garuda-tv-b27da3.jpg"/>
+  </programme>
+  <programme channel="18162" start="20260509123000 +0000" stop="20260509130000 +0000">
+    <title lang="id">Kuliner Tanggal Tua</title>
+    <icon src="https://thumbor.prod.vidiocdn.com/ddN3lE68JL046lQtz4gIQe03rIQ=/287x162/filters:strip_icc():quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/image/18162/garuda-tv-b27da3.jpg"/>
+  </programme>
+  <programme channel="18162" start="20260509130000 +0000" stop="20260509133000 +0000">
+    <title lang="id">Bt Guru Grooming</title>
+    <icon src="https://thumbor.prod.vidiocdn.com/ddN3lE68JL046lQtz4gIQe03rIQ=/287x162/filters:strip_icc():quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/image/18162/garuda-tv-b27da3.jpg"/>
+  </programme>
+  <programme channel="18162" start="20260509133000 +0000" stop="20260509140000 +0000">
+    <title lang="id">Jendela Istana Akhir Pekan</title>
+    <icon src="https://thumbor.prod.vidiocdn.com/ddN3lE68JL046lQtz4gIQe03rIQ=/287x162/filters:strip_icc():quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/image/18162/garuda-tv-b27da3.jpg"/>
+  </programme>
+  <programme channel="18162" start="20260509140000 +0000" stop="20260509150000 +0000">
+    <title lang="id">Kriminal +62 Weekend</title>
+    <icon src="https://thumbor.prod.vidiocdn.com/ddN3lE68JL046lQtz4gIQe03rIQ=/287x162/filters:strip_icc():quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/image/18162/garuda-tv-b27da3.jpg"/>
+  </programme>
+  <programme channel="18162" start="20260509150000 +0000" stop="20260509160000 +0000">
+    <title lang="id">Laporan 8 Malam</title>
+    <icon src="https://thumbor.prod.vidiocdn.com/ddN3lE68JL046lQtz4gIQe03rIQ=/287x162/filters:strip_icc():quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/image/18162/garuda-tv-b27da3.jpg"/>
+  </programme>
+  <programme channel="18162" start="20260509160000 +0000" stop="20260509163000 +0000">
+    <title lang="id">Sport 8</title>
+    <icon src="https://thumbor.prod.vidiocdn.com/ddN3lE68JL046lQtz4gIQe03rIQ=/287x162/filters:strip_icc():quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/image/18162/garuda-tv-b27da3.jpg"/>
+  </programme>
+  <programme channel="18162" start="20260509163000 +0000" stop="20260509170000 +0000">
+    <title lang="id">Dibalik Senjata</title>
     <icon src="https://thumbor.prod.vidiocdn.com/ddN3lE68JL046lQtz4gIQe03rIQ=/287x162/filters:strip_icc():quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/image/18162/garuda-tv-b27da3.jpg"/>
   </programme>
   <programme channel="8121" start="20260502183500 +0000" stop="20260502203500 +0000">
@@ -18034,17 +18839,17 @@
     <desc lang="id">Show 30 Matchweek 35</desc>
     <icon src="https://thumbor.prod.vidiocdn.com/r_QaZubFaj9Ht_TI2kDgdImcRqY=/287x162/filters:strip_icc():quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/image/9182/champions-tv-5-e0dd48.jpg"/>
   </programme>
-  <programme channel="9182" start="20260503140000 +0000" stop="20260503164200 +0000">
+  <programme channel="9182" start="20260503140000 +0000" stop="20260503164000 +0000">
     <title lang="id">Man United vs Liverpool - Premier League</title>
     <desc lang="id">Nonton streaming pertandingan seru Man United vs Liverpool - Premier League. Saksikan aksi-aksi terbaik dari tim yang bersaing ketat untuk meraih kemenangan. Dapatkan informasi lengkap mengenai jadwal pertandingan dan hasil pertandingan terbaru hanya di Vidio.</desc>
     <icon src="https://thumbor.prod.vidiocdn.com/LImaT_pMBxVY1YjwYHo1_ExRo7I=/287x162/filters:strip_icc():quality(70)/vidio-media-production/uploads/livestreaming/schedule/thumbnail/5036135/d2c6d2.jpg"/>
   </programme>
-  <programme channel="9182" start="20260503164200 +0000" stop="20260503170000 +0000">
+  <programme channel="9182" start="20260503164000 +0000" stop="20260503170000 +0000">
     <title lang="id">Eps 38 : THE BIG INTERVIEW 2025/26</title>
     <desc lang="id">Eps 38</desc>
     <icon src="https://thumbor.prod.vidiocdn.com/r_QaZubFaj9Ht_TI2kDgdImcRqY=/287x162/filters:strip_icc():quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/image/9182/champions-tv-5-e0dd48.jpg"/>
   </programme>
-  <programme channel="9182" start="20260503164200 +0000" stop="20260503170000 +0000">
+  <programme channel="9182" start="20260503164000 +0000" stop="20260503170000 +0000">
     <title lang="id">Eps 38 : THE BIG INTERVIEW 2025/26</title>
     <desc lang="id">Eps 38</desc>
     <icon src="https://thumbor.prod.vidiocdn.com/r_QaZubFaj9Ht_TI2kDgdImcRqY=/287x162/filters:strip_icc():quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/image/9182/champions-tv-5-e0dd48.jpg"/>
