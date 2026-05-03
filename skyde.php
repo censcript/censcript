@@ -2470,37 +2470,40 @@
 <programme start="20260503213000 +0000" stop="20260503222000 +0000" channel="Sky Showcase HD.skyde">
     <title>Red Eye</title>
 </programme>
-<programme start="20260502233000 +0000" stop="20260503000000 +0000" channel="Sky Sport Austria 1 HD.skyde">
-    <title>UEFA CL: Magazin</title>
-</programme>
-<programme start="20260503000000 +0000" stop="20260503003000 +0000" channel="Sky Sport Austria 1 HD.skyde">
-    <title>RIESENrad: Sportgrößen im Waggon 28 (Gast: Janine Flock)</title>
-</programme>
-<programme start="20260503003000 +0000" stop="20260503023000 +0000" channel="Sky Sport Austria 1 HD.skyde">
-    <title>Admiral BL: SV Oberbank Ried - FC Blau-Weiß Linz, 30. Runde</title>
-</programme>
-<programme start="20260503023000 +0000" stop="20260503031500 +0000" channel="Sky Sport Austria 1 HD.skyde">
-    <title>Fußball: Herzog gegen Herzig - Die next Generation Show</title>
-</programme>
-<programme start="20260503031500 +0000" stop="20260503040000 +0000" channel="Sky Sport Austria 1 HD.skyde">
-    <title>Fußball: Herzog gegen Herzig - Die next Generation Show (SV Fohnsdorf)</title>
-</programme>
-<programme start="20260503040000 +0000" stop="20260503044500 +0000" channel="Sky Sport Austria 1 HD.skyde">
-    <title>Fußball: Herzog gegen Herzig - Die next Generation Show</title>
-</programme>
-<programme start="20260503044500 +0000" stop="20260503054500 +0000" channel="Sky Sport Austria 1 HD.skyde">
+<programme start="20260502231500 +0000" stop="20260503000000 +0000" channel="Sky Sport Austria 1 HD.skyde">
     <title>Admiral BL: Alle Spiele, alle Tore 30. Runde (Samstag)</title>
 </programme>
-<programme start="20260503054500 +0000" stop="20260503073000 +0000" channel="Sky Sport Austria 1 HD.skyde">
-    <title>Fußball: Klassiker der Woche: SCR - ASK (2023/24)</title>
-</programme>
-<programme start="20260503073000 +0000" stop="20260503093000 +0000" channel="Sky Sport Austria 1 HD.skyde">
-    <title>Admiral BL: SV Oberbank Ried - FC Blau-Weiß Linz, 30. Runde</title>
-</programme>
-<programme start="20260503093000 +0000" stop="20260503100000 +0000" channel="Sky Sport Austria 1 HD.skyde">
+<programme start="20260503000000 +0000" stop="20260503003000 +0000" channel="Sky Sport Austria 1 HD.skyde">
     <title>UEFA CL: Magazin</title>
 </programme>
-<programme start="20260503100000 +0000" stop="20260503110000 +0000" channel="Sky Sport Austria 1 HD.skyde">
+<programme start="20260503003000 +0000" stop="20260503010000 +0000" channel="Sky Sport Austria 1 HD.skyde">
+    <title>RIESENrad: Sportgrößen im Waggon 28 (Gast: Janine Flock)</title>
+</programme>
+<programme start="20260503010000 +0000" stop="20260503030000 +0000" channel="Sky Sport Austria 1 HD.skyde">
+    <title>Admiral BL: SV Oberbank Ried - FC Blau-Weiß Linz, 30. Runde</title>
+</programme>
+<programme start="20260503030000 +0000" stop="20260503034500 +0000" channel="Sky Sport Austria 1 HD.skyde">
+    <title>Fußball: Herzog gegen Herzig - Die next Generation Show</title>
+</programme>
+<programme start="20260503034500 +0000" stop="20260503043000 +0000" channel="Sky Sport Austria 1 HD.skyde">
+    <title>Fußball: Herzog gegen Herzig - Die next Generation Show (SV Fohnsdorf)</title>
+</programme>
+<programme start="20260503043000 +0000" stop="20260503051500 +0000" channel="Sky Sport Austria 1 HD.skyde">
+    <title>Fußball: Herzog gegen Herzig - Die next Generation Show</title>
+</programme>
+<programme start="20260503051500 +0000" stop="20260503060000 +0000" channel="Sky Sport Austria 1 HD.skyde">
+    <title>Admiral BL: Alle Spiele, alle Tore 30. Runde (Samstag)</title>
+</programme>
+<programme start="20260503060000 +0000" stop="20260503074500 +0000" channel="Sky Sport Austria 1 HD.skyde">
+    <title>Fußball: Klassiker der Woche: SCR - ASK (2023/24)</title>
+</programme>
+<programme start="20260503074500 +0000" stop="20260503094500 +0000" channel="Sky Sport Austria 1 HD.skyde">
+    <title>Admiral BL: SV Oberbank Ried - FC Blau-Weiß Linz, 30. Runde</title>
+</programme>
+<programme start="20260503094500 +0000" stop="20260503101500 +0000" channel="Sky Sport Austria 1 HD.skyde">
+    <title>UEFA CL: Magazin</title>
+</programme>
+<programme start="20260503101500 +0000" stop="20260503110000 +0000" channel="Sky Sport Austria 1 HD.skyde">
     <title>Admiral BL: Alle Spiele, alle Tore 30. Runde (Samstag)</title>
 </programme>
 <programme start="20260503110000 +0000" stop="20260503120000 +0000" channel="Sky Sport Austria 1 HD.skyde">
@@ -3070,13 +3073,13 @@
 <programme start="20260503213000 +0000" stop="20260503220000 +0000" channel="Sky Sport Premier League HD.skyde">
     <title>PL: 90in30: MUN - LIV, 35. Spieltag</title>
 </programme>
-<programme start="20260502223000 +0000" stop="20260503010000 +0000" channel="Sky Sport Tennis HD.skyde">
-    <title>ATP 500: B. Shelton (USA) - F. Cobolli (ITA), BMW Open in München, Finale</title>
+<programme start="20260502233000 +0000" stop="20260503013000 +0000" channel="Sky Sport Tennis HD.skyde">
+    <title>WTA 1000: M. Kostyuk (UKR) - M. Andreeva, Mutua Madrid Open in Madrid (ESP), Finale</title>
 </programme>
-<programme start="20260503010000 +0000" stop="20260503020000 +0000" channel="Sky Sport Tennis HD.skyde">
+<programme start="20260503013000 +0000" stop="20260503023000 +0000" channel="Sky Sport Tennis HD.skyde">
     <title>ATP 500: Review München</title>
 </programme>
-<programme start="20260503020000 +0000" stop="20260503043000 +0000" channel="Sky Sport Tennis HD.skyde">
+<programme start="20260503023000 +0000" stop="20260503043000 +0000" channel="Sky Sport Tennis HD.skyde">
     <title>WTA 1000: M. Kostyuk (UKR) - M. Andreeva, Mutua Madrid Open in Madrid (ESP), Finale</title>
 </programme>
 <programme start="20260503043000 +0000" stop="20260503050000 +0000" channel="Sky Sport Tennis HD.skyde">
@@ -3088,29 +3091,29 @@
 <programme start="20260503064500 +0000" stop="20260503073000 +0000" channel="Sky Sport Tennis HD.skyde">
     <title>ATP: The Ring Master: Alexander Bublik</title>
 </programme>
-<programme start="20260503073000 +0000" stop="20260503100000 +0000" channel="Sky Sport Tennis HD.skyde">
+<programme start="20260503073000 +0000" stop="20260503093000 +0000" channel="Sky Sport Tennis HD.skyde">
     <title>WTA 1000: M. Kostyuk (UKR) - M. Andreeva, Mutua Madrid Open in Madrid (ESP), Finale</title>
 </programme>
-<programme start="20260503100000 +0000" stop="20260503120000 +0000" channel="Sky Sport Tennis HD.skyde">
+<programme start="20260503093000 +0000" stop="20260503113000 +0000" channel="Sky Sport Tennis HD.skyde">
     <title>ATP 1000: J. Sinner (ITA) - A. Fils (FRA), Mutua Madrid Open in Madrid (ESP), Halbfinale 1</title>
 </programme>
-<programme start="20260503120000 +0000" stop="20260503140000 +0000" channel="Sky Sport Tennis HD.skyde">
+<programme start="20260503113000 +0000" stop="20260503135500 +0000" channel="Sky Sport Tennis HD.skyde">
     <title>ATP 1000: A. Zverev (GER) - A. Blockx (BEL), Mutua Madrid Open in Madrid (ESP), Halbfinale 2</title>
 </programme>
-<programme start="20260503140000 +0000" stop="20260503142500 +0000" channel="Sky Sport Tennis HD.skyde">
+<programme start="20260503135500 +0000" stop="20260503142000 +0000" channel="Sky Sport Tennis HD.skyde">
     <title>ATP: The Impossible Shot - Behind The Scenes</title>
 </programme>
-<programme start="20260503142500 +0000" stop="20260503145000 +0000" channel="Sky Sport Tennis HD.skyde">
+<programme start="20260503142000 +0000" stop="20260503145000 +0000" channel="Sky Sport Tennis HD.skyde">
     <title>Tennis: Rafael Nadal - The No. 1 Story</title>
 </programme>
 <programme start="20260503145000 +0000" stop="20260503173000 +0000" channel="Sky Sport Tennis HD.skyde">
-    <title>Live ATP 1000: Finale, Mutua Madrid Open in Madrid (ESP), Finale</title>
+    <title>Live ATP 1000: A. Zverev (GER) - J. Sinner (ITA), Mutua Madrid Open in Madrid (ESP), Finale</title>
 </programme>
 <programme start="20260503173000 +0000" stop="20260503200000 +0000" channel="Sky Sport Tennis HD.skyde">
     <title>WTA 1000: M. Kostyuk (UKR) - M. Andreeva, Mutua Madrid Open in Madrid (ESP), Finale</title>
 </programme>
 <programme start="20260503200000 +0000" stop="20260503223000 +0000" channel="Sky Sport Tennis HD.skyde">
-    <title>ATP 1000: Finale, Mutua Madrid Open in Madrid (ESP), Finale</title>
+    <title>ATP 1000: A. Zverev (GER) - J. Sinner (ITA), Mutua Madrid Open in Madrid (ESP), Finale</title>
 </programme>
 <programme start="20260502233000 +0000" stop="20260503020000 +0000" channel="Sky Sport Top Event HD.skyde">
     <title>Live NBA: Philadelphia 76ers @ Boston Celtics, Playoffs, Runde 1, Spiel 7</title>
@@ -3202,10 +3205,10 @@
 <programme start="20260502223000 +0000" stop="20260502233000 +0000" channel="Sky Sport 1 HD.skyde">
     <title>Live NBA: Showtime</title>
 </programme>
-<programme start="20260502233000 +0000" stop="20260503021000 +0000" channel="Sky Sport 1 HD.skyde">
+<programme start="20260502233000 +0000" stop="20260503020000 +0000" channel="Sky Sport 1 HD.skyde">
     <title>Live NBA: Philadelphia 76ers @ Boston Celtics, Playoffs, Runde 1, Spiel 7</title>
 </programme>
-<programme start="20260503021000 +0000" stop="20260503033000 +0000" channel="Sky Sport 1 HD.skyde">
+<programme start="20260503020000 +0000" stop="20260503080000 +0000" channel="Sky Sport 1 HD.skyde">
     <title>Live NBA: Showtime - Post Show</title>
 </programme>
 <programme start="20260503185500 +0000" stop="20260503191500 +0000" channel="Sky Sport 1 HD.skyde">

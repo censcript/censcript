@@ -2407,7 +2407,7 @@
     <programme start="20260503154500 +0000" stop="20260503164500 +0000" channel="The Filipino Channel HD.starhub">
         <title>Love In 40 Days</title>
     </programme>
-    <programme start="20260502155000 +0000" stop="20260502162000 +0000" channel="Hub Premier 2 HD.starhub">
+    <programme start="20260502155700 +0000" stop="20260502162000 +0000" channel="Hub Premier 2 HD.starhub">
         <title>The Big Interview 2025/26</title>
     </programme>
     <programme start="20260502162000 +0000" stop="20260502183000 +0000" channel="Hub Premier 2 HD.starhub">
@@ -4597,7 +4597,7 @@
     <programme start="20260503155000 +0000" stop="20260503164000 +0000" channel="Citra Entertainment.starhub">
         <title>UNGKAP HIKMAH DI BALIK DOSA</title>
     </programme>
-    <programme start="20260502160000 +0000" stop="20260502163000 +0000" channel="Vijay TV HD.starhub">
+    <programme start="20260502150000 +0000" stop="20260502163000 +0000" channel="Vijay TV HD.starhub">
         <title>Jodi Are U Ready S03</title>
     </programme>
     <programme start="20260502163000 +0000" stop="20260502170000 +0000" channel="Vijay TV HD.starhub">
@@ -7762,13 +7762,13 @@
     <programme start="20260502133000 +0000" stop="20260502163000 +0000" channel="Asianet Movies.starhub">
         <title>Mirai</title>
     </programme>
-    <programme start="20260502163000 +0000" stop="20260502193000 +0000" channel="Asianet Movies.starhub">
+    <programme start="20260502163000 +0000" stop="20260502191000 +0000" channel="Asianet Movies.starhub">
         <title>Bro Daddy</title>
     </programme>
-    <programme start="20260502193000 +0000" stop="20260502213000 +0000" channel="Asianet Movies.starhub">
+    <programme start="20260502191000 +0000" stop="20260502211000 +0000" channel="Asianet Movies.starhub">
         <title>Kanakam Kamini Kalaham</title>
     </programme>
-    <programme start="20260502213000 +0000" stop="20260502233000 +0000" channel="Asianet Movies.starhub">
+    <programme start="20260502211000 +0000" stop="20260502231000 +0000" channel="Asianet Movies.starhub">
         <title>Monayi Angane Aanaayi</title>
     </programme>
     <programme start="20260502231000 +0000" stop="20260503013000 +0000" channel="Asianet Movies.starhub">
