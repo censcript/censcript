@@ -6492,8 +6492,12 @@
     <title lang="id">My Road To Red Bull: Isack Hadjar</title>
     <icon src="https://thumbor.prod.vidiocdn.com/5yUHYfv_b1sZi7kdFElm8JqF2RY=/287x162/filters:strip_icc():quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/image/6299/bein-1-4bd997.jpg"/>
   </programme>
-  <programme channel="6299" start="20260503132500 +0000" stop="20260503145100 +0000">
+  <programme channel="6299" start="20260503132500 +0000" stop="20260503145200 +0000">
     <title lang="id">Miami, USA : FIA Formula 2 Championship Feature Race 2026</title>
+    <icon src="https://thumbor.prod.vidiocdn.com/5yUHYfv_b1sZi7kdFElm8JqF2RY=/287x162/filters:strip_icc():quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/image/6299/bein-1-4bd997.jpg"/>
+  </programme>
+  <programme channel="6299" start="20260503145200 +0000" stop="20260503150000 +0000">
+    <title lang="id">Filler</title>
     <icon src="https://thumbor.prod.vidiocdn.com/5yUHYfv_b1sZi7kdFElm8JqF2RY=/287x162/filters:strip_icc():quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/image/6299/bein-1-4bd997.jpg"/>
   </programme>
   <programme channel="6299" start="20260503150000 +0000" stop="20260503165500 +0000">
@@ -7243,12 +7247,12 @@
     <desc lang="id">Anderlecht vs PSG (2013/14)</desc>
     <icon src="https://thumbor.prod.vidiocdn.com/xiN-u5MIG7jgOVE2tB_TUIynz7k=/287x162/filters:strip_icc():quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/image/6317/bein-3-616b1c.jpg"/>
   </programme>
-  <programme channel="6317" start="20260503132500 +0000" stop="20260503153000 +0000">
+  <programme channel="6317" start="20260503132500 +0000" stop="20260503152600 +0000">
     <title lang="id">Leicester vs Chelsea - Women's Super League</title>
     <desc lang="id">Nonton streaming pertandingan seru Leicester vs Chelsea - Women's Super League. Saksikan aksi-aksi terbaik dari tim yang bersaing ketat untuk meraih kemenangan. Dapatkan informasi lengkap mengenai jadwal pertandingan dan hasil pertandingan terbaru hanya di Vidio.</desc>
     <icon src="https://thumbor.prod.vidiocdn.com/GtXOWd1SDtIXUHCQy7wxf-gQo9k=/287x162/filters:strip_icc():quality(70)/vidio-media-production/uploads/livestreaming/schedule/thumbnail/5038925/35a42f.jpg"/>
   </programme>
-  <programme channel="6317" start="20260503153000 +0000" stop="20260503160000 +0000">
+  <programme channel="6317" start="20260503152600 +0000" stop="20260503160000 +0000">
     <title lang="id">MD15 Review &amp; MD16 Preview : UEFA Champions League Magazine Show 2025/26</title>
     <desc lang="id">MD15 Review &amp; MD16 Preview</desc>
     <icon src="https://thumbor.prod.vidiocdn.com/xiN-u5MIG7jgOVE2tB_TUIynz7k=/287x162/filters:strip_icc():quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/image/6317/bein-3-616b1c.jpg"/>
@@ -8716,7 +8720,7 @@
     <icon src="https://thumbor.prod.vidiocdn.com/20tRQaK9Gps_wFQL5rY-XgRbrs4=/287x162/filters:strip_icc():quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/image/782/antv-de8530.jpg"/>
   </programme>
   <programme channel="782" start="20260503140000 +0000" stop="20260503153000 +0000">
-    <title lang="id">Sinema Spesial</title>
+    <title lang="id">Sinema Spesial : Telaga Angker</title>
     <icon src="https://thumbor.prod.vidiocdn.com/20tRQaK9Gps_wFQL5rY-XgRbrs4=/287x162/filters:strip_icc():quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/image/782/antv-de8530.jpg"/>
   </programme>
   <programme channel="782" start="20260503153000 +0000" stop="20260503170000 +0000">
@@ -14135,12 +14139,12 @@
     <title lang="id">Filler</title>
     <icon src="https://thumbor.prod.vidiocdn.com/nY0aFklpYf6yONLaFJjxhiSuthc=/287x162/filters:strip_icc():quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/image/6786/champions-tv-3-76ca7c.jpg"/>
   </programme>
-  <programme channel="6786" start="20260503124500 +0000" stop="20260503150000 +0000">
+  <programme channel="6786" start="20260503124500 +0000" stop="20260503145900 +0000">
     <title lang="id">SASSUOLO vs MILAN : Serie A 2025/26</title>
     <desc lang="id">SASSUOLO vs MILAN</desc>
     <icon src="https://thumbor.prod.vidiocdn.com/nY0aFklpYf6yONLaFJjxhiSuthc=/287x162/filters:strip_icc():quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/image/6786/champions-tv-3-76ca7c.jpg"/>
   </programme>
-  <programme channel="6786" start="20260503150000 +0000" stop="20260503153000 +0000">
+  <programme channel="6786" start="20260503145900 +0000" stop="20260503153000 +0000">
     <title lang="id">Full Impact - Round 34 : Serie A 2025/26 - Highlight Show</title>
     <desc lang="id">Full Impact - Round 34</desc>
     <icon src="https://thumbor.prod.vidiocdn.com/nY0aFklpYf6yONLaFJjxhiSuthc=/287x162/filters:strip_icc():quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/image/6786/champions-tv-3-76ca7c.jpg"/>
@@ -18030,22 +18034,22 @@
     <desc lang="id">Show 30 Matchweek 35</desc>
     <icon src="https://thumbor.prod.vidiocdn.com/r_QaZubFaj9Ht_TI2kDgdImcRqY=/287x162/filters:strip_icc():quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/image/9182/champions-tv-5-e0dd48.jpg"/>
   </programme>
-  <programme channel="9182" start="20260503140000 +0000" stop="20260503163000 +0000">
+  <programme channel="9182" start="20260503140000 +0000" stop="20260503164200 +0000">
     <title lang="id">Man United vs Liverpool - Premier League</title>
     <desc lang="id">Nonton streaming pertandingan seru Man United vs Liverpool - Premier League. Saksikan aksi-aksi terbaik dari tim yang bersaing ketat untuk meraih kemenangan. Dapatkan informasi lengkap mengenai jadwal pertandingan dan hasil pertandingan terbaru hanya di Vidio.</desc>
     <icon src="https://thumbor.prod.vidiocdn.com/LImaT_pMBxVY1YjwYHo1_ExRo7I=/287x162/filters:strip_icc():quality(70)/vidio-media-production/uploads/livestreaming/schedule/thumbnail/5036135/d2c6d2.jpg"/>
   </programme>
-  <programme channel="9182" start="20260503163000 +0000" stop="20260503170000 +0000">
+  <programme channel="9182" start="20260503164200 +0000" stop="20260503170000 +0000">
     <title lang="id">Eps 38 : THE BIG INTERVIEW 2025/26</title>
     <desc lang="id">Eps 38</desc>
     <icon src="https://thumbor.prod.vidiocdn.com/r_QaZubFaj9Ht_TI2kDgdImcRqY=/287x162/filters:strip_icc():quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/image/9182/champions-tv-5-e0dd48.jpg"/>
   </programme>
-  <programme channel="9182" start="20260503163000 +0000" stop="20260503170000 +0000">
+  <programme channel="9182" start="20260503164200 +0000" stop="20260503170000 +0000">
     <title lang="id">Eps 38 : THE BIG INTERVIEW 2025/26</title>
     <desc lang="id">Eps 38</desc>
     <icon src="https://thumbor.prod.vidiocdn.com/r_QaZubFaj9Ht_TI2kDgdImcRqY=/287x162/filters:strip_icc():quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/image/9182/champions-tv-5-e0dd48.jpg"/>
   </programme>
-  <programme channel="9182" start="20260503180000 +0000" stop="20260503200000 +0000">
+  <programme channel="9182" start="20260503173000 +0000" stop="20260503200000 +0000">
     <title lang="id">Aston Villa vs Tottenham - Premier League</title>
     <desc lang="id">Nonton streaming pertandingan seru Aston Villa vs Tottenham - Premier League. Saksikan aksi-aksi terbaik dari tim yang bersaing ketat untuk meraih kemenangan. Dapatkan informasi lengkap mengenai jadwal pertandingan dan hasil pertandingan terbaru hanya di Vidio.</desc>
     <icon src="https://thumbor.prod.vidiocdn.com/s23tXGbbYQKJdVL8R9TSWWbLc_U=/287x162/filters:strip_icc():quality(70)/vidio-media-production/uploads/livestreaming/schedule/thumbnail/5055566/3adc88.jpg"/>
@@ -18710,12 +18714,12 @@
     <desc lang="id">Show 30 Matchweek 35</desc>
     <icon src="https://thumbor.prod.vidiocdn.com/_8JaTGtU2WYTw0ylulYg_dmz37Y=/287x162/filters:strip_icc():quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/image/9183/champions-tv-6-8a049a.jpg"/>
   </programme>
-  <programme channel="9183" start="20260503123000 +0000" stop="20260503150000 +0000">
+  <programme channel="9183" start="20260503123000 +0000" stop="20260503150600 +0000">
     <title lang="id">Bournemouth vs Crystal Palace - Premier League</title>
     <desc lang="id">Nonton streaming pertandingan seru Bournemouth vs Crystal Palace - Premier League. Saksikan aksi-aksi terbaik dari tim yang bersaing ketat untuk meraih kemenangan. Dapatkan informasi lengkap mengenai jadwal pertandingan dan hasil pertandingan terbaru hanya di Vidio.</desc>
     <icon src="https://thumbor.prod.vidiocdn.com/XuhDBLSi7dsKpfwz5hTbDgkB_cE=/287x162/filters:strip_icc():quality(70)/vidio-media-production/uploads/livestreaming/schedule/thumbnail/5036140/4fc8f0.jpg"/>
   </programme>
-  <programme channel="9183" start="20260503150000 +0000" stop="20260503153000 +0000">
+  <programme channel="9183" start="20260503150600 +0000" stop="20260503153000 +0000">
     <title lang="id">HIGHLIGHT SHOW - SEMI FINAL : FA Cup 2025/26</title>
     <desc lang="id">HIGHLIGHT SHOW SEMI FINAL</desc>
     <icon src="https://thumbor.prod.vidiocdn.com/_8JaTGtU2WYTw0ylulYg_dmz37Y=/287x162/filters:strip_icc():quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/image/9183/champions-tv-6-8a049a.jpg"/>
