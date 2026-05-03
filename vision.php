@@ -604,9 +604,6 @@
 <programme start="20260502230000 +0000" stop="20260503003000 +0000" channel="ANTV.vision">
 <title>Kasautii</title>
 </programme>
-<programme start="20260503003000 +0000" stop="20260503023000 +0000" channel="ANTV.vision">
-<title>Tragedi Bintaro</title>
-</programme>
 <programme start="20260503023000 +0000" stop="20260503060000 +0000" channel="ANTV.vision">
 <title>Kal Ho Na Ho</title>
 </programme>
@@ -1496,5 +1493,8 @@
 <title>TVRI</title>
 </programme>
 <programme start="20260503070000 +0000" stop="20260503090000 +0000" channel="TVRI.vision">
+<title>TVRI</title>
+</programme>
+<programme start="20260503090000 +0000" stop="20260503110000 +0000" channel="TVRI.vision">
 <title>TVRI</title>
 </programme>

@@ -2470,40 +2470,37 @@
 <programme start="20260503213000 +0000" stop="20260503222000 +0000" channel="Sky Showcase HD.skyde">
     <title>Red Eye</title>
 </programme>
-<programme start="20260502231500 +0000" stop="20260503000000 +0000" channel="Sky Sport Austria 1 HD.skyde">
-    <title>Admiral BL: Alle Spiele, alle Tore 30. Runde (Samstag)</title>
+<programme start="20260502233000 +0000" stop="20260503000000 +0000" channel="Sky Sport Austria 1 HD.skyde">
+    <title>UEFA CL: Magazin</title>
 </programme>
 <programme start="20260503000000 +0000" stop="20260503003000 +0000" channel="Sky Sport Austria 1 HD.skyde">
-    <title>UEFA CL: Magazin</title>
-</programme>
-<programme start="20260503003000 +0000" stop="20260503010000 +0000" channel="Sky Sport Austria 1 HD.skyde">
     <title>RIESENrad: Sportgrößen im Waggon 28 (Gast: Janine Flock)</title>
 </programme>
-<programme start="20260503010000 +0000" stop="20260503030000 +0000" channel="Sky Sport Austria 1 HD.skyde">
+<programme start="20260503003000 +0000" stop="20260503023000 +0000" channel="Sky Sport Austria 1 HD.skyde">
     <title>Admiral BL: SV Oberbank Ried - FC Blau-Weiß Linz, 30. Runde</title>
 </programme>
-<programme start="20260503030000 +0000" stop="20260503034500 +0000" channel="Sky Sport Austria 1 HD.skyde">
+<programme start="20260503023000 +0000" stop="20260503031500 +0000" channel="Sky Sport Austria 1 HD.skyde">
     <title>Fußball: Herzog gegen Herzig - Die next Generation Show</title>
 </programme>
-<programme start="20260503034500 +0000" stop="20260503043000 +0000" channel="Sky Sport Austria 1 HD.skyde">
+<programme start="20260503031500 +0000" stop="20260503040000 +0000" channel="Sky Sport Austria 1 HD.skyde">
     <title>Fußball: Herzog gegen Herzig - Die next Generation Show (SV Fohnsdorf)</title>
 </programme>
-<programme start="20260503043000 +0000" stop="20260503051500 +0000" channel="Sky Sport Austria 1 HD.skyde">
+<programme start="20260503040000 +0000" stop="20260503044500 +0000" channel="Sky Sport Austria 1 HD.skyde">
     <title>Fußball: Herzog gegen Herzig - Die next Generation Show</title>
 </programme>
-<programme start="20260503051500 +0000" stop="20260503060000 +0000" channel="Sky Sport Austria 1 HD.skyde">
+<programme start="20260503044500 +0000" stop="20260503054500 +0000" channel="Sky Sport Austria 1 HD.skyde">
     <title>Admiral BL: Alle Spiele, alle Tore 30. Runde (Samstag)</title>
 </programme>
-<programme start="20260503060000 +0000" stop="20260503074500 +0000" channel="Sky Sport Austria 1 HD.skyde">
+<programme start="20260503054500 +0000" stop="20260503073000 +0000" channel="Sky Sport Austria 1 HD.skyde">
     <title>Fußball: Klassiker der Woche: SCR - ASK (2023/24)</title>
 </programme>
-<programme start="20260503074500 +0000" stop="20260503094500 +0000" channel="Sky Sport Austria 1 HD.skyde">
+<programme start="20260503073000 +0000" stop="20260503093000 +0000" channel="Sky Sport Austria 1 HD.skyde">
     <title>Admiral BL: SV Oberbank Ried - FC Blau-Weiß Linz, 30. Runde</title>
 </programme>
-<programme start="20260503094500 +0000" stop="20260503101500 +0000" channel="Sky Sport Austria 1 HD.skyde">
+<programme start="20260503093000 +0000" stop="20260503100000 +0000" channel="Sky Sport Austria 1 HD.skyde">
     <title>UEFA CL: Magazin</title>
 </programme>
-<programme start="20260503101500 +0000" stop="20260503110000 +0000" channel="Sky Sport Austria 1 HD.skyde">
+<programme start="20260503100000 +0000" stop="20260503110000 +0000" channel="Sky Sport Austria 1 HD.skyde">
     <title>Admiral BL: Alle Spiele, alle Tore 30. Runde (Samstag)</title>
 </programme>
 <programme start="20260503110000 +0000" stop="20260503120000 +0000" channel="Sky Sport Austria 1 HD.skyde">
@@ -3179,10 +3176,10 @@
     <title>Live PL: Match of the Week: Die Analyse, MUN - LIV, 35. Spieltag</title>
 </programme>
 <programme start="20260503170000 +0000" stop="20260503173000 +0000" channel="Sky Sport UHD.skyde">
-    <title>Golf: Greatest Holes (6)</title>
+    <title>Live PL: All Goals: Die Highlight-Show, 35. Spieltag</title>
 </programme>
 <programme start="20260503170000 +0000" stop="20260503173000 +0000" channel="Sky Sport UHD.skyde">
-    <title>Live PL: All Goals: Die Highlight-Show, 35. Spieltag</title>
+    <title>Golf: Greatest Holes (6)</title>
 </programme>
 <programme start="20260503173000 +0000" stop="20260503180000 +0000" channel="Sky Sport UHD.skyde">
     <title>Golf: Greatest Holes (7)</title>
@@ -3205,10 +3202,10 @@
 <programme start="20260502223000 +0000" stop="20260502233000 +0000" channel="Sky Sport 1 HD.skyde">
     <title>Live NBA: Showtime</title>
 </programme>
-<programme start="20260502233000 +0000" stop="20260503020000 +0000" channel="Sky Sport 1 HD.skyde">
+<programme start="20260502233000 +0000" stop="20260503021000 +0000" channel="Sky Sport 1 HD.skyde">
     <title>Live NBA: Philadelphia 76ers @ Boston Celtics, Playoffs, Runde 1, Spiel 7</title>
 </programme>
-<programme start="20260503020000 +0000" stop="20260503080000 +0000" channel="Sky Sport 1 HD.skyde">
+<programme start="20260503021000 +0000" stop="20260503033000 +0000" channel="Sky Sport 1 HD.skyde">
     <title>Live NBA: Showtime - Post Show</title>
 </programme>
 <programme start="20260503185500 +0000" stop="20260503191500 +0000" channel="Sky Sport 1 HD.skyde">

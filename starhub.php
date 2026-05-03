@@ -4069,14 +4069,20 @@
     <programme start="20260503030000 +0000" stop="20260503070000 +0000" channel="Hub Sports 3 HD.starhub">
         <title>The 45th GS Caltex Maekyung Open Golf C&#039;ship Round 4</title>
     </programme>
-    <programme start="20260503070000 +0000" stop="20260503100000 +0000" channel="Hub Sports 3 HD.starhub">
-        <title>MEXICO Riviera Maya Open at Mayakoba Round 3</title>
+    <programme start="20260503070000 +0000" stop="20260503110000 +0000" channel="Hub Sports 3 HD.starhub">
+        <title>Turkish Airlines Open Day 4 (JIP)</title>
     </programme>
-    <programme start="20260503100000 +0000" stop="20260503150000 +0000" channel="Hub Sports 3 HD.starhub">
-        <title>Turkish Airlines Open Day 4</title>
+    <programme start="20260503110000 +0000" stop="20260503120000 +0000" channel="Hub Sports 3 HD.starhub">
+        <title>Mitsubishi Electric Classic</title>
     </programme>
-    <programme start="20260503150000 +0000" stop="20260503160000 +0000" channel="Hub Sports 3 HD.starhub">
+    <programme start="20260503120000 +0000" stop="20260503130000 +0000" channel="Hub Sports 3 HD.starhub">
         <title>Singapore Open p/b The Business Times</title>
+    </programme>
+    <programme start="20260503130000 +0000" stop="20260503133000 +0000" channel="Hub Sports 3 HD.starhub">
+        <title>Volvo China Open</title>
+    </programme>
+    <programme start="20260503133000 +0000" stop="20260503183000 +0000" channel="Hub Sports 3 HD.starhub">
+        <title>Cadillac Championship Round 4</title>
     </programme>
     <programme start="20260502160000 +0000" stop="20260502161500 +0000" channel="France24.starhub">
         <title>News</title>
@@ -4654,7 +4660,7 @@
     <programme start="20260503133000 +0000" stop="20260503150000 +0000" channel="Vijay TV HD.starhub">
         <title>Cooku With Comali S07 - Double Trouble</title>
     </programme>
-    <programme start="20260503150000 +0000" stop="20260503160000 +0000" channel="Vijay TV HD.starhub">
+    <programme start="20260503150000 +0000" stop="20260503163000 +0000" channel="Vijay TV HD.starhub">
         <title>Jodi Are U Ready S03</title>
     </programme>
     <programme start="20260502160000 +0000" stop="20260502163000 +0000" channel="Asianet.starhub">
@@ -7765,13 +7771,13 @@
     <programme start="20260502213000 +0000" stop="20260502233000 +0000" channel="Asianet Movies.starhub">
         <title>Monayi Angane Aanaayi</title>
     </programme>
-    <programme start="20260502233000 +0000" stop="20260503013000 +0000" channel="Asianet Movies.starhub">
+    <programme start="20260502231000 +0000" stop="20260503013000 +0000" channel="Asianet Movies.starhub">
         <title>Beware of Dogs</title>
     </programme>
-    <programme start="20260503013000 +0000" stop="20260503020000 +0000" channel="Asianet Movies.starhub">
+    <programme start="20260503013000 +0000" stop="20260503015000 +0000" channel="Asianet Movies.starhub">
         <title>Filler:Chirikkum Thalika II</title>
     </programme>
-    <programme start="20260503020000 +0000" stop="20260503043000 +0000" channel="Asianet Movies.starhub">
+    <programme start="20260503015000 +0000" stop="20260503043000 +0000" channel="Asianet Movies.starhub">
         <title>Sunday Holiday</title>
     </programme>
     <programme start="20260503043000 +0000" stop="20260503073000 +0000" channel="Asianet Movies.starhub">
