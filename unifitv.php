@@ -15336,9 +15336,14 @@
   <channel id="unifisports1.unifitv">
     <display-name>Unifi Sports 1</display-name>
   </channel>
-  <programme start="20260503140000 +0000" stop="20260503195500 +0000" channel="unifisports1.unifitv">
+  <programme start="20260503140000 +0000" stop="20260503193000 +0000" channel="unifisports1.unifitv">
     <title lang="en">UFC Fight Night: Della Maddalena vs. Prates - Main</title>
     <desc lang="en">The month of April wraps with a return to Meta APEX for a UFC Fight Night event capped by a thrilling  clash between Top 10 featherweights Aljamain “Funk Master” Sterling and Youssef “The Moroccan  Devil” Zalal</desc>
+    <category lang="en">Sports</category>
+  </programme>
+  <programme start="20260503193000 +0000" stop="20260503195500 +0000" channel="unifisports1.unifitv">
+    <title lang="en">UFC Fight Flashback - UFC Fight Flashback 1004: Teixeira vs. Prochazka</title>
+    <desc lang="en">UFC 275 featured Czech MMA star Jiri Prochazka in his third Octagon outing as he sought UFC gold against newly minted light heavyweight champion, Glover Teixeira. Relive their fight with enhanced replays and angles, new footage, and exclusive audio.</desc>
     <category lang="en">Sports</category>
   </programme>
   <programme start="20260503195500 +0000" stop="20260503200000 +0000" channel="unifisports1.unifitv">
@@ -15411,7 +15416,7 @@
     <desc lang="en">Goals, saves and other superhuman feats that have graced the Bundesliga. Since inception in 1963, who stands atop the Bundesliga charts?</desc>
     <category lang="en">Sports</category>
   </programme>
-  <programme start="20260504140000 +0000" stop="20260504195500 +0000" channel="unifisports1.unifitv">
+  <programme start="20260504140000 +0000" stop="20260504193000 +0000" channel="unifisports1.unifitv">
     <title lang="en">UFC Fight Night: Della Maddalena vs. Prates - Main</title>
     <desc lang="en">The month of April wraps with a return to Meta APEX for a UFC Fight Night event capped by a thrilling  clash between Top 10 featherweights Aljamain “Funk Master” Sterling and Youssef “The Moroccan  Devil” Zalal</desc>
     <category lang="en">Sports</category>
@@ -15507,12 +15512,12 @@
     <desc lang="en">Major League Baseball is the most historic professional sports league consists of 30 member clubs in the U.S. and Canada, representing the highest level of professional baseball.</desc>
     <category lang="en">Baseball</category>
   </programme>
-  <programme start="20260503210000 +0000" stop="20260503230000 +0000" channel="spotv2.unifitv">
+  <programme start="20260503210000 +0000" stop="20260503235000 +0000" channel="spotv2.unifitv">
     <title lang="en">25/26 A-League Men Elimination Finals - Auckland FC vs Melbourne City FC</title>
     <desc lang="en">Top flight men's soccer returns in the ISUZU UTE A-League Men. Catch every moment on SPOTV NOW as 12 teams compete in the regular season with top 4 advancing to a single-game knockout.</desc>
     <category lang="en">Football</category>
   </programme>
-  <programme start="20260503230000 +0000" stop="20260504013000 +0000" channel="spotv2.unifitv">
+  <programme start="20260503235000 +0000" stop="20260504013000 +0000" channel="spotv2.unifitv">
     <title lang="en">2026 Longines Global Champions Tour, Shanghai - Class 4: CSI5* 2 Phases Special 1.45</title>
     <desc lang="en">The world's top show jumping riders compete across prestigious international venues, showcasing elite skill, speed, and championship drama throughout the season.</desc>
     <category lang="en">Extreme Sports</category>

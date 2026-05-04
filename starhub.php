@@ -3947,7 +3947,7 @@
         <title>Kid&#039;s Discovery</title>
     </programme>
     <programme start="20260504092500 +0000" stop="20260504095500 +0000" channel="NHK World Premium HD.starhub">
-        <title>Nyan-chu! Space! Broadcasting! (R)</title>
+        <title>Slow Life at a Temple (R)</title>
     </programme>
     <programme start="20260504095500 +0000" stop="20260504100000 +0000" channel="NHK World Premium HD.starhub">
         <title>World Weather</title>
