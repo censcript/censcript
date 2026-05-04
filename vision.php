@@ -646,15 +646,6 @@
 <programme start="20260504100000 +0000" stop="20260504120000 +0000" channel="ANTV.vision">
 <title>Vasudha</title>
 </programme>
-<programme start="20260504140000 +0000" stop="20260504153000 +0000" channel="ANTV.vision">
-<title>Titisan Dewi Ular</title>
-</programme>
-<programme start="20260504153000 +0000" stop="20260504173000 +0000" channel="ANTV.vision">
-<title>Misteri Janda Kembang</title>
-</programme>
-<programme start="20260504173000 +0000" stop="20260504181500 +0000" channel="ANTV.vision">
-<title>Mr Bean</title>
-</programme>
 <programme start="20260504181500 +0000" stop="20260504203000 +0000" channel="ANTV.vision">
 <title>Serie A Liga Italia</title>
 </programme>
@@ -819,9 +810,6 @@
 </programme>
 <programme start="20260504110000 +0000" stop="20260504130000 +0000" channel="TVOne.vision">
 <title>Apa Kabar Indonesia Malam (L)</title>
-</programme>
-<programme start="20260504140000 +0000" stop="20260504153000 +0000" channel="TVOne.vision">
-<title>Kabar Utama 2 (L)</title>
 </programme>
 <programme start="20260504153000 +0000" stop="20260504160000 +0000" channel="TVOne.vision">
 <title>Kabar Hari Ini (L)</title>
@@ -1497,4 +1485,16 @@
 </programme>
 <programme start="20260505073000 +0000" stop="20260505080000 +0000" channel="BTV.vision">
 <title>Indonesia Update Cerita IDN</title>
+</programme>
+<programme start="20260505080000 +0000" stop="20260505083000 +0000" channel="BTV.vision">
+<title>Berita Kriminal</title>
+</programme>
+<programme start="20260505083000 +0000" stop="20260505090000 +0000" channel="BTV.vision">
+<title>Berita Satu Sore (L)</title>
+</programme>
+<programme start="20260505090000 +0000" stop="20260505090500 +0000" channel="BTV.vision">
+<title>Berita Satu Terkini</title>
+</programme>
+<programme start="20260505090500 +0000" stop="20260505100000 +0000" channel="BTV.vision">
+<title>Berita Satu Sore</title>
 </programme>

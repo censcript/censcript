@@ -3080,13 +3080,13 @@
     <title>NBA: Orlando Magic @ Detroit Pistons, Playoffs, Runde 1, Spiel 7</title>
 </programme>
 <programme start="20260504161500 +0000" stop="20260504163000 +0000" channel="Sky Sport Mix HD.skyde">
-    <title>NHL: Highlights, Playoffs, 1. Runde</title>
+    <title>NHL: MIN@COL Highlights, Playoffs, 2. Runde</title>
 </programme>
-<programme start="20260504163000 +0000" stop="20260504164500 +0000" channel="Sky Sport Mix HD.skyde">
-    <title>NHL: Highlights, Playoffs, 1. Runde</title>
-</programme>
-<programme start="20260504164500 +0000" stop="20260504174500 +0000" channel="Sky Sport Mix HD.skyde">
+<programme start="20260504163000 +0000" stop="20260504173000 +0000" channel="Sky Sport Mix HD.skyde">
     <title>NHL: Tonight - Playoff Edition</title>
+</programme>
+<programme start="20260504173000 +0000" stop="20260504174500 +0000" channel="Sky Sport Mix HD.skyde">
+    <title>NHL: MIN@COL Highlights, Playoffs, 2. Runde</title>
 </programme>
 <programme start="20260504174500 +0000" stop="20260504184500 +0000" channel="Sky Sport Mix HD.skyde">
     <title>MotoGP: Rennen - GP Spanien</title>
@@ -4003,13 +4003,13 @@
 <programme start="20260504055000 +0000" stop="20260504061500 +0000" channel="Warner TV Comedy HD.skyde">
     <title>Friends</title>
 </programme>
-<programme start="20260504061500 +0000" stop="20260504063500 +0000" channel="Warner TV Comedy HD.skyde">
+<programme start="20260504061500 +0000" stop="20260504064000 +0000" channel="Warner TV Comedy HD.skyde">
     <title>Friends</title>
 </programme>
-<programme start="20260504063500 +0000" stop="20260504070000 +0000" channel="Warner TV Comedy HD.skyde">
+<programme start="20260504064000 +0000" stop="20260504070500 +0000" channel="Warner TV Comedy HD.skyde">
     <title>Die Nanny</title>
 </programme>
-<programme start="20260504070000 +0000" stop="20260504073000 +0000" channel="Warner TV Comedy HD.skyde">
+<programme start="20260504070500 +0000" stop="20260504073000 +0000" channel="Warner TV Comedy HD.skyde">
     <title>Die Nanny</title>
 </programme>
 <programme start="20260504073000 +0000" stop="20260504075500 +0000" channel="Warner TV Comedy HD.skyde">
@@ -4039,16 +4039,16 @@
 <programme start="20260504105000 +0000" stop="20260504111500 +0000" channel="Warner TV Comedy HD.skyde">
     <title>The Middle</title>
 </programme>
-<programme start="20260504111500 +0000" stop="20260504114000 +0000" channel="Warner TV Comedy HD.skyde">
+<programme start="20260504111500 +0000" stop="20260504114500 +0000" channel="Warner TV Comedy HD.skyde">
     <title>King of Queens</title>
 </programme>
-<programme start="20260504114000 +0000" stop="20260504120500 +0000" channel="Warner TV Comedy HD.skyde">
+<programme start="20260504114500 +0000" stop="20260504121000 +0000" channel="Warner TV Comedy HD.skyde">
     <title>King of Queens</title>
 </programme>
-<programme start="20260504120500 +0000" stop="20260504123000 +0000" channel="Warner TV Comedy HD.skyde">
+<programme start="20260504121000 +0000" stop="20260504123500 +0000" channel="Warner TV Comedy HD.skyde">
     <title>King of Queens</title>
 </programme>
-<programme start="20260504123000 +0000" stop="20260504130000 +0000" channel="Warner TV Comedy HD.skyde">
+<programme start="20260504123500 +0000" stop="20260504130000 +0000" channel="Warner TV Comedy HD.skyde">
     <title>King of Queens</title>
 </programme>
 <programme start="20260504130000 +0000" stop="20260504132500 +0000" channel="Warner TV Comedy HD.skyde">
@@ -4066,10 +4066,10 @@
 <programme start="20260504144000 +0000" stop="20260504150500 +0000" channel="Warner TV Comedy HD.skyde">
     <title>Two and a Half Men</title>
 </programme>
-<programme start="20260504150500 +0000" stop="20260504152500 +0000" channel="Warner TV Comedy HD.skyde">
+<programme start="20260504150500 +0000" stop="20260504153000 +0000" channel="Warner TV Comedy HD.skyde">
     <title>Two and a Half Men</title>
 </programme>
-<programme start="20260504152500 +0000" stop="20260504155000 +0000" channel="Warner TV Comedy HD.skyde">
+<programme start="20260504153000 +0000" stop="20260504155000 +0000" channel="Warner TV Comedy HD.skyde">
     <title>Two and a Half Men</title>
 </programme>
 <programme start="20260504155000 +0000" stop="20260504161500 +0000" channel="Warner TV Comedy HD.skyde">
@@ -4096,10 +4096,10 @@
 <programme start="20260504184000 +0000" stop="20260504190500 +0000" channel="Warner TV Comedy HD.skyde">
     <title>St. Denis Medical</title>
 </programme>
-<programme start="20260504190500 +0000" stop="20260504193000 +0000" channel="Warner TV Comedy HD.skyde">
+<programme start="20260504190500 +0000" stop="20260504192500 +0000" channel="Warner TV Comedy HD.skyde">
     <title>Two and a Half Men</title>
 </programme>
-<programme start="20260504193000 +0000" stop="20260504195000 +0000" channel="Warner TV Comedy HD.skyde">
+<programme start="20260504192500 +0000" stop="20260504195000 +0000" channel="Warner TV Comedy HD.skyde">
     <title>Two and a Half Men</title>
 </programme>
 <programme start="20260504195000 +0000" stop="20260504201500 +0000" channel="Warner TV Comedy HD.skyde">
@@ -4108,16 +4108,16 @@
 <programme start="20260504201500 +0000" stop="20260504204000 +0000" channel="Warner TV Comedy HD.skyde">
     <title>American Dad</title>
 </programme>
-<programme start="20260504204000 +0000" stop="20260504210500 +0000" channel="Warner TV Comedy HD.skyde">
+<programme start="20260504204000 +0000" stop="20260504210000 +0000" channel="Warner TV Comedy HD.skyde">
     <title>American Dad</title>
 </programme>
-<programme start="20260504210500 +0000" stop="20260504213000 +0000" channel="Warner TV Comedy HD.skyde">
+<programme start="20260504210000 +0000" stop="20260504212500 +0000" channel="Warner TV Comedy HD.skyde">
     <title>American Dad</title>
 </programme>
-<programme start="20260504213000 +0000" stop="20260504215000 +0000" channel="Warner TV Comedy HD.skyde">
+<programme start="20260504212500 +0000" stop="20260504215000 +0000" channel="Warner TV Comedy HD.skyde">
     <title>American Dad</title>
 </programme>
-<programme start="20260504215000 +0000" stop="20260504221500 +0000" channel="Warner TV Comedy HD.skyde">
+<programme start="20260504215000 +0000" stop="20260504221000 +0000" channel="Warner TV Comedy HD.skyde">
     <title>2 Broke Girls</title>
 </programme>
 <programme start="20260503222000 +0000" stop="20260504002500 +0000" channel="Warner TV Film.skyde">
@@ -4171,13 +4171,13 @@
 <programme start="20260504023500 +0000" stop="20260504040000 +0000" channel="Warner TV Film HD.skyde">
     <title>Vom Teufel geritten</title>
 </programme>
-<programme start="20260504040000 +0000" stop="20260504044500 +0000" channel="Warner TV Film HD.skyde">
+<programme start="20260504040000 +0000" stop="20260504045000 +0000" channel="Warner TV Film HD.skyde">
     <title>Ein Abend mit... Ken Duken</title>
 </programme>
-<programme start="20260504044500 +0000" stop="20260504064000 +0000" channel="Warner TV Film HD.skyde">
+<programme start="20260504045000 +0000" stop="20260504064500 +0000" channel="Warner TV Film HD.skyde">
     <title>The East</title>
 </programme>
-<programme start="20260504064000 +0000" stop="20260504082000 +0000" channel="Warner TV Film HD.skyde">
+<programme start="20260504064500 +0000" stop="20260504082000 +0000" channel="Warner TV Film HD.skyde">
     <title>Mad Max</title>
 </programme>
 <programme start="20260504082000 +0000" stop="20260504102000 +0000" channel="Warner TV Film HD.skyde">
@@ -4201,7 +4201,7 @@
 <programme start="20260504200500 +0000" stop="20260504213500 +0000" channel="Warner TV Film HD.skyde">
     <title>Police Academy 4 - Und jetzt geht&#039;s rund</title>
 </programme>
-<programme start="20260504213500 +0000" stop="20260504233500 +0000" channel="Warner TV Film HD.skyde">
+<programme start="20260504213500 +0000" stop="20260504234000 +0000" channel="Warner TV Film HD.skyde">
     <title>Die Hexen von Eastwick</title>
 </programme>
 <programme start="20260503221000 +0000" stop="20260503225500 +0000" channel="Warner TV Serie HD.skyde">
