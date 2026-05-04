@@ -2359,10 +2359,10 @@
     <programme start="20260504150000 +0000" stop="20260504170000 +0000" channel="Cinema One Global.starhub">
         <title>I Have Three Hands</title>
     </programme>
-    <programme start="20260503150000 +0000" stop="20260503170000 +0000" channel="Hub Sports 2 HD.starhub">
+    <programme start="20260503150000 +0000" stop="20260503164000 +0000" channel="Hub Sports 2 HD.starhub">
         <title>Mutua Madrid Open (1000) Final</title>
     </programme>
-    <programme start="20260503170000 +0000" stop="20260503200000 +0000" channel="Hub Sports 2 HD.starhub">
+    <programme start="20260503164000 +0000" stop="20260503200000 +0000" channel="Hub Sports 2 HD.starhub">
         <title>Copa Colsanitas Colsubsidio (250) QF 1 &amp; 2</title>
     </programme>
     <programme start="20260503200000 +0000" stop="20260503230000 +0000" channel="Hub Sports 2 HD.starhub">

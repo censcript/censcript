@@ -2406,109 +2406,101 @@
     <display-name>TV Sarawak</display-name>
   </channel>
   <programme start="20260503153000 +0000" stop="20260503160000 +0000" channel="tvs.unifitv">
-    <title lang="en">Unearth Sarawak: Indigenous Cuisines</title>
-    <desc lang="en">Showcases iconic and forgotten cuisines from Bidayuh, Melanau, Chinese, Iban, and Orang Ulu ethnics, aiming to preserve heritage cuisines, boost local communities, and promote gastronomy tourism.</desc>
-    <category lang="en">Culture</category>
-    <episode-num system="xmltv_ns">0.2.</episode-num>
-    <episode-num system="onscreen">S1E3</episode-num>
-  </programme>
-  <programme start="20260503160000 +0000" stop="20260503163000 +0000" channel="tvs.unifitv">
-    <title lang="en">Contender</title>
-    <desc lang="en">Contender is a compelling 6-part documentary series that takes an in-depth look at the world of Muay Thai in Sarawak.</desc>
-    <category lang="en">Documentary</category>
-    <episode-num system="xmltv_ns">0.0.</episode-num>
-    <episode-num system="onscreen">S1E1</episode-num>
-  </programme>
-  <programme start="20260503163000 +0000" stop="20260503170000 +0000" channel="tvs.unifitv">
-    <title lang="en">Sarawak Angler</title>
-    <desc lang="en">Program realiti memancing laut dalam di perairan Sarawak diadakan bagi menduga dan mencari spesies ikan hebat.Pemancing profesional dari Sarawak telah dipilih untuk bertanding dalam program realiti ini.</desc>
-    <category lang="en">Documentary</category>
-    <episode-num system="xmltv_ns">0.9.</episode-num>
-    <episode-num system="onscreen">S1E10</episode-num>
-  </programme>
-  <programme start="20260503170000 +0000" stop="20260503173000 +0000" channel="tvs.unifitv">
     <title lang="en">Kek &amp; Pastri</title>
     <desc lang="en">Seorang selebriti, menghasilkan resepi baharu untuk kek, pastri, dan hidangan savouri dengan menggunakan bahan-bahan tempatan dan teknik membakar dan mengukus untuk mencipta hidangan yang lazat &amp; inovatif</desc>
     <category lang="en">Culture</category>
-    <episode-num system="xmltv_ns">0.1.</episode-num>
-    <episode-num system="onscreen">S1E2</episode-num>
+    <episode-num system="xmltv_ns">0.3.</episode-num>
+    <episode-num system="onscreen">S1E4</episode-num>
   </programme>
-  <programme start="20260503173000 +0000" stop="20260503180000 +0000" channel="tvs.unifitv">
-    <title lang="en">Sumandak Takes Borneo</title>
-    <desc lang="en">Dewi Remaja 2022 winner Tracie and two friends explore Borneo's beauty—food, history, culture, nature, and diversity—while uplifting communities through local social enterprises in this inspiring travelogue.</desc>
-    <category lang="en">Documentary</category>
-    <episode-num system="xmltv_ns">0.8.</episode-num>
-    <episode-num system="onscreen">S1E9</episode-num>
-  </programme>
-  <programme start="20260503180000 +0000" stop="20260503183000 +0000" channel="tvs.unifitv">
-    <title lang="en">Kediaman Agro</title>
-    <desc lang="en">'KEDIAMAN AGRO' merupakan program dokumentari yang menumpukan kepada teknologi penanaman makanan berskala kecil seperti di kawasan rumah, mahupun mini kebun.</desc>
-    <category lang="en">Documentary</category>
-    <episode-num system="xmltv_ns">0.8.</episode-num>
-    <episode-num system="onscreen">S1E9</episode-num>
-  </programme>
-  <programme start="20260503183000 +0000" stop="20260503190000 +0000" channel="tvs.unifitv">
+  <programme start="20260503160000 +0000" stop="20260503163000 +0000" channel="tvs.unifitv">
     <title lang="en">Salam Nusantara</title>
     <desc lang="en">Mengungkap lebih banyak khazanah negeri Sarawak yang masih belum lagi diketahui oleh khalayak awam khasnya tentang perkembangan tamadun masyarakat majmuk Sarawak termasuklah umat Islam di negeri ini.</desc>
     <category lang="en">Documentary</category>
     <episode-num system="xmltv_ns">0.9.</episode-num>
     <episode-num system="onscreen">S1E10</episode-num>
   </programme>
-  <programme start="20260503190000 +0000" stop="20260503193000 +0000" channel="tvs.unifitv">
-    <title lang="en">Caves &amp; Caverns</title>
-    <desc lang="en">Our hostess explores Borneo's hidden gems, documenting her experiences, flora, fauna, paragliding, bird watching, and stunning sunsets, ensuring a captivating and exciting adventure.</desc>
+  <programme start="20260503163000 +0000" stop="20260503170000 +0000" channel="tvs.unifitv">
+    <title lang="en">Guru Luar Biasa</title>
+    <desc lang="en">Guru Luar Biasa ialah sebuah dokumentari bersiri 6 episod yang akan memaparkan perkongsian pengalaman guru-guru yang pernah berkhidmat di Sarawak.</desc>
     <category lang="en">Documentary</category>
     <episode-num system="xmltv_ns">0.3.</episode-num>
     <episode-num system="onscreen">S1E4</episode-num>
   </programme>
-  <programme start="20260503193000 +0000" stop="20260503200000 +0000" channel="tvs.unifitv">
-    <title lang="en">Setenang Mata Memandang</title>
-    <desc lang="en">Travelogue program that follows two hosts on their journey to discover hidden gems in Sarawak's natural beauty, including national parks, mountains, valleys, lakes, rivers, waterfalls, and islands.</desc>
+  <programme start="20260503170000 +0000" stop="20260503173000 +0000" channel="tvs.unifitv">
+    <title lang="en">Sumandak Takes Borneo</title>
+    <desc lang="en">Dewi Remaja 2022 winner Tracie and two friends explore Borneo's beauty—food, history, culture, nature, and diversity—while uplifting communities through local social enterprises in this inspiring travelogue.</desc>
     <category lang="en">Documentary</category>
+    <episode-num system="xmltv_ns">0.9.</episode-num>
+    <episode-num system="onscreen">S1E10</episode-num>
+  </programme>
+  <programme start="20260503173000 +0000" stop="20260503180000 +0000" channel="tvs.unifitv">
+    <title lang="en">Ready, Set, Go Kids!</title>
+    <desc lang="en">Ready, Set, Go Kids! is a children's educational program where they travel to Kuching, complete challenges, and win prizes, while learning about the local culture.</desc>
+    <category lang="en">Reality</category>
     <episode-num system="xmltv_ns">0.3.</episode-num>
     <episode-num system="onscreen">S1E4</episode-num>
   </programme>
-  <programme start="20260503200000 +0000" stop="20260503203000 +0000" channel="tvs.unifitv">
-    <title lang="en">My Journey With Nature</title>
-    <desc lang="en">Pengembaraan seorang wanita ke kawasan pendalaman yang belum diterokai diceritakan dalam "My Journey with Nature", yang menampilkan tarikan pelancongan alam semula jadi.</desc>
-    <category lang="en">Documentary</category>
-    <episode-num system="xmltv_ns">0.2.</episode-num>
-    <episode-num system="onscreen">S1E3</episode-num>
-  </programme>
-  <programme start="20260503203000 +0000" stop="20260503210000 +0000" channel="tvs.unifitv">
+  <programme start="20260503180000 +0000" stop="20260503183000 +0000" channel="tvs.unifitv">
     <title lang="en">Borneo Dive</title>
     <desc lang="en">Explore the unique dive sites of Sabah and Sarawak, which attract both local and international divers. The region offers a rich variety of marine life for recreational and avid divers to observe.</desc>
     <category lang="en">Culture</category>
     <episode-num system="xmltv_ns">0.0.</episode-num>
     <episode-num system="onscreen">S1E1</episode-num>
   </programme>
-  <programme start="20260503210000 +0000" stop="20260503213000 +0000" channel="tvs.unifitv">
-    <title lang="en">Pejalai Kamek Orang</title>
-    <desc lang="en">Hosted and narrated by Tony Eusoff, traces locations &amp; stories from people who have heard, experienced and witnessed events right from Brooke Era in 1841 leading up to Sarawak's independence in July 1970</desc>
+  <programme start="20260503183000 +0000" stop="20260503190000 +0000" channel="tvs.unifitv">
+    <title lang="en">Caves &amp; Caverns</title>
+    <desc lang="en">Our hostess explores Borneo's hidden gems, documenting her experiences, flora, fauna, paragliding, bird watching, and stunning sunsets, ensuring a captivating and exciting adventure.</desc>
     <category lang="en">Documentary</category>
-    <episode-num system="xmltv_ns">0.7.</episode-num>
-    <episode-num system="onscreen">S1E8</episode-num>
+    <episode-num system="xmltv_ns">0.4.</episode-num>
+    <episode-num system="onscreen">S1E5</episode-num>
   </programme>
-  <programme start="20260503213000 +0000" stop="20260503220000 +0000" channel="tvs.unifitv">
+  <programme start="20260503190000 +0000" stop="20260503193000 +0000" channel="tvs.unifitv">
+    <title lang="en">Makan Lokal</title>
+    <desc lang="en">Makan Lokal adalah rancangan di mana hos, Jaslin Puasa, menjelajah dan merasai pelbagai hidangan tempatan Malaysia, sambil meneroka budaya dan tradisi di sebalik setiap makanan.</desc>
+    <episode-num system="xmltv_ns">0.2.</episode-num>
+    <episode-num system="onscreen">S1E3</episode-num>
+  </programme>
+  <programme start="20260503193000 +0000" stop="20260503200000 +0000" channel="tvs.unifitv">
+    <title lang="en">Lasting Love</title>
+    <desc lang="en">Filem pendek ini mengisahkan pengorbanan dua orang yang tabah dan kuat melawan emosi ketika mengharungi saat-saat terakhir mereka sebagai suami isteri. William dan Jasmine adalah pasangan kekasih yang telah merancang masa depan untuk mendirikan rumah tangga</desc>
+    <category lang="en">Drama</category>
+    <episode-num system="xmltv_ns">0.0.</episode-num>
+    <episode-num system="onscreen">S1E1</episode-num>
+  </programme>
+  <programme start="20260503200000 +0000" stop="20260503203000 +0000" channel="tvs.unifitv">
     <title lang="en">3 Mak Dara</title>
     <desc lang="en">3 Mak Dara kembali untuk Musim Kedua dengan nafas baharu yang lebih bersahaja dan santai. Dihoskan oleh tiga orang selebriti tanah air iaitu Raja Azura, Sharifah Shahora dan Rita Rudaini. Program ini terus menjadi platform perbincangan mengenai kehidupan, keluarga dan sebagainya.</desc>
     <category lang="en">Culture</category>
     <episode-num system="xmltv_ns">0.4.</episode-num>
     <episode-num system="onscreen">S1E5</episode-num>
   </programme>
-  <programme start="20260503220000 +0000" stop="20260503223000 +0000" channel="tvs.unifitv">
-    <title lang="en">Roots &amp; Remedies</title>
-    <desc lang="en">ROOTS &amp; REMEDIES is a documentary that delves into Sarawak's traditional medicinal plants and health practices, showcasing their efficacy in treating ailments and daily treatments.</desc>
-    <category lang="en">Culture</category>
-    <episode-num system="xmltv_ns">0.11.</episode-num>
-    <episode-num system="onscreen">S1E12</episode-num>
+  <programme start="20260503203000 +0000" stop="20260503210000 +0000" channel="tvs.unifitv">
+    <title lang="en">Sarawak Angler</title>
+    <desc lang="en">Program realiti memancing laut dalam di perairan Sarawak diadakan bagi menduga dan mencari spesies ikan hebat.Pemancing profesional dari Sarawak telah dipilih untuk bertanding dalam program realiti ini.</desc>
+    <category lang="en">Documentary</category>
+    <episode-num system="xmltv_ns">0.9.</episode-num>
+    <episode-num system="onscreen">S1E10</episode-num>
   </programme>
-  <programme start="20260503223000 +0000" stop="20260503230000 +0000" channel="tvs.unifitv">
+  <programme start="20260503210000 +0000" stop="20260503213000 +0000" channel="tvs.unifitv">
     <title lang="en">My Health, My Choice</title>
     <desc lang="en">My Health, My Choice explores daily practices, behaviors, and health issues, highlighting factors like attitudes, diet, environment, and relationships, and provides practical solutions.</desc>
     <category lang="en">Edutainment</category>
-    <episode-num system="xmltv_ns">0.9.</episode-num>
-    <episode-num system="onscreen">S1E10</episode-num>
+    <episode-num system="xmltv_ns">0.10.</episode-num>
+    <episode-num system="onscreen">S1E11</episode-num>
+  </programme>
+  <programme start="20260503213000 +0000" stop="20260503220000 +0000" channel="tvs.unifitv">
+    <title lang="en">Suara Alam Borneo</title>
+    <desc lang="en">Suara Alam Borneo akan mengupasnya hutan hujan tropika berusia jutaan tahun secara terperinci dengan pelbagai spesis flora dan juga fauna menerusi informasi yang mudah difahami.</desc>
+    <category lang="en">Nature</category>
+    <episode-num system="xmltv_ns">0.4.</episode-num>
+    <episode-num system="onscreen">S1E5</episode-num>
+  </programme>
+  <programme start="20260503220000 +0000" stop="20260503230000 +0000" channel="tvs.unifitv">
+    <title lang="en">Ganjil</title>
+    <desc lang="en">Amry, an IT engineer, and Nabila, a social media influencer, meet in a dream and form a bond. As they uncover clues linking them in real life, they discover destiny is guiding their connection.</desc>
+    <category lang="en">Drama</category>
+    <episode-num system="xmltv_ns">0.8.</episode-num>
+    <episode-num system="onscreen">S1E9</episode-num>
   </programme>
   <programme start="20260503230000 +0000" stop="20260503233000 +0000" channel="tvs.unifitv">
     <title lang="en">(L) TVS Pagi</title>
@@ -2516,11 +2508,11 @@
     <category lang="en">News</category>
   </programme>
   <programme start="20260503233000 +0000" stop="20260504000000 +0000" channel="tvs.unifitv">
-    <title lang="en">Khazanah Kenyalang</title>
-    <desc lang="en">Dokumentari mengangkat 39 buah koleksi khazanah terbaik negeri Sarawak - yang tersimpan di Arkib Sarawak sebagai khazanah yang signifikan dan bertaraf dunia.</desc>
+    <title lang="en">Sumandak Takes Borneo</title>
+    <desc lang="en">Dewi Remaja 2022 winner Tracie and two friends explore Borneo's beauty—food, history, culture, nature, and diversity—while uplifting communities through local social enterprises in this inspiring travelogue.</desc>
     <category lang="en">Documentary</category>
-    <episode-num system="xmltv_ns">1.7.</episode-num>
-    <episode-num system="onscreen">S2E8</episode-num>
+    <episode-num system="xmltv_ns">0.9.</episode-num>
+    <episode-num system="onscreen">S1E10</episode-num>
   </programme>
   <programme start="20260504000000 +0000" stop="20260504000500 +0000" channel="tvs.unifitv">
     <title lang="en">(DL) World News</title>
@@ -2528,21 +2520,23 @@
     <category lang="en">News</category>
   </programme>
   <programme start="20260504000500 +0000" stop="20260504001500 +0000" channel="tvs.unifitv">
-    <title lang="en">TVS Fillers</title>
-    <desc lang="en">TVS Fillers delivers quick, engaging segments on Sarawakian culture, local trends, and more, keeping viewers entertained between programs.</desc>
-    <category lang="en">Culture</category>
-  </programme>
-  <programme start="20260504001500 +0000" stop="20260504003000 +0000" channel="tvs.unifitv">
-    <title lang="en">Echoes From The North</title>
-    <desc lang="en">Echoes From the North explores the dance traditions of the Bisaya, Kenyah, and Lun Bawang groups in north Sarawak, highlighting the culture, resilience, and spirit of indigenous peoples through captivating stories and visuals.</desc>
-    <category lang="en">Documentary</category>
+    <title lang="en">TVS Music</title>
+    <desc lang="en">TVS Music is a compilation of songs that celebrates the rich and diverse musical talents of the region, featuring a mix of contemporary hits and culturally inspired tracks from local artists.</desc>
+    <category lang="en">Pop Culture</category>
     <episode-num system="xmltv_ns">0.0.</episode-num>
     <episode-num system="onscreen">S1E1</episode-num>
   </programme>
+  <programme start="20260504001500 +0000" stop="20260504003000 +0000" channel="tvs.unifitv">
+    <title lang="en">Fail 420</title>
+    <desc lang="en">A crime documentary on scam cases reported to Sarawak's Police Commercial Unit, revealing modus operandi, victim profiles, true-event reenactments, and expert advice on detecting and avoiding scams.</desc>
+    <category lang="en">Documentary</category>
+    <episode-num system="xmltv_ns">0.3.</episode-num>
+    <episode-num system="onscreen">S1E4</episode-num>
+  </programme>
   <programme start="20260504003000 +0000" stop="20260504010000 +0000" channel="tvs.unifitv">
-    <title lang="en">Suara Alam Borneo</title>
-    <desc lang="en">Suara Alam Borneo akan mengupasnya hutan hujan tropika berusia jutaan tahun secara terperinci dengan pelbagai spesis flora dan juga fauna menerusi informasi yang mudah difahami.</desc>
-    <category lang="en">Nature</category>
+    <title lang="en">Setenang Mata Memandang</title>
+    <desc lang="en">Travelogue program that follows two hosts on their journey to discover hidden gems in Sarawak's natural beauty, including national parks, mountains, valleys, lakes, rivers, waterfalls, and islands.</desc>
+    <category lang="en">Documentary</category>
     <episode-num system="xmltv_ns">0.4.</episode-num>
     <episode-num system="onscreen">S1E5</episode-num>
   </programme>
@@ -2552,18 +2546,16 @@
     <category lang="en">News</category>
   </programme>
   <programme start="20260504011500 +0000" stop="20260504014500 +0000" channel="tvs.unifitv">
-    <title lang="en">Alunan Borneo</title>
-    <desc lang="en">Alunan Borneo, sebuah travelog seorang anak seni untuk mengenali lebih dekat tentang muzik/irama tradisi etnik di Bumi Kenyalang dan berkenalan dengan lebih dekat dengan etnik-etnik di Sarawak.</desc>
+    <title lang="en">Borneo Dive</title>
+    <desc lang="en">Explore the unique dive sites of Sabah and Sarawak, which attract both local and international divers. The region offers a rich variety of marine life for recreational and avid divers to observe.</desc>
     <category lang="en">Culture</category>
-    <episode-num system="xmltv_ns">0.10.</episode-num>
-    <episode-num system="onscreen">S1E11</episode-num>
+    <episode-num system="xmltv_ns">0.1.</episode-num>
+    <episode-num system="onscreen">S1E2</episode-num>
   </programme>
   <programme start="20260504014500 +0000" stop="20260504020000 +0000" channel="tvs.unifitv">
-    <title lang="en">OKSHE</title>
-    <desc lang="en">This slot showing about old Kuching Sarawak Heritage</desc>
-    <category lang="en">Documentary</category>
-    <episode-num system="xmltv_ns">0.8.</episode-num>
-    <episode-num system="onscreen">S1E9</episode-num>
+    <title lang="en">(DL) Detik Dunia</title>
+    <desc lang="en">Detik Dunia membawakan rangkuman berita antarabangsa, mengetengahkan perkembangan global serta kisah-kisah yang membentuk landskap dunia hari ini.</desc>
+    <category lang="en">Current Affairs</category>
   </programme>
   <programme start="20260504020000 +0000" stop="20260504020500 +0000" channel="tvs.unifitv">
     <title lang="en">(DL) TVS Ringkas</title>
@@ -2571,23 +2563,25 @@
     <category lang="en">News</category>
   </programme>
   <programme start="20260504020500 +0000" stop="20260504021500 +0000" channel="tvs.unifitv">
-    <title lang="en">TVS Music</title>
-    <desc lang="en">TVS Music is a compilation of songs that celebrates the rich and diverse musical talents of the region, featuring a mix of contemporary hits and culturally inspired tracks from local artists.</desc>
-    <category lang="en">Pop Culture</category>
+    <title lang="en">TVS Fillers</title>
+    <desc lang="en">TVS Fillers delivers quick, engaging segments on Sarawakian culture, local trends, and more, keeping viewers entertained between programs.</desc>
+    <category lang="en">Culture</category>
+    <episode-num system="xmltv_ns">0.0.</episode-num>
+    <episode-num system="onscreen">S1E1</episode-num>
   </programme>
   <programme start="20260504021500 +0000" stop="20260504024500 +0000" channel="tvs.unifitv">
-    <title lang="en">Design Nation</title>
-    <desc lang="en">Design Nation is a serial TV magazine that documents the architecture of buildings by well-renowned architects that have won various awards locally and internationally.</desc>
-    <category lang="en">Documentary</category>
-    <episode-num system="xmltv_ns">0.5.</episode-num>
-    <episode-num system="onscreen">S1E6</episode-num>
+    <title lang="en">Sanggar Vista</title>
+    <desc lang="en">Menjejak rumah-rumah cantik di Sarawak. Keindahan adalah subjektif, maka program ini menampil pelbagai jenis rumah, bukan hanya banglo mewah, tetapi juga rumah tradisional dan sederhana yang dihias indah.</desc>
+    <category lang="en">Interior Design</category>
+    <episode-num system="xmltv_ns">0.4.</episode-num>
+    <episode-num system="onscreen">S1E5</episode-num>
   </programme>
   <programme start="20260504024500 +0000" stop="20260504030000 +0000" channel="tvs.unifitv">
-    <title lang="en">TVS Live Express</title>
-    <desc lang="en">Konsert mini TVS Live menampilkan barisan penyanyi terkenal tanah air dan tempatan Sarawak</desc>
-    <category lang="en">Singing</category>
-    <episode-num system="xmltv_ns">0.3.</episode-num>
-    <episode-num system="onscreen">S1E4</episode-num>
+    <title lang="en">Kapit Unveiled</title>
+    <desc lang="en">This travel show takes viewers on a journey to Kapit, a hidden gem in Borneo, showcasing its Iban culture, stunning landscapes, and untamed wilderness, making it an emerging tourism hotspot along the Rajang river.</desc>
+    <category lang="en">Documentary</category>
+    <episode-num system="xmltv_ns">0.2.</episode-num>
+    <episode-num system="onscreen">S1E3</episode-num>
   </programme>
   <programme start="20260504030000 +0000" stop="20260504031500 +0000" channel="tvs.unifitv">
     <title lang="en">(L) Berita Iban TVS</title>
@@ -2595,18 +2589,18 @@
     <category lang="en">News</category>
   </programme>
   <programme start="20260504031500 +0000" stop="20260504034500 +0000" channel="tvs.unifitv">
-    <title lang="en">Ready, Set, Go Kids!</title>
-    <desc lang="en">Ready, Set, Go Kids! is a children's educational program where they travel to Kuching, complete challenges, and win prizes, while learning about the local culture.</desc>
-    <category lang="en">Reality</category>
-    <episode-num system="xmltv_ns">0.3.</episode-num>
-    <episode-num system="onscreen">S1E4</episode-num>
+    <title lang="en">Kubah Borneo</title>
+    <desc lang="en">“Kubah Borneo” will bring viewers a closer look of mosques located at several districts in Borneo Island. The host will visit a mosque at a different location to learn and share the history of the mosque.</desc>
+    <category lang="en">Documentary</category>
+    <episode-num system="xmltv_ns">0.9.</episode-num>
+    <episode-num system="onscreen">S1E10</episode-num>
   </programme>
   <programme start="20260504034500 +0000" stop="20260504040000 +0000" channel="tvs.unifitv">
-    <title lang="en">Life, Recycled</title>
-    <desc lang="en">A program to encourage everyone in our community to recycle and responsibly sort waste. This program will show the entire recycling and upcycling process of plastic, paper, cooking oil, and etc.</desc>
-    <category lang="en">Edutainment</category>
-    <episode-num system="xmltv_ns">0.3.</episode-num>
-    <episode-num system="onscreen">S1E4</episode-num>
+    <title lang="en">TVS Live Express</title>
+    <desc lang="en">Konsert mini TVS Live menampilkan barisan penyanyi terkenal tanah air dan tempatan Sarawak</desc>
+    <category lang="en">Singing</category>
+    <episode-num system="xmltv_ns">0.4.</episode-num>
+    <episode-num system="onscreen">S1E5</episode-num>
   </programme>
   <programme start="20260504040000 +0000" stop="20260504041500 +0000" channel="tvs.unifitv">
     <title lang="en">(L) TVS Tengahari</title>
@@ -2614,18 +2608,18 @@
     <category lang="en">News</category>
   </programme>
   <programme start="20260504041500 +0000" stop="20260504043000 +0000" channel="tvs.unifitv">
-    <title lang="en">Master Of The Rainforest</title>
-    <desc lang="en">A documentary exploring the music, stories, and identities of three indigenous Sarawak groups, while showcasing the region's beauty and vibrant cultural heritage.</desc>
-    <category lang="en">Documentary</category>
+    <title lang="en">TVS Music</title>
+    <desc lang="en">TVS Music is a compilation of songs that celebrates the rich and diverse musical talents of the region, featuring a mix of contemporary hits and culturally inspired tracks from local artists.</desc>
+    <category lang="en">Pop Culture</category>
     <episode-num system="xmltv_ns">0.0.</episode-num>
     <episode-num system="onscreen">S1E1</episode-num>
   </programme>
   <programme start="20260504043000 +0000" stop="20260504050000 +0000" channel="tvs.unifitv">
-    <title lang="en">The Cloth Story</title>
-    <desc lang="en">Menceritakan tentang keunikan batik, tenun, songket, busana dari peradaban melayu diselitkan dengan sedikit sejarah serta asal usul penghasilan kain.</desc>
+    <title lang="en">Roots &amp; Remedies</title>
+    <desc lang="en">ROOTS &amp; REMEDIES is a documentary that delves into Sarawak's traditional medicinal plants and health practices, showcasing their efficacy in treating ailments and daily treatments.</desc>
     <category lang="en">Culture</category>
-    <episode-num system="xmltv_ns">0.8.</episode-num>
-    <episode-num system="onscreen">S1E9</episode-num>
+    <episode-num system="xmltv_ns">0.12.</episode-num>
+    <episode-num system="onscreen">S1E13</episode-num>
   </programme>
   <programme start="20260504050000 +0000" stop="20260504051500 +0000" channel="tvs.unifitv">
     <title lang="en">(L) Re Bao</title>
@@ -2633,16 +2627,18 @@
     <category lang="en">News</category>
   </programme>
   <programme start="20260504051500 +0000" stop="20260504053000 +0000" channel="tvs.unifitv">
-    <title lang="en">TVS Fillers</title>
-    <desc lang="en">TVS Fillers delivers quick, engaging segments on Sarawakian culture, local trends, and more, keeping viewers entertained between programs.</desc>
-    <category lang="en">Culture</category>
+    <title lang="en">Be Our Guest</title>
+    <desc lang="en">Meet the park rangers, dancers, and homestay hosts who welcome visitors to Sarawak—sharing village life, culture, and the warmth that makes the Land of the Hornbill unforgettable.</desc>
+    <category lang="en">Documentary</category>
+    <episode-num system="xmltv_ns">0.0.</episode-num>
+    <episode-num system="onscreen">S1E1</episode-num>
   </programme>
   <programme start="20260504053000 +0000" stop="20260504060000 +0000" channel="tvs.unifitv">
-    <title lang="en">Kubah Borneo</title>
-    <desc lang="en">“Kubah Borneo” will bring viewers a closer look of mosques located at several districts in Borneo Island. The host will visit a mosque at a different location to learn and share the history of the mosque.</desc>
+    <title lang="en">Salam Nusantara</title>
+    <desc lang="en">Mengungkap lebih banyak khazanah negeri Sarawak yang masih belum lagi diketahui oleh khalayak awam khasnya tentang perkembangan tamadun masyarakat majmuk Sarawak termasuklah umat Islam di negeri ini.</desc>
     <category lang="en">Documentary</category>
-    <episode-num system="xmltv_ns">0.8.</episode-num>
-    <episode-num system="onscreen">S1E9</episode-num>
+    <episode-num system="xmltv_ns">0.10.</episode-num>
+    <episode-num system="onscreen">S1E11</episode-num>
   </programme>
   <programme start="20260504060000 +0000" stop="20260504060500 +0000" channel="tvs.unifitv">
     <title lang="en">(DL) TVS Ringkas</title>
@@ -2650,47 +2646,77 @@
     <category lang="en">News</category>
   </programme>
   <programme start="20260504060500 +0000" stop="20260504061500 +0000" channel="tvs.unifitv">
-    <title lang="en">TVS Music</title>
-    <desc lang="en">TVS Music is a compilation of songs that celebrates the rich and diverse musical talents of the region, featuring a mix of contemporary hits and culturally inspired tracks from local artists.</desc>
-    <category lang="en">Pop Culture</category>
+    <title lang="en">TVS Fillers</title>
+    <desc lang="en">TVS Fillers delivers quick, engaging segments on Sarawakian culture, local trends, and more, keeping viewers entertained between programs.</desc>
+    <category lang="en">Culture</category>
+    <episode-num system="xmltv_ns">0.0.</episode-num>
+    <episode-num system="onscreen">S1E1</episode-num>
   </programme>
   <programme start="20260504061500 +0000" stop="20260504063000 +0000" channel="tvs.unifitv">
-    <title lang="en">Serian Food Trails &amp; Stays</title>
-    <desc lang="en">Serian reveals not only a colourful lifestyle and palatable cuisine but also limestone hills, waterfalls, and lush trekking paths that lead to unforgettable homestay experiences. All of this unfolds in the villages, where the stories of locals who have made their mark in their communities come to life.</desc>
+    <title lang="en">Nomads of the Rainforest</title>
+    <desc lang="en">Nomads of the Rainforest: The Penan Legacy is a 3-episode documentary series following a Penan woman's journey from the rainforest to the city, exploring her culture, traditions, and efforts to preserve her heritage.</desc>
     <category lang="en">Documentary</category>
-    <episode-num system="xmltv_ns">0.2.</episode-num>
-    <episode-num system="onscreen">S1E3</episode-num>
+    <episode-num system="xmltv_ns">0.1.</episode-num>
+    <episode-num system="onscreen">S1E2</episode-num>
   </programme>
   <programme start="20260504063000 +0000" stop="20260504070000 +0000" channel="tvs.unifitv">
-    <title lang="en">Sanggar Vista</title>
-    <desc lang="en">Menjejak rumah-rumah cantik di Sarawak. Keindahan adalah subjektif, maka program ini menampil pelbagai jenis rumah, bukan hanya banglo mewah, tetapi juga rumah tradisional dan sederhana yang dihias indah.</desc>
-    <category lang="en">Interior Design</category>
-    <episode-num system="xmltv_ns">0.3.</episode-num>
-    <episode-num system="onscreen">S1E4</episode-num>
+    <title lang="en">The Cloth Story</title>
+    <desc lang="en">Menceritakan tentang keunikan batik, tenun, songket, busana dari peradaban melayu diselitkan dengan sedikit sejarah serta asal usul penghasilan kain.</desc>
+    <category lang="en">Culture</category>
+    <episode-num system="xmltv_ns">0.9.</episode-num>
+    <episode-num system="onscreen">S1E10</episode-num>
   </programme>
   <programme start="20260504070000 +0000" stop="20260504070500 +0000" channel="tvs.unifitv">
     <title lang="en">(DL) TVS Highlight</title>
     <desc lang="en">TVS Highlight showcases the most current and important news in a compact, well-rounded format, featuring both local and international updates with thorough and succinct reporting.</desc>
     <category lang="en">News</category>
   </programme>
-  <programme start="20260504070500 +0000" stop="20260504080000 +0000" channel="tvs.unifitv">
-    <title lang="en">Return Man</title>
-    <desc lang="en">When Pribprao falls for Yodyuth, the CEO of the Return Man company, she needs to use all her skills to steal his heart.</desc>
-    <category lang="en">Drama</category>
-    <episode-num system="xmltv_ns">0.7.</episode-num>
-    <episode-num system="onscreen">S1E8</episode-num>
+  <programme start="20260504070500 +0000" stop="20260504071500 +0000" channel="tvs.unifitv">
+    <title lang="en">TVS Music</title>
+    <desc lang="en">TVS Music is a compilation of songs that celebrates the rich and diverse musical talents of the region, featuring a mix of contemporary hits and culturally inspired tracks from local artists.</desc>
+    <category lang="en">Pop Culture</category>
+    <episode-num system="xmltv_ns">0.0.</episode-num>
+    <episode-num system="onscreen">S1E1</episode-num>
+  </programme>
+  <programme start="20260504071500 +0000" stop="20260504073000 +0000" channel="tvs.unifitv">
+    <title lang="en">Masters Of The Rainforest</title>
+    <desc lang="en">A documentary exploring the music, stories, and identities of three indigenous Sarawak groups, while showcasing the region's beauty and vibrant cultural heritage.</desc>
+    <category lang="en">Documentary</category>
+    <episode-num system="xmltv_ns">0.1.</episode-num>
+    <episode-num system="onscreen">S1E2</episode-num>
+  </programme>
+  <programme start="20260504073000 +0000" stop="20260504080000 +0000" channel="tvs.unifitv">
+    <title lang="en">Kediaman Agro</title>
+    <desc lang="en">'KEDIAMAN AGRO' merupakan program dokumentari yang menumpukan kepada teknologi penanaman makanan berskala kecil seperti di kawasan rumah, mahupun mini kebun.</desc>
+    <category lang="en">Documentary</category>
+    <episode-num system="xmltv_ns">0.9.</episode-num>
+    <episode-num system="onscreen">S1E10</episode-num>
   </programme>
   <programme start="20260504080000 +0000" stop="20260504080500 +0000" channel="tvs.unifitv">
     <title lang="en">(DL) TVS Ringkas</title>
     <desc lang="en">TVS Ringkas brings the latest breaking news, offering quick and essential updates from both within the country and around the globe.</desc>
     <category lang="en">News</category>
   </programme>
-  <programme start="20260504080500 +0000" stop="20260504090000 +0000" channel="tvs.unifitv">
-    <title lang="en">Devoted</title>
-    <desc lang="en">Eva's life is upended when she discovers that her husband Rizal and son Adam have disappeared. When she finds out that they have been recruited into a mysterious paramilitary organisation, she infiltrates the group.</desc>
-    <category lang="en">Drama</category>
-    <episode-num system="xmltv_ns">0.3.</episode-num>
-    <episode-num system="onscreen">S1E4</episode-num>
+  <programme start="20260504080500 +0000" stop="20260504081500 +0000" channel="tvs.unifitv">
+    <title lang="en">TVS Fillers</title>
+    <desc lang="en">TVS Fillers delivers quick, engaging segments on Sarawakian culture, local trends, and more, keeping viewers entertained between programs.</desc>
+    <category lang="en">Culture</category>
+    <episode-num system="xmltv_ns">0.0.</episode-num>
+    <episode-num system="onscreen">S1E1</episode-num>
+  </programme>
+  <programme start="20260504081500 +0000" stop="20260504083000 +0000" channel="tvs.unifitv">
+    <title lang="en">Adventure of The Lens</title>
+    <desc lang="en">What does it take to capture the perfect shot in the wild? In every episode of Kembara Kanta, take an intimate journey with our local wildlife photographers as they search for their own perfect wildlife photo.</desc>
+    <category lang="en">Wildlife</category>
+    <episode-num system="xmltv_ns">0.4.</episode-num>
+    <episode-num system="onscreen">S1E5</episode-num>
+  </programme>
+  <programme start="20260504083000 +0000" stop="20260504090000 +0000" channel="tvs.unifitv">
+    <title lang="en">Pewaris Legasi</title>
+    <desc lang="en">Dalam kebimbangan minat remaja pada kerjaya kraftangan, pewaris gigih menjaga warisan ini. Rancangan ini memaparkan kerjaya kraftangan di Malaysia, menyeru penonton menghargai usaha mempertahankannya demi generasi akan datang.</desc>
+    <category lang="en">Documentary</category>
+    <episode-num system="xmltv_ns">0.2.</episode-num>
+    <episode-num system="onscreen">S1E3</episode-num>
   </programme>
   <programme start="20260504090000 +0000" stop="20260504093000 +0000" channel="tvs.unifitv">
     <title lang="en">(L) Berita Wilayah TVS</title>
@@ -2698,11 +2724,11 @@
     <category lang="en">News</category>
   </programme>
   <programme start="20260504093000 +0000" stop="20260504100000 +0000" channel="tvs.unifitv">
-    <title lang="en">Pewaris Legasi</title>
-    <desc lang="en">Dalam kebimbangan minat remaja pada kerjaya kraftangan, pewaris gigih menjaga warisan ini. Rancangan ini memaparkan kerjaya kraftangan di Malaysia, menyeru penonton menghargai usaha mempertahankannya demi generasi akan datang.</desc>
+    <title lang="en">Sarawak Angler</title>
+    <desc lang="en">Program realiti memancing laut dalam di perairan Sarawak diadakan bagi menduga dan mencari spesies ikan hebat.Pemancing profesional dari Sarawak telah dipilih untuk bertanding dalam program realiti ini.</desc>
     <category lang="en">Documentary</category>
-    <episode-num system="xmltv_ns">0.1.</episode-num>
-    <episode-num system="onscreen">S1E2</episode-num>
+    <episode-num system="xmltv_ns">0.10.</episode-num>
+    <episode-num system="onscreen">S1E11</episode-num>
   </programme>
   <programme start="20260504100000 +0000" stop="20260504101500 +0000" channel="tvs.unifitv">
     <title lang="en">(L) Re Bao</title>
@@ -2710,18 +2736,18 @@
     <category lang="en">News</category>
   </programme>
   <programme start="20260504101500 +0000" stop="20260504103000 +0000" channel="tvs.unifitv">
-    <title lang="en">Kapit Unveiled</title>
-    <desc lang="en">This travel show takes viewers on a journey to Kapit, a hidden gem in Borneo, showcasing its Iban culture, stunning landscapes, and untamed wilderness, making it an emerging tourism hotspot along the Rajang river.</desc>
+    <title lang="en">Echoes From The North</title>
+    <desc lang="en">Echoes From the North explores the dance traditions of the Bisaya, Kenyah, and Lun Bawang groups in north Sarawak, highlighting the culture, resilience, and spirit of indigenous peoples through captivating stories and visuals.</desc>
     <category lang="en">Documentary</category>
     <episode-num system="xmltv_ns">0.1.</episode-num>
     <episode-num system="onscreen">S1E2</episode-num>
   </programme>
   <programme start="20260504103000 +0000" stop="20260504110000 +0000" channel="tvs.unifitv">
-    <title lang="en">The Food That Binds The Nation</title>
-    <desc lang="en">Sebuah dokumentari kembara gastronomi yang merentas dari Perlis ke Sarawak, memperkenalkan keunikan juadah berbilang budaya yang memupuk perpaduan dalam kepelbagaian selera.</desc>
+    <title lang="en">Unearth Sarawak: Indigenous Cuisines</title>
+    <desc lang="en">Showcases iconic and forgotten cuisines from Bidayuh, Melanau, Chinese, Iban, and Orang Ulu ethnics, aiming to preserve heritage cuisines, boost local communities, and promote gastronomy tourism.</desc>
     <category lang="en">Culture</category>
-    <episode-num system="xmltv_ns">0.2.</episode-num>
-    <episode-num system="onscreen">S1E3</episode-num>
+    <episode-num system="xmltv_ns">0.3.</episode-num>
+    <episode-num system="onscreen">S1E4</episode-num>
   </programme>
   <programme start="20260504110000 +0000" stop="20260504113000 +0000" channel="tvs.unifitv">
     <title lang="en">(L) Berita Iban TVS</title>
@@ -2744,29 +2770,25 @@
     <category lang="en">Current Affairs</category>
   </programme>
   <programme start="20260504123000 +0000" stop="20260504130000 +0000" channel="tvs.unifitv">
-    <title lang="en">Makan Lokal</title>
-    <desc lang="en">Makan Lokal adalah rancangan di mana hos, Jaslin Puasa, menjelajah dan merasai pelbagai hidangan tempatan Malaysia, sambil meneroka budaya dan tradisi di sebalik setiap makanan.</desc>
+    <title lang="en">A Street Like This</title>
+    <desc lang="en">Presenter Gosteloa Spancer explores 6 Asian streets transformed from historic hubs, tasting culture, community change, and food in A Street Like This.</desc>
+    <category lang="en">Food</category>
     <episode-num system="xmltv_ns">0.2.</episode-num>
     <episode-num system="onscreen">S1E3</episode-num>
   </programme>
-  <programme start="20260504130000 +0000" stop="20260504133000 +0000" channel="tvs.unifitv">
-    <title lang="en">AI.5YA</title>
-    <desc lang="en">Famous YouTuber Jehan Jinx loses his crew and uses a mail-order robot, AI5YA, as his one-woman team and co-star. As fans want more of her, he must hide she's not human.</desc>
-    <category lang="en">Drama</category>
-    <episode-num system="xmltv_ns">0.1.</episode-num>
-    <episode-num system="onscreen">S1E2</episode-num>
-  </programme>
-  <programme start="20260504133000 +0000" stop="20260504140000 +0000" channel="tvs.unifitv">
-    <title lang="en">Ijab Kabut</title>
-    <desc lang="en">When her fiancé bails out eight months before the wedding, Deanna must juggle wedding preparation headaches while searching for a new groom.</desc>
-    <category lang="en">Drama</category>
+  <programme start="20260504130000 +0000" stop="20260504140000 +0000" channel="tvs.unifitv">
+    <title lang="en">Travelawak Projek Bapak Bapak</title>
+    <desc lang="en">A comedy reality travel show, they will have to spend time together &amp; go through all the challenge that has been set.</desc>
+    <category lang="en">Comedy</category>
     <episode-num system="xmltv_ns">0.1.</episode-num>
     <episode-num system="onscreen">S1E2</episode-num>
   </programme>
   <programme start="20260504140000 +0000" stop="20260504150000 +0000" channel="tvs.unifitv">
-    <title lang="en">Guardian of The Shore</title>
-    <desc lang="en">Uncovers the heroes who are working to protect the marine lives of Sarawak's waters. This is a story of Sarawak's attempt to deploy the longest reef ball project in the world.</desc>
-    <category lang="en">Documentary</category>
+    <title lang="en">Welcome To Waikiki</title>
+    <desc lang="en">To fund their dream of making a movie, three clueless men open a guest house named Waikiki even though they do not know how to run it.</desc>
+    <category lang="en">Drama</category>
+    <episode-num system="xmltv_ns">0.13.</episode-num>
+    <episode-num system="onscreen">S1E14</episode-num>
   </programme>
   <programme start="20260504150000 +0000" stop="20260504151500 +0000" channel="tvs.unifitv">
     <title lang="en">(L) TVS Nightline</title>
@@ -2774,25 +2796,25 @@
     <category lang="en">News</category>
   </programme>
   <programme start="20260504151500 +0000" stop="20260504153000 +0000" channel="tvs.unifitv">
-    <title lang="en">Nomads of the Rainforest</title>
-    <desc lang="en">Nomads of the Rainforest: The Penan Legacy is a 3-episode documentary series following a Penan woman's journey from the rainforest to the city, exploring her culture, traditions, and efforts to preserve her heritage.</desc>
-    <category lang="en">Documentary</category>
-    <episode-num system="xmltv_ns">0.1.</episode-num>
-    <episode-num system="onscreen">S1E2</episode-num>
+    <title lang="en">Welcome To Waikiki</title>
+    <desc lang="en">To fund their dream of making a movie, three clueless men open a guest house named Waikiki even though they do not know how to run it.</desc>
+    <category lang="en">Drama</category>
+    <episode-num system="xmltv_ns">0.13.</episode-num>
+    <episode-num system="onscreen">S1E14</episode-num>
   </programme>
   <programme start="20260504153000 +0000" stop="20260504160000 +0000" channel="tvs.unifitv">
-    <title lang="en">Behind the Blood, Sweat &amp; Tears</title>
-    <desc lang="en">Behind the scenes with the unsung heroes who tackle these tough roles, exploring the motivations, risks and rewards that come with doing some of the most overlooked professions in the world.</desc>
+    <title lang="en">Sumandak Takes Borneo</title>
+    <desc lang="en">Dewi Remaja 2022 winner Tracie and two friends explore Borneo's beauty—food, history, culture, nature, and diversity—while uplifting communities through local social enterprises in this inspiring travelogue.</desc>
     <category lang="en">Documentary</category>
-    <episode-num system="xmltv_ns">0.2.</episode-num>
-    <episode-num system="onscreen">S1E3</episode-num>
+    <episode-num system="xmltv_ns">0.9.</episode-num>
+    <episode-num system="onscreen">S1E10</episode-num>
   </programme>
   <programme start="20260504160000 +0000" stop="20260504163000 +0000" channel="tvs.unifitv">
-    <title lang="en">River Tales of Borneo</title>
-    <desc lang="en">Sarawakian show that tells forgotten stories and folktales from historical times, starting from the mouth of Rejang to Iran Mountain, focusing on ethnic groups living along the rivers.</desc>
+    <title lang="en">Setenang Mata Memandang</title>
+    <desc lang="en">Travelogue program that follows two hosts on their journey to discover hidden gems in Sarawak's natural beauty, including national parks, mountains, valleys, lakes, rivers, waterfalls, and islands.</desc>
     <category lang="en">Documentary</category>
-    <episode-num system="xmltv_ns">0.2.</episode-num>
-    <episode-num system="onscreen">S1E3</episode-num>
+    <episode-num system="xmltv_ns">0.4.</episode-num>
+    <episode-num system="onscreen">S1E5</episode-num>
   </programme>
   <channel id="duniasinemahd.unifitv">
     <display-name>Dunia Sinema HD</display-name>
@@ -15479,12 +15501,12 @@
     <desc lang="en">Prominent professional players take centre-stage in the ROSHN Saudi League. Don't miss a moment of these matches every week. Download SPOTV NOW and catch these live matches and highlights.</desc>
     <category lang="en">Football</category>
   </programme>
-  <programme start="20260504120000 +0000" stop="20260504150000 +0000" channel="spotv.unifitv">
+  <programme start="20260504120000 +0000" stop="20260504151500 +0000" channel="spotv.unifitv">
     <title lang="en">2026 LET: MCB Ladies Classic - Day 3</title>
     <desc lang="en">Set in the stunning surroundings of Mauritius, top women golfers compete on the Ladies European Tour, delivering precision play and championship-level competition.</desc>
     <category lang="en">Golf</category>
   </programme>
-  <programme start="20260504150000 +0000" stop="20260504160000 +0000" channel="spotv.unifitv">
+  <programme start="20260504151500 +0000" stop="20260504160000 +0000" channel="spotv.unifitv">
     <title lang="en">2026 World Surf League Replay - Margaret River Pro Finals Day</title>
     <desc lang="en">Be sure to catch the inspirational power of surfing through the 2026 WSL Championship Tour &amp; Challenger Series.</desc>
     <category lang="en">Surfing</category>

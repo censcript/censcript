@@ -4862,9 +4862,15 @@
     <title>iNews Sport Pagi (L)</title>
 </programme>
 <programme start="20260503233000 +0000" stop="20260504000000 +0000" channel="iNews.mncvision">
+    <title>iBreak: The One Entrepreneur</title>
+</programme>
+<programme start="20260504000000 +0000" stop="20260504000300 +0000" channel="iNews.mncvision">
+    <title>iNews Terkini (L)</title>
+</programme>
+<programme start="20260504000300 +0000" stop="20260504003000 +0000" channel="iNews.mncvision">
     <title>Special Report</title>
 </programme>
-<programme start="20260504000000 +0000" stop="20260504010000 +0000" channel="iNews.mncvision">
+<programme start="20260504003000 +0000" stop="20260504010000 +0000" channel="iNews.mncvision">
     <title>Morning Update</title>
 </programme>
 <programme start="20260504010000 +0000" stop="20260504030000 +0000" channel="iNews.mncvision">
@@ -4885,13 +4891,22 @@
 <programme start="20260504093000 +0000" stop="20260504120000 +0000" channel="iNews.mncvision">
     <title>iNews Sore (L)</title>
 </programme>
-<programme start="20260504120000 +0000" stop="20260504130000 +0000" channel="iNews.mncvision">
+<programme start="20260504120000 +0000" stop="20260504120300 +0000" channel="iNews.mncvision">
+    <title>iNews Terkini (L)</title>
+</programme>
+<programme start="20260504120300 +0000" stop="20260504130000 +0000" channel="iNews.mncvision">
     <title>iNews Room (L)</title>
 </programme>
-<programme start="20260504130000 +0000" stop="20260504140000 +0000" channel="iNews.mncvision">
+<programme start="20260504130000 +0000" stop="20260504130300 +0000" channel="iNews.mncvision">
+    <title>iNews Terkini (L)</title>
+</programme>
+<programme start="20260504130300 +0000" stop="20260504140000 +0000" channel="iNews.mncvision">
     <title>iNews Prime (L)</title>
 </programme>
-<programme start="20260504140000 +0000" stop="20260504143000 +0000" channel="iNews.mncvision">
+<programme start="20260504140000 +0000" stop="20260504140300 +0000" channel="iNews.mncvision">
+    <title>iNews Terkini (L)</title>
+</programme>
+<programme start="20260504140300 +0000" stop="20260504143300 +0000" channel="iNews.mncvision">
     <title>Konflik Timur Tengah (L)</title>
 </programme>
 <programme start="20260503180000 +0000" stop="20260503193000 +0000" channel="iNews HD.mncvision">
@@ -4919,9 +4934,15 @@
     <title>iNews Sport Pagi (L)</title>
 </programme>
 <programme start="20260503233000 +0000" stop="20260504000000 +0000" channel="iNews HD.mncvision">
+    <title>iBreak: The One Entrepreneur</title>
+</programme>
+<programme start="20260504000000 +0000" stop="20260504000300 +0000" channel="iNews HD.mncvision">
+    <title>iNews Terkini (L)</title>
+</programme>
+<programme start="20260504000300 +0000" stop="20260504003000 +0000" channel="iNews HD.mncvision">
     <title>Special Report</title>
 </programme>
-<programme start="20260504000000 +0000" stop="20260504010000 +0000" channel="iNews HD.mncvision">
+<programme start="20260504003000 +0000" stop="20260504010000 +0000" channel="iNews HD.mncvision">
     <title>Morning Update</title>
 </programme>
 <programme start="20260504010000 +0000" stop="20260504030000 +0000" channel="iNews HD.mncvision">
@@ -4942,13 +4963,22 @@
 <programme start="20260504093000 +0000" stop="20260504120000 +0000" channel="iNews HD.mncvision">
     <title>iNews Sore (L)</title>
 </programme>
-<programme start="20260504120000 +0000" stop="20260504130000 +0000" channel="iNews HD.mncvision">
+<programme start="20260504120000 +0000" stop="20260504120300 +0000" channel="iNews HD.mncvision">
+    <title>iNews Terkini (L)</title>
+</programme>
+<programme start="20260504120300 +0000" stop="20260504130000 +0000" channel="iNews HD.mncvision">
     <title>iNews Room (L)</title>
 </programme>
-<programme start="20260504130000 +0000" stop="20260504140000 +0000" channel="iNews HD.mncvision">
+<programme start="20260504130000 +0000" stop="20260504130300 +0000" channel="iNews HD.mncvision">
+    <title>iNews Terkini (L)</title>
+</programme>
+<programme start="20260504130300 +0000" stop="20260504140000 +0000" channel="iNews HD.mncvision">
     <title>iNews Prime (L)</title>
 </programme>
-<programme start="20260504140000 +0000" stop="20260504143000 +0000" channel="iNews HD.mncvision">
+<programme start="20260504140000 +0000" stop="20260504140300 +0000" channel="iNews HD.mncvision">
+    <title>iNews Terkini (L)</title>
+</programme>
+<programme start="20260504140300 +0000" stop="20260504143300 +0000" channel="iNews HD.mncvision">
     <title>Konflik Timur Tengah (L)</title>
 </programme>
 <programme start="20260503220000 +0000" stop="20260503223000 +0000" channel="JAKTV.mncvision">
@@ -6644,7 +6674,7 @@
     <title>Kid&#039;s Discovery</title>
 </programme>
 <programme start="20260504092500 +0000" stop="20260504095500 +0000" channel="NHK World Premium.mncvision">
-    <title>Nyan-Chu! Space! Broadcasting!</title>
+    <title>Slow Life At A Temple</title>
 </programme>
 <programme start="20260504095500 +0000" stop="20260504102500 +0000" channel="NHK World Premium.mncvision">
     <title>World Weather</title>
@@ -8449,10 +8479,10 @@
 <programme start="20260504013000 +0000" stop="20260504040000 +0000" channel="SPOTV 2.mncvision">
     <title>Longines Global Champions Tour</title>
 </programme>
-<programme start="20260504040000 +0000" stop="20260504060000 +0000" channel="SPOTV 2.mncvision">
+<programme start="20260504040000 +0000" stop="20260504055200 +0000" channel="SPOTV 2.mncvision">
     <title>Formula E: Berlin E-Prix</title>
 </programme>
-<programme start="20260504060000 +0000" stop="20260504083000 +0000" channel="SPOTV 2.mncvision">
+<programme start="20260504055200 +0000" stop="20260504083000 +0000" channel="SPOTV 2.mncvision">
     <title>Formula E: Berlin E-Prix</title>
 </programme>
 <programme start="20260504083000 +0000" stop="20260504090000 +0000" channel="SPOTV 2.mncvision">
@@ -8491,10 +8521,10 @@
 <programme start="20260504013000 +0000" stop="20260504040000 +0000" channel="SPOTV 2 HD.mncvision">
     <title>Longines Global Champions Tour</title>
 </programme>
-<programme start="20260504040000 +0000" stop="20260504060000 +0000" channel="SPOTV 2 HD.mncvision">
+<programme start="20260504040000 +0000" stop="20260504055200 +0000" channel="SPOTV 2 HD.mncvision">
     <title>Formula E: Berlin E-Prix</title>
 </programme>
-<programme start="20260504060000 +0000" stop="20260504083000 +0000" channel="SPOTV 2 HD.mncvision">
+<programme start="20260504055200 +0000" stop="20260504083000 +0000" channel="SPOTV 2 HD.mncvision">
     <title>Formula E: Berlin E-Prix</title>
 </programme>
 <programme start="20260504083000 +0000" stop="20260504090000 +0000" channel="SPOTV 2 HD.mncvision">
