@@ -7537,10 +7537,10 @@
 <programme start="20260504103000 +0000" stop="20260504120000 +0000" channel="RCTI.mncvision">
     <title>Preman Pensiun Deui</title>
 </programme>
-<programme start="20260504120000 +0000" stop="20260504131500 +0000" channel="RCTI.mncvision">
+<programme start="20260504120000 +0000" stop="20260504133000 +0000" channel="RCTI.mncvision">
     <title>Terikat Janji</title>
 </programme>
-<programme start="20260504131500 +0000" stop="20260504143000 +0000" channel="RCTI.mncvision">
+<programme start="20260504133000 +0000" stop="20260504143000 +0000" channel="RCTI.mncvision">
     <title>Turun Ranjang</title>
 </programme>
 <programme start="20260504143000 +0000" stop="20260504150000 +0000" channel="RCTI.mncvision">
@@ -7582,10 +7582,10 @@
 <programme start="20260504103000 +0000" stop="20260504120000 +0000" channel="RCTI HD.mncvision">
     <title>Preman Pensiun Deui</title>
 </programme>
-<programme start="20260504120000 +0000" stop="20260504131500 +0000" channel="RCTI HD.mncvision">
+<programme start="20260504120000 +0000" stop="20260504133000 +0000" channel="RCTI HD.mncvision">
     <title>Terikat Janji</title>
 </programme>
-<programme start="20260504131500 +0000" stop="20260504143000 +0000" channel="RCTI HD.mncvision">
+<programme start="20260504133000 +0000" stop="20260504143000 +0000" channel="RCTI HD.mncvision">
     <title>Turun Ranjang</title>
 </programme>
 <programme start="20260504143000 +0000" stop="20260504150000 +0000" channel="RCTI HD.mncvision">
