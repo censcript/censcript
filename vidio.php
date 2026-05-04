@@ -243,12 +243,12 @@
     <desc lang="id">Ceramah islami penuh makna. Tayang setiap selasa - minggu, mulai pukul 04.00 WIB</desc>
     <icon src="https://thumbor.prod.vidiocdn.com/N99E8BD1OJ5vvymwPBj0c-BU5J4=/287x162/filters:strip_icc():quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/image/204/sctv-5ef966.jpg"/>
   </programme>
-  <programme channel="204" start="20260504213000 +0000" stop="20260504220000 +0000">
+  <programme channel="204" start="20260504213000 +0000" stop="20260504215500 +0000">
     <title lang="id">Buser</title>
     <icon src="https://thumbor.prod.vidiocdn.com/hqiU7koXgDL4zkxckArkSQHfwWw=/287x162/filters:strip_icc():quality(70)/vidio-media-production/uploads/tv_program/thumbnail/382356/d78201.jpg"/>
   </programme>
-  <programme channel="204" start="20260504220000 +0000" stop="20260504230000 +0000">
-    <title lang="id">Liputan 6 Pagi - Live</title>
+  <programme channel="204" start="20260504215500 +0000" stop="20260504230000 +0000">
+    <title lang="id">Liputan 6 Pagi</title>
     <icon src="https://thumbor.prod.vidiocdn.com/nKbpXrrnwZbIGNGDEzIrS90VV4E=/287x162/filters:strip_icc():quality(70)/vidio-media-production/uploads/livestreaming/schedule/thumbnail/5056357/f596bb.jpg"/>
   </programme>
   <programme channel="204" start="20260504230000 +0000" stop="20260505000000 +0000">
@@ -7225,7 +7225,11 @@
     <desc lang="id">Nonton streaming pertandingan seru Sevilla vs Real Sociedad - LaLiga. Saksikan aksi-aksi terbaik dari tim yang bersaing ketat untuk meraih kemenangan. Dapatkan informasi lengkap mengenai jadwal pertandingan dan hasil pertandingan terbaru hanya di Vidio.</desc>
     <icon src="https://thumbor.prod.vidiocdn.com/VdHV8bCPCgk1RDrkx0W-MDX9klo=/287x162/filters:strip_icc():quality(70)/vidio-media-production/uploads/livestreaming/schedule/thumbnail/5057807/c3cf2a.jpg"/>
   </programme>
-  <programme channel="6299" start="20260504210000 +0000" stop="20260504230000 +0000">
+  <programme channel="6299" start="20260504210000 +0000" stop="20260504210400 +0000">
+    <title lang="id">Filler</title>
+    <icon src="https://thumbor.prod.vidiocdn.com/5yUHYfv_b1sZi7kdFElm8JqF2RY=/287x162/filters:strip_icc():quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/image/6299/bein-1-4bd997.jpg"/>
+  </programme>
+  <programme channel="6299" start="20260504210400 +0000" stop="20260504230000 +0000">
     <title lang="id">FORMULA 1 CRYPTO.COM MIAMI GRAND PRIX 2026 : Formula 1 Main Race 2026</title>
     <desc lang="id">FORMULA 1 CRYPTO.COM MIAMI GRAND PRIX 2026</desc>
     <icon src="https://thumbor.prod.vidiocdn.com/5yUHYfv_b1sZi7kdFElm8JqF2RY=/287x162/filters:strip_icc():quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/image/6299/bein-1-4bd997.jpg"/>
@@ -9490,12 +9494,12 @@
     <title lang="id">Bioskop Asia : Kids and Soldier</title>
     <icon src="https://thumbor.prod.vidiocdn.com/20tRQaK9Gps_wFQL5rY-XgRbrs4=/287x162/filters:strip_icc():quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/image/782/antv-de8530.jpg"/>
   </programme>
-  <programme channel="782" start="20260504182000 +0000" stop="20260504204500 +0000">
+  <programme channel="782" start="20260504182000 +0000" stop="20260504204400 +0000">
     <title lang="id">Serie A 2025/26: Roma vs Fiorentina</title>
     <desc lang="id">Liga Italia Serie A merupakan kompetisi sepak bola profesional tertinggi di sistem liga sepak bola Italia. Sebanyak 20 klub bersaing untuk memperebutkan juara kompetisi ini.</desc>
     <icon src="https://thumbor.prod.vidiocdn.com/20tRQaK9Gps_wFQL5rY-XgRbrs4=/287x162/filters:strip_icc():quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/image/782/antv-de8530.jpg"/>
   </programme>
-  <programme channel="782" start="20260504204500 +0000" stop="20260504230000 +0000">
+  <programme channel="782" start="20260504204400 +0000" stop="20260504230000 +0000">
     <title lang="id">Mega Bollywood: Mardaani 2</title>
     <desc lang="id">Sunny, seorang pemuda berusia 21 tahun, gemar melakukan kekerasan seksual dan membunuh gadis-gadis. Ia berselisih dengan polisi senior Shivani Shivaji Roy.</desc>
     <icon src="https://thumbor.prod.vidiocdn.com/xRBrRAk5_1BpojJd2GC0hEq-Eeg=/287x162/filters:strip_icc():quality(70)/vidio-media-production/uploads/livestreaming/schedule/thumbnail/5057842/6c922a.jpg"/>
@@ -14993,12 +14997,12 @@
     <desc lang="id">CREMONESE vs LAZIO</desc>
     <icon src="https://thumbor.prod.vidiocdn.com/nY0aFklpYf6yONLaFJjxhiSuthc=/287x162/filters:strip_icc():quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/image/6786/champions-tv-3-76ca7c.jpg"/>
   </programme>
-  <programme channel="6786" start="20260504183000 +0000" stop="20260504205000 +0000">
+  <programme channel="6786" start="20260504183000 +0000" stop="20260504204100 +0000">
     <title lang="id">ROMA vs FIORENTINA : Serie A 2025/26</title>
     <desc lang="id">ROMA vs FIORENTINA</desc>
     <icon src="https://thumbor.prod.vidiocdn.com/nY0aFklpYf6yONLaFJjxhiSuthc=/287x162/filters:strip_icc():quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/image/6786/champions-tv-3-76ca7c.jpg"/>
   </programme>
-  <programme channel="6786" start="20260504205000 +0000" stop="20260504210000 +0000">
+  <programme channel="6786" start="20260504204100 +0000" stop="20260504210000 +0000">
     <title lang="id">Filler</title>
     <icon src="https://thumbor.prod.vidiocdn.com/nY0aFklpYf6yONLaFJjxhiSuthc=/287x162/filters:strip_icc():quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/image/6786/champions-tv-3-76ca7c.jpg"/>
   </programme>
@@ -19642,12 +19646,12 @@
     <desc lang="id">Show 30 Matchweek 35</desc>
     <icon src="https://thumbor.prod.vidiocdn.com/r_QaZubFaj9Ht_TI2kDgdImcRqY=/287x162/filters:strip_icc():quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/image/9182/champions-tv-5-e0dd48.jpg"/>
   </programme>
-  <programme channel="9182" start="20260504183000 +0000" stop="20260504210000 +0000">
+  <programme channel="9182" start="20260504183000 +0000" stop="20260504210200 +0000">
     <title lang="id">Everton vs Man City - Premier League</title>
     <desc lang="id">Nonton streaming pertandingan seru Everton vs Man City - Premier League. Saksikan aksi-aksi terbaik dari tim yang bersaing ketat untuk meraih kemenangan. Dapatkan informasi lengkap mengenai jadwal pertandingan dan hasil pertandingan terbaru hanya di Vidio.</desc>
     <icon src="https://thumbor.prod.vidiocdn.com/3C6cZGEMKL9Ml3xF4qh7l2yJX0c=/287x162/filters:strip_icc():quality(70)/vidio-media-production/uploads/livestreaming/schedule/thumbnail/5055568/d1c8e1.jpg"/>
   </programme>
-  <programme channel="9182" start="20260504210000 +0000" stop="20260504213000 +0000">
+  <programme channel="9182" start="20260504210200 +0000" stop="20260504213000 +0000">
     <title lang="id">Matchweek 34 : PL Match Highlight 2025/26</title>
     <desc lang="id">Matchweek 34</desc>
     <icon src="https://thumbor.prod.vidiocdn.com/r_QaZubFaj9Ht_TI2kDgdImcRqY=/287x162/filters:strip_icc():quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/image/9182/champions-tv-5-e0dd48.jpg"/>
