@@ -209,17 +209,17 @@
     <desc lang="id">Sinetron romansa tentang perjalanan Trian (Yesaya Abraham) mencari keadilan dan mengungkap kejahatan pasca Adila, istrinya meninggal dunia, dengan bantuan Rama (Rayn Wijaya) dan Asmara (Angela Gilsha). Tayang setiap hari pukul 20.10 WIB</desc>
     <icon src="https://thumbor.prod.vidiocdn.com/NDsIVTRBLi-Cus6E7F1NvRUCsss=/287x162/filters:strip_icc():quality(70)/vidio-media-production/uploads/livestreaming/schedule/thumbnail/5056397/5fcdff.jpg"/>
   </programme>
-  <programme channel="204" start="20260504141500 +0000" stop="20260504170800 +0000">
-    <title lang="id">The Icon Indonesia Top 14 Final Grup A - Live</title>
+  <programme channel="204" start="20260504141500 +0000" stop="20260504172400 +0000">
+    <title lang="id">The Icon Indonesia : Top 14 Final</title>
     <desc lang="id">Talent search bernyanyi yang tidak hanya mencari suara terbaik, tetapi juga sosok dengan karakter kuat yang layak menjadi ikon pop baru Tanah Air. Tayang setiap Senin pukul 21.15 WIB di SCTV.</desc>
     <icon src="https://thumbor.prod.vidiocdn.com/GEloGWlRj5PMekrot3HP5g7qj18=/287x162/filters:strip_icc():quality(70)/vidio-media-production/uploads/livestreaming/schedule/thumbnail/5056404/c4a0f8.jpg"/>
   </programme>
-  <programme channel="204" start="20260504141500 +0000" stop="20260504170800 +0000">
-    <title lang="id">The Icon Indonesia Top 14 Final Grup A - Live</title>
+  <programme channel="204" start="20260504141500 +0000" stop="20260504172400 +0000">
+    <title lang="id">The Icon Indonesia : Top 14 Final</title>
     <desc lang="id">Talent search bernyanyi yang tidak hanya mencari suara terbaik, tetapi juga sosok dengan karakter kuat yang layak menjadi ikon pop baru Tanah Air. Tayang setiap Senin pukul 21.15 WIB di SCTV.</desc>
     <icon src="https://thumbor.prod.vidiocdn.com/GEloGWlRj5PMekrot3HP5g7qj18=/287x162/filters:strip_icc():quality(70)/vidio-media-production/uploads/livestreaming/schedule/thumbnail/5056404/c4a0f8.jpg"/>
   </programme>
-  <programme channel="204" start="20260504170800 +0000" stop="20260504184000 +0000">
+  <programme channel="204" start="20260504172400 +0000" stop="20260504184000 +0000">
     <title lang="id">FTV Utama</title>
     <desc lang="id">Film televisi yang mengangkat kisah romantisme kehidupan dengan konflik yang menarik. Tayang setiap hari.</desc>
     <icon src="https://thumbor.prod.vidiocdn.com/N99E8BD1OJ5vvymwPBj0c-BU5J4=/287x162/filters:strip_icc():quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/image/204/sctv-5ef966.jpg"/>
@@ -4733,22 +4733,20 @@
     <desc lang="id">Acara yang menampilkan berita olahraga baik dalam negeri maupun mancanegara</desc>
     <icon src="https://thumbor.prod.vidiocdn.com/jj9luSHlZk2jbvjSgqs3OHK1LOc=/287x162/filters:strip_icc():quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/image/874/kompas-tv-98863c.jpg"/>
   </programme>
-  <programme channel="874" start="20260504163000 +0000" stop="20260504170000 +0000">
+  <programme channel="874" start="20260504163000 +0000" stop="20260504165900 +0000">
     <title lang="id">Kilas Kompas</title>
     <desc lang="id">Program berita menyuguhkan perkembangan terbaru dan berbagai peristiwa penting yang terjadi di seluruh Indonesia.</desc>
     <icon src="https://thumbor.prod.vidiocdn.com/jj9luSHlZk2jbvjSgqs3OHK1LOc=/287x162/filters:strip_icc():quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/image/874/kompas-tv-98863c.jpg"/>
   </programme>
-  <programme channel="874" start="20260504163000 +0000" stop="20260504170000 +0000">
-    <title lang="id">Kilas Kompas</title>
-    <desc lang="id">Program berita menyuguhkan perkembangan terbaru dan berbagai peristiwa penting yang terjadi di seluruh Indonesia.</desc>
+  <programme channel="874" start="20260504165900 +0000" stop="20260504184500 +0000">
+    <title lang="id">AZ Alkmaar vs FC Twente : Dutch League Eredivisie 2025/26</title>
     <icon src="https://thumbor.prod.vidiocdn.com/jj9luSHlZk2jbvjSgqs3OHK1LOc=/287x162/filters:strip_icc():quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/image/874/kompas-tv-98863c.jpg"/>
   </programme>
-  <programme channel="874" start="20260504170000 +0000" stop="20260504180000 +0000">
-    <title lang="id">Berita Utama</title>
-    <desc lang="id">Program berita reguler di Kompas TV yang dirancang untuk menyampaikan rentetan peristiwa paling penting dan terbaru dari seluruh penjuru Indonesia dan dunia</desc>
+  <programme channel="874" start="20260504165900 +0000" stop="20260504184500 +0000">
+    <title lang="id">AZ Alkmaar vs FC Twente : Dutch League Eredivisie 2025/26</title>
     <icon src="https://thumbor.prod.vidiocdn.com/jj9luSHlZk2jbvjSgqs3OHK1LOc=/287x162/filters:strip_icc():quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/image/874/kompas-tv-98863c.jpg"/>
   </programme>
-  <programme channel="874" start="20260504180000 +0000" stop="20260504193000 +0000">
+  <programme channel="874" start="20260504184500 +0000" stop="20260504193000 +0000">
     <title lang="id">Kompas Petang</title>
     <desc lang="id">Program berita di Kompas TV yang ditayangkan setiap sore. Program ini menyajikan berita terkini seputar peristiwa, politik, hukum, kriminal, hingga humaniora.</desc>
     <icon src="https://thumbor.prod.vidiocdn.com/jj9luSHlZk2jbvjSgqs3OHK1LOc=/287x162/filters:strip_icc():quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/image/874/kompas-tv-98863c.jpg"/>
@@ -7202,17 +7200,17 @@
     <desc lang="id">Review Show: Crystal Palace</desc>
     <icon src="https://thumbor.prod.vidiocdn.com/5yUHYfv_b1sZi7kdFElm8JqF2RY=/287x162/filters:strip_icc():quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/image/6299/bein-1-4bd997.jpg"/>
   </programme>
-  <programme channel="6299" start="20260504162000 +0000" stop="20260504165500 +0000">
+  <programme channel="6299" start="20260504162000 +0000" stop="20260504165400 +0000">
     <title lang="id">FORMULA 1 CRYPTO.COM MIAMI GRAND PRIX 2026 : Formula 1 Highlights 2026</title>
     <desc lang="id">FORMULA 1 CRYPTO.COM MIAMI GRAND PRIX 2026</desc>
     <icon src="https://thumbor.prod.vidiocdn.com/5yUHYfv_b1sZi7kdFElm8JqF2RY=/287x162/filters:strip_icc():quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/image/6299/bein-1-4bd997.jpg"/>
   </programme>
-  <programme channel="6299" start="20260504165500 +0000" stop="20260504175500 +0000">
+  <programme channel="6299" start="20260504165400 +0000" stop="20260504175500 +0000">
     <title lang="id">Mugello : Ferrari Challenge Europe Highlights 2026</title>
     <desc lang="id">Mugello</desc>
     <icon src="https://thumbor.prod.vidiocdn.com/5yUHYfv_b1sZi7kdFElm8JqF2RY=/287x162/filters:strip_icc():quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/image/6299/bein-1-4bd997.jpg"/>
   </programme>
-  <programme channel="6299" start="20260504165500 +0000" stop="20260504175500 +0000">
+  <programme channel="6299" start="20260504165400 +0000" stop="20260504175500 +0000">
     <title lang="id">Mugello : Ferrari Challenge Europe Highlights 2026</title>
     <desc lang="id">Mugello</desc>
     <icon src="https://thumbor.prod.vidiocdn.com/5yUHYfv_b1sZi7kdFElm8JqF2RY=/287x162/filters:strip_icc():quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/image/6299/bein-1-4bd997.jpg"/>
@@ -9488,11 +9486,11 @@
     <desc lang="id">Asih, seorang gadis yang diperkosa oleh sekelompok pemuda, sebuah rahasia kelam yang awalnya hanya diketahui oleh orang tuanya. Setelah kejadian tersebut, Asih dinikahkan, namun trauma dan balas dendam menghantui cerita, sering kali melibatkan unsur gaib atau kebangkitan arwah untuk menuntut balas.</desc>
     <icon src="https://thumbor.prod.vidiocdn.com/20tRQaK9Gps_wFQL5rY-XgRbrs4=/287x162/filters:strip_icc():quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/image/782/antv-de8530.jpg"/>
   </programme>
-  <programme channel="782" start="20260504171500 +0000" stop="20260504181500 +0000">
-    <title lang="id">Mr. Bean</title>
+  <programme channel="782" start="20260504171500 +0000" stop="20260504182000 +0000">
+    <title lang="id">Bioskop Asia : Kids and Soldier</title>
     <icon src="https://thumbor.prod.vidiocdn.com/20tRQaK9Gps_wFQL5rY-XgRbrs4=/287x162/filters:strip_icc():quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/image/782/antv-de8530.jpg"/>
   </programme>
-  <programme channel="782" start="20260504181500 +0000" stop="20260504204500 +0000">
+  <programme channel="782" start="20260504182000 +0000" stop="20260504204500 +0000">
     <title lang="id">Serie A 2025/26: Roma vs Fiorentina</title>
     <desc lang="id">Liga Italia Serie A merupakan kompetisi sepak bola profesional tertinggi di sistem liga sepak bola Italia. Sebanyak 20 klub bersaing untuk memperebutkan juara kompetisi ini.</desc>
     <icon src="https://thumbor.prod.vidiocdn.com/20tRQaK9Gps_wFQL5rY-XgRbrs4=/287x162/filters:strip_icc():quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/image/782/antv-de8530.jpg"/>

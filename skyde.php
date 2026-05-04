@@ -2950,43 +2950,43 @@
 <programme start="20260504210000 +0000" stop="20260504220000 +0000" channel="Sky Sport Bundesliga HD.skyde">
     <title>BL: Glanzparade - Die Show mit Buschmann, Fuss und Wagner</title>
 </programme>
-<programme start="20260503223000 +0000" stop="20260503230000 +0000" channel="Sky Sport F1 HD.skyde">
+<programme start="20260503224500 +0000" stop="20260503231500 +0000" channel="Sky Sport F1 HD.skyde">
     <title>F1: Ted&#039;s Notebook: GP Miami</title>
 </programme>
-<programme start="20260503230000 +0000" stop="20260504000000 +0000" channel="Sky Sport F1 HD.skyde">
+<programme start="20260503231500 +0000" stop="20260504001500 +0000" channel="Sky Sport F1 HD.skyde">
     <title>F2: 2. Rennen - GP Miami</title>
 </programme>
-<programme start="20260504000000 +0000" stop="20260504020000 +0000" channel="Sky Sport F1 HD.skyde">
+<programme start="20260504001500 +0000" stop="20260504021500 +0000" channel="Sky Sport F1 HD.skyde">
     <title>F1: Rennen - GP Miami</title>
 </programme>
-<programme start="20260504020000 +0000" stop="20260504030000 +0000" channel="Sky Sport F1 HD.skyde">
+<programme start="20260504021500 +0000" stop="20260504031500 +0000" channel="Sky Sport F1 HD.skyde">
     <title>F2: 2. Rennen - GP Miami</title>
 </programme>
-<programme start="20260504030000 +0000" stop="20260504040000 +0000" channel="Sky Sport F1 HD.skyde">
+<programme start="20260504031500 +0000" stop="20260504041500 +0000" channel="Sky Sport F1 HD.skyde">
     <title>F1: Sprint - GP Miami</title>
 </programme>
-<programme start="20260504040000 +0000" stop="20260504053000 +0000" channel="Sky Sport F1 HD.skyde">
+<programme start="20260504041500 +0000" stop="20260504054500 +0000" channel="Sky Sport F1 HD.skyde">
     <title>F1: 1. Freies Training - GP Miami</title>
 </programme>
-<programme start="20260504053000 +0000" stop="20260504063000 +0000" channel="Sky Sport F1 HD.skyde">
+<programme start="20260504054500 +0000" stop="20260504064500 +0000" channel="Sky Sport F1 HD.skyde">
     <title>F1: Sprint Qualifying - GP Miami</title>
 </programme>
-<programme start="20260504063000 +0000" stop="20260504073000 +0000" channel="Sky Sport F1 HD.skyde">
+<programme start="20260504064500 +0000" stop="20260504074000 +0000" channel="Sky Sport F1 HD.skyde">
     <title>F1: Sprint - GP Miami</title>
 </programme>
-<programme start="20260504073000 +0000" stop="20260504090000 +0000" channel="Sky Sport F1 HD.skyde">
+<programme start="20260504074000 +0000" stop="20260504090500 +0000" channel="Sky Sport F1 HD.skyde">
     <title>F1: Qualifying - GP Miami</title>
 </programme>
-<programme start="20260504090000 +0000" stop="20260504110000 +0000" channel="Sky Sport F1 HD.skyde">
+<programme start="20260504090500 +0000" stop="20260504110500 +0000" channel="Sky Sport F1 HD.skyde">
     <title>F1: Rennen - GP Miami</title>
 </programme>
-<programme start="20260504110000 +0000" stop="20260504113000 +0000" channel="Sky Sport F1 HD.skyde">
+<programme start="20260504110500 +0000" stop="20260504113500 +0000" channel="Sky Sport F1 HD.skyde">
     <title>F1: Ted&#039;s Notebook: GP Miami</title>
 </programme>
-<programme start="20260504113000 +0000" stop="20260504120000 +0000" channel="Sky Sport F1 HD.skyde">
+<programme start="20260504113500 +0000" stop="20260504120500 +0000" channel="Sky Sport F1 HD.skyde">
     <title>F1: Rennen Kompakt - GP Miami</title>
 </programme>
-<programme start="20260504120000 +0000" stop="20260504130000 +0000" channel="Sky Sport F1 HD.skyde">
+<programme start="20260504120500 +0000" stop="20260504130000 +0000" channel="Sky Sport F1 HD.skyde">
     <title>F1: Sprint - GP Miami</title>
 </programme>
 <programme start="20260504130000 +0000" stop="20260504150000 +0000" channel="Sky Sport F1 HD.skyde">
@@ -3073,20 +3073,26 @@
 <programme start="20260504120000 +0000" stop="20260504130000 +0000" channel="Sky Sport Mix HD.skyde">
     <title>NHL: Tonight - Playoff Edition</title>
 </programme>
+<programme start="20260504130000 +0000" stop="20260504134500 +0000" channel="Sky Sport Mix HD.skyde">
+    <title>World Surf League: Highlights 2026 Rip Curl Pro Bells Beach</title>
+</programme>
 <programme start="20260504134500 +0000" stop="20260504161500 +0000" channel="Sky Sport Mix HD.skyde">
     <title>NBA: Orlando Magic @ Detroit Pistons, Playoffs, Runde 1, Spiel 7</title>
 </programme>
 <programme start="20260504161500 +0000" stop="20260504163000 +0000" channel="Sky Sport Mix HD.skyde">
-    <title>NHL: MIN@COL Highlights, Playoffs, 2. Runde</title>
+    <title>NHL: Highlights, Playoffs, 1. Runde</title>
 </programme>
-<programme start="20260504163000 +0000" stop="20260504173000 +0000" channel="Sky Sport Mix HD.skyde">
+<programme start="20260504163000 +0000" stop="20260504164500 +0000" channel="Sky Sport Mix HD.skyde">
+    <title>NHL: Highlights, Playoffs, 1. Runde</title>
+</programme>
+<programme start="20260504164500 +0000" stop="20260504174500 +0000" channel="Sky Sport Mix HD.skyde">
     <title>NHL: Tonight - Playoff Edition</title>
-</programme>
-<programme start="20260504173000 +0000" stop="20260504174500 +0000" channel="Sky Sport Mix HD.skyde">
-    <title>NHL: MIN@COL Highlights, Playoffs, 2. Runde</title>
 </programme>
 <programme start="20260504174500 +0000" stop="20260504184500 +0000" channel="Sky Sport Mix HD.skyde">
     <title>MotoGP: Rennen - GP Spanien</title>
+</programme>
+<programme start="20260504184500 +0000" stop="20260504193000 +0000" channel="Sky Sport Mix HD.skyde">
+    <title>World Surf League: Highlights 2026 Rip Curl Pro Bells Beach</title>
 </programme>
 <programme start="20260504193000 +0000" stop="20260504203000 +0000" channel="Sky Sport Mix HD.skyde">
     <title>3. Liga: Alle Spiele, alle Tore, 36. Spieltag komplett</title>
@@ -3094,8 +3100,8 @@
 <programme start="20260504203000 +0000" stop="20260504210000 +0000" channel="Sky Sport Mix HD.skyde">
     <title>Frauen-BL: Alle Spiele, alle Tore, 24. Spieltag Montag</title>
 </programme>
-<programme start="20260504210000 +0000" stop="20260504220000 +0000" channel="Sky Sport Mix HD.skyde">
-    <title>MotoGP: Rennen - GP Spanien</title>
+<programme start="20260504210000 +0000" stop="20260504230000 +0000" channel="Sky Sport Mix HD.skyde">
+    <title>NHL: Montreal Canadiens @ Tampa Bay Lightning, Playoffs, 1. Runde, Spiel 7</title>
 </programme>
 <programme start="20260503220000 +0000" stop="20260503233000 +0000" channel="Sky Sport News HD.skyde">
     <title>BL: Sky90 - Die Fußballdebatte</title>
@@ -3127,14 +3133,17 @@
 <programme start="20260504090000 +0000" stop="20260504100000 +0000" channel="Sky Sport News HD.skyde">
     <title>2. BL Kompakt: 32. Spieltag</title>
 </programme>
-<programme start="20260504100000 +0000" stop="20260504120000 +0000" channel="Sky Sport News HD.skyde">
+<programme start="20260504100000 +0000" stop="20260504113000 +0000" channel="Sky Sport News HD.skyde">
     <title>Live Sky Sport News: Der Mittag</title>
+</programme>
+<programme start="20260504113000 +0000" stop="20260504120000 +0000" channel="Sky Sport News HD.skyde">
+    <title>2. BL: Schalke - Dein Aufstieg</title>
 </programme>
 <programme start="20260504120000 +0000" stop="20260504130000 +0000" channel="Sky Sport News HD.skyde">
     <title>Live Sky Sport News: Der Mittag</title>
 </programme>
 <programme start="20260504130000 +0000" stop="20260504133000 +0000" channel="Sky Sport News HD.skyde">
-    <title>2. BL: Schalke - Dein Aufstieg</title>
+    <title>Live Sky Sport News: Der Nachmittag</title>
 </programme>
 <programme start="20260504133000 +0000" stop="20260504135000 +0000" channel="Sky Sport News HD.skyde">
     <title>Live Sky Sport News: Der Nachmittag</title>
@@ -3280,8 +3289,14 @@
 <programme start="20260504213500 +0000" stop="20260504220500 +0000" channel="Sky Sport Premier League HD.skyde">
     <title>EFL: Highlights, 46. Spieltag</title>
 </programme>
+<programme start="20260503223000 +0000" stop="20260504001500 +0000" channel="Sky Sport Tennis HD.skyde">
+    <title>ATP 1000: A. Zverev (GER) - J. Sinner (ITA), Mutua Madrid Open in Madrid (ESP), Finale</title>
+</programme>
 <programme start="20260504001500 +0000" stop="20260504004500 +0000" channel="Sky Sport Tennis HD.skyde">
     <title>ATP: This Week</title>
+</programme>
+<programme start="20260504004500 +0000" stop="20260504024500 +0000" channel="Sky Sport Tennis HD.skyde">
+    <title>ATP 1000: G. Andreozzi (ARG) / M. Guinard (FRA) - H. Heliovaara (FIN) / H. Patten (GBR), Mutua Madrid Open in Madrid (ESP), Doppelfinale</title>
 </programme>
 <programme start="20260504024500 +0000" stop="20260504050000 +0000" channel="Sky Sport Tennis HD.skyde">
     <title>ATP 500: A. Fils (FRA) - A. Rublev, Barcelona Open BancSabadell in Barcelona (ESP), Finale</title>
@@ -3298,40 +3313,43 @@
 <programme start="20260504093000 +0000" stop="20260504111500 +0000" channel="Sky Sport Tennis HD.skyde">
     <title>WTA 500: E. Rybakina (KAZ) - K. Muchova (CZE), Porsche Tennis Grand Prix in Stuttgart, Finale</title>
 </programme>
+<programme start="20260504111500 +0000" stop="20260504130000 +0000" channel="Sky Sport Tennis HD.skyde">
+    <title>ATP 1000: A. Zverev (GER) - J. Sinner (ITA), Mutua Madrid Open in Madrid (ESP), Finale</title>
+</programme>
 <programme start="20260504130000 +0000" stop="20260504150000 +0000" channel="Sky Sport Tennis HD.skyde">
     <title>WTA 1000: M. Kostyuk (UKR) - M. Andreeva, Mutua Madrid Open in Madrid (ESP), Finale</title>
 </programme>
 <programme start="20260504150000 +0000" stop="20260504153000 +0000" channel="Sky Sport Tennis HD.skyde">
     <title>WTA 1000: Review Madrid</title>
 </programme>
-<programme start="20260504153000 +0000" stop="20260504180000 +0000" channel="Sky Sport Tennis HD.skyde">
+<programme start="20260504153000 +0000" stop="20260504171500 +0000" channel="Sky Sport Tennis HD.skyde">
     <title>ATP 1000: A. Zverev (GER) - J. Sinner (ITA), Mutua Madrid Open in Madrid (ESP), Finale</title>
 </programme>
-<programme start="20260504180000 +0000" stop="20260504190000 +0000" channel="Sky Sport Tennis HD.skyde">
+<programme start="20260504171500 +0000" stop="20260504181500 +0000" channel="Sky Sport Tennis HD.skyde">
     <title>ATP 1000: Review Madrid</title>
 </programme>
-<programme start="20260504190000 +0000" stop="20260504213000 +0000" channel="Sky Sport Tennis HD.skyde">
+<programme start="20260504181500 +0000" stop="20260504204500 +0000" channel="Sky Sport Tennis HD.skyde">
     <title>ATP 500: B. Shelton (USA) - F. Cobolli (ITA), BMW Open in München, Finale</title>
 </programme>
-<programme start="20260504213000 +0000" stop="20260504223000 +0000" channel="Sky Sport Tennis HD.skyde">
+<programme start="20260504204500 +0000" stop="20260504214500 +0000" channel="Sky Sport Tennis HD.skyde">
     <title>ATP 500: Review München</title>
 </programme>
-<programme start="20260503220000 +0000" stop="20260503223000 +0000" channel="Sky Sport Top Event HD.skyde">
-    <title>F1: Rennen Kompakt - GP Miami</title>
+<programme start="20260504214500 +0000" stop="20260504233000 +0000" channel="Sky Sport Tennis HD.skyde">
+    <title>ATP 1000: A. Zverev (GER) - J. Sinner (ITA), Mutua Madrid Open in Madrid (ESP), Finale</title>
 </programme>
 <programme start="20260503223000 +0000" stop="20260503230000 +0000" channel="Sky Sport Top Event HD.skyde">
-    <title>PL: Highlights Sonntag, 35. Spieltag</title>
+    <title>F1: Rennen Kompakt - GP Miami</title>
 </programme>
 <programme start="20260503230000 +0000" stop="20260503233000 +0000" channel="Sky Sport Top Event HD.skyde">
     <title>Live NBA: Showtime</title>
 </programme>
-<programme start="20260503233000 +0000" stop="20260504020000 +0000" channel="Sky Sport Top Event HD.skyde">
+<programme start="20260503233000 +0000" stop="20260504023500 +0000" channel="Sky Sport Top Event HD.skyde">
     <title>Live NBA: Toronto Raptors @ Cleveland Cavaliers, Playoffs, Runde 1, Spiel 7</title>
 </programme>
-<programme start="20260504020000 +0000" stop="20260504043000 +0000" channel="Sky Sport Top Event HD.skyde">
+<programme start="20260504023500 +0000" stop="20260504040000 +0000" channel="Sky Sport Top Event HD.skyde">
     <title>Live NHL: Minnesota Wild @ Colorado Avelanche, Playoffs, 2. Runde, Spiel 1</title>
 </programme>
-<programme start="20260504043000 +0000" stop="20260504050000 +0000" channel="Sky Sport Top Event HD.skyde">
+<programme start="20260504040000 +0000" stop="20260504050000 +0000" channel="Sky Sport Top Event HD.skyde">
     <title>F1: Rennen Kompakt - GP Miami</title>
 </programme>
 <programme start="20260504050000 +0000" stop="20260504053000 +0000" channel="Sky Sport Top Event HD.skyde">
@@ -3346,11 +3364,17 @@
 <programme start="20260504090000 +0000" stop="20260504110000 +0000" channel="Sky Sport Top Event HD.skyde">
     <title>PL: Manchester United - FC Liverpool, Match of the Week, 35. Spieltag</title>
 </programme>
-<programme start="20260504110000 +0000" stop="20260504133000 +0000" channel="Sky Sport Top Event HD.skyde">
+<programme start="20260504110000 +0000" stop="20260504124000 +0000" channel="Sky Sport Top Event HD.skyde">
     <title>ATP 1000: A. Zverev (GER) - J. Sinner (ITA), Mutua Madrid Open in Madrid (ESP), Finale</title>
 </programme>
-<programme start="20260504133000 +0000" stop="20260504135000 +0000" channel="Sky Sport Top Event HD.skyde">
+<programme start="20260504124000 +0000" stop="20260504125500 +0000" channel="Sky Sport Top Event HD.skyde">
     <title>BL: Dein Spieltags-Sprint (32)</title>
+</programme>
+<programme start="20260504125500 +0000" stop="20260504132000 +0000" channel="Sky Sport Top Event HD.skyde">
+    <title>PL: 90in30: MUN - LIV, 35. Spieltag</title>
+</programme>
+<programme start="20260504132000 +0000" stop="20260504135000 +0000" channel="Sky Sport Top Event HD.skyde">
+    <title>PL: Match of the Week: Die Analyse, MUN - LIV, 35. Spieltag</title>
 </programme>
 <programme start="20260504135000 +0000" stop="20260504160000 +0000" channel="Sky Sport Top Event HD.skyde">
     <title>Live PL: FC Chelsea - Nottingham Forest. Spieltag</title>
@@ -3442,7 +3466,7 @@
 <programme start="20260503230000 +0000" stop="20260503233000 +0000" channel="Sky Sport 1 HD.skyde">
     <title>Live NBA: Showtime</title>
 </programme>
-<programme start="20260503233000 +0000" stop="20260504080000 +0000" channel="Sky Sport 1 HD.skyde">
+<programme start="20260503233000 +0000" stop="20260504040000 +0000" channel="Sky Sport 1 HD.skyde">
     <title>Live NBA: Toronto Raptors @ Cleveland Cavaliers, Playoffs, Runde 1, Spiel 7</title>
 </programme>
 <programme start="20260504090000 +0000" stop="20260504090500 +0000" channel="Sky Sport 4 HD.skyde">
@@ -4105,13 +4129,13 @@
 <programme start="20260504023500 +0000" stop="20260504040000 +0000" channel="Warner TV Film.skyde">
     <title>Vom Teufel geritten</title>
 </programme>
-<programme start="20260504040000 +0000" stop="20260504045000 +0000" channel="Warner TV Film.skyde">
+<programme start="20260504040000 +0000" stop="20260504044500 +0000" channel="Warner TV Film.skyde">
     <title>Ein Abend mit... Ken Duken</title>
 </programme>
-<programme start="20260504045000 +0000" stop="20260504064500 +0000" channel="Warner TV Film.skyde">
+<programme start="20260504044500 +0000" stop="20260504064000 +0000" channel="Warner TV Film.skyde">
     <title>The East</title>
 </programme>
-<programme start="20260504064500 +0000" stop="20260504082000 +0000" channel="Warner TV Film.skyde">
+<programme start="20260504064000 +0000" stop="20260504082000 +0000" channel="Warner TV Film.skyde">
     <title>Mad Max</title>
 </programme>
 <programme start="20260504082000 +0000" stop="20260504102000 +0000" channel="Warner TV Film.skyde">
@@ -4135,7 +4159,7 @@
 <programme start="20260504200500 +0000" stop="20260504213500 +0000" channel="Warner TV Film.skyde">
     <title>Police Academy 4 - Und jetzt geht&#039;s rund</title>
 </programme>
-<programme start="20260504213500 +0000" stop="20260504234000 +0000" channel="Warner TV Film.skyde">
+<programme start="20260504213500 +0000" stop="20260504233500 +0000" channel="Warner TV Film.skyde">
     <title>Die Hexen von Eastwick</title>
 </programme>
 <programme start="20260503222000 +0000" stop="20260504002500 +0000" channel="Warner TV Film HD.skyde">
@@ -4147,13 +4171,13 @@
 <programme start="20260504023500 +0000" stop="20260504040000 +0000" channel="Warner TV Film HD.skyde">
     <title>Vom Teufel geritten</title>
 </programme>
-<programme start="20260504040000 +0000" stop="20260504045000 +0000" channel="Warner TV Film HD.skyde">
+<programme start="20260504040000 +0000" stop="20260504044500 +0000" channel="Warner TV Film HD.skyde">
     <title>Ein Abend mit... Ken Duken</title>
 </programme>
-<programme start="20260504045000 +0000" stop="20260504064500 +0000" channel="Warner TV Film HD.skyde">
+<programme start="20260504044500 +0000" stop="20260504064000 +0000" channel="Warner TV Film HD.skyde">
     <title>The East</title>
 </programme>
-<programme start="20260504064500 +0000" stop="20260504082000 +0000" channel="Warner TV Film HD.skyde">
+<programme start="20260504064000 +0000" stop="20260504082000 +0000" channel="Warner TV Film HD.skyde">
     <title>Mad Max</title>
 </programme>
 <programme start="20260504082000 +0000" stop="20260504102000 +0000" channel="Warner TV Film HD.skyde">
@@ -4177,7 +4201,7 @@
 <programme start="20260504200500 +0000" stop="20260504213500 +0000" channel="Warner TV Film HD.skyde">
     <title>Police Academy 4 - Und jetzt geht&#039;s rund</title>
 </programme>
-<programme start="20260504213500 +0000" stop="20260504234000 +0000" channel="Warner TV Film HD.skyde">
+<programme start="20260504213500 +0000" stop="20260504233500 +0000" channel="Warner TV Film HD.skyde">
     <title>Die Hexen von Eastwick</title>
 </programme>
 <programme start="20260503221000 +0000" stop="20260503225500 +0000" channel="Warner TV Serie HD.skyde">
