@@ -1351,16 +1351,16 @@
 <programme start="20260504001000 +0000" stop="20260504003500 +0000" channel="Nick Jr..skyde">
     <title>BARBAPAPA und Familie</title>
 </programme>
-<programme start="20260504003500 +0000" stop="20260504004500 +0000" channel="Nick Jr..skyde">
+<programme start="20260504003500 +0000" stop="20260504004000 +0000" channel="Nick Jr..skyde">
     <title>Tim Rex im All</title>
 </programme>
-<programme start="20260504004500 +0000" stop="20260504005000 +0000" channel="Nick Jr..skyde">
+<programme start="20260504004000 +0000" stop="20260504005000 +0000" channel="Nick Jr..skyde">
     <title>Tim Rex im All</title>
 </programme>
-<programme start="20260504005000 +0000" stop="20260504010000 +0000" channel="Nick Jr..skyde">
+<programme start="20260504005000 +0000" stop="20260504005500 +0000" channel="Nick Jr..skyde">
     <title>Tim Rex im All</title>
 </programme>
-<programme start="20260504010000 +0000" stop="20260504012000 +0000" channel="Nick Jr..skyde">
+<programme start="20260504005500 +0000" stop="20260504012000 +0000" channel="Nick Jr..skyde">
     <title>Rubble &amp; Crew</title>
 </programme>
 <programme start="20260504012000 +0000" stop="20260504014500 +0000" channel="Nick Jr..skyde">
@@ -1378,46 +1378,46 @@
 <programme start="20260504025000 +0000" stop="20260504031500 +0000" channel="Nick Jr..skyde">
     <title>BARBAPAPA und Familie</title>
 </programme>
-<programme start="20260504031500 +0000" stop="20260504034000 +0000" channel="Nick Jr..skyde">
+<programme start="20260504031500 +0000" stop="20260504033500 +0000" channel="Nick Jr..skyde">
     <title>BARBAPAPA und Familie</title>
 </programme>
-<programme start="20260504034000 +0000" stop="20260504040000 +0000" channel="Nick Jr..skyde">
+<programme start="20260504033500 +0000" stop="20260504040000 +0000" channel="Nick Jr..skyde">
     <title>Tim Rex im All</title>
 </programme>
-<programme start="20260504040000 +0000" stop="20260504042500 +0000" channel="Nick Jr..skyde">
+<programme start="20260504040000 +0000" stop="20260504042000 +0000" channel="Nick Jr..skyde">
     <title>Blaze und die Monster-Maschinen</title>
 </programme>
-<programme start="20260504042500 +0000" stop="20260504044500 +0000" channel="Nick Jr..skyde">
+<programme start="20260504042000 +0000" stop="20260504044500 +0000" channel="Nick Jr..skyde">
     <title>Blaze und die Monster-Maschinen</title>
 </programme>
 <programme start="20260504044500 +0000" stop="20260504045500 +0000" channel="Nick Jr..skyde">
     <title>Rubble &amp; Crew</title>
 </programme>
-<programme start="20260504045500 +0000" stop="20260504051000 +0000" channel="Nick Jr..skyde">
+<programme start="20260504045500 +0000" stop="20260504050500 +0000" channel="Nick Jr..skyde">
     <title>Rubble &amp; Crew</title>
 </programme>
-<programme start="20260504051000 +0000" stop="20260504053000 +0000" channel="Nick Jr..skyde">
+<programme start="20260504050500 +0000" stop="20260504053000 +0000" channel="Nick Jr..skyde">
     <title>Rubble &amp; Crew</title>
 </programme>
-<programme start="20260504053000 +0000" stop="20260504055500 +0000" channel="Nick Jr..skyde">
+<programme start="20260504053000 +0000" stop="20260504055000 +0000" channel="Nick Jr..skyde">
     <title>Paw Patrol: Helfer auf vier Pfoten</title>
 </programme>
-<programme start="20260504055500 +0000" stop="20260504061500 +0000" channel="Nick Jr..skyde">
+<programme start="20260504055000 +0000" stop="20260504061500 +0000" channel="Nick Jr..skyde">
     <title>Paw Patrol: Helfer auf vier Pfoten</title>
 </programme>
 <programme start="20260504061500 +0000" stop="20260504063500 +0000" channel="Nick Jr..skyde">
     <title>DORA</title>
 </programme>
-<programme start="20260504063500 +0000" stop="20260504064500 +0000" channel="Nick Jr..skyde">
+<programme start="20260504063500 +0000" stop="20260504065000 +0000" channel="Nick Jr..skyde">
     <title>DORA</title>
 </programme>
-<programme start="20260504064500 +0000" stop="20260504065500 +0000" channel="Nick Jr..skyde">
+<programme start="20260504065000 +0000" stop="20260504065500 +0000" channel="Nick Jr..skyde">
     <title>Tim Rex im All</title>
 </programme>
-<programme start="20260504065500 +0000" stop="20260504070000 +0000" channel="Nick Jr..skyde">
+<programme start="20260504065500 +0000" stop="20260504070500 +0000" channel="Nick Jr..skyde">
     <title>Tim Rex im All</title>
 </programme>
-<programme start="20260504070000 +0000" stop="20260504071000 +0000" channel="Nick Jr..skyde">
+<programme start="20260504070500 +0000" stop="20260504071000 +0000" channel="Nick Jr..skyde">
     <title>Tim Rex im All</title>
 </programme>
 <programme start="20260504071000 +0000" stop="20260504071500 +0000" channel="Nick Jr..skyde">
@@ -1441,10 +1441,10 @@
 <programme start="20260504074000 +0000" stop="20260504074500 +0000" channel="Nick Jr..skyde">
     <title>Peppa Wutz</title>
 </programme>
-<programme start="20260504074500 +0000" stop="20260504074600 +0000" channel="Nick Jr..skyde">
+<programme start="20260504074500 +0000" stop="20260504075000 +0000" channel="Nick Jr..skyde">
     <title>Peppa Wutz</title>
 </programme>
-<programme start="20260504074600 +0000" stop="20260504075500 +0000" channel="Nick Jr..skyde">
+<programme start="20260504075000 +0000" stop="20260504075500 +0000" channel="Nick Jr..skyde">
     <title>Peppa Wutz</title>
 </programme>
 <programme start="20260504075500 +0000" stop="20260504081500 +0000" channel="Nick Jr..skyde">
@@ -1474,16 +1474,16 @@
 <programme start="20260504103000 +0000" stop="20260504105500 +0000" channel="Nick Jr..skyde">
     <title>Paw Patrol: Helfer auf vier Pfoten</title>
 </programme>
-<programme start="20260504105500 +0000" stop="20260504112000 +0000" channel="Nick Jr..skyde">
+<programme start="20260504105500 +0000" stop="20260504111500 +0000" channel="Nick Jr..skyde">
     <title>Paw Patrol: Helfer auf vier Pfoten</title>
 </programme>
-<programme start="20260504112000 +0000" stop="20260504114000 +0000" channel="Nick Jr..skyde">
+<programme start="20260504111500 +0000" stop="20260504114000 +0000" channel="Nick Jr..skyde">
     <title>BARBAPAPA und Familie</title>
 </programme>
-<programme start="20260504114000 +0000" stop="20260504120500 +0000" channel="Nick Jr..skyde">
+<programme start="20260504114000 +0000" stop="20260504120000 +0000" channel="Nick Jr..skyde">
     <title>BARBAPAPA und Familie</title>
 </programme>
-<programme start="20260504120500 +0000" stop="20260504122500 +0000" channel="Nick Jr..skyde">
+<programme start="20260504120000 +0000" stop="20260504122500 +0000" channel="Nick Jr..skyde">
     <title>Tim Rex im All</title>
 </programme>
 <programme start="20260504122500 +0000" stop="20260504125000 +0000" channel="Nick Jr..skyde">
@@ -1492,8 +1492,11 @@
 <programme start="20260504125000 +0000" stop="20260504131000 +0000" channel="Nick Jr..skyde">
     <title>DORA</title>
 </programme>
-<programme start="20260504131000 +0000" stop="20260504133500 +0000" channel="Nick Jr..skyde">
+<programme start="20260504131000 +0000" stop="20260504133000 +0000" channel="Nick Jr..skyde">
     <title>DORA</title>
+</programme>
+<programme start="20260504133000 +0000" stop="20260504133500 +0000" channel="Nick Jr..skyde">
+    <title>Peppa Wutz</title>
 </programme>
 <programme start="20260504133500 +0000" stop="20260504134000 +0000" channel="Nick Jr..skyde">
     <title>Peppa Wutz</title>
@@ -1501,10 +1504,7 @@
 <programme start="20260504134000 +0000" stop="20260504134500 +0000" channel="Nick Jr..skyde">
     <title>Peppa Wutz</title>
 </programme>
-<programme start="20260504134500 +0000" stop="20260504134600 +0000" channel="Nick Jr..skyde">
-    <title>Peppa Wutz</title>
-</programme>
-<programme start="20260504134600 +0000" stop="20260504135000 +0000" channel="Nick Jr..skyde">
+<programme start="20260504134500 +0000" stop="20260504135000 +0000" channel="Nick Jr..skyde">
     <title>Peppa Wutz</title>
 </programme>
 <programme start="20260504135000 +0000" stop="20260504135500 +0000" channel="Nick Jr..skyde">
@@ -1516,10 +1516,10 @@
 <programme start="20260504140000 +0000" stop="20260504140500 +0000" channel="Nick Jr..skyde">
     <title>Peppa Wutz</title>
 </programme>
-<programme start="20260504140500 +0000" stop="20260504143000 +0000" channel="Nick Jr..skyde">
+<programme start="20260504140500 +0000" stop="20260504142500 +0000" channel="Nick Jr..skyde">
     <title>Blaze und die Monster-Maschinen</title>
 </programme>
-<programme start="20260504143000 +0000" stop="20260504145000 +0000" channel="Nick Jr..skyde">
+<programme start="20260504142500 +0000" stop="20260504145000 +0000" channel="Nick Jr..skyde">
     <title>Paw Patrol: Helfer auf vier Pfoten</title>
 </programme>
 <programme start="20260504145000 +0000" stop="20260504150000 +0000" channel="Nick Jr..skyde">
@@ -1549,16 +1549,16 @@
 <programme start="20260504164000 +0000" stop="20260504164500 +0000" channel="Nick Jr..skyde">
     <title>Tim Rex im All</title>
 </programme>
-<programme start="20260504164500 +0000" stop="20260504165500 +0000" channel="Nick Jr..skyde">
+<programme start="20260504164500 +0000" stop="20260504165000 +0000" channel="Nick Jr..skyde">
     <title>Tim Rex im All</title>
 </programme>
-<programme start="20260504165500 +0000" stop="20260504170500 +0000" channel="Nick Jr..skyde">
+<programme start="20260504165000 +0000" stop="20260504170000 +0000" channel="Nick Jr..skyde">
     <title>Tim Rex im All</title>
 </programme>
-<programme start="20260504170500 +0000" stop="20260504170600 +0000" channel="Nick Jr..skyde">
+<programme start="20260504170000 +0000" stop="20260504170500 +0000" channel="Nick Jr..skyde">
     <title>Peppa Wutz</title>
 </programme>
-<programme start="20260504170600 +0000" stop="20260504171000 +0000" channel="Nick Jr..skyde">
+<programme start="20260504170500 +0000" stop="20260504171000 +0000" channel="Nick Jr..skyde">
     <title>Peppa Wutz</title>
 </programme>
 <programme start="20260504171000 +0000" stop="20260504171500 +0000" channel="Nick Jr..skyde">
@@ -1576,16 +1576,16 @@
 <programme start="20260504173000 +0000" stop="20260504175000 +0000" channel="Nick Jr..skyde">
     <title>BARBAPAPA und Familie</title>
 </programme>
-<programme start="20260504175000 +0000" stop="20260504180500 +0000" channel="Nick Jr..skyde">
+<programme start="20260504175000 +0000" stop="20260504180000 +0000" channel="Nick Jr..skyde">
     <title>BARBAPAPA und Familie</title>
 </programme>
-<programme start="20260504180500 +0000" stop="20260504182500 +0000" channel="Nick Jr..skyde">
+<programme start="20260504180000 +0000" stop="20260504182500 +0000" channel="Nick Jr..skyde">
     <title>Blaze und die Monster-Maschinen</title>
 </programme>
-<programme start="20260504182500 +0000" stop="20260504185000 +0000" channel="Nick Jr..skyde">
+<programme start="20260504182500 +0000" stop="20260504184500 +0000" channel="Nick Jr..skyde">
     <title>Paw Patrol: Helfer auf vier Pfoten</title>
 </programme>
-<programme start="20260504185000 +0000" stop="20260504190000 +0000" channel="Nick Jr..skyde">
+<programme start="20260504184500 +0000" stop="20260504190000 +0000" channel="Nick Jr..skyde">
     <title>Paw Patrol: Helfer auf vier Pfoten</title>
 </programme>
 <programme start="20260504190000 +0000" stop="20260504191000 +0000" channel="Nick Jr..skyde">
@@ -1600,10 +1600,10 @@
 <programme start="20260504194500 +0000" stop="20260504200500 +0000" channel="Nick Jr..skyde">
     <title>DORA</title>
 </programme>
-<programme start="20260504200500 +0000" stop="20260504203000 +0000" channel="Nick Jr..skyde">
+<programme start="20260504200500 +0000" stop="20260504202500 +0000" channel="Nick Jr..skyde">
     <title>DORA</title>
 </programme>
-<programme start="20260504203000 +0000" stop="20260504205000 +0000" channel="Nick Jr..skyde">
+<programme start="20260504202500 +0000" stop="20260504205000 +0000" channel="Nick Jr..skyde">
     <title>BARBAPAPA und Familie</title>
 </programme>
 <programme start="20260504205000 +0000" stop="20260504211000 +0000" channel="Nick Jr..skyde">
@@ -2563,7 +2563,7 @@
 <programme start="20260504155500 +0000" stop="20260504161500 +0000" channel="Sky Sport Austria 2 HD.skyde">
     <title>Es folgt: LIVE Admiral BL</title>
 </programme>
-<programme start="20260504161500 +0000" stop="20260504184500 +0000" channel="Sky Sport Austria 2 HD.skyde">
+<programme start="20260504161500 +0000" stop="20260504191500 +0000" channel="Sky Sport Austria 2 HD.skyde">
     <title>Live Admiral BL: SCR Altach - RZ Pellets WAC, 30. Runde</title>
 </programme>
 <programme start="20260504183000 +0000" stop="20260504185000 +0000" channel="Sky Sport Austria 3 HD.skyde">
@@ -3133,17 +3133,14 @@
 <programme start="20260504090000 +0000" stop="20260504100000 +0000" channel="Sky Sport News HD.skyde">
     <title>2. BL Kompakt: 32. Spieltag</title>
 </programme>
-<programme start="20260504100000 +0000" stop="20260504113000 +0000" channel="Sky Sport News HD.skyde">
+<programme start="20260504100000 +0000" stop="20260504120000 +0000" channel="Sky Sport News HD.skyde">
     <title>Live Sky Sport News: Der Mittag</title>
-</programme>
-<programme start="20260504113000 +0000" stop="20260504120000 +0000" channel="Sky Sport News HD.skyde">
-    <title>2. BL: Schalke - Dein Aufstieg</title>
 </programme>
 <programme start="20260504120000 +0000" stop="20260504130000 +0000" channel="Sky Sport News HD.skyde">
     <title>Live Sky Sport News: Der Mittag</title>
 </programme>
 <programme start="20260504130000 +0000" stop="20260504133000 +0000" channel="Sky Sport News HD.skyde">
-    <title>Live Sky Sport News: Der Nachmittag</title>
+    <title>2. BL: Schalke - Dein Aufstieg</title>
 </programme>
 <programme start="20260504133000 +0000" stop="20260504135000 +0000" channel="Sky Sport News HD.skyde">
     <title>Live Sky Sport News: Der Nachmittag</title>
@@ -3343,10 +3340,10 @@
 <programme start="20260503233000 +0000" stop="20260504023500 +0000" channel="Sky Sport Top Event HD.skyde">
     <title>Live NBA: Toronto Raptors @ Cleveland Cavaliers, Playoffs, Runde 1, Spiel 7</title>
 </programme>
-<programme start="20260504023500 +0000" stop="20260504043000 +0000" channel="Sky Sport Top Event HD.skyde">
+<programme start="20260504023500 +0000" stop="20260504040000 +0000" channel="Sky Sport Top Event HD.skyde">
     <title>Live NHL: Minnesota Wild @ Colorado Avelanche, Playoffs, 2. Runde, Spiel 1</title>
 </programme>
-<programme start="20260504043000 +0000" stop="20260504050000 +0000" channel="Sky Sport Top Event HD.skyde">
+<programme start="20260504040000 +0000" stop="20260504050000 +0000" channel="Sky Sport Top Event HD.skyde">
     <title>F1: Rennen Kompakt - GP Miami</title>
 </programme>
 <programme start="20260504050000 +0000" stop="20260504053000 +0000" channel="Sky Sport Top Event HD.skyde">
@@ -3361,11 +3358,17 @@
 <programme start="20260504090000 +0000" stop="20260504110000 +0000" channel="Sky Sport Top Event HD.skyde">
     <title>PL: Manchester United - FC Liverpool, Match of the Week, 35. Spieltag</title>
 </programme>
-<programme start="20260504110000 +0000" stop="20260504133000 +0000" channel="Sky Sport Top Event HD.skyde">
+<programme start="20260504110000 +0000" stop="20260504124000 +0000" channel="Sky Sport Top Event HD.skyde">
     <title>ATP 1000: A. Zverev (GER) - J. Sinner (ITA), Mutua Madrid Open in Madrid (ESP), Finale</title>
 </programme>
-<programme start="20260504133000 +0000" stop="20260504135000 +0000" channel="Sky Sport Top Event HD.skyde">
+<programme start="20260504124000 +0000" stop="20260504125500 +0000" channel="Sky Sport Top Event HD.skyde">
     <title>BL: Dein Spieltags-Sprint (32)</title>
+</programme>
+<programme start="20260504125500 +0000" stop="20260504132000 +0000" channel="Sky Sport Top Event HD.skyde">
+    <title>PL: 90in30: MUN - LIV, 35. Spieltag</title>
+</programme>
+<programme start="20260504132000 +0000" stop="20260504135000 +0000" channel="Sky Sport Top Event HD.skyde">
+    <title>PL: Match of the Week: Die Analyse, MUN - LIV, 35. Spieltag</title>
 </programme>
 <programme start="20260504135000 +0000" stop="20260504160000 +0000" channel="Sky Sport Top Event HD.skyde">
     <title>Live PL: FC Chelsea - Nottingham Forest. Spieltag</title>
@@ -3451,7 +3454,7 @@
 <programme start="20260504210000 +0000" stop="20260504230000 +0000" channel="Sky Sport UHD.skyde">
     <title>F1: Rennen - GP Miami</title>
 </programme>
-<programme start="20260503223000 +0000" stop="20260503230000 +0000" channel="Sky Sport 1 HD.skyde">
+<programme start="20260503220000 +0000" stop="20260503230000 +0000" channel="Sky Sport 1 HD.skyde">
     <title>Es folgt: ab 01:00: LIVE NBA</title>
 </programme>
 <programme start="20260503230000 +0000" stop="20260503233000 +0000" channel="Sky Sport 1 HD.skyde">

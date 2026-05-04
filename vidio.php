@@ -7649,14 +7649,19 @@
     <desc lang="id">Race 2, Snetterton</desc>
     <icon src="https://thumbor.prod.vidiocdn.com/5yUHYfv_b1sZi7kdFElm8JqF2RY=/287x162/filters:strip_icc():quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/image/6299/bein-1-4bd997.jpg"/>
   </programme>
-  <programme channel="6299" start="20260508165500 +0000" stop="20260508185500 +0000">
-    <title lang="id">TBC v TBC : Super Lig 2025/26</title>
-    <desc lang="id">TBC v TBC</desc>
+  <programme channel="6299" start="20260508165500 +0000" stop="20260508175500 +0000">
+    <title lang="id">Red Bull Ring : DTM Highlights 2026</title>
+    <desc lang="id">Red Bull Ring</desc>
     <icon src="https://thumbor.prod.vidiocdn.com/5yUHYfv_b1sZi7kdFElm8JqF2RY=/287x162/filters:strip_icc():quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/image/6299/bein-1-4bd997.jpg"/>
   </programme>
-  <programme channel="6299" start="20260508165500 +0000" stop="20260508185500 +0000">
-    <title lang="id">TBC v TBC : Super Lig 2025/26</title>
-    <desc lang="id">TBC v TBC</desc>
+  <programme channel="6299" start="20260508165500 +0000" stop="20260508175500 +0000">
+    <title lang="id">Red Bull Ring : DTM Highlights 2026</title>
+    <desc lang="id">Red Bull Ring</desc>
+    <icon src="https://thumbor.prod.vidiocdn.com/5yUHYfv_b1sZi7kdFElm8JqF2RY=/287x162/filters:strip_icc():quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/image/6299/bein-1-4bd997.jpg"/>
+  </programme>
+  <programme channel="6299" start="20260508175500 +0000" stop="20260508185500 +0000">
+    <title lang="id">Brands Hatch, UK : GT World Challenge Europe Highlights 2026</title>
+    <desc lang="id">Brands Hatch, UK</desc>
     <icon src="https://thumbor.prod.vidiocdn.com/5yUHYfv_b1sZi7kdFElm8JqF2RY=/287x162/filters:strip_icc():quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/image/6299/bein-1-4bd997.jpg"/>
   </programme>
   <programme channel="6299" start="20260508185500 +0000" stop="20260508210000 +0000">
@@ -7775,8 +7780,8 @@
     <icon src="https://thumbor.prod.vidiocdn.com/5yUHYfv_b1sZi7kdFElm8JqF2RY=/287x162/filters:strip_icc():quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/image/6299/bein-1-4bd997.jpg"/>
   </programme>
   <programme channel="6299" start="20260509225000 +0000" stop="20260510004000 +0000">
-    <title lang="id">Sevilla vs Espanyol : LaLiga 2025/26</title>
-    <desc lang="id">Sevilla vs Espanyol</desc>
+    <title lang="id">Konyaspor vs Fenerbahce : Super Lig 2025/26</title>
+    <desc lang="id">Konyaspor vs Fenerbahce</desc>
     <icon src="https://thumbor.prod.vidiocdn.com/5yUHYfv_b1sZi7kdFElm8JqF2RY=/287x162/filters:strip_icc():quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/image/6299/bein-1-4bd997.jpg"/>
   </programme>
   <programme channel="6299" start="20260510004000 +0000" stop="20260510023000 +0000">
@@ -8115,8 +8120,8 @@
     <icon src="https://thumbor.prod.vidiocdn.com/xiN-u5MIG7jgOVE2tB_TUIynz7k=/287x162/filters:strip_icc():quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/image/6317/bein-3-616b1c.jpg"/>
   </programme>
   <programme channel="6317" start="20260505220000 +0000" stop="20260505223000 +0000">
-    <title lang="id">La Fleche Wallone : UCI World Tour Highlights 2026</title>
-    <desc lang="id">La Fleche Wallone</desc>
+    <title lang="id">Cape Epic Recap: Prologue - Stage 4 : Epic Series - Race The World 2026</title>
+    <desc lang="id">Cape Epic Recap: Prologue - Stage 4</desc>
     <icon src="https://thumbor.prod.vidiocdn.com/xiN-u5MIG7jgOVE2tB_TUIynz7k=/287x162/filters:strip_icc():quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/image/6317/bein-3-616b1c.jpg"/>
   </programme>
   <programme channel="6317" start="20260505223000 +0000" stop="20260505230000 +0000">
@@ -8455,8 +8460,8 @@
     <icon src="https://thumbor.prod.vidiocdn.com/xiN-u5MIG7jgOVE2tB_TUIynz7k=/287x162/filters:strip_icc():quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/image/6317/bein-3-616b1c.jpg"/>
   </programme>
   <programme channel="6317" start="20260509003000 +0000" stop="20260509010000 +0000">
-    <title lang="id">La Fleche Wallone : UCI World Tour Highlights 2026</title>
-    <desc lang="id">La Fleche Wallone</desc>
+    <title lang="id">Prologue : Cape Epic Highlights 2026</title>
+    <desc lang="id">Prologue</desc>
     <icon src="https://thumbor.prod.vidiocdn.com/xiN-u5MIG7jgOVE2tB_TUIynz7k=/287x162/filters:strip_icc():quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/image/6317/bein-3-616b1c.jpg"/>
   </programme>
   <programme channel="6317" start="20260509010000 +0000" stop="20260509013000 +0000">
@@ -8534,34 +8539,29 @@
     <desc lang="id">Misano Race 2</desc>
     <icon src="https://thumbor.prod.vidiocdn.com/xiN-u5MIG7jgOVE2tB_TUIynz7k=/287x162/filters:strip_icc():quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/image/6317/bein-3-616b1c.jpg"/>
   </programme>
-  <programme channel="6317" start="20260509160000 +0000" stop="20260509180000 +0000">
-    <title lang="id">Morocco vs Tanzania - Rd of 16 : TotalEnergies Africa Cup of Nations, Morocco 2025</title>
-    <desc lang="id">Morocco vs Tanzania - Rd of 16</desc>
+  <programme channel="6317" start="20260509160000 +0000" stop="20260509165500 +0000">
+    <title lang="id">Lifeblood: Climbing the Mountain : MUTV: Specials</title>
+    <desc lang="id">Lifeblood: Climbing the Mountain</desc>
     <icon src="https://thumbor.prod.vidiocdn.com/xiN-u5MIG7jgOVE2tB_TUIynz7k=/287x162/filters:strip_icc():quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/image/6317/bein-3-616b1c.jpg"/>
   </programme>
-  <programme channel="6317" start="20260509160000 +0000" stop="20260509180000 +0000">
-    <title lang="id">Morocco vs Tanzania - Rd of 16 : TotalEnergies Africa Cup of Nations, Morocco 2025</title>
-    <desc lang="id">Morocco vs Tanzania - Rd of 16</desc>
+  <programme channel="6317" start="20260509165500 +0000" stop="20260509190000 +0000">
+    <title lang="id">Galatasaray vs Antalyaspor : Super Lig 2025/26</title>
+    <desc lang="id">Galatasaray vs Antalyaspor</desc>
     <icon src="https://thumbor.prod.vidiocdn.com/xiN-u5MIG7jgOVE2tB_TUIynz7k=/287x162/filters:strip_icc():quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/image/6317/bein-3-616b1c.jpg"/>
   </programme>
-  <programme channel="6317" start="20260509180000 +0000" stop="20260509190000 +0000">
-    <title lang="id">Rally de Portugal SS19 Lousada SSS : FIA World Rally Championship 2026</title>
-    <desc lang="id">Rally de Portugal SS19 Lousada SSS</desc>
+  <programme channel="6317" start="20260509165500 +0000" stop="20260509190000 +0000">
+    <title lang="id">Galatasaray vs Antalyaspor : Super Lig 2025/26</title>
+    <desc lang="id">Galatasaray vs Antalyaspor</desc>
     <icon src="https://thumbor.prod.vidiocdn.com/xiN-u5MIG7jgOVE2tB_TUIynz7k=/287x162/filters:strip_icc():quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/image/6317/bein-3-616b1c.jpg"/>
   </programme>
-  <programme channel="6317" start="20260509190000 +0000" stop="20260509193000 +0000">
-    <title lang="id">Liege Bastogne Liege : UCI World Tour Highlights 2026</title>
-    <desc lang="id">Liege Bastogne Liege</desc>
-    <icon src="https://thumbor.prod.vidiocdn.com/xiN-u5MIG7jgOVE2tB_TUIynz7k=/287x162/filters:strip_icc():quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/image/6317/bein-3-616b1c.jpg"/>
-  </programme>
-  <programme channel="6317" start="20260509193000 +0000" stop="20260509203000 +0000">
+  <programme channel="6317" start="20260509190000 +0000" stop="20260509200000 +0000">
     <title lang="id">Rio de Janeiro , Brazil : SailGP Highlights 2026</title>
     <desc lang="id">Rio de Janeiro , Brazil</desc>
     <icon src="https://thumbor.prod.vidiocdn.com/xiN-u5MIG7jgOVE2tB_TUIynz7k=/287x162/filters:strip_icc():quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/image/6317/bein-3-616b1c.jpg"/>
   </programme>
-  <programme channel="6317" start="20260509203000 +0000" stop="20260509210000 +0000">
-    <title lang="id">La Fleche Wallone : UCI World Tour Highlights 2026</title>
-    <desc lang="id">La Fleche Wallone</desc>
+  <programme channel="6317" start="20260509200000 +0000" stop="20260509210000 +0000">
+    <title lang="id">Tour of Hainan : UCI World Tour Highlights 2026</title>
+    <desc lang="id">Tour of Hainan</desc>
     <icon src="https://thumbor.prod.vidiocdn.com/xiN-u5MIG7jgOVE2tB_TUIynz7k=/287x162/filters:strip_icc():quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/image/6317/bein-3-616b1c.jpg"/>
   </programme>
   <programme channel="6317" start="20260509210000 +0000" stop="20260509213000 +0000">
@@ -8569,9 +8569,14 @@
     <desc lang="id">SFs,2nd Leg</desc>
     <icon src="https://thumbor.prod.vidiocdn.com/xiN-u5MIG7jgOVE2tB_TUIynz7k=/287x162/filters:strip_icc():quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/image/6317/bein-3-616b1c.jpg"/>
   </programme>
-  <programme channel="6317" start="20260509213000 +0000" stop="20260509223000 +0000">
+  <programme channel="6317" start="20260509213000 +0000" stop="20260509220000 +0000">
     <title lang="id">Eschborn-Frankfurt : UCI World Tour Highlights 2026</title>
     <desc lang="id">Eschborn-Frankfurt</desc>
+    <icon src="https://thumbor.prod.vidiocdn.com/xiN-u5MIG7jgOVE2tB_TUIynz7k=/287x162/filters:strip_icc():quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/image/6317/bein-3-616b1c.jpg"/>
+  </programme>
+  <programme channel="6317" start="20260509220000 +0000" stop="20260509223000 +0000">
+    <title lang="id">Stage 1 : Cape Epic Highlights 2026</title>
+    <desc lang="id">Stage 1</desc>
     <icon src="https://thumbor.prod.vidiocdn.com/xiN-u5MIG7jgOVE2tB_TUIynz7k=/287x162/filters:strip_icc():quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/image/6317/bein-3-616b1c.jpg"/>
   </programme>
   <programme channel="6317" start="20260509223000 +0000" stop="20260510010000 +0000">
@@ -8600,8 +8605,8 @@
     <icon src="https://thumbor.prod.vidiocdn.com/xiN-u5MIG7jgOVE2tB_TUIynz7k=/287x162/filters:strip_icc():quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/image/6317/bein-3-616b1c.jpg"/>
   </programme>
   <programme channel="6317" start="20260510060000 +0000" stop="20260510063000 +0000">
-    <title lang="id">La Fleche Wallone : UCI World Tour Highlights 2026</title>
-    <desc lang="id">La Fleche Wallone</desc>
+    <title lang="id">Stage 1 : Cape Epic Highlights 2026</title>
+    <desc lang="id">Stage 1</desc>
     <icon src="https://thumbor.prod.vidiocdn.com/xiN-u5MIG7jgOVE2tB_TUIynz7k=/287x162/filters:strip_icc():quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/image/6317/bein-3-616b1c.jpg"/>
   </programme>
   <programme channel="6317" start="20260510063000 +0000" stop="20260510070000 +0000">
@@ -8609,34 +8614,24 @@
     <desc lang="id">MD16 Review</desc>
     <icon src="https://thumbor.prod.vidiocdn.com/xiN-u5MIG7jgOVE2tB_TUIynz7k=/287x162/filters:strip_icc():quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/image/6317/bein-3-616b1c.jpg"/>
   </programme>
-  <programme channel="6317" start="20260510070000 +0000" stop="20260510090000 +0000">
+  <programme channel="6317" start="20260510070000 +0000" stop="20260510085000 +0000">
     <title lang="id">Aston Villa vs Arsenal : Women's Super League 2025/26</title>
     <desc lang="id">Aston Villa vs Arsenal</desc>
     <icon src="https://thumbor.prod.vidiocdn.com/xiN-u5MIG7jgOVE2tB_TUIynz7k=/287x162/filters:strip_icc():quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/image/6317/bein-3-616b1c.jpg"/>
   </programme>
-  <programme channel="6317" start="20260510090000 +0000" stop="20260510100000 +0000">
+  <programme channel="6317" start="20260510085000 +0000" stop="20260510092000 +0000">
     <title lang="id">Eschborn-Frankfurt : UCI World Tour Highlights 2026</title>
     <desc lang="id">Eschborn-Frankfurt</desc>
     <icon src="https://thumbor.prod.vidiocdn.com/xiN-u5MIG7jgOVE2tB_TUIynz7k=/287x162/filters:strip_icc():quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/image/6317/bein-3-616b1c.jpg"/>
   </programme>
-  <programme channel="6317" start="20260510100000 +0000" stop="20260510103000 +0000">
-    <title lang="id">Next Gen: Hong Kong : MUTV: Specials</title>
-    <desc lang="id">Next Gen: Hong Kong</desc>
-    <icon src="https://thumbor.prod.vidiocdn.com/xiN-u5MIG7jgOVE2tB_TUIynz7k=/287x162/filters:strip_icc():quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/image/6317/bein-3-616b1c.jpg"/>
-  </programme>
-  <programme channel="6317" start="20260510103000 +0000" stop="20260510110000 +0000">
+  <programme channel="6317" start="20260510092000 +0000" stop="20260510095000 +0000">
     <title lang="id">SFs,2nd Leg : UEFA Europa/Conference League Highlights 2025/26</title>
     <desc lang="id">SFs,2nd Leg</desc>
     <icon src="https://thumbor.prod.vidiocdn.com/xiN-u5MIG7jgOVE2tB_TUIynz7k=/287x162/filters:strip_icc():quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/image/6317/bein-3-616b1c.jpg"/>
   </programme>
-  <programme channel="6317" start="20260510110000 +0000" stop="20260510113000 +0000">
-    <title lang="id">MD16 Review : UEFA Champions League Magazine Show 2025/26</title>
-    <desc lang="id">MD16 Review</desc>
-    <icon src="https://thumbor.prod.vidiocdn.com/xiN-u5MIG7jgOVE2tB_TUIynz7k=/287x162/filters:strip_icc():quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/image/6317/bein-3-616b1c.jpg"/>
-  </programme>
-  <programme channel="6317" start="20260510113000 +0000" stop="20260510114500 +0000">
-    <title lang="id">Treble Headers : MUTV: Top Ten</title>
-    <desc lang="id">Treble Headers</desc>
+  <programme channel="6317" start="20260510095000 +0000" stop="20260510114500 +0000">
+    <title lang="id">Galatasaray vs Antalyaspor : Super Lig 2025/26</title>
+    <desc lang="id">Galatasaray vs Antalyaspor</desc>
     <icon src="https://thumbor.prod.vidiocdn.com/xiN-u5MIG7jgOVE2tB_TUIynz7k=/287x162/filters:strip_icc():quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/image/6317/bein-3-616b1c.jpg"/>
   </programme>
   <programme channel="6317" start="20260510114500 +0000" stop="20260510123500 +0000">
@@ -14220,19 +14215,14 @@
     <desc lang="id">London City Lionesses</desc>
     <icon src="https://thumbor.prod.vidiocdn.com/VmoYokSeKr_3SubUXC-rMC-EtQM=/287x162/filters:strip_icc():quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/image/17875/bein-2-25a5f9.jpg"/>
   </programme>
-  <programme channel="17875" start="20260504165000 +0000" stop="20260504172000 +0000">
-    <title lang="id">La Fleche Wallone : UCI World Tour Highlights 2026</title>
-    <desc lang="id">La Fleche Wallone</desc>
+  <programme channel="17875" start="20260504165000 +0000" stop="20260504175000 +0000">
+    <title lang="id">Tour of Hainan : UCI World Tour Highlights 2026</title>
+    <desc lang="id">Tour of Hainan</desc>
     <icon src="https://thumbor.prod.vidiocdn.com/VmoYokSeKr_3SubUXC-rMC-EtQM=/287x162/filters:strip_icc():quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/image/17875/bein-2-25a5f9.jpg"/>
   </programme>
-  <programme channel="17875" start="20260504165000 +0000" stop="20260504172000 +0000">
-    <title lang="id">La Fleche Wallone : UCI World Tour Highlights 2026</title>
-    <desc lang="id">La Fleche Wallone</desc>
-    <icon src="https://thumbor.prod.vidiocdn.com/VmoYokSeKr_3SubUXC-rMC-EtQM=/287x162/filters:strip_icc():quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/image/17875/bein-2-25a5f9.jpg"/>
-  </programme>
-  <programme channel="17875" start="20260504172000 +0000" stop="20260504175000 +0000">
-    <title lang="id">Liege Bastogne Liege : UCI World Tour Highlights 2026</title>
-    <desc lang="id">Liege Bastogne Liege</desc>
+  <programme channel="17875" start="20260504165000 +0000" stop="20260504175000 +0000">
+    <title lang="id">Tour of Hainan : UCI World Tour Highlights 2026</title>
+    <desc lang="id">Tour of Hainan</desc>
     <icon src="https://thumbor.prod.vidiocdn.com/VmoYokSeKr_3SubUXC-rMC-EtQM=/287x162/filters:strip_icc():quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/image/17875/bein-2-25a5f9.jpg"/>
   </programme>
   <programme channel="17875" start="20260504175000 +0000" stop="20260504182200 +0000">
@@ -14665,28 +14655,23 @@
     <desc lang="id">Asuncion P2 Day 4 QF Match 3</desc>
     <icon src="https://thumbor.prod.vidiocdn.com/VmoYokSeKr_3SubUXC-rMC-EtQM=/287x162/filters:strip_icc():quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/image/17875/bein-2-25a5f9.jpg"/>
   </programme>
-  <programme channel="17875" start="20260508173000 +0000" stop="20260508180000 +0000">
-    <title lang="id">London City Lionesses : Women's Super League Unlocked 2025/26</title>
-    <desc lang="id">London City Lionesses</desc>
-    <icon src="https://thumbor.prod.vidiocdn.com/VmoYokSeKr_3SubUXC-rMC-EtQM=/287x162/filters:strip_icc():quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/image/17875/bein-2-25a5f9.jpg"/>
-  </programme>
-  <programme channel="17875" start="20260508180000 +0000" stop="20260508182500 +0000">
+  <programme channel="17875" start="20260508173000 +0000" stop="20260508175700 +0000">
     <title lang="id">Kenya vs Uruguay - Brazil Day 2, Men : HSBC SVNS2 2026</title>
     <desc lang="id">Kenya vs Uruguay - Brazil Day 2, Men</desc>
     <icon src="https://thumbor.prod.vidiocdn.com/VmoYokSeKr_3SubUXC-rMC-EtQM=/287x162/filters:strip_icc():quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/image/17875/bein-2-25a5f9.jpg"/>
   </programme>
-  <programme channel="17875" start="20260508182500 +0000" stop="20260508185200 +0000">
+  <programme channel="17875" start="20260508175700 +0000" stop="20260508182200 +0000">
     <title lang="id">USA vs Germany - Brazil Day 2, Men : HSBC SVNS2 2026</title>
     <desc lang="id">USA vs Germany - Brazil Day 2, Men</desc>
     <icon src="https://thumbor.prod.vidiocdn.com/VmoYokSeKr_3SubUXC-rMC-EtQM=/287x162/filters:strip_icc():quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/image/17875/bein-2-25a5f9.jpg"/>
   </programme>
-  <programme channel="17875" start="20260508185200 +0000" stop="20260508210000 +0000">
-    <title lang="id">TBC v TBC : LaLiga 2 2025/26</title>
-    <desc lang="id">TBC v TBC</desc>
+  <programme channel="17875" start="20260508182200 +0000" stop="20260508203000 +0000">
+    <title lang="id">Cadiz vs Deportivo : LaLiga 2 2025/26</title>
+    <desc lang="id">Cadiz vs Deportivo</desc>
     <icon src="https://thumbor.prod.vidiocdn.com/VmoYokSeKr_3SubUXC-rMC-EtQM=/287x162/filters:strip_icc():quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/image/17875/bein-2-25a5f9.jpg"/>
   </programme>
-  <programme channel="17875" start="20260508210000 +0000" stop="20260508220000 +0000">
-    <title lang="id">Asuncion P2 Day 4 QF Match 5 : Premier Padel 2026 (Join In Progress)</title>
+  <programme channel="17875" start="20260508203000 +0000" stop="20260508220000 +0000">
+    <title lang="id">Asuncion P2 Day 4 QF Match 5 : Premier Padel 2026</title>
     <desc lang="id">Asuncion P2 Day 4 QF Match 5</desc>
     <icon src="https://thumbor.prod.vidiocdn.com/VmoYokSeKr_3SubUXC-rMC-EtQM=/287x162/filters:strip_icc():quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/image/17875/bein-2-25a5f9.jpg"/>
   </programme>
@@ -14715,29 +14700,54 @@
     <desc lang="id">South Africa vs Argentina - Cup Final, Hong Kong - Men</desc>
     <icon src="https://thumbor.prod.vidiocdn.com/VmoYokSeKr_3SubUXC-rMC-EtQM=/287x162/filters:strip_icc():quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/image/17875/bein-2-25a5f9.jpg"/>
   </programme>
-  <programme channel="17875" start="20260509011000 +0000" stop="20260509014000 +0000">
-    <title lang="id">2023 Women's Singles Final Swiatek v Muchova : Roland Garros Classic</title>
-    <desc lang="id">2023 Women's Singles Final Swiatek v Muchova</desc>
+  <programme channel="17875" start="20260509011000 +0000" stop="20260509012000 +0000">
+    <title lang="id">New Giza P2 Women : Premier Padel Match Highlights 2026</title>
+    <desc lang="id">New Giza P2 Women</desc>
     <icon src="https://thumbor.prod.vidiocdn.com/VmoYokSeKr_3SubUXC-rMC-EtQM=/287x162/filters:strip_icc():quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/image/17875/bein-2-25a5f9.jpg"/>
   </programme>
-  <programme channel="17875" start="20260509014000 +0000" stop="20260509031000 +0000">
+  <programme channel="17875" start="20260509012000 +0000" stop="20260509015000 +0000">
+    <title lang="id">2021 Men's Singles Final Djokovic v Tsitsipas : Roland Garros Classic</title>
+    <desc lang="id">2021 Men's Singles Final Djokovic v Tsitsipas</desc>
+    <icon src="https://thumbor.prod.vidiocdn.com/VmoYokSeKr_3SubUXC-rMC-EtQM=/287x162/filters:strip_icc():quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/image/17875/bein-2-25a5f9.jpg"/>
+  </programme>
+  <programme channel="17875" start="20260509015000 +0000" stop="20260509032000 +0000">
     <title lang="id">Asuncion P2 Day 4 QF Match 4 : Premier Padel 2026</title>
     <desc lang="id">Asuncion P2 Day 4 QF Match 4</desc>
     <icon src="https://thumbor.prod.vidiocdn.com/VmoYokSeKr_3SubUXC-rMC-EtQM=/287x162/filters:strip_icc():quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/image/17875/bein-2-25a5f9.jpg"/>
   </programme>
-  <programme channel="17875" start="20260509031000 +0000" stop="20260509044000 +0000">
+  <programme channel="17875" start="20260509032000 +0000" stop="20260509045000 +0000">
     <title lang="id">Asuncion P2 Day 4 QF Match 5 : Premier Padel 2026</title>
     <desc lang="id">Asuncion P2 Day 4 QF Match 5</desc>
     <icon src="https://thumbor.prod.vidiocdn.com/VmoYokSeKr_3SubUXC-rMC-EtQM=/287x162/filters:strip_icc():quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/image/17875/bein-2-25a5f9.jpg"/>
   </programme>
-  <programme channel="17875" start="20260509044000 +0000" stop="20260509063000 +0000">
-    <title lang="id">TBC v TBC : Super Lig 2025/26</title>
-    <desc lang="id">TBC v TBC</desc>
+  <programme channel="17875" start="20260509045000 +0000" stop="20260509051000 +0000">
+    <title lang="id">Roland Garros 2025 - Road to the Title - Carlos Alcaraz : Roland Garros Documentaries And Review</title>
+    <desc lang="id">Roland Garros 2025 - Road to the Title - Carlos Alcaraz</desc>
     <icon src="https://thumbor.prod.vidiocdn.com/VmoYokSeKr_3SubUXC-rMC-EtQM=/287x162/filters:strip_icc():quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/image/17875/bein-2-25a5f9.jpg"/>
   </programme>
-  <programme channel="17875" start="20260509063000 +0000" stop="20260509070000 +0000">
+  <programme channel="17875" start="20260509051000 +0000" stop="20260509053000 +0000">
+    <title lang="id">Roland Garros 2025 - Road to the Title - Coco Gauff : Roland Garros Documentaries And Review</title>
+    <desc lang="id">Roland Garros 2025 - Road to the Title - Coco Gauff</desc>
+    <icon src="https://thumbor.prod.vidiocdn.com/VmoYokSeKr_3SubUXC-rMC-EtQM=/287x162/filters:strip_icc():quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/image/17875/bein-2-25a5f9.jpg"/>
+  </programme>
+  <programme channel="17875" start="20260509053000 +0000" stop="20260509060000 +0000">
+    <title lang="id">2023 Women's Singles Final Swiatek v Muchova : Roland Garros Classic</title>
+    <desc lang="id">2023 Women's Singles Final Swiatek v Muchova</desc>
+    <icon src="https://thumbor.prod.vidiocdn.com/VmoYokSeKr_3SubUXC-rMC-EtQM=/287x162/filters:strip_icc():quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/image/17875/bein-2-25a5f9.jpg"/>
+  </programme>
+  <programme channel="17875" start="20260509060000 +0000" stop="20260509063000 +0000">
     <title lang="id">2024 Men's Singles Final Alcaraz v Zverev : Roland Garros Classic</title>
     <desc lang="id">2024 Men's Singles Final Alcaraz v Zverev</desc>
+    <icon src="https://thumbor.prod.vidiocdn.com/VmoYokSeKr_3SubUXC-rMC-EtQM=/287x162/filters:strip_icc():quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/image/17875/bein-2-25a5f9.jpg"/>
+  </programme>
+  <programme channel="17875" start="20260509063000 +0000" stop="20260509064500 +0000">
+    <title lang="id">Roland Garros 2025 - Final Day - Coco Gauff : Roland Garros Documentaries And Review</title>
+    <desc lang="id">Roland Garros 2025 - Final Day - Coco Gauff</desc>
+    <icon src="https://thumbor.prod.vidiocdn.com/VmoYokSeKr_3SubUXC-rMC-EtQM=/287x162/filters:strip_icc():quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/image/17875/bein-2-25a5f9.jpg"/>
+  </programme>
+  <programme channel="17875" start="20260509064500 +0000" stop="20260509070000 +0000">
+    <title lang="id">Roland Garros 2025 - Final Day - Carlos Alcaraz : Roland Garros Documentaries And Review</title>
+    <desc lang="id">Roland Garros 2025 - Final Day - Carlos Alcaraz</desc>
     <icon src="https://thumbor.prod.vidiocdn.com/VmoYokSeKr_3SubUXC-rMC-EtQM=/287x162/filters:strip_icc():quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/image/17875/bein-2-25a5f9.jpg"/>
   </programme>
   <programme channel="17875" start="20260509070000 +0000" stop="20260509080000 +0000">
@@ -14801,53 +14811,33 @@
     <icon src="https://thumbor.prod.vidiocdn.com/VmoYokSeKr_3SubUXC-rMC-EtQM=/287x162/filters:strip_icc():quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/image/17875/bein-2-25a5f9.jpg"/>
   </programme>
   <programme channel="17875" start="20260510000000 +0000" stop="20260510002500 +0000">
-    <title lang="id">Argentina vs Spain - Brazil Day 2, Women : HSBC SVNS2 2026</title>
-    <desc lang="id">Argentina vs Spain - Brazil Day 2, Women</desc>
+    <title lang="id">Hong Kong vs China - Melrose Claymores : HSBC SVNS World Championships 2026</title>
+    <desc lang="id">Hong Kong vs China - Melrose Claymores</desc>
     <icon src="https://thumbor.prod.vidiocdn.com/VmoYokSeKr_3SubUXC-rMC-EtQM=/287x162/filters:strip_icc():quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/image/17875/bein-2-25a5f9.jpg"/>
   </programme>
-  <programme channel="17875" start="20260510002500 +0000" stop="20260510005500 +0000">
-    <title lang="id">Brazil vs Kenya - Brazil Day 2, Women : HSBC SVNS2 2026</title>
-    <desc lang="id">Brazil vs Kenya - Brazil Day 2, Women</desc>
+  <programme channel="17875" start="20260510002500 +0000" stop="20260510005000 +0000">
+    <title lang="id">Hong Kong vs Thailand - Melrose Claymores : HSBC SVNS World Championships 2026</title>
+    <desc lang="id">Hong Kong vs Thailand - Melrose Claymores</desc>
     <icon src="https://thumbor.prod.vidiocdn.com/VmoYokSeKr_3SubUXC-rMC-EtQM=/287x162/filters:strip_icc():quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/image/17875/bein-2-25a5f9.jpg"/>
   </programme>
-  <programme channel="17875" start="20260510005500 +0000" stop="20260510011000 +0000">
-    <title lang="id">Roland Garros 2025 - Rafa Nadal Tribute : Roland Garros Documentaries And Review</title>
-    <desc lang="id">Roland Garros 2025 - Rafa Nadal Tribute</desc>
+  <programme channel="17875" start="20260510005000 +0000" stop="20260510015000 +0000">
+    <title lang="id">Hong Kong : HSBC SVNS World Championships Highlights 2026</title>
+    <desc lang="id">Hong Kong</desc>
     <icon src="https://thumbor.prod.vidiocdn.com/VmoYokSeKr_3SubUXC-rMC-EtQM=/287x162/filters:strip_icc():quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/image/17875/bein-2-25a5f9.jpg"/>
   </programme>
-  <programme channel="17875" start="20260510011000 +0000" stop="20260510024000 +0000">
-    <title lang="id">Miami P1 Day 3 Match 2 : Premier Padel 2026</title>
-    <desc lang="id">Miami P1 Day 3 Match 2</desc>
-    <icon src="https://thumbor.prod.vidiocdn.com/VmoYokSeKr_3SubUXC-rMC-EtQM=/287x162/filters:strip_icc():quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/image/17875/bein-2-25a5f9.jpg"/>
-  </programme>
-  <programme channel="17875" start="20260510024000 +0000" stop="20260510041000 +0000">
+  <programme channel="17875" start="20260510015000 +0000" stop="20260510032000 +0000">
     <title lang="id">Asuncion P2 Day 5 SF1 - Women : Premier Padel 2026</title>
     <desc lang="id">Asuncion P2 Day 5 SF1 - Women</desc>
     <icon src="https://thumbor.prod.vidiocdn.com/VmoYokSeKr_3SubUXC-rMC-EtQM=/287x162/filters:strip_icc():quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/image/17875/bein-2-25a5f9.jpg"/>
   </programme>
-  <programme channel="17875" start="20260510041000 +0000" stop="20260510042500 +0000">
-    <title lang="id">Roland Garros 2025 - Everything Going On Behind The Scenes : Roland Garros Documentaries And Review</title>
-    <desc lang="id">Roland Garros 2025 - Everything Going On Behind The Scenes</desc>
-    <icon src="https://thumbor.prod.vidiocdn.com/VmoYokSeKr_3SubUXC-rMC-EtQM=/287x162/filters:strip_icc():quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/image/17875/bein-2-25a5f9.jpg"/>
-  </programme>
-  <programme channel="17875" start="20260510042500 +0000" stop="20260510044000 +0000">
-    <title lang="id">Roland Garros 2025 - Rafa Nadal Tribute : Roland Garros Documentaries And Review</title>
-    <desc lang="id">Roland Garros 2025 - Rafa Nadal Tribute</desc>
-    <icon src="https://thumbor.prod.vidiocdn.com/VmoYokSeKr_3SubUXC-rMC-EtQM=/287x162/filters:strip_icc():quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/image/17875/bein-2-25a5f9.jpg"/>
-  </programme>
-  <programme channel="17875" start="20260510044000 +0000" stop="20260510045500 +0000">
-    <title lang="id">Roland Garros 2025 - Final Day - Coco Gauff : Roland Garros Documentaries And Review</title>
-    <desc lang="id">Roland Garros 2025 - Final Day - Coco Gauff</desc>
-    <icon src="https://thumbor.prod.vidiocdn.com/VmoYokSeKr_3SubUXC-rMC-EtQM=/287x162/filters:strip_icc():quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/image/17875/bein-2-25a5f9.jpg"/>
-  </programme>
-  <programme channel="17875" start="20260510045500 +0000" stop="20260510051000 +0000">
-    <title lang="id">Roland Garros 2025 - Final Day - Carlos Alcaraz : Roland Garros Documentaries And Review</title>
-    <desc lang="id">Roland Garros 2025 - Final Day - Carlos Alcaraz</desc>
+  <programme channel="17875" start="20260510032000 +0000" stop="20260510051000 +0000">
+    <title lang="id">Besiktas vs Trabzonspor : Super Lig 2025/26</title>
+    <desc lang="id">Besiktas vs Trabzonspor</desc>
     <icon src="https://thumbor.prod.vidiocdn.com/VmoYokSeKr_3SubUXC-rMC-EtQM=/287x162/filters:strip_icc():quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/image/17875/bein-2-25a5f9.jpg"/>
   </programme>
   <programme channel="17875" start="20260510051000 +0000" stop="20260510070000 +0000">
-    <title lang="id">TBC v TBC : Super Lig 2025/26</title>
-    <desc lang="id">TBC v TBC</desc>
+    <title lang="id">Basaksehir vs Samsunspor : Super Lig 2025/26</title>
+    <desc lang="id">Basaksehir vs Samsunspor</desc>
     <icon src="https://thumbor.prod.vidiocdn.com/VmoYokSeKr_3SubUXC-rMC-EtQM=/287x162/filters:strip_icc():quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/image/17875/bein-2-25a5f9.jpg"/>
   </programme>
   <programme channel="17875" start="20260510070000 +0000" stop="20260510083000 +0000">
@@ -14875,34 +14865,19 @@
     <desc lang="id">Rally de Portugal SS23 Fafe 2 - Wolf PS</desc>
     <icon src="https://thumbor.prod.vidiocdn.com/VmoYokSeKr_3SubUXC-rMC-EtQM=/287x162/filters:strip_icc():quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/image/17875/bein-2-25a5f9.jpg"/>
   </programme>
-  <programme channel="17875" start="20260510133000 +0000" stop="20260510154000 +0000">
-    <title lang="id">Tro-Bro-Leon : UCI World Tour 2026</title>
+  <programme channel="17875" start="20260510133000 +0000" stop="20260510153000 +0000">
+    <title lang="id">Tro-Bro-Leon : UCI World Tour 2026 [Join in Progress]</title>
     <desc lang="id">Tro-Bro-Leon</desc>
     <icon src="https://thumbor.prod.vidiocdn.com/VmoYokSeKr_3SubUXC-rMC-EtQM=/287x162/filters:strip_icc():quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/image/17875/bein-2-25a5f9.jpg"/>
   </programme>
-  <programme channel="17875" start="20260510154000 +0000" stop="20260510160000 +0000">
-    <title lang="id">Roland Garros 2025 - Road to the Title - Carlos Alcaraz : Roland Garros Documentaries And Review</title>
-    <desc lang="id">Roland Garros 2025 - Road to the Title - Carlos Alcaraz</desc>
+  <programme channel="17875" start="20260510153000 +0000" stop="20260510160000 +0000">
+    <title lang="id">Men's Singles Rd 4 Sinner v Rublev : Mini Match - Roland Garros 2025</title>
+    <desc lang="id">Men's Singles Rd 4 Sinner v Rublev</desc>
     <icon src="https://thumbor.prod.vidiocdn.com/VmoYokSeKr_3SubUXC-rMC-EtQM=/287x162/filters:strip_icc():quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/image/17875/bein-2-25a5f9.jpg"/>
   </programme>
-  <programme channel="17875" start="20260510160000 +0000" stop="20260510162000 +0000">
-    <title lang="id">Roland Garros 2025 - Road to the Title - Coco Gauff : Roland Garros Documentaries And Review</title>
-    <desc lang="id">Roland Garros 2025 - Road to the Title - Coco Gauff</desc>
-    <icon src="https://thumbor.prod.vidiocdn.com/VmoYokSeKr_3SubUXC-rMC-EtQM=/287x162/filters:strip_icc():quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/image/17875/bein-2-25a5f9.jpg"/>
-  </programme>
-  <programme channel="17875" start="20260510162000 +0000" stop="20260510163500 +0000">
-    <title lang="id">Roland Garros 2025 - Rafa Nadal Tribute : Roland Garros Documentaries And Review</title>
-    <desc lang="id">Roland Garros 2025 - Rafa Nadal Tribute</desc>
-    <icon src="https://thumbor.prod.vidiocdn.com/VmoYokSeKr_3SubUXC-rMC-EtQM=/287x162/filters:strip_icc():quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/image/17875/bein-2-25a5f9.jpg"/>
-  </programme>
-  <programme channel="17875" start="20260510163500 +0000" stop="20260510165500 +0000">
-    <title lang="id">2026 Women's Singles Final Sabalenka v Rybakina : Australian Open Match Highlights</title>
-    <desc lang="id">2026 Women's Singles Final Sabalenka v Rybakina</desc>
-    <icon src="https://thumbor.prod.vidiocdn.com/VmoYokSeKr_3SubUXC-rMC-EtQM=/287x162/filters:strip_icc():quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/image/17875/bein-2-25a5f9.jpg"/>
-  </programme>
-  <programme channel="17875" start="20260510165500 +0000" stop="20260510185200 +0000">
-    <title lang="id">TBC v TBC : Super Lig 2025/26</title>
-    <desc lang="id">TBC v TBC</desc>
+  <programme channel="17875" start="20260510160000 +0000" stop="20260510173000 +0000">
+    <title lang="id">Asuncion P2 Day 5 SF2 - Women : Premier Padel 2026</title>
+    <desc lang="id">Asuncion P2 Day 5 SF2 - Women</desc>
     <icon src="https://thumbor.prod.vidiocdn.com/VmoYokSeKr_3SubUXC-rMC-EtQM=/287x162/filters:strip_icc():quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/image/17875/bein-2-25a5f9.jpg"/>
   </programme>
   <programme channel="6786" start="20260503154500 +0000" stop="20260503180000 +0000">

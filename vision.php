@@ -146,67 +146,70 @@
 <title>Upin &amp; Ipin</title>
 </programme>
 <programme start="20260503230000 +0000" stop="20260504020000 +0000" channel="GTV.vision">
-<title>GTV</title>
+<title>Spongebob Squarepants (GTV)</title>
 </programme>
-<programme start="20260504020000 +0000" stop="20260504030000 +0000" channel="GTV.vision">
-<title>GTV</title>
+<programme start="20260504020000 +0000" stop="20260504023000 +0000" channel="GTV.vision">
+<title>CoComelon Dan Sahabat</title>
+</programme>
+<programme start="20260504023000 +0000" stop="20260504030000 +0000" channel="GTV.vision">
+<title>Buletin iNews Pagi</title>
 </programme>
 <programme start="20260504030000 +0000" stop="20260504050000 +0000" channel="GTV.vision">
-<title>GTV</title>
+<title>SpongeBob SquarePants</title>
 </programme>
-<programme start="20260504050000 +0000" stop="20260504073000 +0000" channel="GTV.vision">
-<title>GTV</title>
+<programme start="20260504050000 +0000" stop="20260504080000 +0000" channel="GTV.vision">
+<title>Spongebob Squarepants (GTV)</title>
 </programme>
-<programme start="20260504073000 +0000" stop="20260504100000 +0000" channel="GTV.vision">
-<title>GTV</title>
+<programme start="20260504080000 +0000" stop="20260504093000 +0000" channel="GTV.vision">
+<title>Super Deal Indonesia</title>
 </programme>
-<programme start="20260504100000 +0000" stop="20260504110000 +0000" channel="GTV.vision">
-<title>GTV</title>
+<programme start="20260504093000 +0000" stop="20260504110000 +0000" channel="GTV.vision">
+<title>SpongeBob SquarePants</title>
 </programme>
 <programme start="20260504110000 +0000" stop="20260504120000 +0000" channel="GTV.vision">
-<title>GTV</title>
+<title>Pada Zaman Dahulu</title>
 </programme>
 <programme start="20260504120000 +0000" stop="20260504133000 +0000" channel="GTV.vision">
-<title>GTV</title>
+<title>New Family 100 (GTV)</title>
 </programme>
 <programme start="20260504133000 +0000" stop="20260504153000 +0000" channel="GTV.vision">
-<title>GTV</title>
+<title>Big Movies</title>
 </programme>
 <programme start="20260504153000 +0000" stop="20260504163000 +0000" channel="GTV.vision">
-<title>GTV</title>
+<title>Untold Story: Experiment</title>
 </programme>
 <programme start="20260504163000 +0000" stop="20260504170000 +0000" channel="GTV.vision">
-<title>GTV</title>
+<title>Konon Katanya</title>
 </programme>
-<programme start="20260504170000 +0000" stop="20260504190000 +0000" channel="GTV.vision">
-<title>GTV</title>
-</programme>
-<programme start="20260504190000 +0000" stop="20260504220000 +0000" channel="GTV.vision">
-<title>GTV</title>
+<programme start="20260504170000 +0000" stop="20260504220000 +0000" channel="GTV.vision">
+<title>Tertawa Tengah Malam</title>
 </programme>
 <programme start="20260504220000 +0000" stop="20260504230000 +0000" channel="GTV.vision">
-<title>GTV</title>
+<title>Ragam Pagi</title>
 </programme>
 <programme start="20260504230000 +0000" stop="20260505020000 +0000" channel="GTV.vision">
-<title>GTV</title>
+<title>Spongebob Squarepants (GTV)</title>
 </programme>
-<programme start="20260505020000 +0000" stop="20260505030000 +0000" channel="GTV.vision">
-<title>GTV</title>
+<programme start="20260505020000 +0000" stop="20260505023000 +0000" channel="GTV.vision">
+<title>CoComelon Dan Sahabat</title>
+</programme>
+<programme start="20260505023000 +0000" stop="20260505030000 +0000" channel="GTV.vision">
+<title>Buletin iNews Pagi</title>
 </programme>
 <programme start="20260505030000 +0000" stop="20260505050000 +0000" channel="GTV.vision">
-<title>GTV</title>
+<title>SpongeBob SquarePants</title>
 </programme>
-<programme start="20260505050000 +0000" stop="20260505073000 +0000" channel="GTV.vision">
-<title>GTV</title>
+<programme start="20260505050000 +0000" stop="20260505080000 +0000" channel="GTV.vision">
+<title>Spongebob Squarepants (GTV)</title>
 </programme>
-<programme start="20260505073000 +0000" stop="20260505100000 +0000" channel="GTV.vision">
-<title>GTV</title>
+<programme start="20260505080000 +0000" stop="20260505093000 +0000" channel="GTV.vision">
+<title>Super Deal Indonesia</title>
 </programme>
-<programme start="20260505100000 +0000" stop="20260505110000 +0000" channel="GTV.vision">
-<title>GTV</title>
+<programme start="20260505093000 +0000" stop="20260505110000 +0000" channel="GTV.vision">
+<title>SpongeBob SquarePants</title>
 </programme>
 <programme start="20260505110000 +0000" stop="20260505120000 +0000" channel="GTV.vision">
-<title>GTV</title>
+<title>Pada Zaman Dahulu</title>
 </programme>
 <programme start="20260504000000 +0000" stop="20260504000300 +0000" channel="iNews.vision">
 <title>iNews Terkini (L)</title>
@@ -643,9 +646,6 @@
 <programme start="20260504100000 +0000" stop="20260504120000 +0000" channel="ANTV.vision">
 <title>Vasudha</title>
 </programme>
-<programme start="20260504120000 +0000" stop="20260504140000 +0000" channel="ANTV.vision">
-<title>7 Manusia Harimau</title>
-</programme>
 <programme start="20260504140000 +0000" stop="20260504153000 +0000" channel="ANTV.vision">
 <title>Titisan Dewi Ular</title>
 </programme>
@@ -819,9 +819,6 @@
 </programme>
 <programme start="20260504110000 +0000" stop="20260504130000 +0000" channel="TVOne.vision">
 <title>Apa Kabar Indonesia Malam (L)</title>
-</programme>
-<programme start="20260504130000 +0000" stop="20260504140000 +0000" channel="TVOne.vision">
-<title>Fakta</title>
 </programme>
 <programme start="20260504140000 +0000" stop="20260504153000 +0000" channel="TVOne.vision">
 <title>Kabar Utama 2 (L)</title>
@@ -1497,4 +1494,7 @@
 </programme>
 <programme start="20260505070000 +0000" stop="20260505073000 +0000" channel="BTV.vision">
 <title>Spot On</title>
+</programme>
+<programme start="20260505073000 +0000" stop="20260505080000 +0000" channel="BTV.vision">
+<title>Indonesia Update Cerita IDN</title>
 </programme>
