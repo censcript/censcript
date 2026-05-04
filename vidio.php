@@ -849,22 +849,22 @@
     <desc lang="id">Mega Series Terbaru Raden Rakha dan Basmalah Gralind Di Indosiar "Merangkai Kisah Indah" Tayang Setiap Hari, Mulai Senin, 14 Juli 2025 Pukul 17:00 WIB. Kisah Derita Mutiara Yang Mencari Orangtua Kandungnya Karena Sewaktu Bayi Ditukar Oleh Ibu Angkatnya. Nasib Membawa Dirinya Bertemu Dengan Keluarga Yang Tanpa Dia Ketahui Adalah Orangtua Kandungnya dan Juga Bertemu Kenzo. Apakah Kenzo dan Mutiara Akan Berjodoh? Dibintangi Raden Rakha, Basmalah Gralind, Panji Saputra, Tsania Marwa, Gita Sinaga, Vayala Maulidina, Washifa, Haura Lathifa, dan Emiliano Cortizo. Saksikan Mega Series Terbaru Indosiar : Merangkai Kisah Indah, Tayang Setiap Hari, Mulai Senin, 14 Juli 2025 Pukul 17:00 WIB Hanya Di Indosiar.</desc>
     <icon src="https://thumbor.prod.vidiocdn.com/WIl2jiaTLEzHnNAo61AGzfdEXh8=/287x162/filters:strip_icc():quality(70)/vidio-media-production/uploads/tv_program/thumbnail/389747/fc3ce1.jpg"/>
   </programme>
-  <programme channel="205" start="20260504113700 +0000" stop="20260504141000 +0000">
+  <programme channel="205" start="20260504113700 +0000" stop="20260504141900 +0000">
     <title lang="id">BRI Superleague 2025/26 - Persijap Jepara Vs Persija Jakarta</title>
     <desc lang="id">Saksikan! BRI Super League 2025/26 - Is Back!" 18 Klub Terbaik Siap Bertarung Di Kasta Tertinggi Sepak Bola Indonesia! Pertandingan Semakin Seru! Jangan Lewatkan BRI Super League 2025/26 Mulai 8 Agustus 2025, Pkl 15.00 &amp; 18.30 WIB, Live &amp; Eksklusif Hanya Di Indosiar dan Vidio #Indosiarrumahsepakbolaindonesia</desc>
     <icon src="https://thumbor.prod.vidiocdn.com/cBZL7ITaJCof6cqtayFee2uJCX8=/287x162/filters:strip_icc():quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/image/205/indosiar-d9a3d0.jpg"/>
   </programme>
-  <programme channel="205" start="20260504141000 +0000" stop="20260504160000 +0000">
+  <programme channel="205" start="20260504141900 +0000" stop="20260504165000 +0000">
     <title lang="id">BRI Superleague 2025/26 - Persib Bandung Vs Psim Yogyakarta</title>
     <desc lang="id">Saksikan! BRI Super League 2025/26 - Is Back!" 18 Klub Terbaik Siap Bertarung Di Kasta Tertinggi Sepak Bola Indonesia! Pertandingan Semakin Seru! Jangan Lewatkan BRI Super League 2025/26 Mulai 8 Agustus 2025, Pkl 15.00 &amp; 18.30 WIB, Live &amp; Eksklusif Hanya Di Indosiar dan Vidio #Indosiarrumahsepakbolaindonesia</desc>
     <icon src="https://thumbor.prod.vidiocdn.com/cBZL7ITaJCof6cqtayFee2uJCX8=/287x162/filters:strip_icc():quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/image/205/indosiar-d9a3d0.jpg"/>
   </programme>
-  <programme channel="205" start="20260504160000 +0000" stop="20260504180000 +0000">
+  <programme channel="205" start="20260504165000 +0000" stop="20260504180000 +0000">
     <title lang="id">Mega Film Asia : The Mummy : Tomb Of The Dragon Emperor</title>
     <desc lang="id">Mega Film Asia Adalah Program Yang Memutarkan Film-Film Asia Yang Ditayangkan Di Indosiar. Acara Ini Ditayangkan Perdana Pada Tahun 1996 Silam.</desc>
     <icon src="https://thumbor.prod.vidiocdn.com/P46c3s7egGb_yJnsi0RmDZVRRyM=/287x162/filters:strip_icc():quality(70)/vidio-media-production/uploads/livestreaming/schedule/thumbnail/5058205/33c7bb.jpg"/>
   </programme>
-  <programme channel="205" start="20260504160000 +0000" stop="20260504180000 +0000">
+  <programme channel="205" start="20260504165000 +0000" stop="20260504180000 +0000">
     <title lang="id">Mega Film Asia : The Mummy : Tomb Of The Dragon Emperor</title>
     <desc lang="id">Mega Film Asia Adalah Program Yang Memutarkan Film-Film Asia Yang Ditayangkan Di Indosiar. Acara Ini Ditayangkan Perdana Pada Tahun 1996 Silam.</desc>
     <icon src="https://thumbor.prod.vidiocdn.com/P46c3s7egGb_yJnsi0RmDZVRRyM=/287x162/filters:strip_icc():quality(70)/vidio-media-production/uploads/livestreaming/schedule/thumbnail/5058205/33c7bb.jpg"/>
@@ -2087,17 +2087,25 @@
     <title lang="id">POV (Pasti Obrolan Viral)</title>
     <icon src="https://thumbor.prod.vidiocdn.com/R26KCPdNfgO_Qe8oh6Oaq8cZCPY=/287x162/filters:strip_icc():quality(70)/vidio-media-production/uploads/livestreaming/schedule/thumbnail/5043778/340d8f.jpg"/>
   </programme>
-  <programme channel="734" start="20260504130000 +0000" stop="20260504143000 +0000">
+  <programme channel="734" start="20260504130000 +0000" stop="20260504142900 +0000">
     <title lang="id">Arisan</title>
     <icon src="https://thumbor.prod.vidiocdn.com/VyDWgGuvUtZp5M006MXkTEIEpxw=/287x162/filters:strip_icc():quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/image/734/trans7-9dade4.jpg"/>
   </programme>
-  <programme channel="734" start="20260504143000 +0000" stop="20260504154500 +0000">
+  <programme channel="734" start="20260504142900 +0000" stop="20260504154500 +0000">
     <title lang="id">Lapor Pak!</title>
     <icon src="https://thumbor.prod.vidiocdn.com/VyDWgGuvUtZp5M006MXkTEIEpxw=/287x162/filters:strip_icc():quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/image/734/trans7-9dade4.jpg"/>
   </programme>
   <programme channel="734" start="20260504154500 +0000" stop="20260504163000 +0000">
     <title lang="id">The Police</title>
     <icon src="https://thumbor.prod.vidiocdn.com/HZz-rwFWruDhzHFfuCgQLdnqkmI=/287x162/filters:strip_icc():quality(70)/vidio-web-prod-film/uploads/film/image_landscape/5734/the-police-3840e2.png"/>
+  </programme>
+  <programme channel="734" start="20260504163000 +0000" stop="20260504171500 +0000">
+    <title lang="id">Newstainment</title>
+    <icon src="https://thumbor.prod.vidiocdn.com/VyDWgGuvUtZp5M006MXkTEIEpxw=/287x162/filters:strip_icc():quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/image/734/trans7-9dade4.jpg"/>
+  </programme>
+  <programme channel="734" start="20260504163000 +0000" stop="20260504171500 +0000">
+    <title lang="id">Newstainment</title>
+    <icon src="https://thumbor.prod.vidiocdn.com/VyDWgGuvUtZp5M006MXkTEIEpxw=/287x162/filters:strip_icc():quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/image/734/trans7-9dade4.jpg"/>
   </programme>
   <programme channel="734" start="20260504171500 +0000" stop="20260504174500 +0000">
     <title lang="id">Redaksi Malam</title>
@@ -2755,17 +2763,17 @@
     <desc lang="id">Maria Bellen</desc>
     <icon src="https://thumbor.prod.vidiocdn.com/NdmzqkxqnWVnlngtk_ObYNT-wiY=/287x162/filters:strip_icc():quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/image/206/moji-a5bd3e.jpg"/>
   </programme>
-  <programme channel="206" start="20260504133000 +0000" stop="20260504153000 +0000">
+  <programme channel="206" start="20260504133000 +0000" stop="20260504152600 +0000">
     <title lang="id">Drama Turki Ceylan</title>
     <desc lang="id">Drama Turki Ceylan</desc>
     <icon src="https://thumbor.prod.vidiocdn.com/eFqHIZJRNv6e5RULSMEXZalQlmo=/287x162/filters:strip_icc():quality(70)/vidio-media-production/uploads/livestreaming/schedule/thumbnail/5035984/d29f86.jpg"/>
   </programme>
-  <programme channel="206" start="20260504153000 +0000" stop="20260504174200 +0000">
+  <programme channel="206" start="20260504152600 +0000" stop="20260504174200 +0000">
     <title lang="id">Rerun Proliga 2026</title>
     <desc lang="id">Rerun Proliga 2026</desc>
     <icon src="https://thumbor.prod.vidiocdn.com/NdmzqkxqnWVnlngtk_ObYNT-wiY=/287x162/filters:strip_icc():quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/image/206/moji-a5bd3e.jpg"/>
   </programme>
-  <programme channel="206" start="20260504153000 +0000" stop="20260504174200 +0000">
+  <programme channel="206" start="20260504152600 +0000" stop="20260504174200 +0000">
     <title lang="id">Rerun Proliga 2026</title>
     <desc lang="id">Rerun Proliga 2026</desc>
     <icon src="https://thumbor.prod.vidiocdn.com/NdmzqkxqnWVnlngtk_ObYNT-wiY=/287x162/filters:strip_icc():quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/image/206/moji-a5bd3e.jpg"/>
@@ -8744,17 +8752,21 @@
     <desc lang="id">INTER vs PARMA</desc>
     <icon src="https://thumbor.prod.vidiocdn.com/edoqRinFCRhrRwQ2ngcXacb_q74=/287x162/filters:strip_icc():quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/image/6685/champions-tv-1-54e282.jpg"/>
   </programme>
-  <programme channel="6685" start="20260504140000 +0000" stop="20260504160000 +0000">
+  <programme channel="6685" start="20260504140000 +0000" stop="20260504155400 +0000">
     <title lang="id">JUVENTUS vs HELLAS VERONA : Serie A 2025/26</title>
     <desc lang="id">JUVENTUS vs HELLAS VERONA</desc>
     <icon src="https://thumbor.prod.vidiocdn.com/edoqRinFCRhrRwQ2ngcXacb_q74=/287x162/filters:strip_icc():quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/image/6685/champions-tv-1-54e282.jpg"/>
   </programme>
-  <programme channel="6685" start="20260504160000 +0000" stop="20260504170000 +0000">
+  <programme channel="6685" start="20260504155400 +0000" stop="20260504155800 +0000">
+    <title lang="id">Filler</title>
+    <icon src="https://thumbor.prod.vidiocdn.com/edoqRinFCRhrRwQ2ngcXacb_q74=/287x162/filters:strip_icc():quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/image/6685/champions-tv-1-54e282.jpg"/>
+  </programme>
+  <programme channel="6685" start="20260504155800 +0000" stop="20260504170000 +0000">
     <title lang="id">Highlight - Round 32 : Portuguese League 2025/26</title>
     <desc lang="id">Highlight Round 32</desc>
     <icon src="https://thumbor.prod.vidiocdn.com/edoqRinFCRhrRwQ2ngcXacb_q74=/287x162/filters:strip_icc():quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/image/6685/champions-tv-1-54e282.jpg"/>
   </programme>
-  <programme channel="6685" start="20260504160000 +0000" stop="20260504170000 +0000">
+  <programme channel="6685" start="20260504155800 +0000" stop="20260504170000 +0000">
     <title lang="id">Highlight - Round 32 : Portuguese League 2025/26</title>
     <desc lang="id">Highlight Round 32</desc>
     <icon src="https://thumbor.prod.vidiocdn.com/edoqRinFCRhrRwQ2ngcXacb_q74=/287x162/filters:strip_icc():quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/image/6685/champions-tv-1-54e282.jpg"/>
@@ -19607,17 +19619,17 @@
     <desc lang="id">Show 30 Matchweek 35</desc>
     <icon src="https://thumbor.prod.vidiocdn.com/r_QaZubFaj9Ht_TI2kDgdImcRqY=/287x162/filters:strip_icc():quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/image/9182/champions-tv-5-e0dd48.jpg"/>
   </programme>
-  <programme channel="9182" start="20260504133000 +0000" stop="20260504160000 +0000">
+  <programme channel="9182" start="20260504133000 +0000" stop="20260504161600 +0000">
     <title lang="id">Chelsea vs Nottingham Forest - Premier League</title>
     <desc lang="id">Nonton streaming pertandingan seru Chelsea vs Nottingham Forest - Premier League. Saksikan aksi-aksi terbaik dari tim yang bersaing ketat untuk meraih kemenangan. Dapatkan informasi lengkap mengenai jadwal pertandingan dan hasil pertandingan terbaru hanya di Vidio.</desc>
     <icon src="https://thumbor.prod.vidiocdn.com/ixVsLuvu_kyyq1HAeRwoLXriO9s=/287x162/filters:strip_icc():quality(70)/vidio-media-production/uploads/livestreaming/schedule/thumbnail/5055567/5fb973.jpg"/>
   </programme>
-  <programme channel="9182" start="20260504160000 +0000" stop="20260504170000 +0000">
+  <programme channel="9182" start="20260504161600 +0000" stop="20260504170000 +0000">
     <title lang="id">Matchweek 34 : PL Review 2025/26</title>
     <desc lang="id">Matchweek 34</desc>
     <icon src="https://thumbor.prod.vidiocdn.com/r_QaZubFaj9Ht_TI2kDgdImcRqY=/287x162/filters:strip_icc():quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/image/9182/champions-tv-5-e0dd48.jpg"/>
   </programme>
-  <programme channel="9182" start="20260504160000 +0000" stop="20260504170000 +0000">
+  <programme channel="9182" start="20260504161600 +0000" stop="20260504170000 +0000">
     <title lang="id">Matchweek 34 : PL Review 2025/26</title>
     <desc lang="id">Matchweek 34</desc>
     <icon src="https://thumbor.prod.vidiocdn.com/r_QaZubFaj9Ht_TI2kDgdImcRqY=/287x162/filters:strip_icc():quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/image/9182/champions-tv-5-e0dd48.jpg"/>
@@ -19632,7 +19644,7 @@
     <desc lang="id">Show 30 Matchweek 35</desc>
     <icon src="https://thumbor.prod.vidiocdn.com/r_QaZubFaj9Ht_TI2kDgdImcRqY=/287x162/filters:strip_icc():quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/image/9182/champions-tv-5-e0dd48.jpg"/>
   </programme>
-  <programme channel="9182" start="20260504190000 +0000" stop="20260504210000 +0000">
+  <programme channel="9182" start="20260504183000 +0000" stop="20260504210000 +0000">
     <title lang="id">Everton vs Man City - Premier League</title>
     <desc lang="id">Nonton streaming pertandingan seru Everton vs Man City - Premier League. Saksikan aksi-aksi terbaik dari tim yang bersaing ketat untuk meraih kemenangan. Dapatkan informasi lengkap mengenai jadwal pertandingan dan hasil pertandingan terbaru hanya di Vidio.</desc>
     <icon src="https://thumbor.prod.vidiocdn.com/3C6cZGEMKL9Ml3xF4qh7l2yJX0c=/287x162/filters:strip_icc():quality(70)/vidio-media-production/uploads/livestreaming/schedule/thumbnail/5055568/d1c8e1.jpg"/>
