@@ -8449,10 +8449,10 @@
 <programme start="20260504100000 +0000" stop="20260504120000 +0000" channel="SPOTV.mncvision">
     <title>25/26 ROSHN Saudi League</title>
 </programme>
-<programme start="20260504120000 +0000" stop="20260504150000 +0000" channel="SPOTV.mncvision">
+<programme start="20260504120000 +0000" stop="20260504151500 +0000" channel="SPOTV.mncvision">
     <title>MCB Ladies Classic</title>
 </programme>
-<programme start="20260504150000 +0000" stop="20260504160000 +0000" channel="SPOTV.mncvision">
+<programme start="20260504151500 +0000" stop="20260504160000 +0000" channel="SPOTV.mncvision">
     <title>2026 World Surf League</title>
 </programme>
 <programme start="20260504160000 +0000" stop="20260504162500 +0000" channel="SPOTV.mncvision">
@@ -8572,10 +8572,10 @@
 <programme start="20260504100000 +0000" stop="20260504120000 +0000" channel="SPOTV HD.mncvision">
     <title>25/26 ROSHN Saudi League</title>
 </programme>
-<programme start="20260504120000 +0000" stop="20260504150000 +0000" channel="SPOTV HD.mncvision">
+<programme start="20260504120000 +0000" stop="20260504151500 +0000" channel="SPOTV HD.mncvision">
     <title>MCB Ladies Classic</title>
 </programme>
-<programme start="20260504150000 +0000" stop="20260504160000 +0000" channel="SPOTV HD.mncvision">
+<programme start="20260504151500 +0000" stop="20260504160000 +0000" channel="SPOTV HD.mncvision">
     <title>2026 World Surf League</title>
 </programme>
 <programme start="20260504160000 +0000" stop="20260504162500 +0000" channel="SPOTV HD.mncvision">
