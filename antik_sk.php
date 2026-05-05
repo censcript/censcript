@@ -3610,10 +3610,10 @@
   <programme start="20260506223500 +0000" stop="20260506230200 +0000" channel="ČT :D - ČT art.webtv.sk">
     <title lang="id">Ikony Kamila Střihavky</title>
   </programme>
-  <programme start="20260506230200 +0000" stop="20260506231700 +0000" channel="ČT :D - ČT art.webtv.sk">
+  <programme start="20260506230200 +0000" stop="20260506231600 +0000" channel="ČT :D - ČT art.webtv.sk">
     <title lang="id">Toulky s Ladislavem Smoljakem</title>
   </programme>
-  <programme start="20260506231700 +0000" stop="20260507000700 +0000" channel="ČT :D - ČT art.webtv.sk">
+  <programme start="20260506231600 +0000" stop="20260507000700 +0000" channel="ČT :D - ČT art.webtv.sk">
     <title lang="id">Nenapravitelný Belmondo (2/2)</title>
   </programme>
   <programme start="20260507000700 +0000" stop="20260507004300 +0000" channel="ČT :D - ČT art.webtv.sk">
