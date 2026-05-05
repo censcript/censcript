@@ -4963,8 +4963,11 @@
   <programme start="20260507130000 +0000" stop="20260507153000 +0000" channel="Arena Sport 2.webtv.sk">
     <title lang="id">Majstrovstvá sveta vo vzpieraní 2026 - juniori - ženy 86 kg</title>
   </programme>
-  <programme start="20260507153000 +0000" stop="20260507160000 +0000" channel="Arena Sport 2.webtv.sk">
+  <programme start="20260507153000 +0000" stop="20260507155000 +0000" channel="Arena Sport 2.webtv.sk">
     <title lang="id">Naša Garáž</title>
+  </programme>
+  <programme start="20260507155000 +0000" stop="20260507160000 +0000" channel="Arena Sport 2.webtv.sk">
+    <title lang="id">ENDURO magazín</title>
   </programme>
   <programme start="20260507160000 +0000" stop="20260507190000 +0000" channel="Arena Sport 2.webtv.sk">
     <title lang="id">Majstrovstvá sveta vo vzpieraní 2026 - juniori - muži 94 kg</title>
