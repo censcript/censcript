@@ -130,11 +130,8 @@
 <programme start="20260505023000 +0000" stop="20260505030000 +0000" channel="Al Jazeera English.mncvision">
     <title>The Listening Post</title>
 </programme>
-<programme start="20260505030000 +0000" stop="20260505033000 +0000" channel="Al Jazeera English.mncvision">
-    <title>News (L)</title>
-</programme>
-<programme start="20260505033000 +0000" stop="20260505040000 +0000" channel="Al Jazeera English.mncvision">
-    <title>Al Jazeera</title>
+<programme start="20260505030000 +0000" stop="20260505040000 +0000" channel="Al Jazeera English.mncvision">
+    <title>NewsHour</title>
 </programme>
 <programme start="20260505040000 +0000" stop="20260505043000 +0000" channel="Al Jazeera English.mncvision">
     <title>News (L)</title>
@@ -148,11 +145,8 @@
 <programme start="20260505053000 +0000" stop="20260505060000 +0000" channel="Al Jazeera English.mncvision">
     <title>Inside Story</title>
 </programme>
-<programme start="20260505060000 +0000" stop="20260505063000 +0000" channel="Al Jazeera English.mncvision">
-    <title>News (L)</title>
-</programme>
-<programme start="20260505063000 +0000" stop="20260505070000 +0000" channel="Al Jazeera English.mncvision">
-    <title>101 East</title>
+<programme start="20260505060000 +0000" stop="20260505070000 +0000" channel="Al Jazeera English.mncvision">
+    <title>NewsHour</title>
 </programme>
 <programme start="20260505070000 +0000" stop="20260505073000 +0000" channel="Al Jazeera English.mncvision">
     <title>News (L)</title>
@@ -166,11 +160,8 @@
 <programme start="20260505083000 +0000" stop="20260505090000 +0000" channel="Al Jazeera English.mncvision">
     <title>Talk To Al Jazeera: J. Liang</title>
 </programme>
-<programme start="20260505090000 +0000" stop="20260505093000 +0000" channel="Al Jazeera English.mncvision">
-    <title>News (L)</title>
-</programme>
-<programme start="20260505093000 +0000" stop="20260505100000 +0000" channel="Al Jazeera English.mncvision">
-    <title>Witness</title>
+<programme start="20260505090000 +0000" stop="20260505100000 +0000" channel="Al Jazeera English.mncvision">
+    <title>NewsHour</title>
 </programme>
 <programme start="20260505100000 +0000" stop="20260505110000 +0000" channel="Al Jazeera English.mncvision">
     <title>NewsHour</title>
@@ -182,7 +173,7 @@
     <title>Inside Story</title>
 </programme>
 <programme start="20260505120000 +0000" stop="20260505130000 +0000" channel="Al Jazeera English.mncvision">
-    <title>Witness</title>
+    <title>NewsHour</title>
 </programme>
 <programme start="20260505130000 +0000" stop="20260505140000 +0000" channel="Al Jazeera English.mncvision">
     <title>NewsHour</title>
@@ -5212,7 +5203,10 @@
 <programme start="20260505083000 +0000" stop="20260505090000 +0000" channel="Kids TV.mncvision">
     <title>Penguins Of Madagascar</title>
 </programme>
-<programme start="20260505090000 +0000" stop="20260505120000 +0000" channel="Kids TV.mncvision">
+<programme start="20260505090000 +0000" stop="20260505103000 +0000" channel="Kids TV.mncvision">
+    <title>Petualangan Upin &amp; Ipin</title>
+</programme>
+<programme start="20260505103000 +0000" stop="20260505120000 +0000" channel="Kids TV.mncvision">
     <title>Upin &amp; Ipin Bermula</title>
 </programme>
 <programme start="20260505120000 +0000" stop="20260505123000 +0000" channel="Kids TV.mncvision">
@@ -5317,7 +5311,10 @@
 <programme start="20260505083000 +0000" stop="20260505090000 +0000" channel="Kids TV HD.mncvision">
     <title>Penguins Of Madagascar</title>
 </programme>
-<programme start="20260505090000 +0000" stop="20260505120000 +0000" channel="Kids TV HD.mncvision">
+<programme start="20260505090000 +0000" stop="20260505103000 +0000" channel="Kids TV HD.mncvision">
+    <title>Petualangan Upin &amp; Ipin</title>
+</programme>
+<programme start="20260505103000 +0000" stop="20260505120000 +0000" channel="Kids TV HD.mncvision">
     <title>Upin &amp; Ipin Bermula</title>
 </programme>
 <programme start="20260505120000 +0000" stop="20260505123000 +0000" channel="Kids TV HD.mncvision">
@@ -5578,7 +5575,84 @@
 <programme start="20260505163000 +0000" stop="20260504170000 +0000" channel="LIFE.mncvision">
     <title>Building A Better You</title>
 </programme>
-Error: Unable to fetch data. HTTP Status Code: 500
+<programme start="20260504170500 +0000" stop="20260504173500 +0000" channel="Lifetime.mncvision">
+    <title>Jake Makes It Easy S1, Ep 5</title>
+</programme>
+<programme start="20260504173500 +0000" stop="20260504180500 +0000" channel="Lifetime.mncvision">
+    <title>Rachael Ray In Tuscany, Ep 2</title>
+</programme>
+<programme start="20260504180500 +0000" stop="20260504183500 +0000" channel="Lifetime.mncvision">
+    <title>Jason&#039;s Table: Dishes, Ep 4</title>
+</programme>
+<programme start="20260504183500 +0000" stop="20260504202000 +0000" channel="Lifetime.mncvision">
+    <title>Murder Below Deck</title>
+</programme>
+<programme start="20260504202000 +0000" stop="20260504220500 +0000" channel="Lifetime.mncvision">
+    <title>Girl In The Attic</title>
+</programme>
+<programme start="20260504220500 +0000" stop="20260504223500 +0000" channel="Lifetime.mncvision">
+    <title>Jake Makes It Easy S1, Ep 5</title>
+</programme>
+<programme start="20260504223500 +0000" stop="20260504230500 +0000" channel="Lifetime.mncvision">
+    <title>Rachael Ray In Tuscany, Ep 2</title>
+</programme>
+<programme start="20260504230500 +0000" stop="20260504233000 +0000" channel="Lifetime.mncvision">
+    <title>Meals In Minutes S2, Ep 42</title>
+</programme>
+<programme start="20260504233000 +0000" stop="20260505010000 +0000" channel="Lifetime.mncvision">
+    <title>MasterChef Australia S16, Ep 21</title>
+</programme>
+<programme start="20260505010000 +0000" stop="20260505013000 +0000" channel="Lifetime.mncvision">
+    <title>Rachael Ray&#039;s Holidays, Ep 3</title>
+</programme>
+<programme start="20260505013000 +0000" stop="20260505023500 +0000" channel="Lifetime.mncvision">
+    <title>Earth Sweepers, Ep 8</title>
+</programme>
+<programme start="20260505023500 +0000" stop="20260505042000 +0000" channel="Lifetime.mncvision">
+    <title>The Killer I Picked Up</title>
+</programme>
+<programme start="20260505042000 +0000" stop="20260505060000 +0000" channel="Lifetime.mncvision">
+    <title>Taken In Plain Sight</title>
+</programme>
+<programme start="20260505060000 +0000" stop="20260505070000 +0000" channel="Lifetime.mncvision">
+    <title>Ppang Car Road S2, Ep 2</title>
+</programme>
+<programme start="20260505070000 +0000" stop="20260505080000 +0000" channel="Lifetime.mncvision">
+    <title>Hit-And-Miss Tour S1, Ep 25</title>
+</programme>
+<programme start="20260505080000 +0000" stop="20260505090000 +0000" channel="Lifetime.mncvision">
+    <title>Zombie House Flipping S6, Ep 91</title>
+</programme>
+<programme start="20260505090000 +0000" stop="20260505100000 +0000" channel="Lifetime.mncvision">
+    <title>MasterChef Australia S16, Ep 22</title>
+</programme>
+<programme start="20260505100000 +0000" stop="20260505103000 +0000" channel="Lifetime.mncvision">
+    <title>Jason&#039;s Table: Dishes, Ep 6</title>
+</programme>
+<programme start="20260505103000 +0000" stop="20260505110000 +0000" channel="Lifetime.mncvision">
+    <title>Jake Makes It Easy S1, Ep 6</title>
+</programme>
+<programme start="20260505110000 +0000" stop="20260505113000 +0000" channel="Lifetime.mncvision">
+    <title>Rachael Ray In Tuscany, Ep 3</title>
+</programme>
+<programme start="20260505113000 +0000" stop="20260505123000 +0000" channel="Lifetime.mncvision">
+    <title>Zombie House Flipping S5, Ep 77</title>
+</programme>
+<programme start="20260505123000 +0000" stop="20260505130000 +0000" channel="Lifetime.mncvision">
+    <title>Meals In Minutes S2, Ep 45</title>
+</programme>
+<programme start="20260505130000 +0000" stop="20260505140000 +0000" channel="Lifetime.mncvision">
+    <title>Hit-And-Miss Tour S1, Ep 24</title>
+</programme>
+<programme start="20260505140000 +0000" stop="20260505153500 +0000" channel="Lifetime.mncvision">
+    <title>Lonely Crime Fanatic</title>
+</programme>
+<programme start="20260505153500 +0000" stop="20260505163500 +0000" channel="Lifetime.mncvision">
+    <title>Zombie House Flipping S5, Ep 77</title>
+</programme>
+<programme start="20260505163500 +0000" stop="20260504170500 +0000" channel="Lifetime.mncvision">
+    <title>Meals In Minutes S2, Ep 45</title>
+</programme>
 <programme start="20260504172500 +0000" stop="20260504182000 +0000" channel="Love Nature.mncvision">
     <title>13 Hours To Survive S1, Ep 1</title>
 </programme>
@@ -5741,7 +5815,69 @@ Error: Unable to fetch data. HTTP Status Code: 500
 <programme start="20260505163500 +0000" stop="20260504170500 +0000" channel="Love Nature HD.mncvision">
     <title>Extreme Africa S1, Ep 6</title>
 </programme>
-Error: Unable to fetch data. HTTP Status Code: 500
+<programme start="20260504170500 +0000" stop="20260504174500 +0000" channel="MDTV.mncvision">
+    <title>Customs Protection</title>
+</programme>
+<programme start="20260504174500 +0000" stop="20260504190000 +0000" channel="MDTV.mncvision">
+    <title>The Best Of Ini Talkshow</title>
+</programme>
+<programme start="20260504190000 +0000" stop="20260504200000 +0000" channel="MDTV.mncvision">
+    <title>Keajaiban Dunia</title>
+</programme>
+<programme start="20260504200000 +0000" stop="20260504210000 +0000" channel="MDTV.mncvision">
+    <title>Di Balik Mitos</title>
+</programme>
+<programme start="20260504210000 +0000" stop="20260504230000 +0000" channel="MDTV.mncvision">
+    <title>Top Spot</title>
+</programme>
+<programme start="20260504230000 +0000" stop="20260504235000 +0000" channel="MDTV.mncvision">
+    <title>Menjemput Berkah</title>
+</programme>
+<programme start="20260504235000 +0000" stop="20260505010500 +0000" channel="MDTV.mncvision">
+    <title>AADD: Ada Apa Dengan Dunia</title>
+</programme>
+<programme start="20260505010500 +0000" stop="20260505020000 +0000" channel="MDTV.mncvision">
+    <title>Fakta +62</title>
+</programme>
+<programme start="20260505020000 +0000" stop="20260505030000 +0000" channel="MDTV.mncvision">
+    <title>SensasiHot</title>
+</programme>
+<programme start="20260505030000 +0000" stop="20260505044000 +0000" channel="MDTV.mncvision">
+    <title>Terlanjur Indah</title>
+</programme>
+<programme start="20260505044000 +0000" stop="20260505060000 +0000" channel="MDTV.mncvision">
+    <title>Cinta Fitri S7</title>
+</programme>
+<programme start="20260505060000 +0000" stop="20260505074500 +0000" channel="MDTV.mncvision">
+    <title>Makan Enak</title>
+</programme>
+<programme start="20260505074500 +0000" stop="20260505090500 +0000" channel="MDTV.mncvision">
+    <title>Masak Gesss!!!</title>
+</programme>
+<programme start="20260505090500 +0000" stop="20260505093500 +0000" channel="MDTV.mncvision">
+    <title>Adit Sopo Jarwo</title>
+</programme>
+<programme start="20260505093500 +0000" stop="20260505103500 +0000" channel="MDTV.mncvision">
+    <title>SensasiSeleb</title>
+</programme>
+<programme start="20260505103500 +0000" stop="20260505122500 +0000" channel="MDTV.mncvision">
+    <title>Esmeralda</title>
+</programme>
+<programme start="20260505122500 +0000" stop="20260505132000 +0000" channel="MDTV.mncvision">
+    <title>Istri Paruh Waktu</title>
+</programme>
+<programme start="20260505132000 +0000" stop="20260505141500 +0000" channel="MDTV.mncvision">
+    <title>Keluarga Yang Tak Dirindukan</title>
+</programme>
+<programme start="20260505141500 +0000" stop="20260505151000 +0000" channel="MDTV.mncvision">
+    <title>Hot Drama</title>
+</programme>
+<programme start="20260505151000 +0000" stop="20260505161000 +0000" channel="MDTV.mncvision">
+    <title>Jatanras</title>
+</programme>
+<programme start="20260505161000 +0000" stop="20260505164000 +0000" channel="MDTV.mncvision">
+    <title>86</title>
+</programme>
 <programme start="20260504170000 +0000" stop="20260504170500 +0000" channel="Metro TV.mncvision">
     <title>Metro TV</title>
 </programme>
@@ -5928,7 +6064,10 @@ Error: Unable to fetch data. HTTP Status Code: 500
 <programme start="20260505070000 +0000" stop="20260505090000 +0000" channel="MNCTV.mncvision">
     <title>Upin &amp; Ipin</title>
 </programme>
-<programme start="20260505090000 +0000" stop="20260505120000 +0000" channel="MNCTV.mncvision">
+<programme start="20260505090000 +0000" stop="20260505103000 +0000" channel="MNCTV.mncvision">
+    <title>Upin &amp; Ipin</title>
+</programme>
+<programme start="20260505103000 +0000" stop="20260505120000 +0000" channel="MNCTV.mncvision">
     <title>Upin &amp; Ipin</title>
 </programme>
 <programme start="20260505120000 +0000" stop="20260505130000 +0000" channel="MNCTV.mncvision">
@@ -5976,7 +6115,10 @@ Error: Unable to fetch data. HTTP Status Code: 500
 <programme start="20260505070000 +0000" stop="20260505090000 +0000" channel="MNCTV HD.mncvision">
     <title>Upin &amp; Ipin</title>
 </programme>
-<programme start="20260505090000 +0000" stop="20260505120000 +0000" channel="MNCTV HD.mncvision">
+<programme start="20260505090000 +0000" stop="20260505103000 +0000" channel="MNCTV HD.mncvision">
+    <title>Upin &amp; Ipin</title>
+</programme>
+<programme start="20260505103000 +0000" stop="20260505120000 +0000" channel="MNCTV HD.mncvision">
     <title>Upin &amp; Ipin</title>
 </programme>
 <programme start="20260505120000 +0000" stop="20260505130000 +0000" channel="MNCTV HD.mncvision">
@@ -7693,7 +7835,7 @@ Error: Unable to fetch data. HTTP Status Code: 500
     <title>Below Deck Mediterranean, Ep 18</title>
 </programme>
 <programme start="20260504170800 +0000" stop="20260504184000 +0000" channel="SCTV.mncvision">
-    <title>FTV Utama</title>
+    <title>Cinta Seempuk Donat</title>
 </programme>
 <programme start="20260504184000 +0000" stop="20260504190900 +0000" channel="SCTV.mncvision">
     <title>Solusi</title>
@@ -7750,10 +7892,10 @@ Error: Unable to fetch data. HTTP Status Code: 500
     <title>Jejak Duka Diandra</title>
 </programme>
 <programme start="20260505160000 +0000" stop="20260505163000 +0000" channel="SCTV.mncvision">
-    <title>FTV Primetime</title>
+    <title>Jodoh Gue Si Cipluk</title>
 </programme>
 <programme start="20260504170800 +0000" stop="20260504184000 +0000" channel="SCTV HD.mncvision">
-    <title>FTV Utama</title>
+    <title>Cinta Seempuk Donat</title>
 </programme>
 <programme start="20260504184000 +0000" stop="20260504190900 +0000" channel="SCTV HD.mncvision">
     <title>Solusi</title>
@@ -7810,7 +7952,7 @@ Error: Unable to fetch data. HTTP Status Code: 500
     <title>Jejak Duka Diandra</title>
 </programme>
 <programme start="20260505160000 +0000" stop="20260505163000 +0000" channel="SCTV HD.mncvision">
-    <title>FTV Primetime</title>
+    <title>Jodoh Gue Si Cipluk</title>
 </programme>
 <programme start="20260504170000 +0000" stop="20260504180000 +0000" channel="Sindo News TV.mncvision">
     <title>iNews Sore</title>
@@ -7884,8 +8026,132 @@ Error: Unable to fetch data. HTTP Status Code: 500
 <programme start="20260505163000 +0000" stop="20260504170000 +0000" channel="Sindo News TV.mncvision">
     <title>OMG</title>
 </programme>
-Error: Unable to fetch data. HTTP Status Code: 500
-Error: Unable to fetch data. HTTP Status Code: 500
+<programme start="20260504170000 +0000" stop="20260504180000 +0000" channel="Sindo News TV HD.mncvision">
+    <title>iNews Sore</title>
+</programme>
+<programme start="20260504180000 +0000" stop="20260504193000 +0000" channel="Sindo News TV HD.mncvision">
+    <title>SINDO Breaking News</title>
+</programme>
+<programme start="20260504193000 +0000" stop="20260504200000 +0000" channel="Sindo News TV HD.mncvision">
+    <title>iNews Sport</title>
+</programme>
+<programme start="20260504200000 +0000" stop="20260504210000 +0000" channel="Sindo News TV HD.mncvision">
+    <title>SINDO Prime</title>
+</programme>
+<programme start="20260504210000 +0000" stop="20260504220000 +0000" channel="Sindo News TV HD.mncvision">
+    <title>SINDO Sore</title>
+</programme>
+<programme start="20260504220000 +0000" stop="20260504230000 +0000" channel="Sindo News TV HD.mncvision">
+    <title>SINDO Malam</title>
+</programme>
+<programme start="20260504230000 +0000" stop="20260505000000 +0000" channel="Sindo News TV HD.mncvision">
+    <title>SINDO Files</title>
+</programme>
+<programme start="20260505000000 +0000" stop="20260505003000 +0000" channel="Sindo News TV HD.mncvision">
+    <title>iNews Today</title>
+</programme>
+<programme start="20260505003000 +0000" stop="20260505020000 +0000" channel="Sindo News TV HD.mncvision">
+    <title>SINDO Today</title>
+</programme>
+<programme start="20260505020000 +0000" stop="20260505030000 +0000" channel="Sindo News TV HD.mncvision">
+    <title>Special Report</title>
+</programme>
+<programme start="20260505030000 +0000" stop="20260505033000 +0000" channel="Sindo News TV HD.mncvision">
+    <title>iNews Sport Pagi</title>
+</programme>
+<programme start="20260505033000 +0000" stop="20260505050000 +0000" channel="Sindo News TV HD.mncvision">
+    <title>SINDO Siang</title>
+</programme>
+<programme start="20260505050000 +0000" stop="20260505053000 +0000" channel="Sindo News TV HD.mncvision">
+    <title>Lintas iNews Siang</title>
+</programme>
+<programme start="20260505053000 +0000" stop="20260505063000 +0000" channel="Sindo News TV HD.mncvision">
+    <title>iNews Today</title>
+</programme>
+<programme start="20260505063000 +0000" stop="20260505070000 +0000" channel="Sindo News TV HD.mncvision">
+    <title>Seputar iNews Siang</title>
+</programme>
+<programme start="20260505070000 +0000" stop="20260505083000 +0000" channel="Sindo News TV HD.mncvision">
+    <title>iNews Siang</title>
+</programme>
+<programme start="20260505083000 +0000" stop="20260505093000 +0000" channel="Sindo News TV HD.mncvision">
+    <title>Special Report</title>
+</programme>
+<programme start="20260505093000 +0000" stop="20260505110000 +0000" channel="Sindo News TV HD.mncvision">
+    <title>SINDO Sore</title>
+</programme>
+<programme start="20260505110000 +0000" stop="20260505120000 +0000" channel="Sindo News TV HD.mncvision">
+    <title>SINDO Files</title>
+</programme>
+<programme start="20260505120000 +0000" stop="20260505133000 +0000" channel="Sindo News TV HD.mncvision">
+    <title>SINDO Prime</title>
+</programme>
+<programme start="20260505133000 +0000" stop="20260505143000 +0000" channel="Sindo News TV HD.mncvision">
+    <title>SINDO Malam</title>
+</programme>
+<programme start="20260505143000 +0000" stop="20260505153000 +0000" channel="Sindo News TV HD.mncvision">
+    <title>Inside Story</title>
+</programme>
+<programme start="20260505153000 +0000" stop="20260505163000 +0000" channel="Sindo News TV HD.mncvision">
+    <title>SINDO Files</title>
+</programme>
+<programme start="20260505163000 +0000" stop="20260504170000 +0000" channel="Sindo News TV HD.mncvision">
+    <title>OMG</title>
+</programme>
+<programme start="20260504183000 +0000" stop="20260504203000 +0000" channel="Soccer Channel.mncvision">
+    <title>Road To AFF 2026: IDN Vs LAO</title>
+</programme>
+<programme start="20260504203000 +0000" stop="20260504210000 +0000" channel="Soccer Channel.mncvision">
+    <title>The Ultimate Goals</title>
+</programme>
+<programme start="20260504210000 +0000" stop="20260504230000 +0000" channel="Soccer Channel.mncvision">
+    <title>Timnas Special U19: IDN Vs THA</title>
+</programme>
+<programme start="20260504230000 +0000" stop="20260505010000 +0000" channel="Soccer Channel.mncvision">
+    <title>Road To AFF 2026: TLS Vs SIN</title>
+</programme>
+<programme start="20260505010000 +0000" stop="20260505013000 +0000" channel="Soccer Channel.mncvision">
+    <title>Top Goals</title>
+</programme>
+<programme start="20260505013000 +0000" stop="20260505015500 +0000" channel="Soccer Channel.mncvision">
+    <title>The Ultimate Goals</title>
+</programme>
+<programme start="20260505015500 +0000" stop="20260505040000 +0000" channel="Soccer Channel.mncvision">
+    <title>Women Pro Futsal League (L)</title>
+</programme>
+<programme start="20260505040000 +0000" stop="20260505042500 +0000" channel="Soccer Channel.mncvision">
+    <title>Planet Football</title>
+</programme>
+<programme start="20260505042500 +0000" stop="20260505063000 +0000" channel="Soccer Channel.mncvision">
+    <title>Women Pro Futsal League (L)</title>
+</programme>
+<programme start="20260505063000 +0000" stop="20260505065500 +0000" channel="Soccer Channel.mncvision">
+    <title>World Classic Soccer</title>
+</programme>
+<programme start="20260505065500 +0000" stop="20260505090000 +0000" channel="Soccer Channel.mncvision">
+    <title>Women Pro Futsal League (L)</title>
+</programme>
+<programme start="20260505090000 +0000" stop="20260505092500 +0000" channel="Soccer Channel.mncvision">
+    <title>Top Goals</title>
+</programme>
+<programme start="20260505092500 +0000" stop="20260505113000 +0000" channel="Soccer Channel.mncvision">
+    <title>Women Pro Futsal League (L)</title>
+</programme>
+<programme start="20260505113000 +0000" stop="20260505133000 +0000" channel="Soccer Channel.mncvision">
+    <title>Timnas Special U19: IDN Vs THA</title>
+</programme>
+<programme start="20260505133000 +0000" stop="20260505140000 +0000" channel="Soccer Channel.mncvision">
+    <title>Top Goals</title>
+</programme>
+<programme start="20260505140000 +0000" stop="20260505143000 +0000" channel="Soccer Channel.mncvision">
+    <title>The Ultimate Goals</title>
+</programme>
+<programme start="20260505143000 +0000" stop="20260505163000 +0000" channel="Soccer Channel.mncvision">
+    <title>Bundesliga 2025/26: STP Vs BVB</title>
+</programme>
+<programme start="20260505163000 +0000" stop="20260504170000 +0000" channel="Soccer Channel.mncvision">
+    <title>ACL Elite: MZE Vs SHA</title>
+</programme>
 <programme start="20260504183000 +0000" stop="20260504203000 +0000" channel="Soccer Channel HD.mncvision">
     <title>Road To AFF 2026: IDN Vs LAO</title>
 </programme>
@@ -7940,7 +8206,63 @@ Error: Unable to fetch data. HTTP Status Code: 500
 <programme start="20260505163000 +0000" stop="20260504170000 +0000" channel="Soccer Channel HD.mncvision">
     <title>ACL Elite: MZE Vs SHA</title>
 </programme>
-Error: Unable to fetch data. HTTP Status Code: 500
+<programme start="20260504173000 +0000" stop="20260504200000 +0000" channel="Sportstars.mncvision">
+    <title>Best Of Badminton</title>
+</programme>
+<programme start="20260504200000 +0000" stop="20260504203000 +0000" channel="Sportstars.mncvision">
+    <title>Sports Today</title>
+</programme>
+<programme start="20260504203000 +0000" stop="20260504210000 +0000" channel="Sportstars.mncvision">
+    <title>iNews Sport</title>
+</programme>
+<programme start="20260504210000 +0000" stop="20260504230000 +0000" channel="Sportstars.mncvision">
+    <title>Padel Hexagon Cup</title>
+</programme>
+<programme start="20260504230000 +0000" stop="20260504233000 +0000" channel="Sportstars.mncvision">
+    <title>Golden Fit</title>
+</programme>
+<programme start="20260504233000 +0000" stop="20260505000000 +0000" channel="Sportstars.mncvision">
+    <title>Bloopers</title>
+</programme>
+<programme start="20260505000000 +0000" stop="20260505003000 +0000" channel="Sportstars.mncvision">
+    <title>Adrenaline Rush</title>
+</programme>
+<programme start="20260505003000 +0000" stop="20260505023000 +0000" channel="Sportstars.mncvision">
+    <title>V-League 2025-2026: Men</title>
+</programme>
+<programme start="20260505023000 +0000" stop="20260505043000 +0000" channel="Sportstars.mncvision">
+    <title>V-League 2025-2026: Women</title>
+</programme>
+<programme start="20260505043000 +0000" stop="20260505050000 +0000" channel="Sportstars.mncvision">
+    <title>Sports Today</title>
+</programme>
+<programme start="20260505050000 +0000" stop="20260505053000 +0000" channel="Sportstars.mncvision">
+    <title>iNews Sport</title>
+</programme>
+<programme start="20260505053000 +0000" stop="20260505080000 +0000" channel="Sportstars.mncvision">
+    <title>Best Of Badminton</title>
+</programme>
+<programme start="20260505080000 +0000" stop="20260505083000 +0000" channel="Sportstars.mncvision">
+    <title>Bloopers</title>
+</programme>
+<programme start="20260505083000 +0000" stop="20260505090000 +0000" channel="Sportstars.mncvision">
+    <title>Adrenaline Rush</title>
+</programme>
+<programme start="20260505090000 +0000" stop="20260505110000 +0000" channel="Sportstars.mncvision">
+    <title>Proliga</title>
+</programme>
+<programme start="20260505110000 +0000" stop="20260505130000 +0000" channel="Sportstars.mncvision">
+    <title>Padel Hexagon Cup</title>
+</programme>
+<programme start="20260505130000 +0000" stop="20260505133000 +0000" channel="Sportstars.mncvision">
+    <title>Sports Today</title>
+</programme>
+<programme start="20260505133000 +0000" stop="20260505153000 +0000" channel="Sportstars.mncvision">
+    <title>V-League 2025-2026: Women</title>
+</programme>
+<programme start="20260505153000 +0000" stop="20260505160000 +0000" channel="Sportstars.mncvision">
+    <title>V-League 2025-2026: Men</title>
+</programme>
 <programme start="20260504170000 +0000" stop="20260504190000 +0000" channel="Sportstars 2.mncvision">
     <title>V-League</title>
 </programme>
@@ -8031,7 +8353,48 @@ Error: Unable to fetch data. HTTP Status Code: 500
 <programme start="20260505153000 +0000" stop="20260505160000 +0000" channel="Sportstars 2 HD.mncvision">
     <title>AFC U17 Asian: IDN Vs CHN (L)</title>
 </programme>
-Error: Unable to fetch data. HTTP Status Code: 500
+<programme start="20260504170000 +0000" stop="20260504190000 +0000" channel="Sportstars 3.mncvision">
+    <title>BRI Liga 1</title>
+</programme>
+<programme start="20260504190000 +0000" stop="20260504210000 +0000" channel="Sportstars 3.mncvision">
+    <title>V-League Women</title>
+</programme>
+<programme start="20260504210000 +0000" stop="20260504230000 +0000" channel="Sportstars 3.mncvision">
+    <title>Bundesliga</title>
+</programme>
+<programme start="20260504230000 +0000" stop="20260505010000 +0000" channel="Sportstars 3.mncvision">
+    <title>Timnas Special</title>
+</programme>
+<programme start="20260505010000 +0000" stop="20260505030000 +0000" channel="Sportstars 3.mncvision">
+    <title>V-League Women</title>
+</programme>
+<programme start="20260505030000 +0000" stop="20260505050000 +0000" channel="Sportstars 3.mncvision">
+    <title>BRI Liga 1</title>
+</programme>
+<programme start="20260505050000 +0000" stop="20260505070000 +0000" channel="Sportstars 3.mncvision">
+    <title>Bundesliga</title>
+</programme>
+<programme start="20260505070000 +0000" stop="20260505090000 +0000" channel="Sportstars 3.mncvision">
+    <title>Timnas Special</title>
+</programme>
+<programme start="20260505090000 +0000" stop="20260505110000 +0000" channel="Sportstars 3.mncvision">
+    <title>V-League Women</title>
+</programme>
+<programme start="20260505110000 +0000" stop="20260505130000 +0000" channel="Sportstars 3.mncvision">
+    <title>BRI Liga 1</title>
+</programme>
+<programme start="20260505130000 +0000" stop="20260505150000 +0000" channel="Sportstars 3.mncvision">
+    <title>Bundesliga</title>
+</programme>
+<programme start="20260505150000 +0000" stop="20260505153000 +0000" channel="Sportstars 3.mncvision">
+    <title>Top Goals</title>
+</programme>
+<programme start="20260505153000 +0000" stop="20260505160000 +0000" channel="Sportstars 3.mncvision">
+    <title>Planet Football</title>
+</programme>
+<programme start="20260505160000 +0000" stop="20260505163000 +0000" channel="Sportstars 3.mncvision">
+    <title>AFC U17 Asian: JPN Vs QAT (L)</title>
+</programme>
 <programme start="20260504170000 +0000" stop="20260504190000 +0000" channel="sportstars 3 HD.mncvision">
     <title>BRI Liga 1</title>
 </programme>
@@ -8542,7 +8905,111 @@ Error: Unable to fetch data. HTTP Status Code: 500
 <programme start="20260505165100 +0000" stop="20260504172100 +0000" channel="Superrix.mncvision">
     <title>Cut, Color, Murder</title>
 </programme>
-Error: Unable to fetch data. HTTP Status Code: 500
+<programme start="20260504170100 +0000" stop="20260504172100 +0000" channel="Superrix HD.mncvision">
+    <title>73 Questions, Camila Cabello</title>
+</programme>
+<programme start="20260504172100 +0000" stop="20260504174200 +0000" channel="Superrix HD.mncvision">
+    <title>73 Questions, Camila Cabello</title>
+</programme>
+<programme start="20260504174200 +0000" stop="20260504174800 +0000" channel="Superrix HD.mncvision">
+    <title>24 Hours With Robert Pattinson</title>
+</programme>
+<programme start="20260504174800 +0000" stop="20260504192200 +0000" channel="Superrix HD.mncvision">
+    <title>Something Good Coming</title>
+</programme>
+<programme start="20260504192200 +0000" stop="20260504192900 +0000" channel="Superrix HD.mncvision">
+    <title>73 Questions With Donatella V.</title>
+</programme>
+<programme start="20260504192900 +0000" stop="20260504193600 +0000" channel="Superrix HD.mncvision">
+    <title>73 Questions, Chrissy Teigen</title>
+</programme>
+<programme start="20260504193600 +0000" stop="20260504213100 +0000" channel="Superrix HD.mncvision">
+    <title>Whispering Shadows: Watcher</title>
+</programme>
+<programme start="20260504213100 +0000" stop="20260504214100 +0000" channel="Superrix HD.mncvision">
+    <title>73 Questions With Bella Hadid</title>
+</programme>
+<programme start="20260504214100 +0000" stop="20260504230700 +0000" channel="Superrix HD.mncvision">
+    <title>Show Dogs</title>
+</programme>
+<programme start="20260504230700 +0000" stop="20260505010800 +0000" channel="Superrix HD.mncvision">
+    <title>A Most Violent Year</title>
+</programme>
+<programme start="20260505010800 +0000" stop="20260505012000 +0000" channel="Superrix HD.mncvision">
+    <title>73 Questions With Awkwafina</title>
+</programme>
+<programme start="20260505012000 +0000" stop="20260505013000 +0000" channel="Superrix HD.mncvision">
+    <title>73 Questions With Bella Hadid</title>
+</programme>
+<programme start="20260505013000 +0000" stop="20260505031800 +0000" channel="Superrix HD.mncvision">
+    <title>Rebel Force: The Invasion</title>
+</programme>
+<programme start="20260505031800 +0000" stop="20260505032700 +0000" channel="Superrix HD.mncvision">
+    <title>73 Questions With Gigi Hadid</title>
+</programme>
+<programme start="20260505032700 +0000" stop="20260505033600 +0000" channel="Superrix HD.mncvision">
+    <title>73 Questions With Gigi Hadid</title>
+</programme>
+<programme start="20260505033600 +0000" stop="20260505034400 +0000" channel="Superrix HD.mncvision">
+    <title>73 Questions With Deepika P.</title>
+</programme>
+<programme start="20260505034400 +0000" stop="20260505052500 +0000" channel="Superrix HD.mncvision">
+    <title>Flight 404</title>
+</programme>
+<programme start="20260505052500 +0000" stop="20260505053300 +0000" channel="Superrix HD.mncvision">
+    <title>73 Questions With Donatella V.</title>
+</programme>
+<programme start="20260505053300 +0000" stop="20260505054300 +0000" channel="Superrix HD.mncvision">
+    <title>24 Hours With Winnie Harlow</title>
+</programme>
+<programme start="20260505054300 +0000" stop="20260505073800 +0000" channel="Superrix HD.mncvision">
+    <title>Whispering Shadows: Watcher</title>
+</programme>
+<programme start="20260505073800 +0000" stop="20260505074500 +0000" channel="Superrix HD.mncvision">
+    <title>73 Questions, Chrissy Teigen</title>
+</programme>
+<programme start="20260505074500 +0000" stop="20260505090000 +0000" channel="Superrix HD.mncvision">
+    <title>Amazing Love</title>
+</programme>
+<programme start="20260505090000 +0000" stop="20260505103900 +0000" channel="Superrix HD.mncvision">
+    <title>God&#039;s Country</title>
+</programme>
+<programme start="20260505103900 +0000" stop="20260505104700 +0000" channel="Superrix HD.mncvision">
+    <title>73 Questions With Amy Adams</title>
+</programme>
+<programme start="20260505104700 +0000" stop="20260505105400 +0000" channel="Superrix HD.mncvision">
+    <title>73 Questions With Amy Adams</title>
+</programme>
+<programme start="20260505105400 +0000" stop="20260505124200 +0000" channel="Superrix HD.mncvision">
+    <title>Rebel Force: The Invasion</title>
+</programme>
+<programme start="20260505124200 +0000" stop="20260505125000 +0000" channel="Superrix HD.mncvision">
+    <title>73 Questions With Deepika P.</title>
+</programme>
+<programme start="20260505125000 +0000" stop="20260505125700 +0000" channel="Superrix HD.mncvision">
+    <title>73 Questions With Amy Adams</title>
+</programme>
+<programme start="20260505125700 +0000" stop="20260505130600 +0000" channel="Superrix HD.mncvision">
+    <title>24 Hours With Rapper YG</title>
+</programme>
+<programme start="20260505130600 +0000" stop="20260505143900 +0000" channel="Superrix HD.mncvision">
+    <title>Masterminds</title>
+</programme>
+<programme start="20260505143900 +0000" stop="20260505144900 +0000" channel="Superrix HD.mncvision">
+    <title>24 Hours With Winnie Harlow</title>
+</programme>
+<programme start="20260505144900 +0000" stop="20260505145900 +0000" channel="Superrix HD.mncvision">
+    <title>73 Questions, Ashley Graham</title>
+</programme>
+<programme start="20260505145900 +0000" stop="20260505164200 +0000" channel="Superrix HD.mncvision">
+    <title>Whispering Shadows: Watcher</title>
+</programme>
+<programme start="20260505164200 +0000" stop="20260505165100 +0000" channel="Superrix HD.mncvision">
+    <title>73 Questions, Cindy Crawford</title>
+</programme>
+<programme start="20260505165100 +0000" stop="20260504172100 +0000" channel="Superrix HD.mncvision">
+    <title>Cut, Color, Murder</title>
+</programme>
 <programme start="20260504170000 +0000" stop="20260504173000 +0000" channel="Tawaf TV.mncvision">
     <title>DMI TV</title>
 </programme>

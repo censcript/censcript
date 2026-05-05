@@ -2554,97 +2554,10 @@
 <programme start="20260505211500 +0000" stop="20260505220500 +0000" channel="Sky Showcase HD.skyde">
     <title>The Miniature Wife</title>
 </programme>
-<programme start="20260504223000 +0000" stop="20260504230000 +0000" channel="Sky Sport Austria 1 HD.skyde">
-    <title>Fußball: Querfeld. Eine Sky Sport Austria Dokumentation</title>
-</programme>
-<programme start="20260504230000 +0000" stop="20260505010000 +0000" channel="Sky Sport Austria 1 HD.skyde">
-    <title>Admiral BL: SCR Altach - RZ Pellets WAC, 30. Runde</title>
-</programme>
-<programme start="20260505010000 +0000" stop="20260505030000 +0000" channel="Sky Sport Austria 1 HD.skyde">
-    <title>Admiral BL: LASK - SK Rapid, 30. Runde</title>
-</programme>
-<programme start="20260505030000 +0000" stop="20260505033000 +0000" channel="Sky Sport Austria 1 HD.skyde">
-    <title>Fußball: Heimspiel - Wiener Viktoria</title>
-</programme>
-<programme start="20260505033000 +0000" stop="20260505040000 +0000" channel="Sky Sport Austria 1 HD.skyde">
-    <title>Fußball: Heimspiel - Union Gurten</title>
-</programme>
-<programme start="20260505040000 +0000" stop="20260505043000 +0000" channel="Sky Sport Austria 1 HD.skyde">
-    <title>Fußball: Heimspiel - Austria Salzburg</title>
-</programme>
-<programme start="20260505043000 +0000" stop="20260505044500 +0000" channel="Sky Sport Austria 1 HD.skyde">
-    <title>UEFA CL: Highlights XXL: PSG - FCB, Halbfinale Hinspiel</title>
-</programme>
-<programme start="20260505044500 +0000" stop="20260505051500 +0000" channel="Sky Sport Austria 1 HD.skyde">
-    <title>UEFA CL: Magazin</title>
-</programme>
-<programme start="20260505051500 +0000" stop="20260505054500 +0000" channel="Sky Sport Austria 1 HD.skyde">
-    <title>RIESENrad: Sportgrößen im Waggon 28 (Gast: Johannes Aigner)</title>
-</programme>
-<programme start="20260505054500 +0000" stop="20260505060000 +0000" channel="Sky Sport Austria 1 HD.skyde">
-    <title>UEFA CL: Highlights XXL: PSG - FCB, Halbfinale Hinspiel</title>
-</programme>
-<programme start="20260505060000 +0000" stop="20260505063000 +0000" channel="Sky Sport Austria 1 HD.skyde">
-    <title>Admiral BL: ASAT Kompakt, 30. Runde</title>
-</programme>
-<programme start="20260505063000 +0000" stop="20260505083000 +0000" channel="Sky Sport Austria 1 HD.skyde">
-    <title>UEFA CL: Paris Saint-Germain - FC Bayern München, Halbfinale Hinspiel</title>
-</programme>
-<programme start="20260505083000 +0000" stop="20260505090000 +0000" channel="Sky Sport Austria 1 HD.skyde">
-    <title>Admiral BL: 90in30: RBS - STU, 30. Runde</title>
-</programme>
-<programme start="20260505090000 +0000" stop="20260505093000 +0000" channel="Sky Sport Austria 1 HD.skyde">
-    <title>UEFA CL: Magazin</title>
-</programme>
-<programme start="20260505093000 +0000" stop="20260505113000 +0000" channel="Sky Sport Austria 1 HD.skyde">
-    <title>UEFA CL: Paris Saint-Germain - FC Bayern München, Halbfinale Hinspiel</title>
-</programme>
-<programme start="20260505113000 +0000" stop="20260505120000 +0000" channel="Sky Sport Austria 1 HD.skyde">
-    <title>Die UEFA CL am Dienstag: Analyse</title>
-</programme>
-<programme start="20260505120000 +0000" stop="20260505130000 +0000" channel="Sky Sport Austria 1 HD.skyde">
-    <title>UEFA EL: UEL &amp; UECL Magazin</title>
-</programme>
-<programme start="20260505130000 +0000" stop="20260505131500 +0000" channel="Sky Sport Austria 1 HD.skyde">
-    <title>UEFA CL: Highlights XXL: PSG - FCB, Halbfinale Hinspiel</title>
-</programme>
-<programme start="20260505131500 +0000" stop="20260505134500 +0000" channel="Sky Sport Austria 1 HD.skyde">
-    <title>UEFA CL: Magazin</title>
-</programme>
-<programme start="20260505134500 +0000" stop="20260505154500 +0000" channel="Sky Sport Austria 1 HD.skyde">
-    <title>UEFA CL: Paris Saint-Germain - FC Bayern München, Halbfinale Hinspiel</title>
-</programme>
-<programme start="20260505154500 +0000" stop="20260505161500 +0000" channel="Sky Sport Austria 1 HD.skyde">
-    <title>Die UEFA CL am Dienstag: Analyse</title>
-</programme>
-<programme start="20260505161500 +0000" stop="20260505171500 +0000" channel="Sky Sport Austria 1 HD.skyde">
-    <title>UEFA EL: UEL &amp; UECL Magazin</title>
-</programme>
-<programme start="20260505171500 +0000" stop="20260505173000 +0000" channel="Sky Sport Austria 1 HD.skyde">
-    <title>UEFA CL: Highlights XXL: PSG - FCB, Halbfinale Hinspiel</title>
-</programme>
-<programme start="20260505173000 +0000" stop="20260505180000 +0000" channel="Sky Sport Austria 1 HD.skyde">
-    <title>UEFA CL: Magazin</title>
-</programme>
-<programme start="20260505180000 +0000" stop="20260505185000 +0000" channel="Sky Sport Austria 1 HD.skyde">
-    <title>Live Die UEFA CL am Dienstag: Vorbericht</title>
-</programme>
-<programme start="20260505185000 +0000" stop="20260505210000 +0000" channel="Sky Sport Austria 1 HD.skyde">
-    <title>Live UEFA CL: FC Arsenal - Atletico Madrid, Halbfinale Rückspiel</title>
-</programme>
-<programme start="20260505210000 +0000" stop="20260505213000 +0000" channel="Sky Sport Austria 1 HD.skyde">
-    <title>Live Die UEFA CL am Dienstag: Analyse</title>
-</programme>
-<programme start="20260505213000 +0000" stop="20260505214500 +0000" channel="Sky Sport Austria 1 HD.skyde">
-    <title>UEFA CL: Highlights XXL: ARS - ATM, Halbfinale Rückspiel</title>
-</programme>
-<programme start="20260505214500 +0000" stop="20260505220000 +0000" channel="Sky Sport Austria 1 HD.skyde">
-    <title>UEFA CL: Highlights XXL: ARS - ATM, Halbfinale Rückspiel</title>
-</programme>
 <programme start="20260505084000 +0000" stop="20260505090000 +0000" channel="Sky Sport Austria 2 HD.skyde">
     <title>Es folgt: LIVE WTA Tour</title>
 </programme>
-<programme start="20260505090000 +0000" stop="20260505170000 +0000" channel="Sky Sport Austria 2 HD.skyde">
+<programme start="20260505090000 +0000" stop="20260505200000 +0000" channel="Sky Sport Austria 2 HD.skyde">
     <title>Live WTA 1000: Internazionali BNL d&#039;Italia in Rom (Italien), 1. Tag</title>
 </programme>
 <programme start="20260505090000 +0000" stop="20260505090500 +0000" channel="Sky Sport Austria 4 HD.skyde">
@@ -3217,6 +3130,12 @@
 <programme start="20260505130000 +0000" stop="20260505160000 +0000" channel="Sky Sport News HD.skyde">
     <title>Live Sky Sport News: Der Nachmittag</title>
 </programme>
+<programme start="20260505160000 +0000" stop="20260505161500 +0000" channel="Sky Sport News HD.skyde">
+    <title>Live Sky Sport News: Primetime</title>
+</programme>
+<programme start="20260505161500 +0000" stop="20260505163000 +0000" channel="Sky Sport News HD.skyde">
+    <title>Live Sky Sport News: So denken die Fans.... Das Tennis-Barometer</title>
+</programme>
 <programme start="20260505163000 +0000" stop="20260505183000 +0000" channel="Sky Sport News HD.skyde">
     <title>Live Sky Sport News: Primetime</title>
 </programme>
@@ -3346,13 +3265,13 @@
 <programme start="20260505213000 +0000" stop="20260505220000 +0000" channel="Sky Sport Premier League HD.skyde">
     <title>PL: 90in30: ARS - FUL, 35. Spieltag</title>
 </programme>
-<programme start="20260504223000 +0000" stop="20260505010000 +0000" channel="Sky Sport Tennis HD.skyde">
+<programme start="20260504233000 +0000" stop="20260505013000 +0000" channel="Sky Sport Tennis HD.skyde">
     <title>WTA 1000: M. Kostyuk (UKR) - M. Andreeva, Mutua Madrid Open in Madrid (ESP), Finale</title>
 </programme>
-<programme start="20260505010000 +0000" stop="20260505013000 +0000" channel="Sky Sport Tennis HD.skyde">
+<programme start="20260505013000 +0000" stop="20260505020000 +0000" channel="Sky Sport Tennis HD.skyde">
     <title>WTA 1000: Review Madrid</title>
 </programme>
-<programme start="20260505013000 +0000" stop="20260505040000 +0000" channel="Sky Sport Tennis HD.skyde">
+<programme start="20260505020000 +0000" stop="20260505040000 +0000" channel="Sky Sport Tennis HD.skyde">
     <title>ATP 1000: A. Zverev (GER) - J. Sinner (ITA), Mutua Madrid Open in Madrid (ESP), Finale</title>
 </programme>
 <programme start="20260505040000 +0000" stop="20260505050000 +0000" channel="Sky Sport Tennis HD.skyde">
@@ -3370,13 +3289,16 @@
 <programme start="20260505090000 +0000" stop="20260505170000 +0000" channel="Sky Sport Tennis HD.skyde">
     <title>Live WTA 1000: Internazionali BNL d&#039;Italia in Rom (Italien), 1. Tag</title>
 </programme>
-<programme start="20260505170000 +0000" stop="20260505193000 +0000" channel="Sky Sport Tennis HD.skyde">
+<programme start="20260505170000 +0000" stop="20260505184500 +0000" channel="Sky Sport Tennis HD.skyde">
     <title>WTA 500: E. Rybakina (KAZ) - K. Muchova (CZE), Porsche Tennis Grand Prix in Stuttgart, Finale</title>
+</programme>
+<programme start="20260505184500 +0000" stop="20260505193000 +0000" channel="Sky Sport Tennis HD.skyde">
+    <title>ATP: The Ring Master: Alexander Bublik</title>
 </programme>
 <programme start="20260505193000 +0000" stop="20260505213000 +0000" channel="Sky Sport Tennis HD.skyde">
     <title>WTA 1000: Topspiel, Internazionali BNL d&#039;Italia in Rom (Italien), 1. Tag</title>
 </programme>
-<programme start="20260505213000 +0000" stop="20260506000000 +0000" channel="Sky Sport Tennis HD.skyde">
+<programme start="20260505213000 +0000" stop="20260505233000 +0000" channel="Sky Sport Tennis HD.skyde">
     <title>WTA 1000: M. Kostyuk (UKR) - M. Andreeva, Mutua Madrid Open in Madrid (ESP), Finale</title>
 </programme>
 <programme start="20260504220000 +0000" stop="20260504223000 +0000" channel="Sky Sport Top Event HD.skyde">
@@ -3456,6 +3378,15 @@
 </programme>
 <programme start="20260505214000 +0000" stop="20260505220000 +0000" channel="Sky Sport 1 HD.skyde">
     <title>Es folgt: LIVE NBA</title>
+</programme>
+<programme start="20260504224000 +0000" stop="20260505013000 +0000" channel="Sky Sport 2 HD.skyde">
+    <title>Es folgt: ab 03:30: LIVE NBA</title>
+</programme>
+<programme start="20260505013000 +0000" stop="20260505040000 +0000" channel="Sky Sport 2 HD.skyde">
+    <title>Live NBA: Minnesota Timberwolves @ San Antonio Spurs, Conference Semifinals, Spiel 1</title>
+</programme>
+<programme start="20260505040000 +0000" stop="20260505080000 +0000" channel="Sky Sport 2 HD.skyde">
+    <title>Live NBA: Showtime - Post Show</title>
 </programme>
 <programme start="20260505090000 +0000" stop="20260505090500 +0000" channel="Sky Sport 4 HD.skyde">
     <title>Test Sport 04</title>
@@ -3928,64 +3859,64 @@
 <programme start="20260505211500 +0000" stop="20260505220000 +0000" channel="Universal TV HD.skyde">
     <title>Bones - Die Knochenjägerin</title>
 </programme>
-<programme start="20260504221000 +0000" stop="20260504223500 +0000" channel="Warner TV Comedy HD.skyde">
+<programme start="20260504221500 +0000" stop="20260504223500 +0000" channel="Warner TV Comedy HD.skyde">
     <title>2 Broke Girls</title>
 </programme>
-<programme start="20260504223500 +0000" stop="20260504225500 +0000" channel="Warner TV Comedy HD.skyde">
+<programme start="20260504223500 +0000" stop="20260504230000 +0000" channel="Warner TV Comedy HD.skyde">
     <title>2 Broke Girls</title>
 </programme>
-<programme start="20260504225500 +0000" stop="20260504232000 +0000" channel="Warner TV Comedy HD.skyde">
+<programme start="20260504230000 +0000" stop="20260504232000 +0000" channel="Warner TV Comedy HD.skyde">
     <title>2 Broke Girls</title>
 </programme>
-<programme start="20260504232000 +0000" stop="20260504234000 +0000" channel="Warner TV Comedy HD.skyde">
+<programme start="20260504232000 +0000" stop="20260504234500 +0000" channel="Warner TV Comedy HD.skyde">
     <title>American Dad</title>
 </programme>
-<programme start="20260504234000 +0000" stop="20260505000500 +0000" channel="Warner TV Comedy HD.skyde">
+<programme start="20260504234500 +0000" stop="20260505000500 +0000" channel="Warner TV Comedy HD.skyde">
     <title>American Dad</title>
 </programme>
-<programme start="20260505000500 +0000" stop="20260505002500 +0000" channel="Warner TV Comedy HD.skyde">
+<programme start="20260505000500 +0000" stop="20260505003000 +0000" channel="Warner TV Comedy HD.skyde">
     <title>American Dad</title>
 </programme>
-<programme start="20260505002500 +0000" stop="20260505004500 +0000" channel="Warner TV Comedy HD.skyde">
+<programme start="20260505003000 +0000" stop="20260505005000 +0000" channel="Warner TV Comedy HD.skyde">
     <title>American Dad</title>
 </programme>
-<programme start="20260505004500 +0000" stop="20260505005500 +0000" channel="Warner TV Comedy HD.skyde">
+<programme start="20260505005000 +0000" stop="20260505010000 +0000" channel="Warner TV Comedy HD.skyde">
     <title>Robot Chicken</title>
 </programme>
-<programme start="20260505005500 +0000" stop="20260505011000 +0000" channel="Warner TV Comedy HD.skyde">
+<programme start="20260505010000 +0000" stop="20260505011000 +0000" channel="Warner TV Comedy HD.skyde">
     <title>Robot Chicken</title>
 </programme>
-<programme start="20260505011000 +0000" stop="20260505012000 +0000" channel="Warner TV Comedy HD.skyde">
+<programme start="20260505011000 +0000" stop="20260505012500 +0000" channel="Warner TV Comedy HD.skyde">
     <title>Robot Chicken</title>
 </programme>
-<programme start="20260505012000 +0000" stop="20260505013500 +0000" channel="Warner TV Comedy HD.skyde">
+<programme start="20260505012500 +0000" stop="20260505013500 +0000" channel="Warner TV Comedy HD.skyde">
     <title>Robot Chicken</title>
 </programme>
 <programme start="20260505013500 +0000" stop="20260505015500 +0000" channel="Warner TV Comedy HD.skyde">
     <title>2 Broke Girls</title>
 </programme>
-<programme start="20260505015500 +0000" stop="20260505021500 +0000" channel="Warner TV Comedy HD.skyde">
+<programme start="20260505015500 +0000" stop="20260505022000 +0000" channel="Warner TV Comedy HD.skyde">
     <title>2 Broke Girls</title>
 </programme>
-<programme start="20260505021500 +0000" stop="20260505024000 +0000" channel="Warner TV Comedy HD.skyde">
+<programme start="20260505022000 +0000" stop="20260505024000 +0000" channel="Warner TV Comedy HD.skyde">
     <title>2 Broke Girls</title>
 </programme>
 <programme start="20260505024000 +0000" stop="20260505030000 +0000" channel="Warner TV Comedy HD.skyde">
     <title>2 Broke Girls</title>
 </programme>
-<programme start="20260505030000 +0000" stop="20260505032000 +0000" channel="Warner TV Comedy HD.skyde">
+<programme start="20260505030000 +0000" stop="20260505032500 +0000" channel="Warner TV Comedy HD.skyde">
     <title>Die Nanny</title>
 </programme>
-<programme start="20260505032000 +0000" stop="20260505034500 +0000" channel="Warner TV Comedy HD.skyde">
+<programme start="20260505032500 +0000" stop="20260505035000 +0000" channel="Warner TV Comedy HD.skyde">
     <title>Die Nanny</title>
 </programme>
-<programme start="20260505034500 +0000" stop="20260505041000 +0000" channel="Warner TV Comedy HD.skyde">
+<programme start="20260505035000 +0000" stop="20260505041000 +0000" channel="Warner TV Comedy HD.skyde">
     <title>Die Nanny</title>
 </programme>
-<programme start="20260505041000 +0000" stop="20260505043500 +0000" channel="Warner TV Comedy HD.skyde">
+<programme start="20260505041000 +0000" stop="20260505044000 +0000" channel="Warner TV Comedy HD.skyde">
     <title>Friends</title>
 </programme>
-<programme start="20260505043500 +0000" stop="20260505050000 +0000" channel="Warner TV Comedy HD.skyde">
+<programme start="20260505044000 +0000" stop="20260505050000 +0000" channel="Warner TV Comedy HD.skyde">
     <title>Friends</title>
 </programme>
 <programme start="20260505050000 +0000" stop="20260505052500 +0000" channel="Warner TV Comedy HD.skyde">
@@ -4006,70 +3937,70 @@
 <programme start="20260505070500 +0000" stop="20260505073000 +0000" channel="Warner TV Comedy HD.skyde">
     <title>Die Nanny</title>
 </programme>
-<programme start="20260505073000 +0000" stop="20260505080000 +0000" channel="Warner TV Comedy HD.skyde">
+<programme start="20260505073000 +0000" stop="20260505075500 +0000" channel="Warner TV Comedy HD.skyde">
     <title>Die Nanny</title>
 </programme>
-<programme start="20260505080000 +0000" stop="20260505082500 +0000" channel="Warner TV Comedy HD.skyde">
+<programme start="20260505075500 +0000" stop="20260505082000 +0000" channel="Warner TV Comedy HD.skyde">
     <title>The Middle</title>
 </programme>
-<programme start="20260505082500 +0000" stop="20260505085000 +0000" channel="Warner TV Comedy HD.skyde">
+<programme start="20260505082000 +0000" stop="20260505084500 +0000" channel="Warner TV Comedy HD.skyde">
     <title>The Middle</title>
 </programme>
-<programme start="20260505085000 +0000" stop="20260505091500 +0000" channel="Warner TV Comedy HD.skyde">
+<programme start="20260505084500 +0000" stop="20260505091000 +0000" channel="Warner TV Comedy HD.skyde">
     <title>The Middle</title>
 </programme>
-<programme start="20260505091500 +0000" stop="20260505094000 +0000" channel="Warner TV Comedy HD.skyde">
+<programme start="20260505091000 +0000" stop="20260505093500 +0000" channel="Warner TV Comedy HD.skyde">
     <title>The Middle</title>
 </programme>
-<programme start="20260505094000 +0000" stop="20260505100500 +0000" channel="Warner TV Comedy HD.skyde">
+<programme start="20260505093500 +0000" stop="20260505100000 +0000" channel="Warner TV Comedy HD.skyde">
     <title>The Middle</title>
 </programme>
-<programme start="20260505100500 +0000" stop="20260505103000 +0000" channel="Warner TV Comedy HD.skyde">
+<programme start="20260505100000 +0000" stop="20260505102500 +0000" channel="Warner TV Comedy HD.skyde">
     <title>The Middle</title>
 </programme>
-<programme start="20260505103000 +0000" stop="20260505105500 +0000" channel="Warner TV Comedy HD.skyde">
+<programme start="20260505102500 +0000" stop="20260505105000 +0000" channel="Warner TV Comedy HD.skyde">
     <title>The Middle</title>
 </programme>
-<programme start="20260505105500 +0000" stop="20260505112000 +0000" channel="Warner TV Comedy HD.skyde">
+<programme start="20260505105000 +0000" stop="20260505111500 +0000" channel="Warner TV Comedy HD.skyde">
     <title>The Middle</title>
 </programme>
-<programme start="20260505112000 +0000" stop="20260505114500 +0000" channel="Warner TV Comedy HD.skyde">
+<programme start="20260505111500 +0000" stop="20260505114000 +0000" channel="Warner TV Comedy HD.skyde">
     <title>King of Queens</title>
 </programme>
-<programme start="20260505114500 +0000" stop="20260505121000 +0000" channel="Warner TV Comedy HD.skyde">
+<programme start="20260505114000 +0000" stop="20260505120500 +0000" channel="Warner TV Comedy HD.skyde">
     <title>King of Queens</title>
 </programme>
-<programme start="20260505121000 +0000" stop="20260505123500 +0000" channel="Warner TV Comedy HD.skyde">
+<programme start="20260505120500 +0000" stop="20260505123000 +0000" channel="Warner TV Comedy HD.skyde">
     <title>King of Queens</title>
 </programme>
-<programme start="20260505123500 +0000" stop="20260505130000 +0000" channel="Warner TV Comedy HD.skyde">
+<programme start="20260505123000 +0000" stop="20260505125500 +0000" channel="Warner TV Comedy HD.skyde">
     <title>King of Queens</title>
 </programme>
-<programme start="20260505130000 +0000" stop="20260505132500 +0000" channel="Warner TV Comedy HD.skyde">
+<programme start="20260505125500 +0000" stop="20260505132500 +0000" channel="Warner TV Comedy HD.skyde">
     <title>King of Queens</title>
 </programme>
 <programme start="20260505132500 +0000" stop="20260505135000 +0000" channel="Warner TV Comedy HD.skyde">
     <title>King of Queens</title>
 </programme>
-<programme start="20260505135000 +0000" stop="20260505142000 +0000" channel="Warner TV Comedy HD.skyde">
+<programme start="20260505135000 +0000" stop="20260505141500 +0000" channel="Warner TV Comedy HD.skyde">
     <title>King of Queens</title>
 </programme>
-<programme start="20260505142000 +0000" stop="20260505144500 +0000" channel="Warner TV Comedy HD.skyde">
+<programme start="20260505141500 +0000" stop="20260505144000 +0000" channel="Warner TV Comedy HD.skyde">
     <title>King of Queens</title>
 </programme>
-<programme start="20260505144500 +0000" stop="20260505150500 +0000" channel="Warner TV Comedy HD.skyde">
+<programme start="20260505144000 +0000" stop="20260505150500 +0000" channel="Warner TV Comedy HD.skyde">
     <title>Two and a Half Men</title>
 </programme>
-<programme start="20260505150500 +0000" stop="20260505153000 +0000" channel="Warner TV Comedy HD.skyde">
+<programme start="20260505150500 +0000" stop="20260505152500 +0000" channel="Warner TV Comedy HD.skyde">
     <title>Two and a Half Men</title>
 </programme>
-<programme start="20260505153000 +0000" stop="20260505155500 +0000" channel="Warner TV Comedy HD.skyde">
+<programme start="20260505152500 +0000" stop="20260505155000 +0000" channel="Warner TV Comedy HD.skyde">
     <title>Two and a Half Men</title>
 </programme>
-<programme start="20260505155500 +0000" stop="20260505162000 +0000" channel="Warner TV Comedy HD.skyde">
+<programme start="20260505155000 +0000" stop="20260505161500 +0000" channel="Warner TV Comedy HD.skyde">
     <title>St. Denis Medical</title>
 </programme>
-<programme start="20260505162000 +0000" stop="20260505164500 +0000" channel="Warner TV Comedy HD.skyde">
+<programme start="20260505161500 +0000" stop="20260505164500 +0000" channel="Warner TV Comedy HD.skyde">
     <title>St. Denis Medical</title>
 </programme>
 <programme start="20260505164500 +0000" stop="20260505170500 +0000" channel="Warner TV Comedy HD.skyde">
@@ -4102,10 +4033,10 @@
 <programme start="20260505201500 +0000" stop="20260505204000 +0000" channel="Warner TV Comedy HD.skyde">
     <title>American Dad</title>
 </programme>
-<programme start="20260505204000 +0000" stop="20260505210000 +0000" channel="Warner TV Comedy HD.skyde">
+<programme start="20260505204000 +0000" stop="20260505210500 +0000" channel="Warner TV Comedy HD.skyde">
     <title>American Dad</title>
 </programme>
-<programme start="20260505210000 +0000" stop="20260505212500 +0000" channel="Warner TV Comedy HD.skyde">
+<programme start="20260505210500 +0000" stop="20260505212500 +0000" channel="Warner TV Comedy HD.skyde">
     <title>American Dad</title>
 </programme>
 <programme start="20260505212500 +0000" stop="20260505215000 +0000" channel="Warner TV Comedy HD.skyde">
@@ -4135,10 +4066,10 @@
 <programme start="20260505083500 +0000" stop="20260505105000 +0000" channel="Warner TV Film.skyde">
     <title>Der endlose Horizont</title>
 </programme>
-<programme start="20260505105000 +0000" stop="20260505141000 +0000" channel="Warner TV Film.skyde">
+<programme start="20260505105000 +0000" stop="20260505140500 +0000" channel="Warner TV Film.skyde">
     <title>Giganten</title>
 </programme>
-<programme start="20260505141000 +0000" stop="20260505160500 +0000" channel="Warner TV Film.skyde">
+<programme start="20260505140500 +0000" stop="20260505160500 +0000" channel="Warner TV Film.skyde">
     <title>Ausnahmezustand</title>
 </programme>
 <programme start="20260505160500 +0000" stop="20260505181500 +0000" channel="Warner TV Film.skyde">

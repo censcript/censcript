@@ -2743,17 +2743,14 @@
     <programme start="20260504233000 +0000" stop="20260505000000 +0000" channel="Sun TV.starhub">
         <title>Vanakkam Thamizha</title>
     </programme>
-    <programme start="20260505000000 +0000" stop="20260505010000 +0000" channel="Sun TV.starhub">
-        <title>Ramayanam</title>
-    </programme>
-    <programme start="20260505010000 +0000" stop="20260505020000 +0000" channel="Sun TV.starhub">
-        <title>Singapenne</title>
+    <programme start="20260505000000 +0000" stop="20260505020000 +0000" channel="Sun TV.starhub">
+        <title>Movie- Santhosh subramanian</title>
     </programme>
     <programme start="20260505020000 +0000" stop="20260505023000 +0000" channel="Sun TV.starhub">
         <title>News</title>
     </programme>
     <programme start="20260505023000 +0000" stop="20260505033000 +0000" channel="Sun TV.starhub">
-        <title>Ethirneehcal</title>
+        <title>Movie Contd - Santhosh subramanian</title>
     </programme>
     <programme start="20260505033000 +0000" stop="20260505040000 +0000" channel="Sun TV.starhub">
         <title>Poongodi</title>
@@ -5209,10 +5206,10 @@
     <programme start="20260504213000 +0000" stop="20260504233500 +0000" channel="SPOTV.starhub">
         <title>Q1</title>
     </programme>
-    <programme start="20260504233500 +0000" stop="20260505022000 +0000" channel="SPOTV.starhub">
+    <programme start="20260504233500 +0000" stop="20260505021000 +0000" channel="SPOTV.starhub">
         <title>Q2/Q3/ Q4</title>
     </programme>
-    <programme start="20260505022000 +0000" stop="20260505041500 +0000" channel="SPOTV.starhub">
+    <programme start="20260505021000 +0000" stop="20260505041500 +0000" channel="SPOTV.starhub">
         <title>Group Stages</title>
     </programme>
     <programme start="20260505041500 +0000" stop="20260505044500 +0000" channel="SPOTV.starhub">
@@ -5221,10 +5218,10 @@
     <programme start="20260505044500 +0000" stop="20260505063000 +0000" channel="SPOTV.starhub">
         <title>Finals</title>
     </programme>
-    <programme start="20260505063000 +0000" stop="20260505073000 +0000" channel="SPOTV.starhub">
+    <programme start="20260505063000 +0000" stop="20260505074000 +0000" channel="SPOTV.starhub">
         <title>SBK Tissot Superpole Race</title>
     </programme>
-    <programme start="20260505073000 +0000" stop="20260505103000 +0000" channel="SPOTV.starhub">
+    <programme start="20260505074000 +0000" stop="20260505103000 +0000" channel="SPOTV.starhub">
         <title>SSP/SBK Race 2</title>
     </programme>
     <programme start="20260505103000 +0000" stop="20260505113000 +0000" channel="SPOTV.starhub">
@@ -8173,7 +8170,10 @@
     <programme start="20260504233000 +0000" stop="20260505013000 +0000" channel="Asianet Movies.starhub">
         <title>Sarkar Colony</title>
     </programme>
-    <programme start="20260505013000 +0000" stop="20260505043000 +0000" channel="Asianet Movies.starhub">
+    <programme start="20260505013000 +0000" stop="20260505015000 +0000" channel="Asianet Movies.starhub">
+        <title>Filler</title>
+    </programme>
+    <programme start="20260505015000 +0000" stop="20260505043000 +0000" channel="Asianet Movies.starhub">
         <title>Grrr</title>
     </programme>
     <programme start="20260505043000 +0000" stop="20260505073000 +0000" channel="Asianet Movies.starhub">
@@ -8185,7 +8185,7 @@
     <programme start="20260505103000 +0000" stop="20260505133000 +0000" channel="Asianet Movies.starhub">
         <title>Kantara</title>
     </programme>
-    <programme start="20260505133000 +0000" stop="20260505170000 +0000" channel="Asianet Movies.starhub">
+    <programme start="20260505133000 +0000" stop="20260505164500 +0000" channel="Asianet Movies.starhub">
         <title>Hridayam</title>
     </programme>
     <programme start="20260504160000 +0000" stop="20260504170000 +0000" channel="Astro Warna HD.starhub">

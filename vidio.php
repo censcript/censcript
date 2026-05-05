@@ -160,84 +160,84 @@
     <title lang="id">Liputan 6 Pagi</title>
     <icon src="https://thumbor.prod.vidiocdn.com/nKbpXrrnwZbIGNGDEzIrS90VV4E=/287x162/filters:strip_icc():quality(70)/vidio-media-production/uploads/livestreaming/schedule/thumbnail/5056357/f596bb.jpg"/>
   </programme>
-  <programme channel="204" start="20260504230000 +0000" stop="20260505000000 +0000">
+  <programme channel="204" start="20260504230000 +0000" stop="20260505000800 +0000">
     <title lang="id">Hot Shot</title>
     <icon src="https://thumbor.prod.vidiocdn.com/GYmeH7x3PXYQQVxHKcqc4u2C_4k=/287x162/filters:strip_icc():quality(70)/vidio-media-production/uploads/tv_program/thumbnail/382433/e64ad9.jpg"/>
   </programme>
-  <programme channel="204" start="20260505000000 +0000" stop="20260505010000 +0000">
+  <programme channel="204" start="20260505000800 +0000" stop="20260505011000 +0000">
     <title lang="id">Tiba-Tiba Kuis</title>
-    <desc lang="id">Program?kuis reality yang dipandu oleh Baim Wong, menemani pemirsa setia?SCTV?Senin - Jumat pkl. 07.00 WIB.</desc>
+    <desc lang="id">Program kuis reality yang dipandu oleh Baim Wong, menemani pemirsa setia SCTV, Senin - Jumat pkl. 07.00 WIB.</desc>
     <icon src="https://thumbor.prod.vidiocdn.com/TsKXKB8_rBT-iOws0U8dl1k_TmY=/287x162/filters:strip_icc():quality(70)/vidio-media-production/uploads/livestreaming/schedule/thumbnail/5056367/de7678.jpg"/>
   </programme>
-  <programme channel="204" start="20260505010000 +0000" stop="20260505030000 +0000">
+  <programme channel="204" start="20260505011000 +0000" stop="20260505024900 +0000">
     <title lang="id">FTV Pagi Spesial: Mas Sapi Gantengnya Emang Beda</title>
     <desc lang="id">Film televisi yang mengangkat kisah romantisme kehidupan dengan konflik yang menarik. Tayang setiap hari.</desc>
     <icon src="https://thumbor.prod.vidiocdn.com/43NC3uuPJlxkiapl6Zi023E_XV8=/287x162/filters:strip_icc():quality(70)/vidio-media-production/uploads/livestreaming/schedule/thumbnail/5056420/7e36a1.jpg"/>
   </programme>
-  <programme channel="204" start="20260505030000 +0000" stop="20260505050000 +0000">
-    <title lang="id">FTV Pagi: Direbutin Boss Aku Kudu Piye</title>
+  <programme channel="204" start="20260505024900 +0000" stop="20260505044500 +0000">
+    <title lang="id">FTV Pagi: Dear Mas Leon, I Love You Sekebon</title>
     <desc lang="id">Film televisi yang mengangkat kisah romantisme kehidupan dengan konflik yang menarik. Tayang setiap hari.</desc>
     <icon src="https://thumbor.prod.vidiocdn.com/l0qHNJuonUmgLRZlzpjSzoo7bBU=/287x162/filters:strip_icc():quality(70)/vidio-media-production/uploads/livestreaming/schedule/thumbnail/5056421/3b8b66.jpg"/>
   </programme>
-  <programme channel="204" start="20260505050000 +0000" stop="20260505053000 +0000">
-    <title lang="id">Liputan 6 Siang - Live</title>
+  <programme channel="204" start="20260505044500 +0000" stop="20260505051500 +0000">
+    <title lang="id">Liputan 6 Siang</title>
     <icon src="https://thumbor.prod.vidiocdn.com/t2I0gCJ0jDV2olOHHkAyqMV6wns=/287x162/filters:strip_icc():quality(70)/vidio-media-production/uploads/livestreaming/schedule/thumbnail/5056374/980ac1.jpg"/>
   </programme>
-  <programme channel="204" start="20260505053000 +0000" stop="20260505070000 +0000">
+  <programme channel="204" start="20260505051500 +0000" stop="20260505065000 +0000">
     <title lang="id">FTV Siang: Jagoan Penakut Penggali Cinta</title>
     <desc lang="id">Film televisi yang mengangkat kisah romantisme kehidupan dengan konflik yang menarik. Tayang setiap hari.</desc>
     <icon src="https://thumbor.prod.vidiocdn.com/6VgSAN30xXmShBg4zRu32t84FDM=/287x162/filters:strip_icc():quality(70)/vidio-media-production/uploads/livestreaming/schedule/thumbnail/5056422/740fb4.jpg"/>
   </programme>
-  <programme channel="204" start="20260505070000 +0000" stop="20260505083000 +0000">
+  <programme channel="204" start="20260505065000 +0000" stop="20260505082500 +0000">
     <title lang="id">FTV Siang: Dosen Selalu Benar Tapi Cintaku Juga Tak Pernah Salah</title>
     <desc lang="id">Film televisi yang mengangkat kisah romantisme kehidupan dengan konflik yang menarik. Tayang setiap hari.</desc>
     <icon src="https://thumbor.prod.vidiocdn.com/3JvVqew1vAFwD-V-AGPfjYeS6G4=/287x162/filters:strip_icc():quality(70)/vidio-media-production/uploads/livestreaming/schedule/thumbnail/5056423/5716d1.jpg"/>
   </programme>
-  <programme channel="204" start="20260505083000 +0000" stop="20260505100000 +0000">
+  <programme channel="204" start="20260505082500 +0000" stop="20260505100000 +0000">
     <title lang="id">FTV Sore: Cinta Gue Anti Utang</title>
     <desc lang="id">Film televisi yang mengangkat kisah romantisme kehidupan dengan konflik yang menarik. Tayang setiap hari.</desc>
     <icon src="https://thumbor.prod.vidiocdn.com/yLFu1OfHo66J6pkR2itnwigMvqM=/287x162/filters:strip_icc():quality(70)/vidio-media-production/uploads/livestreaming/schedule/thumbnail/5056424/ba3030.jpg"/>
   </programme>
-  <programme channel="204" start="20260505100000 +0000" stop="20260505111500 +0000">
+  <programme channel="204" start="20260505100000 +0000" stop="20260505112000 +0000">
     <title lang="id">Asmara Gen Z</title>
     <desc lang="id">Sinetron yang bercerita tentang persahabatan, cinta dan serunya keseharian para Gen Z. Dibintangi oleh AQEELA CALISTA, FATTAH SYACH, ARYA MOHAN, NICOLE ROSSI, HARRY VAUGHAN dan RAISA MARIE. Tayang setiap hari pukul 17.00 WIB.</desc>
     <icon src="https://thumbor.prod.vidiocdn.com/bBOx1-eAq0GvefIFPV527rLi1PI=/287x162/filters:strip_icc():quality(70)/vidio-media-production/uploads/tv_program/thumbnail/387307/cd8554.jpg"/>
   </programme>
-  <programme channel="204" start="20260505111500 +0000" stop="20260505130000 +0000">
+  <programme channel="204" start="20260505112000 +0000" stop="20260505130500 +0000">
     <title lang="id">Istiqomah Cinta</title>
     <desc lang="id">Sinetron romansa tentang kisah Khansa (Yasmin Napper), perempuan lembut yang dipenjara 5 tahun karena fitnah Monika (Anjani Dina) untuk menutupi kecelakaan yang menabrak Aryani. Setelah bebas, Khansa berjuang mempertahankan iman dan kejujurannya di tengah teror, pengkhianatan, dan konflik cinta dengan Fathan (Arbani Yasiz) dan Emran (Cakrawala Airawan). Tayang setiap hari pukul 18.25 WIB</desc>
     <icon src="https://thumbor.prod.vidiocdn.com/qhZpHEqYoWbfBrJa0aLRcUb0G7I=/287x162/filters:strip_icc():quality(70)/vidio-media-production/uploads/tv_program/thumbnail/401147/50494f.jpg"/>
   </programme>
-  <programme channel="204" start="20260505130000 +0000" stop="20260505143000 +0000">
+  <programme channel="204" start="20260505130500 +0000" stop="20260505143500 +0000">
     <title lang="id">Beri Cinta Waktu</title>
     <desc lang="id">Sinetron romansa tentang perjalanan Trian (Yesaya Abraham) mencari keadilan dan mengungkap kejahatan pasca Adila, istrinya meninggal dunia, dengan bantuan Rama (Rayn Wijaya) dan Asmara (Angela Gilsha). Tayang setiap hari pukul 20.10 WIB</desc>
     <icon src="https://thumbor.prod.vidiocdn.com/YGSzGpA4Pyi7HGC8CQr-K4pVp-0=/287x162/filters:strip_icc():quality(70)/vidio-media-production/uploads/livestreaming/schedule/thumbnail/5056398/8f7973.jpg"/>
   </programme>
-  <programme channel="204" start="20260505143000 +0000" stop="20260505160000 +0000">
+  <programme channel="204" start="20260505143500 +0000" stop="20260505160000 +0000">
     <title lang="id">Jejak Duka Diandra</title>
     <desc lang="id">Kisah cinta Diandra (Michelle Ziudith) dan Dimitri (Rio Dewanto) yang semula indah seketika berubah drastis setelah Yunita (Baiti Syaghaf), saudara tiri Diandra mengaku mencintai Dimitri. Dimitri terjebak dalam situasi sulit akibat ulah sang adik, Jupiter (Bizael) yang menuduh Dimitri melecehkan Yunita. Hubungan Dimitri dengan Diandra pun semakin merenggang. Tuduhan lainnya juga harus diterima Dimitri sebagai penyebab insiden kecelakaan seorang wanita. Posisi Dimitri semakin terpojok setelah Diandra yang diminta sebagai saksi justru tidak berpihak kepadanya hingga Dimitri mendapat sanksi mendekam di balik jeruji besi selama lima tahun. Lima tahun berlalu, Dimitri hidup bebas dan melanjutkan usaha sang ayah. Ia pun membuka kisah cinta baru dengan Melissa (Tasya Panggabean). Takdir pun berkata lain, pertemuan Dimitri dan Diandra kembali terjadi. Tayang setiap hari pukul 21.30 WIB</desc>
     <icon src="https://thumbor.prod.vidiocdn.com/0c58bBHg4qQ7FmNifa5ZHnx38BE=/287x162/filters:strip_icc():quality(70)/vidio-media-production/uploads/livestreaming/schedule/thumbnail/5056425/89ba9a.jpg"/>
   </programme>
-  <programme channel="204" start="20260505160000 +0000" stop="20260505173000 +0000">
-    <title lang="id">FTV Primetime</title>
+  <programme channel="204" start="20260505160100 +0000" stop="20260505173500 +0000">
+    <title lang="id">Ftv Primetime Jodoh Gue Si Cipluk</title>
     <desc lang="id">Film televisi yang mengangkat kisah romantisme kehidupan dengan konflik yang menarik. Tayang setiap hari.</desc>
     <icon src="https://thumbor.prod.vidiocdn.com/N99E8BD1OJ5vvymwPBj0c-BU5J4=/287x162/filters:strip_icc():quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/image/204/sctv-5ef966.jpg"/>
   </programme>
-  <programme channel="204" start="20260505160000 +0000" stop="20260505173000 +0000">
-    <title lang="id">FTV Primetime</title>
+  <programme channel="204" start="20260505160100 +0000" stop="20260505173500 +0000">
+    <title lang="id">Ftv Primetime Jodoh Gue Si Cipluk</title>
     <desc lang="id">Film televisi yang mengangkat kisah romantisme kehidupan dengan konflik yang menarik. Tayang setiap hari.</desc>
     <icon src="https://thumbor.prod.vidiocdn.com/N99E8BD1OJ5vvymwPBj0c-BU5J4=/287x162/filters:strip_icc():quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/image/204/sctv-5ef966.jpg"/>
   </programme>
-  <programme channel="204" start="20260505173000 +0000" stop="20260505190000 +0000">
-    <title lang="id">FTV Utama</title>
+  <programme channel="204" start="20260505173500 +0000" stop="20260505183500 +0000">
+    <title lang="id">Ftv Utama Hatiku Ditilang Polwan Cantik</title>
     <desc lang="id">Film televisi yang mengangkat kisah romantisme kehidupan dengan konflik yang menarik. Tayang setiap hari.</desc>
     <icon src="https://thumbor.prod.vidiocdn.com/N99E8BD1OJ5vvymwPBj0c-BU5J4=/287x162/filters:strip_icc():quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/image/204/sctv-5ef966.jpg"/>
   </programme>
-  <programme channel="204" start="20260505190000 +0000" stop="20260505210000 +0000">
-    <title lang="id">Semi Final Uefa Champions League - Live</title>
+  <programme channel="204" start="20260505183500 +0000" stop="20260505210500 +0000">
+    <title lang="id">Arsenal Vs Atletico Madrid - Semi Final Uefa Champions League - Live</title>
     <icon src="https://thumbor.prod.vidiocdn.com/N99E8BD1OJ5vvymwPBj0c-BU5J4=/287x162/filters:strip_icc():quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/image/204/sctv-5ef966.jpg"/>
   </programme>
-  <programme channel="204" start="20260505210000 +0000" stop="20260505213000 +0000">
+  <programme channel="204" start="20260505210500 +0000" stop="20260505213000 +0000">
     <title lang="id">Barakallah</title>
     <desc lang="id">Ceramah islami penuh makna. Tayang setiap selasa - minggu, mulai pukul 04.00 WIB</desc>
     <icon src="https://thumbor.prod.vidiocdn.com/N99E8BD1OJ5vvymwPBj0c-BU5J4=/287x162/filters:strip_icc():quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/image/204/sctv-5ef966.jpg"/>
@@ -279,7 +279,7 @@
     <icon src="https://thumbor.prod.vidiocdn.com/N99E8BD1OJ5vvymwPBj0c-BU5J4=/287x162/filters:strip_icc():quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/image/204/sctv-5ef966.jpg"/>
   </programme>
   <programme channel="204" start="20260506070000 +0000" stop="20260506083000 +0000">
-    <title lang="id">Ftv Siang</title>
+    <title lang="id">Ftv Siang Kebun Teh Love Story</title>
     <desc lang="id">Film televisi yang mengangkat kisah romantisme kehidupan dengan konflik yang menarik. Tayang setiap hari.</desc>
     <icon src="https://thumbor.prod.vidiocdn.com/N99E8BD1OJ5vvymwPBj0c-BU5J4=/287x162/filters:strip_icc():quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/image/204/sctv-5ef966.jpg"/>
   </programme>
@@ -420,7 +420,7 @@
     <icon src="https://thumbor.prod.vidiocdn.com/N99E8BD1OJ5vvymwPBj0c-BU5J4=/287x162/filters:strip_icc():quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/image/204/sctv-5ef966.jpg"/>
   </programme>
   <programme channel="204" start="20260507190000 +0000" stop="20260507210000 +0000">
-    <title lang="id">Semi Final Uefa Europa League - Live</title>
+    <title lang="id">Freiburg Vs Braga - Semi Final Uefa Europa League - Live</title>
     <icon src="https://thumbor.prod.vidiocdn.com/N99E8BD1OJ5vvymwPBj0c-BU5J4=/287x162/filters:strip_icc():quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/image/204/sctv-5ef966.jpg"/>
   </programme>
   <programme channel="204" start="20260507210000 +0000" stop="20260507213000 +0000">
@@ -2408,27 +2408,27 @@
     <desc lang="id">Maria Bellen</desc>
     <icon src="https://thumbor.prod.vidiocdn.com/NdmzqkxqnWVnlngtk_ObYNT-wiY=/287x162/filters:strip_icc():quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/image/206/moji-a5bd3e.jpg"/>
   </programme>
-  <programme channel="206" start="20260505133000 +0000" stop="20260505153000 +0000">
-    <title lang="id">Drama Turki Ceylan</title>
-    <desc lang="id">Drama Turki Ceylan</desc>
-    <icon src="https://thumbor.prod.vidiocdn.com/-Q83xoQmq8edCeCPLeEzmOZ4HgE=/287x162/filters:strip_icc():quality(70)/vidio-media-production/uploads/livestreaming/schedule/thumbnail/5035985/595355.jpg"/>
-  </programme>
-  <programme channel="206" start="20260505153000 +0000" stop="20260505174200 +0000">
+  <programme channel="206" start="20260505152800 +0000" stop="20260505171900 +0000">
     <title lang="id">Rerun Proliga 2026</title>
     <desc lang="id">Rerun Proliga 2026</desc>
     <icon src="https://thumbor.prod.vidiocdn.com/NdmzqkxqnWVnlngtk_ObYNT-wiY=/287x162/filters:strip_icc():quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/image/206/moji-a5bd3e.jpg"/>
   </programme>
-  <programme channel="206" start="20260505153000 +0000" stop="20260505174200 +0000">
+  <programme channel="206" start="20260505152800 +0000" stop="20260505171900 +0000">
     <title lang="id">Rerun Proliga 2026</title>
     <desc lang="id">Rerun Proliga 2026</desc>
     <icon src="https://thumbor.prod.vidiocdn.com/NdmzqkxqnWVnlngtk_ObYNT-wiY=/287x162/filters:strip_icc():quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/image/206/moji-a5bd3e.jpg"/>
   </programme>
-  <programme channel="206" start="20260505174200 +0000" stop="20260505195600 +0000">
+  <programme channel="206" start="20260505171900 +0000" stop="20260505183900 +0000">
     <title lang="id">Rerun Proliga 2026</title>
     <desc lang="id">Rerun Proliga 2026</desc>
     <icon src="https://thumbor.prod.vidiocdn.com/NdmzqkxqnWVnlngtk_ObYNT-wiY=/287x162/filters:strip_icc():quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/image/206/moji-a5bd3e.jpg"/>
   </programme>
-  <programme channel="206" start="20260505195600 +0000" stop="20260505220000 +0000">
+  <programme channel="206" start="20260505183900 +0000" stop="20260505200900 +0000">
+    <title lang="id">Rerun Proliga 2026</title>
+    <desc lang="id">Rerun Proliga 2026</desc>
+    <icon src="https://thumbor.prod.vidiocdn.com/NdmzqkxqnWVnlngtk_ObYNT-wiY=/287x162/filters:strip_icc():quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/image/206/moji-a5bd3e.jpg"/>
+  </programme>
+  <programme channel="206" start="20260505200900 +0000" stop="20260505220000 +0000">
     <title lang="id">Rerun AVC Women's Champions League 2026</title>
     <desc lang="id">Rerun AVC Women's Champions League 2026</desc>
     <icon src="https://thumbor.prod.vidiocdn.com/NdmzqkxqnWVnlngtk_ObYNT-wiY=/287x162/filters:strip_icc():quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/image/206/moji-a5bd3e.jpg"/>
@@ -6227,9 +6227,8 @@
     <icon src="https://thumbor.prod.vidiocdn.com/5yUHYfv_b1sZi7kdFElm8JqF2RY=/287x162/filters:strip_icc():quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/image/6299/bein-1-4bd997.jpg"/>
   </programme>
   <programme channel="6299" start="20260505185500 +0000" stop="20260505210000 +0000">
-    <title lang="id">Semifinals Leg 2: Arsenal vs Atletico Madrid - UEFA Champions League</title>
-    <desc lang="id">Nonton streaming pertandingan seru Semifinals Leg 2: Arsenal vs Atletico Madrid - UEFA Champions League. Saksikan aksi-aksi terbaik dari tim yang bersaing ketat untuk meraih kemenangan. Dapatkan informasi lengkap mengenai jadwal pertandingan dan hasil pertandingan terbaru hanya di Vidio.</desc>
-    <icon src="https://thumbor.prod.vidiocdn.com/Tw0OGStqfWdDKraaEBdxZi55Wbw=/287x162/filters:strip_icc():quality(70)/vidio-media-production/uploads/livestreaming/schedule/thumbnail/5059315/92b266.jpg"/>
+    <title lang="id">UEFA Champions League</title>
+    <icon src="https://thumbor.prod.vidiocdn.com/5yUHYfv_b1sZi7kdFElm8JqF2RY=/287x162/filters:strip_icc():quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/image/6299/bein-1-4bd997.jpg"/>
   </programme>
   <programme channel="6299" start="20260505210000 +0000" stop="20260505213000 +0000">
     <title lang="id">Arsenal vs Atletico Madrid - Tue, SF, 2nd Leg : The UCL Review Show 2025/26</title>
@@ -6466,10 +6465,10 @@
     <desc lang="id">Matchday 34</desc>
     <icon src="https://thumbor.prod.vidiocdn.com/5yUHYfv_b1sZi7kdFElm8JqF2RY=/287x162/filters:strip_icc():quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/image/6299/bein-1-4bd997.jpg"/>
   </programme>
-  <programme channel="6299" start="20260507185500 +0000" stop="20260507210000 +0000">
-    <title lang="id">Aston Villa vs Nottingham Forest - SF, 2nd Leg : UEFA Europa League 2025/26</title>
-    <desc lang="id">Aston Villa vs Nottingham Forest - SF, 2nd Leg</desc>
-    <icon src="https://thumbor.prod.vidiocdn.com/5yUHYfv_b1sZi7kdFElm8JqF2RY=/287x162/filters:strip_icc():quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/image/6299/bein-1-4bd997.jpg"/>
+  <programme channel="6299" start="20260507190000 +0000" stop="20260507210000 +0000">
+    <title lang="id">Semifinals Leg 2: Aston Villa vs Nottingham Forest - UEFA Europa League</title>
+    <desc lang="id">Nonton streaming pertandingan seru Semifinals Leg 2: Aston Villa vs Nottingham Forest - UEFA Europa League. Saksikan aksi-aksi terbaik dari tim yang bersaing ketat untuk meraih kemenangan. Dapatkan informasi lengkap mengenai jadwal pertandingan dan hasil pertandingan terbaru hanya di Vidio.</desc>
+    <icon src="https://thumbor.prod.vidiocdn.com/ENLzv7ln-d44B_oq0pLuMVE-OjY=/287x162/filters:strip_icc():quality(70)/vidio-media-production/uploads/livestreaming/schedule/thumbnail/5061554/c699cd.jpg"/>
   </programme>
   <programme channel="6299" start="20260507210000 +0000" stop="20260507213000 +0000">
     <title lang="id">Rally Sierra Morena : FIA European Rally Championship Highlights 2026</title>
@@ -8400,6 +8399,76 @@
   <programme channel="782" start="20260505153000 +0000" stop="20260505170000 +0000">
     <title lang="id">Sinema Spesial: Kembalinya Si Janda Kembang</title>
     <desc lang="id">Akibat cincin Ziprus dari Mesir Kuno yang terkutuk, seorang istri yang tidak setia dan telah dibunuh kembali sebagai hantu untuk merayu dan membunuh para pria.</desc>
+    <icon src="https://thumbor.prod.vidiocdn.com/20tRQaK9Gps_wFQL5rY-XgRbrs4=/287x162/filters:strip_icc():quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/image/782/antv-de8530.jpg"/>
+  </programme>
+  <programme channel="782" start="20260505170000 +0000" stop="20260505171500 +0000">
+    <title lang="id">Sinema Spesial: Kembalinya Si Janda Kembang</title>
+    <desc lang="id">Akibat cincin Ziprus dari Mesir Kuno yang terkutuk, seorang istri yang tidak setia dan telah dibunuh kembali sebagai hantu untuk merayu dan membunuh para pria.</desc>
+    <icon src="https://thumbor.prod.vidiocdn.com/20tRQaK9Gps_wFQL5rY-XgRbrs4=/287x162/filters:strip_icc():quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/image/782/antv-de8530.jpg"/>
+  </programme>
+  <programme channel="782" start="20260505171500 +0000" stop="20260505190000 +0000">
+    <title lang="id">Bioskop Asia: Protege de la Rose Noire</title>
+    <desc lang="id">Gill dan Sandy, dua gadis muda yang sedang mencari apartemen, menemukan sebuah rumah misterius yang pemiliknya tak lain adalah pahlawan wanita legendaris Black Rose.</desc>
+    <icon src="https://thumbor.prod.vidiocdn.com/20tRQaK9Gps_wFQL5rY-XgRbrs4=/287x162/filters:strip_icc():quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/image/782/antv-de8530.jpg"/>
+  </programme>
+  <programme channel="782" start="20260505190000 +0000" stop="20260505211500 +0000">
+    <title lang="id">Mega Bollywood: Ta Ra Rum Pum</title>
+    <desc lang="id">Pembalap mobil andalan RV dan istrinya memiliki segalanya di ujung jari mereka. Namun, ia mengalami kecelakaan dan dunianya pun jungkir balik.</desc>
+    <icon src="https://thumbor.prod.vidiocdn.com/20tRQaK9Gps_wFQL5rY-XgRbrs4=/287x162/filters:strip_icc():quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/image/782/antv-de8530.jpg"/>
+  </programme>
+  <programme channel="782" start="20260505211500 +0000" stop="20260505224500 +0000">
+    <title lang="id">Ummi</title>
+    <desc lang="id">Kisah perjuangan Ummi Marwah, seorang ustazah, dalam menjaga keutuhan rumah tangga dan mendidik anak-anaknya. Abah Asep, suaminya, berperilaku arogan dan selingkuh dengan asisten rumah tangga.</desc>
+    <icon src="https://thumbor.prod.vidiocdn.com/20tRQaK9Gps_wFQL5rY-XgRbrs4=/287x162/filters:strip_icc():quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/image/782/antv-de8530.jpg"/>
+  </programme>
+  <programme channel="782" start="20260505224500 +0000" stop="20260506004500 +0000">
+    <title lang="id">Kasautii</title>
+    <desc lang="id">Anurag dan Prerna kuliah di universitas yang sama, dan akhirnya menjalin hubungan erat. Namun, mereka harus menghadapi orang-orang yang ingin memisahkan keduanya, karena perbedaan status sosial.</desc>
+    <icon src="https://thumbor.prod.vidiocdn.com/20tRQaK9Gps_wFQL5rY-XgRbrs4=/287x162/filters:strip_icc():quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/image/782/antv-de8530.jpg"/>
+  </programme>
+  <programme channel="782" start="20260506004500 +0000" stop="20260506023000 +0000">
+    <title lang="id">Misteri Sungai Mekong</title>
+    <desc lang="id">Dr. Akkanee dan krunya melakukan perjalanan ke sebuah desa yang kuno dan penuh misteri untuk mempelajari fenomena paranormal dan membuktikan bahwa hal itu tidak benar.</desc>
+    <icon src="https://thumbor.prod.vidiocdn.com/20tRQaK9Gps_wFQL5rY-XgRbrs4=/287x162/filters:strip_icc():quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/image/782/antv-de8530.jpg"/>
+  </programme>
+  <programme channel="782" start="20260506023000 +0000" stop="20260506060000 +0000">
+    <title lang="id">Mega Bollywood: Anjaam</title>
+    <desc lang="id">Obsesi berbahaya seorang industrialis kaya terhadap seorang pramugari menghancurkan dunianya, hingga akhirnya ia mengambil tindakan sendiri untuk membalas dendam.</desc>
+    <icon src="https://thumbor.prod.vidiocdn.com/20tRQaK9Gps_wFQL5rY-XgRbrs4=/287x162/filters:strip_icc():quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/image/782/antv-de8530.jpg"/>
+  </programme>
+  <programme channel="782" start="20260506060000 +0000" stop="20260506080000 +0000">
+    <title lang="id">Jhanak</title>
+    <desc lang="id">Seorang wanita muda yang bersemangat memulai perjalanan untuk memenuhi janji seorang ibu demi kehidupan yang lebih baik sambil mengatasi tantangan dan kehilangan.</desc>
+    <icon src="https://thumbor.prod.vidiocdn.com/20tRQaK9Gps_wFQL5rY-XgRbrs4=/287x162/filters:strip_icc():quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/image/782/antv-de8530.jpg"/>
+  </programme>
+  <programme channel="782" start="20260506100000 +0000" stop="20260506120000 +0000">
+    <title lang="id">Vasudha</title>
+    <desc lang="id">Vasudha yang periang bergabung dengan rumah pemimpin bisnis Chandrika sebagai pembantu dan mendambakan persetujuannya meskipun ada perbedaan ideologis di antara mereka.</desc>
+    <icon src="https://thumbor.prod.vidiocdn.com/20tRQaK9Gps_wFQL5rY-XgRbrs4=/287x162/filters:strip_icc():quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/image/782/antv-de8530.jpg"/>
+  </programme>
+  <programme channel="782" start="20260506120000 +0000" stop="20260506140000 +0000">
+    <title lang="id">Sinema Laga Klasik: Rajawali dari Utara</title>
+    <desc lang="id">Kisah Kidang Telangkas yang mengembara untuk mencari pembunuh istri dan anaknya oleh Ki Dapaksa. Dalam perjalannya Ia bertemu dengan Nawangsih yang kemudian ingin ikut bersamanya. Namun Nawangsih diserahkan kepada gurunya untuk dilatih silat.</desc>
+    <icon src="https://thumbor.prod.vidiocdn.com/20tRQaK9Gps_wFQL5rY-XgRbrs4=/287x162/filters:strip_icc():quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/image/782/antv-de8530.jpg"/>
+  </programme>
+  <programme channel="782" start="20260506140000 +0000" stop="20260506153000 +0000">
+    <title lang="id">Sinema Spesial: Nyi Ageng Ratu Pemikat</title>
+    <desc lang="id">Dengan semua pengalaman disekitarnya yang telah menjadi korban dari kaum laki laki, Nyi Ageng dewasa bisa merasakan betapa lemahnya kaum sesamanya. Ibunya, korban dari kelakuan ayahnya sendiri yang mempunyai banyak istri.</desc>
+    <icon src="https://thumbor.prod.vidiocdn.com/20tRQaK9Gps_wFQL5rY-XgRbrs4=/287x162/filters:strip_icc():quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/image/782/antv-de8530.jpg"/>
+  </programme>
+  <programme channel="782" start="20260506153000 +0000" stop="20260506170000 +0000">
+    <title lang="id">Sinema Spesial: Si Manis Jembatan Ancol</title>
+    <desc lang="id">Bercerita tentang Mariah yang memutuskan untuk menikah pura-pura dengan Husin, tukang sado, yang menolongnya saat ia diusir ketika datang ke rumah John, pacarnya. Hal ini ia lakukan karena ayahnya sakit keras dan ingin melihat anaknya menikah sebelum ia meninggal.</desc>
+    <icon src="https://thumbor.prod.vidiocdn.com/20tRQaK9Gps_wFQL5rY-XgRbrs4=/287x162/filters:strip_icc():quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/image/782/antv-de8530.jpg"/>
+  </programme>
+  <programme channel="782" start="20260506153000 +0000" stop="20260506170000 +0000">
+    <title lang="id">Sinema Spesial: Si Manis Jembatan Ancol</title>
+    <desc lang="id">Bercerita tentang Mariah yang memutuskan untuk menikah pura-pura dengan Husin, tukang sado, yang menolongnya saat ia diusir ketika datang ke rumah John, pacarnya. Hal ini ia lakukan karena ayahnya sakit keras dan ingin melihat anaknya menikah sebelum ia meninggal.</desc>
+    <icon src="https://thumbor.prod.vidiocdn.com/20tRQaK9Gps_wFQL5rY-XgRbrs4=/287x162/filters:strip_icc():quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/image/782/antv-de8530.jpg"/>
+  </programme>
+  <programme channel="782" start="20260506170000 +0000" stop="20260506171500 +0000">
+    <title lang="id">Sinema Spesial: Si Manis Jembatan Ancol</title>
+    <desc lang="id">Bercerita tentang Mariah yang memutuskan untuk menikah pura-pura dengan Husin, tukang sado, yang menolongnya saat ia diusir ketika datang ke rumah John, pacarnya. Hal ini ia lakukan karena ayahnya sakit keras dan ingin melihat anaknya menikah sebelum ia meninggal.</desc>
     <icon src="https://thumbor.prod.vidiocdn.com/20tRQaK9Gps_wFQL5rY-XgRbrs4=/287x162/filters:strip_icc():quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/image/782/antv-de8530.jpg"/>
   </programme>
   <programme channel="783" start="20260504153000 +0000" stop="20260504180000 +0000">
@@ -12955,9 +13024,8 @@
     <desc lang="id">Canada vs Belgium - Brazil Day 2, Men</desc>
     <icon src="https://thumbor.prod.vidiocdn.com/VmoYokSeKr_3SubUXC-rMC-EtQM=/287x162/filters:strip_icc():quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/image/17875/bein-2-25a5f9.jpg"/>
   </programme>
-  <programme channel="17875" start="20260507185500 +0000" stop="20260507210000 +0000">
-    <title lang="id">Freiburg vs Braga - SF, 2nd Leg : UEFA Europa League 2025/26</title>
-    <desc lang="id">Freiburg vs Braga - SF, 2nd Leg</desc>
+  <programme channel="17875" start="20260507190000 +0000" stop="20260507210000 +0000">
+    <title lang="id">UEFA Europa League</title>
     <icon src="https://thumbor.prod.vidiocdn.com/VmoYokSeKr_3SubUXC-rMC-EtQM=/287x162/filters:strip_icc():quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/image/17875/bein-2-25a5f9.jpg"/>
   </programme>
   <programme channel="17875" start="20260507210000 +0000" stop="20260507220000 +0000">
@@ -13404,9 +13472,13 @@
     <desc lang="id">JUVENTUS vs HELLAS VERONA</desc>
     <icon src="https://thumbor.prod.vidiocdn.com/nY0aFklpYf6yONLaFJjxhiSuthc=/287x162/filters:strip_icc():quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/image/6786/champions-tv-3-76ca7c.jpg"/>
   </programme>
-  <programme channel="6786" start="20260504225600 +0000" stop="20260505010000 +0000">
+  <programme channel="6786" start="20260504225600 +0000" stop="20260505005700 +0000">
     <title lang="id">INTER vs PARMA : Serie A 2025/26</title>
     <desc lang="id">INTER vs PARMA</desc>
+    <icon src="https://thumbor.prod.vidiocdn.com/nY0aFklpYf6yONLaFJjxhiSuthc=/287x162/filters:strip_icc():quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/image/6786/champions-tv-3-76ca7c.jpg"/>
+  </programme>
+  <programme channel="6786" start="20260505005700 +0000" stop="20260505010000 +0000">
+    <title lang="id">Filler</title>
     <icon src="https://thumbor.prod.vidiocdn.com/nY0aFklpYf6yONLaFJjxhiSuthc=/287x162/filters:strip_icc():quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/image/6786/champions-tv-3-76ca7c.jpg"/>
   </programme>
   <programme channel="6786" start="20260505010000 +0000" stop="20260505013000 +0000">
