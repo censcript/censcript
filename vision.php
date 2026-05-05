@@ -640,9 +640,6 @@
 <programme start="20260505100000 +0000" stop="20260505120000 +0000" channel="ANTV.vision">
 <title>Vasudha</title>
 </programme>
-<programme start="20260505140000 +0000" stop="20260505153000 +0000" channel="ANTV.vision">
-<title>Bernapas Dalam Lumpur</title>
-</programme>
 <programme start="20260505153000 +0000" stop="20260505173000 +0000" channel="ANTV.vision">
 <title>Kembalinya Si Janda Kembang</title>
 </programme>
@@ -813,9 +810,6 @@
 </programme>
 <programme start="20260505110000 +0000" stop="20260505130000 +0000" channel="TVOne.vision">
 <title>Apa Kabar Indonesia Malam (L)</title>
-</programme>
-<programme start="20260505130000 +0000" stop="20260505143000 +0000" channel="TVOne.vision">
-<title>Catatan Demokrasi</title>
 </programme>
 <programme start="20260505143000 +0000" stop="20260505153000 +0000" channel="TVOne.vision">
 <title>Kabar Utama 2</title>
@@ -1497,4 +1491,10 @@
 </programme>
 <programme start="20260506080000 +0000" stop="20260506083000 +0000" channel="BTV.vision">
 <title>Berita Kriminal</title>
+</programme>
+<programme start="20260506083000 +0000" stop="20260506090000 +0000" channel="BTV.vision">
+<title>Berita Satu Sore (L)</title>
+</programme>
+<programme start="20260506090000 +0000" stop="20260506090500 +0000" channel="BTV.vision">
+<title>Berita Satu Terkini</title>
 </programme>

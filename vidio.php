@@ -778,12 +778,12 @@
     <desc lang="id">Mega Series Terbaru Raden Rakha dan Basmalah Gralind Di Indosiar "Merangkai Kisah Indah" Tayang Setiap Hari, Mulai Senin, 14 Juli 2025 Pukul 17:00 WIB. Kisah Derita Mutiara Yang Mencari Orangtua Kandungnya Karena Sewaktu Bayi Ditukar Oleh Ibu Angkatnya. Nasib Membawa Dirinya Bertemu Dengan Keluarga Yang Tanpa Dia Ketahui Adalah Orangtua Kandungnya dan Juga Bertemu Kenzo. Apakah Kenzo dan Mutiara Akan Berjodoh? Dibintangi Raden Rakha, Basmalah Gralind, Panji Saputra, Tsania Marwa, Gita Sinaga, Vayala Maulidina, Washifa, Haura Lathifa, dan Emiliano Cortizo. Saksikan Mega Series Terbaru Indosiar : Merangkai Kisah Indah, Tayang Setiap Hari, Mulai Senin, 14 Juli 2025 Pukul 17:00 WIB Hanya Di Indosiar.</desc>
     <icon src="https://thumbor.prod.vidiocdn.com/WIl2jiaTLEzHnNAo61AGzfdEXh8=/287x162/filters:strip_icc():quality(70)/vidio-media-production/uploads/tv_program/thumbnail/389747/fc3ce1.jpg"/>
   </programme>
-  <programme channel="205" start="20260505113600 +0000" stop="20260505141000 +0000">
+  <programme channel="205" start="20260505113600 +0000" stop="20260505140600 +0000">
     <title lang="id">BRI Superleague 2025/26 - Borneo Fc Samarinda Vs Persita</title>
     <desc lang="id">Saksikan! BRI Super League 2025/26 - Is Back!" 18 Klub Terbaik Siap Bertarung Di Kasta Tertinggi Sepak Bola Indonesia! Pertandingan Semakin Seru! Jangan Lewatkan BRI Super League 2025/26 Mulai 8 Agustus 2025, Pkl 15.00 &amp; 18.30 WIB, Live &amp; Eksklusif Hanya Di Indosiar dan Vidio #Indosiarrumahsepakbolaindonesia</desc>
     <icon src="https://thumbor.prod.vidiocdn.com/cBZL7ITaJCof6cqtayFee2uJCX8=/287x162/filters:strip_icc():quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/image/205/indosiar-d9a3d0.jpg"/>
   </programme>
-  <programme channel="205" start="20260505141000 +0000" stop="20260505180000 +0000">
+  <programme channel="205" start="20260505140600 +0000" stop="20260505180000 +0000">
     <title lang="id">D' Academy 7 Mega Konser Rocker Juga Manusia</title>
     <desc lang="id">Panggung Megah Konser D'Academy 7 Siap Digelar! Audisi Online dan Offline Telah Usai! Siapakah Yang Akan Lolos Ke Panggung Megah D'Academy 7? Saksikan D'Academy 7 Mulai Senin, 9 Juni, Setiap Senin-Jumat Live Pkl 20.00 WIB Hanya Di Indosiar. #Indosiarbawadangdutberkelasberkualitas</desc>
     <icon src="https://thumbor.prod.vidiocdn.com/niQibJm35_gyvb9cbUuW53dGcb0=/287x162/filters:strip_icc():quality(70)/vidio-media-production/uploads/livestreaming/schedule/thumbnail/5058214/aec5cb.jpg"/>
@@ -7753,9 +7753,13 @@
     <desc lang="id">ROMA vs FIORENTINA</desc>
     <icon src="https://thumbor.prod.vidiocdn.com/edoqRinFCRhrRwQ2ngcXacb_q74=/287x162/filters:strip_icc():quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/image/6685/champions-tv-1-54e282.jpg"/>
   </programme>
-  <programme channel="6685" start="20260505140000 +0000" stop="20260505160000 +0000">
+  <programme channel="6685" start="20260505140000 +0000" stop="20260505155200 +0000">
     <title lang="id">SASSUOLO vs MILAN : Serie A 2025/26</title>
     <desc lang="id">SASSUOLO vs MILAN</desc>
+    <icon src="https://thumbor.prod.vidiocdn.com/edoqRinFCRhrRwQ2ngcXacb_q74=/287x162/filters:strip_icc():quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/image/6685/champions-tv-1-54e282.jpg"/>
+  </programme>
+  <programme channel="6685" start="20260505155200 +0000" stop="20260505160000 +0000">
+    <title lang="id">Filler</title>
     <icon src="https://thumbor.prod.vidiocdn.com/edoqRinFCRhrRwQ2ngcXacb_q74=/287x162/filters:strip_icc():quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/image/6685/champions-tv-1-54e282.jpg"/>
   </programme>
   <programme channel="6685" start="20260505160000 +0000" stop="20260505170000 +0000">
@@ -8356,26 +8360,26 @@
     <desc lang="id">Dr. Akkanee dan krunya melakukan perjalanan ke sebuah desa yang kuno dan penuh misteri untuk mempelajari fenomena paranormal dan membuktikan bahwa hal itu tidak benar.</desc>
     <icon src="https://thumbor.prod.vidiocdn.com/20tRQaK9Gps_wFQL5rY-XgRbrs4=/287x162/filters:strip_icc():quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/image/782/antv-de8530.jpg"/>
   </programme>
-  <programme channel="782" start="20260505023000 +0000" stop="20260505060000 +0000">
+  <programme channel="782" start="20260505023000 +0000" stop="20260505055000 +0000">
     <title lang="id">Mega Bollywood: Kabhi Haan Kabhi Naa</title>
     <desc lang="id">Seorang pemimpi jatuh cinta pada seorang gadis yang jatuh cinta dengan orang lain dan mencoba menciptakan keretakan antara dia dan pria yang dicintainya.</desc>
     <icon src="https://thumbor.prod.vidiocdn.com/RDBDbPR5Hd1-78sFJZZ2cq9oBVo=/287x162/filters:strip_icc():quality(70)/vidio-media-production/uploads/livestreaming/schedule/thumbnail/5057843/3c095e.jpg"/>
   </programme>
-  <programme channel="782" start="20260505060000 +0000" stop="20260505080000 +0000">
+  <programme channel="782" start="20260505055000 +0000" stop="20260505075500 +0000">
     <title lang="id">Jhanak</title>
     <desc lang="id">Seorang wanita muda yang bersemangat memulai perjalanan untuk memenuhi janji seorang ibu demi kehidupan yang lebih baik sambil mengatasi tantangan dan kehilangan.</desc>
     <icon src="https://thumbor.prod.vidiocdn.com/9-OOOeJ5R02VC3_Dbp_zcU5x5KQ=/287x162/filters:strip_icc():quality(70)/vidio-media-production/uploads/livestreaming/schedule/thumbnail/5057833/910f31.jpg"/>
   </programme>
-  <programme channel="782" start="20260505080000 +0000" stop="20260505100000 +0000">
+  <programme channel="782" start="20260505075500 +0000" stop="20260505095900 +0000">
     <title lang="id">Teri Meri Doriyaann</title>
     <icon src="https://thumbor.prod.vidiocdn.com/S6pD6f-NhjA143MNe_3h73e0H2c=/287x162/filters:strip_icc():quality(70)/vidio-media-production/uploads/livestreaming/schedule/thumbnail/5058416/2e0ce0.jpg"/>
   </programme>
-  <programme channel="782" start="20260505100000 +0000" stop="20260505120000 +0000">
+  <programme channel="782" start="20260505095900 +0000" stop="20260505120300 +0000">
     <title lang="id">Vasudha</title>
     <desc lang="id">Vasudha yang periang bergabung dengan rumah pemimpin bisnis Chandrika sebagai pembantu dan mendambakan persetujuannya meskipun ada perbedaan ideologis di antara mereka.</desc>
     <icon src="https://thumbor.prod.vidiocdn.com/vBFvEEPxBrZoyKmZCKJAXUX13Wk=/287x162/filters:strip_icc():quality(70)/vidio-media-production/uploads/livestreaming/schedule/thumbnail/5057835/79b40a.jpg"/>
   </programme>
-  <programme channel="782" start="20260505120000 +0000" stop="20260505140000 +0000">
+  <programme channel="782" start="20260505120300 +0000" stop="20260505140000 +0000">
     <title lang="id">Sinema Laga Klasik: MANDALA DARI SUNGAI ULAR</title>
     <desc lang="id">Sundari yang tanpa sengaja jatuh ke tangan pendekar iblis diberi ilmu Cakar Harimau sehingga ia dapat membalas dendam pada musuh-musuhnya. Namun ia sendiri tidak bisa lepas dari cengkraman pendekar tersebut sehingga anaknya kemudian turun tangan membantu.</desc>
     <icon src="https://thumbor.prod.vidiocdn.com/20tRQaK9Gps_wFQL5rY-XgRbrs4=/287x162/filters:strip_icc():quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/image/782/antv-de8530.jpg"/>
@@ -8425,26 +8429,26 @@
     <desc lang="id">Dr. Akkanee dan krunya melakukan perjalanan ke sebuah desa yang kuno dan penuh misteri untuk mempelajari fenomena paranormal dan membuktikan bahwa hal itu tidak benar.</desc>
     <icon src="https://thumbor.prod.vidiocdn.com/20tRQaK9Gps_wFQL5rY-XgRbrs4=/287x162/filters:strip_icc():quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/image/782/antv-de8530.jpg"/>
   </programme>
-  <programme channel="782" start="20260506023000 +0000" stop="20260506060000 +0000">
+  <programme channel="782" start="20260506023000 +0000" stop="20260506055000 +0000">
     <title lang="id">Mega Bollywood: Anjaam</title>
     <desc lang="id">Obsesi berbahaya seorang industrialis kaya terhadap seorang pramugari menghancurkan dunianya, hingga akhirnya ia mengambil tindakan sendiri untuk membalas dendam.</desc>
     <icon src="https://thumbor.prod.vidiocdn.com/8FEIMh7V5RuHUtILFrCN4zeqfMs=/287x162/filters:strip_icc():quality(70)/vidio-media-production/uploads/livestreaming/schedule/thumbnail/5061583/e2946b.jpg"/>
   </programme>
-  <programme channel="782" start="20260506060000 +0000" stop="20260506080000 +0000">
+  <programme channel="782" start="20260506055000 +0000" stop="20260506075500 +0000">
     <title lang="id">Jhanak</title>
     <desc lang="id">Seorang wanita muda yang bersemangat memulai perjalanan untuk memenuhi janji seorang ibu demi kehidupan yang lebih baik sambil mengatasi tantangan dan kehilangan.</desc>
     <icon src="https://thumbor.prod.vidiocdn.com/w79OZ_ULFMzKBtywThV_df3K6rM=/287x162/filters:strip_icc():quality(70)/vidio-media-production/uploads/livestreaming/schedule/thumbnail/5061584/144b06.jpg"/>
   </programme>
-  <programme channel="782" start="20260506080000 +0000" stop="20260506100000 +0000">
+  <programme channel="782" start="20260506075500 +0000" stop="20260506095900 +0000">
     <title lang="id">TERI MEDI DORIYAANN</title>
     <icon src="https://thumbor.prod.vidiocdn.com/owpX2IoP3EIoZUmuc_f17oyQLeM=/287x162/filters:strip_icc():quality(70)/vidio-media-production/uploads/livestreaming/schedule/thumbnail/5061590/37a3e9.jpg"/>
   </programme>
-  <programme channel="782" start="20260506100000 +0000" stop="20260506120000 +0000">
+  <programme channel="782" start="20260506095900 +0000" stop="20260506120300 +0000">
     <title lang="id">Vasudha</title>
     <desc lang="id">Vasudha yang periang bergabung dengan rumah pemimpin bisnis Chandrika sebagai pembantu dan mendambakan persetujuannya meskipun ada perbedaan ideologis di antara mereka.</desc>
     <icon src="https://thumbor.prod.vidiocdn.com/bXlr2LB_VFhgfGlNnHXPFzDbvVk=/287x162/filters:strip_icc():quality(70)/vidio-media-production/uploads/livestreaming/schedule/thumbnail/5061585/b426f7.jpg"/>
   </programme>
-  <programme channel="782" start="20260506120000 +0000" stop="20260506140000 +0000">
+  <programme channel="782" start="20260506120300 +0000" stop="20260506140000 +0000">
     <title lang="id">Sinema Laga Klasik: Rajawali dari Utara</title>
     <desc lang="id">Kisah Kidang Telangkas yang mengembara untuk mencari pembunuh istri dan anaknya oleh Ki Dapaksa. Dalam perjalannya Ia bertemu dengan Nawangsih yang kemudian ingin ikut bersamanya. Namun Nawangsih diserahkan kepada gurunya untuk dilatih silat.</desc>
     <icon src="https://thumbor.prod.vidiocdn.com/20tRQaK9Gps_wFQL5rY-XgRbrs4=/287x162/filters:strip_icc():quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/image/782/antv-de8530.jpg"/>

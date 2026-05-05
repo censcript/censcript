@@ -3217,12 +3217,6 @@
 <programme start="20260505130000 +0000" stop="20260505160000 +0000" channel="Sky Sport News HD.skyde">
     <title>Live Sky Sport News: Der Nachmittag</title>
 </programme>
-<programme start="20260505160000 +0000" stop="20260505161500 +0000" channel="Sky Sport News HD.skyde">
-    <title>Live Sky Sport News: Primetime</title>
-</programme>
-<programme start="20260505161500 +0000" stop="20260505163000 +0000" channel="Sky Sport News HD.skyde">
-    <title>Live Sky Sport News: So denken die Fans.... Das Tennis-Barometer</title>
-</programme>
 <programme start="20260505163000 +0000" stop="20260505183000 +0000" channel="Sky Sport News HD.skyde">
     <title>Live Sky Sport News: Primetime</title>
 </programme>
@@ -4192,10 +4186,10 @@
 <programme start="20260505083500 +0000" stop="20260505105000 +0000" channel="Warner TV Film HD.skyde">
     <title>Der endlose Horizont</title>
 </programme>
-<programme start="20260505105000 +0000" stop="20260505141000 +0000" channel="Warner TV Film HD.skyde">
+<programme start="20260505105000 +0000" stop="20260505140500 +0000" channel="Warner TV Film HD.skyde">
     <title>Giganten</title>
 </programme>
-<programme start="20260505141000 +0000" stop="20260505160500 +0000" channel="Warner TV Film HD.skyde">
+<programme start="20260505140500 +0000" stop="20260505160500 +0000" channel="Warner TV Film HD.skyde">
     <title>Ausnahmezustand</title>
 </programme>
 <programme start="20260505160500 +0000" stop="20260505181500 +0000" channel="Warner TV Film HD.skyde">
