@@ -4982,10 +4982,10 @@
     <title lang="id">AZ Alkmaar - FC Twente</title>
   </programme>
   <programme start="20260506212000 +0000" stop="20260506230500 +0000" channel="Nova Sport 1.webtv.sk">
-    <title lang="id">NHL play-off</title>
+    <title lang="id">Montreal Victoire - Minnesota Frost</title>
   </programme>
   <programme start="20260506230500 +0000" stop="20260507014500 +0000" channel="Nova Sport 1.webtv.sk">
-    <title lang="id">NHL play-off</title>
+    <title lang="id">Buffalo Sabres - Montreal Canadiens</title>
   </programme>
   <programme start="20260507014500 +0000" stop="20260507031500 +0000" channel="Nova Sport 1.webtv.sk">
     <title lang="id">VfL Gummersbach - FRISCH AUF! Göppingen</title>
@@ -5006,10 +5006,10 @@
     <title lang="id">MotoSurf World Championship</title>
   </programme>
   <programme start="20260507071500 +0000" stop="20260507090000 +0000" channel="Nova Sport 1.webtv.sk">
-    <title lang="id">NHL play-off</title>
+    <title lang="id">Buffalo Sabres - Montreal Canadiens</title>
   </programme>
   <programme start="20260507090000 +0000" stop="20260507104500 +0000" channel="Nova Sport 1.webtv.sk">
-    <title lang="id">NHL play-off</title>
+    <title lang="id">Vegas Golden Knights - Anaheim Ducks</title>
   </programme>
   <programme start="20260507104500 +0000" stop="20260507110000 +0000" channel="Nova Sport 1.webtv.sk">
     <title lang="id">Run Aréna (3)</title>
@@ -5021,7 +5021,7 @@
     <title lang="id">Longines Global Champions Tour 2026 - Šanghaj</title>
   </programme>
   <programme start="20260507135500 +0000" stop="20260507154000 +0000" channel="Nova Sport 1.webtv.sk">
-    <title lang="id">NHL play-off</title>
+    <title lang="id">Buffalo Sabres - Montreal Canadiens</title>
   </programme>
   <programme start="20260507154000 +0000" stop="20260507155500 +0000" channel="Nova Sport 1.webtv.sk">
     <title lang="id">NHL News</title>
@@ -5033,7 +5033,7 @@
     <title lang="id">Epic Series - Cape Epic Part 1</title>
   </programme>
   <programme start="20260507183000 +0000" stop="20260507185000 +0000" channel="Nova Sport 1.webtv.sk">
-    <title lang="id">Běhej lesy - Karlštejn</title>
+    <title lang="id">Velikonoční regata 2026</title>
   </programme>
   <programme start="20260507185000 +0000" stop="20260507185500 +0000" channel="Nova Sport 1.webtv.sk">
     <title lang="id">Sportovní noviny</title>
@@ -5048,18 +5048,21 @@
     <title lang="id">NHL News</title>
   </programme>
   <programme start="20260507212000 +0000" stop="20260507230500 +0000" channel="Nova Sport 1.webtv.sk">
-    <title lang="id">NHL play-off</title>
+    <title lang="id">Vegas Golden Knights - Anaheim Ducks</title>
   </programme>
   <programme start="20260506220000 +0000" stop="20260507003000 +0000" channel="Nova Sport 2.webtv.sk">
     <title lang="id">Premier League Darts 2026</title>
   </programme>
-  <programme start="20260507003000 +0000" stop="20260507010500 +0000" channel="Nova Sport 2.webtv.sk">
+  <programme start="20260507003000 +0000" stop="20260507010000 +0000" channel="Nova Sport 2.webtv.sk">
     <title lang="id">Magazín Muaythai (1)</title>
   </programme>
-  <programme start="20260507010500 +0000" stop="20260507040000 +0000" channel="Nova Sport 2.webtv.sk">
-    <title lang="id">NHL play-off</title>
+  <programme start="20260507010000 +0000" stop="20260507013500 +0000" channel="Nova Sport 2.webtv.sk">
+    <title lang="id">Swatch Nines Snow - THE FULL STORY</title>
   </programme>
-  <programme start="20260507040000 +0000" stop="20260507050000 +0000" channel="Nova Sport 2.webtv.sk">
+  <programme start="20260507013500 +0000" stop="20260507041500 +0000" channel="Nova Sport 2.webtv.sk">
+    <title lang="id">Vegas Golden Knights - Anaheim Ducks</title>
+  </programme>
+  <programme start="20260507041500 +0000" stop="20260507050000 +0000" channel="Nova Sport 2.webtv.sk">
     <title lang="id">Noční program</title>
   </programme>
   <programme start="20260507050000 +0000" stop="20260507070000 +0000" channel="Nova Sport 2.webtv.sk">
@@ -5699,7 +5702,7 @@
     <title lang="id">Lovci odpadu: Restaurátoři III (2)</title>
   </programme>
   <programme start="20260507080000 +0000" stop="20260507090000 +0000" channel="Discovery.webtv.sk">
-    <title lang="id">Šrot (polská produkce) III (2)</title>
+    <title lang="id">Šrot III (2)</title>
   </programme>
   <programme start="20260507090000 +0000" stop="20260507100000 +0000" channel="Discovery.webtv.sk">
     <title lang="id">Opravy farem I (2)</title>

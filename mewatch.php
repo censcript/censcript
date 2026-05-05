@@ -124,13 +124,13 @@
     <programme start="20260506123000 +0000" stop="20260506130000 +0000" channel="Channel 5.mewatch">
         <title>Aunty Lee&#039;s Deadly Delights - EP 59</title>
     </programme>
-    <programme start="20260506130000 +0000" stop="20260506133000 +0000" channel="Channel 5.mewatch">
+    <programme start="20260506130000 +0000" stop="20260506134500 +0000" channel="Channel 5.mewatch">
         <title>(Live) News Tonight</title>
     </programme>
-    <programme start="20260506133000 +0000" stop="20260506140000 +0000" channel="Channel 5.mewatch">
+    <programme start="20260506134500 +0000" stop="20260506141500 +0000" channel="Channel 5.mewatch">
         <title>Border Security: America&#039;s Front Line S2 - EP 18</title>
     </programme>
-    <programme start="20260506140000 +0000" stop="20260506150000 +0000" channel="Channel 5.mewatch">
+    <programme start="20260506141500 +0000" stop="20260506150000 +0000" channel="Channel 5.mewatch">
         <title>Hoarders S13 - EP 16</title>
     </programme>
     <programme start="20260506150000 +0000" stop="20260506160000 +0000" channel="Channel 5.mewatch">
