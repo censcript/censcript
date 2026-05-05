@@ -2554,10 +2554,97 @@
 <programme start="20260505211500 +0000" stop="20260505220500 +0000" channel="Sky Showcase HD.skyde">
     <title>The Miniature Wife</title>
 </programme>
+<programme start="20260504223000 +0000" stop="20260504230000 +0000" channel="Sky Sport Austria 1 HD.skyde">
+    <title>Fußball: Querfeld. Eine Sky Sport Austria Dokumentation</title>
+</programme>
+<programme start="20260504230000 +0000" stop="20260505010000 +0000" channel="Sky Sport Austria 1 HD.skyde">
+    <title>Admiral BL: SCR Altach - RZ Pellets WAC, 30. Runde</title>
+</programme>
+<programme start="20260505010000 +0000" stop="20260505030000 +0000" channel="Sky Sport Austria 1 HD.skyde">
+    <title>Admiral BL: LASK - SK Rapid, 30. Runde</title>
+</programme>
+<programme start="20260505030000 +0000" stop="20260505033000 +0000" channel="Sky Sport Austria 1 HD.skyde">
+    <title>Fußball: Heimspiel - Wiener Viktoria</title>
+</programme>
+<programme start="20260505033000 +0000" stop="20260505040000 +0000" channel="Sky Sport Austria 1 HD.skyde">
+    <title>Fußball: Heimspiel - Union Gurten</title>
+</programme>
+<programme start="20260505040000 +0000" stop="20260505043000 +0000" channel="Sky Sport Austria 1 HD.skyde">
+    <title>Fußball: Heimspiel - Austria Salzburg</title>
+</programme>
+<programme start="20260505043000 +0000" stop="20260505044500 +0000" channel="Sky Sport Austria 1 HD.skyde">
+    <title>UEFA CL: Highlights XXL: PSG - FCB, Halbfinale Hinspiel</title>
+</programme>
+<programme start="20260505044500 +0000" stop="20260505051500 +0000" channel="Sky Sport Austria 1 HD.skyde">
+    <title>UEFA CL: Magazin</title>
+</programme>
+<programme start="20260505051500 +0000" stop="20260505054500 +0000" channel="Sky Sport Austria 1 HD.skyde">
+    <title>RIESENrad: Sportgrößen im Waggon 28 (Gast: Johannes Aigner)</title>
+</programme>
+<programme start="20260505054500 +0000" stop="20260505060000 +0000" channel="Sky Sport Austria 1 HD.skyde">
+    <title>UEFA CL: Highlights XXL: PSG - FCB, Halbfinale Hinspiel</title>
+</programme>
+<programme start="20260505060000 +0000" stop="20260505063000 +0000" channel="Sky Sport Austria 1 HD.skyde">
+    <title>Admiral BL: ASAT Kompakt, 30. Runde</title>
+</programme>
+<programme start="20260505063000 +0000" stop="20260505083000 +0000" channel="Sky Sport Austria 1 HD.skyde">
+    <title>UEFA CL: Paris Saint-Germain - FC Bayern München, Halbfinale Hinspiel</title>
+</programme>
+<programme start="20260505083000 +0000" stop="20260505090000 +0000" channel="Sky Sport Austria 1 HD.skyde">
+    <title>Admiral BL: 90in30: RBS - STU, 30. Runde</title>
+</programme>
+<programme start="20260505090000 +0000" stop="20260505093000 +0000" channel="Sky Sport Austria 1 HD.skyde">
+    <title>UEFA CL: Magazin</title>
+</programme>
+<programme start="20260505093000 +0000" stop="20260505113000 +0000" channel="Sky Sport Austria 1 HD.skyde">
+    <title>UEFA CL: Paris Saint-Germain - FC Bayern München, Halbfinale Hinspiel</title>
+</programme>
+<programme start="20260505113000 +0000" stop="20260505120000 +0000" channel="Sky Sport Austria 1 HD.skyde">
+    <title>Die UEFA CL am Dienstag: Analyse</title>
+</programme>
+<programme start="20260505120000 +0000" stop="20260505130000 +0000" channel="Sky Sport Austria 1 HD.skyde">
+    <title>UEFA EL: UEL &amp; UECL Magazin</title>
+</programme>
+<programme start="20260505130000 +0000" stop="20260505131500 +0000" channel="Sky Sport Austria 1 HD.skyde">
+    <title>UEFA CL: Highlights XXL: PSG - FCB, Halbfinale Hinspiel</title>
+</programme>
+<programme start="20260505131500 +0000" stop="20260505134500 +0000" channel="Sky Sport Austria 1 HD.skyde">
+    <title>UEFA CL: Magazin</title>
+</programme>
+<programme start="20260505134500 +0000" stop="20260505154500 +0000" channel="Sky Sport Austria 1 HD.skyde">
+    <title>UEFA CL: Paris Saint-Germain - FC Bayern München, Halbfinale Hinspiel</title>
+</programme>
+<programme start="20260505154500 +0000" stop="20260505161500 +0000" channel="Sky Sport Austria 1 HD.skyde">
+    <title>Die UEFA CL am Dienstag: Analyse</title>
+</programme>
+<programme start="20260505161500 +0000" stop="20260505171500 +0000" channel="Sky Sport Austria 1 HD.skyde">
+    <title>UEFA EL: UEL &amp; UECL Magazin</title>
+</programme>
+<programme start="20260505171500 +0000" stop="20260505173000 +0000" channel="Sky Sport Austria 1 HD.skyde">
+    <title>UEFA CL: Highlights XXL: PSG - FCB, Halbfinale Hinspiel</title>
+</programme>
+<programme start="20260505173000 +0000" stop="20260505180000 +0000" channel="Sky Sport Austria 1 HD.skyde">
+    <title>UEFA CL: Magazin</title>
+</programme>
+<programme start="20260505180000 +0000" stop="20260505185000 +0000" channel="Sky Sport Austria 1 HD.skyde">
+    <title>Live Die UEFA CL am Dienstag: Vorbericht</title>
+</programme>
+<programme start="20260505185000 +0000" stop="20260505210000 +0000" channel="Sky Sport Austria 1 HD.skyde">
+    <title>Live UEFA CL: FC Arsenal - Atletico Madrid, Halbfinale Rückspiel</title>
+</programme>
+<programme start="20260505210000 +0000" stop="20260505213000 +0000" channel="Sky Sport Austria 1 HD.skyde">
+    <title>Live Die UEFA CL am Dienstag: Analyse</title>
+</programme>
+<programme start="20260505213000 +0000" stop="20260505214500 +0000" channel="Sky Sport Austria 1 HD.skyde">
+    <title>UEFA CL: Highlights XXL: ARS - ATM, Halbfinale Rückspiel</title>
+</programme>
+<programme start="20260505214500 +0000" stop="20260505220000 +0000" channel="Sky Sport Austria 1 HD.skyde">
+    <title>UEFA CL: Highlights XXL: ARS - ATM, Halbfinale Rückspiel</title>
+</programme>
 <programme start="20260505084000 +0000" stop="20260505090000 +0000" channel="Sky Sport Austria 2 HD.skyde">
     <title>Es folgt: LIVE WTA Tour</title>
 </programme>
-<programme start="20260505090000 +0000" stop="20260505200000 +0000" channel="Sky Sport Austria 2 HD.skyde">
+<programme start="20260505090000 +0000" stop="20260505190000 +0000" channel="Sky Sport Austria 2 HD.skyde">
     <title>Live WTA 1000: Internazionali BNL d&#039;Italia in Rom (Italien), 1. Tag</title>
 </programme>
 <programme start="20260505090000 +0000" stop="20260505090500 +0000" channel="Sky Sport Austria 4 HD.skyde">
@@ -3023,7 +3110,7 @@
     <title>LPGA: Riviera Maya Open at Mayakoba, 4. Tag in Quintana Roo (Mexiko)</title>
 </programme>
 <programme start="20260505070000 +0000" stop="20260505080000 +0000" channel="Sky Sport Golf HD.skyde">
-    <title>Golf Ladies ET: Highlights MCB Ladies Classic</title>
+    <title>PGA Championship: Official Film 2014 (Rory McIlroy)</title>
 </programme>
 <programme start="20260505080000 +0000" stop="20260505110000 +0000" channel="Sky Sport Golf HD.skyde">
     <title>Asian Tour: Maekyung Open Golf Championship, 1. Tag in Seongnam-si (Südkorea)</title>
@@ -3043,13 +3130,13 @@
 <programme start="20260504220000 +0000" stop="20260504230000 +0000" channel="Sky Sport Mix HD.skyde">
     <title>NHL: Tonight - Playoff Edition</title>
 </programme>
-<programme start="20260504230000 +0000" stop="20260505020000 +0000" channel="Sky Sport Mix HD.skyde">
+<programme start="20260504230000 +0000" stop="20260505023500 +0000" channel="Sky Sport Mix HD.skyde">
     <title>Live NHL: Philadelphia Flyers @ Carolina Hurricanes, Playoffs, 2. Runde, Spiel 2</title>
 </programme>
-<programme start="20260505020000 +0000" stop="20260505030000 +0000" channel="Sky Sport Mix HD.skyde">
+<programme start="20260505023500 +0000" stop="20260505030500 +0000" channel="Sky Sport Mix HD.skyde">
     <title>3. Liga: Alle Spiele, alle Tore, 36. Spieltag komplett</title>
 </programme>
-<programme start="20260505030000 +0000" stop="20260505050000 +0000" channel="Sky Sport Mix HD.skyde">
+<programme start="20260505030500 +0000" stop="20260505050000 +0000" channel="Sky Sport Mix HD.skyde">
     <title>DFB-Pokal: VfB Stuttgart - SC Freiburg, Halbfinale</title>
 </programme>
 <programme start="20260505050000 +0000" stop="20260505070000 +0000" channel="Sky Sport Mix HD.skyde">
@@ -3136,7 +3223,7 @@
 <programme start="20260505161500 +0000" stop="20260505163000 +0000" channel="Sky Sport News HD.skyde">
     <title>Live Sky Sport News: So denken die Fans.... Das Tennis-Barometer</title>
 </programme>
-<programme start="20260505163000 +0000" stop="20260505183000 +0000" channel="Sky Sport News HD.skyde">
+<programme start="20260505173000 +0000" stop="20260505183000 +0000" channel="Sky Sport News HD.skyde">
     <title>Live Sky Sport News: Primetime</title>
 </programme>
 <programme start="20260505183000 +0000" stop="20260505190000 +0000" channel="Sky Sport News HD.skyde">
@@ -3296,7 +3383,7 @@
     <title>ATP: The Ring Master: Alexander Bublik</title>
 </programme>
 <programme start="20260505193000 +0000" stop="20260505213000 +0000" channel="Sky Sport Tennis HD.skyde">
-    <title>WTA 1000: Topspiel, Internazionali BNL d&#039;Italia in Rom (Italien), 1. Tag</title>
+    <title>WTA 1000: S. Kenin (USA) - B. Andreescu (CAN), Internazionali BNL d&#039;Italia in Rom (Italien), 1. Tag</title>
 </programme>
 <programme start="20260505213000 +0000" stop="20260505233000 +0000" channel="Sky Sport Tennis HD.skyde">
     <title>WTA 1000: M. Kostyuk (UKR) - M. Andreeva, Mutua Madrid Open in Madrid (ESP), Finale</title>
@@ -3313,22 +3400,22 @@
 <programme start="20260505000000 +0000" stop="20260505023000 +0000" channel="Sky Sport Top Event HD.skyde">
     <title>Live NBA: Philadelphia 76ers @ New York Knicks, Conference Semifinals, Spiel 1</title>
 </programme>
-<programme start="20260505023000 +0000" stop="20260505040000 +0000" channel="Sky Sport Top Event HD.skyde">
+<programme start="20260505023000 +0000" stop="20260505042000 +0000" channel="Sky Sport Top Event HD.skyde">
     <title>Live NBA: Minnesota Timberwolves @ San Antonio Spurs, Conference Semifinals, Spiel 1</title>
 </programme>
-<programme start="20260505040000 +0000" stop="20260505043000 +0000" channel="Sky Sport Top Event HD.skyde">
+<programme start="20260505042000 +0000" stop="20260505045500 +0000" channel="Sky Sport Top Event HD.skyde">
     <title>Live NBA: Showtime - Post Show</title>
 </programme>
-<programme start="20260505043000 +0000" stop="20260505050000 +0000" channel="Sky Sport Top Event HD.skyde">
+<programme start="20260505045500 +0000" stop="20260505053000 +0000" channel="Sky Sport Top Event HD.skyde">
     <title>BL: 90in30: B04 - RBL, 32. Spieltag</title>
 </programme>
-<programme start="20260505050000 +0000" stop="20260505060000 +0000" channel="Sky Sport Top Event HD.skyde">
+<programme start="20260505053000 +0000" stop="20260505060000 +0000" channel="Sky Sport Top Event HD.skyde">
     <title>F2: 1. Rennen - GP Miami</title>
 </programme>
-<programme start="20260505060000 +0000" stop="20260505070000 +0000" channel="Sky Sport Top Event HD.skyde">
+<programme start="20260505060000 +0000" stop="20260505071500 +0000" channel="Sky Sport Top Event HD.skyde">
     <title>F2: 2. Rennen - GP Miami</title>
 </programme>
-<programme start="20260505070000 +0000" stop="20260505090000 +0000" channel="Sky Sport Top Event HD.skyde">
+<programme start="20260505071500 +0000" stop="20260505090000 +0000" channel="Sky Sport Top Event HD.skyde">
     <title>NHL: Philadelphia Flyers @ Carolina Hurricanes, Playoffs, 2. Runde, Spiel 2</title>
 </programme>
 <programme start="20260505090000 +0000" stop="20260505170000 +0000" channel="Sky Sport Top Event HD.skyde">
@@ -3382,10 +3469,10 @@
 <programme start="20260504224000 +0000" stop="20260505013000 +0000" channel="Sky Sport 2 HD.skyde">
     <title>Es folgt: ab 03:30: LIVE NBA</title>
 </programme>
-<programme start="20260505013000 +0000" stop="20260505040000 +0000" channel="Sky Sport 2 HD.skyde">
+<programme start="20260505013000 +0000" stop="20260505042000 +0000" channel="Sky Sport 2 HD.skyde">
     <title>Live NBA: Minnesota Timberwolves @ San Antonio Spurs, Conference Semifinals, Spiel 1</title>
 </programme>
-<programme start="20260505040000 +0000" stop="20260505080000 +0000" channel="Sky Sport 2 HD.skyde">
+<programme start="20260505042000 +0000" stop="20260505051500 +0000" channel="Sky Sport 2 HD.skyde">
     <title>Live NBA: Showtime - Post Show</title>
 </programme>
 <programme start="20260505090000 +0000" stop="20260505090500 +0000" channel="Sky Sport 4 HD.skyde">

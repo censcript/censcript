@@ -640,12 +640,6 @@
 <programme start="20260505100000 +0000" stop="20260505120000 +0000" channel="ANTV.vision">
 <title>Vasudha</title>
 </programme>
-<programme start="20260505153000 +0000" stop="20260505173000 +0000" channel="ANTV.vision">
-<title>Kembalinya Si Janda Kembang</title>
-</programme>
-<programme start="20260505173000 +0000" stop="20260505193000 +0000" channel="ANTV.vision">
-<title>Protege De La Rose Noire</title>
-</programme>
 <programme start="20260505193000 +0000" stop="20260505220000 +0000" channel="ANTV.vision">
 <title>Shaandaar</title>
 </programme>
@@ -1497,4 +1491,10 @@
 </programme>
 <programme start="20260506090000 +0000" stop="20260506090500 +0000" channel="BTV.vision">
 <title>Berita Satu Terkini</title>
+</programme>
+<programme start="20260506090500 +0000" stop="20260506100000 +0000" channel="BTV.vision">
+<title>Berita Satu Sore</title>
+</programme>
+<programme start="20260506100000 +0000" stop="20260506103000 +0000" channel="BTV.vision">
+<title>Berita Merah Putih</title>
 </programme>

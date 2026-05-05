@@ -7663,7 +7663,51 @@
 <programme start="20260506160000 +0000" stop="20260506163000 +0000" channel="RCTI.mncvision">
     <title>My Angel Wife</title>
 </programme>
-Error: Unable to fetch data. HTTP Status Code: 500
+<programme start="20260505183000 +0000" stop="20260505193000 +0000" channel="RCTI HD.mncvision">
+    <title>Satu Nama Beda Cinta</title>
+</programme>
+<programme start="20260505193000 +0000" stop="20260505230000 +0000" channel="RCTI HD.mncvision">
+    <title>Preman Pensiun X</title>
+</programme>
+<programme start="20260505230000 +0000" stop="20260506010000 +0000" channel="RCTI HD.mncvision">
+    <title>Upin Ipin</title>
+</programme>
+<programme start="20260506010000 +0000" stop="20260506023000 +0000" channel="RCTI HD.mncvision">
+    <title>Entong</title>
+</programme>
+<programme start="20260506023000 +0000" stop="20260506033000 +0000" channel="RCTI HD.mncvision">
+    <title>Realita</title>
+</programme>
+<programme start="20260506033000 +0000" stop="20260506043000 +0000" channel="RCTI HD.mncvision">
+    <title>Silet</title>
+</programme>
+<programme start="20260506043000 +0000" stop="20260506050000 +0000" channel="RCTI HD.mncvision">
+    <title>Seputar iNews Siang</title>
+</programme>
+<programme start="20260506050000 +0000" stop="20260506063000 +0000" channel="RCTI HD.mncvision">
+    <title>Tukang Bubur Naik Haji Series</title>
+</programme>
+<programme start="20260506063000 +0000" stop="20260506090000 +0000" channel="RCTI HD.mncvision">
+    <title>Si Doel Spesial Benyamin</title>
+</programme>
+<programme start="20260506090000 +0000" stop="20260506103000 +0000" channel="RCTI HD.mncvision">
+    <title>Healing Jalur King Nassar</title>
+</programme>
+<programme start="20260506103000 +0000" stop="20260506120000 +0000" channel="RCTI HD.mncvision">
+    <title>Preman Pensiun Deui</title>
+</programme>
+<programme start="20260506120000 +0000" stop="20260506133000 +0000" channel="RCTI HD.mncvision">
+    <title>Terikat Janji</title>
+</programme>
+<programme start="20260506133000 +0000" stop="20260506144500 +0000" channel="RCTI HD.mncvision">
+    <title>Turun Ranjang</title>
+</programme>
+<programme start="20260506144500 +0000" stop="20260506160000 +0000" channel="RCTI HD.mncvision">
+    <title>Kalau Cinta Jangan Gengsi</title>
+</programme>
+<programme start="20260506160000 +0000" stop="20260506163000 +0000" channel="RCTI HD.mncvision">
+    <title>My Angel Wife</title>
+</programme>
 <programme start="20260505183500 +0000" stop="20260505205000 +0000" channel="Rock Action.mncvision">
     <title>Fast &amp; Furious 7</title>
 </programme>
