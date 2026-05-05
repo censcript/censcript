@@ -2644,7 +2644,7 @@
 <programme start="20260505084000 +0000" stop="20260505090000 +0000" channel="Sky Sport Austria 2 HD.skyde">
     <title>Es folgt: LIVE WTA Tour</title>
 </programme>
-<programme start="20260505090000 +0000" stop="20260505170000 +0000" channel="Sky Sport Austria 2 HD.skyde">
+<programme start="20260505090000 +0000" stop="20260505200000 +0000" channel="Sky Sport Austria 2 HD.skyde">
     <title>Live WTA 1000: Internazionali BNL d&#039;Italia in Rom (Italien), 1. Tag</title>
 </programme>
 <programme start="20260505090000 +0000" stop="20260505090500 +0000" channel="Sky Sport Austria 4 HD.skyde">
@@ -3216,6 +3216,12 @@
 </programme>
 <programme start="20260505130000 +0000" stop="20260505160000 +0000" channel="Sky Sport News HD.skyde">
     <title>Live Sky Sport News: Der Nachmittag</title>
+</programme>
+<programme start="20260505160000 +0000" stop="20260505161500 +0000" channel="Sky Sport News HD.skyde">
+    <title>Live Sky Sport News: Primetime</title>
+</programme>
+<programme start="20260505161500 +0000" stop="20260505163000 +0000" channel="Sky Sport News HD.skyde">
+    <title>Live Sky Sport News: So denken die Fans.... Das Tennis-Barometer</title>
 </programme>
 <programme start="20260505163000 +0000" stop="20260505183000 +0000" channel="Sky Sport News HD.skyde">
     <title>Live Sky Sport News: Primetime</title>
@@ -4186,10 +4192,10 @@
 <programme start="20260505083500 +0000" stop="20260505105000 +0000" channel="Warner TV Film HD.skyde">
     <title>Der endlose Horizont</title>
 </programme>
-<programme start="20260505105000 +0000" stop="20260505140500 +0000" channel="Warner TV Film HD.skyde">
+<programme start="20260505105000 +0000" stop="20260505141000 +0000" channel="Warner TV Film HD.skyde">
     <title>Giganten</title>
 </programme>
-<programme start="20260505140500 +0000" stop="20260505160500 +0000" channel="Warner TV Film HD.skyde">
+<programme start="20260505141000 +0000" stop="20260505160500 +0000" channel="Warner TV Film HD.skyde">
     <title>Ausnahmezustand</title>
 </programme>
 <programme start="20260505160500 +0000" stop="20260505181500 +0000" channel="Warner TV Film HD.skyde">

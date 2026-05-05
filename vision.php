@@ -640,9 +640,6 @@
 <programme start="20260505100000 +0000" stop="20260505120000 +0000" channel="ANTV.vision">
 <title>Vasudha</title>
 </programme>
-<programme start="20260505120000 +0000" stop="20260505140000 +0000" channel="ANTV.vision">
-<title>Mandala Dari Sungai Ular</title>
-</programme>
 <programme start="20260505140000 +0000" stop="20260505153000 +0000" channel="ANTV.vision">
 <title>Bernapas Dalam Lumpur</title>
 </programme>
@@ -1497,4 +1494,7 @@
 </programme>
 <programme start="20260506073000 +0000" stop="20260506080000 +0000" channel="BTV.vision">
 <title>Indonesia Update Dari Nol</title>
+</programme>
+<programme start="20260506080000 +0000" stop="20260506083000 +0000" channel="BTV.vision">
+<title>Berita Kriminal</title>
 </programme>
