@@ -191,7 +191,7 @@
     <title>News (L)</title>
 </programme>
 <programme start="20260505163000 +0000" stop="20260504170000 +0000" channel="Al Jazeera English.mncvision">
-    <title>Counting The Cost, Ep 27</title>
+    <title>Counting The Cost</title>
 </programme>
 <programme start="20260504170000 +0000" stop="20260504190000 +0000" channel="Al Quran Al Kareem.mncvision">
     <title>Live From Mekkah</title>

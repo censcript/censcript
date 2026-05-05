@@ -3220,10 +3220,10 @@
   <programme start="20260507201000 +0000" stop="20260507221500 +0000" channel="NOE.webtv.sk">
     <title lang="id">Pod lampou</title>
   </programme>
-  <programme start="20260506211900 +0000" stop="20260506221300 +0000" channel="ČT1.webtv.sk">
+  <programme start="20260506211800 +0000" stop="20260506221200 +0000" channel="ČT1.webtv.sk">
     <title lang="id">Inspektorka Candice Renoirová VII (7)</title>
   </programme>
-  <programme start="20260506221300 +0000" stop="20260506224000 +0000" channel="ČT1.webtv.sk">
+  <programme start="20260506221200 +0000" stop="20260506224000 +0000" channel="ČT1.webtv.sk">
     <title lang="id">AZ-kvíz</title>
   </programme>
   <programme start="20260506224000 +0000" stop="20260506230500 +0000" channel="ČT1.webtv.sk">
@@ -3313,22 +3313,22 @@
   <programme start="20260507175600 +0000" stop="20260507181000 +0000" channel="ČT1.webtv.sk">
     <title lang="id">Branky, body, vteřiny</title>
   </programme>
-  <programme start="20260507181000 +0000" stop="20260507190200 +0000" channel="ČT1.webtv.sk">
+  <programme start="20260507181000 +0000" stop="20260507190300 +0000" channel="ČT1.webtv.sk">
     <title lang="id">Inspektorka Candice Renoirová VII (8)</title>
   </programme>
-  <programme start="20260507190200 +0000" stop="20260507193500 +0000" channel="ČT1.webtv.sk">
+  <programme start="20260507190300 +0000" stop="20260507193500 +0000" channel="ČT1.webtv.sk">
     <title lang="id">Gejzír</title>
   </programme>
-  <programme start="20260507193500 +0000" stop="20260507203100 +0000" channel="ČT1.webtv.sk">
+  <programme start="20260507193500 +0000" stop="20260507203200 +0000" channel="ČT1.webtv.sk">
     <title lang="id">Máte slovo s M. Jílkovou</title>
   </programme>
-  <programme start="20260507203100 +0000" stop="20260507205600 +0000" channel="ČT1.webtv.sk">
+  <programme start="20260507203200 +0000" stop="20260507205600 +0000" channel="ČT1.webtv.sk">
     <title lang="id">Na stopě</title>
   </programme>
-  <programme start="20260507205600 +0000" stop="20260507205800 +0000" channel="ČT1.webtv.sk">
+  <programme start="20260507205600 +0000" stop="20260507205900 +0000" channel="ČT1.webtv.sk">
     <title lang="id">Výsledky losování Šťastných 10 a Extra Renty</title>
   </programme>
-  <programme start="20260507205800 +0000" stop="20260507214500 +0000" channel="ČT1.webtv.sk">
+  <programme start="20260507205900 +0000" stop="20260507214500 +0000" channel="ČT1.webtv.sk">
     <title lang="id">Případy detektiva Murdocha XVII (4)</title>
   </programme>
   <programme start="20260507214500 +0000" stop="20260507221600 +0000" channel="ČT1.webtv.sk">
@@ -3337,10 +3337,10 @@
   <programme start="20260506214400 +0000" stop="20260506223300 +0000" channel="ČT2.webtv.sk">
     <title lang="id">Pearl Harbor: Svět v plamenech (1/2)</title>
   </programme>
-  <programme start="20260506223300 +0000" stop="20260506233100 +0000" channel="ČT2.webtv.sk">
+  <programme start="20260506223300 +0000" stop="20260506233000 +0000" channel="ČT2.webtv.sk">
     <title lang="id">Dějiny antisemitismu (2/4)</title>
   </programme>
-  <programme start="20260506233100 +0000" stop="20260506234700 +0000" channel="ČT2.webtv.sk">
+  <programme start="20260506233000 +0000" stop="20260506234700 +0000" channel="ČT2.webtv.sk">
     <title lang="id">Antonín Moskalyk, režisér</title>
   </programme>
   <programme start="20260506234700 +0000" stop="20260507001300 +0000" channel="ČT2.webtv.sk">

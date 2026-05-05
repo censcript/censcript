@@ -6677,13 +6677,13 @@
         <title>The final trail</title>
     </programme>
     <programme start="20260504160000 +0000" stop="20260504213000 +0000" channel="Hub Sports 1  HD.starhub">
-        <title>European C&#039;ships 2026 Semi-Finals &amp; Finals</title>
+        <title>Semi-Finals &amp; Finals</title>
     </programme>
     <programme start="20260504213000 +0000" stop="20260504220000 +0000" channel="Hub Sports 1  HD.starhub">
-        <title>WTA All Access 2026</title>
+        <title>Episode 2</title>
     </programme>
     <programme start="20260504220000 +0000" stop="20260504230000 +0000" channel="Hub Sports 1  HD.starhub">
-        <title>ATP Tour Review Show 2026 Qatar ExxonMobil Open</title>
+        <title>Qatar ExxonMobil Open</title>
     </programme>
     <programme start="20260504230000 +0000" stop="20260505010000 +0000" channel="Hub Sports 1  HD.starhub">
         <title>Barcelona Open Banc Sabadell (500) Final</title>

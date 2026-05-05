@@ -94,7 +94,10 @@
 <programme start="20260505070000 +0000" stop="20260505090000 +0000" channel="MNCTV.vision">
 <title>Upin dan Ipin (MNCTV)</title>
 </programme>
-<programme start="20260505090000 +0000" stop="20260505120000 +0000" channel="MNCTV.vision">
+<programme start="20260505090000 +0000" stop="20260505103000 +0000" channel="MNCTV.vision">
+<title>Upin &amp; Ipin</title>
+</programme>
+<programme start="20260505103000 +0000" stop="20260505120000 +0000" channel="MNCTV.vision">
 <title>Upin &amp; Ipin</title>
 </programme>
 <programme start="20260505120000 +0000" stop="20260505130000 +0000" channel="MNCTV.vision">
@@ -142,7 +145,10 @@
 <programme start="20260506070000 +0000" stop="20260506090000 +0000" channel="MNCTV.vision">
 <title>Upin dan Ipin (MNCTV)</title>
 </programme>
-<programme start="20260506090000 +0000" stop="20260506120000 +0000" channel="MNCTV.vision">
+<programme start="20260506090000 +0000" stop="20260506103000 +0000" channel="MNCTV.vision">
+<title>Upin &amp; Ipin</title>
+</programme>
+<programme start="20260506103000 +0000" stop="20260506120000 +0000" channel="MNCTV.vision">
 <title>Upin &amp; Ipin</title>
 </programme>
 <programme start="20260504230000 +0000" stop="20260505020000 +0000" channel="GTV.vision">
@@ -622,6 +628,9 @@
 <programme start="20260505010000 +0000" stop="20260505023000 +0000" channel="ANTV.vision">
 <title>Misteri Sungai Mekong</title>
 </programme>
+<programme start="20260505023000 +0000" stop="20260505060000 +0000" channel="ANTV.vision">
+<title>Kabhi Haan Kabhi Naa</title>
+</programme>
 <programme start="20260505060000 +0000" stop="20260505080000 +0000" channel="ANTV.vision">
 <title>Jhanak</title>
 </programme>
@@ -632,7 +641,7 @@
 <title>Vasudha</title>
 </programme>
 <programme start="20260505120000 +0000" stop="20260505140000 +0000" channel="ANTV.vision">
-<title>Cakar Harimau</title>
+<title>Mandala Dari Sungai Ular</title>
 </programme>
 <programme start="20260505140000 +0000" stop="20260505153000 +0000" channel="ANTV.vision">
 <title>Bernapas Dalam Lumpur</title>
@@ -644,7 +653,7 @@
 <title>Protege De La Rose Noire</title>
 </programme>
 <programme start="20260505193000 +0000" stop="20260505220000 +0000" channel="ANTV.vision">
-<title>Ta Ra Rum Pum</title>
+<title>Shaandaar</title>
 </programme>
 <programme start="20260505220000 +0000" stop="20260505230000 +0000" channel="ANTV.vision">
 <title>Ummi</title>
@@ -1488,13 +1497,4 @@
 </programme>
 <programme start="20260506073000 +0000" stop="20260506080000 +0000" channel="BTV.vision">
 <title>Indonesia Update Dari Nol</title>
-</programme>
-<programme start="20260506080000 +0000" stop="20260506083000 +0000" channel="BTV.vision">
-<title>Berita Kriminal</title>
-</programme>
-<programme start="20260506083000 +0000" stop="20260506090000 +0000" channel="BTV.vision">
-<title>Berita Satu Sore (L)</title>
-</programme>
-<programme start="20260506090000 +0000" stop="20260506090500 +0000" channel="BTV.vision">
-<title>Berita Satu Terkini</title>
 </programme>
