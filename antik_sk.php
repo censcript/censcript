@@ -5242,6 +5242,57 @@
   <programme start="20260506203000 +0000" stop="20260506220000 +0000" channel="Eurosport 2.webtv.sk">
     <title lang="id">Lezení: World Series v Keqiau</title>
   </programme>
+  <programme start="20260505204500 +0000" stop="20260505224500 +0000" channel="Sport 1.webtv.sk">
+    <title lang="id">Fotbal: Atalanta - Janov</title>
+  </programme>
+  <programme start="20260505224500 +0000" stop="20260506004500 +0000" channel="Sport 1.webtv.sk">
+    <title lang="id">Fotbal: Como - Neapol</title>
+  </programme>
+  <programme start="20260506004500 +0000" stop="20260506023000 +0000" channel="Sport 1.webtv.sk">
+    <title lang="id">Házená: Hannover-Burgdorf - Flensburg</title>
+  </programme>
+  <programme start="20260506023000 +0000" stop="20260506040000 +0000" channel="Sport 1.webtv.sk">
+    <title lang="id">Házená: THW Kiel - Nexe</title>
+  </programme>
+  <programme start="20260506040000 +0000" stop="20260506050000 +0000" channel="Sport 1.webtv.sk">
+    <title lang="id">Poker</title>
+  </programme>
+  <programme start="20260506050000 +0000" stop="20260506060000 +0000" channel="Sport 1.webtv.sk">
+    <title lang="id">Poker</title>
+  </programme>
+  <programme start="20260506060000 +0000" stop="20260506070000 +0000" channel="Sport 1.webtv.sk">
+    <title lang="id">Poker</title>
+  </programme>
+  <programme start="20260506070000 +0000" stop="20260506093000 +0000" channel="Sport 1.webtv.sk">
+    <title lang="id">Lední hokej: Estonsko - Čína</title>
+  </programme>
+  <programme start="20260506093000 +0000" stop="20260506120000 +0000" channel="Sport 1.webtv.sk">
+    <title lang="id">Lední hokej: Kazachstán - Polsko</title>
+  </programme>
+  <programme start="20260506120000 +0000" stop="20260506124500 +0000" channel="Sport 1.webtv.sk">
+    <title lang="id">MVP</title>
+  </programme>
+  <programme start="20260506124500 +0000" stop="20260506144500 +0000" channel="Sport 1.webtv.sk">
+    <title lang="id">Fotbal: Sassuolo - Milán</title>
+  </programme>
+  <programme start="20260506144500 +0000" stop="20260506164500 +0000" channel="Sport 1.webtv.sk">
+    <title lang="id">Fotbal: Bologna - Cagliari</title>
+  </programme>
+  <programme start="20260506164500 +0000" stop="20260506183000 +0000" channel="Sport 1.webtv.sk">
+    <title lang="id">Házená: Füchse Berlín - One Veszprém</title>
+  </programme>
+  <programme start="20260506183000 +0000" stop="20260506184500 +0000" channel="Sport 1.webtv.sk">
+    <title lang="id">Zlaté okamžiky</title>
+  </programme>
+  <programme start="20260506184500 +0000" stop="20260506203000 +0000" channel="Sport 1.webtv.sk">
+    <title lang="id">Házená: Barcelona - Nantes</title>
+  </programme>
+  <programme start="20260506203000 +0000" stop="20260506210000 +0000" channel="Sport 1.webtv.sk">
+    <title lang="id">Fotbal, Serie A, Full Impact</title>
+  </programme>
+  <programme start="20260506210000 +0000" stop="20260506220000 +0000" channel="Sport 1.webtv.sk">
+    <title lang="id">Poker</title>
+  </programme>
   <programme start="20260505203000 +0000" stop="20260505230000 +0000" channel="Sport 2.webtv.sk">
     <title lang="id">Lední hokej</title>
   </programme>
