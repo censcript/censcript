@@ -2554,93 +2554,6 @@
 <programme start="20260505211500 +0000" stop="20260505220500 +0000" channel="Sky Showcase HD.skyde">
     <title>The Miniature Wife</title>
 </programme>
-<programme start="20260504223000 +0000" stop="20260504230000 +0000" channel="Sky Sport Austria 1 HD.skyde">
-    <title>Fußball: Querfeld. Eine Sky Sport Austria Dokumentation</title>
-</programme>
-<programme start="20260504230000 +0000" stop="20260505010000 +0000" channel="Sky Sport Austria 1 HD.skyde">
-    <title>Admiral BL: SCR Altach - RZ Pellets WAC, 30. Runde</title>
-</programme>
-<programme start="20260505010000 +0000" stop="20260505030000 +0000" channel="Sky Sport Austria 1 HD.skyde">
-    <title>Admiral BL: LASK - SK Rapid, 30. Runde</title>
-</programme>
-<programme start="20260505030000 +0000" stop="20260505033000 +0000" channel="Sky Sport Austria 1 HD.skyde">
-    <title>Fußball: Heimspiel - Wiener Viktoria</title>
-</programme>
-<programme start="20260505033000 +0000" stop="20260505040000 +0000" channel="Sky Sport Austria 1 HD.skyde">
-    <title>Fußball: Heimspiel - Union Gurten</title>
-</programme>
-<programme start="20260505040000 +0000" stop="20260505043000 +0000" channel="Sky Sport Austria 1 HD.skyde">
-    <title>Fußball: Heimspiel - Austria Salzburg</title>
-</programme>
-<programme start="20260505043000 +0000" stop="20260505044500 +0000" channel="Sky Sport Austria 1 HD.skyde">
-    <title>UEFA CL: Highlights XXL: PSG - FCB, Halbfinale Hinspiel</title>
-</programme>
-<programme start="20260505044500 +0000" stop="20260505051500 +0000" channel="Sky Sport Austria 1 HD.skyde">
-    <title>UEFA CL: Magazin</title>
-</programme>
-<programme start="20260505051500 +0000" stop="20260505054500 +0000" channel="Sky Sport Austria 1 HD.skyde">
-    <title>RIESENrad: Sportgrößen im Waggon 28 (Gast: Johannes Aigner)</title>
-</programme>
-<programme start="20260505054500 +0000" stop="20260505060000 +0000" channel="Sky Sport Austria 1 HD.skyde">
-    <title>UEFA CL: Highlights XXL: PSG - FCB, Halbfinale Hinspiel</title>
-</programme>
-<programme start="20260505060000 +0000" stop="20260505063000 +0000" channel="Sky Sport Austria 1 HD.skyde">
-    <title>Admiral BL: ASAT Kompakt, 30. Runde</title>
-</programme>
-<programme start="20260505063000 +0000" stop="20260505083000 +0000" channel="Sky Sport Austria 1 HD.skyde">
-    <title>UEFA CL: Paris Saint-Germain - FC Bayern München, Halbfinale Hinspiel</title>
-</programme>
-<programme start="20260505083000 +0000" stop="20260505090000 +0000" channel="Sky Sport Austria 1 HD.skyde">
-    <title>Admiral BL: 90in30: RBS - STU, 30. Runde</title>
-</programme>
-<programme start="20260505090000 +0000" stop="20260505093000 +0000" channel="Sky Sport Austria 1 HD.skyde">
-    <title>UEFA CL: Magazin</title>
-</programme>
-<programme start="20260505093000 +0000" stop="20260505113000 +0000" channel="Sky Sport Austria 1 HD.skyde">
-    <title>UEFA CL: Paris Saint-Germain - FC Bayern München, Halbfinale Hinspiel</title>
-</programme>
-<programme start="20260505113000 +0000" stop="20260505120000 +0000" channel="Sky Sport Austria 1 HD.skyde">
-    <title>Die UEFA CL am Dienstag: Analyse</title>
-</programme>
-<programme start="20260505120000 +0000" stop="20260505130000 +0000" channel="Sky Sport Austria 1 HD.skyde">
-    <title>UEFA EL: UEL &amp; UECL Magazin</title>
-</programme>
-<programme start="20260505130000 +0000" stop="20260505131500 +0000" channel="Sky Sport Austria 1 HD.skyde">
-    <title>UEFA CL: Highlights XXL: PSG - FCB, Halbfinale Hinspiel</title>
-</programme>
-<programme start="20260505131500 +0000" stop="20260505134500 +0000" channel="Sky Sport Austria 1 HD.skyde">
-    <title>UEFA CL: Magazin</title>
-</programme>
-<programme start="20260505134500 +0000" stop="20260505154500 +0000" channel="Sky Sport Austria 1 HD.skyde">
-    <title>UEFA CL: Paris Saint-Germain - FC Bayern München, Halbfinale Hinspiel</title>
-</programme>
-<programme start="20260505154500 +0000" stop="20260505161500 +0000" channel="Sky Sport Austria 1 HD.skyde">
-    <title>Die UEFA CL am Dienstag: Analyse</title>
-</programme>
-<programme start="20260505161500 +0000" stop="20260505171500 +0000" channel="Sky Sport Austria 1 HD.skyde">
-    <title>UEFA EL: UEL &amp; UECL Magazin</title>
-</programme>
-<programme start="20260505171500 +0000" stop="20260505173000 +0000" channel="Sky Sport Austria 1 HD.skyde">
-    <title>UEFA CL: Highlights XXL: PSG - FCB, Halbfinale Hinspiel</title>
-</programme>
-<programme start="20260505173000 +0000" stop="20260505180000 +0000" channel="Sky Sport Austria 1 HD.skyde">
-    <title>UEFA CL: Magazin</title>
-</programme>
-<programme start="20260505180000 +0000" stop="20260505185000 +0000" channel="Sky Sport Austria 1 HD.skyde">
-    <title>Live Die UEFA CL am Dienstag: Vorbericht</title>
-</programme>
-<programme start="20260505185000 +0000" stop="20260505210000 +0000" channel="Sky Sport Austria 1 HD.skyde">
-    <title>Live UEFA CL: FC Arsenal - Atletico Madrid, Halbfinale Rückspiel</title>
-</programme>
-<programme start="20260505210000 +0000" stop="20260505213000 +0000" channel="Sky Sport Austria 1 HD.skyde">
-    <title>Live Die UEFA CL am Dienstag: Analyse</title>
-</programme>
-<programme start="20260505213000 +0000" stop="20260505214500 +0000" channel="Sky Sport Austria 1 HD.skyde">
-    <title>UEFA CL: Highlights XXL: ARS - ATM, Halbfinale Rückspiel</title>
-</programme>
-<programme start="20260505214500 +0000" stop="20260505220000 +0000" channel="Sky Sport Austria 1 HD.skyde">
-    <title>UEFA CL: Highlights XXL: ARS - ATM, Halbfinale Rückspiel</title>
-</programme>
 <programme start="20260505084000 +0000" stop="20260505090000 +0000" channel="Sky Sport Austria 2 HD.skyde">
     <title>Es folgt: LIVE WTA Tour</title>
 </programme>
@@ -3216,6 +3129,12 @@
 </programme>
 <programme start="20260505130000 +0000" stop="20260505160000 +0000" channel="Sky Sport News HD.skyde">
     <title>Live Sky Sport News: Der Nachmittag</title>
+</programme>
+<programme start="20260505160000 +0000" stop="20260505161500 +0000" channel="Sky Sport News HD.skyde">
+    <title>Live Sky Sport News: Primetime</title>
+</programme>
+<programme start="20260505161500 +0000" stop="20260505163000 +0000" channel="Sky Sport News HD.skyde">
+    <title>Live Sky Sport News: So denken die Fans.... Das Tennis-Barometer</title>
 </programme>
 <programme start="20260505163000 +0000" stop="20260505183000 +0000" channel="Sky Sport News HD.skyde">
     <title>Live Sky Sport News: Primetime</title>

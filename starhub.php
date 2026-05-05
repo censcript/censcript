@@ -1925,7 +1925,7 @@
         <title>Adidas &#039;92 Homecoming</title>
     </programme>
     <programme start="20260505160500 +0000" stop="20260505180000 +0000" channel="beIN Sports 3.starhub">
-        <title>TotalEnergies Africa Cup of Nations, Morocco 2025: Gabon vs Ivory Coast - Group</title>
+        <title>TotalEnergies Africa Cup of Nations, Morocco 2025: Gabon vs Ivory Coast - Group Stage</title>
     </programme>
     <programme start="20260505180000 +0000" stop="20260505193000 +0000" channel="beIN Sports 3.starhub">
         <title>John Gidman: My Story</title>
@@ -1934,10 +1934,10 @@
         <title>Rio de Janeiro , Brazil Day 2</title>
     </programme>
     <programme start="20260505210000 +0000" stop="20260505213000 +0000" channel="beIN Sports 3.starhub">
-        <title>Mini Match - TotalEnergies Africa Cup of Nations, Morocco 2025: South Africa vs</title>
+        <title>Mini Match - TotalEnergies Africa Cup of Nations, Morocco 2025: South Africa vs Angola</title>
     </programme>
     <programme start="20260505213000 +0000" stop="20260505220000 +0000" channel="beIN Sports 3.starhub">
-        <title>Mini Match - TotalEnergies Africa Cup of Nations, Morocco 2025: Egypt vs Zimbabw</title>
+        <title>Mini Match - TotalEnergies Africa Cup of Nations, Morocco 2025: Egypt vs Zimbabwe</title>
     </programme>
     <programme start="20260505220000 +0000" stop="20260505223000 +0000" channel="beIN Sports 3.starhub">
         <title>Cape Epic Recap: Prologue - Stage 4</title>
