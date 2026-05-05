@@ -1987,8 +1987,11 @@
     <programme start="20260505080000 +0000" stop="20260505090000 +0000" channel="beIN Sports 3.starhub">
         <title>Matchday 21</title>
     </programme>
-    <programme start="20260505090000 +0000" stop="20260505121500 +0000" channel="beIN Sports 3.starhub">
+    <programme start="20260505090000 +0000" stop="20260505120000 +0000" channel="beIN Sports 3.starhub">
         <title>ONE Friday Fights 2026: OFF 152</title>
+    </programme>
+    <programme start="20260505120000 +0000" stop="20260505121500 +0000" channel="beIN Sports 3.starhub">
+        <title>Amad</title>
     </programme>
     <programme start="20260505121500 +0000" stop="20260505131500 +0000" channel="beIN Sports 3.starhub">
         <title>Matchday 32</title>
@@ -6683,34 +6686,34 @@
         <title>ATP Tour Review Show 2026 Qatar ExxonMobil Open</title>
     </programme>
     <programme start="20260504230000 +0000" stop="20260505010000 +0000" channel="Hub Sports 1  HD.starhub">
-        <title>ATP Tour 2026 Barcelona Open Banc Sabadell (500) Final</title>
+        <title>Barcelona Open Banc Sabadell (500) Final</title>
     </programme>
     <programme start="20260505010000 +0000" stop="20260505060000 +0000" channel="Hub Sports 1  HD.starhub">
-        <title>BWF Thomas &amp; Uber Cup Finals 2026 Uber Cup Finals</title>
+        <title>Uber Cup Finals: China vs Korea</title>
     </programme>
     <programme start="20260505060000 +0000" stop="20260505080000 +0000" channel="Hub Sports 1  HD.starhub">
-        <title>World Snooker C&#039;ship 2026 Day 17 Afternoon Session: Final (8)</title>
+        <title>Day 17 Afternoon Session: Final (8)</title>
     </programme>
     <programme start="20260505080000 +0000" stop="20260505090000 +0000" channel="Hub Sports 1  HD.starhub">
-        <title>ASO Marathon Programming 2026 Schneider Electric Marathon de Paris</title>
+        <title>Schneider Electric Marathon de Paris</title>
     </programme>
     <programme start="20260505090000 +0000" stop="20260505113000 +0000" channel="Hub Sports 1  HD.starhub">
-        <title>ATP Tour 2026 Rolex Monte-Carlo Masters (1000) Final</title>
+        <title>Rolex Monte-Carlo Masters (1000) Final</title>
     </programme>
     <programme start="20260505113000 +0000" stop="20260505120000 +0000" channel="Hub Sports 1  HD.starhub">
-        <title>Badminton Unlimited 2026</title>
+        <title>Episode 40</title>
     </programme>
     <programme start="20260505120000 +0000" stop="20260505130000 +0000" channel="Hub Sports 1  HD.starhub">
-        <title>ASO Cycling Programming 2026 UCI Asia Tour - Tour of Hainan Final H/Ls</title>
+        <title>UCI Asia Tour - Tour of Hainan Final H/Ls</title>
     </programme>
     <programme start="20260505130000 +0000" stop="20260505133000 +0000" channel="Hub Sports 1  HD.starhub">
-        <title>WTA Tour 2026 H/Ls Mutua Madrid Open</title>
+        <title>Mutua Madrid Open</title>
     </programme>
     <programme start="20260505133000 +0000" stop="20260505140000 +0000" channel="Hub Sports 1  HD.starhub">
-        <title>Heroines 2026</title>
+        <title>Season 4 Episode 1</title>
     </programme>
     <programme start="20260505140000 +0000" stop="20260505160000 +0000" channel="Hub Sports 1  HD.starhub">
-        <title>World Snooker C&#039;ship 2026 Day 17 Evening Session: Final (10)</title>
+        <title>Day 17 Evening Session: Final (10)</title>
     </programme>
     <programme start="20260504144400 +0000" stop="20260504170200 +0000" channel="SONY MAX.starhub">
         <title>Saajan Chale Sasural</title>

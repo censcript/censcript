@@ -3460,8 +3460,8 @@
 <programme start="20260505214000 +0000" stop="20260505220000 +0000" channel="Sky Sport 1 HD.skyde">
     <title>Es folgt: LIVE NBA</title>
 </programme>
-<programme start="20260505011000 +0000" stop="20260505013000 +0000" channel="Sky Sport 2 HD.skyde">
-    <title>Es folgt: LIVE NBA</title>
+<programme start="20260504224000 +0000" stop="20260505013000 +0000" channel="Sky Sport 2 HD.skyde">
+    <title>Es folgt: ab 03:30: LIVE NBA</title>
 </programme>
 <programme start="20260505013000 +0000" stop="20260505040000 +0000" channel="Sky Sport 2 HD.skyde">
     <title>Live NBA: Minnesota Timberwolves @ San Antonio Spurs, Conference Semifinals, Spiel 1</title>

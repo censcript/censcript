@@ -6197,12 +6197,12 @@
     <category lang="en">Horror</category>
   </programme>
   <programme start="20260504203000 +0000" stop="20260504222500 +0000" channel="cinemax.unifitv">
-    <title lang="en">PULP FICTION</title>
+    <title lang="en">Joe's Palace</title>
     <desc lang="en">An abandoned London mansion, frozen in time, holds within its walls mysteries of past and present lives.</desc>
     <category lang="en">Drama</category>
   </programme>
   <programme start="20260504222500 +0000" stop="20260504230000 +0000" channel="cinemax.unifitv">
-    <title lang="en">PULP FICTION</title>
+    <title lang="en">Enlightened</title>
     <desc lang="en">Tyler scrambles to find a scapegoat after Amy's breach of security is exposed.</desc>
     <category lang="en">Drama</category>
     <episode-num system="xmltv_ns">1.1.</episode-num>

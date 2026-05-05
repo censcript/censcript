@@ -20,18 +20,18 @@
 <title>Akhir Kisah Cinta Si Doel</title>
 </programme>
 <programme start="20260505090000 +0000" stop="20260505103000 +0000" channel="RCTI.vision">
-<title>Healing Jalur King Nassar</title>
+<title>Healing Jalur King Nassar (RCTI)</title>
 </programme>
 <programme start="20260505103000 +0000" stop="20260505120000 +0000" channel="RCTI.vision">
 <title>Preman Pensiun Deui</title>
 </programme>
-<programme start="20260505120000 +0000" stop="20260505131500 +0000" channel="RCTI.vision">
+<programme start="20260505120000 +0000" stop="20260505133000 +0000" channel="RCTI.vision">
 <title>Terikat Janji (RCTI)</title>
 </programme>
-<programme start="20260505131500 +0000" stop="20260505143000 +0000" channel="RCTI.vision">
+<programme start="20260505133000 +0000" stop="20260505144500 +0000" channel="RCTI.vision">
 <title>Turun Ranjang (RCTI)</title>
 </programme>
-<programme start="20260505143000 +0000" stop="20260505154500 +0000" channel="RCTI.vision">
+<programme start="20260505144500 +0000" stop="20260505154500 +0000" channel="RCTI.vision">
 <title>Cinta Lama Belum Kelar</title>
 </programme>
 <programme start="20260505154500 +0000" stop="20260505183000 +0000" channel="RCTI.vision">
@@ -65,10 +65,10 @@
 <title>Tukang Bubur Naik Haji Series</title>
 </programme>
 <programme start="20260506063000 +0000" stop="20260506090000 +0000" channel="RCTI.vision">
-<title>Si Doel Spesial Mandra</title>
+<title>Si Doel Spesial Benyamin</title>
 </programme>
 <programme start="20260506090000 +0000" stop="20260506103000 +0000" channel="RCTI.vision">
-<title>Healing Jalur King Nassar</title>
+<title>Healing Jalur King Nassar (RCTI)</title>
 </programme>
 <programme start="20260506103000 +0000" stop="20260506120000 +0000" channel="RCTI.vision">
 <title>Preman Pensiun Deui</title>
@@ -621,9 +621,6 @@
 </programme>
 <programme start="20260505010000 +0000" stop="20260505023000 +0000" channel="ANTV.vision">
 <title>Misteri Sungai Mekong</title>
-</programme>
-<programme start="20260505023000 +0000" stop="20260505060000 +0000" channel="ANTV.vision">
-<title>Kabhi Haan Kabhi Naa</title>
 </programme>
 <programme start="20260505060000 +0000" stop="20260505080000 +0000" channel="ANTV.vision">
 <title>Jhanak</title>
@@ -1497,4 +1494,7 @@
 </programme>
 <programme start="20260506083000 +0000" stop="20260506090000 +0000" channel="BTV.vision">
 <title>Berita Satu Sore (L)</title>
+</programme>
+<programme start="20260506090000 +0000" stop="20260506090500 +0000" channel="BTV.vision">
+<title>Berita Satu Terkini</title>
 </programme>
