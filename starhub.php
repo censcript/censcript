@@ -4859,7 +4859,7 @@
         <title>Patharamattu</title>
     </programme>
     <programme start="20260505170000 +0000" stop="20260505173000 +0000" channel="Asianet.starhub">
-        <title>Pavithram</title>
+        <title>Patharamattu</title>
     </programme>
     <programme start="20260505173000 +0000" stop="20260505180000 +0000" channel="Asianet.starhub">
         <title>Ee Puzhayum Kadannu</title>
@@ -4874,13 +4874,13 @@
         <title>Varshangalkku shesham</title>
     </programme>
     <programme start="20260505220000 +0000" stop="20260505223000 +0000" channel="Asianet.starhub">
-        <title>Pavithram</title>
+        <title>Ee Puzhayum Kadannu</title>
     </programme>
     <programme start="20260505223000 +0000" stop="20260505230000 +0000" channel="Asianet.starhub">
         <title>Kattathe Kilikoodu</title>
     </programme>
     <programme start="20260505230000 +0000" stop="20260505233000 +0000" channel="Asianet.starhub">
-        <title>Patharamattu</title>
+        <title>Advocate Anjali</title>
     </programme>
     <programme start="20260505233000 +0000" stop="20260506020000 +0000" channel="Asianet.starhub">
         <title>Varnappakittu</title>
@@ -6836,7 +6836,7 @@
         <title>Arsenal vs Atletico Madrid - Tue, SF, 2nd Leg</title>
     </programme>
     <programme start="20260505185500 +0000" stop="20260505210000 +0000" channel="beIN Sports HD.starhub">
-        <title>UEFA Champions League 2025/26: Arsenal vs Atletico Madrid - SF, 2nd Leg (Live)</title>
+        <title>Arsenal vs Atletico Madrid - SF, 2nd Leg (Live)</title>
     </programme>
     <programme start="20260505210000 +0000" stop="20260505213000 +0000" channel="beIN Sports HD.starhub">
         <title>Arsenal vs Atletico Madrid - Tue, SF, 2nd Leg</title>

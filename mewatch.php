@@ -125,7 +125,7 @@
         <title>Aunty Lee&#039;s Deadly Delights - EP 59</title>
     </programme>
     <programme start="20260506130000 +0000" stop="20260506134500 +0000" channel="Channel 5.mewatch">
-        <title>(Live) News Tonight</title>
+        <title>(Live) News Tonight (With Highlights From Parliament)</title>
     </programme>
     <programme start="20260506134500 +0000" stop="20260506141500 +0000" channel="Channel 5.mewatch">
         <title>Border Security: America&#039;s Front Line S2 - EP 18</title>
@@ -736,10 +736,10 @@
     <programme start="20260506160000 +0000" stop="20260507160000 +0000" channel="Live 2.mewatch">
         <title>No Programme available now. Next Broadcast on 17th May, Sunday 1.45am. AFC Champions League Two 2025/26 Final</title>
     </programme>
-    <programme start="20260505160000 +0000" stop="20260506130000 +0000" channel="Live 5.mewatch">
-        <title>No Programme available now. Next Broadcast on 6th May, Wednesday 9.00pm. ASEAN Shopee Cup 2025/2026 Semi-final Leg 1</title>
+    <programme start="20260505160000 +0000" stop="20260506123500 +0000" channel="Live 5.mewatch">
+        <title>No Programme available now. Next Broadcast on 6th May, Wednesday 8.35pm. ASEAN Shopee Cup 2025/2026 Semi-final Leg 1</title>
     </programme>
-    <programme start="20260506130000 +0000" stop="20260506150000 +0000" channel="Live 5.mewatch">
+    <programme start="20260506123500 +0000" stop="20260506150000 +0000" channel="Live 5.mewatch">
         <title>ASEAN Shopee Cup 2025/2026 Semi-final Leg 1: Selangor FC vs Nam Dinh FC</title>
     </programme>
     <programme start="20260506150000 +0000" stop="20260506160000 +0000" channel="Live 5.mewatch">
@@ -748,10 +748,10 @@
     <programme start="20260506160000 +0000" stop="20260507160000 +0000" channel="Live 5.mewatch">
         <title>No Programme available now. Next Broadcast on 13th May, Wednesday 6.30pm. ASEAN Shopee Cup 2025/2026 Semi-final Leg 2</title>
     </programme>
-    <programme start="20260505160000 +0000" stop="20260506120000 +0000" channel="Live 6.mewatch">
-        <title>No Programme available now. Next Broadcast on 6th May, Wednesday 8.00pm. ASEAN Shopee Cup 2025/2026 Semi-final Leg 1</title>
+    <programme start="20260505160000 +0000" stop="20260506113300 +0000" channel="Live 6.mewatch">
+        <title>No Programme available now. Next Broadcast on 6th May, Wednesday 7.33pm. ASEAN Shopee Cup 2025/2026 Semi-final Leg 1</title>
     </programme>
-    <programme start="20260506120000 +0000" stop="20260506140000 +0000" channel="Live 6.mewatch">
+    <programme start="20260506113300 +0000" stop="20260506140000 +0000" channel="Live 6.mewatch">
         <title>ASEAN Shopee Cup 2025/2026 Semi-final Leg 1: Johor Darul Ta&#039;zim FC vs Buriram United FC</title>
     </programme>
     <programme start="20260506140000 +0000" stop="20260506160000 +0000" channel="Live 6.mewatch">

@@ -174,12 +174,12 @@
     <icon src="https://thumbor.prod.vidiocdn.com/PqAlLoOq2K6kfKtLJ4wVjvADaDE=/287x162/filters:strip_icc():quality(70)/vidio-media-production/uploads/livestreaming/schedule/thumbnail/5056375/2ff214.jpg"/>
   </programme>
   <programme channel="204" start="20260506053000 +0000" stop="20260506070000 +0000">
-    <title lang="id">FTV Siang: Salfok Sama Seafoodnya Woi</title>
+    <title lang="id">FTV Siang: Pura-Pura Serius Justru Bikin Konfyus</title>
     <desc lang="id">Film televisi yang mengangkat kisah romantisme kehidupan dengan konflik yang menarik. Tayang setiap hari.</desc>
     <icon src="https://thumbor.prod.vidiocdn.com/w0CVC99CYXddlPFKxolZx5oG77w=/287x162/filters:strip_icc():quality(70)/vidio-media-production/uploads/livestreaming/schedule/thumbnail/5061232/670ef3.jpg"/>
   </programme>
   <programme channel="204" start="20260506070000 +0000" stop="20260506083000 +0000">
-    <title lang="id">FTV Siang: Nana Asoy Si Nanny Unyu</title>
+    <title lang="id">FTV Siang: Satu Mimpi Beda Profesi Satu Cinta</title>
     <desc lang="id">Film televisi yang mengangkat kisah romantisme kehidupan dengan konflik yang menarik. Tayang setiap hari.</desc>
     <icon src="https://thumbor.prod.vidiocdn.com/3W2Ot7porzZV9Wqa1yrYHJSSekc=/287x162/filters:strip_icc():quality(70)/vidio-media-production/uploads/livestreaming/schedule/thumbnail/5061575/8d0457.jpg"/>
   </programme>
@@ -2055,19 +2055,23 @@
     <desc lang="id">Ungkap</desc>
     <icon src="https://thumbor.prod.vidiocdn.com/NdmzqkxqnWVnlngtk_ObYNT-wiY=/287x162/filters:strip_icc():quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/image/206/moji-a5bd3e.jpg"/>
   </programme>
-  <programme channel="206" start="20260507041500 +0000" stop="20260507064500 +0000">
-    <title lang="id">Kejurnas Antar Club U-18 Fs.11:30</title>
-    <desc lang="id">Kejurnas Antar Club U-18 Fs.11:30</desc>
+  <programme channel="206" start="20260507041500 +0000" stop="20260507051500 +0000">
+    <title lang="id">TERCYDUK</title>
     <icon src="https://thumbor.prod.vidiocdn.com/NdmzqkxqnWVnlngtk_ObYNT-wiY=/287x162/filters:strip_icc():quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/image/206/moji-a5bd3e.jpg"/>
   </programme>
-  <programme channel="206" start="20260507064500 +0000" stop="20260507091500 +0000">
-    <title lang="id">Kejurnas Antar Club U-18 Fs.14:00</title>
-    <desc lang="id">Kejurnas Antar Club U-18 Fs.14:00</desc>
+  <programme channel="206" start="20260507051500 +0000" stop="20260507074500 +0000">
+    <title lang="id">Kejurnas Antar Club U-18 Fs.13:00</title>
+    <desc lang="id">Kejurnas Antar Club U-18 Fs.13:00</desc>
+    <icon src="https://thumbor.prod.vidiocdn.com/NdmzqkxqnWVnlngtk_ObYNT-wiY=/287x162/filters:strip_icc():quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/image/206/moji-a5bd3e.jpg"/>
+  </programme>
+  <programme channel="206" start="20260507074500 +0000" stop="20260507091500 +0000">
+    <title lang="id">Kejurnas Antar Club U-18 Fs.15:00</title>
+    <desc lang="id">Kejurnas Antar Club U-18 Fs.15:00</desc>
     <icon src="https://thumbor.prod.vidiocdn.com/NdmzqkxqnWVnlngtk_ObYNT-wiY=/287x162/filters:strip_icc():quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/image/206/moji-a5bd3e.jpg"/>
   </programme>
   <programme channel="206" start="20260507091500 +0000" stop="20260507114500 +0000">
-    <title lang="id">Kejurnas Antar Club U-18 Fs.16:30</title>
-    <desc lang="id">Kejurnas Antar Club U-18 Fs.16:30</desc>
+    <title lang="id">Kejurnas Antar Club U-18 Fs.17:00</title>
+    <desc lang="id">Kejurnas Antar Club U-18 Fs.17:00</desc>
     <icon src="https://thumbor.prod.vidiocdn.com/NdmzqkxqnWVnlngtk_ObYNT-wiY=/287x162/filters:strip_icc():quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/image/206/moji-a5bd3e.jpg"/>
   </programme>
   <programme channel="206" start="20260507114500 +0000" stop="20260507140000 +0000">
@@ -2075,22 +2079,20 @@
     <desc lang="id">Kejurnas Antar Club U-18 Fs.19:00</desc>
     <icon src="https://thumbor.prod.vidiocdn.com/NdmzqkxqnWVnlngtk_ObYNT-wiY=/287x162/filters:strip_icc():quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/image/206/moji-a5bd3e.jpg"/>
   </programme>
-  <programme channel="206" start="20260507140000 +0000" stop="20260507153000 +0000">
-    <title lang="id">Drama Turki Ceylan</title>
-    <desc lang="id">Drama Turki Ceylan</desc>
-    <icon src="https://thumbor.prod.vidiocdn.com/S2dOpBInmiRJRtgI8XchvAAviFc=/287x162/filters:strip_icc():quality(70)/vidio-media-production/uploads/livestreaming/schedule/thumbnail/5035987/4f9b89.jpg"/>
-  </programme>
-  <programme channel="206" start="20260507153000 +0000" stop="20260507174200 +0000">
+  <programme channel="206" start="20260507140000 +0000" stop="20260507160000 +0000">
     <title lang="id">Rerun Proliga 2026</title>
     <desc lang="id">Rerun Proliga 2026</desc>
     <icon src="https://thumbor.prod.vidiocdn.com/NdmzqkxqnWVnlngtk_ObYNT-wiY=/287x162/filters:strip_icc():quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/image/206/moji-a5bd3e.jpg"/>
   </programme>
-  <programme channel="206" start="20260507153000 +0000" stop="20260507174200 +0000">
-    <title lang="id">Rerun Proliga 2026</title>
-    <desc lang="id">Rerun Proliga 2026</desc>
+  <programme channel="206" start="20260507160000 +0000" stop="20260507170000 +0000">
+    <title lang="id">HARTA TAHTA CINTA</title>
     <icon src="https://thumbor.prod.vidiocdn.com/NdmzqkxqnWVnlngtk_ObYNT-wiY=/287x162/filters:strip_icc():quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/image/206/moji-a5bd3e.jpg"/>
   </programme>
-  <programme channel="206" start="20260507174200 +0000" stop="20260507195600 +0000">
+  <programme channel="206" start="20260507160000 +0000" stop="20260507170000 +0000">
+    <title lang="id">HARTA TAHTA CINTA</title>
+    <icon src="https://thumbor.prod.vidiocdn.com/NdmzqkxqnWVnlngtk_ObYNT-wiY=/287x162/filters:strip_icc():quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/image/206/moji-a5bd3e.jpg"/>
+  </programme>
+  <programme channel="206" start="20260507170000 +0000" stop="20260507195600 +0000">
     <title lang="id">Rerun Proliga 2026</title>
     <desc lang="id">Rerun Proliga 2026</desc>
     <icon src="https://thumbor.prod.vidiocdn.com/NdmzqkxqnWVnlngtk_ObYNT-wiY=/287x162/filters:strip_icc():quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/image/206/moji-a5bd3e.jpg"/>
@@ -10678,15 +10680,15 @@
     <desc lang="id">HIGHLIGHT</desc>
     <icon src="https://thumbor.prod.vidiocdn.com/IccXQd6EOZjWCT9QQQrsC0nCTZQ=/287x162/filters:strip_icc():quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/image/18190/champions-golf-2-3c2aa9.jpg"/>
   </programme>
-  <programme channel="18190" start="20260507150000 +0000" stop="20260507170000 +0000">
-    <title lang="id">MIZUHO AMERICAS OPEN</title>
-    <desc lang="id">ROUND 1</desc>
-    <icon src="https://thumbor.prod.vidiocdn.com/IccXQd6EOZjWCT9QQQrsC0nCTZQ=/287x162/filters:strip_icc():quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/image/18190/champions-golf-2-3c2aa9.jpg"/>
+  <programme channel="18190" start="20260507150000 +0000" stop="20260507180000 +0000">
+    <title lang="id">Round 1 - Mizuho Americas Open 2026</title>
+    <desc lang="id">Nonton streaming pertandingan seru Round 1 - Mizuho Americas Open 2026. Saksikan aksi-aksi terbaik dari tim yang bersaing ketat untuk meraih kemenangan. Dapatkan informasi lengkap mengenai jadwal pertandingan dan hasil pertandingan terbaru hanya di Vidio.</desc>
+    <icon src="https://thumbor.prod.vidiocdn.com/ueVGPkgcAatvH1U6RULTCbdqV98=/287x162/filters:strip_icc():quality(70)/vidio-media-production/uploads/livestreaming/schedule/thumbnail/5061696/9723c3.jpg"/>
   </programme>
-  <programme channel="18190" start="20260507150000 +0000" stop="20260507170000 +0000">
-    <title lang="id">MIZUHO AMERICAS OPEN</title>
-    <desc lang="id">ROUND 1</desc>
-    <icon src="https://thumbor.prod.vidiocdn.com/IccXQd6EOZjWCT9QQQrsC0nCTZQ=/287x162/filters:strip_icc():quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/image/18190/champions-golf-2-3c2aa9.jpg"/>
+  <programme channel="18190" start="20260507150000 +0000" stop="20260507180000 +0000">
+    <title lang="id">Round 1 - Mizuho Americas Open 2026</title>
+    <desc lang="id">Nonton streaming pertandingan seru Round 1 - Mizuho Americas Open 2026. Saksikan aksi-aksi terbaik dari tim yang bersaing ketat untuk meraih kemenangan. Dapatkan informasi lengkap mengenai jadwal pertandingan dan hasil pertandingan terbaru hanya di Vidio.</desc>
+    <icon src="https://thumbor.prod.vidiocdn.com/ueVGPkgcAatvH1U6RULTCbdqV98=/287x162/filters:strip_icc():quality(70)/vidio-media-production/uploads/livestreaming/schedule/thumbnail/5061696/9723c3.jpg"/>
   </programme>
   <programme channel="18190" start="20260508100000 +0000" stop="20260508103000 +0000">
     <title lang="id">(continue) MIZUHO AMERICAS OPEN</title>
@@ -10944,9 +10946,9 @@
     <icon src="https://thumbor.prod.vidiocdn.com/84KfVJ1EkCZE1TUxZXNvtr5sNmk=/287x162/filters:strip_icc():quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/image/18189/champions-golf-1-ffdd6c.jpg"/>
   </programme>
   <programme channel="18189" start="20260507140000 +0000" stop="20260507160000 +0000">
-    <title lang="id">ONEflight Myrtle Beach Classic</title>
-    <desc lang="id">Round 1</desc>
-    <icon src="https://thumbor.prod.vidiocdn.com/84KfVJ1EkCZE1TUxZXNvtr5sNmk=/287x162/filters:strip_icc():quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/image/18189/champions-golf-1-ffdd6c.jpg"/>
+    <title lang="id">Round 1 - ONEflight Myrtle Beach Classic 2026</title>
+    <desc lang="id">Nonton streaming pertandingan seru Round 1 - ONEflight Myrtle Beach Classic 2026. Saksikan aksi-aksi terbaik dari tim yang bersaing ketat untuk meraih kemenangan. Dapatkan informasi lengkap mengenai jadwal pertandingan dan hasil pertandingan terbaru hanya di Vidio.</desc>
+    <icon src="https://thumbor.prod.vidiocdn.com/TrBnDKWT_AhYx_o_MmWVGiXNbpk=/287x162/filters:strip_icc():quality(70)/vidio-media-production/uploads/livestreaming/schedule/thumbnail/5061699/9857af.jpg"/>
   </programme>
   <programme channel="18189" start="20260507160000 +0000" stop="20260507170000 +0000">
     <title lang="id">Regions Tradition</title>
@@ -10964,9 +10966,9 @@
     <icon src="https://thumbor.prod.vidiocdn.com/84KfVJ1EkCZE1TUxZXNvtr5sNmk=/287x162/filters:strip_icc():quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/image/18189/champions-golf-1-ffdd6c.jpg"/>
   </programme>
   <programme channel="18189" start="20260507180000 +0000" stop="20260507220000 +0000">
-    <title lang="id">Truist Championship</title>
-    <desc lang="id">Round 1</desc>
-    <icon src="https://thumbor.prod.vidiocdn.com/84KfVJ1EkCZE1TUxZXNvtr5sNmk=/287x162/filters:strip_icc():quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/image/18189/champions-golf-1-ffdd6c.jpg"/>
+    <title lang="id">Round 1 - Truist Championship 2026</title>
+    <desc lang="id">Nonton streaming pertandingan seru Round 1 - Truist Championship 2026. Saksikan aksi-aksi terbaik dari tim yang bersaing ketat untuk meraih kemenangan. Dapatkan informasi lengkap mengenai jadwal pertandingan dan hasil pertandingan terbaru hanya di Vidio.</desc>
+    <icon src="https://thumbor.prod.vidiocdn.com/1fbRFVnkq3Z3B5pHmiVuEXKq7FY=/287x162/filters:strip_icc():quality(70)/vidio-media-production/uploads/livestreaming/schedule/thumbnail/5061695/107d14.jpg"/>
   </programme>
   <programme channel="18189" start="20260507220000 +0000" stop="20260507233000 +0000">
     <title lang="id">On The Range 2026</title>
@@ -11013,10 +11015,10 @@
     <desc lang="id">Round 1</desc>
     <icon src="https://thumbor.prod.vidiocdn.com/84KfVJ1EkCZE1TUxZXNvtr5sNmk=/287x162/filters:strip_icc():quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/image/18189/champions-golf-1-ffdd6c.jpg"/>
   </programme>
-  <programme channel="18189" start="20260508140000 +0000" stop="20260508155900 +0000">
-    <title lang="id">ONEflight Myrtle Beach Classic</title>
-    <desc lang="id">Round 2</desc>
-    <icon src="https://thumbor.prod.vidiocdn.com/84KfVJ1EkCZE1TUxZXNvtr5sNmk=/287x162/filters:strip_icc():quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/image/18189/champions-golf-1-ffdd6c.jpg"/>
+  <programme channel="18189" start="20260508140000 +0000" stop="20260508160000 +0000">
+    <title lang="id">Round 2 - ONEflight Myrtle Beach Classic 2026</title>
+    <desc lang="id">Nonton streaming pertandingan seru Round 2 - ONEflight Myrtle Beach Classic 2026. Saksikan aksi-aksi terbaik dari tim yang bersaing ketat untuk meraih kemenangan. Dapatkan informasi lengkap mengenai jadwal pertandingan dan hasil pertandingan terbaru hanya di Vidio.</desc>
+    <icon src="https://thumbor.prod.vidiocdn.com/VGDG76Hobo6lfUUW2QuWtTJt61k=/287x162/filters:strip_icc():quality(70)/vidio-media-production/uploads/livestreaming/schedule/thumbnail/5061700/8cde37.jpg"/>
   </programme>
   <programme channel="18189" start="20260508160000 +0000" stop="20260508165900 +0000">
     <title lang="id">Cadillac Championship</title>
@@ -11028,10 +11030,10 @@
     <desc lang="id">Officials Film</desc>
     <icon src="https://thumbor.prod.vidiocdn.com/84KfVJ1EkCZE1TUxZXNvtr5sNmk=/287x162/filters:strip_icc():quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/image/18189/champions-golf-1-ffdd6c.jpg"/>
   </programme>
-  <programme channel="18189" start="20260508180000 +0000" stop="20260508215900 +0000">
-    <title lang="id">Truist Championship</title>
-    <desc lang="id">Round 2</desc>
-    <icon src="https://thumbor.prod.vidiocdn.com/84KfVJ1EkCZE1TUxZXNvtr5sNmk=/287x162/filters:strip_icc():quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/image/18189/champions-golf-1-ffdd6c.jpg"/>
+  <programme channel="18189" start="20260508180000 +0000" stop="20260508220000 +0000">
+    <title lang="id">Round 2 - Truist Championship 2026</title>
+    <desc lang="id">Nonton streaming pertandingan seru Round 2 - Truist Championship 2026. Saksikan aksi-aksi terbaik dari tim yang bersaing ketat untuk meraih kemenangan. Dapatkan informasi lengkap mengenai jadwal pertandingan dan hasil pertandingan terbaru hanya di Vidio.</desc>
+    <icon src="https://thumbor.prod.vidiocdn.com/djE90S4kDL7RIzObi1fCE2mFjuA=/287x162/filters:strip_icc():quality(70)/vidio-media-production/uploads/livestreaming/schedule/thumbnail/5061701/6f672c.jpg"/>
   </programme>
   <programme channel="18189" start="20260508220000 +0000" stop="20260508225900 +0000">
     <title lang="id">Cadillac Championship</title>

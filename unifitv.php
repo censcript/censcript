@@ -742,7 +742,7 @@
     <episode-num system="onscreen">S1E7</episode-num>
   </programme>
   <programme start="20260506083000 +0000" stop="20260506090000 +0000" channel="tv1.unifitv">
-    <title lang="en">LIVE : BIZ MALAYSIA</title>
+    <title lang="en">BIZ MALAYSIA</title>
     <desc lang="en">Saksikan perkembangan terkini dunia ekonomi Malaysia dalam Biz Malaysia.</desc>
     <category lang="en">Drama</category>
   </programme>
@@ -12643,32 +12643,28 @@
     <category lang="en">News</category>
   </programme>
   <programme start="20260505193300 +0000" stop="20260505200300 +0000" channel="aljazeera.unifitv">
-    <title lang="en">UpFront</title>
-    <desc lang="en">Frank, blunt and inquisitive, UpFront cuts through the headlines to get to the heart of the matter with influential guests and newsmakers.</desc>
+    <title lang="en">Silenced: The War On Journalism</title>
+    <desc lang="en">Silenced: The War On</desc>
     <category lang="en">News</category>
-    <episode-num system="xmltv_ns">0.12.</episode-num>
-    <episode-num system="onscreen">S1E13</episode-num>
   </programme>
-  <programme start="20260505200300 +0000" stop="20260505210300 +0000" channel="aljazeera.unifitv">
-    <title lang="en">Al Jazeera World</title>
-    <desc lang="en">A series of one-hour documentaries showcasing films from across the Al Jazeera Network.</desc>
+  <programme start="20260505200300 +0000" stop="20260505203300 +0000" channel="aljazeera.unifitv">
+    <title lang="en">News Live</title>
+    <desc lang="en">Up-to-date news and analysis from around the world.</desc>
     <category lang="en">News</category>
-    <episode-num system="xmltv_ns">0.409.</episode-num>
-    <episode-num system="onscreen">S1E410</episode-num>
+  </programme>
+  <programme start="20260505203300 +0000" stop="20260505210300 +0000" channel="aljazeera.unifitv">
+    <title lang="en">Silenced: The War On Journalism</title>
+    <desc lang="en">Silenced: The War On</desc>
+    <category lang="en">News</category>
   </programme>
   <programme start="20260505210300 +0000" stop="20260505220300 +0000" channel="aljazeera.unifitv">
     <title lang="en">Newshour</title>
     <desc lang="en">Latest news and in-depth analysis from around the world.</desc>
     <category lang="en">News</category>
   </programme>
-  <programme start="20260505220300 +0000" stop="20260505223300 +0000" channel="aljazeera.unifitv">
-    <title lang="en">News Live</title>
-    <desc lang="en">Up-to-date news and analysis from around the world.</desc>
-    <category lang="en">News</category>
-  </programme>
-  <programme start="20260505223300 +0000" stop="20260505230300 +0000" channel="aljazeera.unifitv">
-    <title lang="en">The Silencing of Ana</title>
-    <desc lang="en">A haunting look at the targeted killing of journalist Anas al Sharif and the war on truth in Gaza.</desc>
+  <programme start="20260505220300 +0000" stop="20260505230300 +0000" channel="aljazeera.unifitv">
+    <title lang="en">Newshour</title>
+    <desc lang="en">Latest news and in-depth analysis from around the world.</desc>
     <category lang="en">News</category>
   </programme>
   <programme start="20260505230300 +0000" stop="20260505233300 +0000" channel="aljazeera.unifitv">
@@ -12689,7 +12685,7 @@
     <category lang="en">News</category>
   </programme>
   <programme start="20260506010300 +0000" stop="20260506020300 +0000" channel="aljazeera.unifitv">
-    <title lang="en">Silenced: The War On</title>
+    <title lang="en">Silenced: The War On Journalism</title>
     <desc lang="en">A gripping look at journalism's ultimate sacrifice, told through stories of courage, loss and unwavering conviction.</desc>
     <category lang="en">News</category>
   </programme>
@@ -12700,7 +12696,7 @@
   </programme>
   <programme start="20260506023300 +0000" stop="20260506030300 +0000" channel="aljazeera.unifitv">
     <title lang="en">Talk to Al Jazeera</title>
-    <desc lang="en">One-on-one conversations with global leaders, icons, influencers and alternative voices shaping our times.</desc>
+    <desc lang="en">As AI reshapes how children learn in China, its expansion into the US raises questions about education, influence and who controls the future of learning.</desc>
     <category lang="en">News</category>
     <episode-num system="xmltv_ns">0.468.</episode-num>
     <episode-num system="onscreen">S1E469</episode-num>
@@ -12722,7 +12718,7 @@
   </programme>
   <programme start="20260506043300 +0000" stop="20260506050300 +0000" channel="aljazeera.unifitv">
     <title lang="en">UpFront</title>
-    <desc lang="en">Frank, blunt and inquisitive, UpFront cuts through the headlines to get to the heart of the matter with influential guests and newsmakers.</desc>
+    <desc lang="en">Redi Tlhabi discusses the rise of political violence in the United States and gets an update on how Israel is violating the ceasefire agreement in Gaza.</desc>
     <category lang="en">News</category>
     <episode-num system="xmltv_ns">0.12.</episode-num>
     <episode-num system="onscreen">S1E13</episode-num>
@@ -12746,8 +12742,10 @@
   </programme>
   <programme start="20260506063300 +0000" stop="20260506070300 +0000" channel="aljazeera.unifitv">
     <title lang="en">Counting the Cost</title>
-    <desc lang="en">The show features the economical stories that shape our world and has an effect on the lives of the common human beings.</desc>
+    <desc lang="en">Can central banks balance inflation and growth as energy prices rise?</desc>
     <category lang="en">News</category>
+    <episode-num system="xmltv_ns">0.26.</episode-num>
+    <episode-num system="onscreen">S1E27</episode-num>
   </programme>
   <programme start="20260506070300 +0000" stop="20260506073300 +0000" channel="aljazeera.unifitv">
     <title lang="en">News Live</title>
@@ -12765,8 +12763,8 @@
     <category lang="en">News</category>
   </programme>
   <programme start="20260506083300 +0000" stop="20260506090300 +0000" channel="aljazeera.unifitv">
-    <title lang="en">Al Jazeera Untangles</title>
-    <desc lang="en">How Spain conquered with armies and missionaries - fusing faith, force, and gold into global dominance.</desc>
+    <title lang="en">Silenced: The War On Journalism</title>
+    <desc lang="en">A gripping look at journalism's ultimate sacrifice, told through stories of courage, loss and unwavering conviction.</desc>
     <category lang="en">News</category>
   </programme>
   <programme start="20260506090300 +0000" stop="20260506093300 +0000" channel="aljazeera.unifitv">
@@ -12775,8 +12773,8 @@
     <category lang="en">News</category>
   </programme>
   <programme start="20260506093300 +0000" stop="20260506100300 +0000" channel="aljazeera.unifitv">
-    <title lang="en">The Silencing of Ana</title>
-    <desc lang="en">A haunting look at the targeted killing of journalist Anas al Sharif and the war on truth in Gaza.</desc>
+    <title lang="en">Silenced: The War On Journalism</title>
+    <desc lang="en">A gripping look at journalism's ultimate sacrifice, told through stories of courage, loss and unwavering conviction.</desc>
     <category lang="en">News</category>
   </programme>
   <programme start="20260506100300 +0000" stop="20260506110300 +0000" channel="aljazeera.unifitv">
@@ -12815,7 +12813,7 @@
   </programme>
   <programme start="20260506143300 +0000" stop="20260506150300 +0000" channel="aljazeera.unifitv">
     <title lang="en">The Listening Post</title>
-    <desc lang="en">What is being reported by world media and how? Richard Gizbert guides you through the global news maze.</desc>
+    <desc lang="en">Another assassination attempt on Trump reveals mistrust in the media and conspiracy theories fill the gap. Plus, Israel steps up its information war on Lebanon.</desc>
     <category lang="en">News</category>
     <episode-num system="xmltv_ns">0.17.</episode-num>
     <episode-num system="onscreen">S1E18</episode-num>

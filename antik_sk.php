@@ -2879,7 +2879,7 @@
     <title lang="id">Správy</title>
   </programme>
   <programme start="20260508081500 +0000" stop="20260508083000 +0000" channel="TV LUX.webtv.sk">
-    <title lang="id">Litánie k Najsvätejšiemu Srdcu Ježišovmu</title>
+    <title lang="id">Loretánske litánie</title>
   </programme>
   <programme start="20260508083000 +0000" stop="20260508100000 +0000" channel="TV LUX.webtv.sk">
     <title lang="id">Svätá omša z Pompeji</title>
@@ -3712,7 +3712,10 @@
   <programme start="20260508214500 +0000" stop="20260508223000 +0000" channel="Nova International.webtv.sk">
     <title lang="id">Ulice (3595)</title>
   </programme>
-  <programme start="20260507220000 +0000" stop="20260507225000 +0000" channel="Prima SK.webtv.sk">
+  <programme start="20260507212500 +0000" stop="20260507220500 +0000" channel="Prima SK.webtv.sk">
+    <title lang="id">Vychytávky Ládi Hrušky</title>
+  </programme>
+  <programme start="20260507220500 +0000" stop="20260507225000 +0000" channel="Prima SK.webtv.sk">
     <title lang="id">Show Jana Krause</title>
   </programme>
   <programme start="20260507225000 +0000" stop="20260508001000 +0000" channel="Prima SK.webtv.sk">
@@ -3799,13 +3802,13 @@
   <programme start="20260508001000 +0000" stop="20260508005000 +0000" channel="CNN Prima News.webtv.sk">
     <title lang="id">Co na to vaše zdraví</title>
   </programme>
-  <programme start="20260508005000 +0000" stop="20260508013500 +0000" channel="CNN Prima News.webtv.sk">
+  <programme start="20260508005000 +0000" stop="20260508014000 +0000" channel="CNN Prima News.webtv.sk">
     <title lang="id">HLAVNÍ ZPRÁVY</title>
   </programme>
-  <programme start="20260508013500 +0000" stop="20260508014500 +0000" channel="CNN Prima News.webtv.sk">
+  <programme start="20260508014000 +0000" stop="20260508015000 +0000" channel="CNN Prima News.webtv.sk">
     <title lang="id">Krimi zprávy</title>
   </programme>
-  <programme start="20260508014500 +0000" stop="20260508020000 +0000" channel="CNN Prima News.webtv.sk">
+  <programme start="20260508015000 +0000" stop="20260508020000 +0000" channel="CNN Prima News.webtv.sk">
     <title lang="id">SHOWTIME</title>
   </programme>
   <programme start="20260508020000 +0000" stop="20260508023000 +0000" channel="CNN Prima News.webtv.sk">
@@ -4000,28 +4003,28 @@
   <programme start="20260508212500 +0000" stop="20260508223000 +0000" channel="Prima Cool SK.webtv.sk">
     <title lang="id">Top Gear XXI (4)</title>
   </programme>
-  <programme start="20260507212500 +0000" stop="20260507222000 +0000" channel="Prima Love SK.webtv.sk">
+  <programme start="20260507211500 +0000" stop="20260507221000 +0000" channel="Prima Love SK.webtv.sk">
     <title lang="id">Rodinná pouta I (5)</title>
   </programme>
-  <programme start="20260507222000 +0000" stop="20260507230500 +0000" channel="Prima Love SK.webtv.sk">
+  <programme start="20260507221000 +0000" stop="20260507225500 +0000" channel="Prima Love SK.webtv.sk">
     <title lang="id">Rodinná pouta I (6)</title>
   </programme>
-  <programme start="20260507230500 +0000" stop="20260507234500 +0000" channel="Prima Love SK.webtv.sk">
+  <programme start="20260507225500 +0000" stop="20260507233500 +0000" channel="Prima Love SK.webtv.sk">
     <title lang="id">Černá perla (41)</title>
   </programme>
-  <programme start="20260507234500 +0000" stop="20260508002500 +0000" channel="Prima Love SK.webtv.sk">
+  <programme start="20260507233500 +0000" stop="20260508002000 +0000" channel="Prima Love SK.webtv.sk">
     <title lang="id">Černá perla (42)</title>
   </programme>
-  <programme start="20260508002500 +0000" stop="20260508011000 +0000" channel="Prima Love SK.webtv.sk">
+  <programme start="20260508002000 +0000" stop="20260508010000 +0000" channel="Prima Love SK.webtv.sk">
     <title lang="id">Doktor z hor: Nové příběhy XIII (11)</title>
   </programme>
-  <programme start="20260508011000 +0000" stop="20260508015500 +0000" channel="Prima Love SK.webtv.sk">
+  <programme start="20260508010000 +0000" stop="20260508014500 +0000" channel="Prima Love SK.webtv.sk">
     <title lang="id">Doktor z hor: Nové příběhy XIII (12)</title>
   </programme>
-  <programme start="20260508015500 +0000" stop="20260508023500 +0000" channel="Prima Love SK.webtv.sk">
+  <programme start="20260508014500 +0000" stop="20260508022500 +0000" channel="Prima Love SK.webtv.sk">
     <title lang="id">Prostřeno!</title>
   </programme>
-  <programme start="20260508023500 +0000" stop="20260508031000 +0000" channel="Prima Love SK.webtv.sk">
+  <programme start="20260508022500 +0000" stop="20260508031000 +0000" channel="Prima Love SK.webtv.sk">
     <title lang="id">Jak se staví sen</title>
   </programme>
   <programme start="20260508031000 +0000" stop="20260508034000 +0000" channel="Prima Love SK.webtv.sk">
@@ -16631,7 +16634,7 @@
     <title lang="id">Wszystko przed nami (85)</title>
   </programme>
   <programme start="20260508134000 +0000" stop="20260508140000 +0000" channel="TVP Polonia.webtv.sk">
-    <title lang="id">Turystyczna Jazda</title>
+    <title lang="id">Turystyczna Jazda (159)</title>
   </programme>
   <programme start="20260508140000 +0000" stop="20260508150000 +0000" channel="TVP Polonia.webtv.sk">
     <title lang="id">Lubie wracac tam, gdzie byłem</title>
@@ -17971,11 +17974,8 @@
   <programme start="20260508213000 +0000" stop="20260508220000 +0000" channel="TRT World.webtv.sk">
     <title lang="id">Roundtable</title>
   </programme>
-  <programme start="20260507220000 +0000" stop="20260507223000 +0000" channel="Al Jazeera English.webtv.sk">
-    <title lang="id">News Live</title>
-  </programme>
-  <programme start="20260507223000 +0000" stop="20260507230000 +0000" channel="Al Jazeera English.webtv.sk">
-    <title lang="id">101 East</title>
+  <programme start="20260507220000 +0000" stop="20260507230000 +0000" channel="Al Jazeera English.webtv.sk">
+    <title lang="id">Newshour</title>
   </programme>
   <programme start="20260507230000 +0000" stop="20260507233000 +0000" channel="Al Jazeera English.webtv.sk">
     <title lang="id">News Live</title>
@@ -18014,7 +18014,7 @@
     <title lang="id">News Live</title>
   </programme>
   <programme start="20260508073000 +0000" stop="20260508080000 +0000" channel="Al Jazeera English.webtv.sk">
-    <title lang="id">The Silencing of Anas Al Sharif</title>
+    <title lang="id">Who Killed Shireen?</title>
   </programme>
   <programme start="20260508080000 +0000" stop="20260508083000 +0000" channel="Al Jazeera English.webtv.sk">
     <title lang="id">News Live</title>
