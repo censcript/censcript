@@ -3322,10 +3322,10 @@ Warning: Undefined array key "et" in /usr/home/ManusiaBiasa/domains/manusiabiasa
 <programme start="20260505220000 +0000" stop="20260505230000 +0000" channel="Sky Sport Top Event HD.skyde">
     <title>Live NBA: Showtime</title>
 </programme>
-<programme start="20260505230000 +0000" stop="20260506013000 +0000" channel="Sky Sport Top Event HD.skyde">
+<programme start="20260505230000 +0000" stop="20260506014000 +0000" channel="Sky Sport Top Event HD.skyde">
     <title>Live NBA: Cleveland Cavaliers @ Detroit Pistons, Conference Semifinals, Spiel 1</title>
 </programme>
-<programme start="20260506013000 +0000" stop="20260506030000 +0000" channel="Sky Sport Top Event HD.skyde">
+<programme start="20260506014000 +0000" stop="20260506030000 +0000" channel="Sky Sport Top Event HD.skyde">
     <title>Live NBA: LA Lakers @ Oklahoma City Thunder, Conference Semifinals, Spiel 1</title>
 </programme>
 <programme start="20260506030000 +0000" stop="20260506033000 +0000" channel="Sky Sport Top Event HD.skyde">

@@ -2013,15 +2013,15 @@
     <title lang="id">RERUN PROLIGA 2026</title>
     <icon src="https://thumbor.prod.vidiocdn.com/NdmzqkxqnWVnlngtk_ObYNT-wiY=/287x162/filters:strip_icc():quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/image/206/moji-a5bd3e.jpg"/>
   </programme>
-  <programme channel="206" start="20260506140000 +0000" stop="20260506160000 +0000">
+  <programme channel="206" start="20260506140000 +0000" stop="20260506164700 +0000">
     <title lang="id">RERUN PROLIGA 2026</title>
     <icon src="https://thumbor.prod.vidiocdn.com/NdmzqkxqnWVnlngtk_ObYNT-wiY=/287x162/filters:strip_icc():quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/image/206/moji-a5bd3e.jpg"/>
   </programme>
-  <programme channel="206" start="20260506160000 +0000" stop="20260506183000 +0000">
+  <programme channel="206" start="20260506164800 +0000" stop="20260506183000 +0000">
     <title lang="id">UEFA CHAMPIONS LEAGUE - Arsenal vs Atletico Madrid</title>
     <icon src="https://thumbor.prod.vidiocdn.com/NdmzqkxqnWVnlngtk_ObYNT-wiY=/287x162/filters:strip_icc():quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/image/206/moji-a5bd3e.jpg"/>
   </programme>
-  <programme channel="206" start="20260506160000 +0000" stop="20260506183000 +0000">
+  <programme channel="206" start="20260506170000 +0000" stop="20260506183000 +0000">
     <title lang="id">UEFA CHAMPIONS LEAGUE - Arsenal vs Atletico Madrid</title>
     <icon src="https://thumbor.prod.vidiocdn.com/NdmzqkxqnWVnlngtk_ObYNT-wiY=/287x162/filters:strip_icc():quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/image/206/moji-a5bd3e.jpg"/>
   </programme>
@@ -6042,8 +6042,7 @@
     <icon src="https://thumbor.prod.vidiocdn.com/0NMamCehZWQ8KZFDHKV0p3XnF8Y=/287x162/filters:strip_icc():quality(70)/vidio-media-production/uploads/livestreaming/schedule/thumbnail/5059316/ce1147.jpg"/>
   </programme>
   <programme channel="6299" start="20260506210000 +0000" stop="20260506213000 +0000">
-    <title lang="id">Bayern vs PSG - Wed, SF, 2nd Leg : The UCL Review Show 2025/26</title>
-    <desc lang="id">Bayern vs PSG - Wed, SF, 2nd Leg</desc>
+    <title lang="id">The UCL Preview Show 2025/26</title>
     <icon src="https://thumbor.prod.vidiocdn.com/5yUHYfv_b1sZi7kdFElm8JqF2RY=/287x162/filters:strip_icc():quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/image/6299/bein-1-4bd997.jpg"/>
   </programme>
   <programme channel="6299" start="20260506213000 +0000" stop="20260506214500 +0000">
@@ -8116,16 +8115,16 @@
     <desc lang="id">Seorang wanita muda yang bersemangat memulai perjalanan untuk memenuhi janji seorang ibu demi kehidupan yang lebih baik sambil mengatasi tantangan dan kehilangan.</desc>
     <icon src="https://thumbor.prod.vidiocdn.com/w79OZ_ULFMzKBtywThV_df3K6rM=/287x162/filters:strip_icc():quality(70)/vidio-media-production/uploads/livestreaming/schedule/thumbnail/5061584/144b06.jpg"/>
   </programme>
-  <programme channel="782" start="20260506075800 +0000" stop="20260506095900 +0000">
+  <programme channel="782" start="20260506075800 +0000" stop="20260506100300 +0000">
     <title lang="id">Teri Meri Doriyaann</title>
     <icon src="https://thumbor.prod.vidiocdn.com/owpX2IoP3EIoZUmuc_f17oyQLeM=/287x162/filters:strip_icc():quality(70)/vidio-media-production/uploads/livestreaming/schedule/thumbnail/5061590/37a3e9.jpg"/>
   </programme>
-  <programme channel="782" start="20260506095900 +0000" stop="20260506120300 +0000">
+  <programme channel="782" start="20260506100300 +0000" stop="20260506121200 +0000">
     <title lang="id">Vasudha</title>
     <desc lang="id">Vasudha yang periang bergabung dengan rumah pemimpin bisnis Chandrika sebagai pembantu dan mendambakan persetujuannya meskipun ada perbedaan ideologis di antara mereka.</desc>
     <icon src="https://thumbor.prod.vidiocdn.com/bXlr2LB_VFhgfGlNnHXPFzDbvVk=/287x162/filters:strip_icc():quality(70)/vidio-media-production/uploads/livestreaming/schedule/thumbnail/5061585/b426f7.jpg"/>
   </programme>
-  <programme channel="782" start="20260506120300 +0000" stop="20260506140000 +0000">
+  <programme channel="782" start="20260506121200 +0000" stop="20260506140000 +0000">
     <title lang="id">Sinema Laga Klasik: Rajawali dari Utara</title>
     <desc lang="id">Kisah Kidang Telangkas yang mengembara untuk mencari pembunuh istri dan anaknya oleh Ki Dapaksa. Dalam perjalannya Ia bertemu dengan Nawangsih yang kemudian ingin ikut bersamanya. Namun Nawangsih diserahkan kepada gurunya untuk dilatih silat.</desc>
     <icon src="https://thumbor.prod.vidiocdn.com/20tRQaK9Gps_wFQL5rY-XgRbrs4=/287x162/filters:strip_icc():quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/image/782/antv-de8530.jpg"/>
@@ -12873,19 +12872,17 @@
     <title lang="id">Filler</title>
     <icon src="https://thumbor.prod.vidiocdn.com/nY0aFklpYf6yONLaFJjxhiSuthc=/287x162/filters:strip_icc():quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/image/6786/champions-tv-3-76ca7c.jpg"/>
   </programme>
-  <programme channel="6786" start="20260506133000 +0000" stop="20260506150000 +0000">
+  <programme channel="6786" start="20260506133000 +0000" stop="20260506161500 +0000">
     <title lang="id">Day 1 - WTA 1000: Internazionali BNL D'Italia 2026</title>
     <desc lang="id">Nonton streaming pertandingan seru Day 1 - WTA 1000: Internazionali BNL D'Italia 2026. Saksikan aksi-aksi terbaik dari tim yang bersaing ketat untuk meraih kemenangan. Dapatkan informasi lengkap mengenai jadwal pertandingan dan hasil pertandingan terbaru hanya di Vidio.</desc>
     <icon src="https://thumbor.prod.vidiocdn.com/Oo0yMpbfEWUJCwm8tGd_GVXMkUc=/287x162/filters:strip_icc():quality(70)/vidio-media-production/uploads/livestreaming/schedule/thumbnail/5061634/0d6683.jpg"/>
   </programme>
-  <programme channel="6786" start="20260506150000 +0000" stop="20260506170000 +0000">
-    <title lang="id">SASSUOLO vs MILAN : Serie A 2025/26</title>
-    <desc lang="id">SASSUOLO vs MILAN</desc>
+  <programme channel="6786" start="20260506161500 +0000" stop="20260506170000 +0000">
+    <title lang="id">Filler</title>
     <icon src="https://thumbor.prod.vidiocdn.com/nY0aFklpYf6yONLaFJjxhiSuthc=/287x162/filters:strip_icc():quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/image/6786/champions-tv-3-76ca7c.jpg"/>
   </programme>
-  <programme channel="6786" start="20260506150000 +0000" stop="20260506170000 +0000">
-    <title lang="id">SASSUOLO vs MILAN : Serie A 2025/26</title>
-    <desc lang="id">SASSUOLO vs MILAN</desc>
+  <programme channel="6786" start="20260506161500 +0000" stop="20260506170000 +0000">
+    <title lang="id">Filler</title>
     <icon src="https://thumbor.prod.vidiocdn.com/nY0aFklpYf6yONLaFJjxhiSuthc=/287x162/filters:strip_icc():quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/image/6786/champions-tv-3-76ca7c.jpg"/>
   </programme>
   <programme channel="6786" start="20260506170000 +0000" stop="20260506190000 +0000">

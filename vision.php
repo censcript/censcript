@@ -631,9 +631,6 @@
 <programme start="20260506100000 +0000" stop="20260506120000 +0000" channel="ANTV.vision">
 <title>Vasudha</title>
 </programme>
-<programme start="20260506140000 +0000" stop="20260506153000 +0000" channel="ANTV.vision">
-<title>Nyi Ageng Ratu Pemikat</title>
-</programme>
 <programme start="20260506153000 +0000" stop="20260506173000 +0000" channel="ANTV.vision">
 <title>Si Manis Jembatan Ancol</title>
 </programme>
@@ -1497,4 +1494,7 @@
 </programme>
 <programme start="20260507083000 +0000" stop="20260507090000 +0000" channel="BTV.vision">
 <title>Berita Satu Sore (L)</title>
+</programme>
+<programme start="20260507090000 +0000" stop="20260507090500 +0000" channel="BTV.vision">
+<title>Berita Satu Terkini</title>
 </programme>
