@@ -4096,22 +4096,22 @@
   <programme start="20260508212500 +0000" stop="20260508221500 +0000" channel="Prima Love SK.webtv.sk">
     <title lang="id">Rodinná pouta I (7)</title>
   </programme>
-  <programme start="20260507215500 +0000" stop="20260507223500 +0000" channel="Prima Krimi SK.webtv.sk">
+  <programme start="20260507215000 +0000" stop="20260507223000 +0000" channel="Prima Krimi SK.webtv.sk">
     <title lang="id">Prvních 48 hodin XXII (30)</title>
   </programme>
-  <programme start="20260507223500 +0000" stop="20260507232000 +0000" channel="Prima Krimi SK.webtv.sk">
+  <programme start="20260507223000 +0000" stop="20260507231500 +0000" channel="Prima Krimi SK.webtv.sk">
     <title lang="id">Vraždy v Kitzbühelu V (7)</title>
   </programme>
-  <programme start="20260507232000 +0000" stop="20260508000000 +0000" channel="Prima Krimi SK.webtv.sk">
+  <programme start="20260507231500 +0000" stop="20260507235500 +0000" channel="Prima Krimi SK.webtv.sk">
     <title lang="id">Vraždy v Kitzbühelu V (8)</title>
   </programme>
-  <programme start="20260508000000 +0000" stop="20260508004500 +0000" channel="Prima Krimi SK.webtv.sk">
+  <programme start="20260507235500 +0000" stop="20260508004000 +0000" channel="Prima Krimi SK.webtv.sk">
     <title lang="id">Policie v akci</title>
   </programme>
-  <programme start="20260508004500 +0000" stop="20260508012500 +0000" channel="Prima Krimi SK.webtv.sk">
+  <programme start="20260508004000 +0000" stop="20260508012000 +0000" channel="Prima Krimi SK.webtv.sk">
     <title lang="id">Policie v akci</title>
   </programme>
-  <programme start="20260508012500 +0000" stop="20260508034500 +0000" channel="Prima Krimi SK.webtv.sk">
+  <programme start="20260508012000 +0000" stop="20260508034500 +0000" channel="Prima Krimi SK.webtv.sk">
     <title lang="id">Noční Praha</title>
   </programme>
   <programme start="20260508034500 +0000" stop="20260508040000 +0000" channel="Prima Krimi SK.webtv.sk">
@@ -16339,46 +16339,46 @@
   <programme start="20260508214500 +0000" stop="20260508220000 +0000" channel="TVP World.webtv.sk">
     <title lang="id">World Talks (1792)</title>
   </programme>
-  <programme start="20260507220000 +0000" stop="20260507221500 +0000" channel="TVP Info.webtv.sk">
+  <programme start="20260507220000 +0000" stop="20260507221800 +0000" channel="TVP Info.webtv.sk">
     <title lang="id">Serwis Info Wieczór</title>
   </programme>
-  <programme start="20260507221500 +0000" stop="20260507222200 +0000" channel="TVP Info.webtv.sk">
+  <programme start="20260507221800 +0000" stop="20260507222500 +0000" channel="TVP Info.webtv.sk">
     <title lang="id">Pogoda Info</title>
   </programme>
-  <programme start="20260507222200 +0000" stop="20260507225000 +0000" channel="TVP Info.webtv.sk">
+  <programme start="20260507222500 +0000" stop="20260507225300 +0000" channel="TVP Info.webtv.sk">
     <title lang="id">Program informacyjny 19.30</title>
   </programme>
-  <programme start="20260507225000 +0000" stop="20260507231000 +0000" channel="TVP Info.webtv.sk">
+  <programme start="20260507225300 +0000" stop="20260507231300 +0000" channel="TVP Info.webtv.sk">
     <title lang="id">Pytanie dnia (676)</title>
   </programme>
-  <programme start="20260507231000 +0000" stop="20260507235500 +0000" channel="TVP Info.webtv.sk">
+  <programme start="20260507231300 +0000" stop="20260508000000 +0000" channel="TVP Info.webtv.sk">
     <title lang="id">Niebezpieczne zwiazki (101)</title>
   </programme>
-  <programme start="20260507235500 +0000" stop="20260508001700 +0000" channel="TVP Info.webtv.sk">
+  <programme start="20260508000000 +0000" stop="20260508002200 +0000" channel="TVP Info.webtv.sk">
     <title lang="id">Oko na Swiat (744)</title>
   </programme>
-  <programme start="20260508001700 +0000" stop="20260508004000 +0000" channel="TVP Info.webtv.sk">
+  <programme start="20260508002200 +0000" stop="20260508004500 +0000" channel="TVP Info.webtv.sk">
     <title lang="id">Wykrywacz kłamstw (176)</title>
   </programme>
-  <programme start="20260508004000 +0000" stop="20260508005500 +0000" channel="TVP Info.webtv.sk">
+  <programme start="20260508004500 +0000" stop="20260508010000 +0000" channel="TVP Info.webtv.sk">
     <title lang="id">112. Magazyn kryminalny</title>
   </programme>
-  <programme start="20260508005500 +0000" stop="20260508012500 +0000" channel="TVP Info.webtv.sk">
+  <programme start="20260508010000 +0000" stop="20260508013000 +0000" channel="TVP Info.webtv.sk">
     <title lang="id">Panorama Dnia</title>
   </programme>
-  <programme start="20260508012500 +0000" stop="20260508012800 +0000" channel="TVP Info.webtv.sk">
+  <programme start="20260508013000 +0000" stop="20260508013300 +0000" channel="TVP Info.webtv.sk">
     <title lang="id">Pogoda Info</title>
   </programme>
-  <programme start="20260508012800 +0000" stop="20260508015700 +0000" channel="TVP Info.webtv.sk">
-    <title lang="id">Podróze z historia II (17)</title>
+  <programme start="20260508013300 +0000" stop="20260508015500 +0000" channel="TVP Info.webtv.sk">
+    <title lang="id">Perły Bałtyku (3)</title>
   </programme>
-  <programme start="20260508015700 +0000" stop="20260508023000 +0000" channel="TVP Info.webtv.sk">
+  <programme start="20260508015500 +0000" stop="20260508022900 +0000" channel="TVP Info.webtv.sk">
     <title lang="id">Podróze z historia I (12)</title>
   </programme>
-  <programme start="20260508023000 +0000" stop="20260508025700 +0000" channel="TVP Info.webtv.sk">
+  <programme start="20260508022900 +0000" stop="20260508025600 +0000" channel="TVP Info.webtv.sk">
     <title lang="id">Stacja Arktyka (4)</title>
   </programme>
-  <programme start="20260508025700 +0000" stop="20260508034500 +0000" channel="TVP Info.webtv.sk">
+  <programme start="20260508025600 +0000" stop="20260508034500 +0000" channel="TVP Info.webtv.sk">
     <title lang="id">Kwiatki polskie (418)</title>
   </programme>
   <programme start="20260508034500 +0000" stop="20260508034700 +0000" channel="TVP Info.webtv.sk">

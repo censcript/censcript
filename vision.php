@@ -631,9 +631,6 @@
 <programme start="20260506100000 +0000" stop="20260506120000 +0000" channel="ANTV.vision">
 <title>Vasudha</title>
 </programme>
-<programme start="20260506120000 +0000" stop="20260506140000 +0000" channel="ANTV.vision">
-<title>Rajawali Dari Utara</title>
-</programme>
 <programme start="20260506140000 +0000" stop="20260506153000 +0000" channel="ANTV.vision">
 <title>Nyi Ageng Ratu Pemikat</title>
 </programme>
@@ -810,9 +807,6 @@
 </programme>
 <programme start="20260506110000 +0000" stop="20260506130000 +0000" channel="TVOne.vision">
 <title>Apa Kabar Indonesia Malam (L)</title>
-</programme>
-<programme start="20260506130000 +0000" stop="20260506140000 +0000" channel="TVOne.vision">
-<title>Indonesia Business Forum</title>
 </programme>
 <programme start="20260506140000 +0000" stop="20260506150000 +0000" channel="TVOne.vision">
 <title>Kabar Utama 2</title>
@@ -1497,4 +1491,10 @@
 </programme>
 <programme start="20260507073000 +0000" stop="20260507080000 +0000" channel="BTV.vision">
 <title>Indonesia Update Ototekno</title>
+</programme>
+<programme start="20260507080000 +0000" stop="20260507083000 +0000" channel="BTV.vision">
+<title>Berita Kriminal</title>
+</programme>
+<programme start="20260507083000 +0000" stop="20260507090000 +0000" channel="BTV.vision">
+<title>Berita Satu Sore (L)</title>
 </programme>
