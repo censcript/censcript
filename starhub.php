@@ -4898,7 +4898,7 @@
         <title>Patharamattu</title>
     </programme>
     <programme start="20260506040000 +0000" stop="20260506043000 +0000" channel="Asianet.starhub">
-        <title>Mounaragam</title>
+        <title>Patharamattu</title>
     </programme>
     <programme start="20260506043000 +0000" stop="20260506050000 +0000" channel="Asianet.starhub">
         <title>Ee Puzhayum Kadannu</title>
@@ -4913,7 +4913,7 @@
         <title>Advocate Anjali</title>
     </programme>
     <programme start="20260506083000 +0000" stop="20260506090000 +0000" channel="Asianet.starhub">
-        <title>Pavithram</title>
+        <title>Mounaragam</title>
     </programme>
     <programme start="20260506090000 +0000" stop="20260506093000 +0000" channel="Asianet.starhub">
         <title>Amma Manassu(Dub . Fiction)</title>

@@ -15670,7 +15670,7 @@
     <category lang="en">Sports</category>
   </programme>
   <programme start="20260505233000 +0000" stop="20260506010000 +0000" channel="beinsports2.unifitv">
-    <title lang="en">Premier Padel - Miami P1 Day 1 Match 2</title>
+    <title lang="en">Premier Padel - Asuncion P2 Day 1 Match 4 (L)</title>
     <desc lang="en">The official global Padel tour. Catch world's top players battle it out across the globe.</desc>
     <category lang="en">Sports</category>
   </programme>
@@ -15788,8 +15788,8 @@
     <category lang="en">Sports</category>
   </programme>
   <programme start="20260505220000 +0000" stop="20260505223000 +0000" channel="beinsports3.unifitv">
-    <title lang="en">UCI World Tour Highlights - La Fleche Wallone</title>
-    <desc lang="en">Highlights of the premier men's elite road cycling tour.</desc>
+    <title lang="en">Epic Series - Cape Epic Recap: Prologue - Stage 4</title>
+    <desc lang="en">The Epic Series is more than just racing - it's a battle against the elements, the competition, and more so - yourself. A global test of endurance, skill, and sheer willpower. Now, for the first time ever, Race the World takes you behind the scenes of the world's most iconic mountain bike stage races.</desc>
     <category lang="en">Sports</category>
   </programme>
   <programme start="20260505223000 +0000" stop="20260505230000 +0000" channel="beinsports3.unifitv">

@@ -3163,7 +3163,7 @@ Warning: Undefined array key "et" in /usr/home/ManusiaBiasa/domains/manusiabiasa
 <programme start="20260506163000 +0000" stop="20260506170000 +0000" channel="Sky Sport News HD.skyde">
     <title>Live Sky Sport News: So denken die Fans.... Das Fußball-Barometer</title>
 </programme>
-<programme start="20260506170000 +0000" stop="20260506183000 +0000" channel="Sky Sport News HD.skyde">
+<programme start="20260506173000 +0000" stop="20260506183000 +0000" channel="Sky Sport News HD.skyde">
     <title>Live Sky Sport News: Primetime</title>
 </programme>
 <programme start="20260506183000 +0000" stop="20260506190000 +0000" channel="Sky Sport News HD.skyde">
@@ -3283,14 +3283,11 @@ Warning: Undefined array key "et" in /usr/home/ManusiaBiasa/domains/manusiabiasa
 <programme start="20260506213000 +0000" stop="20260506220000 +0000" channel="Sky Sport Premier League HD.skyde">
     <title>PL: Club 100: Paul Scholes</title>
 </programme>
-<programme start="20260505233000 +0000" stop="20260506000000 +0000" channel="Sky Sport Tennis HD.skyde">
-    <title>WTA 1000: Review Madrid</title>
+<programme start="20260505223000 +0000" stop="20260506003000 +0000" channel="Sky Sport Tennis HD.skyde">
+    <title>WTA 1000: M. Kostyuk (UKR) - M. Andreeva, Mutua Madrid Open in Madrid (ESP), Finale</title>
 </programme>
-<programme start="20260506000000 +0000" stop="20260506020000 +0000" channel="Sky Sport Tennis HD.skyde">
-    <title>WTA 1000: Topspiel, Internazionali BNL d&#039;Italia in Rom (Italien), 1. Tag</title>
-</programme>
-<programme start="20260506020000 +0000" stop="20260506023000 +0000" channel="Sky Sport Tennis HD.skyde">
-    <title>ATP: This Week</title>
+<programme start="20260506003000 +0000" stop="20260506023000 +0000" channel="Sky Sport Tennis HD.skyde">
+    <title>WTA 1000: S. Kenin (USA) - B. Andreescu (CAN), Internazionali BNL d&#039;Italia in Rom (Italien), 1. Tag</title>
 </programme>
 <programme start="20260506023000 +0000" stop="20260506041500 +0000" channel="Sky Sport Tennis HD.skyde">
     <title>ATP 1000: A. Zverev (GER) - J. Sinner (ITA), Mutua Madrid Open in Madrid (ESP), Finale</title>
@@ -3305,7 +3302,7 @@ Warning: Undefined array key "et" in /usr/home/ManusiaBiasa/domains/manusiabiasa
     <title>ATP: The Ring Master: Alexander Bublik</title>
 </programme>
 <programme start="20260506063000 +0000" stop="20260506083000 +0000" channel="Sky Sport Tennis HD.skyde">
-    <title>WTA 1000: Topspiel, Internazionali BNL d&#039;Italia in Rom (Italien), 1. Tag</title>
+    <title>WTA 1000: S. Kenin (USA) - B. Andreescu (CAN), Internazionali BNL d&#039;Italia in Rom (Italien), 1. Tag</title>
 </programme>
 <programme start="20260506083000 +0000" stop="20260506090000 +0000" channel="Sky Sport Tennis HD.skyde">
     <title>ATP: This Week</title>
@@ -3313,11 +3310,11 @@ Warning: Undefined array key "et" in /usr/home/ManusiaBiasa/domains/manusiabiasa
 <programme start="20260506090000 +0000" stop="20260506210000 +0000" channel="Sky Sport Tennis HD.skyde">
     <title>Live ATP &amp; WTA: Konferenz Masters 1000 Rom (Italien), 2. Tag</title>
 </programme>
-<programme start="20260506210000 +0000" stop="20260506213000 +0000" channel="Sky Sport Tennis HD.skyde">
-    <title>ATP: This Week</title>
+<programme start="20260506210000 +0000" stop="20260506211500 +0000" channel="Sky Sport Tennis HD.skyde">
+    <title>Sky Sport News: So denken die Fans.... Das Tennis-Barometer</title>
 </programme>
-<programme start="20260506213000 +0000" stop="20260506233000 +0000" channel="Sky Sport Tennis HD.skyde">
-    <title>WTA 1000: Topspiel, Internazionali BNL d&#039;Italia in Rom (Italien), 2. Tag</title>
+<programme start="20260506211500 +0000" stop="20260506231500 +0000" channel="Sky Sport Tennis HD.skyde">
+    <title>WTA 1000: E. Lys (GER) - K. Boulter (GBR), Internazionali BNL d&#039;Italia in Rom (Italien), 2. Tag</title>
 </programme>
 <programme start="20260505220000 +0000" stop="20260505230000 +0000" channel="Sky Sport Top Event HD.skyde">
     <title>Live NBA: Showtime</title>
@@ -3344,7 +3341,7 @@ Warning: Undefined array key "et" in /usr/home/ManusiaBiasa/domains/manusiabiasa
     <title>BL Kompakt: 32. Spieltag</title>
 </programme>
 <programme start="20260506070000 +0000" stop="20260506090000 +0000" channel="Sky Sport Top Event HD.skyde">
-    <title>NHL: Minnesota Wild @ Colorado Avelanche, Playoffs, 2. Runde, Spiel 2</title>
+    <title>NHL: Minnesota Wild @ Colorado Avalanche, Playoffs, 2. Runde, Spiel 2</title>
 </programme>
 <programme start="20260506090000 +0000" stop="20260506210000 +0000" channel="Sky Sport Top Event HD.skyde">
     <title>Live ATP &amp; WTA: Konferenz Masters 1000 Rom (Italien), 2. Tag</title>
@@ -3364,14 +3361,11 @@ Warning: Undefined array key "et" in /usr/home/ManusiaBiasa/domains/manusiabiasa
 <programme start="20260506084000 +0000" stop="20260506090000 +0000" channel="Sky Sport 1 HD.skyde">
     <title>Es folgt: LIVE WTA Tour</title>
 </programme>
-<programme start="20260506090000 +0000" stop="20260506190000 +0000" channel="Sky Sport 1 HD.skyde">
+<programme start="20260506090000 +0000" stop="20260506220000 +0000" channel="Sky Sport 1 HD.skyde">
     <title>Live WTA 1000: Internazionali BNL d&#039;Italia in Rom (Italien), 2. Tag</title>
 </programme>
-<programme start="20260505234000 +0000" stop="20260506000000 +0000" channel="Sky Sport 2 HD.skyde">
-    <title>Es folgt: LIVE NBA</title>
-</programme>
-<programme start="20260506000000 +0000" stop="20260506003000 +0000" channel="Sky Sport 2 HD.skyde">
-    <title>Live NBA: Showtime</title>
+<programme start="20260505234000 +0000" stop="20260506003000 +0000" channel="Sky Sport 2 HD.skyde">
+    <title>Es folgt: ab 02:30: LIVE NBA</title>
 </programme>
 <programme start="20260506003000 +0000" stop="20260506030000 +0000" channel="Sky Sport 2 HD.skyde">
     <title>Live NBA: LA Lakers @ Oklahoma City Thunder, Conference Semifinals, Spiel 1</title>

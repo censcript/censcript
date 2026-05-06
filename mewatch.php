@@ -130,10 +130,10 @@
     <programme start="20260506134500 +0000" stop="20260506141500 +0000" channel="Channel 5.mewatch">
         <title>Border Security: America&#039;s Front Line S2 - EP 18</title>
     </programme>
-    <programme start="20260506141500 +0000" stop="20260506150000 +0000" channel="Channel 5.mewatch">
+    <programme start="20260506141500 +0000" stop="20260506150500 +0000" channel="Channel 5.mewatch">
         <title>Hoarders S13 - EP 16</title>
     </programme>
-    <programme start="20260506150000 +0000" stop="20260506160000 +0000" channel="Channel 5.mewatch">
+    <programme start="20260506150500 +0000" stop="20260506160000 +0000" channel="Channel 5.mewatch">
         <title>Growing Wild: Project Castaway - EP 3</title>
     </programme>
     <programme start="20260506160000 +0000" stop="20260506163000 +0000" channel="Channel 5.mewatch">
@@ -247,17 +247,14 @@
     <programme start="20260506130000 +0000" stop="20260506140000 +0000" channel="Channel 8.mewatch">
         <title>Kid U Not - EP 8</title>
     </programme>
-    <programme start="20260506140000 +0000" stop="20260506143000 +0000" channel="Channel 8.mewatch">
+    <programme start="20260506140000 +0000" stop="20260506144500 +0000" channel="Channel 8.mewatch">
         <title>(Live) News Tonight</title>
     </programme>
-    <programme start="20260506143000 +0000" stop="20260506150000 +0000" channel="Channel 8.mewatch">
+    <programme start="20260506144500 +0000" stop="20260506151500 +0000" channel="Channel 8.mewatch">
         <title>Hong Kong Chef’s Culinary Adventures - EP 14</title>
     </programme>
-    <programme start="20260506150000 +0000" stop="20260506160000 +0000" channel="Channel 8.mewatch">
+    <programme start="20260506151500 +0000" stop="20260506161500 +0000" channel="Channel 8.mewatch">
         <title>Swords into Plowshares - EP 6</title>
-    </programme>
-    <programme start="20260506160000 +0000" stop="20260506170000 +0000" channel="Channel 8.mewatch">
-        <title>White Cat Legend - EP 7</title>
     </programme>
     <programme start="20260505154500 +0000" stop="20260505164000 +0000" channel="Channel U.mewatch">
         <title>Have A Nice Dream 2025 - EP 7</title>
@@ -367,10 +364,10 @@
     <programme start="20260506140000 +0000" stop="20260506150000 +0000" channel="Channel U.mewatch">
         <title>Hotel Del Luna - EP 26</title>
     </programme>
-    <programme start="20260506150000 +0000" stop="20260506153000 +0000" channel="Channel U.mewatch">
+    <programme start="20260506150000 +0000" stop="20260506154500 +0000" channel="Channel U.mewatch">
         <title>News Tonight</title>
     </programme>
-    <programme start="20260506153000 +0000" stop="20260506163000 +0000" channel="Channel U.mewatch">
+    <programme start="20260506154500 +0000" stop="20260506164000 +0000" channel="Channel U.mewatch">
         <title>No Ordinary Rescue S2 - EP 4</title>
     </programme>
     <programme start="20260505160000 +0000" stop="20260506010000 +0000" channel="Suria.mewatch">
