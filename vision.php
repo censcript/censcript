@@ -40,7 +40,10 @@
 <programme start="20260506171500 +0000" stop="20260506183000 +0000" channel="RCTI.vision">
 <title>Mega Film TV Malam</title>
 </programme>
-<programme start="20260506183000 +0000" stop="20260506193000 +0000" channel="RCTI.vision">
+<programme start="20260506183000 +0000" stop="20260506190000 +0000" channel="RCTI.vision">
+<title>Mega Film TV Malam</title>
+</programme>
+<programme start="20260506190000 +0000" stop="20260506193000 +0000" channel="RCTI.vision">
 <title>Mega Film TV Malam</title>
 </programme>
 <programme start="20260506193000 +0000" stop="20260506230000 +0000" channel="RCTI.vision">
@@ -139,11 +142,14 @@
 <programme start="20260507103000 +0000" stop="20260507120000 +0000" channel="MNCTV.vision">
 <title>Upin &amp; Ipin</title>
 </programme>
-<programme start="20260505234500 +0000" stop="20260506003000 +0000" channel="GTV.vision">
-<title>Bernard Bear</title>
-</programme>
-<programme start="20260506003000 +0000" stop="20260506030000 +0000" channel="GTV.vision">
+<programme start="20260505230000 +0000" stop="20260506020000 +0000" channel="GTV.vision">
 <title>Spongebob Squarepants (GTV)</title>
+</programme>
+<programme start="20260506020000 +0000" stop="20260506023000 +0000" channel="GTV.vision">
+<title>CoComelon Dan Sahabat</title>
+</programme>
+<programme start="20260506023000 +0000" stop="20260506030000 +0000" channel="GTV.vision">
+<title>Buletin iNews Pagi</title>
 </programme>
 <programme start="20260506030000 +0000" stop="20260506050000 +0000" channel="GTV.vision">
 <title>SpongeBob SquarePants</title>
@@ -164,15 +170,12 @@
 <title>New Family 100 (GTV)</title>
 </programme>
 <programme start="20260506133000 +0000" stop="20260506153000 +0000" channel="GTV.vision">
-<title>Giants Snake Events...</title>
+<title>Big Movies</title>
 </programme>
 <programme start="20260506153000 +0000" stop="20260506180000 +0000" channel="GTV.vision">
 <title>GTV</title>
 </programme>
-<programme start="20260506180000 +0000" stop="20260506190000 +0000" channel="GTV.vision">
-<title>Tertawa Tengah Malam</title>
-</programme>
-<programme start="20260506190000 +0000" stop="20260506220000 +0000" channel="GTV.vision">
+<programme start="20260506180000 +0000" stop="20260506220000 +0000" channel="GTV.vision">
 <title>Tertawa Tengah Malam</title>
 </programme>
 <programme start="20260506220000 +0000" stop="20260506230000 +0000" channel="GTV.vision">
@@ -631,6 +634,12 @@
 <programme start="20260506100000 +0000" stop="20260506120000 +0000" channel="ANTV.vision">
 <title>Vasudha</title>
 </programme>
+<programme start="20260506120000 +0000" stop="20260506140000 +0000" channel="ANTV.vision">
+<title>Rajawali Dari Utara</title>
+</programme>
+<programme start="20260506140000 +0000" stop="20260506153000 +0000" channel="ANTV.vision">
+<title>Nyi Ageng Ratu Pemikat</title>
+</programme>
 <programme start="20260506153000 +0000" stop="20260506173000 +0000" channel="ANTV.vision">
 <title>Si Manis Jembatan Ancol</title>
 </programme>
@@ -804,6 +813,9 @@
 </programme>
 <programme start="20260506110000 +0000" stop="20260506130000 +0000" channel="TVOne.vision">
 <title>Apa Kabar Indonesia Malam (L)</title>
+</programme>
+<programme start="20260506130000 +0000" stop="20260506140000 +0000" channel="TVOne.vision">
+<title>Indonesia Business Forum</title>
 </programme>
 <programme start="20260506140000 +0000" stop="20260506150000 +0000" channel="TVOne.vision">
 <title>Kabar Utama 2</title>
@@ -1485,16 +1497,4 @@
 </programme>
 <programme start="20260507070000 +0000" stop="20260507073000 +0000" channel="BTV.vision">
 <title>Spot On</title>
-</programme>
-<programme start="20260507073000 +0000" stop="20260507080000 +0000" channel="BTV.vision">
-<title>Indonesia Update Ototekno</title>
-</programme>
-<programme start="20260507080000 +0000" stop="20260507083000 +0000" channel="BTV.vision">
-<title>Berita Kriminal</title>
-</programme>
-<programme start="20260507083000 +0000" stop="20260507090000 +0000" channel="BTV.vision">
-<title>Berita Satu Sore (L)</title>
-</programme>
-<programme start="20260507090000 +0000" stop="20260507090500 +0000" channel="BTV.vision">
-<title>Berita Satu Terkini</title>
 </programme>

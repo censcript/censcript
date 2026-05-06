@@ -2013,7 +2013,7 @@
     <title lang="id">RERUN PROLIGA 2026</title>
     <icon src="https://thumbor.prod.vidiocdn.com/NdmzqkxqnWVnlngtk_ObYNT-wiY=/287x162/filters:strip_icc():quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/image/206/moji-a5bd3e.jpg"/>
   </programme>
-  <programme channel="206" start="20260506140000 +0000" stop="20260506164700 +0000">
+  <programme channel="206" start="20260506140000 +0000" stop="20260506164800 +0000">
     <title lang="id">RERUN PROLIGA 2026</title>
     <icon src="https://thumbor.prod.vidiocdn.com/NdmzqkxqnWVnlngtk_ObYNT-wiY=/287x162/filters:strip_icc():quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/image/206/moji-a5bd3e.jpg"/>
   </programme>
@@ -2021,7 +2021,7 @@
     <title lang="id">UEFA CHAMPIONS LEAGUE - Arsenal vs Atletico Madrid</title>
     <icon src="https://thumbor.prod.vidiocdn.com/NdmzqkxqnWVnlngtk_ObYNT-wiY=/287x162/filters:strip_icc():quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/image/206/moji-a5bd3e.jpg"/>
   </programme>
-  <programme channel="206" start="20260506170000 +0000" stop="20260506183000 +0000">
+  <programme channel="206" start="20260506164800 +0000" stop="20260506183000 +0000">
     <title lang="id">UEFA CHAMPIONS LEAGUE - Arsenal vs Atletico Madrid</title>
     <icon src="https://thumbor.prod.vidiocdn.com/NdmzqkxqnWVnlngtk_ObYNT-wiY=/287x162/filters:strip_icc():quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/image/206/moji-a5bd3e.jpg"/>
   </programme>
@@ -6036,12 +6036,12 @@
     <desc lang="id">Bayern vs PSG - Wed, SF, 2nd Leg</desc>
     <icon src="https://thumbor.prod.vidiocdn.com/5yUHYfv_b1sZi7kdFElm8JqF2RY=/287x162/filters:strip_icc():quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/image/6299/bein-1-4bd997.jpg"/>
   </programme>
-  <programme channel="6299" start="20260506185500 +0000" stop="20260506210000 +0000">
+  <programme channel="6299" start="20260506185500 +0000" stop="20260506212000 +0000">
     <title lang="id">Semifinals Leg 2: Bayern vs PSG - UEFA Champions League</title>
     <desc lang="id">Nonton streaming pertandingan seru Semifinals Leg 2: Bayern vs PSG - UEFA Champions League. Saksikan aksi-aksi terbaik dari tim yang bersaing ketat untuk meraih kemenangan. Dapatkan informasi lengkap mengenai jadwal pertandingan dan hasil pertandingan terbaru hanya di Vidio.</desc>
     <icon src="https://thumbor.prod.vidiocdn.com/0NMamCehZWQ8KZFDHKV0p3XnF8Y=/287x162/filters:strip_icc():quality(70)/vidio-media-production/uploads/livestreaming/schedule/thumbnail/5059316/ce1147.jpg"/>
   </programme>
-  <programme channel="6299" start="20260506210000 +0000" stop="20260506213000 +0000">
+  <programme channel="6299" start="20260506212000 +0000" stop="20260506213000 +0000">
     <title lang="id">The UCL Preview Show 2025/26</title>
     <icon src="https://thumbor.prod.vidiocdn.com/5yUHYfv_b1sZi7kdFElm8JqF2RY=/287x162/filters:strip_icc():quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/image/6299/bein-1-4bd997.jpg"/>
   </programme>
@@ -12885,32 +12885,27 @@
     <title lang="id">Filler</title>
     <icon src="https://thumbor.prod.vidiocdn.com/nY0aFklpYf6yONLaFJjxhiSuthc=/287x162/filters:strip_icc():quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/image/6786/champions-tv-3-76ca7c.jpg"/>
   </programme>
-  <programme channel="6786" start="20260506170000 +0000" stop="20260506190000 +0000">
+  <programme channel="6786" start="20260506170000 +0000" stop="20260506195300 +0000">
     <title lang="id">Day 1 - WTA 1000: Internazionali BNL D'Italia 2026</title>
     <desc lang="id">Nonton streaming pertandingan seru Day 1 - WTA 1000: Internazionali BNL D'Italia 2026. Saksikan aksi-aksi terbaik dari tim yang bersaing ketat untuk meraih kemenangan. Dapatkan informasi lengkap mengenai jadwal pertandingan dan hasil pertandingan terbaru hanya di Vidio.</desc>
     <icon src="https://thumbor.prod.vidiocdn.com/bDF3IYS2-p_deC5Z54dtwPWU5XI=/287x162/filters:strip_icc():quality(70)/vidio-media-production/uploads/livestreaming/schedule/thumbnail/5061635/b4678a.jpg"/>
   </programme>
-  <programme channel="6786" start="20260506190000 +0000" stop="20260506193000 +0000">
-    <title lang="id">Eps 23 : Sport Woman</title>
-    <desc lang="id">Eps 23</desc>
-    <icon src="https://thumbor.prod.vidiocdn.com/nY0aFklpYf6yONLaFJjxhiSuthc=/287x162/filters:strip_icc():quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/image/6786/champions-tv-3-76ca7c.jpg"/>
-  </programme>
-  <programme channel="6786" start="20260506193000 +0000" stop="20260506213000 +0000">
+  <programme channel="6786" start="20260506195300 +0000" stop="20260506215300 +0000">
     <title lang="id">BOLOGNA vs CAGLIARI : Serie A 2025/26</title>
     <desc lang="id">BOLOGNA vs CAGLIARI</desc>
     <icon src="https://thumbor.prod.vidiocdn.com/nY0aFklpYf6yONLaFJjxhiSuthc=/287x162/filters:strip_icc():quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/image/6786/champions-tv-3-76ca7c.jpg"/>
   </programme>
-  <programme channel="6786" start="20260506213000 +0000" stop="20260506233000 +0000">
+  <programme channel="6786" start="20260506215300 +0000" stop="20260506233000 +0000">
     <title lang="id">CREMONESE vs LAZIO : Serie A 2025/26</title>
     <desc lang="id">CREMONESE vs LAZIO</desc>
     <icon src="https://thumbor.prod.vidiocdn.com/nY0aFklpYf6yONLaFJjxhiSuthc=/287x162/filters:strip_icc():quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/image/6786/champions-tv-3-76ca7c.jpg"/>
   </programme>
-  <programme channel="6786" start="20260506233000 +0000" stop="20260507013000 +0000">
+  <programme channel="6786" start="20260506235000 +0000" stop="20260507015000 +0000">
     <title lang="id">JUVENTUS vs HELLAS VERONA : Serie A 2025/26</title>
     <desc lang="id">JUVENTUS vs HELLAS VERONA</desc>
     <icon src="https://thumbor.prod.vidiocdn.com/nY0aFklpYf6yONLaFJjxhiSuthc=/287x162/filters:strip_icc():quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/image/6786/champions-tv-3-76ca7c.jpg"/>
   </programme>
-  <programme channel="6786" start="20260507013000 +0000" stop="20260507033000 +0000">
+  <programme channel="6786" start="20260507015000 +0000" stop="20260507033000 +0000">
     <title lang="id">Match 01 - Internazionali BNL d'Italia : WTA 1000</title>
     <desc lang="id">Match 01 - Internazionali BNL d'Italia</desc>
     <icon src="https://thumbor.prod.vidiocdn.com/nY0aFklpYf6yONLaFJjxhiSuthc=/287x162/filters:strip_icc():quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/image/6786/champions-tv-3-76ca7c.jpg"/>

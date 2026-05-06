@@ -1405,37 +1405,37 @@ Warning: Undefined array key "et" in /usr/home/ManusiaBiasa/domains/manusiabiasa
 <programme start="20260506033500 +0000" stop="20260506040000 +0000" channel="Nick Jr..skyde">
     <title>Tim Rex im All</title>
 </programme>
-<programme start="20260506040000 +0000" stop="20260506042500 +0000" channel="Nick Jr..skyde">
+<programme start="20260506040000 +0000" stop="20260506042000 +0000" channel="Nick Jr..skyde">
     <title>Blaze und die Monster-Maschinen</title>
 </programme>
-<programme start="20260506042500 +0000" stop="20260506044500 +0000" channel="Nick Jr..skyde">
+<programme start="20260506042000 +0000" stop="20260506044500 +0000" channel="Nick Jr..skyde">
     <title>Blaze und die Monster-Maschinen</title>
 </programme>
 <programme start="20260506044500 +0000" stop="20260506045500 +0000" channel="Nick Jr..skyde">
     <title>Rubble &amp; Crew</title>
 </programme>
-<programme start="20260506045500 +0000" stop="20260506051000 +0000" channel="Nick Jr..skyde">
+<programme start="20260506045500 +0000" stop="20260506050500 +0000" channel="Nick Jr..skyde">
     <title>Rubble &amp; Crew</title>
 </programme>
-<programme start="20260506051000 +0000" stop="20260506053000 +0000" channel="Nick Jr..skyde">
+<programme start="20260506050500 +0000" stop="20260506053000 +0000" channel="Nick Jr..skyde">
     <title>Rubble &amp; Crew</title>
 </programme>
-<programme start="20260506053000 +0000" stop="20260506055500 +0000" channel="Nick Jr..skyde">
+<programme start="20260506053000 +0000" stop="20260506055000 +0000" channel="Nick Jr..skyde">
     <title>Paw Patrol: Helfer auf vier Pfoten</title>
 </programme>
-<programme start="20260506055500 +0000" stop="20260506061500 +0000" channel="Nick Jr..skyde">
+<programme start="20260506055000 +0000" stop="20260506061500 +0000" channel="Nick Jr..skyde">
     <title>Paw Patrol: Helfer auf vier Pfoten</title>
 </programme>
-<programme start="20260506061500 +0000" stop="20260506064000 +0000" channel="Nick Jr..skyde">
+<programme start="20260506061500 +0000" stop="20260506063500 +0000" channel="Nick Jr..skyde">
     <title>DORA</title>
 </programme>
-<programme start="20260506064000 +0000" stop="20260506065000 +0000" channel="Nick Jr..skyde">
+<programme start="20260506063500 +0000" stop="20260506065000 +0000" channel="Nick Jr..skyde">
     <title>DORA</title>
 </programme>
-<programme start="20260506065000 +0000" stop="20260506070000 +0000" channel="Nick Jr..skyde">
+<programme start="20260506065000 +0000" stop="20260506065500 +0000" channel="Nick Jr..skyde">
     <title>Tim Rex im All</title>
 </programme>
-<programme start="20260506070000 +0000" stop="20260506070500 +0000" channel="Nick Jr..skyde">
+<programme start="20260506065500 +0000" stop="20260506070500 +0000" channel="Nick Jr..skyde">
     <title>Tim Rex im All</title>
 </programme>
 <programme start="20260506070500 +0000" stop="20260506071000 +0000" channel="Nick Jr..skyde">
@@ -1468,10 +1468,10 @@ Warning: Undefined array key "et" in /usr/home/ManusiaBiasa/domains/manusiabiasa
 <programme start="20260506075000 +0000" stop="20260506075500 +0000" channel="Nick Jr..skyde">
     <title>Peppa Wutz</title>
 </programme>
-<programme start="20260506075500 +0000" stop="20260506082000 +0000" channel="Nick Jr..skyde">
+<programme start="20260506075500 +0000" stop="20260506081500 +0000" channel="Nick Jr..skyde">
     <title>BARBAPAPA und Familie</title>
 </programme>
-<programme start="20260506082000 +0000" stop="20260506084000 +0000" channel="Nick Jr..skyde">
+<programme start="20260506081500 +0000" stop="20260506084000 +0000" channel="Nick Jr..skyde">
     <title>BARBAPAPA und Familie</title>
 </programme>
 <programme start="20260506084000 +0000" stop="20260506090000 +0000" channel="Nick Jr..skyde">
@@ -1495,16 +1495,16 @@ Warning: Undefined array key "et" in /usr/home/ManusiaBiasa/domains/manusiabiasa
 <programme start="20260506103000 +0000" stop="20260506105500 +0000" channel="Nick Jr..skyde">
     <title>Paw Patrol: Helfer auf vier Pfoten</title>
 </programme>
-<programme start="20260506105500 +0000" stop="20260506112000 +0000" channel="Nick Jr..skyde">
+<programme start="20260506105500 +0000" stop="20260506111500 +0000" channel="Nick Jr..skyde">
     <title>Paw Patrol: Helfer auf vier Pfoten</title>
 </programme>
-<programme start="20260506112000 +0000" stop="20260506114000 +0000" channel="Nick Jr..skyde">
+<programme start="20260506111500 +0000" stop="20260506114000 +0000" channel="Nick Jr..skyde">
     <title>BARBAPAPA und Familie</title>
 </programme>
-<programme start="20260506114000 +0000" stop="20260506120500 +0000" channel="Nick Jr..skyde">
+<programme start="20260506114000 +0000" stop="20260506120000 +0000" channel="Nick Jr..skyde">
     <title>BARBAPAPA und Familie</title>
 </programme>
-<programme start="20260506120500 +0000" stop="20260506122500 +0000" channel="Nick Jr..skyde">
+<programme start="20260506120000 +0000" stop="20260506122500 +0000" channel="Nick Jr..skyde">
     <title>Tim Rex im All</title>
 </programme>
 <programme start="20260506122500 +0000" stop="20260506125000 +0000" channel="Nick Jr..skyde">
@@ -1513,8 +1513,11 @@ Warning: Undefined array key "et" in /usr/home/ManusiaBiasa/domains/manusiabiasa
 <programme start="20260506125000 +0000" stop="20260506131000 +0000" channel="Nick Jr..skyde">
     <title>DORA</title>
 </programme>
-<programme start="20260506131000 +0000" stop="20260506133500 +0000" channel="Nick Jr..skyde">
+<programme start="20260506131000 +0000" stop="20260506133000 +0000" channel="Nick Jr..skyde">
     <title>DORA</title>
+</programme>
+<programme start="20260506133000 +0000" stop="20260506133500 +0000" channel="Nick Jr..skyde">
+    <title>Peppa Wutz</title>
 </programme>
 <programme start="20260506133500 +0000" stop="20260506134000 +0000" channel="Nick Jr..skyde">
     <title>Peppa Wutz</title>
@@ -1525,10 +1528,7 @@ Warning: Undefined array key "et" in /usr/home/ManusiaBiasa/domains/manusiabiasa
 <programme start="20260506134500 +0000" stop="20260506135000 +0000" channel="Nick Jr..skyde">
     <title>Peppa Wutz</title>
 </programme>
-<programme start="20260506135000 +0000" stop="20260506135100 +0000" channel="Nick Jr..skyde">
-    <title>Peppa Wutz</title>
-</programme>
-<programme start="20260506135100 +0000" stop="20260506135500 +0000" channel="Nick Jr..skyde">
+<programme start="20260506135000 +0000" stop="20260506135500 +0000" channel="Nick Jr..skyde">
     <title>Peppa Wutz</title>
 </programme>
 <programme start="20260506135500 +0000" stop="20260506140000 +0000" channel="Nick Jr..skyde">
@@ -1537,10 +1537,10 @@ Warning: Undefined array key "et" in /usr/home/ManusiaBiasa/domains/manusiabiasa
 <programme start="20260506140000 +0000" stop="20260506140500 +0000" channel="Nick Jr..skyde">
     <title>Peppa Wutz</title>
 </programme>
-<programme start="20260506140500 +0000" stop="20260506143000 +0000" channel="Nick Jr..skyde">
+<programme start="20260506140500 +0000" stop="20260506142500 +0000" channel="Nick Jr..skyde">
     <title>Blaze und die Monster-Maschinen</title>
 </programme>
-<programme start="20260506143000 +0000" stop="20260506145000 +0000" channel="Nick Jr..skyde">
+<programme start="20260506142500 +0000" stop="20260506145000 +0000" channel="Nick Jr..skyde">
     <title>Paw Patrol: Helfer auf vier Pfoten</title>
 </programme>
 <programme start="20260506145000 +0000" stop="20260506150000 +0000" channel="Nick Jr..skyde">
@@ -1603,10 +1603,10 @@ Warning: Undefined array key "et" in /usr/home/ManusiaBiasa/domains/manusiabiasa
 <programme start="20260506180000 +0000" stop="20260506182500 +0000" channel="Nick Jr..skyde">
     <title>Blaze und die Monster-Maschinen</title>
 </programme>
-<programme start="20260506182500 +0000" stop="20260506185000 +0000" channel="Nick Jr..skyde">
+<programme start="20260506182500 +0000" stop="20260506184500 +0000" channel="Nick Jr..skyde">
     <title>Paw Patrol: Helfer auf vier Pfoten</title>
 </programme>
-<programme start="20260506185000 +0000" stop="20260506190000 +0000" channel="Nick Jr..skyde">
+<programme start="20260506184500 +0000" stop="20260506190000 +0000" channel="Nick Jr..skyde">
     <title>Paw Patrol: Helfer auf vier Pfoten</title>
 </programme>
 <programme start="20260506190000 +0000" stop="20260506191000 +0000" channel="Nick Jr..skyde">
@@ -1621,10 +1621,10 @@ Warning: Undefined array key "et" in /usr/home/ManusiaBiasa/domains/manusiabiasa
 <programme start="20260506194500 +0000" stop="20260506200500 +0000" channel="Nick Jr..skyde">
     <title>DORA</title>
 </programme>
-<programme start="20260506200500 +0000" stop="20260506203000 +0000" channel="Nick Jr..skyde">
+<programme start="20260506200500 +0000" stop="20260506202500 +0000" channel="Nick Jr..skyde">
     <title>DORA</title>
 </programme>
-<programme start="20260506203000 +0000" stop="20260506205000 +0000" channel="Nick Jr..skyde">
+<programme start="20260506202500 +0000" stop="20260506205000 +0000" channel="Nick Jr..skyde">
     <title>BARBAPAPA und Familie</title>
 </programme>
 <programme start="20260506205000 +0000" stop="20260506211000 +0000" channel="Nick Jr..skyde">
@@ -1633,7 +1633,10 @@ Warning: Undefined array key "et" in /usr/home/ManusiaBiasa/domains/manusiabiasa
 <programme start="20260506211000 +0000" stop="20260506213500 +0000" channel="Nick Jr..skyde">
     <title>BARBAPAPA und Familie</title>
 </programme>
-<programme start="20260506213500 +0000" stop="20260506220000 +0000" channel="Nick Jr..skyde">
+<programme start="20260506213500 +0000" stop="20260506215500 +0000" channel="Nick Jr..skyde">
+    <title>BARBAPAPA und Familie</title>
+</programme>
+<programme start="20260506215500 +0000" stop="20260506222000 +0000" channel="Nick Jr..skyde">
     <title>BARBAPAPA und Familie</title>
 </programme>
 <programme start="20260505221000 +0000" stop="20260505233500 +0000" channel="Romance TV HD.skyde">
@@ -3322,16 +3325,16 @@ Warning: Undefined array key "et" in /usr/home/ManusiaBiasa/domains/manusiabiasa
 <programme start="20260505230000 +0000" stop="20260506014000 +0000" channel="Sky Sport Top Event HD.skyde">
     <title>Live NBA: Cleveland Cavaliers @ Detroit Pistons, Conference Semifinals, Spiel 1</title>
 </programme>
-<programme start="20260506014000 +0000" stop="20260506031000 +0000" channel="Sky Sport Top Event HD.skyde">
+<programme start="20260506014000 +0000" stop="20260506030000 +0000" channel="Sky Sport Top Event HD.skyde">
     <title>Live NBA: LA Lakers @ Oklahoma City Thunder, Conference Semifinals, Spiel 1</title>
 </programme>
-<programme start="20260506031000 +0000" stop="20260506034500 +0000" channel="Sky Sport Top Event HD.skyde">
+<programme start="20260506030000 +0000" stop="20260506033000 +0000" channel="Sky Sport Top Event HD.skyde">
     <title>Live NBA: Showtime - Post Show</title>
 </programme>
-<programme start="20260506034500 +0000" stop="20260506041000 +0000" channel="Sky Sport Top Event HD.skyde">
+<programme start="20260506033000 +0000" stop="20260506040000 +0000" channel="Sky Sport Top Event HD.skyde">
     <title>Fußball: scooore Niederlande! Alle Tore</title>
 </programme>
-<programme start="20260506041000 +0000" stop="20260506050000 +0000" channel="Sky Sport Top Event HD.skyde">
+<programme start="20260506040000 +0000" stop="20260506050000 +0000" channel="Sky Sport Top Event HD.skyde">
     <title>PL: Review, 35. Spieltag</title>
 </programme>
 <programme start="20260506050000 +0000" stop="20260506060000 +0000" channel="Sky Sport Top Event HD.skyde">
@@ -3361,16 +3364,16 @@ Warning: Undefined array key "et" in /usr/home/ManusiaBiasa/domains/manusiabiasa
 <programme start="20260506084000 +0000" stop="20260506090000 +0000" channel="Sky Sport 1 HD.skyde">
     <title>Es folgt: LIVE WTA Tour</title>
 </programme>
-<programme start="20260506090000 +0000" stop="20260506190000 +0000" channel="Sky Sport 1 HD.skyde">
+<programme start="20260506090000 +0000" stop="20260506220000 +0000" channel="Sky Sport 1 HD.skyde">
     <title>Live WTA 1000: Internazionali BNL d&#039;Italia in Rom (Italien), 2. Tag</title>
 </programme>
 <programme start="20260505234000 +0000" stop="20260506003000 +0000" channel="Sky Sport 2 HD.skyde">
     <title>Es folgt: ab 02:30: LIVE NBA</title>
 </programme>
-<programme start="20260506003000 +0000" stop="20260506031000 +0000" channel="Sky Sport 2 HD.skyde">
+<programme start="20260506003000 +0000" stop="20260506030000 +0000" channel="Sky Sport 2 HD.skyde">
     <title>Live NBA: LA Lakers @ Oklahoma City Thunder, Conference Semifinals, Spiel 1</title>
 </programme>
-<programme start="20260506031000 +0000" stop="20260506040000 +0000" channel="Sky Sport 2 HD.skyde">
+<programme start="20260506030000 +0000" stop="20260506080000 +0000" channel="Sky Sport 2 HD.skyde">
     <title>Live NBA: Showtime - Post Show</title>
 </programme>
 <programme start="20260506090000 +0000" stop="20260506090500 +0000" channel="Sky Sport 4 HD.skyde">
