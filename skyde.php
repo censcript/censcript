@@ -3322,13 +3322,13 @@ Warning: Undefined array key "et" in /usr/home/ManusiaBiasa/domains/manusiabiasa
 <programme start="20260505220000 +0000" stop="20260505230000 +0000" channel="Sky Sport Top Event HD.skyde">
     <title>Live NBA: Showtime</title>
 </programme>
-<programme start="20260505230000 +0000" stop="20260506013000 +0000" channel="Sky Sport Top Event HD.skyde">
+<programme start="20260505230000 +0000" stop="20260506014000 +0000" channel="Sky Sport Top Event HD.skyde">
     <title>Live NBA: Cleveland Cavaliers @ Detroit Pistons, Conference Semifinals, Spiel 1</title>
 </programme>
-<programme start="20260506013000 +0000" stop="20260506030000 +0000" channel="Sky Sport Top Event HD.skyde">
+<programme start="20260506014000 +0000" stop="20260506031000 +0000" channel="Sky Sport Top Event HD.skyde">
     <title>Live NBA: LA Lakers @ Oklahoma City Thunder, Conference Semifinals, Spiel 1</title>
 </programme>
-<programme start="20260506030000 +0000" stop="20260506033000 +0000" channel="Sky Sport Top Event HD.skyde">
+<programme start="20260506031000 +0000" stop="20260506033000 +0000" channel="Sky Sport Top Event HD.skyde">
     <title>Live NBA: Showtime - Post Show</title>
 </programme>
 <programme start="20260506033000 +0000" stop="20260506040000 +0000" channel="Sky Sport Top Event HD.skyde">
@@ -3358,7 +3358,7 @@ Warning: Undefined array key "et" in /usr/home/ManusiaBiasa/domains/manusiabiasa
 <programme start="20260505220000 +0000" stop="20260505230000 +0000" channel="Sky Sport 1 HD.skyde">
     <title>Live NBA: Showtime</title>
 </programme>
-<programme start="20260505230000 +0000" stop="20260506080000 +0000" channel="Sky Sport 1 HD.skyde">
+<programme start="20260505230000 +0000" stop="20260506020000 +0000" channel="Sky Sport 1 HD.skyde">
     <title>Live NBA: Cleveland Cavaliers @ Detroit Pistons, Conference Semifinals, Spiel 1</title>
 </programme>
 <programme start="20260506084000 +0000" stop="20260506090000 +0000" channel="Sky Sport 1 HD.skyde">
@@ -3370,10 +3370,10 @@ Warning: Undefined array key "et" in /usr/home/ManusiaBiasa/domains/manusiabiasa
 <programme start="20260505234000 +0000" stop="20260506003000 +0000" channel="Sky Sport 2 HD.skyde">
     <title>Es folgt: ab 02:30: LIVE NBA</title>
 </programme>
-<programme start="20260506003000 +0000" stop="20260506030000 +0000" channel="Sky Sport 2 HD.skyde">
+<programme start="20260506003000 +0000" stop="20260506031000 +0000" channel="Sky Sport 2 HD.skyde">
     <title>Live NBA: LA Lakers @ Oklahoma City Thunder, Conference Semifinals, Spiel 1</title>
 </programme>
-<programme start="20260506030000 +0000" stop="20260506080000 +0000" channel="Sky Sport 2 HD.skyde">
+<programme start="20260506031000 +0000" stop="20260506040000 +0000" channel="Sky Sport 2 HD.skyde">
     <title>Live NBA: Showtime - Post Show</title>
 </programme>
 <programme start="20260506090000 +0000" stop="20260506090500 +0000" channel="Sky Sport 4 HD.skyde">

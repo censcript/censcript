@@ -139,14 +139,11 @@
 <programme start="20260507103000 +0000" stop="20260507120000 +0000" channel="MNCTV.vision">
 <title>Upin &amp; Ipin</title>
 </programme>
-<programme start="20260505230000 +0000" stop="20260506020000 +0000" channel="GTV.vision">
+<programme start="20260505234500 +0000" stop="20260506003000 +0000" channel="GTV.vision">
+<title>Bernard Bear</title>
+</programme>
+<programme start="20260506003000 +0000" stop="20260506030000 +0000" channel="GTV.vision">
 <title>Spongebob Squarepants (GTV)</title>
-</programme>
-<programme start="20260506020000 +0000" stop="20260506023000 +0000" channel="GTV.vision">
-<title>CoComelon Dan Sahabat</title>
-</programme>
-<programme start="20260506023000 +0000" stop="20260506030000 +0000" channel="GTV.vision">
-<title>Buletin iNews Pagi</title>
 </programme>
 <programme start="20260506030000 +0000" stop="20260506050000 +0000" channel="GTV.vision">
 <title>SpongeBob SquarePants</title>
@@ -167,12 +164,15 @@
 <title>New Family 100 (GTV)</title>
 </programme>
 <programme start="20260506133000 +0000" stop="20260506153000 +0000" channel="GTV.vision">
-<title>Big Movies</title>
+<title>Giants Snake Events...</title>
 </programme>
 <programme start="20260506153000 +0000" stop="20260506180000 +0000" channel="GTV.vision">
 <title>GTV</title>
 </programme>
-<programme start="20260506180000 +0000" stop="20260506220000 +0000" channel="GTV.vision">
+<programme start="20260506180000 +0000" stop="20260506190000 +0000" channel="GTV.vision">
+<title>Tertawa Tengah Malam</title>
+</programme>
+<programme start="20260506190000 +0000" stop="20260506220000 +0000" channel="GTV.vision">
 <title>Tertawa Tengah Malam</title>
 </programme>
 <programme start="20260506220000 +0000" stop="20260506230000 +0000" channel="GTV.vision">
