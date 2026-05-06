@@ -4172,82 +4172,88 @@
     <title>Artist To Icon, Ep 1</title>
 </programme>
 <programme start="20260505170000 +0000" stop="20260505190000 +0000" channel="GTV.mncvision">
-    <title>GTV</title>
+    <title>Tertawa Tengah Malam</title>
 </programme>
 <programme start="20260505190000 +0000" stop="20260505220000 +0000" channel="GTV.mncvision">
-    <title>GTV</title>
+    <title>Tertawa Tengah Malam</title>
 </programme>
-<programme start="20260505220000 +0000" stop="20260505230000 +0000" channel="GTV.mncvision">
-    <title>GTV</title>
+<programme start="20260505220000 +0000" stop="20260505231500 +0000" channel="GTV.mncvision">
+    <title>Ragam Pagi</title>
 </programme>
-<programme start="20260505230000 +0000" stop="20260506020000 +0000" channel="GTV.mncvision">
-    <title>GTV</title>
+<programme start="20260505231500 +0000" stop="20260505234500 +0000" channel="GTV.mncvision">
+    <title>Bima-S</title>
 </programme>
-<programme start="20260506020000 +0000" stop="20260506030000 +0000" channel="GTV.mncvision">
-    <title>GTV</title>
+<programme start="20260505234500 +0000" stop="20260506003000 +0000" channel="GTV.mncvision">
+    <title>Bernard Bear</title>
+</programme>
+<programme start="20260506003000 +0000" stop="20260506030000 +0000" channel="GTV.mncvision">
+    <title>SpongeBob SquarePants</title>
 </programme>
 <programme start="20260506030000 +0000" stop="20260506050000 +0000" channel="GTV.mncvision">
-    <title>GTV</title>
+    <title>SpongeBob SquarePants</title>
 </programme>
-<programme start="20260506050000 +0000" stop="20260506073000 +0000" channel="GTV.mncvision">
-    <title>GTV</title>
+<programme start="20260506050000 +0000" stop="20260506080000 +0000" channel="GTV.mncvision">
+    <title>SpongeBob SquarePants</title>
 </programme>
-<programme start="20260506073000 +0000" stop="20260506100000 +0000" channel="GTV.mncvision">
-    <title>GTV</title>
+<programme start="20260506080000 +0000" stop="20260506093000 +0000" channel="GTV.mncvision">
+    <title>Super Deal Indonesia</title>
 </programme>
-<programme start="20260506100000 +0000" stop="20260506110000 +0000" channel="GTV.mncvision">
-    <title>GTV</title>
+<programme start="20260506093000 +0000" stop="20260506110000 +0000" channel="GTV.mncvision">
+    <title>SpongeBob SquarePants</title>
 </programme>
 <programme start="20260506110000 +0000" stop="20260506120000 +0000" channel="GTV.mncvision">
-    <title>GTV</title>
+    <title>Pada Zaman Dahulu</title>
 </programme>
 <programme start="20260506120000 +0000" stop="20260506133000 +0000" channel="GTV.mncvision">
-    <title>GTV</title>
+    <title>New Family 100</title>
 </programme>
-<programme start="20260506133000 +0000" stop="20260506160000 +0000" channel="GTV.mncvision">
-    <title>GTV</title>
+<programme start="20260506133000 +0000" stop="20260506153000 +0000" channel="GTV.mncvision">
+    <title>Giants Snake Events...</title>
 </programme>
-<programme start="20260506160000 +0000" stop="20260506163000 +0000" channel="GTV.mncvision">
-    <title>GTV</title>
+<programme start="20260506153000 +0000" stop="20260506160000 +0000" channel="GTV.mncvision">
+    <title>AFC U17: AUS Vs IND (L)</title>
 </programme>
 <programme start="20260505170000 +0000" stop="20260505190000 +0000" channel="GTV HD.mncvision">
-    <title>GTV</title>
+    <title>Tertawa Tengah Malam</title>
 </programme>
 <programme start="20260505190000 +0000" stop="20260505220000 +0000" channel="GTV HD.mncvision">
-    <title>GTV</title>
+    <title>Tertawa Tengah Malam</title>
 </programme>
-<programme start="20260505220000 +0000" stop="20260505230000 +0000" channel="GTV HD.mncvision">
-    <title>GTV</title>
+<programme start="20260505220000 +0000" stop="20260505231500 +0000" channel="GTV HD.mncvision">
+    <title>Ragam Pagi</title>
 </programme>
-<programme start="20260505230000 +0000" stop="20260506020000 +0000" channel="GTV HD.mncvision">
-    <title>GTV</title>
+<programme start="20260505231500 +0000" stop="20260505234500 +0000" channel="GTV HD.mncvision">
+    <title>Bima-S</title>
 </programme>
-<programme start="20260506020000 +0000" stop="20260506030000 +0000" channel="GTV HD.mncvision">
-    <title>GTV</title>
+<programme start="20260505234500 +0000" stop="20260506003000 +0000" channel="GTV HD.mncvision">
+    <title>Bernard Bear</title>
+</programme>
+<programme start="20260506003000 +0000" stop="20260506030000 +0000" channel="GTV HD.mncvision">
+    <title>SpongeBob SquarePants</title>
 </programme>
 <programme start="20260506030000 +0000" stop="20260506050000 +0000" channel="GTV HD.mncvision">
-    <title>GTV</title>
+    <title>SpongeBob SquarePants</title>
 </programme>
-<programme start="20260506050000 +0000" stop="20260506073000 +0000" channel="GTV HD.mncvision">
-    <title>GTV</title>
+<programme start="20260506050000 +0000" stop="20260506080000 +0000" channel="GTV HD.mncvision">
+    <title>SpongeBob SquarePants</title>
 </programme>
-<programme start="20260506073000 +0000" stop="20260506100000 +0000" channel="GTV HD.mncvision">
-    <title>GTV</title>
+<programme start="20260506080000 +0000" stop="20260506093000 +0000" channel="GTV HD.mncvision">
+    <title>Super Deal Indonesia</title>
 </programme>
-<programme start="20260506100000 +0000" stop="20260506110000 +0000" channel="GTV HD.mncvision">
-    <title>GTV</title>
+<programme start="20260506093000 +0000" stop="20260506110000 +0000" channel="GTV HD.mncvision">
+    <title>SpongeBob SquarePants</title>
 </programme>
 <programme start="20260506110000 +0000" stop="20260506120000 +0000" channel="GTV HD.mncvision">
-    <title>GTV</title>
+    <title>Pada Zaman Dahulu</title>
 </programme>
 <programme start="20260506120000 +0000" stop="20260506133000 +0000" channel="GTV HD.mncvision">
-    <title>GTV</title>
+    <title>New Family 100</title>
 </programme>
-<programme start="20260506133000 +0000" stop="20260506160000 +0000" channel="GTV HD.mncvision">
-    <title>GTV</title>
+<programme start="20260506133000 +0000" stop="20260506153000 +0000" channel="GTV HD.mncvision">
+    <title>Giants Snake Events...</title>
 </programme>
-<programme start="20260506160000 +0000" stop="20260506163000 +0000" channel="GTV HD.mncvision">
-    <title>GTV</title>
+<programme start="20260506153000 +0000" stop="20260506160000 +0000" channel="GTV HD.mncvision">
+    <title>AFC U17: AUS Vs IND (L)</title>
 </programme>
 <programme start="20260505173000 +0000" stop="20260505180000 +0000" channel="Hanacaraka TV.mncvision">
     <title>Dagelan Mbah Minto</title>

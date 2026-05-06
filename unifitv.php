@@ -3345,7 +3345,7 @@
   </programme>
   <programme start="20260505173500 +0000" stop="20260505183500 +0000" channel="tvbjade.unifitv">
     <title lang="en">Case X Decoded &amp; What's On Today</title>
-    <desc lang="en">The series is a slow-burn investigative drama centered on the reopening of "dusty archives"—Hong Kong's most notorious and sensational cold cases. The narrative follows Police Inspector To Hoi-ban (Michael Miu) and female officer Yim Cheuk-wing (Eliza Sam), two investigators who were once estranged due to a previous unsolved mystery that haunted their careers.</desc>
+    <desc lang="en">The story follows a dedicated team of detectives who reopen dusty archives to investigate Hong Kong's most sensational and bizarre cold cases.</desc>
     <category lang="en">Drama Series</category>
     <episode-num system="xmltv_ns">0.1.</episode-num>
     <episode-num system="onscreen">S1E2</episode-num>
@@ -3366,7 +3366,7 @@
   </programme>
   <programme start="20260505193500 +0000" stop="20260505200500 +0000" channel="tvbjade.unifitv">
     <title lang="en">The Magic Voice</title>
-    <desc lang="en">Many Hong Kong residents have been traveling north for leisure in recent years, and they've likely gained considerable experience in eating, shopping, playing, and staying. Everyone hopes to find the best value-for-money places to eat, drink, and have fun, gaining a lot of emotional value. Host Kong Mei-yee travels to different places in Guangdong Province, including Shenzhen, Zhuhai, Huizhou, Dongguan, Chaozhou, and Shantou. At each stop, she teams up with two male partners from among Chow Kalok, Chu Man-hon, Tsang Zhanwang, and Ng Yip-kwan, testing various foods as customers to see if they're worth the money, and exploring whether various attractions are worth visiting, providing Hong Kong viewers with a down-to-earth reference index.</desc>
+    <desc lang="en">The brand-new music talent show "Magic Voice Girl Group" inspires the potential of young female artists through four core elements: singing, dancing, rapping, and visual appeal, rigorously selecting the "Magic Voices"! Sixteen "trainees" receive intensive vocal training and image makeovers from a professional mentor team, as well as dance training from a Korean idol academy, comprehensively enhancing their charm. Hosts Edwin Siu, "mentors" Eliza Chan and Hanjin Tan, and the audience witness the trainees' growth step by step towards the stage, recording their transformation earned through sweat and tears. The brutal elimination rounds determine the six trainees who "survive" to the end, forming an all-around girl group for their official debut!</desc>
     <category lang="en">Entertainment</category>
     <episode-num system="xmltv_ns">0.1.</episode-num>
     <episode-num system="onscreen">S1E2</episode-num>
@@ -3434,7 +3434,7 @@
   </programme>
   <programme start="20260506020500 +0000" stop="20260506023500 +0000" channel="tvbjade.unifitv">
     <title lang="en">The Magic Voice &amp; What's On Today</title>
-    <desc lang="en">Many Hong Kong residents have been traveling north for leisure in recent years, and they've likely gained considerable experience in eating, shopping, playing, and staying. Everyone hopes to find the best value-for-money places to eat, drink, and have fun, gaining a lot of emotional value. Host Kong Mei-yee travels to different places in Guangdong Province, including Shenzhen, Zhuhai, Huizhou, Dongguan, Chaozhou, and Shantou. At each stop, she teams up with two male partners from among Chow Kalok, Chu Man-hon, Tsang Zhanwang, and Ng Yip-kwan, testing various foods as customers to see if they're worth the money, and exploring whether various attractions are worth visiting, providing Hong Kong viewers with a down-to-earth reference index.</desc>
+    <desc lang="en">The brand-new music talent show "Magic Voice Girl Group" inspires the potential of young female artists through four core elements: singing, dancing, rapping, and visual appeal, rigorously selecting the "Magic Voices"! Sixteen "trainees" receive intensive vocal training and image makeovers from a professional mentor team, as well as dance training from a Korean idol academy, comprehensively enhancing their charm. Hosts Edwin Siu, "mentors" Eliza Chan and Hanjin Tan, and the audience witness the trainees' growth step by step towards the stage, recording their transformation earned through sweat and tears. The brutal elimination rounds determine the six trainees who "survive" to the end, forming an all-around girl group for their official debut!</desc>
     <category lang="en">Entertainment</category>
     <episode-num system="xmltv_ns">0.1.</episode-num>
     <episode-num system="onscreen">S1E2</episode-num>
@@ -3448,7 +3448,7 @@
   </programme>
   <programme start="20260506030500 +0000" stop="20260506040500 +0000" channel="tvbjade.unifitv">
     <title lang="en">Case X Decoded</title>
-    <desc lang="en">The series is a slow-burn investigative drama centered on the reopening of "dusty archives"—Hong Kong's most notorious and sensational cold cases. The narrative follows Police Inspector To Hoi-ban (Michael Miu) and female officer Yim Cheuk-wing (Eliza Sam), two investigators who were once estranged due to a previous unsolved mystery that haunted their careers.</desc>
+    <desc lang="en">The story follows a dedicated team of detectives who reopen dusty archives to investigate Hong Kong's most sensational and bizarre cold cases.</desc>
     <category lang="en">Drama Series</category>
     <episode-num system="xmltv_ns">0.1.</episode-num>
     <episode-num system="onscreen">S1E2</episode-num>
@@ -3497,7 +3497,7 @@
   </programme>
   <programme start="20260506073500 +0000" stop="20260506080500 +0000" channel="tvbjade.unifitv">
     <title lang="en">The Magic Voice</title>
-    <desc lang="en">Many Hong Kong residents have been traveling north for leisure in recent years, and they've likely gained considerable experience in eating, shopping, playing, and staying. Everyone hopes to find the best value-for-money places to eat, drink, and have fun, gaining a lot of emotional value. Host Kong Mei-yee travels to different places in Guangdong Province, including Shenzhen, Zhuhai, Huizhou, Dongguan, Chaozhou, and Shantou. At each stop, she teams up with two male partners from among Chow Kalok, Chu Man-hon, Tsang Zhanwang, and Ng Yip-kwan, testing various foods as customers to see if they're worth the money, and exploring whether various attractions are worth visiting, providing Hong Kong viewers with a down-to-earth reference index.</desc>
+    <desc lang="en">The brand-new music talent show "Magic Voice Girl Group" inspires the potential of young female artists through four core elements: singing, dancing, rapping, and visual appeal, rigorously selecting the "Magic Voices"! Sixteen "trainees" receive intensive vocal training and image makeovers from a professional mentor team, as well as dance training from a Korean idol academy, comprehensively enhancing their charm. Hosts Edwin Siu, "mentors" Eliza Chan and Hanjin Tan, and the audience witness the trainees' growth step by step towards the stage, recording their transformation earned through sweat and tears. The brutal elimination rounds determine the six trainees who "survive" to the end, forming an all-around girl group for their official debut!</desc>
     <category lang="en">Entertainment</category>
     <episode-num system="xmltv_ns">0.1.</episode-num>
     <episode-num system="onscreen">S1E2</episode-num>
@@ -3551,7 +3551,7 @@
   </programme>
   <programme start="20260506123500 +0000" stop="20260506133500 +0000" channel="tvbjade.unifitv">
     <title lang="en">Case X Decoded</title>
-    <desc lang="en">The series is a slow-burn investigative drama centered on the reopening of "dusty archives"—Hong Kong's most notorious and sensational cold cases. The narrative follows Police Inspector To Hoi-ban (Michael Miu) and female officer Yim Cheuk-wing (Eliza Sam), two investigators who were once estranged due to a previous unsolved mystery that haunted their careers.</desc>
+    <desc lang="en">The story follows a dedicated team of detectives who reopen dusty archives to investigate Hong Kong's most sensational and bizarre cold cases.</desc>
     <category lang="en">Drama Series</category>
     <episode-num system="xmltv_ns">0.2.</episode-num>
     <episode-num system="onscreen">S1E3</episode-num>
@@ -3565,7 +3565,7 @@
   </programme>
   <programme start="20260506143500 +0000" stop="20260506150500 +0000" channel="tvbjade.unifitv">
     <title lang="en">The Magic Voice</title>
-    <desc lang="en">Many Hong Kong residents have been traveling north for leisure in recent years, and they've likely gained considerable experience in eating, shopping, playing, and staying. Everyone hopes to find the best value-for-money places to eat, drink, and have fun, gaining a lot of emotional value. Host Kong Mei-yee travels to different places in Guangdong Province, including Shenzhen, Zhuhai, Huizhou, Dongguan, Chaozhou, and Shantou. At each stop, she teams up with two male partners from among Chow Kalok, Chu Man-hon, Tsang Zhanwang, and Ng Yip-kwan, testing various foods as customers to see if they're worth the money, and exploring whether various attractions are worth visiting, providing Hong Kong viewers with a down-to-earth reference index.</desc>
+    <desc lang="en">The brand-new music talent show "Magic Voice Girl Group" inspires the potential of young female artists through four core elements: singing, dancing, rapping, and visual appeal, rigorously selecting the "Magic Voices"! Sixteen "trainees" receive intensive vocal training and image makeovers from a professional mentor team, as well as dance training from a Korean idol academy, comprehensively enhancing their charm. Hosts Edwin Siu, "mentors" Eliza Chan and Hanjin Tan, and the audience witness the trainees' growth step by step towards the stage, recording their transformation earned through sweat and tears. The brutal elimination rounds determine the six trainees who "survive" to the end, forming an all-around girl group for their official debut!</desc>
     <category lang="en">Entertainment</category>
     <episode-num system="xmltv_ns">0.2.</episode-num>
     <episode-num system="onscreen">S1E3</episode-num>

@@ -40,10 +40,7 @@
 <programme start="20260506171500 +0000" stop="20260506183000 +0000" channel="RCTI.vision">
 <title>Mega Film TV Malam</title>
 </programme>
-<programme start="20260506183000 +0000" stop="20260506190000 +0000" channel="RCTI.vision">
-<title>Mega Film TV Malam</title>
-</programme>
-<programme start="20260506190000 +0000" stop="20260506193000 +0000" channel="RCTI.vision">
+<programme start="20260506183000 +0000" stop="20260506193000 +0000" channel="RCTI.vision">
 <title>Mega Film TV Malam</title>
 </programme>
 <programme start="20260506193000 +0000" stop="20260506230000 +0000" channel="RCTI.vision">
@@ -1497,4 +1494,7 @@
 </programme>
 <programme start="20260507070000 +0000" stop="20260507073000 +0000" channel="BTV.vision">
 <title>Spot On</title>
+</programme>
+<programme start="20260507073000 +0000" stop="20260507080000 +0000" channel="BTV.vision">
+<title>Indonesia Update Ototekno</title>
 </programme>

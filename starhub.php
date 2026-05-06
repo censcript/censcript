@@ -8305,7 +8305,7 @@
     <programme start="20260506133000 +0000" stop="20260506153000 +0000" channel="Dragon TV.starhub">
         <title>Future China</title>
     </programme>
-    <programme start="20260506153000 +0000" stop="20260506160000 +0000" channel="Dragon TV.starhub">
+    <programme start="20260506153000 +0000" stop="20260506170000 +0000" channel="Dragon TV.starhub">
         <title>A Green Trip</title>
     </programme>
     <programme start="20260505160000 +0000" stop="20260505163000 +0000" channel="Travelxp HD.starhub">
