@@ -3055,25 +3055,25 @@
   <programme start="20260508214500 +0000" stop="20260508224000 +0000" channel="NOE.webtv.sk">
     <title lang="id">Přikázání lásky</title>
   </programme>
-  <programme start="20260507214500 +0000" stop="20260507221600 +0000" channel="ČT1.webtv.sk">
+  <programme start="20260507214500 +0000" stop="20260507221700 +0000" channel="ČT1.webtv.sk">
     <title lang="id">Buchty po ránu</title>
   </programme>
-  <programme start="20260507221600 +0000" stop="20260507224300 +0000" channel="ČT1.webtv.sk">
+  <programme start="20260507221700 +0000" stop="20260507224400 +0000" channel="ČT1.webtv.sk">
     <title lang="id">AZ-kvíz</title>
   </programme>
-  <programme start="20260507224300 +0000" stop="20260507232500 +0000" channel="ČT1.webtv.sk">
+  <programme start="20260507224400 +0000" stop="20260507232500 +0000" channel="ČT1.webtv.sk">
     <title lang="id">Na forbíně TM</title>
   </programme>
-  <programme start="20260507232500 +0000" stop="20260507234800 +0000" channel="ČT1.webtv.sk">
+  <programme start="20260507232500 +0000" stop="20260507234900 +0000" channel="ČT1.webtv.sk">
     <title lang="id">Selátko na rožni</title>
   </programme>
-  <programme start="20260507234800 +0000" stop="20260508001500 +0000" channel="ČT1.webtv.sk">
+  <programme start="20260507234900 +0000" stop="20260508001500 +0000" channel="ČT1.webtv.sk">
     <title lang="id">V kondici</title>
   </programme>
-  <programme start="20260508001500 +0000" stop="20260508024600 +0000" channel="ČT1.webtv.sk">
+  <programme start="20260508001500 +0000" stop="20260508024700 +0000" channel="ČT1.webtv.sk">
     <title lang="id">Dobré ráno</title>
   </programme>
-  <programme start="20260508024600 +0000" stop="20260508031500 +0000" channel="ČT1.webtv.sk">
+  <programme start="20260508024700 +0000" stop="20260508031500 +0000" channel="ČT1.webtv.sk">
     <title lang="id">Hobby naší doby</title>
   </programme>
   <programme start="20260508031500 +0000" stop="20260508033000 +0000" channel="ČT1.webtv.sk">
@@ -3130,13 +3130,13 @@
   <programme start="20260508190500 +0000" stop="20260508195900 +0000" channel="ČT1.webtv.sk">
     <title lang="id">Všechnopárty</title>
   </programme>
-  <programme start="20260508195900 +0000" stop="20260508200000 +0000" channel="ČT1.webtv.sk">
+  <programme start="20260508195900 +0000" stop="20260508200300 +0000" channel="ČT1.webtv.sk">
     <title lang="id">Výsledky losování Šťastných 10</title>
   </programme>
-  <programme start="20260508200000 +0000" stop="20260508212600 +0000" channel="ČT1.webtv.sk">
+  <programme start="20260508200300 +0000" stop="20260508212900 +0000" channel="ČT1.webtv.sk">
     <title lang="id">Vůně vanilky</title>
   </programme>
-  <programme start="20260508212600 +0000" stop="20260508222000 +0000" channel="ČT1.webtv.sk">
+  <programme start="20260508212900 +0000" stop="20260508222300 +0000" channel="ČT1.webtv.sk">
     <title lang="id">Inspektorka Candice Renoirová VII (8)</title>
   </programme>
   <programme start="20260507212500 +0000" stop="20260507222000 +0000" channel="ČT2.webtv.sk">
@@ -3232,10 +3232,10 @@
   <programme start="20260508155000 +0000" stop="20260508163500 +0000" channel="ČT2.webtv.sk">
     <title lang="id">Sláva republice</title>
   </programme>
-  <programme start="20260508163500 +0000" stop="20260508170000 +0000" channel="ČT2.webtv.sk">
+  <programme start="20260508163500 +0000" stop="20260508170100 +0000" channel="ČT2.webtv.sk">
     <title lang="id">Terapie III (10/36)</title>
   </programme>
-  <programme start="20260508170000 +0000" stop="20260508173500 +0000" channel="ČT2.webtv.sk">
+  <programme start="20260508170100 +0000" stop="20260508173500 +0000" channel="ČT2.webtv.sk">
     <title lang="id">Po stopách draka</title>
   </programme>
   <programme start="20260508173500 +0000" stop="20260508174100 +0000" channel="ČT2.webtv.sk">
@@ -3247,11 +3247,14 @@
   <programme start="20260508175000 +0000" stop="20260508180000 +0000" channel="ČT2.webtv.sk">
     <title lang="id">Zprávy v českém znakovém jazyce</title>
   </programme>
-  <programme start="20260508180000 +0000" stop="20260508195500 +0000" channel="ČT2.webtv.sk">
+  <programme start="20260508180000 +0000" stop="20260508195000 +0000" channel="ČT2.webtv.sk">
     <title lang="id">Jeden život</title>
   </programme>
-  <programme start="20260508195500 +0000" stop="20260508220000 +0000" channel="ČT2.webtv.sk">
+  <programme start="20260508195000 +0000" stop="20260508215500 +0000" channel="ČT2.webtv.sk">
     <title lang="id">Ema a smrtihlav</title>
+  </programme>
+  <programme start="20260508215500 +0000" stop="20260508234500 +0000" channel="ČT2.webtv.sk">
+    <title lang="id">Ostrov v ohni</title>
   </programme>
   <programme start="20260507220000 +0000" stop="20260507221000 +0000" channel="ČT24.webtv.sk">
     <title lang="id">Zprávy</title>

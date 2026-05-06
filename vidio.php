@@ -704,7 +704,7 @@
     <icon src="https://thumbor.prod.vidiocdn.com/moZvgFf6t6uCDJUSm_5P-cp1d0I=/287x162/filters:strip_icc():quality(70)/vidio-media-production/uploads/livestreaming/schedule/thumbnail/5058230/b9a6c5.jpg"/>
   </programme>
   <programme channel="205" start="20260506200000 +0000" stop="20260506213000 +0000">
-    <title lang="id">Mega Film Asia : Young Soldiers</title>
+    <title lang="id">Mega Film Asia : Hail The Judge</title>
     <desc lang="id">Mega Film Asia Adalah Program Yang Memutarkan Film-Film Asia Yang Ditayangkan Di Indosiar. Acara Ini Ditayangkan Perdana Pada Tahun 1996 Silam.</desc>
     <icon src="https://thumbor.prod.vidiocdn.com/Iy_zWSQQ74ezkQbCFEXkfOjAXQE=/287x162/filters:strip_icc():quality(70)/vidio-media-production/uploads/livestreaming/schedule/thumbnail/5058231/b26b68.jpg"/>
   </programme>
@@ -6036,12 +6036,12 @@
     <desc lang="id">Bayern vs PSG - Wed, SF, 2nd Leg</desc>
     <icon src="https://thumbor.prod.vidiocdn.com/5yUHYfv_b1sZi7kdFElm8JqF2RY=/287x162/filters:strip_icc():quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/image/6299/bein-1-4bd997.jpg"/>
   </programme>
-  <programme channel="6299" start="20260506185500 +0000" stop="20260506212000 +0000">
+  <programme channel="6299" start="20260506185500 +0000" stop="20260506210700 +0000">
     <title lang="id">Semifinals Leg 2: Bayern vs PSG - UEFA Champions League</title>
     <desc lang="id">Nonton streaming pertandingan seru Semifinals Leg 2: Bayern vs PSG - UEFA Champions League. Saksikan aksi-aksi terbaik dari tim yang bersaing ketat untuk meraih kemenangan. Dapatkan informasi lengkap mengenai jadwal pertandingan dan hasil pertandingan terbaru hanya di Vidio.</desc>
     <icon src="https://thumbor.prod.vidiocdn.com/0NMamCehZWQ8KZFDHKV0p3XnF8Y=/287x162/filters:strip_icc():quality(70)/vidio-media-production/uploads/livestreaming/schedule/thumbnail/5059316/ce1147.jpg"/>
   </programme>
-  <programme channel="6299" start="20260506212000 +0000" stop="20260506213000 +0000">
+  <programme channel="6299" start="20260506210700 +0000" stop="20260506213000 +0000">
     <title lang="id">The UCL Preview Show 2025/26</title>
     <icon src="https://thumbor.prod.vidiocdn.com/5yUHYfv_b1sZi7kdFElm8JqF2RY=/287x162/filters:strip_icc():quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/image/6299/bein-1-4bd997.jpg"/>
   </programme>
@@ -7636,7 +7636,7 @@
     <icon src="https://thumbor.prod.vidiocdn.com/edoqRinFCRhrRwQ2ngcXacb_q74=/287x162/filters:strip_icc():quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/image/6685/champions-tv-1-54e282.jpg"/>
   </programme>
   <programme channel="6685" start="20260506193000 +0000" stop="20260506213000 +0000">
-    <title lang="id">Stage 3 - Wuzhishan  Lingshui : TOUR OF HAINAN 2026</title>
+    <title lang="id">Stage 3 - Wuzhishan Lingshui : TOUR OF HAINAN 2026</title>
     <desc lang="id">Stage 3 Wuzhishan  Lingshui</desc>
     <icon src="https://thumbor.prod.vidiocdn.com/edoqRinFCRhrRwQ2ngcXacb_q74=/287x162/filters:strip_icc():quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/image/6685/champions-tv-1-54e282.jpg"/>
   </programme>
