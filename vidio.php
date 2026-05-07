@@ -934,15 +934,15 @@
     <icon src="https://thumbor.prod.vidiocdn.com/eDxnkfbC9tu2_nK1bM0d9sAA8pc=/287x162/filters:strip_icc():quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/image/733/trans-tv-3836a5.jpg"/>
   </programme>
   <programme channel="733" start="20260507140000 +0000" stop="20260507160000 +0000">
-    <title lang="id">Bioskop Trans TV: 12 Strong</title>
+    <title lang="id">Bioskop Trans TV: Day of the Dead : Bloodline</title>
     <icon src="https://thumbor.prod.vidiocdn.com/NPH20uXie4sLtvt5a5T7nbWInUw=/287x162/filters:strip_icc():quality(70)/vidio-media-production/uploads/livestreaming/schedule/thumbnail/5059255/f85f6f.jpg"/>
   </programme>
   <programme channel="733" start="20260507160000 +0000" stop="20260507180000 +0000">
-    <title lang="id">Bioskop Trans TV: 6 Days</title>
+    <title lang="id">Bioskop Trans TV: A Score to Settle</title>
     <icon src="https://thumbor.prod.vidiocdn.com/12r6rZuQD998JoNbcnLqYXGja4A=/287x162/filters:strip_icc():quality(70)/vidio-media-production/uploads/livestreaming/schedule/thumbnail/5059256/bb4ba1.jpg"/>
   </programme>
   <programme channel="733" start="20260507160000 +0000" stop="20260507180000 +0000">
-    <title lang="id">Bioskop Trans TV: 6 Days</title>
+    <title lang="id">Bioskop Trans TV: A Score to Settle</title>
     <icon src="https://thumbor.prod.vidiocdn.com/12r6rZuQD998JoNbcnLqYXGja4A=/287x162/filters:strip_icc():quality(70)/vidio-media-production/uploads/livestreaming/schedule/thumbnail/5059256/bb4ba1.jpg"/>
   </programme>
   <programme channel="733" start="20260507180000 +0000" stop="20260507184500 +0000">
@@ -2013,17 +2013,12 @@
     <desc lang="id">Kejurnas Antar Club U-18 Fs.16:30</desc>
     <icon src="https://thumbor.prod.vidiocdn.com/NdmzqkxqnWVnlngtk_ObYNT-wiY=/287x162/filters:strip_icc():quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/image/206/moji-a5bd3e.jpg"/>
   </programme>
-  <programme channel="206" start="20260507094500 +0000" stop="20260507114500 +0000">
+  <programme channel="206" start="20260507094500 +0000" stop="20260507160000 +0000">
     <title lang="id">Kejurnas Antar Club U-18 Fs.19:00</title>
     <desc lang="id">Kejurnas Antar Club U-18 Fs.19:00</desc>
     <icon src="https://thumbor.prod.vidiocdn.com/NdmzqkxqnWVnlngtk_ObYNT-wiY=/287x162/filters:strip_icc():quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/image/206/moji-a5bd3e.jpg"/>
   </programme>
-  <programme channel="206" start="20260507114500 +0000" stop="20260507140000 +0000">
-    <title lang="id">Rerun Proliga 2026</title>
-    <desc lang="id">Rerun Proliga 2026</desc>
-    <icon src="https://thumbor.prod.vidiocdn.com/NdmzqkxqnWVnlngtk_ObYNT-wiY=/287x162/filters:strip_icc():quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/image/206/moji-a5bd3e.jpg"/>
-  </programme>
-  <programme channel="206" start="20260507140000 +0000" stop="20260507165100 +0000">
+  <programme channel="206" start="20260507160000 +0000" stop="20260507165100 +0000">
     <title lang="id">Rerun Proliga 2026</title>
     <desc lang="id">Rerun Proliga 2026</desc>
     <icon src="https://thumbor.prod.vidiocdn.com/NdmzqkxqnWVnlngtk_ObYNT-wiY=/287x162/filters:strip_icc():quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/image/206/moji-a5bd3e.jpg"/>
@@ -5224,11 +5219,11 @@
     <title lang="id">Sensasiseleb</title>
     <icon src="https://thumbor.prod.vidiocdn.com/4Czw1-Pd6U37CKeatnuB7yB0wm8=/287x162/filters:strip_icc():quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/image/875/mdtv-ff5756.jpg"/>
   </programme>
-  <programme channel="875" start="20260507103500 +0000" stop="20260507123000 +0000">
+  <programme channel="875" start="20260507103500 +0000" stop="20260507122700 +0000">
     <title lang="id">MD Teledrama: Esmeralda</title>
     <icon src="https://thumbor.prod.vidiocdn.com/ase_ef-EGNx9dvwc0PgssmpHXEo=/287x162/filters:strip_icc():quality(70)/vidio-media-production/uploads/livestreaming/schedule/thumbnail/5061984/845ca1.jpg"/>
   </programme>
-  <programme channel="875" start="20260507123000 +0000" stop="20260507133000 +0000">
+  <programme channel="875" start="20260507122700 +0000" stop="20260507133000 +0000">
     <title lang="id">MD Series: Istri Paruh Waktu</title>
     <icon src="https://thumbor.prod.vidiocdn.com/4Czw1-Pd6U37CKeatnuB7yB0wm8=/287x162/filters:strip_icc():quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/image/875/mdtv-ff5756.jpg"/>
   </programme>
