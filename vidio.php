@@ -1313,11 +1313,11 @@
     <title lang="id">Arisan</title>
     <icon src="https://thumbor.prod.vidiocdn.com/VyDWgGuvUtZp5M006MXkTEIEpxw=/287x162/filters:strip_icc():quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/image/734/trans7-9dade4.jpg"/>
   </programme>
-  <programme channel="734" start="20260507143000 +0000" stop="20260507154500 +0000">
+  <programme channel="734" start="20260507143000 +0000" stop="20260507153800 +0000">
     <title lang="id">Lapor Pak!</title>
     <icon src="https://thumbor.prod.vidiocdn.com/VyDWgGuvUtZp5M006MXkTEIEpxw=/287x162/filters:strip_icc():quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/image/734/trans7-9dade4.jpg"/>
   </programme>
-  <programme channel="734" start="20260507154500 +0000" stop="20260507163000 +0000">
+  <programme channel="734" start="20260507153800 +0000" stop="20260507163000 +0000">
     <title lang="id">The Police</title>
     <icon src="https://thumbor.prod.vidiocdn.com/HZz-rwFWruDhzHFfuCgQLdnqkmI=/287x162/filters:strip_icc():quality(70)/vidio-web-prod-film/uploads/film/image_landscape/5734/the-police-3840e2.png"/>
   </programme>
@@ -2013,12 +2013,12 @@
     <desc lang="id">Kejurnas Antar Club U-18 Fs.16:30</desc>
     <icon src="https://thumbor.prod.vidiocdn.com/NdmzqkxqnWVnlngtk_ObYNT-wiY=/287x162/filters:strip_icc():quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/image/206/moji-a5bd3e.jpg"/>
   </programme>
-  <programme channel="206" start="20260507094500 +0000" stop="20260507160000 +0000">
+  <programme channel="206" start="20260507094500 +0000" stop="20260507144500 +0000">
     <title lang="id">Kejurnas Antar Club U-18 Fs.19:00</title>
     <desc lang="id">Kejurnas Antar Club U-18 Fs.19:00</desc>
     <icon src="https://thumbor.prod.vidiocdn.com/NdmzqkxqnWVnlngtk_ObYNT-wiY=/287x162/filters:strip_icc():quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/image/206/moji-a5bd3e.jpg"/>
   </programme>
-  <programme channel="206" start="20260507160000 +0000" stop="20260507165100 +0000">
+  <programme channel="206" start="20260507144500 +0000" stop="20260507165100 +0000">
     <title lang="id">Rerun Proliga 2026</title>
     <desc lang="id">Rerun Proliga 2026</desc>
     <icon src="https://thumbor.prod.vidiocdn.com/NdmzqkxqnWVnlngtk_ObYNT-wiY=/287x162/filters:strip_icc():quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/image/206/moji-a5bd3e.jpg"/>
@@ -7942,12 +7942,12 @@
     <desc lang="id">ROMA vs FIORENTINA</desc>
     <icon src="https://thumbor.prod.vidiocdn.com/edoqRinFCRhrRwQ2ngcXacb_q74=/287x162/filters:strip_icc():quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/image/6685/champions-tv-1-54e282.jpg"/>
   </programme>
-  <programme channel="6685" start="20260507140000 +0000" stop="20260507160000 +0000">
+  <programme channel="6685" start="20260507140000 +0000" stop="20260507155400 +0000">
     <title lang="id">INTER vs PARMA : Serie A 2025/26</title>
     <desc lang="id">INTER vs PARMA</desc>
     <icon src="https://thumbor.prod.vidiocdn.com/edoqRinFCRhrRwQ2ngcXacb_q74=/287x162/filters:strip_icc():quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/image/6685/champions-tv-1-54e282.jpg"/>
   </programme>
-  <programme channel="6685" start="20260507160000 +0000" stop="20260507163000 +0000">
+  <programme channel="6685" start="20260507155400 +0000" stop="20260507163000 +0000">
     <title lang="id">Eps 3 : MXGP Behind the Gate 2026</title>
     <desc lang="id">Eps 3</desc>
     <icon src="https://thumbor.prod.vidiocdn.com/edoqRinFCRhrRwQ2ngcXacb_q74=/287x162/filters:strip_icc():quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/image/6685/champions-tv-1-54e282.jpg"/>

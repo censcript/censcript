@@ -1039,66 +1039,6 @@
 <programme start="20260507213000 +0000" stop="20260507220000 +0000" channel="DAZN 2 HD.skyde">
     <title>Best of DAZN: Highlights</title>
 </programme>
-<programme start="20260506220500 +0000" stop="20260506225000 +0000" channel="Heimatkanal.skyde">
-    <title>Der Landarzt</title>
-</programme>
-<programme start="20260506225000 +0000" stop="20260507002000 +0000" channel="Heimatkanal.skyde">
-    <title>Peter Steiners Theaterstadl</title>
-</programme>
-<programme start="20260507002000 +0000" stop="20260507020000 +0000" channel="Heimatkanal.skyde">
-    <title>Heiß weht der Wind</title>
-</programme>
-<programme start="20260507020000 +0000" stop="20260507033500 +0000" channel="Heimatkanal.skyde">
-    <title>Mikosch rückt ein</title>
-</programme>
-<programme start="20260507033500 +0000" stop="20260507050500 +0000" channel="Heimatkanal.skyde">
-    <title>Man müsste nochmal zwanzig sein</title>
-</programme>
-<programme start="20260507050500 +0000" stop="20260507064500 +0000" channel="Heimatkanal.skyde">
-    <title>Immer die Radfahrer</title>
-</programme>
-<programme start="20260507064500 +0000" stop="20260507082000 +0000" channel="Heimatkanal.skyde">
-    <title>Peter Steiners Theaterstadl</title>
-</programme>
-<programme start="20260507082000 +0000" stop="20260507091000 +0000" channel="Heimatkanal.skyde">
-    <title>Da kommt Kalle</title>
-</programme>
-<programme start="20260507091000 +0000" stop="20260507100000 +0000" channel="Heimatkanal.skyde">
-    <title>Der Landarzt</title>
-</programme>
-<programme start="20260507100000 +0000" stop="20260507110000 +0000" channel="Heimatkanal.skyde">
-    <title>Musikparade</title>
-</programme>
-<programme start="20260507110000 +0000" stop="20260507114500 +0000" channel="Heimatkanal.skyde">
-    <title>Alles Liebe V.I.P.: Hans-Jürgen Bäumler</title>
-</programme>
-<programme start="20260507114500 +0000" stop="20260507132500 +0000" channel="Heimatkanal.skyde">
-    <title>Meine Kinder und ich</title>
-</programme>
-<programme start="20260507132500 +0000" stop="20260507150000 +0000" channel="Heimatkanal.skyde">
-    <title>Das haut hin</title>
-</programme>
-<programme start="20260507150000 +0000" stop="20260507163500 +0000" channel="Heimatkanal.skyde">
-    <title>Ich heirate eine Familie: 1 + 1 = 5</title>
-</programme>
-<programme start="20260507163500 +0000" stop="20260507172500 +0000" channel="Heimatkanal.skyde">
-    <title>Der Landarzt</title>
-</programme>
-<programme start="20260507172500 +0000" stop="20260507181500 +0000" channel="Heimatkanal.skyde">
-    <title>Da kommt Kalle</title>
-</programme>
-<programme start="20260507181500 +0000" stop="20260507192000 +0000" channel="Heimatkanal.skyde">
-    <title>Der Kommissar</title>
-</programme>
-<programme start="20260507192000 +0000" stop="20260507202000 +0000" channel="Heimatkanal.skyde">
-    <title>Der Kommissar</title>
-</programme>
-<programme start="20260507202000 +0000" stop="20260507212500 +0000" channel="Heimatkanal.skyde">
-    <title>Derrick</title>
-</programme>
-<programme start="20260507212500 +0000" stop="20260507222500 +0000" channel="Heimatkanal.skyde">
-    <title>Derrick</title>
-</programme>
 <programme start="20260506221000 +0000" stop="20260506230000 +0000" channel="HISTORY Channel HD.skyde">
     <title>Terra X: Abenteuer Freiheit</title>
 </programme>
@@ -3471,39 +3411,6 @@
 </programme>
 <programme start="20260507210000 +0000" stop="20260507220000 +0000" channel="Sky Sport Top Event HD.skyde">
     <title>Live LIV Golf: Virginia, 1. Tag in Washington, D.C.</title>
-</programme>
-<programme start="20260507070000 +0000" stop="20260507090000 +0000" channel="Sky Sport UHD.skyde">
-    <title>F1: Rennen - GP Miami</title>
-</programme>
-<programme start="20260507090000 +0000" stop="20260507110000 +0000" channel="Sky Sport UHD.skyde">
-    <title>PL: Manchester United - FC Liverpool, Match of the Week, 35. Spieltag</title>
-</programme>
-<programme start="20260507110000 +0000" stop="20260507113000 +0000" channel="Sky Sport UHD.skyde">
-    <title>Golf: Greatest Holes (1)</title>
-</programme>
-<programme start="20260507113000 +0000" stop="20260507120000 +0000" channel="Sky Sport UHD.skyde">
-    <title>Golf: Greatest Holes (2)</title>
-</programme>
-<programme start="20260507120000 +0000" stop="20260507140000 +0000" channel="Sky Sport UHD.skyde">
-    <title>DFB-Pokal: Bayer Leverkusen - FC Bayern München, Halbfinale</title>
-</programme>
-<programme start="20260507140000 +0000" stop="20260507160000 +0000" channel="Sky Sport UHD.skyde">
-    <title>PL: FC Everton - Manchester City, 35. Spieltag</title>
-</programme>
-<programme start="20260507160000 +0000" stop="20260507180000 +0000" channel="Sky Sport UHD.skyde">
-    <title>PL: Manchester United - FC Liverpool, Match of the Week, 35. Spieltag</title>
-</programme>
-<programme start="20260507180000 +0000" stop="20260507200000 +0000" channel="Sky Sport UHD.skyde">
-    <title>F1: Rennen - GP Miami</title>
-</programme>
-<programme start="20260507200000 +0000" stop="20260507203000 +0000" channel="Sky Sport UHD.skyde">
-    <title>Golf: Greatest Holes (3)</title>
-</programme>
-<programme start="20260507203000 +0000" stop="20260507210000 +0000" channel="Sky Sport UHD.skyde">
-    <title>Golf: Greatest Holes (4)</title>
-</programme>
-<programme start="20260507210000 +0000" stop="20260507230000 +0000" channel="Sky Sport UHD.skyde">
-    <title>DFB-Pokal: Bayer Leverkusen - FC Bayern München, Halbfinale</title>
 </programme>
 <programme start="20260507084000 +0000" stop="20260507090000 +0000" channel="Sky Sport 1 HD.skyde">
     <title>Es folgt: LIVE WTA Tour</title>

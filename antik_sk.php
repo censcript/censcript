@@ -4564,8 +4564,11 @@
   <programme start="20260509111500 +0000" stop="20260509113000 +0000" channel="Arena Sport 1.webtv.sk">
     <title lang="id">GarazTV</title>
   </programme>
-  <programme start="20260509113000 +0000" stop="20260509120000 +0000" channel="Arena Sport 1.webtv.sk">
+  <programme start="20260509113000 +0000" stop="20260509115000 +0000" channel="Arena Sport 1.webtv.sk">
     <title lang="id">GarazTV</title>
+  </programme>
+  <programme start="20260509115000 +0000" stop="20260509120000 +0000" channel="Arena Sport 1.webtv.sk">
+    <title lang="id">ENDURO magazín</title>
   </programme>
   <programme start="20260509120000 +0000" stop="20260509123000 +0000" channel="Arena Sport 1.webtv.sk">
     <title lang="id">DominicCars</title>
@@ -4642,14 +4645,8 @@
   <programme start="20260509100000 +0000" stop="20260509103000 +0000" channel="Arena Sport 2.webtv.sk">
     <title lang="id">Motoring</title>
   </programme>
-  <programme start="20260509103000 +0000" stop="20260509104500 +0000" channel="Arena Sport 2.webtv.sk">
-    <title lang="id">DRIVE IT - Ondrej Macko</title>
-  </programme>
-  <programme start="20260509104500 +0000" stop="20260509111500 +0000" channel="Arena Sport 2.webtv.sk">
-    <title lang="id">Výběrová auta</title>
-  </programme>
-  <programme start="20260509111500 +0000" stop="20260509120000 +0000" channel="Arena Sport 2.webtv.sk">
-    <title lang="id">Záchrancovia klasických áut</title>
+  <programme start="20260509103000 +0000" stop="20260509120000 +0000" channel="Arena Sport 2.webtv.sk">
+    <title lang="id">ORLEN Wisła Płock PGE Wybrzeże Gdańsk</title>
   </programme>
   <programme start="20260509120000 +0000" stop="20260509140000 +0000" channel="Arena Sport 2.webtv.sk">
     <title lang="id">Rot-Weiss Essen - SC Verl</title>
