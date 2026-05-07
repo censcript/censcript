@@ -1565,12 +1565,404 @@
     <title lang="id">Ftv : Mengejar Tali Pocong</title>
     <icon src="https://thumbor.prod.vidiocdn.com/VyDWgGuvUtZp5M006MXkTEIEpxw=/287x162/filters:strip_icc():quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/image/734/trans7-9dade4.jpg"/>
   </programme>
-  <programme channel="734" start="20260509174500 +0000" stop="20260509183000 +0000">
-    <title lang="id">Motgp Sprint Race 2026 France</title>
+  <programme channel="734" start="20260509174500 +0000" stop="20260509184500 +0000">
+    <title lang="id">Moto2 2026 France Gp</title>
     <icon src="https://thumbor.prod.vidiocdn.com/VyDWgGuvUtZp5M006MXkTEIEpxw=/287x162/filters:strip_icc():quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/image/734/trans7-9dade4.jpg"/>
   </programme>
-  <programme channel="734" start="20260509183000 +0000" stop="20260509190000 +0000">
+  <programme channel="734" start="20260509190000 +0000" stop="20260509193000 +0000">
+    <title lang="id">Dracin</title>
+    <icon src="https://thumbor.prod.vidiocdn.com/VyDWgGuvUtZp5M006MXkTEIEpxw=/287x162/filters:strip_icc():quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/image/734/trans7-9dade4.jpg"/>
+  </programme>
+  <programme channel="734" start="20260509193000 +0000" stop="20260509201500 +0000">
+    <title lang="id">On The Spot</title>
+    <icon src="https://thumbor.prod.vidiocdn.com/zUMvCXVaYONttcTADp_-jHovW7o=/287x162/filters:strip_icc():quality(70)/vidio-media-production/uploads/tv_program/thumbnail/380585/e4afba.jpg"/>
+  </programme>
+  <programme channel="734" start="20260509201500 +0000" stop="20260509210000 +0000">
+    <title lang="id">LOL Comediha!</title>
+    <icon src="https://thumbor.prod.vidiocdn.com/VyDWgGuvUtZp5M006MXkTEIEpxw=/287x162/filters:strip_icc():quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/image/734/trans7-9dade4.jpg"/>
+  </programme>
+  <programme channel="734" start="20260509210000 +0000" stop="20260509214500 +0000">
+    <title lang="id">Sang Penyintas</title>
+    <icon src="https://thumbor.prod.vidiocdn.com/VyDWgGuvUtZp5M006MXkTEIEpxw=/287x162/filters:strip_icc():quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/image/734/trans7-9dade4.jpg"/>
+  </programme>
+  <programme channel="734" start="20260509214500 +0000" stop="20260509223000 +0000">
+    <title lang="id">Jalur Langit</title>
+    <icon src="https://thumbor.prod.vidiocdn.com/VyDWgGuvUtZp5M006MXkTEIEpxw=/287x162/filters:strip_icc():quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/image/734/trans7-9dade4.jpg"/>
+  </programme>
+  <programme channel="734" start="20260509223000 +0000" stop="20260509233000 +0000">
+    <title lang="id">Redaksi Pagi Akhir Pekan</title>
+    <icon src="https://thumbor.prod.vidiocdn.com/VyDWgGuvUtZp5M006MXkTEIEpxw=/287x162/filters:strip_icc():quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/image/734/trans7-9dade4.jpg"/>
+  </programme>
+  <programme channel="734" start="20260509233000 +0000" stop="20260510003000 +0000">
+    <title lang="id">Spotlite</title>
+    <icon src="https://thumbor.prod.vidiocdn.com/VyDWgGuvUtZp5M006MXkTEIEpxw=/287x162/filters:strip_icc():quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/image/734/trans7-9dade4.jpg"/>
+  </programme>
+  <programme channel="734" start="20260510003000 +0000" stop="20260510013000 +0000">
+    <title lang="id">Selebrita Pagi On The Weekend</title>
+    <icon src="https://thumbor.prod.vidiocdn.com/VyDWgGuvUtZp5M006MXkTEIEpxw=/287x162/filters:strip_icc():quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/image/734/trans7-9dade4.jpg"/>
+  </programme>
+  <programme channel="734" start="20260510013000 +0000" stop="20260510031500 +0000">
+    <title lang="id">Bikin Seneng</title>
+    <icon src="https://thumbor.prod.vidiocdn.com/VyDWgGuvUtZp5M006MXkTEIEpxw=/287x162/filters:strip_icc():quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/image/734/trans7-9dade4.jpg"/>
+  </programme>
+  <programme channel="734" start="20260510031500 +0000" stop="20260510041500 +0000">
+    <title lang="id">Obrolan Tiap Waktu</title>
+    <icon src="https://thumbor.prod.vidiocdn.com/VyDWgGuvUtZp5M006MXkTEIEpxw=/287x162/filters:strip_icc():quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/image/734/trans7-9dade4.jpg"/>
+  </programme>
+  <programme channel="734" start="20260510041500 +0000" stop="20260510050000 +0000">
+    <title lang="id">Enaknya Mantul</title>
+    <icon src="https://thumbor.prod.vidiocdn.com/VyDWgGuvUtZp5M006MXkTEIEpxw=/287x162/filters:strip_icc():quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/image/734/trans7-9dade4.jpg"/>
+  </programme>
+  <programme channel="734" start="20260510050000 +0000" stop="20260510054500 +0000">
+    <title lang="id">Jejak Petualangan</title>
+    <icon src="https://thumbor.prod.vidiocdn.com/VyDWgGuvUtZp5M006MXkTEIEpxw=/287x162/filters:strip_icc():quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/image/734/trans7-9dade4.jpg"/>
+  </programme>
+  <programme channel="734" start="20260510054500 +0000" stop="20260510063000 +0000">
+    <title lang="id">The Explorer</title>
+    <icon src="https://thumbor.prod.vidiocdn.com/VyDWgGuvUtZp5M006MXkTEIEpxw=/287x162/filters:strip_icc():quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/image/734/trans7-9dade4.jpg"/>
+  </programme>
+  <programme channel="734" start="20260510063000 +0000" stop="20260510071500 +0000">
+    <title lang="id">Mancing Mania Strike Back</title>
+    <icon src="https://thumbor.prod.vidiocdn.com/VyDWgGuvUtZp5M006MXkTEIEpxw=/287x162/filters:strip_icc():quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/image/734/trans7-9dade4.jpg"/>
+  </programme>
+  <programme channel="734" start="20260510071500 +0000" stop="20260510080000 +0000">
+    <title lang="id">Redaksi Pagi Akhir Pekan</title>
+    <icon src="https://thumbor.prod.vidiocdn.com/VyDWgGuvUtZp5M006MXkTEIEpxw=/287x162/filters:strip_icc():quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/image/734/trans7-9dade4.jpg"/>
+  </programme>
+  <programme channel="734" start="20260510080000 +0000" stop="20260510090000 +0000">
+    <title lang="id">Makan Receh</title>
+    <icon src="https://thumbor.prod.vidiocdn.com/cTnOrGY7b3x3Z_64XCG5Dt4RKVQ=/287x162/filters:strip_icc():quality(70)/vidio-media-production/uploads/tv_program/thumbnail/380609/7b710c.jpg"/>
+  </programme>
+  <programme channel="734" start="20260510090000 +0000" stop="20260510100000 +0000">
+    <title lang="id">Moto3 2026 France Gp</title>
+    <icon src="https://thumbor.prod.vidiocdn.com/VyDWgGuvUtZp5M006MXkTEIEpxw=/287x162/filters:strip_icc():quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/image/734/trans7-9dade4.jpg"/>
+  </programme>
+  <programme channel="734" start="20260510100000 +0000" stop="20260510110000 +0000">
+    <title lang="id">Selebrita On The Weekend</title>
+    <icon src="https://thumbor.prod.vidiocdn.com/VyDWgGuvUtZp5M006MXkTEIEpxw=/287x162/filters:strip_icc():quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/image/734/trans7-9dade4.jpg"/>
+  </programme>
+  <programme channel="734" start="20260510110000 +0000" stop="20260510114500 +0000">
+    <title lang="id">POV (Pasti Obrolan Viral)</title>
+    <icon src="https://thumbor.prod.vidiocdn.com/VyDWgGuvUtZp5M006MXkTEIEpxw=/287x162/filters:strip_icc():quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/image/734/trans7-9dade4.jpg"/>
+  </programme>
+  <programme channel="734" start="20260510114500 +0000" stop="20260510130000 +0000">
+    <title lang="id">MotoGP 2026 France Gp</title>
+    <icon src="https://thumbor.prod.vidiocdn.com/VyDWgGuvUtZp5M006MXkTEIEpxw=/287x162/filters:strip_icc():quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/image/734/trans7-9dade4.jpg"/>
+  </programme>
+  <programme channel="734" start="20260510130000 +0000" stop="20260510143000 +0000">
+    <title lang="id">Arisan</title>
+    <icon src="https://thumbor.prod.vidiocdn.com/VyDWgGuvUtZp5M006MXkTEIEpxw=/287x162/filters:strip_icc():quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/image/734/trans7-9dade4.jpg"/>
+  </programme>
+  <programme channel="734" start="20260510143000 +0000" stop="20260510154500 +0000">
+    <title lang="id">BTS</title>
+    <icon src="https://thumbor.prod.vidiocdn.com/VyDWgGuvUtZp5M006MXkTEIEpxw=/287x162/filters:strip_icc():quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/image/734/trans7-9dade4.jpg"/>
+  </programme>
+  <programme channel="734" start="20260510154500 +0000" stop="20260510163000 +0000">
+    <title lang="id">The Police</title>
+    <icon src="https://thumbor.prod.vidiocdn.com/HZz-rwFWruDhzHFfuCgQLdnqkmI=/287x162/filters:strip_icc():quality(70)/vidio-web-prod-film/uploads/film/image_landscape/5734/the-police-3840e2.png"/>
+  </programme>
+  <programme channel="734" start="20260510163000 +0000" stop="20260510174500 +0000">
+    <title lang="id">Theater : Setan Kredit</title>
+    <icon src="https://thumbor.prod.vidiocdn.com/VyDWgGuvUtZp5M006MXkTEIEpxw=/287x162/filters:strip_icc():quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/image/734/trans7-9dade4.jpg"/>
+  </programme>
+  <programme channel="734" start="20260510163000 +0000" stop="20260510174500 +0000">
+    <title lang="id">Theater : Setan Kredit</title>
+    <icon src="https://thumbor.prod.vidiocdn.com/VyDWgGuvUtZp5M006MXkTEIEpxw=/287x162/filters:strip_icc():quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/image/734/trans7-9dade4.jpg"/>
+  </programme>
+  <programme channel="734" start="20260510183000 +0000" stop="20260510190000 +0000">
+    <title lang="id">Bes Fishing</title>
+    <icon src="https://thumbor.prod.vidiocdn.com/VyDWgGuvUtZp5M006MXkTEIEpxw=/287x162/filters:strip_icc():quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/image/734/trans7-9dade4.jpg"/>
+  </programme>
+  <programme channel="734" start="20260510193000 +0000" stop="20260510200000 +0000">
     <title lang="id">Best Fishing</title>
+    <icon src="https://thumbor.prod.vidiocdn.com/VyDWgGuvUtZp5M006MXkTEIEpxw=/287x162/filters:strip_icc():quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/image/734/trans7-9dade4.jpg"/>
+  </programme>
+  <programme channel="734" start="20260510200000 +0000" stop="20260510210000 +0000">
+    <title lang="id">Amazing Trip</title>
+    <icon src="https://thumbor.prod.vidiocdn.com/VyDWgGuvUtZp5M006MXkTEIEpxw=/287x162/filters:strip_icc():quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/image/734/trans7-9dade4.jpg"/>
+  </programme>
+  <programme channel="734" start="20260510214500 +0000" stop="20260510223000 +0000">
+    <title lang="id">Jejak Al Qur'An</title>
+    <icon src="https://thumbor.prod.vidiocdn.com/VyDWgGuvUtZp5M006MXkTEIEpxw=/287x162/filters:strip_icc():quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/image/734/trans7-9dade4.jpg"/>
+  </programme>
+  <programme channel="734" start="20260510223000 +0000" stop="20260510233000 +0000">
+    <title lang="id">Redaksi Pagi</title>
+    <icon src="https://thumbor.prod.vidiocdn.com/VyDWgGuvUtZp5M006MXkTEIEpxw=/287x162/filters:strip_icc():quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/image/734/trans7-9dade4.jpg"/>
+  </programme>
+  <programme channel="734" start="20260511003000 +0000" stop="20260511013000 +0000">
+    <title lang="id">Selebrita Pagi</title>
+    <icon src="https://thumbor.prod.vidiocdn.com/VyDWgGuvUtZp5M006MXkTEIEpxw=/287x162/filters:strip_icc():quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/image/734/trans7-9dade4.jpg"/>
+  </programme>
+  <programme channel="734" start="20260511013000 +0000" stop="20260511023000 +0000">
+    <title lang="id">FYP (For Your Pagi)</title>
+    <icon src="https://thumbor.prod.vidiocdn.com/VyDWgGuvUtZp5M006MXkTEIEpxw=/287x162/filters:strip_icc():quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/image/734/trans7-9dade4.jpg"/>
+  </programme>
+  <programme channel="734" start="20260511023000 +0000" stop="20260511031500 +0000">
+    <title lang="id">Selebrita Heits</title>
+    <icon src="https://thumbor.prod.vidiocdn.com/VyDWgGuvUtZp5M006MXkTEIEpxw=/287x162/filters:strip_icc():quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/image/734/trans7-9dade4.jpg"/>
+  </programme>
+  <programme channel="734" start="20260511031500 +0000" stop="20260511041500 +0000">
+    <title lang="id">Big Bang!</title>
+    <icon src="https://thumbor.prod.vidiocdn.com/VyDWgGuvUtZp5M006MXkTEIEpxw=/287x162/filters:strip_icc():quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/image/734/trans7-9dade4.jpg"/>
+  </programme>
+  <programme channel="734" start="20260511041500 +0000" stop="20260511050000 +0000">
+    <title lang="id">Enah Bikin Enak</title>
+    <icon src="https://thumbor.prod.vidiocdn.com/VyDWgGuvUtZp5M006MXkTEIEpxw=/287x162/filters:strip_icc():quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/image/734/trans7-9dade4.jpg"/>
+  </programme>
+  <programme channel="734" start="20260511050000 +0000" stop="20260511054500 +0000">
+    <title lang="id">Jejak Si Gundul</title>
+    <icon src="https://thumbor.prod.vidiocdn.com/VyDWgGuvUtZp5M006MXkTEIEpxw=/287x162/filters:strip_icc():quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/image/734/trans7-9dade4.jpg"/>
+  </programme>
+  <programme channel="734" start="20260511054500 +0000" stop="20260511063000 +0000">
+    <title lang="id">Bocah Petualang</title>
+    <icon src="https://thumbor.prod.vidiocdn.com/VyDWgGuvUtZp5M006MXkTEIEpxw=/287x162/filters:strip_icc():quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/image/734/trans7-9dade4.jpg"/>
+  </programme>
+  <programme channel="734" start="20260511063000 +0000" stop="20260511071500 +0000">
+    <title lang="id">Indonesiaku</title>
+    <icon src="https://thumbor.prod.vidiocdn.com/VyDWgGuvUtZp5M006MXkTEIEpxw=/287x162/filters:strip_icc():quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/image/734/trans7-9dade4.jpg"/>
+  </programme>
+  <programme channel="734" start="20260511071500 +0000" stop="20260511080000 +0000">
+    <title lang="id">Redaksi</title>
+    <icon src="https://thumbor.prod.vidiocdn.com/VyDWgGuvUtZp5M006MXkTEIEpxw=/287x162/filters:strip_icc():quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/image/734/trans7-9dade4.jpg"/>
+  </programme>
+  <programme channel="734" start="20260511100000 +0000" stop="20260511110000 +0000">
+    <title lang="id">Selebrita Update</title>
+    <icon src="https://thumbor.prod.vidiocdn.com/VyDWgGuvUtZp5M006MXkTEIEpxw=/287x162/filters:strip_icc():quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/image/734/trans7-9dade4.jpg"/>
+  </programme>
+  <programme channel="734" start="20260511114500 +0000" stop="20260511121500 +0000">
+    <title lang="id">Secret Story</title>
+    <icon src="https://thumbor.prod.vidiocdn.com/VyDWgGuvUtZp5M006MXkTEIEpxw=/287x162/filters:strip_icc():quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/image/734/trans7-9dade4.jpg"/>
+  </programme>
+  <programme channel="734" start="20260511143000 +0000" stop="20260511154500 +0000">
+    <title lang="id">Lapor Pak!</title>
+    <icon src="https://thumbor.prod.vidiocdn.com/VyDWgGuvUtZp5M006MXkTEIEpxw=/287x162/filters:strip_icc():quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/image/734/trans7-9dade4.jpg"/>
+  </programme>
+  <programme channel="734" start="20260511171500 +0000" stop="20260511174500 +0000">
+    <title lang="id">Redaksi Malam</title>
+    <icon src="https://thumbor.prod.vidiocdn.com/VyDWgGuvUtZp5M006MXkTEIEpxw=/287x162/filters:strip_icc():quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/image/734/trans7-9dade4.jpg"/>
+  </programme>
+  <programme channel="734" start="20260511174500 +0000" stop="20260511190000 +0000">
+    <title lang="id">Sport 7</title>
+    <icon src="https://thumbor.prod.vidiocdn.com/VyDWgGuvUtZp5M006MXkTEIEpxw=/287x162/filters:strip_icc():quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/image/734/trans7-9dade4.jpg"/>
+  </programme>
+  <programme channel="734" start="20260511190000 +0000" stop="20260511193000 +0000">
+    <title lang="id">Dracin</title>
+    <icon src="https://thumbor.prod.vidiocdn.com/VyDWgGuvUtZp5M006MXkTEIEpxw=/287x162/filters:strip_icc():quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/image/734/trans7-9dade4.jpg"/>
+  </programme>
+  <programme channel="734" start="20260511193000 +0000" stop="20260511200000 +0000">
+    <title lang="id">Best Fishing</title>
+    <icon src="https://thumbor.prod.vidiocdn.com/VyDWgGuvUtZp5M006MXkTEIEpxw=/287x162/filters:strip_icc():quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/image/734/trans7-9dade4.jpg"/>
+  </programme>
+  <programme channel="734" start="20260511200000 +0000" stop="20260511210000 +0000">
+    <title lang="id">Amazing Trip</title>
+    <icon src="https://thumbor.prod.vidiocdn.com/VyDWgGuvUtZp5M006MXkTEIEpxw=/287x162/filters:strip_icc():quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/image/734/trans7-9dade4.jpg"/>
+  </programme>
+  <programme channel="734" start="20260511210000 +0000" stop="20260511214500 +0000">
+    <title lang="id">POV (Pasti Obrolan Viral)</title>
+    <icon src="https://thumbor.prod.vidiocdn.com/VyDWgGuvUtZp5M006MXkTEIEpxw=/287x162/filters:strip_icc():quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/image/734/trans7-9dade4.jpg"/>
+  </programme>
+  <programme channel="734" start="20260511214500 +0000" stop="20260511223000 +0000">
+    <title lang="id">Jejak Al Qur'An</title>
+    <icon src="https://thumbor.prod.vidiocdn.com/VyDWgGuvUtZp5M006MXkTEIEpxw=/287x162/filters:strip_icc():quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/image/734/trans7-9dade4.jpg"/>
+  </programme>
+  <programme channel="734" start="20260511223000 +0000" stop="20260511233000 +0000">
+    <title lang="id">Redaksi Pagi</title>
+    <icon src="https://thumbor.prod.vidiocdn.com/VyDWgGuvUtZp5M006MXkTEIEpxw=/287x162/filters:strip_icc():quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/image/734/trans7-9dade4.jpg"/>
+  </programme>
+  <programme channel="734" start="20260511233000 +0000" stop="20260512003000 +0000">
+    <title lang="id">Spotlite</title>
+    <icon src="https://thumbor.prod.vidiocdn.com/VyDWgGuvUtZp5M006MXkTEIEpxw=/287x162/filters:strip_icc():quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/image/734/trans7-9dade4.jpg"/>
+  </programme>
+  <programme channel="734" start="20260512003000 +0000" stop="20260512013000 +0000">
+    <title lang="id">Selebrita Pagi</title>
+    <icon src="https://thumbor.prod.vidiocdn.com/VyDWgGuvUtZp5M006MXkTEIEpxw=/287x162/filters:strip_icc():quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/image/734/trans7-9dade4.jpg"/>
+  </programme>
+  <programme channel="734" start="20260512013000 +0000" stop="20260512023000 +0000">
+    <title lang="id">FYP (For Your Pagi)</title>
+    <icon src="https://thumbor.prod.vidiocdn.com/VyDWgGuvUtZp5M006MXkTEIEpxw=/287x162/filters:strip_icc():quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/image/734/trans7-9dade4.jpg"/>
+  </programme>
+  <programme channel="734" start="20260512023000 +0000" stop="20260512031500 +0000">
+    <title lang="id">Selebrita Heits</title>
+    <icon src="https://thumbor.prod.vidiocdn.com/VyDWgGuvUtZp5M006MXkTEIEpxw=/287x162/filters:strip_icc():quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/image/734/trans7-9dade4.jpg"/>
+  </programme>
+  <programme channel="734" start="20260512031500 +0000" stop="20260512041500 +0000">
+    <title lang="id">Big Bang!</title>
+    <icon src="https://thumbor.prod.vidiocdn.com/VyDWgGuvUtZp5M006MXkTEIEpxw=/287x162/filters:strip_icc():quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/image/734/trans7-9dade4.jpg"/>
+  </programme>
+  <programme channel="734" start="20260512041500 +0000" stop="20260512050000 +0000">
+    <title lang="id">Enah Bikin Enak</title>
+    <icon src="https://thumbor.prod.vidiocdn.com/VyDWgGuvUtZp5M006MXkTEIEpxw=/287x162/filters:strip_icc():quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/image/734/trans7-9dade4.jpg"/>
+  </programme>
+  <programme channel="734" start="20260512050000 +0000" stop="20260512054500 +0000">
+    <title lang="id">Jejak Si Gundul</title>
+    <icon src="https://thumbor.prod.vidiocdn.com/VyDWgGuvUtZp5M006MXkTEIEpxw=/287x162/filters:strip_icc():quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/image/734/trans7-9dade4.jpg"/>
+  </programme>
+  <programme channel="734" start="20260512054500 +0000" stop="20260512063000 +0000">
+    <title lang="id">Bocah Petualang</title>
+    <icon src="https://thumbor.prod.vidiocdn.com/VyDWgGuvUtZp5M006MXkTEIEpxw=/287x162/filters:strip_icc():quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/image/734/trans7-9dade4.jpg"/>
+  </programme>
+  <programme channel="734" start="20260512063000 +0000" stop="20260512071500 +0000">
+    <title lang="id">Indonesiaku</title>
+    <icon src="https://thumbor.prod.vidiocdn.com/VyDWgGuvUtZp5M006MXkTEIEpxw=/287x162/filters:strip_icc():quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/image/734/trans7-9dade4.jpg"/>
+  </programme>
+  <programme channel="734" start="20260512071500 +0000" stop="20260512080000 +0000">
+    <title lang="id">Redaksi</title>
+    <icon src="https://thumbor.prod.vidiocdn.com/VyDWgGuvUtZp5M006MXkTEIEpxw=/287x162/filters:strip_icc():quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/image/734/trans7-9dade4.jpg"/>
+  </programme>
+  <programme channel="734" start="20260512080000 +0000" stop="20260512090000 +0000">
+    <title lang="id">Bikin Seneng</title>
+    <icon src="https://thumbor.prod.vidiocdn.com/VyDWgGuvUtZp5M006MXkTEIEpxw=/287x162/filters:strip_icc():quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/image/734/trans7-9dade4.jpg"/>
+  </programme>
+  <programme channel="734" start="20260512090000 +0000" stop="20260512100000 +0000">
+    <title lang="id">Makan Receh</title>
+    <icon src="https://thumbor.prod.vidiocdn.com/cTnOrGY7b3x3Z_64XCG5Dt4RKVQ=/287x162/filters:strip_icc():quality(70)/vidio-media-production/uploads/tv_program/thumbnail/380609/7b710c.jpg"/>
+  </programme>
+  <programme channel="734" start="20260512100000 +0000" stop="20260512110000 +0000">
+    <title lang="id">Selebrita Update</title>
+    <icon src="https://thumbor.prod.vidiocdn.com/VyDWgGuvUtZp5M006MXkTEIEpxw=/287x162/filters:strip_icc():quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/image/734/trans7-9dade4.jpg"/>
+  </programme>
+  <programme channel="734" start="20260512110000 +0000" stop="20260512114500 +0000">
+    <title lang="id">On The Spot</title>
+    <icon src="https://thumbor.prod.vidiocdn.com/zUMvCXVaYONttcTADp_-jHovW7o=/287x162/filters:strip_icc():quality(70)/vidio-media-production/uploads/tv_program/thumbnail/380585/e4afba.jpg"/>
+  </programme>
+  <programme channel="734" start="20260512114500 +0000" stop="20260512121500 +0000">
+    <title lang="id">Secret Story</title>
+    <icon src="https://thumbor.prod.vidiocdn.com/VyDWgGuvUtZp5M006MXkTEIEpxw=/287x162/filters:strip_icc():quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/image/734/trans7-9dade4.jpg"/>
+  </programme>
+  <programme channel="734" start="20260512121500 +0000" stop="20260512130000 +0000">
+    <title lang="id">POV (Pasti Obrolan Viral)</title>
+    <icon src="https://thumbor.prod.vidiocdn.com/VyDWgGuvUtZp5M006MXkTEIEpxw=/287x162/filters:strip_icc():quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/image/734/trans7-9dade4.jpg"/>
+  </programme>
+  <programme channel="734" start="20260512130000 +0000" stop="20260512143000 +0000">
+    <title lang="id">Arisan</title>
+    <icon src="https://thumbor.prod.vidiocdn.com/VyDWgGuvUtZp5M006MXkTEIEpxw=/287x162/filters:strip_icc():quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/image/734/trans7-9dade4.jpg"/>
+  </programme>
+  <programme channel="734" start="20260512143000 +0000" stop="20260512154500 +0000">
+    <title lang="id">Lapor Pak!</title>
+    <icon src="https://thumbor.prod.vidiocdn.com/VyDWgGuvUtZp5M006MXkTEIEpxw=/287x162/filters:strip_icc():quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/image/734/trans7-9dade4.jpg"/>
+  </programme>
+  <programme channel="734" start="20260512154500 +0000" stop="20260512163000 +0000">
+    <title lang="id">The Police</title>
+    <icon src="https://thumbor.prod.vidiocdn.com/HZz-rwFWruDhzHFfuCgQLdnqkmI=/287x162/filters:strip_icc():quality(70)/vidio-web-prod-film/uploads/film/image_landscape/5734/the-police-3840e2.png"/>
+  </programme>
+  <programme channel="734" start="20260512163000 +0000" stop="20260512171500 +0000">
+    <title lang="id">Misteri Dunia</title>
+    <icon src="https://thumbor.prod.vidiocdn.com/VyDWgGuvUtZp5M006MXkTEIEpxw=/287x162/filters:strip_icc():quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/image/734/trans7-9dade4.jpg"/>
+  </programme>
+  <programme channel="734" start="20260512163000 +0000" stop="20260512171500 +0000">
+    <title lang="id">Misteri Dunia</title>
+    <icon src="https://thumbor.prod.vidiocdn.com/VyDWgGuvUtZp5M006MXkTEIEpxw=/287x162/filters:strip_icc():quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/image/734/trans7-9dade4.jpg"/>
+  </programme>
+  <programme channel="734" start="20260512171500 +0000" stop="20260512174500 +0000">
+    <title lang="id">Redaksi Malam</title>
+    <icon src="https://thumbor.prod.vidiocdn.com/VyDWgGuvUtZp5M006MXkTEIEpxw=/287x162/filters:strip_icc():quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/image/734/trans7-9dade4.jpg"/>
+  </programme>
+  <programme channel="734" start="20260512174500 +0000" stop="20260512190000 +0000">
+    <title lang="id">Sport 7</title>
+    <icon src="https://thumbor.prod.vidiocdn.com/VyDWgGuvUtZp5M006MXkTEIEpxw=/287x162/filters:strip_icc():quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/image/734/trans7-9dade4.jpg"/>
+  </programme>
+  <programme channel="734" start="20260512190000 +0000" stop="20260512193000 +0000">
+    <title lang="id">Dracin</title>
+    <icon src="https://thumbor.prod.vidiocdn.com/VyDWgGuvUtZp5M006MXkTEIEpxw=/287x162/filters:strip_icc():quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/image/734/trans7-9dade4.jpg"/>
+  </programme>
+  <programme channel="734" start="20260512193000 +0000" stop="20260512200000 +0000">
+    <title lang="id">Best Fishing</title>
+    <icon src="https://thumbor.prod.vidiocdn.com/VyDWgGuvUtZp5M006MXkTEIEpxw=/287x162/filters:strip_icc():quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/image/734/trans7-9dade4.jpg"/>
+  </programme>
+  <programme channel="734" start="20260512200000 +0000" stop="20260512210000 +0000">
+    <title lang="id">Amazing Trip</title>
+    <icon src="https://thumbor.prod.vidiocdn.com/VyDWgGuvUtZp5M006MXkTEIEpxw=/287x162/filters:strip_icc():quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/image/734/trans7-9dade4.jpg"/>
+  </programme>
+  <programme channel="734" start="20260512210000 +0000" stop="20260512214500 +0000">
+    <title lang="id">POV (Pasti Obrolan Viral)</title>
+    <icon src="https://thumbor.prod.vidiocdn.com/VyDWgGuvUtZp5M006MXkTEIEpxw=/287x162/filters:strip_icc():quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/image/734/trans7-9dade4.jpg"/>
+  </programme>
+  <programme channel="734" start="20260512214500 +0000" stop="20260512223000 +0000">
+    <title lang="id">Jejak Al Qur'An</title>
+    <icon src="https://thumbor.prod.vidiocdn.com/VyDWgGuvUtZp5M006MXkTEIEpxw=/287x162/filters:strip_icc():quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/image/734/trans7-9dade4.jpg"/>
+  </programme>
+  <programme channel="734" start="20260512223000 +0000" stop="20260512233000 +0000">
+    <title lang="id">Redaksi Pagi</title>
+    <icon src="https://thumbor.prod.vidiocdn.com/VyDWgGuvUtZp5M006MXkTEIEpxw=/287x162/filters:strip_icc():quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/image/734/trans7-9dade4.jpg"/>
+  </programme>
+  <programme channel="734" start="20260512233000 +0000" stop="20260513003000 +0000">
+    <title lang="id">Spotlite</title>
+    <icon src="https://thumbor.prod.vidiocdn.com/VyDWgGuvUtZp5M006MXkTEIEpxw=/287x162/filters:strip_icc():quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/image/734/trans7-9dade4.jpg"/>
+  </programme>
+  <programme channel="734" start="20260513003000 +0000" stop="20260513013000 +0000">
+    <title lang="id">Selebrita Pagi</title>
+    <icon src="https://thumbor.prod.vidiocdn.com/VyDWgGuvUtZp5M006MXkTEIEpxw=/287x162/filters:strip_icc():quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/image/734/trans7-9dade4.jpg"/>
+  </programme>
+  <programme channel="734" start="20260513013000 +0000" stop="20260513023000 +0000">
+    <title lang="id">FYP (For Your Pagi)</title>
+    <icon src="https://thumbor.prod.vidiocdn.com/VyDWgGuvUtZp5M006MXkTEIEpxw=/287x162/filters:strip_icc():quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/image/734/trans7-9dade4.jpg"/>
+  </programme>
+  <programme channel="734" start="20260513023000 +0000" stop="20260513031500 +0000">
+    <title lang="id">Selebrita Heits</title>
+    <icon src="https://thumbor.prod.vidiocdn.com/VyDWgGuvUtZp5M006MXkTEIEpxw=/287x162/filters:strip_icc():quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/image/734/trans7-9dade4.jpg"/>
+  </programme>
+  <programme channel="734" start="20260513031500 +0000" stop="20260513041500 +0000">
+    <title lang="id">Big Bang!</title>
+    <icon src="https://thumbor.prod.vidiocdn.com/VyDWgGuvUtZp5M006MXkTEIEpxw=/287x162/filters:strip_icc():quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/image/734/trans7-9dade4.jpg"/>
+  </programme>
+  <programme channel="734" start="20260513041500 +0000" stop="20260513050000 +0000">
+    <title lang="id">Enah Bikin Enak</title>
+    <icon src="https://thumbor.prod.vidiocdn.com/VyDWgGuvUtZp5M006MXkTEIEpxw=/287x162/filters:strip_icc():quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/image/734/trans7-9dade4.jpg"/>
+  </programme>
+  <programme channel="734" start="20260513050000 +0000" stop="20260513054500 +0000">
+    <title lang="id">Jejak Si Gundul</title>
+    <icon src="https://thumbor.prod.vidiocdn.com/VyDWgGuvUtZp5M006MXkTEIEpxw=/287x162/filters:strip_icc():quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/image/734/trans7-9dade4.jpg"/>
+  </programme>
+  <programme channel="734" start="20260513054500 +0000" stop="20260513063000 +0000">
+    <title lang="id">Bocah Petualang</title>
+    <icon src="https://thumbor.prod.vidiocdn.com/VyDWgGuvUtZp5M006MXkTEIEpxw=/287x162/filters:strip_icc():quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/image/734/trans7-9dade4.jpg"/>
+  </programme>
+  <programme channel="734" start="20260513063000 +0000" stop="20260513071500 +0000">
+    <title lang="id">Kepo</title>
+    <icon src="https://thumbor.prod.vidiocdn.com/VyDWgGuvUtZp5M006MXkTEIEpxw=/287x162/filters:strip_icc():quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/image/734/trans7-9dade4.jpg"/>
+  </programme>
+  <programme channel="734" start="20260513071500 +0000" stop="20260513080000 +0000">
+    <title lang="id">Redaksi</title>
+    <icon src="https://thumbor.prod.vidiocdn.com/VyDWgGuvUtZp5M006MXkTEIEpxw=/287x162/filters:strip_icc():quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/image/734/trans7-9dade4.jpg"/>
+  </programme>
+  <programme channel="734" start="20260513080000 +0000" stop="20260513090000 +0000">
+    <title lang="id">BTS</title>
+    <icon src="https://thumbor.prod.vidiocdn.com/VyDWgGuvUtZp5M006MXkTEIEpxw=/287x162/filters:strip_icc():quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/image/734/trans7-9dade4.jpg"/>
+  </programme>
+  <programme channel="734" start="20260513090000 +0000" stop="20260513100000 +0000">
+    <title lang="id">Makan Receh</title>
+    <icon src="https://thumbor.prod.vidiocdn.com/cTnOrGY7b3x3Z_64XCG5Dt4RKVQ=/287x162/filters:strip_icc():quality(70)/vidio-media-production/uploads/tv_program/thumbnail/380609/7b710c.jpg"/>
+  </programme>
+  <programme channel="734" start="20260513100000 +0000" stop="20260513110000 +0000">
+    <title lang="id">Selebrita Update</title>
+    <icon src="https://thumbor.prod.vidiocdn.com/VyDWgGuvUtZp5M006MXkTEIEpxw=/287x162/filters:strip_icc():quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/image/734/trans7-9dade4.jpg"/>
+  </programme>
+  <programme channel="734" start="20260513110000 +0000" stop="20260513114500 +0000">
+    <title lang="id">On The Spot</title>
+    <icon src="https://thumbor.prod.vidiocdn.com/zUMvCXVaYONttcTADp_-jHovW7o=/287x162/filters:strip_icc():quality(70)/vidio-media-production/uploads/tv_program/thumbnail/380585/e4afba.jpg"/>
+  </programme>
+  <programme channel="734" start="20260513114500 +0000" stop="20260513121500 +0000">
+    <title lang="id">Secret Story</title>
+    <icon src="https://thumbor.prod.vidiocdn.com/VyDWgGuvUtZp5M006MXkTEIEpxw=/287x162/filters:strip_icc():quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/image/734/trans7-9dade4.jpg"/>
+  </programme>
+  <programme channel="734" start="20260513121500 +0000" stop="20260513130000 +0000">
+    <title lang="id">POV (Pasti Obrolan Viral)</title>
+    <icon src="https://thumbor.prod.vidiocdn.com/VyDWgGuvUtZp5M006MXkTEIEpxw=/287x162/filters:strip_icc():quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/image/734/trans7-9dade4.jpg"/>
+  </programme>
+  <programme channel="734" start="20260513130000 +0000" stop="20260513143000 +0000">
+    <title lang="id">Arisan</title>
+    <icon src="https://thumbor.prod.vidiocdn.com/VyDWgGuvUtZp5M006MXkTEIEpxw=/287x162/filters:strip_icc():quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/image/734/trans7-9dade4.jpg"/>
+  </programme>
+  <programme channel="734" start="20260513143000 +0000" stop="20260513154500 +0000">
+    <title lang="id">Lapor Pak!</title>
+    <icon src="https://thumbor.prod.vidiocdn.com/VyDWgGuvUtZp5M006MXkTEIEpxw=/287x162/filters:strip_icc():quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/image/734/trans7-9dade4.jpg"/>
+  </programme>
+  <programme channel="734" start="20260513154500 +0000" stop="20260513163000 +0000">
+    <title lang="id">The Police</title>
+    <icon src="https://thumbor.prod.vidiocdn.com/HZz-rwFWruDhzHFfuCgQLdnqkmI=/287x162/filters:strip_icc():quality(70)/vidio-web-prod-film/uploads/film/image_landscape/5734/the-police-3840e2.png"/>
+  </programme>
+  <programme channel="734" start="20260513163000 +0000" stop="20260513171500 +0000">
+    <title lang="id">Misteri Dunia</title>
     <icon src="https://thumbor.prod.vidiocdn.com/VyDWgGuvUtZp5M006MXkTEIEpxw=/287x162/filters:strip_icc():quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/image/734/trans7-9dade4.jpg"/>
   </programme>
   <programme channel="206" start="20260506164800 +0000" stop="20260506183000 +0000">
@@ -3689,6 +4081,631 @@
     <icon src="https://thumbor.prod.vidiocdn.com/jj9luSHlZk2jbvjSgqs3OHK1LOc=/287x162/filters:strip_icc():quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/image/874/kompas-tv-98863c.jpg"/>
   </programme>
   <programme channel="874" start="20260508163000 +0000" stop="20260508170000 +0000">
+    <title lang="id">Kilas Kompas</title>
+    <desc lang="id">Program berita menyuguhkan perkembangan terbaru dan berbagai peristiwa penting yang terjadi di seluruh Indonesia.</desc>
+    <icon src="https://thumbor.prod.vidiocdn.com/jj9luSHlZk2jbvjSgqs3OHK1LOc=/287x162/filters:strip_icc():quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/image/874/kompas-tv-98863c.jpg"/>
+  </programme>
+  <programme channel="874" start="20260508170000 +0000" stop="20260508180000 +0000">
+    <title lang="id">Berita Utama</title>
+    <desc lang="id">Program berita reguler di Kompas TV yang dirancang untuk menyampaikan rentetan peristiwa paling penting dan terbaru dari seluruh penjuru Indonesia dan dunia</desc>
+    <icon src="https://thumbor.prod.vidiocdn.com/jj9luSHlZk2jbvjSgqs3OHK1LOc=/287x162/filters:strip_icc():quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/image/874/kompas-tv-98863c.jpg"/>
+  </programme>
+  <programme channel="874" start="20260508180000 +0000" stop="20260508193000 +0000">
+    <title lang="id">Kompas Petang</title>
+    <desc lang="id">Program berita di Kompas TV yang ditayangkan setiap sore. Program ini menyajikan berita terkini seputar peristiwa, politik, hukum, kriminal, hingga humaniora.</desc>
+    <icon src="https://thumbor.prod.vidiocdn.com/jj9luSHlZk2jbvjSgqs3OHK1LOc=/287x162/filters:strip_icc():quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/image/874/kompas-tv-98863c.jpg"/>
+  </programme>
+  <programme channel="874" start="20260508193000 +0000" stop="20260508203000 +0000">
+    <title lang="id">Kompas Malam</title>
+    <desc lang="id">Program berita penutup hari di Kompas TV yang menyajikan rangkuman peristiwa secara reflektif, tenang, namun tetap kritis. Program ini hadir untuk memberikan informasi penting yang terjadi sejak pagi hingga menjelang tengah malam</desc>
+    <icon src="https://thumbor.prod.vidiocdn.com/jj9luSHlZk2jbvjSgqs3OHK1LOc=/287x162/filters:strip_icc():quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/image/874/kompas-tv-98863c.jpg"/>
+  </programme>
+  <programme channel="874" start="20260508203000 +0000" stop="20260508210000 +0000">
+    <title lang="id">Kalam Hati</title>
+    <desc lang="id">Program religi yang menghadirkan dialog spiritual secara mendalam namun tetap ringan dan menyejukkan</desc>
+    <icon src="https://thumbor.prod.vidiocdn.com/jj9luSHlZk2jbvjSgqs3OHK1LOc=/287x162/filters:strip_icc():quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/image/874/kompas-tv-98863c.jpg"/>
+  </programme>
+  <programme channel="874" start="20260508210000 +0000" stop="20260508213000 +0000">
+    <title lang="id">Borgol</title>
+    <desc lang="id">Acara yang menyuguhkan kumpulan berita - berita kriminal yang terjadi di Indonesia</desc>
+    <icon src="https://thumbor.prod.vidiocdn.com/jj9luSHlZk2jbvjSgqs3OHK1LOc=/287x162/filters:strip_icc():quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/image/874/kompas-tv-98863c.jpg"/>
+  </programme>
+  <programme channel="874" start="20260508213000 +0000" stop="20260508233000 +0000">
+    <title lang="id">Kompas Pagi Akhir Pekan</title>
+    <desc lang="id">Suguhan berita terkini dan peristiwa terhangat dari Indonesia dan mancanegara.</desc>
+    <icon src="https://thumbor.prod.vidiocdn.com/jj9luSHlZk2jbvjSgqs3OHK1LOc=/287x162/filters:strip_icc():quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/image/874/kompas-tv-98863c.jpg"/>
+  </programme>
+  <programme channel="874" start="20260508233000 +0000" stop="20260509000000 +0000">
+    <title lang="id">Jurnal Nusantara</title>
+    <desc lang="id">Program yang meliput berbagai peristiwa di beberapa daerah di Indonesia</desc>
+    <icon src="https://thumbor.prod.vidiocdn.com/jj9luSHlZk2jbvjSgqs3OHK1LOc=/287x162/filters:strip_icc():quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/image/874/kompas-tv-98863c.jpg"/>
+  </programme>
+  <programme channel="874" start="20260509000000 +0000" stop="20260509013000 +0000">
+    <title lang="id">Sapa Indonesia Pagi</title>
+    <desc lang="id">Berita dan laporan sejumlah peristiwa terhangat di berbagai belahan dunia</desc>
+    <icon src="https://thumbor.prod.vidiocdn.com/jj9luSHlZk2jbvjSgqs3OHK1LOc=/287x162/filters:strip_icc():quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/image/874/kompas-tv-98863c.jpg"/>
+  </programme>
+  <programme channel="874" start="20260509013000 +0000" stop="20260509020000 +0000">
+    <title lang="id">Kompas Sport</title>
+    <desc lang="id">Program blocking</desc>
+    <icon src="https://thumbor.prod.vidiocdn.com/jj9luSHlZk2jbvjSgqs3OHK1LOc=/287x162/filters:strip_icc():quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/image/874/kompas-tv-98863c.jpg"/>
+  </programme>
+  <programme channel="874" start="20260509020000 +0000" stop="20260509023000 +0000">
+    <title lang="id">Sustenesia</title>
+    <desc lang="id">Program dokumenter tentang Sustainibility</desc>
+    <icon src="https://thumbor.prod.vidiocdn.com/jj9luSHlZk2jbvjSgqs3OHK1LOc=/287x162/filters:strip_icc():quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/image/874/kompas-tv-98863c.jpg"/>
+  </programme>
+  <programme channel="874" start="20260509023000 +0000" stop="20260509030000 +0000">
+    <title lang="id">Pop News</title>
+    <desc lang="id">Menyuguhkan rangkuman berbagai kabar dan berita terhangat dari dalam dan luar negeri.</desc>
+    <icon src="https://thumbor.prod.vidiocdn.com/jj9luSHlZk2jbvjSgqs3OHK1LOc=/287x162/filters:strip_icc():quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/image/874/kompas-tv-98863c.jpg"/>
+  </programme>
+  <programme channel="874" start="20260509030000 +0000" stop="20260509033000 +0000">
+    <title lang="id">Kompas Sepekan</title>
+    <desc lang="id">Program yang berisikan kumpulan berita selama sepekan</desc>
+    <icon src="https://thumbor.prod.vidiocdn.com/jj9luSHlZk2jbvjSgqs3OHK1LOc=/287x162/filters:strip_icc():quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/image/874/kompas-tv-98863c.jpg"/>
+  </programme>
+  <programme channel="874" start="20260509033000 +0000" stop="20260509040000 +0000">
+    <title lang="id">Cerita Rasa</title>
+    <desc lang="id">Acara kuliner yang menceritakan cerita dibalik makanan tersebut</desc>
+    <icon src="https://thumbor.prod.vidiocdn.com/jj9luSHlZk2jbvjSgqs3OHK1LOc=/287x162/filters:strip_icc():quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/image/874/kompas-tv-98863c.jpg"/>
+  </programme>
+  <programme channel="874" start="20260509040000 +0000" stop="20260509050000 +0000">
+    <title lang="id">Kompas Siang</title>
+    <desc lang="id">Program berita di siang hari yang memberikan informasi krusial mengenai isu-isu yang sedang berkembang secara terkini</desc>
+    <icon src="https://thumbor.prod.vidiocdn.com/jj9luSHlZk2jbvjSgqs3OHK1LOc=/287x162/filters:strip_icc():quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/image/874/kompas-tv-98863c.jpg"/>
+  </programme>
+  <programme channel="874" start="20260509050000 +0000" stop="20260509053000 +0000">
+    <title lang="id">Borgol</title>
+    <desc lang="id">Acara yang menyuguhkan kumpulan berita - berita kriminal yang terjadi di Indonesia</desc>
+    <icon src="https://thumbor.prod.vidiocdn.com/jj9luSHlZk2jbvjSgqs3OHK1LOc=/287x162/filters:strip_icc():quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/image/874/kompas-tv-98863c.jpg"/>
+  </programme>
+  <programme channel="874" start="20260509053000 +0000" stop="20260509060000 +0000">
+    <title lang="id">News Or Hoax</title>
+    <desc lang="id">Membahas berita tertentu dan mengkategorikannya sebagai berita yang akurat atau hanya rumor</desc>
+    <icon src="https://thumbor.prod.vidiocdn.com/jj9luSHlZk2jbvjSgqs3OHK1LOc=/287x162/filters:strip_icc():quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/image/874/kompas-tv-98863c.jpg"/>
+  </programme>
+  <programme channel="874" start="20260509060000 +0000" stop="20260509063000 +0000">
+    <title lang="id">Dipo Investigasi</title>
+    <desc lang="id">Program investigasi secara mendalam yang dipandu oleh Dipo</desc>
+    <icon src="https://thumbor.prod.vidiocdn.com/jj9luSHlZk2jbvjSgqs3OHK1LOc=/287x162/filters:strip_icc():quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/image/874/kompas-tv-98863c.jpg"/>
+  </programme>
+  <programme channel="874" start="20260509070000 +0000" stop="20260509080000 +0000">
+    <title lang="id">Vvip</title>
+    <desc lang="id">Program blocking</desc>
+    <icon src="https://thumbor.prod.vidiocdn.com/jj9luSHlZk2jbvjSgqs3OHK1LOc=/287x162/filters:strip_icc():quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/image/874/kompas-tv-98863c.jpg"/>
+  </programme>
+  <programme channel="874" start="20260509080000 +0000" stop="20260509090000 +0000">
+    <title lang="id">Breaking News</title>
+    <desc lang="id">Breaking News</desc>
+    <icon src="https://thumbor.prod.vidiocdn.com/jj9luSHlZk2jbvjSgqs3OHK1LOc=/287x162/filters:strip_icc():quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/image/874/kompas-tv-98863c.jpg"/>
+  </programme>
+  <programme channel="874" start="20260509090000 +0000" stop="20260509110000 +0000">
+    <title lang="id">Kompas Petang</title>
+    <desc lang="id">Program berita di Kompas TV yang ditayangkan setiap sore. Program ini menyajikan berita terkini seputar peristiwa, politik, hukum, kriminal, hingga humaniora.</desc>
+    <icon src="https://thumbor.prod.vidiocdn.com/jj9luSHlZk2jbvjSgqs3OHK1LOc=/287x162/filters:strip_icc():quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/image/874/kompas-tv-98863c.jpg"/>
+  </programme>
+  <programme channel="874" start="20260509110000 +0000" stop="20260509113000 +0000">
+    <title lang="id">Gelar Perkara</title>
+    <desc lang="id">Program yang membahas kasus tertentu secara mendalam</desc>
+    <icon src="https://thumbor.prod.vidiocdn.com/jj9luSHlZk2jbvjSgqs3OHK1LOc=/287x162/filters:strip_icc():quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/image/874/kompas-tv-98863c.jpg"/>
+  </programme>
+  <programme channel="874" start="20260509113000 +0000" stop="20260509123000 +0000">
+    <title lang="id">Sapa Indonesia Malam</title>
+    <desc lang="id">Informasi terkini seputar dunia politik, ekonomi, kriminal, olahraga, serta hiburan dari dalam dan luar negeri.</desc>
+    <icon src="https://thumbor.prod.vidiocdn.com/PT3ZyAFAXsGjZMBMz76qgRItqyA=/287x162/filters:strip_icc():quality(70)/vidio-media-production/uploads/tv_program/thumbnail/380294/8f6926.jpg"/>
+  </programme>
+  <programme channel="874" start="20260509123000 +0000" stop="20260509133000 +0000">
+    <title lang="id">Berita Utama</title>
+    <desc lang="id">Program berita reguler di Kompas TV yang dirancang untuk menyampaikan rentetan peristiwa paling penting dan terbaru dari seluruh penjuru Indonesia dan dunia</desc>
+    <icon src="https://thumbor.prod.vidiocdn.com/jj9luSHlZk2jbvjSgqs3OHK1LOc=/287x162/filters:strip_icc():quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/image/874/kompas-tv-98863c.jpg"/>
+  </programme>
+  <programme channel="874" start="20260509133000 +0000" stop="20260509143000 +0000">
+    <title lang="id">Kompas Malam</title>
+    <desc lang="id">Program berita penutup hari di Kompas TV yang menyajikan rangkuman peristiwa secara reflektif, tenang, namun tetap kritis. Program ini hadir untuk memberikan informasi penting yang terjadi sejak pagi hingga menjelang tengah malam</desc>
+    <icon src="https://thumbor.prod.vidiocdn.com/jj9luSHlZk2jbvjSgqs3OHK1LOc=/287x162/filters:strip_icc():quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/image/874/kompas-tv-98863c.jpg"/>
+  </programme>
+  <programme channel="874" start="20260509143000 +0000" stop="20260509163000 +0000">
+    <title lang="id">Suci 12</title>
+    <desc lang="id">Kompetisi Stand Up Comedy Indonesia Season ke 12</desc>
+    <icon src="https://thumbor.prod.vidiocdn.com/jj9luSHlZk2jbvjSgqs3OHK1LOc=/287x162/filters:strip_icc():quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/image/874/kompas-tv-98863c.jpg"/>
+  </programme>
+  <programme channel="874" start="20260509163000 +0000" stop="20260509170000 +0000">
+    <title lang="id">Kilas Kompas</title>
+    <desc lang="id">Program berita menyuguhkan perkembangan terbaru dan berbagai peristiwa penting yang terjadi di seluruh Indonesia.</desc>
+    <icon src="https://thumbor.prod.vidiocdn.com/jj9luSHlZk2jbvjSgqs3OHK1LOc=/287x162/filters:strip_icc():quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/image/874/kompas-tv-98863c.jpg"/>
+  </programme>
+  <programme channel="874" start="20260509163000 +0000" stop="20260509170000 +0000">
+    <title lang="id">Kilas Kompas</title>
+    <desc lang="id">Program berita menyuguhkan perkembangan terbaru dan berbagai peristiwa penting yang terjadi di seluruh Indonesia.</desc>
+    <icon src="https://thumbor.prod.vidiocdn.com/jj9luSHlZk2jbvjSgqs3OHK1LOc=/287x162/filters:strip_icc():quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/image/874/kompas-tv-98863c.jpg"/>
+  </programme>
+  <programme channel="874" start="20260509170000 +0000" stop="20260509180000 +0000">
+    <title lang="id">Rosi</title>
+    <desc lang="id">Program bincang-bincang waktu perdana Indonesia yang dipandu oleh Rosianna Silalahi</desc>
+    <icon src="https://thumbor.prod.vidiocdn.com/wNkzI1fnpsSmenSYonj8RB4BcVc=/287x162/filters:strip_icc():quality(70)/vidio-media-production/uploads/tv_program/thumbnail/380295/827390.jpg"/>
+  </programme>
+  <programme channel="874" start="20260509180000 +0000" stop="20260509190000 +0000">
+    <title lang="id">Kompas Petang</title>
+    <desc lang="id">Program berita di Kompas TV yang ditayangkan setiap sore. Program ini menyajikan berita terkini seputar peristiwa, politik, hukum, kriminal, hingga humaniora.</desc>
+    <icon src="https://thumbor.prod.vidiocdn.com/jj9luSHlZk2jbvjSgqs3OHK1LOc=/287x162/filters:strip_icc():quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/image/874/kompas-tv-98863c.jpg"/>
+  </programme>
+  <programme channel="874" start="20260509190000 +0000" stop="20260509200000 +0000">
+    <title lang="id">Berita Utama</title>
+    <desc lang="id">Program berita reguler di Kompas TV yang dirancang untuk menyampaikan rentetan peristiwa paling penting dan terbaru dari seluruh penjuru Indonesia dan dunia</desc>
+    <icon src="https://thumbor.prod.vidiocdn.com/jj9luSHlZk2jbvjSgqs3OHK1LOc=/287x162/filters:strip_icc():quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/image/874/kompas-tv-98863c.jpg"/>
+  </programme>
+  <programme channel="874" start="20260509200000 +0000" stop="20260509210000 +0000">
+    <title lang="id">Kompas Malam</title>
+    <desc lang="id">Program berita penutup hari di Kompas TV yang menyajikan rangkuman peristiwa secara reflektif, tenang, namun tetap kritis. Program ini hadir untuk memberikan informasi penting yang terjadi sejak pagi hingga menjelang tengah malam</desc>
+    <icon src="https://thumbor.prod.vidiocdn.com/jj9luSHlZk2jbvjSgqs3OHK1LOc=/287x162/filters:strip_icc():quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/image/874/kompas-tv-98863c.jpg"/>
+  </programme>
+  <programme channel="874" start="20260509210000 +0000" stop="20260509213000 +0000">
+    <title lang="id">Borgol</title>
+    <desc lang="id">Acara yang menyuguhkan kumpulan berita - berita kriminal yang terjadi di Indonesia</desc>
+    <icon src="https://thumbor.prod.vidiocdn.com/jj9luSHlZk2jbvjSgqs3OHK1LOc=/287x162/filters:strip_icc():quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/image/874/kompas-tv-98863c.jpg"/>
+  </programme>
+  <programme channel="874" start="20260509213000 +0000" stop="20260509233000 +0000">
+    <title lang="id">Kompas Pagi Akhir Pekan</title>
+    <desc lang="id">Suguhan berita terkini dan peristiwa terhangat dari Indonesia dan mancanegara.</desc>
+    <icon src="https://thumbor.prod.vidiocdn.com/jj9luSHlZk2jbvjSgqs3OHK1LOc=/287x162/filters:strip_icc():quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/image/874/kompas-tv-98863c.jpg"/>
+  </programme>
+  <programme channel="874" start="20260509233000 +0000" stop="20260510000000 +0000">
+    <title lang="id">Jurnal Nusantara</title>
+    <desc lang="id">Program yang meliput berbagai peristiwa di beberapa daerah di Indonesia</desc>
+    <icon src="https://thumbor.prod.vidiocdn.com/jj9luSHlZk2jbvjSgqs3OHK1LOc=/287x162/filters:strip_icc():quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/image/874/kompas-tv-98863c.jpg"/>
+  </programme>
+  <programme channel="874" start="20260510000000 +0000" stop="20260510013000 +0000">
+    <title lang="id">Sapa Indonesia Pagi</title>
+    <desc lang="id">Berita dan laporan sejumlah peristiwa terhangat di berbagai belahan dunia</desc>
+    <icon src="https://thumbor.prod.vidiocdn.com/jj9luSHlZk2jbvjSgqs3OHK1LOc=/287x162/filters:strip_icc():quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/image/874/kompas-tv-98863c.jpg"/>
+  </programme>
+  <programme channel="874" start="20260510013000 +0000" stop="20260510020000 +0000">
+    <title lang="id">News Or Hoax</title>
+    <desc lang="id">Membahas berita tertentu dan mengkategorikannya sebagai berita yang akurat atau hanya rumor</desc>
+    <icon src="https://thumbor.prod.vidiocdn.com/jj9luSHlZk2jbvjSgqs3OHK1LOc=/287x162/filters:strip_icc():quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/image/874/kompas-tv-98863c.jpg"/>
+  </programme>
+  <programme channel="874" start="20260510020000 +0000" stop="20260510023000 +0000">
+    <title lang="id">Kompas Sepekan</title>
+    <desc lang="id">Program yang berisikan kumpulan berita selama sepekan</desc>
+    <icon src="https://thumbor.prod.vidiocdn.com/jj9luSHlZk2jbvjSgqs3OHK1LOc=/287x162/filters:strip_icc():quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/image/874/kompas-tv-98863c.jpg"/>
+  </programme>
+  <programme channel="874" start="20260510023000 +0000" stop="20260510030000 +0000">
+    <title lang="id">Pop News</title>
+    <desc lang="id">Menyuguhkan rangkuman berbagai kabar dan berita terhangat dari dalam dan luar negeri.</desc>
+    <icon src="https://thumbor.prod.vidiocdn.com/jj9luSHlZk2jbvjSgqs3OHK1LOc=/287x162/filters:strip_icc():quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/image/874/kompas-tv-98863c.jpg"/>
+  </programme>
+  <programme channel="874" start="20260510030000 +0000" stop="20260510033000 +0000">
+    <title lang="id">Cerita Rasa</title>
+    <desc lang="id">Acara kuliner yang menceritakan cerita dibalik makanan tersebut</desc>
+    <icon src="https://thumbor.prod.vidiocdn.com/jj9luSHlZk2jbvjSgqs3OHK1LOc=/287x162/filters:strip_icc():quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/image/874/kompas-tv-98863c.jpg"/>
+  </programme>
+  <programme channel="874" start="20260510033000 +0000" stop="20260510040000 +0000">
+    <title lang="id">Jalan - Jalan</title>
+    <desc lang="id">Program yang mengajak pemirsa untuk mengeksplorasi kekayaan alam, budaya, dan kuliner Indonesia dengan gaya yang edukatif dan inspiratif</desc>
+    <icon src="https://thumbor.prod.vidiocdn.com/jj9luSHlZk2jbvjSgqs3OHK1LOc=/287x162/filters:strip_icc():quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/image/874/kompas-tv-98863c.jpg"/>
+  </programme>
+  <programme channel="874" start="20260510040000 +0000" stop="20260510050000 +0000">
+    <title lang="id">Kompas Siang</title>
+    <desc lang="id">Program berita di siang hari yang memberikan informasi krusial mengenai isu-isu yang sedang berkembang secara terkini</desc>
+    <icon src="https://thumbor.prod.vidiocdn.com/jj9luSHlZk2jbvjSgqs3OHK1LOc=/287x162/filters:strip_icc():quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/image/874/kompas-tv-98863c.jpg"/>
+  </programme>
+  <programme channel="874" start="20260510050000 +0000" stop="20260510060000 +0000">
+    <title lang="id">Breaking News</title>
+    <desc lang="id">Breaking News</desc>
+    <icon src="https://thumbor.prod.vidiocdn.com/jj9luSHlZk2jbvjSgqs3OHK1LOc=/287x162/filters:strip_icc():quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/image/874/kompas-tv-98863c.jpg"/>
+  </programme>
+  <programme channel="874" start="20260510060000 +0000" stop="20260510070000 +0000">
+    <title lang="id">Kalam Hati</title>
+    <desc lang="id">Program religi yang menghadirkan dialog spiritual secara mendalam namun tetap ringan dan menyejukkan</desc>
+    <icon src="https://thumbor.prod.vidiocdn.com/jj9luSHlZk2jbvjSgqs3OHK1LOc=/287x162/filters:strip_icc():quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/image/874/kompas-tv-98863c.jpg"/>
+  </programme>
+  <programme channel="874" start="20260510070000 +0000" stop="20260510080000 +0000">
+    <title lang="id">Vvip</title>
+    <desc lang="id">Program blocking</desc>
+    <icon src="https://thumbor.prod.vidiocdn.com/jj9luSHlZk2jbvjSgqs3OHK1LOc=/287x162/filters:strip_icc():quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/image/874/kompas-tv-98863c.jpg"/>
+  </programme>
+  <programme channel="874" start="20260510080000 +0000" stop="20260510090000 +0000">
+    <title lang="id">Breaking News</title>
+    <desc lang="id">Breaking News</desc>
+    <icon src="https://thumbor.prod.vidiocdn.com/jj9luSHlZk2jbvjSgqs3OHK1LOc=/287x162/filters:strip_icc():quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/image/874/kompas-tv-98863c.jpg"/>
+  </programme>
+  <programme channel="874" start="20260510090000 +0000" stop="20260510103000 +0000">
+    <title lang="id">Kompas Petang</title>
+    <desc lang="id">Program berita di Kompas TV yang ditayangkan setiap sore. Program ini menyajikan berita terkini seputar peristiwa, politik, hukum, kriminal, hingga humaniora.</desc>
+    <icon src="https://thumbor.prod.vidiocdn.com/jj9luSHlZk2jbvjSgqs3OHK1LOc=/287x162/filters:strip_icc():quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/image/874/kompas-tv-98863c.jpg"/>
+  </programme>
+  <programme channel="874" start="20260510103000 +0000" stop="20260510113000 +0000">
+    <title lang="id">60 Menit Spesial Report</title>
+    <desc lang="id">Program laporan khusus yang membahas tema tertentu secara mendalam</desc>
+    <icon src="https://thumbor.prod.vidiocdn.com/jj9luSHlZk2jbvjSgqs3OHK1LOc=/287x162/filters:strip_icc():quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/image/874/kompas-tv-98863c.jpg"/>
+  </programme>
+  <programme channel="874" start="20260510113000 +0000" stop="20260510123000 +0000">
+    <title lang="id">Sapa Indonesia Malam</title>
+    <desc lang="id">Informasi terkini seputar dunia politik, ekonomi, kriminal, olahraga, serta hiburan dari dalam dan luar negeri.</desc>
+    <icon src="https://thumbor.prod.vidiocdn.com/PT3ZyAFAXsGjZMBMz76qgRItqyA=/287x162/filters:strip_icc():quality(70)/vidio-media-production/uploads/tv_program/thumbnail/380294/8f6926.jpg"/>
+  </programme>
+  <programme channel="874" start="20260510123000 +0000" stop="20260510133000 +0000">
+    <title lang="id">Berita Utama</title>
+    <desc lang="id">Program berita reguler di Kompas TV yang dirancang untuk menyampaikan rentetan peristiwa paling penting dan terbaru dari seluruh penjuru Indonesia dan dunia</desc>
+    <icon src="https://thumbor.prod.vidiocdn.com/jj9luSHlZk2jbvjSgqs3OHK1LOc=/287x162/filters:strip_icc():quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/image/874/kompas-tv-98863c.jpg"/>
+  </programme>
+  <programme channel="874" start="20260510133000 +0000" stop="20260510143000 +0000">
+    <title lang="id">Kompas Malam</title>
+    <desc lang="id">Program berita penutup hari di Kompas TV yang menyajikan rangkuman peristiwa secara reflektif, tenang, namun tetap kritis. Program ini hadir untuk memberikan informasi penting yang terjadi sejak pagi hingga menjelang tengah malam</desc>
+    <icon src="https://thumbor.prod.vidiocdn.com/jj9luSHlZk2jbvjSgqs3OHK1LOc=/287x162/filters:strip_icc():quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/image/874/kompas-tv-98863c.jpg"/>
+  </programme>
+  <programme channel="874" start="20260510143000 +0000" stop="20260510164500 +0000">
+    <title lang="id">Eredivisie 2025/26 Afc Ajax vs FC Utrecht</title>
+    <desc lang="id">Khusus pada jam tayang ini, program tidak mendapatkan rights untuk tayang di OTT, Pay TV dan platform digital lainnya (Program hanya tayang di FTA Kompas TV)</desc>
+    <icon src="https://thumbor.prod.vidiocdn.com/jj9luSHlZk2jbvjSgqs3OHK1LOc=/287x162/filters:strip_icc():quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/image/874/kompas-tv-98863c.jpg"/>
+  </programme>
+  <programme channel="874" start="20260510164500 +0000" stop="20260510181500 +0000">
+    <title lang="id">Bola Liar</title>
+    <desc lang="id">Program diskusi bersama beberapa narasumber yang membahas tema tertentu secara mendalam</desc>
+    <icon src="https://thumbor.prod.vidiocdn.com/jj9luSHlZk2jbvjSgqs3OHK1LOc=/287x162/filters:strip_icc():quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/image/874/kompas-tv-98863c.jpg"/>
+  </programme>
+  <programme channel="874" start="20260510164500 +0000" stop="20260510181500 +0000">
+    <title lang="id">Bola Liar</title>
+    <desc lang="id">Program diskusi bersama beberapa narasumber yang membahas tema tertentu secara mendalam</desc>
+    <icon src="https://thumbor.prod.vidiocdn.com/jj9luSHlZk2jbvjSgqs3OHK1LOc=/287x162/filters:strip_icc():quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/image/874/kompas-tv-98863c.jpg"/>
+  </programme>
+  <programme channel="874" start="20260510181500 +0000" stop="20260510190000 +0000">
+    <title lang="id">Breaking News</title>
+    <desc lang="id">Breaking News</desc>
+    <icon src="https://thumbor.prod.vidiocdn.com/jj9luSHlZk2jbvjSgqs3OHK1LOc=/287x162/filters:strip_icc():quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/image/874/kompas-tv-98863c.jpg"/>
+  </programme>
+  <programme channel="874" start="20260510190000 +0000" stop="20260510200000 +0000">
+    <title lang="id">Berita Utama</title>
+    <desc lang="id">Program berita reguler di Kompas TV yang dirancang untuk menyampaikan rentetan peristiwa paling penting dan terbaru dari seluruh penjuru Indonesia dan dunia</desc>
+    <icon src="https://thumbor.prod.vidiocdn.com/jj9luSHlZk2jbvjSgqs3OHK1LOc=/287x162/filters:strip_icc():quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/image/874/kompas-tv-98863c.jpg"/>
+  </programme>
+  <programme channel="874" start="20260510200000 +0000" stop="20260510210000 +0000">
+    <title lang="id">Kalam Hati</title>
+    <desc lang="id">Program religi yang menghadirkan dialog spiritual secara mendalam namun tetap ringan dan menyejukkan</desc>
+    <icon src="https://thumbor.prod.vidiocdn.com/jj9luSHlZk2jbvjSgqs3OHK1LOc=/287x162/filters:strip_icc():quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/image/874/kompas-tv-98863c.jpg"/>
+  </programme>
+  <programme channel="874" start="20260510210000 +0000" stop="20260510213000 +0000">
+    <title lang="id">Borgol</title>
+    <desc lang="id">Acara yang menyuguhkan kumpulan berita - berita kriminal yang terjadi di Indonesia</desc>
+    <icon src="https://thumbor.prod.vidiocdn.com/jj9luSHlZk2jbvjSgqs3OHK1LOc=/287x162/filters:strip_icc():quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/image/874/kompas-tv-98863c.jpg"/>
+  </programme>
+  <programme channel="874" start="20260510213000 +0000" stop="20260510233000 +0000">
+    <title lang="id">Kompas Pagi</title>
+    <desc lang="id">Suguhan berita terkini dan peristiwa terhangat dari Indonesia dan mancanegara.</desc>
+    <icon src="https://thumbor.prod.vidiocdn.com/jj9luSHlZk2jbvjSgqs3OHK1LOc=/287x162/filters:strip_icc():quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/image/874/kompas-tv-98863c.jpg"/>
+  </programme>
+  <programme channel="874" start="20260510233000 +0000" stop="20260511000000 +0000">
+    <title lang="id">Jurnal Nusantara</title>
+    <desc lang="id">Program yang meliput berbagai peristiwa di beberapa daerah di Indonesia</desc>
+    <icon src="https://thumbor.prod.vidiocdn.com/jj9luSHlZk2jbvjSgqs3OHK1LOc=/287x162/filters:strip_icc():quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/image/874/kompas-tv-98863c.jpg"/>
+  </programme>
+  <programme channel="874" start="20260511000000 +0000" stop="20260511023000 +0000">
+    <title lang="id">Sapa Indonesia Pagi</title>
+    <desc lang="id">Berita dan laporan sejumlah peristiwa terhangat di berbagai belahan dunia</desc>
+    <icon src="https://thumbor.prod.vidiocdn.com/jj9luSHlZk2jbvjSgqs3OHK1LOc=/287x162/filters:strip_icc():quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/image/874/kompas-tv-98863c.jpg"/>
+  </programme>
+  <programme channel="874" start="20260511023000 +0000" stop="20260511033000 +0000">
+    <title lang="id">Berita Utama</title>
+    <desc lang="id">Program berita reguler di Kompas TV yang dirancang untuk menyampaikan rentetan peristiwa paling penting dan terbaru dari seluruh penjuru Indonesia dan dunia</desc>
+    <icon src="https://thumbor.prod.vidiocdn.com/jj9luSHlZk2jbvjSgqs3OHK1LOc=/287x162/filters:strip_icc():quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/image/874/kompas-tv-98863c.jpg"/>
+  </programme>
+  <programme channel="874" start="20260511033000 +0000" stop="20260511040000 +0000">
+    <title lang="id">Borgol</title>
+    <desc lang="id">Acara yang menyuguhkan kumpulan berita - berita kriminal yang terjadi di Indonesia</desc>
+    <icon src="https://thumbor.prod.vidiocdn.com/jj9luSHlZk2jbvjSgqs3OHK1LOc=/287x162/filters:strip_icc():quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/image/874/kompas-tv-98863c.jpg"/>
+  </programme>
+  <programme channel="874" start="20260511040000 +0000" stop="20260511060000 +0000">
+    <title lang="id">Kompas Siang</title>
+    <desc lang="id">Program berita di siang hari yang memberikan informasi krusial mengenai isu-isu yang sedang berkembang secara terkini</desc>
+    <icon src="https://thumbor.prod.vidiocdn.com/jj9luSHlZk2jbvjSgqs3OHK1LOc=/287x162/filters:strip_icc():quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/image/874/kompas-tv-98863c.jpg"/>
+  </programme>
+  <programme channel="874" start="20260511060000 +0000" stop="20260511070000 +0000">
+    <title lang="id">Sapa Indonesia Siang</title>
+    <desc lang="id">Berita dan laporan sejumlah peristiwa terhangat di berbagai belahan dunia</desc>
+    <icon src="https://thumbor.prod.vidiocdn.com/jj9luSHlZk2jbvjSgqs3OHK1LOc=/287x162/filters:strip_icc():quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/image/874/kompas-tv-98863c.jpg"/>
+  </programme>
+  <programme channel="874" start="20260511070000 +0000" stop="20260511073000 +0000">
+    <title lang="id">Pop News</title>
+    <desc lang="id">Menyuguhkan rangkuman berbagai kabar dan berita terhangat dari dalam dan luar negeri.</desc>
+    <icon src="https://thumbor.prod.vidiocdn.com/jj9luSHlZk2jbvjSgqs3OHK1LOc=/287x162/filters:strip_icc():quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/image/874/kompas-tv-98863c.jpg"/>
+  </programme>
+  <programme channel="874" start="20260511073000 +0000" stop="20260511080000 +0000">
+    <title lang="id">Jurnal Merah Putih</title>
+    <desc lang="id">Program yang membahas tentang kebijakan Pemerintahan Prabowo-Gibran</desc>
+    <icon src="https://thumbor.prod.vidiocdn.com/jj9luSHlZk2jbvjSgqs3OHK1LOc=/287x162/filters:strip_icc():quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/image/874/kompas-tv-98863c.jpg"/>
+  </programme>
+  <programme channel="874" start="20260511080000 +0000" stop="20260511083000 +0000">
+    <title lang="id">Indonesia Update</title>
+    <desc lang="id">Program berita menyuguhkan perkembangan terbaru dan berbagai peristiwa penting yang terjadi di seluruh Indonesia.</desc>
+    <icon src="https://thumbor.prod.vidiocdn.com/jj9luSHlZk2jbvjSgqs3OHK1LOc=/287x162/filters:strip_icc():quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/image/874/kompas-tv-98863c.jpg"/>
+  </programme>
+  <programme channel="874" start="20260511083000 +0000" stop="20260511090000 +0000">
+    <title lang="id">Borgol</title>
+    <desc lang="id">Acara yang menyuguhkan kumpulan berita - berita kriminal yang terjadi di Indonesia</desc>
+    <icon src="https://thumbor.prod.vidiocdn.com/jj9luSHlZk2jbvjSgqs3OHK1LOc=/287x162/filters:strip_icc():quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/image/874/kompas-tv-98863c.jpg"/>
+  </programme>
+  <programme channel="874" start="20260511090000 +0000" stop="20260511103000 +0000">
+    <title lang="id">Kompas Petang</title>
+    <desc lang="id">Program berita di Kompas TV yang ditayangkan setiap sore. Program ini menyajikan berita terkini seputar peristiwa, politik, hukum, kriminal, hingga humaniora.</desc>
+    <icon src="https://thumbor.prod.vidiocdn.com/jj9luSHlZk2jbvjSgqs3OHK1LOc=/287x162/filters:strip_icc():quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/image/874/kompas-tv-98863c.jpg"/>
+  </programme>
+  <programme channel="874" start="20260511103000 +0000" stop="20260511123000 +0000">
+    <title lang="id">Sapa Indonesia Malam</title>
+    <desc lang="id">Informasi terkini seputar dunia politik, ekonomi, kriminal, olahraga, serta hiburan dari dalam dan luar negeri.</desc>
+    <icon src="https://thumbor.prod.vidiocdn.com/PT3ZyAFAXsGjZMBMz76qgRItqyA=/287x162/filters:strip_icc():quality(70)/vidio-media-production/uploads/tv_program/thumbnail/380294/8f6926.jpg"/>
+  </programme>
+  <programme channel="874" start="20260511123000 +0000" stop="20260511133000 +0000">
+    <title lang="id">Berita Utama</title>
+    <desc lang="id">Program berita reguler di Kompas TV yang dirancang untuk menyampaikan rentetan peristiwa paling penting dan terbaru dari seluruh penjuru Indonesia dan dunia</desc>
+    <icon src="https://thumbor.prod.vidiocdn.com/jj9luSHlZk2jbvjSgqs3OHK1LOc=/287x162/filters:strip_icc():quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/image/874/kompas-tv-98863c.jpg"/>
+  </programme>
+  <programme channel="874" start="20260511133000 +0000" stop="20260511143000 +0000">
+    <title lang="id">Dipo Investigasi</title>
+    <desc lang="id">Program investigasi secara mendalam yang dipandu oleh Dipo</desc>
+    <icon src="https://thumbor.prod.vidiocdn.com/jj9luSHlZk2jbvjSgqs3OHK1LOc=/287x162/filters:strip_icc():quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/image/874/kompas-tv-98863c.jpg"/>
+  </programme>
+  <programme channel="874" start="20260511143000 +0000" stop="20260511153000 +0000">
+    <title lang="id">Kompas Malam</title>
+    <desc lang="id">Program berita penutup hari di Kompas TV yang menyajikan rangkuman peristiwa secara reflektif, tenang, namun tetap kritis. Program ini hadir untuk memberikan informasi penting yang terjadi sejak pagi hingga menjelang tengah malam</desc>
+    <icon src="https://thumbor.prod.vidiocdn.com/jj9luSHlZk2jbvjSgqs3OHK1LOc=/287x162/filters:strip_icc():quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/image/874/kompas-tv-98863c.jpg"/>
+  </programme>
+  <programme channel="874" start="20260511153000 +0000" stop="20260511160000 +0000">
+    <title lang="id">Berita Utama</title>
+    <desc lang="id">Program berita reguler di Kompas TV yang dirancang untuk menyampaikan rentetan peristiwa paling penting dan terbaru dari seluruh penjuru Indonesia dan dunia</desc>
+    <icon src="https://thumbor.prod.vidiocdn.com/jj9luSHlZk2jbvjSgqs3OHK1LOc=/287x162/filters:strip_icc():quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/image/874/kompas-tv-98863c.jpg"/>
+  </programme>
+  <programme channel="874" start="20260511160000 +0000" stop="20260511163000 +0000">
+    <title lang="id">Kompas Sport</title>
+    <desc lang="id">Acara yang menampilkan berita olahraga baik dalam negeri maupun mancanegara</desc>
+    <icon src="https://thumbor.prod.vidiocdn.com/jj9luSHlZk2jbvjSgqs3OHK1LOc=/287x162/filters:strip_icc():quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/image/874/kompas-tv-98863c.jpg"/>
+  </programme>
+  <programme channel="874" start="20260511163000 +0000" stop="20260511170000 +0000">
+    <title lang="id">Kilas Kompas</title>
+    <desc lang="id">Program berita menyuguhkan perkembangan terbaru dan berbagai peristiwa penting yang terjadi di seluruh Indonesia.</desc>
+    <icon src="https://thumbor.prod.vidiocdn.com/jj9luSHlZk2jbvjSgqs3OHK1LOc=/287x162/filters:strip_icc():quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/image/874/kompas-tv-98863c.jpg"/>
+  </programme>
+  <programme channel="874" start="20260511163000 +0000" stop="20260511170000 +0000">
+    <title lang="id">Kilas Kompas</title>
+    <desc lang="id">Program berita menyuguhkan perkembangan terbaru dan berbagai peristiwa penting yang terjadi di seluruh Indonesia.</desc>
+    <icon src="https://thumbor.prod.vidiocdn.com/jj9luSHlZk2jbvjSgqs3OHK1LOc=/287x162/filters:strip_icc():quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/image/874/kompas-tv-98863c.jpg"/>
+  </programme>
+  <programme channel="874" start="20260511170000 +0000" stop="20260511183000 +0000">
+    <title lang="id">Eredivisie 2025/26 Go Ahead Eagles vs PSV Eindhoven</title>
+    <desc lang="id">Khusus pada jam tayang ini, program tidak mendapatkan rights untuk tayang di OTT, Pay TV dan platform digital lainnya (Program hanya tayang di FTA Kompas TV)</desc>
+    <icon src="https://thumbor.prod.vidiocdn.com/jj9luSHlZk2jbvjSgqs3OHK1LOc=/287x162/filters:strip_icc():quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/image/874/kompas-tv-98863c.jpg"/>
+  </programme>
+  <programme channel="874" start="20260511183000 +0000" stop="20260511193000 +0000">
+    <title lang="id">Berita Utama</title>
+    <desc lang="id">Program berita reguler di Kompas TV yang dirancang untuk menyampaikan rentetan peristiwa paling penting dan terbaru dari seluruh penjuru Indonesia dan dunia</desc>
+    <icon src="https://thumbor.prod.vidiocdn.com/jj9luSHlZk2jbvjSgqs3OHK1LOc=/287x162/filters:strip_icc():quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/image/874/kompas-tv-98863c.jpg"/>
+  </programme>
+  <programme channel="874" start="20260511193000 +0000" stop="20260511200000 +0000">
+    <title lang="id">Indonesia Update</title>
+    <desc lang="id">Program berita menyuguhkan perkembangan terbaru dan berbagai peristiwa penting yang terjadi di seluruh Indonesia.</desc>
+    <icon src="https://thumbor.prod.vidiocdn.com/jj9luSHlZk2jbvjSgqs3OHK1LOc=/287x162/filters:strip_icc():quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/image/874/kompas-tv-98863c.jpg"/>
+  </programme>
+  <programme channel="874" start="20260511200000 +0000" stop="20260511210000 +0000">
+    <title lang="id">Kalam Hati</title>
+    <desc lang="id">Program religi yang menghadirkan dialog spiritual secara mendalam namun tetap ringan dan menyejukkan</desc>
+    <icon src="https://thumbor.prod.vidiocdn.com/jj9luSHlZk2jbvjSgqs3OHK1LOc=/287x162/filters:strip_icc():quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/image/874/kompas-tv-98863c.jpg"/>
+  </programme>
+  <programme channel="874" start="20260511210000 +0000" stop="20260511213000 +0000">
+    <title lang="id">Borgol</title>
+    <desc lang="id">Acara yang menyuguhkan kumpulan berita - berita kriminal yang terjadi di Indonesia</desc>
+    <icon src="https://thumbor.prod.vidiocdn.com/jj9luSHlZk2jbvjSgqs3OHK1LOc=/287x162/filters:strip_icc():quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/image/874/kompas-tv-98863c.jpg"/>
+  </programme>
+  <programme channel="874" start="20260511213000 +0000" stop="20260511233000 +0000">
+    <title lang="id">Kompas Pagi</title>
+    <desc lang="id">Suguhan berita terkini dan peristiwa terhangat dari Indonesia dan mancanegara.</desc>
+    <icon src="https://thumbor.prod.vidiocdn.com/jj9luSHlZk2jbvjSgqs3OHK1LOc=/287x162/filters:strip_icc():quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/image/874/kompas-tv-98863c.jpg"/>
+  </programme>
+  <programme channel="874" start="20260511233000 +0000" stop="20260512000000 +0000">
+    <title lang="id">Jurnal Nusantara</title>
+    <desc lang="id">Program yang meliput berbagai peristiwa di beberapa daerah di Indonesia</desc>
+    <icon src="https://thumbor.prod.vidiocdn.com/jj9luSHlZk2jbvjSgqs3OHK1LOc=/287x162/filters:strip_icc():quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/image/874/kompas-tv-98863c.jpg"/>
+  </programme>
+  <programme channel="874" start="20260512000000 +0000" stop="20260512023000 +0000">
+    <title lang="id">Sapa Indonesia Pagi</title>
+    <desc lang="id">Berita dan laporan sejumlah peristiwa terhangat di berbagai belahan dunia</desc>
+    <icon src="https://thumbor.prod.vidiocdn.com/jj9luSHlZk2jbvjSgqs3OHK1LOc=/287x162/filters:strip_icc():quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/image/874/kompas-tv-98863c.jpg"/>
+  </programme>
+  <programme channel="874" start="20260512023000 +0000" stop="20260512033000 +0000">
+    <title lang="id">Berita Utama</title>
+    <desc lang="id">Program berita reguler di Kompas TV yang dirancang untuk menyampaikan rentetan peristiwa paling penting dan terbaru dari seluruh penjuru Indonesia dan dunia</desc>
+    <icon src="https://thumbor.prod.vidiocdn.com/jj9luSHlZk2jbvjSgqs3OHK1LOc=/287x162/filters:strip_icc():quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/image/874/kompas-tv-98863c.jpg"/>
+  </programme>
+  <programme channel="874" start="20260512033000 +0000" stop="20260512040000 +0000">
+    <title lang="id">Borgol</title>
+    <desc lang="id">Acara yang menyuguhkan kumpulan berita - berita kriminal yang terjadi di Indonesia</desc>
+    <icon src="https://thumbor.prod.vidiocdn.com/jj9luSHlZk2jbvjSgqs3OHK1LOc=/287x162/filters:strip_icc():quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/image/874/kompas-tv-98863c.jpg"/>
+  </programme>
+  <programme channel="874" start="20260512040000 +0000" stop="20260512060000 +0000">
+    <title lang="id">Kompas Siang</title>
+    <desc lang="id">Program berita di siang hari yang memberikan informasi krusial mengenai isu-isu yang sedang berkembang secara terkini</desc>
+    <icon src="https://thumbor.prod.vidiocdn.com/jj9luSHlZk2jbvjSgqs3OHK1LOc=/287x162/filters:strip_icc():quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/image/874/kompas-tv-98863c.jpg"/>
+  </programme>
+  <programme channel="874" start="20260512060000 +0000" stop="20260512070000 +0000">
+    <title lang="id">Sapa Indonesia Siang</title>
+    <desc lang="id">Berita dan laporan sejumlah peristiwa terhangat di berbagai belahan dunia</desc>
+    <icon src="https://thumbor.prod.vidiocdn.com/jj9luSHlZk2jbvjSgqs3OHK1LOc=/287x162/filters:strip_icc():quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/image/874/kompas-tv-98863c.jpg"/>
+  </programme>
+  <programme channel="874" start="20260512070000 +0000" stop="20260512073000 +0000">
+    <title lang="id">Pop News</title>
+    <desc lang="id">Menyuguhkan rangkuman berbagai kabar dan berita terhangat dari dalam dan luar negeri.</desc>
+    <icon src="https://thumbor.prod.vidiocdn.com/jj9luSHlZk2jbvjSgqs3OHK1LOc=/287x162/filters:strip_icc():quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/image/874/kompas-tv-98863c.jpg"/>
+  </programme>
+  <programme channel="874" start="20260512073000 +0000" stop="20260512080000 +0000">
+    <title lang="id">Jurnal Merah Putih</title>
+    <desc lang="id">Program yang membahas tentang kebijakan Pemerintahan Prabowo-Gibran</desc>
+    <icon src="https://thumbor.prod.vidiocdn.com/jj9luSHlZk2jbvjSgqs3OHK1LOc=/287x162/filters:strip_icc():quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/image/874/kompas-tv-98863c.jpg"/>
+  </programme>
+  <programme channel="874" start="20260512080000 +0000" stop="20260512083000 +0000">
+    <title lang="id">Indonesia Update</title>
+    <desc lang="id">Program berita menyuguhkan perkembangan terbaru dan berbagai peristiwa penting yang terjadi di seluruh Indonesia.</desc>
+    <icon src="https://thumbor.prod.vidiocdn.com/jj9luSHlZk2jbvjSgqs3OHK1LOc=/287x162/filters:strip_icc():quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/image/874/kompas-tv-98863c.jpg"/>
+  </programme>
+  <programme channel="874" start="20260512083000 +0000" stop="20260512090000 +0000">
+    <title lang="id">Borgol</title>
+    <desc lang="id">Acara yang menyuguhkan kumpulan berita - berita kriminal yang terjadi di Indonesia</desc>
+    <icon src="https://thumbor.prod.vidiocdn.com/jj9luSHlZk2jbvjSgqs3OHK1LOc=/287x162/filters:strip_icc():quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/image/874/kompas-tv-98863c.jpg"/>
+  </programme>
+  <programme channel="874" start="20260512090000 +0000" stop="20260512103000 +0000">
+    <title lang="id">Kompas Petang</title>
+    <desc lang="id">Program berita di Kompas TV yang ditayangkan setiap sore. Program ini menyajikan berita terkini seputar peristiwa, politik, hukum, kriminal, hingga humaniora.</desc>
+    <icon src="https://thumbor.prod.vidiocdn.com/jj9luSHlZk2jbvjSgqs3OHK1LOc=/287x162/filters:strip_icc():quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/image/874/kompas-tv-98863c.jpg"/>
+  </programme>
+  <programme channel="874" start="20260512103000 +0000" stop="20260512123000 +0000">
+    <title lang="id">Sapa Indonesia Malam</title>
+    <desc lang="id">Informasi terkini seputar dunia politik, ekonomi, kriminal, olahraga, serta hiburan dari dalam dan luar negeri.</desc>
+    <icon src="https://thumbor.prod.vidiocdn.com/PT3ZyAFAXsGjZMBMz76qgRItqyA=/287x162/filters:strip_icc():quality(70)/vidio-media-production/uploads/tv_program/thumbnail/380294/8f6926.jpg"/>
+  </programme>
+  <programme channel="874" start="20260512123000 +0000" stop="20260512133000 +0000">
+    <title lang="id">Berita Utama</title>
+    <desc lang="id">Program berita reguler di Kompas TV yang dirancang untuk menyampaikan rentetan peristiwa paling penting dan terbaru dari seluruh penjuru Indonesia dan dunia</desc>
+    <icon src="https://thumbor.prod.vidiocdn.com/jj9luSHlZk2jbvjSgqs3OHK1LOc=/287x162/filters:strip_icc():quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/image/874/kompas-tv-98863c.jpg"/>
+  </programme>
+  <programme channel="874" start="20260512133000 +0000" stop="20260512143000 +0000">
+    <title lang="id">Kompas Malam</title>
+    <desc lang="id">Program berita penutup hari di Kompas TV yang menyajikan rangkuman peristiwa secara reflektif, tenang, namun tetap kritis. Program ini hadir untuk memberikan informasi penting yang terjadi sejak pagi hingga menjelang tengah malam</desc>
+    <icon src="https://thumbor.prod.vidiocdn.com/jj9luSHlZk2jbvjSgqs3OHK1LOc=/287x162/filters:strip_icc():quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/image/874/kompas-tv-98863c.jpg"/>
+  </programme>
+  <programme channel="874" start="20260512143000 +0000" stop="20260512150000 +0000">
+    <title lang="id">Laporan Khusus</title>
+    <desc lang="id">Laporan khusus seputar berbagai isu dan peristiwa yang berhasil menyedot perhatian masyarakat dalam sepekan terakhir</desc>
+    <icon src="https://thumbor.prod.vidiocdn.com/jj9luSHlZk2jbvjSgqs3OHK1LOc=/287x162/filters:strip_icc():quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/image/874/kompas-tv-98863c.jpg"/>
+  </programme>
+  <programme channel="874" start="20260512150000 +0000" stop="20260512160000 +0000">
+    <title lang="id">B-Talk</title>
+    <desc lang="id">Program yang membahas tentang tema bisnis dan ekonomi secara mendalam</desc>
+    <icon src="https://thumbor.prod.vidiocdn.com/jj9luSHlZk2jbvjSgqs3OHK1LOc=/287x162/filters:strip_icc():quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/image/874/kompas-tv-98863c.jpg"/>
+  </programme>
+  <programme channel="874" start="20260512160000 +0000" stop="20260512163000 +0000">
+    <title lang="id">Berkas Kompas</title>
+    <desc lang="id">Mengulas seputar isu-isu terkini, skandal publik, berbagai ketidakadilan dan ketimpangan, kemiskinan, hingga kasus-kasus kejahatan yang tengah menjadi perbincangan hangat di tengah masyarakat.</desc>
+    <icon src="https://thumbor.prod.vidiocdn.com/jj9luSHlZk2jbvjSgqs3OHK1LOc=/287x162/filters:strip_icc():quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/image/874/kompas-tv-98863c.jpg"/>
+  </programme>
+  <programme channel="874" start="20260512163000 +0000" stop="20260512170000 +0000">
+    <title lang="id">Kilas Kompas</title>
+    <desc lang="id">Program berita menyuguhkan perkembangan terbaru dan berbagai peristiwa penting yang terjadi di seluruh Indonesia.</desc>
+    <icon src="https://thumbor.prod.vidiocdn.com/jj9luSHlZk2jbvjSgqs3OHK1LOc=/287x162/filters:strip_icc():quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/image/874/kompas-tv-98863c.jpg"/>
+  </programme>
+  <programme channel="874" start="20260512163000 +0000" stop="20260512170000 +0000">
+    <title lang="id">Kilas Kompas</title>
+    <desc lang="id">Program berita menyuguhkan perkembangan terbaru dan berbagai peristiwa penting yang terjadi di seluruh Indonesia.</desc>
+    <icon src="https://thumbor.prod.vidiocdn.com/jj9luSHlZk2jbvjSgqs3OHK1LOc=/287x162/filters:strip_icc():quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/image/874/kompas-tv-98863c.jpg"/>
+  </programme>
+  <programme channel="874" start="20260512170000 +0000" stop="20260512173000 +0000">
+    <title lang="id">Kompas Sport</title>
+    <desc lang="id">Acara yang menampilkan berita olahraga baik dalam negeri maupun mancanegara</desc>
+    <icon src="https://thumbor.prod.vidiocdn.com/jj9luSHlZk2jbvjSgqs3OHK1LOc=/287x162/filters:strip_icc():quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/image/874/kompas-tv-98863c.jpg"/>
+  </programme>
+  <programme channel="874" start="20260512173000 +0000" stop="20260512180000 +0000">
+    <title lang="id">Berita Utama</title>
+    <desc lang="id">Program berita reguler di Kompas TV yang dirancang untuk menyampaikan rentetan peristiwa paling penting dan terbaru dari seluruh penjuru Indonesia dan dunia</desc>
+    <icon src="https://thumbor.prod.vidiocdn.com/jj9luSHlZk2jbvjSgqs3OHK1LOc=/287x162/filters:strip_icc():quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/image/874/kompas-tv-98863c.jpg"/>
+  </programme>
+  <programme channel="874" start="20260512180000 +0000" stop="20260512190000 +0000">
+    <title lang="id">Kompas Petang</title>
+    <desc lang="id">Program berita di Kompas TV yang ditayangkan setiap sore. Program ini menyajikan berita terkini seputar peristiwa, politik, hukum, kriminal, hingga humaniora.</desc>
+    <icon src="https://thumbor.prod.vidiocdn.com/jj9luSHlZk2jbvjSgqs3OHK1LOc=/287x162/filters:strip_icc():quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/image/874/kompas-tv-98863c.jpg"/>
+  </programme>
+  <programme channel="874" start="20260512200000 +0000" stop="20260512210000 +0000">
+    <title lang="id">Berita Utama</title>
+    <desc lang="id">Program berita reguler di Kompas TV yang dirancang untuk menyampaikan rentetan peristiwa paling penting dan terbaru dari seluruh penjuru Indonesia dan dunia</desc>
+    <icon src="https://thumbor.prod.vidiocdn.com/jj9luSHlZk2jbvjSgqs3OHK1LOc=/287x162/filters:strip_icc():quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/image/874/kompas-tv-98863c.jpg"/>
+  </programme>
+  <programme channel="874" start="20260512210000 +0000" stop="20260512213000 +0000">
+    <title lang="id">Borgol</title>
+    <desc lang="id">Acara yang menyuguhkan kumpulan berita - berita kriminal yang terjadi di Indonesia</desc>
+    <icon src="https://thumbor.prod.vidiocdn.com/jj9luSHlZk2jbvjSgqs3OHK1LOc=/287x162/filters:strip_icc():quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/image/874/kompas-tv-98863c.jpg"/>
+  </programme>
+  <programme channel="874" start="20260512213000 +0000" stop="20260513000000 +0000">
+    <title lang="id">Kompas Pagi</title>
+    <desc lang="id">Suguhan berita terkini dan peristiwa terhangat dari Indonesia dan mancanegara.</desc>
+    <icon src="https://thumbor.prod.vidiocdn.com/jj9luSHlZk2jbvjSgqs3OHK1LOc=/287x162/filters:strip_icc():quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/image/874/kompas-tv-98863c.jpg"/>
+  </programme>
+  <programme channel="874" start="20260513000000 +0000" stop="20260513023000 +0000">
+    <title lang="id">Sapa Indonesia Pagi</title>
+    <desc lang="id">Berita dan laporan sejumlah peristiwa terhangat di berbagai belahan dunia</desc>
+    <icon src="https://thumbor.prod.vidiocdn.com/jj9luSHlZk2jbvjSgqs3OHK1LOc=/287x162/filters:strip_icc():quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/image/874/kompas-tv-98863c.jpg"/>
+  </programme>
+  <programme channel="874" start="20260513023000 +0000" stop="20260513033000 +0000">
+    <title lang="id">Berita Utama</title>
+    <desc lang="id">Program berita reguler di Kompas TV yang dirancang untuk menyampaikan rentetan peristiwa paling penting dan terbaru dari seluruh penjuru Indonesia dan dunia</desc>
+    <icon src="https://thumbor.prod.vidiocdn.com/jj9luSHlZk2jbvjSgqs3OHK1LOc=/287x162/filters:strip_icc():quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/image/874/kompas-tv-98863c.jpg"/>
+  </programme>
+  <programme channel="874" start="20260513033000 +0000" stop="20260513040000 +0000">
+    <title lang="id">Borgol</title>
+    <desc lang="id">Acara yang menyuguhkan kumpulan berita - berita kriminal yang terjadi di Indonesia</desc>
+    <icon src="https://thumbor.prod.vidiocdn.com/jj9luSHlZk2jbvjSgqs3OHK1LOc=/287x162/filters:strip_icc():quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/image/874/kompas-tv-98863c.jpg"/>
+  </programme>
+  <programme channel="874" start="20260513040000 +0000" stop="20260513060000 +0000">
+    <title lang="id">Kompas Siang</title>
+    <desc lang="id">Program berita di siang hari yang memberikan informasi krusial mengenai isu-isu yang sedang berkembang secara terkini</desc>
+    <icon src="https://thumbor.prod.vidiocdn.com/jj9luSHlZk2jbvjSgqs3OHK1LOc=/287x162/filters:strip_icc():quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/image/874/kompas-tv-98863c.jpg"/>
+  </programme>
+  <programme channel="874" start="20260513060000 +0000" stop="20260513070000 +0000">
+    <title lang="id">Sapa Indonesia Siang</title>
+    <desc lang="id">Berita dan laporan sejumlah peristiwa terhangat di berbagai belahan dunia</desc>
+    <icon src="https://thumbor.prod.vidiocdn.com/jj9luSHlZk2jbvjSgqs3OHK1LOc=/287x162/filters:strip_icc():quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/image/874/kompas-tv-98863c.jpg"/>
+  </programme>
+  <programme channel="874" start="20260513070000 +0000" stop="20260513073000 +0000">
+    <title lang="id">Laporan Khusus</title>
+    <desc lang="id">Laporan khusus seputar berbagai isu dan peristiwa yang berhasil menyedot perhatian masyarakat dalam sepekan terakhir</desc>
+    <icon src="https://thumbor.prod.vidiocdn.com/jj9luSHlZk2jbvjSgqs3OHK1LOc=/287x162/filters:strip_icc():quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/image/874/kompas-tv-98863c.jpg"/>
+  </programme>
+  <programme channel="874" start="20260513073000 +0000" stop="20260513080000 +0000">
+    <title lang="id">Jurnal Merah Putih</title>
+    <desc lang="id">Program yang membahas tentang kebijakan Pemerintahan Prabowo-Gibran</desc>
+    <icon src="https://thumbor.prod.vidiocdn.com/jj9luSHlZk2jbvjSgqs3OHK1LOc=/287x162/filters:strip_icc():quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/image/874/kompas-tv-98863c.jpg"/>
+  </programme>
+  <programme channel="874" start="20260513080000 +0000" stop="20260513083000 +0000">
+    <title lang="id">Indonesia Update</title>
+    <desc lang="id">Program berita menyuguhkan perkembangan terbaru dan berbagai peristiwa penting yang terjadi di seluruh Indonesia.</desc>
+    <icon src="https://thumbor.prod.vidiocdn.com/jj9luSHlZk2jbvjSgqs3OHK1LOc=/287x162/filters:strip_icc():quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/image/874/kompas-tv-98863c.jpg"/>
+  </programme>
+  <programme channel="874" start="20260513083000 +0000" stop="20260513090000 +0000">
+    <title lang="id">Borgol</title>
+    <desc lang="id">Acara yang menyuguhkan kumpulan berita - berita kriminal yang terjadi di Indonesia</desc>
+    <icon src="https://thumbor.prod.vidiocdn.com/jj9luSHlZk2jbvjSgqs3OHK1LOc=/287x162/filters:strip_icc():quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/image/874/kompas-tv-98863c.jpg"/>
+  </programme>
+  <programme channel="874" start="20260513090000 +0000" stop="20260513103000 +0000">
+    <title lang="id">Kompas Petang</title>
+    <desc lang="id">Program berita di Kompas TV yang ditayangkan setiap sore. Program ini menyajikan berita terkini seputar peristiwa, politik, hukum, kriminal, hingga humaniora.</desc>
+    <icon src="https://thumbor.prod.vidiocdn.com/jj9luSHlZk2jbvjSgqs3OHK1LOc=/287x162/filters:strip_icc():quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/image/874/kompas-tv-98863c.jpg"/>
+  </programme>
+  <programme channel="874" start="20260513103000 +0000" stop="20260513123000 +0000">
+    <title lang="id">Sapa Indonesia Malam</title>
+    <desc lang="id">Informasi terkini seputar dunia politik, ekonomi, kriminal, olahraga, serta hiburan dari dalam dan luar negeri.</desc>
+    <icon src="https://thumbor.prod.vidiocdn.com/PT3ZyAFAXsGjZMBMz76qgRItqyA=/287x162/filters:strip_icc():quality(70)/vidio-media-production/uploads/tv_program/thumbnail/380294/8f6926.jpg"/>
+  </programme>
+  <programme channel="874" start="20260513123000 +0000" stop="20260513133000 +0000">
+    <title lang="id">Berita Utama</title>
+    <desc lang="id">Program berita reguler di Kompas TV yang dirancang untuk menyampaikan rentetan peristiwa paling penting dan terbaru dari seluruh penjuru Indonesia dan dunia</desc>
+    <icon src="https://thumbor.prod.vidiocdn.com/jj9luSHlZk2jbvjSgqs3OHK1LOc=/287x162/filters:strip_icc():quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/image/874/kompas-tv-98863c.jpg"/>
+  </programme>
+  <programme channel="874" start="20260513133000 +0000" stop="20260513143000 +0000">
+    <title lang="id">Satu Meja The Forum</title>
+    <desc lang="id">Bincang-bincang bersama para tokoh terkemuka Indonesia seputar berbagai isu dan topik menarik yang tengah menjadi sorotan di tanah air.</desc>
+    <icon src="https://thumbor.prod.vidiocdn.com/jj9luSHlZk2jbvjSgqs3OHK1LOc=/287x162/filters:strip_icc():quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/image/874/kompas-tv-98863c.jpg"/>
+  </programme>
+  <programme channel="874" start="20260513143000 +0000" stop="20260513153000 +0000">
+    <title lang="id">Kompas Malam</title>
+    <desc lang="id">Program berita penutup hari di Kompas TV yang menyajikan rangkuman peristiwa secara reflektif, tenang, namun tetap kritis. Program ini hadir untuk memberikan informasi penting yang terjadi sejak pagi hingga menjelang tengah malam</desc>
+    <icon src="https://thumbor.prod.vidiocdn.com/jj9luSHlZk2jbvjSgqs3OHK1LOc=/287x162/filters:strip_icc():quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/image/874/kompas-tv-98863c.jpg"/>
+  </programme>
+  <programme channel="874" start="20260513153000 +0000" stop="20260513160000 +0000">
+    <title lang="id">Berita Utama</title>
+    <desc lang="id">Program berita reguler di Kompas TV yang dirancang untuk menyampaikan rentetan peristiwa paling penting dan terbaru dari seluruh penjuru Indonesia dan dunia</desc>
+    <icon src="https://thumbor.prod.vidiocdn.com/jj9luSHlZk2jbvjSgqs3OHK1LOc=/287x162/filters:strip_icc():quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/image/874/kompas-tv-98863c.jpg"/>
+  </programme>
+  <programme channel="874" start="20260513160000 +0000" stop="20260513163000 +0000">
+    <title lang="id">Kompas Sport</title>
+    <desc lang="id">Acara yang menampilkan berita olahraga baik dalam negeri maupun mancanegara</desc>
+    <icon src="https://thumbor.prod.vidiocdn.com/jj9luSHlZk2jbvjSgqs3OHK1LOc=/287x162/filters:strip_icc():quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/image/874/kompas-tv-98863c.jpg"/>
+  </programme>
+  <programme channel="874" start="20260513163000 +0000" stop="20260513170000 +0000">
     <title lang="id">Kilas Kompas</title>
     <desc lang="id">Program berita menyuguhkan perkembangan terbaru dan berbagai peristiwa penting yang terjadi di seluruh Indonesia.</desc>
     <icon src="https://thumbor.prod.vidiocdn.com/jj9luSHlZk2jbvjSgqs3OHK1LOc=/287x162/filters:strip_icc():quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/image/874/kompas-tv-98863c.jpg"/>
@@ -6320,10 +7337,10 @@
     <desc lang="id">Arsenal vs Atletico Madrid - SF, 2nd Leg</desc>
     <icon src="https://thumbor.prod.vidiocdn.com/xiN-u5MIG7jgOVE2tB_TUIynz7k=/287x162/filters:strip_icc():quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/image/6317/bein-3-616b1c.jpg"/>
   </programme>
-  <programme channel="6317" start="20260509105000 +0000" stop="20260509130000 +0000">
-    <title lang="id">Aston Villa vs Arsenal : Women's Super League 2025/26</title>
-    <desc lang="id">Aston Villa vs Arsenal</desc>
-    <icon src="https://thumbor.prod.vidiocdn.com/xiN-u5MIG7jgOVE2tB_TUIynz7k=/287x162/filters:strip_icc():quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/image/6317/bein-3-616b1c.jpg"/>
+  <programme channel="6317" start="20260509110000 +0000" stop="20260509130000 +0000">
+    <title lang="id">Aston Villa vs Arsenal - Women's Super League</title>
+    <desc lang="id">Nonton streaming pertandingan seru Aston Villa vs Arsenal - Women's Super League. Saksikan aksi-aksi terbaik dari tim yang bersaing ketat untuk meraih kemenangan. Dapatkan informasi lengkap mengenai jadwal pertandingan dan hasil pertandingan terbaru hanya di Vidio.</desc>
+    <icon src="https://thumbor.prod.vidiocdn.com/wYBX91YDDMprDBnj5gfaoVnmugM=/287x162/filters:strip_icc():quality(70)/vidio-media-production/uploads/livestreaming/schedule/thumbnail/5062786/2941ef.jpg"/>
   </programme>
   <programme channel="6317" start="20260509130000 +0000" stop="20260509133000 +0000">
     <title lang="id">Derby vs Man Utd : MUTV: Treble Twenty</title>
@@ -6335,15 +7352,10 @@
     <desc lang="id">Tottenham vs Man Utd</desc>
     <icon src="https://thumbor.prod.vidiocdn.com/xiN-u5MIG7jgOVE2tB_TUIynz7k=/287x162/filters:strip_icc():quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/image/6317/bein-3-616b1c.jpg"/>
   </programme>
-  <programme channel="6317" start="20260509140000 +0000" stop="20260509150000 +0000">
-    <title lang="id">Rally de Portugal SS16 Cabeceiras de Basto 2 : FIA World Rally Championship 2026</title>
-    <desc lang="id">Rally de Portugal SS16 Cabeceiras de Basto 2</desc>
-    <icon src="https://thumbor.prod.vidiocdn.com/xiN-u5MIG7jgOVE2tB_TUIynz7k=/287x162/filters:strip_icc():quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/image/6317/bein-3-616b1c.jpg"/>
-  </programme>
-  <programme channel="6317" start="20260509150000 +0000" stop="20260509151000 +0000">
-    <title lang="id">Barcelona vs Shakhtar (2010/11) : UCL Classic Matches</title>
-    <desc lang="id">Barcelona vs Shakhtar (2010/11)</desc>
-    <icon src="https://thumbor.prod.vidiocdn.com/xiN-u5MIG7jgOVE2tB_TUIynz7k=/287x162/filters:strip_icc():quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/image/6317/bein-3-616b1c.jpg"/>
+  <programme channel="6317" start="20260509140000 +0000" stop="20260509150500 +0000">
+    <title lang="id">Rally de Portugal SS16 Cabeceiras de Basto 2 - WRC Vodafone Rally de Portugal 2026</title>
+    <desc lang="id">Nonton streaming pertandingan seru Rally de Portugal SS16 Cabeceiras de Basto 2 - WRC Vodafone Rally de Portugal 2026. Saksikan aksi-aksi terbaik dari tim yang bersaing ketat untuk meraih kemenangan. Dapatkan informasi lengkap mengenai jadwal pertandingan dan hasil pertandingan terbaru hanya di Vidio.</desc>
+    <icon src="https://thumbor.prod.vidiocdn.com/LerixG8G6YKOVGnnJb2cdeHcjrk=/287x162/filters:strip_icc():quality(70)/vidio-media-production/uploads/livestreaming/schedule/thumbnail/5062952/d94c7d.jpg"/>
   </programme>
   <programme channel="6317" start="20260509151000 +0000" stop="20260509160000 +0000">
     <title lang="id">Misano Race 2 : Formula 4 Italian Championship 2026</title>
@@ -7403,6 +8415,10 @@
     <desc lang="id">Seorang wanita muda yang bersemangat memulai perjalanan untuk memenuhi janji seorang ibu demi kehidupan yang lebih baik sambil mengatasi tantangan dan kehilangan.</desc>
     <icon src="https://thumbor.prod.vidiocdn.com/QZCY0ezGodExBd-KneNvAC-M5BE=/287x162/filters:strip_icc():quality(70)/vidio-media-production/uploads/livestreaming/schedule/thumbnail/5062183/66bdd3.jpg"/>
   </programme>
+  <programme channel="782" start="20260508080000 +0000" stop="20260508100000 +0000">
+    <title lang="id">Teri Meri Doriyaann</title>
+    <icon src="https://thumbor.prod.vidiocdn.com/wtbmEZnjiixJlBIXoBFI1tUQZMY=/287x162/filters:strip_icc():quality(70)/vidio-media-production/uploads/livestreaming/schedule/thumbnail/5063770/964515.jpg"/>
+  </programme>
   <programme channel="782" start="20260508100000 +0000" stop="20260508120000 +0000">
     <title lang="id">Vasudha</title>
     <desc lang="id">Vasudha yang periang bergabung dengan rumah pemimpin bisnis Chandrika sebagai pembantu dan mendambakan persetujuannya meskipun ada perbedaan ideologis di antara mereka.</desc>
@@ -8421,6 +9437,286 @@
     <icon src="https://thumbor.prod.vidiocdn.com/rNFvm_1tsCHnmhiWUk82o-iqeUQ=/287x162/filters:strip_icc():quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/image/7464/ajwa-tv-dad8c3.jpg"/>
   </programme>
   <programme channel="7464" start="20260507160000 +0000" stop="20260507173000 +0000">
+    <title lang="id">Ftv Islami</title>
+    <icon src="https://thumbor.prod.vidiocdn.com/rNFvm_1tsCHnmhiWUk82o-iqeUQ=/287x162/filters:strip_icc():quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/image/7464/ajwa-tv-dad8c3.jpg"/>
+  </programme>
+  <programme channel="7464" start="20260507173000 +0000" stop="20260507183000 +0000">
+    <title lang="id">30 Hari 30 Juz</title>
+    <icon src="https://thumbor.prod.vidiocdn.com/rNFvm_1tsCHnmhiWUk82o-iqeUQ=/287x162/filters:strip_icc():quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/image/7464/ajwa-tv-dad8c3.jpg"/>
+  </programme>
+  <programme channel="7464" start="20260507183000 +0000" stop="20260507213000 +0000">
+    <title lang="id">Live Makkah</title>
+    <icon src="https://thumbor.prod.vidiocdn.com/rNFvm_1tsCHnmhiWUk82o-iqeUQ=/287x162/filters:strip_icc():quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/image/7464/ajwa-tv-dad8c3.jpg"/>
+  </programme>
+  <programme channel="7464" start="20260507213000 +0000" stop="20260507220000 +0000">
+    <title lang="id">Live Adzan Dan Sholat Subuh</title>
+    <icon src="https://thumbor.prod.vidiocdn.com/rNFvm_1tsCHnmhiWUk82o-iqeUQ=/287x162/filters:strip_icc():quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/image/7464/ajwa-tv-dad8c3.jpg"/>
+  </programme>
+  <programme channel="7464" start="20260507220000 +0000" stop="20260507230000 +0000">
+    <title lang="id">Mamah Dan Aa Beraksi</title>
+    <icon src="https://thumbor.prod.vidiocdn.com/rNFvm_1tsCHnmhiWUk82o-iqeUQ=/287x162/filters:strip_icc():quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/image/7464/ajwa-tv-dad8c3.jpg"/>
+  </programme>
+  <programme channel="7464" start="20260507230000 +0000" stop="20260508000000 +0000">
+    <title lang="id">Sejadah</title>
+    <icon src="https://thumbor.prod.vidiocdn.com/rNFvm_1tsCHnmhiWUk82o-iqeUQ=/287x162/filters:strip_icc():quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/image/7464/ajwa-tv-dad8c3.jpg"/>
+  </programme>
+  <programme channel="7464" start="20260508000000 +0000" stop="20260508010000 +0000">
+    <title lang="id">30 Hari 30 Juz</title>
+    <icon src="https://thumbor.prod.vidiocdn.com/rNFvm_1tsCHnmhiWUk82o-iqeUQ=/287x162/filters:strip_icc():quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/image/7464/ajwa-tv-dad8c3.jpg"/>
+  </programme>
+  <programme channel="7464" start="20260508010000 +0000" stop="20260508020000 +0000">
+    <title lang="id">Jumat Berkah</title>
+    <icon src="https://thumbor.prod.vidiocdn.com/rNFvm_1tsCHnmhiWUk82o-iqeUQ=/287x162/filters:strip_icc():quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/image/7464/ajwa-tv-dad8c3.jpg"/>
+  </programme>
+  <programme channel="7464" start="20260508020000 +0000" stop="20260508030000 +0000">
+    <title lang="id">Pesantren Dan Rock N Roll</title>
+    <icon src="https://thumbor.prod.vidiocdn.com/rNFvm_1tsCHnmhiWUk82o-iqeUQ=/287x162/filters:strip_icc():quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/image/7464/ajwa-tv-dad8c3.jpg"/>
+  </programme>
+  <programme channel="7464" start="20260508030000 +0000" stop="20260508043000 +0000">
+    <title lang="id">Ftv Islami</title>
+    <icon src="https://thumbor.prod.vidiocdn.com/rNFvm_1tsCHnmhiWUk82o-iqeUQ=/287x162/filters:strip_icc():quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/image/7464/ajwa-tv-dad8c3.jpg"/>
+  </programme>
+  <programme channel="7464" start="20260508043000 +0000" stop="20260508050000 +0000">
+    <title lang="id">Barakallah</title>
+    <icon src="https://thumbor.prod.vidiocdn.com/rNFvm_1tsCHnmhiWUk82o-iqeUQ=/287x162/filters:strip_icc():quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/image/7464/ajwa-tv-dad8c3.jpg"/>
+  </programme>
+  <programme channel="7464" start="20260508050000 +0000" stop="20260508053000 +0000">
+    <title lang="id">Live Sholat Jumat Dari Masjid Istiqlal</title>
+    <icon src="https://thumbor.prod.vidiocdn.com/rNFvm_1tsCHnmhiWUk82o-iqeUQ=/287x162/filters:strip_icc():quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/image/7464/ajwa-tv-dad8c3.jpg"/>
+  </programme>
+  <programme channel="7464" start="20260508053000 +0000" stop="20260508063000 +0000">
+    <title lang="id">Tafsir Al-Quran</title>
+    <icon src="https://thumbor.prod.vidiocdn.com/rNFvm_1tsCHnmhiWUk82o-iqeUQ=/287x162/filters:strip_icc():quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/image/7464/ajwa-tv-dad8c3.jpg"/>
+  </programme>
+  <programme channel="7464" start="20260508063000 +0000" stop="20260508073000 +0000">
+    <title lang="id">Sejadah</title>
+    <icon src="https://thumbor.prod.vidiocdn.com/rNFvm_1tsCHnmhiWUk82o-iqeUQ=/287x162/filters:strip_icc():quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/image/7464/ajwa-tv-dad8c3.jpg"/>
+  </programme>
+  <programme channel="7464" start="20260508073000 +0000" stop="20260508083000 +0000">
+    <title lang="id">Ilhami</title>
+    <icon src="https://thumbor.prod.vidiocdn.com/rNFvm_1tsCHnmhiWUk82o-iqeUQ=/287x162/filters:strip_icc():quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/image/7464/ajwa-tv-dad8c3.jpg"/>
+  </programme>
+  <programme channel="7464" start="20260508083000 +0000" stop="20260508093000 +0000">
+    <title lang="id">Pesantrean Dan Rock N Roll</title>
+    <icon src="https://thumbor.prod.vidiocdn.com/rNFvm_1tsCHnmhiWUk82o-iqeUQ=/287x162/filters:strip_icc():quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/image/7464/ajwa-tv-dad8c3.jpg"/>
+  </programme>
+  <programme channel="7464" start="20260508093000 +0000" stop="20260508110000 +0000">
+    <title lang="id">Para Perncari Tuhan Jilid 13</title>
+    <icon src="https://thumbor.prod.vidiocdn.com/rNFvm_1tsCHnmhiWUk82o-iqeUQ=/287x162/filters:strip_icc():quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/image/7464/ajwa-tv-dad8c3.jpg"/>
+  </programme>
+  <programme channel="7464" start="20260508110000 +0000" stop="20260508113000 +0000">
+    <title lang="id">Live Adzan Dan Sholat Maghrib</title>
+    <icon src="https://thumbor.prod.vidiocdn.com/rNFvm_1tsCHnmhiWUk82o-iqeUQ=/287x162/filters:strip_icc():quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/image/7464/ajwa-tv-dad8c3.jpg"/>
+  </programme>
+  <programme channel="7464" start="20260508113000 +0000" stop="20260508120000 +0000">
+    <title lang="id">Barakallah</title>
+    <icon src="https://thumbor.prod.vidiocdn.com/rNFvm_1tsCHnmhiWUk82o-iqeUQ=/287x162/filters:strip_icc():quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/image/7464/ajwa-tv-dad8c3.jpg"/>
+  </programme>
+  <programme channel="7464" start="20260508120000 +0000" stop="20260508123000 +0000">
+    <title lang="id">Live Adzan Dan Sholat Isya</title>
+    <icon src="https://thumbor.prod.vidiocdn.com/rNFvm_1tsCHnmhiWUk82o-iqeUQ=/287x162/filters:strip_icc():quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/image/7464/ajwa-tv-dad8c3.jpg"/>
+  </programme>
+  <programme channel="7464" start="20260508123000 +0000" stop="20260508133000 +0000">
+    <title lang="id">Mamah Dan Aa Beraksi</title>
+    <icon src="https://thumbor.prod.vidiocdn.com/rNFvm_1tsCHnmhiWUk82o-iqeUQ=/287x162/filters:strip_icc():quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/image/7464/ajwa-tv-dad8c3.jpg"/>
+  </programme>
+  <programme channel="7464" start="20260508133000 +0000" stop="20260508143000 +0000">
+    <title lang="id">Tafsir Al-Quran</title>
+    <icon src="https://thumbor.prod.vidiocdn.com/rNFvm_1tsCHnmhiWUk82o-iqeUQ=/287x162/filters:strip_icc():quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/image/7464/ajwa-tv-dad8c3.jpg"/>
+  </programme>
+  <programme channel="7464" start="20260508143000 +0000" stop="20260508160000 +0000">
+    <title lang="id">Para Perncari Tuhan Jilid 10</title>
+    <icon src="https://thumbor.prod.vidiocdn.com/rNFvm_1tsCHnmhiWUk82o-iqeUQ=/287x162/filters:strip_icc():quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/image/7464/ajwa-tv-dad8c3.jpg"/>
+  </programme>
+  <programme channel="7464" start="20260508160000 +0000" stop="20260508173000 +0000">
+    <title lang="id">Ftv Islami</title>
+    <icon src="https://thumbor.prod.vidiocdn.com/rNFvm_1tsCHnmhiWUk82o-iqeUQ=/287x162/filters:strip_icc():quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/image/7464/ajwa-tv-dad8c3.jpg"/>
+  </programme>
+  <programme channel="7464" start="20260508160000 +0000" stop="20260508173000 +0000">
+    <title lang="id">Ftv Islami</title>
+    <icon src="https://thumbor.prod.vidiocdn.com/rNFvm_1tsCHnmhiWUk82o-iqeUQ=/287x162/filters:strip_icc():quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/image/7464/ajwa-tv-dad8c3.jpg"/>
+  </programme>
+  <programme channel="7464" start="20260508173000 +0000" stop="20260508183000 +0000">
+    <title lang="id">30 Hari 30 Juz</title>
+    <icon src="https://thumbor.prod.vidiocdn.com/rNFvm_1tsCHnmhiWUk82o-iqeUQ=/287x162/filters:strip_icc():quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/image/7464/ajwa-tv-dad8c3.jpg"/>
+  </programme>
+  <programme channel="7464" start="20260508183000 +0000" stop="20260508213000 +0000">
+    <title lang="id">Live Makkah</title>
+    <icon src="https://thumbor.prod.vidiocdn.com/rNFvm_1tsCHnmhiWUk82o-iqeUQ=/287x162/filters:strip_icc():quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/image/7464/ajwa-tv-dad8c3.jpg"/>
+  </programme>
+  <programme channel="7464" start="20260508213000 +0000" stop="20260508220000 +0000">
+    <title lang="id">Live Adzan Dan Sholat Subuh</title>
+    <icon src="https://thumbor.prod.vidiocdn.com/rNFvm_1tsCHnmhiWUk82o-iqeUQ=/287x162/filters:strip_icc():quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/image/7464/ajwa-tv-dad8c3.jpg"/>
+  </programme>
+  <programme channel="7464" start="20260508220000 +0000" stop="20260508230000 +0000">
+    <title lang="id">Mamah Dan Aa Beraksi</title>
+    <icon src="https://thumbor.prod.vidiocdn.com/rNFvm_1tsCHnmhiWUk82o-iqeUQ=/287x162/filters:strip_icc():quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/image/7464/ajwa-tv-dad8c3.jpg"/>
+  </programme>
+  <programme channel="7464" start="20260508230000 +0000" stop="20260509000000 +0000">
+    <title lang="id">Sejadah</title>
+    <icon src="https://thumbor.prod.vidiocdn.com/rNFvm_1tsCHnmhiWUk82o-iqeUQ=/287x162/filters:strip_icc():quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/image/7464/ajwa-tv-dad8c3.jpg"/>
+  </programme>
+  <programme channel="7464" start="20260509000000 +0000" stop="20260509010000 +0000">
+    <title lang="id">30 Hari 30 Juz</title>
+    <icon src="https://thumbor.prod.vidiocdn.com/rNFvm_1tsCHnmhiWUk82o-iqeUQ=/287x162/filters:strip_icc():quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/image/7464/ajwa-tv-dad8c3.jpg"/>
+  </programme>
+  <programme channel="7464" start="20260509010000 +0000" stop="20260509020000 +0000">
+    <title lang="id">Syair Syiar</title>
+    <icon src="https://thumbor.prod.vidiocdn.com/rNFvm_1tsCHnmhiWUk82o-iqeUQ=/287x162/filters:strip_icc():quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/image/7464/ajwa-tv-dad8c3.jpg"/>
+  </programme>
+  <programme channel="7464" start="20260509020000 +0000" stop="20260509030000 +0000">
+    <title lang="id">Pesantren Dan Rock N Roll</title>
+    <icon src="https://thumbor.prod.vidiocdn.com/rNFvm_1tsCHnmhiWUk82o-iqeUQ=/287x162/filters:strip_icc():quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/image/7464/ajwa-tv-dad8c3.jpg"/>
+  </programme>
+  <programme channel="7464" start="20260509030000 +0000" stop="20260509043000 +0000">
+    <title lang="id">Ftv Islami</title>
+    <icon src="https://thumbor.prod.vidiocdn.com/rNFvm_1tsCHnmhiWUk82o-iqeUQ=/287x162/filters:strip_icc():quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/image/7464/ajwa-tv-dad8c3.jpg"/>
+  </programme>
+  <programme channel="7464" start="20260509043000 +0000" stop="20260509050000 +0000">
+    <title lang="id">Barakallah</title>
+    <icon src="https://thumbor.prod.vidiocdn.com/rNFvm_1tsCHnmhiWUk82o-iqeUQ=/287x162/filters:strip_icc():quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/image/7464/ajwa-tv-dad8c3.jpg"/>
+  </programme>
+  <programme channel="7464" start="20260509050000 +0000" stop="20260509053000 +0000">
+    <title lang="id">Live Adzan Dan Sholat Dzuhur</title>
+    <icon src="https://thumbor.prod.vidiocdn.com/rNFvm_1tsCHnmhiWUk82o-iqeUQ=/287x162/filters:strip_icc():quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/image/7464/ajwa-tv-dad8c3.jpg"/>
+  </programme>
+  <programme channel="7464" start="20260509053000 +0000" stop="20260509073000 +0000">
+    <title lang="id">Qari Cilik Season 2</title>
+    <icon src="https://thumbor.prod.vidiocdn.com/rNFvm_1tsCHnmhiWUk82o-iqeUQ=/287x162/filters:strip_icc():quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/image/7464/ajwa-tv-dad8c3.jpg"/>
+  </programme>
+  <programme channel="7464" start="20260509073000 +0000" stop="20260509083000 +0000">
+    <title lang="id">Syair Syiar</title>
+    <icon src="https://thumbor.prod.vidiocdn.com/rNFvm_1tsCHnmhiWUk82o-iqeUQ=/287x162/filters:strip_icc():quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/image/7464/ajwa-tv-dad8c3.jpg"/>
+  </programme>
+  <programme channel="7464" start="20260509083000 +0000" stop="20260509093000 +0000">
+    <title lang="id">Pesantrean Dan Rock N Roll</title>
+    <icon src="https://thumbor.prod.vidiocdn.com/rNFvm_1tsCHnmhiWUk82o-iqeUQ=/287x162/filters:strip_icc():quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/image/7464/ajwa-tv-dad8c3.jpg"/>
+  </programme>
+  <programme channel="7464" start="20260509093000 +0000" stop="20260509110000 +0000">
+    <title lang="id">Para Perncari Tuhan Jilid 13</title>
+    <icon src="https://thumbor.prod.vidiocdn.com/rNFvm_1tsCHnmhiWUk82o-iqeUQ=/287x162/filters:strip_icc():quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/image/7464/ajwa-tv-dad8c3.jpg"/>
+  </programme>
+  <programme channel="7464" start="20260509110000 +0000" stop="20260509113000 +0000">
+    <title lang="id">Live Adzan Dan Sholat Maghrib</title>
+    <icon src="https://thumbor.prod.vidiocdn.com/rNFvm_1tsCHnmhiWUk82o-iqeUQ=/287x162/filters:strip_icc():quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/image/7464/ajwa-tv-dad8c3.jpg"/>
+  </programme>
+  <programme channel="7464" start="20260509113000 +0000" stop="20260509120000 +0000">
+    <title lang="id">Barakallah</title>
+    <icon src="https://thumbor.prod.vidiocdn.com/rNFvm_1tsCHnmhiWUk82o-iqeUQ=/287x162/filters:strip_icc():quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/image/7464/ajwa-tv-dad8c3.jpg"/>
+  </programme>
+  <programme channel="7464" start="20260509120000 +0000" stop="20260509123000 +0000">
+    <title lang="id">Live Adzan Dan Sholat Isya</title>
+    <icon src="https://thumbor.prod.vidiocdn.com/rNFvm_1tsCHnmhiWUk82o-iqeUQ=/287x162/filters:strip_icc():quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/image/7464/ajwa-tv-dad8c3.jpg"/>
+  </programme>
+  <programme channel="7464" start="20260509123000 +0000" stop="20260509133000 +0000">
+    <title lang="id">Mamah Dan Aa Beraksi</title>
+    <icon src="https://thumbor.prod.vidiocdn.com/rNFvm_1tsCHnmhiWUk82o-iqeUQ=/287x162/filters:strip_icc():quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/image/7464/ajwa-tv-dad8c3.jpg"/>
+  </programme>
+  <programme channel="7464" start="20260509133000 +0000" stop="20260509143000 +0000">
+    <title lang="id">Nawaitu Surga</title>
+    <icon src="https://thumbor.prod.vidiocdn.com/rNFvm_1tsCHnmhiWUk82o-iqeUQ=/287x162/filters:strip_icc():quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/image/7464/ajwa-tv-dad8c3.jpg"/>
+  </programme>
+  <programme channel="7464" start="20260509143000 +0000" stop="20260509160000 +0000">
+    <title lang="id">Para Perncari Tuhan Jilid 13</title>
+    <icon src="https://thumbor.prod.vidiocdn.com/rNFvm_1tsCHnmhiWUk82o-iqeUQ=/287x162/filters:strip_icc():quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/image/7464/ajwa-tv-dad8c3.jpg"/>
+  </programme>
+  <programme channel="7464" start="20260509160000 +0000" stop="20260509173000 +0000">
+    <title lang="id">Ftv Islami</title>
+    <icon src="https://thumbor.prod.vidiocdn.com/rNFvm_1tsCHnmhiWUk82o-iqeUQ=/287x162/filters:strip_icc():quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/image/7464/ajwa-tv-dad8c3.jpg"/>
+  </programme>
+  <programme channel="7464" start="20260509160000 +0000" stop="20260509173000 +0000">
+    <title lang="id">Ftv Islami</title>
+    <icon src="https://thumbor.prod.vidiocdn.com/rNFvm_1tsCHnmhiWUk82o-iqeUQ=/287x162/filters:strip_icc():quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/image/7464/ajwa-tv-dad8c3.jpg"/>
+  </programme>
+  <programme channel="7464" start="20260509173000 +0000" stop="20260509183000 +0000">
+    <title lang="id">30 Hari 30 Juz</title>
+    <icon src="https://thumbor.prod.vidiocdn.com/rNFvm_1tsCHnmhiWUk82o-iqeUQ=/287x162/filters:strip_icc():quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/image/7464/ajwa-tv-dad8c3.jpg"/>
+  </programme>
+  <programme channel="7464" start="20260509183000 +0000" stop="20260509213000 +0000">
+    <title lang="id">Live Makkah</title>
+    <icon src="https://thumbor.prod.vidiocdn.com/rNFvm_1tsCHnmhiWUk82o-iqeUQ=/287x162/filters:strip_icc():quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/image/7464/ajwa-tv-dad8c3.jpg"/>
+  </programme>
+  <programme channel="7464" start="20260509213000 +0000" stop="20260509220000 +0000">
+    <title lang="id">Live Adzan Dan Sholat Subuh</title>
+    <icon src="https://thumbor.prod.vidiocdn.com/rNFvm_1tsCHnmhiWUk82o-iqeUQ=/287x162/filters:strip_icc():quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/image/7464/ajwa-tv-dad8c3.jpg"/>
+  </programme>
+  <programme channel="7464" start="20260509220000 +0000" stop="20260509230000 +0000">
+    <title lang="id">Mamah Dan Aa Beraksi</title>
+    <icon src="https://thumbor.prod.vidiocdn.com/rNFvm_1tsCHnmhiWUk82o-iqeUQ=/287x162/filters:strip_icc():quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/image/7464/ajwa-tv-dad8c3.jpg"/>
+  </programme>
+  <programme channel="7464" start="20260509230000 +0000" stop="20260510000000 +0000">
+    <title lang="id">Sejadah</title>
+    <icon src="https://thumbor.prod.vidiocdn.com/rNFvm_1tsCHnmhiWUk82o-iqeUQ=/287x162/filters:strip_icc():quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/image/7464/ajwa-tv-dad8c3.jpg"/>
+  </programme>
+  <programme channel="7464" start="20260510000000 +0000" stop="20260510010000 +0000">
+    <title lang="id">30 Hari 30 Juz</title>
+    <icon src="https://thumbor.prod.vidiocdn.com/rNFvm_1tsCHnmhiWUk82o-iqeUQ=/287x162/filters:strip_icc():quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/image/7464/ajwa-tv-dad8c3.jpg"/>
+  </programme>
+  <programme channel="7464" start="20260510010000 +0000" stop="20260510020000 +0000">
+    <title lang="id">Syair Syiar</title>
+    <icon src="https://thumbor.prod.vidiocdn.com/rNFvm_1tsCHnmhiWUk82o-iqeUQ=/287x162/filters:strip_icc():quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/image/7464/ajwa-tv-dad8c3.jpg"/>
+  </programme>
+  <programme channel="7464" start="20260510020000 +0000" stop="20260510030000 +0000">
+    <title lang="id">Pesantren Dan Rock N Roll</title>
+    <icon src="https://thumbor.prod.vidiocdn.com/rNFvm_1tsCHnmhiWUk82o-iqeUQ=/287x162/filters:strip_icc():quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/image/7464/ajwa-tv-dad8c3.jpg"/>
+  </programme>
+  <programme channel="7464" start="20260510030000 +0000" stop="20260510043000 +0000">
+    <title lang="id">Ftv Islami</title>
+    <icon src="https://thumbor.prod.vidiocdn.com/rNFvm_1tsCHnmhiWUk82o-iqeUQ=/287x162/filters:strip_icc():quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/image/7464/ajwa-tv-dad8c3.jpg"/>
+  </programme>
+  <programme channel="7464" start="20260510043000 +0000" stop="20260510050000 +0000">
+    <title lang="id">Barakallah</title>
+    <icon src="https://thumbor.prod.vidiocdn.com/rNFvm_1tsCHnmhiWUk82o-iqeUQ=/287x162/filters:strip_icc():quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/image/7464/ajwa-tv-dad8c3.jpg"/>
+  </programme>
+  <programme channel="7464" start="20260510050000 +0000" stop="20260510053000 +0000">
+    <title lang="id">Live Adzan Dan Sholat Dzuhur</title>
+    <icon src="https://thumbor.prod.vidiocdn.com/rNFvm_1tsCHnmhiWUk82o-iqeUQ=/287x162/filters:strip_icc():quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/image/7464/ajwa-tv-dad8c3.jpg"/>
+  </programme>
+  <programme channel="7464" start="20260510053000 +0000" stop="20260510073000 +0000">
+    <title lang="id">Qari Cilik Season 2</title>
+    <icon src="https://thumbor.prod.vidiocdn.com/rNFvm_1tsCHnmhiWUk82o-iqeUQ=/287x162/filters:strip_icc():quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/image/7464/ajwa-tv-dad8c3.jpg"/>
+  </programme>
+  <programme channel="7464" start="20260510073000 +0000" stop="20260510083000 +0000">
+    <title lang="id">Syair Syiar</title>
+    <icon src="https://thumbor.prod.vidiocdn.com/rNFvm_1tsCHnmhiWUk82o-iqeUQ=/287x162/filters:strip_icc():quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/image/7464/ajwa-tv-dad8c3.jpg"/>
+  </programme>
+  <programme channel="7464" start="20260510083000 +0000" stop="20260510093000 +0000">
+    <title lang="id">Pesantrean Dan Rock N Roll</title>
+    <icon src="https://thumbor.prod.vidiocdn.com/rNFvm_1tsCHnmhiWUk82o-iqeUQ=/287x162/filters:strip_icc():quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/image/7464/ajwa-tv-dad8c3.jpg"/>
+  </programme>
+  <programme channel="7464" start="20260510093000 +0000" stop="20260510110000 +0000">
+    <title lang="id">Para Perncari Tuhan Jilid 13</title>
+    <icon src="https://thumbor.prod.vidiocdn.com/rNFvm_1tsCHnmhiWUk82o-iqeUQ=/287x162/filters:strip_icc():quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/image/7464/ajwa-tv-dad8c3.jpg"/>
+  </programme>
+  <programme channel="7464" start="20260510110000 +0000" stop="20260510113000 +0000">
+    <title lang="id">Live Adzan Dan Sholat Maghrib</title>
+    <icon src="https://thumbor.prod.vidiocdn.com/rNFvm_1tsCHnmhiWUk82o-iqeUQ=/287x162/filters:strip_icc():quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/image/7464/ajwa-tv-dad8c3.jpg"/>
+  </programme>
+  <programme channel="7464" start="20260510113000 +0000" stop="20260510120000 +0000">
+    <title lang="id">Barakallah</title>
+    <icon src="https://thumbor.prod.vidiocdn.com/rNFvm_1tsCHnmhiWUk82o-iqeUQ=/287x162/filters:strip_icc():quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/image/7464/ajwa-tv-dad8c3.jpg"/>
+  </programme>
+  <programme channel="7464" start="20260510120000 +0000" stop="20260510123000 +0000">
+    <title lang="id">Live Adzan Dan Sholat Isya</title>
+    <icon src="https://thumbor.prod.vidiocdn.com/rNFvm_1tsCHnmhiWUk82o-iqeUQ=/287x162/filters:strip_icc():quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/image/7464/ajwa-tv-dad8c3.jpg"/>
+  </programme>
+  <programme channel="7464" start="20260510123000 +0000" stop="20260510133000 +0000">
+    <title lang="id">Mamah Dan Aa Beraksi</title>
+    <icon src="https://thumbor.prod.vidiocdn.com/rNFvm_1tsCHnmhiWUk82o-iqeUQ=/287x162/filters:strip_icc():quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/image/7464/ajwa-tv-dad8c3.jpg"/>
+  </programme>
+  <programme channel="7464" start="20260510133000 +0000" stop="20260510143000 +0000">
+    <title lang="id">Nawaitu Surga</title>
+    <icon src="https://thumbor.prod.vidiocdn.com/rNFvm_1tsCHnmhiWUk82o-iqeUQ=/287x162/filters:strip_icc():quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/image/7464/ajwa-tv-dad8c3.jpg"/>
+  </programme>
+  <programme channel="7464" start="20260510143000 +0000" stop="20260510160000 +0000">
+    <title lang="id">Para Perncari Tuhan Jilid 13</title>
+    <icon src="https://thumbor.prod.vidiocdn.com/rNFvm_1tsCHnmhiWUk82o-iqeUQ=/287x162/filters:strip_icc():quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/image/7464/ajwa-tv-dad8c3.jpg"/>
+  </programme>
+  <programme channel="7464" start="20260510160000 +0000" stop="20260510173000 +0000">
+    <title lang="id">Ftv Islami</title>
+    <icon src="https://thumbor.prod.vidiocdn.com/rNFvm_1tsCHnmhiWUk82o-iqeUQ=/287x162/filters:strip_icc():quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/image/7464/ajwa-tv-dad8c3.jpg"/>
+  </programme>
+  <programme channel="7464" start="20260510160000 +0000" stop="20260510173000 +0000">
     <title lang="id">Ftv Islami</title>
     <icon src="https://thumbor.prod.vidiocdn.com/rNFvm_1tsCHnmhiWUk82o-iqeUQ=/287x162/filters:strip_icc():quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/image/7464/ajwa-tv-dad8c3.jpg"/>
   </programme>
@@ -11011,15 +12307,10 @@
     <desc lang="id">Cadiz vs Deportivo</desc>
     <icon src="https://thumbor.prod.vidiocdn.com/VmoYokSeKr_3SubUXC-rMC-EtQM=/287x162/filters:strip_icc():quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/image/17875/bein-2-25a5f9.jpg"/>
   </programme>
-  <programme channel="17875" start="20260508203000 +0000" stop="20260508220000 +0000">
-    <title lang="id">Asuncion P2 Day 4 QF Match 6 : Premier Padel 2026</title>
-    <desc lang="id">Asuncion P2 Day 4 QF Match 6</desc>
-    <icon src="https://thumbor.prod.vidiocdn.com/VmoYokSeKr_3SubUXC-rMC-EtQM=/287x162/filters:strip_icc():quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/image/17875/bein-2-25a5f9.jpg"/>
-  </programme>
-  <programme channel="17875" start="20260508220000 +0000" stop="20260508233000 +0000">
-    <title lang="id">Asuncion P2 Day 4 QF Match 7 : Premier Padel 2026</title>
-    <desc lang="id">Asuncion P2 Day 4 QF Match 7</desc>
-    <icon src="https://thumbor.prod.vidiocdn.com/VmoYokSeKr_3SubUXC-rMC-EtQM=/287x162/filters:strip_icc():quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/image/17875/bein-2-25a5f9.jpg"/>
+  <programme channel="17875" start="20260508203000 +0000" stop="20260508230000 +0000">
+    <title lang="id">Asuncion P2 Premier Padel - Quarterfinals</title>
+    <desc lang="id">Nonton streaming pertandingan seru Asuncion P2 Premier Padel - Quarterfinals. Saksikan aksi-aksi terbaik dari tim yang bersaing ketat untuk meraih kemenangan. Dapatkan informasi lengkap mengenai jadwal pertandingan dan hasil pertandingan terbaru hanya di Vidio.</desc>
+    <icon src="https://thumbor.prod.vidiocdn.com/luHzcSWOJQeSonhzdaaNdXllMbw=/287x162/filters:strip_icc():quality(70)/vidio-media-production/uploads/livestreaming/schedule/thumbnail/5062767/83d888.jpg"/>
   </programme>
   <programme channel="17875" start="20260508233000 +0000" stop="20260508235500 +0000">
     <title lang="id">Canada vs France - 3rd Place Play-off, Hong Kong - Women : HSBC SVNS World Championships 2026</title>
@@ -11092,9 +12383,9 @@
     <icon src="https://thumbor.prod.vidiocdn.com/VmoYokSeKr_3SubUXC-rMC-EtQM=/287x162/filters:strip_icc():quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/image/17875/bein-2-25a5f9.jpg"/>
   </programme>
   <programme channel="17875" start="20260509070000 +0000" stop="20260509080000 +0000">
-    <title lang="id">Rally de Portugal SS12 Cabeceiras de Basto 1 : FIA World Rally Championship 2026</title>
-    <desc lang="id">Rally de Portugal SS12 Cabeceiras de Basto 1</desc>
-    <icon src="https://thumbor.prod.vidiocdn.com/VmoYokSeKr_3SubUXC-rMC-EtQM=/287x162/filters:strip_icc():quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/image/17875/bein-2-25a5f9.jpg"/>
+    <title lang="id">Rally de Portugal SS12 Cabeceiras de Basto 1 - WRC Vodafone Rally de Portugal 2026</title>
+    <desc lang="id">Nonton streaming pertandingan seru Rally de Portugal SS12 Cabeceiras de Basto 1 - WRC Vodafone Rally de Portugal 2026. Saksikan aksi-aksi terbaik dari tim yang bersaing ketat untuk meraih kemenangan. Dapatkan informasi lengkap mengenai jadwal pertandingan dan hasil pertandingan terbaru hanya di Vidio.</desc>
+    <icon src="https://thumbor.prod.vidiocdn.com/wOqB9QcpMYSWRUdWOhJkDjgOwR8=/287x162/filters:strip_icc():quality(70)/vidio-media-production/uploads/livestreaming/schedule/thumbnail/5062769/fe0826.jpg"/>
   </programme>
   <programme channel="17875" start="20260509080000 +0000" stop="20260509100000 +0000">
     <title lang="id">La Vuelta Femenina - Stage 6 : UCI Women's World Tour 2026</title>
@@ -11122,19 +12413,19 @@
     <icon src="https://thumbor.prod.vidiocdn.com/VmoYokSeKr_3SubUXC-rMC-EtQM=/287x162/filters:strip_icc():quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/image/17875/bein-2-25a5f9.jpg"/>
   </programme>
   <programme channel="17875" start="20260509113000 +0000" stop="20260509183000 +0000">
-    <title lang="id">6 Hours of Spa-Francorchamps, BEL : FIA World Endurance Championship 2026</title>
-    <desc lang="id">6 Hours of Spa-Francorchamps, BEL</desc>
-    <icon src="https://thumbor.prod.vidiocdn.com/VmoYokSeKr_3SubUXC-rMC-EtQM=/287x162/filters:strip_icc():quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/image/17875/bein-2-25a5f9.jpg"/>
+    <title lang="id">Race: TotalEnergies 6 Hours of Spa-Francorchamps, Belgium - WEC 2026</title>
+    <desc lang="id">Nonton streaming pertandingan seru Race: TotalEnergies 6 Hours of Spa-Francorchamps, Belgium - WEC 2026. Saksikan aksi-aksi terbaik dari tim yang bersaing ketat untuk meraih kemenangan. Dapatkan informasi lengkap mengenai jadwal pertandingan dan hasil pertandingan terbaru hanya di Vidio.</desc>
+    <icon src="https://thumbor.prod.vidiocdn.com/ERGt2UL8c_Vt8P6-dz-T1aByyMM=/287x162/filters:strip_icc():quality(70)/vidio-media-production/uploads/livestreaming/schedule/thumbnail/5062771/ff9151.jpg"/>
   </programme>
   <programme channel="17875" start="20260509113000 +0000" stop="20260509183000 +0000">
-    <title lang="id">6 Hours of Spa-Francorchamps, BEL : FIA World Endurance Championship 2026</title>
-    <desc lang="id">6 Hours of Spa-Francorchamps, BEL</desc>
-    <icon src="https://thumbor.prod.vidiocdn.com/VmoYokSeKr_3SubUXC-rMC-EtQM=/287x162/filters:strip_icc():quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/image/17875/bein-2-25a5f9.jpg"/>
+    <title lang="id">Race: TotalEnergies 6 Hours of Spa-Francorchamps, Belgium - WEC 2026</title>
+    <desc lang="id">Nonton streaming pertandingan seru Race: TotalEnergies 6 Hours of Spa-Francorchamps, Belgium - WEC 2026. Saksikan aksi-aksi terbaik dari tim yang bersaing ketat untuk meraih kemenangan. Dapatkan informasi lengkap mengenai jadwal pertandingan dan hasil pertandingan terbaru hanya di Vidio.</desc>
+    <icon src="https://thumbor.prod.vidiocdn.com/ERGt2UL8c_Vt8P6-dz-T1aByyMM=/287x162/filters:strip_icc():quality(70)/vidio-media-production/uploads/livestreaming/schedule/thumbnail/5062771/ff9151.jpg"/>
   </programme>
   <programme channel="17875" start="20260509183000 +0000" stop="20260509200000 +0000">
-    <title lang="id">Asuncion P2 Day 5 SF2 - Women : Premier Padel 2026</title>
-    <desc lang="id">Asuncion P2 Day 5 SF2 - Women</desc>
-    <icon src="https://thumbor.prod.vidiocdn.com/VmoYokSeKr_3SubUXC-rMC-EtQM=/287x162/filters:strip_icc():quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/image/17875/bein-2-25a5f9.jpg"/>
+    <title lang="id">Asuncion P2 Premier Padel - Semifinals</title>
+    <desc lang="id">Nonton streaming pertandingan seru Asuncion P2 Premier Padel - Semifinals. Saksikan aksi-aksi terbaik dari tim yang bersaing ketat untuk meraih kemenangan. Dapatkan informasi lengkap mengenai jadwal pertandingan dan hasil pertandingan terbaru hanya di Vidio.</desc>
+    <icon src="https://thumbor.prod.vidiocdn.com/CNOtcVZwrOtOat8TrbKbZg-M12s=/287x162/filters:strip_icc():quality(70)/vidio-media-production/uploads/livestreaming/schedule/thumbnail/5062773/877e2e.jpg"/>
   </programme>
   <programme channel="17875" start="20260509200000 +0000" stop="20260509210000 +0000">
     <title lang="id">Miami P1 Day 3 Match 1 : Premier Padel 2026</title>
@@ -13790,6 +15081,406 @@
   <programme channel="7432" start="20260510160000 +0000" stop="20260510170000 +0000">
     <title lang="id">Soundcore Dangdut</title>
     <desc lang="id">Program Kompilasi Musik dari bergenre dangdut</desc>
+    <icon src="https://thumbor.prod.vidiocdn.com/jI9paWVBn_95F0l05oSMORf2wPw=/287x162/filters:strip_icc():quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/image/7432/nusantara-tv-b373d0.jpg"/>
+  </programme>
+  <programme channel="7432" start="20260510170000 +0000" stop="20260510180000 +0000">
+    <title lang="id">Soundcore Dangdut</title>
+    <desc lang="id">Program Kompilasi Musik dari bergenre dangdut</desc>
+    <icon src="https://thumbor.prod.vidiocdn.com/jI9paWVBn_95F0l05oSMORf2wPw=/287x162/filters:strip_icc():quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/image/7432/nusantara-tv-b373d0.jpg"/>
+  </programme>
+  <programme channel="7432" start="20260510180000 +0000" stop="20260510190000 +0000">
+    <title lang="id">Celebrity Fresh</title>
+    <desc lang="id">Program infotainment berdurasi 60 menit yang menyajikan informasi tentang problematika sampai kegiatan serta berita viral selebriti Indonesia maupun selebriti luar negeri</desc>
+    <icon src="https://thumbor.prod.vidiocdn.com/jI9paWVBn_95F0l05oSMORf2wPw=/287x162/filters:strip_icc():quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/image/7432/nusantara-tv-b373d0.jpg"/>
+  </programme>
+  <programme channel="7432" start="20260510190000 +0000" stop="20260510200000 +0000">
+    <title lang="id">NTV Toplines</title>
+    <desc lang="id">Program berita harian yang mengkurasi berita terbaik, terpopuler, dan paling berdampak setiap hari, kemudian menyajikannya dengan gaya ringan, reflektif, dan humanis</desc>
+    <icon src="https://thumbor.prod.vidiocdn.com/jI9paWVBn_95F0l05oSMORf2wPw=/287x162/filters:strip_icc():quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/image/7432/nusantara-tv-b373d0.jpg"/>
+  </programme>
+  <programme channel="7432" start="20260510200000 +0000" stop="20260510210000 +0000">
+    <title lang="id">NTV Tonight</title>
+    <desc lang="id">Menghadirkan informasi bernilai tinggi dan relevan, hasil kurasi tim redaksi yang menekankan kedalaman konteks dan signifikansi publik. NTV Prime menjadi wadah informasi terpercaya yang mengulas isu penting di bidang ekonomi, politik, dan kehidupan masyarakat</desc>
+    <icon src="https://thumbor.prod.vidiocdn.com/jI9paWVBn_95F0l05oSMORf2wPw=/287x162/filters:strip_icc():quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/image/7432/nusantara-tv-b373d0.jpg"/>
+  </programme>
+  <programme channel="7432" start="20260510210000 +0000" stop="20260510220000 +0000">
+    <title lang="id">NTV Sport</title>
+    <desc lang="id">Program berita harian yang mengkurasi berita terbaik, terpopuler, dan paling berdampak setiap hari, kemudian menyajikannya dengan gaya ringan, reflektif, dan humanis</desc>
+    <icon src="https://thumbor.prod.vidiocdn.com/jI9paWVBn_95F0l05oSMORf2wPw=/287x162/filters:strip_icc():quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/image/7432/nusantara-tv-b373d0.jpg"/>
+  </programme>
+  <programme channel="7432" start="20260510220000 +0000" stop="20260510230000 +0000">
+    <title lang="id">NTV Prime</title>
+    <desc lang="id">Menghadirkan informasi bernilai tinggi dan relevan, hasil kurasi tim redaksi yang menekankan kedalaman konteks dan signifikansi publik. NTV Prime menjadi wadah informasi terpercaya yang mengulas isu penting di bidang ekonomi, politik, dan kehidupan masyarakat</desc>
+    <icon src="https://thumbor.prod.vidiocdn.com/jI9paWVBn_95F0l05oSMORf2wPw=/287x162/filters:strip_icc():quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/image/7432/nusantara-tv-b373d0.jpg"/>
+  </programme>
+  <programme channel="7432" start="20260510230000 +0000" stop="20260511003000 +0000">
+    <title lang="id">NTV Morning</title>
+    <desc lang="id">Sumber informasi yang bisa diakses masyarakat setiap pagi sebelum memulai aktivitas. Menyajikan rangkuman berita utama dari kemarin hingga dini hari</desc>
+    <icon src="https://thumbor.prod.vidiocdn.com/jI9paWVBn_95F0l05oSMORf2wPw=/287x162/filters:strip_icc():quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/image/7432/nusantara-tv-b373d0.jpg"/>
+  </programme>
+  <programme channel="7432" start="20260511003000 +0000" stop="20260511010000 +0000">
+    <title lang="id">Dari Meja Redaksi</title>
+    <desc lang="id">Sebuah program berita dengan menghadirkan perspektif jernih dari ruang redaksi. Membahas pentingnya isu-isu nasional setiap minggunya dan mendatang yang akan menjadi ulasan serta berdampak bagi masyarakat Indonesia</desc>
+    <icon src="https://thumbor.prod.vidiocdn.com/jI9paWVBn_95F0l05oSMORf2wPw=/287x162/filters:strip_icc():quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/image/7432/nusantara-tv-b373d0.jpg"/>
+  </programme>
+  <programme channel="7432" start="20260511010000 +0000" stop="20260511020000 +0000">
+    <title lang="id">Celebrity Fresh</title>
+    <desc lang="id">Program infotainment berdurasi 60 menit yang menyajikan informasi tentang problematika sampai kegiatan serta berita viral selebriti Indonesia maupun selebriti luar negeri</desc>
+    <icon src="https://thumbor.prod.vidiocdn.com/jI9paWVBn_95F0l05oSMORf2wPw=/287x162/filters:strip_icc():quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/image/7432/nusantara-tv-b373d0.jpg"/>
+  </programme>
+  <programme channel="7432" start="20260511020000 +0000" stop="20260511023000 +0000">
+    <title lang="id">Jelajah Rasa</title>
+    <desc lang="id">Mengeksplor kekayaan kuliner nusantara, menyusuri berbagai daerah untuk mencicipi dan mengangkat cerita dibalik makanan tradisional maupun modern</desc>
+    <icon src="https://thumbor.prod.vidiocdn.com/jI9paWVBn_95F0l05oSMORf2wPw=/287x162/filters:strip_icc():quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/image/7432/nusantara-tv-b373d0.jpg"/>
+  </programme>
+  <programme channel="7432" start="20260511023000 +0000" stop="20260511033000 +0000">
+    <title lang="id">Nusantara Economic Updates</title>
+    <desc lang="id">Program buletin harian yang khusus mengulas ragam isu ekonomi dan bisnis dengan mengedepankan updates, analisa mendalam, serta dampaknya pada sektor ekonomi nasional</desc>
+    <icon src="https://thumbor.prod.vidiocdn.com/jI9paWVBn_95F0l05oSMORf2wPw=/287x162/filters:strip_icc():quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/image/7432/nusantara-tv-b373d0.jpg"/>
+  </programme>
+  <programme channel="7432" start="20260511033000 +0000" stop="20260511040000 +0000">
+    <title lang="id">NTV Crime</title>
+    <desc lang="id">Menyajikan informasi kriminal terkini dari seluruh penjuru tanah air yang NTV CRIME menyajikan fakta yang aktual dibalik peristiwa kriminal.</desc>
+    <icon src="https://thumbor.prod.vidiocdn.com/jI9paWVBn_95F0l05oSMORf2wPw=/287x162/filters:strip_icc():quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/image/7432/nusantara-tv-b373d0.jpg"/>
+  </programme>
+  <programme channel="7432" start="20260511040000 +0000" stop="20260511050000 +0000">
+    <title lang="id">NTV Today</title>
+    <desc lang="id">Program buletin berita harian yang menyajikan beragam informasi terkini dari dalam dan luar negeri, mencakup peristiwa, hukum, politik, agenda kegiatan, wisata, kuliner, dan hiburan</desc>
+    <icon src="https://thumbor.prod.vidiocdn.com/jI9paWVBn_95F0l05oSMORf2wPw=/287x162/filters:strip_icc():quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/image/7432/nusantara-tv-b373d0.jpg"/>
+  </programme>
+  <programme channel="7432" start="20260511050000 +0000" stop="20260511053000 +0000">
+    <title lang="id">Asta Cita</title>
+    <desc lang="id">Sumber tayangan yang menginformasikan capaian pemerintah. Program ini menyoroti delapan arah kebijakan utama pemerintahan Presiden Prabowo Subianto, yang menjadi pondasi dalam mewujudkan Indonesia Maju, Adil, dan Berdaulat.</desc>
+    <icon src="https://thumbor.prod.vidiocdn.com/jI9paWVBn_95F0l05oSMORf2wPw=/287x162/filters:strip_icc():quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/image/7432/nusantara-tv-b373d0.jpg"/>
+  </programme>
+  <programme channel="7432" start="20260511053000 +0000" stop="20260511060000 +0000">
+    <title lang="id">Kok Bisa Viral</title>
+    <desc lang="id">Kok Bisa Viral menyajikan ragam informasi/fakta unik dari dalam ataupun luar negeri secara urutan peringkat</desc>
+    <icon src="https://thumbor.prod.vidiocdn.com/jI9paWVBn_95F0l05oSMORf2wPw=/287x162/filters:strip_icc():quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/image/7432/nusantara-tv-b373d0.jpg"/>
+  </programme>
+  <programme channel="7432" start="20260511060000 +0000" stop="20260511070000 +0000">
+    <title lang="id">Celebrity Fresh</title>
+    <desc lang="id">Program infotainment berdurasi 60 menit yang menyajikan informasi tentang problematika sampai kegiatan serta berita viral selebriti Indonesia maupun selebriti luar negeri</desc>
+    <icon src="https://thumbor.prod.vidiocdn.com/jI9paWVBn_95F0l05oSMORf2wPw=/287x162/filters:strip_icc():quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/image/7432/nusantara-tv-b373d0.jpg"/>
+  </programme>
+  <programme channel="7432" start="20260511070000 +0000" stop="20260511083000 +0000">
+    <title lang="id">Soundcore Dangdut</title>
+    <desc lang="id">Program Kompilasi Musik dari bergenre dangdut</desc>
+    <icon src="https://thumbor.prod.vidiocdn.com/jI9paWVBn_95F0l05oSMORf2wPw=/287x162/filters:strip_icc():quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/image/7432/nusantara-tv-b373d0.jpg"/>
+  </programme>
+  <programme channel="7432" start="20260511083000 +0000" stop="20260511090000 +0000">
+    <title lang="id">Nusantara Business Hour</title>
+    <desc lang="id">Program ekonomi sore yang menyajikan update tercepat, analisis tajam, dan dialog strategis untuk memahami arah ekonomi nasional dan global serta dampaknya bagi pasar, industri, dan daerah</desc>
+    <icon src="https://thumbor.prod.vidiocdn.com/jI9paWVBn_95F0l05oSMORf2wPw=/287x162/filters:strip_icc():quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/image/7432/nusantara-tv-b373d0.jpg"/>
+  </programme>
+  <programme channel="7432" start="20260511090000 +0000" stop="20260511093000 +0000">
+    <title lang="id">Celebrity Fresh</title>
+    <desc lang="id">Program infotainment berdurasi 60 menit yang dipandu oleh dua host, menampilkan beragam informasi seputar selebriti tanah air, serta trend terkini yang terjadi di kalangan selebriti</desc>
+    <icon src="https://thumbor.prod.vidiocdn.com/jI9paWVBn_95F0l05oSMORf2wPw=/287x162/filters:strip_icc():quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/image/7432/nusantara-tv-b373d0.jpg"/>
+  </programme>
+  <programme channel="7432" start="20260511093000 +0000" stop="20260511100000 +0000">
+    <title lang="id">NTV Crime</title>
+    <desc lang="id">Menyajikan informasi kriminal terkini dari seluruh penjuru tanah air yang NTV CRIME menyajikan fakta yang aktual dibalik peristiwa kriminal.</desc>
+    <icon src="https://thumbor.prod.vidiocdn.com/jI9paWVBn_95F0l05oSMORf2wPw=/287x162/filters:strip_icc():quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/image/7432/nusantara-tv-b373d0.jpg"/>
+  </programme>
+  <programme channel="7432" start="20260511100000 +0000" stop="20260511120000 +0000">
+    <title lang="id">NTV Prime</title>
+    <desc lang="id">Menghadirkan informasi bernilai tinggi dan relevan, hasil kurasi tim redaksi yang menekankan kedalaman konteks dan signifikansi publik. NTV Prime menjadi wadah informasi terpercaya yang mengulas isu penting di bidang ekonomi, politik, dan kehidupan masyarakat</desc>
+    <icon src="https://thumbor.prod.vidiocdn.com/jI9paWVBn_95F0l05oSMORf2wPw=/287x162/filters:strip_icc():quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/image/7432/nusantara-tv-b373d0.jpg"/>
+  </programme>
+  <programme channel="7432" start="20260511120000 +0000" stop="20260511130000 +0000">
+    <title lang="id">NTV Toplines</title>
+    <desc lang="id">Program berita harian yang mengkurasi berita terbaik, terpopuler, dan paling berdampak setiap hari, kemudian menyajikannya dengan gaya ringan, reflektif, dan humanis</desc>
+    <icon src="https://thumbor.prod.vidiocdn.com/jI9paWVBn_95F0l05oSMORf2wPw=/287x162/filters:strip_icc():quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/image/7432/nusantara-tv-b373d0.jpg"/>
+  </programme>
+  <programme channel="7432" start="20260511130000 +0000" stop="20260511140000 +0000">
+    <title lang="id">Abraham</title>
+    <desc lang="id">Program docudrama menyajikan penelusuran fakta Abraham Silaban terkait kebijakan publik serta isu-isu sosial yang terjadi di masyarakat. Hadir dengan konsep indepth reporting dan penelusuran TKP, ABRAHAM mengulik fakta langsung dari narasumber primer</desc>
+    <icon src="https://thumbor.prod.vidiocdn.com/jI9paWVBn_95F0l05oSMORf2wPw=/287x162/filters:strip_icc():quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/image/7432/nusantara-tv-b373d0.jpg"/>
+  </programme>
+  <programme channel="7432" start="20260511140000 +0000" stop="20260511150000 +0000">
+    <title lang="id">NTV Sport</title>
+    <desc lang="id">Program berita harian yang mengkurasi berita terbaik, terpopuler, dan paling berdampak setiap hari, kemudian menyajikannya dengan gaya ringan, reflektif, dan humanis</desc>
+    <icon src="https://thumbor.prod.vidiocdn.com/jI9paWVBn_95F0l05oSMORf2wPw=/287x162/filters:strip_icc():quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/image/7432/nusantara-tv-b373d0.jpg"/>
+  </programme>
+  <programme channel="7432" start="20260511150000 +0000" stop="20260511160000 +0000">
+    <title lang="id">NTV Tonight</title>
+    <desc lang="id">Menghadirkan informasi bernilai tinggi dan relevan, hasil kurasi tim redaksi yang menekankan kedalaman konteks dan signifikansi publik. NTV Prime menjadi wadah informasi terpercaya yang mengulas isu penting di bidang ekonomi, politik, dan kehidupan masyarakat</desc>
+    <icon src="https://thumbor.prod.vidiocdn.com/jI9paWVBn_95F0l05oSMORf2wPw=/287x162/filters:strip_icc():quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/image/7432/nusantara-tv-b373d0.jpg"/>
+  </programme>
+  <programme channel="7432" start="20260511160000 +0000" stop="20260511163000 +0000">
+    <title lang="id">NTV Headlines</title>
+    <desc lang="id">Program news buletin yang menyajikan berita-berita utama yang terjadi sepanjang hari, dirangkum secara akurat berdasarkan dampak, urgensi dan relevansinya bagi publik. Program ini hadir dengan pilihan baru, memberikan perspektif yang ringkas, jelas dan mudah untuk disimak pemirsa di ujung hari.</desc>
+    <icon src="https://thumbor.prod.vidiocdn.com/jI9paWVBn_95F0l05oSMORf2wPw=/287x162/filters:strip_icc():quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/image/7432/nusantara-tv-b373d0.jpg"/>
+  </programme>
+  <programme channel="7432" start="20260511163000 +0000" stop="20260511170000 +0000">
+    <title lang="id">Checkpoint</title>
+    <desc lang="id">Program infografis berdurasi 30 menit yang menyajikan berita pilihan berbasis data, telah melalui proses pengecekan ketat oleh tim newsroom NTV</desc>
+    <icon src="https://thumbor.prod.vidiocdn.com/jI9paWVBn_95F0l05oSMORf2wPw=/287x162/filters:strip_icc():quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/image/7432/nusantara-tv-b373d0.jpg"/>
+  </programme>
+  <programme channel="7432" start="20260511163000 +0000" stop="20260511170000 +0000">
+    <title lang="id">Checkpoint</title>
+    <desc lang="id">Program infografis berdurasi 30 menit yang menyajikan berita pilihan berbasis data, telah melalui proses pengecekan ketat oleh tim newsroom NTV</desc>
+    <icon src="https://thumbor.prod.vidiocdn.com/jI9paWVBn_95F0l05oSMORf2wPw=/287x162/filters:strip_icc():quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/image/7432/nusantara-tv-b373d0.jpg"/>
+  </programme>
+  <programme channel="7432" start="20260511170000 +0000" stop="20260511180000 +0000">
+    <title lang="id">Soundcore Dangdut</title>
+    <desc lang="id">Program Kompilasi Musik dari bergenre dangdut</desc>
+    <icon src="https://thumbor.prod.vidiocdn.com/jI9paWVBn_95F0l05oSMORf2wPw=/287x162/filters:strip_icc():quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/image/7432/nusantara-tv-b373d0.jpg"/>
+  </programme>
+  <programme channel="7432" start="20260511180000 +0000" stop="20260511190000 +0000">
+    <title lang="id">Celebrity Fresh</title>
+    <desc lang="id">Program infotainment berdurasi 60 menit yang menyajikan informasi tentang problematika sampai kegiatan serta berita viral selebriti Indonesia maupun selebriti luar negeri</desc>
+    <icon src="https://thumbor.prod.vidiocdn.com/jI9paWVBn_95F0l05oSMORf2wPw=/287x162/filters:strip_icc():quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/image/7432/nusantara-tv-b373d0.jpg"/>
+  </programme>
+  <programme channel="7432" start="20260511190000 +0000" stop="20260511200000 +0000">
+    <title lang="id">NTV Toplines</title>
+    <desc lang="id">Program berita harian yang mengkurasi berita terbaik, terpopuler, dan paling berdampak setiap hari, kemudian menyajikannya dengan gaya ringan, reflektif, dan humanis</desc>
+    <icon src="https://thumbor.prod.vidiocdn.com/jI9paWVBn_95F0l05oSMORf2wPw=/287x162/filters:strip_icc():quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/image/7432/nusantara-tv-b373d0.jpg"/>
+  </programme>
+  <programme channel="7432" start="20260511210000 +0000" stop="20260511220000 +0000">
+    <title lang="id">NTV Sport</title>
+    <desc lang="id">Program berita harian yang mengkurasi berita terbaik, terpopuler, dan paling berdampak setiap hari, kemudian menyajikannya dengan gaya ringan, reflektif, dan humanis</desc>
+    <icon src="https://thumbor.prod.vidiocdn.com/jI9paWVBn_95F0l05oSMORf2wPw=/287x162/filters:strip_icc():quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/image/7432/nusantara-tv-b373d0.jpg"/>
+  </programme>
+  <programme channel="7432" start="20260511220000 +0000" stop="20260511230000 +0000">
+    <title lang="id">NTV Prime</title>
+    <desc lang="id">Menghadirkan informasi bernilai tinggi dan relevan, hasil kurasi tim redaksi yang menekankan kedalaman konteks dan signifikansi publik. NTV Prime menjadi wadah informasi terpercaya yang mengulas isu penting di bidang ekonomi, politik, dan kehidupan masyarakat</desc>
+    <icon src="https://thumbor.prod.vidiocdn.com/jI9paWVBn_95F0l05oSMORf2wPw=/287x162/filters:strip_icc():quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/image/7432/nusantara-tv-b373d0.jpg"/>
+  </programme>
+  <programme channel="7432" start="20260511230000 +0000" stop="20260512003000 +0000">
+    <title lang="id">NTV Morning</title>
+    <desc lang="id">Sumber informasi yang bisa diakses masyarakat setiap pagi sebelum memulai aktivitas. Menyajikan rangkuman berita utama dari kemarin hingga dini hari</desc>
+    <icon src="https://thumbor.prod.vidiocdn.com/jI9paWVBn_95F0l05oSMORf2wPw=/287x162/filters:strip_icc():quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/image/7432/nusantara-tv-b373d0.jpg"/>
+  </programme>
+  <programme channel="7432" start="20260512003000 +0000" stop="20260512010000 +0000">
+    <title lang="id">LOL</title>
+    <desc lang="id">Program magazine tentang aksi kriminal yang terjadi di masyarakat dengan kejadian lucu dan absurd</desc>
+    <icon src="https://thumbor.prod.vidiocdn.com/jI9paWVBn_95F0l05oSMORf2wPw=/287x162/filters:strip_icc():quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/image/7432/nusantara-tv-b373d0.jpg"/>
+  </programme>
+  <programme channel="7432" start="20260512010000 +0000" stop="20260512020000 +0000">
+    <title lang="id">Celebrity Fresh</title>
+    <desc lang="id">Program infotainment berdurasi 60 menit yang menyajikan informasi tentang problematika sampai kegiatan serta berita viral selebriti Indonesia maupun selebriti luar negeri</desc>
+    <icon src="https://thumbor.prod.vidiocdn.com/jI9paWVBn_95F0l05oSMORf2wPw=/287x162/filters:strip_icc():quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/image/7432/nusantara-tv-b373d0.jpg"/>
+  </programme>
+  <programme channel="7432" start="20260512020000 +0000" stop="20260512023000 +0000">
+    <title lang="id">Jelajah Rasa</title>
+    <desc lang="id">Mengeksplor kekayaan kuliner nusantara, menyusuri berbagai daerah untuk mencicipi dan mengangkat cerita dibalik makanan tradisional maupun modern</desc>
+    <icon src="https://thumbor.prod.vidiocdn.com/jI9paWVBn_95F0l05oSMORf2wPw=/287x162/filters:strip_icc():quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/image/7432/nusantara-tv-b373d0.jpg"/>
+  </programme>
+  <programme channel="7432" start="20260512023000 +0000" stop="20260512033000 +0000">
+    <title lang="id">Nusantara Economic Updates</title>
+    <desc lang="id">Program buletin harian yang khusus mengulas ragam isu ekonomi dan bisnis dengan mengedepankan updates, analisa mendalam, serta dampaknya pada sektor ekonomi nasional</desc>
+    <icon src="https://thumbor.prod.vidiocdn.com/jI9paWVBn_95F0l05oSMORf2wPw=/287x162/filters:strip_icc():quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/image/7432/nusantara-tv-b373d0.jpg"/>
+  </programme>
+  <programme channel="7432" start="20260512033000 +0000" stop="20260512040000 +0000">
+    <title lang="id">NTV Crime</title>
+    <desc lang="id">Menyajikan informasi kriminal terkini dari seluruh penjuru tanah air yang NTV CRIME menyajikan fakta yang aktual dibalik peristiwa kriminal.</desc>
+    <icon src="https://thumbor.prod.vidiocdn.com/jI9paWVBn_95F0l05oSMORf2wPw=/287x162/filters:strip_icc():quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/image/7432/nusantara-tv-b373d0.jpg"/>
+  </programme>
+  <programme channel="7432" start="20260512040000 +0000" stop="20260512050000 +0000">
+    <title lang="id">NTV Today</title>
+    <desc lang="id">Program buletin berita harian yang menyajikan beragam informasi terkini dari dalam dan luar negeri, mencakup peristiwa, hukum, politik, agenda kegiatan, wisata, kuliner, dan hiburan</desc>
+    <icon src="https://thumbor.prod.vidiocdn.com/jI9paWVBn_95F0l05oSMORf2wPw=/287x162/filters:strip_icc():quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/image/7432/nusantara-tv-b373d0.jpg"/>
+  </programme>
+  <programme channel="7432" start="20260512050000 +0000" stop="20260512053000 +0000">
+    <title lang="id">Asta Cita</title>
+    <desc lang="id">Sumber tayangan yang menginformasikan capaian pemerintah. Program ini menyoroti delapan arah kebijakan utama pemerintahan Presiden Prabowo Subianto, yang menjadi pondasi dalam mewujudkan Indonesia Maju, Adil, dan Berdaulat.</desc>
+    <icon src="https://thumbor.prod.vidiocdn.com/jI9paWVBn_95F0l05oSMORf2wPw=/287x162/filters:strip_icc():quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/image/7432/nusantara-tv-b373d0.jpg"/>
+  </programme>
+  <programme channel="7432" start="20260512053000 +0000" stop="20260512060000 +0000">
+    <title lang="id">Kok Bisa Viral</title>
+    <desc lang="id">Kok Bisa Viral menyajikan ragam informasi/fakta unik dari dalam ataupun luar negeri secara urutan peringkat</desc>
+    <icon src="https://thumbor.prod.vidiocdn.com/jI9paWVBn_95F0l05oSMORf2wPw=/287x162/filters:strip_icc():quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/image/7432/nusantara-tv-b373d0.jpg"/>
+  </programme>
+  <programme channel="7432" start="20260512060000 +0000" stop="20260512070000 +0000">
+    <title lang="id">Celebrity Fresh</title>
+    <desc lang="id">Program infotainment berdurasi 60 menit yang menyajikan informasi tentang problematika sampai kegiatan serta berita viral selebriti Indonesia maupun selebriti luar negeri</desc>
+    <icon src="https://thumbor.prod.vidiocdn.com/jI9paWVBn_95F0l05oSMORf2wPw=/287x162/filters:strip_icc():quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/image/7432/nusantara-tv-b373d0.jpg"/>
+  </programme>
+  <programme channel="7432" start="20260512070000 +0000" stop="20260512083000 +0000">
+    <title lang="id">Soundcore Dangdut</title>
+    <desc lang="id">Program Kompilasi Musik dari bergenre dangdut</desc>
+    <icon src="https://thumbor.prod.vidiocdn.com/jI9paWVBn_95F0l05oSMORf2wPw=/287x162/filters:strip_icc():quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/image/7432/nusantara-tv-b373d0.jpg"/>
+  </programme>
+  <programme channel="7432" start="20260512083000 +0000" stop="20260512093000 +0000">
+    <title lang="id">Nusantara Business Hour</title>
+    <desc lang="id">Program ekonomi sore yang menyajikan update tercepat, analisis tajam, dan dialog strategis untuk memahami arah ekonomi nasional dan global serta dampaknya bagi pasar, industri, dan daerah</desc>
+    <icon src="https://thumbor.prod.vidiocdn.com/jI9paWVBn_95F0l05oSMORf2wPw=/287x162/filters:strip_icc():quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/image/7432/nusantara-tv-b373d0.jpg"/>
+  </programme>
+  <programme channel="7432" start="20260512093000 +0000" stop="20260512100000 +0000">
+    <title lang="id">NTV Crime</title>
+    <desc lang="id">Menyajikan informasi kriminal terkini dari seluruh penjuru tanah air yang NTV CRIME menyajikan fakta yang aktual dibalik peristiwa kriminal.</desc>
+    <icon src="https://thumbor.prod.vidiocdn.com/jI9paWVBn_95F0l05oSMORf2wPw=/287x162/filters:strip_icc():quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/image/7432/nusantara-tv-b373d0.jpg"/>
+  </programme>
+  <programme channel="7432" start="20260512100000 +0000" stop="20260512120000 +0000">
+    <title lang="id">NTV Prime</title>
+    <desc lang="id">Menghadirkan informasi bernilai tinggi dan relevan, hasil kurasi tim redaksi yang menekankan kedalaman konteks dan signifikansi publik. NTV Prime menjadi wadah informasi terpercaya yang mengulas isu penting di bidang ekonomi, politik, dan kehidupan masyarakat</desc>
+    <icon src="https://thumbor.prod.vidiocdn.com/jI9paWVBn_95F0l05oSMORf2wPw=/287x162/filters:strip_icc():quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/image/7432/nusantara-tv-b373d0.jpg"/>
+  </programme>
+  <programme channel="7432" start="20260512120000 +0000" stop="20260512130000 +0000">
+    <title lang="id">NTV Toplines</title>
+    <desc lang="id">Program berita harian yang mengkurasi berita terbaik, terpopuler, dan paling berdampak setiap hari, kemudian menyajikannya dengan gaya ringan, reflektif, dan humanis</desc>
+    <icon src="https://thumbor.prod.vidiocdn.com/jI9paWVBn_95F0l05oSMORf2wPw=/287x162/filters:strip_icc():quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/image/7432/nusantara-tv-b373d0.jpg"/>
+  </programme>
+  <programme channel="7432" start="20260512130000 +0000" stop="20260512140000 +0000">
+    <title lang="id">Kasipaham</title>
+    <desc lang="id">Dialog informatif untuk memberikan pemahaman mendalam (mengedukasi) kepada penonton terhadap berbagai isu terkini, kebijakan pemerintah, dan fenomena sosial</desc>
+    <icon src="https://thumbor.prod.vidiocdn.com/jI9paWVBn_95F0l05oSMORf2wPw=/287x162/filters:strip_icc():quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/image/7432/nusantara-tv-b373d0.jpg"/>
+  </programme>
+  <programme channel="7432" start="20260512140000 +0000" stop="20260512150000 +0000">
+    <title lang="id">NTV Sport</title>
+    <desc lang="id">Program berita harian yang mengkurasi berita terbaik, terpopuler, dan paling berdampak setiap hari, kemudian menyajikannya dengan gaya ringan, reflektif, dan humanis</desc>
+    <icon src="https://thumbor.prod.vidiocdn.com/jI9paWVBn_95F0l05oSMORf2wPw=/287x162/filters:strip_icc():quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/image/7432/nusantara-tv-b373d0.jpg"/>
+  </programme>
+  <programme channel="7432" start="20260512150000 +0000" stop="20260512160000 +0000">
+    <title lang="id">NTV Tonight</title>
+    <desc lang="id">Menghadirkan informasi bernilai tinggi dan relevan, hasil kurasi tim redaksi yang menekankan kedalaman konteks dan signifikansi publik. NTV Prime menjadi wadah informasi terpercaya yang mengulas isu penting di bidang ekonomi, politik, dan kehidupan masyarakat</desc>
+    <icon src="https://thumbor.prod.vidiocdn.com/jI9paWVBn_95F0l05oSMORf2wPw=/287x162/filters:strip_icc():quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/image/7432/nusantara-tv-b373d0.jpg"/>
+  </programme>
+  <programme channel="7432" start="20260512160000 +0000" stop="20260512163000 +0000">
+    <title lang="id">NTV Headlines</title>
+    <desc lang="id">Program news buletin yang menyajikan berita-berita utama yang terjadi sepanjang hari, dirangkum secara akurat berdasarkan dampak, urgensi dan relevansinya bagi publik. Program ini hadir dengan pilihan baru, memberikan perspektif yang ringkas, jelas dan mudah untuk disimak pemirsa di ujung hari.</desc>
+    <icon src="https://thumbor.prod.vidiocdn.com/jI9paWVBn_95F0l05oSMORf2wPw=/287x162/filters:strip_icc():quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/image/7432/nusantara-tv-b373d0.jpg"/>
+  </programme>
+  <programme channel="7432" start="20260512163000 +0000" stop="20260512170000 +0000">
+    <title lang="id">Checkpoint</title>
+    <desc lang="id">Program infografis berdurasi 30 menit yang menyajikan berita pilihan berbasis data, telah melalui proses pengecekan ketat oleh tim newsroom NTV</desc>
+    <icon src="https://thumbor.prod.vidiocdn.com/jI9paWVBn_95F0l05oSMORf2wPw=/287x162/filters:strip_icc():quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/image/7432/nusantara-tv-b373d0.jpg"/>
+  </programme>
+  <programme channel="7432" start="20260512163000 +0000" stop="20260512170000 +0000">
+    <title lang="id">Checkpoint</title>
+    <desc lang="id">Program infografis berdurasi 30 menit yang menyajikan berita pilihan berbasis data, telah melalui proses pengecekan ketat oleh tim newsroom NTV</desc>
+    <icon src="https://thumbor.prod.vidiocdn.com/jI9paWVBn_95F0l05oSMORf2wPw=/287x162/filters:strip_icc():quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/image/7432/nusantara-tv-b373d0.jpg"/>
+  </programme>
+  <programme channel="7432" start="20260512170000 +0000" stop="20260512180000 +0000">
+    <title lang="id">Soundcore Dangdut</title>
+    <desc lang="id">Program Kompilasi Musik dari bergenre dangdut</desc>
+    <icon src="https://thumbor.prod.vidiocdn.com/jI9paWVBn_95F0l05oSMORf2wPw=/287x162/filters:strip_icc():quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/image/7432/nusantara-tv-b373d0.jpg"/>
+  </programme>
+  <programme channel="7432" start="20260512180000 +0000" stop="20260512190000 +0000">
+    <title lang="id">Celebrity Fresh</title>
+    <desc lang="id">Program infotainment berdurasi 60 menit yang menyajikan informasi tentang problematika sampai kegiatan serta berita viral selebriti Indonesia maupun selebriti luar negeri</desc>
+    <icon src="https://thumbor.prod.vidiocdn.com/jI9paWVBn_95F0l05oSMORf2wPw=/287x162/filters:strip_icc():quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/image/7432/nusantara-tv-b373d0.jpg"/>
+  </programme>
+  <programme channel="7432" start="20260512190000 +0000" stop="20260512200000 +0000">
+    <title lang="id">NTV Toplines</title>
+    <desc lang="id">Program berita harian yang mengkurasi berita terbaik, terpopuler, dan paling berdampak setiap hari, kemudian menyajikannya dengan gaya ringan, reflektif, dan humanis</desc>
+    <icon src="https://thumbor.prod.vidiocdn.com/jI9paWVBn_95F0l05oSMORf2wPw=/287x162/filters:strip_icc():quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/image/7432/nusantara-tv-b373d0.jpg"/>
+  </programme>
+  <programme channel="7432" start="20260512210000 +0000" stop="20260512220000 +0000">
+    <title lang="id">NTV Sport</title>
+    <desc lang="id">Program berita harian yang mengkurasi berita terbaik, terpopuler, dan paling berdampak setiap hari, kemudian menyajikannya dengan gaya ringan, reflektif, dan humanis</desc>
+    <icon src="https://thumbor.prod.vidiocdn.com/jI9paWVBn_95F0l05oSMORf2wPw=/287x162/filters:strip_icc():quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/image/7432/nusantara-tv-b373d0.jpg"/>
+  </programme>
+  <programme channel="7432" start="20260512220000 +0000" stop="20260512230000 +0000">
+    <title lang="id">NTV Prime</title>
+    <desc lang="id">Menghadirkan informasi bernilai tinggi dan relevan, hasil kurasi tim redaksi yang menekankan kedalaman konteks dan signifikansi publik. NTV Prime menjadi wadah informasi terpercaya yang mengulas isu penting di bidang ekonomi, politik, dan kehidupan masyarakat</desc>
+    <icon src="https://thumbor.prod.vidiocdn.com/jI9paWVBn_95F0l05oSMORf2wPw=/287x162/filters:strip_icc():quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/image/7432/nusantara-tv-b373d0.jpg"/>
+  </programme>
+  <programme channel="7432" start="20260512230000 +0000" stop="20260513003000 +0000">
+    <title lang="id">NTV Morning</title>
+    <desc lang="id">Sumber informasi yang bisa diakses masyarakat setiap pagi sebelum memulai aktivitas. Menyajikan rangkuman berita utama dari kemarin hingga dini hari</desc>
+    <icon src="https://thumbor.prod.vidiocdn.com/jI9paWVBn_95F0l05oSMORf2wPw=/287x162/filters:strip_icc():quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/image/7432/nusantara-tv-b373d0.jpg"/>
+  </programme>
+  <programme channel="7432" start="20260513003000 +0000" stop="20260513010000 +0000">
+    <title lang="id">LOL</title>
+    <desc lang="id">Program magazine tentang aksi kriminal yang terjadi di masyarakat dengan kejadian lucu dan absurd</desc>
+    <icon src="https://thumbor.prod.vidiocdn.com/jI9paWVBn_95F0l05oSMORf2wPw=/287x162/filters:strip_icc():quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/image/7432/nusantara-tv-b373d0.jpg"/>
+  </programme>
+  <programme channel="7432" start="20260513010000 +0000" stop="20260513020000 +0000">
+    <title lang="id">Celebrity Fresh</title>
+    <desc lang="id">Program infotainment berdurasi 60 menit yang menyajikan informasi tentang problematika sampai kegiatan serta berita viral selebriti Indonesia maupun selebriti luar negeri</desc>
+    <icon src="https://thumbor.prod.vidiocdn.com/jI9paWVBn_95F0l05oSMORf2wPw=/287x162/filters:strip_icc():quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/image/7432/nusantara-tv-b373d0.jpg"/>
+  </programme>
+  <programme channel="7432" start="20260513020000 +0000" stop="20260513023000 +0000">
+    <title lang="id">Jelajah Rasa</title>
+    <desc lang="id">Mengeksplor kekayaan kuliner nusantara, menyusuri berbagai daerah untuk mencicipi dan mengangkat cerita dibalik makanan tradisional maupun modern</desc>
+    <icon src="https://thumbor.prod.vidiocdn.com/jI9paWVBn_95F0l05oSMORf2wPw=/287x162/filters:strip_icc():quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/image/7432/nusantara-tv-b373d0.jpg"/>
+  </programme>
+  <programme channel="7432" start="20260513023000 +0000" stop="20260513033000 +0000">
+    <title lang="id">Nusantara Economic Updates</title>
+    <desc lang="id">Program buletin harian yang khusus mengulas ragam isu ekonomi dan bisnis dengan mengedepankan updates, analisa mendalam, serta dampaknya pada sektor ekonomi nasional</desc>
+    <icon src="https://thumbor.prod.vidiocdn.com/jI9paWVBn_95F0l05oSMORf2wPw=/287x162/filters:strip_icc():quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/image/7432/nusantara-tv-b373d0.jpg"/>
+  </programme>
+  <programme channel="7432" start="20260513033000 +0000" stop="20260513040000 +0000">
+    <title lang="id">NTV Crime</title>
+    <desc lang="id">Menyajikan informasi kriminal terkini dari seluruh penjuru tanah air yang NTV CRIME menyajikan fakta yang aktual dibalik peristiwa kriminal.</desc>
+    <icon src="https://thumbor.prod.vidiocdn.com/jI9paWVBn_95F0l05oSMORf2wPw=/287x162/filters:strip_icc():quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/image/7432/nusantara-tv-b373d0.jpg"/>
+  </programme>
+  <programme channel="7432" start="20260513040000 +0000" stop="20260513050000 +0000">
+    <title lang="id">NTV Today</title>
+    <desc lang="id">Program buletin berita harian yang menyajikan beragam informasi terkini dari dalam dan luar negeri, mencakup peristiwa, hukum, politik, agenda kegiatan, wisata, kuliner, dan hiburan</desc>
+    <icon src="https://thumbor.prod.vidiocdn.com/jI9paWVBn_95F0l05oSMORf2wPw=/287x162/filters:strip_icc():quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/image/7432/nusantara-tv-b373d0.jpg"/>
+  </programme>
+  <programme channel="7432" start="20260513050000 +0000" stop="20260513053000 +0000">
+    <title lang="id">Asta Cita</title>
+    <desc lang="id">Sumber tayangan yang menginformasikan capaian pemerintah. Program ini menyoroti delapan arah kebijakan utama pemerintahan Presiden Prabowo Subianto, yang menjadi pondasi dalam mewujudkan Indonesia Maju, Adil, dan Berdaulat.</desc>
+    <icon src="https://thumbor.prod.vidiocdn.com/jI9paWVBn_95F0l05oSMORf2wPw=/287x162/filters:strip_icc():quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/image/7432/nusantara-tv-b373d0.jpg"/>
+  </programme>
+  <programme channel="7432" start="20260513053000 +0000" stop="20260513060000 +0000">
+    <title lang="id">Kok Bisa Viral</title>
+    <desc lang="id">Kok Bisa Viral menyajikan ragam informasi/fakta unik dari dalam ataupun luar negeri secara urutan peringkat</desc>
+    <icon src="https://thumbor.prod.vidiocdn.com/jI9paWVBn_95F0l05oSMORf2wPw=/287x162/filters:strip_icc():quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/image/7432/nusantara-tv-b373d0.jpg"/>
+  </programme>
+  <programme channel="7432" start="20260513060000 +0000" stop="20260513070000 +0000">
+    <title lang="id">Celebrity Fresh</title>
+    <desc lang="id">Program infotainment berdurasi 60 menit yang menyajikan informasi tentang problematika sampai kegiatan serta berita viral selebriti Indonesia maupun selebriti luar negeri</desc>
+    <icon src="https://thumbor.prod.vidiocdn.com/jI9paWVBn_95F0l05oSMORf2wPw=/287x162/filters:strip_icc():quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/image/7432/nusantara-tv-b373d0.jpg"/>
+  </programme>
+  <programme channel="7432" start="20260513070000 +0000" stop="20260513083000 +0000">
+    <title lang="id">Soundcore Dangdut</title>
+    <desc lang="id">Program Kompilasi Musik dari bergenre dangdut</desc>
+    <icon src="https://thumbor.prod.vidiocdn.com/jI9paWVBn_95F0l05oSMORf2wPw=/287x162/filters:strip_icc():quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/image/7432/nusantara-tv-b373d0.jpg"/>
+  </programme>
+  <programme channel="7432" start="20260513083000 +0000" stop="20260513090000 +0000">
+    <title lang="id">Nusantara Business Hour</title>
+    <desc lang="id">Program ekonomi sore yang menyajikan update tercepat, analisis tajam, dan dialog strategis untuk memahami arah ekonomi nasional dan global serta dampaknya bagi pasar, industri, dan daerah</desc>
+    <icon src="https://thumbor.prod.vidiocdn.com/jI9paWVBn_95F0l05oSMORf2wPw=/287x162/filters:strip_icc():quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/image/7432/nusantara-tv-b373d0.jpg"/>
+  </programme>
+  <programme channel="7432" start="20260513090000 +0000" stop="20260513093000 +0000">
+    <title lang="id">Dari Meja Redaksi</title>
+    <desc lang="id">Sebuah program berita dengan menghadirkan perspektif jernih dari ruang redaksi. Membahas pentingnya isu-isu nasional setiap minggunya dan mendatang yang akan menjadi ulasan serta berdampak bagi masyarakat Indonesia</desc>
+    <icon src="https://thumbor.prod.vidiocdn.com/jI9paWVBn_95F0l05oSMORf2wPw=/287x162/filters:strip_icc():quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/image/7432/nusantara-tv-b373d0.jpg"/>
+  </programme>
+  <programme channel="7432" start="20260513093000 +0000" stop="20260513100000 +0000">
+    <title lang="id">NTV Crime</title>
+    <desc lang="id">Menyajikan informasi kriminal terkini dari seluruh penjuru tanah air yang NTV CRIME menyajikan fakta yang aktual dibalik peristiwa kriminal.</desc>
+    <icon src="https://thumbor.prod.vidiocdn.com/jI9paWVBn_95F0l05oSMORf2wPw=/287x162/filters:strip_icc():quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/image/7432/nusantara-tv-b373d0.jpg"/>
+  </programme>
+  <programme channel="7432" start="20260513100000 +0000" stop="20260513120000 +0000">
+    <title lang="id">NTV Prime</title>
+    <desc lang="id">Menghadirkan informasi bernilai tinggi dan relevan, hasil kurasi tim redaksi yang menekankan kedalaman konteks dan signifikansi publik. NTV Prime menjadi wadah informasi terpercaya yang mengulas isu penting di bidang ekonomi, politik, dan kehidupan masyarakat</desc>
+    <icon src="https://thumbor.prod.vidiocdn.com/jI9paWVBn_95F0l05oSMORf2wPw=/287x162/filters:strip_icc():quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/image/7432/nusantara-tv-b373d0.jpg"/>
+  </programme>
+  <programme channel="7432" start="20260513120000 +0000" stop="20260513130000 +0000">
+    <title lang="id">NTV Toplines</title>
+    <desc lang="id">Program berita harian yang mengkurasi berita terbaik, terpopuler, dan paling berdampak setiap hari, kemudian menyajikannya dengan gaya ringan, reflektif, dan humanis</desc>
+    <icon src="https://thumbor.prod.vidiocdn.com/jI9paWVBn_95F0l05oSMORf2wPw=/287x162/filters:strip_icc():quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/image/7432/nusantara-tv-b373d0.jpg"/>
+  </programme>
+  <programme channel="7432" start="20260513130000 +0000" stop="20260513140000 +0000">
+    <title lang="id">Merah Putih</title>
+    <desc lang="id">Program dialog yang mengeksplorasi dan mengupas berbagai kebijakan pemerintah. Program ini bertujuan memberikan pemahaman yang lebih mendalam kepada masyarakat mengenai kebijakan yang sedang maupun akan dilaksanakan, sekaligus membahas isu- isu terkini yang menjadi perhatian publik</desc>
+    <icon src="https://thumbor.prod.vidiocdn.com/jI9paWVBn_95F0l05oSMORf2wPw=/287x162/filters:strip_icc():quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/image/7432/nusantara-tv-b373d0.jpg"/>
+  </programme>
+  <programme channel="7432" start="20260513140000 +0000" stop="20260513150000 +0000">
+    <title lang="id">NTV Sport</title>
+    <desc lang="id">Program berita harian yang mengkurasi berita terbaik, terpopuler, dan paling berdampak setiap hari, kemudian menyajikannya dengan gaya ringan, reflektif, dan humanis</desc>
+    <icon src="https://thumbor.prod.vidiocdn.com/jI9paWVBn_95F0l05oSMORf2wPw=/287x162/filters:strip_icc():quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/image/7432/nusantara-tv-b373d0.jpg"/>
+  </programme>
+  <programme channel="7432" start="20260513150000 +0000" stop="20260513160000 +0000">
+    <title lang="id">NTV Tonight</title>
+    <desc lang="id">Menghadirkan informasi bernilai tinggi dan relevan, hasil kurasi tim redaksi yang menekankan kedalaman konteks dan signifikansi publik. NTV Prime menjadi wadah informasi terpercaya yang mengulas isu penting di bidang ekonomi, politik, dan kehidupan masyarakat</desc>
+    <icon src="https://thumbor.prod.vidiocdn.com/jI9paWVBn_95F0l05oSMORf2wPw=/287x162/filters:strip_icc():quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/image/7432/nusantara-tv-b373d0.jpg"/>
+  </programme>
+  <programme channel="7432" start="20260513160000 +0000" stop="20260513163000 +0000">
+    <title lang="id">NTV Headlines</title>
+    <desc lang="id">Program news buletin yang menyajikan berita-berita utama yang terjadi sepanjang hari, dirangkum secara akurat berdasarkan dampak, urgensi dan relevansinya bagi publik. Program ini hadir dengan pilihan baru, memberikan perspektif yang ringkas, jelas dan mudah untuk disimak pemirsa di ujung hari.</desc>
+    <icon src="https://thumbor.prod.vidiocdn.com/jI9paWVBn_95F0l05oSMORf2wPw=/287x162/filters:strip_icc():quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/image/7432/nusantara-tv-b373d0.jpg"/>
+  </programme>
+  <programme channel="7432" start="20260513163000 +0000" stop="20260513170000 +0000">
+    <title lang="id">Checkpoint</title>
+    <desc lang="id">Program infografis berdurasi 30 menit yang menyajikan berita pilihan berbasis data, telah melalui proses pengecekan ketat oleh tim newsroom NTV</desc>
     <icon src="https://thumbor.prod.vidiocdn.com/jI9paWVBn_95F0l05oSMORf2wPw=/287x162/filters:strip_icc():quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/image/7432/nusantara-tv-b373d0.jpg"/>
   </programme>
   <programme channel="9713" start="20260506160000 +0000" stop="20260506170000 +0000">
