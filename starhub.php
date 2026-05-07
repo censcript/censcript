@@ -3218,7 +3218,7 @@
         <title>Best of DW-online Content</title>
     </programme>
     <programme start="20260506233000 +0000" stop="20260507000000 +0000" channel="DW English HD.starhub">
-        <title>Spotlight on People</title>
+        <title>Montenegro: Crackdown on crime and clans</title>
     </programme>
     <programme start="20260507000000 +0000" stop="20260507000200 +0000" channel="DW English HD.starhub">
         <title>News</title>
@@ -3227,7 +3227,7 @@
         <title>News in Review</title>
     </programme>
     <programme start="20260507003000 +0000" stop="20260507010000 +0000" channel="DW English HD.starhub">
-        <title>Experiencing and understanding the art world</title>
+        <title>US troops leaving Germany? Vice Chief of Defense: ‘Not a surprise’</title>
     </programme>
     <programme start="20260507010000 +0000" stop="20260507010200 +0000" channel="DW English HD.starhub">
         <title>News</title>
@@ -3245,7 +3245,7 @@
         <title>News in Review</title>
     </programme>
     <programme start="20260507023000 +0000" stop="20260507030000 +0000" channel="DW English HD.starhub">
-        <title>Your Business Magazine</title>
+        <title>Brains, beauty and barriers: the global job market</title>
     </programme>
     <programme start="20260507030000 +0000" stop="20260507030200 +0000" channel="DW English HD.starhub">
         <title>News</title>
@@ -3254,10 +3254,10 @@
         <title>News</title>
     </programme>
     <programme start="20260507031500 +0000" stop="20260507033000 +0000" channel="DW English HD.starhub">
-        <title>Best of DW-online Content</title>
+        <title>Walking with Kafka: Prague through a troubled genius’ eyes</title>
     </programme>
     <programme start="20260507033000 +0000" stop="20260507040000 +0000" channel="DW English HD.starhub">
-        <title>The Environment Magazine</title>
+        <title>Switching to renewables: The sunny side and the flipside</title>
     </programme>
     <programme start="20260507040000 +0000" stop="20260507040200 +0000" channel="DW English HD.starhub">
         <title>News</title>
@@ -3275,7 +3275,7 @@
         <title>News in Review</title>
     </programme>
     <programme start="20260507053000 +0000" stop="20260507060000 +0000" channel="DW English HD.starhub">
-        <title>Spotlight on People</title>
+        <title>Montenegro: Crackdown on crime and clans</title>
     </programme>
     <programme start="20260507060000 +0000" stop="20260507060200 +0000" channel="DW English HD.starhub">
         <title>News</title>
@@ -3284,7 +3284,7 @@
         <title>News</title>
     </programme>
     <programme start="20260507061500 +0000" stop="20260507063000 +0000" channel="DW English HD.starhub">
-        <title>Best of DW-online Content</title>
+        <title>Walking with Kafka: Prague through a troubled genius’ eyes</title>
     </programme>
     <programme start="20260507063000 +0000" stop="20260507070000 +0000" channel="DW English HD.starhub">
         <title>The Magic of Colors</title>
@@ -3299,10 +3299,10 @@
         <title>News</title>
     </programme>
     <programme start="20260507080200 +0000" stop="20260507083000 +0000" channel="DW English HD.starhub">
-        <title>Your Business Magazine</title>
+        <title>Brains, beauty and barriers: the global job market</title>
     </programme>
     <programme start="20260507083000 +0000" stop="20260507090000 +0000" channel="DW English HD.starhub">
-        <title>Spotlight on People</title>
+        <title>Montenegro: Crackdown on crime and clans</title>
     </programme>
     <programme start="20260507090000 +0000" stop="20260507090200 +0000" channel="DW English HD.starhub">
         <title>News</title>
@@ -3329,10 +3329,10 @@
         <title>News</title>
     </programme>
     <programme start="20260507111500 +0000" stop="20260507113000 +0000" channel="DW English HD.starhub">
-        <title>Overcoming Challenges with Sports</title>
+        <title>North Macedonian Drifting Dreams</title>
     </programme>
     <programme start="20260507113000 +0000" stop="20260507120000 +0000" channel="DW English HD.starhub">
-        <title>Spotlight on People</title>
+        <title>Montenegro: Crackdown on crime and clans</title>
     </programme>
     <programme start="20260507120000 +0000" stop="20260507120300 +0000" channel="DW English HD.starhub">
         <title>News</title>
@@ -3347,10 +3347,10 @@
         <title>News</title>
     </programme>
     <programme start="20260507131500 +0000" stop="20260507133000 +0000" channel="DW English HD.starhub">
-        <title>Best of DW-online Content</title>
+        <title>This is how Rosalía went from unknown to global icon</title>
     </programme>
     <programme start="20260507133000 +0000" stop="20260507140000 +0000" channel="DW English HD.starhub">
-        <title>The Global Auto and Mobility Show</title>
+        <title>Smart cars: convenience v. security risk?</title>
     </programme>
     <programme start="20260507140000 +0000" stop="20260507140200 +0000" channel="DW English HD.starhub">
         <title>News</title>
@@ -3365,7 +3365,7 @@
         <title>News</title>
     </programme>
     <programme start="20260507153000 +0000" stop="20260507160000 +0000" channel="DW English HD.starhub">
-        <title>The Health Show</title>
+        <title>Low testosterone: What it does to men&#039;s health</title>
     </programme>
     <programme start="20260506160000 +0000" stop="20260506220000 +0000" channel="Preview Channel.starhub">
         <title>Preview Channel</title>

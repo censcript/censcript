@@ -1360,34 +1360,37 @@
 <programme start="20260507215500 +0000" stop="20260507222500 +0000" channel="Motorvision+.skyde">
     <title>Car History</title>
 </programme>
+<programme start="20260506220000 +0000" stop="20260506222000 +0000" channel="Nick Jr..skyde">
+    <title>BARBAPAPA und Familie</title>
+</programme>
 <programme start="20260506222000 +0000" stop="20260506224000 +0000" channel="Nick Jr..skyde">
     <title>Rubble &amp; Crew</title>
 </programme>
 <programme start="20260506224000 +0000" stop="20260506230500 +0000" channel="Nick Jr..skyde">
     <title>Rubble &amp; Crew</title>
 </programme>
-<programme start="20260506230500 +0000" stop="20260506232500 +0000" channel="Nick Jr..skyde">
+<programme start="20260506230500 +0000" stop="20260506233000 +0000" channel="Nick Jr..skyde">
     <title>Paw Patrol: Helfer auf vier Pfoten</title>
 </programme>
-<programme start="20260506232500 +0000" stop="20260506235000 +0000" channel="Nick Jr..skyde">
+<programme start="20260506233000 +0000" stop="20260506235000 +0000" channel="Nick Jr..skyde">
     <title>Paw Patrol: Helfer auf vier Pfoten</title>
 </programme>
-<programme start="20260506235000 +0000" stop="20260507001000 +0000" channel="Nick Jr..skyde">
+<programme start="20260506235000 +0000" stop="20260507001500 +0000" channel="Nick Jr..skyde">
     <title>BARBAPAPA und Familie</title>
 </programme>
-<programme start="20260507001000 +0000" stop="20260507003500 +0000" channel="Nick Jr..skyde">
+<programme start="20260507001500 +0000" stop="20260507003500 +0000" channel="Nick Jr..skyde">
     <title>BARBAPAPA und Familie</title>
 </programme>
-<programme start="20260507003500 +0000" stop="20260507004000 +0000" channel="Nick Jr..skyde">
+<programme start="20260507003500 +0000" stop="20260507004500 +0000" channel="Nick Jr..skyde">
     <title>Tim Rex im All</title>
 </programme>
-<programme start="20260507004000 +0000" stop="20260507005000 +0000" channel="Nick Jr..skyde">
+<programme start="20260507004500 +0000" stop="20260507005000 +0000" channel="Nick Jr..skyde">
     <title>Tim Rex im All</title>
 </programme>
-<programme start="20260507005000 +0000" stop="20260507005500 +0000" channel="Nick Jr..skyde">
+<programme start="20260507005000 +0000" stop="20260507010000 +0000" channel="Nick Jr..skyde">
     <title>Tim Rex im All</title>
 </programme>
-<programme start="20260507005500 +0000" stop="20260507012000 +0000" channel="Nick Jr..skyde">
+<programme start="20260507010000 +0000" stop="20260507012000 +0000" channel="Nick Jr..skyde">
     <title>Rubble &amp; Crew</title>
 </programme>
 <programme start="20260507012000 +0000" stop="20260507014500 +0000" channel="Nick Jr..skyde">
@@ -1405,31 +1408,31 @@
 <programme start="20260507025000 +0000" stop="20260507031500 +0000" channel="Nick Jr..skyde">
     <title>BARBAPAPA und Familie</title>
 </programme>
-<programme start="20260507031500 +0000" stop="20260507033500 +0000" channel="Nick Jr..skyde">
+<programme start="20260507031500 +0000" stop="20260507034000 +0000" channel="Nick Jr..skyde">
     <title>BARBAPAPA und Familie</title>
 </programme>
-<programme start="20260507033500 +0000" stop="20260507040000 +0000" channel="Nick Jr..skyde">
+<programme start="20260507034000 +0000" stop="20260507040000 +0000" channel="Nick Jr..skyde">
     <title>Tim Rex im All</title>
 </programme>
-<programme start="20260507040000 +0000" stop="20260507042000 +0000" channel="Nick Jr..skyde">
+<programme start="20260507040000 +0000" stop="20260507042500 +0000" channel="Nick Jr..skyde">
     <title>Blaze und die Monster-Maschinen</title>
 </programme>
-<programme start="20260507042000 +0000" stop="20260507044500 +0000" channel="Nick Jr..skyde">
+<programme start="20260507042500 +0000" stop="20260507044500 +0000" channel="Nick Jr..skyde">
     <title>Blaze und die Monster-Maschinen</title>
 </programme>
 <programme start="20260507044500 +0000" stop="20260507045500 +0000" channel="Nick Jr..skyde">
     <title>Rubble &amp; Crew</title>
 </programme>
-<programme start="20260507045500 +0000" stop="20260507050500 +0000" channel="Nick Jr..skyde">
+<programme start="20260507045500 +0000" stop="20260507051000 +0000" channel="Nick Jr..skyde">
     <title>Rubble &amp; Crew</title>
 </programme>
-<programme start="20260507050500 +0000" stop="20260507053000 +0000" channel="Nick Jr..skyde">
+<programme start="20260507051000 +0000" stop="20260507053000 +0000" channel="Nick Jr..skyde">
     <title>Rubble &amp; Crew</title>
 </programme>
-<programme start="20260507053000 +0000" stop="20260507055000 +0000" channel="Nick Jr..skyde">
+<programme start="20260507053000 +0000" stop="20260507055500 +0000" channel="Nick Jr..skyde">
     <title>Paw Patrol: Helfer auf vier Pfoten</title>
 </programme>
-<programme start="20260507055000 +0000" stop="20260507061500 +0000" channel="Nick Jr..skyde">
+<programme start="20260507055500 +0000" stop="20260507061500 +0000" channel="Nick Jr..skyde">
     <title>Paw Patrol: Helfer auf vier Pfoten</title>
 </programme>
 <programme start="20260507061500 +0000" stop="20260507063500 +0000" channel="Nick Jr..skyde">
@@ -1519,13 +1522,13 @@
 <programme start="20260507125000 +0000" stop="20260507131000 +0000" channel="Nick Jr..skyde">
     <title>DORA</title>
 </programme>
-<programme start="20260507131000 +0000" stop="20260507133000 +0000" channel="Nick Jr..skyde">
+<programme start="20260507131000 +0000" stop="20260507133500 +0000" channel="Nick Jr..skyde">
     <title>DORA</title>
 </programme>
-<programme start="20260507133000 +0000" stop="20260507133500 +0000" channel="Nick Jr..skyde">
+<programme start="20260507133500 +0000" stop="20260507133600 +0000" channel="Nick Jr..skyde">
     <title>Peppa Wutz</title>
 </programme>
-<programme start="20260507133500 +0000" stop="20260507134000 +0000" channel="Nick Jr..skyde">
+<programme start="20260507133600 +0000" stop="20260507134000 +0000" channel="Nick Jr..skyde">
     <title>Peppa Wutz</title>
 </programme>
 <programme start="20260507134000 +0000" stop="20260507134500 +0000" channel="Nick Jr..skyde">
@@ -1543,10 +1546,10 @@
 <programme start="20260507140000 +0000" stop="20260507140500 +0000" channel="Nick Jr..skyde">
     <title>Peppa Wutz</title>
 </programme>
-<programme start="20260507140500 +0000" stop="20260507142500 +0000" channel="Nick Jr..skyde">
+<programme start="20260507140500 +0000" stop="20260507143000 +0000" channel="Nick Jr..skyde">
     <title>Blaze und die Monster-Maschinen</title>
 </programme>
-<programme start="20260507142500 +0000" stop="20260507145000 +0000" channel="Nick Jr..skyde">
+<programme start="20260507143000 +0000" stop="20260507145000 +0000" channel="Nick Jr..skyde">
     <title>Paw Patrol: Helfer auf vier Pfoten</title>
 </programme>
 <programme start="20260507145000 +0000" stop="20260507150000 +0000" channel="Nick Jr..skyde">
@@ -1603,16 +1606,16 @@
 <programme start="20260507173000 +0000" stop="20260507175000 +0000" channel="Nick Jr..skyde">
     <title>BARBAPAPA und Familie</title>
 </programme>
-<programme start="20260507175000 +0000" stop="20260507180000 +0000" channel="Nick Jr..skyde">
+<programme start="20260507175000 +0000" stop="20260507180500 +0000" channel="Nick Jr..skyde">
     <title>BARBAPAPA und Familie</title>
 </programme>
-<programme start="20260507180000 +0000" stop="20260507182500 +0000" channel="Nick Jr..skyde">
+<programme start="20260507180500 +0000" stop="20260507182500 +0000" channel="Nick Jr..skyde">
     <title>Blaze und die Monster-Maschinen</title>
 </programme>
-<programme start="20260507182500 +0000" stop="20260507184500 +0000" channel="Nick Jr..skyde">
+<programme start="20260507182500 +0000" stop="20260507185000 +0000" channel="Nick Jr..skyde">
     <title>Paw Patrol: Helfer auf vier Pfoten</title>
 </programme>
-<programme start="20260507184500 +0000" stop="20260507190000 +0000" channel="Nick Jr..skyde">
+<programme start="20260507185000 +0000" stop="20260507190000 +0000" channel="Nick Jr..skyde">
     <title>Paw Patrol: Helfer auf vier Pfoten</title>
 </programme>
 <programme start="20260507190000 +0000" stop="20260507191000 +0000" channel="Nick Jr..skyde">
@@ -1627,10 +1630,10 @@
 <programme start="20260507194500 +0000" stop="20260507200500 +0000" channel="Nick Jr..skyde">
     <title>DORA</title>
 </programme>
-<programme start="20260507200500 +0000" stop="20260507202500 +0000" channel="Nick Jr..skyde">
+<programme start="20260507200500 +0000" stop="20260507203000 +0000" channel="Nick Jr..skyde">
     <title>DORA</title>
 </programme>
-<programme start="20260507202500 +0000" stop="20260507205000 +0000" channel="Nick Jr..skyde">
+<programme start="20260507203000 +0000" stop="20260507205000 +0000" channel="Nick Jr..skyde">
     <title>BARBAPAPA und Familie</title>
 </programme>
 <programme start="20260507205000 +0000" stop="20260507211000 +0000" channel="Nick Jr..skyde">
@@ -1639,10 +1642,7 @@
 <programme start="20260507211000 +0000" stop="20260507213500 +0000" channel="Nick Jr..skyde">
     <title>BARBAPAPA und Familie</title>
 </programme>
-<programme start="20260507213500 +0000" stop="20260507215500 +0000" channel="Nick Jr..skyde">
-    <title>BARBAPAPA und Familie</title>
-</programme>
-<programme start="20260507215500 +0000" stop="20260507222000 +0000" channel="Nick Jr..skyde">
+<programme start="20260507213500 +0000" stop="20260507220000 +0000" channel="Nick Jr..skyde">
     <title>BARBAPAPA und Familie</title>
 </programme>
 <programme start="20260506221000 +0000" stop="20260506234000 +0000" channel="Romance TV HD.skyde">
@@ -2656,7 +2656,7 @@
 <programme start="20260507181500 +0000" stop="20260507185000 +0000" channel="Sky Sport Austria 2 HD.skyde">
     <title>Live Der UEFA Super Donnerstag: Vorbericht</title>
 </programme>
-<programme start="20260507185000 +0000" stop="20260507210000 +0000" channel="Sky Sport Austria 2 HD.skyde">
+<programme start="20260507185000 +0000" stop="20260507213000 +0000" channel="Sky Sport Austria 2 HD.skyde">
     <title>Live UEFA EL: Aston Villa - Nottingham Forest, Halbfinale Rückspiel</title>
 </programme>
 <programme start="20260507175500 +0000" stop="20260507181500 +0000" channel="Sky Sport Austria 3 HD.skyde">
@@ -2665,7 +2665,7 @@
 <programme start="20260507181500 +0000" stop="20260507185000 +0000" channel="Sky Sport Austria 3 HD.skyde">
     <title>Live Der UEFA Super Donnerstag: Vorbericht</title>
 </programme>
-<programme start="20260507185000 +0000" stop="20260507210000 +0000" channel="Sky Sport Austria 3 HD.skyde">
+<programme start="20260507185000 +0000" stop="20260507213000 +0000" channel="Sky Sport Austria 3 HD.skyde">
     <title>Live UEFA ECL: Crystal Palace - Schachtar Donezk, Halbfinale Rückspiel</title>
 </programme>
 <programme start="20260507090000 +0000" stop="20260507090500 +0000" channel="Sky Sport Austria 4 HD.skyde">
@@ -2962,7 +2962,7 @@
 <programme start="20260507181500 +0000" stop="20260507185000 +0000" channel="Sky Sport Austria 4 HD.skyde">
     <title>Live Der UEFA Super Donnerstag: Vorbericht</title>
 </programme>
-<programme start="20260507185000 +0000" stop="20260507210000 +0000" channel="Sky Sport Austria 4 HD.skyde">
+<programme start="20260507185000 +0000" stop="20260507213000 +0000" channel="Sky Sport Austria 4 HD.skyde">
     <title>Live UEFA ECL: RC Straßburg - Rayo Vallecano, Halbfinale Rückspiel</title>
 </programme>
 <programme start="20260507084000 +0000" stop="20260507090000 +0000" channel="Sky Sport Austria 5 HD.skyde">
@@ -3040,11 +3040,8 @@
 <programme start="20260507193000 +0000" stop="20260507200000 +0000" channel="Sky Sport Bundesliga HD.skyde">
     <title>2. BL: Dein Zweitligatalk - HvK &amp; Tusche</title>
 </programme>
-<programme start="20260507200000 +0000" stop="20260507203000 +0000" channel="Sky Sport Bundesliga HD.skyde">
+<programme start="20260507200000 +0000" stop="20260507210000 +0000" channel="Sky Sport Bundesliga HD.skyde">
     <title>Fußball: Spielmacher Podcast von Sports 360 mit Sebastian Hellmann (Gast: Niklas Süle)</title>
-</programme>
-<programme start="20260507203000 +0000" stop="20260507210000 +0000" channel="Sky Sport Bundesliga HD.skyde">
-    <title>BL: BVB-Herstory - Der Dortmunder Weg nach oben (Quo vadis?)</title>
 </programme>
 <programme start="20260507210000 +0000" stop="20260507220000 +0000" channel="Sky Sport Bundesliga HD.skyde">
     <title>BL: Matchplan: VFB - B04, 33. Spieltag</title>
@@ -3226,8 +3223,11 @@
 <programme start="20260506233000 +0000" stop="20260507040000 +0000" channel="Sky Sport News HD.skyde">
     <title>Sky Sport News: Nightline</title>
 </programme>
-<programme start="20260507040000 +0000" stop="20260507070000 +0000" channel="Sky Sport News HD.skyde">
+<programme start="20260507040000 +0000" stop="20260507060000 +0000" channel="Sky Sport News HD.skyde">
     <title>Sky Sport News: Der Morgen</title>
+</programme>
+<programme start="20260507060000 +0000" stop="20260507070000 +0000" channel="Sky Sport News HD.skyde">
+    <title>Fußball: Spielmacher Podcast von Sports 360 mit Sebastian Hellmann (Gast: Niklas Süle)</title>
 </programme>
 <programme start="20260507070000 +0000" stop="20260507073000 +0000" channel="Sky Sport News HD.skyde">
     <title>2. BL: Dein Zweitligatalk - HvK &amp; Tusche</title>
@@ -3260,7 +3260,7 @@
     <title>BL: Matchplan: VFB - B04, 33. Spieltag</title>
 </programme>
 <programme start="20260507193000 +0000" stop="20260507200000 +0000" channel="Sky Sport News HD.skyde">
-    <title>Fußball: Spielmacher Podcast von Sports 360 mit Sebastian Hellmann (Gast: Niklas Süle)</title>
+    <title>Live Sky Sport News: Guten Abend Fans!</title>
 </programme>
 <programme start="20260507200000 +0000" stop="20260507203000 +0000" channel="Sky Sport News HD.skyde">
     <title>Live Sky Sport News: Top News</title>
@@ -3412,11 +3412,14 @@
 <programme start="20260507213000 +0000" stop="20260507220000 +0000" channel="Sky Sport Premier League HD.skyde">
     <title>PL: Club 100: Thierry Henry</title>
 </programme>
+<programme start="20260506224500 +0000" stop="20260506231500 +0000" channel="Sky Sport Tennis HD.skyde">
+    <title>ATP: This Week</title>
+</programme>
 <programme start="20260506231500 +0000" stop="20260507011500 +0000" channel="Sky Sport Tennis HD.skyde">
     <title>ATP 1000: Y. Hanfmann (GER) - H. Hurkacz (POL)l, Internazionali BNL d&#039;Italia in Rom (Italien), 2. Tag</title>
 </programme>
 <programme start="20260507011500 +0000" stop="20260507013000 +0000" channel="Sky Sport Tennis HD.skyde">
-    <title>Sky Sport News: So denken die Fans.... Das Tennis-Barometer</title>
+    <title>Tennis: So denken die Fans.... Das Tennis-Barometer</title>
 </programme>
 <programme start="20260507013000 +0000" stop="20260507033000 +0000" channel="Sky Sport Tennis HD.skyde">
     <title>ATP 1000: G. Andreozzi (ARG) / M. Guinard (FRA) - H. Heliovaara (FIN) / H. Patten (GBR), Mutua Madrid Open in Madrid (ESP), Doppelfinale</title>
@@ -3427,8 +3430,11 @@
 <programme start="20260507040000 +0000" stop="20260507050000 +0000" channel="Sky Sport Tennis HD.skyde">
     <title>ATP 1000: Review Madrid</title>
 </programme>
-<programme start="20260507050000 +0000" stop="20260507070000 +0000" channel="Sky Sport Tennis HD.skyde">
-    <title>WTA 1000: E. Lys (GER) - K. Boulter (GBR), Internazionali BNL d&#039;Italia in Rom (Italien), 2. Tag</title>
+<programme start="20260507050000 +0000" stop="20260507063000 +0000" channel="Sky Sport Tennis HD.skyde">
+    <title>WTA 1000: T. Maria (GER) - M. Linette (POL), Internazionali BNL d&#039;Italia in Rom (Italien), 2. Tag</title>
+</programme>
+<programme start="20260507063000 +0000" stop="20260507070000 +0000" channel="Sky Sport Tennis HD.skyde">
+    <title>ATP: This Week</title>
 </programme>
 <programme start="20260507070000 +0000" stop="20260507090000 +0000" channel="Sky Sport Tennis HD.skyde">
     <title>ATP 1000: Y. Hanfmann (GER) - H. Hurkacz (POL)l, Internazionali BNL d&#039;Italia in Rom (Italien), 2. Tag</title>
@@ -3445,10 +3451,10 @@
 <programme start="20260506220000 +0000" stop="20260506230000 +0000" channel="Sky Sport Top Event HD.skyde">
     <title>NHL: Tonight - Playoff Edition</title>
 </programme>
-<programme start="20260506230000 +0000" stop="20260507020000 +0000" channel="Sky Sport Top Event HD.skyde">
+<programme start="20260506230000 +0000" stop="20260507014500 +0000" channel="Sky Sport Top Event HD.skyde">
     <title>Live NHL: Montreal Canadiens @ Buffalo Sabres, Playoffs, 2. Runde, Spiel 1</title>
 </programme>
-<programme start="20260507020000 +0000" stop="20260507043000 +0000" channel="Sky Sport Top Event HD.skyde">
+<programme start="20260507014500 +0000" stop="20260507043000 +0000" channel="Sky Sport Top Event HD.skyde">
     <title>Live NHL: Anaheim Ducks @ Vegas Golden Knights, Playoffs, 2. Runde, Spiel 2</title>
 </programme>
 <programme start="20260507043000 +0000" stop="20260507063000 +0000" channel="Sky Sport Top Event HD.skyde">
@@ -3502,7 +3508,7 @@
 <programme start="20260507084000 +0000" stop="20260507090000 +0000" channel="Sky Sport 1 HD.skyde">
     <title>Es folgt: LIVE WTA Tour</title>
 </programme>
-<programme start="20260507090000 +0000" stop="20260507210000 +0000" channel="Sky Sport 1 HD.skyde">
+<programme start="20260507090000 +0000" stop="20260508000000 +0000" channel="Sky Sport 1 HD.skyde">
     <title>Live WTA 1000: Internazionali BNL d&#039;Italia in Rom (Italien), 3. Tag</title>
 </programme>
 <programme start="20260507090000 +0000" stop="20260507090500 +0000" channel="Sky Sport 4 HD.skyde">

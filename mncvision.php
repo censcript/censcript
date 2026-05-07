@@ -125,10 +125,13 @@
     <title>News (L)</title>
 </programme>
 <programme start="20260507033000 +0000" stop="20260507040000 +0000" channel="Al Jazeera English.mncvision">
-    <title>The Silencing Of Anas Al Sharif</title>
+    <title>The Listening Post</title>
 </programme>
-<programme start="20260507040000 +0000" stop="20260507050000 +0000" channel="Al Jazeera English.mncvision">
-    <title>NewsHour</title>
+<programme start="20260507040000 +0000" stop="20260507043000 +0000" channel="Al Jazeera English.mncvision">
+    <title>News (L)</title>
+</programme>
+<programme start="20260507043000 +0000" stop="20260507050000 +0000" channel="Al Jazeera English.mncvision">
+    <title>The Silencing Of Anas Al Sharif</title>
 </programme>
 <programme start="20260507050000 +0000" stop="20260507053000 +0000" channel="Al Jazeera English.mncvision">
     <title>News (L)</title>
@@ -179,10 +182,7 @@
     <title>NewsHour</title>
 </programme>
 <programme start="20260507160000 +0000" stop="20260507163000 +0000" channel="Al Jazeera English.mncvision">
-    <title>News (L)</title>
-</programme>
-<programme start="20260507163000 +0000" stop="20260506170000 +0000" channel="Al Jazeera English.mncvision">
-    <title>Al Jazeera</title>
+    <title>NewsHour</title>
 </programme>
 <programme start="20260506170000 +0000" stop="20260506190000 +0000" channel="Al Quran Al Kareem.mncvision">
     <title>Live From Mekkah</title>
@@ -2678,10 +2678,10 @@
     <title>Gabby&#039;s Dollhouse</title>
 </programme>
 <programme start="20260507030000 +0000" stop="20260507032500 +0000" channel="Dreamworks.mncvision">
-    <title>Not Quite Narwhal</title>
+    <title>Gabby&#039;s Dollhouse</title>
 </programme>
 <programme start="20260507032500 +0000" stop="20260507035000 +0000" channel="Dreamworks.mncvision">
-    <title>Not Quite Narwhal</title>
+    <title>Gabby&#039;s Dollhouse</title>
 </programme>
 <programme start="20260507035000 +0000" stop="20260507041500 +0000" channel="Dreamworks.mncvision">
     <title>Dragons: Rescue Riders</title>
@@ -2828,10 +2828,10 @@
     <title>Gabby&#039;s Dollhouse</title>
 </programme>
 <programme start="20260507030000 +0000" stop="20260507032500 +0000" channel="Dreamworks HD.mncvision">
-    <title>Not Quite Narwhal</title>
+    <title>Gabby&#039;s Dollhouse</title>
 </programme>
 <programme start="20260507032500 +0000" stop="20260507035000 +0000" channel="Dreamworks HD.mncvision">
-    <title>Not Quite Narwhal</title>
+    <title>Gabby&#039;s Dollhouse</title>
 </programme>
 <programme start="20260507035000 +0000" stop="20260507041500 +0000" channel="Dreamworks HD.mncvision">
     <title>Dragons: Rescue Riders</title>
@@ -2993,7 +2993,7 @@
     <title>The Day: News In Review</title>
 </programme>
 <programme start="20260507023000 +0000" stop="20260507030000 +0000" channel="DW English.mncvision">
-    <title>Made In Germany: Business</title>
+    <title>Made In Germany</title>
 </programme>
 <programme start="20260507030000 +0000" stop="20260507030200 +0000" channel="DW English.mncvision">
     <title>DW News</title>
@@ -3002,10 +3002,10 @@
     <title>DW News Focus</title>
 </programme>
 <programme start="20260507031500 +0000" stop="20260507033000 +0000" channel="DW English.mncvision">
-    <title>Best Of DW-Online Content</title>
+    <title>Travel: Walking With Kafka</title>
 </programme>
 <programme start="20260507033000 +0000" stop="20260507040000 +0000" channel="DW English.mncvision">
-    <title>Eco India: The Environment</title>
+    <title>Eco India: To Renewables</title>
 </programme>
 <programme start="20260507040000 +0000" stop="20260507040200 +0000" channel="DW English.mncvision">
     <title>DW News</title>
@@ -3023,7 +3023,7 @@
     <title>The Day: News In Review</title>
 </programme>
 <programme start="20260507053000 +0000" stop="20260507060000 +0000" channel="DW English.mncvision">
-    <title>Focus On Europe: People</title>
+    <title>Focus On Europe: Montenegro</title>
 </programme>
 <programme start="20260507060000 +0000" stop="20260507060200 +0000" channel="DW English.mncvision">
     <title>DW News</title>
@@ -3032,7 +3032,7 @@
     <title>DW News Focus</title>
 </programme>
 <programme start="20260507061500 +0000" stop="20260507063000 +0000" channel="DW English.mncvision">
-    <title>Best Of DW-Online Content</title>
+    <title>Travel: Walking With Kafka</title>
 </programme>
 <programme start="20260507063000 +0000" stop="20260507070000 +0000" channel="DW English.mncvision">
     <title>DocFilm</title>
@@ -3047,10 +3047,10 @@
     <title>DW News</title>
 </programme>
 <programme start="20260507080200 +0000" stop="20260507083000 +0000" channel="DW English.mncvision">
-    <title>Made In Germany: Business</title>
+    <title>Made In Germany</title>
 </programme>
 <programme start="20260507083000 +0000" stop="20260507090000 +0000" channel="DW English.mncvision">
-    <title>Focus On Europe: People</title>
+    <title>Focus On Europe: Montenegro</title>
 </programme>
 <programme start="20260507090000 +0000" stop="20260507090200 +0000" channel="DW English.mncvision">
     <title>DW News</title>

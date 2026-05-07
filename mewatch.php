@@ -247,17 +247,14 @@
     <programme start="20260507130000 +0000" stop="20260507140000 +0000" channel="Channel 8.mewatch">
         <title>Kid U Not - EP 9</title>
     </programme>
-    <programme start="20260507140000 +0000" stop="20260507143000 +0000" channel="Channel 8.mewatch">
+    <programme start="20260507140000 +0000" stop="20260507144500 +0000" channel="Channel 8.mewatch">
         <title>(Live) News Tonight</title>
     </programme>
-    <programme start="20260507143000 +0000" stop="20260507150000 +0000" channel="Channel 8.mewatch">
+    <programme start="20260507144500 +0000" stop="20260507151500 +0000" channel="Channel 8.mewatch">
         <title>Focus - EP 6</title>
     </programme>
-    <programme start="20260507150000 +0000" stop="20260507160000 +0000" channel="Channel 8.mewatch">
+    <programme start="20260507151500 +0000" stop="20260507161500 +0000" channel="Channel 8.mewatch">
         <title>Swords into Plowshares - EP 7</title>
-    </programme>
-    <programme start="20260507160000 +0000" stop="20260507170000 +0000" channel="Channel 8.mewatch">
-        <title>White Cat Legend - EP 8</title>
     </programme>
     <programme start="20260506154500 +0000" stop="20260506164000 +0000" channel="Channel U.mewatch">
         <title>No Ordinary Rescue S2 - EP 4</title>
@@ -370,10 +367,10 @@
     <programme start="20260507140000 +0000" stop="20260507150000 +0000" channel="Channel U.mewatch">
         <title>Hotel Del Luna - EP 27</title>
     </programme>
-    <programme start="20260507150000 +0000" stop="20260507153000 +0000" channel="Channel U.mewatch">
+    <programme start="20260507150000 +0000" stop="20260507154500 +0000" channel="Channel U.mewatch">
         <title>News Tonight</title>
     </programme>
-    <programme start="20260507153000 +0000" stop="20260507163000 +0000" channel="Channel U.mewatch">
+    <programme start="20260507154500 +0000" stop="20260507164000 +0000" channel="Channel U.mewatch">
         <title>Life&#039;s Perfectionists S17 - EP 14</title>
     </programme>
     <programme start="20260506160000 +0000" stop="20260507010000 +0000" channel="Suria.mewatch">
