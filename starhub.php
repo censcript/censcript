@@ -6794,7 +6794,7 @@
         <title>Matchday 34</title>
     </programme>
     <programme start="20260507185500 +0000" stop="20260507210000 +0000" channel="beIN Sports HD.starhub">
-        <title>UEFA Europa League 2025/26: Aston Villa vs Nottingham Forest - SF, 2nd Leg (Live</title>
+        <title>UEFA Europa League 2025/26: Aston Villa vs Nottingham Forest - SF, 2nd Leg (Live)</title>
     </programme>
     <programme start="20260507210000 +0000" stop="20260507213000 +0000" channel="beIN Sports HD.starhub">
         <title>Rally Sierra Morena</title>
@@ -8152,29 +8152,26 @@
     <programme start="20260507155500 +0000" stop="20260507170000 +0000" channel="Dragon TV.starhub">
         <title>Cheer up!small shops</title>
     </programme>
-    <programme start="20260507170000 +0000" stop="20260507174700 +0000" channel="Dragon TV.starhub">
+    <programme start="20260507170000 +0000" stop="20260507180000 +0000" channel="Dragon TV.starhub">
         <title>Dragon TV Primetime News</title>
     </programme>
-    <programme start="20260507174700 +0000" stop="20260507191300 +0000" channel="Dragon TV.starhub">
+    <programme start="20260507180000 +0000" stop="20260507200000 +0000" channel="Dragon TV.starhub">
         <title>Dream Home</title>
     </programme>
-    <programme start="20260507191300 +0000" stop="20260507203500 +0000" channel="Dragon TV.starhub">
+    <programme start="20260507200000 +0000" stop="20260507210000 +0000" channel="Dragon TV.starhub">
         <title>Ai Romance</title>
     </programme>
-    <programme start="20260507203500 +0000" stop="20260507221000 +0000" channel="Dragon TV.starhub">
+    <programme start="20260507210000 +0000" stop="20260507220000 +0000" channel="Dragon TV.starhub">
         <title>A Green Trip</title>
     </programme>
-    <programme start="20260507221000 +0000" stop="20260507223500 +0000" channel="Dragon TV.starhub">
+    <programme start="20260507220000 +0000" stop="20260507223000 +0000" channel="Dragon TV.starhub">
         <title>New Entertainment</title>
     </programme>
-    <programme start="20260507223500 +0000" stop="20260507230000 +0000" channel="Dragon TV.starhub">
+    <programme start="20260507223000 +0000" stop="20260507230000 +0000" channel="Dragon TV.starhub">
         <title>CARE ON THE WAY</title>
     </programme>
-    <programme start="20260507230000 +0000" stop="20260508000000 +0000" channel="Dragon TV.starhub">
+    <programme start="20260507230000 +0000" stop="20260508010000 +0000" channel="Dragon TV.starhub">
         <title>Dragon TV Morning News</title>
-    </programme>
-    <programme start="20260508000000 +0000" stop="20260508005400 +0000" channel="Dragon TV.starhub">
-        <title>A Green Trip</title>
     </programme>
     <programme start="20260508005400 +0000" stop="20260508014400 +0000" channel="Dragon TV.starhub">
         <title>Future China</title>

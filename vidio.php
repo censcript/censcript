@@ -6422,7 +6422,7 @@
     <desc lang="id">Matchday 34</desc>
     <icon src="https://thumbor.prod.vidiocdn.com/5yUHYfv_b1sZi7kdFElm8JqF2RY=/287x162/filters:strip_icc():quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/image/6299/bein-1-4bd997.jpg"/>
   </programme>
-  <programme channel="6299" start="20260507190000 +0000" stop="20260507210000 +0000">
+  <programme channel="6299" start="20260507185500 +0000" stop="20260507210000 +0000">
     <title lang="id">Semifinals Leg 2: Aston Villa vs Nottingham Forest - UEFA Europa League</title>
     <desc lang="id">Nonton streaming pertandingan seru Semifinals Leg 2: Aston Villa vs Nottingham Forest - UEFA Europa League. Saksikan aksi-aksi terbaik dari tim yang bersaing ketat untuk meraih kemenangan. Dapatkan informasi lengkap mengenai jadwal pertandingan dan hasil pertandingan terbaru hanya di Vidio.</desc>
     <icon src="https://thumbor.prod.vidiocdn.com/ENLzv7ln-d44B_oq0pLuMVE-OjY=/287x162/filters:strip_icc():quality(70)/vidio-media-production/uploads/livestreaming/schedule/thumbnail/5061554/c699cd.jpg"/>
@@ -12906,30 +12906,15 @@
     <desc lang="id">Full Impact - Round 35</desc>
     <icon src="https://thumbor.prod.vidiocdn.com/nY0aFklpYf6yONLaFJjxhiSuthc=/287x162/filters:strip_icc():quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/image/6786/champions-tv-3-76ca7c.jpg"/>
   </programme>
-  <programme channel="6786" start="20260507090000 +0000" stop="20260507170000 +0000">
+  <programme channel="6786" start="20260507090000 +0000" stop="20260507183000 +0000">
     <title lang="id">Day 2 - WTA 1000: Internazionali BNL D'Italia 2026</title>
     <desc lang="id">Nonton streaming pertandingan seru Day 2 - WTA 1000: Internazionali BNL D'Italia 2026. Saksikan aksi-aksi terbaik dari tim yang bersaing ketat untuk meraih kemenangan. Dapatkan informasi lengkap mengenai jadwal pertandingan dan hasil pertandingan terbaru hanya di Vidio.</desc>
     <icon src="https://thumbor.prod.vidiocdn.com/o9y1SAU4p4B8_ZLLMnno0qQCu7c=/287x162/filters:strip_icc():quality(70)/vidio-media-production/uploads/livestreaming/schedule/thumbnail/5061643/89f8f3.jpg"/>
   </programme>
-  <programme channel="6786" start="20260507090000 +0000" stop="20260507170000 +0000">
+  <programme channel="6786" start="20260507090000 +0000" stop="20260507183000 +0000">
     <title lang="id">Day 2 - WTA 1000: Internazionali BNL D'Italia 2026</title>
     <desc lang="id">Nonton streaming pertandingan seru Day 2 - WTA 1000: Internazionali BNL D'Italia 2026. Saksikan aksi-aksi terbaik dari tim yang bersaing ketat untuk meraih kemenangan. Dapatkan informasi lengkap mengenai jadwal pertandingan dan hasil pertandingan terbaru hanya di Vidio.</desc>
     <icon src="https://thumbor.prod.vidiocdn.com/o9y1SAU4p4B8_ZLLMnno0qQCu7c=/287x162/filters:strip_icc():quality(70)/vidio-media-production/uploads/livestreaming/schedule/thumbnail/5061643/89f8f3.jpg"/>
-  </programme>
-  <programme channel="6786" start="20260507170000 +0000" stop="20260507173000 +0000">
-    <title lang="id">Eps 22 : Sport Woman</title>
-    <desc lang="id">Eps 22</desc>
-    <icon src="https://thumbor.prod.vidiocdn.com/nY0aFklpYf6yONLaFJjxhiSuthc=/287x162/filters:strip_icc():quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/image/6786/champions-tv-3-76ca7c.jpg"/>
-  </programme>
-  <programme channel="6786" start="20260507173000 +0000" stop="20260507180000 +0000">
-    <title lang="id">Eps 1 : WTA ALL ACCESS 2026</title>
-    <desc lang="id">Eps 1</desc>
-    <icon src="https://thumbor.prod.vidiocdn.com/nY0aFklpYf6yONLaFJjxhiSuthc=/287x162/filters:strip_icc():quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/image/6786/champions-tv-3-76ca7c.jpg"/>
-  </programme>
-  <programme channel="6786" start="20260507180000 +0000" stop="20260507183000 +0000">
-    <title lang="id">Full Impact - Round 34 : Serie A 2025/26 - Highlight Show</title>
-    <desc lang="id">Full Impact - Round 34</desc>
-    <icon src="https://thumbor.prod.vidiocdn.com/nY0aFklpYf6yONLaFJjxhiSuthc=/287x162/filters:strip_icc():quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/image/6786/champions-tv-3-76ca7c.jpg"/>
   </programme>
   <programme channel="6786" start="20260507183000 +0000" stop="20260507203000 +0000">
     <title lang="id">Day 2 - WTA 1000: Internazionali BNL D'Italia 2026</title>
