@@ -7543,13 +7543,16 @@
 <programme start="20260507043000 +0000" stop="20260507050000 +0000" channel="RCTI.mncvision">
     <title>Seputar iNews Siang</title>
 </programme>
-<programme start="20260507050000 +0000" stop="20260507073000 +0000" channel="RCTI.mncvision">
+<programme start="20260507050000 +0000" stop="20260507063000 +0000" channel="RCTI.mncvision">
     <title>Tukang Bubur Naik Haji Series</title>
 </programme>
-<programme start="20260507073000 +0000" stop="20260507100000 +0000" channel="RCTI.mncvision">
+<programme start="20260507063000 +0000" stop="20260507090000 +0000" channel="RCTI.mncvision">
     <title>Si Doel Spesial Benyamin</title>
 </programme>
-<programme start="20260507100000 +0000" stop="20260507120000 +0000" channel="RCTI.mncvision">
+<programme start="20260507090000 +0000" stop="20260507103000 +0000" channel="RCTI.mncvision">
+    <title>Tukang Ojek Preman</title>
+</programme>
+<programme start="20260507103000 +0000" stop="20260507120000 +0000" channel="RCTI.mncvision">
     <title>Preman Pensiun Deui</title>
 </programme>
 <programme start="20260507120000 +0000" stop="20260507133000 +0000" channel="RCTI.mncvision">
@@ -7588,13 +7591,16 @@
 <programme start="20260507043000 +0000" stop="20260507050000 +0000" channel="RCTI HD.mncvision">
     <title>Seputar iNews Siang</title>
 </programme>
-<programme start="20260507050000 +0000" stop="20260507073000 +0000" channel="RCTI HD.mncvision">
+<programme start="20260507050000 +0000" stop="20260507063000 +0000" channel="RCTI HD.mncvision">
     <title>Tukang Bubur Naik Haji Series</title>
 </programme>
-<programme start="20260507073000 +0000" stop="20260507100000 +0000" channel="RCTI HD.mncvision">
+<programme start="20260507063000 +0000" stop="20260507090000 +0000" channel="RCTI HD.mncvision">
     <title>Si Doel Spesial Benyamin</title>
 </programme>
-<programme start="20260507100000 +0000" stop="20260507120000 +0000" channel="RCTI HD.mncvision">
+<programme start="20260507090000 +0000" stop="20260507103000 +0000" channel="RCTI HD.mncvision">
+    <title>Tukang Ojek Preman</title>
+</programme>
+<programme start="20260507103000 +0000" stop="20260507120000 +0000" channel="RCTI HD.mncvision">
     <title>Preman Pensiun Deui</title>
 </programme>
 <programme start="20260507120000 +0000" stop="20260507133000 +0000" channel="RCTI HD.mncvision">
@@ -7750,37 +7756,37 @@
 <programme start="20260507000000 +0000" stop="20260507010000 +0000" channel="SCTV.mncvision">
     <title>Tiba-Tiba Kuis</title>
 </programme>
-<programme start="20260507010000 +0000" stop="20260507030000 +0000" channel="SCTV.mncvision">
+<programme start="20260507010000 +0000" stop="20260507025100 +0000" channel="SCTV.mncvision">
     <title>Gemes Banget Ya Adiknya...</title>
 </programme>
-<programme start="20260507030000 +0000" stop="20260507050000 +0000" channel="SCTV.mncvision">
-    <title>Diamor, Cintaku Padamu</title>
+<programme start="20260507025100 +0000" stop="20260507044500 +0000" channel="SCTV.mncvision">
+    <title>Romansa Pasutri Magang</title>
 </programme>
-<programme start="20260507050000 +0000" stop="20260507053000 +0000" channel="SCTV.mncvision">
+<programme start="20260507044500 +0000" stop="20260507051700 +0000" channel="SCTV.mncvision">
     <title>Liputan 6 Siang (L)</title>
 </programme>
-<programme start="20260507053000 +0000" stop="20260507070000 +0000" channel="SCTV.mncvision">
+<programme start="20260507051700 +0000" stop="20260507065200 +0000" channel="SCTV.mncvision">
     <title>Ratu Diskon Cintanya Limited...</title>
 </programme>
-<programme start="20260507070000 +0000" stop="20260507083000 +0000" channel="SCTV.mncvision">
+<programme start="20260507065200 +0000" stop="20260507082600 +0000" channel="SCTV.mncvision">
     <title>Nggak Espek Mba Jamu Pelukable</title>
 </programme>
-<programme start="20260507083000 +0000" stop="20260507100000 +0000" channel="SCTV.mncvision">
+<programme start="20260507082600 +0000" stop="20260507100000 +0000" channel="SCTV.mncvision">
     <title>Emak Rempong Rebutan Calon...</title>
 </programme>
-<programme start="20260507100000 +0000" stop="20260507111500 +0000" channel="SCTV.mncvision">
+<programme start="20260507100000 +0000" stop="20260507112600 +0000" channel="SCTV.mncvision">
     <title>Asmara Gen Z</title>
 </programme>
-<programme start="20260507111500 +0000" stop="20260507130000 +0000" channel="SCTV.mncvision">
+<programme start="20260507112600 +0000" stop="20260507131000 +0000" channel="SCTV.mncvision">
     <title>Istiqomah Cinta</title>
 </programme>
-<programme start="20260507130000 +0000" stop="20260507143000 +0000" channel="SCTV.mncvision">
+<programme start="20260507131000 +0000" stop="20260507143400 +0000" channel="SCTV.mncvision">
     <title>Beri Cinta Waktu</title>
 </programme>
-<programme start="20260507143000 +0000" stop="20260507160000 +0000" channel="SCTV.mncvision">
+<programme start="20260507143400 +0000" stop="20260507160100 +0000" channel="SCTV.mncvision">
     <title>Jejak Duka Diandra</title>
 </programme>
-<programme start="20260507160000 +0000" stop="20260507163000 +0000" channel="SCTV.mncvision">
+<programme start="20260507160100 +0000" stop="20260507163100 +0000" channel="SCTV.mncvision">
     <title>Inem Asisten Seksi Repot</title>
 </programme>
 <programme start="20260506173800 +0000" stop="20260506185300 +0000" channel="SCTV HD.mncvision">
@@ -7807,37 +7813,37 @@
 <programme start="20260507000000 +0000" stop="20260507010000 +0000" channel="SCTV HD.mncvision">
     <title>Tiba-Tiba Kuis</title>
 </programme>
-<programme start="20260507010000 +0000" stop="20260507030000 +0000" channel="SCTV HD.mncvision">
+<programme start="20260507010000 +0000" stop="20260507025100 +0000" channel="SCTV HD.mncvision">
     <title>Gemes Banget Ya Adiknya...</title>
 </programme>
-<programme start="20260507030000 +0000" stop="20260507050000 +0000" channel="SCTV HD.mncvision">
-    <title>Diamor, Cintaku Padamu</title>
+<programme start="20260507025100 +0000" stop="20260507044500 +0000" channel="SCTV HD.mncvision">
+    <title>Romansa Pasutri Magang</title>
 </programme>
-<programme start="20260507050000 +0000" stop="20260507053000 +0000" channel="SCTV HD.mncvision">
+<programme start="20260507044500 +0000" stop="20260507051700 +0000" channel="SCTV HD.mncvision">
     <title>Liputan 6 Siang (L)</title>
 </programme>
-<programme start="20260507053000 +0000" stop="20260507070000 +0000" channel="SCTV HD.mncvision">
+<programme start="20260507051700 +0000" stop="20260507065200 +0000" channel="SCTV HD.mncvision">
     <title>Ratu Diskon Cintanya Limited...</title>
 </programme>
-<programme start="20260507070000 +0000" stop="20260507083000 +0000" channel="SCTV HD.mncvision">
+<programme start="20260507065200 +0000" stop="20260507082600 +0000" channel="SCTV HD.mncvision">
     <title>Nggak Espek Mba Jamu Pelukable</title>
 </programme>
-<programme start="20260507083000 +0000" stop="20260507100000 +0000" channel="SCTV HD.mncvision">
+<programme start="20260507082600 +0000" stop="20260507100000 +0000" channel="SCTV HD.mncvision">
     <title>Emak Rempong Rebutan Calon...</title>
 </programme>
-<programme start="20260507100000 +0000" stop="20260507111500 +0000" channel="SCTV HD.mncvision">
+<programme start="20260507100000 +0000" stop="20260507112600 +0000" channel="SCTV HD.mncvision">
     <title>Asmara Gen Z</title>
 </programme>
-<programme start="20260507111500 +0000" stop="20260507130000 +0000" channel="SCTV HD.mncvision">
+<programme start="20260507112600 +0000" stop="20260507131000 +0000" channel="SCTV HD.mncvision">
     <title>Istiqomah Cinta</title>
 </programme>
-<programme start="20260507130000 +0000" stop="20260507143000 +0000" channel="SCTV HD.mncvision">
+<programme start="20260507131000 +0000" stop="20260507143400 +0000" channel="SCTV HD.mncvision">
     <title>Beri Cinta Waktu</title>
 </programme>
-<programme start="20260507143000 +0000" stop="20260507160000 +0000" channel="SCTV HD.mncvision">
+<programme start="20260507143400 +0000" stop="20260507160100 +0000" channel="SCTV HD.mncvision">
     <title>Jejak Duka Diandra</title>
 </programme>
-<programme start="20260507160000 +0000" stop="20260507163000 +0000" channel="SCTV HD.mncvision">
+<programme start="20260507160100 +0000" stop="20260507163100 +0000" channel="SCTV HD.mncvision">
     <title>Inem Asisten Seksi Repot</title>
 </programme>
 <programme start="20260506170000 +0000" stop="20260506180000 +0000" channel="Sindo News TV.mncvision">
@@ -8159,7 +8165,7 @@
     <title>Tinju</title>
 </programme>
 <programme start="20260507083000 +0000" stop="20260507103000 +0000" channel="Sportstars 2.mncvision">
-    <title>AFC U17 Asian Cup: KSA Vs MYA</title>
+    <title>AFC U17 Asian Cup: JPN Vs QAT</title>
 </programme>
 <programme start="20260507103000 +0000" stop="20260507130000 +0000" channel="Sportstars 2.mncvision">
     <title>Best Of Badminton</title>
@@ -8168,7 +8174,7 @@
     <title>The Ultimate Goals</title>
 </programme>
 <programme start="20260507133000 +0000" stop="20260507153000 +0000" channel="Sportstars 2.mncvision">
-    <title>AFC U17 Asian Cup: KSA Vs MYA</title>
+    <title>AFC U17 Asian Cup: JPN Vs QAT</title>
 </programme>
 <programme start="20260507153000 +0000" stop="20260507160000 +0000" channel="Sportstars 2.mncvision">
     <title>Tinju</title>
@@ -8207,7 +8213,7 @@
     <title>Tinju</title>
 </programme>
 <programme start="20260507083000 +0000" stop="20260507103000 +0000" channel="Sportstars 2 HD.mncvision">
-    <title>AFC U17 Asian Cup: KSA Vs MYA</title>
+    <title>AFC U17 Asian Cup: JPN Vs QAT</title>
 </programme>
 <programme start="20260507103000 +0000" stop="20260507130000 +0000" channel="Sportstars 2 HD.mncvision">
     <title>Best Of Badminton</title>
@@ -8216,7 +8222,7 @@
     <title>The Ultimate Goals</title>
 </programme>
 <programme start="20260507133000 +0000" stop="20260507153000 +0000" channel="Sportstars 2 HD.mncvision">
-    <title>AFC U17 Asian Cup: KSA Vs MYA</title>
+    <title>AFC U17 Asian Cup: JPN Vs QAT</title>
 </programme>
 <programme start="20260507153000 +0000" stop="20260507160000 +0000" channel="Sportstars 2 HD.mncvision">
     <title>Tinju</title>

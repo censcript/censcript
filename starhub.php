@@ -3158,16 +3158,16 @@
         <title>News</title>
     </programme>
     <programme start="20260506163000 +0000" stop="20260506170000 +0000" channel="DW English HD.starhub">
-        <title>Your Business Magazine</title>
+        <title>Brains, beauty and barriers: the global job market</title>
     </programme>
     <programme start="20260506170000 +0000" stop="20260506171500 +0000" channel="DW English HD.starhub">
         <title>News</title>
     </programme>
     <programme start="20260506171500 +0000" stop="20260506173000 +0000" channel="DW English HD.starhub">
-        <title>Best of DW-online Content</title>
+        <title>Walking with Kafka: Prague through a troubled genius’ eyes</title>
     </programme>
     <programme start="20260506173000 +0000" stop="20260506180000 +0000" channel="DW English HD.starhub">
-        <title>The Current Affairs Documentary</title>
+        <title>Embattled in Iran - Diary From a Warzone</title>
     </programme>
     <programme start="20260506180000 +0000" stop="20260506183000 +0000" channel="DW English HD.starhub">
         <title>News</title>
@@ -3182,10 +3182,10 @@
         <title>News</title>
     </programme>
     <programme start="20260506191500 +0000" stop="20260506193000 +0000" channel="DW English HD.starhub">
-        <title>Best of DW-online Content</title>
+        <title>Walking with Kafka: Prague through a troubled genius’ eyes</title>
     </programme>
     <programme start="20260506193000 +0000" stop="20260506200000 +0000" channel="DW English HD.starhub">
-        <title>The Magazine for Africa&#039;s Youth</title>
+        <title>US troops leaving Germany? Vice Chief of Defense: ‘Not a surprise’</title>
     </programme>
     <programme start="20260506200000 +0000" stop="20260506203000 +0000" channel="DW English HD.starhub">
         <title>News</title>
@@ -3206,7 +3206,7 @@
         <title>News in Review</title>
     </programme>
     <programme start="20260506223000 +0000" stop="20260506230000 +0000" channel="DW English HD.starhub">
-        <title>Your Business Magazine</title>
+        <title>Brains, beauty and barriers: the global job market</title>
     </programme>
     <programme start="20260506230000 +0000" stop="20260506230200 +0000" channel="DW English HD.starhub">
         <title>News</title>
@@ -3215,7 +3215,7 @@
         <title>News</title>
     </programme>
     <programme start="20260506231500 +0000" stop="20260506233000 +0000" channel="DW English HD.starhub">
-        <title>Best of DW-online Content</title>
+        <title>Walking with Kafka: Prague through a troubled genius’ eyes</title>
     </programme>
     <programme start="20260506233000 +0000" stop="20260507000000 +0000" channel="DW English HD.starhub">
         <title>Montenegro: Crackdown on crime and clans</title>
@@ -6776,7 +6776,7 @@
         <title>Bayern vs PSG - Wed, SF, 2nd Leg</title>
     </programme>
     <programme start="20260506185500 +0000" stop="20260506210000 +0000" channel="beIN Sports HD.starhub">
-        <title>UEFA Champions League 2025/26: Bayern vs PSG - SF, 2nd Leg (Live)</title>
+        <title>Bayern vs PSG - SF, 2nd Leg (Live)</title>
     </programme>
     <programme start="20260506210000 +0000" stop="20260506213000 +0000" channel="beIN Sports HD.starhub">
         <title>Bayern vs PSG - Wed, SF, 2nd Leg</title>

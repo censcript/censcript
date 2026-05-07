@@ -828,9 +828,9 @@
     <icon src="https://thumbor.prod.vidiocdn.com/WIl2jiaTLEzHnNAo61AGzfdEXh8=/287x162/filters:strip_icc():quality(70)/vidio-media-production/uploads/tv_program/thumbnail/389747/fc3ce1.jpg"/>
   </programme>
   <programme channel="205" start="20260510113000 +0000" stop="20260510140000 +0000">
-    <title lang="id">BRI Superleague 2025/26 - Psim Yogyakarta Vs Malut United Fc</title>
-    <desc lang="id">Saksikan! BRI Super League 2025/26 - Is Back!" 18 Klub Terbaik Siap Bertarung Di Kasta Tertinggi Sepak Bola Indonesia! Pertandingan Semakin Seru! Jangan Lewatkan BRI Super League 2025/26 Mulai 8 Agustus 2025, Pkl 15.00 &amp; 18.30 WIB, Live &amp; Eksklusif Hanya Di Indosiar dan Vidio #Indosiarrumahsepakbolaindonesia</desc>
-    <icon src="https://thumbor.prod.vidiocdn.com/cBZL7ITaJCof6cqtayFee2uJCX8=/287x162/filters:strip_icc():quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/image/205/indosiar-d9a3d0.jpg"/>
+    <title lang="id">PSIM Jogja vs Malut United FC - BRI Super League</title>
+    <desc lang="id">Nonton streaming pertandingan seru PSIM Jogja vs Malut United FC - BRI Super League. Saksikan aksi-aksi terbaik dari tim yang bersaing ketat untuk meraih kemenangan. Dapatkan informasi lengkap mengenai jadwal pertandingan dan hasil pertandingan terbaru hanya di Vidio.</desc>
+    <icon src="https://thumbor.prod.vidiocdn.com/oCPaYBhLf18JpQX5wBQyQiJAbqI=/287x162/filters:strip_icc():quality(70)/vidio-media-production/uploads/livestreaming/schedule/thumbnail/5062758/0014f2.jpg"/>
   </programme>
   <programme channel="205" start="20260510140000 +0000" stop="20260510160000 +0000">
     <title lang="id">BRI Superleague 2025/26 - Persija Jakarta Vs Persib Bandung</title>
@@ -858,7 +858,7 @@
     <icon src="https://thumbor.prod.vidiocdn.com/cBZL7ITaJCof6cqtayFee2uJCX8=/287x162/filters:strip_icc():quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/image/205/indosiar-d9a3d0.jpg"/>
   </programme>
   <programme channel="733" start="20260506160000 +0000" stop="20260506180000 +0000">
-    <title lang="id">Bioskop Trans TV</title>
+    <title lang="id">Bioskop Trans TV: The Commands</title>
     <icon src="https://thumbor.prod.vidiocdn.com/ZL1kCl2LW2bMJ3vKF6Caf2NuKdI=/287x162/filters:strip_icc():quality(70)/vidio-media-production/uploads/livestreaming/schedule/thumbnail/5059254/f63139.jpg"/>
   </programme>
   <programme channel="733" start="20260506180000 +0000" stop="20260506184500 +0000">
@@ -934,15 +934,15 @@
     <icon src="https://thumbor.prod.vidiocdn.com/eDxnkfbC9tu2_nK1bM0d9sAA8pc=/287x162/filters:strip_icc():quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/image/733/trans-tv-3836a5.jpg"/>
   </programme>
   <programme channel="733" start="20260507140000 +0000" stop="20260507160000 +0000">
-    <title lang="id">Bioskop Trans TV</title>
+    <title lang="id">Bioskop Trans TV: 12 Strong</title>
     <icon src="https://thumbor.prod.vidiocdn.com/NPH20uXie4sLtvt5a5T7nbWInUw=/287x162/filters:strip_icc():quality(70)/vidio-media-production/uploads/livestreaming/schedule/thumbnail/5059255/f85f6f.jpg"/>
   </programme>
   <programme channel="733" start="20260507160000 +0000" stop="20260507180000 +0000">
-    <title lang="id">Bioskop Trans TV</title>
+    <title lang="id">Bioskop Trans TV: 6 Days</title>
     <icon src="https://thumbor.prod.vidiocdn.com/12r6rZuQD998JoNbcnLqYXGja4A=/287x162/filters:strip_icc():quality(70)/vidio-media-production/uploads/livestreaming/schedule/thumbnail/5059256/bb4ba1.jpg"/>
   </programme>
   <programme channel="733" start="20260507160000 +0000" stop="20260507180000 +0000">
-    <title lang="id">Bioskop Trans TV</title>
+    <title lang="id">Bioskop Trans TV: 6 Days</title>
     <icon src="https://thumbor.prod.vidiocdn.com/12r6rZuQD998JoNbcnLqYXGja4A=/287x162/filters:strip_icc():quality(70)/vidio-media-production/uploads/livestreaming/schedule/thumbnail/5059256/bb4ba1.jpg"/>
   </programme>
   <programme channel="733" start="20260507180000 +0000" stop="20260507184500 +0000">
@@ -5515,10 +5515,10 @@
     <desc lang="id">Brands Hatch, UK</desc>
     <icon src="https://thumbor.prod.vidiocdn.com/5yUHYfv_b1sZi7kdFElm8JqF2RY=/287x162/filters:strip_icc():quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/image/6299/bein-1-4bd997.jpg"/>
   </programme>
-  <programme channel="6299" start="20260508185500 +0000" stop="20260508210000 +0000">
-    <title lang="id">Levante vs Osasuna : LaLiga 2025/26</title>
-    <desc lang="id">Levante vs Osasuna</desc>
-    <icon src="https://thumbor.prod.vidiocdn.com/5yUHYfv_b1sZi7kdFElm8JqF2RY=/287x162/filters:strip_icc():quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/image/6299/bein-1-4bd997.jpg"/>
+  <programme channel="6299" start="20260508190000 +0000" stop="20260508210000 +0000">
+    <title lang="id">Levante vs Osasuna - LaLiga</title>
+    <desc lang="id">Nonton streaming pertandingan seru Levante vs Osasuna - LaLiga. Saksikan aksi-aksi terbaik dari tim yang bersaing ketat untuk meraih kemenangan. Dapatkan informasi lengkap mengenai jadwal pertandingan dan hasil pertandingan terbaru hanya di Vidio.</desc>
+    <icon src="https://thumbor.prod.vidiocdn.com/veY8f0vdPLr_7ghpwxqrjxbOtKk=/287x162/filters:strip_icc():quality(70)/vidio-media-production/uploads/livestreaming/schedule/thumbnail/5062761/23ccd0.jpg"/>
   </programme>
   <programme channel="6299" start="20260508210000 +0000" stop="20260508230000 +0000">
     <title lang="id">Man United vs Liverpool : LFCTV 2025/26</title>
@@ -5600,10 +5600,10 @@
     <desc lang="id">Miami, USA</desc>
     <icon src="https://thumbor.prod.vidiocdn.com/5yUHYfv_b1sZi7kdFElm8JqF2RY=/287x162/filters:strip_icc():quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/image/6299/bein-1-4bd997.jpg"/>
   </programme>
-  <programme channel="6299" start="20260509115500 +0000" stop="20260509141000 +0000">
-    <title lang="id">Elche vs Alaves : LaLiga 2025/26</title>
-    <desc lang="id">Elche vs Alaves</desc>
-    <icon src="https://thumbor.prod.vidiocdn.com/5yUHYfv_b1sZi7kdFElm8JqF2RY=/287x162/filters:strip_icc():quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/image/6299/bein-1-4bd997.jpg"/>
+  <programme channel="6299" start="20260509120000 +0000" stop="20260509140000 +0000">
+    <title lang="id">Elche vs Alaves - LaLiga</title>
+    <desc lang="id">Nonton streaming pertandingan seru Elche vs Alaves - LaLiga. Saksikan aksi-aksi terbaik dari tim yang bersaing ketat untuk meraih kemenangan. Dapatkan informasi lengkap mengenai jadwal pertandingan dan hasil pertandingan terbaru hanya di Vidio.</desc>
+    <icon src="https://thumbor.prod.vidiocdn.com/OgWVKnSQljGRrz36Y64laInxpDI=/287x162/filters:strip_icc():quality(70)/vidio-media-production/uploads/livestreaming/schedule/thumbnail/5062759/62ed60.jpg"/>
   </programme>
   <programme channel="6299" start="20260509141500 +0000" stop="20260509161500 +0000">
     <title lang="id">Sevilla vs Espanyol - LaLiga</title>

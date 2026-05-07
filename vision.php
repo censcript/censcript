@@ -631,9 +631,6 @@
 <programme start="20260507010000 +0000" stop="20260507023000 +0000" channel="ANTV.vision">
 <title>Misteri Sungai Mekong</title>
 </programme>
-<programme start="20260507023000 +0000" stop="20260507060000 +0000" channel="ANTV.vision">
-<title>Prem Ratan Dhan Payo</title>
-</programme>
 <programme start="20260507060000 +0000" stop="20260507080000 +0000" channel="ANTV.vision">
 <title>Jhanak</title>
 </programme>
@@ -1497,4 +1494,7 @@
 </programme>
 <programme start="20260508050000 +0000" stop="20260508050500 +0000" channel="BTV.vision">
 <title>Berita Satu Terkini</title>
+</programme>
+<programme start="20260508050500 +0000" stop="20260508053000 +0000" channel="BTV.vision">
+<title>Berita Satu Siang</title>
 </programme>
