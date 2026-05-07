@@ -5824,8 +5824,8 @@
     <icon src="https://thumbor.prod.vidiocdn.com/PO4xKFzPV8JPdB9s8f7WyGusOP8=/287x162/filters:strip_icc():quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/image/6165/btv-bd893c.jpg"/>
   </programme>
   <programme channel="6165" start="20260508033000 +0000" stop="20260508040000 +0000">
-    <title lang="id">Relasi</title>
-    <desc lang="id">Program Relasi adalah program dialog yang menghadirkan kepala daerah untuk membahas isu strategis, kebijakan publik dan pembangunan daerah</desc>
+    <title lang="id">Indonesia Update "Ekspos"</title>
+    <desc lang="id">Program investiasi yang akan mengulik dan membahas sebuah peristiwa secara mendalam</desc>
     <icon src="https://thumbor.prod.vidiocdn.com/PO4xKFzPV8JPdB9s8f7WyGusOP8=/287x162/filters:strip_icc():quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/image/6165/btv-bd893c.jpg"/>
   </programme>
   <programme channel="6165" start="20260508040000 +0000" stop="20260508050000 +0000">
@@ -5859,8 +5859,8 @@
     <icon src="https://thumbor.prod.vidiocdn.com/PO4xKFzPV8JPdB9s8f7WyGusOP8=/287x162/filters:strip_icc():quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/image/6165/btv-bd893c.jpg"/>
   </programme>
   <programme channel="6165" start="20260508073000 +0000" stop="20260508080000 +0000">
-    <title lang="id">Relasi</title>
-    <desc lang="id">Program Relasi adalah program dialog yang menghadirkan kepala daerah untuk membahas isu strategis, kebijakan publik dan pembangunan daerah</desc>
+    <title lang="id">Indonesia Update "Ekspos"</title>
+    <desc lang="id">Program investiasi yang akan mengulik dan membahas sebuah peristiwa secara mendalam</desc>
     <icon src="https://thumbor.prod.vidiocdn.com/PO4xKFzPV8JPdB9s8f7WyGusOP8=/287x162/filters:strip_icc():quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/image/6165/btv-bd893c.jpg"/>
   </programme>
   <programme channel="6165" start="20260508080000 +0000" stop="20260508083000 +0000">
@@ -6089,8 +6089,8 @@
     <icon src="https://thumbor.prod.vidiocdn.com/PO4xKFzPV8JPdB9s8f7WyGusOP8=/287x162/filters:strip_icc():quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/image/6165/btv-bd893c.jpg"/>
   </programme>
   <programme channel="6165" start="20260509150000 +0000" stop="20260509160000 +0000">
-    <title lang="id">Berita Satu Malam</title>
-    <desc lang="id">Program Berita di Malam hari yang akan menyajikan berita ter-update dan terkini di setiap malamnya dan dikemas secara menarik</desc>
+    <title lang="id">Tcr World Tour</title>
+    <desc lang="id">TCR WORLD TOUR - "Misano - Italy Race #Qualifying"</desc>
     <icon src="https://thumbor.prod.vidiocdn.com/PO4xKFzPV8JPdB9s8f7WyGusOP8=/287x162/filters:strip_icc():quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/image/6165/btv-bd893c.jpg"/>
   </programme>
   <programme channel="6165" start="20260509160000 +0000" stop="20260509170000 +0000">
@@ -6124,8 +6124,8 @@
     <icon src="https://thumbor.prod.vidiocdn.com/PO4xKFzPV8JPdB9s8f7WyGusOP8=/287x162/filters:strip_icc():quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/image/6165/btv-bd893c.jpg"/>
   </programme>
   <programme channel="6165" start="20260509193000 +0000" stop="20260509203000 +0000">
-    <title lang="id">Inside Sailing</title>
-    <desc lang="id">Program TV yang menyajikan kepada Anda semua aksi terbaik dari beberapa acara berlayar paling spektakuler di seluruh dunia</desc>
+    <title lang="id">Monster Jam</title>
+    <desc lang="id">Program tayangan yang menyajikan sport ekstrim car</desc>
     <icon src="https://thumbor.prod.vidiocdn.com/PO4xKFzPV8JPdB9s8f7WyGusOP8=/287x162/filters:strip_icc():quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/image/6165/btv-bd893c.jpg"/>
   </programme>
   <programme channel="6165" start="20260509203000 +0000" stop="20260509210000 +0000">
@@ -6279,8 +6279,8 @@
     <icon src="https://thumbor.prod.vidiocdn.com/PO4xKFzPV8JPdB9s8f7WyGusOP8=/287x162/filters:strip_icc():quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/image/6165/btv-bd893c.jpg"/>
   </programme>
   <programme channel="6165" start="20260510150000 +0000" stop="20260510160000 +0000">
-    <title lang="id">Berita Satu Malam</title>
-    <desc lang="id">Program Berita di Malam hari yang akan menyajikan berita ter-update dan terkini di setiap malamnya dan dikemas secara menarik</desc>
+    <title lang="id">Tcr World Tour</title>
+    <desc lang="id">TCR WORLD TOUR - "Misano - Italy Race #1"</desc>
     <icon src="https://thumbor.prod.vidiocdn.com/PO4xKFzPV8JPdB9s8f7WyGusOP8=/287x162/filters:strip_icc():quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/image/6165/btv-bd893c.jpg"/>
   </programme>
   <programme channel="6165" start="20260510160000 +0000" stop="20260510170000 +0000">
@@ -8337,21 +8337,21 @@
     <desc lang="id">Dr. Akkanee dan krunya melakukan perjalanan ke sebuah desa yang kuno dan penuh misteri untuk mempelajari fenomena paranormal dan membuktikan bahwa hal itu tidak benar.</desc>
     <icon src="https://thumbor.prod.vidiocdn.com/20tRQaK9Gps_wFQL5rY-XgRbrs4=/287x162/filters:strip_icc():quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/image/782/antv-de8530.jpg"/>
   </programme>
-  <programme channel="782" start="20260507023000 +0000" stop="20260507060000 +0000">
+  <programme channel="782" start="20260507023000 +0000" stop="20260507054000 +0000">
     <title lang="id">Mega Bollywood: Prem Ratan Dhan Payo</title>
     <desc lang="id">Prem, yang mirip Pangeran Yuvraj Vijay Singh, menggantikannya tepat sebelum Vijay dinobatkan menjadi raja. Meskipun Vijay telah bertunangan dengan Putri Maithili, sang putri jatuh cinta pada Prem.</desc>
     <icon src="https://thumbor.prod.vidiocdn.com/a7n4oYdzs9ikVO145habPEgAANQ=/287x162/filters:strip_icc():quality(70)/vidio-media-production/uploads/livestreaming/schedule/thumbnail/5062181/85b59e.jpg"/>
   </programme>
-  <programme channel="782" start="20260507060000 +0000" stop="20260507080000 +0000">
+  <programme channel="782" start="20260507054000 +0000" stop="20260507080500 +0000">
     <title lang="id">Jhanak</title>
     <desc lang="id">Seorang wanita muda yang bersemangat memulai perjalanan untuk memenuhi janji seorang ibu demi kehidupan yang lebih baik sambil mengatasi tantangan dan kehilangan.</desc>
     <icon src="https://thumbor.prod.vidiocdn.com/c87F24ukxdLl8_aIMmqzFBBbsM8=/287x162/filters:strip_icc():quality(70)/vidio-media-production/uploads/livestreaming/schedule/thumbnail/5062182/61b1c8.jpg"/>
   </programme>
-  <programme channel="782" start="20260507080000 +0000" stop="20260507100000 +0000">
+  <programme channel="782" start="20260507080500 +0000" stop="20260507100900 +0000">
     <title lang="id">Teri Meri Doriyaann</title>
     <icon src="https://thumbor.prod.vidiocdn.com/6varoSQcGCAupM0siZdkgtnEXdU=/287x162/filters:strip_icc():quality(70)/vidio-media-production/uploads/livestreaming/schedule/thumbnail/5062196/67a833.jpg"/>
   </programme>
-  <programme channel="782" start="20260507100000 +0000" stop="20260507120000 +0000">
+  <programme channel="782" start="20260507100900 +0000" stop="20260507120000 +0000">
     <title lang="id">Vasudha</title>
     <desc lang="id">Vasudha yang periang bergabung dengan rumah pemimpin bisnis Chandrika sebagai pembantu dan mendambakan persetujuannya meskipun ada perbedaan ideologis di antara mereka.</desc>
     <icon src="https://thumbor.prod.vidiocdn.com/XkgH9RBloZZfrsv7QyfFL5sne-I=/287x162/filters:strip_icc():quality(70)/vidio-media-production/uploads/livestreaming/schedule/thumbnail/5062184/92b108.jpg"/>
@@ -9501,7 +9501,7 @@
     <icon src="https://thumbor.prod.vidiocdn.com/rNFvm_1tsCHnmhiWUk82o-iqeUQ=/287x162/filters:strip_icc():quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/image/7464/ajwa-tv-dad8c3.jpg"/>
   </programme>
   <programme channel="7464" start="20260508093000 +0000" stop="20260508110000 +0000">
-    <title lang="id">Para Perncari Tuhan Jilid 13</title>
+    <title lang="id">Para Pencari Tuhan Jilid 13</title>
     <icon src="https://thumbor.prod.vidiocdn.com/rNFvm_1tsCHnmhiWUk82o-iqeUQ=/287x162/filters:strip_icc():quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/image/7464/ajwa-tv-dad8c3.jpg"/>
   </programme>
   <programme channel="7464" start="20260508110000 +0000" stop="20260508113000 +0000">
@@ -9525,7 +9525,7 @@
     <icon src="https://thumbor.prod.vidiocdn.com/rNFvm_1tsCHnmhiWUk82o-iqeUQ=/287x162/filters:strip_icc():quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/image/7464/ajwa-tv-dad8c3.jpg"/>
   </programme>
   <programme channel="7464" start="20260508143000 +0000" stop="20260508160000 +0000">
-    <title lang="id">Para Perncari Tuhan Jilid 10</title>
+    <title lang="id">Para Pencari Tuhan Jilid 10</title>
     <icon src="https://thumbor.prod.vidiocdn.com/rNFvm_1tsCHnmhiWUk82o-iqeUQ=/287x162/filters:strip_icc():quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/image/7464/ajwa-tv-dad8c3.jpg"/>
   </programme>
   <programme channel="7464" start="20260508160000 +0000" stop="20260508173000 +0000">
@@ -9593,7 +9593,7 @@
     <icon src="https://thumbor.prod.vidiocdn.com/rNFvm_1tsCHnmhiWUk82o-iqeUQ=/287x162/filters:strip_icc():quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/image/7464/ajwa-tv-dad8c3.jpg"/>
   </programme>
   <programme channel="7464" start="20260509093000 +0000" stop="20260509110000 +0000">
-    <title lang="id">Para Perncari Tuhan Jilid 13</title>
+    <title lang="id">Para Pencari Tuhan Jilid 13</title>
     <icon src="https://thumbor.prod.vidiocdn.com/rNFvm_1tsCHnmhiWUk82o-iqeUQ=/287x162/filters:strip_icc():quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/image/7464/ajwa-tv-dad8c3.jpg"/>
   </programme>
   <programme channel="7464" start="20260509110000 +0000" stop="20260509113000 +0000">
@@ -9617,7 +9617,7 @@
     <icon src="https://thumbor.prod.vidiocdn.com/rNFvm_1tsCHnmhiWUk82o-iqeUQ=/287x162/filters:strip_icc():quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/image/7464/ajwa-tv-dad8c3.jpg"/>
   </programme>
   <programme channel="7464" start="20260509143000 +0000" stop="20260509160000 +0000">
-    <title lang="id">Para Perncari Tuhan Jilid 13</title>
+    <title lang="id">Para Pencari Tuhan Jilid 13</title>
     <icon src="https://thumbor.prod.vidiocdn.com/rNFvm_1tsCHnmhiWUk82o-iqeUQ=/287x162/filters:strip_icc():quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/image/7464/ajwa-tv-dad8c3.jpg"/>
   </programme>
   <programme channel="7464" start="20260509160000 +0000" stop="20260509173000 +0000">
@@ -9685,7 +9685,7 @@
     <icon src="https://thumbor.prod.vidiocdn.com/rNFvm_1tsCHnmhiWUk82o-iqeUQ=/287x162/filters:strip_icc():quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/image/7464/ajwa-tv-dad8c3.jpg"/>
   </programme>
   <programme channel="7464" start="20260510093000 +0000" stop="20260510110000 +0000">
-    <title lang="id">Para Perncari Tuhan Jilid 13</title>
+    <title lang="id">Para Pencari Tuhan Jilid 13</title>
     <icon src="https://thumbor.prod.vidiocdn.com/rNFvm_1tsCHnmhiWUk82o-iqeUQ=/287x162/filters:strip_icc():quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/image/7464/ajwa-tv-dad8c3.jpg"/>
   </programme>
   <programme channel="7464" start="20260510110000 +0000" stop="20260510113000 +0000">
@@ -9709,7 +9709,7 @@
     <icon src="https://thumbor.prod.vidiocdn.com/rNFvm_1tsCHnmhiWUk82o-iqeUQ=/287x162/filters:strip_icc():quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/image/7464/ajwa-tv-dad8c3.jpg"/>
   </programme>
   <programme channel="7464" start="20260510143000 +0000" stop="20260510160000 +0000">
-    <title lang="id">Para Perncari Tuhan Jilid 13</title>
+    <title lang="id">Para Pencari Tuhan Jilid 13</title>
     <icon src="https://thumbor.prod.vidiocdn.com/rNFvm_1tsCHnmhiWUk82o-iqeUQ=/287x162/filters:strip_icc():quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/image/7464/ajwa-tv-dad8c3.jpg"/>
   </programme>
   <programme channel="7464" start="20260510160000 +0000" stop="20260510173000 +0000">

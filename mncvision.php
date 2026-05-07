@@ -8473,10 +8473,10 @@
 <programme start="20260507102500 +0000" stop="20260507121500 +0000" channel="SPOTV.mncvision">
     <title>25/26 Scottish Premiership</title>
 </programme>
-<programme start="20260507121500 +0000" stop="20260507153000 +0000" channel="SPOTV.mncvision">
+<programme start="20260507121500 +0000" stop="20260507150000 +0000" channel="SPOTV.mncvision">
     <title>MCB Ladies Classic</title>
 </programme>
-<programme start="20260507153000 +0000" stop="20260507160000 +0000" channel="SPOTV.mncvision">
+<programme start="20260507150000 +0000" stop="20260507153000 +0000" channel="SPOTV.mncvision">
     <title>25/26 ROSHN Saudi League</title>
 </programme>
 <programme start="20260506180000 +0000" stop="20260506200000 +0000" channel="SPOTV 2.mncvision">
@@ -8596,10 +8596,10 @@
 <programme start="20260507102500 +0000" stop="20260507121500 +0000" channel="SPOTV HD.mncvision">
     <title>25/26 Scottish Premiership</title>
 </programme>
-<programme start="20260507121500 +0000" stop="20260507153000 +0000" channel="SPOTV HD.mncvision">
+<programme start="20260507121500 +0000" stop="20260507150000 +0000" channel="SPOTV HD.mncvision">
     <title>MCB Ladies Classic</title>
 </programme>
-<programme start="20260507153000 +0000" stop="20260507160000 +0000" channel="SPOTV HD.mncvision">
+<programme start="20260507150000 +0000" stop="20260507153000 +0000" channel="SPOTV HD.mncvision">
     <title>25/26 ROSHN Saudi League</title>
 </programme>
 <programme start="20260506181000 +0000" stop="20260506194500 +0000" channel="Studio Universal.mncvision">

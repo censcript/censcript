@@ -2189,10 +2189,10 @@
         <title>Cancun P2 Men</title>
     </programme>
     <programme start="20260507075000 +0000" stop="20260507081500 +0000" channel="beIN Sports 2 HD.starhub">
-        <title>HSBC SVNS World C&#039;shipss 2026: New Zealand vs Australia - Cup Final, Hong Kong - Women</title>
+        <title>HSBC SVNS World C&#039;ships 2026: New Zealand vs Australia - Cup Final, Hong Kong -</title>
     </programme>
     <programme start="20260507081500 +0000" stop="20260507084000 +0000" channel="beIN Sports 2 HD.starhub">
-        <title>HSBC SVNS World C&#039;shipss 2026: South Africa vs Argentina - Cup Final, Hong Kong - Men</title>
+        <title>HSBC SVNS World C&#039;ships 2026: South Africa vs Argentina - Cup Final, Hong Kong -</title>
     </programme>
     <programme start="20260507084000 +0000" stop="20260507103000 +0000" channel="beIN Sports 2 HD.starhub">
         <title>Super Lig 2025/26: Gaziantep vs Besiktas</title>
@@ -3770,7 +3770,7 @@
         <title>Drama Serial &quot;The Scent of the Wind&quot; Ep. 28 (R)</title>
     </programme>
     <programme start="20260506184500 +0000" stop="20260506193000 +0000" channel="NHK World Premium HD.starhub">
-        <title>Rokkaku Seiji&#039;s Nomitetsu Railroad Trip: Dosan Line &amp; Tosa Kuroshio Railway (R)</title>
+        <title>Rokkaku Seiji&#039;s Nomitetsu Railroad Trip:Dosan Line &amp; Tosa Kuroshio Railway(R)</title>
     </programme>
     <programme start="20260506193000 +0000" stop="20260506200000 +0000" channel="NHK World Premium HD.starhub">
         <title>Shibuya Comedy Theater (R)</title>
@@ -3904,8 +3904,11 @@
     <programme start="20260507100000 +0000" stop="20260507103000 +0000" channel="NHK World Premium HD.starhub">
         <title>NHK News 7 (B)</title>
     </programme>
-    <programme start="20260507103000 +0000" stop="20260507111500 +0000" channel="NHK World Premium HD.starhub">
+    <programme start="20260507103000 +0000" stop="20260507111300 +0000" channel="NHK World Premium HD.starhub">
         <title>Children&#039;s Song Festival &quot;Children&#039;s Day Special&quot; (R)</title>
+    </programme>
+    <programme start="20260507111300 +0000" stop="20260507111500 +0000" channel="NHK World Premium HD.starhub">
+        <title>Mini Program</title>
     </programme>
     <programme start="20260507111500 +0000" stop="20260507114300 +0000" channel="NHK World Premium HD.starhub">
         <title>HIMU-BUS! - Pickup Bus Variety Show</title>
@@ -3929,7 +3932,7 @@
         <title>Night Drama Serial &quot;Radio Star&quot; Ep. 24</title>
     </programme>
     <programme start="20260507140000 +0000" stop="20260507143000 +0000" channel="NHK World Premium HD.starhub">
-        <title>Tokoro-san&#039;s Pursuit of Truth (R)</title>
+        <title>Tokoro-san&#039;s Pursuit of Truth</title>
     </programme>
     <programme start="20260507143000 +0000" stop="20260507144000 +0000" channel="NHK World Premium HD.starhub">
         <title>News Commentary</title>
@@ -5146,10 +5149,10 @@
     <programme start="20260507102500 +0000" stop="20260507121500 +0000" channel="SPOTV.starhub">
         <title>25/26 Scottish Premiership Round 35 Hibernian vs Celtic</title>
     </programme>
-    <programme start="20260507121500 +0000" stop="20260507153000 +0000" channel="SPOTV.starhub">
+    <programme start="20260507121500 +0000" stop="20260507150000 +0000" channel="SPOTV.starhub">
         <title>Day 3</title>
     </programme>
-    <programme start="20260507153000 +0000" stop="20260507173000 +0000" channel="SPOTV.starhub">
+    <programme start="20260507150000 +0000" stop="20260507170000 +0000" channel="SPOTV.starhub">
         <title>25/26 ROSHN Saudi League MW 31 Al Hazem vs Al Hilal</title>
     </programme>
     <programme start="20260506154000 +0000" stop="20260506171000 +0000" channel="KBS World HD.starhub">
