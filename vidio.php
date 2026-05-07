@@ -229,11 +229,11 @@
     <desc lang="id">Film televisi yang mengangkat kisah romantisme kehidupan dengan konflik yang menarik. Tayang setiap hari.</desc>
     <icon src="https://thumbor.prod.vidiocdn.com/N99E8BD1OJ5vvymwPBj0c-BU5J4=/287x162/filters:strip_icc():quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/image/204/sctv-5ef966.jpg"/>
   </programme>
-  <programme channel="204" start="20260507184300 +0000" stop="20260507210000 +0000">
+  <programme channel="204" start="20260507184300 +0000" stop="20260507210500 +0000">
     <title lang="id">Freiburg Vs Braga - Semi Final Uefa Europa League - Live</title>
     <icon src="https://thumbor.prod.vidiocdn.com/N99E8BD1OJ5vvymwPBj0c-BU5J4=/287x162/filters:strip_icc():quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/image/204/sctv-5ef966.jpg"/>
   </programme>
-  <programme channel="204" start="20260507210000 +0000" stop="20260507213000 +0000">
+  <programme channel="204" start="20260507210500 +0000" stop="20260507213000 +0000">
     <title lang="id">Barakallah</title>
     <desc lang="id">Ceramah islami penuh makna. Tayang setiap selasa - minggu, mulai pukul 04.00 WIB</desc>
     <icon src="https://thumbor.prod.vidiocdn.com/N99E8BD1OJ5vvymwPBj0c-BU5J4=/287x162/filters:strip_icc():quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/image/204/sctv-5ef966.jpg"/>
@@ -7162,12 +7162,12 @@
     <desc lang="id">Legends Tonight - Paddy Crerand</desc>
     <icon src="https://thumbor.prod.vidiocdn.com/xiN-u5MIG7jgOVE2tB_TUIynz7k=/287x162/filters:strip_icc():quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/image/6317/bein-3-616b1c.jpg"/>
   </programme>
-  <programme channel="6317" start="20260507185500 +0000" stop="20260507210000 +0000">
+  <programme channel="6317" start="20260507185500 +0000" stop="20260507205600 +0000">
     <title lang="id">Semifinals Leg 2: Crystal Palace vs Shakhtar Donetsk - UEFA Conference League</title>
     <desc lang="id">Nonton streaming pertandingan seru Semifinals Leg 2: Crystal Palace vs Shakhtar Donetsk - UEFA Conference League. Saksikan aksi-aksi terbaik dari tim yang bersaing ketat untuk meraih kemenangan. Dapatkan informasi lengkap mengenai jadwal pertandingan dan hasil pertandingan terbaru hanya di Vidio.</desc>
     <icon src="https://thumbor.prod.vidiocdn.com/qNRY-MI_KcSh9Bx88g87XDNJIRY=/287x162/filters:strip_icc():quality(70)/vidio-media-production/uploads/livestreaming/schedule/thumbnail/5061771/56fe74.jpg"/>
   </programme>
-  <programme channel="6317" start="20260507210000 +0000" stop="20260507220000 +0000">
+  <programme channel="6317" start="20260507205600 +0000" stop="20260507220000 +0000">
     <title lang="id">Ocala, Florida : FEI North American League 2025/26</title>
     <desc lang="id">Ocala, Florida</desc>
     <icon src="https://thumbor.prod.vidiocdn.com/xiN-u5MIG7jgOVE2tB_TUIynz7k=/287x162/filters:strip_icc():quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/image/6317/bein-3-616b1c.jpg"/>
@@ -7973,7 +7973,7 @@
     <icon src="https://thumbor.prod.vidiocdn.com/edoqRinFCRhrRwQ2ngcXacb_q74=/287x162/filters:strip_icc():quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/image/6685/champions-tv-1-54e282.jpg"/>
   </programme>
   <programme channel="6685" start="20260507193000 +0000" stop="20260507213000 +0000">
-    <title lang="id">Stage 5 - Baoting  Sanya : TOUR OF HAINAN 2026</title>
+    <title lang="id">Stage 5 - Baoting Sanya : TOUR OF HAINAN 2026</title>
     <desc lang="id">Stage 5 Baoting  Sanya</desc>
     <icon src="https://thumbor.prod.vidiocdn.com/edoqRinFCRhrRwQ2ngcXacb_q74=/287x162/filters:strip_icc():quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/image/6685/champions-tv-1-54e282.jpg"/>
   </programme>
