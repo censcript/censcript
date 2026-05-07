@@ -640,9 +640,6 @@
 <programme start="20260507100000 +0000" stop="20260507120000 +0000" channel="ANTV.vision">
 <title>Vasudha</title>
 </programme>
-<programme start="20260507173000 +0000" stop="20260507193000 +0000" channel="ANTV.vision">
-<title>Reincarnation Of Golder Lotus</title>
-</programme>
 <programme start="20260507193000 +0000" stop="20260507220000 +0000" channel="ANTV.vision">
 <title>Maya Memsaab</title>
 </programme>
@@ -1496,5 +1493,8 @@
 <title>TVRI</title>
 </programme>
 <programme start="20260507190000 +0000" stop="20260507210000 +0000" channel="TVRI.vision">
+<title>TVRI</title>
+</programme>
+<programme start="20260507210000 +0000" stop="20260507230000 +0000" channel="TVRI.vision">
 <title>TVRI</title>
 </programme>

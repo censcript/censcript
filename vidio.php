@@ -7968,7 +7968,7 @@
     <icon src="https://thumbor.prod.vidiocdn.com/edoqRinFCRhrRwQ2ngcXacb_q74=/287x162/filters:strip_icc():quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/image/6685/champions-tv-1-54e282.jpg"/>
   </programme>
   <programme channel="6685" start="20260507173000 +0000" stop="20260507193000 +0000">
-    <title lang="id">Stage 4 - Lingshui  Baoting : TOUR OF HAINAN 2026</title>
+    <title lang="id">Stage 4 - Lingshui Baoting : TOUR OF HAINAN 2026</title>
     <desc lang="id">Stage 4 Lingshui  Baoting</desc>
     <icon src="https://thumbor.prod.vidiocdn.com/edoqRinFCRhrRwQ2ngcXacb_q74=/287x162/filters:strip_icc():quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/image/6685/champions-tv-1-54e282.jpg"/>
   </programme>
