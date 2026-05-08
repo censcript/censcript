@@ -6137,10 +6137,10 @@
         <title>Mission to CATurn</title>
     </programme>
     <programme start="20260508030000 +0000" stop="20260508032500 +0000" channel="DreamWorks Channel HD.starhub">
-        <title>Spark Bees / Best in Show</title>
+        <title>Kitty Pirates</title>
     </programme>
     <programme start="20260508032500 +0000" stop="20260508035000 +0000" channel="DreamWorks Channel HD.starhub">
-        <title>Superfan / Barb</title>
+        <title>MerCat Gets Her Sparkle Back</title>
     </programme>
     <programme start="20260508035000 +0000" stop="20260508041500 +0000" channel="DreamWorks Channel HD.starhub">
         <title>Home Alone</title>
@@ -6155,10 +6155,10 @@
         <title>Lucky and the Thin Ice</title>
     </programme>
     <programme start="20260508053000 +0000" stop="20260508055500 +0000" channel="DreamWorks Channel HD.starhub">
-        <title>My Pharoah Lady</title>
+        <title>Boots</title>
     </programme>
     <programme start="20260508055500 +0000" stop="20260508062000 +0000" channel="DreamWorks Channel HD.starhub">
-        <title>Double</title>
+        <title>Sword</title>
     </programme>
     <programme start="20260508062000 +0000" stop="20260508064500 +0000" channel="DreamWorks Channel HD.starhub">
         <title>Night Of The Living Croods / Spoonful Of Soo-Gar</title>
@@ -8114,10 +8114,10 @@
         <title>Jep &amp; Judin</title>
     </programme>
     <programme start="20260507160000 +0000" stop="20260507183000 +0000" channel="SPOTV2.starhub">
-        <title>ITTF WTTTC Finals London 2026 Day 6 Women&#039;s Team: Quarterfinal S2 (Live)</title>
+        <title>Day 6 Women&#039;s Team: Quarterfinal S2</title>
     </programme>
     <programme start="20260507183000 +0000" stop="20260507210000 +0000" channel="SPOTV2.starhub">
-        <title>ITTF WTTTC Finals London 2026 Day 6 Men&#039;s Team: Quarterfinal S2 (Live)</title>
+        <title>Day 6 Men&#039;s Team: Quarterfinal S2</title>
     </programme>
     <programme start="20260507210000 +0000" stop="20260507220000 +0000" channel="SPOTV2.starhub">
         <title>Highlights 1</title>

@@ -15512,19 +15512,14 @@
     <desc lang="en">The 55th season of the UEL as Europe's elite clubs compete in this premier football tournament</desc>
     <category lang="en">Sports</category>
   </programme>
-  <programme start="20260507210000 +0000" stop="20260507220000 +0000" channel="beinsports2.unifitv">
+  <programme start="20260507210000 +0000" stop="20260507223000 +0000" channel="beinsports2.unifitv">
     <title lang="en">Premier Padel - Asuncion P2 Day 3 Match 6 (L)</title>
     <desc lang="en">The official global Padel tour. Catch world's top players battle it out across the globe.</desc>
     <category lang="en">Sports</category>
   </programme>
-  <programme start="20260507220000 +0000" stop="20260507233000 +0000" channel="beinsports2.unifitv">
+  <programme start="20260507223000 +0000" stop="20260508000000 +0000" channel="beinsports2.unifitv">
     <title lang="en">Premier Padel - Asuncion P2 Day 3 Match 7 (L)</title>
     <desc lang="en">The official global Padel tour. Catch world's top players battle it out across the globe.</desc>
-    <category lang="en">Sports</category>
-  </programme>
-  <programme start="20260507233000 +0000" stop="20260508000000 +0000" channel="beinsports2.unifitv">
-    <title lang="en">This Is Paris - Episode Number 34</title>
-    <desc lang="en">An exclusive weekly look behind the scenes at French superclub, Paris Saint-Germain.</desc>
     <category lang="en">Sports</category>
   </programme>
   <programme start="20260508000000 +0000" stop="20260508013000 +0000" channel="beinsports2.unifitv">

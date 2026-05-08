@@ -2977,7 +2977,7 @@
 <programme start="20260508160000 +0000" stop="20260508183000 +0000" channel="Sky Sport Bundesliga 2 HD.skyde">
     <title>Live 2. BL: Freitags-Konferenz, 33. Spieltag</title>
 </programme>
-<programme start="20260508183000 +0000" stop="20260508194500 +0000" channel="Sky Sport Bundesliga 2 HD.skyde">
+<programme start="20260508183000 +0000" stop="20260508191500 +0000" channel="Sky Sport Bundesliga 2 HD.skyde">
     <title>Live 2. BL Alle Spiele, alle Tore: Die Vodafone Highlight-Show, 33. Spieltag, Freitag</title>
 </programme>
 <programme start="20260508154000 +0000" stop="20260508160000 +0000" channel="Sky Sport Bundesliga 3 HD.skyde">
@@ -2986,19 +2986,19 @@
 <programme start="20260508160000 +0000" stop="20260508183000 +0000" channel="Sky Sport Bundesliga 3 HD.skyde">
     <title>Live 2. BL: SC Paderborn 07 - Karlsruher SC, 1, 33. Spieltag</title>
 </programme>
-<programme start="20260508183000 +0000" stop="20260508210000 +0000" channel="Sky Sport Bundesliga 3 HD.skyde">
+<programme start="20260508183000 +0000" stop="20260508203000 +0000" channel="Sky Sport Bundesliga 3 HD.skyde">
     <title>Live BL: Sky Sport Fantasy: BVB - SGE, 33. Spieltag</title>
 </programme>
 <programme start="20260508154000 +0000" stop="20260508160000 +0000" channel="Sky Sport Bundesliga 4 HD.skyde">
     <title>Es folgt: LIVE 2. Bundesliga</title>
 </programme>
-<programme start="20260508160000 +0000" stop="20260508183000 +0000" channel="Sky Sport Bundesliga 4 HD.skyde">
+<programme start="20260508160000 +0000" stop="20260508190000 +0000" channel="Sky Sport Bundesliga 4 HD.skyde">
     <title>Live 2. BL: 1. FC Kaiserslautern - Arminia Bielefeld, 33. Spieltag</title>
 </programme>
 <programme start="20260508154000 +0000" stop="20260508160000 +0000" channel="Sky Sport Bundesliga 5 HD.skyde">
     <title>Es folgt: LIVE 2. Bundesliga</title>
 </programme>
-<programme start="20260508160000 +0000" stop="20260508183000 +0000" channel="Sky Sport Bundesliga 5 HD.skyde">
+<programme start="20260508160000 +0000" stop="20260508190000 +0000" channel="Sky Sport Bundesliga 5 HD.skyde">
     <title>Live 2. BL: Multiview 33. Spieltag, Freitag</title>
 </programme>
 <programme start="20260507220000 +0000" stop="20260507230000 +0000" channel="Sky Sport F1 HD.skyde">
@@ -3691,7 +3691,7 @@
 <programme start="20260508084000 +0000" stop="20260508090000 +0000" channel="Sky Sport 6 HD.skyde">
     <title>Es folgt: LIVE WTA Tour</title>
 </programme>
-<programme start="20260508090000 +0000" stop="20260508190000 +0000" channel="Sky Sport 6 HD.skyde">
+<programme start="20260508090000 +0000" stop="20260508220000 +0000" channel="Sky Sport 6 HD.skyde">
     <title>Live WTA 1000: Internazionali BNL d&#039;Italia in Rom (Italien), 4. Tag</title>
 </programme>
 <programme start="20260507224000 +0000" stop="20260507232500 +0000" channel="SYFY HD.skyde">
