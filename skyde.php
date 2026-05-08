@@ -2986,13 +2986,13 @@
 <programme start="20260508160000 +0000" stop="20260508183000 +0000" channel="Sky Sport Bundesliga 3 HD.skyde">
     <title>Live 2. BL: SC Paderborn 07 - Karlsruher SC, 1, 33. Spieltag</title>
 </programme>
-<programme start="20260508183000 +0000" stop="20260508203000 +0000" channel="Sky Sport Bundesliga 3 HD.skyde">
+<programme start="20260508183000 +0000" stop="20260508210000 +0000" channel="Sky Sport Bundesliga 3 HD.skyde">
     <title>Live BL: Sky Sport Fantasy: BVB - SGE, 33. Spieltag</title>
 </programme>
 <programme start="20260508154000 +0000" stop="20260508160000 +0000" channel="Sky Sport Bundesliga 4 HD.skyde">
     <title>Es folgt: LIVE 2. Bundesliga</title>
 </programme>
-<programme start="20260508160000 +0000" stop="20260508190000 +0000" channel="Sky Sport Bundesliga 4 HD.skyde">
+<programme start="20260508160000 +0000" stop="20260508183000 +0000" channel="Sky Sport Bundesliga 4 HD.skyde">
     <title>Live 2. BL: 1. FC Kaiserslautern - Arminia Bielefeld, 33. Spieltag</title>
 </programme>
 <programme start="20260508154000 +0000" stop="20260508160000 +0000" channel="Sky Sport Bundesliga 5 HD.skyde">
@@ -3032,13 +3032,13 @@
     <title>F1: Rennen - GP Miami</title>
 </programme>
 <programme start="20260508103000 +0000" stop="20260508104500 +0000" channel="Sky Sport F1 HD.skyde">
-    <title>Chasing the Dream: 3. Episode 2026</title>
+    <title>Chasing the Dream: Welcome to Miami!</title>
 </programme>
 <programme start="20260508104500 +0000" stop="20260508124500 +0000" channel="Sky Sport F1 HD.skyde">
     <title>IndyCar: Acura Grand Prix of Long Beach</title>
 </programme>
 <programme start="20260508124500 +0000" stop="20260508130000 +0000" channel="Sky Sport F1 HD.skyde">
-    <title>Chasing the Dream: 3. Episode 2026</title>
+    <title>Chasing the Dream: Welcome to Miami!</title>
 </programme>
 <programme start="20260508130000 +0000" stop="20260508143000 +0000" channel="Sky Sport F1 HD.skyde">
     <title>Live IndyCar: 1. Training in Indianapolis (Indiana)</title>
@@ -3395,7 +3395,7 @@
     <title>WTA 1000: Review Madrid</title>
 </programme>
 <programme start="20260508213000 +0000" stop="20260508233000 +0000" channel="Sky Sport Tennis HD.skyde">
-    <title>WTA 1000: Topspiel, Internazionali BNL d&#039;Italia in Rom (Italien), 4. Tag</title>
+    <title>WTA 1000: M. Sakkari (GRE) - E. Rybakina (KAZ), Internazionali BNL d&#039;Italia in Rom (Italien), 4. Tag</title>
 </programme>
 <programme start="20260507221000 +0000" stop="20260507230000 +0000" channel="Sky Sport Top Event HD.skyde">
     <title>NBA: Action</title>
@@ -3691,7 +3691,7 @@
 <programme start="20260508084000 +0000" stop="20260508090000 +0000" channel="Sky Sport 6 HD.skyde">
     <title>Es folgt: LIVE WTA Tour</title>
 </programme>
-<programme start="20260508090000 +0000" stop="20260508220000 +0000" channel="Sky Sport 6 HD.skyde">
+<programme start="20260508090000 +0000" stop="20260508190000 +0000" channel="Sky Sport 6 HD.skyde">
     <title>Live WTA 1000: Internazionali BNL d&#039;Italia in Rom (Italien), 4. Tag</title>
 </programme>
 <programme start="20260507224000 +0000" stop="20260507232500 +0000" channel="SYFY HD.skyde">

@@ -8218,7 +8218,7 @@
     <programme start="20260508150000 +0000" stop="20260508153000 +0000" channel="Dragon TV.starhub">
         <title>CARE ON THE WAY</title>
     </programme>
-    <programme start="20260508153000 +0000" stop="20260508160000 +0000" channel="Dragon TV.starhub">
+    <programme start="20260508153000 +0000" stop="20260508163000 +0000" channel="Dragon TV.starhub">
         <title>go fighting</title>
     </programme>
     <programme start="20260507160000 +0000" stop="20260507163000 +0000" channel="Travelxp HD.starhub">

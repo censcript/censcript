@@ -729,12 +729,12 @@
     <desc lang="en">Ikuti Solat Jumaat dan Khutbah Jumaat.</desc>
     <category lang="en">Drama</category>
   </programme>
-  <programme start="20260508060000 +0000" stop="20260508061500 +0000" channel="tv1.unifitv">
+  <programme start="20260508060000 +0000" stop="20260508060500 +0000" channel="tv1.unifitv">
     <title lang="en">Promo / PSA / Kapsul</title>
     <desc lang="en">Promo / PSA / Kapsul</desc>
     <category lang="en">Drama</category>
   </programme>
-  <programme start="20260508061500 +0000" stop="20260508063000 +0000" channel="tv1.unifitv">
+  <programme start="20260508060500 +0000" stop="20260508063000 +0000" channel="tv1.unifitv">
     <title lang="en">Impak Geologi</title>
     <desc lang="en">Impak Geologi membawakan formasi geologi unik yang terbentuk secara semula jadi dalam negara.</desc>
     <category lang="en">Drama</category>
@@ -828,7 +828,7 @@
     <episode-num system="onscreen">S1E14</episode-num>
   </programme>
   <programme start="20260508133000 +0000" stop="20260508140000 +0000" channel="tv1.unifitv">
-    <title lang="en">KOPIeKONOMI</title>
+    <title lang="en">KOPIeKONOMI 2025</title>
     <desc lang="en">Program bual bicara ekonomi santai yang menampilkan panel jemputan di ruang kopi sambil mengopi bagi membincangkan pelbagai isu semasa ekonomi, kewangan mahupun perniagaan bersama pengacara Hazel Desmond, Faiz Syahirah Nizam, Akmal Hafiz Ruslan dan Izzamil Nasir.</desc>
     <category lang="en">Drama</category>
     <episode-num system="xmltv_ns">0.6.</episode-num>
