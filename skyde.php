@@ -2968,7 +2968,7 @@
 <programme start="20260508173000 +0000" stop="20260508181500 +0000" channel="Sky Sport Bundesliga 1 HD.skyde">
     <title>Live BL: BVB - SGE: tipico Countdown, Flutlicht-Freitag, 33. Spieltag</title>
 </programme>
-<programme start="20260508181500 +0000" stop="20260508211500 +0000" channel="Sky Sport Bundesliga 1 HD.skyde">
+<programme start="20260508181500 +0000" stop="20260508214500 +0000" channel="Sky Sport Bundesliga 1 HD.skyde">
     <title>Live BL: Borussia Dortmund - Eintracht Frankfurt, Flutlicht-Freitag, 33. Spieltag</title>
 </programme>
 <programme start="20260508154000 +0000" stop="20260508160000 +0000" channel="Sky Sport Bundesliga 2 HD.skyde">
@@ -2992,7 +2992,7 @@
 <programme start="20260508154000 +0000" stop="20260508160000 +0000" channel="Sky Sport Bundesliga 4 HD.skyde">
     <title>Es folgt: LIVE 2. Bundesliga</title>
 </programme>
-<programme start="20260508160000 +0000" stop="20260508190000 +0000" channel="Sky Sport Bundesliga 4 HD.skyde">
+<programme start="20260508160000 +0000" stop="20260508183000 +0000" channel="Sky Sport Bundesliga 4 HD.skyde">
     <title>Live 2. BL: 1. FC Kaiserslautern - Arminia Bielefeld, 33. Spieltag</title>
 </programme>
 <programme start="20260508154000 +0000" stop="20260508160000 +0000" channel="Sky Sport Bundesliga 5 HD.skyde">
@@ -3067,7 +3067,7 @@
 <programme start="20260508213000 +0000" stop="20260508230000 +0000" channel="Sky Sport F1 HD.skyde">
     <title>Live IndyCar: Qualifying in Indianapolis (Indiana)</title>
 </programme>
-<programme start="20260507220000 +0000" stop="20260507230000 +0000" channel="Sky Sport Golf HD.skyde">
+<programme start="20260507221000 +0000" stop="20260507230000 +0000" channel="Sky Sport Golf HD.skyde">
     <title>PGA Championship: Official Film 2023 (Brooks Koepka)</title>
 </programme>
 <programme start="20260507230000 +0000" stop="20260508000000 +0000" channel="Sky Sport Golf HD.skyde">
@@ -3691,7 +3691,7 @@
 <programme start="20260508084000 +0000" stop="20260508090000 +0000" channel="Sky Sport 6 HD.skyde">
     <title>Es folgt: LIVE WTA Tour</title>
 </programme>
-<programme start="20260508090000 +0000" stop="20260508220000 +0000" channel="Sky Sport 6 HD.skyde">
+<programme start="20260508090000 +0000" stop="20260508190000 +0000" channel="Sky Sport 6 HD.skyde">
     <title>Live WTA 1000: Internazionali BNL d&#039;Italia in Rom (Italien), 4. Tag</title>
 </programme>
 <programme start="20260507224000 +0000" stop="20260507232500 +0000" channel="SYFY HD.skyde">
