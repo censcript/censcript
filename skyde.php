@@ -2791,78 +2791,6 @@
 <programme start="20260508145500 +0000" stop="20260508150000 +0000" channel="Sky Sport Austria 4 HD.skyde">
     <title>Test Austria 04 with BO-ALLGEMEIN</title>
 </programme>
-<programme start="20260508150000 +0000" stop="20260508150500 +0000" channel="Sky Sport Austria 4 HD.skyde">
-    <title>Test Austria 04</title>
-</programme>
-<programme start="20260508150500 +0000" stop="20260508151000 +0000" channel="Sky Sport Austria 4 HD.skyde">
-    <title>Test Austria 04 with BO-DE</title>
-</programme>
-<programme start="20260508151000 +0000" stop="20260508151500 +0000" channel="Sky Sport Austria 4 HD.skyde">
-    <title>Test Austria 04 with BO-AU</title>
-</programme>
-<programme start="20260508151500 +0000" stop="20260508152000 +0000" channel="Sky Sport Austria 4 HD.skyde">
-    <title>Test Austria 04 with BO-ALLGEMEIN</title>
-</programme>
-<programme start="20260508152000 +0000" stop="20260508152500 +0000" channel="Sky Sport Austria 4 HD.skyde">
-    <title>Test Austria 04</title>
-</programme>
-<programme start="20260508152500 +0000" stop="20260508153000 +0000" channel="Sky Sport Austria 4 HD.skyde">
-    <title>Test Austria 04 with BO-DE</title>
-</programme>
-<programme start="20260508153000 +0000" stop="20260508153500 +0000" channel="Sky Sport Austria 4 HD.skyde">
-    <title>Test Austria 04 with BO-AU</title>
-</programme>
-<programme start="20260508153500 +0000" stop="20260508154000 +0000" channel="Sky Sport Austria 4 HD.skyde">
-    <title>Test Austria 04 with BO-ALLGEMEIN</title>
-</programme>
-<programme start="20260508154000 +0000" stop="20260508154500 +0000" channel="Sky Sport Austria 4 HD.skyde">
-    <title>Test Austria 04</title>
-</programme>
-<programme start="20260508154500 +0000" stop="20260508155000 +0000" channel="Sky Sport Austria 4 HD.skyde">
-    <title>Test Austria 04 with BO-DE</title>
-</programme>
-<programme start="20260508155000 +0000" stop="20260508155500 +0000" channel="Sky Sport Austria 4 HD.skyde">
-    <title>Test Austria 04 with BO-AU</title>
-</programme>
-<programme start="20260508155500 +0000" stop="20260508160000 +0000" channel="Sky Sport Austria 4 HD.skyde">
-    <title>Test Austria 04 with BO-ALLGEMEIN</title>
-</programme>
-<programme start="20260508160000 +0000" stop="20260508160500 +0000" channel="Sky Sport Austria 4 HD.skyde">
-    <title>Test Austria 04</title>
-</programme>
-<programme start="20260508160500 +0000" stop="20260508161000 +0000" channel="Sky Sport Austria 4 HD.skyde">
-    <title>Test Austria 04 with BO-DE</title>
-</programme>
-<programme start="20260508161000 +0000" stop="20260508161500 +0000" channel="Sky Sport Austria 4 HD.skyde">
-    <title>Test Austria 04 with BO-AU</title>
-</programme>
-<programme start="20260508161500 +0000" stop="20260508162000 +0000" channel="Sky Sport Austria 4 HD.skyde">
-    <title>Test Austria 04 with BO-ALLGEMEIN</title>
-</programme>
-<programme start="20260508162000 +0000" stop="20260508162500 +0000" channel="Sky Sport Austria 4 HD.skyde">
-    <title>Test Austria 04</title>
-</programme>
-<programme start="20260508162500 +0000" stop="20260508163000 +0000" channel="Sky Sport Austria 4 HD.skyde">
-    <title>Test Austria 04 with BO-DE</title>
-</programme>
-<programme start="20260508163000 +0000" stop="20260508163500 +0000" channel="Sky Sport Austria 4 HD.skyde">
-    <title>Test Austria 04 with BO-AU</title>
-</programme>
-<programme start="20260508163500 +0000" stop="20260508164000 +0000" channel="Sky Sport Austria 4 HD.skyde">
-    <title>Test Austria 04 with BO-ALLGEMEIN</title>
-</programme>
-<programme start="20260508164000 +0000" stop="20260508164500 +0000" channel="Sky Sport Austria 4 HD.skyde">
-    <title>Test Austria 04</title>
-</programme>
-<programme start="20260508164500 +0000" stop="20260508165000 +0000" channel="Sky Sport Austria 4 HD.skyde">
-    <title>Test Austria 04 with BO-DE</title>
-</programme>
-<programme start="20260508165000 +0000" stop="20260508165500 +0000" channel="Sky Sport Austria 4 HD.skyde">
-    <title>Test Austria 04 with BO-AU</title>
-</programme>
-<programme start="20260508165500 +0000" stop="20260508170000 +0000" channel="Sky Sport Austria 4 HD.skyde">
-    <title>Test Austria 04 with BO-ALLGEMEIN</title>
-</programme>
 <programme start="20260507220000 +0000" stop="20260507223000 +0000" channel="Sky Sport Bundesliga HD.skyde">
     <title>2. BL: Dein Zweitligatalk - HvK &amp; Tusche</title>
 </programme>
@@ -2986,13 +2914,13 @@
 <programme start="20260508160000 +0000" stop="20260508183000 +0000" channel="Sky Sport Bundesliga 3 HD.skyde">
     <title>Live 2. BL: SC Paderborn 07 - Karlsruher SC, 1, 33. Spieltag</title>
 </programme>
-<programme start="20260508183000 +0000" stop="20260508203000 +0000" channel="Sky Sport Bundesliga 3 HD.skyde">
+<programme start="20260508183000 +0000" stop="20260508210000 +0000" channel="Sky Sport Bundesliga 3 HD.skyde">
     <title>Live BL: Sky Sport Fantasy: BVB - SGE, 33. Spieltag</title>
 </programme>
 <programme start="20260508154000 +0000" stop="20260508160000 +0000" channel="Sky Sport Bundesliga 4 HD.skyde">
     <title>Es folgt: LIVE 2. Bundesliga</title>
 </programme>
-<programme start="20260508160000 +0000" stop="20260508183000 +0000" channel="Sky Sport Bundesliga 4 HD.skyde">
+<programme start="20260508160000 +0000" stop="20260508190000 +0000" channel="Sky Sport Bundesliga 4 HD.skyde">
     <title>Live 2. BL: 1. FC Kaiserslautern - Arminia Bielefeld, 33. Spieltag</title>
 </programme>
 <programme start="20260508154000 +0000" stop="20260508160000 +0000" channel="Sky Sport Bundesliga 5 HD.skyde">
@@ -3040,10 +2968,10 @@
 <programme start="20260508124500 +0000" stop="20260508130000 +0000" channel="Sky Sport F1 HD.skyde">
     <title>Chasing the Dream: Welcome to Miami!</title>
 </programme>
-<programme start="20260508130000 +0000" stop="20260508143000 +0000" channel="Sky Sport F1 HD.skyde">
+<programme start="20260508130000 +0000" stop="20260508143500 +0000" channel="Sky Sport F1 HD.skyde">
     <title>Live IndyCar: 1. Training in Indianapolis (Indiana)</title>
 </programme>
-<programme start="20260508143000 +0000" stop="20260508153000 +0000" channel="Sky Sport F1 HD.skyde">
+<programme start="20260508143500 +0000" stop="20260508153000 +0000" channel="Sky Sport F1 HD.skyde">
     <title>WRC: Vodafone Rally de Portugal - SS1 Águeda / Sever</title>
 </programme>
 <programme start="20260508153000 +0000" stop="20260508160000 +0000" channel="Sky Sport F1 HD.skyde">
@@ -3367,25 +3295,31 @@
 <programme start="20260508213000 +0000" stop="20260508220000 +0000" channel="Sky Sport Premier League HD.skyde">
     <title>PL: Classic Match: West Ham United - FC Arsenal (2015/16)</title>
 </programme>
-<programme start="20260507220000 +0000" stop="20260508000000 +0000" channel="Sky Sport Tennis HD.skyde">
-    <title>WTA 1000: T. Maria (GER) - S. Cirstea (ROU), Internazionali BNL d&#039;Italia in Rom (Italien), 3. Tag</title>
-</programme>
 <programme start="20260508000000 +0000" stop="20260508020000 +0000" channel="Sky Sport Tennis HD.skyde">
     <title>ATP 1000: S. Tsitsipas (GRE) - T. Machac (CZE), Internazionali BNL d&#039;Italia in Rom (Italien), 3. Tag</title>
 </programme>
-<programme start="20260508020000 +0000" stop="20260508023000 +0000" channel="Sky Sport Tennis HD.skyde">
-    <title>ATP: This Week</title>
-</programme>
-<programme start="20260508023000 +0000" stop="20260508043000 +0000" channel="Sky Sport Tennis HD.skyde">
-    <title>WTA 1000: M. Kostyuk (UKR) - M. Andreeva, Mutua Madrid Open in Madrid (ESP), Finale</title>
-</programme>
-<programme start="20260508043000 +0000" stop="20260508050000 +0000" channel="Sky Sport Tennis HD.skyde">
-    <title>WTA 1000: Review Madrid</title>
-</programme>
-<programme start="20260508050000 +0000" stop="20260508070000 +0000" channel="Sky Sport Tennis HD.skyde">
+<programme start="20260508002000 +0000" stop="20260508011500 +0000" channel="Sky Sport Tennis HD.skyde">
     <title>WTA 1000: T. Maria (GER) - S. Cirstea (ROU), Internazionali BNL d&#039;Italia in Rom (Italien), 3. Tag</title>
 </programme>
-<programme start="20260508070000 +0000" stop="20260508090000 +0000" channel="Sky Sport Tennis HD.skyde">
+<programme start="20260508011500 +0000" stop="20260508025500 +0000" channel="Sky Sport Tennis HD.skyde">
+    <title>ATP 1000: S. Tsitsipas (GRE) - T. Machac (CZE), Internazionali BNL d&#039;Italia in Rom (Italien), 3. Tag</title>
+</programme>
+<programme start="20260508025500 +0000" stop="20260508032500 +0000" channel="Sky Sport Tennis HD.skyde">
+    <title>ATP: This Week</title>
+</programme>
+<programme start="20260508032500 +0000" stop="20260508052500 +0000" channel="Sky Sport Tennis HD.skyde">
+    <title>WTA 1000: M. Kostyuk (UKR) - M. Andreeva, Mutua Madrid Open in Madrid (ESP), Finale</title>
+</programme>
+<programme start="20260508052500 +0000" stop="20260508055500 +0000" channel="Sky Sport Tennis HD.skyde">
+    <title>WTA 1000: Review Madrid</title>
+</programme>
+<programme start="20260508055500 +0000" stop="20260508062000 +0000" channel="Sky Sport Tennis HD.skyde">
+    <title>ATP: This Week</title>
+</programme>
+<programme start="20260508062000 +0000" stop="20260508071500 +0000" channel="Sky Sport Tennis HD.skyde">
+    <title>WTA 1000: T. Maria (GER) - S. Cirstea (ROU), Internazionali BNL d&#039;Italia in Rom (Italien), 3. Tag</title>
+</programme>
+<programme start="20260508071500 +0000" stop="20260508090000 +0000" channel="Sky Sport Tennis HD.skyde">
     <title>ATP 1000: S. Tsitsipas (GRE) - T. Machac (CZE), Internazionali BNL d&#039;Italia in Rom (Italien), 3. Tag</title>
 </programme>
 <programme start="20260508090000 +0000" stop="20260508210000 +0000" channel="Sky Sport Tennis HD.skyde">

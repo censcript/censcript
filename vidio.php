@@ -510,12 +510,12 @@
     <desc lang="id">Panggung Megah Konser D'Academy 7 Siap Digelar! Audisi Online dan Offline Telah Usai! Siapakah Yang Akan Lolos Ke Panggung Megah D'Academy 7? Saksikan D'Academy 7 Mulai Senin, 9 Juni, Setiap Senin-Jumat Live Pkl 20.00 WIB Hanya Di Indosiar. #Indosiarbawadangdutberkelasberkualitas</desc>
     <icon src="https://thumbor.prod.vidiocdn.com/VszOvw8B01EOuw1GQ2jbQxKuTL0=/287x162/filters:strip_icc():quality(70)/vidio-media-production/uploads/livestreaming/schedule/thumbnail/5058245/3ccf5a.jpg"/>
   </programme>
-  <programme channel="205" start="20260508175300 +0000" stop="20260508193800 +0000">
+  <programme channel="205" start="20260508175300 +0000" stop="20260508194100 +0000">
     <title lang="id">Mega Film Asia : Striking Rescue</title>
     <desc lang="id">Mega Film Asia Adalah Program Yang Memutarkan Film-Film Asia Yang Ditayangkan Di Indosiar. Acara Ini Ditayangkan Perdana Pada Tahun 1996 Silam.</desc>
     <icon src="https://thumbor.prod.vidiocdn.com/o0udzZe2YN_qmqo042jimEIonSY=/287x162/filters:strip_icc():quality(70)/vidio-media-production/uploads/livestreaming/schedule/thumbnail/5058246/53e40e.jpg"/>
   </programme>
-  <programme channel="205" start="20260508193800 +0000" stop="20260508213000 +0000">
+  <programme channel="205" start="20260508194100 +0000" stop="20260508213000 +0000">
     <title lang="id">Mega Film Asia : King Of Beggars</title>
     <desc lang="id">Mega Film Asia Adalah Program Yang Memutarkan Film-Film Asia Yang Ditayangkan Di Indosiar. Acara Ini Ditayangkan Perdana Pada Tahun 1996 Silam.</desc>
     <icon src="https://thumbor.prod.vidiocdn.com/TXJK4QC9ogcdlLDBu8ryEXEMdvk=/287x162/filters:strip_icc():quality(70)/vidio-media-production/uploads/livestreaming/schedule/thumbnail/5058247/608eb4.jpg"/>
@@ -7383,7 +7383,7 @@
     <desc lang="id">Brands Hatch, UK</desc>
     <icon src="https://thumbor.prod.vidiocdn.com/5yUHYfv_b1sZi7kdFElm8JqF2RY=/287x162/filters:strip_icc():quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/image/6299/bein-1-4bd997.jpg"/>
   </programme>
-  <programme channel="6299" start="20260508190000 +0000" stop="20260508210000 +0000">
+  <programme channel="6299" start="20260508185500 +0000" stop="20260508210000 +0000">
     <title lang="id">Levante vs Osasuna - LaLiga</title>
     <desc lang="id">Nonton streaming pertandingan seru Levante vs Osasuna - LaLiga. Saksikan aksi-aksi terbaik dari tim yang bersaing ketat untuk meraih kemenangan. Dapatkan informasi lengkap mengenai jadwal pertandingan dan hasil pertandingan terbaru hanya di Vidio.</desc>
     <icon src="https://thumbor.prod.vidiocdn.com/veY8f0vdPLr_7ghpwxqrjxbOtKk=/287x162/filters:strip_icc():quality(70)/vidio-media-production/uploads/livestreaming/schedule/thumbnail/5062761/23ccd0.jpg"/>
@@ -14116,32 +14116,17 @@
     <desc lang="id">Match 11 - Internazionali BNL d'Italia</desc>
     <icon src="https://thumbor.prod.vidiocdn.com/nY0aFklpYf6yONLaFJjxhiSuthc=/287x162/filters:strip_icc():quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/image/6786/champions-tv-3-76ca7c.jpg"/>
   </programme>
-  <programme channel="6786" start="20260508150000 +0000" stop="20260508170000 +0000">
+  <programme channel="6786" start="20260508150000 +0000" stop="20260508183400 +0000">
     <title lang="id">Match 12 - Internazionali BNL d'Italia : WTA 1000</title>
     <desc lang="id">Match 12 - Internazionali BNL d'Italia</desc>
     <icon src="https://thumbor.prod.vidiocdn.com/nY0aFklpYf6yONLaFJjxhiSuthc=/287x162/filters:strip_icc():quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/image/6786/champions-tv-3-76ca7c.jpg"/>
   </programme>
-  <programme channel="6786" start="20260508150000 +0000" stop="20260508170000 +0000">
+  <programme channel="6786" start="20260508150000 +0000" stop="20260508183400 +0000">
     <title lang="id">Match 12 - Internazionali BNL d'Italia : WTA 1000</title>
     <desc lang="id">Match 12 - Internazionali BNL d'Italia</desc>
     <icon src="https://thumbor.prod.vidiocdn.com/nY0aFklpYf6yONLaFJjxhiSuthc=/287x162/filters:strip_icc():quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/image/6786/champions-tv-3-76ca7c.jpg"/>
   </programme>
-  <programme channel="6786" start="20260508170000 +0000" stop="20260508173000 +0000">
-    <title lang="id">Eps 23 : Sport Woman</title>
-    <desc lang="id">Eps 23</desc>
-    <icon src="https://thumbor.prod.vidiocdn.com/nY0aFklpYf6yONLaFJjxhiSuthc=/287x162/filters:strip_icc():quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/image/6786/champions-tv-3-76ca7c.jpg"/>
-  </programme>
-  <programme channel="6786" start="20260508173000 +0000" stop="20260508180000 +0000">
-    <title lang="id">Eps 2 : WTA ALL ACCESS 2026</title>
-    <desc lang="id">Eps 2</desc>
-    <icon src="https://thumbor.prod.vidiocdn.com/nY0aFklpYf6yONLaFJjxhiSuthc=/287x162/filters:strip_icc():quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/image/6786/champions-tv-3-76ca7c.jpg"/>
-  </programme>
-  <programme channel="6786" start="20260508180000 +0000" stop="20260508183000 +0000">
-    <title lang="id">Full Impact - Round 35 : Serie A 2025/26 - Highlight Show</title>
-    <desc lang="id">Full Impact - Round 35</desc>
-    <icon src="https://thumbor.prod.vidiocdn.com/nY0aFklpYf6yONLaFJjxhiSuthc=/287x162/filters:strip_icc():quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/image/6786/champions-tv-3-76ca7c.jpg"/>
-  </programme>
-  <programme channel="6786" start="20260508183000 +0000" stop="20260508205000 +0000">
+  <programme channel="6786" start="20260508183400 +0000" stop="20260508205000 +0000">
     <title lang="id">TORINO vs SASSUOLO : Serie A 2025/26</title>
     <desc lang="id">TORINO vs SASSUOLO</desc>
     <icon src="https://thumbor.prod.vidiocdn.com/nY0aFklpYf6yONLaFJjxhiSuthc=/287x162/filters:strip_icc():quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/image/6786/champions-tv-3-76ca7c.jpg"/>
@@ -15262,14 +15247,9 @@
     <desc lang="id">Match Round 32</desc>
     <icon src="https://thumbor.prod.vidiocdn.com/xgkik6iws0EJ01bi5cJsIjYWjOM=/287x162/filters:strip_icc():quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/image/6686/champions-tv-2-681a27.jpg"/>
   </programme>
-  <programme channel="6686" start="20260508170000 +0000" stop="20260508190000 +0000">
+  <programme channel="6686" start="20260508170000 +0000" stop="20260508210000 +0000">
     <title lang="id">Match 13 : WTA 1000 - Internazionali Bnl D'Italia</title>
     <desc lang="id">MATCH 13</desc>
-    <icon src="https://thumbor.prod.vidiocdn.com/xgkik6iws0EJ01bi5cJsIjYWjOM=/287x162/filters:strip_icc():quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/image/6686/champions-tv-2-681a27.jpg"/>
-  </programme>
-  <programme channel="6686" start="20260508190000 +0000" stop="20260508210000 +0000">
-    <title lang="id">Nac Breda Vs Afc Ajax : Dutch League Eredivisie 2025/26</title>
-    <desc lang="id">NAC BREDA vs AFC AJAX</desc>
     <icon src="https://thumbor.prod.vidiocdn.com/xgkik6iws0EJ01bi5cJsIjYWjOM=/287x162/filters:strip_icc():quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/image/6686/champions-tv-2-681a27.jpg"/>
   </programme>
   <programme channel="6686" start="20260508210000 +0000" stop="20260508230000 +0000">
