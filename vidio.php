@@ -238,11 +238,11 @@
     <desc lang="id">Ceramah islami penuh makna. Tayang setiap selasa - minggu, mulai pukul 04.00 WIB</desc>
     <icon src="https://thumbor.prod.vidiocdn.com/N99E8BD1OJ5vvymwPBj0c-BU5J4=/287x162/filters:strip_icc():quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/image/204/sctv-5ef966.jpg"/>
   </programme>
-  <programme channel="204" start="20260508213000 +0000" stop="20260508220000 +0000">
+  <programme channel="204" start="20260508213000 +0000" stop="20260508215500 +0000">
     <title lang="id">Buser</title>
     <icon src="https://thumbor.prod.vidiocdn.com/hqiU7koXgDL4zkxckArkSQHfwWw=/287x162/filters:strip_icc():quality(70)/vidio-media-production/uploads/tv_program/thumbnail/382356/d78201.jpg"/>
   </programme>
-  <programme channel="204" start="20260508220000 +0000" stop="20260508230000 +0000">
+  <programme channel="204" start="20260508215500 +0000" stop="20260508230000 +0000">
     <title lang="id">Liputan 6 Pagi</title>
     <icon src="https://thumbor.prod.vidiocdn.com/zhjFQwq6iSuTCvvGcnYTGLsPqqw=/287x162/filters:strip_icc():quality(70)/vidio-media-production/uploads/tv_program/thumbnail/391989/724dc7.jpg"/>
   </programme>
@@ -250,65 +250,65 @@
     <title lang="id">Halo Selebriti</title>
     <icon src="https://thumbor.prod.vidiocdn.com/N99E8BD1OJ5vvymwPBj0c-BU5J4=/287x162/filters:strip_icc():quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/image/204/sctv-5ef966.jpg"/>
   </programme>
-  <programme channel="204" start="20260509000000 +0000" stop="20260509013000 +0000">
+  <programme channel="204" start="20260509000000 +0000" stop="20260509012500 +0000">
     <title lang="id">FTV Pagi Special: Senorita Buat Cucu Ke 29</title>
     <desc lang="id">Film televisi yang mengangkat kisah romantisme kehidupan dengan konflik yang menarik. Tayang setiap hari.</desc>
     <icon src="https://thumbor.prod.vidiocdn.com/zHAXn9F4tud4DZ8xLzRApmN5ICY=/287x162/filters:strip_icc():quality(70)/vidio-media-production/uploads/livestreaming/schedule/thumbnail/5062732/b1fa2d.jpg"/>
   </programme>
-  <programme channel="204" start="20260509013000 +0000" stop="20260509030000 +0000">
+  <programme channel="204" start="20260509012500 +0000" stop="20260509025000 +0000">
     <title lang="id">FTV Pagi Special 1: Kamu Memang OB Tapi Kamu Ratu Dihatiku</title>
     <desc lang="id">Film televisi yang mengangkat kisah romantisme kehidupan dengan konflik yang menarik. Tayang setiap hari.</desc>
     <icon src="https://thumbor.prod.vidiocdn.com/Vc2psCPCK38p9Bn5PIwF9ghnRhY=/287x162/filters:strip_icc():quality(70)/vidio-media-production/uploads/livestreaming/schedule/thumbnail/5062733/76efa4.jpg"/>
   </programme>
-  <programme channel="204" start="20260509030000 +0000" stop="20260509050000 +0000">
+  <programme channel="204" start="20260509025000 +0000" stop="20260509044500 +0000">
     <title lang="id">FTV Pagi: Punya Bos Cute Bikin Masuk Waktu Indonesia Baper</title>
     <desc lang="id">Film televisi yang mengangkat kisah romantisme kehidupan dengan konflik yang menarik. Tayang setiap hari.</desc>
     <icon src="https://thumbor.prod.vidiocdn.com/ivuuLH-EwnWJFHl0d4KXpulXzWU=/287x162/filters:strip_icc():quality(70)/vidio-media-production/uploads/livestreaming/schedule/thumbnail/5062734/e8436c.jpg"/>
   </programme>
-  <programme channel="204" start="20260509050000 +0000" stop="20260509053000 +0000">
+  <programme channel="204" start="20260509044500 +0000" stop="20260509052000 +0000">
     <title lang="id">Liputan 6 Siang</title>
     <icon src="https://thumbor.prod.vidiocdn.com/oP-Nyp4dD3RXaqpPXb3xEtentuw=/287x162/filters:strip_icc():quality(70)/vidio-media-production/uploads/tv_program/thumbnail/391990/1e25aa.jpg"/>
   </programme>
-  <programme channel="204" start="20260509053000 +0000" stop="20260509070000 +0000">
-    <title lang="id">FTV Siang</title>
+  <programme channel="204" start="20260509052000 +0000" stop="20260509065500 +0000">
+    <title lang="id">FTV Siang : Bos Kecil Bikin Auto Baper</title>
     <desc lang="id">Film televisi yang mengangkat kisah romantisme kehidupan dengan konflik yang menarik. Tayang setiap hari.</desc>
     <icon src="https://thumbor.prod.vidiocdn.com/ZsSaffdxa5-ie_sxQj_RcH8p8HM=/287x162/filters:strip_icc():quality(70)/vidio-media-production/uploads/livestreaming/schedule/thumbnail/5062735/d6e928.jpg"/>
   </programme>
-  <programme channel="204" start="20260509070000 +0000" stop="20260509083000 +0000">
+  <programme channel="204" start="20260509065500 +0000" stop="20260509082500 +0000">
     <title lang="id">FTV Siang 1: Jatuh Cinta Boleh Ngutang</title>
     <desc lang="id">Film televisi yang mengangkat kisah romantisme kehidupan dengan konflik yang menarik. Tayang setiap hari.</desc>
     <icon src="https://thumbor.prod.vidiocdn.com/GQ4-CRbwQycfv16hG-L1mC1d568=/287x162/filters:strip_icc():quality(70)/vidio-media-production/uploads/livestreaming/schedule/thumbnail/5062736/766b89.jpg"/>
   </programme>
-  <programme channel="204" start="20260509083000 +0000" stop="20260509100000 +0000">
+  <programme channel="204" start="20260509082500 +0000" stop="20260509100000 +0000">
     <title lang="id">FTV Sore: Tukang Roti Cintanya Gak Santuy</title>
     <desc lang="id">Film televisi yang mengangkat kisah romantisme kehidupan dengan konflik yang menarik. Tayang setiap hari.</desc>
     <icon src="https://thumbor.prod.vidiocdn.com/wm90xfxNMK-VDaHV1_n0IqMqY4g=/287x162/filters:strip_icc():quality(70)/vidio-media-production/uploads/livestreaming/schedule/thumbnail/5062737/3af13c.jpg"/>
   </programme>
-  <programme channel="204" start="20260509100000 +0000" stop="20260509111500 +0000">
+  <programme channel="204" start="20260509100000 +0000" stop="20260509112500 +0000">
     <title lang="id">Asmara Gen Z</title>
     <desc lang="id">Sinetron yang bercerita tentang persahabatan, cinta dan serunya keseharian para Gen Z. Dibintangi oleh AQEELA CALISTA, FATTAH SYACH, ARYA MOHAN, NICOLE ROSSI, HARRY VAUGHAN dan RAISA MARIE. Tayang setiap hari pukul 17.00 WIB.</desc>
     <icon src="https://thumbor.prod.vidiocdn.com/bBOx1-eAq0GvefIFPV527rLi1PI=/287x162/filters:strip_icc():quality(70)/vidio-media-production/uploads/tv_program/thumbnail/387307/cd8554.jpg"/>
   </programme>
-  <programme channel="204" start="20260509111500 +0000" stop="20260509130000 +0000">
+  <programme channel="204" start="20260509112500 +0000" stop="20260509131000 +0000">
     <title lang="id">Istiqomah Cinta</title>
     <desc lang="id">Sinetron romansa tentang kisah Khansa (Yasmin Napper), perempuan lembut yang dipenjara 5 tahun karena fitnah Monika (Anjani Dina) untuk menutupi kecelakaan yang menabrak Aryani. Setelah bebas, Khansa berjuang mempertahankan iman dan kejujurannya di tengah teror, pengkhianatan, dan konflik cinta dengan Fathan (Arbani Yasiz) dan Emran (Cakrawala Airawan). Tayang setiap hari pukul 18.25 WIB</desc>
     <icon src="https://thumbor.prod.vidiocdn.com/qhZpHEqYoWbfBrJa0aLRcUb0G7I=/287x162/filters:strip_icc():quality(70)/vidio-media-production/uploads/tv_program/thumbnail/401147/50494f.jpg"/>
   </programme>
-  <programme channel="204" start="20260509130000 +0000" stop="20260509143000 +0000">
+  <programme channel="204" start="20260509131000 +0000" stop="20260509143500 +0000">
     <title lang="id">Beri Cinta Waktu</title>
     <desc lang="id">Sinetron romansa tentang perjalanan Trian (Yesaya Abraham) mencari keadilan dan mengungkap kejahatan pasca Adila, istrinya meninggal dunia, dengan bantuan Rama (Rayn Wijaya) dan Asmara (Angela Gilsha). Tayang setiap hari pukul 20.10 WIB</desc>
     <icon src="https://thumbor.prod.vidiocdn.com/ho2PtWvpg-rvR-RgqS1-Xs_7xWA=/287x162/filters:strip_icc():quality(70)/vidio-media-production/uploads/tv_program/thumbnail/393465/43cc4c.jpg"/>
   </programme>
-  <programme channel="204" start="20260509143000 +0000" stop="20260509163000 +0000">
+  <programme channel="204" start="20260509143500 +0000" stop="20260509160000 +0000">
     <title lang="id">Jejak Duka Diandra</title>
     <desc lang="id">Kisah cinta Diandra (Michelle Ziudith) dan Dimitri (Rio Dewanto) yang semula indah seketika berubah drastis setelah Yunita (Baiti Syaghaf), saudara tiri Diandra mengaku mencintai Dimitri. Dimitri terjebak dalam situasi sulit akibat ulah sang adik, Jupiter (Bizael) yang menuduh Dimitri melecehkan Yunita. Hubungan Dimitri dengan Diandra pun semakin merenggang. Tuduhan lainnya juga harus diterima Dimitri sebagai penyebab insiden kecelakaan seorang wanita. Posisi Dimitri semakin terpojok setelah Diandra yang diminta sebagai saksi justru tidak berpihak kepadanya hingga Dimitri mendapat sanksi mendekam di balik jeruji besi selama lima tahun. Lima tahun berlalu, Dimitri hidup bebas dan melanjutkan usaha sang ayah. Ia pun membuka kisah cinta baru dengan Melissa (Tasya Panggabean). Takdir pun berkata lain, pertemuan Dimitri dan Diandra kembali terjadi. Tayang setiap hari pukul 21.30 WIB</desc>
     <icon src="https://thumbor.prod.vidiocdn.com/oMFhUagHdo4551UBuIvUsG9_qZA=/287x162/filters:strip_icc():quality(70)/vidio-media-production/uploads/tv_program/thumbnail/399305/1d17bf.jpg"/>
   </programme>
-  <programme channel="204" start="20260509163000 +0000" stop="20260509183000 +0000">
+  <programme channel="204" start="20260509160000 +0000" stop="20260509183000 +0000">
     <title lang="id">Man City Vs Brentford - Liga Inggris - Live</title>
     <icon src="https://thumbor.prod.vidiocdn.com/N99E8BD1OJ5vvymwPBj0c-BU5J4=/287x162/filters:strip_icc():quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/image/204/sctv-5ef966.jpg"/>
   </programme>
-  <programme channel="204" start="20260509163000 +0000" stop="20260509183000 +0000">
+  <programme channel="204" start="20260509160000 +0000" stop="20260509183000 +0000">
     <title lang="id">Man City Vs Brentford - Liga Inggris - Live</title>
     <icon src="https://thumbor.prod.vidiocdn.com/N99E8BD1OJ5vvymwPBj0c-BU5J4=/287x162/filters:strip_icc():quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/image/204/sctv-5ef966.jpg"/>
   </programme>
@@ -515,12 +515,12 @@
     <desc lang="id">Mega Film Asia Adalah Program Yang Memutarkan Film-Film Asia Yang Ditayangkan Di Indosiar. Acara Ini Ditayangkan Perdana Pada Tahun 1996 Silam.</desc>
     <icon src="https://thumbor.prod.vidiocdn.com/o0udzZe2YN_qmqo042jimEIonSY=/287x162/filters:strip_icc():quality(70)/vidio-media-production/uploads/livestreaming/schedule/thumbnail/5058246/53e40e.jpg"/>
   </programme>
-  <programme channel="205" start="20260508194100 +0000" stop="20260508213000 +0000">
+  <programme channel="205" start="20260508194100 +0000" stop="20260508211800 +0000">
     <title lang="id">Mega Film Asia : King Of Beggars</title>
     <desc lang="id">Mega Film Asia Adalah Program Yang Memutarkan Film-Film Asia Yang Ditayangkan Di Indosiar. Acara Ini Ditayangkan Perdana Pada Tahun 1996 Silam.</desc>
     <icon src="https://thumbor.prod.vidiocdn.com/TXJK4QC9ogcdlLDBu8ryEXEMdvk=/287x162/filters:strip_icc():quality(70)/vidio-media-production/uploads/livestreaming/schedule/thumbnail/5058247/608eb4.jpg"/>
   </programme>
-  <programme channel="205" start="20260508213000 +0000" stop="20260508223000 +0000">
+  <programme channel="205" start="20260508211800 +0000" stop="20260508223000 +0000">
     <title lang="id">Fokus Pagi</title>
     <desc lang="id">Berita Lengkap dan Terkini Dari Dalam dan Luar Negeri Seputar Isu Politik, Ekonomi, Hukum, Kriminal, Sosial Budaya, Olahraga, dan Lain-Lain.</desc>
     <icon src="https://thumbor.prod.vidiocdn.com/cBZL7ITaJCof6cqtayFee2uJCX8=/287x162/filters:strip_icc():quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/image/205/indosiar-d9a3d0.jpg"/>
@@ -8902,10 +8902,14 @@
     <title lang="id">Filler</title>
     <icon src="https://thumbor.prod.vidiocdn.com/edoqRinFCRhrRwQ2ngcXacb_q74=/287x162/filters:strip_icc():quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/image/6685/champions-tv-1-54e282.jpg"/>
   </programme>
-  <programme channel="6685" start="20260508185500 +0000" stop="20260508210000 +0000">
+  <programme channel="6685" start="20260508185500 +0000" stop="20260508205500 +0000">
     <title lang="id">Semifinal Leg 1: Hull City vs Millwall - EFL Championship</title>
     <desc lang="id">Nonton streaming pertandingan seru Semifinal Leg 1: Hull City vs Millwall - EFL Championship. Saksikan aksi-aksi terbaik dari tim yang bersaing ketat untuk meraih kemenangan. Dapatkan informasi lengkap mengenai jadwal pertandingan dan hasil pertandingan terbaru hanya di Vidio.</desc>
     <icon src="https://thumbor.prod.vidiocdn.com/TPs5xyX9ND5ef6jkNBgfl39IK9c=/287x162/filters:strip_icc():quality(70)/vidio-media-production/uploads/livestreaming/schedule/thumbnail/5064371/fc1df7.jpg"/>
+  </programme>
+  <programme channel="6685" start="20260508205500 +0000" stop="20260508210000 +0000">
+    <title lang="id">Filler</title>
+    <icon src="https://thumbor.prod.vidiocdn.com/edoqRinFCRhrRwQ2ngcXacb_q74=/287x162/filters:strip_icc():quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/image/6685/champions-tv-1-54e282.jpg"/>
   </programme>
   <programme channel="6685" start="20260508210000 +0000" stop="20260508213000 +0000">
     <title lang="id">Eps 3 : MXGP Behind the Gate 2026</title>
@@ -14126,12 +14130,12 @@
     <desc lang="id">Match 12 - Internazionali BNL d'Italia</desc>
     <icon src="https://thumbor.prod.vidiocdn.com/nY0aFklpYf6yONLaFJjxhiSuthc=/287x162/filters:strip_icc():quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/image/6786/champions-tv-3-76ca7c.jpg"/>
   </programme>
-  <programme channel="6786" start="20260508183400 +0000" stop="20260508205000 +0000">
+  <programme channel="6786" start="20260508183400 +0000" stop="20260508204300 +0000">
     <title lang="id">TORINO vs SASSUOLO : Serie A 2025/26</title>
     <desc lang="id">TORINO vs SASSUOLO</desc>
     <icon src="https://thumbor.prod.vidiocdn.com/nY0aFklpYf6yONLaFJjxhiSuthc=/287x162/filters:strip_icc():quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/image/6786/champions-tv-3-76ca7c.jpg"/>
   </programme>
-  <programme channel="6786" start="20260508205000 +0000" stop="20260508210000 +0000">
+  <programme channel="6786" start="20260508204300 +0000" stop="20260508210000 +0000">
     <title lang="id">Filler</title>
     <icon src="https://thumbor.prod.vidiocdn.com/nY0aFklpYf6yONLaFJjxhiSuthc=/287x162/filters:strip_icc():quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/image/6786/champions-tv-3-76ca7c.jpg"/>
   </programme>
@@ -15247,27 +15251,22 @@
     <desc lang="id">Match Round 32</desc>
     <icon src="https://thumbor.prod.vidiocdn.com/xgkik6iws0EJ01bi5cJsIjYWjOM=/287x162/filters:strip_icc():quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/image/6686/champions-tv-2-681a27.jpg"/>
   </programme>
-  <programme channel="6686" start="20260508170000 +0000" stop="20260508210000 +0000">
+  <programme channel="6686" start="20260508170000 +0000" stop="20260508202200 +0000">
     <title lang="id">Match 13 : WTA 1000 - Internazionali Bnl D'Italia</title>
     <desc lang="id">MATCH 13</desc>
     <icon src="https://thumbor.prod.vidiocdn.com/xgkik6iws0EJ01bi5cJsIjYWjOM=/287x162/filters:strip_icc():quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/image/6686/champions-tv-2-681a27.jpg"/>
   </programme>
-  <programme channel="6686" start="20260508210000 +0000" stop="20260508230000 +0000">
+  <programme channel="6686" start="20260508202200 +0000" stop="20260508222000 +0000">
+    <title lang="id">NAC Breda vs AFC Ajax : Dutch League Eredivisie 2025/26</title>
+    <desc lang="id">NAC Breda vs AFC Ajax</desc>
+    <icon src="https://thumbor.prod.vidiocdn.com/xgkik6iws0EJ01bi5cJsIjYWjOM=/287x162/filters:strip_icc():quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/image/6686/champions-tv-2-681a27.jpg"/>
+  </programme>
+  <programme channel="6686" start="20260508222000 +0000" stop="20260509001300 +0000">
     <title lang="id">Napoli Vs Milan : Serie A 2025/26</title>
     <desc lang="id">NAPOLI vs MILAN</desc>
     <icon src="https://thumbor.prod.vidiocdn.com/xgkik6iws0EJ01bi5cJsIjYWjOM=/287x162/filters:strip_icc():quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/image/6686/champions-tv-2-681a27.jpg"/>
   </programme>
-  <programme channel="6686" start="20260508230000 +0000" stop="20260508233000 +0000">
-    <title lang="id">Magazine - Inside Round 35 : Serie A 2025/26</title>
-    <desc lang="id">MAGAZINE INSIDE ROUND 35</desc>
-    <icon src="https://thumbor.prod.vidiocdn.com/xgkik6iws0EJ01bi5cJsIjYWjOM=/287x162/filters:strip_icc():quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/image/6686/champions-tv-2-681a27.jpg"/>
-  </programme>
-  <programme channel="6686" start="20260508233000 +0000" stop="20260509000000 +0000">
-    <title lang="id">Highlight - Full Impact Round 35 : Serie A 2025/26</title>
-    <desc lang="id">HIGHLIGHT FULL IMPACT ROUND 35</desc>
-    <icon src="https://thumbor.prod.vidiocdn.com/xgkik6iws0EJ01bi5cJsIjYWjOM=/287x162/filters:strip_icc():quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/image/6686/champions-tv-2-681a27.jpg"/>
-  </programme>
-  <programme channel="6686" start="20260509000000 +0000" stop="20260509010000 +0000">
+  <programme channel="6686" start="20260509001300 +0000" stop="20260509010000 +0000">
     <title lang="id">Match Round 32 : Portuguese League 2025/26 - Highlight</title>
     <desc lang="id">Match Round 32</desc>
     <icon src="https://thumbor.prod.vidiocdn.com/xgkik6iws0EJ01bi5cJsIjYWjOM=/287x162/filters:strip_icc():quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/image/6686/champions-tv-2-681a27.jpg"/>
