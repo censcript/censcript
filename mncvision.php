@@ -70,6 +70,114 @@
 <programme start="20260508165500 +0000" stop="20260507172500 +0000" channel="ABC Australia.mncvision">
     <title>Field To Feast</title>
 </programme>
+<programme start="20260507170000 +0000" stop="20260507173000 +0000" channel="Al Jazeera English.mncvision">
+    <title>News (L)</title>
+</programme>
+<programme start="20260507173000 +0000" stop="20260507180000 +0000" channel="Al Jazeera English.mncvision">
+    <title>Inside Story</title>
+</programme>
+<programme start="20260507180000 +0000" stop="20260507190000 +0000" channel="Al Jazeera English.mncvision">
+    <title>NewsHour</title>
+</programme>
+<programme start="20260507190000 +0000" stop="20260507193000 +0000" channel="Al Jazeera English.mncvision">
+    <title>News (L)</title>
+</programme>
+<programme start="20260507193000 +0000" stop="20260507200000 +0000" channel="Al Jazeera English.mncvision">
+    <title>Who Killed Shireen?, Pt 1</title>
+</programme>
+<programme start="20260507200000 +0000" stop="20260507203000 +0000" channel="Al Jazeera English.mncvision">
+    <title>News (L)</title>
+</programme>
+<programme start="20260507203000 +0000" stop="20260507210000 +0000" channel="Al Jazeera English.mncvision">
+    <title>Who Killed Shireen?, Pt 2</title>
+</programme>
+<programme start="20260507210000 +0000" stop="20260507220000 +0000" channel="Al Jazeera English.mncvision">
+    <title>NewsHour</title>
+</programme>
+<programme start="20260507220000 +0000" stop="20260507230000 +0000" channel="Al Jazeera English.mncvision">
+    <title>NewsHour</title>
+</programme>
+<programme start="20260507230000 +0000" stop="20260507233000 +0000" channel="Al Jazeera English.mncvision">
+    <title>News (L)</title>
+</programme>
+<programme start="20260507233000 +0000" stop="20260508000000 +0000" channel="Al Jazeera English.mncvision">
+    <title>Inside Story</title>
+</programme>
+<programme start="20260508000000 +0000" stop="20260508010000 +0000" channel="Al Jazeera English.mncvision">
+    <title>NewsHour</title>
+</programme>
+<programme start="20260508010000 +0000" stop="20260508020000 +0000" channel="Al Jazeera English.mncvision">
+    <title>Al Jazeera World: Infiltration</title>
+</programme>
+<programme start="20260508020000 +0000" stop="20260508023000 +0000" channel="Al Jazeera English.mncvision">
+    <title>News (L)</title>
+</programme>
+<programme start="20260508023000 +0000" stop="20260508030000 +0000" channel="Al Jazeera English.mncvision">
+    <title>Counting The Cost</title>
+</programme>
+<programme start="20260508030000 +0000" stop="20260508033000 +0000" channel="Al Jazeera English.mncvision">
+    <title>News (L)</title>
+</programme>
+<programme start="20260508033000 +0000" stop="20260508040000 +0000" channel="Al Jazeera English.mncvision">
+    <title>The Bottom Line</title>
+</programme>
+<programme start="20260508040000 +0000" stop="20260508043000 +0000" channel="Al Jazeera English.mncvision">
+    <title>News (L)</title>
+</programme>
+<programme start="20260508043000 +0000" stop="20260508050000 +0000" channel="Al Jazeera English.mncvision">
+    <title>The Listening Post</title>
+</programme>
+<programme start="20260508050000 +0000" stop="20260508053000 +0000" channel="Al Jazeera English.mncvision">
+    <title>News (L)</title>
+</programme>
+<programme start="20260508053000 +0000" stop="20260508060000 +0000" channel="Al Jazeera English.mncvision">
+    <title>Inside Story</title>
+</programme>
+<programme start="20260508060000 +0000" stop="20260508063000 +0000" channel="Al Jazeera English.mncvision">
+    <title>News (L)</title>
+</programme>
+<programme start="20260508063000 +0000" stop="20260508070000 +0000" channel="Al Jazeera English.mncvision">
+    <title>Who Killed Shireen?, Pt 1</title>
+</programme>
+<programme start="20260508070000 +0000" stop="20260508073000 +0000" channel="Al Jazeera English.mncvision">
+    <title>News (L)</title>
+</programme>
+<programme start="20260508073000 +0000" stop="20260508080000 +0000" channel="Al Jazeera English.mncvision">
+    <title>Who Killed Shireen?</title>
+</programme>
+<programme start="20260508080000 +0000" stop="20260508083000 +0000" channel="Al Jazeera English.mncvision">
+    <title>News (L)</title>
+</programme>
+<programme start="20260508083000 +0000" stop="20260508090000 +0000" channel="Al Jazeera English.mncvision">
+    <title>Talk To Al Jazeera: J. Liang</title>
+</programme>
+<programme start="20260508090000 +0000" stop="20260508100000 +0000" channel="Al Jazeera English.mncvision">
+    <title>NewsHour</title>
+</programme>
+<programme start="20260508100000 +0000" stop="20260508110000 +0000" channel="Al Jazeera English.mncvision">
+    <title>NewsHour</title>
+</programme>
+<programme start="20260508110000 +0000" stop="20260508113000 +0000" channel="Al Jazeera English.mncvision">
+    <title>News (L)</title>
+</programme>
+<programme start="20260508113000 +0000" stop="20260508120000 +0000" channel="Al Jazeera English.mncvision">
+    <title>Inside Story</title>
+</programme>
+<programme start="20260508120000 +0000" stop="20260508130000 +0000" channel="Al Jazeera English.mncvision">
+    <title>NewsHour</title>
+</programme>
+<programme start="20260508130000 +0000" stop="20260508140000 +0000" channel="Al Jazeera English.mncvision">
+    <title>NewsHour</title>
+</programme>
+<programme start="20260508140000 +0000" stop="20260508150000 +0000" channel="Al Jazeera English.mncvision">
+    <title>NewsHour</title>
+</programme>
+<programme start="20260508150000 +0000" stop="20260508160000 +0000" channel="Al Jazeera English.mncvision">
+    <title>NewsHour</title>
+</programme>
+<programme start="20260508160000 +0000" stop="20260508163000 +0000" channel="Al Jazeera English.mncvision">
+    <title>NewsHour</title>
+</programme>
 <programme start="20260507170000 +0000" stop="20260507190000 +0000" channel="Al Quran Al Kareem.mncvision">
     <title>Live From Mekkah</title>
 </programme>
@@ -7633,37 +7741,37 @@
 <programme start="20260508000000 +0000" stop="20260508010000 +0000" channel="SCTV.mncvision">
     <title>Tiba-Tiba Kuis</title>
 </programme>
-<programme start="20260508010000 +0000" stop="20260508030000 +0000" channel="SCTV.mncvision">
+<programme start="20260508010000 +0000" stop="20260508025100 +0000" channel="SCTV.mncvision">
     <title>Cowok Monster Berhati Flower</title>
 </programme>
-<programme start="20260508030000 +0000" stop="20260508050000 +0000" channel="SCTV.mncvision">
+<programme start="20260508025100 +0000" stop="20260508044400 +0000" channel="SCTV.mncvision">
     <title>Jatuh Cinta Pada Aroma Pertama</title>
 </programme>
-<programme start="20260508050000 +0000" stop="20260508053000 +0000" channel="SCTV.mncvision">
+<programme start="20260508044400 +0000" stop="20260508051700 +0000" channel="SCTV.mncvision">
     <title>Liputan 6 Siang (L)</title>
 </programme>
-<programme start="20260508053000 +0000" stop="20260508070000 +0000" channel="SCTV.mncvision">
+<programme start="20260508051700 +0000" stop="20260508065200 +0000" channel="SCTV.mncvision">
     <title>Cewek Warteg Cintanya Sah...</title>
 </programme>
-<programme start="20260508070000 +0000" stop="20260508083000 +0000" channel="SCTV.mncvision">
+<programme start="20260508065200 +0000" stop="20260508082600 +0000" channel="SCTV.mncvision">
     <title>Gadis Martabak Hampir Bahagia</title>
 </programme>
-<programme start="20260508083000 +0000" stop="20260508100000 +0000" channel="SCTV.mncvision">
+<programme start="20260508082600 +0000" stop="20260508100000 +0000" channel="SCTV.mncvision">
     <title>Kecubit Cinta Sahabat Chantiq</title>
 </programme>
-<programme start="20260508100000 +0000" stop="20260508111500 +0000" channel="SCTV.mncvision">
+<programme start="20260508100000 +0000" stop="20260508112600 +0000" channel="SCTV.mncvision">
     <title>Asmara Gen Z</title>
 </programme>
-<programme start="20260508111500 +0000" stop="20260508130000 +0000" channel="SCTV.mncvision">
+<programme start="20260508112600 +0000" stop="20260508131000 +0000" channel="SCTV.mncvision">
     <title>Istiqomah Cinta</title>
 </programme>
-<programme start="20260508130000 +0000" stop="20260508143000 +0000" channel="SCTV.mncvision">
+<programme start="20260508131000 +0000" stop="20260508143400 +0000" channel="SCTV.mncvision">
     <title>Beri Cinta Waktu</title>
 </programme>
-<programme start="20260508143000 +0000" stop="20260508160000 +0000" channel="SCTV.mncvision">
+<programme start="20260508143400 +0000" stop="20260508160100 +0000" channel="SCTV.mncvision">
     <title>Jejak Duka Diandra</title>
 </programme>
-<programme start="20260508160000 +0000" stop="20260508163000 +0000" channel="SCTV.mncvision">
+<programme start="20260508160100 +0000" stop="20260508163100 +0000" channel="SCTV.mncvision">
     <title>Sate Bandeng Jawara Cintaku</title>
 </programme>
 <programme start="20260507173300 +0000" stop="20260507184300 +0000" channel="SCTV HD.mncvision">
@@ -7687,37 +7795,37 @@
 <programme start="20260508000000 +0000" stop="20260508010000 +0000" channel="SCTV HD.mncvision">
     <title>Tiba-Tiba Kuis</title>
 </programme>
-<programme start="20260508010000 +0000" stop="20260508030000 +0000" channel="SCTV HD.mncvision">
+<programme start="20260508010000 +0000" stop="20260508025100 +0000" channel="SCTV HD.mncvision">
     <title>Cowok Monster Berhati Flower</title>
 </programme>
-<programme start="20260508030000 +0000" stop="20260508050000 +0000" channel="SCTV HD.mncvision">
+<programme start="20260508025100 +0000" stop="20260508044400 +0000" channel="SCTV HD.mncvision">
     <title>Jatuh Cinta Pada Aroma Pertama</title>
 </programme>
-<programme start="20260508050000 +0000" stop="20260508053000 +0000" channel="SCTV HD.mncvision">
+<programme start="20260508044400 +0000" stop="20260508051700 +0000" channel="SCTV HD.mncvision">
     <title>Liputan 6 Siang (L)</title>
 </programme>
-<programme start="20260508053000 +0000" stop="20260508070000 +0000" channel="SCTV HD.mncvision">
+<programme start="20260508051700 +0000" stop="20260508065200 +0000" channel="SCTV HD.mncvision">
     <title>Cewek Warteg Cintanya Sah...</title>
 </programme>
-<programme start="20260508070000 +0000" stop="20260508083000 +0000" channel="SCTV HD.mncvision">
+<programme start="20260508065200 +0000" stop="20260508082600 +0000" channel="SCTV HD.mncvision">
     <title>Gadis Martabak Hampir Bahagia</title>
 </programme>
-<programme start="20260508083000 +0000" stop="20260508100000 +0000" channel="SCTV HD.mncvision">
+<programme start="20260508082600 +0000" stop="20260508100000 +0000" channel="SCTV HD.mncvision">
     <title>Kecubit Cinta Sahabat Chantiq</title>
 </programme>
-<programme start="20260508100000 +0000" stop="20260508111500 +0000" channel="SCTV HD.mncvision">
+<programme start="20260508100000 +0000" stop="20260508112600 +0000" channel="SCTV HD.mncvision">
     <title>Asmara Gen Z</title>
 </programme>
-<programme start="20260508111500 +0000" stop="20260508130000 +0000" channel="SCTV HD.mncvision">
+<programme start="20260508112600 +0000" stop="20260508131000 +0000" channel="SCTV HD.mncvision">
     <title>Istiqomah Cinta</title>
 </programme>
-<programme start="20260508130000 +0000" stop="20260508143000 +0000" channel="SCTV HD.mncvision">
+<programme start="20260508131000 +0000" stop="20260508143400 +0000" channel="SCTV HD.mncvision">
     <title>Beri Cinta Waktu</title>
 </programme>
-<programme start="20260508143000 +0000" stop="20260508160000 +0000" channel="SCTV HD.mncvision">
+<programme start="20260508143400 +0000" stop="20260508160100 +0000" channel="SCTV HD.mncvision">
     <title>Jejak Duka Diandra</title>
 </programme>
-<programme start="20260508160000 +0000" stop="20260508163000 +0000" channel="SCTV HD.mncvision">
+<programme start="20260508160100 +0000" stop="20260508163100 +0000" channel="SCTV HD.mncvision">
     <title>Sate Bandeng Jawara Cintaku</title>
 </programme>
 <programme start="20260507170000 +0000" stop="20260507180000 +0000" channel="Sindo News TV.mncvision">

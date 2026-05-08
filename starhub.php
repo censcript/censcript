@@ -1919,7 +1919,7 @@
         <title>Legends Tonight - Paddy Crerand</title>
     </programme>
     <programme start="20260507185500 +0000" stop="20260507210000 +0000" channel="beIN Sports 3.starhub">
-        <title>UEFA Conference League 2025/26: Crystal Palace vs Shakhtar - SF, 2nd Leg (Live)</title>
+        <title>Crystal Palace vs Shakhtar - SF, 2nd Leg (Live)</title>
     </programme>
     <programme start="20260507210000 +0000" stop="20260507213000 +0000" channel="beIN Sports 3.starhub">
         <title>Mini Match - TotalEnergies Africa Cup of Nations, Morocco 2025: Nigeria vs Tanzania</title>
@@ -2159,7 +2159,7 @@
         <title>Premier Padel 2026: Asuncion P2 Day 3 Match 4 (Live)</title>
     </programme>
     <programme start="20260507185500 +0000" stop="20260507210000 +0000" channel="beIN Sports 2 HD.starhub">
-        <title>UEFA Europa League 2025/26: Freiburg vs Braga - SF, 2nd Leg (Live)</title>
+        <title>Freiburg vs Braga - SF, 2nd Leg (Live)</title>
     </programme>
     <programme start="20260507210000 +0000" stop="20260507223000 +0000" channel="beIN Sports 2 HD.starhub">
         <title>Premier Padel 2026: Asuncion P2 Day 3 Match 6 (Live)</title>
@@ -4654,7 +4654,7 @@
     <programme start="20260508155000 +0000" stop="20260508164000 +0000" channel="Citra Entertainment.starhub">
         <title>UNGKAP HIKMAH DI BALIK DOSA</title>
     </programme>
-    <programme start="20260507153000 +0000" stop="20260507163000 +0000" channel="Vijay TV HD.starhub">
+    <programme start="20260507160000 +0000" stop="20260507163000 +0000" channel="Vijay TV HD.starhub">
         <title>Mahasangamam-Azhagae Azhagu&amp;Pandianstores Tsmmi</title>
     </programme>
     <programme start="20260507163000 +0000" stop="20260507170000 +0000" channel="Vijay TV HD.starhub">
@@ -6565,7 +6565,10 @@
     <programme start="20260508150000 +0000" stop="20260508162000 +0000" channel="TV5MONDE HD.starhub">
         <title>Paris La Blanche</title>
     </programme>
-    <programme start="20260507150000 +0000" stop="20260507170000 +0000" channel="Hub Sports 1  HD.starhub">
+    <programme start="20260507110000 +0000" stop="20260507163000 +0000" channel="Hub Sports 1  HD.starhub">
+        <title>Internazionali BNL d’Italia (1000) Day 2 R1 Session 2</title>
+    </programme>
+    <programme start="20260507163000 +0000" stop="20260507170000 +0000" channel="Hub Sports 1  HD.starhub">
         <title>Internazionali BNL d’Italia (1000) Day 2 R1 Session 3</title>
     </programme>
     <programme start="20260507170000 +0000" stop="20260507190000 +0000" channel="Hub Sports 1  HD.starhub">
@@ -6794,7 +6797,7 @@
         <title>Matchday 34</title>
     </programme>
     <programme start="20260507185500 +0000" stop="20260507210000 +0000" channel="beIN Sports HD.starhub">
-        <title>UEFA Europa League 2025/26: Aston Villa vs Nottingham Forest - SF, 2nd Leg (Live)</title>
+        <title>Aston Villa vs Nottingham Forest - SF, 2nd Leg (Live)</title>
     </programme>
     <programme start="20260507210000 +0000" stop="20260507213000 +0000" channel="beIN Sports HD.starhub">
         <title>Rally Sierra Morena</title>
@@ -7984,10 +7987,10 @@
     <programme start="20260508153000 +0000" stop="20260508163000 +0000" channel="ABC Australia HD.starhub">
         <title>Autumn: Rare Fruit Collection &amp; Beverly Kills</title>
     </programme>
-    <programme start="20260507160000 +0000" stop="20260507193000 +0000" channel="Asianet Movies.starhub">
+    <programme start="20260507160000 +0000" stop="20260507190500 +0000" channel="Asianet Movies.starhub">
         <title>Evidam Swargamanu</title>
     </programme>
-    <programme start="20260507193000 +0000" stop="20260507213000 +0000" channel="Asianet Movies.starhub">
+    <programme start="20260507190500 +0000" stop="20260507213000 +0000" channel="Asianet Movies.starhub">
         <title>Aadu Oru Bheekara Jeevi Aanu</title>
     </programme>
     <programme start="20260507213000 +0000" stop="20260507233000 +0000" channel="Asianet Movies.starhub">

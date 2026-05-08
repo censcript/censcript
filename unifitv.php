@@ -15346,12 +15346,7 @@
     <desc lang="en">Top flight men's soccer returns in the ISUZU UTE A-League Men. Catch every moment on SPOTV NOW as 12 teams compete in the regular season with top 4 advancing to a single-game knockout.</desc>
     <category lang="en">Football</category>
   </programme>
-  <programme start="20260508040000 +0000" stop="20260508043000 +0000" channel="spotv2.unifitv">
-    <title lang="en">Formula E S12: Rd 8 Berlin E-Prix - Highlights 2</title>
-    <desc lang="en">The electric racing revolution continues in Formula E Season 12, as top drivers battle across iconic cities for the world championship crown.</desc>
-    <category lang="en">Motorsports</category>
-  </programme>
-  <programme start="20260508043000 +0000" stop="20260508065500 +0000" channel="spotv2.unifitv">
+  <programme start="20260508040000 +0000" stop="20260508065500 +0000" channel="spotv2.unifitv">
     <title lang="en">ITTF WTTTC Finals London 2026 - Day 6 Men's Team: Quarterfinal</title>
     <desc lang="en">The world's top national table tennis teams compete for glory in London, delivering lightning-fast rallies, elite skill, and intense battles on the sport's biggest stage.</desc>
     <category lang="en">Table Tennis</category>
