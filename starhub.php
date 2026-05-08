@@ -6824,7 +6824,7 @@
         <title>Brands Hatch, UK</title>
     </programme>
     <programme start="20260508080000 +0000" stop="20260508092000 +0000" channel="beIN Sports HD.starhub">
-        <title>FIA World Endurance Championship Practice 2026: 6 Hours of Spa-Francorchamps, BE</title>
+        <title>FIA World Endurance Championship Practice 2026: 6 Hours of Spa-Francorchamps, BEL (Live)</title>
     </programme>
     <programme start="20260508092000 +0000" stop="20260508102000 +0000" channel="beIN Sports HD.starhub">
         <title>Mandalika International Circuit, Indonesia</title>
@@ -6836,7 +6836,7 @@
         <title>Miami, USA</title>
     </programme>
     <programme start="20260508122000 +0000" stop="20260508141500 +0000" channel="beIN Sports HD.starhub">
-        <title>FIA World Endurance Championship Qualifying 2026: 6 Hours of Spa-Francorchamps,</title>
+        <title>FIA World Endurance Championship Qualifying 2026: 6 Hours of Spa-Francorchamps, BEL (Live)</title>
     </programme>
     <programme start="20260508141500 +0000" stop="20260508145000 +0000" channel="beIN Sports HD.starhub">
         <title>Matchday 34</title>
@@ -8173,59 +8173,53 @@
     <programme start="20260507230000 +0000" stop="20260508010000 +0000" channel="Dragon TV.starhub">
         <title>Dragon TV Morning News</title>
     </programme>
-    <programme start="20260508005400 +0000" stop="20260508014400 +0000" channel="Dragon TV.starhub">
-        <title>Future China</title>
+    <programme start="20260508010000 +0000" stop="20260508020000 +0000" channel="Dragon TV.starhub">
+        <title>A Green Trip</title>
     </programme>
-    <programme start="20260508014400 +0000" stop="20260508030900 +0000" channel="Dragon TV.starhub">
-        <title>Go Fighting</title>
+    <programme start="20260508020000 +0000" stop="20260508033000 +0000" channel="Dragon TV.starhub">
+        <title>go fighting</title>
     </programme>
-    <programme start="20260508030900 +0000" stop="20260508033400 +0000" channel="Dragon TV.starhub">
-        <title>New Entertainment</title>
-    </programme>
-    <programme start="20260508033400 +0000" stop="20260508040000 +0000" channel="Dragon TV.starhub">
+    <programme start="20260508033000 +0000" stop="20260508040000 +0000" channel="Dragon TV.starhub">
         <title>CARE ON THE WAY</title>
     </programme>
-    <programme start="20260508040000 +0000" stop="20260508042700 +0000" channel="Dragon TV.starhub">
-        <title>MIDDAY NEWS</title>
+    <programme start="20260508040000 +0000" stop="20260508064000 +0000" channel="Dragon TV.starhub">
+        <title>the Palace Museum</title>
     </programme>
-    <programme start="20260508042700 +0000" stop="20260508060900 +0000" channel="Dragon TV.starhub">
-        <title>Future China</title>
-    </programme>
-    <programme start="20260508060900 +0000" stop="20260508070800 +0000" channel="Dragon TV.starhub">
+    <programme start="20260508064000 +0000" stop="20260508070000 +0000" channel="Dragon TV.starhub">
         <title>China - Back to the Roots</title>
     </programme>
-    <programme start="20260508070800 +0000" stop="20260508084400 +0000" channel="Dragon TV.starhub">
-        <title>Go Fighting</title>
+    <programme start="20260508070000 +0000" stop="20260508084500 +0000" channel="Dragon TV.starhub">
+        <title>go fighting</title>
     </programme>
-    <programme start="20260508084400 +0000" stop="20260508090900 +0000" channel="Dragon TV.starhub">
+    <programme start="20260508084500 +0000" stop="20260508090000 +0000" channel="Dragon TV.starhub">
         <title>Next Station</title>
     </programme>
-    <programme start="20260508090900 +0000" stop="20260508093500 +0000" channel="Dragon TV.starhub">
+    <programme start="20260508090000 +0000" stop="20260508093500 +0000" channel="Dragon TV.starhub">
         <title>New Entertainment</title>
     </programme>
     <programme start="20260508093500 +0000" stop="20260508100000 +0000" channel="Dragon TV.starhub">
         <title>CARE ON THE WAY</title>
     </programme>
-    <programme start="20260508100000 +0000" stop="20260508105800 +0000" channel="Dragon TV.starhub">
+    <programme start="20260508100000 +0000" stop="20260508110000 +0000" channel="Dragon TV.starhub">
         <title>Dragon TV Primetime News</title>
     </programme>
-    <programme start="20260508105800 +0000" stop="20260508115700 +0000" channel="Dragon TV.starhub">
+    <programme start="20260508110000 +0000" stop="20260508120000 +0000" channel="Dragon TV.starhub">
         <title>China - Back to the Roots</title>
     </programme>
-    <programme start="20260508115700 +0000" stop="20260508125100 +0000" channel="Dragon TV.starhub">
+    <programme start="20260508120000 +0000" stop="20260508130000 +0000" channel="Dragon TV.starhub">
         <title>A Green Trip</title>
     </programme>
-    <programme start="20260508125100 +0000" stop="20260508143300 +0000" channel="Dragon TV.starhub">
+    <programme start="20260508130000 +0000" stop="20260508143000 +0000" channel="Dragon TV.starhub">
         <title>Future China</title>
     </programme>
-    <programme start="20260508143300 +0000" stop="20260508145800 +0000" channel="Dragon TV.starhub">
+    <programme start="20260508143000 +0000" stop="20260508150000 +0000" channel="Dragon TV.starhub">
         <title>New Entertainment</title>
     </programme>
-    <programme start="20260508145800 +0000" stop="20260508152300 +0000" channel="Dragon TV.starhub">
+    <programme start="20260508150000 +0000" stop="20260508153000 +0000" channel="Dragon TV.starhub">
         <title>CARE ON THE WAY</title>
     </programme>
-    <programme start="20260508152300 +0000" stop="20260508160000 +0000" channel="Dragon TV.starhub">
-        <title>Go Fighting</title>
+    <programme start="20260508153000 +0000" stop="20260508160000 +0000" channel="Dragon TV.starhub">
+        <title>go fighting</title>
     </programme>
     <programme start="20260507160000 +0000" stop="20260507163000 +0000" channel="Travelxp HD.starhub">
         <title>Cancun, Mexico</title>
