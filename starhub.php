@@ -4774,7 +4774,7 @@
     <programme start="20260508150000 +0000" stop="20260508153000 +0000" channel="Vijay TV HD.starhub">
         <title>Thaai Maman- Thaiku Nigaranavan</title>
     </programme>
-    <programme start="20260508153000 +0000" stop="20260508163000 +0000" channel="Vijay TV HD.starhub">
+    <programme start="20260508153000 +0000" stop="20260508160000 +0000" channel="Vijay TV HD.starhub">
         <title>Mahasangamam-Azhagae Azhagu&amp;Pandianstores Tsmmi</title>
     </programme>
     <programme start="20260507160000 +0000" stop="20260507163000 +0000" channel="Asianet.starhub">
@@ -7996,10 +7996,10 @@
     <programme start="20260507233000 +0000" stop="20260508013000 +0000" channel="Asianet Movies.starhub">
         <title>Mannar Mathai Speaking - 2</title>
     </programme>
-    <programme start="20260508013000 +0000" stop="20260508043000 +0000" channel="Asianet Movies.starhub">
+    <programme start="20260508013000 +0000" stop="20260508044000 +0000" channel="Asianet Movies.starhub">
         <title>Bangalore Days</title>
     </programme>
-    <programme start="20260508043000 +0000" stop="20260508073000 +0000" channel="Asianet Movies.starhub">
+    <programme start="20260508044000 +0000" stop="20260508073000 +0000" channel="Asianet Movies.starhub">
         <title>Adi Kapyare Koottamani</title>
     </programme>
     <programme start="20260508073000 +0000" stop="20260508103000 +0000" channel="Asianet Movies.starhub">

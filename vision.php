@@ -784,9 +784,6 @@
 <programme start="20260507233000 +0000" stop="20260508013000 +0000" channel="TVOne.vision">
 <title>Apa Kabar Indonesia Pagi (L)</title>
 </programme>
-<programme start="20260508013000 +0000" stop="20260508020000 +0000" channel="TVOne.vision">
-<title>Hidup Sehat</title>
-</programme>
 <programme start="20260508020000 +0000" stop="20260508023000 +0000" channel="TVOne.vision">
 <title>Breaking News</title>
 </programme>
@@ -1496,5 +1493,8 @@
 <title>TVRI</title>
 </programme>
 <programme start="20260508170000 +0000" stop="20260508190000 +0000" channel="TVRI.vision">
+<title>TVRI</title>
+</programme>
+<programme start="20260508190000 +0000" stop="20260508210000 +0000" channel="TVRI.vision">
 <title>TVRI</title>
 </programme>

@@ -4795,12 +4795,12 @@
     <desc lang="en">Tamil dark comedy film, Starring, RS Karthik, Anjali Rao, Vivek Prasanna and Others</desc>
     <category lang="en">Comedy</category>
   </programme>
-  <programme start="20260508110000 +0000" stop="20260508140000 +0000" channel="zeethirai.unifitv">
+  <programme start="20260508110000 +0000" stop="20260508135700 +0000" channel="zeethirai.unifitv">
     <title lang="en">Kayal</title>
     <desc lang="en">Aaron falls in love with Kayalvizhi at first sight but she does not reciprocate. They have to part ways when she starts developing feelings for him.</desc>
     <category lang="en">Romance</category>
   </programme>
-  <programme start="20260508140000 +0000" stop="20260508163000 +0000" channel="zeethirai.unifitv">
+  <programme start="20260508135700 +0000" stop="20260508163000 +0000" channel="zeethirai.unifitv">
     <title lang="en">Kuttram 23</title>
     <desc lang="en">ACP Vetrimaaran unravels a crime racket involving medical professionals. However, his task becomes harder every day as the case becomes murkier and complex.</desc>
     <category lang="en">Action</category>

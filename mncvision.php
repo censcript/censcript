@@ -70,111 +70,6 @@
 <programme start="20260508165500 +0000" stop="20260507172500 +0000" channel="ABC Australia.mncvision">
     <title>Field To Feast</title>
 </programme>
-<programme start="20260507170000 +0000" stop="20260507173000 +0000" channel="Al Jazeera English.mncvision">
-    <title>News (L)</title>
-</programme>
-<programme start="20260507173000 +0000" stop="20260507180000 +0000" channel="Al Jazeera English.mncvision">
-    <title>Inside Story</title>
-</programme>
-<programme start="20260507180000 +0000" stop="20260507190000 +0000" channel="Al Jazeera English.mncvision">
-    <title>NewsHour</title>
-</programme>
-<programme start="20260507190000 +0000" stop="20260507193000 +0000" channel="Al Jazeera English.mncvision">
-    <title>News (L)</title>
-</programme>
-<programme start="20260507193000 +0000" stop="20260507200000 +0000" channel="Al Jazeera English.mncvision">
-    <title>Who Killed Shireen?, Pt 1</title>
-</programme>
-<programme start="20260507200000 +0000" stop="20260507203000 +0000" channel="Al Jazeera English.mncvision">
-    <title>News (L)</title>
-</programme>
-<programme start="20260507203000 +0000" stop="20260507210000 +0000" channel="Al Jazeera English.mncvision">
-    <title>Who Killed Shireen?, Pt 2</title>
-</programme>
-<programme start="20260507210000 +0000" stop="20260507220000 +0000" channel="Al Jazeera English.mncvision">
-    <title>NewsHour</title>
-</programme>
-<programme start="20260507220000 +0000" stop="20260507230000 +0000" channel="Al Jazeera English.mncvision">
-    <title>NewsHour</title>
-</programme>
-<programme start="20260507230000 +0000" stop="20260507233000 +0000" channel="Al Jazeera English.mncvision">
-    <title>News (L)</title>
-</programme>
-<programme start="20260507233000 +0000" stop="20260508000000 +0000" channel="Al Jazeera English.mncvision">
-    <title>Inside Story</title>
-</programme>
-<programme start="20260508000000 +0000" stop="20260508010000 +0000" channel="Al Jazeera English.mncvision">
-    <title>NewsHour</title>
-</programme>
-<programme start="20260508010000 +0000" stop="20260508020000 +0000" channel="Al Jazeera English.mncvision">
-    <title>Al Jazeera World: Infiltration</title>
-</programme>
-<programme start="20260508020000 +0000" stop="20260508023000 +0000" channel="Al Jazeera English.mncvision">
-    <title>News (L)</title>
-</programme>
-<programme start="20260508023000 +0000" stop="20260508030000 +0000" channel="Al Jazeera English.mncvision">
-    <title>Counting The Cost</title>
-</programme>
-<programme start="20260508030000 +0000" stop="20260508033000 +0000" channel="Al Jazeera English.mncvision">
-    <title>News (L)</title>
-</programme>
-<programme start="20260508033000 +0000" stop="20260508040000 +0000" channel="Al Jazeera English.mncvision">
-    <title>The Bottom Line</title>
-</programme>
-<programme start="20260508040000 +0000" stop="20260508043000 +0000" channel="Al Jazeera English.mncvision">
-    <title>News (L)</title>
-</programme>
-<programme start="20260508043000 +0000" stop="20260508050000 +0000" channel="Al Jazeera English.mncvision">
-    <title>The Listening Post</title>
-</programme>
-<programme start="20260508050000 +0000" stop="20260508053000 +0000" channel="Al Jazeera English.mncvision">
-    <title>News (L)</title>
-</programme>
-<programme start="20260508053000 +0000" stop="20260508060000 +0000" channel="Al Jazeera English.mncvision">
-    <title>Inside Story</title>
-</programme>
-<programme start="20260508060000 +0000" stop="20260508070000 +0000" channel="Al Jazeera English.mncvision">
-    <title>NewsHour</title>
-</programme>
-<programme start="20260508070000 +0000" stop="20260508073000 +0000" channel="Al Jazeera English.mncvision">
-    <title>News (L)</title>
-</programme>
-<programme start="20260508073000 +0000" stop="20260508080000 +0000" channel="Al Jazeera English.mncvision">
-    <title>Who Killed Shireen?</title>
-</programme>
-<programme start="20260508080000 +0000" stop="20260508083000 +0000" channel="Al Jazeera English.mncvision">
-    <title>News (L)</title>
-</programme>
-<programme start="20260508083000 +0000" stop="20260508090000 +0000" channel="Al Jazeera English.mncvision">
-    <title>Talk To Al Jazeera: J. Liang</title>
-</programme>
-<programme start="20260508090000 +0000" stop="20260508100000 +0000" channel="Al Jazeera English.mncvision">
-    <title>NewsHour</title>
-</programme>
-<programme start="20260508100000 +0000" stop="20260508110000 +0000" channel="Al Jazeera English.mncvision">
-    <title>NewsHour</title>
-</programme>
-<programme start="20260508110000 +0000" stop="20260508113000 +0000" channel="Al Jazeera English.mncvision">
-    <title>News (L)</title>
-</programme>
-<programme start="20260508113000 +0000" stop="20260508120000 +0000" channel="Al Jazeera English.mncvision">
-    <title>Inside Story</title>
-</programme>
-<programme start="20260508120000 +0000" stop="20260508130000 +0000" channel="Al Jazeera English.mncvision">
-    <title>Who Killed Shireen?</title>
-</programme>
-<programme start="20260508130000 +0000" stop="20260508140000 +0000" channel="Al Jazeera English.mncvision">
-    <title>NewsHour</title>
-</programme>
-<programme start="20260508140000 +0000" stop="20260508150000 +0000" channel="Al Jazeera English.mncvision">
-    <title>NewsHour</title>
-</programme>
-<programme start="20260508150000 +0000" stop="20260508160000 +0000" channel="Al Jazeera English.mncvision">
-    <title>NewsHour</title>
-</programme>
-<programme start="20260508160000 +0000" stop="20260508163000 +0000" channel="Al Jazeera English.mncvision">
-    <title>NewsHour</title>
-</programme>
 <programme start="20260507170000 +0000" stop="20260507190000 +0000" channel="Al Quran Al Kareem.mncvision">
     <title>Live From Mekkah</title>
 </programme>
@@ -376,10 +271,10 @@
 <programme start="20260508060000 +0000" stop="20260508080000 +0000" channel="ANTV.mncvision">
     <title>Jhanak</title>
 </programme>
-<programme start="20260508080000 +0000" stop="20260508100000 +0000" channel="ANTV.mncvision">
+<programme start="20260508080000 +0000" stop="20260508103000 +0000" channel="ANTV.mncvision">
     <title>Teri Meri Doriyaann</title>
 </programme>
-<programme start="20260508100000 +0000" stop="20260508120000 +0000" channel="ANTV.mncvision">
+<programme start="20260508103000 +0000" stop="20260508120000 +0000" channel="ANTV.mncvision">
     <title>Vasudha</title>
 </programme>
 <programme start="20260508120000 +0000" stop="20260508143000 +0000" channel="ANTV.mncvision">
@@ -1556,7 +1451,7 @@
     <title>Jendela Nusantara</title>
 </programme>
 <programme start="20260508033000 +0000" stop="20260508040000 +0000" channel="BTV.mncvision">
-    <title>Relasi</title>
+    <title>Indonesia Update Ekspos</title>
 </programme>
 <programme start="20260508040000 +0000" stop="20260508050000 +0000" channel="BTV.mncvision">
     <title>Berita Satu Siang</title>
@@ -1577,7 +1472,7 @@
     <title>Spot On</title>
 </programme>
 <programme start="20260508073000 +0000" stop="20260508080000 +0000" channel="BTV.mncvision">
-    <title>Relasi</title>
+    <title>Indonesia Update Ekspos</title>
 </programme>
 <programme start="20260508080000 +0000" stop="20260508083000 +0000" channel="BTV.mncvision">
     <title>Berita Kriminal</title>
