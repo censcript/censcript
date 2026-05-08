@@ -2114,7 +2114,7 @@
         <title>LaLiga 2 2025/26: Cadiz vs Deportivo (Live)</title>
     </programme>
     <programme start="20260508203000 +0000" stop="20260508210000 +0000" channel="beIN Sports 2 HD.starhub">
-        <title>HSBC SVNS World C&#039;ships 2026: Canada vs France - 3rd Place Play-off, Hong Kong -</title>
+        <title>HSBC SVNS World C&#039;ships 2026: Canada vs France - 3rd Place Play-off, Hong Kong - Women</title>
     </programme>
     <programme start="20260508210000 +0000" stop="20260508223000 +0000" channel="beIN Sports 2 HD.starhub">
         <title>Premier Padel 2026: Asuncion P2 Day 4 QF Match 6 (Live)</title>
@@ -2123,7 +2123,7 @@
         <title>Premier Padel 2026: Asuncion P2 Day 4 QF Match 7 (Live)</title>
     </programme>
     <programme start="20260509000000 +0000" stop="20260509003000 +0000" channel="beIN Sports 2 HD.starhub">
-        <title>HSBC SVNS World C&#039;ships 2026: New Zealand vs Spain - 3rd Place Play-off, Hong Ko</title>
+        <title>HSBC SVNS World C&#039;ships 2026: New Zealand vs Spain - 3rd Place Play-off, Hong Kong - Men</title>
     </programme>
     <programme start="20260509003000 +0000" stop="20260509005500 +0000" channel="beIN Sports 2 HD.starhub">
         <title>HSBC SVNS World C&#039;ships 2026: New Zealand vs Australia - Cup Final, Hong Kong -</title>
