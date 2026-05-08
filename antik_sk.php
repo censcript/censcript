@@ -2701,10 +2701,10 @@
   <programme start="20260510160000 +0000" stop="20260510170000 +0000" channel="Šláger Muzika.webtv.sk">
     <title lang="id">PÍSNIČKY NA PŘÁNÍ</title>
   </programme>
-  <programme start="20260510170000 +0000" stop="20260510180000 +0000" channel="Šláger Muzika.webtv.sk">
+  <programme start="20260510170000 +0000" stop="20260510180500 +0000" channel="Šláger Muzika.webtv.sk">
     <title lang="id">PÍSNIČKY NA PŘÁNÍ</title>
   </programme>
-  <programme start="20260510180000 +0000" stop="20260510193000 +0000" channel="Šláger Muzika.webtv.sk">
+  <programme start="20260510180500 +0000" stop="20260510193000 +0000" channel="Šláger Muzika.webtv.sk">
     <title lang="id">NEJŽÁDANĚJŠÍ PÍSNIČKY</title>
   </programme>
   <programme start="20260510193000 +0000" stop="20260510200000 +0000" channel="Šláger Muzika.webtv.sk">
@@ -3790,25 +3790,43 @@
   <programme start="20260510213000 +0000" stop="20260510220500 +0000" channel="Prima SK.webtv.sk">
     <title lang="id">Zahradnice po ruce</title>
   </programme>
-  <programme start="20260509220000 +0000" stop="20260509230500 +0000" channel="CNN Prima News.webtv.sk">
+  <programme start="20260509220000 +0000" stop="20260509220500 +0000" channel="CNN Prima News.webtv.sk">
     <title lang="id">PARTIE Terezie Tománkové</title>
   </programme>
-  <programme start="20260509230500 +0000" stop="20260509233000 +0000" channel="CNN Prima News.webtv.sk">
+  <programme start="20260509220500 +0000" stop="20260509230500 +0000" channel="CNN Prima News.webtv.sk">
+    <title lang="id">PARTIE Terezie Tománkové</title>
+  </programme>
+  <programme start="20260509230500 +0000" stop="20260509232000 +0000" channel="CNN Prima News.webtv.sk">
     <title lang="id">Prima ČESKO</title>
   </programme>
-  <programme start="20260509233000 +0000" stop="20260509235500 +0000" channel="CNN Prima News.webtv.sk">
+  <programme start="20260509232000 +0000" stop="20260509233000 +0000" channel="CNN Prima News.webtv.sk">
+    <title lang="id">Prima ČESKO</title>
+  </programme>
+  <programme start="20260509233000 +0000" stop="20260509234500 +0000" channel="CNN Prima News.webtv.sk">
     <title lang="id">Prima SVĚT</title>
   </programme>
-  <programme start="20260509235500 +0000" stop="20260510002000 +0000" channel="CNN Prima News.webtv.sk">
+  <programme start="20260509234500 +0000" stop="20260509235500 +0000" channel="CNN Prima News.webtv.sk">
+    <title lang="id">Prima SVĚT</title>
+  </programme>
+  <programme start="20260509235500 +0000" stop="20260510001500 +0000" channel="CNN Prima News.webtv.sk">
+    <title lang="id">Hlasy zločinu</title>
+  </programme>
+  <programme start="20260510001500 +0000" stop="20260510002000 +0000" channel="CNN Prima News.webtv.sk">
     <title lang="id">Hlasy zločinu</title>
   </programme>
   <programme start="20260510002000 +0000" stop="20260510003500 +0000" channel="CNN Prima News.webtv.sk">
     <title lang="id">Prima ARCHIV</title>
   </programme>
-  <programme start="20260510003500 +0000" stop="20260510011500 +0000" channel="CNN Prima News.webtv.sk">
+  <programme start="20260510003500 +0000" stop="20260510005000 +0000" channel="CNN Prima News.webtv.sk">
+    <title lang="id">Prima ARCHIV</title>
+  </programme>
+  <programme start="20260510005000 +0000" stop="20260510011500 +0000" channel="CNN Prima News.webtv.sk">
     <title lang="id">Co na to vaše zdraví</title>
   </programme>
-  <programme start="20260510011500 +0000" stop="20260510020000 +0000" channel="CNN Prima News.webtv.sk">
+  <programme start="20260510011500 +0000" stop="20260510013000 +0000" channel="CNN Prima News.webtv.sk">
+    <title lang="id">HLAVNÍ ZPRÁVY</title>
+  </programme>
+  <programme start="20260510013000 +0000" stop="20260510020000 +0000" channel="CNN Prima News.webtv.sk">
     <title lang="id">HLAVNÍ ZPRÁVY</title>
   </programme>
   <programme start="20260510020000 +0000" stop="20260510021500 +0000" channel="CNN Prima News.webtv.sk">
@@ -3829,13 +3847,13 @@
   <programme start="20260510035500 +0000" stop="20260510040000 +0000" channel="CNN Prima News.webtv.sk">
     <title lang="id">Nový den</title>
   </programme>
-  <programme start="20260510040000 +0000" stop="20260510050000 +0000" channel="CNN Prima News.webtv.sk">
+  <programme start="20260510040000 +0000" stop="20260510045500 +0000" channel="CNN Prima News.webtv.sk">
     <title lang="id">Nový den</title>
   </programme>
-  <programme start="20260510050000 +0000" stop="20260510060000 +0000" channel="CNN Prima News.webtv.sk">
+  <programme start="20260510045500 +0000" stop="20260510055500 +0000" channel="CNN Prima News.webtv.sk">
     <title lang="id">Nový den</title>
   </programme>
-  <programme start="20260510060000 +0000" stop="20260510070000 +0000" channel="CNN Prima News.webtv.sk">
+  <programme start="20260510055500 +0000" stop="20260510070000 +0000" channel="CNN Prima News.webtv.sk">
     <title lang="id">Nový den</title>
   </programme>
   <programme start="20260510070000 +0000" stop="20260510072500 +0000" channel="CNN Prima News.webtv.sk">
@@ -3850,19 +3868,19 @@
   <programme start="20260510082500 +0000" stop="20260510090000 +0000" channel="CNN Prima News.webtv.sk">
     <title lang="id">Prima ČESKO</title>
   </programme>
-  <programme start="20260510090000 +0000" stop="20260510095000 +0000" channel="CNN Prima News.webtv.sk">
+  <programme start="20260510090000 +0000" stop="20260510095500 +0000" channel="CNN Prima News.webtv.sk">
     <title lang="id">PARTIE Terezie Tománkové</title>
   </programme>
-  <programme start="20260510095000 +0000" stop="20260510110000 +0000" channel="CNN Prima News.webtv.sk">
+  <programme start="20260510095500 +0000" stop="20260510110000 +0000" channel="CNN Prima News.webtv.sk">
     <title lang="id">PARTIE Terezie Tománkové</title>
   </programme>
   <programme start="20260510110000 +0000" stop="20260510114500 +0000" channel="CNN Prima News.webtv.sk">
     <title lang="id">PARTIE Terezie Tománkové</title>
   </programme>
-  <programme start="20260510114500 +0000" stop="20260510124000 +0000" channel="CNN Prima News.webtv.sk">
+  <programme start="20260510114500 +0000" stop="20260510125000 +0000" channel="CNN Prima News.webtv.sk">
     <title lang="id">PARTIE Terezie Tománkové</title>
   </programme>
-  <programme start="20260510124000 +0000" stop="20260510140000 +0000" channel="CNN Prima News.webtv.sk">
+  <programme start="20260510125000 +0000" stop="20260510140000 +0000" channel="CNN Prima News.webtv.sk">
     <title lang="id">PARTIE Terezie Tománkové</title>
   </programme>
   <programme start="20260510140000 +0000" stop="20260510143000 +0000" channel="CNN Prima News.webtv.sk">
@@ -3880,10 +3898,10 @@
   <programme start="20260510153500 +0000" stop="20260510155500 +0000" channel="CNN Prima News.webtv.sk">
     <title lang="id">Prima JARO</title>
   </programme>
-  <programme start="20260510155500 +0000" stop="20260510161500 +0000" channel="CNN Prima News.webtv.sk">
+  <programme start="20260510155500 +0000" stop="20260510161000 +0000" channel="CNN Prima News.webtv.sk">
     <title lang="id">Zprávy</title>
   </programme>
-  <programme start="20260510161500 +0000" stop="20260510165500 +0000" channel="CNN Prima News.webtv.sk">
+  <programme start="20260510161000 +0000" stop="20260510165500 +0000" channel="CNN Prima News.webtv.sk">
     <title lang="id">Co na to vaše zdraví</title>
   </programme>
   <programme start="20260510165500 +0000" stop="20260510173200 +0000" channel="CNN Prima News.webtv.sk">
@@ -3904,19 +3922,16 @@
   <programme start="20260510184000 +0000" stop="20260510190000 +0000" channel="CNN Prima News.webtv.sk">
     <title lang="id">Prima HISTORIE</title>
   </programme>
-  <programme start="20260510190000 +0000" stop="20260510193000 +0000" channel="CNN Prima News.webtv.sk">
+  <programme start="20260510190000 +0000" stop="20260510192500 +0000" channel="CNN Prima News.webtv.sk">
     <title lang="id">Zprávy</title>
   </programme>
-  <programme start="20260510193000 +0000" stop="20260510200000 +0000" channel="CNN Prima News.webtv.sk">
+  <programme start="20260510192500 +0000" stop="20260510200000 +0000" channel="CNN Prima News.webtv.sk">
     <title lang="id">Spáleniště... Příběhy hasičů</title>
   </programme>
   <programme start="20260510200000 +0000" stop="20260510205000 +0000" channel="CNN Prima News.webtv.sk">
     <title lang="id">Zprávy</title>
   </programme>
-  <programme start="20260510205000 +0000" stop="20260510215000 +0000" channel="CNN Prima News.webtv.sk">
-    <title lang="id">PARTIE Terezie Tománkové</title>
-  </programme>
-  <programme start="20260510215000 +0000" stop="20260510230000 +0000" channel="CNN Prima News.webtv.sk">
+  <programme start="20260510205000 +0000" stop="20260510220000 +0000" channel="CNN Prima News.webtv.sk">
     <title lang="id">PARTIE Terezie Tománkové</title>
   </programme>
   <programme start="20260509212000 +0000" stop="20260509223000 +0000" channel="Prima Cool SK.webtv.sk">
@@ -4030,61 +4045,61 @@
   <programme start="20260510014000 +0000" stop="20260510023000 +0000" channel="Prima Love SK.webtv.sk">
     <title lang="id">Gondíci s. r. o.</title>
   </programme>
-  <programme start="20260510023000 +0000" stop="20260510031500 +0000" channel="Prima Love SK.webtv.sk">
+  <programme start="20260510023000 +0000" stop="20260510034500 +0000" channel="Prima Love SK.webtv.sk">
     <title lang="id">Jak se staví sen</title>
   </programme>
-  <programme start="20260510031500 +0000" stop="20260510034500 +0000" channel="Prima Love SK.webtv.sk">
-    <title lang="id">Relaxační podívaná</title>
-  </programme>
-  <programme start="20260510034500 +0000" stop="20260510040500 +0000" channel="Prima Love SK.webtv.sk">
+  <programme start="20260510034500 +0000" stop="20260510040000 +0000" channel="Prima Love SK.webtv.sk">
     <title lang="id">Vysielacia prestávka</title>
   </programme>
-  <programme start="20260510040500 +0000" stop="20260510043000 +0000" channel="Prima Love SK.webtv.sk">
+  <programme start="20260510040000 +0000" stop="20260510040500 +0000" channel="Prima Love SK.webtv.sk">
     <title lang="id">Relaxační podívaná</title>
   </programme>
-  <programme start="20260510043000 +0000" stop="20260510050000 +0000" channel="Prima Love SK.webtv.sk">
+  <programme start="20260510040500 +0000" stop="20260510044000 +0000" channel="Prima Love SK.webtv.sk">
+    <title lang="id">Relaxační podívaná</title>
+  </programme>
+  <programme start="20260510044000 +0000" stop="20260510051500 +0000" channel="Prima Love SK.webtv.sk">
     <title lang="id">Karolína, domácí kuchařka</title>
   </programme>
-  <programme start="20260510050000 +0000" stop="20260510053500 +0000" channel="Prima Love SK.webtv.sk">
+  <programme start="20260510051500 +0000" stop="20260510054500 +0000" channel="Prima Love SK.webtv.sk">
     <title lang="id">Karolína, domácí kuchařka</title>
   </programme>
-  <programme start="20260510053500 +0000" stop="20260510060500 +0000" channel="Prima Love SK.webtv.sk">
+  <programme start="20260510054500 +0000" stop="20260510062000 +0000" channel="Prima Love SK.webtv.sk">
     <title lang="id">Karolína, domácí kuchařka</title>
   </programme>
-  <programme start="20260510060500 +0000" stop="20260510064000 +0000" channel="Prima Love SK.webtv.sk">
+  <programme start="20260510062000 +0000" stop="20260510065000 +0000" channel="Prima Love SK.webtv.sk">
     <title lang="id">Karolína, domácí kuchařka</title>
   </programme>
-  <programme start="20260510064000 +0000" stop="20260510074000 +0000" channel="Prima Love SK.webtv.sk">
+  <programme start="20260510065000 +0000" stop="20260510075500 +0000" channel="Prima Love SK.webtv.sk">
     <title lang="id">Ano, šéfe!</title>
   </programme>
-  <programme start="20260510074000 +0000" stop="20260510084000 +0000" channel="Prima Love SK.webtv.sk">
+  <programme start="20260510075500 +0000" stop="20260510085000 +0000" channel="Prima Love SK.webtv.sk">
     <title lang="id">Rodinná pouta I (9)</title>
   </programme>
-  <programme start="20260510084000 +0000" stop="20260510094000 +0000" channel="Prima Love SK.webtv.sk">
+  <programme start="20260510085000 +0000" stop="20260510095500 +0000" channel="Prima Love SK.webtv.sk">
     <title lang="id">Rodinná pouta I (10)</title>
   </programme>
-  <programme start="20260510094000 +0000" stop="20260510103500 +0000" channel="Prima Love SK.webtv.sk">
+  <programme start="20260510095500 +0000" stop="20260510104500 +0000" channel="Prima Love SK.webtv.sk">
     <title lang="id">Černá perla (45)</title>
   </programme>
-  <programme start="20260510103500 +0000" stop="20260510113500 +0000" channel="Prima Love SK.webtv.sk">
+  <programme start="20260510104500 +0000" stop="20260510114000 +0000" channel="Prima Love SK.webtv.sk">
     <title lang="id">Černá perla (46)</title>
   </programme>
-  <programme start="20260510113500 +0000" stop="20260510123000 +0000" channel="Prima Love SK.webtv.sk">
+  <programme start="20260510114000 +0000" stop="20260510124000 +0000" channel="Prima Love SK.webtv.sk">
     <title lang="id">Doktor z hor: Nové příběhy XIII (15)</title>
   </programme>
-  <programme start="20260510123000 +0000" stop="20260510133000 +0000" channel="Prima Love SK.webtv.sk">
+  <programme start="20260510124000 +0000" stop="20260510133500 +0000" channel="Prima Love SK.webtv.sk">
     <title lang="id">Doktor z hor: Nové příběhy XIII (16)</title>
   </programme>
-  <programme start="20260510133000 +0000" stop="20260510142500 +0000" channel="Prima Love SK.webtv.sk">
+  <programme start="20260510133500 +0000" stop="20260510143500 +0000" channel="Prima Love SK.webtv.sk">
     <title lang="id">Rodinná pouta I (11)</title>
   </programme>
-  <programme start="20260510142500 +0000" stop="20260510152500 +0000" channel="Prima Love SK.webtv.sk">
+  <programme start="20260510143500 +0000" stop="20260510153500 +0000" channel="Prima Love SK.webtv.sk">
     <title lang="id">Rodinná pouta I (12)</title>
   </programme>
-  <programme start="20260510152500 +0000" stop="20260510163000 +0000" channel="Prima Love SK.webtv.sk">
+  <programme start="20260510153500 +0000" stop="20260510163500 +0000" channel="Prima Love SK.webtv.sk">
     <title lang="id">Ano, šéfe!</title>
   </programme>
-  <programme start="20260510163000 +0000" stop="20260510172500 +0000" channel="Prima Love SK.webtv.sk">
+  <programme start="20260510163500 +0000" stop="20260510172500 +0000" channel="Prima Love SK.webtv.sk">
     <title lang="id">Černá perla (47)</title>
   </programme>
   <programme start="20260510172500 +0000" stop="20260510181500 +0000" channel="Prima Love SK.webtv.sk">
@@ -4093,13 +4108,13 @@
   <programme start="20260510181500 +0000" stop="20260510191500 +0000" channel="Prima Love SK.webtv.sk">
     <title lang="id">Doktor z hor: Nové příběhy XIV (1)</title>
   </programme>
-  <programme start="20260510191500 +0000" stop="20260510201000 +0000" channel="Prima Love SK.webtv.sk">
+  <programme start="20260510191500 +0000" stop="20260510200500 +0000" channel="Prima Love SK.webtv.sk">
     <title lang="id">Doktor z hor: Nové příběhy XIV (2)</title>
   </programme>
-  <programme start="20260510201000 +0000" stop="20260510212000 +0000" channel="Prima Love SK.webtv.sk">
+  <programme start="20260510200500 +0000" stop="20260510211500 +0000" channel="Prima Love SK.webtv.sk">
     <title lang="id">Ano, šéfe!</title>
   </programme>
-  <programme start="20260510212000 +0000" stop="20260510221500 +0000" channel="Prima Love SK.webtv.sk">
+  <programme start="20260510211500 +0000" stop="20260510220500 +0000" channel="Prima Love SK.webtv.sk">
     <title lang="id">Rodinná pouta I (11)</title>
   </programme>
   <programme start="20260509215500 +0000" stop="20260509223500 +0000" channel="Prima Krimi SK.webtv.sk">
@@ -16621,10 +16636,10 @@
   <programme start="20260510173000 +0000" stop="20260510180500 +0000" channel="TVP Polonia.webtv.sk">
     <title lang="id">Program informacyjny 19.30</title>
   </programme>
-  <programme start="20260510180500 +0000" stop="20260510181500 +0000" channel="TVP Polonia.webtv.sk">
+  <programme start="20260510180500 +0000" stop="20260510181000 +0000" channel="TVP Polonia.webtv.sk">
     <title lang="id">Sport</title>
   </programme>
-  <programme start="20260510181500 +0000" stop="20260510182000 +0000" channel="TVP Polonia.webtv.sk">
+  <programme start="20260510181000 +0000" stop="20260510182000 +0000" channel="TVP Polonia.webtv.sk">
     <title lang="id">Pogoda</title>
   </programme>
   <programme start="20260510182000 +0000" stop="20260510191500 +0000" channel="TVP Polonia.webtv.sk">

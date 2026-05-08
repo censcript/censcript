@@ -6275,7 +6275,7 @@
         <title>Paterno</title>
     </programme>
     <programme start="20260508140000 +0000" stop="20260508163000 +0000" channel="HBO Signature HD.starhub">
-        <title>Gladiator Ii</title>
+        <title>Gladiator II</title>
     </programme>
     <programme start="20260507160000 +0000" stop="20260507163000 +0000" channel="CNBC HD.starhub">
         <title>Halftime Report</title>
@@ -8131,11 +8131,8 @@
     <programme start="20260508021000 +0000" stop="20260508040000 +0000" channel="SPOTV2.starhub">
         <title>25/26 A-League Men Elimination Finals Melbourne Victory vs Sydney FC</title>
     </programme>
-    <programme start="20260508040000 +0000" stop="20260508043000 +0000" channel="SPOTV2.starhub">
-        <title>Highlights 2</title>
-    </programme>
-    <programme start="20260508043000 +0000" stop="20260508065500 +0000" channel="SPOTV2.starhub">
-        <title>ITTF WTTTC Finals London 2026 Day 6 Men&#039;s Team: Quarterfinal S2</title>
+    <programme start="20260508040000 +0000" stop="20260508065500 +0000" channel="SPOTV2.starhub">
+        <title>Day 6 Men&#039;s Team: Quarterfinal S2</title>
     </programme>
     <programme start="20260508065500 +0000" stop="20260508100000 +0000" channel="SPOTV2.starhub">
         <title>Free Practice 1</title>

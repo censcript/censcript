@@ -362,13 +362,17 @@
     <title lang="id">Liputan 6 Siang - Live</title>
     <icon src="https://thumbor.prod.vidiocdn.com/oP-Nyp4dD3RXaqpPXb3xEtentuw=/287x162/filters:strip_icc():quality(70)/vidio-media-production/uploads/tv_program/thumbnail/391990/1e25aa.jpg"/>
   </programme>
-  <programme channel="204" start="20260510053000 +0000" stop="20260510070000 +0000">
-    <title lang="id">Ftv Siang Rebutan Hati Nanny Be Like</title>
+  <programme channel="204" start="20260510053000 +0000" stop="20260510060000 +0000">
+    <title lang="id">Purbaya Bicara Bersama Retno Pinasti</title>
+    <icon src="https://thumbor.prod.vidiocdn.com/N99E8BD1OJ5vvymwPBj0c-BU5J4=/287x162/filters:strip_icc():quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/image/204/sctv-5ef966.jpg"/>
+  </programme>
+  <programme channel="204" start="20260510060000 +0000" stop="20260510071500 +0000">
+    <title lang="id">FTV Siang: Rebutan Hati Nanny Be Like</title>
     <desc lang="id">Film televisi yang mengangkat kisah romantisme kehidupan dengan konflik yang menarik. Tayang setiap hari.</desc>
     <icon src="https://thumbor.prod.vidiocdn.com/N99E8BD1OJ5vvymwPBj0c-BU5J4=/287x162/filters:strip_icc():quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/image/204/sctv-5ef966.jpg"/>
   </programme>
-  <programme channel="204" start="20260510070000 +0000" stop="20260510083000 +0000">
-    <title lang="id">Ftv Siang Miss Kumis Bikin Hati Kembang Kempis</title>
+  <programme channel="204" start="20260510071500 +0000" stop="20260510083000 +0000">
+    <title lang="id">FTV Siang 1: Jodoh Gak Ada Yang Tempe</title>
     <desc lang="id">Film televisi yang mengangkat kisah romantisme kehidupan dengan konflik yang menarik. Tayang setiap hari.</desc>
     <icon src="https://thumbor.prod.vidiocdn.com/N99E8BD1OJ5vvymwPBj0c-BU5J4=/287x162/filters:strip_icc():quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/image/204/sctv-5ef966.jpg"/>
   </programme>
@@ -476,12 +480,12 @@
     <desc lang="id">FTV Yang Diambil Dari Kisah Kehidupan Sehari-Hari Pemirsa Yang Penuh Intrik, Konflik dan Pengkhianatan Untuk Memberikan Berbagai Pelajaran Hidup. Saksikan Setiap Hari Pukul 13.30 WIB, Hanya Di Indosiar.</desc>
     <icon src="https://thumbor.prod.vidiocdn.com/cBZL7ITaJCof6cqtayFee2uJCX8=/287x162/filters:strip_icc():quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/image/205/indosiar-d9a3d0.jpg"/>
   </programme>
-  <programme channel="205" start="20260508060000 +0000" stop="20260508073000 +0000">
+  <programme channel="205" start="20260508060000 +0000" stop="20260508072900 +0000">
     <title lang="id">Kisah Nyata : Rahasia Melodi Mata Hatiku</title>
     <desc lang="id">FTV Yang Diambil Dari Kisah Kehidupan Sehari-Hari Pemirsa Yang Penuh Intrik, Konflik dan Pengkhianatan Untuk Memberikan Berbagai Pelajaran Hidup.</desc>
     <icon src="https://thumbor.prod.vidiocdn.com/cBZL7ITaJCof6cqtayFee2uJCX8=/287x162/filters:strip_icc():quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/image/205/indosiar-d9a3d0.jpg"/>
   </programme>
-  <programme channel="205" start="20260508073000 +0000" stop="20260508101000 +0000">
+  <programme channel="205" start="20260508072900 +0000" stop="20260508101000 +0000">
     <title lang="id">Persipura Jayapura vs Adhyaksa FC - Pegadaian Championship 2025</title>
     <desc lang="id">Kompetisi Pegadaian Championship 2025/26 Indonesia Kembali Digelar: Inilah Panggung Persaingan 26 Klub Liga 2 Yang Terbagi Dalam 3 Region. Saksikan Hanya Di Indosiar, Vidio.</desc>
     <icon src="https://thumbor.prod.vidiocdn.com/cBZL7ITaJCof6cqtayFee2uJCX8=/287x162/filters:strip_icc():quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/image/205/indosiar-d9a3d0.jpg"/>
@@ -559,6 +563,10 @@
   <programme channel="205" start="20260509063000 +0000" stop="20260509080000 +0000">
     <title lang="id">Kisah Nyata : Durhaka Demi Mertua</title>
     <desc lang="id">FTV Yang Diambil Dari Kisah Kehidupan Sehari-Hari Pemirsa Yang Penuh Intrik, Konflik dan Pengkhianatan Untuk Memberikan Berbagai Pelajaran Hidup.</desc>
+    <icon src="https://thumbor.prod.vidiocdn.com/cBZL7ITaJCof6cqtayFee2uJCX8=/287x162/filters:strip_icc():quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/image/205/indosiar-d9a3d0.jpg"/>
+  </programme>
+  <programme channel="205" start="20260509080000 +0000" stop="20260509104000 +0000">
+    <title lang="id">Arema FC vs PSM Makassar - Super League</title>
     <icon src="https://thumbor.prod.vidiocdn.com/cBZL7ITaJCof6cqtayFee2uJCX8=/287x162/filters:strip_icc():quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/image/205/indosiar-d9a3d0.jpg"/>
   </programme>
   <programme channel="205" start="20260509104000 +0000" stop="20260509113000 +0000">
@@ -6567,14 +6575,14 @@
     <icon src="https://thumbor.prod.vidiocdn.com/xiN-u5MIG7jgOVE2tB_TUIynz7k=/287x162/filters:strip_icc():quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/image/6317/bein-3-616b1c.jpg"/>
   </programme>
   <programme channel="6317" start="20260509165500 +0000" stop="20260509190000 +0000">
-    <title lang="id">Galatasaray vs Antalyaspor : Super Lig 2025/26</title>
-    <desc lang="id">Galatasaray vs Antalyaspor</desc>
-    <icon src="https://thumbor.prod.vidiocdn.com/xiN-u5MIG7jgOVE2tB_TUIynz7k=/287x162/filters:strip_icc():quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/image/6317/bein-3-616b1c.jpg"/>
+    <title lang="id">Galatasaray vs Antalyaspor - Trendyol Super Lig</title>
+    <desc lang="id">Nonton streaming pertandingan seru Galatasaray vs Antalyaspor - Trendyol Super Lig. Saksikan aksi-aksi terbaik dari tim yang bersaing ketat untuk meraih kemenangan. Dapatkan informasi lengkap mengenai jadwal pertandingan dan hasil pertandingan terbaru hanya di Vidio.</desc>
+    <icon src="https://thumbor.prod.vidiocdn.com/ZOlpaL1yjdn7yvd7PeZWkQGfXGA=/287x162/filters:strip_icc():quality(70)/vidio-media-production/uploads/livestreaming/schedule/thumbnail/5064134/8fcc93.jpg"/>
   </programme>
   <programme channel="6317" start="20260509165500 +0000" stop="20260509190000 +0000">
-    <title lang="id">Galatasaray vs Antalyaspor : Super Lig 2025/26</title>
-    <desc lang="id">Galatasaray vs Antalyaspor</desc>
-    <icon src="https://thumbor.prod.vidiocdn.com/xiN-u5MIG7jgOVE2tB_TUIynz7k=/287x162/filters:strip_icc():quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/image/6317/bein-3-616b1c.jpg"/>
+    <title lang="id">Galatasaray vs Antalyaspor - Trendyol Super Lig</title>
+    <desc lang="id">Nonton streaming pertandingan seru Galatasaray vs Antalyaspor - Trendyol Super Lig. Saksikan aksi-aksi terbaik dari tim yang bersaing ketat untuk meraih kemenangan. Dapatkan informasi lengkap mengenai jadwal pertandingan dan hasil pertandingan terbaru hanya di Vidio.</desc>
+    <icon src="https://thumbor.prod.vidiocdn.com/ZOlpaL1yjdn7yvd7PeZWkQGfXGA=/287x162/filters:strip_icc():quality(70)/vidio-media-production/uploads/livestreaming/schedule/thumbnail/5064134/8fcc93.jpg"/>
   </programme>
   <programme channel="6317" start="20260509190000 +0000" stop="20260509200000 +0000">
     <title lang="id">Rio de Janeiro , Brazil : SailGP Highlights 2026</title>
@@ -7281,9 +7289,9 @@
     <icon src="https://thumbor.prod.vidiocdn.com/edoqRinFCRhrRwQ2ngcXacb_q74=/287x162/filters:strip_icc():quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/image/6685/champions-tv-1-54e282.jpg"/>
   </programme>
   <programme channel="6685" start="20260508185500 +0000" stop="20260508210000 +0000">
-    <title lang="id">Semi-final A (1st Leg) - TBA : EFL 2025/26 Championship</title>
-    <desc lang="id">Semifinal A (1st Leg) TBA</desc>
-    <icon src="https://thumbor.prod.vidiocdn.com/edoqRinFCRhrRwQ2ngcXacb_q74=/287x162/filters:strip_icc():quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/image/6685/champions-tv-1-54e282.jpg"/>
+    <title lang="id">Semifinal Leg 1: Hull City vs Millwall - EFL Championship</title>
+    <desc lang="id">Nonton streaming pertandingan seru Semifinal Leg 1: Hull City vs Millwall - EFL Championship. Saksikan aksi-aksi terbaik dari tim yang bersaing ketat untuk meraih kemenangan. Dapatkan informasi lengkap mengenai jadwal pertandingan dan hasil pertandingan terbaru hanya di Vidio.</desc>
+    <icon src="https://thumbor.prod.vidiocdn.com/TPs5xyX9ND5ef6jkNBgfl39IK9c=/287x162/filters:strip_icc():quality(70)/vidio-media-production/uploads/livestreaming/schedule/thumbnail/5064371/fc1df7.jpg"/>
   </programme>
   <programme channel="6685" start="20260508210000 +0000" stop="20260508213000 +0000">
     <title lang="id">Eps 3 : MXGP Behind the Gate 2026</title>
@@ -7355,9 +7363,9 @@
     <icon src="https://thumbor.prod.vidiocdn.com/edoqRinFCRhrRwQ2ngcXacb_q74=/287x162/filters:strip_icc():quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/image/6685/champions-tv-1-54e282.jpg"/>
   </programme>
   <programme channel="6685" start="20260509112500 +0000" stop="20260509133000 +0000">
-    <title lang="id">Semi-final B (1st Leg) - TBA : EFL 2025/26 Championship</title>
-    <desc lang="id">Semifinal B (1st Leg) TBA</desc>
-    <icon src="https://thumbor.prod.vidiocdn.com/edoqRinFCRhrRwQ2ngcXacb_q74=/287x162/filters:strip_icc():quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/image/6685/champions-tv-1-54e282.jpg"/>
+    <title lang="id">Semifinal Leg 2: Middlesbrough vs Southampton - EFL Championship</title>
+    <desc lang="id">Nonton streaming pertandingan seru Semifinal Leg 2: Middlesbrough vs Southampton - EFL Championship. Saksikan aksi-aksi terbaik dari tim yang bersaing ketat untuk meraih kemenangan. Dapatkan informasi lengkap mengenai jadwal pertandingan dan hasil pertandingan terbaru hanya di Vidio.</desc>
+    <icon src="https://thumbor.prod.vidiocdn.com/u2VO2z6bDVQ9KY8tG8f19yd34F8=/287x162/filters:strip_icc():quality(70)/vidio-media-production/uploads/livestreaming/schedule/thumbnail/5064372/851455.jpg"/>
   </programme>
   <programme channel="6685" start="20260509133000 +0000" stop="20260509135500 +0000">
     <title lang="id">Filler</title>
@@ -7516,32 +7524,32 @@
     <desc lang="id">Nafsu cinta seorang wanita cantik dan kaya yang tak terpuaskan berujung pada tragedi dan penyelidikan polisi.</desc>
     <icon src="https://thumbor.prod.vidiocdn.com/ydo-_vUS0cxljK2OnADvtxxeohM=/287x162/filters:strip_icc():quality(70)/vidio-media-production/uploads/livestreaming/schedule/thumbnail/5062190/b72fbd.jpg"/>
   </programme>
-  <programme channel="782" start="20260507211500 +0000" stop="20260507224500 +0000">
+  <programme channel="782" start="20260507211500 +0000" stop="20260507230000 +0000">
     <title lang="id">Ummi</title>
     <desc lang="id">Kisah perjuangan Ummi Marwah, seorang ustazah, dalam menjaga keutuhan rumah tangga dan mendidik anak-anaknya. Abah Asep, suaminya, berperilaku arogan dan selingkuh dengan asisten rumah tangga.</desc>
     <icon src="https://thumbor.prod.vidiocdn.com/20tRQaK9Gps_wFQL5rY-XgRbrs4=/287x162/filters:strip_icc():quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/image/782/antv-de8530.jpg"/>
   </programme>
-  <programme channel="782" start="20260507224500 +0000" stop="20260508010000 +0000">
+  <programme channel="782" start="20260507230000 +0000" stop="20260508010500 +0000">
     <title lang="id">Kasautii</title>
     <desc lang="id">Anurag dan Prerna kuliah di universitas yang sama, dan akhirnya menjalin hubungan erat. Namun, mereka harus menghadapi orang-orang yang ingin memisahkan keduanya, karena perbedaan status sosial.</desc>
     <icon src="https://thumbor.prod.vidiocdn.com/Xldtmr-ptY9p1l1cxmvG9DKUjfs=/287x162/filters:strip_icc():quality(70)/vidio-media-production/uploads/livestreaming/schedule/thumbnail/5062178/f5eb36.jpg"/>
   </programme>
-  <programme channel="782" start="20260508010000 +0000" stop="20260508023000 +0000">
+  <programme channel="782" start="20260508010500 +0000" stop="20260508023000 +0000">
     <title lang="id">Misteri Sungai Mekong</title>
     <desc lang="id">Dr. Akkanee dan krunya melakukan perjalanan ke sebuah desa yang kuno dan penuh misteri untuk mempelajari fenomena paranormal dan membuktikan bahwa hal itu tidak benar.</desc>
     <icon src="https://thumbor.prod.vidiocdn.com/20tRQaK9Gps_wFQL5rY-XgRbrs4=/287x162/filters:strip_icc():quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/image/782/antv-de8530.jpg"/>
   </programme>
-  <programme channel="782" start="20260508023000 +0000" stop="20260508060000 +0000">
+  <programme channel="782" start="20260508023000 +0000" stop="20260508055000 +0000">
     <title lang="id">Mega Bollywood: Duplicate</title>
     <desc lang="id">Manu, seorang penjahat, menemukan kembarannya dalam diri seorang koki muda, Bablu, dan memanfaatkan fakta ini untuk keuntungannya. Kemudian, Manu mencoba membunuh koki tersebut agar ia dapat mengambil alih hidupnya dan lolos dari hukum.</desc>
     <icon src="https://thumbor.prod.vidiocdn.com/jr3uTmOO0gP0uuzxgn7fd7ACW9g=/287x162/filters:strip_icc():quality(70)/vidio-media-production/uploads/livestreaming/schedule/thumbnail/5062191/7b5fad.jpg"/>
   </programme>
-  <programme channel="782" start="20260508060000 +0000" stop="20260508080000 +0000">
+  <programme channel="782" start="20260508055000 +0000" stop="20260508080900 +0000">
     <title lang="id">Jhanak</title>
     <desc lang="id">Seorang wanita muda yang bersemangat memulai perjalanan untuk memenuhi janji seorang ibu demi kehidupan yang lebih baik sambil mengatasi tantangan dan kehilangan.</desc>
     <icon src="https://thumbor.prod.vidiocdn.com/QZCY0ezGodExBd-KneNvAC-M5BE=/287x162/filters:strip_icc():quality(70)/vidio-media-production/uploads/livestreaming/schedule/thumbnail/5062183/66bdd3.jpg"/>
   </programme>
-  <programme channel="782" start="20260508080000 +0000" stop="20260508100000 +0000">
+  <programme channel="782" start="20260508080900 +0000" stop="20260508100000 +0000">
     <title lang="id">Teri Meri Doriyaann</title>
     <icon src="https://thumbor.prod.vidiocdn.com/wtbmEZnjiixJlBIXoBFI1tUQZMY=/287x162/filters:strip_icc():quality(70)/vidio-media-production/uploads/livestreaming/schedule/thumbnail/5063770/964515.jpg"/>
   </programme>
@@ -7949,7 +7957,7 @@
   <programme channel="6362" start="20260508131500 +0000" stop="20260508143000 +0000">
     <title lang="id">Our Universe Ep8</title>
     <desc lang="id">Following the accidental death of their older siblings, two in-laws who share a mutual dislike become the guardians of their 20-month-old nephew, Woo-joo.</desc>
-    <icon src="https://thumbor.prod.vidiocdn.com/PT0LQo0qQ7O_RDowPb8Uvz6Dtdg=/287x162/filters:strip_icc():quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/image/6362/tvn-40a16d.jpg"/>
+    <icon src="https://thumbor.prod.vidiocdn.com/cfm7FmrHnUXlpcei3DN3IVfrOyw=/287x162/filters:strip_icc():quality(70)/vidio-media-production/uploads/livestreaming/schedule/thumbnail/5042328/3268cf.jpg"/>
   </programme>
   <programme channel="6362" start="20260508143000 +0000" stop="20260508173000 +0000">
     <title lang="id">Stage Fighter</title>
@@ -8944,15 +8952,19 @@
   </programme>
   <programme channel="8237" start="20260509110000 +0000" stop="20260509113000 +0000">
     <title lang="id">Magic 5 the Animation</title>
-    <icon src="https://thumbor.prod.vidiocdn.com/01IggaPN4sSDILtEw_0MxWGgmO8=/287x162/filters:strip_icc():quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/image/8237/mentari-tv-01d2b0.jpg"/>
+    <icon src="https://thumbor.prod.vidiocdn.com/WaCkknTqiq1T_ajIeZlCtwyy-qQ=/287x162/filters:strip_icc():quality(70)/vidio-media-production/uploads/livestreaming/schedule/thumbnail/5064071/e8ddd9.jpg"/>
+  </programme>
+  <programme channel="8237" start="20260509113000 +0000" stop="20260509120000 +0000">
+    <title lang="id">New Keluarga Somat</title>
+    <icon src="https://thumbor.prod.vidiocdn.com/AYBO4r3n5DW7zh1tlzLQ1ee1V-k=/287x162/filters:strip_icc():quality(70)/vidio-media-production/uploads/livestreaming/schedule/thumbnail/5064081/010d1c.jpg"/>
   </programme>
   <programme channel="8237" start="20260509120000 +0000" stop="20260509140000 +0000">
     <title lang="id">Bioskop Keluarga Indonesia</title>
-    <icon src="https://thumbor.prod.vidiocdn.com/01IggaPN4sSDILtEw_0MxWGgmO8=/287x162/filters:strip_icc():quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/image/8237/mentari-tv-01d2b0.jpg"/>
+    <icon src="https://thumbor.prod.vidiocdn.com/E8nV1qT66AsIvmScqvn8FqjEsHs=/287x162/filters:strip_icc():quality(70)/vidio-media-production/uploads/livestreaming/schedule/thumbnail/5064073/4b443e.jpg"/>
   </programme>
   <programme channel="8237" start="20260509140000 +0000" stop="20260509153000 +0000">
     <title lang="id">Pokemon</title>
-    <icon src="https://thumbor.prod.vidiocdn.com/01IggaPN4sSDILtEw_0MxWGgmO8=/287x162/filters:strip_icc():quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/image/8237/mentari-tv-01d2b0.jpg"/>
+    <icon src="https://thumbor.prod.vidiocdn.com/VC9QhSNWUGD9Eu8SmT8eAd4duBs=/287x162/filters:strip_icc():quality(70)/vidio-media-production/uploads/livestreaming/schedule/thumbnail/5064075/2d1305.jpg"/>
   </programme>
   <programme channel="8237" start="20260509153000 +0000" stop="20260509170000 +0000">
     <title lang="id">Keluarga Somat</title>
@@ -11382,15 +11394,10 @@
     <desc lang="id">Miami P1 Day 3 Match 1</desc>
     <icon src="https://thumbor.prod.vidiocdn.com/VmoYokSeKr_3SubUXC-rMC-EtQM=/287x162/filters:strip_icc():quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/image/17875/bein-2-25a5f9.jpg"/>
   </programme>
-  <programme channel="17875" start="20260509210000 +0000" stop="20260509223000 +0000">
-    <title lang="id">Asuncion P2 Day 5 SF1 - Men : Premier Padel 2026</title>
-    <desc lang="id">Asuncion P2 Day 5 SF1 - Men</desc>
-    <icon src="https://thumbor.prod.vidiocdn.com/VmoYokSeKr_3SubUXC-rMC-EtQM=/287x162/filters:strip_icc():quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/image/17875/bein-2-25a5f9.jpg"/>
-  </programme>
-  <programme channel="17875" start="20260509223000 +0000" stop="20260510000000 +0000">
-    <title lang="id">Asuncion P2 Day 5 SF2 - Men : Premier Padel 2026</title>
-    <desc lang="id">Asuncion P2 Day 5 SF2 - Men</desc>
-    <icon src="https://thumbor.prod.vidiocdn.com/VmoYokSeKr_3SubUXC-rMC-EtQM=/287x162/filters:strip_icc():quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/image/17875/bein-2-25a5f9.jpg"/>
+  <programme channel="17875" start="20260509210000 +0000" stop="20260510000000 +0000">
+    <title lang="id">Asuncion P2 Premier Padel - Semifinals</title>
+    <desc lang="id">Nonton streaming pertandingan seru Asuncion P2 Premier Padel - Semifinals. Saksikan aksi-aksi terbaik dari tim yang bersaing ketat untuk meraih kemenangan. Dapatkan informasi lengkap mengenai jadwal pertandingan dan hasil pertandingan terbaru hanya di Vidio.</desc>
+    <icon src="https://thumbor.prod.vidiocdn.com/G-86Vu1gjp1UM0bkR0mTSsPnXlc=/287x162/filters:strip_icc():quality(70)/vidio-media-production/uploads/livestreaming/schedule/thumbnail/5064129/04f715.jpg"/>
   </programme>
   <programme channel="17875" start="20260510000000 +0000" stop="20260510002500 +0000">
     <title lang="id">Hong Kong vs China - Melrose Claymores : HSBC SVNS World Championships 2026</title>
@@ -11428,9 +11435,9 @@
     <icon src="https://thumbor.prod.vidiocdn.com/VmoYokSeKr_3SubUXC-rMC-EtQM=/287x162/filters:strip_icc():quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/image/17875/bein-2-25a5f9.jpg"/>
   </programme>
   <programme channel="17875" start="20260510083000 +0000" stop="20260510093000 +0000">
-    <title lang="id">Rally de Portugal SS21 Fafe 1 : FIA World Rally Championship 2026</title>
-    <desc lang="id">Rally de Portugal SS21 Fafe 1</desc>
-    <icon src="https://thumbor.prod.vidiocdn.com/VmoYokSeKr_3SubUXC-rMC-EtQM=/287x162/filters:strip_icc():quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/image/17875/bein-2-25a5f9.jpg"/>
+    <title lang="id">Rally de Portugal SS21 Fafe 1 - WRC Vodafone Rally de Portugal 2026</title>
+    <desc lang="id">Nonton streaming pertandingan seru Rally de Portugal SS21 Fafe 1 - WRC Vodafone Rally de Portugal 2026. Saksikan aksi-aksi terbaik dari tim yang bersaing ketat untuk meraih kemenangan. Dapatkan informasi lengkap mengenai jadwal pertandingan dan hasil pertandingan terbaru hanya di Vidio.</desc>
+    <icon src="https://thumbor.prod.vidiocdn.com/Q8EQTGNlxdPkr4_stYAVqTC5X3Y=/287x162/filters:strip_icc():quality(70)/vidio-media-production/uploads/livestreaming/schedule/thumbnail/5064130/73e1cf.jpg"/>
   </programme>
   <programme channel="17875" start="20260510093000 +0000" stop="20260510100000 +0000">
     <title lang="id">Men's Singles Rd 4 Djokovic v Norrie : Mini Match - Roland Garros 2025</title>
@@ -11443,9 +11450,9 @@
     <icon src="https://thumbor.prod.vidiocdn.com/VmoYokSeKr_3SubUXC-rMC-EtQM=/287x162/filters:strip_icc():quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/image/17875/bein-2-25a5f9.jpg"/>
   </programme>
   <programme channel="17875" start="20260510120000 +0000" stop="20260510133000 +0000">
-    <title lang="id">Rally de Portugal SS23 Fafe 2 - Wolf PS : FIA World Rally Championship 2026</title>
-    <desc lang="id">Rally de Portugal SS23 Fafe 2 - Wolf PS</desc>
-    <icon src="https://thumbor.prod.vidiocdn.com/VmoYokSeKr_3SubUXC-rMC-EtQM=/287x162/filters:strip_icc():quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/image/17875/bein-2-25a5f9.jpg"/>
+    <title lang="id">Rally de Portugal SS23 Fafe 2 - Wolf PS - WRC Vodafone Rally de Portugal 2026</title>
+    <desc lang="id">Nonton streaming pertandingan seru Rally de Portugal SS23 Fafe 2 - Wolf PS - WRC Vodafone Rally de Portugal 2026. Saksikan aksi-aksi terbaik dari tim yang bersaing ketat untuk meraih kemenangan. Dapatkan informasi lengkap mengenai jadwal pertandingan dan hasil pertandingan terbaru hanya di Vidio.</desc>
+    <icon src="https://thumbor.prod.vidiocdn.com/4U2EWEbt7tqUu5Umoxoa3JbZir8=/287x162/filters:strip_icc():quality(70)/vidio-media-production/uploads/livestreaming/schedule/thumbnail/5064131/b8c65b.jpg"/>
   </programme>
   <programme channel="17875" start="20260510133000 +0000" stop="20260510153000 +0000">
     <title lang="id">Tro-Bro-Leon : UCI World Tour 2026 [Join in Progress]</title>
@@ -13264,9 +13271,9 @@
     <icon src="https://thumbor.prod.vidiocdn.com/xgkik6iws0EJ01bi5cJsIjYWjOM=/287x162/filters:strip_icc():quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/image/6686/champions-tv-2-681a27.jpg"/>
   </programme>
   <programme channel="6686" start="20260509183000 +0000" stop="20260509203000 +0000">
-    <title lang="id">Match 18 : WTA 1000 - Internazionali Bnl D'Italia</title>
-    <desc lang="id">MATCH 18</desc>
-    <icon src="https://thumbor.prod.vidiocdn.com/xgkik6iws0EJ01bi5cJsIjYWjOM=/287x162/filters:strip_icc():quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/image/6686/champions-tv-2-681a27.jpg"/>
+    <title lang="id">Day 4 - WTA 1000: Internazionali BNL D'Italia 2026</title>
+    <desc lang="id">Nonton streaming pertandingan seru Day 4 - WTA 1000: Internazionali BNL D'Italia 2026. Saksikan aksi-aksi terbaik dari tim yang bersaing ketat untuk meraih kemenangan. Dapatkan informasi lengkap mengenai jadwal pertandingan dan hasil pertandingan terbaru hanya di Vidio.</desc>
+    <icon src="https://thumbor.prod.vidiocdn.com/qKZJchZq73_teu8u-QvSrMuA70M=/287x162/filters:strip_icc():quality(70)/vidio-media-production/uploads/livestreaming/schedule/thumbnail/5064136/74e6ac.jpg"/>
   </programme>
   <programme channel="6686" start="20260509203000 +0000" stop="20260509210000 +0000">
     <title lang="id">Highlight - Show 37 : EFL 2025/26</title>
@@ -19665,9 +19672,9 @@
     <icon src="https://thumbor.prod.vidiocdn.com/YBK8XRc1cWJx0JfM3CWo6PnTfFY=/287x162/filters:strip_icc():quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/image/17139/spotv-c18c69.jpg"/>
   </programme>
   <programme channel="17139" start="20260509053000 +0000" stop="20260509100000 +0000">
-    <title lang="id">Race 1 : 2026 FIM ARRC: Rd 2 Buriram, Thailand</title>
-    <desc lang="id">Asia's top riders battle across premier circuits in the FIM Asia Road Racing Championship, delivering high-speed action, fierce rivalries, and thrilling two-wheel competition.</desc>
-    <icon src="https://thumbor.prod.vidiocdn.com/YBK8XRc1cWJx0JfM3CWo6PnTfFY=/287x162/filters:strip_icc():quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/image/17139/spotv-c18c69.jpg"/>
+    <title lang="id">Race 1 - Asia Road Racing Championship 2026: Round 2 Buriram, Thailand</title>
+    <desc lang="id">Nonton streaming pertandingan seru Race 1 - Asia Road Racing Championship 2026: Round 2 Buriram, Thailand. Saksikan aksi-aksi terbaik dari tim yang bersaing ketat untuk meraih kemenangan. Dapatkan informasi lengkap mengenai jadwal pertandingan dan hasil pertandingan terbaru hanya di Vidio.</desc>
+    <icon src="https://thumbor.prod.vidiocdn.com/besSceKazTwitty7RRkbdg4r1ck=/287x162/filters:strip_icc():quality(70)/vidio-media-production/uploads/livestreaming/schedule/thumbnail/5064084/b34af4.jpg"/>
   </programme>
   <programme channel="17139" start="20260509100000 +0000" stop="20260509120000 +0000">
     <title lang="id">Al Shabab vs Al Nassr : 25/26 ROSHN Saudi League MW 33</title>
