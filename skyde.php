@@ -2977,7 +2977,7 @@
 <programme start="20260508160000 +0000" stop="20260508183000 +0000" channel="Sky Sport Bundesliga 2 HD.skyde">
     <title>Live 2. BL: Freitags-Konferenz, 33. Spieltag</title>
 </programme>
-<programme start="20260508183000 +0000" stop="20260508191500 +0000" channel="Sky Sport Bundesliga 2 HD.skyde">
+<programme start="20260508183000 +0000" stop="20260508194500 +0000" channel="Sky Sport Bundesliga 2 HD.skyde">
     <title>Live 2. BL Alle Spiele, alle Tore: Die Vodafone Highlight-Show, 33. Spieltag, Freitag</title>
 </programme>
 <programme start="20260508154000 +0000" stop="20260508160000 +0000" channel="Sky Sport Bundesliga 3 HD.skyde">
@@ -2986,13 +2986,13 @@
 <programme start="20260508160000 +0000" stop="20260508183000 +0000" channel="Sky Sport Bundesliga 3 HD.skyde">
     <title>Live 2. BL: SC Paderborn 07 - Karlsruher SC, 1, 33. Spieltag</title>
 </programme>
-<programme start="20260508183000 +0000" stop="20260508203000 +0000" channel="Sky Sport Bundesliga 3 HD.skyde">
+<programme start="20260508183000 +0000" stop="20260508210000 +0000" channel="Sky Sport Bundesliga 3 HD.skyde">
     <title>Live BL: Sky Sport Fantasy: BVB - SGE, 33. Spieltag</title>
 </programme>
 <programme start="20260508154000 +0000" stop="20260508160000 +0000" channel="Sky Sport Bundesliga 4 HD.skyde">
     <title>Es folgt: LIVE 2. Bundesliga</title>
 </programme>
-<programme start="20260508160000 +0000" stop="20260508183000 +0000" channel="Sky Sport Bundesliga 4 HD.skyde">
+<programme start="20260508160000 +0000" stop="20260508190000 +0000" channel="Sky Sport Bundesliga 4 HD.skyde">
     <title>Live 2. BL: 1. FC Kaiserslautern - Arminia Bielefeld, 33. Spieltag</title>
 </programme>
 <programme start="20260508154000 +0000" stop="20260508160000 +0000" channel="Sky Sport Bundesliga 5 HD.skyde">
@@ -3367,25 +3367,31 @@
 <programme start="20260508213000 +0000" stop="20260508220000 +0000" channel="Sky Sport Premier League HD.skyde">
     <title>PL: Classic Match: West Ham United - FC Arsenal (2015/16)</title>
 </programme>
-<programme start="20260507220000 +0000" stop="20260508000000 +0000" channel="Sky Sport Tennis HD.skyde">
-    <title>WTA 1000: T. Maria (GER) - S. Cirstea (ROU), Internazionali BNL d&#039;Italia in Rom (Italien), 3. Tag</title>
-</programme>
 <programme start="20260508000000 +0000" stop="20260508020000 +0000" channel="Sky Sport Tennis HD.skyde">
     <title>ATP 1000: S. Tsitsipas (GRE) - T. Machac (CZE), Internazionali BNL d&#039;Italia in Rom (Italien), 3. Tag</title>
 </programme>
-<programme start="20260508020000 +0000" stop="20260508023000 +0000" channel="Sky Sport Tennis HD.skyde">
-    <title>ATP: This Week</title>
-</programme>
-<programme start="20260508023000 +0000" stop="20260508043000 +0000" channel="Sky Sport Tennis HD.skyde">
-    <title>WTA 1000: M. Kostyuk (UKR) - M. Andreeva, Mutua Madrid Open in Madrid (ESP), Finale</title>
-</programme>
-<programme start="20260508043000 +0000" stop="20260508050000 +0000" channel="Sky Sport Tennis HD.skyde">
-    <title>WTA 1000: Review Madrid</title>
-</programme>
-<programme start="20260508050000 +0000" stop="20260508070000 +0000" channel="Sky Sport Tennis HD.skyde">
+<programme start="20260508002000 +0000" stop="20260508011500 +0000" channel="Sky Sport Tennis HD.skyde">
     <title>WTA 1000: T. Maria (GER) - S. Cirstea (ROU), Internazionali BNL d&#039;Italia in Rom (Italien), 3. Tag</title>
 </programme>
-<programme start="20260508070000 +0000" stop="20260508090000 +0000" channel="Sky Sport Tennis HD.skyde">
+<programme start="20260508011500 +0000" stop="20260508025500 +0000" channel="Sky Sport Tennis HD.skyde">
+    <title>ATP 1000: S. Tsitsipas (GRE) - T. Machac (CZE), Internazionali BNL d&#039;Italia in Rom (Italien), 3. Tag</title>
+</programme>
+<programme start="20260508025500 +0000" stop="20260508032500 +0000" channel="Sky Sport Tennis HD.skyde">
+    <title>ATP: This Week</title>
+</programme>
+<programme start="20260508032500 +0000" stop="20260508052500 +0000" channel="Sky Sport Tennis HD.skyde">
+    <title>WTA 1000: M. Kostyuk (UKR) - M. Andreeva, Mutua Madrid Open in Madrid (ESP), Finale</title>
+</programme>
+<programme start="20260508052500 +0000" stop="20260508055500 +0000" channel="Sky Sport Tennis HD.skyde">
+    <title>WTA 1000: Review Madrid</title>
+</programme>
+<programme start="20260508055500 +0000" stop="20260508062000 +0000" channel="Sky Sport Tennis HD.skyde">
+    <title>ATP: This Week</title>
+</programme>
+<programme start="20260508062000 +0000" stop="20260508071500 +0000" channel="Sky Sport Tennis HD.skyde">
+    <title>WTA 1000: T. Maria (GER) - S. Cirstea (ROU), Internazionali BNL d&#039;Italia in Rom (Italien), 3. Tag</title>
+</programme>
+<programme start="20260508071500 +0000" stop="20260508090000 +0000" channel="Sky Sport Tennis HD.skyde">
     <title>ATP 1000: S. Tsitsipas (GRE) - T. Machac (CZE), Internazionali BNL d&#039;Italia in Rom (Italien), 3. Tag</title>
 </programme>
 <programme start="20260508090000 +0000" stop="20260508210000 +0000" channel="Sky Sport Tennis HD.skyde">
@@ -3397,7 +3403,10 @@
 <programme start="20260508213000 +0000" stop="20260508233000 +0000" channel="Sky Sport Tennis HD.skyde">
     <title>WTA 1000: M. Sakkari (GRE) - E. Rybakina (KAZ), Internazionali BNL d&#039;Italia in Rom (Italien), 4. Tag</title>
 </programme>
-<programme start="20260507221000 +0000" stop="20260507230000 +0000" channel="Sky Sport Top Event HD.skyde">
+<programme start="20260507220000 +0000" stop="20260507223000 +0000" channel="Sky Sport Top Event HD.skyde">
+    <title>BL: Bundesliga Weekly</title>
+</programme>
+<programme start="20260507223000 +0000" stop="20260507230000 +0000" channel="Sky Sport Top Event HD.skyde">
     <title>NBA: Action</title>
 </programme>
 <programme start="20260507230000 +0000" stop="20260508000000 +0000" channel="Sky Sport Top Event HD.skyde">
@@ -3691,7 +3700,7 @@
 <programme start="20260508084000 +0000" stop="20260508090000 +0000" channel="Sky Sport 6 HD.skyde">
     <title>Es folgt: LIVE WTA Tour</title>
 </programme>
-<programme start="20260508090000 +0000" stop="20260508190000 +0000" channel="Sky Sport 6 HD.skyde">
+<programme start="20260508090000 +0000" stop="20260508220000 +0000" channel="Sky Sport 6 HD.skyde">
     <title>Live WTA 1000: Internazionali BNL d&#039;Italia in Rom (Italien), 4. Tag</title>
 </programme>
 <programme start="20260507224000 +0000" stop="20260507232500 +0000" channel="SYFY HD.skyde">

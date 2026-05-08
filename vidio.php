@@ -1056,11 +1056,11 @@
     <title lang="id">Arisan</title>
     <icon src="https://thumbor.prod.vidiocdn.com/VyDWgGuvUtZp5M006MXkTEIEpxw=/287x162/filters:strip_icc():quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/image/734/trans7-9dade4.jpg"/>
   </programme>
-  <programme channel="734" start="20260508143000 +0000" stop="20260508154500 +0000">
+  <programme channel="734" start="20260508143000 +0000" stop="20260508154300 +0000">
     <title lang="id">Lapor Pak!</title>
     <icon src="https://thumbor.prod.vidiocdn.com/VyDWgGuvUtZp5M006MXkTEIEpxw=/287x162/filters:strip_icc():quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/image/734/trans7-9dade4.jpg"/>
   </programme>
-  <programme channel="734" start="20260508154500 +0000" stop="20260508163000 +0000">
+  <programme channel="734" start="20260508154300 +0000" stop="20260508163000 +0000">
     <title lang="id">The Police</title>
     <icon src="https://thumbor.prod.vidiocdn.com/HZz-rwFWruDhzHFfuCgQLdnqkmI=/287x162/filters:strip_icc():quality(70)/vidio-web-prod-film/uploads/film/image_landscape/5734/the-police-3840e2.png"/>
   </programme>
@@ -1767,22 +1767,22 @@
     <title lang="id">KEJURNAS U18 2026 KEJURNAS U18 2026 PUTRA CINUS VC VS ATLAS</title>
     <icon src="https://thumbor.prod.vidiocdn.com/NdmzqkxqnWVnlngtk_ObYNT-wiY=/287x162/filters:strip_icc():quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/image/206/moji-a5bd3e.jpg"/>
   </programme>
-  <programme channel="206" start="20260508140000 +0000" stop="20260508153000 +0000">
+  <programme channel="206" start="20260508140000 +0000" stop="20260508160000 +0000">
     <title lang="id">Rerun Proliga 2026</title>
     <desc lang="id">Rerun Proliga 2026</desc>
     <icon src="https://thumbor.prod.vidiocdn.com/NdmzqkxqnWVnlngtk_ObYNT-wiY=/287x162/filters:strip_icc():quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/image/206/moji-a5bd3e.jpg"/>
   </programme>
-  <programme channel="206" start="20260508153000 +0000" stop="20260508173000 +0000">
-    <title lang="id">Rerun Uel 2026</title>
-    <desc lang="id">Rerun Uel 2026</desc>
+  <programme channel="206" start="20260508160000 +0000" stop="20260508180000 +0000">
+    <title lang="id">SC Freiburg vs SC Braga : UEFA Europa League 2025/26</title>
+    <desc lang="id">Semifinal, 2nd Leg.</desc>
     <icon src="https://thumbor.prod.vidiocdn.com/NdmzqkxqnWVnlngtk_ObYNT-wiY=/287x162/filters:strip_icc():quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/image/206/moji-a5bd3e.jpg"/>
   </programme>
-  <programme channel="206" start="20260508153000 +0000" stop="20260508173000 +0000">
-    <title lang="id">Rerun Uel 2026</title>
-    <desc lang="id">Rerun Uel 2026</desc>
+  <programme channel="206" start="20260508160000 +0000" stop="20260508180000 +0000">
+    <title lang="id">SC Freiburg vs SC Braga : UEFA Europa League 2025/26</title>
+    <desc lang="id">Semifinal, 2nd Leg.</desc>
     <icon src="https://thumbor.prod.vidiocdn.com/NdmzqkxqnWVnlngtk_ObYNT-wiY=/287x162/filters:strip_icc():quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/image/206/moji-a5bd3e.jpg"/>
   </programme>
-  <programme channel="206" start="20260508173000 +0000" stop="20260508195600 +0000">
+  <programme channel="206" start="20260508180000 +0000" stop="20260508195600 +0000">
     <title lang="id">Rerun Proliga 2026</title>
     <desc lang="id">Rerun Proliga 2026</desc>
     <icon src="https://thumbor.prod.vidiocdn.com/NdmzqkxqnWVnlngtk_ObYNT-wiY=/287x162/filters:strip_icc():quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/image/206/moji-a5bd3e.jpg"/>
@@ -15247,12 +15247,12 @@
     <desc lang="id">FEYENOORD vs FC GRONINGEN</desc>
     <icon src="https://thumbor.prod.vidiocdn.com/xgkik6iws0EJ01bi5cJsIjYWjOM=/287x162/filters:strip_icc():quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/image/6686/champions-tv-2-681a27.jpg"/>
   </programme>
-  <programme channel="6686" start="20260508130000 +0000" stop="20260508150500 +0000">
+  <programme channel="6686" start="20260508130000 +0000" stop="20260508150100 +0000">
     <title lang="id">Milan Vs Torino : Serie A 2025/26</title>
     <desc lang="id">MILAN vs TORINO</desc>
     <icon src="https://thumbor.prod.vidiocdn.com/xgkik6iws0EJ01bi5cJsIjYWjOM=/287x162/filters:strip_icc():quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/image/6686/champions-tv-2-681a27.jpg"/>
   </programme>
-  <programme channel="6686" start="20260508150500 +0000" stop="20260508153000 +0000">
+  <programme channel="6686" start="20260508150100 +0000" stop="20260508153000 +0000">
     <title lang="id">Magazine - Inside Round 35 : Serie A 2025/26</title>
     <desc lang="id">MAGAZINE INSIDE ROUND 35</desc>
     <icon src="https://thumbor.prod.vidiocdn.com/xgkik6iws0EJ01bi5cJsIjYWjOM=/287x162/filters:strip_icc():quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/image/6686/champions-tv-2-681a27.jpg"/>
