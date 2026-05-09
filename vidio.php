@@ -884,12 +884,12 @@
     <desc lang="id">Mega Film Asia Adalah Program Yang Memutarkan Film-Film Asia Yang Ditayangkan Di Indosiar. Acara Ini Ditayangkan Perdana Pada Tahun 1996 Silam.</desc>
     <icon src="https://thumbor.prod.vidiocdn.com/KLo912i8WlMTL8WBP25cuJXDxbo=/287x162/filters:strip_icc():quality(70)/vidio-media-production/uploads/livestreaming/schedule/thumbnail/5058257/1b7df8.jpg"/>
   </programme>
-  <programme channel="205" start="20260509200900 +0000" stop="20260509213000 +0000">
+  <programme channel="205" start="20260509200900 +0000" stop="20260509212400 +0000">
     <title lang="id">Mega Film Asia : Trouble Maker</title>
     <desc lang="id">Mega Film Asia Adalah Program Yang Memutarkan Film-Film Asia Yang Ditayangkan Di Indosiar. Acara Ini Ditayangkan Perdana Pada Tahun 1996 Silam.</desc>
     <icon src="https://thumbor.prod.vidiocdn.com/KKdxTsn3qKvkt806GoT0YuGpiB4=/287x162/filters:strip_icc():quality(70)/vidio-media-production/uploads/livestreaming/schedule/thumbnail/5058258/a90623.jpg"/>
   </programme>
-  <programme channel="205" start="20260509213000 +0000" stop="20260509230000 +0000">
+  <programme channel="205" start="20260509212400 +0000" stop="20260509230000 +0000">
     <title lang="id">Fokus Pagi</title>
     <desc lang="id">Berita Lengkap dan Terkini Dari Dalam dan Luar Negeri Seputar Isu Politik, Ekonomi, Hukum, Kriminal, Sosial Budaya, Olahraga, dan Lain-Lain.</desc>
     <icon src="https://thumbor.prod.vidiocdn.com/cBZL7ITaJCof6cqtayFee2uJCX8=/287x162/filters:strip_icc():quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/image/205/indosiar-d9a3d0.jpg"/>
@@ -14869,17 +14869,12 @@
     <desc lang="id">EPS 03</desc>
     <icon src="https://thumbor.prod.vidiocdn.com/xgkik6iws0EJ01bi5cJsIjYWjOM=/287x162/filters:strip_icc():quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/image/6686/champions-tv-2-681a27.jpg"/>
   </programme>
-  <programme channel="6686" start="20260509183000 +0000" stop="20260509203000 +0000">
+  <programme channel="6686" start="20260509183000 +0000" stop="20260509210700 +0000">
     <title lang="id">Day 4 - WTA 1000: Internazionali BNL D'Italia 2026</title>
     <desc lang="id">Nonton streaming pertandingan seru Day 4 - WTA 1000: Internazionali BNL D'Italia 2026. Saksikan aksi-aksi terbaik dari tim yang bersaing ketat untuk meraih kemenangan. Dapatkan informasi lengkap mengenai jadwal pertandingan dan hasil pertandingan terbaru hanya di Vidio.</desc>
     <icon src="https://thumbor.prod.vidiocdn.com/qKZJchZq73_teu8u-QvSrMuA70M=/287x162/filters:strip_icc():quality(70)/vidio-media-production/uploads/livestreaming/schedule/thumbnail/5064136/74e6ac.jpg"/>
   </programme>
-  <programme channel="6686" start="20260509203000 +0000" stop="20260509210000 +0000">
-    <title lang="id">Highlight - Show 37 : EFL 2025/26</title>
-    <desc lang="id">HIGHLIGHT Show 37</desc>
-    <icon src="https://thumbor.prod.vidiocdn.com/xgkik6iws0EJ01bi5cJsIjYWjOM=/287x162/filters:strip_icc():quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/image/6686/champions-tv-2-681a27.jpg"/>
-  </programme>
-  <programme channel="6686" start="20260509210000 +0000" stop="20260509230000 +0000">
+  <programme channel="6686" start="20260509210700 +0000" stop="20260509230000 +0000">
     <title lang="id">Nac Breda Vs Afc Ajax : Dutch League Eredivisie 2025/26</title>
     <desc lang="id">NAC BREDA vs AFC AJAX</desc>
     <icon src="https://thumbor.prod.vidiocdn.com/xgkik6iws0EJ01bi5cJsIjYWjOM=/287x162/filters:strip_icc():quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/image/6686/champions-tv-2-681a27.jpg"/>

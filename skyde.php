@@ -986,6 +986,60 @@ Warning: Undefined array key "et" in /usr/home/ManusiaBiasa/domains/manusiabiasa
 <programme start="20260509203500 +0000" stop="20260509220000 +0000" channel="DAZN 1 HD.skyde">
     <title>ALL IN - Die Bundesliga Highlight Show: 33. Spieltag</title>
 </programme>
+<programme start="20260508220000 +0000" stop="20260509060000 +0000" channel="DAZN 2 HD.skyde">
+    <title>Sendepause</title>
+</programme>
+<programme start="20260509060000 +0000" stop="20260509075500 +0000" channel="DAZN 2 HD.skyde">
+    <title>Bundesliga 25/26: Borussia Dortmund - Eintracht Frankfurt</title>
+</programme>
+<programme start="20260509075500 +0000" stop="20260509085000 +0000" channel="DAZN 2 HD.skyde">
+    <title>Her Element by Laura Wontorra: Episode 1</title>
+</programme>
+<programme start="20260509085000 +0000" stop="20260509094500 +0000" channel="DAZN 2 HD.skyde">
+    <title>Her Element by Laura Wontorra: Episode 2</title>
+</programme>
+<programme start="20260509094500 +0000" stop="20260509120000 +0000" channel="DAZN 2 HD.skyde">
+    <title>Google Pixel Frauen Bundesliga 25/26: 1. FC Köln - Hamburger SV</title>
+</programme>
+<programme start="20260509120000 +0000" stop="20260509122000 +0000" channel="DAZN 2 HD.skyde">
+    <title>&quot;Mehr als 90 Minuten&quot;: Staffel 2 - Folge 1</title>
+</programme>
+<programme start="20260509122000 +0000" stop="20260509123500 +0000" channel="DAZN 2 HD.skyde">
+    <title>&quot;Mehr als 90 Minuten&quot;: Staffel 2 - Folge 2</title>
+</programme>
+<programme start="20260509123500 +0000" stop="20260509125500 +0000" channel="DAZN 2 HD.skyde">
+    <title>&quot;Mehr als 90 Minuten&quot;: Staffel 2 - Folge 3</title>
+</programme>
+<programme start="20260509125500 +0000" stop="20260509131000 +0000" channel="DAZN 2 HD.skyde">
+    <title>&quot;Mehr als 90 Minuten&quot;: Staffel 2 - Folge 4</title>
+</programme>
+<programme start="20260509131000 +0000" stop="20260509133000 +0000" channel="DAZN 2 HD.skyde">
+    <title>Best of DAZN: Highlights</title>
+</programme>
+<programme start="20260509133000 +0000" stop="20260509155000 +0000" channel="DAZN 2 HD.skyde">
+    <title>Google Pixel Frauen Bundesliga 25/26: FC Bayern München - Eintracht Frankfurt</title>
+</programme>
+<programme start="20260509155000 +0000" stop="20260509160500 +0000" channel="DAZN 2 HD.skyde">
+    <title>&quot;Mehr als 90 Minuten&quot;: Staffel 2 - Folge 5</title>
+</programme>
+<programme start="20260509160500 +0000" stop="20260509162500 +0000" channel="DAZN 2 HD.skyde">
+    <title>&quot;Mehr als 90 Minuten&quot;: Staffel 2 - Folge 6</title>
+</programme>
+<programme start="20260509162500 +0000" stop="20260509183500 +0000" channel="DAZN 2 HD.skyde">
+    <title>LaLiga 25/26: Atlético Madrid - Celta Vigo</title>
+</programme>
+<programme start="20260509183500 +0000" stop="20260509185500 +0000" channel="DAZN 2 HD.skyde">
+    <title>Best of DAZN: Highlights</title>
+</programme>
+<programme start="20260509185500 +0000" stop="20260509210500 +0000" channel="DAZN 2 HD.skyde">
+    <title>LaLiga 25/26: Real Sociedad - Real Betis Sevilla</title>
+</programme>
+<programme start="20260509210500 +0000" stop="20260509213500 +0000" channel="DAZN 2 HD.skyde">
+    <title>Google Pixel Frauen-Bundesliga Highlightshow 25/26: 24. Spieltag</title>
+</programme>
+<programme start="20260509213500 +0000" stop="20260509220000 +0000" channel="DAZN 2 HD.skyde">
+    <title>Best of DAZN: Highlights</title>
+</programme>
 <programme start="20260508224000 +0000" stop="20260509001000 +0000" channel="Heimatkanal.skyde">
     <title>Auf der Alm, da gibt&#039;s koa Sünd</title>
 </programme>
@@ -2495,16 +2549,13 @@ Warning: Undefined array key "et" in /usr/home/ManusiaBiasa/domains/manusiabiasa
 <programme start="20260509213500 +0000" stop="20260509222000 +0000" channel="Sky Showcase HD.skyde">
     <title>A Plan to Kill</title>
 </programme>
-<programme start="20260508220000 +0000" stop="20260508223000 +0000" channel="Sky Sport Austria 1 HD.skyde">
+<programme start="20260508230000 +0000" stop="20260508233000 +0000" channel="Sky Sport Austria 1 HD.skyde">
     <title>UEFA CL: Magazin</title>
 </programme>
-<programme start="20260508223000 +0000" stop="20260508231500 +0000" channel="Sky Sport Austria 1 HD.skyde">
-    <title>Fußball: Klassiker der Woche: ASK - RBS (2023/24)</title>
-</programme>
-<programme start="20260508231500 +0000" stop="20260508233000 +0000" channel="Sky Sport Austria 1 HD.skyde">
+<programme start="20260508233000 +0000" stop="20260509000000 +0000" channel="Sky Sport Austria 1 HD.skyde">
     <title>UEFA CL: Highlights XXL: ARS - ATM, Halbfinale Rückspiel</title>
 </programme>
-<programme start="20260508233000 +0000" stop="20260509001500 +0000" channel="Sky Sport Austria 1 HD.skyde">
+<programme start="20260509000000 +0000" stop="20260509001500 +0000" channel="Sky Sport Austria 1 HD.skyde">
     <title>Fußball: Herzog gegen Herzig - Die next Generation Show (SV Fohnsdorf)</title>
 </programme>
 <programme start="20260509001500 +0000" stop="20260509021500 +0000" channel="Sky Sport Austria 1 HD.skyde">
@@ -2594,7 +2645,7 @@ Warning: Undefined array key "et" in /usr/home/ManusiaBiasa/domains/manusiabiasa
 <programme start="20260509134000 +0000" stop="20260509140000 +0000" channel="Sky Sport Austria 3 HD.skyde">
     <title>Es folgt: LIVE Admiral BL</title>
 </programme>
-<programme start="20260509140000 +0000" stop="20260509170000 +0000" channel="Sky Sport Austria 3 HD.skyde">
+<programme start="20260509140000 +0000" stop="20260509173000 +0000" channel="Sky Sport Austria 3 HD.skyde">
     <title>Live Admiral BL: Grazer AK 1902 - SCR Altach, 31. Runde</title>
 </programme>
 <programme start="20260509134000 +0000" stop="20260509140000 +0000" channel="Sky Sport Austria 4 HD.skyde">
@@ -2642,10 +2693,10 @@ Warning: Undefined array key "et" in /usr/home/ManusiaBiasa/domains/manusiabiasa
 <programme start="20260509120000 +0000" stop="20260509131500 +0000" channel="Sky Sport Bundesliga HD.skyde">
     <title>Live BL: tipico Countdown, 33. Spieltag</title>
 </programme>
-<programme start="20260509131500 +0000" stop="20260509153000 +0000" channel="Sky Sport Bundesliga HD.skyde">
+<programme start="20260509131500 +0000" stop="20260509153500 +0000" channel="Sky Sport Bundesliga HD.skyde">
     <title>Live BL: VfB Stuttgart - Bayer Leverkusen, 33. Spieltag</title>
 </programme>
-<programme start="20260509153000 +0000" stop="20260509191500 +0000" channel="Sky Sport Bundesliga HD.skyde">
+<programme start="20260509153500 +0000" stop="20260509191500 +0000" channel="Sky Sport Bundesliga HD.skyde">
     <title>Live BL: VfL Wolfsburg - FC Bayern München, tipico Topspiel der Woche, 33. Spieltag</title>
 </programme>
 <programme start="20260509191500 +0000" stop="20260509204500 +0000" channel="Sky Sport Bundesliga HD.skyde">
@@ -2726,16 +2777,13 @@ Warning: Undefined array key "et" in /usr/home/ManusiaBiasa/domains/manusiabiasa
 <programme start="20260509131500 +0000" stop="20260509153000 +0000" channel="Sky Sport Bundesliga 2 HD.skyde">
     <title>Live BL: FC Augsburg - Borussia M&#039;gladbach, 33. Spieltag</title>
 </programme>
-<programme start="20260509153000 +0000" stop="20260509170000 +0000" channel="Sky Sport Bundesliga 2 HD.skyde">
+<programme start="20260509153000 +0000" stop="20260509171000 +0000" channel="Sky Sport Bundesliga 2 HD.skyde">
     <title>Live BL Alle Spiele, alle Tore: Die Vodafone Highlight-Show, 33. Spieltag, Samstag</title>
-</programme>
-<programme start="20260509170000 +0000" stop="20260509173000 +0000" channel="Sky Sport Bundesliga 2 HD.skyde">
-    <title>BL: Kompakt - Alles in 30</title>
 </programme>
 <programme start="20260509173000 +0000" stop="20260509211500 +0000" channel="Sky Sport Bundesliga 2 HD.skyde">
     <title>Live 2. BL: 1. FC Nürnberg - FC Schalke 04, tipico Topspiel der Woche, 33. Spieltag</title>
 </programme>
-<programme start="20260509211500 +0000" stop="20260509221500 +0000" channel="Sky Sport Bundesliga 2 HD.skyde">
+<programme start="20260509211500 +0000" stop="20260509224500 +0000" channel="Sky Sport Bundesliga 2 HD.skyde">
     <title>2. BL Alle Spiele, alle Tore: Die Vodafone Highlight-Show, 33. Spieltag, Samstag komplett</title>
 </programme>
 <programme start="20260509101000 +0000" stop="20260509103000 +0000" channel="Sky Sport Bundesliga 3 HD.skyde">
@@ -2771,7 +2819,7 @@ Warning: Undefined array key "et" in /usr/home/ManusiaBiasa/domains/manusiabiasa
 <programme start="20260509103000 +0000" stop="20260509130000 +0000" channel="Sky Sport Bundesliga 5 HD.skyde">
     <title>Live 2. BL: Holstein Kiel - 1. FC Magdeburg, 33. Spieltag</title>
 </programme>
-<programme start="20260509130000 +0000" stop="20260509161500 +0000" channel="Sky Sport Bundesliga 5 HD.skyde">
+<programme start="20260509130000 +0000" stop="20260509162500 +0000" channel="Sky Sport Bundesliga 5 HD.skyde">
     <title>BL: Hinweis Multiview</title>
 </programme>
 <programme start="20260509101000 +0000" stop="20260509103000 +0000" channel="Sky Sport Bundesliga 6 HD.skyde">
@@ -3020,13 +3068,10 @@ Warning: Undefined array key "et" in /usr/home/ManusiaBiasa/domains/manusiabiasa
 <programme start="20260509070000 +0000" stop="20260509084500 +0000" channel="Sky Sport News HD.skyde">
     <title>Live Sky Sport News: Guten Morgen Fans!</title>
 </programme>
-<programme start="20260509084500 +0000" stop="20260509110000 +0000" channel="Sky Sport News HD.skyde">
+<programme start="20260509084500 +0000" stop="20260509114500 +0000" channel="Sky Sport News HD.skyde">
     <title>Live DFB-Nachwuchsliga: VfB Stuttgart U17 - FC Augsburg U17, Halbfinale</title>
 </programme>
-<programme start="20260509110000 +0000" stop="20260509113000 +0000" channel="Sky Sport News HD.skyde">
-    <title>Meine Geschichte: Das Leben von Andreas Obst</title>
-</programme>
-<programme start="20260509113000 +0000" stop="20260509120000 +0000" channel="Sky Sport News HD.skyde">
+<programme start="20260509114500 +0000" stop="20260509120000 +0000" channel="Sky Sport News HD.skyde">
     <title>BL: BVB-Herstory - Der Dortmunder Weg nach oben (Quo vadis?)</title>
 </programme>
 <programme start="20260509120000 +0000" stop="20260509130000 +0000" channel="Sky Sport News HD.skyde">
@@ -3215,10 +3260,10 @@ Warning: Undefined array key "et" in /usr/home/ManusiaBiasa/domains/manusiabiasa
 <programme start="20260509101500 +0000" stop="20260509103000 +0000" channel="Sky Sport Top Event HD.skyde">
     <title>BL: Highlights XXL: BVB - SGE, 33. Spieltag</title>
 </programme>
-<programme start="20260509103000 +0000" stop="20260509130000 +0000" channel="Sky Sport Top Event HD.skyde">
+<programme start="20260509103000 +0000" stop="20260509130500 +0000" channel="Sky Sport Top Event HD.skyde">
     <title>Live 2. BL: Samstags-Konferenz, 33. Spieltag</title>
 </programme>
-<programme start="20260509130000 +0000" stop="20260509131500 +0000" channel="Sky Sport Top Event HD.skyde">
+<programme start="20260509130500 +0000" stop="20260509131500 +0000" channel="Sky Sport Top Event HD.skyde">
     <title>Live BL: VFB - B04: tipico Countdown, 33. Spieltag</title>
 </programme>
 <programme start="20260509131500 +0000" stop="20260509154500 +0000" channel="Sky Sport Top Event HD.skyde">
@@ -3251,7 +3296,7 @@ Warning: Undefined array key "et" in /usr/home/ManusiaBiasa/domains/manusiabiasa
 <programme start="20260509133000 +0000" stop="20260509135000 +0000" channel="Sky Sport 8 HD.skyde">
     <title>Es folgt: LIVE PL</title>
 </programme>
-<programme start="20260509135000 +0000" stop="20260509170000 +0000" channel="Sky Sport 8 HD.skyde">
+<programme start="20260509135000 +0000" stop="20260509162000 +0000" channel="Sky Sport 8 HD.skyde">
     <title>Live PL: FC Fulham - AFC Bournemouth, 36. Spieltag</title>
 </programme>
 <programme start="20260509084000 +0000" stop="20260509090000 +0000" channel="Sky Sport 9 HD.skyde">
