@@ -4258,17 +4258,17 @@
     <programme start="20260509040000 +0000" stop="20260509043000 +0000" channel="Hub Sports 3 HD.starhub">
         <title>Turkish Airlines Open</title>
     </programme>
-    <programme start="20260509043000 +0000" stop="20260509053000 +0000" channel="Hub Sports 3 HD.starhub">
-        <title>Cadillac Championship</title>
-    </programme>
-    <programme start="20260509053000 +0000" stop="20260509083000 +0000" channel="Hub Sports 3 HD.starhub">
+    <programme start="20260509043000 +0000" stop="20260509073000 +0000" channel="Hub Sports 3 HD.starhub">
         <title>Estrella Damm Catalunya Championship Day 1</title>
     </programme>
-    <programme start="20260509083000 +0000" stop="20260509113000 +0000" channel="Hub Sports 3 HD.starhub">
+    <programme start="20260509073000 +0000" stop="20260509103000 +0000" channel="Hub Sports 3 HD.starhub">
         <title>Estrella Damm Catalunya Championship Day 2</title>
     </programme>
-    <programme start="20260509113000 +0000" stop="20260509160000 +0000" channel="Hub Sports 3 HD.starhub">
+    <programme start="20260509103000 +0000" stop="20260509150000 +0000" channel="Hub Sports 3 HD.starhub">
         <title>Estrella Damm Catalunya Championship Day 3</title>
+    </programme>
+    <programme start="20260509150000 +0000" stop="20260509160000 +0000" channel="Hub Sports 3 HD.starhub">
+        <title>Cadillac Championship</title>
     </programme>
     <programme start="20260508160000 +0000" stop="20260508162000 +0000" channel="France24.starhub">
         <title>News</title>
@@ -6631,7 +6631,7 @@
     <programme start="20260509150000 +0000" stop="20260509163300 +0000" channel="TV5MONDE HD.starhub">
         <title>Meurtres a Font-Romeu</title>
     </programme>
-    <programme start="20260508150000 +0000" stop="20260508170000 +0000" channel="Hub Sports 1  HD.starhub">
+    <programme start="20260508154000 +0000" stop="20260508170000 +0000" channel="Hub Sports 1  HD.starhub">
         <title>Internazionali BNL d’Italia (1000) Day 3 R2 Session 3</title>
     </programme>
     <programme start="20260508170000 +0000" stop="20260508190000 +0000" channel="Hub Sports 1  HD.starhub">
