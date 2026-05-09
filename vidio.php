@@ -215,11 +215,11 @@
     <icon src="https://thumbor.prod.vidiocdn.com/oMFhUagHdo4551UBuIvUsG9_qZA=/287x162/filters:strip_icc():quality(70)/vidio-media-production/uploads/tv_program/thumbnail/399305/1d17bf.jpg"/>
   </programme>
   <programme channel="204" start="20260509160800 +0000" stop="20260509183000 +0000">
-    <title lang="id">Man City Vs Brentford - Liga Inggris - Live</title>
+    <title lang="id">Manchester City vs Brentford : Premier League 2025/26</title>
     <icon src="https://thumbor.prod.vidiocdn.com/N99E8BD1OJ5vvymwPBj0c-BU5J4=/287x162/filters:strip_icc():quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/image/204/sctv-5ef966.jpg"/>
   </programme>
   <programme channel="204" start="20260509160800 +0000" stop="20260509183000 +0000">
-    <title lang="id">Man City Vs Brentford - Liga Inggris - Live</title>
+    <title lang="id">Manchester City vs Brentford : Premier League 2025/26</title>
     <icon src="https://thumbor.prod.vidiocdn.com/N99E8BD1OJ5vvymwPBj0c-BU5J4=/287x162/filters:strip_icc():quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/image/204/sctv-5ef966.jpg"/>
   </programme>
   <programme channel="204" start="20260509183000 +0000" stop="20260509200000 +0000">
@@ -869,27 +869,22 @@
     <desc lang="id">Kompetisi Pegadaian Championship 2025/26 Indonesia Kembali Digelar: Inilah Panggung Persaingan 26 Klub Liga 2 Yang Terbagi Dalam 3 Region. Saksikan Hanya Di Indosiar, Vidio.</desc>
     <icon src="https://thumbor.prod.vidiocdn.com/cBZL7ITaJCof6cqtayFee2uJCX8=/287x162/filters:strip_icc():quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/image/205/indosiar-d9a3d0.jpg"/>
   </programme>
-  <programme channel="205" start="20260509161900 +0000" stop="20260509183000 +0000">
+  <programme channel="205" start="20260509161900 +0000" stop="20260509184300 +0000">
     <title lang="id">BRI Superleague 2025/26 - Persis Solo Vs Persebaya Surabaya</title>
     <desc lang="id">Saksikan! BRI Super League 2025/26 - Is Back!" 18 Klub Terbaik Siap Bertarung Di Kasta Tertinggi Sepak Bola Indonesia! Pertandingan Semakin Seru! Jangan Lewatkan BRI Super League 2025/26 Mulai 8 Agustus 2025, Pkl 15.00 &amp; 18.30 WIB, Live &amp; Eksklusif Hanya Di Indosiar dan Vidio #Indosiarrumahsepakbolaindonesia</desc>
     <icon src="https://thumbor.prod.vidiocdn.com/cBZL7ITaJCof6cqtayFee2uJCX8=/287x162/filters:strip_icc():quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/image/205/indosiar-d9a3d0.jpg"/>
   </programme>
-  <programme channel="205" start="20260509161900 +0000" stop="20260509183000 +0000">
+  <programme channel="205" start="20260509161900 +0000" stop="20260509184300 +0000">
     <title lang="id">BRI Superleague 2025/26 - Persis Solo Vs Persebaya Surabaya</title>
     <desc lang="id">Saksikan! BRI Super League 2025/26 - Is Back!" 18 Klub Terbaik Siap Bertarung Di Kasta Tertinggi Sepak Bola Indonesia! Pertandingan Semakin Seru! Jangan Lewatkan BRI Super League 2025/26 Mulai 8 Agustus 2025, Pkl 15.00 &amp; 18.30 WIB, Live &amp; Eksklusif Hanya Di Indosiar dan Vidio #Indosiarrumahsepakbolaindonesia</desc>
     <icon src="https://thumbor.prod.vidiocdn.com/cBZL7ITaJCof6cqtayFee2uJCX8=/287x162/filters:strip_icc():quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/image/205/indosiar-d9a3d0.jpg"/>
   </programme>
-  <programme channel="205" start="20260509183000 +0000" stop="20260509193000 +0000">
-    <title lang="id">Mega Film Asia : Twin Dragon</title>
-    <desc lang="id">Mega Film Asia Adalah Program Yang Memutarkan Film-Film Asia Yang Ditayangkan Di Indosiar. Acara Ini Ditayangkan Perdana Pada Tahun 1996 Silam.</desc>
-    <icon src="https://thumbor.prod.vidiocdn.com/lOpcns3dnCXnXsNAM1UEXsU5Xgg=/287x162/filters:strip_icc():quality(70)/vidio-media-production/uploads/livestreaming/schedule/thumbnail/5058256/300614.jpg"/>
-  </programme>
-  <programme channel="205" start="20260509193000 +0000" stop="20260509203000 +0000">
-    <title lang="id">Mega Film Asia : Wu Dang</title>
+  <programme channel="205" start="20260509184300 +0000" stop="20260509201200 +0000">
+    <title lang="id">Mega Film Asia : Crime Story</title>
     <desc lang="id">Mega Film Asia Adalah Program Yang Memutarkan Film-Film Asia Yang Ditayangkan Di Indosiar. Acara Ini Ditayangkan Perdana Pada Tahun 1996 Silam.</desc>
     <icon src="https://thumbor.prod.vidiocdn.com/KLo912i8WlMTL8WBP25cuJXDxbo=/287x162/filters:strip_icc():quality(70)/vidio-media-production/uploads/livestreaming/schedule/thumbnail/5058257/1b7df8.jpg"/>
   </programme>
-  <programme channel="205" start="20260509203000 +0000" stop="20260509213000 +0000">
+  <programme channel="205" start="20260509201200 +0000" stop="20260509213000 +0000">
     <title lang="id">Mega Film Asia : Bodyguard 3</title>
     <desc lang="id">Mega Film Asia Adalah Program Yang Memutarkan Film-Film Asia Yang Ditayangkan Di Indosiar. Acara Ini Ditayangkan Perdana Pada Tahun 1996 Silam.</desc>
     <icon src="https://thumbor.prod.vidiocdn.com/KKdxTsn3qKvkt806GoT0YuGpiB4=/287x162/filters:strip_icc():quality(70)/vidio-media-production/uploads/livestreaming/schedule/thumbnail/5058258/a90623.jpg"/>
@@ -7525,12 +7520,12 @@
     <desc lang="id">Miami, USA</desc>
     <icon src="https://thumbor.prod.vidiocdn.com/5yUHYfv_b1sZi7kdFElm8JqF2RY=/287x162/filters:strip_icc():quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/image/6299/bein-1-4bd997.jpg"/>
   </programme>
-  <programme channel="6299" start="20260509120000 +0000" stop="20260509140000 +0000">
+  <programme channel="6299" start="20260509115500 +0000" stop="20260509141000 +0000">
     <title lang="id">Elche vs Alaves - LaLiga</title>
     <desc lang="id">Nonton streaming pertandingan seru Elche vs Alaves - LaLiga. Saksikan aksi-aksi terbaik dari tim yang bersaing ketat untuk meraih kemenangan. Dapatkan informasi lengkap mengenai jadwal pertandingan dan hasil pertandingan terbaru hanya di Vidio.</desc>
     <icon src="https://thumbor.prod.vidiocdn.com/OgWVKnSQljGRrz36Y64laInxpDI=/287x162/filters:strip_icc():quality(70)/vidio-media-production/uploads/livestreaming/schedule/thumbnail/5062759/62ed60.jpg"/>
   </programme>
-  <programme channel="6299" start="20260509141500 +0000" stop="20260509161500 +0000">
+  <programme channel="6299" start="20260509141000 +0000" stop="20260509163000 +0000">
     <title lang="id">Sevilla vs Espanyol - LaLiga</title>
     <desc lang="id">Nonton streaming pertandingan seru Sevilla vs Espanyol - LaLiga. Saksikan aksi-aksi terbaik dari tim yang bersaing ketat untuk meraih kemenangan. Dapatkan informasi lengkap mengenai jadwal pertandingan dan hasil pertandingan terbaru hanya di Vidio.</desc>
     <icon src="https://thumbor.prod.vidiocdn.com/fnEkiyJSN4WNMzXGJ8cUNW4FiIM=/287x162/filters:strip_icc():quality(70)/vidio-media-production/uploads/livestreaming/schedule/thumbnail/5062749/a9969a.jpg"/>
@@ -7545,12 +7540,16 @@
     <desc lang="id">Nonton streaming pertandingan seru Atletico Madrid vs Celta Vigo - LaLiga. Saksikan aksi-aksi terbaik dari tim yang bersaing ketat untuk meraih kemenangan. Dapatkan informasi lengkap mengenai jadwal pertandingan dan hasil pertandingan terbaru hanya di Vidio.</desc>
     <icon src="https://thumbor.prod.vidiocdn.com/LUrxuJZ7PRwSjGHMUD16u00Rxi4=/287x162/filters:strip_icc():quality(70)/vidio-media-production/uploads/livestreaming/schedule/thumbnail/5062750/5ee7a7.jpg"/>
   </programme>
-  <programme channel="6299" start="20260509184000 +0000" stop="20260509185500 +0000">
+  <programme channel="6299" start="20260509183000 +0000" stop="20260509184000 +0000">
+    <title lang="id">Filler</title>
+    <icon src="https://thumbor.prod.vidiocdn.com/5yUHYfv_b1sZi7kdFElm8JqF2RY=/287x162/filters:strip_icc():quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/image/6299/bein-1-4bd997.jpg"/>
+  </programme>
+  <programme channel="6299" start="20260509184000 +0000" stop="20260509185400 +0000">
     <title lang="id">Celta Vigo vs Barcelona : LaLiga Match Highlights 2024/25</title>
     <desc lang="id">Celta Vigo vs Barcelona</desc>
     <icon src="https://thumbor.prod.vidiocdn.com/5yUHYfv_b1sZi7kdFElm8JqF2RY=/287x162/filters:strip_icc():quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/image/6299/bein-1-4bd997.jpg"/>
   </programme>
-  <programme channel="6299" start="20260509190000 +0000" stop="20260509210000 +0000">
+  <programme channel="6299" start="20260509185400 +0000" stop="20260509210000 +0000">
     <title lang="id">Real Sociedad vs Real Betis - LaLiga</title>
     <desc lang="id">Nonton streaming pertandingan seru Real Sociedad vs Real Betis - LaLiga. Saksikan aksi-aksi terbaik dari tim yang bersaing ketat untuk meraih kemenangan. Dapatkan informasi lengkap mengenai jadwal pertandingan dan hasil pertandingan terbaru hanya di Vidio.</desc>
     <icon src="https://thumbor.prod.vidiocdn.com/G9isbfLQcemPN7jpAw6cADa2sE8=/287x162/filters:strip_icc():quality(70)/vidio-media-production/uploads/livestreaming/schedule/thumbnail/5062752/f0c3dc.jpg"/>
@@ -8240,17 +8239,17 @@
     <desc lang="id">Lifeblood: Climbing the Mountain</desc>
     <icon src="https://thumbor.prod.vidiocdn.com/xiN-u5MIG7jgOVE2tB_TUIynz7k=/287x162/filters:strip_icc():quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/image/6317/bein-3-616b1c.jpg"/>
   </programme>
-  <programme channel="6317" start="20260509165500 +0000" stop="20260509190000 +0000">
+  <programme channel="6317" start="20260509165500 +0000" stop="20260509190500 +0000">
     <title lang="id">Galatasaray vs Antalyaspor - Trendyol Super Lig</title>
     <desc lang="id">Nonton streaming pertandingan seru Galatasaray vs Antalyaspor - Trendyol Super Lig. Saksikan aksi-aksi terbaik dari tim yang bersaing ketat untuk meraih kemenangan. Dapatkan informasi lengkap mengenai jadwal pertandingan dan hasil pertandingan terbaru hanya di Vidio.</desc>
     <icon src="https://thumbor.prod.vidiocdn.com/ZOlpaL1yjdn7yvd7PeZWkQGfXGA=/287x162/filters:strip_icc():quality(70)/vidio-media-production/uploads/livestreaming/schedule/thumbnail/5064134/8fcc93.jpg"/>
   </programme>
-  <programme channel="6317" start="20260509165500 +0000" stop="20260509190000 +0000">
+  <programme channel="6317" start="20260509165500 +0000" stop="20260509190500 +0000">
     <title lang="id">Galatasaray vs Antalyaspor - Trendyol Super Lig</title>
     <desc lang="id">Nonton streaming pertandingan seru Galatasaray vs Antalyaspor - Trendyol Super Lig. Saksikan aksi-aksi terbaik dari tim yang bersaing ketat untuk meraih kemenangan. Dapatkan informasi lengkap mengenai jadwal pertandingan dan hasil pertandingan terbaru hanya di Vidio.</desc>
     <icon src="https://thumbor.prod.vidiocdn.com/ZOlpaL1yjdn7yvd7PeZWkQGfXGA=/287x162/filters:strip_icc():quality(70)/vidio-media-production/uploads/livestreaming/schedule/thumbnail/5064134/8fcc93.jpg"/>
   </programme>
-  <programme channel="6317" start="20260509190000 +0000" stop="20260509200000 +0000">
+  <programme channel="6317" start="20260509190500 +0000" stop="20260509200000 +0000">
     <title lang="id">Rio de Janeiro , Brazil : SailGP Highlights 2026</title>
     <desc lang="id">Rio de Janeiro , Brazil</desc>
     <icon src="https://thumbor.prod.vidiocdn.com/xiN-u5MIG7jgOVE2tB_TUIynz7k=/287x162/filters:strip_icc():quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/image/6317/bein-3-616b1c.jpg"/>
@@ -9247,18 +9246,14 @@
     <desc lang="id">Indah, siswi SMA yang diteror kejadian supranatural di rumah neneknya. Teror makin intensif saat malam satu suro, sosok Ayu memaksa Indah melawan kutukan dan kekuatan gaib.</desc>
     <icon src="https://thumbor.prod.vidiocdn.com/20tRQaK9Gps_wFQL5rY-XgRbrs4=/287x162/filters:strip_icc():quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/image/782/antv-de8530.jpg"/>
   </programme>
-  <programme channel="782" start="20260509164300 +0000" stop="20260509180000 +0000">
+  <programme channel="782" start="20260509164300 +0000" stop="20260509181500 +0000">
     <title lang="id">Sinema Laga Klasik: Menentang Maut</title>
     <desc lang="id">Usaha penyelamatan para korban yang terjebak dalam terowongan ICA. ICA memutuskan untuk mengangkut alat pengebor terowongan itu dengan pesawat dan truk mercy untuk menghindari sabotase saingan.</desc>
     <icon src="https://thumbor.prod.vidiocdn.com/20tRQaK9Gps_wFQL5rY-XgRbrs4=/287x162/filters:strip_icc():quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/image/782/antv-de8530.jpg"/>
   </programme>
-  <programme channel="782" start="20260509164300 +0000" stop="20260509180000 +0000">
+  <programme channel="782" start="20260509164300 +0000" stop="20260509181500 +0000">
     <title lang="id">Sinema Laga Klasik: Menentang Maut</title>
     <desc lang="id">Usaha penyelamatan para korban yang terjebak dalam terowongan ICA. ICA memutuskan untuk mengangkut alat pengebor terowongan itu dengan pesawat dan truk mercy untuk menghindari sabotase saingan.</desc>
-    <icon src="https://thumbor.prod.vidiocdn.com/20tRQaK9Gps_wFQL5rY-XgRbrs4=/287x162/filters:strip_icc():quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/image/782/antv-de8530.jpg"/>
-  </programme>
-  <programme channel="782" start="20260509180000 +0000" stop="20260509181500 +0000">
-    <title lang="id">Mr. Bean</title>
     <icon src="https://thumbor.prod.vidiocdn.com/20tRQaK9Gps_wFQL5rY-XgRbrs4=/287x162/filters:strip_icc():quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/image/782/antv-de8530.jpg"/>
   </programme>
   <programme channel="782" start="20260509181500 +0000" stop="20260509204500 +0000">
@@ -13180,25 +13175,20 @@
     <desc lang="id">Roland Garros 2025 - Rafa Nadal Tribute</desc>
     <icon src="https://thumbor.prod.vidiocdn.com/VmoYokSeKr_3SubUXC-rMC-EtQM=/287x162/filters:strip_icc():quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/image/17875/bein-2-25a5f9.jpg"/>
   </programme>
-  <programme channel="17875" start="20260509113000 +0000" stop="20260509183000 +0000">
+  <programme channel="17875" start="20260509113000 +0000" stop="20260509183600 +0000">
     <title lang="id">Race: TotalEnergies 6 Hours of Spa-Francorchamps, Belgium - WEC 2026</title>
     <desc lang="id">Nonton streaming pertandingan seru Race: TotalEnergies 6 Hours of Spa-Francorchamps, Belgium - WEC 2026. Saksikan aksi-aksi terbaik dari tim yang bersaing ketat untuk meraih kemenangan. Dapatkan informasi lengkap mengenai jadwal pertandingan dan hasil pertandingan terbaru hanya di Vidio.</desc>
     <icon src="https://thumbor.prod.vidiocdn.com/ERGt2UL8c_Vt8P6-dz-T1aByyMM=/287x162/filters:strip_icc():quality(70)/vidio-media-production/uploads/livestreaming/schedule/thumbnail/5062771/ff9151.jpg"/>
   </programme>
-  <programme channel="17875" start="20260509113000 +0000" stop="20260509183000 +0000">
+  <programme channel="17875" start="20260509113000 +0000" stop="20260509183600 +0000">
     <title lang="id">Race: TotalEnergies 6 Hours of Spa-Francorchamps, Belgium - WEC 2026</title>
     <desc lang="id">Nonton streaming pertandingan seru Race: TotalEnergies 6 Hours of Spa-Francorchamps, Belgium - WEC 2026. Saksikan aksi-aksi terbaik dari tim yang bersaing ketat untuk meraih kemenangan. Dapatkan informasi lengkap mengenai jadwal pertandingan dan hasil pertandingan terbaru hanya di Vidio.</desc>
     <icon src="https://thumbor.prod.vidiocdn.com/ERGt2UL8c_Vt8P6-dz-T1aByyMM=/287x162/filters:strip_icc():quality(70)/vidio-media-production/uploads/livestreaming/schedule/thumbnail/5062771/ff9151.jpg"/>
   </programme>
-  <programme channel="17875" start="20260509183000 +0000" stop="20260509200000 +0000">
+  <programme channel="17875" start="20260509183600 +0000" stop="20260509210000 +0000">
     <title lang="id">Asuncion P2 Premier Padel - Semifinals</title>
     <desc lang="id">Nonton streaming pertandingan seru Asuncion P2 Premier Padel - Semifinals. Saksikan aksi-aksi terbaik dari tim yang bersaing ketat untuk meraih kemenangan. Dapatkan informasi lengkap mengenai jadwal pertandingan dan hasil pertandingan terbaru hanya di Vidio.</desc>
     <icon src="https://thumbor.prod.vidiocdn.com/CNOtcVZwrOtOat8TrbKbZg-M12s=/287x162/filters:strip_icc():quality(70)/vidio-media-production/uploads/livestreaming/schedule/thumbnail/5062773/877e2e.jpg"/>
-  </programme>
-  <programme channel="17875" start="20260509200000 +0000" stop="20260509210000 +0000">
-    <title lang="id">Miami P1 Day 3 Match 1 : Premier Padel 2026</title>
-    <desc lang="id">Miami P1 Day 3 Match 1</desc>
-    <icon src="https://thumbor.prod.vidiocdn.com/VmoYokSeKr_3SubUXC-rMC-EtQM=/287x162/filters:strip_icc():quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/image/17875/bein-2-25a5f9.jpg"/>
   </programme>
   <programme channel="17875" start="20260509210000 +0000" stop="20260510000000 +0000">
     <title lang="id">Asuncion P2 Premier Padel - Semifinals</title>
@@ -13997,27 +13987,26 @@
     <title lang="id">Filler</title>
     <icon src="https://thumbor.prod.vidiocdn.com/nY0aFklpYf6yONLaFJjxhiSuthc=/287x162/filters:strip_icc():quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/image/6786/champions-tv-3-76ca7c.jpg"/>
   </programme>
-  <programme channel="6786" start="20260509154500 +0000" stop="20260509170000 +0000">
+  <programme channel="6786" start="20260509154500 +0000" stop="20260509175100 +0000">
     <title lang="id">LAZIO vs INTER : Serie A 2025/26</title>
     <desc lang="id">LAZIO vs INTER</desc>
     <icon src="https://thumbor.prod.vidiocdn.com/nY0aFklpYf6yONLaFJjxhiSuthc=/287x162/filters:strip_icc():quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/image/6786/champions-tv-3-76ca7c.jpg"/>
   </programme>
-  <programme channel="6786" start="20260509154500 +0000" stop="20260509170000 +0000">
+  <programme channel="6786" start="20260509154500 +0000" stop="20260509175100 +0000">
     <title lang="id">LAZIO vs INTER : Serie A 2025/26</title>
     <desc lang="id">LAZIO vs INTER</desc>
     <icon src="https://thumbor.prod.vidiocdn.com/nY0aFklpYf6yONLaFJjxhiSuthc=/287x162/filters:strip_icc():quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/image/6786/champions-tv-3-76ca7c.jpg"/>
   </programme>
-  <programme channel="6786" start="20260509170000 +0000" stop="20260509180000 +0000">
-    <title lang="id">LAZIO vs INTER : Serie A 2025/26</title>
-    <desc lang="id">LAZIO vs INTER</desc>
+  <programme channel="6786" start="20260509175100 +0000" stop="20260509180000 +0000">
+    <title lang="id">Filler</title>
     <icon src="https://thumbor.prod.vidiocdn.com/nY0aFklpYf6yONLaFJjxhiSuthc=/287x162/filters:strip_icc():quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/image/6786/champions-tv-3-76ca7c.jpg"/>
   </programme>
-  <programme channel="6786" start="20260509180000 +0000" stop="20260509183000 +0000">
+  <programme channel="6786" start="20260509180000 +0000" stop="20260509182900 +0000">
     <title lang="id">Inside - Round 36 : Serie A 2025/26 - Magazine</title>
     <desc lang="id">Inside - Round 36</desc>
     <icon src="https://thumbor.prod.vidiocdn.com/nY0aFklpYf6yONLaFJjxhiSuthc=/287x162/filters:strip_icc():quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/image/6786/champions-tv-3-76ca7c.jpg"/>
   </programme>
-  <programme channel="6786" start="20260509183000 +0000" stop="20260509205000 +0000">
+  <programme channel="6786" start="20260509182900 +0000" stop="20260509205000 +0000">
     <title lang="id">LECCE vs JUVENTUS : Serie A 2025/26</title>
     <desc lang="id">LECCE vs JUVENTUS</desc>
     <icon src="https://thumbor.prod.vidiocdn.com/nY0aFklpYf6yONLaFJjxhiSuthc=/287x162/filters:strip_icc():quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/image/6786/champions-tv-3-76ca7c.jpg"/>
@@ -17094,17 +17083,17 @@
     <desc lang="id">Nonton streaming pertandingan seru Sunderland vs Man United - Premier League. Saksikan aksi-aksi terbaik dari tim yang bersaing ketat untuk meraih kemenangan. Dapatkan informasi lengkap mengenai jadwal pertandingan dan hasil pertandingan terbaru hanya di Vidio.</desc>
     <icon src="https://thumbor.prod.vidiocdn.com/Xkpe4Euiw_-cU22RTpOr2smJ-L8=/287x162/filters:strip_icc():quality(70)/vidio-media-production/uploads/livestreaming/schedule/thumbnail/5062197/029a61.jpg"/>
   </programme>
-  <programme channel="9182" start="20260509160200 +0000" stop="20260509184200 +0000">
+  <programme channel="9182" start="20260509160200 +0000" stop="20260509183800 +0000">
     <title lang="id">Man City vs Brentford - Premier League</title>
     <desc lang="id">Nonton streaming pertandingan seru Man City vs Brentford - Premier League. Saksikan aksi-aksi terbaik dari tim yang bersaing ketat untuk meraih kemenangan. Dapatkan informasi lengkap mengenai jadwal pertandingan dan hasil pertandingan terbaru hanya di Vidio.</desc>
     <icon src="https://thumbor.prod.vidiocdn.com/qrw6QgbWzNQwfduzw7CUKUCjv5g=/287x162/filters:strip_icc():quality(70)/vidio-media-production/uploads/livestreaming/schedule/thumbnail/5062199/36cfbb.jpg"/>
   </programme>
-  <programme channel="9182" start="20260509160200 +0000" stop="20260509184200 +0000">
+  <programme channel="9182" start="20260509160200 +0000" stop="20260509183800 +0000">
     <title lang="id">Man City vs Brentford - Premier League</title>
     <desc lang="id">Nonton streaming pertandingan seru Man City vs Brentford - Premier League. Saksikan aksi-aksi terbaik dari tim yang bersaing ketat untuk meraih kemenangan. Dapatkan informasi lengkap mengenai jadwal pertandingan dan hasil pertandingan terbaru hanya di Vidio.</desc>
     <icon src="https://thumbor.prod.vidiocdn.com/qrw6QgbWzNQwfduzw7CUKUCjv5g=/287x162/filters:strip_icc():quality(70)/vidio-media-production/uploads/livestreaming/schedule/thumbnail/5062199/36cfbb.jpg"/>
   </programme>
-  <programme channel="9182" start="20260509184200 +0000" stop="20260509190000 +0000">
+  <programme channel="9182" start="20260509183800 +0000" stop="20260509190000 +0000">
     <title lang="id">Eps 35 : PL Netbuster 2025-26</title>
     <desc lang="id">Eps 35</desc>
     <icon src="https://thumbor.prod.vidiocdn.com/r_QaZubFaj9Ht_TI2kDgdImcRqY=/287x162/filters:strip_icc():quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/image/9182/champions-tv-5-e0dd48.jpg"/>
@@ -22210,9 +22199,9 @@
     <icon src="https://thumbor.prod.vidiocdn.com/YBK8XRc1cWJx0JfM3CWo6PnTfFY=/287x162/filters:strip_icc():quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/image/17139/spotv-c18c69.jpg"/>
   </programme>
   <programme channel="17139" start="20260510053000 +0000" stop="20260510100000 +0000">
-    <title lang="id">Race 2 : 2026 FIM ARRC: Rd 2 Buriram, Thailand</title>
-    <desc lang="id">Asia's top riders battle across premier circuits in the FIM Asia Road Racing Championship, delivering high-speed action, fierce rivalries, and thrilling two-wheel competition.</desc>
-    <icon src="https://thumbor.prod.vidiocdn.com/YBK8XRc1cWJx0JfM3CWo6PnTfFY=/287x162/filters:strip_icc():quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/image/17139/spotv-c18c69.jpg"/>
+    <title lang="id">Race 2 - Asia Road Racing Championship 2026: Round 2 Buriram, Thailand</title>
+    <desc lang="id">Nonton streaming pertandingan seru Race 2 - Asia Road Racing Championship 2026: Round 2 Buriram, Thailand. Saksikan aksi-aksi terbaik dari tim yang bersaing ketat untuk meraih kemenangan. Dapatkan informasi lengkap mengenai jadwal pertandingan dan hasil pertandingan terbaru hanya di Vidio.</desc>
+    <icon src="https://thumbor.prod.vidiocdn.com/T6ubABpyH7gHz60gv_9JdGhjh4c=/287x162/filters:strip_icc():quality(70)/vidio-media-production/uploads/livestreaming/schedule/thumbnail/5068922/1c9628.jpg"/>
   </programme>
   <programme channel="17139" start="20260510100000 +0000" stop="20260510120000 +0000">
     <title lang="id">Hibernian vs Celtic : 25/26 Scottish Premiership Round 35</title>

@@ -4664,7 +4664,7 @@
         <title>Andakakasam S04</title>
     </programme>
     <programme start="20260510073000 +0000" stop="20260510103000 +0000" channel="Vijay TV HD.starhub">
-        <title>TBA</title>
+        <title>Neeya Naana World Tour - Singapore 2026</title>
     </programme>
     <programme start="20260510103000 +0000" stop="20260510120000 +0000" channel="Vijay TV HD.starhub">
         <title>Super Singer Junior S11</title>
