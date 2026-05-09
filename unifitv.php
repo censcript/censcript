@@ -8725,98 +8725,98 @@
   <programme start="20260508155500 +0000" stop="20260508162000 +0000" channel="dreamworkshd.unifitv">
     <title lang="en">Fast &amp; Furious: Spy Racers</title>
     <desc lang="en">The kids battle Shashi in Las Vegas as Shashi tries to take down evil billionaire Cleve and use Skeleton Key to create a new world order. Frostee has a plan to get Skeleton Key offline, but it only gives Tony ten seconds to take Shashi out and save the world.</desc>
-    <category lang="en">Kids</category>
+    <category lang="en">Action</category>
     <episode-num system="xmltv_ns">0.7.</episode-num>
     <episode-num system="onscreen">S1E8</episode-num>
   </programme>
   <programme start="20260508162000 +0000" stop="20260508164500 +0000" channel="dreamworkshd.unifitv">
     <title lang="en">Fast &amp; Furious: Spy Racers</title>
     <desc lang="en">Tony and his crew have been working as spy racers in LA for a while now and are itching to go international. Whey they discover a mysterious man with a strange tattoo of a formula in a smuggling ring bust, Ms. Nowhere finally agrees to let them go to Rio to investigate the tattoo and the whereabouts of one of her agents who has gone dark - Layla Gray.</desc>
-    <category lang="en">Kids</category>
+    <category lang="en">Action</category>
     <episode-num system="xmltv_ns">0.8.</episode-num>
     <episode-num system="onscreen">S1E9</episode-num>
   </programme>
   <programme start="20260508164500 +0000" stop="20260508171000 +0000" channel="dreamworkshd.unifitv">
     <title lang="en">3Below: Tales of Arcadia</title>
     <desc lang="en">When Omen hijacks the Mothership and Royal Cores, all seems lost for our heroes. The Royal heirs are able to defeat the killer Blank, but at a high cost.</desc>
-    <category lang="en">Kids</category>
+    <category lang="en">Animation</category>
     <episode-num system="xmltv_ns">0.12.</episode-num>
     <episode-num system="onscreen">S1E13</episode-num>
   </programme>
   <programme start="20260508171000 +0000" stop="20260508173500 +0000" channel="dreamworkshd.unifitv">
     <title lang="en">3Below: Tales of Arcadia</title>
     <desc lang="en">After last season's victory, Aja and Krel struggle to relocate Mothership back to their Arcadia Oaks neighborhood, but their task is complicated when Toby and Eli discover the Royals' Akiridion secret.</desc>
-    <category lang="en">Kids</category>
+    <category lang="en">Animation</category>
     <episode-num system="xmltv_ns">0.13.</episode-num>
     <episode-num system="onscreen">S1E14</episode-num>
   </programme>
   <programme start="20260508173500 +0000" stop="20260508180000 +0000" channel="dreamworkshd.unifitv">
     <title lang="en">3Below: Tales of Arcadia</title>
     <desc lang="en">Aja and Krel hitch a ride in Stuart's old UFO on a mission to rescue Vex from a bounty hunter outpost on the Moon. Meanwhile, Zadra receives intel about Morando from a surprising new ally.</desc>
-    <category lang="en">Kids</category>
+    <category lang="en">Animation</category>
     <episode-num system="xmltv_ns">0.14.</episode-num>
     <episode-num system="onscreen">S1E15</episode-num>
   </programme>
   <programme start="20260508180000 +0000" stop="20260508182500 +0000" channel="dreamworkshd.unifitv">
     <title lang="en">Turbo F.A.S.T.</title>
     <desc lang="en">Chet, Skidmark and Smoove Move bring swamp toad Marty on an adventure; The snails fumble taking care of a lost human child left at the taco stand.</desc>
-    <category lang="en">Kids</category>
+    <category lang="en">Family</category>
     <episode-num system="xmltv_ns">1.30.</episode-num>
     <episode-num system="onscreen">S2E31</episode-num>
   </programme>
   <programme start="20260508182500 +0000" stop="20260508185000 +0000" channel="dreamworkshd.unifitv">
     <title lang="en">Turbo F.A.S.T.</title>
     <desc lang="en">A mix-up puts the FAST crew on a rocket bound for outer space; The crew must work together to avoid space madness, debris ... and a fiery re-entry.</desc>
-    <category lang="en">Kids</category>
+    <category lang="en">Family</category>
     <episode-num system="xmltv_ns">1.31.</episode-num>
     <episode-num system="onscreen">S2E32</episode-num>
   </programme>
   <programme start="20260508185000 +0000" stop="20260508191500 +0000" channel="dreamworkshd.unifitv">
     <title lang="en">Archibald's Next Big Thing Is Here!</title>
     <desc lang="en">Archibald takes care of a lost egg for the day. But when the egg starts to crack, Archibald has to get the egg back to its parents. / After Archibald's arms fall asleep, he joins a dojo ran by snakes and embraces a life without appendages.</desc>
-    <category lang="en">Kids</category>
+    <category lang="en">Family</category>
     <episode-num system="xmltv_ns">1.30.</episode-num>
     <episode-num system="onscreen">S2E31</episode-num>
   </programme>
   <programme start="20260508191500 +0000" stop="20260508194000 +0000" channel="dreamworkshd.unifitv">
     <title lang="en">Archibald's Next Big Thing Is Here!</title>
     <desc lang="en">Archibald and his siblings embark on a quest in a Castles and Caves adventure game. As the Strutters delve into the fantasy realm, they realize that Archibald's unusual choices will make the quest even more challenging. / Archibald and his siblings continue on their Castles and Caves adventure game. When they face off against the witch, they have to trust Archibald's unique approach to hopefully win the game.</desc>
-    <category lang="en">Kids</category>
+    <category lang="en">Family</category>
     <episode-num system="xmltv_ns">1.31.</episode-num>
     <episode-num system="onscreen">S2E32</episode-num>
   </programme>
   <programme start="20260508194000 +0000" stop="20260508200500 +0000" channel="dreamworkshd.unifitv">
     <title lang="en">Spirit Riding Free: Pony Tales</title>
     <desc lang="en">While riding back to Miradero, the girls get lost -- and Abigail's horse gets bitten by a snake! Can an old friend's skills help save the day?</desc>
-    <category lang="en">Kids</category>
+    <category lang="en">Family</category>
     <episode-num system="xmltv_ns">2.55.</episode-num>
     <episode-num system="onscreen">S3E56</episode-num>
   </programme>
   <programme start="20260508200500 +0000" stop="20260508203000 +0000" channel="dreamworkshd.unifitv">
     <title lang="en">Voltron: Legendary Defender</title>
     <desc lang="en">A paladinis trapped in a distant Galra outpost</desc>
-    <category lang="en">Kids</category>
+    <category lang="en">Action</category>
     <episode-num system="xmltv_ns">1.30.</episode-num>
     <episode-num system="onscreen">S2E31</episode-num>
   </programme>
   <programme start="20260508203000 +0000" stop="20260508210000 +0000" channel="dreamworkshd.unifitv">
     <title lang="en">Team Zenko Go</title>
     <desc lang="en">When Donna decides to show off her not-so-flashy skills as a magician at the Community Center talent show, the Zenkos must do everything they can to save her act from becoming an embarrassing disaster. / After Sam's favorite skateboard accidentally gets put in with donations Mr. Tanaka is collecting for a fundraiser, the team is led on a merry chase as the skateboard passes from one Harmony Harbor denizen to another.</desc>
-    <category lang="en">Kids</category>
+    <category lang="en">Family</category>
     <episode-num system="xmltv_ns">0.4.</episode-num>
     <episode-num system="onscreen">S1E5</episode-num>
   </programme>
   <programme start="20260508210000 +0000" stop="20260508213000 +0000" channel="dreamworkshd.unifitv">
     <title lang="en">Veggietales: In The House</title>
     <desc lang="en">Larry takes a verse seriously and glues himself to Bob/Bob, Larry, Jimmy, and Jerry gather their money to buy a Thunderlion Ultraveggie action figure</desc>
-    <category lang="en">Kids</category>
+    <category lang="en">Family</category>
     <episode-num system="xmltv_ns">1.34.</episode-num>
     <episode-num system="onscreen">S2E35</episode-num>
   </programme>
   <programme start="20260508213000 +0000" stop="20260508220000 +0000" channel="dreamworkshd.unifitv">
     <title lang="en">Veggietales: In The House</title>
     <desc lang="en">Larry loses his only tooth so Madame Clueberry tries to help find it/Bob and Larry build a fishing boat but it leaks and Motato wants to overtake it</desc>
-    <category lang="en">Kids</category>
+    <category lang="en">Family</category>
     <episode-num system="xmltv_ns">1.35.</episode-num>
     <episode-num system="onscreen">S2E36</episode-num>
   </programme>
@@ -8837,280 +8837,280 @@
   <programme start="20260508225000 +0000" stop="20260508231500 +0000" channel="dreamworkshd.unifitv">
     <title lang="en">Gabby's Dollhouse</title>
     <desc lang="en">When the Gabby Cats get stuck in the leaves of an overgrown cupcake tree, it's up to Gabby, Pandy and cupcake-expert Cakey to work together to shrink the overgrown cupcake tree branch by branch--and to save CatRat from where he's stuck at the top! For our COTD segment, Cakey sings a song!</desc>
-    <category lang="en">Kids</category>
+    <category lang="en">Animation</category>
     <episode-num system="xmltv_ns">1.35.</episode-num>
     <episode-num system="onscreen">S2E36</episode-num>
   </programme>
   <programme start="20260508231500 +0000" stop="20260508234000 +0000" channel="dreamworkshd.unifitv">
     <title lang="en">Gabby's Dollhouse</title>
     <desc lang="en">Kitty Fairy's garden is transformed into a fairy-riffic fairground for The Fairy Festival! At the festival, Gabby and Pandy meet an excitable little fairy named Luli-loo who joins them as they explore the festival. Luli-loo may not be the best at all the fair games, but she's never afraid to give it a go and learn from her mistakes!</desc>
-    <category lang="en">Kids</category>
+    <category lang="en">Animation</category>
     <episode-num system="xmltv_ns">1.36.</episode-num>
     <episode-num system="onscreen">S2E37</episode-num>
   </programme>
   <programme start="20260508234000 +0000" stop="20260509000500 +0000" channel="dreamworkshd.unifitv">
     <title lang="en">Dragons: Rescue Riders</title>
     <desc lang="en">Burple and Winger each injure a wing while they're with Dak, and only teamwork can get them home. At the roost, Cutter gets stuck in a puddle of goo.</desc>
-    <category lang="en">Kids</category>
+    <category lang="en">Animation</category>
     <episode-num system="xmltv_ns">0.10.</episode-num>
     <episode-num system="onscreen">S1E11</episode-num>
   </programme>
   <programme start="20260509000500 +0000" stop="20260509003000 +0000" channel="dreamworkshd.unifitv">
     <title lang="en">Dragons: Rescue Riders</title>
     <desc lang="en">The Rescue Riders have a "Dragon Day" to show their skills to a young fan, but Aggro skips it to hang out with her new fun -- but reckless -- friends.</desc>
-    <category lang="en">Kids</category>
+    <category lang="en">Animation</category>
     <episode-num system="xmltv_ns">0.11.</episode-num>
     <episode-num system="onscreen">S1E12</episode-num>
   </programme>
   <programme start="20260509003000 +0000" stop="20260509005500 +0000" channel="dreamworkshd.unifitv">
     <title lang="en">Team Zenko Go</title>
     <desc lang="en">Little Lula has set up a lemonade stand, but she's not getting any business. The Zenkos swing into action to send customers her way. / When Donna, Fawna and Rona have a spat, the triplets' longstanding annual tradition of viewing a comet together is in jeopardy. Now it's up to Team Zenko to get the three feuding sisters back together again before the comet streaks by.</desc>
-    <category lang="en">Kids</category>
+    <category lang="en">Family</category>
     <episode-num system="xmltv_ns">0.5.</episode-num>
     <episode-num system="onscreen">S1E6</episode-num>
   </programme>
   <programme start="20260509005500 +0000" stop="20260509021000 +0000" channel="dreamworkshd.unifitv">
     <title lang="en">Dew Drops Diaries</title>
     <desc lang="en">Lola, Dylan and Cassie have tickets to the carnival, but when Dylan loses his ticket, the Dew Drops set out to find it. / When Phoebe accidentally gets tossed into Nicholas' diaper bag before a trip to the park, Phoebe has to help a baby bird, while Eden and Athena must help Marcus rehearse for his big concert.</desc>
-    <category lang="en">Kids</category>
+    <category lang="en">Animation</category>
     <episode-num system="xmltv_ns">0.5.</episode-num>
     <episode-num system="onscreen">S1E6</episode-num>
   </programme>
   <programme start="20260509021000 +0000" stop="20260509023500 +0000" channel="dreamworkshd.unifitv">
     <title lang="en">Dawn Of The Croods</title>
     <desc lang="en">When Gran moves into the cave with The Croods, she drives Grug nuts and embarrasses Eep in front of the first-ever group of cool kids.</desc>
-    <category lang="en">Kids</category>
+    <category lang="en">Family</category>
     <episode-num system="xmltv_ns">0.0.</episode-num>
     <episode-num system="onscreen">S1E1</episode-num>
   </programme>
   <programme start="20260509023500 +0000" stop="20260509030000 +0000" channel="dreamworkshd.unifitv">
     <title lang="en">Dawn Of The Croods</title>
     <desc lang="en">When teamed up with her new friend Lerk, Eep's competitive side takes over when she sets out to win the first-ever school hunting exam at any cost.</desc>
-    <category lang="en">Kids</category>
+    <category lang="en">Family</category>
     <episode-num system="xmltv_ns">0.1.</episode-num>
     <episode-num system="onscreen">S1E2</episode-num>
   </programme>
   <programme start="20260509030000 +0000" stop="20260509032500 +0000" channel="dreamworkshd.unifitv">
     <title lang="en">Dawn Of The Croods</title>
     <desc lang="en">When Eep and Thunk challenge each other in the first-ever dare-off, Thunk faces the deep end - his greatest fear; Grug picks a fight with the moon.</desc>
-    <category lang="en">Kids</category>
+    <category lang="en">Family</category>
     <episode-num system="xmltv_ns">0.2.</episode-num>
     <episode-num system="onscreen">S1E3</episode-num>
   </programme>
   <programme start="20260509032500 +0000" stop="20260509035000 +0000" channel="dreamworkshd.unifitv">
     <title lang="en">Dawn Of The Croods</title>
     <desc lang="en">When snobby neighbors move in next door and complain about a bone pile blocking their backyard view, The Croods launch into the first-ever prank war.</desc>
-    <category lang="en">Kids</category>
+    <category lang="en">Family</category>
     <episode-num system="xmltv_ns">0.3.</episode-num>
     <episode-num system="onscreen">S1E4</episode-num>
   </programme>
   <programme start="20260509035000 +0000" stop="20260509041500 +0000" channel="dreamworkshd.unifitv">
     <title lang="en">Dawn Of The Croods</title>
     <desc lang="en">When Thunk invents the first-ever movie using shadow puppets, everyone in Ahhh! Valley loves it...until they are shocked by the ending.</desc>
-    <category lang="en">Kids</category>
+    <category lang="en">Family</category>
     <episode-num system="xmltv_ns">0.4.</episode-num>
     <episode-num system="onscreen">S1E5</episode-num>
   </programme>
   <programme start="20260509041500 +0000" stop="20260509044000 +0000" channel="dreamworkshd.unifitv">
     <title lang="en">Dawn Of The Croods</title>
     <desc lang="en">When Grug and Ugga leave the kids alone on date night, Eep throws the first-ever house party that rages out of control and almost destroys the cave.</desc>
-    <category lang="en">Kids</category>
+    <category lang="en">Family</category>
     <episode-num system="xmltv_ns">0.5.</episode-num>
     <episode-num system="onscreen">S1E6</episode-num>
   </programme>
   <programme start="20260509044000 +0000" stop="20260509050500 +0000" channel="dreamworkshd.unifitv">
     <title lang="en">Spirit Riding Free</title>
     <desc lang="en">A wild horse Spirit and a soontobe city girl Lucky become friends in a frontier town</desc>
-    <category lang="en">Kids</category>
+    <category lang="en">Action</category>
     <episode-num system="xmltv_ns">0.0.</episode-num>
     <episode-num system="onscreen">S1E1</episode-num>
   </programme>
   <programme start="20260509050500 +0000" stop="20260509053000 +0000" channel="dreamworkshd.unifitv">
     <title lang="en">Spirit Riding Free</title>
     <desc lang="en">Lucky Spirit and Turo team up to help save an abused horse</desc>
-    <category lang="en">Kids</category>
+    <category lang="en">Action</category>
     <episode-num system="xmltv_ns">0.4.</episode-num>
     <episode-num system="onscreen">S1E5</episode-num>
   </programme>
   <programme start="20260509053000 +0000" stop="20260509055500 +0000" channel="dreamworkshd.unifitv">
     <title lang="en">Spirit Riding Free</title>
     <desc lang="en">When a sudden blizzard hits Miradero, Lucky and Maricela must work together to save the town.</desc>
-    <category lang="en">Kids</category>
+    <category lang="en">Action</category>
     <episode-num system="xmltv_ns">0.11.</episode-num>
     <episode-num system="onscreen">S1E12</episode-num>
   </programme>
   <programme start="20260509055500 +0000" stop="20260509062000 +0000" channel="dreamworkshd.unifitv">
     <title lang="en">Spirit Riding Free</title>
     <desc lang="en">Grayson wrangles Spirit "fair and square" and sends him to auction in another town --and there is nothing Lucky can do to stop him!</desc>
-    <category lang="en">Kids</category>
+    <category lang="en">Action</category>
     <episode-num system="xmltv_ns">0.12.</episode-num>
     <episode-num system="onscreen">S1E13</episode-num>
   </programme>
   <programme start="20260509062000 +0000" stop="20260509064500 +0000" channel="dreamworkshd.unifitv">
     <title lang="en">Spirit Riding Free</title>
     <desc lang="en">Spirit and Lucky desperately try to find a way back to one another.</desc>
-    <category lang="en">Kids</category>
+    <category lang="en">Action</category>
     <episode-num system="xmltv_ns">0.13.</episode-num>
     <episode-num system="onscreen">S1E14</episode-num>
   </programme>
   <programme start="20260509064500 +0000" stop="20260509071000 +0000" channel="dreamworkshd.unifitv">
     <title lang="en">Spirit Riding Free</title>
     <desc lang="en">The girl's plans to attend the Governor's Ball are waylaid when they save a pregnant horse.</desc>
-    <category lang="en">Kids</category>
+    <category lang="en">Action</category>
     <episode-num system="xmltv_ns">0.14.</episode-num>
     <episode-num system="onscreen">S1E15</episode-num>
   </programme>
   <programme start="20260509071000 +0000" stop="20260509073500 +0000" channel="dreamworkshd.unifitv">
     <title lang="en">Dragons: Defenders of Berk</title>
     <desc lang="en">Hiccup and the gang start a secret club to prepare for the Outcast offensive.</desc>
-    <category lang="en">Kids</category>
+    <category lang="en">Action</category>
     <episode-num system="xmltv_ns">0.0.</episode-num>
     <episode-num system="onscreen">S1E1</episode-num>
   </programme>
   <programme start="20260509073500 +0000" stop="20260509080000 +0000" channel="dreamworkshd.unifitv">
     <title lang="en">Dragons: Defenders of Berk</title>
     <desc lang="en">When Meatlug accidentally ingests magnetic rocks, she becomes magnetic herself - causing destruction through the town, but ultimately helping the kids win a battle against the Outcasts.</desc>
-    <category lang="en">Kids</category>
+    <category lang="en">Action</category>
     <episode-num system="xmltv_ns">0.1.</episode-num>
     <episode-num system="onscreen">S1E2</episode-num>
   </programme>
   <programme start="20260509080000 +0000" stop="20260509082500 +0000" channel="dreamworkshd.unifitv">
     <title lang="en">Dragons: Race to the Edge</title>
     <desc lang="en">Astrid comes down with the Odin's Revenge flu and the Riders must search for the cure by finding a nearly extinct Buffalord dragon before Viggo does.</desc>
-    <category lang="en">Kids</category>
+    <category lang="en">Action</category>
     <episode-num system="xmltv_ns">1.30.</episode-num>
     <episode-num system="onscreen">S2E31</episode-num>
   </programme>
   <programme start="20260509082500 +0000" stop="20260509085000 +0000" channel="dreamworkshd.unifitv">
     <title lang="en">Dragons: Race to the Edge</title>
     <desc lang="en">The Riders head to a tropical island for fun in the sun, not realizing it's infested with Grimora Leeches which drives their dragons to turn on them.</desc>
-    <category lang="en">Kids</category>
+    <category lang="en">Action</category>
     <episode-num system="xmltv_ns">1.31.</episode-num>
     <episode-num system="onscreen">S2E32</episode-num>
   </programme>
   <programme start="20260509085000 +0000" stop="20260509091500 +0000" channel="dreamworkshd.unifitv">
     <title lang="en">Dragons: Race to the Edge</title>
     <desc lang="en">When Heather and Windshear land on Dragon's Edge to join the Dragon Rider crew, they quickly discover that Windshear doesn't play well with others.</desc>
-    <category lang="en">Kids</category>
+    <category lang="en">Action</category>
     <episode-num system="xmltv_ns">1.32.</episode-num>
     <episode-num system="onscreen">S2E33</episode-num>
   </programme>
   <programme start="20260509091500 +0000" stop="20260509094000 +0000" channel="dreamworkshd.unifitv">
-    <title lang="en">Boss Baby: Back In Business</title>
+    <title lang="en">Boss Baby: Back in Business</title>
     <desc lang="en">When Baby Corp babies start aging, panic hits the office and the babies set out to find out if someone has been tainting the formula</desc>
-    <category lang="en">Kids</category>
+    <category lang="en">Comedy</category>
     <episode-num system="xmltv_ns">0.3.</episode-num>
     <episode-num system="onscreen">S1E4</episode-num>
   </programme>
   <programme start="20260509094000 +0000" stop="20260509100500 +0000" channel="dreamworkshd.unifitv">
-    <title lang="en">Boss Baby: Back In Business</title>
+    <title lang="en">Boss Baby: Back in Business</title>
     <desc lang="en">The annual baby pageant approaches, but Staci's plan to win may have a negative effect</desc>
-    <category lang="en">Kids</category>
+    <category lang="en">Comedy</category>
     <episode-num system="xmltv_ns">0.4.</episode-num>
     <episode-num system="onscreen">S1E5</episode-num>
   </programme>
   <programme start="20260509100500 +0000" stop="20260509103000 +0000" channel="dreamworkshd.unifitv">
-    <title lang="en">Boss Baby: Back In Business</title>
+    <title lang="en">Boss Baby: Back in Business</title>
     <desc lang="en">Boss Baby struggles to take a sick day even though a mysterious baby cry is wreaking havoc on the neighborhood baby-love</desc>
-    <category lang="en">Kids</category>
+    <category lang="en">Comedy</category>
     <episode-num system="xmltv_ns">0.5.</episode-num>
     <episode-num system="onscreen">S1E6</episode-num>
   </programme>
   <programme start="20260509103000 +0000" stop="20260509105500 +0000" channel="dreamworkshd.unifitv">
-    <title lang="en">The Epic Tales Of Captain Underpants</title>
+    <title lang="en">The Epic Tales of Captain Underpants</title>
     <desc lang="en">After being made fun of for sitting in chocolate pudding, George and Harold go into hiding only to come back to find that everybody has forgotten who they are</desc>
-    <category lang="en">Kids</category>
+    <category lang="en">Comedy</category>
     <episode-num system="xmltv_ns">0.9.</episode-num>
     <episode-num system="onscreen">S1E10</episode-num>
   </programme>
   <programme start="20260509105500 +0000" stop="20260509112000 +0000" channel="dreamworkshd.unifitv">
-    <title lang="en">The Epic Tales Of Captain Underpants</title>
+    <title lang="en">The Epic Tales of Captain Underpants</title>
     <desc lang="en">Tired of mean Mr. Krupp, the boys go back in time to prevent him from becoming a bully, but discover that their plan has backfired when they return to the present</desc>
-    <category lang="en">Kids</category>
+    <category lang="en">Comedy</category>
     <episode-num system="xmltv_ns">0.10.</episode-num>
     <episode-num system="onscreen">S1E11</episode-num>
   </programme>
   <programme start="20260509112000 +0000" stop="20260509114500 +0000" channel="dreamworkshd.unifitv">
-    <title lang="en">The Epic Tales Of Captain Underpants</title>
+    <title lang="en">The Epic Tales of Captain Underpants</title>
     <desc lang="en">In order to retrieve Mr. Krupp's locked up rule book, George and Harold use an invention that ends up turning against them</desc>
-    <category lang="en">Kids</category>
+    <category lang="en">Comedy</category>
     <episode-num system="xmltv_ns">0.11.</episode-num>
     <episode-num system="onscreen">S1E12</episode-num>
   </programme>
   <programme start="20260509114500 +0000" stop="20260509121000 +0000" channel="dreamworkshd.unifitv">
     <title lang="en">Dragons: Race to the Edge</title>
     <desc lang="en">Hiccup and Toothless are captured and must find a way to escape the Dragon Fighting arena and survive an attack from the fearsome Triple Stryke dragon.</desc>
-    <category lang="en">Kids</category>
+    <category lang="en">Action</category>
     <episode-num system="xmltv_ns">1.33.</episode-num>
     <episode-num system="onscreen">S2E34</episode-num>
   </programme>
   <programme start="20260509121000 +0000" stop="20260509123500 +0000" channel="dreamworkshd.unifitv">
     <title lang="en">Dragons: Race to the Edge</title>
     <desc lang="en">After the Riders save a Deathsong egg from the Dragon Hunters, they must take it back to Melody Island when the hatched baby won't stop crying.</desc>
-    <category lang="en">Kids</category>
+    <category lang="en">Action</category>
     <episode-num system="xmltv_ns">1.34.</episode-num>
     <episode-num system="onscreen">S2E35</episode-num>
   </programme>
   <programme start="20260509123500 +0000" stop="20260509130000 +0000" channel="dreamworkshd.unifitv">
     <title lang="en">Dragons: Race to the Edge</title>
     <desc lang="en">When Hiccup and the Riders discover that Viggo is using two captured Catastrophic Quakens to build a dragon prison, they must help the dragons escape.</desc>
-    <category lang="en">Kids</category>
+    <category lang="en">Action</category>
     <episode-num system="xmltv_ns">1.35.</episode-num>
     <episode-num system="onscreen">S2E36</episode-num>
   </programme>
   <programme start="20260509130000 +0000" stop="20260509132500 +0000" channel="dreamworkshd.unifitv">
     <title lang="en">Dawn Of The Croods</title>
     <desc lang="en">When Gran moves into the cave with The Croods, she drives Grug nuts and embarrasses Eep in front of the first-ever group of cool kids.</desc>
-    <category lang="en">Kids</category>
+    <category lang="en">Family</category>
     <episode-num system="xmltv_ns">0.0.</episode-num>
     <episode-num system="onscreen">S1E1</episode-num>
   </programme>
   <programme start="20260509132500 +0000" stop="20260509135000 +0000" channel="dreamworkshd.unifitv">
     <title lang="en">Dawn Of The Croods</title>
     <desc lang="en">When teamed up with her new friend Lerk, Eep's competitive side takes over when she sets out to win the first-ever school hunting exam at any cost.</desc>
-    <category lang="en">Kids</category>
+    <category lang="en">Family</category>
     <episode-num system="xmltv_ns">0.1.</episode-num>
     <episode-num system="onscreen">S1E2</episode-num>
   </programme>
   <programme start="20260509135000 +0000" stop="20260509141500 +0000" channel="dreamworkshd.unifitv">
     <title lang="en">Dawn Of The Croods</title>
     <desc lang="en">When Eep and Thunk challenge each other in the first-ever dare-off, Thunk faces the deep end - his greatest fear; Grug picks a fight with the moon.</desc>
-    <category lang="en">Kids</category>
+    <category lang="en">Family</category>
     <episode-num system="xmltv_ns">0.2.</episode-num>
     <episode-num system="onscreen">S1E3</episode-num>
   </programme>
   <programme start="20260509141500 +0000" stop="20260509144000 +0000" channel="dreamworkshd.unifitv">
     <title lang="en">Dawn Of The Croods</title>
     <desc lang="en">When snobby neighbors move in next door and complain about a bone pile blocking their backyard view, The Croods launch into the first-ever prank war.</desc>
-    <category lang="en">Kids</category>
+    <category lang="en">Family</category>
     <episode-num system="xmltv_ns">0.3.</episode-num>
     <episode-num system="onscreen">S1E4</episode-num>
   </programme>
   <programme start="20260509144000 +0000" stop="20260509150500 +0000" channel="dreamworkshd.unifitv">
     <title lang="en">Dawn Of The Croods</title>
     <desc lang="en">When Thunk invents the first-ever movie using shadow puppets, everyone in Ahhh! Valley loves it...until they are shocked by the ending.</desc>
-    <category lang="en">Kids</category>
+    <category lang="en">Family</category>
     <episode-num system="xmltv_ns">0.4.</episode-num>
     <episode-num system="onscreen">S1E5</episode-num>
   </programme>
   <programme start="20260509150500 +0000" stop="20260509153000 +0000" channel="dreamworkshd.unifitv">
     <title lang="en">Dawn Of The Croods</title>
     <desc lang="en">When Grug and Ugga leave the kids alone on date night, Eep throws the first-ever house party that rages out of control and almost destroys the cave.</desc>
-    <category lang="en">Kids</category>
+    <category lang="en">Family</category>
     <episode-num system="xmltv_ns">0.5.</episode-num>
     <episode-num system="onscreen">S1E6</episode-num>
   </programme>
   <programme start="20260509153000 +0000" stop="20260509155500 +0000" channel="dreamworkshd.unifitv">
     <title lang="en">Spirit Riding Free</title>
     <desc lang="en">When a Tuckapaw boy is unfairly arrested, Lucky and her friends plan to break him out of jail.</desc>
-    <category lang="en">Kids</category>
+    <category lang="en">Action</category>
     <episode-num system="xmltv_ns">0.15.</episode-num>
     <episode-num system="onscreen">S1E16</episode-num>
   </programme>
   <programme start="20260509155500 +0000" stop="20260509162000 +0000" channel="dreamworkshd.unifitv">
     <title lang="en">Spirit Riding Free</title>
     <desc lang="en">When an earthquake takes out the railroad bridge, the PALs must find a way to stop the oncoming train - which Jim is aboard</desc>
-    <category lang="en">Kids</category>
+    <category lang="en">Action</category>
     <episode-num system="xmltv_ns">0.17.</episode-num>
     <episode-num system="onscreen">S1E18</episode-num>
   </programme>

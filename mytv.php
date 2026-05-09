@@ -31,25 +31,25 @@
     <programme start="20260509033200 +0000" stop="20260509041200 +0000" channel="VTV1 HD.mytv">
         <title> Phim truyện : Hãy nói lời yêu - Tập 22 </title>
     </programme>
-    <programme start="20260509041200 +0000" stop="20260509050500 +0000" channel="VTV1 HD.mytv">
+    <programme start="20260509041200 +0000" stop="20260509050400 +0000" channel="VTV1 HD.mytv">
         <title> S - Việt Nam : Đêm không ngủ ở Quảng Ninh </title>
     </programme>
-    <programme start="20260509050500 +0000" stop="20260509051000 +0000" channel="VTV1 HD.mytv">
+    <programme start="20260509050400 +0000" stop="20260509050900 +0000" channel="VTV1 HD.mytv">
         <title> Kinh tế bạc : Nhân lực chăm sóc người cao tuổi </title>
     </programme>
-    <programme start="20260509051000 +0000" stop="20260509053000 +0000" channel="VTV1 HD.mytv">
+    <programme start="20260509050900 +0000" stop="20260509053000 +0000" channel="VTV1 HD.mytv">
         <title> Chào buổi sáng </title>
     </programme>
-    <programme start="20260509053000 +0000" stop="20260509070000 +0000" channel="VTV1 HD.mytv">
+    <programme start="20260509053000 +0000" stop="20260509065700 +0000" channel="VTV1 HD.mytv">
         <title> Tiêu điểm chính sách </title>
     </programme>
-    <programme start="20260509070000 +0000" stop="20260509071500 +0000" channel="VTV1 HD.mytv">
+    <programme start="20260509065700 +0000" stop="20260509071400 +0000" channel="VTV1 HD.mytv">
         <title> Điểm tựa giữa không trung </title>
     </programme>
-    <programme start="20260509071500 +0000" stop="20260509073000 +0000" channel="VTV1 HD.mytv">
+    <programme start="20260509071400 +0000" stop="20260509073100 +0000" channel="VTV1 HD.mytv">
         <title> Không gian văn hóa nghệ thuật : Ngọn lửa niềm tin </title>
     </programme>
-    <programme start="20260509073000 +0000" stop="20260509083000 +0000" channel="VTV1 HD.mytv">
+    <programme start="20260509073100 +0000" stop="20260509083000 +0000" channel="VTV1 HD.mytv">
         <title> Tạp chí Kinh tế cuối tuần </title>
     </programme>
     <programme start="20260509083000 +0000" stop="20260509090000 +0000" channel="VTV1 HD.mytv">

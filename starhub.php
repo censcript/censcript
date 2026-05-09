@@ -7930,10 +7930,10 @@
     <programme start="20260508231000 +0000" stop="20260509013000 +0000" channel="Asianet Movies.starhub">
         <title>Pulival Kalyanam</title>
     </programme>
-    <programme start="20260509013000 +0000" stop="20260509043000 +0000" channel="Asianet Movies.starhub">
+    <programme start="20260509013000 +0000" stop="20260509043500 +0000" channel="Asianet Movies.starhub">
         <title>Swapnakkoodu</title>
     </programme>
-    <programme start="20260509043000 +0000" stop="20260509073000 +0000" channel="Asianet Movies.starhub">
+    <programme start="20260509043500 +0000" stop="20260509073000 +0000" channel="Asianet Movies.starhub">
         <title>Karyasthan</title>
     </programme>
     <programme start="20260509073000 +0000" stop="20260509103000 +0000" channel="Asianet Movies.starhub">
@@ -7942,7 +7942,7 @@
     <programme start="20260509103000 +0000" stop="20260509133000 +0000" channel="Asianet Movies.starhub">
         <title>C/o. Saira &amp; Banu</title>
     </programme>
-    <programme start="20260509133000 +0000" stop="20260509163000 +0000" channel="Asianet Movies.starhub">
+    <programme start="20260509133000 +0000" stop="20260509162000 +0000" channel="Asianet Movies.starhub">
         <title>Guruvayur Ambalanadayil</title>
     </programme>
     <programme start="20260508160000 +0000" stop="20260508170000 +0000" channel="Astro Warna HD.starhub">

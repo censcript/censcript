@@ -16900,28 +16900,31 @@
   <programme start="20260511092000 +0000" stop="20260511101000 +0000" channel="Armenia 1 TV.webtv.sk">
     <title lang="id">Differently</title>
   </programme>
-  <programme start="20260511101000 +0000" stop="20260511103500 +0000" channel="Armenia 1 TV.webtv.sk">
+  <programme start="20260511101000 +0000" stop="20260511103000 +0000" channel="Armenia 1 TV.webtv.sk">
     <title lang="id">Cities of the World</title>
   </programme>
-  <programme start="20260511103500 +0000" stop="20260511105500 +0000" channel="Armenia 1 TV.webtv.sk">
+  <programme start="20260511103000 +0000" stop="20260511104500 +0000" channel="Armenia 1 TV.webtv.sk">
     <title lang="id">Classical Eurovision. Backstage</title>
   </programme>
-  <programme start="20260511105500 +0000" stop="20260511112500 +0000" channel="Armenia 1 TV.webtv.sk">
+  <programme start="20260511104500 +0000" stop="20260511111000 +0000" channel="Armenia 1 TV.webtv.sk">
     <title lang="id">Bell and Cotton</title>
   </programme>
-  <programme start="20260511112500 +0000" stop="20260511115000 +0000" channel="Armenia 1 TV.webtv.sk">
+  <programme start="20260511111000 +0000" stop="20260511113000 +0000" channel="Armenia 1 TV.webtv.sk">
     <title lang="id">After Adventures</title>
   </programme>
-  <programme start="20260511115000 +0000" stop="20260511123000 +0000" channel="Armenia 1 TV.webtv.sk">
+  <programme start="20260511113000 +0000" stop="20260511115500 +0000" channel="Armenia 1 TV.webtv.sk">
+    <title lang="id">Cartoon</title>
+  </programme>
+  <programme start="20260511115500 +0000" stop="20260511123500 +0000" channel="Armenia 1 TV.webtv.sk">
     <title lang="id">Note by Note</title>
   </programme>
-  <programme start="20260511123000 +0000" stop="20260511133000 +0000" channel="Armenia 1 TV.webtv.sk">
+  <programme start="20260511123500 +0000" stop="20260511133500 +0000" channel="Armenia 1 TV.webtv.sk">
     <title lang="id">Great Debate</title>
   </programme>
-  <programme start="20260511133000 +0000" stop="20260511133500 +0000" channel="Armenia 1 TV.webtv.sk">
+  <programme start="20260511133500 +0000" stop="20260511134000 +0000" channel="Armenia 1 TV.webtv.sk">
     <title lang="id">5 Minute ART</title>
   </programme>
-  <programme start="20260511133500 +0000" stop="20260511140000 +0000" channel="Armenia 1 TV.webtv.sk">
+  <programme start="20260511134000 +0000" stop="20260511140000 +0000" channel="Armenia 1 TV.webtv.sk">
     <title lang="id">Lets Cook Together</title>
   </programme>
   <programme start="20260511140000 +0000" stop="20260511153000 +0000" channel="Armenia 1 TV.webtv.sk">
