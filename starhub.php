@@ -2126,10 +2126,10 @@
         <title>HSBC SVNS World C&#039;ships 2026: New Zealand vs Spain - 3rd Place Play-off, Hong Kong - Men</title>
     </programme>
     <programme start="20260509003000 +0000" stop="20260509005500 +0000" channel="beIN Sports 2 HD.starhub">
-        <title>HSBC SVNS World C&#039;ships 2026: New Zealand vs Australia - Cup Final, Hong Kong -</title>
+        <title>HSBC SVNS World C&#039;ships 2026: New Zealand vs Australia - Cup Final, Hong Kong - Women</title>
     </programme>
     <programme start="20260509005500 +0000" stop="20260509012000 +0000" channel="beIN Sports 2 HD.starhub">
-        <title>HSBC SVNS World C&#039;ships 2026: South Africa vs Argentina - Cup Final, Hong Kong -</title>
+        <title>HSBC SVNS World C&#039;ships 2026: South Africa vs Argentina - Cup Final, Hong Kong - Men</title>
     </programme>
     <programme start="20260509012000 +0000" stop="20260509015000 +0000" channel="beIN Sports 2 HD.starhub">
         <title>Roland Garros Classic: 2021 Men&#039;s Singles Final Djokovic v Tsitsipas</title>
@@ -3977,7 +3977,7 @@
         <title>Strolling with Tamori</title>
     </programme>
     <programme start="20260509110700 +0000" stop="20260509115300 +0000" channel="NHK World Premium HD.starhub">
-        <title>Project X: The Challengers-New Beginnings &quot;Fukushima Sake: A Comeback to the Top</title>
+        <title>Project X: The Challengers-New Beginnings &quot;Fukushima Sake: A Comeback to the Top&quot;</title>
     </programme>
     <programme start="20260509115300 +0000" stop="20260509115500 +0000" channel="NHK World Premium HD.starhub">
         <title>World Weather</title>
