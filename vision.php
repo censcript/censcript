@@ -523,12 +523,6 @@
 <programme start="20260509154500 +0000" stop="20260509163000 +0000" channel="Trans 7.vision">
 <title>The Police</title>
 </programme>
-<programme start="20260509163000 +0000" stop="20260509174500 +0000" channel="Trans 7.vision">
-<title>Mengejar Tali Pocong</title>
-</programme>
-<programme start="20260509174500 +0000" stop="20260509183000 +0000" channel="Trans 7.vision">
-<title>MotGP Sprint Race 2026: France</title>
-</programme>
 <programme start="20260509183000 +0000" stop="20260509190000 +0000" channel="Trans 7.vision">
 <title>Best Fishing</title>
 </programme>
@@ -606,15 +600,6 @@
 </programme>
 <programme start="20260509103000 +0000" stop="20260509120000 +0000" channel="ANTV.vision">
 <title>Vasudha</title>
-</programme>
-<programme start="20260509120000 +0000" stop="20260509143000 +0000" channel="ANTV.vision">
-<title>Cinta Segitiga</title>
-</programme>
-<programme start="20260509143000 +0000" stop="20260509163000 +0000" channel="ANTV.vision">
-<title>Malam Jahanam</title>
-</programme>
-<programme start="20260509163000 +0000" stop="20260509181500 +0000" channel="ANTV.vision">
-<title>Menantang Maut</title>
 </programme>
 <programme start="20260509181500 +0000" stop="20260509203000 +0000" channel="ANTV.vision">
 <title>Serie A Liga Italia</title>
@@ -1497,4 +1482,19 @@
 </programme>
 <programme start="20260509003000 +0000" stop="20260509010000 +0000" channel="DAAI TV.vision">
 <title>Darwin &amp; Newts</title>
+</programme>
+<programme start="20260509010000 +0000" stop="20260509013000 +0000" channel="DAAI TV.vision">
+<title>Clifford</title>
+</programme>
+<programme start="20260509013000 +0000" stop="20260509020000 +0000" channel="DAAI TV.vision">
+<title>@Indonesia</title>
+</programme>
+<programme start="20260509020000 +0000" stop="20260509021500 +0000" channel="DAAI TV.vision">
+<title>Narasi Nusantara</title>
+</programme>
+<programme start="20260509021500 +0000" stop="20260509023000 +0000" channel="DAAI TV.vision">
+<title>Tzu Chi Inside</title>
+</programme>
+<programme start="20260509023000 +0000" stop="20260509030000 +0000" channel="DAAI TV.vision">
+<title>Hati Bicara</title>
 </programme>

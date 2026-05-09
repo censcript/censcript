@@ -879,13 +879,13 @@
     <desc lang="id">Saksikan! BRI Super League 2025/26 - Is Back!" 18 Klub Terbaik Siap Bertarung Di Kasta Tertinggi Sepak Bola Indonesia! Pertandingan Semakin Seru! Jangan Lewatkan BRI Super League 2025/26 Mulai 8 Agustus 2025, Pkl 15.00 &amp; 18.30 WIB, Live &amp; Eksklusif Hanya Di Indosiar dan Vidio #Indosiarrumahsepakbolaindonesia</desc>
     <icon src="https://thumbor.prod.vidiocdn.com/cBZL7ITaJCof6cqtayFee2uJCX8=/287x162/filters:strip_icc():quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/image/205/indosiar-d9a3d0.jpg"/>
   </programme>
-  <programme channel="205" start="20260509184300 +0000" stop="20260509201200 +0000">
+  <programme channel="205" start="20260509184300 +0000" stop="20260509200900 +0000">
     <title lang="id">Mega Film Asia : Crime Story</title>
     <desc lang="id">Mega Film Asia Adalah Program Yang Memutarkan Film-Film Asia Yang Ditayangkan Di Indosiar. Acara Ini Ditayangkan Perdana Pada Tahun 1996 Silam.</desc>
     <icon src="https://thumbor.prod.vidiocdn.com/KLo912i8WlMTL8WBP25cuJXDxbo=/287x162/filters:strip_icc():quality(70)/vidio-media-production/uploads/livestreaming/schedule/thumbnail/5058257/1b7df8.jpg"/>
   </programme>
-  <programme channel="205" start="20260509201200 +0000" stop="20260509213000 +0000">
-    <title lang="id">Mega Film Asia : Bodyguard 3</title>
+  <programme channel="205" start="20260509200900 +0000" stop="20260509213000 +0000">
+    <title lang="id">Mega Film Asia : Trouble Maker</title>
     <desc lang="id">Mega Film Asia Adalah Program Yang Memutarkan Film-Film Asia Yang Ditayangkan Di Indosiar. Acara Ini Ditayangkan Perdana Pada Tahun 1996 Silam.</desc>
     <icon src="https://thumbor.prod.vidiocdn.com/KKdxTsn3qKvkt806GoT0YuGpiB4=/287x162/filters:strip_icc():quality(70)/vidio-media-production/uploads/livestreaming/schedule/thumbnail/5058258/a90623.jpg"/>
   </programme>
@@ -9256,12 +9256,12 @@
     <desc lang="id">Usaha penyelamatan para korban yang terjebak dalam terowongan ICA. ICA memutuskan untuk mengangkut alat pengebor terowongan itu dengan pesawat dan truk mercy untuk menghindari sabotase saingan.</desc>
     <icon src="https://thumbor.prod.vidiocdn.com/20tRQaK9Gps_wFQL5rY-XgRbrs4=/287x162/filters:strip_icc():quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/image/782/antv-de8530.jpg"/>
   </programme>
-  <programme channel="782" start="20260509181500 +0000" stop="20260509204500 +0000">
+  <programme channel="782" start="20260509181500 +0000" stop="20260509204700 +0000">
     <title lang="id">Serie A 2025/26: Lecce vs Juventus</title>
     <desc lang="id">Liga Italia Serie A merupakan kompetisi sepak bola profesional tertinggi di sistem liga sepak bola Italia. Sebanyak 20 klub bersaing untuk memperebutkan juara kompetisi ini.</desc>
     <icon src="https://thumbor.prod.vidiocdn.com/20tRQaK9Gps_wFQL5rY-XgRbrs4=/287x162/filters:strip_icc():quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/image/782/antv-de8530.jpg"/>
   </programme>
-  <programme channel="782" start="20260509204500 +0000" stop="20260509230000 +0000">
+  <programme channel="782" start="20260509204700 +0000" stop="20260509230000 +0000">
     <title lang="id">Mega Bollywood: Sonu Ke Titu Ki Sweety</title>
     <desc lang="id">Titu akan menikahi seorang wanita sempurna bernama Sweety. Sahabat Titu, Sonu, meragukan karakter Sweety dan mencoba menggagalkan pernikahan tersebut.</desc>
     <icon src="https://thumbor.prod.vidiocdn.com/JUQy_OLkHorm-TWl0_AzOjHX-Tc=/287x162/filters:strip_icc():quality(70)/vidio-media-production/uploads/livestreaming/schedule/thumbnail/5064009/317f8a.jpg"/>
@@ -14006,12 +14006,12 @@
     <desc lang="id">Inside - Round 36</desc>
     <icon src="https://thumbor.prod.vidiocdn.com/nY0aFklpYf6yONLaFJjxhiSuthc=/287x162/filters:strip_icc():quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/image/6786/champions-tv-3-76ca7c.jpg"/>
   </programme>
-  <programme channel="6786" start="20260509182900 +0000" stop="20260509205000 +0000">
+  <programme channel="6786" start="20260509182900 +0000" stop="20260509204400 +0000">
     <title lang="id">LECCE vs JUVENTUS : Serie A 2025/26</title>
     <desc lang="id">LECCE vs JUVENTUS</desc>
     <icon src="https://thumbor.prod.vidiocdn.com/nY0aFklpYf6yONLaFJjxhiSuthc=/287x162/filters:strip_icc():quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/image/6786/champions-tv-3-76ca7c.jpg"/>
   </programme>
-  <programme channel="6786" start="20260509205000 +0000" stop="20260509210000 +0000">
+  <programme channel="6786" start="20260509204400 +0000" stop="20260509210000 +0000">
     <title lang="id">Filler</title>
     <icon src="https://thumbor.prod.vidiocdn.com/nY0aFklpYf6yONLaFJjxhiSuthc=/287x162/filters:strip_icc():quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/image/6786/champions-tv-3-76ca7c.jpg"/>
   </programme>
