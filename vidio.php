@@ -7751,9 +7751,9 @@
     <icon src="https://thumbor.prod.vidiocdn.com/5yUHYfv_b1sZi7kdFElm8JqF2RY=/287x162/filters:strip_icc():quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/image/6299/bein-1-4bd997.jpg"/>
   </programme>
   <programme channel="6299" start="20260511185500 +0000" stop="20260511210000 +0000">
-    <title lang="id">Rayo Vallecano vs Girona : LaLiga 2025/26</title>
-    <desc lang="id">Rayo Vallecano vs Girona</desc>
-    <icon src="https://thumbor.prod.vidiocdn.com/5yUHYfv_b1sZi7kdFElm8JqF2RY=/287x162/filters:strip_icc():quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/image/6299/bein-1-4bd997.jpg"/>
+    <title lang="id">Rayo Vallecano vs Girona - LaLiga</title>
+    <desc lang="id">Nonton streaming pertandingan seru Rayo Vallecano vs Girona - LaLiga. Saksikan aksi-aksi terbaik dari tim yang bersaing ketat untuk meraih kemenangan. Dapatkan informasi lengkap mengenai jadwal pertandingan dan hasil pertandingan terbaru hanya di Vidio.</desc>
+    <icon src="https://thumbor.prod.vidiocdn.com/HMljP2Qg9AcLW2f1amhpltX4kZc=/287x162/filters:strip_icc():quality(70)/vidio-media-production/uploads/livestreaming/schedule/thumbnail/5068611/f212d6.jpg"/>
   </programme>
   <programme channel="6299" start="20260511210000 +0000" stop="20260511220000 +0000">
     <title lang="id">Rally de Portugal : FIA World Rally Championship Highlights 2026</title>
@@ -7861,14 +7861,14 @@
     <icon src="https://thumbor.prod.vidiocdn.com/5yUHYfv_b1sZi7kdFElm8JqF2RY=/287x162/filters:strip_icc():quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/image/6299/bein-1-4bd997.jpg"/>
   </programme>
   <programme channel="6299" start="20260512165500 +0000" stop="20260512191000 +0000">
-    <title lang="id">Celta Vigo vs Levante : LaLiga 2025/26</title>
-    <desc lang="id">Celta Vigo vs Levante</desc>
-    <icon src="https://thumbor.prod.vidiocdn.com/5yUHYfv_b1sZi7kdFElm8JqF2RY=/287x162/filters:strip_icc():quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/image/6299/bein-1-4bd997.jpg"/>
+    <title lang="id">Celta Vigo vs Levante - LaLiga</title>
+    <desc lang="id">Nonton streaming pertandingan seru Celta Vigo vs Levante - LaLiga. Saksikan aksi-aksi terbaik dari tim yang bersaing ketat untuk meraih kemenangan. Dapatkan informasi lengkap mengenai jadwal pertandingan dan hasil pertandingan terbaru hanya di Vidio.</desc>
+    <icon src="https://thumbor.prod.vidiocdn.com/WTLRNk0CDOFqGCP8wQ88NBiHNCA=/287x162/filters:strip_icc():quality(70)/vidio-media-production/uploads/livestreaming/schedule/thumbnail/5068612/fbaead.jpg"/>
   </programme>
   <programme channel="6299" start="20260512165500 +0000" stop="20260512191000 +0000">
-    <title lang="id">Celta Vigo vs Levante : LaLiga 2025/26</title>
-    <desc lang="id">Celta Vigo vs Levante</desc>
-    <icon src="https://thumbor.prod.vidiocdn.com/5yUHYfv_b1sZi7kdFElm8JqF2RY=/287x162/filters:strip_icc():quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/image/6299/bein-1-4bd997.jpg"/>
+    <title lang="id">Celta Vigo vs Levante - LaLiga</title>
+    <desc lang="id">Nonton streaming pertandingan seru Celta Vigo vs Levante - LaLiga. Saksikan aksi-aksi terbaik dari tim yang bersaing ketat untuk meraih kemenangan. Dapatkan informasi lengkap mengenai jadwal pertandingan dan hasil pertandingan terbaru hanya di Vidio.</desc>
+    <icon src="https://thumbor.prod.vidiocdn.com/WTLRNk0CDOFqGCP8wQ88NBiHNCA=/287x162/filters:strip_icc():quality(70)/vidio-media-production/uploads/livestreaming/schedule/thumbnail/5068612/fbaead.jpg"/>
   </programme>
   <programme channel="6299" start="20260512191000 +0000" stop="20260512192500 +0000">
     <title lang="id">Sevilla vs Real Sociedad : LaLiga Match Highlights 2024/25</title>
@@ -7876,9 +7876,9 @@
     <icon src="https://thumbor.prod.vidiocdn.com/5yUHYfv_b1sZi7kdFElm8JqF2RY=/287x162/filters:strip_icc():quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/image/6299/bein-1-4bd997.jpg"/>
   </programme>
   <programme channel="6299" start="20260512192500 +0000" stop="20260512213000 +0000">
-    <title lang="id">Osasuna vs Atletico Madrid : LaLiga 2025/26</title>
-    <desc lang="id">Osasuna vs Atletico Madrid</desc>
-    <icon src="https://thumbor.prod.vidiocdn.com/5yUHYfv_b1sZi7kdFElm8JqF2RY=/287x162/filters:strip_icc():quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/image/6299/bein-1-4bd997.jpg"/>
+    <title lang="id">Osasuna vs Atletico Madrid - LaLiga</title>
+    <desc lang="id">Nonton streaming pertandingan seru Osasuna vs Atletico Madrid - LaLiga. Saksikan aksi-aksi terbaik dari tim yang bersaing ketat untuk meraih kemenangan. Dapatkan informasi lengkap mengenai jadwal pertandingan dan hasil pertandingan terbaru hanya di Vidio.</desc>
+    <icon src="https://thumbor.prod.vidiocdn.com/gq43hq-izgBRl5XwOKY7r0n_QVE=/287x162/filters:strip_icc():quality(70)/vidio-media-production/uploads/livestreaming/schedule/thumbnail/5068613/97ec33.jpg"/>
   </programme>
   <programme channel="6299" start="20260512213000 +0000" stop="20260513020000 +0000">
     <title lang="id">6 Hours of Spa-Francorchamps, BEL : FIA World Endurance Championship 2026</title>
@@ -16502,17 +16502,17 @@
     <desc lang="id">Matchweek 34</desc>
     <icon src="https://thumbor.prod.vidiocdn.com/r_QaZubFaj9Ht_TI2kDgdImcRqY=/287x162/filters:strip_icc():quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/image/9182/champions-tv-5-e0dd48.jpg"/>
   </programme>
-  <programme channel="9182" start="20260511180000 +0000" stop="20260511183000 +0000">
+  <programme channel="9182" start="20260511180000 +0000" stop="20260511190000 +0000">
     <title lang="id">Show 31 - Matchweek 36 : PL Preview 2025/26</title>
     <desc lang="id">Show 31 Matchweek 36</desc>
     <icon src="https://thumbor.prod.vidiocdn.com/r_QaZubFaj9Ht_TI2kDgdImcRqY=/287x162/filters:strip_icc():quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/image/9182/champions-tv-5-e0dd48.jpg"/>
   </programme>
-  <programme channel="9182" start="20260511183000 +0000" stop="20260511210000 +0000">
-    <title lang="id">Tottenham Hotspur Vs Leeds United :Premier League 2025/26</title>
-    <desc lang="id">TOTTENHAM HOTSPUR vs LEEDS UNITED</desc>
-    <icon src="https://thumbor.prod.vidiocdn.com/r_QaZubFaj9Ht_TI2kDgdImcRqY=/287x162/filters:strip_icc():quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/image/9182/champions-tv-5-e0dd48.jpg"/>
+  <programme channel="9182" start="20260511190000 +0000" stop="20260511211000 +0000">
+    <title lang="id">Tottenham vs Leeds United - Premier League</title>
+    <desc lang="id">Nonton streaming pertandingan seru Tottenham vs Leeds United - Premier League. Saksikan aksi-aksi terbaik dari tim yang bersaing ketat untuk meraih kemenangan. Dapatkan informasi lengkap mengenai jadwal pertandingan dan hasil pertandingan terbaru hanya di Vidio.</desc>
+    <icon src="https://thumbor.prod.vidiocdn.com/fTGSc6gM-eKgSTs-hG3D7oemuAg=/287x162/filters:strip_icc():quality(70)/vidio-media-production/uploads/livestreaming/schedule/thumbnail/5068610/9349e3.jpg"/>
   </programme>
-  <programme channel="9182" start="20260511210000 +0000" stop="20260511230000 +0000">
+  <programme channel="9182" start="20260511211000 +0000" stop="20260511230000 +0000">
     <title lang="id">Brighton And Hove Albion Vs Wolverhampton Wanderers : Premier League 2025/26</title>
     <desc lang="id">BRIGHTON AND HOVE ALBION vs WOLVERHAMPTON WANDERERS</desc>
     <icon src="https://thumbor.prod.vidiocdn.com/r_QaZubFaj9Ht_TI2kDgdImcRqY=/287x162/filters:strip_icc():quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/image/9182/champions-tv-5-e0dd48.jpg"/>
