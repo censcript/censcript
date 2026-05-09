@@ -855,16 +855,16 @@
     <desc lang="id">FTV Yang Diambil Dari Kisah Kehidupan Sehari-Hari Pemirsa Yang Penuh Intrik, Konflik dan Pengkhianatan Untuk Memberikan Berbagai Pelajaran Hidup.</desc>
     <icon src="https://thumbor.prod.vidiocdn.com/cBZL7ITaJCof6cqtayFee2uJCX8=/287x162/filters:strip_icc():quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/image/205/indosiar-d9a3d0.jpg"/>
   </programme>
-  <programme channel="205" start="20260509075600 +0000" stop="20260509104000 +0000">
+  <programme channel="205" start="20260509075600 +0000" stop="20260509103700 +0000">
     <title lang="id">Arema FC vs PSM Makassar - Super League</title>
     <icon src="https://thumbor.prod.vidiocdn.com/cBZL7ITaJCof6cqtayFee2uJCX8=/287x162/filters:strip_icc():quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/image/205/indosiar-d9a3d0.jpg"/>
   </programme>
-  <programme channel="205" start="20260509104000 +0000" stop="20260509113000 +0000">
+  <programme channel="205" start="20260509103700 +0000" stop="20260509113500 +0000">
     <title lang="id">Merangkai Kisah Indah</title>
     <desc lang="id">Mega Series Terbaru Raden Rakha dan Basmalah Gralind Di Indosiar "Merangkai Kisah Indah" Tayang Setiap Hari, Mulai Senin, 14 Juli 2025 Pukul 17:00 WIB. Kisah Derita Mutiara Yang Mencari Orangtua Kandungnya Karena Sewaktu Bayi Ditukar Oleh Ibu Angkatnya. Nasib Membawa Dirinya Bertemu Dengan Keluarga Yang Tanpa Dia Ketahui Adalah Orangtua Kandungnya dan Juga Bertemu Kenzo. Apakah Kenzo dan Mutiara Akan Berjodoh? Dibintangi Raden Rakha, Basmalah Gralind, Panji Saputra, Tsania Marwa, Gita Sinaga, Vayala Maulidina, Washifa, Haura Lathifa, dan Emiliano Cortizo. Saksikan Mega Series Terbaru Indosiar : Merangkai Kisah Indah, Tayang Setiap Hari, Mulai Senin, 14 Juli 2025 Pukul 17:00 WIB Hanya Di Indosiar.</desc>
     <icon src="https://thumbor.prod.vidiocdn.com/WIl2jiaTLEzHnNAo61AGzfdEXh8=/287x162/filters:strip_icc():quality(70)/vidio-media-production/uploads/tv_program/thumbnail/389747/fc3ce1.jpg"/>
   </programme>
-  <programme channel="205" start="20260509113000 +0000" stop="20260509144000 +0000">
+  <programme channel="205" start="20260509113500 +0000" stop="20260509144000 +0000">
     <title lang="id">PSS Sleman vs Garudayaksa FC - Pegadaian Championship 2025/</title>
     <desc lang="id">Kompetisi Pegadaian Championship 2025/26 Indonesia Kembali Digelar: Inilah Panggung Persaingan 26 Klub Liga 2 Yang Terbagi Dalam 3 Region. Saksikan Hanya Di Indosiar, Vidio.</desc>
     <icon src="https://thumbor.prod.vidiocdn.com/cBZL7ITaJCof6cqtayFee2uJCX8=/287x162/filters:strip_icc():quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/image/205/indosiar-d9a3d0.jpg"/>
@@ -9233,16 +9233,16 @@
     <desc lang="id">Seorang wanita muda yang bersemangat memulai perjalanan untuk memenuhi janji seorang ibu demi kehidupan yang lebih baik sambil mengatasi tantangan dan kehilangan.</desc>
     <icon src="https://thumbor.prod.vidiocdn.com/AHZEkBO63EC9XCIsVlGlebtGpQs=/287x162/filters:strip_icc():quality(70)/vidio-media-production/uploads/livestreaming/schedule/thumbnail/5064000/698775.jpg"/>
   </programme>
-  <programme channel="782" start="20260509080000 +0000" stop="20260509100000 +0000">
+  <programme channel="782" start="20260509080000 +0000" stop="20260509102700 +0000">
     <title lang="id">Teri Meri Doriyaann</title>
     <icon src="https://thumbor.prod.vidiocdn.com/20tRQaK9Gps_wFQL5rY-XgRbrs4=/287x162/filters:strip_icc():quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/image/782/antv-de8530.jpg"/>
   </programme>
-  <programme channel="782" start="20260509100000 +0000" stop="20260509120000 +0000">
+  <programme channel="782" start="20260509102700 +0000" stop="20260509120300 +0000">
     <title lang="id">Vasudha</title>
     <desc lang="id">Vasudha yang periang bergabung dengan rumah pemimpin bisnis Chandrika sebagai pembantu dan mendambakan persetujuannya meskipun ada perbedaan ideologis di antara mereka.</desc>
     <icon src="https://thumbor.prod.vidiocdn.com/kRToAd8D9yuhOKv0YkVvrCbLlMA=/287x162/filters:strip_icc():quality(70)/vidio-media-production/uploads/livestreaming/schedule/thumbnail/5064002/4cefa2.jpg"/>
   </programme>
-  <programme channel="782" start="20260509120000 +0000" stop="20260509143000 +0000">
+  <programme channel="782" start="20260509120300 +0000" stop="20260509143000 +0000">
     <title lang="id">Sinema Spesial: Cinta Segitiga</title>
     <desc lang="id">Tragisnya cinta antara Rhoma, kekasihnya Rika, dan kakak Rhoma, Dendy. Rika dinikahkan dengan Dendy, membuat Rhoma patah hati hingga mengalami kebutaan.</desc>
     <icon src="https://thumbor.prod.vidiocdn.com/20tRQaK9Gps_wFQL5rY-XgRbrs4=/287x162/filters:strip_icc():quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/image/782/antv-de8530.jpg"/>
@@ -9407,7 +9407,7 @@
   </programme>
   <programme channel="783" start="20260509233000 +0000" stop="20260510010000 +0000">
     <title lang="id">Apa Kabar Indonesia Pagi</title>
-    <icon src="https://thumbor.prod.vidiocdn.com/TyXbaZqF_g2hn94imFJllHzaz_Q=/287x162/filters:strip_icc():quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/image/783/tvone-bb42ce.jpg"/>
+    <icon src="https://thumbor.prod.vidiocdn.com/zaW9qdqrVMt7gi2pxoNIuIcfIjk=/287x162/filters:strip_icc():quality(70)/vidio-media-production/uploads/livestreaming/schedule/thumbnail/5068314/4245e2.jpg"/>
   </programme>
   <programme channel="783" start="20260510010000 +0000" stop="20260510020000 +0000">
     <title lang="id">Inspirasi Pagi</title>
@@ -9431,11 +9431,11 @@
   </programme>
   <programme channel="783" start="20260510090000 +0000" stop="20260510110000 +0000">
     <title lang="id">Kabar Petang</title>
-    <icon src="https://thumbor.prod.vidiocdn.com/TyXbaZqF_g2hn94imFJllHzaz_Q=/287x162/filters:strip_icc():quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/image/783/tvone-bb42ce.jpg"/>
+    <icon src="https://thumbor.prod.vidiocdn.com/EzosdLe4lJiU-dbz3sZ0ysRxIaY=/287x162/filters:strip_icc():quality(70)/vidio-media-production/uploads/livestreaming/schedule/thumbnail/5068320/a08095.jpg"/>
   </programme>
   <programme channel="783" start="20260510110000 +0000" stop="20260510130000 +0000">
     <title lang="id">Apa Kabar Indonesia Malam</title>
-    <icon src="https://thumbor.prod.vidiocdn.com/TyXbaZqF_g2hn94imFJllHzaz_Q=/287x162/filters:strip_icc():quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/image/783/tvone-bb42ce.jpg"/>
+    <icon src="https://thumbor.prod.vidiocdn.com/kaDPCk23m6KUIm2LFGAbuNRCzBM=/287x162/filters:strip_icc():quality(70)/vidio-media-production/uploads/livestreaming/schedule/thumbnail/5068321/e9d37d.jpg"/>
   </programme>
   <programme channel="783" start="20260510130000 +0000" stop="20260510140000 +0000">
     <title lang="id">Kabar Utama</title>
@@ -16302,27 +16302,27 @@
     <desc lang="id">Show 31 Matchweek 36</desc>
     <icon src="https://thumbor.prod.vidiocdn.com/r_QaZubFaj9Ht_TI2kDgdImcRqY=/287x162/filters:strip_icc():quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/image/9182/champions-tv-5-e0dd48.jpg"/>
   </programme>
-  <programme channel="9182" start="20260509110000 +0000" stop="20260509133000 +0000">
+  <programme channel="9182" start="20260509110000 +0000" stop="20260509134200 +0000">
     <title lang="id">Liverpool vs Chelsea - Premier League</title>
     <desc lang="id">Nonton streaming pertandingan seru Liverpool vs Chelsea - Premier League. Saksikan aksi-aksi terbaik dari tim yang bersaing ketat untuk meraih kemenangan. Dapatkan informasi lengkap mengenai jadwal pertandingan dan hasil pertandingan terbaru hanya di Vidio.</desc>
     <icon src="https://thumbor.prod.vidiocdn.com/El4HdKTq2xow2aLl2K0n170Werg=/287x162/filters:strip_icc():quality(70)/vidio-media-production/uploads/livestreaming/schedule/thumbnail/5062198/cb499e.jpg"/>
   </programme>
-  <programme channel="9182" start="20260509133000 +0000" stop="20260509160000 +0000">
+  <programme channel="9182" start="20260509134200 +0000" stop="20260509161100 +0000">
     <title lang="id">Sunderland vs Man United - Premier League</title>
     <desc lang="id">Nonton streaming pertandingan seru Sunderland vs Man United - Premier League. Saksikan aksi-aksi terbaik dari tim yang bersaing ketat untuk meraih kemenangan. Dapatkan informasi lengkap mengenai jadwal pertandingan dan hasil pertandingan terbaru hanya di Vidio.</desc>
     <icon src="https://thumbor.prod.vidiocdn.com/Xkpe4Euiw_-cU22RTpOr2smJ-L8=/287x162/filters:strip_icc():quality(70)/vidio-media-production/uploads/livestreaming/schedule/thumbnail/5062197/029a61.jpg"/>
   </programme>
-  <programme channel="9182" start="20260509160000 +0000" stop="20260509183000 +0000">
+  <programme channel="9182" start="20260509161100 +0000" stop="20260509184200 +0000">
     <title lang="id">Man City vs Brentford - Premier League</title>
     <desc lang="id">Nonton streaming pertandingan seru Man City vs Brentford - Premier League. Saksikan aksi-aksi terbaik dari tim yang bersaing ketat untuk meraih kemenangan. Dapatkan informasi lengkap mengenai jadwal pertandingan dan hasil pertandingan terbaru hanya di Vidio.</desc>
     <icon src="https://thumbor.prod.vidiocdn.com/qrw6QgbWzNQwfduzw7CUKUCjv5g=/287x162/filters:strip_icc():quality(70)/vidio-media-production/uploads/livestreaming/schedule/thumbnail/5062199/36cfbb.jpg"/>
   </programme>
-  <programme channel="9182" start="20260509160000 +0000" stop="20260509183000 +0000">
+  <programme channel="9182" start="20260509161100 +0000" stop="20260509184200 +0000">
     <title lang="id">Man City vs Brentford - Premier League</title>
     <desc lang="id">Nonton streaming pertandingan seru Man City vs Brentford - Premier League. Saksikan aksi-aksi terbaik dari tim yang bersaing ketat untuk meraih kemenangan. Dapatkan informasi lengkap mengenai jadwal pertandingan dan hasil pertandingan terbaru hanya di Vidio.</desc>
     <icon src="https://thumbor.prod.vidiocdn.com/qrw6QgbWzNQwfduzw7CUKUCjv5g=/287x162/filters:strip_icc():quality(70)/vidio-media-production/uploads/livestreaming/schedule/thumbnail/5062199/36cfbb.jpg"/>
   </programme>
-  <programme channel="9182" start="20260509183000 +0000" stop="20260509190000 +0000">
+  <programme channel="9182" start="20260509184200 +0000" stop="20260509190000 +0000">
     <title lang="id">Eps 35 : PL Netbuster 2025-26</title>
     <desc lang="id">Eps 35</desc>
     <icon src="https://thumbor.prod.vidiocdn.com/r_QaZubFaj9Ht_TI2kDgdImcRqY=/287x162/filters:strip_icc():quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/image/9182/champions-tv-5-e0dd48.jpg"/>

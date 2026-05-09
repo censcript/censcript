@@ -2549,10 +2549,13 @@ Warning: Undefined array key "et" in /usr/home/ManusiaBiasa/domains/manusiabiasa
 <programme start="20260509213500 +0000" stop="20260509222000 +0000" channel="Sky Showcase HD.skyde">
     <title>A Plan to Kill</title>
 </programme>
-<programme start="20260508231500 +0000" stop="20260508233000 +0000" channel="Sky Sport Austria 1 HD.skyde">
+<programme start="20260508230000 +0000" stop="20260508233000 +0000" channel="Sky Sport Austria 1 HD.skyde">
+    <title>UEFA CL: Magazin</title>
+</programme>
+<programme start="20260508233000 +0000" stop="20260509000000 +0000" channel="Sky Sport Austria 1 HD.skyde">
     <title>UEFA CL: Highlights XXL: ARS - ATM, Halbfinale Rückspiel</title>
 </programme>
-<programme start="20260508233000 +0000" stop="20260509001500 +0000" channel="Sky Sport Austria 1 HD.skyde">
+<programme start="20260509000000 +0000" stop="20260509001500 +0000" channel="Sky Sport Austria 1 HD.skyde">
     <title>Fußball: Herzog gegen Herzig - Die next Generation Show (SV Fohnsdorf)</title>
 </programme>
 <programme start="20260509001500 +0000" stop="20260509021500 +0000" channel="Sky Sport Austria 1 HD.skyde">
@@ -2642,7 +2645,7 @@ Warning: Undefined array key "et" in /usr/home/ManusiaBiasa/domains/manusiabiasa
 <programme start="20260509134000 +0000" stop="20260509140000 +0000" channel="Sky Sport Austria 3 HD.skyde">
     <title>Es folgt: LIVE Admiral BL</title>
 </programme>
-<programme start="20260509140000 +0000" stop="20260509170000 +0000" channel="Sky Sport Austria 3 HD.skyde">
+<programme start="20260509140000 +0000" stop="20260509173000 +0000" channel="Sky Sport Austria 3 HD.skyde">
     <title>Live Admiral BL: Grazer AK 1902 - SCR Altach, 31. Runde</title>
 </programme>
 <programme start="20260509134000 +0000" stop="20260509140000 +0000" channel="Sky Sport Austria 4 HD.skyde">
@@ -2783,7 +2786,7 @@ Warning: Undefined array key "et" in /usr/home/ManusiaBiasa/domains/manusiabiasa
 <programme start="20260509173000 +0000" stop="20260509211500 +0000" channel="Sky Sport Bundesliga 2 HD.skyde">
     <title>Live 2. BL: 1. FC Nürnberg - FC Schalke 04, tipico Topspiel der Woche, 33. Spieltag</title>
 </programme>
-<programme start="20260509211500 +0000" stop="20260509224500 +0000" channel="Sky Sport Bundesliga 2 HD.skyde">
+<programme start="20260509211500 +0000" stop="20260509221500 +0000" channel="Sky Sport Bundesliga 2 HD.skyde">
     <title>2. BL Alle Spiele, alle Tore: Die Vodafone Highlight-Show, 33. Spieltag, Samstag komplett</title>
 </programme>
 <programme start="20260509101000 +0000" stop="20260509103000 +0000" channel="Sky Sport Bundesliga 3 HD.skyde">
@@ -2798,7 +2801,7 @@ Warning: Undefined array key "et" in /usr/home/ManusiaBiasa/domains/manusiabiasa
 <programme start="20260509131500 +0000" stop="20260509154500 +0000" channel="Sky Sport Bundesliga 3 HD.skyde">
     <title>Live BL: RB Leipzig - FC St. Pauli, 33. Spieltag</title>
 </programme>
-<programme start="20260509154500 +0000" stop="20260509194500 +0000" channel="Sky Sport Bundesliga 3 HD.skyde">
+<programme start="20260509154500 +0000" stop="20260509191500 +0000" channel="Sky Sport Bundesliga 3 HD.skyde">
     <title>Live BL: Tactical Feed: WOB - FCB, 33. Spieltag</title>
 </programme>
 <programme start="20260509101000 +0000" stop="20260509103000 +0000" channel="Sky Sport Bundesliga 4 HD.skyde">
@@ -2810,7 +2813,7 @@ Warning: Undefined array key "et" in /usr/home/ManusiaBiasa/domains/manusiabiasa
 <programme start="20260509130000 +0000" stop="20260509131500 +0000" channel="Sky Sport Bundesliga 4 HD.skyde">
     <title>Live BL: TSG - SVW: tipico Countdown, 33. Spieltag</title>
 </programme>
-<programme start="20260509131500 +0000" stop="20260509154500 +0000" channel="Sky Sport Bundesliga 4 HD.skyde">
+<programme start="20260509131500 +0000" stop="20260509161500 +0000" channel="Sky Sport Bundesliga 4 HD.skyde">
     <title>Live BL: TSG Hoffenheim - Werder Bremen, 33. Spieltag</title>
 </programme>
 <programme start="20260509101000 +0000" stop="20260509103000 +0000" channel="Sky Sport Bundesliga 5 HD.skyde">
@@ -2819,7 +2822,7 @@ Warning: Undefined array key "et" in /usr/home/ManusiaBiasa/domains/manusiabiasa
 <programme start="20260509103000 +0000" stop="20260509130000 +0000" channel="Sky Sport Bundesliga 5 HD.skyde">
     <title>Live 2. BL: Holstein Kiel - 1. FC Magdeburg, 33. Spieltag</title>
 </programme>
-<programme start="20260509130000 +0000" stop="20260509161500 +0000" channel="Sky Sport Bundesliga 5 HD.skyde">
+<programme start="20260509130000 +0000" stop="20260509154500 +0000" channel="Sky Sport Bundesliga 5 HD.skyde">
     <title>BL: Hinweis Multiview</title>
 </programme>
 <programme start="20260509101000 +0000" stop="20260509103000 +0000" channel="Sky Sport Bundesliga 6 HD.skyde">
@@ -2828,7 +2831,7 @@ Warning: Undefined array key "et" in /usr/home/ManusiaBiasa/domains/manusiabiasa
 <programme start="20260509103000 +0000" stop="20260509130000 +0000" channel="Sky Sport Bundesliga 6 HD.skyde">
     <title>Live 2. BL: Multiview 33. Spieltag, Samstag</title>
 </programme>
-<programme start="20260509130000 +0000" stop="20260509161500 +0000" channel="Sky Sport Bundesliga 6 HD.skyde">
+<programme start="20260509130000 +0000" stop="20260509153000 +0000" channel="Sky Sport Bundesliga 6 HD.skyde">
     <title>Live BL: Multiview 33. Spieltag</title>
 </programme>
 <programme start="20260509101000 +0000" stop="20260509103000 +0000" channel="Sky Sport Bundesliga 7 HD.skyde">
@@ -2960,14 +2963,14 @@ Warning: Undefined array key "et" in /usr/home/ManusiaBiasa/domains/manusiabiasa
 <programme start="20260508220000 +0000" stop="20260508230000 +0000" channel="Sky Sport Mix HD.skyde">
     <title>NHL: Tonight - Playoff Edition</title>
 </programme>
-<programme start="20260508230000 +0000" stop="20260509015000 +0000" channel="Sky Sport Mix HD.skyde">
+<programme start="20260508230000 +0000" stop="20260509020000 +0000" channel="Sky Sport Mix HD.skyde">
     <title>Live NHL: Montreal Canadiens @ Buffalo Sabres, Playoffs, 2. Runde, Spiel 2</title>
-</programme>
-<programme start="20260509015000 +0000" stop="20260509043000 +0000" channel="Sky Sport Mix HD.skyde">
-    <title>Live NHL: Vegas Golden Knights @ Anaheim Ducks, Playoffs, 2. Runde, Spiel 3</title>
 </programme>
 <programme start="20260509020000 +0000" stop="20260509023000 +0000" channel="Sky Sport Mix HD.skyde">
     <title>NBA: Action</title>
+</programme>
+<programme start="20260509020000 +0000" stop="20260509043000 +0000" channel="Sky Sport Mix HD.skyde">
+    <title>Live NHL: Vegas Golden Knights @ Anaheim Ducks, Playoffs, 2. Runde, Spiel 3</title>
 </programme>
 <programme start="20260509023000 +0000" stop="20260509030000 +0000" channel="Sky Sport Mix HD.skyde">
     <title>NBA: On Fire</title>
@@ -3239,10 +3242,10 @@ Warning: Undefined array key "et" in /usr/home/ManusiaBiasa/domains/manusiabiasa
 <programme start="20260508230000 +0000" stop="20260509015000 +0000" channel="Sky Sport Top Event HD.skyde">
     <title>Live NHL: Montreal Canadiens @ Buffalo Sabres, Playoffs, 2. Runde, Spiel 2</title>
 </programme>
-<programme start="20260509015000 +0000" stop="20260509043000 +0000" channel="Sky Sport Top Event HD.skyde">
+<programme start="20260509015000 +0000" stop="20260509050000 +0000" channel="Sky Sport Top Event HD.skyde">
     <title>Live NHL: Vegas Golden Knights @ Anaheim Ducks, Playoffs, 2. Runde, Spiel 3</title>
 </programme>
-<programme start="20260509043000 +0000" stop="20260509063500 +0000" channel="Sky Sport Top Event HD.skyde">
+<programme start="20260509050000 +0000" stop="20260509063500 +0000" channel="Sky Sport Top Event HD.skyde">
     <title>BL: Borussia Dortmund - Eintracht Frankfurt, Flutlicht-Freitag, 33. Spieltag</title>
 </programme>
 <programme start="20260509063500 +0000" stop="20260509071500 +0000" channel="Sky Sport Top Event HD.skyde">
