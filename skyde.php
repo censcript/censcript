@@ -2351,6 +2351,120 @@ Warning: Undefined array key "et" in /usr/home/ManusiaBiasa/domains/manusiabiasa
 <programme start="20260509215500 +0000" stop="20260509224500 +0000" channel="Sky Nature HD.skyde">
     <title>Die geheime Welt der Klänge mit David Attenborough</title>
 </programme>
+<programme start="20260508221000 +0000" stop="20260508225500 +0000" channel="Sky One HD.skyde">
+    <title>Navy CIS</title>
+</programme>
+<programme start="20260508225500 +0000" stop="20260508234000 +0000" channel="Sky One HD.skyde">
+    <title>S.W.A.T.</title>
+</programme>
+<programme start="20260508234000 +0000" stop="20260509002000 +0000" channel="Sky One HD.skyde">
+    <title>S.W.A.T.</title>
+</programme>
+<programme start="20260509002000 +0000" stop="20260509010500 +0000" channel="Sky One HD.skyde">
+    <title>Navy CIS</title>
+</programme>
+<programme start="20260509010500 +0000" stop="20260509014500 +0000" channel="Sky One HD.skyde">
+    <title>Navy CIS</title>
+</programme>
+<programme start="20260509014500 +0000" stop="20260509022500 +0000" channel="Sky One HD.skyde">
+    <title>Navy CIS</title>
+</programme>
+<programme start="20260509022500 +0000" stop="20260509031000 +0000" channel="Sky One HD.skyde">
+    <title>Navy CIS</title>
+</programme>
+<programme start="20260509031000 +0000" stop="20260509032500 +0000" channel="Sky One HD.skyde">
+    <title>Diese Ochsenknechts 4: Cheyenne auf der IFA</title>
+</programme>
+<programme start="20260509032500 +0000" stop="20260509041000 +0000" channel="Sky One HD.skyde">
+    <title>Watson</title>
+</programme>
+<programme start="20260509041000 +0000" stop="20260509045500 +0000" channel="Sky One HD.skyde">
+    <title>Watson</title>
+</programme>
+<programme start="20260509045500 +0000" stop="20260509054000 +0000" channel="Sky One HD.skyde">
+    <title>Navy CIS</title>
+</programme>
+<programme start="20260509054000 +0000" stop="20260509062500 +0000" channel="Sky One HD.skyde">
+    <title>Navy CIS</title>
+</programme>
+<programme start="20260509062500 +0000" stop="20260509071000 +0000" channel="Sky One HD.skyde">
+    <title>Navy CIS</title>
+</programme>
+<programme start="20260509071000 +0000" stop="20260509075500 +0000" channel="Sky One HD.skyde">
+    <title>Watson</title>
+</programme>
+<programme start="20260509075500 +0000" stop="20260509084500 +0000" channel="Sky One HD.skyde">
+    <title>Family Law</title>
+</programme>
+<programme start="20260509084500 +0000" stop="20260509091000 +0000" channel="Sky One HD.skyde">
+    <title>Modern Family</title>
+</programme>
+<programme start="20260509091000 +0000" stop="20260509093500 +0000" channel="Sky One HD.skyde">
+    <title>Modern Family</title>
+</programme>
+<programme start="20260509093500 +0000" stop="20260509100000 +0000" channel="Sky One HD.skyde">
+    <title>Modern Family</title>
+</programme>
+<programme start="20260509100000 +0000" stop="20260509102500 +0000" channel="Sky One HD.skyde">
+    <title>Modern Family</title>
+</programme>
+<programme start="20260509102500 +0000" stop="20260509111000 +0000" channel="Sky One HD.skyde">
+    <title>The Rookie</title>
+</programme>
+<programme start="20260509111000 +0000" stop="20260509115500 +0000" channel="Sky One HD.skyde">
+    <title>The Rookie</title>
+</programme>
+<programme start="20260509115500 +0000" stop="20260509124000 +0000" channel="Sky One HD.skyde">
+    <title>S.W.A.T.</title>
+</programme>
+<programme start="20260509124000 +0000" stop="20260509133000 +0000" channel="Sky One HD.skyde">
+    <title>S.W.A.T.</title>
+</programme>
+<programme start="20260509133000 +0000" stop="20260509141500 +0000" channel="Sky One HD.skyde">
+    <title>Navy CIS</title>
+</programme>
+<programme start="20260509141500 +0000" stop="20260509150000 +0000" channel="Sky One HD.skyde">
+    <title>Navy CIS</title>
+</programme>
+<programme start="20260509150000 +0000" stop="20260509154500 +0000" channel="Sky One HD.skyde">
+    <title>Navy CIS</title>
+</programme>
+<programme start="20260509154500 +0000" stop="20260509161000 +0000" channel="Sky One HD.skyde">
+    <title>Modern Family</title>
+</programme>
+<programme start="20260509161000 +0000" stop="20260509163500 +0000" channel="Sky One HD.skyde">
+    <title>Modern Family</title>
+</programme>
+<programme start="20260509163500 +0000" stop="20260509170000 +0000" channel="Sky One HD.skyde">
+    <title>Modern Family</title>
+</programme>
+<programme start="20260509170000 +0000" stop="20260509172500 +0000" channel="Sky One HD.skyde">
+    <title>Modern Family</title>
+</programme>
+<programme start="20260509172500 +0000" stop="20260509181500 +0000" channel="Sky One HD.skyde">
+    <title>The Rookie</title>
+</programme>
+<programme start="20260509181500 +0000" stop="20260509190000 +0000" channel="Sky One HD.skyde">
+    <title>Magnum P.I.</title>
+</programme>
+<programme start="20260509190000 +0000" stop="20260509194500 +0000" channel="Sky One HD.skyde">
+    <title>Magnum P.I.</title>
+</programme>
+<programme start="20260509194500 +0000" stop="20260509201000 +0000" channel="Sky One HD.skyde">
+    <title>Modern Family</title>
+</programme>
+<programme start="20260509201000 +0000" stop="20260509203000 +0000" channel="Sky One HD.skyde">
+    <title>Modern Family</title>
+</programme>
+<programme start="20260509203000 +0000" stop="20260509205500 +0000" channel="Sky One HD.skyde">
+    <title>Modern Family</title>
+</programme>
+<programme start="20260509205500 +0000" stop="20260509212000 +0000" channel="Sky One HD.skyde">
+    <title>Modern Family</title>
+</programme>
+<programme start="20260509212000 +0000" stop="20260509221000 +0000" channel="Sky One HD.skyde">
+    <title>Navy CIS</title>
+</programme>
 <programme start="20260508230000 +0000" stop="20260509001500 +0000" channel="Sky Showcase HD.skyde">
     <title>Kindermusik: Zwischen Kunst und Klicks</title>
 </programme>
@@ -2435,13 +2549,10 @@ Warning: Undefined array key "et" in /usr/home/ManusiaBiasa/domains/manusiabiasa
 <programme start="20260509213500 +0000" stop="20260509222000 +0000" channel="Sky Showcase HD.skyde">
     <title>A Plan to Kill</title>
 </programme>
-<programme start="20260508230000 +0000" stop="20260508233000 +0000" channel="Sky Sport Austria 1 HD.skyde">
-    <title>UEFA CL: Magazin</title>
-</programme>
-<programme start="20260508233000 +0000" stop="20260509000000 +0000" channel="Sky Sport Austria 1 HD.skyde">
+<programme start="20260508231500 +0000" stop="20260508233000 +0000" channel="Sky Sport Austria 1 HD.skyde">
     <title>UEFA CL: Highlights XXL: ARS - ATM, Halbfinale Rückspiel</title>
 </programme>
-<programme start="20260509000000 +0000" stop="20260509001500 +0000" channel="Sky Sport Austria 1 HD.skyde">
+<programme start="20260508233000 +0000" stop="20260509001500 +0000" channel="Sky Sport Austria 1 HD.skyde">
     <title>Fußball: Herzog gegen Herzig - Die next Generation Show (SV Fohnsdorf)</title>
 </programme>
 <programme start="20260509001500 +0000" stop="20260509021500 +0000" channel="Sky Sport Austria 1 HD.skyde">
@@ -2525,7 +2636,7 @@ Warning: Undefined array key "et" in /usr/home/ManusiaBiasa/domains/manusiabiasa
 <programme start="20260509134000 +0000" stop="20260509140000 +0000" channel="Sky Sport Austria 2 HD.skyde">
     <title>Es folgt: LIVE Admiral BL</title>
 </programme>
-<programme start="20260509140000 +0000" stop="20260509173000 +0000" channel="Sky Sport Austria 2 HD.skyde">
+<programme start="20260509140000 +0000" stop="20260509170000 +0000" channel="Sky Sport Austria 2 HD.skyde">
     <title>Live Admiral BL: SV Oberbank Ried - RZ Pellets WAC, 31. Runde</title>
 </programme>
 <programme start="20260509134000 +0000" stop="20260509140000 +0000" channel="Sky Sport Austria 3 HD.skyde">
@@ -2537,7 +2648,7 @@ Warning: Undefined array key "et" in /usr/home/ManusiaBiasa/domains/manusiabiasa
 <programme start="20260509134000 +0000" stop="20260509140000 +0000" channel="Sky Sport Austria 4 HD.skyde">
     <title>Es folgt: LIVE Admiral BL</title>
 </programme>
-<programme start="20260509140000 +0000" stop="20260509170000 +0000" channel="Sky Sport Austria 4 HD.skyde">
+<programme start="20260509140000 +0000" stop="20260509173000 +0000" channel="Sky Sport Austria 4 HD.skyde">
     <title>Live Admiral BL: WSG Tirol - FC Blau-Weiß Linz, 31. Runde</title>
 </programme>
 <programme start="20260508223000 +0000" stop="20260509003000 +0000" channel="Sky Sport Bundesliga HD.skyde">
@@ -2648,7 +2759,7 @@ Warning: Undefined array key "et" in /usr/home/ManusiaBiasa/domains/manusiabiasa
 <programme start="20260509131500 +0000" stop="20260509154500 +0000" channel="Sky Sport Bundesliga 1 HD.skyde">
     <title>Live BL: VfB Stuttgart - Bayer Leverkusen, 33. Spieltag</title>
 </programme>
-<programme start="20260509154500 +0000" stop="20260509194500 +0000" channel="Sky Sport Bundesliga 1 HD.skyde">
+<programme start="20260509154500 +0000" stop="20260509191500 +0000" channel="Sky Sport Bundesliga 1 HD.skyde">
     <title>Live BL: VfL Wolfsburg - FC Bayern München, tipico Topspiel der Woche, 33. Spieltag</title>
 </programme>
 <programme start="20260509101000 +0000" stop="20260509103000 +0000" channel="Sky Sport Bundesliga 2 HD.skyde">
@@ -2672,7 +2783,7 @@ Warning: Undefined array key "et" in /usr/home/ManusiaBiasa/domains/manusiabiasa
 <programme start="20260509173000 +0000" stop="20260509211500 +0000" channel="Sky Sport Bundesliga 2 HD.skyde">
     <title>Live 2. BL: 1. FC Nürnberg - FC Schalke 04, tipico Topspiel der Woche, 33. Spieltag</title>
 </programme>
-<programme start="20260509211500 +0000" stop="20260509221500 +0000" channel="Sky Sport Bundesliga 2 HD.skyde">
+<programme start="20260509211500 +0000" stop="20260509224500 +0000" channel="Sky Sport Bundesliga 2 HD.skyde">
     <title>2. BL Alle Spiele, alle Tore: Die Vodafone Highlight-Show, 33. Spieltag, Samstag komplett</title>
 </programme>
 <programme start="20260509101000 +0000" stop="20260509103000 +0000" channel="Sky Sport Bundesliga 3 HD.skyde">
@@ -2687,7 +2798,7 @@ Warning: Undefined array key "et" in /usr/home/ManusiaBiasa/domains/manusiabiasa
 <programme start="20260509131500 +0000" stop="20260509154500 +0000" channel="Sky Sport Bundesliga 3 HD.skyde">
     <title>Live BL: RB Leipzig - FC St. Pauli, 33. Spieltag</title>
 </programme>
-<programme start="20260509154500 +0000" stop="20260509191500 +0000" channel="Sky Sport Bundesliga 3 HD.skyde">
+<programme start="20260509154500 +0000" stop="20260509194500 +0000" channel="Sky Sport Bundesliga 3 HD.skyde">
     <title>Live BL: Tactical Feed: WOB - FCB, 33. Spieltag</title>
 </programme>
 <programme start="20260509101000 +0000" stop="20260509103000 +0000" channel="Sky Sport Bundesliga 4 HD.skyde">
@@ -2717,7 +2828,7 @@ Warning: Undefined array key "et" in /usr/home/ManusiaBiasa/domains/manusiabiasa
 <programme start="20260509103000 +0000" stop="20260509130000 +0000" channel="Sky Sport Bundesliga 6 HD.skyde">
     <title>Live 2. BL: Multiview 33. Spieltag, Samstag</title>
 </programme>
-<programme start="20260509130000 +0000" stop="20260509161500 +0000" channel="Sky Sport Bundesliga 6 HD.skyde">
+<programme start="20260509130000 +0000" stop="20260509153000 +0000" channel="Sky Sport Bundesliga 6 HD.skyde">
     <title>Live BL: Multiview 33. Spieltag</title>
 </programme>
 <programme start="20260509101000 +0000" stop="20260509103000 +0000" channel="Sky Sport Bundesliga 7 HD.skyde">
@@ -2726,7 +2837,7 @@ Warning: Undefined array key "et" in /usr/home/ManusiaBiasa/domains/manusiabiasa
 <programme start="20260509103000 +0000" stop="20260509130000 +0000" channel="Sky Sport Bundesliga 7 HD.skyde">
     <title>Live 2. BL: Samstags-Konferenz, 33. Spieltag</title>
 </programme>
-<programme start="20260509130000 +0000" stop="20260509141500 +0000" channel="Sky Sport Bundesliga 7 HD.skyde">
+<programme start="20260509130000 +0000" stop="20260509134500 +0000" channel="Sky Sport Bundesliga 7 HD.skyde">
     <title>Live 2. BL Alle Spiele, alle Tore: Die Vodafone Highlight-Show, 33. Spieltag, Samstag</title>
 </programme>
 <programme start="20260508221500 +0000" stop="20260508231000 +0000" channel="Sky Sport F1 HD.skyde">
@@ -2849,14 +2960,14 @@ Warning: Undefined array key "et" in /usr/home/ManusiaBiasa/domains/manusiabiasa
 <programme start="20260508220000 +0000" stop="20260508230000 +0000" channel="Sky Sport Mix HD.skyde">
     <title>NHL: Tonight - Playoff Edition</title>
 </programme>
-<programme start="20260508230000 +0000" stop="20260509020000 +0000" channel="Sky Sport Mix HD.skyde">
+<programme start="20260508230000 +0000" stop="20260509015000 +0000" channel="Sky Sport Mix HD.skyde">
     <title>Live NHL: Montreal Canadiens @ Buffalo Sabres, Playoffs, 2. Runde, Spiel 2</title>
+</programme>
+<programme start="20260509015000 +0000" stop="20260509043000 +0000" channel="Sky Sport Mix HD.skyde">
+    <title>Live NHL: Vegas Golden Knights @ Anaheim Ducks, Playoffs, 2. Runde, Spiel 3</title>
 </programme>
 <programme start="20260509020000 +0000" stop="20260509023000 +0000" channel="Sky Sport Mix HD.skyde">
     <title>NBA: Action</title>
-</programme>
-<programme start="20260509020000 +0000" stop="20260509043000 +0000" channel="Sky Sport Mix HD.skyde">
-    <title>Live NHL: Vegas Golden Knights @ Anaheim Ducks, Playoffs, 2. Runde, Spiel 3</title>
 </programme>
 <programme start="20260509023000 +0000" stop="20260509030000 +0000" channel="Sky Sport Mix HD.skyde">
     <title>NBA: On Fire</title>
@@ -3200,7 +3311,7 @@ Warning: Undefined array key "et" in /usr/home/ManusiaBiasa/domains/manusiabiasa
 <programme start="20260509135000 +0000" stop="20260509160000 +0000" channel="Sky Sport 9 HD.skyde">
     <title>Live EFL: FC Stevenage - Stockport County, Playoffs Halbfinale Hinspiel</title>
 </programme>
-<programme start="20260509160000 +0000" stop="20260509210000 +0000" channel="Sky Sport 9 HD.skyde">
+<programme start="20260509160000 +0000" stop="20260510000000 +0000" channel="Sky Sport 9 HD.skyde">
     <title>Live WTA 1000: Internazionali BNL d&#039;Italia in Rom (Italien), 5. Tag</title>
 </programme>
 <programme start="20260508224000 +0000" stop="20260508232500 +0000" channel="SYFY HD.skyde">
