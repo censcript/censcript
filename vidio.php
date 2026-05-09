@@ -207,7 +207,7 @@
   <programme channel="204" start="20260509131000 +0000" stop="20260509143500 +0000">
     <title lang="id">Beri Cinta Waktu</title>
     <desc lang="id">Sinetron romansa tentang perjalanan Trian (Yesaya Abraham) mencari keadilan dan mengungkap kejahatan pasca Adila, istrinya meninggal dunia, dengan bantuan Rama (Rayn Wijaya) dan Asmara (Angela Gilsha). Tayang setiap hari pukul 20.10 WIB</desc>
-    <icon src="https://thumbor.prod.vidiocdn.com/ho2PtWvpg-rvR-RgqS1-Xs_7xWA=/287x162/filters:strip_icc():quality(70)/vidio-media-production/uploads/tv_program/thumbnail/393465/43cc4c.jpg"/>
+    <icon src="https://thumbor.prod.vidiocdn.com/CZx0FlEh2WQt12I7NayB_iqd4T4=/287x162/filters:strip_icc():quality(70)/vidio-media-production/uploads/tv_program/thumbnail/393465/f02c9e.jpg"/>
   </programme>
   <programme channel="204" start="20260509143500 +0000" stop="20260509160000 +0000">
     <title lang="id">Jejak Duka Diandra</title>
@@ -304,7 +304,7 @@
   <programme channel="204" start="20260510130000 +0000" stop="20260510143000 +0000">
     <title lang="id">Beri Cinta Waktu</title>
     <desc lang="id">Sinetron romansa tentang perjalanan Trian (Yesaya Abraham) mencari keadilan dan mengungkap kejahatan pasca Adila, istrinya meninggal dunia, dengan bantuan Rama (Rayn Wijaya) dan Asmara (Angela Gilsha). Tayang setiap hari pukul 20.10 WIB</desc>
-    <icon src="https://thumbor.prod.vidiocdn.com/ho2PtWvpg-rvR-RgqS1-Xs_7xWA=/287x162/filters:strip_icc():quality(70)/vidio-media-production/uploads/tv_program/thumbnail/393465/43cc4c.jpg"/>
+    <icon src="https://thumbor.prod.vidiocdn.com/CZx0FlEh2WQt12I7NayB_iqd4T4=/287x162/filters:strip_icc():quality(70)/vidio-media-production/uploads/tv_program/thumbnail/393465/f02c9e.jpg"/>
   </programme>
   <programme channel="204" start="20260510143000 +0000" stop="20260510160000 +0000">
     <title lang="id">Jejak Duka Diandra</title>
@@ -400,7 +400,7 @@
   <programme channel="204" start="20260511125700 +0000" stop="20260511141500 +0000">
     <title lang="id">Beri Cinta Waktu</title>
     <desc lang="id">Sinetron romansa tentang perjalanan Trian (Yesaya Abraham) mencari keadilan dan mengungkap kejahatan pasca Adila, istrinya meninggal dunia, dengan bantuan Rama (Rayn Wijaya) dan Asmara (Angela Gilsha). Tayang setiap hari pukul 20.10 WIB</desc>
-    <icon src="https://thumbor.prod.vidiocdn.com/ho2PtWvpg-rvR-RgqS1-Xs_7xWA=/287x162/filters:strip_icc():quality(70)/vidio-media-production/uploads/tv_program/thumbnail/393465/43cc4c.jpg"/>
+    <icon src="https://thumbor.prod.vidiocdn.com/CZx0FlEh2WQt12I7NayB_iqd4T4=/287x162/filters:strip_icc():quality(70)/vidio-media-production/uploads/tv_program/thumbnail/393465/f02c9e.jpg"/>
   </programme>
   <programme channel="204" start="20260511141500 +0000" stop="20260511171900 +0000">
     <title lang="id">The Icon Indonesia Top 13 Final - Live</title>
@@ -495,7 +495,7 @@
   <programme channel="204" start="20260512130000 +0000" stop="20260512144500 +0000">
     <title lang="id">Beri Cinta Waktu</title>
     <desc lang="id">Sinetron romansa tentang perjalanan Trian (Yesaya Abraham) mencari keadilan dan mengungkap kejahatan pasca Adila, istrinya meninggal dunia, dengan bantuan Rama (Rayn Wijaya) dan Asmara (Angela Gilsha). Tayang setiap hari pukul 20.10 WIB</desc>
-    <icon src="https://thumbor.prod.vidiocdn.com/ho2PtWvpg-rvR-RgqS1-Xs_7xWA=/287x162/filters:strip_icc():quality(70)/vidio-media-production/uploads/tv_program/thumbnail/393465/43cc4c.jpg"/>
+    <icon src="https://thumbor.prod.vidiocdn.com/CZx0FlEh2WQt12I7NayB_iqd4T4=/287x162/filters:strip_icc():quality(70)/vidio-media-production/uploads/tv_program/thumbnail/393465/f02c9e.jpg"/>
   </programme>
   <programme channel="204" start="20260512144500 +0000" stop="20260512160000 +0000">
     <title lang="id">Jejak Duka Diandra</title>
@@ -591,7 +591,7 @@
   <programme channel="204" start="20260513130000 +0000" stop="20260513144500 +0000">
     <title lang="id">Beri Cinta Waktu</title>
     <desc lang="id">Sinetron romansa tentang perjalanan Trian (Yesaya Abraham) mencari keadilan dan mengungkap kejahatan pasca Adila, istrinya meninggal dunia, dengan bantuan Rama (Rayn Wijaya) dan Asmara (Angela Gilsha). Tayang setiap hari pukul 20.10 WIB</desc>
-    <icon src="https://thumbor.prod.vidiocdn.com/ho2PtWvpg-rvR-RgqS1-Xs_7xWA=/287x162/filters:strip_icc():quality(70)/vidio-media-production/uploads/tv_program/thumbnail/393465/43cc4c.jpg"/>
+    <icon src="https://thumbor.prod.vidiocdn.com/CZx0FlEh2WQt12I7NayB_iqd4T4=/287x162/filters:strip_icc():quality(70)/vidio-media-production/uploads/tv_program/thumbnail/393465/f02c9e.jpg"/>
   </programme>
   <programme channel="204" start="20260513144500 +0000" stop="20260513160000 +0000">
     <title lang="id">Jejak Duka Diandra</title>
@@ -687,7 +687,7 @@
   <programme channel="204" start="20260514130000 +0000" stop="20260514144500 +0000">
     <title lang="id">Beri Cinta Waktu</title>
     <desc lang="id">Sinetron romansa tentang perjalanan Trian (Yesaya Abraham) mencari keadilan dan mengungkap kejahatan pasca Adila, istrinya meninggal dunia, dengan bantuan Rama (Rayn Wijaya) dan Asmara (Angela Gilsha). Tayang setiap hari pukul 20.10 WIB</desc>
-    <icon src="https://thumbor.prod.vidiocdn.com/ho2PtWvpg-rvR-RgqS1-Xs_7xWA=/287x162/filters:strip_icc():quality(70)/vidio-media-production/uploads/tv_program/thumbnail/393465/43cc4c.jpg"/>
+    <icon src="https://thumbor.prod.vidiocdn.com/CZx0FlEh2WQt12I7NayB_iqd4T4=/287x162/filters:strip_icc():quality(70)/vidio-media-production/uploads/tv_program/thumbnail/393465/f02c9e.jpg"/>
   </programme>
   <programme channel="204" start="20260514144500 +0000" stop="20260514160000 +0000">
     <title lang="id">Jejak Duka Diandra</title>
@@ -783,7 +783,7 @@
   <programme channel="204" start="20260515130000 +0000" stop="20260515144500 +0000">
     <title lang="id">Beri Cinta Waktu</title>
     <desc lang="id">Sinetron romansa tentang perjalanan Trian (Yesaya Abraham) mencari keadilan dan mengungkap kejahatan pasca Adila, istrinya meninggal dunia, dengan bantuan Rama (Rayn Wijaya) dan Asmara (Angela Gilsha). Tayang setiap hari pukul 20.10 WIB</desc>
-    <icon src="https://thumbor.prod.vidiocdn.com/ho2PtWvpg-rvR-RgqS1-Xs_7xWA=/287x162/filters:strip_icc():quality(70)/vidio-media-production/uploads/tv_program/thumbnail/393465/43cc4c.jpg"/>
+    <icon src="https://thumbor.prod.vidiocdn.com/CZx0FlEh2WQt12I7NayB_iqd4T4=/287x162/filters:strip_icc():quality(70)/vidio-media-production/uploads/tv_program/thumbnail/393465/f02c9e.jpg"/>
   </programme>
   <programme channel="204" start="20260515144500 +0000" stop="20260515160000 +0000">
     <title lang="id">Jejak Duka Diandra</title>
@@ -865,7 +865,7 @@
     <icon src="https://thumbor.prod.vidiocdn.com/WIl2jiaTLEzHnNAo61AGzfdEXh8=/287x162/filters:strip_icc():quality(70)/vidio-media-production/uploads/tv_program/thumbnail/389747/fc3ce1.jpg"/>
   </programme>
   <programme channel="205" start="20260509113500 +0000" stop="20260509144000 +0000">
-    <title lang="id">PSS Sleman vs Garudayaksa FC - Pegadaian Championship 2025/</title>
+    <title lang="id">PSS Sleman vs Garudayaksa FC - Pegadaian Championship 2025</title>
     <desc lang="id">Kompetisi Pegadaian Championship 2025/26 Indonesia Kembali Digelar: Inilah Panggung Persaingan 26 Klub Liga 2 Yang Terbagi Dalam 3 Region. Saksikan Hanya Di Indosiar, Vidio.</desc>
     <icon src="https://thumbor.prod.vidiocdn.com/cBZL7ITaJCof6cqtayFee2uJCX8=/287x162/filters:strip_icc():quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/image/205/indosiar-d9a3d0.jpg"/>
   </programme>
@@ -16972,12 +16972,12 @@
     <desc lang="id">Show 31 Matchweek 36</desc>
     <icon src="https://thumbor.prod.vidiocdn.com/_8JaTGtU2WYTw0ylulYg_dmz37Y=/287x162/filters:strip_icc():quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/image/9183/champions-tv-6-8a049a.jpg"/>
   </programme>
-  <programme channel="9183" start="20260509110000 +0000" stop="20260509133000 +0000">
+  <programme channel="9183" start="20260509110000 +0000" stop="20260509133100 +0000">
     <title lang="id">(Data Zone) Liverpool vs Chelsea - Premier League</title>
     <desc lang="id">Nonton streaming pertandingan seru (Data Zone) Liverpool vs Chelsea - Premier League. Saksikan aksi-aksi terbaik dari tim yang bersaing ketat untuk meraih kemenangan. Dapatkan informasi lengkap mengenai jadwal pertandingan dan hasil pertandingan terbaru hanya di Vidio.</desc>
     <icon src="https://thumbor.prod.vidiocdn.com/U5rXl_n5Ik8gCBPTVqaWgLygsBM=/287x162/filters:strip_icc():quality(70)/vidio-media-production/uploads/livestreaming/schedule/thumbnail/5062595/838040.jpg"/>
   </programme>
-  <programme channel="9183" start="20260509133000 +0000" stop="20260509160000 +0000">
+  <programme channel="9183" start="20260509133100 +0000" stop="20260509160000 +0000">
     <title lang="id">Fulham vs Bournemouth - Premier League</title>
     <desc lang="id">Nonton streaming pertandingan seru Fulham vs Bournemouth - Premier League. Saksikan aksi-aksi terbaik dari tim yang bersaing ketat untuk meraih kemenangan. Dapatkan informasi lengkap mengenai jadwal pertandingan dan hasil pertandingan terbaru hanya di Vidio.</desc>
     <icon src="https://thumbor.prod.vidiocdn.com/jcYROOWUfEloaZ2e9kaFJAbSw3g=/287x162/filters:strip_icc():quality(70)/vidio-media-production/uploads/livestreaming/schedule/thumbnail/5062597/632cf7.jpg"/>

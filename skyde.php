@@ -488,376 +488,382 @@ Warning: Undefined array key "et" in /usr/home/ManusiaBiasa/domains/manusiabiasa
 <programme start="20260509215000 +0000" stop="20260509220000 +0000" channel="Cartoon Network.skyde">
     <title>Regular Show - Völlig abgedreht</title>
 </programme>
-<programme start="20260508220000 +0000" stop="20260508221500 +0000" channel="Cartoonito.skyde">
+<programme start="20260506220000 +0000" stop="20260506221500 +0000" channel="Cartoonito.skyde">
     <title>Die Tom und Jerry Show</title>
 </programme>
-<programme start="20260508221500 +0000" stop="20260508222000 +0000" channel="Cartoonito.skyde">
+<programme start="20260506221500 +0000" stop="20260506222000 +0000" channel="Cartoonito.skyde">
     <title>Die Tom und Jerry Show</title>
 </programme>
-<programme start="20260508222000 +0000" stop="20260508222500 +0000" channel="Cartoonito.skyde">
+<programme start="20260506222000 +0000" stop="20260506222500 +0000" channel="Cartoonito.skyde">
     <title>Die Tom und Jerry Show</title>
 </programme>
-<programme start="20260508222500 +0000" stop="20260508224000 +0000" channel="Cartoonito.skyde">
+<programme start="20260506222500 +0000" stop="20260506224000 +0000" channel="Cartoonito.skyde">
     <title>Die Tom und Jerry Show</title>
 </programme>
-<programme start="20260508224000 +0000" stop="20260508224500 +0000" channel="Cartoonito.skyde">
+<programme start="20260506224000 +0000" stop="20260506224500 +0000" channel="Cartoonito.skyde">
     <title>Die Tom und Jerry Show</title>
 </programme>
-<programme start="20260508224500 +0000" stop="20260508225500 +0000" channel="Cartoonito.skyde">
+<programme start="20260506224500 +0000" stop="20260506225500 +0000" channel="Cartoonito.skyde">
     <title>Die Tom und Jerry Show</title>
 </programme>
-<programme start="20260508225500 +0000" stop="20260508230500 +0000" channel="Cartoonito.skyde">
+<programme start="20260506225500 +0000" stop="20260506230500 +0000" channel="Cartoonito.skyde">
     <title>Die Tom und Jerry Show</title>
 </programme>
-<programme start="20260508230500 +0000" stop="20260508231500 +0000" channel="Cartoonito.skyde">
+<programme start="20260506230500 +0000" stop="20260506231500 +0000" channel="Cartoonito.skyde">
     <title>Die Tom und Jerry Show</title>
 </programme>
-<programme start="20260508231500 +0000" stop="20260508232000 +0000" channel="Cartoonito.skyde">
+<programme start="20260506231500 +0000" stop="20260506232000 +0000" channel="Cartoonito.skyde">
     <title>Die Tom und Jerry Show</title>
 </programme>
-<programme start="20260508232000 +0000" stop="20260508232500 +0000" channel="Cartoonito.skyde">
+<programme start="20260506232000 +0000" stop="20260506232500 +0000" channel="Cartoonito.skyde">
     <title>Die Tom und Jerry Show</title>
 </programme>
-<programme start="20260508232500 +0000" stop="20260508234500 +0000" channel="Cartoonito.skyde">
+<programme start="20260506232500 +0000" stop="20260506234500 +0000" channel="Cartoonito.skyde">
     <title>Die Tom und Jerry Show</title>
 </programme>
-<programme start="20260508234500 +0000" stop="20260508235000 +0000" channel="Cartoonito.skyde">
+<programme start="20260506234500 +0000" stop="20260506235000 +0000" channel="Cartoonito.skyde">
     <title>Grizzy und die Lemminge</title>
 </programme>
-<programme start="20260508235000 +0000" stop="20260508235500 +0000" channel="Cartoonito.skyde">
+<programme start="20260506235000 +0000" stop="20260506235500 +0000" channel="Cartoonito.skyde">
     <title>Grizzy und die Lemminge</title>
 </programme>
-<programme start="20260508235500 +0000" stop="20260509001000 +0000" channel="Cartoonito.skyde">
+<programme start="20260506235500 +0000" stop="20260507001000 +0000" channel="Cartoonito.skyde">
     <title>Grizzy und die Lemminge</title>
 </programme>
-<programme start="20260509001000 +0000" stop="20260509001500 +0000" channel="Cartoonito.skyde">
+<programme start="20260507001000 +0000" stop="20260507001500 +0000" channel="Cartoonito.skyde">
     <title>Grizzy und die Lemminge</title>
 </programme>
-<programme start="20260509001500 +0000" stop="20260509002500 +0000" channel="Cartoonito.skyde">
+<programme start="20260507001500 +0000" stop="20260507002500 +0000" channel="Cartoonito.skyde">
     <title>Grizzy und die Lemminge</title>
 </programme>
-<programme start="20260509002500 +0000" stop="20260509003000 +0000" channel="Cartoonito.skyde">
+<programme start="20260507002500 +0000" stop="20260507003000 +0000" channel="Cartoonito.skyde">
     <title>Grizzy und die Lemminge</title>
 </programme>
-<programme start="20260509003000 +0000" stop="20260509004500 +0000" channel="Cartoonito.skyde">
+<programme start="20260507003000 +0000" stop="20260507004000 +0000" channel="Cartoonito.skyde">
     <title>Grizzy und die Lemminge</title>
 </programme>
-<programme start="20260509004500 +0000" stop="20260509005500 +0000" channel="Cartoonito.skyde">
+<programme start="20260507004000 +0000" stop="20260507005500 +0000" channel="Cartoonito.skyde">
     <title>Mr. Bean - Die Cartoon-Serie</title>
 </programme>
-<programme start="20260509005500 +0000" stop="20260509011000 +0000" channel="Cartoonito.skyde">
+<programme start="20260507005500 +0000" stop="20260507011000 +0000" channel="Cartoonito.skyde">
     <title>Mr. Bean - Die Cartoon-Serie</title>
 </programme>
-<programme start="20260509011000 +0000" stop="20260509012000 +0000" channel="Cartoonito.skyde">
+<programme start="20260507011000 +0000" stop="20260507012000 +0000" channel="Cartoonito.skyde">
     <title>Mr. Bean - Die Cartoon-Serie</title>
 </programme>
-<programme start="20260509012000 +0000" stop="20260509014000 +0000" channel="Cartoonito.skyde">
+<programme start="20260507012000 +0000" stop="20260507014000 +0000" channel="Cartoonito.skyde">
     <title>Mr. Bean - Die Cartoon-Serie</title>
 </programme>
-<programme start="20260509014000 +0000" stop="20260509015000 +0000" channel="Cartoonito.skyde">
+<programme start="20260507014000 +0000" stop="20260507015000 +0000" channel="Cartoonito.skyde">
     <title>Maulwurf Moley</title>
 </programme>
-<programme start="20260509015000 +0000" stop="20260509020000 +0000" channel="Cartoonito.skyde">
+<programme start="20260507015000 +0000" stop="20260507020000 +0000" channel="Cartoonito.skyde">
     <title>Maulwurf Moley</title>
 </programme>
-<programme start="20260509020000 +0000" stop="20260509022000 +0000" channel="Cartoonito.skyde">
+<programme start="20260507020000 +0000" stop="20260507022000 +0000" channel="Cartoonito.skyde">
     <title>Maulwurf Moley</title>
 </programme>
-<programme start="20260509022000 +0000" stop="20260509023000 +0000" channel="Cartoonito.skyde">
+<programme start="20260507022000 +0000" stop="20260507023000 +0000" channel="Cartoonito.skyde">
     <title>Maulwurf Moley</title>
 </programme>
-<programme start="20260509023000 +0000" stop="20260509024000 +0000" channel="Cartoonito.skyde">
+<programme start="20260507023000 +0000" stop="20260507024000 +0000" channel="Cartoonito.skyde">
     <title>Maulwurf Moley</title>
 </programme>
-<programme start="20260509024000 +0000" stop="20260509025000 +0000" channel="Cartoonito.skyde">
-    <title>Bugs Bunnys Baumeister: Bauhelm-Zeit</title>
-</programme>
-<programme start="20260509025000 +0000" stop="20260509030000 +0000" channel="Cartoonito.skyde">
-    <title>Flipi und die Pilzlinge</title>
-</programme>
-<programme start="20260509030000 +0000" stop="20260509031000 +0000" channel="Cartoonito.skyde">
-    <title>Flipi und die Pilzlinge</title>
-</programme>
-<programme start="20260509031000 +0000" stop="20260509033000 +0000" channel="Cartoonito.skyde">
-    <title>Flipi und die Pilzlinge</title>
-</programme>
-<programme start="20260509033000 +0000" stop="20260509034000 +0000" channel="Cartoonito.skyde">
-    <title>Flipi und die Pilzlinge</title>
-</programme>
-<programme start="20260509034000 +0000" stop="20260509040000 +0000" channel="Cartoonito.skyde">
-    <title>Flipi und die Pilzlinge</title>
-</programme>
-<programme start="20260509040000 +0000" stop="20260509040700 +0000" channel="Cartoonito.skyde">
-    <title>Lamput</title>
-</programme>
-<programme start="20260509040700 +0000" stop="20260509040800 +0000" channel="Cartoonito.skyde">
-    <title>Lamput</title>
-</programme>
-<programme start="20260509040800 +0000" stop="20260509041500 +0000" channel="Cartoonito.skyde">
-    <title>Lamput</title>
-</programme>
-<programme start="20260509041500 +0000" stop="20260509043000 +0000" channel="Cartoonito.skyde">
-    <title>Lamput</title>
-</programme>
-<programme start="20260509043000 +0000" stop="20260509043500 +0000" channel="Cartoonito.skyde">
-    <title>Lamput</title>
-</programme>
-<programme start="20260509043500 +0000" stop="20260509044000 +0000" channel="Cartoonito.skyde">
-    <title>Lamput</title>
-</programme>
-<programme start="20260509044000 +0000" stop="20260509045500 +0000" channel="Cartoonito.skyde">
-    <title>SuperThings: Rivalen von Kaboom - Kazoom-Power</title>
-</programme>
-<programme start="20260509045500 +0000" stop="20260509050000 +0000" channel="Cartoonito.skyde">
-    <title>Grizzy und die Lemminge</title>
-</programme>
-<programme start="20260509050000 +0000" stop="20260509051000 +0000" channel="Cartoonito.skyde">
-    <title>Grizzy und die Lemminge</title>
-</programme>
-<programme start="20260509051000 +0000" stop="20260509052500 +0000" channel="Cartoonito.skyde">
-    <title>Grizzy und die Lemminge</title>
-</programme>
-<programme start="20260509052500 +0000" stop="20260509053500 +0000" channel="Cartoonito.skyde">
-    <title>Batwheels</title>
-</programme>
-<programme start="20260509053500 +0000" stop="20260509055000 +0000" channel="Cartoonito.skyde">
-    <title>Batwheels</title>
-</programme>
-<programme start="20260509055000 +0000" stop="20260509060000 +0000" channel="Cartoonito.skyde">
-    <title>Ben 10</title>
-</programme>
-<programme start="20260509060000 +0000" stop="20260509062000 +0000" channel="Cartoonito.skyde">
-    <title>Ben 10</title>
-</programme>
-<programme start="20260509062000 +0000" stop="20260509065000 +0000" channel="Cartoonito.skyde">
-    <title>Bleib cool, Scooby-Doo!</title>
-</programme>
-<programme start="20260509065000 +0000" stop="20260509072000 +0000" channel="Cartoonito.skyde">
-    <title>Bleib cool, Scooby-Doo!</title>
-</programme>
-<programme start="20260509072000 +0000" stop="20260509073000 +0000" channel="Cartoonito.skyde">
-    <title>Mr. Bean - Die Cartoon-Serie</title>
-</programme>
-<programme start="20260509073000 +0000" stop="20260509074500 +0000" channel="Cartoonito.skyde">
-    <title>Mr. Bean - Die Cartoon-Serie</title>
-</programme>
-<programme start="20260509074500 +0000" stop="20260509075500 +0000" channel="Cartoonito.skyde">
-    <title>Mr. Bean - Die Cartoon-Serie</title>
-</programme>
-<programme start="20260509075500 +0000" stop="20260509081500 +0000" channel="Cartoonito.skyde">
-    <title>Mr. Bean - Die Cartoon-Serie</title>
-</programme>
-<programme start="20260509081500 +0000" stop="20260509082500 +0000" channel="Cartoonito.skyde">
-    <title>Grizzy und die Lemminge</title>
-</programme>
-<programme start="20260509082500 +0000" stop="20260509083000 +0000" channel="Cartoonito.skyde">
-    <title>Grizzy und die Lemminge</title>
-</programme>
-<programme start="20260509083000 +0000" stop="20260509084500 +0000" channel="Cartoonito.skyde">
-    <title>Grizzy und die Lemminge</title>
-</programme>
-<programme start="20260509084500 +0000" stop="20260509085000 +0000" channel="Cartoonito.skyde">
-    <title>Grizzy und die Lemminge</title>
-</programme>
-<programme start="20260509085000 +0000" stop="20260509085500 +0000" channel="Cartoonito.skyde">
-    <title>Grizzy und die Lemminge</title>
-</programme>
-<programme start="20260509085500 +0000" stop="20260509090500 +0000" channel="Cartoonito.skyde">
-    <title>Grizzy und die Lemminge</title>
-</programme>
-<programme start="20260509090500 +0000" stop="20260509092000 +0000" channel="Cartoonito.skyde">
-    <title>Grizzy und die Lemminge</title>
-</programme>
-<programme start="20260509092000 +0000" stop="20260509092500 +0000" channel="Cartoonito.skyde">
-    <title>Die Tom und Jerry Show</title>
-</programme>
-<programme start="20260509092500 +0000" stop="20260509093000 +0000" channel="Cartoonito.skyde">
-    <title>Die Tom und Jerry Show</title>
-</programme>
-<programme start="20260509093000 +0000" stop="20260509094500 +0000" channel="Cartoonito.skyde">
-    <title>Die Tom und Jerry Show</title>
-</programme>
-<programme start="20260509094500 +0000" stop="20260509095500 +0000" channel="Cartoonito.skyde">
-    <title>Die Tom und Jerry Show</title>
-</programme>
-<programme start="20260509095500 +0000" stop="20260509100000 +0000" channel="Cartoonito.skyde">
-    <title>Die Tom und Jerry Show</title>
-</programme>
-<programme start="20260509100000 +0000" stop="20260509101500 +0000" channel="Cartoonito.skyde">
-    <title>Die Tom und Jerry Show</title>
-</programme>
-<programme start="20260509101500 +0000" stop="20260509102500 +0000" channel="Cartoonito.skyde">
-    <title>Mr. Bean - Die Cartoon-Serie</title>
-</programme>
-<programme start="20260509102500 +0000" stop="20260509103500 +0000" channel="Cartoonito.skyde">
-    <title>Mr. Bean - Die Cartoon-Serie</title>
-</programme>
-<programme start="20260509103500 +0000" stop="20260509105500 +0000" channel="Cartoonito.skyde">
-    <title>Mr. Bean - Die Cartoon-Serie</title>
-</programme>
-<programme start="20260509105500 +0000" stop="20260509110500 +0000" channel="Cartoonito.skyde">
-    <title>Mr. Bean - Die Cartoon-Serie</title>
-</programme>
-<programme start="20260509110500 +0000" stop="20260509112000 +0000" channel="Cartoonito.skyde">
-    <title>Mr. Bean - Die Cartoon-Serie</title>
-</programme>
-<programme start="20260509112000 +0000" stop="20260509113000 +0000" channel="Cartoonito.skyde">
-    <title>Mr. Bean - Die Cartoon-Serie</title>
-</programme>
-<programme start="20260509113000 +0000" stop="20260509115000 +0000" channel="Cartoonito.skyde">
-    <title>Mr. Bean - Die Cartoon-Serie</title>
-</programme>
-<programme start="20260509115000 +0000" stop="20260509120000 +0000" channel="Cartoonito.skyde">
-    <title>Mr. Bean - Die Cartoon-Serie</title>
-</programme>
-<programme start="20260509120000 +0000" stop="20260509121000 +0000" channel="Cartoonito.skyde">
-    <title>Mr. Bean - Die Cartoon-Serie</title>
-</programme>
-<programme start="20260509121000 +0000" stop="20260509123000 +0000" channel="Cartoonito.skyde">
-    <title>Mr. Bean - Die Cartoon-Serie</title>
-</programme>
-<programme start="20260509123000 +0000" stop="20260509123500 +0000" channel="Cartoonito.skyde">
-    <title>Lamput</title>
-</programme>
-<programme start="20260509123500 +0000" stop="20260509124000 +0000" channel="Cartoonito.skyde">
-    <title>Lamput</title>
-</programme>
-<programme start="20260509124000 +0000" stop="20260509125500 +0000" channel="Cartoonito.skyde">
-    <title>Lamput</title>
-</programme>
-<programme start="20260509125500 +0000" stop="20260509130500 +0000" channel="Cartoonito.skyde">
-    <title>Batwheels</title>
-</programme>
-<programme start="20260509130500 +0000" stop="20260509132500 +0000" channel="Cartoonito.skyde">
-    <title>Batwheels</title>
-</programme>
-<programme start="20260509132500 +0000" stop="20260509133500 +0000" channel="Cartoonito.skyde">
-    <title>Ben 10</title>
-</programme>
-<programme start="20260509133500 +0000" stop="20260509135500 +0000" channel="Cartoonito.skyde">
-    <title>Ben 10</title>
-</programme>
-<programme start="20260509135500 +0000" stop="20260509142000 +0000" channel="Cartoonito.skyde">
-    <title>Bleib cool, Scooby-Doo!</title>
-</programme>
-<programme start="20260509142000 +0000" stop="20260509144500 +0000" channel="Cartoonito.skyde">
-    <title>Bleib cool, Scooby-Doo!</title>
-</programme>
-<programme start="20260509144500 +0000" stop="20260509145500 +0000" channel="Cartoonito.skyde">
+<programme start="20260507024000 +0000" stop="20260507025000 +0000" channel="Cartoonito.skyde">
     <title>Tom und Jerry Gokko</title>
 </programme>
-<programme start="20260509145500 +0000" stop="20260509150000 +0000" channel="Cartoonito.skyde">
-    <title>Grizzy und die Lemminge</title>
+<programme start="20260507025000 +0000" stop="20260507030000 +0000" channel="Cartoonito.skyde">
+    <title>Flipi und die Pilzlinge</title>
 </programme>
-<programme start="20260509150000 +0000" stop="20260509150500 +0000" channel="Cartoonito.skyde">
-    <title>Grizzy und die Lemminge</title>
+<programme start="20260507030000 +0000" stop="20260507031000 +0000" channel="Cartoonito.skyde">
+    <title>Flipi und die Pilzlinge</title>
 </programme>
-<programme start="20260509150500 +0000" stop="20260509152000 +0000" channel="Cartoonito.skyde">
-    <title>Grizzy und die Lemminge</title>
+<programme start="20260507031000 +0000" stop="20260507033000 +0000" channel="Cartoonito.skyde">
+    <title>Flipi und die Pilzlinge</title>
 </programme>
-<programme start="20260509152000 +0000" stop="20260509152500 +0000" channel="Cartoonito.skyde">
-    <title>Grizzy und die Lemminge</title>
+<programme start="20260507033000 +0000" stop="20260507034000 +0000" channel="Cartoonito.skyde">
+    <title>Flipi und die Pilzlinge</title>
 </programme>
-<programme start="20260509152500 +0000" stop="20260509153500 +0000" channel="Cartoonito.skyde">
-    <title>Grizzy und die Lemminge</title>
+<programme start="20260507034000 +0000" stop="20260507040000 +0000" channel="Cartoonito.skyde">
+    <title>Flipi und die Pilzlinge</title>
 </programme>
-<programme start="20260509153500 +0000" stop="20260509154500 +0000" channel="Cartoonito.skyde">
-    <title>Grizzy und die Lemminge</title>
+<programme start="20260507040000 +0000" stop="20260507040700 +0000" channel="Cartoonito.skyde">
+    <title>Lamput</title>
 </programme>
-<programme start="20260509154500 +0000" stop="20260509155500 +0000" channel="Cartoonito.skyde">
-    <title>Grizzy und die Lemminge</title>
+<programme start="20260507040700 +0000" stop="20260507040800 +0000" channel="Cartoonito.skyde">
+    <title>Lamput</title>
 </programme>
-<programme start="20260509155500 +0000" stop="20260509160000 +0000" channel="Cartoonito.skyde">
-    <title>Grizzy und die Lemminge</title>
+<programme start="20260507040800 +0000" stop="20260507041500 +0000" channel="Cartoonito.skyde">
+    <title>Lamput</title>
 </programme>
-<programme start="20260509160000 +0000" stop="20260509161500 +0000" channel="Cartoonito.skyde">
-    <title>Grizzy und die Lemminge</title>
+<programme start="20260507041500 +0000" stop="20260507043000 +0000" channel="Cartoonito.skyde">
+    <title>Lamput</title>
 </programme>
-<programme start="20260509161500 +0000" stop="20260509162000 +0000" channel="Cartoonito.skyde">
-    <title>Grizzy und die Lemminge</title>
+<programme start="20260507043000 +0000" stop="20260507043500 +0000" channel="Cartoonito.skyde">
+    <title>Lamput</title>
 </programme>
-<programme start="20260509162000 +0000" stop="20260509163000 +0000" channel="Cartoonito.skyde">
-    <title>Grizzy und die Lemminge</title>
+<programme start="20260507043500 +0000" stop="20260507044000 +0000" channel="Cartoonito.skyde">
+    <title>Lamput</title>
 </programme>
-<programme start="20260509163000 +0000" stop="20260509163500 +0000" channel="Cartoonito.skyde">
-    <title>Grizzy und die Lemminge</title>
-</programme>
-<programme start="20260509163500 +0000" stop="20260509164500 +0000" channel="Cartoonito.skyde">
-    <title>Grizzy und die Lemminge</title>
-</programme>
-<programme start="20260509164500 +0000" stop="20260509170000 +0000" channel="Cartoonito.skyde">
+<programme start="20260507044000 +0000" stop="20260507045500 +0000" channel="Cartoonito.skyde">
     <title>SuperThings: Rivalen von Kaboom - Kazoom-Power</title>
 </programme>
-<programme start="20260509170000 +0000" stop="20260509171000 +0000" channel="Cartoonito.skyde">
+<programme start="20260507045500 +0000" stop="20260507050000 +0000" channel="Cartoonito.skyde">
+    <title>Grizzy und die Lemminge</title>
+</programme>
+<programme start="20260507050000 +0000" stop="20260507051000 +0000" channel="Cartoonito.skyde">
+    <title>Grizzy und die Lemminge</title>
+</programme>
+<programme start="20260507051000 +0000" stop="20260507052500 +0000" channel="Cartoonito.skyde">
+    <title>Grizzy und die Lemminge</title>
+</programme>
+<programme start="20260507052500 +0000" stop="20260507053500 +0000" channel="Cartoonito.skyde">
+    <title>Batwheels</title>
+</programme>
+<programme start="20260507053500 +0000" stop="20260507055000 +0000" channel="Cartoonito.skyde">
+    <title>Batwheels</title>
+</programme>
+<programme start="20260507055000 +0000" stop="20260507060000 +0000" channel="Cartoonito.skyde">
     <title>Ben 10</title>
 </programme>
-<programme start="20260509171000 +0000" stop="20260509172500 +0000" channel="Cartoonito.skyde">
+<programme start="20260507060000 +0000" stop="20260507062000 +0000" channel="Cartoonito.skyde">
     <title>Ben 10</title>
 </programme>
-<programme start="20260509172500 +0000" stop="20260509175500 +0000" channel="Cartoonito.skyde">
+<programme start="20260507062000 +0000" stop="20260507065000 +0000" channel="Cartoonito.skyde">
     <title>Bleib cool, Scooby-Doo!</title>
 </programme>
-<programme start="20260509175500 +0000" stop="20260509180500 +0000" channel="Cartoonito.skyde">
+<programme start="20260507065000 +0000" stop="20260507072000 +0000" channel="Cartoonito.skyde">
+    <title>Bleib cool, Scooby-Doo!</title>
+</programme>
+<programme start="20260507072000 +0000" stop="20260507073000 +0000" channel="Cartoonito.skyde">
     <title>Mr. Bean - Die Cartoon-Serie</title>
 </programme>
-<programme start="20260509180500 +0000" stop="20260509182500 +0000" channel="Cartoonito.skyde">
+<programme start="20260507073000 +0000" stop="20260507074500 +0000" channel="Cartoonito.skyde">
     <title>Mr. Bean - Die Cartoon-Serie</title>
 </programme>
-<programme start="20260509182500 +0000" stop="20260509183500 +0000" channel="Cartoonito.skyde">
+<programme start="20260507074500 +0000" stop="20260507075500 +0000" channel="Cartoonito.skyde">
     <title>Mr. Bean - Die Cartoon-Serie</title>
 </programme>
-<programme start="20260509183500 +0000" stop="20260509185500 +0000" channel="Cartoonito.skyde">
+<programme start="20260507075500 +0000" stop="20260507081500 +0000" channel="Cartoonito.skyde">
     <title>Mr. Bean - Die Cartoon-Serie</title>
 </programme>
-<programme start="20260509185500 +0000" stop="20260509190000 +0000" channel="Cartoonito.skyde">
+<programme start="20260507081500 +0000" stop="20260507082500 +0000" channel="Cartoonito.skyde">
     <title>Grizzy und die Lemminge</title>
 </programme>
-<programme start="20260509190000 +0000" stop="20260509190500 +0000" channel="Cartoonito.skyde">
+<programme start="20260507082500 +0000" stop="20260507083000 +0000" channel="Cartoonito.skyde">
     <title>Grizzy und die Lemminge</title>
 </programme>
-<programme start="20260509190500 +0000" stop="20260509192000 +0000" channel="Cartoonito.skyde">
+<programme start="20260507083000 +0000" stop="20260507084500 +0000" channel="Cartoonito.skyde">
     <title>Grizzy und die Lemminge</title>
 </programme>
-<programme start="20260509192000 +0000" stop="20260509193000 +0000" channel="Cartoonito.skyde">
+<programme start="20260507084500 +0000" stop="20260507085000 +0000" channel="Cartoonito.skyde">
     <title>Grizzy und die Lemminge</title>
 </programme>
-<programme start="20260509193000 +0000" stop="20260509193500 +0000" channel="Cartoonito.skyde">
+<programme start="20260507085000 +0000" stop="20260507085500 +0000" channel="Cartoonito.skyde">
     <title>Grizzy und die Lemminge</title>
 </programme>
-<programme start="20260509193500 +0000" stop="20260509194000 +0000" channel="Cartoonito.skyde">
+<programme start="20260507085500 +0000" stop="20260507090500 +0000" channel="Cartoonito.skyde">
     <title>Grizzy und die Lemminge</title>
 </programme>
-<programme start="20260509194000 +0000" stop="20260509195500 +0000" channel="Cartoonito.skyde">
+<programme start="20260507090500 +0000" stop="20260507091000 +0000" channel="Cartoonito.skyde">
     <title>Grizzy und die Lemminge</title>
 </programme>
-<programme start="20260509195500 +0000" stop="20260509200500 +0000" channel="Cartoonito.skyde">
-    <title>Batwheels</title>
+<programme start="20260507091000 +0000" stop="20260507092000 +0000" channel="Cartoonito.skyde">
+    <title>Tom und Jerry Gokko</title>
 </programme>
-<programme start="20260509200500 +0000" stop="20260509202000 +0000" channel="Cartoonito.skyde">
-    <title>Batwheels</title>
-</programme>
-<programme start="20260509202000 +0000" stop="20260509203500 +0000" channel="Cartoonito.skyde">
-    <title>Batwheels</title>
-</programme>
-<programme start="20260509203500 +0000" stop="20260509205000 +0000" channel="Cartoonito.skyde">
-    <title>Batwheels</title>
-</programme>
-<programme start="20260509205000 +0000" stop="20260509210000 +0000" channel="Cartoonito.skyde">
-    <title>Bugs Bunnys Baumeister</title>
-</programme>
-<programme start="20260509210000 +0000" stop="20260509211500 +0000" channel="Cartoonito.skyde">
-    <title>Bugs Bunnys Baumeister</title>
-</programme>
-<programme start="20260509211500 +0000" stop="20260509212500 +0000" channel="Cartoonito.skyde">
-    <title>Bugs Bunnys Baumeister</title>
-</programme>
-<programme start="20260509212500 +0000" stop="20260509214500 +0000" channel="Cartoonito.skyde">
-    <title>Bugs Bunnys Baumeister</title>
-</programme>
-<programme start="20260509214500 +0000" stop="20260509215000 +0000" channel="Cartoonito.skyde">
+<programme start="20260507092000 +0000" stop="20260507092500 +0000" channel="Cartoonito.skyde">
     <title>Die Tom und Jerry Show</title>
 </programme>
-<programme start="20260509215000 +0000" stop="20260509220000 +0000" channel="Cartoonito.skyde">
+<programme start="20260507092500 +0000" stop="20260507093000 +0000" channel="Cartoonito.skyde">
+    <title>Die Tom und Jerry Show</title>
+</programme>
+<programme start="20260507093000 +0000" stop="20260507094500 +0000" channel="Cartoonito.skyde">
+    <title>Die Tom und Jerry Show</title>
+</programme>
+<programme start="20260507094500 +0000" stop="20260507095500 +0000" channel="Cartoonito.skyde">
+    <title>Die Tom und Jerry Show</title>
+</programme>
+<programme start="20260507095500 +0000" stop="20260507100000 +0000" channel="Cartoonito.skyde">
+    <title>Die Tom und Jerry Show</title>
+</programme>
+<programme start="20260507100000 +0000" stop="20260507101500 +0000" channel="Cartoonito.skyde">
+    <title>Die Tom und Jerry Show</title>
+</programme>
+<programme start="20260507101500 +0000" stop="20260507102500 +0000" channel="Cartoonito.skyde">
+    <title>Mr. Bean - Die Cartoon-Serie</title>
+</programme>
+<programme start="20260507102500 +0000" stop="20260507103500 +0000" channel="Cartoonito.skyde">
+    <title>Mr. Bean - Die Cartoon-Serie</title>
+</programme>
+<programme start="20260507103500 +0000" stop="20260507105500 +0000" channel="Cartoonito.skyde">
+    <title>Mr. Bean - Die Cartoon-Serie</title>
+</programme>
+<programme start="20260507105500 +0000" stop="20260507110500 +0000" channel="Cartoonito.skyde">
+    <title>Mr. Bean - Die Cartoon-Serie</title>
+</programme>
+<programme start="20260507110500 +0000" stop="20260507112500 +0000" channel="Cartoonito.skyde">
+    <title>Mr. Bean - Die Cartoon-Serie</title>
+</programme>
+<programme start="20260507112500 +0000" stop="20260507113500 +0000" channel="Cartoonito.skyde">
+    <title>Mr. Bean - Die Cartoon-Serie</title>
+</programme>
+<programme start="20260507113500 +0000" stop="20260507115000 +0000" channel="Cartoonito.skyde">
+    <title>Mr. Bean - Die Cartoon-Serie</title>
+</programme>
+<programme start="20260507115000 +0000" stop="20260507120000 +0000" channel="Cartoonito.skyde">
+    <title>Mr. Bean - Die Cartoon-Serie</title>
+</programme>
+<programme start="20260507120000 +0000" stop="20260507121000 +0000" channel="Cartoonito.skyde">
+    <title>Mr. Bean - Die Cartoon-Serie</title>
+</programme>
+<programme start="20260507121000 +0000" stop="20260507123000 +0000" channel="Cartoonito.skyde">
+    <title>Mr. Bean - Die Cartoon-Serie</title>
+</programme>
+<programme start="20260507123000 +0000" stop="20260507123500 +0000" channel="Cartoonito.skyde">
+    <title>Lamput</title>
+</programme>
+<programme start="20260507123500 +0000" stop="20260507124000 +0000" channel="Cartoonito.skyde">
+    <title>Lamput</title>
+</programme>
+<programme start="20260507124000 +0000" stop="20260507125500 +0000" channel="Cartoonito.skyde">
+    <title>Lamput</title>
+</programme>
+<programme start="20260507125500 +0000" stop="20260507130500 +0000" channel="Cartoonito.skyde">
+    <title>Batwheels</title>
+</programme>
+<programme start="20260507130500 +0000" stop="20260507132500 +0000" channel="Cartoonito.skyde">
+    <title>Batwheels</title>
+</programme>
+<programme start="20260507132500 +0000" stop="20260507133500 +0000" channel="Cartoonito.skyde">
+    <title>Ben 10</title>
+</programme>
+<programme start="20260507133500 +0000" stop="20260507135500 +0000" channel="Cartoonito.skyde">
+    <title>Ben 10</title>
+</programme>
+<programme start="20260507135500 +0000" stop="20260507142000 +0000" channel="Cartoonito.skyde">
+    <title>Bleib cool, Scooby-Doo!</title>
+</programme>
+<programme start="20260507142000 +0000" stop="20260507144500 +0000" channel="Cartoonito.skyde">
+    <title>Bleib cool, Scooby-Doo!</title>
+</programme>
+<programme start="20260507144500 +0000" stop="20260507145500 +0000" channel="Cartoonito.skyde">
+    <title>Tom und Jerry Gokko</title>
+</programme>
+<programme start="20260507145500 +0000" stop="20260507150000 +0000" channel="Cartoonito.skyde">
+    <title>Grizzy und die Lemminge</title>
+</programme>
+<programme start="20260507150000 +0000" stop="20260507150500 +0000" channel="Cartoonito.skyde">
+    <title>Grizzy und die Lemminge</title>
+</programme>
+<programme start="20260507150500 +0000" stop="20260507152000 +0000" channel="Cartoonito.skyde">
+    <title>Grizzy und die Lemminge</title>
+</programme>
+<programme start="20260507152000 +0000" stop="20260507152500 +0000" channel="Cartoonito.skyde">
+    <title>Grizzy und die Lemminge</title>
+</programme>
+<programme start="20260507152500 +0000" stop="20260507153500 +0000" channel="Cartoonito.skyde">
+    <title>Grizzy und die Lemminge</title>
+</programme>
+<programme start="20260507153500 +0000" stop="20260507154500 +0000" channel="Cartoonito.skyde">
+    <title>Grizzy und die Lemminge</title>
+</programme>
+<programme start="20260507154500 +0000" stop="20260507155500 +0000" channel="Cartoonito.skyde">
+    <title>Grizzy und die Lemminge</title>
+</programme>
+<programme start="20260507155500 +0000" stop="20260507160000 +0000" channel="Cartoonito.skyde">
+    <title>Grizzy und die Lemminge</title>
+</programme>
+<programme start="20260507160000 +0000" stop="20260507161500 +0000" channel="Cartoonito.skyde">
+    <title>Grizzy und die Lemminge</title>
+</programme>
+<programme start="20260507161500 +0000" stop="20260507162000 +0000" channel="Cartoonito.skyde">
+    <title>Grizzy und die Lemminge</title>
+</programme>
+<programme start="20260507162000 +0000" stop="20260507163000 +0000" channel="Cartoonito.skyde">
+    <title>Grizzy und die Lemminge</title>
+</programme>
+<programme start="20260507163000 +0000" stop="20260507163500 +0000" channel="Cartoonito.skyde">
+    <title>Grizzy und die Lemminge</title>
+</programme>
+<programme start="20260507163500 +0000" stop="20260507164500 +0000" channel="Cartoonito.skyde">
+    <title>Grizzy und die Lemminge</title>
+</programme>
+<programme start="20260507164500 +0000" stop="20260507170000 +0000" channel="Cartoonito.skyde">
+    <title>SuperThings: Rivalen von Kaboom - Kazoom-Power</title>
+</programme>
+<programme start="20260507170000 +0000" stop="20260507171000 +0000" channel="Cartoonito.skyde">
+    <title>Ben 10</title>
+</programme>
+<programme start="20260507171000 +0000" stop="20260507172500 +0000" channel="Cartoonito.skyde">
+    <title>Ben 10</title>
+</programme>
+<programme start="20260507172500 +0000" stop="20260507175500 +0000" channel="Cartoonito.skyde">
+    <title>Bleib cool, Scooby-Doo!</title>
+</programme>
+<programme start="20260507175500 +0000" stop="20260507180500 +0000" channel="Cartoonito.skyde">
+    <title>Mr. Bean - Die Cartoon-Serie</title>
+</programme>
+<programme start="20260507180500 +0000" stop="20260507182500 +0000" channel="Cartoonito.skyde">
+    <title>Mr. Bean - Die Cartoon-Serie</title>
+</programme>
+<programme start="20260507182500 +0000" stop="20260507183500 +0000" channel="Cartoonito.skyde">
+    <title>Mr. Bean - Die Cartoon-Serie</title>
+</programme>
+<programme start="20260507183500 +0000" stop="20260507185500 +0000" channel="Cartoonito.skyde">
+    <title>Mr. Bean - Die Cartoon-Serie</title>
+</programme>
+<programme start="20260507185500 +0000" stop="20260507190000 +0000" channel="Cartoonito.skyde">
+    <title>Grizzy und die Lemminge</title>
+</programme>
+<programme start="20260507190000 +0000" stop="20260507190500 +0000" channel="Cartoonito.skyde">
+    <title>Grizzy und die Lemminge</title>
+</programme>
+<programme start="20260507190500 +0000" stop="20260507192000 +0000" channel="Cartoonito.skyde">
+    <title>Grizzy und die Lemminge</title>
+</programme>
+<programme start="20260507192000 +0000" stop="20260507192500 +0000" channel="Cartoonito.skyde">
+    <title>Grizzy und die Lemminge</title>
+</programme>
+<programme start="20260507192500 +0000" stop="20260507193500 +0000" channel="Cartoonito.skyde">
+    <title>Grizzy und die Lemminge</title>
+</programme>
+<programme start="20260507193500 +0000" stop="20260507194000 +0000" channel="Cartoonito.skyde">
+    <title>Grizzy und die Lemminge</title>
+</programme>
+<programme start="20260507194000 +0000" stop="20260507195500 +0000" channel="Cartoonito.skyde">
+    <title>Grizzy und die Lemminge</title>
+</programme>
+<programme start="20260507195500 +0000" stop="20260507200500 +0000" channel="Cartoonito.skyde">
+    <title>Batwheels</title>
+</programme>
+<programme start="20260507200500 +0000" stop="20260507202000 +0000" channel="Cartoonito.skyde">
+    <title>Batwheels</title>
+</programme>
+<programme start="20260507202000 +0000" stop="20260507203000 +0000" channel="Cartoonito.skyde">
+    <title>Batwheels</title>
+</programme>
+<programme start="20260507203000 +0000" stop="20260507205000 +0000" channel="Cartoonito.skyde">
+    <title>Batwheels</title>
+</programme>
+<programme start="20260507205000 +0000" stop="20260507210000 +0000" channel="Cartoonito.skyde">
+    <title>Bugs Bunnys Baumeister</title>
+</programme>
+<programme start="20260507210000 +0000" stop="20260507211500 +0000" channel="Cartoonito.skyde">
+    <title>Bugs Bunnys Baumeister</title>
+</programme>
+<programme start="20260507211500 +0000" stop="20260507212500 +0000" channel="Cartoonito.skyde">
+    <title>Bugs Bunnys Baumeister</title>
+</programme>
+<programme start="20260507212500 +0000" stop="20260507213500 +0000" channel="Cartoonito.skyde">
+    <title>Bugs Bunnys Baumeister</title>
+</programme>
+<programme start="20260507213500 +0000" stop="20260507214500 +0000" channel="Cartoonito.skyde">
+    <title>Bugs Bunnys Baumeister: Bauhelm-Zeit</title>
+</programme>
+<programme start="20260507214500 +0000" stop="20260507215500 +0000" channel="Cartoonito.skyde">
+    <title>Die Tom und Jerry Show</title>
+</programme>
+<programme start="20260507215500 +0000" stop="20260507220000 +0000" channel="Cartoonito.skyde">
     <title>Die Tom und Jerry Show</title>
 </programme>
 <programme start="20260508222500 +0000" stop="20260508231000 +0000" channel="Crime + Investigation.skyde">
@@ -2639,13 +2645,13 @@ Warning: Undefined array key "et" in /usr/home/ManusiaBiasa/domains/manusiabiasa
 <programme start="20260509134000 +0000" stop="20260509140000 +0000" channel="Sky Sport Austria 2 HD.skyde">
     <title>Es folgt: LIVE Admiral BL</title>
 </programme>
-<programme start="20260509140000 +0000" stop="20260509173000 +0000" channel="Sky Sport Austria 2 HD.skyde">
+<programme start="20260509140000 +0000" stop="20260509170000 +0000" channel="Sky Sport Austria 2 HD.skyde">
     <title>Live Admiral BL: SV Oberbank Ried - RZ Pellets WAC, 31. Runde</title>
 </programme>
 <programme start="20260509134000 +0000" stop="20260509140000 +0000" channel="Sky Sport Austria 3 HD.skyde">
     <title>Es folgt: LIVE Admiral BL</title>
 </programme>
-<programme start="20260509140000 +0000" stop="20260509173000 +0000" channel="Sky Sport Austria 3 HD.skyde">
+<programme start="20260509140000 +0000" stop="20260509170000 +0000" channel="Sky Sport Austria 3 HD.skyde">
     <title>Live Admiral BL: Grazer AK 1902 - SCR Altach, 31. Runde</title>
 </programme>
 <programme start="20260509134000 +0000" stop="20260509140000 +0000" channel="Sky Sport Austria 4 HD.skyde">
@@ -2762,7 +2768,7 @@ Warning: Undefined array key "et" in /usr/home/ManusiaBiasa/domains/manusiabiasa
 <programme start="20260509131500 +0000" stop="20260509154500 +0000" channel="Sky Sport Bundesliga 1 HD.skyde">
     <title>Live BL: VfB Stuttgart - Bayer Leverkusen, 33. Spieltag</title>
 </programme>
-<programme start="20260509154500 +0000" stop="20260509194500 +0000" channel="Sky Sport Bundesliga 1 HD.skyde">
+<programme start="20260509154500 +0000" stop="20260509191500 +0000" channel="Sky Sport Bundesliga 1 HD.skyde">
     <title>Live BL: VfL Wolfsburg - FC Bayern München, tipico Topspiel der Woche, 33. Spieltag</title>
 </programme>
 <programme start="20260509101000 +0000" stop="20260509103000 +0000" channel="Sky Sport Bundesliga 2 HD.skyde">
@@ -2843,17 +2849,14 @@ Warning: Undefined array key "et" in /usr/home/ManusiaBiasa/domains/manusiabiasa
 <programme start="20260509130000 +0000" stop="20260509141500 +0000" channel="Sky Sport Bundesliga 7 HD.skyde">
     <title>Live 2. BL Alle Spiele, alle Tore: Die Vodafone Highlight-Show, 33. Spieltag, Samstag</title>
 </programme>
-<programme start="20260508221500 +0000" stop="20260508231000 +0000" channel="Sky Sport F1 HD.skyde">
+<programme start="20260508230000 +0000" stop="20260509000000 +0000" channel="Sky Sport F1 HD.skyde">
     <title>WRC: Vodafone Rally de Portugal - SS1 Águeda / Sever</title>
-</programme>
-<programme start="20260508231000 +0000" stop="20260509000000 +0000" channel="Sky Sport F1 HD.skyde">
-    <title>F1: Ted&#039;s Notebook: GP Miami</title>
 </programme>
 <programme start="20260509000000 +0000" stop="20260509003000 +0000" channel="Sky Sport F1 HD.skyde">
     <title>F1: Rennen Kompakt - GP Miami</title>
 </programme>
 <programme start="20260509003000 +0000" stop="20260509020000 +0000" channel="Sky Sport F1 HD.skyde">
-    <title>IndyCar: 2. Training in Indianapolis (Indiana)</title>
+    <title>IndyCar: Qualifying in Indianapolis (Indiana)</title>
 </programme>
 <programme start="20260509020000 +0000" stop="20260509040000 +0000" channel="Sky Sport F1 HD.skyde">
     <title>F1: Rennen - GP Miami</title>
@@ -3209,10 +3212,13 @@ Warning: Undefined array key "et" in /usr/home/ManusiaBiasa/domains/manusiabiasa
 <programme start="20260509212000 +0000" stop="20260509232000 +0000" channel="Sky Sport Premier League HD.skyde">
     <title>PL: Brighton &amp; Hove Albion - Wolverhampton Wanderers, 36. Spieltag</title>
 </programme>
-<programme start="20260508230000 +0000" stop="20260509000000 +0000" channel="Sky Sport Tennis HD.skyde">
+<programme start="20260508220000 +0000" stop="20260508223000 +0000" channel="Sky Sport Tennis HD.skyde">
+    <title>WTA 1000: Review Madrid</title>
+</programme>
+<programme start="20260508223000 +0000" stop="20260508233000 +0000" channel="Sky Sport Tennis HD.skyde">
     <title>WTA 1000: E. Lys (GER) - N. Osaka (JPN), Internazionali BNL d&#039;Italia in Rom (Italien), 4. Tag</title>
 </programme>
-<programme start="20260509000000 +0000" stop="20260509013000 +0000" channel="Sky Sport Tennis HD.skyde">
+<programme start="20260508233000 +0000" stop="20260509013000 +0000" channel="Sky Sport Tennis HD.skyde">
     <title>ATP 1000: D. Altmaier (GER) - A. Zverev (GER), Internazionali BNL d&#039;Italia in Rom (Italien), 4. Tag</title>
 </programme>
 <programme start="20260509013000 +0000" stop="20260509031500 +0000" channel="Sky Sport Tennis HD.skyde">
@@ -3221,13 +3227,13 @@ Warning: Undefined array key "et" in /usr/home/ManusiaBiasa/domains/manusiabiasa
 <programme start="20260509031500 +0000" stop="20260509040000 +0000" channel="Sky Sport Tennis HD.skyde">
     <title>ATP: The Ring Master: Alexander Bublik</title>
 </programme>
-<programme start="20260509040000 +0000" stop="20260509045500 +0000" channel="Sky Sport Tennis HD.skyde">
+<programme start="20260509040000 +0000" stop="20260509050000 +0000" channel="Sky Sport Tennis HD.skyde">
     <title>ATP 1000: Review Madrid</title>
 </programme>
-<programme start="20260509045500 +0000" stop="20260509065500 +0000" channel="Sky Sport Tennis HD.skyde">
+<programme start="20260509050000 +0000" stop="20260509070000 +0000" channel="Sky Sport Tennis HD.skyde">
     <title>WTA 1000: E. Lys (GER) - N. Osaka (JPN), Internazionali BNL d&#039;Italia in Rom (Italien), 4. Tag</title>
 </programme>
-<programme start="20260509065500 +0000" stop="20260509090000 +0000" channel="Sky Sport Tennis HD.skyde">
+<programme start="20260509070000 +0000" stop="20260509090000 +0000" channel="Sky Sport Tennis HD.skyde">
     <title>ATP 1000: D. Altmaier (GER) - A. Zverev (GER), Internazionali BNL d&#039;Italia in Rom (Italien), 4. Tag</title>
 </programme>
 <programme start="20260509090000 +0000" stop="20260509210000 +0000" channel="Sky Sport Tennis HD.skyde">
@@ -3242,10 +3248,10 @@ Warning: Undefined array key "et" in /usr/home/ManusiaBiasa/domains/manusiabiasa
 <programme start="20260508230000 +0000" stop="20260509015000 +0000" channel="Sky Sport Top Event HD.skyde">
     <title>Live NHL: Montreal Canadiens @ Buffalo Sabres, Playoffs, 2. Runde, Spiel 2</title>
 </programme>
-<programme start="20260509015000 +0000" stop="20260509050000 +0000" channel="Sky Sport Top Event HD.skyde">
+<programme start="20260509015000 +0000" stop="20260509043000 +0000" channel="Sky Sport Top Event HD.skyde">
     <title>Live NHL: Vegas Golden Knights @ Anaheim Ducks, Playoffs, 2. Runde, Spiel 3</title>
 </programme>
-<programme start="20260509050000 +0000" stop="20260509063500 +0000" channel="Sky Sport Top Event HD.skyde">
+<programme start="20260509043000 +0000" stop="20260509063500 +0000" channel="Sky Sport Top Event HD.skyde">
     <title>BL: Borussia Dortmund - Eintracht Frankfurt, Flutlicht-Freitag, 33. Spieltag</title>
 </programme>
 <programme start="20260509063500 +0000" stop="20260509071500 +0000" channel="Sky Sport Top Event HD.skyde">
@@ -3302,7 +3308,7 @@ Warning: Undefined array key "et" in /usr/home/ManusiaBiasa/domains/manusiabiasa
 <programme start="20260509133000 +0000" stop="20260509135000 +0000" channel="Sky Sport 8 HD.skyde">
     <title>Es folgt: LIVE PL</title>
 </programme>
-<programme start="20260509135000 +0000" stop="20260509170000 +0000" channel="Sky Sport 8 HD.skyde">
+<programme start="20260509135000 +0000" stop="20260509160000 +0000" channel="Sky Sport 8 HD.skyde">
     <title>Live PL: FC Fulham - AFC Bournemouth, 36. Spieltag</title>
 </programme>
 <programme start="20260509084000 +0000" stop="20260509090000 +0000" channel="Sky Sport 9 HD.skyde">

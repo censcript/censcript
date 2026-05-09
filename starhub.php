@@ -4805,7 +4805,7 @@
         <title>Thaai Maman- Thaiku Nigaranavan</title>
     </programme>
     <programme start="20260508233000 +0000" stop="20260509003000 +0000" channel="Vijay TV HD.starhub">
-        <title>Mahasangamam-Azhagae Azhagu&amp;Pandianstores Tsmmi</title>
+        <title>Mahasangamam-Azhagae Azhagu &amp; Pandianstores Tsmmi</title>
     </programme>
     <programme start="20260509003000 +0000" stop="20260509010000 +0000" channel="Vijay TV HD.starhub">
         <title>Ayyanar Thunai</title>
@@ -4853,7 +4853,7 @@
         <title>Super Singer Junior S11</title>
     </programme>
     <programme start="20260509120000 +0000" stop="20260509123000 +0000" channel="Vijay TV HD.starhub">
-        <title>Mahasangamam-Azhagae Azhagu&amp;Pandianstores Tsmmi</title>
+        <title>Mahasangamam-Azhagae Azhagu &amp; Pandianstores Tsmmi</title>
     </programme>
     <programme start="20260509123000 +0000" stop="20260509130000 +0000" channel="Vijay TV HD.starhub">
         <title>Ayyanar Thunai</title>
