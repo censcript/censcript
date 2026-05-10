@@ -3046,10 +3046,10 @@
 <programme start="20260510210000 +0000" stop="20260510224500 +0000" channel="Sky Sport Tennis HD.skyde">
     <title>WTA 500: E. Rybakina (KAZ) - K. Muchova (CZE), Porsche Tennis Grand Prix in Stuttgart, Finale</title>
 </programme>
-<programme start="20260509230000 +0000" stop="20260510010000 +0000" channel="Sky Sport Top Event HD.skyde">
+<programme start="20260509231000 +0000" stop="20260510011500 +0000" channel="Sky Sport Top Event HD.skyde">
     <title>Live NHL: Carolina Hurricanes @ Philadelphia Flyers, Playoffs, 2. Runde, Spiel 4</title>
 </programme>
-<programme start="20260510010000 +0000" stop="20260510040000 +0000" channel="Sky Sport Top Event HD.skyde">
+<programme start="20260510011500 +0000" stop="20260510040000 +0000" channel="Sky Sport Top Event HD.skyde">
     <title>Live NHL: Colorado Avalanche @ Minnesota Wild, Playoffs, 2. Runde, Spiel 3</title>
 </programme>
 <programme start="20260510040000 +0000" stop="20260510043000 +0000" channel="Sky Sport Top Event HD.skyde">
