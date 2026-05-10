@@ -2473,9 +2473,6 @@
 <programme start="20260510213500 +0000" stop="20260510222000 +0000" channel="Sky Showcase HD.skyde">
     <title>Magnum P.I.</title>
 </programme>
-<programme start="20260509234500 +0000" stop="20260510000000 +0000" channel="Sky Sport Austria 1 HD.skyde">
-    <title>Golf: Sky Golf Cups Österreich</title>
-</programme>
 <programme start="20260510000000 +0000" stop="20260510020000 +0000" channel="Sky Sport Austria 1 HD.skyde">
     <title>Admiral BL: WSG Tirol - FC Blau-Weiß Linz, 31. Runde</title>
 </programme>
