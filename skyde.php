@@ -2671,13 +2671,13 @@
 <programme start="20260510104000 +0000" stop="20260510110000 +0000" channel="Sky Sport Bundesliga 4 HD.skyde">
     <title>Es folgt: LIVE 2. Bundesliga</title>
 </programme>
-<programme start="20260510110000 +0000" stop="20260510133000 +0000" channel="Sky Sport Bundesliga 4 HD.skyde">
+<programme start="20260510110000 +0000" stop="20260510140000 +0000" channel="Sky Sport Bundesliga 4 HD.skyde">
     <title>Live 2. BL: Preußen Münster - SV Darmstadt 98, 33. Spieltag</title>
 </programme>
 <programme start="20260510104000 +0000" stop="20260510110000 +0000" channel="Sky Sport Bundesliga 5 HD.skyde">
     <title>Es folgt: LIVE 2. Bundesliga</title>
 </programme>
-<programme start="20260510110000 +0000" stop="20260510133000 +0000" channel="Sky Sport Bundesliga 5 HD.skyde">
+<programme start="20260510110000 +0000" stop="20260510140000 +0000" channel="Sky Sport Bundesliga 5 HD.skyde">
     <title>Live 2. BL: Multiview 33. Spieltag, Sonntag</title>
 </programme>
 <programme start="20260509230000 +0000" stop="20260510000000 +0000" channel="Sky Sport F1 HD.skyde">
@@ -3106,7 +3106,7 @@
 <programme start="20260510084000 +0000" stop="20260510090000 +0000" channel="Sky Sport 6 HD.skyde">
     <title>Es folgt: LIVE WTA Tour</title>
 </programme>
-<programme start="20260510090000 +0000" stop="20260510190000 +0000" channel="Sky Sport 6 HD.skyde">
+<programme start="20260510090000 +0000" stop="20260510220000 +0000" channel="Sky Sport 6 HD.skyde">
     <title>Live WTA 1000: Internazionali BNL d&#039;Italia in Rom (Italien), 6. Tag</title>
 </programme>
 <programme start="20260510123000 +0000" stop="20260510125000 +0000" channel="Sky Sport 7 HD.skyde">
