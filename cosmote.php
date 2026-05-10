@@ -62,10 +62,6 @@
     <title>Football: Club Brugge - Real Madrid CF</title>
     <desc>Live: Tidak</desc>
 </programme>
-<programme start="20260511024500 +0700" stop="20260511050000 +0700" channel="COSMOTE Sport 2 HD">
-    <title>Football: AEK - Panathinaikos</title>
-    <desc>Live: Tidak</desc>
-</programme>
 <programme start="20260511050000 +0700" stop="20260511070500 +0700" channel="COSMOTE Sport 2 HD">
     <title>Football: Volos NPS - Levadiakos</title>
     <desc>Live: Tidak</desc>
@@ -122,8 +118,12 @@
     <title>Football: AEK - Panathinaikos</title>
     <desc>Live: Tidak</desc>
 </programme>
-<programme start="20260511024500 +0700" stop="20260511050000 +0700" channel="COSMOTE Sport 3 HD">
-    <title>Football: Olympiacos - PAOK</title>
+<programme start="20260512051000 +0700" stop="20260512054000 +0700" channel="COSMOTE Sport 2 HD">
+    <title>Sports Classics: My Sporting Moment</title>
+    <desc>Live: Tidak</desc>
+</programme>
+<programme start="20260512054000 +0700" stop="20260512061000 +0700" channel="COSMOTE Sport 2 HD">
+    <title>Sports Classics: My Sporting Moment</title>
     <desc>Live: Tidak</desc>
 </programme>
 <programme start="20260511050000 +0700" stop="20260511070000 +0700" channel="COSMOTE Sport 3 HD">
@@ -184,6 +184,14 @@
 </programme>
 <programme start="20260512044000 +0700" stop="20260512051000 +0700" channel="COSMOTE Sport 3 HD">
     <title>UEFA Youth League Show</title>
+    <desc>Live: Tidak</desc>
+</programme>
+<programme start="20260512051000 +0700" stop="20260512054000 +0700" channel="COSMOTE Sport 3 HD">
+    <title>Emirates FA Cup 2025-26 - Highlights</title>
+    <desc>Live: Tidak</desc>
+</programme>
+<programme start="20260512054000 +0700" stop="20260512074000 +0700" channel="COSMOTE Sport 3 HD">
+    <title>Football: Vitoria Guimaraes - Casa Pia</title>
     <desc>Live: Tidak</desc>
 </programme>
 <programme start="20260511023000 +0700" stop="20260511053000 +0700" channel="COSMOTE Sport 4 HD">
@@ -248,10 +256,6 @@
 </programme>
 <programme start="20260512040000 +0700" stop="20260512063000 +0700" channel="COSMOTE Sport 4 HD">
     <title>Basketball: Philadelphia 76ers - New York Knicks</title>
-    <desc>Live: Tidak</desc>
-</programme>
-<programme start="20260511030000 +0700" stop="20260511044500 +0700" channel="COSMOTE Sport 5 HD">
-    <title>Motorsports: MotoGP 2026</title>
     <desc>Live: Tidak</desc>
 </programme>
 <programme start="20260511044500 +0700" stop="20260511054500 +0700" channel="COSMOTE Sport 5 HD">
@@ -342,9 +346,9 @@
     <title>2026 Grand Prix Show</title>
     <desc>Live: Tidak</desc>
 </programme>
-<programme start="20260511010000 +0700" stop="20260511043000 +0700" channel="COSMOTE Sport 6 HD">
-    <title>Tennis: ATP Masters 1000 2026 (L)</title>
-    <desc>Live: Ya</desc>
+<programme start="20260512053500 +0700" stop="20260512070500 +0700" channel="COSMOTE Sport 5 HD">
+    <title>DTM 2026</title>
+    <desc>Live: Tidak</desc>
 </programme>
 <programme start="20260511043000 +0700" stop="20260511083000 +0700" channel="COSMOTE Sport 6 HD">
     <title>Tennis: ATP Masters 1000 2026</title>
@@ -396,6 +400,10 @@
 </programme>
 <programme start="20260512041500 +0700" stop="20260512054500 +0700" channel="COSMOTE Sport 6 HD">
     <title>Topspin</title>
+    <desc>Live: Tidak</desc>
+</programme>
+<programme start="20260512054500 +0700" stop="20260512093000 +0700" channel="COSMOTE Sport 6 HD">
+    <title>Tennis: ATP Masters 1000 2026</title>
     <desc>Live: Tidak</desc>
 </programme>
 <programme start="20260511040000 +0700" stop="20260511070000 +0700" channel="COSMOTE Sport 7 HD">
@@ -512,10 +520,6 @@
 </programme>
 <programme start="20260512041500 +0700" stop="20260512060000 +0700" channel="COSMOTE Sport 8 HD">
     <title>COSMOTESport8HD</title>
-    <desc>Live: Tidak</desc>
-</programme>
-<programme start="20260511034500 +0700" stop="20260511043000 +0700" channel="COSMOTE Sport 9 HD">
-    <title>COSMOTESport9HD</title>
     <desc>Live: Tidak</desc>
 </programme>
 <programme start="20260511043000 +0700" stop="20260511060000 +0700" channel="COSMOTE Sport 9 HD">
