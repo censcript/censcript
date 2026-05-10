@@ -4551,17 +4551,17 @@
     <desc lang="en">Kesavan and Murugan are friends who aim to make it big in politics by trying to impress people with their weird tricks. They pay no heed to others' advice and are rejected by their love interests.</desc>
     <category lang="en">Comedy</category>
   </programme>
-  <programme start="20260510053000 +0000" stop="20260510080000 +0000" channel="zeethirai.unifitv">
+  <programme start="20260510053000 +0000" stop="20260510080200 +0000" channel="zeethirai.unifitv">
     <title lang="en">Pookie</title>
     <desc lang="en">He struggles to tell her he wants to separate. When he finally does, she shares the same thoughts. Suddenly realizing he doesn't want to lose her, they reconcile though both still privately consider b</desc>
     <category lang="en">Family</category>
   </programme>
-  <programme start="20260510080000 +0000" stop="20260510110000 +0000" channel="zeethirai.unifitv">
+  <programme start="20260510080200 +0000" stop="20260510111100 +0000" channel="zeethirai.unifitv">
     <title lang="en">J Baby</title>
     <desc lang="en">Volatile mother leaves family without notice. Sons embark on journey to find her, bringing family drama to light.</desc>
     <category lang="en">Family</category>
   </programme>
-  <programme start="20260510110000 +0000" stop="20260510143000 +0000" channel="zeethirai.unifitv">
+  <programme start="20260510111100 +0000" stop="20260510143000 +0000" channel="zeethirai.unifitv">
     <title lang="en">Kalki 2898 Ad</title>
     <desc lang="en">The future of those in the dystopian city of Kasi is altered when the destined arrival of Lord Vishnu's final avatar launches a war against darkness.</desc>
     <category lang="en">Action</category>

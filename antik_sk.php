@@ -2786,16 +2786,16 @@
     <title lang="id">PÍSNIČKY NA PŘÁNÍ</title>
   </programme>
   <programme start="20260512120000 +0000" stop="20260512130000 +0000" channel="Šláger Originál.webtv.sk">
-    <title lang="id">ČAS NA PĚKNOU PÍSNIČKU</title>
+    <title lang="id">SÁZKA NA HIT</title>
   </programme>
   <programme start="20260512130000 +0000" stop="20260512143000 +0000" channel="Šláger Originál.webtv.sk">
     <title lang="id">ODPOLEDNÍ STUDIO</title>
   </programme>
-  <programme start="20260512143000 +0000" stop="20260512160000 +0000" channel="Šláger Originál.webtv.sk">
+  <programme start="20260512143000 +0000" stop="20260512175000 +0000" channel="Šláger Originál.webtv.sk">
     <title lang="id">LATTÉ O PŮL PÁTÉ</title>
   </programme>
-  <programme start="20260512160000 +0000" stop="20260512182000 +0000" channel="Šláger Originál.webtv.sk">
-    <title lang="id">PODVEČERNÍ ZÁBAVA</title>
+  <programme start="20260512175000 +0000" stop="20260512182000 +0000" channel="Šláger Originál.webtv.sk">
+    <title lang="id">SÁZKA NA HIT</title>
   </programme>
   <programme start="20260512182000 +0000" stop="20260512220000 +0000" channel="Šláger Originál.webtv.sk">
     <title lang="id">VEČERNÍ POŘAD</title>

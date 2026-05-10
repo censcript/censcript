@@ -526,6 +526,9 @@
 <programme start="20260510080000 +0000" stop="20260510090000 +0000" channel="Trans 7.vision">
 <title>Makan Receh</title>
 </programme>
+<programme start="20260510090000 +0000" stop="20260510100000 +0000" channel="Trans 7.vision">
+<title>Moto3 2026 France GP</title>
+</programme>
 <programme start="20260510100000 +0000" stop="20260510110000 +0000" channel="Trans 7.vision">
 <title>Selebrita On The Weekend</title>
 </programme>
@@ -621,6 +624,9 @@
 </programme>
 <programme start="20260510010000 +0000" stop="20260510023000 +0000" channel="ANTV.vision">
 <title>Misteri Sungai Mekong</title>
+</programme>
+<programme start="20260510023000 +0000" stop="20260510060000 +0000" channel="ANTV.vision">
+<title>Kushi</title>
 </programme>
 <programme start="20260510060000 +0000" stop="20260510080000 +0000" channel="ANTV.vision">
 <title>Jhanak</title>
@@ -1490,11 +1496,5 @@
 <title>TVRI</title>
 </programme>
 <programme start="20260510190000 +0000" stop="20260510210000 +0000" channel="TVRI.vision">
-<title>TVRI</title>
-</programme>
-<programme start="20260510210000 +0000" stop="20260510230000 +0000" channel="TVRI.vision">
-<title>TVRI</title>
-</programme>
-<programme start="20260510230000 +0000" stop="20260511010000 +0000" channel="TVRI.vision">
 <title>TVRI</title>
 </programme>
