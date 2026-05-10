@@ -526,11 +526,17 @@
 <programme start="20260510080000 +0000" stop="20260510090000 +0000" channel="Trans 7.vision">
 <title>Makan Receh</title>
 </programme>
+<programme start="20260510090000 +0000" stop="20260510100000 +0000" channel="Trans 7.vision">
+<title>Moto3 2026 France GP</title>
+</programme>
 <programme start="20260510100000 +0000" stop="20260510110000 +0000" channel="Trans 7.vision">
 <title>Selebrita On The Weekend</title>
 </programme>
 <programme start="20260510110000 +0000" stop="20260510114500 +0000" channel="Trans 7.vision">
 <title>POV (Pasti Obrolan Viral)</title>
+</programme>
+<programme start="20260510114500 +0000" stop="20260510130000 +0000" channel="Trans 7.vision">
+<title>MotoGP 2026 France GP</title>
 </programme>
 <programme start="20260510130000 +0000" stop="20260510143000 +0000" channel="Trans 7.vision">
 <title>Arisan</title>
@@ -619,6 +625,9 @@
 <programme start="20260510010000 +0000" stop="20260510023000 +0000" channel="ANTV.vision">
 <title>Misteri Sungai Mekong</title>
 </programme>
+<programme start="20260510023000 +0000" stop="20260510060000 +0000" channel="ANTV.vision">
+<title>Kushi</title>
+</programme>
 <programme start="20260510060000 +0000" stop="20260510080000 +0000" channel="ANTV.vision">
 <title>Jhanak</title>
 </programme>
@@ -627,6 +636,9 @@
 </programme>
 <programme start="20260510103000 +0000" stop="20260510120000 +0000" channel="ANTV.vision">
 <title>Vasudha</title>
+</programme>
+<programme start="20260510120000 +0000" stop="20260510143000 +0000" channel="ANTV.vision">
+<title>Nada-Nada Rindu</title>
 </programme>
 <programme start="20260510143000 +0000" stop="20260510163000 +0000" channel="ANTV.vision">
 <title>Kutukan Cakar Monyet</title>
@@ -774,6 +786,12 @@
 </programme>
 <programme start="20260509233000 +0000" stop="20260510010000 +0000" channel="TVOne.vision">
 <title>Apa Kabar Indonesia Pagi (L)</title>
+</programme>
+<programme start="20260510010000 +0000" stop="20260510013000 +0000" channel="TVOne.vision">
+<title>Umroh Bersama UAS</title>
+</programme>
+<programme start="20260510013000 +0000" stop="20260510020000 +0000" channel="TVOne.vision">
+<title>Indonesia Bergerak: Kereta...</title>
 </programme>
 <programme start="20260510020000 +0000" stop="20260510040000 +0000" channel="TVOne.vision">
 <title>Breaking News (L)</title>
@@ -1478,23 +1496,5 @@
 <title>TVRI</title>
 </programme>
 <programme start="20260510150000 +0000" stop="20260510170000 +0000" channel="TVRI.vision">
-<title>TVRI</title>
-</programme>
-<programme start="20260510170000 +0000" stop="20260510190000 +0000" channel="TVRI.vision">
-<title>TVRI</title>
-</programme>
-<programme start="20260510190000 +0000" stop="20260510210000 +0000" channel="TVRI.vision">
-<title>TVRI</title>
-</programme>
-<programme start="20260510210000 +0000" stop="20260510230000 +0000" channel="TVRI.vision">
-<title>TVRI</title>
-</programme>
-<programme start="20260510230000 +0000" stop="20260511010000 +0000" channel="TVRI.vision">
-<title>TVRI</title>
-</programme>
-<programme start="20260511010000 +0000" stop="20260511030000 +0000" channel="TVRI.vision">
-<title>TVRI</title>
-</programme>
-<programme start="20260511030000 +0000" stop="20260511050000 +0000" channel="TVRI.vision">
 <title>TVRI</title>
 </programme>
