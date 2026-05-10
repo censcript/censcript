@@ -2533,7 +2533,7 @@
 <programme start="20260510134000 +0000" stop="20260510140000 +0000" channel="Sky Sport Austria 4 HD.skyde">
     <title>Es folgt: Live Admiral Bundesliga</title>
 </programme>
-<programme start="20260510140000 +0000" stop="20260510170000 +0000" channel="Sky Sport Austria 4 HD.skyde">
+<programme start="20260510140000 +0000" stop="20260510173000 +0000" channel="Sky Sport Austria 4 HD.skyde">
     <title>Live Admiral BL: TSV Egger Glas Hartberg - SK Puntigamer Sturm Graz, 31. Runde</title>
 </programme>
 <programme start="20260510084000 +0000" stop="20260510090000 +0000" channel="Sky Sport Austria 5 HD.skyde">
@@ -2659,7 +2659,7 @@
 <programme start="20260510160000 +0000" stop="20260510173000 +0000" channel="Sky Sport Bundesliga 1 HD.skyde">
     <title>Live BL: Sky 90 - Die Fußballdebatte</title>
 </programme>
-<programme start="20260510173000 +0000" stop="20260510181500 +0000" channel="Sky Sport Bundesliga 1 HD.skyde">
+<programme start="20260510173000 +0000" stop="20260510184500 +0000" channel="Sky Sport Bundesliga 1 HD.skyde">
     <title>Live BL: Highlights XXL: KOE - FCH, 33. Spieltag</title>
 </programme>
 <programme start="20260510104000 +0000" stop="20260510110000 +0000" channel="Sky Sport Bundesliga 2 HD.skyde">
@@ -2689,25 +2689,25 @@
 <programme start="20260510104000 +0000" stop="20260510110000 +0000" channel="Sky Sport Bundesliga 4 HD.skyde">
     <title>Es folgt: LIVE 2. Bundesliga</title>
 </programme>
-<programme start="20260510110000 +0000" stop="20260510140000 +0000" channel="Sky Sport Bundesliga 4 HD.skyde">
+<programme start="20260510110000 +0000" stop="20260510133000 +0000" channel="Sky Sport Bundesliga 4 HD.skyde">
     <title>Live 2. BL: Preußen Münster - SV Darmstadt 98, 33. Spieltag</title>
 </programme>
 <programme start="20260510104000 +0000" stop="20260510110000 +0000" channel="Sky Sport Bundesliga 5 HD.skyde">
     <title>Es folgt: LIVE 2. Bundesliga</title>
 </programme>
-<programme start="20260510110000 +0000" stop="20260510140000 +0000" channel="Sky Sport Bundesliga 5 HD.skyde">
+<programme start="20260510110000 +0000" stop="20260510133000 +0000" channel="Sky Sport Bundesliga 5 HD.skyde">
     <title>Live 2. BL: Multiview 33. Spieltag, Sonntag</title>
 </programme>
-<programme start="20260509230000 +0000" stop="20260510000000 +0000" channel="Sky Sport F1 HD.skyde">
+<programme start="20260509231000 +0000" stop="20260510000000 +0000" channel="Sky Sport F1 HD.skyde">
     <title>WRC: Vodafone Rally de Portugal - SS19 Lousada (SSS)</title>
 </programme>
-<programme start="20260510000000 +0000" stop="20260510020000 +0000" channel="Sky Sport F1 HD.skyde">
+<programme start="20260510000000 +0000" stop="20260510020500 +0000" channel="Sky Sport F1 HD.skyde">
     <title>IndyCar: Sonsio Grand Prix</title>
 </programme>
-<programme start="20260510020000 +0000" stop="20260510030000 +0000" channel="Sky Sport F1 HD.skyde">
+<programme start="20260510020500 +0000" stop="20260510030500 +0000" channel="Sky Sport F1 HD.skyde">
     <title>WRC: Vodafone Rally de Portugal - SS16 Cabeceiras de Basto 2</title>
 </programme>
-<programme start="20260510030000 +0000" stop="20260510040000 +0000" channel="Sky Sport F1 HD.skyde">
+<programme start="20260510030500 +0000" stop="20260510040000 +0000" channel="Sky Sport F1 HD.skyde">
     <title>WRC: Vodafone Rally de Portugal - SS19 Lousada (SSS)</title>
 </programme>
 <programme start="20260510040000 +0000" stop="20260510050000 +0000" channel="Sky Sport F1 HD.skyde">
@@ -2752,16 +2752,16 @@
 <programme start="20260510200000 +0000" stop="20260510220000 +0000" channel="Sky Sport F1 HD.skyde">
     <title>IndyCar: Sonsio Grand Prix</title>
 </programme>
-<programme start="20260509220000 +0000" stop="20260509224500 +0000" channel="Sky Sport Golf HD.skyde">
+<programme start="20260509221500 +0000" stop="20260509230000 +0000" channel="Sky Sport Golf HD.skyde">
     <title>PGA Championship: Official Film 2025 (Scottie Scheffler)</title>
 </programme>
-<programme start="20260509224500 +0000" stop="20260509233500 +0000" channel="Sky Sport Golf HD.skyde">
+<programme start="20260509230000 +0000" stop="20260509235000 +0000" channel="Sky Sport Golf HD.skyde">
     <title>US Open: Official Film 2025 (J.J. Spaun)</title>
 </programme>
-<programme start="20260509233500 +0000" stop="20260510003000 +0000" channel="Sky Sport Golf HD.skyde">
+<programme start="20260509235000 +0000" stop="20260510004500 +0000" channel="Sky Sport Golf HD.skyde">
     <title>The Open: Official Film 2025 (Scottie Scheffler)</title>
 </programme>
-<programme start="20260510003000 +0000" stop="20260510033000 +0000" channel="Sky Sport Golf HD.skyde">
+<programme start="20260510004500 +0000" stop="20260510033000 +0000" channel="Sky Sport Golf HD.skyde">
     <title>LIV Golf: Virginia, 3. Tag in Washington, D.C.</title>
 </programme>
 <programme start="20260510033000 +0000" stop="20260510043000 +0000" channel="Sky Sport Golf HD.skyde">
@@ -2798,13 +2798,13 @@
     <title>Golf: Projekt 0 (10)</title>
 </programme>
 <programme start="20260510070000 +0000" stop="20260510100000 +0000" channel="Sky Sport Golf HD.skyde">
-    <title>LPGA: Mizuho Americas Open, 3. Tag in West Caldwell, NJ (USA)</title>
+    <title>LPGA: Mizuho Americas Open, 2. Tag in West Caldwell, NJ (USA)</title>
 </programme>
 <programme start="20260510100000 +0000" stop="20260510130000 +0000" channel="Sky Sport Golf HD.skyde">
     <title>LIV Golf: Virginia, 3. Tag in Washington, D.C.</title>
 </programme>
 <programme start="20260510130000 +0000" stop="20260510160000 +0000" channel="Sky Sport Golf HD.skyde">
-    <title>LPGA: Mizuho Americas Open, 3. Tag in West Caldwell, NJ (USA)</title>
+    <title>LPGA: Mizuho Americas Open, 2. Tag in West Caldwell, NJ (USA)</title>
 </programme>
 <programme start="20260510160000 +0000" stop="20260510210000 +0000" channel="Sky Sport Golf HD.skyde">
     <title>Live LIV Golf: Virginia, 4. Tag in Washington, D.C.</title>
@@ -3046,10 +3046,10 @@
 <programme start="20260510210000 +0000" stop="20260510224500 +0000" channel="Sky Sport Tennis HD.skyde">
     <title>WTA 500: E. Rybakina (KAZ) - K. Muchova (CZE), Porsche Tennis Grand Prix in Stuttgart, Finale</title>
 </programme>
-<programme start="20260509230000 +0000" stop="20260510010000 +0000" channel="Sky Sport Top Event HD.skyde">
+<programme start="20260509231000 +0000" stop="20260510011500 +0000" channel="Sky Sport Top Event HD.skyde">
     <title>Live NHL: Carolina Hurricanes @ Philadelphia Flyers, Playoffs, 2. Runde, Spiel 4</title>
 </programme>
-<programme start="20260510010000 +0000" stop="20260510040000 +0000" channel="Sky Sport Top Event HD.skyde">
+<programme start="20260510011500 +0000" stop="20260510040000 +0000" channel="Sky Sport Top Event HD.skyde">
     <title>Live NHL: Colorado Avalanche @ Minnesota Wild, Playoffs, 2. Runde, Spiel 3</title>
 </programme>
 <programme start="20260510040000 +0000" stop="20260510043000 +0000" channel="Sky Sport Top Event HD.skyde">
@@ -3118,19 +3118,19 @@
 <programme start="20260510214000 +0000" stop="20260510220000 +0000" channel="Sky Sport 3 HD.skyde">
     <title>Es folgt: LIVE WNBA</title>
 </programme>
-<programme start="20260509220000 +0000" stop="20260509224000 +0000" channel="Sky Sport 4 HD.skyde">
+<programme start="20260509220000 +0000" stop="20260510033000 +0000" channel="Sky Sport 4 HD.skyde">
     <title>Live NBA: Showtime - Post Show</title>
 </programme>
 <programme start="20260510084000 +0000" stop="20260510090000 +0000" channel="Sky Sport 6 HD.skyde">
     <title>Es folgt: LIVE WTA Tour</title>
 </programme>
-<programme start="20260510090000 +0000" stop="20260510220000 +0000" channel="Sky Sport 6 HD.skyde">
+<programme start="20260510090000 +0000" stop="20260510190000 +0000" channel="Sky Sport 6 HD.skyde">
     <title>Live WTA 1000: Internazionali BNL d&#039;Italia in Rom (Italien), 6. Tag</title>
 </programme>
 <programme start="20260510123000 +0000" stop="20260510125000 +0000" channel="Sky Sport 7 HD.skyde">
     <title>Es folgt: LIVE PL</title>
 </programme>
-<programme start="20260510125000 +0000" stop="20260510153000 +0000" channel="Sky Sport 7 HD.skyde">
+<programme start="20260510125000 +0000" stop="20260510150000 +0000" channel="Sky Sport 7 HD.skyde">
     <title>Live PL: FC Burnley - Aston Villa, 36. Spieltag</title>
 </programme>
 <programme start="20260510123000 +0000" stop="20260510125000 +0000" channel="Sky Sport 8 HD.skyde">
