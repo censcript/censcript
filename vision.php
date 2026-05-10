@@ -787,6 +787,12 @@
 <programme start="20260509233000 +0000" stop="20260510010000 +0000" channel="TVOne.vision">
 <title>Apa Kabar Indonesia Pagi (L)</title>
 </programme>
+<programme start="20260510010000 +0000" stop="20260510013000 +0000" channel="TVOne.vision">
+<title>Umroh Bersama UAS</title>
+</programme>
+<programme start="20260510013000 +0000" stop="20260510020000 +0000" channel="TVOne.vision">
+<title>Indonesia Bergerak: Kereta...</title>
+</programme>
 <programme start="20260510020000 +0000" stop="20260510040000 +0000" channel="TVOne.vision">
 <title>Breaking News (L)</title>
 </programme>
@@ -1490,11 +1496,5 @@
 <title>TVRI</title>
 </programme>
 <programme start="20260510150000 +0000" stop="20260510170000 +0000" channel="TVRI.vision">
-<title>TVRI</title>
-</programme>
-<programme start="20260510170000 +0000" stop="20260510190000 +0000" channel="TVRI.vision">
-<title>TVRI</title>
-</programme>
-<programme start="20260510190000 +0000" stop="20260510210000 +0000" channel="TVRI.vision">
 <title>TVRI</title>
 </programme>
