@@ -1462,11 +1462,11 @@
     <title lang="id">Makan Receh</title>
     <icon src="https://thumbor.prod.vidiocdn.com/cTnOrGY7b3x3Z_64XCG5Dt4RKVQ=/287x162/filters:strip_icc():quality(70)/vidio-media-production/uploads/tv_program/thumbnail/380609/7b710c.jpg"/>
   </programme>
-  <programme channel="734" start="20260510090000 +0000" stop="20260510100000 +0000">
+  <programme channel="734" start="20260510090000 +0000" stop="20260510095300 +0000">
     <title lang="id">Moto3 2026 France Gp</title>
     <icon src="https://thumbor.prod.vidiocdn.com/VyDWgGuvUtZp5M006MXkTEIEpxw=/287x162/filters:strip_icc():quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/image/734/trans7-9dade4.jpg"/>
   </programme>
-  <programme channel="734" start="20260510100000 +0000" stop="20260510110000 +0000">
+  <programme channel="734" start="20260510095300 +0000" stop="20260510110000 +0000">
     <title lang="id">Selebrita On The Weekend</title>
     <icon src="https://thumbor.prod.vidiocdn.com/VyDWgGuvUtZp5M006MXkTEIEpxw=/287x162/filters:strip_icc():quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/image/734/trans7-9dade4.jpg"/>
   </programme>
@@ -9816,17 +9816,17 @@
     <desc lang="id">Dr. Akkanee dan krunya melakukan perjalanan ke sebuah desa yang kuno dan penuh misteri untuk mempelajari fenomena paranormal dan membuktikan bahwa hal itu tidak benar.</desc>
     <icon src="https://thumbor.prod.vidiocdn.com/20tRQaK9Gps_wFQL5rY-XgRbrs4=/287x162/filters:strip_icc():quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/image/782/antv-de8530.jpg"/>
   </programme>
-  <programme channel="782" start="20260510023000 +0000" stop="20260510060000 +0000">
+  <programme channel="782" start="20260510023000 +0000" stop="20260510055000 +0000">
     <title lang="id">Mega Bollywood: Khushi</title>
     <desc lang="id">Kedua teman Karan dan Khushi di kampus, Vicky dan Priya, mengalami masalah dalam hubungan percintaan mereka. Keduanya pun memutuskan untuk membantu mereka berdamai, tapi malah berakhir menjalin hubungan nan romantis.</desc>
     <icon src="https://thumbor.prod.vidiocdn.com/3BtDzqpd6SGmmQ-_1scSztKqFrM=/287x162/filters:strip_icc():quality(70)/vidio-media-production/uploads/livestreaming/schedule/thumbnail/5064010/c00fb1.jpg"/>
   </programme>
-  <programme channel="782" start="20260510060000 +0000" stop="20260510075700 +0000">
+  <programme channel="782" start="20260510055000 +0000" stop="20260510075500 +0000">
     <title lang="id">Jhanak</title>
     <desc lang="id">Seorang wanita muda yang bersemangat memulai perjalanan untuk memenuhi janji seorang ibu demi kehidupan yang lebih baik sambil mengatasi tantangan dan kehilangan.</desc>
     <icon src="https://thumbor.prod.vidiocdn.com/P8Q81NYFaX_B20La4HU3bwLK8sU=/287x162/filters:strip_icc():quality(70)/vidio-media-production/uploads/livestreaming/schedule/thumbnail/5064001/9b3d37.jpg"/>
   </programme>
-  <programme channel="782" start="20260510075700 +0000" stop="20260510100000 +0000">
+  <programme channel="782" start="20260510075500 +0000" stop="20260510100000 +0000">
     <title lang="id">Teri Meri Doriyaann</title>
     <icon src="https://thumbor.prod.vidiocdn.com/20tRQaK9Gps_wFQL5rY-XgRbrs4=/287x162/filters:strip_icc():quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/image/782/antv-de8530.jpg"/>
   </programme>

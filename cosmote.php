@@ -74,6 +74,10 @@
     <title>Football: Aston Villa - Nottingham F.</title>
     <desc>Live: Tidak</desc>
 </programme>
+<programme start="20260511173000 +0700" stop="20260511193000 +0700" channel="COSMOTE Sport 1 HD">
+    <title>Football: SC Freiburg - SC Braga</title>
+    <desc>Live: Tidak</desc>
+</programme>
 <programme start="20260510151500 +0700" stop="20260510173000 +0700" channel="COSMOTE Sport 2 HD">
     <title>Football: AEL Novibet - Asteras Aktor</title>
     <desc>Live: Tidak</desc>
@@ -140,6 +144,10 @@
 </programme>
 <programme start="20260511151000 +0700" stop="20260511171000 +0700" channel="COSMOTE Sport 2 HD">
     <title>Football: Hellas Verona - Como</title>
+    <desc>Live: Tidak</desc>
+</programme>
+<programme start="20260511171000 +0700" stop="20260511192500 +0700" channel="COSMOTE Sport 2 HD">
+    <title>Football: Olympiacos - PAOK</title>
     <desc>Live: Tidak</desc>
 </programme>
 <programme start="20260510160000 +0700" stop="20260510180000 +0700" channel="COSMOTE Sport 3 HD">
@@ -282,10 +290,6 @@
     <title>Basketball: Minnesota Timberwolves - San Antonio Spurs</title>
     <desc>Live: Tidak</desc>
 </programme>
-<programme start="20260510154500 +0700" stop="20260510170000 +0700" channel="COSMOTE Sport 5 HD">
-    <title>Motorsports: Moto3 2026 (L)</title>
-    <desc>Live: Ya</desc>
-</programme>
 <programme start="20260510170000 +0700" stop="20260510183000 +0700" channel="COSMOTE Sport 5 HD">
     <title>Motorsports: Moto2 2026 (L)</title>
     <desc>Live: Ya</desc>
@@ -368,6 +372,14 @@
 </programme>
 <programme start="20260511160500 +0700" stop="20260511171000 +0700" channel="COSMOTE Sport 5 HD">
     <title>Red Bull MotoGP Rookies Cup 2026</title>
+    <desc>Live: Tidak</desc>
+</programme>
+<programme start="20260511171000 +0700" stop="20260511174000 +0700" channel="COSMOTE Sport 5 HD">
+    <title>Sports Classics: Gearing Up 2026 E4</title>
+    <desc>Live: Tidak</desc>
+</programme>
+<programme start="20260511174000 +0700" stop="20260511181000 +0700" channel="COSMOTE Sport 5 HD">
+    <title>ERC 2026</title>
     <desc>Live: Tidak</desc>
 </programme>
 <programme start="20260510160000 +0700" stop="20260510203000 +0700" channel="COSMOTE Sport 6 HD">
@@ -473,10 +485,6 @@
 <programme start="20260511160000 +0700" stop="20260511180000 +0700" channel="COSMOTE Sport 7 HD">
     <title>COSMOTESport7HD</title>
     <desc>Live: Tidak</desc>
-</programme>
-<programme start="20260510153000 +0700" stop="20260510163500 +0700" channel="COSMOTE Sport 8 HD">
-    <title>WRC 2026 (L)</title>
-    <desc>Live: Ya</desc>
 </programme>
 <programme start="20260510163500 +0700" stop="20260510173500 +0700" channel="COSMOTE Sport 8 HD">
     <title>WRC 2026 (L)</title>
