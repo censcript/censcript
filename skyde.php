@@ -939,6 +939,45 @@ Warning: Undefined array key "et" in /usr/home/ManusiaBiasa/domains/manusiabiasa
 <programme start="20260512213500 +0000" stop="20260512222500 +0000" channel="Crime + Investigation.skyde">
     <title>City Confidential - Verbrechen nebenan</title>
 </programme>
+<programme start="20260511220000 +0000" stop="20260512060000 +0000" channel="DAZN 1 HD.skyde">
+    <title>Sendepause</title>
+</programme>
+<programme start="20260512060000 +0000" stop="20260512071500 +0000" channel="DAZN 1 HD.skyde">
+    <title>ALL IN - Die Bundesliga Highlight Show: 28. Spieltag</title>
+</programme>
+<programme start="20260512071500 +0000" stop="20260512091500 +0000" channel="DAZN 1 HD.skyde">
+    <title>Bundesliga 25/26: VFB Stuttgart - Bayer 04 Leverkusen</title>
+</programme>
+<programme start="20260512091500 +0000" stop="20260512111500 +0000" channel="DAZN 1 HD.skyde">
+    <title>LaLiga 25/26: FC Barcelona - Real Madrid</title>
+</programme>
+<programme start="20260512111500 +0000" stop="20260512114500 +0000" channel="DAZN 1 HD.skyde">
+    <title>Best of DAZN: Highlights</title>
+</programme>
+<programme start="20260512114500 +0000" stop="20260512130000 +0000" channel="DAZN 1 HD.skyde">
+    <title>ALL IN - Die Bundesliga Highlight Show: 28. Spieltag</title>
+</programme>
+<programme start="20260512130000 +0000" stop="20260512150000 +0000" channel="DAZN 1 HD.skyde">
+    <title>Bundesliga 25/26: VFL Wolfsburg - FC Bayern München</title>
+</programme>
+<programme start="20260512150000 +0000" stop="20260512153500 +0000" channel="DAZN 1 HD.skyde">
+    <title>Best of DAZN: Highlights</title>
+</programme>
+<programme start="20260512153500 +0000" stop="20260512165500 +0000" channel="DAZN 1 HD.skyde">
+    <title>ALL IN - Die Bundesliga Highlight Show: 33. Spieltag</title>
+</programme>
+<programme start="20260512165500 +0000" stop="20260512190500 +0000" channel="DAZN 1 HD.skyde">
+    <title>LaLiga 25/26: Celta Vigo - UD Levante</title>
+</programme>
+<programme start="20260512190500 +0000" stop="20260512192500 +0000" channel="DAZN 1 HD.skyde">
+    <title>Best of DAZN: Highlights</title>
+</programme>
+<programme start="20260512192500 +0000" stop="20260512213500 +0000" channel="DAZN 1 HD.skyde">
+    <title>LaLiga 25/26: CA Osasuna - Atlético Madrid</title>
+</programme>
+<programme start="20260512213500 +0000" stop="20260512220000 +0000" channel="DAZN 1 HD.skyde">
+    <title>Best of DAZN: Highlights</title>
+</programme>
 <programme start="20260511220000 +0000" stop="20260512060000 +0000" channel="DAZN 2 HD.skyde">
     <title>Sendepause</title>
 </programme>
@@ -3034,10 +3073,10 @@ Warning: Undefined array key "et" in /usr/home/ManusiaBiasa/domains/manusiabiasa
     <title>Live NHL: Colorado Avalanche @ Minnesota Wild, Playoffs, 2. Runde, Spiel 4</title>
 </programme>
 <programme start="20260512030000 +0000" stop="20260512040000 +0000" channel="Sky Sport Mix HD.skyde">
-    <title>MotoGP: Sprint - GP Frankreich</title>
+    <title>3. Liga: Alle Spiele, alle Tore, 37. Spieltag komplett</title>
 </programme>
 <programme start="20260512030000 +0000" stop="20260512040000 +0000" channel="Sky Sport Mix HD.skyde">
-    <title>3. Liga: Alle Spiele, alle Tore, 37. Spieltag komplett</title>
+    <title>MotoGP: Sprint - GP Frankreich</title>
 </programme>
 <programme start="20260512040000 +0000" stop="20260512050000 +0000" channel="Sky Sport Mix HD.skyde">
     <title>MotoGP: Rennen - GP Frankreich</title>
@@ -3135,10 +3174,10 @@ Warning: Undefined array key "et" in /usr/home/ManusiaBiasa/domains/manusiabiasa
 <programme start="20260512210000 +0000" stop="20260512220000 +0000" channel="Sky Sport News HD.skyde">
     <title>Live Sky Sport News: Late Night News</title>
 </programme>
-<programme start="20260511232500 +0000" stop="20260512000500 +0000" channel="Sky Sport Premier League HD.skyde">
+<programme start="20260511231500 +0000" stop="20260512000000 +0000" channel="Sky Sport Premier League HD.skyde">
     <title>PL: 1 to 11 (Emile Heskey)</title>
 </programme>
-<programme start="20260512000500 +0000" stop="20260512003000 +0000" channel="Sky Sport Premier League HD.skyde">
+<programme start="20260512000000 +0000" stop="20260512003000 +0000" channel="Sky Sport Premier League HD.skyde">
     <title>PL: PL Rewind: Jay-Jay Okocha (My Bolton Story)</title>
 </programme>
 <programme start="20260512003000 +0000" stop="20260512010000 +0000" channel="Sky Sport Premier League HD.skyde">
@@ -3150,7 +3189,7 @@ Warning: Undefined array key "et" in /usr/home/ManusiaBiasa/domains/manusiabiasa
 <programme start="20260512030000 +0000" stop="20260512050000 +0000" channel="Sky Sport Premier League HD.skyde">
     <title>PL: AFC Sunderland - Manchester United, 36. Spieltag</title>
 </programme>
-<programme start="20260512050000 +0000" stop="20260512070000 +0000" channel="Sky Sport Premier League HD.skyde">
+<programme start="20260512050000 +0000" stop="20260512065600 +0000" channel="Sky Sport Premier League HD.skyde">
     <title>PL: Tottenham Hotspur - Leeds United, 36. Spieltag</title>
 </programme>
 <programme start="20260512070000 +0000" stop="20260512073000 +0000" channel="Sky Sport Premier League HD.skyde">
@@ -3284,6 +3323,24 @@ Warning: Undefined array key "et" in /usr/home/ManusiaBiasa/domains/manusiabiasa
 </programme>
 <programme start="20260512210000 +0000" stop="20260512220000 +0000" channel="Sky Sport Top Event HD.skyde">
     <title>IndyCar: Highlights: Sonsio Grand Prix</title>
+</programme>
+<programme start="20260511230000 +0000" stop="20260512010000 +0000" channel="Sky Sport UHD.skyde">
+    <title>DFB-Pokal: Bayer Leverkusen - FC Bayern München, Halbfinale</title>
+</programme>
+<programme start="20260512010000 +0000" stop="20260512030000 +0000" channel="Sky Sport UHD.skyde">
+    <title>DFB-Pokal: VfB Stuttgart - SC Freiburg, Halbfinale</title>
+</programme>
+<programme start="20260512030000 +0000" stop="20260512033000 +0000" channel="Sky Sport UHD.skyde">
+    <title>Golf: Greatest Holes (5)</title>
+</programme>
+<programme start="20260512033000 +0000" stop="20260512040000 +0000" channel="Sky Sport UHD.skyde">
+    <title>Golf: Greatest Holes (6)</title>
+</programme>
+<programme start="20260512040000 +0000" stop="20260512060000 +0000" channel="Sky Sport UHD.skyde">
+    <title>PL: Tottenham Hotspur - Leeds United, 36. Spieltag</title>
+</programme>
+<programme start="20260512060000 +0000" stop="20260512061500 +0000" channel="Sky Sport UHD.skyde">
+    <title>Info: UHD</title>
 </programme>
 <programme start="20260511230000 +0000" stop="20260512000000 +0000" channel="Sky Sport 1 HD.skyde">
     <title>Live NBA: Showtime</title>

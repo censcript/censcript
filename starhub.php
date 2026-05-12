@@ -1961,7 +1961,7 @@
         <title>The Voice Badge</title>
     </programme>
     <programme start="20260511160000 +0000" stop="20260511163000 +0000" channel="beIN Sports 3.starhub">
-        <title>Mini Match - TotalEnergies Africa Cup of Nations, Morocco 2025: Tunisia vs Ugand</title>
+        <title>Mini Match - TotalEnergies Africa Cup of Nations, Morocco 2025: Tunisia vs Uganda</title>
     </programme>
     <programme start="20260511163000 +0000" stop="20260511180000 +0000" channel="beIN Sports 3.starhub">
         <title>Bermuda Day 1</title>
@@ -3845,7 +3845,7 @@
         <title>World Weather</title>
     </programme>
     <programme start="20260511191500 +0000" stop="20260511200000 +0000" channel="NHK World Premium HD.starhub">
-        <title>Tsurube&#039;s Salute to Families &quot;Ramos Ruy in Hiroshima City, Hiroshima Prefecture&quot;</title>
+        <title>Tsurube&#039;s Salute to Families &quot;Ramos Ruy in Hiroshima City, Hiroshima Prefecture&quot; Part 1 (R)</title>
     </programme>
     <programme start="20260511200000 +0000" stop="20260511202500 +0000" channel="NHK World Premium HD.starhub">
         <title>Grand Sumo 2026 May Tournament Highlights</title>
