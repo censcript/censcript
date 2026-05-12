@@ -211,16 +211,13 @@
 <programme start="20260513030000 +0000" stop="20260513050000 +0000" channel="GTV.vision">
 <title>SpongeBob SquarePants</title>
 </programme>
-<programme start="20260513050000 +0000" stop="20260513080000 +0000" channel="GTV.vision">
+<programme start="20260513050000 +0000" stop="20260513073000 +0000" channel="GTV.vision">
 <title>Spongebob Squarepants (GTV)</title>
 </programme>
-<programme start="20260513080000 +0000" stop="20260513100000 +0000" channel="GTV.vision">
-<title>Super Deal Indonesia</title>
+<programme start="20260513073000 +0000" stop="20260513100000 +0000" channel="GTV.vision">
+<title>SpongeBob SquarePants</title>
 </programme>
-<programme start="20260513100000 +0000" stop="20260513110000 +0000" channel="GTV.vision">
-<title>Pada Zaman Dahulu</title>
-</programme>
-<programme start="20260513110000 +0000" stop="20260513120000 +0000" channel="GTV.vision">
+<programme start="20260513100000 +0000" stop="20260513120000 +0000" channel="GTV.vision">
 <title>SpongeBob SquarePants</title>
 </programme>
 <programme start="20260512000000 +0000" stop="20260512000300 +0000" channel="iNews.vision">
@@ -645,9 +642,6 @@
 </programme>
 <programme start="20260512010000 +0000" stop="20260512023000 +0000" channel="ANTV.vision">
 <title>Misteri Sungai Mekong</title>
-</programme>
-<programme start="20260512023000 +0000" stop="20260512060000 +0000" channel="ANTV.vision">
-<title>Krrish</title>
 </programme>
 <programme start="20260512060000 +0000" stop="20260512073000 +0000" channel="ANTV.vision">
 <title>Jhanak</title>
@@ -1497,4 +1491,10 @@
 </programme>
 <programme start="20260513090500 +0000" stop="20260513100000 +0000" channel="BTV.vision">
 <title>Berita Satu Sore</title>
+</programme>
+<programme start="20260513100000 +0000" stop="20260513103000 +0000" channel="BTV.vision">
+<title>Berita Merah Putih</title>
+</programme>
+<programme start="20260513103000 +0000" stop="20260513120000 +0000" channel="BTV.vision">
+<title>Berita Satu Utama</title>
 </programme>

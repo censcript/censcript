@@ -107,7 +107,7 @@
     <title lang="id">Hírek</title>
   </programme>
   <programme start="20260513230600 +0000" stop="20260514040000 +0000" channel="Dvojka.webtv.sk">
-    <title lang="id">Noční vysílání</title>
+    <title lang="id">Nočné vysielanie</title>
   </programme>
   <programme start="20260514040000 +0000" stop="20260514041000 +0000" channel="Dvojka.webtv.sk">
     <title lang="id">Zázračný miniateliér</title>
@@ -2204,7 +2204,7 @@
     <title lang="id">Hot Wheels autíčka II (5)</title>
   </programme>
   <programme start="20260514044500 +0000" stop="20260514050000 +0000" channel="RiK TV.webtv.sk">
-    <title lang="id">Flopy</title>
+    <title lang="id">Flopy (206)</title>
   </programme>
   <programme start="20260514050000 +0000" stop="20260514051500 +0000" channel="RiK TV.webtv.sk">
     <title lang="id">Dobrodružstvá Bolka a Lolka I (35)</title>
@@ -2222,7 +2222,7 @@
     <title lang="id">Prasiatko Peppa II (38)</title>
   </programme>
   <programme start="20260514061000 +0000" stop="20260514070000 +0000" channel="RiK TV.webtv.sk">
-    <title lang="id">Flopyho veselé príbehy</title>
+    <title lang="id">Flopyho veselé príbehy (49)</title>
   </programme>
   <programme start="20260514070000 +0000" stop="20260514072000 +0000" channel="RiK TV.webtv.sk">
     <title lang="id">Drobčekovia II (7)</title>
@@ -2249,7 +2249,7 @@
     <title lang="id">Máša a medveď III (58)</title>
   </programme>
   <programme start="20260514091500 +0000" stop="20260514093000 +0000" channel="RiK TV.webtv.sk">
-    <title lang="id">Flopy</title>
+    <title lang="id">Flopy (196)</title>
   </programme>
   <programme start="20260514093000 +0000" stop="20260514094000 +0000" channel="RiK TV.webtv.sk">
     <title lang="id">Pingu v meste I (18)</title>
@@ -2270,7 +2270,7 @@
     <title lang="id">Pingu VI (3)</title>
   </programme>
   <programme start="20260514103000 +0000" stop="20260514104500 +0000" channel="RiK TV.webtv.sk">
-    <title lang="id">Flopy</title>
+    <title lang="id">Flopy (200)</title>
   </programme>
   <programme start="20260514104500 +0000" stop="20260514105500 +0000" channel="RiK TV.webtv.sk">
     <title lang="id">Volám sa Caillou II./III. III (12)</title>
@@ -2309,7 +2309,7 @@
     <title lang="id">Požiarnik Sam VII (12)</title>
   </programme>
   <programme start="20260514135000 +0000" stop="20260514142000 +0000" channel="RiK TV.webtv.sk">
-    <title lang="id">Flopy</title>
+    <title lang="id">Flopy (172)</title>
   </programme>
   <programme start="20260514142000 +0000" stop="20260514144500 +0000" channel="RiK TV.webtv.sk">
     <title lang="id">Krajina fantázie s TintiLinti I (10)</title>
@@ -2339,7 +2339,7 @@
     <title lang="id">Požiarnik Sam VII (13)</title>
   </programme>
   <programme start="20260514162000 +0000" stop="20260514170500 +0000" channel="RiK TV.webtv.sk">
-    <title lang="id">Flopyho veselé príbehy</title>
+    <title lang="id">Flopyho veselé príbehy (52)</title>
   </programme>
   <programme start="20260514170500 +0000" stop="20260514171000 +0000" channel="RiK TV.webtv.sk">
     <title lang="id">Prasiatko Peppa II (39)</title>
@@ -2366,7 +2366,7 @@
     <title lang="id">Barbie: Dom snov II (9)</title>
   </programme>
   <programme start="20260514190500 +0000" stop="20260514195000 +0000" channel="RiK TV.webtv.sk">
-    <title lang="id">Flopyho veselé príbehy</title>
+    <title lang="id">Flopyho veselé príbehy (39)</title>
   </programme>
   <programme start="20260514195000 +0000" stop="20260514201500 +0000" channel="RiK TV.webtv.sk">
     <title lang="id">Volám sa Caillou V (24)</title>
@@ -2393,7 +2393,7 @@
     <title lang="id">Dobrodružstvá Bolka a Lolka I (38)</title>
   </programme>
   <programme start="20260514214000 +0000" stop="20260514222000 +0000" channel="RiK TV.webtv.sk">
-    <title lang="id">Flopyho veselé príbehy</title>
+    <title lang="id">Flopyho veselé príbehy (16)</title>
   </programme>
   <programme start="20260513220000 +0000" stop="20260514030000 +0000" channel="LALA TV.webtv.sk">
     <title lang="id">Spíva celá rodina</title>
@@ -4693,6 +4693,87 @@
   <programme start="20260514024000 +0000" stop="20260514030500 +0000" channel="A11.webtv.sk">
     <title lang="id">O letadlech a létání</title>
   </programme>
+  <programme start="20260514030500 +0000" stop="20260514032500 +0000" channel="A11.webtv.sk">
+    <title lang="id">O letadlech a létání</title>
+  </programme>
+  <programme start="20260514032500 +0000" stop="20260514034000 +0000" channel="A11.webtv.sk">
+    <title lang="id">S ženskou za kniplem</title>
+  </programme>
+  <programme start="20260514034000 +0000" stop="20260514041000 +0000" channel="A11.webtv.sk">
+    <title lang="id">A11 rozhovor</title>
+  </programme>
+  <programme start="20260514041000 +0000" stop="20260514043000 +0000" channel="A11.webtv.sk">
+    <title lang="id">Magazín z Orlickoústecka</title>
+  </programme>
+  <programme start="20260514043000 +0000" stop="20260514050000 +0000" channel="A11.webtv.sk">
+    <title lang="id">Magazín z Prostějova</title>
+  </programme>
+  <programme start="20260514050000 +0000" stop="20260514052000 +0000" channel="A11.webtv.sk">
+    <title lang="id">Magazín ze Strakonicka</title>
+  </programme>
+  <programme start="20260514052000 +0000" stop="20260514055000 +0000" channel="A11.webtv.sk">
+    <title lang="id">Olomoucký magazín</title>
+  </programme>
+  <programme start="20260514055000 +0000" stop="20260514060000 +0000" channel="A11.webtv.sk">
+    <title lang="id">Petrovický zpravodaj</title>
+  </programme>
+  <programme start="20260514060000 +0000" stop="20260514081000 +0000" channel="A11.webtv.sk">
+    <title lang="id">Dobrý večer s Vrtulníkem</title>
+  </programme>
+  <programme start="20260514081000 +0000" stop="20260514082000 +0000" channel="A11.webtv.sk">
+    <title lang="id">Teleshopping</title>
+  </programme>
+  <programme start="20260514082000 +0000" stop="20260514084500 +0000" channel="A11.webtv.sk">
+    <title lang="id">Putování v regionech</title>
+  </programme>
+  <programme start="20260514084500 +0000" stop="20260514090500 +0000" channel="A11.webtv.sk">
+    <title lang="id">Cestování s Flixbusem</title>
+  </programme>
+  <programme start="20260514090500 +0000" stop="20260514093500 +0000" channel="A11.webtv.sk">
+    <title lang="id">Zločin jak ho pamatuju</title>
+  </programme>
+  <programme start="20260514093500 +0000" stop="20260514102000 +0000" channel="A11.webtv.sk">
+    <title lang="id">Vaření s Davidem</title>
+  </programme>
+  <programme start="20260514102000 +0000" stop="20260514105000 +0000" channel="A11.webtv.sk">
+    <title lang="id">A11 rozhovor</title>
+  </programme>
+  <programme start="20260514105000 +0000" stop="20260514114500 +0000" channel="A11.webtv.sk">
+    <title lang="id">Mladý Svět</title>
+  </programme>
+  <programme start="20260514114500 +0000" stop="20260514123000 +0000" channel="A11.webtv.sk">
+    <title lang="id">Pozor vlak</title>
+  </programme>
+  <programme start="20260514123000 +0000" stop="20260514132500 +0000" channel="A11.webtv.sk">
+    <title lang="id">Co vy na to!?</title>
+  </programme>
+  <programme start="20260514132500 +0000" stop="20260514135000 +0000" channel="A11.webtv.sk">
+    <title lang="id">Putování v regionech</title>
+  </programme>
+  <programme start="20260514135000 +0000" stop="20260514142500 +0000" channel="A11.webtv.sk">
+    <title lang="id">Potlesk pro...</title>
+  </programme>
+  <programme start="20260514142500 +0000" stop="20260514153000 +0000" channel="A11.webtv.sk">
+    <title lang="id">Hvězdná kavárna Pepy Melena</title>
+  </programme>
+  <programme start="20260514153000 +0000" stop="20260514160000 +0000" channel="A11.webtv.sk">
+    <title lang="id">A11 rozhovor</title>
+  </programme>
+  <programme start="20260514160000 +0000" stop="20260514181500 +0000" channel="A11.webtv.sk">
+    <title lang="id">Dobrý večer s A11</title>
+  </programme>
+  <programme start="20260514181500 +0000" stop="20260514191000 +0000" channel="A11.webtv.sk">
+    <title lang="id">Mladý Svět</title>
+  </programme>
+  <programme start="20260514191000 +0000" stop="20260514195500 +0000" channel="A11.webtv.sk">
+    <title lang="id">Vtipkování</title>
+  </programme>
+  <programme start="20260514195500 +0000" stop="20260514204000 +0000" channel="A11.webtv.sk">
+    <title lang="id">Pozor vlak</title>
+  </programme>
+  <programme start="20260514204000 +0000" stop="20260514223500 +0000" channel="A11.webtv.sk">
+    <title lang="id">Na návštěvě u známých</title>
+  </programme>
   <programme start="20260513220000 +0000" stop="20260513230000 +0000" channel="Arena Sport 1.webtv.sk">
     <title lang="id">Naša Garáž</title>
   </programme>
@@ -5182,11 +5263,8 @@
   <programme start="20260514030000 +0000" stop="20260514033500 +0000" channel="Auto Motor und Sport.webtv.sk">
     <title lang="id">Bloch vysvětluje</title>
   </programme>
-  <programme start="20260514033500 +0000" stop="20260514041500 +0000" channel="Auto Motor und Sport.webtv.sk">
+  <programme start="20260514033500 +0000" stop="20260514044000 +0000" channel="Auto Motor und Sport.webtv.sk">
     <title lang="id">Bloch vysvětluje</title>
-  </programme>
-  <programme start="20260514041500 +0000" stop="20260514044000 +0000" channel="Auto Motor und Sport.webtv.sk">
-    <title lang="id">Fast Lap</title>
   </programme>
   <programme start="20260514044000 +0000" stop="20260514044500 +0000" channel="Auto Motor und Sport.webtv.sk">
     <title lang="id">NEWS</title>
@@ -5248,7 +5326,10 @@
   <programme start="20260514114500 +0000" stop="20260514121000 +0000" channel="Auto Motor und Sport.webtv.sk">
     <title lang="id">Na gauči s Menzelem</title>
   </programme>
-  <programme start="20260514121000 +0000" stop="20260514130000 +0000" channel="Auto Motor und Sport.webtv.sk">
+  <programme start="20260514121000 +0000" stop="20260514124000 +0000" channel="Auto Motor und Sport.webtv.sk">
+    <title lang="id">Reportáž</title>
+  </programme>
+  <programme start="20260514124000 +0000" stop="20260514130000 +0000" channel="Auto Motor und Sport.webtv.sk">
     <title lang="id">Reportáž</title>
   </programme>
   <programme start="20260514130000 +0000" stop="20260514133500 +0000" channel="Auto Motor und Sport.webtv.sk">
@@ -5269,11 +5350,8 @@
   <programme start="20260514155000 +0000" stop="20260514162000 +0000" channel="Auto Motor und Sport.webtv.sk">
     <title lang="id">Menzelovy výjezdy</title>
   </programme>
-  <programme start="20260514162000 +0000" stop="20260514163000 +0000" channel="Auto Motor und Sport.webtv.sk">
+  <programme start="20260514162000 +0000" stop="20260514170000 +0000" channel="Auto Motor und Sport.webtv.sk">
     <title lang="id">Přednost v jízdě</title>
-  </programme>
-  <programme start="20260514163000 +0000" stop="20260514170000 +0000" channel="Auto Motor und Sport.webtv.sk">
-    <title lang="id">Fast Lap</title>
   </programme>
   <programme start="20260514170000 +0000" stop="20260514173000 +0000" channel="Auto Motor und Sport.webtv.sk">
     <title lang="id">Fast Lap</title>
@@ -16451,7 +16529,7 @@
     <title lang="id">World News Flash</title>
   </programme>
   <programme start="20260514154500 +0000" stop="20260514160000 +0000" channel="TVP World.webtv.sk">
-    <title lang="id">World Talks (7582)</title>
+    <title lang="id">Ukraine Brief</title>
   </programme>
   <programme start="20260514160000 +0000" stop="20260514161000 +0000" channel="TVP World.webtv.sk">
     <title lang="id">World News</title>
@@ -16465,14 +16543,11 @@
   <programme start="20260514164500 +0000" stop="20260514170000 +0000" channel="TVP World.webtv.sk">
     <title lang="id">Pulse of Culture (340)</title>
   </programme>
-  <programme start="20260514170000 +0000" stop="20260514171000 +0000" channel="TVP World.webtv.sk">
+  <programme start="20260514170000 +0000" stop="20260514171500 +0000" channel="TVP World.webtv.sk">
     <title lang="id">World News Flash</title>
   </programme>
-  <programme start="20260514171000 +0000" stop="20260514171500 +0000" channel="TVP World.webtv.sk">
-    <title lang="id">World News Online</title>
-  </programme>
   <programme start="20260514171500 +0000" stop="20260514172000 +0000" channel="TVP World.webtv.sk">
-    <title lang="id">Ukraine Brief</title>
+    <title lang="id">World News Online</title>
   </programme>
   <programme start="20260514172000 +0000" stop="20260514173000 +0000" channel="TVP World.webtv.sk">
     <title lang="id">Break the Fake (1075)</title>
@@ -16508,7 +16583,7 @@
     <title lang="id">World News Flash</title>
   </programme>
   <programme start="20260514193500 +0000" stop="20260514200000 +0000" channel="TVP World.webtv.sk">
-    <title lang="id">I Choose Poland (28)</title>
+    <title lang="id">I Choose Poland (27)</title>
   </programme>
   <programme start="20260514200000 +0000" stop="20260514201500 +0000" channel="TVP World.webtv.sk">
     <title lang="id">World News</title>
@@ -16534,13 +16609,10 @@
   <programme start="20260514212000 +0000" stop="20260514212500 +0000" channel="TVP World.webtv.sk">
     <title lang="id">World News Online</title>
   </programme>
-  <programme start="20260514212500 +0000" stop="20260514213000 +0000" channel="TVP World.webtv.sk">
+  <programme start="20260514212500 +0000" stop="20260514213500 +0000" channel="TVP World.webtv.sk">
     <title lang="id">Ukraine Brief</title>
   </programme>
-  <programme start="20260514213000 +0000" stop="20260514214000 +0000" channel="TVP World.webtv.sk">
-    <title lang="id">World News Flash</title>
-  </programme>
-  <programme start="20260514214000 +0000" stop="20260514214500 +0000" channel="TVP World.webtv.sk">
+  <programme start="20260514213500 +0000" stop="20260514214500 +0000" channel="TVP World.webtv.sk">
     <title lang="id">Weather</title>
   </programme>
   <programme start="20260514214500 +0000" stop="20260514220000 +0000" channel="TVP World.webtv.sk">
@@ -17924,7 +17996,7 @@
     <title lang="id">Simply K-pop Gateway To Korea</title>
   </programme>
   <programme start="20260514100000 +0000" stop="20260514103000 +0000" channel="Arirang TV.webtv.sk">
-    <title lang="id">Decoded: The Ai Conversations</title>
+    <title lang="id">Premium Collection B</title>
   </programme>
   <programme start="20260514103000 +0000" stop="20260514105000 +0000" channel="Arirang TV.webtv.sk">
     <title lang="id">Art And The City</title>
@@ -17962,8 +18034,56 @@
   <programme start="20260514143000 +0000" stop="20260514145000 +0000" channel="Arirang TV.webtv.sk">
     <title lang="id">The Grand Heritage K-asmr</title>
   </programme>
-  <programme start="20260514145000 +0000" stop="20260514175000 +0000" channel="Arirang TV.webtv.sk">
+  <programme start="20260514145000 +0000" stop="20260514150000 +0000" channel="Arirang TV.webtv.sk">
     <title lang="id">The Grand Heritage Four Seasons</title>
+  </programme>
+  <programme start="20260514150000 +0000" stop="20260514153000 +0000" channel="Arirang TV.webtv.sk">
+    <title lang="id">News Generation</title>
+  </programme>
+  <programme start="20260514153000 +0000" stop="20260514155000 +0000" channel="Arirang TV.webtv.sk">
+    <title lang="id">Art And The City</title>
+  </programme>
+  <programme start="20260514155000 +0000" stop="20260514160000 +0000" channel="Arirang TV.webtv.sk">
+    <title lang="id">Exploring Korean Literature B</title>
+  </programme>
+  <programme start="20260514160000 +0000" stop="20260514163000 +0000" channel="Arirang TV.webtv.sk">
+    <title lang="id">Discover World</title>
+  </programme>
+  <programme start="20260514163000 +0000" stop="20260514165000 +0000" channel="Arirang TV.webtv.sk">
+    <title lang="id">K-arts Artists</title>
+  </programme>
+  <programme start="20260514165000 +0000" stop="20260514170000 +0000" channel="Arirang TV.webtv.sk">
+    <title lang="id">Heritage Walks With Little Friend</title>
+  </programme>
+  <programme start="20260514170000 +0000" stop="20260514180000 +0000" channel="Arirang TV.webtv.sk">
+    <title lang="id">Simply K-pop Gateway To Korea</title>
+  </programme>
+  <programme start="20260514180000 +0000" stop="20260514183000 +0000" channel="Arirang TV.webtv.sk">
+    <title lang="id">K-culture Dive</title>
+  </programme>
+  <programme start="20260514183000 +0000" stop="20260514190000 +0000" channel="Arirang TV.webtv.sk">
+    <title lang="id">Beauty On And Off</title>
+  </programme>
+  <programme start="20260514190000 +0000" stop="20260514193000 +0000" channel="Arirang TV.webtv.sk">
+    <title lang="id">Within The Frame</title>
+  </programme>
+  <programme start="20260514193000 +0000" stop="20260514195000 +0000" channel="Arirang TV.webtv.sk">
+    <title lang="id">K-culture Minutes: K-stage</title>
+  </programme>
+  <programme start="20260514195000 +0000" stop="20260514200000 +0000" channel="Arirang TV.webtv.sk">
+    <title lang="id">K-chat: Travel In Korea</title>
+  </programme>
+  <programme start="20260514200000 +0000" stop="20260514203000 +0000" channel="Arirang TV.webtv.sk">
+    <title lang="id">Seoulscape</title>
+  </programme>
+  <programme start="20260514203000 +0000" stop="20260514205000 +0000" channel="Arirang TV.webtv.sk">
+    <title lang="id">The Grand Heritage K-asmr</title>
+  </programme>
+  <programme start="20260514205000 +0000" stop="20260514210000 +0000" channel="Arirang TV.webtv.sk">
+    <title lang="id">The Grand Heritage Four Seasons</title>
+  </programme>
+  <programme start="20260514210000 +0000" stop="20260514220000 +0000" channel="Arirang TV.webtv.sk">
+    <title lang="id">Simply K-pop Gateway To Korea</title>
   </programme>
   <programme start="20260513220000 +0000" stop="20260513223000 +0000" channel="TRT World.webtv.sk">
     <title lang="id">News</title>
@@ -18125,13 +18245,13 @@
     <title lang="id">News Live</title>
   </programme>
   <programme start="20260514033000 +0000" stop="20260514040000 +0000" channel="Al Jazeera English.webtv.sk">
-    <title lang="id">Apocalypse Maybe</title>
+    <title lang="id">Al Jazeera Untangles - The Coloniser&apos;s Academy</title>
   </programme>
   <programme start="20260514040000 +0000" stop="20260514043000 +0000" channel="Al Jazeera English.webtv.sk">
     <title lang="id">News Live</title>
   </programme>
   <programme start="20260514043000 +0000" stop="20260514050000 +0000" channel="Al Jazeera English.webtv.sk">
-    <title lang="id">Studio B: The AI Series</title>
+    <title lang="id">Business of War</title>
   </programme>
   <programme start="20260514050000 +0000" stop="20260514053000 +0000" channel="Al Jazeera English.webtv.sk">
     <title lang="id">News Live</title>
@@ -18143,25 +18263,22 @@
     <title lang="id">News Live</title>
   </programme>
   <programme start="20260514063000 +0000" stop="20260514070000 +0000" channel="Al Jazeera English.webtv.sk">
-    <title lang="id">The Bottom Line</title>
+    <title lang="id">UpFront</title>
   </programme>
-  <programme start="20260514070000 +0000" stop="20260514073000 +0000" channel="Al Jazeera English.webtv.sk">
-    <title lang="id">News Live</title>
-  </programme>
-  <programme start="20260514073000 +0000" stop="20260514080000 +0000" channel="Al Jazeera English.webtv.sk">
-    <title lang="id">Witness</title>
+  <programme start="20260514070000 +0000" stop="20260514080000 +0000" channel="Al Jazeera English.webtv.sk">
+    <title lang="id">Newshour</title>
   </programme>
   <programme start="20260514080000 +0000" stop="20260514083000 +0000" channel="Al Jazeera English.webtv.sk">
     <title lang="id">News Live</title>
   </programme>
   <programme start="20260514083000 +0000" stop="20260514090000 +0000" channel="Al Jazeera English.webtv.sk">
-    <title lang="id">The Listening Post</title>
+    <title lang="id">Fault Lines</title>
   </programme>
   <programme start="20260514090000 +0000" stop="20260514093000 +0000" channel="Al Jazeera English.webtv.sk">
     <title lang="id">News Live</title>
   </programme>
   <programme start="20260514093000 +0000" stop="20260514100000 +0000" channel="Al Jazeera English.webtv.sk">
-    <title lang="id">Fault Lines</title>
+    <title lang="id">Counting the Cost</title>
   </programme>
   <programme start="20260514100000 +0000" stop="20260514110000 +0000" channel="Al Jazeera English.webtv.sk">
     <title lang="id">Newshour</title>
@@ -18173,7 +18290,7 @@
     <title lang="id">Inside Story</title>
   </programme>
   <programme start="20260514120000 +0000" stop="20260514130000 +0000" channel="Al Jazeera English.webtv.sk">
-    <title lang="id">Witness</title>
+    <title lang="id">Newshour</title>
   </programme>
   <programme start="20260514130000 +0000" stop="20260514140000 +0000" channel="Al Jazeera English.webtv.sk">
     <title lang="id">Newshour</title>
@@ -18182,7 +18299,7 @@
     <title lang="id">News Live</title>
   </programme>
   <programme start="20260514143000 +0000" stop="20260514150000 +0000" channel="Al Jazeera English.webtv.sk">
-    <title lang="id">Talk to Al Jazeera</title>
+    <title lang="id">The Bottom Line</title>
   </programme>
   <programme start="20260514150000 +0000" stop="20260514160000 +0000" channel="Al Jazeera English.webtv.sk">
     <title lang="id">Newshour</title>
@@ -18191,7 +18308,7 @@
     <title lang="id">News Live</title>
   </programme>
   <programme start="20260514163000 +0000" stop="20260514170000 +0000" channel="Al Jazeera English.webtv.sk">
-    <title lang="id">Studio B: The AI Series</title>
+    <title lang="id">Witness</title>
   </programme>
   <programme start="20260514170000 +0000" stop="20260514173000 +0000" channel="Al Jazeera English.webtv.sk">
     <title lang="id">News Live</title>
@@ -18206,10 +18323,13 @@
     <title lang="id">News Live</title>
   </programme>
   <programme start="20260514193000 +0000" stop="20260514200000 +0000" channel="Al Jazeera English.webtv.sk">
-    <title lang="id">The Stream</title>
+    <title lang="id">Talk to Al Jazeera</title>
   </programme>
-  <programme start="20260514200000 +0000" stop="20260514210000 +0000" channel="Al Jazeera English.webtv.sk">
-    <title lang="id">Program to be Announced</title>
+  <programme start="20260514200000 +0000" stop="20260514203000 +0000" channel="Al Jazeera English.webtv.sk">
+    <title lang="id">News Live</title>
+  </programme>
+  <programme start="20260514203000 +0000" stop="20260514210000 +0000" channel="Al Jazeera English.webtv.sk">
+    <title lang="id">101 East</title>
   </programme>
   <programme start="20260514210000 +0000" stop="20260514220000 +0000" channel="Al Jazeera English.webtv.sk">
     <title lang="id">Newshour</title>
@@ -18318,6 +18438,117 @@
   </programme>
   <programme start="20260514020000 +0000" stop="20260514030000 +0000" channel="Sky News.webtv.sk">
     <title lang="id">Sky News</title>
+  </programme>
+  <programme start="20260514030000 +0000" stop="20260514040000 +0000" channel="Sky News.webtv.sk">
+    <title lang="id">Sky News</title>
+  </programme>
+  <programme start="20260514040000 +0000" stop="20260514043000 +0000" channel="Sky News.webtv.sk">
+    <title lang="id">Mornings</title>
+  </programme>
+  <programme start="20260514043000 +0000" stop="20260514050000 +0000" channel="Sky News.webtv.sk">
+    <title lang="id">Mornings</title>
+  </programme>
+  <programme start="20260514050000 +0000" stop="20260514053000 +0000" channel="Sky News.webtv.sk">
+    <title lang="id">Mornings with Ridge and Frost</title>
+  </programme>
+  <programme start="20260514053000 +0000" stop="20260514060000 +0000" channel="Sky News.webtv.sk">
+    <title lang="id">Mornings with Ridge and Frost</title>
+  </programme>
+  <programme start="20260514060000 +0000" stop="20260514063000 +0000" channel="Sky News.webtv.sk">
+    <title lang="id">Mornings with Ridge and Frost</title>
+  </programme>
+  <programme start="20260514063000 +0000" stop="20260514070000 +0000" channel="Sky News.webtv.sk">
+    <title lang="id">Mornings with Ridge and Frost</title>
+  </programme>
+  <programme start="20260514070000 +0000" stop="20260514073000 +0000" channel="Sky News.webtv.sk">
+    <title lang="id">Mornings with Ridge and Frost</title>
+  </programme>
+  <programme start="20260514073000 +0000" stop="20260514080000 +0000" channel="Sky News.webtv.sk">
+    <title lang="id">Mornings with Ridge and Frost</title>
+  </programme>
+  <programme start="20260514080000 +0000" stop="20260514083000 +0000" channel="Sky News.webtv.sk">
+    <title lang="id">Sky News Today with Gareth Malone</title>
+  </programme>
+  <programme start="20260514083000 +0000" stop="20260514090000 +0000" channel="Sky News.webtv.sk">
+    <title lang="id">Sky News Today with Gareth Malone</title>
+  </programme>
+  <programme start="20260514090000 +0000" stop="20260514093000 +0000" channel="Sky News.webtv.sk">
+    <title lang="id">Sky News Today with Gareth Malone</title>
+  </programme>
+  <programme start="20260514093000 +0000" stop="20260514100000 +0000" channel="Sky News.webtv.sk">
+    <title lang="id">Sky News Today with Gareth Malone</title>
+  </programme>
+  <programme start="20260514100000 +0000" stop="20260514103000 +0000" channel="Sky News.webtv.sk">
+    <title lang="id">Sky News Today with Gareth Malone</title>
+  </programme>
+  <programme start="20260514103000 +0000" stop="20260514110000 +0000" channel="Sky News.webtv.sk">
+    <title lang="id">Sky News Today with Gareth Malone</title>
+  </programme>
+  <programme start="20260514110000 +0000" stop="20260514113000 +0000" channel="Sky News.webtv.sk">
+    <title lang="id">Sky News Today With Jayne Secker</title>
+  </programme>
+  <programme start="20260514113000 +0000" stop="20260514120000 +0000" channel="Sky News.webtv.sk">
+    <title lang="id">Sky News Today With Jayne Secker</title>
+  </programme>
+  <programme start="20260514120000 +0000" stop="20260514123000 +0000" channel="Sky News.webtv.sk">
+    <title lang="id">Sky News Today With Jayne Secker</title>
+  </programme>
+  <programme start="20260514123000 +0000" stop="20260514130000 +0000" channel="Sky News.webtv.sk">
+    <title lang="id">Sky News Today With Jayne Secker</title>
+  </programme>
+  <programme start="20260514130000 +0000" stop="20260514133000 +0000" channel="Sky News.webtv.sk">
+    <title lang="id">Sky News Today With Jayne Secker</title>
+  </programme>
+  <programme start="20260514133000 +0000" stop="20260514140000 +0000" channel="Sky News.webtv.sk">
+    <title lang="id">Sky News Today With Jayne Secker</title>
+  </programme>
+  <programme start="20260514140000 +0000" stop="20260514143000 +0000" channel="Sky News.webtv.sk">
+    <title lang="id">Sky News Today With Jayne Secker</title>
+  </programme>
+  <programme start="20260514143000 +0000" stop="20260514150000 +0000" channel="Sky News.webtv.sk">
+    <title lang="id">Sky News Today With Jayne Secker</title>
+  </programme>
+  <programme start="20260514150000 +0000" stop="20260514153000 +0000" channel="Sky News.webtv.sk">
+    <title lang="id">The News Hour With Mark Austin</title>
+  </programme>
+  <programme start="20260514153000 +0000" stop="20260514160000 +0000" channel="Sky News.webtv.sk">
+    <title lang="id">The News Hour With Mark Austin</title>
+  </programme>
+  <programme start="20260514160000 +0000" stop="20260514163000 +0000" channel="Sky News.webtv.sk">
+    <title lang="id">The News Hour With Mark Austin</title>
+  </programme>
+  <programme start="20260514163000 +0000" stop="20260514170000 +0000" channel="Sky News.webtv.sk">
+    <title lang="id">The News Hour With Mark Austin</title>
+  </programme>
+  <programme start="20260514170000 +0000" stop="20260514173000 +0000" channel="Sky News.webtv.sk">
+    <title lang="id">The Cathy Newman Show</title>
+  </programme>
+  <programme start="20260514173000 +0000" stop="20260514180000 +0000" channel="Sky News.webtv.sk">
+    <title lang="id">The Cathy Newman Show</title>
+  </programme>
+  <programme start="20260514180000 +0000" stop="20260514183000 +0000" channel="Sky News.webtv.sk">
+    <title lang="id">UK Tonight With Sarah-Jane Mee</title>
+  </programme>
+  <programme start="20260514183000 +0000" stop="20260514190000 +0000" channel="Sky News.webtv.sk">
+    <title lang="id">UK Tonight With Sarah-Jane Mee</title>
+  </programme>
+  <programme start="20260514190000 +0000" stop="20260514193000 +0000" channel="Sky News.webtv.sk">
+    <title lang="id">World with Yalda Hakim</title>
+  </programme>
+  <programme start="20260514193000 +0000" stop="20260514200000 +0000" channel="Sky News.webtv.sk">
+    <title lang="id">World with Yalda Hakim</title>
+  </programme>
+  <programme start="20260514200000 +0000" stop="20260514203000 +0000" channel="Sky News.webtv.sk">
+    <title lang="id">The Wrap With Anna Botting</title>
+  </programme>
+  <programme start="20260514203000 +0000" stop="20260514210000 +0000" channel="Sky News.webtv.sk">
+    <title lang="id">The Wrap With Anna Botting</title>
+  </programme>
+  <programme start="20260514210000 +0000" stop="20260514213000 +0000" channel="Sky News.webtv.sk">
+    <title lang="id">The Wrap With Anna Botting</title>
+  </programme>
+  <programme start="20260514213000 +0000" stop="20260514220000 +0000" channel="Sky News.webtv.sk">
+    <title lang="id">The Wrap With Anna Botting</title>
   </programme>
   <programme start="20260513220000 +0000" stop="20260513221000 +0000" channel="France 24 English.webtv.sk">
     <title lang="id">NEWS</title>
@@ -19087,7 +19318,7 @@
   <programme start="20260514212500 +0000" stop="20260514215500 +0000" channel="Rai Uno.webtv.sk">
     <title lang="id">Porta a porta</title>
   </programme>
-  <programme start="20260514215500 +0000" stop="20260515005500 +0000" channel="Rai Uno.webtv.sk">
+  <programme start="20260514215500 +0000" stop="20260514220000 +0000" channel="Rai Uno.webtv.sk">
     <title lang="id">Tg1</title>
   </programme>
   <programme start="20260513220000 +0000" stop="20260513230000 +0000" channel="Rai Tre.webtv.sk">
@@ -19195,7 +19426,7 @@
   <programme start="20260514185000 +0000" stop="20260514191500 +0000" channel="Rai Tre.webtv.sk">
     <title lang="id">Un posto al sole XXX</title>
   </programme>
-  <programme start="20260514191500 +0000" stop="20260514221500 +0000" channel="Rai Tre.webtv.sk">
+  <programme start="20260514191500 +0000" stop="20260514220000 +0000" channel="Rai Tre.webtv.sk">
     <title lang="id">Splendida Cornice V</title>
   </programme>
   <programme start="20260513220000 +0000" stop="20260513223000 +0000" channel="CGTN.webtv.sk">
