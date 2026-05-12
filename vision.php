@@ -655,9 +655,6 @@
 <programme start="20260512103000 +0000" stop="20260512120000 +0000" channel="ANTV.vision">
 <title>Vasudha</title>
 </programme>
-<programme start="20260512120000 +0000" stop="20260512143000 +0000" channel="ANTV.vision">
-<title>Badai Di Awal Cinta</title>
-</programme>
 <programme start="20260512143000 +0000" stop="20260512163000 +0000" channel="ANTV.vision">
 <title>Iblis dalam Darah</title>
 </programme>
@@ -1497,4 +1494,7 @@
 </programme>
 <programme start="20260513103000 +0000" stop="20260513120000 +0000" channel="BTV.vision">
 <title>Berita Satu Utama</title>
+</programme>
+<programme start="20260511230000 +0000" stop="20260512010000 +0000" channel="TVRI.vision">
+<title>TVRI</title>
 </programme>

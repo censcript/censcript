@@ -850,7 +850,7 @@
     <icon src="https://thumbor.prod.vidiocdn.com/WIl2jiaTLEzHnNAo61AGzfdEXh8=/287x162/filters:strip_icc():quality(70)/vidio-media-production/uploads/tv_program/thumbnail/389747/fc3ce1.jpg"/>
   </programme>
   <programme channel="205" start="20260513130000 +0000" stop="20260513160000 +0000">
-    <title lang="id">Band Academy</title>
+    <title lang="id">Band Academy Group 4 Top 5</title>
     <desc lang="id">Panggung Megah Band Academy Siap Dimulai! Setelah Melalui Proses Seleksi Yang Ketat, Kini 30 Academia Terpilih Siap Berkompetisi Untuk Membuktikan Talenta, dan Aksi Panggung Spektakuler Demi Musik Masa Depan. Siapakah Band Yang Akan Berhasil Lolos Ke Panggung Megah Band Academy? Saksikan Band Academy Mulai Selasa, 7 April 2026, Setiap Rabu - Jumat Pukul 19.00 WIB Live Hanya Di Indosiar.</desc>
     <icon src="https://thumbor.prod.vidiocdn.com/J8_kop09qNnaldAa2gXA4r8lJT8=/287x162/filters:strip_icc():quality(70)/vidio-media-production/uploads/livestreaming/schedule/thumbnail/5070405/6cba04.jpg"/>
   </programme>
@@ -9011,12 +9011,12 @@
     <title lang="id">TERI MERI DORIYAANN</title>
     <icon src="https://thumbor.prod.vidiocdn.com/8678mPKw3nqgy6zSYrHcpiAxi3A=/287x162/filters:strip_icc():quality(70)/vidio-media-production/uploads/livestreaming/schedule/thumbnail/5071449/064814.jpg"/>
   </programme>
-  <programme channel="782" start="20260512103100 +0000" stop="20260512120000 +0000">
+  <programme channel="782" start="20260512103100 +0000" stop="20260512120700 +0000">
     <title lang="id">Vasudha</title>
     <desc lang="id">Vasudha yang periang bergabung dengan rumah pemimpin bisnis Chandrika sebagai pembantu dan mendambakan persetujuannya meskipun ada perbedaan ideologis di antara mereka.</desc>
     <icon src="https://thumbor.prod.vidiocdn.com/TSYV3R5lIteWXubiJ2_mOEt2f5g=/287x162/filters:strip_icc():quality(70)/vidio-media-production/uploads/livestreaming/schedule/thumbnail/5071436/186529.jpg"/>
   </programme>
-  <programme channel="782" start="20260512120000 +0000" stop="20260512143000 +0000">
+  <programme channel="782" start="20260512120700 +0000" stop="20260512143000 +0000">
     <title lang="id">Sinema Spesial: Badai di Awal Bahagia</title>
     <desc lang="id">Rhoma yang berhasil menggagalkan perampokan mobil, tetapi karena hal itu anaknya diculik. Para perampok dendam kepada Rhoma. Ketika uang tebusan yang diberikan Rhoma terlalu kecil, Rhoma diminta untuk merampok bank.</desc>
     <icon src="https://thumbor.prod.vidiocdn.com/20tRQaK9Gps_wFQL5rY-XgRbrs4=/287x162/filters:strip_icc():quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/image/782/antv-de8530.jpg"/>
