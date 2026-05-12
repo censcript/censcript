@@ -8456,26 +8456,26 @@
     <title lang="id">AFC Ajax vs FC Utrecht - Dutch League 2025/26</title>
     <icon src="https://thumbor.prod.vidiocdn.com/edoqRinFCRhrRwQ2ngcXacb_q74=/287x162/filters:strip_icc():quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/image/6685/champions-tv-1-54e282.jpg"/>
   </programme>
-  <programme channel="6685" start="20260512160000 +0000" stop="20260512163000 +0000">
+  <programme channel="6685" start="20260512160000 +0000" stop="20260512162800 +0000">
     <title lang="id">PL Story 2024/25 - Subs</title>
     <icon src="https://thumbor.prod.vidiocdn.com/edoqRinFCRhrRwQ2ngcXacb_q74=/287x162/filters:strip_icc():quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/image/6685/champions-tv-1-54e282.jpg"/>
   </programme>
-  <programme channel="6685" start="20260512163000 +0000" stop="20260512170000 +0000">
+  <programme channel="6685" start="20260512162800 +0000" stop="20260512170000 +0000">
     <title lang="id">CREMONESE vs PISA : Serie A 2025/26</title>
     <desc lang="id">CREMONESE vs PISA</desc>
     <icon src="https://thumbor.prod.vidiocdn.com/edoqRinFCRhrRwQ2ngcXacb_q74=/287x162/filters:strip_icc():quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/image/6685/champions-tv-1-54e282.jpg"/>
   </programme>
-  <programme channel="6685" start="20260512163000 +0000" stop="20260512170000 +0000">
+  <programme channel="6685" start="20260512162800 +0000" stop="20260512170000 +0000">
     <title lang="id">CREMONESE vs PISA : Serie A 2025/26</title>
     <desc lang="id">CREMONESE vs PISA</desc>
     <icon src="https://thumbor.prod.vidiocdn.com/edoqRinFCRhrRwQ2ngcXacb_q74=/287x162/filters:strip_icc():quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/image/6685/champions-tv-1-54e282.jpg"/>
   </programme>
-  <programme channel="6685" start="20260512170000 +0000" stop="20260512183000 +0000">
+  <programme channel="6685" start="20260512170000 +0000" stop="20260512181800 +0000">
     <title lang="id">CREMONESE vs PISA : Serie A 2025/26</title>
     <desc lang="id">CREMONESE vs PISA</desc>
     <icon src="https://thumbor.prod.vidiocdn.com/edoqRinFCRhrRwQ2ngcXacb_q74=/287x162/filters:strip_icc():quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/image/6685/champions-tv-1-54e282.jpg"/>
   </programme>
-  <programme channel="6685" start="20260512183000 +0000" stop="20260512185500 +0000">
+  <programme channel="6685" start="20260512181800 +0000" stop="20260512185500 +0000">
     <title lang="id">Filler</title>
     <icon src="https://thumbor.prod.vidiocdn.com/edoqRinFCRhrRwQ2ngcXacb_q74=/287x162/filters:strip_icc():quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/image/6685/champions-tv-1-54e282.jpg"/>
   </programme>

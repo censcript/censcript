@@ -3345,20 +3345,20 @@ Warning: Undefined array key "et" in /usr/home/ManusiaBiasa/domains/manusiabiasa
 <programme start="20260511230000 +0000" stop="20260512000000 +0000" channel="Sky Sport 1 HD.skyde">
     <title>Live NBA: Showtime</title>
 </programme>
-<programme start="20260512000000 +0000" stop="20260512030000 +0000" channel="Sky Sport 1 HD.skyde">
+<programme start="20260512000000 +0000" stop="20260512024500 +0000" channel="Sky Sport 1 HD.skyde">
     <title>Live NBA: Detroit Pistons @ Cleveland Cavaliers, Conference Semifinals, Spiel 4</title>
 </programme>
-<programme start="20260512030000 +0000" stop="20260512080000 +0000" channel="Sky Sport 1 HD.skyde">
+<programme start="20260512024500 +0000" stop="20260512034500 +0000" channel="Sky Sport 1 HD.skyde">
     <title>Live NBA: Showtime - Post Show</title>
 </programme>
 <programme start="20260512104000 +0000" stop="20260512110000 +0000" channel="Sky Sport 1 HD.skyde">
     <title>WTA: Es folgt</title>
 </programme>
-<programme start="20260512110000 +0000" stop="20260512150000 +0000" channel="Sky Sport 1 HD.skyde">
+<programme start="20260512110000 +0000" stop="20260512145000 +0000" channel="Sky Sport 1 HD.skyde">
     <title>Live WTA 1000: S. Cîrstea (ROU) - J. Ostapenko (LVA), Internazionali BNL d&#039;Italia in Rom (Italien), Viertelfinale 1</title>
 </programme>
-<programme start="20260512150000 +0000" stop="20260512170000 +0000" channel="Sky Sport 1 HD.skyde">
-    <title>WTA: Es folgt</title>
+<programme start="20260512145000 +0000" stop="20260512170000 +0000" channel="Sky Sport 1 HD.skyde">
+    <title>WTA: Es folgt ab 19:00</title>
 </programme>
 <programme start="20260512170000 +0000" stop="20260512210000 +0000" channel="Sky Sport 1 HD.skyde">
     <title>Live WTA 1000: C. Gauff (USA) - M. Andreeva, Internazionali BNL d&#039;Italia in Rom (Italien), Viertelfinale 2</title>
