@@ -3881,7 +3881,7 @@
         <title>News &amp; Weather</title>
     </programme>
     <programme start="20260512010500 +0000" stop="20260512015000 +0000" channel="NHK World Premium HD.starhub">
-        <title>Tsurube&#039;s Salute to Families &quot;Ramos Ruy in Hiroshima City, Hiroshima Prefecture&quot;</title>
+        <title>Tsurube&#039;s Salute to Families &quot;Ramos Ruy in Hiroshima City, Hiroshima Prefecture&quot; Part 1 (R)</title>
     </programme>
     <programme start="20260512015000 +0000" stop="20260512021700 +0000" channel="NHK World Premium HD.starhub">
         <title>Today&#039;s Close-up (R)</title>

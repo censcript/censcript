@@ -939,45 +939,6 @@ Warning: Undefined array key "et" in /usr/home/ManusiaBiasa/domains/manusiabiasa
 <programme start="20260512213500 +0000" stop="20260512222500 +0000" channel="Crime + Investigation.skyde">
     <title>City Confidential - Verbrechen nebenan</title>
 </programme>
-<programme start="20260511220000 +0000" stop="20260512060000 +0000" channel="DAZN 1 HD.skyde">
-    <title>Sendepause</title>
-</programme>
-<programme start="20260512060000 +0000" stop="20260512071500 +0000" channel="DAZN 1 HD.skyde">
-    <title>ALL IN - Die Bundesliga Highlight Show: 28. Spieltag</title>
-</programme>
-<programme start="20260512071500 +0000" stop="20260512091500 +0000" channel="DAZN 1 HD.skyde">
-    <title>Bundesliga 25/26: VFB Stuttgart - Bayer 04 Leverkusen</title>
-</programme>
-<programme start="20260512091500 +0000" stop="20260512111500 +0000" channel="DAZN 1 HD.skyde">
-    <title>LaLiga 25/26: FC Barcelona - Real Madrid</title>
-</programme>
-<programme start="20260512111500 +0000" stop="20260512114500 +0000" channel="DAZN 1 HD.skyde">
-    <title>Best of DAZN: Highlights</title>
-</programme>
-<programme start="20260512114500 +0000" stop="20260512130000 +0000" channel="DAZN 1 HD.skyde">
-    <title>ALL IN - Die Bundesliga Highlight Show: 28. Spieltag</title>
-</programme>
-<programme start="20260512130000 +0000" stop="20260512150000 +0000" channel="DAZN 1 HD.skyde">
-    <title>Bundesliga 25/26: VFL Wolfsburg - FC Bayern München</title>
-</programme>
-<programme start="20260512150000 +0000" stop="20260512153500 +0000" channel="DAZN 1 HD.skyde">
-    <title>Best of DAZN: Highlights</title>
-</programme>
-<programme start="20260512153500 +0000" stop="20260512165500 +0000" channel="DAZN 1 HD.skyde">
-    <title>ALL IN - Die Bundesliga Highlight Show: 33. Spieltag</title>
-</programme>
-<programme start="20260512165500 +0000" stop="20260512190500 +0000" channel="DAZN 1 HD.skyde">
-    <title>LaLiga 25/26: Celta Vigo - UD Levante</title>
-</programme>
-<programme start="20260512190500 +0000" stop="20260512192500 +0000" channel="DAZN 1 HD.skyde">
-    <title>Best of DAZN: Highlights</title>
-</programme>
-<programme start="20260512192500 +0000" stop="20260512213500 +0000" channel="DAZN 1 HD.skyde">
-    <title>LaLiga 25/26: CA Osasuna - Atlético Madrid</title>
-</programme>
-<programme start="20260512213500 +0000" stop="20260512220000 +0000" channel="DAZN 1 HD.skyde">
-    <title>Best of DAZN: Highlights</title>
-</programme>
 <programme start="20260511220000 +0000" stop="20260512060000 +0000" channel="DAZN 2 HD.skyde">
     <title>Sendepause</title>
 </programme>
@@ -1206,6 +1167,12 @@ Warning: Undefined array key "et" in /usr/home/ManusiaBiasa/domains/manusiabiasa
 <programme start="20260512200000 +0000" stop="20260512220000 +0000" channel="Jukebox.skyde">
     <title>JUKEBOX DANCE</title>
 </programme>
+<programme start="20260511221000 +0000" stop="20260511225500 +0000" channel="Motorvision+.skyde">
+    <title>Isle of Man Tourist Trophy 2025</title>
+</programme>
+<programme start="20260511225500 +0000" stop="20260511230000 +0000" channel="Motorvision+.skyde">
+    <title>NASCAR University</title>
+</programme>
 <programme start="20260511230000 +0000" stop="20260511233000 +0000" channel="Motorvision+.skyde">
     <title>Infomercial</title>
 </programme>
@@ -1224,55 +1191,55 @@ Warning: Undefined array key "et" in /usr/home/ManusiaBiasa/domains/manusiabiasa
 <programme start="20260512012500 +0000" stop="20260512015000 +0000" channel="Motorvision+.skyde">
     <title>Classic</title>
 </programme>
-<programme start="20260512015000 +0000" stop="20260512021500 +0000" channel="Motorvision+.skyde">
+<programme start="20260512015000 +0000" stop="20260512021000 +0000" channel="Motorvision+.skyde">
     <title>Crash</title>
 </programme>
-<programme start="20260512021500 +0000" stop="20260512024500 +0000" channel="Motorvision+.skyde">
+<programme start="20260512021000 +0000" stop="20260512024000 +0000" channel="Motorvision+.skyde">
     <title>Dream Cars</title>
 </programme>
-<programme start="20260512024500 +0000" stop="20260512031000 +0000" channel="Motorvision+.skyde">
+<programme start="20260512024000 +0000" stop="20260512030500 +0000" channel="Motorvision+.skyde">
     <title>Top Speed Classic</title>
 </programme>
-<programme start="20260512031000 +0000" stop="20260512033500 +0000" channel="Motorvision+.skyde">
+<programme start="20260512030500 +0000" stop="20260512033000 +0000" channel="Motorvision+.skyde">
     <title>Classic Ride</title>
 </programme>
-<programme start="20260512033500 +0000" stop="20260512040000 +0000" channel="Motorvision+.skyde">
+<programme start="20260512033000 +0000" stop="20260512040000 +0000" channel="Motorvision+.skyde">
     <title>Abenteuer Allrad</title>
 </programme>
-<programme start="20260512040000 +0000" stop="20260512045000 +0000" channel="Motorvision+.skyde">
+<programme start="20260512040000 +0000" stop="20260512044500 +0000" channel="Motorvision+.skyde">
     <title>Spotted</title>
 </programme>
-<programme start="20260512045000 +0000" stop="20260512052000 +0000" channel="Motorvision+.skyde">
+<programme start="20260512044500 +0000" stop="20260512051000 +0000" channel="Motorvision+.skyde">
     <title>4x4 - Das Allrad Magazin</title>
 </programme>
-<programme start="20260512052000 +0000" stop="20260512054500 +0000" channel="Motorvision+.skyde">
+<programme start="20260512051000 +0000" stop="20260512054000 +0000" channel="Motorvision+.skyde">
     <title>Cars + Life</title>
 </programme>
-<programme start="20260512054500 +0000" stop="20260512061000 +0000" channel="Motorvision+.skyde">
+<programme start="20260512054000 +0000" stop="20260512060500 +0000" channel="Motorvision+.skyde">
     <title>Tuning - Tiefer geht`s nicht!</title>
 </programme>
-<programme start="20260512061000 +0000" stop="20260512063500 +0000" channel="Motorvision+.skyde">
+<programme start="20260512060500 +0000" stop="20260512063000 +0000" channel="Motorvision+.skyde">
     <title>Stunt Heroes</title>
 </programme>
-<programme start="20260512063500 +0000" stop="20260512070000 +0000" channel="Motorvision+.skyde">
+<programme start="20260512063000 +0000" stop="20260512065500 +0000" channel="Motorvision+.skyde">
     <title>Dumbest Stuff on Wheels</title>
 </programme>
-<programme start="20260512070000 +0000" stop="20260512073000 +0000" channel="Motorvision+.skyde">
+<programme start="20260512065500 +0000" stop="20260512072000 +0000" channel="Motorvision+.skyde">
     <title>Made in....</title>
 </programme>
-<programme start="20260512073000 +0000" stop="20260512075500 +0000" channel="Motorvision+.skyde">
+<programme start="20260512072000 +0000" stop="20260512075000 +0000" channel="Motorvision+.skyde">
     <title>Mission Mobility</title>
 </programme>
-<programme start="20260512075500 +0000" stop="20260512083000 +0000" channel="Motorvision+.skyde">
+<programme start="20260512075000 +0000" stop="20260512082000 +0000" channel="Motorvision+.skyde">
     <title>Motorcycles</title>
 </programme>
-<programme start="20260512083000 +0000" stop="20260512085500 +0000" channel="Motorvision+.skyde">
+<programme start="20260512082000 +0000" stop="20260512085500 +0000" channel="Motorvision+.skyde">
     <title>Super Cars</title>
 </programme>
-<programme start="20260512085500 +0000" stop="20260512092500 +0000" channel="Motorvision+.skyde">
+<programme start="20260512085500 +0000" stop="20260512092000 +0000" channel="Motorvision+.skyde">
     <title>Biker Lifestyle</title>
 </programme>
-<programme start="20260512092500 +0000" stop="20260512095000 +0000" channel="Motorvision+.skyde">
+<programme start="20260512092000 +0000" stop="20260512095000 +0000" channel="Motorvision+.skyde">
     <title>Classic</title>
 </programme>
 <programme start="20260512095000 +0000" stop="20260512101500 +0000" channel="Motorvision+.skyde">
@@ -1281,10 +1248,10 @@ Warning: Undefined array key "et" in /usr/home/ManusiaBiasa/domains/manusiabiasa
 <programme start="20260512101500 +0000" stop="20260512104500 +0000" channel="Motorvision+.skyde">
     <title>Dream Cars</title>
 </programme>
-<programme start="20260512104500 +0000" stop="20260512111000 +0000" channel="Motorvision+.skyde">
+<programme start="20260512104500 +0000" stop="20260512111500 +0000" channel="Motorvision+.skyde">
     <title>Top Speed Classic</title>
 </programme>
-<programme start="20260512111000 +0000" stop="20260512114000 +0000" channel="Motorvision+.skyde">
+<programme start="20260512111500 +0000" stop="20260512114000 +0000" channel="Motorvision+.skyde">
     <title>Classic Ride</title>
 </programme>
 <programme start="20260512114000 +0000" stop="20260512120500 +0000" channel="Motorvision+.skyde">
@@ -1302,10 +1269,10 @@ Warning: Undefined array key "et" in /usr/home/ManusiaBiasa/domains/manusiabiasa
 <programme start="20260512133000 +0000" stop="20260512143000 +0000" channel="Motorvision+.skyde">
     <title>Australian Superbike Championship 2024</title>
 </programme>
-<programme start="20260512143000 +0000" stop="20260512144500 +0000" channel="Motorvision+.skyde">
+<programme start="20260512143000 +0000" stop="20260512144000 +0000" channel="Motorvision+.skyde">
     <title>Crash</title>
 </programme>
-<programme start="20260512144500 +0000" stop="20260512161500 +0000" channel="Motorvision+.skyde">
+<programme start="20260512144000 +0000" stop="20260512161500 +0000" channel="Motorvision+.skyde">
     <title>FIM X-Trial World Championship 2026</title>
 </programme>
 <programme start="20260512161500 +0000" stop="20260512170000 +0000" channel="Motorvision+.skyde">
@@ -1320,29 +1287,26 @@ Warning: Undefined array key "et" in /usr/home/ManusiaBiasa/domains/manusiabiasa
 <programme start="20260512180000 +0000" stop="20260512184500 +0000" channel="Motorvision+.skyde">
     <title>Australian Drag Racing Championship 2024</title>
 </programme>
-<programme start="20260512184500 +0000" stop="20260512191000 +0000" channel="Motorvision+.skyde">
+<programme start="20260512184500 +0000" stop="20260512191500 +0000" channel="Motorvision+.skyde">
     <title>Gearing Up 2026</title>
 </programme>
-<programme start="20260512191000 +0000" stop="20260512194000 +0000" channel="Motorvision+.skyde">
-    <title>FastZone 2026</title>
+<programme start="20260512191500 +0000" stop="20260512194500 +0000" channel="Motorvision+.skyde">
+    <title>Fastzone 2026</title>
 </programme>
-<programme start="20260512194000 +0000" stop="20260512200500 +0000" channel="Motorvision+.skyde">
+<programme start="20260512194500 +0000" stop="20260512201000 +0000" channel="Motorvision+.skyde">
     <title>Super Cars</title>
 </programme>
-<programme start="20260512200500 +0000" stop="20260512203000 +0000" channel="Motorvision+.skyde">
+<programme start="20260512201000 +0000" stop="20260512204000 +0000" channel="Motorvision+.skyde">
     <title>Perfect Ride</title>
 </programme>
-<programme start="20260512203000 +0000" stop="20260512205500 +0000" channel="Motorvision+.skyde">
+<programme start="20260512204000 +0000" stop="20260512210500 +0000" channel="Motorvision+.skyde">
     <title>Top Speed - Unterwegs mit</title>
 </programme>
-<programme start="20260512205500 +0000" stop="20260512212500 +0000" channel="Motorvision+.skyde">
+<programme start="20260512210500 +0000" stop="20260512213500 +0000" channel="Motorvision+.skyde">
     <title>Motorcycles</title>
 </programme>
-<programme start="20260512212500 +0000" stop="20260512215000 +0000" channel="Motorvision+.skyde">
+<programme start="20260512213500 +0000" stop="20260512220500 +0000" channel="Motorvision+.skyde">
     <title>Grüne Welle</title>
-</programme>
-<programme start="20260512215000 +0000" stop="20260512221500 +0000" channel="Motorvision+.skyde">
-    <title>4x4 - Das Allrad Magazin</title>
 </programme>
 <programme start="20260511222000 +0000" stop="20260511224000 +0000" channel="Nick Jr..skyde">
     <title>Rubble &amp; Crew</title>
@@ -3063,11 +3027,23 @@ Warning: Undefined array key "et" in /usr/home/ManusiaBiasa/domains/manusiabiasa
 <programme start="20260511224500 +0000" stop="20260511230000 +0000" channel="Sky Sport Mix HD.skyde">
     <title>NHL: Highlights VGK@ANA, Playoffs, 2. Runde, Spiel 4</title>
 </programme>
+<programme start="20260511230000 +0000" stop="20260512000000 +0000" channel="Sky Sport Mix HD.skyde">
+    <title>NHL: Tonight - Playoff Edition</title>
+</programme>
 <programme start="20260512000000 +0000" stop="20260512030000 +0000" channel="Sky Sport Mix HD.skyde">
     <title>Live NHL: Colorado Avalanche @ Minnesota Wild, Playoffs, 2. Runde, Spiel 4</title>
 </programme>
 <programme start="20260512030000 +0000" stop="20260512040000 +0000" channel="Sky Sport Mix HD.skyde">
+    <title>MotoGP: Sprint - GP Frankreich</title>
+</programme>
+<programme start="20260512030000 +0000" stop="20260512040000 +0000" channel="Sky Sport Mix HD.skyde">
     <title>3. Liga: Alle Spiele, alle Tore, 37. Spieltag komplett</title>
+</programme>
+<programme start="20260512040000 +0000" stop="20260512050000 +0000" channel="Sky Sport Mix HD.skyde">
+    <title>MotoGP: Rennen - GP Frankreich</title>
+</programme>
+<programme start="20260512050000 +0000" stop="20260512070000 +0000" channel="Sky Sport Mix HD.skyde">
+    <title>NHL: Colorado Avalanche @ Minnesota Wild, Playoffs, 2. Runde, Spiel 4</title>
 </programme>
 <programme start="20260512070000 +0000" stop="20260512073000 +0000" channel="Sky Sport Mix HD.skyde">
     <title>Frauen-BL: Alle Spiele, alle Tore, 25. Spieltag komplett</title>
@@ -3077,6 +3053,15 @@ Warning: Undefined array key "et" in /usr/home/ManusiaBiasa/domains/manusiabiasa
 </programme>
 <programme start="20260512100000 +0000" stop="20260512101500 +0000" channel="Sky Sport Mix HD.skyde">
     <title>NHL: Highlights COL@MIN, Playoffs, 2. Runde, Spiel 4</title>
+</programme>
+<programme start="20260512101500 +0000" stop="20260512103000 +0000" channel="Sky Sport Mix HD.skyde">
+    <title>DFB-Pokal: Highlights XXL: VfB Stuttgart - SC Freiburg, Halbfinale</title>
+</programme>
+<programme start="20260512103000 +0000" stop="20260512113000 +0000" channel="Sky Sport Mix HD.skyde">
+    <title>MotoGP: Sprint - GP Frankreich</title>
+</programme>
+<programme start="20260512113000 +0000" stop="20260512120000 +0000" channel="Sky Sport Mix HD.skyde">
+    <title>Frauen-BL: Alle Spiele, alle Tore, 25. Spieltag komplett</title>
 </programme>
 <programme start="20260512120000 +0000" stop="20260512130000 +0000" channel="Sky Sport Mix HD.skyde">
     <title>NHL: Tonight - Playoff Edition</title>
@@ -3098,6 +3083,9 @@ Warning: Undefined array key "et" in /usr/home/ManusiaBiasa/domains/manusiabiasa
 </programme>
 <programme start="20260512190000 +0000" stop="20260512200000 +0000" channel="Sky Sport Mix HD.skyde">
     <title>MotoGP: Highlights: GP Frankreich</title>
+</programme>
+<programme start="20260512200000 +0000" stop="20260512220000 +0000" channel="Sky Sport Mix HD.skyde">
+    <title>NHL: Colorado Avalanche @ Minnesota Wild, Playoffs, 2. Runde, Spiel 4</title>
 </programme>
 <programme start="20260511220000 +0000" stop="20260511230000 +0000" channel="Sky Sport News HD.skyde">
     <title>Sky Sport News: Nightline</title>
@@ -3255,10 +3243,10 @@ Warning: Undefined array key "et" in /usr/home/ManusiaBiasa/domains/manusiabiasa
 <programme start="20260512210000 +0000" stop="20260512230000 +0000" channel="Sky Sport Tennis HD.skyde">
     <title>WTA 1000: M. Kostyuk (UKR) - M. Andreeva, Mutua Madrid Open in Madrid (ESP), Finale</title>
 </programme>
-<programme start="20260511220000 +0000" stop="20260511223000 +0000" channel="Sky Sport Top Event HD.skyde">
+<programme start="20260511221500 +0000" stop="20260511224500 +0000" channel="Sky Sport Top Event HD.skyde">
     <title>BL: 90in30: WOB - FCB, 33. Spieltag</title>
 </programme>
-<programme start="20260511223000 +0000" stop="20260511230000 +0000" channel="Sky Sport Top Event HD.skyde">
+<programme start="20260511224500 +0000" stop="20260511230000 +0000" channel="Sky Sport Top Event HD.skyde">
     <title>2. BL: 90in30: FCN - S04, 33. Spieltag</title>
 </programme>
 <programme start="20260511230000 +0000" stop="20260512000000 +0000" channel="Sky Sport Top Event HD.skyde">
@@ -3285,6 +3273,9 @@ Warning: Undefined array key "et" in /usr/home/ManusiaBiasa/domains/manusiabiasa
 <programme start="20260512053000 +0000" stop="20260512070000 +0000" channel="Sky Sport Top Event HD.skyde">
     <title>Fußball: Nachspielzeit - Das Beste vom Fußball-Wochenende</title>
 </programme>
+<programme start="20260512070000 +0000" stop="20260512090000 +0000" channel="Sky Sport Top Event HD.skyde">
+    <title>NHL: Colorado Avalanche @ Minnesota Wild, Playoffs, 2. Runde, Spiel 4</title>
+</programme>
 <programme start="20260512090000 +0000" stop="20260512185000 +0000" channel="Sky Sport Top Event HD.skyde">
     <title>Live ATP &amp; WTA: Konferenz Masters 1000 Rom (Italien), 8. Tag</title>
 </programme>
@@ -3294,31 +3285,13 @@ Warning: Undefined array key "et" in /usr/home/ManusiaBiasa/domains/manusiabiasa
 <programme start="20260512210000 +0000" stop="20260512220000 +0000" channel="Sky Sport Top Event HD.skyde">
     <title>IndyCar: Highlights: Sonsio Grand Prix</title>
 </programme>
-<programme start="20260511231500 +0000" stop="20260512011500 +0000" channel="Sky Sport UHD.skyde">
-    <title>DFB-Pokal: Bayer Leverkusen - FC Bayern München, Halbfinale</title>
-</programme>
-<programme start="20260512011500 +0000" stop="20260512031500 +0000" channel="Sky Sport UHD.skyde">
-    <title>DFB-Pokal: VfB Stuttgart - SC Freiburg, Halbfinale</title>
-</programme>
-<programme start="20260512031500 +0000" stop="20260512034000 +0000" channel="Sky Sport UHD.skyde">
-    <title>Golf: Greatest Holes (5)</title>
-</programme>
-<programme start="20260512034000 +0000" stop="20260512040500 +0000" channel="Sky Sport UHD.skyde">
-    <title>Golf: Greatest Holes (6)</title>
-</programme>
-<programme start="20260512040500 +0000" stop="20260512060500 +0000" channel="Sky Sport UHD.skyde">
-    <title>PL: Tottenham Hotspur - Leeds United, 36. Spieltag</title>
-</programme>
-<programme start="20260512060500 +0000" stop="20260512061500 +0000" channel="Sky Sport UHD.skyde">
-    <title>Info: UHD</title>
-</programme>
 <programme start="20260511230000 +0000" stop="20260512000000 +0000" channel="Sky Sport 1 HD.skyde">
     <title>Live NBA: Showtime</title>
 </programme>
-<programme start="20260512000000 +0000" stop="20260512024500 +0000" channel="Sky Sport 1 HD.skyde">
+<programme start="20260512000000 +0000" stop="20260512030000 +0000" channel="Sky Sport 1 HD.skyde">
     <title>Live NBA: Detroit Pistons @ Cleveland Cavaliers, Conference Semifinals, Spiel 4</title>
 </programme>
-<programme start="20260512024500 +0000" stop="20260512034500 +0000" channel="Sky Sport 1 HD.skyde">
+<programme start="20260512030000 +0000" stop="20260512080000 +0000" channel="Sky Sport 1 HD.skyde">
     <title>Live NBA: Showtime - Post Show</title>
 </programme>
 <programme start="20260512104000 +0000" stop="20260512110000 +0000" channel="Sky Sport 1 HD.skyde">
