@@ -262,10 +262,6 @@
     <title>Basketball: San Antonio Spurs - Minnesota Timberwolves</title>
     <desc>Live: Tidak</desc>
 </programme>
-<programme start="20260513010000 +0700" stop="20260513030000 +0700" channel="COSMOTE Sport 5 HD">
-    <title>Football: Al Nassr - Al Hilal (L)</title>
-    <desc>Live: Ya</desc>
-</programme>
 <programme start="20260513030000 +0700" stop="20260513044000 +0700" channel="COSMOTE Sport 5 HD">
     <title>Motorsports: MotoGP 2026</title>
     <desc>Live: Tidak</desc>

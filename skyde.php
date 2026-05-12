@@ -2937,29 +2937,29 @@ Warning: Undefined array key "et" in /usr/home/ManusiaBiasa/domains/manusiabiasa
 <programme start="20260512210000 +0000" stop="20260512220000 +0000" channel="Sky Sport Bundesliga HD.skyde">
     <title>BL Kompakt: 33. Spieltag</title>
 </programme>
-<programme start="20260512063000 +0000" stop="20260512083000 +0000" channel="Sky Sport Bundesliga UHD.skyde">
-    <title>BL: Borussia Dortmund - Eintracht Frankfurt, Flutlicht-Freitag, 33. Spieltag</title>
+<programme start="20260505063000 +0000" stop="20260505083000 +0000" channel="Sky Sport Bundesliga UHD.skyde">
+    <title>BL: FC Bayern München - 1. FC Heidenheim, 32. Spieltag</title>
 </programme>
-<programme start="20260512083000 +0000" stop="20260512103000 +0000" channel="Sky Sport Bundesliga UHD.skyde">
-    <title>BL: VfB Stuttgart - Bayer Leverkusen, 33. Spieltag</title>
+<programme start="20260505083000 +0000" stop="20260505103000 +0000" channel="Sky Sport Bundesliga UHD.skyde">
+    <title>BL: Bayer Leverkusen - RB Leipzig, tipico Topspiel der Woche, 32. Spieltag</title>
 </programme>
-<programme start="20260512103000 +0000" stop="20260512123000 +0000" channel="Sky Sport Bundesliga UHD.skyde">
-    <title>BL: VfL Wolfsburg - FC Bayern München, tipico Topspiel der Woche, 33. Spieltag</title>
+<programme start="20260505103000 +0000" stop="20260505123000 +0000" channel="Sky Sport Bundesliga UHD.skyde">
+    <title>2. BL: FC Schalke 04 - Fortuna Düsseldorf, tipico Topspiel der Woche, 32. Spieltag</title>
 </programme>
-<programme start="20260512123000 +0000" stop="20260512143000 +0000" channel="Sky Sport Bundesliga UHD.skyde">
-    <title>2. BL: 1. FC Nürnberg - FC Schalke 04, tipico Topspiel der Woche, 33. Spieltag</title>
+<programme start="20260505123000 +0000" stop="20260505143000 +0000" channel="Sky Sport Bundesliga UHD.skyde">
+    <title>BL: FC Bayern München - 1. FC Heidenheim, 32. Spieltag</title>
 </programme>
-<programme start="20260512143000 +0000" stop="20260512163000 +0000" channel="Sky Sport Bundesliga UHD.skyde">
-    <title>BL: Borussia Dortmund - Eintracht Frankfurt, Flutlicht-Freitag, 33. Spieltag</title>
+<programme start="20260505143000 +0000" stop="20260505163000 +0000" channel="Sky Sport Bundesliga UHD.skyde">
+    <title>BL: Bayer Leverkusen - RB Leipzig, tipico Topspiel der Woche, 32. Spieltag</title>
 </programme>
-<programme start="20260512163000 +0000" stop="20260512183000 +0000" channel="Sky Sport Bundesliga UHD.skyde">
-    <title>BL: VfB Stuttgart - Bayer Leverkusen, 33. Spieltag</title>
+<programme start="20260505163000 +0000" stop="20260505183000 +0000" channel="Sky Sport Bundesliga UHD.skyde">
+    <title>2. BL: FC Schalke 04 - Fortuna Düsseldorf, tipico Topspiel der Woche, 32. Spieltag</title>
 </programme>
-<programme start="20260512183000 +0000" stop="20260512203000 +0000" channel="Sky Sport Bundesliga UHD.skyde">
-    <title>BL: VfL Wolfsburg - FC Bayern München, tipico Topspiel der Woche, 33. Spieltag</title>
+<programme start="20260505183000 +0000" stop="20260505203000 +0000" channel="Sky Sport Bundesliga UHD.skyde">
+    <title>BL: FC Bayern München - 1. FC Heidenheim, 32. Spieltag</title>
 </programme>
-<programme start="20260512203000 +0000" stop="20260512223000 +0000" channel="Sky Sport Bundesliga UHD.skyde">
-    <title>2. BL: 1. FC Nürnberg - FC Schalke 04, tipico Topspiel der Woche, 33. Spieltag</title>
+<programme start="20260505203000 +0000" stop="20260505223000 +0000" channel="Sky Sport Bundesliga UHD.skyde">
+    <title>BL: Bayer Leverkusen - RB Leipzig, tipico Topspiel der Woche, 32. Spieltag</title>
 </programme>
 <programme start="20260511220000 +0000" stop="20260512000000 +0000" channel="Sky Sport F1 HD.skyde">
     <title>IndyCar: Sonsio Grand Prix</title>
@@ -3291,10 +3291,10 @@ Warning: Undefined array key "et" in /usr/home/ManusiaBiasa/domains/manusiabiasa
 <programme start="20260511230000 +0000" stop="20260512000000 +0000" channel="Sky Sport Top Event HD.skyde">
     <title>Live NBA: Showtime</title>
 </programme>
-<programme start="20260512000000 +0000" stop="20260512030000 +0000" channel="Sky Sport Top Event HD.skyde">
+<programme start="20260512000000 +0000" stop="20260512024500 +0000" channel="Sky Sport Top Event HD.skyde">
     <title>Live NBA: Detroit Pistons @ Cleveland Cavaliers, Conference Semifinals, Spiel 4</title>
 </programme>
-<programme start="20260512030000 +0000" stop="20260512033000 +0000" channel="Sky Sport Top Event HD.skyde">
+<programme start="20260512024500 +0000" stop="20260512033000 +0000" channel="Sky Sport Top Event HD.skyde">
     <title>Live NBA: Showtime - Post Show</title>
 </programme>
 <programme start="20260512033000 +0000" stop="20260512040000 +0000" channel="Sky Sport Top Event HD.skyde">
