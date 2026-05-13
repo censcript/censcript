@@ -8475,11 +8475,11 @@
     <title lang="id">Mr. Bean</title>
     <icon src="https://thumbor.prod.vidiocdn.com/20tRQaK9Gps_wFQL5rY-XgRbrs4=/287x162/filters:strip_icc():quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/image/782/antv-de8530.jpg"/>
   </programme>
-  <programme channel="782" start="20260513183000 +0000" stop="20260513210000 +0000">
+  <programme channel="782" start="20260513183000 +0000" stop="20260513212000 +0000">
     <title lang="id">Antv Program</title>
     <icon src="https://thumbor.prod.vidiocdn.com/20tRQaK9Gps_wFQL5rY-XgRbrs4=/287x162/filters:strip_icc():quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/image/782/antv-de8530.jpg"/>
   </programme>
-  <programme channel="782" start="20260513210000 +0000" stop="20260513230000 +0000">
+  <programme channel="782" start="20260513212000 +0000" stop="20260513230000 +0000">
     <title lang="id">Mega Bollywood: English Babu Desi Mem</title>
     <desc lang="id">Menghadirkan deretan film Bollywood menarik yang dibintangi aktor dan aktris ternama.</desc>
     <icon src="https://thumbor.prod.vidiocdn.com/opQr9QaKGtxVnbeS6P4-DOJPjrY=/287x162/filters:strip_icc():quality(70)/vidio-media-production/uploads/livestreaming/schedule/thumbnail/5072898/d0886f.jpg"/>
@@ -17716,12 +17716,12 @@ dan komprehensif mengenai berbagai topik yang relevan dalam kehidupan sehari-har
     <desc lang="id">HIGHLIGHT SHOW SEMI FINAL</desc>
     <icon src="https://thumbor.prod.vidiocdn.com/r_QaZubFaj9Ht_TI2kDgdImcRqY=/287x162/filters:strip_icc():quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/image/9182/champions-tv-5-e0dd48.jpg"/>
   </programme>
-  <programme channel="9182" start="20260513183000 +0000" stop="20260513210000 +0000">
+  <programme channel="9182" start="20260513183000 +0000" stop="20260513210100 +0000">
     <title lang="id">Man City vs Crystal Palace - Premier League</title>
     <desc lang="id">Nonton streaming pertandingan seru Man City vs Crystal Palace - Premier League. Saksikan aksi-aksi terbaik dari tim yang bersaing ketat untuk meraih kemenangan. Dapatkan informasi lengkap mengenai jadwal pertandingan dan hasil pertandingan terbaru hanya di Vidio.</desc>
     <icon src="https://thumbor.prod.vidiocdn.com/AAMMdRn7PBYNqm0k8Pp20lUdcQc=/287x162/filters:strip_icc():quality(70)/vidio-media-production/uploads/livestreaming/schedule/thumbnail/5071335/a863df.jpg"/>
   </programme>
-  <programme channel="9182" start="20260513210000 +0000" stop="20260513230000 +0000">
+  <programme channel="9182" start="20260513210100 +0000" stop="20260513230000 +0000">
     <title lang="id">Sunderland Vs Manchester United : Premier League 2025/26</title>
     <desc lang="id">SUNDERLAND vs MANCHESTER UNITED</desc>
     <icon src="https://thumbor.prod.vidiocdn.com/r_QaZubFaj9Ht_TI2kDgdImcRqY=/287x162/filters:strip_icc():quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/image/9182/champions-tv-5-e0dd48.jpg"/>
