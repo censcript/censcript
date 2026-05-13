@@ -3334,11 +3334,14 @@
 <programme start="20260513213000 +0000" stop="20260513220000 +0000" channel="Sky Sport Premier League HD.skyde">
     <title>PL: Netbusters, 36. Spieltag</title>
 </programme>
-<programme start="20260512233000 +0000" stop="20260513013000 +0000" channel="Sky Sport Tennis HD.skyde">
+<programme start="20260512230000 +0000" stop="20260513010000 +0000" channel="Sky Sport Tennis HD.skyde">
     <title>WTA 1000: C. Gauff (USA) - M. Andreeva, Internazionali BNL d&#039;Italia in Rom (Italien), Viertelfinale 2</title>
 </programme>
-<programme start="20260513013000 +0000" stop="20260513033000 +0000" channel="Sky Sport Tennis HD.skyde">
+<programme start="20260513010000 +0000" stop="20260513030000 +0000" channel="Sky Sport Tennis HD.skyde">
     <title>ATP 1000: A. Zverev (GER) - L. Darderi (ITA), Internazionali BNL d&#039;Italia in Rom (Italien), 8. Tag</title>
+</programme>
+<programme start="20260513030000 +0000" stop="20260513033000 +0000" channel="Sky Sport Tennis HD.skyde">
+    <title>WTA 1000: Review Madrid</title>
 </programme>
 <programme start="20260513033000 +0000" stop="20260513060000 +0000" channel="Sky Sport Tennis HD.skyde">
     <title>ATP 500: B. Shelton (USA) - F. Cobolli (ITA), BMW Open in München, Finale</title>
@@ -3356,10 +3359,10 @@
     <title>ATP: This Week</title>
 </programme>
 <programme start="20260513110000 +0000" stop="20260513130000 +0000" channel="Sky Sport Tennis HD.skyde">
-    <title>Live WTA 1000: J. Pegula (USA) - I. Swiatek (POL), Internazionali BNL d&#039;Italia in Rom (Italien), Viertelfinale 3</title>
+    <title>Live WTA 1000: VF3, Internazionali BNL d&#039;Italia in Rom (Italien), Viertelfinale 3</title>
 </programme>
 <programme start="20260513130000 +0000" stop="20260513150000 +0000" channel="Sky Sport Tennis HD.skyde">
-    <title>Live ATP 1000: C. Ruud (NOR) - K. Khachanov, Internazionali BNL d&#039;Italia in Rom (Italien), Viertelfinale 1</title>
+    <title>Live ATP 1000: VF1, Internazionali BNL d&#039;Italia in Rom (Italien), Viertelfinale 1</title>
 </programme>
 <programme start="20260513150000 +0000" stop="20260513153000 +0000" channel="Sky Sport Tennis HD.skyde">
     <title>ATP: This Week</title>
@@ -3371,13 +3374,16 @@
     <title>WTA 1000: Review Madrid</title>
 </programme>
 <programme start="20260513170000 +0000" stop="20260513190000 +0000" channel="Sky Sport Tennis HD.skyde">
-    <title>Live WTA 1000: E. Rybakina (KAZ) - E. Svitolina (UKR), Internazionali BNL d&#039;Italia in Rom (Italien), Viertelfinale 4</title>
+    <title>Live WTA 1000: VF4, Internazionali BNL d&#039;Italia in Rom (Italien), Viertelfinale 4</title>
 </programme>
 <programme start="20260513190000 +0000" stop="20260513210000 +0000" channel="Sky Sport Tennis HD.skyde">
-    <title>Live ATP 1000: L. Darderi (ITA) - R. Jodar (ESP), Internazionali BNL d&#039;Italia in Rom (Italien), Viertelfinale 2</title>
+    <title>Live ATP 1000: VF2, Internazionali BNL d&#039;Italia in Rom (Italien), Viertelfinale 2</title>
 </programme>
 <programme start="20260513210000 +0000" stop="20260513230000 +0000" channel="Sky Sport Tennis HD.skyde">
-    <title>ATP 1000: C. Ruud (NOR) - K. Khachanov, Internazionali BNL d&#039;Italia in Rom (Italien), Viertelfinale 1</title>
+    <title>ATP 1000: VF1, Internazionali BNL d&#039;Italia in Rom (Italien), Viertelfinale 1</title>
+</programme>
+<programme start="20260512220000 +0000" stop="20260512230000 +0000" channel="Sky Sport Top Event HD.skyde">
+    <title>WRC: Highlights: Vodafone Rally de Portugal</title>
 </programme>
 <programme start="20260512230000 +0000" stop="20260513000000 +0000" channel="Sky Sport Top Event HD.skyde">
     <title>Live NBA: Showtime</title>
@@ -3401,10 +3407,10 @@
     <title>NHL: Buffalo Sabres @ Montréal Canadiens, Playoffs, 2. Runde, Spiel 4</title>
 </programme>
 <programme start="20260513110000 +0000" stop="20260513130000 +0000" channel="Sky Sport Top Event HD.skyde">
-    <title>Live WTA 1000: J. Pegula (USA) - I. Swiatek (POL), Internazionali BNL d&#039;Italia in Rom (Italien), Viertelfinale 3</title>
+    <title>Live WTA 1000: VF3, Internazionali BNL d&#039;Italia in Rom (Italien), Viertelfinale 3</title>
 </programme>
 <programme start="20260513130000 +0000" stop="20260513150000 +0000" channel="Sky Sport Top Event HD.skyde">
-    <title>Live ATP 1000: C. Ruud (NOR) - K. Khachanov, Internazionali BNL d&#039;Italia in Rom (Italien), Viertelfinale 1</title>
+    <title>Live ATP 1000: VF1, Internazionali BNL d&#039;Italia in Rom (Italien), Viertelfinale 1</title>
 </programme>
 <programme start="20260513150000 +0000" stop="20260513153000 +0000" channel="Sky Sport Top Event HD.skyde">
     <title>ATP: This Week</title>
@@ -3416,7 +3422,7 @@
     <title>WTA 1000: Review Madrid</title>
 </programme>
 <programme start="20260513170000 +0000" stop="20260513185000 +0000" channel="Sky Sport Top Event HD.skyde">
-    <title>Live WTA 1000: E. Rybakina (KAZ) - E. Svitolina (UKR), Internazionali BNL d&#039;Italia in Rom (Italien), Viertelfinale 4</title>
+    <title>Live WTA 1000: VF4, Internazionali BNL d&#039;Italia in Rom (Italien), Viertelfinale 4</title>
 </programme>
 <programme start="20260513185000 +0000" stop="20260513210000 +0000" channel="Sky Sport Top Event HD.skyde">
     <title>Live PL: Manchester City - Crystal Palace, Nachholspiel vom 31. Spieltag</title>

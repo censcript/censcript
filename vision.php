@@ -5,7 +5,7 @@
 <title>Entong (RCTI)</title>
 </programme>
 <programme start="20260513023000 +0000" stop="20260513040000 +0000" channel="RCTI.vision">
-<title>Buyung Upik</title>
+<title>Buyung &amp; Upik</title>
 </programme>
 <programme start="20260513040000 +0000" stop="20260513043000 +0000" channel="RCTI.vision">
 <title>Go Spot (RCTI)</title>

@@ -8437,16 +8437,16 @@
     <desc lang="id">Sayali, sosok perempuan muda pekerja keras yang memiliki impian besar untuk membahagiakan keluarganya dan meraih kehidupan yang lebih layak. Namun perjalanan hidupnya tidak mudah. Ia harus menghadapi berbagai persoalan mulai dari keterbatasan ekonomi hingga konflik keluarga yang terus menghampiri.</desc>
     <icon src="https://thumbor.prod.vidiocdn.com/20tRQaK9Gps_wFQL5rY-XgRbrs4=/287x162/filters:strip_icc():quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/image/782/antv-de8530.jpg"/>
   </programme>
-  <programme channel="782" start="20260513083000 +0000" stop="20260513103000 +0000">
+  <programme channel="782" start="20260513083000 +0000" stop="20260513104000 +0000">
     <title lang="id">Teri Meri Doriyaann</title>
     <icon src="https://thumbor.prod.vidiocdn.com/rxxAMhORgo0vDGckd7gN0gfspUU=/287x162/filters:strip_icc():quality(70)/vidio-media-production/uploads/livestreaming/schedule/thumbnail/5071450/2a75d1.jpg"/>
   </programme>
-  <programme channel="782" start="20260513103000 +0000" stop="20260513120000 +0000">
+  <programme channel="782" start="20260513104000 +0000" stop="20260513120800 +0000">
     <title lang="id">Vasudha</title>
     <desc lang="id">Vasudha yang periang bergabung dengan rumah pemimpin bisnis Chandrika sebagai pembantu dan mendambakan persetujuannya meskipun ada perbedaan ideologis di antara mereka.</desc>
     <icon src="https://thumbor.prod.vidiocdn.com/ZSAMivWBMahcz-gE5CM5M-uos3Y=/287x162/filters:strip_icc():quality(70)/vidio-media-production/uploads/livestreaming/schedule/thumbnail/5071437/477fc8.jpg"/>
   </programme>
-  <programme channel="782" start="20260513120000 +0000" stop="20260513141500 +0000">
+  <programme channel="782" start="20260513120800 +0000" stop="20260513141500 +0000">
     <title lang="id">Sinema Spesial: Cinta Kembar</title>
     <desc lang="id">Deddy dan Harry memiliki kekasih yang merupakan sepasang anak kembar bernama Ella dan Eli. Orang tua si kembar ingin menjodohkan salah satunya dengan pria lain, tapi ditolak karena cinta mereka sangat mendalam.</desc>
     <icon src="https://thumbor.prod.vidiocdn.com/20tRQaK9Gps_wFQL5rY-XgRbrs4=/287x162/filters:strip_icc():quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/image/782/antv-de8530.jpg"/>
@@ -13912,12 +13912,12 @@
     <desc lang="id">LECCE vs JUVENTUS</desc>
     <icon src="https://thumbor.prod.vidiocdn.com/nY0aFklpYf6yONLaFJjxhiSuthc=/287x162/filters:strip_icc():quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/image/6786/champions-tv-3-76ca7c.jpg"/>
   </programme>
-  <programme channel="6786" start="20260513110000 +0000" stop="20260513130000 +0000">
+  <programme channel="6786" start="20260513110000 +0000" stop="20260513123300 +0000">
     <title lang="id">Jessica Pegula vs Iga Swiatek - Quarter Finals | WTA 1000: Internazionali BNL D'Italia 2026</title>
     <desc lang="id">Nonton streaming pertandingan seru Jessica Pegula vs Iga Swiatek - Quarter Finals | WTA 1000: Internazionali BNL D'Italia 2026. Saksikan aksi-aksi terbaik dari tim yang bersaing ketat untuk meraih kemenangan. Dapatkan informasi lengkap mengenai jadwal pertandingan dan hasil pertandingan terbaru hanya di Vidio.</desc>
-    <icon src="https://thumbor.prod.vidiocdn.com/NgE4xU3RGT1NF_Lsd0XxdG5hHrk=/287x162/filters:strip_icc():quality(70)/vidio-media-production/uploads/livestreaming/schedule/thumbnail/5072883/9ab122.jpg"/>
+    <icon src="https://thumbor.prod.vidiocdn.com/vTQ6DMdph3hyh9EMPvM97QpNpIo=/287x162/filters:strip_icc():quality(70)/vidio-media-production/uploads/livestreaming/schedule/thumbnail/5072883/6ebd60.jpg"/>
   </programme>
-  <programme channel="6786" start="20260513130000 +0000" stop="20260513133000 +0000">
+  <programme channel="6786" start="20260513123300 +0000" stop="20260513133000 +0000">
     <title lang="id">Filler</title>
     <icon src="https://thumbor.prod.vidiocdn.com/nY0aFklpYf6yONLaFJjxhiSuthc=/287x162/filters:strip_icc():quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/image/6786/champions-tv-3-76ca7c.jpg"/>
   </programme>
@@ -13944,7 +13944,7 @@
   <programme channel="6786" start="20260513170000 +0000" stop="20260513190000 +0000">
     <title lang="id">Elina Svitolina vs Elena Rybakina - Quarter Finals | WTA 1000: Internazionali BNL D'Italia 2026</title>
     <desc lang="id">Nonton streaming pertandingan seru Elina Svitolina vs Elena Rybakina - Quarter Finals | WTA 1000: Internazionali BNL D'Italia 2026. Saksikan aksi-aksi terbaik dari tim yang bersaing ketat untuk meraih kemenangan. Dapatkan informasi lengkap mengenai jadwal pertandingan dan hasil pertandingan terbaru hanya di Vidio.</desc>
-    <icon src="https://thumbor.prod.vidiocdn.com/Wm1UxsvAJv00G-LzaTTehhBGU8s=/287x162/filters:strip_icc():quality(70)/vidio-media-production/uploads/livestreaming/schedule/thumbnail/5072890/d0979b.jpg"/>
+    <icon src="https://thumbor.prod.vidiocdn.com/H5ZctskSAhYoAZZN-LIs6OXQ99o=/287x162/filters:strip_icc():quality(70)/vidio-media-production/uploads/livestreaming/schedule/thumbnail/5072890/30e6bd.jpg"/>
   </programme>
   <programme channel="6786" start="20260513190000 +0000" stop="20260513193000 +0000">
     <title lang="id">Filler</title>

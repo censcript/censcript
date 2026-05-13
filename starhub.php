@@ -5144,7 +5144,7 @@
         <title>Highlights</title>
     </programme>
     <programme start="20260512184000 +0000" stop="20260512204500 +0000" channel="SPOTV.starhub">
-        <title>25/26 Scottish Premiership Play-off SF 1st Leg: Dunfermline Athletic vs Partick Thistle (Live)</title>
+        <title>25/26 Scottish Premiership Play-off SF 1st Leg: Dunfermline Athletic vs Partick</title>
     </programme>
     <programme start="20260512204500 +0000" stop="20260513021000 +0000" channel="SPOTV.starhub">
         <title>Round 2</title>
