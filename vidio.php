@@ -13941,14 +13941,10 @@
     <desc lang="id">Week 19</desc>
     <icon src="https://thumbor.prod.vidiocdn.com/nY0aFklpYf6yONLaFJjxhiSuthc=/287x162/filters:strip_icc():quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/image/6786/champions-tv-3-76ca7c.jpg"/>
   </programme>
-  <programme channel="6786" start="20260513170000 +0000" stop="20260513190000 +0000">
+  <programme channel="6786" start="20260513170000 +0000" stop="20260513193000 +0000">
     <title lang="id">Elina Svitolina vs Elena Rybakina - Quarter Finals | WTA 1000: Internazionali BNL D'Italia 2026</title>
     <desc lang="id">Nonton streaming pertandingan seru Elina Svitolina vs Elena Rybakina - Quarter Finals | WTA 1000: Internazionali BNL D'Italia 2026. Saksikan aksi-aksi terbaik dari tim yang bersaing ketat untuk meraih kemenangan. Dapatkan informasi lengkap mengenai jadwal pertandingan dan hasil pertandingan terbaru hanya di Vidio.</desc>
     <icon src="https://thumbor.prod.vidiocdn.com/H5ZctskSAhYoAZZN-LIs6OXQ99o=/287x162/filters:strip_icc():quality(70)/vidio-media-production/uploads/livestreaming/schedule/thumbnail/5072890/30e6bd.jpg"/>
-  </programme>
-  <programme channel="6786" start="20260513190000 +0000" stop="20260513193000 +0000">
-    <title lang="id">Filler</title>
-    <icon src="https://thumbor.prod.vidiocdn.com/nY0aFklpYf6yONLaFJjxhiSuthc=/287x162/filters:strip_icc():quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/image/6786/champions-tv-3-76ca7c.jpg"/>
   </programme>
   <programme channel="6786" start="20260513193000 +0000" stop="20260513200000 +0000">
     <title lang="id">Full Impact - Round 35 : Serie A 2025/26 - Highlight Show</title>
@@ -17730,7 +17726,7 @@ dan komprehensif mengenai berbagai topik yang relevan dalam kehidupan sehari-har
     <desc lang="id">HIGHLIGHT SHOW SEMI FINAL</desc>
     <icon src="https://thumbor.prod.vidiocdn.com/r_QaZubFaj9Ht_TI2kDgdImcRqY=/287x162/filters:strip_icc():quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/image/9182/champions-tv-5-e0dd48.jpg"/>
   </programme>
-  <programme channel="9182" start="20260513190000 +0000" stop="20260513210000 +0000">
+  <programme channel="9182" start="20260513183000 +0000" stop="20260513210000 +0000">
     <title lang="id">Man City vs Crystal Palace - Premier League</title>
     <desc lang="id">Nonton streaming pertandingan seru Man City vs Crystal Palace - Premier League. Saksikan aksi-aksi terbaik dari tim yang bersaing ketat untuk meraih kemenangan. Dapatkan informasi lengkap mengenai jadwal pertandingan dan hasil pertandingan terbaru hanya di Vidio.</desc>
     <icon src="https://thumbor.prod.vidiocdn.com/AAMMdRn7PBYNqm0k8Pp20lUdcQc=/287x162/filters:strip_icc():quality(70)/vidio-media-production/uploads/livestreaming/schedule/thumbnail/5071335/a863df.jpg"/>
@@ -18789,10 +18785,10 @@ dan komprehensif mengenai berbagai topik yang relevan dalam kehidupan sehari-har
     <desc lang="id">Manchester United vs Nottingham Forest</desc>
     <icon src="https://thumbor.prod.vidiocdn.com/_8JaTGtU2WYTw0ylulYg_dmz37Y=/287x162/filters:strip_icc():quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/image/9183/champions-tv-6-8a049a.jpg"/>
   </programme>
-  <programme channel="9183" start="20260517133000 +0000" stop="20260517160000 +0000">
-    <title lang="id">[LIVE] Everton vs Sunderland : [LIVE] Premier League 2025/26</title>
-    <desc lang="id">Everton vs Sunderland</desc>
-    <icon src="https://thumbor.prod.vidiocdn.com/_8JaTGtU2WYTw0ylulYg_dmz37Y=/287x162/filters:strip_icc():quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/image/9183/champions-tv-6-8a049a.jpg"/>
+  <programme channel="9183" start="20260517140000 +0000" stop="20260517160000 +0000">
+    <title lang="id">Brentford vs Crystal Palace - Premier League</title>
+    <desc lang="id">Nonton streaming pertandingan seru Brentford vs Crystal Palace - Premier League. Saksikan aksi-aksi terbaik dari tim yang bersaing ketat untuk meraih kemenangan. Dapatkan informasi lengkap mengenai jadwal pertandingan dan hasil pertandingan terbaru hanya di Vidio.</desc>
+    <icon src="https://thumbor.prod.vidiocdn.com/didlf1hGhOrCepxwLnEB3-pjz_0=/287x162/filters:strip_icc():quality(70)/vidio-media-production/uploads/livestreaming/schedule/thumbnail/5073565/8a2a93.jpg"/>
   </programme>
   <programme channel="9183" start="20260517160000 +0000" stop="20260517170000 +0000">
     <title lang="id">Matchweek 36 : PL MATCH HIGHLIGHT 2025/26</title>

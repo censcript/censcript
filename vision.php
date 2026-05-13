@@ -646,9 +646,6 @@
 <programme start="20260513143000 +0000" stop="20260513163000 +0000" channel="ANTV.vision">
 <title>Malam Keramat</title>
 </programme>
-<programme start="20260513163000 +0000" stop="20260513183000 +0000" channel="ANTV.vision">
-<title>Membakar Matahari</title>
-</programme>
 <programme start="20260513183000 +0000" stop="20260513210000 +0000" channel="ANTV.vision">
 <title>Coppa Italia</title>
 </programme>
@@ -1496,5 +1493,8 @@
 <title>TVRI</title>
 </programme>
 <programme start="20260513110000 +0000" stop="20260513130000 +0000" channel="TVRI.vision">
+<title>TVRI</title>
+</programme>
+<programme start="20260513130000 +0000" stop="20260513150000 +0000" channel="TVRI.vision">
 <title>TVRI</title>
 </programme>

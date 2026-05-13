@@ -502,10 +502,10 @@
   <programme start="20260515000500 +0000" stop="20260515011500 +0000" channel="Markíza.webtv.sk">
     <title lang="id">Zámena manželiek</title>
   </programme>
-  <programme start="20260515011500 +0000" stop="20260515015500 +0000" channel="Markíza.webtv.sk">
+  <programme start="20260515011500 +0000" stop="20260515020000 +0000" channel="Markíza.webtv.sk">
     <title lang="id">Susedské prípady</title>
   </programme>
-  <programme start="20260515015500 +0000" stop="20260515030000 +0000" channel="Markíza.webtv.sk">
+  <programme start="20260515020000 +0000" stop="20260515030000 +0000" channel="Markíza.webtv.sk">
     <title lang="id">Rodinné prípady (32)</title>
   </programme>
   <programme start="20260515030000 +0000" stop="20260515040000 +0000" channel="Markíza.webtv.sk">
@@ -565,10 +565,10 @@
   <programme start="20260515181500 +0000" stop="20260515183000 +0000" channel="Markíza.webtv.sk">
     <title lang="id">Športové noviny</title>
   </programme>
-  <programme start="20260515183000 +0000" stop="20260515194500 +0000" channel="Markíza.webtv.sk">
+  <programme start="20260515183000 +0000" stop="20260515195000 +0000" channel="Markíza.webtv.sk">
     <title lang="id">Ruža pre nevestu IV (19)</title>
   </programme>
-  <programme start="20260515194500 +0000" stop="20260515211000 +0000" channel="Markíza.webtv.sk">
+  <programme start="20260515195000 +0000" stop="20260515211000 +0000" channel="Markíza.webtv.sk">
     <title lang="id">Ruža pre nevestu IV (20)</title>
   </programme>
   <programme start="20260515211000 +0000" stop="20260515232000 +0000" channel="Markíza.webtv.sk">
@@ -1255,13 +1255,13 @@
   <programme start="20260515215500 +0000" stop="20260516001500 +0000" channel="JOJ Šport.webtv.sk">
     <title lang="id">2026 IIHF Majstrovstvá sveta</title>
   </programme>
-  <programme start="20260514192000 +0000" stop="20260514222500 +0000" channel="JOJ Šport 2.webtv.sk">
+  <programme start="20260514195500 +0000" stop="20260514223000 +0000" channel="JOJ Šport 2.webtv.sk">
     <title lang="id">2025 IIHF Majstrovstvá sveta</title>
   </programme>
-  <programme start="20260514222500 +0000" stop="20260515003500 +0000" channel="JOJ Šport 2.webtv.sk">
+  <programme start="20260514223000 +0000" stop="20260515003500 +0000" channel="JOJ Šport 2.webtv.sk">
     <title lang="id">2025 IIHF Majstrovstvá sveta</title>
   </programme>
-  <programme start="20260515003500 +0000" stop="20260515033500 +0000" channel="JOJ Šport 2.webtv.sk">
+  <programme start="20260515003500 +0000" stop="20260515040500 +0000" channel="JOJ Šport 2.webtv.sk">
     <title lang="id">2025 IIHF Majstrovstvá sveta</title>
   </programme>
   <programme start="20260515040500 +0000" stop="20260515062500 +0000" channel="JOJ Šport 2.webtv.sk">
@@ -2780,7 +2780,7 @@
     <title lang="id">VSTÁVÁME S DECHOVKOU</title>
   </programme>
   <programme start="20260515050000 +0000" stop="20260515060000 +0000" channel="Šláger Originál.webtv.sk">
-    <title lang="id">ŠLÁGRMIX</title>
+    <title lang="id">HITPANORAMA</title>
   </programme>
   <programme start="20260515060000 +0000" stop="20260515070000 +0000" channel="Šláger Originál.webtv.sk">
     <title lang="id">PÍSNIČKOVÉ DOPOLEDNE</title>
@@ -16846,8 +16846,11 @@
   <programme start="20260515153500 +0000" stop="20260515154200 +0000" channel="TVP Info.webtv.sk">
     <title lang="id">Panorama 17.35</title>
   </programme>
-  <programme start="20260515154200 +0000" stop="20260515160000 +0000" channel="TVP Info.webtv.sk">
+  <programme start="20260515154200 +0000" stop="20260515155800 +0000" channel="TVP Info.webtv.sk">
     <title lang="id">Wykrywacz kłamstw (182)</title>
+  </programme>
+  <programme start="20260515155800 +0000" stop="20260515160000 +0000" channel="TVP Info.webtv.sk">
+    <title lang="id">Sprawdzam to Extra</title>
   </programme>
   <programme start="20260515160000 +0000" stop="20260515163000 +0000" channel="TVP Info.webtv.sk">
     <title lang="id">Panorama 18.00</title>
@@ -16855,8 +16858,11 @@
   <programme start="20260515163000 +0000" stop="20260515171000 +0000" channel="TVP Info.webtv.sk">
     <title lang="id">Forum (1472)</title>
   </programme>
-  <programme start="20260515171000 +0000" stop="20260515173000 +0000" channel="TVP Info.webtv.sk">
+  <programme start="20260515171000 +0000" stop="20260515172800 +0000" channel="TVP Info.webtv.sk">
     <title lang="id">Serwis Info Wieczór</title>
+  </programme>
+  <programme start="20260515172800 +0000" stop="20260515173000 +0000" channel="TVP Info.webtv.sk">
+    <title lang="id">Sprawdzam to Extra</title>
   </programme>
   <programme start="20260515173000 +0000" stop="20260515175800 +0000" channel="TVP Info.webtv.sk">
     <title lang="id">Program informacyjny 19.30</title>

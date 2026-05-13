@@ -3145,10 +3145,10 @@
 <programme start="20260512220000 +0000" stop="20260512230000 +0000" channel="Sky Sport Mix HD.skyde">
     <title>NHL: Tonight - Playoff Edition</title>
 </programme>
-<programme start="20260512230000 +0000" stop="20260513021000 +0000" channel="Sky Sport Mix HD.skyde">
+<programme start="20260512230000 +0000" stop="20260513020000 +0000" channel="Sky Sport Mix HD.skyde">
     <title>Live NHL: Buffalo Sabres @ Montréal Canadiens, Playoffs, 2. Runde, Spiel 4</title>
 </programme>
-<programme start="20260513021000 +0000" stop="20260513043000 +0000" channel="Sky Sport Mix HD.skyde">
+<programme start="20260513020000 +0000" stop="20260513043000 +0000" channel="Sky Sport Mix HD.skyde">
     <title>Live NHL: Anaheim Ducks @ Vegas Golden Knights, Playoffs, 2. Runde, Spiel 5</title>
 </programme>
 <programme start="20260513043000 +0000" stop="20260513050000 +0000" channel="Sky Sport Mix HD.skyde">
@@ -3466,10 +3466,10 @@
 <programme start="20260512230000 +0000" stop="20260513000000 +0000" channel="Sky Sport 1 HD.skyde">
     <title>Live NBA: Showtime</title>
 </programme>
-<programme start="20260513000000 +0000" stop="20260513024500 +0000" channel="Sky Sport 1 HD.skyde">
+<programme start="20260513000000 +0000" stop="20260513030000 +0000" channel="Sky Sport 1 HD.skyde">
     <title>Live NBA: Minnesota Timberwolves @ San Antonio Spurs, Conference Semifinals, Spiel 5</title>
 </programme>
-<programme start="20260513024500 +0000" stop="20260513034500 +0000" channel="Sky Sport 1 HD.skyde">
+<programme start="20260513030000 +0000" stop="20260513080000 +0000" channel="Sky Sport 1 HD.skyde">
     <title>Live NBA: Showtime - Post Show</title>
 </programme>
 <programme start="20260513090000 +0000" stop="20260513090500 +0000" channel="Sky Sport 4 HD.skyde">
