@@ -1459,9 +1459,6 @@
     <programme start="20260513153500 +0000" stop="20260513163500 +0000" channel="Lifetime HD.starhub">
         <title>Junkyard Gem</title>
     </programme>
-    <programme start="20260512160000 +0000" stop="20260512173000 +0000" channel="COLORS Tamil HD.starhub">
-        <title>Bhai</title>
-    </programme>
     <programme start="20260512173000 +0000" stop="20260512180000 +0000" channel="COLORS Tamil HD.starhub">
         <title>Malar</title>
     </programme>
@@ -1549,7 +1546,7 @@
     <programme start="20260513140000 +0000" stop="20260513143000 +0000" channel="COLORS Tamil HD.starhub">
         <title>Adhe Kangal</title>
     </programme>
-    <programme start="20260513143000 +0000" stop="20260513160000 +0000" channel="COLORS Tamil HD.starhub">
+    <programme start="20260513143000 +0000" stop="20260513173000 +0000" channel="COLORS Tamil HD.starhub">
         <title>Nee Enge En Anbe</title>
     </programme>
     <programme start="20260512160000 +0000" stop="20260512180000 +0000" channel="TVBS Asia.starhub">
