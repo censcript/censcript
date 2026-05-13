@@ -1450,9 +1450,6 @@
 <programme start="20260513074000 +0000" stop="20260513074500 +0000" channel="Nick Jr..skyde">
     <title>Peppa Wutz</title>
 </programme>
-<programme start="20260513074500 +0000" stop="20260513075500 +0000" channel="Nick Jr..skyde">
-    <title>Peppa Wutz</title>
-</programme>
 <programme start="20260513075500 +0000" stop="20260513081500 +0000" channel="Nick Jr..skyde">
     <title>BARBAPAPA und Familie</title>
 </programme>
@@ -1747,41 +1744,44 @@
 <programme start="20260513211500 +0000" stop="20260513221500 +0000" channel="Sky Atlantic HD.skyde">
     <title>Das Boot</title>
 </programme>
-<programme start="20260512221000 +0000" stop="20260513002500 +0000" channel="Sky Cinema Action HD.skyde">
-    <title>The Equalizer</title>
+<programme start="20260513222500 +0000" stop="20260514003000 +0000" channel="Sky Cinema Action HD.skyde">
+    <title>The Equalizer 2</title>
 </programme>
-<programme start="20260513002500 +0000" stop="20260513020500 +0000" channel="Sky Cinema Action HD.skyde">
-    <title>Dead Shot - Einsame Rache</title>
-</programme>
-<programme start="20260513020500 +0000" stop="20260513042500 +0000" channel="Sky Cinema Action HD.skyde">
-    <title>Es</title>
-</programme>
-<programme start="20260513042500 +0000" stop="20260513062500 +0000" channel="Sky Cinema Action HD.skyde">
-    <title>Bumblebee</title>
-</programme>
-<programme start="20260513062500 +0000" stop="20260513083000 +0000" channel="Sky Cinema Action HD.skyde">
-    <title>Rookie - Der Anfänger</title>
-</programme>
-<programme start="20260513083000 +0000" stop="20260513102500 +0000" channel="Sky Cinema Action HD.skyde">
+<programme start="20260514003000 +0000" stop="20260514022500 +0000" channel="Sky Cinema Action HD.skyde">
     <title>Annabelle 2</title>
 </programme>
-<programme start="20260513102500 +0000" stop="20260513121500 +0000" channel="Sky Cinema Action HD.skyde">
-    <title>Resident Evil: Welcome to Raccoon City</title>
+<programme start="20260514022500 +0000" stop="20260514042500 +0000" channel="Sky Cinema Action HD.skyde">
+    <title>Wehrlos - Die Tochter des Generals</title>
 </programme>
-<programme start="20260513121500 +0000" stop="20260513135500 +0000" channel="Sky Cinema Action HD.skyde">
+<programme start="20260514042500 +0000" stop="20260514060000 +0000" channel="Sky Cinema Action HD.skyde">
+    <title>Detective Knight: Independence</title>
+</programme>
+<programme start="20260514060000 +0000" stop="20260514080000 +0000" channel="Sky Cinema Action HD.skyde">
+    <title>Gletschergrab</title>
+</programme>
+<programme start="20260514080000 +0000" stop="20260514094000 +0000" channel="Sky Cinema Action HD.skyde">
     <title>Event Horizon - Am Rande des Universums</title>
 </programme>
-<programme start="20260513135500 +0000" stop="20260513160500 +0000" channel="Sky Cinema Action HD.skyde">
-    <title>Bullet Train</title>
+<programme start="20260514094000 +0000" stop="20260514112000 +0000" channel="Sky Cinema Action HD.skyde">
+    <title>The Last Son</title>
 </programme>
-<programme start="20260513160500 +0000" stop="20260513181500 +0000" channel="Sky Cinema Action HD.skyde">
-    <title>Delta Force</title>
+<programme start="20260514112000 +0000" stop="20260514130000 +0000" channel="Sky Cinema Action HD.skyde">
+    <title>Annabelle</title>
 </programme>
-<programme start="20260513181500 +0000" stop="20260513203000 +0000" channel="Sky Cinema Action HD.skyde">
-    <title>The Equalizer</title>
+<programme start="20260514130000 +0000" stop="20260514144000 +0000" channel="Sky Cinema Action HD.skyde">
+    <title>Killing Field</title>
 </programme>
-<programme start="20260513203000 +0000" stop="20260513222500 +0000" channel="Sky Cinema Action HD.skyde">
-    <title>2 Guns</title>
+<programme start="20260514144000 +0000" stop="20260514161500 +0000" channel="Sky Cinema Action HD.skyde">
+    <title>Spring Breakers</title>
+</programme>
+<programme start="20260514161500 +0000" stop="20260514181500 +0000" channel="Sky Cinema Action HD.skyde">
+    <title>Tomb Raider</title>
+</programme>
+<programme start="20260514181500 +0000" stop="20260514202000 +0000" channel="Sky Cinema Action HD.skyde">
+    <title>The Equalizer 2</title>
+</programme>
+<programme start="20260514202000 +0000" stop="20260514221000 +0000" channel="Sky Cinema Action HD.skyde">
+    <title>The Equalizer 3 - The Final Chapter</title>
 </programme>
 <programme start="20260513000500 +0000" stop="20260513020000 +0000" channel="Sky Cinema Classics HD.skyde">
     <title>... denn sie wissen nicht, was sie tun</title>
@@ -2582,10 +2582,10 @@
     <title>Admiral BL: ASAT Kompakt, 31. Runde</title>
 </programme>
 <programme start="20260513110000 +0000" stop="20260513130000 +0000" channel="Sky Sport Austria 1 HD.skyde">
-    <title>Live WTA 1000: VF3, Internazionali BNL d&#039;Italia in Rom (Italien), Viertelfinale 3</title>
+    <title>Live WTA 1000: J. Pegula (USA) - I. Swiatek (POL), Internazionali BNL d&#039;Italia in Rom (Italien), Viertelfinale 3</title>
 </programme>
 <programme start="20260513130000 +0000" stop="20260513150000 +0000" channel="Sky Sport Austria 1 HD.skyde">
-    <title>Live ATP 1000: VF1, Internazionali BNL d&#039;Italia in Rom (Italien), Viertelfinale 1</title>
+    <title>Live ATP 1000: C. Ruud (NOR) - K. Khachanov, Internazionali BNL d&#039;Italia in Rom (Italien), Viertelfinale 1</title>
 </programme>
 <programme start="20260513150000 +0000" stop="20260513153000 +0000" channel="Sky Sport Austria 1 HD.skyde">
     <title>ATP: This Week</title>
@@ -2597,10 +2597,10 @@
     <title>WTA 1000: Review Madrid</title>
 </programme>
 <programme start="20260513170000 +0000" stop="20260513190000 +0000" channel="Sky Sport Austria 1 HD.skyde">
-    <title>Live WTA 1000: VF4, Internazionali BNL d&#039;Italia in Rom (Italien), Viertelfinale 4</title>
+    <title>Live WTA 1000: E. Rybakina (KAZ) - E. Svitolina (UKR), Internazionali BNL d&#039;Italia in Rom (Italien), Viertelfinale 4</title>
 </programme>
 <programme start="20260513190000 +0000" stop="20260513210000 +0000" channel="Sky Sport Austria 1 HD.skyde">
-    <title>Live ATP 1000: VF2, Internazionali BNL d&#039;Italia in Rom (Italien), Viertelfinale 2</title>
+    <title>Live ATP 1000: L. Darderi (ITA) - R. Jodar (ESP), Internazionali BNL d&#039;Italia in Rom (Italien), Viertelfinale 2</title>
 </programme>
 <programme start="20260513210000 +0000" stop="20260513213000 +0000" channel="Sky Sport Austria 1 HD.skyde">
     <title>UEFA CL: Magazin</title>
@@ -3182,13 +3182,13 @@
     <title>Fußball: scooore Polen! Alle Tore</title>
 </programme>
 <programme start="20260513153000 +0000" stop="20260513160000 +0000" channel="Sky Sport Mix HD.skyde">
-    <title>Fußball: scooore Portugal! Alle Tore</title>
+    <title>Fußball: scooore Niederlande! Alle Tore</title>
 </programme>
 <programme start="20260513160000 +0000" stop="20260513162000 +0000" channel="Sky Sport Mix HD.skyde">
     <title>NHL: Highlights ANA@VGK, Playoffs, 2. Runde, Spiel 5</title>
 </programme>
 <programme start="20260513162000 +0000" stop="20260513165000 +0000" channel="Sky Sport Mix HD.skyde">
-    <title>Fußball: scooore Niederlande! Alle Tore</title>
+    <title>Frauen-BL: Alle Spiele, alle Tore, 25. Spieltag komplett</title>
 </programme>
 <programme start="20260513165000 +0000" stop="20260513185000 +0000" channel="Sky Sport Mix HD.skyde">
     <title>NHL: Anaheim Ducks @ Vegas Golden Knights, Playoffs, 2. Runde, Spiel 5</title>
@@ -3197,7 +3197,7 @@
     <title>Live EFL: Stockport County - FC Stevenage, Playoffs Halbfinale Rückspiel</title>
 </programme>
 <programme start="20260513210000 +0000" stop="20260513213000 +0000" channel="Sky Sport Mix HD.skyde">
-    <title>Fußball: scooore Portugal! Alle Tore</title>
+    <title>Fußball: scooore Polen! Alle Tore</title>
 </programme>
 <programme start="20260513213000 +0000" stop="20260513223000 +0000" channel="Sky Sport Mix HD.skyde">
     <title>MotoGP: Highlights: GP Frankreich</title>
@@ -3335,7 +3335,7 @@
     <title>PL: Netbusters, 36. Spieltag</title>
 </programme>
 <programme start="20260512230000 +0000" stop="20260513010000 +0000" channel="Sky Sport Tennis HD.skyde">
-    <title>WTA 1000: C. Gauff (USA) - M. Andreeva, Internazionali BNL d&#039;Italia in Rom (Italien), 8. Tag</title>
+    <title>WTA 1000: C. Gauff (USA) - M. Andreeva, Internazionali BNL d&#039;Italia in Rom (Italien), Viertelfinale 2</title>
 </programme>
 <programme start="20260513010000 +0000" stop="20260513030000 +0000" channel="Sky Sport Tennis HD.skyde">
     <title>ATP 1000: A. Zverev (GER) - L. Darderi (ITA), Internazionali BNL d&#039;Italia in Rom (Italien), 8. Tag</title>
@@ -3350,7 +3350,7 @@
     <title>ATP: This Week</title>
 </programme>
 <programme start="20260513063000 +0000" stop="20260513083000 +0000" channel="Sky Sport Tennis HD.skyde">
-    <title>WTA 1000: C. Gauff (USA) - M. Andreeva, Internazionali BNL d&#039;Italia in Rom (Italien), 8. Tag</title>
+    <title>WTA 1000: C. Gauff (USA) - M. Andreeva, Internazionali BNL d&#039;Italia in Rom (Italien), Viertelfinale 2</title>
 </programme>
 <programme start="20260513083000 +0000" stop="20260513103000 +0000" channel="Sky Sport Tennis HD.skyde">
     <title>ATP 1000: A. Zverev (GER) - L. Darderi (ITA), Internazionali BNL d&#039;Italia in Rom (Italien), 8. Tag</title>
@@ -3428,10 +3428,10 @@
     <title>Live PL: Manchester City - Crystal Palace, Nachholspiel vom 31. Spieltag</title>
 </programme>
 <programme start="20260513210000 +0000" stop="20260513213000 +0000" channel="Sky Sport Top Event HD.skyde">
-    <title>Fußball: scooore Polen! Alle Tore</title>
+    <title>ATP: This Week</title>
 </programme>
 <programme start="20260513213000 +0000" stop="20260513220000 +0000" channel="Sky Sport Top Event HD.skyde">
-    <title>Fußball: scooore Portugal! Alle Tore</title>
+    <title>Fußball: scooore Polen! Alle Tore</title>
 </programme>
 <programme start="20260513070000 +0000" stop="20260513090000 +0000" channel="Sky Sport UHD.skyde">
     <title>F1: Rennen - GP Miami</title>

@@ -2090,7 +2090,7 @@
         <title>Wednesday, May 13, 2026 1am ET</title>
     </programme>
     <programme start="20260513054500 +0000" stop="20260513060000 +0000" channel="CNN HD.starhub">
-        <title>Wednesday, May 13, 2026 145am ET</title>
+        <title>Tuesday, May 12, 2026 945am ET</title>
     </programme>
     <programme start="20260513060000 +0000" stop="20260513070000 +0000" channel="CNN HD.starhub">
         <title>Wednesday, May 13, 2026 2am ET</title>
@@ -2099,7 +2099,7 @@
         <title>Wednesday, May 13, 2026 3am ET</title>
     </programme>
     <programme start="20260513074500 +0000" stop="20260513080000 +0000" channel="CNN HD.starhub">
-        <title>Wednesday, May 13, 2026 145am ET</title>
+        <title>Tuesday, May 12, 2026 945am ET</title>
     </programme>
     <programme start="20260513080000 +0000" stop="20260513090000 +0000" channel="CNN HD.starhub">
         <title>Wednesday, May 13, 2026 4am ET</title>
@@ -7367,7 +7367,7 @@
         <title>BBC News</title>
     </programme>
     <programme start="20260513003000 +0000" stop="20260513010000 +0000" channel="BBC World News HD.starhub">
-        <title>Tech Now</title>
+        <title>Deep Dive: Underwater Tech</title>
     </programme>
     <programme start="20260513010000 +0000" stop="20260513013000 +0000" channel="BBC World News HD.starhub">
         <title>Newsday</title>
@@ -7385,7 +7385,7 @@
         <title>Business Today</title>
     </programme>
     <programme start="20260513024500 +0000" stop="20260513030000 +0000" channel="BBC World News HD.starhub">
-        <title>Asia Specific</title>
+        <title>What the US and China Get Wrong About Each Other</title>
     </programme>
     <programme start="20260513030000 +0000" stop="20260513033000 +0000" channel="BBC World News HD.starhub">
         <title>Newsday</title>
@@ -7394,7 +7394,7 @@
         <title>Business Today</title>
     </programme>
     <programme start="20260513034500 +0000" stop="20260513040000 +0000" channel="BBC World News HD.starhub">
-        <title>Asia Specific</title>
+        <title>What the US and China Get Wrong About Each Other</title>
     </programme>
     <programme start="20260513040000 +0000" stop="20260513043000 +0000" channel="BBC World News HD.starhub">
         <title>BBC News</title>

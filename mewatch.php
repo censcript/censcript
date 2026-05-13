@@ -649,88 +649,13 @@
     <programme start="20260513145500 +0000" stop="20260513163000 +0000" channel="cinemaworld.mewatch">
         <title>Murder in Kermadec</title>
     </programme>
-    <programme start="20260512160000 +0000" stop="20260513110000 +0000" channel="Live 1.mewatch">
+    <programme start="20260512160000 +0000" stop="20260513150000 +0000" channel="Live 1.mewatch">
         <title>No programme available now. Next broadcast on 13th May, Wednesday 7pm. The Wonder Shop Home Shopping</title>
-    </programme>
-    <programme start="20260513110000 +0000" stop="20260513111400 +0000" channel="Live 1.mewatch">
-        <title>The Wonder Shop (Home Shopping) - Kyocera Ceramic Knife</title>
-    </programme>
-    <programme start="20260513111400 +0000" stop="20260513111600 +0000" channel="Live 1.mewatch">
-        <title>The Wonder Shop (Home Shopping) - Acerpure Clean V2 Cordless Vacuum Cleaner</title>
-    </programme>
-    <programme start="20260513111600 +0000" stop="20260513113000 +0000" channel="Live 1.mewatch">
-        <title>The Wonder Shop (Home Shopping) - Kinohimitsu Collagen Diamond Pro</title>
-    </programme>
-    <programme start="20260513113000 +0000" stop="20260513114400 +0000" channel="Live 1.mewatch">
-        <title>The Wonder Shop (Home Shopping) - SINGCHOICE Bone Health Formula &amp; Eyes Nourisher</title>
-    </programme>
-    <programme start="20260513114400 +0000" stop="20260513114600 +0000" channel="Live 1.mewatch">
-        <title>The Wonder Shop (Home Shopping) - OMRON BP Monitor Atrial Fibrillation HEM-7383T1</title>
-    </programme>
-    <programme start="20260513114600 +0000" stop="20260513120000 +0000" channel="Live 1.mewatch">
-        <title>The Wonder Shop (Home Shopping) - I-Running X-Fold Exercise Bike</title>
-    </programme>
-    <programme start="20260513120000 +0000" stop="20260513121400 +0000" channel="Live 1.mewatch">
-        <title>The Wonder Shop (Home Shopping) - Omron Electronic Nerve Stimulator</title>
-    </programme>
-    <programme start="20260513121400 +0000" stop="20260513121600 +0000" channel="Live 1.mewatch">
-        <title>The Wonder Shop (Home Shopping) - HOTO Electric Spin Scrubber</title>
-    </programme>
-    <programme start="20260513121600 +0000" stop="20260513123000 +0000" channel="Live 1.mewatch">
-        <title>The Wonder Shop (Home Shopping) - Panasonic EH-NA9M</title>
-    </programme>
-    <programme start="20260513123000 +0000" stop="20260513124400 +0000" channel="Live 1.mewatch">
-        <title>The Wonder Shop (Home Shopping) - Karihome Gold Adult Goat Milk Powder</title>
-    </programme>
-    <programme start="20260513124400 +0000" stop="20260513124600 +0000" channel="Live 1.mewatch">
-        <title>The Wonder Shop (Home Shopping) - Wiltshire Pink Board Bundle</title>
-    </programme>
-    <programme start="20260513124600 +0000" stop="20260513130000 +0000" channel="Live 1.mewatch">
-        <title>The Wonder Shop (Home Shopping) - OTO ePhysio</title>
-    </programme>
-    <programme start="20260513130000 +0000" stop="20260513131400 +0000" channel="Live 1.mewatch">
-        <title>The Wonder Shop (Home Shopping) - OTO Anyway Back Massage Cushion</title>
-    </programme>
-    <programme start="20260513131400 +0000" stop="20260513131600 +0000" channel="Live 1.mewatch">
-        <title>The Wonder Shop (Home Shopping) - Krafter Purple Magic Sheet</title>
-    </programme>
-    <programme start="20260513131600 +0000" stop="20260513133000 +0000" channel="Live 1.mewatch">
-        <title>The Wonder Shop (Home Shopping) - Fissler Cookware Set</title>
-    </programme>
-    <programme start="20260513133000 +0000" stop="20260513134400 +0000" channel="Live 1.mewatch">
-        <title>The Wonder Shop (Home Shopping) - doctorcos snow white water glow mask</title>
-    </programme>
-    <programme start="20260513134400 +0000" stop="20260513134600 +0000" channel="Live 1.mewatch">
-        <title>The Wonder Shop (Home Shopping) - Naturalle Sugar Care Tea</title>
-    </programme>
-    <programme start="20260513134600 +0000" stop="20260513135300 +0000" channel="Live 1.mewatch">
-        <title>The Wonder Shop (Home Shopping) - La Gourmet Food Steamer</title>
-    </programme>
-    <programme start="20260513135300 +0000" stop="20260513140000 +0000" channel="Live 1.mewatch">
-        <title>The Wonder Shop (Home Shopping) - Dontz Mini Massage Gun</title>
-    </programme>
-    <programme start="20260513140000 +0000" stop="20260513141400 +0000" channel="Live 1.mewatch">
-        <title>The Wonder Shop (Home Shopping) - Tiger Food Jar + Stainless Steel Bottle + Rice Cooker</title>
-    </programme>
-    <programme start="20260513141400 +0000" stop="20260513141600 +0000" channel="Live 1.mewatch">
-        <title>The Wonder Shop (Home Shopping) - Tupperware Freezable 5-Container Set</title>
-    </programme>
-    <programme start="20260513141600 +0000" stop="20260513143000 +0000" channel="Live 1.mewatch">
-        <title>The Wonder Shop (Home Shopping) - Gourmet Chef Thermo Blend</title>
-    </programme>
-    <programme start="20260513143000 +0000" stop="20260513144400 +0000" channel="Live 1.mewatch">
-        <title>The Wonder Shop (Home Shopping) - [24 Bottles] Kinohimitsu Bird&#039;s Nest Red Dates &amp; Wolfberry + Bird&#039;s Nest Chinese Ginseng</title>
-    </programme>
-    <programme start="20260513144400 +0000" stop="20260513144600 +0000" channel="Live 1.mewatch">
-        <title>The Wonder Shop (Home Shopping) - Furi Knife Bundle Set</title>
-    </programme>
-    <programme start="20260513144600 +0000" stop="20260513150000 +0000" channel="Live 1.mewatch">
-        <title>The Wonder Shop (Home Shopping) - Thomson Livrin</title>
     </programme>
     <programme start="20260513150000 +0000" stop="20260513160000 +0000" channel="Live 1.mewatch">
         <title>No programme available now. Next broadcast on 14th May, Thursday 7pm. The Wonder Shop Home Shopping</title>
     </programme>
-    <programme start="20260513160000 +0000" stop="20260514110000 +0000" channel="Live 1.mewatch">
+    <programme start="20260513160000 +0000" stop="20260514150000 +0000" channel="Live 1.mewatch">
         <title>No programme available now. Next broadcast on 14th May, Thursday 7pm. The Wonder Shop Home Shopping</title>
     </programme>
     <programme start="20260512160000 +0000" stop="20260513160000 +0000" channel="Live 2.mewatch">

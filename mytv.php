@@ -34,19 +34,19 @@
     <programme start="20260513051000 +0000" stop="20260513053000 +0000" channel="VTV1 HD.mytv">
         <title> Chào buổi sáng </title>
     </programme>
-    <programme start="20260513053000 +0000" stop="20260513070000 +0000" channel="VTV1 HD.mytv">
+    <programme start="20260513053000 +0000" stop="20260513065900 +0000" channel="VTV1 HD.mytv">
         <title> Tài chính - Kinh doanh </title>
     </programme>
-    <programme start="20260513070000 +0000" stop="20260513072500 +0000" channel="VTV1 HD.mytv">
+    <programme start="20260513065900 +0000" stop="20260513072400 +0000" channel="VTV1 HD.mytv">
         <title> Việt Nam đa sắc </title>
     </programme>
-    <programme start="20260513072500 +0000" stop="20260513073000 +0000" channel="VTV1 HD.mytv">
+    <programme start="20260513072400 +0000" stop="20260513072900 +0000" channel="VTV1 HD.mytv">
         <title> Ký sự : Đất sinh nghề - Tập 8 </title>
     </programme>
-    <programme start="20260513073000 +0000" stop="20260513074500 +0000" channel="VTV1 HD.mytv">
+    <programme start="20260513072900 +0000" stop="20260513074400 +0000" channel="VTV1 HD.mytv">
         <title> Khám phá Việt Nam : Hang nấm trên núi mờ sương </title>
     </programme>
-    <programme start="20260513074500 +0000" stop="20260513080000 +0000" channel="VTV1 HD.mytv">
+    <programme start="20260513074400 +0000" stop="20260513080000 +0000" channel="VTV1 HD.mytv">
         <title> Cuộc sống nhiệm màu </title>
     </programme>
     <programme start="20260513080000 +0000" stop="20260513081500 +0000" channel="VTV1 HD.mytv">

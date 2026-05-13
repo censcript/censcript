@@ -13805,9 +13805,9 @@
     <desc lang="en">Siaran Tamat</desc>
     <category lang="en">Government</category>
   </programme>
-  <programme start="20260513090000 +0000" stop="20260513134000 +0000" channel="parlimenmalaysia.unifitv">
-    <title lang="en">Ulangan Persidangan Dewan Negara- Mesyuarat Pertama, Penggal Kelima, Parlimen ke 15 - Minggu Ke 2 ( 04/03/2026)</title>
-    <desc lang="en">Ulangan Persidangan Dewan Negara- Mesyuarat Pertama, Penggal Kelima, Parlimen ke 15 - Minggu Ke 2 ( 04/03/2026)</desc>
+  <programme start="20260513090000 +0000" stop="20260513090000 +0000" channel="parlimenmalaysia.unifitv">
+    <title lang="en">Siaran Tamat</title>
+    <desc lang="en">Siaran Tamat</desc>
     <category lang="en">Government</category>
   </programme>
   <programme start="20260513134000 +0000" stop="20260514090000 +0000" channel="parlimenmalaysia.unifitv">
