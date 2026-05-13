@@ -1747,41 +1747,44 @@
 <programme start="20260513211500 +0000" stop="20260513221500 +0000" channel="Sky Atlantic HD.skyde">
     <title>Das Boot</title>
 </programme>
-<programme start="20260512221000 +0000" stop="20260513002500 +0000" channel="Sky Cinema Action HD.skyde">
-    <title>The Equalizer</title>
+<programme start="20260513222500 +0000" stop="20260514003000 +0000" channel="Sky Cinema Action HD.skyde">
+    <title>The Equalizer 2</title>
 </programme>
-<programme start="20260513002500 +0000" stop="20260513020500 +0000" channel="Sky Cinema Action HD.skyde">
-    <title>Dead Shot - Einsame Rache</title>
-</programme>
-<programme start="20260513020500 +0000" stop="20260513042500 +0000" channel="Sky Cinema Action HD.skyde">
-    <title>Es</title>
-</programme>
-<programme start="20260513042500 +0000" stop="20260513062500 +0000" channel="Sky Cinema Action HD.skyde">
-    <title>Bumblebee</title>
-</programme>
-<programme start="20260513062500 +0000" stop="20260513083000 +0000" channel="Sky Cinema Action HD.skyde">
-    <title>Rookie - Der Anfänger</title>
-</programme>
-<programme start="20260513083000 +0000" stop="20260513102500 +0000" channel="Sky Cinema Action HD.skyde">
+<programme start="20260514003000 +0000" stop="20260514022500 +0000" channel="Sky Cinema Action HD.skyde">
     <title>Annabelle 2</title>
 </programme>
-<programme start="20260513102500 +0000" stop="20260513121500 +0000" channel="Sky Cinema Action HD.skyde">
-    <title>Resident Evil: Welcome to Raccoon City</title>
+<programme start="20260514022500 +0000" stop="20260514042500 +0000" channel="Sky Cinema Action HD.skyde">
+    <title>Wehrlos - Die Tochter des Generals</title>
 </programme>
-<programme start="20260513121500 +0000" stop="20260513135500 +0000" channel="Sky Cinema Action HD.skyde">
+<programme start="20260514042500 +0000" stop="20260514060000 +0000" channel="Sky Cinema Action HD.skyde">
+    <title>Detective Knight: Independence</title>
+</programme>
+<programme start="20260514060000 +0000" stop="20260514080000 +0000" channel="Sky Cinema Action HD.skyde">
+    <title>Gletschergrab</title>
+</programme>
+<programme start="20260514080000 +0000" stop="20260514094000 +0000" channel="Sky Cinema Action HD.skyde">
     <title>Event Horizon - Am Rande des Universums</title>
 </programme>
-<programme start="20260513135500 +0000" stop="20260513160500 +0000" channel="Sky Cinema Action HD.skyde">
-    <title>Bullet Train</title>
+<programme start="20260514094000 +0000" stop="20260514112000 +0000" channel="Sky Cinema Action HD.skyde">
+    <title>The Last Son</title>
 </programme>
-<programme start="20260513160500 +0000" stop="20260513181500 +0000" channel="Sky Cinema Action HD.skyde">
-    <title>Delta Force</title>
+<programme start="20260514112000 +0000" stop="20260514130000 +0000" channel="Sky Cinema Action HD.skyde">
+    <title>Annabelle</title>
 </programme>
-<programme start="20260513181500 +0000" stop="20260513203000 +0000" channel="Sky Cinema Action HD.skyde">
-    <title>The Equalizer</title>
+<programme start="20260514130000 +0000" stop="20260514144000 +0000" channel="Sky Cinema Action HD.skyde">
+    <title>Killing Field</title>
 </programme>
-<programme start="20260513203000 +0000" stop="20260513222500 +0000" channel="Sky Cinema Action HD.skyde">
-    <title>2 Guns</title>
+<programme start="20260514144000 +0000" stop="20260514161500 +0000" channel="Sky Cinema Action HD.skyde">
+    <title>Spring Breakers</title>
+</programme>
+<programme start="20260514161500 +0000" stop="20260514181500 +0000" channel="Sky Cinema Action HD.skyde">
+    <title>Tomb Raider</title>
+</programme>
+<programme start="20260514181500 +0000" stop="20260514202000 +0000" channel="Sky Cinema Action HD.skyde">
+    <title>The Equalizer 2</title>
+</programme>
+<programme start="20260514202000 +0000" stop="20260514221000 +0000" channel="Sky Cinema Action HD.skyde">
+    <title>The Equalizer 3 - The Final Chapter</title>
 </programme>
 <programme start="20260513000500 +0000" stop="20260513020000 +0000" channel="Sky Cinema Classics HD.skyde">
     <title>... denn sie wissen nicht, was sie tun</title>
@@ -3145,14 +3148,11 @@
 <programme start="20260512220000 +0000" stop="20260512230000 +0000" channel="Sky Sport Mix HD.skyde">
     <title>NHL: Tonight - Playoff Edition</title>
 </programme>
-<programme start="20260512230000 +0000" stop="20260513020000 +0000" channel="Sky Sport Mix HD.skyde">
+<programme start="20260512230000 +0000" stop="20260513021000 +0000" channel="Sky Sport Mix HD.skyde">
     <title>Live NHL: Buffalo Sabres @ Montréal Canadiens, Playoffs, 2. Runde, Spiel 4</title>
 </programme>
-<programme start="20260513020000 +0000" stop="20260513043000 +0000" channel="Sky Sport Mix HD.skyde">
+<programme start="20260513021000 +0000" stop="20260513050000 +0000" channel="Sky Sport Mix HD.skyde">
     <title>Live NHL: Anaheim Ducks @ Vegas Golden Knights, Playoffs, 2. Runde, Spiel 5</title>
-</programme>
-<programme start="20260513043000 +0000" stop="20260513050000 +0000" channel="Sky Sport Mix HD.skyde">
-    <title>Fußball: scooore Niederlande! Alle Tore</title>
 </programme>
 <programme start="20260513050000 +0000" stop="20260513070000 +0000" channel="Sky Sport Mix HD.skyde">
     <title>NHL: Buffalo Sabres @ Montréal Canadiens, Playoffs, 2. Runde, Spiel 4</title>
@@ -3382,22 +3382,19 @@
 <programme start="20260512230000 +0000" stop="20260513000000 +0000" channel="Sky Sport Top Event HD.skyde">
     <title>Live NBA: Showtime</title>
 </programme>
-<programme start="20260513000000 +0000" stop="20260513030000 +0000" channel="Sky Sport Top Event HD.skyde">
+<programme start="20260513000000 +0000" stop="20260513024500 +0000" channel="Sky Sport Top Event HD.skyde">
     <title>Live NBA: Minnesota Timberwolves @ San Antonio Spurs, Conference Semifinals, Spiel 5</title>
 </programme>
-<programme start="20260513030000 +0000" stop="20260513043000 +0000" channel="Sky Sport Top Event HD.skyde">
+<programme start="20260513024500 +0000" stop="20260513045500 +0000" channel="Sky Sport Top Event HD.skyde">
     <title>Live NHL: Anaheim Ducks @ Vegas Golden Knights, Playoffs, 2. Runde, Spiel 5</title>
 </programme>
-<programme start="20260513043000 +0000" stop="20260513050000 +0000" channel="Sky Sport Top Event HD.skyde">
-    <title>Fußball: scooore Niederlande! Alle Tore</title>
-</programme>
-<programme start="20260513050000 +0000" stop="20260513070000 +0000" channel="Sky Sport Top Event HD.skyde">
+<programme start="20260513045500 +0000" stop="20260513065500 +0000" channel="Sky Sport Top Event HD.skyde">
     <title>IndyCar: Sonsio Grand Prix</title>
 </programme>
-<programme start="20260513070000 +0000" stop="20260513090000 +0000" channel="Sky Sport Top Event HD.skyde">
+<programme start="20260513065500 +0000" stop="20260513085500 +0000" channel="Sky Sport Top Event HD.skyde">
     <title>ATP 1000: A. Zverev (GER) - L. Darderi (ITA), Internazionali BNL d&#039;Italia in Rom (Italien), 8. Tag</title>
 </programme>
-<programme start="20260513090000 +0000" stop="20260513110000 +0000" channel="Sky Sport Top Event HD.skyde">
+<programme start="20260513085500 +0000" stop="20260513110000 +0000" channel="Sky Sport Top Event HD.skyde">
     <title>NHL: Buffalo Sabres @ Montréal Canadiens, Playoffs, 2. Runde, Spiel 4</title>
 </programme>
 <programme start="20260513110000 +0000" stop="20260513130000 +0000" channel="Sky Sport Top Event HD.skyde">
@@ -3466,10 +3463,10 @@
 <programme start="20260512230000 +0000" stop="20260513000000 +0000" channel="Sky Sport 1 HD.skyde">
     <title>Live NBA: Showtime</title>
 </programme>
-<programme start="20260513000000 +0000" stop="20260513030000 +0000" channel="Sky Sport 1 HD.skyde">
+<programme start="20260513000000 +0000" stop="20260513024500 +0000" channel="Sky Sport 1 HD.skyde">
     <title>Live NBA: Minnesota Timberwolves @ San Antonio Spurs, Conference Semifinals, Spiel 5</title>
 </programme>
-<programme start="20260513030000 +0000" stop="20260513080000 +0000" channel="Sky Sport 1 HD.skyde">
+<programme start="20260513024500 +0000" stop="20260513034500 +0000" channel="Sky Sport 1 HD.skyde">
     <title>Live NBA: Showtime - Post Show</title>
 </programme>
 <programme start="20260513090000 +0000" stop="20260513090500 +0000" channel="Sky Sport 4 HD.skyde">

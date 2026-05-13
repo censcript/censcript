@@ -58,8 +58,12 @@
     <title>Futsal: Sporting CP - Palma</title>
     <desc>Live: Tidak</desc>
 </programme>
-<programme start="20260514015500 +0700" stop="20260514023000 +0700" channel="COSMOTE Sport 2 HD">
-    <title>Serie A Full Impact 2025-26 E36</title>
+<programme start="20260515030000 +0700" stop="20260515033000 +0700" channel="COSMOTE Sport 1 HD">
+    <title>UEFA Champions League Magazine 2024-25 E32</title>
+    <desc>Live: Tidak</desc>
+</programme>
+<programme start="20260515033000 +0700" stop="20260515053000 +0700" channel="COSMOTE Sport 1 HD">
+    <title>Football: Club Atletico de Madrid - Arsenal</title>
     <desc>Live: Tidak</desc>
 </programme>
 <programme start="20260514023000 +0700" stop="20260514044500 +0700" channel="COSMOTE Sport 2 HD">
@@ -338,6 +342,10 @@
     <title>Motorsports: MotoGP 2026</title>
     <desc>Live: Tidak</desc>
 </programme>
+<programme start="20260515032500 +0700" stop="20260515044000 +0700" channel="COSMOTE Sport 5 HD">
+    <title>2026 Grand Prix Show</title>
+    <desc>Live: Tidak</desc>
+</programme>
 <programme start="20260514013000 +0700" stop="20260514040000 +0700" channel="COSMOTE Sport 6 HD">
     <title>Tennis: Rafael Jodar - Luciano Darderi (L)</title>
     <desc>Live: Ya</desc>
@@ -463,6 +471,10 @@
     <desc>Live: Ya</desc>
 </programme>
 <programme start="20260515020000 +0700" stop="20260515030000 +0700" channel="COSMOTE Sport 7 HD">
+    <title>COSMOTESport7HD</title>
+    <desc>Live: Tidak</desc>
+</programme>
+<programme start="20260515030000 +0700" stop="20260515040000 +0700" channel="COSMOTE Sport 7 HD">
     <title>COSMOTESport7HD</title>
     <desc>Live: Tidak</desc>
 </programme>

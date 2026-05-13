@@ -13941,29 +13941,19 @@
     <desc lang="id">Week 19</desc>
     <icon src="https://thumbor.prod.vidiocdn.com/nY0aFklpYf6yONLaFJjxhiSuthc=/287x162/filters:strip_icc():quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/image/6786/champions-tv-3-76ca7c.jpg"/>
   </programme>
-  <programme channel="6786" start="20260513170000 +0000" stop="20260513193000 +0000">
+  <programme channel="6786" start="20260513170000 +0000" stop="20260513203000 +0000">
     <title lang="id">Elina Svitolina vs Elena Rybakina - Quarter Finals | WTA 1000: Internazionali BNL D'Italia 2026</title>
     <desc lang="id">Nonton streaming pertandingan seru Elina Svitolina vs Elena Rybakina - Quarter Finals | WTA 1000: Internazionali BNL D'Italia 2026. Saksikan aksi-aksi terbaik dari tim yang bersaing ketat untuk meraih kemenangan. Dapatkan informasi lengkap mengenai jadwal pertandingan dan hasil pertandingan terbaru hanya di Vidio.</desc>
     <icon src="https://thumbor.prod.vidiocdn.com/H5ZctskSAhYoAZZN-LIs6OXQ99o=/287x162/filters:strip_icc():quality(70)/vidio-media-production/uploads/livestreaming/schedule/thumbnail/5072890/30e6bd.jpg"/>
   </programme>
-  <programme channel="6786" start="20260513193000 +0000" stop="20260513200000 +0000">
-    <title lang="id">Full Impact - Round 35 : Serie A 2025/26 - Highlight Show</title>
-    <desc lang="id">Full Impact - Round 35</desc>
-    <icon src="https://thumbor.prod.vidiocdn.com/nY0aFklpYf6yONLaFJjxhiSuthc=/287x162/filters:strip_icc():quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/image/6786/champions-tv-3-76ca7c.jpg"/>
-  </programme>
-  <programme channel="6786" start="20260513200000 +0000" stop="20260513220000 +0000">
+  <programme channel="6786" start="20260513203000 +0000" stop="20260513223000 +0000">
     <title lang="id">NAPOLI vs BOLOGNA : Serie A 2025/26</title>
     <desc lang="id">NAPOLI vs BOLOGNA</desc>
     <icon src="https://thumbor.prod.vidiocdn.com/nY0aFklpYf6yONLaFJjxhiSuthc=/287x162/filters:strip_icc():quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/image/6786/champions-tv-3-76ca7c.jpg"/>
   </programme>
-  <programme channel="6786" start="20260513220000 +0000" stop="20260514000000 +0000">
+  <programme channel="6786" start="20260513223000 +0000" stop="20260514003000 +0000">
     <title lang="id">LAZIO vs INTER : Serie A 2025/26</title>
     <desc lang="id">LAZIO vs INTER</desc>
-    <icon src="https://thumbor.prod.vidiocdn.com/nY0aFklpYf6yONLaFJjxhiSuthc=/287x162/filters:strip_icc():quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/image/6786/champions-tv-3-76ca7c.jpg"/>
-  </programme>
-  <programme channel="6786" start="20260514000000 +0000" stop="20260514003000 +0000">
-    <title lang="id">Eps 13 : NFL Extra</title>
-    <desc lang="id">Eps 13</desc>
     <icon src="https://thumbor.prod.vidiocdn.com/nY0aFklpYf6yONLaFJjxhiSuthc=/287x162/filters:strip_icc():quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/image/6786/champions-tv-3-76ca7c.jpg"/>
   </programme>
   <programme channel="6786" start="20260514003000 +0000" stop="20260514013000 +0000">
