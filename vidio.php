@@ -1909,12 +1909,12 @@
     <desc lang="id">Tercyduk</desc>
     <icon src="https://thumbor.prod.vidiocdn.com/NdmzqkxqnWVnlngtk_ObYNT-wiY=/287x162/filters:strip_icc():quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/image/206/moji-a5bd3e.jpg"/>
   </programme>
-  <programme channel="206" start="20260513071500 +0000" stop="20260513100300 +0000">
+  <programme channel="206" start="20260513071500 +0000" stop="20260513101600 +0000">
     <title lang="id">AVC Mens Champions League 2026 Fs.15:00</title>
     <desc lang="id">AVC Mens Champions League 2026 Fs.15:00</desc>
     <icon src="https://thumbor.prod.vidiocdn.com/NdmzqkxqnWVnlngtk_ObYNT-wiY=/287x162/filters:strip_icc():quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/image/206/moji-a5bd3e.jpg"/>
   </programme>
-  <programme channel="206" start="20260513100300 +0000" stop="20260513114500 +0000">
+  <programme channel="206" start="20260513101600 +0000" stop="20260513114500 +0000">
     <title lang="id">American Ninja Warrior Junior</title>
     <desc lang="id">American Ninja Warrior Junior</desc>
     <icon src="https://thumbor.prod.vidiocdn.com/LRw1taUfDpwzn6R8MrN3qI3Zi8c=/287x162/filters:strip_icc():quality(70)/vidio-media-production/uploads/livestreaming/schedule/thumbnail/5062701/5f2021.jpg"/>
@@ -8422,17 +8422,17 @@
     <desc lang="id">Dr. Akkanee dan krunya melakukan perjalanan ke sebuah desa yang kuno dan penuh misteri untuk mempelajari fenomena paranormal dan membuktikan bahwa hal itu tidak benar.</desc>
     <icon src="https://thumbor.prod.vidiocdn.com/20tRQaK9Gps_wFQL5rY-XgRbrs4=/287x162/filters:strip_icc():quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/image/782/antv-de8530.jpg"/>
   </programme>
-  <programme channel="782" start="20260513023000 +0000" stop="20260513060000 +0000">
+  <programme channel="782" start="20260513023000 +0000" stop="20260513054000 +0000">
     <title lang="id">Mega Bollywood: Krrish 3</title>
     <desc lang="id">Krrish dan ayahnya yang seorang ilmuwan harus menyelamatkan dunia dan keluarga mereka sendiri dari seorang pria jahat bernama Kaal dan geng mutannya, yang dipimpin oleh Kaya yang kejam.</desc>
     <icon src="https://thumbor.prod.vidiocdn.com/HkTJfH9rqBQT1Je3heXHF2YWxrE=/287x162/filters:strip_icc():quality(70)/vidio-media-production/uploads/livestreaming/schedule/thumbnail/5071832/2d94a6.jpg"/>
   </programme>
-  <programme channel="782" start="20260513060000 +0000" stop="20260513073000 +0000">
+  <programme channel="782" start="20260513054000 +0000" stop="20260513073500 +0000">
     <title lang="id">Jhanak</title>
     <desc lang="id">Seorang wanita muda yang bersemangat memulai perjalanan untuk memenuhi janji seorang ibu demi kehidupan yang lebih baik sambil mengatasi tantangan dan kehilangan.</desc>
     <icon src="https://thumbor.prod.vidiocdn.com/aquKCQTAN5QHy8gA-qBg9nrmFfo=/287x162/filters:strip_icc():quality(70)/vidio-media-production/uploads/livestreaming/schedule/thumbnail/5071833/a04843.jpg"/>
   </programme>
-  <programme channel="782" start="20260513073000 +0000" stop="20260513083000 +0000">
+  <programme channel="782" start="20260513073500 +0000" stop="20260513083000 +0000">
     <title lang="id">Sayali</title>
     <desc lang="id">Sayali, sosok perempuan muda pekerja keras yang memiliki impian besar untuk membahagiakan keluarganya dan meraih kehidupan yang lebih layak. Namun perjalanan hidupnya tidak mudah. Ia harus menghadapi berbagai persoalan mulai dari keterbatasan ekonomi hingga konflik keluarga yang terus menghampiri.</desc>
     <icon src="https://thumbor.prod.vidiocdn.com/20tRQaK9Gps_wFQL5rY-XgRbrs4=/287x162/filters:strip_icc():quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/image/782/antv-de8530.jpg"/>

@@ -1040,53 +1040,57 @@
     <title lang="en">NIGHTLINE (2025/2026)</title>
     <desc lang="en">NIGHTLINE (2025/2026)</desc>
     <category lang="en">Entertainment</category>
-    <episode-num system="xmltv_ns">0.315.</episode-num>
-    <episode-num system="onscreen">S1E316</episode-num>
+    <episode-num system="xmltv_ns">0.316.</episode-num>
+    <episode-num system="onscreen">S1E317</episode-num>
   </programme>
   <programme start="20260512163000 +0000" stop="20260512173000 +0000" channel="tv3.unifitv">
     <title lang="en">WOW SHOP</title>
     <desc lang="en">WOW SHOP</desc>
     <category lang="en">Entertainment</category>
+    <episode-num system="xmltv_ns">0.919.</episode-num>
+    <episode-num system="onscreen">S1E920</episode-num>
   </programme>
   <programme start="20260512173000 +0000" stop="20260512183000 +0000" channel="tv3.unifitv">
     <title lang="en">BAYANGAN LELAKI SEMPURNA</title>
-    <desc lang="en">Ammar, seorang duda muda bekerja sebagai penjual ikan di pasar terpaksa bekerja keras untuk menyara anak perempuannya Aqish, yang masih tadika. Dia terpaksa buat 2 kerja untuk menyara kehidupan beliau dan anak kesayangannya.</desc>
+    <desc lang="en">Ammar menolak dengan baik hasrat Mak Cik yang datang untuk meminang Ammar bagi anaknya yang baru lepas sekolah. Zara terdengar yang Ammar ingin berkahwin tapi dengan syarat wanita itu mestilah menyayangi Aqis.</desc>
     <category lang="en">Entertainment</category>
-    <episode-num system="xmltv_ns">0.0.</episode-num>
-    <episode-num system="onscreen">S1E1</episode-num>
+    <episode-num system="xmltv_ns">0.1.</episode-num>
+    <episode-num system="onscreen">S1E2</episode-num>
   </programme>
   <programme start="20260512183000 +0000" stop="20260512193000 +0000" channel="tv3.unifitv">
     <title lang="en">CINTA NON GRATA</title>
-    <desc lang="en">Darlina khayal dan telah mengikuti seorang lelaki yang dia kenali di kelab itu. Lelaki itu cuba mengambil kesempatan terhadap Darlina. Hakim yang bimbang, pantas mencari Darlina. Mujurlah dia dapat mengesan di mana Darlina.</desc>
-    <category lang="en">Entertainment</category>
-    <episode-num system="xmltv_ns">0.5.</episode-num>
-    <episode-num system="onscreen">S1E6</episode-num>
-  </programme>
-  <programme start="20260512193000 +0000" stop="20260512203000 +0000" channel="tv3.unifitv">
-    <title lang="en">KERANA CINTA ITU DUSTA</title>
-    <desc lang="en">Orked mempertikaikan kepada Sufian tentang kehadiran Seri dalam majlis tersebut. Orked juga cuba mendapatkan kepastian daripada Seri tentang hubungannya dengan Sufian. Seri menafikan malah menceritakan permintaan Orked kepada Sufian.</desc>
-    <category lang="en">Entertainment</category>
-    <episode-num system="xmltv_ns">0.9.</episode-num>
-    <episode-num system="onscreen">S1E10</episode-num>
-  </programme>
-  <programme start="20260512203000 +0000" stop="20260512210000 +0000" channel="tv3.unifitv">
-    <title lang="en">KAPSUL SURAH (2018)</title>
-    <desc lang="en">Bacaan SURAH YAASIN serta terjemahannya.</desc>
+    <desc lang="en">Zatul terfikir untuk upah Fendi menakut-nakutkan Darlina agar bercerai dengan ayahnya. Sementara itu, Dtk Marzuki memberi cek 50 ribu kepada Sarah agar menjauhi Darlina kerana menganggap Sarah membawa pengaruh tidak baik</desc>
     <category lang="en">Entertainment</category>
     <episode-num system="xmltv_ns">0.6.</episode-num>
     <episode-num system="onscreen">S1E7</episode-num>
   </programme>
+  <programme start="20260512193000 +0000" stop="20260512203000 +0000" channel="tv3.unifitv">
+    <title lang="en">KERANA CINTA ITU DUSTA</title>
+    <desc lang="en">Krisis melanda apabila pertengkaran antara Sufian dan Orked membawa kepada lafaz talak satu. Di sebalik duka itu, kakak Sufian berasa gembira manakala Seri mula mengambil peluang memberi perhatian penuh kepada keluarga tersebut.</desc>
+    <category lang="en">Entertainment</category>
+    <episode-num system="xmltv_ns">0.10.</episode-num>
+    <episode-num system="onscreen">S1E11</episode-num>
+  </programme>
+  <programme start="20260512203000 +0000" stop="20260512210000 +0000" channel="tv3.unifitv">
+    <title lang="en">KAPSUL SURAH (2018)</title>
+    <desc lang="en">Bacaan SURAH AL-FATIHAH serta terjemahannya.</desc>
+    <category lang="en">Entertainment</category>
+    <episode-num system="xmltv_ns">0.0.</episode-num>
+    <episode-num system="onscreen">S1E1</episode-num>
+  </programme>
   <programme start="20260512210000 +0000" stop="20260512213000 +0000" channel="tv3.unifitv">
     <title lang="en">BACAAN AL-QURAN 2014</title>
-    <desc lang="en">Bacaan ayat suci Al-Quran surah AR-Rahmman oleh Ustaz Ahmad Tirmizi Hj Ali.</desc>
+    <desc lang="en">Bacaan ayat suci Al-Quran surah Al-Juma'ah oleh Ustaz Ahmad Tarmizi Abdul Rahman.</desc>
     <category lang="en">Entertainment</category>
-    <episode-num system="xmltv_ns">0.3.</episode-num>
-    <episode-num system="onscreen">S1E4</episode-num>
+    <episode-num system="xmltv_ns">0.5.</episode-num>
+    <episode-num system="onscreen">S1E6</episode-num>
   </programme>
   <programme start="20260512213000 +0000" stop="20260512223000 +0000" channel="tv3.unifitv">
     <title lang="en">WOW SHOP</title>
     <desc lang="en">WOW SHOP</desc>
     <category lang="en">Entertainment</category>
+    <episode-num system="xmltv_ns">0.882.</episode-num>
+    <episode-num system="onscreen">S1E883</episode-num>
   </programme>
   <programme start="20260512223000 +0000" stop="20260512225000 +0000" channel="tv3.unifitv">
     <title lang="en">BACAAN YASIN 2025</title>
@@ -1113,6 +1117,8 @@
     <title lang="en">WOW SHOP</title>
     <desc lang="en">WOW SHOP</desc>
     <category lang="en">Entertainment</category>
+    <episode-num system="xmltv_ns">0.464.</episode-num>
+    <episode-num system="onscreen">S1E465</episode-num>
   </programme>
   <programme start="20260513013000 +0000" stop="20260513020000 +0000" channel="tv3.unifitv">
     <title lang="en">BULETIN PAGI (2025/2026)</title>
@@ -1174,6 +1180,8 @@
     <title lang="en">WOW SHOP</title>
     <desc lang="en">WOW SHOP</desc>
     <category lang="en">Entertainment</category>
+    <episode-num system="xmltv_ns">0.457.</episode-num>
+    <episode-num system="onscreen">S1E458</episode-num>
   </programme>
   <programme start="20260513070000 +0000" stop="20260513080000 +0000" channel="tv3.unifitv">
     <title lang="en">RISIK PADA HATI</title>
@@ -1205,7 +1213,7 @@
   </programme>
   <programme start="20260513110000 +0000" stop="20260513120000 +0000" channel="tv3.unifitv">
     <title lang="en">BAYANGAN LELAKI SEMPURNA</title>
-    <desc lang="en">Zhafran dan Nadira berpindah dari rumah Dato Yusof demi mengelak konflik keluarga. Di samping kegembiraan Nadira atas pelantikan Zhafran sebagai CEO, Dato Yusof pula mula mengabdikan diri dan mendekatkan jiwa kepada Pencipta.</desc>
+    <desc lang="en">Tindakan Sabira menularkan identiti Luth Zafran menjejaskan syarikat bapa Dahlia dan menggembirakan Iqbal. Ammar tertekan dan kecewa selepas dicemuh keluarga Dahlia, malah Dahlia yang enggan mengenalinya bertindak mengusir Ammar.</desc>
     <category lang="en">Entertainment</category>
     <episode-num system="xmltv_ns">0.24.</episode-num>
     <episode-num system="onscreen">S1E25</episode-num>
@@ -1226,7 +1234,7 @@
   </programme>
   <programme start="20260513140000 +0000" stop="20260513150000 +0000" channel="tv3.unifitv">
     <title lang="en">CAHAYA ANAK LORONG</title>
-    <desc lang="en">CAHAYA ANAK LORONG</desc>
+    <desc lang="en">Cikgu Amir terpaksa menjanjikan wang saguhati kepada Sofea bagi menarik minatnya dan rakan-rakan untuk menyertai penubuhan Kelab Bahasa Melayu, memandangkan mereka sebelum ini tidak hadir kerana sibuk bekerja mencari wang.</desc>
     <category lang="en">Entertainment</category>
     <episode-num system="xmltv_ns">0.3.</episode-num>
     <episode-num system="onscreen">S1E4</episode-num>
@@ -1242,8 +1250,8 @@
     <title lang="en">NIGHTLINE (2025/2026)</title>
     <desc lang="en">NIGHTLINE (2025/2026)</desc>
     <category lang="en">Entertainment</category>
-    <episode-num system="xmltv_ns">0.316.</episode-num>
-    <episode-num system="onscreen">S1E317</episode-num>
+    <episode-num system="xmltv_ns">0.317.</episode-num>
+    <episode-num system="onscreen">S1E318</episode-num>
   </programme>
   <channel id="didiktv.unifitv">
     <display-name>Didik TV KPM</display-name>
@@ -1475,12 +1483,10 @@
   <channel id="8tv.unifitv">
     <display-name>8TV</display-name>
   </channel>
-  <programme start="20260512150000 +0000" stop="20260512160000 +0000" channel="8tv.unifitv">
-    <title lang="en">LOVE GAME IN EASTERN FANTASY</title>
-    <desc lang="en">Pengarang kegemaran Ling Miao Miao akhirnya mengeluarkan novel baharu. Namun, karya baharu "Catching Demons" ini hanyalah sebuah kisah cinta yang tidak bermakna. Miao Miao sangat marah sehingga dia menghantar ulasan yang buruk.</desc>
+  <programme start="20260512092800 +0000" stop="20260512160000 +0000" channel="8tv.unifitv">
+    <title lang="en">LIVING DELIGHT X WOWSHOP EXPRESS</title>
+    <desc lang="en">LIVING DELIGHT X WOWSHOP EXPRESS</desc>
     <category lang="en">Entertainment</category>
-    <episode-num system="xmltv_ns">0.0.</episode-num>
-    <episode-num system="onscreen">S1E1</episode-num>
   </programme>
   <programme start="20260512160000 +0000" stop="20260512170000 +0000" channel="8tv.unifitv">
     <title lang="en">LOVE GAME IN EASTERN FANTASY</title>
@@ -1489,149 +1495,37 @@
     <episode-num system="xmltv_ns">0.1.</episode-num>
     <episode-num system="onscreen">S1E2</episode-num>
   </programme>
-  <programme start="20260512170000 +0000" stop="20260512230000 +0000" channel="8tv.unifitv">
+  <programme start="20260512170000 +0000" stop="20260513003000 +0000" channel="8tv.unifitv">
     <title lang="en">EIGHTFM @ 8TV</title>
     <desc lang="en">EIGHTFM @ 8TV</desc>
     <category lang="en">Entertainment</category>
     <episode-num system="xmltv_ns">0.315.</episode-num>
     <episode-num system="onscreen">S1E316</episode-num>
   </programme>
-  <programme start="20260512230000 +0000" stop="20260513000000 +0000" channel="8tv.unifitv">
-    <title lang="en">LIVING DELIGHT 2025/2026</title>
-    <desc lang="en">LIVING DELIGHT 2025/2026</desc>
-    <category lang="en">Entertainment</category>
-    <episode-num system="xmltv_ns">0.214.</episode-num>
-    <episode-num system="onscreen">S1E215</episode-num>
-  </programme>
-  <programme start="20260513000000 +0000" stop="20260513003000 +0000" channel="8tv.unifitv">
-    <title lang="en">GO - GO - GO!</title>
-    <desc lang="en">Episod ini hos bersama 4 orang pengacara TV wanita memakai pakaian tradisional Korea dibahagikan kepada dua kumpulan, masing-masing diketuai oleh Rickman dan Ken untuk menyertai siri permainan di Plaza Korea, Kuala Lumpur.</desc>
-    <category lang="en">Entertainment</category>
-    <episode-num system="xmltv_ns">2.4.</episode-num>
-    <episode-num system="onscreen">S3E5</episode-num>
-  </programme>
-  <programme start="20260513003000 +0000" stop="20260513013000 +0000" channel="8tv.unifitv">
+  <programme start="20260513003000 +0000" stop="20260513023500 +0000" channel="8tv.unifitv">
     <title lang="en">WOW SHOP</title>
     <desc lang="en">WOW SHOP</desc>
     <category lang="en">Entertainment</category>
-  </programme>
-  <programme start="20260513013000 +0000" stop="20260513014500 +0000" channel="8tv.unifitv">
-    <title lang="en">8TV MORNING EXPRES/2026</title>
-    <desc lang="en">8TV MORNING EXPRES/2026</desc>
-    <category lang="en">Entertainment</category>
-    <episode-num system="xmltv_ns">0.221.</episode-num>
-    <episode-num system="onscreen">S1E222</episode-num>
-  </programme>
-  <programme start="20260513014500 +0000" stop="20260513023500 +0000" channel="8tv.unifitv">
-    <title lang="en">GREAT TIMES</title>
-    <desc lang="en">Tragedi kebakaran di gudang "Smile Light" telah menyebabkan ramai mangsa cedera dan dimasukkan ke hospital. Jia Mei dan Chee Kan tidak terkecuali menerima nasib malang.</desc>
-    <category lang="en">Entertainment</category>
-    <episode-num system="xmltv_ns">0.716.</episode-num>
-    <episode-num system="onscreen">S1E717</episode-num>
   </programme>
   <programme start="20260513023500 +0000" stop="20260513033000 +0000" channel="8tv.unifitv">
     <title lang="en">WOW SHOP</title>
     <desc lang="en">WOW SHOP</desc>
     <category lang="en">Entertainment</category>
   </programme>
-  <programme start="20260513033000 +0000" stop="20260513043000 +0000" channel="8tv.unifitv">
+  <programme start="20260513033000 +0000" stop="20260513070000 +0000" channel="8tv.unifitv">
     <title lang="en">WOW SHOP</title>
     <desc lang="en">WOW SHOP</desc>
     <category lang="en">Entertainment</category>
   </programme>
-  <programme start="20260513043000 +0000" stop="20260513050000 +0000" channel="8tv.unifitv">
-    <title lang="en">MIDDAY MANDARIN NEW/2026</title>
-    <desc lang="en">MIDDAY MANDARIN NEW/2026</desc>
-    <category lang="en">Entertainment</category>
-    <episode-num system="xmltv_ns">0.314.</episode-num>
-    <episode-num system="onscreen">S1E315</episode-num>
-  </programme>
-  <programme start="20260513050000 +0000" stop="20260513060000 +0000" channel="8tv.unifitv">
-    <title lang="en">NO ROOM FOR CRIME</title>
-    <desc lang="en">Siasatan oleh polis menunjukkan bahawa Fan Kei mati akibat kecederaan di bahagian dada setelah ditikam. Jim yang dilihat menyerang Fan Kei sebelum dia mati melalui CCTV jalanan, kini menjadi suspek utama dan diburu polis.</desc>
-    <category lang="en">Entertainment</category>
-    <episode-num system="xmltv_ns">0.17.</episode-num>
-    <episode-num system="onscreen">S1E18</episode-num>
-  </programme>
-  <programme start="20260513060000 +0000" stop="20260513070000 +0000" channel="8tv.unifitv">
-    <title lang="en">IN SPITE OF THE STRONG WIND</title>
-    <desc lang="en">Shuo Bing tiba tepat pada masanya menyelamatkan Bai Ying daripada teman lelakinya yang cuba merogolnya. Shuo Bing sempat merakamkan perlakuan lelaki itu. Kan Li terkejut menerima saman berkaitan hutangnya kepada Huijin.</desc>
-    <category lang="en">Entertainment</category>
-    <episode-num system="xmltv_ns">0.20.</episode-num>
-    <episode-num system="onscreen">S1E21</episode-num>
-  </programme>
-  <programme start="20260513070000 +0000" stop="20260513073000 +0000" channel="8tv.unifitv">
+  <programme start="20260513070000 +0000" stop="20260513092800 +0000" channel="8tv.unifitv">
     <title lang="en">WOW SHOP</title>
     <desc lang="en">WOW SHOP</desc>
     <category lang="en">Entertainment</category>
   </programme>
-  <programme start="20260513073000 +0000" stop="20260513083000 +0000" channel="8tv.unifitv">
-    <title lang="en">FIGHT FOR JUSTICE</title>
-    <desc lang="en">Yun Jin dilanggar oleh sebuah kereta apabila melindungi Ya Jie. Yun Jin dikejarkan ke hospital dalam keadaan tenat. Ya Jie mendermakan darah untuk Yun Jin yang mengalami pendarahan teruk dan memerlukan pembedahan segera.</desc>
-    <category lang="en">Entertainment</category>
-    <episode-num system="xmltv_ns">0.88.</episode-num>
-    <episode-num system="onscreen">S1E89</episode-num>
-  </programme>
-  <programme start="20260513083000 +0000" stop="20260513092800 +0000" channel="8tv.unifitv">
-    <title lang="en">FIGHT FOR JUSTICE</title>
-    <desc lang="en">Guo Qing dan Zi Sheng diserang oleh kumpulan penunjuk perasaan. Guo Qing dibaling batu, tercedera dan berdarah di kepala. Mujurnya muncul Liao Qian Kun dan Mei Hua yang dapat menenangkan kumpulan penunjuk perasaan.</desc>
-    <category lang="en">Entertainment</category>
-    <episode-num system="xmltv_ns">0.89.</episode-num>
-    <episode-num system="onscreen">S1E90</episode-num>
-  </programme>
-  <programme start="20260513092800 +0000" stop="20260513093000 +0000" channel="8tv.unifitv">
+  <programme start="20260513092800 +0000" stop="20260513160000 +0000" channel="8tv.unifitv">
     <title lang="en">LIVING DELIGHT X WOWSHOP EXPRESS</title>
     <desc lang="en">LIVING DELIGHT X WOWSHOP EXPRESS</desc>
     <category lang="en">Entertainment</category>
-  </programme>
-  <programme start="20260513093000 +0000" stop="20260513103000 +0000" channel="8tv.unifitv">
-    <title lang="en">LIVING DELIGHT 2025/2026</title>
-    <desc lang="en">LIVING DELIGHT 2025/2026</desc>
-    <category lang="en">Entertainment</category>
-    <episode-num system="xmltv_ns">0.220.</episode-num>
-    <episode-num system="onscreen">S1E221</episode-num>
-  </programme>
-  <programme start="20260513103000 +0000" stop="20260513110000 +0000" channel="8tv.unifitv">
-    <title lang="en">8 E-NEW/2026</title>
-    <desc lang="en">8 E-NEW/2026</desc>
-    <category lang="en">Entertainment</category>
-    <episode-num system="xmltv_ns">0.219.</episode-num>
-    <episode-num system="onscreen">S1E220</episode-num>
-  </programme>
-  <programme start="20260513110000 +0000" stop="20260513120000 +0000" channel="8tv.unifitv">
-    <title lang="en">HEAVENLY HAND</title>
-    <desc lang="en">Pembunuh psikopat Yang Jian memerangkap Situ Jiu dengan dadah sehingga ditahan polis. Konflik memuncak apabila Yang Jian menculik Zhang Tie dan menuntut pengorbanan ngeri daripada Situ sebagai syarat untuk membebaskan rakannya itu.</desc>
-    <category lang="en">Entertainment</category>
-    <episode-num system="xmltv_ns">0.18.</episode-num>
-    <episode-num system="onscreen">S1E19</episode-num>
-  </programme>
-  <programme start="20260513120000 +0000" stop="20260513130000 +0000" channel="8tv.unifitv">
-    <title lang="en">MANDARIN NEWS</title>
-    <desc lang="en">MANDARIN NEWS</desc>
-    <category lang="en">Entertainment</category>
-    <episode-num system="xmltv_ns">0.316.</episode-num>
-    <episode-num system="onscreen">S1E317</episode-num>
-  </programme>
-  <programme start="20260513130000 +0000" stop="20260513140000 +0000" channel="8tv.unifitv">
-    <title lang="en">18 AGAIN</title>
-    <desc lang="en">Da Jung melarang Si Woo rapat dengan Woo Young. Dia menghalau Woo Young di hadapan anaknya itu. Si Woo memberitahu Da Jung bahawa Woo Young sentiasa melindunginya ketika dia dibuli di sekolah dan menasihatinya untuk kekal positif.</desc>
-    <category lang="en">Entertainment</category>
-    <episode-num system="xmltv_ns">0.22.</episode-num>
-    <episode-num system="onscreen">S1E23</episode-num>
-  </programme>
-  <programme start="20260513140000 +0000" stop="20260513150000 +0000" channel="8tv.unifitv">
-    <title lang="en">THE IRON LADY</title>
-    <desc lang="en">Shi Qin rasa amat terkejut dan gelisah apabila mendapati Lin Ci telah memiliki syer di dalam syarikat Qian Hi. Susulan itu, dia dilantik menyandang jawatan tinggi dalam syarikat tersebut.</desc>
-    <category lang="en">Entertainment</category>
-    <episode-num system="xmltv_ns">0.30.</episode-num>
-    <episode-num system="onscreen">S1E31</episode-num>
-  </programme>
-  <programme start="20260513150000 +0000" stop="20260513160000 +0000" channel="8tv.unifitv">
-    <title lang="en">LOVE GAME IN EASTERN FANTASY</title>
-    <desc lang="en">Miao Miao mengambil kesempatan daripada Mu Yao dan menyusahkan Mu Sheng. Apabila Miao Miao berasa baik, dia menerima tugas baharu untuk memusnahkan pusaka "Peta Gunung dan Laut Ratus Setan" yang disimpan oleh Mu Yao.</desc>
-    <category lang="en">Entertainment</category>
-    <episode-num system="xmltv_ns">0.2.</episode-num>
-    <episode-num system="onscreen">S1E3</episode-num>
   </programme>
   <programme start="20260513160000 +0000" stop="20260513170000 +0000" channel="8tv.unifitv">
     <title lang="en">LOVE GAME IN EASTERN FANTASY</title>
