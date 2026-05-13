@@ -5,7 +5,7 @@
 <title>Entong (RCTI)</title>
 </programme>
 <programme start="20260513023000 +0000" stop="20260513040000 +0000" channel="RCTI.vision">
-<title>Buyung &amp; Upik</title>
+<title>Buyung Upik</title>
 </programme>
 <programme start="20260513040000 +0000" stop="20260513043000 +0000" channel="RCTI.vision">
 <title>Go Spot (RCTI)</title>
@@ -642,9 +642,6 @@
 </programme>
 <programme start="20260513103000 +0000" stop="20260513120000 +0000" channel="ANTV.vision">
 <title>Vasudha</title>
-</programme>
-<programme start="20260513120000 +0000" stop="20260513143000 +0000" channel="ANTV.vision">
-<title>Cinta Kembar</title>
 </programme>
 <programme start="20260513143000 +0000" stop="20260513163000 +0000" channel="ANTV.vision">
 <title>Malam Keramat</title>
@@ -1496,5 +1493,8 @@
 <title>TVRI</title>
 </programme>
 <programme start="20260513090000 +0000" stop="20260513110000 +0000" channel="TVRI.vision">
+<title>TVRI</title>
+</programme>
+<programme start="20260513110000 +0000" stop="20260513130000 +0000" channel="TVRI.vision">
 <title>TVRI</title>
 </programme>

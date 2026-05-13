@@ -1475,11 +1475,11 @@
     <title lang="id">Arisan</title>
     <icon src="https://thumbor.prod.vidiocdn.com/VyDWgGuvUtZp5M006MXkTEIEpxw=/287x162/filters:strip_icc():quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/image/734/trans7-9dade4.jpg"/>
   </programme>
-  <programme channel="734" start="20260513143000 +0000" stop="20260513154500 +0000">
+  <programme channel="734" start="20260513143000 +0000" stop="20260513154300 +0000">
     <title lang="id">Lapor Pak!</title>
     <icon src="https://thumbor.prod.vidiocdn.com/VyDWgGuvUtZp5M006MXkTEIEpxw=/287x162/filters:strip_icc():quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/image/734/trans7-9dade4.jpg"/>
   </programme>
-  <programme channel="734" start="20260513154500 +0000" stop="20260513163000 +0000">
+  <programme channel="734" start="20260513154300 +0000" stop="20260513163000 +0000">
     <title lang="id">The Police</title>
     <icon src="https://thumbor.prod.vidiocdn.com/HZz-rwFWruDhzHFfuCgQLdnqkmI=/287x162/filters:strip_icc():quality(70)/vidio-web-prod-film/uploads/film/image_landscape/5734/the-police-3840e2.png"/>
   </programme>
@@ -1919,12 +1919,12 @@
     <desc lang="id">American Ninja Warrior Junior</desc>
     <icon src="https://thumbor.prod.vidiocdn.com/LRw1taUfDpwzn6R8MrN3qI3Zi8c=/287x162/filters:strip_icc():quality(70)/vidio-media-production/uploads/livestreaming/schedule/thumbnail/5062701/5f2021.jpg"/>
   </programme>
-  <programme channel="206" start="20260513114500 +0000" stop="20260513140000 +0000">
+  <programme channel="206" start="20260513114500 +0000" stop="20260513142200 +0000">
     <title lang="id">AVC Mens Champions League 2026 Fs.19:00</title>
     <desc lang="id">AVC Mens Champions League 2026 Fs.19:00</desc>
     <icon src="https://thumbor.prod.vidiocdn.com/NdmzqkxqnWVnlngtk_ObYNT-wiY=/287x162/filters:strip_icc():quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/image/206/moji-a5bd3e.jpg"/>
   </programme>
-  <programme channel="206" start="20260513140000 +0000" stop="20260513155700 +0000">
+  <programme channel="206" start="20260513142200 +0000" stop="20260513155700 +0000">
     <title lang="id">Rerun Proliga 2026</title>
     <desc lang="id">Rerun Proliga 2026</desc>
     <icon src="https://thumbor.prod.vidiocdn.com/NdmzqkxqnWVnlngtk_ObYNT-wiY=/287x162/filters:strip_icc():quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/image/206/moji-a5bd3e.jpg"/>
@@ -8437,11 +8437,11 @@
     <desc lang="id">Sayali, sosok perempuan muda pekerja keras yang memiliki impian besar untuk membahagiakan keluarganya dan meraih kehidupan yang lebih layak. Namun perjalanan hidupnya tidak mudah. Ia harus menghadapi berbagai persoalan mulai dari keterbatasan ekonomi hingga konflik keluarga yang terus menghampiri.</desc>
     <icon src="https://thumbor.prod.vidiocdn.com/20tRQaK9Gps_wFQL5rY-XgRbrs4=/287x162/filters:strip_icc():quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/image/782/antv-de8530.jpg"/>
   </programme>
-  <programme channel="782" start="20260513083000 +0000" stop="20260513104000 +0000">
+  <programme channel="782" start="20260513083000 +0000" stop="20260513103300 +0000">
     <title lang="id">Teri Meri Doriyaann</title>
     <icon src="https://thumbor.prod.vidiocdn.com/rxxAMhORgo0vDGckd7gN0gfspUU=/287x162/filters:strip_icc():quality(70)/vidio-media-production/uploads/livestreaming/schedule/thumbnail/5071450/2a75d1.jpg"/>
   </programme>
-  <programme channel="782" start="20260513104000 +0000" stop="20260513120800 +0000">
+  <programme channel="782" start="20260513103300 +0000" stop="20260513120800 +0000">
     <title lang="id">Vasudha</title>
     <desc lang="id">Vasudha yang periang bergabung dengan rumah pemimpin bisnis Chandrika sebagai pembantu dan mendambakan persetujuannya meskipun ada perbedaan ideologis di antara mereka.</desc>
     <icon src="https://thumbor.prod.vidiocdn.com/ZSAMivWBMahcz-gE5CM5M-uos3Y=/287x162/filters:strip_icc():quality(70)/vidio-media-production/uploads/livestreaming/schedule/thumbnail/5071437/477fc8.jpg"/>
@@ -8476,7 +8476,7 @@
     <icon src="https://thumbor.prod.vidiocdn.com/20tRQaK9Gps_wFQL5rY-XgRbrs4=/287x162/filters:strip_icc():quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/image/782/antv-de8530.jpg"/>
   </programme>
   <programme channel="782" start="20260513183000 +0000" stop="20260513210000 +0000">
-    <title lang="id">Coppa Italia 2025/26: Lazio vs Inter</title>
+    <title lang="id">Antv Program</title>
     <icon src="https://thumbor.prod.vidiocdn.com/20tRQaK9Gps_wFQL5rY-XgRbrs4=/287x162/filters:strip_icc():quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/image/782/antv-de8530.jpg"/>
   </programme>
   <programme channel="782" start="20260513210000 +0000" stop="20260513230000 +0000">

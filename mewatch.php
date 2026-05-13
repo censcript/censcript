@@ -754,10 +754,10 @@
     <programme start="20260512160000 +0000" stop="20260513113300 +0000" channel="Live 6.mewatch">
         <title>No Programme available now. Next Broadcast on 13th May, Wednesday 7.33pm. ASEAN Shopee Cup 2025/2026 Semi-final Leg 2</title>
     </programme>
-    <programme start="20260513113300 +0000" stop="20260513140000 +0000" channel="Live 6.mewatch">
+    <programme start="20260513113300 +0000" stop="20260513151000 +0000" channel="Live 6.mewatch">
         <title>ASEAN Shopee Cup 2025/2026 Semi-final Leg 2: Buriram United FC vs Johor Darul Ta&#039;zim FC</title>
     </programme>
-    <programme start="20260513140000 +0000" stop="20260513160000 +0000" channel="Live 6.mewatch">
+    <programme start="20260513151000 +0000" stop="20260513160000 +0000" channel="Live 6.mewatch">
         <title>No programmes streaming LIVE at this moment</title>
     </programme>
     <programme start="20260513160000 +0000" stop="20260514160000 +0000" channel="Live 6.mewatch">
