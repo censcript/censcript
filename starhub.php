@@ -4720,7 +4720,7 @@
     <programme start="20260514155000 +0000" stop="20260514164000 +0000" channel="Citra Entertainment.starhub">
         <title>UNGKAP HIKMAH DI BALIK DOSA</title>
     </programme>
-    <programme start="20260513153000 +0000" stop="20260513163000 +0000" channel="Vijay TV HD.starhub">
+    <programme start="20260513160000 +0000" stop="20260513163000 +0000" channel="Vijay TV HD.starhub">
         <title>Mahasangamam-Azhagae Azhagu &amp; Pandianstores Tsmmi</title>
     </programme>
     <programme start="20260513163000 +0000" stop="20260513170000 +0000" channel="Vijay TV HD.starhub">
@@ -6592,7 +6592,10 @@
     <programme start="20260514154700 +0000" stop="20260514160900 +0000" channel="TV5MONDE HD.starhub">
         <title>Schisms, terrorism and other earthquakes</title>
     </programme>
-    <programme start="20260513160000 +0000" stop="20260513173000 +0000" channel="Hub Sports 1  HD.starhub">
+    <programme start="20260513130000 +0000" stop="20260513172600 +0000" channel="Hub Sports 1  HD.starhub">
+        <title>Internazionali BNL d’Italia (1000) QF 1</title>
+    </programme>
+    <programme start="20260513172600 +0000" stop="20260513173000 +0000" channel="Hub Sports 1  HD.starhub">
         <title>Mutua Madrid Open (1000) Final</title>
     </programme>
     <programme start="20260513173000 +0000" stop="20260513180000 +0000" channel="Hub Sports 1  HD.starhub">
@@ -7969,13 +7972,13 @@
     <programme start="20260513133000 +0000" stop="20260513163000 +0000" channel="Asianet Movies.starhub">
         <title>Bheeshmaparvam</title>
     </programme>
-    <programme start="20260513163000 +0000" stop="20260513193000 +0000" channel="Asianet Movies.starhub">
+    <programme start="20260513163000 +0000" stop="20260513190000 +0000" channel="Asianet Movies.starhub">
         <title>Chunkzz</title>
     </programme>
-    <programme start="20260513193000 +0000" stop="20260513213000 +0000" channel="Asianet Movies.starhub">
+    <programme start="20260513190000 +0000" stop="20260513211000 +0000" channel="Asianet Movies.starhub">
         <title>Jackpot</title>
     </programme>
-    <programme start="20260513213000 +0000" stop="20260513233000 +0000" channel="Asianet Movies.starhub">
+    <programme start="20260513211000 +0000" stop="20260513233000 +0000" channel="Asianet Movies.starhub">
         <title>Novel</title>
     </programme>
     <programme start="20260513233000 +0000" stop="20260514013000 +0000" channel="Asianet Movies.starhub">

@@ -2945,16 +2945,16 @@ Warning: Undefined array key "et" in /usr/home/ManusiaBiasa/domains/manusiabiasa
 <programme start="20260514033000 +0000" stop="20260514040000 +0000" channel="Sky Sport Bundesliga HD.skyde">
     <title>2. BL: 90in30: FCN - S04, 33. Spieltag</title>
 </programme>
-<programme start="20260514040000 +0000" stop="20260514060000 +0000" channel="Sky Sport Bundesliga HD.skyde">
+<programme start="20260514040000 +0000" stop="20260514055500 +0000" channel="Sky Sport Bundesliga HD.skyde">
     <title>2. BL: Eintracht Braunschweig - Dynamo Dresden, 33. Spieltag</title>
 </programme>
-<programme start="20260514060000 +0000" stop="20260514080000 +0000" channel="Sky Sport Bundesliga HD.skyde">
+<programme start="20260514055500 +0000" stop="20260514075000 +0000" channel="Sky Sport Bundesliga HD.skyde">
     <title>BL: TSG Hoffenheim - Werder Bremen, 33. Spieltag</title>
 </programme>
-<programme start="20260514080000 +0000" stop="20260514100000 +0000" channel="Sky Sport Bundesliga HD.skyde">
+<programme start="20260514075000 +0000" stop="20260514094500 +0000" channel="Sky Sport Bundesliga HD.skyde">
     <title>BL: FC Augsburg - Borussia M&#039;gladbach, 33. Spieltag</title>
 </programme>
-<programme start="20260514100000 +0000" stop="20260514113000 +0000" channel="Sky Sport Bundesliga HD.skyde">
+<programme start="20260514094500 +0000" stop="20260514113000 +0000" channel="Sky Sport Bundesliga HD.skyde">
     <title>Fußball: Spiel Deines Lebens</title>
 </programme>
 <programme start="20260514113000 +0000" stop="20260514120000 +0000" channel="Sky Sport Bundesliga HD.skyde">
@@ -3357,7 +3357,7 @@ Warning: Undefined array key "et" in /usr/home/ManusiaBiasa/domains/manusiabiasa
     <title>Live ATP 1000: D. Medvedev - M. Landaluce (ESP), Internazionali BNL d&#039;Italia in Rom (Italien), Viertelfinale 4</title>
 </programme>
 <programme start="20260514190000 +0000" stop="20260514210000 +0000" channel="Sky Sport Top Event HD.skyde">
-    <title>Live WTA 1000: HF2, Internazionali BNL d&#039;Italia in Rom (Italien), Halbfinale 2</title>
+    <title>Live WTA 1000: tba - I. Swiatek (POL), Internazionali BNL d&#039;Italia in Rom (Italien), Halbfinale 2</title>
 </programme>
 <programme start="20260514210000 +0000" stop="20260514230000 +0000" channel="Sky Sport Top Event HD.skyde">
     <title>Live PGA Championship: 1. Tag in Newtown Square, PA (USA)</title>
@@ -3399,10 +3399,10 @@ Warning: Undefined array key "et" in /usr/home/ManusiaBiasa/domains/manusiabiasa
     <title>Golf: Greatest Holes (3)</title>
 </programme>
 <programme start="20260514170000 +0000" stop="20260514190000 +0000" channel="Sky Sport UHD.skyde">
-    <title>PL: Tottenham Hotspur - Leeds United, 36. Spieltag</title>
+    <title>PL: Manchester City - Crystal Palace, Nachholspiel vom 31. Spieltag</title>
 </programme>
 <programme start="20260514170000 +0000" stop="20260514190000 +0000" channel="Sky Sport UHD.skyde">
-    <title>PL: Manchester City - Crystal Palace, Nachholspiel vom 31. Spieltag</title>
+    <title>PL: Tottenham Hotspur - Leeds United, 36. Spieltag</title>
 </programme>
 <programme start="20260514190000 +0000" stop="20260514210000 +0000" channel="Sky Sport UHD.skyde">
     <title>PL: West Ham United - FC Arsenal, Match of the Week, 36. Spieltag</title>
@@ -3413,8 +3413,8 @@ Warning: Undefined array key "et" in /usr/home/ManusiaBiasa/domains/manusiabiasa
 <programme start="20260514213000 +0000" stop="20260514233000 +0000" channel="Sky Sport UHD.skyde">
     <title>F1: Rennen - GP Miami</title>
 </programme>
-<programme start="20260513234000 +0000" stop="20260514000000 +0000" channel="Sky Sport 1 HD.skyde">
-    <title>Es folgt: LIVE WNBA</title>
+<programme start="20260513220000 +0000" stop="20260514000000 +0000" channel="Sky Sport 1 HD.skyde">
+    <title>Es folgt: ab 02:00: LIVE WNBA</title>
 </programme>
 <programme start="20260514000000 +0000" stop="20260514023000 +0000" channel="Sky Sport 1 HD.skyde">
     <title>Live WNBA: Las Vegas Aces @ Connecticut Sun</title>
