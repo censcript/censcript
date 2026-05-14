@@ -12710,12 +12710,12 @@
     <desc lang="id">MADRID - HIGHLIGHTS SHOW</desc>
     <icon src="https://thumbor.prod.vidiocdn.com/nY0aFklpYf6yONLaFJjxhiSuthc=/287x162/filters:strip_icc():quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/image/6786/champions-tv-3-76ca7c.jpg"/>
   </programme>
-  <programme channel="6786" start="20260514200000 +0000" stop="20260514213000 +0000">
+  <programme channel="6786" start="20260514200000 +0000" stop="20260514220000 +0000">
     <title lang="id">Iga Swiatek vs Elina Svitolina - Semifinals | WTA 1000: Internazionali BNL D'Italia 2026</title>
     <desc lang="id">Nonton streaming pertandingan seru Semifinals - WTA 1000: Internazionali BNL D'Italia 2026. Saksikan aksi-aksi terbaik dari tim yang bersaing ketat untuk meraih kemenangan. Dapatkan informasi lengkap mengenai jadwal pertandingan dan hasil pertandingan terbaru hanya di Vidio.</desc>
     <icon src="https://thumbor.prod.vidiocdn.com/mNyYE8VRexwqec21bMsFzmO6Hjo=/287x162/filters:strip_icc():quality(70)/vidio-media-production/uploads/livestreaming/schedule/thumbnail/5071465/99d63f.jpg"/>
   </programme>
-  <programme channel="6786" start="20260514213000 +0000" stop="20260514230000 +0000">
+  <programme channel="6786" start="20260514220000 +0000" stop="20260514230000 +0000">
     <title lang="id">HELLAS VERONA vs COMO : Serie A 2025/26</title>
     <desc lang="id">HELLAS VERONA vs COMO</desc>
     <icon src="https://thumbor.prod.vidiocdn.com/nY0aFklpYf6yONLaFJjxhiSuthc=/287x162/filters:strip_icc():quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/image/6786/champions-tv-3-76ca7c.jpg"/>

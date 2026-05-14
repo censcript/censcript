@@ -643,6 +643,9 @@
 <programme start="20260514010000 +0000" stop="20260514023000 +0000" channel="ANTV.vision">
 <title>Misteri Sungai Mekong</title>
 </programme>
+<programme start="20260514023000 +0000" stop="20260514060000 +0000" channel="ANTV.vision">
+<title>Kuch Kuch Hota Hai</title>
+</programme>
 <programme start="20260514060000 +0000" stop="20260514073000 +0000" channel="ANTV.vision">
 <title>Jhanak</title>
 </programme>
@@ -654,6 +657,18 @@
 </programme>
 <programme start="20260514103000 +0000" stop="20260514120000 +0000" channel="ANTV.vision">
 <title>Vasudha</title>
+</programme>
+<programme start="20260514120000 +0000" stop="20260514143000 +0000" channel="ANTV.vision">
+<title>Kemilau Cinta Di Langit Jingga</title>
+</programme>
+<programme start="20260514143000 +0000" stop="20260514163000 +0000" channel="ANTV.vision">
+<title>Arwah Sinden</title>
+</programme>
+<programme start="20260514163000 +0000" stop="20260514183000 +0000" channel="ANTV.vision">
+<title>Cakar Harimau</title>
+</programme>
+<programme start="20260514183000 +0000" stop="20260514193000 +0000" channel="ANTV.vision">
+<title>Out Of Inferno</title>
 </programme>
 <programme start="20260514193000 +0000" stop="20260514220000 +0000" channel="ANTV.vision">
 <title>Guru</title>
@@ -1482,19 +1497,4 @@
 </programme>
 <programme start="20260515100000 +0000" stop="20260515103000 +0000" channel="BTV.vision">
 <title>Berita Merah Putih</title>
-</programme>
-<programme start="20260515103000 +0000" stop="20260515120000 +0000" channel="BTV.vision">
-<title>Berita Satu Utama</title>
-</programme>
-<programme start="20260513230000 +0000" stop="20260514010000 +0000" channel="TVRI.vision">
-<title>TVRI</title>
-</programme>
-<programme start="20260514010000 +0000" stop="20260514030000 +0000" channel="TVRI.vision">
-<title>TVRI</title>
-</programme>
-<programme start="20260514030000 +0000" stop="20260514050000 +0000" channel="TVRI.vision">
-<title>TVRI</title>
-</programme>
-<programme start="20260514050000 +0000" stop="20260514070000 +0000" channel="TVRI.vision">
-<title>TVRI</title>
 </programme>
