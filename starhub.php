@@ -1934,7 +1934,7 @@
         <title>LaLiga 2025/26: Getafe vs Mallorca (Live)</title>
     </programme>
     <programme start="20260513213000 +0000" stop="20260513220000 +0000" channel="beIN Sports 3.starhub">
-        <title>Mini Match - TotalEnergies Africa Cup of Nations, Morocco 2025: Cameroon vs Gabon</title>
+        <title>Mini Match - TotalEnergies Africa Cup of Nations, Morocco 2025: Cameroon vs Gabo</title>
     </programme>
     <programme start="20260513220000 +0000" stop="20260513230000 +0000" channel="beIN Sports 3.starhub">
         <title>Gothenburg, Sweden</title>
@@ -3824,7 +3824,7 @@
         <title>World Weather</title>
     </programme>
     <programme start="20260513191500 +0000" stop="20260513200000 +0000" channel="NHK World Premium HD.starhub">
-        <title>Hidden Doors! Exploring the Unknown World (R)</title>
+        <title>Hidden Doors! Exploring the Unknown World &quot;Natural Rubber from Thailand&quot; (R)</title>
     </programme>
     <programme start="20260513200000 +0000" stop="20260513202500 +0000" channel="NHK World Premium HD.starhub">
         <title>Grand Sumo 2026 May Tournament Highlights</title>
