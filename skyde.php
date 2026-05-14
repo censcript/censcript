@@ -2988,7 +2988,7 @@ Warning: Undefined array key "et" in /usr/home/ManusiaBiasa/domains/manusiabiasa
     <title>BL: Bundesliga Weekly</title>
 </programme>
 <programme start="20260514190000 +0000" stop="20260514200000 +0000" channel="Sky Sport Bundesliga HD.skyde">
-    <title>BL: Podcast mit Julian Brandt</title>
+    <title>BL: BVB-Podcast mit Julian Brandt</title>
 </programme>
 <programme start="20260514200000 +0000" stop="20260514203000 +0000" channel="Sky Sport Bundesliga HD.skyde">
     <title>2. BL: Dein Zweitligatalk - HvK &amp; Tusche</title>
@@ -3357,7 +3357,7 @@ Warning: Undefined array key "et" in /usr/home/ManusiaBiasa/domains/manusiabiasa
     <title>Live ATP 1000: D. Medvedev - M. Landaluce (ESP), Internazionali BNL d&#039;Italia in Rom (Italien), Viertelfinale 4</title>
 </programme>
 <programme start="20260514190000 +0000" stop="20260514210000 +0000" channel="Sky Sport Top Event HD.skyde">
-    <title>Live WTA 1000: tba - I. Swiatek (POL), Internazionali BNL d&#039;Italia in Rom (Italien), Halbfinale 2</title>
+    <title>Live WTA 1000: HF2, Internazionali BNL d&#039;Italia in Rom (Italien), Halbfinale 2</title>
 </programme>
 <programme start="20260514210000 +0000" stop="20260514230000 +0000" channel="Sky Sport Top Event HD.skyde">
     <title>Live PGA Championship: 1. Tag in Newtown Square, PA (USA)</title>
@@ -3399,10 +3399,10 @@ Warning: Undefined array key "et" in /usr/home/ManusiaBiasa/domains/manusiabiasa
     <title>Golf: Greatest Holes (3)</title>
 </programme>
 <programme start="20260514170000 +0000" stop="20260514190000 +0000" channel="Sky Sport UHD.skyde">
-    <title>PL: Manchester City - Crystal Palace, Nachholspiel vom 31. Spieltag</title>
+    <title>PL: Tottenham Hotspur - Leeds United, 36. Spieltag</title>
 </programme>
 <programme start="20260514170000 +0000" stop="20260514190000 +0000" channel="Sky Sport UHD.skyde">
-    <title>PL: Tottenham Hotspur - Leeds United, 36. Spieltag</title>
+    <title>PL: Manchester City - Crystal Palace, Nachholspiel vom 31. Spieltag</title>
 </programme>
 <programme start="20260514190000 +0000" stop="20260514210000 +0000" channel="Sky Sport UHD.skyde">
     <title>PL: West Ham United - FC Arsenal, Match of the Week, 36. Spieltag</title>

@@ -232,11 +232,8 @@
   <programme start="20260516144000 +0000" stop="20260516145500 +0000" channel="Dvojka.webtv.sk">
     <title lang="id">Na zelenej adrese</title>
   </programme>
-  <programme start="20260516145500 +0000" stop="20260516155500 +0000" channel="Dvojka.webtv.sk">
-    <title lang="id">Vivat Beňovský! I (1)</title>
-  </programme>
-  <programme start="20260516155500 +0000" stop="20260516163000 +0000" channel="Dvojka.webtv.sk">
-    <title lang="id">Radosť zo života</title>
+  <programme start="20260516145500 +0000" stop="20260516163000 +0000" channel="Dvojka.webtv.sk">
+    <title lang="id">Život bez konca I (1/5)</title>
   </programme>
   <programme start="20260516163000 +0000" stop="20260516163500 +0000" channel="Dvojka.webtv.sk">
     <title lang="id">Večerníček</title>
@@ -503,7 +500,7 @@
     <title lang="id">Ciao Italia - Boli sme pri tom!</title>
   </programme>
   <programme start="20260516064500 +0000" stop="20260516071000 +0000" channel=":Šport.webtv.sk">
-    <title lang="id">Cesta na MS 2026 vo futbale (1. časť)</title>
+    <title lang="id">Futbal - Cesta na MS 2026</title>
   </programme>
   <programme start="20260516071000 +0000" stop="20260516081000 +0000" channel=":Šport.webtv.sk">
     <title lang="id">Futbalový sen (dokument o MS 1994 v USA)</title>
@@ -533,7 +530,7 @@
     <title lang="id">Federálne Góly - body - sekundy 1982</title>
   </programme>
   <programme start="20260516154000 +0000" stop="20260516160500 +0000" channel=":Šport.webtv.sk">
-    <title lang="id">Cesta na MS 2026 vo futbale (2. časť)</title>
+    <title lang="id">Futbal - Cesta na MS 2026</title>
   </programme>
   <programme start="20260516160500 +0000" stop="20260516170500 +0000" channel=":Šport.webtv.sk">
     <title lang="id">Chile 1962 (dokument o MS 1962 vo futbale)</title>
@@ -931,22 +928,22 @@
   <programme start="20260515205000 +0000" stop="20260515222500 +0000" channel="DajTo.webtv.sk">
     <title lang="id">Vojak 6: Boj zblízka</title>
   </programme>
-  <programme start="20260515222500 +0000" stop="20260515224000 +0000" channel="DajTo.webtv.sk">
+  <programme start="20260515222500 +0000" stop="20260515231000 +0000" channel="DajTo.webtv.sk">
+    <title lang="id">Góóól! (31)</title>
+  </programme>
+  <programme start="20260515231000 +0000" stop="20260515232500 +0000" channel="DajTo.webtv.sk">
     <title lang="id">Športové noviny</title>
   </programme>
-  <programme start="20260515224000 +0000" stop="20260515231500 +0000" channel="DajTo.webtv.sk">
+  <programme start="20260515232500 +0000" stop="20260516000000 +0000" channel="DajTo.webtv.sk">
     <title lang="id">Susedia (23)</title>
   </programme>
-  <programme start="20260515231500 +0000" stop="20260516000500 +0000" channel="DajTo.webtv.sk">
+  <programme start="20260516000000 +0000" stop="20260516005000 +0000" channel="DajTo.webtv.sk">
     <title lang="id">Horná Dolná VI (6)</title>
   </programme>
-  <programme start="20260516000500 +0000" stop="20260516010000 +0000" channel="DajTo.webtv.sk">
-    <title lang="id">Horná Dolná VI (7)</title>
-  </programme>
-  <programme start="20260516010000 +0000" stop="20260516022000 +0000" channel="DajTo.webtv.sk">
+  <programme start="20260516005000 +0000" stop="20260516021500 +0000" channel="DajTo.webtv.sk">
     <title lang="id">Smiechoty (22)</title>
   </programme>
-  <programme start="20260516022000 +0000" stop="20260516040000 +0000" channel="DajTo.webtv.sk">
+  <programme start="20260516021500 +0000" stop="20260516040000 +0000" channel="DajTo.webtv.sk">
     <title lang="id">Zig a Sharko</title>
   </programme>
   <programme start="20260516040000 +0000" stop="20260516044500 +0000" channel="DajTo.webtv.sk">
@@ -1228,17 +1225,20 @@
   <programme start="20260515215500 +0000" stop="20260516001500 +0000" channel="JOJ Šport.webtv.sk">
     <title lang="id">2026 IIHF Majstrovstvá sveta</title>
   </programme>
-  <programme start="20260516001500 +0000" stop="20260516023000 +0000" channel="JOJ Šport.webtv.sk">
+  <programme start="20260516001500 +0000" stop="20260516024000 +0000" channel="JOJ Šport.webtv.sk">
     <title lang="id">2026 IIHF Majstrovstvá sveta</title>
   </programme>
-  <programme start="20260516023000 +0000" stop="20260516042000 +0000" channel="JOJ Šport.webtv.sk">
+  <programme start="20260516024000 +0000" stop="20260516040000 +0000" channel="JOJ Šport.webtv.sk">
     <title lang="id">Sumár dňa 2026 IIHF Majstrovstvá sveta</title>
   </programme>
-  <programme start="20260516042000 +0000" stop="20260516064000 +0000" channel="JOJ Šport.webtv.sk">
+  <programme start="20260516040000 +0000" stop="20260516061000 +0000" channel="JOJ Šport.webtv.sk">
     <title lang="id">2026 IIHF Majstrovstvá sveta</title>
   </programme>
-  <programme start="20260516064000 +0000" stop="20260516091500 +0000" channel="JOJ Šport.webtv.sk">
+  <programme start="20260516061000 +0000" stop="20260516082500 +0000" channel="JOJ Šport.webtv.sk">
     <title lang="id">2026 IIHF Majstrovstvá sveta</title>
+  </programme>
+  <programme start="20260516082500 +0000" stop="20260516091500 +0000" channel="JOJ Šport.webtv.sk">
+    <title lang="id">V pozadí úspechu (27)</title>
   </programme>
   <programme start="20260516091500 +0000" stop="20260516095500 +0000" channel="JOJ Šport.webtv.sk">
     <title lang="id">Sumár dňa 2026 IIHF Majstrovstvá sveta</title>
@@ -3184,10 +3184,10 @@
   <programme start="20260516000800 +0000" stop="20260516024000 +0000" channel="ČT1.webtv.sk">
     <title lang="id">Dobré ráno</title>
   </programme>
-  <programme start="20260516024000 +0000" stop="20260516030500 +0000" channel="ČT1.webtv.sk">
+  <programme start="20260516024000 +0000" stop="20260516030600 +0000" channel="ČT1.webtv.sk">
     <title lang="id">Bydlení je hra</title>
   </programme>
-  <programme start="20260516030500 +0000" stop="20260516033000 +0000" channel="ČT1.webtv.sk">
+  <programme start="20260516030600 +0000" stop="20260516033000 +0000" channel="ČT1.webtv.sk">
     <title lang="id">Zahrada je hra</title>
   </programme>
   <programme start="20260516033000 +0000" stop="20260516040000 +0000" channel="ČT1.webtv.sk">
@@ -3208,10 +3208,10 @@
   <programme start="20260516070000 +0000" stop="20260516074000 +0000" channel="ČT1.webtv.sk">
     <title lang="id">Úsměvy Ivy Janžurové</title>
   </programme>
-  <programme start="20260516074000 +0000" stop="20260516081100 +0000" channel="ČT1.webtv.sk">
+  <programme start="20260516074000 +0000" stop="20260516081000 +0000" channel="ČT1.webtv.sk">
     <title lang="id">Gejzír</title>
   </programme>
-  <programme start="20260516081100 +0000" stop="20260516090500 +0000" channel="ČT1.webtv.sk">
+  <programme start="20260516081000 +0000" stop="20260516090500 +0000" channel="ČT1.webtv.sk">
     <title lang="id">Nautilus (10/10)</title>
   </programme>
   <programme start="20260516090500 +0000" stop="20260516100000 +0000" channel="ČT1.webtv.sk">
@@ -3508,10 +3508,10 @@
   <programme start="20260516001100 +0000" stop="20260516002400 +0000" channel="ČT :D - ČT art.webtv.sk">
     <title lang="id">Flamenco, můj život</title>
   </programme>
-  <programme start="20260516002400 +0000" stop="20260516022700 +0000" channel="ČT :D - ČT art.webtv.sk">
+  <programme start="20260516002400 +0000" stop="20260516022600 +0000" channel="ČT :D - ČT art.webtv.sk">
     <title lang="id">Tečka páteční noci</title>
   </programme>
-  <programme start="20260516022700 +0000" stop="20260516023700 +0000" channel="ČT :D - ČT art.webtv.sk">
+  <programme start="20260516022600 +0000" stop="20260516023700 +0000" channel="ČT :D - ČT art.webtv.sk">
     <title lang="id">Ludmila Seefried-Matějková</title>
   </programme>
   <programme start="20260516023700 +0000" stop="20260516030800 +0000" channel="ČT :D - ČT art.webtv.sk">
@@ -3526,11 +3526,11 @@
   <programme start="20260516040000 +0000" stop="20260516040700 +0000" channel="ČT :D - ČT art.webtv.sk">
     <title lang="id">Raníček</title>
   </programme>
-  <programme start="20260516040700 +0000" stop="20260516041500 +0000" channel="ČT :D - ČT art.webtv.sk">
-    <title lang="id">Prasátko Peppa X</title>
-  </programme>
-  <programme start="20260516041500 +0000" stop="20260516041800 +0000" channel="ČT :D - ČT art.webtv.sk">
+  <programme start="20260516040700 +0000" stop="20260516041300 +0000" channel="ČT :D - ČT art.webtv.sk">
     <title lang="id">Prasátko Peppa IX</title>
+  </programme>
+  <programme start="20260516041300 +0000" stop="20260516041800 +0000" channel="ČT :D - ČT art.webtv.sk">
+    <title lang="id">Prasátko Peppa X</title>
   </programme>
   <programme start="20260516041800 +0000" stop="20260516042500 +0000" channel="ČT :D - ČT art.webtv.sk">
     <title lang="id">Prasátko Peppa IX</title>
