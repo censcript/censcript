@@ -1545,12 +1545,12 @@
     <desc lang="id">Tercyduk</desc>
     <icon src="https://thumbor.prod.vidiocdn.com/NdmzqkxqnWVnlngtk_ObYNT-wiY=/287x162/filters:strip_icc():quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/image/206/moji-a5bd3e.jpg"/>
   </programme>
-  <programme channel="206" start="20260514072500 +0000" stop="20260514100000 +0000">
+  <programme channel="206" start="20260514072500 +0000" stop="20260514093600 +0000">
     <title lang="id">AVC Mens Champions League 2026 Fs.15:00</title>
     <desc lang="id">AVC Mens Champions League 2026 Fs.15:00</desc>
     <icon src="https://thumbor.prod.vidiocdn.com/NdmzqkxqnWVnlngtk_ObYNT-wiY=/287x162/filters:strip_icc():quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/image/206/moji-a5bd3e.jpg"/>
   </programme>
-  <programme channel="206" start="20260514100000 +0000" stop="20260514113000 +0000">
+  <programme channel="206" start="20260514093600 +0000" stop="20260514113000 +0000">
     <title lang="id">American Ninja Warrior Junior</title>
     <desc lang="id">American Ninja Warrior Junior</desc>
     <icon src="https://thumbor.prod.vidiocdn.com/JeOMB4wzTGlhXoRaCZTifmuJM5c=/287x162/filters:strip_icc():quality(70)/vidio-media-production/uploads/livestreaming/schedule/thumbnail/5062702/6b606c.jpg"/>
@@ -7722,7 +7722,7 @@
   </programme>
   <programme channel="783" start="20260514180000 +0000" stop="20260514190000 +0000">
     <title lang="id">Kabar Petang</title>
-    <icon src="https://thumbor.prod.vidiocdn.com/TyXbaZqF_g2hn94imFJllHzaz_Q=/287x162/filters:strip_icc():quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/image/783/tvone-bb42ce.jpg"/>
+    <icon src="https://thumbor.prod.vidiocdn.com/cIaZOlSkAoJYIFgG_q9YQiAtYoM=/287x162/filters:strip_icc():quality(70)/vidio-media-production/uploads/livestreaming/schedule/thumbnail/5070090/501baf.jpg"/>
   </programme>
   <programme channel="783" start="20260514190000 +0000" stop="20260514193000 +0000">
     <title lang="id">Kabar Petang</title>
@@ -21156,29 +21156,34 @@ dan komprehensif mengenai berbagai topik yang relevan dalam kehidupan sehari-har
     <icon src="https://thumbor.prod.vidiocdn.com/YBK8XRc1cWJx0JfM3CWo6PnTfFY=/287x162/filters:strip_icc():quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/image/17139/spotv-c18c69.jpg"/>
   </programme>
   <programme channel="17139" start="20260516073500 +0000" stop="20260516081000 +0000">
-    <title lang="id">SBK FP3 : 2026 WorldSBK: Rd 5 Czech Round</title>
-    <desc lang="id">The FIM Superbike World Championship is the leading production motorcycle racing series in the world with over 100 riders from more than 20 countries competing in various classes over 12 rounds.</desc>
-    <icon src="https://thumbor.prod.vidiocdn.com/YBK8XRc1cWJx0JfM3CWo6PnTfFY=/287x162/filters:strip_icc():quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/image/17139/spotv-c18c69.jpg"/>
+    <title lang="id">WorldSBK Free Practice 3 - WorldSBK Championship 2026 Round 5 Czech Round</title>
+    <desc lang="id">Nonton streaming pertandingan seru WorldSBK Free Practice 3 - WorldSBK Championship 2026 Round 5 Czech Round. Saksikan aksi-aksi terbaik dari tim yang bersaing ketat untuk meraih kemenangan. Dapatkan informasi lengkap mengenai jadwal pertandingan dan hasil pertandingan terbaru hanya di Vidio.</desc>
+    <icon src="https://thumbor.prod.vidiocdn.com/bnN6SUMOUbokbyevvw9a2uLEK3Y=/287x162/filters:strip_icc():quality(70)/vidio-media-production/uploads/livestreaming/schedule/thumbnail/5074266/af9f0b.jpg"/>
   </programme>
   <programme channel="17139" start="20260516081000 +0000" stop="20260516090500 +0000">
     <title lang="id">Margaret River Pro Finals Day : 2026 World Surf League Replay</title>
     <desc lang="id">Be sure to catch the inspirational power of surfing through the 2026 WSL Championship Tour &amp; Challenger Series.</desc>
     <icon src="https://thumbor.prod.vidiocdn.com/YBK8XRc1cWJx0JfM3CWo6PnTfFY=/287x162/filters:strip_icc():quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/image/17139/spotv-c18c69.jpg"/>
   </programme>
-  <programme channel="17139" start="20260516090500 +0000" stop="20260516094500 +0000">
-    <title lang="id">SBK Tissot Superpole : 2026 WorldSBK: Rd 5 Czech Round</title>
-    <desc lang="id">The FIM Superbike World Championship is the leading production motorcycle racing series in the world with over 100 riders from more than 20 countries competing in various classes over 12 rounds.</desc>
-    <icon src="https://thumbor.prod.vidiocdn.com/YBK8XRc1cWJx0JfM3CWo6PnTfFY=/287x162/filters:strip_icc():quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/image/17139/spotv-c18c69.jpg"/>
+  <programme channel="17139" start="20260516090500 +0000" stop="20260516101500 +0000">
+    <title lang="id">WorldSBK Tissot Superpole - WorldSBK Championship 2026 Round 5 Czech Round</title>
+    <desc lang="id">Nonton streaming pertandingan seru WorldSBK Tissot Superpole - WorldSBK Championship 2026 Round 5 Czech Round. Saksikan aksi-aksi terbaik dari tim yang bersaing ketat untuk meraih kemenangan. Dapatkan informasi lengkap mengenai jadwal pertandingan dan hasil pertandingan terbaru hanya di Vidio.</desc>
+    <icon src="https://thumbor.prod.vidiocdn.com/odN9BtuY0ZEapkDQnQ8VGsOJ5Mw=/287x162/filters:strip_icc():quality(70)/vidio-media-production/uploads/livestreaming/schedule/thumbnail/5074267/965390.jpg"/>
   </programme>
-  <programme channel="17139" start="20260516094500 +0000" stop="20260516102000 +0000">
-    <title lang="id">Highlights : 2026 Singapore T100</title>
-    <desc lang="id">40 of the world's best female and male professional triathletes battle over 8 breakneck 100km races in iconic locations around the globe in a bid to be crowned the T100 World Champions.</desc>
-    <icon src="https://thumbor.prod.vidiocdn.com/YBK8XRc1cWJx0JfM3CWo6PnTfFY=/287x162/filters:strip_icc():quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/image/17139/spotv-c18c69.jpg"/>
+  <programme channel="17139" start="20260516101500 +0000" stop="20260516113500 +0000">
+    <title lang="id">WorldSSP Race 1 - WorldSBK Championship 2026 Round 5 Czech Round</title>
+    <desc lang="id">Nonton streaming pertandingan seru WorldSSP Race 1 - WorldSBK Championship 2026 Round 5 Czech Round. Saksikan aksi-aksi terbaik dari tim yang bersaing ketat untuk meraih kemenangan. Dapatkan informasi lengkap mengenai jadwal pertandingan dan hasil pertandingan terbaru hanya di Vidio.</desc>
+    <icon src="https://thumbor.prod.vidiocdn.com/LW0vCiOwzhYaIM074TQydaDd_JY=/287x162/filters:strip_icc():quality(70)/vidio-media-production/uploads/livestreaming/schedule/thumbnail/5074268/8ffe51.jpg"/>
   </programme>
-  <programme channel="17139" start="20260516102000 +0000" stop="20260516143000 +0000">
-    <title lang="id">SSP/SBK/SPB Race 1 : 2026 WorldSBK: Rd 5 Czech Round</title>
-    <desc lang="id">The FIM Superbike World Championship is the leading production motorcycle racing series in the world with over 100 riders from more than 20 countries competing in various classes over 12 rounds.</desc>
-    <icon src="https://thumbor.prod.vidiocdn.com/YBK8XRc1cWJx0JfM3CWo6PnTfFY=/287x162/filters:strip_icc():quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/image/17139/spotv-c18c69.jpg"/>
+  <programme channel="17139" start="20260516113500 +0000" stop="20260516130000 +0000">
+    <title lang="id">WorldSBK Race 1 - WorldSBK Championship 2026 Round 5 Czech Round</title>
+    <desc lang="id">Nonton streaming pertandingan seru WorldSBK Race 1 - WorldSBK Championship 2026 Round 5 Czech Round. Saksikan aksi-aksi terbaik dari tim yang bersaing ketat untuk meraih kemenangan. Dapatkan informasi lengkap mengenai jadwal pertandingan dan hasil pertandingan terbaru hanya di Vidio.</desc>
+    <icon src="https://thumbor.prod.vidiocdn.com/nn56h-ypOPHBQWBD6UTELCK_Hes=/287x162/filters:strip_icc():quality(70)/vidio-media-production/uploads/livestreaming/schedule/thumbnail/5074269/722777.jpg"/>
+  </programme>
+  <programme channel="17139" start="20260516130000 +0000" stop="20260516143000 +0000">
+    <title lang="id">WorldSPB Race 1 - WorldSBK Championship 2026 Round 5 Czech Round</title>
+    <desc lang="id">Nonton streaming pertandingan seru WorldSPB Race 1 - WorldSBK Championship 2026 Round 5 Czech Round. Saksikan aksi-aksi terbaik dari tim yang bersaing ketat untuk meraih kemenangan. Dapatkan informasi lengkap mengenai jadwal pertandingan dan hasil pertandingan terbaru hanya di Vidio.</desc>
+    <icon src="https://thumbor.prod.vidiocdn.com/T2EuHoe9tIVM1BPksALLib3ptx4=/287x162/filters:strip_icc():quality(70)/vidio-media-production/uploads/livestreaming/schedule/thumbnail/5074270/8b57a2.jpg"/>
   </programme>
   <programme channel="17139" start="20260516143000 +0000" stop="20260516163000 +0000">
     <title lang="id">SF 2nd Leg: Partick Thistle vs QF winner : 25/26 Scottish Premiership Play-off</title>
@@ -21196,9 +21201,9 @@ dan komprehensif mengenai berbagai topik yang relevan dalam kehidupan sehari-har
     <icon src="https://thumbor.prod.vidiocdn.com/YBK8XRc1cWJx0JfM3CWo6PnTfFY=/287x162/filters:strip_icc():quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/image/17139/spotv-c18c69.jpg"/>
   </programme>
   <programme channel="17139" start="20260516170000 +0000" stop="20260516230000 +0000">
-    <title lang="id">Round 3 : 2026 PGA Championship</title>
-    <desc lang="id">The world's top golfers compete for major glory, delivering powerful drives, precision play, and high-stakes drama on one of golf's biggest stages.</desc>
-    <icon src="https://thumbor.prod.vidiocdn.com/YBK8XRc1cWJx0JfM3CWo6PnTfFY=/287x162/filters:strip_icc():quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/image/17139/spotv-c18c69.jpg"/>
+    <title lang="id">Round 3 - PGA Championship 2026</title>
+    <desc lang="id">Nonton streaming pertandingan seru Round 3 - PGA Championship 2026. Saksikan aksi-aksi terbaik dari tim yang bersaing ketat untuk meraih kemenangan. Dapatkan informasi lengkap mengenai jadwal pertandingan dan hasil pertandingan terbaru hanya di Vidio.</desc>
+    <icon src="https://thumbor.prod.vidiocdn.com/7vO6Zfp8lxCEqzkFrb9W8LShJ04=/287x162/filters:strip_icc():quality(70)/vidio-media-production/uploads/livestreaming/schedule/thumbnail/5074271/8d0fcd.jpg"/>
   </programme>
   <programme channel="17139" start="20260516230000 +0000" stop="20260517010000 +0000">
     <title lang="id">Al Kholood vs Al Hilal : 2025/26 King's Cup Final</title>
@@ -21226,19 +21231,29 @@ dan komprehensif mengenai berbagai topik yang relevan dalam kehidupan sehari-har
     <icon src="https://thumbor.prod.vidiocdn.com/YBK8XRc1cWJx0JfM3CWo6PnTfFY=/287x162/filters:strip_icc():quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/image/17139/spotv-c18c69.jpg"/>
   </programme>
   <programme channel="17139" start="20260517085500 +0000" stop="20260517094500 +0000">
-    <title lang="id">SBK Tissot Superpole Race : 2026 WorldSBK: Rd 5 Czech Round</title>
-    <desc lang="id">The FIM Superbike World Championship is the leading production motorcycle racing series in the world with over 100 riders from more than 20 countries competing in various classes over 12 rounds.</desc>
-    <icon src="https://thumbor.prod.vidiocdn.com/YBK8XRc1cWJx0JfM3CWo6PnTfFY=/287x162/filters:strip_icc():quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/image/17139/spotv-c18c69.jpg"/>
+    <title lang="id">WorldSBK Tissot Superpole Race - WorldSBK Championship 2026 Round 5 Czech Round</title>
+    <desc lang="id">Nonton streaming pertandingan seru WorldSBK Tissot Superpole Race - WorldSBK Championship 2026 Round 5 Czech Round. Saksikan aksi-aksi terbaik dari tim yang bersaing ketat untuk meraih kemenangan. Dapatkan informasi lengkap mengenai jadwal pertandingan dan hasil pertandingan terbaru hanya di Vidio.</desc>
+    <icon src="https://thumbor.prod.vidiocdn.com/xRxA-8YEZUfJDUP9lWz4u2LRaVs=/287x162/filters:strip_icc():quality(70)/vidio-media-production/uploads/livestreaming/schedule/thumbnail/5074272/af5906.jpg"/>
   </programme>
   <programme channel="17139" start="20260517094500 +0000" stop="20260517105000 +0000">
     <title lang="id">Rip Curl Pro Bells Beach : 2026 WSL Inside Pro Surfing</title>
     <desc lang="id">Be sure to catch the inspirational power of surfing through the 2026 WSL Championship Tour &amp; Challenger Series.</desc>
     <icon src="https://thumbor.prod.vidiocdn.com/YBK8XRc1cWJx0JfM3CWo6PnTfFY=/287x162/filters:strip_icc():quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/image/17139/spotv-c18c69.jpg"/>
   </programme>
-  <programme channel="17139" start="20260517105000 +0000" stop="20260517143000 +0000">
-    <title lang="id">SPB/SSP/SBK Race 2 : 2026 WorldSBK: Rd 5 Czech Round</title>
-    <desc lang="id">The FIM Superbike World Championship is the leading production motorcycle racing series in the world with over 100 riders from more than 20 countries competing in various classes over 12 rounds.</desc>
-    <icon src="https://thumbor.prod.vidiocdn.com/YBK8XRc1cWJx0JfM3CWo6PnTfFY=/287x162/filters:strip_icc():quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/image/17139/spotv-c18c69.jpg"/>
+  <programme channel="17139" start="20260517105000 +0000" stop="20260517120000 +0000">
+    <title lang="id">WorldSPB Race 2 - WorldSBK Championship 2026 Round 5 Czech Round</title>
+    <desc lang="id">Nonton streaming pertandingan seru WorldSPB Race 2 - WorldSBK Championship 2026 Round 5 Czech Round. Saksikan aksi-aksi terbaik dari tim yang bersaing ketat untuk meraih kemenangan. Dapatkan informasi lengkap mengenai jadwal pertandingan dan hasil pertandingan terbaru hanya di Vidio.</desc>
+    <icon src="https://thumbor.prod.vidiocdn.com/2JHk3ybKo3S7SQHcENJwW2g4Pac=/287x162/filters:strip_icc():quality(70)/vidio-media-production/uploads/livestreaming/schedule/thumbnail/5074275/61245a.jpg"/>
+  </programme>
+  <programme channel="17139" start="20260517120000 +0000" stop="20260517131000 +0000">
+    <title lang="id">WorldSSP Race 2 - WorldSBK Championship 2026 Round 5 Czech Round</title>
+    <desc lang="id">Nonton streaming pertandingan seru WorldSSP Race 2 - WorldSBK Championship 2026 Round 5 Czech Round. Saksikan aksi-aksi terbaik dari tim yang bersaing ketat untuk meraih kemenangan. Dapatkan informasi lengkap mengenai jadwal pertandingan dan hasil pertandingan terbaru hanya di Vidio.</desc>
+    <icon src="https://thumbor.prod.vidiocdn.com/lmEoNVzK9QDDtqjEKDK0OGqAXTI=/287x162/filters:strip_icc():quality(70)/vidio-media-production/uploads/livestreaming/schedule/thumbnail/5074276/0b004b.jpg"/>
+  </programme>
+  <programme channel="17139" start="20260517131000 +0000" stop="20260517143000 +0000">
+    <title lang="id">WorldSBK Race 2 - WorldSBK Championship 2026 Round 5 Czech Round</title>
+    <desc lang="id">Nonton streaming pertandingan seru WorldSBK Race 2 - WorldSBK Championship 2026 Round 5 Czech Round. Saksikan aksi-aksi terbaik dari tim yang bersaing ketat untuk meraih kemenangan. Dapatkan informasi lengkap mengenai jadwal pertandingan dan hasil pertandingan terbaru hanya di Vidio.</desc>
+    <icon src="https://thumbor.prod.vidiocdn.com/zAYvVKa-YKMlHDxXzBI4udYXefg=/287x162/filters:strip_icc():quality(70)/vidio-media-production/uploads/livestreaming/schedule/thumbnail/5074277/5ae5ff.jpg"/>
   </programme>
   <programme channel="17139" start="20260517143000 +0000" stop="20260517150000 +0000">
     <title lang="id">Highlights : 2026 Singapore T100</title>

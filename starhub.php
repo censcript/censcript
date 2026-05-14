@@ -2222,7 +2222,7 @@
         <title>HSBC SVNS World C&#039;ships 2026: Fiji vs Argentina - Cup QF4, Hong Kong - Men</title>
     </programme>
     <programme start="20260514055500 +0000" stop="20260514062000 +0000" channel="beIN Sports 2 HD.starhub">
-        <title>HSBC SVNS World C&#039;ships 2026: Argentina vs South Africa - 11th Place Play-off, Hong Kong - Women</title>
+        <title>HSBC SVNS World C&#039;ships 2026: Argentina vs South Africa - 11th Place Play-off, H</title>
     </programme>
     <programme start="20260514062000 +0000" stop="20260514065000 +0000" channel="beIN Sports 2 HD.starhub">
         <title>This Is Paris 2025/26</title>
@@ -2231,10 +2231,10 @@
         <title>TotalEnergies U-17 Africa Cup of Nations, Morocco 2026: Morocco vs Tunisia</title>
     </programme>
     <programme start="20260514084000 +0000" stop="20260514091000 +0000" channel="beIN Sports 2 HD.starhub">
-        <title>Mini Match - Roland Garros 2025: Men&#039;s Doubles Final Granollers/Zeballos v Salisbury/Skupski</title>
+        <title>Mini Match - Roland Garros 2025: Men&#039;s Doubles Final Granollers/Zeballos v Salis</title>
     </programme>
     <programme start="20260514091000 +0000" stop="20260514094000 +0000" channel="beIN Sports 2 HD.starhub">
-        <title>Mini Match - Roland Garros 2025: Women&#039;s Doubles Final Paolini/Errani v Krunic/Danilina</title>
+        <title>Mini Match - Roland Garros 2025: Women&#039;s Doubles Final Paolini/Errani v Krunic/D</title>
     </programme>
     <programme start="20260514094000 +0000" stop="20260514101000 +0000" channel="beIN Sports 2 HD.starhub">
         <title>Mini Match - Roland Garros 2025: Women&#039;s Singles SF 2 Gauff v Boisson</title>
@@ -3857,16 +3857,22 @@
         <title>News &amp; Weather</title>
     </programme>
     <programme start="20260514010500 +0000" stop="20260514015000 +0000" channel="NHK World Premium HD.starhub">
-        <title>Hidden Doors! Exploring the Unknown World (R)</title>
+        <title>Hidden Doors! Exploring the Unknown World &quot;Natural Rubber from Thailand&quot; (R)</title>
     </programme>
-    <programme start="20260514015000 +0000" stop="20260514021700 +0000" channel="NHK World Premium HD.starhub">
-        <title>Today&#039;s Close-up (R)</title>
+    <programme start="20260514015000 +0000" stop="20260514020000 +0000" channel="NHK World Premium HD.starhub">
+        <title>Natural Grandeur of the East Mini</title>
     </programme>
-    <programme start="20260514021700 +0000" stop="20260514022000 +0000" channel="NHK World Premium HD.starhub">
+    <programme start="20260514020000 +0000" stop="20260514023700 +0000" channel="NHK World Premium HD.starhub">
+        <title>News</title>
+    </programme>
+    <programme start="20260514023700 +0000" stop="20260514024000 +0000" channel="NHK World Premium HD.starhub">
         <title>Mini Program</title>
     </programme>
-    <programme start="20260514022000 +0000" stop="20260514025000 +0000" channel="NHK World Premium HD.starhub">
-        <title>Sleepless Night Talk with the Singer AI (R)</title>
+    <programme start="20260514024000 +0000" stop="20260514024500 +0000" channel="NHK World Premium HD.starhub">
+        <title>100 Beautiful Mountains of Japan Mini</title>
+    </programme>
+    <programme start="20260514024500 +0000" stop="20260514025000 +0000" channel="NHK World Premium HD.starhub">
+        <title>Giant Trees in Japan Mini</title>
     </programme>
     <programme start="20260514025000 +0000" stop="20260514025500 +0000" channel="NHK World Premium HD.starhub">
         <title>Songs for Everyone</title>
@@ -3874,14 +3880,8 @@
     <programme start="20260514025500 +0000" stop="20260514030000 +0000" channel="NHK World Premium HD.starhub">
         <title>World Weather</title>
     </programme>
-    <programme start="20260514030000 +0000" stop="20260514032000 +0000" channel="NHK World Premium HD.starhub">
+    <programme start="20260514030000 +0000" stop="20260514033000 +0000" channel="NHK World Premium HD.starhub">
         <title>News</title>
-    </programme>
-    <programme start="20260514032000 +0000" stop="20260514032800 +0000" channel="NHK World Premium HD.starhub">
-        <title>Information Worth Knowing from the News Commentator Bureau</title>
-    </programme>
-    <programme start="20260514032800 +0000" stop="20260514033000 +0000" channel="NHK World Premium HD.starhub">
-        <title>Mini Program</title>
     </programme>
     <programme start="20260514033000 +0000" stop="20260514034500 +0000" channel="NHK World Premium HD.starhub">
         <title>Drama Serial &quot;Massan&quot; Encore Ep. 97</title>
@@ -3955,8 +3955,11 @@
     <programme start="20260514120000 +0000" stop="20260514130000 +0000" channel="NHK World Premium HD.starhub">
         <title>News Watch 9 (B)</title>
     </programme>
-    <programme start="20260514130000 +0000" stop="20260514134500 +0000" channel="NHK World Premium HD.starhub">
+    <programme start="20260514130000 +0000" stop="20260514133500 +0000" channel="NHK World Premium HD.starhub">
         <title>Songs of Our Generation</title>
+    </programme>
+    <programme start="20260514133500 +0000" stop="20260514134500 +0000" channel="NHK World Premium HD.starhub">
+        <title>Natural Grandeur of the East Mini</title>
     </programme>
     <programme start="20260514134500 +0000" stop="20260514140000 +0000" channel="NHK World Premium HD.starhub">
         <title>Night Drama Serial &quot;Radio Star&quot; Ep. 28</title>
