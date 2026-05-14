@@ -3387,10 +3387,10 @@ Warning: Undefined array key "et" in /usr/home/ManusiaBiasa/domains/manusiabiasa
     <title>Golf: Greatest Holes (3)</title>
 </programme>
 <programme start="20260514170000 +0000" stop="20260514190000 +0000" channel="Sky Sport UHD.skyde">
-    <title>PL: Manchester City - Crystal Palace, Nachholspiel vom 31. Spieltag</title>
+    <title>PL: Tottenham Hotspur - Leeds United, 36. Spieltag</title>
 </programme>
 <programme start="20260514170000 +0000" stop="20260514190000 +0000" channel="Sky Sport UHD.skyde">
-    <title>PL: Tottenham Hotspur - Leeds United, 36. Spieltag</title>
+    <title>PL: Manchester City - Crystal Palace, Nachholspiel vom 31. Spieltag</title>
 </programme>
 <programme start="20260514190000 +0000" stop="20260514210000 +0000" channel="Sky Sport UHD.skyde">
     <title>PL: West Ham United - FC Arsenal, Match of the Week, 36. Spieltag</title>

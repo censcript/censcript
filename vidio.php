@@ -7399,25 +7399,19 @@
     <desc lang="id">Inside Round 37</desc>
     <icon src="https://thumbor.prod.vidiocdn.com/edoqRinFCRhrRwQ2ngcXacb_q74=/287x162/filters:strip_icc():quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/image/6685/champions-tv-1-54e282.jpg"/>
   </programme>
-  <programme channel="6685" start="20260516140000 +0000" stop="20260516160000 +0000">
-    <title lang="id">AFC Ajax vs FC Utrecht : Dutch League 2025/26</title>
-    <desc lang="id">AFC Ajax vs FC Utrecht</desc>
+  <programme channel="6685" start="20260516140000 +0000" stop="20260516150000 +0000">
+    <title lang="id">Sport Program</title>
     <icon src="https://thumbor.prod.vidiocdn.com/edoqRinFCRhrRwQ2ngcXacb_q74=/287x162/filters:strip_icc():quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/image/6685/champions-tv-1-54e282.jpg"/>
   </programme>
-  <programme channel="6685" start="20260516160000 +0000" stop="20260516163000 +0000">
-    <title lang="id">Highlight - Round 33 : Portuguese League 2025/26</title>
-    <desc lang="id">Highlight Round 33</desc>
-    <icon src="https://thumbor.prod.vidiocdn.com/edoqRinFCRhrRwQ2ngcXacb_q74=/287x162/filters:strip_icc():quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/image/6685/champions-tv-1-54e282.jpg"/>
+  <programme channel="6685" start="20260516150000 +0000" stop="20260516170000 +0000">
+    <title lang="id">Final - WTA 1000: Internazionali BNL D'Italia 2026</title>
+    <desc lang="id">Nonton streaming pertandingan seru Final - WTA 1000: Internazionali BNL D'Italia 2026. Saksikan aksi-aksi terbaik dari tim yang bersaing ketat untuk meraih kemenangan. Dapatkan informasi lengkap mengenai jadwal pertandingan dan hasil pertandingan terbaru hanya di Vidio.</desc>
+    <icon src="https://thumbor.prod.vidiocdn.com/EebQ7d1HPn0rQf4ydTRaJvzCgps=/287x162/filters:strip_icc():quality(70)/vidio-media-production/uploads/livestreaming/schedule/thumbnail/5074616/68ab41.jpg"/>
   </programme>
-  <programme channel="6685" start="20260516163000 +0000" stop="20260516170000 +0000">
-    <title lang="id">Match 35 - Final : WTA 1000 Internazionali BNL d'Italia, Rome</title>
-    <desc lang="id">Match 35 Final</desc>
-    <icon src="https://thumbor.prod.vidiocdn.com/edoqRinFCRhrRwQ2ngcXacb_q74=/287x162/filters:strip_icc():quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/image/6685/champions-tv-1-54e282.jpg"/>
-  </programme>
-  <programme channel="6685" start="20260516163000 +0000" stop="20260516170000 +0000">
-    <title lang="id">Match 35 - Final : WTA 1000 Internazionali BNL d'Italia, Rome</title>
-    <desc lang="id">Match 35 Final</desc>
-    <icon src="https://thumbor.prod.vidiocdn.com/edoqRinFCRhrRwQ2ngcXacb_q74=/287x162/filters:strip_icc():quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/image/6685/champions-tv-1-54e282.jpg"/>
+  <programme channel="6685" start="20260516150000 +0000" stop="20260516170000 +0000">
+    <title lang="id">Final - WTA 1000: Internazionali BNL D'Italia 2026</title>
+    <desc lang="id">Nonton streaming pertandingan seru Final - WTA 1000: Internazionali BNL D'Italia 2026. Saksikan aksi-aksi terbaik dari tim yang bersaing ketat untuk meraih kemenangan. Dapatkan informasi lengkap mengenai jadwal pertandingan dan hasil pertandingan terbaru hanya di Vidio.</desc>
+    <icon src="https://thumbor.prod.vidiocdn.com/EebQ7d1HPn0rQf4ydTRaJvzCgps=/287x162/filters:strip_icc():quality(70)/vidio-media-production/uploads/livestreaming/schedule/thumbnail/5074616/68ab41.jpg"/>
   </programme>
   <programme channel="6685" start="20260516170000 +0000" stop="20260516190000 +0000">
     <title lang="id">Salford City vs Grimsby Town : EFL 2025/26 League Two</title>
@@ -12711,21 +12705,17 @@
     <desc lang="id">MILAN vs ATALANTA</desc>
     <icon src="https://thumbor.prod.vidiocdn.com/nY0aFklpYf6yONLaFJjxhiSuthc=/287x162/filters:strip_icc():quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/image/6786/champions-tv-3-76ca7c.jpg"/>
   </programme>
-  <programme channel="6786" start="20260514173000 +0000" stop="20260514183000 +0000">
+  <programme channel="6786" start="20260514173000 +0000" stop="20260514200000 +0000">
     <title lang="id">MADRID - HIGHLIGHTS SHOW : WTA 2026 - Highlight</title>
     <desc lang="id">MADRID - HIGHLIGHTS SHOW</desc>
     <icon src="https://thumbor.prod.vidiocdn.com/nY0aFklpYf6yONLaFJjxhiSuthc=/287x162/filters:strip_icc():quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/image/6786/champions-tv-3-76ca7c.jpg"/>
   </programme>
-  <programme channel="6786" start="20260514183000 +0000" stop="20260514203000 +0000">
+  <programme channel="6786" start="20260514200000 +0000" stop="20260514213000 +0000">
     <title lang="id">Iga Swiatek vs Elina Svitolina - Semifinals | WTA 1000: Internazionali BNL D'Italia 2026</title>
     <desc lang="id">Nonton streaming pertandingan seru Semifinals - WTA 1000: Internazionali BNL D'Italia 2026. Saksikan aksi-aksi terbaik dari tim yang bersaing ketat untuk meraih kemenangan. Dapatkan informasi lengkap mengenai jadwal pertandingan dan hasil pertandingan terbaru hanya di Vidio.</desc>
     <icon src="https://thumbor.prod.vidiocdn.com/mNyYE8VRexwqec21bMsFzmO6Hjo=/287x162/filters:strip_icc():quality(70)/vidio-media-production/uploads/livestreaming/schedule/thumbnail/5071465/99d63f.jpg"/>
   </programme>
-  <programme channel="6786" start="20260514203000 +0000" stop="20260514210000 +0000">
-    <title lang="id">Filler</title>
-    <icon src="https://thumbor.prod.vidiocdn.com/nY0aFklpYf6yONLaFJjxhiSuthc=/287x162/filters:strip_icc():quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/image/6786/champions-tv-3-76ca7c.jpg"/>
-  </programme>
-  <programme channel="6786" start="20260514210000 +0000" stop="20260514230000 +0000">
+  <programme channel="6786" start="20260514213000 +0000" stop="20260514230000 +0000">
     <title lang="id">HELLAS VERONA vs COMO : Serie A 2025/26</title>
     <desc lang="id">HELLAS VERONA vs COMO</desc>
     <icon src="https://thumbor.prod.vidiocdn.com/nY0aFklpYf6yONLaFJjxhiSuthc=/287x162/filters:strip_icc():quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/image/6786/champions-tv-3-76ca7c.jpg"/>
@@ -14195,12 +14185,12 @@ dan komprehensif mengenai berbagai topik yang relevan dalam kehidupan sehari-har
     <desc lang="id">Match Round 32</desc>
     <icon src="https://thumbor.prod.vidiocdn.com/xgkik6iws0EJ01bi5cJsIjYWjOM=/287x162/filters:strip_icc():quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/image/6686/champions-tv-2-681a27.jpg"/>
   </programme>
-  <programme channel="6686" start="20260514170000 +0000" stop="20260514190000 +0000">
+  <programme channel="6686" start="20260514170000 +0000" stop="20260514190500 +0000">
     <title lang="id">Atalanta Vs Juventus : Serie A 2025/26</title>
     <desc lang="id">ATALANTA VS JUVENTUS</desc>
     <icon src="https://thumbor.prod.vidiocdn.com/xgkik6iws0EJ01bi5cJsIjYWjOM=/287x162/filters:strip_icc():quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/image/6686/champions-tv-2-681a27.jpg"/>
   </programme>
-  <programme channel="6686" start="20260514190000 +0000" stop="20260514210000 +0000">
+  <programme channel="6686" start="20260514190500 +0000" stop="20260514210000 +0000">
     <title lang="id">Exeter City Vs Bradford City : EFL 2025/26 Championship</title>
     <desc lang="id">EXETER CITY VS BRADFORD CITY</desc>
     <icon src="https://thumbor.prod.vidiocdn.com/xgkik6iws0EJ01bi5cJsIjYWjOM=/287x162/filters:strip_icc():quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/image/6686/champions-tv-2-681a27.jpg"/>
@@ -16127,29 +16117,24 @@ dan komprehensif mengenai berbagai topik yang relevan dalam kehidupan sehari-har
     <icon src="https://thumbor.prod.vidiocdn.com/r_QaZubFaj9Ht_TI2kDgdImcRqY=/287x162/filters:strip_icc():quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/image/9182/champions-tv-5-e0dd48.jpg"/>
   </programme>
   <programme channel="9182" start="20260517110000 +0000" stop="20260517133000 +0000">
-    <title lang="id">Aston Villa Vs Liverpool :Premier League 2025/26</title>
-    <desc lang="id">ASTON VILLA vs LIVERPOOL</desc>
-    <icon src="https://thumbor.prod.vidiocdn.com/r_QaZubFaj9Ht_TI2kDgdImcRqY=/287x162/filters:strip_icc():quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/image/9182/champions-tv-5-e0dd48.jpg"/>
+    <title lang="id">Man United vs Nottingham Forest - Premier League</title>
+    <desc lang="id">Nonton streaming pertandingan seru Man United vs Nottingham Forest - Premier League. Saksikan aksi-aksi terbaik dari tim yang bersaing ketat untuk meraih kemenangan. Dapatkan informasi lengkap mengenai jadwal pertandingan dan hasil pertandingan terbaru hanya di Vidio.</desc>
+    <icon src="https://thumbor.prod.vidiocdn.com/R_B3Bp5GHvtV30HNx1K5pupp9qs=/287x162/filters:strip_icc():quality(70)/vidio-media-production/uploads/livestreaming/schedule/thumbnail/5074618/6e27ec.jpg"/>
   </programme>
-  <programme channel="9182" start="20260517133000 +0000" stop="20260517161000 +0000">
-    <title lang="id">Brentford Vs Crystal Palace :Premier League 2025/26</title>
-    <desc lang="id">BRENTFORD vs CRYSTAL PALACE</desc>
-    <icon src="https://thumbor.prod.vidiocdn.com/r_QaZubFaj9Ht_TI2kDgdImcRqY=/287x162/filters:strip_icc():quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/image/9182/champions-tv-5-e0dd48.jpg"/>
+  <programme channel="9182" start="20260517140000 +0000" stop="20260517160000 +0000">
+    <title lang="id">Leeds United vs Brighton - Premier League</title>
+    <desc lang="id">Nonton streaming pertandingan seru Leeds United vs Brighton - Premier League. Saksikan aksi-aksi terbaik dari tim yang bersaing ketat untuk meraih kemenangan. Dapatkan informasi lengkap mengenai jadwal pertandingan dan hasil pertandingan terbaru hanya di Vidio.</desc>
+    <icon src="https://thumbor.prod.vidiocdn.com/Dv6ZouyGvAkWOVQ1bpjjJqfgDJk=/287x162/filters:strip_icc():quality(70)/vidio-media-production/uploads/livestreaming/schedule/thumbnail/5074619/0a3a03.jpg"/>
   </programme>
-  <programme channel="9182" start="20260517161000 +0000" stop="20260517170000 +0000">
-    <title lang="id">Newcastle Vs West Ham United :Premier League 2025/26</title>
-    <desc lang="id">NEWCASTLE vs WEST HAM UNITED</desc>
-    <icon src="https://thumbor.prod.vidiocdn.com/r_QaZubFaj9Ht_TI2kDgdImcRqY=/287x162/filters:strip_icc():quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/image/9182/champions-tv-5-e0dd48.jpg"/>
+  <programme channel="9182" start="20260517163000 +0000" stop="20260517183000 +0000">
+    <title lang="id">Newcastle vs West Ham - Premier League</title>
+    <desc lang="id">Nonton streaming pertandingan seru Newcastle vs West Ham - Premier League. Saksikan aksi-aksi terbaik dari tim yang bersaing ketat untuk meraih kemenangan. Dapatkan informasi lengkap mengenai jadwal pertandingan dan hasil pertandingan terbaru hanya di Vidio.</desc>
+    <icon src="https://thumbor.prod.vidiocdn.com/_2Ee2gkI7nyoDUlaeJwxBCDLtzk=/287x162/filters:strip_icc():quality(70)/vidio-media-production/uploads/livestreaming/schedule/thumbnail/5074620/95acfd.jpg"/>
   </programme>
-  <programme channel="9182" start="20260517161000 +0000" stop="20260517170000 +0000">
-    <title lang="id">Newcastle Vs West Ham United :Premier League 2025/26</title>
-    <desc lang="id">NEWCASTLE vs WEST HAM UNITED</desc>
-    <icon src="https://thumbor.prod.vidiocdn.com/r_QaZubFaj9Ht_TI2kDgdImcRqY=/287x162/filters:strip_icc():quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/image/9182/champions-tv-5-e0dd48.jpg"/>
-  </programme>
-  <programme channel="9182" start="20260517170000 +0000" stop="20260517183000 +0000">
-    <title lang="id">Newcastle Vs West Ham United :Premier League 2025/26</title>
-    <desc lang="id">NEWCASTLE vs WEST HAM UNITED</desc>
-    <icon src="https://thumbor.prod.vidiocdn.com/r_QaZubFaj9Ht_TI2kDgdImcRqY=/287x162/filters:strip_icc():quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/image/9182/champions-tv-5-e0dd48.jpg"/>
+  <programme channel="9182" start="20260517163000 +0000" stop="20260517183000 +0000">
+    <title lang="id">Newcastle vs West Ham - Premier League</title>
+    <desc lang="id">Nonton streaming pertandingan seru Newcastle vs West Ham - Premier League. Saksikan aksi-aksi terbaik dari tim yang bersaing ketat untuk meraih kemenangan. Dapatkan informasi lengkap mengenai jadwal pertandingan dan hasil pertandingan terbaru hanya di Vidio.</desc>
+    <icon src="https://thumbor.prod.vidiocdn.com/_2Ee2gkI7nyoDUlaeJwxBCDLtzk=/287x162/filters:strip_icc():quality(70)/vidio-media-production/uploads/livestreaming/schedule/thumbnail/5074620/95acfd.jpg"/>
   </programme>
   <programme channel="9182" start="20260517183000 +0000" stop="20260517190000 +0000">
     <title lang="id">Highlight Show - Semi Final : FA CUP 2025/26</title>

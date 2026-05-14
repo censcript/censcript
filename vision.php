@@ -655,12 +655,6 @@
 <programme start="20260514103000 +0000" stop="20260514120000 +0000" channel="ANTV.vision">
 <title>Vasudha</title>
 </programme>
-<programme start="20260514163000 +0000" stop="20260514183000 +0000" channel="ANTV.vision">
-<title>Cakar Harimau</title>
-</programme>
-<programme start="20260514183000 +0000" stop="20260514193000 +0000" channel="ANTV.vision">
-<title>Out Of Inferno</title>
-</programme>
 <programme start="20260514193000 +0000" stop="20260514220000 +0000" channel="ANTV.vision">
 <title>Guru</title>
 </programme>
@@ -1496,5 +1490,11 @@
 <title>TVRI</title>
 </programme>
 <programme start="20260514010000 +0000" stop="20260514030000 +0000" channel="TVRI.vision">
+<title>TVRI</title>
+</programme>
+<programme start="20260514030000 +0000" stop="20260514050000 +0000" channel="TVRI.vision">
+<title>TVRI</title>
+</programme>
+<programme start="20260514050000 +0000" stop="20260514070000 +0000" channel="TVRI.vision">
 <title>TVRI</title>
 </programme>

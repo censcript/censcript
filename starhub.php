@@ -2168,19 +2168,19 @@
         <title>Premier Padel 2026: Buenos Aires P1 Day 3 Match 7 (Live)</title>
     </programme>
     <programme start="20260514233000 +0000" stop="20260514235500 +0000" channel="beIN Sports 2 HD.starhub">
-        <title>HSBC SVNS World C&#039;ships 2026: USA vs Germany - 11th Place Play-off, Hong Kong -</title>
+        <title>HSBC SVNS World C&#039;ships 2026: USA vs Germany - 11th Place Play-off, Hong Kong - Men</title>
     </programme>
     <programme start="20260514235500 +0000" stop="20260515002000 +0000" channel="beIN Sports 2 HD.starhub">
-        <title>HSBC SVNS World C&#039;ships 2026: Brazil vs Great Britain - 9th Place Play-off, Hong</title>
+        <title>HSBC SVNS World C&#039;ships 2026: Brazil vs Great Britain - 9th Place Play-off, Hong Kong - Women</title>
     </programme>
     <programme start="20260515002000 +0000" stop="20260515004500 +0000" channel="beIN Sports 2 HD.starhub">
-        <title>HSBC SVNS World C&#039;ships 2026: Great Britain vs Uruguay - 9th Place Play-off, Hon</title>
+        <title>HSBC SVNS World C&#039;ships 2026: Great Britain vs Uruguay - 9th Place Play-off, Hong Kong - Men</title>
     </programme>
     <programme start="20260515004500 +0000" stop="20260515011000 +0000" channel="beIN Sports 2 HD.starhub">
-        <title>HSBC SVNS World C&#039;ships 2026: Fiji vs Spain - 7th Place Play-off, Hong Kong - Wo</title>
+        <title>HSBC SVNS World C&#039;ships 2026: Fiji vs Spain - 7th Place Play-off, Hong Kong - Women</title>
     </programme>
     <programme start="20260515011000 +0000" stop="20260515013500 +0000" channel="beIN Sports 2 HD.starhub">
-        <title>HSBC SVNS World C&#039;ships 2026: France vs Kenya - 7th Place Play-off, Hong Kong -</title>
+        <title>HSBC SVNS World C&#039;ships 2026: France vs Kenya - 7th Place Play-off, Hong Kong - Men</title>
     </programme>
     <programme start="20260515013500 +0000" stop="20260515020000 +0000" channel="beIN Sports 2 HD.starhub">
         <title>HSBC SVNS World C&#039;ships 2026: Canada vs New Zealand - Cup SF1, Hong Kong - Women</title>
@@ -2207,16 +2207,16 @@
         <title>HSBC SVNS World C&#039;ships 2026: France vs Australia - Cup SF2, Hong Kong - Women</title>
     </programme>
     <programme start="20260515075000 +0000" stop="20260515081500 +0000" channel="beIN Sports 2 HD.starhub">
-        <title>HSBC SVNS World C&#039;ships 2026: New Zealand vs South Africa - Cup SF1, Hong Kong -</title>
+        <title>HSBC SVNS World C&#039;ships 2026: New Zealand vs South Africa - Cup SF1, Hong Kong - Men</title>
     </programme>
     <programme start="20260515081500 +0000" stop="20260515084000 +0000" channel="beIN Sports 2 HD.starhub">
         <title>HSBC SVNS World C&#039;ships 2026: Spain vs Argentina - Cup SF2, Hong Kong - Men</title>
     </programme>
     <programme start="20260515084000 +0000" stop="20260515090500 +0000" channel="beIN Sports 2 HD.starhub">
-        <title>HSBC SVNS World C&#039;ships 2026: USA vs Japan - 5th Place Play-off, Hong Kong - Wom</title>
+        <title>HSBC SVNS World C&#039;ships 2026: USA vs Japan - 5th Place Play-off, Hong Kong - Women</title>
     </programme>
     <programme start="20260515090500 +0000" stop="20260515093000 +0000" channel="beIN Sports 2 HD.starhub">
-        <title>HSBC SVNS World C&#039;ships 2026: Fiji vs Australia - 5th Place Play-off, Hong Kong</title>
+        <title>HSBC SVNS World C&#039;ships 2026: Fiji vs Australia - 5th Place Play-off, Hong Kong - Men</title>
     </programme>
     <programme start="20260515093000 +0000" stop="20260515100000 +0000" channel="beIN Sports 2 HD.starhub">
         <title>This Is Paris 2025/26</title>
