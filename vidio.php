@@ -5703,12 +5703,12 @@
     <desc lang="id">Real Madrid vs Osasuna</desc>
     <icon src="https://thumbor.prod.vidiocdn.com/5yUHYfv_b1sZi7kdFElm8JqF2RY=/287x162/filters:strip_icc():quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/image/6299/bein-1-4bd997.jpg"/>
   </programme>
-  <programme channel="6299" start="20260514193000 +0000" stop="20260514213000 +0000">
+  <programme channel="6299" start="20260514193000 +0000" stop="20260514212300 +0000">
     <title lang="id">Real Madrid vs Oviedo - LaLiga</title>
     <desc lang="id">Nonton streaming pertandingan seru Real Madrid vs Oviedo - LaLiga. Saksikan aksi-aksi terbaik dari tim yang bersaing ketat untuk meraih kemenangan. Dapatkan informasi lengkap mengenai jadwal pertandingan dan hasil pertandingan terbaru hanya di Vidio.</desc>
     <icon src="https://thumbor.prod.vidiocdn.com/kW37ggOQCVRwp7NQHFg7ZHP9xdA=/287x162/filters:strip_icc():quality(70)/vidio-media-production/uploads/livestreaming/schedule/thumbnail/5071459/254fbb.jpg"/>
   </programme>
-  <programme channel="6299" start="20260514213000 +0000" stop="20260514220000 +0000">
+  <programme channel="6299" start="20260514212300 +0000" stop="20260514220000 +0000">
     <title lang="id">Episode Number 5 : Fastzone 2026</title>
     <desc lang="id">Episode Number 5</desc>
     <icon src="https://thumbor.prod.vidiocdn.com/5yUHYfv_b1sZi7kdFElm8JqF2RY=/287x162/filters:strip_icc():quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/image/6299/bein-1-4bd997.jpg"/>
@@ -12710,24 +12710,13 @@
     <desc lang="id">MADRID - HIGHLIGHTS SHOW</desc>
     <icon src="https://thumbor.prod.vidiocdn.com/nY0aFklpYf6yONLaFJjxhiSuthc=/287x162/filters:strip_icc():quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/image/6786/champions-tv-3-76ca7c.jpg"/>
   </programme>
-  <programme channel="6786" start="20260514200000 +0000" stop="20260514220000 +0000">
+  <programme channel="6786" start="20260514200000 +0000" stop="20260514224000 +0000">
     <title lang="id">Iga Swiatek vs Elina Svitolina - Semifinals | WTA 1000: Internazionali BNL D'Italia 2026</title>
     <desc lang="id">Nonton streaming pertandingan seru Semifinals - WTA 1000: Internazionali BNL D'Italia 2026. Saksikan aksi-aksi terbaik dari tim yang bersaing ketat untuk meraih kemenangan. Dapatkan informasi lengkap mengenai jadwal pertandingan dan hasil pertandingan terbaru hanya di Vidio.</desc>
     <icon src="https://thumbor.prod.vidiocdn.com/mNyYE8VRexwqec21bMsFzmO6Hjo=/287x162/filters:strip_icc():quality(70)/vidio-media-production/uploads/livestreaming/schedule/thumbnail/5071465/99d63f.jpg"/>
   </programme>
-  <programme channel="6786" start="20260514220000 +0000" stop="20260514230000 +0000">
-    <title lang="id">HELLAS VERONA vs COMO : Serie A 2025/26</title>
-    <desc lang="id">HELLAS VERONA vs COMO</desc>
-    <icon src="https://thumbor.prod.vidiocdn.com/nY0aFklpYf6yONLaFJjxhiSuthc=/287x162/filters:strip_icc():quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/image/6786/champions-tv-3-76ca7c.jpg"/>
-  </programme>
-  <programme channel="6786" start="20260514230000 +0000" stop="20260515000000 +0000">
-    <title lang="id">MIAMI - HIGHLIGHTS SHOW : WTA 2026 - Highlight</title>
-    <desc lang="id">MIAMI - HIGHLIGHTS SHOW</desc>
-    <icon src="https://thumbor.prod.vidiocdn.com/nY0aFklpYf6yONLaFJjxhiSuthc=/287x162/filters:strip_icc():quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/image/6786/champions-tv-3-76ca7c.jpg"/>
-  </programme>
-  <programme channel="6786" start="20260515000000 +0000" stop="20260515003000 +0000">
-    <title lang="id">Eps 14 : NFL Extra</title>
-    <desc lang="id">Eps 14</desc>
+  <programme channel="6786" start="20260514224000 +0000" stop="20260515003000 +0000">
+    <title lang="id">Verona vs Como - Serie A</title>
     <icon src="https://thumbor.prod.vidiocdn.com/nY0aFklpYf6yONLaFJjxhiSuthc=/287x162/filters:strip_icc():quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/image/6786/champions-tv-3-76ca7c.jpg"/>
   </programme>
   <programme channel="6786" start="20260515003000 +0000" stop="20260515013000 +0000">
