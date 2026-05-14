@@ -904,15 +904,15 @@
     <icon src="https://thumbor.prod.vidiocdn.com/eDxnkfbC9tu2_nK1bM0d9sAA8pc=/287x162/filters:strip_icc():quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/image/733/trans-tv-3836a5.jpg"/>
   </programme>
   <programme channel="733" start="20260514140000 +0000" stop="20260514160000 +0000">
-    <title lang="id">Bioskop Trans TV</title>
+    <title lang="id">Bioskop Trans TV: Captain Phillips</title>
     <icon src="https://thumbor.prod.vidiocdn.com/i1TfwWkiZmJO73BFk8XywYXgyFQ=/287x162/filters:strip_icc():quality(70)/vidio-media-production/uploads/livestreaming/schedule/thumbnail/5070309/1bdb0d.jpg"/>
   </programme>
   <programme channel="733" start="20260514160000 +0000" stop="20260514181500 +0000">
-    <title lang="id">Bioskop Trans TV</title>
+    <title lang="id">Bioskop Trans TV: Stratton</title>
     <icon src="https://thumbor.prod.vidiocdn.com/OVDRu4tp__DMHAzWE4wjXgviyQw=/287x162/filters:strip_icc():quality(70)/vidio-media-production/uploads/livestreaming/schedule/thumbnail/5070310/e2a5c2.jpg"/>
   </programme>
   <programme channel="733" start="20260514160000 +0000" stop="20260514181500 +0000">
-    <title lang="id">Bioskop Trans TV</title>
+    <title lang="id">Bioskop Trans TV: Stratton</title>
     <icon src="https://thumbor.prod.vidiocdn.com/OVDRu4tp__DMHAzWE4wjXgviyQw=/287x162/filters:strip_icc():quality(70)/vidio-media-production/uploads/livestreaming/schedule/thumbnail/5070310/e2a5c2.jpg"/>
   </programme>
   <programme channel="733" start="20260514181500 +0000" stop="20260514220000 +0000">
@@ -972,15 +972,15 @@
     <icon src="https://thumbor.prod.vidiocdn.com/eDxnkfbC9tu2_nK1bM0d9sAA8pc=/287x162/filters:strip_icc():quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/image/733/trans-tv-3836a5.jpg"/>
   </programme>
   <programme channel="733" start="20260515140000 +0000" stop="20260515160000 +0000">
-    <title lang="id">Bioskop Trans TV</title>
+    <title lang="id">Bioskop Trans TV: John Wick: Chapter 3 - Parabellum</title>
     <icon src="https://thumbor.prod.vidiocdn.com/jxTIJmZhxDpj_kXDBTQtSU9Bbs4=/287x162/filters:strip_icc():quality(70)/vidio-media-production/uploads/tv_program/thumbnail/382657/b1374a.jpg"/>
   </programme>
   <programme channel="733" start="20260515160000 +0000" stop="20260515180000 +0000">
-    <title lang="id">Bioskop Trans TV</title>
+    <title lang="id">Bioskop Trans TV: All the Devil's Men</title>
     <icon src="https://thumbor.prod.vidiocdn.com/jxTIJmZhxDpj_kXDBTQtSU9Bbs4=/287x162/filters:strip_icc():quality(70)/vidio-media-production/uploads/tv_program/thumbnail/382657/b1374a.jpg"/>
   </programme>
   <programme channel="733" start="20260515160000 +0000" stop="20260515180000 +0000">
-    <title lang="id">Bioskop Trans TV</title>
+    <title lang="id">Bioskop Trans TV: All the Devil's Men</title>
     <icon src="https://thumbor.prod.vidiocdn.com/jxTIJmZhxDpj_kXDBTQtSU9Bbs4=/287x162/filters:strip_icc():quality(70)/vidio-media-production/uploads/tv_program/thumbnail/382657/b1374a.jpg"/>
   </programme>
   <programme channel="733" start="20260515180000 +0000" stop="20260515220000 +0000">
@@ -1555,12 +1555,12 @@
     <desc lang="id">American Ninja Warrior Junior</desc>
     <icon src="https://thumbor.prod.vidiocdn.com/JeOMB4wzTGlhXoRaCZTifmuJM5c=/287x162/filters:strip_icc():quality(70)/vidio-media-production/uploads/livestreaming/schedule/thumbnail/5062702/6b606c.jpg"/>
   </programme>
-  <programme channel="206" start="20260514111500 +0000" stop="20260514140000 +0000">
+  <programme channel="206" start="20260514111500 +0000" stop="20260514133000 +0000">
     <title lang="id">AVC Mens Champions League 2026 Fs.19:00</title>
     <desc lang="id">AVC Mens Champions League 2026 Fs.19:00</desc>
     <icon src="https://thumbor.prod.vidiocdn.com/NdmzqkxqnWVnlngtk_ObYNT-wiY=/287x162/filters:strip_icc():quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/image/206/moji-a5bd3e.jpg"/>
   </programme>
-  <programme channel="206" start="20260514140000 +0000" stop="20260514160000 +0000">
+  <programme channel="206" start="20260514133000 +0000" stop="20260514160000 +0000">
     <title lang="id">Rerun Proliga 2026</title>
     <desc lang="id">Rerun Proliga 2026</desc>
     <icon src="https://thumbor.prod.vidiocdn.com/NdmzqkxqnWVnlngtk_ObYNT-wiY=/287x162/filters:strip_icc():quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/image/206/moji-a5bd3e.jpg"/>
@@ -12702,12 +12702,12 @@
     <desc lang="id">FIORENTINA vs GENOA</desc>
     <icon src="https://thumbor.prod.vidiocdn.com/nY0aFklpYf6yONLaFJjxhiSuthc=/287x162/filters:strip_icc():quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/image/6786/champions-tv-3-76ca7c.jpg"/>
   </programme>
-  <programme channel="6786" start="20260514130000 +0000" stop="20260514150000 +0000">
+  <programme channel="6786" start="20260514130000 +0000" stop="20260514145100 +0000">
     <title lang="id">Sorana Cirstea vs Coco Gauff - Semifinals | WTA 1000: Internazionali BNL D'Italia 2026</title>
     <desc lang="id">Nonton streaming pertandingan seru Semifinals - WTA 1000: Internazionali BNL D'Italia 2026. Saksikan aksi-aksi terbaik dari tim yang bersaing ketat untuk meraih kemenangan. Dapatkan informasi lengkap mengenai jadwal pertandingan dan hasil pertandingan terbaru hanya di Vidio.</desc>
     <icon src="https://thumbor.prod.vidiocdn.com/ek1LPhyCo2eZNFoJu5QzVTmxgaQ=/287x162/filters:strip_icc():quality(70)/vidio-media-production/uploads/livestreaming/schedule/thumbnail/5071464/077433.jpg"/>
   </programme>
-  <programme channel="6786" start="20260514150000 +0000" stop="20260514153000 +0000">
+  <programme channel="6786" start="20260514145100 +0000" stop="20260514153000 +0000">
     <title lang="id">Filler</title>
     <icon src="https://thumbor.prod.vidiocdn.com/nY0aFklpYf6yONLaFJjxhiSuthc=/287x162/filters:strip_icc():quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/image/6786/champions-tv-3-76ca7c.jpg"/>
   </programme>
