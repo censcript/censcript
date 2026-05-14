@@ -2634,7 +2634,7 @@ Warning: Undefined array key "et" in /usr/home/ManusiaBiasa/domains/manusiabiasa
     <title>Es folgt: LIVE ATP World Tour</title>
 </programme>
 <programme start="20260514170000 +0000" stop="20260514190000 +0000" channel="Sky Sport Austria 2 HD.skyde">
-    <title>Live ATP 1000: tba - M. Landaluce (ESP), Internazionali BNL d&#039;Italia in Rom (Italien), Viertelfinale 4</title>
+    <title>Live ATP 1000: D. Medvedev - M. Landaluce (ESP), Internazionali BNL d&#039;Italia in Rom (Italien), Viertelfinale 4</title>
 </programme>
 <programme start="20260514190000 +0000" stop="20260514210000 +0000" channel="Sky Sport Austria 2 HD.skyde">
     <title>Live WTA 1000: HF2, Internazionali BNL d&#039;Italia in Rom (Italien), Halbfinale 2</title>
@@ -2988,7 +2988,7 @@ Warning: Undefined array key "et" in /usr/home/ManusiaBiasa/domains/manusiabiasa
     <title>BL: Bundesliga Weekly</title>
 </programme>
 <programme start="20260514190000 +0000" stop="20260514200000 +0000" channel="Sky Sport Bundesliga HD.skyde">
-    <title>BL: Doku</title>
+    <title>BL: Podcast mit Julian Brandt</title>
 </programme>
 <programme start="20260514200000 +0000" stop="20260514203000 +0000" channel="Sky Sport Bundesliga HD.skyde">
     <title>2. BL: Dein Zweitligatalk - HvK &amp; Tusche</title>
@@ -3167,10 +3167,7 @@ Warning: Undefined array key "et" in /usr/home/ManusiaBiasa/domains/manusiabiasa
 <programme start="20260514160000 +0000" stop="20260514163000 +0000" channel="Sky Sport News HD.skyde">
     <title>Live Transfer Update: Die Show</title>
 </programme>
-<programme start="20260514163000 +0000" stop="20260514164500 +0000" channel="Sky Sport News HD.skyde">
-    <title>BL: Jamal Musiala Exklusiv</title>
-</programme>
-<programme start="20260514164500 +0000" stop="20260514170000 +0000" channel="Sky Sport News HD.skyde">
+<programme start="20260514163000 +0000" stop="20260514170000 +0000" channel="Sky Sport News HD.skyde">
     <title>Live Sky Sport News: Primetime</title>
 </programme>
 <programme start="20260514170000 +0000" stop="20260514173000 +0000" channel="Sky Sport News HD.skyde">
@@ -3360,7 +3357,7 @@ Warning: Undefined array key "et" in /usr/home/ManusiaBiasa/domains/manusiabiasa
     <title>Live ATP 1000: D. Medvedev - M. Landaluce (ESP), Internazionali BNL d&#039;Italia in Rom (Italien), Viertelfinale 4</title>
 </programme>
 <programme start="20260514190000 +0000" stop="20260514210000 +0000" channel="Sky Sport Top Event HD.skyde">
-    <title>Live WTA 1000: HF2, Internazionali BNL d&#039;Italia in Rom (Italien), Halbfinale 2</title>
+    <title>Live WTA 1000: tba - I. Swiatek (POL), Internazionali BNL d&#039;Italia in Rom (Italien), Halbfinale 2</title>
 </programme>
 <programme start="20260514210000 +0000" stop="20260514230000 +0000" channel="Sky Sport Top Event HD.skyde">
     <title>Live PGA Championship: 1. Tag in Newtown Square, PA (USA)</title>
