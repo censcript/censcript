@@ -5390,7 +5390,7 @@
     <episode-num system="onscreen">S1E41</episode-num>
   </programme>
   <programme start="20260514173000 +0000" stop="20260514180000 +0000" channel="unknown.unifitv">
-    <title lang="en">Parijadam</title>
+    <title lang="en">Parijatham</title>
     <desc lang="en">After losing her parents and hearing in a tragic accident, Isai is forced to marry Vishal when her aunt Rukmini manipulates her horoscope to meet Subadra's strict astrological beliefs.</desc>
     <category lang="en">Romance</category>
     <episode-num system="xmltv_ns">0.198.</episode-num>
@@ -5488,12 +5488,12 @@
     <episode-num system="onscreen">S1E29</episode-num>
   </programme>
   <programme start="20260515003000 +0000" stop="20260515030000 +0000" channel="unknown.unifitv">
-    <title lang="en">MOVIES-Kurangu Bommai</title>
+    <title lang="en">Kurangu Bommai</title>
     <desc lang="en">Sundaram, a devoted employee, obeys his boss Ekamabaram's instructions without question. He's asked to smuggle a precious idol in his car, testing his loyalty.</desc>
     <category lang="en">Entertainment</category>
   </programme>
   <programme start="20260515030000 +0000" stop="20260515033000 +0000" channel="unknown.unifitv">
-    <title lang="en">MOVIES-Paarijatham</title>
+    <title lang="en">Parijatham</title>
     <desc lang="en">After losing her parents and hearing in a tragic accident, Isai is forced to marry Vishal when her aunt Rukmini manipulates her horoscope to meet Subadra's strict astrological beliefs.</desc>
     <category lang="en">Drama</category>
     <episode-num system="xmltv_ns">0.13.</episode-num>
@@ -5542,7 +5542,7 @@
     <episode-num system="onscreen">S1E149</episode-num>
   </programme>
   <programme start="20260515063000 +0000" stop="20260515093000 +0000" channel="unknown.unifitv">
-    <title lang="en">MOVIES-Vithaikaran</title>
+    <title lang="en">Vithaikaran</title>
     <desc lang="en">A clever smuggler is hired to get back stolen goods from a dangerous gang. But he soon uncovers a deadly plot that puts his life in serious danger.</desc>
     <category lang="en">Entertainment</category>
   </programme>
@@ -5589,7 +5589,7 @@
     <episode-num system="onscreen">S1E140</episode-num>
   </programme>
   <programme start="20260515123000 +0000" stop="20260515130000 +0000" channel="unknown.unifitv">
-    <title lang="en">Parijadam</title>
+    <title lang="en">Parijatham</title>
     <desc lang="en">After losing her parents and hearing in a tragic accident, Isai is forced to marry Vishal when her aunt Rukmini manipulates her horoscope to meet Subadra's strict astrological beliefs.</desc>
     <category lang="en">Romance</category>
     <episode-num system="xmltv_ns">0.203.</episode-num>
