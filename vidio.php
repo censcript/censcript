@@ -229,11 +229,11 @@
     <desc lang="id">Film televisi yang mengangkat kisah romantisme kehidupan dengan konflik yang menarik. Tayang setiap hari.</desc>
     <icon src="https://thumbor.prod.vidiocdn.com/N99E8BD1OJ5vvymwPBj0c-BU5J4=/287x162/filters:strip_icc():quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/image/204/sctv-5ef966.jpg"/>
   </programme>
-  <programme channel="204" start="20260515190000 +0000" stop="20260515210600 +0000">
+  <programme channel="204" start="20260515190000 +0000" stop="20260515210200 +0000">
     <title lang="id">Aston Villa Vs Liverpool - Liga Inggris - Live</title>
     <icon src="https://thumbor.prod.vidiocdn.com/N99E8BD1OJ5vvymwPBj0c-BU5J4=/287x162/filters:strip_icc():quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/image/204/sctv-5ef966.jpg"/>
   </programme>
-  <programme channel="204" start="20260515210600 +0000" stop="20260515213000 +0000">
+  <programme channel="204" start="20260515210200 +0000" stop="20260515213000 +0000">
     <title lang="id">Barakallah</title>
     <desc lang="id">Ceramah islami penuh makna. Tayang setiap selasa - minggu, mulai pukul 04.00 WIB</desc>
     <icon src="https://thumbor.prod.vidiocdn.com/N99E8BD1OJ5vvymwPBj0c-BU5J4=/287x162/filters:strip_icc():quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/image/204/sctv-5ef966.jpg"/>
@@ -16629,12 +16629,12 @@ dan komprehensif mengenai berbagai topik yang relevan dalam kehidupan sehari-har
     <desc lang="id">CHELSEA vs LEEDS UNITED</desc>
     <icon src="https://thumbor.prod.vidiocdn.com/r_QaZubFaj9Ht_TI2kDgdImcRqY=/287x162/filters:strip_icc():quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/image/9182/champions-tv-5-e0dd48.jpg"/>
   </programme>
-  <programme channel="9182" start="20260515183000 +0000" stop="20260515210000 +0000">
+  <programme channel="9182" start="20260515183000 +0000" stop="20260515210900 +0000">
     <title lang="id">Aston Villa vs Liverpool - Premier League</title>
     <desc lang="id">Nonton streaming pertandingan seru Aston Villa vs Liverpool - Premier League. Saksikan aksi-aksi terbaik dari tim yang bersaing ketat untuk meraih kemenangan. Dapatkan informasi lengkap mengenai jadwal pertandingan dan hasil pertandingan terbaru hanya di Vidio.</desc>
     <icon src="https://thumbor.prod.vidiocdn.com/0cSJy75OJPjYHkUc0ug7rnPSgVs=/287x162/filters:strip_icc():quality(70)/vidio-media-production/uploads/livestreaming/schedule/thumbnail/5071628/4a86c0.jpg"/>
   </programme>
-  <programme channel="9182" start="20260515210000 +0000" stop="20260515230000 +0000">
+  <programme channel="9182" start="20260515210900 +0000" stop="20260515230000 +0000">
     <title lang="id">Nottingham Forest Vs Newcastle United : Premier League 2025/26</title>
     <desc lang="id">NOTTINGHAM FOREST vs NEWCASTLE UNITED</desc>
     <icon src="https://thumbor.prod.vidiocdn.com/r_QaZubFaj9Ht_TI2kDgdImcRqY=/287x162/filters:strip_icc():quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/image/9182/champions-tv-5-e0dd48.jpg"/>

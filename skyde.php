@@ -2890,6 +2890,81 @@
 <programme start="20260515165500 +0000" stop="20260515170000 +0000" channel="Sky Sport Austria 4 HD.skyde">
     <title>Test Austria 04 with BO-ALLGEMEIN</title>
 </programme>
+<programme start="20260514220000 +0000" stop="20260514223000 +0000" channel="Sky Sport Bundesliga HD.skyde">
+    <title>BL: Road to the Americas (2)</title>
+</programme>
+<programme start="20260514223000 +0000" stop="20260514230000 +0000" channel="Sky Sport Bundesliga HD.skyde">
+    <title>2. BL: Dein Zweitligatalk - HvK &amp; Tusche</title>
+</programme>
+<programme start="20260514230000 +0000" stop="20260515010000 +0000" channel="Sky Sport Bundesliga HD.skyde">
+    <title>2. BL: Sonntags-Konferenz, 33. Spieltag</title>
+</programme>
+<programme start="20260515010000 +0000" stop="20260515030000 +0000" channel="Sky Sport Bundesliga HD.skyde">
+    <title>2. BL: 1. FC Kaiserslautern - Arminia Bielefeld, 33. Spieltag</title>
+</programme>
+<programme start="20260515030000 +0000" stop="20260515040000 +0000" channel="Sky Sport Bundesliga HD.skyde">
+    <title>2. BL Kompakt: 33. Spieltag</title>
+</programme>
+<programme start="20260515040000 +0000" stop="20260515043000 +0000" channel="Sky Sport Bundesliga HD.skyde">
+    <title>Meine Geschichte: Das Leben von Andreas Obst</title>
+</programme>
+<programme start="20260515043000 +0000" stop="20260515050000 +0000" channel="Sky Sport Bundesliga HD.skyde">
+    <title>2. BL: Dein Zweitligatalk - HvK &amp; Tusche</title>
+</programme>
+<programme start="20260515050000 +0000" stop="20260515070000 +0000" channel="Sky Sport Bundesliga HD.skyde">
+    <title>BL: Borussia Dortmund - Eintracht Frankfurt, Flutlicht-Freitag, 33. Spieltag</title>
+</programme>
+<programme start="20260515070000 +0000" stop="20260515080000 +0000" channel="Sky Sport Bundesliga HD.skyde">
+    <title>BL: Matchplan: STP - WOB, 34. Spieltag</title>
+</programme>
+<programme start="20260515080000 +0000" stop="20260515100000 +0000" channel="Sky Sport Bundesliga HD.skyde">
+    <title>BL: 1. FSV Mainz 05 - 1. FC Union Berlin, 33. Spieltag</title>
+</programme>
+<programme start="20260515100000 +0000" stop="20260515103000 +0000" channel="Sky Sport Bundesliga HD.skyde">
+    <title>BL: Bundesliga Weekly</title>
+</programme>
+<programme start="20260515103000 +0000" stop="20260515113000 +0000" channel="Sky Sport Bundesliga HD.skyde">
+    <title>BL: Matchplan: STP - WOB, 34. Spieltag</title>
+</programme>
+<programme start="20260515113000 +0000" stop="20260515133000 +0000" channel="Sky Sport Bundesliga HD.skyde">
+    <title>BL: Klassiker der Woche: KOE - FCB (2022/23)</title>
+</programme>
+<programme start="20260515133000 +0000" stop="20260515134500 +0000" channel="Sky Sport Bundesliga HD.skyde">
+    <title>BL: Dein Spieltags-Sprint (33)</title>
+</programme>
+<programme start="20260515134500 +0000" stop="20260515141500 +0000" channel="Sky Sport Bundesliga HD.skyde">
+    <title>BL: Bundesliga Weekly</title>
+</programme>
+<programme start="20260515141500 +0000" stop="20260515144500 +0000" channel="Sky Sport Bundesliga HD.skyde">
+    <title>BL: Road to the Americas (1)</title>
+</programme>
+<programme start="20260515144500 +0000" stop="20260515150000 +0000" channel="Sky Sport Bundesliga HD.skyde">
+    <title>BL: Im Herzen von Europa - Das Eintracht Magazin</title>
+</programme>
+<programme start="20260515150000 +0000" stop="20260515153000 +0000" channel="Sky Sport Bundesliga HD.skyde">
+    <title>2. BL: Dein Zweitligatalk - HvK &amp; Tusche</title>
+</programme>
+<programme start="20260515153000 +0000" stop="20260515154500 +0000" channel="Sky Sport Bundesliga HD.skyde">
+    <title>BL: Jamal Musiala Exklusiv</title>
+</programme>
+<programme start="20260515154500 +0000" stop="20260515180000 +0000" channel="Sky Sport Bundesliga HD.skyde">
+    <title>Live DFB-Nachwuchsliga: TSG Hoffenheim U19 - 1. FSV Mainz 05 U19, Halbfinale</title>
+</programme>
+<programme start="20260515180000 +0000" stop="20260515190000 +0000" channel="Sky Sport Bundesliga HD.skyde">
+    <title>BL: Matchplan: STP - WOB, 34. Spieltag</title>
+</programme>
+<programme start="20260515190000 +0000" stop="20260515193000 +0000" channel="Sky Sport Bundesliga HD.skyde">
+    <title>Meine Geschichte: Das Leben von Ralf Schumacher und Étienne Bousquet-Cassagne</title>
+</programme>
+<programme start="20260515193000 +0000" stop="20260515200000 +0000" channel="Sky Sport Bundesliga HD.skyde">
+    <title>BL: Road to the Americas (1)</title>
+</programme>
+<programme start="20260515200000 +0000" stop="20260515203000 +0000" channel="Sky Sport Bundesliga HD.skyde">
+    <title>BL: Road to the Americas (2)</title>
+</programme>
+<programme start="20260515203000 +0000" stop="20260515220500 +0000" channel="Sky Sport Bundesliga HD.skyde">
+    <title>Fußball: Ein Sommer in Italien - Die WM 1990</title>
+</programme>
 <programme start="20260515063000 +0000" stop="20260515083000 +0000" channel="Sky Sport Bundesliga UHD.skyde">
     <title>BL: Borussia Dortmund - Eintracht Frankfurt, Flutlicht-Freitag, 33. Spieltag</title>
 </programme>
