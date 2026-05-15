@@ -2159,16 +2159,16 @@
         <title>Preview Show</title>
     </programme>
     <programme start="20260516043000 +0000" stop="20260516045500 +0000" channel="beIN Sports 2 HD.starhub">
-        <title>HSBC SVNS World C&#039;ships 2026: Canada vs France - 3rd Place Play-off, Hong Kong -</title>
+        <title>HSBC SVNS World C&#039;ships 2026: Canada vs France - 3rd Place Play-off, Hong Kong - Women</title>
     </programme>
     <programme start="20260516045500 +0000" stop="20260516052000 +0000" channel="beIN Sports 2 HD.starhub">
-        <title>HSBC SVNS World C&#039;ships 2026: New Zealand vs Spain - 3rd Place Play-off, Hong Ko</title>
+        <title>HSBC SVNS World C&#039;ships 2026: New Zealand vs Spain - 3rd Place Play-off, Hong Kong - Men</title>
     </programme>
     <programme start="20260516052000 +0000" stop="20260516054500 +0000" channel="beIN Sports 2 HD.starhub">
-        <title>HSBC SVNS World C&#039;ships 2026: New Zealand vs Australia - Cup Final, Hong Kong -</title>
+        <title>HSBC SVNS World C&#039;ships 2026: New Zealand vs Australia - Cup Final, Hong Kong - Women</title>
     </programme>
     <programme start="20260516054500 +0000" stop="20260516061000 +0000" channel="beIN Sports 2 HD.starhub">
-        <title>HSBC SVNS World C&#039;ships 2026: South Africa vs Argentina - Cup Final, Hong Kong -</title>
+        <title>HSBC SVNS World C&#039;ships 2026: South Africa vs Argentina - Cup Final, Hong Kong - Men</title>
     </programme>
     <programme start="20260516061000 +0000" stop="20260516064000 +0000" channel="beIN Sports 2 HD.starhub">
         <title>Brighton &amp; Hove Albion</title>
@@ -2198,10 +2198,10 @@
         <title>In the Shadows of Giants</title>
     </programme>
     <programme start="20260516153000 +0000" stop="20260516155500 +0000" channel="beIN Sports 2 HD.starhub">
-        <title>HSBC SVNS World C&#039;ships 2026: Thailand vs Denmark - Women&#039;s Final - Melrose Clay</title>
+        <title>HSBC SVNS World C&#039;ships 2026: Thailand vs Denmark - Women&#039;s Final - Melrose Claymores</title>
     </programme>
     <programme start="20260516155500 +0000" stop="20260516162200 +0000" channel="beIN Sports 2 HD.starhub">
-        <title>HSBC SVNS World C&#039;ships 2026: Japan vs Hong Kong - Men&#039;s Final - Melrose Claymor</title>
+        <title>HSBC SVNS World C&#039;ships 2026: Japan vs Hong Kong - Men&#039;s Final - Melrose Claymores</title>
     </programme>
     <programme start="20260515160000 +0000" stop="20260515170000 +0000" channel="TVB Xing He.starhub">
         <title>Recipes To Live By</title>
@@ -3587,7 +3587,7 @@
         <title>News</title>
     </programme>
     <programme start="20260516080000 +0000" stop="20260516110000 +0000" channel="Kalaignar TV.starhub">
-        <title>MOVIE - KURUVI (U)</title>
+        <title>MOVIE - DON (U) (NEW)</title>
     </programme>
     <programme start="20260516110000 +0000" stop="20260516120000 +0000" channel="Kalaignar TV.starhub">
         <title>Iruvar</title>
@@ -3923,7 +3923,7 @@
         <title>World Music Album</title>
     </programme>
     <programme start="20260516050000 +0000" stop="20260516073000 +0000" channel="NHK World Premium HD.starhub">
-        <title>The 65th NHK Cup International Gymnastics Tournament &quot;Women&quot; (End time subject t</title>
+        <title>The 65th NHK Cup International Gymnastics Tournament &quot;Women&quot; (End time subject to change.)</title>
     </programme>
     <programme start="20260516073000 +0000" stop="20260516090000 +0000" channel="NHK World Premium HD.starhub">
         <title>Grand Sumo 2026 May Tournament at Ryogoku (B)</title>
@@ -3947,7 +3947,7 @@
         <title>Strolling with Tamori</title>
     </programme>
     <programme start="20260516110700 +0000" stop="20260516115300 +0000" channel="NHK World Premium HD.starhub">
-        <title>Project X: The Challengers-New Beginnings &quot;A World-renowned Luxury Sleeper Train</title>
+        <title>Project X: The Challengers-New Beginnings &quot;A World-renowned Luxury Sleeper Train&quot;</title>
     </programme>
     <programme start="20260516115300 +0000" stop="20260516115500 +0000" channel="NHK World Premium HD.starhub">
         <title>World Weather</title>

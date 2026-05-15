@@ -1,15 +1,3 @@
-<programme start="20260515223000 +0700" stop="20260516010000 +0700" channel="COSMOTE Sport 1 HD">
-    <title>Football: Club Brugge - Real Madrid CF</title>
-    <desc>Live: Tidak</desc>
-</programme>
-<programme start="20260516010000 +0700" stop="20260516013000 +0700" channel="COSMOTE Sport 1 HD">
-    <title>Highlights: UEL &amp; UECL 2025-26</title>
-    <desc>Live: Tidak</desc>
-</programme>
-<programme start="20260516013000 +0700" stop="20260516020000 +0700" channel="COSMOTE Sport 1 HD">
-    <title>UEFA Champions League Highlights 2025-26</title>
-    <desc>Live: Tidak</desc>
-</programme>
 <programme start="20260516020000 +0700" stop="20260516023000 +0700" channel="COSMOTE Sport 1 HD">
     <title>UEFA Champions League Highlights 2025-26</title>
     <desc>Live: Tidak</desc>
@@ -90,9 +78,17 @@
     <title>Football: AEL Novibet - Atromitos (L)</title>
     <desc>Live: Ya</desc>
 </programme>
-<programme start="20260515233000 +0700" stop="20260516014000 +0700" channel="COSMOTE Sport 2 HD">
-    <title>Football: Volos NPS - Aris</title>
+<programme start="20260517012000 +0700" stop="20260517015500 +0700" channel="COSMOTE Sport 1 HD">
+    <title>UEL &amp; UECL Magazine 2025-26 E20</title>
     <desc>Live: Tidak</desc>
+</programme>
+<programme start="20260517015500 +0700" stop="20260517023000 +0700" channel="COSMOTE Sport 1 HD">
+    <title>UEFA Champions League Magazine 2024-25 E33</title>
+    <desc>Live: Tidak</desc>
+</programme>
+<programme start="20260517023000 +0700" stop="20260517043000 +0700" channel="COSMOTE Sport 1 HD">
+    <title>Football: Sporting CP - Gil Vicente (L)</title>
+    <desc>Live: Ya</desc>
 </programme>
 <programme start="20260516014000 +0700" stop="20260516035500 +0700" channel="COSMOTE Sport 2 HD">
     <title>Football: Olympiacos - Panathinaikos</title>
@@ -158,9 +154,13 @@
     <title>Football: SC Braga - CF Estrela de Amadora (L)</title>
     <desc>Live: Ya</desc>
 </programme>
-<programme start="20260516000000 +0700" stop="20260516020000 +0700" channel="COSMOTE Sport 3 HD">
-    <title>Football: Vitoria Guimaraes - Casa Pia</title>
+<programme start="20260517020000 +0700" stop="20260517023000 +0700" channel="COSMOTE Sport 2 HD">
+    <title>Sports Classics: My Sporting Moment</title>
     <desc>Live: Tidak</desc>
+</programme>
+<programme start="20260517023000 +0700" stop="20260517043000 +0700" channel="COSMOTE Sport 2 HD">
+    <title>Football: Estoril - SL Benfica (L)</title>
+    <desc>Live: Ya</desc>
 </programme>
 <programme start="20260516020000 +0700" stop="20260516040000 +0700" channel="COSMOTE Sport 3 HD">
     <title>Football: Notts County - Chesterfield  (L)</title>
@@ -230,12 +230,8 @@
     <title>William Hill Scottish Premiership - Highlights</title>
     <desc>Live: Tidak</desc>
 </programme>
-<programme start="20260515231500 +0700" stop="20260516005500 +0700" channel="COSMOTE Sport 4 HD">
-    <title>Pick n&#039; Roll</title>
-    <desc>Live: Tidak</desc>
-</programme>
-<programme start="20260516005500 +0700" stop="20260516013000 +0700" channel="COSMOTE Sport 4 HD">
-    <title>NBA Action 2025-26 E3530 (L)</title>
+<programme start="20260517010000 +0700" stop="20260517030000 +0700" channel="COSMOTE Sport 3 HD">
+    <title>Football: Al Ahli - Al-Kholood (L)</title>
     <desc>Live: Ya</desc>
 </programme>
 <programme start="20260516013000 +0700" stop="20260516033000 +0700" channel="COSMOTE Sport 4 HD">
@@ -314,12 +310,12 @@
     <title>Basketball: Armani Milano - Bon Reggio Emilia (L)</title>
     <desc>Live: Ya</desc>
 </programme>
-<programme start="20260516000000 +0700" stop="20260516010500 +0700" channel="COSMOTE Sport 5 HD">
-    <title>Motorsports: MotoGP 2026</title>
+<programme start="20260517013000 +0700" stop="20260517020000 +0700" channel="COSMOTE Sport 4 HD">
+    <title>NBA Specials</title>
     <desc>Live: Tidak</desc>
 </programme>
-<programme start="20260516010500 +0700" stop="20260516020000 +0700" channel="COSMOTE Sport 5 HD">
-    <title>Motorsports: Moto3 2026</title>
+<programme start="20260517020000 +0700" stop="20260517040000 +0700" channel="COSMOTE Sport 4 HD">
+    <title>Basketball: Bahcesehir - Fenerbahce</title>
     <desc>Live: Tidak</desc>
 </programme>
 <programme start="20260516020000 +0700" stop="20260516030000 +0700" channel="COSMOTE Sport 5 HD">
@@ -426,6 +422,14 @@
     <title>Football: Casa Pia - Rio Ave (L)</title>
     <desc>Live: Ya</desc>
 </programme>
+<programme start="20260517020000 +0700" stop="20260517021500 +0700" channel="COSMOTE Sport 5 HD">
+    <title>Sports Highlights</title>
+    <desc>Live: Tidak</desc>
+</programme>
+<programme start="20260517021500 +0700" stop="20260517030500 +0700" channel="COSMOTE Sport 5 HD">
+    <title>Motorsports: Moto2 2026</title>
+    <desc>Live: Tidak</desc>
+</programme>
 <programme start="20260516000000 +0700" stop="20260516023000 +0700" channel="COSMOTE Sport 6 HD">
     <title>Tennis: Jannik Sinner - Daniil Medvedev (L)</title>
     <desc>Live: Ya</desc>
@@ -470,13 +474,17 @@
     <title>Football: Al Hilal - Neom (L)</title>
     <desc>Live: Ya</desc>
 </programme>
-<programme start="20260516000000 +0700" stop="20260516004500 +0700" channel="COSMOTE Sport 7 HD">
-    <title>COSMOTESport7HD</title>
+<programme start="20260517010500 +0700" stop="20260517013500 +0700" channel="COSMOTE Sport 6 HD">
+    <title>Sports Classics: 2026 Sports Rundown E3</title>
     <desc>Live: Tidak</desc>
 </programme>
-<programme start="20260516004500 +0700" stop="20260516011500 +0700" channel="COSMOTE Sport 7 HD">
-    <title>COSMOTESport7HD</title>
+<programme start="20260517013500 +0700" stop="20260517020000 +0700" channel="COSMOTE Sport 6 HD">
+    <title>Sports Highlights</title>
     <desc>Live: Tidak</desc>
+</programme>
+<programme start="20260517020000 +0700" stop="20260517050000 +0700" channel="COSMOTE Sport 6 HD">
+    <title>Fight Sports: Oktagon 2026 (L)</title>
+    <desc>Live: Ya</desc>
 </programme>
 <programme start="20260516011500 +0700" stop="20260516031500 +0700" channel="COSMOTE Sport 7 HD">
     <title>Football: Salford City - Grimsby Town F.C. (L)</title>
@@ -538,13 +546,13 @@
     <title>COSMOTESport7HD</title>
     <desc>Live: Tidak</desc>
 </programme>
-<programme start="20260516000000 +0700" stop="20260516011500 +0700" channel="COSMOTE Sport 8 HD">
-    <title>COSMOTESport8HD</title>
+<programme start="20260517010000 +0700" stop="20260517013000 +0700" channel="COSMOTE Sport 7 HD">
+    <title>COSMOTESport7HD</title>
     <desc>Live: Tidak</desc>
 </programme>
-<programme start="20260516011500 +0700" stop="20260516014500 +0700" channel="COSMOTE Sport 8 HD">
-    <title>COSMOTESport8HD</title>
-    <desc>Live: Tidak</desc>
+<programme start="20260517013000 +0700" stop="20260517040000 +0700" channel="COSMOTE Sport 7 HD">
+    <title>Volleyball: Zawiercie - Ziraat Bankasi SK Ankara (L)</title>
+    <desc>Live: Ya</desc>
 </programme>
 <programme start="20260516014500 +0700" stop="20260516034500 +0700" channel="COSMOTE Sport 8 HD">
     <title>Football: Partick Thistle F.C - Dunfermline (L)</title>
@@ -602,8 +610,12 @@
     <title>COSMOTESport8HD</title>
     <desc>Live: Tidak</desc>
 </programme>
-<programme start="20260516000000 +0700" stop="20260516020000 +0700" channel="COSMOTE Sport 9 HD">
-    <title>COSMOTESport9HD</title>
+<programme start="20260517013000 +0700" stop="20260517020000 +0700" channel="COSMOTE Sport 8 HD">
+    <title>COSMOTESport8HD</title>
+    <desc>Live: Tidak</desc>
+</programme>
+<programme start="20260517020000 +0700" stop="20260517040000 +0700" channel="COSMOTE Sport 8 HD">
+    <title>COSMOTESport8HD</title>
     <desc>Live: Tidak</desc>
 </programme>
 <programme start="20260516020000 +0700" stop="20260516023000 +0700" channel="COSMOTE Sport 9 HD">
@@ -663,6 +675,10 @@
     <desc>Live: Tidak</desc>
 </programme>
 <programme start="20260516230000 +0700" stop="20260517010000 +0700" channel="COSMOTE Sport 9 HD">
+    <title>Premier Padel Tour 2026 (L)</title>
+    <desc>Live: Ya</desc>
+</programme>
+<programme start="20260517010000 +0700" stop="20260517030000 +0700" channel="COSMOTE Sport 9 HD">
     <title>Premier Padel Tour 2026 (L)</title>
     <desc>Live: Ya</desc>
 </programme>
