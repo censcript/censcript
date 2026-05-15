@@ -659,7 +659,7 @@
 <title>Misteri Sungai Mekong</title>
 </programme>
 <programme start="20260516023000 +0000" stop="20260516060000 +0000" channel="ANTV.vision">
-<title>Pyaar To Hona Hi Tha</title>
+<title>Trimurti</title>
 </programme>
 <programme start="20260516060000 +0000" stop="20260516073000 +0000" channel="ANTV.vision">
 <title>Jhanak</title>

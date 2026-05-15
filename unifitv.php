@@ -1481,10 +1481,12 @@
   <channel id="8tv.unifitv">
     <display-name>8TV</display-name>
   </channel>
-  <programme start="20260514092800 +0000" stop="20260514160000 +0000" channel="8tv.unifitv">
-    <title lang="en">LIVING DELIGHT X WOWSHOP EXPRESS</title>
-    <desc lang="en">LIVING DELIGHT X WOWSHOP EXPRESS</desc>
+  <programme start="20260514150000 +0000" stop="20260514160000 +0000" channel="8tv.unifitv">
+    <title lang="en">LOVE GAME IN EASTERN FANTASY</title>
+    <desc lang="en">Di Pesta Tanglung, Miao Miao berkeliaran dan bermain permainan teka-teki tanglung dengan Mu Yao menjadikan Mu Sheng cemburu dengan Miao Miao. Mu Sheng tidak sabar-sabar untuk melawat Pesta Tanglung bersama kakaknya.</desc>
     <category lang="en">Entertainment</category>
+    <episode-num system="xmltv_ns">0.4.</episode-num>
+    <episode-num system="onscreen">S1E5</episode-num>
   </programme>
   <programme start="20260514160000 +0000" stop="20260514170000 +0000" channel="8tv.unifitv">
     <title lang="en">LOVE GAME IN EASTERN FANTASY</title>
@@ -1493,12 +1495,19 @@
     <episode-num system="xmltv_ns">0.5.</episode-num>
     <episode-num system="onscreen">S1E6</episode-num>
   </programme>
-  <programme start="20260514170000 +0000" stop="20260515000000 +0000" channel="8tv.unifitv">
+  <programme start="20260514170000 +0000" stop="20260514230000 +0000" channel="8tv.unifitv">
     <title lang="en">EIGHTFM @ 8TV</title>
     <desc lang="en">EIGHTFM @ 8TV</desc>
     <category lang="en">Entertainment</category>
     <episode-num system="xmltv_ns">0.317.</episode-num>
     <episode-num system="onscreen">S1E318</episode-num>
+  </programme>
+  <programme start="20260514230000 +0000" stop="20260515000000 +0000" channel="8tv.unifitv">
+    <title lang="en">LIVING DELIGHT 2025/2026</title>
+    <desc lang="en">LIVING DELIGHT 2025/2026</desc>
+    <category lang="en">Entertainment</category>
+    <episode-num system="xmltv_ns">0.216.</episode-num>
+    <episode-num system="onscreen">S1E217</episode-num>
   </programme>
   <programme start="20260515000000 +0000" stop="20260515003000 +0000" channel="8tv.unifitv">
     <title lang="en">HO CHAK! 2025/2026</title>
@@ -1507,37 +1516,142 @@
     <episode-num system="xmltv_ns">0.18.</episode-num>
     <episode-num system="onscreen">S1E19</episode-num>
   </programme>
-  <programme start="20260515003000 +0000" stop="20260515023500 +0000" channel="8tv.unifitv">
+  <programme start="20260515003000 +0000" stop="20260515013000 +0000" channel="8tv.unifitv">
     <title lang="en">WOW SHOP</title>
     <desc lang="en">WOW SHOP</desc>
     <category lang="en">Entertainment</category>
+  </programme>
+  <programme start="20260515013000 +0000" stop="20260515014500 +0000" channel="8tv.unifitv">
+    <title lang="en">8TV MORNING EXPRES/2026</title>
+    <desc lang="en">8TV MORNING EXPRES/2026</desc>
+    <category lang="en">Entertainment</category>
+    <episode-num system="xmltv_ns">0.223.</episode-num>
+    <episode-num system="onscreen">S1E224</episode-num>
+  </programme>
+  <programme start="20260515014500 +0000" stop="20260515023500 +0000" channel="8tv.unifitv">
+    <title lang="en">GREAT TIMES</title>
+    <desc lang="en">Jia Mei keluar dari hospital dan pulang ke rumah. Bagaimanapun, dia menerima panggilan daripada Chengyuan yang memberitahunya bahawa Ho mungkin mengambil alih jawatan Chee Kan sebagai pengurus besar</desc>
+    <category lang="en">Entertainment</category>
+    <episode-num system="xmltv_ns">0.718.</episode-num>
+    <episode-num system="onscreen">S1E719</episode-num>
   </programme>
   <programme start="20260515023500 +0000" stop="20260515033000 +0000" channel="8tv.unifitv">
     <title lang="en">WOW SHOP</title>
     <desc lang="en">WOW SHOP</desc>
     <category lang="en">Entertainment</category>
   </programme>
-  <programme start="20260515033000 +0000" stop="20260515070000 +0000" channel="8tv.unifitv">
+  <programme start="20260515033000 +0000" stop="20260515043000 +0000" channel="8tv.unifitv">
     <title lang="en">WOW SHOP</title>
     <desc lang="en">WOW SHOP</desc>
     <category lang="en">Entertainment</category>
   </programme>
-  <programme start="20260515070000 +0000" stop="20260515092800 +0000" channel="8tv.unifitv">
+  <programme start="20260515043000 +0000" stop="20260515050000 +0000" channel="8tv.unifitv">
+    <title lang="en">MIDDAY MANDARIN NEW/2026</title>
+    <desc lang="en">MIDDAY MANDARIN NEW/2026</desc>
+    <category lang="en">Entertainment</category>
+    <episode-num system="xmltv_ns">0.316.</episode-num>
+    <episode-num system="onscreen">S1E317</episode-num>
+  </programme>
+  <programme start="20260515050000 +0000" stop="20260515060000 +0000" channel="8tv.unifitv">
+    <title lang="en">NO ROOM FOR CRIME</title>
+    <desc lang="en">Lok Yee membeli telefon bimbit mahal untuk Jim. Namun, Jim ditangkap polis kerana disyaki telefon tersebut dicuri. Ah San pula terpaksa bekerja sebagai seorang ejen insurans sekarang, agar dapat menjelaskan hutangnya.</desc>
+    <category lang="en">Entertainment</category>
+    <episode-num system="xmltv_ns">0.19.</episode-num>
+    <episode-num system="onscreen">S1E20</episode-num>
+  </programme>
+  <programme start="20260515060000 +0000" stop="20260515070000 +0000" channel="8tv.unifitv">
+    <title lang="en">IN SPITE OF THE STRONG WIND</title>
+    <desc lang="en">Wang menjemput Bai Ying untuk makan malam. Hou Zhi membantah oleh sebab Wang adalah kaki perempuan. Akhirnya Bai Ying ditemani Tang Chen dan yang lain menghadiri majlis makan malam tersebut.</desc>
+    <category lang="en">Entertainment</category>
+    <episode-num system="xmltv_ns">0.22.</episode-num>
+    <episode-num system="onscreen">S1E23</episode-num>
+  </programme>
+  <programme start="20260515070000 +0000" stop="20260515073000 +0000" channel="8tv.unifitv">
     <title lang="en">WOW SHOP</title>
     <desc lang="en">WOW SHOP</desc>
     <category lang="en">Entertainment</category>
   </programme>
-  <programme start="20260515092800 +0000" stop="20260515130000 +0000" channel="8tv.unifitv">
+  <programme start="20260515073000 +0000" stop="20260515083000 +0000" channel="8tv.unifitv">
+    <title lang="en">FIGHT FOR JUSTICE</title>
+    <desc lang="en">Jia Feng terkejut mendapati Jessie ialah bekas isterinya, Zi Qian, namun mereka merahsiakannya. Situasi kian tegang apabila Jia Feng mendapati Zhi Han mengenali Zi Qian, lalu dia nekad menuntut penjelasan tentang niat sebenar wanita itu.</desc>
+    <category lang="en">Entertainment</category>
+    <episode-num system="xmltv_ns">0.92.</episode-num>
+    <episode-num system="onscreen">S1E93</episode-num>
+  </programme>
+  <programme start="20260515083000 +0000" stop="20260515092800 +0000" channel="8tv.unifitv">
+    <title lang="en">FIGHT FOR JUSTICE</title>
+    <desc lang="en">Zhi Han curiga melihat Jessie dan Jia Feng keluar dari tandas bersama. Dalam pada itu, An Jie yang kecewa melihat Ivan bersama Jessie mula berpaling kepada alkohol. Chang Sheng pula mula memasang perangkap melalui Wang You De.</desc>
+    <category lang="en">Entertainment</category>
+    <episode-num system="xmltv_ns">0.93.</episode-num>
+    <episode-num system="onscreen">S1E94</episode-num>
+  </programme>
+  <programme start="20260515092800 +0000" stop="20260515093000 +0000" channel="8tv.unifitv">
     <title lang="en">LIVING DELIGHT X WOWSHOP EXPRESS</title>
     <desc lang="en">LIVING DELIGHT X WOWSHOP EXPRESS</desc>
     <category lang="en">Entertainment</category>
   </programme>
-  <programme start="20260515130000 +0000" stop="20260515163000 +0000" channel="8tv.unifitv">
+  <programme start="20260515093000 +0000" stop="20260515103000 +0000" channel="8tv.unifitv">
+    <title lang="en">LIVING DELIGHT 2025/2026</title>
+    <desc lang="en">LIVING DELIGHT 2025/2026</desc>
+    <category lang="en">Entertainment</category>
+    <episode-num system="xmltv_ns">0.222.</episode-num>
+    <episode-num system="onscreen">S1E223</episode-num>
+  </programme>
+  <programme start="20260515103000 +0000" stop="20260515110000 +0000" channel="8tv.unifitv">
+    <title lang="en">8 E-NEW/2026</title>
+    <desc lang="en">8 E-NEW/2026</desc>
+    <category lang="en">Entertainment</category>
+    <episode-num system="xmltv_ns">0.221.</episode-num>
+    <episode-num system="onscreen">S1E222</episode-num>
+  </programme>
+  <programme start="20260515110000 +0000" stop="20260515115800 +0000" channel="8tv.unifitv">
+    <title lang="en">HEAVENLY HAND</title>
+    <desc lang="en">Situ Jiu yang sebelum ini diperangkap memiliki dadah dan disabitkan kesalahan, kini mengakibatkan kedai mahjongnya tidak dapat memperbaharui lesennya. Menurut peguamnya, peluang untuk membuat rayuan adalah tipis.</desc>
+    <category lang="en">Entertainment</category>
+    <episode-num system="xmltv_ns">0.20.</episode-num>
+    <episode-num system="onscreen">S1E21</episode-num>
+  </programme>
+  <programme start="20260515115800 +0000" stop="20260515120000 +0000" channel="8tv.unifitv">
+    <title lang="en">PROJECT LOVE</title>
+    <desc lang="en">8TV's heartfelt programme Project Love Season 3 returns with warmth and purpose!Continuing the mission of the first 2 seasons touching hearts through real stories,Project Love Season 3 steps even closer into the everyday lives of ordinary Malaysians.</desc>
+    <category lang="en">Entertainment</category>
+    <episode-num system="xmltv_ns">2.16.</episode-num>
+    <episode-num system="onscreen">S3E17</episode-num>
+  </programme>
+  <programme start="20260515120000 +0000" stop="20260515130000 +0000" channel="8tv.unifitv">
+    <title lang="en">MANDARIN NEWS</title>
+    <desc lang="en">MANDARIN NEWS</desc>
+    <category lang="en">Entertainment</category>
+    <episode-num system="xmltv_ns">0.318.</episode-num>
+    <episode-num system="onscreen">S1E319</episode-num>
+  </programme>
+  <programme start="20260515130000 +0000" stop="20260515133000 +0000" channel="8tv.unifitv">
     <title lang="en">PROJECT LOVE</title>
     <desc lang="en">8TV's heartfelt programme Project Love Season 3 returns with warmth and purpose!Continuing the mission of the first 2 seasons touching hearts through real stories,Project Love Season 3 steps even closer into the everyday lives of ordinary Malaysians.</desc>
     <category lang="en">Entertainment</category>
     <episode-num system="xmltv_ns">2.17.</episode-num>
     <episode-num system="onscreen">S3E18</episode-num>
+  </programme>
+  <programme start="20260515133000 +0000" stop="20260515143000 +0000" channel="8tv.unifitv">
+    <title lang="en">LOST YOU FOREVER</title>
+    <desc lang="en">Cangxuan menyedari bahawa apa yang berlaku hanyalah ilusi setelah meminum teh yang diberikan oleh Raja Xiyan lama. Cangxuan memberitahu Raja Xiyan lama bahawa bukan dia yang membunuh Tu Shanjing. Feng Long mendedahkan hal sebenar.</desc>
+    <category lang="en">Entertainment</category>
+    <episode-num system="xmltv_ns">1.19.</episode-num>
+    <episode-num system="onscreen">S2E20</episode-num>
+  </programme>
+  <programme start="20260515143000 +0000" stop="20260515153000 +0000" channel="8tv.unifitv">
+    <title lang="en">LOST YOU FOREVER</title>
+    <desc lang="en">Cangxuan dan Xiaoyao tiba di Pekan Qingshui. Xiangliu mengetahui kedudukan Xiaoyao dan membuat persediaan untuk membunuh Cangxuan dengan anak panah beracun. Fenglong cuba menyelamatkan Cangxuan dari serangan Xiangliu.</desc>
+    <category lang="en">Entertainment</category>
+    <episode-num system="xmltv_ns">1.20.</episode-num>
+    <episode-num system="onscreen">S2E21</episode-num>
+  </programme>
+  <programme start="20260515153000 +0000" stop="20260515163000 +0000" channel="8tv.unifitv">
+    <title lang="en">TREASURE HUNT IN MALAYSIA 3</title>
+    <desc lang="en">Episod ini dua hos dan tetamu undangan bersaing dalam cabaran "Treasure Hunt" di Taman Alam, Kuala Selangor. Mereka perlu menyempurnakan tugasan unik seperti mengupas kelapa serta ujian ketangkasan fizikal demi mengelak hukuman pahit.</desc>
+    <category lang="en">Entertainment</category>
+    <episode-num system="xmltv_ns">0.6.</episode-num>
+    <episode-num system="onscreen">S1E7</episode-num>
   </programme>
   <channel id="tv9.unifitv">
     <display-name>TV9</display-name>
@@ -14975,17 +15089,12 @@
     <desc lang="en">Consisting of four stages and a grand final, the Hyundai Archery World Cup features international elite recurve and compound archers shooting for the title of Hyundai Archery World Cup Champion.</desc>
     <category lang="en">Archery</category>
   </programme>
-  <programme start="20260515014000 +0000" stop="20260515023500 +0000" channel="spotv.unifitv">
+  <programme start="20260515014000 +0000" stop="20260515022300 +0000" channel="spotv.unifitv">
     <title lang="en">2026 World Surf League Replay - Rip Curl Pro Bells Beach Finals Day</title>
     <desc lang="en">Be sure to catch the inspirational power of surfing through the 2026 WSL Championship Tour &amp; Challenger Series.</desc>
     <category lang="en">Surfing</category>
   </programme>
-  <programme start="20260515023500 +0000" stop="20260515033000 +0000" channel="spotv.unifitv">
-    <title lang="en">2026 World Surf League Replay - Bonsoy Gold Coast Pro Finals Day</title>
-    <desc lang="en">Be sure to catch the inspirational power of surfing through the 2026 WSL Championship Tour &amp; Challenger Series.</desc>
-    <category lang="en">Surfing</category>
-  </programme>
-  <programme start="20260515033000 +0000" stop="20260515083000 +0000" channel="spotv.unifitv">
+  <programme start="20260515022300 +0000" stop="20260515083000 +0000" channel="spotv.unifitv">
     <title lang="en">2026 PGA Championship - Round 1</title>
     <desc lang="en">The world's top golfers compete for major glory, delivering powerful drives, precision play, and high-stakes drama on one of golf's biggest stages.</desc>
     <category lang="en">Golf</category>

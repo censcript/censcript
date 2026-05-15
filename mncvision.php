@@ -8258,13 +8258,13 @@
     <title>Tinju</title>
 </programme>
 <programme start="20260515083000 +0000" stop="20260515103000 +0000" channel="Sportstars 2.mncvision">
-    <title>AFC U17 Asian Cup: KOR Vs YEM</title>
+    <title>AFC U17 Asian Cup: JPN Vs IDN</title>
 </programme>
 <programme start="20260515103000 +0000" stop="20260515130000 +0000" channel="Sportstars 2.mncvision">
     <title>Indonesia Juara Badminton</title>
 </programme>
 <programme start="20260515130000 +0000" stop="20260515150000 +0000" channel="Sportstars 2.mncvision">
-    <title>AFC U17 Asian Cup: KOR Vs YEM</title>
+    <title>AFC U17 Asian Cup: JPN Vs IDN</title>
 </programme>
 <programme start="20260515150000 +0000" stop="20260515153000 +0000" channel="Sportstars 2.mncvision">
     <title>The Ultimate Goals</title>
@@ -8306,13 +8306,13 @@
     <title>Tinju</title>
 </programme>
 <programme start="20260515083000 +0000" stop="20260515103000 +0000" channel="Sportstars 2 HD.mncvision">
-    <title>AFC U17 Asian Cup: KOR Vs YEM</title>
+    <title>AFC U17 Asian Cup: JPN Vs IDN</title>
 </programme>
 <programme start="20260515103000 +0000" stop="20260515130000 +0000" channel="Sportstars 2 HD.mncvision">
     <title>Indonesia Juara Badminton</title>
 </programme>
 <programme start="20260515130000 +0000" stop="20260515150000 +0000" channel="Sportstars 2 HD.mncvision">
-    <title>AFC U17 Asian Cup: KOR Vs YEM</title>
+    <title>AFC U17 Asian Cup: JPN Vs IDN</title>
 </programme>
 <programme start="20260515150000 +0000" stop="20260515153000 +0000" channel="Sportstars 2 HD.mncvision">
     <title>The Ultimate Goals</title>

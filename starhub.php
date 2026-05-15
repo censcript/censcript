@@ -7154,24 +7154,21 @@
         <title>Running Man</title>
     </programme>
     <programme start="20260514160000 +0000" stop="20260514163000 +0000" channel="COLORS.starhub">
-        <title>Mangal Lakshmi</title>
-    </programme>
-    <programme start="20260514163000 +0000" stop="20260514170000 +0000" channel="COLORS.starhub">
         <title>Do Duniya Ek Dil</title>
     </programme>
-    <programme start="20260514170000 +0000" stop="20260514173000 +0000" channel="COLORS.starhub">
-        <title>Dr. Aarambhi</title>
-    </programme>
-    <programme start="20260514173000 +0000" stop="20260514180000 +0000" channel="COLORS.starhub">
+    <programme start="20260514163000 +0000" stop="20260514170000 +0000" channel="COLORS.starhub">
         <title>Mannat Harr Khushi Paane Ki</title>
     </programme>
-    <programme start="20260514180000 +0000" stop="20260514183000 +0000" channel="COLORS.starhub">
+    <programme start="20260514170000 +0000" stop="20260514174500 +0000" channel="COLORS.starhub">
+        <title>Dr. Aarambhi</title>
+    </programme>
+    <programme start="20260514174500 +0000" stop="20260514181500 +0000" channel="COLORS.starhub">
         <title>Seher Hone Ko Hai</title>
     </programme>
-    <programme start="20260514183000 +0000" stop="20260514190000 +0000" channel="COLORS.starhub">
+    <programme start="20260514181500 +0000" stop="20260514184500 +0000" channel="COLORS.starhub">
         <title>Tuu Juliet Jatt Di</title>
     </programme>
-    <programme start="20260514190000 +0000" stop="20260514193000 +0000" channel="COLORS.starhub">
+    <programme start="20260514184500 +0000" stop="20260514193000 +0000" channel="COLORS.starhub">
         <title>Mannat Harr Khushi Paane Ki</title>
     </programme>
     <programme start="20260514193000 +0000" stop="20260514200000 +0000" channel="COLORS.starhub">
@@ -7190,10 +7187,10 @@
         <title>Do Duniya Ek Dil</title>
     </programme>
     <programme start="20260514220000 +0000" stop="20260514223000 +0000" channel="COLORS.starhub">
-        <title>The Legend Of Hanuman</title>
+        <title>The Legend Of Hanuman S02</title>
     </programme>
     <programme start="20260514223000 +0000" stop="20260514230000 +0000" channel="COLORS.starhub">
-        <title>Mahadev &amp; Sons</title>
+        <title>Seher Hone Ko Hai</title>
     </programme>
     <programme start="20260514230000 +0000" stop="20260514233000 +0000" channel="COLORS.starhub">
         <title>Mannat Harr Khushi Paane Ki</title>
@@ -7294,32 +7291,32 @@
     <programme start="20260514163000 +0000" stop="20260514170000 +0000" channel="BBC World News HD.starhub">
         <title>Focus on Africa</title>
     </programme>
-    <programme start="20260514170000 +0000" stop="20260514173000 +0000" channel="BBC World News HD.starhub">
-        <title>The World Today with Maryam Moshiri</title>
+    <programme start="20260514170000 +0000" stop="20260514171500 +0000" channel="BBC World News HD.starhub">
+        <title>BBC News</title>
     </programme>
-    <programme start="20260514173000 +0000" stop="20260514174500 +0000" channel="BBC World News HD.starhub">
+    <programme start="20260514171500 +0000" stop="20260514173000 +0000" channel="BBC World News HD.starhub">
         <title>The Iran War Today</title>
     </programme>
-    <programme start="20260514174500 +0000" stop="20260514180000 +0000" channel="BBC World News HD.starhub">
-        <title>The World Today with Maryam Moshiri</title>
+    <programme start="20260514173000 +0000" stop="20260514180000 +0000" channel="BBC World News HD.starhub">
+        <title>BBC News</title>
     </programme>
     <programme start="20260514180000 +0000" stop="20260514183000 +0000" channel="BBC World News HD.starhub">
-        <title>The World Today with Maryam Moshiri</title>
+        <title>BBC News</title>
     </programme>
     <programme start="20260514183000 +0000" stop="20260514190000 +0000" channel="BBC World News HD.starhub">
-        <title>The World Today with Maryam Moshiri</title>
+        <title>BBC News</title>
     </programme>
     <programme start="20260514190000 +0000" stop="20260514193000 +0000" channel="BBC World News HD.starhub">
-        <title>The Context USA</title>
+        <title>BBC News</title>
     </programme>
     <programme start="20260514193000 +0000" stop="20260514200000 +0000" channel="BBC World News HD.starhub">
-        <title>The Context USA</title>
+        <title>BBC News</title>
     </programme>
     <programme start="20260514200000 +0000" stop="20260514203000 +0000" channel="BBC World News HD.starhub">
-        <title>The Context</title>
+        <title>BBC News</title>
     </programme>
     <programme start="20260514203000 +0000" stop="20260514210000 +0000" channel="BBC World News HD.starhub">
-        <title>The Context</title>
+        <title>BBC News</title>
     </programme>
     <programme start="20260514210000 +0000" stop="20260514213000 +0000" channel="BBC World News HD.starhub">
         <title>BBC World News America</title>
@@ -9350,7 +9347,7 @@
         <title>No Transmission</title>
     </programme>
     <programme start="20260515040000 +0000" stop="20260515100000 +0000" channel="Cricbuzz 2.starhub">
-        <title>No Transmission</title>
+        <title>No TRANSMISSION</title>
     </programme>
     <programme start="20260515100000 +0000" stop="20260515160000 +0000" channel="Cricbuzz 2.starhub">
         <title>No Transmission</title>
