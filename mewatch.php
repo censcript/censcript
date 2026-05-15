@@ -716,10 +716,10 @@
         <title>No programme available now. Next broadcast on 16th May, Saturday 7pm. The Wonder Shop Home Shopping</title>
     </programme>
     <programme start="20260514160000 +0000" stop="20260515160000 +0000" channel="Live 2.mewatch">
-        <title>No Programme available now. Next Broadcast on 17th May, Sunday 1.45am. AFC Champions League Two 2025/26 Final</title>
+        <title>No Programme available now. Next Broadcast on 17th May, Sunday 1.35am. AFC Champions League Two 2025/26 Final</title>
     </programme>
     <programme start="20260515160000 +0000" stop="20260516160000 +0000" channel="Live 2.mewatch">
-        <title>No Programme available now. Next Broadcast on 17th May, Sunday 1.45am. AFC Champions League Two 2025/26 Final</title>
+        <title>No Programme available now. Next Broadcast on 17th May, Sunday 1.35am. AFC Champions League Two 2025/26 Final</title>
     </programme>
     <programme start="20260514160000 +0000" stop="20260515160000 +0000" channel="Live 5.mewatch">
         <title>No Programme available now. Next Broadcast on 29th May, Friday 8.30am. Causeway Challenge 2026</title>
