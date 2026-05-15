@@ -1916,7 +1916,7 @@
         <title>Bundesliga Weekly 2025/26</title>
     </programme>
     <programme start="20260514213000 +0000" stop="20260514220000 +0000" channel="beIN Sports 3.starhub">
-        <title>Mini Match - TotalEnergies Africa Cup of Nations, Morocco 2025: Angola vs Zimbabwe</title>
+        <title>Mini Match - TotalEnergies Africa Cup of Nations, Morocco 2025: Angola vs Zimbab</title>
     </programme>
     <programme start="20260514220000 +0000" stop="20260514230000 +0000" channel="beIN Sports 3.starhub">
         <title>Helsinki, Finland</title>
@@ -2168,7 +2168,7 @@
         <title>Premier Padel 2026: Buenos Aires P1 Day 3 Match 7 (Live)</title>
     </programme>
     <programme start="20260514233000 +0000" stop="20260514235500 +0000" channel="beIN Sports 2 HD.starhub">
-        <title>HSBC SVNS World C&#039;ships 2026: USA vs Germany - 11th Place Play-off, Hong Kong - Men</title>
+        <title>HSBC SVNS World C&#039;ships 2026: USA vs Germany - 11th Place Play-off, Hong Kong -</title>
     </programme>
     <programme start="20260514235500 +0000" stop="20260515002000 +0000" channel="beIN Sports 2 HD.starhub">
         <title>HSBC SVNS World C&#039;ships 2026: Brazil vs Great Britain - 9th Place Play-off, Hong</title>
