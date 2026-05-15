@@ -8329,11 +8329,11 @@
     <desc lang="id">Sayali, sosok perempuan muda pekerja keras yang memiliki impian besar untuk membahagiakan keluarganya dan meraih kehidupan yang lebih layak. Namun perjalanan hidupnya tidak mudah. Ia harus menghadapi berbagai persoalan mulai dari keterbatasan ekonomi hingga konflik keluarga yang terus menghampiri.</desc>
     <icon src="https://thumbor.prod.vidiocdn.com/9yiyeN8sqwsgzwH9jy_i0_t21_A=/287x162/filters:strip_icc():quality(70)/vidio-media-production/uploads/livestreaming/schedule/thumbnail/5073587/bee13f.jpg"/>
   </programme>
-  <programme channel="782" start="20260515083800 +0000" stop="20260515103600 +0000">
+  <programme channel="782" start="20260515083800 +0000" stop="20260515103500 +0000">
     <title lang="id">Teri Meri Doriyaann</title>
     <icon src="https://thumbor.prod.vidiocdn.com/K7uc8BaPn_oJQlYAWPAvmIpw8u0=/287x162/filters:strip_icc():quality(70)/vidio-media-production/uploads/livestreaming/schedule/thumbnail/5075854/fd39ea.jpg"/>
   </programme>
-  <programme channel="782" start="20260515103600 +0000" stop="20260515120100 +0000">
+  <programme channel="782" start="20260515103500 +0000" stop="20260515120100 +0000">
     <title lang="id">Vasudha</title>
     <desc lang="id">Vasudha yang periang bergabung dengan rumah pemimpin bisnis Chandrika sebagai pembantu dan mendambakan persetujuannya meskipun ada perbedaan ideologis di antara mereka.</desc>
     <icon src="https://thumbor.prod.vidiocdn.com/-XhP0GDebOIEItT4zD1HWdFxpNA=/287x162/filters:strip_icc():quality(70)/vidio-media-production/uploads/livestreaming/schedule/thumbnail/5073588/4df63a.jpg"/>
