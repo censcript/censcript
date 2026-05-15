@@ -14839,7 +14839,7 @@
   </programme>
   <programme start="20260514200000 +0000" stop="20260515013000 +0000" channel="unifisports1.unifitv">
     <title lang="en">UFC Fight Night: Della Maddalena vs. Prates - Main</title>
-    <desc lang="en">The month of April wraps with a return to Meta APEX for a UFC Fight Night event capped by a thrilling clash between Top 10 featherweights Aljamain “Funk Master” Sterling and Youssef “The Moroccan Devil” Zalal</desc>
+    <desc lang="en">The month of April wraps with a return to Meta APEX for a UFC Fight Night event capped by a thrilling  clash between Top 10 featherweights Aljamain “Funk Master” Sterling and Youssef “The Moroccan  Devil” Zalal</desc>
     <category lang="en">Sports</category>
   </programme>
   <programme start="20260515013000 +0000" stop="20260515015500 +0000" channel="unifisports1.unifitv">
@@ -14864,22 +14864,22 @@
   </programme>
   <programme start="20260515030000 +0000" stop="20260515033000 +0000" channel="unifisports1.unifitv">
     <title lang="en">UFC Fight Flashback - 1101 - Gaethje vs Holloway</title>
-    <desc lang="en">UFC 300 was not only a milestone event for the world's leading MMA organization but featured a highly anticipated bout between Justin Gaethje and Max Holloway as they battled for the “BMF” belt and the title of the “baddest” fighter on the planet. See their fight like never seen before with enhanced replays and angles, new footage, and exclusive audio.</desc>
+    <desc lang="en">UFC 300 was not only a milestone event for the world’s leading MMA organization but featured a highly anticipated bout between Justin Gaethje and Max Holloway as they battled for the “BMF” belt and the title of the “baddest” fighter on the planet. See their fight like never seen before with enhanced replays and angles, new footage, and exclusive audio.</desc>
     <category lang="en">Sports</category>
   </programme>
   <programme start="20260515033000 +0000" stop="20260515040000 +0000" channel="unifisports1.unifitv">
     <title lang="en">UFC Connected - 809 - UFC Connected "Origins: Melquizel Costa, Fighter Focus: Jasmine Jasudavicius, Ultimate Access: Merab and Aljo, Day One: Ateba Gautier</title>
-    <desc lang="en">Fueled by a rare skin condition, Melquizel Costa shares how embracing what set him apart empowered his rise in MMA. Jasmine Jasudavicius shares how an unlikely meeting gave rise to her fighting career. Bantamweight champion Merab “The Machine” Dvalishvili corners his best friend and former UFC Bantamweight champion Aljamain Sterling in Shanghai, China. UFC middleweight Ateba Gautier reflects on his “Day One</desc>
+    <desc lang="en">Fueled by a rare skin condition, Melquizel Costa shares how embracing what set him apart empowered his rise in MMA.  Jasmine Jasudavicius shares how an unlikely meeting gave rise to her fighting career.  Bantamweight champion Merab “The Machine” Dvalishvili corners his best friend and former UFC Bantamweight champion Aljamain Sterling in Shanghai, China.  UFC middleweight Ateba Gautier reflects on his “Day One</desc>
     <category lang="en">Sports</category>
   </programme>
   <programme start="20260515040000 +0000" stop="20260515050000 +0000" channel="unifisports1.unifitv">
-    <title lang="en">UFC Main Event - UFC 310: Pantoja vs Asakura</title>
-    <desc lang="en">At UFC 310 in Las Vegas, Nevada, UFC Flyweight Champion Alexandre Pantoja defends his title against Japanese phenom, Kai Asakura, in a global clash of elite mixed martial artists.</desc>
+    <title lang="en">UFC Main Event - UFC 284: Makhachev vs Volkanovski</title>
+    <desc lang="en">At UFC 284, featherweight king Alexander Volkanovski sought a new challenge and a second belt by challenging lightweight champion Islam Makhachev. See both athletes train and prepare ahead of their title bout on UFC Main Event</desc>
     <category lang="en">Sports</category>
   </programme>
   <programme start="20260515050000 +0000" stop="20260515055500 +0000" channel="unifisports1.unifitv">
     <title lang="en">UFC Unleashed - 1802 - Flyweight Contenders</title>
-    <desc lang="en">The UFC's Women's Flyweight division has long been ruled by Valentina Shevchenko, but new contenders are on the rise. See Casey O'Neill, Andrea Lee, Maycee Barber, and more fight their way toward the top of the 125-pound rankings.</desc>
+    <desc lang="en">The UFC’s Women’s Flyweight division has long been ruled by Valentina Shevchenko, but new contenders are on the rise. See Casey O’Neill, Andrea Lee, Maycee Barber, and more fight their way toward the top of the 125-pound rankings.</desc>
     <category lang="en">Sports</category>
   </programme>
   <programme start="20260515055500 +0000" stop="20260515060000 +0000" channel="unifisports1.unifitv">
@@ -14889,7 +14889,7 @@
   </programme>
   <programme start="20260515060000 +0000" stop="20260515083000 +0000" channel="unifisports1.unifitv">
     <title lang="en">UFC Reloaded - UFC 316: Devalishvili vs O'Malley 2</title>
-    <desc lang="en">A championship doubleheader headlines the Octagon's return to the Prudential Center in Newark, New Jersey for UFC 316 on June 7. In the main event, it's a highly anticipated rematch when relentless force Merab Dvalishvili defends his bantamweight crown against the man he took it from, “Suga” Sean O'Malley.</desc>
+    <desc lang="en">A championship doubleheader headlines the Octagon’s return to the Prudential Center in Newark, New Jersey for UFC 316 on June 7. In the main event, it’s a highly anticipated rematch when relentless force Merab Dvalishvili defends his bantamweight crown against the man he took it from, “Suga” Sean O’Malley.</desc>
     <category lang="en">Sports</category>
   </programme>
   <programme start="20260515083000 +0000" stop="20260515090000 +0000" channel="unifisports1.unifitv">
@@ -14913,7 +14913,7 @@
     <category lang="en">Sports</category>
   </programme>
   <programme start="20260515091500 +0000" stop="20260515121500 +0000" channel="unifisports1.unifitv">
-    <title lang="en">(L) AFL Premiership Season - Round 10 - Sydney Swans v Collingwood</title>
+    <title lang="en">(L) AFL Premiership Season  - Round 10 - Sydney Swans v Collingwood</title>
     <desc lang="en">ABC Australia brings you Australian Rules football live in your lounge room every week with coverage of the 2026 AFL Premiership Season.</desc>
     <category lang="en">Sports</category>
   </programme>
@@ -14934,12 +14934,12 @@
   </programme>
   <programme start="20260515123000 +0000" stop="20260515130000 +0000" channel="unifisports1.unifitv">
     <title lang="en">UFC Ultimate Knockouts - 1003 - Ultimate Knockouts "Hispanic Heritage Month 2023</title>
-    <desc lang="en">UFC Ultimate Knockouts celebrates Hispanic Heritage Month. See Edson Barboza, Polyana Viana, Marlon Vera, and more.</desc>
+    <desc lang="en">UFC Ultimate Knockouts celebrates Hispanic Heritage Month.  See Edson Barboza, Polyana Viana, Marlon Vera, and more.</desc>
     <category lang="en">Sports</category>
   </programme>
   <programme start="20260515130000 +0000" stop="20260515135500 +0000" channel="unifisports1.unifitv">
     <title lang="en">UFC Countdown - UFC 323: Dvalishvili vs Yan 2</title>
-    <desc lang="en">UFC 323 Countdown previews two title fights. In the main event, bantamweight king Merab Dvalishvili looks to defend his crown for the fourth time in 2025 against Petr Yan. In the co-main event, flyweight champion Alexandre Pantoja battles Joshua Van.</desc>
+    <desc lang="en">UFC 323 Countdown previews two title fights. In the main event, bantamweight king Merab Dvalishvili looks to defend his crown for the fourth time in 2025 against Petr Yan. In the co-main event, flyweight champion Alexandre Pantoja battles Joshua Van.???</desc>
     <category lang="en">Sports</category>
   </programme>
   <programme start="20260515135500 +0000" stop="20260515140000 +0000" channel="unifisports1.unifitv">
@@ -15058,12 +15058,12 @@
     <desc lang="en">Supercars delivers exhilarating and accessible motorsports-led entertainment to engaged and passionate fans.</desc>
     <category lang="en">Motorsports</category>
   </programme>
-  <programme start="20260514231500 +0000" stop="20260515014000 +0000" channel="spotv2.unifitv">
+  <programme start="20260514231500 +0000" stop="20260515013000 +0000" channel="spotv2.unifitv">
     <title lang="en">ITTF WTTTC Finals London 2026 - Day 8 Women's Team: Semifinal</title>
     <desc lang="en">The world's top national table tennis teams compete for glory in London, delivering lightning-fast rallies, elite skill, and intense battles on the sport's biggest stage.</desc>
     <category lang="en">Table Tennis</category>
   </programme>
-  <programme start="20260515014000 +0000" stop="20260515021000 +0000" channel="spotv2.unifitv">
+  <programme start="20260515013000 +0000" stop="20260515021000 +0000" channel="spotv2.unifitv">
     <title lang="en">2025/26 A-League Men Finals - Highlights</title>
     <desc lang="en">Relive the best goals, key moments &amp; top performances from the Isuzu UTE A-League Men. Weekly highlights cover every club &amp; thrilling match. Download and watch every moment on SPOTV NOW.</desc>
     <category lang="en">Football</category>
