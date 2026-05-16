@@ -2530,6 +2530,9 @@
 <programme start="20260516111500 +0000" stop="20260516113000 +0000" channel="Sky Sport Austria 1 HD.skyde">
     <title>Admiral BL: DIE Rapid. Mut. Wille. Aufstieg.</title>
 </programme>
+<programme start="20260516113000 +0000" stop="20260516133000 +0000" channel="Sky Sport Austria 1 HD.skyde">
+    <title>Fußball: SK Rapid - FC Wacker Innsbruck, 21. Runde</title>
+</programme>
 <programme start="20260516133000 +0000" stop="20260516140000 +0000" channel="Sky Sport Austria 1 HD.skyde">
     <title>Admiral BL: ASAT Kompakt, 31. Runde</title>
 </programme>
@@ -2725,7 +2728,7 @@
 <programme start="20260516130000 +0000" stop="20260516131500 +0000" channel="Sky Sport Bundesliga 4 HD.skyde">
     <title>Live BL: SVW - BVB: tipico Countdown, 34. Spieltag</title>
 </programme>
-<programme start="20260516131500 +0000" stop="20260516160000 +0000" channel="Sky Sport Bundesliga 4 HD.skyde">
+<programme start="20260516131500 +0000" stop="20260516163000 +0000" channel="Sky Sport Bundesliga 4 HD.skyde">
     <title>Live BL: Werder Bremen - Borussia Dortmund, 34. Spieltag</title>
 </programme>
 <programme start="20260516124000 +0000" stop="20260516130000 +0000" channel="Sky Sport Bundesliga 5 HD.skyde">
@@ -2743,7 +2746,7 @@
 <programme start="20260516130000 +0000" stop="20260516131500 +0000" channel="Sky Sport Bundesliga 6 HD.skyde">
     <title>Live BL: BMG - TSG: tipico Countdown, 34. Spieltag</title>
 </programme>
-<programme start="20260516131500 +0000" stop="20260516160000 +0000" channel="Sky Sport Bundesliga 6 HD.skyde">
+<programme start="20260516131500 +0000" stop="20260516163000 +0000" channel="Sky Sport Bundesliga 6 HD.skyde">
     <title>Live BL: Borussia M&#039;gladbach - TSG Hoffenheim, 34. Spieltag</title>
 </programme>
 <programme start="20260516124000 +0000" stop="20260516130000 +0000" channel="Sky Sport Bundesliga 7 HD.skyde">
@@ -2752,7 +2755,7 @@
 <programme start="20260516130000 +0000" stop="20260516131500 +0000" channel="Sky Sport Bundesliga 7 HD.skyde">
     <title>Live BL: B04 - HSV: tipico Countdown, 34. Spieltag</title>
 </programme>
-<programme start="20260516131500 +0000" stop="20260516160000 +0000" channel="Sky Sport Bundesliga 7 HD.skyde">
+<programme start="20260516131500 +0000" stop="20260516163000 +0000" channel="Sky Sport Bundesliga 7 HD.skyde">
     <title>Live BL: Bayer Leverkusen - Hamburger SV, 34. Spieltag</title>
 </programme>
 <programme start="20260516124000 +0000" stop="20260516130000 +0000" channel="Sky Sport Bundesliga 8 HD.skyde">
@@ -2776,7 +2779,7 @@
 <programme start="20260516124000 +0000" stop="20260516130000 +0000" channel="Sky Sport Bundesliga 10 HD.skyde">
     <title>Es folgt: LIVE BL</title>
 </programme>
-<programme start="20260516130000 +0000" stop="20260516170000 +0000" channel="Sky Sport Bundesliga 10 HD.skyde">
+<programme start="20260516130000 +0000" stop="20260516163000 +0000" channel="Sky Sport Bundesliga 10 HD.skyde">
     <title>Live BL: Multiview 34. Spieltag</title>
 </programme>
 <programme start="20260515220000 +0000" stop="20260515230000 +0000" channel="Sky Sport F1 HD.skyde">
@@ -2854,10 +2857,7 @@
 <programme start="20260516170000 +0000" stop="20260516230000 +0000" channel="Sky Sport Golf HD.skyde">
     <title>Live PGA Championship: 3. Tag in Newtown Square, PA (USA)</title>
 </programme>
-<programme start="20260515221500 +0000" stop="20260515223000 +0000" channel="Sky Sport Mix HD.skyde">
-    <title>NHL: Highlights MTL@BUF, Playoffs, 2. Runde, Spiel 5</title>
-</programme>
-<programme start="20260515223000 +0000" stop="20260515233000 +0000" channel="Sky Sport Mix HD.skyde">
+<programme start="20260515225500 +0000" stop="20260515233000 +0000" channel="Sky Sport Mix HD.skyde">
     <title>NHL: Tonight - Playoff Edition</title>
 </programme>
 <programme start="20260515233000 +0000" stop="20260516020000 +0000" channel="Sky Sport Mix HD.skyde">
@@ -3073,41 +3073,35 @@
 <programme start="20260516204500 +0000" stop="20260516224500 +0000" channel="Sky Sport Premier League HD.skyde">
     <title>PL: Aston Villa - FC Liverpool, 37. Spieltag</title>
 </programme>
-<programme start="20260515230000 +0000" stop="20260516000000 +0000" channel="Sky Sport Tennis HD.skyde">
-    <title>ATP 1000: Review Madrid</title>
-</programme>
-<programme start="20260516000000 +0000" stop="20260516020000 +0000" channel="Sky Sport Tennis HD.skyde">
+<programme start="20260515225500 +0000" stop="20260516005500 +0000" channel="Sky Sport Tennis HD.skyde">
     <title>WTA 1000: E. Svitolina (UKR) - I. Swiatek (POL), Internazionali BNL d&#039;Italia in Rom (Italien), Halbfinale 2</title>
 </programme>
-<programme start="20260516020000 +0000" stop="20260516023000 +0000" channel="Sky Sport Tennis HD.skyde">
+<programme start="20260516005500 +0000" stop="20260516015000 +0000" channel="Sky Sport Tennis HD.skyde">
+    <title>ATP 1000: Review Madrid</title>
+</programme>
+<programme start="20260516015000 +0000" stop="20260516035000 +0000" channel="Sky Sport Tennis HD.skyde">
+    <title>WTA 1000: E. Svitolina (UKR) - I. Swiatek (POL), Internazionali BNL d&#039;Italia in Rom (Italien), Halbfinale 2</title>
+</programme>
+<programme start="20260516035000 +0000" stop="20260516041500 +0000" channel="Sky Sport Tennis HD.skyde">
     <title>ATP: This Week</title>
 </programme>
-<programme start="20260516023000 +0000" stop="20260516043000 +0000" channel="Sky Sport Tennis HD.skyde">
+<programme start="20260516041500 +0000" stop="20260516061500 +0000" channel="Sky Sport Tennis HD.skyde">
     <title>WTA 1000: M. Kostyuk (UKR) - M. Andreeva, Mutua Madrid Open in Madrid (ESP), Finale</title>
 </programme>
-<programme start="20260516043000 +0000" stop="20260516050000 +0000" channel="Sky Sport Tennis HD.skyde">
-    <title>WTA 1000: Review Madrid</title>
-</programme>
-<programme start="20260516050000 +0000" stop="20260516053000 +0000" channel="Sky Sport Tennis HD.skyde">
-    <title>ATP: This Week</title>
-</programme>
-<programme start="20260516053000 +0000" stop="20260516073000 +0000" channel="Sky Sport Tennis HD.skyde">
+<programme start="20260516061500 +0000" stop="20260516080000 +0000" channel="Sky Sport Tennis HD.skyde">
     <title>ATP 1000: L. Darderi (ITA) - C. Ruud (NOR), Internazionali BNL d&#039;Italia in Rom (Italien), Halbfinale 1</title>
 </programme>
-<programme start="20260516073000 +0000" stop="20260516093000 +0000" channel="Sky Sport Tennis HD.skyde">
-    <title>ATP 1000: J. Sinner (ITA) - D. Medvedev, Internazionali BNL d&#039;Italia in Rom (Italien), Halbfinale 2</title>
-</programme>
-<programme start="20260516093000 +0000" stop="20260516103000 +0000" channel="Sky Sport Tennis HD.skyde">
+<programme start="20260516080000 +0000" stop="20260516090000 +0000" channel="Sky Sport Tennis HD.skyde">
     <title>ATP 1000: Review Madrid</title>
 </programme>
-<programme start="20260516103000 +0000" stop="20260516123000 +0000" channel="Sky Sport Tennis HD.skyde">
+<programme start="20260516090000 +0000" stop="20260516102500 +0000" channel="Sky Sport Tennis HD.skyde">
     <title>WTA 1000: C. Gauff (USA) - S. Cirstea (ROU), Internazionali BNL d&#039;Italia in Rom (Italien), Halbfinale 1</title>
 </programme>
-<programme start="20260516123000 +0000" stop="20260516143000 +0000" channel="Sky Sport Tennis HD.skyde">
-    <title>WTA 1000: E. Svitolina (UKR) - I. Swiatek (POL), Internazionali BNL d&#039;Italia in Rom (Italien), Halbfinale 2</title>
+<programme start="20260516102500 +0000" stop="20260516130000 +0000" channel="Sky Sport Tennis HD.skyde">
+    <title>ATP 1000: J. Sinner (ITA) - D. Medvedev, Internazionali BNL d&#039;Italia in Rom (Italien), Halbfinale 2</title>
 </programme>
-<programme start="20260516143000 +0000" stop="20260516145000 +0000" channel="Sky Sport Tennis HD.skyde">
-    <title>WTA: Greatest 50</title>
+<programme start="20260516130000 +0000" stop="20260516145000 +0000" channel="Sky Sport Tennis HD.skyde">
+    <title>Live ATP 1000: J. Sinner (ITA) - D. Medvedev, Internazionali BNL d&#039;Italia in Rom (Italien), Halbfinale 2 Fortsetzung</title>
 </programme>
 <programme start="20260516145000 +0000" stop="20260516173000 +0000" channel="Sky Sport Tennis HD.skyde">
     <title>Live WTA 1000: C. Gauff (USA) - E. Svitolina (UKR), Internazionali BNL d&#039;Italia in Rom (Italien), Finale</title>
