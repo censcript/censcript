@@ -6649,7 +6649,10 @@
     <programme start="20260516150000 +0000" stop="20260516163100 +0000" channel="TV5MONDE HD.starhub">
         <title>Meurtres En Perigord Vert</title>
     </programme>
-    <programme start="20260515160000 +0000" stop="20260515170000 +0000" channel="Hub Sports 1  HD.starhub">
+    <programme start="20260515133000 +0000" stop="20260515160500 +0000" channel="Hub Sports 1  HD.starhub">
+        <title>Internazionali BNL d’Italia (1000) SF 1</title>
+    </programme>
+    <programme start="20260515160500 +0000" stop="20260515170000 +0000" channel="Hub Sports 1  HD.starhub">
         <title>UCI Pro Series - Presidential Cycling Tour of Turkiye</title>
     </programme>
     <programme start="20260515170000 +0000" stop="20260515190000 +0000" channel="Hub Sports 1  HD.starhub">

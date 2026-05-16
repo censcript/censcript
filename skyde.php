@@ -2575,7 +2575,7 @@
 <programme start="20260516134000 +0000" stop="20260516140000 +0000" channel="Sky Sport Austria 3 HD.skyde">
     <title>Es folgt: LIVE Admiral BL</title>
 </programme>
-<programme start="20260516140000 +0000" stop="20260516171500 +0000" channel="Sky Sport Austria 3 HD.skyde">
+<programme start="20260516140000 +0000" stop="20260516170000 +0000" channel="Sky Sport Austria 3 HD.skyde">
     <title>Live Admiral BL: SCR Altach - SV Oberbank Ried, 32. Runde</title>
 </programme>
 <programme start="20260516134000 +0000" stop="20260516140000 +0000" channel="Sky Sport Austria 4 HD.skyde">
@@ -2585,7 +2585,7 @@
     <title>Live Admiral BL: RZ Pellets WAC - WSG Tirol, 32. Runde</title>
 </programme>
 <programme start="20260515220500 +0000" stop="20260515222000 +0000" channel="Sky Sport Bundesliga HD.skyde">
-    <title>BL: Alles ist möglich - Jamal Musiala Exklusiv</title>
+    <title>BL: Jamal Musiala Exklusiv</title>
 </programme>
 <programme start="20260515222000 +0000" stop="20260515225000 +0000" channel="Sky Sport Bundesliga HD.skyde">
     <title>BL: Bundesliga Weekly</title>
@@ -2627,7 +2627,7 @@
     <title>BL: BVB-Podcast mit Julian Brandt</title>
 </programme>
 <programme start="20260516073000 +0000" stop="20260516074500 +0000" channel="Sky Sport Bundesliga HD.skyde">
-    <title>BL: Alles ist möglich - Jamal Musiala Exklusiv</title>
+    <title>BL: Jamal Musiala Exklusiv</title>
 </programme>
 <programme start="20260516074500 +0000" stop="20260516084500 +0000" channel="Sky Sport Bundesliga HD.skyde">
     <title>BL: Matchplan: STP - WOB, 34. Spieltag</title>
@@ -2725,7 +2725,7 @@
 <programme start="20260516130000 +0000" stop="20260516131500 +0000" channel="Sky Sport Bundesliga 3 HD.skyde">
     <title>Live BL: FCH - M05: tipico Countdown, 34. Spieltag</title>
 </programme>
-<programme start="20260516131500 +0000" stop="20260516170000 +0000" channel="Sky Sport Bundesliga 3 HD.skyde">
+<programme start="20260516131500 +0000" stop="20260516163000 +0000" channel="Sky Sport Bundesliga 3 HD.skyde">
     <title>Live BL: 1. FC Heidenheim - 1. FSV Mainz 05, 34. Spieltag</title>
 </programme>
 <programme start="20260516124000 +0000" stop="20260516130000 +0000" channel="Sky Sport Bundesliga 4 HD.skyde">
@@ -2779,7 +2779,7 @@
 <programme start="20260516130000 +0000" stop="20260516131500 +0000" channel="Sky Sport Bundesliga 9 HD.skyde">
     <title>Live BL: FCU - FCA: tipico Countdown, 34. Spieltag</title>
 </programme>
-<programme start="20260516131500 +0000" stop="20260516163000 +0000" channel="Sky Sport Bundesliga 9 HD.skyde">
+<programme start="20260516131500 +0000" stop="20260516160000 +0000" channel="Sky Sport Bundesliga 9 HD.skyde">
     <title>Live BL: 1. FC Union Berlin - FC Augsburg, 34. Spieltag</title>
 </programme>
 <programme start="20260516124000 +0000" stop="20260516130000 +0000" channel="Sky Sport Bundesliga 10 HD.skyde">
