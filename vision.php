@@ -778,12 +778,6 @@
 <programme start="20260516053000 +0000" stop="20260516070000 +0000" channel="TVOne.vision">
 <title>Damai Indonesiaku</title>
 </programme>
-<programme start="20260516070000 +0000" stop="20260516073000 +0000" channel="TVOne.vision">
-<title>Selalu Ada Hikmah</title>
-</programme>
-<programme start="20260516073000 +0000" stop="20260516080000 +0000" channel="TVOne.vision">
-<title>Satria Biru</title>
-</programme>
 <programme start="20260516080000 +0000" stop="20260516090000 +0000" channel="TVOne.vision">
 <title>Apa Kabar Indonesia Akhir Pekan</title>
 </programme>
@@ -1497,4 +1491,10 @@
 </programme>
 <programme start="20260517090000 +0000" stop="20260517110000 +0000" channel="TVRI.vision">
 <title>TVRI</title>
+</programme>
+<programme start="20260517110000 +0000" stop="20260517130000 +0000" channel="TVRI.vision">
+<title>TVRI</title>
+</programme>
+<programme start="20260516000000 +0000" stop="20260516030000 +0000" channel="DAAI TV.vision">
+<title>DAAI TV</title>
 </programme>
