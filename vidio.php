@@ -193,12 +193,12 @@
     <desc lang="id">Sinetron yang bercerita tentang persahabatan, cinta dan serunya keseharian para Gen Z. Dibintangi oleh AQEELA CALISTA, FATTAH SYACH, ARYA MOHAN, NICOLE ROSSI, HARRY VAUGHAN dan RAISA MARIE. Tayang setiap hari pukul 17.00 WIB.</desc>
     <icon src="https://thumbor.prod.vidiocdn.com/qhZpHEqYoWbfBrJa0aLRcUb0G7I=/287x162/filters:strip_icc():quality(70)/vidio-media-production/uploads/tv_program/thumbnail/401147/50494f.jpg"/>
   </programme>
-  <programme channel="204" start="20260516130000 +0000" stop="20260516144500 +0000">
+  <programme channel="204" start="20260516130000 +0000" stop="20260516142000 +0000">
     <title lang="id">Beri Cinta Waktu</title>
     <desc lang="id">Sinetron romansa tentang kisah Khansa (Yasmin Napper), perempuan lembut yang dipenjara 5 tahun karena fitnah Monika (Anjani Dina) untuk menutupi kecelakaan yang menabrak Aryani. Setelah bebas, Khansa berjuang mempertahankan iman dan kejujurannya di tengah teror, pengkhianatan, dan konflik cinta dengan Fathan (Arbani Yasiz) dan Emran (Cakrawala Airawan). Tayang setiap hari pukul 18.25 WIB</desc>
     <icon src="https://thumbor.prod.vidiocdn.com/2nNGNo3DLsb4Sb6Tma9RmbHzKCo=/287x162/filters:strip_icc():quality(70)/vidio-media-production/uploads/livestreaming/schedule/thumbnail/5068525/c6056e.jpg"/>
   </programme>
-  <programme channel="204" start="20260516144500 +0000" stop="20260516160000 +0000">
+  <programme channel="204" start="20260516142000 +0000" stop="20260516160000 +0000">
     <title lang="id">Jejak Duka Diandra</title>
     <desc lang="id">Sinetron romansa tentang perjalanan Trian (Yesaya Abraham) mencari keadilan dan mengungkap kejahatan pasca Adila, istrinya meninggal dunia, dengan bantuan Rama (Rayn Wijaya) dan Asmara (Angela Gilsha). Tayang setiap hari pukul 20.10 WIB</desc>
     <icon src="https://thumbor.prod.vidiocdn.com/oMFhUagHdo4551UBuIvUsG9_qZA=/287x162/filters:strip_icc():quality(70)/vidio-media-production/uploads/tv_program/thumbnail/399305/1d17bf.jpg"/>
@@ -835,17 +835,17 @@
     <desc lang="id">Mega Series Terbaru Raden Rakha dan Basmalah Gralind Di Indosiar "Merangkai Kisah Indah" Tayang Setiap Hari, Mulai Senin, 14 Juli 2025 Pukul 17:00 WIB. Kisah Derita Mutiara Yang Mencari Orangtua Kandungnya Karena Sewaktu Bayi Ditukar Oleh Ibu Angkatnya. Nasib Membawa Dirinya Bertemu Dengan Keluarga Yang Tanpa Dia Ketahui Adalah Orangtua Kandungnya dan Juga Bertemu Kenzo. Apakah Kenzo dan Mutiara Akan Berjodoh? Dibintangi Raden Rakha, Basmalah Gralind, Panji Saputra, Tsania Marwa, Gita Sinaga, Vayala Maulidina, Washifa, Haura Lathifa, dan Emiliano Cortizo. Saksikan Mega Series Terbaru Indosiar : Merangkai Kisah Indah, Tayang Setiap Hari, Mulai Senin, 14 Juli 2025 Pukul 17:00 WIB Hanya Di Indosiar.</desc>
     <icon src="https://thumbor.prod.vidiocdn.com/WIl2jiaTLEzHnNAo61AGzfdEXh8=/287x162/filters:strip_icc():quality(70)/vidio-media-production/uploads/tv_program/thumbnail/389747/fc3ce1.jpg"/>
   </programme>
-  <programme channel="205" start="20260516113200 +0000" stop="20260516141000 +0000">
+  <programme channel="205" start="20260516113200 +0000" stop="20260516141300 +0000">
     <title lang="id">BRI Superleague 2025/26 - Malut United Fc Vs Persita</title>
     <desc lang="id">Saksikan! BRI Super League 2025/26 - Is Back!" 18 Klub Terbaik Siap Bertarung Di Kasta Tertinggi Sepak Bola Indonesia! Pertandingan Semakin Seru! Jangan Lewatkan BRI Super League 2025/26 Mulai 8 Agustus 2025, Pkl 15.00 &amp; 18.30 WIB, Live &amp; Eksklusif Hanya Di Indosiar dan Vidio #Indosiarrumahsepakbolaindonesia</desc>
     <icon src="https://thumbor.prod.vidiocdn.com/cBZL7ITaJCof6cqtayFee2uJCX8=/287x162/filters:strip_icc():quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/image/205/indosiar-d9a3d0.jpg"/>
   </programme>
-  <programme channel="205" start="20260516141000 +0000" stop="20260516180000 +0000">
+  <programme channel="205" start="20260516141500 +0000" stop="20260516180000 +0000">
     <title lang="id">D' Academy 7 - Mega Konser Golden Memories</title>
     <desc lang="id">Panggung Megah Konser D'Academy 7 Siap Digelar! Audisi Online dan Offline Telah Usai! Siapakah Yang Akan Lolos Ke Panggung Megah D'Academy 7? Saksikan D'Academy 7 Mulai Senin, 9 Juni, Setiap Senin-Jumat Live Pkl 20.00 WIB Hanya Di Indosiar. #Indosiarbawadangdutberkelasberkualitas</desc>
     <icon src="https://thumbor.prod.vidiocdn.com/uKHm0S9M7yLVhDc6UvxwGpdf4oI=/287x162/filters:strip_icc():quality(70)/vidio-media-production/uploads/livestreaming/schedule/thumbnail/5070433/c2d0a8.jpg"/>
   </programme>
-  <programme channel="205" start="20260516141000 +0000" stop="20260516180000 +0000">
+  <programme channel="205" start="20260516141500 +0000" stop="20260516180000 +0000">
     <title lang="id">D' Academy 7 - Mega Konser Golden Memories</title>
     <desc lang="id">Panggung Megah Konser D'Academy 7 Siap Digelar! Audisi Online dan Offline Telah Usai! Siapakah Yang Akan Lolos Ke Panggung Megah D'Academy 7? Saksikan D'Academy 7 Mulai Senin, 9 Juni, Setiap Senin-Jumat Live Pkl 20.00 WIB Hanya Di Indosiar. #Indosiarbawadangdutberkelasberkualitas</desc>
     <icon src="https://thumbor.prod.vidiocdn.com/uKHm0S9M7yLVhDc6UvxwGpdf4oI=/287x162/filters:strip_icc():quality(70)/vidio-media-production/uploads/livestreaming/schedule/thumbnail/5070433/c2d0a8.jpg"/>
@@ -1957,12 +1957,12 @@
     <desc lang="id">American Ninja Warrior Junior</desc>
     <icon src="https://thumbor.prod.vidiocdn.com/edS0LcvHFAH_oHq6RC7EHvKakEg=/287x162/filters:strip_icc():quality(70)/vidio-media-production/uploads/livestreaming/schedule/thumbnail/5062704/d0407b.jpg"/>
   </programme>
-  <programme channel="206" start="20260516113000 +0000" stop="20260516140000 +0000">
+  <programme channel="206" start="20260516113000 +0000" stop="20260516135600 +0000">
     <title lang="id">AVC Mens Champions League 2026 Fs.19:00</title>
     <desc lang="id">AVC Mens Champions League 2026 Fs.19:00</desc>
     <icon src="https://thumbor.prod.vidiocdn.com/NdmzqkxqnWVnlngtk_ObYNT-wiY=/287x162/filters:strip_icc():quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/image/206/moji-a5bd3e.jpg"/>
   </programme>
-  <programme channel="206" start="20260516140000 +0000" stop="20260516153000 +0000">
+  <programme channel="206" start="20260516135600 +0000" stop="20260516153000 +0000">
     <title lang="id">Rerun Proliga 2026</title>
     <desc lang="id">Rerun Proliga 2026</desc>
     <icon src="https://thumbor.prod.vidiocdn.com/NdmzqkxqnWVnlngtk_ObYNT-wiY=/287x162/filters:strip_icc():quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/image/206/moji-a5bd3e.jpg"/>
@@ -13043,12 +13043,12 @@
     <desc lang="id">Rizespor vs Besiktas</desc>
     <icon src="https://thumbor.prod.vidiocdn.com/VmoYokSeKr_3SubUXC-rMC-EtQM=/287x162/filters:strip_icc():quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/image/17875/bein-2-25a5f9.jpg"/>
   </programme>
-  <programme channel="17875" start="20260516115000 +0000" stop="20260516143000 +0000">
+  <programme channel="17875" start="20260516115000 +0000" stop="20260516143300 +0000">
     <title lang="id">West Ham vs Man City - Women's Super League</title>
     <desc lang="id">Nonton streaming pertandingan seru West Ham vs Man City - Women's Super League. Saksikan aksi-aksi terbaik dari tim yang bersaing ketat untuk meraih kemenangan. Dapatkan informasi lengkap mengenai jadwal pertandingan dan hasil pertandingan terbaru hanya di Vidio.</desc>
     <icon src="https://thumbor.prod.vidiocdn.com/10HS246cw-Of2j9WHeR5JAnsBJA=/287x162/filters:strip_icc():quality(70)/vidio-media-production/uploads/livestreaming/schedule/thumbnail/5075478/a1a8c1.jpg"/>
   </programme>
-  <programme channel="17875" start="20260516143000 +0000" stop="20260516153000 +0000">
+  <programme channel="17875" start="20260516143300 +0000" stop="20260516153000 +0000">
     <title lang="id">In the Shadows of Giants : Roland Garros Documentaries And Review</title>
     <desc lang="id">In the Shadows of Giants</desc>
     <icon src="https://thumbor.prod.vidiocdn.com/VmoYokSeKr_3SubUXC-rMC-EtQM=/287x162/filters:strip_icc():quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/image/17875/bein-2-25a5f9.jpg"/>
@@ -13668,22 +13668,22 @@
     <desc lang="id">Week 20</desc>
     <icon src="https://thumbor.prod.vidiocdn.com/nY0aFklpYf6yONLaFJjxhiSuthc=/287x162/filters:strip_icc():quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/image/6786/champions-tv-3-76ca7c.jpg"/>
   </programme>
-  <programme channel="6786" start="20260515170000 +0000" stop="20260515190000 +0000">
+  <programme channel="6786" start="20260515170000 +0000" stop="20260515190700 +0000">
     <title lang="id">LECCE vs JUVENTUS : SERIE A 2025/26</title>
     <desc lang="id">LECCE vs JUVENTUS</desc>
     <icon src="https://thumbor.prod.vidiocdn.com/nY0aFklpYf6yONLaFJjxhiSuthc=/287x162/filters:strip_icc():quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/image/6786/champions-tv-3-76ca7c.jpg"/>
   </programme>
-  <programme channel="6786" start="20260515190000 +0000" stop="20260515210000 +0000">
+  <programme channel="6786" start="20260515190700 +0000" stop="20260515211000 +0000">
     <title lang="id">MILAN vs ATALANTA : Serie A 2025/26</title>
     <desc lang="id">MILAN vs ATALANTA</desc>
     <icon src="https://thumbor.prod.vidiocdn.com/nY0aFklpYf6yONLaFJjxhiSuthc=/287x162/filters:strip_icc():quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/image/6786/champions-tv-3-76ca7c.jpg"/>
   </programme>
-  <programme channel="6786" start="20260515210000 +0000" stop="20260515230000 +0000">
+  <programme channel="6786" start="20260515211000 +0000" stop="20260515230800 +0000">
     <title lang="id">CAGLIARI vs UDINESE : Serie A 2025/26</title>
     <desc lang="id">CAGLIARI vs UDINESE</desc>
     <icon src="https://thumbor.prod.vidiocdn.com/nY0aFklpYf6yONLaFJjxhiSuthc=/287x162/filters:strip_icc():quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/image/6786/champions-tv-3-76ca7c.jpg"/>
   </programme>
-  <programme channel="6786" start="20260515230000 +0000" stop="20260516000000 +0000">
+  <programme channel="6786" start="20260515230800 +0000" stop="20260516000000 +0000">
     <title lang="id">INDIAN WELLS - HIGHLIGHTS SHOW : WTA 2026 - Highlight</title>
     <desc lang="id">INDIAN WELLS - HIGHLIGHTS SHOW</desc>
     <icon src="https://thumbor.prod.vidiocdn.com/nY0aFklpYf6yONLaFJjxhiSuthc=/287x162/filters:strip_icc():quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/image/6786/champions-tv-3-76ca7c.jpg"/>
@@ -13708,12 +13708,12 @@
     <desc lang="id">Week 8</desc>
     <icon src="https://thumbor.prod.vidiocdn.com/nY0aFklpYf6yONLaFJjxhiSuthc=/287x162/filters:strip_icc():quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/image/6786/champions-tv-3-76ca7c.jpg"/>
   </programme>
-  <programme channel="6786" start="20260516040000 +0000" stop="20260516060000 +0000">
+  <programme channel="6786" start="20260516040000 +0000" stop="20260516061500 +0000">
     <title lang="id">PARMA vs ROMA : Serie A 2025/26</title>
     <desc lang="id">PARMA vs ROMA</desc>
     <icon src="https://thumbor.prod.vidiocdn.com/nY0aFklpYf6yONLaFJjxhiSuthc=/287x162/filters:strip_icc():quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/image/6786/champions-tv-3-76ca7c.jpg"/>
   </programme>
-  <programme channel="6786" start="20260516060000 +0000" stop="20260516081200 +0000">
+  <programme channel="6786" start="20260516061500 +0000" stop="20260516081200 +0000">
     <title lang="id">LECCE vs JUVENTUS : Serie A 2025/26</title>
     <desc lang="id">LECCE vs JUVENTUS</desc>
     <icon src="https://thumbor.prod.vidiocdn.com/nY0aFklpYf6yONLaFJjxhiSuthc=/287x162/filters:strip_icc():quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/image/6786/champions-tv-3-76ca7c.jpg"/>
@@ -13722,12 +13722,12 @@
     <title lang="id">Sports Woman</title>
     <icon src="https://thumbor.prod.vidiocdn.com/nY0aFklpYf6yONLaFJjxhiSuthc=/287x162/filters:strip_icc():quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/image/6786/champions-tv-3-76ca7c.jpg"/>
   </programme>
-  <programme channel="6786" start="20260516083000 +0000" stop="20260516090000 +0000">
+  <programme channel="6786" start="20260516083000 +0000" stop="20260516090600 +0000">
     <title lang="id">Inside - Round 37 : Serie A 2025/26 - Magazine</title>
     <desc lang="id">Inside - Round 37</desc>
     <icon src="https://thumbor.prod.vidiocdn.com/nY0aFklpYf6yONLaFJjxhiSuthc=/287x162/filters:strip_icc():quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/image/6786/champions-tv-3-76ca7c.jpg"/>
   </programme>
-  <programme channel="6786" start="20260516090000 +0000" stop="20260516110000 +0000">
+  <programme channel="6786" start="20260516090600 +0000" stop="20260516110000 +0000">
     <title lang="id">LAZIO vs INTER : Serie A 2025/26</title>
     <desc lang="id">LAZIO vs INTER</desc>
     <icon src="https://thumbor.prod.vidiocdn.com/nY0aFklpYf6yONLaFJjxhiSuthc=/287x162/filters:strip_icc():quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/image/6786/champions-tv-3-76ca7c.jpg"/>
@@ -13747,7 +13747,7 @@
     <desc lang="id">Nonton streaming pertandingan seru Final - WTA 1000: Internazionali BNL D'Italia 2026. Saksikan aksi-aksi terbaik dari tim yang bersaing ketat untuk meraih kemenangan. Dapatkan informasi lengkap mengenai jadwal pertandingan dan hasil pertandingan terbaru hanya di Vidio.</desc>
     <icon src="https://thumbor.prod.vidiocdn.com/WMftfx9QeJiwIfDKFdUdXciNdi4=/287x162/filters:strip_icc():quality(70)/vidio-media-production/uploads/livestreaming/schedule/thumbnail/5074616/a32f40.jpg"/>
   </programme>
-  <programme channel="6786" start="20260516150000 +0000" stop="20260516180000 +0000">
+  <programme channel="6786" start="20260516145700 +0000" stop="20260516180000 +0000">
     <title lang="id">Coco Gauff vs Elina Svitolina - Final | WTA 1000: Internazionali BNL D'Italia 2026</title>
     <desc lang="id">Nonton streaming pertandingan seru Final - WTA 1000: Internazionali BNL D'Italia 2026. Saksikan aksi-aksi terbaik dari tim yang bersaing ketat untuk meraih kemenangan. Dapatkan informasi lengkap mengenai jadwal pertandingan dan hasil pertandingan terbaru hanya di Vidio.</desc>
     <icon src="https://thumbor.prod.vidiocdn.com/WMftfx9QeJiwIfDKFdUdXciNdi4=/287x162/filters:strip_icc():quality(70)/vidio-media-production/uploads/livestreaming/schedule/thumbnail/5074616/a32f40.jpg"/>
@@ -22838,12 +22838,12 @@ dan komprehensif mengenai berbagai topik yang relevan dalam kehidupan sehari-har
     <desc lang="id">Nonton streaming pertandingan seru WorldSBK Race 1 - WorldSBK Championship 2026 Round 5 Czech Round. Saksikan aksi-aksi terbaik dari tim yang bersaing ketat untuk meraih kemenangan. Dapatkan informasi lengkap mengenai jadwal pertandingan dan hasil pertandingan terbaru hanya di Vidio.</desc>
     <icon src="https://thumbor.prod.vidiocdn.com/nn56h-ypOPHBQWBD6UTELCK_Hes=/287x162/filters:strip_icc():quality(70)/vidio-media-production/uploads/livestreaming/schedule/thumbnail/5074269/722777.jpg"/>
   </programme>
-  <programme channel="17139" start="20260516131200 +0000" stop="20260516144300 +0000">
+  <programme channel="17139" start="20260516131200 +0000" stop="20260516144000 +0000">
     <title lang="id">WorldSPB Race 1 - WorldSBK Championship 2026 Round 5 Czech Round</title>
     <desc lang="id">Nonton streaming pertandingan seru WorldSPB Race 1 - WorldSBK Championship 2026 Round 5 Czech Round. Saksikan aksi-aksi terbaik dari tim yang bersaing ketat untuk meraih kemenangan. Dapatkan informasi lengkap mengenai jadwal pertandingan dan hasil pertandingan terbaru hanya di Vidio.</desc>
     <icon src="https://thumbor.prod.vidiocdn.com/T2EuHoe9tIVM1BPksALLib3ptx4=/287x162/filters:strip_icc():quality(70)/vidio-media-production/uploads/livestreaming/schedule/thumbnail/5074270/8b57a2.jpg"/>
   </programme>
-  <programme channel="17139" start="20260516144300 +0000" stop="20260516163000 +0000">
+  <programme channel="17139" start="20260516144000 +0000" stop="20260516163000 +0000">
     <title lang="id">SF 2nd Leg: Partick Thistle vs QF winner : 25/26 Scottish Premiership Play-off</title>
     <desc lang="id">Scotland's elite clubs return for the 2025/26 Premiership campaign, battling for European spots, survival, and the league championship.</desc>
     <icon src="https://thumbor.prod.vidiocdn.com/YBK8XRc1cWJx0JfM3CWo6PnTfFY=/287x162/filters:strip_icc():quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/image/17139/spotv-c18c69.jpg"/>
