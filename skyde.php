@@ -961,6 +961,9 @@
 <programme start="20260516010000 +0000" stop="20260516060000 +0000" channel="DAZN 1 HD.skyde">
     <title>Sendepause</title>
 </programme>
+<programme start="20260516060000 +0000" stop="20260516080000 +0000" channel="DAZN 1 HD.skyde">
+    <title>Bundesliga 25/26: VFB Stuttgart - Bayer 04 Leverkusen</title>
+</programme>
 <programme start="20260516080000 +0000" stop="20260516083000 +0000" channel="DAZN 1 HD.skyde">
     <title>Das Herz des deutschen Fußballs: Episode 1</title>
 </programme>
@@ -991,8 +994,11 @@
 <programme start="20260516184000 +0000" stop="20260516203500 +0000" channel="DAZN 1 HD.skyde">
     <title>Bundesliga 25/26: FC St. Pauli - VFL Wolfsburg</title>
 </programme>
-<programme start="20260516203500 +0000" stop="20260516220000 +0000" channel="DAZN 1 HD.skyde">
+<programme start="20260516203500 +0000" stop="20260516215000 +0000" channel="DAZN 1 HD.skyde">
     <title>ALL IN - Die Bundesliga Highlight Show: 34. Spieltag</title>
+</programme>
+<programme start="20260516215000 +0000" stop="20260516220000 +0000" channel="DAZN 1 HD.skyde">
+    <title>Best of DAZN: Highlights</title>
 </programme>
 <programme start="20260515220000 +0000" stop="20260516060000 +0000" channel="DAZN 2 HD.skyde">
     <title>Sendepause</title>
@@ -1036,11 +1042,8 @@
 <programme start="20260516164500 +0000" stop="20260516171500 +0000" channel="DAZN 2 HD.skyde">
     <title>Das Herz des deutschen Fußballs: Episode 1</title>
 </programme>
-<programme start="20260516171500 +0000" stop="20260516172000 +0000" channel="DAZN 2 HD.skyde">
+<programme start="20260516171500 +0000" stop="20260516174500 +0000" channel="DAZN 2 HD.skyde">
     <title>Das Herz des deutschen Fußballs: Episode 2</title>
-</programme>
-<programme start="20260516172000 +0000" stop="20260516174500 +0000" channel="DAZN 2 HD.skyde">
-    <title>Best of DAZN: Highlights</title>
 </programme>
 <programme start="20260516174500 +0000" stop="20260516195500 +0000" channel="DAZN 2 HD.skyde">
     <title>Saudi Pro League 25/26: Al Ahli - Al Kholood</title>
@@ -2582,7 +2585,7 @@
     <title>Live Admiral BL: RZ Pellets WAC - WSG Tirol, 32. Runde</title>
 </programme>
 <programme start="20260515220500 +0000" stop="20260515222000 +0000" channel="Sky Sport Bundesliga HD.skyde">
-    <title>BL: Jamal Musiala Exklusiv</title>
+    <title>BL: Alles ist möglich - Jamal Musiala Exklusiv</title>
 </programme>
 <programme start="20260515222000 +0000" stop="20260515225000 +0000" channel="Sky Sport Bundesliga HD.skyde">
     <title>BL: Bundesliga Weekly</title>
@@ -2624,7 +2627,7 @@
     <title>BL: BVB-Podcast mit Julian Brandt</title>
 </programme>
 <programme start="20260516073000 +0000" stop="20260516074500 +0000" channel="Sky Sport Bundesliga HD.skyde">
-    <title>BL: Jamal Musiala Exklusiv</title>
+    <title>BL: Alles ist möglich - Jamal Musiala Exklusiv</title>
 </programme>
 <programme start="20260516074500 +0000" stop="20260516084500 +0000" channel="Sky Sport Bundesliga HD.skyde">
     <title>BL: Matchplan: STP - WOB, 34. Spieltag</title>
@@ -2926,8 +2929,23 @@
 <programme start="20260516153000 +0000" stop="20260516163000 +0000" channel="Sky Sport Mix HD.skyde">
     <title>MotoGP: Sprint - GP Katalonien</title>
 </programme>
+<programme start="20260516163000 +0000" stop="20260516190000 +0000" channel="Sky Sport Mix HD.skyde">
+    <title>DFB-Pokal Frauen: VfL Wolfsburg - FC Bayern München, Finale 2026 in Köln</title>
+</programme>
+<programme start="20260516190000 +0000" stop="20260516191500 +0000" channel="Sky Sport Mix HD.skyde">
+    <title>DFB-Pokal: Highlights XXL: Bayer Leverkusen - FC Bayern München, Halbfinale</title>
+</programme>
 <programme start="20260516191500 +0000" stop="20260516194500 +0000" channel="Sky Sport Mix HD.skyde">
     <title>NBA: On Fire</title>
+</programme>
+<programme start="20260516194500 +0000" stop="20260516204500 +0000" channel="Sky Sport Mix HD.skyde">
+    <title>MotoGP: Qualifying - GP Katalonien</title>
+</programme>
+<programme start="20260516204500 +0000" stop="20260516214500 +0000" channel="Sky Sport Mix HD.skyde">
+    <title>MotoGP: Sprint - GP Katalonien</title>
+</programme>
+<programme start="20260516214500 +0000" stop="20260516234500 +0000" channel="Sky Sport Mix HD.skyde">
+    <title>NHL: Vegas Golden Knights @ Anaheim Ducks, Playoffs, 2. Runde, Spiel 6</title>
 </programme>
 <programme start="20260515220000 +0000" stop="20260515230000 +0000" channel="Sky Sport News HD.skyde">
     <title>Sky Sport News: Nightline</title>
@@ -3159,6 +3177,9 @@
 </programme>
 <programme start="20260516180000 +0000" stop="20260516210000 +0000" channel="Sky Sport Top Event HD.skyde">
     <title>Live PGA Championship: 3. Tag in Newtown Square, PA (USA)</title>
+</programme>
+<programme start="20260516210000 +0000" stop="20260516233000 +0000" channel="Sky Sport Top Event HD.skyde">
+    <title>DFB-Pokal Frauen: VfL Wolfsburg - FC Bayern München, Finale 2026 in Köln</title>
 </programme>
 <programme start="20260515230000 +0000" stop="20260516010000 +0000" channel="Sky Sport UHD.skyde">
     <title>DFB-Pokal: VfB Stuttgart - SC Freiburg, Halbfinale</title>

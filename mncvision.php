@@ -9751,51 +9751,7 @@
 <programme start="20260516150000 +0000" stop="20260516153000 +0000" channel="TVRI.mncvision">
     <title>TVRI</title>
 </programme>
-<programme start="20260515180600 +0000" stop="20260515193200 +0000" channel="UNIQUES.mncvision">
-    <title>Blindfire</title>
-</programme>
-<programme start="20260515193200 +0000" stop="20260515212700 +0000" channel="UNIQUES.mncvision">
-    <title>Crime Chronicles: The Heist</title>
-</programme>
-<programme start="20260515212700 +0000" stop="20260515224600 +0000" channel="UNIQUES.mncvision">
-    <title>My Mom Made Me Do It</title>
-</programme>
-<programme start="20260515224600 +0000" stop="20260516003100 +0000" channel="UNIQUES.mncvision">
-    <title>Deadlock</title>
-</programme>
-<programme start="20260516003100 +0000" stop="20260516022800 +0000" channel="UNIQUES.mncvision">
-    <title>Eternal Love: The Encounter</title>
-</programme>
-<programme start="20260516022800 +0000" stop="20260516033800 +0000" channel="UNIQUES.mncvision">
-    <title>Bumbling Ballerina</title>
-</programme>
-<programme start="20260516033800 +0000" stop="20260516050100 +0000" channel="UNIQUES.mncvision">
-    <title>Fallen Stars: Redemption Road</title>
-</programme>
-<programme start="20260516050100 +0000" stop="20260516064700 +0000" channel="UNIQUES.mncvision">
-    <title>Check Point</title>
-</programme>
-<programme start="20260516064700 +0000" stop="20260516083400 +0000" channel="UNIQUES.mncvision">
-    <title>Crime Chronicles: The Heist</title>
-</programme>
-<programme start="20260516083400 +0000" stop="20260516100700 +0000" channel="UNIQUES.mncvision">
-    <title>Coda</title>
-</programme>
-<programme start="20260516100700 +0000" stop="20260516113900 +0000" channel="UNIQUES.mncvision">
-    <title>Beyond The Law</title>
-</programme>
-<programme start="20260516113900 +0000" stop="20260516132300 +0000" channel="UNIQUES.mncvision">
-    <title>Eternal Love: The Encounter</title>
-</programme>
-<programme start="20260516132300 +0000" stop="20260516145200 +0000" channel="UNIQUES.mncvision">
-    <title>Ghosts Of Christmas Past</title>
-</programme>
-<programme start="20260516145200 +0000" stop="20260516162300 +0000" channel="UNIQUES.mncvision">
-    <title>Fallen Stars: Redemption Road</title>
-</programme>
-<programme start="20260516162300 +0000" stop="20260516165300 +0000" channel="UNIQUES.mncvision">
-    <title>Drone</title>
-</programme>
+Error: Unable to fetch data. HTTP Status Code: 500
 <programme start="20260515180600 +0000" stop="20260515193200 +0000" channel="UNIQUES HD.mncvision">
     <title>Blindfire</title>
 </programme>
