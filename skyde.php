@@ -961,6 +961,9 @@
 <programme start="20260516010000 +0000" stop="20260516060000 +0000" channel="DAZN 1 HD.skyde">
     <title>Sendepause</title>
 </programme>
+<programme start="20260516060000 +0000" stop="20260516080000 +0000" channel="DAZN 1 HD.skyde">
+    <title>Coppa Italia 25/26: Lazio Rom - Inter Mailand</title>
+</programme>
 <programme start="20260516080000 +0000" stop="20260516083000 +0000" channel="DAZN 1 HD.skyde">
     <title>Das Herz des deutschen Fußballs: Episode 1</title>
 </programme>
@@ -1036,8 +1039,11 @@
 <programme start="20260516164500 +0000" stop="20260516171500 +0000" channel="DAZN 2 HD.skyde">
     <title>Das Herz des deutschen Fußballs: Episode 1</title>
 </programme>
-<programme start="20260516171500 +0000" stop="20260516174500 +0000" channel="DAZN 2 HD.skyde">
+<programme start="20260516171500 +0000" stop="20260516172000 +0000" channel="DAZN 2 HD.skyde">
     <title>Das Herz des deutschen Fußballs: Episode 2</title>
+</programme>
+<programme start="20260516172000 +0000" stop="20260516174500 +0000" channel="DAZN 2 HD.skyde">
+    <title>Best of DAZN: Highlights</title>
 </programme>
 <programme start="20260516174500 +0000" stop="20260516195500 +0000" channel="DAZN 2 HD.skyde">
     <title>Saudi Pro League 25/26: Al Ahli - Al Kholood</title>
@@ -2563,13 +2569,13 @@
 <programme start="20260516134000 +0000" stop="20260516140000 +0000" channel="Sky Sport Austria 3 HD.skyde">
     <title>Es folgt: LIVE Admiral BL</title>
 </programme>
-<programme start="20260516140000 +0000" stop="20260516171500 +0000" channel="Sky Sport Austria 3 HD.skyde">
+<programme start="20260516140000 +0000" stop="20260516170000 +0000" channel="Sky Sport Austria 3 HD.skyde">
     <title>Live Admiral BL: SCR Altach - SV Oberbank Ried, 32. Runde</title>
 </programme>
 <programme start="20260516134000 +0000" stop="20260516140000 +0000" channel="Sky Sport Austria 4 HD.skyde">
     <title>Es folgt: LIVE Admiral BL</title>
 </programme>
-<programme start="20260516140000 +0000" stop="20260516171500 +0000" channel="Sky Sport Austria 4 HD.skyde">
+<programme start="20260516140000 +0000" stop="20260516170000 +0000" channel="Sky Sport Austria 4 HD.skyde">
     <title>Live Admiral BL: RZ Pellets WAC - WSG Tirol, 32. Runde</title>
 </programme>
 <programme start="20260515220500 +0000" stop="20260515222000 +0000" channel="Sky Sport Bundesliga HD.skyde">
