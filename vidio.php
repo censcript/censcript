@@ -373,12 +373,12 @@
     <desc lang="id">FTV Yang Diambil Dari Kisah Kehidupan Sehari-Hari Pemirsa Yang Penuh Intrik, Konflik dan Pengkhianatan Untuk Memberikan Berbagai Pelajaran Hidup. Saksikan Setiap Hari Pukul 13.30 WIB, Hanya Di Indosiar.</desc>
     <icon src="https://thumbor.prod.vidiocdn.com/cBZL7ITaJCof6cqtayFee2uJCX8=/287x162/filters:strip_icc():quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/image/205/indosiar-d9a3d0.jpg"/>
   </programme>
-  <programme channel="205" start="20260516063000 +0000" stop="20260516075400 +0000">
+  <programme channel="205" start="20260516063000 +0000" stop="20260516075300 +0000">
     <title lang="id">Kisah Nyata : Peti Dari Masa Lalu</title>
     <desc lang="id">FTV Yang Diambil Dari Kisah Kehidupan Sehari-Hari Pemirsa Yang Penuh Intrik, Konflik dan Pengkhianatan Untuk Memberikan Berbagai Pelajaran Hidup.</desc>
     <icon src="https://thumbor.prod.vidiocdn.com/cBZL7ITaJCof6cqtayFee2uJCX8=/287x162/filters:strip_icc():quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/image/205/indosiar-d9a3d0.jpg"/>
   </programme>
-  <programme channel="205" start="20260516075400 +0000" stop="20260516104000 +0000">
+  <programme channel="205" start="20260516075300 +0000" stop="20260516104000 +0000">
     <title lang="id">BRI Superleague 2025/26 - Persik Kediri Vs Persija Jakarta</title>
     <desc lang="id">Saksikan! BRI Super League 2025/26 - Is Back!" 18 Klub Terbaik Siap Bertarung Di Kasta Tertinggi Sepak Bola Indonesia! Pertandingan Semakin Seru! Jangan Lewatkan BRI Super League 2025/26 Mulai 8 Agustus 2025, Pkl 15.00 &amp; 18.30 WIB, Live &amp; Eksklusif Hanya Di Indosiar dan Vidio #Indosiarrumahsepakbolaindonesia</desc>
     <icon src="https://thumbor.prod.vidiocdn.com/cBZL7ITaJCof6cqtayFee2uJCX8=/287x162/filters:strip_icc():quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/image/205/indosiar-d9a3d0.jpg"/>
@@ -2169,7 +2169,7 @@
   </programme>
   <programme channel="777" start="20260516183000 +0000" stop="20260516190500 +0000">
     <title lang="id">Primetime News</title>
-    <icon src="https://thumbor.prod.vidiocdn.com/SbL-YkxCWUgcsZPestmsf6TH0S0=/287x162/filters:strip_icc():quality(70)/vidio-media-production/uploads/tv_program/thumbnail/390346/ed6f7a.jpg"/>
+    <icon src="https://thumbor.prod.vidiocdn.com/Yn1q7R9SW62tbdmNjRDnZ3TpGU8=/287x162/filters:strip_icc():quality(70)/vidio-media-production/uploads/livestreaming/schedule/thumbnail/5060133/e35343.jpg"/>
   </programme>
   <programme channel="777" start="20260516190500 +0000" stop="20260516193000 +0000">
     <title lang="id">Primetime News</title>
@@ -12850,12 +12850,12 @@
     <desc lang="id">PARMA vs ROMA</desc>
     <icon src="https://thumbor.prod.vidiocdn.com/nY0aFklpYf6yONLaFJjxhiSuthc=/287x162/filters:strip_icc():quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/image/6786/champions-tv-3-76ca7c.jpg"/>
   </programme>
-  <programme channel="6786" start="20260516060000 +0000" stop="20260516080000 +0000">
+  <programme channel="6786" start="20260516060000 +0000" stop="20260516081200 +0000">
     <title lang="id">LECCE vs JUVENTUS : Serie A 2025/26</title>
     <desc lang="id">LECCE vs JUVENTUS</desc>
     <icon src="https://thumbor.prod.vidiocdn.com/nY0aFklpYf6yONLaFJjxhiSuthc=/287x162/filters:strip_icc():quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/image/6786/champions-tv-3-76ca7c.jpg"/>
   </programme>
-  <programme channel="6786" start="20260516080000 +0000" stop="20260516083000 +0000">
+  <programme channel="6786" start="20260516081200 +0000" stop="20260516083000 +0000">
     <title lang="id">Sports Woman</title>
     <icon src="https://thumbor.prod.vidiocdn.com/nY0aFklpYf6yONLaFJjxhiSuthc=/287x162/filters:strip_icc():quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/image/6786/champions-tv-3-76ca7c.jpg"/>
   </programme>
@@ -20384,20 +20384,24 @@ dan komprehensif mengenai berbagai topik yang relevan dalam kehidupan sehari-har
     <desc lang="id">40 of the world's best female and male professional triathletes battle over 8 breakneck 100km races in iconic locations around the globe in a bid to be crowned the T100 World Champions.</desc>
     <icon src="https://thumbor.prod.vidiocdn.com/YBK8XRc1cWJx0JfM3CWo6PnTfFY=/287x162/filters:strip_icc():quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/image/17139/spotv-c18c69.jpg"/>
   </programme>
-  <programme channel="17139" start="20260516073500 +0000" stop="20260516081000 +0000">
+  <programme channel="17139" start="20260516073500 +0000" stop="20260516080800 +0000">
     <title lang="id">WorldSBK Free Practice 3 - WorldSBK Championship 2026 Round 5 Czech Round</title>
     <desc lang="id">Nonton streaming pertandingan seru WorldSBK Free Practice 3 - WorldSBK Championship 2026 Round 5 Czech Round. Saksikan aksi-aksi terbaik dari tim yang bersaing ketat untuk meraih kemenangan. Dapatkan informasi lengkap mengenai jadwal pertandingan dan hasil pertandingan terbaru hanya di Vidio.</desc>
     <icon src="https://thumbor.prod.vidiocdn.com/bnN6SUMOUbokbyevvw9a2uLEK3Y=/287x162/filters:strip_icc():quality(70)/vidio-media-production/uploads/livestreaming/schedule/thumbnail/5074266/af9f0b.jpg"/>
   </programme>
-  <programme channel="17139" start="20260516081000 +0000" stop="20260516090500 +0000">
+  <programme channel="17139" start="20260516080800 +0000" stop="20260516090500 +0000">
     <title lang="id">Margaret River Pro Finals Day : 2026 World Surf League Replay</title>
     <desc lang="id">Be sure to catch the inspirational power of surfing through the 2026 WSL Championship Tour &amp; Challenger Series.</desc>
     <icon src="https://thumbor.prod.vidiocdn.com/YBK8XRc1cWJx0JfM3CWo6PnTfFY=/287x162/filters:strip_icc():quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/image/17139/spotv-c18c69.jpg"/>
   </programme>
-  <programme channel="17139" start="20260516090500 +0000" stop="20260516101500 +0000">
+  <programme channel="17139" start="20260516090500 +0000" stop="20260516094500 +0000">
     <title lang="id">WorldSBK Tissot Superpole - WorldSBK Championship 2026 Round 5 Czech Round</title>
     <desc lang="id">Nonton streaming pertandingan seru WorldSBK Tissot Superpole - WorldSBK Championship 2026 Round 5 Czech Round. Saksikan aksi-aksi terbaik dari tim yang bersaing ketat untuk meraih kemenangan. Dapatkan informasi lengkap mengenai jadwal pertandingan dan hasil pertandingan terbaru hanya di Vidio.</desc>
     <icon src="https://thumbor.prod.vidiocdn.com/odN9BtuY0ZEapkDQnQ8VGsOJ5Mw=/287x162/filters:strip_icc():quality(70)/vidio-media-production/uploads/livestreaming/schedule/thumbnail/5074267/965390.jpg"/>
+  </programme>
+  <programme channel="17139" start="20260516094500 +0000" stop="20260516101500 +0000">
+    <title lang="id">Singapore T100 Triathlon World Tour 2026</title>
+    <icon src="https://thumbor.prod.vidiocdn.com/YBK8XRc1cWJx0JfM3CWo6PnTfFY=/287x162/filters:strip_icc():quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/image/17139/spotv-c18c69.jpg"/>
   </programme>
   <programme channel="17139" start="20260516101500 +0000" stop="20260516113500 +0000">
     <title lang="id">WorldSSP Race 1 - WorldSBK Championship 2026 Round 5 Czech Round</title>

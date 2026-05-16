@@ -962,7 +962,7 @@
     <title>Sendepause</title>
 </programme>
 <programme start="20260516060000 +0000" stop="20260516080000 +0000" channel="DAZN 1 HD.skyde">
-    <title>Bundesliga 25/26: VFB Stuttgart - Bayer 04 Leverkusen</title>
+    <title>Coppa Italia 25/26: Lazio Rom - Inter Mailand</title>
 </programme>
 <programme start="20260516080000 +0000" stop="20260516083000 +0000" channel="DAZN 1 HD.skyde">
     <title>Das Herz des deutschen Fußballs: Episode 1</title>
@@ -994,11 +994,8 @@
 <programme start="20260516184000 +0000" stop="20260516203500 +0000" channel="DAZN 1 HD.skyde">
     <title>Bundesliga 25/26: FC St. Pauli - VFL Wolfsburg</title>
 </programme>
-<programme start="20260516203500 +0000" stop="20260516215000 +0000" channel="DAZN 1 HD.skyde">
+<programme start="20260516203500 +0000" stop="20260516220000 +0000" channel="DAZN 1 HD.skyde">
     <title>ALL IN - Die Bundesliga Highlight Show: 34. Spieltag</title>
-</programme>
-<programme start="20260516215000 +0000" stop="20260516220000 +0000" channel="DAZN 1 HD.skyde">
-    <title>Best of DAZN: Highlights</title>
 </programme>
 <programme start="20260515220000 +0000" stop="20260516060000 +0000" channel="DAZN 2 HD.skyde">
     <title>Sendepause</title>
@@ -1042,8 +1039,11 @@
 <programme start="20260516164500 +0000" stop="20260516171500 +0000" channel="DAZN 2 HD.skyde">
     <title>Das Herz des deutschen Fußballs: Episode 1</title>
 </programme>
-<programme start="20260516171500 +0000" stop="20260516174500 +0000" channel="DAZN 2 HD.skyde">
+<programme start="20260516171500 +0000" stop="20260516172000 +0000" channel="DAZN 2 HD.skyde">
     <title>Das Herz des deutschen Fußballs: Episode 2</title>
+</programme>
+<programme start="20260516172000 +0000" stop="20260516174500 +0000" channel="DAZN 2 HD.skyde">
+    <title>Best of DAZN: Highlights</title>
 </programme>
 <programme start="20260516174500 +0000" stop="20260516195500 +0000" channel="DAZN 2 HD.skyde">
     <title>Saudi Pro League 25/26: Al Ahli - Al Kholood</title>
@@ -2569,7 +2569,7 @@
 <programme start="20260516134000 +0000" stop="20260516140000 +0000" channel="Sky Sport Austria 2 HD.skyde">
     <title>Es folgt: LIVE Admiral BL</title>
 </programme>
-<programme start="20260516140000 +0000" stop="20260516170000 +0000" channel="Sky Sport Austria 2 HD.skyde">
+<programme start="20260516140000 +0000" stop="20260516171500 +0000" channel="Sky Sport Austria 2 HD.skyde">
     <title>Live Admiral BL: FC Blau-Weiß Linz - Grazer AK 1902, 32. Runde</title>
 </programme>
 <programme start="20260516134000 +0000" stop="20260516140000 +0000" channel="Sky Sport Austria 3 HD.skyde">
@@ -2581,11 +2581,11 @@
 <programme start="20260516134000 +0000" stop="20260516140000 +0000" channel="Sky Sport Austria 4 HD.skyde">
     <title>Es folgt: LIVE Admiral BL</title>
 </programme>
-<programme start="20260516140000 +0000" stop="20260516170000 +0000" channel="Sky Sport Austria 4 HD.skyde">
+<programme start="20260516140000 +0000" stop="20260516171500 +0000" channel="Sky Sport Austria 4 HD.skyde">
     <title>Live Admiral BL: RZ Pellets WAC - WSG Tirol, 32. Runde</title>
 </programme>
 <programme start="20260515220500 +0000" stop="20260515222000 +0000" channel="Sky Sport Bundesliga HD.skyde">
-    <title>BL: Jamal Musiala Exklusiv</title>
+    <title>BL: Alles ist möglich - Jamal Musiala Exklusiv</title>
 </programme>
 <programme start="20260515222000 +0000" stop="20260515225000 +0000" channel="Sky Sport Bundesliga HD.skyde">
     <title>BL: Bundesliga Weekly</title>
@@ -2627,7 +2627,7 @@
     <title>BL: BVB-Podcast mit Julian Brandt</title>
 </programme>
 <programme start="20260516073000 +0000" stop="20260516074500 +0000" channel="Sky Sport Bundesliga HD.skyde">
-    <title>BL: Jamal Musiala Exklusiv</title>
+    <title>BL: Alles ist möglich - Jamal Musiala Exklusiv</title>
 </programme>
 <programme start="20260516074500 +0000" stop="20260516084500 +0000" channel="Sky Sport Bundesliga HD.skyde">
     <title>BL: Matchplan: STP - WOB, 34. Spieltag</title>
@@ -2752,7 +2752,7 @@
 <programme start="20260516130000 +0000" stop="20260516131500 +0000" channel="Sky Sport Bundesliga 6 HD.skyde">
     <title>Live BL: BMG - TSG: tipico Countdown, 34. Spieltag</title>
 </programme>
-<programme start="20260516131500 +0000" stop="20260516160000 +0000" channel="Sky Sport Bundesliga 6 HD.skyde">
+<programme start="20260516131500 +0000" stop="20260516163000 +0000" channel="Sky Sport Bundesliga 6 HD.skyde">
     <title>Live BL: Borussia M&#039;gladbach - TSG Hoffenheim, 34. Spieltag</title>
 </programme>
 <programme start="20260516124000 +0000" stop="20260516130000 +0000" channel="Sky Sport Bundesliga 7 HD.skyde">
@@ -2978,7 +2978,7 @@
     <title>Live BL: tipico Countdown, 34. Spieltag</title>
 </programme>
 <programme start="20260516131500 +0000" stop="20260516133000 +0000" channel="Sky Sport News HD.skyde">
-    <title>BL: Jamal Musiala Exklusiv</title>
+    <title>BL: Alles ist möglich - Jamal Musiala Exklusiv</title>
 </programme>
 <programme start="20260516133000 +0000" stop="20260516140000 +0000" channel="Sky Sport News HD.skyde">
     <title>BL: Road to the Americas (1)</title>
@@ -3127,17 +3127,14 @@
 <programme start="20260516193000 +0000" stop="20260516220000 +0000" channel="Sky Sport Tennis HD.skyde">
     <title>WTA 1000: C. Gauff (USA) - E. Svitolina (UKR), Internazionali BNL d&#039;Italia in Rom (Italien), Finale</title>
 </programme>
-<programme start="20260515230000 +0000" stop="20260516000000 +0000" channel="Sky Sport Top Event HD.skyde">
+<programme start="20260515233000 +0000" stop="20260516003000 +0000" channel="Sky Sport Top Event HD.skyde">
     <title>NHL: Tonight - Playoff Edition</title>
-</programme>
-<programme start="20260516000000 +0000" stop="20260516003000 +0000" channel="Sky Sport Top Event HD.skyde">
-    <title>NBA: On Fire</title>
 </programme>
 <programme start="20260516003000 +0000" stop="20260516010000 +0000" channel="Sky Sport Top Event HD.skyde">
     <title>PL: Preview, 37. Spieltag (Freitag)</title>
 </programme>
 <programme start="20260516010000 +0000" stop="20260516030000 +0000" channel="Sky Sport Top Event HD.skyde">
-    <title>ATP 1000: J. Sinner (ITA) - D. Medvedev, Internazionali BNL d&#039;Italia in Rom (Italien), Halbfinale 2</title>
+    <title>ATP 1000: L. Darderi (ITA) - C. Ruud (NOR), Internazionali BNL d&#039;Italia in Rom (Italien), Halbfinale 1</title>
 </programme>
 <programme start="20260516030000 +0000" stop="20260516034500 +0000" channel="Sky Sport Top Event HD.skyde">
     <title>World Surf League: Replay: Bonsoy Gold Coast Pro Finals Day</title>
@@ -3175,13 +3172,13 @@
 <programme start="20260516163000 +0000" stop="20260516180000 +0000" channel="Sky Sport Top Event HD.skyde">
     <title>Live BL Alle Spiele, alle Tore: Die Vodafone Highlight-Show, 34. Spieltag</title>
 </programme>
-<programme start="20260516180000 +0000" stop="20260516210000 +0000" channel="Sky Sport Top Event HD.skyde">
+<programme start="20260516180000 +0000" stop="20260516230000 +0000" channel="Sky Sport Top Event HD.skyde">
     <title>Live PGA Championship: 3. Tag in Newtown Square, PA (USA)</title>
 </programme>
-<programme start="20260515230000 +0000" stop="20260516010000 +0000" channel="Sky Sport UHD.skyde">
+<programme start="20260515231000 +0000" stop="20260516011000 +0000" channel="Sky Sport UHD.skyde">
     <title>DFB-Pokal: VfB Stuttgart - SC Freiburg, Halbfinale</title>
 </programme>
-<programme start="20260516010000 +0000" stop="20260516030000 +0000" channel="Sky Sport UHD.skyde">
+<programme start="20260516011000 +0000" stop="20260516031500 +0000" channel="Sky Sport UHD.skyde">
     <title>DFB-Pokal: Bayer Leverkusen - FC Bayern München, Halbfinale</title>
 </programme>
 <programme start="20260516030000 +0000" stop="20260516031500 +0000" channel="Sky Sport UHD.skyde">

@@ -2944,6 +2944,9 @@
     <programme start="20260516000000 +0000" stop="20260517235959 +0000" channel="999927.shahid">
         <title>TV guide is not available</title>
     </programme>
+    <programme start="20260516000000 +0000" stop="20260517235959 +0000" channel="951783.shahid">
+        <title>TV guide is not available</title>
+    </programme>
     <programme start="20260516000000 +0000" stop="20260516000000 +0000" channel="387294.shahid">
         <title>Al Motawahesh Season 1 Episode 69</title>
     </programme>
@@ -3165,9 +3168,6 @@
     </programme>
     <programme start="20260517233000 +0000" stop="20260517235959 +0000" channel="387294.shahid">
         <title>Intiqam Mashrou&#039; Season 1 Episode 10</title>
-    </programme>
-    <programme start="20260516000000 +0000" stop="20260517235959 +0000" channel="951783.shahid">
-        <title>TV guide is not available</title>
     </programme>
     <programme start="20260516000000 +0000" stop="20260516010000 +0000" channel="995495.shahid">
         <title>V For Vendetta</title>
