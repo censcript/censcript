@@ -2575,7 +2575,7 @@
 <programme start="20260516134000 +0000" stop="20260516140000 +0000" channel="Sky Sport Austria 3 HD.skyde">
     <title>Es folgt: LIVE Admiral BL</title>
 </programme>
-<programme start="20260516140000 +0000" stop="20260516170000 +0000" channel="Sky Sport Austria 3 HD.skyde">
+<programme start="20260516140000 +0000" stop="20260516171500 +0000" channel="Sky Sport Austria 3 HD.skyde">
     <title>Live Admiral BL: SCR Altach - SV Oberbank Ried, 32. Runde</title>
 </programme>
 <programme start="20260516134000 +0000" stop="20260516140000 +0000" channel="Sky Sport Austria 4 HD.skyde">
@@ -2725,7 +2725,7 @@
 <programme start="20260516130000 +0000" stop="20260516131500 +0000" channel="Sky Sport Bundesliga 3 HD.skyde">
     <title>Live BL: FCH - M05: tipico Countdown, 34. Spieltag</title>
 </programme>
-<programme start="20260516131500 +0000" stop="20260516163000 +0000" channel="Sky Sport Bundesliga 3 HD.skyde">
+<programme start="20260516131500 +0000" stop="20260516170000 +0000" channel="Sky Sport Bundesliga 3 HD.skyde">
     <title>Live BL: 1. FC Heidenheim - 1. FSV Mainz 05, 34. Spieltag</title>
 </programme>
 <programme start="20260516124000 +0000" stop="20260516130000 +0000" channel="Sky Sport Bundesliga 4 HD.skyde">
@@ -2779,7 +2779,7 @@
 <programme start="20260516130000 +0000" stop="20260516131500 +0000" channel="Sky Sport Bundesliga 9 HD.skyde">
     <title>Live BL: FCU - FCA: tipico Countdown, 34. Spieltag</title>
 </programme>
-<programme start="20260516131500 +0000" stop="20260516160000 +0000" channel="Sky Sport Bundesliga 9 HD.skyde">
+<programme start="20260516131500 +0000" stop="20260516163000 +0000" channel="Sky Sport Bundesliga 9 HD.skyde">
     <title>Live BL: 1. FC Union Berlin - FC Augsburg, 34. Spieltag</title>
 </programme>
 <programme start="20260516124000 +0000" stop="20260516130000 +0000" channel="Sky Sport Bundesliga 10 HD.skyde">
@@ -3177,9 +3177,6 @@
 </programme>
 <programme start="20260516180000 +0000" stop="20260516210000 +0000" channel="Sky Sport Top Event HD.skyde">
     <title>Live PGA Championship: 3. Tag in Newtown Square, PA (USA)</title>
-</programme>
-<programme start="20260516210000 +0000" stop="20260516233000 +0000" channel="Sky Sport Top Event HD.skyde">
-    <title>DFB-Pokal Frauen: VfL Wolfsburg - FC Bayern München, Finale 2026 in Köln</title>
 </programme>
 <programme start="20260515230000 +0000" stop="20260516010000 +0000" channel="Sky Sport UHD.skyde">
     <title>DFB-Pokal: VfB Stuttgart - SC Freiburg, Halbfinale</title>

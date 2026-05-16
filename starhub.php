@@ -7358,7 +7358,7 @@
         <title>Laughter Chefs Unlimited Entertainment S03</title>
     </programme>
     <programme start="20260516083000 +0000" stop="20260516090000 +0000" channel="COLORS.starhub">
-        <title>Thukra Ke Mera Pyaar</title>
+        <title>Tuu Juliet Jatt Di</title>
     </programme>
     <programme start="20260516090000 +0000" stop="20260516094500 +0000" channel="COLORS.starhub">
         <title>Dr. Aarambhi</title>
@@ -7382,7 +7382,7 @@
         <title>Laughter Chefs Unlimited Entertainment S03</title>
     </programme>
     <programme start="20260516143000 +0000" stop="20260516150000 +0000" channel="COLORS.starhub">
-        <title>Thukra Ke Mera Pyaar</title>
+        <title>Tuu Juliet Jatt Di</title>
     </programme>
     <programme start="20260516150000 +0000" stop="20260516153000 +0000" channel="COLORS.starhub">
         <title>Do Duniya Ek Dil</title>
@@ -7945,10 +7945,10 @@
     <programme start="20260515230000 +0000" stop="20260516013000 +0000" channel="Asianet Movies.starhub">
         <title>Sakhavu</title>
     </programme>
-    <programme start="20260516013000 +0000" stop="20260516043000 +0000" channel="Asianet Movies.starhub">
+    <programme start="20260516013000 +0000" stop="20260516043500 +0000" channel="Asianet Movies.starhub">
         <title>Srungaravelan</title>
     </programme>
-    <programme start="20260516043000 +0000" stop="20260516073000 +0000" channel="Asianet Movies.starhub">
+    <programme start="20260516043500 +0000" stop="20260516073000 +0000" channel="Asianet Movies.starhub">
         <title>Thuruppugulan</title>
     </programme>
     <programme start="20260516073000 +0000" stop="20260516103000 +0000" channel="Asianet Movies.starhub">
@@ -7957,7 +7957,7 @@
     <programme start="20260516103000 +0000" stop="20260516133000 +0000" channel="Asianet Movies.starhub">
         <title>Summer in Bethlehem</title>
     </programme>
-    <programme start="20260516133000 +0000" stop="20260516170000 +0000" channel="Asianet Movies.starhub">
+    <programme start="20260516133000 +0000" stop="20260516165000 +0000" channel="Asianet Movies.starhub">
         <title>Christian Brothers</title>
     </programme>
     <programme start="20260515160000 +0000" stop="20260515170000 +0000" channel="Astro Warna HD.starhub">

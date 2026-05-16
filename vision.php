@@ -775,21 +775,6 @@
 <programme start="20260516010000 +0000" stop="20260516013000 +0000" channel="TVOne.vision">
 <title>Inspirasi Pagi</title>
 </programme>
-<programme start="20260516013000 +0000" stop="20260516020000 +0000" channel="TVOne.vision">
-<title>Mata Indonesia: Malaria</title>
-</programme>
-<programme start="20260516020000 +0000" stop="20260516023000 +0000" channel="TVOne.vision">
-<title>Pesona Nusantara</title>
-</programme>
-<programme start="20260516023000 +0000" stop="20260516030000 +0000" channel="TVOne.vision">
-<title>Xpose</title>
-</programme>
-<programme start="20260516030000 +0000" stop="20260516033000 +0000" channel="TVOne.vision">
-<title>Bukan Jalan-Jalan Biasa</title>
-</programme>
-<programme start="20260516033000 +0000" stop="20260516040000 +0000" channel="TVOne.vision">
-<title>Jajago</title>
-</programme>
 <programme start="20260516040000 +0000" stop="20260516053000 +0000" channel="TVOne.vision">
 <title>Kabar Siang (L)</title>
 </programme>
@@ -1496,5 +1481,20 @@
 <title>TVRI</title>
 </programme>
 <programme start="20260516210000 +0000" stop="20260516230000 +0000" channel="TVRI.vision">
+<title>TVRI</title>
+</programme>
+<programme start="20260516230000 +0000" stop="20260517010000 +0000" channel="TVRI.vision">
+<title>TVRI</title>
+</programme>
+<programme start="20260517010000 +0000" stop="20260517030000 +0000" channel="TVRI.vision">
+<title>TVRI</title>
+</programme>
+<programme start="20260517030000 +0000" stop="20260517050000 +0000" channel="TVRI.vision">
+<title>TVRI</title>
+</programme>
+<programme start="20260517050000 +0000" stop="20260517070000 +0000" channel="TVRI.vision">
+<title>TVRI</title>
+</programme>
+<programme start="20260517070000 +0000" stop="20260517090000 +0000" channel="TVRI.vision">
 <title>TVRI</title>
 </programme>
