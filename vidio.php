@@ -14251,42 +14251,32 @@
     <desc lang="id">PARMA vs ROMA</desc>
     <icon src="https://thumbor.prod.vidiocdn.com/nY0aFklpYf6yONLaFJjxhiSuthc=/287x162/filters:strip_icc():quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/image/6786/champions-tv-3-76ca7c.jpg"/>
   </programme>
-  <programme channel="6786" start="20260516145700 +0000" stop="20260516192000 +0000">
+  <programme channel="6786" start="20260516145700 +0000" stop="20260516193000 +0000">
     <title lang="id">Coco Gauff vs Elina Svitolina - Final | WTA 1000: Internazionali BNL D'Italia 2026</title>
     <desc lang="id">Nonton streaming pertandingan seru Final - WTA 1000: Internazionali BNL D'Italia 2026. Saksikan aksi-aksi terbaik dari tim yang bersaing ketat untuk meraih kemenangan. Dapatkan informasi lengkap mengenai jadwal pertandingan dan hasil pertandingan terbaru hanya di Vidio.</desc>
     <icon src="https://thumbor.prod.vidiocdn.com/WMftfx9QeJiwIfDKFdUdXciNdi4=/287x162/filters:strip_icc():quality(70)/vidio-media-production/uploads/livestreaming/schedule/thumbnail/5074616/a32f40.jpg"/>
   </programme>
-  <programme channel="6786" start="20260516145700 +0000" stop="20260516192000 +0000">
+  <programme channel="6786" start="20260516145700 +0000" stop="20260516193000 +0000">
     <title lang="id">Coco Gauff vs Elina Svitolina - Final | WTA 1000: Internazionali BNL D'Italia 2026</title>
     <desc lang="id">Nonton streaming pertandingan seru Final - WTA 1000: Internazionali BNL D'Italia 2026. Saksikan aksi-aksi terbaik dari tim yang bersaing ketat untuk meraih kemenangan. Dapatkan informasi lengkap mengenai jadwal pertandingan dan hasil pertandingan terbaru hanya di Vidio.</desc>
     <icon src="https://thumbor.prod.vidiocdn.com/WMftfx9QeJiwIfDKFdUdXciNdi4=/287x162/filters:strip_icc():quality(70)/vidio-media-production/uploads/livestreaming/schedule/thumbnail/5074616/a32f40.jpg"/>
   </programme>
-  <programme channel="6786" start="20260516192000 +0000" stop="20260516200000 +0000">
+  <programme channel="6786" start="20260516193200 +0000" stop="20260516213200 +0000">
     <title lang="id">CAGLIARI vs UDINESE : Serie A 2025/26</title>
     <desc lang="id">CAGLIARI vs UDINESE</desc>
     <icon src="https://thumbor.prod.vidiocdn.com/nY0aFklpYf6yONLaFJjxhiSuthc=/287x162/filters:strip_icc():quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/image/6786/champions-tv-3-76ca7c.jpg"/>
   </programme>
-  <programme channel="6786" start="20260516200000 +0000" stop="20260516220000 +0000">
+  <programme channel="6786" start="20260516213200 +0000" stop="20260516233200 +0000">
     <title lang="id">CREMONESE vs PISA : Serie A 2025/26</title>
     <desc lang="id">CREMONESE vs PISA</desc>
     <icon src="https://thumbor.prod.vidiocdn.com/nY0aFklpYf6yONLaFJjxhiSuthc=/287x162/filters:strip_icc():quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/image/6786/champions-tv-3-76ca7c.jpg"/>
   </programme>
-  <programme channel="6786" start="20260516220000 +0000" stop="20260517000000 +0000">
+  <programme channel="6786" start="20260516233200 +0000" stop="20260517013200 +0000">
     <title lang="id">LAZIO vs INTER : Serie A 2025/26</title>
     <desc lang="id">LAZIO vs INTER</desc>
     <icon src="https://thumbor.prod.vidiocdn.com/nY0aFklpYf6yONLaFJjxhiSuthc=/287x162/filters:strip_icc():quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/image/6786/champions-tv-3-76ca7c.jpg"/>
   </programme>
-  <programme channel="6786" start="20260517000000 +0000" stop="20260517003000 +0000">
-    <title lang="id">Eps 16 : NFL Extra</title>
-    <desc lang="id">Eps 16</desc>
-    <icon src="https://thumbor.prod.vidiocdn.com/nY0aFklpYf6yONLaFJjxhiSuthc=/287x162/filters:strip_icc():quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/image/6786/champions-tv-3-76ca7c.jpg"/>
-  </programme>
-  <programme channel="6786" start="20260517003000 +0000" stop="20260517013000 +0000">
-    <title lang="id">MADRID - HIGHLIGHTS SHOW : WTA 2026 - Highlight</title>
-    <desc lang="id">MADRID - HIGHLIGHTS SHOW</desc>
-    <icon src="https://thumbor.prod.vidiocdn.com/nY0aFklpYf6yONLaFJjxhiSuthc=/287x162/filters:strip_icc():quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/image/6786/champions-tv-3-76ca7c.jpg"/>
-  </programme>
-  <programme channel="6786" start="20260517013000 +0000" stop="20260517033000 +0000">
+  <programme channel="6786" start="20260517013200 +0000" stop="20260517033000 +0000">
     <title lang="id">Final - Internazionali BNL d'Italia : WTA 1000</title>
     <desc lang="id">Final - Internazionali BNL d'Italia</desc>
     <icon src="https://thumbor.prod.vidiocdn.com/nY0aFklpYf6yONLaFJjxhiSuthc=/287x162/filters:strip_icc():quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/image/6786/champions-tv-3-76ca7c.jpg"/>
