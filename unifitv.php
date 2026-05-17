@@ -814,7 +814,7 @@
   </programme>
   <programme start="20260517040000 +0000" stop="20260517043000 +0000" channel="tv2.unifitv">
     <title lang="en">BERITA MANDARIN</title>
-    <desc lang="en">Ikuti Berita Mandarin yang memaparkan perkembangan politik, sosial, ekonomi, sukan hiburan dan isu-isu semasa.</desc>
+    <desc lang="en">Memaparkan perkembangan terkini dan semasa termasuk berita ekonomi dan kewangan.</desc>
     <category lang="en">Drama</category>
   </programme>
   <programme start="20260517043000 +0000" stop="20260517050000 +0000" channel="tv2.unifitv">
@@ -823,44 +823,34 @@
     <category lang="en">Drama</category>
   </programme>
   <programme start="20260517050000 +0000" stop="20260517053000 +0000" channel="tv2.unifitv">
-    <title lang="en">On The Table</title>
-    <desc lang="en">On The Table is a talk show that explores a range of topics, emphasizing Malaysia's current issues and trends. It also seeks to position Malaysia as an appealing investment and business hub for foreign investors, featuring insights from opinion leaders and influential figures.</desc>
+    <title lang="en">Kacang Hantu</title>
+    <desc lang="en">Drama lakonan Rani Mukerji, Jim Sarbh, Anirban Bhattacharya dan ramai lagi.</desc>
     <category lang="en">Drama</category>
-    <episode-num system="xmltv_ns">0.5.</episode-num>
-    <episode-num system="onscreen">S1E6</episode-num>
   </programme>
   <programme start="20260517053000 +0000" stop="20260517070000 +0000" channel="tv2.unifitv">
     <title lang="en">Buddy Into The Wild Season 2</title>
     <desc lang="en">Rancangan candawara yang dibintangi oleh penghibur Ahn Jung-hwan dan Boom yang terkandas bersama di sebuah pulau terpencil dan melakukan pelbagai tugasan untuk ikhtiar hidup.</desc>
     <category lang="en">Drama</category>
-    <episode-num system="xmltv_ns">0.4.</episode-num>
-    <episode-num system="onscreen">S1E5</episode-num>
   </programme>
   <programme start="20260517070000 +0000" stop="20260517080000 +0000" channel="tv2.unifitv">
-    <title lang="en">VASANTHAM</title>
-    <desc lang="en">Program bual bicara berbahasa Tamil secara langsung yang membincangkan isi-isu semasa tanah air.</desc>
+    <title lang="en">What Say You</title>
+    <desc lang="en">Ikuti perbincangan pelbagai topik berkaitan isu-isu semasa bersama tetamu jemputan.</desc>
     <category lang="en">Drama</category>
   </programme>
   <programme start="20260517080000 +0000" stop="20260517093000 +0000" channel="tv2.unifitv">
     <title lang="en">Running Man</title>
-    <desc lang="en">Rancangan candawara yang disertai oleh artis-artis popular Korea yang akan mengambil bahagian dalam perlumbaan dimana mereka bersaing antara satu sama lain untuk muncul sebagai pemenang dan menuntut gelaran berprestij.</desc>
+    <desc lang="en">Sebuah program candawara Korea yang menampilkan artis-artis popular disana.</desc>
     <category lang="en">Drama</category>
-    <episode-num system="xmltv_ns">0.548.</episode-num>
-    <episode-num system="onscreen">S1E549</episode-num>
   </programme>
   <programme start="20260517093000 +0000" stop="20260517100000 +0000" channel="tv2.unifitv">
     <title lang="en">Kedai Burger Hujung Simpang</title>
-    <desc lang="en">Demi mencipta identiti unik untuk gerai mereka, Ajim mencuba pelbagai resipi burger yang pelik dan berani — dari burger salted egg, burger roti canai, hinggalah burger tempoyak cheese! Namun setiap percubaan berakhir dengan gelak tawa dan muka trauma geng hujung simpang yang terpaksa menjadi mangsa uji kaji eksperimen masakan Ajim.</desc>
+    <desc lang="en">Sebuah drama bersiri lakonan Taqim Zaki, Bee Aishah, Afeeya Diana, Andenn Hassan, Megat Shahrizal.</desc>
     <category lang="en">Drama</category>
-    <episode-num system="xmltv_ns">0.3.</episode-num>
-    <episode-num system="onscreen">S1E4</episode-num>
   </programme>
   <programme start="20260517100000 +0000" stop="20260517103000 +0000" channel="tv2.unifitv">
     <title lang="en">Magic School Bus</title>
     <desc lang="en">Mengisahkan sekumpulan murid-murid menaiki bas sekolah ajaib untuk pengembaraan luar biasa. Murid-murid terbang ke angkasa dan mempelajari sistem suria apabila Arnold tersilap menekan butang bas.</desc>
     <category lang="en">Drama</category>
-    <episode-num system="xmltv_ns">0.19.</episode-num>
-    <episode-num system="onscreen">S1E20</episode-num>
   </programme>
   <programme start="20260517103000 +0000" stop="20260517110000 +0000" channel="tv2.unifitv">
     <title lang="en">Berita Mandarin</title>
@@ -871,8 +861,6 @@
     <title lang="en">Amazing Journey</title>
     <desc lang="en">Sebuah program majalah Inggeris yang memaparkan tentang tempat-tempat menarik di Malaysia.</desc>
     <category lang="en">Drama</category>
-    <episode-num system="xmltv_ns">0.11.</episode-num>
-    <episode-num system="onscreen">S1E12</episode-num>
   </programme>
   <programme start="20260517113000 +0000" stop="20260517120000 +0000" channel="tv2.unifitv">
     <title lang="en">BERITA TAMIL</title>
@@ -881,22 +869,23 @@
   </programme>
   <programme start="20260517120000 +0000" stop="20260517130000 +0000" channel="tv2.unifitv">
     <title lang="en">Chicago Med</title>
-    <desc lang="en">April berdepan dengan dilema akibat ciumannya dengan Dr. Marcel dan mempertimbangkan untuk memberitahu Ethan. Namun, dia menerima berita yang mengejutkan daripada Ethan sendiri. Sementara itu, Dr. Halstead merawat seorang pesakit yang pernah dirawatnya sebelum ini dan kini bergelut dengan masalah dadah.</desc>
-    <category lang="en">Drama</category>
-    <episode-num system="xmltv_ns">0.9.</episode-num>
-    <episode-num system="onscreen">S1E10</episode-num>
-  </programme>
-  <programme start="20260517130000 +0000" stop="20260517150000 +0000" channel="tv2.unifitv">
-    <title lang="en">Konsert RTM 8070</title>
-    <desc lang="en">Saksikan persembahan barisan artis seperti Ramlah Ram, Haziq Rosebi, Afieq Shazwan, Rey Kimara, Sitipah Jahamin, Joy, dan Dhania juga penampilan Khas DJ Edith, DJ Azmie, DJ Wan J, DJ Eclaire &amp; DJ Shaff dalam konsert sempena ulang tahun ke-80 RTM.</desc>
+    <desc lang="en">Drama bersiri lakonan Nick Gehlfuss, Yaya DaCosta, Torrey DeVitto, Colin Donnell dan ramai lagi.</desc>
     <category lang="en">Drama</category>
   </programme>
-  <programme start="20260517150000 +0000" stop="20260517160000 +0000" channel="tv2.unifitv">
-    <title lang="en">Two Days And One Night</title>
-    <desc lang="en">Sebuah rancangan hiburan di mana, ahli-ahli mengambil bahagian dalam beberapa misi untuk menjadi pemenang di akhir perlumbaan. Para peserta cuba untuk mengelakkan hukuman atau berusaha untuk memenangi hadiah. Lebih daripada satu misi dijalankan dalam setiap episod dengan misi perlumbaan menjadi kemuncak episod.</desc>
+  <programme start="20260517130000 +0000" stop="20260517130200 +0000" channel="tv2.unifitv">
+    <title lang="en">Pengisytiharan Hari Raya Aidiladha 2026</title>
+    <desc lang="en">Saksikan pengisytiharan Hari Raya Aidiladha 2026.</desc>
     <category lang="en">Drama</category>
-    <episode-num system="xmltv_ns">0.46.</episode-num>
-    <episode-num system="onscreen">S1E47</episode-num>
+  </programme>
+  <programme start="20260517130200 +0000" stop="20260517153000 +0000" channel="tv2.unifitv">
+    <title lang="en">PT Sir</title>
+    <desc lang="en">Sebuah filem lakonan Hiphop Tamizha, Adhi Kashmira Pardeshi, Anikha Surendran, Thiagarajan dan ramai lagi.</desc>
+    <category lang="en">Drama</category>
+  </programme>
+  <programme start="20260517153000 +0000" stop="20260517160000 +0000" channel="tv2.unifitv">
+    <title lang="en">DOKU SENI WARISAN : Silat Jatuh</title>
+    <desc lang="en">Dokumentari yang menyingkap tentang sejarah dan keunikan seni silat jatuh yang dikatakan berasal dari Kelantan.</desc>
+    <category lang="en">Drama</category>
   </programme>
   <programme start="20260517160000 +0000" stop="20260517163000 +0000" channel="tv2.unifitv">
     <title lang="en">Anjarai Petti</title>
