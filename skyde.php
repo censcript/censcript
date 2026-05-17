@@ -1864,45 +1864,6 @@
 <programme start="20260517215500 +0000" stop="20260518001000 +0000" channel="Sky Cinema Family HD.skyde">
     <title>Der Herr der Ringe: Die Schlacht der Rohirrim</title>
 </programme>
-<programme start="20260516220000 +0000" stop="20260516235000 +0000" channel="Sky Cinema Highlights HD.skyde">
-    <title>Plane</title>
-</programme>
-<programme start="20260516235000 +0000" stop="20260517015500 +0000" channel="Sky Cinema Highlights HD.skyde">
-    <title>Criminal Squad</title>
-</programme>
-<programme start="20260517015500 +0000" stop="20260517035000 +0000" channel="Sky Cinema Highlights HD.skyde">
-    <title>On the Line</title>
-</programme>
-<programme start="20260517035000 +0000" stop="20260517062000 +0000" channel="Sky Cinema Highlights HD.skyde">
-    <title>Transformers: The Last Knight</title>
-</programme>
-<programme start="20260517062000 +0000" stop="20260517081000 +0000" channel="Sky Cinema Highlights HD.skyde">
-    <title>Dante&#039;s Peak</title>
-</programme>
-<programme start="20260517081000 +0000" stop="20260517114000 +0000" channel="Sky Cinema Highlights HD.skyde">
-    <title>Alexander - The Final Cut</title>
-</programme>
-<programme start="20260517114000 +0000" stop="20260517131500 +0000" channel="Sky Cinema Highlights HD.skyde">
-    <title>Overdrive</title>
-</programme>
-<programme start="20260517131500 +0000" stop="20260517145500 +0000" channel="Sky Cinema Highlights HD.skyde">
-    <title>Starsky &amp; Hutch</title>
-</programme>
-<programme start="20260517145500 +0000" stop="20260517162500 +0000" channel="Sky Cinema Highlights HD.skyde">
-    <title>Miss Bodyguard - In High Heels auf der Flucht</title>
-</programme>
-<programme start="20260517162500 +0000" stop="20260517181500 +0000" channel="Sky Cinema Highlights HD.skyde">
-    <title>Beverly Hills Cop - Ich lös&#039; den Fall auf jeden Fall</title>
-</programme>
-<programme start="20260517181500 +0000" stop="20260517195500 +0000" channel="Sky Cinema Highlights HD.skyde">
-    <title>Beverly Hills Cop II</title>
-</programme>
-<programme start="20260517195500 +0000" stop="20260517214500 +0000" channel="Sky Cinema Highlights HD.skyde">
-    <title>Beverly Hills Cop III</title>
-</programme>
-<programme start="20260517214500 +0000" stop="20260517233500 +0000" channel="Sky Cinema Highlights HD.skyde">
-    <title>Dante&#039;s Peak</title>
-</programme>
 <programme start="20260516220500 +0000" stop="20260516234500 +0000" channel="Sky Cinema Premiere HD.skyde">
     <title>Warfare</title>
 </programme>
@@ -2563,7 +2524,7 @@
 <programme start="20260517113000 +0000" stop="20260517143000 +0000" channel="Sky Sport Austria 2 HD.skyde">
     <title>Live Admiral BL: FK Austria Wien - LASK, 32. Runde</title>
 </programme>
-<programme start="20260517143000 +0000" stop="20260517163000 +0000" channel="Sky Sport Austria 2 HD.skyde">
+<programme start="20260517143000 +0000" stop="20260517160000 +0000" channel="Sky Sport Austria 2 HD.skyde">
     <title>Live Admiral BL: Alle Spiele, alle Tore 32. Runde (Sonntag)</title>
 </programme>
 <programme start="20260517111000 +0000" stop="20260517113000 +0000" channel="Sky Sport Austria 3 HD.skyde">
@@ -2572,7 +2533,7 @@
 <programme start="20260517113000 +0000" stop="20260517143000 +0000" channel="Sky Sport Austria 3 HD.skyde">
     <title>Live Admiral BL: SK Puntigamer Sturm Graz - SK Rapid, 32. Runde</title>
 </programme>
-<programme start="20260517143000 +0000" stop="20260517160000 +0000" channel="Sky Sport Austria 3 HD.skyde">
+<programme start="20260517143000 +0000" stop="20260517163000 +0000" channel="Sky Sport Austria 3 HD.skyde">
     <title>Live Admiral BL: Alle Spiele, alle Tore 32. Runde (Sonntag)</title>
 </programme>
 <programme start="20260517111000 +0000" stop="20260517113000 +0000" channel="Sky Sport Austria 4 HD.skyde">
@@ -2581,7 +2542,7 @@
 <programme start="20260517113000 +0000" stop="20260517143000 +0000" channel="Sky Sport Austria 4 HD.skyde">
     <title>Live Admiral BL: FC Red Bull Salzburg - TSV Egger Glas Hartberg, 32. Runde</title>
 </programme>
-<programme start="20260517143000 +0000" stop="20260517163000 +0000" channel="Sky Sport Austria 4 HD.skyde">
+<programme start="20260517143000 +0000" stop="20260517160000 +0000" channel="Sky Sport Austria 4 HD.skyde">
     <title>Live Admiral BL: Alle Spiele, alle Tore 32. Runde (Sonntag)</title>
 </programme>
 <programme start="20260516223000 +0000" stop="20260517000500 +0000" channel="Sky Sport Bundesliga HD.skyde">
@@ -2647,7 +2608,7 @@
 <programme start="20260517213000 +0000" stop="20260517230000 +0000" channel="Sky Sport Bundesliga HD.skyde">
     <title>BL: Sky90 - Die Fußballdebatte</title>
 </programme>
-<programme start="20260516231000 +0000" stop="20260517011000 +0000" channel="Sky Sport Bundesliga UHD.skyde">
+<programme start="20260516231500 +0000" stop="20260517011000 +0000" channel="Sky Sport Bundesliga UHD.skyde">
     <title>BL: FC Bayern München - 1. FC Köln, 34. Spieltag</title>
 </programme>
 <programme start="20260517011000 +0000" stop="20260517013000 +0000" channel="Sky Sport Bundesliga UHD.skyde">
@@ -2665,10 +2626,10 @@
 <programme start="20260517060000 +0000" stop="20260517080000 +0000" channel="Sky Sport Bundesliga UHD.skyde">
     <title>BL: FC Bayern München - 1. FC Köln, 34. Spieltag</title>
 </programme>
-<programme start="20260517080000 +0000" stop="20260517100000 +0000" channel="Sky Sport Bundesliga UHD.skyde">
+<programme start="20260517080000 +0000" stop="20260517095500 +0000" channel="Sky Sport Bundesliga UHD.skyde">
     <title>2. BL: 1. FC Nürnberg - FC Schalke 04, tipico Topspiel der Woche, 33. Spieltag</title>
 </programme>
-<programme start="20260517100000 +0000" stop="20260517120000 +0000" channel="Sky Sport Bundesliga UHD.skyde">
+<programme start="20260517095500 +0000" stop="20260517120000 +0000" channel="Sky Sport Bundesliga UHD.skyde">
     <title>BL: FC Bayern München - 1. FC Köln, 34. Spieltag</title>
 </programme>
 <programme start="20260517120000 +0000" stop="20260517163000 +0000" channel="Sky Sport Bundesliga UHD.skyde">
@@ -2704,19 +2665,19 @@
 <programme start="20260517114000 +0000" stop="20260517120000 +0000" channel="Sky Sport Bundesliga 3 HD.skyde">
     <title>Es folgt: LIVE 2. Bundesliga</title>
 </programme>
-<programme start="20260517120000 +0000" stop="20260517163000 +0000" channel="Sky Sport Bundesliga 3 HD.skyde">
+<programme start="20260517120000 +0000" stop="20260517160000 +0000" channel="Sky Sport Bundesliga 3 HD.skyde">
     <title>Live 2. BL: SV Elversberg - Preußen Münster, 34. Spieltag</title>
 </programme>
 <programme start="20260517114000 +0000" stop="20260517120000 +0000" channel="Sky Sport Bundesliga 4 HD.skyde">
     <title>Es folgt: LIVE 2. Bundesliga</title>
 </programme>
-<programme start="20260517120000 +0000" stop="20260517160000 +0000" channel="Sky Sport Bundesliga 4 HD.skyde">
+<programme start="20260517120000 +0000" stop="20260517163000 +0000" channel="Sky Sport Bundesliga 4 HD.skyde">
     <title>Live 2. BL: Hannover 96 - 1. FC Nürnberg, 34. Spieltag</title>
 </programme>
 <programme start="20260517114000 +0000" stop="20260517120000 +0000" channel="Sky Sport Bundesliga 5 HD.skyde">
     <title>Es folgt: LIVE 2. Bundesliga</title>
 </programme>
-<programme start="20260517120000 +0000" stop="20260517160000 +0000" channel="Sky Sport Bundesliga 5 HD.skyde">
+<programme start="20260517120000 +0000" stop="20260517163000 +0000" channel="Sky Sport Bundesliga 5 HD.skyde">
     <title>Live 2. BL: SV Darmstadt 98 - SC Paderborn 07, 34. Spieltag</title>
 </programme>
 <programme start="20260517114000 +0000" stop="20260517120000 +0000" channel="Sky Sport Bundesliga 6 HD.skyde">
@@ -2740,7 +2701,7 @@
 <programme start="20260517114000 +0000" stop="20260517120000 +0000" channel="Sky Sport Bundesliga 9 HD.skyde">
     <title>Es folgt: LIVE 2. Bundesliga</title>
 </programme>
-<programme start="20260517120000 +0000" stop="20260517160000 +0000" channel="Sky Sport Bundesliga 9 HD.skyde">
+<programme start="20260517120000 +0000" stop="20260517163000 +0000" channel="Sky Sport Bundesliga 9 HD.skyde">
     <title>Live 2. BL: 1. FC Magdeburg - 1. FC Kaiserslautern, 34. Spieltag</title>
 </programme>
 <programme start="20260517114000 +0000" stop="20260517120000 +0000" channel="Sky Sport Bundesliga 10 HD.skyde">
@@ -3069,6 +3030,9 @@
 </programme>
 <programme start="20260517180000 +0000" stop="20260517230000 +0000" channel="Sky Sport Top Event HD.skyde">
     <title>Live PGA Championship: 4. Tag in Newtown Square, PA (USA)</title>
+</programme>
+<programme start="20260517214000 +0000" stop="20260517220000 +0000" channel="Sky Sport 1 HD.skyde">
+    <title>Es folgt: LIVE WNBA</title>
 </programme>
 <programme start="20260516224000 +0000" stop="20260516232500 +0000" channel="SYFY HD.skyde">
     <title>Stargate SG-1</title>

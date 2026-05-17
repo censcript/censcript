@@ -1997,13 +1997,13 @@
         <title>Red Gold: Malawi&#039;s Chilli Economy</title>
     </programme>
     <programme start="20260517023000 +0000" stop="20260517030000 +0000" channel="CNN HD.starhub">
-        <title>Episode 227</title>
+        <title>Tuma Basa</title>
     </programme>
     <programme start="20260517030000 +0000" stop="20260517033000 +0000" channel="CNN HD.starhub">
-        <title>46113</title>
+        <title>Cotswolds, U.K.</title>
     </programme>
     <programme start="20260517033000 +0000" stop="20260517034500 +0000" channel="CNN HD.starhub">
-        <title>Episode 57</title>
+        <title>Watches and Wonders</title>
     </programme>
     <programme start="20260517034500 +0000" stop="20260517040000 +0000" channel="CNN HD.starhub">
         <title>Energy and EVs</title>
@@ -2012,7 +2012,7 @@
         <title>Sunday, May 17, 2026 12am ET</title>
     </programme>
     <programme start="20260517043000 +0000" stop="20260517050000 +0000" channel="CNN HD.starhub">
-        <title>The Link 2</title>
+        <title>Tech Ed Pipeline; Training Surgeons</title>
     </programme>
     <programme start="20260517050000 +0000" stop="20260517053000 +0000" channel="CNN HD.starhub">
         <title>Sunday, May 17, 2026 1am ET</title>
@@ -2024,7 +2024,7 @@
         <title>Sunday, May 17, 2026 2am ET</title>
     </programme>
     <programme start="20260517063000 +0000" stop="20260517064500 +0000" channel="CNN HD.starhub">
-        <title>Episode 57</title>
+        <title>Watches and Wonders</title>
     </programme>
     <programme start="20260517064500 +0000" stop="20260517070000 +0000" channel="CNN HD.starhub">
         <title>Energy and EVs</title>
@@ -2033,7 +2033,7 @@
         <title>Sunday, May 17, 2026 3am ET</title>
     </programme>
     <programme start="20260517073000 +0000" stop="20260517080000 +0000" channel="CNN HD.starhub">
-        <title>46113</title>
+        <title>Cotswolds, U.K.</title>
     </programme>
     <programme start="20260517080000 +0000" stop="20260517090000 +0000" channel="CNN HD.starhub">
         <title>Sunday, May 17, 2026 4am ET</title>
@@ -2042,7 +2042,7 @@
         <title>Sunday, May 17, 2026 5am ET</title>
     </programme>
     <programme start="20260517100000 +0000" stop="20260517103000 +0000" channel="CNN HD.starhub">
-        <title>The Link 2</title>
+        <title>Tech Ed Pipeline; Training Surgeons</title>
     </programme>
     <programme start="20260517103000 +0000" stop="20260517110000 +0000" channel="CNN HD.starhub">
         <title>Red Gold: Malawi&#039;s Chilli Economy</title>
@@ -7795,10 +7795,10 @@
     <programme start="20260517013000 +0000" stop="20260517043000 +0000" channel="Asianet Movies.starhub">
         <title>Swapnakkoodu</title>
     </programme>
-    <programme start="20260517043000 +0000" stop="20260517073000 +0000" channel="Asianet Movies.starhub">
+    <programme start="20260517043000 +0000" stop="20260517072500 +0000" channel="Asianet Movies.starhub">
         <title>Hello Mummy</title>
     </programme>
-    <programme start="20260517073000 +0000" stop="20260517103000 +0000" channel="Asianet Movies.starhub">
+    <programme start="20260517072500 +0000" stop="20260517103000 +0000" channel="Asianet Movies.starhub">
         <title>Pushpa: The Rise - Part 1</title>
     </programme>
     <programme start="20260517103000 +0000" stop="20260517133000 +0000" channel="Asianet Movies.starhub">
