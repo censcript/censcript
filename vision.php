@@ -421,14 +421,23 @@
 <programme start="20260517043000 +0000" stop="20260517053000 +0000" channel="Trans TV.vision">
 <title>Brownis On The Weekend</title>
 </programme>
+<programme start="20260517053000 +0000" stop="20260517060000 +0000" channel="Trans TV.vision">
+<title>Masak Anti Ribet</title>
+</programme>
 <programme start="20260517060000 +0000" stop="20260517070000 +0000" channel="Trans TV.vision">
 <title>Insert Investigasi</title>
 </programme>
 <programme start="20260517070000 +0000" stop="20260517080000 +0000" channel="Trans TV.vision">
 <title>Bikin Laper</title>
 </programme>
+<programme start="20260517080000 +0000" stop="20260517100000 +0000" channel="Trans TV.vision">
+<title>SBY Cup 2026</title>
+</programme>
 <programme start="20260517100000 +0000" stop="20260517110000 +0000" channel="Trans TV.vision">
 <title>Insert Story</title>
+</programme>
+<programme start="20260517110000 +0000" stop="20260517130000 +0000" channel="Trans TV.vision">
+<title>SBY Cup 2026</title>
 </programme>
 <programme start="20260517130000 +0000" stop="20260517140000 +0000" channel="Trans TV.vision">
 <title>Highlight</title>
@@ -508,11 +517,17 @@
 <programme start="20260517080000 +0000" stop="20260517090000 +0000" channel="Trans 7.vision">
 <title>Makan Receh</title>
 </programme>
+<programme start="20260517090000 +0000" stop="20260517100000 +0000" channel="Trans 7.vision">
+<title>Moto3 2026 Catalonia GP</title>
+</programme>
 <programme start="20260517100000 +0000" stop="20260517110000 +0000" channel="Trans 7.vision">
 <title>Selebrita On The Weekend</title>
 </programme>
 <programme start="20260517110000 +0000" stop="20260517114500 +0000" channel="Trans 7.vision">
 <title>POV (Pasti Obrolan Viral)</title>
+</programme>
+<programme start="20260517114500 +0000" stop="20260517130000 +0000" channel="Trans 7.vision">
+<title>MotoGP 2026 Catalonia GP</title>
 </programme>
 <programme start="20260517130000 +0000" stop="20260517143000 +0000" channel="Trans 7.vision">
 <title>Arisan</title>
@@ -601,6 +616,9 @@
 <programme start="20260517010000 +0000" stop="20260517023000 +0000" channel="ANTV.vision">
 <title>Misteri Sungai Mekong</title>
 </programme>
+<programme start="20260517023000 +0000" stop="20260517060000 +0000" channel="ANTV.vision">
+<title>Kabhi Kushi Kabhie Gham</title>
+</programme>
 <programme start="20260517060000 +0000" stop="20260517073000 +0000" channel="ANTV.vision">
 <title>Jhanak</title>
 </programme>
@@ -612,6 +630,9 @@
 </programme>
 <programme start="20260517100000 +0000" stop="20260517120000 +0000" channel="ANTV.vision">
 <title>Serie A Liga Italia</title>
+</programme>
+<programme start="20260517120000 +0000" stop="20260517123000 +0000" channel="ANTV.vision">
+<title>Mr. Bean</title>
 </programme>
 <programme start="20260517123000 +0000" stop="20260517150000 +0000" channel="ANTV.vision">
 <title>Serie A Liga Italia</title>
@@ -1475,26 +1496,5 @@
 <title>TVRI</title>
 </programme>
 <programme start="20260517150000 +0000" stop="20260517170000 +0000" channel="TVRI.vision">
-<title>TVRI</title>
-</programme>
-<programme start="20260517170000 +0000" stop="20260517190000 +0000" channel="TVRI.vision">
-<title>TVRI</title>
-</programme>
-<programme start="20260517190000 +0000" stop="20260517210000 +0000" channel="TVRI.vision">
-<title>TVRI</title>
-</programme>
-<programme start="20260517210000 +0000" stop="20260517230000 +0000" channel="TVRI.vision">
-<title>TVRI</title>
-</programme>
-<programme start="20260517230000 +0000" stop="20260518010000 +0000" channel="TVRI.vision">
-<title>TVRI</title>
-</programme>
-<programme start="20260518010000 +0000" stop="20260518030000 +0000" channel="TVRI.vision">
-<title>TVRI</title>
-</programme>
-<programme start="20260518030000 +0000" stop="20260518050000 +0000" channel="TVRI.vision">
-<title>TVRI</title>
-</programme>
-<programme start="20260518050000 +0000" stop="20260518070000 +0000" channel="TVRI.vision">
 <title>TVRI</title>
 </programme>

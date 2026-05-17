@@ -15899,17 +15899,17 @@
     <desc lang="id">South Africa vs Argentina - Cup Final, Hong Kong - Men</desc>
     <icon src="https://thumbor.prod.vidiocdn.com/VmoYokSeKr_3SubUXC-rMC-EtQM=/287x162/filters:strip_icc():quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/image/17875/bein-2-25a5f9.jpg"/>
   </programme>
-  <programme channel="17875" start="20260517165500 +0000" stop="20260517190000 +0000">
+  <programme channel="17875" start="20260517165500 +0000" stop="20260517190500 +0000">
     <title lang="id">Atletico Madrid vs Girona - LaLiga</title>
     <desc lang="id">Nonton streaming pertandingan seru Atletico Madrid vs Girona - LaLiga. Saksikan aksi-aksi terbaik dari tim yang bersaing ketat untuk meraih kemenangan. Dapatkan informasi lengkap mengenai jadwal pertandingan dan hasil pertandingan terbaru hanya di Vidio.</desc>
     <icon src="https://thumbor.prod.vidiocdn.com/tJ1cB1hQ79_58aZXKAWKJ9uc4Cw=/287x162/filters:strip_icc():quality(70)/vidio-media-production/uploads/livestreaming/schedule/thumbnail/5076769/53169a.jpg"/>
   </programme>
-  <programme channel="17875" start="20260517165500 +0000" stop="20260517190000 +0000">
+  <programme channel="17875" start="20260517165500 +0000" stop="20260517190500 +0000">
     <title lang="id">Atletico Madrid vs Girona - LaLiga</title>
     <desc lang="id">Nonton streaming pertandingan seru Atletico Madrid vs Girona - LaLiga. Saksikan aksi-aksi terbaik dari tim yang bersaing ketat untuk meraih kemenangan. Dapatkan informasi lengkap mengenai jadwal pertandingan dan hasil pertandingan terbaru hanya di Vidio.</desc>
     <icon src="https://thumbor.prod.vidiocdn.com/tJ1cB1hQ79_58aZXKAWKJ9uc4Cw=/287x162/filters:strip_icc():quality(70)/vidio-media-production/uploads/livestreaming/schedule/thumbnail/5076769/53169a.jpg"/>
   </programme>
-  <programme channel="17875" start="20260517190000 +0000" stop="20260517193000 +0000">
+  <programme channel="17875" start="20260517190500 +0000" stop="20260517193000 +0000">
     <title lang="id">1999 Women's Singles Final Graf v Hingis : Roland Garros Classic</title>
     <desc lang="id">1999 Women's Singles Final Graf v Hingis</desc>
     <icon src="https://thumbor.prod.vidiocdn.com/VmoYokSeKr_3SubUXC-rMC-EtQM=/287x162/filters:strip_icc():quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/image/17875/bein-2-25a5f9.jpg"/>
@@ -20936,17 +20936,17 @@ dan komprehensif mengenai berbagai topik yang relevan dalam kehidupan sehari-har
     <desc lang="id">Nonton streaming pertandingan seru Leeds United vs Brighton - Premier League. Saksikan aksi-aksi terbaik dari tim yang bersaing ketat untuk meraih kemenangan. Dapatkan informasi lengkap mengenai jadwal pertandingan dan hasil pertandingan terbaru hanya di Vidio.</desc>
     <icon src="https://thumbor.prod.vidiocdn.com/Dv6ZouyGvAkWOVQ1bpjjJqfgDJk=/287x162/filters:strip_icc():quality(70)/vidio-media-production/uploads/livestreaming/schedule/thumbnail/5074619/0a3a03.jpg"/>
   </programme>
-  <programme channel="9182" start="20260517161000 +0000" stop="20260517183000 +0000">
+  <programme channel="9182" start="20260517161000 +0000" stop="20260517184000 +0000">
     <title lang="id">Newcastle vs West Ham - Premier League</title>
     <desc lang="id">Nonton streaming pertandingan seru Newcastle vs West Ham - Premier League. Saksikan aksi-aksi terbaik dari tim yang bersaing ketat untuk meraih kemenangan. Dapatkan informasi lengkap mengenai jadwal pertandingan dan hasil pertandingan terbaru hanya di Vidio.</desc>
     <icon src="https://thumbor.prod.vidiocdn.com/_2Ee2gkI7nyoDUlaeJwxBCDLtzk=/287x162/filters:strip_icc():quality(70)/vidio-media-production/uploads/livestreaming/schedule/thumbnail/5074620/95acfd.jpg"/>
   </programme>
-  <programme channel="9182" start="20260517161000 +0000" stop="20260517183000 +0000">
+  <programme channel="9182" start="20260517161000 +0000" stop="20260517184000 +0000">
     <title lang="id">Newcastle vs West Ham - Premier League</title>
     <desc lang="id">Nonton streaming pertandingan seru Newcastle vs West Ham - Premier League. Saksikan aksi-aksi terbaik dari tim yang bersaing ketat untuk meraih kemenangan. Dapatkan informasi lengkap mengenai jadwal pertandingan dan hasil pertandingan terbaru hanya di Vidio.</desc>
     <icon src="https://thumbor.prod.vidiocdn.com/_2Ee2gkI7nyoDUlaeJwxBCDLtzk=/287x162/filters:strip_icc():quality(70)/vidio-media-production/uploads/livestreaming/schedule/thumbnail/5074620/95acfd.jpg"/>
   </programme>
-  <programme channel="9182" start="20260517183000 +0000" stop="20260517190000 +0000">
+  <programme channel="9182" start="20260517184000 +0000" stop="20260517190000 +0000">
     <title lang="id">Highlight Show - Semi Final : FA CUP 2025/26</title>
     <desc lang="id">HIGHLIGHT SHOW SEMI FINAL</desc>
     <icon src="https://thumbor.prod.vidiocdn.com/r_QaZubFaj9Ht_TI2kDgdImcRqY=/287x162/filters:strip_icc():quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/image/9182/champions-tv-5-e0dd48.jpg"/>
