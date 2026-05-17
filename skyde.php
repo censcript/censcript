@@ -2563,7 +2563,7 @@
 <programme start="20260517113000 +0000" stop="20260517143000 +0000" channel="Sky Sport Austria 2 HD.skyde">
     <title>Live Admiral BL: FK Austria Wien - LASK, 32. Runde</title>
 </programme>
-<programme start="20260517143000 +0000" stop="20260517160000 +0000" channel="Sky Sport Austria 2 HD.skyde">
+<programme start="20260517143000 +0000" stop="20260517163000 +0000" channel="Sky Sport Austria 2 HD.skyde">
     <title>Live Admiral BL: Alle Spiele, alle Tore 32. Runde (Sonntag)</title>
 </programme>
 <programme start="20260517111000 +0000" stop="20260517113000 +0000" channel="Sky Sport Austria 3 HD.skyde">
@@ -2572,7 +2572,7 @@
 <programme start="20260517113000 +0000" stop="20260517143000 +0000" channel="Sky Sport Austria 3 HD.skyde">
     <title>Live Admiral BL: SK Puntigamer Sturm Graz - SK Rapid, 32. Runde</title>
 </programme>
-<programme start="20260517143000 +0000" stop="20260517160000 +0000" channel="Sky Sport Austria 3 HD.skyde">
+<programme start="20260517143000 +0000" stop="20260517163000 +0000" channel="Sky Sport Austria 3 HD.skyde">
     <title>Live Admiral BL: Alle Spiele, alle Tore 32. Runde (Sonntag)</title>
 </programme>
 <programme start="20260517111000 +0000" stop="20260517113000 +0000" channel="Sky Sport Austria 4 HD.skyde">
@@ -2698,25 +2698,25 @@
 <programme start="20260517120000 +0000" stop="20260517163000 +0000" channel="Sky Sport Bundesliga 2 HD.skyde">
     <title>Live 2. BL: FC Schalke 04 - Eintracht Braunschweig, 34. Spieltag</title>
 </programme>
-<programme start="20260517163000 +0000" stop="20260517180000 +0000" channel="Sky Sport Bundesliga 2 HD.skyde">
+<programme start="20260517163000 +0000" stop="20260517183000 +0000" channel="Sky Sport Bundesliga 2 HD.skyde">
     <title>Live 2. BL Alle Spiele, alle Tore: Die Vodafone Highlight-Show, 34. Spieltag</title>
 </programme>
 <programme start="20260517114000 +0000" stop="20260517120000 +0000" channel="Sky Sport Bundesliga 3 HD.skyde">
     <title>Es folgt: LIVE 2. Bundesliga</title>
 </programme>
-<programme start="20260517120000 +0000" stop="20260517160000 +0000" channel="Sky Sport Bundesliga 3 HD.skyde">
+<programme start="20260517120000 +0000" stop="20260517163000 +0000" channel="Sky Sport Bundesliga 3 HD.skyde">
     <title>Live 2. BL: SV Elversberg - Preußen Münster, 34. Spieltag</title>
 </programme>
 <programme start="20260517114000 +0000" stop="20260517120000 +0000" channel="Sky Sport Bundesliga 4 HD.skyde">
     <title>Es folgt: LIVE 2. Bundesliga</title>
 </programme>
-<programme start="20260517120000 +0000" stop="20260517160000 +0000" channel="Sky Sport Bundesliga 4 HD.skyde">
+<programme start="20260517120000 +0000" stop="20260517163000 +0000" channel="Sky Sport Bundesliga 4 HD.skyde">
     <title>Live 2. BL: Hannover 96 - 1. FC Nürnberg, 34. Spieltag</title>
 </programme>
 <programme start="20260517114000 +0000" stop="20260517120000 +0000" channel="Sky Sport Bundesliga 5 HD.skyde">
     <title>Es folgt: LIVE 2. Bundesliga</title>
 </programme>
-<programme start="20260517120000 +0000" stop="20260517160000 +0000" channel="Sky Sport Bundesliga 5 HD.skyde">
+<programme start="20260517120000 +0000" stop="20260517163000 +0000" channel="Sky Sport Bundesliga 5 HD.skyde">
     <title>Live 2. BL: SV Darmstadt 98 - SC Paderborn 07, 34. Spieltag</title>
 </programme>
 <programme start="20260517114000 +0000" stop="20260517120000 +0000" channel="Sky Sport Bundesliga 6 HD.skyde">
@@ -2746,7 +2746,7 @@
 <programme start="20260517114000 +0000" stop="20260517120000 +0000" channel="Sky Sport Bundesliga 10 HD.skyde">
     <title>Es folgt: LIVE 2. Bundesliga</title>
 </programme>
-<programme start="20260517120000 +0000" stop="20260517160000 +0000" channel="Sky Sport Bundesliga 10 HD.skyde">
+<programme start="20260517120000 +0000" stop="20260517163000 +0000" channel="Sky Sport Bundesliga 10 HD.skyde">
     <title>Live 2. BL: Karlsruher SC - VfL Bochum, 34. Spieltag</title>
 </programme>
 <programme start="20260516220000 +0000" stop="20260517000000 +0000" channel="Sky Sport F1 HD.skyde">
@@ -2761,25 +2761,25 @@
 <programme start="20260517040000 +0000" stop="20260517060000 +0000" channel="Sky Sport F1 HD.skyde">
     <title>F1: Rennen - GP Japan</title>
 </programme>
-<programme start="20260517060000 +0000" stop="20260517130000 +0000" channel="Sky Sport F1 HD.skyde">
-    <title>IndyCar: Qualifying Indy 500 - Day 1</title>
+<programme start="20260517060000 +0000" stop="20260517073000 +0000" channel="Sky Sport F1 HD.skyde">
+    <title>IndyCar: Qualifying in Indianapolis (Indiana)</title>
 </programme>
-<programme start="20260517130000 +0000" stop="20260517133000 +0000" channel="Sky Sport F1 HD.skyde">
-    <title>Meine Geschichte: Das Leben von Ralf Schumacher und Étienne Bousquet-Cassagne</title>
+<programme start="20260517073000 +0000" stop="20260517093000 +0000" channel="Sky Sport F1 HD.skyde">
+    <title>IndyCar: Sonsio Grand Prix</title>
 </programme>
-<programme start="20260517133000 +0000" stop="20260517153000 +0000" channel="Sky Sport F1 HD.skyde">
+<programme start="20260517093000 +0000" stop="20260517113000 +0000" channel="Sky Sport F1 HD.skyde">
     <title>F1: Rennen 2002 in Magny-Cours</title>
 </programme>
-<programme start="20260517153000 +0000" stop="20260517173000 +0000" channel="Sky Sport F1 HD.skyde">
+<programme start="20260517113000 +0000" stop="20260517133000 +0000" channel="Sky Sport F1 HD.skyde">
     <title>F1: Rennen 2003 in Suzuka</title>
 </programme>
-<programme start="20260517173000 +0000" stop="20260517193000 +0000" channel="Sky Sport F1 HD.skyde">
+<programme start="20260517133000 +0000" stop="20260517153000 +0000" channel="Sky Sport F1 HD.skyde">
     <title>F1: Rennen 2004 in Spa-Francorchamps</title>
 </programme>
-<programme start="20260517193000 +0000" stop="20260517200000 +0000" channel="Sky Sport F1 HD.skyde">
+<programme start="20260517153000 +0000" stop="20260517160000 +0000" channel="Sky Sport F1 HD.skyde">
     <title>IndyCar: Timo meets Mick - Faszination Indy 500</title>
 </programme>
-<programme start="20260517200000 +0000" stop="20260517230000 +0000" channel="Sky Sport F1 HD.skyde">
+<programme start="20260517160000 +0000" stop="20260517230000 +0000" channel="Sky Sport F1 HD.skyde">
     <title>Live IndyCar: Qualifying Indy 500 - Day 2</title>
 </programme>
 <programme start="20260516230000 +0000" stop="20260517020000 +0000" channel="Sky Sport Golf HD.skyde">
