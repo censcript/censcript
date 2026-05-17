@@ -514,9 +514,6 @@
 <programme start="20260517080000 +0000" stop="20260517090000 +0000" channel="Trans 7.vision">
 <title>Makan Receh</title>
 </programme>
-<programme start="20260517090000 +0000" stop="20260517100000 +0000" channel="Trans 7.vision">
-<title>Moto3 2026 Catalonia GP</title>
-</programme>
 <programme start="20260517100000 +0000" stop="20260517110000 +0000" channel="Trans 7.vision">
 <title>Selebrita On The Weekend</title>
 </programme>
@@ -1496,5 +1493,8 @@
 <title>TVRI</title>
 </programme>
 <programme start="20260517190000 +0000" stop="20260517210000 +0000" channel="TVRI.vision">
+<title>TVRI</title>
+</programme>
+<programme start="20260517210000 +0000" stop="20260517230000 +0000" channel="TVRI.vision">
 <title>TVRI</title>
 </programme>

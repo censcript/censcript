@@ -1359,32 +1359,32 @@
     <icon src="https://thumbor.prod.vidiocdn.com/eDxnkfbC9tu2_nK1bM0d9sAA8pc=/287x162/filters:strip_icc():quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/image/733/trans-tv-3836a5.jpg"/>
   </programme>
   <programme channel="733" start="20260517043000 +0000" stop="20260517053000 +0000">
-    <title lang="id">Spill DD Tea</title>
-    <icon src="https://thumbor.prod.vidiocdn.com/eDxnkfbC9tu2_nK1bM0d9sAA8pc=/287x162/filters:strip_icc():quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/image/733/trans-tv-3836a5.jpg"/>
-  </programme>
-  <programme channel="733" start="20260517053000 +0000" stop="20260517070000 +0000">
     <title lang="id">Brownis On The Weekend</title>
     <icon src="https://thumbor.prod.vidiocdn.com/RD5SNDSX1Yk77eqGJw68RfUHNNY=/287x162/filters:strip_icc():quality(70)/vidio-media-production/uploads/tv_program/thumbnail/389460/6bced0.jpg"/>
   </programme>
-  <programme channel="733" start="20260517070000 +0000" stop="20260517080000 +0000">
-    <title lang="id">Rumpi Hot Of The Week</title>
-    <icon src="https://thumbor.prod.vidiocdn.com/oBPdKbzIPQrTVQGDiRAfvj3FbMs=/287x162/filters:strip_icc():quality(70)/vidio-media-production/uploads/tv_program/thumbnail/399367/5878ed.jpg"/>
+  <programme channel="733" start="20260517053000 +0000" stop="20260517060000 +0000">
+    <title lang="id">Masak Anti Ribet</title>
+    <icon src="https://thumbor.prod.vidiocdn.com/eDxnkfbC9tu2_nK1bM0d9sAA8pc=/287x162/filters:strip_icc():quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/image/733/trans-tv-3836a5.jpg"/>
   </programme>
-  <programme channel="733" start="20260517080000 +0000" stop="20260517090000 +0000">
+  <programme channel="733" start="20260517060000 +0000" stop="20260517070000 +0000">
     <title lang="id">Insert Investigasi</title>
     <icon src="https://thumbor.prod.vidiocdn.com/eDxnkfbC9tu2_nK1bM0d9sAA8pc=/287x162/filters:strip_icc():quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/image/733/trans-tv-3836a5.jpg"/>
   </programme>
-  <programme channel="733" start="20260517100000 +0000" stop="20260517110000 +0000">
+  <programme channel="733" start="20260517070000 +0000" stop="20260517080000 +0000">
     <title lang="id">Bikin Laper</title>
     <icon src="https://thumbor.prod.vidiocdn.com/KY1aMVPA-vFKcHL8sVGFNbIJwIE=/287x162/filters:strip_icc():quality(70)/vidio-media-production/uploads/tv_program/thumbnail/382649/f6c845.jpg"/>
   </programme>
-  <programme channel="733" start="20260517110000 +0000" stop="20260517120000 +0000">
-    <title lang="id">Monitor Ketua</title>
+  <programme channel="733" start="20260517080000 +0000" stop="20260517101000 +0000">
+    <title lang="id">SBY Cup 2026</title>
     <icon src="https://thumbor.prod.vidiocdn.com/eDxnkfbC9tu2_nK1bM0d9sAA8pc=/287x162/filters:strip_icc():quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/image/733/trans-tv-3836a5.jpg"/>
   </programme>
-  <programme channel="733" start="20260517120000 +0000" stop="20260517131500 +0000">
+  <programme channel="733" start="20260517101000 +0000" stop="20260517110000 +0000">
     <title lang="id">Insert Story</title>
-    <icon src="https://thumbor.prod.vidiocdn.com/U9KWWTErFNVP3GipxXeE54j5Edw=/287x162/filters:strip_icc():quality(70)/vidio-media-production/uploads/tv_program/thumbnail/382650/4d2630.jpg"/>
+    <icon src="https://thumbor.prod.vidiocdn.com/eDxnkfbC9tu2_nK1bM0d9sAA8pc=/287x162/filters:strip_icc():quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/image/733/trans-tv-3836a5.jpg"/>
+  </programme>
+  <programme channel="733" start="20260517110000 +0000" stop="20260517131500 +0000">
+    <title lang="id">SBY Cup 2026</title>
+    <icon src="https://thumbor.prod.vidiocdn.com/eDxnkfbC9tu2_nK1bM0d9sAA8pc=/287x162/filters:strip_icc():quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/image/733/trans-tv-3836a5.jpg"/>
   </programme>
   <programme channel="733" start="20260517131500 +0000" stop="20260517141500 +0000">
     <title lang="id">Highlight</title>
@@ -1394,7 +1394,12 @@
     <title lang="id">Bioskop Trans TV: Greenland</title>
     <icon src="https://thumbor.prod.vidiocdn.com/jxTIJmZhxDpj_kXDBTQtSU9Bbs4=/287x162/filters:strip_icc():quality(70)/vidio-media-production/uploads/tv_program/thumbnail/382657/b1374a.jpg"/>
   </programme>
-  <programme channel="733" start="20260517170000 +0000" stop="20260517181500 +0000">
+  <programme channel="733" start="20260517163000 +0000" stop="20260517181500 +0000">
+    <title lang="id">Bioskop TransTV: Trauma Center</title>
+    <desc lang="id">Sendirian dan terjebak di rumah sakit yang terkunci, seorang wanita muda yang terluka harus melarikan diri dari sepasang pembunuh kejam yang mengejar satu-satunya bukti yang dapat melibatkan mereka dalam pembunuhan yang mengerikan, peluru di kakinya.</desc>
+    <icon src="https://thumbor.prod.vidiocdn.com/eDxnkfbC9tu2_nK1bM0d9sAA8pc=/287x162/filters:strip_icc():quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/image/733/trans-tv-3836a5.jpg"/>
+  </programme>
+  <programme channel="733" start="20260517163000 +0000" stop="20260517181500 +0000">
     <title lang="id">Bioskop TransTV: Trauma Center</title>
     <desc lang="id">Sendirian dan terjebak di rumah sakit yang terkunci, seorang wanita muda yang terluka harus melarikan diri dari sepasang pembunuh kejam yang mengejar satu-satunya bukti yang dapat melibatkan mereka dalam pembunuhan yang mengerikan, peluru di kakinya.</desc>
     <icon src="https://thumbor.prod.vidiocdn.com/eDxnkfbC9tu2_nK1bM0d9sAA8pc=/287x162/filters:strip_icc():quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/image/733/trans-tv-3836a5.jpg"/>
@@ -9450,7 +9455,7 @@
     <desc lang="id">Sayali, sosok perempuan muda pekerja keras yang memiliki impian besar untuk membahagiakan keluarganya dan meraih kehidupan yang lebih layak. Namun perjalanan hidupnya tidak mudah. Ia harus menghadapi berbagai persoalan mulai dari keterbatasan ekonomi hingga konflik keluarga yang terus menghampiri.</desc>
     <icon src="https://thumbor.prod.vidiocdn.com/FSIE4jk7iLkpaRP1PHEL_CZsbSQ=/287x162/filters:strip_icc():quality(70)/vidio-media-production/uploads/livestreaming/schedule/thumbnail/5075514/2e371c.jpg"/>
   </programme>
-  <programme channel="782" start="20260517083200 +0000" stop="20260517100000 +0000">
+  <programme channel="782" start="20260517083200 +0000" stop="20260517095100 +0000">
     <title lang="id">TERI MERI DORIYAAN</title>
     <icon src="https://thumbor.prod.vidiocdn.com/20tRQaK9Gps_wFQL5rY-XgRbrs4=/287x162/filters:strip_icc():quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/image/782/antv-de8530.jpg"/>
   </programme>
