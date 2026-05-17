@@ -8330,12 +8330,12 @@
     <desc lang="id">Nonton streaming pertandingan seru Rayo Vallecano vs Villarreal - LaLiga. Saksikan aksi-aksi terbaik dari tim yang bersaing ketat untuk meraih kemenangan. Dapatkan informasi lengkap mengenai jadwal pertandingan dan hasil pertandingan terbaru hanya di Vidio.</desc>
     <icon src="https://thumbor.prod.vidiocdn.com/yV-2m4HIsM7tHp7kE5gGdBw4O0g=/287x162/filters:strip_icc():quality(70)/vidio-media-production/uploads/livestreaming/schedule/thumbnail/5075462/09c7ac.jpg"/>
   </programme>
-  <programme channel="6299" start="20260517191000 +0000" stop="20260517211500 +0000">
+  <programme channel="6299" start="20260517191000 +0000" stop="20260517212100 +0000">
     <title lang="id">Barcelona vs Real Betis - LaLiga</title>
     <desc lang="id">Nonton streaming pertandingan seru Barcelona vs Real Betis - LaLiga. Saksikan aksi-aksi terbaik dari tim yang bersaing ketat untuk meraih kemenangan. Dapatkan informasi lengkap mengenai jadwal pertandingan dan hasil pertandingan terbaru hanya di Vidio.</desc>
     <icon src="https://thumbor.prod.vidiocdn.com/M4HKXJcgxKPrndtOczsm2B7iMOA=/287x162/filters:strip_icc():quality(70)/vidio-media-production/uploads/livestreaming/schedule/thumbnail/5075464/7777d7.jpg"/>
   </programme>
-  <programme channel="6299" start="20260517211500 +0000" stop="20260517214500 +0000">
+  <programme channel="6299" start="20260517212100 +0000" stop="20260517214500 +0000">
     <title lang="id">Episode Number 5 : Fastzone 2026</title>
     <desc lang="id">Episode Number 5</desc>
     <icon src="https://thumbor.prod.vidiocdn.com/5yUHYfv_b1sZi7kdFElm8JqF2RY=/287x162/filters:strip_icc():quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/image/6299/bein-1-4bd997.jpg"/>
@@ -16574,12 +16574,12 @@
     <title lang="id">SASSUOLO vs LECCE - Serie A 2025/26</title>
     <icon src="https://thumbor.prod.vidiocdn.com/nY0aFklpYf6yONLaFJjxhiSuthc=/287x162/filters:strip_icc():quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/image/6786/champions-tv-3-76ca7c.jpg"/>
   </programme>
-  <programme channel="6786" start="20260517205000 +0000" stop="20260517230000 +0000">
-    <title lang="id">Serie A 2025/26</title>
+  <programme channel="6786" start="20260517210000 +0000" stop="20260517230000 +0000">
+    <title lang="id">Cagliari vs Parma - Serie A 2025/26</title>
     <icon src="https://thumbor.prod.vidiocdn.com/nY0aFklpYf6yONLaFJjxhiSuthc=/287x162/filters:strip_icc():quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/image/6786/champions-tv-3-76ca7c.jpg"/>
   </programme>
   <programme channel="6786" start="20260517230000 +0000" stop="20260518010000 +0000">
-    <title lang="id">Serie A 2025/26</title>
+    <title lang="id">Pisa vs Napoli - Serie A 2025/26</title>
     <icon src="https://thumbor.prod.vidiocdn.com/nY0aFklpYf6yONLaFJjxhiSuthc=/287x162/filters:strip_icc():quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/image/6786/champions-tv-3-76ca7c.jpg"/>
   </programme>
   <programme channel="6786" start="20260518010000 +0000" stop="20260518013000 +0000">
@@ -16591,11 +16591,11 @@
     <icon src="https://thumbor.prod.vidiocdn.com/nY0aFklpYf6yONLaFJjxhiSuthc=/287x162/filters:strip_icc():quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/image/6786/champions-tv-3-76ca7c.jpg"/>
   </programme>
   <programme channel="6786" start="20260518040000 +0000" stop="20260518060000 +0000">
-    <title lang="id">Serie A 2025/26</title>
+    <title lang="id">Udinese vs Cremonese - Serie A 2025/26</title>
     <icon src="https://thumbor.prod.vidiocdn.com/nY0aFklpYf6yONLaFJjxhiSuthc=/287x162/filters:strip_icc():quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/image/6786/champions-tv-3-76ca7c.jpg"/>
   </programme>
   <programme channel="6786" start="20260518060000 +0000" stop="20260518080000 +0000">
-    <title lang="id">Serie A 2025/26</title>
+    <title lang="id">Genoa vs Milan - Serie A 2025/26</title>
     <icon src="https://thumbor.prod.vidiocdn.com/nY0aFklpYf6yONLaFJjxhiSuthc=/287x162/filters:strip_icc():quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/image/6786/champions-tv-3-76ca7c.jpg"/>
   </programme>
   <programme channel="6786" start="20260518080000 +0000" stop="20260518083000 +0000">
