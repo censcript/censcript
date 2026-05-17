@@ -970,51 +970,6 @@
 <programme start="20260517213500 +0000" stop="20260517220000 +0000" channel="Crime + Investigation.skyde">
     <title>Unentdeckt - Mörder unter uns</title>
 </programme>
-<programme start="20260516220000 +0000" stop="20260517060000 +0000" channel="DAZN 1 HD.skyde">
-    <title>Sendepause</title>
-</programme>
-<programme start="20260517060000 +0000" stop="20260517061500 +0000" channel="DAZN 1 HD.skyde">
-    <title>Best of DAZN: Highlights</title>
-</programme>
-<programme start="20260517061500 +0000" stop="20260517073000 +0000" channel="DAZN 1 HD.skyde">
-    <title>ALL IN - Die Bundesliga Highlight Show: 28. Spieltag</title>
-</programme>
-<programme start="20260517073000 +0000" stop="20260517092500 +0000" channel="DAZN 1 HD.skyde">
-    <title>Bundesliga 25/26: FC St. Pauli - VFL Wolfsburg</title>
-</programme>
-<programme start="20260517092500 +0000" stop="20260517112000 +0000" channel="DAZN 1 HD.skyde">
-    <title>Bundesliga 25/26: FC Bayern München - 1. FC Köln</title>
-</programme>
-<programme start="20260517112000 +0000" stop="20260517114500 +0000" channel="DAZN 1 HD.skyde">
-    <title>Best of DAZN: Highlights</title>
-</programme>
-<programme start="20260517114500 +0000" stop="20260517140000 +0000" channel="DAZN 1 HD.skyde">
-    <title>Google Pixel Frauen Bundesliga 25/26: Hamburger SV - FC Bayern München</title>
-</programme>
-<programme start="20260517140000 +0000" stop="20260517145500 +0000" channel="DAZN 1 HD.skyde">
-    <title>Her Element by Laura Wontorra: Episode 1</title>
-</programme>
-<programme start="20260517145500 +0000" stop="20260517154000 +0000" channel="DAZN 1 HD.skyde">
-    <title>Her Element by Laura Wontorra: Episode 2</title>
-</programme>
-<programme start="20260517154000 +0000" stop="20260517162500 +0000" channel="DAZN 1 HD.skyde">
-    <title>Her Element by Laura Wontorra: Episode 3</title>
-</programme>
-<programme start="20260517162500 +0000" stop="20260517165500 +0000" channel="DAZN 1 HD.skyde">
-    <title>Best of DAZN: Highlights</title>
-</programme>
-<programme start="20260517165500 +0000" stop="20260517191000 +0000" channel="DAZN 1 HD.skyde">
-    <title>LaLiga 25/26: FC Sevilla - Real Madrid</title>
-</programme>
-<programme start="20260517191000 +0000" stop="20260517211000 +0000" channel="DAZN 1 HD.skyde">
-    <title>LaLiga 25/26: FC Barcelona - Real Betis Sevilla</title>
-</programme>
-<programme start="20260517211000 +0000" stop="20260517214000 +0000" channel="DAZN 1 HD.skyde">
-    <title>Das Herz des deutschen Fußballs: Episode 1</title>
-</programme>
-<programme start="20260517214000 +0000" stop="20260517220000 +0000" channel="DAZN 1 HD.skyde">
-    <title>Best of DAZN: Highlights</title>
-</programme>
 <programme start="20260516220000 +0000" stop="20260517060000 +0000" channel="DAZN 2 HD.skyde">
     <title>Sendepause</title>
 </programme>
@@ -2617,11 +2572,8 @@
 <programme start="20260517083000 +0000" stop="20260517084500 +0000" channel="Sky Sport Bundesliga HD.skyde">
     <title>BL: Highlights XXL: FCB - KOE, 34. Spieltag</title>
 </programme>
-<programme start="20260517084500 +0000" stop="20260517110000 +0000" channel="Sky Sport Bundesliga HD.skyde">
+<programme start="20260517084500 +0000" stop="20260517120000 +0000" channel="Sky Sport Bundesliga HD.skyde">
     <title>Live DFB-Nachwuchsliga: SC Paderborn 07 U19 - 1. FC Köln U19, Halbfinale</title>
-</programme>
-<programme start="20260517110000 +0000" stop="20260517120000 +0000" channel="Sky Sport Bundesliga HD.skyde">
-    <title>BL Kompakt: 34. Spieltag</title>
 </programme>
 <programme start="20260517120000 +0000" stop="20260517153000 +0000" channel="Sky Sport Bundesliga HD.skyde">
     <title>Live 2. BL: Sonntags-Konferenz, 34. Spieltag</title>
@@ -2740,7 +2692,7 @@
 <programme start="20260517114000 +0000" stop="20260517120000 +0000" channel="Sky Sport Bundesliga 9 HD.skyde">
     <title>Es folgt: LIVE 2. Bundesliga</title>
 </programme>
-<programme start="20260517120000 +0000" stop="20260517160000 +0000" channel="Sky Sport Bundesliga 9 HD.skyde">
+<programme start="20260517120000 +0000" stop="20260517163000 +0000" channel="Sky Sport Bundesliga 9 HD.skyde">
     <title>Live 2. BL: 1. FC Magdeburg - 1. FC Kaiserslautern, 34. Spieltag</title>
 </programme>
 <programme start="20260517114000 +0000" stop="20260517120000 +0000" channel="Sky Sport Bundesliga 10 HD.skyde">
@@ -2833,10 +2785,10 @@
 <programme start="20260517083500 +0000" stop="20260517100000 +0000" channel="Sky Sport Mix HD.skyde">
     <title>Live Moto3: Rennen - GP Katalonien</title>
 </programme>
-<programme start="20260517100000 +0000" stop="20260517111500 +0000" channel="Sky Sport Mix HD.skyde">
+<programme start="20260517100000 +0000" stop="20260517112000 +0000" channel="Sky Sport Mix HD.skyde">
     <title>Live Moto2: Rennen - GP Katalonien</title>
 </programme>
-<programme start="20260517111500 +0000" stop="20260517133000 +0000" channel="Sky Sport Mix HD.skyde">
+<programme start="20260517112000 +0000" stop="20260517133000 +0000" channel="Sky Sport Mix HD.skyde">
     <title>Live MotoGP: Rennen - GP Katalonien</title>
 </programme>
 <programme start="20260517133000 +0000" stop="20260517140000 +0000" channel="Sky Sport Mix HD.skyde">
@@ -3052,10 +3004,10 @@
 <programme start="20260517083500 +0000" stop="20260517100000 +0000" channel="Sky Sport Top Event HD.skyde">
     <title>Live Moto3: Rennen - GP Katalonien</title>
 </programme>
-<programme start="20260517100000 +0000" stop="20260517111500 +0000" channel="Sky Sport Top Event HD.skyde">
+<programme start="20260517100000 +0000" stop="20260517112000 +0000" channel="Sky Sport Top Event HD.skyde">
     <title>Live Moto2: Rennen - GP Katalonien</title>
 </programme>
-<programme start="20260517111500 +0000" stop="20260517120000 +0000" channel="Sky Sport Top Event HD.skyde">
+<programme start="20260517112000 +0000" stop="20260517120000 +0000" channel="Sky Sport Top Event HD.skyde">
     <title>Live Golf Ladies ET: Amundi German Masters, 4. Tag in Hamburg (Deutschland)</title>
 </programme>
 <programme start="20260517120000 +0000" stop="20260517153000 +0000" channel="Sky Sport Top Event HD.skyde">
