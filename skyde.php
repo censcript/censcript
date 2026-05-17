@@ -2617,8 +2617,11 @@
 <programme start="20260517083000 +0000" stop="20260517084500 +0000" channel="Sky Sport Bundesliga HD.skyde">
     <title>BL: Highlights XXL: FCB - KOE, 34. Spieltag</title>
 </programme>
-<programme start="20260517084500 +0000" stop="20260517120000 +0000" channel="Sky Sport Bundesliga HD.skyde">
+<programme start="20260517084500 +0000" stop="20260517110000 +0000" channel="Sky Sport Bundesliga HD.skyde">
     <title>Live DFB-Nachwuchsliga: SC Paderborn 07 U19 - 1. FC Köln U19, Halbfinale</title>
+</programme>
+<programme start="20260517110000 +0000" stop="20260517120000 +0000" channel="Sky Sport Bundesliga HD.skyde">
+    <title>BL Kompakt: 34. Spieltag</title>
 </programme>
 <programme start="20260517120000 +0000" stop="20260517153000 +0000" channel="Sky Sport Bundesliga HD.skyde">
     <title>Live 2. BL: Sonntags-Konferenz, 34. Spieltag</title>

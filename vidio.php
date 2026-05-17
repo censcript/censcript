@@ -10550,12 +10550,12 @@
     <desc lang="id">Karena ingin membantu sahabatnya, Jaka Sembung, maka Soca Indrasukma meminta bantuan seorang penyihir, Dewi Magi. Yang dapat membuat kepala kambing nampak seperti kepala Jaka Sembung dan diserahkan ke Belanda yang mengadakan sayembara untuk membawa kepala Jaka Sembung.</desc>
     <icon src="https://thumbor.prod.vidiocdn.com/20tRQaK9Gps_wFQL5rY-XgRbrs4=/287x162/filters:strip_icc():quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/image/782/antv-de8530.jpg"/>
   </programme>
-  <programme channel="782" start="20260517181500 +0000" stop="20260517204500 +0000">
+  <programme channel="782" start="20260517181500 +0000" stop="20260517204900 +0000">
     <title lang="id">Serie A 2025/26: Udinese vs Cremonese</title>
     <desc lang="id">Liga Italia Serie A merupakan kompetisi sepak bola profesional tertinggi di sistem liga sepak bola Italia. Sebanyak 20 klub bersaing untuk memperebutkan juara kompetisi ini.</desc>
     <icon src="https://thumbor.prod.vidiocdn.com/20tRQaK9Gps_wFQL5rY-XgRbrs4=/287x162/filters:strip_icc():quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/image/782/antv-de8530.jpg"/>
   </programme>
-  <programme channel="782" start="20260517204500 +0000" stop="20260517230000 +0000">
+  <programme channel="782" start="20260517204900 +0000" stop="20260517230000 +0000">
     <title lang="id">Mega Bollywood: Tanhaji: The Unsung Warrior</title>
     <desc lang="id">Tanhaji, seorang prajurit Maratha, adalah letnan terpercaya Shivaji Maharaj. Ketika Mughal menyerbu dan menaklukkan benteng Kondhana, dia bertekad untuk merebutnya kembali untuk raja dan negaranya.</desc>
     <icon src="https://thumbor.prod.vidiocdn.com/OxvEUxRDL5CNu2s-x2PmvGW_D3o=/287x162/filters:strip_icc():quality(70)/vidio-media-production/uploads/livestreaming/schedule/thumbnail/5078263/c78390.jpg"/>
@@ -16570,11 +16570,11 @@
     <title lang="id">Serie A 2025/26 - Highlight Show</title>
     <icon src="https://thumbor.prod.vidiocdn.com/nY0aFklpYf6yONLaFJjxhiSuthc=/287x162/filters:strip_icc():quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/image/6786/champions-tv-3-76ca7c.jpg"/>
   </programme>
-  <programme channel="6786" start="20260517183000 +0000" stop="20260517210000 +0000">
+  <programme channel="6786" start="20260517183000 +0000" stop="20260517205000 +0000">
     <title lang="id">SASSUOLO vs LECCE - Serie A 2025/26</title>
     <icon src="https://thumbor.prod.vidiocdn.com/nY0aFklpYf6yONLaFJjxhiSuthc=/287x162/filters:strip_icc():quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/image/6786/champions-tv-3-76ca7c.jpg"/>
   </programme>
-  <programme channel="6786" start="20260517210000 +0000" stop="20260517230000 +0000">
+  <programme channel="6786" start="20260517205000 +0000" stop="20260517230000 +0000">
     <title lang="id">Serie A 2025/26</title>
     <icon src="https://thumbor.prod.vidiocdn.com/nY0aFklpYf6yONLaFJjxhiSuthc=/287x162/filters:strip_icc():quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/image/6786/champions-tv-3-76ca7c.jpg"/>
   </programme>
@@ -18312,12 +18312,12 @@ dan komprehensif mengenai berbagai topik yang relevan dalam kehidupan sehari-har
     <desc lang="id">COMO VS INTER</desc>
     <icon src="https://thumbor.prod.vidiocdn.com/xgkik6iws0EJ01bi5cJsIjYWjOM=/287x162/filters:strip_icc():quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/image/6686/champions-tv-2-681a27.jpg"/>
   </programme>
-  <programme channel="6686" start="20260517190000 +0000" stop="20260517210000 +0000">
+  <programme channel="6686" start="20260517190000 +0000" stop="20260517205500 +0000">
     <title lang="id">Juventus Vs Fiorentina : Serie A 2025/26</title>
     <desc lang="id">JUVENTUS VS FIORENTINA</desc>
     <icon src="https://thumbor.prod.vidiocdn.com/xgkik6iws0EJ01bi5cJsIjYWjOM=/287x162/filters:strip_icc():quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/image/6686/champions-tv-2-681a27.jpg"/>
   </programme>
-  <programme channel="6686" start="20260517210000 +0000" stop="20260517230000 +0000">
+  <programme channel="6686" start="20260517205500 +0000" stop="20260517230000 +0000">
     <title lang="id">Psv Eindhoven Vs Fc Twente : Dutch League Eredivisie 2025/26</title>
     <desc lang="id">PSV EINDHOVEN VS FC TWENTE</desc>
     <icon src="https://thumbor.prod.vidiocdn.com/xgkik6iws0EJ01bi5cJsIjYWjOM=/287x162/filters:strip_icc():quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/image/6686/champions-tv-2-681a27.jpg"/>
