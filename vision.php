@@ -421,9 +421,6 @@
 <programme start="20260517043000 +0000" stop="20260517053000 +0000" channel="Trans TV.vision">
 <title>Brownis On The Weekend</title>
 </programme>
-<programme start="20260517053000 +0000" stop="20260517060000 +0000" channel="Trans TV.vision">
-<title>Masak Anti Ribet</title>
-</programme>
 <programme start="20260517060000 +0000" stop="20260517070000 +0000" channel="Trans TV.vision">
 <title>Insert Investigasi</title>
 </programme>
@@ -615,9 +612,6 @@
 </programme>
 <programme start="20260517010000 +0000" stop="20260517023000 +0000" channel="ANTV.vision">
 <title>Misteri Sungai Mekong</title>
-</programme>
-<programme start="20260517023000 +0000" stop="20260517060000 +0000" channel="ANTV.vision">
-<title>Kabhi Kushi Kabhie Gham</title>
 </programme>
 <programme start="20260517060000 +0000" stop="20260517073000 +0000" channel="ANTV.vision">
 <title>Jhanak</title>
@@ -1496,5 +1490,11 @@
 <title>TVRI</title>
 </programme>
 <programme start="20260517150000 +0000" stop="20260517170000 +0000" channel="TVRI.vision">
+<title>TVRI</title>
+</programme>
+<programme start="20260517170000 +0000" stop="20260517190000 +0000" channel="TVRI.vision">
+<title>TVRI</title>
+</programme>
+<programme start="20260517190000 +0000" stop="20260517210000 +0000" channel="TVRI.vision">
 <title>TVRI</title>
 </programme>

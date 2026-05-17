@@ -1864,6 +1864,45 @@
 <programme start="20260517215500 +0000" stop="20260518001000 +0000" channel="Sky Cinema Family HD.skyde">
     <title>Der Herr der Ringe: Die Schlacht der Rohirrim</title>
 </programme>
+<programme start="20260516220000 +0000" stop="20260516235000 +0000" channel="Sky Cinema Highlights HD.skyde">
+    <title>Plane</title>
+</programme>
+<programme start="20260516235000 +0000" stop="20260517015500 +0000" channel="Sky Cinema Highlights HD.skyde">
+    <title>Criminal Squad</title>
+</programme>
+<programme start="20260517015500 +0000" stop="20260517035000 +0000" channel="Sky Cinema Highlights HD.skyde">
+    <title>On the Line</title>
+</programme>
+<programme start="20260517035000 +0000" stop="20260517062000 +0000" channel="Sky Cinema Highlights HD.skyde">
+    <title>Transformers: The Last Knight</title>
+</programme>
+<programme start="20260517062000 +0000" stop="20260517081000 +0000" channel="Sky Cinema Highlights HD.skyde">
+    <title>Dante&#039;s Peak</title>
+</programme>
+<programme start="20260517081000 +0000" stop="20260517114000 +0000" channel="Sky Cinema Highlights HD.skyde">
+    <title>Alexander - The Final Cut</title>
+</programme>
+<programme start="20260517114000 +0000" stop="20260517131500 +0000" channel="Sky Cinema Highlights HD.skyde">
+    <title>Overdrive</title>
+</programme>
+<programme start="20260517131500 +0000" stop="20260517145500 +0000" channel="Sky Cinema Highlights HD.skyde">
+    <title>Starsky &amp; Hutch</title>
+</programme>
+<programme start="20260517145500 +0000" stop="20260517162500 +0000" channel="Sky Cinema Highlights HD.skyde">
+    <title>Miss Bodyguard - In High Heels auf der Flucht</title>
+</programme>
+<programme start="20260517162500 +0000" stop="20260517181500 +0000" channel="Sky Cinema Highlights HD.skyde">
+    <title>Beverly Hills Cop - Ich lös&#039; den Fall auf jeden Fall</title>
+</programme>
+<programme start="20260517181500 +0000" stop="20260517195500 +0000" channel="Sky Cinema Highlights HD.skyde">
+    <title>Beverly Hills Cop II</title>
+</programme>
+<programme start="20260517195500 +0000" stop="20260517214500 +0000" channel="Sky Cinema Highlights HD.skyde">
+    <title>Beverly Hills Cop III</title>
+</programme>
+<programme start="20260517214500 +0000" stop="20260517233500 +0000" channel="Sky Cinema Highlights HD.skyde">
+    <title>Dante&#039;s Peak</title>
+</programme>
 <programme start="20260516220500 +0000" stop="20260516234500 +0000" channel="Sky Cinema Premiere HD.skyde">
     <title>Warfare</title>
 </programme>
@@ -1989,102 +2028,6 @@
 </programme>
 <programme start="20260517211000 +0000" stop="20260517220500 +0000" channel="Sky Crime HD.skyde">
     <title>Last Call Killer: Todesangst im queeren New York</title>
-</programme>
-<programme start="20260516223000 +0000" stop="20260516230000 +0000" channel="Sky Documentaries HD.skyde">
-    <title>Meine Geschichte</title>
-</programme>
-<programme start="20260516230000 +0000" stop="20260516232500 +0000" channel="Sky Documentaries HD.skyde">
-    <title>Meine Geschichte</title>
-</programme>
-<programme start="20260516232500 +0000" stop="20260516235000 +0000" channel="Sky Documentaries HD.skyde">
-    <title>Meine Geschichte</title>
-</programme>
-<programme start="20260516235000 +0000" stop="20260517002000 +0000" channel="Sky Documentaries HD.skyde">
-    <title>Meine Geschichte</title>
-</programme>
-<programme start="20260517002000 +0000" stop="20260517004500 +0000" channel="Sky Documentaries HD.skyde">
-    <title>Meine Geschichte</title>
-</programme>
-<programme start="20260517004500 +0000" stop="20260517011500 +0000" channel="Sky Documentaries HD.skyde">
-    <title>Meine Geschichte</title>
-</programme>
-<programme start="20260517011500 +0000" stop="20260517013500 +0000" channel="Sky Documentaries HD.skyde">
-    <title>Meine Geschichte</title>
-</programme>
-<programme start="20260517013500 +0000" stop="20260517020500 +0000" channel="Sky Documentaries HD.skyde">
-    <title>Meine Geschichte</title>
-</programme>
-<programme start="20260517020500 +0000" stop="20260517023000 +0000" channel="Sky Documentaries HD.skyde">
-    <title>Meine Geschichte</title>
-</programme>
-<programme start="20260517023000 +0000" stop="20260517025500 +0000" channel="Sky Documentaries HD.skyde">
-    <title>Meine Geschichte</title>
-</programme>
-<programme start="20260517025500 +0000" stop="20260517034000 +0000" channel="Sky Documentaries HD.skyde">
-    <title>Meine Geschichte</title>
-</programme>
-<programme start="20260517034000 +0000" stop="20260517041000 +0000" channel="Sky Documentaries HD.skyde">
-    <title>Meine Geschichte</title>
-</programme>
-<programme start="20260517041000 +0000" stop="20260517045500 +0000" channel="Sky Documentaries HD.skyde">
-    <title>Mythbusters - Die Wissensjäger</title>
-</programme>
-<programme start="20260517045500 +0000" stop="20260517054500 +0000" channel="Sky Documentaries HD.skyde">
-    <title>Mythbusters - Die Wissensjäger</title>
-</programme>
-<programme start="20260517054500 +0000" stop="20260517061500 +0000" channel="Sky Documentaries HD.skyde">
-    <title>Mythbusters - Die Wissensjäger</title>
-</programme>
-<programme start="20260517061500 +0000" stop="20260517070500 +0000" channel="Sky Documentaries HD.skyde">
-    <title>Mythbusters - Die Wissensjäger</title>
-</programme>
-<programme start="20260517070500 +0000" stop="20260517075500 +0000" channel="Sky Documentaries HD.skyde">
-    <title>Mythbusters - Die Wissensjäger</title>
-</programme>
-<programme start="20260517075500 +0000" stop="20260517084000 +0000" channel="Sky Documentaries HD.skyde">
-    <title>Der XXL-Ostfriese - Unterwegs mit &quot;Knochenbrecher&quot; Tamme Hanken</title>
-</programme>
-<programme start="20260517084000 +0000" stop="20260517093000 +0000" channel="Sky Documentaries HD.skyde">
-    <title>Der XXL-Ostfriese - Unterwegs mit &quot;Knochenbrecher&quot; Tamme Hanken</title>
-</programme>
-<programme start="20260517093000 +0000" stop="20260517102000 +0000" channel="Sky Documentaries HD.skyde">
-    <title>Der XXL-Ostfriese - Unterwegs mit &quot;Knochenbrecher&quot; Tamme Hanken</title>
-</programme>
-<programme start="20260517102000 +0000" stop="20260517111000 +0000" channel="Sky Documentaries HD.skyde">
-    <title>Der XXL-Ostfriese - Unterwegs mit &quot;Knochenbrecher&quot; Tamme Hanken</title>
-</programme>
-<programme start="20260517111000 +0000" stop="20260517115500 +0000" channel="Sky Documentaries HD.skyde">
-    <title>Der XXL-Ostfriese - Unterwegs mit &quot;Knochenbrecher&quot; Tamme Hanken</title>
-</programme>
-<programme start="20260517115500 +0000" stop="20260517125500 +0000" channel="Sky Documentaries HD.skyde">
-    <title>Lüge und Wahrheit - Von den bliblischen Plagen bis Facebook</title>
-</programme>
-<programme start="20260517125500 +0000" stop="20260517135000 +0000" channel="Sky Documentaries HD.skyde">
-    <title>Lüge und Wahrheit - Von den bliblischen Plagen bis Facebook</title>
-</programme>
-<programme start="20260517135000 +0000" stop="20260517152500 +0000" channel="Sky Documentaries HD.skyde">
-    <title>Ein Sommer in Italien - Die WM 1990</title>
-</programme>
-<programme start="20260517152500 +0000" stop="20260517162000 +0000" channel="Sky Documentaries HD.skyde">
-    <title>Wetterwahnsinn weltweit</title>
-</programme>
-<programme start="20260517162000 +0000" stop="20260517171500 +0000" channel="Sky Documentaries HD.skyde">
-    <title>Wetterwahnsinn weltweit</title>
-</programme>
-<programme start="20260517171500 +0000" stop="20260517180500 +0000" channel="Sky Documentaries HD.skyde">
-    <title>Wetterwahnsinn weltweit</title>
-</programme>
-<programme start="20260517180500 +0000" stop="20260517190000 +0000" channel="Sky Documentaries HD.skyde">
-    <title>Wetterwahnsinn weltweit</title>
-</programme>
-<programme start="20260517190000 +0000" stop="20260517203500 +0000" channel="Sky Documentaries HD.skyde">
-    <title>Ein Sommer in Italien - Die WM 1990</title>
-</programme>
-<programme start="20260517203500 +0000" stop="20260517215500 +0000" channel="Sky Documentaries HD.skyde">
-    <title>Kindermusik: Zwischen Kunst und Klicks</title>
-</programme>
-<programme start="20260517215500 +0000" stop="20260517232500 +0000" channel="Sky Documentaries HD.skyde">
-    <title>Counting Crows: Chronik einer Kultband</title>
 </programme>
 <programme start="20260516224000 +0000" stop="20260516232500 +0000" channel="Sky Krimi HD.skyde">
     <title>SOKO Wien</title>
@@ -2533,7 +2476,7 @@
 <programme start="20260517113000 +0000" stop="20260517143000 +0000" channel="Sky Sport Austria 3 HD.skyde">
     <title>Live Admiral BL: SK Puntigamer Sturm Graz - SK Rapid, 32. Runde</title>
 </programme>
-<programme start="20260517143000 +0000" stop="20260517163000 +0000" channel="Sky Sport Austria 3 HD.skyde">
+<programme start="20260517143000 +0000" stop="20260517160000 +0000" channel="Sky Sport Austria 3 HD.skyde">
     <title>Live Admiral BL: Alle Spiele, alle Tore 32. Runde (Sonntag)</title>
 </programme>
 <programme start="20260517111000 +0000" stop="20260517113000 +0000" channel="Sky Sport Austria 4 HD.skyde">
@@ -2659,7 +2602,7 @@
 <programme start="20260517120000 +0000" stop="20260517163000 +0000" channel="Sky Sport Bundesliga 2 HD.skyde">
     <title>Live 2. BL: FC Schalke 04 - Eintracht Braunschweig, 34. Spieltag</title>
 </programme>
-<programme start="20260517163000 +0000" stop="20260517183000 +0000" channel="Sky Sport Bundesliga 2 HD.skyde">
+<programme start="20260517163000 +0000" stop="20260517180000 +0000" channel="Sky Sport Bundesliga 2 HD.skyde">
     <title>Live 2. BL Alle Spiele, alle Tore: Die Vodafone Highlight-Show, 34. Spieltag</title>
 </programme>
 <programme start="20260517114000 +0000" stop="20260517120000 +0000" channel="Sky Sport Bundesliga 3 HD.skyde">
@@ -2677,13 +2620,13 @@
 <programme start="20260517114000 +0000" stop="20260517120000 +0000" channel="Sky Sport Bundesliga 5 HD.skyde">
     <title>Es folgt: LIVE 2. Bundesliga</title>
 </programme>
-<programme start="20260517120000 +0000" stop="20260517163000 +0000" channel="Sky Sport Bundesliga 5 HD.skyde">
+<programme start="20260517120000 +0000" stop="20260517160000 +0000" channel="Sky Sport Bundesliga 5 HD.skyde">
     <title>Live 2. BL: SV Darmstadt 98 - SC Paderborn 07, 34. Spieltag</title>
 </programme>
 <programme start="20260517114000 +0000" stop="20260517120000 +0000" channel="Sky Sport Bundesliga 6 HD.skyde">
     <title>Es folgt: LIVE 2. Bundesliga</title>
 </programme>
-<programme start="20260517120000 +0000" stop="20260517163000 +0000" channel="Sky Sport Bundesliga 6 HD.skyde">
+<programme start="20260517120000 +0000" stop="20260517160000 +0000" channel="Sky Sport Bundesliga 6 HD.skyde">
     <title>Live 2. BL: SpVgg Greuther Fürth - Fortuna Düsseldorf, 34. Spieltag</title>
 </programme>
 <programme start="20260517114000 +0000" stop="20260517120000 +0000" channel="Sky Sport Bundesliga 7 HD.skyde">
@@ -2695,13 +2638,13 @@
 <programme start="20260517114000 +0000" stop="20260517120000 +0000" channel="Sky Sport Bundesliga 8 HD.skyde">
     <title>Es folgt: LIVE 2. Bundesliga</title>
 </programme>
-<programme start="20260517120000 +0000" stop="20260517163000 +0000" channel="Sky Sport Bundesliga 8 HD.skyde">
+<programme start="20260517120000 +0000" stop="20260517160000 +0000" channel="Sky Sport Bundesliga 8 HD.skyde">
     <title>Live 2. BL: Dynamo Dresden - Holstein Kiel, 34. Spieltag</title>
 </programme>
 <programme start="20260517114000 +0000" stop="20260517120000 +0000" channel="Sky Sport Bundesliga 9 HD.skyde">
     <title>Es folgt: LIVE 2. Bundesliga</title>
 </programme>
-<programme start="20260517120000 +0000" stop="20260517163000 +0000" channel="Sky Sport Bundesliga 9 HD.skyde">
+<programme start="20260517120000 +0000" stop="20260517160000 +0000" channel="Sky Sport Bundesliga 9 HD.skyde">
     <title>Live 2. BL: 1. FC Magdeburg - 1. FC Kaiserslautern, 34. Spieltag</title>
 </programme>
 <programme start="20260517114000 +0000" stop="20260517120000 +0000" channel="Sky Sport Bundesliga 10 HD.skyde">
@@ -3030,9 +2973,6 @@
 </programme>
 <programme start="20260517180000 +0000" stop="20260517230000 +0000" channel="Sky Sport Top Event HD.skyde">
     <title>Live PGA Championship: 4. Tag in Newtown Square, PA (USA)</title>
-</programme>
-<programme start="20260517214000 +0000" stop="20260517220000 +0000" channel="Sky Sport 1 HD.skyde">
-    <title>Es folgt: LIVE WNBA</title>
 </programme>
 <programme start="20260516224000 +0000" stop="20260516232500 +0000" channel="SYFY HD.skyde">
     <title>Stargate SG-1</title>

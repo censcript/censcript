@@ -6451,16 +6451,10 @@
     <programme start="20260517150300 +0000" stop="20260517170100 +0000" channel="TV5MONDE HD.starhub">
         <title>#Investigation</title>
     </programme>
-    <programme start="20260516150000 +0000" stop="20260516170000 +0000" channel="Hub Sports 1  HD.starhub">
+    <programme start="20260516160000 +0000" stop="20260516192800 +0000" channel="Hub Sports 1  HD.starhub">
         <title>Internazionali BNL d’Italia (1000) Final</title>
     </programme>
-    <programme start="20260516170000 +0000" stop="20260516180000 +0000" channel="Hub Sports 1  HD.starhub">
-        <title>Barcelona Open Banc Sabadell</title>
-    </programme>
-    <programme start="20260516180000 +0000" stop="20260516183000 +0000" channel="Hub Sports 1  HD.starhub">
-        <title>Season 4 Episode 2</title>
-    </programme>
-    <programme start="20260516183000 +0000" stop="20260516203000 +0000" channel="Hub Sports 1  HD.starhub">
+    <programme start="20260516192800 +0000" stop="20260516203000 +0000" channel="Hub Sports 1  HD.starhub">
         <title>Tiriac Open p/b Unicredit Bank (250) SF 2</title>
     </programme>
     <programme start="20260516203000 +0000" stop="20260516230000 +0000" channel="Hub Sports 1  HD.starhub">
