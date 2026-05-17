@@ -2581,7 +2581,7 @@
 <programme start="20260517113000 +0000" stop="20260517143000 +0000" channel="Sky Sport Austria 4 HD.skyde">
     <title>Live Admiral BL: FC Red Bull Salzburg - TSV Egger Glas Hartberg, 32. Runde</title>
 </programme>
-<programme start="20260517143000 +0000" stop="20260517160000 +0000" channel="Sky Sport Austria 4 HD.skyde">
+<programme start="20260517143000 +0000" stop="20260517163000 +0000" channel="Sky Sport Austria 4 HD.skyde">
     <title>Live Admiral BL: Alle Spiele, alle Tore 32. Runde (Sonntag)</title>
 </programme>
 <programme start="20260516223000 +0000" stop="20260517000500 +0000" channel="Sky Sport Bundesliga HD.skyde">
@@ -2698,13 +2698,13 @@
 <programme start="20260517120000 +0000" stop="20260517163000 +0000" channel="Sky Sport Bundesliga 2 HD.skyde">
     <title>Live 2. BL: FC Schalke 04 - Eintracht Braunschweig, 34. Spieltag</title>
 </programme>
-<programme start="20260517163000 +0000" stop="20260517180000 +0000" channel="Sky Sport Bundesliga 2 HD.skyde">
+<programme start="20260517163000 +0000" stop="20260517183000 +0000" channel="Sky Sport Bundesliga 2 HD.skyde">
     <title>Live 2. BL Alle Spiele, alle Tore: Die Vodafone Highlight-Show, 34. Spieltag</title>
 </programme>
 <programme start="20260517114000 +0000" stop="20260517120000 +0000" channel="Sky Sport Bundesliga 3 HD.skyde">
     <title>Es folgt: LIVE 2. Bundesliga</title>
 </programme>
-<programme start="20260517120000 +0000" stop="20260517160000 +0000" channel="Sky Sport Bundesliga 3 HD.skyde">
+<programme start="20260517120000 +0000" stop="20260517163000 +0000" channel="Sky Sport Bundesliga 3 HD.skyde">
     <title>Live 2. BL: SV Elversberg - Preußen Münster, 34. Spieltag</title>
 </programme>
 <programme start="20260517114000 +0000" stop="20260517120000 +0000" channel="Sky Sport Bundesliga 4 HD.skyde">
@@ -2722,7 +2722,7 @@
 <programme start="20260517114000 +0000" stop="20260517120000 +0000" channel="Sky Sport Bundesliga 6 HD.skyde">
     <title>Es folgt: LIVE 2. Bundesliga</title>
 </programme>
-<programme start="20260517120000 +0000" stop="20260517160000 +0000" channel="Sky Sport Bundesliga 6 HD.skyde">
+<programme start="20260517120000 +0000" stop="20260517163000 +0000" channel="Sky Sport Bundesliga 6 HD.skyde">
     <title>Live 2. BL: SpVgg Greuther Fürth - Fortuna Düsseldorf, 34. Spieltag</title>
 </programme>
 <programme start="20260517114000 +0000" stop="20260517120000 +0000" channel="Sky Sport Bundesliga 7 HD.skyde">
@@ -2734,7 +2734,7 @@
 <programme start="20260517114000 +0000" stop="20260517120000 +0000" channel="Sky Sport Bundesliga 8 HD.skyde">
     <title>Es folgt: LIVE 2. Bundesliga</title>
 </programme>
-<programme start="20260517120000 +0000" stop="20260517160000 +0000" channel="Sky Sport Bundesliga 8 HD.skyde">
+<programme start="20260517120000 +0000" stop="20260517163000 +0000" channel="Sky Sport Bundesliga 8 HD.skyde">
     <title>Live 2. BL: Dynamo Dresden - Holstein Kiel, 34. Spieltag</title>
 </programme>
 <programme start="20260517114000 +0000" stop="20260517120000 +0000" channel="Sky Sport Bundesliga 9 HD.skyde">
@@ -2746,7 +2746,7 @@
 <programme start="20260517114000 +0000" stop="20260517120000 +0000" channel="Sky Sport Bundesliga 10 HD.skyde">
     <title>Es folgt: LIVE 2. Bundesliga</title>
 </programme>
-<programme start="20260517120000 +0000" stop="20260517160000 +0000" channel="Sky Sport Bundesliga 10 HD.skyde">
+<programme start="20260517120000 +0000" stop="20260517163000 +0000" channel="Sky Sport Bundesliga 10 HD.skyde">
     <title>Live 2. BL: Karlsruher SC - VfL Bochum, 34. Spieltag</title>
 </programme>
 <programme start="20260516220000 +0000" stop="20260517000000 +0000" channel="Sky Sport F1 HD.skyde">
@@ -3069,9 +3069,6 @@
 </programme>
 <programme start="20260517180000 +0000" stop="20260517230000 +0000" channel="Sky Sport Top Event HD.skyde">
     <title>Live PGA Championship: 4. Tag in Newtown Square, PA (USA)</title>
-</programme>
-<programme start="20260517214000 +0000" stop="20260517220000 +0000" channel="Sky Sport 1 HD.skyde">
-    <title>Es folgt: LIVE WNBA</title>
 </programme>
 <programme start="20260516224000 +0000" stop="20260516232500 +0000" channel="SYFY HD.skyde">
     <title>Stargate SG-1</title>
